@@ -641,7 +641,9 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                 )
         home_lines.append("")
 
-    (docs_dir / "index.md").write_text("\n".join(home_lines), encoding="utf-8")
+    index_md = docs_dir / "index.md"
+    if not index_md.exists():
+        index_md.write_text("\n".join(home_lines), encoding="utf-8")
     mkdocs_path.write_text("\n".join(nav_lines) + "\n", encoding="utf-8")
 
 
