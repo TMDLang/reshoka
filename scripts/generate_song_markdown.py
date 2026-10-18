@@ -379,7 +379,7 @@ def generate_song_folder(
 
 {credits_block}
 
-- note
+## 說明
 
 {notes_block}
 
@@ -389,7 +389,7 @@ def generate_song_folder(
 {lyrics_block}
 ```
 {images_section}
-## 調性分析
+## 分析
 
 ```text
 {analysis.rstrip()}
@@ -509,7 +509,63 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
     ]
 
     nav_lines = [
-        "site_name: Re:shoka",
+        "site_name: Re:shoka — 百年歌曲重建計畫",
+        "site_description: 日治時期臺灣公學校與小學校音樂教材數位化、TMD 樂譜重建、雙手鋼琴伴奏編曲與調性分析資料庫。",
+        "site_author: TMD Contributors",
+        "site_url: https://tmdlang.github.io/reshoka/",
+        "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
+        "# repo_url: https://github.com/tmdlang/reshoka",
+        "",
+        "theme:",
+        "  name: material",
+        "  language: zh-Hant",
+        "  palette:",
+        "    # Light mode",
+        '    - media: "(prefers-color-scheme: light)"',
+        "      scheme: default",
+        "      primary: white",
+        "      accent: indigo",
+        "      toggle:",
+        "        icon: material/brightness-7",
+        "        name: 切換為深色模式",
+        "    # Dark mode",
+        '    - media: "(prefers-color-scheme: dark)"',
+        "      scheme: slate",
+        "      primary: black",
+        "      accent: indigo",
+        "      toggle:",
+        "        icon: material/brightness-4",
+        "        name: 切換為淺色模式",
+        "  features:",
+        "    - navigation.instant",
+        "    - navigation.tracking",
+        "    - navigation.top",
+        "    - search.suggest",
+        "    - search.highlight",
+        "    - content.code.copy",
+        "",
+        "markdown_extensions:",
+        "  - admonition",
+        "  - pymdownx.details",
+        "  - pymdownx.superfences:",
+        "      custom_fences:",
+        "        - name: mermaid",
+        "          class: mermaid",
+        "          format: !!python/name:pymdownx.superfences.fence_code_format",
+        "  - pymdownx.highlight:",
+        "      anchor_linenums: true",
+        "      line_spans: __span",
+        "      pygments_lang_class: true",
+        "  - pymdownx.inlinehilite",
+        "  - pymdownx.snippets",
+        "  - pymdownx.tabbed:",
+        "      alternate_style: true",
+        "  - attr_list",
+        "  - md_in_html",
+        "  - tables",
+        "  - toc:",
+        "      permalink: true",
+        "",
         "nav:",
         "  - 首頁: index.md",
     ]
