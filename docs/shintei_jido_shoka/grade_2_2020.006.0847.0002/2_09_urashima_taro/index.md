@@ -32,11 +32,28 @@
 あけてびっくりしらがあたま
 ```
 
-## 原書掃描頁
+## ABC
 
-![P038.jpg](P038.jpg)
+```abc
+X:1
+T:うらしま太郎
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 c2 f4 | g2 g2 a4 | c2 c2 a2 f2 | g6 z2 |
+a3 a g2 g2 | f2 f2 d4 | c2 c2 f2 g2 | a6 z2 |
+a3 b c2 d2 | c3 c a4 | g2 g2 a2 f2 | g6 z2 |
+c3 c a2 g2 | f2 f2 d2 d2 | c2 f2 a2 g2 | f6 z2 |
+```
 
-![P039.jpg](P039.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](urashima_taro.tmd)
+- [鋼琴伴奏 TMD 檔案](urashima_taro_piano.tmd)
 
 ## 分析
 
@@ -92,23 +109,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:うらしま太郎
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 f4 | g2 g2 a4 | c2 c2 a2 f2 | g6 z2 |
-a3 a g2 g2 | f2 f2 d4 | c2 c2 f2 g2 | a6 z2 |
-a3 b c2 d2 | c3 c a4 | g2 g2 a2 f2 | g6 z2 |
-c3 c a2 g2 | f2 f2 d2 d2 | c2 f2 a2 g2 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](urashima_taro.tmd)
-- [鋼琴伴奏 TMD 檔案](urashima_taro_piano.tmd)
+![P038.jpg](P038.jpg)
+
+![P039.jpg](P039.jpg)
+
+

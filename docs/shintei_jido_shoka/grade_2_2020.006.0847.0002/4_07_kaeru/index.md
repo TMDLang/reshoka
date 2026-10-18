@@ -27,9 +27,28 @@
 イケヘカヘツテミンナトアソブ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P060.jpg](P060.jpg)
+```abc
+X:1
+T:カヘル
+C:曲：小松耕輔
+M:2/4
+L:1/16
+Q:1/4=100
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 a2 g2 | e2 d2 c2 c2 | d2 e d c4 | d2 e2 g2 z2 |
+a4 c2 a2 | g2 a2 g2 e2 | d2 c2 d2 g2 | e2 c2 c2 z2 |
+c4 a2 g2 | c2 c2 a2 g2 | e4 e2 d2 | c2 d2 e2 g2 |
+a4 c2 a2 | g2 a2 g2 e2 | d2 c2 d2 g2 | e2 c2 c2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kaeru.tmd)
+- [鋼琴伴奏 TMD 檔案](kaeru_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:カヘル
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 a2 g2 | e2 d2 c2 c2 | d2 e d c4 | d2 e2 g2 z2 |
-a4 c2 a2 | g2 a2 g2 e2 | d2 c2 d2 g2 | e2 c2 c2 z2 |
-c4 a2 g2 | c2 c2 a2 g2 | e4 e2 d2 | c2 d2 e2 g2 |
-a4 c2 a2 | g2 a2 g2 e2 | d2 c2 d2 g2 | e2 c2 c2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kaeru.tmd)
-- [鋼琴伴奏 TMD 檔案](kaeru_piano.tmd)
+![P060.jpg](P060.jpg)
+
+

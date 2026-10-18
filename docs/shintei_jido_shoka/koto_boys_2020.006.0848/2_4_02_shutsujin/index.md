@@ -33,9 +33,32 @@
 あなうれし彼あり
 ```
 
-## 原書掃描頁
+## ABC
 
-![P119.jpg](P119.jpg)
+```abc
+X:1
+T:出陣
+C:曲：シルヘル（獨）（Silcher）
+M:3/4
+L:1/16
+Q:1/4=80
+K:F
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+[V:V1]
+!p! z4 z4 z2 c2 | f2 g2 a2 b2 c4 | !mp! d3 c b2 a2 z2 c2 | c2 b2 a2 g2 f4 |
+!mf! a2 g3 a g2 z2 c2 | g2 g2 a2 b2 b2 a2 | a3 g g2 c2 z2 c2 | b2 g2 f2 e2 f2 b2 |
+!f! a2 g3 g f2 z2 c2 | a2 b2 c2 d2 c2 b2 | a2 g3 a f2 z4 |
+[V:V2]
+!p! z4 z4 z2 c2 | f2 e2 f2 g2 a4 | !mp! b3 a g2 f2 z2 a2 | a2 g2 f2 e2 f4 |
+!mf! f2 e3 f e2 z2 c2 | e2 e2 f2 g2 g2 f2 | f3 e e2 a2 z2 a2 | g2 e2 d2 c2 d2 g2 |
+!f! f2 e3 e f2 z2 c2 | f2 g2 a2 b2 a2 g2 | f2 e3 f f2 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shutsujin.tmd)
+- [鋼琴伴奏 TMD 檔案](shutsujin_piano.tmd)
 
 ## 分析
 
@@ -92,27 +115,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:出陣
-C:曲：シルヘル（獨）（Silcher）
-M:3/4
-L:1/16
-Q:1/4=80
-K:F
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!p! z4 z4 z2 c2 | f2 g2 a2 b2 c4 | !mp! d3 c b2 a2 z2 c2 | c2 b2 a2 g2 f4 |
-!mf! a2 g3 a g2 z2 c2 | g2 g2 a2 b2 b2 a2 | a3 g g2 c2 z2 c2 | b2 g2 f2 e2 f2 b2 |
-!f! a2 g3 g f2 z2 c2 | a2 b2 c2 d2 c2 b2 | a2 g3 a f2 z4 |
-[V:V2]
-!p! z4 z4 z2 c2 | f2 e2 f2 g2 a4 | !mp! b3 a g2 f2 z2 a2 | a2 g2 f2 e2 f4 |
-!mf! f2 e3 f e2 z2 c2 | e2 e2 f2 g2 g2 f2 | f3 e e2 a2 z2 a2 | g2 e2 d2 c2 d2 g2 |
-!f! f2 e3 e f2 z2 c2 | f2 g2 a2 b2 a2 g2 | f2 e3 f f2 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shutsujin.tmd)
-- [鋼琴伴奏 TMD 檔案](shutsujin_piano.tmd)
+![P119.jpg](P119.jpg)
+
+

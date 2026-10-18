@@ -33,9 +33,27 @@
 ミエタラ　コイ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P020.jpg](P020.jpg)
+```abc
+X:1
+T:イケノコヒ
+C:曲：文部省
+M:2/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b3 a g2 d2 | b3 a g2 d2 | g2 a2 b3 c | a6 z2 |
+g3 a b2 a2 | a3 g e2 d2 | d3 d e2 d2 | d8 |
+d3 d d2 B2 | g3 g g2 a2 | b b b b d2 z2 | a a a a g2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ike_no_koi.tmd)
+- [鋼琴伴奏 TMD 檔案](ike_no_koi_piano.tmd)
 
 ## 分析
 
@@ -91,22 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:イケノコヒ
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b3 a g2 d2 | b3 a g2 d2 | g2 a2 b3 c | a6 z2 |
-g3 a b2 a2 | a3 g e2 d2 | d3 d e2 d2 | d8 |
-d3 d d2 B2 | g3 g g2 a2 | b b b b d2 z2 | a a a a g2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ike_no_koi.tmd)
-- [鋼琴伴奏 TMD 檔案](ike_no_koi_piano.tmd)
+![P020.jpg](P020.jpg)
+
+

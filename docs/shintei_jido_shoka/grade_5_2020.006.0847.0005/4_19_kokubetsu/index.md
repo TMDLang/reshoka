@@ -29,9 +29,29 @@
 さらばわが友いざさらば
 ```
 
-## 原書掃描頁
+## ABC
 
-![P079.jpg](P079.jpg)
+```abc
+X:1
+T:告別
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=84
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z4 z4 c4 | f6 f2 f4 a4 | g6 f2 g4 a2 g2 | f6 f2 a4 c4 |
+d8 z4 d4 | c6 a2 a4 f4 | g6 f2 g4 a2 g2 | f6 d2 d4 c4 |
+f8 z4 d4 | c6 a2 a4 f4 | g6 f2 g4 d4 | c6 a2 a4 c4 |
+d8 z4 d4 | c6 a2 a4 f4 | g6 f2 g4 a2 g2 | f6 d2 d4 c4 |
+f8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kokubetsu.tmd)
+- [鋼琴伴奏 TMD 檔案](kokubetsu_piano.tmd)
 
 ## 分析
 
@@ -87,24 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:告別
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 c4 | f6 f2 f4 a4 | g6 f2 g4 a2 g2 | f6 f2 a4 c4 |
-d8 z4 d4 | c6 a2 a4 f4 | g6 f2 g4 a2 g2 | f6 d2 d4 c4 |
-f8 z4 d4 | c6 a2 a4 f4 | g6 f2 g4 d4 | c6 a2 a4 c4 |
-d8 z4 d4 | c6 a2 a4 f4 | g6 f2 g4 a2 g2 | f6 d2 d4 c4 |
-f8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kokubetsu.tmd)
-- [鋼琴伴奏 TMD 檔案](kokubetsu_piano.tmd)
+![P079.jpg](P079.jpg)
+
+

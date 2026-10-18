@@ -28,9 +28,29 @@
 機械（きかい）の音（おと）や響（ひゞ）くらん
 ```
 
-## 原書掃描頁
+## ABC
 
-![P036.jpg](P036.jpg)
+```abc
+X:1
+T:朝の歌
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z2 d2 | g3 f g2 a2 | b3 a b2 d2 | c2 b2 a2 g2 |
+a4 z2 d2 | g3 f g2 a2 | b3 c d2 b2 | a2 d2 ^c2 a2 |
+d4 z2 d2 | e2 b2 c2 a2 | d2 a2 b2 g2 | c2 b2 a2 g2 |
+b4 a2 d2 | g2 b2 a2 c2 | b3 c d2 e2 | d2 g2 b2 a2 |
+g4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](asa_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](asa_no_uta_piano.tmd)
 
 ## 分析
 
@@ -86,24 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:朝の歌
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z2 d2 | g3 f g2 a2 | b3 a b2 d2 | c2 b2 a2 g2 |
-a4 z2 d2 | g3 f g2 a2 | b3 c d2 b2 | a2 d2 ^c2 a2 |
-d4 z2 d2 | e2 b2 c2 a2 | d2 a2 b2 g2 | c2 b2 a2 g2 |
-b4 a2 d2 | g2 b2 a2 c2 | b3 c d2 e2 | d2 g2 b2 a2 |
-g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](asa_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](asa_no_uta_piano.tmd)
+![P036.jpg](P036.jpg)
+
+

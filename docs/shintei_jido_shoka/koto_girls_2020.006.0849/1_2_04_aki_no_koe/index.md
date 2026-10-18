@@ -26,9 +26,32 @@
 櫓聲（ろごゑ）に似（に）たる　雁（かり）のなくね
 ```
 
-## 原書掃描頁
+## ABC
 
-![P049.jpg](P049.jpg)
+```abc
+X:1
+T:秋の聲
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=67
+K:Em
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! e2 g2 b2 b4 b2 | c6 b6 | a2 g2 a2 b4 c2 | b10 z2 |
+e2 g2 b2 b4 e2 | f6 B6 | e2 f2 g2 a4 g2 | f10 z2 |
+!f! b2 a2 b2 c4 b2 | e6 d4 b2 | a2 g2 a2 b4 e2 | b10 z2 |
+!mf! e2 f2 g2 a4 b2 | c6 b4 e2 | b2 a2 g2 f4 g2 | e10 z2 |
+!mf! e2 g2 b2 b4 b2 | c6 b6 | a2 g2 a2 b4 c2 | b10 z2 |
+e2 g2 b2 b4 e2 | f6 B6 | e2 f2 g2 a4 g2 | f10 z2 |
+!f! b2 a2 b2 c4 b2 | e6 d4 b2 | a2 g2 a2 b4 e2 | b10 z2 |
+!mf! e2 f2 g2 a4 b2 | c6 b4 e2 | b2 a2 g2 f4 g2 | e10 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](aki_no_koe.tmd)
+- [鋼琴伴奏 TMD 檔案](aki_no_koe_piano.tmd)
 
 ## 分析
 
@@ -85,27 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:秋の聲
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=67
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! e2 g2 b2 b4 b2 | c6 b6 | a2 g2 a2 b4 c2 | b10 z2 |
-e2 g2 b2 b4 e2 | f6 B6 | e2 f2 g2 a4 g2 | f10 z2 |
-!f! b2 a2 b2 c4 b2 | e6 d4 b2 | a2 g2 a2 b4 e2 | b10 z2 |
-!mf! e2 f2 g2 a4 b2 | c6 b4 e2 | b2 a2 g2 f4 g2 | e10 z2 |
-!mf! e2 g2 b2 b4 b2 | c6 b6 | a2 g2 a2 b4 c2 | b10 z2 |
-e2 g2 b2 b4 e2 | f6 B6 | e2 f2 g2 a4 g2 | f10 z2 |
-!f! b2 a2 b2 c4 b2 | e6 d4 b2 | a2 g2 a2 b4 e2 | b10 z2 |
-!mf! e2 f2 g2 a4 b2 | c6 b4 e2 | b2 a2 g2 f4 g2 | e10 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](aki_no_koe.tmd)
-- [鋼琴伴奏 TMD 檔案](aki_no_koe_piano.tmd)
+![P049.jpg](P049.jpg)
+
+

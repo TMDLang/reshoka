@@ -36,9 +36,30 @@
 いつむうななや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P045.jpg](P045.jpg)
+```abc
+X:1
+T:もみぢ
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=96
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z2 b2 | c2 b z g z b2 | c2 b4 z2 | c2 b2 g2 b2 |
+f2 g f e2 z2 | !mp! f2 f g a z c2 | b3 c b2 g z | b z g z b z g z |
+f6 z2 | !mf! g2 g a b z e2 | !p! d3 c d2 b z | c z b z c z b z |
+e6 z2 | !mf! c4 e2 z2 | !f! d4 f2 z2 | !mp! e2 d c b2 g2 |
+a2 f2 e2 z2 | g3 a b4 | c3 d e4 | b2 g e f2 b2 |
+e6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](momiji.tmd)
+- [鋼琴伴奏 TMD 檔案](momiji_piano.tmd)
 
 ## 分析
 
@@ -94,25 +115,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:もみぢ
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=96
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z2 b2 | c2 b z g z b2 | c2 b4 z2 | c2 b2 g2 b2 |
-f2 g f e2 z2 | !mp! f2 f g a z c2 | b3 c b2 g z | b z g z b z g z |
-f6 z2 | !mf! g2 g a b z e2 | !p! d3 c d2 b z | c z b z c z b z |
-e6 z2 | !mf! c4 e2 z2 | !f! d4 f2 z2 | !mp! e2 d c b2 g2 |
-a2 f2 e2 z2 | g3 a b4 | c3 d e4 | b2 g e f2 b2 |
-e6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](momiji.tmd)
-- [鋼琴伴奏 TMD 檔案](momiji_piano.tmd)
+![P045.jpg](P045.jpg)
+
+

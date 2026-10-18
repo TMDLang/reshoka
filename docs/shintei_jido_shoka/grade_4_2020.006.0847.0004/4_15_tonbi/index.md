@@ -30,9 +30,28 @@
 たのしげに　輪をかいて
 ```
 
-## 原書掃描頁
+## ABC
 
-![P074.jpg](P074.jpg)
+```abc
+X:1
+T:とんび
+C:曲：梁田貞
+M:4/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c6 e2 g3 a g3 e | c8 a8 | g6 e2 a3 g e3 c | d12 z4 |
+c6 e2 g3 a g3 e | d8 c8 | a6 c2 g3 a g3 e | c12 z4 |
+c7 a g8 | a7 g e8 | d7 c a8 | c7 a g8 |
+c6 e2 g3 a c3 d | e12 z4 | d6 c2 a3 c g3 e | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tonbi.tmd)
+- [鋼琴伴奏 TMD 檔案](tonbi_piano.tmd)
 
 ## 分析
 
@@ -88,23 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:とんび
-C:曲：梁田貞
-M:4/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c6 e2 g3 a g3 e | c8 a8 | g6 e2 a3 g e3 c | d12 z4 |
-c6 e2 g3 a g3 e | d8 c8 | a6 c2 g3 a g3 e | c12 z4 |
-c7 a g8 | a7 g e8 | d7 c a8 | c7 a g8 |
-c6 e2 g3 a c3 d | e12 z4 | d6 c2 a3 c g3 e | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tonbi.tmd)
-- [鋼琴伴奏 TMD 檔案](tonbi_piano.tmd)
+![P074.jpg](P074.jpg)
+
+

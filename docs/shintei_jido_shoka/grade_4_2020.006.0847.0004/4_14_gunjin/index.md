@@ -32,11 +32,30 @@
 進むよ進むよ　敵艦（てきかん）目がけて
 ```
 
-## 原書掃描頁
+## ABC
 
-![P072.jpg](P072.jpg)
+```abc
+X:1
+T:軍人
+C:曲：田村虎藏
+M:4/4
+L:1/16
+Q:1/4=116
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! a6 g2 f4 g4 | a3 a g3 f d4 c2 z2 | f6 a2 c4 a4 | c3 d c3 a g3 a g2 z2 |
+f6 g2 a4 c4 | d3 c a3 g f4 z4 | d6 f2 g3 a g4 | c3 d c3 a f4 z4 |
+!f! d6 a2 c6 a2 | g4 c4 d4 c4 | !mf! f6 g2 a4 c4 | g4 a4 g4 f4 |
+d6 f2 g4 a4 | g3 f g3 a g4 z4 | f6 a2 c4 d4 | c4 c4 a4 z4 |
+!f! f6 d2 c6 a2 | g4 f4 d4 c4 | f6 g2 a6 g2 | f6 d2 c4 f4 |
+!mf! d6 f2 f4 g4 | a6 g2 g2 a2 z4 | f6 a2 c4 d4 | c6 d2 c2 f2 z4 |
+```
 
-![P073.jpg](P073.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gunjin.tmd)
+- [鋼琴伴奏 TMD 檔案](gunjin_piano.tmd)
 
 ## 分析
 
@@ -92,25 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:軍人
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! a6 g2 f4 g4 | a3 a g3 f d4 c2 z2 | f6 a2 c4 a4 | c3 d c3 a g3 a g2 z2 |
-f6 g2 a4 c4 | d3 c a3 g f4 z4 | d6 f2 g3 a g4 | c3 d c3 a f4 z4 |
-!f! d6 a2 c6 a2 | g4 c4 d4 c4 | !mf! f6 g2 a4 c4 | g4 a4 g4 f4 |
-d6 f2 g4 a4 | g3 f g3 a g4 z4 | f6 a2 c4 d4 | c4 c4 a4 z4 |
-!f! f6 d2 c6 a2 | g4 f4 d4 c4 | f6 g2 a6 g2 | f6 d2 c4 f4 |
-!mf! d6 f2 f4 g4 | a6 g2 g2 a2 z4 | f6 a2 c4 d4 | c6 d2 c2 f2 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gunjin.tmd)
-- [鋼琴伴奏 TMD 檔案](gunjin_piano.tmd)
+![P072.jpg](P072.jpg)
+
+![P073.jpg](P073.jpg)
+
+

@@ -33,9 +33,27 @@
 ハタケニオリテ　ヒガクレル
 ```
 
-## 原書掃描頁
+## ABC
 
-![P053.jpg](P053.jpg)
+```abc
+X:1
+T:ヒバリ
+C:曲：山田耕作
+M:2/4
+L:1/16
+Q:1/4=88
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 a a4 | c3 a a4 | f3 d d4 | f3 d d4 |
+c3 f f4 | a3 f f4 | g4 c2 z2 | c2 c2 d2 d2 |
+c2 c2 a2 f2 | g4 f2 f2 | a4 g4 | f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hibari.tmd)
+- [鋼琴伴奏 TMD 檔案](hibari_piano.tmd)
 
 ## 分析
 
@@ -91,22 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ヒバリ
-C:曲：山田耕作
-M:2/4
-L:1/16
-Q:1/4=88
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 a a4 | c3 a a4 | f3 d d4 | f3 d d4 |
-c3 f f4 | a3 f f4 | g4 c2 z2 | c2 c2 d2 d2 |
-c2 c2 a2 f2 | g4 f2 f2 | a4 g4 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hibari.tmd)
-- [鋼琴伴奏 TMD 檔案](hibari_piano.tmd)
+![P053.jpg](P053.jpg)
+
+

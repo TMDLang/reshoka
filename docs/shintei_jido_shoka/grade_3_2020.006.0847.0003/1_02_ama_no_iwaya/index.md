@@ -29,9 +29,29 @@
 喜（よろこ）びに滿（み）ちわたりぬ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P026.jpg](P026.jpg)
+```abc
+X:1
+T:天の岩屋
+C:曲：小松耕輔
+M:4/4
+L:1/16
+Q:1/4=80
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 d4 g4 b4 | d12 z4 | c6 b2 a4 g4 | a12 z4 |
+e4 e4 g3 g d4 | e4 e4 z4 d3 d | g4 b4 d8 | c8 b8 |
+b6 b2 a4 d4 | g4 z4 d3 d d3 b | e8 d8 | c3 b a4 g8 |
+b8 a8 | d6 d2 g4 b4 | d12 z4 | d3 d d4 b4 a3 a |
+g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ama_no_iwaya.tmd)
+- [鋼琴伴奏 TMD 檔案](ama_no_iwaya_piano.tmd)
 
 ## 分析
 
@@ -87,24 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:天の岩屋
-C:曲：小松耕輔
-M:4/4
-L:1/16
-Q:1/4=80
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 d4 g4 b4 | d12 z4 | c6 b2 a4 g4 | a12 z4 |
-e4 e4 g3 g d4 | e4 e4 z4 d3 d | g4 b4 d8 | c8 b8 |
-b6 b2 a4 d4 | g4 z4 d3 d d3 b | e8 d8 | c3 b a4 g8 |
-b8 a8 | d6 d2 g4 b4 | d12 z4 | d3 d d4 b4 a3 a |
-g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ama_no_iwaya.tmd)
-- [鋼琴伴奏 TMD 檔案](ama_no_iwaya_piano.tmd)
+![P026.jpg](P026.jpg)
+
+

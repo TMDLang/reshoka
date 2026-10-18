@@ -39,9 +39,28 @@
 きじがつなひくえんやらや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P033.jpg](P033.jpg)
+```abc
+X:1
+T:ももたらう
+C:曲：田村虎藏
+M:2/4
+L:1/16
+Q:1/4=108
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f3 f e2 d2 | f3 f e2 d2 | a3 b a3 f | e6 z2 |
+f3 f e2 f2 | a3 b a2 f2 | e3 e f2 e2 | d6 z2 |
+a3 a a4 | b3 b a2 f2 | d3 d b2 d2 | a6 z2 |
+b3 b d2 b2 | a2 a2 f4 | a3 f e2 f2 | d6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](momotaro.tmd)
+- [鋼琴伴奏 TMD 檔案](momotaro_piano.tmd)
 
 ## 分析
 
@@ -97,23 +116,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ももたらう
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=108
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f3 f e2 d2 | f3 f e2 d2 | a3 b a3 f | e6 z2 |
-f3 f e2 f2 | a3 b a2 f2 | e3 e f2 e2 | d6 z2 |
-a3 a a4 | b3 b a2 f2 | d3 d b2 d2 | a6 z2 |
-b3 b d2 b2 | a2 a2 f4 | a3 f e2 f2 | d6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](momotaro.tmd)
-- [鋼琴伴奏 TMD 檔案](momotaro_piano.tmd)
+![P033.jpg](P033.jpg)
+
+

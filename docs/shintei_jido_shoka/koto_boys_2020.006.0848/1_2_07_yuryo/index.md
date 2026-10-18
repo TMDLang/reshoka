@@ -26,9 +26,33 @@
 み獵たゝせる　そのいさましや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P054.jpg](P054.jpg)
+```abc
+X:1
+T:遊獵
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=80
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! z2 z2 z2 z2 z2 d2 | g4 g2 a3 g f2 | e4 c2 d4 g2 | b4 b2 c4 b2 |
+a10 d2 | a4 a2 b4 c2 | d4 b2 g4 b2 | d4 d2 e3 d c2 |
+b6 a4 d2 | g4 g2 a4 a2 | b4 g2 e4 a2 | b4 b2 c3 b a2 |
+d6 c4 b2 | b4 b2 c3 b a2 | g4 d2 e4 g2 | b4 d2 a4 f2 |
+g6 g4 z2 | !f! z2 z2 z2 z2 z2 d2 | g4 g2 a3 g f2 | e4 c2 d4 g2 |
+b4 b2 c4 b2 | a10 d2 | a4 a2 b4 c2 | d4 b2 g4 b2 |
+d4 d2 e3 d c2 | b6 a4 d2 | g4 g2 a4 a2 | b4 g2 e4 a2 |
+b4 b2 c3 b a2 | d6 c4 b2 | b4 b2 c3 b a2 | g4 d2 e4 g2 |
+b4 d2 a4 f2 | g6 g4 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yuryo.tmd)
+- [鋼琴伴奏 TMD 檔案](yuryo_piano.tmd)
 
 ## 分析
 
@@ -85,28 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:遊獵
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=80
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z2 z2 z2 z2 z2 d2 | g4 g2 a3 g f2 | e4 c2 d4 g2 | b4 b2 c4 b2 |
-a10 d2 | a4 a2 b4 c2 | d4 b2 g4 b2 | d4 d2 e3 d c2 |
-b6 a4 d2 | g4 g2 a4 a2 | b4 g2 e4 a2 | b4 b2 c3 b a2 |
-d6 c4 b2 | b4 b2 c3 b a2 | g4 d2 e4 g2 | b4 d2 a4 f2 |
-g6 g4 z2 | !f! z2 z2 z2 z2 z2 d2 | g4 g2 a3 g f2 | e4 c2 d4 g2 |
-b4 b2 c4 b2 | a10 d2 | a4 a2 b4 c2 | d4 b2 g4 b2 |
-d4 d2 e3 d c2 | b6 a4 d2 | g4 g2 a4 a2 | b4 g2 e4 a2 |
-b4 b2 c3 b a2 | d6 c4 b2 | b4 b2 c3 b a2 | g4 d2 e4 g2 |
-b4 d2 a4 f2 | g6 g4 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yuryo.tmd)
-- [鋼琴伴奏 TMD 檔案](yuryo_piano.tmd)
+![P054.jpg](P054.jpg)
+
+

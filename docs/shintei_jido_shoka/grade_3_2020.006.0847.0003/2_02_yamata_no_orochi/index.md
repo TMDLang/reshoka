@@ -45,9 +45,26 @@
 我がすめろぎの寶（たから）とたふとし
 ```
 
-## 原書掃描頁
+## ABC
 
-![P038.jpg](P038.jpg)
+```abc
+X:1
+T:八岐の大蛇（八岐大蛇）
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 c2 d3 c c f f g a2 z2 | b3 a g2 f2 g2 a2 g2 z2 | c2 c2 d3 c c f f a g2 z2 | c2 c2 a3 f g2 g2 c2 z2 |
+c2 c2 c3 a b2 b d c2 z2 | b3 b a2 g2 f2 g a g2 z2 | c2 c2 d3 c c f f a c2 z2 | d2 d2 c3 a g2 a g f2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yamata_no_orochi.tmd)
+- [鋼琴伴奏 TMD 檔案](yamata_no_orochi_piano.tmd)
 
 ## 分析
 
@@ -103,21 +120,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:八岐の大蛇（八岐大蛇）
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 d3 c c f f g a2 z2 | b3 a g2 f2 g2 a2 g2 z2 | c2 c2 d3 c c f f a g2 z2 | c2 c2 a3 f g2 g2 c2 z2 |
-c2 c2 c3 a b2 b d c2 z2 | b3 b a2 g2 f2 g a g2 z2 | c2 c2 d3 c c f f a c2 z2 | d2 d2 c3 a g2 a g f2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yamata_no_orochi.tmd)
-- [鋼琴伴奏 TMD 檔案](yamata_no_orochi_piano.tmd)
+![P038.jpg](P038.jpg)
+
+

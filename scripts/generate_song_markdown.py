@@ -391,12 +391,6 @@ def generate_song_folder(
 ```text
 {lyrics_block}
 ```
-{images_section}
-## 分析
-
-```text
-{analysis.rstrip()}
-```
 
 ## ABC
 
@@ -404,7 +398,18 @@ def generate_song_folder(
 {abc.rstrip()}
 ```
 
+## TMD 檔案連結
+
 {tmd_links_block}
+
+## 分析
+
+```text
+{analysis.rstrip()}
+```
+
+{images_section}
+
 """
     markdown_path.write_text(markdown, encoding="utf-8")
     if legacy_md_path.exists() and legacy_md_path != markdown_path:

@@ -26,9 +26,29 @@
 我等の村は　彌榮（いやさか）ゆなり
 ```
 
-## 原書掃描頁
+## ABC
 
-![P055.jpg](P055.jpg)
+```abc
+X:1
+T:平和なる村
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=80
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! z10 f2 | b2 b2 b4 c4 | d2 c2 b4 z2 b2 | c2 c2 d4 c2 b2 |
+c8 z2 f2 | b2 b2 b6 c2 | d2 c2 b4 z2 d2 | f2 d2 c4 g4 |
+!mf! c8 z2 c2 | d2 d2 d6 d2 | e2 d2 c4 z2 c2 | f4 f6 d2 |
+!f! c2 b2 g4 z2 g2 | f2 b2 b6 c2 | !p! d2 e2 c4 z2 f2 | d2 c2 b4 g2 f2 |
+b8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](heiwa_naru_mura.tmd)
+- [鋼琴伴奏 TMD 檔案](heiwa_naru_mura_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:平和なる村
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=80
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z10 f2 | b2 b2 b4 c4 | d2 c2 b4 z2 b2 | c2 c2 d4 c2 b2 |
-c8 z2 f2 | b2 b2 b6 c2 | d2 c2 b4 z2 d2 | f2 d2 c4 g4 |
-!mf! c8 z2 c2 | d2 d2 d6 d2 | e2 d2 c4 z2 c2 | f4 f6 d2 |
-!f! c2 b2 g4 z2 g2 | f2 b2 b6 c2 | !p! d2 e2 c4 z2 f2 | d2 c2 b4 g2 f2 |
-b8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](heiwa_naru_mura.tmd)
-- [鋼琴伴奏 TMD 檔案](heiwa_naru_mura_piano.tmd)
+![P055.jpg](P055.jpg)
+
+

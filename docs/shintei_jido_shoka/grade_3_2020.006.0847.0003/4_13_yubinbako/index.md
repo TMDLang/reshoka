@@ -33,9 +33,28 @@
 町の辻の　角の　郵便函
 ```
 
-## 原書掃描頁
+## ABC
 
-![P074.jpg](P074.jpg)
+```abc
+X:1
+T:郵便函
+C:曲：永井幸次
+M:2/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 d3 e f a | a b a f a4 | b b d b a2 f2 | a8 |
+B2 d2 B4 | A4 F4 | E E D E F2 E2 | D8 |
+d2 B A F4 | A2 F2 ^C4 | f2 ^c2 a2 f2 | ^c2 d2 c4 |
+d d ^c2 f2 a z | b2 a2 f2 z2 | d2 b2 a2 f2 | ^c2 f c d2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yubinbako.tmd)
+- [鋼琴伴奏 TMD 檔案](yubinbako_piano.tmd)
 
 ## 分析
 
@@ -91,23 +110,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:郵便函
-C:曲：永井幸次
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 d3 e f a | a b a f a4 | b b d b a2 f2 | a8 |
-B2 d2 B4 | A4 F4 | E E D E F2 E2 | D8 |
-d2 B A F4 | A2 F2 ^C4 | f2 ^c2 a2 f2 | ^c2 d2 c4 |
-d d ^c2 f2 a z | b2 a2 f2 z2 | d2 b2 a2 f2 | ^c2 f c d2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yubinbako.tmd)
-- [鋼琴伴奏 TMD 檔案](yubinbako_piano.tmd)
+![P074.jpg](P074.jpg)
+
+

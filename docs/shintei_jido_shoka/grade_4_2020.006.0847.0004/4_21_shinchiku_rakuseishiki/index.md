@@ -27,9 +27,29 @@
 萬代（よろづよ）までと　いはふなり
 ```
 
-## 原書掃描頁
+## ABC
 
-![P081.jpg](P081.jpg)
+```abc
+X:1
+T:新築落成の歌（新築落成式）
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z12 f4 | f8 g4 g4 | a6 a2 g4 a4 | c8 a6 g2 |
+g8 z4 f4 | f8 g4 g4 | a6 a2 g4 a4 | c8 a6 g2 |
+f8 z4 c4 | d6 d2 c4 a4 | d6 d2 c4 c4 | a6 a2 =b6 b2 |
+c8 z4 c4 | f8 g4 g4 | a6 g2 f4 d4 | c8 a6 g2 |
+f8 z8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shinchiku_rakuseishiki.tmd)
+- [鋼琴伴奏 TMD 檔案](shinchiku_rakuseishiki_piano.tmd)
 
 ## 分析
 
@@ -85,24 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:新築落成の歌（新築落成式）
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z12 f4 | f8 g4 g4 | a6 a2 g4 a4 | c8 a6 g2 |
-g8 z4 f4 | f8 g4 g4 | a6 a2 g4 a4 | c8 a6 g2 |
-f8 z4 c4 | d6 d2 c4 a4 | d6 d2 c4 c4 | a6 a2 =b6 b2 |
-c8 z4 c4 | f8 g4 g4 | a6 g2 f4 d4 | c8 a6 g2 |
-f8 z8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shinchiku_rakuseishiki.tmd)
-- [鋼琴伴奏 TMD 檔案](shinchiku_rakuseishiki_piano.tmd)
+![P081.jpg](P081.jpg)
+
+

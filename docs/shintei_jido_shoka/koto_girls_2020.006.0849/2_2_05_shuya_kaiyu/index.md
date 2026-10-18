@@ -31,11 +31,31 @@
 み空の月よ俤（おもかげ）うつせ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P094.jpg](P094.jpg)
+```abc
+X:1
+T:秋夜懷友
+C:曲：Wrighton（美國曲）
+M:3/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! z4 z4 d2 d2 | b6 c b a2 g2 | d8 g2 a2 | b6 b2 b2 c2 |
+a8 d2 d2 | b6 c b a2 g2 | e8 e2 f2 | g6 e2 g2 a2 |
+!mf! g8 b2 c2 | d6 b2 d2 c2 | b8 g2 g2 | a6 a2 f2 g2 |
+a8 b2 c2 | d6 b2 e2 d2 | c8 a2 a2 | b6 b2 a2 ^g2 |
+a8 d2 c2 | b6 c b a2 g2 | d8 g2 a2 | b6 b2 b2 c2 |
+a8 b2 c2 | d6 c2 b2 a2 | e8 g2 a2 | b6 d2 b2 a2 |
+g8 z4 |
+```
 
-![P095.jpg](P095.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shuya_kaiyu.tmd)
+- [鋼琴伴奏 TMD 檔案](shuya_kaiyu_piano.tmd)
 
 ## 分析
 
@@ -91,26 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:秋夜懷友
-C:曲：Wrighton（美國曲）
-M:3/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z4 z4 d2 d2 | b6 c b a2 g2 | d8 g2 a2 | b6 b2 b2 c2 |
-a8 d2 d2 | b6 c b a2 g2 | e8 e2 f2 | g6 e2 g2 a2 |
-!mf! g8 b2 c2 | d6 b2 d2 c2 | b8 g2 g2 | a6 a2 f2 g2 |
-a8 b2 c2 | d6 b2 e2 d2 | c8 a2 a2 | b6 b2 a2 ^g2 |
-a8 d2 c2 | b6 c b a2 g2 | d8 g2 a2 | b6 b2 b2 c2 |
-a8 b2 c2 | d6 c2 b2 a2 | e8 g2 a2 | b6 d2 b2 a2 |
-g8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shuya_kaiyu.tmd)
-- [鋼琴伴奏 TMD 檔案](shuya_kaiyu_piano.tmd)
+![P094.jpg](P094.jpg)
+
+![P095.jpg](P095.jpg)
+
+

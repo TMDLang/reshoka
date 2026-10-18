@@ -18,9 +18,28 @@
 花（はな）と蝶々（てふ／＼）が　おにごつこ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P029.jpg](P029.jpg)
+```abc
+X:1
+T:蝶
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=116
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z2 c2 f2 g2 | a2 a2 g2 f2 | b2 a2 g2 f2 | g2 g2 g2 z2 |
+z2 c2 a2 c2 | d2 d2 c2 a2 | c2 a2 g2 a2 | f6 z2 |
+z2 c2 f2 g2 | a2 a2 g2 f2 | b2 a2 g2 f2 | g2 g2 g2 z2 |
+z2 c2 a2 c2 | d2 d2 c2 a2 | g2 g2 c3 c | f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](cho.tmd)
+- [鋼琴伴奏 TMD 檔案](cho_piano.tmd)
 
 ## 分析
 
@@ -76,23 +95,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:蝶
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 c2 f2 g2 | a2 a2 g2 f2 | b2 a2 g2 f2 | g2 g2 g2 z2 |
-z2 c2 a2 c2 | d2 d2 c2 a2 | c2 a2 g2 a2 | f6 z2 |
-z2 c2 f2 g2 | a2 a2 g2 f2 | b2 a2 g2 f2 | g2 g2 g2 z2 |
-z2 c2 a2 c2 | d2 d2 c2 a2 | g2 g2 c3 c | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](cho.tmd)
-- [鋼琴伴奏 TMD 檔案](cho_piano.tmd)
+![P029.jpg](P029.jpg)
+
+

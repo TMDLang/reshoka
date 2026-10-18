@@ -30,11 +30,29 @@
 アソベアソベ　一シンニ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P018.jpg](P018.jpg)
+```abc
+X:1
+T:ヨクマナビ ヨクアソベ
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c6 c2 f4 g4 | a6 g2 f4 f4 | g6 g2 a6 g2 | g12 z4 |
+c8 a4 g4 | f6 g2 a4 a4 | c4 a4 g6 a2 | f12 z4 |
+g8 g4 g4 | a6 f2 d4 d4 | c6 c2 f4 g4 | a12 z4 |
+c6 c2 a4 g4 | f6 g2 a8 | c6 c2 a6 g2 | f12 z4 |
+c3 c f4 g3 g a4 | c3 c d3 c c4 z4 | b3 b a4 g3 g c4 | g3 g a3 g f4 z4 |
+```
 
-![P019.jpg](P019.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yoku_manabi_yoku_asobe.tmd)
+- [鋼琴伴奏 TMD 檔案](yoku_manabi_yoku_asobe_piano.tmd)
 
 ## 分析
 
@@ -90,24 +108,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ヨクマナビ ヨクアソベ
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c6 c2 f4 g4 | a6 g2 f4 f4 | g6 g2 a6 g2 | g12 z4 |
-c8 a4 g4 | f6 g2 a4 a4 | c4 a4 g6 a2 | f12 z4 |
-g8 g4 g4 | a6 f2 d4 d4 | c6 c2 f4 g4 | a12 z4 |
-c6 c2 a4 g4 | f6 g2 a8 | c6 c2 a6 g2 | f12 z4 |
-c3 c f4 g3 g a4 | c3 c d3 c c4 z4 | b3 b a4 g3 g c4 | g3 g a3 g f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yoku_manabi_yoku_asobe.tmd)
-- [鋼琴伴奏 TMD 檔案](yoku_manabi_yoku_asobe_piano.tmd)
+![P018.jpg](P018.jpg)
+
+![P019.jpg](P019.jpg)
+
+

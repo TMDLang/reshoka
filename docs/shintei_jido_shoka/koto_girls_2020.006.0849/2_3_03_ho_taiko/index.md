@@ -37,11 +37,30 @@
 千載不朽　高き　君が　勳功
 ```
 
-## 原書掃描頁
+## ABC
 
-![P104.jpg](P104.jpg)
+```abc
+X:1
+T:豐太閤
+C:曲：Campbell
+M:6/8
+L:1/16
+Q:3/8=46
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z2 z2 z2 z2 z2 G2 | c4 B2 c6 | d4 e2 f4 g2 | a2 g2 f2 e2 d2 c2 |
+B2 c2 d2 e2 f2 d2 | e6 e2 z2 e f | g2 e2 a2 g2 c3 b | b2 a2 g2 a2 b2 g2 |
+c2 g2 e2 c2 f2 d2 | c6 c4 G G | c6 c4 d e | f2 d2 e2 f2 g2 a2 |
+b2 g2 e2 c2 d2 e2 | d6 d2 z2 G2 | c4 c2 e2 e2 g g | g2 e2 g2 c4 e e |
+f2 e2 f2 g2 a2 b2 | c6 c4 a f | e6 d4 g f | c6 c2 e2 g2 |
+c3 b a2 g2 e2 d2 | c6 c4 z2 |
+```
 
-![P105.jpg](P105.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ho_taiko.tmd)
+- [鋼琴伴奏 TMD 檔案](ho_taiko_piano.tmd)
 
 ## 分析
 
@@ -97,25 +116,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:豐太閤
-C:曲：Campbell
-M:6/8
-L:1/16
-Q:3/8=46
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 z2 z2 z2 z2 G2 | c4 B2 c6 | d4 e2 f4 g2 | a2 g2 f2 e2 d2 c2 |
-B2 c2 d2 e2 f2 d2 | e6 e2 z2 e f | g2 e2 a2 g2 c3 b | b2 a2 g2 a2 b2 g2 |
-c2 g2 e2 c2 f2 d2 | c6 c4 G G | c6 c4 d e | f2 d2 e2 f2 g2 a2 |
-b2 g2 e2 c2 d2 e2 | d6 d2 z2 G2 | c4 c2 e2 e2 g g | g2 e2 g2 c4 e e |
-f2 e2 f2 g2 a2 b2 | c6 c4 a f | e6 d4 g f | c6 c2 e2 g2 |
-c3 b a2 g2 e2 d2 | c6 c4 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ho_taiko.tmd)
-- [鋼琴伴奏 TMD 檔案](ho_taiko_piano.tmd)
+![P104.jpg](P104.jpg)
+
+![P105.jpg](P105.jpg)
+
+

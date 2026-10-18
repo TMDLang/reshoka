@@ -35,9 +35,28 @@
 仰（あふ）ぐ今日（けふ）こそ　樂（たの）しけれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P008.jpg](P008.jpg)
+```abc
+X:1
+T:紀元節
+C:曲：伊澤修二
+M:4/4
+L:1/16
+Q:1/4=80
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 a4 g6 e2 | g6 g2 c4 d4 | c4 a4 g4 e4 | d12 z4 |
+e4 d4 c4 d4 | e4 g4 a8 | g4 e4 c4 d4 | c12 z4 |
+a4 a4 c4 a4 | d4 c4 a8 | g4 a4 g4 e4 | g12 z4 |
+c8 d4 c4 | a4 g4 e8 | d4 g4 e4 d4 | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kigensetsu.tmd)
+- [鋼琴伴奏 TMD 檔案](kigensetsu_piano.tmd)
 
 ## 分析
 
@@ -93,23 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:紀元節
-C:曲：伊澤修二
-M:4/4
-L:1/16
-Q:1/4=80
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 a4 g6 e2 | g6 g2 c4 d4 | c4 a4 g4 e4 | d12 z4 |
-e4 d4 c4 d4 | e4 g4 a8 | g4 e4 c4 d4 | c12 z4 |
-a4 a4 c4 a4 | d4 c4 a8 | g4 a4 g4 e4 | g12 z4 |
-c8 d4 c4 | a4 g4 e8 | d4 g4 e4 d4 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kigensetsu.tmd)
-- [鋼琴伴奏 TMD 檔案](kigensetsu_piano.tmd)
+![P008.jpg](P008.jpg)
+
+

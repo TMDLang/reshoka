@@ -32,9 +32,28 @@
 うたへ／＼とさゝやく如く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P024.jpg](P024.jpg)
+```abc
+X:1
+T:春の小川
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=104
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e4 g4 a4 g4 | c4 a4 c4 a4 | g4 g4 e4 d4 | c4 d4 e4 z4 |
+e4 g4 a4 g4 | c4 a4 c4 a4 | g4 g4 e4 d4 | e4 d4 c4 z4 |
+d4 e4 g4 a4 | g4 a4 g4 e4 | c4 c4 a4 g4 | a4 g4 e4 z4 |
+d4 e4 g4 a4 | g4 a4 g4 e4 | g4 g4 e4 d4 | e4 d4 c4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](haru_no_ogawa.tmd)
+- [鋼琴伴奏 TMD 檔案](haru_no_ogawa_piano.tmd)
 
 ## 分析
 
@@ -90,23 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:春の小川
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=104
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e4 g4 a4 g4 | c4 a4 c4 a4 | g4 g4 e4 d4 | c4 d4 e4 z4 |
-e4 g4 a4 g4 | c4 a4 c4 a4 | g4 g4 e4 d4 | e4 d4 c4 z4 |
-d4 e4 g4 a4 | g4 a4 g4 e4 | c4 c4 a4 g4 | a4 g4 e4 z4 |
-d4 e4 g4 a4 | g4 a4 g4 e4 | g4 g4 e4 d4 | e4 d4 c4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](haru_no_ogawa.tmd)
-- [鋼琴伴奏 TMD 檔案](haru_no_ogawa_piano.tmd)
+![P024.jpg](P024.jpg)
+
+

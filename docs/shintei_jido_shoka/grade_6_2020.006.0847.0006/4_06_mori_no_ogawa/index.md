@@ -28,9 +28,28 @@
 誰（た）がため歌ふか森の小川
 ```
 
-## 原書掃描頁
+## ABC
 
-![P067.jpg](P067.jpg)
+```abc
+X:1
+T:森の小川
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=120
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! A2 d2 e2 f6 | a2 f2 e2 d6 | B2 d2 B8 | A2 F2 A4 z4 |
+A2 d2 e2 f6 | a2 f2 e2 d6 | B2 d2 B8 | A2 E2 D4 z4 |
+!mf! B2 B2 B2 d6 | e2 e2 e2 f6 | e2 d2 B8 | e2 f2 a8 |
+A2 d2 e2 f6 | a2 f2 e2 d6 | !f! B2 e2 d8 | !mp! a2 f2 d4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mori_no_ogawa.tmd)
+- [鋼琴伴奏 TMD 檔案](mori_no_ogawa_piano.tmd)
 
 ## 分析
 
@@ -86,23 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:森の小川
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=120
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! A2 d2 e2 f6 | a2 f2 e2 d6 | B2 d2 B8 | A2 F2 A4 z4 |
-A2 d2 e2 f6 | a2 f2 e2 d6 | B2 d2 B8 | A2 E2 D4 z4 |
-!mf! B2 B2 B2 d6 | e2 e2 e2 f6 | e2 d2 B8 | e2 f2 a8 |
-A2 d2 e2 f6 | a2 f2 e2 d6 | !f! B2 e2 d8 | !mp! a2 f2 d4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](mori_no_ogawa.tmd)
-- [鋼琴伴奏 TMD 檔案](mori_no_ogawa_piano.tmd)
+![P067.jpg](P067.jpg)
+
+

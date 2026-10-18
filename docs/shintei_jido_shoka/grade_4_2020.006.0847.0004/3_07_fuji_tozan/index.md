@@ -34,9 +34,28 @@
 秋の入日のさす夕（ゆふべ）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P056.jpg](P056.jpg)
+```abc
+X:1
+T:富士登山
+C:曲：田村虎藏
+M:2/2
+L:1/16
+Q:1/2=66
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d8 d4 g4 | a6 b2 a4 g4 | a6 b2 d4 e4 | d12 z4 |
+e8 d4 b4 | a6 g2 e4 b4 | a6 e2 g4 a4 | d12 z4 |
+g6 a2 b4 g4 | a6 b2 d8 | b8 e4 d4 | b4 g4 a4 z4 |
+d8 b4 g4 | e6 g2 a4 d4 | b6 d2 e4 a4 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](fuji_tozan.tmd)
+- [鋼琴伴奏 TMD 檔案](fuji_tozan_piano.tmd)
 
 ## 分析
 
@@ -92,23 +111,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:富士登山
-C:曲：田村虎藏
-M:2/2
-L:1/16
-Q:1/2=66
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d8 d4 g4 | a6 b2 a4 g4 | a6 b2 d4 e4 | d12 z4 |
-e8 d4 b4 | a6 g2 e4 b4 | a6 e2 g4 a4 | d12 z4 |
-g6 a2 b4 g4 | a6 b2 d8 | b8 e4 d4 | b4 g4 a4 z4 |
-d8 b4 g4 | e6 g2 a4 d4 | b6 d2 e4 a4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](fuji_tozan.tmd)
-- [鋼琴伴奏 TMD 檔案](fuji_tozan_piano.tmd)
+![P056.jpg](P056.jpg)
+
+

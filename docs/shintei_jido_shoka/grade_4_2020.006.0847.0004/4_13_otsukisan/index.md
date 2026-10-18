@@ -22,9 +22,29 @@
 お腹がすいたらめしあがれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P071.jpg](P071.jpg)
+```abc
+X:1
+T:お月さん
+C:曲：本居長世
+M:4/4
+L:1/16
+Q:1/4=108
+K:Em
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e4 b2 b2 b4 b4 | c4 b2 a2 b4 z4 | e4 f2 g2 a4 e4 | B12 z4 |
+!mf! e4 f4 g4 a4 | g4 a4 b4 b4 | c4 c4 b4 a4 | b12 z4 |
+e4 b2 b2 b4 b4 | c4 b2 a2 b4 z4 | !p! b4 a2 g2 a4 e4 | B12 z4 |
+!mf! e4 b2 b2 f4 e4 | f4 b4 b4 b4 | c4 c4 b4 c4 | b12 z4 |
+B4 e4 f4 g4 | f4 g4 a4 b4 | c4 c4 b4 b4 | e12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](otsukisan.tmd)
+- [鋼琴伴奏 TMD 檔案](otsukisan_piano.tmd)
 
 ## 分析
 
@@ -80,24 +100,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:お月さん
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=108
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e4 b2 b2 b4 b4 | c4 b2 a2 b4 z4 | e4 f2 g2 a4 e4 | B12 z4 |
-!mf! e4 f4 g4 a4 | g4 a4 b4 b4 | c4 c4 b4 a4 | b12 z4 |
-e4 b2 b2 b4 b4 | c4 b2 a2 b4 z4 | !p! b4 a2 g2 a4 e4 | B12 z4 |
-!mf! e4 b2 b2 f4 e4 | f4 b4 b4 b4 | c4 c4 b4 c4 | b12 z4 |
-B4 e4 f4 g4 | f4 g4 a4 b4 | c4 c4 b4 b4 | e12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](otsukisan.tmd)
-- [鋼琴伴奏 TMD 檔案](otsukisan_piano.tmd)
+![P071.jpg](P071.jpg)
+
+

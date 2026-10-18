@@ -31,9 +31,30 @@
 あの音はあはれふかし
 ```
 
-## 原書掃描頁
+## ABC
 
-![P093.jpg](P093.jpg)
+```abc
+X:1
+T:笛の音
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=72
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! f12 | b8 f4 | g6 a2 b2 c2 | d8 b4 |
+f8 f4 | d8 e4 | c4 f2 g2 a2 b2 | !f! c8 f4 |
+f8 e4 | d8 d4 | c6 c2 d3 e | !p! f6 z2 f4 |
+g8 a4 | b8 f4 | d6 c2 d2 e2 | !f! c8 f4 |
+f8 d4 | c8 a4 | b6 c2 d3 =e | !p! f6 z2 f4 |
+g8 a4 | d8 g4 | c6 b2 c2 d2 | b8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](fue_no_ne.tmd)
+- [鋼琴伴奏 TMD 檔案](fue_no_ne_piano.tmd)
 
 ## 分析
 
@@ -89,25 +110,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:笛の音
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=72
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! f12 | b8 f4 | g6 a2 b2 c2 | d8 b4 |
-f8 f4 | d8 e4 | c4 f2 g2 a2 b2 | !f! c8 f4 |
-f8 e4 | d8 d4 | c6 c2 d3 e | !p! f6 z2 f4 |
-g8 a4 | b8 f4 | d6 c2 d2 e2 | !f! c8 f4 |
-f8 d4 | c8 a4 | b6 c2 d3 =e | !p! f6 z2 f4 |
-g8 a4 | d8 g4 | c6 b2 c2 d2 | b8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](fue_no_ne.tmd)
-- [鋼琴伴奏 TMD 檔案](fue_no_ne_piano.tmd)
+![P093.jpg](P093.jpg)
+
+

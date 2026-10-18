@@ -53,13 +53,40 @@
 弱起拍（第 4 拍進入）與主體樂段（共 29 小節 + 結尾）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P056.jpg](P056.jpg)
+```abc
+X:1
+T:臺灣の歌
+C:曲：信時潔
+M:4/4
+L:1/16
+Q:1/4=120
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 f4 | d6 f2 b4 c4 | d8 c4 b4 | g8 f4 g4 |
+!f! f10 z2 f4 | d6 f2 b4 d4 | f8 d4 b4 | c8 d4 b4 |
+!mf! g10 z2 d4 | e6 f2 g4 a2 b2 | g6 g2 f4 g4 | e8 d4 g4 |
+c10 z2 f4 | d6 f2 b4 d4 | f8 d4 b4 | c8 g4 e4 |
+!mp! f10 z2 d4 | d8 g4 f4 | g6 a2 b4 g4 | f8 c4 b4 |
+!mf! g10 z2 e4 | e6 e2 b4 g4 | !f! d8 c4 d4 | e8 d4 b4 |
+!mf! c10 z2 d4 | d6 f2 g4 f2 e2 | d6 f2 g4 a2 b2 | !f! c4 b4 c4 d4 |
+f8 d4 b4 | c6 d2 c4 b4 | c8 d4 b4 | g10 z2 z4 |
+!mf! z4 z4 z4 f4 | d6 f2 b4 c4 | d8 c4 b4 | g8 f4 g4 |
+!f! f10 z2 f4 | d6 f2 b4 d4 | f8 d4 b4 | c8 d4 b4 |
+!mf! g10 z2 d4 | e6 f2 g4 a2 b2 | g6 g2 f4 g4 | e8 d4 g4 |
+c10 z2 f4 | d6 f2 b4 d4 | f8 d4 b4 | c8 g4 e4 |
+!mp! f10 z2 d4 | d8 g4 f4 | g6 a2 b4 g4 | f8 c4 b4 |
+!mf! g10 z2 e4 | e6 e2 b4 g4 | !f! d8 c4 d4 | e8 d4 b4 |
+!mf! c10 z2 d4 | d6 f2 g4 f2 e2 | d6 f2 g4 a2 b2 | !f! c4 b4 c4 d4 |
+f8 d4 b4 | c6 d2 c4 b4 | c8 b4 c4 | d12 z4 |
+```
 
-![P057.jpg](P057.jpg)
+## TMD 檔案連結
 
-![P058.jpg](P058.jpg)
+- [主旋律 TMD 檔案](taiwan_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](taiwan_no_uta_piano.tmd)
 
 ## 分析
 
@@ -118,35 +145,13 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:臺灣の歌
-C:曲：信時潔
-M:4/4
-L:1/16
-Q:1/4=120
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 f4 | d6 f2 b4 c4 | d8 c4 b4 | g8 f4 g4 |
-!f! f10 z2 f4 | d6 f2 b4 d4 | f8 d4 b4 | c8 d4 b4 |
-!mf! g10 z2 d4 | e6 f2 g4 a2 b2 | g6 g2 f4 g4 | e8 d4 g4 |
-c10 z2 f4 | d6 f2 b4 d4 | f8 d4 b4 | c8 g4 e4 |
-!mp! f10 z2 d4 | d8 g4 f4 | g6 a2 b4 g4 | f8 c4 b4 |
-!mf! g10 z2 e4 | e6 e2 b4 g4 | !f! d8 c4 d4 | e8 d4 b4 |
-!mf! c10 z2 d4 | d6 f2 g4 f2 e2 | d6 f2 g4 a2 b2 | !f! c4 b4 c4 d4 |
-f8 d4 b4 | c6 d2 c4 b4 | c8 d4 b4 | g10 z2 z4 |
-!mf! z4 z4 z4 f4 | d6 f2 b4 c4 | d8 c4 b4 | g8 f4 g4 |
-!f! f10 z2 f4 | d6 f2 b4 d4 | f8 d4 b4 | c8 d4 b4 |
-!mf! g10 z2 d4 | e6 f2 g4 a2 b2 | g6 g2 f4 g4 | e8 d4 g4 |
-c10 z2 f4 | d6 f2 b4 d4 | f8 d4 b4 | c8 g4 e4 |
-!mp! f10 z2 d4 | d8 g4 f4 | g6 a2 b4 g4 | f8 c4 b4 |
-!mf! g10 z2 e4 | e6 e2 b4 g4 | !f! d8 c4 d4 | e8 d4 b4 |
-!mf! c10 z2 d4 | d6 f2 g4 f2 e2 | d6 f2 g4 a2 b2 | !f! c4 b4 c4 d4 |
-f8 d4 b4 | c6 d2 c4 b4 | c8 b4 c4 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](taiwan_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](taiwan_no_uta_piano.tmd)
+![P056.jpg](P056.jpg)
+
+![P057.jpg](P057.jpg)
+
+![P058.jpg](P058.jpg)
+
+

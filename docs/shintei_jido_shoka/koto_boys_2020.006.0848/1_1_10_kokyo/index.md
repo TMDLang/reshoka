@@ -26,9 +26,29 @@
 門（かど）に倚（よ）り母上（ははうへ）、歸（かへ）りをや待（ま）たん。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P046.jpg](P046.jpg)
+```abc
+X:1
+T:故郷
+C:曲：G. Hanitsch（ハニツチユ）
+M:4/4
+L:1/16
+Q:1/4=92
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 d4 g2 b2 | g4 b4 d3 e d2 c2 | b2 a2 g2 z2 b2 a2 g4 | d6 e2 f4 a4 |
+g6 z2 d4 g2 b2 | g4 b4 d3 e d2 c2 | b2 a2 g2 z2 b2 a2 g4 | d6 e2 f4 a4 |
+g6 z2 f4 g2 a2 | b4 g4 b3 d c2 b2 | a2 g2 f2 z2 d2 e2 f4 | g6 a2 b4 ^c4 |
+d6 z2 d4 g2 b2 | g4 b4 d3 e d2 c2 | !f! b2 a2 g2 z2 c2 b2 a4 | d6 b2 g4 b2 a2 |
+g6 z2 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kokyo.tmd)
+- [鋼琴伴奏 TMD 檔案](kokyo_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:故郷
-C:曲：G. Hanitsch（ハニツチユ）
-M:4/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 d4 g2 b2 | g4 b4 d3 e d2 c2 | b2 a2 g2 z2 b2 a2 g4 | d6 e2 f4 a4 |
-g6 z2 d4 g2 b2 | g4 b4 d3 e d2 c2 | b2 a2 g2 z2 b2 a2 g4 | d6 e2 f4 a4 |
-g6 z2 f4 g2 a2 | b4 g4 b3 d c2 b2 | a2 g2 f2 z2 d2 e2 f4 | g6 a2 b4 ^c4 |
-d6 z2 d4 g2 b2 | g4 b4 d3 e d2 c2 | !f! b2 a2 g2 z2 c2 b2 a4 | d6 b2 g4 b2 a2 |
-g6 z2 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kokyo.tmd)
-- [鋼琴伴奏 TMD 檔案](kokyo_piano.tmd)
+![P046.jpg](P046.jpg)
+
+

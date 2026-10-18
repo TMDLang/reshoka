@@ -34,9 +34,29 @@
 「樂しきみのりや嬉しき憲法」（復唱）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P064.jpg](P064.jpg)
+```abc
+X:1
+T:憲法發布
+C:曲：F. J. Haydn（ハイドン）
+M:4/4
+L:1/16
+Q:1/4=80
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! e6 f2 g4 f4 | a4 g4 f2 d2 e4 | c4 b4 a4 g4 | f4 g2 e2 b8 |
+e6 f2 g4 f4 | a4 g4 f2 d2 e4 | c4 b4 a4 g4 | f4 g2 e2 b8 |
+!p! f4 g4 f2 d2 B4 | !mp! a4 g4 f2 d2 B4 | !mf! b4 a4 g6 g2 | =a4 a2 b2 b8 |
+!f! e6 d2 c2 b2 a4 | b6 a2 g2 f2 e4 | !mf! d4 e2 f2 g2 a2 b2 c2 | !p! f6 g f e8 |
+!f! e6 d2 c2 b2 a4 | b6 a2 g2 f2 e4 | !mf! d4 e2 f2 g2 a2 b2 c2 | !p! f6 g f e8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kenpo_happu.tmd)
+- [鋼琴伴奏 TMD 檔案](kenpo_happu_piano.tmd)
 
 ## 分析
 
@@ -94,24 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:憲法發布
-C:曲：F. J. Haydn（ハイドン）
-M:4/4
-L:1/16
-Q:1/4=80
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! e6 f2 g4 f4 | a4 g4 f2 d2 e4 | c4 b4 a4 g4 | f4 g2 e2 b8 |
-e6 f2 g4 f4 | a4 g4 f2 d2 e4 | c4 b4 a4 g4 | f4 g2 e2 b8 |
-!p! f4 g4 f2 d2 B4 | !mp! a4 g4 f2 d2 B4 | !mf! b4 a4 g6 g2 | =a4 a2 b2 b8 |
-!f! e6 d2 c2 b2 a4 | b6 a2 g2 f2 e4 | !mf! d4 e2 f2 g2 a2 b2 c2 | !p! f6 g f e8 |
-!f! e6 d2 c2 b2 a4 | b6 a2 g2 f2 e4 | !mf! d4 e2 f2 g2 a2 b2 c2 | !p! f6 g f e8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kenpo_happu.tmd)
-- [鋼琴伴奏 TMD 檔案](kenpo_happu_piano.tmd)
+![P064.jpg](P064.jpg)
+
+

@@ -30,9 +30,28 @@
 夕日さびしや　船頭の小唄
 ```
 
-## 原書掃描頁
+## ABC
 
-![P066.jpg](P066.jpg)
+```abc
+X:1
+T:つばめ
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=116
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! b2 g b e4 e2 c b c2 e c | b4 z4 g4 b4 | f4 g4 z2 f2 g2 b2 | c8 z4 b2 g b |
+c4 c2 b c e4 f2 e2 | c8 b4 g2 f2 | e3 f g2 b2 f4 g4 | !f! e8 z4 e2 d c |
+d4 d2 b b b4 f2 b2 | !mp! g4 z4 b4 b4 | c4 b4 z2 b2 c2 b g | !mf! f4 z4 z4 b2 g b |
+e4 e2 c b c4 e2 f2 | g8 e4 c2 b2 | c2 b g b2 c b f4 g4 | e12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tsubame.tmd)
+- [鋼琴伴奏 TMD 檔案](tsubame_piano.tmd)
 
 ## 分析
 
@@ -88,23 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:つばめ
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=116
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! b2 g b e4 e2 c b c2 e c | b4 z4 g4 b4 | f4 g4 z2 f2 g2 b2 | c8 z4 b2 g b |
-c4 c2 b c e4 f2 e2 | c8 b4 g2 f2 | e3 f g2 b2 f4 g4 | !f! e8 z4 e2 d c |
-d4 d2 b b b4 f2 b2 | !mp! g4 z4 b4 b4 | c4 b4 z2 b2 c2 b g | !mf! f4 z4 z4 b2 g b |
-e4 e2 c b c4 e2 f2 | g8 e4 c2 b2 | c2 b g b2 c b f4 g4 | e12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tsubame.tmd)
-- [鋼琴伴奏 TMD 檔案](tsubame_piano.tmd)
+![P066.jpg](P066.jpg)
+
+

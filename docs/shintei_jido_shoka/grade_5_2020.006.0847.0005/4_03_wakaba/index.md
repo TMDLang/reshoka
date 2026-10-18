@@ -30,9 +30,29 @@
 あれみよ行く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P059.jpg](P059.jpg)
+```abc
+X:1
+T:若葉
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=104
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f8 f4 g4 | b4 d4 b6 z2 | c4 c2 d2 c2 d2 c2 a2 | f2 g2 a2 f2 b6 z2 |
+g4 g4 g2 a2 b2 c2 | d4 b8 z2 d2 | d4 z2 c2 c4 z2 b2 | d12 z4 |
+c6 a2 f4 z4 | d6 b2 g2 f2 g2 a2 | f12 z4 | f4 g4 a2 b2 c2 d2 |
+d12 z4 | f2 f4 f8 g2 | g2 a2 b2 c2 d4 z2 d2 | d4 z2 c2 c4 z2 a2 |
+b12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](wakaba.tmd)
+- [鋼琴伴奏 TMD 檔案](wakaba_piano.tmd)
 
 ## 分析
 
@@ -88,24 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:若葉
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=104
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f8 f4 g4 | b4 d4 b6 z2 | c4 c2 d2 c2 d2 c2 a2 | f2 g2 a2 f2 b6 z2 |
-g4 g4 g2 a2 b2 c2 | d4 b8 z2 d2 | d4 z2 c2 c4 z2 b2 | d12 z4 |
-c6 a2 f4 z4 | d6 b2 g2 f2 g2 a2 | f12 z4 | f4 g4 a2 b2 c2 d2 |
-d12 z4 | f2 f4 f8 g2 | g2 a2 b2 c2 d4 z2 d2 | d4 z2 c2 c4 z2 a2 |
-b12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](wakaba.tmd)
-- [鋼琴伴奏 TMD 檔案](wakaba_piano.tmd)
+![P059.jpg](P059.jpg)
+
+

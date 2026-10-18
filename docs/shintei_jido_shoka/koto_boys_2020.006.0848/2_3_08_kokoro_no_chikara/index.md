@@ -29,11 +29,30 @@
 これこそわれらのねがひなれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P116.jpg](P116.jpg)
+```abc
+X:1
+T:心の力
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=104
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! g3 e d8 g4 | g4 b4 a4 g4 | e4 d4 b4 g4 | a4 a4 b4 a4 |
+g3 e d8 g4 | g4 b4 a4 g4 | e3 d b8 a4 | g12 z4 |
+b3 g e8 a4 | b4 e4 z8 | f3 d b8 d4 | e4 f4 z4 d3 e |
+f3 d b8 d4 | e3 d b8 b3 ^c | d3 e f3 d b3 ^c d3 e | d4 d4 z8 |
+!f! d4 b4 c4 d4 | b4 g4 a4 b4 | c4 a3 b c4 d4 | e4 d4 c4 b4 |
+g3 e d8 g4 | g4 b4 a4 g4 | e8 b3 d a4 | g12 z4 |
+```
 
-![P117.jpg](P117.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kokoro_no_chikara.tmd)
+- [鋼琴伴奏 TMD 檔案](kokoro_no_chikara_piano.tmd)
 
 ## 分析
 
@@ -89,25 +108,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:心の力
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! g3 e d8 g4 | g4 b4 a4 g4 | e4 d4 b4 g4 | a4 a4 b4 a4 |
-g3 e d8 g4 | g4 b4 a4 g4 | e3 d b8 a4 | g12 z4 |
-b3 g e8 a4 | b4 e4 z8 | f3 d b8 d4 | e4 f4 z4 d3 e |
-f3 d b8 d4 | e3 d b8 b3 ^c | d3 e f3 d b3 ^c d3 e | d4 d4 z8 |
-!f! d4 b4 c4 d4 | b4 g4 a4 b4 | c4 a3 b c4 d4 | e4 d4 c4 b4 |
-g3 e d8 g4 | g4 b4 a4 g4 | e8 b3 d a4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kokoro_no_chikara.tmd)
-- [鋼琴伴奏 TMD 檔案](kokoro_no_chikara_piano.tmd)
+![P116.jpg](P116.jpg)
+
+![P117.jpg](P117.jpg)
+
+

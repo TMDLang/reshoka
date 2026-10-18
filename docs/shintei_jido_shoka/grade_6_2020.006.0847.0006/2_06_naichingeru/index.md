@@ -33,9 +33,28 @@
 香（か）ぐはしき名（な）を殘（のこ）しけり。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P044.jpg](P044.jpg)
+```abc
+X:1
+T:ナイチンゲール
+C:曲：納所辨次郎
+M:2/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g3 g e2 g2 | a3 a c2 a2 | d3 c a2 g2 | a6 z2 |
+g3 g e2 g2 | a3 g a2 c2 | d3 d e2 d2 | c6 z2 |
+e3 d e2 c2 | d3 c a2 g2 | a3 g a2 c2 | d6 z2 |
+e3 c d2 e2 | c3 a g2 a2 | c3 a g2 d2 | c6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](naichingeru.tmd)
+- [鋼琴伴奏 TMD 檔案](naichingeru_piano.tmd)
 
 ## 分析
 
@@ -91,23 +110,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ナイチンゲール
-C:曲：納所辨次郎
-M:2/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g3 g e2 g2 | a3 a c2 a2 | d3 c a2 g2 | a6 z2 |
-g3 g e2 g2 | a3 g a2 c2 | d3 d e2 d2 | c6 z2 |
-e3 d e2 c2 | d3 c a2 g2 | a3 g a2 c2 | d6 z2 |
-e3 c d2 e2 | c3 a g2 a2 | c3 a g2 d2 | c6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](naichingeru.tmd)
-- [鋼琴伴奏 TMD 檔案](naichingeru_piano.tmd)
+![P044.jpg](P044.jpg)
+
+

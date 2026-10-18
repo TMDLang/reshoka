@@ -28,9 +28,28 @@
 功績（いさを）のあとぞ　二宮神社（にのみやじんじゃ）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P037.jpg](P037.jpg)
+```abc
+X:1
+T:二宮尊徳
+C:曲：田村虎藏
+M:3/4
+L:1/16
+Q:1/4=100
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f2 f2 b4 d3 c | b4 b4 z4 | c2 c2 d4 b3 c | d4 d4 z4 |
+c2 c2 d4 c3 b | g4 f4 z4 | g2 g2 f4 b3 c | g4 f4 z4 |
+d2 d2 f4 f3 f | g4 f4 z4 | g2 g2 b4 d3 d | c4 c4 z4 |
+d2 d2 e4 d3 c | b4 d4 z4 | c2 g2 b4 d3 c | b4 b4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ninomiya_sontoku.tmd)
+- [鋼琴伴奏 TMD 檔案](ninomiya_sontoku_piano.tmd)
 
 ## 分析
 
@@ -86,23 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:二宮尊徳
-C:曲：田村虎藏
-M:3/4
-L:1/16
-Q:1/4=100
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f2 f2 b4 d3 c | b4 b4 z4 | c2 c2 d4 b3 c | d4 d4 z4 |
-c2 c2 d4 c3 b | g4 f4 z4 | g2 g2 f4 b3 c | g4 f4 z4 |
-d2 d2 f4 f3 f | g4 f4 z4 | g2 g2 b4 d3 d | c4 c4 z4 |
-d2 d2 e4 d3 c | b4 d4 z4 | c2 g2 b4 d3 c | b4 b4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ninomiya_sontoku.tmd)
-- [鋼琴伴奏 TMD 檔案](ninomiya_sontoku_piano.tmd)
+![P037.jpg](P037.jpg)
+
+

@@ -24,11 +24,31 @@
 鳥（とり）の王（わう）　鳥の王
 ```
 
-## 原書掃描頁
+## ABC
 
-![P034.jpg](P034.jpg)
+```abc
+X:1
+T:鷲
+C:曲：小松耕輔
+M:3/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 d g4 a4 | b3 a b4 b4 | d8 b3 a | a8 z4 |
+d3 d g4 a4 | b3 a b4 b4 | d6 d2 b3 a | g8 z4 |
+a3 a a4 d4 | g3 a b4 b4 | c3 b a6 a2 | a3 b c8 |
+d3 d d4 b4 | a3 b g8 | a3 a a4 e4 | g3 f g8 |
+a3 a g4 d4 | g3 a b8 | c3 a g4 f4 | a8 z4 |
+d3 d e4 d4 | b3 a g4 e4 | d3 d g4 a4 | g8 z4 |
+e3 e d8 | b3 a g8 | d3 d a8 | b3 a g8 |
+```
 
-![P035.jpg](P035.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](washi.tmd)
+- [鋼琴伴奏 TMD 檔案](washi_piano.tmd)
 
 ## 分析
 
@@ -84,26 +104,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:鷲
-C:曲：小松耕輔
-M:3/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 d g4 a4 | b3 a b4 b4 | d8 b3 a | a8 z4 |
-d3 d g4 a4 | b3 a b4 b4 | d6 d2 b3 a | g8 z4 |
-a3 a a4 d4 | g3 a b4 b4 | c3 b a6 a2 | a3 b c8 |
-d3 d d4 b4 | a3 b g8 | a3 a a4 e4 | g3 f g8 |
-a3 a g4 d4 | g3 a b8 | c3 a g4 f4 | a8 z4 |
-d3 d e4 d4 | b3 a g4 e4 | d3 d g4 a4 | g8 z4 |
-e3 e d8 | b3 a g8 | d3 d a8 | b3 a g8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](washi.tmd)
-- [鋼琴伴奏 TMD 檔案](washi_piano.tmd)
+![P034.jpg](P034.jpg)
+
+![P035.jpg](P035.jpg)
+
+

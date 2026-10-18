@@ -31,11 +31,31 @@
 これわが國（くに）ぞ、皆（みな）わが國（くに）ぞ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P088.jpg](P088.jpg)
+```abc
+X:1
+T:御國の民
+C:曲：東京音樂學校編《中等唱歌》
+M:4/4
+L:1/16
+Q:1/4=116
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! z4 z4 z4 d4 | g4 a3 b c4 b4 | a4 z4 b3 c d3 d | d4 b4 d4 z4 |
+d4 b3 g e4 d4 | c2 a2 b2 g2 a4 d4 | g4 a3 b c8 | b2 g2 a2 f2 g8 |
+b4 b3 b b4 g4 | e4 d4 ^c4 d4 | d ^c d e d c d4 a4 | b4 g4 a4 z2 d2 |
+g4 b4 d4 b4 | a2 b2 c4 b4 z4 | a3 b c2 a2 b2 g2 a2 z2 | !mf! d4 b4 g4 b4 |
+a2 b2 c4 b4 z4 | a3 b c2 a2 b2 g2 a2 z2 | !mf! d8 b3 g g4 | e2 f2 g2 e2 d8 |
+g3 a b3 c d8 | e2 d2 c2 b2 a4 d4 | !ff! g4 d4 b4 g3 b | a3 g e2 g2 d8 |
+e d c b a g d4 f4 | g4 g4 g4 z4 |
+```
 
-![P089.jpg](P089.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mikuni_no_tami.tmd)
+- [鋼琴伴奏 TMD 檔案](mikuni_no_tami_piano.tmd)
 
 ## 分析
 
@@ -91,26 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:御國の民
-C:曲：東京音樂學校編《中等唱歌》
-M:4/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z4 d4 | g4 a3 b c4 b4 | a4 z4 b3 c d3 d | d4 b4 d4 z4 |
-d4 b3 g e4 d4 | c2 a2 b2 g2 a4 d4 | g4 a3 b c8 | b2 g2 a2 f2 g8 |
-b4 b3 b b4 g4 | e4 d4 ^c4 d4 | d ^c d e d c d4 a4 | b4 g4 a4 z2 d2 |
-g4 b4 d4 b4 | a2 b2 c4 b4 z4 | a3 b c2 a2 b2 g2 a2 z2 | !mf! d4 b4 g4 b4 |
-a2 b2 c4 b4 z4 | a3 b c2 a2 b2 g2 a2 z2 | !mf! d8 b3 g g4 | e2 f2 g2 e2 d8 |
-g3 a b3 c d8 | e2 d2 c2 b2 a4 d4 | !ff! g4 d4 b4 g3 b | a3 g e2 g2 d8 |
-e d c b a g d4 f4 | g4 g4 g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](mikuni_no_tami.tmd)
-- [鋼琴伴奏 TMD 檔案](mikuni_no_tami_piano.tmd)
+![P088.jpg](P088.jpg)
+
+![P089.jpg](P089.jpg)
+
+

@@ -19,9 +19,28 @@
 散る櫻かな
 ```
 
-## 原書掃描頁
+## ABC
 
-![P031.jpg](P031.jpg)
+```abc
+X:1
+T:小楠公
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=39
+K:F#m
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! z2 z2 z2 z2 z2 c2 | f4 f2 g4 g2 | a6 f4 f2 | g4 g2 a4 b2 |
+!mf! g10 c2 | f4 g2 a4 b2 | c4 d2 c4 b2 | c4 d2 c4 f2 |
+!mf! a4 g2 f4 c2 | d4 d2 c4 a2 | !p! b4 g2 f4 c2 | f4 a2 g4 b2 |
+!pp! a4 g2 f4 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sho_nanko.tmd)
+- [鋼琴伴奏 TMD 檔案](sho_nanko_piano.tmd)
 
 ## 分析
 
@@ -77,23 +96,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:小楠公
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=39
-K:F#m
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z2 z2 z2 z2 z2 c2 | f4 f2 g4 g2 | a6 f4 f2 | g4 g2 a4 b2 |
-!mf! g10 c2 | f4 g2 a4 b2 | c4 d2 c4 b2 | c4 d2 c4 f2 |
-!mf! a4 g2 f4 c2 | d4 d2 c4 a2 | !p! b4 g2 f4 c2 | f4 a2 g4 b2 |
-!pp! a4 g2 f4 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](sho_nanko.tmd)
-- [鋼琴伴奏 TMD 檔案](sho_nanko_piano.tmd)
+![P031.jpg](P031.jpg)
+
+

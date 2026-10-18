@@ -24,9 +24,32 @@
 白（しろ）く紅（あか）く　いつか霞（かすみ）　淡（あは）く青（あを）し
 ```
 
-## 原書掃描頁
+## ABC
 
-![P032.jpg](P032.jpg)
+```abc
+X:1
+T:雨上り
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano1" snm="Pia"
+V:V2 name="Piano2" snm="Pia"
+[V:V1]
+d4 g4 a4 | b6 a2 g4 | a4 a4 b4 | c6 b2 a4 |
+b4 b4 ^c4 | d8 z4 | d4 g4 a4 | b4 c4 d4 |
+e8 d4 | c4 b4 a4 | d4 b2 g2 a4 | g8 z4 |
+[V:V2]
+d4 B4 d4 | g6 d2 B4 | d4 d4 g4 | f6 g2 d4 |
+g4 g4 e4 | d8 z4 | d4 B4 d4 | g4 a4 b4 |
+c8 b4 | a4 g4 d4 | g4 d2 B2 d4 | B8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ameagari.tmd)
+- [鋼琴伴奏 TMD 檔案](ameagari_piano.tmd)
 
 ## 分析
 
@@ -83,27 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:雨上り
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano1" snm="Pia"
-V:V2 name="Piano2" snm="Pia"
-[V:V1]
-d4 g4 a4 | b6 a2 g4 | a4 a4 b4 | c6 b2 a4 |
-b4 b4 ^c4 | d8 z4 | d4 g4 a4 | b4 c4 d4 |
-e8 d4 | c4 b4 a4 | d4 b2 g2 a4 | g8 z4 |
-[V:V2]
-d4 B4 d4 | g6 d2 B4 | d4 d4 g4 | f6 g2 d4 |
-g4 g4 e4 | d8 z4 | d4 B4 d4 | g4 a4 b4 |
-c8 b4 | a4 g4 d4 | g4 d2 B2 d4 | B8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ameagari.tmd)
-- [鋼琴伴奏 TMD 檔案](ameagari_piano.tmd)
+![P032.jpg](P032.jpg)
+
+

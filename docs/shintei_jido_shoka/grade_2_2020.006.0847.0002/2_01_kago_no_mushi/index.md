@@ -26,9 +26,28 @@
 リンリン～～　リン～～リン
 ```
 
-## 原書掃描頁
+## ABC
 
-![P030.jpg](P030.jpg)
+```abc
+X:1
+T:カゴノムシ
+C:曲：園山民平
+M:2/4
+L:1/16
+Q:1/4=92
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g2 e2 f4 | g2 b2 b2 b2 | c2 c2 b2 c2 | b6 z2 |
+c2 c2 b2 e2 | c2 c2 b2 g2 | f2 g2 f2 g2 | e6 z2 |
+f2 f2 f2 g2 | b2 g2 b4 | c2 c2 b2 g2 | b6 z2 |
+e4 f2 g2 | b2 g2 b4 | g4 f4 | e6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kago_no_mushi.tmd)
+- [鋼琴伴奏 TMD 檔案](kago_no_mushi_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:カゴノムシ
-C:曲：園山民平
-M:2/4
-L:1/16
-Q:1/4=92
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g2 e2 f4 | g2 b2 b2 b2 | c2 c2 b2 c2 | b6 z2 |
-c2 c2 b2 e2 | c2 c2 b2 g2 | f2 g2 f2 g2 | e6 z2 |
-f2 f2 f2 g2 | b2 g2 b4 | c2 c2 b2 g2 | b6 z2 |
-e4 f2 g2 | b2 g2 b4 | g4 f4 | e6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kago_no_mushi.tmd)
-- [鋼琴伴奏 TMD 檔案](kago_no_mushi_piano.tmd)
+![P030.jpg](P030.jpg)
+
+

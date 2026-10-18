@@ -41,11 +41,28 @@
 時間を正しく　守りませう
 ```
 
-## 原書掃描頁
+## ABC
 
-![P064.jpg](P064.jpg)
+```abc
+X:1
+T:尊い寶
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=108
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 c2 d2 d2 e3 f g2 a2 | g12 z4 | a2 c2 a2 g2 e3 f g2 c2 | g12 z4 |
+f2 f2 e2 e2 d3 e f2 a2 | g12 z4 | g2 e2 g2 e2 d4 f4 | e12 z4 |
+a2 a2 b2 b2 c3 b a2 c2 | g12 z4 | f2 f2 e2 e2 d4 g4 | c12 z4 |
+c2 c2 d2 d2 e3 f g2 a2 | g12 z4 | g4 a4 g4 d4 | c12 z4 |
+```
 
-![P065.jpg](P065.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](totoi_takara.tmd)
+- [鋼琴伴奏 TMD 檔案](totoi_takara_piano.tmd)
 
 ## 分析
 
@@ -101,23 +118,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:尊い寶
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 d2 d2 e3 f g2 a2 | g12 z4 | a2 c2 a2 g2 e3 f g2 c2 | g12 z4 |
-f2 f2 e2 e2 d3 e f2 a2 | g12 z4 | g2 e2 g2 e2 d4 f4 | e12 z4 |
-a2 a2 b2 b2 c3 b a2 c2 | g12 z4 | f2 f2 e2 e2 d4 g4 | c12 z4 |
-c2 c2 d2 d2 e3 f g2 a2 | g12 z4 | g4 a4 g4 d4 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](totoi_takara.tmd)
-- [鋼琴伴奏 TMD 檔案](totoi_takara_piano.tmd)
+![P064.jpg](P064.jpg)
+
+![P065.jpg](P065.jpg)
+
+

@@ -33,11 +33,29 @@
 行けば樂しい　花の里
 ```
 
-## 原書掃描頁
+## ABC
 
-![P086.jpg](P086.jpg)
+```abc
+X:1
+T:我が駒
+C:曲：田中銀之助
+M:4/4
+L:1/16
+Q:1/4=104
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 f2 g2 | a10 g2 f2 g2 | a8 z4 a2 a2 | d6 f2 g3 a g2 f2 |
+!mf! d8 z4 d2 f2 | g10 a2 b2 c2 | !mp! a8 z4 a3 f | d6 f2 g4 f4 |
+!mf! A8 z4 d2 d2 | f10 g2 f2 g2 | !f! d8 z2 d2 g2 a2 | b6 g2 a2 g2 f2 g2 |
+!f! a8 z4 a2 a2 | d10 c2 a2 c2 | !mp! a8 z2 a2 g2 f2 | d8 f6 g2 |
+f12 z4 |
+```
 
-![P087.jpg](P087.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](waga_koma.tmd)
+- [鋼琴伴奏 TMD 檔案](waga_koma_piano.tmd)
 
 ## 分析
 
@@ -93,24 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:我が駒
-C:曲：田中銀之助
-M:4/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 f2 g2 | a10 g2 f2 g2 | a8 z4 a2 a2 | d6 f2 g3 a g2 f2 |
-!mf! d8 z4 d2 f2 | g10 a2 b2 c2 | !mp! a8 z4 a3 f | d6 f2 g4 f4 |
-!mf! A8 z4 d2 d2 | f10 g2 f2 g2 | !f! d8 z2 d2 g2 a2 | b6 g2 a2 g2 f2 g2 |
-!f! a8 z4 a2 a2 | d10 c2 a2 c2 | !mp! a8 z2 a2 g2 f2 | d8 f6 g2 |
-f12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](waga_koma.tmd)
-- [鋼琴伴奏 TMD 檔案](waga_koma_piano.tmd)
+![P086.jpg](P086.jpg)
+
+![P087.jpg](P087.jpg)
+
+

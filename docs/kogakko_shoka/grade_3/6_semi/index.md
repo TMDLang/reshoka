@@ -40,11 +40,27 @@
 そらには一つよひのほし。
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:せみ（蟬）
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g6 a2 g4 e4 | d4 c2 d2 e4 e4 | g4 e2 f2 e4 d2 c2 | d12 z4 |
+e6 g2 a4 g4 | a6 c2 a4 g4 | c6 a2 g2 e2 d2 e2 | g12 z4 |
+c6 d2 c4 a4 | g4 e2 a2 g4 e4 | g4 e2 d2 c4 d4 | c12 z4 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](semi.tmd)
+- [鋼琴伴奏 TMD 檔案](semi_piano.tmd)
 
 ## 分析
 
@@ -100,22 +116,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:せみ（蟬）
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g6 a2 g4 e4 | d4 c2 d2 e4 e4 | g4 e2 f2 e4 d2 c2 | d12 z4 |
-e6 g2 a4 g4 | a6 c2 a4 g4 | c6 a2 g2 e2 d2 e2 | g12 z4 |
-c6 d2 c4 a4 | g4 e2 a2 g4 e4 | g4 e2 d2 c4 d4 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](semi.tmd)
-- [鋼琴伴奏 TMD 檔案](semi_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+

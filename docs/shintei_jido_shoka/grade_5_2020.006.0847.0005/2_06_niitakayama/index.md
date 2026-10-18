@@ -28,9 +28,28 @@
 みかげを仰げ　島人よ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P043.jpg](P043.jpg)
+```abc
+X:1
+T:新高山
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=120
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g6 g2 c8 | a6 c2 g4 e4 | g6 a2 g6 e2 | g12 z4 |
+e6 g2 c4 e4 | d6 c2 a4 g4 | a6 c2 g4 e2 d2 | c12 z4 |
+d6 e2 g4 g4 | a6 c2 g8 | a6 a2 g4 c4 | d12 z4 |
+e6 d2 c8 | d6 c2 a4 g4 | e6 g2 c4 d2 b2 | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](niitakayama.tmd)
+- [鋼琴伴奏 TMD 檔案](niitakayama_piano.tmd)
 
 ## 分析
 
@@ -86,23 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:新高山
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=120
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g6 g2 c8 | a6 c2 g4 e4 | g6 a2 g6 e2 | g12 z4 |
-e6 g2 c4 e4 | d6 c2 a4 g4 | a6 c2 g4 e2 d2 | c12 z4 |
-d6 e2 g4 g4 | a6 c2 g8 | a6 a2 g4 c4 | d12 z4 |
-e6 d2 c8 | d6 c2 a4 g4 | e6 g2 c4 d2 b2 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](niitakayama.tmd)
-- [鋼琴伴奏 TMD 檔案](niitakayama_piano.tmd)
+![P043.jpg](P043.jpg)
+
+

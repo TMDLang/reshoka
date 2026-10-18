@@ -28,11 +28,30 @@
 歌（うた）ひ囃（はや）さん、何時（いつ）の世迄（よまで）も。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P076.jpg](P076.jpg)
+```abc
+X:1
+T:奉天會戰
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=96
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e3 e e3 f | a3 b a4 | f3 f e3 c | e2 c2 e2 z2 |
+a3 a b3 b | c4 c3 e | f3 f e3 c | b6 z2 |
+c3 b a3 b | a2 f2 e3 e | f3 a b3 c | a6 z2 |
+b4 b3 c | e3 e c2 b2 | a2 b2 c3 c | b3 a f2 z2 |
+e3 e e3 e | f3 f e4 | c4 e4 | a3 b c2 z2 |
+b2 b a f e f a | e2 f2 a2 b2 | c6 b2 | a6 z2 |
+```
 
-![P077.jpg](P077.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hoten_kaisen.tmd)
+- [鋼琴伴奏 TMD 檔案](hoten_kaisen_piano.tmd)
 
 ## 分析
 
@@ -88,25 +107,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:奉天會戰
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=96
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e3 e e3 f | a3 b a4 | f3 f e3 c | e2 c2 e2 z2 |
-a3 a b3 b | c4 c3 e | f3 f e3 c | b6 z2 |
-c3 b a3 b | a2 f2 e3 e | f3 a b3 c | a6 z2 |
-b4 b3 c | e3 e c2 b2 | a2 b2 c3 c | b3 a f2 z2 |
-e3 e e3 e | f3 f e4 | c4 e4 | a3 b c2 z2 |
-b2 b a f e f a | e2 f2 a2 b2 | c6 b2 | a6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hoten_kaisen.tmd)
-- [鋼琴伴奏 TMD 檔案](hoten_kaisen_piano.tmd)
+![P076.jpg](P076.jpg)
+
+![P077.jpg](P077.jpg)
+
+

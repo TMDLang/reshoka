@@ -26,9 +26,28 @@
 昨日（きのふ）の眺（なが）め　今宵（こよひ）の心（こころ）。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P084.jpg](P084.jpg)
+```abc
+X:1
+T:俊寛僧都
+C:曲：民歌（瑞典）
+M:2/4
+L:1/16
+Q:1/4=132
+K:Em
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! e2 e2 e2 b2 | g3 f e4 | a2 a2 a2 c2 | b3 a b4 |
+!mf! c2 a2 b3 g | f2 ^d2 e3 f | g2 b2 a3 g | f2 ^d2 e4 |
+!f! b3 c d2 b2 | e3 d c4 | a3 b c2 a2 | b3 a b4 |
+!mf! c2 a2 b3 g | f2 ^d2 e3 f | !mp! g2 b2 a3 g | f2 ^d2 e4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shunkan_sozu.tmd)
+- [鋼琴伴奏 TMD 檔案](shunkan_sozu_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:俊寛僧都
-C:曲：民歌（瑞典）
-M:2/4
-L:1/16
-Q:1/4=132
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! e2 e2 e2 b2 | g3 f e4 | a2 a2 a2 c2 | b3 a b4 |
-!mf! c2 a2 b3 g | f2 ^d2 e3 f | g2 b2 a3 g | f2 ^d2 e4 |
-!f! b3 c d2 b2 | e3 d c4 | a3 b c2 a2 | b3 a b4 |
-!mf! c2 a2 b3 g | f2 ^d2 e3 f | !mp! g2 b2 a3 g | f2 ^d2 e4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shunkan_sozu.tmd)
-- [鋼琴伴奏 TMD 檔案](shunkan_sozu_piano.tmd)
+![P084.jpg](P084.jpg)
+
+

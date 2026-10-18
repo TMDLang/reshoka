@@ -26,9 +26,29 @@
 海（うみ）のかぎり、恐（おそ）れず行（ゆ）けや。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P085.jpg](P085.jpg)
+```abc
+X:1
+T:海國男子
+C:曲：國風歌（獨）
+M:4/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 c2 f2 | a6 f2 f4 d4 | c12 f2 g2 | a4 b4 c4 d4 |
+c12 c2 f2 | a6 f2 f4 d4 | c12 a2 f2 | g4 c4 a4 g4 |
+f8 z4 z4 | !f! d6 e2 f8 | g8 a4 a2 b2 | c8 d8 |
+e16 | !ff! f6 c2 a8 | d6 c2 b8 | g4 c4 a4 d4 |
+c8 e8 | f8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kaikoku_danshi.tmd)
+- [鋼琴伴奏 TMD 檔案](kaikoku_danshi_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:海國男子
-C:曲：國風歌（獨）
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 c2 f2 | a6 f2 f4 d4 | c12 f2 g2 | a4 b4 c4 d4 |
-c12 c2 f2 | a6 f2 f4 d4 | c12 a2 f2 | g4 c4 a4 g4 |
-f8 z4 z4 | !f! d6 e2 f8 | g8 a4 a2 b2 | c8 d8 |
-e16 | !ff! f6 c2 a8 | d6 c2 b8 | g4 c4 a4 d4 |
-c8 e8 | f8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kaikoku_danshi.tmd)
-- [鋼琴伴奏 TMD 檔案](kaikoku_danshi_piano.tmd)
+![P085.jpg](P085.jpg)
+
+

@@ -25,9 +25,28 @@
 あゝ雄々し猛し軍艦よ」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P053.jpg](P053.jpg)
+```abc
+X:1
+T:軍艦
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=88
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! d2 d2 d2 e2 d2 B2 | d4 g4 e4 | d4 B4 d4 | e4 d4 d4 |
+d8 z4 | !f! b4 b4 b4 | a4 g4 e4 | d4 g4 a4 |
+b6 a2 a4 | !mf! a4 a2 g2 e2 d2 | g4 a4 b4 | [bcba]4 g4 a4 |
+g8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gunkan.tmd)
+- [鋼琴伴奏 TMD 檔案](gunkan_piano.tmd)
 
 ## 分析
 
@@ -83,23 +102,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:軍艦
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! d2 d2 d2 e2 d2 B2 | d4 g4 e4 | d4 B4 d4 | e4 d4 d4 |
-d8 z4 | !f! b4 b4 b4 | a4 g4 e4 | d4 g4 a4 |
-b6 a2 a4 | !mf! a4 a2 g2 e2 d2 | g4 a4 b4 | [bcba]4 g4 a4 |
-g8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gunkan.tmd)
-- [鋼琴伴奏 TMD 檔案](gunkan_piano.tmd)
+![P053.jpg](P053.jpg)
+
+

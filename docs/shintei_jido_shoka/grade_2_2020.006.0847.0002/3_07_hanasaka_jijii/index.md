@@ -45,11 +45,27 @@
 とう／＼らうやに　つながれました
 ```
 
-## 原書掃描頁
+## ABC
 
-![P050.jpg](P050.jpg)
+```abc
+X:1
+T:花さかぢぢい
+C:曲：田村虎藏
+M:2/4
+L:1/16
+Q:1/4=104
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 b2 a4 | g2 g2 g2 g2 | a2 g2 e2 g2 | d6 z2 |
+d2 b2 a4 | g2 g2 g2 g2 | a2 a2 g2 a2 | b6 z2 |
+d3 d b3 d | b2 a g a a z2 | b3 d a3 b | g2 g2 g2 g2 |
+```
 
-![P051.jpg](P051.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hanasaka_jijii.tmd)
+- [鋼琴伴奏 TMD 檔案](hanasaka_jijii_piano.tmd)
 
 ## 分析
 
@@ -105,22 +121,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:花さかぢぢい
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 b2 a4 | g2 g2 g2 g2 | a2 g2 e2 g2 | d6 z2 |
-d2 b2 a4 | g2 g2 g2 g2 | a2 a2 g2 a2 | b6 z2 |
-d3 d b3 d | b2 a g a a z2 | b3 d a3 b | g2 g2 g2 g2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hanasaka_jijii.tmd)
-- [鋼琴伴奏 TMD 檔案](hanasaka_jijii_piano.tmd)
+![P050.jpg](P050.jpg)
+
+![P051.jpg](P051.jpg)
+
+

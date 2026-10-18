@@ -41,9 +41,28 @@
 早くもすぎる幾十里（いくじふり）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P049.jpg](P049.jpg)
+```abc
+X:1
+T:汽車（火車）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=92
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g3 g g2 g2 | g2 b2 a2 g2 | e3 e d2 g2 | a6 z2 |
+b3 b b2 b2 | a2 a2 d2 d2 | b2 b c b2 a2 | g6 z2 |
+d4 e2 d2 | d2 d2 e2 d2 | g3 g f2 g2 | a6 z2 |
+b3 b b2 b2 | d2 d2 d2 a2 | b2 b c b2 a2 | g6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kisha.tmd)
+- [鋼琴伴奏 TMD 檔案](kisha_piano.tmd)
 
 ## 分析
 
@@ -99,23 +118,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:汽車（火車）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g3 g g2 g2 | g2 b2 a2 g2 | e3 e d2 g2 | a6 z2 |
-b3 b b2 b2 | a2 a2 d2 d2 | b2 b c b2 a2 | g6 z2 |
-d4 e2 d2 | d2 d2 e2 d2 | g3 g f2 g2 | a6 z2 |
-b3 b b2 b2 | d2 d2 d2 a2 | b2 b c b2 a2 | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kisha.tmd)
-- [鋼琴伴奏 TMD 檔案](kisha_piano.tmd)
+![P049.jpg](P049.jpg)
+
+

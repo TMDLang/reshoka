@@ -30,11 +30,36 @@
 あの流れ星　使ひ星
 ```
 
-## 原書掃描頁
+## ABC
 
-![P068.jpg](P068.jpg)
+```abc
+X:1
+T:流れ星
+C:曲：本居長世
+M:4/4
+L:1/16
+Q:1/4=112
+K:Cm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c8 g4 g4 | a4 g4 f4 g4 | a4 g8 c4 | d12 z4 |
+e8 d4 d4 | c4 d4 e4 f4 | g4 a4 a4 a4 | g12 z4 |
+g4 g4 a4 g4 | f4 g4 a4 g4 | c4 c4 c4 c4 | d12 z4 |
+c4 g4 g4 g4 | a4 g4 f4 g4 | a4 g4 d4 e4 | c12 z4 |
+c8 g4 g4 | a4 g4 f4 g4 | a4 g8 c4 | d12 z4 |
+e8 d4 d4 | c4 d4 e4 f4 | g4 a4 a4 a4 | g12 z4 |
+g4 g4 a4 g4 | f4 g4 a4 g4 | c4 c4 c4 c4 | d12 z4 |
+c4 g4 g4 g4 | a4 g4 f4 g4 | a4 g4 d4 e4 | c12 z4 |
+c8 g4 g4 | a4 g4 f4 g4 | a4 g8 c4 | d12 z4 |
+e8 d4 d4 | c4 d4 e4 f4 | g4 a4 a4 a4 | g12 z4 |
+g4 g4 a4 g4 | f4 g4 a4 g4 | g4 c4 c4 c4 | d12 z4 |
+c4 c4 g4 g4 | a8 g4 f4 | g4 g4 c4 g4 | c12 z4 |
+```
 
-![P069.jpg](P069.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nagareboshi.tmd)
+- [鋼琴伴奏 TMD 檔案](nagareboshi_piano.tmd)
 
 ## 分析
 
@@ -90,31 +115,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:流れ星
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=112
-K:Cm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c8 g4 g4 | a4 g4 f4 g4 | a4 g8 c4 | d12 z4 |
-e8 d4 d4 | c4 d4 e4 f4 | g4 a4 a4 a4 | g12 z4 |
-g4 g4 a4 g4 | f4 g4 a4 g4 | c4 c4 c4 c4 | d12 z4 |
-c4 g4 g4 g4 | a4 g4 f4 g4 | a4 g4 d4 e4 | c12 z4 |
-c8 g4 g4 | a4 g4 f4 g4 | a4 g8 c4 | d12 z4 |
-e8 d4 d4 | c4 d4 e4 f4 | g4 a4 a4 a4 | g12 z4 |
-g4 g4 a4 g4 | f4 g4 a4 g4 | c4 c4 c4 c4 | d12 z4 |
-c4 g4 g4 g4 | a4 g4 f4 g4 | a4 g4 d4 e4 | c12 z4 |
-c8 g4 g4 | a4 g4 f4 g4 | a4 g8 c4 | d12 z4 |
-e8 d4 d4 | c4 d4 e4 f4 | g4 a4 a4 a4 | g12 z4 |
-g4 g4 a4 g4 | f4 g4 a4 g4 | g4 c4 c4 c4 | d12 z4 |
-c4 c4 g4 g4 | a8 g4 f4 | g4 g4 c4 g4 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nagareboshi.tmd)
-- [鋼琴伴奏 TMD 檔案](nagareboshi_piano.tmd)
+![P068.jpg](P068.jpg)
+
+![P069.jpg](P069.jpg)
+
+

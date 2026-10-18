@@ -35,9 +35,32 @@
 ツブサレタ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P045.jpg](P045.jpg)
+```abc
+X:1
+T:サル・カニ
+C:曲：納所辨次郎
+M:2/4
+L:1/16
+Q:1/4=92
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a4 f2 d2 | e2 f2 e2 d2 | a4 f2 d2 | f4 e3 z |
+a3 a b2 a2 | f2 f2 a2 f2 | e3 e f2 e2 | d6 z2 |
+f3 f e2 f2 | a2 a2 f2 a2 | d2 d2 b2 b2 | a6 z2 |
+d3 d b2 d2 | a2 a2 f2 a2 | e3 e f2 e2 | d6 z2 |
+a4 f2 d2 | e2 f2 e2 d2 | a4 f2 d2 | f4 e3 z |
+a3 a b2 a2 | f2 f2 a2 f2 | e3 e f2 e2 | d6 z2 |
+f3 f e2 f2 | a2 a2 f2 a2 | d2 d2 b2 b2 | a6 z2 |
+d3 d b2 d2 | a2 a2 f2 a2 | e3 e f2 e2 | d6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sarukani.tmd)
+- [鋼琴伴奏 TMD 檔案](sarukani_piano.tmd)
 
 ## 分析
 
@@ -94,27 +117,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:サル・カニ
-C:曲：納所辨次郎
-M:2/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a4 f2 d2 | e2 f2 e2 d2 | a4 f2 d2 | f4 e3 z |
-a3 a b2 a2 | f2 f2 a2 f2 | e3 e f2 e2 | d6 z2 |
-f3 f e2 f2 | a2 a2 f2 a2 | d2 d2 b2 b2 | a6 z2 |
-d3 d b2 d2 | a2 a2 f2 a2 | e3 e f2 e2 | d6 z2 |
-a4 f2 d2 | e2 f2 e2 d2 | a4 f2 d2 | f4 e3 z |
-a3 a b2 a2 | f2 f2 a2 f2 | e3 e f2 e2 | d6 z2 |
-f3 f e2 f2 | a2 a2 f2 a2 | d2 d2 b2 b2 | a6 z2 |
-d3 d b2 d2 | a2 a2 f2 a2 | e3 e f2 e2 | d6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](sarukani.tmd)
-- [鋼琴伴奏 TMD 檔案](sarukani_piano.tmd)
+![P045.jpg](P045.jpg)
+
+

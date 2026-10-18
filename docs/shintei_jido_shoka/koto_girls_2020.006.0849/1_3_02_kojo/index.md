@@ -27,9 +27,32 @@
 わが身にかへて　救（すく）はせ給へ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P061.jpg](P061.jpg)
+```abc
+X:1
+T:孝女
+C:曲：獨國風曲
+M:3/4
+L:1/16
+Q:1/4=80
+K:Am
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! E4 A6 E2 | A4 B4 c4 | B6 E2 B2 A2 | ^G2 A2 B4 E4 |
+c6 A2 F2 E2 | D2 F2 E8 | A6 B2 c2 d2 | E2 ^G2 A4 z4 |
+E4 A6 E2 | A4 B4 c4 | B6 E2 B2 A2 | ^G2 A2 B4 E4 |
+c6 A2 F2 E2 | D2 F2 E8 | A6 B2 c2 d2 | E6 ^G2 A4 |
+!p! E4 A6 E2 | A4 B4 c4 | B6 E2 B2 A2 | ^G2 A2 B4 E4 |
+c6 A2 F2 E2 | D2 F2 E8 | A6 B2 c2 d2 | E2 ^G2 A4 z4 |
+E4 A6 E2 | A4 B4 c4 | B6 E2 B2 A2 | ^G2 A2 B4 E4 |
+c6 A2 F2 E2 | D2 F2 E8 | A6 B2 c2 d2 | E6 ^G2 A4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kojo.tmd)
+- [鋼琴伴奏 TMD 檔案](kojo_piano.tmd)
 
 ## 分析
 
@@ -86,27 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:孝女
-C:曲：獨國風曲
-M:3/4
-L:1/16
-Q:1/4=80
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! E4 A6 E2 | A4 B4 c4 | B6 E2 B2 A2 | ^G2 A2 B4 E4 |
-c6 A2 F2 E2 | D2 F2 E8 | A6 B2 c2 d2 | E2 ^G2 A4 z4 |
-E4 A6 E2 | A4 B4 c4 | B6 E2 B2 A2 | ^G2 A2 B4 E4 |
-c6 A2 F2 E2 | D2 F2 E8 | A6 B2 c2 d2 | E6 ^G2 A4 |
-!p! E4 A6 E2 | A4 B4 c4 | B6 E2 B2 A2 | ^G2 A2 B4 E4 |
-c6 A2 F2 E2 | D2 F2 E8 | A6 B2 c2 d2 | E2 ^G2 A4 z4 |
-E4 A6 E2 | A4 B4 c4 | B6 E2 B2 A2 | ^G2 A2 B4 E4 |
-c6 A2 F2 E2 | D2 F2 E8 | A6 B2 c2 d2 | E6 ^G2 A4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kojo.tmd)
-- [鋼琴伴奏 TMD 檔案](kojo_piano.tmd)
+![P061.jpg](P061.jpg)
+
+

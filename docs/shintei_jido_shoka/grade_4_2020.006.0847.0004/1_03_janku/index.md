@@ -34,9 +34,29 @@
 あげる帆布（ほぬの）に朝日（あさひ）が光（ひか）る
 ```
 
-## 原書掃描頁
+## ABC
 
-![P026.jpg](P026.jpg)
+```abc
+X:1
+T:ジャンク
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=96
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 c3 b | g3 a b2 c2 | d2 d2 e2 d2 | c3 d c2 z2 |
+d2 d2 c3 b | g3 a b2 c2 | d2 c2 b2 g2 | f2 a2 g2 z2 |
+b3 b g2 f2 | g2 b2 c2 d2 | c2 b2 g2 b2 | c2 c2 d2 z2 |
+d3 e d2 c2 | b2 g2 f4 | g3 g f2 g2 | b2 c2 d2 z2 |
+g3 a b2 g2 | f2 b2 d2 f2 | d3 b c2 g2 | b2 c2 b2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](janku.tmd)
+- [鋼琴伴奏 TMD 檔案](janku_piano.tmd)
 
 ## 分析
 
@@ -92,24 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ジャンク
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 c3 b | g3 a b2 c2 | d2 d2 e2 d2 | c3 d c2 z2 |
-d2 d2 c3 b | g3 a b2 c2 | d2 c2 b2 g2 | f2 a2 g2 z2 |
-b3 b g2 f2 | g2 b2 c2 d2 | c2 b2 g2 b2 | c2 c2 d2 z2 |
-d3 e d2 c2 | b2 g2 f4 | g3 g f2 g2 | b2 c2 d2 z2 |
-g3 a b2 g2 | f2 b2 d2 f2 | d3 b c2 g2 | b2 c2 b2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](janku.tmd)
-- [鋼琴伴奏 TMD 檔案](janku_piano.tmd)
+![P026.jpg](P026.jpg)
+
+

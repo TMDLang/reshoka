@@ -35,11 +35,31 @@
 帝國萬歲、萬々歲
 ```
 
-## 原書掃描頁
+## ABC
 
-![P028.jpg](P028.jpg)
+```abc
+X:1
+T:日本海海戰
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=92
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z4 d3 e | f6 g2 a2 f2 | a4 f4 d3 b | a6 f2 e3 d |
+e6 z2 a3 a | b6 a2 b2 d2 | a4 f4 a3 f | e6 d2 e2 f2 |
+d6 z2 d3 e | f6 d2 e2 f2 | g4 f4 e4 | f6 ^g2 a2 g2 |
+a6 z2 a3 b | d6 b2 d2 e2 | d4 b4 d3 b | a6 f2 a3 b |
+a6 z2 f3 f | e6 d2 e2 f2 | d4 B4 A4 | d6 e2 f2 a2 |
+b6 z2 b3 c | d6 b2 a2 f2 | a4 f4 a4 | b6 e2 f3 e |
+d6 z2 z4 |
+```
 
-![P029.jpg](P029.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nihonkai_kaisen.tmd)
+- [鋼琴伴奏 TMD 檔案](nihonkai_kaisen_piano.tmd)
 
 ## 分析
 
@@ -95,26 +115,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:日本海海戰
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 d3 e | f6 g2 a2 f2 | a4 f4 d3 b | a6 f2 e3 d |
-e6 z2 a3 a | b6 a2 b2 d2 | a4 f4 a3 f | e6 d2 e2 f2 |
-d6 z2 d3 e | f6 d2 e2 f2 | g4 f4 e4 | f6 ^g2 a2 g2 |
-a6 z2 a3 b | d6 b2 d2 e2 | d4 b4 d3 b | a6 f2 a3 b |
-a6 z2 f3 f | e6 d2 e2 f2 | d4 B4 A4 | d6 e2 f2 a2 |
-b6 z2 b3 c | d6 b2 a2 f2 | a4 f4 a4 | b6 e2 f3 e |
-d6 z2 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nihonkai_kaisen.tmd)
-- [鋼琴伴奏 TMD 檔案](nihonkai_kaisen_piano.tmd)
+![P028.jpg](P028.jpg)
+
+![P029.jpg](P029.jpg)
+
+

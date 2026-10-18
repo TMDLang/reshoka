@@ -36,9 +36,29 @@
 世々を照らす光。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P065.jpg](P065.jpg)
+```abc
+X:1
+T:櫻田門外
+C:曲：佛國風曲
+M:4/4
+L:1/16
+Q:1/4=92
+K:Dm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! z2 z2 z2 z2 z2 z2 d2 d2 | a4 a2 b2 a4 g2 f2 | e4 z2 e2 f2 g2 a3 g | f4 e2 d2 a6 a2 |
+d8 z4 d2 d2 | g4 g2 a2 g4 f2 e2 | f4 z2 f2 g2 a2 b3 a | g4 f2 e2 c6 c2 |
+!mf! a8 z4 a3 a | d4 c2 b2 a4 g2 f2 | g4 z2 g2 a2 b2 c3 b | a4 g2 f2 e2 d2 ^c3 d |
+e8 z4 a3 a | f4 g2 a2 b4 g2 e2 | a4 z2 a2 d6 c2 | !f! b4 a2 g2 a6 a2 |
+d8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sakuradamon_gai.tmd)
+- [鋼琴伴奏 TMD 檔案](sakuradamon_gai_piano.tmd)
 
 ## 分析
 
@@ -94,24 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:櫻田門外
-C:曲：佛國風曲
-M:4/4
-L:1/16
-Q:1/4=92
-K:Dm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z2 z2 z2 z2 z2 z2 d2 d2 | a4 a2 b2 a4 g2 f2 | e4 z2 e2 f2 g2 a3 g | f4 e2 d2 a6 a2 |
-d8 z4 d2 d2 | g4 g2 a2 g4 f2 e2 | f4 z2 f2 g2 a2 b3 a | g4 f2 e2 c6 c2 |
-!mf! a8 z4 a3 a | d4 c2 b2 a4 g2 f2 | g4 z2 g2 a2 b2 c3 b | a4 g2 f2 e2 d2 ^c3 d |
-e8 z4 a3 a | f4 g2 a2 b4 g2 e2 | a4 z2 a2 d6 c2 | !f! b4 a2 g2 a6 a2 |
-d8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](sakuradamon_gai.tmd)
-- [鋼琴伴奏 TMD 檔案](sakuradamon_gai_piano.tmd)
+![P065.jpg](P065.jpg)
+
+

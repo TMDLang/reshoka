@@ -32,9 +32,28 @@
 たぐひなき樂園（らくゑん）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P074.jpg](P074.jpg)
+```abc
+X:1
+T:松島
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 b a3 g a3 b g2 e2 | d8 z4 g3 a | b3 d e3 e d3 e d2 b2 | a12 z4 |
+b3 b a3 g a3 b g2 e2 | d8 z4 a3 b | g3 g e3 g a3 b a2 f2 | g12 z4 |
+b3 d e8 e3 d | b12 b3 a | g3 a b3 d e3 d b2 a2 | b12 z4 |
+b3 d e8 e3 d | b12 b3 a | g3 g e3 g a3 b a2 f2 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](matsushima.tmd)
+- [鋼琴伴奏 TMD 檔案](matsushima_piano.tmd)
 
 ## 分析
 
@@ -90,23 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:松島
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 b a3 g a3 b g2 e2 | d8 z4 g3 a | b3 d e3 e d3 e d2 b2 | a12 z4 |
-b3 b a3 g a3 b g2 e2 | d8 z4 a3 b | g3 g e3 g a3 b a2 f2 | g12 z4 |
-b3 d e8 e3 d | b12 b3 a | g3 a b3 d e3 d b2 a2 | b12 z4 |
-b3 d e8 e3 d | b12 b3 a | g3 g e3 g a3 b a2 f2 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](matsushima.tmd)
-- [鋼琴伴奏 TMD 檔案](matsushima_piano.tmd)
+![P074.jpg](P074.jpg)
+
+

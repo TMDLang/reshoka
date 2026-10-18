@@ -26,9 +26,26 @@
 山でなく　里でなく　野でもなく
 ```
 
-## 原書掃描頁
+## ABC
 
-![P052.jpg](P052.jpg)
+```abc
+X:1
+T:春が來た
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 e2 f2 g4 a4 | g4 e2 f2 g4 c4 | a4 g4 e4 c4 | d12 z4 |
+g4 a2 g2 e4 g4 | c4 d2 c2 a4 c4 | g4 e4 d6 g2 | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](haru_ga_kita.tmd)
+- [鋼琴伴奏 TMD 檔案](haru_ga_kita_piano.tmd)
 
 ## 分析
 
@@ -84,21 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:春が來た
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 e2 f2 g4 a4 | g4 e2 f2 g4 c4 | a4 g4 e4 c4 | d12 z4 |
-g4 a2 g2 e4 g4 | c4 d2 c2 a4 c4 | g4 e4 d6 g2 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](haru_ga_kita.tmd)
-- [鋼琴伴奏 TMD 檔案](haru_ga_kita_piano.tmd)
+![P052.jpg](P052.jpg)
+
+

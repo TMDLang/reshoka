@@ -26,11 +26,38 @@
 兄弟の人　忠臣嗚呼忠臣　たぐひなや。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P074.jpg](P074.jpg)
+```abc
+X:1
+T:忠臣
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=100
+K:Bm
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+[V:V1]
+!mf! d6 z2 B2 c2 | f4 f4 z4 | e2 e2 f6 e2 | d2 e2 f4 z4 |
+b6 z2 g2 e2 | d4 c4 z4 | !p! e2 e2 B4 c4 | B8 z4 |
+!mf! d2 d2 f6 g2 | f4 e4 z4 | !mp! d2 d2 e6 f2 | e2 d2 c4 z4 |
+!mf! f2 g2 a6 f2 | g4 f4 z4 | !p! e2 e2 B4 c4 | B8 z4 |
+!f! d4 d4 d4 | e4 e4 z4 | d4 f6 g2 | f2 e2 f4 z4 |
+!p! e4 e4 e4 | f4 f4 z4 | !mp! e2 e2 b4 f4 | B8 z4 |
+[V:V2]
+!mf! B6 z2 G2 ^A2 | d4 B4 z4 | c2 c2 d6 c2 | B2 c2 d4 z4 |
+d6 z2 e2 c2 | B4 F4 z4 | !p! A2 A2 G4 F4 | B8 z4 |
+!mf! B2 B2 d6 e2 | d4 c4 z4 | !mp! B2 B2 A6 A2 | G2 G2 F4 z4 |
+!mf! d2 e2 f6 d2 | e4 d4 z4 | !p! A2 A2 G4 F4 | B8 z4 |
+!f! G4 G4 G4 | A4 A4 z4 | B4 d6 e2 | d2 c2 d4 z4 |
+!p! c4 c4 c4 | d4 d4 z4 | !mp! A2 A2 d4 c4 | B8 z4 |
+```
 
-![P075.jpg](P075.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](chushin.tmd)
+- [鋼琴伴奏 TMD 檔案](chushin_piano.tmd)
 
 ## 分析
 
@@ -87,33 +114,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:忠臣
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=100
-K:Bm
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! d6 z2 B2 c2 | f4 f4 z4 | e2 e2 f6 e2 | d2 e2 f4 z4 |
-b6 z2 g2 e2 | d4 c4 z4 | !p! e2 e2 B4 c4 | B8 z4 |
-!mf! d2 d2 f6 g2 | f4 e4 z4 | !mp! d2 d2 e6 f2 | e2 d2 c4 z4 |
-!mf! f2 g2 a6 f2 | g4 f4 z4 | !p! e2 e2 B4 c4 | B8 z4 |
-!f! d4 d4 d4 | e4 e4 z4 | d4 f6 g2 | f2 e2 f4 z4 |
-!p! e4 e4 e4 | f4 f4 z4 | !mp! e2 e2 b4 f4 | B8 z4 |
-[V:V2]
-!mf! B6 z2 G2 ^A2 | d4 B4 z4 | c2 c2 d6 c2 | B2 c2 d4 z4 |
-d6 z2 e2 c2 | B4 F4 z4 | !p! A2 A2 G4 F4 | B8 z4 |
-!mf! B2 B2 d6 e2 | d4 c4 z4 | !mp! B2 B2 A6 A2 | G2 G2 F4 z4 |
-!mf! d2 e2 f6 d2 | e4 d4 z4 | !p! A2 A2 G4 F4 | B8 z4 |
-!f! G4 G4 G4 | A4 A4 z4 | B4 d6 e2 | d2 c2 d4 z4 |
-!p! c4 c4 c4 | d4 d4 z4 | !mp! A2 A2 d4 c4 | B8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](chushin.tmd)
-- [鋼琴伴奏 TMD 檔案](chushin_piano.tmd)
+![P074.jpg](P074.jpg)
+
+![P075.jpg](P075.jpg)
+
+

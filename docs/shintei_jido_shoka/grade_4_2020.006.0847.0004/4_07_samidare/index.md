@@ -28,9 +28,28 @@
 雨がサンサン　降りました
 ```
 
-## 原書掃描頁
+## ABC
 
-![P064.jpg](P064.jpg)
+```abc
+X:1
+T:さみだれ
+C:曲：小松耕輔
+M:4/4
+L:1/16
+Q:1/4=76
+K:Em
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+B6 e2 f4 e4 | a6 a2 b4 a4 | f4 a2 f2 e3 f a3 b | b12 z4 |
+!mf! e6 e2 f3 e b4 | a6 a2 b3 a f4 | e4 e2 f2 a4 f3 e | e12 z4 |
+e6 f2 a3 f e3 f | b3 d b4 a8 | f4 a2 b2 a4 b3 a | b12 z4 |
+B6 e2 f4 e4 | a6 a2 b4 a4 | b6 d2 b4 a3 f | e12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](samidare.tmd)
+- [鋼琴伴奏 TMD 檔案](samidare_piano.tmd)
 
 ## 分析
 
@@ -86,23 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:さみだれ
-C:曲：小松耕輔
-M:4/4
-L:1/16
-Q:1/4=76
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B6 e2 f4 e4 | a6 a2 b4 a4 | f4 a2 f2 e3 f a3 b | b12 z4 |
-!mf! e6 e2 f3 e b4 | a6 a2 b3 a f4 | e4 e2 f2 a4 f3 e | e12 z4 |
-e6 f2 a3 f e3 f | b3 d b4 a8 | f4 a2 b2 a4 b3 a | b12 z4 |
-B6 e2 f4 e4 | a6 a2 b4 a4 | b6 d2 b4 a3 f | e12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](samidare.tmd)
-- [鋼琴伴奏 TMD 檔案](samidare_piano.tmd)
+![P064.jpg](P064.jpg)
+
+

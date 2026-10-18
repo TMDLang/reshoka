@@ -43,9 +43,29 @@
 豐年ぢや　滿作ぢや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P043.jpg](P043.jpg)
+```abc
+X:1
+T:取入れ（秋收）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=116
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a4 g2 f2 | c3 d c2 a2 | f2 a a g2 f2 | g4 z4 |
+f2 f2 g2 a2 | c3 d c2 a2 | f2 a a g2 f2 | f4 z4 |
+c2 d2 c2 f2 | c2 d3 c f2 | g2 a g f2 g2 | a4 z4 |
+d2 c2 d2 c2 | a2 a2 c4 | a2 a2 g2 f2 | f4 z4 |
+c2 d2 c2 a2 | c6 d2 | c2 a2 g4 | f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](toriire.tmd)
+- [鋼琴伴奏 TMD 檔案](toriire_piano.tmd)
 
 ## 分析
 
@@ -101,24 +121,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:取入れ（秋收）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a4 g2 f2 | c3 d c2 a2 | f2 a a g2 f2 | g4 z4 |
-f2 f2 g2 a2 | c3 d c2 a2 | f2 a a g2 f2 | f4 z4 |
-c2 d2 c2 f2 | c2 d3 c f2 | g2 a g f2 g2 | a4 z4 |
-d2 c2 d2 c2 | a2 a2 c4 | a2 a2 g2 f2 | f4 z4 |
-c2 d2 c2 a2 | c6 d2 | c2 a2 g4 | f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](toriire.tmd)
-- [鋼琴伴奏 TMD 檔案](toriire_piano.tmd)
+![P043.jpg](P043.jpg)
+
+

@@ -24,9 +24,32 @@
 いなゝく馬（うま）ぞ　勇（いさ）ましき
 ```
 
-## 原書掃描頁
+## ABC
 
-![P040.jpg](P040.jpg)
+```abc
+X:1
+T:觀兵式
+C:曲：小山作之助
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 g2 g2 a2 | b2 a2 g2 e2 | d2 g2 a2 b2 | a6 z2 |
+b2 d2 d2 b2 | e2 d2 b2 d2 | a2 b2 a2 e2 | g6 z2 |
+!f! b8 | b4 c4 | d2 d2 e2 d2 | d2 b2 d2 b2 |
+a6 z2 | !p! a2 a2 g2 a2 | b2 a2 g2 e2 | g2 a2 a2 b2 |
+a6 z2 | !f! d2 d2 d2 d2 | e4 d2 b2 | d2 b2 a2 g2 |
+e6 z2 | d2 d2 e2 d2 | g2 g2 a4 | a2 a2 g2 a2 |
+b6 z2 | b2 d2 d2 b2 | a2 g2 a4 | d6 e d |
+b6 a2 | g6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kanpeishiki.tmd)
+- [鋼琴伴奏 TMD 檔案](kanpeishiki_piano.tmd)
 
 ## 分析
 
@@ -82,27 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:觀兵式
-C:曲：小山作之助
-M:2/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 g2 g2 a2 | b2 a2 g2 e2 | d2 g2 a2 b2 | a6 z2 |
-b2 d2 d2 b2 | e2 d2 b2 d2 | a2 b2 a2 e2 | g6 z2 |
-!f! b8 | b4 c4 | d2 d2 e2 d2 | d2 b2 d2 b2 |
-a6 z2 | !p! a2 a2 g2 a2 | b2 a2 g2 e2 | g2 a2 a2 b2 |
-a6 z2 | !f! d2 d2 d2 d2 | e4 d2 b2 | d2 b2 a2 g2 |
-e6 z2 | d2 d2 e2 d2 | g2 g2 a4 | a2 a2 g2 a2 |
-b6 z2 | b2 d2 d2 b2 | a2 g2 a4 | d6 e d |
-b6 a2 | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kanpeishiki.tmd)
-- [鋼琴伴奏 TMD 檔案](kanpeishiki_piano.tmd)
+![P040.jpg](P040.jpg)
+
+

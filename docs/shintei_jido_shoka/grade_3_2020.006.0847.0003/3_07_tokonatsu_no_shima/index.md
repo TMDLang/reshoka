@@ -39,9 +39,28 @@
 地上（ちじやう）に青（あを）く躍（をど）るよ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P058.jpg](P058.jpg)
+```abc
+X:1
+T:常夏の島
+C:曲：柚木厚司
+M:2/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 d2 B2 d2 | g3 b a3 g | a2 g2 e2 d2 | e6 z2 |
+g3 g e2 d2 | e6 z2 | b2 b2 a3 a | g6 z2 |
+e3 e e2 e2 | g2 e2 d2 B2 | d2 d2 e3 g | a6 z2 |
+g3 g e2 d2 | e2 e2 e2 e2 | d3 d b2 a2 | g6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tokonatsu_no_shima.tmd)
+- [鋼琴伴奏 TMD 檔案](tokonatsu_no_shima_piano.tmd)
 
 ## 分析
 
@@ -97,23 +116,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:常夏の島
-C:曲：柚木厚司
-M:2/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 d2 B2 d2 | g3 b a3 g | a2 g2 e2 d2 | e6 z2 |
-g3 g e2 d2 | e6 z2 | b2 b2 a3 a | g6 z2 |
-e3 e e2 e2 | g2 e2 d2 B2 | d2 d2 e3 g | a6 z2 |
-g3 g e2 d2 | e2 e2 e2 e2 | d3 d b2 a2 | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tokonatsu_no_shima.tmd)
-- [鋼琴伴奏 TMD 檔案](tokonatsu_no_shima_piano.tmd)
+![P058.jpg](P058.jpg)
+
+

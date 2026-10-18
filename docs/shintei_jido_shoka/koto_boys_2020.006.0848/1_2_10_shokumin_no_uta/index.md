@@ -28,11 +28,35 @@
 進（すす）め　進（すす）め　いざ進（すす）め諸共（もろとも）に
 ```
 
-## 原書掃描頁
+## ABC
 
-![P059.jpg](P059.jpg)
+```abc
+X:1
+T:殖民の歌
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! c3 =b c2 d2 c4 a4 | g4 a4 f4 g3 a | g4 f4 e4 f4 | d8 z4 g4 |
+g3 ^f g2 a2 c4 c4 | c4 z2 g2 g3 a g2 e2 | d4 G4 c4 z2 c2 | f4 f3 d f4 g4 |
+a4 a4 a4 a3 b | c4 a4 f4 a3 c | f3 d e3 ^f g4 g3 a | a4 z4 z4 a3 g |
+f4 z4 z4 f3 g | a4 a4 a4 a3 g | f3 e d3 c d4 g3 g | c8 z4 =b3 c |
+d8 z4 g3 a | Q:1/4=96 c3 a f3 a g4 c3 d | c4 g4 f4 c3 c | f3 g a3 b c4 f4- |
+f8 z4 z4 | !f! c3 =b c2 d2 c4 a4 | g4 a4 f4 g3 a | g4 f4 e4 f4 |
+d8 z4 g4 | g3 ^f g2 a2 c4 c4 | c4 z2 g2 g3 a g2 e2 | d4 G4 c4 z2 c2 |
+f4 f3 d f4 g4 | a4 a4 a4 a3 b | c4 a4 f4 a3 c | f3 d e3 ^f g4 g3 a |
+a4 z4 z4 a3 g | f4 z4 z4 f3 g | a4 a4 a4 a3 g | f3 e d3 c d4 g3 g |
+c8 z4 =b3 c | d8 z4 g3 a | Q:1/4=96 c3 a f3 a g4 c3 d | c4 g4 f4 c3 c |
+f3 g a3 b c4 f4- | f8 z4 z4 |
+```
 
-![P060.jpg](P060.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shokumin_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](shokumin_no_uta_piano.tmd)
 
 ## 分析
 
@@ -89,30 +113,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:殖民の歌
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! c3 =b c2 d2 c4 a4 | g4 a4 f4 g3 a | g4 f4 e4 f4 | d8 z4 g4 |
-g3 ^f g2 a2 c4 c4 | c4 z2 g2 g3 a g2 e2 | d4 G4 c4 z2 c2 | f4 f3 d f4 g4 |
-a4 a4 a4 a3 b | c4 a4 f4 a3 c | f3 d e3 ^f g4 g3 a | a4 z4 z4 a3 g |
-f4 z4 z4 f3 g | a4 a4 a4 a3 g | f3 e d3 c d4 g3 g | c8 z4 =b3 c |
-d8 z4 g3 a | Q:1/4=96 c3 a f3 a g4 c3 d | c4 g4 f4 c3 c | f3 g a3 b c4 f4- |
-f8 z4 z4 | !f! c3 =b c2 d2 c4 a4 | g4 a4 f4 g3 a | g4 f4 e4 f4 |
-d8 z4 g4 | g3 ^f g2 a2 c4 c4 | c4 z2 g2 g3 a g2 e2 | d4 G4 c4 z2 c2 |
-f4 f3 d f4 g4 | a4 a4 a4 a3 b | c4 a4 f4 a3 c | f3 d e3 ^f g4 g3 a |
-a4 z4 z4 a3 g | f4 z4 z4 f3 g | a4 a4 a4 a3 g | f3 e d3 c d4 g3 g |
-c8 z4 =b3 c | d8 z4 g3 a | Q:1/4=96 c3 a f3 a g4 c3 d | c4 g4 f4 c3 c |
-f3 g a3 b c4 f4- | f8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shokumin_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](shokumin_no_uta_piano.tmd)
+![P059.jpg](P059.jpg)
+
+![P060.jpg](P060.jpg)
+
+

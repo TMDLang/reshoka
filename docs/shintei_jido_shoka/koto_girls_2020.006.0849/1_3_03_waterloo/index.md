@@ -36,9 +36,39 @@
 運命盡きぬ　あゝ佛蘭西
 ```
 
-## 原書掃描頁
+## ABC
 
-![P062.jpg](P062.jpg)
+```abc
+X:1
+T:ヲーターロー
+C:曲：山田源一郎
+M:2/4
+L:1/16
+Q:1/4=100
+K:Gm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! g2 g2 g2 g2 | b6 a2 | b2 a2 b2 c2 | d6 d2 |
+d4 d4 | g2 f2 e2 d2 | a2 g2 ^f2 g2 | a2 a2 d4 |
+!mp! g4 f4 | e4 d4 | c2 c2 d2 e2 | d3 c d4 |
+!f! g4 c4 | e3 d c4 | b4 c3 b | a2 g2 d2 z2 |
+!mf! d4 g4 | b3 a g4 | !f! d4 a3 b | !p! c3 a g4 |
+!f! g2 g2 g2 g2 | b6 a2 | b2 a2 b2 c2 | d6 d2 |
+d4 d4 | g2 f2 e2 d2 | a2 g2 ^f2 g2 | a2 a2 d4 |
+!mp! g4 f4 | e4 d4 | c2 c2 d2 e2 | d3 c d4 |
+!f! g4 c4 | e3 d c4 | b4 c3 b | a2 g2 d2 z2 |
+!mf! d4 g4 | b3 a g4 | !f! d4 a3 b | !p! c3 a g4 |
+!f! g2 g2 g2 g2 | b6 a2 | b2 a2 b2 c2 | d6 d2 |
+d4 d4 | g2 f2 e2 d2 | a2 g2 ^f2 g2 | a2 a2 d4 |
+!mp! g4 f4 | e4 d4 | c2 c2 d2 e2 | d3 c d4 |
+!f! g4 c4 | e3 d c4 | b4 c3 b | a2 g2 d2 z2 |
+!mf! d4 g4 | b3 a g4 | !f! d4 a3 b | !p! c3 a g4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](waterloo.tmd)
+- [鋼琴伴奏 TMD 檔案](waterloo_piano.tmd)
 
 ## 分析
 
@@ -96,34 +126,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ヲーターロー
-C:曲：山田源一郎
-M:2/4
-L:1/16
-Q:1/4=100
-K:Gm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! g2 g2 g2 g2 | b6 a2 | b2 a2 b2 c2 | d6 d2 |
-d4 d4 | g2 f2 e2 d2 | a2 g2 ^f2 g2 | a2 a2 d4 |
-!mp! g4 f4 | e4 d4 | c2 c2 d2 e2 | d3 c d4 |
-!f! g4 c4 | e3 d c4 | b4 c3 b | a2 g2 d2 z2 |
-!mf! d4 g4 | b3 a g4 | !f! d4 a3 b | !p! c3 a g4 |
-!f! g2 g2 g2 g2 | b6 a2 | b2 a2 b2 c2 | d6 d2 |
-d4 d4 | g2 f2 e2 d2 | a2 g2 ^f2 g2 | a2 a2 d4 |
-!mp! g4 f4 | e4 d4 | c2 c2 d2 e2 | d3 c d4 |
-!f! g4 c4 | e3 d c4 | b4 c3 b | a2 g2 d2 z2 |
-!mf! d4 g4 | b3 a g4 | !f! d4 a3 b | !p! c3 a g4 |
-!f! g2 g2 g2 g2 | b6 a2 | b2 a2 b2 c2 | d6 d2 |
-d4 d4 | g2 f2 e2 d2 | a2 g2 ^f2 g2 | a2 a2 d4 |
-!mp! g4 f4 | e4 d4 | c2 c2 d2 e2 | d3 c d4 |
-!f! g4 c4 | e3 d c4 | b4 c3 b | a2 g2 d2 z2 |
-!mf! d4 g4 | b3 a g4 | !f! d4 a3 b | !p! c3 a g4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](waterloo.tmd)
-- [鋼琴伴奏 TMD 檔案](waterloo_piano.tmd)
+![P062.jpg](P062.jpg)
+
+

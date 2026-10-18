@@ -32,9 +32,28 @@
 今こそ別（わか）れめ　いざさらば。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P058.jpg](P058.jpg)
+```abc
+X:1
+T:仰げば尊し
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=53
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! f4 f2 f4 g2 | a4 b2 a6 | b4 a2 g4 e2 | f6 e6 |
+f4 f2 f4 g2 | a4 a2 b4 c2 | d4 c2 d4 b2 | a12 |
+!f! b4 a2 g4 b2 | a4 f2 d6 | e4 e2 b4 e2 | f12 |
+!mf! d4 e2 f4 g2 | !p! a4 b2 a4 d2 | f4 g2 f4 e2 | d12 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](aogeba_totoshi.tmd)
+- [鋼琴伴奏 TMD 檔案](aogeba_totoshi_piano.tmd)
 
 ## 分析
 
@@ -90,23 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:仰げば尊し
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=53
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! f4 f2 f4 g2 | a4 b2 a6 | b4 a2 g4 e2 | f6 e6 |
-f4 f2 f4 g2 | a4 a2 b4 c2 | d4 c2 d4 b2 | a12 |
-!f! b4 a2 g4 b2 | a4 f2 d6 | e4 e2 b4 e2 | f12 |
-!mf! d4 e2 f4 g2 | !p! a4 b2 a4 d2 | f4 g2 f4 e2 | d12 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](aogeba_totoshi.tmd)
-- [鋼琴伴奏 TMD 檔案](aogeba_totoshi_piano.tmd)
+![P058.jpg](P058.jpg)
+
+

@@ -31,9 +31,28 @@
 見る間に虹（にじ）は消（き）えて行（ゆ）く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P031.jpg](P031.jpg)
+```abc
+X:1
+T:夕立
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=120
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 f2 a2 d2 | b3 a a4 | g3 g f2 g2 | e2 f2 d4 |
+f3 a d2 c2 | b3 c d2 b2 | a b z2 a b z2 | a2 d4 z2 |
+d3 f d2 a2 | b3 g a2 f2 | e f z2 g a z2 | e2 a4 z2 |
+a3 b a2 f2 | d3 e f4 | e3 f g2 e2 | d6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yudachi.tmd)
+- [鋼琴伴奏 TMD 檔案](yudachi_piano.tmd)
 
 ## 分析
 
@@ -89,23 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:夕立
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=120
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 f2 a2 d2 | b3 a a4 | g3 g f2 g2 | e2 f2 d4 |
-f3 a d2 c2 | b3 c d2 b2 | a b z2 a b z2 | a2 d4 z2 |
-d3 f d2 a2 | b3 g a2 f2 | e f z2 g a z2 | e2 a4 z2 |
-a3 b a2 f2 | d3 e f4 | e3 f g2 e2 | d6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yudachi.tmd)
-- [鋼琴伴奏 TMD 檔案](yudachi_piano.tmd)
+![P031.jpg](P031.jpg)
+
+

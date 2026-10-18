@@ -26,9 +26,28 @@
 なほも手（て）に觸（ふ）れぬ、　淺蜊（あさり）・馬蛤貝（まてがひ）。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P081.jpg](P081.jpg)
+```abc
+X:1
+T:汐干狩
+C:曲：英國風曲
+M:4/4
+L:1/16
+Q:1/4=92
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 B4 | e4 e3 f g3 a b2 g2 | f4 b3 c b8 | g4 f3 g a3 f g4 |
+g4 f8 B4 | e4 e3 f g3 a b2 g2 | f8 b3 a g4 | f4 g3 a g3 f e4 |
+e8 z4 f2 f2 | f2 z2 g3 a b2 g2 e2 z2 | b6 g2 e3 d c3 b | c8 b4 B4 |
+e4 e3 f g3 a b2 c2 | !f! g4 e6 b2 g4 | f4 e3 f g3 a g4 | f4 e4 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shiohigari.tmd)
+- [鋼琴伴奏 TMD 檔案](shiohigari_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:汐干狩
-C:曲：英國風曲
-M:4/4
-L:1/16
-Q:1/4=92
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 B4 | e4 e3 f g3 a b2 g2 | f4 b3 c b8 | g4 f3 g a3 f g4 |
-g4 f8 B4 | e4 e3 f g3 a b2 g2 | f8 b3 a g4 | f4 g3 a g3 f e4 |
-e8 z4 f2 f2 | f2 z2 g3 a b2 g2 e2 z2 | b6 g2 e3 d c3 b | c8 b4 B4 |
-e4 e3 f g3 a b2 c2 | !f! g4 e6 b2 g4 | f4 e3 f g3 a g4 | f4 e4 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shiohigari.tmd)
-- [鋼琴伴奏 TMD 檔案](shiohigari_piano.tmd)
+![P081.jpg](P081.jpg)
+
+

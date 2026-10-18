@@ -50,11 +50,28 @@
 汝（なんぢ）の胸（むね）に血汐（ちしほ）なし
 ```
 
-## 原書掃描頁
+## ABC
 
-![P040.jpg](P040.jpg)
+```abc
+X:1
+T:乃木大將の歌
+C:曲：小松耕輔
+M:2/4
+L:1/16
+Q:1/4=84
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! e3 B e3 f | g3 f e3 f | g3 a b3 g | f6 z2 |
+g3 g f3 f | e3 f e3 B | g3 g f3 f | e6 z2 |
+!f! e3 b b3 b | c3 b a3 a | g3 a g3 f | b6 z2 |
+!mf! b3 e b3 a | g3 f e3 f | B3 e g3 f | e6 z2 |
+```
 
-![P041.jpg](P041.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nogi_taisho_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](nogi_taisho_no_uta_piano.tmd)
 
 ## 分析
 
@@ -110,23 +127,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:乃木大將の歌
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=84
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! e3 B e3 f | g3 f e3 f | g3 a b3 g | f6 z2 |
-g3 g f3 f | e3 f e3 B | g3 g f3 f | e6 z2 |
-!f! e3 b b3 b | c3 b a3 a | g3 a g3 f | b6 z2 |
-!mf! b3 e b3 a | g3 f e3 f | B3 e g3 f | e6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nogi_taisho_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](nogi_taisho_no_uta_piano.tmd)
+![P040.jpg](P040.jpg)
+
+![P041.jpg](P041.jpg)
+
+

@@ -28,9 +28,31 @@
 聲をそろへて　歌へ歌へとどろに歌へ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P108.jpg](P108.jpg)
+```abc
+X:1
+T:世界の平和
+C:曲：成田爲三
+M:4/4
+L:1/16
+Q:1/4=108
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 f2 b2 | c4 f2 c2 d4 f2 d2 | e4 z4 z4 d2 c2 | b3 c d2 f2 c4 d4 |
+f12 f2 b2 | c4 f2 c2 d4 c2 d2 | e4 z4 z4 c2 d2 | e3 e e2 a2 d4 c4 |
+b8 f4 f2 f2 | f4 d4 b4 c2 d2 | c12 z4 | g4 a4 b4 g4 |
+c4 b4 g4 e4 | f4 b4 a3 b c4 | _d3 c b2 a2 b4 g4 | f8 z4 g2 f2 |
+d8 =e4 c4 | f4 f2 g2 a4 a2 b2 | c8 f4 c2 c2 | !f! g3 f e2 c2 b4 a4 |
+b12 z4 | z4 f2 b2 c8 | z4 g2 c2 d8 | z4 f2 d2 b4 c2 a2 |
+b12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sekai_no_heiwa.tmd)
+- [鋼琴伴奏 TMD 檔案](sekai_no_heiwa_piano.tmd)
 
 ## 分析
 
@@ -86,26 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:世界の平和
-C:曲：成田爲三
-M:4/4
-L:1/16
-Q:1/4=108
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 f2 b2 | c4 f2 c2 d4 f2 d2 | e4 z4 z4 d2 c2 | b3 c d2 f2 c4 d4 |
-f12 f2 b2 | c4 f2 c2 d4 c2 d2 | e4 z4 z4 c2 d2 | e3 e e2 a2 d4 c4 |
-b8 f4 f2 f2 | f4 d4 b4 c2 d2 | c12 z4 | g4 a4 b4 g4 |
-c4 b4 g4 e4 | f4 b4 a3 b c4 | _d3 c b2 a2 b4 g4 | f8 z4 g2 f2 |
-d8 =e4 c4 | f4 f2 g2 a4 a2 b2 | c8 f4 c2 c2 | !f! g3 f e2 c2 b4 a4 |
-b12 z4 | z4 f2 b2 c8 | z4 g2 c2 d8 | z4 f2 d2 b4 c2 a2 |
-b12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](sekai_no_heiwa.tmd)
-- [鋼琴伴奏 TMD 檔案](sekai_no_heiwa_piano.tmd)
+![P108.jpg](P108.jpg)
+
+

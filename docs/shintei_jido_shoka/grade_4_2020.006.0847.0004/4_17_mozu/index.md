@@ -28,9 +28,28 @@
 しきりに啼ける　百舌鳥一羽
 ```
 
-## 原書掃描頁
+## ABC
 
-![P076.jpg](P076.jpg)
+```abc
+X:1
+T:百舌鳥
+C:曲：小松耕輔
+M:4/4
+L:1/16
+Q:1/4=112
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 b3 a g4 e4 | g4 a3 g e8 | g6 a2 b4 d3 e | a12 z4 |
+b6 d2 e4 d4 | b4 d3 e d4 b4 | a4 b3 a g4 e4 | g12 z4 |
+d6 e2 d4 b4 | a4 b4 d8 | b6 d2 a4 g4 | e12 z4 |
+d6 g2 b4 a4 | b8 d4 b4 | e6 d2 b4 a3 b | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mozu.tmd)
+- [鋼琴伴奏 TMD 檔案](mozu_piano.tmd)
 
 ## 分析
 
@@ -86,23 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:百舌鳥
-C:曲：小松耕輔
-M:4/4
-L:1/16
-Q:1/4=112
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 b3 a g4 e4 | g4 a3 g e8 | g6 a2 b4 d3 e | a12 z4 |
-b6 d2 e4 d4 | b4 d3 e d4 b4 | a4 b3 a g4 e4 | g12 z4 |
-d6 e2 d4 b4 | a4 b4 d8 | b6 d2 a4 g4 | e12 z4 |
-d6 g2 b4 a4 | b8 d4 b4 | e6 d2 b4 a3 b | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](mozu.tmd)
-- [鋼琴伴奏 TMD 檔案](mozu_piano.tmd)
+![P076.jpg](P076.jpg)
+
+

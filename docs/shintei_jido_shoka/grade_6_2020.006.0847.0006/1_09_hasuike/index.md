@@ -26,9 +26,30 @@
 ああ涼し涼しゆふぐれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P033.jpg](P033.jpg)
+```abc
+X:1
+T:蓮池
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=40
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z2 z2 z2 z2 z2 d2 | B4 d2 g4 d2 | a4 a2 a4 d2 | b4 b2 a4 g2 |
+a8 z2 d2 | B4 d2 g4 d2 | a4 b2 a4 d2 | b4 a2 g4 e2 |
+d8 z2 d2 | e4 e2 e4 f2 | g4 a2 b4 b2 | a4 a2 a4 b2 |
+d8 z2 d2 | e4 e2 e4 f2 | g4 a2 b4 d2 | c4 a2 f4 e2 |
+d8 z2 d2 | b6 d2 a4 | g6 a4 b2 | d6 a4 b2 |
+g8 z2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hasuike.tmd)
+- [鋼琴伴奏 TMD 檔案](hasuike_piano.tmd)
 
 ## 分析
 
@@ -84,25 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:蓮池
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=40
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 z2 z2 z2 z2 d2 | B4 d2 g4 d2 | a4 a2 a4 d2 | b4 b2 a4 g2 |
-a8 z2 d2 | B4 d2 g4 d2 | a4 b2 a4 d2 | b4 a2 g4 e2 |
-d8 z2 d2 | e4 e2 e4 f2 | g4 a2 b4 b2 | a4 a2 a4 b2 |
-d8 z2 d2 | e4 e2 e4 f2 | g4 a2 b4 d2 | c4 a2 f4 e2 |
-d8 z2 d2 | b6 d2 a4 | g6 a4 b2 | d6 a4 b2 |
-g8 z2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hasuike.tmd)
-- [鋼琴伴奏 TMD 檔案](hasuike_piano.tmd)
+![P033.jpg](P033.jpg)
+
+

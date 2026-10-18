@@ -33,9 +33,30 @@
 花やちらん蝶やまはん
 ```
 
-## 原書掃描頁
+## ABC
 
-![P052.jpg](P052.jpg)
+```abc
+X:1
+T:子守歌
+C:曲：Franz Schubert（女子音樂教科書）
+M:4/4
+L:1/16
+Q:1/4=69
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!pp! b3 c b2 a2 b3 b a4 | g a b c d2 c b b2 a4 z2 | !p! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
+a4 a2 b c d2 b2 g4 | c2 a2 f2 d2 a2 b c b4 | !pp! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
+!pp! b3 c b2 a2 b3 b a4 | g a b c d2 c b b2 a4 z2 | !p! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
+a4 a2 b c d2 b2 g4 | c2 a2 f2 d2 a2 b c b4 | !pp! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
+!pp! b3 c b2 a2 b3 b a4 | g a b c d2 c b b2 a4 z2 | !p! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
+a4 a2 b c d2 b2 g4 | c2 a2 f2 d2 a2 b c b4 | !pp! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](komoriuta.tmd)
+- [鋼琴伴奏 TMD 檔案](komoriuta_piano.tmd)
 
 ## 分析
 
@@ -93,25 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:子守歌
-C:曲：Franz Schubert（女子音樂教科書）
-M:4/4
-L:1/16
-Q:1/4=69
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!pp! b3 c b2 a2 b3 b a4 | g a b c d2 c b b2 a4 z2 | !p! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
-a4 a2 b c d2 b2 g4 | c2 a2 f2 d2 a2 b c b4 | !pp! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
-!pp! b3 c b2 a2 b3 b a4 | g a b c d2 c b b2 a4 z2 | !p! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
-a4 a2 b c d2 b2 g4 | c2 a2 f2 d2 a2 b c b4 | !pp! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
-!pp! b3 c b2 a2 b3 b a4 | g a b c d2 c b b2 a4 z2 | !p! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
-a4 a2 b c d2 b2 g4 | c2 a2 f2 d2 a2 b c b4 | !pp! b3 c b2 a2 b3 b a4 | g2 b d g2 e c b2 a2 g2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](komoriuta.tmd)
-- [鋼琴伴奏 TMD 檔案](komoriuta_piano.tmd)
+![P052.jpg](P052.jpg)
+
+

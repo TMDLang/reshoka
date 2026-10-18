@@ -35,9 +35,29 @@
 麗はし麗はし　敷島の大和
 ```
 
-## 原書掃描頁
+## ABC
 
-![P105.jpg](P105.jpg)
+```abc
+X:1
+T:麗はしき我國
+C:曲：獨國風曲
+M:4/4
+L:1/16
+Q:1/4=108
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z2 e2 f2 g2 | a6 c2 b3 a g3 a | f8 z4 f4 | b3 c d3 ^d e3 c a3 f |
+e8 z2 e2 f3 g | a6 c2 b3 a g3 a | f8 z2 f2 f3 f | b8 e8 |
+c8 z4 e4 | a6 c2 b2 a2 g3 a | f8 z2 f2 f2 f2 | b2 c2 d3 ^d e3 c a3 f |
+!f! e8 z2 e2 c2 e2 | a8 z2 a2 e2 a2 | c8 z2 c2 a2 c2 | !ff! e6 c2 b3 c d3 b |
+a8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](uruwashiki_wagakuni.tmd)
+- [鋼琴伴奏 TMD 檔案](uruwashiki_wagakuni_piano.tmd)
 
 ## 分析
 
@@ -93,24 +113,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:麗はしき我國
-C:曲：獨國風曲
-M:4/4
-L:1/16
-Q:1/4=108
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z2 e2 f2 g2 | a6 c2 b3 a g3 a | f8 z4 f4 | b3 c d3 ^d e3 c a3 f |
-e8 z2 e2 f3 g | a6 c2 b3 a g3 a | f8 z2 f2 f3 f | b8 e8 |
-c8 z4 e4 | a6 c2 b2 a2 g3 a | f8 z2 f2 f2 f2 | b2 c2 d3 ^d e3 c a3 f |
-!f! e8 z2 e2 c2 e2 | a8 z2 a2 e2 a2 | c8 z2 c2 a2 c2 | !ff! e6 c2 b3 c d3 b |
-a8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](uruwashiki_wagakuni.tmd)
-- [鋼琴伴奏 TMD 檔案](uruwashiki_wagakuni_piano.tmd)
+![P105.jpg](P105.jpg)
+
+

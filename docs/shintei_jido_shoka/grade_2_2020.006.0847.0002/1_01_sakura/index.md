@@ -28,11 +28,29 @@
 サトハ　一メン　アヤニシキ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P016.jpg](P016.jpg)
+```abc
+X:1
+T:サクラ
+C:曲：田村虎藏
+M:4/4
+L:1/16
+Q:1/4=88
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! a6 b2 a4 f4 | f4 e4 d4 z4 | e6 e2 d4 e4 | f4 a4 e4 z4 |
+a6 b2 a4 f4 | f4 e4 d4 z4 | e6 e2 d4 f4 | e4 f2 e2 d4 z4 |
+!f! a6 f2 a2 b4 z2 | d6 b2 d2 a4 z2 | b6 b2 a4 f4 | e4 f2 e2 d4 z4 |
+!mp! B6 B2 B4 d4 | e4 d4 e8 | f6 f2 e4 d4 | A12 z4 |
+!mf! b4 a4 b8 | d6 d2 c4 b4 | a6 f2 e4 f4 | d12 z4 |
+```
 
-![P017.jpg](P017.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sakura.tmd)
+- [鋼琴伴奏 TMD 檔案](sakura_piano.tmd)
 
 ## 分析
 
@@ -88,24 +106,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:サクラ
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=88
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! a6 b2 a4 f4 | f4 e4 d4 z4 | e6 e2 d4 e4 | f4 a4 e4 z4 |
-a6 b2 a4 f4 | f4 e4 d4 z4 | e6 e2 d4 f4 | e4 f2 e2 d4 z4 |
-!f! a6 f2 a2 b4 z2 | d6 b2 d2 a4 z2 | b6 b2 a4 f4 | e4 f2 e2 d4 z4 |
-!mp! B6 B2 B4 d4 | e4 d4 e8 | f6 f2 e4 d4 | A12 z4 |
-!mf! b4 a4 b8 | d6 d2 c4 b4 | a6 f2 e4 f4 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](sakura.tmd)
-- [鋼琴伴奏 TMD 檔案](sakura_piano.tmd)
+![P016.jpg](P016.jpg)
+
+![P017.jpg](P017.jpg)
+
+

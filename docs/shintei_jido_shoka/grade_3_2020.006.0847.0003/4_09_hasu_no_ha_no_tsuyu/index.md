@@ -27,9 +27,28 @@
 ころころ落ちて　ゆきました
 ```
 
-## 原書掃描頁
+## ABC
 
-![P069.jpg](P069.jpg)
+```abc
+X:1
+T:蓮の葉の露
+C:曲：梁田貞
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c6 d2 e3 g e4 | g4 a4 g6 z2 | c6 c2 c4 a4 | g12 z4 |
+e6 g2 a3 c g4 | e4 e4 d6 z2 | c6 c2 d4 e4 | e12 z4 |
+g6 e2 a8 | c4 c4 c6 z2 | d4 c2 z2 c4 a2 z2 | g12 z4 |
+c6 d2 e3 g e4 | g4 e4 c6 z2 | a4 g2 z2 e4 d2 z2 | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hasu_no_ha_no_tsuyu.tmd)
+- [鋼琴伴奏 TMD 檔案](hasu_no_ha_no_tsuyu_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:蓮の葉の露
-C:曲：梁田貞
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c6 d2 e3 g e4 | g4 a4 g6 z2 | c6 c2 c4 a4 | g12 z4 |
-e6 g2 a3 c g4 | e4 e4 d6 z2 | c6 c2 d4 e4 | e12 z4 |
-g6 e2 a8 | c4 c4 c6 z2 | d4 c2 z2 c4 a2 z2 | g12 z4 |
-c6 d2 e3 g e4 | g4 e4 c6 z2 | a4 g2 z2 e4 d2 z2 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hasu_no_ha_no_tsuyu.tmd)
-- [鋼琴伴奏 TMD 檔案](hasu_no_ha_no_tsuyu_piano.tmd)
+![P069.jpg](P069.jpg)
+
+

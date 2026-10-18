@@ -24,9 +24,36 @@
 旭の御旗世にかざゝん
 ```
 
-## 原書掃描頁
+## ABC
 
-![P118.jpg](P118.jpg)
+```abc
+X:1
+T:我國旗
+C:曲：歐洲曲
+M:4/4
+L:1/16
+Q:1/4=96
+K:Bb
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+[V:V1]
+!mf! z4 z4 z4 f4 | b6 b2 c4 d4 | e8 d4 c4 | b4 c4 d4 c4 |
+b8 z4 f4 | b6 b2 c4 d4 | e8 d4 c4 | b4 c4 d4 c4 |
+b8 z4 f4 | c6 c2 d4 b4 | c8 d4 e4 | d4 c4 b4 d4 |
+c8 f4 f4 | b6 b2 c4 d4 | e8 d4 c4 | b4 c4 d4 c4 |
+b8 z4 z4 |
+[V:V2]
+!mf! z4 z4 z4 f4 | d6 d2 f4 f4 | g8 b4 a4 | g4 a4 b4 a4 |
+d8 z4 f4 | d6 d2 f4 f4 | g8 b4 a4 | g4 f4 f4 f4 |
+d8 z4 f4 | f6 f2 f4 f4 | f8 b4 c4 | b4 a4 g4 f4 |
+f8 c4 f4 | d6 d2 f4 f4 | g8 b4 a4 | g4 f4 f4 f4 |
+d8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](waga_kokki.tmd)
+- [鋼琴伴奏 TMD 檔案](waga_kokki_piano.tmd)
 
 ## 分析
 
@@ -83,31 +110,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:我國旗
-C:曲：歐洲曲
-M:4/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! z4 z4 z4 f4 | b6 b2 c4 d4 | e8 d4 c4 | b4 c4 d4 c4 |
-b8 z4 f4 | b6 b2 c4 d4 | e8 d4 c4 | b4 c4 d4 c4 |
-b8 z4 f4 | c6 c2 d4 b4 | c8 d4 e4 | d4 c4 b4 d4 |
-c8 f4 f4 | b6 b2 c4 d4 | e8 d4 c4 | b4 c4 d4 c4 |
-b8 z4 z4 |
-[V:V2]
-!mf! z4 z4 z4 f4 | d6 d2 f4 f4 | g8 b4 a4 | g4 a4 b4 a4 |
-d8 z4 f4 | d6 d2 f4 f4 | g8 b4 a4 | g4 f4 f4 f4 |
-d8 z4 f4 | f6 f2 f4 f4 | f8 b4 c4 | b4 a4 g4 f4 |
-f8 c4 f4 | d6 d2 f4 f4 | g8 b4 a4 | g4 f4 f4 f4 |
-d8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](waga_kokki.tmd)
-- [鋼琴伴奏 TMD 檔案](waga_kokki_piano.tmd)
+![P118.jpg](P118.jpg)
+
+

@@ -35,9 +35,28 @@
 岸（きし）をうつ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P080.jpg](P080.jpg)
+```abc
+X:1
+T:どんぶりこ
+C:曲：佐々木英／詞：西郷果
+M:2/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z2 c2 c2 d2 | e2 e d c2 z2 | !mp! z2 c2 c2 d2 | e2 e d c2 z2 |
+!mf! A2 A2 G2 c2 | e2 d c d4 | e2 e e d2 g2 | e6 z2 |
+!f! a4 a2 g2 | e2 d c d2 z2 | c2 d e g2 e2 | d6 z2 |
+!mf! c2 c d e2 c2 | a2 a a g2 e2 | d2 d c A2 d2 | c6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](donburiko.tmd)
+- [鋼琴伴奏 TMD 檔案](donburiko_piano.tmd)
 
 ## 分析
 
@@ -93,23 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:どんぶりこ
-C:曲：佐々木英／詞：西郷果
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 c2 c2 d2 | e2 e d c2 z2 | !mp! z2 c2 c2 d2 | e2 e d c2 z2 |
-!mf! A2 A2 G2 c2 | e2 d c d4 | e2 e e d2 g2 | e6 z2 |
-!f! a4 a2 g2 | e2 d c d2 z2 | c2 d e g2 e2 | d6 z2 |
-!mf! c2 c d e2 c2 | a2 a a g2 e2 | d2 d c A2 d2 | c6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](donburiko.tmd)
-- [鋼琴伴奏 TMD 檔案](donburiko_piano.tmd)
+![P080.jpg](P080.jpg)
+
+

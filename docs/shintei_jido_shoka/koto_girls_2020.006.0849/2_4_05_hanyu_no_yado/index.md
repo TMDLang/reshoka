@@ -32,11 +32,49 @@
 たのしとも　たのもしや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P116.jpg](P116.jpg)
+```abc
+X:1
+T:埴生の宿
+C:曲：Bishop
+M:4/4
+L:1/16
+Q:1/4=88
+K:Eb
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+V:V3 name="Part3" snm="Par"
+[V:V1]
+!p! z4 z4 z4 e2 f2 | g6 a2 a6 b2 | b4 g4 z4 g2 f2 | a6 g2 a4 f4 |
+g8 z4 e2 f2 | g6 a2 a6 b2 | b4 g4 z4 g2 f2 | a6 g2 a4 f4 |
+!f! e8 z4 b4 | e6 d2 c6 b2 | b4 g4 z4 g2 f2 | a6 g2 a4 f4 |
+!f! g8 z4 b4 | e6 d2 c6 b2 | b4 g4 z4 b4 | c4 a4 g4 f4 |
+e8 z4 z4 | !pp! b12 z4 | !p! e8 d8 | !mf! c8 b8 |
+!f! !ff! b8 z4 b4 | e6 d2 c6 b2 | b4 g4 z4 b4 | c2 a2 g2 a2 g4 f4 |
+e12 z4 |
+[V:V2]
+!p! z4 z4 z4 e2 e2 | e6 f2 f6 g2 | g4 e4 z4 e2 d2 | f6 e2 f4 d4 |
+e8 z4 e2 e2 | e6 f2 f6 g2 | g4 e4 z4 e2 d2 | f6 e2 f4 d4 |
+!f! e8 z4 g4 | g6 b2 a6 g2 | g4 e4 z4 e2 d2 | f6 e2 f4 d4 |
+!f! e8 z4 g4 | g6 b2 a6 g2 | g4 e4 z4 g4 | a4 f4 e4 d4 |
+e8 z4 z4 | !pp! f12 z4 | !p! g8 f8 | !mf! e8 g8 |
+!f! !ff! f8 z4 g4 | g6 b2 a6 g2 | g4 e4 z4 g4 | a2 f2 e2 f2 e4 d4 |
+e12 z4 |
+[V:V3]
+!p! z4 z4 z4 e2 e2 | e8 e6 e2 | e8 z4 e2 e2 | B8 B4 B4 |
+e8 z4 e2 e2 | e8 e6 e2 | e8 z4 e2 e2 | B8 B4 B4 |
+!f! e8 z4 e4 | e8 e6 e2 | e8 z4 e2 e2 | B8 B4 B4 |
+!f! e8 z4 e4 | e8 e6 e2 | e8 z4 e4 | B8 B4 B4 |
+e8 z4 z4 | !pp! d12 z4 | !p! e8 B8 | !mf! A8 B8 |
+!f! !ff! d8 z4 e4 | e8 e6 e2 | e8 z4 e4 | A6 A2 B4 B4 |
+e12 z4 |
+```
 
-![P117.jpg](P117.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hanyu_no_yado.tmd)
+- [鋼琴伴奏 TMD 檔案](hanyu_no_yado_piano.tmd)
 
 ## 分析
 
@@ -94,44 +132,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:埴生の宿
-C:曲：Bishop
-M:4/4
-L:1/16
-Q:1/4=88
-K:Eb
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-V:V3 name="Part3" snm="Par"
-[V:V1]
-!p! z4 z4 z4 e2 f2 | g6 a2 a6 b2 | b4 g4 z4 g2 f2 | a6 g2 a4 f4 |
-g8 z4 e2 f2 | g6 a2 a6 b2 | b4 g4 z4 g2 f2 | a6 g2 a4 f4 |
-!f! e8 z4 b4 | e6 d2 c6 b2 | b4 g4 z4 g2 f2 | a6 g2 a4 f4 |
-!f! g8 z4 b4 | e6 d2 c6 b2 | b4 g4 z4 b4 | c4 a4 g4 f4 |
-e8 z4 z4 | !pp! b12 z4 | !p! e8 d8 | !mf! c8 b8 |
-!f! !ff! b8 z4 b4 | e6 d2 c6 b2 | b4 g4 z4 b4 | c2 a2 g2 a2 g4 f4 |
-e12 z4 |
-[V:V2]
-!p! z4 z4 z4 e2 e2 | e6 f2 f6 g2 | g4 e4 z4 e2 d2 | f6 e2 f4 d4 |
-e8 z4 e2 e2 | e6 f2 f6 g2 | g4 e4 z4 e2 d2 | f6 e2 f4 d4 |
-!f! e8 z4 g4 | g6 b2 a6 g2 | g4 e4 z4 e2 d2 | f6 e2 f4 d4 |
-!f! e8 z4 g4 | g6 b2 a6 g2 | g4 e4 z4 g4 | a4 f4 e4 d4 |
-e8 z4 z4 | !pp! f12 z4 | !p! g8 f8 | !mf! e8 g8 |
-!f! !ff! f8 z4 g4 | g6 b2 a6 g2 | g4 e4 z4 g4 | a2 f2 e2 f2 e4 d4 |
-e12 z4 |
-[V:V3]
-!p! z4 z4 z4 e2 e2 | e8 e6 e2 | e8 z4 e2 e2 | B8 B4 B4 |
-e8 z4 e2 e2 | e8 e6 e2 | e8 z4 e2 e2 | B8 B4 B4 |
-!f! e8 z4 e4 | e8 e6 e2 | e8 z4 e2 e2 | B8 B4 B4 |
-!f! e8 z4 e4 | e8 e6 e2 | e8 z4 e4 | B8 B4 B4 |
-e8 z4 z4 | !pp! d12 z4 | !p! e8 B8 | !mf! A8 B8 |
-!f! !ff! d8 z4 e4 | e8 e6 e2 | e8 z4 e4 | A6 A2 B4 B4 |
-e12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hanyu_no_yado.tmd)
-- [鋼琴伴奏 TMD 檔案](hanyu_no_yado_piano.tmd)
+![P116.jpg](P116.jpg)
+
+![P117.jpg](P117.jpg)
+
+

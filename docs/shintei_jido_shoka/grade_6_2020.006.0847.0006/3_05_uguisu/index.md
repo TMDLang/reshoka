@@ -33,11 +33,31 @@
 ケキョ〳〵〳〵〳〵　ホー〳〵ホーホケキョ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P056.jpg](P056.jpg)
+```abc
+X:1
+T:鶯
+C:曲：フラー（英）
+M:4/4
+L:1/16
+Q:1/4=108
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! c6 c2 d4 d4 | e4 f4 d4 z4 | g6 g2 f6 f2 | e4 f4 g8 |
+c6 c2 d4 d4 | e4 f4 d4 z4 | g6 g2 f6 f2 | e4 d4 c8 |
+!mp! g2 a2 g2 z2 g2 a2 g2 z2 | g2 a2 g2 z2 g2 a2 g2 z2 | !mf! c6 g2 e6 c2 | d4 d2 e2 d2 c6 |
+!mf! c6 c2 b4 b4 | a4 a4 g4 z4 | a6 a2 g4 g4 | f4 d4 g6 z2 |
+c6 c2 b4 b4 | a4 a4 g4 z4 | a6 g2 f4 e4 | d4 g4 c8 |
+c6 c2 d4 d4 | e4 f4 d4 z4 | g6 g2 f6 f2 | e4 d4 c8 |
+!mp! g2 a2 g2 z2 g2 a2 g2 z2 | g2 a2 g2 z2 g2 a2 g2 z2 | !mf! c6 g2 e6 c2 | d4 d2 e2 d2 c6 |
+```
 
-![P057.jpg](P057.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](uguisu.tmd)
+- [鋼琴伴奏 TMD 檔案](uguisu_piano.tmd)
 
 ## 分析
 
@@ -93,26 +113,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:鶯
-C:曲：フラー（英）
-M:4/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c6 c2 d4 d4 | e4 f4 d4 z4 | g6 g2 f6 f2 | e4 f4 g8 |
-c6 c2 d4 d4 | e4 f4 d4 z4 | g6 g2 f6 f2 | e4 d4 c8 |
-!mp! g2 a2 g2 z2 g2 a2 g2 z2 | g2 a2 g2 z2 g2 a2 g2 z2 | !mf! c6 g2 e6 c2 | d4 d2 e2 d2 c6 |
-!mf! c6 c2 b4 b4 | a4 a4 g4 z4 | a6 a2 g4 g4 | f4 d4 g6 z2 |
-c6 c2 b4 b4 | a4 a4 g4 z4 | a6 g2 f4 e4 | d4 g4 c8 |
-c6 c2 d4 d4 | e4 f4 d4 z4 | g6 g2 f6 f2 | e4 d4 c8 |
-!mp! g2 a2 g2 z2 g2 a2 g2 z2 | g2 a2 g2 z2 g2 a2 g2 z2 | !mf! c6 g2 e6 c2 | d4 d2 e2 d2 c6 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](uguisu.tmd)
-- [鋼琴伴奏 TMD 檔案](uguisu_piano.tmd)
+![P056.jpg](P056.jpg)
+
+![P057.jpg](P057.jpg)
+
+

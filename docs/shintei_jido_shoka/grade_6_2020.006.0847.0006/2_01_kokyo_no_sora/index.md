@@ -26,9 +26,28 @@
 あゝわが同胞（はらから）たれと遊ぶ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P036.jpg](P036.jpg)
+```abc
+X:1
+T:故郷の空
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=88
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 d d3 b | a3 b d3 b | a3 g e3 d | e4 z4 |
+d3 d d3 b | a3 b d3 b | a3 g a3 b | g4 z4 |
+e3 d b3 d | b3 a g3 a | b3 d e3 d | b4 z3 e |
+d3 b b3 d | b3 a g3 a | d3 d e3 d | g4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kokyo_no_sora.tmd)
+- [鋼琴伴奏 TMD 檔案](kokyo_no_sora_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:故郷の空
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 d d3 b | a3 b d3 b | a3 g e3 d | e4 z4 |
-d3 d d3 b | a3 b d3 b | a3 g a3 b | g4 z4 |
-e3 d b3 d | b3 a g3 a | b3 d e3 d | b4 z3 e |
-d3 b b3 d | b3 a g3 a | d3 d e3 d | g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kokyo_no_sora.tmd)
-- [鋼琴伴奏 TMD 檔案](kokyo_no_sora_piano.tmd)
+![P036.jpg](P036.jpg)
+
+

@@ -32,9 +32,26 @@
 ウシウシカヘレ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P036.jpg](P036.jpg)
+```abc
+X:1
+T:オヤウシコウシ
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 d4 c4 a4 | d4 c4 c4 z4 | d4 d2 d2 c4 a4 | g4 d2 f2 g4 z4 |
+a6 a2 a4 c4 | d4 d4 c4 z4 | d6 c2 a4 g2 f2 | g4 a2 g2 f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](oyaushi_koushi.tmd)
+- [鋼琴伴奏 TMD 檔案](oyaushi_koushi_piano.tmd)
 
 ## 分析
 
@@ -90,21 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:オヤウシコウシ
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 d4 c4 a4 | d4 c4 c4 z4 | d4 d2 d2 c4 a4 | g4 d2 f2 g4 z4 |
-a6 a2 a4 c4 | d4 d4 c4 z4 | d6 c2 a4 g2 f2 | g4 a2 g2 f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](oyaushi_koushi.tmd)
-- [鋼琴伴奏 TMD 檔案](oyaushi_koushi_piano.tmd)
+![P036.jpg](P036.jpg)
+
+

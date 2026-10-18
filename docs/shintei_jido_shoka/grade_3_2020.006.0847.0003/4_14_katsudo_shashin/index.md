@@ -25,9 +25,32 @@ Key: D major (?= D), 6/8 (<6/8>), 早メニ 面白ク Dotted Quarter = 112 (!= 1
 子供は手をあげ　帽子をふる
 ```
 
-## 原書掃描頁
+## ABC
 
-![P075.jpg](P075.jpg)
+```abc
+X:1
+T:活動寫眞
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=75
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 b2 z2 b2 a2 z2 | d2 b2 z2 b2 a2 z2 | f2 d2 z2 e f g2 z2 | a6 f4 z2 |
+d2 b2 z2 b2 a2 z2 | d2 b2 z2 b2 a2 z2 | f2 d2 z2 e f g2 z2 | e6 d4 z2 |
+d4 d2 d2 c2 b2 | b2 b2 z2 a4 d2 | a2 f2 z2 d2 B2 z2 | a10 z2 |
+d4 d2 d2 b2 a2 | a2 a2 z2 f4 e2 | d2 e2 f6 e2 | d10 z2 |
+d2 b2 z2 b2 a2 z2 | d2 b2 z2 b2 a2 z2 | f2 d2 z2 e f g2 z2 | a6 f4 z2 |
+d2 b2 z2 b2 a2 z2 | d2 b2 z2 b2 a2 z2 | f2 d2 z2 e f g2 z2 | e6 d4 z2 |
+d4 d2 d2 c2 b2 | b2 b2 z2 a4 d2 | a2 f2 z2 d2 B2 z2 | a10 z2 |
+d4 d2 d2 b2 a2 | a2 a2 z2 f4 e2 | d2 e2 f6 e2 | d10 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](katsudo_shashin.tmd)
+- [鋼琴伴奏 TMD 檔案](katsudo_shashin_piano.tmd)
 
 ## 分析
 
@@ -84,27 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:活動寫眞
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=75
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 b2 z2 b2 a2 z2 | d2 b2 z2 b2 a2 z2 | f2 d2 z2 e f g2 z2 | a6 f4 z2 |
-d2 b2 z2 b2 a2 z2 | d2 b2 z2 b2 a2 z2 | f2 d2 z2 e f g2 z2 | e6 d4 z2 |
-d4 d2 d2 c2 b2 | b2 b2 z2 a4 d2 | a2 f2 z2 d2 B2 z2 | a10 z2 |
-d4 d2 d2 b2 a2 | a2 a2 z2 f4 e2 | d2 e2 f6 e2 | d10 z2 |
-d2 b2 z2 b2 a2 z2 | d2 b2 z2 b2 a2 z2 | f2 d2 z2 e f g2 z2 | a6 f4 z2 |
-d2 b2 z2 b2 a2 z2 | d2 b2 z2 b2 a2 z2 | f2 d2 z2 e f g2 z2 | e6 d4 z2 |
-d4 d2 d2 c2 b2 | b2 b2 z2 a4 d2 | a2 f2 z2 d2 B2 z2 | a10 z2 |
-d4 d2 d2 b2 a2 | a2 a2 z2 f4 e2 | d2 e2 f6 e2 | d10 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](katsudo_shashin.tmd)
-- [鋼琴伴奏 TMD 檔案](katsudo_shashin_piano.tmd)
+![P075.jpg](P075.jpg)
+
+

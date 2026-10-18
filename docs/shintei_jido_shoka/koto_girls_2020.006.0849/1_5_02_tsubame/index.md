@@ -26,9 +26,38 @@
 飽（あ）きなば疾（と）く〳〵來よ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P073.jpg](P073.jpg)
+```abc
+X:1
+T:燕
+C:曲：（獨國風歌）
+M:4/4
+L:1/16
+Q:1/4=92
+K:F
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+[V:V1]
+!f! c8 c8 | b4 a2 g2 a4 f4 | b4 b4 c4 e4 | !mf! c8 z4 a2 b2 |
+c4 c4 c4 d4 | c4 b4 a4 g2 a2 | b4 b4 b4 c2 b2 | a4 g4 a4 c4 |
+f4 g4 a4 b4 | !f! c8 f4 d4 | a8 f4 z4 | !f! c8 c8 |
+b4 a2 g2 a4 f4 | b4 b4 c4 e4 | !mf! c8 z4 a2 b2 | c4 c4 c4 d4 |
+c4 b4 a4 g2 a2 | b4 b4 b4 c2 b2 | a4 g4 a4 c4 | f4 g4 a4 b4 |
+!f! c8 f4 d4 | a8 f4 z4 |
+[V:V2]
+!f! a8 f8 | d4 c2 c2 f4 f4 | f4 f4 e4 c4 | !mf! a8 z4 f2 g2 |
+a4 a4 a4 b4 | a4 g4 f4 e2 f2 | g4 g4 g4 a2 g2 | f4 e4 f4 c4 |
+f4 e4 f4 d4 | !f! a8 a4 b4 | c8 f4 z4 | !f! a8 f8 |
+d4 c2 c2 f4 f4 | f4 f4 e4 c4 | !mf! a8 z4 f2 g2 | a4 a4 a4 b4 |
+a4 g4 f4 e2 f2 | g4 g4 g4 a2 g2 | f4 e4 f4 c4 | f4 e4 f4 d4 |
+!f! a8 a4 b4 | c8 f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tsubame.tmd)
+- [鋼琴伴奏 TMD 檔案](tsubame_piano.tmd)
 
 ## 分析
 
@@ -86,33 +115,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:燕
-C:曲：（獨國風歌）
-M:4/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!f! c8 c8 | b4 a2 g2 a4 f4 | b4 b4 c4 e4 | !mf! c8 z4 a2 b2 |
-c4 c4 c4 d4 | c4 b4 a4 g2 a2 | b4 b4 b4 c2 b2 | a4 g4 a4 c4 |
-f4 g4 a4 b4 | !f! c8 f4 d4 | a8 f4 z4 | !f! c8 c8 |
-b4 a2 g2 a4 f4 | b4 b4 c4 e4 | !mf! c8 z4 a2 b2 | c4 c4 c4 d4 |
-c4 b4 a4 g2 a2 | b4 b4 b4 c2 b2 | a4 g4 a4 c4 | f4 g4 a4 b4 |
-!f! c8 f4 d4 | a8 f4 z4 |
-[V:V2]
-!f! a8 f8 | d4 c2 c2 f4 f4 | f4 f4 e4 c4 | !mf! a8 z4 f2 g2 |
-a4 a4 a4 b4 | a4 g4 f4 e2 f2 | g4 g4 g4 a2 g2 | f4 e4 f4 c4 |
-f4 e4 f4 d4 | !f! a8 a4 b4 | c8 f4 z4 | !f! a8 f8 |
-d4 c2 c2 f4 f4 | f4 f4 e4 c4 | !mf! a8 z4 f2 g2 | a4 a4 a4 b4 |
-a4 g4 f4 e2 f2 | g4 g4 g4 a2 g2 | f4 e4 f4 c4 | f4 e4 f4 d4 |
-!f! a8 a4 b4 | c8 f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tsubame.tmd)
-- [鋼琴伴奏 TMD 檔案](tsubame_piano.tmd)
+![P073.jpg](P073.jpg)
+
+

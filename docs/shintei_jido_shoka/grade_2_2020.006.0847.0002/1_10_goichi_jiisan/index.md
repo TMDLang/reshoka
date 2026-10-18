@@ -33,11 +33,30 @@
 カケタタスキノ　キレルマデ」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P028.jpg](P028.jpg)
+```abc
+X:1
+T:五一ヂイサン
+C:曲：永井幸次
+M:4/4
+L:1/16
+Q:1/4=126
+K:Ab
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a6 e2 a6 c2 | b4 b4 e8 | f4 a2 f2 e4 c4 | e12 z4 |
+a6 e2 a6 c2 | b4 b4 e8 | f4 a2 f2 e4 b4 | a12 z4 |
+b6 b2 b8 | c8 a8 | f6 f2 a4 f4 | e12 z4 |
+a4 f4 e4 a4 | c4 b4 a4 f4 | e4 a4 b4 c4 | a12 z4 |
+e4 c4 e4 a4 | c4 b4 a6 f2 | a2 a2 f2 f2 a2 a2 e2 c2 | e6 z2 e4 c2 e2 |
+a4 c4 b4 a4 | f4 z4 a8 | e4 a4 b4 c4 | a12 z4 |
+```
 
-![P029.jpg](P029.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](goichi_jiisan.tmd)
+- [鋼琴伴奏 TMD 檔案](goichi_jiisan_piano.tmd)
 
 ## 分析
 
@@ -93,25 +112,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:五一ヂイサン
-C:曲：永井幸次
-M:4/4
-L:1/16
-Q:1/4=126
-K:Ab
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a6 e2 a6 c2 | b4 b4 e8 | f4 a2 f2 e4 c4 | e12 z4 |
-a6 e2 a6 c2 | b4 b4 e8 | f4 a2 f2 e4 b4 | a12 z4 |
-b6 b2 b8 | c8 a8 | f6 f2 a4 f4 | e12 z4 |
-a4 f4 e4 a4 | c4 b4 a4 f4 | e4 a4 b4 c4 | a12 z4 |
-e4 c4 e4 a4 | c4 b4 a6 f2 | a2 a2 f2 f2 a2 a2 e2 c2 | e6 z2 e4 c2 e2 |
-a4 c4 b4 a4 | f4 z4 a8 | e4 a4 b4 c4 | a12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](goichi_jiisan.tmd)
-- [鋼琴伴奏 TMD 檔案](goichi_jiisan_piano.tmd)
+![P028.jpg](P028.jpg)
+
+![P029.jpg](P029.jpg)
+
+

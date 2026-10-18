@@ -37,9 +37,28 @@
 昔（むかし）なつかしおぢいさま
 ```
 
-## 原書掃描頁
+## ABC
 
-![P051.jpg](P051.jpg)
+```abc
+X:1
+T:いかだかづら
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=88
+K:Am
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+A3 B c2 d2 | e2 f2 e2 d2 | c2 d2 c2 B2 | A6 z2 |
+E2 E2 A2 B2 | c2 B2 A2 c2 | B3 A ^G2 A2 | B6 z2 |
+E2 E2 A2 B2 | c2 B2 c2 d2 | e3 f e2 d2 | e6 z2 |
+c3 d c2 B2 | A3 B c2 d2 | B3 E c2 B2 | A6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ikadakazura.tmd)
+- [鋼琴伴奏 TMD 檔案](ikadakazura_piano.tmd)
 
 ## 分析
 
@@ -95,23 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:いかだかづら
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=88
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A3 B c2 d2 | e2 f2 e2 d2 | c2 d2 c2 B2 | A6 z2 |
-E2 E2 A2 B2 | c2 B2 A2 c2 | B3 A ^G2 A2 | B6 z2 |
-E2 E2 A2 B2 | c2 B2 c2 d2 | e3 f e2 d2 | e6 z2 |
-c3 d c2 B2 | A3 B c2 d2 | B3 E c2 B2 | A6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ikadakazura.tmd)
-- [鋼琴伴奏 TMD 檔案](ikadakazura_piano.tmd)
+![P051.jpg](P051.jpg)
+
+

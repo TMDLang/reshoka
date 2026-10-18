@@ -19,9 +19,28 @@
 スズシイ　コエデ　リン　チリリン
 ```
 
-## 原書掃描頁
+## ABC
 
-![P062.jpg](P062.jpg)
+```abc
+X:1
+T:ムシノコヱ
+C:曲：小松耕輔
+M:2/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 d c2 a2 | c3 d c2 a2 | g3 a g2 e2 | g6 z2 |
+a3 a c2 a2 | g3 a g2 e2 | d3 d c2 d2 | e2 e2 d2 z2 |
+e3 e g2 g2 | a2 a2 g4 | e3 e d2 c2 | G6 z2 |
+a3 a c2 a2 | g3 g e4 | c4 a2 g2 | c6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mushi_no_koe.tmd)
+- [鋼琴伴奏 TMD 檔案](mushi_no_koe_piano.tmd)
 
 ## 分析
 
@@ -77,23 +96,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ムシノコヱ
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 d c2 a2 | c3 d c2 a2 | g3 a g2 e2 | g6 z2 |
-a3 a c2 a2 | g3 a g2 e2 | d3 d c2 d2 | e2 e2 d2 z2 |
-e3 e g2 g2 | a2 a2 g4 | e3 e d2 c2 | G6 z2 |
-a3 a c2 a2 | g3 g e4 | c4 a2 g2 | c6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](mushi_no_koe.tmd)
-- [鋼琴伴奏 TMD 檔案](mushi_no_koe_piano.tmd)
+![P062.jpg](P062.jpg)
+
+

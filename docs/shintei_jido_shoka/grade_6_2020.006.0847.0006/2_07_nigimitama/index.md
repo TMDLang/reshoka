@@ -37,9 +37,28 @@
 しづまりませるにぎみたま
 ```
 
-## 原書掃描頁
+## ABC
 
-![P045.jpg](P045.jpg)
+```abc
+X:1
+T:にぎみたま
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=104
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 g4 b4 d4 | c8 b4 a4 | g4 a4 b4 d4 | a12 z4 |
+b4 b4 a4 g4 | a4 b4 d4 b4 | a4 d4 b4 a4 | g12 z4 |
+f4 g4 a4 f4 | g4 a4 b4 c4 | d4 e4 d4 b4 | d12 z4 |
+e4 d4 b4 g4 | c8 b4 a4 | g4 d4 e4 f4 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nigimitama.tmd)
+- [鋼琴伴奏 TMD 檔案](nigimitama_piano.tmd)
 
 ## 分析
 
@@ -95,23 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:にぎみたま
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 g4 b4 d4 | c8 b4 a4 | g4 a4 b4 d4 | a12 z4 |
-b4 b4 a4 g4 | a4 b4 d4 b4 | a4 d4 b4 a4 | g12 z4 |
-f4 g4 a4 f4 | g4 a4 b4 c4 | d4 e4 d4 b4 | d12 z4 |
-e4 d4 b4 g4 | c8 b4 a4 | g4 d4 e4 f4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nigimitama.tmd)
-- [鋼琴伴奏 TMD 檔案](nigimitama_piano.tmd)
+![P045.jpg](P045.jpg)
+
+

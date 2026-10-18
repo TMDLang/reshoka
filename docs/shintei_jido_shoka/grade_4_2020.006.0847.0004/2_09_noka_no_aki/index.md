@@ -36,11 +36,29 @@
 もみの庭（には）から　にげて行く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P044.jpg](P044.jpg)
+```abc
+X:1
+T:農家の秋
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=120
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 c2 c2 d2 c2 c2 a2 c2 | g2 g2 f2 g2 a4 z4 | g2 g2 a2 g2 f2 f2 d2 c2 | d2 d2 f2 d2 g4 z4 |
+c2 c2 c2 d2 c2 a2 c4 | g2 g2 a2 g2 f4 z4 | d2 d2 d2 d2 c2 c2 d2 f2 | g2 g2 f2 d2 f4 z4 |
+g2 g2 g2 f2 g2 g2 a4 | g2 g2 f2 g2 a4 z4 | c2 c2 c2 d2 c2 c2 a2 c2 | g2 g2 a2 g2 f4 z4 |
+g2 g2 g2 g2 a2 g2 f2 d2 | f2 f2 g2 a2 c4 z4 | c2 c2 d2 c2 c2 a2 c4 | g2 g2 a2 f2 g4 z4 |
+a2 a2 c2 c2 g2 g2 a2 f2 | d2 f2 a2 g2 f8 |
+```
 
-![P045.jpg](P045.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](noka_no_aki.tmd)
+- [鋼琴伴奏 TMD 檔案](noka_no_aki_piano.tmd)
 
 ## 分析
 
@@ -96,24 +114,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:農家の秋
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=120
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 c2 d2 c2 c2 a2 c2 | g2 g2 f2 g2 a4 z4 | g2 g2 a2 g2 f2 f2 d2 c2 | d2 d2 f2 d2 g4 z4 |
-c2 c2 c2 d2 c2 a2 c4 | g2 g2 a2 g2 f4 z4 | d2 d2 d2 d2 c2 c2 d2 f2 | g2 g2 f2 d2 f4 z4 |
-g2 g2 g2 f2 g2 g2 a4 | g2 g2 f2 g2 a4 z4 | c2 c2 c2 d2 c2 c2 a2 c2 | g2 g2 a2 g2 f4 z4 |
-g2 g2 g2 g2 a2 g2 f2 d2 | f2 f2 g2 a2 c4 z4 | c2 c2 d2 c2 c2 a2 c4 | g2 g2 a2 f2 g4 z4 |
-a2 a2 c2 c2 g2 g2 a2 f2 | d2 f2 a2 g2 f8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](noka_no_aki.tmd)
-- [鋼琴伴奏 TMD 檔案](noka_no_aki_piano.tmd)
+![P044.jpg](P044.jpg)
+
+![P045.jpg](P045.jpg)
+
+

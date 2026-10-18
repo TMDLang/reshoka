@@ -29,11 +29,29 @@
 日本晴（につぽんばれ）の青空（あをぞら）で
 ```
 
-## 原書掃描頁
+## ABC
 
-![P030.jpg](P030.jpg)
+```abc
+X:1
+T:鯉のぼり
+C:曲：小松耕輔
+M:2/4
+L:1/16
+Q:1/4=100
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a3 a a2 a2 | b2 b a a4 | d3 d b2 b2 | a6 z2 |
+f2 f a f4 | e2 e e d4 | f2 f e e4 | d6 z2 |
+d3 d d2 d2 | b2 b2 a4 | f2 f e f4 | a6 z2 |
+b2 b b a4 | d3 d b4 | a2 a f f4 | e6 z2 |
+f2 f f d4 | a2 a2 a4 | f2 f e e4 | d6 z2 |
+```
 
-![P031.jpg](P031.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](koinobori.tmd)
+- [鋼琴伴奏 TMD 檔案](koinobori_piano.tmd)
 
 ## 分析
 
@@ -89,24 +107,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:鯉のぼり
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=100
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a3 a a2 a2 | b2 b a a4 | d3 d b2 b2 | a6 z2 |
-f2 f a f4 | e2 e e d4 | f2 f e e4 | d6 z2 |
-d3 d d2 d2 | b2 b2 a4 | f2 f e f4 | a6 z2 |
-b2 b b a4 | d3 d b4 | a2 a f f4 | e6 z2 |
-f2 f f d4 | a2 a2 a4 | f2 f e e4 | d6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](koinobori.tmd)
-- [鋼琴伴奏 TMD 檔案](koinobori_piano.tmd)
+![P030.jpg](P030.jpg)
+
+![P031.jpg](P031.jpg)
+
+

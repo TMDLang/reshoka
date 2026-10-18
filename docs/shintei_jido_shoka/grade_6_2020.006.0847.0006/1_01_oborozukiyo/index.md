@@ -24,9 +24,29 @@
 さながら霞める　朧月夜
 ```
 
-## 原書掃描頁
+## ABC
 
-![P024.jpg](P024.jpg)
+```abc
+X:1
+T:朧月夜
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=72
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! z4 z4 d2 e2 | f6 g2 a2 f2 | g2 b2 a4 d4 | f6 e2 f2 a2 |
+e8 d2 e2 | f6 g2 a2 f2 | g2 b2 a4 a4 | b6 a2 f2 e2 |
+!mf! d8 e2 e2 | b4 b2 c2 d4 | d2 b2 a4 b2 a2 | f6 a2 f2 e2 |
+!p! d8 d2 e2 | f6 g2 a2 f2 | g2 b2 a4 a4 | b6 a2 f2 e2 |
+d8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](oborozukiyo.tmd)
+- [鋼琴伴奏 TMD 檔案](oborozukiyo_piano.tmd)
 
 ## 分析
 
@@ -82,24 +102,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:朧月夜
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=72
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 d2 e2 | f6 g2 a2 f2 | g2 b2 a4 d4 | f6 e2 f2 a2 |
-e8 d2 e2 | f6 g2 a2 f2 | g2 b2 a4 a4 | b6 a2 f2 e2 |
-!mf! d8 e2 e2 | b4 b2 c2 d4 | d2 b2 a4 b2 a2 | f6 a2 f2 e2 |
-!p! d8 d2 e2 | f6 g2 a2 f2 | g2 b2 a4 a4 | b6 a2 f2 e2 |
-d8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](oborozukiyo.tmd)
-- [鋼琴伴奏 TMD 檔案](oborozukiyo_piano.tmd)
+![P024.jpg](P024.jpg)
+
+

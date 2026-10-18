@@ -28,9 +28,29 @@
 この大御代は榮（さか）ゆる御代よ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P052.jpg](P052.jpg)
+```abc
+X:1
+T:我が帝國
+C:曲：田村虎藏
+M:4/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 c3 c | f8 f4 f3 g | a8 a4 g3 a | c6 a2 g4 a4 |
+!f! g8 z4 c3 c | d8 a4 d3 c | !mf! c12 c3 a | g6 a2 g4 f4 |
+!mp! d4 c4 z4 c3 c | f8 f4 d3 f | !mf! g8 g4 c3 c | d6 c2 a4 g4 |
+!f! a8 a4 c3 c | d8 a4 d3 c | !mf! c8 a4 g3 a | f6 g2 a4 g4 |
+f8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](waga_teikoku.tmd)
+- [鋼琴伴奏 TMD 檔案](waga_teikoku_piano.tmd)
 
 ## 分析
 
@@ -86,24 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:我が帝國
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 c3 c | f8 f4 f3 g | a8 a4 g3 a | c6 a2 g4 a4 |
-!f! g8 z4 c3 c | d8 a4 d3 c | !mf! c12 c3 a | g6 a2 g4 f4 |
-!mp! d4 c4 z4 c3 c | f8 f4 d3 f | !mf! g8 g4 c3 c | d6 c2 a4 g4 |
-!f! a8 a4 c3 c | d8 a4 d3 c | !mf! c8 a4 g3 a | f6 g2 a4 g4 |
-f8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](waga_teikoku.tmd)
-- [鋼琴伴奏 TMD 檔案](waga_teikoku_piano.tmd)
+![P052.jpg](P052.jpg)
+
+

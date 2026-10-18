@@ -30,9 +30,28 @@
 配所（はいしょ）に果（は）てし　君あはれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P025.jpg](P025.jpg)
+```abc
+X:1
+T:菅公
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=80
+K:Em
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+B8 e4 f4 | g4 a4 b4 b4 | e4 d2 c2 b4 a4 | b12 z4 |
+g4 a4 b4 g4 | e8 B4 B4 | e4 g2 b2 a4 g4 | e12 z4 |
+b8 c4 b4 | a8 b4 b4 | c4 b4 a4 g4 | f12 z4 |
+g4 b4 e4 d4 | c8 b8 | a4 g2 f2 e4 ^d4 | e12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kanko.tmd)
+- [鋼琴伴奏 TMD 檔案](kanko_piano.tmd)
 
 ## 分析
 
@@ -88,23 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:菅公
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=80
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B8 e4 f4 | g4 a4 b4 b4 | e4 d2 c2 b4 a4 | b12 z4 |
-g4 a4 b4 g4 | e8 B4 B4 | e4 g2 b2 a4 g4 | e12 z4 |
-b8 c4 b4 | a8 b4 b4 | c4 b4 a4 g4 | f12 z4 |
-g4 b4 e4 d4 | c8 b8 | a4 g2 f2 e4 ^d4 | e12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kanko.tmd)
-- [鋼琴伴奏 TMD 檔案](kanko_piano.tmd)
+![P025.jpg](P025.jpg)
+
+

@@ -24,9 +24,30 @@
 我（われ）にもかせよ　羽（は）袖（そで）を」（復唱）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P058.jpg](P058.jpg)
+```abc
+X:1
+T:舞踏
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=126
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d6 e2 d4 | c4 b4 a4 | g4 e4 g4 | a4 a4 a4 |
+d6 e2 d4 | c4 b4 a4 | g4 b4 a4 | g4 z4 z4 |
+a6 a2 a4 | a4 b4 c4 | b6 b2 b4 | b4 c4 d4 |
+d6 e2 d4 | c4 b4 a4 | g4 b4 a4 | g4 z4 z4 |
+a6 a2 a4 | a4 b4 c4 | b6 b2 b4 | b4 c4 d4 |
+d6 e2 d4 | c4 b4 a4 | g4 b4 a4 | g4 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](buto.tmd)
+- [鋼琴伴奏 TMD 檔案](buto_piano.tmd)
 
 ## 分析
 
@@ -82,25 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:舞踏
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=126
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d6 e2 d4 | c4 b4 a4 | g4 e4 g4 | a4 a4 a4 |
-d6 e2 d4 | c4 b4 a4 | g4 b4 a4 | g4 z4 z4 |
-a6 a2 a4 | a4 b4 c4 | b6 b2 b4 | b4 c4 d4 |
-d6 e2 d4 | c4 b4 a4 | g4 b4 a4 | g4 z4 z4 |
-a6 a2 a4 | a4 b4 c4 | b6 b2 b4 | b4 c4 d4 |
-d6 e2 d4 | c4 b4 a4 | g4 b4 a4 | g4 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](buto.tmd)
-- [鋼琴伴奏 TMD 檔案](buto_piano.tmd)
+![P058.jpg](P058.jpg)
+
+

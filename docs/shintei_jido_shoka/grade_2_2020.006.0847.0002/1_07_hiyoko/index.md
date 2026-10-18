@@ -21,11 +21,30 @@
 ハガヒノ下（シタ）カラ　ピヨピヨピヨ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P024.jpg](P024.jpg)
+```abc
+X:1
+T:ヒヨコ
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:Am
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e8 f4 e4 | a4 a4 f4 e4 | a6 a2 f4 e4 | a4 b4 c4 z4 |
+a8 b4 a4 | f6 a2 f4 e4 | !p! a4 f4 a4 f4 | a4 f8 z4 |
+d4 e4 f4 e4 | f4 a4 b4 a4 | c6 c2 b4 a4 | f4 e4 f4 z4 |
+e8 e4 e4 | d4 d4 e4 e4 | f6 f2 e4 e4 | d4 d4 e4 z4 |
+a6 a2 f4 e4 | d6 d2 e4 e4 | a6 f2 a6 f2 | a4 b4 a4 z4 |
+b6 c2 b4 a4 | f6 a2 f4 e4 | a6 f2 a4 f4 | d4 e8 z4 |
+```
 
-![P025.jpg](P025.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hiyoko.tmd)
+- [鋼琴伴奏 TMD 檔案](hiyoko_piano.tmd)
 
 ## 分析
 
@@ -81,25 +100,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ヒヨコ
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e8 f4 e4 | a4 a4 f4 e4 | a6 a2 f4 e4 | a4 b4 c4 z4 |
-a8 b4 a4 | f6 a2 f4 e4 | !p! a4 f4 a4 f4 | a4 f8 z4 |
-d4 e4 f4 e4 | f4 a4 b4 a4 | c6 c2 b4 a4 | f4 e4 f4 z4 |
-e8 e4 e4 | d4 d4 e4 e4 | f6 f2 e4 e4 | d4 d4 e4 z4 |
-a6 a2 f4 e4 | d6 d2 e4 e4 | a6 f2 a6 f2 | a4 b4 a4 z4 |
-b6 c2 b4 a4 | f6 a2 f4 e4 | a6 f2 a4 f4 | d4 e8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hiyoko.tmd)
-- [鋼琴伴奏 TMD 檔案](hiyoko_piano.tmd)
+![P024.jpg](P024.jpg)
+
+![P025.jpg](P025.jpg)
+
+

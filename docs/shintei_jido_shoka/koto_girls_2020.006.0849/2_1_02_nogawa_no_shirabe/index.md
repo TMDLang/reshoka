@@ -26,9 +26,29 @@
 音なく靜かに流れゆく
 ```
 
-## 原書掃描頁
+## ABC
 
-![P079.jpg](P079.jpg)
+```abc
+X:1
+T:野川のしらべ
+C:曲：成田為三
+M:4/4
+L:1/16
+Q:1/4=84
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! z4 z4 z4 e4 | e6 ^d2 e2 a2 ^g2 a2 | a6 b2 a4 e4 | f8 e4 d4 |
+e8 z4 e4 | e6 ^d2 e2 a2 a2 b2 | c6 b2 a4 c4 | d8 a4 c4 |
+b8 z4 b4 | e6 ^f2 g4 a4 | b8 e4 b4 | a8 a4 ^g2 a2 |
+b8 z4 e4 | e6 ^d2 e2 a2 a2 b2 | c6 b2 a4 a4 | c8 b4 b4 |
+a8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nogawa_no_shirabe.tmd)
+- [鋼琴伴奏 TMD 檔案](nogawa_no_shirabe_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:野川のしらべ
-C:曲：成田為三
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 z4 e4 | e6 ^d2 e2 a2 ^g2 a2 | a6 b2 a4 e4 | f8 e4 d4 |
-e8 z4 e4 | e6 ^d2 e2 a2 a2 b2 | c6 b2 a4 c4 | d8 a4 c4 |
-b8 z4 b4 | e6 ^f2 g4 a4 | b8 e4 b4 | a8 a4 ^g2 a2 |
-b8 z4 e4 | e6 ^d2 e2 a2 a2 b2 | c6 b2 a4 a4 | c8 b4 b4 |
-a8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nogawa_no_shirabe.tmd)
-- [鋼琴伴奏 TMD 檔案](nogawa_no_shirabe_piano.tmd)
+![P079.jpg](P079.jpg)
+
+

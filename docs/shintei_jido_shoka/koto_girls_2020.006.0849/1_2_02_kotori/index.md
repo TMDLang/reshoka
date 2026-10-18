@@ -30,9 +30,32 @@
 青（あを）きみ空け遠（とほ）く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P047.jpg](P047.jpg)
+```abc
+X:1
+T:小鳥
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! d3 d d4 d4 | g3 a b4 a4 | g3 e d4 g4 | d3 d d3 d g2 a2 |
+b3 a g4 a4 | b3 b a4 d4 | b3 a g4 e4 | d3 g a4 z4 |
+b3 b a4 d4 | b3 a g4 e4 | d3 g f3 e d3 z | !p! d3 d e3 e f2 f2 |
+g3 g a4 b4 | a3 b c4 a4 | !f! d3 b g4 e2 a2 | g3 f a3 g g3 z |
+!mf! d3 d d4 d4 | g3 a b4 a4 | g3 e d4 g4 | d3 d d3 d g2 a2 |
+b3 a g4 a4 | b3 b a4 d4 | b3 a g4 e4 | d3 g a4 z4 |
+b3 b a4 d4 | b3 a g4 e4 | d3 g f3 e d3 z | !p! d3 d e3 e f2 f2 |
+g3 g a4 b4 | a3 b c4 a4 | !f! d3 b g4 e2 a2 | g3 f a3 g g3 z |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kotori.tmd)
+- [鋼琴伴奏 TMD 檔案](kotori_piano.tmd)
 
 ## 分析
 
@@ -89,27 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:小鳥
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! d3 d d4 d4 | g3 a b4 a4 | g3 e d4 g4 | d3 d d3 d g2 a2 |
-b3 a g4 a4 | b3 b a4 d4 | b3 a g4 e4 | d3 g a4 z4 |
-b3 b a4 d4 | b3 a g4 e4 | d3 g f3 e d3 z | !p! d3 d e3 e f2 f2 |
-g3 g a4 b4 | a3 b c4 a4 | !f! d3 b g4 e2 a2 | g3 f a3 g g3 z |
-!mf! d3 d d4 d4 | g3 a b4 a4 | g3 e d4 g4 | d3 d d3 d g2 a2 |
-b3 a g4 a4 | b3 b a4 d4 | b3 a g4 e4 | d3 g a4 z4 |
-b3 b a4 d4 | b3 a g4 e4 | d3 g f3 e d3 z | !p! d3 d e3 e f2 f2 |
-g3 g a4 b4 | a3 b c4 a4 | !f! d3 b g4 e2 a2 | g3 f a3 g g3 z |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kotori.tmd)
-- [鋼琴伴奏 TMD 檔案](kotori_piano.tmd)
+![P047.jpg](P047.jpg)
+
+

@@ -28,9 +28,32 @@
 やよ船子
 ```
 
-## 原書掃描頁
+## ABC
 
-![P071.jpg](P071.jpg)
+```abc
+X:1
+T:船子
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=67
+K:D
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+[V:V1]
+!mf! d6 d6 | d4 e2 f6 | f4 g2 a4 b2 | a6 f6 |
+a2 a2 a2 b2 a2 g2 | f2 f2 f2 g2 f2 e2 | f4 g2 e4 e2 | d12 |
+z6 z6 | z6 z6 |
+[V:V2]
+z12 | z12 | !mf! d6 d6 | d4 e2 f6 |
+f4 g2 a4 b2 | a6 f6 | a2 a2 a2 b2 a2 g2 | f2 f2 f2 g2 f2 e2 |
+f4 g2 e4 e2 | d12 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](funako.tmd)
+- [鋼琴伴奏 TMD 檔案](funako_piano.tmd)
 
 ## 分析
 
@@ -87,27 +110,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:船子
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=67
-K:D
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! d6 d6 | d4 e2 f6 | f4 g2 a4 b2 | a6 f6 |
-a2 a2 a2 b2 a2 g2 | f2 f2 f2 g2 f2 e2 | f4 g2 e4 e2 | d12 |
-z6 z6 | z6 z6 |
-[V:V2]
-z12 | z12 | !mf! d6 d6 | d4 e2 f6 |
-f4 g2 a4 b2 | a6 f6 | a2 a2 a2 b2 a2 g2 | f2 f2 f2 g2 f2 e2 |
-f4 g2 e4 e2 | d12 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](funako.tmd)
-- [鋼琴伴奏 TMD 檔案](funako_piano.tmd)
+![P071.jpg](P071.jpg)
+
+

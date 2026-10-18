@@ -63,11 +63,28 @@
 八重（やへ）の潮路（しほぢ）に乘（の）り出（いだ）せ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P062.jpg](P062.jpg)
+```abc
+X:1
+T:南洋の歌
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 c a3 g | g2 a2 g3 e | c3 d c2 a2 | g6 z2 |
+a3 a g3 a | c3 d c2 a2 | g3 e e3 d | c6 z2 |
+d3 d e2 g2 | a3 a g2 e2 | d3 e g3 a | g6 z2 |
+c3 d c2 a2 | g3 a g2 e2 | d3 d e3 d | c6 z2 |
+```
 
-![P063.jpg](P063.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nanyo_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](nanyo_no_uta_piano.tmd)
 
 ## 分析
 
@@ -123,23 +140,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:南洋の歌
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 c a3 g | g2 a2 g3 e | c3 d c2 a2 | g6 z2 |
-a3 a g3 a | c3 d c2 a2 | g3 e e3 d | c6 z2 |
-d3 d e2 g2 | a3 a g2 e2 | d3 e g3 a | g6 z2 |
-c3 d c2 a2 | g3 a g2 e2 | d3 d e3 d | c6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nanyo_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](nanyo_no_uta_piano.tmd)
+![P062.jpg](P062.jpg)
+
+![P063.jpg](P063.jpg)
+
+

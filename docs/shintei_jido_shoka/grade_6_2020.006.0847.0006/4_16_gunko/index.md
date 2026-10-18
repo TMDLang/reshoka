@@ -30,9 +30,29 @@
 御代は靜（しづか）に國は安（やす）し
 ```
 
-## 原書掃描頁
+## ABC
 
-![P081.jpg](P081.jpg)
+```abc
+X:1
+T:軍港
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z2 d2 | d2 B2 d2 g2 | g4 d2 d2 | e2 e2 f2 f2 |
+g6 g2 | a2 a2 a2 a2 | b4 g2 g2 | a2 a2 e2 f2 |
+d6 d2 | f2 f2 a2 a2 | c4 f2 f2 | g2 g2 b2 b2 |
+d6 b2 | c2 b2 a2 b2 | c4 e2 e2 | d2 b2 a2 f2 |
+g6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gunko.tmd)
+- [鋼琴伴奏 TMD 檔案](gunko_piano.tmd)
 
 ## 分析
 
@@ -88,24 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:軍港
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z2 d2 | d2 B2 d2 g2 | g4 d2 d2 | e2 e2 f2 f2 |
-g6 g2 | a2 a2 a2 a2 | b4 g2 g2 | a2 a2 e2 f2 |
-d6 d2 | f2 f2 a2 a2 | c4 f2 f2 | g2 g2 b2 b2 |
-d6 b2 | c2 b2 a2 b2 | c4 e2 e2 | d2 b2 a2 f2 |
-g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gunko.tmd)
-- [鋼琴伴奏 TMD 檔案](gunko_piano.tmd)
+![P081.jpg](P081.jpg)
+
+

@@ -34,9 +34,28 @@
 だれがうたつて　ゐるのでせう
 ```
 
-## 原書掃描頁
+## ABC
 
-![P057.jpg](P057.jpg)
+```abc
+X:1
+T:蓄音機（留聲機）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=108
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 d e4 | g2 g2 a2 g2 | c3 b c3 a | g6 z2 |
+a4 g2 a2 | c3 b c2 a2 | d3 c d3 e | d6 z2 |
+e2 d2 e2 d2 | e2 d2 e2 g2 | e2 a2 g2 a2 | c2 c2 c2 z2 |
+g4 e2 g2 | c3 g e4 | g2 f2 e2 d2 | c6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](chikuonki.tmd)
+- [鋼琴伴奏 TMD 檔案](chikuonki_piano.tmd)
 
 ## 分析
 
@@ -92,23 +111,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:蓄音機（留聲機）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 d e4 | g2 g2 a2 g2 | c3 b c3 a | g6 z2 |
-a4 g2 a2 | c3 b c2 a2 | d3 c d3 e | d6 z2 |
-e2 d2 e2 d2 | e2 d2 e2 g2 | e2 a2 g2 a2 | c2 c2 c2 z2 |
-g4 e2 g2 | c3 g e4 | g2 f2 e2 d2 | c6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](chikuonki.tmd)
-- [鋼琴伴奏 TMD 檔案](chikuonki_piano.tmd)
+![P057.jpg](P057.jpg)
+
+

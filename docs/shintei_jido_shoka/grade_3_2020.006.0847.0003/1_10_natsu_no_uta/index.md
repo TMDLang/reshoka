@@ -27,9 +27,28 @@
 涼（すゞ）しき聲（こゑ）はをちこちに
 ```
 
-## 原書掃描頁
+## ABC
 
-![P035.jpg](P035.jpg)
+```abc
+X:1
+T:夏の歌
+C:曲：田村虎藏
+M:2/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g2 b2 a2 g2 | e2 g2 d4 | g2 a2 b2 g2 | a6 z2 |
+b2 d2 c2 b2 | a2 g2 a4 | b3 c b2 a2 | g6 z2 |
+d2 e2 d2 b2 | d2 e2 d2 z2 | b4 c2 b2 | a2 g2 a2 z2 |
+b2 b2 a2 g2 | e2 g2 d4 | g4 a2 d2 | b2 a2 g2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](natsu_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](natsu_no_uta_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:夏の歌
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g2 b2 a2 g2 | e2 g2 d4 | g2 a2 b2 g2 | a6 z2 |
-b2 d2 c2 b2 | a2 g2 a4 | b3 c b2 a2 | g6 z2 |
-d2 e2 d2 b2 | d2 e2 d2 z2 | b4 c2 b2 | a2 g2 a2 z2 |
-b2 b2 a2 g2 | e2 g2 d4 | g4 a2 d2 | b2 a2 g2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](natsu_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](natsu_no_uta_piano.tmd)
+![P035.jpg](P035.jpg)
+
+

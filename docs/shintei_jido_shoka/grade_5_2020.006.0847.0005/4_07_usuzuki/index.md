@@ -24,9 +24,28 @@
 入江（いりえ）は　涼（すゞ）しい　泊（とま）り舟（ぶね）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P064.jpg](P064.jpg)
+```abc
+X:1
+T:うすづき
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=58
+K:E
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z4 z2 B2 | c2 c2 e2 f2 g2 b2 | c4 c6 b2 | g2 b2 c4 c2 b2 |
+e8 z2 b2 | b4 g2 f4 e2 | f2 g2 b6 g2 | f2 g2 f4 g4 |
+e12 | e8 z4 | c2 b2 c6 b2 | g2 a2 g2 f2 e4 |
+f2 g2 a4 f4 | e2 f2 e8 | e4 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](usuzuki.tmd)
+- [鋼琴伴奏 TMD 檔案](usuzuki_piano.tmd)
 
 ## 分析
 
@@ -82,23 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:うすづき
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=58
-K:E
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z2 B2 | c2 c2 e2 f2 g2 b2 | c4 c6 b2 | g2 b2 c4 c2 b2 |
-e8 z2 b2 | b4 g2 f4 e2 | f2 g2 b6 g2 | f2 g2 f4 g4 |
-e12 | e8 z4 | c2 b2 c6 b2 | g2 a2 g2 f2 e4 |
-f2 g2 a4 f4 | e2 f2 e8 | e4 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](usuzuki.tmd)
-- [鋼琴伴奏 TMD 檔案](usuzuki_piano.tmd)
+![P064.jpg](P064.jpg)
+
+

@@ -33,11 +33,30 @@
 マハリナガラ　タノシクアソベ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P024.jpg](P024.jpg)
+```abc
+X:1
+T:カザグルマトコドモ
+C:曲：西洋曲
+M:2/4
+L:1/16
+Q:1/4=104
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a2 c4 c2 | a2 c4 c2 | a2 c2 c2 c2 | d2 g4 g2 |
+g2 b4 b2 | g2 b4 b2 | b2 a2 g2 f2 | e2 d2 c4 |
+f2 f2 f2 f2 | f2 f4 f2 | g2 g2 g2 g2 | g2 g4 g2 |
+a2 c4 c2 | a2 c4 c2 | d2 d2 c2 c2 | a2 g2 f4 |
+f2 f2 f f f2 | f f f2 f f f2 | g2 g2 g g g2 | g g g2 g g g2 |
+a2 c4 c2 | a2 c4 c2 | d2 d2 c2 c2 | a2 g2 f4 |
+```
 
-![P025.jpg](P025.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kazaguruma_to_kodomo.tmd)
+- [鋼琴伴奏 TMD 檔案](kazaguruma_to_kodomo_piano.tmd)
 
 ## 分析
 
@@ -93,25 +112,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:カザグルマトコドモ
-C:曲：西洋曲
-M:2/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a2 c4 c2 | a2 c4 c2 | a2 c2 c2 c2 | d2 g4 g2 |
-g2 b4 b2 | g2 b4 b2 | b2 a2 g2 f2 | e2 d2 c4 |
-f2 f2 f2 f2 | f2 f4 f2 | g2 g2 g2 g2 | g2 g4 g2 |
-a2 c4 c2 | a2 c4 c2 | d2 d2 c2 c2 | a2 g2 f4 |
-f2 f2 f f f2 | f f f2 f f f2 | g2 g2 g g g2 | g g g2 g g g2 |
-a2 c4 c2 | a2 c4 c2 | d2 d2 c2 c2 | a2 g2 f4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kazaguruma_to_kodomo.tmd)
-- [鋼琴伴奏 TMD 檔案](kazaguruma_to_kodomo_piano.tmd)
+![P024.jpg](P024.jpg)
+
+![P025.jpg](P025.jpg)
+
+

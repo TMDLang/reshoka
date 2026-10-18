@@ -68,11 +68,28 @@
 ひらめき立てり日の御旗
 ```
 
-## 原書掃描頁
+## ABC
 
-![P042.jpg](P042.jpg)
+```abc
+X:1
+T:水師營の會見
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=120
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d6 d2 g8 | a6 g2 d8 | b6 b2 a4 g4 | a12 z4 |
+b6 b2 d4 b4 | a6 g2 d8 | b6 a2 g4 b4 | d12 z4 |
+b6 b2 a4 g4 | c6 b2 a4 g4 | d6 g2 b4 a4 | d12 z4 |
+g6 a2 b4 g4 | e6 d2 c8 | a6 b2 a4 a4 | g12 z4 |
+```
 
-![P043.jpg](P043.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](suishiei_no_kaiken.tmd)
+- [鋼琴伴奏 TMD 檔案](suishiei_no_kaiken_piano.tmd)
 
 ## 分析
 
@@ -128,23 +145,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:水師營の會見
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=120
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d6 d2 g8 | a6 g2 d8 | b6 b2 a4 g4 | a12 z4 |
-b6 b2 d4 b4 | a6 g2 d8 | b6 a2 g4 b4 | d12 z4 |
-b6 b2 a4 g4 | c6 b2 a4 g4 | d6 g2 b4 a4 | d12 z4 |
-g6 a2 b4 g4 | e6 d2 c8 | a6 b2 a4 a4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](suishiei_no_kaiken.tmd)
-- [鋼琴伴奏 TMD 檔案](suishiei_no_kaiken_piano.tmd)
+![P042.jpg](P042.jpg)
+
+![P043.jpg](P043.jpg)
+
+

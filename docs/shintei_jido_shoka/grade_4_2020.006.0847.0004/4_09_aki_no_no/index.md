@@ -28,9 +28,29 @@
 月（つき）も色ある　野邊の宵（よひ）や
 ```
 
-## 原書掃描頁
+## ABC
 
-![P066.jpg](P066.jpg)
+```abc
+X:1
+T:秋の野
+C:曲：内田粂太郎
+M:4/4
+L:1/16
+Q:1/4=88
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z4 z4 e3 f | g6 a2 g2 f2 e2 d2 | c8 d4 g2 g2 | a6 g2 a4 c4 |
+g8 z4 a3 g | e6 g2 c4 e4 | d8 g4 a2 c2 | d6 e2 d4 c4 |
+d8 z4 g4 | e6 d2 c4 a4 | c8 g4 e2 g2 | a6 c2 g4 e4 |
+d8 z4 e3 f | g6 a2 g2 a2 c2 d2 | c8 a4 g4 | d6 e2 g4 d4 |
+c8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](aki_no_no.tmd)
+- [鋼琴伴奏 TMD 檔案](aki_no_no_piano.tmd)
 
 ## 分析
 
@@ -86,24 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:秋の野
-C:曲：内田粂太郎
-M:4/4
-L:1/16
-Q:1/4=88
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 e3 f | g6 a2 g2 f2 e2 d2 | c8 d4 g2 g2 | a6 g2 a4 c4 |
-g8 z4 a3 g | e6 g2 c4 e4 | d8 g4 a2 c2 | d6 e2 d4 c4 |
-d8 z4 g4 | e6 d2 c4 a4 | c8 g4 e2 g2 | a6 c2 g4 e4 |
-d8 z4 e3 f | g6 a2 g2 a2 c2 d2 | c8 a4 g4 | d6 e2 g4 d4 |
-c8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](aki_no_no.tmd)
-- [鋼琴伴奏 TMD 檔案](aki_no_no_piano.tmd)
+![P066.jpg](P066.jpg)
+
+

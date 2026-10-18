@@ -32,11 +32,32 @@
 足ぶみも高く　遊べや遊べや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P090.jpg](P090.jpg)
+```abc
+X:1
+T:急流
+C:曲：獨國風歌
+M:2/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z2 d2 | b2 b2 b2 b2 | d2 b2 z2 d2 | a3 b c2 a2 |
+b4 z2 b2 | b2 b2 b2 b2 | g2 b2 d2 b2 | a3 b a2 g2 |
+f2 e2 f2 g2 | d2 d4 c2 | d2 d4 c2 | b2 a2 b2 c2 |
+d4 z2 d2 | d2 c2 b2 d2 | e2 d2 c2 b2 | a2 g2 a2 b2 |
+g2 z2 g2 z2 | K:C !f! E2 E2 F E F G | A8 | z4 G2 G2 |
+c6 B2 | A2 G2 F2 E2 | D8 | z2 G2 G2 G2 |
+c4 G4 | d4 G4 | e8 | z2 G2 G2 G2 |
+A4 d4 | c4 B4 | c8 | c4 z4 |
+```
 
-![P091.jpg](P091.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kyuryu.tmd)
+- [鋼琴伴奏 TMD 檔案](kyuryu_piano.tmd)
 
 ## 分析
 
@@ -93,27 +114,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:急流
-C:曲：獨國風歌
-M:2/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z2 d2 | b2 b2 b2 b2 | d2 b2 z2 d2 | a3 b c2 a2 |
-b4 z2 b2 | b2 b2 b2 b2 | g2 b2 d2 b2 | a3 b a2 g2 |
-f2 e2 f2 g2 | d2 d4 c2 | d2 d4 c2 | b2 a2 b2 c2 |
-d4 z2 d2 | d2 c2 b2 d2 | e2 d2 c2 b2 | a2 g2 a2 b2 |
-g2 z2 g2 z2 | K:C !f! E2 E2 F E F G | A8 | z4 G2 G2 |
-c6 B2 | A2 G2 F2 E2 | D8 | z2 G2 G2 G2 |
-c4 G4 | d4 G4 | e8 | z2 G2 G2 G2 |
-A4 d4 | c4 B4 | c8 | c4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kyuryu.tmd)
-- [鋼琴伴奏 TMD 檔案](kyuryu_piano.tmd)
+![P090.jpg](P090.jpg)
+
+![P091.jpg](P091.jpg)
+
+

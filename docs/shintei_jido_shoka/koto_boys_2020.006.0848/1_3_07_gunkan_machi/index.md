@@ -31,11 +31,39 @@
 御國の光　輝かせ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P068.jpg](P068.jpg)
+```abc
+X:1
+T:軍艦マーチ
+C:曲：瀨戶口藤吉
+M:2/4
+L:1/16
+Q:1/4=116
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! d2 d d g2 a2 | b2 g g d2 b2 | a2 b a g2 e2 | d4 z4 |
+d2 g a b2 d2 | e2 d2 b2 g2 | a2 d2 a2 b2 | g4 z4 |
+d2 g a b2 d2 | e2 d2 b2 g2 | a3 b a2 e2 | a4 z4 |
+f3 e f2 d2 | e3 d b2 g2 | a3 b c2 a2 | b2 z d d2 d2 |
+b8 | b2 e2 f2 g2 | a8 | a2 d2 e2 f2 |
+g6 a2 | b8 | b2 z b b2 ^c2 | d4 e3 d |
+c4 b4 | b2 z d a3 g | e8 | d6 f2 |
+g8 | g2 z2 z4 | !f! d2 d d g2 a2 | b2 g g d2 b2 |
+a2 b a g2 e2 | d4 z4 | d2 g a b2 d2 | e2 d2 b2 g2 |
+a2 d2 a2 b2 | g4 z4 | d2 g a b2 d2 | e2 d2 b2 g2 |
+a3 b a2 e2 | a4 z4 | f3 e f2 d2 | e3 d b2 g2 |
+a3 b c2 a2 | b2 z d d2 d2 | b8 | b2 e2 f2 g2 |
+a8 | a2 d2 e2 f2 | g6 a2 | b8 |
+b2 z b b2 ^c2 | d4 e3 d | c4 b4 | b2 z d a3 g |
+e8 | d6 f2 | g8 | g2 z2 z4 |
+```
 
-![P069.jpg](P069.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gunkan_machi.tmd)
+- [鋼琴伴奏 TMD 檔案](gunkan_machi_piano.tmd)
 
 ## 分析
 
@@ -92,34 +120,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:軍艦マーチ
-C:曲：瀨戶口藤吉
-M:2/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! d2 d d g2 a2 | b2 g g d2 b2 | a2 b a g2 e2 | d4 z4 |
-d2 g a b2 d2 | e2 d2 b2 g2 | a2 d2 a2 b2 | g4 z4 |
-d2 g a b2 d2 | e2 d2 b2 g2 | a3 b a2 e2 | a4 z4 |
-f3 e f2 d2 | e3 d b2 g2 | a3 b c2 a2 | b2 z d d2 d2 |
-b8 | b2 e2 f2 g2 | a8 | a2 d2 e2 f2 |
-g6 a2 | b8 | b2 z b b2 ^c2 | d4 e3 d |
-c4 b4 | b2 z d a3 g | e8 | d6 f2 |
-g8 | g2 z2 z4 | !f! d2 d d g2 a2 | b2 g g d2 b2 |
-a2 b a g2 e2 | d4 z4 | d2 g a b2 d2 | e2 d2 b2 g2 |
-a2 d2 a2 b2 | g4 z4 | d2 g a b2 d2 | e2 d2 b2 g2 |
-a3 b a2 e2 | a4 z4 | f3 e f2 d2 | e3 d b2 g2 |
-a3 b c2 a2 | b2 z d d2 d2 | b8 | b2 e2 f2 g2 |
-a8 | a2 d2 e2 f2 | g6 a2 | b8 |
-b2 z b b2 ^c2 | d4 e3 d | c4 b4 | b2 z d a3 g |
-e8 | d6 f2 | g8 | g2 z2 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gunkan_machi.tmd)
-- [鋼琴伴奏 TMD 檔案](gunkan_machi_piano.tmd)
+![P068.jpg](P068.jpg)
+
+![P069.jpg](P069.jpg)
+
+

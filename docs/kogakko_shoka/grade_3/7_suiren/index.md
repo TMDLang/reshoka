@@ -39,11 +39,28 @@
 夏のゆふべのゆめのくに。
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:すゐれん（睡蓮）
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b6 b2 c4 b4 | g6 g2 f4 e4 | f2 f2 f2 f2 e4 f4 | b12 z4 |
+c6 d2 e4 c4 | b6 c2 b4 g4 | f6 f2 f4 g4 | e12 z4 |
+f6 f2 f4 f4 | e2 f2 g2 a2 b4 b4 | c6 c2 e4 c4 | b12 z4 |
+c6 c2 e4 c4 | b6 c2 b4 g4 | f6 f2 f4 g4 | e12 z4 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](suiren.tmd)
+- [鋼琴伴奏 TMD 檔案](suiren_piano.tmd)
 
 ## 分析
 
@@ -99,23 +116,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:すゐれん（睡蓮）
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b6 b2 c4 b4 | g6 g2 f4 e4 | f2 f2 f2 f2 e4 f4 | b12 z4 |
-c6 d2 e4 c4 | b6 c2 b4 g4 | f6 f2 f4 g4 | e12 z4 |
-f6 f2 f4 f4 | e2 f2 g2 a2 b4 b4 | c6 c2 e4 c4 | b12 z4 |
-c6 c2 e4 c4 | b6 c2 b4 g4 | f6 f2 f4 g4 | e12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](suiren.tmd)
-- [鋼琴伴奏 TMD 檔案](suiren_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+

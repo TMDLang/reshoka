@@ -31,11 +31,37 @@
 たのしきしらべやうたふ千鳥は
 ```
 
-## 原書掃描頁
+## ABC
 
-![P042.jpg](P042.jpg)
+```abc
+X:1
+T:海邊眺望
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=53
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z2 z4 c2 | f4 f2 f4 g2 | a6 f4 f2 | g4 g2 c4 c2 |
+f10 f2 | d4 d2 e4 e2 | !mp! f6 c4 c2 | d4 g2 e2 d2 e2 |
+!mf! c10 c2 | c4 f2 f4 g2 | a6 f4 a2 | g4 b2 a4 g2 |
+f10 f2 | b4 b2 a4 a2 | !mp! g4 g2 f4 f2 | e4 g2 c4 e2 |
+f10 z2 | !f! c2 f2 g2 a4 z2 | !p! c2 f2 g2 a4 z2 | !f! b2 a2 b2 g2 f2 e2 |
+f10 z2 | !f! c2 f2 g2 a4 z2 | !p! f2 g2 a2 b4 z2 | a2 g2 f2 g2 a2 g2 |
+f10 z2 | !mf! z4 z2 z4 c2 | f4 f2 f4 g2 | a6 f4 f2 |
+g4 g2 c4 c2 | f10 f2 | d4 d2 e4 e2 | !mp! f6 c4 c2 |
+d4 g2 e2 d2 e2 | !mf! c10 c2 | c4 f2 f4 g2 | a6 f4 a2 |
+g4 b2 a4 g2 | f10 f2 | b4 b2 a4 a2 | !mp! g4 g2 f4 f2 |
+e4 g2 c4 e2 | f10 z2 | !f! c2 f2 g2 a4 z2 | !p! c2 f2 g2 a4 z2 |
+!f! b2 a2 b2 g2 f2 e2 | f10 z2 | !f! c2 f2 g2 a4 z2 | !p! f2 g2 a2 b4 z2 |
+a2 g2 f2 g2 a2 g2 | f10 z2 |
+```
 
-![P043.jpg](P043.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kaihen_chobo.tmd)
+- [鋼琴伴奏 TMD 檔案](kaihen_chobo_piano.tmd)
 
 ## 分析
 
@@ -92,32 +118,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:海邊眺望
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=53
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z2 z4 c2 | f4 f2 f4 g2 | a6 f4 f2 | g4 g2 c4 c2 |
-f10 f2 | d4 d2 e4 e2 | !mp! f6 c4 c2 | d4 g2 e2 d2 e2 |
-!mf! c10 c2 | c4 f2 f4 g2 | a6 f4 a2 | g4 b2 a4 g2 |
-f10 f2 | b4 b2 a4 a2 | !mp! g4 g2 f4 f2 | e4 g2 c4 e2 |
-f10 z2 | !f! c2 f2 g2 a4 z2 | !p! c2 f2 g2 a4 z2 | !f! b2 a2 b2 g2 f2 e2 |
-f10 z2 | !f! c2 f2 g2 a4 z2 | !p! f2 g2 a2 b4 z2 | a2 g2 f2 g2 a2 g2 |
-f10 z2 | !mf! z4 z2 z4 c2 | f4 f2 f4 g2 | a6 f4 f2 |
-g4 g2 c4 c2 | f10 f2 | d4 d2 e4 e2 | !mp! f6 c4 c2 |
-d4 g2 e2 d2 e2 | !mf! c10 c2 | c4 f2 f4 g2 | a6 f4 a2 |
-g4 b2 a4 g2 | f10 f2 | b4 b2 a4 a2 | !mp! g4 g2 f4 f2 |
-e4 g2 c4 e2 | f10 z2 | !f! c2 f2 g2 a4 z2 | !p! c2 f2 g2 a4 z2 |
-!f! b2 a2 b2 g2 f2 e2 | f10 z2 | !f! c2 f2 g2 a4 z2 | !p! f2 g2 a2 b4 z2 |
-a2 g2 f2 g2 a2 g2 | f10 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kaihen_chobo.tmd)
-- [鋼琴伴奏 TMD 檔案](kaihen_chobo_piano.tmd)
+![P042.jpg](P042.jpg)
+
+![P043.jpg](P043.jpg)
+
+

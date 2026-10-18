@@ -41,11 +41,30 @@
 その姿（すがた）こそたふとけれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P068.jpg](P068.jpg)
+```abc
+X:1
+T:臺灣の風景
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=120
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 a2 g2 f4 e4 | b6 c2 b4 g4 | a4 c4 g6 a2 | f12 z4 |
+e6 d2 c4 e4 | g6 a2 g4 f4 | g4 g4 f6 g2 | e12 z4 |
+e6 d2 c4 b4 | a6 c2 b4 g4 | f6 f2 g4 =a4 | b12 z4 |
+g4 a2 g2 f4 e4 | b6 c2 b4 g4 | a4 c4 g4 a4 | f12 z4 |
+B6 c2 d4 e4 | g6 a2 g4 f4 | g6 a2 g4 =a4 | b12 z4 |
+e6 d2 c4 b4 | a4 c4 b4 g4 | a2 g2 f4 f4 b4 | e12 z4 |
+```
 
-![P069.jpg](P069.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](taiwan_no_fukei.tmd)
+- [鋼琴伴奏 TMD 檔案](taiwan_no_fukei_piano.tmd)
 
 ## 分析
 
@@ -101,25 +120,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:臺灣の風景
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=120
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 a2 g2 f4 e4 | b6 c2 b4 g4 | a4 c4 g6 a2 | f12 z4 |
-e6 d2 c4 e4 | g6 a2 g4 f4 | g4 g4 f6 g2 | e12 z4 |
-e6 d2 c4 b4 | a6 c2 b4 g4 | f6 f2 g4 =a4 | b12 z4 |
-g4 a2 g2 f4 e4 | b6 c2 b4 g4 | a4 c4 g4 a4 | f12 z4 |
-B6 c2 d4 e4 | g6 a2 g4 f4 | g6 a2 g4 =a4 | b12 z4 |
-e6 d2 c4 b4 | a4 c4 b4 g4 | a2 g2 f4 f4 b4 | e12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](taiwan_no_fukei.tmd)
-- [鋼琴伴奏 TMD 檔案](taiwan_no_fukei_piano.tmd)
+![P068.jpg](P068.jpg)
+
+![P069.jpg](P069.jpg)
+
+

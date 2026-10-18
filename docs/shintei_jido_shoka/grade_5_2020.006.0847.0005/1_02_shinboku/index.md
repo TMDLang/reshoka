@@ -29,9 +29,31 @@
 神木の名も　ふさはしや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P025.jpg](P025.jpg)
+```abc
+X:1
+T:神木
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=112
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 f8 e2 e2 | a12 z4 | f4 f6 a2 a2 b2 | d6 b2 a4 a4 |
+b6 b2 a6 g2 | f6 e2 d8 | d6 d2 c6 b2 | a6 f2 e4 e4 |
+f6 d2 e6 f2 | a6 b2 a4 z4 | d8 f4 a4 | b6 b2 b6 a2 |
+a6 f2 a6 a2 | f6 d2 e4 z4 | f6 f2 a6 a2 | b6 b2 c6 c2 |
+d6 c2 b6 a2 | f6 a2 e4 z4 | d6 c2 b6 a2 | f6 a2 f6 e2 |
+d6 d2 e6 f2 | a6 b2 d8 | f4 f6 e2 d2 e2 | d8 z4 f4 |
+b8 a6 f2 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shinboku.tmd)
+- [鋼琴伴奏 TMD 檔案](shinboku_piano.tmd)
 
 ## 分析
 
@@ -87,26 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:神木
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=112
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 f8 e2 e2 | a12 z4 | f4 f6 a2 a2 b2 | d6 b2 a4 a4 |
-b6 b2 a6 g2 | f6 e2 d8 | d6 d2 c6 b2 | a6 f2 e4 e4 |
-f6 d2 e6 f2 | a6 b2 a4 z4 | d8 f4 a4 | b6 b2 b6 a2 |
-a6 f2 a6 a2 | f6 d2 e4 z4 | f6 f2 a6 a2 | b6 b2 c6 c2 |
-d6 c2 b6 a2 | f6 a2 e4 z4 | d6 c2 b6 a2 | f6 a2 f6 e2 |
-d6 d2 e6 f2 | a6 b2 d8 | f4 f6 e2 d2 e2 | d8 z4 f4 |
-b8 a6 f2 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shinboku.tmd)
-- [鋼琴伴奏 TMD 檔案](shinboku_piano.tmd)
+![P025.jpg](P025.jpg)
+
+

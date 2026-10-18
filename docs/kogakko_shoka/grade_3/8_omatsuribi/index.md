@@ -50,15 +50,31 @@
 （尾奏：たいわんじんじやのおまつり日）
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:おまつり日（祭典之日）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=132
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e3 g b3 b | b3 b b3 b | g3 b c3 c | b6 z2 |
+c3 e c3 b | g4 e4 | f3 f f3 g | f6 z2 |
+g3 f e3 g | b3 b b3 b | c3 b g3 b | c6 z2 |
+e3 f e3 c | b3 b g4 | f3 f g3 f | e6 z2 |
+g4 e2 e2 | g3 a b3 e | c2 z2 b2 z2 | b6 z2 |
+e3 e c4 | c3 b g3 f | f2 z2 B2 z2 | e6 z2 |
+M:3/4 Q:1/4=112 g2 f2 e4 f4 | g2 b2 c4 b4 | g2 b2 f4 g4 | e8 z4 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
 
-![image3.jpeg](image3.jpeg)
-
-![image4.jpeg](image4.jpeg)
+- [主旋律 TMD 檔案](omatsuribi.tmd)
+- [鋼琴伴奏 TMD 檔案](omatsuribi_piano.tmd)
 
 ## 分析
 
@@ -114,26 +130,15 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:おまつり日（祭典之日）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=132
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e3 g b3 b | b3 b b3 b | g3 b c3 c | b6 z2 |
-c3 e c3 b | g4 e4 | f3 f f3 g | f6 z2 |
-g3 f e3 g | b3 b b3 b | c3 b g3 b | c6 z2 |
-e3 f e3 c | b3 b g4 | f3 f g3 f | e6 z2 |
-g4 e2 e2 | g3 a b3 e | c2 z2 b2 z2 | b6 z2 |
-e3 e c4 | c3 b g3 f | f2 z2 B2 z2 | e6 z2 |
-M:3/4 Q:1/4=112 g2 f2 e4 f4 | g2 b2 c4 b4 | g2 b2 f4 g4 | e8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](omatsuribi.tmd)
-- [鋼琴伴奏 TMD 檔案](omatsuribi_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+![image3.jpeg](image3.jpeg)
+
+![image4.jpeg](image4.jpeg)
+
+

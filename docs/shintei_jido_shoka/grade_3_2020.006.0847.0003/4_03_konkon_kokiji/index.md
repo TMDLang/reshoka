@@ -31,9 +31,26 @@
 けんけんお山に　日がくれる
 ```
 
-## 原書掃描頁
+## ABC
 
-![P061.jpg](P061.jpg)
+```abc
+X:1
+T:こんこん小雉子
+C:曲：杉江秀
+M:4/4
+L:1/16
+Q:1/4=100
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a6 b2 d4 b4 | d4 b2 a2 f4 e2 d2 | e4 d2 e2 f8 | a6 b2 a4 z4 |
+b4 b2 b2 d8 | e4 e2 d2 b4 a4 | b2 b2 a2 d2 e4 f4 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](konkon_kokiji.tmd)
+- [鋼琴伴奏 TMD 檔案](konkon_kokiji_piano.tmd)
 
 ## 分析
 
@@ -89,21 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:こんこん小雉子
-C:曲：杉江秀
-M:4/4
-L:1/16
-Q:1/4=100
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a6 b2 d4 b4 | d4 b2 a2 f4 e2 d2 | e4 d2 e2 f8 | a6 b2 a4 z4 |
-b4 b2 b2 d8 | e4 e2 d2 b4 a4 | b2 b2 a2 d2 e4 f4 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](konkon_kokiji.tmd)
-- [鋼琴伴奏 TMD 檔案](konkon_kokiji_piano.tmd)
+![P061.jpg](P061.jpg)
+
+

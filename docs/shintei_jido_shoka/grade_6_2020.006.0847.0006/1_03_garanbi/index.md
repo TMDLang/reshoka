@@ -23,9 +23,28 @@
 ひかりは晝をあざむきて
 ```
 
-## 原書掃描頁
+## ABC
 
-![P026.jpg](P026.jpg)
+```abc
+X:1
+T:鵞鑾鼻
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a3 a a8 b3 a | d8 b4 b3 a | f6 e2 f4 a4 | b12 z4 |
+d3 d b8 a2 f2 | e6 f2 e4 a3 a | f6 e2 f4 a4 | a12 z4 |
+f6 f2 f4 a3 f | a8 b4 d4 | e4 b6 d2 a3 ^g | a12 z4 |
+d3 e f8 a3 a | b6 d2 a4 f4 | a8 e6 f2 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](garanbi.tmd)
+- [鋼琴伴奏 TMD 檔案](garanbi_piano.tmd)
 
 ## 分析
 
@@ -81,23 +100,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:鵞鑾鼻
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a3 a a8 b3 a | d8 b4 b3 a | f6 e2 f4 a4 | b12 z4 |
-d3 d b8 a2 f2 | e6 f2 e4 a3 a | f6 e2 f4 a4 | a12 z4 |
-f6 f2 f4 a3 f | a8 b4 d4 | e4 b6 d2 a3 ^g | a12 z4 |
-d3 e f8 a3 a | b6 d2 a4 f4 | a8 e6 f2 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](garanbi.tmd)
-- [鋼琴伴奏 TMD 檔案](garanbi_piano.tmd)
+![P026.jpg](P026.jpg)
+
+

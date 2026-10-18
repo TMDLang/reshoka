@@ -36,9 +36,29 @@
 汝は變らじ大なる流
 ```
 
-## 原書掃描頁
+## ABC
 
-![P080.jpg](P080.jpg)
+```abc
+X:1
+T:揚子江
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=92
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 d3 g | g3 f e3 d d3 B | d4 B4 d3 g | a3 b a3 g f3 g |
+!mf! a8 d3 g | g3 f e3 d d3 B | !f! d4 B4 g3 a | b3 c b3 a g3 f |
+g8 a3 b | c3 b a3 g f3 a | !mf! c4 a4 b3 a | g3 f e3 f g3 e |
+d4 B4 d3 g | g3 f e3 d d3 B | !f! d4 g4 a3 b | c3 e e3 f g3 a |
+g8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yosuko.tmd)
+- [鋼琴伴奏 TMD 檔案](yosuko_piano.tmd)
 
 ## 分析
 
@@ -94,24 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:揚子江
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 d3 g | g3 f e3 d d3 B | d4 B4 d3 g | a3 b a3 g f3 g |
-!mf! a8 d3 g | g3 f e3 d d3 B | !f! d4 B4 g3 a | b3 c b3 a g3 f |
-g8 a3 b | c3 b a3 g f3 a | !mf! c4 a4 b3 a | g3 f e3 f g3 e |
-d4 B4 d3 g | g3 f e3 d d3 B | !f! d4 g4 a3 b | c3 e e3 f g3 a |
-g8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yosuko.tmd)
-- [鋼琴伴奏 TMD 檔案](yosuko_piano.tmd)
+![P080.jpg](P080.jpg)
+
+

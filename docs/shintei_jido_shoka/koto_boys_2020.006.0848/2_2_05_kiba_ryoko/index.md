@@ -30,11 +30,35 @@
 白雲ゆふべの　宿をぞへだつる
 ```
 
-## 原書掃描頁
+## ABC
 
-![P096.jpg](P096.jpg)
+```abc
+X:1
+T:騎馬旅行
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! c4 c3 d | c8 | f4 a3 g | f8 |
+f2 c2 f2 a2 | g6 f2 | E2 f2 g4- | g4 c3 d |
+c8 | a4 f3 g | f8 | f2 c2 f2 a2 |
+g6 a2 | b4 E4 | f8- | !f! f4 c3 d |
+c8 | a4 f3 g | c8- | c4 d3 e |
+f6 d2 | c8- | c4 c3 d | c8 |
+c4 f3 g | a8- | a4 d3 d | c6 a2 |
+f3 g a4- | !mf! a4 c3 d | c8 | a4 f3 g |
+a8 | f2 f2 E2 f2 | g6 a2 | b3 g E4- |
+E4 f3 g | a8 | a4 b3 c | d8 |
+d2 c2 b2 a2 | g6 f2 | E3 g f4- | f4 z4 |
+```
 
-![P097.jpg](P097.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kiba_ryoko.tmd)
+- [鋼琴伴奏 TMD 檔案](kiba_ryoko_piano.tmd)
 
 ## 分析
 
@@ -90,30 +114,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:騎馬旅行
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c4 c3 d | c8 | f4 a3 g | f8 |
-f2 c2 f2 a2 | g6 f2 | E2 f2 g4- | g4 c3 d |
-c8 | a4 f3 g | f8 | f2 c2 f2 a2 |
-g6 a2 | b4 E4 | f8- | !f! f4 c3 d |
-c8 | a4 f3 g | c8- | c4 d3 e |
-f6 d2 | c8- | c4 c3 d | c8 |
-c4 f3 g | a8- | a4 d3 d | c6 a2 |
-f3 g a4- | !mf! a4 c3 d | c8 | a4 f3 g |
-a8 | f2 f2 E2 f2 | g6 a2 | b3 g E4- |
-E4 f3 g | a8 | a4 b3 c | d8 |
-d2 c2 b2 a2 | g6 f2 | E3 g f4- | f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kiba_ryoko.tmd)
-- [鋼琴伴奏 TMD 檔案](kiba_ryoko_piano.tmd)
+![P096.jpg](P096.jpg)
+
+![P097.jpg](P097.jpg)
+
+

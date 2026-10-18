@@ -34,9 +34,28 @@
 あゝ師團長（しだんちゃう）、宮殿下（みやでんか）。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P030.jpg](P030.jpg)
+```abc
+X:1
+T:能久親王
+C:曲：納所辨次郎
+M:4/4
+L:1/16
+Q:1/4=92
+K:Gm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 g4 a4 a4 | b6 c2 a8 | d4 d4 g4 a4 | b12 z4 |
+b4 b4 a4 g4 | c6 d2 e8 | d4 c4 b4 a4 | g12 z4 |
+d4 d4 c4 b4 | c6 d2 e4 d4 | c4 b4 a4 g4 | a12 z4 |
+b4 a4 g4 d4 | g6 a2 b4 c4 | d6 b2 g6 a2 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yoshihisa_shinno.tmd)
+- [鋼琴伴奏 TMD 檔案](yoshihisa_shinno_piano.tmd)
 
 ## 分析
 
@@ -92,23 +111,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:能久親王
-C:曲：納所辨次郎
-M:4/4
-L:1/16
-Q:1/4=92
-K:Gm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 g4 a4 a4 | b6 c2 a8 | d4 d4 g4 a4 | b12 z4 |
-b4 b4 a4 g4 | c6 d2 e8 | d4 c4 b4 a4 | g12 z4 |
-d4 d4 c4 b4 | c6 d2 e4 d4 | c4 b4 a4 g4 | a12 z4 |
-b4 a4 g4 d4 | g6 a2 b4 c4 | d6 b2 g6 a2 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yoshihisa_shinno.tmd)
-- [鋼琴伴奏 TMD 檔案](yoshihisa_shinno_piano.tmd)
+![P030.jpg](P030.jpg)
+
+

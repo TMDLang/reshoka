@@ -21,9 +21,27 @@
 こけのむすまで
 ```
 
-## 原書掃描頁
+## ABC
 
-![P005.jpg](P005.jpg)
+```abc
+X:1
+T:君が代
+C:曲：林廣守
+M:4/4
+L:1/16
+Q:1/4=69
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 c4 d4 e4 | g4 e4 d8 | e4 g4 a4 g2 a2 | d4 b4 a4 g4 |
+e4 g4 a8 | c4 d4 c8 | e4 g4 a4 g4 | e6 d2 d8 |
+a4 c4 d8 | c4 d4 a4 g4 | a4 g2 e2 d8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kimigayo.tmd)
+- [鋼琴伴奏 TMD 檔案](kimigayo_piano.tmd)
 
 ## 分析
 
@@ -79,22 +97,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:君が代
-C:曲：林廣守
-M:4/4
-L:1/16
-Q:1/4=69
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 c4 d4 e4 | g4 e4 d8 | e4 g4 a4 g2 a2 | d4 b4 a4 g4 |
-e4 g4 a8 | c4 d4 c8 | e4 g4 a4 g4 | e6 d2 d8 |
-a4 c4 d8 | c4 d4 a4 g4 | a4 g2 e2 d8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kimigayo.tmd)
-- [鋼琴伴奏 TMD 檔案](kimigayo_piano.tmd)
+![P005.jpg](P005.jpg)
+
+

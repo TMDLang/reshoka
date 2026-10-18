@@ -45,11 +45,44 @@
 ヘラヘラヘツタラヨガフケタ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P060.jpg](P060.jpg)
+```abc
+X:1
+T:イヌノシバヰ
+C:曲：成田爲三
+M:2/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
+b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
+e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
+e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
+g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
+b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
+e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
+e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
+g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
+b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
+e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
+e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
+g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
+b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
+e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
+e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
+g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
+b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
+e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
+e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
+```
 
-![P061.jpg](P061.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](inu_no_shibai.tmd)
+- [鋼琴伴奏 TMD 檔案](inu_no_shibai_piano.tmd)
 
 ## 分析
 
@@ -109,39 +142,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:イヌノシバヰ
-C:曲：成田爲三
-M:2/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
-b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
-e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
-e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
-g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
-b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
-e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
-e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
-g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
-b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
-e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
-e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
-g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
-b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
-e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
-e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
-g4 d4 | e4 d4 | a4 g4 | d4 z2 z2 |
-b2 b2 a2 a2 | g2 g2 a2 a2 | b4 a4 | d4 z2 z2 |
-e2 e2 g2 g2 | a2 a2 g2 g2 | a2 a2 d2 b2 | a4 z2 z2 |
-e2 e2 e2 e2 | d2 d2 b2 b2 | a2 a2 e2 d2 | g4 z2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](inu_no_shibai.tmd)
-- [鋼琴伴奏 TMD 檔案](inu_no_shibai_piano.tmd)
+![P060.jpg](P060.jpg)
+
+![P061.jpg](P061.jpg)
+
+

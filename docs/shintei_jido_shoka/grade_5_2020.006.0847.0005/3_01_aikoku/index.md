@@ -28,9 +28,29 @@
 忘るな常に君と國を
 ```
 
-## 原書掃描頁
+## ABC
 
-![P049.jpg](P049.jpg)
+```abc
+X:1
+T:愛國
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=92
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z2 c2 | f3 f g2 a2 | b2 d2 c2 a f | g3 a g f g a |
+f4 z2 c2 | f3 g a2 c2 | d2 b2 g2 e f | g3 a g e d e |
+c4 z4 | b3 b a2 c a | g3 a b2 g2 | a3 a g a b g |
+f3 e d2 c2 | f3 g a2 b2 | c2 f2 d2 c b | a3 b c f g e |
+f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](aikoku.tmd)
+- [鋼琴伴奏 TMD 檔案](aikoku_piano.tmd)
 
 ## 分析
 
@@ -86,24 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:愛國
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z2 c2 | f3 f g2 a2 | b2 d2 c2 a f | g3 a g f g a |
-f4 z2 c2 | f3 g a2 c2 | d2 b2 g2 e f | g3 a g e d e |
-c4 z4 | b3 b a2 c a | g3 a b2 g2 | a3 a g a b g |
-f3 e d2 c2 | f3 g a2 b2 | c2 f2 d2 c b | a3 b c f g e |
-f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](aikoku.tmd)
-- [鋼琴伴奏 TMD 檔案](aikoku_piano.tmd)
+![P049.jpg](P049.jpg)
+
+

@@ -39,11 +39,30 @@
 てがらばなしのむつまじさ。
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:うんどうくわい（運動會）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=120
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g3 g g2 g2 | c3 a g4 | e3 e g2 a2 | g6 z2 |
+a3 a a2 a2 | c3 a g2 e2 | a3 a e2 a2 | c2 a g e2 z2 |
+g3 g g2 g2 | g3 g g2 g2 | c3 c c2 c2 | c3 c c2 z2 |
+d3 c a2 g2 | c3 a g2 e2 | a3 a e2 c2 | d3 d d2 z2 |
+e3 e e2 g2 | g3 g g2 g2 | a3 a g2 a2 | c3 c c2 z2 |
+d3 c a2 g2 | a3 g e2 c2 | d3 d g2 g2 | c6 z2 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](undokai.tmd)
+- [鋼琴伴奏 TMD 檔案](undokai_piano.tmd)
 
 ## 分析
 
@@ -99,25 +118,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:うんどうくわい（運動會）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=120
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g3 g g2 g2 | c3 a g4 | e3 e g2 a2 | g6 z2 |
-a3 a a2 a2 | c3 a g2 e2 | a3 a e2 a2 | c2 a g e2 z2 |
-g3 g g2 g2 | g3 g g2 g2 | c3 c c2 c2 | c3 c c2 z2 |
-d3 c a2 g2 | c3 a g2 e2 | a3 a e2 c2 | d3 d d2 z2 |
-e3 e e2 g2 | g3 g g2 g2 | a3 a g2 a2 | c3 c c2 z2 |
-d3 c a2 g2 | a3 g e2 c2 | d3 d g2 g2 | c6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](undokai.tmd)
-- [鋼琴伴奏 TMD 檔案](undokai_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+

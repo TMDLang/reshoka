@@ -33,9 +33,36 @@
 殘（のこ）しゝ、大丈夫（ますらを）。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P047.jpg](P047.jpg)
+```abc
+X:1
+T:海原
+C:曲：A. Lwoff（ルボツフ／露國國歌）
+M:4/4
+L:1/16
+Q:1/4=76
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! a8 b4 a4 | f6 d2 a8 | g8 f4 e4 | d8 a8 |
+!mf! f8 g4 a4 | g6 e2 a4 ^g4 | a8 ^g8 | a16 |
+!mp! f8 e4 f4 | g4 f4 e4 d4 | !mf! b4 a4 ^g4 a4 | d8 g8 |
+!f! b8 a4 g4 | f6 d2 a8 | !mp! g6 f2 e8 | d16 |
+!f! a8 b4 a4 | f6 d2 a8 | g8 f4 e4 | d8 a8 |
+!mf! f8 g4 a4 | g6 e2 a4 ^g4 | a8 ^g8 | a16 |
+!mp! f8 e4 f4 | g4 f4 e4 d4 | !mf! b4 a4 ^g4 a4 | d8 g8 |
+!f! b8 a4 g4 | f6 d2 a8 | !mp! g6 f2 e8 | d16 |
+!f! a8 b4 a4 | f6 d2 a8 | g8 f4 e4 | d8 a8 |
+!mf! f8 g4 a4 | g6 e2 a4 ^g4 | a8 ^g8 | a16 |
+!mp! f8 e4 f4 | g4 f4 e4 d4 | !mf! b4 a4 ^g4 a4 | d8 g8 |
+!f! b8 a4 g4 | f6 d2 a8 | !mp! g6 f2 e8 | d16 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](unabara.tmd)
+- [鋼琴伴奏 TMD 檔案](unabara_piano.tmd)
 
 ## 分析
 
@@ -93,31 +120,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:海原
-C:曲：A. Lwoff（ルボツフ／露國國歌）
-M:4/4
-L:1/16
-Q:1/4=76
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! a8 b4 a4 | f6 d2 a8 | g8 f4 e4 | d8 a8 |
-!mf! f8 g4 a4 | g6 e2 a4 ^g4 | a8 ^g8 | a16 |
-!mp! f8 e4 f4 | g4 f4 e4 d4 | !mf! b4 a4 ^g4 a4 | d8 g8 |
-!f! b8 a4 g4 | f6 d2 a8 | !mp! g6 f2 e8 | d16 |
-!f! a8 b4 a4 | f6 d2 a8 | g8 f4 e4 | d8 a8 |
-!mf! f8 g4 a4 | g6 e2 a4 ^g4 | a8 ^g8 | a16 |
-!mp! f8 e4 f4 | g4 f4 e4 d4 | !mf! b4 a4 ^g4 a4 | d8 g8 |
-!f! b8 a4 g4 | f6 d2 a8 | !mp! g6 f2 e8 | d16 |
-!f! a8 b4 a4 | f6 d2 a8 | g8 f4 e4 | d8 a8 |
-!mf! f8 g4 a4 | g6 e2 a4 ^g4 | a8 ^g8 | a16 |
-!mp! f8 e4 f4 | g4 f4 e4 d4 | !mf! b4 a4 ^g4 a4 | d8 g8 |
-!f! b8 a4 g4 | f6 d2 a8 | !mp! g6 f2 e8 | d16 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](unabara.tmd)
-- [鋼琴伴奏 TMD 檔案](unabara_piano.tmd)
+![P047.jpg](P047.jpg)
+
+

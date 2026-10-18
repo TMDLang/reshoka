@@ -38,11 +38,27 @@
 田にはたにしがかくれてる。
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:白さぎ（白鷺鷥）
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=112
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g2 f2 e4 f4 | g2 b2 c4 b4 | g2 b2 e4 c4 | b8 z4 |
+c2 c2 c4 b4 | e2 e2 c4 c4 | b2 c2 g4 f4 | e8 z4 |
+g4 f4 e4 | c2 b2 e4 c4 | g2 b2 c6 b2 | e8 z4 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shirasagi.tmd)
+- [鋼琴伴奏 TMD 檔案](shirasagi_piano.tmd)
 
 ## 分析
 
@@ -98,22 +114,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:白さぎ（白鷺鷥）
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=112
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g2 f2 e4 f4 | g2 b2 c4 b4 | g2 b2 e4 c4 | b8 z4 |
-c2 c2 c4 b4 | e2 e2 c4 c4 | b2 c2 g4 f4 | e8 z4 |
-g4 f4 e4 | c2 b2 e4 c4 | g2 b2 c6 b2 | e8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shirasagi.tmd)
-- [鋼琴伴奏 TMD 檔案](shirasagi_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+

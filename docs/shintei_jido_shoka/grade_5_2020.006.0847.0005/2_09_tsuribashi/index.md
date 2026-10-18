@@ -28,11 +28,36 @@
 默々と渡る　長いつり橋
 ```
 
-## 原書掃描頁
+## ABC
 
-![P046.jpg](P046.jpg)
+```abc
+X:1
+T:つり橋
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=126
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e8 e4 | g8 g4 | b8 z4 | g8 g4 |
+b8 b4 | c8 z4 | e4 f4 g4 | b8 b4 |
+c8 b4 | g8 z4 | c8 e4 | g8 f4 |
+e8 e4 | d12 | e8 d4 | c4 d4 c4 |
+b8 g4 | f12 | g8 g4 | f8 g4 |
+a8 f4 | e12 | f8 f4 | g4 a4 f4 |
+g8 b4 | c12 | b8 b4 | e8 d4 |
+c8 b4 | g12 | f8 g4 | a8 c4 |
+e8 f4 | g12 | c8 g4 | f8 e4 |
+d4 e4 f4 | b12 | b4 c4 b4 | c8 e4 |
+d4 c4 b4 | e12 | g4 a4 b4 | c12 |
+b8 g4 | f8 b4 | e12 |
+```
 
-![P047.jpg](P047.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tsuribashi.tmd)
+- [鋼琴伴奏 TMD 檔案](tsuribashi_piano.tmd)
 
 ## 分析
 
@@ -88,31 +113,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:つり橋
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=126
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e8 e4 | g8 g4 | b8 z4 | g8 g4 |
-b8 b4 | c8 z4 | e4 f4 g4 | b8 b4 |
-c8 b4 | g8 z4 | c8 e4 | g8 f4 |
-e8 e4 | d12 | e8 d4 | c4 d4 c4 |
-b8 g4 | f12 | g8 g4 | f8 g4 |
-a8 f4 | e12 | f8 f4 | g4 a4 f4 |
-g8 b4 | c12 | b8 b4 | e8 d4 |
-c8 b4 | g12 | f8 g4 | a8 c4 |
-e8 f4 | g12 | c8 g4 | f8 e4 |
-d4 e4 f4 | b12 | b4 c4 b4 | c8 e4 |
-d4 c4 b4 | e12 | g4 a4 b4 | c12 |
-b8 g4 | f8 b4 | e12 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tsuribashi.tmd)
-- [鋼琴伴奏 TMD 檔案](tsuribashi_piano.tmd)
+![P046.jpg](P046.jpg)
+
+![P047.jpg](P047.jpg)
+
+

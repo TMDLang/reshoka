@@ -20,9 +20,28 @@
 カアカア　カラスガ　ナイテイク
 ```
 
-## 原書掃描頁
+## ABC
 
-![P033.jpg](P033.jpg)
+```abc
+X:1
+T:カラス
+C:曲：文部省
+M:2/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 a c3 a | c2 a2 g2 f2 | a3 a g2 f2 | g4 z4 |
+c2 a2 g4 | a2 g2 f4 | a3 g f2 g2 | a4 z4 |
+c2 c2 d2 d2 | c2 c2 a4 | c2 c2 d2 d2 | c2 c2 a4 |
+c3 a c3 a | c2 a2 g2 f2 | a3 a g2 g2 | f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](karasu.tmd)
+- [鋼琴伴奏 TMD 檔案](karasu_piano.tmd)
 
 ## 分析
 
@@ -78,23 +97,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:カラス
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 a c3 a | c2 a2 g2 f2 | a3 a g2 f2 | g4 z4 |
-c2 a2 g4 | a2 g2 f4 | a3 g f2 g2 | a4 z4 |
-c2 c2 d2 d2 | c2 c2 a4 | c2 c2 d2 d2 | c2 c2 a4 |
-c3 a c3 a | c2 a2 g2 f2 | a3 a g2 g2 | f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](karasu.tmd)
-- [鋼琴伴奏 TMD 檔案](karasu_piano.tmd)
+![P033.jpg](P033.jpg)
+
+

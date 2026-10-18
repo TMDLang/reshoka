@@ -29,9 +29,29 @@
 昔（むかし）語（かた）る。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P080.jpg](P080.jpg)
+```abc
+X:1
+T:吉野懷古
+C:曲：シユーベルト（F. Schubert，獨國）
+M:3/4
+L:1/16
+Q:1/4=80
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! z4 z4 b2 g2 | g8 e2 e2 | e4 g4 z2 b b | b3 g a3 g f a f |
+g6 z2 b2 g2 | g2 g2 e2 e2 e4 | e4 g4 z2 b2 | b3 g a3 g f a f |
+!mp! e6 z2 b2 b2 | a2 g2 f2 e2 d3 f | !mf! b2 b2 c4 a3 f | g6 z2 f2 f2 |
+g4 f2 e2 d2 e2 | !mf! a3 f d2 z2 z2 b b | g4 a4 f2 b2 | !f! g6 z2 z2 b b |
+b3 g a3 g f a f | e6 z2 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yoshino_kaiko.tmd)
+- [鋼琴伴奏 TMD 檔案](yoshino_kaiko_piano.tmd)
 
 ## 分析
 
@@ -87,24 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:吉野懷古
-C:曲：シユーベルト（F. Schubert，獨國）
-M:3/4
-L:1/16
-Q:1/4=80
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 b2 g2 | g8 e2 e2 | e4 g4 z2 b b | b3 g a3 g f a f |
-g6 z2 b2 g2 | g2 g2 e2 e2 e4 | e4 g4 z2 b2 | b3 g a3 g f a f |
-!mp! e6 z2 b2 b2 | a2 g2 f2 e2 d3 f | !mf! b2 b2 c4 a3 f | g6 z2 f2 f2 |
-g4 f2 e2 d2 e2 | !mf! a3 f d2 z2 z2 b b | g4 a4 f2 b2 | !f! g6 z2 z2 b b |
-b3 g a3 g f a f | e6 z2 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yoshino_kaiko.tmd)
-- [鋼琴伴奏 TMD 檔案](yoshino_kaiko_piano.tmd)
+![P080.jpg](P080.jpg)
+
+

@@ -45,11 +45,28 @@
 吹き來る風の　心地よさ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P070.jpg](P070.jpg)
+```abc
+X:1
+T:遠足の歌
+C:曲：小松耕輔
+M:2/4
+L:1/16
+Q:1/4=116
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 c c3 c | f3 f f4 | g3 g f3 g | a6 z2 |
+a3 a a3 a | b3 a g3 f | g3 a g3 g | c6 z2 |
+d3 d c3 c | f3 f g3 g | a3 a g3 a | c6 z2 |
+d3 d c3 f | a3 a a4 | c3 c a3 g | f6 z2 |
+```
 
-![P071.jpg](P071.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ensoku_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](ensoku_no_uta_piano.tmd)
 
 ## 分析
 
@@ -105,23 +122,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:遠足の歌
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 c c3 c | f3 f f4 | g3 g f3 g | a6 z2 |
-a3 a a3 a | b3 a g3 f | g3 a g3 g | c6 z2 |
-d3 d c3 c | f3 f g3 g | a3 a g3 a | c6 z2 |
-d3 d c3 f | a3 a a4 | c3 c a3 g | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ensoku_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](ensoku_no_uta_piano.tmd)
+![P070.jpg](P070.jpg)
+
+![P071.jpg](P071.jpg)
+
+

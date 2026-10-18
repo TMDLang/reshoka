@@ -39,9 +39,33 @@
 つゝがなかれ』と西東（にしひがし）　露けき袖（そで）を分（わか）ちけり。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P048.jpg](P048.jpg)
+```abc
+X:1
+T:足柄山
+C:曲：西洋曲
+M:4/4
+L:1/16
+Q:1/4=104
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 d3 g | b4 b8 g3 a | b4 g8 b3 g | e6 d2 e4 a3 d |
+a12 a3 b | d4 d6 b2 a3 g | a12 b3 g | e6 d2 e4 g3 b |
+g12 d3 g | b4 b6 g2 b3 g | a12 f3 g | a6 f2 d4 e3 f |
+g12 a3 b | d4 d6 b2 g3 e | g12 b3 d | e6 d2 b4 e3 f |
+g12 z4 | !mf! z4 z4 z4 d3 g | b4 b8 g3 a | b4 g8 b3 g |
+e6 d2 e4 a3 d | a12 a3 b | d4 d6 b2 a3 g | a12 b3 g |
+e6 d2 e4 g3 b | g12 d3 g | b4 b6 g2 b3 g | a12 f3 g |
+a6 f2 d4 e3 f | g12 a3 b | d4 d6 b2 g3 e | g12 b3 d |
+e6 d2 b4 e3 f | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ashigarayama.tmd)
+- [鋼琴伴奏 TMD 檔案](ashigarayama_piano.tmd)
 
 ## 分析
 
@@ -98,28 +122,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:足柄山
-C:曲：西洋曲
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 d3 g | b4 b8 g3 a | b4 g8 b3 g | e6 d2 e4 a3 d |
-a12 a3 b | d4 d6 b2 a3 g | a12 b3 g | e6 d2 e4 g3 b |
-g12 d3 g | b4 b6 g2 b3 g | a12 f3 g | a6 f2 d4 e3 f |
-g12 a3 b | d4 d6 b2 g3 e | g12 b3 d | e6 d2 b4 e3 f |
-g12 z4 | !mf! z4 z4 z4 d3 g | b4 b8 g3 a | b4 g8 b3 g |
-e6 d2 e4 a3 d | a12 a3 b | d4 d6 b2 a3 g | a12 b3 g |
-e6 d2 e4 g3 b | g12 d3 g | b4 b6 g2 b3 g | a12 f3 g |
-a6 f2 d4 e3 f | g12 a3 b | d4 d6 b2 g3 e | g12 b3 d |
-e6 d2 b4 e3 f | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ashigarayama.tmd)
-- [鋼琴伴奏 TMD 檔案](ashigarayama_piano.tmd)
+![P048.jpg](P048.jpg)
+
+

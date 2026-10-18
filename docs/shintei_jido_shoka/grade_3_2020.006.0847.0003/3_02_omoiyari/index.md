@@ -35,9 +35,28 @@
 情知（なさけし）らずと　そしられん
 ```
 
-## 原書掃描頁
+## ABC
 
-![P053.jpg](P053.jpg)
+```abc
+X:1
+T:おもひやり（體貼同理）
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=88
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b8 b4 a4 | g4 g4 g4 d4 | e4 f4 g4 a4 | b12 z4 |
+d8 d4 b4 | g4 a4 b4 a4 | d4 d4 b4 g4 | a12 z4 |
+b8 b4 b4 | a4 g8 d4 | e4 f4 g4 a4 | b12 z4 |
+g8 a4 b4 | c4 e4 d4 b4 | a4 c4 b4 a4 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](omoiyari.tmd)
+- [鋼琴伴奏 TMD 檔案](omoiyari_piano.tmd)
 
 ## 分析
 
@@ -93,23 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:おもひやり（體貼同理）
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b8 b4 a4 | g4 g4 g4 d4 | e4 f4 g4 a4 | b12 z4 |
-d8 d4 b4 | g4 a4 b4 a4 | d4 d4 b4 g4 | a12 z4 |
-b8 b4 b4 | a4 g8 d4 | e4 f4 g4 a4 | b12 z4 |
-g8 a4 b4 | c4 e4 d4 b4 | a4 c4 b4 a4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](omoiyari.tmd)
-- [鋼琴伴奏 TMD 檔案](omoiyari_piano.tmd)
+![P053.jpg](P053.jpg)
+
+

@@ -31,11 +31,31 @@
 野路の里わのゆふべかな
 ```
 
-## 原書掃描頁
+## ABC
 
-![P100.jpg](P100.jpg)
+```abc
+X:1
+T:田舍の夕暮
+C:曲：北村季晴
+M:3/4
+L:1/16
+Q:1/4=96
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! z4 z4 B,3 B, | E4 G4 A3 G | B4 B4 B c B | G4 E6 F2 |
+B,8 E3 E | F4 F4 G3 A | B4 G4 c d c | B4 G6 F2 |
+!mf! E8 B A G | A4 c4 c d e | B4 G4 B A G | F4 G4 A4 |
+B8 B A G | A4 c4 c d e | B4 G4 B A G | G8 F4 |
+!mp! E8 E3 E | F4 F4 G3 A | B4 G4 c d c | G8 F4 |
+!mf! B,8 B,3 B, | E4 G4 A3 G | G4 F4 c d e | G8 F4 |
+E8 z4 |
+```
 
-![P101.jpg](P101.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](inaka_no_yugure.tmd)
+- [鋼琴伴奏 TMD 檔案](inaka_no_yugure_piano.tmd)
 
 ## 分析
 
@@ -91,26 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:田舍の夕暮
-C:曲：北村季晴
-M:3/4
-L:1/16
-Q:1/4=96
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z4 z4 B,3 B, | E4 G4 A3 G | B4 B4 B c B | G4 E6 F2 |
-B,8 E3 E | F4 F4 G3 A | B4 G4 c d c | B4 G6 F2 |
-!mf! E8 B A G | A4 c4 c d e | B4 G4 B A G | F4 G4 A4 |
-B8 B A G | A4 c4 c d e | B4 G4 B A G | G8 F4 |
-!mp! E8 E3 E | F4 F4 G3 A | B4 G4 c d c | G8 F4 |
-!mf! B,8 B,3 B, | E4 G4 A3 G | G4 F4 c d e | G8 F4 |
-E8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](inaka_no_yugure.tmd)
-- [鋼琴伴奏 TMD 檔案](inaka_no_yugure_piano.tmd)
+![P100.jpg](P100.jpg)
+
+![P101.jpg](P101.jpg)
+
+

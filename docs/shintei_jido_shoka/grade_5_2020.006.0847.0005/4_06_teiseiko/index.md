@@ -53,11 +53,28 @@
 開山社頭月清し
 ```
 
-## 原書掃描頁
+## ABC
 
-![P062.jpg](P062.jpg)
+```abc
+X:1
+T:鄭成功
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g3 g a3 b | d3 d b3 b | a3 a e3 g | a6 z2 |
+b3 b a3 g | a3 a g3 e | d3 g e3 g | d6 z2 |
+d3 b b3 b | d3 e d3 b | a3 a e3 g | a6 z2 |
+b3 d e3 d | b3 a g3 b | d3 d e3 a | g6 z2 |
+```
 
-![P063.jpg](P063.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](teiseiko.tmd)
+- [鋼琴伴奏 TMD 檔案](teiseiko_piano.tmd)
 
 ## 分析
 
@@ -113,23 +130,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:鄭成功
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g3 g a3 b | d3 d b3 b | a3 a e3 g | a6 z2 |
-b3 b a3 g | a3 a g3 e | d3 g e3 g | d6 z2 |
-d3 b b3 b | d3 e d3 b | a3 a e3 g | a6 z2 |
-b3 d e3 d | b3 a g3 b | d3 d e3 a | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](teiseiko.tmd)
-- [鋼琴伴奏 TMD 檔案](teiseiko_piano.tmd)
+![P062.jpg](P062.jpg)
+
+![P063.jpg](P063.jpg)
+
+

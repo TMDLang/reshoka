@@ -32,9 +32,30 @@
 あゝこの光りは
 ```
 
-## 原書掃描頁
+## ABC
 
-![P078.jpg](P078.jpg)
+```abc
+X:1
+T:希望
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! b4 b2 a2 | g6 e2 | d4 d4 | d6 g2 |
+b4 b2 a2 | g8 | a8 | b6 g2 |
+g2 a2 b2 c2 | d4 b4 | g6 g2 | g2 a2 b2 c2 |
+d4 b4 | d6 d2 | e2 f2 g2 a b | b6 g f |
+e2 f2 g2 a b | a6 f e | d4 g4 | b2 a4 g2 |
+b4 a4 | g8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kibo.tmd)
+- [鋼琴伴奏 TMD 檔案](kibo_piano.tmd)
 
 ## 分析
 
@@ -90,25 +111,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:希望
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! b4 b2 a2 | g6 e2 | d4 d4 | d6 g2 |
-b4 b2 a2 | g8 | a8 | b6 g2 |
-g2 a2 b2 c2 | d4 b4 | g6 g2 | g2 a2 b2 c2 |
-d4 b4 | d6 d2 | e2 f2 g2 a b | b6 g f |
-e2 f2 g2 a b | a6 f e | d4 g4 | b2 a4 g2 |
-b4 a4 | g8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kibo.tmd)
-- [鋼琴伴奏 TMD 檔案](kibo_piano.tmd)
+![P078.jpg](P078.jpg)
+
+

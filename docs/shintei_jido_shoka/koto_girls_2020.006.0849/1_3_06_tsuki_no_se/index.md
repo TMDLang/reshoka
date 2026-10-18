@@ -30,11 +30,42 @@
 かすむか今も麗はしく　伊賀と大和の山かげに
 ```
 
-## 原書掃描頁
+## ABC
 
-![P066.jpg](P066.jpg)
+```abc
+X:1
+T:月の瀨
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! f4 f3 g a4 c4 | a6 c2 d8 | g6 a2 g3 f f2 d2 | c12 z4 |
+f4 f3 g a4 a4 | c6 d2 c8 | d6 c2 a3 g f2 g2 | a12 z4 |
+g4 g3 a c4 g4 | f4 a3 c d8 | a6 g2 f3 d f2 g2 | c12 z4 |
+d4 d3 c a4 c4 | a4 f4 g8 | g6 c2 a3 g f2 g2 | f12 z4 |
+f4 f3 g a4 c4 | d6 d2 c8 | g6 a2 g3 f f2 d2 | c12 z4 |
+f4 d3 f g4 a4 | c6 d2 c8 | d6 f2 g3 c a2 g2 | f12 z4 |
+!mf! f4 f3 g a4 c4 | a6 c2 d8 | g6 a2 g3 f f2 d2 | c12 z4 |
+f4 f3 g a4 a4 | c6 d2 c8 | d6 c2 a3 g f2 g2 | a12 z4 |
+g4 g3 a c4 g4 | f4 a3 c d8 | a6 g2 f3 d f2 g2 | c12 z4 |
+d4 d3 c a4 c4 | a4 f4 g8 | g6 c2 a3 g f2 g2 | f12 z4 |
+f4 f3 g a4 c4 | d6 d2 c8 | g6 a2 g3 f f2 d2 | c12 z4 |
+f4 d3 f g4 a4 | c6 d2 c8 | d6 f2 g3 c a2 g2 | f12 z4 |
+!mf! f4 f3 g a4 c4 | a6 c2 d8 | g6 a2 g3 f f2 d2 | c12 z4 |
+f4 f3 g a4 a4 | c6 d2 c8 | d6 c2 a3 g f2 g2 | a12 z4 |
+g4 g3 a c4 g4 | f4 a3 c d8 | a6 g2 f3 d f2 g2 | c12 z4 |
+d4 d3 c a4 c4 | a4 f4 g8 | g6 c2 a3 g f2 g2 | f12 z4 |
+f4 f3 g a4 c4 | d6 d2 c8 | g6 a2 g3 f f2 d2 | c12 z4 |
+f4 d3 f g4 a4 | c6 d2 c8 | d6 f2 g3 c a2 g2 | f12 z4 |
+```
 
-![P067.jpg](P067.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tsuki_no_se.tmd)
+- [鋼琴伴奏 TMD 檔案](tsuki_no_se_piano.tmd)
 
 ## 分析
 
@@ -92,37 +123,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:月の瀨
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! f4 f3 g a4 c4 | a6 c2 d8 | g6 a2 g3 f f2 d2 | c12 z4 |
-f4 f3 g a4 a4 | c6 d2 c8 | d6 c2 a3 g f2 g2 | a12 z4 |
-g4 g3 a c4 g4 | f4 a3 c d8 | a6 g2 f3 d f2 g2 | c12 z4 |
-d4 d3 c a4 c4 | a4 f4 g8 | g6 c2 a3 g f2 g2 | f12 z4 |
-f4 f3 g a4 c4 | d6 d2 c8 | g6 a2 g3 f f2 d2 | c12 z4 |
-f4 d3 f g4 a4 | c6 d2 c8 | d6 f2 g3 c a2 g2 | f12 z4 |
-!mf! f4 f3 g a4 c4 | a6 c2 d8 | g6 a2 g3 f f2 d2 | c12 z4 |
-f4 f3 g a4 a4 | c6 d2 c8 | d6 c2 a3 g f2 g2 | a12 z4 |
-g4 g3 a c4 g4 | f4 a3 c d8 | a6 g2 f3 d f2 g2 | c12 z4 |
-d4 d3 c a4 c4 | a4 f4 g8 | g6 c2 a3 g f2 g2 | f12 z4 |
-f4 f3 g a4 c4 | d6 d2 c8 | g6 a2 g3 f f2 d2 | c12 z4 |
-f4 d3 f g4 a4 | c6 d2 c8 | d6 f2 g3 c a2 g2 | f12 z4 |
-!mf! f4 f3 g a4 c4 | a6 c2 d8 | g6 a2 g3 f f2 d2 | c12 z4 |
-f4 f3 g a4 a4 | c6 d2 c8 | d6 c2 a3 g f2 g2 | a12 z4 |
-g4 g3 a c4 g4 | f4 a3 c d8 | a6 g2 f3 d f2 g2 | c12 z4 |
-d4 d3 c a4 c4 | a4 f4 g8 | g6 c2 a3 g f2 g2 | f12 z4 |
-f4 f3 g a4 c4 | d6 d2 c8 | g6 a2 g3 f f2 d2 | c12 z4 |
-f4 d3 f g4 a4 | c6 d2 c8 | d6 f2 g3 c a2 g2 | f12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tsuki_no_se.tmd)
-- [鋼琴伴奏 TMD 檔案](tsuki_no_se_piano.tmd)
+![P066.jpg](P066.jpg)
+
+![P067.jpg](P067.jpg)
+
+

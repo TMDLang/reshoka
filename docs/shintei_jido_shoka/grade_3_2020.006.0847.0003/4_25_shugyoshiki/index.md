@@ -23,9 +23,32 @@ Key: D major (?= D), 4/4 (<4/4>), Quarter = 96 (!= 96)
 學びの業を怠るな
 ```
 
-## 原書掃描頁
+## ABC
 
-![P090.jpg](P090.jpg)
+```abc
+X:1
+T:終業式
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 f6 e2 f2 g2 | a8 a4 a4 | g6 f2 g4 a4 | f12 z4 |
+d4 f6 e2 f2 g2 | a8 a4 a4 | g6 f2 g4 a4 | f12 z4 |
+d4 d2 b2 b4 b4 | b4 b4 b4 b4 | b6 d2 c4 b4 | a12 z4 |
+a4 d6 f2 f2 f2 | a8 a4 a4 | g6 f2 g4 e4 | d12 z4 |
+d4 f6 e2 f2 g2 | a8 a4 a4 | g6 f2 g4 a4 | f12 z4 |
+d4 f6 e2 f2 g2 | a8 a4 a4 | g6 f2 g4 a4 | f12 z4 |
+d4 d2 b2 b4 b4 | b4 b4 b4 b4 | b6 d2 c4 b4 | a12 z4 |
+a4 d6 f2 f2 f2 | a8 a4 a4 | g6 f2 g4 e4 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shugyoshiki.tmd)
+- [鋼琴伴奏 TMD 檔案](shugyoshiki_piano.tmd)
 
 ## 分析
 
@@ -82,27 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:終業式
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 f6 e2 f2 g2 | a8 a4 a4 | g6 f2 g4 a4 | f12 z4 |
-d4 f6 e2 f2 g2 | a8 a4 a4 | g6 f2 g4 a4 | f12 z4 |
-d4 d2 b2 b4 b4 | b4 b4 b4 b4 | b6 d2 c4 b4 | a12 z4 |
-a4 d6 f2 f2 f2 | a8 a4 a4 | g6 f2 g4 e4 | d12 z4 |
-d4 f6 e2 f2 g2 | a8 a4 a4 | g6 f2 g4 a4 | f12 z4 |
-d4 f6 e2 f2 g2 | a8 a4 a4 | g6 f2 g4 a4 | f12 z4 |
-d4 d2 b2 b4 b4 | b4 b4 b4 b4 | b6 d2 c4 b4 | a12 z4 |
-a4 d6 f2 f2 f2 | a8 a4 a4 | g6 f2 g4 e4 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shugyoshiki.tmd)
-- [鋼琴伴奏 TMD 檔案](shugyoshiki_piano.tmd)
+![P090.jpg](P090.jpg)
+
+

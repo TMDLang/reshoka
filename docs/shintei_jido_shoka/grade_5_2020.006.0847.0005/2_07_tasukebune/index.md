@@ -26,9 +26,29 @@
 けなげのをのこら守れ神よ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P044.jpg](P044.jpg)
+```abc
+X:1
+T:助船
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=40
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z10 f2 | d4 d2 c4 c2 | b2 c2 d4 c2 f2 | e4 e2 d2 c2 b2 |
+c10 f2 | d4 d2 c4 c2 | b2 c2 d2 c4 f2 | e4 e2 a2 b2 c2 |
+!mp! b10 b2 | a4 a2 b4 b2 | !mf! c4 c2 a4 f2 | f4 e2 d2 c2 b2 |
+!mf! c10 f2 | d4 d2 c4 c2 | b2 c2 d2 c4 f2 | e4 e2 a2 b2 c2 |
+b10 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tasukebune.tmd)
+- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:助船
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=40
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z10 f2 | d4 d2 c4 c2 | b2 c2 d4 c2 f2 | e4 e2 d2 c2 b2 |
-c10 f2 | d4 d2 c4 c2 | b2 c2 d2 c4 f2 | e4 e2 a2 b2 c2 |
-!mp! b10 b2 | a4 a2 b4 b2 | !mf! c4 c2 a4 f2 | f4 e2 d2 c2 b2 |
-!mf! c10 f2 | d4 d2 c4 c2 | b2 c2 d2 c4 f2 | e4 e2 a2 b2 c2 |
-b10 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tasukebune.tmd)
-- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd)
+![P044.jpg](P044.jpg)
+
+

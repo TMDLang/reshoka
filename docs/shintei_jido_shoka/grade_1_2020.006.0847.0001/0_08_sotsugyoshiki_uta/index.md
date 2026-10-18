@@ -39,9 +39,28 @@
 互（たがひ）に心（こゝろ）は變（かは）らじな。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P013.jpg](P013.jpg)
+```abc
+X:1
+T:卒業式歌
+C:曲：山田源一郎
+M:4/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c6 c2 f4 f4 | g6 g2 c8 | a6 g2 f4 d4 | c12 z4 |
+f6 g2 a4 f4 | a4 b4 c8 | d6 e2 f4 a4 | g12 z4 |
+g6 a2 b4 g4 | a4 b4 c8 | d6 c2 a4 f4 | g12 z4 |
+c6 a2 f4 b4 | a4 g4 f8 | g6 a2 g6 f2 | f12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sotsugyoshiki_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](sotsugyoshiki_uta_piano.tmd)
 
 ## 分析
 
@@ -97,23 +116,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:卒業式歌
-C:曲：山田源一郎
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c6 c2 f4 f4 | g6 g2 c8 | a6 g2 f4 d4 | c12 z4 |
-f6 g2 a4 f4 | a4 b4 c8 | d6 e2 f4 a4 | g12 z4 |
-g6 a2 b4 g4 | a4 b4 c8 | d6 c2 a4 f4 | g12 z4 |
-c6 a2 f4 b4 | a4 g4 f8 | g6 a2 g6 f2 | f12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](sotsugyoshiki_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](sotsugyoshiki_uta_piano.tmd)
+![P013.jpg](P013.jpg)
+
+

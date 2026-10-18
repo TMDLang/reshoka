@@ -33,9 +33,28 @@
 日本武尊（やまとたけるのみこと）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P042.jpg](P042.jpg)
+```abc
+X:1
+T:日本武尊
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=66
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e4 c2 e2 | c4 a2 z2 | f2 g2 a2 f2 | e2 c2 e2 z2 |
+e4 e2 e2 | e4 c2 e2 | a2 c2 b3 a | b2 a2 b2 a2 |
+b2 c2 a2 z2 | e4 c2 z2 | d2 c2 b2 a2 | b4 g2 z2 |
+f4 f2 f2 | e2 e2 a2 b2 | c4 b4 | a6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yamato_takeru_no_mikoto.tmd)
+- [鋼琴伴奏 TMD 檔案](yamato_takeru_no_mikoto_piano.tmd)
 
 ## 分析
 
@@ -91,23 +110,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:日本武尊
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=66
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e4 c2 e2 | c4 a2 z2 | f2 g2 a2 f2 | e2 c2 e2 z2 |
-e4 e2 e2 | e4 c2 e2 | a2 c2 b3 a | b2 a2 b2 a2 |
-b2 c2 a2 z2 | e4 c2 z2 | d2 c2 b2 a2 | b4 g2 z2 |
-f4 f2 f2 | e2 e2 a2 b2 | c4 b4 | a6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yamato_takeru_no_mikoto.tmd)
-- [鋼琴伴奏 TMD 檔案](yamato_takeru_no_mikoto_piano.tmd)
+![P042.jpg](P042.jpg)
+
+

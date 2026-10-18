@@ -32,9 +32,32 @@
 隊伍正しく進め（反唱）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P029.jpg](P029.jpg)
+```abc
+X:1
+T:行軍
+C:曲：獨國風曲
+M:2/4
+L:1/16
+Q:1/4=112
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 g4 | b6 a2 | g2 e2 f2 g2 | a4 d4 |
+g3 a b2 c2 | d4 f2 g2 | b4 a4 | g4 z4 |
+d4 g4 | b6 a2 | g2 e2 f2 g2 | a4 d4 |
+g3 a b2 c2 | d4 f2 g2 | b4 a4 | g4 z4 |
+d2 d2 d2 d2 | e d c2 b2 d2 | c2 c2 c2 c2 | d c b2 a2 d2 |
+g2 a2 b2 c2 | d4 f2 g2 | b4 a4 | g4 z4 |
+d2 d2 d2 d2 | e d c2 b2 d2 | c2 c2 c2 c2 | d c b2 a2 d2 |
+g2 a2 b2 c2 | d4 f2 g2 | b4 a4 | g4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kogun.tmd)
+- [鋼琴伴奏 TMD 檔案](kogun_piano.tmd)
 
 ## 分析
 
@@ -93,27 +116,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:行軍
-C:曲：獨國風曲
-M:2/4
-L:1/16
-Q:1/4=112
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 g4 | b6 a2 | g2 e2 f2 g2 | a4 d4 |
-g3 a b2 c2 | d4 f2 g2 | b4 a4 | g4 z4 |
-d4 g4 | b6 a2 | g2 e2 f2 g2 | a4 d4 |
-g3 a b2 c2 | d4 f2 g2 | b4 a4 | g4 z4 |
-d2 d2 d2 d2 | e d c2 b2 d2 | c2 c2 c2 c2 | d c b2 a2 d2 |
-g2 a2 b2 c2 | d4 f2 g2 | b4 a4 | g4 z4 |
-d2 d2 d2 d2 | e d c2 b2 d2 | c2 c2 c2 c2 | d c b2 a2 d2 |
-g2 a2 b2 c2 | d4 f2 g2 | b4 a4 | g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kogun.tmd)
-- [鋼琴伴奏 TMD 檔案](kogun_piano.tmd)
+![P029.jpg](P029.jpg)
+
+

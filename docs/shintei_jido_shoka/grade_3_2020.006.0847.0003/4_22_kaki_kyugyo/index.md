@@ -23,9 +23,32 @@ Key: A major (?= A), 4/4 (<4/4>), Quarter = 100 (!= 100)
 かたりあふこそたのしけれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P087.jpg](P087.jpg)
+```abc
+X:1
+T:夏季休業
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e4 a6 a2 c4 | b4 a6 a2 f4 | e4 f6 f2 c4 | a4 b8 z4 |
+a4 b6 a2 b4 | c4 a6 a2 f4 | e4 f6 f2 c4 | b4 a8 z4 |
+c2 d2 e6 e2 c2 b2 | a4 b6 a2 f4 | e4 a6 a2 c4 | a4 b8 z4 |
+e4 a6 a2 c4 | b4 a6 a2 f4 | e4 a6 a2 c4 | b4 a8 z4 |
+e4 a6 a2 c4 | b4 a6 a2 f4 | e4 f6 f2 c4 | a4 b8 z4 |
+a4 b6 a2 b4 | c4 a6 a2 f4 | e4 f6 f2 c4 | b4 a8 z4 |
+c2 d2 e6 e2 c2 b2 | a4 b6 a2 f4 | e4 a6 a2 c4 | a4 b8 z4 |
+e4 a6 a2 c4 | b4 a6 a2 f4 | e4 a6 a2 c4 | b4 a8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kaki_kyugyo.tmd)
+- [鋼琴伴奏 TMD 檔案](kaki_kyugyo_piano.tmd)
 
 ## 分析
 
@@ -82,27 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:夏季休業
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e4 a6 a2 c4 | b4 a6 a2 f4 | e4 f6 f2 c4 | a4 b8 z4 |
-a4 b6 a2 b4 | c4 a6 a2 f4 | e4 f6 f2 c4 | b4 a8 z4 |
-c2 d2 e6 e2 c2 b2 | a4 b6 a2 f4 | e4 a6 a2 c4 | a4 b8 z4 |
-e4 a6 a2 c4 | b4 a6 a2 f4 | e4 a6 a2 c4 | b4 a8 z4 |
-e4 a6 a2 c4 | b4 a6 a2 f4 | e4 f6 f2 c4 | a4 b8 z4 |
-a4 b6 a2 b4 | c4 a6 a2 f4 | e4 f6 f2 c4 | b4 a8 z4 |
-c2 d2 e6 e2 c2 b2 | a4 b6 a2 f4 | e4 a6 a2 c4 | a4 b8 z4 |
-e4 a6 a2 c4 | b4 a6 a2 f4 | e4 a6 a2 c4 | b4 a8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kaki_kyugyo.tmd)
-- [鋼琴伴奏 TMD 檔案](kaki_kyugyo_piano.tmd)
+![P087.jpg](P087.jpg)
+
+

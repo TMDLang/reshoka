@@ -35,11 +35,30 @@
 兵士、なれや。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P034.jpg](P034.jpg)
+```abc
+X:1
+T:我國兵士
+C:曲：クツケン（獨）
+M:2/4
+L:1/16
+Q:1/4=100
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! z4 z2 f f | b2 b2 d2 d2 | !mf! f4 z2 f d | b b c c d2 f d |
+!f! b b c c d2 d e | f2 d2 b2 f2 | !mf! g4 f2 f e | d2 g2 f2 =e2 |
+f2 c2 f4 | !p! f4 z2 f f | e2 c c a2 f f | f2 d d b2 b b |
+!mp! a2 c c e2 c c | b2 d2 f2 d b | a2 c c e2 c a | !mp! b2 z2 z2 b b |
+c c d c b2 g2 | f2 b c d2 b2 | !mf! c2 c c d d e e | !f! f f g a b4 |
+!mf! !mp! b2 g e f2 d b | !p! c2 e c b2 z2 |
+```
 
-![P035.jpg](P035.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](wagakuni_heishi.tmd)
+- [鋼琴伴奏 TMD 檔案](wagakuni_heishi_piano.tmd)
 
 ## 分析
 
@@ -95,25 +114,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:我國兵士
-C:曲：クツケン（獨）
-M:2/4
-L:1/16
-Q:1/4=100
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z2 f f | b2 b2 d2 d2 | !mf! f4 z2 f d | b b c c d2 f d |
-!f! b b c c d2 d e | f2 d2 b2 f2 | !mf! g4 f2 f e | d2 g2 f2 =e2 |
-f2 c2 f4 | !p! f4 z2 f f | e2 c c a2 f f | f2 d d b2 b b |
-!mp! a2 c c e2 c c | b2 d2 f2 d b | a2 c c e2 c a | !mp! b2 z2 z2 b b |
-c c d c b2 g2 | f2 b c d2 b2 | !mf! c2 c c d d e e | !f! f f g a b4 |
-!mf! !mp! b2 g e f2 d b | !p! c2 e c b2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](wagakuni_heishi.tmd)
-- [鋼琴伴奏 TMD 檔案](wagakuni_heishi_piano.tmd)
+![P034.jpg](P034.jpg)
+
+![P035.jpg](P035.jpg)
+
+

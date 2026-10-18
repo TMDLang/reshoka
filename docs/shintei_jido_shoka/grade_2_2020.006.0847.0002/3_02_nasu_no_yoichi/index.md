@@ -26,9 +26,28 @@
 屋島のうらに　なりひびく
 ```
 
-## 原書掃描頁
+## ABC
 
-![P044.jpg](P044.jpg)
+```abc
+X:1
+T:なすのよいち
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=88
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f3 f a2 a2 | c3 c c2 c2 | d3 d d2 d2 | c4 z4 |
+b3 b a2 a2 | g3 g f2 f2 | g3 g g2 g2 | c4 z4 |
+d3 d f2 f2 | g3 g f2 f2 | g3 g a2 a2 | c3 c c2 z2 |
+d3 d c2 b2 | b3 b a2 a2 | g3 g c2 c2 | f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nasu_no_yoichi.tmd)
+- [鋼琴伴奏 TMD 檔案](nasu_no_yoichi_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:なすのよいち
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=88
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f3 f a2 a2 | c3 c c2 c2 | d3 d d2 d2 | c4 z4 |
-b3 b a2 a2 | g3 g f2 f2 | g3 g g2 g2 | c4 z4 |
-d3 d f2 f2 | g3 g f2 f2 | g3 g a2 a2 | c3 c c2 z2 |
-d3 d c2 b2 | b3 b a2 a2 | g3 g c2 c2 | f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nasu_no_yoichi.tmd)
-- [鋼琴伴奏 TMD 檔案](nasu_no_yoichi_piano.tmd)
+![P044.jpg](P044.jpg)
+
+

@@ -37,11 +37,31 @@
 あゝいさぎのもののふや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P082.jpg](P082.jpg)
+```abc
+X:1
+T:太田道灌
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=116
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 d4 | b8 d3 b a2 g2 | a8 z4 a4 | b8 a3 g e2 d2 |
+g8 z4 g4 | a6 a2 a2 b2 d2 e2 | Q:1/4=96 !p! d8 b4 d4 | g8 a4 g4 |
+a8 z4 b4 | d6 e2 d4 b2 d2 | e6 d2 b4 d4 | e8 _b4 a4 |
+g8 z4 b4 | e6 e2 ^d4 e4 | f8 b4 b4 | g8 a6 f2 |
+Q:1/4=116 !mf! g8 z4 b4 | d6 b2 d2 b2 a2 g2 | a6 b2 g4 e4 | b8 a6 b2 |
+d8 z4 b4 | d6 b2 d2 b2 a2 g2 | a6 b2 g4 b4 | e8 d6 b2 |
+g8 z4 z4 |
+```
 
-![P083.jpg](P083.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ota_dokan.tmd)
+- [鋼琴伴奏 TMD 檔案](ota_dokan_piano.tmd)
 
 ## 分析
 
@@ -97,26 +117,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:太田道灌
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 d4 | b8 d3 b a2 g2 | a8 z4 a4 | b8 a3 g e2 d2 |
-g8 z4 g4 | a6 a2 a2 b2 d2 e2 | Q:1/4=96 !p! d8 b4 d4 | g8 a4 g4 |
-a8 z4 b4 | d6 e2 d4 b2 d2 | e6 d2 b4 d4 | e8 _b4 a4 |
-g8 z4 b4 | e6 e2 ^d4 e4 | f8 b4 b4 | g8 a6 f2 |
-Q:1/4=116 !mf! g8 z4 b4 | d6 b2 d2 b2 a2 g2 | a6 b2 g4 e4 | b8 a6 b2 |
-d8 z4 b4 | d6 b2 d2 b2 a2 g2 | a6 b2 g4 b4 | e8 d6 b2 |
-g8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ota_dokan.tmd)
-- [鋼琴伴奏 TMD 檔案](ota_dokan_piano.tmd)
+![P082.jpg](P082.jpg)
+
+![P083.jpg](P083.jpg)
+
+

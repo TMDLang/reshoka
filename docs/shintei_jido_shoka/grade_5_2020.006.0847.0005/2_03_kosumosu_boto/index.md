@@ -32,11 +32,30 @@
 ひろげた羽に日があたる。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P038.jpg](P038.jpg)
+```abc
+X:1
+T:コスモスボート
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=104
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f4 f4 g4 f4 | e4 f2 e2 d8 | d2 d2 e2 f2 g4 f4 | e4 a6 a2 a4 |
+b4 b4 d4 b4 | a4 f4 e8 | g2 g2 f2 f2 e2 e2 f2 g2 | a2 a2 b2 a2 f4 z4 |
+d8 b4 b4 | a4 a4 f4 e4 | d6 d2 e4 f4 | a6 a2 a4 a4 |
+e2 e2 f2 g2 a2 g2 f2 e2 | d12 z4 | d4 e4 f4 g4 | a4 a4 b4 a4 |
+d6 b2 d4 b4 | a12 z4 | d3 b b2 a2 f3 g f2 e2 | d2 d2 e2 f2 g4 e4 |
+d12 z4 |
+```
 
-![P039.jpg](P039.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kosumosu_boto.tmd)
+- [鋼琴伴奏 TMD 檔案](kosumosu_boto_piano.tmd)
 
 ## 分析
 
@@ -92,25 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:コスモスボート
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=104
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f4 f4 g4 f4 | e4 f2 e2 d8 | d2 d2 e2 f2 g4 f4 | e4 a6 a2 a4 |
-b4 b4 d4 b4 | a4 f4 e8 | g2 g2 f2 f2 e2 e2 f2 g2 | a2 a2 b2 a2 f4 z4 |
-d8 b4 b4 | a4 a4 f4 e4 | d6 d2 e4 f4 | a6 a2 a4 a4 |
-e2 e2 f2 g2 a2 g2 f2 e2 | d12 z4 | d4 e4 f4 g4 | a4 a4 b4 a4 |
-d6 b2 d4 b4 | a12 z4 | d3 b b2 a2 f3 g f2 e2 | d2 d2 e2 f2 g4 e4 |
-d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kosumosu_boto.tmd)
-- [鋼琴伴奏 TMD 檔案](kosumosu_boto_piano.tmd)
+![P038.jpg](P038.jpg)
+
+![P039.jpg](P039.jpg)
+
+

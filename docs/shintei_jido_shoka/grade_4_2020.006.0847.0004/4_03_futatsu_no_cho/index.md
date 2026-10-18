@@ -31,9 +31,32 @@
 青い花ないからとんでつた
 ```
 
-## 原書掃描頁
+## ABC
 
-![P060.jpg](P060.jpg)
+```abc
+X:1
+T:二つの蝶
+C:曲：室崎琴月
+M:2/4
+L:1/16
+Q:1/4=84
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z2 a2 a2 a2 | c4 c2 d2 | c4 a2 g2 | a6 z2 |
+f2 f2 g2 a2 | g2 g2 a2 g2 | f4 g2 a2 | g6 z2 |
+z2 a2 a2 a2 | c4 c2 d2 | c4 a2 g2 | a6 z2 |
+f2 f2 g2 a2 | g2 g2 a2 g2 | f4 g2 a2 | g6 z2 |
+z2 a2 a2 a2 | c4 c2 d2 | c2 a2 g4 | f6 z2 |
+e2 e2 f2 g2 | a2 c2 d2 c2 | a4 g4 | f6 z2 |
+z2 a2 a2 a2 | c4 c2 d2 | c2 a2 g4 | f6 z2 |
+e2 e2 f2 g2 | a2 c2 d2 c2 | a4 g4 | f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](futatsu_no_cho.tmd)
+- [鋼琴伴奏 TMD 檔案](futatsu_no_cho_piano.tmd)
 
 ## 分析
 
@@ -89,27 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:二つの蝶
-C:曲：室崎琴月
-M:2/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 a2 a2 a2 | c4 c2 d2 | c4 a2 g2 | a6 z2 |
-f2 f2 g2 a2 | g2 g2 a2 g2 | f4 g2 a2 | g6 z2 |
-z2 a2 a2 a2 | c4 c2 d2 | c4 a2 g2 | a6 z2 |
-f2 f2 g2 a2 | g2 g2 a2 g2 | f4 g2 a2 | g6 z2 |
-z2 a2 a2 a2 | c4 c2 d2 | c2 a2 g4 | f6 z2 |
-e2 e2 f2 g2 | a2 c2 d2 c2 | a4 g4 | f6 z2 |
-z2 a2 a2 a2 | c4 c2 d2 | c2 a2 g4 | f6 z2 |
-e2 e2 f2 g2 | a2 c2 d2 c2 | a4 g4 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](futatsu_no_cho.tmd)
-- [鋼琴伴奏 TMD 檔案](futatsu_no_cho_piano.tmd)
+![P060.jpg](P060.jpg)
+
+

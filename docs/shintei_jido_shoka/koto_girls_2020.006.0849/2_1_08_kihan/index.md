@@ -31,9 +31,30 @@
 父（ちゝ）の船（ふね）、早（は）や寄（よ）れ。」（「」復唱）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P088.jpg](P088.jpg)
+```abc
+X:1
+T:歸帆
+C:曲：Berg（德國曲）
+M:3/4
+L:1/16
+Q:1/4=92
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! g4 b6 d2 | g8 z4 | !mp! g4 c6 e2 | d8 z4 |
+!mp! d4 b6 g2 | a8 z4 | d4 b6 g2 | f8 =f4 |
+e4 a6 g2 | f6 d4 g2 | a4 g6 c2 | b8 z4 |
+!f! d4 b4 e4 | d4 g4 z4 | !mp! d4 g6 a2 | f8 =f4 |
+e4 a6 g2 | f6 d4 g2 | a4 g6 c2 | b8 z4 |
+!f! d4 b4 e4 | d4 g4 z4 | !p! d4 g6 f2 | g8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kihan.tmd)
+- [鋼琴伴奏 TMD 檔案](kihan_piano.tmd)
 
 ## 分析
 
@@ -89,25 +110,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:歸帆
-C:曲：Berg（德國曲）
-M:3/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! g4 b6 d2 | g8 z4 | !mp! g4 c6 e2 | d8 z4 |
-!mp! d4 b6 g2 | a8 z4 | d4 b6 g2 | f8 =f4 |
-e4 a6 g2 | f6 d4 g2 | a4 g6 c2 | b8 z4 |
-!f! d4 b4 e4 | d4 g4 z4 | !mp! d4 g6 a2 | f8 =f4 |
-e4 a6 g2 | f6 d4 g2 | a4 g6 c2 | b8 z4 |
-!f! d4 b4 e4 | d4 g4 z4 | !p! d4 g6 f2 | g8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kihan.tmd)
-- [鋼琴伴奏 TMD 檔案](kihan_piano.tmd)
+![P088.jpg](P088.jpg)
+
+

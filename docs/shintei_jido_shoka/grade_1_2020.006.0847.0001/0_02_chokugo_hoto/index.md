@@ -20,9 +20,30 @@
 あな尊（たふと）しや　大勅語（おほみこと）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P006.jpg](P006.jpg)
+```abc
+X:1
+T:勅語奉答
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f6 a2 g4 f4 | b8 a4 g4 | f6 a2 g4 e4 | d12 z4 |
+f6 a2 g4 f4 | b8 a4 b4 | f6 a2 g4 e4 | d12 z4 |
+Q:1/4=104 e8 e4 e4 | f4 e4 d4 e4 | f4 f4 f4 f4 | a12 z4 |
+f4 f4 a4 f4 | b4 a4 f4 e4 | f4 f4 a4 b4 | e12 z4 |
+Q:1/4=96 f8 f4 f4 | b4 b4 a4 f4 | f6 a2 g4 e4 | a12 z4 |
+b6 b2 a4 f4 | b8 a4 b4 | f4 f4 a6 e2 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](chokugo_hoto.tmd)
+- [鋼琴伴奏 TMD 檔案](chokugo_hoto_piano.tmd)
 
 ## 分析
 
@@ -78,25 +99,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:勅語奉答
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f6 a2 g4 f4 | b8 a4 g4 | f6 a2 g4 e4 | d12 z4 |
-f6 a2 g4 f4 | b8 a4 b4 | f6 a2 g4 e4 | d12 z4 |
-Q:1/4=104 e8 e4 e4 | f4 e4 d4 e4 | f4 f4 f4 f4 | a12 z4 |
-f4 f4 a4 f4 | b4 a4 f4 e4 | f4 f4 a4 b4 | e12 z4 |
-Q:1/4=96 f8 f4 f4 | b4 b4 a4 f4 | f6 a2 g4 e4 | a12 z4 |
-b6 b2 a4 f4 | b8 a4 b4 | f4 f4 a6 e2 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](chokugo_hoto.tmd)
-- [鋼琴伴奏 TMD 檔案](chokugo_hoto_piano.tmd)
+![P006.jpg](P006.jpg)
+
+

@@ -27,9 +27,28 @@
 大（オホ）キナ金魚（キンギヨ）　小（チヒ）サナ金魚（キンギヨ）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P027.jpg](P027.jpg)
+```abc
+X:1
+T:キンギヨ
+C:曲：梁田貞
+M:2/4
+L:1/16
+Q:1/4=108
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 f2 g2 f2 | d2 f2 g2 f2 | d2 f2 g2 b2 | c'4 c'2 z2 |
+d'4 c'2 b2 | g4 f2 z2 | b4 g2 f2 | d2 d2 c2 z2 |
+d2 f2 g2 f2 | d2 f2 g2 f2 | d2 f2 g2 b2 | c'2 c'2 c'2 z2 |
+d'4 c'2 b2 | g4 f2 z2 | g2 f2 c2 b2 | b6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kingyo.tmd)
+- [鋼琴伴奏 TMD 檔案](kingyo_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:キンギヨ
-C:曲：梁田貞
-M:2/4
-L:1/16
-Q:1/4=108
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 f2 g2 f2 | d2 f2 g2 f2 | d2 f2 g2 b2 | c'4 c'2 z2 |
-d'4 c'2 b2 | g4 f2 z2 | b4 g2 f2 | d2 d2 c2 z2 |
-d2 f2 g2 f2 | d2 f2 g2 f2 | d2 f2 g2 b2 | c'2 c'2 c'2 z2 |
-d'4 c'2 b2 | g4 f2 z2 | g2 f2 c2 b2 | b6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kingyo.tmd)
-- [鋼琴伴奏 TMD 檔案](kingyo_piano.tmd)
+![P027.jpg](P027.jpg)
+
+

@@ -28,9 +28,28 @@
 千代田の宮を、仰げや。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P061.jpg](P061.jpg)
+```abc
+X:1
+T:千代田の宮
+C:曲：R. Groos（グロース）
+M:4/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! f4 f4 g4 a4 | g8 f4 z4 | a4 b4 c4 d2 c2 | c12 z4 |
+!mf! f4 f4 g4 a4 | g8 f4 z4 | a4 b4 c4 d2 c2 | c12 z4 |
+b4 a4 g4 f4 | c8 c4 a2 c2 | !f! f8 d8 | c12 z4 |
+d4 c4 b4 a4 | g6 f2 c4 a4 | !mf! g8 g8 | f12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](chiyoda_no_miya.tmd)
+- [鋼琴伴奏 TMD 檔案](chiyoda_no_miya_piano.tmd)
 
 ## 分析
 
@@ -88,23 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:千代田の宮
-C:曲：R. Groos（グロース）
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! f4 f4 g4 a4 | g8 f4 z4 | a4 b4 c4 d2 c2 | c12 z4 |
-!mf! f4 f4 g4 a4 | g8 f4 z4 | a4 b4 c4 d2 c2 | c12 z4 |
-b4 a4 g4 f4 | c8 c4 a2 c2 | !f! f8 d8 | c12 z4 |
-d4 c4 b4 a4 | g6 f2 c4 a4 | !mf! g8 g8 | f12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](chiyoda_no_miya.tmd)
-- [鋼琴伴奏 TMD 檔案](chiyoda_no_miya_piano.tmd)
+![P061.jpg](P061.jpg)
+
+

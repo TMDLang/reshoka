@@ -23,9 +23,29 @@
 見渡す山の秋景色
 ```
 
-## 原書掃描頁
+## ABC
 
-![P037.jpg](P037.jpg)
+```abc
+X:1
+T:秋景
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z8 z4 c4 | f6 f2 g4 g4 | a8 f4 a4 | c6 c2 b4 a4 |
+g8 z4 a4 | d6 d2 c4 c4 | f8 c4 b2 a2 | g6 a2 b4 g4 |
+a8 z4 g4 | f6 g2 a4 b4 | g6 a2 b4 c2 d2 | c6 b2 a4 g4 |
+c8 z4 c4 | f6 f2 g4 g4 | a8 f4 a4 | c6 c2 b4 g4 |
+f8 z8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shukei.tmd)
+- [鋼琴伴奏 TMD 檔案](shukei_piano.tmd)
 
 ## 分析
 
@@ -81,24 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:秋景
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z8 z4 c4 | f6 f2 g4 g4 | a8 f4 a4 | c6 c2 b4 a4 |
-g8 z4 a4 | d6 d2 c4 c4 | f8 c4 b2 a2 | g6 a2 b4 g4 |
-a8 z4 g4 | f6 g2 a4 b4 | g6 a2 b4 c2 d2 | c6 b2 a4 g4 |
-c8 z4 c4 | f6 f2 g4 g4 | a8 f4 a4 | c6 c2 b4 g4 |
-f8 z8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shukei.tmd)
-- [鋼琴伴奏 TMD 檔案](shukei_piano.tmd)
+![P037.jpg](P037.jpg)
+
+

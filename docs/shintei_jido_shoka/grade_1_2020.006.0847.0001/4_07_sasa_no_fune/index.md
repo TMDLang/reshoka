@@ -32,9 +32,36 @@
 アアオモシロイ　フナアソビ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P054.jpg](P054.jpg)
+```abc
+X:1
+T:ササノフネ
+C:曲：近藤義次
+M:2/4
+L:1/16
+Q:1/4=100
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a3 a f2 e2 | d3 d e4 | f3 f a2 b2 | a6 z2 |
+b3 b a4 | d3 d b2 a2 | f3 f e2 d2 | e6 z2 |
+a3 a f2 e2 | f3 f e4 | f3 f a2 b2 | a6 z2 |
+d2 d2 d2 b2 | a3 f a4 | f3 f e2 e2 | d6 z2 |
+a3 a f2 e2 | d3 d e4 | f3 f a2 b2 | a6 z2 |
+b3 b a4 | d3 d b2 a2 | f3 f e2 d2 | e6 z2 |
+a3 a f2 e2 | f3 f e4 | f3 f a2 b2 | a6 z2 |
+d2 d2 d2 b2 | a3 f a4 | f3 f e2 e2 | d6 z2 |
+a3 a f2 e2 | d3 d e4 | f3 f a2 b2 | a6 z2 |
+b3 b a4 | d3 d b2 a2 | f3 f e2 d2 | e6 z2 |
+a3 a f2 e2 | f3 f e4 | f3 f a2 b2 | a6 z2 |
+d2 d2 d2 b2 | a3 f a4 | f3 f e2 e2 | d6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sasa_no_fune.tmd)
+- [鋼琴伴奏 TMD 檔案](sasa_no_fune_piano.tmd)
 
 ## 分析
 
@@ -92,31 +119,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ササノフネ
-C:曲：近藤義次
-M:2/4
-L:1/16
-Q:1/4=100
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a3 a f2 e2 | d3 d e4 | f3 f a2 b2 | a6 z2 |
-b3 b a4 | d3 d b2 a2 | f3 f e2 d2 | e6 z2 |
-a3 a f2 e2 | f3 f e4 | f3 f a2 b2 | a6 z2 |
-d2 d2 d2 b2 | a3 f a4 | f3 f e2 e2 | d6 z2 |
-a3 a f2 e2 | d3 d e4 | f3 f a2 b2 | a6 z2 |
-b3 b a4 | d3 d b2 a2 | f3 f e2 d2 | e6 z2 |
-a3 a f2 e2 | f3 f e4 | f3 f a2 b2 | a6 z2 |
-d2 d2 d2 b2 | a3 f a4 | f3 f e2 e2 | d6 z2 |
-a3 a f2 e2 | d3 d e4 | f3 f a2 b2 | a6 z2 |
-b3 b a4 | d3 d b2 a2 | f3 f e2 d2 | e6 z2 |
-a3 a f2 e2 | f3 f e4 | f3 f a2 b2 | a6 z2 |
-d2 d2 d2 b2 | a3 f a4 | f3 f e2 e2 | d6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](sasa_no_fune.tmd)
-- [鋼琴伴奏 TMD 檔案](sasa_no_fune_piano.tmd)
+![P054.jpg](P054.jpg)
+
+

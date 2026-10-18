@@ -45,15 +45,28 @@
 つちうつひびきにまして高し。
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:村のかぢや（村之鍛冶屋）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=84
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a2 c2 c2 c2 | f2 a2 a2 a2 | g2 c2 d2 c2 | f2 f g a2 z2 |
+a2 c2 c2 c2 | f2 a2 a2 a2 | g4 a2 g2 | g2 g a f2 z2 |
+e2 e e a2 e2 | f2 f g a2 f2 | c2 a2 c2 a2 | g f g a g2 z2 |
+a2 c2 c2 c2 | f2 a2 a2 a2 | g4 a2 g2 | g2 g a f2 z2 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
 
-![image3.jpeg](image3.jpeg)
-
-![image4.jpeg](image4.jpeg)
+- [主旋律 TMD 檔案](muranokajiya.tmd)
+- [鋼琴伴奏 TMD 檔案](muranokajiya_piano.tmd)
 
 ## 分析
 
@@ -109,23 +122,15 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:村のかぢや（村之鍛冶屋）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a2 c2 c2 c2 | f2 a2 a2 a2 | g2 c2 d2 c2 | f2 f g a2 z2 |
-a2 c2 c2 c2 | f2 a2 a2 a2 | g4 a2 g2 | g2 g a f2 z2 |
-e2 e e a2 e2 | f2 f g a2 f2 | c2 a2 c2 a2 | g f g a g2 z2 |
-a2 c2 c2 c2 | f2 a2 a2 a2 | g4 a2 g2 | g2 g a f2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](muranokajiya.tmd)
-- [鋼琴伴奏 TMD 檔案](muranokajiya_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+![image3.jpeg](image3.jpeg)
+
+![image4.jpeg](image4.jpeg)
+
+

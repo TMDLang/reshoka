@@ -38,9 +38,28 @@
 たすけなされたかみさまよ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P046.jpg](P046.jpg)
+```abc
+X:1
+T:大こくさま
+C:曲：田村虎藏
+M:2/4
+L:1/16
+Q:1/4=100
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f2 f2 c2 c2 | f2 f2 g2 g2 | a2 a2 g2 f2 | g6 z2 |
+f2 f2 d2 d2 | c2 c2 f2 f2 | g2 g2 a2 g2 | f6 z2 |
+c4 a2 a2 | g2 f2 g2 a2 | c2 c2 d2 d2 | c6 z2 |
+a2 a2 c2 c2 | a2 g2 f2 g2 | c2 c2 a2 g2 | f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](daikoku_sama.tmd)
+- [鋼琴伴奏 TMD 檔案](daikoku_sama_piano.tmd)
 
 ## 分析
 
@@ -96,23 +115,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:大こくさま
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=100
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f2 f2 c2 c2 | f2 f2 g2 g2 | a2 a2 g2 f2 | g6 z2 |
-f2 f2 d2 d2 | c2 c2 f2 f2 | g2 g2 a2 g2 | f6 z2 |
-c4 a2 a2 | g2 f2 g2 a2 | c2 c2 d2 d2 | c6 z2 |
-a2 a2 c2 c2 | a2 g2 f2 g2 | c2 c2 a2 g2 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](daikoku_sama.tmd)
-- [鋼琴伴奏 TMD 檔案](daikoku_sama_piano.tmd)
+![P046.jpg](P046.jpg)
+
+

@@ -29,11 +29,30 @@
 げにこそあらじ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P044.jpg](P044.jpg)
+```abc
+X:1
+T:凱旋
+C:TMD (Chen, Chih-Han / aguai)
+M:4/8
+L:1/16
+Q:1/8=168
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 d3 e f2 | g2 a2 b2 z2 | d3 e d2 b2 | c2 b2 a2 z2 |
+b3 a g2 b2 | a4 f2 d2 | e2 f g a2 g f | d4 z4 |
+f2 g a b2 a g | a2 b c d2 z2 | g2 a b c2 b a | g2 f e d2 z2 |
+d3 e d c b a | g3 a b2 c2 | d2 b2 g2 e2 | d g b a g2 z2 |
+d3 e d c b a | g3 a b2 c2 | d2 b2 g2 e2 | d g b a g2 d2 |
+g3 a b2 c b | g6 z2 |
+```
 
-![P045.jpg](P045.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gaisen.tmd)
+- [鋼琴伴奏 TMD 檔案](gaisen_piano.tmd)
 
 ## 分析
 
@@ -89,25 +108,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:凱旋
-C:TMD (Chen, Chih-Han / aguai)
-M:4/8
-L:1/16
-Q:1/8=168
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 d3 e f2 | g2 a2 b2 z2 | d3 e d2 b2 | c2 b2 a2 z2 |
-b3 a g2 b2 | a4 f2 d2 | e2 f g a2 g f | d4 z4 |
-f2 g a b2 a g | a2 b c d2 z2 | g2 a b c2 b a | g2 f e d2 z2 |
-d3 e d c b a | g3 a b2 c2 | d2 b2 g2 e2 | d g b a g2 z2 |
-d3 e d c b a | g3 a b2 c2 | d2 b2 g2 e2 | d g b a g2 d2 |
-g3 a b2 c b | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gaisen.tmd)
-- [鋼琴伴奏 TMD 檔案](gaisen_piano.tmd)
+![P044.jpg](P044.jpg)
+
+![P045.jpg](P045.jpg)
+
+

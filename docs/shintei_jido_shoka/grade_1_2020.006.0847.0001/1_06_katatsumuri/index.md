@@ -31,9 +31,27 @@
 メダマダセ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P021.jpg](P021.jpg)
+```abc
+X:1
+T:カタツムリ
+C:曲：文部省
+M:2/4
+L:1/16
+Q:1/4=92
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a3 a a2 f2 | d3 d d2 e2 | f3 f e2 d2 | e4 z4 |
+f3 g a2 b2 | a3 a a2 f2 | e3 e d2 e2 | f4 z4 |
+a2 d2 d2 a2 | f2 a2 a2 f2 | d2 f2 f3 e | d4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](katatsumuri.tmd)
+- [鋼琴伴奏 TMD 檔案](katatsumuri_piano.tmd)
 
 ## 分析
 
@@ -89,22 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:カタツムリ
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a3 a a2 f2 | d3 d d2 e2 | f3 f e2 d2 | e4 z4 |
-f3 g a2 b2 | a3 a a2 f2 | e3 e d2 e2 | f4 z4 |
-a2 d2 d2 a2 | f2 a2 a2 f2 | d2 f2 f3 e | d4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](katatsumuri.tmd)
-- [鋼琴伴奏 TMD 檔案](katatsumuri_piano.tmd)
+![P021.jpg](P021.jpg)
+
+

@@ -27,11 +27,28 @@
 今日を告げて高く鳴く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P070.jpg](P070.jpg)
+```abc
+X:1
+T:曉景
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f4 b3 c d4 b4 | g8 f4 z4 | f4 b3 c d4 e4 | c8 f4 z4 |
+c4 c3 d e4 c4 | d3 e f4 d4 z4 | e4 e3 d c7 d | b8 z4 z4 |
+f4 e4 d4 c4 | b4 z4 e2 e2 d2 c2 | d8 b4 z4 | g3 g f3 f e3 e d3 d |
+c8 f4 z4 | b4 e2 e2 d4 c4 | b8 z4 f4 | b8 z4 z4 |
+```
 
-![P071.jpg](P071.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gyokei.tmd)
+- [鋼琴伴奏 TMD 檔案](gyokei_piano.tmd)
 
 ## 分析
 
@@ -87,23 +104,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:曉景
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f4 b3 c d4 b4 | g8 f4 z4 | f4 b3 c d4 e4 | c8 f4 z4 |
-c4 c3 d e4 c4 | d3 e f4 d4 z4 | e4 e3 d c7 d | b8 z4 z4 |
-f4 e4 d4 c4 | b4 z4 e2 e2 d2 c2 | d8 b4 z4 | g3 g f3 f e3 e d3 d |
-c8 f4 z4 | b4 e2 e2 d4 c4 | b8 z4 f4 | b8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gyokei.tmd)
-- [鋼琴伴奏 TMD 檔案](gyokei_piano.tmd)
+![P070.jpg](P070.jpg)
+
+![P071.jpg](P071.jpg)
+
+

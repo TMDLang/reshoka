@@ -41,9 +41,27 @@
 ラツパや鈴の音ひゞく
 ```
 
-## 原書掃描頁
+## ABC
 
-![P054.jpg](P054.jpg)
+```abc
+X:1
+T:町の朝（街鎮之晨）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 a3 c a2 | f a g f d4 | f2 a2 g2 d f | g6 z2 |
+a2 g3 a f2 | g2 a2 c4 | d2 c2 d c a f | g6 z2 |
+c2 d3 c a2 | f2 g2 a2 g2 | d f g a g2 a2 | f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](machi_no_asa.tmd)
+- [鋼琴伴奏 TMD 檔案](machi_no_asa_piano.tmd)
 
 ## 分析
 
@@ -99,22 +117,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:町の朝（街鎮之晨）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 a3 c a2 | f a g f d4 | f2 a2 g2 d f | g6 z2 |
-a2 g3 a f2 | g2 a2 c4 | d2 c2 d c a f | g6 z2 |
-c2 d3 c a2 | f2 g2 a2 g2 | d f g a g2 a2 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](machi_no_asa.tmd)
-- [鋼琴伴奏 TMD 檔案](machi_no_asa_piano.tmd)
+![P054.jpg](P054.jpg)
+
+

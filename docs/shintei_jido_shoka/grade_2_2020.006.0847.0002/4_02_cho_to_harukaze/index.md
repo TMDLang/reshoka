@@ -27,9 +27,28 @@
 ノドカナカゼモ　フクナヨフクナ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P054.jpg](P054.jpg)
+```abc
+X:1
+T:テフトハルカゼ
+C:曲：梁田貞
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 e4 g4 e4 | a4 c4 c4 z4 | c4 a4 a4 a4 | c4 g4 g4 z4 |
+g4 e4 g4 e4 | a4 c4 c4 z4 | c4 a4 g4 f4 | e4 d4 c4 z4 |
+d4 e4 f4 d4 | e4 f4 g4 z4 | d4 e4 f4 d4 | e4 f4 g4 z4 |
+g4 e4 g4 e4 | a4 c4 d4 z4 | c4 a4 g4 f4 | e4 d4 c4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](cho_to_harukaze.tmd)
+- [鋼琴伴奏 TMD 檔案](cho_to_harukaze_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:テフトハルカゼ
-C:曲：梁田貞
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 e4 g4 e4 | a4 c4 c4 z4 | c4 a4 a4 a4 | c4 g4 g4 z4 |
-g4 e4 g4 e4 | a4 c4 c4 z4 | c4 a4 g4 f4 | e4 d4 c4 z4 |
-d4 e4 f4 d4 | e4 f4 g4 z4 | d4 e4 f4 d4 | e4 f4 g4 z4 |
-g4 e4 g4 e4 | a4 c4 d4 z4 | c4 a4 g4 f4 | e4 d4 c4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](cho_to_harukaze.tmd)
-- [鋼琴伴奏 TMD 檔案](cho_to_harukaze_piano.tmd)
+![P054.jpg](P054.jpg)
+
+

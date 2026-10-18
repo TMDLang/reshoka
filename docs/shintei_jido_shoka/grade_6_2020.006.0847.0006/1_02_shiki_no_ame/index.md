@@ -34,9 +34,29 @@
 聞くだに寒き冬の雨
 ```
 
-## 原書掃描頁
+## ABC
 
-![P025.jpg](P025.jpg)
+```abc
+X:1
+T:四季の雨
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=69
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 b2 b2 | a4 g4 e2 g2 | d4 B4 d4 | g6 a2 b2 a2 |
+!p! a6 z2 b2 b2 | a4 g4 e4 | a4 a4 a4 | f2 d2 g4 f4 |
+d6 z2 d2 d2 | e6 e2 f2 g2 | a4 a4 g4 | e6 b2 a2 g2 |
+!mf! a6 z2 b2 b2 | a4 g4 e2 g2 | d4 B4 d4 | g6 a2 b2 a2 |
+g6 z2 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shiki_no_ame.tmd)
+- [鋼琴伴奏 TMD 檔案](shiki_no_ame_piano.tmd)
 
 ## 分析
 
@@ -92,24 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:四季の雨
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=69
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 b2 b2 | a4 g4 e2 g2 | d4 B4 d4 | g6 a2 b2 a2 |
-!p! a6 z2 b2 b2 | a4 g4 e4 | a4 a4 a4 | f2 d2 g4 f4 |
-d6 z2 d2 d2 | e6 e2 f2 g2 | a4 a4 g4 | e6 b2 a2 g2 |
-!mf! a6 z2 b2 b2 | a4 g4 e2 g2 | d4 B4 d4 | g6 a2 b2 a2 |
-g6 z2 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shiki_no_ame.tmd)
-- [鋼琴伴奏 TMD 檔案](shiki_no_ame_piano.tmd)
+![P025.jpg](P025.jpg)
+
+

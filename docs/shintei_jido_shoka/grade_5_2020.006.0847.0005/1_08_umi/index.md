@@ -27,9 +27,30 @@
 見よ夜の海
 ```
 
-## 原書掃描頁
+## ABC
 
-![P032.jpg](P032.jpg)
+```abc
+X:1
+T:海
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=80
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! f4 f2 g2 a4 | g4 f4 d4 | c6 d2 f4 | g4 g4 f4 |
+!mf! a4 a2 c2 d4 | c6 d2 a4 | c8 g4 | a8 z4 |
+!mf! c4 d2 c2 a4 | g6 a2 f4 | d4 f2 g2 a4 | c8 z4 |
+d4 c2 a2 f4 | g6 f2 d4 | c4 f2 g2 a4 | f8 z4 |
+!p! c8 a4 | g6 a2 c2 a2 | g8 z4 | !mf! c8 d4 |
+c6 a2 g2 e2 | f8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](umi.tmd)
+- [鋼琴伴奏 TMD 檔案](umi_piano.tmd)
 
 ## 分析
 
@@ -85,25 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:海
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=80
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! f4 f2 g2 a4 | g4 f4 d4 | c6 d2 f4 | g4 g4 f4 |
-!mf! a4 a2 c2 d4 | c6 d2 a4 | c8 g4 | a8 z4 |
-!mf! c4 d2 c2 a4 | g6 a2 f4 | d4 f2 g2 a4 | c8 z4 |
-d4 c2 a2 f4 | g6 f2 d4 | c4 f2 g2 a4 | f8 z4 |
-!p! c8 a4 | g6 a2 c2 a2 | g8 z4 | !mf! c8 d4 |
-c6 a2 g2 e2 | f8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](umi.tmd)
-- [鋼琴伴奏 TMD 檔案](umi_piano.tmd)
+![P032.jpg](P032.jpg)
+
+

@@ -32,9 +32,28 @@
 ハナセイトヲ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P034.jpg](P034.jpg)
+```abc
+X:1
+T:たこのうた
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 a2 b2 | c4 a2 b2 | c6 d2 | c4 z4 |
+d6 d2 | c4 a4 | a6 f2 | g4 z4 |
+c4 a2 b2 | c4 a2 b2 | c6 d2 | c4 z4 |
+d6 d2 | c4 a4 | g6 a2 | f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tako_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](tako_no_uta_piano.tmd)
 
 ## 分析
 
@@ -90,23 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:たこのうた
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 a2 b2 | c4 a2 b2 | c6 d2 | c4 z4 |
-d6 d2 | c4 a4 | a6 f2 | g4 z4 |
-c4 a2 b2 | c4 a2 b2 | c6 d2 | c4 z4 |
-d6 d2 | c4 a4 | g6 a2 | f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tako_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](tako_no_uta_piano.tmd)
+![P034.jpg](P034.jpg)
+
+

@@ -27,9 +27,28 @@
 のぼらう　なんでもこいこい　僕等は少年だ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P065.jpg](P065.jpg)
+```abc
+X:1
+T:僕等は少年だ
+C:曲：原田比古士良
+M:2/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 b2 a2 g2 | g2 f2 e2 d2 | a2 g2 f2 e2 | g4 z4 |
+M:4/4 e6 d2 c4 c4 | d6 e2 f4 g4 | c6 c2 b4 b4 | c12 z4 |
+d2 d2 d2 d2 e4 d4 | c4 d4 e6 z2 | g2 g2 g2 g2 a4 g4 | f4 e4 d6 z2 |
+c4 c4 d4 z4 | g2 g2 g2 g2 g2 g2 g2 g2 | c6 c2 d4 b4 | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](bokura_wa_shonen_da.tmd)
+- [鋼琴伴奏 TMD 檔案](bokura_wa_shonen_da_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:僕等は少年だ
-C:曲：原田比古士良
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 b2 a2 g2 | g2 f2 e2 d2 | a2 g2 f2 e2 | g4 z4 |
-M:4/4 e6 d2 c4 c4 | d6 e2 f4 g4 | c6 c2 b4 b4 | c12 z4 |
-d2 d2 d2 d2 e4 d4 | c4 d4 e6 z2 | g2 g2 g2 g2 a4 g4 | f4 e4 d6 z2 |
-c4 c4 d4 z4 | g2 g2 g2 g2 g2 g2 g2 g2 | c6 c2 d4 b4 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](bokura_wa_shonen_da.tmd)
-- [鋼琴伴奏 TMD 檔案](bokura_wa_shonen_da_piano.tmd)
+![P065.jpg](P065.jpg)
+
+

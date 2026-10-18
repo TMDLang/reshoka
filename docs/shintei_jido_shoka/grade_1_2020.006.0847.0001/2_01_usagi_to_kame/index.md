@@ -40,11 +40,28 @@
 サッキノ　ジマンハ　ドウシタノ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P030.jpg](P030.jpg)
+```abc
+X:1
+T:ウサギトカメ
+C:曲：納所辨次郎
+M:2/4
+L:1/16
+Q:1/4=104
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a3 f a3 f | f2 e4 e2 | e2 e2 d2 e2 | f6 z2 |
+a2 a2 f2 a2 | f2 f2 d2 d2 | e2 e2 f2 e2 | d6 z2 |
+a2 a2 a2 a2 | b2 b2 b2 b2 | d2 d2 d2 b2 | a6 z2 |
+b2 b2 d2 b2 | a2 a2 f2 f2 | e2 e2 f2 e2 | d6 z2 |
+```
 
-![P031.jpg](P031.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](usagi_to_kame.tmd)
+- [鋼琴伴奏 TMD 檔案](usagi_to_kame_piano.tmd)
 
 ## 分析
 
@@ -100,23 +117,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ウサギトカメ
-C:曲：納所辨次郎
-M:2/4
-L:1/16
-Q:1/4=104
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a3 f a3 f | f2 e4 e2 | e2 e2 d2 e2 | f6 z2 |
-a2 a2 f2 a2 | f2 f2 d2 d2 | e2 e2 f2 e2 | d6 z2 |
-a2 a2 a2 a2 | b2 b2 b2 b2 | d2 d2 d2 b2 | a6 z2 |
-b2 b2 d2 b2 | a2 a2 f2 f2 | e2 e2 f2 e2 | d6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](usagi_to_kame.tmd)
-- [鋼琴伴奏 TMD 檔案](usagi_to_kame_piano.tmd)
+![P030.jpg](P030.jpg)
+
+![P031.jpg](P031.jpg)
+
+

@@ -29,9 +29,28 @@
 ポプラの枝はねむります
 ```
 
-## 原書掃描頁
+## ABC
 
-![P061.jpg](P061.jpg)
+```abc
+X:1
+T:ポプラ
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=104
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 d2 e2 f4 | g3 a g4 e4 | d2 e2 f6 e2 | d8 z4 |
+c4 d2 e2 f4 | e2 f2 g4 a4 | g3 a g6 f2 | c8 z4 |
+b3 a g6 g2 | a2 b2 g8 | a3 a c6 a2 | d8 z4 |
+g3 a g6 e2 | f2 g2 a8 | g3 a g4 a2 b2 | c8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](popura.tmd)
+- [鋼琴伴奏 TMD 檔案](popura_piano.tmd)
 
 ## 分析
 
@@ -87,23 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ポプラ
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=104
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 d2 e2 f4 | g3 a g4 e4 | d2 e2 f6 e2 | d8 z4 |
-c4 d2 e2 f4 | e2 f2 g4 a4 | g3 a g6 f2 | c8 z4 |
-b3 a g6 g2 | a2 b2 g8 | a3 a c6 a2 | d8 z4 |
-g3 a g6 e2 | f2 g2 a8 | g3 a g4 a2 b2 | c8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](popura.tmd)
-- [鋼琴伴奏 TMD 檔案](popura_piano.tmd)
+![P061.jpg](P061.jpg)
+
+

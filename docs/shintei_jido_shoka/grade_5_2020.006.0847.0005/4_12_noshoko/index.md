@@ -34,11 +34,30 @@
 かたき我家の本も立て
 ```
 
-## 原書掃描頁
+## ABC
 
-![P070.jpg](P070.jpg)
+```abc
+X:1
+T:農商工
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=120
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 d e3 e | g3 a g4 | e3 g a3 b | d6 z2 |
+e3 e d3 b | d3 b a4 | g3 a g3 e | g3 a e2 z2 |
+g3 g a3 a | b3 d a3 a | e3 e g3 a | b6 z2 |
+d3 e d2 z2 | b3 d a2 a2 | g3 g a3 b | e6 z2 |
+d3 d e3 e | g3 a g4 | e3 e g3 g | a3 b a2 z2 |
+d3 d b3 d | e3 d b3 a | g3 e a3 b | g6 z2 |
+```
 
-![P071.jpg](P071.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](noshoko.tmd)
+- [鋼琴伴奏 TMD 檔案](noshoko_piano.tmd)
 
 ## 分析
 
@@ -94,25 +113,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:農商工
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=120
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 d e3 e | g3 a g4 | e3 g a3 b | d6 z2 |
-e3 e d3 b | d3 b a4 | g3 a g3 e | g3 a e2 z2 |
-g3 g a3 a | b3 d a3 a | e3 e g3 a | b6 z2 |
-d3 e d2 z2 | b3 d a2 a2 | g3 g a3 b | e6 z2 |
-d3 d e3 e | g3 a g4 | e3 e g3 g | a3 b a2 z2 |
-d3 d b3 d | e3 d b3 a | g3 e a3 b | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](noshoko.tmd)
-- [鋼琴伴奏 TMD 檔案](noshoko_piano.tmd)
+![P070.jpg](P070.jpg)
+
+![P071.jpg](P071.jpg)
+
+

@@ -26,9 +26,34 @@
 雁の叫び
 ```
 
-## 原書掃描頁
+## ABC
 
-![P053.jpg](P053.jpg)
+```abc
+X:1
+T:雁の叫び
+C:曲：露國民歌
+M:4/4
+L:1/16
+Q:1/4=72
+K:Am
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 c4 | B4 A4 B4 z4 |
+!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 c4 | B4 A4 B4 z4 |
+!mf! c6 c2 B4 G4 | A4 B4 c4 z4 | !f! e6 e2 d4 B4 | c4 d4 e4 z4 |
+f4 e4 d4 c4 | B4 A4 B4 e4 | f4 e2 d2 c4 B4 | A4 A4 A4 z4 |
+!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 B4 | A4 A4 A4 z4 |
+!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 c4 | B4 A4 B4 z4 |
+!mf! c6 c2 B4 G4 | A4 B4 c4 z4 | !f! e6 e2 d4 B4 | c4 d4 e4 z4 |
+f4 e4 d4 c4 | B4 A4 B4 e4 | f4 e2 d2 c4 B4 | A4 A4 A4 z4 |
+!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 B4 | A4 A4 A4 z4 |
+!pp! A4 A4 A4 z4 | A4 A4 A4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kari_no_sakebi.tmd)
+- [鋼琴伴奏 TMD 檔案](kari_no_sakebi_piano.tmd)
 
 ## 分析
 
@@ -87,29 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:雁の叫び
-C:曲：露國民歌
-M:4/4
-L:1/16
-Q:1/4=72
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 c4 | B4 A4 B4 z4 |
-!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 c4 | B4 A4 B4 z4 |
-!mf! c6 c2 B4 G4 | A4 B4 c4 z4 | !f! e6 e2 d4 B4 | c4 d4 e4 z4 |
-f4 e4 d4 c4 | B4 A4 B4 e4 | f4 e2 d2 c4 B4 | A4 A4 A4 z4 |
-!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 B4 | A4 A4 A4 z4 |
-!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 c4 | B4 A4 B4 z4 |
-!mf! c6 c2 B4 G4 | A4 B4 c4 z4 | !f! e6 e2 d4 B4 | c4 d4 e4 z4 |
-f4 e4 d4 c4 | B4 A4 B4 e4 | f4 e2 d2 c4 B4 | A4 A4 A4 z4 |
-!pp! A4 e4 e4 z4 | A4 d4 d4 z4 | e4 f2 e2 d4 B4 | A4 A4 A4 z4 |
-!pp! A4 A4 A4 z4 | A4 A4 A4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kari_no_sakebi.tmd)
-- [鋼琴伴奏 TMD 檔案](kari_no_sakebi_piano.tmd)
+![P053.jpg](P053.jpg)
+
+

@@ -34,9 +34,28 @@
 あゝ燈臺の　貴（たふと）きことよ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P043.jpg](P043.jpg)
+```abc
+X:1
+T:燈臺
+C:曲：田村虎藏
+M:4/4
+L:1/16
+Q:1/4=80
+K:Em
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e8 e4 a4 | b6 c2 b4 a4 | g6 a2 g4 e4 | a4 a4 f4 z4 |
+e4 e2 e2 a8 | f6 e2 f4 a4 | b6 a2 b4 e4 | f4 f4 e4 z4 |
+e4 e4 b4 c4 | b6 a2 g4 e4 | b6 c2 b4 a4 | g4 f4 b4 z4 |
+e8 B4 e4 | f6 e2 f4 a4 | b6 a2 g4 e4 | f4 f4 e4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](todai.tmd)
+- [鋼琴伴奏 TMD 檔案](todai_piano.tmd)
 
 ## 分析
 
@@ -92,23 +111,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:燈臺
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=80
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e8 e4 a4 | b6 c2 b4 a4 | g6 a2 g4 e4 | a4 a4 f4 z4 |
-e4 e2 e2 a8 | f6 e2 f4 a4 | b6 a2 b4 e4 | f4 f4 e4 z4 |
-e4 e4 b4 c4 | b6 a2 g4 e4 | b6 c2 b4 a4 | g4 f4 b4 z4 |
-e8 B4 e4 | f6 e2 f4 a4 | b6 a2 g4 e4 | f4 f4 e4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](todai.tmd)
-- [鋼琴伴奏 TMD 檔案](todai_piano.tmd)
+![P043.jpg](P043.jpg)
+
+

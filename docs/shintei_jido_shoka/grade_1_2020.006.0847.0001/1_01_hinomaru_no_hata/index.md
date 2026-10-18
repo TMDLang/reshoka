@@ -27,9 +27,28 @@
 ニホンノハタハ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P016.jpg](P016.jpg)
+```abc
+X:1
+T:ヒノマルノハタ
+C:曲：文部省
+M:2/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f4 f4 | g4 g4 | a4 a4 | g4 z4 |
+a4 a4 | c4 c4 | d4 d4 | c4 z4 |
+d4 d4 | c4 c4 | a4 f4 | g4 z4 |
+c4 c4 | a4 f4 | g4 a4 | f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hinomaru_no_hata.tmd)
+- [鋼琴伴奏 TMD 檔案](hinomaru_no_hata_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ヒノマルノハタ
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f4 f4 | g4 g4 | a4 a4 | g4 z4 |
-a4 a4 | c4 c4 | d4 d4 | c4 z4 |
-d4 d4 | c4 c4 | a4 f4 | g4 z4 |
-c4 c4 | a4 f4 | g4 a4 | f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hinomaru_no_hata.tmd)
-- [鋼琴伴奏 TMD 檔案](hinomaru_no_hata_piano.tmd)
+![P016.jpg](P016.jpg)
+
+

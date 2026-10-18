@@ -32,11 +32,30 @@
 山びこよ（山彥）山びこよ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P040.jpg](P040.jpg)
+```abc
+X:1
+T:山びこ
+C:曲：永井幸次
+M:2/4
+L:1/16
+Q:1/4=80
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b3 b f2 z2 | b3 b f2 z2 | c3 c f2 z2 | c3 c f2 z2 |
+b2 g a b2 g a | b2 g a b2 z2 | c2 b d c2 b d | c2 b2 f2 z2 |
+g3 b g4 | f2 f2 b2 d2 | c2 d2 c2 f2 | b6 z2 |
+c2 d2 c2 f2 | b2 b2 b2 z2 | g g g g b2 g2 | f6 z2 |
+g g g g b2 g2 | f6 z2 | c2 b d c2 f2 | b6 z2 |
+c2 b d c2 f2 | b6 z2 |
+```
 
-![P041.jpg](P041.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yamabiko.tmd)
+- [鋼琴伴奏 TMD 檔案](yamabiko_piano.tmd)
 
 ## 分析
 
@@ -92,25 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:山びこ
-C:曲：永井幸次
-M:2/4
-L:1/16
-Q:1/4=80
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b3 b f2 z2 | b3 b f2 z2 | c3 c f2 z2 | c3 c f2 z2 |
-b2 g a b2 g a | b2 g a b2 z2 | c2 b d c2 b d | c2 b2 f2 z2 |
-g3 b g4 | f2 f2 b2 d2 | c2 d2 c2 f2 | b6 z2 |
-c2 d2 c2 f2 | b2 b2 b2 z2 | g g g g b2 g2 | f6 z2 |
-g g g g b2 g2 | f6 z2 | c2 b d c2 f2 | b6 z2 |
-c2 b d c2 f2 | b6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yamabiko.tmd)
-- [鋼琴伴奏 TMD 檔案](yamabiko_piano.tmd)
+![P040.jpg](P040.jpg)
+
+![P041.jpg](P041.jpg)
+
+

@@ -33,9 +33,34 @@
 保（たも）て日本男兒（にっぽんだんじ）。」（復唱）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P055.jpg](P055.jpg)
+```abc
+X:1
+T:日本男兒
+C:曲：K. H. Neithardt（ナイハルト）
+M:4/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! d3 d e2 d2 g3 a b2 c2 | d4 b2 g2 z2 d2 c3 a | g4 f2 g2 a3 b c2 a2 | b8 b4 z4 |
+e3 ^d e2 f2 g3 a b2 c2 | a4 f2 d2 z2 a2 ^g3 a | b4 a2 g2 f3 e f2 d2 | d8 d4 z4 |
+!mp! a4 a4 c3 b a4 | b6 c2 d4 z2 g2 | f4 g4 a6 b2 | g8 d4 z4 |
+!f! b3 a g2 f2 e3 f g2 a2 | b4 a4 z2 g2 a2 b2 | !ff! c3 b a2 g2 d4 d4 | g12 z4 |
+!f! b3 a g2 f2 e3 f g2 a2 | b4 a4 z2 g2 a2 b2 | !ff! c3 b a2 g2 d4 d4 | g12 z4 |
+!mf! d3 d e2 d2 g3 a b2 c2 | d4 b2 g2 z2 d2 c3 a | g4 f2 g2 a3 b c2 a2 | b8 b4 z4 |
+e3 ^d e2 f2 g3 a b2 c2 | a4 f2 d2 z2 a2 ^g3 a | b4 a2 g2 f3 e f2 d2 | d8 d4 z4 |
+!mp! a4 a4 c3 b a4 | b6 c2 d4 z2 g2 | f4 g4 a6 b2 | g8 d4 z4 |
+!f! b3 a g2 f2 e3 f g2 a2 | b4 a4 z2 g2 a2 b2 | !ff! c3 b a2 g2 d4 d4 | g12 z4 |
+!f! b3 a g2 f2 e3 f g2 a2 | b4 a4 z2 g2 a2 b2 | !ff! c3 b a2 g2 d4 d4 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nihon_danji.tmd)
+- [鋼琴伴奏 TMD 檔案](nihon_danji_piano.tmd)
 
 ## 分析
 
@@ -96,29 +121,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:日本男兒
-C:曲：K. H. Neithardt（ナイハルト）
-M:4/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! d3 d e2 d2 g3 a b2 c2 | d4 b2 g2 z2 d2 c3 a | g4 f2 g2 a3 b c2 a2 | b8 b4 z4 |
-e3 ^d e2 f2 g3 a b2 c2 | a4 f2 d2 z2 a2 ^g3 a | b4 a2 g2 f3 e f2 d2 | d8 d4 z4 |
-!mp! a4 a4 c3 b a4 | b6 c2 d4 z2 g2 | f4 g4 a6 b2 | g8 d4 z4 |
-!f! b3 a g2 f2 e3 f g2 a2 | b4 a4 z2 g2 a2 b2 | !ff! c3 b a2 g2 d4 d4 | g12 z4 |
-!f! b3 a g2 f2 e3 f g2 a2 | b4 a4 z2 g2 a2 b2 | !ff! c3 b a2 g2 d4 d4 | g12 z4 |
-!mf! d3 d e2 d2 g3 a b2 c2 | d4 b2 g2 z2 d2 c3 a | g4 f2 g2 a3 b c2 a2 | b8 b4 z4 |
-e3 ^d e2 f2 g3 a b2 c2 | a4 f2 d2 z2 a2 ^g3 a | b4 a2 g2 f3 e f2 d2 | d8 d4 z4 |
-!mp! a4 a4 c3 b a4 | b6 c2 d4 z2 g2 | f4 g4 a6 b2 | g8 d4 z4 |
-!f! b3 a g2 f2 e3 f g2 a2 | b4 a4 z2 g2 a2 b2 | !ff! c3 b a2 g2 d4 d4 | g12 z4 |
-!f! b3 a g2 f2 e3 f g2 a2 | b4 a4 z2 g2 a2 b2 | !ff! c3 b a2 g2 d4 d4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nihon_danji.tmd)
-- [鋼琴伴奏 TMD 檔案](nihon_danji_piano.tmd)
+![P055.jpg](P055.jpg)
+
+

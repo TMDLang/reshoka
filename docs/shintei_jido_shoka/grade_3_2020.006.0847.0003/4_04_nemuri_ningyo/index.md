@@ -47,11 +47,28 @@
 寝かして　その夢　見せませう
 ```
 
-## 原書掃描頁
+## ABC
 
-![P062.jpg](P062.jpg)
+```abc
+X:1
+T:ねむり人形
+C:曲：本居長世
+M:4/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 d c2 d2 c4 a4 | c3 d c4 f2 g4 z2 | c3 d c2 d2 c4 a4 | c3 d c4 f2 g4 z2 |
+a3 b a2 f2 g2 a3 g e2 | f2 g2 f2 d2 c4 z4 | a3 b a2 f2 g2 a3 g e2 | f2 g2 f2 d2 c4 z4 |
+a6 b2 c4 c4 | d8 c4 c4 | a12 c4 | a4 f4 g4 z4 |
+a6 b2 c4 c4 | d6 d2 c4 c4 | a4 c4 a4 g4 | f12 z4 |
+```
 
-![P063.jpg](P063.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nemuri_ningyo.tmd)
+- [鋼琴伴奏 TMD 檔案](nemuri_ningyo_piano.tmd)
 
 ## 分析
 
@@ -107,23 +124,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ねむり人形
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 d c2 d2 c4 a4 | c3 d c4 f2 g4 z2 | c3 d c2 d2 c4 a4 | c3 d c4 f2 g4 z2 |
-a3 b a2 f2 g2 a3 g e2 | f2 g2 f2 d2 c4 z4 | a3 b a2 f2 g2 a3 g e2 | f2 g2 f2 d2 c4 z4 |
-a6 b2 c4 c4 | d8 c4 c4 | a12 c4 | a4 f4 g4 z4 |
-a6 b2 c4 c4 | d6 d2 c4 c4 | a4 c4 a4 g4 | f12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nemuri_ningyo.tmd)
-- [鋼琴伴奏 TMD 檔案](nemuri_ningyo_piano.tmd)
+![P062.jpg](P062.jpg)
+
+![P063.jpg](P063.jpg)
+
+

@@ -28,9 +28,30 @@
 これぞ日本男兒
 ```
 
-## 原書掃描頁
+## ABC
 
-![P077.jpg](P077.jpg)
+```abc
+X:1
+T:日本男兒
+C:曲：小山作之助／詞：東宮鐵眞呂
+M:4/4
+L:1/16
+Q:1/4=104
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! c4 c3 d f4 g4 | a4 c3 d c8 | d3 c a3 c g4 f3 g | a4 g4 c8 |
+c4 c3 d f4 g4 | a4 c3 d c8 | d3 c a3 c g4 f3 g | g4 a4 f8 |
+c4 a4 g a g f4 | d4 f3 g f4 c4 | d4 f3 f g4 c3 a | g4 c4 c8 |
+d4 d3 d c4 a4 | g4 a3 g f8 | d4 d3 d c4 f3 g | a4 g4 f8 |
+!f! d3 d a3 c d3 c a4 | c4 d4 c8 | a3 g f4 g3 a c3 a | g4 a4 c8 |
+d3 d a3 c d3 c a4 | c4 d4 c8 | a3 g f4 g3 a c3 a | g4 a4 f8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nihon_danji.tmd)
+- [鋼琴伴奏 TMD 檔案](nihon_danji_piano.tmd)
 
 ## 分析
 
@@ -86,25 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:日本男兒
-C:曲：小山作之助／詞：東宮鐵眞呂
-M:4/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c4 c3 d f4 g4 | a4 c3 d c8 | d3 c a3 c g4 f3 g | a4 g4 c8 |
-c4 c3 d f4 g4 | a4 c3 d c8 | d3 c a3 c g4 f3 g | g4 a4 f8 |
-c4 a4 g a g f4 | d4 f3 g f4 c4 | d4 f3 f g4 c3 a | g4 c4 c8 |
-d4 d3 d c4 a4 | g4 a3 g f8 | d4 d3 d c4 f3 g | a4 g4 f8 |
-!f! d3 d a3 c d3 c a4 | c4 d4 c8 | a3 g f4 g3 a c3 a | g4 a4 c8 |
-d3 d a3 c d3 c a4 | c4 d4 c8 | a3 g f4 g3 a c3 a | g4 a4 f8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nihon_danji.tmd)
-- [鋼琴伴奏 TMD 檔案](nihon_danji_piano.tmd)
+![P077.jpg](P077.jpg)
+
+

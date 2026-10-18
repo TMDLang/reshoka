@@ -39,11 +39,33 @@ https://collections.culture.tw/ShowGalImage?SYSUID=11&IMG=KX52KKMMMC0AMAKW5H0IME
 かんしやばたけが、右左。
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:だいしゃ（台車）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 c4 | f2 f2 f2 z2 | a3 a a3 f | g2 g2 g2 z2 |
+c4 d2 d2 | a2 a2 g2 f2 | g2 g2 c2 c2 | f2 f2 f2 z2 |
+c4 f2 f2 | d3 d c2 c2 | d3 d c3 c | f6 z2 |
+c4 c4 | f2 f2 f2 z2 | a3 a a3 f | g2 g2 g2 z2 |
+c4 d2 d2 | a2 a2 g2 f2 | g2 g2 c2 c2 | f2 f2 f2 z2 |
+c4 f2 f2 | d3 d c2 c2 | d3 d c3 c | f6 z2 |
+c4 c4 | f2 f2 f2 z2 | a3 a a3 f | g2 g2 g2 z2 |
+c4 d2 d2 | a2 a2 g2 f2 | g2 g2 c2 c2 | f2 f2 f2 z2 |
+c4 f2 f2 | d3 d c2 c2 | d3 d c3 c | f6 z2 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](daisha.tmd)
+- [鋼琴伴奏 TMD 檔案](daisha_piano.tmd)
 
 ## 分析
 
@@ -101,28 +123,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:だいしゃ（台車）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 c4 | f2 f2 f2 z2 | a3 a a3 f | g2 g2 g2 z2 |
-c4 d2 d2 | a2 a2 g2 f2 | g2 g2 c2 c2 | f2 f2 f2 z2 |
-c4 f2 f2 | d3 d c2 c2 | d3 d c3 c | f6 z2 |
-c4 c4 | f2 f2 f2 z2 | a3 a a3 f | g2 g2 g2 z2 |
-c4 d2 d2 | a2 a2 g2 f2 | g2 g2 c2 c2 | f2 f2 f2 z2 |
-c4 f2 f2 | d3 d c2 c2 | d3 d c3 c | f6 z2 |
-c4 c4 | f2 f2 f2 z2 | a3 a a3 f | g2 g2 g2 z2 |
-c4 d2 d2 | a2 a2 g2 f2 | g2 g2 c2 c2 | f2 f2 f2 z2 |
-c4 f2 f2 | d3 d c2 c2 | d3 d c3 c | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](daisha.tmd)
-- [鋼琴伴奏 TMD 檔案](daisha_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+

@@ -25,9 +25,28 @@
 仰（あふ）ぎ見（み）るこそ　尊（たふと）けれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P009.jpg](P009.jpg)
+```abc
+X:1
+T:一月一日
+C:曲：上眞行
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 e4 f4 a4 | e6 d2 e4 f4 | a4 b4 a6 f2 | e12 z4 |
+f8 b4 a4 | f6 a2 b4 a4 | f4 e4 f6 e2 | d12 z4 |
+b4 b4 a4 f4 | b4 d4 b4 a4 | b4 a4 f6 e2 | e12 z4 |
+f8 a4 a4 | b6 a2 f4 e4 | a6 b2 a4 f4 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ichigatsu_ichijitsu.tmd)
+- [鋼琴伴奏 TMD 檔案](ichigatsu_ichijitsu_piano.tmd)
 
 ## 分析
 
@@ -83,23 +102,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:一月一日
-C:曲：上眞行
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 e4 f4 a4 | e6 d2 e4 f4 | a4 b4 a6 f2 | e12 z4 |
-f8 b4 a4 | f6 a2 b4 a4 | f4 e4 f6 e2 | d12 z4 |
-b4 b4 a4 f4 | b4 d4 b4 a4 | b4 a4 f6 e2 | e12 z4 |
-f8 a4 a4 | b6 a2 f4 e4 | a6 b2 a4 f4 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ichigatsu_ichijitsu.tmd)
-- [鋼琴伴奏 TMD 檔案](ichigatsu_ichijitsu_piano.tmd)
+![P009.jpg](P009.jpg)
+
+

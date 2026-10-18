@@ -26,9 +26,28 @@
 あさまでかうして　かつちんかつちん
 ```
 
-## 原書掃描頁
+## ABC
 
-![P032.jpg](P032.jpg)
+```abc
+X:1
+T:とけいのうた
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=92
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g2 g2 g2 a2 | b2 b2 a2 g2 | b4 a4 | a4 g4 |
+a2 a2 d2 d2 | b2 a2 g2 g2 | a2 a2 d2 d2 | b2 a2 g2 d2 |
+e2 e2 e2 d2 | e2 e2 e2 d2 | g2 a2 a2 b2 | b2 a2 g4 |
+a2 a2 d2 d2 | b2 b2 a2 g2 | b4 a4 | a4 g4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tokei_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](tokei_no_uta_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:とけいのうた
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g2 g2 g2 a2 | b2 b2 a2 g2 | b4 a4 | a4 g4 |
-a2 a2 d2 d2 | b2 a2 g2 g2 | a2 a2 d2 d2 | b2 a2 g2 d2 |
-e2 e2 e2 d2 | e2 e2 e2 d2 | g2 a2 a2 b2 | b2 a2 g4 |
-a2 a2 d2 d2 | b2 b2 a2 g2 | b4 a4 | a4 g4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tokei_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](tokei_no_uta_piano.tmd)
+![P032.jpg](P032.jpg)
+
+

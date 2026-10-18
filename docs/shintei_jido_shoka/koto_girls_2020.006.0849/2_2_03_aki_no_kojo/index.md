@@ -30,9 +30,30 @@
 白帆きぬ靜に
 ```
 
-## 原書掃描頁
+## ABC
 
-![P092.jpg](P092.jpg)
+```abc
+X:1
+T:秋の湖上
+C:TMD (Chen, Chih-Han / aguai)
+M:3/8
+L:1/16
+Q:1/8=108
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! e2 a2 b2 | c2 d2 z2 | e2 b2 d2 | c4 z2 |
+e2 a2 b2 | c2 d2 z2 | e2 e2 g2 | a4 z2 |
+!mf! b2 b2 b2 | c2 c2 c2 | d2 c2 b2 | a4 z2 |
+g2 a2 b2 | e2 g2 ^a2 | b2 f2 g2 | e4 z2 |
+f2 g2 a2 | e2 c2 b2 | a2 g2 a2 | b4 z2 |
+!mp! e2 a2 b2 | c2 d2 z2 | e2 e2 g2 | a4 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](aki_no_kojo.tmd)
+- [鋼琴伴奏 TMD 檔案](aki_no_kojo_piano.tmd)
 
 ## 分析
 
@@ -88,25 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:秋の湖上
-C:TMD (Chen, Chih-Han / aguai)
-M:3/8
-L:1/16
-Q:1/8=108
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! e2 a2 b2 | c2 d2 z2 | e2 b2 d2 | c4 z2 |
-e2 a2 b2 | c2 d2 z2 | e2 e2 g2 | a4 z2 |
-!mf! b2 b2 b2 | c2 c2 c2 | d2 c2 b2 | a4 z2 |
-g2 a2 b2 | e2 g2 ^a2 | b2 f2 g2 | e4 z2 |
-f2 g2 a2 | e2 c2 b2 | a2 g2 a2 | b4 z2 |
-!mp! e2 a2 b2 | c2 d2 z2 | e2 e2 g2 | a4 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](aki_no_kojo.tmd)
-- [鋼琴伴奏 TMD 檔案](aki_no_kojo_piano.tmd)
+![P092.jpg](P092.jpg)
+
+

@@ -25,11 +25,34 @@
 み空に高く日の御旗　かざして進まんいざ共に
 ```
 
-## 原書掃描頁
+## ABC
 
-![P122.jpg](P122.jpg)
+```abc
+X:1
+T:健兒よ來れ
+C:曲：原田比古士良
+M:3/4
+L:1/16
+Q:1/4=112
+K:F
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+[V:V1]
+!f! f3 c f4 a4 | b3 a g6 z2 | c3 c d4 c4 | a8 z4 |
+f3 c f4 a4 | g3 f e6 z2 | g3 a b4 e4 | f8 z4 |
+d3 d d4 c4 | d3 d d6 z2 | e3 f g4 a4 | c8 z4 |
+f3 c f4 a4 | b3 a g6 z2 | c3 a f4 g4 | f8 z4 |
+[V:V2]
+!mp! c3 c c4 f4 | e3 f e6 z2 | c3 c d4 c4 | c8 c4 |
+c3 c c4 f4 | d3 d c6 z2 | c3 c c4 c4 | f8 f4 |
+f3 f f4 f4 | f3 f f6 z2 | c3 c c4 c4 | f8 f4 |
+d3 d d4 d4 | d3 d e6 z2 | f3 f c4 c4 | f8 z4 |
+```
 
-![P123.jpg](P123.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kenji_yo_kitare.tmd)
+- [鋼琴伴奏 TMD 檔案](kenji_yo_kitare_piano.tmd)
 
 ## 分析
 
@@ -86,29 +109,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:健兒よ來れ
-C:曲：原田比古士良
-M:3/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!f! f3 c f4 a4 | b3 a g6 z2 | c3 c d4 c4 | a8 z4 |
-f3 c f4 a4 | g3 f e6 z2 | g3 a b4 e4 | f8 z4 |
-d3 d d4 c4 | d3 d d6 z2 | e3 f g4 a4 | c8 z4 |
-f3 c f4 a4 | b3 a g6 z2 | c3 a f4 g4 | f8 z4 |
-[V:V2]
-!mp! c3 c c4 f4 | e3 f e6 z2 | c3 c d4 c4 | c8 c4 |
-c3 c c4 f4 | d3 d c6 z2 | c3 c c4 c4 | f8 f4 |
-f3 f f4 f4 | f3 f f6 z2 | c3 c c4 c4 | f8 f4 |
-d3 d d4 d4 | d3 d e6 z2 | f3 f c4 c4 | f8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kenji_yo_kitare.tmd)
-- [鋼琴伴奏 TMD 檔案](kenji_yo_kitare_piano.tmd)
+![P122.jpg](P122.jpg)
+
+![P123.jpg](P123.jpg)
+
+

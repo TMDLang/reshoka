@@ -38,9 +38,32 @@
 君（きみ）が餘香（よかう）を拜（はい）しつゝ。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P051.jpg](P051.jpg)
+```abc
+X:1
+T:去年今夜
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=76
+K:Dm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! d4 f4 e4 ^c4 | g6 a2 f8 | a4 a4 g4 f4 | a12 z4 |
+d4 f4 e4 ^c4 | g6 f2 e8 | b4 a4 g4 ^g4 | a12 z4 |
+!mf! a4 a4 d4 c4 | b6 a2 g8 | g4 g4 c4 b4 | a12 z4 |
+!mp! d4 f4 e4 ^c4 | g6 a2 b8 | a4 d4 f6 e2 | d12 z4 |
+!mp! d4 f4 e4 ^c4 | g6 a2 f8 | a4 a4 g4 f4 | a12 z4 |
+d4 f4 e4 ^c4 | g6 f2 e8 | b4 a4 g4 ^g4 | a12 z4 |
+!mf! a4 a4 d4 c4 | b6 a2 g8 | g4 g4 c4 b4 | a12 z4 |
+!mp! d4 f4 e4 ^c4 | g6 a2 b8 | a4 d4 f6 e2 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kyonen_konya.tmd)
+- [鋼琴伴奏 TMD 檔案](kyonen_konya_piano.tmd)
 
 ## 分析
 
@@ -97,27 +120,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:去年今夜
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=76
-K:Dm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! d4 f4 e4 ^c4 | g6 a2 f8 | a4 a4 g4 f4 | a12 z4 |
-d4 f4 e4 ^c4 | g6 f2 e8 | b4 a4 g4 ^g4 | a12 z4 |
-!mf! a4 a4 d4 c4 | b6 a2 g8 | g4 g4 c4 b4 | a12 z4 |
-!mp! d4 f4 e4 ^c4 | g6 a2 b8 | a4 d4 f6 e2 | d12 z4 |
-!mp! d4 f4 e4 ^c4 | g6 a2 f8 | a4 a4 g4 f4 | a12 z4 |
-d4 f4 e4 ^c4 | g6 f2 e8 | b4 a4 g4 ^g4 | a12 z4 |
-!mf! a4 a4 d4 c4 | b6 a2 g8 | g4 g4 c4 b4 | a12 z4 |
-!mp! d4 f4 e4 ^c4 | g6 a2 b8 | a4 d4 f6 e2 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kyonen_konya.tmd)
-- [鋼琴伴奏 TMD 檔案](kyonen_konya_piano.tmd)
+![P051.jpg](P051.jpg)
+
+

@@ -24,9 +24,28 @@
 『聲（こゑ）のみ、聞（き）こゆる。』
 ```
 
-## 原書掃描頁
+## ABC
 
-![P057.jpg](P057.jpg)
+```abc
+X:1
+T:雲雀
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=84
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 e4 g4 | g6 e2 c4 | a4 c4 a4 | g6 e2 c4 |
+d4 b4 g4 | g8 z4 | g4 a2 g2 f2 e2 | d6 e2 f4 |
+f4 g2 f2 e2 d2 | c6 d2 e4 | a4 b4 c2 a2 | g8 z4 |
+g4 g4 b4 | c8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hibari.tmd)
+- [鋼琴伴奏 TMD 檔案](hibari_piano.tmd)
 
 ## 分析
 
@@ -82,23 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:雲雀
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 e4 g4 | g6 e2 c4 | a4 c4 a4 | g6 e2 c4 |
-d4 b4 g4 | g8 z4 | g4 a2 g2 f2 e2 | d6 e2 f4 |
-f4 g2 f2 e2 d2 | c6 d2 e4 | a4 b4 c2 a2 | g8 z4 |
-g4 g4 b4 | c8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hibari.tmd)
-- [鋼琴伴奏 TMD 檔案](hibari_piano.tmd)
+![P057.jpg](P057.jpg)
+
+

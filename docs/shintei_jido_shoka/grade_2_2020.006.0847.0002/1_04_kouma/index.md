@@ -26,9 +26,28 @@
 ハシレヨ　ハシレヨ　コロバヌヤウニ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P021.jpg](P021.jpg)
+```abc
+X:1
+T:小ウマ
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=112
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a2 z2 d2 z2 | a2 z2 d2 z2 | f2 b2 a2 f2 | e2 a2 a2 z2 |
+a2 d2 c2 b2 | a2 b2 a2 f2 | e2 e2 e2 e2 | d2 e2 f2 z2 |
+e2 e2 e2 e2 | d2 e2 f2 g2 | a2 d2 c2 b2 | a2 b2 a2 z2 |
+a2 d2 c2 b2 | a2 b2 a2 f2 | e2 e2 e2 e2 | f2 e2 d2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kouma.tmd)
+- [鋼琴伴奏 TMD 檔案](kouma_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:小ウマ
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=112
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a2 z2 d2 z2 | a2 z2 d2 z2 | f2 b2 a2 f2 | e2 a2 a2 z2 |
-a2 d2 c2 b2 | a2 b2 a2 f2 | e2 e2 e2 e2 | d2 e2 f2 z2 |
-e2 e2 e2 e2 | d2 e2 f2 g2 | a2 d2 c2 b2 | a2 b2 a2 z2 |
-a2 d2 c2 b2 | a2 b2 a2 f2 | e2 e2 e2 e2 | f2 e2 d2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kouma.tmd)
-- [鋼琴伴奏 TMD 檔案](kouma_piano.tmd)
+![P021.jpg](P021.jpg)
+
+

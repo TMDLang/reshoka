@@ -36,11 +36,33 @@
 樂しの舞
 ```
 
-## 原書掃描頁
+## ABC
 
-![P064.jpg](P064.jpg)
+```abc
+X:1
+T:舞踏
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! z4 z4 z4 z3 d | b3 a g3 a b4 z3 d | b3 a g3 a b4 z3 d | d3 c b3 c d3 e d3 c |
+b3 c b3 a g4 z3 g | b3 a g3 a b4 z3 b | a3 g f3 g a4 z3 a | b3 a g3 a b3 c b3 ^a |
+!p! b3 e e3 f g4 z3 b | b3 b b3 b b4 d3 b | a3 g a3 g d4 z3 f | g3 f g3 a b4 b3 b |
+!f! a3 g a3 g d4 z3 d | b3 a g3 a b4 z3 d | b3 a g3 a b4 z3 b | d7 b g7 a |
+g8 z4 z4 | !f! z4 z4 z4 z3 d | b3 a g3 a b4 z3 d | b3 a g3 a b4 z3 d |
+d3 c b3 c d3 e d3 c | b3 c b3 a g4 z3 g | b3 a g3 a b4 z3 b | a3 g f3 g a4 z3 a |
+b3 a g3 a b3 c b3 ^a | !p! b3 e e3 f g4 z3 b | b3 b b3 b b4 d3 b | a3 g a3 g d4 z3 f |
+g3 f g3 a b4 b3 b | !f! a3 g a3 g d4 z3 d | b3 a g3 a b4 z3 d | b3 a g3 a b4 z3 b |
+d7 b g7 a | g8 z4 z4 |
+```
 
-![P065.jpg](P065.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](buto.tmd)
+- [鋼琴伴奏 TMD 檔案](buto_piano.tmd)
 
 ## 分析
 
@@ -97,28 +119,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:舞踏
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z4 z3 d | b3 a g3 a b4 z3 d | b3 a g3 a b4 z3 d | d3 c b3 c d3 e d3 c |
-b3 c b3 a g4 z3 g | b3 a g3 a b4 z3 b | a3 g f3 g a4 z3 a | b3 a g3 a b3 c b3 ^a |
-!p! b3 e e3 f g4 z3 b | b3 b b3 b b4 d3 b | a3 g a3 g d4 z3 f | g3 f g3 a b4 b3 b |
-!f! a3 g a3 g d4 z3 d | b3 a g3 a b4 z3 d | b3 a g3 a b4 z3 b | d7 b g7 a |
-g8 z4 z4 | !f! z4 z4 z4 z3 d | b3 a g3 a b4 z3 d | b3 a g3 a b4 z3 d |
-d3 c b3 c d3 e d3 c | b3 c b3 a g4 z3 g | b3 a g3 a b4 z3 b | a3 g f3 g a4 z3 a |
-b3 a g3 a b3 c b3 ^a | !p! b3 e e3 f g4 z3 b | b3 b b3 b b4 d3 b | a3 g a3 g d4 z3 f |
-g3 f g3 a b4 b3 b | !f! a3 g a3 g d4 z3 d | b3 a g3 a b4 z3 d | b3 a g3 a b4 z3 b |
-d7 b g7 a | g8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](buto.tmd)
-- [鋼琴伴奏 TMD 檔案](buto_piano.tmd)
+![P064.jpg](P064.jpg)
+
+![P065.jpg](P065.jpg)
+
+

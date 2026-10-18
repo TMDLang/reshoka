@@ -49,11 +49,30 @@
 御旗（みはた）を守（まも）る國民よ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P048.jpg](P048.jpg)
+```abc
+X:1
+T:國旗
+C:曲：幼年唱歌（田村虎藏）
+M:3/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z4 c2 c2 | f6 g2 f2 g2 | a4 c4 d4 | c6 a2 g2 f2 |
+g8 c2 c2 | f6 g2 f2 g2 | a4 c4 d4 | c6 a2 f2 g2 |
+f8 g3 g | g4 z4 a3 a | a4 z4 b2 b2 | a2 g2 f4 c2 c2 |
+c4 z4 d2 d2 | c4 a4 f2 f2 | g8 =b4 | c8 c3 c |
+d4 c4 a3 a | g4 f4 c2 c2 | f4 a4 b2 b2 | a4 z4 c2 c2 |
+d8 c4 | f12- | f4 z4 z4 |
+```
 
-![P049.jpg](P049.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kokki.tmd)
+- [鋼琴伴奏 TMD 檔案](kokki_piano.tmd)
 
 ## 分析
 
@@ -109,25 +128,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:國旗
-C:曲：幼年唱歌（田村虎藏）
-M:3/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 c2 c2 | f6 g2 f2 g2 | a4 c4 d4 | c6 a2 g2 f2 |
-g8 c2 c2 | f6 g2 f2 g2 | a4 c4 d4 | c6 a2 f2 g2 |
-f8 g3 g | g4 z4 a3 a | a4 z4 b2 b2 | a2 g2 f4 c2 c2 |
-c4 z4 d2 d2 | c4 a4 f2 f2 | g8 =b4 | c8 c3 c |
-d4 c4 a3 a | g4 f4 c2 c2 | f4 a4 b2 b2 | a4 z4 c2 c2 |
-d8 c4 | f12- | f4 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kokki.tmd)
-- [鋼琴伴奏 TMD 檔案](kokki_piano.tmd)
+![P048.jpg](P048.jpg)
+
+![P049.jpg](P049.jpg)
+
+

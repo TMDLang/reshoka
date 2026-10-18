@@ -28,9 +28,26 @@
 鳩のかしこさよ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P048.jpg](P048.jpg)
+```abc
+X:1
+T:傳書鳩
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 e d3 e d2 B2 A2 G2 | e3 f g2 e2 d4 z4 | d2 g2 g3 a b3 b a2 g2 | a3 b a2 e2 d4 z4 |
+a3 b a3 e g2 f2 e2 d2 | b3 a g2 e2 d4 z4 | d3 b g4 a2 b2 a2 f2 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](denshobato.tmd)
+- [鋼琴伴奏 TMD 檔案](denshobato_piano.tmd)
 
 ## 分析
 
@@ -86,21 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:傳書鳩
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 e d3 e d2 B2 A2 G2 | e3 f g2 e2 d4 z4 | d2 g2 g3 a b3 b a2 g2 | a3 b a2 e2 d4 z4 |
-a3 b a3 e g2 f2 e2 d2 | b3 a g2 e2 d4 z4 | d3 b g4 a2 b2 a2 f2 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](denshobato.tmd)
-- [鋼琴伴奏 TMD 檔案](denshobato_piano.tmd)
+![P048.jpg](P048.jpg)
+
+

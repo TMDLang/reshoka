@@ -30,11 +30,50 @@
 ながめを何にたとふべき
 ```
 
-## 原書掃描頁
+## ABC
 
-![P114.jpg](P114.jpg)
+```abc
+X:1
+T:花
+C:曲：瀧廉太郎
+M:2/4
+L:1/16
+Q:1/4=92
+K:A
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+[V:V1]
+!mf! e3 e c2 z e | a g f e e4 | c e a c b3 g | a4 a2 z2 |
+e3 e c2 z e | a c b f g4 | c a f d c a f d | e4 e2 z2 |
+!f! b3 b c2 z a | b3 b c2 z a | c4 b3 a | e4 e2 z2 |
+!mf! e3 e a3 b | c a f d e4 | f2 a f e2 b2 | a4 a2 z2 |
+!p! e3 e e2 z e | a g f e e4 | c e f a g3 e | f4 f2 z2 |
+c3 c d2 z d | f e d c c4 | f2 f f f3 f | ^e4 e2 z2 |
+!f! f3 f z ^e z e | f2 f f z ^e z e | f4 f2 a2 | c4 c2 z2 |
+!mf! c3 c f3 g | a f c d c4 | d2 d f e2 e2 | e4 e2 z2 |
+!f! e3 e c2 z e | a g f e e4 | c e a c b3 g | a4 a2 z2 |
+!mf! e3 e c2 z e | a c b f g4 | !p! c a f d c a f d | e4 e2 z2 |
+!f! b3 b c2 z a | b3 b c2 z a | c4 b3 a | e4 e2 z2 |
+!mf! e3 e a3 b | !f! c e f d b2 z2 | c a b g a2 b2 | a4 a2 z2 |
+[V:V2]
+!mf! c3 c A2 z c | c e d c c4 | A c c e e3 e | c4 c2 z2 |
+c3 c A2 z c | c e f d e4 | c2 f f e c ^d B | G4 G2 z2 |
+!f! e3 e e2 z e | e3 e e2 z e | A4 F2 ^B2 | G4 G2 z2 |
+!mf! c3 c c3 e | a c d B c4 | d2 d d c2 e2 | c4 c2 z2 |
+!p! e3 e e2 z e | a g f e e4 | c e f a g3 e | f4 f2 z2 |
+c3 c d2 z d | f e d c c4 | f2 f f f3 f | ^e4 e2 z2 |
+!f! f3 f z ^e z e | f2 f f z ^e z e | f4 f2 a2 | c4 c2 z2 |
+!mf! c3 c f3 g | a f c d c4 | d2 d f e2 e2 | e4 e2 z2 |
+!f! c3 c A2 z c | c e d c c4 | A c c e e3 e | c4 c2 z2 |
+!mf! c3 c A2 z c | c e f d e4 | !p! c2 f f e c ^d B | G4 G2 z2 |
+!f! e3 e e2 z e | e3 e e2 z e | A4 F2 ^B2 | G4 G2 z2 |
+!mf! c3 c c3 e | !f! a3 f d2 z2 | e c e e c f e d | c4 c2 z2 |
+```
 
-![P115.jpg](P115.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hana.tmd)
+- [鋼琴伴奏 TMD 檔案](hana_piano.tmd)
 
 ## 分析
 
@@ -91,45 +130,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:花
-C:曲：瀧廉太郎
-M:2/4
-L:1/16
-Q:1/4=92
-K:A
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! e3 e c2 z e | a g f e e4 | c e a c b3 g | a4 a2 z2 |
-e3 e c2 z e | a c b f g4 | c a f d c a f d | e4 e2 z2 |
-!f! b3 b c2 z a | b3 b c2 z a | c4 b3 a | e4 e2 z2 |
-!mf! e3 e a3 b | c a f d e4 | f2 a f e2 b2 | a4 a2 z2 |
-!p! e3 e e2 z e | a g f e e4 | c e f a g3 e | f4 f2 z2 |
-c3 c d2 z d | f e d c c4 | f2 f f f3 f | ^e4 e2 z2 |
-!f! f3 f z ^e z e | f2 f f z ^e z e | f4 f2 a2 | c4 c2 z2 |
-!mf! c3 c f3 g | a f c d c4 | d2 d f e2 e2 | e4 e2 z2 |
-!f! e3 e c2 z e | a g f e e4 | c e a c b3 g | a4 a2 z2 |
-!mf! e3 e c2 z e | a c b f g4 | !p! c a f d c a f d | e4 e2 z2 |
-!f! b3 b c2 z a | b3 b c2 z a | c4 b3 a | e4 e2 z2 |
-!mf! e3 e a3 b | !f! c e f d b2 z2 | c a b g a2 b2 | a4 a2 z2 |
-[V:V2]
-!mf! c3 c A2 z c | c e d c c4 | A c c e e3 e | c4 c2 z2 |
-c3 c A2 z c | c e f d e4 | c2 f f e c ^d B | G4 G2 z2 |
-!f! e3 e e2 z e | e3 e e2 z e | A4 F2 ^B2 | G4 G2 z2 |
-!mf! c3 c c3 e | a c d B c4 | d2 d d c2 e2 | c4 c2 z2 |
-!p! e3 e e2 z e | a g f e e4 | c e f a g3 e | f4 f2 z2 |
-c3 c d2 z d | f e d c c4 | f2 f f f3 f | ^e4 e2 z2 |
-!f! f3 f z ^e z e | f2 f f z ^e z e | f4 f2 a2 | c4 c2 z2 |
-!mf! c3 c f3 g | a f c d c4 | d2 d f e2 e2 | e4 e2 z2 |
-!f! c3 c A2 z c | c e d c c4 | A c c e e3 e | c4 c2 z2 |
-!mf! c3 c A2 z c | c e f d e4 | !p! c2 f f e c ^d B | G4 G2 z2 |
-!f! e3 e e2 z e | e3 e e2 z e | A4 F2 ^B2 | G4 G2 z2 |
-!mf! c3 c c3 e | !f! a3 f d2 z2 | e c e e c f e d | c4 c2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hana.tmd)
-- [鋼琴伴奏 TMD 檔案](hana_piano.tmd)
+![P114.jpg](P114.jpg)
+
+![P115.jpg](P115.jpg)
+
+

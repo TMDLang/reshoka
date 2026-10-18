@@ -33,9 +33,37 @@
 くすしきまがうた謠（うた）ふローレライ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P045.jpg](P045.jpg)
+```abc
+X:1
+T:ローレライ
+C:曲：Friedrich Silcher（大正女學唱歌）
+M:6/8
+L:1/16
+Q:3/8=40
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 | G4 G2 A2 G2 A2 |
+d10 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 | G4 c2 d3 e d2 |
+c10 c2 | d4 d2 B3 B d2 | g4 f2 e4 e2 | B4 B2 d3 c A2 |
+G10 G2 | e3 f e2 g3 f e2 | a4 a2 g4 e2 | g4 f2 d3 e d2 |
+c10 z2 | !mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 |
+G4 G2 A2 G2 A2 | d10 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 |
+G4 c2 d3 e d2 | c10 c2 | d4 d2 B3 B d2 | g4 f2 e4 e2 |
+B4 B2 d3 c A2 | G10 G2 | e3 f e2 g3 f e2 | a4 a2 g4 e2 |
+g4 f2 d3 e d2 | c10 z2 | !mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 |
+d4 c2 A4 A2 | G4 G2 A2 G2 A2 | d10 G2 | e3 f e2 g3 f e2 |
+d4 c2 A4 A2 | G4 c2 d3 e d2 | c10 c2 | d4 d2 B3 B d2 |
+g4 f2 e4 e2 | B4 B2 d3 c A2 | G10 G2 | e3 f e2 g3 f e2 |
+a4 a2 g4 e2 | g4 f2 d3 e d2 | c10 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](rorerai.tmd)
+- [鋼琴伴奏 TMD 檔案](rorerai_piano.tmd)
 
 ## 分析
 
@@ -93,32 +121,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ローレライ
-C:曲：Friedrich Silcher（大正女學唱歌）
-M:6/8
-L:1/16
-Q:3/8=40
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 | G4 G2 A2 G2 A2 |
-d10 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 | G4 c2 d3 e d2 |
-c10 c2 | d4 d2 B3 B d2 | g4 f2 e4 e2 | B4 B2 d3 c A2 |
-G10 G2 | e3 f e2 g3 f e2 | a4 a2 g4 e2 | g4 f2 d3 e d2 |
-c10 z2 | !mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 |
-G4 G2 A2 G2 A2 | d10 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 |
-G4 c2 d3 e d2 | c10 c2 | d4 d2 B3 B d2 | g4 f2 e4 e2 |
-B4 B2 d3 c A2 | G10 G2 | e3 f e2 g3 f e2 | a4 a2 g4 e2 |
-g4 f2 d3 e d2 | c10 z2 | !mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 |
-d4 c2 A4 A2 | G4 G2 A2 G2 A2 | d10 G2 | e3 f e2 g3 f e2 |
-d4 c2 A4 A2 | G4 c2 d3 e d2 | c10 c2 | d4 d2 B3 B d2 |
-g4 f2 e4 e2 | B4 B2 d3 c A2 | G10 G2 | e3 f e2 g3 f e2 |
-a4 a2 g4 e2 | g4 f2 d3 e d2 | c10 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](rorerai.tmd)
-- [鋼琴伴奏 TMD 檔案](rorerai_piano.tmd)
+![P045.jpg](P045.jpg)
+
+

@@ -26,9 +26,32 @@
 昔のまゝに　水は流るゝ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P040.jpg](P040.jpg)
+```abc
+X:1
+T:水は流るゝ
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! e3 e d3 d c4 | A3 A G4 z4 | c3 d e4 e4 | d2 g2 d4 z4 |
+e3 e d3 d c4 | A3 A G4 z4 | c3 d e4 d4 | c2 A2 c4 z4 |
+d3 d e3 e g4 | a3 a g4 e4 | d3 d e3 g g4 | a3 a g4 g4 |
+a3 a g4 a2 g2 | e4 d4 c3 z | d3 d c4 A2 c2 | d4 e4 c3 z |
+!mf! e3 e d3 d c4 | A3 A G4 z4 | c3 d e4 e4 | d2 g2 d4 z4 |
+e3 e d3 d c4 | A3 A G4 z4 | c3 d e4 d4 | c2 A2 c4 z4 |
+d3 d e3 e g4 | a3 a g4 e4 | d3 d e3 g g4 | a3 a g4 g4 |
+a3 a g4 a2 g2 | e4 d4 c3 z | d3 d c4 A2 c2 | d4 e4 c3 z |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mizu_wa_nagaruru.tmd)
+- [鋼琴伴奏 TMD 檔案](mizu_wa_nagaruru_piano.tmd)
 
 ## 分析
 
@@ -85,27 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:水は流るゝ
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! e3 e d3 d c4 | A3 A G4 z4 | c3 d e4 e4 | d2 g2 d4 z4 |
-e3 e d3 d c4 | A3 A G4 z4 | c3 d e4 d4 | c2 A2 c4 z4 |
-d3 d e3 e g4 | a3 a g4 e4 | d3 d e3 g g4 | a3 a g4 g4 |
-a3 a g4 a2 g2 | e4 d4 c3 z | d3 d c4 A2 c2 | d4 e4 c3 z |
-!mf! e3 e d3 d c4 | A3 A G4 z4 | c3 d e4 e4 | d2 g2 d4 z4 |
-e3 e d3 d c4 | A3 A G4 z4 | c3 d e4 d4 | c2 A2 c4 z4 |
-d3 d e3 e g4 | a3 a g4 e4 | d3 d e3 g g4 | a3 a g4 g4 |
-a3 a g4 a2 g2 | e4 d4 c3 z | d3 d c4 A2 c2 | d4 e4 c3 z |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](mizu_wa_nagaruru.tmd)
-- [鋼琴伴奏 TMD 檔案](mizu_wa_nagaruru_piano.tmd)
+![P040.jpg](P040.jpg)
+
+

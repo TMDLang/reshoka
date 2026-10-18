@@ -26,9 +26,29 @@
 げにこそ見ゆれ　げにこそ見ゆれ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P091.jpg](P091.jpg)
+```abc
+X:1
+T:進軍
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=168
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! z4 z4 z4 d3 g | b4 b4 b4 b4 | d12 b3 g | f4 g4 a4 b4 |
+a8 f2 g2 a3 d | g4 g4 g4 g4 | b8 g4 d3 b | e4 e4 e4 e2 f2 |
+g8 e4 a3 a | a4 a4 a4 b2 ^c2 | d8 a4 d3 c | b4 a4 ^g4 a4 |
+f4 ^g4 a4 d3 =g | b4 b4 b4 b4 | b8 g4 e3 c | b4 e2 g2 b2 a2 a3 f |
+g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shingun.tmd)
+- [鋼琴伴奏 TMD 檔案](shingun_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:進軍
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=168
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z4 d3 g | b4 b4 b4 b4 | d12 b3 g | f4 g4 a4 b4 |
-a8 f2 g2 a3 d | g4 g4 g4 g4 | b8 g4 d3 b | e4 e4 e4 e2 f2 |
-g8 e4 a3 a | a4 a4 a4 b2 ^c2 | d8 a4 d3 c | b4 a4 ^g4 a4 |
-f4 ^g4 a4 d3 =g | b4 b4 b4 b4 | b8 g4 e3 c | b4 e2 g2 b2 a2 a3 f |
-g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shingun.tmd)
-- [鋼琴伴奏 TMD 檔案](shingun_piano.tmd)
+![P091.jpg](P091.jpg)
+
+

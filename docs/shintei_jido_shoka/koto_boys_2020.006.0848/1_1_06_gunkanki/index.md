@@ -34,9 +34,28 @@
 あゝ勇（いさ）ましやな。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P041.jpg](P041.jpg)
+```abc
+X:1
+T:軍艦旗
+C:曲：Henry Clay Work（ウオーク）
+M:4/4
+L:1/16
+Q:1/4=104
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | d3 e f2 g2 a2 a2 g2 a2 | b3 c b2 a2 d8 |
+!mf! b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | a3 b c4 b3 g a4 | g8 g4 z4 |
+g4 b4 d4 d3 b | c2 e2 d2 c2 b8 | g4 b4 d4 d3 b | a2 b2 c2 b2 a8 |
+!mf! b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | a3 b c4 b3 g a4 | g8 g4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gunkanki.tmd)
+- [鋼琴伴奏 TMD 檔案](gunkanki_piano.tmd)
 
 ## 分析
 
@@ -92,23 +111,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:軍艦旗
-C:曲：Henry Clay Work（ウオーク）
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | d3 e f2 g2 a2 a2 g2 a2 | b3 c b2 a2 d8 |
-!mf! b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | a3 b c4 b3 g a4 | g8 g4 z4 |
-g4 b4 d4 d3 b | c2 e2 d2 c2 b8 | g4 b4 d4 d3 b | a2 b2 c2 b2 a8 |
-!mf! b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | a3 b c4 b3 g a4 | g8 g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gunkanki.tmd)
-- [鋼琴伴奏 TMD 檔案](gunkanki_piano.tmd)
+![P041.jpg](P041.jpg)
+
+

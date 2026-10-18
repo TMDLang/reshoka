@@ -28,11 +28,32 @@
 萬（バン）　萬（バン）　歲（ザイ）。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P068.jpg](P068.jpg)
+```abc
+X:1
+T:祝歌
+C:曲：V. Bellini（ベリニー）
+M:4/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! z4 z4 z4 G3 G | G4 G3 G A3 B c3 d | e12 e3 e | d3 c B3 A G3 F E3 D |
+!mf! G8 G2 G2 E3 F | G4 G4 A3 B c3 d | e6 d2 c4 c3 c | d3 d e3 d c3 B A3 B |
+c8 z4 E3 F | G4 G4 A3 B c3 d | e8 G2 z2 G3 G | F3 E F3 G A3 B c3 d |
+e8 d2 z2 E3 F | G4 G4 A3 B c3 d | e8 G2 z2 G3 G | F3 E F3 G A3 B c3 d |
+!f! c8 z4 c3 c | c8 z4 c3 c | c8 z4 c3 c | d4 d4 d4 d4 |
+B8 z4 G3 G | c8 z4 G3 G | e8 z4 e3 e | f4 e4 d4 c4 |
+B4 z4 G4 z4 | c4 z4 G4 z4 | e4 z4 c4 z4 | !ff! g8 G8 |
+c8 z4 z4 |
+```
 
-![P069.jpg](P069.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shukuka.tmd)
+- [鋼琴伴奏 TMD 檔案](shukuka_piano.tmd)
 
 ## 分析
 
@@ -88,27 +109,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:祝歌
-C:曲：V. Bellini（ベリニー）
-M:4/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z4 G3 G | G4 G3 G A3 B c3 d | e12 e3 e | d3 c B3 A G3 F E3 D |
-!mf! G8 G2 G2 E3 F | G4 G4 A3 B c3 d | e6 d2 c4 c3 c | d3 d e3 d c3 B A3 B |
-c8 z4 E3 F | G4 G4 A3 B c3 d | e8 G2 z2 G3 G | F3 E F3 G A3 B c3 d |
-e8 d2 z2 E3 F | G4 G4 A3 B c3 d | e8 G2 z2 G3 G | F3 E F3 G A3 B c3 d |
-!f! c8 z4 c3 c | c8 z4 c3 c | c8 z4 c3 c | d4 d4 d4 d4 |
-B8 z4 G3 G | c8 z4 G3 G | e8 z4 e3 e | f4 e4 d4 c4 |
-B4 z4 G4 z4 | c4 z4 G4 z4 | e4 z4 c4 z4 | !ff! g8 G8 |
-c8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shukuka.tmd)
-- [鋼琴伴奏 TMD 檔案](shukuka_piano.tmd)
+![P068.jpg](P068.jpg)
+
+![P069.jpg](P069.jpg)
+
+

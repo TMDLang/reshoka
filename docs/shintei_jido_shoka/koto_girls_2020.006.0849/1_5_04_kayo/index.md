@@ -27,9 +27,42 @@
 我等もいざや、歌（うた）へよいざ。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P076.jpg](P076.jpg)
+```abc
+X:1
+T:歌謠
+C:曲：佛國民歌
+M:2/4
+L:1/16
+Q:1/4=92
+K:F
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+[V:V1]
+!f! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 a2 g4 |
+!mf! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 e2 f2 z2 |
+f2 g2 a2 f2 | g2 e2 f2 f2 | g2 a2 b2 g2 | a2 b2 c4 |
+c2 a2 f2 f2 | g2 a2 g2 g2 | f2 d2 c2 b2 | a2 g2 f4 |
+!f! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 a2 g4 |
+!mf! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 e2 f2 z2 |
+f2 g2 a2 f2 | g2 e2 f2 f2 | g2 a2 b2 g2 | a2 b2 c4 |
+c2 a2 f2 f2 | g2 a2 g2 g2 | f2 d2 c2 b2 | a2 g2 f4 |
+[V:V2]
+!f! a2 f2 f2 f2 | e f g e f4 | e2 e2 f2 f2 | e2 f2 e4 |
+!mf! a2 f2 f2 f2 | e f g e f4 | c2 c2 d2 d2 | c2 c2 F2 z2 |
+d2 c2 d2 d2 | c2 c2 d2 d2 | e2 f2 g2 e2 | f2 g2 a4 |
+a2 f2 f2 f2 | e2 f2 e2 e2 | d2 g2 f2 d2 | f2 e2 f4 |
+!f! a2 f2 f2 f2 | e f g e f4 | e2 e2 f2 f2 | e2 f2 e4 |
+!mf! a2 f2 f2 f2 | e f g e f4 | c2 c2 d2 d2 | c2 c2 F2 z2 |
+d2 c2 d2 d2 | c2 c2 d2 d2 | e2 f2 g2 e2 | f2 g2 a4 |
+a2 f2 f2 f2 | e2 f2 e2 e2 | d2 g2 f2 d2 | f2 e2 f4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kayo.tmd)
+- [鋼琴伴奏 TMD 檔案](kayo_piano.tmd)
 
 ## 分析
 
@@ -87,37 +120,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:歌謠
-C:曲：佛國民歌
-M:2/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!f! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 a2 g4 |
-!mf! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 e2 f2 z2 |
-f2 g2 a2 f2 | g2 e2 f2 f2 | g2 a2 b2 g2 | a2 b2 c4 |
-c2 a2 f2 f2 | g2 a2 g2 g2 | f2 d2 c2 b2 | a2 g2 f4 |
-!f! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 a2 g4 |
-!mf! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 e2 f2 z2 |
-f2 g2 a2 f2 | g2 e2 f2 f2 | g2 a2 b2 g2 | a2 b2 c4 |
-c2 a2 f2 f2 | g2 a2 g2 g2 | f2 d2 c2 b2 | a2 g2 f4 |
-[V:V2]
-!f! a2 f2 f2 f2 | e f g e f4 | e2 e2 f2 f2 | e2 f2 e4 |
-!mf! a2 f2 f2 f2 | e f g e f4 | c2 c2 d2 d2 | c2 c2 F2 z2 |
-d2 c2 d2 d2 | c2 c2 d2 d2 | e2 f2 g2 e2 | f2 g2 a4 |
-a2 f2 f2 f2 | e2 f2 e2 e2 | d2 g2 f2 d2 | f2 e2 f4 |
-!f! a2 f2 f2 f2 | e f g e f4 | e2 e2 f2 f2 | e2 f2 e4 |
-!mf! a2 f2 f2 f2 | e f g e f4 | c2 c2 d2 d2 | c2 c2 F2 z2 |
-d2 c2 d2 d2 | c2 c2 d2 d2 | e2 f2 g2 e2 | f2 g2 a4 |
-a2 f2 f2 f2 | e2 f2 e2 e2 | d2 g2 f2 d2 | f2 e2 f4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kayo.tmd)
-- [鋼琴伴奏 TMD 檔案](kayo_piano.tmd)
+![P076.jpg](P076.jpg)
+
+

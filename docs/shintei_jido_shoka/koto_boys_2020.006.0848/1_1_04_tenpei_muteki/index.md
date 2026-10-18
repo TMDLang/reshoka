@@ -31,9 +31,28 @@
 いざ兜（かぶと）を脫（ぬ）いで來（こ）よ　未練（みれん）の惡魔（あくま）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P039.jpg](P039.jpg)
+```abc
+X:1
+T:天兵無敵
+C:曲：北村季晴（編）
+M:4/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 d2 e2 f2 g4 e4 | f2 g2 a2 f2 g4 z4 | a2 a2 g2 g2 f2 f2 e2 e2 | d2 e2 f2 e2 d4 z4 |
+g8 c8 | b8 g4 z4 | a2 a2 g2 g2 ^f2 f2 g2 a2 | d8 g4 z4 |
+g2 g2 g2 g2 g2 f2 e2 f2 | g2 a2 g2 f2 e4 z4 | d2 d2 e2 f2 g4 g4 | a2 b2 c2 a2 g4 z4 |
+c4 g4 e2 f2 g2 e2 | f2 g2 a2 b2 c4 z4 | d2 d2 c2 a2 g4 b4 | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tenpei_muteki.tmd)
+- [鋼琴伴奏 TMD 檔案](tenpei_muteki_piano.tmd)
 
 ## 分析
 
@@ -89,23 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:天兵無敵
-C:曲：北村季晴（編）
-M:4/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 d2 e2 f2 g4 e4 | f2 g2 a2 f2 g4 z4 | a2 a2 g2 g2 f2 f2 e2 e2 | d2 e2 f2 e2 d4 z4 |
-g8 c8 | b8 g4 z4 | a2 a2 g2 g2 ^f2 f2 g2 a2 | d8 g4 z4 |
-g2 g2 g2 g2 g2 f2 e2 f2 | g2 a2 g2 f2 e4 z4 | d2 d2 e2 f2 g4 g4 | a2 b2 c2 a2 g4 z4 |
-c4 g4 e2 f2 g2 e2 | f2 g2 a2 b2 c4 z4 | d2 d2 c2 a2 g4 b4 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tenpei_muteki.tmd)
-- [鋼琴伴奏 TMD 檔案](tenpei_muteki_piano.tmd)
+![P039.jpg](P039.jpg)
+
+

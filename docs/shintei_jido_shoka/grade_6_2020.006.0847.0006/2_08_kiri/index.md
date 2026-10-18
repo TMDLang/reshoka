@@ -30,11 +30,29 @@
 しめやかにひそかに夜の霧流る
 ```
 
-## 原書掃描頁
+## ABC
 
-![P046.jpg](P046.jpg)
+```abc
+X:1
+T:霧
+C:曲：山本壽
+M:4/4
+L:1/16
+Q:1/4=76
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 d d6 d2 g3 a | b6 d2 d4 d2 b2 | a3 a b2 a2 g4 z4 | d3 d d6 e2 g2 b2 |
+b8 d4 b4 | a3 b a2 f2 d4 z4 | g3 g g3 g g2 _b2 a4 | g4 d8 g2 a2 |
+_b3 b a2 g2 d4 z4 | d3 d d6 d2 c2 _b2 | a4 d8 d2 _e2 | g3 g a2 _b2 a4 z4 |
+d3 d d6 e2 g2 b2 | a4 d8 b2 g2 | a3 a d2 f2 g4 z4 | d3 d d6 d2 g2 b2 |
+a4 d8 b2 g2 | e3 g a2 b2 g4 z4 |
+```
 
-![P047.jpg](P047.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kiri.tmd)
+- [鋼琴伴奏 TMD 檔案](kiri_piano.tmd)
 
 ## 分析
 
@@ -90,24 +108,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:霧
-C:曲：山本壽
-M:4/4
-L:1/16
-Q:1/4=76
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 d d6 d2 g3 a | b6 d2 d4 d2 b2 | a3 a b2 a2 g4 z4 | d3 d d6 e2 g2 b2 |
-b8 d4 b4 | a3 b a2 f2 d4 z4 | g3 g g3 g g2 _b2 a4 | g4 d8 g2 a2 |
-_b3 b a2 g2 d4 z4 | d3 d d6 d2 c2 _b2 | a4 d8 d2 _e2 | g3 g a2 _b2 a4 z4 |
-d3 d d6 e2 g2 b2 | a4 d8 b2 g2 | a3 a d2 f2 g4 z4 | d3 d d6 d2 g2 b2 |
-a4 d8 b2 g2 | e3 g a2 b2 g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kiri.tmd)
-- [鋼琴伴奏 TMD 檔案](kiri_piano.tmd)
+![P046.jpg](P046.jpg)
+
+![P047.jpg](P047.jpg)
+
+

@@ -40,9 +40,27 @@
 正義の刃（やいば）にうちはらへ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P056.jpg](P056.jpg)
+```abc
+X:1
+T:神風
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=108
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c6 d2 e3 f | g4 e4 g4 | a4 c3 a g4 | d4 c4 d4 |
+a3 g a4 c4 | c4 g4 g4 | c3 d e3 d c4 | d8 z4 |
+c6 d2 e3 g | c4 c4 g4 | a4 b3 c d4 | c8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kamikaze.tmd)
+- [鋼琴伴奏 TMD 檔案](kamikaze_piano.tmd)
 
 ## 分析
 
@@ -98,22 +116,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:神風
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c6 d2 e3 f | g4 e4 g4 | a4 c3 a g4 | d4 c4 d4 |
-a3 g a4 c4 | c4 g4 g4 | c3 d e3 d c4 | d8 z4 |
-c6 d2 e3 g | c4 c4 g4 | a4 b3 c d4 | c8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kamikaze.tmd)
-- [鋼琴伴奏 TMD 檔案](kamikaze_piano.tmd)
+![P056.jpg](P056.jpg)
+
+

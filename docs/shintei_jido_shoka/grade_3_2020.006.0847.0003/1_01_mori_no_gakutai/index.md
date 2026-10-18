@@ -35,11 +35,30 @@
 ホーホケキョ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P024.jpg](P024.jpg)
+```abc
+X:1
+T:森の樂隊
+C:曲：田村虎藏
+M:2/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 d2 f2 | g2 g2 f2 g2 | c3 c b2 a2 | g6 z2 |
+f4 g2 a2 | g2 g2 f2 d2 | c2 c2 d2 c2 | c6 z2 |
+d2 d2 f2 f2 | g2 g2 f4 | d2 f2 d2 f2 | g6 z2 |
+a4 g2 f2 | c3 d c2 a2 | g2 g2 f2 g2 | a2 g2 f2 z2 |
+g4 g4 | c2 c2 c2 c2 | d2 d2 c2 c2 | f2 f2 g2 g2 |
+a2 g f a2 g f | c3 d c2 a2 | g4 a2 g2 | f6 z2 |
+```
 
-![P025.jpg](P025.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mori_no_gakutai.tmd)
+- [鋼琴伴奏 TMD 檔案](mori_no_gakutai_piano.tmd)
 
 ## 分析
 
@@ -95,25 +114,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:森の樂隊
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 d2 f2 | g2 g2 f2 g2 | c3 c b2 a2 | g6 z2 |
-f4 g2 a2 | g2 g2 f2 d2 | c2 c2 d2 c2 | c6 z2 |
-d2 d2 f2 f2 | g2 g2 f4 | d2 f2 d2 f2 | g6 z2 |
-a4 g2 f2 | c3 d c2 a2 | g2 g2 f2 g2 | a2 g2 f2 z2 |
-g4 g4 | c2 c2 c2 c2 | d2 d2 c2 c2 | f2 f2 g2 g2 |
-a2 g f a2 g f | c3 d c2 a2 | g4 a2 g2 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](mori_no_gakutai.tmd)
-- [鋼琴伴奏 TMD 檔案](mori_no_gakutai_piano.tmd)
+![P024.jpg](P024.jpg)
+
+![P025.jpg](P025.jpg)
+
+

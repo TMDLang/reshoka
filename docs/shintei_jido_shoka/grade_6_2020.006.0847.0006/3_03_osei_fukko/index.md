@@ -29,9 +29,30 @@
 王政維新（わうせいいしん）・王政維新、王政維新
 ```
 
-## 原書掃描頁
+## ABC
 
-![P053.jpg](P053.jpg)
+```abc
+X:1
+T:王政復古
+C:曲：田村虎藏
+M:2/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! d2 d2 e2 e2 | d2 e2 g2 a2 | b2 b2 a2 d2 | b2 a2 a2 z2 |
+b2 b2 a2 a2 | g2 a2 b4 | !mp! a3 a g2 e2 | d4 g4 |
+f4 a4 | e4 d4 | ^c4 e4 | d4 z4 |
+!mf! b3 b a2 g2 | f2 g2 a2 f2 | g2 g2 a2 a2 | b2 c2 d4 |
+e2 e2 d2 b2 | g2 a2 b2 g2 | a2 a2 g2 e2 | d2 g2 b4 |
+!f! e4 d4 | b4 g4 | a4 d4 | g4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](osei_fukko.tmd)
+- [鋼琴伴奏 TMD 檔案](osei_fukko_piano.tmd)
 
 ## 分析
 
@@ -87,25 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:王政復古
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! d2 d2 e2 e2 | d2 e2 g2 a2 | b2 b2 a2 d2 | b2 a2 a2 z2 |
-b2 b2 a2 a2 | g2 a2 b4 | !mp! a3 a g2 e2 | d4 g4 |
-f4 a4 | e4 d4 | ^c4 e4 | d4 z4 |
-!mf! b3 b a2 g2 | f2 g2 a2 f2 | g2 g2 a2 a2 | b2 c2 d4 |
-e2 e2 d2 b2 | g2 a2 b2 g2 | a2 a2 g2 e2 | d2 g2 b4 |
-!f! e4 d4 | b4 g4 | a4 d4 | g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](osei_fukko.tmd)
-- [鋼琴伴奏 TMD 檔案](osei_fukko_piano.tmd)
+![P053.jpg](P053.jpg)
+
+

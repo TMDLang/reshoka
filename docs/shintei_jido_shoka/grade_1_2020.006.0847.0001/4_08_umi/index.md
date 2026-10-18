@@ -33,9 +33,36 @@
 ウミノヤマカゲ　クサノカゲ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P055.jpg](P055.jpg)
+```abc
+X:1
+T:ウミ
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 d2 c2 | a4 f4 | g4 a2 g2 | f4 c4 |
+d4 d2 c2 | f2 f2 d2 f2 | g2 g2 f2 g2 | a6 z2 |
+c2 c2 d4 | c2 c2 d4 | c4 a2 f2 | g6 z2 |
+f2 f2 g2 a2 | d2 d2 c4 | a2 a2 g2 g2 | f6 z2 |
+c4 d2 c2 | a4 f4 | g4 a2 g2 | f4 c4 |
+d4 d2 c2 | f2 f2 d2 f2 | g2 g2 f2 g2 | a6 z2 |
+c2 c2 d4 | c2 c2 d4 | c4 a2 f2 | g6 z2 |
+f2 f2 g2 a2 | d2 d2 c4 | a2 a2 g2 g2 | f6 z2 |
+c4 d2 c2 | a4 f4 | g4 a2 g2 | f4 c4 |
+d4 d2 c2 | f2 f2 d2 f2 | g2 g2 f2 g2 | a6 z2 |
+c2 c2 d4 | c2 c2 d4 | c4 a2 f2 | g6 z2 |
+f2 f2 g2 a2 | d2 d2 c4 | a2 a2 g2 g2 | f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](umi.tmd)
+- [鋼琴伴奏 TMD 檔案](umi_piano.tmd)
 
 ## 分析
 
@@ -93,31 +120,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ウミ
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 d2 c2 | a4 f4 | g4 a2 g2 | f4 c4 |
-d4 d2 c2 | f2 f2 d2 f2 | g2 g2 f2 g2 | a6 z2 |
-c2 c2 d4 | c2 c2 d4 | c4 a2 f2 | g6 z2 |
-f2 f2 g2 a2 | d2 d2 c4 | a2 a2 g2 g2 | f6 z2 |
-c4 d2 c2 | a4 f4 | g4 a2 g2 | f4 c4 |
-d4 d2 c2 | f2 f2 d2 f2 | g2 g2 f2 g2 | a6 z2 |
-c2 c2 d4 | c2 c2 d4 | c4 a2 f2 | g6 z2 |
-f2 f2 g2 a2 | d2 d2 c4 | a2 a2 g2 g2 | f6 z2 |
-c4 d2 c2 | a4 f4 | g4 a2 g2 | f4 c4 |
-d4 d2 c2 | f2 f2 d2 f2 | g2 g2 f2 g2 | a6 z2 |
-c2 c2 d4 | c2 c2 d4 | c4 a2 f2 | g6 z2 |
-f2 f2 g2 a2 | d2 d2 c4 | a2 a2 g2 g2 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](umi.tmd)
-- [鋼琴伴奏 TMD 檔案](umi_piano.tmd)
+![P055.jpg](P055.jpg)
+
+

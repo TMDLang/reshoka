@@ -31,9 +31,30 @@
 サヘヅルヨ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P072.jpg](P072.jpg)
+```abc
+X:1
+T:スズメ
+C:曲：小松耕輔
+M:2/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f2 a2 g2 f2 | c2 c2 c2 z2 | d2 c2 d2 c2 | a2 a2 g2 z2 |
+f2 a2 g2 f2 | c2 c2 c2 z2 | d2 c2 a2 g2 | f6 z2 |
+c4 c4 | f f f c f2 z2 | a2 a2 g2 g2 | f6 z2 |
+f2 a2 g2 f2 | c2 c2 c2 z2 | d2 c2 d2 c2 | a2 a2 g2 z2 |
+f2 a2 g2 f2 | c2 c2 c2 z2 | d2 c2 a2 g2 | f6 z2 |
+c4 c4 | f f f c f2 z2 | a2 a2 g2 g2 | f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](suzume.tmd)
+- [鋼琴伴奏 TMD 檔案](suzume_piano.tmd)
 
 ## 分析
 
@@ -90,25 +111,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:スズメ
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f2 a2 g2 f2 | c2 c2 c2 z2 | d2 c2 d2 c2 | a2 a2 g2 z2 |
-f2 a2 g2 f2 | c2 c2 c2 z2 | d2 c2 a2 g2 | f6 z2 |
-c4 c4 | f f f c f2 z2 | a2 a2 g2 g2 | f6 z2 |
-f2 a2 g2 f2 | c2 c2 c2 z2 | d2 c2 d2 c2 | a2 a2 g2 z2 |
-f2 a2 g2 f2 | c2 c2 c2 z2 | d2 c2 a2 g2 | f6 z2 |
-c4 c4 | f f f c f2 z2 | a2 a2 g2 g2 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](suzume.tmd)
-- [鋼琴伴奏 TMD 檔案](suzume_piano.tmd)
+![P072.jpg](P072.jpg)
+
+

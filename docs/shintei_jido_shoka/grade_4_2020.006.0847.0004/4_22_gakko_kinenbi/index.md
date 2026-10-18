@@ -26,9 +26,28 @@
 開けそめにし　けふの日を
 ```
 
-## 原書掃描頁
+## ABC
 
-![P082.jpg](P082.jpg)
+```abc
+X:1
+T:學校記念日
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! d6 e2 d4 g4 | b8 a4 d4 | b6 b2 a4 g4 | a12 z4 |
+d6 e2 d4 g4 | b6 a2 g4 b4 | a6 b2 a4 e4 | g12 z4 |
+f6 g2 a4 d4 | g6 a2 b4 g4 | a6 b2 a4 ^c4 | d12 z4 |
+d6 b2 g4 d4 | b6 a2 g4 e4 | d4 g4 b6 a2 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gakko_kinenbi.tmd)
+- [鋼琴伴奏 TMD 檔案](gakko_kinenbi_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:學校記念日
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! d6 e2 d4 g4 | b8 a4 d4 | b6 b2 a4 g4 | a12 z4 |
-d6 e2 d4 g4 | b6 a2 g4 b4 | a6 b2 a4 e4 | g12 z4 |
-f6 g2 a4 d4 | g6 a2 b4 g4 | a6 b2 a4 ^c4 | d12 z4 |
-d6 b2 g4 d4 | b6 a2 g4 e4 | d4 g4 b6 a2 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gakko_kinenbi.tmd)
-- [鋼琴伴奏 TMD 檔案](gakko_kinenbi_piano.tmd)
+![P082.jpg](P082.jpg)
+
+

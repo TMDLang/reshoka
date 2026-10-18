@@ -35,9 +35,28 @@
 ヒトリデネルナ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P018.jpg](P018.jpg)
+```abc
+X:1
+T:ヒヨコ
+C:曲：文部省
+M:4/4
+L:1/16
+Q:1/4=112
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 c4 a4 f4 | g2 f2 g4 a4 z4 | c4 c4 a4 d4 | c4 c4 a4 z4 |
+c4 c4 a4 f4 | g2 f2 g4 a4 a4 | c4 c2 a2 f8 | g2 g2 a4 f4 z4 |
+g8 g4 g4 | a4 f4 g4 z4 | a8 c4 c4 | a4 c4 d4 z4 |
+c4 c4 a4 f4 | g2 f2 g4 a4 z4 | c4 c4 a4 f4 | g2 g2 a4 f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hiyoko.tmd)
+- [鋼琴伴奏 TMD 檔案](hiyoko_piano.tmd)
 
 ## 分析
 
@@ -93,23 +112,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ヒヨコ
-C:曲：文部省
-M:4/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 c4 a4 f4 | g2 f2 g4 a4 z4 | c4 c4 a4 d4 | c4 c4 a4 z4 |
-c4 c4 a4 f4 | g2 f2 g4 a4 a4 | c4 c2 a2 f8 | g2 g2 a4 f4 z4 |
-g8 g4 g4 | a4 f4 g4 z4 | a8 c4 c4 | a4 c4 d4 z4 |
-c4 c4 a4 f4 | g2 f2 g4 a4 z4 | c4 c4 a4 f4 | g2 g2 a4 f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hiyoko.tmd)
-- [鋼琴伴奏 TMD 檔案](hiyoko_piano.tmd)
+![P018.jpg](P018.jpg)
+
+

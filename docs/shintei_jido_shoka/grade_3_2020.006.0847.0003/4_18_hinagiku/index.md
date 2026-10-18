@@ -23,11 +23,32 @@ Key: G minor (relative major ?= Bb), 2/4 (<2/4>), ヤハラカニ Quarter = 96 (
 お庭の雛菊　さき出した
 ```
 
-## 原書掃描頁
+## ABC
 
-![P082.jpg](P082.jpg)
+```abc
+X:1
+T:雛菊
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=96
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g2 g2 g2 g2 | a2 a2 a4 | b2 a2 g2 g2 | a6 z2 |
+d4 b2 a2 | g2 b2 a2 g2 | a2 a2 d2 d2 | g6 z2 |
+g8 | a8 | b8 | g8 |
+d4 b2 a2 | b4 g4 | a8 | a4 z4 |
+d4 b2 b2 | d2 d2 b2 b2 | a2 g2 a2 b2 | a6 z2 |
+d6 e2 | d4 z4 | g6 b2 | a4 z4 |
+g4 a4 | b4 c4 | d8 | d4 z4 |
+g2 g2 g2 g2 | a2 b2 a2 g2 | a2 a2 d2 d2 | g6 z2 |
+```
 
-![P083.jpg](P083.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hinagiku.tmd)
+- [鋼琴伴奏 TMD 檔案](hinagiku_piano.tmd)
 
 ## 分析
 
@@ -83,27 +104,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:雛菊
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g2 g2 g2 g2 | a2 a2 a4 | b2 a2 g2 g2 | a6 z2 |
-d4 b2 a2 | g2 b2 a2 g2 | a2 a2 d2 d2 | g6 z2 |
-g8 | a8 | b8 | g8 |
-d4 b2 a2 | b4 g4 | a8 | a4 z4 |
-d4 b2 b2 | d2 d2 b2 b2 | a2 g2 a2 b2 | a6 z2 |
-d6 e2 | d4 z4 | g6 b2 | a4 z4 |
-g4 a4 | b4 c4 | d8 | d4 z4 |
-g2 g2 g2 g2 | a2 b2 a2 g2 | a2 a2 d2 d2 | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hinagiku.tmd)
-- [鋼琴伴奏 TMD 檔案](hinagiku_piano.tmd)
+![P082.jpg](P082.jpg)
+
+![P083.jpg](P083.jpg)
+
+

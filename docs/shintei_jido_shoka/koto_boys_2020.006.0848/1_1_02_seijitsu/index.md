@@ -26,9 +26,28 @@
 良（よ）き人（ひと）としもなれよかし。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P037.jpg](P037.jpg)
+```abc
+X:1
+T:誠實
+C:曲：Lowell Mason（メーソン）
+M:4/4
+L:1/16
+Q:1/4=112
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f4 f3 g a4 f4 | c8 a8 | g4 g2 g2 g4 a4 | g12 z4 |
+f4 f3 g a4 f4 | c8 a8 | a4 a4 g4 g4 | f12 z4 |
+g4 g3 a b4 g4 | a8 a4 c4 | d4 d2 c2 =b4 b4 | c12 z4 |
+f4 f3 g a4 f4 | c8 a8 | a4 a4 g4 g4 | f12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](seijitsu.tmd)
+- [鋼琴伴奏 TMD 檔案](seijitsu_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:誠實
-C:曲：Lowell Mason（メーソン）
-M:4/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f4 f3 g a4 f4 | c8 a8 | g4 g2 g2 g4 a4 | g12 z4 |
-f4 f3 g a4 f4 | c8 a8 | a4 a4 g4 g4 | f12 z4 |
-g4 g3 a b4 g4 | a8 a4 c4 | d4 d2 c2 =b4 b4 | c12 z4 |
-f4 f3 g a4 f4 | c8 a8 | a4 a4 g4 g4 | f12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](seijitsu.tmd)
-- [鋼琴伴奏 TMD 檔案](seijitsu_piano.tmd)
+![P037.jpg](P037.jpg)
+
+

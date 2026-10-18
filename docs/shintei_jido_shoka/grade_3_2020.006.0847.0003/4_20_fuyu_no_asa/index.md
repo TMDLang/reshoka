@@ -25,9 +25,33 @@ Key: C major / A minor (?= C), 2/4 (<2/4>), 面白ゲニ Quarter = 88 (!= 88)
 踏めばくだける　霜柱
 ```
 
-## 原書掃描頁
+## ABC
 
-![P085.jpg](P085.jpg)
+```abc
+X:1
+T:冬の朝
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=88
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e2 e2 e2 z2 | a2 a a a2 a2 | d6 d2 | c2 c2 c2 z2 |
+A2 z2 A4 | A2 z2 A4 | a8 | a2 z2 z4 |
+c6 c c | a2 a a a2 a2 | a4 a4 | e2 d c d2 z2 |
+c2 c2 c2 g2 | a2 a2 a2 a2 | c6 c2 | a6 g a |
+c8 | c4 z4 | e2 e2 e2 z2 | a2 a a a2 a2 |
+d6 d2 | c2 c2 c2 z2 | A2 z2 A4 | A2 z2 A4 |
+a8 | a2 z2 z4 | c6 c c | a2 a a a2 a2 |
+a4 a4 | e2 d c d2 z2 | c2 c2 c2 g2 | a2 a2 a2 a2 |
+c6 c2 | a6 g a | c8 | c4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](fuyu_no_asa.tmd)
+- [鋼琴伴奏 TMD 檔案](fuyu_no_asa_piano.tmd)
 
 ## 分析
 
@@ -84,28 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:冬の朝
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=88
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e2 e2 e2 z2 | a2 a a a2 a2 | d6 d2 | c2 c2 c2 z2 |
-A2 z2 A4 | A2 z2 A4 | a8 | a2 z2 z4 |
-c6 c c | a2 a a a2 a2 | a4 a4 | e2 d c d2 z2 |
-c2 c2 c2 g2 | a2 a2 a2 a2 | c6 c2 | a6 g a |
-c8 | c4 z4 | e2 e2 e2 z2 | a2 a a a2 a2 |
-d6 d2 | c2 c2 c2 z2 | A2 z2 A4 | A2 z2 A4 |
-a8 | a2 z2 z4 | c6 c c | a2 a a a2 a2 |
-a4 a4 | e2 d c d2 z2 | c2 c2 c2 g2 | a2 a2 a2 a2 |
-c6 c2 | a6 g a | c8 | c4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](fuyu_no_asa.tmd)
-- [鋼琴伴奏 TMD 檔案](fuyu_no_asa_piano.tmd)
+![P085.jpg](P085.jpg)
+
+

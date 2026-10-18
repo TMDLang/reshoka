@@ -28,9 +28,28 @@
 手を取りて語らふ　あゝそも何時の日ぞ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P107.jpg](P107.jpg)
+```abc
+X:1
+T:懷友
+C:曲：Tomer
+M:4/4
+L:1/16
+Q:1/4=84
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! e4 e2 e2 e2 e2 e2 e2 | g3 a g4 e4 z4 | c4 c2 c2 c2 c2 c2 c2 | !mf! e8 d4 z4 |
+!mp! e4 e2 e2 e2 e2 e2 e2 | g8 e4 z4 | c4 e2 g2 c3 b c2 a2 | g4 e4 c6 z2 |
+!f! e3 f g2 c2 d3 c b2 a2 | g4 c4 c6 z2 | b3 a g2 g2 g4 f2 d2 | e14 z2 |
+!f! e3 d c2 d2 e4 c3 a | g4 e4 d6 z2 | !mf! f3 g a2 f2 e2 c2 d3 c | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kaiyu.tmd)
+- [鋼琴伴奏 TMD 檔案](kaiyu_piano.tmd)
 
 ## 分析
 
@@ -86,23 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:懷友
-C:曲：Tomer
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! e4 e2 e2 e2 e2 e2 e2 | g3 a g4 e4 z4 | c4 c2 c2 c2 c2 c2 c2 | !mf! e8 d4 z4 |
-!mp! e4 e2 e2 e2 e2 e2 e2 | g8 e4 z4 | c4 e2 g2 c3 b c2 a2 | g4 e4 c6 z2 |
-!f! e3 f g2 c2 d3 c b2 a2 | g4 c4 c6 z2 | b3 a g2 g2 g4 f2 d2 | e14 z2 |
-!f! e3 d c2 d2 e4 c3 a | g4 e4 d6 z2 | !mf! f3 g a2 f2 e2 c2 d3 c | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kaiyu.tmd)
-- [鋼琴伴奏 TMD 檔案](kaiyu_piano.tmd)
+![P107.jpg](P107.jpg)
+
+

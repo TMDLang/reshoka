@@ -33,9 +33,27 @@
 おめゝほそめていゝ氣持（キモチ）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P037.jpg](P037.jpg)
+```abc
+X:1
+T:水牛
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=88
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e3 e e2 f2 | g3 g g2 a2 | b3 b b2 g2 | b6 z2 |
+c3 c c2 b2 | e3 e e2 c2 | b3 b b2 g2 | f6 z2 |
+g3 g g2 f2 | b3 b b2 g2 | f3 f f2 g2 | e6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](suigyu.tmd)
+- [鋼琴伴奏 TMD 檔案](suigyu_piano.tmd)
 
 ## 分析
 
@@ -91,22 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:水牛
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=88
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e3 e e2 f2 | g3 g g2 a2 | b3 b b2 g2 | b6 z2 |
-c3 c c2 b2 | e3 e e2 c2 | b3 b b2 g2 | f6 z2 |
-g3 g g2 f2 | b3 b b2 g2 | f3 f f2 g2 | e6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](suigyu.tmd)
-- [鋼琴伴奏 TMD 檔案](suigyu_piano.tmd)
+![P037.jpg](P037.jpg)
+
+

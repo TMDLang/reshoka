@@ -29,9 +29,35 @@
 謙信（けんしん）北（きた）に、走（はし）りたり。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P053.jpg](P053.jpg)
+```abc
+X:1
+T:川中島
+C:曲：歐洲曲
+M:2/4
+L:1/16
+Q:1/4=80
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z2 z2 z2 c2 | f3 g a2 b c | d2 c2 a2 z2 | g2 g2 g2 c2 |
+!f! a2 f2 g2 d2 | d3 f g2 b2 | a2 g f g2 z2 | a2 a b c2 a2 |
+!mf! g2 a g f2 c2 | f3 g a2 b c | !f! c2 b2 a2 a2 | b2 c2 d3 c |
+!mf! c2 b2 a2 c2 | g3 a b2 a g | f2 d2 c2 z2 | d2 d2 d2 z2 |
+c2 c2 c2 c2 | f3 g a2 b c | d c b2 a2 z2 | g3 g a3 g |
+f4 z4 | !mf! z2 z2 z2 c2 | f3 g a2 b c | d2 c2 a2 z2 |
+g2 g2 g2 c2 | !f! a2 f2 g2 d2 | d3 f g2 b2 | a2 g f g2 z2 |
+a2 a b c2 a2 | !mf! g2 a g f2 c2 | f3 g a2 b c | !f! c2 b2 a2 a2 |
+b2 c2 d3 c | !mf! c2 b2 a2 c2 | g3 a b2 a g | f2 d2 c2 z2 |
+d2 d2 d2 z2 | c2 c2 c2 c2 | f3 g a2 b c | d c b2 a2 z2 |
+g3 g a3 g | f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kawanakajima.tmd)
+- [鋼琴伴奏 TMD 檔案](kawanakajima_piano.tmd)
 
 ## 分析
 
@@ -88,30 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:川中島
-C:曲：歐洲曲
-M:2/4
-L:1/16
-Q:1/4=80
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 z2 z2 c2 | f3 g a2 b c | d2 c2 a2 z2 | g2 g2 g2 c2 |
-!f! a2 f2 g2 d2 | d3 f g2 b2 | a2 g f g2 z2 | a2 a b c2 a2 |
-!mf! g2 a g f2 c2 | f3 g a2 b c | !f! c2 b2 a2 a2 | b2 c2 d3 c |
-!mf! c2 b2 a2 c2 | g3 a b2 a g | f2 d2 c2 z2 | d2 d2 d2 z2 |
-c2 c2 c2 c2 | f3 g a2 b c | d c b2 a2 z2 | g3 g a3 g |
-f4 z4 | !mf! z2 z2 z2 c2 | f3 g a2 b c | d2 c2 a2 z2 |
-g2 g2 g2 c2 | !f! a2 f2 g2 d2 | d3 f g2 b2 | a2 g f g2 z2 |
-a2 a b c2 a2 | !mf! g2 a g f2 c2 | f3 g a2 b c | !f! c2 b2 a2 a2 |
-b2 c2 d3 c | !mf! c2 b2 a2 c2 | g3 a b2 a g | f2 d2 c2 z2 |
-d2 d2 d2 z2 | c2 c2 c2 c2 | f3 g a2 b c | d c b2 a2 z2 |
-g3 g a3 g | f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kawanakajima.tmd)
-- [鋼琴伴奏 TMD 檔案](kawanakajima_piano.tmd)
+![P053.jpg](P053.jpg)
+
+

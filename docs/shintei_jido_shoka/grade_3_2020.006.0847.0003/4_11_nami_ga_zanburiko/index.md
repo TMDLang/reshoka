@@ -27,9 +27,28 @@
 舟が鴎と　浮いて来た
 ```
 
-## 原書掃描頁
+## ABC
 
-![P072.jpg](P072.jpg)
+```abc
+X:1
+T:波がざんぶりこ
+C:曲：佐々木のぼる
+M:2/4
+L:1/16
+Q:1/4=108
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 c2 c2 d2 | c2 f f f2 z2 | g2 b2 g4 | f2 d d f2 z2 |
+d2 d2 c2 b2 | c2 d2 f2 z2 | d2 d2 c2 b2 | c2 c2 b4 |
+d2 d4 b2 | c2 f f f2 z2 | z2 b4 g2 | f2 d d f2 z2 |
+d2 d c b4 | c2 d2 f2 z2 | f2 g4 f2 | d2 c c b4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nami_ga_zanburiko.tmd)
+- [鋼琴伴奏 TMD 檔案](nami_ga_zanburiko_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:波がざんぶりこ
-C:曲：佐々木のぼる
-M:2/4
-L:1/16
-Q:1/4=108
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 c2 d2 | c2 f f f2 z2 | g2 b2 g4 | f2 d d f2 z2 |
-d2 d2 c2 b2 | c2 d2 f2 z2 | d2 d2 c2 b2 | c2 c2 b4 |
-d2 d4 b2 | c2 f f f2 z2 | z2 b4 g2 | f2 d d f2 z2 |
-d2 d c b4 | c2 d2 f2 z2 | f2 g4 f2 | d2 c c b4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nami_ga_zanburiko.tmd)
-- [鋼琴伴奏 TMD 檔案](nami_ga_zanburiko_piano.tmd)
+![P072.jpg](P072.jpg)
+
+

@@ -27,9 +27,32 @@
 めにみるごとき　その風情
 ```
 
-## 原書掃描頁
+## ABC
 
-![P063.jpg](P063.jpg)
+```abc
+X:1
+T:才女
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! D4 E3 G A8 | G4 E4 z4 E4 | G6 A2 G4 E2 D2 | D12 c2 A2 |
+E4 G3 A c6 d2 | c4 A4 z4 A4 | G6 E2 G4 E2 D2 | !f! C8 z4 d4 |
+e6 d2 c4 A4 | !p! d8 z4 c4 | c6 c2 d6 c2 | !f! A12 e4 |
+d4 c4 A4 c3 A | !p! G4 E8 G3 A | G4 E4 G6 E2 | D12 z4 |
+!mf! D4 E3 G A8 | G4 E4 z4 E4 | G6 A2 G4 E2 D2 | D12 c2 A2 |
+E4 G3 A c6 d2 | c4 A4 z4 A4 | G6 E2 G4 E2 D2 | !f! C8 z4 d4 |
+e6 d2 c4 A4 | !p! d8 z4 c4 | c6 c2 d6 c2 | !f! A12 e4 |
+d4 c4 A4 c3 A | !p! G4 E8 G3 A | G4 E4 G6 E2 | D12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](saijo.tmd)
+- [鋼琴伴奏 TMD 檔案](saijo_piano.tmd)
 
 ## 分析
 
@@ -86,27 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:才女
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D4 E3 G A8 | G4 E4 z4 E4 | G6 A2 G4 E2 D2 | D12 c2 A2 |
-E4 G3 A c6 d2 | c4 A4 z4 A4 | G6 E2 G4 E2 D2 | !f! C8 z4 d4 |
-e6 d2 c4 A4 | !p! d8 z4 c4 | c6 c2 d6 c2 | !f! A12 e4 |
-d4 c4 A4 c3 A | !p! G4 E8 G3 A | G4 E4 G6 E2 | D12 z4 |
-!mf! D4 E3 G A8 | G4 E4 z4 E4 | G6 A2 G4 E2 D2 | D12 c2 A2 |
-E4 G3 A c6 d2 | c4 A4 z4 A4 | G6 E2 G4 E2 D2 | !f! C8 z4 d4 |
-e6 d2 c4 A4 | !p! d8 z4 c4 | c6 c2 d6 c2 | !f! A12 e4 |
-d4 c4 A4 c3 A | !p! G4 E8 G3 A | G4 E4 G6 E2 | D12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](saijo.tmd)
-- [鋼琴伴奏 TMD 檔案](saijo_piano.tmd)
+![P063.jpg](P063.jpg)
+
+

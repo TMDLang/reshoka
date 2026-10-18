@@ -31,9 +31,32 @@
 ハヤクシヤウグワツ　クルヤウニ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P068.jpg](P068.jpg)
+```abc
+X:1
+T:モチツキ
+C:曲：小松耕輔
+M:2/4
+L:1/16
+Q:1/4=108
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d2 a2 f2 z2 | a2 f2 d2 z2 | b2 a2 f f d2 | d2 a2 f2 z2 |
+a a a2 b b a2 | d2 a2 f2 z2 | a3 a e2 f2 | a2 a2 b2 a2 |
+d2 a2 f2 z2 | b2 a2 b2 a2 | d2 b2 b4 | d4 b2 d2 |
+a4 a2 f2 | d4 f4 | f2 e2 e4 | d6 z2 |
+d2 a2 f2 z2 | a2 f2 d2 z2 | b2 a2 f f d2 | d2 a2 f2 z2 |
+a a a2 b b a2 | d2 a2 f2 z2 | a3 a e2 f2 | a2 a2 b2 a2 |
+d2 a2 f2 z2 | b2 a2 b2 a2 | d2 b2 b4 | d4 b2 d2 |
+a4 a2 f2 | d4 f4 | f2 e2 e4 | d6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mochitsuki.tmd)
+- [鋼琴伴奏 TMD 檔案](mochitsuki_piano.tmd)
 
 ## 分析
 
@@ -90,27 +113,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:モチツキ
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=108
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 a2 f2 z2 | a2 f2 d2 z2 | b2 a2 f f d2 | d2 a2 f2 z2 |
-a a a2 b b a2 | d2 a2 f2 z2 | a3 a e2 f2 | a2 a2 b2 a2 |
-d2 a2 f2 z2 | b2 a2 b2 a2 | d2 b2 b4 | d4 b2 d2 |
-a4 a2 f2 | d4 f4 | f2 e2 e4 | d6 z2 |
-d2 a2 f2 z2 | a2 f2 d2 z2 | b2 a2 f f d2 | d2 a2 f2 z2 |
-a a a2 b b a2 | d2 a2 f2 z2 | a3 a e2 f2 | a2 a2 b2 a2 |
-d2 a2 f2 z2 | b2 a2 b2 a2 | d2 b2 b4 | d4 b2 d2 |
-a4 a2 f2 | d4 f4 | f2 e2 e4 | d6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](mochitsuki.tmd)
-- [鋼琴伴奏 TMD 檔案](mochitsuki_piano.tmd)
+![P068.jpg](P068.jpg)
+
+

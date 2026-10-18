@@ -28,9 +28,35 @@
 たのしうれし　母（はは）への土産に　花つまむ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P036.jpg](P036.jpg)
+```abc
+X:1
+T:のどけき春
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=88
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! f2 g a c2 a2 | g2 c2 a2 z2 | f2 g a g2 f g | a2 g2 f2 z2 |
+f2 g a c2 a2 | g2 c2 a2 z2 | d2 c2 a2 c2 | d2 d2 c2 z2 |
+d2 a c d2 d2 | c2 d2 c4 | a3 g a2 c2 | g2 a2 g2 z2 |
+f2 g a c2 c2 | d2 d2 c4 | a2 c2 g2 a2 | f6 z2 |
+c2 d2 c4 | d2 c2 a4 | f2 g a c2 c2 | d2 c2 a4 |
+g2 c2 a2 g2 | f6 z2 | !mf! f2 g a c2 a2 | g2 c2 a2 z2 |
+f2 g a g2 f g | a2 g2 f2 z2 | f2 g a c2 a2 | g2 c2 a2 z2 |
+d2 c2 a2 c2 | d2 d2 c2 z2 | d2 a c d2 d2 | c2 d2 c4 |
+a3 g a2 c2 | g2 a2 g2 z2 | f2 g a c2 c2 | d2 d2 c4 |
+a2 c2 g2 a2 | f6 z2 | c2 d2 c4 | d2 c2 a4 |
+f2 g a c2 c2 | d2 c2 a4 | g2 c2 a2 g2 | f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nodokeki_haru.tmd)
+- [鋼琴伴奏 TMD 檔案](nodokeki_haru_piano.tmd)
 
 ## 分析
 
@@ -87,30 +113,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:のどけき春
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=88
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! f2 g a c2 a2 | g2 c2 a2 z2 | f2 g a g2 f g | a2 g2 f2 z2 |
-f2 g a c2 a2 | g2 c2 a2 z2 | d2 c2 a2 c2 | d2 d2 c2 z2 |
-d2 a c d2 d2 | c2 d2 c4 | a3 g a2 c2 | g2 a2 g2 z2 |
-f2 g a c2 c2 | d2 d2 c4 | a2 c2 g2 a2 | f6 z2 |
-c2 d2 c4 | d2 c2 a4 | f2 g a c2 c2 | d2 c2 a4 |
-g2 c2 a2 g2 | f6 z2 | !mf! f2 g a c2 a2 | g2 c2 a2 z2 |
-f2 g a g2 f g | a2 g2 f2 z2 | f2 g a c2 a2 | g2 c2 a2 z2 |
-d2 c2 a2 c2 | d2 d2 c2 z2 | d2 a c d2 d2 | c2 d2 c4 |
-a3 g a2 c2 | g2 a2 g2 z2 | f2 g a c2 c2 | d2 d2 c4 |
-a2 c2 g2 a2 | f6 z2 | c2 d2 c4 | d2 c2 a4 |
-f2 g a c2 c2 | d2 c2 a4 | g2 c2 a2 g2 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nodokeki_haru.tmd)
-- [鋼琴伴奏 TMD 檔案](nodokeki_haru_piano.tmd)
+![P036.jpg](P036.jpg)
+
+

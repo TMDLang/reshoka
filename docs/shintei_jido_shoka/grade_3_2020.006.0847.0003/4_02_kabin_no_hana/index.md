@@ -27,9 +27,26 @@
 綺麗なお部屋で　お遊びしませう
 ```
 
-## 原書掃描頁
+## ABC
 
-![P060.jpg](P060.jpg)
+```abc
+X:1
+T:花瓶の花
+C:曲：佛蘭西
+M:4/4
+L:1/16
+Q:1/4=96
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d6 e2 d f b2 c4 | d4 b4 c6 z2 | b6 a2 g2 c2 b2 g2 | f12 z4 |
+d6 e2 d f b2 c4 | d4 g4 f6 z2 | f6 g2 f2 e2 d2 c2 | b12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kabin_no_hana.tmd)
+- [鋼琴伴奏 TMD 檔案](kabin_no_hana_piano.tmd)
 
 ## 分析
 
@@ -85,21 +102,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:花瓶の花
-C:曲：佛蘭西
-M:4/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d6 e2 d f b2 c4 | d4 b4 c6 z2 | b6 a2 g2 c2 b2 g2 | f12 z4 |
-d6 e2 d f b2 c4 | d4 g4 f6 z2 | f6 g2 f2 e2 d2 c2 | b12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kabin_no_hana.tmd)
-- [鋼琴伴奏 TMD 檔案](kabin_no_hana_piano.tmd)
+![P060.jpg](P060.jpg)
+
+

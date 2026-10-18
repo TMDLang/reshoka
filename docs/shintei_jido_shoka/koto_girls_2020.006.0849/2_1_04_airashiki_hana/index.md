@@ -26,9 +26,29 @@
 花の中の其乙女子（をとめご）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P081.jpg](P081.jpg)
+```abc
+X:1
+T:愛らしき花
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=88
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! z4 z4 f2 f2 | a6 f2 d4 | !mf! e4 z4 f2 a2 | d4 c3 b a4 |
+!mp! b8 a2 b2 | a6 f2 d2 f2 | !mf! e4 z4 f2 a2 | d2 f2 e6 c2 |
+d8 e2 e2 | !f! b8 g2 e2 | a8 f2 d2 | !mf! e4 f4 g4 |
+a8 e2 e2 | !f! c8 a2 g2 | f8 d2 d2 | !mf! !p! g4 e4 c4 |
+d8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](airashiki_hana.tmd)
+- [鋼琴伴奏 TMD 檔案](airashiki_hana_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:愛らしき花
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=88
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z4 z4 f2 f2 | a6 f2 d4 | !mf! e4 z4 f2 a2 | d4 c3 b a4 |
-!mp! b8 a2 b2 | a6 f2 d2 f2 | !mf! e4 z4 f2 a2 | d2 f2 e6 c2 |
-d8 e2 e2 | !f! b8 g2 e2 | a8 f2 d2 | !mf! e4 f4 g4 |
-a8 e2 e2 | !f! c8 a2 g2 | f8 d2 d2 | !mf! !p! g4 e4 c4 |
-d8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](airashiki_hana.tmd)
-- [鋼琴伴奏 TMD 檔案](airashiki_hana_piano.tmd)
+![P081.jpg](P081.jpg)
+
+

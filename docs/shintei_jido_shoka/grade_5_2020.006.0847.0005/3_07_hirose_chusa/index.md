@@ -28,9 +28,29 @@
 軍神廣瀨（ぐんしんひろせ）と　其名殘れど
 ```
 
-## 原書掃描頁
+## ABC
 
-![P056.jpg](P056.jpg)
+```abc
+X:1
+T:廣瀨中佐
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=112
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 d3 d | g8 g4 a3 g | e8 d4 b3 a | g3 a b3 d e3 d b3 g |
+a8 z4 d3 d | g8 g4 a3 b | d8 b4 d3 d | e3 d b3 d a3 d f3 e |
+!p! d8 z4 a3 a | a4 f4 d4 g3 a | b8 g4 b3 d | e3 e d3 b g3 a b3 b |
+!mf! a8 z4 d3 b | g4 b3 d e4 d3 b | d4 b8 d3 e | d3 b g3 e d3 g b3 a |
+g8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hirose_chusa.tmd)
+- [鋼琴伴奏 TMD 檔案](hirose_chusa_piano.tmd)
 
 ## 分析
 
@@ -86,24 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:廣瀨中佐
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=112
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 d3 d | g8 g4 a3 g | e8 d4 b3 a | g3 a b3 d e3 d b3 g |
-a8 z4 d3 d | g8 g4 a3 b | d8 b4 d3 d | e3 d b3 d a3 d f3 e |
-!p! d8 z4 a3 a | a4 f4 d4 g3 a | b8 g4 b3 d | e3 e d3 b g3 a b3 b |
-!mf! a8 z4 d3 b | g4 b3 d e4 d3 b | d4 b8 d3 e | d3 b g3 e d3 g b3 a |
-g8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hirose_chusa.tmd)
-- [鋼琴伴奏 TMD 檔案](hirose_chusa_piano.tmd)
+![P056.jpg](P056.jpg)
+
+

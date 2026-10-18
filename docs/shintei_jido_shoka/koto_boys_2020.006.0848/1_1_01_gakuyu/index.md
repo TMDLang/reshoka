@@ -24,9 +24,28 @@
 誠（まこと）ある友（とも）こそ、持（も）つべけれ。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P036.jpg](P036.jpg)
+```abc
+X:1
+T:學友
+C:曲：Lewis（リユーイス）
+M:4/4
+L:1/16
+Q:1/4=92
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 c4 | e8 d2 c2 c4 | e6 f2 g4 c4 | d8 c4 d4 |
+!f! e8 z4 g4 | c8 b2 a2 g4 | !mf! f4 e4 d4 g4 | a8 f4 g4 |
+e8 d4 c4 | e8 d2 c2 c4 | e4 f3 g g4 c4 | d8 e4 d4 |
+c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gakuyu.tmd)
+- [鋼琴伴奏 TMD 檔案](gakuyu_piano.tmd)
 
 ## 分析
 
@@ -82,23 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:學友
-C:曲：Lewis（リユーイス）
-M:4/4
-L:1/16
-Q:1/4=92
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 c4 | e8 d2 c2 c4 | e6 f2 g4 c4 | d8 c4 d4 |
-!f! e8 z4 g4 | c8 b2 a2 g4 | !mf! f4 e4 d4 g4 | a8 f4 g4 |
-e8 d4 c4 | e8 d2 c2 c4 | e4 f3 g g4 c4 | d8 e4 d4 |
-c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gakuyu.tmd)
-- [鋼琴伴奏 TMD 檔案](gakuyu_piano.tmd)
+![P036.jpg](P036.jpg)
+
+

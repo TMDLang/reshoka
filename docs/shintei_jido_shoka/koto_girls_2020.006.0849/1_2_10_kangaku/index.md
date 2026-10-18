@@ -29,9 +29,31 @@
 蟲（むし）・鳥（とり）に　劣（おと）るべし」復唱
 ```
 
-## 原書掃描頁
+## ABC
 
-![P059.jpg](P059.jpg)
+```abc
+X:1
+T:勸學
+C:曲：Düringer
+M:4/4
+L:1/16
+Q:1/4=84
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! d2 d2 g2 g2 a3 b a2 z2 | !mf! b2 b2 c2 d2 d2 c2 b2 z2 | !mp! z2 g2 f2 e2 d2 g2 b2 z2 | z2 a2 f2 d2 g2 e2 a4 |
+!mf! z2 f2 g2 a2 b2 ^c2 d2 a2 | d4 a4 z4 z4 | !mf! z2 b2 ^a2 b2 c3 b =a2 z2 | !mp! z2 a2 ^g2 a2 b3 a =g2 z2 |
+z2 g2 f2 e2 d3 g b2 z2 | z2 a2 d2 f2 a4 g2 z2 | !mf! z2 b2 ^a2 b2 c3 b =a2 z2 | !mp! z2 a2 ^g2 a2 b3 a =g2 z2 |
+z2 g2 f2 e2 d3 g b2 z2 | z2 a2 d2 f2 a4 g2 z2 | !mp! d2 d2 g2 g2 a3 b a2 z2 | !mf! b2 b2 c2 d2 d2 c2 b2 z2 |
+!mp! z2 g2 f2 e2 d2 g2 b2 z2 | z2 a2 f2 d2 g2 e2 a4 | !mf! z2 f2 g2 a2 b2 ^c2 d2 a2 | d4 a4 z4 z4 |
+!mf! z2 b2 ^a2 b2 c3 b =a2 z2 | !mp! z2 a2 ^g2 a2 b3 a =g2 z2 | z2 g2 f2 e2 d3 g b2 z2 | z2 a2 d2 f2 a4 g2 z2 |
+!mf! z2 b2 ^a2 b2 c3 b =a2 z2 | !mp! z2 a2 ^g2 a2 b3 a =g2 z2 | z2 g2 f2 e2 d3 g b2 z2 | z2 a2 d2 f2 a4 g2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kangaku.tmd)
+- [鋼琴伴奏 TMD 檔案](kangaku_piano.tmd)
 
 ## 分析
 
@@ -92,26 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:勸學
-C:曲：Düringer
-M:4/4
-L:1/16
-Q:1/4=84
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! d2 d2 g2 g2 a3 b a2 z2 | !mf! b2 b2 c2 d2 d2 c2 b2 z2 | !mp! z2 g2 f2 e2 d2 g2 b2 z2 | z2 a2 f2 d2 g2 e2 a4 |
-!mf! z2 f2 g2 a2 b2 ^c2 d2 a2 | d4 a4 z4 z4 | !mf! z2 b2 ^a2 b2 c3 b =a2 z2 | !mp! z2 a2 ^g2 a2 b3 a =g2 z2 |
-z2 g2 f2 e2 d3 g b2 z2 | z2 a2 d2 f2 a4 g2 z2 | !mf! z2 b2 ^a2 b2 c3 b =a2 z2 | !mp! z2 a2 ^g2 a2 b3 a =g2 z2 |
-z2 g2 f2 e2 d3 g b2 z2 | z2 a2 d2 f2 a4 g2 z2 | !mp! d2 d2 g2 g2 a3 b a2 z2 | !mf! b2 b2 c2 d2 d2 c2 b2 z2 |
-!mp! z2 g2 f2 e2 d2 g2 b2 z2 | z2 a2 f2 d2 g2 e2 a4 | !mf! z2 f2 g2 a2 b2 ^c2 d2 a2 | d4 a4 z4 z4 |
-!mf! z2 b2 ^a2 b2 c3 b =a2 z2 | !mp! z2 a2 ^g2 a2 b3 a =g2 z2 | z2 g2 f2 e2 d3 g b2 z2 | z2 a2 d2 f2 a4 g2 z2 |
-!mf! z2 b2 ^a2 b2 c3 b =a2 z2 | !mp! z2 a2 ^g2 a2 b3 a =g2 z2 | z2 g2 f2 e2 d3 g b2 z2 | z2 a2 d2 f2 a4 g2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kangaku.tmd)
-- [鋼琴伴奏 TMD 檔案](kangaku_piano.tmd)
+![P059.jpg](P059.jpg)
+
+

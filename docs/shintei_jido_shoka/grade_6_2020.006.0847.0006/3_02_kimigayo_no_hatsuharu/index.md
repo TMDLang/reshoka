@@ -26,9 +26,28 @@
 さへづるものを世の人よ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P052.jpg](P052.jpg)
+```abc
+X:1
+T:君が代の初春
+C:TMD (Chen, Chih-Han / aguai)
+M:2/2
+L:1/16
+Q:1/2=36
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! c8 d4 c4 | a8 g8 | f4 g4 a4 c4 | g12 z4 |
+!mf! c4 c4 d4 c4 | a8 g4 g4 | f4 a4 c4 a4 | c12 z4 |
+!f! d4 d4 c4 a4 | c8 a4 f4 | g4 a4 g4 f4 | c12 z4 |
+!mf! d4 c4 d4 c4 | a8 g4 f4 | g4 d4 c4 d4 | f12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kimigayo_no_hatsuharu.tmd)
+- [鋼琴伴奏 TMD 檔案](kimigayo_no_hatsuharu_piano.tmd)
 
 ## 分析
 
@@ -84,23 +103,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:君が代の初春
-C:TMD (Chen, Chih-Han / aguai)
-M:2/2
-L:1/16
-Q:1/2=36
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! c8 d4 c4 | a8 g8 | f4 g4 a4 c4 | g12 z4 |
-!mf! c4 c4 d4 c4 | a8 g4 g4 | f4 a4 c4 a4 | c12 z4 |
-!f! d4 d4 c4 a4 | c8 a4 f4 | g4 a4 g4 f4 | c12 z4 |
-!mf! d4 c4 d4 c4 | a8 g4 f4 | g4 d4 c4 d4 | f12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kimigayo_no_hatsuharu.tmd)
-- [鋼琴伴奏 TMD 檔案](kimigayo_no_hatsuharu_piano.tmd)
+![P052.jpg](P052.jpg)
+
+

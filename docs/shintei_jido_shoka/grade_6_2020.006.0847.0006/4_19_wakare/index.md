@@ -21,9 +21,28 @@
 惜（を）しき別（わか）れを　告げなんさらば
 ```
 
-## 原書掃描頁
+## ABC
 
-![P084.jpg](P084.jpg)
+```abc
+X:1
+T:別れ
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! z4 z4 z4 c3 d | !mp! e4 d3 e f4 f3 g | e4 d4 c3 d e3 f | !mf! d4 d3 G c4 c3 d |
+e4 d3 e f4 f3 g | e4 d4 g3 f e3 d | !p! c4 d3 e c4 G3 G | e3 e d4 c3 c A3 A |
+G4 G3 c B3 c d3 e | !mf! f4 a4 g4 c3 d | e3 f d4 g4 e4 | !p! d4 c3 d e3 f d4 |
+d3 G c8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](wakare.tmd)
+- [鋼琴伴奏 TMD 檔案](wakare_piano.tmd)
 
 ## 分析
 
@@ -79,23 +98,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:別れ
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 z4 c3 d | !mp! e4 d3 e f4 f3 g | e4 d4 c3 d e3 f | !mf! d4 d3 G c4 c3 d |
-e4 d3 e f4 f3 g | e4 d4 g3 f e3 d | !p! c4 d3 e c4 G3 G | e3 e d4 c3 c A3 A |
-G4 G3 c B3 c d3 e | !mf! f4 a4 g4 c3 d | e3 f d4 g4 e4 | !p! d4 c3 d e3 f d4 |
-d3 G c8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](wakare.tmd)
-- [鋼琴伴奏 TMD 檔案](wakare_piano.tmd)
+![P084.jpg](P084.jpg)
+
+

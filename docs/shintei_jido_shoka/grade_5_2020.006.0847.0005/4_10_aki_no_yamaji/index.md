@@ -30,9 +30,28 @@
 見れど飽（あ）かぬ　この景色
 ```
 
-## 原書掃描頁
+## ABC
 
-![P068.jpg](P068.jpg)
+```abc
+X:1
+T:秋の山路
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b4 d3 b a4 b2 d2 | e4 d2 b2 a4 b4 | b4 a2 b2 g4 a2 g2 | e4 f2 ^g2 a8 |
+b4 d3 b a4 b2 d2 | e4 d2 b2 a4 b4 | b4 a2 b2 g4 a2 g2 | e4 f2 ^g2 a8 |
+g2 z2 f2 z2 g8 | a2 a2 g2 a2 b8 | d4 e2 d2 b2 a2 g4 | a4 b2 d2 e4 d4 |
+b2 a2 g2 e2 d2 b2 a4 | d2 b2 a3 b g8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](aki_no_yamaji.tmd)
+- [鋼琴伴奏 TMD 檔案](aki_no_yamaji_piano.tmd)
 
 ## 分析
 
@@ -88,23 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:秋の山路
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b4 d3 b a4 b2 d2 | e4 d2 b2 a4 b4 | b4 a2 b2 g4 a2 g2 | e4 f2 ^g2 a8 |
-b4 d3 b a4 b2 d2 | e4 d2 b2 a4 b4 | b4 a2 b2 g4 a2 g2 | e4 f2 ^g2 a8 |
-g2 z2 f2 z2 g8 | a2 a2 g2 a2 b8 | d4 e2 d2 b2 a2 g4 | a4 b2 d2 e4 d4 |
-b2 a2 g2 e2 d2 b2 a4 | d2 b2 a3 b g8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](aki_no_yamaji.tmd)
-- [鋼琴伴奏 TMD 檔案](aki_no_yamaji_piano.tmd)
+![P068.jpg](P068.jpg)
+
+

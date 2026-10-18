@@ -24,9 +24,28 @@
 磯（いそ）が涸（か）れたと云（い）つて啼（な）く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P072.jpg](P072.jpg)
+```abc
+X:1
+T:磯の千鳥
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=64
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f2 f2 e2 d4 d2 | e4 b2 a6 | f4 f2 e2 f2 a2 | d6 d4 z2 |
+e2 e2 f2 e4 d2 | B4 d2 e6 | f4 f2 a2 f2 e2 | d6 d4 z2 |
+b2 b2 a2 b4 b2 | a4 b2 a6 | f4 f2 e4 f2 | a6 a4 z2 |
+b2 b2 a2 f4 a2 | e4 a2 b6 | f3 f e2 f2 e2 B2 | d6 d4 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](iso_no_chidori.tmd)
+- [鋼琴伴奏 TMD 檔案](iso_no_chidori_piano.tmd)
 
 ## 分析
 
@@ -82,23 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:磯の千鳥
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=64
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f2 f2 e2 d4 d2 | e4 b2 a6 | f4 f2 e2 f2 a2 | d6 d4 z2 |
-e2 e2 f2 e4 d2 | B4 d2 e6 | f4 f2 a2 f2 e2 | d6 d4 z2 |
-b2 b2 a2 b4 b2 | a4 b2 a6 | f4 f2 e4 f2 | a6 a4 z2 |
-b2 b2 a2 f4 a2 | e4 a2 b6 | f3 f e2 f2 e2 B2 | d6 d4 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](iso_no_chidori.tmd)
-- [鋼琴伴奏 TMD 檔案](iso_no_chidori_piano.tmd)
+![P072.jpg](P072.jpg)
+
+

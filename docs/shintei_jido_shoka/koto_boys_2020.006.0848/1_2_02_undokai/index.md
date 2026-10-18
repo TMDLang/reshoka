@@ -27,11 +27,40 @@
 いざ／＼、競（きそ）はん、夕日（ゆふひ）西（にし）に入（い）るまで。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P048.jpg](P048.jpg)
+```abc
+X:1
+T:運動會
+C:曲：R. Wagner（ワグナー）
+M:2/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
+d4 b3 c | d2 b2 a2 g2 | e4 c3 a | f6 z2 |
+d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
+d4 b3 c | d4 b3 g | d4 a3 f | g6 z2 |
+!mf! d4 b3 g | e4 c4 | a4 f3 d | g6 z2 |
+c4 a3 f | e4 f4 | g4 b3 g | a6 z2 |
+!f! d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
+d4 b3 c | d4 b3 g | d4 a3 f | g6 z2 |
+!f! d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
+d4 b3 c | d2 b2 a2 g2 | e4 c3 a | f6 z2 |
+d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
+d4 b3 c | d4 b3 g | d4 a3 f | g6 z2 |
+!mf! d4 b3 g | e4 c4 | a4 f3 d | g6 z2 |
+c4 a3 f | e4 f4 | g4 b3 g | a6 z2 |
+!f! d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
+d4 b3 c | d4 b3 g | d4 a3 f | g6 z2 |
+```
 
-![P049.jpg](P049.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](undokai.tmd)
+- [鋼琴伴奏 TMD 檔案](undokai_piano.tmd)
 
 ## 分析
 
@@ -88,35 +117,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:運動會
-C:曲：R. Wagner（ワグナー）
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
-d4 b3 c | d2 b2 a2 g2 | e4 c3 a | f6 z2 |
-d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
-d4 b3 c | d4 b3 g | d4 a3 f | g6 z2 |
-!mf! d4 b3 g | e4 c4 | a4 f3 d | g6 z2 |
-c4 a3 f | e4 f4 | g4 b3 g | a6 z2 |
-!f! d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
-d4 b3 c | d4 b3 g | d4 a3 f | g6 z2 |
-!f! d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
-d4 b3 c | d2 b2 a2 g2 | e4 c3 a | f6 z2 |
-d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
-d4 b3 c | d4 b3 g | d4 a3 f | g6 z2 |
-!mf! d4 b3 g | e4 c4 | a4 f3 d | g6 z2 |
-c4 a3 f | e4 f4 | g4 b3 g | a6 z2 |
-!f! d4 g3 a | b6 z2 | d4 a3 b | c6 z2 |
-d4 b3 c | d4 b3 g | d4 a3 f | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](undokai.tmd)
-- [鋼琴伴奏 TMD 檔案](undokai_piano.tmd)
+![P048.jpg](P048.jpg)
+
+![P049.jpg](P049.jpg)
+
+

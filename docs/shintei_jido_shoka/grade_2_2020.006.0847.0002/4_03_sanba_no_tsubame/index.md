@@ -32,9 +32,27 @@
 チチチチチチチチチ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P055.jpg](P055.jpg)
+```abc
+X:1
+T:三バノツバメ
+C:曲：永井幸次
+M:4/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d4 g4 g4 a2 b2 | a8 d4 z4 | b6 d2 b4 g4 | a2 b2 a2 g2 d4 z4 |
+e2 e2 g4 d2 d2 e2 g2 | a2 a2 a2 b2 a4 z4 | b2 b2 d4 b2 d2 b2 a2 | g2 b2 a2 g2 d4 z4 |
+d2 d2 g2 g2 a4 b4 | a4 d4 g4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sanba_no_tsubame.tmd)
+- [鋼琴伴奏 TMD 檔案](sanba_no_tsubame_piano.tmd)
 
 ## 分析
 
@@ -90,22 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:三バノツバメ
-C:曲：永井幸次
-M:4/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 g4 g4 a2 b2 | a8 d4 z4 | b6 d2 b4 g4 | a2 b2 a2 g2 d4 z4 |
-e2 e2 g4 d2 d2 e2 g2 | a2 a2 a2 b2 a4 z4 | b2 b2 d4 b2 d2 b2 a2 | g2 b2 a2 g2 d4 z4 |
-d2 d2 g2 g2 a4 b4 | a4 d4 g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](sanba_no_tsubame.tmd)
-- [鋼琴伴奏 TMD 檔案](sanba_no_tsubame_piano.tmd)
+![P055.jpg](P055.jpg)
+
+

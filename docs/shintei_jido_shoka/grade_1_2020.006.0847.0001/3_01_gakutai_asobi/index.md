@@ -35,9 +35,32 @@
 トテチテター。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P040.jpg](P040.jpg)
+```abc
+X:1
+T:ガクタイアソビ
+C:曲：納所辨次郎
+M:2/4
+L:1/16
+Q:1/4=112
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 d f3 f | a2 a2 a2 a2 | b3 b b2 b2 | a6 z2 |
+d3 d a2 a2 | b2 b2 a2 f2 | e2 e2 f2 e2 | d6 z2 |
+a3 a a2 a2 | b2 b2 a4 | f3 f a2 f2 | e6 z2 |
+a3 a d2 d2 | c2 b2 a4 | f3 f e2 e2 | d6 z2 |
+d3 d f3 f | a2 a2 a2 a2 | b3 b b2 b2 | a6 z2 |
+d3 d a2 a2 | b2 b2 a2 f2 | e2 e2 f2 e2 | d6 z2 |
+a3 a a2 a2 | b2 b2 a4 | f3 f a2 f2 | e6 z2 |
+a3 a d2 d2 | c2 b2 a4 | f3 f e2 e2 | d6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gakutai_asobi.tmd)
+- [鋼琴伴奏 TMD 檔案](gakutai_asobi_piano.tmd)
 
 ## 分析
 
@@ -94,27 +117,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ガクタイアソビ
-C:曲：納所辨次郎
-M:2/4
-L:1/16
-Q:1/4=112
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 d f3 f | a2 a2 a2 a2 | b3 b b2 b2 | a6 z2 |
-d3 d a2 a2 | b2 b2 a2 f2 | e2 e2 f2 e2 | d6 z2 |
-a3 a a2 a2 | b2 b2 a4 | f3 f a2 f2 | e6 z2 |
-a3 a d2 d2 | c2 b2 a4 | f3 f e2 e2 | d6 z2 |
-d3 d f3 f | a2 a2 a2 a2 | b3 b b2 b2 | a6 z2 |
-d3 d a2 a2 | b2 b2 a2 f2 | e2 e2 f2 e2 | d6 z2 |
-a3 a a2 a2 | b2 b2 a4 | f3 f a2 f2 | e6 z2 |
-a3 a d2 d2 | c2 b2 a4 | f3 f e2 e2 | d6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gakutai_asobi.tmd)
-- [鋼琴伴奏 TMD 檔案](gakutai_asobi_piano.tmd)
+![P040.jpg](P040.jpg)
+
+

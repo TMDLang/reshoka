@@ -36,9 +36,29 @@
 土のむろや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P097.jpg](P097.jpg)
+```abc
+X:1
+T:護良親王
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=144
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! z4 z4 z4 c4 | c4 d2 e2 f4 c4 | g8 z4 g4 | a4 g2 f2 g4 c4 |
+g8 z4 c4 | c4 d2 e2 f4 c4 | g8 z4 g4 | c4 b2 c2 d4 =b4 |
+c8 z4 g4 | !f! c4 c4 d4 =b4 | c6 d2 e4 c4 | b4 g4 f4 e4 |
+g8 z4 g2 g2 | c6 __b2 a4 f4 | g6 a2 f4 =b4 | !pp! c8 z4 g4 |
+g6 a2 f4 d4 | c8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](morinaga_shinno.tmd)
+- [鋼琴伴奏 TMD 檔案](morinaga_shinno_piano.tmd)
 
 ## 分析
 
@@ -94,24 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:護良親王
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=144
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 z4 c4 | c4 d2 e2 f4 c4 | g8 z4 g4 | a4 g2 f2 g4 c4 |
-g8 z4 c4 | c4 d2 e2 f4 c4 | g8 z4 g4 | c4 b2 c2 d4 =b4 |
-c8 z4 g4 | !f! c4 c4 d4 =b4 | c6 d2 e4 c4 | b4 g4 f4 e4 |
-g8 z4 g2 g2 | c6 __b2 a4 f4 | g6 a2 f4 =b4 | !pp! c8 z4 g4 |
-g6 a2 f4 d4 | c8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](morinaga_shinno.tmd)
-- [鋼琴伴奏 TMD 檔案](morinaga_shinno_piano.tmd)
+![P097.jpg](P097.jpg)
+
+

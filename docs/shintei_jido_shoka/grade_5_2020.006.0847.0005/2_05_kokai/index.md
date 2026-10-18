@@ -28,9 +28,32 @@
 明（あ）けても暮れても水のみを友に
 ```
 
-## 原書掃描頁
+## ABC
 
-![P042.jpg](P042.jpg)
+```abc
+X:1
+T:航海
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c8 c4 | f8 f4 | g8 g4 | a8 f4 |
+a4 c4 c4 | d8 c4 | a8 g4 | f4 z4 c4 |
+f8 g4 | a8 b4 | c8 a4 | g8 a2 b2 |
+a8 g4 | f8 g4 | !f! a8 f4 | e8 c4 |
+d4 c4 a4 | c8 z4 | d8 e4 | f8 c4 |
+b4 a4 g4 | c8 z4 | a8 f4 | g8 c4 |
+b8 a4 | g8 f4 | e4 f4 g4 | a8 g4 |
+g4 f4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kokai.tmd)
+- [鋼琴伴奏 TMD 檔案](kokai_piano.tmd)
 
 ## 分析
 
@@ -86,27 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:航海
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c8 c4 | f8 f4 | g8 g4 | a8 f4 |
-a4 c4 c4 | d8 c4 | a8 g4 | f4 z4 c4 |
-f8 g4 | a8 b4 | c8 a4 | g8 a2 b2 |
-a8 g4 | f8 g4 | !f! a8 f4 | e8 c4 |
-d4 c4 a4 | c8 z4 | d8 e4 | f8 c4 |
-b4 a4 g4 | c8 z4 | a8 f4 | g8 c4 |
-b8 a4 | g8 f4 | e4 f4 g4 | a8 g4 |
-g4 f4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kokai.tmd)
-- [鋼琴伴奏 TMD 檔案](kokai_piano.tmd)
+![P042.jpg](P042.jpg)
+
+

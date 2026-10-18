@@ -28,9 +28,30 @@
 「年頃の親しさ重ねる、圓居なれ今日こそは。」復唱
 ```
 
-## 原書掃描頁
+## ABC
 
-![P104.jpg](P104.jpg)
+```abc
+X:1
+T:同窓會
+C:曲：モツアルト（獨）（Wolfgang Amadeus Mozart）
+M:4/4
+L:1/16
+Q:1/4=104
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z2 c2 c2 c2 | f4 f4 g2 a2 b2 g2 | a8 z2 a2 b2 c2 | d4 f4 c2 a2 b2 g2 |
+a2 f2 c4 z2 c2 d2 E2 | f6 g2 a2 b2 c2 d2 | c4 g4 z2 g2 a2 b2 | a4 f4 b2 a2 g2 f2 |
+!p! g4 f4 z2 a2 a2 a2 | c4 b4 g2 a2 b2 g2 | f8 z2 g2 g2 g2 | b4 a4 f2 g2 a2 f2 |
+!f! a2 g2 g4 z2 c2 c2 c2 | d2 E2 f2 g2 a2 b2 c2 d2 | c3 b a4 z2 d2 d2 d2 | c4 f4 b2 a2 g2 a2 |
+!f! f8 z2 c2 c2 c2 | d2 E2 f2 g2 a2 b2 c2 d2 | c3 b a4 z2 d2 d2 d2 | c4 f4 b2 a2 g2 a2 |
+f8 z4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](dosokai.tmd)
+- [鋼琴伴奏 TMD 檔案](dosokai_piano.tmd)
 
 ## 分析
 
@@ -86,25 +107,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:同窓會
-C:曲：モツアルト（獨）（Wolfgang Amadeus Mozart）
-M:4/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z2 c2 c2 c2 | f4 f4 g2 a2 b2 g2 | a8 z2 a2 b2 c2 | d4 f4 c2 a2 b2 g2 |
-a2 f2 c4 z2 c2 d2 E2 | f6 g2 a2 b2 c2 d2 | c4 g4 z2 g2 a2 b2 | a4 f4 b2 a2 g2 f2 |
-!p! g4 f4 z2 a2 a2 a2 | c4 b4 g2 a2 b2 g2 | f8 z2 g2 g2 g2 | b4 a4 f2 g2 a2 f2 |
-!f! a2 g2 g4 z2 c2 c2 c2 | d2 E2 f2 g2 a2 b2 c2 d2 | c3 b a4 z2 d2 d2 d2 | c4 f4 b2 a2 g2 a2 |
-!f! f8 z2 c2 c2 c2 | d2 E2 f2 g2 a2 b2 c2 d2 | c3 b a4 z2 d2 d2 d2 | c4 f4 b2 a2 g2 a2 |
-f8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](dosokai.tmd)
-- [鋼琴伴奏 TMD 檔案](dosokai_piano.tmd)
+![P104.jpg](P104.jpg)
+
+

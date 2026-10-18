@@ -25,9 +25,28 @@
 みつよつ、ふたつ螢火（ほたるび）や。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P042.jpg](P042.jpg)
+```abc
+X:1
+T:夏げしき
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=92
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f4 f3 e d4 f4 | a8 f8 | e4 e3 f a4 f4 | e12 z4 |
+f4 f3 e d4 f4 | a8 b8 | a4 b3 d a4 f4 | a12 z4 |
+d4 d3 b a4 b4 | a8 f4 z4 | e4 e3 f a4 b4 | a12 z4 |
+f4 a3 a b4 d3 b | a4 f4 d8 | e4 e3 a f4 e4 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](natsugeshiki.tmd)
+- [鋼琴伴奏 TMD 檔案](natsugeshiki_piano.tmd)
 
 ## 分析
 
@@ -83,23 +102,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:夏げしき
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f4 f3 e d4 f4 | a8 f8 | e4 e3 f a4 f4 | e12 z4 |
-f4 f3 e d4 f4 | a8 b8 | a4 b3 d a4 f4 | a12 z4 |
-d4 d3 b a4 b4 | a8 f4 z4 | e4 e3 f a4 b4 | a12 z4 |
-f4 a3 a b4 d3 b | a4 f4 d8 | e4 e3 a f4 e4 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](natsugeshiki.tmd)
-- [鋼琴伴奏 TMD 檔案](natsugeshiki_piano.tmd)
+![P042.jpg](P042.jpg)
+
+

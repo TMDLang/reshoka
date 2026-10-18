@@ -36,11 +36,38 @@
 忘（わす）れた唄も　おもひだす
 ```
 
-## 原書掃描頁
+## ABC
 
-![P078.jpg](P078.jpg)
+```abc
+X:1
+T:かなりや
+C:曲：成田爲三／詞：西條八十
+M:2/4
+L:1/16
+Q:1/4=80
+K:Am
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! A c d2 e2 d2 | A3 A A2 E2 | F2 E2 F2 A2 | E4 z4 |
+A2 A2 A2 c2 | d3 e d2 c2 | A2 c2 A2 e2 | d4 z4 |
+e2 e2 d2 e2 | c2 d2 c4 | A2 F2 E2 A2 | A4 z4 |
+A c d2 e2 d2 | A3 A A2 E2 | F2 E2 F2 A2 | E4 z4 |
+A2 A2 A2 c2 | d3 e d2 c2 | A2 c2 A2 e2 | d4 z4 |
+e2 e2 d2 e2 | c2 d2 c4 | A2 F2 E2 A2 | A4 z4 |
+A c d2 e2 d2 | A3 A A2 E2 | F2 E2 F2 A2 | E4 z4 |
+A2 A2 A2 c2 | d3 e d2 c2 | A2 c2 A2 e2 | d4 z4 |
+e2 e2 d2 e2 | c2 d2 c4 | c2 A2 F2 E2 | M:3/8 Q:1/8=240 D4 z2 |
+z6 | A c d2 e2 | A2 A2 E2 | F2 A2 d2 |
+e4 z2 | E F A2 A2 | F A d2 d2 | A A F2 E2 |
+D4 z2 | d2 e2 d2 | c2 A2 c2 | Q:1/8=200 A2 F2 A2 |
+Q:1/8=170 e4 z2 | Q:1/8=240 A2 A2 A2 | d c A2 c2 | A c F2 E2 |
+A4 z2 |
+```
 
-![P079.jpg](P079.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kanariya.tmd)
+- [鋼琴伴奏 TMD 檔案](kanariya_piano.tmd)
 
 ## 分析
 
@@ -96,33 +123,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:かなりや
-C:曲：成田爲三／詞：西條八十
-M:2/4
-L:1/16
-Q:1/4=80
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! A c d2 e2 d2 | A3 A A2 E2 | F2 E2 F2 A2 | E4 z4 |
-A2 A2 A2 c2 | d3 e d2 c2 | A2 c2 A2 e2 | d4 z4 |
-e2 e2 d2 e2 | c2 d2 c4 | A2 F2 E2 A2 | A4 z4 |
-A c d2 e2 d2 | A3 A A2 E2 | F2 E2 F2 A2 | E4 z4 |
-A2 A2 A2 c2 | d3 e d2 c2 | A2 c2 A2 e2 | d4 z4 |
-e2 e2 d2 e2 | c2 d2 c4 | A2 F2 E2 A2 | A4 z4 |
-A c d2 e2 d2 | A3 A A2 E2 | F2 E2 F2 A2 | E4 z4 |
-A2 A2 A2 c2 | d3 e d2 c2 | A2 c2 A2 e2 | d4 z4 |
-e2 e2 d2 e2 | c2 d2 c4 | c2 A2 F2 E2 | M:3/8 Q:1/8=240 D4 z2 |
-z6 | A c d2 e2 | A2 A2 E2 | F2 A2 d2 |
-e4 z2 | E F A2 A2 | F A d2 d2 | A A F2 E2 |
-D4 z2 | d2 e2 d2 | c2 A2 c2 | Q:1/8=200 A2 F2 A2 |
-Q:1/8=170 e4 z2 | Q:1/8=240 A2 A2 A2 | d c A2 c2 | A c F2 E2 |
-A4 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kanariya.tmd)
-- [鋼琴伴奏 TMD 檔案](kanariya_piano.tmd)
+![P078.jpg](P078.jpg)
+
+![P079.jpg](P079.jpg)
+
+

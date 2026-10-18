@@ -39,9 +39,28 @@
 嗚呼（あゝ）荒城の夜半の月
 ```
 
-## 原書掃描頁
+## ABC
 
-![P073.jpg](P073.jpg)
+```abc
+X:1
+T:荒城の月
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=76
+K:Bm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! f4 f4 b4 c4 | d4 c4 b8 | g4 g4 f4 e4 | f12 z4 |
+f4 f4 b4 c4 | d4 c4 b8 | g4 f4 e4 ^A4 | B12 z4 |
+f4 f4 b4 c4 | d4 c4 b8 | g4 g4 f4 e4 | f16 |
+f4 f4 b4 c4 | d4 c4 b8 | g4 f4 e4 c4 | B12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kojo_no_tsuki.tmd)
+- [鋼琴伴奏 TMD 檔案](kojo_no_tsuki_piano.tmd)
 
 ## 分析
 
@@ -97,23 +116,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:荒城の月
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=76
-K:Bm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! f4 f4 b4 c4 | d4 c4 b8 | g4 g4 f4 e4 | f12 z4 |
-f4 f4 b4 c4 | d4 c4 b8 | g4 f4 e4 ^A4 | B12 z4 |
-f4 f4 b4 c4 | d4 c4 b8 | g4 g4 f4 e4 | f16 |
-f4 f4 b4 c4 | d4 c4 b8 | g4 f4 e4 c4 | B12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kojo_no_tsuki.tmd)
-- [鋼琴伴奏 TMD 檔案](kojo_no_tsuki_piano.tmd)
+![P073.jpg](P073.jpg)
+
+

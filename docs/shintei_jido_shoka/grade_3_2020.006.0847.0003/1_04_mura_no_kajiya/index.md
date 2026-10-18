@@ -40,9 +40,28 @@
 つちうつひゞきに　まして高（たか）し
 ```
 
-## 原書掃描頁
+## ABC
 
-![P028.jpg](P028.jpg)
+```abc
+X:1
+T:村のかぢや
+C:曲：田村虎藏
+M:2/4
+L:1/16
+Q:1/4=84
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a2 c2 c2 c2 | f2 a2 a2 a2 | g2 c2 d2 c2 | f2 f g a2 z2 |
+a2 c2 c2 c2 | f2 a2 a2 a2 | g4 a2 g2 | g2 g a f2 z2 |
+e2 e f g2 e2 | f2 f g a2 f2 | c2 a2 c2 a2 | g f g a g2 z2 |
+a2 c2 c2 c2 | f2 a2 a2 a2 | g4 a2 g2 | g2 g a f2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mura_no_kajiya.tmd)
+- [鋼琴伴奏 TMD 檔案](mura_no_kajiya_piano.tmd)
 
 ## 分析
 
@@ -98,23 +117,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:村のかぢや
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a2 c2 c2 c2 | f2 a2 a2 a2 | g2 c2 d2 c2 | f2 f g a2 z2 |
-a2 c2 c2 c2 | f2 a2 a2 a2 | g4 a2 g2 | g2 g a f2 z2 |
-e2 e f g2 e2 | f2 f g a2 f2 | c2 a2 c2 a2 | g f g a g2 z2 |
-a2 c2 c2 c2 | f2 a2 a2 a2 | g4 a2 g2 | g2 g a f2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](mura_no_kajiya.tmd)
-- [鋼琴伴奏 TMD 檔案](mura_no_kajiya_piano.tmd)
+![P028.jpg](P028.jpg)
+
+

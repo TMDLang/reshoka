@@ -25,9 +25,28 @@
 見ゆるもたふと尊とき宮居
 ```
 
-## 原書掃描頁
+## ABC
 
-![P051.jpg](P051.jpg)
+```abc
+X:1
+T:伊勢神宮
+C:曲：ゲルスバハ（獨）
+M:4/4
+L:1/16
+Q:1/4=84
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z8 e4 g4 | f6 d2 e2 f2 g2 a2 | g4 e4 a4 g2 g2 | !mp! c6 b2 a2 g2 f2 e2 |
+!mf! d8 g4 g4 | a6 a2 b2 c2 d2 b2 | g4 ^f4 g4 e2 e2 | a4 g4 ^f4 a4 |
+!f! g8 c4 g4 | a4 e4 f4 d4 | e8 d4 g4 | c4 d4 e6 d2 |
+c8 z8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ise_jingu.tmd)
+- [鋼琴伴奏 TMD 檔案](ise_jingu_piano.tmd)
 
 ## 分析
 
@@ -83,23 +102,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:伊勢神宮
-C:曲：ゲルスバハ（獨）
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z8 e4 g4 | f6 d2 e2 f2 g2 a2 | g4 e4 a4 g2 g2 | !mp! c6 b2 a2 g2 f2 e2 |
-!mf! d8 g4 g4 | a6 a2 b2 c2 d2 b2 | g4 ^f4 g4 e2 e2 | a4 g4 ^f4 a4 |
-!f! g8 c4 g4 | a4 e4 f4 d4 | e8 d4 g4 | c4 d4 e6 d2 |
-c8 z8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ise_jingu.tmd)
-- [鋼琴伴奏 TMD 檔案](ise_jingu_piano.tmd)
+![P051.jpg](P051.jpg)
+
+

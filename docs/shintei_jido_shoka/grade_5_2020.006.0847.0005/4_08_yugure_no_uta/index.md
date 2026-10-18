@@ -32,9 +32,33 @@
 村雨小雨
 ```
 
-## 原書掃描頁
+## ABC
 
-![P065.jpg](P065.jpg)
+```abc
+X:1
+T:夕暮の唄
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=72
+K:Em
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b2 a2 f2 e10 | b2 a2 f2 e10 | e2 e2 f2 f2 g4 b4 | a4 g2 e2 B8 |
+e2 e2 f2 f2 g4 b4 | a4 g2 e2 B8 | e4 g4 f3 f e4 | f4 a4 e8 |
+b3 b a3 a g2 b2 f4 | e4 g2 f2 e8 | b2 a2 f2 e2 f3 f e2 f2 | g2 f2 e2 e10 |
+b2 a2 f2 e10 | b2 a2 f2 e10 | e2 e2 f2 f2 g4 b4 | a4 g2 e2 B8 |
+e2 e2 f2 f2 g4 b4 | a4 g2 e2 B8 | e4 g4 f3 f e4 | f4 a4 e8 |
+b3 b a3 a g2 b2 f4 | e4 g2 f2 e8 | b2 a2 f2 e2 f3 f e2 f2 | g2 f2 e2 e10 |
+z2 e2 e2 e2 f2 e2 f2 a2 | g2 g2 f2 e2 f2 f2 b4 | e2 e2 f2 f2 g2 f2 e2 B2 | e4 g4 f2 f2 e2 f2 |
+e2 e2 g2 g2 f2 a2 b4 | a4 g2 e2 g8 | a4 g2 e2 B8 | e6 e2 f4 a4 |
+g2 f2 e2 e10 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yugure_no_uta.tmd)
+- [鋼琴伴奏 TMD 檔案](yugure_no_uta_piano.tmd)
 
 ## 分析
 
@@ -90,28 +114,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:夕暮の唄
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=72
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b2 a2 f2 e10 | b2 a2 f2 e10 | e2 e2 f2 f2 g4 b4 | a4 g2 e2 B8 |
-e2 e2 f2 f2 g4 b4 | a4 g2 e2 B8 | e4 g4 f3 f e4 | f4 a4 e8 |
-b3 b a3 a g2 b2 f4 | e4 g2 f2 e8 | b2 a2 f2 e2 f3 f e2 f2 | g2 f2 e2 e10 |
-b2 a2 f2 e10 | b2 a2 f2 e10 | e2 e2 f2 f2 g4 b4 | a4 g2 e2 B8 |
-e2 e2 f2 f2 g4 b4 | a4 g2 e2 B8 | e4 g4 f3 f e4 | f4 a4 e8 |
-b3 b a3 a g2 b2 f4 | e4 g2 f2 e8 | b2 a2 f2 e2 f3 f e2 f2 | g2 f2 e2 e10 |
-z2 e2 e2 e2 f2 e2 f2 a2 | g2 g2 f2 e2 f2 f2 b4 | e2 e2 f2 f2 g2 f2 e2 B2 | e4 g4 f2 f2 e2 f2 |
-e2 e2 g2 g2 f2 a2 b4 | a4 g2 e2 g8 | a4 g2 e2 B8 | e6 e2 f4 a4 |
-g2 f2 e2 e10 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yugure_no_uta.tmd)
-- [鋼琴伴奏 TMD 檔案](yugure_no_uta_piano.tmd)
+![P065.jpg](P065.jpg)
+
+

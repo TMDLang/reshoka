@@ -39,11 +39,28 @@
 たまにきんじよへおつかひに。
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:ながいお休（長假）
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a6 a2 a4 a4 | d6 c2 b4 b4 | a6 b2 a4 f4 | d4 e4 f8 |
+d6 e2 d4 d4 | a6 g2 f4 e4 | d6 e2 f4 g4 | a12 z4 |
+c3 c d3 d b3 b a3 a | f3 f a3 f d3 d d2 z2 | d6 e2 f4 g4 | a6 b2 d4 b4 |
+a4 d4 e6 c2 | d12 z4 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nagaioyasumi.tmd)
+- [鋼琴伴奏 TMD 檔案](nagaioyasumi_piano.tmd)
 
 ## 分析
 
@@ -101,23 +118,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:ながいお休（長假）
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a6 a2 a4 a4 | d6 c2 b4 b4 | a6 b2 a4 f4 | d4 e4 f8 |
-d6 e2 d4 d4 | a6 g2 f4 e4 | d6 e2 f4 g4 | a12 z4 |
-c3 c d3 d b3 b a3 a | f3 f a3 f d3 d d2 z2 | d6 e2 f4 g4 | a6 b2 d4 b4 |
-a4 d4 e6 c2 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nagaioyasumi.tmd)
-- [鋼琴伴奏 TMD 檔案](nagaioyasumi_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+

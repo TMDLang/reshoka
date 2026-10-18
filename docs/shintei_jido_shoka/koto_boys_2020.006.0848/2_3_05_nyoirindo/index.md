@@ -26,9 +26,29 @@
 とこしへ朽ちせぬ　最後の譽
 ```
 
-## 原書掃描頁
+## ABC
 
-![P112.jpg](P112.jpg)
+```abc
+X:1
+T:如意輪堂
+C:曲：田村虎藏
+M:3/4
+L:1/16
+Q:1/4=84
+K:Am
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! E4 A6 A2 | B6 A2 B4 | !mp! c8 B2 A2 | c6 B2 A4 |
+e8 e2 d2 | c4 B2 A2 ^G4 | A4 B4 c2 A2 | B6 E2 E4 |
+!mf! c6 B2 A2 A2 | d6 c2 B2 A2 | ^G4 A4 B2 c2 | !f! d6 f2 e4 |
+!mp! E4 A2 A2 B4 | c6 B2 A2 ^G2 | A2 B2 c4 d4 | !mf! e8 B4 |
+A12 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nyoirindo.tmd)
+- [鋼琴伴奏 TMD 檔案](nyoirindo_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:如意輪堂
-C:曲：田村虎藏
-M:3/4
-L:1/16
-Q:1/4=84
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! E4 A6 A2 | B6 A2 B4 | !mp! c8 B2 A2 | c6 B2 A4 |
-e8 e2 d2 | c4 B2 A2 ^G4 | A4 B4 c2 A2 | B6 E2 E4 |
-!mf! c6 B2 A2 A2 | d6 c2 B2 A2 | ^G4 A4 B2 c2 | !f! d6 f2 e4 |
-!mp! E4 A2 A2 B4 | c6 B2 A2 ^G2 | A2 B2 c4 d4 | !mf! e8 B4 |
-A12 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nyoirindo.tmd)
-- [鋼琴伴奏 TMD 檔案](nyoirindo_piano.tmd)
+![P112.jpg](P112.jpg)
+
+

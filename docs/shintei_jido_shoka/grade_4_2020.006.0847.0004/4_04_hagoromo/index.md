@@ -32,9 +32,27 @@
 霞の下（した）に消えて行く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P061.jpg](P061.jpg)
+```abc
+X:1
+T:羽衣
+C:曲：梁田貞
+M:4/4
+L:1/16
+Q:1/4=76
+K:Cm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g2 a2 g4 f2 e2 d2 c2 | d2 e2 f2 d2 g8 | z2 g2 a2 g2 c2 d c a g f2 | e4 d2 c2 g4 g4 |
+z2 c2 g2 g2 g3 a g2 f2 | z2 c2 f2 f2 g4 g4 | z2 g2 a2 g2 c2 d c g2 a2 | z2 c2 d2 c2 g4 c4 |
+g2 f2 e2 c2 d c g2 a g f2 | e2 d2 c2 f2 g4 g4 | c2 g2 a2 g2 f2 g2 a g f2 | e2 g2 d3 e c4 c4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hagoromo.tmd)
+- [鋼琴伴奏 TMD 檔案](hagoromo_piano.tmd)
 
 ## 分析
 
@@ -90,22 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:羽衣
-C:曲：梁田貞
-M:4/4
-L:1/16
-Q:1/4=76
-K:Cm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g2 a2 g4 f2 e2 d2 c2 | d2 e2 f2 d2 g8 | z2 g2 a2 g2 c2 d c a g f2 | e4 d2 c2 g4 g4 |
-z2 c2 g2 g2 g3 a g2 f2 | z2 c2 f2 f2 g4 g4 | z2 g2 a2 g2 c2 d c g2 a2 | z2 c2 d2 c2 g4 c4 |
-g2 f2 e2 c2 d c g2 a g f2 | e2 d2 c2 f2 g4 g4 | c2 g2 a2 g2 f2 g2 a g f2 | e2 g2 d3 e c4 c4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hagoromo.tmd)
-- [鋼琴伴奏 TMD 檔案](hagoromo_piano.tmd)
+![P061.jpg](P061.jpg)
+
+

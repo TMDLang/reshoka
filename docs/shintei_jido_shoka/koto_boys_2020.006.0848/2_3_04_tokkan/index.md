@@ -22,11 +22,31 @@
 高く揚ぐる時は今ぞ　突貫突貫進めや國のため
 ```
 
-## 原書掃描頁
+## ABC
 
-![P110.jpg](P110.jpg)
+```abc
+X:1
+T:突貫
+C:曲：リール（佛）（Lisle，佛國國歌）
+M:4/4
+L:1/16
+Q:1/4=116
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! z4 z4 z2 d2 d3 d | g4 g4 a4 a4 | d6 b2 g3 g b3 g | e4 c8 a3 f |
+!mf! g8 z4 g3 a | b6 b2 b4 c3 b | b4 a4 z4 a3 b | c6 c2 c4 d3 c |
+!f! b8 z4 d3 d | d4 b3 g d4 b3 g | !mf! d8 z d d d g4 | b4 d3 b g2 a2 b2 g2 |
+a6 a2 c4 b3 a | !p! g8 z4 z2 g2 | _b6 b2 b2 b2 c2 d2 | a12 _b3 a |
+g6 _b2 a3 g b3 a | !f! g4 f4 z4 z2 d2 | d10 b2 g3 a | b8 z4 z2 d2 |
+d10 b2 g3 a | a8 z4 d4 | g8 z4 a4 | b12 z4 |
+c8 d4 e4 | !ff! a12 f4 | g10 e2 c3 a | g8 z4 z4 |
+```
 
-![P111.jpg](P111.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tokkan.tmd)
+- [鋼琴伴奏 TMD 檔案](tokkan_piano.tmd)
 
 ## 分析
 
@@ -82,26 +102,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:突貫
-C:曲：リール（佛）（Lisle，佛國國歌）
-M:4/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z2 d2 d3 d | g4 g4 a4 a4 | d6 b2 g3 g b3 g | e4 c8 a3 f |
-!mf! g8 z4 g3 a | b6 b2 b4 c3 b | b4 a4 z4 a3 b | c6 c2 c4 d3 c |
-!f! b8 z4 d3 d | d4 b3 g d4 b3 g | !mf! d8 z d d d g4 | b4 d3 b g2 a2 b2 g2 |
-a6 a2 c4 b3 a | !p! g8 z4 z2 g2 | _b6 b2 b2 b2 c2 d2 | a12 _b3 a |
-g6 _b2 a3 g b3 a | !f! g4 f4 z4 z2 d2 | d10 b2 g3 a | b8 z4 z2 d2 |
-d10 b2 g3 a | a8 z4 d4 | g8 z4 a4 | b12 z4 |
-c8 d4 e4 | !ff! a12 f4 | g10 e2 c3 a | g8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tokkan.tmd)
-- [鋼琴伴奏 TMD 檔案](tokkan_piano.tmd)
+![P110.jpg](P110.jpg)
+
+![P111.jpg](P111.jpg)
+
+

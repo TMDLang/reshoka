@@ -37,11 +37,28 @@
 天によのはしよ、たまのはし。
 ```
 
-## 原書掃描頁
+## ABC
 
-![image.jpeg](image.jpeg)
+```abc
+X:1
+T:にじ（彩虹）
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=72
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+e2 f2 g3 a | g6 z2 | e2 g2 c3 d | c6 z2 |
+a4 g2 a2 | c2 c2 g2 g2 | e2 f2 g3 a | g6 z2 |
+e2 e2 d2 e2 | a2 a2 g4 | d2 d2 e2 c2 | d6 z2 |
+e3 e c2 d2 | e2 e2 c4 | g2 c2 d3 b | c6 z2 |
+```
 
-![image2.jpeg](image2.jpeg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](niji.tmd)
+- [鋼琴伴奏 TMD 檔案](niji_piano.tmd)
 
 ## 分析
 
@@ -97,23 +114,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:にじ（彩虹）
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=72
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e2 f2 g3 a | g6 z2 | e2 g2 c3 d | c6 z2 |
-a4 g2 a2 | c2 c2 g2 g2 | e2 f2 g3 a | g6 z2 |
-e2 e2 d2 e2 | a2 a2 g4 | d2 d2 e2 c2 | d6 z2 |
-e3 e c2 d2 | e2 e2 c4 | g2 c2 d3 b | c6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](niji.tmd)
-- [鋼琴伴奏 TMD 檔案](niji_piano.tmd)
+![image.jpeg](image.jpeg)
+
+![image2.jpeg](image2.jpeg)
+
+

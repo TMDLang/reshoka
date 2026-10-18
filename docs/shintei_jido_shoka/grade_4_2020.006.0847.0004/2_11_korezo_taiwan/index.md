@@ -40,9 +40,27 @@
 護（まも）れるもの　これぞ臺灣
 ```
 
-## 原書掃描頁
+## ABC
 
-![P047.jpg](P047.jpg)
+```abc
+X:1
+T:これぞ臺灣
+C:曲：中山常雄
+M:3/4
+L:1/16
+Q:1/4=100
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 e g4 g4 | a3 g e4 g4 | e3 g a4 b4 | d3 e d4 z4 |
+b3 c d4 b4 | a3 b d4 e4 | g3 a g4 d4 | g3 b a4 z4 |
+b3 a g4 a4 | e3 a g8 | g3 a b4 d2 b2 | g8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](korezo_taiwan.tmd)
+- [鋼琴伴奏 TMD 檔案](korezo_taiwan_piano.tmd)
 
 ## 分析
 
@@ -98,22 +116,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:これぞ臺灣
-C:曲：中山常雄
-M:3/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 e g4 g4 | a3 g e4 g4 | e3 g a4 b4 | d3 e d4 z4 |
-b3 c d4 b4 | a3 b d4 e4 | g3 a g4 d4 | g3 b a4 z4 |
-b3 a g4 a4 | e3 a g8 | g3 a b4 d2 b2 | g8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](korezo_taiwan.tmd)
-- [鋼琴伴奏 TMD 檔案](korezo_taiwan_piano.tmd)
+![P047.jpg](P047.jpg)
+
+

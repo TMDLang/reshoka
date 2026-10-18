@@ -36,11 +36,28 @@
 仰（あふ）ぎ奉（まつ）らん　大帝（おほみかど）
 ```
 
-## 原書掃描頁
+## ABC
 
-![P010.jpg](P010.jpg)
+```abc
+X:1
+T:明治節
+C:曲：杉江秀
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+A6 B2 d4 e4 | f6 b2 a4 f4 | b6 a2 f4 d4 | e8 d8 |
+e6 f2 e4 d4 | e6 b2 a4 b4 | a6 b2 a4 ^g4 | a12 z4 |
+e6 e2 g4 e4 | f6 a2 b4 b4 | b6 c2 b4 g4 | a8 f4 a4 |
+d8 b4 a4 | f6 a2 e4 f4 | f8 a6 a2 | d12 z4 |
+```
 
-![P011.jpg](P011.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](meijisetsu.tmd)
+- [鋼琴伴奏 TMD 檔案](meijisetsu_piano.tmd)
 
 ## 分析
 
@@ -96,23 +113,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:明治節
-C:曲：杉江秀
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A6 B2 d4 e4 | f6 b2 a4 f4 | b6 a2 f4 d4 | e8 d8 |
-e6 f2 e4 d4 | e6 b2 a4 b4 | a6 b2 a4 ^g4 | a12 z4 |
-e6 e2 g4 e4 | f6 a2 b4 b4 | b6 c2 b4 g4 | a8 f4 a4 |
-d8 b4 a4 | f6 a2 e4 f4 | f8 a6 a2 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](meijisetsu.tmd)
-- [鋼琴伴奏 TMD 檔案](meijisetsu_piano.tmd)
+![P010.jpg](P010.jpg)
+
+![P011.jpg](P011.jpg)
+
+

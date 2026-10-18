@@ -28,11 +28,30 @@
 汀の鷗にさきがけて
 ```
 
-## 原書掃描頁
+## ABC
 
-![P084.jpg](P084.jpg)
+```abc
+X:1
+T:海水浴
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 e4 | c6 b2 c3 b a2 b2 | a8 f4 f4 | f6 g2 c2 b2 a2 f2 |
+e8 z4 e4 | e6 c2 a3 g b2 ^a2 | b8 b4 b4 | b2 e2 c3 b a4 g4 |
+e8 z4 e4 | f4 g4 a4 f4 | e8 a4 a4 | g4 b4 a4 c4 |
+b8 z4 e2 e2 | e4 d4 c4 b4 | a6 g2 f4 d2 b2 | a8 g8 |
+f8 z4 e2 e2 | c4 d4 c4 b4 | a6 g2 f4 d2 b2 | e8 g8 |
+a8 z4 z4 |
+```
 
-![P085.jpg](P085.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kaisuiyoku.tmd)
+- [鋼琴伴奏 TMD 檔案](kaisuiyoku_piano.tmd)
 
 ## 分析
 
@@ -88,25 +107,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:海水浴
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 e4 | c6 b2 c3 b a2 b2 | a8 f4 f4 | f6 g2 c2 b2 a2 f2 |
-e8 z4 e4 | e6 c2 a3 g b2 ^a2 | b8 b4 b4 | b2 e2 c3 b a4 g4 |
-e8 z4 e4 | f4 g4 a4 f4 | e8 a4 a4 | g4 b4 a4 c4 |
-b8 z4 e2 e2 | e4 d4 c4 b4 | a6 g2 f4 d2 b2 | a8 g8 |
-f8 z4 e2 e2 | c4 d4 c4 b4 | a6 g2 f4 d2 b2 | e8 g8 |
-a8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kaisuiyoku.tmd)
-- [鋼琴伴奏 TMD 檔案](kaisuiyoku_piano.tmd)
+![P084.jpg](P084.jpg)
+
+![P085.jpg](P085.jpg)
+
+

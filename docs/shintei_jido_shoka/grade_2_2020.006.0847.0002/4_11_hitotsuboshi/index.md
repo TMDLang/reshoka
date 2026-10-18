@@ -26,9 +26,27 @@
 アカイヒヨツケ　ミサキヲメグル　レメグル
 ```
 
-## 原書掃描頁
+## ABC
 
-![P064.jpg](P064.jpg)
+```abc
+X:1
+T:一ツボシ
+C:曲：室崎琴月
+M:2/4
+L:1/16
+Q:1/4=88
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b4 f2 g2 | f2 d2 c b c2 | d2 g2 f2 d2 | f2 f2 f2 z2 |
+g4 f2 b2 | c' d' e'2 d'2 c'2 | b f g2 c'4 | b2 b2 b2 z2 |
+e2 f2 g2 a2 | b6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hitotsuboshi.tmd)
+- [鋼琴伴奏 TMD 檔案](hitotsuboshi_piano.tmd)
 
 ## 分析
 
@@ -83,22 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:一ツボシ
-C:曲：室崎琴月
-M:2/4
-L:1/16
-Q:1/4=88
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b4 f2 g2 | f2 d2 c b c2 | d2 g2 f2 d2 | f2 f2 f2 z2 |
-g4 f2 b2 | c' d' e'2 d'2 c'2 | b f g2 c'4 | b2 b2 b2 z2 |
-e2 f2 g2 a2 | b6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hitotsuboshi.tmd)
-- [鋼琴伴奏 TMD 檔案](hitotsuboshi_piano.tmd)
+![P064.jpg](P064.jpg)
+
+

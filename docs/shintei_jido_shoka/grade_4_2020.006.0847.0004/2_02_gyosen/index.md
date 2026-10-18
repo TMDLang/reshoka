@@ -34,9 +34,28 @@
 それ漕げ漕げよや　艪拍子早（はや）めて
 ```
 
-## 原書掃描頁
+## ABC
 
-![P036.jpg](P036.jpg)
+```abc
+X:1
+T:漁船
+C:曲：文部省
+M:2/4
+L:1/16
+Q:1/4=76
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a2 a2 b2 a2 | f2 a2 b2 a2 | d2 e2 d2 b2 | a2 b2 a2 z2 |
+b2 b2 a2 b2 | d2 b2 a2 f2 | a2 a2 b2 d2 | e2 d2 e2 z2 |
+e2 b2 d2 b2 | a2 b2 a2 z2 | f2 a2 b2 a2 | f2 e2 d2 z2 |
+a2 b2 d2 b2 | a2 b2 d2 b2 | a2 a2 f2 a2 | b2 e2 d2 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gyosen.tmd)
+- [鋼琴伴奏 TMD 檔案](gyosen_piano.tmd)
 
 ## 分析
 
@@ -92,23 +111,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:漁船
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=76
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a2 a2 b2 a2 | f2 a2 b2 a2 | d2 e2 d2 b2 | a2 b2 a2 z2 |
-b2 b2 a2 b2 | d2 b2 a2 f2 | a2 a2 b2 d2 | e2 d2 e2 z2 |
-e2 b2 d2 b2 | a2 b2 a2 z2 | f2 a2 b2 a2 | f2 e2 d2 z2 |
-a2 b2 d2 b2 | a2 b2 d2 b2 | a2 a2 f2 a2 | b2 e2 d2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](gyosen.tmd)
-- [鋼琴伴奏 TMD 檔案](gyosen_piano.tmd)
+![P036.jpg](P036.jpg)
+
+

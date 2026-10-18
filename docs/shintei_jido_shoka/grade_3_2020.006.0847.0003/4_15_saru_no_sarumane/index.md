@@ -27,11 +27,34 @@ Key: C major (?= C), 2/4 (<2/4>), 面白ク Quarter = 108 (!= 108)
 猿の猿眞似　子猿の子眞似
 ```
 
-## 原書掃描頁
+## ABC
 
-![P076.jpg](P076.jpg)
+```abc
+X:1
+T:猿の猿眞似
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=108
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 c2 a2 | g2 g a g2 e2 | g2 g a g2 e2 | g2 g2 g2 z2 |
+e4 g2 e2 | d2 d e d2 c2 | d2 d e d2 c2 | d2 d2 d2 z2 |
+z2 g2 g2 g2 | c2 c2 a2 g2 | e2 e2 d2 c2 | a2 a2 a2 z2 |
+z2 e2 e2 e2 | a2 a2 g2 e2 | c2 c2 a2 g2 | e2 e2 e2 z2 |
+g4 e2 g2 | a2 a2 g2 a2 | c2 c2 a2 d2 | c2 c2 c2 z2 |
+g4 c2 a2 | g2 g a g2 e2 | g2 g a g2 e2 | g2 g2 g2 z2 |
+e4 g2 e2 | d2 d e d2 c2 | d2 d e d2 c2 | d2 d2 d2 z2 |
+z2 g2 g2 g2 | c2 c2 a2 g2 | e2 e2 d2 c2 | a2 a2 a2 z2 |
+z2 e2 e2 e2 | a2 a2 g2 e2 | c2 c2 a2 g2 | e2 e2 e2 z2 |
+g4 e2 g2 | a2 a2 g2 a2 | c2 c2 a2 d2 | c2 c2 c2 z2 |
+```
 
-![P077.jpg](P077.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](saru_no_sarumane.tmd)
+- [鋼琴伴奏 TMD 檔案](saru_no_sarumane_piano.tmd)
 
 ## 分析
 
@@ -88,29 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:猿の猿眞似
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 c2 a2 | g2 g a g2 e2 | g2 g a g2 e2 | g2 g2 g2 z2 |
-e4 g2 e2 | d2 d e d2 c2 | d2 d e d2 c2 | d2 d2 d2 z2 |
-z2 g2 g2 g2 | c2 c2 a2 g2 | e2 e2 d2 c2 | a2 a2 a2 z2 |
-z2 e2 e2 e2 | a2 a2 g2 e2 | c2 c2 a2 g2 | e2 e2 e2 z2 |
-g4 e2 g2 | a2 a2 g2 a2 | c2 c2 a2 d2 | c2 c2 c2 z2 |
-g4 c2 a2 | g2 g a g2 e2 | g2 g a g2 e2 | g2 g2 g2 z2 |
-e4 g2 e2 | d2 d e d2 c2 | d2 d e d2 c2 | d2 d2 d2 z2 |
-z2 g2 g2 g2 | c2 c2 a2 g2 | e2 e2 d2 c2 | a2 a2 a2 z2 |
-z2 e2 e2 e2 | a2 a2 g2 e2 | c2 c2 a2 g2 | e2 e2 e2 z2 |
-g4 e2 g2 | a2 a2 g2 a2 | c2 c2 a2 d2 | c2 c2 c2 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](saru_no_sarumane.tmd)
-- [鋼琴伴奏 TMD 檔案](saru_no_sarumane_piano.tmd)
+![P076.jpg](P076.jpg)
+
+![P077.jpg](P077.jpg)
+
+

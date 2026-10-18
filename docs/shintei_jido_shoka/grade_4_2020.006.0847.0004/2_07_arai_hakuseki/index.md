@@ -34,9 +34,27 @@
 あゝ大丈夫（だいぢょうふ）　大丈夫
 ```
 
-## 原書掃描頁
+## ABC
 
-![P042.jpg](P042.jpg)
+```abc
+X:1
+T:新井白石
+C:曲：田村虎藏
+M:4/4
+L:1/16
+Q:1/4=104
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a2 a2 a2 g2 f2 f2 d2 f2 | c2 d2 f2 d2 c6 z2 | f2 f2 f2 g2 a2 a2 g2 a2 | c2 d2 c2 a2 g6 z2 |
+!f! c4 c4 c4 d2 c2 | a4 c4 c8 | g4 a2 g2 f4 g2 a2 | g8 c4 z4 |
+!mf! f2 g2 a2 f2 g2 g2 a2 c2 | d2 f2 a2 g2 f6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](arai_hakuseki.tmd)
+- [鋼琴伴奏 TMD 檔案](arai_hakuseki_piano.tmd)
 
 ## 分析
 
@@ -92,22 +110,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:新井白石
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a2 a2 a2 g2 f2 f2 d2 f2 | c2 d2 f2 d2 c6 z2 | f2 f2 f2 g2 a2 a2 g2 a2 | c2 d2 c2 a2 g6 z2 |
-!f! c4 c4 c4 d2 c2 | a4 c4 c8 | g4 a2 g2 f4 g2 a2 | g8 c4 z4 |
-!mf! f2 g2 a2 f2 g2 g2 a2 c2 | d2 f2 a2 g2 f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](arai_hakuseki.tmd)
-- [鋼琴伴奏 TMD 檔案](arai_hakuseki_piano.tmd)
+![P042.jpg](P042.jpg)
+
+

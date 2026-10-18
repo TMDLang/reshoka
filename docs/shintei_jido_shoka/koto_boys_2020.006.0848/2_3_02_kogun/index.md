@@ -34,11 +34,28 @@
 あはれ／＼、我（わ）が兵士（へいし）。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P106.jpg](P106.jpg)
+```abc
+X:1
+T:行軍
+C:曲：シューマン（獨）（Schumann）
+M:4/4
+L:1/16
+Q:1/4=104
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! b4 b2 b2 a4 a4 | g4 a2 b2 c2 a2 b2 g2 | f2 g2 a2 f2 g4 b4 | d4 a6 b2 g2 d2 |
+e6 g2 f2 d2 g4 | a6 c2 b2 g2 a2 b2 | c6 a2 d2 c2 b4 | a4 b4 c3 a f2 d2 |
+e6 g2 f4 a4 | d2 c2 b4 a4 d4 | g6 b2 a2 c2 b4 | d4 c2 b2 a4 g4 |
+e6 f2 g3 a b4 | a4 d4 b2 g2 d3 d | g6 a2 b2 c4 b2 | a4 d3 d g8 |
+```
 
-![P107.jpg](P107.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kogun.tmd)
+- [鋼琴伴奏 TMD 檔案](kogun_piano.tmd)
 
 ## 分析
 
@@ -94,23 +111,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:行軍
-C:曲：シューマン（獨）（Schumann）
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! b4 b2 b2 a4 a4 | g4 a2 b2 c2 a2 b2 g2 | f2 g2 a2 f2 g4 b4 | d4 a6 b2 g2 d2 |
-e6 g2 f2 d2 g4 | a6 c2 b2 g2 a2 b2 | c6 a2 d2 c2 b4 | a4 b4 c3 a f2 d2 |
-e6 g2 f4 a4 | d2 c2 b4 a4 d4 | g6 b2 a2 c2 b4 | d4 c2 b2 a4 g4 |
-e6 f2 g3 a b4 | a4 d4 b2 g2 d3 d | g6 a2 b2 c4 b2 | a4 d3 d g8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kogun.tmd)
-- [鋼琴伴奏 TMD 檔案](kogun_piano.tmd)
+![P106.jpg](P106.jpg)
+
+![P107.jpg](P107.jpg)
+
+

@@ -29,9 +29,28 @@
 世（よ）にぞ貴（たふ）とき。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P069.jpg](P069.jpg)
+```abc
+X:1
+T:常磐木
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=100
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z4 d4 | g3 g g4 a4 | b3 b b6 b2 | a2 b2 c4 f4 |
+a4 g4 z2 d2 | d3 b e6 d2 | d2 c2 c6 c2 | c3 a d6 c2 |
+c2 b2 b4 d4 | g3 g g4 a4 | b3 b b6 b2 | a2 b2 c4 f4 |
+a4 g4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tokiwagi.tmd)
+- [鋼琴伴奏 TMD 檔案](tokiwagi_piano.tmd)
 
 ## 分析
 
@@ -87,23 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:常磐木
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 d4 | g3 g g4 a4 | b3 b b6 b2 | a2 b2 c4 f4 |
-a4 g4 z2 d2 | d3 b e6 d2 | d2 c2 c6 c2 | c3 a d6 c2 |
-c2 b2 b4 d4 | g3 g g4 a4 | b3 b b6 b2 | a2 b2 c4 f4 |
-a4 g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tokiwagi.tmd)
-- [鋼琴伴奏 TMD 檔案](tokiwagi_piano.tmd)
+![P069.jpg](P069.jpg)
+
+

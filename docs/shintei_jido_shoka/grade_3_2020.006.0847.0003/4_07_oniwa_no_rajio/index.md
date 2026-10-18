@@ -26,11 +26,35 @@
 クリームなめなめ　ドレミファソ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P066.jpg](P066.jpg)
+```abc
+X:1
+T:お庭のラヂオ
+C:曲：草川信
+M:2/4
+L:1/16
+Q:1/4=116
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+Q:1/4=116 c2 z2 c2 z2 | c2 z2 c2 z2 | c2 d2 e2 f2 | c2 d2 e2 f2 |
+g6 z2 | g2 g2 g2 a2 | g2 g2 e2 c2 | d2 e2 d2 d2 |
+c6 z2 | c2 c2 a2 a2 | g2 g2 e2 d2 | c2 d2 e2 f2 |
+g6 z2 | Q:1/4=100 g2 a g e4 | g2 a a g2 z2 | e2 f e d c d2 |
+e6 z2 | g2 a g e4 | g2 a a g2 z2 | e2 f e d e d2 |
+c6 z2 | c2 a g c2 z2 | a2 c a c g z2 | e2 e2 g a c a |
+g6 z2 | g2 a g e4 | g2 a a g2 z2 | e2 f e d e d2 |
+c6 z2 | Q:1/4=116 c2 z2 c2 z2 | c2 z2 c2 z2 | c2 d2 e2 f2 |
+c2 d2 e2 f2 | g6 z2 | g2 g2 g2 a2 | g2 g2 e2 c2 |
+d2 e2 d2 d2 | c6 z2 | c2 c2 a2 a2 | g2 g2 e2 d2 |
+c2 d2 e2 f2 | g6 z2 |
+```
 
-![P067.jpg](P067.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](oniwa_no_rajio.tmd)
+- [鋼琴伴奏 TMD 檔案](oniwa_no_rajio_piano.tmd)
 
 ## 分析
 
@@ -88,30 +112,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:お庭のラヂオ
-C:曲：草川信
-M:2/4
-L:1/16
-Q:1/4=116
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-Q:1/4=116 c2 z2 c2 z2 | c2 z2 c2 z2 | c2 d2 e2 f2 | c2 d2 e2 f2 |
-g6 z2 | g2 g2 g2 a2 | g2 g2 e2 c2 | d2 e2 d2 d2 |
-c6 z2 | c2 c2 a2 a2 | g2 g2 e2 d2 | c2 d2 e2 f2 |
-g6 z2 | Q:1/4=100 g2 a g e4 | g2 a a g2 z2 | e2 f e d c d2 |
-e6 z2 | g2 a g e4 | g2 a a g2 z2 | e2 f e d e d2 |
-c6 z2 | c2 a g c2 z2 | a2 c a c g z2 | e2 e2 g a c a |
-g6 z2 | g2 a g e4 | g2 a a g2 z2 | e2 f e d e d2 |
-c6 z2 | Q:1/4=116 c2 z2 c2 z2 | c2 z2 c2 z2 | c2 d2 e2 f2 |
-c2 d2 e2 f2 | g6 z2 | g2 g2 g2 a2 | g2 g2 e2 c2 |
-d2 e2 d2 d2 | c6 z2 | c2 c2 a2 a2 | g2 g2 e2 d2 |
-c2 d2 e2 f2 | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](oniwa_no_rajio.tmd)
-- [鋼琴伴奏 TMD 檔案](oniwa_no_rajio_piano.tmd)
+![P066.jpg](P066.jpg)
+
+![P067.jpg](P067.jpg)
+
+

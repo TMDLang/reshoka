@@ -26,11 +26,29 @@
 侘（わび）しきふしの　あるにもあらで　故郷（こきやう）の空（そら）ながめらる
 ```
 
-## 原書掃描頁
+## ABC
 
-![P086.jpg](P086.jpg)
+```abc
+X:1
+T:故郷の空
+C:曲：ルート（G. F. Root，米國）
+M:4/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 g3 g | g3 e d3 c c4 b3 a | g3 a g3 e g4 g3 g | g3 e d3 c c3 b a3 b |
+c12 d3 d | d3 g b3 d d4 c3 b | c3 g e3 d c4 b3 c | d3 d d3 g b3 c d3 b |
+c12 z4 | c4 c4 c3 b a3 g | a12 c4 | b4 b4 b3 a b3 c |
+d8 z4 g3 g | g3 e d3 c c4 b3 a | g6 e2 g3 a g3 g | g3 e d3 c b3 c d3 b |
+c8 z4 z4 |
+```
 
-![P087.jpg](P087.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kokyo_no_sora.tmd)
+- [鋼琴伴奏 TMD 檔案](kokyo_no_sora_piano.tmd)
 
 ## 分析
 
@@ -86,24 +104,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:故郷の空
-C:曲：ルート（G. F. Root，米國）
-M:4/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 g3 g | g3 e d3 c c4 b3 a | g3 a g3 e g4 g3 g | g3 e d3 c c3 b a3 b |
-c12 d3 d | d3 g b3 d d4 c3 b | c3 g e3 d c4 b3 c | d3 d d3 g b3 c d3 b |
-c12 z4 | c4 c4 c3 b a3 g | a12 c4 | b4 b4 b3 a b3 c |
-d8 z4 g3 g | g3 e d3 c c4 b3 a | g6 e2 g3 a g3 g | g3 e d3 c b3 c d3 b |
-c8 z4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kokyo_no_sora.tmd)
-- [鋼琴伴奏 TMD 檔案](kokyo_no_sora_piano.tmd)
+![P086.jpg](P086.jpg)
+
+![P087.jpg](P087.jpg)
+
+

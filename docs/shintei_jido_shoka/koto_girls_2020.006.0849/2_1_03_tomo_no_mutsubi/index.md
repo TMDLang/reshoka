@@ -31,9 +31,28 @@
 友あらば憂ひなし
 ```
 
-## 原書掃描頁
+## ABC
 
-![P080.jpg](P080.jpg)
+```abc
+X:1
+T:友の睦び
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=92
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 f2 f2 | d6 A2 A2 d2 b3 a | a6 f2 g2 e2 d3 f | e4 e2 e2 f4 g4 |
+f4 e2 e2 d4 a2 a2 | a4 b2 d2 a4 f3 a | a2 f2 g2 e2 f4 f3 f | d4 f2 f2 e4 e2 f2 |
+g2 b2 a2 g2 f4 f2 f2 | d6 A2 A2 d2 b3 a | a6 f2 g2 e2 d3 f | e4 e2 e2 f4 g4 |
+f4 e2 e2 d4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tomo_no_mutsubi.tmd)
+- [鋼琴伴奏 TMD 檔案](tomo_no_mutsubi_piano.tmd)
 
 ## 分析
 
@@ -89,23 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:友の睦び
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 f2 f2 | d6 A2 A2 d2 b3 a | a6 f2 g2 e2 d3 f | e4 e2 e2 f4 g4 |
-f4 e2 e2 d4 a2 a2 | a4 b2 d2 a4 f3 a | a2 f2 g2 e2 f4 f3 f | d4 f2 f2 e4 e2 f2 |
-g2 b2 a2 g2 f4 f2 f2 | d6 A2 A2 d2 b3 a | a6 f2 g2 e2 d3 f | e4 e2 e2 f4 g4 |
-f4 e2 e2 d4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tomo_no_mutsubi.tmd)
-- [鋼琴伴奏 TMD 檔案](tomo_no_mutsubi_piano.tmd)
+![P080.jpg](P080.jpg)
+
+

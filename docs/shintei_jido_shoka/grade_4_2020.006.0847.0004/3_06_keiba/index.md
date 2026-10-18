@@ -31,11 +31,29 @@
 先を爭（あらそ）ひ　驀（ましぐ）らに
 ```
 
-## 原書掃描頁
+## ABC
 
-![P054.jpg](P054.jpg)
+```abc
+X:1
+T:競馬
+C:曲：小松耕輔
+M:4/4
+L:1/16
+Q:1/4=120
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! g6 d2 g4 d4 | g4 a4 b4 g4 | c6 c2 b3 a g4 | a4 b4 c4 a4 |
+d6 d2 b8 | d6 d2 b4 z4 | d6 d2 g4 d4 | g4 a4 b4 d4 |
+c6 a2 d3 c b4 | a4 b4 c4 e4 | d6 d2 b8 | d6 d2 b4 z4 |
+c6 c2 c4 a4 | g4 g4 g4 B4 | d6 e2 f4 a4 | g4 b4 d4 z4 |
+e8 d4 b4 | c4 b4 a4 g4 | e4 e4 f4 f4 | g12 z4 |
+```
 
-![P055.jpg](P055.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](keiba.tmd)
+- [鋼琴伴奏 TMD 檔案](keiba_piano.tmd)
 
 ## 分析
 
@@ -91,24 +109,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:競馬
-C:曲：小松耕輔
-M:4/4
-L:1/16
-Q:1/4=120
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! g6 d2 g4 d4 | g4 a4 b4 g4 | c6 c2 b3 a g4 | a4 b4 c4 a4 |
-d6 d2 b8 | d6 d2 b4 z4 | d6 d2 g4 d4 | g4 a4 b4 d4 |
-c6 a2 d3 c b4 | a4 b4 c4 e4 | d6 d2 b8 | d6 d2 b4 z4 |
-c6 c2 c4 a4 | g4 g4 g4 B4 | d6 e2 f4 a4 | g4 b4 d4 z4 |
-e8 d4 b4 | c4 b4 a4 g4 | e4 e4 f4 f4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](keiba.tmd)
-- [鋼琴伴奏 TMD 檔案](keiba_piano.tmd)
+![P054.jpg](P054.jpg)
+
+![P055.jpg](P055.jpg)
+
+

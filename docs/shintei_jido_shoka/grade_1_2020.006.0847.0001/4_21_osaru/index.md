@@ -26,9 +26,29 @@
 キヤツ　キヤツ　キヤ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P071.jpg](P071.jpg)
+```abc
+X:1
+T:オサル
+C:曲：梁田貞
+M:2/4
+L:1/16
+Q:1/4=108
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g2 a g g2 z2 | g2 a g g2 z2 | e2 z2 d2 z2 | g6 z2 |
+a2 c d c2 z2 | a2 c d c2 z2 | a2 z2 g2 z2 | e6 z2 |
+g2 g2 g2 g2 | g2 c2 g4 | e2 e e e2 e2 | e2 g2 d4 |
+g2 a g g2 z2 | g2 a g g2 z2 | e2 z2 d2 z2 | g6 z2 |
+a2 c d c2 z2 | a2 c d c2 z2 | a2 z2 g2 z2 | c6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](osaru.tmd)
+- [鋼琴伴奏 TMD 檔案](osaru_piano.tmd)
 
 ## 分析
 
@@ -84,24 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:オサル
-C:曲：梁田貞
-M:2/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g2 a g g2 z2 | g2 a g g2 z2 | e2 z2 d2 z2 | g6 z2 |
-a2 c d c2 z2 | a2 c d c2 z2 | a2 z2 g2 z2 | e6 z2 |
-g2 g2 g2 g2 | g2 c2 g4 | e2 e e e2 e2 | e2 g2 d4 |
-g2 a g g2 z2 | g2 a g g2 z2 | e2 z2 d2 z2 | g6 z2 |
-a2 c d c2 z2 | a2 c d c2 z2 | a2 z2 g2 z2 | c6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](osaru.tmd)
-- [鋼琴伴奏 TMD 檔案](osaru_piano.tmd)
+![P071.jpg](P071.jpg)
+
+

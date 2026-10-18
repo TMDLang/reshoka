@@ -29,9 +29,28 @@
 いざ試（こゝろ）みん身の力
 ```
 
-## 原書掃描頁
+## ABC
 
-![P053.jpg](P053.jpg)
+```abc
+X:1
+T:忍耐
+C:曲：文部省
+M:4/4
+L:1/16
+Q:1/4=84
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g6 g2 e2 g2 a2 c2 | c6 d2 c8 | d6 e2 f2 e2 f2 g2 | e12 z4 |
+g6 g2 e2 g2 a2 c2 | c6 d2 c8 | d6 g2 g2 e2 f2 a2 | g12 z4 |
+d8 b4 d4 | c3 d c2 a2 g8 | f6 f2 e2 g2 c2 a2 | g6 f2 d4 z4 |
+c8 e8 | f2 g2 a3 b c8 | g2 e2 g2 a2 d6 d2 | c12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nintai.tmd)
+- [鋼琴伴奏 TMD 檔案](nintai_piano.tmd)
 
 ## 分析
 
@@ -87,23 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:忍耐
-C:曲：文部省
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g6 g2 e2 g2 a2 c2 | c6 d2 c8 | d6 e2 f2 e2 f2 g2 | e12 z4 |
-g6 g2 e2 g2 a2 c2 | c6 d2 c8 | d6 g2 g2 e2 f2 a2 | g12 z4 |
-d8 b4 d4 | c3 d c2 a2 g8 | f6 f2 e2 g2 c2 a2 | g6 f2 d4 z4 |
-c8 e8 | f2 g2 a3 b c8 | g2 e2 g2 a2 d6 d2 | c12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](nintai.tmd)
-- [鋼琴伴奏 TMD 檔案](nintai_piano.tmd)
+![P053.jpg](P053.jpg)
+
+

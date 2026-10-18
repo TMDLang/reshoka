@@ -31,11 +31,30 @@
 消えつ見えつ涼しや
 ```
 
-## 原書掃描頁
+## ABC
 
-![P034.jpg](P034.jpg)
+```abc
+X:1
+T:納涼
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=92
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z8 z6 e2 | a6 a2 b4 c4 | a8 e4 z2 e2 | f6 a2 b4 a4 |
+c8 b4 z2 e2 | a6 a2 b4 c4 | a8 e4 z2 e2 | f6 f2 b4 c4 |
+b8 a4 z2 e2 | !p! !mf! f6 f2 f2 z2 b4 | g6 e2 e4 z2 e2 | !p! c6 b2 b2 z2 c4 |
+a4 f4 e4 z2 e2 | !mf! a6 b2 c4 e4 | a8 b4 z2 b2 | c6 e2 c4 a4 |
+b12 z2 e2 | a6 a2 b4 c4 | b4 e8 c4 | b8 g8 |
+a12 z4 |
+```
 
-![P035.jpg](P035.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](noryo.tmd)
+- [鋼琴伴奏 TMD 檔案](noryo_piano.tmd)
 
 ## 分析
 
@@ -91,25 +110,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:納涼
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=92
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z8 z6 e2 | a6 a2 b4 c4 | a8 e4 z2 e2 | f6 a2 b4 a4 |
-c8 b4 z2 e2 | a6 a2 b4 c4 | a8 e4 z2 e2 | f6 f2 b4 c4 |
-b8 a4 z2 e2 | !p! !mf! f6 f2 f2 z2 b4 | g6 e2 e4 z2 e2 | !p! c6 b2 b2 z2 c4 |
-a4 f4 e4 z2 e2 | !mf! a6 b2 c4 e4 | a8 b4 z2 b2 | c6 e2 c4 a4 |
-b12 z2 e2 | a6 a2 b4 c4 | b4 e8 c4 | b8 g8 |
-a12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](noryo.tmd)
-- [鋼琴伴奏 TMD 檔案](noryo_piano.tmd)
+![P034.jpg](P034.jpg)
+
+![P035.jpg](P035.jpg)
+
+

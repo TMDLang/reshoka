@@ -24,9 +24,28 @@
 巖（いはほ）も枯木（かれき）も花ぞ咲く
 ```
 
-## 原書掃描頁
+## ABC
 
-![P060.jpg](P060.jpg)
+```abc
+X:1
+T:妙義山
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=92
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g3 g e4 g4 | a2 g2 e4 d4 | c3 d e6 g2 | e8 z4 |
+a3 a g4 e4 | g3 a g4 e4 | d3 e g6 a2 | g8 z4 |
+e3 e d4 c4 | d2 e2 d4 G4 | c3 d e4 a4 | g8 z4 |
+a3 a g4 e4 | g3 a g4 e4 | d3 e d4 e4 | c8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](myogisan.tmd)
+- [鋼琴伴奏 TMD 檔案](myogisan_piano.tmd)
 
 ## 分析
 
@@ -82,23 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:妙義山
-C:TMD (Chen, Chih-Han / aguai)
-M:3/4
-L:1/16
-Q:1/4=92
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g3 g e4 g4 | a2 g2 e4 d4 | c3 d e6 g2 | e8 z4 |
-a3 a g4 e4 | g3 a g4 e4 | d3 e g6 a2 | g8 z4 |
-e3 e d4 c4 | d2 e2 d4 G4 | c3 d e4 a4 | g8 z4 |
-a3 a g4 e4 | g3 a g4 e4 | d3 e d4 e4 | c8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](myogisan.tmd)
-- [鋼琴伴奏 TMD 檔案](myogisan_piano.tmd)
+![P060.jpg](P060.jpg)
+
+

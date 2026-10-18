@@ -27,9 +27,29 @@
 惠みを祈れる腕（かひな）痩せぬ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P106.jpg](P106.jpg)
+```abc
+X:1
+T:可憐の少女
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=48
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! z2 z2 z2 z2 z2 E2 | A4 B2 c4 d2 | e2 d2 c2 B2 A2 B2 | c4 B2 A2 B2 c2 |
+B6 E4 E2 | A4 B2 c4 d2 | e2 d2 c2 B2 A2 B2 | c4 B2 A4 B2 |
+A6 A4 z2 | !mf! e2 f2 e2 d4 B2 | c4 A2 e4 e2 | d2 c2 B2 c2 d2 e2 |
+A6 A4 z2 | !mp! c2 B2 A2 G4 A2 | B4 c2 d4 B2 | c2 B2 A2 ^G2 A2 B2 |
+A6 A4 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](karen_no_shojo.tmd)
+- [鋼琴伴奏 TMD 檔案](karen_no_shojo_piano.tmd)
 
 ## 分析
 
@@ -85,24 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:可憐の少女
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=48
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z2 z2 z2 z2 z2 E2 | A4 B2 c4 d2 | e2 d2 c2 B2 A2 B2 | c4 B2 A2 B2 c2 |
-B6 E4 E2 | A4 B2 c4 d2 | e2 d2 c2 B2 A2 B2 | c4 B2 A4 B2 |
-A6 A4 z2 | !mf! e2 f2 e2 d4 B2 | c4 A2 e4 e2 | d2 c2 B2 c2 d2 e2 |
-A6 A4 z2 | !mp! c2 B2 A2 G4 A2 | B4 c2 d4 B2 | c2 B2 A2 ^G2 A2 B2 |
-A6 A4 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](karen_no_shojo.tmd)
-- [鋼琴伴奏 TMD 檔案](karen_no_shojo_piano.tmd)
+![P106.jpg](P106.jpg)
+
+

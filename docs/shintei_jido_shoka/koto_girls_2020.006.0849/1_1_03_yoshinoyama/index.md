@@ -30,11 +30,42 @@
 松（まつ）ふるく　風（かぜ）かなし
 ```
 
-## 原書掃描頁
+## ABC
 
-![P038.jpg](P038.jpg)
+```abc
+X:1
+T:吉野山
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=92
+K:Dm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! d8 d4 d4 | g6 a2 g4 f4 | d4 d4 c6 d2 | d12 z4 |
+f4 f4 d4 f4 | c8 a4 c4 | g4 g4 f6 g2 | a12 z4 |
+c8 d4 c4 | a4 a4 g4 f4 | g4 g4 f6 g2 | a12 z4 |
+d4 d4 c4 d4 | f8 g4 a4 | d4 d4 g6 a2 | g12 z4 |
+M:2/4 d6 d2 | g6 a2 | c4 a4 | g4 f4 |
+d4 c4 | z4 d2 d2 | g6 a2 | g4 f4 |
+g4 a4 | c8 | d8 | !mf! d8 |
+d4 d4 | g6 a2 | g4 f4 | d4 d4 |
+c6 d2 | d8- | d4 z4 | f4 f4 |
+d4 f4 | c8 | a4 c4 | g4 g4 |
+f6 g2 | a8- | a4 z4 | c8 |
+d4 c4 | a4 a4 | g4 f4 | g4 g4 |
+f6 g2 | a8- | a4 z4 | d4 d4 |
+c4 d4 | f8 | g4 a4 | d4 d4 |
+g6 a2 | g8- | g4 z4 | d6 d2 |
+g6 a2 | c4 a4 | g4 f4 | d4 c4 |
+z4 d2 d2 | g6 a2 | g4 f4 | g4 a4 |
+c8 | d8 |
+```
 
-![P039.jpg](P039.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yoshinoyama.tmd)
+- [鋼琴伴奏 TMD 檔案](yoshinoyama_piano.tmd)
 
 ## 分析
 
@@ -93,37 +124,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:吉野山
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=92
-K:Dm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! d8 d4 d4 | g6 a2 g4 f4 | d4 d4 c6 d2 | d12 z4 |
-f4 f4 d4 f4 | c8 a4 c4 | g4 g4 f6 g2 | a12 z4 |
-c8 d4 c4 | a4 a4 g4 f4 | g4 g4 f6 g2 | a12 z4 |
-d4 d4 c4 d4 | f8 g4 a4 | d4 d4 g6 a2 | g12 z4 |
-M:2/4 d6 d2 | g6 a2 | c4 a4 | g4 f4 |
-d4 c4 | z4 d2 d2 | g6 a2 | g4 f4 |
-g4 a4 | c8 | d8 | !mf! d8 |
-d4 d4 | g6 a2 | g4 f4 | d4 d4 |
-c6 d2 | d8- | d4 z4 | f4 f4 |
-d4 f4 | c8 | a4 c4 | g4 g4 |
-f6 g2 | a8- | a4 z4 | c8 |
-d4 c4 | a4 a4 | g4 f4 | g4 g4 |
-f6 g2 | a8- | a4 z4 | d4 d4 |
-c4 d4 | f8 | g4 a4 | d4 d4 |
-g6 a2 | g8- | g4 z4 | d6 d2 |
-g6 a2 | c4 a4 | g4 f4 | d4 c4 |
-z4 d2 d2 | g6 a2 | g4 f4 | g4 a4 |
-c8 | d8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yoshinoyama.tmd)
-- [鋼琴伴奏 TMD 檔案](yoshinoyama_piano.tmd)
+![P038.jpg](P038.jpg)
+
+![P039.jpg](P039.jpg)
+
+

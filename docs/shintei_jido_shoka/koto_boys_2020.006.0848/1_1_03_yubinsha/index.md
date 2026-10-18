@@ -28,9 +28,29 @@
 長閑（のど）けき春（はる）を、よそにして。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P038.jpg](P038.jpg)
+```abc
+X:1
+T:郵便車
+C:曲：獨國風曲
+M:2/4
+L:1/16
+Q:1/4=104
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! g2 g2 f2 g2 | a2 f2 d4 | g2 b2 d4 | a2 b2 a4 |
+g2 g2 f2 g2 | a2 f2 d4 | g2 b2 d2 a2 | g4 z4 |
+!mf! a2 a2 b2 a2 | g2 b2 d4 | a2 a2 g2 ^c2 | d2 a2 f4 |
+d2 f2 a2 c2 | b2 d2 g4 | !mp! e2 c2 a4 | d2 b2 g4 |
+!mf! d2 f2 a2 c2 | b2 d2 g4 | !mp! e2 c2 a2 d2 | g4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yubinsha.tmd)
+- [鋼琴伴奏 TMD 檔案](yubinsha_piano.tmd)
 
 ## 分析
 
@@ -86,24 +106,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:郵便車
-C:曲：獨國風曲
-M:2/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! g2 g2 f2 g2 | a2 f2 d4 | g2 b2 d4 | a2 b2 a4 |
-g2 g2 f2 g2 | a2 f2 d4 | g2 b2 d2 a2 | g4 z4 |
-!mf! a2 a2 b2 a2 | g2 b2 d4 | a2 a2 g2 ^c2 | d2 a2 f4 |
-d2 f2 a2 c2 | b2 d2 g4 | !mp! e2 c2 a4 | d2 b2 g4 |
-!mf! d2 f2 a2 c2 | b2 d2 g4 | !mp! e2 c2 a2 d2 | g4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yubinsha.tmd)
-- [鋼琴伴奏 TMD 檔案](yubinsha_piano.tmd)
+![P038.jpg](P038.jpg)
+
+

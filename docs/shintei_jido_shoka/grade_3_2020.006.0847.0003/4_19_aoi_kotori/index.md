@@ -22,9 +22,29 @@ Key: G minor (relative major ?= Bb), 4/4 (<4/4>), Quarter = 96 (!= 96)
 かはいいこゑで　チッ　チッ　チッ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P084.jpg](P084.jpg)
+```abc
+X:1
+T:青い小鳥
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=96
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d8 e4 d4 | g4 b4 a4 g4 | e4 e4 e4 g4 | d4 d4 d4 z4 |
+d8 e4 d4 | g4 b4 a4 g4 | d4 z4 g4 z4 | a12 z4 |
+b8 a4 a4 | g8 e4 d4 | c4 c4 c4 e4 | d12 z4 |
+g4 g4 a4 a4 | b8 a4 a4 | d4 d4 b4 g4 | a12 z4 |
+d4 e4 d4 b4 | a4 g4 e4 d4 | b4 z4 a4 z4 | g12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](aoi_kotori.tmd)
+- [鋼琴伴奏 TMD 檔案](aoi_kotori_piano.tmd)
 
 ## 分析
 
@@ -80,24 +100,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:青い小鳥
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d8 e4 d4 | g4 b4 a4 g4 | e4 e4 e4 g4 | d4 d4 d4 z4 |
-d8 e4 d4 | g4 b4 a4 g4 | d4 z4 g4 z4 | a12 z4 |
-b8 a4 a4 | g8 e4 d4 | c4 c4 c4 e4 | d12 z4 |
-g4 g4 a4 a4 | b8 a4 a4 | d4 d4 b4 g4 | a12 z4 |
-d4 e4 d4 b4 | a4 g4 e4 d4 | b4 z4 a4 z4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](aoi_kotori.tmd)
-- [鋼琴伴奏 TMD 檔案](aoi_kotori_piano.tmd)
+![P084.jpg](P084.jpg)
+
+

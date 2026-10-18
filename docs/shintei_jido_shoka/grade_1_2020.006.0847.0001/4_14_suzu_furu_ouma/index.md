@@ -26,9 +26,29 @@
 クリゲノーオウーマーガ　ウラヤマシーナ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P063.jpg](P063.jpg)
+```abc
+X:1
+T:スズフルオウマ
+C:曲：山本壽
+M:2/4
+L:1/16
+Q:1/4=108
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a2 e e f2 e2 | a2 e e f2 e2 | c2 e2 f2 a b | c2 c e c b a2 |
+b2 a b c2 b a | f2 f2 e2 z2 | c2 e2 f2 a b | c2 c e c b a2 |
+b2 a b c2 b2 | a6 z2 | a2 e e f2 e2 | a2 e e f2 e2 |
+c2 e2 f2 a b | c2 c e c b a2 | b2 a b c2 b a | f2 f2 e2 z2 |
+c2 e2 f2 a b | c2 c e c b a2 | b2 a b c2 b2 | a6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](suzu_furu_ouma.tmd)
+- [鋼琴伴奏 TMD 檔案](suzu_furu_ouma_piano.tmd)
 
 ## 分析
 
@@ -85,24 +105,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:スズフルオウマ
-C:曲：山本壽
-M:2/4
-L:1/16
-Q:1/4=108
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a2 e e f2 e2 | a2 e e f2 e2 | c2 e2 f2 a b | c2 c e c b a2 |
-b2 a b c2 b a | f2 f2 e2 z2 | c2 e2 f2 a b | c2 c e c b a2 |
-b2 a b c2 b2 | a6 z2 | a2 e e f2 e2 | a2 e e f2 e2 |
-c2 e2 f2 a b | c2 c e c b a2 | b2 a b c2 b a | f2 f2 e2 z2 |
-c2 e2 f2 a b | c2 c e c b a2 | b2 a b c2 b2 | a6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](suzu_furu_ouma.tmd)
-- [鋼琴伴奏 TMD 檔案](suzu_furu_ouma_piano.tmd)
+![P063.jpg](P063.jpg)
+
+

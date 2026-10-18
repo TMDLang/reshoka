@@ -48,11 +48,29 @@
 誰が消すのか　虹の橋
 ```
 
-## 原書掃描頁
+## ABC
 
-![P050.jpg](P050.jpg)
+```abc
+X:1
+T:にじ（彩虹）
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=88
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b6 g2 b4 g4 | e6 f2 g8 | f6 f2 e4 f2 g2 | b12 z4 |
+c6 b2 e4 c4 | b6 c2 b4 g4 | f6 f2 f2 b2 g2 f2 | e12 z4 |
+f6 f2 e4 f4 | g6 g2 b8 | c6 c2 b2 e2 d2 c2 | b12 z4 |
+c6 c2 b4 g4 | b6 b2 g4 e4 | f6 f2 e2 f2 g2 a2 | b12 z4 |
+e6 d2 c4 b4 | c6 b2 g4 e4 | f6 f2 b4 B4 | e12 z4 |
+```
 
-![P051.jpg](P051.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](niji.tmd)
+- [鋼琴伴奏 TMD 檔案](niji_piano.tmd)
 
 ## 分析
 
@@ -108,24 +126,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:にじ（彩虹）
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=88
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b6 g2 b4 g4 | e6 f2 g8 | f6 f2 e4 f2 g2 | b12 z4 |
-c6 b2 e4 c4 | b6 c2 b4 g4 | f6 f2 f2 b2 g2 f2 | e12 z4 |
-f6 f2 e4 f4 | g6 g2 b8 | c6 c2 b2 e2 d2 c2 | b12 z4 |
-c6 c2 b4 g4 | b6 b2 g4 e4 | f6 f2 e2 f2 g2 a2 | b12 z4 |
-e6 d2 c4 b4 | c6 b2 g4 e4 | f6 f2 b4 B4 | e12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](niji.tmd)
-- [鋼琴伴奏 TMD 檔案](niji_piano.tmd)
+![P050.jpg](P050.jpg)
+
+![P051.jpg](P051.jpg)
+
+

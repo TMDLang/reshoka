@@ -28,11 +28,31 @@
 廣く世界に輝（かゞや）かせ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P066.jpg](P066.jpg)
+```abc
+X:1
+T:進め矢玉
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c4 e3 g c2 g2 e2 g2 | c2 g2 e3 g c8 | a2 a2 g3 a g3 e d2 e2 | g2 g2 e3 c d8 |
+e3 e g3 g a2 a2 g3 e | c3 c d3 d e4 g4 | a2 a2 g2 a2 c2 a2 g2 e2 | g2 e2 d3 c c8 |
+b6 b2 d6 b2 | a4 a4 g4 a4 | g6 e2 g2 e2 a2 c2 | b12 z4 |
+b6 b2 d6 b2 | a4 a4 g4 a4 | g6 g2 c2 g2 e2 c2 | d12 z4 |
+c4 e3 g c2 c2 b2 a2 | d2 d2 b2 g2 c8 | c2 c2 g3 g a3 a g3 e | g2 g2 e3 c d8 |
+g3 g a2 g2 e3 g c3 e | d2 d2 e3 d c8 | a2 a2 g2 a2 g2 e2 d2 e2 | g2 g2 e2 c2 d4 c4 |
+g6 g2 c2 g2 a2 c2 | d4 c4 e6 e2 | d4 b4 c8 |
+```
 
-![P067.jpg](P067.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](susume_yadama.tmd)
+- [鋼琴伴奏 TMD 檔案](susume_yadama_piano.tmd)
 
 ## 分析
 
@@ -88,26 +108,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:進め矢玉
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 e3 g c2 g2 e2 g2 | c2 g2 e3 g c8 | a2 a2 g3 a g3 e d2 e2 | g2 g2 e3 c d8 |
-e3 e g3 g a2 a2 g3 e | c3 c d3 d e4 g4 | a2 a2 g2 a2 c2 a2 g2 e2 | g2 e2 d3 c c8 |
-b6 b2 d6 b2 | a4 a4 g4 a4 | g6 e2 g2 e2 a2 c2 | b12 z4 |
-b6 b2 d6 b2 | a4 a4 g4 a4 | g6 g2 c2 g2 e2 c2 | d12 z4 |
-c4 e3 g c2 c2 b2 a2 | d2 d2 b2 g2 c8 | c2 c2 g3 g a3 a g3 e | g2 g2 e3 c d8 |
-g3 g a2 g2 e3 g c3 e | d2 d2 e3 d c8 | a2 a2 g2 a2 g2 e2 d2 e2 | g2 g2 e2 c2 d4 c4 |
-g6 g2 c2 g2 a2 c2 | d4 c4 e6 e2 | d4 b4 c8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](susume_yadama.tmd)
-- [鋼琴伴奏 TMD 檔案](susume_yadama_piano.tmd)
+![P066.jpg](P066.jpg)
+
+![P067.jpg](P067.jpg)
+
+

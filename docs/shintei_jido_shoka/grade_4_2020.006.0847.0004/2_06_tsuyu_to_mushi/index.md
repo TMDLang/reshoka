@@ -30,9 +30,30 @@
 きらきらきらと露が散る
 ```
 
-## 原書掃描頁
+## ABC
 
-![P041.jpg](P041.jpg)
+```abc
+X:1
+T:つゆと虫
+C:TMD (Chen, Chih-Han / aguai)
+M:6/8
+L:1/16
+Q:3/8=64
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+b4 b2 c4 c2 | b10 z2 | b4 b2 g4 b2 | f10 z2 |
+g4 g2 b4 b2 | c4 c2 b6 | g4 b2 c4 b2 | f10 z2 |
+g2 b2 z2 g2 b2 z2 | c4 c2 b6 | g4 g2 f4 f2 | e10 z2 |
+b4 b2 c4 c2 | b4 b2 b4 z2 | b4 b2 g4 b2 | f10 z2 |
+g4 g2 b4 b2 | c4 c2 b6 | g4 b2 c4 b2 | f10 z2 |
+g2 b2 z2 g2 b2 z2 | c4 c2 b6 | g4 b2 f4 g2 | e10 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tsuyu_to_mushi.tmd)
+- [鋼琴伴奏 TMD 檔案](tsuyu_to_mushi_piano.tmd)
 
 ## 分析
 
@@ -88,25 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:つゆと虫
-C:TMD (Chen, Chih-Han / aguai)
-M:6/8
-L:1/16
-Q:3/8=64
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-b4 b2 c4 c2 | b10 z2 | b4 b2 g4 b2 | f10 z2 |
-g4 g2 b4 b2 | c4 c2 b6 | g4 b2 c4 b2 | f10 z2 |
-g2 b2 z2 g2 b2 z2 | c4 c2 b6 | g4 g2 f4 f2 | e10 z2 |
-b4 b2 c4 c2 | b4 b2 b4 z2 | b4 b2 g4 b2 | f10 z2 |
-g4 g2 b4 b2 | c4 c2 b6 | g4 b2 c4 b2 | f10 z2 |
-g2 b2 z2 g2 b2 z2 | c4 c2 b6 | g4 b2 f4 g2 | e10 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tsuyu_to_mushi.tmd)
-- [鋼琴伴奏 TMD 檔案](tsuyu_to_mushi_piano.tmd)
+![P041.jpg](P041.jpg)
+
+

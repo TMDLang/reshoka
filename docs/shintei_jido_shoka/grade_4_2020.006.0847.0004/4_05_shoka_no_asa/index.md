@@ -27,9 +27,28 @@
 けしきぞ　ゆかしき
 ```
 
-## 原書掃描頁
+## ABC
 
-![P062.jpg](P062.jpg)
+```abc
+X:1
+T:初夏の朝
+C:曲：佐々木英
+M:3/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+g4 a4 b4 | c6 b2 a4 | g4 a4 f4 | e8 z4 |
+g4 c4 d4 | e6 d2 c4 | d4 c4 b4 | c8 z4 |
+d4 e4 f4 | e6 g2 g4 | d4 e4 f4 | g8 z4 |
+g4 c4 d4 | e6 d2 c4 | d4 c4 b4 | c8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shoka_no_asa.tmd)
+- [鋼琴伴奏 TMD 檔案](shoka_no_asa_piano.tmd)
 
 ## 分析
 
@@ -85,23 +104,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:初夏の朝
-C:曲：佐々木英
-M:3/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-g4 a4 b4 | c6 b2 a4 | g4 a4 f4 | e8 z4 |
-g4 c4 d4 | e6 d2 c4 | d4 c4 b4 | c8 z4 |
-d4 e4 f4 | e6 g2 g4 | d4 e4 f4 | g8 z4 |
-g4 c4 d4 | e6 d2 c4 | d4 c4 b4 | c8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](shoka_no_asa.tmd)
-- [鋼琴伴奏 TMD 檔案](shoka_no_asa_piano.tmd)
+![P062.jpg](P062.jpg)
+
+

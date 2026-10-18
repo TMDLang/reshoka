@@ -38,11 +38,29 @@
 萬歳　船人（ふなびと）　萬々歳
 ```
 
-## 原書掃描頁
+## ABC
 
-![P050.jpg](P050.jpg)
+```abc
+X:1
+T:捕鯨船
+C:TMD (Chen, Chih-Han / aguai)
+M:4/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d6 B2 d4 g4 | a6 b2 a4 g4 | e6 d2 e4 g4 | d12 z4 |
+d6 B2 d4 e4 | g6 e2 g4 a4 | b4 g4 d8 | a12 z4 |
+d6 d2 e4 d4 | g4 g2 e2 d2 B2 d4 | e6 e2 d4 e4 | g4 a4 g4 z4 |
+g6 g2 b4 g4 | g6 g2 b4 g4 | d2 d2 e2 e2 d2 B2 d2 e2 | g4 e4 d8 |
+d6 B2 d4 e4 | g6 a2 g4 e4 | g4 b4 a4 e4 | g12 z4 |
+```
 
-![P051.jpg](P051.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hogeisen.tmd)
+- [鋼琴伴奏 TMD 檔案](hogeisen_piano.tmd)
 
 ## 分析
 
@@ -98,24 +116,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:捕鯨船
-C:TMD (Chen, Chih-Han / aguai)
-M:4/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d6 B2 d4 g4 | a6 b2 a4 g4 | e6 d2 e4 g4 | d12 z4 |
-d6 B2 d4 e4 | g6 e2 g4 a4 | b4 g4 d8 | a12 z4 |
-d6 d2 e4 d4 | g4 g2 e2 d2 B2 d4 | e6 e2 d4 e4 | g4 a4 g4 z4 |
-g6 g2 b4 g4 | g6 g2 b4 g4 | d2 d2 e2 e2 d2 B2 d2 e2 | g4 e4 d8 |
-d6 B2 d4 e4 | g6 a2 g4 e4 | g4 b4 a4 e4 | g12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hogeisen.tmd)
-- [鋼琴伴奏 TMD 檔案](hogeisen_piano.tmd)
+![P050.jpg](P050.jpg)
+
+![P051.jpg](P051.jpg)
+
+

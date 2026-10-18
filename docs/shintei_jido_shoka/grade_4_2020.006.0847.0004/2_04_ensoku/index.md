@@ -52,11 +52,28 @@
 思（おも）ひ思ひにさやうなら
 ```
 
-## 原書掃描頁
+## ABC
 
-![P038.jpg](P038.jpg)
+```abc
+X:1
+T:遠足
+C:曲：文部省
+M:2/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 c2 f2 f2 | g2 f2 g2 a2 | g2 f2 d2 f2 | g2 g2 g2 z2 |
+c2 c2 c2 c2 | d2 c2 a2 c2 | g2 g2 f2 d2 | f6 z2 |
+g2 g2 f2 d2 | f2 g2 f2 d2 | c2 c2 c2 f2 | g2 a2 g2 z2 |
+f2 f2 g2 g2 | a2 a2 c2 c2 | g2 f2 e2 g2 | f6 z2 |
+```
 
-![P039.jpg](P039.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ensoku.tmd)
+- [鋼琴伴奏 TMD 檔案](ensoku_piano.tmd)
 
 ## 分析
 
@@ -112,23 +129,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:遠足
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 f2 f2 | g2 f2 g2 a2 | g2 f2 d2 f2 | g2 g2 g2 z2 |
-c2 c2 c2 c2 | d2 c2 a2 c2 | g2 g2 f2 d2 | f6 z2 |
-g2 g2 f2 d2 | f2 g2 f2 d2 | c2 c2 c2 f2 | g2 a2 g2 z2 |
-f2 f2 g2 g2 | a2 a2 c2 c2 | g2 f2 e2 g2 | f6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ensoku.tmd)
-- [鋼琴伴奏 TMD 檔案](ensoku_piano.tmd)
+![P038.jpg](P038.jpg)
+
+![P039.jpg](P039.jpg)
+
+

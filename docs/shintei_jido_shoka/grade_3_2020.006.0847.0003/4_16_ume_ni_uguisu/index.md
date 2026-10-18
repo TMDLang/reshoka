@@ -23,11 +23,30 @@ Key: D major (?= D), 2/4 (<2/4>), 愛ラシク Quarter = 76 (!= 76)
 ケキヨケキヨ　ホーホケキヨ　うれしや　ホーホケキヨ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P078.jpg](P078.jpg)
+```abc
+X:1
+T:梅に鶯
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=76
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+a2 a b a2 f2 | e2 e2 e2 z2 | d2 d d e2 e2 | f2 a3 a z2 |
+b2 b2 d2 b2 | a2 a2 f2 d2 | f2 f f e2 d2 | e2 e2 d2 z2 |
+e2 e e f2 f2 | a3 b a2 z2 | b2 b2 d2 b2 | a2 a a f2 z2 |
+a3 b a2 f2 | a3 b a2 f2 | e2 e2 e2 d2 | f2 e e d2 z2 |
+b4 a3 b | a2 d b a f z2 | a3 b a2 f2 | d2 b2 a f z2 |
+b4 a3 b | a2 d b a f z2 | a3 b a2 f2 | e2 e2 f d z2 |
+```
 
-![P079.jpg](P079.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ume_ni_uguisu.tmd)
+- [鋼琴伴奏 TMD 檔案](ume_ni_uguisu_piano.tmd)
 
 ## 分析
 
@@ -83,25 +102,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:梅に鶯
-C:TMD (Chen, Chih-Han / aguai)
-M:2/4
-L:1/16
-Q:1/4=76
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-a2 a b a2 f2 | e2 e2 e2 z2 | d2 d d e2 e2 | f2 a3 a z2 |
-b2 b2 d2 b2 | a2 a2 f2 d2 | f2 f f e2 d2 | e2 e2 d2 z2 |
-e2 e e f2 f2 | a3 b a2 z2 | b2 b2 d2 b2 | a2 a a f2 z2 |
-a3 b a2 f2 | a3 b a2 f2 | e2 e2 e2 d2 | f2 e e d2 z2 |
-b4 a3 b | a2 d b a f z2 | a3 b a2 f2 | d2 b2 a f z2 |
-b4 a3 b | a2 d b a f z2 | a3 b a2 f2 | e2 e2 f d z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ume_ni_uguisu.tmd)
-- [鋼琴伴奏 TMD 檔案](ume_ni_uguisu_piano.tmd)
+![P078.jpg](P078.jpg)
+
+![P079.jpg](P079.jpg)
+
+

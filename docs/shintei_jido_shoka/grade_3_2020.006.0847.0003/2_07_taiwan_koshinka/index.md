@@ -43,11 +43,30 @@
 これぞ我等がととはの土地
 ```
 
-## 原書掃描頁
+## ABC
 
-![P044.jpg](P044.jpg)
+```abc
+X:1
+T:臺灣行進歌
+C:曲：池田玉子
+M:2/4
+L:1/16
+Q:1/4=112
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 d g3 a | b3 a g3 g | d3 d b3 g | a6 z2 |
+b3 c b3 a | g3 g a3 b | d3 d e3 d | d6 z2 |
+d3 d e3 g | a3 g e3 d | B3 d e3 g | a6 z2 |
+d3 d b3 d | e3 e d3 g | b3 b a3 g | g6 z2 |
+B3 c d3 d | d3 d b3 d | e3 e b3 c | d6 z2 |
+e3 d b3 d | g3 a b3 b | d3 d a3 b | g6 z2 |
+```
 
-![P045.jpg](P045.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](taiwan_koshinka.tmd)
+- [鋼琴伴奏 TMD 檔案](taiwan_koshinka_piano.tmd)
 
 ## 分析
 
@@ -103,25 +122,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:臺灣行進歌
-C:曲：池田玉子
-M:2/4
-L:1/16
-Q:1/4=112
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 d g3 a | b3 a g3 g | d3 d b3 g | a6 z2 |
-b3 c b3 a | g3 g a3 b | d3 d e3 d | d6 z2 |
-d3 d e3 g | a3 g e3 d | B3 d e3 g | a6 z2 |
-d3 d b3 d | e3 e d3 g | b3 b a3 g | g6 z2 |
-B3 c d3 d | d3 d b3 d | e3 e b3 c | d6 z2 |
-e3 d b3 d | g3 a b3 b | d3 d a3 b | g6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](taiwan_koshinka.tmd)
-- [鋼琴伴奏 TMD 檔案](taiwan_koshinka_piano.tmd)
+![P044.jpg](P044.jpg)
+
+![P045.jpg](P045.jpg)
+
+

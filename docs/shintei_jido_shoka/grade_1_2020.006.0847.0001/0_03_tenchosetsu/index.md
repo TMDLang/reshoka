@@ -24,9 +24,28 @@
 祝（いは）へ諸人（もろびと）　もろ共（とも）に
 ```
 
-## 原書掃描頁
+## ABC
 
-![P007.jpg](P007.jpg)
+```abc
+X:1
+T:天長節
+C:曲：奥好義
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+f8 e4 d4 | e6 f2 e4 d4 | a4 a4 b4 d4 | f8 e4 z4 |
+f8 e4 d4 | a4 f4 e4 d4 | e4 f4 e6 d2 | d12 z4 |
+a8 f4 a4 | b6 b2 a4 f4 | b6 b2 a4 d4 | a12 z4 |
+d8 b4 a4 | f4 a4 b4 a4 | f4 e4 f6 e2 | d12 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tenchosetsu.tmd)
+- [鋼琴伴奏 TMD 檔案](tenchosetsu_piano.tmd)
 
 ## 分析
 
@@ -82,23 +101,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:天長節
-C:曲：奥好義
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-f8 e4 d4 | e6 f2 e4 d4 | a4 a4 b4 d4 | f8 e4 z4 |
-f8 e4 d4 | a4 f4 e4 d4 | e4 f4 e6 d2 | d12 z4 |
-a8 f4 a4 | b6 b2 a4 f4 | b6 b2 a4 d4 | a12 z4 |
-d8 b4 a4 | f4 a4 b4 a4 | f4 e4 f6 e2 | d12 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](tenchosetsu.tmd)
-- [鋼琴伴奏 TMD 檔案](tenchosetsu_piano.tmd)
+![P007.jpg](P007.jpg)
+
+

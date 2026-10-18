@@ -24,11 +24,30 @@
 身亡びて世亂る、されどあはれ丈夫。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P102.jpg](P102.jpg)
+```abc
+X:1
+T:豐太閤
+C:曲：ドニツェッチイ（伊）（Gaetano Donizetti）
+M:4/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! c3 f a3 f c8 | d3 b g3 c a8 | g3 a b3 E f4 a4 | a8 g8 |
+c3 f a3 f c8 | d3 b g3 c a8 | g4 ^f3 g d3 c E4 | g8 f8 |
+!mf! g3 g c3 g b4 a4 | g6 f2 E3 f g4 | !f! a3 a d3 c b3 a g4 | f6 a2 c8 |
+!mf! g3 g c3 g b4 a4 | g6 f2 E3 f g4 | !f! a3 d c3 b a3 g f4 | g8 c8 |
+c3 f a3 f c8 | d3 b g3 c a8 | g3 a b3 E f4 a4 | a8 g8 |
+!ff! c3 f a3 f c4 f4 | !mf! e3 d c3 b a4 d3 c | b4 a3 f g3 a g4 | f8 f8 |
+```
 
-![P103.jpg](P103.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ho_taiko.tmd)
+- [鋼琴伴奏 TMD 檔案](ho_taiko_piano.tmd)
 
 ## 分析
 
@@ -84,25 +103,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:豐太閤
-C:曲：ドニツェッチイ（伊）（Gaetano Donizetti）
-M:4/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! c3 f a3 f c8 | d3 b g3 c a8 | g3 a b3 E f4 a4 | a8 g8 |
-c3 f a3 f c8 | d3 b g3 c a8 | g4 ^f3 g d3 c E4 | g8 f8 |
-!mf! g3 g c3 g b4 a4 | g6 f2 E3 f g4 | !f! a3 a d3 c b3 a g4 | f6 a2 c8 |
-!mf! g3 g c3 g b4 a4 | g6 f2 E3 f g4 | !f! a3 d c3 b a3 g f4 | g8 c8 |
-c3 f a3 f c8 | d3 b g3 c a8 | g3 a b3 E f4 a4 | a8 g8 |
-!ff! c3 f a3 f c4 f4 | !mf! e3 d c3 b a4 d3 c | b4 a3 f g3 a g4 | f8 f8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](ho_taiko.tmd)
-- [鋼琴伴奏 TMD 檔案](ho_taiko_piano.tmd)
+![P102.jpg](P102.jpg)
+
+![P103.jpg](P103.jpg)
+
+

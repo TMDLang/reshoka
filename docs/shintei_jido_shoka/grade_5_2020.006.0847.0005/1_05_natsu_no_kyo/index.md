@@ -25,9 +25,28 @@
 亂（みだ）れて螢（ほたる）、水（み）の面（も）に飛（と）ぶ。」
 ```
 
-## 原書掃描頁
+## ABC
 
-![P028.jpg](P028.jpg)
+```abc
+X:1
+T:夏の興
+C:曲：ドーン（米）
+M:6/8
+L:1/16
+Q:3/8=46
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! a2 b2 a2 g4 f2 | c4 f2 a4 z2 | g2 g2 g2 c4 g2 | a10 z2 |
+a2 b2 a2 g4 f2 | c4 f2 a4 z2 | g2 c2 e2 g4 e2 | f10 z2 |
+!f! d4 d2 c4 a2 | b4 a2 g6 | c2 b2 c2 d4 c2 | a10 z2 |
+!mf! a2 b2 a2 g4 f2 | c4 f2 a4 z2 | g2 c2 e2 g4 e2 | f10 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](natsu_no_kyo.tmd)
+- [鋼琴伴奏 TMD 檔案](natsu_no_kyo_piano.tmd)
 
 ## 分析
 
@@ -83,23 +102,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:夏の興
-C:曲：ドーン（米）
-M:6/8
-L:1/16
-Q:3/8=46
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! a2 b2 a2 g4 f2 | c4 f2 a4 z2 | g2 g2 g2 c4 g2 | a10 z2 |
-a2 b2 a2 g4 f2 | c4 f2 a4 z2 | g2 c2 e2 g4 e2 | f10 z2 |
-!f! d4 d2 c4 a2 | b4 a2 g6 | c2 b2 c2 d4 c2 | a10 z2 |
-!mf! a2 b2 a2 g4 f2 | c4 f2 a4 z2 | g2 c2 e2 g4 e2 | f10 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](natsu_no_kyo.tmd)
-- [鋼琴伴奏 TMD 檔案](natsu_no_kyo_piano.tmd)
+![P028.jpg](P028.jpg)
+
+

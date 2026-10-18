@@ -29,9 +29,30 @@
 嗚呼（ああ）　松陰（しょういん）　永（なが）き其名（そのな）や。
 ```
 
-## 原書掃描頁
+## ABC
 
-![P043.jpg](P043.jpg)
+```abc
+X:1
+T:吉田松陰
+C:曲：小山作之助
+M:3/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! z4 z4 e3 e | a6 b2 c2 a2 | b2 a2 e4 a3 b | c6 d2 b4 |
+!mf! a6 z2 e3 e | e4 a2 b2 c2 b2 | a4 e4 a3 b | c4 d2 c2 b4 |
+!f! a6 z2 e3 e | e4 d4 c3 b | a4 b2 c2 d4 | ^g3 a b8 |
+e6 z2 a3 a | c2 b2 a4 ^g4 | a4 e4 a3 b | c6 b2 a2 ^g2 |
+!p! a4 z4 e4 | a4 z4 b3 b | !f! c4 z4 d3 d | e4 a4 c3 b |
+a8 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yoshida_shoin.tmd)
+- [鋼琴伴奏 TMD 檔案](yoshida_shoin_piano.tmd)
 
 ## 分析
 
@@ -87,25 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:吉田松陰
-C:曲：小山作之助
-M:3/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z4 z4 e3 e | a6 b2 c2 a2 | b2 a2 e4 a3 b | c6 d2 b4 |
-!mf! a6 z2 e3 e | e4 a2 b2 c2 b2 | a4 e4 a3 b | c4 d2 c2 b4 |
-!f! a6 z2 e3 e | e4 d4 c3 b | a4 b2 c2 d4 | ^g3 a b8 |
-e6 z2 a3 a | c2 b2 a4 ^g4 | a4 e4 a3 b | c6 b2 a2 ^g2 |
-!p! a4 z4 e4 | a4 z4 b3 b | !f! c4 z4 d3 d | e4 a4 c3 b |
-a8 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](yoshida_shoin.tmd)
-- [鋼琴伴奏 TMD 檔案](yoshida_shoin_piano.tmd)
+![P043.jpg](P043.jpg)
+
+

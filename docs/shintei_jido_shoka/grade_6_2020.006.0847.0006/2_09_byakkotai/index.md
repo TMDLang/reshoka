@@ -47,11 +47,27 @@
 散りたる花のかんばしさ
 ```
 
-## 原書掃描頁
+## ABC
 
-![P048.jpg](P048.jpg)
+```abc
+X:1
+T:白虎隊
+C:曲：田村虎藏
+M:4/4
+L:1/16
+Q:1/4=112
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! e3 f e2 c2 f3 a f2 e2 | c4 f3 f e2 e2 z4 | a3 b a2 f2 e3 f e2 c2 | b2 c2 e3 c b4 z4 |
+a3 b c2 e2 f3 e c2 a2 | b3 c b2 a2 b4 z4 | a3 b c2 c2 e3 f e2 c2 | !mf! f3 e f2 a2 b4 z4 |
+c'3 b a2 z2 f3 a f2 e2 | c2 e2 a3 b c'6 z2 | e'3 c' b2 a2 f3 a f2 e2 | a3 a b3 b a6 z2 |
+```
 
-![P049.jpg](P049.jpg)
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](byakkotai.tmd)
+- [鋼琴伴奏 TMD 檔案](byakkotai_piano.tmd)
 
 ## 分析
 
@@ -106,22 +122,11 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:白虎隊
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=112
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! e3 f e2 c2 f3 a f2 e2 | c4 f3 f e2 e2 z4 | a3 b a2 f2 e3 f e2 c2 | b2 c2 e3 c b4 z4 |
-a3 b c2 e2 f3 e c2 a2 | b3 c b2 a2 b4 z4 | a3 b c2 c2 e3 f e2 c2 | !mf! f3 e f2 a2 b4 z4 |
-c'3 b a2 z2 f3 a f2 e2 | c2 e2 a3 b c'6 z2 | e'3 c' b2 a2 f3 a f2 e2 | a3 a b3 b a6 z2 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](byakkotai.tmd)
-- [鋼琴伴奏 TMD 檔案](byakkotai_piano.tmd)
+![P048.jpg](P048.jpg)
+
+![P049.jpg](P049.jpg)
+
+

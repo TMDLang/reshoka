@@ -31,9 +31,29 @@
 コッケッコ　コッケッコ　おくれるな
 ```
 
-## 原書掃描頁
+## ABC
 
-![P050.jpg](P050.jpg)
+```abc
+X:1
+T:雞
+C:曲：西洋曲
+M:2/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! g2 g g z4 | !f! c2 e4 c2 | g2 c4 g2 | f2 f2 e2 e2 |
+d2 d2 g4 | !f! a2 c4 a2 | g2 c4 g2 | !mf! f2 e2 d2 g2 |
+c4 z4 | !mf! f2 f2 e2 e2 | d2 d2 g4 | c2 b2 a2 g2 |
+f2 d2 g4 | !f! a2 c4 a2 | g2 e4 g2 | !mf! f2 e2 d2 g2 |
+c4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hina.tmd)
+- [鋼琴伴奏 TMD 檔案](hina_piano.tmd)
 
 ## 分析
 
@@ -89,24 +109,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:雞
-C:曲：西洋曲
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! g2 g g z4 | !f! c2 e4 c2 | g2 c4 g2 | f2 f2 e2 e2 |
-d2 d2 g4 | !f! a2 c4 a2 | g2 c4 g2 | !mf! f2 e2 d2 g2 |
-c4 z4 | !mf! f2 f2 e2 e2 | d2 d2 g4 | c2 b2 a2 g2 |
-f2 d2 g4 | !f! a2 c4 a2 | g2 e4 g2 | !mf! f2 e2 d2 g2 |
-c4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](hina.tmd)
-- [鋼琴伴奏 TMD 檔案](hina_piano.tmd)
+![P050.jpg](P050.jpg)
+
+

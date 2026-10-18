@@ -31,9 +31,28 @@
 捧（ささ）げよ男兒の一身（いっしん）を　身命（しんめい）を
 ```
 
-## 原書掃描頁
+## ABC
 
-![P033.jpg](P033.jpg)
+```abc
+X:1
+T:千引の岩
+C:曲：小山作之助
+M:4/4
+L:1/16
+Q:1/4=116
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 e g3 a b2 b2 b4 | c3 b a3 g a4 z4 | b3 a g3 a b3 a g3 a | g3 e d3 e g4 z4 |
+a6 a2 f6 d2 | g6 a2 b8 | d6 d2 b6 g2 | e4 d4 a8 |
+d3 e d3 b g3 a b3 g | a3 b a3 f d4 z4 | g3 a g3 a b3 c d3 b | a3 b a3 g e4 z4 |
+d4 g2 b2 d8 | e4 d2 b2 g8 | b6 c2 d8 | a4 a4 g8 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](chibiki_no_iwa.tmd)
+- [鋼琴伴奏 TMD 檔案](chibiki_no_iwa_piano.tmd)
 
 ## 分析
 
@@ -89,23 +108,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:千引の岩
-C:曲：小山作之助
-M:4/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 e g3 a b2 b2 b4 | c3 b a3 g a4 z4 | b3 a g3 a b3 a g3 a | g3 e d3 e g4 z4 |
-a6 a2 f6 d2 | g6 a2 b8 | d6 d2 b6 g2 | e4 d4 a8 |
-d3 e d3 b g3 a b3 g | a3 b a3 f d4 z4 | g3 a g3 a b3 c d3 b | a3 b a3 g e4 z4 |
-d4 g2 b2 d8 | e4 d2 b2 g8 | b6 c2 d8 | a4 a4 g8 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](chibiki_no_iwa.tmd)
-- [鋼琴伴奏 TMD 檔案](chibiki_no_iwa_piano.tmd)
+![P033.jpg](P033.jpg)
+
+

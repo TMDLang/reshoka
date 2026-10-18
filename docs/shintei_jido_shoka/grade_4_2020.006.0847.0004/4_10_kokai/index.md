@@ -38,9 +38,28 @@
 進（すゝ）みて海をおそるるな
 ```
 
-## 原書掃描頁
+## ABC
 
-![P067.jpg](P067.jpg)
+```abc
+X:1
+T:航海
+C:曲：山田耕作
+M:2/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! g3 g g2 g2 | e2 e2 g2 z2 | d3 e f2 a2 | g4 z4 |
+!f! c3 c b2 a2 | g2 a2 g2 z2 | a2 b c e2 ^f2 | g4 z4 |
+!mp! f3 f f2 f2 | e2 f2 g2 z2 | a6 g2 | g2 f2 e2 z2 |
+!f! d3 d e2 b c | d2 b2 g4 | e2 c g a2 b d | c4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kokai.tmd)
+- [鋼琴伴奏 TMD 檔案](kokai_piano.tmd)
 
 ## 分析
 
@@ -96,23 +115,9 @@ Assignment 軌道音域：
 ================================================================================
 ```
 
-## ABC
 
-```abc
-X:1
-T:航海
-C:曲：山田耕作
-M:2/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! g3 g g2 g2 | e2 e2 g2 z2 | d3 e f2 a2 | g4 z4 |
-!f! c3 c b2 a2 | g2 a2 g2 z2 | a2 b c e2 ^f2 | g4 z4 |
-!mp! f3 f f2 f2 | e2 f2 g2 z2 | a6 g2 | g2 f2 e2 z2 |
-!f! d3 d e2 b c | d2 b2 g4 | e2 c g a2 b d | c4 z4 |
-```
+## 原書掃描頁
 
-- [主旋律 TMD 檔案](kokai.tmd)
-- [鋼琴伴奏 TMD 檔案](kokai_piano.tmd)
+![P067.jpg](P067.jpg)
+
+
