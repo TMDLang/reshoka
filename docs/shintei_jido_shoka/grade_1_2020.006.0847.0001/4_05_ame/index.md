@@ -1,6 +1,6 @@
 # アメ
 
-<audio controls src="ari.mp3"></audio>
+<audio controls src="ame.mp3"></audio>
 
 - 詞：北原白秋
 - 曲：成田爲三
@@ -71,8 +71,8 @@ c2 c2 d2 c2 | a2 a2 c2 f2 | g2 g2 g2 a2 | f4 z2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ari.tmd)
-- [鋼琴伴奏 TMD 檔案](ari_piano.tmd)
+- [主旋律 TMD 檔案](ame.tmd)
+- [鋼琴伴奏 TMD 檔案](ame_piano.tmd)
 
 ## 分析
 

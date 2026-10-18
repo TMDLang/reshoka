@@ -1,6 +1,6 @@
 # 雞
 
-<audio controls src="hina.mp3"></audio>
+<audio controls src="niwatori.mp3"></audio>
 
 - 詞：大橋銅造
 - 曲：西洋曲
@@ -52,8 +52,8 @@ c4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hina.tmd)
-- [鋼琴伴奏 TMD 檔案](hina_piano.tmd)
+- [主旋律 TMD 檔案](niwatori.tmd)
+- [鋼琴伴奏 TMD 檔案](niwatori_piano.tmd)
 
 ## 分析
 
@@ -65,10 +65,10 @@ c4 z4 |
 🎼 Key & Tempo:    首調基準 C, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  C4 in [Hina #1 @ m.9, 0:08]
-   - 最高音: E5 in [Hina #1 @ m.2, 0:01]
+   - 最低音:  C4 in [Niwatori #1 @ m.9, 0:08]
+   - 最高音: E5 in [Niwatori #1 @ m.2, 0:01]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Hina (18.2s)
+🏛  結構:      Niwatori (18.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -78,7 +78,7 @@ c4 z4 |
    - 候選調性 (K-S): C 大調 (0.96), G 大調 (0.72), E 小調 (0.60)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Hina #1]: C 大調 (r: 0.96, 自然音純度: 100.0%)
+     • [Niwatori #1]: C 大調 (r: 0.96, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*

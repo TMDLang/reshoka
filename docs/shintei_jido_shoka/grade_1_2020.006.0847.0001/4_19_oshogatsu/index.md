@@ -1,6 +1,6 @@
 # オシヤウグワツ
 
-<audio controls src="okashi_no_kisha_2.mp3"></audio>
+<audio controls src="oshogatsu.mp3"></audio>
 
 - 詞：東くめ
 - 曲：瀧廉太郎
@@ -49,8 +49,8 @@ a8 a4 c2 d2 | c4 f4 d4 c4 | a4 g4 a4 g4 | f12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](okashi_no_kisha_2.tmd)
-- [鋼琴伴奏 TMD 檔案](okashi_no_kisha_2_piano.tmd)
+- [主旋律 TMD 檔案](oshogatsu.tmd)
+- [鋼琴伴奏 TMD 檔案](oshogatsu_piano.tmd)
 
 ## 分析
 

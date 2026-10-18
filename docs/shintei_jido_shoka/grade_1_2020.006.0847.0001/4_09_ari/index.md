@@ -1,6 +1,6 @@
 # アリ
 
-<audio controls src="ari_2.mp3"></audio>
+<audio controls src="ari.mp3"></audio>
 
 - 詞：葛原𦱳
 - 曲：梁田貞
@@ -60,8 +60,8 @@ d d d d d4 | a a a a a4 | b2 a2 f2 d2 | e2 e2 d2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ari_2.tmd)
-- [鋼琴伴奏 TMD 檔案](ari_2_piano.tmd)
+- [主旋律 TMD 檔案](ari.tmd)
+- [鋼琴伴奏 TMD 檔案](ari_piano.tmd)
 
 ## 分析
 

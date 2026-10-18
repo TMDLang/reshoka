@@ -439,6 +439,67 @@ def generate_book_info_folder(folder: Path) -> Path:
     return output
 
 
+def classify_song_section(col_name: str, vol_name: str, folder_name: str) -> tuple[str | None, str | None, str]:
+    """Return (year_heading, section_heading, number_label) for a song directory."""
+    parts = folder_name.split("_")
+    if col_name == "kogakko_shoka":
+        num = f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
+        return None, None, num
+
+    if vol_name.startswith("koto_"):
+        if len(parts) >= 3 and parts[0].isdigit() and parts[1].isdigit() and parts[2].isdigit():
+            yr = parts[0]
+            cat = parts[1]
+            num = f"({int(parts[2])})"
+            year_label = "高等科 第一學年" if yr == "1" else "高等科 第二學年"
+            if cat == "1":
+                sec_label = "第一學期"
+            elif cat == "2":
+                sec_label = "第二學期"
+            elif cat == "3":
+                sec_label = "第三學期"
+            elif yr == "1" and cat == "4":
+                sec_label = "輪唱"
+            elif (yr == "1" and cat == "5") or (yr == "2" and cat == "4"):
+                sec_label = "重音（合唱）"
+            else:
+                sec_label = f"單元 {cat}"
+            return year_label, sec_label, num
+
+    if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
+        cat = parts[0]
+        num = f"({int(parts[1])})"
+        sec_map = {
+            "0": "儀式歌",
+            "1": "第一學期",
+            "2": "第二學期",
+            "3": "第三學期",
+            "4": "參考教材",
+        }
+        return None, sec_map.get(cat, f"單元 {cat}"), num
+
+    return None, None, folder_name
+
+
+def format_song_table_row(sdir: Path, num_label: str) -> str:
+    main_tmd = choose_main_tmd(sdir)
+    title, credits, _, score_info = parse_metadata(
+        main_tmd.read_text(encoding="utf-8")
+    )
+    credit_str = " / ".join(credits) if credits else "—"
+    info_parts = []
+    if score_info.get("key"):
+        info_parts.append(f"`?={score_info['key']}`")
+    if score_info.get("meter"):
+        info_parts.append(f"`<{score_info['meter']}>`")
+    if score_info.get("tempo"):
+        info_parts.append(f"`!={score_info['tempo']}`")
+    info_str = " ".join(info_parts) if info_parts else "—"
+    imgs = find_scanned_images(sdir)
+    img_str = ", ".join(img.name for img in imgs) if imgs else "—"
+    return f"| {num_label} | [**{title}**]({sdir.name}/index.md) | {credit_str} | {info_str} | {img_str} |"
+
+
 def generate_volume_index(vol_dir: Path) -> Path:
     vol_dir = vol_dir.resolve()
     vol_name = vol_dir.name
@@ -470,38 +531,90 @@ def generate_volume_index(vol_dir: Path) -> Path:
             ]
         )
 
-    lines.extend(
-        [
-            f"## 曲目列表（共 {len(song_dirs)} 首）",
-            "",
-            "| 編號 / 目錄 | 曲名 | 詞曲 / 資訊 | 掃描頁 |",
-            "| :--- | :--- | :--- | :--- |",
-        ]
-    )
-
-    for sdir in song_dirs:
-        main_tmd = choose_main_tmd(sdir)
-        title, credits, _, score_info = parse_metadata(
-            main_tmd.read_text(encoding="utf-8")
+    if col_name == "kogakko_shoka":
+        lines.extend(
+            [
+                f"## 曲目列表（共 {len(song_dirs)} 首）",
+                "",
+                "| 課次 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |",
+                "| :--- | :--- | :--- | :--- | :--- |",
+            ]
         )
-        credit_str = " / ".join(credits) if credits else "—"
-        if score_info.get("key") or score_info.get("meter"):
-            info_parts = []
-            if score_info.get("key"):
-                info_parts.append(f"`?={score_info['key']}`")
-            if score_info.get("meter"):
-                info_parts.append(f"`<{score_info['meter']}>`")
-            if credit_str == "—":
-                credit_str = " ".join(info_parts)
-            else:
-                credit_str = f"{credit_str}（{' '.join(info_parts)}）"
-        imgs = find_scanned_images(sdir)
-        img_str = ", ".join(img.name for img in imgs) if imgs else "—"
-        lines.append(
-            f"| `{sdir.name}` | [**{title}**]({sdir.name}/index.md) | {credit_str} | {img_str} |"
-        )
+        for sdir in song_dirs:
+            _, _, num_label = classify_song_section(col_name, vol_name, sdir.name)
+            lines.append(format_song_table_row(sdir, num_label))
+        lines.append("")
+    else:
+        # Group by (year_heading, section_heading) preserving order
+        groups: list[tuple[str | None, str | None, list[tuple[Path, str]]]] = []
+        for sdir in song_dirs:
+            yr_head, sec_head, num_label = classify_song_section(
+                col_name, vol_name, sdir.name
+            )
+            if not groups or groups[-1][0] != yr_head or groups[-1][1] != sec_head:
+                groups.append((yr_head, sec_head, []))
+            groups[-1][2].append((sdir, num_label))
 
-    lines.append("")
+        has_years = any(g[0] is not None for g in groups)
+        if not has_years:
+            summary_parts = [
+                f"{sec} {len(items)} 首" for _, sec, items in groups if sec
+            ]
+            summary_str = f"（{'、'.join(summary_parts)}）" if summary_parts else ""
+            lines.extend(
+                [
+                    f"本冊共收錄 **{len(song_dirs)} 首**曲目{summary_str}。",
+                    "",
+                ]
+            )
+            for _, sec_head, items in groups:
+                lines.extend(
+                    [
+                        f"## {sec_head}（共 {len(items)} 首）",
+                        "",
+                        "| 編號 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |",
+                        "| :--- | :--- | :--- | :--- | :--- |",
+                    ]
+                )
+                for sdir, num_label in items:
+                    lines.append(format_song_table_row(sdir, num_label))
+                lines.append("")
+        else:
+            # Koto volumes have Year 1 and Year 2
+            year_counts: dict[str, int] = {}
+            for yr_head, _, items in groups:
+                if yr_head:
+                    year_counts[yr_head] = year_counts.get(yr_head, 0) + len(items)
+            summary_parts = [f"{yr} {cnt} 首" for yr, cnt in year_counts.items()]
+            summary_str = f"（{'、'.join(summary_parts)}）" if summary_parts else ""
+            lines.extend(
+                [
+                    f"本冊共收錄 **{len(song_dirs)} 首**曲目{summary_str}。",
+                    "",
+                ]
+            )
+            current_year: str | None = None
+            for yr_head, sec_head, items in groups:
+                if yr_head != current_year:
+                    current_year = yr_head
+                    lines.extend(
+                        [
+                            f"## {yr_head}（共 {year_counts.get(yr_head or '', 0)} 首）",
+                            "",
+                        ]
+                    )
+                lines.extend(
+                    [
+                        f"### {sec_head}（共 {len(items)} 首）",
+                        "",
+                        "| 編號 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |",
+                        "| :--- | :--- | :--- | :--- | :--- |",
+                    ]
+                )
+                for sdir, num_label in items:
+                    lines.append(format_song_table_row(sdir, num_label))
+                lines.append("")
+
     output = vol_dir / "index.md"
     output.write_text("\n".join(lines), encoding="utf-8")
     return output

@@ -28,7 +28,7 @@
 | `2_10_senri_no_sanga` | [**千里の山河**](2_10_senri_no_sanga/index.md) | 詞：文部省國語讀本 / 曲：山本壽（`?=G` `<2/4>`） | P046.jpg |
 | `2_11_korezo_taiwan` | [**これぞ臺灣**](2_11_korezo_taiwan/index.md) | 詞：川嶋傳 / 曲：中山常雄（`?=G` `<3/4>`） | P047.jpg |
 | `3_01_kokki` | [**國旗**](3_01_kokki/index.md) | 詞：幼年唱歌（石原和三郎） / 曲：幼年唱歌（田村虎藏）（`?=F` `<3/4>`） | P048.jpg, P049.jpg |
-| `3_02_hina` | [**雞**](3_02_hina/index.md) | 詞：大橋銅造 / 曲：西洋曲（`?=C` `<2/4>`） | P050.jpg |
+| `3_02_niwatori` | [**雞**](3_02_niwatori/index.md) | 詞：大橋銅造 / 曲：西洋曲（`?=C` `<2/4>`） | P050.jpg |
 | `3_03_ikadakazura` | [**いかだかづら**](3_03_ikadakazura/index.md) | `?=C` `<2/4>` | P051.jpg |
 | `3_04_waga_teikoku` | [**我が帝國**](3_04_waga_teikoku/index.md) | 詞：文部省讀本 / 曲：田村虎藏（`?=F` `<4/4>`） | P052.jpg |
 | `3_05_nintai` | [**忍耐**](3_05_nintai/index.md) | 詞：文部省 / 曲：文部省（`?=C` `<4/4>`） | P053.jpg |

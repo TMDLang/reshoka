@@ -46,11 +46,11 @@
 | `4_02_ichinensei` | [**一ネンセイ**](4_02_ichinensei/index.md) | `?=F` `<2/4>` | P049.jpg |
 | `4_03_okashi_no_kisha` | [**オクワシノキシヤ**](4_03_okashi_no_kisha/index.md) | 曲：山本壽（`?=G` `<2/4>`） | P050.jpg |
 | `4_04_kintaro` | [**キンタラウ**](4_04_kintaro/index.md) | 詞：石原和三郎 / 曲：田村虎藏（`?=F` `<2/4>`） | P051.jpg |
-| `4_05_ari` | [**アメ**](4_05_ari/index.md) | 詞：北原白秋 / 曲：成田爲三（`?=F` `<2/4>`） | P052.jpg |
+| `4_05_ame` | [**アメ**](4_05_ame/index.md) | 詞：北原白秋 / 曲：成田爲三（`?=F` `<2/4>`） | P052.jpg |
 | `4_06_kazaguruma_mizuguruma` | [**カザグルマ・ミヅグルマ**](4_06_kazaguruma_mizuguruma/index.md) | `?=F` `<2/4>` | P053.jpg |
 | `4_07_sasa_no_fune` | [**ササノフネ**](4_07_sasa_no_fune/index.md) | 曲：近藤義次（`?=D` `<2/4>`） | P054.jpg |
 | `4_08_umi` | [**ウミ**](4_08_umi/index.md) | `?=F` `<2/4>` | P055.jpg |
-| `4_09_ari_2` | [**アリ**](4_09_ari_2/index.md) | 詞：葛原𦱳 / 曲：梁田貞（`?=D` `<2/4>`） | P056.jpg |
+| `4_09_ari` | [**アリ**](4_09_ari/index.md) | 詞：葛原𦱳 / 曲：梁田貞（`?=D` `<2/4>`） | P056.jpg |
 | `4_10_futari_no_heitaisan` | [**フタリノヘイタイサン**](4_10_futari_no_heitaisan/index.md) | 詞：北原白秋 / 曲：成田爲三（`?=F` `<2/4>`） | P057.jpg |
 | `4_11_densha` | [**デンシヤ**](4_11_densha/index.md) | 詞：葛原𦱳 / 曲：小松耕輔（`?=F` `<2/4>`） | P058.jpg, P059.jpg |
 | `4_12_inu_no_shibai` | [**イヌノシバヰ**](4_12_inu_no_shibai/index.md) | 詞：北原白秋 / 曲：成田爲三（`?=G` `<2/4>`） | P060.jpg, P061.jpg |
@@ -60,7 +60,7 @@
 | `4_16_yuyake_koyake` | [**ユフヤケコヤケ**](4_16_yuyake_koyake/index.md) | 詞：中村雨紅 / 曲：草川信（`?=C` `<2/4>`） | P065.jpg |
 | `4_17_chinkoro_heitai` | [**チンコロヘイタイ**](4_17_chinkoro_heitai/index.md) | 曲：草川信（`?=C` `<2/4>`） | P066.jpg, P067.jpg |
 | `4_18_mochitsuki` | [**モチツキ**](4_18_mochitsuki/index.md) | 詞：葛原𦱳 / 曲：小松耕輔（`?=D` `<2/4>`） | P068.jpg |
-| `4_19_okashi_no_kisha_2` | [**オシヤウグワツ**](4_19_okashi_no_kisha_2/index.md) | 詞：東くめ / 曲：瀧廉太郎（`?=F` `<4/4>`） | P069.jpg |
+| `4_19_oshogatsu` | [**オシヤウグワツ**](4_19_oshogatsu/index.md) | 詞：東くめ / 曲：瀧廉太郎（`?=F` `<4/4>`） | P069.jpg |
 | `4_20_chiyoda_no_oshiro` | [**チヨダノオシロ**](4_20_chiyoda_no_oshiro/index.md) | 詞：野口雨情 / 曲：藤井清水（`?=F` `<2/4>`） | P070.jpg |
 | `4_21_osaru` | [**オサル**](4_21_osaru/index.md) | 詞：葛原𦱳 / 曲：梁田貞（`?=C` `<2/4>`） | P071.jpg |
 | `4_22_suzume` | [**スズメ**](4_22_suzume/index.md) | 詞：葛原𦱳 / 曲：小松耕輔（`?=F` `<2/4>`） | P072.jpg |
