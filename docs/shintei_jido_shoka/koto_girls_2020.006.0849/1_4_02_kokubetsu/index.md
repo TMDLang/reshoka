@@ -98,11 +98,9 @@ M:3/4
 L:1/16
 Q:1/4=100
 K:D
-
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 V:V3 name="Part3" snm="Par"
-
 [V:V1]
 !mf! A6 B2 A4 | F8 z4 | A6 B2 A4 | F8 z4 |
 B8 B4 | A8 A4 | G4 c4 c4 | d8 z4 |
@@ -124,8 +122,6 @@ z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
-
-
 [V:V2]
 z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
@@ -147,8 +143,6 @@ D8 D4 | D8 z4 | D8 D4 | D8 z4 |
 D8 D4 | D8 D4 | A8 A,4 | D8 z4 |
 z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
-
-
 [V:V3]
 z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |

@@ -41,6 +41,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: abc
+          class: abc
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -54,6 +57,13 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/abcjs@6.4.4/dist/abcjs-basic-min.js
+  - javascripts/abc-render.js
 
 nav:
   - 首頁: index.md

@@ -5,13 +5,9 @@ M:2/4
 L:1/16
 Q:1/4=108
 K:Bb
-
 V:V1 name="Piano" snm="Pia"
-
 [V:V1]
 c2 c2 c2 d2 | c2 f f f2 z2 | g2 b2 g4 | f2 d d f2 z2 |
 d2 d2 c2 b2 | c2 d2 f2 z2 | d2 d2 c2 b2 | c2 c2 b4 |
 d2 d4 b2 | c2 f f f2 z2 | z2 b4 g2 | f2 d d f2 z2 |
 d2 d c b4 | c2 d2 f2 z2 | f2 g4 f2 | d2 c c b4 |
-
-

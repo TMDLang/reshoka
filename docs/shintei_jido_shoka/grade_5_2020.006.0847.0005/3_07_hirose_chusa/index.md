@@ -96,9 +96,7 @@ M:4/4
 L:1/16
 Q:1/4=112
 K:G
-
 V:V1 name="Piano" snm="Pia"
-
 [V:V1]
 !mf! z4 z4 z4 d3 d | g8 g4 a3 g | e8 d4 b3 a | g3 a b3 d e3 d b3 g |
 a8 z4 d3 d | g8 g4 a3 b | d8 b4 d3 d | e3 d b3 d a3 d f3 e |

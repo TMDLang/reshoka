@@ -110,9 +110,7 @@ M:2/4
 L:1/16
 Q:1/4=88
 K:Em
-
 V:V1 name="Piano" snm="Pia"
-
 [V:V1]
 a2 f f e4 | a2 f f e4 | b b b b b a a b | a2 f f e4 |
 !f! e4 d4 | e3 d b4 | d2 ^c2 b2 a2 | a2 f f e4 |

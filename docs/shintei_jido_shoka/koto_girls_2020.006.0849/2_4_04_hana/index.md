@@ -101,10 +101,8 @@ M:2/4
 L:1/16
 Q:1/4=92
 K:A
-
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
-
 [V:V1]
 !mf! e3 e c2 z e | a g f e e4 | c e a c b3 g | a4 a2 z2 |
 e3 e c2 z e | a c b f g4 | c a f d c a f d | e4 e2 z2 |
@@ -118,8 +116,6 @@ c3 c d2 z d | f e d c c4 | f2 f f f3 f | ^e4 e2 z2 |
 !mf! e3 e c2 z e | a c b f g4 | !p! c a f d c a f d | e4 e2 z2 |
 !f! b3 b c2 z a | b3 b c2 z a | c4 b3 a | e4 e2 z2 |
 !mf! e3 e a3 b | !f! c e f d b2 z2 | c a b g a2 b2 | a4 a2 z2 |
-
-
 [V:V2]
 !mf! c3 c A2 z c | c e d c c4 | A c c e e3 e | c4 c2 z2 |
 c3 c A2 z c | c e f d e4 | c2 f f e c ^d B | G4 G2 z2 |

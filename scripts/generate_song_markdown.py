@@ -360,7 +360,10 @@ def generate_song_folder(
     )
     notes_block = notes or "（TMD 檔案未包含額外 note）"
     lyrics_block = lyrics or "（TMD 檔案未包含歌詞註解）"
-    abc = abc_path.read_text(encoding="utf-8")
+    abc_raw = abc_path.read_text(encoding="utf-8")
+    abc = "\n".join(line for line in abc_raw.splitlines() if line.strip())
+    if abc + "\n" != abc_raw:
+        abc_path.write_text(abc + "\n", encoding="utf-8")
 
     images = find_scanned_images(folder)
     images_section = ""
@@ -552,6 +555,9 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "        - name: mermaid",
         "          class: mermaid",
         "          format: !!python/name:pymdownx.superfences.fence_code_format",
+        "        - name: abc",
+        "          class: abc",
+        "          format: !!python/name:pymdownx.superfences.fence_code_format",
         "  - pymdownx.highlight:",
         "      anchor_linenums: true",
         "      line_spans: __span",
@@ -565,6 +571,13 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "  - tables",
         "  - toc:",
         "      permalink: true",
+        "",
+        "extra_css:",
+        "  - stylesheets/extra.css",
+        "",
+        "extra_javascript:",
+        "  - https://cdn.jsdelivr.net/npm/abcjs@6.4.4/dist/abcjs-basic-min.js",
+        "  - javascripts/abc-render.js",
         "",
         "nav:",
         "  - 首頁: index.md",

@@ -1,0 +1,19 @@
+.abc-score-container {
+  margin: 1rem 0;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.4rem;
+  background-color: var(--md-code-bg-color, #f8f9fa);
+  border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.08));
+  overflow-x: auto;
+}
+
+[data-md-color-scheme="slate"] .abc-score-container svg {
+  color: var(--md-default-fg-color);
+  fill: currentColor;
+}
+
+[data-md-color-scheme="slate"] .abc-score-container svg path,
+[data-md-color-scheme="slate"] .abc-score-container svg text,
+[data-md-color-scheme="slate"] .abc-score-container svg rect {
+  fill: currentColor;
+}

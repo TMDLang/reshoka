@@ -5,19 +5,13 @@ M:3/4
 L:1/16
 Q:1/4=80
 K:F
-
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
-
 [V:V1]
 !p! z4 z4 z2 c2 | f2 g2 a2 b2 c4 | !mp! d3 c b2 a2 z2 c2 | c2 b2 a2 g2 f4 |
 !mf! a2 g3 a g2 z2 c2 | g2 g2 a2 b2 b2 a2 | a3 g g2 c2 z2 c2 | b2 g2 f2 e2 f2 b2 |
 !f! a2 g3 g f2 z2 c2 | a2 b2 c2 d2 c2 b2 | a2 g3 a f2 z4 |
-
-
 [V:V2]
 !p! z4 z4 z2 c2 | f2 e2 f2 g2 a4 | !mp! b3 a g2 f2 z2 a2 | a2 g2 f2 e2 f4 |
 !mf! f2 e3 f e2 z2 c2 | e2 e2 f2 g2 g2 f2 | f3 e e2 a2 z2 a2 | g2 e2 d2 c2 d2 g2 |
 !f! f2 e3 e f2 z2 c2 | f2 g2 a2 b2 a2 g2 | f2 e3 f f2 z4 |
-
-

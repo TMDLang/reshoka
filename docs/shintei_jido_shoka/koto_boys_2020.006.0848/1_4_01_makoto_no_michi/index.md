@@ -96,17 +96,13 @@ M:4/4
 L:1/16
 Q:1/4=84
 K:C
-
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
-
 [V:V1]
 !mf! z4 z4 z4 c4 | e6 d2 e4 f4 | g4 a4 g4 e4 | c4 d4 e4 f4 |
 !mp! g12 c4 | c6 B2 c4 d4 | e4 f4 e4 c4 | e4 d4 c4 B4 |
 c12 z4 | z16 | z16 | z16 |
 z16 |
-
-
 [V:V2]
 z16 | z16 | z16 | z16 |
 !mf! z4 z4 z4 c4 | e6 d2 e4 f4 | g4 a4 g4 e4 | c4 d4 e4 f4 |

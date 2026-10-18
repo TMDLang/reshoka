@@ -97,16 +97,12 @@ M:6/8
 L:1/16
 Q:3/8=67
 K:D
-
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
-
 [V:V1]
 !mf! d6 d6 | d4 e2 f6 | f4 g2 a4 b2 | a6 f6 |
 a2 a2 a2 b2 a2 g2 | f2 f2 f2 g2 f2 e2 | f4 g2 e4 e2 | d12 |
 z6 z6 | z6 z6 |
-
-
 [V:V2]
 z12 | z12 | !mf! d6 d6 | d4 e2 f6 |
 f4 g2 a4 b2 | a6 f6 | a2 a2 a2 b2 a2 g2 | f2 f2 f2 g2 f2 e2 |

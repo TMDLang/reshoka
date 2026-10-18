@@ -116,11 +116,9 @@ M:4/4
 L:1/16
 Q:1/4=160
 K:G
-
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 V:V3 name="Part3" snm="Par"
-
 [V:V1]
 !mf! z4 z4 z4 d4 | g8 a8 | b6 a2 g4 z4 | c6 c2 c3 d e2 c2 |
 a8 z4 z4 | d6 c b a4 g4 | f4 z4 g8 | a6 a2 a2 b a g2 f2 |
@@ -130,8 +128,6 @@ d8 z4 z4 | !f! b6 b2 a2 b2 c2 d2 | e4 c4 z4 a2 b2 | c2 d2 e2 f2 g4 z4 |
 f8 e8 | d4 z4 e2 f2 g2 e2 | d4 c4 b4 z4 | !p! a6 a2 a4 d4 |
 b4 g4 a6 a2 | a4 b4 c4 a4 | !f! b8 z4 d4 | d6 d2 d4 d4 |
 d8 b4 d2 b2 | g4 a4 g8 |
-
-
 [V:V2]
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
@@ -141,8 +137,6 @@ z4 z4 z4 z4 | !f! g6 g2 f2 g2 a2 b2 | c4 a4 z4 f2 g2 | a2 a2 a2 a2 g4 z4 |
 d6 d2 e2 f2 g2 a2 | b4 z4 c2 c2 c2 c2 | b4 a4 g4 z4 | !p! z4 z4 f4 d2 b2 |
 g4 g4 f6 f2 | f4 g4 a4 f4 | !f! g8 z4 g4 | f6 f2 g4 f4 |
 g8 g4 g2 g2 | e4 f4 g8 |
-
-
 [V:V3]
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
