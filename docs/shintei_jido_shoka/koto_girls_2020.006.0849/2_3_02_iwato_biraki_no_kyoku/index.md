@@ -51,22 +51,22 @@ Q:1/4=96
 K:A
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! a4 | a4 | a4 | c3 b |
-a2 b2 | c4 | b2 c2 | e4 |
-b4 | b2 ^a2 | b2 c2- | c2 z2 |
-a4 | a4 | a4 | c3 b |
-a2 b2 | f4 | a2 b2 | c4- |
-c2 b2 | a2 f2 | e2 f2- | f2 z2 |
-e4 | e4 | f4 | a4- |
-a2 b2 | a4 | f4 | b4- |
-b2 c2 | c2 b2 | a4 | e4 |
-c4 | e4 | c2 b2 | a4- |
-a4- | a4 | a4 | c4 |
-g4 | a4 | f4- | f4 |
-f2 f2 | e2 f2 | a4- | a4 |
-a2 a2 | b2 a2 | f4 | d4 |
-e4 | a2 b2 | a4- | a4- |
-a4 | a4 |
+!mf! A4 | A4 | A4 | c3 B |
+A2 B2 | c4 | B2 c2 | e4 |
+B4 | B2 ^A2 | B2 c2- | c2 z2 |
+A4 | A4 | A4 | c3 B |
+A2 B2 | F4 | A2 B2 | c4- |
+c2 B2 | A2 F2 | E2 F2- | F2 z2 |
+E4 | E4 | F4 | A4- |
+A2 B2 | A4 | F4 | B4- |
+B2 c2 | c2 B2 | A4 | e4 |
+c4 | e4 | c2 B2 | A4- |
+A4- | A4 | A4 | c4 |
+G4 | A4 | F4- | F4 |
+F2 F2 | E2 F2 | A4- | A4 |
+A2 A2 | B2 A2 | F4 | D4 |
+E4 | A2 B2 | A4- | A4- |
+A4 | A4 |
 ```
 
 ## TMD 檔案連結

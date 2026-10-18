@@ -38,10 +38,10 @@ Q:1/4=132
 K:Em
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!f! e2 e2 e2 b2 | g3 f e4 | a2 a2 a2 c2 | b3 a b4 |
-!mf! c2 a2 b3 g | f2 ^d2 e3 f | g2 b2 a3 g | f2 ^d2 e4 |
-!f! b3 c d2 b2 | e3 d c4 | a3 b c2 a2 | b3 a b4 |
-!mf! c2 a2 b3 g | f2 ^d2 e3 f | !mp! g2 b2 a3 g | f2 ^d2 e4 |
+!f! E2 E2 E2 B2 | G3 F E4 | A2 A2 A2 c2 | B3 A B4 |
+!mf! c2 A2 B3 G | F2 ^D2 E3 F | G2 B2 A3 G | F2 ^D2 E4 |
+!f! B3 c d2 B2 | e3 d c4 | A3 B c2 A2 | B3 A B4 |
+!mf! c2 A2 B3 G | F2 ^D2 E3 F | !mp! G2 B2 A3 G | F2 ^D2 E4 |
 ```
 
 ## TMD 檔案連結

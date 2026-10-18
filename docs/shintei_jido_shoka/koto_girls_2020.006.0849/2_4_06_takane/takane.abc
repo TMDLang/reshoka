@@ -9,20 +9,20 @@ V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 V:V3 name="Part3" snm="Par"
 [V:V1]
-!mf! b8 b8 | e4 d4 e4 f4 | g8 f8 | e16 |
-f8 f8 | g4 f4 g4 a4 | f8 e4 f4 | g16 |
-a8 a8 | g8 f4 g4 | a8 f8 | g8 e8 |
-a8 a8 | b8 a8 | g4 f4 e4 g4 | a8 f8 |
-e8 f8 | g8 a4 g4 | f8 e8 | e16 |
+!mf! B8 B8 | E4 D4 E4 F4 | G8 F8 | E16 |
+F8 F8 | G4 F4 G4 A4 | F8 E4 F4 | G16 |
+A8 A8 | G8 F4 G4 | A8 F8 | G8 E8 |
+A8 A8 | B8 A8 | G4 F4 E4 G4 | A8 F8 |
+E8 F8 | G8 A4 G4 | F8 E8 | E16 |
 [V:V2]
-!mf! b8 b8 | e4 d4 e4 f4 | e8 d8 | c16 |
-d8 d8 | e8 e8 | d8 c8 | g16 |
-f8 f8 | e8 d8 | e8 d8 | e8 c8 |
-f8 f8 | e8 f8 | e8 e8 | f8 ^d8 |
-e8 d8 | e8 c8 | d8 c8 | e16 |
+!mf! B8 B8 | E4 D4 E4 F4 | E8 D8 | C16 |
+D8 D8 | E8 E8 | D8 C8 | G16 |
+F8 F8 | E8 D8 | E8 D8 | E8 C8 |
+F8 F8 | E8 F8 | E8 E8 | F8 ^D8 |
+E8 D8 | E8 C8 | D8 C8 | E16 |
 [V:V3]
-!mf! e8 e8 | e4 d4 e4 f4 | B8 B8 | e16 |
-e8 d8 | c8 c8 | d8 d8 | e16 |
-d8 d8 | B8 B8 | c8 d8 | e16 |
-d8 d8 | c8 d8 | B8 c8 | B16 |
-e8 B8 | e8 c8 | B8 B8 | e16 |
+!mf! E8 E8 | E4 D4 E4 F4 | B,8 B,8 | E16 |
+E8 D8 | C8 C8 | D8 D8 | E16 |
+D8 D8 | B,8 B,8 | C8 D8 | E16 |
+D8 D8 | C8 D8 | B,8 C8 | B,16 |
+E8 B,8 | E8 C8 | B,8 B,8 | E16 |

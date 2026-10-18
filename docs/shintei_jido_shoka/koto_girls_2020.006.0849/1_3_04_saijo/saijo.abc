@@ -7,11 +7,11 @@ Q:1/4=100
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! D4 E3 G A8 | G4 E4 z4 E4 | G6 A2 G4 E2 D2 | D12 c2 A2 |
-E4 G3 A c6 d2 | c4 A4 z4 A4 | G6 E2 G4 E2 D2 | !f! C8 z4 d4 |
-e6 d2 c4 A4 | !p! d8 z4 c4 | c6 c2 d6 c2 | !f! A12 e4 |
-d4 c4 A4 c3 A | !p! G4 E8 G3 A | G4 E4 G6 E2 | D12 z4 |
-!mf! D4 E3 G A8 | G4 E4 z4 E4 | G6 A2 G4 E2 D2 | D12 c2 A2 |
-E4 G3 A c6 d2 | c4 A4 z4 A4 | G6 E2 G4 E2 D2 | !f! C8 z4 d4 |
-e6 d2 c4 A4 | !p! d8 z4 c4 | c6 c2 d6 c2 | !f! A12 e4 |
-d4 c4 A4 c3 A | !p! G4 E8 G3 A | G4 E4 G6 E2 | D12 z4 |
+!mf! D,4 E,3 G, A,8 | G,4 E,4 z4 E,4 | G,6 A,2 G,4 E,2 D,2 | D,12 C2 A,2 |
+E,4 G,3 A, C6 D2 | C4 A,4 z4 A,4 | G,6 E,2 G,4 E,2 D,2 | !f! C,8 z4 D4 |
+E6 D2 C4 A,4 | !p! D8 z4 C4 | C6 C2 D6 C2 | !f! A,12 E4 |
+D4 C4 A,4 C3 A, | !p! G,4 E,8 G,3 A, | G,4 E,4 G,6 E,2 | D,12 z4 |
+!mf! D,4 E,3 G, A,8 | G,4 E,4 z4 E,4 | G,6 A,2 G,4 E,2 D,2 | D,12 C2 A,2 |
+E,4 G,3 A, C6 D2 | C4 A,4 z4 A,4 | G,6 E,2 G,4 E,2 D,2 | !f! C,8 z4 D4 |
+E6 D2 C4 A,4 | !p! D8 z4 C4 | C6 C2 D6 C2 | !f! A,12 E4 |
+D4 C4 A,4 C3 A, | !p! G,4 E,8 G,3 A, | G,4 E,4 G,6 E,2 | D,12 z4 |

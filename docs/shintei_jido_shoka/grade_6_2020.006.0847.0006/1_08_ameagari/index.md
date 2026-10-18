@@ -37,13 +37,13 @@ K:G
 V:V1 name="Piano1" snm="Pia"
 V:V2 name="Piano2" snm="Pia"
 [V:V1]
-d4 g4 a4 | b6 a2 g4 | a4 a4 b4 | c6 b2 a4 |
-b4 b4 ^c4 | d8 z4 | d4 g4 a4 | b4 c4 d4 |
-e8 d4 | c4 b4 a4 | d4 b2 g2 a4 | g8 z4 |
+D4 G4 A4 | B6 A2 G4 | A4 A4 B4 | c6 B2 A4 |
+B4 B4 ^c4 | d8 z4 | D4 G4 A4 | B4 c4 d4 |
+e8 d4 | c4 B4 A4 | d4 B2 G2 A4 | G8 z4 |
 [V:V2]
-d4 B4 d4 | g6 d2 B4 | d4 d4 g4 | f6 g2 d4 |
-g4 g4 e4 | d8 z4 | d4 B4 d4 | g4 a4 b4 |
-c8 b4 | a4 g4 d4 | g4 d2 B2 d4 | B8 z4 |
+D4 B,4 D4 | G6 D2 B,4 | D4 D4 G4 | F6 G2 D4 |
+G4 G4 E4 | D8 z4 | D4 B,4 D4 | G4 A4 B4 |
+c8 B4 | A4 G4 D4 | G4 D2 B,2 D4 | B,8 z4 |
 ```
 
 ## TMD 檔案連結

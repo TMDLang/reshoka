@@ -40,17 +40,17 @@ Q:1/4=108
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!f! c3 =b c2 d2 c4 a4 | g4 a4 f4 g3 a | g4 f4 e4 f4 | d8 z4 g4 |
-g3 ^f g2 a2 c4 c4 | c4 z2 g2 g3 a g2 e2 | d4 G4 c4 z2 c2 | f4 f3 d f4 g4 |
-a4 a4 a4 a3 b | c4 a4 f4 a3 c | f3 d e3 ^f g4 g3 a | a4 z4 z4 a3 g |
-f4 z4 z4 f3 g | a4 a4 a4 a3 g | f3 e d3 c d4 g3 g | c8 z4 =b3 c |
-d8 z4 g3 a | Q:1/4=96 c3 a f3 a g4 c3 d | c4 g4 f4 c3 c | f3 g a3 b c4 f4- |
-f8 z4 z4 | !f! c3 =b c2 d2 c4 a4 | g4 a4 f4 g3 a | g4 f4 e4 f4 |
-d8 z4 g4 | g3 ^f g2 a2 c4 c4 | c4 z2 g2 g3 a g2 e2 | d4 G4 c4 z2 c2 |
-f4 f3 d f4 g4 | a4 a4 a4 a3 b | c4 a4 f4 a3 c | f3 d e3 ^f g4 g3 a |
-a4 z4 z4 a3 g | f4 z4 z4 f3 g | a4 a4 a4 a3 g | f3 e d3 c d4 g3 g |
-c8 z4 =b3 c | d8 z4 g3 a | Q:1/4=96 c3 a f3 a g4 c3 d | c4 g4 f4 c3 c |
-f3 g a3 b c4 f4- | f8 z4 z4 |
+!f! c3 =B c2 d2 c4 A4 | G4 A4 F4 G3 A | G4 F4 E4 F4 | D8 z4 G4 |
+G3 ^F G2 A2 c4 c4 | c4 z2 G2 G3 A G2 E2 | D4 G,4 C4 z2 C2 | F4 F3 D F4 G4 |
+A4 A4 A4 A3 B | c4 A4 F4 A3 c | F3 D E3 ^F G4 G3 A | A4 z4 z4 A3 G |
+F4 z4 z4 F3 G | A4 A4 A4 A3 G | F3 E D3 C D4 G3 G | c8 z4 =B3 c |
+d8 z4 G3 A | [Q:1/4=96] c3 A F3 A G4 c3 d | c4 G4 F4 C3 C | F3 G A3 B c4 F4- |
+F8 z4 z4 | !f! c3 =B c2 d2 c4 A4 | G4 A4 F4 G3 A | G4 F4 E4 F4 |
+D8 z4 G4 | G3 ^F G2 A2 c4 c4 | c4 z2 G2 G3 A G2 E2 | D4 G,4 C4 z2 C2 |
+F4 F3 D F4 G4 | A4 A4 A4 A3 B | c4 A4 F4 A3 c | F3 D E3 ^F G4 G3 A |
+A4 z4 z4 A3 G | F4 z4 z4 F3 G | A4 A4 A4 A3 G | F3 E D3 C D4 G3 G |
+c8 z4 =B3 c | d8 z4 G3 A | [Q:1/4=96] c3 A F3 A G4 c3 d | c4 G4 F4 C3 C |
+F3 G A3 B c4 F4- | F8 z4 z4 |
 ```
 
 ## TMD 檔案連結

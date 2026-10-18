@@ -38,15 +38,15 @@ K:F
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 [V:V1]
-!f! f3 c f4 a4 | b3 a g6 z2 | c3 c d4 c4 | a8 z4 |
-f3 c f4 a4 | g3 f e6 z2 | g3 a b4 e4 | f8 z4 |
-d3 d d4 c4 | d3 d d6 z2 | e3 f g4 a4 | c8 z4 |
-f3 c f4 a4 | b3 a g6 z2 | c3 a f4 g4 | f8 z4 |
+!f! F3 C F4 A4 | B3 A G6 z2 | c3 c d4 c4 | A8 z4 |
+F3 C F4 A4 | G3 F E6 z2 | G3 A B4 E4 | F8 z4 |
+d3 d d4 c4 | d3 d d6 z2 | E3 F G4 A4 | c8 z4 |
+F3 C F4 A4 | B3 A G6 z2 | c3 A F4 G4 | F8 z4 |
 [V:V2]
-!mp! c3 c c4 f4 | e3 f e6 z2 | c3 c d4 c4 | c8 c4 |
-c3 c c4 f4 | d3 d c6 z2 | c3 c c4 c4 | f8 f4 |
-f3 f f4 f4 | f3 f f6 z2 | c3 c c4 c4 | f8 f4 |
-d3 d d4 d4 | d3 d e6 z2 | f3 f c4 c4 | f8 z4 |
+!mp! C3 C C4 F4 | E3 F E6 z2 | C3 C D4 C4 | C8 C4 |
+C3 C C4 F4 | D3 D C6 z2 | C3 C C4 C4 | F8 F4 |
+F3 F F4 F4 | F3 F F6 z2 | C3 C C4 C4 | F8 F4 |
+D3 D D4 D4 | D3 D E6 z2 | F3 F C4 C4 | F8 z4 |
 ```
 
 ## TMD 檔案連結

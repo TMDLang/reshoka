@@ -40,31 +40,31 @@ K:Bm
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 [V:V1]
-!mf! d6 z2 B2 c2 | f4 f4 z4 | e2 e2 f6 e2 | d2 e2 f4 z4 |
-b6 z2 g2 e2 | d4 c4 z4 | !p! e2 e2 B4 c4 | B8 z4 |
-!mf! d2 d2 f6 g2 | f4 e4 z4 | !mp! d2 d2 e6 f2 | e2 d2 c4 z4 |
-!mf! f2 g2 a6 f2 | g4 f4 z4 | !p! e2 e2 B4 c4 | B8 z4 |
-!f! d4 d4 d4 | e4 e4 z4 | d4 f6 g2 | f2 e2 f4 z4 |
-!p! e4 e4 e4 | f4 f4 z4 | !mp! e2 e2 b4 f4 | B8 z4 |
-!mf! d6 z2 B2 c2 | f4 f4 z4 | e2 e2 f6 e2 | d2 e2 f4 z4 |
-b6 z2 g2 e2 | d4 c4 z4 | !p! e2 e2 B4 c4 | B8 z4 |
-!mf! d2 d2 f6 g2 | f4 e4 z4 | !mp! d2 d2 e6 f2 | e2 d2 c4 z4 |
-!mf! f2 g2 a6 f2 | g4 f4 z4 | !p! e2 e2 B4 c4 | B8 z4 |
-!f! d4 d4 d4 | e4 e4 z4 | d4 f6 g2 | f2 e2 f4 z4 |
-!p! e4 e4 e4 | f4 f4 z4 | !mp! e2 e2 b4 f4 | B8 z4 |
+!mf! D6 z2 B,2 C2 | F4 F4 z4 | E2 E2 F6 E2 | D2 E2 F4 z4 |
+B6 z2 G2 E2 | D4 C4 z4 | !p! E2 E2 B,4 C4 | B,8 z4 |
+!mf! D2 D2 F6 G2 | F4 E4 z4 | !mp! D2 D2 E6 F2 | E2 D2 C4 z4 |
+!mf! F2 G2 A6 F2 | G4 F4 z4 | !p! E2 E2 B,4 C4 | B,8 z4 |
+!f! D4 D4 D4 | E4 E4 z4 | D4 F6 G2 | F2 E2 F4 z4 |
+!p! E4 E4 E4 | F4 F4 z4 | !mp! E2 E2 B4 F4 | B,8 z4 |
+!mf! D6 z2 B,2 C2 | F4 F4 z4 | E2 E2 F6 E2 | D2 E2 F4 z4 |
+B6 z2 G2 E2 | D4 C4 z4 | !p! E2 E2 B,4 C4 | B,8 z4 |
+!mf! D2 D2 F6 G2 | F4 E4 z4 | !mp! D2 D2 E6 F2 | E2 D2 C4 z4 |
+!mf! F2 G2 A6 F2 | G4 F4 z4 | !p! E2 E2 B,4 C4 | B,8 z4 |
+!f! D4 D4 D4 | E4 E4 z4 | D4 F6 G2 | F2 E2 F4 z4 |
+!p! E4 E4 E4 | F4 F4 z4 | !mp! E2 E2 B4 F4 | B,8 z4 |
 [V:V2]
-!mf! B6 z2 G2 ^A2 | d4 B4 z4 | c2 c2 d6 c2 | B2 c2 d4 z4 |
-d6 z2 e2 c2 | B4 F4 z4 | !p! A2 A2 G4 F4 | B8 z4 |
-!mf! B2 B2 d6 e2 | d4 c4 z4 | !mp! B2 B2 A6 A2 | G2 G2 F4 z4 |
-!mf! d2 e2 f6 d2 | e4 d4 z4 | !p! A2 A2 G4 F4 | B8 z4 |
-!f! G4 G4 G4 | A4 A4 z4 | B4 d6 e2 | d2 c2 d4 z4 |
-!p! c4 c4 c4 | d4 d4 z4 | !mp! A2 A2 d4 c4 | B8 z4 |
-!mf! B6 z2 G2 ^A2 | d4 B4 z4 | c2 c2 d6 c2 | B2 c2 d4 z4 |
-d6 z2 e2 c2 | B4 F4 z4 | !p! A2 A2 G4 F4 | B8 z4 |
-!mf! B2 B2 d6 e2 | d4 c4 z4 | !mp! B2 B2 A6 A2 | G2 G2 F4 z4 |
-!mf! d2 e2 f6 d2 | e4 d4 z4 | !p! A2 A2 G4 F4 | B8 z4 |
-!f! G4 G4 G4 | A4 A4 z4 | B4 d6 e2 | d2 c2 d4 z4 |
-!p! c4 c4 c4 | d4 d4 z4 | !mp! A2 A2 d4 c4 | B8 z4 |
+!mf! B,6 z2 G,2 ^A,2 | D4 B,4 z4 | C2 C2 D6 C2 | B,2 C2 D4 z4 |
+D6 z2 E2 C2 | B,4 F,4 z4 | !p! A,2 A,2 G,4 F,4 | B,8 z4 |
+!mf! B,2 B,2 D6 E2 | D4 C4 z4 | !mp! B,2 B,2 A,6 A,2 | G,2 G,2 F,4 z4 |
+!mf! D2 E2 F6 D2 | E4 D4 z4 | !p! A,2 A,2 G,4 F,4 | B,8 z4 |
+!f! G,4 G,4 G,4 | A,4 A,4 z4 | B,4 D6 E2 | D2 C2 D4 z4 |
+!p! C4 C4 C4 | D4 D4 z4 | !mp! A,2 A,2 D4 C4 | B,8 z4 |
+!mf! B,6 z2 G,2 ^A,2 | D4 B,4 z4 | C2 C2 D6 C2 | B,2 C2 D4 z4 |
+D6 z2 E2 C2 | B,4 F,4 z4 | !p! A,2 A,2 G,4 F,4 | B,8 z4 |
+!mf! B,2 B,2 D6 E2 | D4 C4 z4 | !mp! B,2 B,2 A,6 A,2 | G,2 G,2 F,4 z4 |
+!mf! D2 E2 F6 D2 | E4 D4 z4 | !p! A,2 A,2 G,4 F,4 | B,8 z4 |
+!f! G,4 G,4 G,4 | A,4 A,4 z4 | B,4 D6 E2 | D2 C2 D4 z4 |
+!p! C4 C4 C4 | D4 D4 z4 | !mp! A,2 A,2 D4 C4 | B,8 z4 |
 ```
 
 ## TMD 檔案連結

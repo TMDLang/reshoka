@@ -7,11 +7,11 @@ Q:1/4=100
 K:A
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-e4 a6 a2 c4 | b4 a6 a2 f4 | e4 f6 f2 c4 | a4 b8 z4 |
-a4 b6 a2 b4 | c4 a6 a2 f4 | e4 f6 f2 c4 | b4 a8 z4 |
-c2 d2 e6 e2 c2 b2 | a4 b6 a2 f4 | e4 a6 a2 c4 | a4 b8 z4 |
-e4 a6 a2 c4 | b4 a6 a2 f4 | e4 a6 a2 c4 | b4 a8 z4 |
-e4 a6 a2 c4 | b4 a6 a2 f4 | e4 f6 f2 c4 | a4 b8 z4 |
-a4 b6 a2 b4 | c4 a6 a2 f4 | e4 f6 f2 c4 | b4 a8 z4 |
-c2 d2 e6 e2 c2 b2 | a4 b6 a2 f4 | e4 a6 a2 c4 | a4 b8 z4 |
-e4 a6 a2 c4 | b4 a6 a2 f4 | e4 a6 a2 c4 | b4 a8 z4 |
+E4 A6 A2 c4 | B4 A6 A2 F4 | E4 F6 F2 c4 | A4 B8 z4 |
+A4 B6 A2 B4 | c4 A6 A2 F4 | E4 F6 F2 c4 | B4 A8 z4 |
+c2 d2 e6 e2 c2 B2 | A4 B6 A2 F4 | E4 A6 A2 c4 | A4 B8 z4 |
+E4 A6 A2 c4 | B4 A6 A2 F4 | E4 A6 A2 c4 | B4 A8 z4 |
+E4 A6 A2 c4 | B4 A6 A2 F4 | E4 F6 F2 c4 | A4 B8 z4 |
+A4 B6 A2 B4 | c4 A6 A2 F4 | E4 F6 F2 c4 | B4 A8 z4 |
+c2 d2 e6 e2 c2 B2 | A4 B6 A2 F4 | E4 A6 A2 c4 | A4 B8 z4 |
+E4 A6 A2 c4 | B4 A6 A2 F4 | E4 A6 A2 c4 | B4 A8 z4 |

@@ -8,20 +8,20 @@ K:F
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 [V:V1]
-!f! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 a2 g4 |
-!mf! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 e2 f2 z2 |
-f2 g2 a2 f2 | g2 e2 f2 f2 | g2 a2 b2 g2 | a2 b2 c4 |
-c2 a2 f2 f2 | g2 a2 g2 g2 | f2 d2 c2 b2 | a2 g2 f4 |
-!f! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 a2 g4 |
-!mf! c2 a2 f2 f2 | g a b g f4 | g2 g2 a2 a2 | g2 e2 f2 z2 |
-f2 g2 a2 f2 | g2 e2 f2 f2 | g2 a2 b2 g2 | a2 b2 c4 |
-c2 a2 f2 f2 | g2 a2 g2 g2 | f2 d2 c2 b2 | a2 g2 f4 |
+!f! c2 A2 F2 F2 | G A B G F4 | G2 G2 A2 A2 | G2 A2 G4 |
+!mf! c2 A2 F2 F2 | G A B G F4 | G2 G2 A2 A2 | G2 E2 F2 z2 |
+F2 G2 A2 F2 | G2 E2 F2 F2 | G2 A2 B2 G2 | A2 B2 c4 |
+c2 A2 F2 F2 | G2 A2 G2 G2 | F2 d2 c2 B2 | A2 G2 F4 |
+!f! c2 A2 F2 F2 | G A B G F4 | G2 G2 A2 A2 | G2 A2 G4 |
+!mf! c2 A2 F2 F2 | G A B G F4 | G2 G2 A2 A2 | G2 E2 F2 z2 |
+F2 G2 A2 F2 | G2 E2 F2 F2 | G2 A2 B2 G2 | A2 B2 c4 |
+c2 A2 F2 F2 | G2 A2 G2 G2 | F2 d2 c2 B2 | A2 G2 F4 |
 [V:V2]
-!f! a2 f2 f2 f2 | e f g e f4 | e2 e2 f2 f2 | e2 f2 e4 |
-!mf! a2 f2 f2 f2 | e f g e f4 | c2 c2 d2 d2 | c2 c2 F2 z2 |
-d2 c2 d2 d2 | c2 c2 d2 d2 | e2 f2 g2 e2 | f2 g2 a4 |
-a2 f2 f2 f2 | e2 f2 e2 e2 | d2 g2 f2 d2 | f2 e2 f4 |
-!f! a2 f2 f2 f2 | e f g e f4 | e2 e2 f2 f2 | e2 f2 e4 |
-!mf! a2 f2 f2 f2 | e f g e f4 | c2 c2 d2 d2 | c2 c2 F2 z2 |
-d2 c2 d2 d2 | c2 c2 d2 d2 | e2 f2 g2 e2 | f2 g2 a4 |
-a2 f2 f2 f2 | e2 f2 e2 e2 | d2 g2 f2 d2 | f2 e2 f4 |
+!f! A2 F2 F2 F2 | E F G E F4 | E2 E2 F2 F2 | E2 F2 E4 |
+!mf! A2 F2 F2 F2 | E F G E F4 | C2 C2 D2 D2 | C2 C2 F,2 z2 |
+D2 C2 D2 D2 | C2 C2 D2 D2 | E2 F2 G2 E2 | F2 G2 A4 |
+A2 F2 F2 F2 | E2 F2 E2 E2 | D2 G2 F2 D2 | F2 E2 F4 |
+!f! A2 F2 F2 F2 | E F G E F4 | E2 E2 F2 F2 | E2 F2 E4 |
+!mf! A2 F2 F2 F2 | E F G E F4 | C2 C2 D2 D2 | C2 C2 F,2 z2 |
+D2 C2 D2 D2 | C2 C2 D2 D2 | E2 F2 G2 E2 | F2 G2 A4 |
+A2 F2 F2 F2 | E2 F2 E2 E2 | D2 G2 F2 D2 | F2 E2 F4 |

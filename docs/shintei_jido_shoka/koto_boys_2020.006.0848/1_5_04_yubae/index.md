@@ -41,11 +41,11 @@ K:G
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 [V:V1]
-!mp! b6 c2 b2 a2 | g4 d4 z4 | e6 e2 f2 g2 | a8 z4 |
-!mf! b6 c2 b2 a2 | d6 c2 b2 a2 | !mp! g4 b4 a4 | g8 z4 |
+!mp! B6 c2 B2 A2 | G4 D4 z4 | E6 E2 F2 G2 | A8 z4 |
+!mf! B6 c2 B2 A2 | d6 c2 B2 A2 | !mp! G4 B4 A4 | G8 z4 |
 [V:V2]
-!mp! g6 a2 g2 f2 | g4 d4 z4 | G6 G2 d2 d2 | d8 z4 |
-!mf! g6 a2 g2 f2 | f6 a2 g2 d2 | !mp! B4 d4 c4 | G8 z4 |
+!mp! G6 A2 G2 F2 | G4 D4 z4 | G,6 G,2 D2 D2 | D8 z4 |
+!mf! G6 A2 G2 F2 | F6 A2 G2 D2 | !mp! B,4 D4 C4 | G,8 z4 |
 ```
 
 ## TMD 檔案連結

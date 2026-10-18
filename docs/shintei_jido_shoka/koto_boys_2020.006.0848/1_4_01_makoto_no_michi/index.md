@@ -40,15 +40,15 @@ K:C
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 [V:V1]
-!mf! z4 z4 z4 c4 | e6 d2 e4 f4 | g4 a4 g4 e4 | c4 d4 e4 f4 |
-!mp! g12 c4 | c6 B2 c4 d4 | e4 f4 e4 c4 | e4 d4 c4 B4 |
-c12 z4 | z16 | z16 | z16 |
+!mf! z4 z4 z4 C4 | E6 D2 E4 F4 | G4 A4 G4 E4 | C4 D4 E4 F4 |
+!mp! G12 C4 | C6 B,2 C4 D4 | E4 F4 E4 C4 | E4 D4 C4 B,4 |
+C12 z4 | z16 | z16 | z16 |
 z16 |
 [V:V2]
 z16 | z16 | z16 | z16 |
-!mf! z4 z4 z4 c4 | e6 d2 e4 f4 | g4 a4 g4 e4 | c4 d4 e4 f4 |
-!mp! g12 c4 | c6 B2 c4 d4 | e4 f4 e4 c4 | e4 d4 c4 B4 |
-c12 z4 |
+!mf! z4 z4 z4 C4 | E6 D2 E4 F4 | G4 A4 G4 E4 | C4 D4 E4 F4 |
+!mp! G12 C4 | C6 B,2 C4 D4 | E4 F4 E4 C4 | E4 D4 C4 B,4 |
+C12 z4 |
 ```
 
 ## TMD 檔案連結

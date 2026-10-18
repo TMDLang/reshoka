@@ -9,50 +9,50 @@ V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 V:V3 name="Part3" snm="Par"
 [V:V1]
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
 z16 | z16 | z16 | z16 |
 z16 | z16 | z16 | z16 |
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
 z16 | z16 | z16 | z16 |
 z16 | z16 | z16 | z16 |
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
 z16 | z16 | z16 | z16 |
 z16 | z16 | z16 | z16 |
 [V:V2]
 z16 | z16 | z16 | z16 |
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
 z16 | z16 | z16 | z16 |
 z16 | z16 | z16 | z16 |
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
 z16 | z16 | z16 | z16 |
 z16 | z16 | z16 | z16 |
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
 z16 | z16 | z16 | z16 |
 [V:V3]
 z16 | z16 | z16 | z16 |
 z16 | z16 | z16 | z16 |
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
 z16 | z16 | z16 | z16 |
 z16 | z16 | z16 | z16 |
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
 z16 | z16 | z16 | z16 |
 z16 | z16 | z16 | z16 |
-c4 B2 A2 G8 | G4 F2 E2 D4 G4 | z4 G2 G2 A4 G4 | F4 E2 D2 E8 |
-E4 D2 C2 G8 | E4 D4 G4 G4 | z4 E2 E2 F4 E4 | D4 C2 B,2 C8 |
-C8 C8 | C8 C8 | C8 C8 | C8 C8 |
+C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
+E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
+C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |

@@ -2,60 +2,77 @@
 
 - 📖 **[書訊與卷首／卷末掃描頁（共 33 頁）](0_book_info/index.md)**
 
-## 曲目列表（共 53 首）
+本冊共收錄 **53 首**曲目（第一學期 10 首、第二學期 11 首、第三學期 7 首、參考教材 25 首）。
 
-| 編號 / 目錄 | 曲名 | 詞曲 / 資訊 | 掃描頁 |
-| :--- | :--- | :--- | :--- |
-| `1_01_mori_no_gakutai` | [**森の樂隊**](1_01_mori_no_gakutai/index.md) | 詞：石原和三郎 / 曲：田村虎藏（`?=F` `<2/4>`） | P024.jpg, P025.jpg |
-| `1_02_ama_no_iwaya` | [**天の岩屋**](1_02_ama_no_iwaya/index.md) | 詞：葛原しげる / 曲：小松耕輔（`?=G` `<4/4>`） | P026.jpg |
-| `1_03_kagayaku_hikari` | [**かゞやく光**](1_03_kagayaku_hikari/index.md) | `?=G` `<4/4>` | P027.jpg |
-| `1_04_mura_no_kajiya` | [**村のかぢや**](1_04_mura_no_kajiya/index.md) | 詞：中村秋香 / 曲：田村虎藏（`?=F` `<2/4>`） | P028.jpg |
-| `1_05_cho` | [**蝶**](1_05_cho/index.md) | `?=F` `<2/4>` | P029.jpg |
-| `1_06_koinobori` | [**鯉のぼり**](1_06_koinobori/index.md) | 詞：葛原しげる / 曲：小松耕輔（`?=D` `<2/4>`） | P030.jpg, P031.jpg |
-| `1_07_kaminarisama` | [**かみなりさま**](1_07_kaminarisama/index.md) | 詞：吉丸一昌 / 曲：永井幸次（`?=F` `<2/4>`） | P032.jpg |
-| `1_08_niji` | [**虹**](1_08_niji/index.md) | `?=D` `<4/4>` | P033.jpg |
-| `1_09_nagai_oyasumi` | [**長いお休**](1_09_nagai_oyasumi/index.md) | `?=D` `<4/4>` | P034.jpg |
-| `1_10_natsu_no_uta` | [**夏の歌**](1_10_natsu_no_uta/index.md) | 詞：大和田建樹 / 曲：田村虎藏（`?=G` `<2/4>`） | P035.jpg |
-| `2_01_mushi_no_gakutai` | [**蟲の樂隊（蟲之樂隊）**](2_01_mushi_no_gakutai/index.md) | `?=E` `<2/4>` | P036.jpg, P037.jpg |
-| `2_02_yamata_no_orochi` | [**八岐の大蛇（八岐大蛇）**](2_02_yamata_no_orochi/index.md) | `?=F` `<4/4>` | P038.jpg |
-| `2_03_hinomaru_no_hata` | [**日の丸のはた（日之丸國旗）**](2_03_hinomaru_no_hata/index.md) | `?=F` `<2/4>` | P039.jpg |
-| `2_04_omatsuribi` | [**お祭日（祭典之日）**](2_04_omatsuribi/index.md) | `?=Eb` `<2/4>` | P040.jpg, P041.jpg |
-| `2_05_yamato_takeru_no_mikoto` | [**日本武尊**](2_05_yamato_takeru_no_mikoto/index.md) | `?=A` `<2/4>` | P042.jpg |
-| `2_06_toriire` | [**取入れ（秋收）**](2_06_toriire/index.md) | `?=F` `<2/4>` | P043.jpg |
-| `2_07_taiwan_koshinka` | [**臺灣行進歌**](2_07_taiwan_koshinka/index.md) | 詞：山口充一 / 曲：池田玉子（`?=G` `<2/4>`） | P044.jpg, P045.jpg |
-| `2_08_undokai` | [**運動會**](2_08_undokai/index.md) | `?=C` `<2/4>` | P046.jpg, P047.jpg |
-| `2_09_minato` | [**港**](2_09_minato/index.md) | `?=C` `<3/4>` | P048.jpg |
-| `2_10_kisha` | [**汽車（火車）**](2_10_kisha/index.md) | `?=G` `<2/4>` | P049.jpg |
-| `2_11_niji` | [**にじ（彩虹）**](2_11_niji/index.md) | `?=Eb` `<4/4>` | P050.jpg, P051.jpg |
-| `3_01_dainippon` | [**大日本**](3_01_dainippon/index.md) | `?=G` `<2/4>` | P052.jpg |
-| `3_02_omoiyari` | [**おもひやり（體貼同理）**](3_02_omoiyari/index.md) | `?=G` `<4/4>` | P053.jpg |
-| `3_03_machi_no_asa` | [**町の朝（街鎮之晨）**](3_03_machi_no_asa/index.md) | `?=F` `<2/4>` | P054.jpg |
-| `3_04_sumiyaki` | [**炭やき（燒炭）**](3_04_sumiyaki/index.md) | `?=Bb` `<2/4>` | P055.jpg |
-| `3_05_kamikaze` | [**神風**](3_05_kamikaze/index.md) | `?=C` `<3/4>` | P056.jpg |
-| `3_06_chikuonki` | [**蓄音機（留聲機）**](3_06_chikuonki/index.md) | `?=C` `<2/4>` | P057.jpg |
-| `3_07_tokonatsu_no_shima` | [**常夏の島**](3_07_tokonatsu_no_shima/index.md) | 詞：萱島保之 / 曲：柚木厚司（`?=G` `<2/4>`） | P058.jpg |
-| `4_01_tsunahiki` | [**綱ひき**](4_01_tsunahiki/index.md) | `?=C` `<2/4>` | P059.jpg |
-| `4_02_kabin_no_hana` | [**花瓶の花**](4_02_kabin_no_hana/index.md) | 詞：葛原齒 / 曲：佛蘭西（`?=Bb` `<4/4>`） | P060.jpg |
-| `4_03_konkon_kokiji` | [**こんこん小雉子**](4_03_konkon_kokiji/index.md) | 詞：福田正夫 / 曲：杉江秀（`?=D` `<4/4>`） | P061.jpg |
-| `4_04_nemuri_ningyo` | [**ねむり人形**](4_04_nemuri_ningyo/index.md) | 詞：葛原齒 / 曲：本居長世（`?=F` `<4/4>`） | P062.jpg, P063.jpg |
-| `4_05_kemuri` | [**けむり**](4_05_kemuri/index.md) | 詞：三木露風 / 曲：山田耕作（`?=F` `<2/4>`） | P064.jpg |
-| `4_06_bokura_wa_shonen_da` | [**僕等は少年だ**](4_06_bokura_wa_shonen_da/index.md) | 詞：傳田治朗 / 曲：原田比古士良（`?=C` `<2/4>`） | P065.jpg |
-| `4_07_oniwa_no_rajio` | [**お庭のラヂオ**](4_07_oniwa_no_rajio/index.md) | 詞：清水かつら / 曲：草川信（`?=C` `<2/4>`） | P066.jpg, P067.jpg |
-| `4_08_hiyodorigoe` | [**鵯越**](4_08_hiyodorigoe/index.md) | `?=F` `<4/4>` | P068.jpg |
-| `4_09_hasu_no_ha_no_tsuyu` | [**蓮の葉の露**](4_09_hasu_no_ha_no_tsuyu/index.md) | 詞：葛原齒 / 曲：梁田貞（`?=C` `<4/4>`） | P069.jpg |
-| `4_10_ensoku_no_uta` | [**遠足の歌**](4_10_ensoku_no_uta/index.md) | 詞：葛原齒 / 曲：小松耕輔（`?=F` `<2/4>`） | P070.jpg, P071.jpg |
-| `4_11_nami_ga_zanburiko` | [**波がざんぶりこ**](4_11_nami_ga_zanburiko/index.md) | 詞：野口雨情 / 曲：佐々木のぼる（`?=Bb` `<2/4>`） | P072.jpg |
-| `4_12_kobune` | [**小舟**](4_12_kobune/index.md) | 詞：若山牧水 / 曲：杉江秀（`?=Bb` `<4/4>`） | P073.jpg |
-| `4_13_yubinbako` | [**郵便函**](4_13_yubinbako/index.md) | 詞：松岸寛一 / 曲：永井幸次（`?=F` `<2/4>`） | P074.jpg |
-| `4_14_katsudo_shashin` | [**活動寫眞**](4_14_katsudo_shashin/index.md) | 葛原齒 作詞 / 小松耕輔 作曲（`?=D` `<6/8>`） | P075.jpg |
-| `4_15_saru_no_sarumane` | [**猿の猿眞似**](4_15_saru_no_sarumane/index.md) | 野口雨情 作詞 / 室崎琴月 作曲（`?=C` `<2/4>`） | P076.jpg, P077.jpg |
-| `4_16_ume_ni_uguisu` | [**梅に鶯**](4_16_ume_ni_uguisu/index.md) | 葛原齒 作詞 / 小松耕輔 作曲（`?=D` `<2/4>`） | P078.jpg, P079.jpg |
-| `4_17_shingun` | [**進軍**](4_17_shingun/index.md) | 葛原齒 作詞 / 梁田貞 作曲（`?=F` `<2/4>`） | P080.jpg, P081.jpg |
-| `4_18_hinagiku` | [**雛菊**](4_18_hinagiku/index.md) | 松岸寛一 作詞 / 永井幸次 作曲（`?=Bb` `<2/4>`） | P082.jpg, P083.jpg |
-| `4_19_aoi_kotori` | [**青い小鳥**](4_19_aoi_kotori/index.md) | 福田董 作詞 / 大和田愛羅 作曲（`?=Bb` `<4/4>`） | P084.jpg |
-| `4_20_fuyu_no_asa` | [**冬の朝**](4_20_fuyu_no_asa/index.md) | 三木露風 作詞 / 山田耕作 作曲（`?=C` `<2/4>`） | P085.jpg |
-| `4_21_kyabetsu` | [**キャベツ**](4_21_kyabetsu/index.md) | `?=C` `<3/4>` | P086.jpg |
-| `4_22_kaki_kyugyo` | [**夏季休業**](4_22_kaki_kyugyo/index.md) | `?=A` `<4/4>` | P087.jpg |
-| `4_23_toki_kyugyo` | [**冬季休業**](4_23_toki_kyugyo/index.md) | `?=G` `<4/4>` | P088.jpg |
-| `4_24_shigyoshiki` | [**始業式**](4_24_shigyoshiki/index.md) | `?=D` `<4/4>` | P089.jpg |
-| `4_25_shugyoshiki` | [**終業式**](4_25_shugyoshiki/index.md) | `?=D` `<4/4>` | P090.jpg |
+## 第一學期（共 10 首）
+
+| 編號 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
+| :--- | :--- | :--- | :--- | :--- |
+| (1) | [**森の樂隊**](1_01_mori_no_gakutai/index.md) | 詞：石原和三郎 / 曲：田村虎藏 | `?=F` `<2/4>` `!=108` | P024.jpg, P025.jpg |
+| (2) | [**天の岩屋**](1_02_ama_no_iwaya/index.md) | 詞：葛原しげる / 曲：小松耕輔 | `?=G` `<4/4>` `!=80` | P026.jpg |
+| (3) | [**かゞやく光**](1_03_kagayaku_hikari/index.md) | — | `?=G` `<4/4>` `!=108` | P027.jpg |
+| (4) | [**村のかぢや**](1_04_mura_no_kajiya/index.md) | 詞：中村秋香 / 曲：田村虎藏 | `?=F` `<2/4>` `!=84` | P028.jpg |
+| (5) | [**蝶**](1_05_cho/index.md) | — | `?=F` `<2/4>` `!=116` | P029.jpg |
+| (6) | [**鯉のぼり**](1_06_koinobori/index.md) | 詞：葛原しげる / 曲：小松耕輔 | `?=D` `<2/4>` `!=100` | P030.jpg, P031.jpg |
+| (7) | [**かみなりさま**](1_07_kaminarisama/index.md) | 詞：吉丸一昌 / 曲：永井幸次 | `?=F` `<2/4>` `!=112` | P032.jpg |
+| (8) | [**虹**](1_08_niji/index.md) | — | `?=D` `<4/4>` `!=92` | P033.jpg |
+| (9) | [**長いお休**](1_09_nagai_oyasumi/index.md) | — | `?=D` `<4/4>` `!=96` | P034.jpg |
+| (10) | [**夏の歌**](1_10_natsu_no_uta/index.md) | 詞：大和田建樹 / 曲：田村虎藏 | `?=G` `<2/4>` `!=96` | P035.jpg |
+
+## 第二學期（共 11 首）
+
+| 編號 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
+| :--- | :--- | :--- | :--- | :--- |
+| (1) | [**蟲の樂隊（蟲之樂隊）**](2_01_mushi_no_gakutai/index.md) | — | `?=E` `<2/4>` `!=108` | P036.jpg, P037.jpg |
+| (2) | [**八岐の大蛇（八岐大蛇）**](2_02_yamata_no_orochi/index.md) | — | `?=F` `<4/4>` `!=100` | P038.jpg |
+| (3) | [**日の丸のはた（日之丸國旗）**](2_03_hinomaru_no_hata/index.md) | — | `?=F` `<2/4>` `!=116` | P039.jpg |
+| (4) | [**お祭日（祭典之日）**](2_04_omatsuribi/index.md) | — | `?=Eb` `<2/4>` `!=132` | P040.jpg, P041.jpg |
+| (5) | [**日本武尊**](2_05_yamato_takeru_no_mikoto/index.md) | — | `?=A` `<2/4>` `!=66` | P042.jpg |
+| (6) | [**取入れ（秋收）**](2_06_toriire/index.md) | — | `?=F` `<2/4>` `!=116` | P043.jpg |
+| (7) | [**臺灣行進歌**](2_07_taiwan_koshinka/index.md) | 詞：山口充一 / 曲：池田玉子 | `?=G` `<2/4>` `!=112` | P044.jpg, P045.jpg |
+| (8) | [**運動會**](2_08_undokai/index.md) | — | `?=C` `<2/4>` `!=120` | P046.jpg, P047.jpg |
+| (9) | [**港**](2_09_minato/index.md) | — | `?=C` `<3/4>` `!=92` | P048.jpg |
+| (10) | [**汽車（火車）**](2_10_kisha/index.md) | — | `?=G` `<2/4>` `!=92` | P049.jpg |
+| (11) | [**にじ（彩虹）**](2_11_niji/index.md) | — | `?=Eb` `<4/4>` `!=88` | P050.jpg, P051.jpg |
+
+## 第三學期（共 7 首）
+
+| 編號 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
+| :--- | :--- | :--- | :--- | :--- |
+| (1) | [**大日本**](3_01_dainippon/index.md) | — | `?=G` `<2/4>` `!=100` | P052.jpg |
+| (2) | [**おもひやり（體貼同理）**](3_02_omoiyari/index.md) | — | `?=G` `<4/4>` `!=88` | P053.jpg |
+| (3) | [**町の朝（街鎮之晨）**](3_03_machi_no_asa/index.md) | — | `?=F` `<2/4>` `!=108` | P054.jpg |
+| (4) | [**炭やき（燒炭）**](3_04_sumiyaki/index.md) | — | `?=Bb` `<2/4>` `!=112` | P055.jpg |
+| (5) | [**神風**](3_05_kamikaze/index.md) | — | `?=C` `<3/4>` `!=108` | P056.jpg |
+| (6) | [**蓄音機（留聲機）**](3_06_chikuonki/index.md) | — | `?=C` `<2/4>` `!=108` | P057.jpg |
+| (7) | [**常夏の島**](3_07_tokonatsu_no_shima/index.md) | 詞：萱島保之 / 曲：柚木厚司 | `?=G` `<2/4>` `!=108` | P058.jpg |
+
+## 參考教材（共 25 首）
+
+| 編號 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
+| :--- | :--- | :--- | :--- | :--- |
+| (1) | [**綱ひき**](4_01_tsunahiki/index.md) | — | `?=C` `<2/4>` `!=116` | P059.jpg |
+| (2) | [**花瓶の花**](4_02_kabin_no_hana/index.md) | 詞：葛原齒 / 曲：佛蘭西 | `?=Bb` `<4/4>` `!=96` | P060.jpg |
+| (3) | [**こんこん小雉子**](4_03_konkon_kokiji/index.md) | 詞：福田正夫 / 曲：杉江秀 | `?=D` `<4/4>` `!=100` | P061.jpg |
+| (4) | [**ねむり人形**](4_04_nemuri_ningyo/index.md) | 詞：葛原齒 / 曲：本居長世 | `?=F` `<4/4>` `!=96` | P062.jpg, P063.jpg |
+| (5) | [**けむり**](4_05_kemuri/index.md) | 詞：三木露風 / 曲：山田耕作 | `?=F` `<2/4>` `!=138` | P064.jpg |
+| (6) | [**僕等は少年だ**](4_06_bokura_wa_shonen_da/index.md) | 詞：傳田治朗 / 曲：原田比古士良 | `?=C` `<2/4>` `!=112` | P065.jpg |
+| (7) | [**お庭のラヂオ**](4_07_oniwa_no_rajio/index.md) | 詞：清水かつら / 曲：草川信 | `?=C` `<2/4>` `!=116` | P066.jpg, P067.jpg |
+| (8) | [**鵯越**](4_08_hiyodorigoe/index.md) | — | `?=F` `<4/4>` `!=120` | P068.jpg |
+| (9) | [**蓮の葉の露**](4_09_hasu_no_ha_no_tsuyu/index.md) | 詞：葛原齒 / 曲：梁田貞 | `?=C` `<4/4>` `!=100` | P069.jpg |
+| (10) | [**遠足の歌**](4_10_ensoku_no_uta/index.md) | 詞：葛原齒 / 曲：小松耕輔 | `?=F` `<2/4>` `!=116` | P070.jpg, P071.jpg |
+| (11) | [**波がざんぶりこ**](4_11_nami_ga_zanburiko/index.md) | 詞：野口雨情 / 曲：佐々木のぼる | `?=Bb` `<2/4>` `!=108` | P072.jpg |
+| (12) | [**小舟**](4_12_kobune/index.md) | 詞：若山牧水 / 曲：杉江秀 | `?=Bb` `<4/4>` `!=96` | P073.jpg |
+| (13) | [**郵便函**](4_13_yubinbako/index.md) | 詞：松岸寛一 / 曲：永井幸次 | `?=F` `<2/4>` `!=100` | P074.jpg |
+| (14) | [**活動寫眞**](4_14_katsudo_shashin/index.md) | 葛原齒 作詞 / 小松耕輔 作曲 | `?=D` `<6/8>` `!=112` | P075.jpg |
+| (15) | [**猿の猿眞似**](4_15_saru_no_sarumane/index.md) | 野口雨情 作詞 / 室崎琴月 作曲 | `?=C` `<2/4>` `!=108` | P076.jpg, P077.jpg |
+| (16) | [**梅に鶯**](4_16_ume_ni_uguisu/index.md) | 葛原齒 作詞 / 小松耕輔 作曲 | `?=D` `<2/4>` `!=76` | P078.jpg, P079.jpg |
+| (17) | [**進軍**](4_17_shingun/index.md) | 葛原齒 作詞 / 梁田貞 作曲 | `?=F` `<2/4>` `!=116` | P080.jpg, P081.jpg |
+| (18) | [**雛菊**](4_18_hinagiku/index.md) | 松岸寛一 作詞 / 永井幸次 作曲 | `?=Bb` `<2/4>` `!=96` | P082.jpg, P083.jpg |
+| (19) | [**青い小鳥**](4_19_aoi_kotori/index.md) | 福田董 作詞 / 大和田愛羅 作曲 | `?=Bb` `<4/4>` `!=96` | P084.jpg |
+| (20) | [**冬の朝**](4_20_fuyu_no_asa/index.md) | 三木露風 作詞 / 山田耕作 作曲 | `?=C` `<2/4>` `!=88` | P085.jpg |
+| (21) | [**キャベツ**](4_21_kyabetsu/index.md) | — | `?=C` `<3/4>` `!=100` | P086.jpg |
+| (22) | [**夏季休業**](4_22_kaki_kyugyo/index.md) | — | `?=A` `<4/4>` `!=100` | P087.jpg |
+| (23) | [**冬季休業**](4_23_toki_kyugyo/index.md) | — | `?=G` `<4/4>` `!=100` | P088.jpg |
+| (24) | [**始業式**](4_24_shigyoshiki/index.md) | — | `?=D` `<4/4>` `!=108` | P089.jpg |
+| (25) | [**終業式**](4_25_shugyoshiki/index.md) | — | `?=D` `<4/4>` `!=96` | P090.jpg |

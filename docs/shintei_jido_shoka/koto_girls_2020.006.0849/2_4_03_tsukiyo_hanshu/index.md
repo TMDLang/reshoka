@@ -40,17 +40,17 @@ K:Bb
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 [V:V1]
-!p! z2 z2 z2 z2 z2 f2 | d4 d2 c4 c2 | b4 b2 f4 f2 | c4 d2 e4 c2 |
-b4 c2 d4 f2 | d4 d2 c4 c2 | b4 b2 f4 f2 | c4 d2 e4 c2 |
-!mf! b6 b2 z2 b2 | g4 g2 f4 f2 | e4 e2 d4 d2 | c4 c2 d4 c2 |
-b4 a2 b4 b2 | g4 g2 f4 f2 | e4 e2 d4 d2 | c4 c2 d4 c2 |
-b6 b4 z2 |
+!p! z2 z2 z2 z2 z2 F2 | d4 d2 c4 c2 | B4 B2 F4 F2 | c4 d2 e4 c2 |
+B4 c2 d4 F2 | d4 d2 c4 c2 | B4 B2 F4 F2 | c4 d2 e4 c2 |
+!mf! B6 B2 z2 B2 | g4 g2 f4 f2 | e4 e2 d4 d2 | c4 c2 d4 c2 |
+B4 A2 B4 B2 | g4 g2 f4 f2 | e4 e2 d4 d2 | c4 c2 d4 c2 |
+B6 B4 z2 |
 [V:V2]
-!p! z2 z2 z2 z2 z2 f2 | b4 b2 f4 f2 | d4 d2 f4 f2 | f4 f2 f4 f2 |
-d4 e2 f4 f2 | b4 b2 f4 f2 | d4 d2 f4 f2 | f4 f2 f4 f2 |
-!mf! d6 d2 z2 b2 | e4 e2 d4 d2 | c4 c2 b4 b2 | f4 f2 f4 f2 |
-d4 c2 d4 b2 | e4 e2 d4 d2 | c4 c2 b4 b2 | f4 f2 f4 f2 |
-d6 d4 z2 |
+!p! z2 z2 z2 z2 z2 F2 | B4 B2 F4 F2 | D4 D2 F4 F2 | F4 F2 F4 F2 |
+D4 E2 F4 F2 | B4 B2 F4 F2 | D4 D2 F4 F2 | F4 F2 F4 F2 |
+!mf! D6 D2 z2 B2 | e4 e2 d4 d2 | c4 c2 B4 B2 | F4 F2 F4 F2 |
+D4 C2 D4 B2 | e4 e2 d4 d2 | c4 c2 B4 B2 | F4 F2 F4 F2 |
+D6 D4 z2 |
 ```
 
 ## TMD 檔案連結

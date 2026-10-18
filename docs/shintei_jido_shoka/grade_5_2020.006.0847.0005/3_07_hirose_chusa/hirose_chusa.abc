@@ -7,8 +7,8 @@ Q:1/4=112
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 d3 d | g8 g4 a3 g | e8 d4 b3 a | g3 a b3 d e3 d b3 g |
-a8 z4 d3 d | g8 g4 a3 b | d8 b4 d3 d | e3 d b3 d a3 d f3 e |
-!p! d8 z4 a3 a | a4 f4 d4 g3 a | b8 g4 b3 d | e3 e d3 b g3 a b3 b |
-!mf! a8 z4 d3 b | g4 b3 d e4 d3 b | d4 b8 d3 e | d3 b g3 e d3 g b3 a |
-g8 z4 z4 |
+!mf! z4 z4 z4 D3 D | G8 G4 A3 G | E8 D4 B3 A | G3 A B3 d e3 d B3 G |
+A8 z4 D3 D | G8 G4 A3 B | d8 B4 d3 d | e3 d B3 d A3 D F3 E |
+!p! D8 z4 A3 A | A4 F4 D4 G3 A | B8 G4 B3 d | e3 e d3 B G3 A B3 B |
+!mf! A8 z4 d3 B | G4 B3 d e4 d3 B | d4 B8 d3 e | d3 B G3 E D3 G B3 A |
+G8 z4 z4 |

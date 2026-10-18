@@ -43,13 +43,13 @@ Q:1/4=96
 K:Eb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mp! z4 z4 B,3 B, | E4 G4 A3 G | B4 B4 B c B | G4 E6 F2 |
-B,8 E3 E | F4 F4 G3 A | B4 G4 c d c | B4 G6 F2 |
-!mf! E8 B A G | A4 c4 c d e | B4 G4 B A G | F4 G4 A4 |
-B8 B A G | A4 c4 c d e | B4 G4 B A G | G8 F4 |
-!mp! E8 E3 E | F4 F4 G3 A | B4 G4 c d c | G8 F4 |
-!mf! B,8 B,3 B, | E4 G4 A3 G | G4 F4 c d e | G8 F4 |
-E8 z4 |
+!mp! z4 z4 B,,3 B,, | E,4 G,4 A,3 G, | B,4 B,4 B,4/3 C4/3 B,4/3 | G,4 E,6 F,2 |
+B,,8 E,3 E, | F,4 F,4 G,3 A, | B,4 G,4 C4/3 D4/3 C4/3 | B,4 G,6 F,2 |
+!mf! E,8 B,4/3 A,4/3 G,4/3 | A,4 C4 C4/3 D4/3 E4/3 | B,4 G,4 B,4/3 A,4/3 G,4/3 | F,4 G,4 A,4 |
+B,8 B,4/3 A,4/3 G,4/3 | A,4 C4 C4/3 D4/3 E4/3 | B,4 G,4 B,4/3 A,4/3 G,4/3 | G,8 F,4 |
+!mp! E,8 E,3 E, | F,4 F,4 G,3 A, | B,4 G,4 C4/3 D4/3 C4/3 | G,8 F,4 |
+!mf! B,,8 B,,3 B,, | E,4 G,4 A,3 G, | G,4 F,4 C4/3 D4/3 E4/3 | G,8 F,4 |
+E,8 z4 |
 ```
 
 ## TMD 檔案連結

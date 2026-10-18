@@ -40,19 +40,19 @@ K:F
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 [V:V1]
-!mf! f4 a6 b2 a4 | g8 f4 g4 | a4 b4 c4 a4 | g8 z8 |
-f4 g4 a4 b4 | !f! !mf! c8 b4 g4 | f4 a4 g4 b4 | f8 z8 |
-!mf! f4 a6 b2 a4 | g8 f4 g4 | a4 b4 c4 a4 | g8 z8 |
-f4 g4 a4 b4 | !f! !mf! c8 b4 g4 | f4 a4 g4 b4 | f8 z8 |
-!mf! f4 a6 b2 a4 | g8 f4 g4 | a4 b4 c4 a4 | g8 z8 |
-f4 g4 a4 b4 | !f! !mf! c8 b4 g4 | f4 a4 g4 b4 | f8 z8 |
+!mf! F4 A6 B2 A4 | G8 F4 G4 | A4 B4 c4 A4 | G8 z8 |
+F4 G4 A4 B4 | !f! !mf! c8 B4 G4 | F4 A4 G4 B4 | F8 z8 |
+!mf! F4 A6 B2 A4 | G8 F4 G4 | A4 B4 c4 A4 | G8 z8 |
+F4 G4 A4 B4 | !f! !mf! c8 B4 G4 | F4 A4 G4 B4 | F8 z8 |
+!mf! F4 A6 B2 A4 | G8 F4 G4 | A4 B4 c4 A4 | G8 z8 |
+F4 G4 A4 B4 | !f! !mf! c8 B4 G4 | F4 A4 G4 B4 | F8 z8 |
 [V:V2]
-!mf! f4 f6 g2 f4 | e8 c4 e4 | f4 g4 a4 f4 | e8 z8 |
-d4 e4 f4 g4 | !f! !mf! a8 g4 e4 | d4 f4 e4 c4 | f8 z8 |
-!mf! f4 f6 g2 f4 | e8 c4 e4 | f4 g4 a4 f4 | e8 z8 |
-d4 e4 f4 g4 | !f! !mf! a8 g4 e4 | d4 f4 e4 c4 | f8 z8 |
-!mf! f4 f6 g2 f4 | e8 c4 e4 | f4 g4 a4 f4 | e8 z8 |
-d4 e4 f4 g4 | !f! !mf! a8 g4 e4 | d4 f4 e4 c4 | f8 z8 |
+!mf! F4 F6 G2 F4 | E8 C4 E4 | F4 G4 A4 F4 | E8 z8 |
+D4 E4 F4 G4 | !f! !mf! A8 G4 E4 | D4 F4 E4 C4 | F8 z8 |
+!mf! F4 F6 G2 F4 | E8 C4 E4 | F4 G4 A4 F4 | E8 z8 |
+D4 E4 F4 G4 | !f! !mf! A8 G4 E4 | D4 F4 E4 C4 | F8 z8 |
+!mf! F4 F6 G2 F4 | E8 C4 E4 | F4 G4 A4 F4 | E8 z8 |
+D4 E4 F4 G4 | !f! !mf! A8 G4 E4 | D4 F4 E4 C4 | F8 z8 |
 ```
 
 ## TMD 檔案連結
