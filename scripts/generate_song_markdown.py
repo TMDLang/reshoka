@@ -542,6 +542,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "  features:",
         "    - navigation.instant",
         "    - navigation.tracking",
+        "    - navigation.sections",
         "    - navigation.top",
         "    - search.suggest",
         "    - search.highlight",
