@@ -1,0 +1,26 @@
+X:1
+T:ローレライ
+C:曲：Friedrich Silcher（大正女學唱歌）
+M:6/8
+L:1/16
+Q:3/8=40
+K:C
+
+V:V1 name="Piano" snm="Pia"
+
+[V:V1]
+!mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 | G4 G2 A2 G2 A2 |
+d10 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 | G4 c2 d3 e d2 |
+c10 c2 | d4 d2 B3 B d2 | g4 f2 e4 e2 | B4 B2 d3 c A2 |
+G10 G2 | e3 f e2 g3 f e2 | a4 a2 g4 e2 | g4 f2 d3 e d2 |
+c10 z2 | !mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 |
+G4 G2 A2 G2 A2 | d10 G2 | e3 f e2 g3 f e2 | d4 c2 A4 A2 |
+G4 c2 d3 e d2 | c10 c2 | d4 d2 B3 B d2 | g4 f2 e4 e2 |
+B4 B2 d3 c A2 | G10 G2 | e3 f e2 g3 f e2 | a4 a2 g4 e2 |
+g4 f2 d3 e d2 | c10 z2 | !mf! z2 z2 z2 z2 z2 G2 | e3 f e2 g3 f e2 |
+d4 c2 A4 A2 | G4 G2 A2 G2 A2 | d10 G2 | e3 f e2 g3 f e2 |
+d4 c2 A4 A2 | G4 c2 d3 e d2 | c10 c2 | d4 d2 B3 B d2 |
+g4 f2 e4 e2 | B4 B2 d3 c A2 | G10 G2 | e3 f e2 g3 f e2 |
+a4 a2 g4 e2 | g4 f2 d3 e d2 | c10 z2 |
+
+

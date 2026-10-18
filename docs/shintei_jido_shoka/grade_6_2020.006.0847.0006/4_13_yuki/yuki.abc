@@ -1,0 +1,18 @@
+X:1
+T:勇氣
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=108
+K:F
+
+V:V1 name="Piano" snm="Pia"
+
+[V:V1]
+!mf! z4 z4 c3 c | f6 g2 f2 e2 | f4 g4 a3 a | b6 d2 c2 b2 |
+a8 c3 c | c6 a2 b2 c2 | d4 c4 b3 b | a6 c2 b2 g2 |
+!f! f8 c3 c | e6 e2 e2 e2 | !mf! f4 c4 a3 b | c6 f2 e2 d2 |
+!f! c8 c3 c | f6 e2 d2 e2 | !mf! f4 d4 b3 g | f6 a2 b2 g2 |
+f8 z4 |
+
+

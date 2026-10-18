@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=10" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="Desription" content="文化部-典藏網" />
+    <meta name="keywords" content="文化部-典藏網" />
+  <meta name="author" content="文化部" />
+  <meta name="copyright" content="文化部版權所有" />
+  <meta name="Accessible_website" content="本網站通過AA檢測等級無障礙網頁檢測">
+  <title>文化部-典藏網-首頁</title>
+  <link rel="icon" href="/img/favicon.ico" />
+  <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/moc_collectionsweb_core.styles.css?v=GqnZ7-A3JzxyNOkxOh0drqU-YWNtjMjdkNjlWUToNWk" />
+  <script src="/lib/jquery/dist/jquery.min.js"></script>
+  <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X8CCH76729"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-X8CCH76729');
+  </script>
+<script type="text/javascript">
+  function setFocusToTextBox(ID) {
+    if (document.getElementById(ID) != null) {
+      var textbox = document.getElementById(ID);
+      textbox.focus();
+      textbox.scrollIntoView(false);
+    }
+  }
+</script>
+  <script>
+    function __doGoBack(eventTarget, eventArgument) {
+      var theForm = document.forms['form1'];
+      if (!theForm) {
+        theForm = document.form1;
+      }
+      if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        //        theForm.method = "get";
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.method = "get";
+        // alert(document.getElementById("GridSortUsePost"));
+        //if ((document.getElementById("GridSortUsePost") != null) && (document.getElementById("GridSortUsePost").value == "GridSortUsePost")) {
+        //    theForm.method = "post";
+        //}
+        //alert(theForm.method);
+        theForm.submit();
+        theForm.__EVENTTARGET.value = '';
+        theForm.__EVENTARGUMENT.value = '';
+      }
+    }
+    function chkKeyword(InputID) {
+      if (document.getElementById(InputID) != null) {
+        var InputValue = document.getElementById(InputID).value;
+        if (InputValue == "") {
+          alert('請輸入關鍵字');
+          return false;
+        } else {
+          return true;
+        }
+      } else {
+        alert('錯誤');
+        return false;
+      }
+
+    }
+  </script>
+</head>
+
+<body class=''>
+  <form id="form1" method="post" enctype="application/x-www-form-urlencoded">
+    <input b-bketadsuui type="hidden" name="__EVENTTARGET" value="" />
+    <input b-bketadsuui type="hidden" name="__EVENTARGUMENT" value="" />
+    <div b-bketadsuui class="container-fluid">
+      <main b-bketadsuui role="main">
+        
+<link rel="stylesheet" href="/bgCss" />
+<link rel="stylesheet" href="/css/slick.css" />
+<link rel="stylesheet" href="/css/slick-theme.css?T=20251125" />
+<a href="#C" id="gotocenter" title="跳到主要內容" tabindex="1" class="visually-hidden-focusable goCenter">跳到主要內容</a>
+  <script type="text/javascript">
+    function BannerCtrl(mode) {
+      if (mode === "pause") {
+        //暫停
+        $('#lnkpause').attr('class',"position-absolute d-none");
+        $('#lnkplay').attr('class', "position-absolute");
+        document.querySelector('.slider_container').classList.add('paused');
+        document.querySelector('.slider_item').classList.add('paused');
+
+      } else {
+        //撥放
+        $('#lnkpause').attr('class', "position-absolute");
+        $('#lnkplay').attr('class', "position-absolute d-none");
+
+        document.querySelector('.slider_container').classList.remove('paused');
+        document.querySelector('.slider_item').classList.remove('paused');
+      }
+    }
+  </script>
+  <div class="row Header">
+    <div class="col-12 welcomeIcon text-right">
+      <ul class="nav justify-content-end">
+        <li class="nav-item">
+          <a name="U" title="上方內容區" id="AU" accesskey="U" href="#U" class="GUIDEup text-white">:::</a>
+        </li>
+        <li class="nav-item">
+          <a href="sitemap" class="nav-Link7">網站導覽</a>
+        </li>
+        <li class="nav-item position-relative">
+          <a href="UserAddRpt" class="nav-Link7">下載清單</a>
+          <span id="lblAddCount" class="TipCountNumHome invisible"></span>
+        </li>
+      </ul>
+    </div>
+    <div class="col-12 p-0 bg">
+      <div class="w-100 TopNavBarMenu">
+        <a id="lnkpause" title="暫停播放輪播" href="javascript:BannerCtrl('pause');" class="position-absolute" style="z-index:5 !important;right:5px;top:5px"><img src="./Images/pause.png" alt="暫停播放輪播圖示" class="img-fluid"></a>
+        <a id="lnkplay" title="播放輪播" href="javascript:BannerCtrl('play');" class="position-absolute d-none" style="z-index: 5 !important; right: 5px; top: 5px"><img src="./Images/play.png" alt="播放輪播圖示" class="img-fluid"></a>
+        <div class="w-100 h-25 p-xl-4 p-2">
+          <nav class="navbar navbar-expand-lg justify-content-end">
+            <ul class="nav justify-content-end">
+              <li class="nav-item">
+                <a class="nav-link" href="index" title="首頁">首頁</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="Search" title="藏品查詢">藏品查詢</a>
+              </li>
+              <li class="nav-item">
+                <ul class="navbar-nav navbar-right h-100 align-items-center">
+                  <li class="nav-item dropdown ">
+                    <button class="nav-link btn btn-link dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                      分類瀏覽
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1" style="border: 0; background-color: transparent; position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 40px, 0px);">
+                      <li><a class="nav-link" href="TimeLine" title="年代">年代</a></li>
+                      <li><a class="nav-link" href="Author" title="人名">人名</a></li>
+                      <li><a class="nav-link" href="Class" title="類別">類別</a></li>
+                      <li><a class="nav-link" href="Unit" title="典藏單位">典藏單位</a></li>
+                    </ul>
+                    <noscript>
+                      <div class="menu2" aria-labelledby="navbarDropdownMenuLink1">
+                        <a class="nav-link" href="TimeLine" title="年代">年代</a>
+                        <a class="nav-link" href="Author" title="人名">人名</a>
+                        <a class="nav-link" href="Class" title="類別">類別</a>
+                        <a class="nav-link" href="Unit" title="典藏單位">典藏單位</a>
+                      </div>
+                    </noscript>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="About" title="關於我們">關於我們</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="GALApplyDesc" title="圖像授權說明">圖像授權說明</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="count" title="典藏品開放統計">典藏品開放統計</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <div class="slider_container">
+<div class="Slider1-box"><span></span><img src="./Images/sliderBG/國立臺灣交響樂團.jpg" class="Slider1-img" alt="首頁輪播圖(國立臺灣交響樂團.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/三義木雕博物館.jpg" class="Slider1-img" alt="首頁輪播圖(三義木雕博物館.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/史博館_夕陽餘暉.jpg" class="Slider1-img" alt="首頁輪播圖(史博館_夕陽餘暉.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/臺史博_Francois Valentijn〈福爾摩沙島與漁翁群島圖〉.jpg" class="Slider1-img" alt="首頁輪播圖(臺史博_Francois Valentijn〈福爾摩沙島與漁翁群島圖〉.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/新竹市文化局.jpg" class="Slider1-img" alt="首頁輪播圖(新竹市文化局.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/國美館_蓮池.jpg" class="Slider1-img" alt="首頁輪播圖(國美館_蓮池.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/成大博物館_全島學校水上競技優勝選手合照.jpg" class="Slider1-img" alt="首頁輪播圖(成大博物館_全島學校水上競技優勝選手合照.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/臺中市纖維工藝博物館.jpg" class="Slider1-img" alt="首頁輪播圖(臺中市纖維工藝博物館.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/臺灣文獻館.jpg" class="Slider1-img" alt="首頁輪播圖(臺灣文獻館.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/高美館_進行中的時態--也許，這是一條可行的路徑.jpg" class="Slider1-img" alt="首頁輪播圖(高美館_進行中的時態--也許，這是一條可行的路徑.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/順益台灣原住民博物館_蘭嶼.jpg" class="Slider1-img" alt="首頁輪播圖(順益台灣原住民博物館_蘭嶼.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/國立臺灣文學館.jpg" class="Slider1-img" alt="首頁輪播圖(國立臺灣文學館.jpg)" /></div><div class="Slider1-box"><span></span><img src="./Images/sliderBG/中正紀念堂-LOP01古寧頭之役.jpg" class="Slider1-img" alt="首頁輪播圖(中正紀念堂-LOP01古寧頭之役.jpg)" /></div>      </div>
+      <div class="w-25 p-0 slider_item">
+<div class="Slider1-item-box"><img src="./Images/sliderItem/工藝中心_盤龍長景瓶.png" class="Slider-item-img" alt="藏品輪播圖(工藝中心_盤龍長景瓶.png)" /></div><div class="Slider1-item-box"><img src="./Images/sliderItem/史前館_卑南文化圓形玉玦.png" class="Slider-item-img" alt="藏品輪播圖(史前館_卑南文化圓形玉玦.png)" /></div><div class="Slider1-item-box"><img src="./Images/sliderItem/工藝中心_吉祥富貴.png" class="Slider-item-img" alt="藏品輪播圖(工藝中心_吉祥富貴.png)" /></div><div class="Slider1-item-box"><img src="./Images/sliderItem/傳藝中心_虎爺木雕.png" class="Slider-item-img" alt="藏品輪播圖(傳藝中心_虎爺木雕.png)" /></div><div class="Slider1-item-box"><img src="./Images/sliderItem/臺博館_臺灣雲豹.png" class="Slider-item-img" alt="藏品輪播圖(臺博館_臺灣雲豹.png)" /></div>      </div>
+      <div class="w-75 h-100 p-0 TopNavBar">
+        <div class="row m-0 h-100">
+          <div class="col-3 align-self-end pb-5">
+            <h1>
+              <a class="navbar-brand TopBarLogo" href="./index" title="文化部典藏網">
+                <img src="./images/文化部典藏網.png" alt="文化部典藏網LOGO" class="logoImage" />
+              </a>
+            </h1>
+          </div>
+          <div class="col-9 p-0">
+            <div class="w-100 h-100 d-flex align-items-end justify-content-end flex-column pb-5">
+              <div class="Search">
+                <div class="border-bottom border-white form-inline">
+                  <script type="text/javascript">
+
+                  </script>
+                  <label for='txtKeyWord' class="visually-hidden-focusable">請輸入關鍵字</label>
+                  <input name="txtKeyWord" type="text" id="txtKeyWord" class="SearchTextBox f-border-w text-white" placeholder="請輸入關鍵字" autocomplete="off">
+                  <input type="submit" name="ibtnSearch" id="ibtnSearch" src="./images/search.png" class="btnSearchbg" title="查詢" value="" onclick="javascript:return chkKeyword('txtKeyWord');" formaction="/?ID=ibtnSearch">
+                </div>
+              </div>
+              <div class="KeyWord pr-5">
+                <ul class="nav justify-content-end">
+                  <li class="nav-item2">
+                    <span class="nav-link3D">熱門關鍵字:</span>
+                  </li>
+<li class="nav-item2"> <a class="nav-link3"  href="./search?KEYWORD=KLQPK4P1K7P9" title="席德進">席德進</a></li><li class="nav-item2"> <a class="nav-link3"  href="./search?KEYWORD=QQPBP1QL" title="漆器">漆器</a></li><li class="nav-item2"> <a class="nav-link3"  href="./search?KEYWORD=KQPGQAQY5KPU" title="林玉山">林玉山</a></li><li class="nav-item2"> <a class="nav-link3"  href="./search?KEYWORD=KDQYHGQ7QBQ7" title="黃虎旗">黃虎旗</a></li><li class="nav-item2"> <a class="nav-link3"  href="./search?KEYWORD=HUH7HMQY" title="樂覽">樂覽</a></li><li class="nav-item2"> <a class="nav-link3"  href="./search?KEYWORD=PTP15APSQMQNQQQ2" title="蔣公座車">蔣公座車</a></li>                  <li class="nav-item2">
+                    <a class="nav-link3B" href="KeyWord" title="更多關鍵詞">MORE</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="row bgmocblue TopBar">
+  <div class="col-12 bgmocblue">
+    <div class="TopBar2 mx-auto pt-1 pt-xl-5 pt-lg-5">
+      <div class="row">
+        <div class="col-12">
+          <nav class="navbar navbar-expand-lg navbar-light bgmocblue TopMenubar2 p-0">
+            <h1>
+              <a name="U" title="上方內容區" id="AU2" accesskey="U" href="#U" class="GUIDEup text-mocblue visually-hidden-focusable">:::</a>
+              <a class="navbar-brand TopBarLogo" href="./index" title="文化部典藏網">
+                <img src="./img/logo.png" alt="文化部典藏網LOGO" class="logoImage" />
+              </a>
+            </h1>
+            <button id="menu-toggle" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-lg-flex justify-content-center justify-content-lg-end" id="navbarNav" align="right">
+              <ul class="mb-0 pb-2">
+                <li class="d-none d-lg-block">
+                  <ul class="nav ml-auto justify-content-end">
+                    <li class="nav-item nav-item2">
+                      <a class="nav-link nav-Link5 pt-0 pb-0 pl-1 pr-1" href="sitemap" title="網站導覽">網站導覽</a>
+                    </li>
+
+                    <li class="nav-item nav-item2 CountBox" style="position: relative">
+                      <a href="UserAddRpt" class="nav-link nav-Link5 pt-0 pb-0 pl-1 pr-1">下載清單</a>
+                      <span id="lblAddCount2" class="TipCountNum invisible"></span>
+                    </li>
+
+                  </ul>
+                </li>
+                <li style="list-style: none;">
+                  <ul class="navbar-nav ms-auto mt-2 justify-content-lg-end">
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-lg-none ">
+                      <a class="nav-link text-white" href="sitemap" title="網站導覽">網站導覽</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end">
+                      <a class="nav-link text-white" href="index" title="首頁">首頁</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end">
+                      <a class="nav-link text-white" href="Search" title="藏品查詢">藏品查詢</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end dropdown d-none d-lg-flex align-items-center">
+                      <ul class="navbar-nav navbar-right">
+                        <li class="nav-item dropdown">
+                          <button class="nav-link btn btn-link dropdown-toggle d-none d-lg-block text-white TopDropTitle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+                            分類瀏覽
+                          </button>
+                          <ul class="dropdown-menu bgmocblue" aria-labelledby="navbarDropdownMenuLink2" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 40px, 0px);">
+                            <li><a class="dropdown-item text-white dropLink" href="TimeLine" title="年代">年代</a> </li>
+                            <li><a class="dropdown-item text-white dropLink" href="Author" title="人名">人名</a> </li>
+                            <li><a class="dropdown-item text-white dropLink" href="Class" title="類別">類別</a></li>
+                            <li><a class="dropdown-item text-white dropLink" href="Unit" title="典藏單位">典藏單位</a></li>
+                          </ul>
+                          <noscript>
+                            <div class="dropdown-menu bgmocblue TopDrop2" aria-labelledby="navbarDropdownMenuLink2">
+                              <a class="dropdown-item text-white dropLink" href="TimeLine" title="年代">年代</a>
+                              <a class="dropdown-item text-white dropLink" href="Author" title="人名">人名</a>
+                              <a class="dropdown-item text-white dropLink" href="Class" title="類別">類別</a>
+                              <a class="dropdown-item text-white dropLink" href="Unit" title="典藏單位">典藏單位</a>
+                            </div>
+                          </noscript>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end d-lg-none">
+                      <a class="nav-link text-white" href="TimeLine" title="年代瀏覽">年代瀏覽</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end d-lg-none">
+                      <a class="nav-link text-white" href="Author" title="人名瀏覽">人名瀏覽</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end d-lg-none">
+                      <a class="nav-link text-white" href="Class" title="類別瀏覽">類別瀏覽</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end d-lg-none">
+                      <a class="nav-link text-white" href="Unit" title="典藏單位瀏覽">典藏單位瀏覽</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end">
+                      <a class="nav-link text-white" href="About" title="關於我們">關於我們</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end">
+                      <a class="nav-link text-white" href="GALApplyDesc" title="圖像授權說明">圖像授權說明</a>
+                    </li>
+                    <li class="nav-item nav-item2 ms-auto me-auto ms-xl-0 ms-lg-0 me-xl-0 me-lg-0 d-flex align-items-end">
+                      <a class="nav-link text-white" href="count" title="典藏品開放統計">典藏品開放統計</a>
+                    </li>
+                  </ul>
+                </li>
+
+                <li class="d-md-block">
+                  <ul class="nav ms-auto justify-content-center justify-content-xl-end justify-content-lg-end">
+                    <li class="nav-item nav-item2 w-50">
+                      <div class="Search2">
+                        <div class="border-bottom border-white form-inline">
+                          <label for='txtKeyWord2' class="visually-hidden-focusable">請輸入關鍵字</label>
+                          <input name="txtKeyWord2" type="text" id="txtKeyWord2" class="SearchTextBox f-border-w" placeholder="請輸入關鍵字" autocomplete="off" style="color:White;">
+                          <input type="submit" name="ibtnSeatch2" id="ibtnSeatch2" alt="關鍵字查詢按鈕" class="btnSearchbg" value="" title="查詢" onclick="javascript:return chkKeyword('txtKeyWord2');" formaction="/?ID=ibtnSeatch2">
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="PhoneUser border">
+    <ul class="nav justify-content-end">
+      <li class="nav-item" style="position: relative">
+        <a href="UserAddRpt" class="nav-Link7">下載清單</a>
+        <span id="lblAddCount3" class="TipCountNumHome3 invisible"></span>
+      </li>
+
+    </ul>
+  </div>
+
+<div class="row bgSelected">
+  <div class="col-12 p-0 pt-50" style="position: relative">
+    <div class="SelectedIcon w-100">
+      <a name="C" title="主要內容區" id="AC" accesskey="C" href="#C" class="GUIDECenter text-gray visually-hidden-focusable goCenter">:::</a>
+      <h2 class="visually-hidden-focusable goCenter">精選藏品</h2>
+    </div>
+    <div class="SelectionBox w-100" id="divSelection"><section class="variable slider bg-transparent"><div><a class="f-border" href="./Object?RNO=MjAxNi0wMDktMDAwMQ&SYSUID=104" title="昭和十八年度臺南高等工業學校工業報國會會員名簿"><img src="./Files/104/JPG640/2016-009-0001_a001.jpg?183154864" alt='昭和十八年度臺南高等工業學校工業報國會會員名簿' class="slick-img"></a></div><div><a class="f-border" href="./Object?RNO=OTAtMDA2NDc&SYSUID=14" title="三彩加藍人面鎮墓獸"><img src="./Files/14/JPG640/py90-00647na0001t.jpg?183154901" alt='三彩加藍人面鎮墓獸' class="slick-img"></a></div><div><a class="f-border" href="./Object?RNO=MTk5MzAyMDAwMzI&SYSUID=16" title="後敞褲"><img src="./Files/16/JPG640/19930200032_0001.jpg?183154939" alt='後敞褲' class="slick-img"></a></div><div><a class="f-border" href="./Object?RNO=MjAwOTAwNDAwMDE&SYSUID=106" title="P-2V殘骸製洗臉盆/ 大連碧流河口土壤"><img src="./Files/106/JPG640/20090040001_p001.jpg?183154960" alt='P-2V殘骸製洗臉盆/ 大連碧流河口土壤' class="slick-img"></a></div><div><a class="f-border" href="./Object?RNO=NzYtMDAyOTk&SYSUID=14" title="青白釉觀音像暨佛龕"><img src="./Files/14/JPG640/cr76-00299na0001t.jpg?183154991" alt='青白釉觀音像暨佛龕' class="slick-img"></a></div><div><a class="f-border" href="./Object?RNO=MjAxMjE2MDAwMDI&SYSUID=16" title="玉管"><img src="./Files/16/JPG640/20121600002_0001.jpg?183155018" alt='玉管' class="slick-img"></a></div><div><a class="f-border" href="./Object?RNO=QUgwMDE1NTU&SYSUID=13" title="大半月形石刀"><img src="./Files/13/JPG640/ntm-ant-{ah001555}-u-aa.jpg?183155025" alt='大半月形石刀' class="slick-img"></a></div><div><a class="f-border" href="./Object?RNO=aDAwMDAzNzQ&SYSUID=14" title="鸞紋戈"><img src="./Files/14/JPG640/brh0000374na0001s.jpg?183155031" alt='鸞紋戈' class="slick-img"></a></div></section></div>
+    <div class="SelectionBox text-right SelectMoreBox mt-2">
+      <a href="./classic" class="nav-link3C" title="更多精選藏品">MORE</a>
+    </div>
+  </div>
+</div>
+<div class="row mt-5">
+  <div class="col-12 p-0 pt-50 pb-100">
+    <div class="w-100 CommIcon bodyPaddingR padding510 mb-5">
+      <h2 class="visually-hidden-focusable goCenter">藏品推薦</h2>
+      <noscript>
+        您的瀏覽器不支援javascript功能 若網頁功能無法正常使用時 請開啟瀏覽器javascript狀態。
+        <ul class="nav h-100 justify-content-end align-items-end align-items-xl-center DefCenter">
+          <li class="nav-item3">
+            <a href="#divHot" class="nav-link4" title="熱門推薦">熱門推薦</a>
+          </li>
+          <li class="nav-item3">
+            <a href="#lblLink" class="nav-link4" title="熱門瀏覽">熱門瀏覽</a>
+          </li>
+          <li class="nav-item3">
+            <a href="#divShare" class="nav-link4" title="熱門分享">熱門分享</a>
+          </li>
+          <li class="nav-item3">
+            <a href="#divNewGal" class="nav-link4" title="最新藏品">最新藏品</a>
+          </li>
+        </ul>
+      </noscript>
+      <ul id="ulRecomm" class="d-none">
+        <li class="nav-item3">
+          <a ID="lnkLink" href="javascript:showDiv('mocweb_Hot');" class="nav-link4 f-border-b text-decoration-none" title="熱門推薦">熱門推薦</a>
+        </li>
+        <li class="nav-item3">
+          <a ID="lnkHot" href="javascript:showDiv('mocweb_Link');" class="nav-link4 f-border-b text-decoration-none" title="熱門瀏覽">熱門瀏覽</a>
+        </li>
+        <li class="nav-item3">
+          <a ID="lnkShare" href="javascript:showDiv('mocweb_Share');" class="nav-link4 f-border-b text-decoration-none" title="熱門分享">熱門分享</a>
+        </li>
+        <li class="nav-item3">
+          <a ID="lnkNew" href="javascript:showDiv('mocweb_NewGal');" class="nav-link4 f-border-b text-decoration-none" title="最新藏品">最新藏品</a>
+        </li>
+      </ul>
+    </div>
+    <div id="divHot" class="bodyPadding form-inline ReCommBox">
+      <div class="CommBox" style="background-image: url('./Files/17/JPG640/11199802011_a001.jpg?183155069');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTExOTk4MDIwMTE&SYSUID=17" title="盤龍對瓶"><div class="CommTitle w-100 h-100">盤龍對瓶</div></a></div><div class="CommBox" style="background-image: url('./Files/17/JPG640/11200803006e_a001.jpg?183155069');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTEyMDA4MDMwMDZl&SYSUID=17" title="木板壁彩繪-懷橘遺親"><div class="CommTitle w-100 h-100">木板壁彩繪-懷橘遺親</div></a></div><div class="CommBox" style="background-image: url('./Files/14/JPG640/js7032na0001s.jpg?183155069');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDcwMzI&SYSUID=14" title="北魏天安元年(公元466年)曹天度造九層千佛石塔"><div class="CommTitle w-100 h-100">北魏天安元年(公元466年)曹天度造九層千佛石塔</div></a></div><div class="CommBox" style="background-image: url('./Files/12/JPG640/077003430000.jpg?183155069');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDc3MDAzNDM&SYSUID=12" title="嘉義遊園地（嘉義公園）"><div class="CommTitle w-100 h-100">嘉義遊園地（嘉義公園）</div></a></div><div class="CommBox" style="background-image: url('./Files/11/JPG640/20040080053_i001.jpg?183155070');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAwNC4wMDguMDA1Mw&SYSUID=11" title="大輿出版社〈十二萬分之一臺南縣行政全圖〉"><div class="CommTitle w-100 h-100">大輿出版社〈十二萬分之一臺南縣行政全圖〉</div></a></div><div class="CommBox" style="background-image: url('./Files/12/JPG640/078000450000.jpg?183155070');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDc4MDAwNDU&SYSUID=12" title="翠山白雲"><div class="CommTitle w-100 h-100">翠山白雲</div></a></div><div class="CommBox" style="background-image: url('./Files/20/JPG640/199901004-01.jpg?183155070');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTk5OTAxMDA0&SYSUID=20" title="盛器"><div class="CommTitle w-100 h-100">盛器</div></a></div><div class="CommBox" style="background-image: url('./Files/12/JPG640/078002160000.jpg?183155070');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDc4MDAyMTY&SYSUID=12" title="淡水風景(淡水)"><div class="CommTitle w-100 h-100">淡水風景(淡水)</div></a></div><div class="CommBox" style="background-image: url('./Files/12/JPG640/089001070000.jpg?183155070');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDg5MDAxMDc&SYSUID=12" title="翡冷翠"><div class="CommTitle w-100 h-100">翡冷翠</div></a></div><div class="CommBox" style="background-image: url('./Files/14/JPG640/cp96-00180na0001t.jpg?183155070');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=OTYtMDAxODA&SYSUID=14" title="百步蛇"><div class="CommTitle w-100 h-100">百步蛇</div></a></div><div class="CommBox" style="background-image: url('./Files/20/JPG640/199901002-01.jpg?183155071');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTk5OTAxMDAy&SYSUID=20" title="藍田昇華"><div class="CommTitle w-100 h-100">藍田昇華</div></a></div><div class="CommBox" style="background-image: url('./Files/13/JPG640/ntm-ant-{ah001555}-u-aa.jpg?183155071');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=QUgwMDE1NTU&SYSUID=13" title="大半月形石刀"><div class="CommTitle w-100 h-100">大半月形石刀</div></a></div>
+    </div>
+    <div id="divLink" class="bodyPadding form-inline ReCommBox">
+      <div class="CommBox" style="background-image: url('./Files/11/JPG640/20000010041_p002.jpg?183155049');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAwMC4wMDEuMDA0MQ&SYSUID=11" title="幸福牌自行車"><div class="CommTitle w-100 h-100">幸福牌自行車</div></a></div><div class="CommBox" style="background-image: url('./Files/14/JPG640/cp81-00319na0001s.jpg?183155049');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=ODEtMDAzMTk&SYSUID=14" title="鍾馗馴鬼圖－肩輿過臥松"><div class="CommTitle w-100 h-100">鍾馗馴鬼圖－肩輿過臥松</div></a></div><div class="CommBox" style="background-image: url('./Files/14/JPG640/brh0000308na0001s.jpg?183155049');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=aDAwMDAzMDg&SYSUID=14" title="填漆蟠螭紋蓋豆"><div class="CommTitle w-100 h-100">填漆蟠螭紋蓋豆</div></a></div><div class="CommBox" style="background-image: url('./Files/14/JPG640/ca94-00199nd0001s.jpg?183155049');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=OTQtMDAxOTk&SYSUID=14" title="呂西村隸書四聯屏"><div class="CommTitle w-100 h-100">呂西村隸書四聯屏</div></a></div><div class="CommBox" style="background-image: url('./Files/14/JPG640/jsh0000222na0001t.jpg?183155050');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=aDAwMDAyMjI&SYSUID=14" title="瓏"><div class="CommTitle w-100 h-100">瓏</div></a></div><div class="CommBox" style="background-image: url('./Files/17/JPG640/11200503002_a001.jpg?183155050');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTEyMDA1MDMwMDI&SYSUID=17" title="布袋戲偶-福仙"><div class="CommTitle w-100 h-100">布袋戲偶-福仙</div></a></div><div class="CommBox" style="background-image: url('./Files/17/JPG640/11199802011_a001.jpg?183155050');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTExOTk4MDIwMTE&SYSUID=17" title="盤龍對瓶"><div class="CommTitle w-100 h-100">盤龍對瓶</div></a></div><div class="CommBox" style="background-image: url('./Files/17/JPG640/11200404233_a004.jpg?183155050');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTEyMDA0MDQyMzM&SYSUID=17" title="娃娃車"><div class="CommTitle w-100 h-100">娃娃車</div></a></div><div class="CommBox" style="background-image: url('./Files/17/JPG640/11200803006e_a001.jpg?183155050');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTEyMDA4MDMwMDZl&SYSUID=17" title="木板壁彩繪-懷橘遺親"><div class="CommTitle w-100 h-100">木板壁彩繪-懷橘遺親</div></a></div><div class="CommBox" style="background-image: url('./Files/20/JPG640/199901001-01.jpg?183155051');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTk5OTAxMDAx&SYSUID=20" title="動容"><div class="CommTitle w-100 h-100">動容</div></a></div><div class="CommBox" style="background-image: url('./Files/101/JPG640/20170011218_a001.jpg?183155051');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAxNzAwMTEyMTg&SYSUID=101" title="偏方"><div class="CommTitle w-100 h-100">偏方</div></a></div><div class="CommBox" style="background-image: url('./Files/102/JPG640/1505.jpg?183155051');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDE1MDU&SYSUID=102" title="靜物"><div class="CommTitle w-100 h-100">靜物</div></a></div>
+    </div>
+    <div id="divShare" class="bodyPadding form-inline ReCommBox">
+      <div class="CommBox" style="background-image: url('./Files/11/JPG640/20110020003_i001.jpg?183155046');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAxMS4wMDIuMDAwMw&SYSUID=11" title="勝家牌腳踏式縫紉機"><div class="CommTitle w-100 h-100">勝家牌腳踏式縫紉機</div></a></div><div class="CommBox" style="background-image: url('./Files/11/JPG640/20170170327_i001.jpg?183155047');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAxNy4wMTcuMDMyNw&SYSUID=11" title="下田寫真館出版《大正參年太魯閣蕃討伐軍隊記念》"><div class="CommTitle w-100 h-100">下田寫真館出版《大正參年太魯閣蕃討伐軍隊記念》</div></a></div><div class="CommBox" style="background-image: url('./Files/12/JPG640/078002160000.jpg?183155047');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDc4MDAyMTY&SYSUID=12" title="淡水風景(淡水)"><div class="CommTitle w-100 h-100">淡水風景(淡水)</div></a></div><div class="CommBox" style="background-image: url('./Files/12/JPG640/077003430000.jpg?183155047');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDc3MDAzNDM&SYSUID=12" title="嘉義遊園地（嘉義公園）"><div class="CommTitle w-100 h-100">嘉義遊園地（嘉義公園）</div></a></div><div class="CommBox" style="background-image: url('./Files/14/JPG640/cp96-00180na0001t.jpg?183155047');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=OTYtMDAxODA&SYSUID=14" title="百步蛇"><div class="CommTitle w-100 h-100">百步蛇</div></a></div><div class="CommBox" style="background-image: url('./Files/17/JPG640/11200803006e_a001.jpg?183155048');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MTEyMDA4MDMwMDZl&SYSUID=17" title="木板壁彩繪-懷橘遺親"><div class="CommTitle w-100 h-100">木板壁彩繪-懷橘遺親</div></a></div><div class="CommBox" style="background-image: url('./Files/18/JPG640/cr09100302_p001.jpg?183155048');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=Q1IwOTEwMDMwMg&SYSUID=18" title="轎子(藤編轎身/黑色皮質篷子(內襯絨布)/金屬支架/藤編踏墊)"><div class="CommTitle w-100 h-100">轎子(藤編轎身/黑色皮質篷子(內襯絨布)/金屬支架/藤編踏墊)</div></a></div><div class="CommBox" style="background-image: url('./Files/19/JPG640/f_4_093_p011.jpg?183155048');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=Rl80XzA5Mw&SYSUID=19" title="國父畫像"><div class="CommTitle w-100 h-100">國父畫像</div></a></div><div class="CommBox" style="background-image: url('./Files/26/JPG640/0000219147-001.jpg?183155048');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=Tk1UTDIwMDUwMDMwNzg0&SYSUID=26" title="期刊名稱：臺灣文學1卷1號創刊號"><div class="CommTitle w-100 h-100">期刊名稱：臺灣文學1卷1號創刊號</div></a></div><div class="CommBox" style="background-image: url('./Files/101/JPG640/20170011218_a001.jpg?183155048');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAxNzAwMTEyMTg&SYSUID=101" title="偏方"><div class="CommTitle w-100 h-100">偏方</div></a></div><div class="CommBox" style="background-image: url('./Files/101/JPG640/20170010311_a001.jpg?183155049');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAxNzAwMTAzMTE&SYSUID=101" title="黑緞地龍鳳花卉盤金新娘上衣"><div class="CommTitle w-100 h-100">黑緞地龍鳳花卉盤金新娘上衣</div></a></div><div class="CommBox" style="background-image: url('./Files/106/JPG640/20090040001_p001.jpg?183155049');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAwOTAwNDAwMDE&SYSUID=106" title="P-2V殘骸製洗臉盆/ 大連碧流河口土壤"><div class="CommTitle w-100 h-100">P-2V殘骸製洗臉盆/ 大連碧流河口土壤</div></a></div>
+    </div>
+    <div id="divNewGal" class="bodyPadding form-inline ReCommBox">
+      <div class="CommBox" style="background-image: url('./Files/102/JPG640/05523_a001.jpg?183155043');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDU1MjM&SYSUID=102" title="日常採集-阿那那"><div class="CommTitle w-100 h-100">日常採集-阿那那</div></a></div><div class="CommBox" style="background-image: url('./Files/102/JPG640/05548_a001.jpg?183155043');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MDU1NDg&SYSUID=102" title="九相"><div class="CommTitle w-100 h-100">九相</div></a></div><div class="CommBox" style="background-image: url('./Files/104/JPG640/2024-003-0004-《成大青年》第十期-第一版.jpg?183155043');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNC0wMDMtMDAwNA&SYSUID=104" title="《成大青年 》第十期(1958年出版)"><div class="CommTitle w-100 h-100">《成大青年 》第十期(1958年出版)</div></a></div><div class="CommBox" style="background-image: url('./Files/104/JPG640/2024-004-0038-1961年「cheng kung university 1961」徽章-正面.jpg?183155044');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNC0wMDQtMDAzOA&SYSUID=104" title="1961年「CHENG KUNG UNIVERSITY 1961」徽章"><div class="CommTitle w-100 h-100">1961年「CHENG KUNG UNIVERSITY 1961」徽章</div></a></div><div class="CommBox" style="background-image: url('./Files/105/JPG640/2025a020104_a001.jpg?183155044');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNUEwMjAxMDQ&SYSUID=105" title="館藏編號:2025A020104"><div class="CommTitle w-100 h-100">館藏編號:2025A020104</div></a></div><div class="CommBox" style="background-image: url('./Files/117/JPG640/20240060003_a001.jpg?183155044');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNDAwNjAwMDM&SYSUID=117" title="高雄銀行企業工會博愛路抗爭數位照片"><div class="CommTitle w-100 h-100">高雄銀行企業工會博愛路抗爭數位照片</div></a></div><div class="CommBox" style="background-image: url('./Files/117/JPG640/20240030014_a001.jpg?183155045');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNDAwMzAwMTQ&SYSUID=117" title="《職工盟十周年特刊》"><div class="CommTitle w-100 h-100">《職工盟十周年特刊》</div></a></div><div class="CommBox" style="background-image: url('./Files/125/JPG640/2024010074_a001.jpg?183155045');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNDAxMDA3NA&SYSUID=125" title="四草遊記"><div class="CommTitle w-100 h-100">四草遊記</div></a></div><div class="CommBox" style="background-image: url('./Files/125/JPG640/2024010032_a001.jpg?183155045');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNDAxMDAzMg&SYSUID=125" title="Woman with Fan"><div class="CommTitle w-100 h-100">Woman with Fan</div></a></div><div class="CommBox" style="background-image: url('./Files/140/JPG640/20240050064_a001.jpg?183155045');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNDAwNTAwNjQ&SYSUID=140" title="時尚生活4"><div class="CommTitle w-100 h-100">時尚生活4</div></a></div><div class="CommBox" style="background-image: url('./Files/141/JPG640/2024-02-0002_a001.jpg?183155046');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNC0wMi0wMDAy&SYSUID=141" title="犒賞"><div class="CommTitle w-100 h-100">犒賞</div></a></div><div class="CommBox" style="background-image: url('./Files/141/JPG640/2024-01-0021.jpg?183155046');"><a class="f-border-b d-block w-100 h-100" href="./Object?RNO=MjAyNC0wMS0wMDIx&SYSUID=141" title="美人蕉"><div class="CommTitle w-100 h-100">美人蕉</div></a></div>
+    </div>
+  </div>
+</div>
+
+<script src="./js/slick.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+  $(document).ready(function () {
+      var divSelection = document.getElementById('divSelection');
+      if (divSelection != null) {
+          divSelection.style.visibility = "hidden";
+      }
+      $(".variable").slick({
+          dots: false,
+          infinite: true,
+          variableWidth: true,
+          autoplay: false,
+          prevArrow: '<button type="button" class="slick-prev" onkeypress="" title=\"向左移動\"></button>',
+          nextArrow: '<button type="button" class="slick-next" onkeypress="" title=\"向右移動\"></button>'
+      });
+      if (divSelection != null) {
+          divSelection.style.visibility = "visible";
+      }
+
+  });
+  function showDiv(divID) {
+      var divHot = document.getElementById("divHot");
+      var divLink = document.getElementById("divLink");
+      var divShare = document.getElementById("divShare");
+      var divNewGal = document.getElementById("divNewGal");
+      if (divHot != null && divLink != null && divShare != null && divNewGal != null) {
+          divHot.className = "d-none";
+          divLink.className = "d-none";
+          divShare.className = "d-none";
+          divNewGal.className = "d-none";
+      }
+      if (divID == "mocweb_Link") {
+          divLink.className = "bodyPadding form-inline ReCommBox";
+      } else if (divID == "mocweb_Share") {
+          divShare.className = "bodyPadding form-inline ReCommBox";
+      } else if (divID == "mocweb_NewGal") {
+          divNewGal.className = "bodyPadding form-inline ReCommBox";
+      } else {
+          divHot.className = "bodyPadding form-inline ReCommBox";
+      }
+  }
+  function showRecomm() {
+      var ulRecomm = document.getElementById("ulRecomm");
+      if (ulRecomm != null) {
+          ulRecomm.className = "nav h-100 justify-content-end align-items-end align-items-xl-center DefCenter";
+      }
+  }
+  $(window).on('load', function () {
+      //alert("本網站將於115年8月21日(星期五) 8:00 至 115年8月22日(星期六) 20:00 進行主機維護作業，屆時將停止服務，造成不便，敬請見諒！");
+      showDiv("mocweb_Hot");
+      showRecomm();
+  });
+</script>
+
+<div class="row Footer">
+  <div class="col-12 text-white p-50">
+    <div class="row">
+      <div class="col-12">
+        <a name="B" title="下方功能區" id="AB" accesskey="B" href="#B" class="GUIDEBottom text-mocblue visually-hidden-focusable">:::</a>
+      </div>
+      <div class="col-12 col-xl-6 col-lg-6">
+        版權所有
+        <a href="https://www.moc.gov.tw/" target="_blank" title="文化部(開新視窗)" class="f-border-b" rel="noopener noreferrer" style="color: #B6EEFF; margin: 0px 10px 0px 20px;">文化部</a>
+        <a href="privacy" title="隱私權及安全政策宣示" class="f-border-b" style="color: #B6EEFF; margin: 0px 10px 0px 10px;">隱私權及安全政策宣示</a>
+        <a href="Business" title="著作權聲明" class="f-border-b" style="color: #B6EEFF; margin: 0px 10px 0px 10px;">著作權聲明</a>
+        <br>
+        總機電話：(+886)-2-8512-6000 地址：24219新北市新莊區中平路439號南棟13樓
+        <br>
+        意見詢問：歡迎透過電話的方式與我們聯繫。 我們將以最快的速度為您服務。
+          <br />
+          <span>藏品總筆數</span>
+          <a href="./Unit" class="f-border-b" Style="color: #B6EEFF; margin: 0px 5px 0px 10px; text-decoration: underline !important;" title="各館藏品">1509494</a>
+      </div>
+        <div class="col-12 col-xl-4 col-lg-4">
+          <div class="row">
+            <div class="col-12">
+              <fieldset class="p-0 border-0">
+                <legend>文化部典藏網功能服務滿意度:</legend>
+                <nav class="nav">
+                  <div class="nav-item" style="flex-basis: unset !important;">
+                    <input id="rblSVMOCWEB3" type="radio" name="SVMOCWEB" value="rblSVMOCWEB3" checked="checked">
+                    <label for="rblSVMOCWEB3">非常喜歡</label>
+                  </div>
+                  <div class="nav-item" style="flex-basis: unset !important;">
+                    <input id="rblSVMOCWEB2" type="radio" name="SVMOCWEB" value="rblSVMOCWEB2">
+                    <label for="rblSVMOCWEB2">喜歡</label>
+                  </div>
+                  <div class="nav-item" style="flex-basis: unset !important;">
+                    <input id="rblSVMOCWEB1" type="radio" name="SVMOCWEB" value="rblSVMOCWEB1">
+                    <label for="rblSVMOCWEB1">尚可</label>
+                  </div>
+                  <div class="nav-item text-left">
+                    <input type="submit" name="btnSVMOCWEB" value="送出" id="btnSVMOCWEB" class="btn btn-sm nav-link3B" formaction="/?ID=btnSVMOCWEB">
+                  </div>
+                </nav>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+      <div class="col-12 col-xl-2 col-lg-2">
+        <a href="https://accessibility.moda.gov.tw/Applications/Detail?category=20251201095242" title="無障礙網站" class="f-border-b">
+          <img src="./img/AA.png?T=20260121" border="0" width="88" height="31" alt="通過AA無障礙網頁檢測" />
+        </a>
+      </div>
+      <div class="col-12 col-xl-6 col-lg-6">
+        網站資料內容為典藏機關自行維運，藏品資料欄位，若尚未著錄者，不予呈現。
+      </div>
+      <div class="col-12 col-xl-2 col-lg-2 offset-xl-4 offset-lg-4">
+          <span>瀏覽人次</span>
+          <span Style="color: #B6EEFF; margin: 0px 5px 0px 10px;">39906117</span>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+      </main>
+    </div>
+    
+    <link rel="stylesheet" href="/css/site.css?v=g2XGtji47lh2Buyff08jwImC9tdroIUcl5J_Z5WxRQs" />
+  <input name="__RequestVerificationToken" type="hidden" value="CfDJ8DEWgbQLHZ1OtGqZE3aCRsnH7DAc8vcDRsdEzoqP1xrLuUn4T9AxMryK5px5yzRycmYZvO6v9mOjieYLmQSsMU8qI74u-fqbgJFVzHSGY6IxgaH5iLJw8eMQXK5xWsTil2oSVsDmMMkS-4TNx6tbw9c" /></form>
+</body>
+</html>

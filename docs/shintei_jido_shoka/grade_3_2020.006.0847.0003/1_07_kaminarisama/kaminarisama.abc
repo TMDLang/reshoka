@@ -1,0 +1,17 @@
+X:1
+T:かみなりさま
+C:曲：永井幸次
+M:2/4
+L:1/16
+Q:1/4=112
+K:F
+
+V:V1 name="Piano" snm="Pia"
+
+[V:V1]
+c2 c2 c2 c2 | f3 f f2 f2 | g3 g g2 f g | a6 z2 |
+b2 b2 a2 d2 | c2 c2 a2 f2 | g3 a g2 f2 | f6 z2 |
+g3 g c2 c2 | f2 f2 f2 z2 | g g g g a2 d2 | c6 z2 |
+d3 c b2 a2 | b3 a g2 f2 | g2 a2 g3 c | f6 z2 |
+
+

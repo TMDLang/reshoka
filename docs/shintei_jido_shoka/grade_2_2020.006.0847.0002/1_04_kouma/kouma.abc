@@ -1,0 +1,17 @@
+X:1
+T:小ウマ
+C:TMD (Chen, Chih-Han / aguai)
+M:2/4
+L:1/16
+Q:1/4=112
+K:D
+
+V:V1 name="Piano" snm="Pia"
+
+[V:V1]
+a2 z2 d2 z2 | a2 z2 d2 z2 | f2 b2 a2 f2 | e2 a2 a2 z2 |
+a2 d2 c2 b2 | a2 b2 a2 f2 | e2 e2 e2 e2 | d2 e2 f2 z2 |
+e2 e2 e2 e2 | d2 e2 f2 g2 | a2 d2 c2 b2 | a2 b2 a2 z2 |
+a2 d2 c2 b2 | a2 b2 a2 f2 | e2 e2 e2 e2 | f2 e2 d2 z2 |
+
+

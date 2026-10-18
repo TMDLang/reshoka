@@ -1,0 +1,17 @@
+X:1
+T:初夏の夜
+C:曲：山本壽
+M:4/4
+L:1/16
+Q:1/4=76
+K:Bb
+
+V:V1 name="Piano" snm="Pia"
+
+[V:V1]
+f6 f2 g2 f2 g2 a2 | b6 g2 f8 | d6 f2 g4 b3 g | a12 z4 |
+f6 f2 g2 f2 g2 a2 | b6 g2 f8 | g6 b2 d4 d3 c | d12 z4 |
+d6 b2 c4 a4 | b6 g2 f4 d4 | f6 g2 f4 d2 c2 | g12 z4 |
+f6 d2 f2 g2 b2 c2 | d6 b2 g8 | f6 g2 b4 c4 | b12 z4 |
+
+

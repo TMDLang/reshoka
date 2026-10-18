@@ -1,0 +1,21 @@
+X:1
+T:箱根八里
+C:曲：瀧廉太郎
+M:4/4
+L:1/16
+Q:1/4=108
+K:C
+
+V:V1 name="Piano" snm="Pia"
+
+[V:V1]
+!f! C3 D E3 F G3 A G4 | c3 G A2 G2 E4 z4 | D3 D E3 G A4 G4 | E3 G D3 E C4 z4 |
+!ff! c4 c4 e3 d c2 z2 | A4 A4 c3 A G2 z2 | !f! A3 A G3 E G3 G A2 c2 | G3 A G3 E D3 C D4 |
+C D E G A G E3 D C4 | E G A c d c A3 G A4 | !ff! c6 d2 e4 c4 | A4 G4 A4 z4 |
+E3 G A3 c G3 A G4 | !mf! E4 z4 d3 e d4 | c4 A4 G4 z4 | E8 G8 |
+E4 G3 E D4 z4 | G6 E2 D3 C D4 | G6 A2 G4 E4 | d8 G4 G4 |
+E3 D C3 D E4 z4 | !f! c3 G E3 G c3 G E2 G2 | A3 A A3 B c3 c c3 d | e4 d3 c d3 c A4 |
+c4 A3 G E2 D2 C4 | !f! d3 d c3 A G3 A c4 | A4 G3 E D4 G4 | e8 d3 c A4 |
+c3 d e4 d8 | c8 A4 G4 | E3 G D2 E2 C4 z4 |
+
+

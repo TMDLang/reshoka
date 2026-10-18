@@ -1,0 +1,17 @@
+X:1
+T:軍艦旗
+C:曲：Henry Clay Work（ウオーク）
+M:4/4
+L:1/16
+Q:1/4=104
+K:G
+
+V:V1 name="Piano" snm="Pia"
+
+[V:V1]
+b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | d3 e f2 g2 a2 a2 g2 a2 | b3 c b2 a2 d8 |
+!mf! b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | a3 b c4 b3 g a4 | g8 g4 z4 |
+g4 b4 d4 d3 b | c2 e2 d2 c2 b8 | g4 b4 d4 d3 b | a2 b2 c2 b2 a8 |
+!mf! b3 c b2 g2 e3 f g2 e2 | d2 g2 g2 a2 b8 | a3 b c4 b3 g a4 | g8 g4 z4 |
+
+

@@ -1,0 +1,27 @@
+X:1
+T:牧童
+C:TMD (Chen, Chih-Han / aguai)
+M:3/4
+L:1/16
+Q:1/4=108
+K:G
+
+V:V1 name="Part1" snm="Par"
+V:V2 name="Part2" snm="Par"
+
+[V:V1]
+!p! z4 z4 d4 | g4 g4 a4 | b3 c b4 a4 | d4 g4 a2 b2 |
+e8 d4 | g4 g4 a4 | b3 c b4 a4 | d4 b4 a2 b2 |
+!mf! g8 g2 a2 | b4 a4 c4 | b2 a2 g4 f4 | g6 a2 g2 f2 |
+a8 d4 | g4 g4 a4 | b3 c b4 a4 | d4 b4 a2 b2 |
+g8 z4 |
+
+
+[V:V2]
+!p! z4 z4 d4 | B4 B4 c4 | d3 e d4 d4 | f4 e4 c4 |
+d8 d4 | B4 B4 c4 | d3 e d4 d4 | f4 g4 e4 |
+!mf! g8 B2 c2 | d4 d4 e4 | d2 c2 B4 d4 | B6 c2 B2 A2 |
+d8 d4 | B4 B4 c4 | d3 e d4 d4 | f4 g4 e4 |
+B8 z4 |
+
+

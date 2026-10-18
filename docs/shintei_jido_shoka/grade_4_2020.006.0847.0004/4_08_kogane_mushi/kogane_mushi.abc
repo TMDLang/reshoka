@@ -1,0 +1,22 @@
+X:1
+T:黃金虫
+C:曲：室崎琴月
+M:2/4
+L:1/16
+Q:1/4=100
+K:F
+
+V:V1 name="Piano" snm="Pia"
+
+[V:V1]
+a2 a a g2 f2 | g g f2 a2 z2 | g2 g g f2 d2 | d d f2 d2 z2 |
+c3 d f2 f2 | g2 g2 a2 c2 | d2 d2 c2 a2 | f6 z2 |
+M:4/4 a6 a2 a4 a4 | c6 d2 c4 a4 | g4 g4 a4 g4 | a12 z4 |
+f6 f2 f4 f4 | g6 a2 g4 f4 | d6 d2 f4 g4 | a12 z4 |
+a6 a2 a4 a4 | c6 d2 c4 a4 | g4 g4 a4 g4 | a12 z4 |
+f6 f2 f4 f4 | g6 a2 g4 f4 | d6 d2 f4 g4 | a12 z4 |
+f6 f2 f4 f4 | g4 a2 c2 d4 c4 | a4 g2 a2 g4 f4 | d12 z4 |
+M:2/4 a2 a a g2 f2 | g g f2 a2 z2 | g2 g g f2 d2 | d d f2 d2 z2 |
+c3 d f2 f2 | g2 g2 a2 c2 | d2 d2 c2 a2 | f6 z2 |
+
+
