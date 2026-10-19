@@ -1,4 +1,4 @@
-# 陣營の月
+# 陣營の月（軍營之月）
 
 <audio controls src="jinei_no_tsuki.mp3"></audio>
 
@@ -35,7 +35,7 @@
 
 ```abc
 X:1
-T:陣營の月
+T:陣營の月（軍營之月）
 M:4/4
 L:1/16
 Q:1/4=88
@@ -55,14 +55,14 @@ D2 F2 F4 E2 A2 A4 | D8 B8 | A4 F3 D A4 F3 E | D12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](jinei_no_tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5c_Hz9vmPG9c9m9OhoKXFpWirYGHBZW-r4MZlY6JvYsdVp6D0tH3Xi5lT3--Z9WRHw7NFc5-t7Xk5u03B2Mz05YLG93s6ns1Ya6RnrGfxfk-nEkj544aup1M2AlU93THtcUM3UIWRgZGBnoGBmZ6BhYkxUFmAgaGlXlZBuhIXl76Wgi21AJeCgsLTvvnPZu94sbn9xYquFx3tQFe8WDnvaeuKZ9PagQ55uqH3WXunAsx-oFOAvgJpe7Fq_7OG5SAN3b0vZs4Hij5ungEUVNBXeNy05Pn8tSA2MDwUgPJAcxwVnm7oRxECGtTzaOZKW2DggYxbsfvFihnYQwxoJCzEuEBqgUoeNzSCWI-bFj1uXvO4ef7j5hVAzv7HTasfN_c-bu5WeNzc9rgZyGl53LT2cXMfRPHqx02bHjcvArK2Pm5eAlYMUjn1cdPGx83rQfqbV4NVArUB-c1Aw_uAHKCBC4AyQG07Hjdvfty0AuhBZDOBDlj1uHkykLPzcdOWx03rgXoWgZQ19z1u2gyUhKgEsuaBDQTp7gKhprUQp0x-3LQdqA3oZojK7WD9qx439sPsBLoW5FSQbXvAWhYAVUECY1cPPDCAXgL6AigLcnX34-Z-iCagt1pe7AJ5FigEUwl0W3MjkA82tHkt0DggC-gEoBqgq4FaFsICGOgrsKuBoQsJ4ElA04E-AYYR0ItAOyAh0bwMqOdxc9Pj5k2Q0F8J1AkOSnAMQEIfrLJx6-Om7seNUx83AiOtccXjxt1gnzYCA6TpceOmx01ALV0QlUDvAFUCESj0Jz1u7Hnc1ABWCdKz_3Fjy-PGJSCVlGcFKFDQ0ufi8srMS830yw8pLs3OtArITMzLd6gxqFGoBtmkYGNopmUHZlXnptWCGTUKZvEKumBoDCUhtK6CCZRfAxcxAmJDIDaHaYFBqCkgORCGqTVShzIgamDGwCDcGAOYEto6CawGpBGmGckmdIjuJJgZEK1GcD7UANN4oBoggXAmSCHM63DDUJwNUmOKphphEYbHqBVIIHPghpIZShArkAIb6iaYFohZQG2oAkCjiQryWi4uXTsF5KSsgIWvzAUA)]
-- [鋼琴伴奏 TMD 檔案](jinei_no_tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5c_Hz9vmPG9c9m9Pxfk_Hy-49zydsebJny9Ol_c87gSKdClpaXIq2ChYWXPa2Cm5cNib6JnZcdQpKT9t3vZg59f2eWU92NDxbNPfZ2p6Xs9sUjM1MXy5oBBr0bMZaIz1jPQugCUog5Y8bup5O2QhU9XTHtMcN3UAVRgZGBnoGBmZ6BhYmxkBlAQaGlnpZBelKXFxemXmpmX75IcWl2ZlWAZmJeflBHg41BjUK1VwKQGBjaKZlB2ZV56bVghk1CmbxCrpgaKhtDKaN4SyQmAlUrAZJ1AgkA8Sm6vHa5jDtMAg1ESRvFq8NomBajNQhYiA2RCXIAJihMAg30ACmjK4OhSs1hzgNwoebWKNgHK-NpBwdojvaFKEU5iwjZEGop0zjwWqhgkD7QL4BKQcyYcEFNxrJg3BpUFiYAmmYPpAoyIMoEYARFLQIYpCZcAuoGsYgIagbkGIR7nSgJNypUPXoJkPEgVYTH4212HKVD65cVYDIVSD_GYMI7EwjBB-XamMw0zweKoIcpgRMBDNhQYnVEAQLMw3Qx-UmYKYhLmch1ELNRs--6O4Gm2SKMBQ7E2w1KKvBfYLBRDEc2QAklWBRMAtsIEQGi_eM0EKAdoENMpnSkIabC4IQp0MDHsJBdjk8XrCYij3iiYxNYIbTtVNAznMKWPjKXAA)]
+- [主旋律 TMD 檔案](jinei_no_tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5c_Hz9vmPG9c9m9Pxfk_Hi929QO6Tnd1gbqeClhaXoq2ChQWXva2CG5eNib6JHVedgtLT9l0vZk59v2fWkx0NzxbNfba25-XsNgVjM9OXCxqBpjybsdZIz1jPAmiCEkj544aup1M2AlU93THtcUM3UIWRgZGBnoGBmZ6BhYkxUFmAgaGlXlZBuhIXl76Wgi21AJeCgsLTvvnPZu94sbn9xYquFx3tQFe8WDnvaeuKZ9PagQ55uqH3WXunAsx-oFOAvgJpe7Fq_7OG5SAN3b0vZs4Hij5ungEUVNBXeNy05Pn8tSA2MDwUgPJAcxwVnm7oRxECGtTzaOZKW2DggYxbsfvFihnYQwxoJCzEuEBqgUoeNzSCWI-bFj1uXvO4ef7j5hVAzv7HTasfN_c-bu5WeNzc9rgZyGl53LT2cXMfRPHqx02bHjcvArK2Pm5eAlYMUjn1cdPGx83rQfqbV4NVArUB-c1Aw_uAHKCBC4AyQG07Hjdvfty0AuhBZDOBDlj1uHkykLPzcdOWx03rgXoWgZQ19z1u2gyUhKgEsuaBDQTp7gKhprUQp0x-3LQdqA3oZojK7WD9qx439sPsBLoW5FSQbXvAWhYAVUECY1cPPDCAXgL6AigLcnX34-Z-iCagt1pe7AJ5FigEUwl0W3MjkA82tHkt0DggC-gEoBqgq4FaFsICGOgrsKuBoQsJ4ElA04E-AYYR0ItAOyAh0bwMqOdxc9Pj5k2Q0F8J1AkOSnAMQEIfrLJx6-Om7seNUx83AiOtccXjxt1gnzYCA6TpceOmx01ALV0QlUDvAFUCESj0Jz1u7Hnc1ABWCdKz_3Fjy-PGJSCVlGcFKFDQ0ufi8srMS830yw8pLs3OtArITMzLd6gxqFGoBtmkYGNopmUHZlXnptWCGTUKZvEKumBoDCUhtK6CCZRfAxcxAmJDIDaHaYFBqCkgORCGqTVShzIgamDGwCDcGAOYEto6CawGpBGmGckmdIjuJJgZEK1GcD7UANN4oBoggXAmSCHM63DDUJwNUmOKphphEYbHqBVIIHPghpIZShArkAIb6iaYFohZQG2oAkCjiQryWi4uXTsF5KSsgIWvzAUA)]
+- [鋼琴伴奏 TMD 檔案](jinei_no_tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5c_Hz9vmPG9c9m9Pxfk_Hi929QO6Tnd1A7uPm3S-79zyfsOXJni1Pl_Y_7wQq6FTQ0uJStFWwsOCyt1Vw47Ix0Tex46pTUHravuvFzKnv98x6sqPh2aK5z9b2vJzdpmBsZvpyQSPQ3Gcz1hrpGetZAE1QAil_3ND1dMpGoKqnO6Y9bugGqjAyMDLQMzAw0zOwMDEGKgswMLTUyypIV-Li8srMS830yw8pLs3OtArITMzLD_JwqDGoUajmUgACG0MzLTswqzo3rRbMqFEwi1fQBUNDbWMwbQxngcRMoGI1SKJGIBkgNlWP1zaHaYdBqIkgebN4bRAF02KkDhEDsSEqQQbADIVBuIEGMGV0dShcqTnEaRA-3MQaBeN4bSTl6BDd0aYIpTBnGSELQj1lGg9WCxUE2gfyDUg5kAkLLrjRSB6ES4PCwhRIw_SBREEeRIkAjKCgRRCDzIRbQNUwBglB3YAUi3CnAyXhToWqRzcZIg60mvhorMWWq3xw5aoCRK4C-c8YRGBnGiH4uFQbg5nm8VAR5DAlYCKYCQtKrIYgWJhpgD4uNwEzDXE5C6EWajZ69kV3N9gkU4Sh2Jlgq0FZDe4TDCaK4cgGIKkEi4JZYAMhMli8Z4QWArQLbJDJlIY03FwQhDgdGvAQDrLL4fGCxVTsEU9kbAIznK6dAnKeU8DCV-YCAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 陣營の月 ]
+📊 TMD Song Profile: [ 陣營の月（軍營之月） ]
 ================================================================================
 ⏱  Duration:       1:38 (98.2s), 36 measures total
 🎼 Key & Tempo:    首調基準 F, != 88.0 BPM, <4/4>

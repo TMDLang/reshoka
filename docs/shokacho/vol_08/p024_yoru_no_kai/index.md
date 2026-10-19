@@ -1,4 +1,4 @@
-# 夜の貝
+# 夜の貝（夜之貝）
 
 <audio controls src="yoru_no_kai.mp3"></audio>
 
@@ -31,7 +31,7 @@
 
 ```abc
 X:1
-T:夜の貝
+T:夜の貝（夜之貝）
 M:4/4
 L:1/16
 Q:1/4=84
@@ -50,14 +50,14 @@ g8 b4 g4 | z2 f2 g2 f2 d4 c2 B2 | c2 B2 c2 d2 f6 c2 | B12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yoru_no_kai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZM7jxnUvNs1V0NLiUrRVsDDhsrdVcNLhsjHRN7HjqlNQetq-68XMqe_3zHoxec3L2W3v93Q8m7HWSA8IDd_v6VQCKXnc0PV0ysZna3ue7pj2uKEbqMTIwMhAz8DATM_AwsQYqCzAwMhEL6sgXYmLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oCterJz3tHXFs2ntQIc83dD7rL1TAWY_0ClAn4C0vVi1_1nDcpCG7t4XM-cDRZ8u6XzcvBYorgD0ugJQGKjdKQkYQstRxDrBulfsfrFiBlCTBiRUNBX0FSBhwgWSfrKj4XFDI4j1uGnJ46a9j5tnKjxu7gPydj5u7gIyu4HMZY-bWx83L3rcvAYo0AZW3LzicfNqiMrmrsfN8yEqm4EqVwIlwHJNQGoSSCVEQ8vjprVQDZPAcquArE1AZUBzJ4NNaVoD1A1RDDQSZBxQGmTkQiA1H2gzkOp93LwAYjPQns0QL-zqgXmhccXjxt2PG3uBrLbHjaseN2543NQJ5EwHppzHjZuBrCVABFEKlN0PpNaBpZs6HzfuBLoF6N7G3seN_WB5oGDTZIjipseNE4HSQENBUnPBpoIV73vcCHRdUz_Q9MeNyyCKgbbthpq8Hyzd2P-4CegdkOuAToPpA7uD8pQFBQpa-lxckflFpX753omZVgGZiXn5DjUGNQrVIGsUbCy07MCM6tyCWjCjRsFUQRcMzYAYxK5RMAaSxgpGCoZA2gguYgpUAZI3BpI1YNWGcWBBXQUDkCKocUBBdPPAQmACU8woTsEYLl0D4oL0AoXALGSDwcrAUmAWWB5uHZACmQ3CyGKo7oUKohqLIgHRbwD1K8jXoFAAOgtIGoFNAik1AtkB1QaCEONqubh07RTgYa-AzlHmAgA)]
-- [鋼琴伴奏 TMD 檔案](yoru_no_kai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZM7jxnUvNs19v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmHDZ2yo46XDZmOib2HHVKSg9bd_1YubU93tmvZi85uXsNqDmZzPWGukBoSFQmxJIyeOGrqdTNj5b2_N0x7THDd1AJUYGRgZ6BgZmegYWJsZAZQEGRiZ6WQXpSlxckflFpX753omZVgGZiXn5QR4ONQY1CtVcCkBgY6FlB2ZU5xbUghk1Cobapgq6YGiobQYmQXyQuDGQNlYwUjAE0ubx2kZIwqYKZlCFxkA2SBSsNQ7IgTANQIqhNhhrAyWwWQGVgFJY5YCEEdBUbWMoByRlqg0UApkGFISyka2DKoZKg9lQVUhOAVIw-0Akugy6z8DGQVQgW2WobYIuDTPPABxGoOAAhRcoEGvApBHQXFBgQkPdCOTgeG2IKhiEWFGLEZc-2OMSEZXxIL_Gg0gTMAkWQBE3A5MQNlTCGK4SzKpB1gthongZoh8sh2EDTlFk48ECRghnYDcdwaqBOhqsHZe_iHY_hiSuMDKGhpERUnhC5IEkTA8SF8KBR52unQI89hTQOcpcAA)]
+- [主旋律 TMD 檔案](yoru_no_kai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZM7jxnUvNs19v6cDyH6ysxvM7lTQ0uJStFWwMOGyt1Vw0uGyMdE3seOqU1B62r7rxcyp7_fMejF5zcvZbUBtz2asNdIDQkOgNiWQkscNXU-nbHy2tufpjmmPG7qBSowMjAz0DAzM9AwsTIyBygIMjEz0sgrSlbi49LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHuuLFynlPW1c8m9YO8uKG3mftnQow-4FOAfoEpO3Fqv3PGpaDNHT3vpg5Hyj6dEnn4-a1QHEFoNcVgMJA7U5JwABbjiLWCda9YveLFTOAmjQgoaKpoK8ACRMukPSTHQ2PGxpBrMdNSx437X3cPFPhcXMfkLfzcXMXkNkNZC573Nz6uHnR4-Y1QIE2sOLmFY-bV0NUNnc9bp4PUdkMVLkSKAGWawJSk0AqIRpaHjethWqYBJZbBWRtAioDmjsZbErTGqBuiGKgkSDjgNIgIxcCqflAm4FU7-PmBRCbgfZshnhhVw_MC40rHjfuftzYC2S1PW5c9bhxw-OmTiBnOjAhPW7cDGQtASKIUqDsfiC1Dizd1Pm4cSfQLUD3NvY-buwHywMFmyZDFDc9bpwIlAYaCpKaCzYVrHjf40ag65r6gaY_blwGUQy0bTfU5P1g6cb-x01A74BcB3QaTB_YHZSnLChQ0NLn4orMLyr1y_dOzLQKyEzMy3eoMahRqAZZo2BjoWUHZlTnFtSCGTUKpgq6YGgGxCB2jYIxkDRWMFIwBNJGcBFToAqQvDGQrAGrNowDC-oqGIAUQY0DCqKbBxYCE5hiRnEKxnDpGhAXpBcoBGYhGwxWBpYCs8DycOuAFMhsEEYWQ3UvVBDVWBQJiH4DqF9BvgaFAtBZQNIIbBJIqRHIDqg2EIQYV8vFpWunAA97BXSOMhcA)]
+- [鋼琴伴奏 TMD 檔案](yoru_no_kai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZM7jxnUvNs19v6cDyH6ysxvIfty8-2X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqWJhw2dsqOOlw2Zjom9hx1SkoPW3f9WLm1Pd7Zr2YvObl7DagQc9mrDXSA0JDoDYlkJLHDV1Pp2x8trbn6Y5pjxu6gUqMDIwM9AwMzPQMLEyMgcoCDIxM9LIK0pW4uCLzi0r98r0TM60CMhPz8oM8HGoMahSquRSAwMZCyw7MqM4tqAUzahQMtU0VdMHQUNsMTIL4IHFjIG2sYKRgCKTN47WNkIRNFcygCo2BbJAoWGsckANhGoAUQ20w1gZKYLMCKgGlsMoBCSOgqdrGUA5IylQbKAQyDSgIZSNbB1UMlQazoaqQnAKkYPaBSHQZdJ-BjYOoQLbKUNsEXRpmngE4jEDBAQovUCDWgEkjoLmgwISGuhHIwfHaEFUwCLGiFiMufbDHJSIq40F-jQeRJmASLIAibgYmIWyohDFcJZhVg6wXwkTxMkQ_WA7DBpyiyMaDBYwQzsBuOoJVA3U0WDsufxHtfgxJXGFkDA0jI6TwhMgDSZgeJC6EA486XTsFeOwpoHOUuQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 夜の貝 ]
+📊 TMD Song Profile: [ 夜の貝（夜之貝） ]
 ================================================================================
 ⏱  Duration:       1:31 (91.4s), 32 measures total
 🎼 Key & Tempo:    首調基準 B,, != 84.0 BPM, <4/4>

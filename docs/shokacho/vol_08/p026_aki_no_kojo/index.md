@@ -1,4 +1,4 @@
-# 秋ノ湖上
+# 秋ノ湖上（秋日湖上）
 
 <audio controls src="aki_no_kojo.mp3"></audio>
 
@@ -38,7 +38,7 @@
 
 ```abc
 X:1
-T:秋ノ湖上
+T:秋ノ湖上（秋日湖上）
 M:3/8
 L:1/16
 Q:1/8=216
@@ -61,14 +61,14 @@ d2 A2 B2 | G4 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](aki_no_kojo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtxc9-zndOe7OhS0NLiUrRVMDSw4LK3VXDnsjHWt7DjqlNQetq-68XMqe_3zHoxec3L2W3v93Q8m7HWSA8IDd_v6VQCKXnc0PV0ysZna3ue7pj2uKEbqMTIwMhAz8DATM_AwsQYqCzAwMhML6sgXYmLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oCterJz3tHXFs2ntQIc83dD7rL1TAWY_0ClAn4C0vVi1_1nDcpCG7t4XM-cDRR83dwAFFYD-VgCKAfW6KzxdshxFqBOsc8XuFytmADVoQEJEU0FfARIeXCDpJzsaHjc0gliPmxY9blqrAAxiIJ7_uLn1cdMyIAPKAUrvBLPaIGpXP25aA5EFKm_aAnTN46b1EPFNQEEgBuluAeoCq29eBNbcBDV-yePmeSBBoKq9j5tXQk1ZDxZpXgTRMfVxcy9U-TKw3AwgqxtsLtCW5slAFtCYVogvdvXAfNE4_XHj0seN3Y8bVwM5kx839j1uanvc2A_kTH3cNAlIrQPirseNKyDKZz5unAXWBLQMpGsOkALpnPq4cdrjxlWPG_cDOfMfNy6B-Bto1NbHjUDvgRWtfty4GygAZO0H2go1G6hkB8TsJoipIEGgQT2PmxoRSpYA3QS0F2hkC0gx5akLChS09Lm4HLMz_fK987PyrQIyE_PyHWoMahSqQdYo2BiaadmBWdW5BbVgRo2CabyCroIhEBsBcY2CMZA0BWIDMA_EAomDaIgcCELl8GiEmQ2VBcnVgNUitIPEYLhGwQwsYwzlwcQhJqPog5oMkoFhhD0GQBKi3gzkOLAL8TjUFN2HUMOJ9yc-H3LVcnHp2inAo0MBnaPMBQA)]
-- [鋼琴伴奏 TMD 檔案](aki_no_kojo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtxc9-zndOe7Oh6v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGlhw2dsquHPZGOtb2HHVKSg9bd_1YubU93tmvZi85uXsNqDmZzPWGukBoSFQmxJIyeOGrqdTNj5b2_N0x7THDd1AJUYGRgZ6BgZmegYWJsZAZQEGRmZ6WQXpSlxcjtmZfvne-Vn5VgGZiXn5QR4ONQY1CtVcCkBgY2imZQdmVecW1IIZNQqm8Qq6CoZAbATENQqG2sZA2ljbFEgagEXM48EckDSUCVMFghA1hAyB2gXVD6SgpoGUgXRrg_QijIPoRyZBYmZgFcZIIgh5U3WImTUKZmiGIayG2olEobvIAOh-oAlAs0BGmIE8ZQRUAKIJ-NEUe0BBLSc1uPAFFKpRXLUYUe6DI8rhMW4Ist00HkGiCIGZIKsgvseriBiT4MmMCPPMwBxjEAFh1iiYIORhQsZgGqYWVSdUhoDNWISMoEKYykDhDE2WRIQSZhiTEFZEhRIoynXtFOCxroDOUeYCAA)]
+- [主旋律 TMD 檔案](aki_no_kojo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtxc9-zndOe7Oh6v6cDyH02fSmM26mgpcWlaKtgaGDBZW-r4M5lY6xvYcdVp6D0tH3Xi5lT3--Z9WLympez24A6n81Ya6QHhIZAbUogJY8bup5O2fhsbc_THdMeN3QDlRgZGBnoGRiY6RlYmBgDlQUYGJnpZRWkK3Fx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdMWLlfOetq54Nq0d6JCnG3qftXcqwOwHOgXoE5C2F6v2P2tYDtLQ3fti5nyg6OPmDqCgAtDfCkAxoF53hadLlqMIdYJ1rtj9YsUMoAYNSIhoKugrQMKDCyT9ZEfD44ZGEOtx06LHTWsVgIEOxPMfN7c-bloGZEA5QOmdYFYbRO3qx01rILJA5U1bgK553LQeIr4JKAjEIN0tQF1g9c2LwJqboMYvedw8DyQIVLX3cfNKqCnrwSLNiyA6pj5u7oUqXwaWmwFkdYPNBdrSPBnIAhrTCvHFrh6YLxqnP25c-rix-3HjaiBn8uPGvsdNbY8b-4GcqY-bJgGpdUDc9bhxBUT5zMeNs8CagJaBdM0BUiCdUx83TnvcuOpx434gZ_7jxiUQfwON2vq4Eeg9sKLVjxt3AwWArP1AW6FmA5XsgJjdBDEVJAg0qOdxUyNCyRKgm4D2Ao1sASmmPHVBgYKWPheXY3amX753fla-VUBmYl6-Q41BjUI1yBoFG0MzLTswqzq3oBbMqFEwjVfQVTAEYiMgrlEwBpKmQGwA5oFYIHEQDZEDQagcHo0ws6GyILkasFqEdpAYDNcomIFljKE8mDjEZBR9UJNBMjCMsMcASELUm4EcB3YhHoeaovsQajjx_sTnQ65aLi5dOwV4dCigc5S5AA)]
+- [鋼琴伴奏 TMD 檔案](aki_no_kojo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtxc9-zndOe7Oh6v6cDyH02fSmE-7h598vuPc8nbHmyZ8vTpf3POzve7-lU0NLiUrRVMDSw4LK3VXDnsjHWt7DjqlNQetq-68XMqe_3zHoxec3L2W1As57NWGukB4SGQG1KICWPG7qeTtn4bG3P0x3THjd0A5UYGRgZ6BkYmOkZWJgYA5UFGBiZ6WUVpCtxcTlmZ_rle-dn5VsFZCbm5Qd5ONQY1ChUcykAgY2hmZYdmFWdW1ALZtQomMYr6CoYArERENcoGGobA2ljbVMgaQAWMY8Hc0DSUCZMFQhC1BAyBGoXVD-QgpoGUgbSrQ3SizAOoh-ZBImZgVUYI4kg5E3VIWbWKJihGYawGmonEoXuIgOg-4EmAM0CGWEG8pQRUAGIJuBHU-wBBbWc1ODCF1CoRnHVYkS5D44oh8e4Ich203gEiSIEZoKsgvgeryJiTIInMyLMMwNzjEEEhFmjYIKQhwkZg2mYWlSdUBkCNmMRMoIKYSoDhTM0WRIRSphhTEJYERVKoCjXtVOAx7oCOkeZCwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 秋ノ湖上 ]
+📊 TMD Song Profile: [ 秋ノ湖上（秋日湖上） ]
 ================================================================================
 ⏱  Duration:       0:38 (38.3s), 46 measures total
 🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <3/8>

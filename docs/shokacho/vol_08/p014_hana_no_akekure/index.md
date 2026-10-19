@@ -1,4 +1,4 @@
-# 花のあけくれ
+# 花のあけくれ（花的晨昏）
 
 <audio controls src="hana_no_akekure.mp3"></audio>
 
@@ -31,7 +31,7 @@
 
 ```abc
 X:1
-T:花のあけくれ
+T:花のあけくれ（花的晨昏）
 M:3/4
 L:1/16
 Q:1/4=126
@@ -62,14 +62,14 @@ A6 c2 G2 A2 | F8 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hana_no_akekure.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRtfFx47rHjU2PGyc-bux_3NSjoKXFpWirYGhkxmVvq-DGZWOsb2LHVaeg9LR914uZU9_vmfWyvffl_M1Pp2x8trbn5ey252vWPNnRoKCv8GLyGqDg4-YVj5tXKRgaGL9c0Ph-T8ezGWuN9Iz1jEzf7-lUApnzuKELovfpjmmPG7qBSowMjAz0DAzM9AwsTIyBygIMDE30sgrSHzVMBjJNQUwlLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oEOerFy3tPWFc-mtQPd9HRD77P2TgWYUxSAbgFxwI4BOhEYDCAzXqza_6xhOUh3d--LmfOBoo-bZwAFFYCBpgAUAxrkpvB0yXIUIaDmnkczV9oCgxjIetzQ87xj79P9qx83dz9uAOl4sqvnZfOKpxM6gMEEVA22Z8XuFytmEBv2-grwQAeyHzcuedw073FjL7bIhkQTF8gOoEGPGxpBrMdNix43Ad3T8rhpLZCz5HFzw-OmnUAWUKz3cXMfmOyGqNz-uHnl4-YFQNbWx03rQZymNQqPmzeBFfeBhRaBVTb3P27uAgoBVe4EqnnctB_MaZ7_uGnF46Ztj5uB6vshKuc_bl4G5ncDOfNAJjevBmpbBTTqcfMkkOuaV0GcvAsYfBAnN3Y_bup83DgT6EEgZ_3jxrWPG0Ga2h43bn3cuOlx49THjdMhKueCVYKUrX7cuBsk2dQE5ABVzgTL9D1uXAZRCTRm1eOmSUAWMNQmAw0AygA5oJADm9wPVAJT2dQNMXMfWOUKCGfV40agykawMV0glZQnXShQ0NLn4vJIzEv0y3fMTs0uLUq1Cs4vKErMy3eoMahRqAZZpmBjoWUHZlTnptWCGTUKBgq6YGysYALkmQJZugpmQLYpkGcMZBuCsRGUpwsUNwGyaoAiIB5UH9QsonSrAxXAlIIEdOHazaF8MyALwQOrUDCMgyo3BppHvu1GYLeDxEEQ5O8arlr0gHPMKcERagXooYZsOohtHg81HoLhXJBLjcAuBwpBLAdrhRpHlgFgBswEUICABRAugmGY8SDtZiDzyHYCmIPERwpBXTsFlEBUwCagzAUA)]
-- [鋼琴伴奏 TMD 檔案](hana_no_akekure_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRtfFx47rHjU2PGyc-bux_3NTzfk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDLjsrdVcOOyMdY3seOqU1B62r7rxcyp7_fMetne-3L-5qdTNj5b2_NydtvzNWue7GhQ0Fd4MXkNUPBx84rHzasUDA2MXy5oBNrwbMZaIz1jPSNToNlKIHMeN3RB9D7dMe1xQzdQiZGBkYGegYGZnoGFiTFQWYCBoYleVkH6o4bJQKYpiKnExeWRmJfol--YnZpdWpRqFZCZmJcf5OFQY1CjUM2lAAQ2Flp2YEZ1blotmFGjYKCgC8aG2sYKRtomQBFjbVMgHyRiBhYxjwcK1IAVAAXBGChkBBfSBesAqQTxayCSIGEkQ6GWkW20OlgL2GyICbowJsxoI21zhCDEfHOwjSBhiL0QEiRmGAc2wggoALLILJ7azjYEKgALAQlQmJjGa8OkIMFdw1WLNb58cMRXAXp8gQ1RMIwHUqbxCBJFCMyEihiDCBOIgCmIMkLSBDWbRNPAJuA2DUMcr2FmUDVUchtONaBw17VTQAl6BWwCylwA)]
+- [主旋律 TMD 檔案](hana_no_akekure.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRtfFx47rHjU2PGyc-bux_3NTzfk8HUPD5rJZnM1c8m9H_fk-ngpYWl6KtgqGRGZe9rYIbl42xvokdV52C0tP2XS9mTn2_Z9bL9t6X8zc_nbLx2dqel7Pbnq9Z82RHg4K-wovJa4CCj5tXPG5epWBoYPxyQSPQ-Gcz1hrpGesZmQLNVgKZ87ihC6L36Y5pjxu6gUqMDIwM9AwMzPQMLEyMgcoCDAxN9LIK0h81TAYyTUFMJS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBDnqxct7T1hXPprUD3fR0Q--z9k4FmFMUgG4BccCOAToRGAwgM16s2v-sYTlId3fvi5nzgaKPm2cABRWAgaYAFAMa5KbwdMlyFCGg5p5HM1faAoMYyHrc0PO8Y-_T_asfN3c_bgDpeLKr52XziqcTOoDBBFQNtmfF7hcrZhAb9voK8EAHsh83LnncNO9xYy-W6IdGExfIDqBBjxsaQazHTYseNwHd0_K4aS2Qs-Rxc8Pjpp1AFlCs93FzH5jshqjc_rh55ePmBUDW1sdN60GcpjUKj5s3gRX3gYUWgVU29z9u7gIKAVXuBKp53LQfzGme_7hpxeOmbY-bger7ISrnP25eBuZ3AznzQCY3rwZqWwU06nHzJJDrmldBnLwLGHwQJzd2P27qfNw4E-hBIGf948a1jxtBmtoeN2593LjpcePUx43TISrnglWClK1-3LgbJNnUBOQAVc4Ey_Q9blwGUQk0ZtXjpklAFjDUJgMNAMoAOaCQA5vcD1QCU9nUDTFzH1jlCghn1eNGoMpGsDFdIJWUJ10oUNDS5-LySMxL9Mt3zE7NLi1KtQrOLyhKzMt3qDGoUagGWaZgY6FlB2ZU56bVghk1CgYKumBsrGAC5JkCWboKZkC2KZBnDGQbgrERlKcLFDcBsmqAIiAeVB_ULKJ0qwMVwJSCBHTh2s2hfDMgC8EDq1AwjIMqNwaaR77tRmC3g8RBEOTvGq5a9IBzzCnBEWoF6KGGbDqIbR4PNR6C4VyQS43ALgcKQSwHa4UaR5YBYAbMBFCAgAUQLoJhmPEg7WYg88h2ApiDxEcKQV07BZRAVMAmoMwFAA)]
+- [鋼琴伴奏 TMD 檔案](hana_no_akekure_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRtfFx47rHjU2PGyc-bux_3NTzfk8HUPD5rJZnM1c8m9H_uHn3y-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDLjsrdVcOOyMdY3seOqU1B62r7rxcyp7_fMetne-3L-5qdTNj5b2_NydtvzNWue7GhQ0Fd4MXkNUPBx84rHzasUDA2MXy5oBFr4bMZaIz1jPSNToNlKIHMeN3RB9D7dMe1xQzdQiZGBkYGegYGZnoGFiTFQWYCBoYleVkH6o4bJQKYpiKnExeWRmJfol--YnZpdWpRqFZCZmJcf5OFQY1CjUM2lAAQ2Flp2YEZ1blotmFGjYKCgC8aG2sYKRtomQBFjbVMgHyRiBhYxjwcK1IAVAAXBGChkBBfSBesAqQTxayCSIGEkQ6GWkW20OlgL2GyICbowJsxoI21zhCDEfHOwjSBhiL0QEiRmGAc2wggoALLILJ7azjYEKgALAQlQmJjGa8OkIMFdw1WLNb58cMRXAXp8gQ1RMIwHUqbxCBJFCMyEihiDCBOIgCmIMkLSBDWbRNPAJuA2DUMcr2FmUDVUchtONaBw17VTQAl6BWwCylwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 花のあけくれ ]
+📊 TMD Song Profile: [ 花のあけくれ（花的晨昏） ]
 ================================================================================
 ⏱  Duration:       0:48 (48.6s), 34 measures total
 🎼 Key & Tempo:    首調基準 F, != 126.0 BPM, <3/4>

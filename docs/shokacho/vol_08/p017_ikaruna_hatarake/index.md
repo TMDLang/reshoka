@@ -1,4 +1,4 @@
-# 怒るな働け
+# 怒るな働け（不要發怒，努力工作）
 
 <audio controls src="ikaruna_hatarake.mp3"></audio>
 
@@ -32,7 +32,7 @@
 
 ```abc
 X:1
-T:怒るな働け
+T:怒るな働け（不要發怒，努力工作）
 C:曲：杉江秀
 M:4/4
 L:1/16
@@ -52,14 +52,14 @@ d6 d2 e4 d4 | G6 A2 B2 A2 G2 E2 | A6 A2 A2 c2 B2 A2 | G12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ikaruna_hatarake.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMOlxU_fjxlVPm3sfN05U0NLiUrRVMDQy4LK3VXDnsjHRN7HjqlNQejZ70_s9s57N7Xy2cf7z5Q1KILGn7btezJwKFH4xec3TKRtfzm5TMDQ0fbmg8XHzisfNq97v6Xg2Y62RnrGekcn7PZ1gLY8buoAqn63tebpj2uOGbqASIwMjAz0DAzM9AwsTY6CyAANDc72sgnQlLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oGueLFy3tPWFc-mtQMd8nRD77P2TgWY_UCnAH0G0vZi1f5nDctBGrp7X8ycDxR93NwBFFQAho0CUAyo113h6ZLlKEJAzT2PZq60BYakggaIYWGhCTZsxe4XK2YAzdCAh-WTvXOAoaupoK-APRyBEvBw5AKZ8WRHw-OGRhDrcdOSx02rHzcDUZfC4-b-x037HzevfNy0EchpAbrycfPCx01bgMaArd66_ekukLKVj5ubHzdPBOpe-7i5DUx2A4UXPm7e9Lhp6-PmeY-btoPDa3n3s6VAyT6FZzObXk6bDFbWtOpx03qwjSBL4Y7YCyKb24GczY-blj1ungBRvAhoFNhdmx83z4Q4flcPOY5_NrX1ZTPQKJBDQe4DkzuBHGAgAVE_BIGNbQS6sOdxYw-QteRx44rHTY2PmyYBOfMfN6573Dj9ceP-x43LwGbOmft0yVSF5y0Ln-zqBhvdCHREJ1jNMmCuAKmhPOVBgYKWPheXZ3ZiUWleokdiSWJRYnaqVUBmYl6-Q41BjUI1yDIFGwstOzCjOjetFsyoUTCNV9AFQmMFIyBpCMRQITBhFq9gHg8UNQKKGsPVGYLEDUEKwUIQaADSCjUTKA0SAmqFmQIyFmQ4yABTqCE1YCt1gaQRUMQEiGEimCZCbDIF0yAMtAMsYgbmQZyN7ECQibjdBzMNZAbENIjbQLqg3kN2HMhpoBCAKEI2rpaLS9dOAS3YFbALKXMBAA)]
-- [鋼琴伴奏 TMD 檔案](ikaruna_hatarake_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMOlxU_fjxlVPm3sfN058v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGhlw2dsquHPZmOib2HHVKSg9m73p_Z5Zz-Z2Pts4__nyBiWQ2NP2XS9mTgUKv5i85umUjS9ntykYGpq-XND4uHnF4-ZVQAuezVhrpGesZ2QCNBqs5XFDF1Dls7U9T3dMe9zQDVRiZGBkoGdgYKZnYGFiDFQWYGBorpdVkK7ExeWZnVhUmpfokViSWJSYnWoVkJmYlx_k4VBjUKNQzaUABDYWWnZgRnVuWi2YUaNgGq-gC4TGCkZA0hCIoUJgwixewTweKGoEFDXUNoarNATJGAIFzeO1jbRNweIQaAAyAWo0UA1ICGgCzDCQ6SA7QKaYQk2CGAIWNAJCYwUTIEYSxDTXGGoj0AQwC4RrFEy0zcCiZlBRiF9QXQ0ynoCjEYZDDITwYc4GGQD1Ppq7Qa4GBZNpvDbMTmTDa3HEjw-O-CmAxY8hJDIQJFgAKm4MIkzg0YWi2gSJBDkLRBshpJH9DFGEZDxMF5JxCPuwGAZmErAEh1lg14MFkBTg9jZhKxBhAtVihst3GGZhsRzMhEehrp0CWiwqYBdS5gIA)]
+- [主旋律 TMD 檔案](ikaruna_hatarake.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMOlxU_fjxlVPm3sfN058v6fjyY7eF8san8_cA5R6v6fnadeqp12zn25f-mTvnPd7OhW0tLgUbRUMjQy47G0V3LlsTPRN7LjqFJSezd70fs-sZ3M7n22c_3x5gxJI7Gn7rhczpwKFX0xe83TKxpez2xQMDU1fLmh83LzicfMqoGXPZqw10jPWMzIBGg3W8rihC6jy2dqepzumPW7oBioxMjAy0DMwMNMzsDAxBioLMDA018sqSFfi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeiKFyvnPW1d8WxaO9AhTzf0PmvvVIDZD3QK0GcgbS9W7X_WsBykobv3xcz5QNHHzR1AQQVg2CgAxYB63RWeLlmOIgTU3PNo5kpbYEgqaIAYFhaaYMNW7H6xYgbQDA14WAJDHhi6mgr6CtjDESgBD0cukBlPdjQ8bmgEsR43LXnctPpxMxB1KTxu7n_ctP9x88rHTRuBnBagKx83L3zctAVoDNjqrduf7gIpW_m4uflx80Sg7rWPm9vAZDdQeOHj5k2Pm7Y-bp73uGk7OLyWdz9bCpTsU3g2s-nltMlgZU2rHjetB9sIshTuiL0gsrkdyNn8uGnZ4-YJEMWLgEaB3bX5cfNMiON39ZDj-GdTW182A40CORTkPjC5E8gBBhIQ9UMQ2NhGoAt7Hjf2AFlLHjeueNzU-LhpEpAz_3HjuseN0x837n_cuAxs5py5T5dMVXjesvDJrm6w0Y1AR3SC1SwDZhuQGspTHhQoaOlzcXlmJxaV5iV6JJYkFiVmp1oFZCbm5TvUGNQoVIMsU7Cx0LIDM6pz02rBjBoF03gFXSA0VjACkoZADBUCE2bxCubxQFEjoKgxXJ0hSNwQpBAsBIEGIK1QM4HSICGgVpgpIGNBhoMMMIUaUgO2UhdIGgFFTIAYJoJpIsQmUzANwkA7wCJmYB7E2cgOBJmI230w00BmQEyDuA2kC-o9ZMeBnAYKAYgiZONqubh07RTQgl0Bu5AyFwA)]
+- [鋼琴伴奏 TMD 檔案](ikaruna_hatarake_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMOlxU_fjxlVPm3sfN058v6fjyY7eF8san8_cA5R6v6fnadeqp12zn25f-mTvnMfNu19273k-YcuTPVueLu1_3tnxfk-ngpYWl6KtgqGRAZe9rYI7l42JvokdV52C0rPZm97vmfVsbuezjfOfL29QAok9bd_1YuZUoPCLyWueTtn4cnabgqGh6csFjY-bVzxuXgW0_tmMtUZ6xnpGJkCjwVoeN3QBVT5b2_N0x7THDd1AJUYGRgZ6BgZmegYWJsZAZQEGhuZ6WQXpSlxcntmJRaV5iR6JJYlFidmpVgGZiXn5QR4ONQY1CtVcCkBgY6FlB2ZU56bVghk1CqbxCrpAaKxgBCQNgRgqBCbM4hXM44GiRkBRQ21juEpDkIwhUNA8XttI2xQsDoEGIBOgRgPVgISAJsAMA5kOsgNkiinUJIghYEEjIDRWMAFiJEFMc42hNgJNALNAuEbBRNsMLGoGFYX4BdXVIOMJOBphOMRACB_mbJABUO-juRvkalAwmcZrw-xENrwWR_z44IifAlj8GEIiA0GCBaDixiDCBB5dKKpNkEiQs0C0EUIa2c8QRUjGw3QhGYewD4thYCYBS3CYBXY9WABJAW5vE7YCESZQLWa4fIdhFhbLwUx4FOraKaDFogJ2IWUuAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 怒るな働け ]
+📊 TMD Song Profile: [ 怒るな働け（不要發怒，努力工作） ]
 ================================================================================
 ⏱  Duration:       1:04 (64.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 G, != 120.0 BPM, <4/4>

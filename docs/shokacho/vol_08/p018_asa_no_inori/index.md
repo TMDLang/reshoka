@@ -1,4 +1,4 @@
-# 朝の祈り
+# 朝の祈り（早晨的祈禱）
 
 <audio controls src="asa_no_inori.mp3"></audio>
 
@@ -37,7 +37,7 @@
 
 ```abc
 X:1
-T:朝の祈り
+T:朝の祈り（早晨的祈禱）
 M:4/4
 L:1/16
 Q:1/4=88
@@ -56,14 +56,14 @@ F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](asa_no_inori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z-7jxnXPl3Y8bupS0NLiUrRVsLDgsrdVcNHhsjHRN7HjqlNQetq-68XMqe_3zHo5f_OzpXufTdvwbOauF2tnKOgrvJi85umUjS9ntykYGpi9XND4uHnF4-ZV7_d0PJux1kjPWM_I5P2eTiWQIY8buoAqn63tebpj2uOGbqASIwMjAz0DAzM9AwsTY6CyAANDC72sgnQlLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oGueLFy3tPWFc-mtQMd8nRD77P2TgWY_UCnAP0K0vZi1f5nDctBGrp7X8ycDxR9uqTzcXM3UFwBGDgKQGGgdpckhadLlqOIAQ3oeTRzpS0wLEHGrNj9YsUMEsIPKAEPPy6QCU92NDxuaASxHjctety09XFzn8Lj5kmPm1YDVT9u3gQTblrzuHk2UBKssrnlcfOcx83zgQ4Gyi8D81cDWUA9XY-btoONWQFRCbQUKAo0E2hM80qQJJiz5HEzEM0D89sgtgOVARWvf9y0FqitH2QSyMxmoMO7HzcBnQJk9ECcvKsH7uSWx41AQ5sUHjd2P27c8bip83HjGiCn93Hj_seNPY8bVwHTIFhl43owB2hiY8vjJqA8UP06IKfpcePsx43TwZIbICqBZq6AmLnkcVPj48b5QPOAVnUANTxu3ASShJnZ_7hxIcRMoIHAhN4GFII4BWga0MypQF3QUO5ECmWgv0FhCww7oD-hgQb0dNNacJAC_Q0M6wlYFMODB7tKaOSBwrYPHnnAmAOiTZCwhgc0UDMomoEU0PQZENN7wDKtYMPBUUJ5BoECBS19Li7H4kS_fM-8_KJMq4DMxLx8hxqDGoVqkD0KNhZadmBGdUEtmK5RMFTQBUJDBfN4IGUKIiBiRkBsDJYzA4qYAmkTuIghUAQkD4MGIF0Qc3PTYAZDlJoAtQPNhRgbB6TMwSaCTYmDaYI7BtUaI7jzMKyB2wI2E2yWEYSFxSVgNWBpY4gac5D7QUywDMg1GmZAQcM4TVUNXV1NqEMwrYV5CuJAUAhAHAhSDXUILLBAwvh8UcvFpWungIgqBQyeMhcA)]
-- [鋼琴伴奏 TMD 檔案](asa_no_inori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z-7jxnXPl3Y8bup6v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYWHDZ2yq46HDZmOib2HHVKSg9bd_1YubU93tmvZy_-dnSvc-mbXg2c9eLtTMU9BVeTF7zdMrGl7PbFAwNzF4uaHzcvOJx8yqg8c9mrDXSM9YzMgEarAQy5HFDF1Dls7U9T3dMe9zQDVRiZGBkoGdgYKZnYGFiDFQWYGBooZdVkK7ExeVYnOiX75mXX5RpFZCZmJcf5OFQY1CjUM2lAAQ2Flp2YEZ1QS2YrlEwVNAFQkMF83ggZQoiIGJGQGwMljMDipgCaRO4iCFQxDxeG6QEBg1AGiFG56bBzIaoNgGaADQabLKxtmEcyHBtc5Ax2iAJIB0H04pwlTZIvVm8NshSQ22IQWArgW6J14Y4GsNmhMUQa8BGm2obQdjYHAhRB1Viqm0MUWkOlDKBiEFVQJyqYQaUMozTVNXQ1dWEhgHYoZhuAXkB4mqY-6EBBgldkCa4I0EBDPEwSAqLb-EmIeyoxYxpHxwxjQhUeBSbxoNII2hsI0TATBOIMJJCsLAxkjBYJ0QOOeKx2AQ2DMytAUYn3BwkYXRXQow1AZMQNoTEdCjWNIfsSbgfcbsP2WtgR5nBnQcNHtwexgxRFJciPIocomBRJC24vAWMYF07BUQcK2DwlLkA)]
+- [主旋律 TMD 檔案](asa_no_inori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z-7jxnXPl3Y8bup6v6fj2fSVz2aueD6rBSjyfNnG93s6FbS0uBRtFSwsuOxtFVx0uGxM9E3suOoUlJ6273oxc-r7PbNezt_8bOneZ9M2PJu568XaGQr6Ci8mr3k6ZePL2W0KhgZmLxc0Pm5e8bh5Fcj4GWuN9Iz1jEyABiuBDHnc0AVU-Wxtz9Md0x43dAOVGBkYGegZGJjpGViYGAOVBRgYWuhlFaQrcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50xYuV8562rng2rR3okKcbep-1dyrA7Ac6BehXkLYXq_Y_a1gO0tDd-2LmfKDo0yWdj5u7geIKwMBRAAoDtbskKTxdshxFDGhAz6OZK22BYQkyZsXuFytmkBB-QAl4-HGBTHiyo-FxQyOI9bhp0eOmrY-b-xQeN0963LQaqPpx8yaYcNOax82zgZJglc0tj5vnPG6eD3QwUH4ZmL8ayALq6XrctB1szAqISqClQFGgmUBjmleCJMGcJY-bgWgemN8GsR2oDKh4_eOmtUBt_SCTQGY2Ax3e_bgJ6BQgowfi5F09cCe3PG4EGtqk8Lix-3HjjsdNnY8b1wA5vY8b9z9u7HncuAqYMMEqG9eDOUATG1seNwHlgerXATlNjxtnP26cDpbcAFEJNHMFxMwlj5saHzfOB5oHtKoDqOFx4yaQJMzM_seNCyFmAg0Epv42oBDEKUDTgGZOBeqChnInUigD_Q0KW2DYAf0JDTSgp5vWgoMU6G9gWE_AohgePNhVQiMPFLZ98MgDxhwQbYKENTyggZpB0QykgKbPgJjeA5ZpBRsOjhLKMwgUKGjpc3E5Fif65Xvm5RdlWgVkJublO9QY1ChUg-xRsLHQsgMzqgtqwXSNgqGCLhAaKpjHAylTEAERMwJiY7CcGVDEFEibwEUMgSIgeRg0AOmCmJubBjMYotQEqB1oLsTYOCBlDjYRbEocTBPcMajWGMGdh2EN3BawmWCzjCAsLC4BqwFLG0PUmIPcD2KCZUCu0TADChrGaapq6OpqQh2CaS3MUxAHgkIA4kCQaqhDYIEFEsbni1ouLl07BURUKWDwlLkA)]
+- [鋼琴伴奏 TMD 檔案](asa_no_inori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z-7jxnXPl3Y8bup6v6fj2fSVz2aueD6rBSjyfNnGx827X3bveT5hy5M9W54u7X_e2fF-T6eClhaXoq2ChQWXva2Ciw6XjYm-iR1XnYLS0_ZdL2ZOfb9n1sv5m58t3fts2oZnM3e9WDtDQV_hxeQ1T6dsfDm7TcHQwOzlgsbHzSseN68CWThjrZGesZ6RCdBgJZAhjxu6gCqfre15umPa44ZuoBIjAyMDPQMDMz0DCxNjoLIAA0MLvayCdCUuLsfiRL98z7z8okyrgMzEvPwgD4cagxqFai4FILCx0LIDM6oLasF0jYKhgi4QGiqYxwMpUxABETMCYmOwnBlQxBRIm8BFDIEi5vHaICUwaADSCDE6Nw1mNkS1CdAEoNFgk421DeNAhmubg4zRBkkA6TiYVoSrtEHqzeK1QZYaakMMAlsJdEu8NsTRGDYjLIZYAzbaVNsIwsbmQIg6qBJTbWOISnOglAlEDKoC4lQNM6CUYZymqoauriY0DMAOxXQLyAsQV8PcDw0wSOiCNMEdCQpgiIdBUlh8CzcJYUctZkz74IhpRKDCo9g0HkQaQWMbIQJmmkCEkRSChY2RhME6IXLIEY_FJrBhYG4NMDrh5iAJo7sSYqwJmISwISSmQ7GmOWRPwv2I233IXgM7ygzuPGjw4PYwZoiiuBThUeQQBYsiacHlLWAE69opIOJYAYOnzAUA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 朝の祈り ]
+📊 TMD Song Profile: [ 朝の祈り（早晨的祈禱） ]
 ================================================================================
 ⏱  Duration:       1:27 (87.3s), 32 measures total
 🎼 Key & Tempo:    首調基準 D,, != 88.0 BPM, <4/4>

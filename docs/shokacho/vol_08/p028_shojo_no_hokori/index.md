@@ -1,4 +1,4 @@
-# 少女のほこり
+# 少女のほこり（少女的驕傲）
 
 <audio controls src="shojo_no_hokori.mp3"></audio>
 
@@ -31,7 +31,7 @@
 
 ```abc
 X:1
-T:少女のほこり
+T:少女のほこり（少女的驕傲）
 M:4/4
 L:1/16
 Q:1/4=100
@@ -50,14 +50,14 @@ V:V1 name="Piano" snm="Pia"
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shojo_no_hokori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6YeLTpZsfN6573Lj7cePkx01dClpaXIq2CoYGBlz2tgrOXDYm-iZ2XHUKSk_bd72YOfX9nlkvJq95ObvtcfOKx82rFPSBRvQ_Xbvs6ZSNz9b2PNk15Wlv47PZm4AK3u_peDZjrZEeEBq-39OpBDLjcUMXROHTHdMeN3QDlRgZGBnoGRiY6RlYmBgDlQUYGFnoZRWkK3Fx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdMWLlfOetq54Nq0d6JCnG3qftXcqwOwHOgXoVZC2F6v2P2tYDtLQ3fti5nyg6OPmfqCgAjBgFIBiQL3OCk-XLEcRAmrueTRzpS0oGEFmrNj9YsUMoFYN5MDTBIaeBq7gA0lCAo8LZMKTHQ2PGxpBLKDtj5u7gFQ3hNn0uGnb4-bVQM68x01bHjdtfty8FsjpA6ttWguyqgkk0P24efbj5klA1iYgXvC4uRdqxqLHzRCDm_YDzYAINq163NzxuHnl4-YeoMD8x01bIdo2PW6eAHHEPLBGkLVAMaDShSA7IWZMBQk0bQUKrIC4fVcPzO2NSx43Au1tBOpr7H_c1Pm4cefjpslAzszHjbMeN05_3DgVyFkHUTv_cWM3RDkwec573LgfaDzQ_cBkCkqpIPEVQC0QtfseN6563LgZpBaI9z9uBLoHbEvL48a5IIObGh83dUO82Q8zt2kSyIimRqiuNqCKx43rgaqBnKkgtZQnPChQ0NLn4grOyM_K98v3yM_OL8q0CshMzMt3qDGoUagGWaVgY6FlB2ZU5xbUghk1CqYKumBoBsQgdo2CYRyQMopTMI4DC0AEQdJgCTOggDEQQ4Rg0ACkCGp0GsxosHoQBJoENhHZdCANsRJkFFgOZimqUiw2wN1uDJXD4kyw8VD_QMwGqzYFiiL8jGYu3OFgR4CdDWaBCagjwQTMBpAoxFRQuAAFgCqBCrC6vJaLS9dOASV-FLAJKHMBAA)]
-- [鋼琴伴奏 TMD 檔案](shojo_no_hokori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6YeLTpZsfN6573Lj7cePkx01d7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMDLntbBWcuGxN9EzuuOgWlp-27Xsyc-n7PrBeT17yc3fa4ecXj5lUK-kBz-5-uXfZ0ysZna3ue7JrytLfx2exNQAVA05_NWGukB4SGQHOVQGY8buiCKHy6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgsgADIwu9rIJ0JS6u4Iz8rHy_fI_87PyiTKuAzMS8_CAPhxqDGoVqLgUgsLHQsgMzqnMLasGMGgVDbVMFXTA01DYDkyB-jYKxtmEckGEUp2AcBxWESECUQaXNgILGQAwSNgFLwKABSDHUsjSYZVBdIGiqDTQXRAFtQLUPSEPsMAUbDFUBlsLUZIowEc1WJB8aw30I8gLMhygeARJmCBmIfVCdpkCZGgXzeG0jeFChWQX3H9R9QFOR3Aqm4P6AUlBroRTQJ9DwBToCqhWsEKcXa7HGtg_22EYERTzIGhBhAiLAXGRRMMsYIgpWYYZVFCxgEg8ikaMZizUIFlQUbAyy5WBJI7gyU7CpGEYgxyu6NbgdjsWTSM7HsB7dP_BoxR5ASO5FFkbzJrLnkRTDY1HXTgElIhWwCShzAQA)]
+- [主旋律 TMD 檔案](shojo_no_hokori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6YeLTpZsfN6573Lj7cePkx01d7_d0QASfz2p5uXLq06ZN7_d0KmhpcSnaKhgaGHDZ2yo4c9mY6JvYcdUpKD1t3_Vi5tT3e2a9mLzm5ey2x80rHjevUtAHmtv_dO2yp1M2Plvb82TXlKe9jc9mbwIqAJr-bMZaIz0gNASaqwQy43FDF0Th0x3THjd0A5UYGRgZ6BkYmOkZWJgYA5UFGBhZ6GUVpCtxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTFi5XznraueDatHRwSvc_aOxVg9gOdAvQqSNuLVfufNSwHaejufTFzPlD0cXM_UFABGDAKQDGgXmeFp0uWowgBNfc8mrnSFhSMIDNW7H6xYgZQqwZy4GkCQ08DV_CBJCGBxwUy4cmOhscNjSAW0PbHzV1AqhvCbHrctO1x82ogZ97jpi2PmzY_bl4L5PSB1TatBVnVBBLoftw8-3HzJCBrExAveNzcCzVj0eNmiMFN-4FmQASbVj1u7njcvPJxcw9QYP7jpq0QbZseN0-AOGIeWCPIWqAYUOlCkJ0QM6aCBJq2AgVWQNy-qwfm9sYljxuB9jYC9TX2P27qfNy483HTZCBn5uPGWY8bpz9unArkrIOonf-4sRuiHJhm5z1u3A80Huh-YNoFJV-Q-AqgFojafY8bVz1u3AxSC8T7HzcC3QO2peVx41yQwU2Nj5u6Id7sh5nbNAlkRFMjVFcbUMXjxvVA1UDOVJBayhMeFCho6XNxBWfkZ-X75XvkZ-cXZVoFZCbm5TvUGNQoVIOsUrCx0LIDM6pzC2rBjBoFUwVdMDQDYhC7RsEwDkgZxSkYx4EFIIIgabCEGVDAGIghQjBoAFIENToNZjRYPQgCTQKbiGw6kIZYCTIKLAezFFUpFhvgbjeGymFxJth4qH8gZoNVmwJFEX5GMxfucLAjwM4Gs8AE1JFgAmYDSBRiKihcgAJAlUAFWF1ey8Wla6eAEj8K2ASUuQA)]
+- [鋼琴伴奏 TMD 檔案](shojo_no_hokori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6YeLTpZsfN6573Lj7cePkx01d7_d0QASfz2p5uXLq06ZNj5t3v-ze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMDLntbBWcuGxN9EzuuOgWlp-27Xsyc-n7PrBeT17yc3fa4ecXj5lUK-kCb-p-uXfZ0ysZna3ue7JrytLfx2exNQAVA-57NWGukB4SGQHOVQGY8buiCKHy6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgsgADIwu9rIJ0JS6u4Iz8rHy_fI_87PyiTKuAzMS8_CAPhxqDGoVqLgUgsLHQsgMzqnMLasGMGgVDbVMFXTA01DYDkyB-jYKxtmEckGEUp2AcBxWESECUQaXNgILGQAwSNgFLwKABSDHUsjSYZVBdIGiqDTQXRAFtQLUPSEPsMAUbDFUBlsLUZIowEc1WJB8aw30I8gLMhygeARJmCBmIfVCdpkCZGgXzeG0jeFChWQX3H9R9QFOR3Aqm4P6AUlBroRTQJ9DwBToCqhWsEKcXa7HGtg_22EYERTzIGhBhAiLAXGRRMMsYIgpWYYZVFCxgEg8ikaMZizUIFlQUbAyy5WBJI7gyU7CpGEYgxyu6NbgdjsWTSM7HsB7dP_BoxR5ASO5FFkbzJrLnkRTDY1HXTgElIhWwCShzAQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 少女のほこり ]
+📊 TMD Song Profile: [ 少女のほこり（少女的驕傲） ]
 ================================================================================
 ⏱  Duration:       1:16 (76.8s), 32 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>

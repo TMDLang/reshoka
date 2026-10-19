@@ -89,6 +89,18 @@ SHOKACHO_VOL_NOTES: dict[str, str] = {
     "vol_10": "封面左上五線譜內標註 **`X`** 及鉛筆署名 **「楊金土」**、鈐紅印 **「楊」**（大正 15 年 2 月至昭和 2 年 7 月抄錄）。前半抄自《澄宮殿下御作 童謡集》（本居長世、永井幸次作曲），中後段自 1915 年《小公學校唱歌教材集》第 423 頁倒序往前抄至第 195 頁（含〈新高山〉、〈南洋の歌〉、〈鄭成功〉等）。",
 }
 
+BOOK_INFO_IMAGE_DESCRIPTIONS: dict[str, dict[str, str]] = {
+    "vol_08": {
+        "P001.jpg": "本冊封面，可辨識出中央的「唱歌帖」題字與五線譜、花卉裝飾圖案；右下方可見冊次標記的一部分。",
+        "P002.jpg": "空白內頁，未見手寫歌名或樂譜內容。",
+        "P003.jpg": "樂典／發聲說明頁，標題為「音階圖解」與「口の開きかた」，以口形圖示說明ア、エ、イ、オ、ウ等母音的發音方式，並附音階位置圖。",
+        "P004.jpg": "樂譜記號對照表，說明全音符、二分音符、四分音符、八分音符與十六分音符，以及休止符、強弱記號、漸強漸弱、延長、換氣、升降記號與反覆記號等基本符號。",
+        "P013.jpg": "空白五線譜頁，應作為抄寫或補錄樂譜之用；本頁未見可辨識的歌名或手寫內容。",
+        "P029.jpg": "空白內頁，未見可辨識的歌名或樂譜內容。",
+        "P030.jpg": "封底，中央印有大象站在地球儀上的圖案及「BK. NO. 1」字樣，未見歌曲或目錄資訊。",
+    },
+}
+
 
 def natural_sort_key(text: str) -> list[int | str]:
     return [int(tok) if tok.isdigit() else tok.lower() for tok in re.split(r"(\d+)", text)]
@@ -528,7 +540,15 @@ def generate_book_info_folder(folder: Path) -> Path:
     vol_title = VOLUME_TITLES.get(vol_name, vol_name)
 
     images = find_scanned_images(folder)
-    img_blocks = [f"### {img.name}\n\n![{img.name}]({img.name})" for img in images]
+    descriptions = BOOK_INFO_IMAGE_DESCRIPTIONS.get(vol_name, {})
+    img_blocks = []
+    for img in images:
+        description = descriptions.get(img.name)
+        block = f"### {img.name}\n\n"
+        if description:
+            block += f"{description}\n\n"
+        block += f"![{img.name}]({img.name})"
+        img_blocks.append(block)
     images_md = "\n\n".join(img_blocks) if img_blocks else "*（無掃描圖檔）*"
 
     markdown = f"""# 書訊與卷首／卷末掃描頁 — {col_title} {vol_title}

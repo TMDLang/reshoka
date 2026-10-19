@@ -1,4 +1,4 @@
-# 軍艦
+# 軍艦（軍艦）
 
 <audio controls src="gunkan.mp3"></audio>
 
@@ -40,7 +40,7 @@
 
 ```abc
 X:1
-T:軍艦
+T:軍艦（軍艦）
 C:曲：カレー（英 / Henry Carey）
 M:3/4
 L:1/16
@@ -58,14 +58,14 @@ B4/3 A4/3 G4/3 A4 F4 | G8 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gunkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_dF5zIFLS0uRVsFCwsue1sFdy4bY30TO646BaVnsze93zPrcdPqx81rHjfveb-n40X3RgV9BY_UvKJKBefEotTK93s6lUBKn7bvejFzKlD18ykbns2d-GzVoqfrZj2dsvHZ2p6Xs9sUDE1MXy5ofNy84nHzKqAxT2fPfrpzC0zv44YuiMqnO6Y9bugGyhsZGBnoGRiY6RlYmBgDlQUYGBrpZRWkK3Fx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdMWLlfOetq54Nq0d5NANvc_aOxVg9gOdAvQiSNuLVfufNSwHaejufTFzPiiYmjuAggrAsFMAigH1uis8XbIcRQiouefRzJW2FhZAxuOGnqe7FwOVPG7uftzQCzZ0xe4XK2YAzdJ4sqMTqOPp2glAM-Cs1o1P-xcDHQiMFk0FDUgYagKjg3CQAxVpQLQ_bmgFymsqwCNVAxilmlwg25_saHjc0AhiPW7a_rh57eMmoHyvwuPmPiDuetw8Hyi-6HHzpsdNy8D8CY-bV4JVNy973LQWKAnCux83rwaKrAdqBvKWPG4CsrYCBaYBjYIYvR9kNVgtUHYr0DygLBCDjF75uLkfaDdQoA2idj0wbKAOmAR28SqoYqAJQMcBDQAydkJcvwsYohDXN3Y9btz9uHH_48aWx41LgKonPW7cABTuftw4_XHjZLDMMojKfY-bmh43Ae0AifU_bgS6vXEdELeBBaCsHRC1Cx83dQApoJImoLkIHkjJlMeNwJBqXAWkIC4HmtUDd0kv0DSowUDfg7StetwElG5qASmmPB1DgYKWPheXe2ledmKeo1VAZmJevkONQY1CNcgSBRtDMy07MKs6N60WzKhRMFTQBUN0ukbBNB7KBEEzEAcugtBmBKWNYTJQYyHixnB5LMbCGcYIY1HsBEEDuLm1MI854fMY3F-mUI0m6A6Ei8Ccb46wHqYI09UwEbjDEWGBK0TB5oI4IL0gkxFWw0yD8WsUNEBBZaipqqELBJpwBUhugxmLNWR07RSgsa4AZzqhMZW5AA)]
-- [鋼琴伴奏 TMD 檔案](gunkan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_dF57L3ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKFBZe9rYI7l42xvokdV52C0rPZm97vmfW4afXj5jWPm_cA9b7o3qigr-CRmldUqeCcWJRaCdStBFL6tH3Xi5lTgaqfT9nwbO7EZ6sWPV036-mUjc_W9ryc3aZgaGL6ckHj4-YVj5tXAY15Onv2051bYHofN3RBVD7dMe1xQzdQ3sjAyEDPwMBMz8DCxBioLMDA0EgvqyBdiYvLvTQvOzHP0SogMzEvP8jDocagRqGaSwEIbAzNtOzArOrctFowo0bBNF7bUEEXDLEzaxSM47VN46E8EDQDcZAFUUwxj9c2gjINtY1hKqC2wSWNkdXhtM0IiW0Yr22MsBBZBgYN4JbVogWDD65gKIAFgyHMMLgdcBEkSdN4UmXhoYypyAzOQpY3j8dmB0LeCNkkhDVwHzvhj3h4vBtrm8JM1DaBWYiIL3D0wCXAysCOQ_garhZXRCKJQ-RgBCJgsKdDsC0gDkg7yBY01yAZjCJeo6BhDNRjqKmqoQsEmiAzYQpN4rWRHA-yDO5-GMSSfKCBiTP5wF0PjyojjHQEsg0eBAgWXBZL8sGeMuBGI4RgoYiZjLGmVCz2ww3FqhfJJgLJHBhkunYK0EynAGc6oTGVuQA)]
+- [主旋律 TMD 檔案](gunkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_dF57L3ezpgjE4FLS0uRVsFCwsue1sFdy4bY30TO646BaVnsze93zPrcdPqx81rHjfvAWnp3qigr-CRmldUqeCcWJRaCdStBFL6tH3Xi5lTgaqfT9nwbO7EZ6sWPV036-mUjc_W9ryc3aZgaGL6ckHj4-YVj5tXAY15Onv2051bYHofN3RBVD7dMe1xQzdQ3sjAyEDPwMBMz8DCxBioLMDA0EgvqyBdiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagK16snPe0dcWzae0gh27ofdbeqQCzH-gUoBdB2l6s2v-sYTlIQ3fvi5nzQcHU3AEUVACGnQJQDKjXXeHpkuUoQkDNPY9mrrS1sAAyHjf0PN29GKjkcXP344ZesKErdr9YMQNolsaTHZ1AHU_XTgCaAWe1bnzavxjoQGC0aCpoQMJQExgdhIMcqEgDov1xQytQXlMBHqkawCjV5ALZ_mRHw-OGRhDrcdP2x81rHzcB5XsVHjf3AXHX4-b5QPFFj5s3PW5aBuZPeNy8Eqy6ednjprVASRDe_bh5NVBkPVAzkLfkcROQtRUoMA1oFMTo_SCrwWqBsluB5gFlgRhk9MrHzf1Au4ECbRC164FhA3XAJLCLV0EVA00AOg5oAJCxE-L6XcAQhbi-setx4-7HjfsfN7Y8blwCVD3pceMGoHD348bpjxsng2WWQVTue9zU9LgJaAdIrP9xI9DtjeuAuA0sAGXtgKhd-LipA0gBlTQBzUXwQEqmPG4EhlTjKiAFcTnQrB64S3qBpkENBvoepG3V4yagdFMLSDHl6RgKFLT0ubjcS_OyE_McrQIyE_PyHWoMahSqQZYo2BiaadmBWdW5abVgRo2CoYIuGKLTNQqm8VAmCJqBOHARhDYjKG0Mk4EaCxE3hstjMRbOMEYYi2InCBrAza2FecwJn8fg_jKFajRBdyBcBOZ8c4T1MEWYroaJwB2OCAtcIQo2F8QB6QWZjLAaZhqMX6OgAQoqQ01VDV0g0IQrQHIbzFisIaNrpwCNdQU40wmNqcwFAA)]
+- [鋼琴伴奏 TMD 檔案](gunkan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_dF57L3ezogjMfNu19273k-YcuTPVueLu1_3tnxfk-ngpYWl6KtgoUFl72tgjuXjbG-iR1XnYLSs9mb3u-Z9bhp9ePmNY-b94AM6d6ooK_gkZpXVKngnFiUWgnUrQRS-rR914uZU4Gqn0_Z8GzuxGerFj1dN-vplI3P1va8nN2mYGhi-nJB4-PmFY-bVwGNeTp79tOdW2B6Hzd0QVQ-3THtcUM3UN7IwMhAz8DATM_AwsQYqCzAwNBIL6sgXYmLy700Lzsxz9EqIDMxLz_Iw6HGoEahmksBCGwMzbTswKzq3LRaMKNGwTRe21BBFwyxM2sUjOO1TeOhPBA0A3GQBVFMMY_XNoIyDbWNYSqgtsEljZHV4bTNCIltGK9tjLAQWQYGDeCW1aIFgw-uYCiABYMhzDC4HXARJEnTeFJl4aGMqcgMzkKWN4_HZgdC3gjZJIQ1cB874Y94eLwba5vCTNQ2gVmIiC9w9MAlwMrAjkP4Gq4WV0QiiUPkYAQiYLCnQ7AtIA5IO8gWNNcgGYwiXqOgYQzUY6ipqqELBJogM2EKTeK1kRwPsgzufhjEknyggYkz-cBdD48qI4x0BLINHgQIFlwWS_LBnjLgRiOEYKGImYyxplQs9sMNxaoXySYCyRwYZLp2CtBMpwBnOqExlbkA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 軍艦 ]
+📊 TMD Song Profile: [ 軍艦（軍艦） ]
 ================================================================================
 ⏱  Duration:       0:45 (45.0s), 22 measures total
 🎼 Key & Tempo:    首調基準 G, != 88.0 BPM, <3/4>

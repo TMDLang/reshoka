@@ -1,4 +1,4 @@
-# 星と花
+# 星と花（星與花）
 
 <audio controls src="hoshi_to_hana.mp3"></audio>
 
@@ -31,7 +31,7 @@
 
 ```abc
 X:1
-T:星と花
+T:星と花（星與花）
 M:3/4
 L:1/16
 Q:1/4=80
@@ -58,14 +58,14 @@ G4 A4 B4 | d8 A2 B2 | G12 | G8 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hoshi_to_hana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y_7jxhUvujYqaGlxKdoqWBhw2dsqOOlw2Rjrm9hx1SkoPW3f9WLm1Pd7Zr2YvObl7LbHzSseN696v6fj2Yy1RnpAaPh-T6cSSOHjhq6nUzY-W9vzdMe0xw3dQCVGBkYGegYGZnoGFibGQGUBBkamelkF6UpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0A13xYuW8p60rnk1rBzrk6YbeZ-2dCjD7gU4B-gek7cWq_c8aloM0dPe-mDkfKPp0Sefj5rVAcQV9hcfNHc_ng9nAwFAAKgEa5a7wdEM_ihDQrJ5HM1faAoMOZOKK3S9WzAAapIEcXppA0yChxQVS9GRHw-OGRhDrcfP8x017HzevBLK6Qfhx8-zHzVOBrNmPm7YDqT6Fx02rHzdtgijue9y85HHzPIjipq2PmzY-bl4N5PU_bu6CKgbKrwUrBmlbA1LftB5hXD9QHGodUDFYH0xx86bHzUD1SMYBFTc3QlVC9a-AuH9XD8z9TW2PG7c-btyp8LhxHRDPfdzUCaSAhjTuftw4HUi1PG5c_rhxGUQxkDMVKPy4sRcos_5x4yqoNqAj24DSk4DMZUATHjfOBKtvbAIrng9VtQ5iD8hwqF6gYb0ww0GsDrB7gO6G2Q7S1v24EWgw2PAuoOTjpm6QesrTHRQoaOlzcXnkF2dkhuR7JOYlWgVkJublO9QY1ChUgyxSsLHQsgMzqnMLasGMGgWzeAVdMDQHMWoUDGFMsESNgglMHso3hnJBNHbdCFmwIAwicQ1AXOrZD1YO0oeQBQoZIhsOcQCci-wAI6gYiAZaB-WBaIhxRuq4_EPI6TDHQFTDeMh2o9qG6hIi7CbX47VcXLp2CkgpRQGTq8wFAA)]
-- [鋼琴伴奏 TMD 檔案](hoshi_to_hana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y_7jxhUvuja-39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUsDLjsbRWcdLhsjPVN7LjqFJSetu96MXPq-z2zXkxe83J22-PmFY-bVwGNeDZjrZEeEBoCNSuBFD5u6Ho6ZeOztT1Pd0x73NANVGJkYGSgZ2BgpmdgYWIMVBZgYGSql1WQrsTF5ZFfnJEZku-RmJdoFZCZmJcf5OFQY1CjUM2lAAQ2Flp2YEZ1bkEtmFGjYByvbRavoAuG5iBGjYJZvLYhjAeWq1EwgSmB8k3V47XN47WNoaIgGp9REJ1g5TC9UFEQRBMyAAnRznVQjWBDMJQCJQ3RrIW4EFkE2YFAg4ygwiAaLGACFQDRYAGQ6UbqBMKAOK-iuRc5-OCCaO7DcA6Gg0lyH9HhB495JP1wMYgba7GkWB_sKRaeYM3i40EuMAaTUA4uUSNkLoQDcgjEG0gaSDMVqwEQGjP4ae5YE7K9he5YrA7AKkhCuBARAnh9gD1cae9UagQrMHnr2ikgpXAFTK4yFwA)]
+- [主旋律 TMD 檔案](hoshi_to_hana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y_7jxhUvuja-39MBZL_oaAezOxW0tLgUbRUsDLjsbRWcdLhsjPVN7LjqFJSetu96MXPq-z2zXkxe83J22-PmFY-bV4E1rzXSA0JDoGYlkMLHDV1Pp2x8trbn6Y5pjxu6gUqMDIwM9AwMzPQMLEyMgcoCDIxM9bIK0pW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0Af0EdMWLlfOetq54Nq0d6JCnG3qftXcqwOwHOgXoH5C2F6v2P2tYDtLQ3fti5nyg6NMlnY-b1wLFFfQVHjd3PJ8PZgMDQwGoBGiUu8LTDf0oQkCzeh7NXGkLDDqQiSt2v1gxA2iQBnJ4aQJNg4QWF0jRkx0NjxsaQazHzfMfN-193LwSyOoG4cfNsx83TwWyZj9u2g6k-hQeN61-3LQJorjvcfOSx83zIIqbtj5u2vi4eTWQ1_-4uQuqGCi_FqwYpG0NSH3TeoRx_UBxqHVAxWB9MMXNmx43A9UjGQdU3NwIVQnVvwLi_l09MPc3tT1u3Pq4cafC48Z1QDz3cVMnkAIa0rj7ceN0INXyuHH548ZlEMVAzlSg8OPGXqDM-seNq6DagI5sA0pPAjKXAU143DgTrL6xCax4PlTVOog9IMOheoGG9cIMB7E6wO4BuhtmO0hb9-NGoMFgw7uAko-bukHqKU93UKCgpc_F5ZFfnJEZku-RmJdoFZCZmJfvUGNQo1ANskjBxkLLDsyozi2oBTNqFMziFXTB0BzEqFEwhDHBEjUKJjB5KN8YygXR2HUjZMGCMIjENQBxqWc_WDlIH0IWKGSIbDjEAXAusgOMoGIgGmgdlAeiIcYZqePyDyGnwxwDUQ3jIduNahuqS4iwm1yP13Jx6dopIKUUBUyuMhcA)]
+- [鋼琴伴奏 TMD 檔案](hoshi_to_hana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y_7jxhUvuja-39MBZL_oaAeyHzfvftm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKFgZc9rYKTjpcNsb6JnZcdQpKT9t3vZg59f2eWS8mr3k5u-1x84rHzavAxq010gNCQ6BmJZDCxw1dT6dsfLa25-mOaY8buoFKjAyMDPQMDMz0DCxMjIHKAgyMTPWyCtKVuLg88oszMkPyPRLzEq0CMhPz8oM8HGoMahSquRSAwMZCyw7MqM4tqAUzahSM47XN4hV0wdAcxKhRMIvXNoTxwHI1CiYwJVC-qXq8tnm8tjFUFETjMwqiE6wcphcqCoJoQgYgIdq5DqoRbAiGUqCkIZq1EBciiyA7EGiQEVQYRIMFTKACIBosADLdSJ1AGBDnVTT3IgcfXBDNfRjOwXAwSe4jOvzgMY-kHy4GcWMtlhTrgz3FwhOsWXw8yAXGYBLKwSVqhMyFcEAOgXgDSQNppmI1AEJjBj_NHWtCtrfQHYvVAVgFSQgXIkIArw-whyvtnUqNYAUmb107BaQUroDJVeYCAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 星と花 ]
+📊 TMD Song Profile: [ 星と花（星與花） ]
 ================================================================================
 ⏱  Duration:       2:24 (144.0s), 64 measures total
 🎼 Key & Tempo:    首調基準 B,, != 80.0 BPM, <3/4>

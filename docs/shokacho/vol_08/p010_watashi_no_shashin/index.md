@@ -1,4 +1,4 @@
-# わたしのしゃしん
+# わたしのしゃしん（我的照片）
 
 <audio controls src="watashi_no_shashin.mp3"></audio>
 
@@ -31,7 +31,7 @@
 
 ```abc
 X:1
-T:わたしのしゃしん
+T:わたしのしゃしん（我的照片）
 M:2/4
 L:1/16
 Q:1/4=92
@@ -50,14 +50,14 @@ c3 d c2 A2 | G2 A2 G2 z2 | E2 G2 D2 E2 | C2 C2 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](watashi_no_shashin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc1P-4cf7jxumPG9eByKZmMDlZQUuLS9FWwdKIy95WwZnLxkjfxI6rTkHpafuuFzOnvt8zy0jP-OnOLQr6Ck87uh43dT1unPm4qQPIeL-n49mMtUZ6hoZ6xgbv93QqgXQ9buh6OmXjs7U9T3dMe9zQDVRjZGBkoGdgYKZnYGFiDFQWYGBooJdVkK7ExaWvpWBLLcCloKDwtG_-s9k7Xmxuf7Gi60VHO9AVL1bOe9q64tm0dqBDnm7ofdbeqQCzH-gUoOdA2l6s2v-sYTlIQ3fvi5nzgaKPm_uBggrAoFAAigH1Ois8XbIcRQiouefRzJW2wHADGbFi94sVM5ADCxE06OHGBdLwZEfD44ZGEOtx097Hzc2Pm9Y_bl4F5Cx73NwCQk37FR43rwdSj5u2P27uA8oAqcVgcjNEG1DD2sdNS4CsJSBW87zHze1AziKgOUANYP48uMpGoJcgKkHKHjcvApoOVNkHFpr0uGkr0Gaw4uZOoAWPm7seN3cDOfMfN7dBFAPNAApPBBoGNGbN4-bZEG_s6oF5o3EGOEm1PW5c-rhxNZC_4nFT5-OmHmCiQ0l7QBlE4oPo3A1GQJmmiY8bgSr3PG5qAgoDjVryuHHx48Zlj5u6ISq7QUHYuBXIWvi4cd_jxuUQlfsfNwJDFijZAtQF8TOQBdS5ERjeQPnJYHeAXA7UPfdxI1CyFygMFNsNUk156oMCBS19Lq7wxJLE4oxMv_zgDBCdZxWQmZiX71BjUKNQDbJNwcbQTMsOzKrOTasFM2oUDOMUdMHQDIhNgbhGwRhIgrAREBuCRUAsEIaJ1oBVwnQYgESgxoHEQBBsLIgDNA7EBBNGIAIsAzQSYi-Qh5BCcg0IIpsLcgcIg2wHi8N5IDdB3A2yDuYmiNUgFlbTINYALUVyJ4aX4EbDrEE4AyQPgjVctVxcunYK6GGvgENMmQsA)]
-- [鋼琴伴奏 TMD 檔案](watashi_no_shashin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc1P-4cf7jxumPG9eByKZmMDn5_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgacRlb6vgzGVjpG9ix1WnoPS0fdeLmVPf75llpGf8dOcWBX2Fpx1dj5u6HjfOfNzUAWQATXs2Y62RnqGhnrEB0CAlkK7HDV1Pp2x8trbn6Y5pjxu6gWqMDIwM9AwMzPQMLEyMgcoCDAwN9LIK0pW4uMITSxKLMzL98oMzQHSeVUBmYl5-kIdDjUGNQjWXAhDYGJpp2YFZ1blptWBGjYKxtmGcgi4YmgGxKRADBYEkCBsBsSFYxDxeG8QBYZgESC9IuYk2SCOEbQASh5oMEQdBsA0gTo2CqbYxiAMmjEAEWA4kDuaB-VA1UCG4EyE2YNoDciAIg9wEFofzQC6FeAjiFpgHIU4xAptkpG0CJtFNhYcL0BFI7sfhZbhV0HACcYHu0AbREBKkDARruGpxRZYPrsgqgEWWYTzIGhCBYGGIGkNEwQJGcCnTeCTFJnDFKBEGFoVLk2k2hINhOEI7WAs0otA0QI2H249wLKqdWA0HKwArhurA5lV0d6A4Ha4MHlG6dgrocaWAQ0yZCwA)]
+- [主旋律 TMD 檔案](watashi_no_shashin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc1P-4cf7jxumPG9eByKZmMDn5_Z6OZx0Tn89qed66_Hln-_s9nQpaWlyKtgqWRlz2tgrOXDZG-iZ2XHUKSk_bd72YOfX9nllGesZPd25R0Fd42tH1uKnrcePMx00dQAbIqBlrjfQMDfWMDYAGKYF0PW7oejpl47O1PU93THvc0A1UY2RgZKBnYGCmZ2BhYgxUFmBgaKCXVZCuxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQFS9WznvauuLZNKBHO55u6H3W3qkAsx_oFKDnQNperNr_rGE5SEN374uZ84Gij5v7gYIKwKBQAIoB9TorPF2yHEUIqLnn0cyVtsBwAxmxYveLFTOQAwsRNOjhxgXS8GRHw-OGRhDrcdPex83Nj5vWP25eBeQse9zcAkJN-xUeN68HUo-btj9u7gPKAKnFYHIzRBtQw9rHTUuArCUgVvO8x83tQM4ioDlADWD-PLjKRqCXICpByh43LwKaDlTZBxaa9LhpK9BmsOLmTqAFj5u7Hjd3AznzHze3QRQDzQAKTwQaBjRmzePm2RBv7OqBeaNxBjiRtT1uXPq4cTWQv-JxU-fjph5gMkRJjUAZRHKE6NwNRkCZpomPG4Eq9zxuagIKA41a8rhx8ePGZY-buiEqu0FB2LgVyFr4uHHf48blEJX7HzcCQxYo2QLUBfEzkAXUuREY3kD5yWB3gFwO1D33cSNQshcoDBTbDVJNeeqDAgUtfS6u8MSSxOKMTL_84AwQnWcVkJmYl-9QY1CjUA2yTcHG0EzLDsyqzk2rBTNqFAzjFHTB0AyITYG4RsEYSIKwERAbgkVALBCGidaAVcJ0GIBEoMaBxEAQbCyIAzQOxAQTRiACLAM0EmIvkIeQQnINCCKbC3IHCINsB4vDeSA3QdwNsg7mJojVIBZW0yDWAC1FcieGl-BGw6xBOAMkD4I1XLVcXLp2Cuhhr4BDTJkLAA)]
+- [鋼琴伴奏 TMD 檔案](watashi_no_shashin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc1P-4cf7jxumPG9eByKZmMDn5_Z6OZx0Tn89qed66_Hln--Pm3S-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwdKIy95WwZnLxkjfxI6rTkHpafuuFzOnvt8zy0jP-OnOLQr6Ck87uh43dT1unPm4qQPIABk-Y62RnqGhnrEB0CAlkK7HDV1Pp2x8trbn6Y5pjxu6gWqMDIwM9AwMzPQMLEyMgcoCDAwN9LIK0pW4uMITSxKLMzL98oMzQHSeVUBmYl5-kIdDjUGNQjWXAhDYGJpp2YFZ1blptWBGjYKxtmGcgi4YmgGxKRADBYEkCBsBsSFYxDxeG8QBYZgESC9IuYk2SCOEbQASh5oMEQdBsA0gTo2CqbYxiAMmjEAEWA4kDuaB-VA1UCG4EyE2YNoDciAIg9wEFofzQC6FeAjiFpgHIU4xAptkpG0CJtFNhYcL0BFI7sfhZbhV0HACcYHu0AbREBKkDARruGpxRZYPrsgqgEWWYTzIGhCBYGGIGkNEwQJGcCnTeCTFJnDFKBEGFoVLk2k2hINhOEI7WAs0otA0QI2H249wLKqdWA0HKwArhurA5lV0d6A4Ha4MHlG6dgrocaWAQ0yZCwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ わたしのしゃしん ]
+📊 TMD Song Profile: [ わたしのしゃしん（我的照片） ]
 ================================================================================
 ⏱  Duration:       0:41 (41.7s), 32 measures total
 🎼 Key & Tempo:    首調基準 C, != 92.0 BPM, <2/4>

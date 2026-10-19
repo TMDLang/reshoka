@@ -1,4 +1,4 @@
-# 繪本
+# 繪本（圖畫書）
 
 <audio controls src="ehon.mp3"></audio>
 
@@ -34,7 +34,7 @@
 
 ```abc
 X:1
-T:繪本
+T:繪本（圖畫書）
 C:曲：原田氏
 M:4/4
 L:1/16
@@ -56,14 +56,14 @@ c6 c2 c4 c4 | c4 c4 c4 z4 | E6 E2 G4 G4 | c4 d4 c4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ehon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-c9WzOWsUtLS4FG0VDA0MuOxtFZy5bEz0Tey46hSUns3e9H7PrKd9859P2fBsQ78SSOxp-64XM6cChV9MXqNgbvFyQePj5hWPm1e939PxbMZaIz1jPSPT93s6wWofN3Q9nbLx2dqepzumPW7oBioxMjAy0DMwMNMzsDAxBioLALGzCtKVuLj0tRRsqQW4FBQUgM5-NnvHi83tL1Z0vehoB7rixcp5T1tXPJvWDnTI0w29z9o7FWD2A50C9BJI24tV-581LAdp6O59MXM-UPRxcz9QUAEYKApAMaBeZ4WnS5ajCAE19zxu6Hnav_5Zy-zHTZ2PG6c_bux_3NALNnHF7hcrZiAHJDBcFfQV0AIQKAIPQC6Qvic7Gh43NIJYj5sWgdGyx80tQM76x03bgSSQtflx8xoQ2bT3cRPQjNmPmzfD1AMlmucDTVZ43LzkcfM8oCeAwltBmptXPm7uA_IfN3c9btr2uGk10HKwLrB6uC6gkplgXc2Nj5s2gPTCdTUvALmgeS3ELqD1QHd0P25eBOQAHYLMaV4DpIDOXg00ph_ibIhVmx43dzxuXvi4aQvEd0ClQNtWQfzU9rh5KtA2IGcLSBlQDzg8dgHDGBIejU1gBHQ_kJz-uKn3cWMvscHRuOJxU9fjRmDwNU5-3LjuceO-x42rHzeuAhrxuLEbKPG4cSZmcDS2PW6aBNHV8rhxIljLvMdNDY-besBOmfu4cRvELqAqoCmrgU4DqgVGFTAxQDlzgYoh-qcCKaC1oEQC8Q8wQIGOmQE0Ey04QKqBfpoEMWEJ2LplID2UZxIoUNDS5-JyzcjPswrITMzLd6gxqFGoBtmgYGOhZQdmVOem1YIZNQqmCrpAaAqmQbhGwQxIgjCIZwAWMYRDXQUjsIgxWBcEgtWQYlocCIHUGAOhERCCbMBuHsg2I6AqhG5c5kGQERiZASHMLZhmgtwOshdkJ8QETFuARulCCIRPQPpAKuH6oOaBlYFVI3QhmwAmIMZCgg1iEcRQsCTQycjKuGq5uHTtFEBRqIBEK3MBAA)]
-- [鋼琴伴奏 TMD 檔案](ehon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-c9WzOWve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBgZc9rYKzlw2Jvomdlx1CkrPZm96v2fW0775z6dseLahXwkk9rR914uZU4HCLyavUTC3eLmg8XHzisfNq4AmP5ux1kjPWM_IFGgmWO3jhq6nUzY-W9vzdMe0xw3dQCVGBkYGegYGZnoGFibGQGUBIHZWQboSF5drRn6eVUBmYl5-kIdDjUGNQjWXAhDYWGjZgRnVuWm1YEaNgqmCLhCagmkQrlEwA5IgDOIZgEUM4VBXwQgsYgzWBYFgNaSYFgdCIDXGQGgEhCAbsJsHss0IqAqhG5d5EGQERmZACHMLppkgt4PsBdkJMQHTFqBRuhAC4ROQPpBKuD6YedpghUBDQQwoD0rVKJhAGFAKKgyxBBKIEGuhVkCkTbWBngApNkVSzlWLHK8-OOK1ABavhvEgg0CEMZwFdA2IAhNgeahn4arAMlClCAMQSikxG6zKNJ6g4VB1MAJiDFazzUBMMGEEJ6D6wWyIZdgdjmQMVgvR3A1mwZUSCBSEXuICBaoUagCa4cBY17VTAEW8AhKtzAUA)]
+- [主旋律 TMD 檔案](ehon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-c9WzOWve7-l4Omfa86mrn83e8X5Pp4KWFpeirYKhgQGXva2CM5eNib6JHVedgtKz2Zve75n1tG_-8ykbnm3oVwKJPW3f9WLmVKDwi8lrFMwtXi5ofNy84nHzKqCZz2asNdIz1jMyBZoJVvu4oevplI3P1vY83THtcUM3UImRgZGBnoGBmZ6BhYkxUFkAiJ1VkK7ExaWvpWBLLcCloKAAdDbQey82t79Y0fWiox3oihcr5z1tXfFsWjvI_xt6n7V3KsDsBzoF6CWQther9j9rWA7S0N37YuZ8oOjj5n6goAIwUBSAYkC9zgpPlyxHEQJq7nnc0PO0f_2zltmPmzofN05_3Nj_uKEXbOKK3S9WzEAOSGC4KugroAUgUAQegFwgfU92NDxuaASxHjctAqNlj5tbgJz1j5u2A0kga_Pj5jUgsmnv4yagGbMfN2-GqQdKNM8HmqzwuHnJ4-Z5QE8AhbeCNDevfNzcB-Q_bu563LTtcdNqoOVgXWD1cF1AJTPBupobHzdtAOmF62peAHJB81qIXUDrge7ofty8CMgBOgSZ07wGSAGdvRpoTD_E2RCrNj1u7njcvPBx0xaI74BKgbatgvip7XHzVKBtQM4WkDKgHnB47AKGMSQ8GpvACOh-IDn9cVPv48ZeYoOjccXjpq7HjcDga5z8uHHd48Z9jxtXP25cBTTicWM3UOJx40zM4Ghse9w0CaKr5XHjRLCWeY-bGh439YCdMvdx4zaIXUBVQFNWA50GVAuMKmBigHLmAhVD9E8FUkBrQYkE4h9ggAIdMwNoJlpwgFQD_TQJYsISsHXLQHoozyRQoKClz8XlmpGfZxWQmZiX71BjUKNQDbJBwcZCyw7MqM5NqwUzahRMFXSB0BRMg3CNghmQBGEQzwAsYgiHugpGYBFjsC4IBKshxbQ4EAKpMQZCIyAE2YDdPJBtRkBVCN24zIMgIzAyA0KYWzDNBLkdZC_ITogJmLYAjdKFEAifgPSBVML1Qc0DKwOrRuhCNgFMQIyFBBvEIoihYEmgk5GVcdVycenaKYCiUAGJVuYCAA)]
+- [鋼琴伴奏 TMD 檔案](ehon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-c9WzOWve7-l4Omfa86mrn83e8bh598vuPc8nbHmyZ8vTpf3POzve7-lU0NLiUrRVMDQw4LK3VXDmsjHRN7HjqlNQejZ70_s9s572zX8-ZcOzDf1KILGn7btezJwKFH4xeY2CucXLBY2Pm1c8bl4FtOXZjLVGesZ6RqZAM8FqHzd0PZ2y8dnanqc7pj1u6AYqMTIwMtAzMDDTM7AwMQYqCwCxswrSlbi4XDPy86wCMhPz8oM8HGoMahSquRSAwMZCyw7MqM5NqwUzahRMFXSB0BRMg3CNghmQBGEQzwAsYgiHugpGYBFjsC4IBKshxbQ4EAKpMQZCIyAE2YDdPJBtRkBVCN24zIMgIzAyA0KYWzDNBLkdZC_ITogJmLYAjdKFEAifgPSBVML1wczTBisEGgpiQHlQqkbBBMKAUlBhiCWQQIRYC7UCIm2qDfQESLEpknKuWuR49cERrwWweDWMBxkEIozhLKBrQBSYAMtDPQtXBZaBKkUYgFBKidlgVabxBA2HqoMREGOwmm0GYoIJIzgB1Q9mQyzD7nAkY7BaiOZuMAuulECgIPQSFyhQpVAD0AwHxrqunQIo4hWQaGUuAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 繪本 ]
+📊 TMD Song Profile: [ 繪本（圖畫書） ]
 ================================================================================
 ⏱  Duration:       1:36 (96.0s), 40 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>

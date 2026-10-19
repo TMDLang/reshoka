@@ -225,10 +225,12 @@ def generate_report(records: list[SongRecord]) -> str:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--docs", type=Path, default=Path("docs"), help="docs 目錄路徑")
+    parser.add_argument("--collection", type=str, default=None, help="僅統計指定教材叢書（如 shintei_jido_shoka）")
+    parser.add_argument("--deduplicate", action="store_true", help="排除跨冊重複（同曲）曲目")
     parser.add_argument("--output", "-o", type=Path, help="將 Markdown 報告輸出至指定檔案")
     args = parser.parse_args()
 
-    records = load_all_songs(args.docs)
+    records = load_all_songs(args.docs, collection=args.collection, deduplicate=args.deduplicate)
     report = generate_report(records)
     if args.output:
         args.output.write_text(report, encoding="utf-8")

@@ -1,4 +1,4 @@
-# 月夜の畑
+# 月夜の畑（月夜的田野）
 
 <audio controls src="tsukiyo_no_hatake.mp3"></audio>
 
@@ -34,7 +34,7 @@
 
 ```abc
 X:1
-T:月夜の畑
+T:月夜の畑（月夜的田野）
 M:4/4
 L:1/16
 Q:1/4=88
@@ -49,14 +49,14 @@ c6 d2 e4 c4 | d4 c2 A2 G4 E4 | C3 D E2 G2 A4 G4 | C12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsukiyo_no_hatake.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjmPG9c9nzpRQUuLS9FWwcKCy95WwZnLxkTfxI6rTkHpafuuFzOnvt8z69m0DU_2znm2dO-LtXMU9BVeTF6ja275ckHj4-YVj5tXvd_T8WzGWiM9Yz0j0_d7OpVAWh83dD2dsvHZ2p6nO6Y9bugGKjEyMDLQMzAw0zOwMDEGKgswMDDXyypIV-Li0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6IoXK-c9bV3xbFo70CFPN_Q-a-9UgNkPdArQhyBtL1btf9awHKShu_fFzPlA0cfN_UBBBWB4KADFgHqdFZ4uWY4iBNTc82jmSlsLCyDjcUPP05ZVz_f1PW7uftzQCzZ0xe4XK2YQDEOgCFIYdjzt7FUwUXi6of_5-obnTbue7JryfPssoEag-NOl_UCbnu7rUTA0Qqh4vmEhUBrk07VzgI7iAln9ZEfD44ZGEOtxc8vjprVgm_qAnP7HTfsfN20Ec5q2P24Gyqx53Lz5cdMmiOLZIE4z0BOrgPL7wZqBZD9QZtLj5o7HTasfNy153NwFUQzxANAIKAOoBah5_uOmfRDzV6FoAbtrFzCgIO5qXPK4sfdxUwcwHaJxsLircS5YEkQCOTMfN3UDVT5uXA_kAFnAtAwkWx43roIobnvc1AshgZzpYA5QEqQYSK1BKIaEVCd5IYVd8SIgZ9nj5oVoIYWiGJmDaTLl-QAKFLT0ubhCikuzMyvz_fI9EksSs1OtAjIT8_IdagxqFKpBlinYGJpp2YFZ1bkFtWAGMEtC0pqCBiwdAlMdPB1qgswFqatRMFbQBUNTIAaxzZD4IFgDTMgQFkjWCIgNYSri4UrMYExzGAOkCKQYpqkGrg0dGsBMgTkckgsUNOD5A-hySP5AcjbMeSAIcjKMj90-mEtQPQbzKswMwzh0Dqo9uF2NCEaYG2B8WIDVgFnIKmAmo7sHaDEsLpADEKKEuEAEqoN5BewGEMcYJgKXAjoJRQw9GJFtNII7GTN9EHZTLReXrp0CWjJWAAopcwEA)]
-- [鋼琴伴奏 TMD 檔案](tsukiyo_no_hatake_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjmPG9c9nzrx_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcFlb6vgzGVjom9ix1WnoPS0fdeLmVPf75n1bNqGJ3vnPFu698XaOQr6Ci8mr9E1t3y5oPFx84rHzauAZj6bsdZIz1jPyBRomhJI6-OGrqdTNj5b2_N0x7THDd1AJUYGRgZ6BgZmegYWJsZAZQEGBuZ6WQXpSlxcIcWl2ZmV-X75HoklidmpVgGZiXn5QR4ONQY1CtVcCkBgY2imZQdmVecW1IIZNQqG2sYKumBorG0KJCF8E20zFFEQrFEw0jaBsiGqzOO1jYCUaby2IVTcNB6u2AzGNIcxQIpA6kFaQTTYcm3DOKg0OjSAGQV1KcwdIAhyHYyPZBySCphFYFchHIVmBtxyOAdhD8K3iDBAdxPMBpg7YHyQ7SDXAMMMTQXMJHQ3AS0HCcE8A6MhSmAeQzgEEW0YTkINUSMQx1TbGCaGJF0DjGawNNR-SChgswPmAiO4Fwy1EUkElAyQUgmRkVqLI8n64EiyiBQLT08whgmGCDAWYUw4Ay5pjFAF14mpyjQeoQyLIFwIPfzBEmDjwPaAWdjESFEJdiYoCsCZCsSAi4AZYGFkAyHuRJhIrEPNwPrAfCQmKDRBtBGIMEcwCTgW3TlgPRAmWA2eECA9YMEsqGsxgwtNHXIEIAwDszBTBLHRD0zQunYKaGlaASikzAUA)]
+- [主旋律 TMD 檔案](tsukiyo_no_hatake.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjmPG9c9nzrx_Z4OCPf5rJbnUza8bO97v6dTQUuLS9FWwcKCy95WwZnLxkTfxI6rTkHpafuuFzOnvt8z69m0DU_2znm2dO-LtXMU9BVeTF6ja275ckHj4-YVj5tXgcycsdZIz1jPyBRomhJI6-OGrqdTNj5b2_N0x7THDd1AJUYGRgZ6BgZmegYWJsZAZQEGBuZ6WQXpSlxc-loKttQCXAoKCk_75j-bvePF5vYXK7pedLQDXfFi5bynrSueTWsHOuTpht5n7Z0KMPuBTgH6EKTtxar9zxqWgzR0976YOR8o-ri5HyioAAwPBaAYUK-zwtMly1GEgJp7Hs1caWthAWQ8buh52rLq-b6-x83djxt6wYau2P1ixQyCYQgUQQrDjqedvQomCk839D9f3_C8adeTXVOeb58F1AgUf7q0H2jT0309CoZGCBXPNywESoN8unYO0FFcIKuf7Gh43NAIYj1ubnnctBZsUx-Q0_-4af_jpo1gTtP2x81AmTWPmzc_btoEUTwbxGkGemIVUH4_WDOQ7AfKTHrc3PG4afXjpiWPm7sgiiEeABoBZQC1ADXPf9y0D2L-KhQtYHftAgYUxF2NSx439j5u6gAmTjQOFnc1zgVLgkggZ-bjpm6gyseN64EcIAuYwIFky-PGVRDFbY-beiEkkDMdzAFKghQDqTUIxZCQ6iQvpLArXgTkLHvcvBAtpFAUI3MwTaY8H0CBgpY-F1dIcWl2ZmW-X75HYklidqpVQGZiXr5DjUGNQjXIMgUbQzMtOzCrOregFswAZklIWlPQgKVDYKqDp0NNkLkgdTUKxgq6YGgKxCC2GRIfBGuACRnCAskaAbEhTEU8XIkZjGkOY4AUgRTDNNXAtaFDA5gpMIdDcoGCBjx_AF0OyR9IzoY5DwRBTobxsdsHcwmqx2BehZlhGIfOQbUHt6sRwQhzA4wPC7AaMAtZBcxkdPcALYbFBXIAQpQQF4hAdTCvgN0A4hjDROBSQCehiKEHI7KNRnAnY6YPwm6q5eLStVNAS8YKQCFlLgA)]
+- [鋼琴伴奏 TMD 檔案](tsukiyo_no_hatake_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjmPG9c9nzrx_Z4OCPf5rJbnUza8bO973Lz7Zfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYWHDZ2yo4c9mY6JvYcdUpKD1t3_Vi5tT3e2Y9m7bhyd45z5bufbF2joK-wovJa3TNLV8uaHzcvOJx8yqQLTPWGukZ6xmZAk1TAml93ND1dMrGZ2t7nu6Y9rihG6jEyMDIQM_AwEzPwMLEGKgswMDAXC-rIF2JiyukuDQ7szLfL98jsSQxO9UqIDMxLz_Iw6HGoEahmksBCGwMzbTswKzq3IJaMKNGwVDbWEEXDI21TYEkhG-ibYYiCoI1CkbaJlA2RJV5vLYRkDKN1zaEipvGwxWbwZjmMAZIEUg9SCuIBluubRgHlUaHBjCjoC6FuQMEQa6D8ZGMQ1IBswjsKoSj0MyAWw7nIOxB-BYRBuhugtkAcweMD7Id5BpgmKGpgJmE7iag5SAhmGdgNEQJzGMIhyCiDcNJqCFqBOKYahvDxJCka4DRDJaG2g8JBWx2wFxgBPeCoTYiiYCSAVIqITJSa3EkWR8cSRaRYuHpCcYwwRABxiKMCWfAJY0RquA6MVWZxiOUYRGEC6GHP1gCbBzYHjALmxgpKsHOBEUBOFOBGHARMAMsjGwgxJ0IE4l1qBlYH5iPxASFJog2AhHmCCYBx6I7B6wHwgSrwRMCpAcsmAV1LWZwoalDjgCEYWAWZoogNvqBCVrXTgEtTSsAhZS5AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 月夜の畑 ]
+📊 TMD Song Profile: [ 月夜の畑（月夜的田野） ]
 ================================================================================
 ⏱  Duration:       0:43 (43.6s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 88.0 BPM, <4/4>

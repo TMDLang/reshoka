@@ -1,4 +1,4 @@
-# 春は行く
+# 春は行く（春將離去）
 
 <audio controls src="haru_wa_yuku.mp3"></audio>
 
@@ -33,7 +33,7 @@
 
 ```abc
 X:1
-T:春は行く
+T:春は行く（春將離去）
 M:2/4
 L:1/16
 Q:1/4=96
@@ -56,14 +56,14 @@ D2 E2 F2 A2 | d2 B2 A4 | B3 B A2 F E | D6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](haru_wa_yuku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxvUvFvY8buxX0NLiUrRVsDTjsrdVcOGyMdI3seOqU1B62r7rxcyp7_fMejF5zcvZbY-bVzxuXvV-T8ezGWuN9IDQ8P2eTiWQwscNXU-nbHy2tufpjmmPG7qBSowMjAz0DAzM9AwsTIyBygIMjIz1sgrSlbi49LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHuuLFynlPW1c8m9YOdMjTDb3P2jsVYPYDnQL0D0jbi1X7nzUsB2no7n0xcz5Q9HFzN1BQAeh7BaAYUK-LwtMly1GEOsE6V-x-sWIGUIMGcrhoKugDAxUaMFwgdU92NDxuaASxHjf3P25eDaKAeNnjpvWYIhBlmx43gQT7gLj7cdN2EAXESx43z4OKTnrctAYqAdbRtPVx01qQ3OOmzVADHzd3AalFQNwIdBaQaoOYvexx81SghtWPm_ZAzcXqBMLKwH7b1QPzW-P6x01AZY1ATzW1gVIThghE2brHjTtBFBD3P24E2tEINLVx_-PGpVDR3Y8bVzxuAjq-cTVEx6rHjb1AI4Cq50MMhEqDFE9-3DQRKNcEUdn9uHEmkISauQyXE4hSRnmqhAIFLX0uLo_EotLwxMjS7FKrgMzEvHyHGoMahWqQPQo2hmZadmBWdW5aLZhRo2CooKtgBMSm8TCiBo1vABYzBpIgDFIPwlhVQc0EqQNBCG0CFDEFKQPpjAMLmSEJmYEVGkFFYBDdOGOgMSAaZCl2R4PEQKIgVSAz8ZsHMhFEm4BVgtSDXAN2HkIzVZwHgqiuQyjCZhxMM0glyEqgCMxVMBfAHGwGFoG4DtO4Wi4uXTsFRHpQwOApcwEA)]
-- [鋼琴伴奏 TMD 檔案](haru_wa_yuku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxvUvFvY8bux_v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cNkY6ZvYcdUpKD1t3_Vi5tT3e2a9mLzm5ey2x80rHjevAprwbMZaIz0gNATqVQIpfNzQ9XTKxmdre57umPa4oRuoxMjAyEDPwMBMz8DCxBioLMDAyFgvqyBdiYvLI7GoNDwxsjS71CogMzEvP8jDocagRqGaSwEIbAzNtOzArOrctFowo0bBUEFXwQiITeNhRI2Cebw2qpABWNhQ2xhIQ0koxqUYZjpYMQjCWCZAUWNtUyALRhrGgSXM4BIgbKhtBpIEOg1iA1gCBjFtMAaaC2FBnYPdYyAxkCjMJyA7iDIfZANMkwk0MECaQY6F-gBmGs38AILoXjCN14YrBrIRwY1hBdQkqFVgp4DciuR0Q7j7QC4ygfrPDKQFElNgj-CwpRYz7fngSnsF8LQHiRoQCWYaQ2IJ7FsjhBw09ZGgGIf5ECZUHKzfBE5giJpBFUM0kWgDRLMJmISIodgN4SArItMesEvBIvTziTFGKEKzGIYHwUx8lkDjEOF27KJEmA9Mf7p2CogkqIDBU-YCAA)]
+- [主旋律 TMD 檔案](haru_wa_yuku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxvUvFvY8bux_v6cDyH26of3l7EVP-3a_39OpoKXFpWirYGnGZW-r4MJlY6RvYsdVp6D0tH3Xi5lT3--Z9WLympez2x43r3jcvAqsfa2RHhAaAvUqgRQ-buh6OmXjs7U9T3dMe9zQDVRiZGBkoGdgYKZnYGFiDFQWYGBkrJdVkK7ExaWvpWBLLcCloKDwtG_-s9k7Xmxuf7Gi60VHO9AVL1bOe9q64tm0dqBDnm7ofdbeqQCzH-gUoH9A2l6s2v-sYTlIQ3fvi5nzgaKPm7uBggpA3ysAxYB6XRSeLlmOItQJ1rli94sVM4AaNJDDRVNBHxjM0IDhAql7sqPhcUMjiPW4uf9x82oQBcTLHjetxxSBKNv0uAkk2AfE3Y-btoMoIF7yuHkeVHTS46Y1UAmwjqatj5vWguQeN22GGvi4uQtILQLiRqCzgFQbxOxlj5unAjWsfty0B2ouVicQVgb2264emN8a1z9uAiprBHqqqQ2YvjBFIMrWPW7cCaKAuP9xI9CORqCpjfsfNy6Fiu5-3LjicRPQ8Y2rITpWPW7sBRoBVD0fYiBUGqR48uOmiUC5JojK7seNM4Ek1MxluJxAlDLKUyUUKGjpc3F5JBaVhidGlmaXWgVkJublO9QY1ChUg-xRsDE007IDs6pz02rBjBoFQwVdBSMgNo2HETVofAOwmDGQBGGQehDGqgpqJkgdCEJoE6CIKUgZSGccWMgMScgMrNAIKgKD6MYZA40B0SBLsTsaJAYSBakCmYnfPJCJINoErBKkHuQasPMQmqniPBBEdR1CETbjYJpBKkFWAkVgroK5AOZgM7AIxHWYxtVycenaKSDSgwIGT5kLAA)]
+- [鋼琴伴奏 TMD 檔案](haru_wa_yuku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxvUvFvY8bux_v6cDyH26of3l7EVP-3Y_bt79snvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRVcuGyM9E3suOoUlJ6273oxc-r7PbNeTF7zcnbb4-YVj5tXgQ1ca6QHhIZAvUoghY8bup5O2fhsbc_THdMeN3QDlRgZGBnoGRiY6RlYmBgDlQUYGBnrZRWkK3FxeSQWlYYnRpZml1oFZCbm5Qd5ONQY1ChUcykAgY2hmZYdmFWdm1YLZtQoGCroKhgBsWk8jKhRMI_XRhUyAAsbahsDaSgJxbgUw0wHKwZBGMsEKGqsbQpkwUjDOLCEGVwChA21zUCSQKdBbABLwCCmDcZAcyEsqHOwewwkBhKF-QRkB1Hmg2yAaTKBBgZIM8ixUB_ATKOZH0AQ3Qum8dpwxUA2IrgxrICaBLUK7BSQW5Gcbgh3H8hFJlD_mYG0QGIK7BEcttRipj0fXGmvAJ72IFEDIsFMY0gsgX1rhJCDpj4SFOMwH8KEioP1m8AJDFEzqGKIJhJtgGg2AZMQMRS7IRxkRWTaA3YpWIR-PjHGCEVoFsPwIJiJzxJoHCLcjl2UCPOB6U_XTgGRBBUweMpcAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 春は行く ]
+📊 TMD Song Profile: [ 春は行く（春將離去） ]
 ================================================================================
 ⏱  Duration:       1:00 (60.0s), 48 measures total
 🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <2/4>

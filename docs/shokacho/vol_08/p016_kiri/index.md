@@ -1,4 +1,4 @@
-# 霧
+# 霧（霧）
 
 <audio controls src="kiri.mp3"></audio>
 
@@ -38,7 +38,7 @@
 
 ```abc
 X:1
-T:霧
+T:霧（霧）
 M:3/8
 L:1/16
 Q:1/8=288
@@ -61,14 +61,14 @@ e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kiri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5Z7mClhaXoq2CoYkJl72tgiOXjbG-hR1XnYLS0_ZdL2ZOfb9n1ovJa55O2fhydpuCoYH5ywWNj5tXPG5e9X5Px7MZa430jPWMTN7v6VQCaXnc0AVU-Wxtz9Md0x43dAOVGBkYGegZGJjpGViYGAOVBRgYmullFaQrcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50xYuV8562rng2rR3okKcbep-1dyrA7Ac6BegzkLYXq_Y_a1gO0tDd-2LmfKDo46YlQEEFYDgoAMWAeh0Vni5ZjiIE1NzzaOYqW1CogcxYsfvFihk4g0pBXwEeVFwg9U92NDxuaASxHjftf9zc_bh5nsLj5j4gby1I-ePmfogEUH_f4-Y5QDGw2uYlCIWbHzftety0AsjbBMQtYDQfrAmqdjZIb9NqoOlAzvzHzcseN68G6tv5uGkdxIjmBY-bV0LUzgNqh5vb3AC0GMhbBOStfty0_nHzGiBvGZAFcfuuHpjbG5seN0593Ah0QCPQzMbux42ToEyg6PTHjXMhcssginsfN3VBpVc8btwA4a0H4cdNPSDFTUBbG9dAFO9_3LgSrr6p5XHjPiDVBLayqROiBWHyVLAKoD8bgT5s3PS4cfPjRmAIAq2B2zj5cdNEkGLKkxoUKGjpc3F5ZxZlWgVkJublO9QY1ChUg2xQsDE007IDs6pz02rBjBoFYwVdOK5RMAWSugomCkZgHoiE4RqgKEjOWMEQxIMYg2IKSBVYDsoyjwchuNoCmFqYOjOwJEQNkG0KRtiNJteB6A5DOAoECTgMyU1IqhEhZwQ0HGE5xGEwZxoDHYNwtBmyHFS3KVAUpAeE0b0MUw-WU9AwATJMNFU1dHU14f4B-QWiyABsQC0Xl66dAijaFZBoZS4A)]
-- [鋼琴伴奏 TMD 檔案](kiri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5Z_n7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQxITL3lbBkcvGWN_CjqtOQelp-64XM6e-3zPrxeQ1T6dsfDm7TcHQwPzlgsbHzSseN68CGvZsxlojPWM9IxOgMUogLY8buoAqn63tebpj2uOGbqASIwMjAz0DAzM9AwsTY6CyAANDM72sgnQlLi7vzKJMq4DMxLz8IA-HGoMahWouBSCwMTTTsgOzqnPTasGMGgVDbWMFXRSyRsE8XtsUyNBVMFEwggmAGKgUSK8JWJmxgiGIDzEazWSoYrN4bbAaGN8QyAAhuLYCmDagSogCkCawFtN4bbBKINcUjHDZRT1f4HI92Nkw94AgYddDXG0MdAyaHkQcGAHtxnQVxPEgd4H4xkBvoPrPUNsMWQXULFMFM6heCIkZUiZwfUCTIGoUNEyAGk00VTV0dTWhFoB9CXUMkA0RBEEDsKm1yMnMB1cyg4eLIcjzpvEgEswEmQmijRDiWIUw9KGHnRlYDqICwoaZAyGNIWJo0WQEUw-iTKDaIEqxaEPKLVT1BnbXQ6xGdgwJroeQkChCiwJinAV1hDGyeyAWgOWhdiEHBlgp9qiBqEbSDnM5PH5groCrgKctXTsFUPJSQKKVuQA)]
+- [主旋律 TMD 檔案](kiri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5Z_n7PR1gslNBS4tL0VbB0MSEy95WwZHLxljfwo6rTkHpafuuFzOnvt8z68XkNU-nbHw5u03B0MD85YLGx80rHjevAhrwbMZaIz1jPSMToDFKIC2PG7qAKp-t7Xm6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgsgADQzO9rIJ0JS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBrnixct7T1hXPprUDHfJ0Q--z9k4FmP1ApwB9BtL2YtX-Zw3LQRq6e1_MnA8Ufdy0BCioAAwHBaAYUK-jwtMly1GEgJp7Hs1cZQsKNZAZK3a_WDEDZ1Ap6CvAg4oLpP7JjobHDY0g1uOm_Y-bux83z1N43NwH5K0FKX_c3A-RAOrve9w8BygGVtu8BKFw8-OmXY-bVgB5m4C4BYzmgzVB1c4G6W1aDTQdyJn_uHnZ4-bVQH07HzetgxjRvOBx80qI2nlA7XBzmxuAFgN5i4C81Y-b1j9uXgPkLQOyIG7f1QNze2PT48apjxuBDmgEmtnY_bhxEpQJFJ3-uHEuRG4ZRHHv46YuqPSKx40bILz1IPy4qQekuAloa-MaiOL9jxtXwtU3tTxu3AekmsBWNnVCtCBMngpWAfRnI9CHjZseN25-3AgMQaA1cBsnP26aCFJMeVKDAgUtfS4u78yiTKuAzMS8fIcagxqFapANCjaGZlp2YFZ1blotmFGjYKygC8c1CqZAUlfBRMEIzAORMFwDFAXJGSsYgngQY1BMAakCy0FZ5vEgBFdbAFMLU2cGloSoAbJNwQi70eQ6EN1hCEeBIAGHIbkJSTUi5IyAhiMshzgM5kxjoGMQjjZDloPqNgWKgvSAMLqXYerBcgoaJkCGiaaqhq6uJtw_IL9AFBmADajl4tK1UwBFuwISrcwFAA)]
+- [鋼琴伴奏 TMD 檔案](kiri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5Z_n7PR1A8nHz7pfde55P2PJkz5anS_ufd3a839OpoKXFpWirYGhiwmVvq-DIZWOsb2HHVaeg9LR914uZU9_vmfVi8pqnUza-nN2mYGhg_nJB4-PmFY-bVwGNfDZjrZGesZ6RCdAYJZCWxw1dQJXP1vY83THtcUM3UImRgZGBnoGBmZ6BhYkxUFmAgaGZXlZBuhIXl3dmUaZVQGZiXn6Qh0ONQY1CNZcCENgYmmnZgVnVuWm1YEaNgqG2sYIuClmjYB6vbQpk6CqYKBjBBEAMVAqk1wSszFjBEMSHGI1mMlSxWbw2WA2MbwhkgBBcWwFMG1AlRAFIE1iLabw2WCWQawpGuOyini9wuR7sbJh7QJCw6yGuNgY6Bk0PIg6MgHZjugrieJC7QHxjoDdQ_WeobYasAmqWqYIZVC-ExAwpE7g-oEkQNQoaJkCNJpqqGrq6mlALwL6EOgbIhgiCoAHY1FrkZOaDK5nBw8UQ5HnTeBAJZoLMBNFGCHGsQhj60MPODCwHUQFhw8yBkMYQMbRoMoKpB1EmUG0QpVi0IeUWqnoDu-shViM7hgTXQ0hIFKFFATHOgjrCGNk9EAvA8lC7kAMDrBR71EBUI2mHuRwePzBXwFXA05aunQIoeSkg0cpcAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 霧 ]
+📊 TMD Song Profile: [ 霧（霧） ]
 ================================================================================
 ⏱  Duration:       0:30 (30.0s), 48 measures total
 🎼 Key & Tempo:    首調基準 A, != 144.0 BPM, <3/8>

@@ -1,4 +1,4 @@
-# 樂シキ我家
+# 樂シキ我家（快樂的我家）
 
 <audio controls src="tanoshiki_waga_ie.mp3"></audio>
 
@@ -34,7 +34,7 @@
 
 ```abc
 X:1
-T:樂シキ我家
+T:樂シキ我家（快樂的我家）
 M:4/4
 L:1/16
 Q:1/4=88
@@ -57,14 +57,14 @@ B12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanoshiki_waga_ie.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um6bgpYWl6KtgoUFl72tgpMOl42JvokdV52C0tP2XS9mTn2_Z9aLyWtezm57v6fj2Yy1RnpAaPh-T6cSSMnjhq6nUzY-W9vzdMe0xw3dQCVGBkYGegYGZnoGFibGQGUBBkbmelkF6UpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0A13xYuW8p60rnk1rBzrk6YbeZ-2dCjD7gU4B-gSk7cWq_c8aloM0dPe-mDkfKPp0Sefj5rVAcQWg1xWAwkDtTkkKT5csRxEDGtDzaOZKWwsLoPyTXVOeb5_1Yu2cJ7t6XjaveDqhAxgQQAUuesF6Cok5Cm6ZealALWALV-x-sWIG0B4NSEBqKugrQIKRCyT9ZEfD44ZGEOtxc__j5i4g1afwuGn14-ZNj5tXQXjN3UA5EAXE8x83Q1V3wOWblj1u2v-4acvj5o1AgXmPmzshipuWAJVAFHc_btr8uGk9kLX-cfPKx81TgaxGIILYCjK8D6Jw4eOmDUBbgJoXAVU9bl7zuHk1WFfTGoiBM4C8FWC1QDub-yBpCV0FihSKLsojHwoUtPS5uEIS8_KLMzKzM8MT0xM9U62C8wuKgEIONQY1CtUg6xRsLLTswIzq3LRaMKNGwUBBF45N4xUMgULGQKYukATRpkBco2ACFjECyuoqmMcDGTVgpi6QNIIIgVRBhCAQYhTUDqINBCkAGQhRBNEGNQ8kAjUOxDYBqsNuHMhRNWBTQCLGYFGgFdR3HrJ5oNCr4arFjATHnBIcMVCAIwaACBG6IBqEaxTMQGGsC6KAChAKwRwYF0yDFENF4X4FKYXaRprJ0ADAGsWg0ICZCk0F4GCFmQvWgnAamIVmGxzRycnwaNK1U0CLKQWgkDIXAA)]
-- [鋼琴伴奏 TMD 檔案](tanoshiki_waga_ie_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbBwoLL3lbBSYfLxkTfxI6rTkHpafuuFzOnvt8z68XkNS9ntwE1P5ux1kgPCA2B2pRASh43dD2dsvHZ2p6nO6Y9bugGKjEyMDLQMzAw0zOwMDEGKgswMDLXyypIV-LiCknMyy_OyMzODE9MT_RMtQrIBAoEeTjUGNQoVHMpAIGNhZYdmFGdm1YLZtQoGCjowrFpPBBpGwJFDbWNgXxdMA1hG2qbAskaBbN4bROwFJBhBFEO0qhtDtZrBFQBFQOLGkIEYSpABsClIRBuJ9Q9VLAZos0cYjGQgmiHGQyBxhBRqKVGYB5QqQnEKFSLweJQD8EthnoP7CyQPQhnGSOpgzhv4DwNkkTxNyiaa7hqcaQWHxyppQBbagEbpWAYD4pW03gwBeEYg8kaBROIIJSCKoFSMI0QtdjlUAyFOBwaXJTZaYZPEqelqMpRbcUnR4yLBotPgelC104BLWkoAIWUuQA)]
+- [主旋律 TMD 檔案](tanoshiki_waga_ie.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dT_evBgo-n9UCE-lU0NLiUrRVsLDgsrdVcNLhsjHRN7HjqlNQetq-68XMqe_3zHoxec3L2W1Azc9mrDXSA0JDoDYlkJLHDV1Pp2x8trbn6Y5pjxu6gUqMDIwM9AwMzPQMLEyMgcoCDIzM9bIK0pW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7rixcp5T1tXPJvWDvLoht5n7Z0KMPuBTgH6BKTtxar9zxqWgzR0976YOR8o-nRJ5-PmtUBxBaDXFYDCQO1OSQpPlyxHEQMa0PNo5kpbCwug_JNdU55vn_Vi7Zwnu3peNq94OqEDGBBABS56wXoKiTkKbpl5qUAtYAtX7H6xYgbQHg1IQGoq6CtAgpELJP1kR8PjhkYQ63Fz_-PmLiDVp_C4afXj5k2Pm1dBeM3dQDkQBcTzHzdDVXfA5ZuWPW7a_7hpy-PmjUCBeY-bOyGKm5YAlUAUdz9u2vy4aT2Qtf5x88rHzVOBrEYggtgKMrwPonDh46YNQFuAmhcBVT1uXvO4eTVYV9MaiIEzgLwVYLVAO5v7IAkMXQWKFIouyiMfChS09Lm4QhLz8oszMrMzwxPTEz1TrYLzC4qAQg41BjUK1SDrFGwstOzAjOrctFowo0bBQEEXjk3jFQyBQsZApi6QBNGmQFyjYAIWMQLK6iqYxwMZNWCmLpA0ggiBVEGEIBBiFNQOog0EKQAZCFEE0QY1DyQCNQ7ENgGqw24cyFE1YFNAIsZgUaAV1Hcesnmg0KvhqsWMBMecEhwxUIAjBoAIEbogGoRrFMxAYawLooAKEArBHBgXTIMUQ0XhfgUphdpGmsnQAMAaxaDQgJkKTQXgYIWZC9aCcBqYhWYbHNHJyfBo0rVTQIspBaCQMhcA)]
+- [鋼琴伴奏 TMD 檔案](tanoshiki_waga_ie_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dT_evBgo-n9UCEXncvPtl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKlhYcNnbKjjpcNmY6JvYcdUpKD1t3_Vi5tT3e2a9mLzm5ew2oHHPZqw10gNCQ6A2JZCSxw1dT6dsfLa25-mOaY8buoFKjAyMDPQMDMz0DCxMjIHKAgyMzPWyCtKVuLhCEvPyizMyszPDE9MTPVOtAjKBAkEeDjUGNQrVXApAYGOhZQdmVOem1YIZNQoGCrpwbBoPRNqGQFFDbWMgXxdMQ9iG2qZAskbBLF7bBCwFZBhBlIM0apuD9RoBVUDFwKKGEEGYCpABcGkIhNsJdQ8VbIZoM4dYDKQg2mEGQ6AxRBRqqRGYB1RqAjEK1WKwONRDcIuh3gM7C2QPwlnGSOogzhs4T4MkUfwNiuYarlocqcUHR2opwJZawEYpGMaDotU0HkxBOMZgskbBBCIIpaBKoBRMI0QtdjkUQyEOhwYXZXaa4ZPEaSmqclRb8ckR46LB4lNgutC1U0BLGgpAIWUuAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 樂シキ我家 ]
+📊 TMD Song Profile: [ 樂シキ我家（快樂的我家） ]
 ================================================================================
 ⏱  Duration:       0:46 (46.4s), 17 measures total
 🎼 Key & Tempo:    首調基準 B,, != 88.0 BPM, <4/4>

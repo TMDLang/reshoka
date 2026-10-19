@@ -9,25 +9,25 @@
 
 | 原書頁碼 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
 | :--- | :--- | :--- | :--- | :--- |
-| P005 | [**銀杏の樹**](p005_icho_no_ki/index.md) | 詞：真田梅村 | `?=C` `<6/8>` `!=120` | P005.jpg |
-| P006 | [**繪本**](p006_ehon/index.md) | 曲：原田氏 | `?=C` `<4/4>` `!=100` | P006.jpg |
-| P007 | [**月夜の畑**](p007_tsukiyo_no_hatake/index.md) | — | `?=C` `<4/4>` `!=88` | P007.jpg |
-| P008 | [**大日本**](p008_dainippon/index.md) | 曲：山本壽 | `?=G` `<2/4>` `!=100` | P008.jpg |
-| P009 | [**汽車の旅**](p009_kisha_no_tabi/index.md) | — | `?=F` `<2/4>` `!=84` | P009.jpg |
-| P010 | [**わたしのしゃしん**](p010_watashi_no_shashin/index.md) | — | `?=C` `<2/4>` `!=92` | P010.jpg |
-| P011 | [**菅公**](p011_kanko/index.md) | — | `?=F` `<4/4>` `!=92` | P011.jpg |
-| P012 | [**軍艦**](p012_gunkan/index.md) | 曲：カレー（英 / Henry Carey） | `?=G` `<3/4>` `!=88` | P012.jpg |
-| P014 | [**花のあけくれ**](p014_hana_no_akekure/index.md) | — | `?=F` `<3/4>` `!=126` | P014.jpg, P015.jpg |
-| P016 | [**霧**](p016_kiri/index.md) | — | `?=A` `<3/8>` `!=144` | P016.jpg |
-| P017 | [**怒るな働け**](p017_ikaruna_hatarake/index.md) | 曲：杉江秀 | `?=G` `<4/4>` `!=120` | P017.jpg |
-| P018 | [**朝の祈り**](p018_asa_no_inori/index.md) | — | `?=D,` `<4/4>` `!=88` | P018.jpg |
-| P019 | [**陣營の月**](p019_jinei_no_tsuki/index.md) | — | `?=F` `<4/4>` `!=88` | P019.jpg |
-| P020 | [**深林逍遥**](p020_shinrin_shoyo/index.md) | — | `?=A,` `<6/8>` `!=138` | P020.jpg, P021.jpg |
-| P021 | [**早く家へ帰りませう**](p021_hayaku_ie_e_kaerimasho/index.md) | — | `?=C` `<4/4>` `!=100` | P021.jpg |
-| P022 | [**田舎の夕暮**](p022_inaka_no_yugure/index.md) | — | `?=E,` `<3/4>` `!=66` | P022.jpg |
-| P023 | [**春は行く**](p023_haru_wa_yuku/index.md) | — | `?=D` `<2/4>` `!=96` | P023.jpg |
-| P024 | [**夜の貝**](p024_yoru_no_kai/index.md) | — | `?=B,` `<4/4>` `!=84` | P024.jpg |
-| P025 | [**星と花**](p025_hoshi_to_hana/index.md) | — | `?=B,` `<3/4>` `!=80` | P025.jpg |
-| P026 | [**秋ノ湖上**](p026_aki_no_kojo/index.md) | — | `?=G` `<3/8>` `!=108` | P026.jpg |
-| P027 | [**樂シキ我家**](p027_tanoshiki_waga_ie/index.md) | — | `?=B,` `<4/4>` `!=88` | P027.jpg |
-| P028 | [**少女のほこり**](p028_shojo_no_hokori/index.md) | — | `?=C` `<4/4>` `!=100` | P028.jpg |
+| P005 | [**銀杏の樹（銀杏樹）**](p005_icho_no_ki/index.md) | 詞：真田梅村 | `?=C` `<6/8>` `!=120` | P005.jpg |
+| P006 | [**繪本（圖畫書）**](p006_ehon/index.md) | 曲：原田氏 | `?=C` `<4/4>` `!=100` | P006.jpg |
+| P007 | [**月夜の畑（月夜的田野）**](p007_tsukiyo_no_hatake/index.md) | — | `?=C` `<4/4>` `!=88` | P007.jpg |
+| P008 | [**大日本（日本）**](p008_dainippon/index.md) | 曲：山本壽 | `?=G` `<2/4>` `!=100` | P008.jpg |
+| P009 | [**汽車の旅（火車之旅）**](p009_kisha_no_tabi/index.md) | — | `?=F` `<2/4>` `!=84` | P009.jpg |
+| P010 | [**わたしのしゃしん（我的照片）**](p010_watashi_no_shashin/index.md) | — | `?=C` `<2/4>` `!=92` | P010.jpg |
+| P011 | [**菅公（菅原道真）**](p011_kanko/index.md) | — | `?=F` `<4/4>` `!=92` | P011.jpg |
+| P012 | [**軍艦（軍艦）**](p012_gunkan/index.md) | 曲：カレー（英 / Henry Carey） | `?=G` `<3/4>` `!=88` | P012.jpg |
+| P014 | [**花のあけくれ（花的晨昏）**](p014_hana_no_akekure/index.md) | — | `?=F` `<3/4>` `!=126` | P014.jpg, P015.jpg |
+| P016 | [**霧（霧）**](p016_kiri/index.md) | — | `?=A` `<3/8>` `!=144` | P016.jpg |
+| P017 | [**怒るな働け（不要發怒，努力工作）**](p017_ikaruna_hatarake/index.md) | 曲：杉江秀 | `?=G` `<4/4>` `!=120` | P017.jpg |
+| P018 | [**朝の祈り（早晨的祈禱）**](p018_asa_no_inori/index.md) | — | `?=D,` `<4/4>` `!=88` | P018.jpg |
+| P019 | [**陣營の月（軍營之月）**](p019_jinei_no_tsuki/index.md) | — | `?=F` `<4/4>` `!=88` | P019.jpg |
+| P020 | [**深林逍遥（漫步深林）**](p020_shinrin_shoyo/index.md) | — | `?=A,` `<6/8>` `!=138` | P020.jpg, P021.jpg |
+| P021 | [**早く家へ帰りませう（快回家吧）**](p021_hayaku_ie_e_kaerimasho/index.md) | — | `?=C` `<4/4>` `!=100` | P021.jpg |
+| P022 | [**田舎の夕暮（鄉村的黃昏）**](p022_inaka_no_yugure/index.md) | — | `?=E,` `<3/4>` `!=66` | P022.jpg |
+| P023 | [**春は行く（春將離去）**](p023_haru_wa_yuku/index.md) | — | `?=D` `<2/4>` `!=96` | P023.jpg |
+| P024 | [**夜の貝（夜之貝）**](p024_yoru_no_kai/index.md) | — | `?=B,` `<4/4>` `!=84` | P024.jpg |
+| P025 | [**星と花（星與花）**](p025_hoshi_to_hana/index.md) | — | `?=B,` `<3/4>` `!=80` | P025.jpg |
+| P026 | [**秋ノ湖上（秋日湖上）**](p026_aki_no_kojo/index.md) | — | `?=G` `<3/8>` `!=108` | P026.jpg |
+| P027 | [**樂シキ我家（快樂的我家）**](p027_tanoshiki_waga_ie/index.md) | — | `?=B,` `<4/4>` `!=88` | P027.jpg |
+| P028 | [**少女のほこり（少女的驕傲）**](p028_shojo_no_hokori/index.md) | — | `?=C` `<4/4>` `!=100` | P028.jpg |

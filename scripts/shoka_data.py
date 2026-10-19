@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import json
 import re
 from pathlib import Path
 
@@ -241,7 +242,42 @@ def classify_scale(
     return category, subtype, major_penta_ratio
 
 
-def load_all_songs(docs_dir: Path = Path("docs")) -> list[SongRecord]:
+def load_duplicate_root_map(docs_dir: Path) -> dict[str, str]:
+    """Build a union-find root map for songs linked by relation == '同曲' in duplicate_songs.json."""
+    dup_json = docs_dir / "duplicate_songs.json"
+    if not dup_json.exists():
+        return {}
+    data = json.loads(dup_json.read_text(encoding="utf-8"))
+    parent: dict[str, str] = {}
+
+    def find(x: str) -> str:
+        while parent.get(x, x) != x:
+            parent[x] = parent.get(parent[x], parent[x])
+            x = parent[x]
+        return x
+
+    def union(a: str, b: str) -> None:
+        ra, rb = find(a), find(b)
+        if ra != rb:
+            parent[rb] = ra
+
+    for cluster in data.get("clusters", []):
+        for entry in cluster.get("entries", []):
+            src = entry.get("rel_dir", "")
+            for peer in entry.get("peers", []):
+                if peer.get("relation") == "同曲":
+                    dst = peer.get("rel_dir", "")
+                    if src and dst:
+                        union(src, dst)
+
+    return {k: find(k) for k in list(parent)}
+
+
+def load_all_songs(
+    docs_dir: Path = Path("docs"),
+    collection: str | None = None,
+    deduplicate: bool = False,
+) -> list[SongRecord]:
     docs_dir = docs_dir.resolve()
     records: list[SongRecord] = []
 
@@ -253,7 +289,9 @@ def load_all_songs(docs_dir: Path = Path("docs")) -> list[SongRecord]:
     for main_tmd in tmd_files:
         folder = main_tmd.parent
         volume = folder.parent.name
-        collection = folder.parent.parent.name
+        col_name = folder.parent.parent.name
+        if collection and col_name != collection:
+            continue
         index_md = folder / "index.md"
 
         tmd_text = main_tmd.read_text(encoding="utf-8")
@@ -312,12 +350,12 @@ def load_all_songs(docs_dir: Path = Path("docs")) -> list[SongRecord]:
 
         records.append(
             SongRecord(
-                collection=collection,
-                collection_label=COLLECTION_LABELS.get(collection, collection),
+                collection=col_name,
+                collection_label=COLLECTION_LABELS.get(col_name, col_name),
                 volume=volume,
                 volume_label=VOLUME_LABELS.get(volume, volume),
                 folder_name=folder.name,
-                semester=classify_semester(collection, volume, folder.name),
+                semester=classify_semester(col_name, volume, folder.name),
                 title=title,
                 declared_key_raw=declared_key_raw,
                 declared_key=declared_key,
@@ -335,5 +373,17 @@ def load_all_songs(docs_dir: Path = Path("docs")) -> list[SongRecord]:
                 major_penta_ratio=major_penta_ratio,
             )
         )
+
+    if deduplicate:
+        root_map = load_duplicate_root_map(docs_dir)
+        seen_roots: set[str] = set()
+        dedup_records: list[SongRecord] = []
+        for r in records:
+            rel_dir = f"{r.collection}/{r.volume}/{r.folder_name}"
+            root = root_map.get(rel_dir, rel_dir)
+            if root not in seen_roots:
+                seen_roots.add(root)
+                dedup_records.append(r)
+        return dedup_records
 
     return records

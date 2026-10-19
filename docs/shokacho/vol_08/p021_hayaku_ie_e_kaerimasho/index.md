@@ -1,4 +1,4 @@
-# 早く家へ帰りませう
+# 早く家へ帰りませう（快回家吧）
 
 <audio controls src="hayaku_ie_e_kaerimasho.mp3"></audio>
 
@@ -29,7 +29,7 @@
 
 ```abc
 X:1
-T:早く家へ帰りませう
+T:早く家へ帰りませう（快回家吧）
 M:4/4
 L:1/16
 Q:1/4=100
@@ -46,14 +46,14 @@ D8 B,4 G,4 | E4 F4 G4 E4 | F6 E2 D4 G4 | C12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hayaku_ie_e_kaerimasho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2feXjxv6n67Y9btzxdMeGx01djxv3PW6c_bixTUFLi0vRVsHQwIDL3lbBmcvGRN_EjqtOQelp-64XM6e-3zPryY6Gpzu3KOgrPO3oAuuc-bipA8h4v6fj2Yy1RnqGhnrGBu_3dCqBdD1u6Ho6ZeOztT1Pd0x73NANVGNkYGSgZ2BgpmdgYWIMVBZgYGSol1WQrqCRlF9Skp-rqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DkvVs572rri2bR2oIuebuh91t6pAHfIkx3dT3uB3ukEehak-8Wq_c8aloP0dfe-mDkfKPq4uR8oqAAMGgWgGNAIZ4WnS5ajCHWCda7Y_WLFDOQwQ4QQevBxgTQA1T1uaASxHjcvety07HEzEE193LTmcdP-x83dQNGux82rHjfPe9y0HSgEVtgEVLgaJNq0BshZ8rh5BkRly-Omtagqm_sfNy953LQeqAyoGmhyI1AxkAPUDdQDMXY3UALilF09MKc0Tn_cNPlx48bHjS2PG1c9bgQ6CGhBI9Dti8BCQP5kiEJgIlr8uHHZ46YJaAo3PG5sQlJItEuAiilPAlCgoKXPxeWRWJmYXeqZ6uqdmFqUmZtYnJFvFZCZmJfvUGNQo1ANslDBxkLLDsyozk2rBTNqFAwVdMHQCIiNgbhGwQRIgjCIB4I1YDmQOvN4qEKENhA0AIlAjYNoMlEwhWqpUTADi5iCjYQYB1KDYiRQEYjCZh5IHQiC1ZlCFIP0g0wD2YFwMogNUg0Sxea-Wi4uXTsFLMGkgFtYmQsA)]
-- [鋼琴伴奏 TMD 檔案](hayaku_ie_e_kaerimasho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2feXjxv6n67Y9btzxdMeGx01djxv3PW6c_bix7f2ejpfde55P2PJkz5anS_ufd3a839OpoKXFpWirYGhgwGVvq-DMZWOib2LHVaeg9LR914uZU9_vmfVkR8PTnVsU9BWednSBjZv5uKkDyAAa92zGWiM9Q0M9YwOgSUogXY8bup5O2fhsbc_THdMeN3QD1RgZGBnoGRiY6RlYmBgDlQUYGBnqZRWkK2gk5ZeU5OdqKnFxeSRWJmaXeqa6eiemFmXmJhZn5FsFZCbm5Qd5ONQY1ChUcykAgY2Flh2YUZ2bVgtm1CgYKuiCoREQGwMxUETbBEjDSJAYCNYomMdrgxSBNJjHQ3XUKJjGa8OMAEEDkCDMaKhmEwVjbVOoTpCoGVjUFGoFxHCIWiQrTNXjtcHW1CgYx2ubgVjY7IDqAEGwalOIFohxRmALoJaDRWC-A_kVqhVIgeTBerQN4zDsqcUTuj44QrcAHrpwNyFYNQomIApMIIuCKWO4gGk81CuoRqAEMKoUWC_UdLCAEdweUCDCzTRGImsUzKA8IAFhItsA0QA2B4kJtxmrxxACaF5A8wMwYHXtFLCErQJuYWUuAA)]
+- [主旋律 TMD 檔案](hayaku_ie_e_kaerimasho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2feXjxv6n67Y9btzxdMeGx01djxv3PW6c_bix7f2ejqf7Vz-dPQ8o-3TC8vd7OhW0tLgUbRUMDQy47G0VnLlsTPRN7LjqFJSetu96MXPq-z2znuxoeLpzi4K-wtOOLrBZMx83dQAZQLOezVhrpGdoqGdsADRJCaTrcUPX0ykbn63tebpj2uOGbqAaIwMjAz0DAzM9AwsTY6CyAAMjQ72sgnQFjaT8kpL8XE0lLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oHOebFy3tPWFc-mtYNCYEPvs_ZOBbhDnuzoftoL9E4n0LMg3S9W7X_WsBykr7v3xcz5QNHHzf1AQQVg0CgAxYBGOCs8XbIcRagTrHPF7hcrZiCHGSKE0IOPC6QBqO5xQyOI9bh50eOmZY-bgWjq46Y1j5v2P27uBop2PW5e9bh53uOm7UAhsMImoMLVINGmNUDOksfNMyAqWx43rUVV2dz_uHnJ46b1QGVA1UCTG4GKgRygbqAeiLG7gRIQp-zqgTmlcfrjpsmPGzc-bmx53LjqcSPQQUALGoFuXwQWAvInQxQCk9Xix43LHjdNQFO44XFjE5JCol0CVEx5EoACBS19Li6PxMrE7FLPVFfvxNSizNzE4ox8q4DMxLx8hxqDGoVqkIUKNhZadmBGdW5aLZhRo2CooAuGRkBsDMQ1CiZAEoRBPBCsAcuB1JnHQxUitIGgAUgEahxEk4mCKVRLjYIZWMQUbCTEOJAaFCOBikAUNvNA6kAQrM4UohikH2QayA6Ek0FskGqQKDb31XJx6dopYAkmBdzCylwA)]
+- [鋼琴伴奏 TMD 檔案](hayaku_ie_e_kaerimasho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2feXjxv6n67Y9btzxdMeGx01djxv3PW6c_bix7f2ejqf7Vz-dPQ8o-3TC8sfNu19273k-YcuTPVueLu1_3tnxfk-ngpYWl6KtgqGBAZe9rYIzl42JvokdV52C0tP2XS9mTn2_Z9aTHQ1Pd25R0Fd42tEFNn3m46YOIANo-rMZa430DA31jA2AJimBdD1u6Ho6ZeOztT1Pd0x73NANVGNkYGSgZ2BgpmdgYWIMVBZgYGSol1WQrqCRlF9Skp-rqcTF5ZFYmZhd6pnq6p2YWpSZm1ickW8VkJmYlx_k4VBjUKNQzaUABDYWWnZgRnVuWi2YUaNgqKALhkZAbAzEQBFtEyANI0FiIFijYB6vDVIE0mAeD9VRo2Aarw0zAgQNQIIwo6GaTRSMtU2hOkGiZmBRU6gVEMMhapGsMFWP1wZbU6NgHK9tBmJhswOqAwTBqk0hWiDGGYEtgFoOFoH5DuRXqFYgBZIH69E2jMOwpxZP6PrgCN0CeOjC3YRg1SiYgCgwgSwKpozhAqbxUK-gGoESwKhSYL1Q08ECRnB7QIEIN9MYiaxRMIPygASEiWwDRAPYHCQm3GasHkMIoHkBzQ_AgNW1U8AStgq4hZW5AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 早く家へ帰りませう ]
+📊 TMD Song Profile: [ 早く家へ帰りませう（快回家吧） ]
 ================================================================================
 ⏱  Duration:       0:57 (57.6s), 24 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
