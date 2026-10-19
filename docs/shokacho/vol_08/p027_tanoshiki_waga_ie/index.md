@@ -13,9 +13,9 @@
 
 ## 跨冊／重複收錄參照
 
-> 同名異曲（各冊收錄之不同詞曲版本）
+> 同詞異曲＋同名異曲（《新定兒童唱歌》六年級〈樂しき我家〉與《唱歌帖》P027〈樂シキ我家〉同採「花こそ薫らねわがこの園」歌詞而譜曲不同；《唱歌帖》P102〈樂しき我家〉則採英國名曲 *Home! Sweet Home!*〈埴生の宿〉旋律）
 
-- **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈樂しき我家〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md)（`E` / `6/8` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
+- **[同詞異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈樂しき我家〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md)（`E` / `6/8` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈樂しき我家〉**](../../vol_02/p102_tanoshiki_wagaya/index.md)（`B,` / `4/4` — [原始 TMD](../../vol_02/p102_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
@@ -23,11 +23,22 @@
 
 ```text
 一、
-ハナ ノ カヲリ ノ ニハ ニ ミチ
-トリ ノ ウタゴヱ マド ニ イリ
-ニコク ワラフ チチ ハハ ノ
-メグミ アフレル ワガ イヘ ヨ
-タノシキ ワガ イヘ タノシキ イヘ ヨ
+ハナ コソ カヲラネ ワガ コノ ソノ
+ツキ コソ ニホハネ ワガ コノ ノキ
+カスミ ハ トキハ ニ マガキ ヲ コメ
+ハルカゼ ノドカニ ソデ ニ フケリ
+
+二、
+カヲレル 花ニハ 雨風アリ
+匂ヘル 月ニハ 雲霧アリ
+ワガ此ノ 園生ト 軒端トニハ
+嵐モ 吹カネバ 雲マタナシ
+
+三、
+父母兄弟 オノモ〳〵
+明クレバ ソレ〲 ツトメニツキ
+暮レバ 一ツニ 夕餉トリテ
+タノシク ノドカニ 其日ヲオクル
 ```
 
 ## ABC
@@ -57,7 +68,7 @@ B12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanoshiki_waga_ie.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dT_evBgo-n9UCE-lU0NLiUrRVsLDgsrdVcNLhsjHRN7HjqlNQetq-68XMqe_3zHoxec3L2W1Azc9mrDXSA0JDoDYlkJLHDV1Pp2x8trbn6Y5pjxu6gUqMDIwM9AwMzPQMLEyMgcoCDIzM9bIK0pW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7rixcp5T1tXPJvWDvLoht5n7Z0KMPuBTgH6BKTtxar9zxqWgzR0976YOR8o-nRJ5-PmtUBxBaDXFYDCQO1OSQpPlyxHEQMa0PNo5kpbCwug_JNdU55vn_Vi7Zwnu3peNq94OqEDGBBABS56wXoKiTkKbpl5qUAtYAtX7H6xYgbQHg1IQGoq6CtAgpELJP1kR8PjhkYQ63Fz_-PmLiDVp_C4afXj5k2Pm1dBeM3dQDkQBcTzHzdDVXfA5ZuWPW7a_7hpy-PmjUCBeY-bOyGKm5YAlUAUdz9u2vy4aT2Qtf5x88rHzVOBrEYggtgKMrwPonDh46YNQFuAmhcBVT1uXvO4eTVYV9MaiIEzgLwVYLVAO5v7IAkMXQWKFIouyiMfChS09Lm4QhLz8oszMrMzwxPTEz1TrYLzC4qAQg41BjUK1SDrFGwstOzAjOrctFowo0bBQEEXjk3jFQyBQsZApi6QBNGmQFyjYAIWMQLK6iqYxwMZNWCmLpA0ggiBVEGEIBBiFNQOog0EKQAZCFEE0QY1DyQCNQ7ENgGqw24cyFE1YFNAIsZgUaAV1Hcesnmg0KvhqsWMBMecEhwxUIAjBoAIEbogGoRrFMxAYawLooAKEArBHBgXTIMUQ0XhfgUphdpGmsnQAMAaxaDQgJkKTQXgYIWZC9aCcBqYhWYbHNHJyfBo0rVTQIspBaCQMhcA)]
+- [主旋律 TMD 檔案](tanoshiki_waga_ie.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dT_evBgo-n9UCE-lU0NLiUrRVsLDgsrdVcNLhsjHRN7HjqlNQetq-68XMqe_3zHoxec3L2W1Azc9mrDXSA0JDoDYlkJLHDV1Pp2x8trbn6Y5pjxu6gUqMDIwM9AwMzPQMLEyMgcoCDIzM9bIK0pW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7rixcp5T1tXPJvWDvLoht5n7Z0KMPuBTgH6BKTtxar9zxqWgzR0976YOR8o-nRJ5-PmtUBxBaDXFYDCQO1OSQpPlyxHEQMa0PNo5kpbCwug_JNdU55vn_Vi7Zwnu3peNq94OqEDGBBABS56wXoKiTkKbpl5qUAtYAtX7H6xYgbQHg1IQGoq6CtAgpELJP1kR8PjhkYQ63Fz_-PmLoXHTZsfN-0FUqsfN2963LzycXMvUGr946Y1YKnmPiC1F0hBtLQAYxeupbn7cfNssDEYWpr7gArBWoDmNu183DwfZB8QdwDFIaxuIJ4H1AM2sXkTROtCuMuA2oBoD9io5k6w84A6QE5ph2qe-rhp4-PmVRBv7eqBeQvqkTVAIxRedAFVAF3Zr_By9oqXi1Y8bloE0gGKzp6mx80zQGqezemAq9n0cs5yhBqIn56tXQLy0tM5k55PmQ_0gMKL3ZOer14P8gpYG9i0rRMeNy9SeDphJ9j63sfNE0CmgT24HxjKwGwBDf1OqDOfd2x7tr73aWvL0z3AoGlaBfbmoscNmx83bAXJP5sBDEGgJUBvTIB4e83jBmAgAWMAZPFCsN2g2AArnrUOqhIUvSAl3cD0NPUlKKUBFQMNb4MEDdAtQGOBWXQ9arg-bd32bPpSULgBXQKydjVIPeUZBwoUtPS5uEIS8_KLMzKzM8MT0xM9U62C8wuKgEIONQY1CtUg6xRsLLTswIzq3LRaMKNGwUBBF45N4xUMgULGQKYukATRpkBco2ACFjECyuoqmMcDGTVgpi6QNIIIgVRBhCAQYhTUDqINBCkAGQhRBNEGNQ8kAjUOxDYBqsNuHMhRNWBTQCLGYFGgFdR3HrJ5oNCr4arFjATHnBIcMVCAIwaACBG6IBqEaxTMQGGsC6KAChAKwRwYF0yDFENF4X4FKYXaRprJ0ADAGsWg0ICZCk0F4GCFmQvWgnAamIVmGxzRycnwaNK1U0CLKQWgkDIXAA)]
 - [鋼琴伴奏 TMD 檔案](tanoshiki_waga_ie_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dT_evBgo-n9UCEXncvPtl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKlhYcNnbKjjpcNmY6JvYcdUpKD1t3_Vi5tT3e2a9mLzm5ew2oHHPZqw10gNCQ6A2JZCSxw1dT6dsfLa25-mOaY8buoFKjAyMDPQMDMz0DCxMjIHKAgyMzPWyCtKVuLhCEvPyizMyszPDE9MTPVOtAjKBAkEeDjUGNQrVXApAYGOhZQdmVOem1YIZNQoGCrpwbBoPRNqGQFFDbWMgXxdMQ9iG2qZAskbBLF7bBCwFZBhBlIM0apuD9RoBVUDFwKKGEEGYCpABcGkIhNsJdQ8VbIZoM4dYDKQg2mEGQ6AxRBRqqRGYB1RqAjEK1WKwONRDcIuh3gM7C2QPwlnGSOogzhs4T4MkUfwNiuYarlocqcUHR2opwJZawEYpGMaDotU0HkxBOMZgskbBBCIIpaBKoBRMI0QtdjkUQyEOhwYXZXaa4ZPEaSmqclRb8ckR46LB4lNgutC1U0BLGgpAIWUuAA)]
 
 ## 分析

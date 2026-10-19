@@ -4,7 +4,7 @@ M:6/8
 L:1/16
 Q:3/8=69
 K:Eb
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 B,4 z2 |
 E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 E4 z2 |

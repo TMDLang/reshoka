@@ -33,7 +33,7 @@ L:1/16
 Q:1/4=80
 K:C
 V:V1 name="Alto" snm="Alt"
-V:V2 name="Melody" snm="Mel"
+V:V2 name="Vocal" snm="Voc"
 [V:V1]
 z8 | C2 D2 E2 F2 | G4 G4 | A3 A c2 A2 |
 c4 z4 | c2 B2 A2 G2 | A2 c2 G2 E2 | F2 G2 E2 D2 |
@@ -46,8 +46,8 @@ C4 G4 | A3 B c4 | z8 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](aki_no_minori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtx47qn65c9bup63NCkoAEUeLKz-8XGCc-mbNNU0NLiUrRVsDDgsrdVcOayMdI3sePi0tfiUlAgoBOkIji_tCg51Urh6ZSNz9b2PN0xTUHDyMDIQM_AwEzPwMLEWFNHIcDIwEQvqyAdpNw3sSg9My8xJzPRSsHYxPTlgkYFIz1DPSMLhSe7el42r3ixZxXQJD0FjWcz1j6d1GP0dOcWw2dzOowsnk1fqskFMsGnsigzudgKxDTUA5GPm5c8bm553LT6cXPf4yYguxcoNPtxczeY0_64uQ3IB3pg_-OmjY-b1oJF1z5u3qMAEgKqap7_uLnxcXMP2HQjiJGNkx839jxuXAv0_OPGVY8b9wOF2h43Lnzc1PG4cfbjxmVA_nyw5PTHTS2PGycBzXvcuBqicQVIFMSYCzbSGOrKrsfNqx83bQa7ctXj5g6g_bsfN_c_btr-uGkT0CFAPtALq8DuW_O4uRNkJNC5IIcC3QeSawXze7i09Lm4fBMz86x8U3PyUyodagxqFKpBlijYGJpp2YFZNQqGCroKRkBsDMQmQFyjYAokQRBG1yiYgWkzBcM4MAUSAjNB0ACmCmYeSMIcqg5kBEQ7WBjEBdlTA7YJxgPZDnEHVvNwuMYc4YQauCYYrOGqhfrdMackH4fPMTSRGRbIHkfxAblhgeZzJPPwhwVIIdjnunbAHJSZpwCklbkA)]
-- [鋼琴伴奏 TMD 檔案](aki_no_minori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtx47qn65c9bup63NCkoAEUeLKz-8XGCc-mbNNUeNQwRSEgMzEvX8ExOTk_tyAxLzM3Na9EQUuLS9FWwcKAy95WwZnLxkjfxI6LS1-LS0GBTBNBOoPzS4uSU60Unk7Z-Gxtz9Md0xQ0jAyMDPQMDMz0DCxMjDV1FAKMDEz0sgrSQcp9E4vSM_MSczITrRSMTUxfLmhUMNIz1DOyUHiyq-dl84oXe1YBTdJT0Hg2Y-3TST1GT3duMXw2p8PI4tn0pZpcWvpcXL6JmXlWvqk5-SmVDjUGNQrVIGMVbAzNtOzArBoFQwVdBSMgNgZiEyCuUTAFkiAIo2sUzMC0mYJhHJgCCYGZIGgAUwUzDyRhDlUHMgKiHSwM4oLsqQHbBOOBbIe4A6t5OFxjjnBCDVwTDNZw1UL97phTko_D5xiayAwLZI-j-IDcsEDzOZJ5-MMCpBDhc3ASDPLA4XnjeG3TeG2QgUDKXCdeG2QzSEQb5AwzIF8bEgJAAW2QfSB5GBsmY6INCw2guDZy6gBJQQSwhhVcuRGQAQogmFkwGxCmw5XCpOCOBPoe5kywB1BlkbwFVgg0j7BCjMABQZjF0DiA-9oc4TY8UlgixQdXpBjGw6yEMbCLmejgFUSw4EkJJGAKFoZIggVwGGSEUIykD6c4HrdDjEfSgkMYHka6dsAyLzNPAUgrcwEA)]
+- [主旋律 TMD 檔案](aki_no_minori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtx47qn65c9bup63NCkoAEUeLKz-8XGCc-mbNNU0NLiUrRVsDDgsrdVcOayMdI3sePi0tfiUlAgoBOkIji_tCg51Urh6ZSNz9b2PN0xTUHDyMDIQM_AwEzPwMLEWFNHIcDIwEQvqyAdpNw3sSg9My8xJzPRSsHYxPTlgkYFIz1DPSMLhSe7el42r3ixZxXQJD0FjWcz1j6d1GP0dOcWw2dzOowsnk1fqskFMsGnsigzudgKxDTUA5GPm5c8bm553LT6cXPf4yYguxcoNPtxczeY0_64uQ3IB3pg_-OmjY-b1oJF1z5u3qMAEgKqap7_uLnxcXMP2HQjiJGNkx839jxuXAv0_OPGVY8b9wOF2h43Lnzc1PG4cfbjxmVA_nyw5PTHTS2PGycBzXvcuBqicQVIFMSYCzbSGOrKrsfNqx83bQa7ctXj5g6g_bsfN_c_btr-uGkT0CFAPtALq8DuW_O4uRNkJNC5IIcC3QeSawXze7i09Lm4fBMz86zC8pMTcxxqDGoUqkF2KNgYmmnZgVk1CoYKugpGQGwMxCZAXKNgCiRBEEbXKJiBaTMFwzgwBRICM0HQAKYKZh5IwhyqDmQERDtYGMQF2VMDtgnGA9kOcQdW83C4xhzhhBq4Jhis4aqFet0xpyQfh88xNJEZFsgeR_EBuWGB5nMk8_CHBUgh2Oe6dsAMlJmnAKSVuQA)]
+- [鋼琴伴奏 TMD 檔案](aki_no_minori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtx47qn65c9bup63NCkoAEUeLKz-8XGCc-mbNNUeNQwRSEgMzEvX8ExOTk_tyAxLzM3Na9EQUuLS9FWwcKAy95WwZnLxkjfxI6LS1-LS0GBTBNBOoPzS4uSU60Unk7Z-Gxtz9Md0xQ0jAyMDPQMDMz0DCxMjDV1FAKMDEz0sgrSQcp9E4vSM_MSczITrRSMTUxfLmhUMNIz1DOyUHiyq-dl84oXe1YBTdJT0Hg2Y-3TST1GT3duMXw2p8PI4tn0pZpcWvpcXL6JmXlWYfnJiTkONQY1CtUgUxVsDM207MCsGgVDBV0FIyA2BmITIK5RMAWSIAijaxTMwLSZgmEcmAIJgZkgaABTBTMPJGEOVQcyAqIdLAziguypAdsE44Fsh7gDq3k4XGOOcEINXBMM1nDVQr3umFOSj8PnGJrIDAtkj6P4gNywQPM5knn4wwKkEOFzcAoM8sDheeN4bdN4bZCBQMpcJ14bZDNIRBvkDDMgXxsSAkABbZB9IHkYGyZjog0LDaC4NnLqAElBBLCGFVy5EZABCiCYWTAbEKbDlcKk4I4E-h7mTLAHUGWRvAVWCDSPsEKMwAFBmMXQOID72hzhNjxSWCLFB1ekGMbDrIQxsIuZ6OAVRLDgSQkkYAoWhkiCBXAYZIRQjKQPpzget0OMR9KCQxgeRrp2wCIvM08BSCtzAQA)]
 
 ## 分析
 
@@ -100,7 +100,7 @@ C4 G4 | A3 B c4 | z8 |
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Alto          : C4 – C5 (12 個半音 / 1.0 個八度, 29 個音符)
-  - Melody        : C4 – C5 (12 個半音 / 1.0 個八度, 29 個音符)
+  - Vocal         : C4 – C5 (12 個半音 / 1.0 個八度, 29 個音符)
 ================================================================================
 ```
 

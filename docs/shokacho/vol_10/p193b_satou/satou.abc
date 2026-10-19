@@ -1,10 +1,11 @@
 X:1
 T:サトウ 砂糖
+C:曲：永井幸次
 M:2/4
 L:1/16
 Q:1/4=108
 K:D
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 F3 A A2 A2 | F2 A2 A4 | B3 B G2 B2 | A4 z4 |
 F3 F F2 F2 | A3 F E2 D2 | E3 F F2 E2 | D4 z4 |

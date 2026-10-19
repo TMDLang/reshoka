@@ -5,7 +5,7 @@ L:1/16
 Q:1/4=80
 K:C
 V:V1 name="Alto" snm="Alt"
-V:V2 name="Melody" snm="Mel"
+V:V2 name="Vocal" snm="Voc"
 [V:V1]
 z8 | C2 D2 E2 F2 | G4 G4 | A3 A c2 A2 |
 c4 z4 | c2 B2 A2 G2 | A2 c2 G2 E2 | F2 G2 E2 D2 |

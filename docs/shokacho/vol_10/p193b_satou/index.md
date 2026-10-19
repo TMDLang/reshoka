@@ -2,7 +2,8 @@
 
 <audio controls src="satou.mp3"></audio>
 
-- 詞曲作者：未在 TMD metadata 中提供
+- 詞：澄宮崇仁親王
+- 曲：永井幸次
 
 ## 說明
 
@@ -24,11 +25,12 @@ Tempo / Expression: 軽快ニ
 ```abc
 X:1
 T:サトウ 砂糖
+C:曲：永井幸次
 M:2/4
 L:1/16
 Q:1/4=108
 K:D
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 F3 A A2 A2 | F2 A2 A4 | B3 B G2 B2 | A4 z4 |
 F3 F F2 F2 | A3 F E2 D2 | E3 F F2 E2 | D4 z4 |
@@ -36,8 +38,8 @@ F3 F F2 F2 | A3 F E2 D2 | E3 F F2 E2 | D4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](satou.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVxc8fjpmUKGs8XND3fPE1TQUuLS9FWwdDAgsveVsGFy8ZI38SOi0tfi0tBAYtykGhwfmlRcqqVwtMpG5-t7Xm6Y5qChpGBkYGegYGZnoGFibGmjkKAoaWxXlZBuoJGUn5JSX4uWJ9vYlF6Zl5iTmailcLj5pbHza2Pm9bqKRia6hnpGespaDzb1_J03bpn6_Y_2dH9dN_CJ3vnKDxfvfTFmoUvZ7eBDXDOzy3IL04tslJ4tmHHk11Tn-7c8WwNSN2z2ZsU9BV8KosykzOLS4DSYJOebml_srvxxbJVz_u6sZkONjMkFWgmULNrRUFRanFxZn6elcKL3Xuf7l_9uLmbC6QCbGyxFYhpqAcJle2Pm9c-bloCD57Hzf1A0UWPm-eBRJu7gN5bBvTb4-ZFSEq6HjevBEqsACvpBvK5tPS5uHwTM_OsfFNz8lMqHWoMahSqQTYo2BiaadmBWTUKxgq6QGgKhCBSFyoC44FgjYIZmDZTMAGTIBGYnAFMDYppxmAahGEqjRWMgKQhWATEgqkBsWvA4qim1XJx6doBozQzTwFIK3MBAA)]
-- [鋼琴伴奏 TMD 檔案](satou_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVxc8fjpmUKGs8XND3fPE1T4VHDFIWAzMS8fAXH5OT83ILEvMzc1LwSBS0tLkVbBUMDCy57WwUXLhsjfRM7Li59LS4FBRKMAakOzi8tSk61Ung6ZeOztT1Pd0xT0DAyMDLQMzAw0zOwMDHW1FEIMLQ01ssqSFfQSMovKcnP1QTp800sSs_MS8zJTLRSeNzc8ri59XHTWj0FQ1M9Iz1jPQWNZ_tanq5b92zd_ic7up_uW_hk7xyF56uXvliz8OXsNrABzkB35BenFlkpPNuw48muqU937ni2BqTu2exNCvoKPpVFmcmZxSVAabBJT7e0P9nd-GLZqud93dhM1-TS0ufi8k3MzLPyTc3JT6l0qDGoUagG2aRgY2imZQdm1SgYK-gCoSkQgkhdqAiMB4I1CmZg2kzBBEyCRGByBjA1KKYZg2kQhqk0VjACkoZgERALpgbErgGLo5pWC3U6OJKCPHC43TRe21Ab5gEgSxtkGYxGkkaXgvjKUNtEG-YzM5BSkPdggiBpVE3oXkWy3BjBgTMQBoDkgeaDvAqShTnNXAcihq4dJg4MzHhtqAYEC0cQ-eAKIsN4qAY4A7uYiQ6MjWBBVZqCBdC9j9dgIxADzAN6FW4egoXDZKCXdO2AOSkzTwFIK3MBAA)]
+- [主旋律 TMD 檔案](satou.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVxc8fjpmUKGs8XND3fPE1TQUuLS9FWwdDAgsveVsGFq05B6cXKee_3zHq2r-XpunVPt7Q_2d34Ytmq533dSiDJZ7M3gSQ37Hiya-rTnTuerVmoxGVjpG9ix8Wlr8WloIDFCpBocH5pUXKqlcLTKRufre15umOagoaRgZGBnoGBmZ6BhYmxpo5CgKGlsV5WQbqCRlJ-SUl-Llifb2JRemZeYk5mopXC4-aWx82tj5vW6ikYmuoZ6RnrKWhAXPls3f4nO7qf7lv4ZO8cheerl75Ys_Dl7DawAc75uQX5xalFVgrIbgaqA3pEQV_Bp7IoMzmzuAQojeFfbKaDzQxJBZoJ1OxaUVCUWlycmZ9npfBi996n-1c_bu7mAqkAG1tsBWIa6kFCZfvj5rWPm5bAg-dxcz9QdNHj5nkg0eYuoPeWAf32uHkRkpKux80rgRIrwEq6gXwuLX0uLt_EzDyrsPzkxByHGoMahWqQBQo2hmZadmBWjYKxgi4QmgIhiNSFisB4IFijYAamzRRMwCRIBCZnAFODYpoxmAZhmEpjBSMgaQgWAbFgakDsGrA4qmm1XFy6dsAYzcxTANLKXAA)]
+- [鋼琴伴奏 TMD 檔案](satou_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVxc8fjpmUKGs8XND3fPE1T4VHDFIWAzMS8fAXH5OT83ILEvMzc1LwSBS0tLkVbBUMDCy57WwUXrjoFpRcr573fM-vZvpan69Y93dL-ZHfji2Wrnvd1K4Ekn83eBJLcsOPJrqlPd-54tmahEpeNkb6JHReXvhaXggIJVoNUB-eXFiWnWik8nbLx2dqepzumKWgYGRgZ6BkYmOkZWJgYa-ooBBhaGutlFaQraCTll5Tk52qC9PkmFqVn5iXmZCZaKTxubnnc3Pq4aa2egqGpnpGesZ6CBsT1z9btf7Kj--m-hU_2zlF4vnrpizULX85uAxvgDHRHfnFqkZUCsl-A6oAeVNBX8KksykzOLC4BSmOEAzbTNbm09Lm4fBMz86zC8pMTcxxqDGoUqkEWKdgYmmnZgVk1CsYKukBoCoQgUhcqAuOBYI2CGZg2UzABkyARmJwBTA2KacZgGoRhKo0VjICkIVgExIKpAbFrwOKoptVCXQ6OoyAPHG43jdc21IZ5AMjSBlkGo5Gk0aUgvjLUNtGG-cwMpBTkPZggSBpVE7pXkSw3RnDgDIQBIHmg-SCvgmRhTjPXgYiha4eJAwMzXhuqAcHCEUQ-uILIMB6qAc7ALmaiA2MjWFCVpmABdO_jNdgIxADzgF6Fm4dg4TAZ6CVdO2BGysxTANLKXAA)]
 
 ## 分析
 
@@ -89,7 +91,7 @@ F3 F F2 F2 | A3 F E2 D2 | E3 F F2 E2 | D4 z4 |
      B  : ████████                  10.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : D4 – B4 (9 個半音 / 0.8 個八度, 25 個音符)
+  - Vocal         : D4 – B4 (9 個半音 / 0.8 個八度, 25 個音符)
 ================================================================================
 ```
 

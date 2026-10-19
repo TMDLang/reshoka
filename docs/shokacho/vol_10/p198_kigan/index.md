@@ -32,7 +32,7 @@ M:4/4
 L:1/16
 Q:1/4=80
 K:F
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 F3 A c4 A8 | d3 c c12 | B3 A B2 c2 d2 f6 | c8 z8 |
 A3 G F2 A2 d2 c6 | c3 B G4 z8 | A3 G F2 A2 d2 c6 | c8 z8 |
@@ -42,8 +42,8 @@ A3 G F2 G2 A2 B6 | c3 d c12 | d3 f c2 A2 B2 G6 | F8 z8 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kigan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2dsfL2Y0KGhBaU0FLi0vRVsHCgMveVsGNy8ZE38SOi0tfi0tBAV0pSCg4v7QoOdVK4emUjc_W9jzdMU1Bw8jAyEDPwMBMz8DCxFhTRyHA0NJCL6sgHaTcN7EoPTMvMScz0UrB0FTPSM_QWE9B4-mS5c_WLjY0fbpzi9GzOR2Gxs-mLwWb7lKZl5ibmVxspeCTmZeqYGilkJumA2EbKyQlFikYA0UKoCImIFkFXTuFNC6QXp_KIpBOENNQD0Q-blryuGnv4-Ylj5vnPW7a9rhp_ePmlUDRrY-b1oIlFj5u3vO4uU3hcXPX4-b5IFUgfvvjptWPm3Y-bl4AlOh_3Lz6cXPf4-YVYLklYHObOx43r3_ctP9x8yqQ2uYZQEVAc4EsIH_N4-ZesNpFYHObtoBEgW4AOgakrxMouulx03aw8pVghQvAzjeCuLmx63HjnsdNvY8b1z1uXPK4EcgAmt3Y_bhx0uPG_Y8bZz9uXAa0qx8k1NTzYjvQHUCJ6Y-bGsCqmoDaex43Av3XAjFuFUhXUweY0fe4cSqQDRQFUp2PGzc8blwBNg5k_Eyw8atBNja1PW7qBopOftw08XHjFBAJNE5Ln4vLNzEzz8o3NSc_pdKhxqBGoRpkiYKNoZmWHZhVo2CooAuExgqmYBrEgtAwWKNgBqZN4SrQYY2CCVQniAapAukwjENRgq7ZAN0QqHMg1huBnQVig4xC1gszyQSoBodJRJtB2DVQT5gjfAPxKrJZZjpgBpDCHUDGEDVACswCOR3sOIgw3FXxRDoL2YMgs0B8ZIfBPGiGx0mQWAX6C6QEZgAsTCFKIEkDn3NqubiA2RmUyEDZWpkLAA)]
-- [鋼琴伴奏 TMD 檔案](kigan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2dsfL2Y0KGhBaU-FRwxSFgMzEvHwFx-Tk_NyCxLzM3NS8EgUtLS5FWwULAy57WwU3LhsTfRM7Li59LS4FBWKNACkNzi8tSk61Ung6ZeOztT1Pd0xT0DAyMDLQMzAw0zOwMDHW1FEIMLS00MsqSAcp900sSs_MS8zJTLRSMDTVM9IzNNZT0Hi6ZPmztYsNTZ_u3GL0bE6HofGz6Us1ubT0ubh8EzPzrHxTc_JTKh1qDGoUqkGGKNgYmmnZgVk1CoYKukBorGAKpkEsCA2DNQpmYNoUrgId1iiYQHWCaJAqkA7DOBQl6JoN0A2BOgdivRHYWSA2yChkvTCTTIBqcJhEtBmEXQP1hDnCNxCvIptlpgNmACncAWQMUQOkwCyQ08GOgwjDXRVPpLOQPQgyC8RHdhjMg2Z4nASJVaC_QEpgBsDCFKIEkjTwOacWmsLAiTvIA0cSM47XNo3XhiU0Q21jbZizQMLamCnOUNtEG5bqkJVj8UW8tpE2evKDaUdLguY6IMUws1B5uEIayYGI9AQzHzVNIRtoAtIIFsBlPikmIwcBMhtn8tA21YanXCQOMEGALMVMwmBr4ckYaIUOniCHOJyoBG0EDAF4okbhEB3e2JM3IhTMCCQQRFICBgJMKbhQgKUctJiCaENOskD1KDwC2cAHVzYwhHkek4Gw2ESHGFVG8ECFMRD6EKpM4WIIFs6SDsM2sk0k0ixMVZS5jbiQIyoSKAs4cm3F4gGE9fjMwpogde2AjYXMPAUgrcwFAA)]
+- [主旋律 TMD 檔案](kigan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2dsfL2Y0KGhBaU0FLi0vRVsHCgMveVsGNy8ZE38SOi0tfi0tBAV0pSCg4v7QoOdVK4emUjc_W9jzdMU1Bw8jAyEDPwMBMz8DCxFhTRyHA0NJCL6sgHaTcN7EoPTMvMScz0UrB0FTPSM_QWE9B4-mS5c_WLjY0fbpzi9GzOR2Gxs-mLwWb7lKZl5ibmVxspeCTmZeqYGilkJumA2EbKyQlFikYA0UKoCImIFkFXTuFNC6QXp_KIpBOENNQD0Q-blryuGnv4-Ylj5vnPW7a9rhp_ePmlUDRrY-b1oIlFj5u3vO4uU3hcXPX4-b5IFUgfvvjptWPm3Y-bl4AlOh_3Lz6cXPf4-YVYLklYHObOx43r3_ctP9x8yqQ2uYZQEVAc4EsIH_N4-ZesNpFYHObtoBEgW4AOgakrxMouulx03aw8pVghQvAzjeCuLmx63HjnsdNvY8b1z1uXPK4EcgAmt3Y_bhx0uPG_Y8bZz9uXAa0qx8k1NTzYjvQHUCJ6Y-bGsCqmoDaex43Av3XAjFuFUhXUweY0fe4cSqQDRQFUp2PGzc8blwBNg5k_Eyw8atBNja1PW7qBopOftw08XHjFBAJNE5Ln4vLNzEzzyosPzkxx6HGoEahGmSHgo2hmZYdmFWjYKigC4TGCqZgGsSC0DBYo2AGpk3hKtBhjYIJVCeIBqkC6TCMQ1GCrtkA3RCocyDWG4GdBWKDjELWCzPJBKgGh0lEm0HYNVBPmCN8A_EqsllmOmAGkMIdQMYQNUAKzAI5Hew4iDDcVfFEOgvZgyCzQHxkh8E8aIbHSZBYBfoLpARmACxMIUogSQOfc2q5uIC5GZTGQLlamQsA)]
+- [鋼琴伴奏 TMD 檔案](kigan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2dsfL2Y0KGhBaU-FRwxSFgMzEvHwFx-Tk_NyCxLzM3NS8EgUtLS5FWwULAy57WwU3LhsTfRM7Li59LS4FBWKNACkNzi8tSk61Ung6ZeOztT1Pd0xT0DAyMDLQMzAw0zOwMDHW1FEIMLS00MsqSAcp900sSs_MS8zJTLRSMDTVM9IzNNZT0Hi6ZPmztYsNTZ_u3GL0bE6HofGz6Us1ubT0ubh8EzPzrMLykxNzHGoMahSqQWYo2BiaadmBWTUKhgq6QGisYAqmQSwIDYM1CmZg2hSuAh3WKJhAdYJokCqQDsM4FCXomg3QDYE6B2K9EdhZIDbIKGS9MJNMgGpwmES0GYRdA_WEOcI3EK8im2WmA2YAKdwBZAxRA6TALJDTwY6DCMNdFU-ks5A9CDILxEd2GMyDZnicBIlVoL9ASmAGwMIUogSSNPA5pxaawMBpO8gDRxIzjtc2jdeGJTRDbWNtmLNAwtqYKc5Q20QbluqQlWPxRby2kTZ68oNpR0uC5jogxTCzUHm4QhrJgYj0BDMfNU0hG2gC0ggWwGU-KSYjBwEyG2fy0DbVhqdcJA4wQYAsxUzCYGvhyRhohQ6eIIc4nKgEbQQMAXiiRuEQHd7YkzciFMwIJBBEUgIGAkwpuFCApRy0mIJoQ06yQPUoPALZwAdXNjCEeR6TgbDYRIcYVUbwQIUxEPoQqkzhYggWzpIOwzayTSTSLExVlLmNuJAjKhIoCzhybcXiAYT1-MzCmiB17YBthcw8BSCtzAUA)]
 
 ## 分析
 
@@ -95,7 +95,7 @@ A3 G F2 G2 A2 B6 | c3 d c12 | d3 f c2 A2 B2 G6 | F8 z8 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : C4 – F5 (17 個半音 / 1.4 個八度, 60 個音符)
+  - Vocal         : C4 – F5 (17 個半音 / 1.4 個八度, 60 個音符)
 ================================================================================
 ```
 

@@ -1,6 +1,6 @@
 {
   "total_clusters": 93,
-  "total_songs_in_clusters": 213,
+  "total_songs_in_clusters": 215,
   "clusters": [
     {
       "id": "akinokoe",
@@ -68,9 +68,9 @@
     {
       "id": "akinokojo",
       "display_title": "秋の湖上／秋ノ湖上",
-      "category": "same_title_different_song",
-      "relation_type": "同名異曲",
-      "description": "同名異曲（各冊收錄之不同詞曲版本）",
+      "category": "same_song_shokacho",
+      "relation_type": "同曲",
+      "description": "同曲（〈秋の湖上／秋ノ湖上〉；收錄於《新定兒童唱歌》高等科女子用與《唱歌帖》P026《蓬萊唱歌集》抄譜，高女用為イ調、手抄本為ト調）",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo",
@@ -95,7 +95,7 @@
               "jp_title": "秋ノ湖上",
               "key": "G",
               "meter": "3/8",
-              "relation": "同名異曲"
+              "relation": "同曲"
             }
           ]
         },
@@ -122,7 +122,7 @@
               "jp_title": "秋の湖上",
               "key": "A",
               "meter": "3/8",
-              "relation": "同名異曲"
+              "relation": "同曲"
             }
           ]
         }
@@ -136,10 +136,10 @@
       "description": "同名異曲（各冊收錄之不同詞曲版本）",
       "entries": [
         {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari",
-          "stem": "ari",
-          "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/ari.tmd",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/index.md",
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame",
+          "stem": "ame",
+          "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/ame.tmd",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/index.md",
           "book_key": "shintei_jido_shoka/scores/grade_1_2020.006.0847.0001",
           "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "アメ",
@@ -188,9 +188,9 @@
           "tempo": "116",
           "peers": [
             {
-              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari",
-              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/index.md",
-              "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/ari.tmd",
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/ame.tmd",
               "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
               "raw_title": "アメ",
               "jp_title": "アメ",
@@ -226,9 +226,9 @@
           "tempo": "104",
           "peers": [
             {
-              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari",
-              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/index.md",
-              "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/ari.tmd",
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/ame.tmd",
               "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
               "raw_title": "アメ",
               "jp_title": "アメ",
@@ -2312,9 +2312,9 @@
     {
       "id": "inakanoyugure",
       "display_title": "田舍の夕暮／田舎の夕暮",
-      "category": "same_title_different_song",
-      "relation_type": "同名異曲",
-      "description": "同名異曲（各冊收錄之不同詞曲版本）",
+      "category": "same_song_shokacho",
+      "relation_type": "同曲",
+      "description": "同曲（北村季晴作曲〈田舍の夕暮〉；收錄於《新定兒童唱歌》高等科男子用與《唱歌帖》P022《中等音樂教科書／蓬萊唱歌集》抄譜）",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure",
@@ -2339,7 +2339,7 @@
               "jp_title": "田舎の夕暮",
               "key": "E,",
               "meter": "3/4",
-              "relation": "同名異曲"
+              "relation": "同曲"
             }
           ]
         },
@@ -2366,7 +2366,7 @@
               "jp_title": "田舍の夕暮",
               "key": "E,",
               "meter": "3/4",
-              "relation": "同名異曲"
+              "relation": "同曲"
             }
           ]
         }
@@ -3436,10 +3436,10 @@
     },
     {
       "id": "kokubetsu",
-      "display_title": "告別",
-      "category": "same_title_different_song",
-      "relation_type": "同名異曲",
-      "description": "同名異曲（各冊收錄之不同詞曲版本）",
+      "display_title": "告別／螢の光／送別の歌",
+      "category": "mixed_or_variant",
+      "relation_type": "同曲異詞＋同名異曲",
+      "description": "同曲異詞＋同名異曲（《新定兒童唱歌》五年級〈告別〉、《唱歌帖》P042〈螢の光〉與 P197〈送別の歌〉同採蘇格蘭民謠 *Auld Lang Syne* 旋律；高等科女子用〈告別〉為同名異曲）",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu",
@@ -3465,6 +3465,28 @@
               "key": "D",
               "meter": "3/4",
               "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_03/p042_hotaru_no_hikari",
+              "md_file": "shokacho/vol_03/p042_hotaru_no_hikari/index.md",
+              "tmd_file": "shokacho/vol_03/p042_hotaru_no_hikari/hotaru_no_hikari.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
+              "raw_title": "螢の光",
+              "jp_title": "螢の光",
+              "key": "F",
+              "meter": "4/4",
+              "relation": "同曲異詞"
+            },
+            {
+              "rel_dir": "shokacho/vol_10/p197_sobetsu_no_uta",
+              "md_file": "shokacho/vol_10/p197_sobetsu_no_uta/index.md",
+              "tmd_file": "shokacho/vol_10/p197_sobetsu_no_uta/sobetsu_no_uta.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
+              "raw_title": "送別の歌 (送別之歌)",
+              "jp_title": "送別の歌",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同曲異詞"
             }
           ]
         },
@@ -3492,6 +3514,126 @@
               "key": "F",
               "meter": "4/4",
               "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_03/p042_hotaru_no_hikari",
+              "md_file": "shokacho/vol_03/p042_hotaru_no_hikari/index.md",
+              "tmd_file": "shokacho/vol_03/p042_hotaru_no_hikari/hotaru_no_hikari.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
+              "raw_title": "螢の光",
+              "jp_title": "螢の光",
+              "key": "F",
+              "meter": "4/4",
+              "relation": "參照"
+            },
+            {
+              "rel_dir": "shokacho/vol_10/p197_sobetsu_no_uta",
+              "md_file": "shokacho/vol_10/p197_sobetsu_no_uta/index.md",
+              "tmd_file": "shokacho/vol_10/p197_sobetsu_no_uta/sobetsu_no_uta.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
+              "raw_title": "送別の歌 (送別之歌)",
+              "jp_title": "送別の歌",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "參照"
+            }
+          ]
+        },
+        {
+          "rel_dir": "shokacho/vol_03/p042_hotaru_no_hikari",
+          "stem": "hotaru_no_hikari",
+          "tmd_file": "shokacho/vol_03/p042_hotaru_no_hikari/hotaru_no_hikari.tmd",
+          "md_file": "shokacho/vol_03/p042_hotaru_no_hikari/index.md",
+          "book_key": "shokacho/vol_03",
+          "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
+          "raw_title": "螢の光",
+          "jp_title": "螢の光",
+          "norm_slug": "kokubetsu",
+          "key": "F",
+          "meter": "4/4",
+          "tempo": "84",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/kokubetsu.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "告別",
+              "jp_title": "告別",
+              "key": "F",
+              "meter": "4/4",
+              "relation": "同曲異詞"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu",
+              "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md",
+              "tmd_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/kokubetsu.tmd",
+              "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+              "raw_title": "告別",
+              "jp_title": "告別",
+              "key": "D",
+              "meter": "3/4",
+              "relation": "參照"
+            },
+            {
+              "rel_dir": "shokacho/vol_10/p197_sobetsu_no_uta",
+              "md_file": "shokacho/vol_10/p197_sobetsu_no_uta/index.md",
+              "tmd_file": "shokacho/vol_10/p197_sobetsu_no_uta/sobetsu_no_uta.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
+              "raw_title": "送別の歌 (送別之歌)",
+              "jp_title": "送別の歌",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同曲異詞"
+            }
+          ]
+        },
+        {
+          "rel_dir": "shokacho/vol_10/p197_sobetsu_no_uta",
+          "stem": "sobetsu_no_uta",
+          "tmd_file": "shokacho/vol_10/p197_sobetsu_no_uta/sobetsu_no_uta.tmd",
+          "md_file": "shokacho/vol_10/p197_sobetsu_no_uta/index.md",
+          "book_key": "shokacho/vol_10",
+          "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
+          "raw_title": "送別の歌 (送別之歌)",
+          "jp_title": "送別の歌",
+          "norm_slug": "kokubetsu",
+          "key": "F",
+          "meter": "2/4",
+          "tempo": "66",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/kokubetsu.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "告別",
+              "jp_title": "告別",
+              "key": "F",
+              "meter": "4/4",
+              "relation": "同曲異詞"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu",
+              "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md",
+              "tmd_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/kokubetsu.tmd",
+              "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+              "raw_title": "告別",
+              "jp_title": "告別",
+              "key": "D",
+              "meter": "3/4",
+              "relation": "參照"
+            },
+            {
+              "rel_dir": "shokacho/vol_03/p042_hotaru_no_hikari",
+              "md_file": "shokacho/vol_03/p042_hotaru_no_hikari/index.md",
+              "tmd_file": "shokacho/vol_03/p042_hotaru_no_hikari/hotaru_no_hikari.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
+              "raw_title": "螢の光",
+              "jp_title": "螢の光",
+              "key": "F",
+              "meter": "4/4",
+              "relation": "同曲異詞"
             }
           ]
         }
@@ -6119,9 +6261,9 @@
     {
       "id": "tanoshikiwagaya",
       "display_title": "樂しき我家／樂シキ我家",
-      "category": "same_title_different_song",
-      "relation_type": "同名異曲",
-      "description": "同名異曲（各冊收錄之不同詞曲版本）",
+      "category": "mixed_or_variant",
+      "relation_type": "同詞異曲＋同名異曲",
+      "description": "同詞異曲＋同名異曲（《新定兒童唱歌》六年級〈樂しき我家〉與《唱歌帖》P027〈樂シキ我家〉同採「花こそ薫らねわがこの園」歌詞而譜曲不同；《唱歌帖》P102〈樂しき我家〉則採英國名曲 *Home! Sweet Home!*〈埴生の宿〉旋律）",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya",
@@ -6146,7 +6288,7 @@
               "jp_title": "樂シキ我家",
               "key": "B,",
               "meter": "4/4",
-              "relation": "同名異曲"
+              "relation": "同詞異曲"
             },
             {
               "rel_dir": "shokacho/vol_02/p102_tanoshiki_wagaya",
@@ -6184,7 +6326,7 @@
               "jp_title": "樂しき我家",
               "key": "E",
               "meter": "6/8",
-              "relation": "同名異曲"
+              "relation": "同詞異曲"
             },
             {
               "rel_dir": "shokacho/vol_02/p102_tanoshiki_wagaya",

@@ -22,16 +22,20 @@
 
 ```text
 一、
-タニマ ノ キリ ハ タチノボリ
-ヤマ ノ コズエ ヲ ツツミタリ
-ホノカニ ミユル スギ ノ ムラ
-マツ ノ コダチ モ カクレ ユク
+ユフヒ ニシ ニ シヅミ ユケバ
+ウスキ キヌ ノ トバリ オホヒ
+ヤマ モ カハ モ カゲ ニ ヤドシ
+ヤメル ヨヲバ ムネ ニ イダキ
+クラキ ヨ ノ マモリ トテ
+イマシ キリ タチコム
 
 二、
-あさひ の かげ の さしそひ て
-きり の とばり は はれそめ ぬ
-みどり の やま も あらはれ て
-さやか に ひびく とり の こゑ
+ゆめぢ もりし みづ の うた の
+とり の こゑ に かはり ゆけば
+ねむり もの の まゆ を なでて
+あさ の かぜ と ふきて わたる
+よ を しひ に ゆづり つつ
+いまし きり きえさる
 ```
 
 ## ABC
@@ -61,7 +65,7 @@ e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kiri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5Z_n7PR1gslNBS4tL0VbB0MSEy95WwZHLxljfwo6rTkHpafuuFzOnvt8z68XkNU-nbHw5u03B0MD85YLGx80rHjevAhrwbMZaIz1jPSMToDFKIC2PG7qAKp-t7Xm6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgsgADQzO9rIJ0JS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBrnixct7T1hXPprUDHfJ0Q--z9k4FmP1ApwB9BtL2YtX-Zw3LQRq6e1_MnA8Ufdy0BCioAAwHBaAYUK-jwtMly1GEgJp7Hs1cZQsKNZAZK3a_WDEDZ1Ap6CvAg4oLpP7JjobHDY0g1uOm_Y-bux83z1N43NwH5K0FKX_c3A-RAOrve9w8BygGVtu8BKFw8-OmXY-bVgB5m4C4BYzmgzVB1c4G6W1aDTQdyJn_uHnZ4-bVQH07HzetgxjRvOBx80qI2nlA7XBzmxuAFgN5i4C81Y-b1j9uXgPkLQOyIG7f1QNze2PT48apjxuBDmgEmtnY_bhxEpQJFJ3-uHEuRG4ZRHHv46YuqPSKx40bILz1IPy4qQekuAloa-MaiOL9jxtXwtU3tTxu3AekmsBWNnVCtCBMngpWAfRnI9CHjZseN25-3AgMQaA1cBsnP26aCFJMeVKDAgUtfS4u78yiTKuAzMS8fIcagxqFapANCjaGZlp2YFZ1blotmFGjYKygC8c1CqZAUlfBRMEIzAORMFwDFAXJGSsYgngQY1BMAakCy0FZ5vEgBFdbAFMLU2cGloSoAbJNwQi70eQ6EN1hCEeBIAGHIbkJSTUi5IyAhiMshzgM5kxjoGMQjjZDloPqNgWKgvSAMLqXYerBcgoaJkCGiaaqhq6uJtw_IL9AFBmADajl4tK1UwBFuwISrcwFAA)]
+- [主旋律 TMD 檔案](kiri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5Z_n7PR1gslNBS4tL0VbB0MSEy95WwZHLxljfwo6rTkHpafuuFzOnvt8z68XkNU-nbHw5u03B0MD85YLGx80rHjevAhrwbMZaIz1jPSMToDFKIC2PG7qAKp-t7Xm6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgsgADQzO9rIJ0JS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBrnixct7T1hXPprUDHfJ0Q--z9k4FmP1ApwB9BtL2YtX-Zw3LQRq6e1_MnA8Ufdy0BCioAAwHBaAYUK-jwtMly1GEgJp7Hs1cZQsKNZAZK3a_WDEDZ1Ap6CvAg4oLpP7JjobHDY0g1uPmZY-bpz5ungRkdT9u2g6iFID04-bWx83zwdJNGx83TwCrbQJydj5uWgtkrX3c3AOU7QPiDqA0yJLHTaseN88GGgUxd8nj5nlAahFQfPXj5n44s2kTxA6Qgk6gTXDVCx83rwaygA7eBDQRyFrwuLkX6h6gdAPQUogr1j9uXgl2RfMKqBPmAQ0HOwHkmDaIKpD9YA-B3Apy3f7HzY2PmzYDzYWEwa4eWBg0tT1uanzcCHJf0-OmrseN0xUeN-5_3LgUSK0D4rbHjcCgaFwHVty4AqgEKjH5cdNEIAV0dmP348b1YAmgYY0THzdugChe-7gJ6HCQcBNECwjvAyoCigDDvHHV48bljxuXQRQDlUyFKgEaNwdkFxBvfdzYC1QC1NAPdMfjpm6ImzugJkx_3AgMUZAbQDYvhThuCRBBzGwBWQf2UC9ECmhWB9AeqDmUJ30oUNDS5-LyzizKtArITMzLd6gxqFGoBtmgYGNopmUHZlXnptWCGTUKxgq6cFyjYAokdRVMFIzAPBAJwzVAUZCcsYIhiAcxBsUUkCqwHJRlHg9CcLUFMLUwdWZgSYgaINsUjLAbTa4D0R2GcBQIEnAYkpuQVCNCzghoOMJyiMNgzjQGOgbhaDNkOahuU6AoSA8Io3sZph4sp6BhAmSYaKpq6Opqwv0D8gtEkQHYgFouLl07BVC0KyDRylwA)]
 - [鋼琴伴奏 TMD 檔案](kiri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5Z_n7PR1A8nHz7pfde55P2PJkz5anS_ufd3a839OpoKXFpWirYGhiwmVvq-DIZWOsb2HHVaeg9LR914uZU9_vmfVi8pqnUza-nN2mYGhg_nJB4-PmFY-bVwGNfDZjrZGesZ6RCdAYJZCWxw1dQJXP1vY83THtcUM3UImRgZGBnoGBmZ6BhYkxUFmAgaGZXlZBuhIXl3dmUaZVQGZiXn6Qh0ONQY1CNZcCENgYmmnZgVnVuWm1YEaNgqG2sYIuClmjYB6vbQpk6CqYKBjBBEAMVAqk1wSszFjBEMSHGI1mMlSxWbw2WA2MbwhkgBBcWwFMG1AlRAFIE1iLabw2WCWQawpGuOyini9wuR7sbJh7QJCw6yGuNgY6Bk0PIg6MgHZjugrieJC7QHxjoDdQ_WeobYasAmqWqYIZVC-ExAwpE7g-oEkQNQoaJkCNJpqqGrq6mlALwL6EOgbIhgiCoAHY1FrkZOaDK5nBw8UQ5HnTeBAJZoLMBNFGCHGsQhj60MPODCwHUQFhw8yBkMYQMbRoMoKpB1EmUG0QpVi0IeUWqnoDu-shViM7hgTXQ0hIFKFFATHOgjrCGNk9EAvA8lC7kAMDrBR71EBUI2mHuRwePzBXwFXA05aunQIoeSkg0cpcAA)]
 
 ## 分析

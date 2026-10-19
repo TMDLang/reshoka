@@ -2,7 +2,8 @@
 
 <audio controls src="tsuki_to_gan.mp3"></audio>
 
-- 詞曲作者：未在 TMD metadata 中提供
+- 詞：澄宮崇仁親王
+- 曲：本居長世
 
 ## 說明
 
@@ -27,11 +28,12 @@ Tempo / Expression: 優美ニ
 ```abc
 X:1
 T:ツキトガン 月與雁
+C:曲：本居長世
 M:4/4
 L:1/16
 Q:1/4=84
 K:F
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 A4 c4 G4 G4 | F4 A4 D4 D4 | B4 A4 G4 ^G4 | A12 z4 |
 A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
@@ -39,8 +41,8 @@ A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuki_to_gan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae3j5o7HTWseN29W0Hg2p-NFR_vL2Y2aClpaXIq2ChYmXPa2Cm5cNib6JnZcXPpaXAoK-LSBpIPzS4uSU60Unk7Z-Gxtz9Md0xQ0jAyMDPQMDMz0DCxMjDV1FAIMLY30sgrSFTRK8gvAmnwTi9Iz8xJzMhOtFJ7ta3m6bt2zdfuf7Oh-um_hk71zFJ6vXvpizcKXs9sUni5Z_nLGqmfr-55NX_ps2oYXjfOeL9n3fOaeFwt7FAxN9Yz0jPVA5jnn5xbkF6cWAU2bs-bpxtaXU7c_2TENaNSz2ZsU9BV8KosykzOLS2CWPd3S_mR344tlq573dQP9g-EAsBtDUoFmAjW7VhQUpRYXZ-bnAT3Zsur5vr7Hzd1cIBVgY4utQExDsDMeN88DhhCYXP24uUvhcdMqaOg1bQWKAuUngQKxafvjZqAhS0AKm4AKVwIl2sGc7Y-b9j9uXgE23QhiZGPX48Yljxt7HzdOfdy473HjOqDQqseN3UDW48bdj5s6gfzux01AVT0gJU2THzduAAqtALOWP25qe9zYz6Wlz8Xlm5iZZ-WbmpOfUulQY1CjUA0yXsHGQssOzKhRMFbQVTAFYiMorlEwBJIgUbN4GFGjYAIVA6tSBwuBuDBoABJBMhCkGESDcI2CGZBENgBihRGQDxIF2mCuEw8VRDWwlotL1w6YbDLzFIC0MhcA)]
-- [鋼琴伴奏 TMD 檔案](tsuki_to_gan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae3j5o7HTWseN29W0Hg2p-NFR_vL2Y2aCo8apigEZCbm5Ss4Jifn5xYk5mXmpuaVKGhpcSnaKliYcNnbKrhx2Zjom9hxcelrcSkokGMcSFtwfmlRcqqVwtMpG5-t7Xm6Y5qChpGBkYGegYGZnoGFibGmjkKAoaWRXlZBuoJGSX6BJkiTb2JRemZeYk5mopXCs30tT9ete7Zu_5Md3U_3LXyyd47C89VLX6xZ-HJ2m8LTJctfzlj1bH3fs-lLn03b8KJx3vMl-57P3PNiYY-CoamekZ6xHsg8Z6Cb8otTi4CmzVnzdGPry6nbn-yYBjTq2exNCvoKPpVFmcmZxSUwy55uaX-yu_HFslXP-7qB_sRwgCaXlj4Xl29iZp6Vb2pOfkqlQ41BjUI1yCYFGwstOzCjRsFYQVfBFIiNoLhGwRBIgkTN4mFEjYIJVAysSh0sBOLCoAFIBMlAkGIQDcI1CmZAEtkAiBVGQD5IFGiDuU48VBDVwFqo-8GxFuSB3QOG2iBzgaQ2yBtAo7RBdsDoGgXTeG2QyRBlxvHaYB_BaKDjgOq0Qe4AqQOrAYlAKYhPgTIg48AhBWGC5JGYyN6HGwPyL5wDZ4Dca6INChFMi5FMhDsbFEpwlfCgAjofKo-NhSXwfHAFHigQwIQp0GAYiSxuBhaBkDUKRmAaLGEEJ4CORdIMIZGDBKwcBBGmAlMUWBmSeShWgyBEDkUYwgEz4Z7UtQPmxMw8BSCtzAUA)]
+- [主旋律 TMD 檔案](tsuki_to_gan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae3j5o7HTWseN29W0Hg2p-NFR_vL2Y2aClpaXIq2ChYmXPa2Cm5cdQpKL1bOe79n1rN9LU_XrXu6pf3J7sYXy1Y97-tWAkk-m70JJDlnzdONrS-nbn-yY5oSl42JvokdF5e-FpeCAj6rQNLB-aVFyalWCk-nbHy2tufpjmkKGkYGRgZ6BgZmegYWJsaaOgoBhpZGelkF6QoaJfkFYE2-iUXpmXmJOZmJVgoQdz1bt__Jju6n-xY-2TtH4fnqpS_WLHw5u03h6ZLlL2esera-79n0pc-mbXjROO_5kn3PZ-55sbBHwdBUz0jPWA9knnN-bkF-cWoR0DQkjwCNAvpOQV_Bp7IoMzmzuARmGXIgAP2D4QCwG0NSgWYCNbtWFBSlFhdn5ucBPdmy6vm-vsfN3VwgFWBji61ATEOwMx43zwOGEJhc_bi5S-Fx0ypo6DVtBYoC5SeBArFp--NmoCFLQAqbgApXAiXawZztj5v2P25eATbdCGJkY9fjxiWPG3sfN0593LjvceM6oNCqx43dQNbjxt2PmzqB_O7HTUBVPSAlTZMfN24ACq0As5Y_bmp73NjPpaXPxeWbmJlnFZafnJjjUGNQo1ANMl3BxkLLDsyoUTBW0FUwBWIjKK5RMASSIFGzeBhRo2ACFQOrUgcLgbgwaAASQTIQpBhEg3CNghmQRDYAYoURkA8SBdpgrhMPFUQ1sJaLS9cOmGoy8xSAtDIXAA)]
+- [鋼琴伴奏 TMD 檔案](tsuki_to_gan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae3j5o7HTWseN29W0Hg2p-NFR_vL2Y2aCo8apigEZCbm5Ss4Jifn5xYk5mXmpuaVKGhpcSnaKliYcNnbKrhx1SkovVg57_2eWc_2tTxdt-7plvYnuxtfLFv1vK9bCST5bPYmkOScNU83tr6cuv3JjmlKXDYm-iZ2XFz6WlwKCuQ4AaQtOL-0KDnVSuHplI3P1vY83TFNQcPIwMhAz8DATM_AwsRYU0chwNDSSC-rIF1BoyS_QBOkyTexKD0zLzEnM9FKAeLeZ-v2P9nR_XTfwid75yg8X730xZqFL2e3KTxdsvzljFXP1vc9m7702bQNLxrnPV-y7_nMPS8W9igYmuoZ6RnrgcxzBropvzi1CGgakgeBRgF9raCv4FNZlJmcWVwCsww5cID-xHCAJpeWPheXb2JmnlVYfnJijkONQY1CNcgiBRsLLTswo0bBWEFXwRSIjaC4RsEQSIJEzeJhRI2CCVQMrEodLATiwqABSATJQJBiEA3CNQpmQBLZAIgVRkA-SBRog7lOPFQQ1cBaqPPBkRbkgd0Dhtogc4GkNsgbQKO0QXbA6BoF03htkMkQZcbx2mAfwWig44DqtEHuAKkDqwGJQCmIT4EyIOPAIQVhguSRmMjehxsD8i-cA2eA3GuiDQoRTIuRTIQ7GxRKcJXwoAI6HyqPjYUl8HxwBR4oEMCEKdBgGIksbgYWgZA1CkZgGixhBCeAjkXSDCGRgwSsHAQRpgJTFFgZknkoVoMgRA5FGMIBM-Ge1LUDZsTMPAUgrcwFAA)]
 
 ## 分析
 
@@ -92,7 +94,7 @@ A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : D4 – D5 (12 個半音 / 1.0 個八度, 28 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 28 個音符)
 ================================================================================
 ```
 

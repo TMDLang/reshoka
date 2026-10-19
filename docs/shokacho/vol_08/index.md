@@ -24,7 +24,7 @@
 | P019 | [**陣營の月（軍營之月）**](p019_jinei_no_tsuki/index.md) | — | `?=F` `<4/4>` `!=88` | P019.jpg |
 | P020 | [**深林逍遥（漫步深林）**](p020_shinrin_shoyo/index.md) | — | `?=A,` `<6/8>` `!=138` | P020.jpg, P021.jpg |
 | P021 | [**早く家へ帰りませう（快回家吧）**](p021_hayaku_ie_e_kaerimasho/index.md) | — | `?=C` `<4/4>` `!=100` | P021.jpg |
-| P022 | [**田舎の夕暮（鄉村的黃昏）**](p022_inaka_no_yugure/index.md) | — | `?=E,` `<3/4>` `!=66` | P022.jpg |
+| P022 | [**田舎の夕暮（鄉村的黃昏）**](p022_inaka_no_yugure/index.md) | 曲：北村季晴 | `?=E,` `<3/4>` `!=66` | P022.jpg |
 | P023 | [**春は行く（春將離去）**](p023_haru_wa_yuku/index.md) | — | `?=D` `<2/4>` `!=96` | P023.jpg |
 | P024 | [**夜の貝（夜之貝）**](p024_yoru_no_kai/index.md) | — | `?=B,` `<4/4>` `!=84` | P024.jpg |
 | P025 | [**星と花（星與花）**](p025_hoshi_to_hana/index.md) | — | `?=B,` `<3/4>` `!=80` | P025.jpg |

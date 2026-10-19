@@ -46,7 +46,7 @@ M:4/4
 L:1/16
 Q:1/4=96
 K:D
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 D4 E2 F2 E4 D4 | B,4 A,4 B,4 D4 | E4 E2 F2 A4 F4 | E12 z4 |
 E4 A2 F2 E4 D4 | B,4 D4 E8 | F4 D2 E2 F4 ^A4 | B12 z4 |
@@ -57,8 +57,8 @@ D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tairei_hoshukuka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZPnzZeueLu18vnTus7U9ChroAo8apii8WNPydP3q550dmgpaWlyKtgqWZlz2tgouXDYm-iZ2XFz6WlwKCqQaBdISnF9alJxqpfB0ykaggqc7piloGBkYGegZGJjpGViYGGvqKAQYWhjqZRWkg5Q75-cW5BenFgE17Nz8dNPCp3Pbn-zsVtBX8KksykzOLC6xUni5esbzKRteNEx9sqNBQePZtPaXzSuez2l82bjj6bpZYDv98ktSi60UfDNzU_PTixILMlJTFDSQfGiqm5OZl6pQXJKYlqZQlp-cmKNQnJxflKpQkFhcAlSbn4dwE8g8sN3FViCmoR6IfNy4_3Fj_-PGqY8b1z1unP-4sftxUydQtO1x48THjUseN_Y9blwG5Dc9btwH5m-Cia6D6W3qfNw04XHjarBxTUCzeh43dj1u3P24sResAqQQqAXIARoPNGQrkN_9uHH648bJYFGgPVshqiC6QFoeN3VBXNfyuHEamFz_uHEHOh_sJSOIP5qALgYaNhNMQrwCMnI12MVAu9Y-bpoEcTHQvhVgDwPRJIjvZj5uagS7GygN8QfICqBbgcYBRaeAdfRD_AF0-g6IHNi4pg6wdUDnzAAbQrY_jKHxATQfrBNiNgh1QSwG-mj946aex03dQP5WIAULYGCQA70JshgYS_NB8QHycD_EOKBBm8HyQK8AEVA5yMNAr4P9AQo1oL-gsQYxDmgDyE_k-ENLn4vLNzEzz8o3NSc_pdKhxqBGoRqkUcHGQssOzKhRMFTQVTBSMAZiXTC7RsEsHkiZgggwCyIIkgYpMwXSxnARGDQAiUANBImbYhoIsQeivAZshCHYQKBidYgqHOaBxEH2gmiQ7RDNMNPBZkMshSkyjANSNWC1MAh2MYr7IGKGIP1ApSiehbgQYiJEqRmQhFgLgyBZmIEwPUADgAYBSUOodpBjUF0N0woKHYRGhI9rubh07RRAcaYApJW5AA)]
-- [鋼琴伴奏 TMD 檔案](tairei_hoshukuka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZPnzZeueLu18vnTus7U9ChroAo8apii8WNPydP3q550dmmBuQGZiXr6CY3Jyfm5BYl5mbmpeiYKWFpeirYKlGZe9rYILl42JvokdF5e-FpeCArWsABkVnF9alJxqpfB0ykagxqc7piloGBkYGegZGJjpGViYGGvqKAQYWhjqZRWkK2gkojgwrSg_V6GgKDOvJDVFISc1MS0ntQSk2ASkWBNkuDNQdX5xahHQ-J2bn25a-HRu-5Od3Qr6Cj6VRZnJmcUlVgovV894PmXDi4apT3Y0KGg8m9b-snnF8zmNLxt3PF03S5NLS5-LyzcxM8_KNzUnP6XSocagRqEaZLSCjYWWHZhRo2CooKtgpGAMxLpgdo2CWTyQMgURYBZEECQNUmYKpI3hIjBoABKBGggSN8U0EGIPRHkN2AhDsIFAxeoQVTjMA4mD7AXRINshmmGmg82GWApTZBgHpGrAamEQ7GIU90HEDEH6gUpRPAtxIcREiFIzIAmxFgZBsjADYXqABgANApKGUO0gx6C6GqYVFDoIjQgf10IjDJzegjywx5hpvDYs0oBMsHcgIkA74rXB3gDSYD_B-GYwBUAGLCbNdYCKoJq1IVEKZIJEEXEN8rgx3KNI0iBhXJZDLUNSDQlRkDjYIlDEg6RAbLASbWgSAEprI6LbHBLusFBGkoOxQTQkcOFmI9kKdg_YKTCXwf2PYggkuUAdAo0csAvgAYPpf4RqePBB0xJ60IP5YFfAQwGcNmDaECZBUhncPFhaQvETzCmopqKkPKgFhtom8DAC0Qh7kOwAQeQQAydLhNnYWFgSqg-OhGoI8j8IwhlA1-nA2AgWMLfAmKZgQbB6oDPhKhAseFzARbAajqQBSdSYgDtgJQ5usyHmYnU6siDcIkzDsToczISoRRIFG41sL5Ji7KEClsLhRhOE8RAVMD8hCSFZAI0JMAmPc107BVC0KwBpZS4A)]
+- [主旋律 TMD 檔案](tairei_hoshukuka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZPnzZeueLu18vnTus7U9ChroAo8apii8WNPydP3q550dmgpaWlyKtgqWZlz2tgouXDYm-iZ2XFz6WlwKCqQaBdISnF9alJxqpfB0ykaggqc7piloGBkYGegZGJjpGViYGGvqKAQYWhjqZRWkg5Q75-cW5BenFgE17Nz8dNPCp3Pbn-zsVtBX8KksykzOLC6xUni5esbzKRteNEx9sqNBQePZtPaXzSuez2l82bjj6bpZYDv98ktSi60UfDNzU_PTixILMlJTFDSQfGiqm5OZl6pQXJKYlqZQlp-cmKNQnJxflKpQkFhcAlSbn4dwE8g8sN3FViCmoR6IfNy4_3Fj_-PGqY8b1z1unP-4sftxUydQtO1x48THjUseN_Y9blwG5Dc9btwH5m-Cia6D6W3qfNw04XHjarBxTUCzeh43dj1u3P24sResAqQQqAXIARoPNGQrkN_9uHH648bJYFGgPVshqiC6QFoeN3VBXNfyuHEamFz_uHEHOh_sJSOIP5qALgYaNhNMQrwCMnI12MVAu9Y-bpoEcTHQvhVgDwPRJIjvZj5uagS7GygN8QfICqBbgcYBRaeAdfRD_AF0-g6IHNi4pg6wdUDnzAAbQrY_jKHxATQfrBNiNgh1QSwG-mj946aex03dQP5WIAULYGCQA70JshgYS_NB8QHycD_EOKBBm8HyQK8AEVA5yMNAr4P9AQo1oL-gsQYxDmgDyE_k-ENLn4vLNzEzzyoMlBQdagxqFKpB-hRsLLTswIwaBUMFXQUjBWMg1gWzaxTM4oGUKYgAsyCCIGmQMlMgbQwXgUEDkAjUQJC4KaaBEHsgymvARhiCDQQqVoeowmEeSBxkL4gG2Q7RDDMdbDbEUpgiwzggVQNWC4NgF6O4DyJmCNIPVIriWYgLISZClJoBSYi1MAiShRkI0wM0AGgQkDSEagc5BtXVMK2g0EFoRPi4lotL104BFGUKQFqZCwA)]
+- [鋼琴伴奏 TMD 檔案](tairei_hoshukuka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZPnzZeueLu18vnTus7U9ChroAo8apii8WNPydP3q550dmmBuQGZiXr6CY3Jyfm5BYl5mbmpeiYKWFpeirYKlGZe9rYILl42JvokdF5e-FpeCArWsABkVnF9alJxqpfB0ykagxqc7piloGBkYGegZGJjpGViYGGvqKAQYWhjqZRWkK2gkojgwrSg_V6GgKDOvJDVFISc1MS0ntQSk2ASkWBNkuDNQdX5xahHQ-J2bn25a-HRu-5Od3Qr6Cj6VRZnJmcUlVgovV894PmXDi4apT3Y0KGg8m9b-snnF8zmNLxt3PF03S5NLS5-LyzcxM88qLD85McehxqBGoRpksoKNhZYdmFGjYKigq2CkYAzEumB2jYJZPJAyBRFgFkQQJA1SZgqkjeEiMGgAEoEaCBI3xTQQYg9EeQ3YCEOwgUDF6hBVOMwDiYPsBdEg2yGaYaaDzYZYClNkGAekasBqYRDsYhT3QcQMQfqBSlE8C3EhxESIUjMgCbEWBkGyMANheoAGAA0CkoZQ7SDHoLoaphUUOgiNCB_XQuMLnNyCPLDHmGm8NizSgEywdyAiQDvitcHeANJgP8H4ZjAFQAYsJs11gIqgmrUhUQpkgkQRcQ3yuDHco0jSIGFclkMtQ1INCVGQONgiUMSDpEBssBJtaBIASmsjotscEu6wUEaSg7FBNCRw4WYj2Qp2D9gpMJfB_Y9iCCS5QB0CjRywC-ABg-l_hGp48EHTEnrQg_lgV8BDAZw2YNoQJkFSGdw8WFpC8RPMKaimoqQ8qAWG2ibwMALRCHuQ7ABB5BADJ0uE2dhYWBKqD46EagjyPwjCGUDX6cDYCBYwt8CYpmBBsHqgM-EqECx4XMBFsBqOpAFJ1JiAO2AlDm6zIeZidTqyINwiTMOxOhzMhKhFEgUbjWwvkmLsoQKWwuFGE4TxEBUwPyEJIVkAjQkwCY9zXTsFULQrAGllLgA)]
 
 ## 分析
 
@@ -110,7 +110,7 @@ D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
      B  : █████████████████████     20.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : A3 – D5 (17 個半音 / 1.4 個八度, 75 個音符)
+  - Vocal         : A3 – D5 (17 個半音 / 1.4 個八度, 75 個音符)
 ================================================================================
 ```
 

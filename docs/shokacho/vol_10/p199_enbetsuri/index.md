@@ -32,7 +32,7 @@ M:4/4
 L:1/16
 Q:1/4=100
 K:Ab
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 z12 E4 | A3 F E4 A4 B3 c | B4 A4 B6 c B | A4 B4 c4 z4 |
 E4 e3 d c4 A4 | F3 G A4 E4 A4 | c2 B2 A2 B2 A4 z4 | E4 A3 F E4 A4 |
@@ -42,8 +42,8 @@ c2 B2 A2 G2 A4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](enbetsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZuOBpx9KXsxcpaMCZmgpaWlyKtgqGBgZc9rYKjjpcNib6JnZcXPpaXAoK2LWAJILzS4uSU60Unk7Z-Gxtz9Md0xQ0jAyMDPQMDMz0DCxMjDV1FAIMLS31sgrSQcp9E4vSM_MSczITrRQMTfWM9AyN9RQ0ni5Z_mztYkPTpzu3GD2b02Fo_Gz6UrDpLpV5ibmZycVWCj6ZeakKhlYKuWk6ELaRlQKMaYwkbAIU5gJp9aksAmkEMQ31QOTj5tmPmzsfN-953NwBYjetfty88nFzj8Ljpv2Pmyc_bm543Nz9uHkRhL8IpnA9WGHL4-Z-oMSyx01rwXJ9j5s3QQxtfNw8A6wWKNT1uHn-4-YmoBxQAigKNBGocSZQE1DvxsfNU2EKIYauAStsWgLmdD9u2v24eTPY7UYQBzf1P27qAWlpanrcuO9xI9CgzsdNkxQeN7Y8bpz_uHEpiN-4Gsif-7hxOUhh4_rHjWvAolMfN84ASgApoBBQ-Y7HjSvBhoI408BqgQygNNDc6Y8bQZ5re9w48XETULT3ceN-CB_IWva4ccnjxhWPmxofN3UAtfcDbXzcuA7kgKZGLi19Li7fxMw8K9_UnPyUSocagxqFapA9CjaGZlp2YFaNgoGCLlZoGg9l1CgYgmmzeIQYRERXwQhMGgPVQFjoMhBoDOTBTEHIGENpmANqoA6CW2IKJk3gCmEG1ICcAmKYx8PFMFxWA9YGsgskAqNR7EPXhM2DMEdB3GAEF8cMABMUV2PxHrU8huQimLeA6rH4j6uWi0vXDpitM_MUgLQyFwA)]
-- [鋼琴伴奏 TMD 檔案](enbetsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZuOBpx9KXsxcpaMCZmgqPGqYoBGQm5uUrOCYn5-cWJOZl5qbmlShoaXEp2ioYGhhw2dsqOOpw2Zjom9hxcelrcSkokGYUSENwfmlRcqqVwtMpG5-t7Xm6Y5qChpGBkYGegYGZnoGFibGmjkKAoaWlXlZBOki5b2JRemZeYk5mopWCoamekZ6hsZ6CxtMly5-tXWxo-nTnFqNnczoMjZ9NX6rJpaXPxeWbmJln5Zuak59S6VBjUKNQDTJEwcbQTMsOzKpRMFDQxQpN46GMGgVDMG0WjxCDiOgqGIFJY6AaCAtdBgKNgTyYKQgZYygNc0AN1EFwS0zBpAlcIcyAGpBTQAzzeLgYhstqwNpAdoFEYDSKfeiasHkQ5iiIG4zg4pgBYILiaizeo5bHkFwE8xZQPRb_cdVC4x-c9II8yE8AxvHapvHa8FACc-GqoOJgprlOvDYiSFAEcCuFhRcokeBWA5LRJphmgEq0YcGLogPJYLB_ECGNJIPDYxBngY1CchRUAZIIcjBhjXjiwhHhKbj7jdACBmeQmwE52rCkCJaCBgeuAKR10KH7BVcAooUOzmTsQ2oyRvjUEO5TDIYp2AHQAIGzsUgjK8QiDRfCSKCYSjAZwEKEOGXY3INpNZGWQl1IZOgYUdFmIr2LEYR4wxuYWnTtgPVkZp4CkFbmAgA)]
+- [主旋律 TMD 檔案](enbetsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZuOBpx9KXsxcpaMCZmgpaWlyKtgqGBgZc9rYKjjpcNib6JnZcXPpaXAoK2LWAJILzS4uSU60Unk7Z-Gxtz9Md0xQ0jAyMDPQMDMz0DCxMjDV1FAIMLS31sgrSQcp9E4vSM_MSczITrRQMTfWM9AyN9RQ0ni5Z_mztYkPTpzu3GD2b02Fo_Gz6UrDpLpV5ibmZycVWCj6ZeakKhlYKuWk6ELaRlQKMaYwkbAIU5gJp9aksAmkEMQ31QOTj5tmPmzsfN-953NwBYjetfty88nFzj8Ljpv2Pmyc_bm543Nz9uHkRhL8IpnA9WGHL4-Z-oMSyx01rwXJ9j5s3QQxtfNw8A6wWKNT1uHn-4-YmoBxQAigKNBGocSZQE1DvxsfNU2EKIYauAStsWgLmdD9u2v24eTPY7UYQBzf1P27qAWlpanrcuO9xI9CgzsdNkxQeN7Y8bpz_uHEpiN-4Gsif-7hxOUhh4_rHjWvAolMfN84ASgApoBBQ-Y7HjSvBhoI408BqgQygNNDc6Y8bQZ5re9w48XETULT3ceN-CB_IWva4ccnjxhWPmxofN3UAtfcDbXzcuA7kgKZGLi19Li7fxMw8q7D85MQchxqDGoVqkDUKNoZmWnZgVo2CgYIuVmgaD2XUKBiCabN4hBhERFfBCEwaA9VAWOgyEGgM5MFMQcgYQ2mYA2qgDoJbYgomTeAKYQbUgJwCYpjHw8UwXFYD1gayCyQCo1HsQ9eEzYMwR0HcYAQXxwwAExRXY_EetTyG5CKYt4DqsfiPq5aLS9cOmKsz8xSAtDIXAA)]
+- [鋼琴伴奏 TMD 檔案](enbetsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZuOBpx9KXsxcpaMCZmgqPGqYoBGQm5uUrOCYn5-cWJOZl5qbmlShoaXEp2ioYGhhw2dsqOOpw2Zjom9hxcelrcSkokGYUSENwfmlRcqqVwtMpG5-t7Xm6Y5qChpGBkYGegYGZnoGFibGmjkKAoaWlXlZBOki5b2JRemZeYk5mopWCoamekZ6hsZ6CxtMly5-tXWxo-nTnFqNnczoMjZ9NX6rJpaXPxeWbmJlnFZafnJjjUGNQo1ANMkPBxtBMyw7MqlEwUNDFCk3joYwaBUMwbRaPEIOI6CoYgUljoBoIC10GAo2BPJgpCBljKA1zQA3UQXBLTMGkCVwhzIAakFNADPN4uBiGy2rA2kB2gURgNIp96JqweRDmKIgbjODimAFgguJqLN6jlseQXATzFlA9Fv9x1UKjH5zygjzITwDG8dqm8drwUAJz4aqg4mCmuU68NiJIUARwK4WFFyiR4FYDktEmmGaASrRhwYuiA8lgsH8QIY0kg8NjEGeBjUJyFFQBkghyMGGNeOLCEeEpuPuN0AIGZ5CbATnasKQIloIGB64ApHXQofsFVwCihQ7OZOxDajJG-NQQ7lMMhinYAdAAgbOxSCMrxCINF8JIoJhKMBnAQoQ4Zdjcg2k1kZZCXUhk6BhR0WYivYsRhHjDG5hadO2A1WRmngKQVuYCAA)]
 
 ## 分析
 
@@ -95,7 +95,7 @@ c2 B2 A2 G2 A4 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : D#4 – D#5 (12 個半音 / 1.0 個八度, 59 個音符)
+  - Vocal         : D#4 – D#5 (12 個半音 / 1.0 個八度, 59 個音符)
 ================================================================================
 ```
 

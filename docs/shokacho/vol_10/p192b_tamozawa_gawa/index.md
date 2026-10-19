@@ -2,7 +2,8 @@
 
 <audio controls src="tamozawa_gawa.mp3"></audio>
 
-- 詞曲作者：未在 TMD metadata 中提供
+- 詞：澄宮崇仁親王
+- 曲：本居長世
 
 ## 說明
 
@@ -24,11 +25,12 @@ Tempo / Expression: 優美ニ
 ```abc
 X:1
 T:タモザハガハ 田母澤川
+C:曲：本居長世
 M:4/4
 L:1/16
 Q:1/4=84
 K:D
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 z8 z8 | z8 z8 | F4 G2 B2 F4 G2 B2 | F4 C2 E2 F8 |
 G4 B2 c2 G4 B2 c2 | F4 C2 B,2 C8 | C6 B,2 ^G4 F4 | ^G8 B4 c4 |
@@ -37,8 +39,8 @@ C6 C2 E4 E2 F2 | F8 F8 | F4 z12 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tamozawa_gawa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP9x86LHTdseN_c_bloDJBU0nk_Z8Gx977N9S55un6upoKXFpWirYGHCZW-r4MJlY6JvYsfFpa_FpaBAWDNIUXB-aVFyqpXC0ykbn63tebpjmoKGkYGRgZ6BgZmegYWJsaaOQoChpZFeVkG6gkZSfklJfi5Yn29iUXpmXmJOZqKVwrN9LU_XrXu2bv-THd1P9y18sneOwvPVS1-sWfhydpvC0yXLX85Y9Wx937PpS59N2_Cicd7zJfuez9zzYmGPgqGpnpGesR7IPOf83IL84tQioGlz1jzd2Ppy6vYnO6YBjXo2e5OCvoJPZVFmcmZxCcyyp1van-xufLFs1fO-bgUNTAeA3RiSCjQTqNm1oqAotbg4Mz8P6M-WVc_39T1u7uYCqQAbW2wFYhqCnYEZZqBgA_P3IJNAoUWPmxc-bgYaNfVx8-rHzSseNy0DGqvwuLkLrBGI2oASXFr6XFy-iZl5Vr6pOfkplQ41BjUK1SCrFGwstOzAjBoFAwVdMITR2ESMgaSJghmchoiYxysYgRlgRVDjTIBsMwVzOA1XahYPImEmQplAQRN1IA1SA9QLYoKFQVqQDIWqBluoC7YUYiwIwh0AZsHcDHFSLReXrh0wvWTmKQBpZS4A)]
-- [鋼琴伴奏 TMD 檔案](tamozawa_gawa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP9x86LHTdseN_c_bloDJBU0nk_Z8Gx977N9S55un6up8KhhikJAZmJevoJjcnJ-bkFiXmZual6JgpYWl6KtgoUJl72tgguXjYm-iR0Xl74Wl4IC-YaCNAfnlxYlp1opPJ2y8dnanqc7piloGBkYGegZGJjpGViYGGvqKAQYWhrpZRWkK2gk5ZeU5OdqgvT5JhalZ-Yl5mQmWik829fydN26Z-v2P9nR_XTfwid75yg8X730xZqFL2e3KTxdsvzljFXP1vc9m7702bQNLxrnPV-y7_nMPS8W9igYmuoZ6RnrgcxzBjorvzi1CGjanDVPN7a-nLr9yY5pQKOezd6koK_gU1mUmZxZXAKz7OmW9ie7G18sW_W8r1tBA9MBmlxa-lxcvomZeVa-qTn5KZUONQY1CtUgmxRsLLTswIwaBQMFXTCE0dhEjIGkiYIZnIaImMcrGIEZYEVQ40yAbDMFczgNV2oWDyJhJkKZQEETdSANUgPUC2KChUFakAyFqgZbqAu2FGIsCMIdAGbB3AxxUi3U_-CID_LAHgAQhxkCtSNYuEW1DbVhoYDCQZIDO9NcJx7MQQ4boAojbVjAoHBQdQNtNAVqBxoB9xsyHygN0QwKLrg-mPGwMASKaoPCESSkjRyYyEYBLTMF87QRAQs3EeJxNC6SPJ6w9sEV1nAvIVj4RY1ABBITJm4MJpHUQ20AKwJBOAPZfIguaHLBaitcG9QasJ1QsxE6kM3B53qMINK1AxYbmXkKQFqZCwA)]
+- [主旋律 TMD 檔案](tamozawa_gawa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP9x86LHTdseN_c_bloDJBU0nk_Z8Gx977N9S55un6upoKXFpWirYGHCZW-r4MJVp6D0YuW893tmPdvX8nTduqdb2p_sbnyxbNXzvm4lkOSz2ZtAknPWPN3Y-nLq9ic7pilx2Zjom9hxcelrcSkoELYQpCg4v7QoOdVK4emUjc_W9jzdMU1Bw8jAyEDPwMBMz8DCxFhTRyHA0NJIL6sgXUEjKb-kJD8XrM83sSg9My8xJzPRSgHiwGfr9j_Z0f1038Ine-coPF-99MWahS9ntyk8XbL85YxVz9b3PZu-9Nm0DS8a5z1fsu_5zD0vFvYoGJrqGekZ64HMc87PLcgvTi0CmobkI6BRQG8q6Cv4VBZlJmcWl8AsQw4NBQ1MB4DdGJIKNBOo2bWioCi1uDgzPw_oz5ZVz_f1PW7u5gKpABtbbAViGoKdgRlmoGAD8_cgk0ChRY-bFz5uBho19XHz6sfNKx43LQMaq_C4uQusEYjagBJcWvpcXL6JmXlWYfnJiTkONQY1CtUgmxRsLLTswIwaBQMFXTCE0dhEjIGkiYIZnIaImMcrGIEZYEVQ40yAbDMFczgNV2oWDyJhJkKZQEETdSANUgPUC2KChUFakAyFqgZbqAu2FGIsCMIdAGbB3AxxUi0Xl64dMLlk5ikAaWUuAA)]
+- [鋼琴伴奏 TMD 檔案](tamozawa_gawa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP9x86LHTdseN_c_bloDJBU0nk_Z8Gx977N9S55un6up8KhhikJAZmJevoJjcnJ-bkFiXmZual6JgpYWl6KtgoUJl72tggtXnYLSi5Xz3u-Z9Wxfy9N1655uaX-yu_HFslXP-7qVQJLPZm8CSc5Z83Rj68up25_smKbEZWOib2LHxaWvxaWgQL5DQJqD80uLklOtFJ5O2fhsbc_THdMUNIwMjAz0DAzM9AwsTIw1dRQCDC2N9LIK0hU0kvJLSvJzNUH6fBOL0jPzEnMyE60UIA5_tm7_kx3dT_ctfLJ3jsLz1UtfrFn4cnabwtMly1_OWPVsfd-z6UufTdvwonHe8yX7ns_c82Jhj4KhqZ6RnrEeyDxnoLPyi1OLgKYh-RRoFND7CvoKPpVFmcmZxSUwy5BDSUED0wGaXFr6XFy-iZl5VmH5yYk5DjUGNQrVIIsUbCy07MCMGgUDBV0whNHYRIyBpImCGZyGiJjHKxiBGWBFUONMgGwzBXM4DVdqFg8iYSZCmUBBE3UgDVID1AtigoVBWpAMhaoGW6gLthRiLAjCHQBmwdwMcVIt1PvgeA_ywB4AEIcZArUjWLhFtQ21YaGAwkGSAzvTXCcezEEOG6AKI21YwKBwUHUDbTQFagcaAfcbMh8oDdEMCi64PpjxsDAEimqDwhEkpI0cmMhGAS0zBfO0EQELNxHicTQukjyesPbBFdZwLyFY-EWNQAQSEyZuDCaR1ENtACsCQTgD2XyILmhywWorXBvUGrCdULMROpDNwed6jCDStQOWGpl5CkBamQsA)]
 
 ## 分析
 
@@ -90,7 +92,7 @@ C6 C2 E4 E2 F2 | F8 F8 | F4 z12 |
      B  : ████████                  12.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : B3 – C#5 (14 個半音 / 1.2 個八度, 35 個音符)
+  - Vocal         : B3 – C#5 (14 個半音 / 1.2 個八度, 35 個音符)
 ================================================================================
 ```
 

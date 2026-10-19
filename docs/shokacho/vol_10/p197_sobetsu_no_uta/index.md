@@ -11,6 +11,15 @@ Source: 唱歌帖 (2020.006.0843), P197.jpg
 Marginalia: 15.2.13 (大正15年2月13日)
 Dynamics: Line 1: p, Line 2: mf, Line 3: f, Line 4: f
 
+## 跨冊／重複收錄參照
+
+> 同曲異詞＋同名異曲（《新定兒童唱歌》五年級〈告別〉、《唱歌帖》P042〈螢の光〉與 P197〈送別の歌〉同採蘇格蘭民謠 *Auld Lang Syne* 旋律；高等科女子用〈告別〉為同名異曲）
+
+- **[同曲異詞]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈告別〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/kokubetsu.tmd)）
+- **[參照]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈告別〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md)（`D` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/kokubetsu.tmd)）
+- **[同曲異詞]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈螢の光〉**](../../vol_03/p042_hotaru_no_hikari/index.md)（`F` / `4/4` — [原始 TMD](../../vol_03/p042_hotaru_no_hikari/hotaru_no_hikari.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text
@@ -36,7 +45,7 @@ M:2/4
 L:1/16
 Q:1/4=66
 K:F
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 z6 C2 | F4 F2 A2 | G3 F G2 A G | F4 A2 c2 |
 d8 | f8 | c3 A A2 F2 | G3 F G2 A G |
@@ -47,8 +56,8 @@ c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sobetsu_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ0Pi0Y-njxnXP1vYoaEB4T3Z2A3maClpaXIq2CmZmXPa2Cm5cNkb6JnZcXPpaXAoK-LSBpIPzS4uSU60Unk7ZCBR6umOagoaRgZGBnoGBmZ6BhYmxpo5CgKGluV5WQTpIuW9iUXpmXmJOZqKVgqGpnpGeobGCxtMly5-tXWxo-nTnFqNnczoMjZ9NXwo23KUyLzE3M7nYSsEnMy9VwdBKoUAHwjSyUshNg7KNrRRgTBMgkwuk06eyCKQPxDTUA5GPmxY9btr6uLnrcfOyx81TwYxuoOiqx02bHzftf9y88nHTLoXHzS2PmzseN-953LzwcXP_46ZNj5vnP27aDlS493FzH0iiaQnYnE0QQzeCzAIaDdQOVN68Bqy1DWxO01qQjqbVYDNXAtUCLQEaB7RwxePmeUBDweaC7AFqaQcbvR9qNMhsI4izG6c-blz_uKnncWPL48b-x40rHjfOBorueNy44HHjsseNqx43bgCa3fC4ccnjxs2PG7tByhunAxFQ1WRgtIEMbgT6oQmoF-JmoClAVUAhoDQQAU1cB1QLNH7F46ZJYL3dj5u6gEJAs6cAWSBRoCagG5pawApBJgJNWA10CtAQsGuN4YEMDQagm4EkMCgXAf04H-zHTeAgaIOED1CoESoKDIxmoL5VEAlg4ABFgRxgNAGtWg02FxqcQAlEiALZyNECFAWFLsQEoAeWPG4GxhQwRFc_bloPFAU6C6gdGOugCAKLbufS0ufi8k3MzLPyTc3JT6l0qDGoUagGWahgY2imZQdm1SgYKOjCoWk8kKhRMIRyQbQxWMQIygfRxkASoQYkbwpSAzXODMk4EASqjMMQAmkAaQVpBhmExQKocRBrzOJBCMN9CAMxbcWwAmogqkXoKsE-IcoPUOOI8AlhP4CioIarlotL1w5YhGTmKQBpZS4A)]
-- [鋼琴伴奏 TMD 檔案](sobetsu_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ0Pi0Y-njxnXP1vYoaEB4T3Z2A3maCo8apigEZCbm5Ss4Jifn5xYk5mXmpuaVKGhpcSnaKpiZcdnbKrhx2Rjpm9hxcelrcSkokGMcSFtwfmlRcqqVwtMpG4FKn-6YpqBhZGBkoGdgYKZnYGFirKmjEGBoaa6XVZAOUu6bWJSemZeYk5lopWBoqmekZ2isoPF0yfJnaxcbmj7ducXo2ZwOQ-Nn05dqcmnpc3H5JmbmWfmm5uSnVDrUGNQoVIPMULAxNNOyA7NqFAwUdOHQNB5I1CgYQrkg2hgsYgTlg2hjIIlQA5I3BamBGmeGZBwIAlXGYQiBNIC0gjSDDMJiAdQ4iDVm8SCE4T6EgZi2YlgBNRDVInSVYJ8Q5QeocUT4hLAfQFFQw1ULjS1wOgnyID66jOO1TeO1YQZCmSBKG-rBeG1znXhtmMOQuBD3YeoHawSS2sgxa6htok1U7MI0gsyHmwa1gaBrYOEKcxAwzIDuA4ecEVAdVi_jSwd4HYOwDIeTkEIRq0HwMCI6dOCBSUEYkR46WFKYDzEpDKxPwRBkLNgpMAbQCTowNoKFVSXUVBO4KkToINuEUz92m2ClDX5XkGgVLDkQ6zXiPAWLcaIDkQhPweNT1w5YI2TmKQBpZS4A)]
+- [主旋律 TMD 檔案](sobetsu_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ0Pi0Y-njxnXP1vYoaEB4T3Z2A3maClpaXIq2CmZmXPa2Cm5cNkb6JnZcXPpaXAoK-LSBpIPzS4uSU60Unk7ZCBR6umOagoaRgZGBnoGBmZ6BhYmxpo5CgKGluV5WQTpIuW9iUXpmXmJOZqKVgqGpnpGeobGCxtMly5-tXWxo-nTnFqNnczoMjZ9NXwo23KUyLzE3M7nYSsEnMy9VwdBKoUAHwjSyUshNg7KNrRRgTBMgkwuk06eyCKQPxDTUA5GPmxY9btr6uLnrcfOyx81TwYxuoOiqx02bHzftf9y88nHTLoXHzS2PmzseN-953LzwcXP_46ZNj5vnP27aDlS493FzH0iiaQnYnE0QQzeCzAIaDdQOVN68Bqy1DWxO01qQjqbVYDNXAtUCLQEaB7RwxePmeUBDweaC7AFqaQcbvR9qNMhsI4izG6c-blz_uKnncWPL48b-x40rHjfOBorueNy44HHjsseNqx43bgCa3fC4ccnjxs2PG7tByhunAxFQ1WRgtIEMbgT6oQmoF-JmoClAVUAhoDQQAU1cB1QLNH7F46ZJYL3dj5u6gEJAs6cAWSBRoCagG5pawApBJgJNWA10CtAQsGuN4YEMDQagm4EkMCgXAf04H-zHTeAgaIOED1CoESoKDIxmoL5VEAlg4ABFgRxgNAGtWg02FxqcQAlEiALZyNECFAWFLsQEoAeWPG4GxhQwRFc_bloPFAU6C6gdGOugCAKLbufS0ufi8k3MzLMKy09OzHGoMahRqAbZp2BjaKZlB2bVKBgo6MKhaTyQqFEwhHJBtDFYxAjKB9HGQBKhBiRvClIDNc4MyTgQBKqMwxACaQBpBWkGGYTFAqhxEGvM4kEIw30IAzFtxbACaiCqRegqwT4hyg9Q44jwCWE_gKKghquWi0vXDliCZOYpAGllLgA)]
+- [鋼琴伴奏 TMD 檔案](sobetsu_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ0Pi0Y-njxnXP1vYoaEB4T3Z2A3maCo8apigEZCbm5Ss4Jifn5xYk5mXmpuaVKGhpcSnaKpiZcdnbKrhx2Rjpm9hxcelrcSkokGMcSFtwfmlRcqqVwtMpG4FKn-6YpqBhZGBkoGdgYKZnYGFirKmjEGBoaa6XVZAOUu6bWJSemZeYk5lopWBoqmekZ2isoPF0yfJnaxcbmj7ducXo2ZwOQ-Nn05dqcmnpc3H5JmbmWYXlJyfmONQY1ChUg4xQsDE007IDs2oUDBR04dA0HkjUKBhCuSDaGCxiBOWDaGMgiVADkjcFqYEaZ4ZkHAgCVcZhCIE0gLSCNIMMwmIB1DiINWbxIIThPoSBmLZiWAE1ENUidJVgnxDlB6hxRPiEsB9AUVDDVQuNLHAyCfIgPrqM47VN47VhBkKZIEob6sF4bXOdeG2Yw5C4EPdh6gdrBJLayDFrqG2iTVTswjSCzIebBrWBoGtg4QpzEDDMgO4Dh5wRUB1WL-NLB3gdg7AMh5OQQhGrQfAwIjp04IFJQRiRHjpYUpgPMSkMrE_BEGQs2CkwBtAJOjA2goVVJdRUE7gqROgg24RTP3abYKUNfleQaBUsORDrNeI8BYtxogORCE_B41PXDlghZOYpAGllLgA)]
 
 ## 分析
 
@@ -100,7 +109,7 @@ c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : C4 – F5 (17 個半音 / 1.4 個八度, 57 個音符)
+  - Vocal         : C4 – F5 (17 個半音 / 1.4 個八度, 57 個音符)
 ================================================================================
 ```
 

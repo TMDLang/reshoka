@@ -39,7 +39,7 @@ M:4/4
 L:1/16
 Q:1/4=130
 K:G
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 z14 D2 | G2 G2 A2 A2 d2 B2 G2 G2 | A3 F D4 z6 D2 | G2 G2 A2 A2 B4 z2 B2 |
 A2 G2 A2 B2 G4 z2 G2 | d2 d2 d2 B G A4 z2 A2 | B2 B2 B2 d B A4 z2 D2 | G3 A B3 c d4 z2 G2 |
@@ -48,8 +48,8 @@ B4 A4 G4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shingun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZsOnF7l4FDQitqaClxaVoq2BobMBlb6vgzmVjom9ix8Wlr8WloICuFiQUnF9alJxqpfB0ysZna3ue7pimoGFkYGSgZ2BgpmdgYWKsqaMQYGhpqpdVkK6gkZRfUpKfq6nwqGEySNQMRRRkmm9iUXpmXmJOZqKVgqGpnpGeobGegqG54csFjQoaT5csf7Z2saHp051bjJ7N6TA0fjZ9qSYXSJtPZVFmcrEViGmoByIfN8973Lz6cdPux01LHjcve9zc97hp_-Pm-QogftM2MKfxcXMbkL8ThJoXPm4GSkDZQO0tYO3rHjdvetw84XFzz-OmtRBzO4AssHGbHzetAEk3LXrctAluLsKE-Y-b1j9u7oZZDbSgG10V2O1GEAc3AQ1uety47nEjkFzwuHElkKvwuLHtcePCx43rHzd1Pm4E2tI4E4SaGh83tdxYBecBxYHmdj9uBFo16XHjhseNax439oKNbVwBZIGNnfy4aSJYGmj-JKBEy-PGacgm7H_c2P-4cTVYLdDtjUA2uiouLX0uLt_EzDwr39Sc_JRKhxqDGoVqkD0KNoZmWnZgVo2CgYIuTmgaDyRqFAyBJAgbQbEpEBtDxUC4Biyqq2AeD9EBgsjG4jAGZARMKYhdA3URSA6mDmYNTB3EOpADYNgYKAaxHqICxK4B64NhUyCJrALJOSDlEGeYgA1DsQbqHJgzYUYgOwcEa7hqubh07YC5ITNPAUgrcwEA)]
-- [鋼琴伴奏 TMD 檔案](shingun_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZsOnF7l4FDQitqfCoYYpCQGZiXr6CY3Jyfm5BYl5mbmpeiYKWFpeirYKhsQGXva2CO5eNib6JHReXvhaXggKxZoCUBueXFiWnWik8nbLx2dqepzumKWgYGRgZ6BkYmOkZWJgYa-ooBBhamuplFaQraCTll5Tk54LMmwwSNUMRBZnmm1iUnpmXmJOZaKVgaKpnpGdorKdgaG74ckGjgsbTJcufrV1saPp05xajZ3M6DI2fTV-qyaWlz8Xlm5iZZ-WbmpOfUulQY1CjUA0yS8HG0EzLDsyqUTBQ0MUJTeOBRI2CIZAEYSMoNgViY6gYCNeARXUVzOMhOkAQ2VgcxoCMgCkFsWugLgLJwdTBrIGpg1gHcgAMGwPFINZDVIDYNWB9MGwKJJFVIDkHpBziDBOwYSjWQJ0DcybMCGTngGANVy00nMEJIciD_IA2jdcGmY6gzHXitcEhjmAaahtrg_0OVKQN9h5ENTRkEAqh8QHio7mYRBvhNmGLLDR1OHQax2tDZVEjEuYZdBoUqSheQY5bFJ-jMYA6sehD9SzIHCQ_mcBtxRb7KJ5HMxrTV1jSgw856QEkBwwdWMSZwqMQLgRnAJ0Il0WwkA0nbBjC6VBPYzERUzEWx2A6gHxVFLoOFAu6dsByMzNPAUgrcwEA)]
+- [主旋律 TMD 檔案](shingun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZsOnF7l4FDQitqaClxaVoq2BobMBlb6vgzmVjom9ix8Wlr8WloICuFiQUnF9alJxqpfB0ysZna3ue7pimoGFkYGSgZ2BgpmdgYWKsqaMQYGhpqpdVkK6gkZRfUpKfq6nwqGEySNQMRRRkmm9iUXpmXmJOZqKVgqGpnpGeobGegqG54csFjQoaT5csf7Z2saHp051bjJ7N6TA0fjZ9qSYXSJtPZVFmcrEViGmoByIfN8973Lz6cdPux01LHjcve9zc97hp_-Pm-QogftM2MKfxcXMbkL8ThJoXPm4GSkDZQO0tYO3rHjdvetw84XFzz-OmtRBzO4AssHGbHzetAEk3LXrctAluLsKE-Y-b1j9u7oZZDbSgG10V2O1GEAc3AQ1uety47nEjkFzwuHElkKvwuLHtcePCx43rHzd1Pm4E2tI4E4SaGh83tdxYBecBxYHmdj9uBFo16XHjhseNax439oKNbVwBZIGNnfy4aSJYGmj-JKBEy-PGacgm7H_c2P-4cTVYLdDtjUA2uiouLX0uLt_EzDyrsPzkxByHGoMahWqQNQo2hmZadmBWjYKBgi5OaBoPJGoUDIEkCBtBsSkQG0PFQLgGLKqrYB4P0QGCyMbiMAZkBEwpiF0DdRFIDqYOZg1MHcQ6kANg2BgoBrEeogLErgHrg2FTIImsAsk5IOUQZ5iADUOxBuocmDNhRiA7BwRruGq5uHTtgJkhM08BSCtzAQA)]
+- [鋼琴伴奏 TMD 檔案](shingun_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZsOnF7l4FDQitqfCoYYpCQGZiXr6CY3Jyfm5BYl5mbmpeiYKWFpeirYKhsQGXva2CO5eNib6JHReXvhaXggKxZoCUBueXFiWnWik8nbLx2dqepzumKWgYGRgZ6BkYmOkZWJgYa-ooBBhamuplFaQraCTll5Tk54LMmwwSNUMRBZnmm1iUnpmXmJOZaKVgaKpnpGdorKdgaG74ckGjgsbTJcufrV1saPp05xajZ3M6DI2fTV-qyaWlz8Xlm5iZZxWWn5yY41BjUKNQDTJKwcbQTMsOzKpRMFDQxQlN44FEjYIhkARhIyg2BWJjqBgI14BFdRXM4yE6QBDZWBzGgIyAKQWxa6AuAsnB1MGsgamDWAdyAAwbA8Ug1kNUgNg1YH0wbAokkVUgOQekHOIME7BhKNZAnQNzJswIZOeAYA1XLTSYwekgyIP8gDaN1waZjqDMdeK1wSGOYBpqG2uD_Q5UpA32HkQ1NGQQCqHxAeKjuZhEG-E2YYssNHU4dBrHa0NlUSMS5hl0GhSpKF5BjlsUn6MxgDqx6EP1LMgcJD-ZwG3FFvsonkczGtNXWNKDDznpASQHDB1YxJnCoxAuBGcAnQiXRbCQDSdsGMLpUE9jMRFTMRbHYDqAfFUUug4UC7p2wGIzM08BSCtzAQA)]
 
 ## 分析
 
@@ -101,7 +101,7 @@ B4 A4 G4 z4 |
      B  : ████████████████████      22.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : D4 – D5 (12 個半音 / 1.0 個八度, 48 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 48 個音符)
 ================================================================================
 ```
 

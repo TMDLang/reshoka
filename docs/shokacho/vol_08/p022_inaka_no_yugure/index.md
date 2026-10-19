@@ -2,6 +2,7 @@
 
 <audio controls src="inaka_no_yugure.mp3"></audio>
 
+- 曲：北村季晴
 - 出處：中等音楽教科書 / 蓬莱集ヨリ（昭2.2.25）
 - 《唱歌帖》（2020.006.0843）P022.jpg
 
@@ -13,29 +14,29 @@
 
 ## 跨冊／重複收錄參照
 
-> 同名異曲（各冊收錄之不同詞曲版本）
+> 同曲（北村季晴作曲〈田舍の夕暮〉；收錄於《新定兒童唱歌》高等科男子用與《唱歌帖》P022《中等音樂教科書／蓬萊唱歌集》抄譜）
 
-- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈田舍の夕暮〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md)（`E,` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/inaka_no_yugure.tmd)）
+- **[同曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈田舍の夕暮〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md)（`E,` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/inaka_no_yugure.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
 一、
-ユフヒ ノ カゲ ハ ニシ ノ ヤマ ニ
-シヅミ テ ノコリ ノ ヒカリ アカク
-タハタ ノ シゴト ヲ ヲヘシ ヒト ハ
-クワ ヲバ カツギ テ イヘ ニ カヘル
-ノズエ ニ ムラダツ ユフ ゲムリ
-シヅカニ タナビク ヤマ ノ フモト
+ハヤマ ノ ミソラ ノ クモ ノ ハタテ
+コガネ ノ イロ ニゾ カハリ ユキテ
+イリヒ モ ヤマベ ニ イソギ ユク
+ナハテ ノ ナミキ ニ カゼ サムク
+タドル ヤ マゴ ノ ウタゴエ モ
+タソガレ ソメタル ユフベ カナ
 
 二、
-ねぐら に いそげる からす の こゑ
-とほやま でら の かね の ひびき
-ゆふべ の かぜ に おくられ つつ
-のやま を こえて さと に ひびく
-こころ も のどけき ゆふまぐれ
-いざ われ も また いへ に かへらん
+ゆふぞら たどる たびからす
+あと や さき なる こゑごゑ や
+ふりさけ みれば やまでら の
+たふ の いらか の かげ くろく
+ひとり しづかに くれのこる
+のぢ の さとわ の ゆふべ かな
 ```
 
 ## ABC
@@ -43,6 +44,7 @@
 ```abc
 X:1
 T:田舎の夕暮（鄉村的黃昏）
+C:曲：北村季晴
 M:3/4
 L:1/16
 Q:1/4=66
@@ -66,7 +68,7 @@ G8 F4 | E8 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](inaka_no_yugure.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng-ZcOLjr7HjeueLpn6bNa693s6XrZ0Pps78fmslpe7m5_N6H-_p1NBS4tL0VbBzIzL3lbBVYfLxljfxI6rTkHpafuuFzOnvt8z68mOtc_Xdr6cv_nZ0r3Pps58vnzis9k7FPQVXkxe86Jv48vZbY-bVzxuXgU0_dmMtUZ6QGgKNFcJZMbjhq6nUzY-W9vzdMe0xw3dQCVGBkYGegYGZnoGFibGQGUBBkZGelkF6UpcXPpaCrbUAlwKCgpP--YDHfpic_uLFV0vOtqBrnixct7T1hXPprUDHfJ0Q--z9k4FmP1ApwC9CtL2YtX-Zw3LQRq6e1_MnA8Ufbqk83HzbKC4AjBsFIDCQO2uSQpPlyxHEQMa0PNo5kpbYFCCjFmx-8WKGUDdGljDTxMzAIEi8ADkAhnxZEfD44ZGEOtx87LHzVMfN08CsvoUHjetfty0CcjsB-Lux03bIaLNSx43zwOJgHU0bX_c3Pq4eT5QoA0k_7hpM8gOiMpJICNAvKZFYMPWQ7TsBxoJJKGWbH_ctOVxcweQB7Jr0-PmGRCrJkEE-yF61j9uXg-RngB2WHPL46Z1EEubgA6aAXIQRGLG4-bVEM8AHbPrcdMKiFTzgsfNKx83NwB1Qv0JVA40Dii8CsknIBNABgHd2PW4eTLQYoSPQV4Chs4ioMMgAberBxZwjWsfN0543NQJZK0G4pbHjXMfNwK9DzSqERh0nY8bZwJZQAc3Ao2cCNGy4nHj7sdNQKX7gJzlEM0gFd1A06DMTY8bNz9u7IW4r-1x49bHjTsRquZAbet63AgMz87HTT1AzhIggpi_DmZ4EzA-gfY2djxuXAZkTQVaDdUJMR8SxCAVQMf1AtU3gXU3rnzcOBFoO9zqfWA_9kBUA42eBpQBWgy0FawDKA1MBiCJHVDjgW7cAXbYZJAeyrMbFCho6XNxeeYlZif65UeWppcWpVoFZCbm5TvUGNQoVIOsUrAxNNOyA7Oqc9NqwYwaBQMFXTCE0abxMKpGwRAqBqONFYyAbGOgjClMNZTWMAMyTTRVNXSBQBOowBgqYQSlIdoNFWqg1kKtQUCa2msEtxdmJAxqmAKlTZEMMIyDWQ5jAO0Ass2Q1MBsh1mmAXKeERZXmEBpMygN9z1dXQGDsDDBFRbVuQW1MAtNgfIwV8MswiOFMx5w2Y0R_6AkSe1EgGE5hpdhqb6Gq5aLS9dOASUDKWATUOYCAA)]
+- [主旋律 TMD 檔案](inaka_no_yugure.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng-ZcOLjr7HjeueLpn6bNa693s6XrZ0Pps78fmslpe7m5_N6H-_p1NBS4tL0VbBzIzL3lbBVYfLxljfxI6rTkHp2exN7_fMetozHajh6drFz2ZuUQIJP23f9WLmVKDMkx1rn6_tfDl_87Ole59Nnfl8-cRns3co6Cu8mLzmRd_Gl7PbHjeveNy8CmjpsxlrjfSA0BRoHdiMxw1dT6dsfLa25-mOaY8buoFKjAyMDPQMDMz0DCxMjIHKAgyMjPSyCtKVuLj0tRRsqQW4FBQUnvbNBzr0xeb2Fyu6XnS0A13xYuW8p60rnk1rBzrk6YbeZ-2dCjD7gU4BehWk7cWq_c8aloM0dPe-mDkfFDRLOh83zwaKKwCDTAEoDNTumqTwdMlyFDGgAT2PZq60BYYwyJgVu1-smAHUrYE1_DQxAxAoAg9ALpART3Y0PG5oBLEeN_c_bl7yuHkekNUHxPMfN-193LwSwmta_7h5EVSi_3HT_sfNbWA9TZsfN6153NwLVQXUvhbI7H7ctA_IWw02chVQYNnjprVwLUBFqx43TwIKg0wE2fi4eSZIF1gOaGnTOoiW9RBndYGNaYPaDuQBXQa2BWxF0x4gtfVx8wKYepDjgGG5GmQ2EM973LQF6jqgkfuBvMdNK0B2wxSDLAR6YQ2QA_TvQrB-kOZlj5ungh0G8kcXJLB29cACq6ntcePWx41A0zsVHjfOf9y48nET0EEg1ubHjcAA6HzcOBOssrHpcSPQwqYWIHPq40ZgUDWugqid_Lhp4uPGKUASJA1RvPVxUxdYHVCsEei4nseNG0Cyjxv3PW5cDrFtHUQp0KqtIB4Qt4DtA5kJ4nU_bgSGbiMwnnqBJETxJqAjgEYDWdMfNy4FqwF6EqQGaMM6sFu6ISqBHGC8gA0COgOoqR_Cg_p4J8SCVSDFlOchKFDQ0ufi8sxLzE70y48sTS8tSrUKyEzMy3eoMahRqAZZpWBjaKZlB2ZV56bVghk1CgYKumAIo03jYVSNgiFUDEYbKxgB2cZAGVOYaiitYQZkmmiqaugCgSZQgTFUwghKQ7QbKtRArYVag4A0tdcIbi_MSBjUMAVKmyIZYBgHsxzGANoBZJshqYHZDrNMA-Q8IyyuMIHSZlAa7nu6ugIGYWGCKyyqcwtqYRaaAuVhroZZhEcKZzzgshsj_kFJktqJAMNyDC_DUn0NVy0Xl66dAkoGUsAmoMwFAA)]
 - [鋼琴伴奏 TMD 檔案](inaka_no_yugure_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng-ZcOLjr7HjeueLpn6bNa693s6XrZ0Pps78fmslpe7m5_N6H_cvPtl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKpiZcdnbKrjqcNkY65vYcdUpKD1t3_Vi5tT3e2Y92bH2-drOl_M3P1u699nUmc-XT3w2e4eCvsKLyWte9G18ObvtcfOKx82rgPY9m7HWSA8ITYHmKoHMeNzQ9XTKxmdre57umPa4oRuoxMjAyEDPwMBMz8DCxBioLMDAyEgvqyBdiYvLMy8xO9EvP7I0vbQo1SogMzEvP8jDocagRqGaSwEIbAzNtOzArOrctFowo0bBQEEXDGG0aTyMqgES2oZwYTjTWMFIwRBI1igYaptCxRAsDTMFUwUTTVUNXSDQBCsyhkqZx2sbQZkQcwwVaqCugNqqq2AUrw1n09MpRkhOwWaThilQkSmSWcbahnEw3Qgm0Eog2wzFToTDYLZrgFxthNVhhtomcJYZlAVzGcjRcNNQOPRyHQwiBR_-YKvOLagF2QkWBhsF8xSSzfil8cQiXudABZATFCjZ0zJVwSDQLGQngc3GUATLcDVctVizrg-urFuAK-vCTVQwBPnRNB5EGiOYYFF8CkzQFED8AmIZIRShhjIWSWo6A6kswOMMJGPghmO4AiYJZqH7FEkzhIlkCcJMuC4TMkOCfDeAdYDDCC1mCIVDNTADItwBthMsh00tDnkk3yLrALsGu0Owhga4LKB64sAZJqg-xIgSUK7TtVNAyXgK2ASUuQA)]
 
 ## 分析

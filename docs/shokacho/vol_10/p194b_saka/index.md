@@ -2,7 +2,8 @@
 
 <audio controls src="saka.mp3"></audio>
 
-- 詞曲作者：未在 TMD metadata 中提供
+- 詞：澄宮崇仁親王
+- 曲：永井幸次
 
 ## 說明
 
@@ -24,11 +25,12 @@ Tempo / Expression: 緩徐ニ
 ```abc
 X:1
 T:サカ 坂
+C:曲：永井幸次
 M:4/4
 L:1/16
 Q:1/4=76
 K:G
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 G4 F2 A2 G4 D2 E2 | D3 E D8 z4 | G2 G2 F2 G2 A2 A2 G2 A2 | B2 z2 A2 z2 G2 z6 |
 A3 G A2 d2 B4 z4 | z12 D2 G2 | B3 A G4 A4 d4 | G12 z4 |
@@ -36,8 +38,8 @@ A3 G A2 d2 B4 z4 | z12 D2 G2 | B3 A G4 A4 d4 | G12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](saka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVx02oFjadzmzQVtLS4FG0VzM247G0V3LlsTPRN7Li49LW4FBRQ1IH4wfmlRcmpVgpPp2x8trbn6Y5pChpGBkYGegYGZnoGFibGmjoKAYaWJnpZBekKGkn5JSX5uWB9volF6Zl5iTmZiVYKj5tbHje3Pm5aq6dgaKpnpGesoPFsX8vTdeuerdv_ZEf3030Ln-ydo_B89dIXaxa-nN0G1u-cn1uQX5xaZKXwbMOOJ7umPt2549kakLpnszcp6Cv4VBZlJmcWlwClwSY93dL-ZHfji2Wrnvd1YzMdbGZIKtBMoGbXioKi1OLizPw8K4Xn21c-3TfhcXM3F0gF2NhiKxDTUA8cHM1dj5vWPG5aAg2Xx03LHjdvfty0-XHzysdN2x83L3_c3AFU1fe4ec7j5ubHTfuBEkBVQPVrQRqb-x837QLpaG7g0tLn4vJNzMyz8k3NyU-pdKgxqFGoBlmiYGNopmUHZtUoGCrogqF5PJAwAmKYgClIwAxE1EDYYB6UhYAGUBpiEgiDTQIxQKbBTATRNQrGUA0gHogGycAMABsCdRRIHiQLok2BGKQP1TJkXcgQ7D6QsRDLQFbBPAQxFGIgwsXYINwarlouLl07YOLKzFMA0spcAA)]
-- [鋼琴伴奏 TMD 檔案](saka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVx02oFjadzmzQVHjVMUQjITMzLV3BMTs7PLUjMy8xNzStR0NLiUrRVMDfjsrdVcOeyMdE3sePi0tfiUlAgSj9IXXB-aVFyqpXC0ykbn63tebpjmoKGkYGRgZ6BgZmegYWJsaaOQoChpYleVkG6gkZSfklJfq4mSJ9vYlF6Zl5iTmailcLj5pbHza2Pm9bqKRia6hnpGStoPNvX8nTdumfr9j_Z0f1038Ine-coPF-99MWahS9nt4H1OwOdkV-cWmSl8GzDjie7pj7duePZGpC6Z7M3Kegr-FQWZSZnFpcApcEmPd3S_mR344tlq573dWMzXZNLS5-LyzcxM8_KNzUnP6XSocagRqEaZJOCjaGZlh2YVaNgqKALhubxQMIIiGECpiABMxBRA2GDeVAWAhpAaYhJIAw2CcQAmQYzEUTXKBhDNYB4IBokAzMAbAjUUSB5kCyINgVikD5Uy5B1IUOw-0DGQiwDWQXzEMRQiIEIF2ODcGu4aqFBCE4rQR44wtA4Xts0XhsRcNrmOiBnABkgO9FlgQQ0WMEyYFGgAIKDLXChJiAouBUIPtg2VCaaJMQcbVg0IMmAuAiHYosTJMWgEEbigmltULDCTcd0PFwYxRysoQOJPiRNRlhDGG4Ewn6IdaiK8fFwRLQProg2hEWQKTj0wSGBwUBShslAyi4YcghDESyoOnBsgQXB2QbGwIgjLCbgs5pIb5hhMRbDiYRsBQWxrh2wmMzMUwDSylwA)]
+- [主旋律 TMD 檔案](saka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVx02oFjadzmzQVtLS4FG0VzM247G0V3LnqFJRerJz3fs-sZ_tanq5b93RL-5PdjS-WrXre160Eknw2exNIcsOOJ7umPt2549mahUpcNib6JnZcXPpaXAoKKGaD-MH5pUXJqVYKT6dsfLa25-mOaQoaRgZGBnoGBmZ6BhYmxpo6CgGGliZ6WQXpChpJ-SUl-blgfb6JRemZeYk5mYlWCo-bWx43tz5uWqunYGiqZ6RnrKABcd6zdfuf7Oh-um_hk71zFJ6vXvpizcKXs9vA-p3zcwvyi1OLrBSQHQtUB_SBgr6CT2VRZnJmcQlQGsOj2EwHmxmSCjQTqNm1oqAotbg4Mz_PSuH59pVP90143NzNBVIBNrbYCsQ01AMHR3PX46Y1j5uWQMPlcdOyx82bHzdtfty88nHT9sfNyx83dwBV9T1unvO4uflx036gBFAVUP1akMbm_sdNu0A6mhu4tPS5uHwTM_OswvKTE3McagxqFKpBdijYGJpp2YFZNQqGCrpgaB4PJIyAGCZgChIwAxE1EDaYB2UhoAGUhpgEwmCTQAyQaTATQXSNgjFUA4gHokEyMAPAhkAdBZIHyYJoUyAG6UO1DFkXMgS7D2QsxDKQVTAPQQyFGIhwMTYIt4arlotL1w6YtjLzFIC0MhcA)]
+- [鋼琴伴奏 TMD 檔案](saka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVx02oFjadzmzQVHjVMUQjITMzLV3BMTs7PLUjMy8xNzStR0NLiUrRVMDfjsrdVcOeqU1B6sXLe-z2znu1rebpu3dMt7U92N75Ytup5X7cSSPLZ7E0gyQ07nuya-nTnjmdrFipx2Zjom9hxcelrcSkoEGUnSF1wfmlRcqqVwtMpG5-t7Xm6Y5qChpGBkYGegYGZnoGFibGmjkKAoaWJXlZBuoJGUn5JSX6uJkifb2JRemZeYk5mopXC4-aWx82tj5vW6ikYmuoZ6RkraECc_Wzd_ic7up_uW_hk7xyF56uXvliz8OXsNrB-Z6Az8otTi6wUkD0BVAf0mYK-gk9lUWZyZnEJUBojALCZrsmlpc_F5ZuYmWcVlp-cmONQY1CjUA2ySMHG0EzLDsyqUTBU0AVD83ggYQTEMAFTkIAZiKiBsME8KAsBDaA0xCQQBpsEYoBMg5kIomsUjKEaQDwQDZKBGQA2BOookDxIFkSbAjFIH6plyLqQIdh9IGMhloGsgnkIYijEQISLsUG4NVy10BAEJ5UgDxxhaByvbRqvjQg4bXMdkDOADJCd6LJAAhqsYBmwKFAAwcEWuFATEBTcCgQfbBsqE00SYo42LBqQZEBchEOxxQmSYlAII3HBtDYoWOGmYzoeLoxiDtbQgUQfkiYjrCEMNwJhP8Q6VMX4eDgi2gdXRBvCIsgUHPrgkMBgICnDZCBlFww5hKEIFlQdOLbAguBsA2NgxBEWE_BZTaQ3zLAYi-FEQraCgljXDlhKZuYpAGllLgA)]
 
 ## 分析
 
@@ -89,7 +91,7 @@ A3 G A2 d2 B4 z4 | z12 D2 G2 | B3 A G4 A4 d4 | G12 z4 |
      B  : ██████                     9.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : D4 – D5 (12 個半音 / 1.0 個八度, 33 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 33 個音符)
 ================================================================================
 ```
 

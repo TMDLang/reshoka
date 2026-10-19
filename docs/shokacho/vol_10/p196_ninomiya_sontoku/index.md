@@ -38,7 +38,7 @@ M:3/4
 L:1/16
 Q:1/4=96
 K:Bb
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 z4 z4 F2 F2 | B6 c2 B2 G2 | F8 B2 c2 | d6 f2 d2 c2 |
 B8 c2 c2 | d6 c2 B2 G2 | F8 G2 B2 | F4 c6 B2 |
@@ -49,8 +49,8 @@ B8 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ninomiya_sontoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyq-fpunVPN3Q93bdZQQOJt11TQUuLS9FWwdKMy95WwUmHy8ZY38SOi0tfi0tBAZ8-kHRwfmlRcqqVwtMpG5-t7Xm6Y5qChpGBkYGegYGZnoGFibGmjkKAoaWZXlZBuoJGSX4BWJNvYlF6Zl5iTmailYKhqZ6RnqGxgsbTJcufrV1saPp05xajZ3M6DI2fTV-qyQVS7lNZlJlcbAViGuqByMdN2x83T3jctPpx86rHzV2Pm_vB5CSFx83rHzevfNy043HzpsfNLY-bgNxVQOVAVUseN_c9bm4DiTY3gNWCRDvAqO9x026w1iUQ09c-bl78uGkZSGHTkie7gUatABql8HTt3BcLe6DmNu1UeNbZ_WzOGqDtkFB52T7x2ZqFL5v7wI42gri0cffjxrWPmyY9bup63LjpcSPQoA4gGygB5jT2Pm5c_7hx3-PGqRDRySDUBBRd-rix_3Hj9MdNTXC1q8FqgSo6Hjcug5i-7nHjQqhEU-PjxgmPG_cDBSE6ukF2gmwGWtgEVAQUnQ62EEiuR47W5_sbubT0ubh8EzPzrHxTc_JTKh1qDGoUqkF2KNhYaNmBGTUKBgq6YGwaD0I1CoZAtq6CEZA2A3GBYiC-LpBvBOQag9mmQBrIg5oA0QHSg1CBqR_IM4TxjaAmopsANhXKA9lnDNIA0w9kIewHmQ_TDTQZogTVCxBrEFoQBuCyHhQMNVy1XFy6dsDknJmnAKSVuQA)]
-- [鋼琴伴奏 TMD 檔案](ninomiya_sontoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyq-fpunVPN3Q93bdZQQOJt11T4VHDFIWAzMS8fAXH5OT83ILEvMzc1LwSBS0tLkVbBUszLntbBScdLhtjfRM7Li59LS4FBXLMA2kLzi8tSk61Ung6ZeOztT1Pd0xT0DAyMDLQMzAw0zOwMDHW1FEIMLQ008sqSFfQKMkv0ARp8k0sSs_MS8zJTLRSMDTVM9IzNFbQeLpk-bO1iw1Nn-7cYvRsToeh8bPpSzW5tPS5uHwTM_OsfFNz8lMqHWoMahSqQWYo2Fho2YEZNQoGCrpgbBoPQjUKhkC2roIRkDYDcYFiIL4ukG8E5BqD2aZAGsiDmgDRAdKDUIGpH8gzhPGNoCaimwA2FcoD2WcM0gDTD2Qh7AeZD9MNNBmiBNULEGsQWhAG4LIeFAw1XLXQQANHWpAHcaFmHK9tGq-NFnZgQZTgA6nRxhaGyPphIYmkGKuR0BCFCQGVm-vEa6N7DtVkSAgji8HCGWiVNmpYozgWOcCB2jHCHNUaJLegmYNmNFGOxhIvPgTiBaxFwRAeVDogFpIAmIHEN4UogCUImDAhY0ygAhDtEBIECRmEbj3MHBzugdiLxRyoMnIdBApTXTtgkZKZpwCklbkA)]
+- [主旋律 TMD 檔案](ninomiya_sontoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyq-fpunVPN3Q93bdZQQOJt11TQUuLS9FWwdKMy95WwUmHy8ZY38SOi0tfi0tBAZ8-kHRwfmlRcqqVwtMpG5-t7Xm6Y5qChpGBkYGegYGZnoGFibGmjkKAoaWZXlZBuoJGSX4BWJNvYlF6Zl5iTmailYKhqZ6RnqGxgsbTJcufrV1saPp05xajZ3M6DI2fTV-qyQVS7lNZlJlcbAViGuqByMdN2x83T3jctPpx86rHzV2Pm_vB5CSFx83rHzevfNy043HzpsfNLY-bgNxVQOVAVUseN_c9bm4DiTY3gNWCRDvAqO9x026w1iUQ09c-bl78uGkZSGHTkie7gUatABql8HTt3BcLe6DmNu1UeNbZ_WzOGqDtkFB52T7x2ZqFL5v7wI42gri0cffjxrWPmyY9bup63LjpcSPQoA4gGygB5jT2Pm5c_7hx3-PGqRDRySDUBBRd-rix_3Hj9MdNTXC1q8FqgSo6Hjcug5i-7nHjQqhEU-PjxgmPG_cDBSE6ukF2gmwGWtgEVAQUnQ62EEiuR47W5_sbubT0ubh8EzPzrMLykxNzHGoMahSqQVYo2Fho2YEZNQoGCrpgbBoPQjUKhkC2roIRkDYDcYFiIL4ukG8E5BqD2aZAGsiDmgDRAdKDUIGpH8gzhPGNoCaimwA2FcoD2WcM0gDTD2Qh7AeZD9MNNBmiBNULEGsQWhAG4LIeFAw1XLVcXLp2wNScmacApJW5AA)]
+- [鋼琴伴奏 TMD 檔案](ninomiya_sontoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyq-fpunVPN3Q93bdZQQOJt11T4VHDFIWAzMS8fAXH5OT83ILEvMzc1LwSBS0tLkVbBUszLntbBScdLhtjfRM7Li59LS4FBXLMA2kLzi8tSk61Ung6ZeOztT1Pd0xT0DAyMDLQMzAw0zOwMDHW1FEIMLQ008sqSFfQKMkv0ARp8k0sSs_MS8zJTLRSMDTVM9IzNFbQeLpk-bO1iw1Nn-7cYvRsToeh8bPpSzW5tPS5uHwTM_OswvKTE3McagxqFKpBRijYWGjZgRk1CgYKumBsGg9CNQqGQLaughGQNgNxgWIgvi6QbwTkGoPZpkAayIOaANEB0oNQgakfyDOE8Y2gJqKbADYVygPZZwzSANMPZCHsB5kP0w00GaIE1QsQaxBaEAbgsh4UDDVctdAwA8dZkAdxoWYcr20ar40WdmBBlOADqdHGFobI-mEhiaQYq5HQEIUJAZWb68Rro3sO1WRICCOLwcIZaJU2alijOBY5wIHaMcIc1Rokt6CZg2Y0UY7GEi8-BOIFrEXBEB5UOiAWkgCYgcQ3hSiAJQiYMCFjTKACEO0QEgQJGYRuPcwcHO6B2IvFHKgych0EClNdO2CJkpmnAKSVuQA)]
 
 ## 分析
 
@@ -102,7 +102,7 @@ B8 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : F4 – G5 (14 個半音 / 1.2 個八度, 53 個音符)
+  - Vocal         : F4 – G5 (14 個半音 / 1.2 個八度, 53 個音符)
 ================================================================================
 ```
 

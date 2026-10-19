@@ -2,7 +2,8 @@
 
 <audio controls src="uma.mp3"></audio>
 
-- 詞曲作者：未在 TMD metadata 中提供
+- 詞：澄宮崇仁親王
+- 曲：本居長世
 
 ## 說明
 
@@ -24,11 +25,12 @@ Tempo / Expression: 活潑ニ
 ```abc
 X:1
 T:ウ・マ 馬
+C:曲：本居長世
 M:4/4
 L:1/16
 Q:1/4=120
 K:G
-V:V1 name="Melody" snm="Mel"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 z16 | z16 | G4 A4 B4 A4 | G4 E4 D4 D4 |
 G4 A4 B4 G4 | A12 z4 | d4 e2 d2 B6 A2 | G4 A2 G2 E4 D4 |
@@ -37,8 +39,8 @@ z4 G8 B4 | z4 A8 d4 | G8 G8 | G4 z12 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](uma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx8-7HzfMUNF4uW6OpoKXFpWirYGhkwGVvq-DOZWOib2LHxaWvxaWggK4WJBScX1qUnGql8HTKxmdre57umKagYWRgZKBnYGCmZ2BhYqypoxBgaGmil1WQrqBRkl8A1uSbWJSemZeYk5lopfC4ueVxc-vjprV6CoamekZ6xgoaz_a1PF237tm6_U92dD_dt_DJ3jkKz1cvfbFm4cvZbWD9zvm5BfnFqUVWCs_mrHm6sfXl1O1PdkwDqns2e5OCvoJPZVFmcmZxCVAabNLTLe1Pdje-WLbqeV83NtPBZoakAs0EanatKChKLS7OzM8Dat-y-9neiY-bu7lAKsDGFluBmIZ68OCY97i573ETMFC6Hjetftw8A-iheY-b9j9uWvO4uflxcxuQPxEsAyH7Hzdth0ssA3obrHYJUDuXlj4Xl29iZp6Vb2pOfkqlQ41BjUI1yB4FG0MzLTswq0bBQEEXLyRGhSGUZQSljdH4CBVm8VCGKQajBuogXIbBxGvgMugQ5tAaBVOYdSALkMyAmYtqC4iN6TCYe2CmwnTAIMxMhAp0d8FcgbANBtH5CBW4AruGq5aLS9cOmNQz8xSAtDIXAA)]
-- [鋼琴伴奏 TMD 檔案](uma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx8-7HzfMUNF4uW6Op8KhhikJAZmJevoJjcnJ-bkFiXmZual6JgpYWl6KtgqGRAZe9rYI7l42JvokdF5e-FpeCArFmgJQG55cWJadaKTydsvHZ2p6nO6YpaBgZGBnoGRiY6RlYmBhr6igEGFqa6GUVpCtolOQXaII0-SYWpWfmJeZkJlopPG5uedzc-rhprZ6CoamekZ6xgsazfS1P1617tm7_kx3dT_ctfLJ3jsLz1UtfrFn4cnYbWL8z0A35xalFVgrP5qx5urH15dTtT3ZMA6p7NnuTgr6CT2VRZnJmcQlQGmzS0y3tT3Y3vli26nlfNzbTNbm09Lm4fBMz86x8U3PyUyodagxqFKpBNinYGJpp2YFZNQoGCrp4ITEqDKEsIyhtjMZHqDCLhzJMMRg1UAfhMgwmXgOXQYcwh9YomMKsA1mAZAbMXFRbQGxMh8HcAzMVpgMGYWYiVKC7C-YKhG0wiM5HqMAV2DVctdDYBKfZIA8c0Wkcr20arw0zDcHDxsKlgnRTkEIeIQhkmuvEa8NCBSSjDQs0NDkUfUCj4bEBtgYLGxY5xFuHSD6YCvFwET4DmqYNi1FDbRNtWNpCsQgEIQkMyUpYGsPlMfSUhqQVBlEsQVGJ7FgYBIvBHYsenTCIXRRdNZEJ0gdXgjSEZywdGAuLEH51SJFAqmlmmOrgDHiJg8dQhGIkWWwsLG40IdKN-DRguBEPg5ATiQ1urOrwpgNdO2D1l5mnAKSVuQA)]
+- [主旋律 TMD 檔案](uma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx8-7HzfMUNF4uW6OpoKXFpWirYGhkwGVvq-DOVaeg9GLlvPd7Zj3b1_J03bqnW9qf7G58sWzV875uJZDks9mbQJJz1jzd2Ppy6vYnO6YpcdmY6JvYcXHpa3EpKKCbDxIKzi8tSk61Ung6ZeOztT1Pd0xT0DAyMDLQMzAw0zOwMDHW1FEIMLQ00csqSFfQKMkvAGvyTSxKz8xLzMlMtFJ43NzyuLn1cdNaPQVDUz0jPWMFDYjznq3b_2RH99N9C5_snaPwfPXSF2sWvpzdBtbvnJ9bkF-cWmSlgOxYoDqgDxT0FXwqizKTM4tLgNIYHsVmOtjMkFSgmUDNrhUFRanFxZn5eUDtW3Y_2zvxcXM3F0gF2NhiKxDTUA8eHPMeN_c9bgIGStfjptWPm2cAPTTvcdP-x01rHjc3P25uA_IngmUgZP_jpu1wiWVAb4PVLgFq59LS5-LyTczMswrLT07McagxqFGoBlmjYGNopmUHZtUoGCjo4oXEqDCEsoygtDEaH6HCLB7KMMVg1EAdhMswmHgNXAYdwhxao2AKsw5kAZIZMHNRbQGxMR0Gcw_MVJgOGISZiVCB7i6YKxC2wSA6H6ECV2DXcNVycenaAVN6Zp4CkFbmAgA)]
+- [鋼琴伴奏 TMD 檔案](uma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx8-7HzfMUNF4uW6Op8KhhikJAZmJevoJjcnJ-bkFiXmZual6JgpYWl6KtgqGRAZe9rYI7V52C0ouV897vmfVsX8vTdeuebml_srvxxbJVz_u6lUCSz2ZvAknOWfN0Y-vLqduf7JimxGVjom9ix8Wlr8WloECsvSClwfmlRcmpVgpPp2x8trbn6Y5pChpGBkYGegYGZnoGFibGmjoKAYaWJnpZBekKGiX5BZogTb6JRemZeYk5mYlWCo-bWx43tz5uWqunYGiqZ6RnrKABcfazdfuf7Oh-um_hk71zFJ6vXvpizcKXs9vA-p2BbsgvTi2yUkD2BFAd0GcK-go-lUWZyZnFJUBpjADAZroml5Y-F5dvYmaeVVh-cmKOQ41BjUI1yCIFG0MzLTswq0bBQEEXLyRGhSGUZQSljdH4CBVm8VCGKQajBuogXIbBxGvgMugQ5tAaBVOYdSALkMyAmYtqC4iN6TCYe2CmwnTAIMxMhAp0d8FcgbANBtH5CBW4AruGqxYameAkG-SBIzqN47VN47VhpiF42Fi4VJBuClLIIwSBTHOdeG1YqIBktGGBhiaHog9oNDw2wNZgYcMih3jrEMkHUyEeLsJnQNO0YTFqqG2iDUtbKBaBICSBIVkJS2O4PIae0pC0wiCKJSgqkR0Lg2AxuGPRoxMGsYuiqyYyQfrgSpCG8IylA2NhEcKvDikSSDXNDFMdnAEvcfAYilCMJIuNhcWNJkS6EZ8GDDfiYRByIrHBjVUd3nSgawes_TLzFIC0MhcA)]
 
 ## 分析
 
@@ -90,7 +92,7 @@ z4 G8 B4 | z4 A8 d4 | G8 G8 | G4 z12 |
      B  : █████████                 13.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : D4 – E5 (14 個半音 / 1.2 個八度, 30 個音符)
+  - Vocal         : D4 – E5 (14 個半音 / 1.2 個八度, 30 個音符)
 ================================================================================
 ```
 
