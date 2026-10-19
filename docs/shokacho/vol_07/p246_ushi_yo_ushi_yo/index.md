@@ -2,7 +2,7 @@
 
 <audio controls src="ushi_yo_ushi_yo.mp3"></audio>
 
-- 詞曲：陳英声（陳英聲，1898–1961，大稻埕蓬萊公學校訓導）
+- 曲：陳英声
 - 唱歌帖 P246 (60頁)
 
 ## 說明
