@@ -1,3 +1,15 @@
+---
+title: "蓮の葉の露 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "蓮の葉の露"
+description: "〈蓮の葉の露〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003））（詞：葛原齒、曲：梁田貞），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あの蓮の葉の　露の玉 ほんとにきれいな　露の玉…"
+keywords: "蓮の葉の露, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒, 梁田貞"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
+musical_key: "C"
+image: "P069.jpg"
+audio: "hasu_no_ha_no_tsuyu.mp3"
+---
+
 # 蓮の葉の露
 
 <audio controls src="hasu_no_ha_no_tsuyu.mp3"></audio>
@@ -107,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P069.jpg](P069.jpg)
+![蓮の葉の露 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P069.jpg](P069.jpg)
 
 

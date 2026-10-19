@@ -1,3 +1,15 @@
+---
+title: "蓮池 — 《新定兒童唱歌》 尋常科 第六學年"
+song_title: "蓮池"
+description: "〈蓮池〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（2020.006.0847.0006）），調號拍號：G 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　丸葉卷葉（まるはまきば）をそよがせて 朝風わたる池のおも…"
+keywords: "蓮池, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（2020.006.0847.0006）"
+musical_key: "G"
+image: "P033.jpg"
+audio: "hasuike.mp3"
+---
+
 # 蓮池
 
 <audio controls src="hasuike.mp3"></audio>
@@ -107,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P033.jpg](P033.jpg)
+![蓮池 — 《新定兒童唱歌》 尋常科 第六學年 原書掃描頁 P033.jpg](P033.jpg)
 
 

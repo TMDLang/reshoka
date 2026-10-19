@@ -1,3 +1,15 @@
+---
+title: "他郷の月 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "他郷の月"
+description: "〈他郷の月〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：中村秋香），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：よくと悅ぶ　父母のきみ あれ姉上と　かけ來る妹（いもと）…"
+keywords: "他郷の月, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 中村秋香"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "E,"
+image: "P096.jpg"
+audio: "takyo_no_tsuki.mp3"
+---
+
 # 他郷の月
 
 <audio controls src="takyo_no_tsuki.mp3"></audio>
@@ -106,6 +118,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P096.jpg](P096.jpg)
+![他郷の月 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P096.jpg](P096.jpg)
 
 

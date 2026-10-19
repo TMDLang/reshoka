@@ -1,3 +1,15 @@
+---
+title: "夕立小立 (陣雨) — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
+song_title: "夕立小立 (陣雨)"
+description: "〈夕立小立 (陣雨)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：富原義徳），調號拍號：E 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "夕立小立 (陣雨), 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 富原義徳"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+musical_key: "E"
+image: "P250.jpg"
+audio: "yudachi_kodachi.mp3"
+---
+
 # 夕立小立 (陣雨)
 
 <audio controls src="yudachi_kodachi.mp3"></audio>
@@ -95,6 +107,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P250.jpg](P250.jpg)
+![夕立小立 (陣雨) — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上） 原書掃描頁 P250.jpg](P250.jpg)
 
 

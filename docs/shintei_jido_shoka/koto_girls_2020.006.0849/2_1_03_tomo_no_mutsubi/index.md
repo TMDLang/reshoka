@@ -1,3 +1,15 @@
+---
+title: "友の睦び — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "友の睦び"
+description: "〈友の睦び〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花の朝（あした）、月の夕（ゆふべ） 親はしき友集ひ…"
+keywords: "友の睦び, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "D"
+image: "P080.jpg"
+audio: "tomo_no_mutsubi.mp3"
+---
+
 # 友の睦び
 
 <audio controls src="tomo_no_mutsubi.mp3"></audio>
@@ -110,6 +122,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P080.jpg](P080.jpg)
+![友の睦び — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P080.jpg](P080.jpg)
 
 

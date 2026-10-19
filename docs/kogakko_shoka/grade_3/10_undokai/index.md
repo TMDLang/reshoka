@@ -1,3 +1,15 @@
+---
+title: "うんどうくわい（運動會） — 《公學校唱歌》 第三學年用"
+song_title: "うんどうくわい（運動會）"
+description: "〈うんどうくわい（運動會）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　朝かぜさつと吹いて來て、 大はたひらひら、小はたひらひら、…"
+keywords: "うんどうくわい（運動會）, 公學校唱歌, 第三學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌》 尋常科 第三學年用"
+musical_key: "C"
+image: "image.jpeg"
+audio: "undokai.mp3"
+---
+
 # うんどうくわい（運動會）
 
 <audio controls src="undokai.mp3"></audio>
@@ -128,8 +140,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![image.jpeg](image.jpeg)
+![うんどうくわい（運動會） — 《公學校唱歌》 第三學年用 原書掃描頁 image.jpeg](image.jpeg)
 
-![image2.jpeg](image2.jpeg)
+![うんどうくわい（運動會） — 《公學校唱歌》 第三學年用 原書掃描頁 image2.jpeg](image2.jpeg)
 
 

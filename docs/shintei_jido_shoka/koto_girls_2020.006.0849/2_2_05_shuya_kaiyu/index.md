@@ -1,3 +1,15 @@
+---
+title: "秋夜懷友 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "秋夜懷友"
+description: "〈秋夜懷友〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：犬童球溪、曲：Wrighton（美國曲）），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：手（て）なれの小箏（をごと）共にかきなで 澄みゆく月をめでしも今は…"
+keywords: "秋夜懷友, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 犬童球溪, Wrighton（美國曲）"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "G"
+image: "P094.jpg"
+audio: "shuya_kaiyu.mp3"
+---
+
 # 秋夜懷友
 
 <audio controls src="shuya_kaiyu.mp3"></audio>
@@ -114,8 +126,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P094.jpg](P094.jpg)
+![秋夜懷友 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P094.jpg](P094.jpg)
 
-![P095.jpg](P095.jpg)
+![秋夜懷友 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P095.jpg](P095.jpg)
 
 

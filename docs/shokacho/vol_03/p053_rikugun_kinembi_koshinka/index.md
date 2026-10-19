@@ -1,3 +1,15 @@
+---
+title: "陸軍記念日行進歌 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
+song_title: "陸軍記念日行進歌"
+description: "〈陸軍記念日行進歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：不詳），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "陸軍記念日行進歌, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 不詳"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+musical_key: "C"
+image: "P053.jpg"
+audio: "rikugun_kinembi_koshinka.mp3"
+---
+
 # 陸軍記念日行進歌
 
 <audio controls src="rikugun_kinembi_koshinka.mp3"></audio>
@@ -98,8 +110,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P053.jpg](P053.jpg)
+![陸軍記念日行進歌 — 《楊金土手抄唱歌帖》 第 3 冊（I） 原書掃描頁 P053.jpg](P053.jpg)
 
-![P054.jpg](P054.jpg)
+![陸軍記念日行進歌 — 《楊金土手抄唱歌帖》 第 3 冊（I） 原書掃描頁 P054.jpg](P054.jpg)
 
 

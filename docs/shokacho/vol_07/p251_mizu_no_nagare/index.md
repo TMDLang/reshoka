@@ -1,3 +1,15 @@
+---
+title: "水の流 (水流) — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
+song_title: "水の流 (水流)"
+description: "〈水の流 (水流)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）），調號拍號：F 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "水の流 (水流), 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+musical_key: "F"
+image: "P251.jpg"
+audio: "mizu_no_nagare.mp3"
+---
+
 # 水の流 (水流)
 
 <audio controls src="mizu_no_nagare.mp3"></audio>
@@ -94,6 +106,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P251.jpg](P251.jpg)
+![水の流 (水流) — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上） 原書掃描頁 P251.jpg](P251.jpg)
 
 

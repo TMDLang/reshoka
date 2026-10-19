@@ -1,3 +1,15 @@
+---
+title: "春の野 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "春の野"
+description: "〈春の野〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　菜種の花に　飛ぶ胡蝶 青空高く　啼く雲雀…"
+keywords: "春の野, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "G"
+image: "P024.jpg"
+audio: "haru_no_no.mp3"
+---
+
 # 春の野
 
 <audio controls src="haru_no_no.mp3"></audio>
@@ -107,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P024.jpg](P024.jpg)
+![春の野 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P024.jpg](P024.jpg)
 
 

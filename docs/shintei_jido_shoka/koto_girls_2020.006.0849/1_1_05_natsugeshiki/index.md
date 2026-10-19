@@ -1,3 +1,15 @@
+---
+title: "夏げしき — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "夏げしき"
+description: "〈夏げしき〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花（はな）もいつしか散（ち）り過（す）ぎて 青葉（あをば）すゞしき世（よ）となれば…"
+keywords: "夏げしき, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "D"
+image: "P041.jpg"
+audio: "natsugeshiki.mp3"
+---
+
 # 夏げしき
 
 <audio controls src="natsugeshiki.mp3"></audio>
@@ -117,6 +129,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P041.jpg](P041.jpg)
+![夏げしき — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P041.jpg](P041.jpg)
 
 

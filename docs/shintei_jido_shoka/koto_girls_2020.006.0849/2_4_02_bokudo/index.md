@@ -1,3 +1,15 @@
+---
+title: "牧童 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "牧童"
+description: "〈牧童〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849）），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：入日のかげ赤くさし 野もせははやくれそめぬ…"
+keywords: "牧童, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "G"
+image: "P112.jpg"
+audio: "bokudo.mp3"
+---
+
 # 牧童
 
 <audio controls src="bokudo.mp3"></audio>
@@ -114,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P112.jpg](P112.jpg)
+![牧童 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P112.jpg](P112.jpg)
 
 

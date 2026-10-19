@@ -1,3 +1,15 @@
+---
+title: "村のかぢや（村之鍛冶屋） — 《公學校唱歌》 第三學年用"
+song_title: "村のかぢや（村之鍛冶屋）"
+description: "〈村のかぢや（村之鍛冶屋）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　しばしもやまずにつちうつひびき。 とびちる火の花、はしるゆだま。…"
+keywords: "村のかぢや（村之鍛冶屋）, 公學校唱歌, 第三學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌》 尋常科 第三學年用"
+musical_key: "F"
+image: "image.jpeg"
+audio: "muranokajiya.mp3"
+---
+
 # 村のかぢや（村之鍛冶屋）
 
 <audio controls src="muranokajiya.mp3"></audio>
@@ -131,12 +143,12 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![image.jpeg](image.jpeg)
+![村のかぢや（村之鍛冶屋） — 《公學校唱歌》 第三學年用 原書掃描頁 image.jpeg](image.jpeg)
 
-![image2.jpeg](image2.jpeg)
+![村のかぢや（村之鍛冶屋） — 《公學校唱歌》 第三學年用 原書掃描頁 image2.jpeg](image2.jpeg)
 
-![image3.jpeg](image3.jpeg)
+![村のかぢや（村之鍛冶屋） — 《公學校唱歌》 第三學年用 原書掃描頁 image3.jpeg](image3.jpeg)
 
-![image4.jpeg](image4.jpeg)
+![村のかぢや（村之鍛冶屋） — 《公學校唱歌》 第三學年用 原書掃描頁 image4.jpeg](image4.jpeg)
 
 

@@ -1,3 +1,15 @@
+---
+title: "朝 — 《新定兒童唱歌》 尋常科 第六學年"
+song_title: "朝"
+description: "〈朝〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（2020.006.0847.0006）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：草葉の露をふみわけて 木こりは山に登り行く…"
+keywords: "朝, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（2020.006.0847.0006）"
+musical_key: "D"
+image: "P072.jpg"
+audio: "asa.mp3"
+---
+
 # 朝
 
 <audio controls src="asa.mp3"></audio>
@@ -119,6 +131,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P072.jpg](P072.jpg)
+![朝 — 《新定兒童唱歌》 尋常科 第六學年 原書掃描頁 P072.jpg](P072.jpg)
 
 

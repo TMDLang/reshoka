@@ -1,3 +1,15 @@
+---
+title: "安南行進曲 — 《楊金土手抄唱歌帖》 第 9 冊（IX・支那曲）"
+song_title: "安南行進曲"
+description: "〈安南行進曲〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 9 冊・IX — 支那曲（2020.006.0844，P001–P014））（曲：伝統曲 (合調・昭2.7.12.抄)），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "安南行進曲, 楊金土手抄唱歌帖, 第 9 冊（IX・支那曲）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 伝統曲 (合調・昭2.7.12.抄)"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 9 冊・IX — 支那曲（2020.006.0844，P001–P014）"
+musical_key: "C"
+image: "P012.jpg"
+audio: "annan_koshinkyoku.mp3"
+---
+
 # 安南行進曲
 
 <audio controls src="annan_koshinkyoku.mp3"></audio>
@@ -117,8 +129,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P012.jpg](P012.jpg)
+![安南行進曲 — 《楊金土手抄唱歌帖》 第 9 冊（IX・支那曲） 原書掃描頁 P012.jpg](P012.jpg)
 
-![P013.jpg](P013.jpg)
+![安南行進曲 — 《楊金土手抄唱歌帖》 第 9 冊（IX・支那曲） 原書掃描頁 P013.jpg](P013.jpg)
 
 

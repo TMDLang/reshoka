@@ -1,3 +1,15 @@
+---
+title: "終業式 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "終業式"
+description: "〈終業式〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、學びの庭よ師の君よ 今日しもとざす窓のうち…"
+keywords: "終業式, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
+musical_key: "D"
+image: "P090.jpg"
+audio: "shugyoshiki.mp3"
+---
+
 # 終業式
 
 <audio controls src="shugyoshiki.mp3"></audio>
@@ -107,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P090.jpg](P090.jpg)
+![終業式 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P090.jpg](P090.jpg)
 
 

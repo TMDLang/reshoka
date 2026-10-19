@@ -1,3 +1,15 @@
+---
+title: "なすのよいち — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "なすのよいち"
+description: "〈なすのよいち〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：げんぺいしようぶの　はれのばしよ ぶうんはこの矢にさだまると…"
+keywords: "なすのよいち, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
+musical_key: "F"
+image: "P044.jpg"
+audio: "nasu_no_yoichi.mp3"
+---
+
 # なすのよいち
 
 <audio controls src="nasu_no_yoichi.mp3"></audio>
@@ -105,6 +117,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P044.jpg](P044.jpg)
+![なすのよいち — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P044.jpg](P044.jpg)
 
 

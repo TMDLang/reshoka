@@ -1,3 +1,15 @@
+---
+title: "青年の歌 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "青年の歌"
+description: "〈青年の歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848））（曲：山田耕作），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　明けゆく空よ　いざ　いざ　いざ 胸は躍る　雲の光…"
+keywords: "青年の歌, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山田耕作"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "D"
+image: "P113.jpg"
+audio: "seinen_no_uta.mp3"
+---
+
 # 青年の歌
 
 <audio controls src="seinen_no_uta.mp3"></audio>
@@ -113,6 +125,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P113.jpg](P113.jpg)
+![青年の歌 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P113.jpg](P113.jpg)
 
 

@@ -1,3 +1,15 @@
+---
+title: "軍艦（軍艦） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
+song_title: "軍艦（軍艦）"
+description: "〈軍艦（軍艦）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：カレー（英 / Henry Carey）），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワダノ ハラニ シマノ ゴトク ミユルハ ヨスル アダヲ フセグ フネヨ…"
+keywords: "軍艦（軍艦）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, カレー（英 / Henry Carey）"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+musical_key: "G"
+image: "P012.jpg"
+audio: "gunkan.mp3"
+---
+
 # 軍艦（軍艦）
 
 <audio controls src="gunkan.mp3"></audio>
@@ -118,6 +130,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P012.jpg](P012.jpg)
+![軍艦（軍艦） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下） 原書掃描頁 P012.jpg](P012.jpg)
 
 

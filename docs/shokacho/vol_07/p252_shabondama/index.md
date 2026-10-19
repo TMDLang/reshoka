@@ -1,3 +1,15 @@
+---
+title: "しゃぼん玉 (肥皂泡) — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
+song_title: "しゃぼん玉 (肥皂泡)"
+description: "〈しゃぼん玉 (肥皂泡)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（曲：黒澤隆朝、詞：横山静子），調號拍號：E, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：6/8 section represented as compound duple triplets in 2/4 2/…"
+keywords: "しゃぼん玉 (肥皂泡), 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 黒澤隆朝, 横山静子"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+musical_key: "E,"
+image: "P251.jpg"
+audio: "shabondama.mp3"
+---
+
 # しゃぼん玉 (肥皂泡)
 
 <audio controls src="shabondama.mp3"></audio>
@@ -110,8 +122,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P251.jpg](P251.jpg)
+![しゃぼん玉 (肥皂泡) — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上） 原書掃描頁 P251.jpg](P251.jpg)
 
-![P252.jpg](P252.jpg)
+![しゃぼん玉 (肥皂泡) — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上） 原書掃描頁 P252.jpg](P252.jpg)
 
 

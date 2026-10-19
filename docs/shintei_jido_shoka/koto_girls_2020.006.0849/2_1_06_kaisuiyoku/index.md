@@ -1,3 +1,15 @@
+---
+title: "海水浴 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "海水浴"
+description: "〈海水浴〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849）），調號拍號：A 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：瑠璃（るり）の色なす夏の海邊 白き花片（はなびら）ちるは浪よ…"
+keywords: "海水浴, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "A"
+image: "P084.jpg"
+audio: "kaisuiyoku.mp3"
+---
+
 # 海水浴
 
 <audio controls src="kaisuiyoku.mp3"></audio>
@@ -109,8 +121,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P084.jpg](P084.jpg)
+![海水浴 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P084.jpg](P084.jpg)
 
-![P085.jpg](P085.jpg)
+![海水浴 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P085.jpg](P085.jpg)
 
 

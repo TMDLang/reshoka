@@ -1,3 +1,15 @@
+---
+title: "トンボ — 《楊金土手抄唱歌帖》 第 2 冊（II）"
+song_title: "トンボ"
+description: "〈トンボ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：大正幼年唱歌 第六集），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "トンボ, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 大正幼年唱歌 第六集"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+musical_key: "B,"
+image: "P070.jpg"
+audio: "tonbo.mp3"
+---
+
 # トンボ
 
 <audio controls src="tonbo.mp3"></audio>
@@ -95,6 +107,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P070.jpg](P070.jpg)
+![トンボ — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P070.jpg](P070.jpg)
 
 

@@ -473,10 +473,19 @@ def generate_song_folder(
     if abc + "\n" != abc_raw:
         abc_path.write_text(abc + "\n", encoding="utf-8")
 
+    vol_name = folder.parent.name
+    col_name = folder.parent.parent.name
+    col_title = COLLECTION_TITLES.get(col_name, col_name)
+    vol_title = VOLUME_TITLES.get(vol_name, vol_name)
+    vol_nav_title = VOLUME_NAV_TITLES.get(vol_name, vol_name)
+
     images = find_scanned_images(folder)
     images_section = ""
     if images:
-        img_lines = [f"![{img.name}]({img.name})" for img in images]
+        img_lines = [
+            f"![{title} — {col_title} {vol_nav_title} 原書掃描頁 {img.name}]({img.name})"
+            for img in images
+        ]
         images_section = "\n## 原書掃描頁\n\n" + "\n\n".join(img_lines) + "\n"
 
     main_studio_url = render_studio_url(main_tmd, folder)
@@ -491,7 +500,63 @@ def generate_song_folder(
     tmd_links_block = "\n".join(tmd_links)
     cross_ref_section = render_cross_references(folder)
 
-    markdown = f"""# {title}
+    # Build SEO frontmatter
+    seo_title = f"{title} — {col_title} {vol_nav_title}"
+    credit_summary = "、".join(credits) if credits else ""
+    key_meter_summary = " ".join(
+        p for p in [score_info.get("key", ""), score_info.get("meter", "")] if p
+    )
+    lyrics_preview = ""
+    if lyrics:
+        clean_lyric_lines = [
+            ln.strip()
+            for ln in lyrics.splitlines()
+            if ln.strip() and not re.match(r"^[一二三四五六七八九十0-9]+[、\.\s]*$", ln.strip())
+        ]
+        if clean_lyric_lines:
+            lyrics_preview = " ".join(clean_lyric_lines[:2])[:60]
+
+    desc_parts = [f"〈{title}〉收錄於日治時期臺灣{col_title}（{vol_title}）"]
+    if credit_summary:
+        desc_parts.append(f"（{credit_summary}）")
+    if key_meter_summary:
+        desc_parts.append(f"，調號拍號：{key_meter_summary}")
+    desc_str = "".join(desc_parts) + "。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+    if lyrics_preview:
+        desc_str += f"歌詞：{lyrics_preview}…"
+
+    kw_list = [title, col_title.strip("《》"), vol_nav_title, "日治時期", "臺灣音樂史", "公學校唱歌", "五線譜", "TMD"]
+    if col_name == "shokacho":
+        kw_list.extend(["楊金土", "唱歌帖"])
+        if vol_name in ("vol_07", "vol_08"):
+            kw_list.append("蓬萊唱歌集")
+    for c in credits:
+        c_clean = re.sub(r"^(詞曲|作詞|作曲|詞|曲|編曲)[：:]\s*", "", c).strip()
+        if c_clean and len(c_clean) <= 20:
+            kw_list.append(c_clean)
+    kw_str = ", ".join(dict.fromkeys(k for k in kw_list if k))
+
+    fm_lines = [
+        "---",
+        f"title: {json.dumps(seo_title, ensure_ascii=False)}",
+        f"song_title: {json.dumps(title, ensure_ascii=False)}",
+        f"description: {json.dumps(desc_str, ensure_ascii=False)}",
+        f"keywords: {json.dumps(kw_str, ensure_ascii=False)}",
+        'schema_type: "MusicComposition"',
+        f"is_part_of: {json.dumps(f'{col_title} {vol_title}', ensure_ascii=False)}",
+    ]
+    if score_info.get("key"):
+        fm_lines.append(f"musical_key: {json.dumps(score_info['key'], ensure_ascii=False)}")
+    if images:
+        fm_lines.append(f"image: {json.dumps(images[0].name, ensure_ascii=False)}")
+    if mp3_path.exists():
+        fm_lines.append(f"audio: {json.dumps(mp3_path.name, ensure_ascii=False)}")
+    fm_lines.append("---")
+    frontmatter = "\n".join(fm_lines)
+
+    markdown = f"""{frontmatter}
+
+# {title}
 
 {audio_html}
 
@@ -547,11 +612,25 @@ def generate_book_info_folder(folder: Path) -> Path:
         block = f"### {img.name}\n\n"
         if description:
             block += f"{description}\n\n"
-        block += f"![{img.name}]({img.name})"
+        block += f"![{col_title} {vol_title} 原書掃描頁 {img.name}]({img.name})"
         img_blocks.append(block)
     images_md = "\n\n".join(img_blocks) if img_blocks else "*（無掃描圖檔）*"
 
-    markdown = f"""# 書訊與卷首／卷末掃描頁 — {col_title} {vol_title}
+    seo_title = f"書訊與卷首／卷末掃描頁 — {col_title} {vol_title}"
+    seo_desc = f"日治時期臺灣{col_title}（{vol_title}）之封面、扉頁、目次（もくろく）、樂典大要、版權頁與封底等高解析度原書掃描圖檔（共 {len(images)} 頁）。"
+    fm_lines = [
+        "---",
+        f"title: {json.dumps(seo_title, ensure_ascii=False)}",
+        f"description: {json.dumps(seo_desc, ensure_ascii=False)}",
+    ]
+    if images:
+        fm_lines.append(f"image: {json.dumps(images[0].name, ensure_ascii=False)}")
+    fm_lines.append("---")
+    frontmatter = "\n".join(fm_lines)
+
+    markdown = f"""{frontmatter}
+
+# 書訊與卷首／卷末掃描頁 — {col_title} {vol_title}
 
 本頁收錄本冊之封面、扉頁、目次（もくろく）、樂典大要、版權頁與封底等原書掃描圖檔（共 {len(images)} 頁）。
 
@@ -648,10 +727,34 @@ def generate_volume_index(vol_dir: Path) -> Path:
         key=lambda d: natural_sort_key(d.name),
     )
 
+    book_info_dir = vol_dir / "0_book_info"
+    cover_img_rel = ""
+    if book_info_dir.is_dir():
+        b_imgs = find_scanned_images(book_info_dir)
+        if b_imgs:
+            cover_img_rel = f"0_book_info/{b_imgs[0].name}"
+
+    vol_seo_title = f"{col_title} {vol_title}（共 {len(song_dirs)} 首曲目總覽與線上試聽）"
+    if col_name == "shokacho" and vol_name in SHOKACHO_VOL_NOTES:
+        vol_seo_desc = re.sub(r"[`*_]", "", SHOKACHO_VOL_NOTES[vol_name])
+    else:
+        vol_seo_desc = f"日治時期臺灣{col_title} {vol_title}全冊數位化曲目總覽（共 {len(song_dirs)} 首），提供線上試聽雙手鋼琴伴奏 MP3、閱讀五線譜與 TMD 樂譜、檢索歌詞及原書掃描圖檔。"
+
     lines = [
-        f"# {col_title} {vol_title}",
-        "",
+        "---",
+        f"title: {json.dumps(vol_seo_title, ensure_ascii=False)}",
+        f"description: {json.dumps(vol_seo_desc, ensure_ascii=False)}",
     ]
+    if cover_img_rel:
+        lines.append(f"image: {json.dumps(cover_img_rel, ensure_ascii=False)}")
+    lines.extend(
+        [
+            "---",
+            "",
+            f"# {col_title} {vol_title}",
+            "",
+        ]
+    )
 
     if col_name == "shokacho" and vol_name in SHOKACHO_VOL_NOTES:
         lines.extend(
@@ -666,7 +769,6 @@ def generate_volume_index(vol_dir: Path) -> Path:
                 "- 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](../horai_shokashu.md)**"
             )
 
-    book_info_dir = vol_dir / "0_book_info"
     if book_info_dir.is_dir():
         img_count = len(find_scanned_images(book_info_dir))
         lines.extend(
@@ -776,8 +878,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
     ]
 
     nav_lines = [
-        "site_name: Re:shoka — 百年歌曲重建計畫",
-        "site_description: 日治時期臺灣公學校與小學校音樂教材數位化、TMD 樂譜重建、雙手鋼琴伴奏編曲與調性分析資料庫。",
+        "site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫",
+        "site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910–1930 年代）《公學校唱歌》、《新定兒童唱歌》與《楊金土手抄唱歌帖》（含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉）共 16 冊 638 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
         "site_author: TMD Contributors",
         "site_url: https://tmdlang.github.io/reshoka/",
         "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
@@ -785,6 +887,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "",
         "theme:",
         "  name: material",
+        "  custom_dir: overrides",
         "  language: zh-Hant",
         "  palette:",
         "    # Light mode",
@@ -812,7 +915,15 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "    - search.highlight",
         "    - content.code.copy",
         "",
+        "plugins:",
+        "  - search:",
+        "      lang:",
+        "        - ja",
+        "        - en",
+        '      separator: \'[\\s\\-\\.、，。／（）「」『』【】・]+\'',
+        "",
         "markdown_extensions:",
+        "  - meta",
         "  - admonition",
         "  - pymdownx.details",
         "  - pymdownx.superfences:",

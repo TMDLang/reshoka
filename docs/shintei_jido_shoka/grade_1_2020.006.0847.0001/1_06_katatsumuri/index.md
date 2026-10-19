@@ -1,3 +1,15 @@
+---
+title: "カタツムリ — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "カタツムリ"
+description: "〈カタツムリ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：デンデンムシムシ カタツムリ…"
+keywords: "カタツムリ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
+musical_key: "D"
+image: "P021.jpg"
+audio: "katatsumuri.mp3"
+---
+
 # カタツムリ
 
 <audio controls src="katatsumuri.mp3"></audio>
@@ -117,6 +129,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P021.jpg](P021.jpg)
+![カタツムリ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P021.jpg](P021.jpg)
 
 

@@ -1,3 +1,15 @@
+---
+title: "冬季休業 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "冬季休業"
+description: "〈冬季休業〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、昨日とくらし今日とすぎ 今年もいつか冬休…"
+keywords: "冬季休業, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
+musical_key: "G"
+image: "P088.jpg"
+audio: "toki_kyugyo.mp3"
+---
+
 # 冬季休業
 
 <audio controls src="toki_kyugyo.mp3"></audio>
@@ -107,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P088.jpg](P088.jpg)
+![冬季休業 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P088.jpg](P088.jpg)
 
 

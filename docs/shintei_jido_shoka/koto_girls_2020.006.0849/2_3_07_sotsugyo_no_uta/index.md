@@ -1,3 +1,15 @@
+---
+title: "卒業の歌 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "卒業の歌"
+description: "〈卒業の歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：蘆田惠之助、曲：Schulz），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：過ぎ來し八年（やとせ）　研（みが）きし德 過ぎ來し　八年學びし藝…"
+keywords: "卒業の歌, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 蘆田惠之助, Schulz"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "E,"
+image: "P109.jpg"
+audio: "sotsugyo_no_uta.mp3"
+---
+
 # 卒業の歌
 
 <audio controls src="sotsugyo_no_uta.mp3"></audio>
@@ -119,8 +131,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P109.jpg](P109.jpg)
+![卒業の歌 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P109.jpg](P109.jpg)
 
-![P110.jpg](P110.jpg)
+![卒業の歌 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P110.jpg](P110.jpg)
 
 

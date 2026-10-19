@@ -1,3 +1,15 @@
+---
+title: "牛車 — 《公學校唱歌》 第三學年用"
+song_title: "牛車"
+description: "〈牛車〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用），調號拍號：E 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　どこまでつづく白いみち、 かんしやばたけの向ふから、…"
+keywords: "牛車, 公學校唱歌, 第三學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌》 尋常科 第三學年用"
+musical_key: "E"
+image: "image.jpeg"
+audio: "gyusha.mp3"
+---
+
 # 牛車
 
 <audio controls src="gyusha.mp3"></audio>
@@ -114,8 +126,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![image.jpeg](image.jpeg)
+![牛車 — 《公學校唱歌》 第三學年用 原書掃描頁 image.jpeg](image.jpeg)
 
-![image2.jpeg](image2.jpeg)
+![牛車 — 《公學校唱歌》 第三學年用 原書掃描頁 image2.jpeg](image2.jpeg)
 
 

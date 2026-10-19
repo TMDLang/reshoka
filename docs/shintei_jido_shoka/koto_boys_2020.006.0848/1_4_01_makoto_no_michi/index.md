@@ -1,3 +1,15 @@
+---
+title: "誠の道 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "誠の道"
+description: "〈誠の道〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848））（曲：歐洲曲），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：晴天白日 俯仰天地…"
+keywords: "誠の道, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 歐洲曲"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "C"
+image: "P070.jpg"
+audio: "makoto_no_michi.mp3"
+---
+
 # 誠の道
 
 <audio controls src="makoto_no_michi.mp3"></audio>
@@ -114,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P070.jpg](P070.jpg)
+![誠の道 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P070.jpg](P070.jpg)
 
 

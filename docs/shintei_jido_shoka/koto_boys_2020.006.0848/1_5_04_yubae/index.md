@@ -1,3 +1,15 @@
+---
+title: "夕映 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "夕映"
+description: "〈夕映〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848））（詞：佐々木信綱、曲：J. G. Nägeli（ネーゲリ）），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夕日の山、もみぢ葉は、 紅ひとしほ、匂ふ。…"
+keywords: "夕映, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 佐々木信綱, J. G. Nägeli（ネーゲリ）"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "G"
+image: "P076.jpg"
+audio: "yubae.mp3"
+---
+
 # 夕映
 
 <audio controls src="yubae.mp3"></audio>
@@ -111,6 +123,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P076.jpg](P076.jpg)
+![夕映 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P076.jpg](P076.jpg)
 
 

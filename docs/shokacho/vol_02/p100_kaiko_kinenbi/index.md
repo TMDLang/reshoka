@@ -1,3 +1,15 @@
+---
+title: "開校記念日 — 《楊金土手抄唱歌帖》 第 2 冊（II）"
+song_title: "開校記念日"
+description: "〈開校記念日〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 日毎に通ふ　學校の 開けし年の　けふの日を…"
+keywords: "開校記念日, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+musical_key: "D"
+image: "P100.jpg"
+audio: "kaiko_kinenbi.mp3"
+---
+
 # 開校記念日
 
 <audio controls src="kaiko_kinenbi.mp3"></audio>
@@ -107,8 +119,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P100.jpg](P100.jpg)
+![開校記念日 — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P100.jpg](P100.jpg)
 
-![P101.jpg](P101.jpg)
+![開校記念日 — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P101.jpg](P101.jpg)
 
 

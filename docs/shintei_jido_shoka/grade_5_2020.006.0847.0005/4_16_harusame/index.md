@@ -1,3 +1,15 @@
+---
+title: "春雨 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "春雨"
+description: "〈春雨〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　長閑（のどか）にそゝぐ春雨（はるさめ）は 草木の花の父母ぞ…"
+keywords: "春雨, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "G"
+image: "P075.jpg"
+audio: "harusame.mp3"
+---
+
 # 春雨
 
 <audio controls src="harusame.mp3"></audio>
@@ -103,6 +115,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P075.jpg](P075.jpg)
+![春雨 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P075.jpg](P075.jpg)
 
 

@@ -1,3 +1,15 @@
+---
+title: "ヒノマルノハタ — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ヒノマルノハタ"
+description: "〈ヒノマルノハタ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シロヂニアカク ヒノマルソメテ…"
+keywords: "ヒノマルノハタ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
+musical_key: "F"
+image: "P016.jpg"
+audio: "hinomaru_no_hata.mp3"
+---
+
 # ヒノマルノハタ
 
 <audio controls src="hinomaru_no_hata.mp3"></audio>
@@ -114,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P016.jpg](P016.jpg)
+![ヒノマルノハタ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P016.jpg](P016.jpg)
 
 

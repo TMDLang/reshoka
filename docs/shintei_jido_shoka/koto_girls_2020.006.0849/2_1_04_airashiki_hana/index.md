@@ -1,3 +1,15 @@
+---
+title: "愛らしき花 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "愛らしき花"
+description: "〈愛らしき花〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849）），調號拍號：D 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：草の上に、玉なす露 心地よのあけぼのや…"
+keywords: "愛らしき花, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "D"
+image: "P081.jpg"
+audio: "airashiki_hana.mp3"
+---
+
 # 愛らしき花
 
 <audio controls src="airashiki_hana.mp3"></audio>
@@ -106,6 +118,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P081.jpg](P081.jpg)
+![愛らしき花 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P081.jpg](P081.jpg)
 
 

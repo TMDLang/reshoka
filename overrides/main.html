@@ -1,0 +1,139 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% set page_title = config.site_name %}
+  {% if page and page.meta and page.meta.title %}
+    {% set page_title = page.meta.title ~ " | " ~ config.site_name %}
+  {% elif page and page.title and not page.is_homepage %}
+    {% set page_title = page.title ~ " | " ~ config.site_name %}
+  {% endif %}
+
+  {% set page_desc = config.site_description %}
+  {% if page and page.meta and page.meta.description %}
+    {% set page_desc = page.meta.description %}
+  {% endif %}
+
+  {% set page_url = page.canonical_url if page and page.canonical_url else config.site_url %}
+
+  {% set page_image = "" %}
+  {% if page and page.meta and page.meta.image %}
+    {% if page.meta.image.startswith("http") %}
+      {% set page_image = page.meta.image %}
+    {% elif page.canonical_url %}
+      {% set page_image = page.canonical_url ~ page.meta.image %}
+    {% endif %}
+  {% else %}
+    {% set page_image = config.site_url ~ "shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg" %}
+  {% endif %}
+
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+  {% if page and page.meta and page.meta.keywords %}
+  <meta name="keywords" content="{{ page.meta.keywords | e }}">
+  {% endif %}
+
+  <!-- Open Graph / Facebook / LINE -->
+  <meta property="og:type" content="{{ page.meta.og_type if page and page.meta and page.meta.og_type else 'article' }}">
+  <meta property="og:site_name" content="{{ config.site_name | e }}">
+  <meta property="og:locale" content="zh_TW">
+  <meta property="og:locale:alternate" content="ja_JP">
+  <meta property="og:title" content="{{ page_title | e }}">
+  <meta property="og:description" content="{{ page_desc | e }}">
+  <meta property="og:url" content="{{ page_url | e }}">
+  {% if page_image %}
+  <meta property="og:image" content="{{ page_image | e }}">
+  <meta property="og:image:alt" content="{{ page_title | e }}">
+  {% endif %}
+  {% if page and page.meta and page.meta.audio and page.canonical_url %}
+  <meta property="og:audio" content="{{ (page.canonical_url ~ page.meta.audio) | e }}">
+  <meta property="og:audio:type" content="audio/mpeg">
+  {% endif %}
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page_title | e }}">
+  <meta name="twitter:description" content="{{ page_desc | e }}">
+  {% if page_image %}
+  <meta name="twitter:image" content="{{ page_image | e }}">
+  {% endif %}
+
+  <!-- Schema.org JSON-LD Structured Data -->
+  {% if page and page.is_homepage %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": {{ config.site_name | tojson }},
+        "url": {{ config.site_url | tojson }},
+        "description": {{ page_desc | tojson }},
+        "inLanguage": ["zh-Hant", "ja"]
+      },
+      {
+        "@type": "Dataset",
+        "name": "Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建資料庫",
+        "description": {{ page_desc | tojson }},
+        "url": {{ config.site_url | tojson }},
+        "license": "https://opensource.org/licenses/MIT",
+        "inLanguage": ["zh-Hant", "ja"],
+        "keywords": [
+          "日治時期", "公學校唱歌", "新定兒童唱歌", "楊金土手抄唱歌帖", "蓬萊唱歌集",
+          "陳英聲", "郭水返", "一條慎三郎", "黑澤隆朝", "臺灣音樂史", "TMD", "五線譜", "簡譜"
+        ],
+        "temporalCoverage": "1915/1945",
+        "spatialCoverage": {
+          "@type": "Place",
+          "name": "臺灣（Taiwan）"
+        }
+      }
+    ]
+  }
+  </script>
+  {% elif page and page.meta and page.meta.schema_type == "MusicComposition" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicComposition",
+    "name": {{ (page.meta.song_title or page.title) | tojson }},
+    "description": {{ page_desc | tojson }},
+    "url": {{ page_url | tojson }},
+    "inLanguage": "ja",
+    {% if page.meta.musical_key %}"musicalKey": {{ page.meta.musical_key | tojson }},{% endif %}
+    {% if page.meta.is_part_of %}"isPartOf": {
+      "@type": "Book",
+      "name": {{ page.meta.is_part_of | tojson }}
+    },{% endif %}
+    {% if page_image %}"image": {{ page_image | tojson }},{% endif %}
+    {% if page.meta.audio and page.canonical_url %}"audio": {
+      "@type": "AudioObject",
+      "contentUrl": {{ (page.canonical_url ~ page.meta.audio) | tojson }},
+      "encodingFormat": "audio/mpeg",
+      "name": {{ (page.meta.song_title or page.title) | tojson }}
+    },{% endif %}
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ config.site_name | tojson }},
+      "url": {{ config.site_url | tojson }}
+    }
+  }
+  </script>
+  {% elif page and page.meta and page.meta.schema_type == "ScholarlyArticle" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": {{ (page.meta.title or page.title) | tojson }},
+    "description": {{ page_desc | tojson }},
+    "url": {{ page_url | tojson }},
+    "inLanguage": "zh-Hant",
+    {% if page_image %}"image": {{ page_image | tojson }},{% endif %}
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": {{ config.site_name | tojson }},
+      "url": {{ config.site_url | tojson }}
+    }
+  }
+  </script>
+  {% endif %}
+{% endblock %}

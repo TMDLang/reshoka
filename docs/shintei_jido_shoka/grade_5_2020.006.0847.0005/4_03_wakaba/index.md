@@ -1,3 +1,15 @@
+---
+title: "若葉 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "若葉"
+description: "〈若葉〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005）），調號拍號：Bb 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　昨日（きのふ）まで咲（さ）いた〳〵と よろこんだ…"
+keywords: "若葉, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "Bb"
+image: "P059.jpg"
+audio: "wakaba.mp3"
+---
+
 # 若葉
 
 <audio controls src="wakaba.mp3"></audio>
@@ -110,6 +122,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P059.jpg](P059.jpg)
+![若葉 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P059.jpg](P059.jpg)
 
 

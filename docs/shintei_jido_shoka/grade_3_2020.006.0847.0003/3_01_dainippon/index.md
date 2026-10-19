@@ -1,3 +1,15 @@
+---
+title: "大日本 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "大日本"
+description: "〈大日本〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　大日本　大日本 神のみすゑの　天皇陛下…"
+keywords: "大日本, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
+musical_key: "G"
+image: "P052.jpg"
+audio: "dainippon.mp3"
+---
+
 # 大日本
 
 <audio controls src="dainippon.mp3"></audio>
@@ -130,6 +142,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P052.jpg](P052.jpg)
+![大日本 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P052.jpg](P052.jpg)
 
 

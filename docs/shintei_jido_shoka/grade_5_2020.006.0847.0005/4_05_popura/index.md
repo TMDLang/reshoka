@@ -1,3 +1,15 @@
+---
+title: "ポプラ — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "ポプラ"
+description: "〈ポプラ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005）），調號拍號：C 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　昇る朝日のさしそへば かゞやく朝のよろこびを…"
+keywords: "ポプラ, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "C"
+image: "P061.jpg"
+audio: "popura.mp3"
+---
+
 # ポプラ
 
 <audio controls src="popura.mp3"></audio>
@@ -108,6 +120,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P061.jpg](P061.jpg)
+![ポプラ — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P061.jpg](P061.jpg)
 
 

@@ -1,3 +1,15 @@
+---
+title: "去年今夜 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "去年今夜"
+description: "〈去年今夜〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：御世（みよ）ながつきのこゝぬかは、 開（ひら）くを常（つね）の菊（きく）の宴（えん）、…"
+keywords: "去年今夜, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "F"
+image: "P051.jpg"
+audio: "kyonen_konya.mp3"
+---
+
 # 去年今夜
 
 <audio controls src="kyonen_konya.mp3"></audio>
@@ -122,6 +134,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P051.jpg](P051.jpg)
+![去年今夜 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P051.jpg](P051.jpg)
 
 

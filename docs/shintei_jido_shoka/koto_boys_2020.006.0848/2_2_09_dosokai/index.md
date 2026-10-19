@@ -1,3 +1,15 @@
+---
+title: "同窓會 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "同窓會"
+description: "〈同窓會〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848））（詞：旗野士良、曲：モツアルト（獨）（Wolfgang Amadeus Mozart）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：窓の戶の曙に、同じ花護りし友、 其花の露だにも、背きたる心はなく、…"
+keywords: "同窓會, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 旗野士良"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "F"
+image: "P104.jpg"
+audio: "dosokai.mp3"
+---
+
 # 同窓會
 
 <audio controls src="dosokai.mp3"></audio>
@@ -117,6 +129,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P104.jpg](P104.jpg)
+![同窓會 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P104.jpg](P104.jpg)
 
 

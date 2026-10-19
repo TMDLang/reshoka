@@ -1,3 +1,15 @@
+---
+title: "きしゃ（火車） — 《公學校唱歌》 第三學年用"
+song_title: "きしゃ（火車）"
+description: "〈きしゃ（火車）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　今は山中、今ははま、 今はてつけうわたるぞと、…"
+keywords: "きしゃ（火車）, 公學校唱歌, 第三學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌》 尋常科 第三學年用"
+musical_key: "G"
+image: "image.jpeg"
+audio: "kisha.mp3"
+---
+
 # きしゃ（火車）
 
 <audio controls src="kisha.mp3"></audio>
@@ -127,8 +139,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![image.jpeg](image.jpeg)
+![きしゃ（火車） — 《公學校唱歌》 第三學年用 原書掃描頁 image.jpeg](image.jpeg)
 
-![image2.jpeg](image2.jpeg)
+![きしゃ（火車） — 《公學校唱歌》 第三學年用 原書掃描頁 image2.jpeg](image2.jpeg)
 
 

@@ -1,3 +1,15 @@
+---
+title: "御寺の鐘の音 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "御寺の鐘の音"
+description: "〈御寺の鐘の音〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：みてらの鐘の音月よりおつる ふみよむ燈火かすかになりて…"
+keywords: "御寺の鐘の音, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "C"
+image: "P070.jpg"
+audio: "otera_no_kane.mp3"
+---
+
 # 御寺の鐘の音
 
 <audio controls src="otera_no_kane.mp3"></audio>
@@ -158,6 +170,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P070.jpg](P070.jpg)
+![御寺の鐘の音 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P070.jpg](P070.jpg)
 
 

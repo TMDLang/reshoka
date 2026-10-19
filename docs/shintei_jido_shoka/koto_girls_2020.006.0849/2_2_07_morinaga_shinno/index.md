@@ -1,3 +1,15 @@
+---
+title: "護良親王 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "護良親王"
+description: "〈護良親王〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：杉谷虎藏），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：鎌倉山の雲を掃ひ 天つ日あふぐ時は今と…"
+keywords: "護良親王, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 杉谷虎藏"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "E,"
+image: "P097.jpg"
+audio: "morinaga_shinno.mp3"
+---
+
 # 護良親王
 
 <audio controls src="morinaga_shinno.mp3"></audio>
@@ -116,6 +128,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P097.jpg](P097.jpg)
+![護良親王 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P097.jpg](P097.jpg)
 
 

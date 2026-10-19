@@ -1,3 +1,15 @@
+---
+title: "助船 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "助船"
+description: "〈助船〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005））（佐々木信綱 作詞），調號拍號：B, 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　はげしき雨風　天地くらく 山なすあら波たけり狂ふ…"
+keywords: "助船, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 佐々木信綱 作詞"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "B,"
+image: "P044.jpg"
+audio: "tasukebune.mp3"
+---
+
 # 助船
 
 <audio controls src="tasukebune.mp3"></audio>
@@ -113,6 +125,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P044.jpg](P044.jpg)
+![助船 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P044.jpg](P044.jpg)
 
 

@@ -1,3 +1,15 @@
+---
+title: "ふじ山 — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "ふじ山"
+description: "〈ふじ山〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あたまをくもの　うへにだし しはうのやまを　みおろして…"
+keywords: "ふじ山, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
+musical_key: "D"
+image: "P068.jpg"
+audio: "fujisan.mp3"
+---
+
 # ふじ山
 
 <audio controls src="fujisan.mp3"></audio>
@@ -106,6 +118,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P068.jpg](P068.jpg)
+![ふじ山 — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P068.jpg](P068.jpg)
 
 

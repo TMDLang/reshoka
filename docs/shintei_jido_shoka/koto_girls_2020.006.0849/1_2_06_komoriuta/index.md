@@ -1,3 +1,15 @@
+---
+title: "子守歌 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "子守歌"
+description: "〈子守歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：山口重樹、曲：Franz Schubert（女子音樂教科書）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ねむれねむれ歌（うた）をきゝて 玉（たま）のごときをさな兒（ご）よ…"
+keywords: "子守歌, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山口重樹"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "G"
+image: "P052.jpg"
+audio: "komoriuta.mp3"
+---
+
 # 子守歌
 
 <audio controls src="komoriuta.mp3"></audio>
@@ -125,6 +137,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P052.jpg](P052.jpg)
+![子守歌 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P052.jpg](P052.jpg)
 
 

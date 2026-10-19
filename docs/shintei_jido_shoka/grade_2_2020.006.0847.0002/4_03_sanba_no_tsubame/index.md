@@ -1,3 +1,15 @@
+---
+title: "三バノツバメ — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "三バノツバメ"
+description: "〈三バノツバメ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（曲：永井幸次），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イツノマニキタ三バノツバメ モトノフルスガコヒシイカ…"
+keywords: "三バノツバメ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 永井幸次"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
+musical_key: "G"
+image: "P055.jpg"
+audio: "sanba_no_tsubame.mp3"
+---
+
 # 三バノツバメ
 
 <audio controls src="sanba_no_tsubame.mp3"></audio>
@@ -111,6 +123,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P055.jpg](P055.jpg)
+![三バノツバメ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P055.jpg](P055.jpg)
 
 

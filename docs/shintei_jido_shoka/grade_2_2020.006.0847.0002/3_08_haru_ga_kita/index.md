@@ -1,3 +1,15 @@
+---
+title: "春が來た — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "春が來た"
+description: "〈春が來た〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：春が來た　春が來た　どこに來た 山に來た　里に來た　野にも來た…"
+keywords: "春が來た, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
+musical_key: "C"
+image: "P052.jpg"
+audio: "haru_ga_kita.mp3"
+---
+
 # 春が來た
 
 <audio controls src="haru_ga_kita.mp3"></audio>
@@ -103,6 +115,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P052.jpg](P052.jpg)
+![春が來た — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P052.jpg](P052.jpg)
 
 

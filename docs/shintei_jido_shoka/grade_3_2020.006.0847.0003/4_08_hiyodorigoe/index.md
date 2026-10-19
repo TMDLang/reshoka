@@ -1,3 +1,15 @@
+---
+title: "鵯越 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "鵯越"
+description: "〈鵯越〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：鹿も四つ足　馬も四つ足 鹿の越す坂　馬の越せぬ道理なしと…"
+keywords: "鵯越, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
+musical_key: "F"
+image: "P068.jpg"
+audio: "hiyodorigoe.mp3"
+---
+
 # 鵯越
 
 <audio controls src="hiyodorigoe.mp3"></audio>
@@ -104,6 +116,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P068.jpg](P068.jpg)
+![鵯越 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P068.jpg](P068.jpg)
 
 

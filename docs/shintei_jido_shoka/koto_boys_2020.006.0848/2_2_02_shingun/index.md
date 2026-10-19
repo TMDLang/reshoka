@@ -1,3 +1,15 @@
+---
+title: "進軍 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "進軍"
+description: "〈進軍〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：出で行く軍隊步調そろへて 進軍喇叭は天地にひびく…"
+keywords: "進軍, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "G"
+image: "P091.jpg"
+audio: "shingun.mp3"
+---
+
 # 進軍
 
 <audio controls src="shingun.mp3"></audio>
@@ -114,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P091.jpg](P091.jpg)
+![進軍 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P091.jpg](P091.jpg)
 
 

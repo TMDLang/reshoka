@@ -1,3 +1,15 @@
+---
+title: "瀧鶴臺の妻 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "瀧鶴臺の妻"
+description: "〈瀧鶴臺の妻〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005））（詞：小野竹三、曲：山本正夫），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　白と赤との毬二つ 常に袂（たもと）に入れおきて…"
+keywords: "瀧鶴臺の妻, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小野竹三, 山本正夫"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "C"
+image: "P029.jpg"
+audio: "taki_kakudai_no_tsuma.mp3"
+---
+
 # 瀧鶴臺の妻
 
 <audio controls src="taki_kakudai_no_tsuma.mp3"></audio>
@@ -120,6 +132,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P029.jpg](P029.jpg)
+![瀧鶴臺の妻 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P029.jpg](P029.jpg)
 
 

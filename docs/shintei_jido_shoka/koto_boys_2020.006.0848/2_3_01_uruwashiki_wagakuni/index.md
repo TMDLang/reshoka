@@ -1,3 +1,15 @@
+---
+title: "麗はしき我國 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "麗はしき我國"
+description: "〈麗はしき我國〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848））（曲：獨國風曲），調號拍號：A 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　麗（うる）はしやあはれ　大和島根（やまとしまね） 仰（あふ）ぎ見よやよや　大和島根…"
+keywords: "麗はしき我國, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 獨國風曲"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "A"
+image: "P105.jpg"
+audio: "uruwashiki_wagakuni.mp3"
+---
+
 # 麗はしき我國
 
 <audio controls src="uruwashiki_wagakuni.mp3"></audio>
@@ -116,6 +128,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P105.jpg](P105.jpg)
+![麗はしき我國 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P105.jpg](P105.jpg)
 
 

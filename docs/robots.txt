@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tmdlang.github.io/reshoka/sitemap.xml

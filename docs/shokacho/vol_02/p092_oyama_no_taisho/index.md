@@ -1,3 +1,15 @@
+---
+title: "お山の大將 — 《楊金土手抄唱歌帖》 第 2 冊（II）"
+song_title: "お山の大將"
+description: "〈お山の大將〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（詞：西條八十、曲：本居長世），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：おやまの大將　おれひとり あとからくるもの　つきおとせ…"
+keywords: "お山の大將, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 西條八十, 本居長世"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+musical_key: "C"
+image: "P092.jpg"
+audio: "oyama_no_taisho.mp3"
+---
+
 # お山の大將
 
 <audio controls src="oyama_no_taisho.mp3"></audio>
@@ -108,6 +120,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P092.jpg](P092.jpg)
+![お山の大將 — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P092.jpg](P092.jpg)
 
 

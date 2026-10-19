@@ -1,3 +1,15 @@
+---
+title: "うすづき — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "うすづき"
+description: "〈うすづき〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005）），調號拍號：E 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　月はうす月　宵（よひ）の月 そよ〳〵　そよ風…"
+keywords: "うすづき, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "E"
+image: "P064.jpg"
+audio: "usuzuki.mp3"
+---
+
 # うすづき
 
 <audio controls src="usuzuki.mp3"></audio>
@@ -103,6 +115,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P064.jpg](P064.jpg)
+![うすづき — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P064.jpg](P064.jpg)
 
 

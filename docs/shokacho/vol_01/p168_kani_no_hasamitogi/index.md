@@ -1,3 +1,15 @@
+---
+title: "蟹の鋏とぎ — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
+song_title: "蟹の鋏とぎ"
+description: "〈蟹の鋏とぎ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：D 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "蟹の鋏とぎ, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+musical_key: "D"
+image: "P168.jpg"
+audio: "kani_no_hasamitogi.mp3"
+---
+
 # 蟹の鋏とぎ
 
 <audio controls src="kani_no_hasamitogi.mp3"></audio>
@@ -97,6 +109,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P168.jpg](P168.jpg)
+![蟹の鋏とぎ — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳） 原書掃描頁 P168.jpg](P168.jpg)
 
 

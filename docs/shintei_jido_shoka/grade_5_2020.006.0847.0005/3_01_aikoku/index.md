@@ -1,3 +1,15 @@
+---
+title: "愛國 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "愛國"
+description: "〈愛國〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　東の海の波の上に うかべる國は我日の本…"
+keywords: "愛國, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "F"
+image: "P049.jpg"
+audio: "aikoku.mp3"
+---
+
 # 愛國
 
 <audio controls src="aikoku.mp3"></audio>
@@ -108,6 +120,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P049.jpg](P049.jpg)
+![愛國 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P049.jpg](P049.jpg)
 
 

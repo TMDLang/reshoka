@@ -1,3 +1,15 @@
+---
+title: "笛の音 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "笛の音"
+description: "〈笛の音〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：鳥居忱），調號拍號：B, 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：嗚呼笛よあはれ 月影かすむこよひ…"
+keywords: "笛の音, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 鳥居忱"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "B,"
+image: "P093.jpg"
+audio: "fue_no_ne.mp3"
+---
+
 # 笛の音
 
 <audio controls src="fue_no_ne.mp3"></audio>
@@ -112,6 +124,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P093.jpg](P093.jpg)
+![笛の音 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P093.jpg](P093.jpg)
 
 

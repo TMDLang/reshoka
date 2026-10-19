@@ -1,3 +1,15 @@
+---
+title: "日東帝國 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "日東帝國"
+description: "〈日東帝國〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005））（曲：町田櫻園），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　見よや東洋日出る國を 日出る國を仰げ／＼…"
+keywords: "日東帝國, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 町田櫻園"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "D"
+image: "P026.jpg"
+audio: "nitto_teikoku.mp3"
+---
+
 # 日東帝國
 
 <audio controls src="nitto_teikoku.mp3"></audio>
@@ -109,6 +121,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P026.jpg](P026.jpg)
+![日東帝國 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P026.jpg](P026.jpg)
 
 

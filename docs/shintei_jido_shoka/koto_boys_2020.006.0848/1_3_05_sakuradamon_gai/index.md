@@ -1,3 +1,15 @@
+---
+title: "櫻田門外 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "櫻田門外"
+description: "〈櫻田門外〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848））（詞：大和田建樹、曲：佛國風曲），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：櫻田門外の、 雪を侵して進みし、…"
+keywords: "櫻田門外, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹, 佛國風曲"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "F"
+image: "P065.jpg"
+audio: "sakuradamon_gai.mp3"
+---
+
 # 櫻田門外
 
 <audio controls src="sakuradamon_gai.mp3"></audio>
@@ -117,6 +129,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P065.jpg](P065.jpg)
+![櫻田門外 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P065.jpg](P065.jpg)
 
 

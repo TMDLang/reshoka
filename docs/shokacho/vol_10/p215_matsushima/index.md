@@ -1,3 +1,15 @@
+---
+title: "松島 (松島) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
+song_title: "松島 (松島)"
+description: "〈松島 (松島)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞： タチナラブ マツノキ センネンノ ミドリ…"
+keywords: "松島 (松島), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
+musical_key: "G"
+image: "P215.jpg"
+audio: "matsushima.mp3"
+---
+
 # 松島 (松島)
 
 <audio controls src="matsushima.mp3"></audio>
@@ -112,6 +124,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P215.jpg](P215.jpg)
+![松島 (松島) — 《楊金土手抄唱歌帖》 第 10 冊（X） 原書掃描頁 P215.jpg](P215.jpg)
 
 

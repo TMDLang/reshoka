@@ -1,3 +1,15 @@
+---
+title: "太陽 — 《楊金土手抄唱歌帖》 第 2 冊（II）"
+song_title: "太陽"
+description: "〈太陽〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112）），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(1) オヒガデルト　アカルクナルヨ オヒガイルト　クラクナルヨ…"
+keywords: "太陽, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+musical_key: "B,"
+image: "P107.jpg"
+audio: "taiyo.mp3"
+---
+
 # 太陽
 
 <audio controls src="taiyo.mp3"></audio>
@@ -99,6 +111,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P107.jpg](P107.jpg)
+![太陽 — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P107.jpg](P107.jpg)
 
 

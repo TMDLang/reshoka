@@ -1,3 +1,15 @@
+---
+title: "可憐の少女 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "可憐の少女"
+description: "〈可憐の少女〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：武島又次郎），調號拍號：C 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：人里離れし山路の伏屋 病みたる母をば救はんものと…"
+keywords: "可憐の少女, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 武島又次郎"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "C"
+image: "P106.jpg"
+audio: "karen_no_shojo.mp3"
+---
+
 # 可憐の少女
 
 <audio controls src="karen_no_shojo.mp3"></audio>
@@ -107,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P106.jpg](P106.jpg)
+![可憐の少女 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P106.jpg](P106.jpg)
 
 

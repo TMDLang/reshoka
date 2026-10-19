@@ -1,3 +1,15 @@
+---
+title: "夏季休業 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "夏季休業"
+description: "〈夏季休業〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：A 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、梅や櫻を惜しむ間に なく空蟬の夏ごろも…"
+keywords: "夏季休業, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
+musical_key: "A"
+image: "P087.jpg"
+audio: "kaki_kyugyo.mp3"
+---
+
 # 夏季休業
 
 <audio controls src="kaki_kyugyo.mp3"></audio>
@@ -107,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P087.jpg](P087.jpg)
+![夏季休業 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P087.jpg](P087.jpg)
 
 

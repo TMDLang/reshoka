@@ -1,3 +1,15 @@
+---
+title: "たこのうた — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "たこのうた"
+description: "〈たこのうた〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タコタコあがれ カゼよくうけて…"
+keywords: "たこのうた, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
+musical_key: "F"
+image: "P034.jpg"
+audio: "tako_no_uta.mp3"
+---
+
 # たこのうた
 
 <audio controls src="tako_no_uta.mp3"></audio>
@@ -111,6 +123,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P034.jpg](P034.jpg)
+![たこのうた — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P034.jpg](P034.jpg)
 
 

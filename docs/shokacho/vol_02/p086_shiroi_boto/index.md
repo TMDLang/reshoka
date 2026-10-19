@@ -1,3 +1,15 @@
+---
+title: "白いボート — 《楊金土手抄唱歌帖》 第 2 冊（II）"
+song_title: "白いボート"
+description: "〈白いボート〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：不詳），調號拍號：G 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "白いボート, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 不詳"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+musical_key: "G"
+image: "P086.jpg"
+audio: "shiroi_boto.mp3"
+---
+
 # 白いボート
 
 <audio controls src="shiroi_boto.mp3"></audio>
@@ -98,6 +110,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P086.jpg](P086.jpg)
+![白いボート — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P086.jpg](P086.jpg)
 
 

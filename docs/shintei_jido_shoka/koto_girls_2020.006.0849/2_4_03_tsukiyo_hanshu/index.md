@@ -1,3 +1,15 @@
+---
+title: "月夜泛舟 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "月夜泛舟"
+description: "〈月夜泛舟〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：天谷秀、曲：ウエーベル（獨）（Weber）），調號拍號：B, 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：光りうかぶ海原や、 月にうかれ遊ぶ舟…"
+keywords: "月夜泛舟, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 天谷秀, ウエーベル（獨）（Weber）"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "B,"
+image: "P113.jpg"
+audio: "tsukiyo_hanshu.mp3"
+---
+
 # 月夜泛舟
 
 <audio controls src="tsukiyo_hanshu.mp3"></audio>
@@ -116,6 +128,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P113.jpg](P113.jpg)
+![月夜泛舟 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P113.jpg](P113.jpg)
 
 

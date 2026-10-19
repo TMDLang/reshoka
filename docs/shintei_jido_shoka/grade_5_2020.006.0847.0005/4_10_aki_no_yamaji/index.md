@@ -1,3 +1,15 @@
+---
+title: "秋の山路 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "秋の山路"
+description: "〈秋の山路〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（2020.006.0847.0005）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　秋の山路（やまぢ）來て見れば 畑（はた）の蕎麥（そば）は今さかり…"
+keywords: "秋の山路, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（2020.006.0847.0005）"
+musical_key: "G"
+image: "P068.jpg"
+audio: "aki_no_yamaji.mp3"
+---
+
 # 秋の山路
 
 <audio controls src="aki_no_yamaji.mp3"></audio>
@@ -109,6 +121,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P068.jpg](P068.jpg)
+![秋の山路 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P068.jpg](P068.jpg)
 
 

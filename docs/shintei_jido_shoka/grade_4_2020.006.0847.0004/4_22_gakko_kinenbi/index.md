@@ -1,3 +1,15 @@
+---
+title: "學校記念日 — 《新定兒童唱歌》 尋常科 第四學年"
+song_title: "學校記念日"
+description: "〈學校記念日〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（2020.006.0847.0004）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：實（み）を結（むす）ぶべき　撫子（なでしこ）の 色さま／″＼に　花さきて…"
+keywords: "學校記念日, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（2020.006.0847.0004）"
+musical_key: "G"
+image: "P082.jpg"
+audio: "gakko_kinenbi.mp3"
+---
+
 # 學校記念日
 
 <audio controls src="gakko_kinenbi.mp3"></audio>
@@ -105,6 +117,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P082.jpg](P082.jpg)
+![學校記念日 — 《新定兒童唱歌》 尋常科 第四學年 原書掃描頁 P082.jpg](P082.jpg)
 
 

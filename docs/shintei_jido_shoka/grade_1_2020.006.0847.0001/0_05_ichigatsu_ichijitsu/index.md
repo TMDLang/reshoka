@@ -1,3 +1,15 @@
+---
+title: "一月一日 — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "一月一日"
+description: "〈一月一日〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：千家尊福、曲：上眞行），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　年（とし）の始（はじめ）の　例（ためし）とて 終（をは）りなき世（よ）の目出（めで）たさを…"
+keywords: "一月一日, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 千家尊福, 上眞行"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
+musical_key: "D"
+image: "P009.jpg"
+audio: "ichigatsu_ichijitsu.mp3"
+---
+
 # 一月一日
 
 <audio controls src="ichigatsu_ichijitsu.mp3"></audio>
@@ -112,6 +124,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P009.jpg](P009.jpg)
+![一月一日 — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P009.jpg](P009.jpg)
 
 

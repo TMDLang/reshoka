@@ -1,3 +1,15 @@
+---
+title: "心の力 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "心の力"
+description: "〈心の力〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　この世に生れて空しく果てんや 鐵石の腸（はらわた）われにあり…"
+keywords: "心の力, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "G"
+image: "P116.jpg"
+audio: "kokoro_no_chikara.mp3"
+---
+
 # 心の力
 
 <audio controls src="kokoro_no_chikara.mp3"></audio>
@@ -110,8 +122,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P116.jpg](P116.jpg)
+![心の力 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P116.jpg](P116.jpg)
 
-![P117.jpg](P117.jpg)
+![心の力 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P117.jpg](P117.jpg)
 
 

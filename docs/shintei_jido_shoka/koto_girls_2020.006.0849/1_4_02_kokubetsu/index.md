@@ -1,3 +1,15 @@
+---
+title: "告別 — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "告別"
+description: "〈告別〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（詞：桑田春風、曲：F. Silcher），調號拍號：D 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夏の休み　待ちえし今日ぞ 明日（あす）は我が家（や）　父母（ちゝはゝ）いかに…"
+keywords: "告別, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 桑田春風, F. Silcher"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "D"
+image: "P071.jpg"
+audio: "kokubetsu.mp3"
+---
+
 # 告別
 
 <audio controls src="kokubetsu.mp3"></audio>
@@ -179,6 +191,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P071.jpg](P071.jpg)
+![告別 — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P071.jpg](P071.jpg)
 
 

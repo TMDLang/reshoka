@@ -1,3 +1,15 @@
+---
+title: "皇太子殿下御成婚奉祝提燈行列進行歌 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
+song_title: "皇太子殿下御成婚奉祝提燈行列進行歌"
+description: "〈皇太子殿下御成婚奉祝提燈行列進行歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：不詳 (大正十三年)），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "皇太子殿下御成婚奉祝提燈行列進行歌, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 不詳 (大正十三年)"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+musical_key: "G"
+image: "P061.jpg"
+audio: "kotaishi_denka_chochin_gyoretsu_shinkoka.mp3"
+---
+
 # 皇太子殿下御成婚奉祝提燈行列進行歌
 
 <audio controls src="kotaishi_denka_chochin_gyoretsu_shinkoka.mp3"></audio>
@@ -97,6 +109,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P061.jpg](P061.jpg)
+![皇太子殿下御成婚奉祝提燈行列進行歌 — 《楊金土手抄唱歌帖》 第 3 冊（I） 原書掃描頁 P061.jpg](P061.jpg)
 
 

@@ -1,3 +1,15 @@
+---
+title: "秩父宮殿下奉迎行進歌 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
+song_title: "秩父宮殿下奉迎行進歌"
+description: "〈秩父宮殿下奉迎行進歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：不詳 (大正十四年五月)、詞：松井實），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "秩父宮殿下奉迎行進歌, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 不詳 (大正十四年五月), 松井實"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+musical_key: "F"
+image: "P057.jpg"
+audio: "chichibunomiya_denka_hogei_koshinka.mp3"
+---
+
 # 秩父宮殿下奉迎行進歌
 
 <audio controls src="chichibunomiya_denka_hogei_koshinka.mp3"></audio>
@@ -101,8 +113,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P057.jpg](P057.jpg)
+![秩父宮殿下奉迎行進歌 — 《楊金土手抄唱歌帖》 第 3 冊（I） 原書掃描頁 P057.jpg](P057.jpg)
 
-![P058.jpg](P058.jpg)
+![秩父宮殿下奉迎行進歌 — 《楊金土手抄唱歌帖》 第 3 冊（I） 原書掃描頁 P058.jpg](P058.jpg)
 
 

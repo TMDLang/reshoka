@@ -1,3 +1,15 @@
+---
+title: "誠實 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "誠實"
+description: "〈誠實〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（2020.006.0848））（詞：犬童球溪、曲：Lowell Mason（メーソン）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　眞心（まごころ）こもる頭（かしら）にこそ、 守護（まもり）の神（かみ）は宿（やど）るなれ、…"
+keywords: "誠實, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 犬童球溪, Lowell Mason（メーソン）"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（2020.006.0848）"
+musical_key: "F"
+image: "P037.jpg"
+audio: "seijitsu.mp3"
+---
+
 # 誠實
 
 <audio controls src="seijitsu.mp3"></audio>
@@ -106,6 +118,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P037.jpg](P037.jpg)
+![誠實 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P037.jpg](P037.jpg)
 
 

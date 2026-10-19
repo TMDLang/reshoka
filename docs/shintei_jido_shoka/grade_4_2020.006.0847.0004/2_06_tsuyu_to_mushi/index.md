@@ -1,3 +1,15 @@
+---
+title: "つゆと虫 — 《新定兒童唱歌》 尋常科 第四學年"
+song_title: "つゆと虫"
+description: "〈つゆと虫〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（2020.006.0847.0004）），調號拍號：E, 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：つゆが散（ち）る　つゆが散る 月（つき）の光（ひかり）のてる庭（には）に…"
+keywords: "つゆと虫, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（2020.006.0847.0004）"
+musical_key: "E,"
+image: "P041.jpg"
+audio: "tsuyu_to_mushi.mp3"
+---
+
 # つゆと虫
 
 <audio controls src="tsuyu_to_mushi.mp3"></audio>
@@ -111,6 +123,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P041.jpg](P041.jpg)
+![つゆと虫 — 《新定兒童唱歌》 尋常科 第四學年 原書掃描頁 P041.jpg](P041.jpg)
 
 

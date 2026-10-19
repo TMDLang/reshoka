@@ -1,3 +1,15 @@
+---
+title: "水師營の會見 — 《新定兒童唱歌》 尋常科 第六學年"
+song_title: "水師營の會見"
+description: "〈水師營の會見〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（2020.006.0847.0006）），調號拍號：Bb 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：旅順開城約成りて 敵の將軍ステッセル…"
+keywords: "水師營の會見, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（2020.006.0847.0006）"
+musical_key: "Bb"
+image: "P042.jpg"
+audio: "suishiei_no_kaiken.mp3"
+---
+
 # 水師營の會見
 
 <audio controls src="suishiei_no_kaiken.mp3"></audio>
@@ -147,8 +159,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P042.jpg](P042.jpg)
+![水師營の會見 — 《新定兒童唱歌》 尋常科 第六學年 原書掃描頁 P042.jpg](P042.jpg)
 
-![P043.jpg](P043.jpg)
+![水師營の會見 — 《新定兒童唱歌》 尋常科 第六學年 原書掃描頁 P043.jpg](P043.jpg)
 
 

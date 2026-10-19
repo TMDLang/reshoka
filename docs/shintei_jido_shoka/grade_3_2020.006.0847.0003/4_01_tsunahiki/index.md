@@ -1,3 +1,15 @@
+---
+title: "綱ひき — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "綱ひき"
+description: "〈綱ひき〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：曳け曳け綱を　曳け曳け綱を 心を合せ　力の限り…"
+keywords: "綱ひき, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
+musical_key: "C"
+image: "P059.jpg"
+audio: "tsunahiki.mp3"
+---
+
 # 綱ひき
 
 <audio controls src="tsunahiki.mp3"></audio>
@@ -105,6 +117,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P059.jpg](P059.jpg)
+![綱ひき — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P059.jpg](P059.jpg)
 
 

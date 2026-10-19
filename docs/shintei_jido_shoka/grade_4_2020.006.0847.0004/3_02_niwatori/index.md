@@ -1,3 +1,15 @@
+---
+title: "雞 — 《新定兒童唱歌》 尋常科 第四學年"
+song_title: "雞"
+description: "〈雞〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（2020.006.0847.0004））（詞：大橋銅造、曲：西洋曲），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：コケ　ココ　ココ コッケッコ　コッケッコ　東がしらむ…"
+keywords: "雞, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大橋銅造, 西洋曲"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（2020.006.0847.0004）"
+musical_key: "C"
+image: "P050.jpg"
+audio: "niwatori.mp3"
+---
+
 # 雞
 
 <audio controls src="niwatori.mp3"></audio>
@@ -112,6 +124,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P050.jpg](P050.jpg)
+![雞 — 《新定兒童唱歌》 尋常科 第四學年 原書掃描頁 P050.jpg](P050.jpg)
 
 

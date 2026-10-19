@@ -1,3 +1,15 @@
+---
+title: "野川のしらべ — 《新定兒童唱歌》 高等科 女子一二年"
+song_title: "野川のしらべ"
+description: "〈野川のしらべ〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（2020.006.0849））（曲：成田為三），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：野川の水のさゝやきに 春を喜ぶ調べあり…"
+keywords: "野川のしらべ, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 成田為三"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（2020.006.0849）"
+musical_key: "C"
+image: "P079.jpg"
+audio: "nogawa_no_shirabe.mp3"
+---
+
 # 野川のしらべ
 
 <audio controls src="nogawa_no_shirabe.mp3"></audio>
@@ -107,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P079.jpg](P079.jpg)
+![野川のしらべ — 《新定兒童唱歌》 高等科 女子一二年 原書掃描頁 P079.jpg](P079.jpg)
 
 

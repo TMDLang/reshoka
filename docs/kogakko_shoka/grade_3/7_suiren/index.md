@@ -1,3 +1,15 @@
+---
+title: "すゐれん（睡蓮） — 《公學校唱歌》 第三學年用"
+song_title: "すゐれん（睡蓮）"
+description: "〈すゐれん（睡蓮）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用），調號拍號：Eb 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　すずしすゐれんお池の水に、 まるいはつぱのおざぶとん、…"
+keywords: "すゐれん（睡蓮）, 公學校唱歌, 第三學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌》 尋常科 第三學年用"
+musical_key: "Eb"
+image: "image.jpeg"
+audio: "suiren.mp3"
+---
+
 # すゐれん（睡蓮）
 
 <audio controls src="suiren.mp3"></audio>
@@ -118,8 +130,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![image.jpeg](image.jpeg)
+![すゐれん（睡蓮） — 《公學校唱歌》 第三學年用 原書掃描頁 image.jpeg](image.jpeg)
 
-![image2.jpeg](image2.jpeg)
+![すゐれん（睡蓮） — 《公學校唱歌》 第三學年用 原書掃描頁 image2.jpeg](image2.jpeg)
 
 

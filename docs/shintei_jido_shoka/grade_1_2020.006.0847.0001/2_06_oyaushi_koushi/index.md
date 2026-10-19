@@ -1,3 +1,15 @@
+---
+title: "オヤウシコウシ — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "オヤウシコウシ"
+description: "〈オヤウシコウシ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：三木露風），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オヤウシコウシ モウヒガクレル…"
+keywords: "オヤウシコウシ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
+musical_key: "F"
+image: "P036.jpg"
+audio: "oyaushi_koushi.mp3"
+---
+
 # オヤウシコウシ
 
 <audio controls src="oyaushi_koushi.mp3"></audio>
@@ -109,6 +121,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![P036.jpg](P036.jpg)
+![オヤウシコウシ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P036.jpg](P036.jpg)
 
 
