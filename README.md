@@ -18,6 +18,7 @@
 
 - 🔍 **跨冊重複與同名歌曲總索引**：[`docs/duplicate_songs.md`](docs/duplicate_songs.md)（共 93 組、213 首對照）
 - 📄 **《楊金土手抄唱歌帖》專題考證與研究筆記**：[`docs/shokacho/research_notes.md`](docs/shokacho/research_notes.md)
+- 📑 **《蓬萊唱歌集》存見曲目目次重建**：[`docs/shokacho/horai_shokashu.md`](docs/shokacho/horai_shokashu.md)（共 45+3 首完整對照表）
 
 | 教材／抄本叢書 | 冊別 | 發行／公認／抄錄資訊與年代 | 臺史博典藏號 | 收錄曲數 | 目錄路徑 |
 | :--- | :--- | :--- | :--- | ---: | :--- |
