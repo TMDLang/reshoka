@@ -57,8 +57,8 @@ A2 A2 A2 z2 | c3 c A2 A2 | B2 A2 G2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ichinensei.tmd)
-- [鋼琴伴奏 TMD 檔案](ichinensei_piano.tmd)
+- [主旋律 TMD 檔案](ichinensei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fxc-_j5s2Pm3Y_blqioKXFpWirYGhgwGVvq-DGZWOkb2LHVaeg9KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1QAuert3xdOeW51NWvN_TYWRgZKBnYGCmZ2BhYg5kGBi-39OpxMWlr8UFVMn1uHnO46b1j5v7Hzc0PG7aAXYXkFzyuGkZSB7ZqVyPmzY_bu543LQdpBaoo2nJ4-aWx037sShc9Lh54eOmNWCFU0GqmtseNy-C2QbRDrJwCZhcD9Sx-nHTHoQOkNH4dXA92dUD1Lb2cXMfSANECuycx80rgBJroNqABoPIZWAjZoCd1rQTaDJUB8jeZQR1NK-E-ZoYp6GEaXPj46atYJvWAI3aBBbaDFa4FsxuAJMruLT0ubh8EzPzrAIyE_PyHWoMahSquRSAwMbQTMsOzKpRMFbQBUIjIATRukARQyAJwqbxMAIiBlIBUg1i18DVg6ABSATFPFMghJkHEoHpQ-gFiYBoEIaYj800kCkwDBZXMAOSIAwTrVEwQTINIgKzG5vbYBhiGkSlKVwU1TRcbqvl4tK1UwAFrQISrczFBQA)]
+- [鋼琴伴奏 TMD 檔案](ichinensei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fxc-_j5s2Pm3Y_blryfk_H4-Ypj5sWPW7ue7Jny9Ol_U92z3i_p1NBS4tL0VbB0MCAy95WwY3LxkjfxI6rTkHpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuAFj9du-Ppzi3Pp6wA2mpkYGSgZ2BgpmdgYWIOZBgYAm1V4uLyTczMswrITMzLD_JwqDGoUajmUgACG0MzLTswq0bBWEEXCI2AEETrAkUMgSQIm8bDCIgYSAVINYhdA1cPggYgERTzTIEQZh5IBKYPoRckAqJBGGI-NtNApsAwWFzBDEiCMEy0RsEEyTSICMxubG6DYYhpEJWmcFFU03C5rRY5ZH1QQtYCHrDRhrFAxdGm8SAKzgWTGDyIIpDxMKcSoRzNaOy6gWIK0SYouiE8ojWjWo1bMzBQdO0UQOGigEQrc3EBAA)]
 
 ## 分析
 

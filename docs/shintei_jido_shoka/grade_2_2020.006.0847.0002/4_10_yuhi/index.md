@@ -50,8 +50,8 @@ E4 C4 | B,2 B,2 E2 E2 | F2 G2 F2 F2 | E6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yuhi.tmd)
-- [鋼琴伴奏 TMD 檔案](yuhi_piano.tmd)
+- [主旋律 TMD 檔案](yuhi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43LzscfPUx82TFLS0uBRtFSzNuOxtFVy5bIz0Tey46hSUXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7Pmya6ep2t3PN255fmUFe_3dBgZGBnoGRiY6RlYmJgDGQZG7_d0KoFtWDnv_Z5ZLybOfto3_-XeSWCxZ7M3AcWerlvydEvf8wlbns3pUOLi0tfierKjgetx07rHzZvf7-l_v2cPmL0Sym5ogPvmcdOax03bHze3Pm5egE_Ds-lLUZU2z3vc3PK4afXj5j4EG2hw016gNpBg0_rHzYuA6uYDjXzc3AUWWgXWMBsoAXYD3AgQSYrtXMAwo633QK5a-bhp5-PmFUBng6SbN4G9twrq5qaNj5vbkIOhG-x1MLe5DeE9ILtp8-OmJaTYrqXPxeWbmJlnFZCZmJfvUGNQo1DNpQAENoZmWnZgVo2CqYIuGJpBaYgIMkaIGENxDZxlBMQGIBGoaYYw0-IRxoGYYAIkCcI1YG0w7SCM0AiCyAZidwyIDXN4Ddjp5lAvgDDCU-imwZyNMA2mxzAOQwihCKQFm3FU9G0tF5eunQIothSAtDIXFwA)]
+- [鋼琴伴奏 TMD 檔案](yuhi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43LzscfPUx82T3u_peLJny9Ol_U92z3i_p1NBS4tL0VbB0ozL3lbBlcvGSN_EjqtOQelF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57s6nm6dsfTnVueT1kBtMvIwMhAz8DATM_AwsQcyDAwAlqqBLZh5bz3e2a9mDj7ad_8l3sngcWezd4EFHu6bsnTLX3PJ2x5NqdDiYvLNzEzzyogMzEvP8jDocagRqGaSwEIbAzNtOzArBoFUwVdMDSD0hARZIwQMYbiGjjLCIgNQCJQ0wxhpsUjjAMxwQRIEoRrwNpg2kEYoREEkQ3E7hgQG-bwGrDTzaFeAGGEp9BNgzkbYRpMj2EchhBCEUgLNuOo6Nta5MjywRVZhiCDow1jgaQJmGkCYqKIIzFxi5vGg3mm8SAuhIPiL4RaM4hKM7BKNI2EjIRyUMyDkDgsI8rtSB7HFQbEW4JkAlHixFpCy2ADJhVdOwVQalEA0spcXAA)]
 
 ## 分析
 

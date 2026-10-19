@@ -57,8 +57,8 @@ C2 F2 F2 F2 | A2 F2 F2 z2 | c2 d2 c2 A2 | G2 F2 F2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kintaro.tmd)
-- [鋼琴伴奏 TMD 檔案](kintaro_piano.tmd)
+- [主旋律 TMD 檔案](kintaro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPZx8-bHTfsfN6983LRMQUuLS9FWwdDAgsveVsGNy8ZI38SOq05B6cXKee_3zHo-f_PTvvlPJ_U82dH5srlPCSTzbPYmkMyUDc_mTnwxs-_F9H6w8Iv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6nG7qf7tjxfPnE52vWPNnR8HTtjqc7tzyfsuL9ng4jAyMDPQMDMz0DCxNzIMPA8P2eTiUuLn0tLqBKrsfN8x43bX3ctPpx8yow2fK4acnj5nYuNI8B-etBapu7wTr2P25aA9QBFAXqWgaW6HvctBGkt2kz0NB-MGs72KxOsAoQCZPAIkSUWq4nu3qAVi4Cqwbav_JxM1AByG6gajAL5BygO0HO3_i4ueFx8yKww4Bky-PmhY-b24ASO8EKgWaiuRjkdaCmFWBblwCFgPKbwaL7Ccpr6XNx-SZm5lkFZCbm5TvUGNQoVHMpAIGNoZmWHZhVo2CooKtgGg8kQAwjIK5RMIayQCIgXAPngWiQbI2CKZCEQQOQCNQ4kCxMP0KlGcgSFBEYD9NGZNPgDkM4BaQUxgMrxWIBsuMhxtVycenaKYACQwGJVubiAgA)]
+- [鋼琴伴奏 TMD 檔案](kintaro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPZx8-bHTfsfN6983LTs_Z6Ox81THjctetzc92TPlqdL-5_snvF-T6eClhaXoq2CoYEFl72tghuXjZG-iR1XnYLSi5Xz3u-Z9Xz-5qd9859O6nmyo_Nlc58SSObZ7E0gmSkbns2d-GJm34vp_WDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPh6dodT3dueT5lBdCZRgZGBnoGBmZ6BhYm5kCGgSHQmUpcXL6JmXlWAZmJeflBHg41BjUK1VwKQGBjaKZlB2bVKBgq6CqYxgMJEMMIiGsUjKEskAgI18B5IBokW6NgCiRh0AAkAjUOJAvTj1BpBrIERQTGw7QR2TS4wxBOASmF8cBKsViA7HiIcbXIYeGDEhYW8KCINowFKoaQGDzTeDAXQsFkQcbD3ApVj6oAzTBMSQz9GLYDVeBwC1Q70G-6dgog7ykg0cpcXAA)]
 
 ## 分析
 

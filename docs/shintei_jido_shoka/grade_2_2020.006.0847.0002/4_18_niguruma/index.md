@@ -44,8 +44,8 @@ G2 G2 E2 D2 | G2 G2 E2 D2 | G2 G A B2 A2 | G6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](niguruma.tmd)
-- [鋼琴伴奏 TMD 檔案](niguruma_piano.tmd)
+- [主旋律 TMD 檔案](niguruma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43Lj6ceOEx03djxv3KWhpcSnaKliacdnbKrhz2Rjpm9hx1SkovWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNk109T9fueLpzy_MpK97v6TAyMDLQMzAw0zOwMDEHMgyM3u_pVALbsHLe-z2znk7ofLJjx5MdDc9m9ICFn83eBBJesvzppJ7nUzY8a5n9fF-rEheXvhYXUBXX48amx02NYB_0P25c-rip53Hj_MeNUx83An2z_3HjwsdNk7iebtz4uHHd46aWx41tjxtXIfv3cWMP1-OmFY-bNz9uXvK4eSWYBKpbAdLQuOdxU9fjJqCefi4uoEeAtoGNbOx53NQP1g-0c9njxl6w4pVg7gKgIqCpyx43dTxu7HrcuAjkmKbJILNA0kDnAU3fB7OzaevjptWPm2c_bloCthOoYTpYc8vjpl4uLX0uLt_EzDyrgMzEvHyHGoMahWouBSCwMTTTsgOzahQMFXTB0CweSJiCCIgYCKOKmccDCSMFY6hkDZAN0QqCBiARqJFgHehmgrSBsCmUhmgHYcIGYncPLjGIE0FmIXyHMLGWi0vXTgEULApAWpmLCwA)]
+- [鋼琴伴奏 TMD 檔案](niguruma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43Lj6ceOEx03djxv3vd_T8WTPlqdL-5_snvF-T6eClhaXoq2CpRmXva2CO5eNkb6JHVedgtKL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ1fN07Y6nO7c8n7ICaJeRgZGBnoGBmZ6BhYk5kGFgBLRUCWzDynnv98x6OqHzyY4dT3Y0PJvRAxZ-NnsTSHjJ8qeTep5P2fCsZfbzfa1KXFy-iZl5VgGZiXn5QR4ONQY1CtVcCkBgY2imZQdm1SgYKuiCoVk8kDAFERAxEEYVM48HEkYKxlDJGiAbohUEDUAiUCPBOtDNBGkDYVMoDdEOwoQNxO4eXGIQJ4LMQvgOYWItcqj44AwVkIHRhrEgAxFM0sVN48E803gQF0qh-IwS82hqExIHxWgUGQgJD1hdOwVQ2CoAaWUuLgA)]
 
 ## 分析
 

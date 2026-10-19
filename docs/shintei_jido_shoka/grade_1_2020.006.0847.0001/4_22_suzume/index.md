@@ -53,8 +53,8 @@ C4 C4 | F F F C F2 z2 | A2 A2 G2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suzume.tmd)
-- [鋼琴伴奏 TMD 檔案](suzume_piano.tmd)
+- [主旋律 TMD 檔案](suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx067HzQsVtLS4FG0VDA0MuOxtFdy4bIz0Tey46hSUXqyc937PrBcTZz_tm_9h2cbNSiDBZ7M3AQWfbuh_Nnffi4apL_ZMAQu_aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykr3u_pMDIwMtAzMDDTM7AwMQcyDAzf7-lU4uLS1-ICquR63LTocXPj4-aVj5v7Hjcvedzc-7i5nQsstOxx82a8jK7HTesfN68AmgGkgKITHjdtB5nXtPFxcxtQdBNIVdNaoBKgCjxm4iI3A83Y-rh5xuPm1sfNq0E2cT3Z1QMUhOikyMnN80DOBEVXN7JHqO9kLX0uLt_EzDyrgMzEvHyHGoMahWouBSCwMTTTsgOzahQMFXQVjIHYCIhB7BoFUyAJwwZgETMoD0bXgHXAdIHVkGEaTB1EFwwim2YaDxWEM0BqQRAoANIEMRDZMbgMrOXi0rVTAIWGAhKtzMUFAA)]
+- [鋼琴伴奏 TMD 檔案](suzume_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx067HzQvf7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGhhw2dsquHHZGOmb2HHVKSi9WDnv_Z5ZLybOfto3_8OyjZuVQILPZm8CCj7d0P9s7r4XDVNf7JkCFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1YAXWhkYGSgZ2BgpmdgYWIOZBgYAl2oxMXlm5iZZxWQmZiXH-ThUGNQo1DNpQAENoZmWnZgVo2CoYKugjEQGwExiF2jYAokYdgALGIG5cHoGrAOmC6wGjJMg6mD6IJBZNNM46GCcAZILQgCBUCaIAYiOwaXgbXIgeGDEhgW8LCINowFKo42jQdRcC6QNADxTMA8MImiFChJgn5USZDz4LohUri0YzMboh3oN107BZD3FJBoZS4uAA)]
 
 ## 分析
 

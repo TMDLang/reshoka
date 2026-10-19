@@ -38,8 +38,8 @@ c4 d2 d2 | c3 d c2 A2 | G2 G2 A2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kazaguruma_mizuguruma.tmd)
-- [鋼琴伴奏 TMD 檔案](kazaguruma_mizuguruma_piano.tmd)
+- [主旋律 TMD 檔案](kazaguruma_mizuguruma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx07bHTRseN69-3DzvcfPux83zHze3wkUUtLS4FG0VDA2NuOxtFdy4bIz0Tey46hSUXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFe_3dBgZGBnoGRiY6RlYmJgDGQaG7_d0KnFx6WtxgR2353FzN5C1HuQcMAkRRriZC-pisDKwGJiECcOVaelzcfkmZuZZBWQm5uU71BjUKFRzKQCBjaGZlh2YVaNgrKALhqZQDBMxBdNGYBFDIAnCIB5EBKYLBA1AIlDTQCaAoBkUw0TMwDRIVw3cFFTzUU2r5eLStVMAOV4BSCtzcQEA)]
+- [鋼琴伴奏 TMD 檔案](kazaguruma_mizuguruma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx07bHTRseN69-3DzvcfPux83zHze3wkXe7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGhpx2dsquHHZGOmb2HHVKSi9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgLYaGRgZ6BkYmOkZWJiYAxkGhkBblbi4fBMz86wCMhPz8oM8HGoMahSquRSAwMbQTMsOzKpRMFbQBUNTKIaJmIJpI7CIIZAEYRAPIgLTBYIGIBGoaSATQNAMimEiZmAapKsGbgqq-aim1SK73QfF7RZwp0cbxgIVQ0g4zzQeDxdkPMypUAUmKMphZkG0YdUNdJqunQLIdQpAWpmLCwA)]
 
 ## 分析
 

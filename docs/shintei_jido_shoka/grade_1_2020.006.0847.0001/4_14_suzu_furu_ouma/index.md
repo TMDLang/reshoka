@@ -47,8 +47,8 @@ C2 E2 F2 A B | c2 c e c B A2 | B2 A B c2 B2 | A6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suzu_furu_ouma.tmd)
-- [鋼琴伴奏 TMD 檔案](suzu_furu_ouma_piano.tmd)
+- [主旋律 TMD 檔案](suzu_furu_ouma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx067HzVMfN69-3LTqcdOyx83zFLS0uBRtFQwNLLjsbRUcuWyM9E3suOoUlJ7N3vR-z6ynGzc-m7Pm6eK9SiCxF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPh6dodT3dueT5lxfs9HUYGRgZ6BgZmegYWJuZAhoHh-z2dSlxc-lpcQJVcj5u2P25e8rh58-OmzY-b16JwGxrwyAJ1wr246nHzHpBqOBvEAJKruB43r3jctAjEadr4uLkPpm7e4-bGx82bgGasB-lo2gSVg4YUUCtQBZC7Bqy643HzbIh5IPGmnVxcT3b1UOLy5vWPm_aDhcBOQ3Y5UBxELgEavw5sJ1A3zNlAD4PkdhHnbJDISrClQDcDrQLKdnFp6XNx-SZm5lkFZCbm5TvUGNQoVHMpAIGNoZmWHZhVo2CooKtgGg9CZvEQpi5OUWM4GyxqqGAEEgSyjBVMgdgIrK0GarARVAVIHiRTA9GEMM-AUjNhDoVBsIFctVxcunYKIH8rINHKXFwA)]
+- [鋼琴伴奏 TMD 檔案](suzu_furu_ouma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx067HzVMfN69-3LTqcdOyx83z3u_peNw85XHTosfNfU_2bHm6tP_J7hnv93QqaGlxKdoqGBpYcNnbKjhy2Rjpm9hx1SkoPZu96f2eWU83bnw2Z83TxXuVQGIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoEuMDIwM9AwMzPQMLEzMgQwDQ6BLlLi4fBMz86wCMhPz8oM8HGoMahSquRSAwMbQTMsOzKpRMFTQVTCNByGzeAhTF6eoMZwNFjVUMAIJAlnGCqZAbATWVgM12AiqAiQPkqmBaEKYZ0CpmTCHwiDYQK5aZG_7oHjbAu7raMNYoGIIiYNnEo9FEqbdFCwJ1wFRC-IakGYAhIKpAXkB7AFdOwWQHxSQaGUuLgA)]
 
 ## 分析
 

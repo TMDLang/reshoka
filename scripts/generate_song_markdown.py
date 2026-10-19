@@ -296,6 +296,10 @@ def render_analysis(main_tmd: Path, folder: Path) -> str:
     return run(["tmd", "inspect", str(main_tmd), "--locale", "zh-Hant"], cwd=folder)
 
 
+def render_studio_url(tmd_file: Path, folder: Path) -> str:
+    return run(["tmd", "studio-url", str(tmd_file)], cwd=folder).strip()
+
+
 def generate_song_folder(
     folder: Path,
     *,
@@ -371,9 +375,15 @@ def generate_song_folder(
         img_lines = [f"![{img.name}]({img.name})" for img in images]
         images_section = "\n## 原書掃描頁\n\n" + "\n\n".join(img_lines) + "\n"
 
-    tmd_links = [f"- [主旋律 TMD 檔案]({main_tmd.name})"]
+    main_studio_url = render_studio_url(main_tmd, folder)
+    tmd_links = [
+        f"- [主旋律 TMD 檔案]({main_tmd.name}) [[在 TMD Studio 編輯]({main_studio_url})]"
+    ]
     if piano_tmd:
-        tmd_links.append(f"- [鋼琴伴奏 TMD 檔案]({piano_tmd.name})")
+        piano_studio_url = render_studio_url(piano_tmd, folder)
+        tmd_links.append(
+            f"- [鋼琴伴奏 TMD 檔案]({piano_tmd.name}) [[在 TMD Studio 編輯]({piano_studio_url})]"
+        )
     tmd_links_block = "\n".join(tmd_links)
 
     markdown = f"""# {title}

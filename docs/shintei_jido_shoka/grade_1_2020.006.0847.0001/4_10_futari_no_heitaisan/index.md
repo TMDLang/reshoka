@@ -49,8 +49,8 @@ d2 c2 A2 c2 | d2 c2 A2 F2 | G2 A2 c2 d2 | F4 z2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](futari_no_heitaisan.tmd)
-- [鋼琴伴奏 TMD 檔案](futari_no_heitaisan_piano.tmd)
+- [主旋律 TMD 檔案](futari_no_heitaisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPPVx0_7HzaseN_c9bp7xuGkJiAsitz5u3qygpcWlaKtgaGjEZW-r4MZlY6RvYsdVp6D0YuW893tmPe2Z_rRv_vOZe58v71YCCT-bvQko_KxjwvMpG553bHqyoxMs_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrHi_p8PIwMhAz8DATM_AwsQcyDAwfL8HaAOXvhYXUCUXkl-6HjevBLr_cXM7pqe4Hjctety0GsRvnvO4adnjpu0gdU2rINKPm-c-bm7g4nqyqwdo4rzHzavBpkx63NwBNhqochFIsGn94-YVIJVg47Y_bloDlmh53NwG1rMAbMeyx82dQBGgcTs6gcYBjZ4OdtoioIMfN68Bq0d27GqgcUCDgSYC5YCqW0CmAK0FuXEt2AsgWS4tfS4u38TMPKuAzMS8fIcagxqFai4FILAxNNOyA7NqFAzjFHQVTIHYDIjBnBoFIxATiEG0MVgEpADEgslA1ICgARTXQM0DGQNTDaJRRRB6YfIgWaArMEyr5eLStVMAOV8BC63MxQUA)]
+- [鋼琴伴奏 TMD 檔案](futari_no_heitaisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPPVx0_7HzaseN_c9bp7xuGkJiAsitz5u3vx-T8fj5imPmxYBZZ_s2fJ0af-T3TPe7-lU0NLiUrRVMDQ04rK3VXDjsjHSN7HjqlNQerFy3vs9s572TH_aN__5zL3Pl3crgYSfzd4EFH7WMeH5lA3POzY92dEJFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1YA3WhkYGSgZ2BgpmdgYWIOZBgYAt2oxMXlm5iZZxWQmZiXH-ThUGNQo1DNpQAENoZmWnZgVo2CYZyCroIpEJsBMZhTo2AEYgIxiDYGi4AUgFgwGYgaEDSA4hqoeSBjYKpBNKoIQi9MHiQLdAWGabXIrvdBcb0F3PHRhrFAxdEmIBLIM40Hc8GCcEmIIFwW2a0QjXD1qDyoYXDtYHG423TtFEDOU8BCK3NxAQA)]
 
 ## 分析
 

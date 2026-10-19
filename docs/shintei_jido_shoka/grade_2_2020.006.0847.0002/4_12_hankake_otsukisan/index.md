@@ -47,8 +47,8 @@ c2 d2 c2 A2 | G2 F2 D2 C2 | G2 A2 G2 G2 | F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hankake_otsukisan.tmd)
-- [鋼琴伴奏 TMD 檔案](hankake_otsukisan_piano.tmd)
+- [主旋律 TMD 檔案](hankake_otsukisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ42tv1uGn146aNj5tWPZvT8bhp6-PmzQpaWlyKtgqWZlz2tgpuXDZG-iZ2XHUKSi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8yor3ezqMDIwM9AwMzPQMLEzMgQwDo_d7OpXANqyc937PrBdL9z9bNPdp6-qnvY1g4WezN4GEezufbp_7ZP9CJS4ufS2uJzsauLA6_3FDw-PmzsdNmx83z3jcvOxx03qQuqcdbSDppjWPm7Y_bu4GKnq6cSOSChCn-3Fz_-OmDY-b5z9u7ns2ZwXIJIiRID0rIIJcIIua-6D2Nq8E6WloeLGs-3HTosdN-8EiPVxcQD8T7TygNMx-oIYlID1AU0CWLwO7BaEOwge580Xnpheb5oK8sXbC03WdQDZxDtPS5-LyTczMswrITMzLd6gxqFGo5lIAAhtDMy07MKtGwVRBF47NgBgmAoK6CgZwEWMgNgJiQ7AIiAWCIHkQrIGaZhYPMgZOmIIIXKIgk2AmgugasB3YTIW5DeYO_CKmUBEQjzjTYK5Adh1IDOZniOtAKlDNq-Xi0rVTAAWxApBW5uICAA)]
+- [鋼琴伴奏 TMD 檔案](hankake_otsukisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ42tv1uGn146aNj5tWPZvT8bhp6-Pmze_3dDzZs-Xp0v4nu2e839OpoKXFpWirYGnGZW-r4MZlY6RvYsdVp6D0on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdvU8Xbvj6c4tz6esANplZGBkoGdgYKZnYGFiDmQYGAEtVQLbsHLe-z2zXizd_2zR3Ketq5_2NoKFn83eBBLu7Xy6fe6T_QuVuLh8EzPzrAIyE_PygzwcagxqFKq5FIDAxtBMyw7MqlEwVdCFYzMghomAoK6CAVzEGIiNgNgQLAJigSBIHgRroKaZxYOMgROmIAKXKMgkmIkgugZsBzZTYW6DuQO_iClUBMQjzjSYK5BdBxKD-RniOpAKVPNqkUPYB1cIG4IMjDaMBVmCYKKIQ0hIYONSbhoP5pnGw5Qi-8kEImkClkTRhlsGiYNiNooMukVEeIYocROIq0ixArdPUJxPjF-AEadrpwCKOwUgrczFBQA)]
 
 ## 分析
 

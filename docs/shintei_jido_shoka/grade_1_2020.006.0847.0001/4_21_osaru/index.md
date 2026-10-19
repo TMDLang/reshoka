@@ -47,8 +47,8 @@ A2 c d c2 z2 | A2 c d c2 z2 | A2 z2 G2 z2 | C6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](osaru.tmd)
-- [鋼琴伴奏 TMD 檔案](osaru_piano.tmd)
+- [主旋律 TMD 檔案](osaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx09bHzasVtLS4FG0VDA0suOxtFZy5bIz0Tey46hSUXqyc937PrBcTZz_tm_9h2cbNSiDBZ7M3AQWfLWp8PmXDi03zwGIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMqK93s6jAyMDPQMDMz0DCxMzIEMA8P3ezqVuLj0tbjgrn3c0ABnA0XXPm5e8ri5BSyKzgZrAvKbVj9u2vi4uQ0ssflxM1AOSLYTpXvJ46ZtMFs3Q9hACbDCpu2Pm1c8bu4Gyy163LT3cfM0oNwikFxzI9CCx82LYFYiRIixlWSPaulzcfkmZuZZBWQm5uU71BjUKFRzKQCBjaGZlh2YVaNgqqCrYAYkQbQBEGMTMYayjFDUwCBYBGqaGZBtGKdgFAciYYpxCoJYqLZgMxOkAhlDRMBGwZwB0WwMhiAaJgKSBzkarGbQedgQw8xaLi5dOwVQnCkAaWUuLgA)]
+- [鋼琴伴奏 TMD 檔案](osaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx09bHzavf7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGlhw2dsqOHPZGOmb2HHVKSi9WDnv_Z5ZLybOfto3_8OyjZuVQILPZm8CCj5b1Ph8yoYXm-aBxV6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVA5xkZGBnoGRiY6RlYmJgDGQaGQOcpcXH5JmbmWQVkJublB3k41BjUKFRzKQCBjaGZlh2YVaNgqqCrYAYkQbQBEGMTMYayjFDUwCBYBGqaGZBtGKdgFAciYYpxCoJYqLZgMxOkAhlDRMBGwZwB0WwMhiAaJgKSBzkarGbQedgQw8xa5CjzQYkyC3iMRRvGAhWDSAOsPAOFaNN4ZEmQ6TD3RpugKMfgATWjGIyiF24VyPVE8EDOQAQVrd2NTTMwQHXtFEBhqgCklbm4AA)]
 
 ## 分析
 

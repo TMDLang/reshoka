@@ -49,8 +49,8 @@ A8 A4 c2 d2 | c4 f4 d4 c4 | A4 G4 A4 G4 | F12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](oshogatsu.tmd)
-- [鋼琴伴奏 TMD 檔案](oshogatsu_piano.tmd)
+- [主旋律 TMD 檔案](oshogatsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx0_bHzUseNy173LThcfP6x80tClpaXIq2CoYGBlz2tgpuXDYm-iZ2XHUKSi9Wznu_Z9azuRsfN_Y_bmpUAok9m70JKPa8YfnT3Z1Pl6x62dwHFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1a839NhZGBkoGdgYKZnYGFiDmQYGL7f06nExaWvxQVUyfW4eRHY5UD3g1z-uKHhcXPv4-bVj5s7QGxsvuPCKvq4uftxcz9Yz_7HTZvBDKDRmx43twE1bH7cPO9x8yaw8UAG0PNA_W0wRXsfN08GiTftBpoIdFI_2Oz1YOnNYLeBSVzu4Xqyq4cWHgG5dBWY0QIyF-yRVY-bJz1ungAyG0mCSh7R0ufi8k3MzLMKyEzMy3eoMahRqOZSAAIbCy07MKNGwVhBFwxBtCkQ1iiYgVkQERCsUTACkiBsCKURukDQACQCN80IiE3B8kZA9SC9IBokClWJJAJSDVMDYaObhuw2M6AIyF2GcUAC5kiIIpCjYHQN2BhUx9VycenaKYCCQgGJVubiAgA)]
+- [鋼琴伴奏 TMD 檔案](oshogatsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx0_bHzUseNy173LThcfP6x80t7_d0PG6e8rhp0ePmvid7tjxd2v9k94z3ezoVtLS4FG0VDA0MuOxtFdy4bEz0Tey46hSUXqyc937PrGdzNz5u7H_c1KgEEns2exNQ7HnD8qe7O58uWfWyuQ8s_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrAA60MjAyEDPwMBMz8DCxBzIMDAEOlCJi8s3MTPPKiAzMS8_yMOhxqBGoZpLAQhsLLTswIwaBWMFXTAE0aZAWKNgBmZBRECwRsEISIKwIZRG6AJBA5AI3DQjIDYFyxsB1YP0gmiQKFQlkghINUwNhI1uGrLbzIAiIHcZxgEJmCMhikCOgtE1YGNQHVeLHBI-KCFhAg-JaMNYoGIICeSZxILZcL5pPFgaQsFUgyyAuRZNP1Q9kAtUgszFlMVuAIQHdQaED9aG1QlAH-raKYA8qYBEK3NxAQA)]
 
 ## 分析
 

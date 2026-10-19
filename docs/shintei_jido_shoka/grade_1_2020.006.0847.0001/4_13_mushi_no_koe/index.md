@@ -39,8 +39,8 @@ A3 A c2 A2 | G3 G E4 | c4 A2 G2 | c6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mushi_no_koe.tmd)
-- [鋼琴伴奏 TMD 檔案](mushi_no_koe_piano.tmd)
+- [主旋律 TMD 檔案](mushi_no_koe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOBx0_bHzX2PmzY_bt6ooKXFpWirYGnGZW-r4MxlY6RvYsdVp6D0bPam93tmPd3Q_2zuvhcNU1_smaIEEn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1a839NhZGBkoGdgYKZnYGFiDmQYGL7f06nExaWvxfW4edXjZqDTwGRDw-PmRjAbzgU7v2nN4-aux03rgarnPW5ugYoCpZt2Pm7ahc4FaVgC8m_TisfN7VyPm4CGdT9u7geFAkjR-sdNW6FskFnLQNpAjDagUiQDQEqhZoCVYnEhl5Y-F5dvYmaeVUBmYl6-Q41BjUI1lwIQ2BiaadmBWTUKhnEKukBoFAdhmQExDkFTsJgZmDZGEoFAA5AI1EyQepBKvJqNIFYoGIJJkAhIHIRBPGTjQGIgGZBeEIZYAMIwByDUgPSCTATaGE-q60yhpiCFAMIaJCGEgbVcXLp2CqAwVgDSylxcAA)]
+- [鋼琴伴奏 TMD 檔案](mushi_no_koe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOBx0_bHzX2PmzY_bt74fk_H4-Ypj5sWAUWe7NnydGn_k90z3u_pVNDS4lK0VbA047K3VXDmsjHSN7HjqlNQejZ70_s9s55u6H82d9-Lhqkv9kxRAgm_aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgG4xMjAy0DMwMNMzsDAxBzIMDIFuUeLi8k3MzLMKyEzMyw_ycKgxqFGo5lIAAhtDMy07MKtGwTBOQRcIjeIgLDMgxiFoChYzA9PGSCIQaAASgZoJUg9SiVezEcQKBUMwCRIBiYMwiIdsHEgMJAPSC8IQC0AY5gCEGpBekIlAG-NJdZ0p1BSkEEBYgySEMLAWOYh9UILYAh7C0YaxQMXRJiASBw9Mwnggw2FuhajDodo0HsyFUHBZEBfJAFQtEONQrEPTT7TtuDUDQ0XXTgEUMApAWpmLCwA)]
 
 ## 分析
 

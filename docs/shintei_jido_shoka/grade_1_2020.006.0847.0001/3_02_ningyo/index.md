@@ -59,8 +59,8 @@ F4 F4 G4 G4 | F4 G4 A4 A4 | c4 A4 G4 G4 | F12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ningyo.tmd)
-- [鋼琴伴奏 TMD 檔案](ningyo_piano.tmd)
+- [主旋律 TMD 檔案](ningyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P24efPjpnWPm5c8blqmoKXFpWirYGhgwmVvq-DGZWOib2LHVaeg9GLlvPd7Zj2b1v6yecXzOY1KILFnszdhiL1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZMdDU_X7ni6c8vzKSve7-kwMjAy0DMwMNMzsDAxBzIMDN_v6VTi4tLX4gKq5HrcvP5x0_7HTdsfN_eheeFxcz9QesXjpiVoEkDRhUDJx80THjc3P25ufNy86nFzBxdY4drHTTtAZHM7UBVQZtLjpq0giab1YO4iiMJFYLUrQdY2LSHPDVxPdvWQ6XqgJFBT8yYYYwbQJ0C1vSBVQBJkWhuQPwnoVrDX2h83rQKb0wb0AFCi63ET0IPzHjftBuogzw1a-lxcvomZeVYBmYl5-Q41BjUK1VwKCjYmWnZAqkbBEAiNgBDEMlIwBsIaBVMgCeLVAGldIDRQqAGrNQVCMyCEsEByIJYZmF0DVI-sFmSSMYa5CP3IanG5ASYGU1vLxaVrpwDyjQISrcwFAA)]
+- [鋼琴伴奏 TMD 檔案](ningyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P24efPjpnWPm5c8blr2fk_H4-Ypj5sWPW7ue7Jny9Ol_U92z3i_p1NBS4tL0VbB0MCEy95WwY3LxkTfxI6rTkHpxcp57_fMejat_WXziudzGpVAYs9mb8IQe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgBdZ2RgZKBnYGCmZ2BhYg5kGBgCXafExeWbmJlnFZCZmJcf5OFQY1CjUM2loGBjomUHpGoUDIHQCAhBLCMFYyCsUTAFkiBeDZDWBUIDhRqwWlMgNANCCAskB2KZgdk1QPXIakEmGWOYi9CPrBaXG2BiMLW1yJ7xweKZaMNYoNJo03gQBeeCSRySCEdApU3waIXxIEZgaMVrLYq5pGnF5mJgUOjaKYBCQwGJVuYCAA)]
 
 ## 分析
 

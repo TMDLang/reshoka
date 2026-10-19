@@ -60,8 +60,8 @@ d d d d d4 | A A A A A4 | B2 A2 F2 D2 | E2 E2 D2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ari.tmd)
-- [鋼琴伴奏 TMD 檔案](ari_piano.tmd)
+- [主旋律 TMD 檔案](ari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOhx8yoFLS0uRVsFQwMLLntbBRcuGyN9EzuuOgWlFyvnvd8z68XE2U_75n9YtnGzEkjw2exNQMFnixqfT9nwYtM8sNiL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7Li_Z4OIwMjAz0DAzM9AwsTcyDDwPD9nk4lLi59LS6gSq7HzY2Pm1c8bl77uKEBK5sYFU2rHjfPhngcJNG0GcKmkuH7oEJoDLD58x43LQFZ1rT1cXP_42Ygez1YN1i8ecLjZqBTVj1u2gsUp7lruJ7s6gEqAKrbDHJJ80oQCVKAIgJ2dPOMx02rQXyQ2ZMeN20EupUYraBg7UBoBXltJ9BlYIdDRJs3gRX1P27aDTZ8GtiATlDMNAPF-4AKiHJjJygWQS5th7lxPdAGLi19Li7fxMw8q4DMxLx8hxqDGoVqLgUgsDE007IDs2oUDONQkC4Y1iiYwiFMxAxIgnjGQGwIVYMQMQCJUG6kEZAEYRAP2UiYGIgGqa5RMIGyQCJglXAeiAbJIswHYZo5sJaLS9dOARTOCki0MhcXAA)]
+- [鋼琴伴奏 TMD 檔案](ari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOhx86r3ezoeN08Bs_ue7NnydGn_k90z3u_pVNDS4lK0VTA0sOCyt1Vw4bIx0jex46pTUHqxct77PbNeTJz9tG_-h2UbNyuBBJ_N3gQUfLao8fmUDS82zQOLvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4DOMzIwMtAzMDDTM7AwMQcyDAyBzlPi4vJNzMyzCshMzMsP8nCoMahRqOZSAAIbQzMtOzCrRsEwDgXpgmGNgikcwkTMgCSIZwzEhlA1CBEDkAjlRhoBSRAG8ZCNhImBaJDqGgUTKAskAlYJ54FokCzCfBCmmQNrkYPZByWYLeChHG0YC1QMITF4Jig803gY1wDuYEq1IwSRdIAEgWpgxoEFkY2jgvXAsNG1UwAFjwISrczFBQA)]
 
 ## 分析
 
