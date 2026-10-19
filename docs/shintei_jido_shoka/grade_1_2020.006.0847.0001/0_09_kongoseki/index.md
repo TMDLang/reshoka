@@ -11,6 +11,13 @@
 原書資訊與歌詞全文（對應 P014.jpg – P015.jpg，儀式歌 pp. 10–11，第 9 首）：
 調性與拍號：ハ長調 4/4 拍子，「温和ニ」
 
+## 跨冊／重複收錄參照
+
+> 同曲（昭憲皇太后御歌、奧好義作曲〈金剛石〉；收錄於《新定兒童唱歌》卷首與《唱歌帖》P051–P052 夾頁）
+
+- **[同曲]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈金剛石・水は器〉**](../../../shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

@@ -1,0 +1,13 @@
+X:1
+T:旅愁
+C:曲：J. P. Ordway
+M:6/8
+L:1/16
+Q:3/8=48
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! B2 G2 B2 e6 | c2 e2 e2 B6 | B2 E2 F2 G2 F2 E2 | F6 z6 |
+!mf! B2 G2 B2 e3 d3 | c4 e2 B6 | B2 F2 G2 A3 D3 | E6 z6 |
+!mf! c2 e2 e2 e6 | d2 c2 d2 e6 | !p! c2 d e c2 c2 B G E2 | F6 z6 |
+!mf! B2 G2 B2 e3 d3 | c4 e2 B6 | B2 F2 G2 A3 D3 | E6 z6 |

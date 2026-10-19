@@ -1,0 +1,13 @@
+X:1
+T:兎の電報（兔子的電報）
+C:曲：山田耕筰
+M:2/4
+L:1/16
+Q:1/4=120
+K:A
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+A4 E2 E2 | F2 C2 C2 z2 | A A A2 E E E E | F2 C2 C2 z2 |
+c c c c B B A A | B2 E2 E2 z2 | C C E E F F A A | c2 B2 A2 z2 |
+A A A A E E E E | F2 C2 C2 z2 | A A A A E E E E | F2 C2 C2 z2 |
+c c c c B B A A | B2 E2 E2 z2 | C C E E F F A A | c2 B2 A2 z2 |

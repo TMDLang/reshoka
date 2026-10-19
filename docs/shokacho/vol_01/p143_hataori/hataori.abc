@@ -1,0 +1,16 @@
+X:1
+T:機織り（手毬唄）
+C:曲：中山晋平
+M:2/4
+L:1/16
+Q:1/4=84
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z4 | z4 z4 | F3 G F2 D2 | F3 G A2 c2 |
+d2 c A c2 z2 | d2 d2 c2 d2 | A2 c2 G2 A2 | F3 G D2 C2 |
+D4 z4 | z4 z4 | c3 c d2 d2 | c3 A G4 |
+A3 c d2 c2 | A4 z4 | d2 d2 f2 d2 | c3 d c2 A2 |
+G2 A2 c2 G2 | A4 z4 | F3 G F2 D2 | F2 G2 A2 c2 |
+d3 c A4 | c4 z4 | d2 d2 c2 d2 | A2 c2 G2 A2 |
+F3 G D4 | D4 z4 |

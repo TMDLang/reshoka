@@ -11,6 +11,14 @@
 原書資訊與歌詞全文（對應 P026.jpg，書頁 p. 11，第一學期第 8 首）：
 調性與拍號：ハ調二拍子（C 大調 2/4 拍），「ウレシゲニ」
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈シャボン玉（肥皂泡）〉**](../../../shokacho/vol_07/p233_shabondama/index.md)（`E,` / `2/4` — [原始 TMD](../../../shokacho/vol_07/p233_shabondama/shabondama.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈しゃぼん玉 (肥皂泡)〉**](../../../shokacho/vol_07/p252_shabondama/index.md)（`E,` / `2/4` — [原始 TMD](../../../shokacho/vol_07/p252_shabondama/shabondama.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

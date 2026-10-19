@@ -12,6 +12,14 @@ Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934)
 Lyricist: 葛原齒 (Kuzuhara Shigeru) / Composer: 梁田貞 (Yanada Tadashi)
 Key: F major (?= F), 2/4 (<2/4>), ゲンキニ Quarter = 116 (!= 116)
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈進軍〉**](../../koto_boys_2020.006.0848/2_2_02_shingun/index.md)（`G` / `4/4` — [原始 TMD](../../koto_boys_2020.006.0848/2_2_02_shingun/shingun.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈進軍 (進軍)〉**](../../../shokacho/vol_10/p195b_shingun/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_10/p195b_shingun/shingun.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

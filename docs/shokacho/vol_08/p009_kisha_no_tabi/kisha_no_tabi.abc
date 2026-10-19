@@ -1,0 +1,20 @@
+X:1
+T:汽車の旅
+M:2/4
+L:1/16
+Q:1/4=84
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! F3 C F2 C2 | F2 A2 G2 F2 | D2 F2 C2 A,2 | C4 z4 |
+F3 C F2 G2 | A2 G A G2 c2 | F G A B c2 C2 | F4 z2 F A |
+c z c z c z A G | F z F z F z E F | G2 F G A2 F A | c4 z2 c B |
+A z A z A z G F | G z G z G z F G | A z A B c z d z | c4 z4 |
+F3 C F2 C2 | F2 A2 G2 F2 | D2 F2 C2 A,2 | C4 z4 |
+A3 B A B A G | F2 A G F2 C2 | F G A G A2 c2 | F4 z4 |
+!mf! F3 C F2 C2 | F2 A2 G2 F2 | D2 F2 C2 A,2 | C4 z4 |
+F3 C F2 G2 | A2 G A G2 c2 | F G A B c2 C2 | F4 z2 F A |
+c z c z c z A G | F z F z F z E F | G2 F G A2 F A | c4 z2 c B |
+A z A z A z G F | G z G z G z F G | A z A B c z d z | c4 z4 |
+F3 C F2 C2 | F2 A2 G2 F2 | D2 F2 C2 A,2 | C4 z4 |
+A3 B A B A G | F2 A G F2 C2 | F G A G A2 c2 | F4 z4 |

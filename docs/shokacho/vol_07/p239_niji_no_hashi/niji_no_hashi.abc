@@ -1,0 +1,13 @@
+X:1
+T:虹の橋（彩虹橋）
+M:4/4
+L:1/16
+Q:1/4=88
+K:G
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+B4 G2 G2 A6 G2 | E12 z4 | D2 E2 G4 A4 d2 A2 | B12 z4 |
+e4 B2 d2 A4 G2 B2 | A6 G2 E8 | z8 z8 | z8 z8 |
+D8 G4 D4 | E2 E2 G4 D8 | E2 G2 A2 B2 A4 A3 G | E12 z4 |
+E2 E2 E2 D2 E2 E2 E2 z2 | E2 E2 E2 D2 E2 G2 E2 z2 | D2 D2 E2 G2 A4 B4 | A12 z4 |
+A4 A3 A B4 d4 | e4 d3 B A8 | A4 G2 A2 B4 D4 | E2 E2 G12 |

@@ -1,0 +1,16 @@
+X:1
+T:朝の祈り
+M:4/4
+L:1/16
+Q:1/4=88
+K:Db
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!p! D6 D2 C4 A,4 | D4 E4 F6 B2 | A4 G4 F6 D2 | E12 z4 |
+!mf! F6 G2 B4 A4 | d4 c4 B6 d2 | !p! A4 G4 F6 E2 | D12 z4 |
+!f! d6 d2 e8 | !mf! d4 e4 f6 c2 | e4 d4 B4 B4/3 c4/3 d4/3 | A12 z4 |
+F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |
+!p! D6 D2 C4 A,4 | D4 E4 F6 B2 | A4 G4 F6 D2 | E12 z4 |
+!mf! F6 G2 B4 A4 | d4 c4 B6 d2 | !p! A4 G4 F6 E2 | D12 z4 |
+!f! d6 d2 e8 | !mf! d4 e4 f6 c2 | e4 d4 B4 B4/3 c4/3 d4/3 | A12 z4 |
+F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |

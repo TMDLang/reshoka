@@ -1,0 +1,14 @@
+X:1
+T:夕日（夕陽）
+C:曲：室崎琴月
+M:2/4
+L:1/16
+Q:1/4=108
+K:E
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+B4 c4 | B2 B2 B2 B2 | !mp! B2 B2 G2 G2 | G2 G2 F2 z2 |
+E4 C4 | B,2 B,2 E2 E2 | !p! F2 G2 F2 F2 | E6 z2 |
+B2 B2 B2 B2 | B4 B2 B2 | c2 e2 c2 c2 | B6 z2 |
+!mp! G2 G2 B2 B2 | c2 c2 e2 B2 | c2 c2 B2 B2 | G6 z2 |
+!mf! E4 C4 | B,2 B,2 E2 E2 | F2 G2 F2 F2 | E6 z2 |

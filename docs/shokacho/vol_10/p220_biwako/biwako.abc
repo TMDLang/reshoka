@@ -1,0 +1,12 @@
+X:1
+T:琵琶湖 琵琶湖
+M:4/4
+L:1/16
+Q:1/4=88
+K:C
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+C4 C2 E2 G6 G2 | A4 c4 G8 | A4 A4 c4 B2 A2 | G4 E2 C2 D8 |
+A6 G2 E4 C4 | E2 D2 D2 C2 G8 | G4 E2 C2 D6 D2 | C12 z4 |
+c6 c2 d2 c2 c2 A2 | G6 A2 G8 | A6 A2 c4 B2 A2 | G4 E2 G2 D8 |
+A4 A4 A6 G2 | c4 d4 e4 c4 | G4 A2 G2 E4 D4 | C12 z4 |

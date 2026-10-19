@@ -1,0 +1,15 @@
+X:1
+T:カタツムリ
+C:曲：大正幼年唱歌 第五集
+M:2/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+!mp! A,2 A,2 A,2 A,2 | B,2 B,2 B,4 | C2 C2 B,2 A,2 | F,6 z2 |
+D2 D2 D2 D2 | E2 E2 F2 F2 | E2 E2 F2 D2 | E6 z2 |
+A,2 A,2 A,4 | B,2 B,2 B,2 B,2 | C2 C2 B,2 A,2 | F,6 z2 |
+D2 D2 D2 D2 | E2 E2 F2 F2 | A2 F2 E2 D2 | E6 z2 |
+A,2 A,2 B,2 B,2 | C2 C2 B,2 B,2 | E2 C2 B,2 A,2 | B,6 z2 |
+C4 B,2 C2 | A,2 A,2 F,2 F,2 | A,2 F,2 E,2 D,2 | E,6 z2 |

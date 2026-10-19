@@ -1,0 +1,12 @@
+X:1
+T:オフネ（小船）
+M:2/4
+L:1/16
+Q:1/4=108
+K:D
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+A2 A2 F2 F2 | A2 A2 F2 F2 | A2 A2 B2 B2 | B4 z4 |
+d2 d2 B2 B2 | d2 d2 B2 B2 | A2 A2 F2 F2 | A4 z4 |
+A2 A2 F2 F2 | A2 A2 F2 F2 | B2 B2 B2 B2 | A4 z4 |
+d2 d2 B2 B2 | A2 A2 F2 F2 | A2 A2 d2 d2 | d4 z4 |

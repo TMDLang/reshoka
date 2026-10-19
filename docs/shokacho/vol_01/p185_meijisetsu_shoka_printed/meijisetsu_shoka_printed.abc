@@ -1,0 +1,14 @@
+X:1
+T:明治節唱歌 明治節唱歌 — 印刷譜
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Melody" snm="Mel"
+[V:V1]
+D3 E F2 A10 | B3 B A12 | F2 A2 E2 D B,9 | A,16 |
+B,3 D E2 B,10 | D3 E F12 | A2 F2 E D E F9 | D6 z10 |
+D3 E F2 A10 | B3 B A12 | F2 A2 E2 D B,9 | A,16 |
+B,3 D E2 B,10 | D3 E F12 | F2 E2 F A B ^A9 | B6 z10 |
+A3 A B2 F10 | A3 E F12 | A2 B2 d B A F9 | E6 z10 |
+d3 c B2 A10 | B3 A F12 | E2 A2 F3 E9 | D6 z10 |

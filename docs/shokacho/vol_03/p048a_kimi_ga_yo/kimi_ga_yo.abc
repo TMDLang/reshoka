@@ -1,0 +1,11 @@
+X:1
+T:君が代
+M:4/4
+L:1/16
+Q:1/4=69
+K:C
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+!p! D4 C4 D4 E4 | G4 E4 D8 | !mf! E4 G4 A4 G2 A2 | d4 B4 A4 G4 |
+E4 G4 A8 | !f! c4 d4 c8 | !mf! E4 G4 A4 G4 | E6 D2 G,8 |
+A4 c4 d8 | c4 d4 A4 G4 | A4 G2 E2 D8 |

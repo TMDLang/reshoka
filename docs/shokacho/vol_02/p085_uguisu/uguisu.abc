@@ -1,0 +1,15 @@
+X:1
+T:うぐひす
+C:曲：不詳
+M:4/4
+L:1/16
+Q:1/4=96
+K:Eb
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+!f! G4 G3 F E4 z4 | G4 G3 F E4 z4 | !mp! B,4 B,4 C4 D4 | E4 E4 F4 G4 |
+F4 G2 E2 C4 B,4 | C12 z4 | z8 z2 B2 c2 d2 | e16 |
+!f! _d6 c2 c4 c4 | c6 B2 G4 G4 | !p! ^F4 G2 C2 B,4 C4 | B,4 _d2 c2 B8 |
+B16 | B12 z4 | !f! G4 G3 F E4 z4 | G4 G3 F E4 z4 |
+B,4 C4 D4 F4 | z2 g2 f2 e2 c4 z4 | F4 G4 C4 D4 | E6 G2 F4 C4 |
+E16 | E8 z8 | z16 | z16 |

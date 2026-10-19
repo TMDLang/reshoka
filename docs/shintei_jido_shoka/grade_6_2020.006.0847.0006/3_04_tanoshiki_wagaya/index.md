@@ -10,6 +10,14 @@
 原書資訊與歌詞全文（對應 P054.jpg–P055.jpg，書頁 pp. 31–32，第三學期第 4 首）：
 調性與拍號：ほ長調八分之六拍子（E 大調 6/8 拍，弱起 1 拍），♩.=80
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈樂シキ我家〉**](../../../shokacho/vol_08/p027_tanoshiki_waga_ie/index.md)（`B,` / `4/4` — [原始 TMD](../../../shokacho/vol_08/p027_tanoshiki_waga_ie/tanoshiki_waga_ie.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈樂しき我家〉**](../../../shokacho/vol_02/p102_tanoshiki_wagaya/index.md)（`B,` / `4/4` — [原始 TMD](../../../shokacho/vol_02/p102_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

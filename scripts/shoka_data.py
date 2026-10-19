@@ -65,6 +65,7 @@ NORMALIZED_KEY_NAMES: dict[str, str] = {
 COLLECTION_LABELS: dict[str, str] = {
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
+    "shokacho": "《楊金土手抄唱歌帖》",
 }
 
 VOLUME_LABELS: dict[str, str] = {
@@ -77,6 +78,13 @@ VOLUME_LABELS: dict[str, str] = {
     "grade_6_2020.006.0847.0006": "新定・尋常科第六學年",
     "koto_boys_2020.006.0848": "新定・高等科男子一二年",
     "koto_girls_2020.006.0849": "新定・高等科女子一二年",
+    "vol_01": "唱歌帖・第 1 冊（選定唱歌筆記帳）",
+    "vol_02": "唱歌帖・第 2 冊（II）",
+    "vol_03": "唱歌帖・第 3 冊（I）",
+    "vol_07": "唱歌帖・第 7 冊（VII・蓬萊唱歌集上）",
+    "vol_08": "唱歌帖・第 8 冊（VIII・蓬萊唱歌集下）",
+    "vol_09": "唱歌帖・第 9 冊（IX・支那曲）",
+    "vol_10": "唱歌帖・第 10 冊（X）",
 }
 
 TITLE_RE = re.compile(r"^\s*\*\*\s*(.*?)\s*\*\*\s*$")
@@ -121,6 +129,8 @@ def classify_semester(collection: str, volume: str, folder_name: str) -> str:
     if collection == "kogakko_shoka":
         # 公學校唱歌 第三學年用（全一冊 15 課，未分學期標號，或依課次歸為全學年正課）
         return "全學年正課（公學校唱歌）"
+    if collection == "shokacho":
+        return "手抄唱歌帖"
 
     parts = folder_name.split("_")
     if volume.startswith("koto_"):

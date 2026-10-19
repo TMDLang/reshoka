@@ -15,8 +15,10 @@ from __future__ import annotations
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import html
+import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -28,10 +30,15 @@ KEY_RE = re.compile(r"^\s*\?=\s*(\S+)\s*$")
 TEMPO_RE = re.compile(r"^\s*!=\s*(\S+)\s*$")
 METER_RE = re.compile(r"^\s*<(\d+/\d+)>\s*$")
 BLOCK_COMMENT_RE = re.compile(r"/\*(.*?)\*/", re.DOTALL)
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DOCS_ROOT = REPO_ROOT / "docs"
+DUPLICATE_INDEX_JSON = DOCS_ROOT / "duplicate_songs.json"
+DUPLICATE_INDEX_MD = DOCS_ROOT / "duplicate_songs.md"
 
 COLLECTION_TITLES: dict[str, str] = {
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
+    "shokacho": "《楊金土手抄唱歌帖》",
 }
 
 VOLUME_TITLES: dict[str, str] = {
@@ -44,6 +51,13 @@ VOLUME_TITLES: dict[str, str] = {
     "grade_6_2020.006.0847.0006": "尋常科 第六學年用（2020.006.0847.0006）",
     "koto_boys_2020.006.0848": "高等科 男子一二年用（2020.006.0848）",
     "koto_girls_2020.006.0849": "高等科 女子一二年用（2020.006.0849）",
+    "vol_01": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
+    "vol_02": "原編第 2 冊・II（2020.006.0843，P065–P112）",
+    "vol_03": "原編第 3 冊・I（2020.006.0843，P031–P064）",
+    "vol_07": "原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）",
+    "vol_08": "原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）",
+    "vol_09": "原編第 9 冊・IX — 支那曲（2020.006.0844，P001–P014）",
+    "vol_10": "原編第 10 冊・X（2020.006.0843，P188–P223）",
 }
 
 VOLUME_NAV_TITLES: dict[str, str] = {
@@ -56,6 +70,23 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "grade_6_2020.006.0847.0006": "尋常科 第六學年",
     "koto_boys_2020.006.0848": "高等科 男子一二年",
     "koto_girls_2020.006.0849": "高等科 女子一二年",
+    "vol_01": "第 1 冊（選定唱歌筆記帳）",
+    "vol_02": "第 2 冊（II）",
+    "vol_03": "第 3 冊（I）",
+    "vol_07": "第 7 冊（VII・蓬萊唱歌集上）",
+    "vol_08": "第 8 冊（VIII・蓬萊唱歌集下）",
+    "vol_09": "第 9 冊（IX・支那曲）",
+    "vol_10": "第 10 冊（X）",
+}
+
+SHOKACHO_VOL_NOTES: dict[str, str] = {
+    "vol_01": "封面頂端標註 **`1`**（`/`），扉頁（`P115.jpg`）附楊金土親筆第 1～6 冊總目錄；臺北市北門町「臺灣子供世界社」吉川精馬發行《選定 唱歌筆記帳／唱歌筆記帖》。前半為五線譜＋簡譜雙行對照儀式歌，中段貼《子供の國》童謠剪報，後半手抄自一條慎三郎《小公學校唱歌教材集》（1915）與《音楽新潮》，卷末附昭和 3 年（1928）大禮奉祝唱歌伴奏譜。",
+    "vol_02": "封面頂端標註 **`2`**、左上五線譜內標註 **`II`** 及鉛筆署名 **「楊金土」**（大正 12–14 年／1923–1925 年抄錄）。收錄《大正幼年唱歌》、《愛吟抄》、**臺灣傳統北管／藝旦小曲五線譜採譜〈嘆烟花〉（`P081.jpg`）**，以及多首五線譜二部合唱／輪唱貼頁。",
+    "vol_03": "封面頂端標註 **`3`**、左上五線譜內標註 **`I`** 及鉛筆署名 **「楊金土」**、左框標註 **`Y`**（大正 12 年至昭和 3 年抄錄）。收錄《共益商社唱歌教科書教師用卷二》與多份臺灣皇室行啟／祝典樂譜夾頁（1923 年〈皇太子殿下奉迎の歌〉、1925 年一條慎三郎作曲〈銀婚式奉祝行進歌〉、〈秩父宮殿下奉迎行進歌〉等）。",
+    "vol_07": "封面左上五線譜內標註 **`VII`** 及鉛筆署名 **「楊金土」**（昭和 2 年／1927 年 3 月 25 日前後抄錄）。全冊系統性抄錄 1920 年代臺灣本土童謠教材 **《蓬萊唱歌集》前半部（第 14～76 頁）**，含大稻埕蓬萊公學校訓導暨第一代西畫家**陳英聲**作曲〈牛よ牛よ〉（`P246.jpg`）、臺灣本土音樂家**郭水返**作曲〈水グルマ〉（`P231.jpg`）、**黑澤隆朝**作曲〈しゃぼん玉〉（`P252.jpg`）等。",
+    "vol_08": "封面左上五線譜內標註 **`VIII`** 及鉛筆署名 **「楊金土」**（昭和 2 年／1927 年 2–11 月抄錄）。接續第 7 冊繼續抄錄 **《蓬萊唱歌集》後半部（第 77～115 頁及卷末曲目）**，並穿插一條慎三郎《一條歌集》與兒童雜誌《りす》歌曲。",
+    "vol_09": "被臺史博單獨編為館藏號 **`2020.006.0844`**；封面左上五線譜內標註 **`IX`** 及鉛筆署名 **「楊金土」**、右側題 **「支那曲」**（昭和 2 年／1927 年 7 月 11–13 日抄錄）。全冊以五線譜採錄 4 首傳統戲曲／器樂曲牌（皆標註「合調」）：〈1. 思春〉、〈2. 柬甫寨人の戲曲〉、〈3. 小紅桃〉、〈4. 安南行進曲〉。",
+    "vol_10": "封面左上五線譜內標註 **`X`** 及鉛筆署名 **「楊金土」**、鈐紅印 **「楊」**（大正 15 年 2 月至昭和 2 年 7 月抄錄）。前半抄自《澄宮殿下御作 童謡集》（本居長世、永井幸次作曲），中後段自 1915 年《小公學校唱歌教材集》第 423 頁倒序往前抄至第 195 頁（含〈新高山〉、〈南洋の歌〉、〈鄭成功〉等）。",
 }
 
 
@@ -63,11 +94,23 @@ def natural_sort_key(text: str) -> list[int | str]:
     return [int(tok) if tok.isdigit() else tok.lower() for tok in re.split(r"(\d+)", text)]
 
 
+def resolve_binary(name: str) -> str:
+    found = shutil.which(name)
+    if found:
+        return found
+    for fallback_dir in ("/usr/local/bin", "/opt/homebrew/bin"):
+        candidate = Path(fallback_dir) / name
+        if candidate.is_file() and os.access(candidate, os.X_OK):
+            return str(candidate)
+    return name
+
+
 def run(command: list[str], *, cwd: Path | None = None) -> str:
     """Run a command and return stdout, preserving useful diagnostics on error."""
+    cmd = [resolve_binary(command[0]), *command[1:]] if command else command
     try:
         result = subprocess.run(
-            command,
+            cmd,
             cwd=cwd,
             check=True,
             text=True,
@@ -78,7 +121,7 @@ def run(command: list[str], *, cwd: Path | None = None) -> str:
     except subprocess.CalledProcessError as exc:
         detail = (exc.stdout or "") + (exc.stderr or "")
         raise RuntimeError(
-            f"指令失敗（{exc.returncode}）：{' '.join(command)}\n{detail.strip()}"
+            f"指令失敗（{exc.returncode}）：{' '.join(cmd)}\n{detail.strip()}"
         ) from exc
     return result.stdout
 
@@ -300,6 +343,55 @@ def render_studio_url(tmd_file: Path, folder: Path) -> str:
     return run(["tmd", "studio-url", str(tmd_file)], cwd=folder).strip()
 
 
+def render_cross_references(folder: Path) -> str:
+    """Return a Markdown section linking to duplicate/same-title songs across textbooks."""
+    if not DUPLICATE_INDEX_JSON.is_file():
+        return ""
+    try:
+        rel_dir = folder.resolve().relative_to(DOCS_ROOT.resolve()).as_posix()
+    except ValueError:
+        return ""
+
+    data = json.loads(DUPLICATE_INDEX_JSON.read_text(encoding="utf-8"))
+    matched_entry = None
+    matched_cluster = None
+    for cluster in data.get("clusters", []):
+        for entry in cluster.get("entries", []):
+            if entry.get("rel_dir") == rel_dir:
+                matched_entry = entry
+                matched_cluster = cluster
+                break
+        if matched_entry:
+            break
+
+    if not matched_entry or not matched_entry.get("peers"):
+        return ""
+
+    lines = [
+        "## 跨冊／重複收錄參照",
+        "",
+        f"> {matched_cluster.get('description', '')}",
+        "",
+    ]
+    for peer in matched_entry["peers"]:
+        peer_md_abs = DOCS_ROOT / peer["md_file"]
+        peer_tmd_abs = DOCS_ROOT / peer["tmd_file"]
+        rel_md = Path(os.path.relpath(peer_md_abs, folder)).as_posix()
+        rel_tmd = Path(os.path.relpath(peer_tmd_abs, folder)).as_posix()
+        relation = peer.get("relation", "參照")
+        book_label = peer.get("book_label", "")
+        raw_title = peer.get("raw_title", peer.get("jp_title", ""))
+        key_meter = f"`{peer.get('key', '?')}` / `{peer.get('meter', '?')}`"
+        lines.append(
+            f"- **[{relation}]** {book_label}：[**〈{raw_title}〉**]({rel_md})"
+            f"（{key_meter} — [原始 TMD]({rel_tmd})）"
+        )
+
+    rel_index_md = Path(os.path.relpath(DUPLICATE_INDEX_MD, folder)).as_posix()
+    lines.append(f"- 總表：[跨冊重複與同名歌曲總索引]({rel_index_md})")
+    return "\n".join(lines) + "\n\n"
+
+
 def generate_song_folder(
     folder: Path,
     *,
@@ -385,6 +477,7 @@ def generate_song_folder(
             f"- [鋼琴伴奏 TMD 檔案]({piano_tmd.name}) [[在 TMD Studio 編輯]({piano_studio_url})]"
         )
     tmd_links_block = "\n".join(tmd_links)
+    cross_ref_section = render_cross_references(folder)
 
     markdown = f"""# {title}
 
@@ -396,7 +489,7 @@ def generate_song_folder(
 
 {notes_block}
 
-## 歌詞
+{cross_ref_section}## 歌詞
 
 ```text
 {lyrics_block}
@@ -454,6 +547,15 @@ def classify_song_section(col_name: str, vol_name: str, folder_name: str) -> tup
     parts = folder_name.split("_")
     if col_name == "kogakko_shoka":
         num = f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
+        return None, None, num
+
+    if col_name == "shokacho":
+        if folder_name.startswith("0844_p"):
+            num = parts[1].upper()
+        elif parts[0].lower().startswith("p"):
+            num = parts[0].upper()
+        else:
+            num = parts[0]
         return None, None, num
 
     if vol_name.startswith("koto_"):
@@ -531,6 +633,15 @@ def generate_volume_index(vol_dir: Path) -> Path:
         "",
     ]
 
+    if col_name == "shokacho" and vol_name in SHOKACHO_VOL_NOTES:
+        lines.extend(
+            [
+                f"> {SHOKACHO_VOL_NOTES[vol_name]}",
+                "",
+                "- 📄 **[《楊金土手抄唱歌帖》考證與研究筆記（含全 10 冊結構與 `P115.jpg` 第 1–6 冊親筆總目錄）](../research_notes.md)**",
+            ]
+        )
+
     book_info_dir = vol_dir / "0_book_info"
     if book_info_dir.is_dir():
         img_count = len(find_scanned_images(book_info_dir))
@@ -541,12 +652,13 @@ def generate_volume_index(vol_dir: Path) -> Path:
             ]
         )
 
-    if col_name == "kogakko_shoka":
+    if col_name in ("kogakko_shoka", "shokacho"):
+        first_col = "課次" if col_name == "kogakko_shoka" else "原書頁碼"
         lines.extend(
             [
                 f"## 曲目列表（共 {len(song_dirs)} 首）",
                 "",
-                "| 課次 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |",
+                f"| {first_col} | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |",
                 "| :--- | :--- | :--- | :--- | :--- |",
             ]
         )
@@ -710,11 +822,13 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "",
         "nav:",
         "  - 首頁: index.md",
+        "  - 跨冊重複與同名歌曲索引: duplicate_songs.md",
     ]
 
     collections = [
         ("kogakko_shoka", "公學校唱歌"),
         ("shintei_jido_shoka", "新定兒童唱歌"),
+        ("shokacho", "楊金土手抄唱歌帖"),
     ]
 
     for col_slug, col_short in collections:
@@ -725,6 +839,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         home_lines.append(f"## {col_title}")
         home_lines.append("")
         nav_lines.append(f"  - {col_short}:")
+        if col_slug == "shokacho" and (col_dir / "research_notes.md").exists():
+            nav_lines.append("      - 考證與研究筆記: shokacho/research_notes.md")
 
         vol_dirs = sorted(
             (d for d in col_dir.iterdir() if d.is_dir()),
@@ -757,13 +873,16 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             for sdir in song_dirs:
                 main_tmd = choose_main_tmd(sdir)
                 title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
-                prefix = sdir.name.split("_")[0]
                 parts = sdir.name.split("_")
-                if len(parts) >= 3 and parts[0].isdigit() and parts[1].isdigit():
+                if col_slug == "shokacho":
+                    prefix = parts[1].upper() if sdir.name.startswith("0844_p") else parts[0].upper()
+                elif len(parts) >= 3 and parts[0].isdigit() and parts[1].isdigit():
                     if len(parts) >= 4 and parts[2].isdigit():
                         prefix = f"{parts[0]}-{parts[1]}-{parts[2]}"
                     else:
                         prefix = f"{parts[0]}-{parts[1]}"
+                else:
+                    prefix = parts[0]
                 label = f"{prefix} {title}".replace(":", "：").replace('"', '\\"')
                 nav_lines.append(
                     f'          - "{label}": {col_slug}/{vol_dir.name}/{sdir.name}/index.md'

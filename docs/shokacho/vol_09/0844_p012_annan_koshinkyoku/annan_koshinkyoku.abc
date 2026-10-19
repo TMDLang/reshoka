@@ -1,0 +1,33 @@
+X:1
+T:安南行進曲
+C:曲：伝統曲 (合調・昭2.7.12.抄)
+M:2/4
+L:1/16
+Q:1/4=108
+K:C
+V:V1 name="Melody" snm="Mel"
+[V:V1]
+!mf! G2 c2 A2 c2 | A c A G z2 G2 | G4 G4 | G2 D2 D4 |
+G2 E2 G2 E2 | G E D C D4 | A2 G2 G4 | E2 D2 G2 A2 |
+c2 G2 E2 G2 | A G E D G4 | A2 G2 G4 | G2 E2 E4 |
+G2 E2 G2 E2 | G E D C D4 | A2 G2 G4 | E2 G2 A2 c2 |
+A2 G2 G4 | A G E D G4 | E G A2 c4 | A E G2 A4 |
+G A c2 d4 | A2 G2 G4 | G2 D2 D4 | E2 D2 C4 |
+G E D C D4 | A2 G2 G4 | E2 G2 A2 A2 | G2 E2 G2 E2 |
+A G E D G4 | A A c2 A2 A A | c2 A2 c4 | A2 d2 c A G E |
+A2 G2 A4 | A A c2 A4 | G A G2 E4 | E G A2 c4 |
+A2 z2 A A c2 | A2 A A c2 A2 | A2 d2 c A G E | A2 G2 A4 |
+A A c2 A4 | G A G2 E4 | D E G2 A4 | A2 z6 |
+d2 A2 c4 | c2 G2 G4 | A2 G2 G2 E2 | G A c A G4 |
+c A G E c A G E | c A G E A4 | c A G E G A c d | c A G E D4 |
+G A c2 A4 | E G A2 G4 | G2 c2 c A G E | G4 E4 |
+G2 d2 c2 A2 | G A E2 G4 | c2 d c A G E2 | G4 A4 |
+c2 A2 c2 d2 | A2 c2 d2 e2 | e4 d4 | c4 A4 |
+E A A2 G2 E2 | G A E2 D4 | C E D2 C D A,2 | z4 G2 D2 |
+D4 E G A2 | G2 D2 D2 E2 | G2 A2 A4 | G2 c2 A G E D |
+E4 D4 | E2 A2 G E D C | A4 G4 | A2 d c A G E2 |
+G4 E4 | E G A c d4 | A2 c2 d4 | A2 c2 A4 |
+c2 A2 c2 A2 | E G A2 c4 | A2 E2 G4 | A2 d c A G E2 |
+G4 E4 | E G A2 c4 | A E D2 E2 G2 | A2 d2 c A G E |
+E4 A4 | A4 A4 | c4 A4 | G4 G4 |
+A2 G2 E4 | G2 D2 C2 C2 | C8 |

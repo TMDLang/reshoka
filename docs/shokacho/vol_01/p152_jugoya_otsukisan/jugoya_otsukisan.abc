@@ -1,0 +1,15 @@
+X:1
+T:十五夜お月さん
+C:曲：本居長世
+M:4/4
+L:1/16
+Q:1/4=88
+K:Am
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+A4 B4 c4 e4 | B4 A2 A2 F8 | A4 B4 c4 A4 | B12 z4 |
+c4 e4 c4 c4 | B4 A4 F4 E4 | D4 E4 F4 D4 | E12 z4 |
+A4 B4 c4 e4 | B4 A2 A2 F8 | A4 B4 c4 A4 | B12 z4 |
+c4 e4 c4 c4 | B4 A4 F4 E4 | D4 E4 F4 D4 | E12 z4 |
+A4 B4 c4 e4 | B4 A2 A2 F8 | A4 B4 c4 A4 | B12 z4 |
+c4 e4 c4 c4 | B4 A4 F4 E4 | A4 B4 c4 B4 | A12 z4 |

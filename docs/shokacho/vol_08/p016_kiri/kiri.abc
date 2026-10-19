@@ -1,0 +1,20 @@
+X:1
+T:霧
+M:3/8
+L:1/16
+Q:1/8=288
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! c2 c2 c2 | e3 d B2 | B2 B2 B2 | d3 c A2 |
+!f! c2 B2 A2 | B2 A G G2 | !p! B2 A2 F2 | G2 F E E2 |
+!f! c2 c2 c2 | e3 d B2 | B2 B2 B2 | d3 c A2 |
+c2 B2 A2 | A G G4 | !p! B2 A2 F2 | F E E4 |
+!mf! B c B2 B2 | e4 c2 | c d c2 c2 | f4 c2 |
+e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |
+!mf! c2 c2 c2 | e3 d B2 | B2 B2 B2 | d3 c A2 |
+!f! c2 B2 A2 | B2 A G G2 | !p! B2 A2 F2 | G2 F E E2 |
+!f! c2 c2 c2 | e3 d B2 | B2 B2 B2 | d3 c A2 |
+c2 B2 A2 | A G G4 | !p! B2 A2 F2 | F E E4 |
+!mf! B c B2 B2 | e4 c2 | c d c2 c2 | f4 c2 |
+e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |

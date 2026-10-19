@@ -1,0 +1,120 @@
+# 夕立
+
+<audio controls src="yudachi.mp3"></audio>
+
+- （ニ調四分ノ二拍子）
+- 唱歌筆記帖（2020.006.0843）P128.jpg（手寫第 9 首）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P128.jpg，手寫五線譜）：
+調性與拍號：ニ調四分ノ二拍子（D 大調 2/4 拍），速度 ♩=120
+
+## 跨冊／重複收錄參照
+
+> 同曲（文部省唱歌〈夕立〉；收錄於《新定兒童唱歌》四年級與《唱歌帖》P128）
+
+- **[同曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈夕立〉**](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi/index.md)（`D` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi/yudachi.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
+## 歌詞
+
+```text
+1. アチラノ　ヤマニ　クロクモ　オコリ
+ヒラメク　イナヅマ　ピカ　ピカ　ピカ
+ナリダス　カミナリ　ゴロ　ゴロ　ゴロ
+ミルマニ　ソラハ　クラクナル
+
+2. カケイク　ヒトノ　アトオッ　カケテ
+フキクル　カザオト　サッ　サッ　サッ
+フリダス　ユフダチ　パラ　パラ　パラ
+ミルマニ　ニハハ　イケトナル
+
+3. カミナリ　ヤンデ　アメカゼ　ハレテ
+オチクル　シラツユ　ハラ　ハラ　ハラ
+ナキダス　ユフゼミ　ジイ　ジイ　ジイ
+ミルマニ　ニジハ　キエテユク
+```
+
+## ABC
+
+```abc
+X:1
+T:夕立
+M:2/4
+L:1/16
+Q:1/4=120
+K:D
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+F2 F2 A2 A2 | F2 F2 A4 | A2 A2 G2 G2 | F2 E2 D4 |
+D2 D2 E2 F2 | F2 F2 A2 A2 | B B z2 B B z2 | c2 d4 z2 |
+d2 d2 B2 B2 | A2 A2 F2 F2 | E E z2 A A z2 | F2 E4 z2 |
+F2 F2 A2 A2 | E2 E2 G4 | D2 D2 F2 E2 | D6 z2 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yudachi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOrz1d0KWlpcirYKhkYGXPa2Ci5cNkb6JnZcdQpK7_d0PG7ufrFq_9PZs592tD1u7nuyq-dZd-_TtRPe7-lUAil5OmXjs7U9z9e2vVgx4-mOaUAdRgZGBnoGBmZ6BhYmxkBlAYZGFnpZBelAqWed3U_Xr36-Zo2CpcLLZUDFQDO49LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHuu7FynlPW1c8m9YOdMLTDb3P2jsVEI7qgTjqya4pz7fPerF2DtBR7_fMAhkE9PezhuUgI7p7X8ycDxTFHRgdLsCwXA6UVACGnQJQFGxMz8uG-U93LVN4NHOlLSh0QaYa6ik8blr0uLnxcfNKoBmPGxoeNy953DwPaDaI3bT-cfNaMLkIzF31uGnz4-ZVIJ1A8Lh5EljbQpAKkDRQZ9fj5laQfpBBUx43rcZkwDUDla563AzUthOsefXj5vlQQRB3C8hmDAZcM1ApUAPcnXvBDumHuXklmASatRrsSyOQL1c_btoIciLErSCnA5MT2MegAOgAea65GeoSoMrmNrhdUx83QQIB7AmQ9Daw6g4wdytMGwoDSTOyL5uXgUWAjEYwdyLIrRgMHL4EkkAvQn0J9AjQkUAvwH1pDPElciiC4hIYYe0wXwJjCuj6PWApoElrkHwJ8lAjki-3g0O0BeRiqGqI-1AYSHEJDCI0XwLtAboFZNYOkHMxGLh9CZSG-hIY7iuAjgSZ2LQepIHyXAkFClr6XFyRpSmJyRmZVmH5yYk5DjUGNQrVYFfZGJpp2YFZ2MoDBWCZ8WRHw4uFPQoaJgpPN_Q_X9-gA8_Emlg0AO0CGVajYKygC8amUIwqAoI1cDkTKIaoMQJiQ5gacHzjdtuuHnLcBjIdhEE2gWzE5lozIDQAsmB0jYI5SFcc1GFgIQKO29FJluNAVoAJMyhGBBTMmTVApxuB3WAKhBDnwYKOSNcBS1PqRCvIThAGRSAkWmHBC3MRRAQGIW6r5eLStVOApkoFIFOZCwA)]
+- [鋼琴伴奏 TMD 檔案](yudachi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOrz1d3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDIwMue1sFFy4bI30TO646BSWg6sfN3S9W7X86e_bTjrbHzX1PdvU86-59unYCUJsSSMnTKRufre15vrbtxYoZT3dMA-owMjAy0DMwMNMzsDAxBioLMDSy0MsqSAdKPevsfrp-9fM1axQsFV4uAyoGmsEVWZqSmJyRaRWWn5yY41BjUKNQzaUABDaGZlp2YFaNgrGCLhibQjGqCAjWwOVMoBiixgiIDWFqoKaB-CAMkgOpwWa-GRAaAFkwukbBHKQrDmoUWAhmHEgQTJhBMcIxMINrgJYZgXWZAiHEQJjz0M3DdAxIFQiDvAXxLMwLMDMgIjAIMa0WEbYBmYl5-UEeOELXUBtkDIQ01gY7G0xik4FYj6zKSBvkLAgJ02Eer40v4GHSYLX47DfRNgNjkIeQ2cAA1gbFh7E21hgxgQjDKVCcQEhUpyNbDIxgkKvABMgsI6AKEIZYh-ItjASA0_1QDQgKMwZRTCYmGn1QotECEYvxCqbxUBKdZxoPZkApqCxY2gDhC7gSIAvdABOQSjABMQwojqIZKAXkQ0hslhtASbjVUC5Wt2NxLZIudNcDw0fXTgEaRApApjIXAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 夕立 ]
+================================================================================
+⏱  Duration:       0:16 (16.0s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 120.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Yudachi #1 @ m.4, 0:03]
+   - 最高音: D5 in [Yudachi #1 @ m.8, 0:07]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Yudachi (16.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  F#, D, A, E, G
+   - 調性數值:    D 大調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.90), F# 小調 (0.73), A 大調 (0.69)
+   - 五度圈歷程:   +2
+   - 各段落調性細節:
+     • [Yudachi #1]: D 大調 (r: 0.90, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : ██                         1.8%
+     D  : ██████████████████████    22.8%
+     D# :                            0.0%
+     E  : ██████████████            14.0%
+     F  :                            0.0%
+     F# : ████████████████████████  24.6%
+     G  : ███████                    7.0%
+     G# :                            0.0%
+     A  : ██████████████████████    22.8%
+     A# :                            0.0%
+     B  : ███████                    7.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 54 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![P128.jpg](P128.jpg)
+
+

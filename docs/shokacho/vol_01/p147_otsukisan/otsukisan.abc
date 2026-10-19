@@ -1,0 +1,12 @@
+X:1
+T:お月さん
+M:4/4
+L:1/16
+Q:1/4=96
+K:Fm
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+C4 C4 D4 C4 | F,2 G,2 F,2 G,2 C8 | A4 c4 A4 G2 F2 | G12 z4 |
+A4 c4 A4 G4 | F4 A4 G2 F2 G2 c2 | d6 d2 c6 e2 | F12 z4 |
+C4 C4 D4 C4 | F,2 G,2 F,2 G,2 C4 C4 | A4 c4 A4 G2 F2 | G12 z4 |
+B4 B4 d2 B2 c4 | A4 c4 A2 G2 F4 | C4 F4 A4 G4 | F12 z4 |

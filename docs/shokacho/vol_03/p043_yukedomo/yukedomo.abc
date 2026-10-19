@@ -1,0 +1,18 @@
+X:1
+T:行けども
+C:曲：蘇格蘭民謠（Comin' Thro' the Rye / 故郷の空）
+M:4/4
+L:1/16
+Q:1/4=96
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 C2 E2 | G6 A2 G4 c4 | c6 A2 G4 C2 E2 | G6 G2 A2 G2 E2 C2 |
+D12 C2 E2 | G6 A2 G4 c4 | c6 A2 G4 c2 d2 | e6 c2 d4 e4 |
+c12 c2 d2 | e6 c2 d4 e4 | c6 A2 c4 A4 | G6 G2 A2 G2 E2 C2 |
+D12 C2 E2 | G6 A2 G4 c4 | c6 A2 G4 c2 d2 | e6 c2 d4 e4 |
+c12 z4 | !mf! z4 z4 z4 C2 E2 | G6 A2 G4 c4 | c6 A2 G4 C2 E2 |
+G6 G2 A2 G2 E2 C2 | D12 C2 E2 | G6 A2 G4 c4 | c6 A2 G4 c2 d2 |
+e6 c2 d4 e4 | c12 c2 d2 | e6 c2 d4 e4 | c6 A2 c4 A4 |
+G6 G2 A2 G2 E2 C2 | D12 C2 E2 | G6 A2 G4 c4 | c6 A2 G4 c2 d2 |
+e6 c2 d4 e4 | c12 z4 |

@@ -9,6 +9,14 @@
 原書資訊與歌詞全文（對應 P012.jpg，儀式歌 p. 8，第 7 首）：
 調性與拍號：ハ長調 4/4 拍子
 
+## 跨冊／重複收錄參照
+
+> 同曲（6月17日臺灣始政紀念日唱歌；收錄於《新定兒童唱歌》卷首及《唱歌帖》P047 五線譜版、P125 五線譜與簡譜對照版）
+
+- **[同曲]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈始政紀念日〉**](../../../shokacho/vol_03/p047_shisei_kinembi/index.md)（`C` / `4/4` — [原始 TMD](../../../shokacho/vol_03/p047_shisei_kinembi/shisei_kinembi.tmd)）
+- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈始政紀念日〉**](../../../shokacho/vol_01/p125_shisei_kinenbi/index.md)（`C` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p125_shisei_kinenbi/shisei_kinenbi.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

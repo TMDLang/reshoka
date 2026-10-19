@@ -1,0 +1,27 @@
+X:1
+T:皇太子殿下奉迎の歌
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!f! d3 B G2 E2 | D2 G2 B2 d2 | e2 c2 A3 d | B6 z2 |
+A2 A2 B2 ^c2 | d2 B2 A2 F2 | E2 A2 G3 F | A6 z2 |
+A2 F2 D2 A2 | B2 d2 G2 B2 | A3 G F2 E2 | D6 z2 |
+G3 A B2 G2 | A2 B2 c2 A2 | B3 c d2 B2 | e6 z2 |
+d3 e d2 B2 | c2 B2 A3 G | F3 G B2 A2 | G6 z2 |
+!f! B3 c A3 B | G3 A F3 G | E3 F G3 A | B4 A2 z2 |
+!f! d3 B G2 E2 | D2 G2 B2 d2 | e2 c2 A3 d | B6 z2 |
+A2 A2 B2 ^c2 | d2 B2 A2 F2 | E2 A2 G3 F | A6 z2 |
+A2 F2 D2 A2 | B2 d2 G2 B2 | A3 G F2 E2 | D6 z2 |
+G3 A B2 G2 | A2 B2 c2 A2 | B3 c d2 B2 | e6 z2 |
+d3 e d2 B2 | c2 B2 A3 G | F3 G B2 A2 | G6 z2 |
+!f! B3 c A3 B | G3 A F3 G | E3 F G3 A | B4 A2 z2 |
+!f! d3 B G2 E2 | D2 G2 B2 d2 | e2 c2 A3 d | B6 z2 |
+A2 A2 B2 ^c2 | d2 B2 A2 F2 | E2 A2 G3 F | A6 z2 |
+A2 F2 D2 A2 | B2 d2 G2 B2 | A3 G F2 E2 | D6 z2 |
+G3 A B2 G2 | A2 B2 c2 A2 | B3 c d2 B2 | e6 z2 |
+d3 e d2 B2 | c2 B2 A3 G | F3 G B2 A2 | G6 z2 |
+!f! d3 B G3 E | d3 B G3 E | d8 | e8 |
+B8 | G4 z4 |

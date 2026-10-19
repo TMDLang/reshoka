@@ -1,0 +1,21 @@
+X:1
+T:舞踏
+M:3/4
+L:1/16
+Q:1/4=132
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+F4 C C C C F2 F2 | A2 F F F2 F2 A2 A2 | c2 A A A2 A2 c2 c2 | f2 A G F G A G C3 F |
+A8 G3 F | C8 A3 F | F4 E8 | E4 z4 G3 A |
+B8 A3 G | C8 B3 G | F12 | F4 z4 C3 F |
+A8 G3 F | C8 A3 F | F4 E8 | E4 z4 G3 A |
+B8 A3 G | C8 B3 G | F12 | F4 z4 c3 c |
+d8 ^c3 d | f8 e3 d | d4 c8 | c4 z4 c3 c |
+d8 ^c3 d | f8 e3 d | c12 | c4 z4 F3 A |
+c4 c4 c4 | c8 c3 c | d3 e f8 | f4 z4 e3 d |
+c8 A3 F | c8 B3 G | F12 | F4 z4 c3 c |
+d8 ^c3 d | f8 e3 d | d4 c8 | c4 z4 c3 c |
+d8 ^c3 d | f8 e3 d | c12 | c4 z4 F3 A |
+c4 c4 c4 | c8 c3 c | d3 e f8 | f4 z4 e3 d |
+c8 f3 a | c8 d3 e | f12 | f8 z4 |
