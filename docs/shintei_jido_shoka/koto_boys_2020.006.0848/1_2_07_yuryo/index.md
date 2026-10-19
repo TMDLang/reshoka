@@ -33,7 +33,7 @@ X:1
 T:遊獵
 M:6/8
 L:1/16
-Q:3/8=80
+Q:3/8=40
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
@@ -50,8 +50,8 @@ B4 d2 A4 F2 | G6 G4 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yuryo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ2PW8d6uClhaXoq2CoZEBl72tgjuXjZm-hR1XnYLS0_ZdL2ZOfb9n1rNp7S-bVzyf0_h8-4rHDV1PN_Q_Xbvj6ZSNz9b2vJzd9rihWwmk_EX7rueNi59NnfmiadOzOc1PW9e8WNULVP5s2oan62Y9bZ30fPVSiCagjperZzxf2_l8-cTnU7Y_XTvh-ZQV7_d0GBkYGegZGJjpGViYWLzf06nExaWvpWBLLcCloKDwtG_-s9k7Xmxuf7Gi60VHO9AxL1bOe9q6AuhFoAOebuh91t6pEGBgaqKXVZD-fk8PUPHLBY0KBXoKhpZALtDZT3Y0PF-z5smuHmAYPJszH8hWMFd4uWwa0L3AoALZ8WLV_mcNy0Gmd_e-mDkfKPq4uePl1O1AcaAdhgpPe4G2zwDLdD5uaAQGtwJQJcj67vbHzfMeN21_3LRe4dHMlXq2FgZAS5_u2fhi63aQRWYghS8bNj1tXQrUywWyDOgcEPW4cerjxlWPG3seN3U-3bjxcVPT44aGx439jxuXPm7qfty44XFj9-OmrseNq8GqmyY9blz3uHEHkP-4ccXjpo7HTQ1ADc_nL3re1wmW2vS4ad7jxl6Q6udLgaxljxu3vpjZBzH4WSfQyJUQ8x43Tn_cuASIIM5oAbtkP1gCzIYYPLvrRe-kl7NbgL583LjvceNMoDuBrgCFAMg2oBOaIN7Z1QMOwonLnq2fDVbcBLYAqvLlsjUgk0FeAwoufTmv93Ej0BFAchnEeqDqpWAXrHs-Z97TPZNhjoV4E6gUqG0DkAFRDXQmJFTmP26aC3JU43qw2QgHggK1CRioLVANwPwCUz0bFLAg1UA20AsQjwN1ToeqpjzBQoGClj4Xl29iZp5VQGZiXr5DjUGNQjXIBgUbQzMtOzALmE8gyQSYOZ-vbwBpAQnXKBgo6GLg6rRaBdN4IKMGHOYgzaAkvaPhxcIeBQ0TBYgZOvB8oIkwzhCoCwRBtBGUZQ42SsEMRIGgCYgBNh-msgaq2xgqBqJNkNg1ULNQIRYn7uoh7ESYUSAaZiHIshoFUyQrYR4BWw_VCZMH0WZQFkQnzByYuTict6OTnBCE0AhLQDLwwARL4Qw-Y6hWmMthfkX4DMl5T2fPJuw83HbAHA72N9x92KIX5BqY16CJA6YZpgUEQUmxhquWi0vXTgGUvBWQaGUuLgA)]
-- [鋼琴伴奏 TMD 檔案](yuryo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ2PW8d-v7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQyIDL3lbBncvGTN_CjqtOQelp-64XM6e-3zPr2bT2l80rns9pfL59xeOGrqcb-p-u3fF0ysZna3tezm573NCtBFL-on3X88bFz6bOfNG06dmc5qeta16s6gUqfzZtw9N1s562Tnq-eilEE1DHy9Uznq_tfL584vMp25-unfB8ygqg24wMjAz0DAzM9AwsTCyALlPi4vJNzMyzCshMzMsP8nCoMahRqOZSAAIbQzMtOzBLX0vh6Z6NL7ZuB7rq-foGBS19sHCNgoGCLgauTqtVMI0HMmq4YJqfr1nzZEfDi4U9CJ2GQAUgCKKNoCxzsC4FMxAFgiYgBtgomMoaqG5jqBiINkFi10DNQoVYXLOrB8U1MF0gGmY2yNwaBVMk02FuBtsE1QmTB9FmUBZEJ8wcmLk4XLKjk0C4QGiEeSAZeBCBpXAGijFUK8yRMG8hPIHkkqezZ6O4BLdxMDeCfQN3Crb4AVkM8wU0dmGaYVpAEJRsarhqkVOiD0pKtCCcEBEQf7qDODfaND4WzAAlN3QhNKUmcKWmqErRrUJLVGiqwZ6HihhSaBN6osHtKbP4XFS7jKESRnAJApahpwtMy2AiGHYRCgGQTcBY17VTAEW8AhKtzMUFAA)]
+- [主旋律 TMD 檔案](yuryo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ2PW8d6uClhaXoq2CmQGXva2CO5eNmb6FHVedgtLT9l0vZk59v2fWs2ntL5tXPJ_T-Hz7iscNXU839D9du-PplI3P1va8nN32uKFbCaT8Rfuu542Ln02d-aJp07M5zU9b17xY1QtU_mzahqfrZj1tnfR89VKIJqCOl6tnPF_b-Xz5xOdTtj9dO-H5lBXv93QYGRgZ6BkYmOkZWJhYvN_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DEvVs572roC6EWgA55u6H3W3qkQYGBqopdVkP5-Tw9Q8csFjQoFegqGlkAu0NlPdjQ8X7Pmya4eYBg8mzMfyFYwV3i5bBrQvcCgAtnxYtX-Zw3LQaZ3976YOR8o-ri54-XU7UBxoB2GCk97gbbPAMt0Pm5oBAa3AlAlyPru9sfN8x43bX_ctF7h0cyVerYWBkBLn-7Z-GLrdpBFZiCFLxs2PW1dCtTLBbIM6BwQ9bhx6uPGVY8bex43dT7duPFxU9PjhobHjf2PG5c-bup-3LjhcWP346aux42rwaqbJj1uXPe4cQeQ_7hxxeOmjsdNDUANz-cvet7XCZba9Lhp3uPGXpDq50uBrGWPG7e-mNkHMfhZJ9DIlRDzHjdOf9y4BIggzmgBu2Q_WALMhhg8u-tF76SXs1uAvnzcuO9x40ygO4GuAIUAyDagE5og3tnVAw7CicuerZ8NVtwEtgCq8uWyNSCTQV4DCi59Oa_3cSPQEUByGcR6oOqlYBesez5n3tM9k2GOhXgTqBSobQOQAVENdCYkVOY_bpoLclTjerDZCAeCArUJGKgtUA3A7AJTPRsUsCDVQDbQCxCPA3VOh6qmPMFCgYKWPheXb2JmnlVAZmJevkONQY1CNcgGBRtDMy07MAuYTyDJBJg5n69vAGkBCdcoGCjoYuDqtFoF03ggowYc5iDNoCS9o-HFwh4FDRMFiBk68HygiTDOEKgLBEG0EZRlDjZKwQxEgaAJiAE2H6ayBqrbGCoGok2Q2DVQs1AhFifu6iHsRJhRIBpmIciyGgVTJCthHgFbD9UJkwfRZlAWRCfMHJi5OJy3o5OcEITQCEtAMvDABEvhDD5jqFaYy2F-RfgMyXlPZ88m7DzcdsAcDvY33H3YohfkGpjXoIkDphmmBQRBSbGGq5aLS9dOAZS8FZBoZS4uAA)]
+- [鋼琴伴奏 TMD 檔案](yuryo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ2PW8d-v7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHMgMveVsGdy8ZM38KOq05B6Wn7rhczp77fM-vZtPaXzSuez2l8vn3F44aupxv6n67d8XTKxmdre17Obnvc0K0EUv6ifdfzxsXPps580bTp2Zzmp61rXqzqBSp_Nm3D03WznrZOer56KUQTUMfL1TOer-18vnzi8ynbn66d8HzKCqDTjAyMDPQMDMz0DCxMLIAOU-Li8k3MzLMKyEzMyw_ycKgxqFGo5lIAAhtDMy07MEtfS-Hpno0vtm4Huur5-gYFLX2wcI2CgYIuBq5Oq1UwjQcyarhgmp-vWfNkR8OLhT0InYZABSAIoo2gLHOwLgUzEAWCJiAG2CiYyhqobmOoGIg2QWLXQM1ChVhcs6sHxTUwXSAaZjbI3BoFUyTTYW4G2wTVCZMH0WZQFkQnzByYuThcsqOTQLhAaIR5IBl4EIGlcAaKMVQrzJEwbyE8geSSp7Nno7gEt3EwN4J9A3cKtvgBWQzzBTR2YZphWkAQlGxquGqRU6IPSkq0IJwQERB_uoM4N9o0PhbMACU3dCE0pSZwpaaoStGtQktUaKrBnoeKGFJoE3qiwe0ps_hcVLuMoRJGcAkClqGnC0zLYCIYdhEKAZBNwFjXtVMARbwCEq3MxQUA)]
 
 ## 分析
 
@@ -59,14 +59,14 @@ B4 d2 A4 F2 | G6 G4 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 遊獵 ]
 ================================================================================
-⏱  Duration:       0:51 (51.0s), 34 measures total
-🎼 Key & Tempo:    首調基準 G, != 120.0 BPM, <6/8>
+⏱  Duration:       1:42 (102.0s), 34 measures total
+🎼 Key & Tempo:    首調基準 G, != 60.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main #1 @ m.3, 0:03]
-   - 最高音: E5 in [Main #1 @ m.8, 0:11]
+   - 最低音:  C4 in [Main #1 @ m.3, 0:07]
+   - 最高音: E5 in [Main #1 @ m.8, 0:22]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (25.5s) -> Main (25.5s)
+🏛  結構:      Main (51.0s) -> Main (51.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）

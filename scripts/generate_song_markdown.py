@@ -661,6 +661,10 @@ def generate_volume_index(vol_dir: Path) -> Path:
                 "- 📄 **[《楊金土手抄唱歌帖》考證與研究筆記（含全 10 冊結構與 `P115.jpg` 第 1–6 冊親筆總目錄）](../research_notes.md)**",
             ]
         )
+        if vol_name in ("vol_07", "vol_08") and (vol_dir.parent / "horai_shokashu.md").exists():
+            lines.append(
+                "- 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](../horai_shokashu.md)**"
+            )
 
     book_info_dir = vol_dir / "0_book_info"
     if book_info_dir.is_dir():
@@ -861,6 +865,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         nav_lines.append(f"  - {col_short}:")
         if col_slug == "shokacho" and (col_dir / "research_notes.md").exists():
             nav_lines.append("      - 考證與研究筆記: shokacho/research_notes.md")
+        if col_slug == "shokacho" and (col_dir / "horai_shokashu.md").exists():
+            nav_lines.append("      - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md")
 
         vol_dirs = sorted(
             (d for d in col_dir.iterdir() if d.is_dir()),

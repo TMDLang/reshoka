@@ -7,7 +7,7 @@
 ## 說明
 
 ・出處：公學校唱歌帳 (P211, 301頁, 昭和2年1月29日)
-・調性與拍號：調號 ?= B,，拍號 <6/8>，速度 != 144
+・調性與拍號：調號 ?= B,，拍號 <6/8>，速度 != 72
 
 ## 跨冊／重複收錄參照
 
@@ -39,7 +39,7 @@ X:1
 T:助け船 救生船
 M:6/8
 L:1/16
-Q:3/8=96
+Q:3/8=48
 K:Bb
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
@@ -52,8 +52,8 @@ B6 B4 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tasukebune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjatfJx48QXHTsVNJ5Nnfh8ynwgU1NBS4tL0VbB0MSEy95WwUmHy8ZM38KOq05B6WnrmqdrdzxbsPDplI3P1vY83bFZQSPAyNBQR8HYwPDlgkYdhWcz1j6d1GP0dOcWw2dzOowsn01fqqnExaWvxaWgoADU8mLlvPd7ZoE4T3Y0PG5oBLEeN_c_btr0uGn746a1Co-bFj1uXvi4ec_jptWPm_YAJdseN29-3NwIlFkPEm5eCZYEsSGalzxunve4uetx006IZrA8kN88H8jf_7hp4-PmVXDNq8HkVLjm-Y-bV0BIoBKghUA3AC3rBhoEcdZ2oBagDFAMqG3a4-ZemE6QzOLHTcvAjD4gfytIP0jVpMfNHUD-TrCVk4DGAN0EFO543LwAqvnJrh6Y1xtnPm7sf9wI9P2kx01NQD7QNUDfNTxu6gZyJj9umvi4cT1YGUi453EjyHcQnZMfN6573Nj9uHEOmAOUB_FXPW7cD-TPBykGGdgEDD6gDFDZLLhOYKB0QEiIMX2PG5dALIS6BqgN6Augtm2PG9dC9ADdATR6EtAOoGQTyCqQPNCBnUDJfSChph4gqxssDLYAaJuWPheXb2JmnlVYfnJijkONQY1CNcg4BRsLLTswo0bBAA5N44FcYwVdIAaRhkCeEZg2iwfJgaUNwQKGQAljqLQumARJQg0kygTzeLAhEC5IAKwaagJIjxGURDYPZKUJmA0xlcoOMACaUMvFpWunAAozBSCtzAUA)]
-- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjatfJx48QXHTsVNJ5Nnfh8ynwgU1NBV-Fl957nE7Y82bPl6dL-550dClpaXIq2CoYmJlz2tgpOOlw2ZvoWdlx1CkpPW9c8Xbvj2YKFT6dsfLa25-mOzQoaAUaGhjoKxgaGLxc06ig8m7H26aQeo6c7txg-m9NhZPls-lJNJS4u38TMPKuw_OTEHIcagxqFai4FILCx0LIDM2oUDODQNB7INQY6yhhMGgJ5RmDaLB4kB5Y2BAsYAiWModK6YBIkCTWQKBPM48GGQLggAbBqqAkgPUZQEtk8kJUmYDbEVCo7wABoQi00wAIyE_PygzwIBZkxcphAHAGySlfBJB6EgNJgFUBxsCQEgVwFFgGLAd2KcDqpRkGiDGIWmEIKBiSVUOMQpoOcAA4BcMhApWnlJoxw9SEYrkAtCoYQI6AUMOZ10ATQFZhCFUBokK1QDxAyCFUjutEIg_CrQzbJCK6Cho4ChqmunQIoWBWAtDIXAA)]
+- [主旋律 TMD 檔案](tasukebune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjatfJx48QXHTsVNJ5Nnfh8ynwgU1NBS4tL0VbB3IjL3lbBSYfLxkzfwo6rTkHpaeuap2t3PFuw8OmUjc_W9jzdsVlBI8DI0FBHwdjA8OWCRh2FZzPWPp3UY_R05xbDZ3M6jCyfTV-qqcTFpa_FpaCgANTyYuW893tmgThPdjQ8bmgEsR439z9u2vS4afvjprUKj5sWPW5e-Lh5z-Om1Y-b9gAl2x43b37c3AiUWQ8Sbl4JlgSxIZqXPG6e97i563HTTohmsDyQ3zwfyN__uGnj4-ZVcM2rweRUuOb5j5tXQEigEqCFQDcALesGGgRx1nagFqAMUAyobdrj5l6YTpDM4sdNy8CMPiB_K0g_SNWkx80dQP5OsJWTgMYA3QQU7njcvACq-cmuHpjXG2c-bux_3Aj0_aTHTU1APtA1QN81PG7qBnImP26a-LhxPVgZSLjncSPIdxCdkx83rnvc2P24cQ6YA5QH8Vc9btwP5M8HKQYZ2AQMPqAMUNksuE5goHRASIgxfY8bl0AshLoGqA3oC6C2bY8b10L0AN0BNHoS0A6gZBPIKpA80IGdQMl9IKGmHiCrGywMtgBom5Y-F5dvYmaeVVh-cmKOQ41BjUI1yDgFGwstOzCjRsEADk3jgVxjBV0gBpGGQJ4RmDaLB8mBpQ3BAoZACWOotC6YBElCDSTKBPN4sCEQLkgArBpqAkiPEZRENg9kpQmYDTGVyg4wAJpQy8Wla6cACjMFIK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjatfJx48QXHTsVNJ5Nnfh8ynwgU1NBV-Fl957nE7Y82bPl6dL-550dClpaXIq2CuZGXPa2Ck46XDZm-hZ2XHUKSk9b1zxdu-PZgoVPp2x8trbn6Y7NChoBRoaGOgrGBoYvFzTqKDybsfbppB6jpzu3GD6b02Fk-Wz6Uk0lLi7fxMw8q7D85MQchxqDGoVqLgUgsLHQsgMzahQM4NA0Hsg1BrrJGEwaAnlGYNosHiQHljYECxgCJYyh0rpgEiQJNZAoE8zjwYZAuCABsGqoCSA9RlAS2TyQlSZgNsRUKjvAAGhCLTTAAjIT8_KDPAgFmTFymEAcAbJKV8EkHoSA0mAVQHGwJASBXAUWAYsB3YpwOqlGQaIMYhaYQgoGJJVQ4xCmg5wADgFwyEClaeUmjHD1IRiuQC0KhhAjoBQw5nXQBNAVmEIVQGiQrVAPEDIIVSO60QiD8KtDNskIroKGjgKGqa6dAihYFYC0MhcA)]
 
 ## 分析
 
@@ -61,14 +61,14 @@ B6 B4 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 助け船 救生船 ]
 ================================================================================
-⏱  Duration:       0:21 (21.2s), 17 measures total
-🎼 Key & Tempo:    首調基準 B,, != 144.0 BPM, <6/8>
+⏱  Duration:       0:42 (42.5s), 17 measures total
+🎼 Key & Tempo:    首調基準 B,, != 72.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D#5 (MIDI 75) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [Main #1 @ m.1, 0:01]
-   - 最高音: D#5 in [Main #1 @ m.12, 0:13]
+   - 最低音:  F4 in [Main #1 @ m.1, 0:02]
+   - 最高音: D#5 in [Main #1 @ m.12, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (21.2s)
+🏛  結構:      Main (42.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）

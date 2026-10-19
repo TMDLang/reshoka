@@ -35,7 +35,7 @@ T:月夜泛舟
 C:曲：ウエーベル（獨）（Weber）
 M:6/8
 L:1/16
-Q:3/8=92
+Q:3/8=46
 K:Bb
 V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
@@ -55,8 +55,8 @@ D6 D4 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsukiyo_hanshu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjnPNs9-0TFfQUuLS9FWwdDYgsveVsFJh8vGTN_CjqtOQenFynnv98x6umTliw3bny9vUAKJPZu9CSj2uGnZ46YVj5v3PG6e-bh59fs9Hc97V7zf0wlkhKcmpRYBmWDVL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bul-unvF8befz5ROfLt38dO2E51OAJnYYGRgZ6BkYmOkZWJhYgo3l0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6Bigx5-2rng2rR3ogKcbep-1dyoEGBoa62UVpL_f0wNU_HJBo0KBnoKxGZALdPaTXT0v23tfzt_8fM0aBWOFl8umgcNiFsj0F6v2P2tYDjK3u_fFzPlA0Rfruh43r305dTtQCuRDhZcze1-smAGW7Hzc0AgMfgWgYqDUs5bOp_tXP27uVng0c6WeLTCKgPaBLGteAbHv6YQOYPABBZ_u2fhi6_Zncxqe7utRMFR42rr6aUcb2EHLXjZsetq6FGg0F8g5T3Y0gP3c2vm4qetxY9vjxu7Hjduebd0ODIXHTS1A60HSwPTxuHE1VLqp52UjUOk2YFoByT1unP64cQOQfLZn6uPGSUD2y0UrwOp6gYIQFS2PG6cBTXvaDxTteNzQABeB6IG4ZFcP2CWbdjxumvSyccHjxv7HjesfN64CWvi4CWgzMKFAHLNpGtAxL5YBzWp73AR0LlTR083boCqALgOaAbKqcfbjxmVAUZBXGleCXQX0KNjLGK5qgos8bpwMchVQEeUpCgoUtPS5uHwTM_OsAhKLSgwdagxqFKpBNijYGJpp2YFZwIQMibenG_qfr28AaQEJ1ygYKOhi4OqCWgXTeCCjBhx6IM3A1AaMzhcLexA6jYEKQBBEG0HZILoGmCggPBANNgcEIQbCVYJ0mWDVBeLBzMbiil09dHEFTCc4PHLTasEctPDoRHGJGVQXiDaFWQc2E2YDiEZ2L8IdyH5GdYc5yMHIXkFxw9PZs-ngBpjVIAgKjxquWqQEZ0SvBIcvQo1hfDADXRaVj1OvCRZZfGmP5g6C6yc-FRIXzygJiljXGIEYcB7BtEhDl8DDBQThKVLXTgGUKBWAtDIXFwA)]
-- [鋼琴伴奏 TMD 檔案](tsukiyo_hanshu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjnPNs9-0TH__Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgaGzBZW-r4KTDZWOmb2HHVaeg9GLlvPd7Zj1dsvLFhu3PlzcogcSezd4EFHvctOxx04rHzXseN8983LwaaO7z3hVAs4CM8NSk1CIgE6z6Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD98vVM56v7Xy-fOLTpZufrp3wfArQxA4jAyMDPQMDMz0DCxNLsLFcvomZeVYBmYl5-UEeDjUGNQrVXApAYGNopmUHZulrKTzds_HF1u1PN_Q_X9-goKUPFq5RMFDQxcDVBbUKpvFARg0XTPPzNWue7Gh4sbAHodMYqAAEQbQRlA2iaxQMoTwQDTYHBCEGwlWCdJlg1QXiwczG4opdPXRxBUwnODxy02rBHLTw6ERxiRlUF4g2hVkHNhNmA4hGdi_CHch-RnWHOcjByF5BccPT2bPp4AaY1SAICo8arlrkJOdDtySHL0qNYXwwA10WlY9TrwkWWXypj-YOgusnPh0SF9MoSYpY1xiBGHAewdRIQ5fAwwUE4WlS104BlCwVgLQyFxcA)]
+- [主旋律 TMD 檔案](tsukiyo_hanshu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjnPNs9-0TFfQUuLS9FWwcySy95WwUmHy8ZM38KOq05B6cXKee_3zHq6ZOWLDdufL29QAok9m70JKPa4adnjphWPm_c8bp75uHn1-z0dz3tXvN_TCWSEpyalFgGZYNUv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6X66e8Xxt5_PlE58u3fx07YTnU4AmdhgZGBnoGRiY6RlYmFiCjeXS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oGKDHn7aueDatHeiApxt6n7V3KgQYGhrrZRWkv9_TA1T8ckGjQoGegrEZkAt09pNdPS_be1_O3_x8zRoFY4WXy6aBw2IWyPQXq_Y_a1gOMre798XM-UDRF-u6HjevfTl1O1AK5EOFlzN7X6yYAZbsfNzQCAx-BaBioNSzls6n-1c_bu5WeDRzpZ6tobEF0D6QZc0rIPY9ndABDD6g4NM9G19s3f5sTsPTfT0KhgpPW1c_7WgDO2jZy4ZNT1uXAo3mAjnnyY4GsJ9bOx83dT1ubHvc2P24cduzrduBofC4qQVoPUgamDweN66GSjf1vGwEKt0GTCoguceN0x83bgCSz_ZMfdw4Cch-uWgFWF0vUBCiouVx4zSgaU_7gaIdjxsa4CIQPRCX7OoBu2TTjsdNk142Lnjc2P-4cf3jxlVACx83AW0GJhSIYzZNAzrmxTKgWW2Pm4DOhSp6unkbVAXQZUAzQFY1zn7cuAwoCvJK40qwq4AeBXsZw1VNcJHHjZNBrgIqojxFQYGClj4Xl29iZp5VQGJRiaFDjUGNQjXIBgUbQzMtOzALmJAh8fZ0Q__z9Q0gLSDhGgUDBV0MXF1Qq2AaD2TUgEMPpBmY2oDR-WJhD0KnMVABCIJoIygbRNcAEwWEB6LB5oAgxEC4SpAuE6y6QDyY2VhcsauHLq6A6QSHR25aLZiDFh6dKC4xg-oC0aYw68BmwmwA0cjuRbgD2c-o7jAHORjZKyhueDp7Nh3cALMaBEHhUcNVi5TgjOiV4PBFqDGMD2agy6Lyceo1wSKLL-3R3EFw_cSnQuLiGSVBEesaIxADziOYFmnoEni4gCA8ReraKYASpQKQVubiAgA)]
+- [鋼琴伴奏 TMD 檔案](tsukiyo_hanshu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjnPNs9-0TH__Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgZsllb6vgpMNlY6ZvYcdVp6D0YuW893tmPV2y8sWG7c-XNyiBxJ7N3gQUe9y07HHTisfNex43z3zcvBpo7PPeFUCjgIzw1KTUIiATrPpF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP3y9Uznq_tfL584tOlm5-unfB8CtDEDiMDIwM9AwMzPQMLE0uwsVy-iZl5VgGZiXn5QR4ONQY1CtVcCkBgY2imZQdm6WspPN2z8cXW7U839D9f36CgpQ8WrlEwUNDFwNUFtQqm8UBGDRdM8_M1a57saHixsAeh0xioAARBtBGUDaJrFAyhPBANNgcEIQbCVYJ0mWDVBeLBzMbiil09dHEFTCc4PHLTasEctPDoRHGJGVQXiDaFWQc2E2YDiEZ2L8IdyH5GdYc5yMHIXkFxw9PZs-ngBpjVIAgKjxquWuQk50O3JIcvSo1hfDADXRaVj1OvCRZZfKmP5g6C6yc-HRIX0yhJiljXGIEYcB7B1EhDl8DDBQThaVLXTgGULBWAtDIXFwA)]
 
 ## 分析
 
@@ -64,14 +64,14 @@ D6 D4 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 月夜泛舟 ]
 ================================================================================
-⏱  Duration:       0:22 (22.2s), 17 measures total
-🎼 Key & Tempo:    首調基準 B,, != 138.0 BPM, <6/8>
+⏱  Duration:       0:44 (44.3s), 17 measures total
+🎼 Key & Tempo:    首調基準 B,, != 69.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – G5 (MIDI 79) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  F4 in [Main #1 @ m.1, 0:01]
-   - 最高音: G5 in [Main #1 @ m.10, 0:11]
+   - 最低音:  F4 in [Main #1 @ m.1, 0:02]
+   - 最高音: G5 in [Main #1 @ m.10, 0:23]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (22.2s)
+🏛  結構:      Main (44.3s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）

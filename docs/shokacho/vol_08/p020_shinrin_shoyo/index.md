@@ -34,7 +34,7 @@ X:1
 T:深林逍遥（漫步深林）
 M:6/8
 L:1/16
-Q:3/8=92
+Q:3/8=46
 K:Ab
 V:V1 name="Piano" snm="Pia"
 [V:V1]
@@ -50,8 +50,8 @@ A6 A4 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shinrin_shoyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2feOzedNfNvS-bFz6fk_Hsz2rn61dChF8v6dTQUuLS9FWwdDYgsveVsFRh8vGTN_CjqtOQelp-64XM6e-3zPryY61L_rXP52y8dnaHgV9hReT17zo2_hydtvj5hWPm1eBjJyx1kgPCE2B5imBtD5u6IIof7pj2uOGbqASIwMjAz0DAzM9AwsTY6CyABA_qyD9UcNkINMQxFTQKMkv0FTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeisFyvnPW1d8WxaO9BlTzf0PmvvVIA5SAHoIhAH4qQnO7qe9nYB3QsMBpBRL1btf9awHGRId--LmfOBok-XdD5uWgIUVwCGmwJQGGikY5LC0yXLUcSABvQ8mrnKFhTOIHNW7H6xYgZQuwZy4GoqaKAFriYwvIFR9XTjRkj8aTxubnncNO9x01pNBXioc4FMfLKj4XFDI4j1uGnz4-aGx82NCo-b-4C8VY-b1gOZ3UDm6sdNe4DUWpDhTevBipvnP27uBNoEVQxUsQmiuLkDLNq07HHT_sfNUyEmL3nctA0otQQivQisFWRPGxCD9IH0AHkQxUBtfY-btgPtA8oA1YLsACoCibc-bu6F2L0Z4vpdPTDXN05-3DjrcdNEoMJJQNz0uKkbiIDiQK2N60D040agSBdE8fTHjRseN26FSrU9btwBpFYDMVBfC8SIxi6gfrjRkx83AW1uagLyeh83dQBJIK_lceM-qBGrgKZDFE9EmAu0cgXYAWDzmh43zn3cuBnIAobNZJBiytMpFCho6XNxBWdk5hVl5gVn5FfmWwVkJublO9QY1ChUg2xSsLHQsgMzqnPTasGMGgUDODSNB3INQZSugnE8hAYJGIH4QBrEMwIJAxGMrgHK6AIhSBbEhZgONxynaSBdYNMUzOMVzEDmmaiDTAMrAxuFbB7CtWB7jaCW1iiYgGmQkWC34JWFGFUAM8kYLGEI9ZcJWJMRlAd0E8ihIAUgLkgpSAKrF03BZhiC_QTigZWB_YjF8SArTIGWGcEDDkRSw1SI80EBjBkduXBPQ8Vh0lhVFxCh2gCouJaLS9dOATm9KQD5ylwA)]
-- [鋼琴伴奏 TMD 檔案](shinrin_shoyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2feOzedNfNvS-bFz6fk_Hsz2rn61dChF83Lz7Zfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGltw2dsqOOpw2ZjpW9hx1SkoPW3f9WLm1Pd7Zj3ZsfZF__qnUzY-W9ujoK_wYvKaF30bX85ue9y84nHzKpAlM9Ya6QGhKdA8JZDWxw1dEOVPd0x73NANVGJkYGSgZ2BgpmdgYWIMVBYA4mcVpD9qmAxkGoKYChol-QWaSlxcwRmZeUWZecEZ-ZX5VgGZiXn5QR4ONQY1CtVcCkBgY6FlB2ZU56bVghk1CgZwaBoP5BqCKF0F43gIDRIwAvGBNIhnHq9tBJIBIiQmUJW2MVBeF6wKJACxBW4JDlNBuiA6YSYDKQWzeKCkiTrIWPN4oGi8NlgT2GBk0xF-gDnFCO4OsJgJmAmWhOgjWiHEggK484GKIVLahtCAMAPpAhkBFAOaBhYDMoHOB3kNahRIEKQTrA_qA_SgMdY2BWoBQ2hoQMRAyiE0UASrh3UhFpkqmAAZSFEApmlhE8hckE1I3gEzkKIEHmTGcCkECy4KSgloOgsI64Rbi2AbALXXYkv2PjiSPdwWRLIHmqFgCEqYIAuB0Ydg4hYHsYxAWQBII7PRdUBciBakpFpmBCTNQKaDGCgcmEMQLkG1Eu5bZDfi9QhYN4nK0SMQlz9MIAJg19M7NAmGyiC3FzlwQTkCKg9i4NNFjDZDZG3AzKRrp4CcnxSAfGUuAA)]
+- [主旋律 TMD 檔案](shinrin_shoyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2feOzedNfNvS-bFz6fk_Hsz2rn61dChF8v6dTQUuLS9FWwcySy95WwVGHy8ZM38KOq05B6Wn7rhczp77fM-vJjrUv-tc_nbLx2doeBX2FF5PXvOjb-HJ22-PmFY-bV4FMnLHWSA8ITYHGKYG0Pm7ogih_umPa44ZuoBIjAyMDPQMDMz0DCxNjoLIAED-rIP1Rw2Qg0xDEVNAoyS_QVOLi0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6KwXK-c9bV3xbFo70GVPN_Q-a-9UgDlIAegiEAfipCc7up72dgHdCwwGkFEvVu1_1rAcZEh374uZ84GiT5d0Pm5aAhRXAIabAlAYaKRjksLTJctRxIAG9DyaucrW0NgCbM6K3S9WzABq10AOXE0FDbTA1QSGNzCmnm7cCIk-jcfNLY-b5j1uWqupAA91LpCJT3Y0PG5oBLEeN21-3NzwuLlR4XFzH5C36nHTeiCzG8hc_bhpD5BaCzK8aT1YcfP8x82dQJugioEqNkEUN3eARZuWPW7a_7h5KsTkJY-btgGllkCkF4G1guxpA2KQPpAeIA-iGKit73HTdqB9QBmgWpAdQEUg8dbHzb0QuzdDXL-rB-b6xsmPG2c9bpoIVDgJiJseN3UDEVAcqLVxHYh-3AgU6YIonv64ccPjxq1QqbbHjTuA1GogBuprgRjR2AXUDzd68uMmoM1NTUBe7-OmDiAJ5LU8btwHNWIV0HSI4okIc4FWrgA7AGxe0-PGuY8bNwNZwLCZDFJMeTqFAgUtfS6u4IzMvKLMvOCM_Mp8q4DMxLx8hxqDGoVqkE0KNhZadmBGdW5aLZhRo2AAh6bxQK4hiNJVMI6H0CABIxAfSIN4RiBhIILRNUAZXSAEyYK4ENPhhuM0DaQLbJqCebyCGcg8E3WQaWBlYKOQzUO4FmyvEdTSGgUTMA0yEuwWvLIQowpgJhmDJQyh_jIBazKC8oBuAjkUpADEBSkFSWD1oinYDEOwn0A8sDKwH7E4HmSFKdAyI3jAgUhqmApxPiiAMaMjF-5pqDhMGqvqAiJUGwAV13Jx6dopIKc3BSBfmQsA)]
+- [鋼琴伴奏 TMD 檔案](shinrin_shoyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2feOzedNfNvS-bFz6fk_Hsz2rn61dChF83Lz7Zfee5xO2PNmz5enS_uedHe_3dCpoaXEp2iqYWXLZ2yo46nDZmOlb2HHVKSg9bd_1YubU93tmPdmx9kX_-qdTNj5b26Ogr_Bi8poXfRtfzm573LzicfMqkB0z1hrpAaEp0DglkNbHDV0Q5U93THvc0A1UYmRgZKBnYGCmZ2BhYgxUFgDiZxWkP2qYDGQagpgKGiX5BZpKXFzBGZl5RZl5wRn5lflWAZmJeflBHg41BjUK1VwKQGBjoWUHZlTnptWCGTUKBnBoGg_kGoIoXQXjeAgNEjAC8YE0iGcer20EkgEiJCZQlbYxUF4XrAokALEFbgkOU0G6IDphJgMpBbN4oKSJOshY83igaLw2WBPYYGTTEX6AOcUI7g6wmAmYCZaE6CNaIcSCArjzgYohUtqG0IAwA-kCGQEUA5oGFgMygc4HeQ1qFEgQpBOsD-oD9KAx1jYFagFDaGhAxEDKITRQBKuHdSEWmSqYABlIUQCmaWETyFyQTUjeATOQogQeZMZwKQQLLgpKCWg6CwjrhFuLYBsAtddiS_Y-OJI93BZEsgeaoWAISpggC4HRh2DiFgexjEBZAEgjs9F1QFyIFqSkWmYEJM1ApoMYKByYQxAuQbUS7ltkN-L1CFg3icrRIxCXP0wgAmDX0zs0CYbKILcXOXBBOQIqD2Lg00WMNkNkbcDMpGungJyfFIB8ZS4A)]
 
 ## 分析
 
@@ -59,14 +59,14 @@ A6 A4 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 深林逍遥（漫步深林） ]
 ================================================================================
-⏱  Duration:       0:37 (37.8s), 29 measures total
-🎼 Key & Tempo:    首調基準 A,, != 138.0 BPM, <6/8>
+⏱  Duration:       1:15 (75.7s), 29 measures total
+🎼 Key & Tempo:    首調基準 A,, != 69.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D#5 (MIDI 75) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [ShinrinShoyo #1 @ m.2, 0:01]
-   - 最高音: D#5 in [ShinrinShoyo #1 @ m.8, 0:09]
+   - 最低音:  C4 in [ShinrinShoyo #1 @ m.2, 0:03]
+   - 最高音: D#5 in [ShinrinShoyo #1 @ m.8, 0:18]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      ShinrinShoyo (37.8s)
+🏛  結構:      ShinrinShoyo (75.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）

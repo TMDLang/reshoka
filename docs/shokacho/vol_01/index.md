@@ -38,7 +38,7 @@
 | P153 | [**七里が濱（女子大学校歌）**](p153_shichirigahama/index.md) | 詞：三角錫子 / 曲：J. P. Webster（日本化旋律） | `?=C` `<4/4>` `!=92` | P153.jpg |
 | P154 | [**旅愁**](p154_ryoshu/index.md) | 詞：犬童球渓 / 曲：J. P. Ordway | `?=E,` `<6/8>` `!=72` | P154.jpg |
 | P155 | [**月**](p155_tsuki/index.md) | — | `?=C` `<2/2>` `!=128` | P155.jpg |
-| P156 | [**胡蝶**](p156_kocho/index.md) | — | `?=G` `<6/8>` `!=120` | P156.jpg |
+| P156 | [**胡蝶**](p156_kocho/index.md) | — | `?=G` `<6/8>` `!=60` | P156.jpg |
 | P157 | [**羽衣**](p157_hagoromo/index.md) | — | `?=E,` `<4/4>` `!=88` | P157.jpg |
 | P158 | [**四季の散歩**](p158_shiki_no_sanpo/index.md) | — | `?=G` `<4/4>` `!=126` | P158.jpg |
 | P159 | [**我國兵士**](p159_wagakuni_heishi/index.md) | — | `?=B,` `<2/4>` `!=132` | P159.jpg, P160.jpg |

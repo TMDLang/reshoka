@@ -35,7 +35,7 @@ X:1
 T:銀杏の樹（銀杏樹）
 M:6/8
 L:1/16
-Q:3/8=80
+Q:3/8=40
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
@@ -52,8 +52,8 @@ G2 A,2 G2 G6 | C6 C4 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](icho_no_ki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ1fBsbv_jxnXPVux8v6cDwgWzOxW0tLgUbRUMjQy47G0VnLlszPQt7LjqFJRerJz3fs-s53PmP5-y4dmi1mdzJyqBhJ-273oxcypQ5sXkNU-nbHw5u03B3PzlgsbHzSseN68CGv5sxlojPWM9I1Og4WAdjxu6gAqfre15umPa44ZuoBIjAyMDPQMDMz0DCxNjoLIAAwNTvayCdCUuLn0tBVtqAS4FBYWnffOfzd7xYnP7ixVdLzraga4A-utp64pn09qBDnm6ofdZe6cCzH6gU4AeA2l7sWr_s4blIA3dvS9mzgeKPm7uBwoqAENHASgG1Ous8HTJchShTrDOFbtfrJiBFnIvVq5U0FeAhxhSgAGF4QHGBdL_ZEfD44ZGEOtx05LHzWsfN7c-bloP5Cx63ATk9EGE2x43T4Vw1sJUNy8Di0163LwJrLp5MlAZUHjT46bVQKWPm4DyMx43d8NN3_y4ac3j5l6IMUD1Ux83rQOqB5qxCqSladvjpu1ww5c8btoK4oOc0jwPrGoFilPALmmCeGFXD0xf4_THTU2PG7seN_YDOUAT2oCJEMhqedy4DMQHc3rhqic_bux53NQJ1AbkAJVOBCoD2jLpcWM3UClYaMfjxtXIpgMVrwcb0wQ0E4g2AIWBKX0_WAtQZjrcv5PABk2HOGX-40aglzpQnAJ2SRNIMeVpDwoUtPS5uDyTM_L98r0zrQIyE_PyHWoMahSqQbYo2Fho2YEZ1bkFtWBGjYIBHBoDeaZA2gxMGsYBuWZgYVMFXSCsUTBUMALyzKA8iCiIBGqEGoZXO0irKdgQCA8kCiINoNqrc9NgjgLqNo5TMIoDMUD2gZSbgrUjuwTEM8VhFNx_CKUQ_4GMA5oK84NZPJBAGAuiQSTIoFouLl07BVhgKqCxlbkA)]
-- [鋼琴伴奏 TMD 檔案](icho_no_ki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ1fBsbv_jxnXPVux8v6cDwgWyHzfvftm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKhkYGXPa2Cs5cNmb6FnZcdQpKL1bOe79n1vM5859P2fBsUeuzuROVQMJP23e9mDkVKPNi8pqnUza-nN2mYG7-ckHj4-YVj5tXAa17NmOtkZ6xnpEp0HCwjscNXUCFz9b2PN0x7XFDN1CJkYGRgZ6BgZmegYWJMVBZgIGBqV5WQboSF5dncka-X753plVAZmJefpCHQ41BjUI1lwIQ2Fho2YEZ1bkFtWBGjYIBHBoDeaZA2gxMGsYBuWZgYVMFXSCsUTBUMALyzKA8iCiIBGqEGoZXO0irKdgQCA8kCiINoNqrc9NgjgLqNo5TMIoDMUD2gZSbgrUjuwTEM8VhFNx_CKUQ_4GMA5oK84NZPJCAG6ttrA1hw1ggA2vRw9QHe5hiCVKgdgVDoA3xCsbxCEaNggmQB7IaSQjOhMkBXRcPdLs5WBxMw0KZSBPN4hGKgCbEA41AsQjIwBpiMKMQDsFmIZxJjOGI2MDjdGwexzAaSMKNBkaMrp0CLG4U0NjKXAA)]
+- [主旋律 TMD 檔案](icho_no_ki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ1fBsbv_jxnXPVux8v6cDwgWzOxW0tLgUbRXMDLjsbRWcuWzM9C3suOoUlF6snPd-z6znc-Y_n7Lh2aLWZ3MnKoGEn7bvejFzKlDmxeQ1T6dsfDm7TcHc_OWCxsfNKx43rwKa_WzGWiM9Yz0jU6DZYB2PG7qACp-t7Xm6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgsgADA1O9rIJ0JS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBrgD662nrimfT2oEOebqh91l7pwLMfqBTgB4DaXuxav-zhuUgDd29L2bOB4o-bu4HCioAQ0cBKAbU66zwdMlyFKFOsM4Vu1-smIEWci9WrlTQV4CHGFKAAYXhAcYF0v9kR8PjhkYQ63HTksfNax83tz5uWg_kLHrcBOT0QYTbHjdPhXDWwlQ3LwOLTXrcvAmsunkyUBlQeNPjptVApY-bgPIzHjd3w03f_LhpzePmXogxQPVTHzetA6oHmrEKpKVp2-Om7XDDlzxu2grig5zSPA-sagWKU8AuaYJ4YVcPTF_j9MdNTY8bux439gM5QBPagGkQyGp53LgMxAdzeuGqJz9u7Hnc1AnUBuQAlU4EKgPaMulxYzdQKVhox-PG1cimAxWvBxvTBDQTiDYAhYEJfT9YC1BmOty_k8AGTYc4Zf7jRqCXOlCcAnZJE0gx5WkPChS09Lm4PJMz8v3yvTOtAjIT8_IdagxqFKpBtijYWGjZgRnVuQW1YEaNggEcGgN5pkDaDEwaxgG5ZmBhUwVdIKxRMFQwAvLMoDyIKIgEaoQahlc7SKsp2BAIDyQKIg2g2qtz02COAuo2jlMwigMxQPaBlJuCtSO7BMQzxWEU3H8IpRD_gYwDmgrzg1k8kEAYC6JBJMigWi4uXTsFWGAqoLGVuQA)]
+- [鋼琴伴奏 TMD 檔案](icho_no_ki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ1fBsbv_jxnXPVux8v6cDwgWyHzfvftm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKZgZc9rYKzlw2ZvoWdlx1CkovVs57v2fW8znzn0_Z8GxR67O5E5VAwk_bd72YORUo82LymqdTNr6c3aZgbv5yQePj5hWPm1cBbXs2Y62RnrGekSnQbLCOxw1dQIXP1vY83THtcUM3UImRgZGBnoGBmZ6BhYkxUFmAgYGpXlZBuhIXl2dyRr5fvnemVUBmYl5-kIdDjUGNQjWXAhDYWGjZgRnVuQW1YEaNggEcGgN5pkDaDEwaxgG5ZmBhUwVdIKxRMFQwAvLMoDyIKIgEaoQahlc7SKsp2BAIDyQKIg2g2qtz02COAuo2jlMwigMxQPaBlJuCtSO7BMQzxWEU3H8IpRD_gYwDmgrzg1k8kIAbq22sDWHDWCADa9HD1Ad7mGIJUqB2BUOgDfEKxvEIRo2CCZAHshpJCM6EyQFdFw90uzlYHEzDQplIE83iEYqAJsQDjUCxCMjAGmIwoxAOwWYhnEmM4YjYwON0bB7HMBpIwo0GRoyunQIsbhTQ2MpcAA)]
 
 ## 分析
 
@@ -61,14 +61,14 @@ G2 A,2 G2 G6 | C6 C4 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 銀杏の樹（銀杏樹） ]
 ================================================================================
-⏱  Duration:       0:51 (51.0s), 34 measures total
-🎼 Key & Tempo:    首調基準 C, != 120.0 BPM, <6/8>
+⏱  Duration:       1:42 (102.0s), 34 measures total
+🎼 Key & Tempo:    首調基準 C, != 60.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A3 (MIDI 57) – E5 (MIDI 76) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
-   - 最低音:  A3 in [IchoNoKi #1 @ m.16, 0:22]
-   - 最高音: E5 in [IchoNoKi #1 @ m.10, 0:13]
+   - 最低音:  A3 in [IchoNoKi #1 @ m.16, 0:45]
+   - 最高音: E5 in [IchoNoKi #1 @ m.10, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      IchoNoKi (25.5s) -> IchoNoKi (25.5s)
+🏛  結構:      IchoNoKi (51.0s) -> IchoNoKi (51.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
