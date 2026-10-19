@@ -31,7 +31,6 @@
 ```abc
 X:1
 T:春が來た
-C:TMD (Chen, Chih-Han / aguai)
 M:4/4
 L:1/16
 Q:1/4=100

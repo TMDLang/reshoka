@@ -39,7 +39,6 @@
 ```abc
 X:1
 T:寧樂の都
-C:TMD (Chen, Chih-Han / aguai)
 M:6/8
 L:1/16
 Q:3/8=44

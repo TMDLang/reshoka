@@ -30,7 +30,6 @@ Key: F major (?= F), 2/4 (<2/4>), ゲンキニ Quarter = 116 (!= 116)
 ```abc
 X:1
 T:進軍
-C:TMD (Chen, Chih-Han / aguai)
 M:2/4
 L:1/16
 Q:1/4=116

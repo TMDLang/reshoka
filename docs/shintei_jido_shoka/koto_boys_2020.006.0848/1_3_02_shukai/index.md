@@ -34,7 +34,6 @@
 ```abc
 X:1
 T:集會
-C:TMD (Chen, Chih-Han / aguai)
 M:4/4
 L:1/16
 Q:1/4=138

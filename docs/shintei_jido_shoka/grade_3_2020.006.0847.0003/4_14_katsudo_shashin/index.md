@@ -30,7 +30,6 @@ Key: D major (?= D), 6/8 (<6/8>), 早メニ 面白ク Dotted Quarter = 112 (!= 1
 ```abc
 X:1
 T:活動寫眞
-C:TMD (Chen, Chih-Han / aguai)
 M:6/8
 L:1/16
 Q:3/8=75

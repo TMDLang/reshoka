@@ -48,7 +48,6 @@
 ```abc
 X:1
 T:蟲の樂隊（蟲之樂隊）
-C:TMD (Chen, Chih-Han / aguai)
 M:2/4
 L:1/16
 Q:1/4=108

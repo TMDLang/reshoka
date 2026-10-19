@@ -29,7 +29,6 @@
 ```abc
 X:1
 T:春雨
-C:TMD (Chen, Chih-Han / aguai)
 M:4/4
 L:1/16
 Q:1/4=88

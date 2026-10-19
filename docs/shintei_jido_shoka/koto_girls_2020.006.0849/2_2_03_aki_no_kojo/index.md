@@ -35,7 +35,6 @@
 ```abc
 X:1
 T:秋の湖上
-C:TMD (Chen, Chih-Han / aguai)
 M:3/8
 L:1/16
 Q:1/8=108

@@ -30,7 +30,6 @@ Key: C major / A minor (?= C), 2/4 (<2/4>), 面白ゲニ Quarter = 88 (!= 88)
 ```abc
 X:1
 T:冬の朝
-C:TMD (Chen, Chih-Han / aguai)
 M:2/4
 L:1/16
 Q:1/4=88

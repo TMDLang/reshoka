@@ -24,7 +24,6 @@
 ```abc
 X:1
 T:小楠公
-C:TMD (Chen, Chih-Han / aguai)
 M:6/8
 L:1/16
 Q:3/8=39

@@ -27,7 +27,6 @@ Key: G minor (relative major ?= Bb), 4/4 (<4/4>), Quarter = 96 (!= 96)
 ```abc
 X:1
 T:青い小鳥
-C:TMD (Chen, Chih-Han / aguai)
 M:4/4
 L:1/16
 Q:1/4=96

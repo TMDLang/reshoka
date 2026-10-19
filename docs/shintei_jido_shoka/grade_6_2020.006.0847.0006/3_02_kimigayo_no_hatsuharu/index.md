@@ -31,7 +31,6 @@
 ```abc
 X:1
 T:君が代の初春
-C:TMD (Chen, Chih-Han / aguai)
 M:2/2
 L:1/16
 Q:1/2=36

@@ -33,7 +33,6 @@
 ```abc
 X:1
 T:つり橋
-C:TMD (Chen, Chih-Han / aguai)
 M:3/4
 L:1/16
 Q:1/4=126

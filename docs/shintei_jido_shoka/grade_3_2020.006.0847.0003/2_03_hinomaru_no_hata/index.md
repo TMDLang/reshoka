@@ -42,7 +42,6 @@
 ```abc
 X:1
 T:日の丸のはた（日之丸國旗）
-C:TMD (Chen, Chih-Han / aguai)
 M:2/4
 L:1/16
 Q:1/4=116

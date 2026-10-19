@@ -33,7 +33,6 @@
 ```abc
 X:1
 T:のどけき春
-C:TMD (Chen, Chih-Han / aguai)
 M:2/4
 L:1/16
 Q:1/4=88

@@ -44,7 +44,6 @@ https://collections.culture.tw/ShowGalImage?SYSUID=11&IMG=KX52KKMMMC0AMAKW5H0IME
 ```abc
 X:1
 T:だいしゃ（台車）
-C:TMD (Chen, Chih-Han / aguai)
 M:2/4
 L:1/16
 Q:1/4=96

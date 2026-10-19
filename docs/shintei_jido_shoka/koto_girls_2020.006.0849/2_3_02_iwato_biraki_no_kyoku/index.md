@@ -44,7 +44,6 @@
 ```abc
 X:1
 T:岩戸開きの曲
-C:TMD (Chen, Chih-Han / aguai)
 M:1/4
 L:1/16
 Q:1/4=96

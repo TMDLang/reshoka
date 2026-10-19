@@ -28,7 +28,6 @@ Key: D major (?= D), 4/4 (<4/4>), 少シ早ク Quarter = 108 (!= 108)
 ```abc
 X:1
 T:始業式
-C:TMD (Chen, Chih-Han / aguai)
 M:4/4
 L:1/16
 Q:1/4=108

@@ -34,7 +34,6 @@
 ```abc
 X:1
 T:凱旋
-C:TMD (Chen, Chih-Han / aguai)
 M:4/8
 L:1/16
 Q:1/8=168
