@@ -43,4 +43,24 @@ Tsubame:PianoLH@|0| {
     | 1_ 5__ 1_ 0 | 5__ 5__ 1_ 0 |
 }
 
--> Tsubame -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {mp} [1] [5] [6m] [3m] | [4] [2m] [5] - |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ 5_ 6_ 3_ | 4_ 2_ 5_ - |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {mf} [4] [5] [6m] [5] | [1] - - - |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 4_ 5_ 6_ 5_ | 1_ - - - |
+}
+
+-> Intro -> Tsubame -> Ending -> #

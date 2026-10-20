@@ -27,12 +27,10 @@ theme:
         icon: material/brightness-4
         name: 切換為淺色模式
   features:
-    # - navigation.sections
-    - navigation.prune
-    - navigation.path
-    - navigation.tracking
     - navigation.instant
-    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
     - search.suggest
     - search.highlight
     - content.code.copy

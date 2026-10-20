@@ -43,4 +43,24 @@ Ofune:PianoLH@|0| {
     | 1_ 5_ 4_ 1_ | 1_ 5_ 1_ 3_ | 5_ 5__ 1_ 5_ | 1_ - 0 - |
 }
 
--> Ofune -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {mp} [1] [5] | [6m] [5] |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ 5_ | 6_ 5_ |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {mf} [4] [5] | [1] - |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 4_ 5_ | 1_ - |
+}
+
+-> Intro -> Ofune -> Ending -> #

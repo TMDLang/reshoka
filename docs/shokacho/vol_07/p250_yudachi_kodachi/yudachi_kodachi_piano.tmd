@@ -42,4 +42,24 @@ YudachiKodachi:PianoLH@|0| {
     | 1_ 5_ 1_ 5_ | 4_ 1 1_ 5_ | 5_ 5_ 5__ 5__ | 1_ - 0 - |
 }
 
--> YudachiKodachi -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {mp} [1] [5] | [3m] [6m] |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ 5_ | 3_ 6_ |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {mf} [4] [5] | [1] [6m] |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 4_ 5_ | 1_ 6_ |
+}
+
+-> Intro -> YudachiKodachi -> Ending -> #

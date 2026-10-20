@@ -42,4 +42,24 @@ Nanohana:PianoLH@|0| {
     | 1_ 5_ 3_ | 4_ 1_ 1_ | 5__ 5_ 5__ | 1_ - 0 |
 }
 
--> Nanohana -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {p} [1] [6m] - | [4] [5] - |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ 6_ - | 4_ 5_ - |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {mp} [2m] [5] [4] | [1] - - |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 2_ 5_ 4_ | 1_ - - |
+}
+
+-> Intro -> Nanohana -> Ending -> #

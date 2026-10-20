@@ -45,4 +45,24 @@ Shabondama:PianoLH@|0| {
     | 1_ 5_ 1_ 5_ | 4_ 1_ 1_ 5__ | 1_ 5__ 1_ 3_ | 5__ 5__ 1_ 0 |
 }
 
--> Shabondama -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {p} [1] - | [6m] [3m] |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ - | 6_ 3_ |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {mp} [4] [2m] | [5] [1] |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 4_ 2_ | 5_ 1_ |
+}
+
+-> Intro -> Shabondama -> Ending -> #

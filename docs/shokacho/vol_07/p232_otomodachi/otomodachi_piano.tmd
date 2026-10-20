@@ -43,4 +43,24 @@ Otomodachi:PianoLH@|0| {
     | 1_ 5__ 1_ 5__ | 1_ 5__ 4__ 4__ | 5__ 5__ 5__ 5__ | 1_ 5__ 1_ 0 |
 }
 
--> Otomodachi -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {p} [1] [6m] | [4] [5] |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ 6_ | 4_ 5_ |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {mf} [4] [1] | [2m] [5] |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 4_ 1_ | 2_ 5_ |
+}
+
+-> Intro -> Otomodachi -> Ending -> #

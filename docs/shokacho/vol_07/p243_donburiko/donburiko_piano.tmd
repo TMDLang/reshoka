@@ -44,4 +44,24 @@ Donburiko:PianoLH@|0| {
     | 1_ 5__ 5__ 1_ | 1_ 3_ 4_ 1_ | 5__ 5_ 5__ 5__ | 1_ 5__ 1_ 0 |
 }
 
--> Donburiko -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {mf} [1] [5] | [6m] [4] |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ 5_ | 6_ 4_ |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {f} [5] [4] | [1] [5] |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 5_ 4_ | 1_ 5_ |
+}
+
+-> Intro -> Donburiko -> Ending -> #

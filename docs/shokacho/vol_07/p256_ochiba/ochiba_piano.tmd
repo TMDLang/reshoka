@@ -37,4 +37,24 @@ Ochiba:PianoLH@|0| {
     | 6__ 6__ 6__ | 6__ 6__ 6__ | 2__ 4__ 3__ | 6__ - 0 |
 }
 
--> Ochiba -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {p} [1] - [6m] | [4] - [5] |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ - 6_ | 4_ - 5_ |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {mp} [2m] [5] [4] | [1] - - |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 2_ 5_ 4_ | 1_ - - |
+}
+
+-> Intro -> Ochiba -> Ending -> #

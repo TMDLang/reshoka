@@ -38,4 +38,24 @@ Hitoribocchi:PianoLH@|0| {
     | 2_ 2_ | 3__ 3__ | 6__ 3__ | 6__ 0 |
 }
 
--> Hitoribocchi -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {p} [1] - | [6m] [4] |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ - | 6_ 4_ |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {mp} [2m] [5] | [1] - |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 2_ 5_ | 1_ - |
+}
+
+-> Intro -> Hitoribocchi -> Ending -> #

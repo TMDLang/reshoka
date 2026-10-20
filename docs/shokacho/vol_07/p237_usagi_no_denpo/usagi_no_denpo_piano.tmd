@@ -41,4 +41,24 @@ UsagiNoDenpo:PianoLH@|0| {
     | 1_ 5__ 5__ 1_ | 5__ 2__ 5__ 0 | 1_ 3__ 4__ 6__ | 5__ 5__ 1_ 0 |
 }
 
--> UsagiNoDenpo -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {mf} [1] [3m] | [6m] [4] |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ 3_ | 6_ 4_ |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {f} [5] [4] | [1] - |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 5_ 4_ | 1_ - |
+}
+
+-> Intro -> UsagiNoDenpo -> Ending -> #

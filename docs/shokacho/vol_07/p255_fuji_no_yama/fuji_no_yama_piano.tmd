@@ -38,4 +38,24 @@ FujiNoYama:PianoLH@|0| {
     | 1_ 5_ 1_ 5_ | 1_ 5_ 4_ 1_ | 1_ 1_ 5__ 5__ | 1_ 5__ 1__ 0 |
 }
 
--> FujiNoYama -> #
+Intro:PianoRH@|0| {
+    <4*>
+    | {mf} [1] [4] [1] [5] | [6m] [4] [5] - |
+}
+
+Intro:PianoLH@|0| {
+    <4*>
+    | 1_ 4_ 1_ 5_ | 6_ 4_ 5_ - |
+}
+
+Ending:PianoRH@|0| {
+    <4*>
+    | {f} [4] [5] [6m] [5] | [1] - - - |
+}
+
+Ending:PianoLH@|0| {
+    <4*>
+    | 4_ 5_ 6_ 5_ | 1_ - - - |
+}
+
+-> Intro -> FujiNoYama -> Ending -> #
