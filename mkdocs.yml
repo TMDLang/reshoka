@@ -29,7 +29,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.sections
     - navigation.top
     - search.suggest
     - search.highlight
@@ -98,6 +97,7 @@ nav:
           - "14 すみやき（燒炭）": kogakko_shoka/grade_3/14_sumiyaki/index.md
           - "15 白さぎ（白鷺鷥）": kogakko_shoka/grade_3/15_shirasagi/index.md
   - 新定兒童唱歌:
+      - 專題統計: shintei_jido_shoka/index.md
       - 尋常科 第一學年:
           - 總覽: shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_1_2020.006.0847.0001/0_book_info/index.md

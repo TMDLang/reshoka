@@ -29,6 +29,7 @@ audio: "gunkan.mp3"
 
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈軍艦〉**](../../../shokacho/vol_08/p012_gunkan/index.md)（`G` / `3/4` — [原始 TMD](../../../shokacho/vol_08/p012_gunkan/gunkan.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈軍艦〉**](../../../shokacho/vol_02/p074_gunkan/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_02/p074_gunkan/gunkan.tmd)）
+- **[同名異曲]** 《うたのほん》（唱歌課本）下卷（2006.006.0878）：[**〈ぐんかん（軍艦）〉**](../../../utanohon/ge_2006.006.0878/4_gunkan/index.md)（`G` / `2/4` — [原始 TMD](../../../utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

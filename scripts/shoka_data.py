@@ -66,11 +66,13 @@ NORMALIZED_KEY_NAMES: dict[str, str] = {
 COLLECTION_LABELS: dict[str, str] = {
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
+    "utanohon": "《うたのほん》（唱歌課本）",
     "shokacho": "《楊金土手抄唱歌帖》",
 }
 
 VOLUME_LABELS: dict[str, str] = {
     "grade_3": "公學校唱歌・第三學年",
+    "ge_2006.006.0878": "うたのほん・下卷（初等科第二學年）",
     "grade_1_2020.006.0847.0001": "新定・尋常科第一學年",
     "grade_2_2020.006.0847.0002": "新定・尋常科第二學年",
     "grade_3_2020.006.0847.0003": "新定・尋常科第三學年",

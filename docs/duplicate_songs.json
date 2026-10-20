@@ -1,6 +1,6 @@
 {
-  "total_clusters": 93,
-  "total_songs_in_clusters": 215,
+  "total_clusters": 101,
+  "total_songs_in_clusters": 233,
   "clusters": [
     {
       "id": "akinokoe",
@@ -1375,7 +1375,7 @@
     },
     {
       "id": "gunkan",
-      "display_title": "軍艦",
+      "display_title": "軍艦／ぐんかん",
       "category": "same_title_different_song",
       "relation_type": "同名異曲",
       "description": "同名異曲（各冊收錄之不同詞曲版本）",
@@ -1415,6 +1415,17 @@
               "key": "G",
               "meter": "4/4",
               "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/4_gunkan",
+              "md_file": "utanohon/ge_2006.006.0878/4_gunkan/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "ぐんかん（軍艦）",
+              "jp_title": "ぐんかん",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
             }
           ]
         },
@@ -1453,6 +1464,17 @@
               "key": "G",
               "meter": "4/4",
               "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/4_gunkan",
+              "md_file": "utanohon/ge_2006.006.0878/4_gunkan/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "ぐんかん（軍艦）",
+              "jp_title": "ぐんかん",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
             }
           ]
         },
@@ -1490,6 +1512,66 @@
               "jp_title": "軍艦",
               "key": "G",
               "meter": "3/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/4_gunkan",
+              "md_file": "utanohon/ge_2006.006.0878/4_gunkan/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "ぐんかん（軍艦）",
+              "jp_title": "ぐんかん",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/4_gunkan",
+          "stem": "gunkan",
+          "tmd_file": "utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/4_gunkan/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "ぐんかん（軍艦）",
+          "jp_title": "ぐんかん",
+          "norm_slug": "gunkan",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "108",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "3/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_08/p012_gunkan",
+              "md_file": "shokacho/vol_08/p012_gunkan/index.md",
+              "tmd_file": "shokacho/vol_08/p012_gunkan/gunkan.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "3/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_02/p074_gunkan",
+              "md_file": "shokacho/vol_02/p074_gunkan/index.md",
+              "tmd_file": "shokacho/vol_02/p074_gunkan/gunkan.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "4/4",
               "relation": "同名異曲"
             }
           ]
@@ -1936,7 +2018,7 @@
     },
     {
       "id": "hikoki",
-      "display_title": "ヒカウキ／飛行機",
+      "display_title": "ヒカウキ／ひかうき／飛行機",
       "category": "same_title_different_song",
       "relation_type": "同名異曲",
       "description": "同名異曲（各冊收錄之不同詞曲版本）",
@@ -1965,6 +2047,17 @@
               "key": "G",
               "meter": "2/4",
               "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/10_hikoki",
+              "md_file": "utanohon/ge_2006.006.0878/10_hikoki/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/10_hikoki/hikoki.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "ひかうき（飛機）",
+              "jp_title": "ひかうき",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
             }
           ]
         },
@@ -1990,6 +2083,55 @@
               "raw_title": "ヒカウキ",
               "jp_title": "ヒカウキ",
               "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/10_hikoki",
+              "md_file": "utanohon/ge_2006.006.0878/10_hikoki/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/10_hikoki/hikoki.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "ひかうき（飛機）",
+              "jp_title": "ひかうき",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/10_hikoki",
+          "stem": "hikoki",
+          "tmd_file": "utanohon/ge_2006.006.0878/10_hikoki/hikoki.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/10_hikoki/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "ひかうき（飛機）",
+          "jp_title": "ひかうき",
+          "norm_slug": "hikoki",
+          "key": "F",
+          "meter": "2/4",
+          "tempo": "112",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/hikoki.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "ヒカウキ",
+              "jp_title": "ヒカウキ",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/hikoki.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "飛行機",
+              "jp_title": "飛行機",
+              "key": "G",
               "meter": "2/4",
               "relation": "同名異曲"
             }
@@ -2310,6 +2452,69 @@
       ]
     },
     {
+      "id": "ikenokoi",
+      "display_title": "イケノコヒ／池の 鯉",
+      "category": "same_title_different_song",
+      "relation_type": "同名異曲",
+      "description": "同名異曲（《新定兒童唱歌》第一學年〈イケノコヒ〉與國民學校《うたのほん》下卷〈池の 鯉〉為不同詞曲版本）",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_05_ike_no_koi",
+          "stem": "ike_no_koi",
+          "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_05_ike_no_koi/ike_no_koi.tmd",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_05_ike_no_koi/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_1_2020.006.0847.0001",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "イケノコヒ",
+          "jp_title": "イケノコヒ",
+          "norm_slug": "ikenokoi",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "96",
+          "peers": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/16_ike_no_koi",
+              "md_file": "utanohon/ge_2006.006.0878/16_ike_no_koi/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/16_ike_no_koi/ike_no_koi.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "池の 鯉（池中的鯉魚）",
+              "jp_title": "池の 鯉",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/16_ike_no_koi",
+          "stem": "ike_no_koi",
+          "tmd_file": "utanohon/ge_2006.006.0878/16_ike_no_koi/ike_no_koi.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/16_ike_no_koi/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "池の 鯉（池中的鯉魚）",
+          "jp_title": "池の 鯉",
+          "norm_slug": "ikenokoi",
+          "key": "F",
+          "meter": "2/4",
+          "tempo": "104",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_05_ike_no_koi",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_05_ike_no_koi/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_05_ike_no_koi/ike_no_koi.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "イケノコヒ",
+              "jp_title": "イケノコヒ",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "inakanoyugure",
       "display_title": "田舍の夕暮／田舎の夕暮",
       "category": "same_song_shokacho",
@@ -2430,6 +2635,132 @@
               "key": "G",
               "meter": "2/4",
               "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kaaren",
+      "display_title": "カーレンサン／かあれん",
+      "category": "same_title_different_song",
+      "relation_type": "同名異曲",
+      "description": "同名異曲（臺灣本土八哥題材童謠對照：皆以臺語「加令」ka-lîng／八哥學說日語問候語為題，《新定兒童唱歌》第一學年〈カーレンサン〉唱「コンニチハ」、《うたのほん》下卷〈かあれん〉唱「お早う」，詞曲各異）",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan",
+          "stem": "karensan",
+          "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/karensan.tmd",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_1_2020.006.0847.0001",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "カーレンサン",
+          "jp_title": "カーレンサン",
+          "norm_slug": "kaaren",
+          "key": "F",
+          "meter": "2/4",
+          "tempo": "96",
+          "peers": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/9_kaaren",
+              "md_file": "utanohon/ge_2006.006.0878/9_kaaren/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/9_kaaren/kaaren.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "かあれん（加令／八哥）",
+              "jp_title": "かあれん",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/9_kaaren",
+          "stem": "kaaren",
+          "tmd_file": "utanohon/ge_2006.006.0878/9_kaaren/kaaren.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/9_kaaren/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "かあれん（加令／八哥）",
+          "jp_title": "かあれん",
+          "norm_slug": "kaaren",
+          "key": "F",
+          "meter": "2/4",
+          "tempo": "104",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/karensan.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "カーレンサン",
+              "jp_title": "カーレンサン",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kaerutokumo",
+      "display_title": "カヘル ト クモ／かへると くも",
+      "category": "same_song_g3",
+      "relation_type": "同曲",
+      "description": "同曲（文部省『新訂尋常小學唱歌』第二學年〈かへるとくも〉；《新定兒童唱歌》第二學年與臺灣總督府《うたのほん》下卷共用教材）",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo",
+          "stem": "kaeru_to_kumo",
+          "tmd_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/kaeru_to_kumo.tmd",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_2_2020.006.0847.0002",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "カヘル ト クモ",
+          "jp_title": "カヘル ト クモ",
+          "norm_slug": "kaerutokumo",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "80",
+          "peers": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/8_kaeru_to_kumo",
+              "md_file": "utanohon/ge_2006.006.0878/8_kaeru_to_kumo/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/8_kaeru_to_kumo/kaeru_to_kumo.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "かへると くも（青蛙與蜘蛛）",
+              "jp_title": "かへると くも",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/8_kaeru_to_kumo",
+          "stem": "kaeru_to_kumo",
+          "tmd_file": "utanohon/ge_2006.006.0878/8_kaeru_to_kumo/kaeru_to_kumo.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/8_kaeru_to_kumo/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "かへると くも（青蛙與蜘蛛）",
+          "jp_title": "かへると くも",
+          "norm_slug": "kaerutokumo",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "104",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/kaeru_to_kumo.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "カヘル ト クモ",
+              "jp_title": "カヘル ト クモ",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同曲"
             }
           ]
         }
@@ -3372,6 +3703,69 @@
       ]
     },
     {
+      "id": "koinobori",
+      "display_title": "鯉のぼり／コヒノボリ",
+      "category": "same_title_different_song",
+      "relation_type": "同名異曲",
+      "description": "同名異曲（《新定兒童唱歌》第三學年為『尋常小學唱歌』「甍の波と雲の波…」版，《うたのほん》下卷為國民學校「大キイ マゴヒハ オトウサン…」版）",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori",
+          "stem": "koinobori",
+          "tmd_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/koinobori.tmd",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_3_2020.006.0847.0003",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "鯉のぼり",
+          "jp_title": "鯉のぼり",
+          "norm_slug": "koinobori",
+          "key": "D",
+          "meter": "2/4",
+          "tempo": "100",
+          "peers": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/3_koinobori",
+              "md_file": "utanohon/ge_2006.006.0878/3_koinobori/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/3_koinobori/koinobori.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "コヒノボリ（鯉魚旗）",
+              "jp_title": "コヒノボリ",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/3_koinobori",
+          "stem": "koinobori",
+          "tmd_file": "utanohon/ge_2006.006.0878/3_koinobori/koinobori.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/3_koinobori/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "コヒノボリ（鯉魚旗）",
+          "jp_title": "コヒノボリ",
+          "norm_slug": "koinobori",
+          "key": "F",
+          "meter": "2/4",
+          "tempo": "108",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori",
+              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/koinobori.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+              "raw_title": "鯉のぼり",
+              "jp_title": "鯉のぼり",
+              "key": "D",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "kokai",
       "display_title": "航海",
       "category": "same_title_different_song",
@@ -4253,6 +4647,69 @@
               "raw_title": "水グルマ",
               "jp_title": "水グルマ",
               "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "momotaro",
+      "display_title": "ももたらう／モモタラウ",
+      "category": "same_title_different_song",
+      "relation_type": "同名異曲",
+      "description": "同名異曲（《新定兒童唱歌》第二學年為田邊友三郎詞・田村虎藏曲『幼年唱歌』「桃から生れた桃太郎…」版；《うたのほん》下卷為文部省詞・岡野貞一曲『尋常小學唱歌』「モモタラウサン、モモタラウサン…」版）",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_04_momotaro",
+          "stem": "momotaro",
+          "tmd_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_04_momotaro/momotaro.tmd",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_04_momotaro/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_2_2020.006.0847.0002",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "ももたらう",
+          "jp_title": "ももたらう",
+          "norm_slug": "momotaro",
+          "key": "D",
+          "meter": "2/4",
+          "tempo": "108",
+          "peers": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/2_momotaro",
+              "md_file": "utanohon/ge_2006.006.0878/2_momotaro/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/2_momotaro/momotaro.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "モモタラウ（桃太郎）",
+              "jp_title": "モモタラウ",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/2_momotaro",
+          "stem": "momotaro",
+          "tmd_file": "utanohon/ge_2006.006.0878/2_momotaro/momotaro.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/2_momotaro/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "モモタラウ（桃太郎）",
+          "jp_title": "モモタラウ",
+          "norm_slug": "momotaro",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "108",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_04_momotaro",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_04_momotaro/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_04_momotaro/momotaro.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "ももたらう",
+              "jp_title": "ももたらう",
+              "key": "D",
               "meter": "2/4",
               "relation": "同名異曲"
             }
@@ -5441,6 +5898,69 @@
               "raw_title": "お月さん",
               "jp_title": "お月さん",
               "key": "G",
+              "meter": "4/4",
+              "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semi",
+      "display_title": "せみ",
+      "category": "same_title_different_song",
+      "relation_type": "同名異曲",
+      "description": "同名異曲（臺灣總督府 1934 年《公學校唱歌》第三學年〈せみ〉與 1943 年《うたのほん》下卷〈せみ〉為不同詞曲版本）",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_3/6_semi",
+          "stem": "semi",
+          "tmd_file": "kogakko_shoka/grade_3/6_semi/semi.tmd",
+          "md_file": "kogakko_shoka/grade_3/6_semi/index.md",
+          "book_key": "kogakko_shoka/grade_3",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "せみ（蟬）",
+          "jp_title": "せみ",
+          "norm_slug": "semi",
+          "key": "C",
+          "meter": "4/4",
+          "tempo": "96",
+          "peers": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/6_semi",
+              "md_file": "utanohon/ge_2006.006.0878/6_semi/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/6_semi/semi.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "せみ（蟬）",
+              "jp_title": "せみ",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/6_semi",
+          "stem": "semi",
+          "tmd_file": "utanohon/ge_2006.006.0878/6_semi/semi.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/6_semi/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "せみ（蟬）",
+          "jp_title": "せみ",
+          "norm_slug": "semi",
+          "key": "F",
+          "meter": "2/4",
+          "tempo": "104",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_3/6_semi",
+              "md_file": "kogakko_shoka/grade_3/6_semi/index.md",
+              "tmd_file": "kogakko_shoka/grade_3/6_semi/semi.tmd",
+              "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+              "raw_title": "せみ（蟬）",
+              "jp_title": "せみ",
+              "key": "C",
               "meter": "4/4",
               "relation": "同名異曲"
             }
@@ -7413,6 +7933,132 @@
               "key": "C",
               "meter": "2/4",
               "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urashimataro",
+      "display_title": "うらしま太郎",
+      "category": "same_title_different_song",
+      "relation_type": "同名異曲",
+      "description": "同名異曲（《新定兒童唱歌》第二學年為 1911 年『尋常小學唱歌』「むかしむかし浦島は…」舊版；《うたのほん》下卷為 1941 年國民學校「うらしま太郎は 亀に のり…」改編新詞新曲版）",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro",
+          "stem": "urashima_taro",
+          "tmd_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro/urashima_taro.tmd",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_2_2020.006.0847.0002",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "うらしま太郎",
+          "jp_title": "うらしま太郎",
+          "norm_slug": "urashimataro",
+          "key": "F",
+          "meter": "2/4",
+          "tempo": "100",
+          "peers": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/14_urashimataro",
+              "md_file": "utanohon/ge_2006.006.0878/14_urashimataro/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/14_urashimataro/urashimataro.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "うらしま太郎（浦島太郎）",
+              "jp_title": "うらしま太郎",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/14_urashimataro",
+          "stem": "urashimataro",
+          "tmd_file": "utanohon/ge_2006.006.0878/14_urashimataro/urashimataro.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/14_urashimataro/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "うらしま太郎（浦島太郎）",
+          "jp_title": "うらしま太郎",
+          "norm_slug": "urashimataro",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "108",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro/urashima_taro.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "うらしま太郎",
+              "jp_title": "うらしま太郎",
+              "key": "F",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ushiwakamaru",
+      "display_title": "ウシワカマル／牛わか丸",
+      "category": "mixed_or_variant",
+      "relation_type": "同詞異曲",
+      "description": "同詞異曲（第一節同採文部省『尋常小學唱歌』「京の五條の橋の上…」歌詞；《うたのほん》下卷為文部省原曲五聲小調／都節音階版，《新定兒童唱歌》第一學年則改譜為 G 大調旋律並改寫第二節歌詞）",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru",
+          "stem": "ushiwakamaru",
+          "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru/ushiwakamaru.tmd",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_1_2020.006.0847.0001",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "ウシワカマル",
+          "jp_title": "ウシワカマル",
+          "norm_slug": "ushiwakamaru",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "92",
+          "peers": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/12_ushiwakamaru",
+              "md_file": "utanohon/ge_2006.006.0878/12_ushiwakamaru/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/12_ushiwakamaru/ushiwakamaru.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "牛わか丸（牛若丸）",
+              "jp_title": "牛わか丸",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同詞異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/12_ushiwakamaru",
+          "stem": "ushiwakamaru",
+          "tmd_file": "utanohon/ge_2006.006.0878/12_ushiwakamaru/ushiwakamaru.tmd",
+          "md_file": "utanohon/ge_2006.006.0878/12_ushiwakamaru/index.md",
+          "book_key": "utanohon/ge_2006.006.0878",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "牛わか丸（牛若丸）",
+          "jp_title": "牛わか丸",
+          "norm_slug": "ushiwakamaru",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "108",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru/ushiwakamaru.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "ウシワカマル",
+              "jp_title": "ウシワカマル",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同詞異曲"
             }
           ]
         }

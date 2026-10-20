@@ -30,6 +30,14 @@ audio: "hikoki.mp3"
 2. 主歌伴奏 (Hikoki)：右手 (PianoRH) 演奏原書歌唱主旋律；左手 (PianoLH)
 依國民學校低學年教材純樸明朗之風格配以和聲伴奏。
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ヒカウキ〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/hikoki.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈飛行機〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/hikoki.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text
