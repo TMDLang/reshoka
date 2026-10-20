@@ -5,6 +5,9 @@
 ~ "tag: provenance:printed_text"
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
+~ "tag: theme:weather"
+~ "tag: theme:seasons"
+~ "tag: theme:work"
 ** 農家の秋 **
 != 120
 ?= F

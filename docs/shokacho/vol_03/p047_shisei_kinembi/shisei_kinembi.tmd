@@ -6,6 +6,9 @@
 ~ "tag: provenance:manuscript_copy"
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
+~ "tag: theme:imperial"
+~ "tag: theme:festival"
+~ "tag: theme:ceremonial"
 ** 始政紀念日 **
 != 100
 ?= C

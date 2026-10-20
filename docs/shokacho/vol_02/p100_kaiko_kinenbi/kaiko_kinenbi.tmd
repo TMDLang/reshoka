@@ -6,6 +6,9 @@
 ~ "tag: provenance:manuscript_copy"
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
+~ "tag: theme:school_life"
+~ "tag: theme:work"
+~ "tag: theme:festival"
 ** 開校記念日 **
 != 100
 ?= D
