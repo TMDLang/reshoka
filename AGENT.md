@@ -110,3 +110,7 @@ tmd path/to/song.tmd -p
 ## 例外
 
 只有在確認內容本來就是人工維護、且不會被 `scripts/generate_song_markdown.py` 覆寫時，才直接修改 Markdown。若不確定某個檔案是否為產生檔，先檢查產生器是否會寫入該路徑。
+
+## 歷史研究文件與史料引用規範
+
+在新增或更新本專案的人工維護歷史研究文件（如 `docs/shokacho/research_notes.md`、`docs/shokacho/horai_shokashu.md`、`docs/archives/index.md`、`archives_research.md` 等）時，**凡引用或提及任何史料、館藏文物、檔案、原典書籍、唱片或資料庫紀錄，皆必須附上原始資料 URL**（例如：國立臺灣歷史博物館典藏網連結、國家文化記憶庫連結、中研院《臺灣總督府職員錄系統》查詢網址、日本國立國會圖書館 NDL Digital Collections PID／NDL Lab 網址、高解析掃描原圖 URL 或本地歸檔圖檔連結），確保所有考證敘述皆可追溯並直接查核原始出處。

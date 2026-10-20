@@ -186,11 +186,19 @@ def choose_piano_tmd(folder: Path, main_tmd: Path) -> Path | None:
 
 
 def find_scanned_images(folder: Path) -> list[Path]:
-    images = [
-        p
-        for p in folder.iterdir()
-        if p.is_file() and p.suffix.lower() in {".jpg", ".jpeg", ".png"}
-    ]
+    images = []
+    for p in folder.iterdir():
+        if not p.is_file() or p.suffix.lower() not in {".jpg", ".jpeg", ".png"}:
+            continue
+        try:
+            header = p.read_bytes()[:8]
+        except OSError:
+            continue
+        if p.suffix.lower() in {".jpg", ".jpeg"} and not header.startswith(b"\xff\xd8"):
+            continue
+        if p.suffix.lower() == ".png" and not header.startswith(b"\x89PNG"):
+            continue
+        images.append(p)
     return sorted(images, key=lambda p: (natural_sort_key(p.stem), p.suffix.lower()))
 
 
