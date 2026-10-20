@@ -978,6 +978,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             nav_lines.append("      - 考證與研究筆記: shokacho/research_notes.md")
         if col_slug == "shokacho" and (col_dir / "horai_shokashu.md").exists():
             nav_lines.append("      - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md")
+        if col_slug == "shokacho" and (docs_dir / "archives" / "index.md").exists():
+            nav_lines.append("      - 延伸館藏與日本國會圖書館調查: archives/index.md")
 
         vol_dirs = sorted(
             (d for d in col_dir.iterdir() if d.is_dir()),
