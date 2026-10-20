@@ -5,6 +5,9 @@
 ~ "tag: provenance:printed_text"
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
+~ "tag: theme:transport"
+~ "tag: theme:water"
+~ "tag: theme:travel"
 ** 船子 **
 != 100
 ?= D

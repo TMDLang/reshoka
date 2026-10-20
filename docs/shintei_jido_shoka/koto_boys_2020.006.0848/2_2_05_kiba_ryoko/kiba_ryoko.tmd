@@ -5,6 +5,8 @@
 ~ "tag: provenance:printed_text"
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
+~ "tag: theme:transport"
+~ "tag: theme:travel"
 ** 騎馬旅行 **
 != 100
 ?= F

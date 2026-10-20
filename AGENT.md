@@ -61,10 +61,12 @@ python3 scripts/generate_song_markdown.py --force
 | `provenance` | 資料來源型態 | `manuscript_copy`, `printed_text`, `clipping`, `unknown` |
 | `evidence` | 編輯判斷的證據層級 | `scan_verified`, `transcription_verified`, `inferred`, `editorial` |
 | `genre` | 曲種或音樂功能 | `children_song`, `lullaby`, `march`, `dance`, `work_song`, `ceremonial`, `patriotic`, `folk_tune`, `traditional_theater`, `instrumental` |
-| `theme` | 歌詞／題材主題 | `taiwan`, `nature`, `landscape`, `weather`, `animal`, `plant`, `water`, `transport`, `school_life`, `family`, `friendship`, `work`, `military`, `imperial`, `festival`, `seasons` |
+| `theme` | 歌詞／題材主題 | `taiwan`, `nature`, `landscape`, `weather`, `animal`, `plant`, `water`, `transport`, `school_life`, `family`, `friendship`, `work`, `military`, `imperial`, `festival`, `seasons`, `time_of_day`, `folklore`, `history`, `technology`, `food`, `travel`, `emotion`, `religion`, `community`, `music`, `place`, `sport`, `unclassified` |
 | `form` | 聲部或曲式 | `strophic`, `unison`, `two_part`, `round`, `question_answer`, `instrumental` |
 | `version` | 檔案代表的版本 | `source_transcription`, `piano_arrangement`, `duplicate_version`, `modern_editorial` |
 | `analysis` | 經分析得到的音樂特徵 | `pentatonic`, `major`, `minor`, `modal`, `repeated_melody`, `wide_range` |
+
+題材標記要區分：`theme:weather` 只用於雨、雷、雲、霧、露、風等實際天候現象；四季與季節性景物使用 `theme:seasons`；朝、夕、夜、月夜等時間意象使用 `theme:time_of_day`。
 
 ### 使用原則
 
