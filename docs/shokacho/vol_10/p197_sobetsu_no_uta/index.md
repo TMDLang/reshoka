@@ -64,12 +64,22 @@ d8 | f8 | c3 A A2 F2 | G3 F G2 A G |
 F3 D D2 C2 | F8 | d8 | c3 A A2 F2 |
 G3 F G2 A2 | c3 A A2 c2 | d8 | f8 |
 c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
+z6 C2 | F4 F2 A2 | G3 F G2 A G | F4 A2 c2 |
+d8 | f8 | c3 A A2 F2 | G3 F G2 A G |
+F3 D D2 C2 | F8 | d8 | c3 A A2 F2 |
+G3 F G2 A2 | c3 A A2 c2 | d8 | f8 |
+c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
+z6 C2 | F4 F2 A2 | G3 F G2 A G | F4 A2 c2 |
+d8 | f8 | c3 A A2 F2 | G3 F G2 A G |
+F3 D D2 C2 | F8 | d8 | c3 A A2 F2 |
+G3 F G2 A2 | c3 A A2 c2 | d8 | f8 |
+c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sobetsu_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgKGlOboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdaUWZqXkpxRmZBUpcWloKLxsan3Ysfdy47tnaHgUNCO_Jzm4gT1NBS4tL0VbBzIzL3lbBjcvGSN_EjotLX4tLQQGfNpB0MMTLCk-nbAQKPd0xTUHDyMDIQM_AwEzPwMLEWFNHARRGelkF6SDlvolF6Zl5iTmZiVYKhqZ6RnqGxgoaT5csf7Z2saHp051bjJ7N6TA0fjZ9Kdhwl8q8xNzM5GIrBZ_MvFQFQ2D46UCYRlYKuWlQtrGVAoxpAmRygXT6VBaB9IGYhnog8nHTosdNWx83dz1uXva4eSqY0Q0UXfW4afPjpv2Pm1c-btql8Li55XFzx-PmPY-bFz5u7n_ctOlx8_zHTduBCvc-bu4DSTQtAZuzCWLoRpBZQKOB2oHKm9eAtbaBzWlaC9LRtBps5kqgWqAlQOOAFq543DwPaCjYXJA9QC3tYKP3Q40GmW0EcXbj1MeN6x839TxubHnc2P-4ccXjxtlA0R2PGxc8blz2uHHV48YNQLMbHjcuedy4-XFjN0h543QgAqqaDIw2kMGNQD80AfVC3Aw0BagKKASUBiKgieuAaoHGr3jcNAmst_txUxdQCGj2FCALJArUBHRDUwtYIchEoAmrgU4BGgJ2rTE8kKHBAHQzkAQG5SKgH-eD_bgJHARtkPABCjVCRYGB0QzUtwoiAQwcoCiQA4wmoFWrweZCgxMogQhRIBs5WoCioNCFmAD0wJLHzcCYAobo6sdN64GiQGcBtQNjHRRBYNHtXFr6XFy-iZl5VmH5yYk5DjUGNQrVIPsUbAzNtOzArBoFAwVdODSNBxI1CoZQLog2BosYQfkg2hhIItSA5E1BaqDGmSEZB4JAlXEYQiANIK0gzSCDsFgANQ5ijVk8CGG4D2Egpq0YVkANRLUIXSXYJ0T5AWocET4h7AdQFNRw1XJx6doBS5DMPAUgrcwFAA)]
-- [鋼琴伴奏 TMD 檔案](sobetsu_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ0Pi0Y-njxnXP1vYoaEB4T3Z2A3maCo8apigEZCbm5Ss4Jifn5xYk5mXmpuaVKGhpcSnaKpiZcdnbKrhx2Rjpm9hxcelrcSkokGMcSFtwfmlRcqqVwtMpG4FKn-6YpqBhZGBkoGdgYKZnYGFirKmjEGBoaa6XVZAOUu6bWJSemZeYk5lopWBoqmekZ2isoPF0yfJnaxcbmj7ducXo2ZwOQ-Nn05dqcmnpc3H5JmbmWYXlJyfmONQY1ChUg4xQsDE007IDs2oUDBR04dA0HkjUKBhCuSDaGCxiBOWDaGMgiVADkjcFqYEaZ4ZkHAgCVcZhCIE0gLSCNIMMwmIB1DiINWbxIIThPoSBmLZiWAE1ENUidJVgnxDlB6hxRPiEsB9AUVDDVQuNLHAyCfIgPrqM47VN47VhBkKZIEob6sF4bXOdeG2Yw5C4EPdh6gdrBJLayDFrqG2iTVTswjSCzIebBrWBoGtg4QpzEDDMgO4Dh5wRUB1WL-NLB3gdg7AMh5OQQhGrQfAwIjp04IFJQRiRHjpYUpgPMSkMrE_BEGQs2CkwBtAJOjA2goVVJdRUE7gqROgg24RTP3abYKUNfleQaBUsORDrNeI8BYtxogORCE_B41PXDlghZOYpAGllLgA)]
+- [主旋律 TMD 檔案](sobetsu_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgKGlOboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdaUWZqXkpxRmZBUpcWloKLxsan3Ysfdy47tnaHgUNCO_Jzm4gT1NBS4tL0VbBzIzL3lbBjcvGSN_EjotLX4tLQQGfNpB0MMTLCk-nbAQKPd0xTUHDyMDIQM_AwEzPwMLEWFNHARRGelkF6SDlvolF6Zl5iTmZiVYKhqZ6RnqGxgoaT5csf7Z2saHp051bjJ7N6TA0fjZ9Kdhwl8q8xNzM5GIrBZ_MvFQFQ2D46UCYRlYKuWlQtrGVAoxpAmRygXT6VBaB9IGYhnog8nHTosdNWx83dz1uXva4eSqY0Q0UXfW4afPjpv2Pm1c-btql8Li55XFzx-PmPY-bFz5u7n_ctOlx8_zHTduBCvc-bu4DSTQtAZuzCWLoRpBZQKOB2oHKm9eAtbaBzWlaC9LRtBps5kqgWqAlQOOAFq543DwPaCjYXJA9QC3tYKP3Q40GmW0EcXbj1MeN6x839TxubHnc2P-4ccXjxtlA0R2PGxc8blz2uHHV48YNQLMbHjcuedy4-XFjN0h543QgAqqaDIw2kMGNQD80AfVC3Aw0BagKKASUBiKgieuAaoHGr3jcNAmst_txUxdQCGj2FCALJArUBHRDUwtYIchEoAmrgU4BGgJ2rTE8kKHBAHQzkAQG5SKgH-eD_bgJHARtkPABCjVCRYGB0QzUtwoiAQwcoCiQA4wmoFWrweZCgxMogQhRIBs5WoCioNCFmAD0wJLHzcCYAobo6sdN64GiQGcBtQNjHRRBYNHtXFr6XFy-iZl5VmH5yYk5DjUGNQrVIPsUbAzNtOzArBoFAwVdODSNBxI1CoZQLog2BosYQfkg2hhIItSA5E1BaqDGmSEZB4JAlXEYQiANIK0gzSCDsFgANQ5ijVk8CGG4D2Egpq0YVkANRLUIXSXYJ0T5AWocET4h7AdQFNRw1XJx6doBS5DMPAUstDIXAA)]
+- [鋼琴伴奏 TMD 檔案](sobetsu_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZ0Pi0Y-njxnXP1vYoaEB4T3Z2A3maCo8apigEZCbm5Ss4Jifn5xYk5mXmpuaVKGhpcSnaKpiZcdnbKrhx2Rjpm9hxcelrcSkokGMcSFtwfmlRcqqVwtMpG4FKn-6YpqBhZGBkoGdgYKZnYGFirKmjEGBoaa6XVZAOUu6bWJSemZeYk5lopWBoqmekZ2isoPF0yfJnaxcbmj7ducXo2ZwOQ-Nn05dqcmnpc3H5JmbmWYXlJyfmONQY1ChUg4xQsDE007IDs2oUDBR04dA0HkjUKBhCuSDaGCxiBOWDaGMgiVADkjcFqYEaZ4ZkHAgCVcZhCIE0gLSCNIMMwmIB1DiINWbxIIThPoSBmLZiWAE1ENUidJVgnxDlB6hxRPiEsB9AUVDDVQuNLHAyCfIgPrqM47VN47VhBkKZIEob6sF4bXOdeG2Yw5C4EPdh6gdrBJLayDFrqG2iTVTswjSCzIebBrWBoGtg4QpzEDDMgO4Dh5wRUB1WL-NLB3gdg7AMh5OQQhGrQfAwIjp04IFJQRiRHjpYUpgPMSkMrE_BEGQs2CkwBtAJOjA2goVVJdRUE7gqROgg24RTP3abYKUNfleQaBUsORDrNeI8BYtxogORCE_B41PXDlghZOYpYKGVuQA)]
 
 ## 分析
 
@@ -77,14 +87,14 @@ c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 送別の歌 送別之歌 ]
 ================================================================================
-⏱  Duration:       0:36 (36.4s), 20 measures total
+⏱  Duration:       1:49 (109.1s), 60 measures total
 🎼 Key & Tempo:    首調基準 F, != 66.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  C4 in [Main #1 @ m.1, 0:01]
    - 最高音: F5 in [Main #1 @ m.6, 0:09]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (36.4s)
+🏛  結構:      Main (36.4s) -> Main (36.4s) -> Main (36.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -92,9 +102,11 @@ c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
    - 核心骨幹音:  F, D, G, C, A
    - 調性數值:    F 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): F 大調 (0.85), D 小調 (0.76), C 大調 (0.54)
-   - 五度圈歷程:   -1
+   - 五度圈歷程:   -1 -> -1 -> -1
    - 各段落調性細節:
      • [Main #1]: F 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Main #2]: F 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Main #3]: F 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -121,7 +133,7 @@ c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – F5 (17 個半音 / 1.4 個八度, 57 個音符)
+  - Vocal         : C4 – F5 (17 個半音 / 1.4 個八度, 171 個音符)
 ================================================================================
 ```
 

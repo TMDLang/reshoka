@@ -67,13 +67,26 @@ c6 e2 d4 e4 | G6 G2 G4 G4 | E6 E2 G4 A4 | G12 z4 |
 E6 E2 D4 G4 | C12 z4 | A2 G2 c4 G4 A2 G2 | E4 G4 A2 c2 d4 |
 e4 g4 z4 z4 | C2 D2 E4 G4 A2 G2 | c4 A4 G2 G2 E4 | E4 C4 z4 z4 |
 c2 d2 e4 e4 A4 | G4 G2 z2 A2 A2 c4 | d4 e4 f4 z4 | A2 A2 G4 A4 c2 A2 |
+G4 E4 G2 G2 E4 | E4 C4 z4 z4 | E6 G2 A4 G4 | C6 C2 C4 C4 |
+D6 D2 E4 G4 | E12 z4 | A6 A2 G4 A4 | c6 d2 e4 e4 |
+G6 G2 A4 c4 | A12 z4 | c6 e2 d4 e4 | G6 G2 G4 G4 |
+E6 E2 G4 A4 | G12 z4 | E6 E2 D4 G4 | C12 z4 |
+A2 G2 c4 G4 A2 G2 | E4 G4 A2 c2 d4 | e4 g4 z4 z4 | C2 D2 E4 G4 A2 G2 |
+c4 A4 G2 G2 E4 | E4 C4 z4 z4 | c2 d2 e4 e4 A4 | G4 G2 z2 A2 A2 c4 |
+d4 e4 f4 z4 | A2 A2 G4 A4 c2 A2 | G4 E4 G2 G2 E4 | E4 C4 z4 z4 |
+E6 G2 A4 G4 | C6 C2 C4 C4 | D6 D2 E4 G4 | E12 z4 |
+A6 A2 G4 A4 | c6 d2 e4 e4 | G6 G2 A4 c4 | A12 z4 |
+c6 e2 d4 e4 | G6 G2 G4 G4 | E6 E2 G4 A4 | G12 z4 |
+E6 E2 D4 G4 | C12 z4 | A2 G2 c4 G4 A2 G2 | E4 G4 A2 c2 d4 |
+e4 g4 z4 z4 | C2 D2 E4 G4 A2 G2 | c4 A4 G2 G2 E4 | E4 C4 z4 z4 |
+c2 d2 e4 e4 A4 | G4 G2 z2 A2 A2 c4 | d4 e4 f4 z4 | A2 A2 G4 A4 c2 A2 |
 G4 E4 G2 G2 E4 | E4 C4 z4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kanariya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgKGBGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdiXmZuSC9WloKj5tWP27uety86nHzEgUtLS5FWwVLMy57WwVnLhsTfRM7kM4XK-e93zPrxdL9zxbNfdq6-mlvI9jAZ7M3AYWfdUx4PmXD86ZdT3Z0goWfTtn4bG3P0x2b3-_pMDIwMtAzMDDTM7AwMX6_pxMUKHpZBemPGiYDmeYgJlDV8zVrFIwtgGLGlgovFzS-39PzdMnyZ2sXAy0CGvp05xYg49mcjie7ep5NX_qsqwVokBIXl76Wgi21AJeCgsLTvvnPZu94sbn9xYquFx3tQD8A_f20dcWzae1ANz7d0PusvVMBiwcUnuzoetrbBXT1s85uoOueb1j4Yu0cDD91AsMKZM2LVfufNSwHWdDd-2LmfKDo4-Z-oCDQDmcFoL_BTKDinqedvUDfP1_foACMBwWgaqAY0NSns2cDxV7s7VQwhgiDDAVa-3T96hcrdr9YMQNkYkMPyMmEAvHJrl2PmzoeN3XpPW7o5QKZAzT_yY6Gxw1zIDYDDYHbDXP_46Zlj5v3PG7a_7h50-Pm9Y-bdj5uXgPiNjQgpyWgp0CqDfXAGpq2P25e-7i5Dywx73FzN1g1UGcbiNu0G6xmNUiDEUjD7sfNnSDVTZvBGqbBNABtXoiuwRioAaSo63HTOrANCx43Nz5ubgdpAOkEslE1PG5a8rhpBYzcC3J9cz9YNcTpYNXNoNQLDopGYIgBg-L51glPN-wDBgPECKBH-8FGbAUaDFYKCi-EImhgQiILKA-NK2AUwlIQMNl0A5MNMKwxEhJ5Qf24aR_Yk0ClwFCYCtLZ3AsLOWDgA8MSGKKrga4Gq25uAYuuAIsC7ZmPCGSQ2TPB4TIBohTJamQngVQDHbDocfOkx82g-ASppjwzQoGClj4Xl3diXmJRZmWiVVh-cmKOQ41BjUI1yBYFGwstOzADWzGAno5hOUhBw9BE4emGfqCQDjwra2LRD7QaZHaNgrGCLhCaKpiBSV2giCFYxBBMg3CNghFYxAisFqIGogsCDUAiUNNApugCSZAqEBtoWhxEc5yCMYgFJmrA8jBbwSpgWtGNBHoeM5EqaHjqKHh6aiJ8AbUFaDrQIgxbQDSyu42R3AdRg9VaRIIHWohiHcwYUMAgBxqyMXjjDpJtYAUcMPsYmik8begGC0Ci71n_7OfrpgNrHQVDI7AUKIYhUtA8Bi2hgbkJX_yC4gIcOhAvm0JdD-EBJcDhBRQDKwERINcjR6khUsRD9IONg6QXU7AUxEhQEGBoBluAiHlEmJsC1ZlBnABOYnAlJjBHINIUIj0BVZtBDYC4CbcDarm4dO0UYNlLAchW5gIA)]
-- [鋼琴伴奏 TMD 檔案](kanariya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpxc9fj5lWPm5e839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRWcuWxM9E3suOoUlF6snPd-z6wXS_c_WzT3aevqp72NSiDhZ7M3AYWfdUx4PmXD86ZdT3Z0goWfTtn4bG3P0x2bgXYYGRgZ6BkYmOkZWJgYA20IMASyswrSHzVMBjLNQUygqudr1igYWwDFjC0VXi5ofL-n5-mS5c_WLgZaBDT06c4tQMazOR1PdvU8m770WVcL0CAlLi7vxLzEoszKRKuw_OTEHIcagxqFai4FILCx0LIDM2oUjBV0gdBUwQxM6gJFDMEihmAahGsUjMAiRmC1EDUQXRBoABKBmgYyRRdIglSB2EDT4iCa4xSMQSwwUQOWh9kKVgHTimkk1ACgRqAZGAaAaGQnGSNZDVGDaSJMJchbyF7G5h1TiP0QQ02hmiE8oATYRUAxsBIQAdKM4nikUIPoBxsHCWxTsBTESJALMDSDLUAEG8JXpkB1ZhAngOMHrsQE5giEDxCRAVRtBjUA4ibcDqhFSjwBmYl5-UEe2JOPoTYsAZlog-ww1saViMzjtWHpCKIJrhRqBJaIAhsJcjxELYQP9JQ2IlUZxmmDfQ6jQbpgiQOiHqoaYRyWeIYZCDTCXBscnNjNg7gC1d3GUBFIAABjA6oeS1KG64AGBkQpviAAxZ4xxHUQW6CpCCkEwcnAFOJqUKKBuNs4ThtnikTVDTLPBGIFxAughAFRAo41_MkTPfxhoQAxHZZQoeYDzUMNXaM4baxJFjm-ockWIgRxF8iFUJfhcCJGAvZBScAmiAQcD0ImYBJod3w8CgbmFiAJwhB1YPVQrgHCxVDVxnBdmOaA5GDyCDUwEUyzoJbAHIhkPdzFCMeBMMIIiAKYOHYnYzMVaCRcA1gxLuVAhZAAA_PgZmN6AoTBDoVbAHc21FGoemDBgaQH4Q0Ue4Dxq2unAItiBSBbmQsA)]
+- [主旋律 TMD 檔案](kanariya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgKGBGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdiXmZuSC9WloKj5tWP27uety86nHzEgUtLS5FWwVLMy57WwVnLhsTfRM7kM4XK-e93zPrxdL9zxbNfdq6-mlvI9jAZ7M3AYWfdUx4PmXD86ZdT3Z0goWfTtn4bG3P0x2b3-_pMDIwMtAzMDDTM7AwMX6_pxMUKHpZBemPGiYDmeYgJlDV8zVrFIwtgGLGlgovFzS-39PzdMnyZ2sXAy0CGvp05xYg49mcjie7ep5NX_qsqwVokBIXl76Wgi21AJeCgsLTvvnPZu94sbn9xYquFx3tQD8A_f20dcWzae1ANz7d0PusvVMBiwcUnuzoetrbBXT1s85uoOueb1j4Yu0cDD91AsMKZM2LVfufNSwHWdDd-2LmfKDo4-Z-oCDQDmcFoL_BTKDinqedvUDfP1_foACMBwWgaqAY0NSns2cDxV7s7VQwhgiDDAVa-3T96hcrdr9YMQNkYkMPyMmEAvHJrl2PmzoeN3XpPW7o5QKZAzT_yY6Gxw1zIDYDDYHbDXP_46Zlj5v3PG7a_7h50-Pm9Y-bdj5uXgPiNjQgpyWgp0CqDfXAGpq2P25e-7i5Dywx73FzN1g1UGcbiNu0G6xmNUiDEUjD7sfNnSDVTZvBGqbBNABtXoiuwRioAaSo63HTOrANCx43Nz5ubgdpAOkEslE1PG5a8rhpBYzcC3J9cz9YNcTpYNXNoNQLDopGYIgBg-L51glPN-wDBgPECKBH-8FGbAUaDFYKCi-EImhgQiILKA-NK2AUwlIQMNl0A5MNMKwxEhJ5Qf24aR_Yk0ClwFCYCtLZ3AsLOWDgA8MSGKKrga4Gq25uAYuuAIsC7ZmPCGSQ2TPB4TIBohTJamQngVQDHbDocfOkx82g-ASppjwzQoGClj4Xl3diXmJRZmWiVVh-cmKOQ41BjUI1yBYFGwstOzADWzGAno5hOUhBw9BE4emGfqCQDjwra2LRD7QaZHaNgrGCLhCaKpiBSV2giCFYxBBMg3CNghFYxAisFqIGogsCDUAiUNNApugCSZAqEBtoWhxEc5yCMYgFJmrA8jBbwSpgWtGNBHoeM5EqaHjqKHh6aiJ8AbUFaDrQIgxbQDSyu42R3AdRg9VaRIIHWohiHcwYUMAgBxqyMXjjDpJtYAUcMPsYmik8begGC0Ci71n_7OfrpgNrHQVDI7AUKIYhUtA8Bi2hgbkJX_yC4gIcOhAvm0JdD-EBJcDhBRQDKwERINcjR6khUsRD9IONg6QXU7AUxEhQEGBoBluAiHlEmJsC1ZlBnABOYnAlJjBHINIUIj0BVZtBDYC4CbcDarm4dO0UYNlLAQ9bmQsA)]
+- [鋼琴伴奏 TMD 檔案](kanariya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpxc9fj5lWPm5e839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRWcuWxM9E3suOoUlF6snPd-z6wXS_c_WzT3aevqp72NSiDhZ7M3AYWfdUx4PmXD86ZdT3Z0goWfTtn4bG3P0x2bgXYYGRgZ6BkYmOkZWJgYA20IMASyswrSHzVMBjLNQUygqudr1igYWwDFjC0VXi5ofL-n5-mS5c_WLgZaBDT06c4tQMazOR1PdvU8m770WVcL0CAlLi7vxLzEoszKRKuw_OTEHIcagxqFai4FILCx0LIDM2oUjBV0gdBUwQxM6gJFDMEihmAahGsUjMAiRmC1EDUQXRBoABKBmgYyRRdIglSB2EDT4iCa4xSMQSwwUQOWh9kKVgHTimkk1ACgRqAZGAaAaGQnGSNZDVGDaSJMJchbyF7G5h1TiP0QQ02hmiE8oATYRUAxsBIQAdKM4nikUIPoBxsHCWxTsBTESJALMDSDLUAEG8JXpkB1ZhAngOMHrsQE5giEDxCRAVRtBjUA4ibcDqhFSjwBmYl5-UEe2JOPoTYsAZlog-ww1saViMzjtWHpCKIJrhRqBJaIAhsJcjxELYQP9JQ2IlUZxmmDfQ6jQbpgiQOiHqoaYRyWeIYZCDTCXBscnNjNg7gC1d3GUBFIAABjA6oeS1KG64AGBkQpviAAxZ4xxHUQW6CpCCkEwcnAFOJqUKKBuNs4ThtnikTVDTLPBGIFxAughAFRAo41_MkTPfxhoQAxHZZQoeYDzUMNXaM4baxJFjm-ockWIgRxF8iFUJfhcCJGAvZBScAmiAQcD0ImYBJod3w8CgbmFiAJwhB1YPVQrgHCxVDVxnBdmOaA5GDyCDUwEUyzoJbAHIhkPdzFCMeBMMIIiAKYOHYnYzMVaCRcA1gxLuVAhZAAA_PgZmN6AoTBDoVbAHc21FGoemDBgaQH4Q0Ue4Dxq2unAItiBTxsZS4A)]
 
 ## 分析
 
@@ -81,14 +94,14 @@ G4 E4 G2 G2 E4 | E4 C4 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ カナリヤ ]
 ================================================================================
-⏱  Duration:       1:05 (65.0s), 26 measures total
+⏱  Duration:       3:15 (195.0s), 78 measures total
 🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – G5 (MIDI 79) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
    - 最低音:  C4 in [Kanariya #1 @ m.2, 0:02]
    - 最高音: G5 in [Kanariya #1 @ m.17, 0:40]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Kanariya (65.0s)
+🏛  結構:      Kanariya (65.0s) -> Kanariya (65.0s) -> Kanariya (65.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -96,9 +109,11 @@ G4 E4 G2 G2 E4 | E4 C4 z4 z4 |
    - 核心骨幹音:  G, E, C, A, D
    - 調性數值:    C 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.80), E 小調 (0.76), G 大調 (0.67)
-   - 五度圈歷程:   +0
+   - 五度圈歷程:   +0 -> +0 -> +0
    - 各段落調性細節:
      • [Kanariya #1]: C 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [Kanariya #2]: C 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [Kanariya #3]: C 大調 (r: 0.80, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -125,7 +140,7 @@ G4 E4 G2 G2 E4 | E4 C4 z4 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – G5 (19 個半音 / 1.6 個八度, 96 個音符)
+  - Vocal         : C4 – G5 (19 個半音 / 1.6 個八度, 288 個音符)
 ================================================================================
 ```
 

@@ -59,13 +59,17 @@ z2 z2 z2 z2 z2 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 | B4 B2 B2 c2 d2 |
 c6 c4 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 | B4 B2 A2 B2 c2 |
 B6 B4 B2 | c4 c2 c4 c2 | d4 d2 d4 d2 | e2 d2 d2 c4 B2 |
 c6 c4 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 | B4 B2 A2 B2 c2 |
-B6 B4 z2 |
+B6 B4 z2 | z2 z2 z2 z2 z2 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 |
+B4 B2 B2 c2 d2 | c6 c4 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 |
+B4 B2 A2 B2 c2 | B6 B4 B2 | c4 c2 c4 c2 | d4 d2 d4 d2 |
+e2 d2 d2 c4 B2 | c6 c4 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 |
+B4 B2 A2 B2 c2 | B6 B4 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tasukebune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGhIboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdYMmC_KISJS4tLYWnXSsfN0580bFTQePZ1InPp8wHMjUVtLS4FG0VzI247G0VnHS4bMz0LexAxjxtXfN07Y5nCxY-nbLx2dqepzs2K2iA_KqjYGxg-HJBo47Csxlrn07qMXq6c4vhszkdRpbPpi_VVOLi0tfiUlBQAGp5sXLe-z2zQJwnOxoeNzSCWI-b-x83bXrctP1x01qFx02LHjcvfNy853HT6sdNe4CSbY-bNz9ubgTKrAcJN68ES4LYEM1LHjfPe9zc9bhpJ0QzWB7Ib54P5O9_3LTxcfMquObVYHIqXPP8x80rICRQCdBCoBuAlnUDDYI4aztQC1AGKAbUNu1xcy9MJ0hm8eOmZWBGH5C_FaQfpGrS4-YOIH8n2MpJQGOAbgIKdzxuXgDV_GRXD8zrjTMfN_Y_bgT6ftLjpiYgH-gaoO8aHjd1AzmTHzdNfNy4HqwMJNzzuBHkO4jOyY8b1z1u7H7cOAfMAcqD-KseN-4H8ueDFIMMbAIGH1AGqGwWXCcwUDogJMSYvseNSyAWQl0D1Ab0BVDbtseNayF6gO4AGj0JaAdQsglkFUge6MBOoOQ-kFBTD5DVDRYGWwC0TUufi8s3MTPPKiw_OTHHocagRqEaZJyCjYWWHZhRo2AAh6bxQK6xgi4Qg0hDIM8ITJvFg-TA0oZgAUOghDFUWhdMgiShBhJlgnk82BAIFyQAVg01AaTHCEoimwey0gTMhphKZQcYAE2o5eLStVMAhZkCkFbmAgA)]
-- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjatfJx48QXHTsVNJ5Nnfh8ynwgU1NBV-Fl957nE7Y82bPl6dL-550dClpaXIq2CuZGXPa2Ck46XDZm-hZ2XHUKSk9b1zxdu-PZgoVPp2x8trbn6Y7NChoBRoaGOgrGBoYvFzTqKDybsfbppB6jpzu3GD6b02Fk-Wz6Uk0lLi7fxMw8q7D85MQchxqDGoVqLgUgsLHQsgMzahQM4NA0Hsg1BrrJGEwaAnlGYNosHiQHljYECxgCJYyh0rpgEiQJNZAoE8zjwYZAuCABsGqoCSA9RlAS2TyQlSZgNsRUKjvAAGhCLTTAAjIT8_KDPAgFmTFymEAcAbJKV8EkHoSA0mAVQHGwJASBXAUWAYsB3YpwOqlGQaIMYhaYQgoGJJVQ4xCmg5wADgFwyEClaeUmjHD1IRiuQC0KhhAjoBQw5nXQBNAVmEIVQGiQrVAPEDIIVSO60QiD8KtDNskIroKGjgKGqa6dAihYFYC0MhcA)]
+- [主旋律 TMD 檔案](tasukebune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGhIboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdYMmC_KISJS4tLYWnXSsfN0580bFTQePZ1InPp8wHMjUVtLS4FG0VzI247G0VnHS4bMz0LexAxjxtXfN07Y5nCxY-nbLx2dqepzs2K2iA_KqjYGxg-HJBo47Csxlrn07qMXq6c4vhszkdRpbPpi_VVOLi0tfiUlBQAGp5sXLe-z2zQJwnOxoeNzSCWI-b-x83bXrctP1x01qFx02LHjcvfNy853HT6sdNe4CSbY-bNz9ubgTKrAcJN68ES4LYEM1LHjfPe9zc9bhpJ0QzWB7Ib54P5O9_3LTxcfMquObVYHIqXPP8x80rICRQCdBCoBuAlnUDDYI4aztQC1AGKAbUNu1xcy9MJ0hm8eOmZWBGH5C_FaQfpGrS4-YOIH8n2MpJQGOAbgIKdzxuXgDV_GRXD8zrjTMfN_Y_bgT6ftLjpiYgH-gaoO8aHjd1AzmTHzdNfNy4HqwMJNzzuBHkO4jOyY8b1z1u7H7cOAfMAcqD-KseN-4H8ueDFIMMbAIGH1AGqGwWXCcwUDogJMSYvseNSyAWQl0D1Ab0BVDbtseNayF6gO4AGj0JaAdQsglkFUge6MBOoOQ-kFBTD5DVDRYGWwC0TUufi8s3MTPPKiw_OTHHocagRqEaZJyCjYWWHZhRo2AAh6bxQK6xgi4Qg0hDIM8ITJvFg-TA0oZgAUOghDFUWhdMgiShBhJlgnk82BAIFyQAVg01AaTHCEoimwey0gTMhphKZQcYAE2o5eLStVMAhZkCEq3MBQA)]
+- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjatfJx48QXHTsVNJ5Nnfh8ynwgU1NBV-Fl957nE7Y82bPl6dL-550dClpaXIq2CuZGXPa2Ck46XDZm-hZ2XHUKSk9b1zxdu-PZgoVPp2x8trbn6Y7NChoBRoaGOgrGBoYvFzTqKDybsfbppB6jpzu3GD6b02Fk-Wz6Uk0lLi7fxMw8q7D85MQchxqDGoVqLgUgsLHQsgMzahQM4NA0Hsg1BrrJGEwaAnlGYNosHiQHljYECxgCJYyh0rpgEiQJNZAoE8zjwYZAuCABsGqoCSA9RlAS2TyQlSZgNsRUKjvAAGhCLTTAAjIT8_KDPAgFmTFymEAcAbJKV8EkHoSA0mAVQHGwJASBXAUWAYsB3YpwOqlGQaIMYhaYQgoGJJVQ4xCmg5wADgFwyEClaeUmjHD1IRiuQC0KhhAjoBQw5nXQBNAVmEIVQGiQrVAPEDIIVSO60QiD8KtDNskIroKGjgKGqa6dAihYFZBoZS4A)]
 
 ## 分析
 
@@ -73,14 +77,14 @@ B6 B4 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 助け船 救生船 ]
 ================================================================================
-⏱  Duration:       0:42 (42.5s), 17 measures total
+⏱  Duration:       1:25 (85.0s), 34 measures total
 🎼 Key & Tempo:    首調基準 B,, != 72.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D#5 (MIDI 75) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
    - 最低音:  F4 in [Main #1 @ m.1, 0:02]
    - 最高音: D#5 in [Main #1 @ m.12, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (42.5s)
+🏛  結構:      Main (42.5s) -> Main (42.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -88,9 +92,10 @@ B6 B4 z2 |
    - 核心骨幹音:  A#, C, D, F, G
    - 調性數值:    A# 大調 [相關度: 0.72, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): A# 大調 (0.72), F 大調 (0.55), D 小調 (0.49)
-   - 五度圈歷程:   -2
+   - 五度圈歷程:   -2 -> -2
    - 各段落調性細節:
      • [Main #1]: A# 大調 (r: 0.72, 自然音純度: 100.0%)
+     • [Main #2]: A# 大調 (r: 0.72, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -117,7 +122,7 @@ B6 B4 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : F4 – D#5 (10 個半音 / 0.8 個八度, 67 個音符)
+  - Vocal         : F4 – D#5 (10 個半音 / 0.8 個八度, 134 個音符)
 ================================================================================
 ```
 

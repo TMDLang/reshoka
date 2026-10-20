@@ -51,12 +51,16 @@ z2 F2 G2 F2 | B4 d2 c2 | B2 c2 B2 F2 | G4 B2 z2 |
 z2 G2 G2 F2 | B2 c2 B2 G2 | F2 G2 F2 d2 | c6 z2 |
 d2 d2 d2 f2 | G2 G2 B4 | c2 d2 c2 B2 | c6 z2 |
 d6 c2 | B2 c2 B2 G2 | B2 c2 B2 G2 | B6 z2 |
+z2 F2 G2 F2 | B4 d2 c2 | B2 c2 B2 F2 | G4 B2 z2 |
+z2 G2 G2 F2 | B2 c2 B2 G2 | F2 G2 F2 d2 | c6 z2 |
+d2 d2 d2 f2 | G2 G2 B4 | c2 d2 c2 B2 | c6 z2 |
+d6 c2 | B2 c2 B2 G2 | B2 c2 B2 G2 | B6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](otomodachi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxEboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW2mJuZk5SOZCRYsyU_NSijMyC5S4tLQUHjetetrf_bJxyvs9HU-X7n02pxvIfb-nU0FLi0vRVsHQwILL3lbBSYfLxkjfxA5k1tMpG5-t7Xm6Y5oCKGwUNJ7s6nm6c4uCvsLTJcufrV38dOceIBeiCCj4YvKaFxO6gNyXs9sUjMxeLmjUVOLi0tdSsKUW4FJQwOkLkFwwJEYUEO7WMDIwMtAzMDDTM7AwMdbUAXtEL6sgHaTcN7EoPTMvMUcBFLfFVgqmQE-Q6kWg4LOlex83bX_ctB5kpndqJdD-JZ2Pm9e-WLVfQcMpSSE3MSu_CGh1SCYwThSAYQtkpuYW5Fuh6vSpLMpMLrYCMQ31FB43d4CkmvuBrPmPmzc_bu4CsrrAqOVx02ogZ8nj5mYgBxwozZtAMk07gMGz4XHzysfNQBKooWkVyJzmRY-bGx43N0KD73Hz7MdNex43LQFy9gLdCTamDchZ9rh5Ddg9QJnmLoi5yHY3rX7cvAKoAKtSI5CbgY7rBroFqGDn42agaiBnEcKQx01rgDJgZ4O8thziHqDjgI4BKkMxlI4upzxdQoGClj4Xl39Jfm5-CrDIyLQKy09OzHGoMahRqAbZo2BjaKZlB2bVKBgo6CqYxgMJMxABZtUoGAJJEDQGYiO4CIgFoqGKwBpAECQGMqYGbCQwnznkgJOQrYISMOyAXgV6F5J-gHgzyLdIuAUoD0tEIK4SyPGo5sQbgU0Cqe4GpTBQrAJpkC4QHxyxCJPhcQuyGBi5cAMhfgW7Gt2vMJ-BxWvQwwMUCjVgNTCI07dAt4HdAE7_QPZKIAbR4CwAyktQ9zYAcSNOr4ISYfMeUJIEpRMgG-QlUJoBp0ecxtSAXQrDpohIAhOwOIX4BBazIFHi_Aa2eDbQASCHgRM-kA9K-UAKnPRR3dnchdt7ZJsE8SEMYqZMaPzhECIYe2jpE5wuV0AdQrz3yDCmlotL104BkWMVgDxlLgA)]
-- [鋼琴伴奏 TMD 檔案](otomodachi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOppf_fLxinv93Q8Xbr32ZxuIPf9nk4FLS0uRVsFQwMLLntbBScdLhsjfRM7rjoFpadTNj5b2_N0xzSFACNjIwWNJ7t6nu7coqCv8HTJ8mdrFz_duQfIhSgCCr6YvObFhC4g9-XsNgUjs5cLGjWVuLj0tRRsqQW4FBRw--JRwxSFgMzEvHwFx-Tk_NyCxLzM3NS8EpCe4PzSouRUKwWEfzSMDIwM9AwMzPQMLEyMNXXAHtTLKkgHKfdNLErPzEvMUcjLL0kttlIwBXqOVK8DBZ8t3fu4afvjpvUgMyn3PBQoaOlzcfmX5OfmpyQmZ2RaheUnJ-Y41BjUKFSD7FGwMTTTsgOzahQMFHQVTOOBhBmIALNqFAyBJAgaA7ERXATEAtFQRWANIAgSAxlTAzYSGJkOOZVFmcnFtgpKj5s7gLGxXeFxcz8QzwfizUDchYRbgPKrgfSSx83NIK4SyPGo5sQbgU0Cqe4G4k1AHTuBNEgXiL8I1eSmNUAMMQ0Yss3L4QZC_Ap2NbpfYT4Di9eghwcoFGrAamAQp2-BbgO7YQcQbwCyVwIxiAaJrQLSwNAAu7cBiBtxerUJpGQPUAuQbloGZIO8BAzEpiV4jakBuxSGTRGRBCZgcQrxCSxmQaLE-Q1s8WygA0AOAzlkL5C_FhJrbZjubO7C7T2yTYL4EAYxUyY0_nAIEYw9tPQJTpcroA4h3ntkGFOLkl3BJVSQB44MW52bVqtgHK8NTpoYOdc0XhvmVUNtcDKI14aEE1QGLRObxGvD8zFUBSJ4gMENtQcj16CZhj3jQFwAVmwOcQZmFACjBqwKlYQkXpjjYDSS58CGgm1H9iVUAXE2InkZVyDBvYWsCsqDOQoaSHCXISzDEqs-KLFqAY9Uw3igsfEwCh_fGMw3AZIgDBQwQHgLuyaYWrAAVBPEFJCsEUQRNlMwrIIYi2QHkCJoCg63gHjIGFkLyBhg4HnmlRTlY8sNJojMUFCrEG0YqxBtlhsL5EabAJmmQBaadtRgR2gH2gWMQ5AfQQkWrMs1LyUzL52AraAsCLYLaDXQViOg5XBrkQ3AZS_QPnDQgYMNok3XTgHsYAUgA5FqQDyIgSCWMhcA)]
+- [主旋律 TMD 檔案](otomodachi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxEboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW2mJuZk5SOZCRYsyU_NSijMyC5S4tLQUHjetetrf_bJxyvs9HU-X7n02pxvIfb-nU0FLi0vRVsHQwILL3lbBSYfLxkjfxA5k1tMpG5-t7Xm6Y5oCKGwUNJ7s6nm6c4uCvsLTJcufrV38dOceIBeiCCj4YvKaFxO6gNyXs9sUjMxeLmjUVOLi0tdSsKUW4FJQwOkLkFwwJEYUEO7WMDIwMtAzMDDTM7AwMdbUAXtEL6sgHaTcN7EoPTMvMUcBFLfFVgqmQE-Q6kWg4LOlex83bX_ctB5kpndqJdD-JZ2Pm9e-WLVfQcMpSSE3MSu_CGh1SCYwThSAYQtkpuYW5Fuh6vSpLMpMLrYCMQ31FB43d4CkmvuBrPmPmzc_bu4CsrrAqOVx02ogZ8nj5mYgBxwozZtAMk07gMGz4XHzysfNQBKooWkVyJzmRY-bGx43N0KD73Hz7MdNex43LQFy9gLdCTamDchZ9rh5Ddg9QJnmLoi5yHY3rX7cvAKoAKtSI5CbgY7rBroFqGDn42agaiBnEcKQx01rgDJgZ4O8thziHqDjgI4BKkMxlI4upzxdQoGClj4Xl39Jfm5-CrDIyLQKy09OzHGoMahRqAbZo2BjaKZlB2bVKBgo6CqYxgMJMxABZtUoGAJJEDQGYiO4CIgFoqGKwBpAECQGMqYGbCQwnznkgJOQrYISMOyAXgV6F5J-gHgzyLdIuAUoD0tEIK4SyPGo5sQbgU0Cqe4GpTBQrAJpkC4QHxyxCJPhcQuyGBi5cAMhfgW7Gt2vMJ-BxWvQwwMUCjVgNTCI07dAt4HdAE7_QPZKIAbR4CwAyktQ9zYAcSNOr4ISYfMeUJIEpRMgG-QlUJoBp0ecxtSAXQrDpohIAhOwOIX4BBazIFHi_Aa2eDbQASCHgRM-kA9K-UAKnPRR3dnchdt7ZJsE8SEMYqZMaPzhECIYe2jpE5wuV0AdQrz3yDCmlotL104BkWMVMHjKXAA)]
+- [鋼琴伴奏 TMD 檔案](otomodachi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOppf_fLxinv93Q8Xbr32ZxuIPf9nk4FLS0uRVsFQwMLLntbBScdLhsjfRM7rjoFpadTNj5b2_N0xzSFACNjIwWNJ7t6nu7coqCv8HTJ8mdrFz_duQfIhSgCCr6YvObFhC4g9-XsNgUjs5cLGjWVuLj0tRRsqQW4FBRw--JRwxSFgMzEvHwFx-Tk_NyCxLzM3NS8EpCe4PzSouRUKwWEfzSMDIwM9AwMzPQMLEyMNXXAHtTLKkgHKfdNLErPzEvMUcjLL0kttlIwBXqOVK8DBZ8t3fu4afvjpvUgMyn3PBQoaOlzcfmX5OfmpyQmZ2RaheUnJ-Y41BjUKFSD7FGwMTTTsgOzahQMFHQVTOOBhBmIALNqFAyBJAgaA7ERXATEAtFQRWANIAgSAxlTAzYSGJkOOZVFmcnFtgpKj5s7gLGxXeFxcz8QzwfizUDchYRbgPKrgfSSx83NIK4SyPGo5sQbgU0Cqe4G4k1AHTuBNEgXiL8I1eSmNUAMMQ0Yss3L4QZC_Ap2NbpfYT4Di9eghwcoFGrAamAQp2-BbgO7YQcQbwCyVwIxiAaJrQLSwNAAu7cBiBtxerUJpGQPUAuQbloGZIO8BAzEpiV4jakBuxSGTRGRBCZgcQrxCSxmQaLE-Q1s8WygA0AOAzlkL5C_FhJrbZjubO7C7T2yTYL4EAYxUyY0_nAIEYw9tPQJTpcroA4h3ntkGFOLkl3BJVSQB44MW52bVqtgHK8NTpoYOdc0XhvmVUNtcDKI14aEE1QGLRObxGvD8zFUBSJ4gMENtQcj16CZhj3jQFwAVmwOcQZmFACjBqwKlYQkXpjjYDSS58CGgm1H9iVUAXE2InkZVyDBvYWsCsqDOQoaSHCXISzDEqs-KLFqAY9Uw3igsfEwCh_fGMw3AZIgDBQwQHgLuyaYWrAAVBPEFJCsEUQRNlMwrIIYi2QHkCJoCg63gHjIGFkLyBhg4HnmlRTlY8sNJojMUFCrEG0YqxBtlhsL5EabAJmmQBaadtRgR2gH2gWMQ5AfQQkWrMs1LyUzL52AraAsCLYLaDXQViOg5XBrkQ3AZS_QPnDQgYMNok3XTgHsYAUgA5FqMHkQ40EsZS4A)]
 
 ## 分析
 
@@ -64,14 +68,14 @@ d6 c2 | B2 c2 B2 G2 | B2 c2 B2 G2 | B6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ オ友達（好朋友） ]
 ================================================================================
-⏱  Duration:       0:17 (17.8s), 16 measures total
+⏱  Duration:       0:35 (35.6s), 32 measures total
 🎼 Key & Tempo:    首調基準 B,, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – F5 (MIDI 77) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  F4 in [Otomodachi #1 @ m.1, 0:00]
    - 最高音: F5 in [Otomodachi #1 @ m.9, 0:09]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Otomodachi (17.8s)
+🏛  結構:      Otomodachi (17.8s) -> Otomodachi (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -79,9 +83,10 @@ d6 c2 | B2 c2 B2 G2 | B2 c2 B2 G2 | B6 z2 |
    - 核心骨幹音:  A#, C, G, D, F
    - 調性數值:    A# 大調 [相關度: 0.76, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): A# 大調 (0.76), G 小調 (0.72), F 大調 (0.60)
-   - 五度圈歷程:   -2
+   - 五度圈歷程:   -2 -> -2
    - 各段落調性細節:
      • [Otomodachi #1]: A# 大調 (r: 0.76, 自然音純度: 100.0%)
+     • [Otomodachi #2]: A# 大調 (r: 0.76, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -108,7 +113,7 @@ d6 c2 | B2 c2 B2 G2 | B2 c2 B2 G2 | B6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : F4 – F5 (12 個半音 / 1.0 個八度, 47 個音符)
+  - Vocal         : F4 – F5 (12 個半音 / 1.0 個八度, 94 個音符)
 ================================================================================
 ```
 

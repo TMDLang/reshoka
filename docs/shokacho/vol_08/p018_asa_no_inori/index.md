@@ -64,12 +64,16 @@ F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |
 !mf! F6 G2 B4 A4 | d4 c4 B6 d2 | !p! A4 G4 F6 E2 | D12 z4 |
 !f! d6 d2 e8 | !mf! d4 e4 f6 c2 | e4 d4 B4 B4/3 c4/3 d4/3 | A12 z4 |
 F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |
+!p! D6 D2 C4 A,4 | D4 E4 F6 B2 | A4 G4 F6 D2 | E12 z4 |
+!mf! F6 G2 B4 A4 | d4 c4 B6 d2 | !p! A4 G4 F6 E2 | D12 z4 |
+!f! d6 d2 e8 | !mf! d4 e4 f6 c2 | e4 d4 B4 B4/3 c4/3 d4/3 | A12 z4 |
+F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](asa_no_inori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIEhhgzcpPi8_JLUpPz8bAwVGflFiZnxYHXFGaUI6YKi_LLUvMQ8oJLcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkF6cWFYP9AnFiSVFiHsQMoCBCVUlGKtBb5amJQEaREpeWlsKzOXMfN657vrTjcVPX-z0dz6avfDZzxfNZLUCR58s2vt_TqaClxaVoq2BhwWVvq-Ciw2Vjom9iBzLwafuuFzOnvt8z6-X8zc-W7n02bcOzmbterJ2hoK_wYvKap1M2vpzdpmBoYPZyQePj5hWPm1eBjJ-x1kjPWM_IBGgw2FWPG7qAKp-t7Xm6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgMlA462UVpCtxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTFi5XznraueDatHeiQpxt6n7V3KsDsBzoF6FeQther9j9rWA7S0N37YuZ8oOjTJZ2Pm7uB4grAwFEACgO1uyQpPF2yHEUMaEDPo5krbYFhCTJmxe4XK2aQEH5ACXj4cYFMeLKj4XFDI4j1uGnR46atj5v7FB43T3rctBqo-nHzJphw05rHzbOBkmCVzS2Pm-c8bp4PdDBQfhmYvxrIAurpety0HWzMCohKoKVAUaCZQGOaV4IkwZwlj5uBaB6Y3waxHagMqHj946a1QG39IJNAZjYDHd79uAnoFCCjB-LkXT1wJ7c8bgQa2qTwuLH7ceOOx02djxvXADm9jxv3P27sedy4CpgwwSob14M5QBMbWx43AeWB6tcBOU2PG2c_bpwOltwAUQk0cwXEzCWPmxofN84Hmge0qgOo4XHjJpAkzMz-x40LIWYCDQSm_jagEMQpQNOAZk4F6oKGcidSKAP9DQpbYNgB_QkNNKCnm9aCgxTob2BYT8CiGB482FVCIw8Utn3wyAPGHBBtgoQ1PKCBmkHRDKSAps-AmN4DlmkFGw6OEsozCBQoaOlzcTkWJ_rle-YBixyrgMzEvHyHGoMahWqQPQo2Flp2YEZ1QS2YrlEwVNAFQkMF83ggZQoiIGJGQGwMljMDipgCaRO4iCFQBCQPgwYgXRBzc9NgBkOUmgC1A82FGBsHpMzBJoJNiYNpgjsG1RojuPMwrIHbAjYTbJYRhIXFJWA1YGljiBpzkPtBTLAMyDUaZkBBwzhNVQ1dXU2oQzCthXkK4kBQCEAcCFINdQgssEDC-HxRy8Wla6eAiCoFDJ4yFwA)]
-- [鋼琴伴奏 TMD 檔案](asa_no_inori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z-7jxnXPl3Y8bup6v6fj2fSVz2aueD6rBSjyfNnGx827X3bveT5hy5M9W54u7X_e2fF-T6eClhaXoq2ChQWXva2Ciw6XjYm-iR1XnYLS0_ZdL2ZOfb9n1sv5m58t3fts2oZnM3e9WDtDQV_hxeQ1T6dsfDm7TcHQwOzlgsbHzSseN68CWThjrZGesZ6RCdBgJZAhjxu6gCqfre15umPa44ZuoBIjAyMDPQMDMz0DCxNjoLIAA0MLvayCdCUuLsfiRL98z7z8okyrgMzEvPwgD4cagxqFai4FILCx0LIDM6oLasF0jYKhgi4QGiqYxwMpUxABETMCYmOwnBlQxBRIm8BFDIEi5vHaICUwaADSCDE6Nw1mNkS1CdAEoNFgk421DeNAhmubg4zRBkkA6TiYVoSrtEHqzeK1QZYaakMMAlsJdEu8NsTRGDYjLIZYAzbaVNsIwsbmQIg6qBJTbWOISnOglAlEDKoC4lQNM6CUYZymqoauriY0DMAOxXQLyAsQV8PcDw0wSOiCNMEdCQpgiIdBUlh8CzcJYUctZkz74IhpRKDCo9g0HkQaQWMbIQJmmkCEkRSChY2RhME6IXLIEY_FJrBhYG4NMDrh5iAJo7sSYqwJmISwISSmQ7GmOWRPwv2I233IXgM7ygzuPGjw4PYwZoiiuBThUeQQBYsiacHlLWAE69opIOJYAYOnzAUA)]
+- [主旋律 TMD 檔案](asa_no_inori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIEhhgzcpPi8_JLUpPz8bAwVGflFiZnxYHXFGaUI6YKi_LLUvMQ8oJLcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkF6cWFYP9AnFiSVFiHsQMoCBCVUlGKtBb5amJQEaREpeWlsKzOXMfN657vrTjcVPX-z0dz6avfDZzxfNZLUCR58s2vt_TqaClxaVoq2BhwWVvq-Ciw2Vjom9iBzLwafuuFzOnvt8z6-X8zc-W7n02bcOzmbterJ2hoK_wYvKap1M2vpzdpmBoYPZyQePj5hWPm1eBjJ-x1kjPWM_IBGgw2FWPG7qAKp-t7Xm6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgMlA462UVpCtxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTFi5XznraueDatHeiQpxt6n7V3KsDsBzoF6FeQther9j9rWA7S0N37YuZ8oOjTJZ2Pm7uB4grAwFEACgO1uyQpPF2yHEUMaEDPo5krbYFhCTJmxe4XK2aQEH5ACXj4cYFMeLKj4XFDI4j1uGnR46atj5v7FB43T3rctBqo-nHzJphw05rHzbOBkmCVzS2Pm-c8bp4PdDBQfhmYvxrIAurpety0HWzMCohKoKVAUaCZQGOaV4IkwZwlj5uBaB6Y3waxHagMqHj946a1QG39IJNAZjYDHd79uAnoFCCjB-LkXT1wJ7c8bgQa2qTwuLH7ceOOx02djxvXADm9jxv3P27sedy4CpgwwSob14M5QBMbWx43AeWB6tcBOU2PG2c_bpwOltwAUQk0cwXEzCWPmxofN84Hmge0qgOo4XHjJpAkzMz-x40LIWYCDQSm_jagEMQpQNOAZk4F6oKGcidSKAP9DQpbYNgB_QkNNKCnm9aCgxTob2BYT8CiGB482FVCIw8Utn3wyAPGHBBtgoQ1PKCBmkHRDKSAps-AmN4DlmkFGw6OEsozCBQoaOlzcTkWJ_rle-YBixyrgMzEvHyHGoMahWqQPQo2Flp2YEZ1QS2YrlEwVNAFQkMF83ggZQoiIGJGQGwMljMDipgCaRO4iCFQBCQPgwYgXRBzc9NgBkOUmgC1A82FGBsHpMzBJoJNiYNpgjsG1RojuPMwrIHbAjYTbJYRhIXFJWA1YGljiBpzkPtBTLAMyDUaZkBBwzhNVQ1dXU2oQzCthXkK4kBQCEAcCFINdQgssEDC-HxRy8Wla6eAiCoFAjxlLgA)]
+- [鋼琴伴奏 TMD 檔案](asa_no_inori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z-7jxnXPl3Y8bup6v6fj2fSVz2aueD6rBSjyfNnGx827X3bveT5hy5M9W54u7X_e2fF-T6eClhaXoq2ChQWXva2Ciw6XjYm-iR1XnYLS0_ZdL2ZOfb9n1sv5m58t3fts2oZnM3e9WDtDQV_hxeQ1T6dsfDm7TcHQwOzlgsbHzSseN68CWThjrZGesZ6RCdBgJZAhjxu6gCqfre15umPa44ZuoBIjAyMDPQMDMz0DCxNjoLIAA0MLvayCdCUuLsfiRL98z7z8okyrgMzEvPwgD4cagxqFai4FILCx0LIDM6oLasF0jYKhgi4QGiqYxwMpUxABETMCYmOwnBlQxBRIm8BFDIEi5vHaICUwaADSCDE6Nw1mNkS1CdAEoNFgk421DeNAhmubg4zRBkkA6TiYVoSrtEHqzeK1QZYaakMMAlsJdEu8NsTRGDYjLIZYAzbaVNsIwsbmQIg6qBJTbWOISnOglAlEDKoC4lQNM6CUYZymqoauriY0DMAOxXQLyAsQV8PcDw0wSOiCNMEdCQpgiIdBUlh8CzcJYUctZkz74IhpRKDCo9g0HkQaQWMbIQJmmkCEkRSChY2RhME6IXLIEY_FJrBhYG4NMDrh5iAJo7sSYqwJmISwISSmQ7GmOWRPwv2I233IXgM7ygzuPGjw4PYwZoiiuBThUeQQBYsiacHlLWAE69opIOJYgQBPmQsA)]
 
 ## 分析
 
@@ -77,14 +81,14 @@ F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 朝の祈り（早晨的祈禱） ]
 ================================================================================
-⏱  Duration:       1:27 (87.3s), 32 measures total
+⏱  Duration:       2:10 (130.9s), 48 measures total
 🎼 Key & Tempo:    首調基準 D,, != 88.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    G#3 (MIDI 56) – F5 (MIDI 77) [跨度: 21 個半音 / 1.8 個八度, 難度: difficult]
    - 最低音:  G#3 in [AsaNoInori #1 @ m.1, 0:02]
    - 最高音: F5 in [AsaNoInori #1 @ m.10, 0:25]
    - 適合: mezzo-soprano, contralto, baritone, bass
-🏛  結構:      AsaNoInori (43.6s) -> AsaNoInori (43.6s)
+🏛  結構:      AsaNoInori (43.6s) -> AsaNoInori (43.6s) -> AsaNoInori (43.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -92,10 +96,11 @@ F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |
    - 核心骨幹音:  C#, F, D#, G#, A#
    - 調性數值:    C# 大調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): C# 大調 (0.90), A# 小調 (0.63), G# 大調 (0.63)
-   - 五度圈歷程:   -5 -> -5
+   - 五度圈歷程:   -5 -> -5 -> -5
    - 各段落調性細節:
      • [AsaNoInori #1]: C# 大調 (r: 0.90, 自然音純度: 100.0%)
      • [AsaNoInori #2]: C# 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [AsaNoInori #3]: C# 大調 (r: 0.90, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -122,7 +127,7 @@ F8 F4 E4 | D4 A4 d6 B2 | A4 D4 F6 E2 | D12 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : G#3 – F5 (21 個半音 / 1.8 個八度, 104 個音符)
+  - Piano         : G#3 – F5 (21 個半音 / 1.8 個八度, 156 個音符)
 ================================================================================
 ```
 

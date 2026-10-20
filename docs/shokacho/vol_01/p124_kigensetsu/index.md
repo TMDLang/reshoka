@@ -59,12 +59,24 @@ G8 G4 A4 | E4 E4 D4 E4 | G4 G4 G4 A4 | E12 z4 |
 G8 G4 A4 | E4 E4 D4 C4 | D4 D4 D4 E4 | C12 z4 |
 A8 A4 c4 | d4 d4 d4 c4 | A4 A4 A4 G4 | A12 z4 |
 c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
+G8 G4 A4 | E4 E4 D4 E4 | G4 G4 G4 A4 | E12 z4 |
+G8 G4 A4 | E4 E4 D4 C4 | D4 D4 D4 E4 | C12 z4 |
+A8 A4 c4 | d4 d4 d4 c4 | A4 A4 A4 G4 | A12 z4 |
+c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
+G8 G4 A4 | E4 E4 D4 E4 | G4 G4 G4 A4 | E12 z4 |
+G8 G4 A4 | E4 E4 D4 C4 | D4 D4 D4 E4 | C12 z4 |
+A8 A4 c4 | d4 d4 d4 c4 | A4 A4 A4 G4 | A12 z4 |
+c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
+G8 G4 A4 | E4 E4 D4 E4 | G4 G4 G4 A4 | E12 z4 |
+G8 G4 A4 | E4 E4 D4 C4 | D4 D4 D4 E4 | C12 z4 |
+A8 A4 c4 | d4 d4 d4 c4 | A4 A4 A4 G4 | A12 z4 |
+c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kigensetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGRCboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdmbkFqRDdWloKz7c0PG1tfr6-QUFLi0vRVsHSiMveVsGZy8ZE38QOpPHFynnv98x6uXrG0y19z9YufrloBdi8Z7M3AYWf7Ol6tm_Jk_3rnuzqAQs_nbLx2dqe52vbXqyY8XTHtPd7Ol6073reuPjp2glP9s1-smPa86k9z5fsez5zz4uFPe_39BgZGBnoGRiY6RlYmBi_39MJCje9rIJ0oMbna9YoWCi8XNAIFFbi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHehqoE-ftq54Nq0daPnTDb3P2jsVEM7pedq74WnH9ie7pjzfPuvF2jnv93Q_37AQyACqfN66HNmxwHABWfBi1f5nDctBRnf3vpg5Hyj6uLkfKPh09uynHW1PdnYDGUApYMgA7XNWeLpkOVBSARjsCkBRoDFcIEOe7Gh43ND4cvamx42rXzRuBqp83Dj3MYjR-bip7XFTNyhiepufr5z-uHHd44YGIPfZgp2PG7seN_U-bgQKrn7RC1TZ9GzOCiAJMhEEHjeuAprxuBGoZCtY1cTHTZOBDni6b-GT3YsfN00CmvRk94bHjROe7O56Nn3p48bJYGvngyyBqu8BO29XD9B5z7ZuB4Ym2NDZQCc9nb_l6TpgKACduh7ogMdNLY8bZ4IcDHbhs40LwKYAXdj0uKnjcVPX855tjxs3gR3cC3dhUyPQ9seN-4Fqn21eBDTm2dYtYO50YCKCuPBxYxPY_UBlE8EMXI7c0Ql05NMlK59tAfoEGJJLHjf2ARUBwwpsYv_jJqCCBmAwgj0PdBLQJUtBjMbVT7ungoMJ6DUktwHtBQbnhKfrZoHdCbQLaC_Q0m6QecSHHjABAB32fOUuUCiBNPeAw6ofrGcd1BpwoL2YsAbIeDoHqAaoEmgQ0M9AjyC7CiwJNB_oIWCoTwf5CaRwGTkhRnkOgwIFLX0uLu_M9NS84tSS4lKrsPzkxByHGoMahWqwu20stOzADGy5WwGYqYDpH1hQKGiYKDzd0A8spXTgWVITiwagbSDDahRMFXTBEESbAXGNgjGQBGEjKA1RA8MINTBoABIBZ0HcbtvVQ323GYJFQCwYhrgWJE6K23Z0kuM2kHtAEEQbxkGcAqIQBFQUpACGQR5BaCXSgcC0T44DwdaDIJgBdhHCMSCHQEILOexANLbwq-Xi0rVTQCROBSBPmQsA)]
-- [鋼琴伴奏 TMD 檔案](kigensetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-peFpa_Pz9Q3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLIy57WwVnLhsTfRM7rjoFpRcr573fM-vl6hlPt_Q9W7v45aIVSiDhZ7M3AYWf7Ol6tm_Jk_3rnuzqAQs_nbLx2dqe52vbXqyY8XTHNKBNL9p3PW9c_HTthCf7Zj_ZMe351J7nS_Y9n7nnxcKe93t6jAyMDPQMDMz0DCxMjIGuCDA0MtHLKkgHany-Zo2ChcLLBY1AYSUuLu_M9NS84tSS4lKrsPzkxByHGoMahWouBSCwsdCyAzNqFEwVdMEQRJsBcY2CMZAEYSMoDVEDwwg1MGgAEiHKNEOwCIgFwxDzQeLYTAOZAIIg2jAOohlEIQioKEgBDIOsRmhFNxKsAQTBDLAZCO0grRAXIbsPRGNzYy1KEAdkJublB3lgD2RjbVjAQFgm2pDAMdQGWQAhzeO1wWEE5sC0IJOomrB5jhRrwBJQDioFcwGuWDEGmwqxBcQy1obFgjY4PFEpuCxMMYI0AjsS2UBMq-DxBWVCTUU3DmQQzN3YfAPlEBmNPijRaAKPRsN4KDKJh_NM48EUFkmojAEi7eHQbgbEwKwDJJExdjNAapExMKnGQxGEiyxpDBMAMkAUFqcA9SH0QIQIOwUYZLp2CohQUwDylLkA)]
+- [主旋律 TMD 檔案](kigensetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGRCboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdmbkFqRDdWloKz7c0PG1tfr6-QUFLi0vRVsHSiMveVsGZy8ZE38QOpPHFynnv98x6uXrG0y19z9YufrloBdi8Z7M3AYWf7Ol6tm_Jk_3rnuzqAQs_nbLx2dqe52vbXqyY8XTHtPd7Ol6073reuPjp2glP9s1-smPa86k9z5fsez5zz4uFPe_39BgZGBnoGRiY6RlYmBi_39MJCje9rIJ0oMbna9YoWCi8XNAIFFbi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHehqoE-ftq54Nq0daPnTDb3P2jsVEM7pedq74WnH9ie7pjzfPuvF2jnv93Q_37AQyACqfN66HNmxwHABWfBi1f5nDctBRnf3vpg5Hyj6uLkfKPh09uynHW1PdnYDGUApYMgA7XNWeLpkOVBSARjsCkBRoDFcIEOe7Gh43ND4cvamx42rXzRuBqp83Dj3MYjR-bip7XFTNyhiepufr5z-uHHd44YGIPfZgp2PG7seN_U-bgQKrn7RC1TZ9GzOCiAJMhEEHjeuAprxuBGoZCtY1cTHTZOBDni6b-GT3YsfN00CmvRk94bHjROe7O56Nn3p48bJYGvngyyBqu8BO29XD9B5z7ZuB4Ym2NDZQCc9nb_l6TpgKACduh7ogMdNLY8bZ4IcDHbhs40LwKYAXdj0uKnjcVPX855tjxs3gR3cC3dhUyPQ9seN-4Fqn21eBDTm2dYtYO50YCKCuPBxYxPY_UBlE8EMXI7c0Ql05NMlK59tAfoEGJJLHjf2ARUBwwpsYv_jJqCCBmAwgj0PdBLQJUtBjMbVT7ungoMJ6DUktwHtBQbnhKfrZoHdCbQLaC_Q0m6QecSHHjABAB32fOUuUCiBNPeAw6ofrGcd1BpwoL2YsAbIeDoHqAaoEmgQ0M9AjyC7CiwJNB_oIWCoTwf5CaRwGTkhRnkOgwIFLX0uLu_M9NS84tSS4lKrsPzkxByHGoMahWqwu20stOzADGy5WwGYqYDpH1hQKGiYKDzd0A8spXTgWVITiwagbSDDahRMFXTBEESbAXGNgjGQBGEjKA1RA8MINTBoABIBZ0HcbtvVQ323GYJFQCwYhrgWJE6K23Z0kuM2kHtAEEQbxkGcAqIQBFQUpACGQR5BaCXSgcC0T44DwdaDIJgBdhHCMSCHQEILOexANLbwq-Xi0rVTQCROBZJ4ylwA)]
+- [鋼琴伴奏 TMD 檔案](kigensetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-peFpa_Pz9Q3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLIy57WwVnLhsTfRM7rjoFpRcr573fM-vl6hlPt_Q9W7v45aIVSiDhZ7M3AYWf7Ol6tm_Jk_3rnuzqAQs_nbLx2dqe52vbXqyY8XTHNKBNL9p3PW9c_HTthCf7Zj_ZMe351J7nS_Y9n7nnxcKe93t6jAyMDPQMDMz0DCxMjIGuCDA0MtHLKkgHany-Zo2ChcLLBY1AYSUuLu_M9NS84tSS4lKrsPzkxByHGoMahWouBSCwsdCyAzNqFEwVdMEQRJsBcY2CMZAEYSMoDVEDwwg1MGgAEiHKNEOwCIgFwxDzQeLYTAOZAIIg2jAOohlEIQioKEgBDIOsRmhFNxKsAQTBDLAZCO0grRAXIbsPRGNzYy1KEAdkJublB3lgD2RjbVjAQFgm2pDAMdQGWQAhzeO1wWEE5sC0IJOomrB5jhRrwBJQDioFcwGuWDEGmwqxBcQy1obFgjY4PFEpuCxMMYI0AjsS2UBMq-DxBWVCTUU3DmQQzN3YfAPlEBmNPijRaAKPRsN4KDKJh_NM48EUFkmojAEi7eHQbgbEwKwDJJExdjNAapExMKnGQxGEiyxpDBMAMkAUFqcA9SH0QIQIOwUYZLp2CohQUyCJp8wFAA)]
 
 ## 分析
 
@@ -72,14 +84,14 @@ c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 紀元節 ]
 ================================================================================
-⏱  Duration:       0:41 (41.7s), 16 measures total
+⏱  Duration:       2:46 (167.0s), 64 measures total
 🎼 Key & Tempo:    首調基準 C, != 92.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [Kigensetsu #1 @ m.6, 0:15]
    - 最高音: D5 in [Kigensetsu #1 @ m.10, 0:23]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Kigensetsu (41.7s)
+🏛  結構:      Kigensetsu (41.7s) -> Kigensetsu (41.7s) -> Kigensetsu (41.7s) -> Kigensetsu (41.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -87,9 +99,12 @@ c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
    - 核心骨幹音:  A, C, D, E, G
    - 調性數值:    A 調性不明確 [相關度: 0.75, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): A 小調 (0.75), C 大調 (0.73), G 大調 (0.68)
-   - 五度圈歷程:   +3
+   - 五度圈歷程:   +3 -> +3 -> +3 -> +3
    - 各段落調性細節:
      • [Kigensetsu #1]: A 調性不明確 (r: 0.75, 自然音純度: 100.0%)
+     • [Kigensetsu #2]: A 調性不明確 (r: 0.75, 自然音純度: 100.0%)
+     • [Kigensetsu #3]: A 調性不明確 (r: 0.75, 自然音純度: 100.0%)
+     • [Kigensetsu #4]: A 調性不明確 (r: 0.75, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -116,7 +131,7 @@ c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – D5 (14 個半音 / 1.2 個八度, 48 個音符)
+  - Vocal         : C4 – D5 (14 個半音 / 1.2 個八度, 192 個音符)
 ================================================================================
 ```
 
