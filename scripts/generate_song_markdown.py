@@ -26,6 +26,7 @@ from pathlib import Path
 
 TITLE_RE = re.compile(r"^\s*\*\*\s*(.*?)\s*\*\*\s*$")
 CREDIT_RE = re.compile(r'^\s*~\s*"(.*?)"\s*$')
+TAG_RE = re.compile(r'^tag:\s*[^\s:]+:[^\s:]+$')
 KEY_RE = re.compile(r"^\s*\?=\s*(\S+)\s*$")
 TEMPO_RE = re.compile(r"^\s*!=\s*(\S+)\s*$")
 METER_RE = re.compile(r"^\s*<(\d+/\d+)>\s*$")
@@ -184,6 +185,8 @@ def parse_metadata(text: str) -> tuple[str, list[str], list[str], dict[str, str]
         credit_match = CREDIT_RE.match(line)
         if credit_match:
             value = credit_match.group(1).strip()
+            if TAG_RE.match(value):
+                continue
             if re.search(
                 r"(?:^|[\s/／（(])(詞曲|作詞|作曲|編曲|選歌|詞\s*[：:]|曲\s*[：:])",
                 value,
