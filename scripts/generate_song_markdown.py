@@ -39,6 +39,7 @@ DUPLICATE_INDEX_MD = DOCS_ROOT / "duplicate_songs.md"
 COLLECTION_TITLES: dict[str, str] = {
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
+    "utanohon": "《うたのほん》（唱歌課本）",
     "shokacho": "《楊金土手抄唱歌帖》",
 }
 
@@ -52,6 +53,7 @@ VOLUME_TITLES: dict[str, str] = {
     "grade_6_2020.006.0847.0006": "尋常科 第六學年用（2020.006.0847.0006）",
     "koto_boys_2020.006.0848": "高等科 男子一二年用（2020.006.0848）",
     "koto_girls_2020.006.0849": "高等科 女子一二年用（2020.006.0849）",
+    "ge_2006.006.0878": "下卷・國民學校初等科第二學年用（2006.006.0878）",
     "vol_01": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
     "vol_02": "原編第 2 冊・II（2020.006.0843，P065–P112）",
     "vol_03": "原編第 3 冊・I（2020.006.0843，P031–P064）",
@@ -71,6 +73,7 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "grade_6_2020.006.0847.0006": "尋常科 第六學年",
     "koto_boys_2020.006.0848": "高等科 男子一二年",
     "koto_girls_2020.006.0849": "高等科 女子一二年",
+    "ge_2006.006.0878": "下卷（初等科第二學年）",
     "vol_01": "第 1 冊（選定唱歌筆記帳）",
     "vol_02": "第 2 冊（II）",
     "vol_03": "第 3 冊（I）",
@@ -99,6 +102,25 @@ BOOK_INFO_IMAGE_DESCRIPTIONS: dict[str, dict[str, str]] = {
         "P013.jpg": "空白五線譜頁，應作為抄寫或補錄樂譜之用；本頁未見可辨識的歌名或手寫內容。",
         "P029.jpg": "空白內頁，未見可辨識的歌名或樂譜內容。",
         "P030.jpg": "封底，中央印有大象站在地球儀上的圖案及「BK. NO. 1」字樣，未見歌曲或目錄資訊。",
+    },
+    "ge_2006.006.0878": {
+        "P001.jpg": "本冊封面（橫開本），上題「うたのほん 下」，下署「たいわんそうとくふ」（臺灣總督府），背景繪有水邊白鷺鷥與水草之臺灣自然風物圖案。",
+        "P002.jpg": "封面裏（見返頁），左下方有原持有者毛筆直書署名「新化國民學校（原新化公學校）二年忠組 蔡氏美月」。",
+        "P003.jpg": "目次頁（もくろく，左半部），列出「きみがよ」、「きげん節」及第一課〈二年生〉至第十課〈ひかうき〉之曲名與頁碼。",
+        "P004.jpg": "目次頁（もくろく，右半部），列出第十一課〈おまつり〉至第二十課〈ひな祭〉之曲名與頁碼。",
+        "P005.jpg": "卷首儀式歌〈キミガヨ〉（君が代）五線譜頁（原書第 1 頁）。",
+        "P006.jpg": "卷首儀式歌〈きみがよ〉歌詞頁（原書第 2 頁）。",
+        "P007.jpg": "卷首儀式歌〈きみがよ〉雙頁留白襯頁（原書第 3 頁）。",
+        "P008.jpg": "卷首祝祭日儀式歌〈きげん節〉（紀元節）四節歌詞頁（原書第 4 頁，未附五線譜）。",
+        "P053.jpg": "卷末基礎樂理與聽音練習「おけいこ」（原書第 49 頁）：包含 C 大調三和弦（ドミソ、ファラド、ソシレ、ドミソ）分解與和音視唱練習，以及 2/4 拍節奏型視唱練習。",
+        "P054.jpg": "卷末基礎樂理與視唱練習「おけいこ」（原書第 50 頁）：包含 2/4 拍與 3/4 拍旋律視唱短曲 3 首，以及四分、八分、附點八分音符之節奏拍擊練習。",
+        "P055.jpg": "卷末附錄五線譜練習頁（第 1 頁，印有四行空白五線譜供學童習寫音符）。",
+        "P056.jpg": "卷末附錄五線譜練習頁（第 2 頁，印有四行空白五線譜）。",
+        "P057.jpg": "卷末附錄五線譜練習頁（第 3 頁，印有四行空白五線譜）。",
+        "P058.jpg": "卷末附錄五線譜練習頁（第 4 頁，印有四行空白五線譜）。",
+        "P059.jpg": "卷末附錄五線譜練習頁（第 5 頁，印有四行空白五線譜）。",
+        "P060.jpg": "封底裏版權頁：標明「昭和十八年三月二十八日翻刻發行 昭和十八年四月一日發行」、「著作兼發行者 臺灣總督府」、「翻刻發行兼印刷者 臺北市建成町四丁目一番地 臺灣書籍株式會社 代表者 小塚兼吉」、「定價金拾貳錢」，左頁蓋有經銷商「善化 曾文堂」紅印與學童鉛筆塗鴉。",
+        "P061.jpg": "封底外頁，右下角可見原書定價與編號小字。",
     },
 }
 
@@ -647,7 +669,7 @@ def generate_book_info_folder(folder: Path) -> Path:
 def classify_song_section(col_name: str, vol_name: str, folder_name: str) -> tuple[str | None, str | None, str]:
     """Return (year_heading, section_heading, number_label) for a song directory."""
     parts = folder_name.split("_")
-    if col_name == "kogakko_shoka":
+    if col_name in ("kogakko_shoka", "utanohon"):
         num = f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
         return None, None, num
 
@@ -772,6 +794,14 @@ def generate_volume_index(vol_dir: Path) -> Path:
                 "- 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](../horai_shokashu.md)**"
             )
 
+    if col_name == "utanohon" and vol_name == "ge_2006.006.0878":
+        lines.extend(
+            [
+                "> 國立臺灣歷史博物館典藏號 **`2006.006.0878`**（原持有者署名：「新化國民學校 二年忠組 蔡氏美月」）。昭和 18 年（1943 年）3 月 28 日翻刻發行、4 月 1 日發行，臺灣總督府著作兼發行、臺灣書籍株式會社印行，為昭和 16 年《國民學校令》實施後供全臺國民學校初等科第二學年使用之「藝能科音樂」五線譜彩色插圖課本。除收錄日本文部省標準教材外，特別編入**〈九　かあれん〉（加令／八哥）**、**〈十三　ぺたこ〉（白頭殼仔／白頭翁）**兩首臺灣獨有鄉土童謠，並於**〈十七　くも〉**改寫「ようじゅの 枝に」（榕樹的樹枝上）、於**〈十九　おばあさん〉**第三節描繪臺灣阿嬤向孫女學習「國語」（日語）之皇民化時期生活場景。",
+                "",
+            ]
+        )
+
     if book_info_dir.is_dir():
         img_count = len(find_scanned_images(book_info_dir))
         lines.extend(
@@ -781,8 +811,8 @@ def generate_volume_index(vol_dir: Path) -> Path:
             ]
         )
 
-    if col_name in ("kogakko_shoka", "shokacho"):
-        first_col = "課次" if col_name == "kogakko_shoka" else "原書頁碼"
+    if col_name in ("kogakko_shoka", "utanohon", "shokacho"):
+        first_col = "課次" if col_name in ("kogakko_shoka", "utanohon") else "原書頁碼"
         lines.extend(
             [
                 f"## 曲目列表（共 {len(song_dirs)} 首）",
@@ -882,7 +912,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
 
     nav_lines = [
         "site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫",
-        "site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910–1930 年代）《公學校唱歌》、《新定兒童唱歌》與《楊金土手抄唱歌帖》（含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉）共 16 冊 638 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
+        "site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910–1940 年代）《公學校唱歌》、《新定兒童唱歌》、《うたのほん》（唱歌課本）與《楊金土手抄唱歌帖》（含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉）共 17 冊 658 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
         "site_author: TMD Contributors",
         "site_url: https://tmdlang.github.io/reshoka/",
         "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
@@ -966,6 +996,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
     collections = [
         ("kogakko_shoka", "公學校唱歌"),
         ("shintei_jido_shoka", "新定兒童唱歌"),
+        ("utanohon", "うたのほん（唱歌課本）"),
         ("shokacho", "楊金土手抄唱歌帖"),
     ]
 

@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫
-site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910–1930 年代）《公學校唱歌》、《新定兒童唱歌》與《楊金土手抄唱歌帖》（含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉）共 16 冊 638 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910–1940 年代）《公學校唱歌》、《新定兒童唱歌》、《うたのほん》（唱歌課本）與《楊金土手抄唱歌帖》（含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉）共 17 冊 658 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -546,6 +546,30 @@ nav:
           - "2-4-05 埴生の宿": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md
           - "2-4-06 高嶺": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/index.md
           - "2-4-07 浦のあけくれ": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/index.md
+  - うたのほん（唱歌課本）:
+      - 下卷（初等科第二學年）:
+          - 總覽: utanohon/ge_2006.006.0878/index.md
+          - 書訊與掃描頁: utanohon/ge_2006.006.0878/0_book_info/index.md
+          - "1 二年生": utanohon/ge_2006.006.0878/1_ninensei/index.md
+          - "2 モモタラウ（桃太郎）": utanohon/ge_2006.006.0878/2_momotaro/index.md
+          - "3 コヒノボリ（鯉魚旗）": utanohon/ge_2006.006.0878/3_koinobori/index.md
+          - "4 ぐんかん（軍艦）": utanohon/ge_2006.006.0878/4_gunkan/index.md
+          - "5 兵たいさん（士兵先生）": utanohon/ge_2006.006.0878/5_heitaisan/index.md
+          - "6 せみ（蟬）": utanohon/ge_2006.006.0878/6_semi/index.md
+          - "7 たなばたさま（七夕樣）": utanohon/ge_2006.006.0878/7_tanabatasama/index.md
+          - "8 かへると くも（青蛙與蜘蛛）": utanohon/ge_2006.006.0878/8_kaeru_to_kumo/index.md
+          - "9 かあれん（加令／八哥）": utanohon/ge_2006.006.0878/9_kaaren/index.md
+          - "10 ひかうき（飛機）": utanohon/ge_2006.006.0878/10_hikoki/index.md
+          - "11 おまつり（祭典）": utanohon/ge_2006.006.0878/11_omatsuri/index.md
+          - "12 牛わか丸（牛若丸）": utanohon/ge_2006.006.0878/12_ushiwakamaru/index.md
+          - "13 ぺたこ（白頭殼仔／白頭翁）": utanohon/ge_2006.006.0878/13_petako/index.md
+          - "14 うらしま太郎（浦島太郎）": utanohon/ge_2006.006.0878/14_urashimataro/index.md
+          - "15 國引き（國引）": utanohon/ge_2006.006.0878/15_kunibiki/index.md
+          - "16 池の 鯉（池中的鯉魚）": utanohon/ge_2006.006.0878/16_ike_no_koi/index.md
+          - "17 くも（蜘蛛）": utanohon/ge_2006.006.0878/17_kumo/index.md
+          - "18 日本": utanohon/ge_2006.006.0878/18_nippon/index.md
+          - "19 おばあさん（老奶奶／阿嬤）": utanohon/ge_2006.006.0878/19_obaasan/index.md
+          - "20 ひな祭（女兒節／雛祭）": utanohon/ge_2006.006.0878/20_hinamatsuri/index.md
   - 楊金土手抄唱歌帖:
       - 考證與研究筆記: shokacho/research_notes.md
       - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
