@@ -1,12 +1,4 @@
 (function () {
-  function expandTopLevelNav() {
-    var topToggles = document.querySelectorAll(
-      "nav.md-nav--primary > ul.md-nav__list > li.md-nav__item--nested > input.md-nav__toggle"
-    );
-    topToggles.forEach(function (toggle) {
-      toggle.checked = true;
-    });
-  }
 
   function sanitizeAbc(abcText) {
     // In the ABC specification, a blank line terminates a tune.
@@ -58,15 +50,4 @@
     });
   }
 
-  if (typeof document$ !== "undefined" && document$.subscribe) {
-    document$.subscribe(function (body) {
-      expandTopLevelNav();
-      renderAllAbcBlocks(body);
-    });
-  } else {
-    document.addEventListener("DOMContentLoaded", function () {
-      expandTopLevelNav();
-      renderAllAbcBlocks(document);
-    });
-  }
 })();

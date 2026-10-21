@@ -3,7 +3,7 @@ site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910�
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
-# repo_url: https://github.com/tmdlang/reshoka
+repo_url: https://github.com/tmdlang/reshoka
 
 theme:
   name: material
@@ -28,8 +28,9 @@ theme:
         name: 切換為淺色模式
   features:
     - navigation.instant
+    - navigation.indexes
     - navigation.tracking
-    # - navigation.sections
+    - navigation.sections
     - navigation.top
     - search.suggest
     - search.highlight
