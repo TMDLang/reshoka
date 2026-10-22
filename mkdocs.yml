@@ -28,7 +28,7 @@ theme:
         name: 切換為淺色模式
   features:
     - navigation.instant
-    - navigation.indexes
+    # - navigation.indexes
     - navigation.tracking
     - navigation.sections
     - navigation.top
