@@ -50,4 +50,15 @@
     });
   }
 
+  // Material for MkDocs uses document$ for instant-navigation page changes.
+  // Fall back to DOMContentLoaded when instant navigation is unavailable.
+  if (typeof document$ !== "undefined" && document$.subscribe) {
+    document$.subscribe(function (body) {
+      renderAllAbcBlocks(body);
+    });
+  } else {
+    document.addEventListener("DOMContentLoaded", function () {
+      renderAllAbcBlocks(document);
+    });
+  }
 })();
