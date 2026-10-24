@@ -76,12 +76,18 @@
         "description": {{ page_desc | tojson }},
         "url": {{ config.site_url | tojson }},
         "license": "https://opensource.org/licenses/MIT",
+        "isAccessibleForFree": true,
+        "creator": {
+          "@type": "Organization",
+          "name": "Re:shoka（TMD 電腦音樂語言非官方子計畫）",
+          "url": {{ config.site_url | tojson }}
+        },
         "inLanguage": ["zh-Hant", "ja"],
         "keywords": [
           "日治時期", "公學校唱歌", "新定兒童唱歌", "楊金土手抄唱歌帖", "蓬萊唱歌集",
-          "陳英聲", "郭水返", "一條慎三郎", "黑澤隆朝", "臺灣音樂史", "TMD", "五線譜", "簡譜"
+          "陳英聲", "郭水返", "一條慎三郎", "黑澤隆朝", "臺灣音樂史", "音樂史重建", "AI 音樂", "TMD", "五線譜", "簡譜"
         ],
-        "temporalCoverage": "1915/1945",
+        "temporalCoverage": "1902/1945",
         "spatialCoverage": {
           "@type": "Place",
           "name": "臺灣（Taiwan）"
@@ -113,7 +119,7 @@
     },{% endif %}
     "publisher": {
       "@type": "Organization",
-      "name": {{ config.site_name | tojson }},
+      "name": "Re:shoka（TMD 電腦音樂語言非官方子計畫）",
       "url": {{ config.site_url | tojson }}
     }
   }
