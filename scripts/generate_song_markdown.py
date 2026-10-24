@@ -1010,6 +1010,42 @@ def generate_volume_index(vol_dir: Path) -> Path:
     return output
 
 
+def write_song_index_json(docs_dir: Path) -> Path:
+    """Write the lightweight song index used by the homepage random picker."""
+    songs: list[dict[str, str]] = []
+    for main_tmd in sorted(
+        (p for p in docs_dir.rglob("*.tmd") if not p.name.endswith("_piano.tmd")),
+        key=lambda p: natural_sort_key(str(p)),
+    ):
+        folder = main_tmd.parent
+        try:
+            chosen_main_tmd = choose_main_tmd(folder)
+        except AmbiguousMainTmdError:
+            continue
+        if chosen_main_tmd != main_tmd:
+            continue
+        title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
+        rel_folder = folder.relative_to(docs_dir).as_posix()
+        parts = rel_folder.split("/")
+        collection = parts[0] if parts else ""
+        volume = parts[1] if len(parts) > 1 else ""
+        songs.append(
+            {
+                "title": title,
+                "collection": COLLECTION_TITLES.get(collection, collection),
+                "volume": VOLUME_TITLES.get(volume, volume),
+                "url": f"{rel_folder}/",
+            }
+        )
+
+    output = docs_dir / "data" / "songs.json"
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(
+        json.dumps(songs, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    return output
+
+
 def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
     docs_dir = docs_dir.resolve()
     home_lines = [
@@ -1018,6 +1054,14 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，並提供 TMD 樂譜、MP3 與調性分析。",
         "",
         "> **專案定位**：Re:shoka 是 **TMD 電腦音樂語言的子計畫**，由個人／社群維護，並非政府機關、博物館或任何官方計畫。資料主要整理自公開典藏與公版史料，供研究、教育與欣賞使用。",
+        "",
+        '<div class="lucky-song" data-lucky-song>',
+        "  <div>",
+        "    <strong>隨機聽見一段歷史</strong>",
+        '    <button type="button" data-lucky-song-button>讓命運選一首</button>',
+        "  </div>",
+        "  <p data-lucky-song-result>從 734 首歷史曲目中隨機探索。</p>",
+        "</div>",
         "",
     ]
 
@@ -1179,6 +1223,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         home_lines.append("")
 
     index_md = docs_dir / "index.md"
+    write_song_index_json(docs_dir)
     if not index_md.exists():
         index_md.write_text("\n".join(home_lines), encoding="utf-8")
     mkdocs_path.write_text("\n".join(nav_lines) + "\n", encoding="utf-8")

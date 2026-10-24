@@ -74,6 +74,7 @@ extra_css:
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/abcjs@6.4.4/dist/abcjs-basic-min.js
   - javascripts/abc-render.js
+  - javascripts/random-song.js
 
 nav:
   - 首頁: index.md

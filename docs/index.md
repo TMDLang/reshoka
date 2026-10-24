@@ -8,6 +8,14 @@ image: shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg
 
 # Re:shoka — 日治時期臺灣公學校、小學校與國民學校唱歌教材數位重建計畫
 
+<div class="lucky-song" data-lucky-song>
+  <div>
+    <strong>隨機聽見一段歷史</strong>
+    <button type="button" data-lucky-song-button>挑選</button>
+  </div>
+  <p data-lucky-song-result>從 734 首歷史曲目中隨機探索。</p>
+</div>
+
 ![index.png](img/index.png)
 
 **Re:shoka** 是一項將日治時期（1910–1940 年代）臺灣校園音樂教材重新數位化與有聲化的計畫。本專案整理了當時學童實際傳唱的《公學校唱歌》、《新定兒童唱歌》、《うたのほん》（唱歌課本）與《楊金土手抄唱歌帖》等教材與抄本，將原本僅存於博物館典藏庫中的靜態掃描圖檔，轉化為**可以在網頁上直接聆聽伴奏、閱讀五線譜、檢索歌詞與瀏覽統計資料**的開放資料庫。
