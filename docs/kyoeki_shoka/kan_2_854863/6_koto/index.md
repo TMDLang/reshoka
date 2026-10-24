@@ -1,17 +1,18 @@
 ---
 title: "皇統 — 《共益商社唱歌教科書》 巻二（教師用）"
 song_title: "皇統"
-description: "〈皇統〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：C 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：みなもときよき、いすゞがは、 千秋萬古、たえまなし、…"
+description: "〈皇統〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：C 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：みなもときよき、いすゞがは、 千秋萬古、たえまなし、…"
 keywords: "皇統, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
 musical_key: "C"
 image: "P012.jpg"
+audio: "koto.mp3"
 ---
 
 # 皇統
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="koto.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第十二～十三頁（第六曲）
 - NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P012.jpg

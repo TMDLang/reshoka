@@ -36,6 +36,11 @@ DOCS_ROOT = REPO_ROOT / "docs"
 DUPLICATE_INDEX_JSON = DOCS_ROOT / "duplicate_songs.json"
 DUPLICATE_INDEX_MD = DOCS_ROOT / "duplicate_songs.md"
 
+
+class AmbiguousMainTmdError(RuntimeError):
+    """A song folder has multiple possible main TMD files and should be skipped."""
+
+
 COLLECTION_TITLES: dict[str, str] = {
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
@@ -232,7 +237,7 @@ def choose_main_tmd(folder: Path) -> Path:
     if len(matching) == 1:
         return matching[0]
     names = ", ".join(path.name for path in candidates)
-    raise RuntimeError(f"找到多個可能的主 TMD，無法判斷：{names}")
+    raise AmbiguousMainTmdError(f"找到多個可能的主 TMD，跳過：{names}")
 
 
 def choose_piano_tmd(folder: Path, main_tmd: Path) -> Path | None:
@@ -524,33 +529,43 @@ def generate_song_folder(
 
     analysis = render_analysis(main_tmd, folder)
 
-    audio_html = "*找不到鋼琴伴奏版 TMD，未產生音訊。*"
-    if piano_tmd:
-        if not no_audio and (force or not is_up_to_date(mp3_path, piano_tmd)):
-            render_command = ["tmd", str(piano_tmd), "-w", str(wav_path)]
-            if soundfont:
-                render_command.extend(["--soundfont", str(soundfont.resolve())])
-            run(render_command, cwd=folder)
-            run(
-                [
-                    "ffmpeg",
-                    "-y",
-                    "-i",
-                    str(wav_path),
-                    "-codec:a",
-                    "libmp3lame",
-                    "-q:a",
-                    "2",
-                    str(mp3_path),
-                ],
-                cwd=folder,
-            )
-            if not keep_wav:
-                wav_path.unlink(missing_ok=True)
-        if mp3_path.exists():
-            audio_html = f'<audio controls src="{html.escape(mp3_path.name)}"></audio>'
-        else:
-            audio_html = "*已略過音訊渲染（尚未產生 MP3）。*"
+    audio_html = "*尚未產生音訊。*"
+    # Prefer piano accompaniment.  If it is unavailable, keep an existing
+    # original MP3; otherwise render the main melody TMD as a fallback.
+    render_tmd = piano_tmd or main_tmd
+    should_render_fallback = piano_tmd is not None or not mp3_path.exists()
+    if not no_audio and should_render_fallback and (
+        force or not is_up_to_date(mp3_path, render_tmd)
+    ):
+        render_command = ["tmd", str(render_tmd), "-w", str(wav_path)]
+        if soundfont:
+            render_command.extend(["--soundfont", str(soundfont.resolve())])
+        run(render_command, cwd=folder)
+        run(
+            [
+                "ffmpeg",
+                "-y",
+                "-i",
+                str(wav_path),
+                "-codec:a",
+                "libmp3lame",
+                "-q:a",
+                "2",
+                str(mp3_path),
+            ],
+            cwd=folder,
+        )
+        if not keep_wav:
+            wav_path.unlink(missing_ok=True)
+    # Prefer the generated piano accompaniment, but keep using a pre-existing
+    # same-stem MP3 when no accompaniment TMD is available (or rendering was
+    # skipped/failed).  The latter is the original audio supplied with the song.
+    audio_path = mp3_path if mp3_path.exists() else None
+    audio_is_piano = piano_tmd is not None and audio_path is not None
+    if audio_path:
+        audio_html = f'<audio controls src="{html.escape(audio_path.name)}"></audio>'
+    elif piano_tmd:
+        audio_html = "*已略過音訊渲染（尚未產生 MP3）。*"
 
     meta_items = list(credits) + [s for s in sources if s not in credits]
     credits_block = (
@@ -615,8 +630,9 @@ def generate_song_folder(
         desc_parts.append(f"（{credit_summary}）")
     if key_meter_summary:
         desc_parts.append(f"，調號拍號：{key_meter_summary}")
-    if mp3_path.exists():
-        desc_str = "".join(desc_parts) + "。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+    if audio_path:
+        audio_description = "雙手鋼琴伴奏 MP3" if audio_is_piano else "原始 MP3"
+        desc_str = "".join(desc_parts) + f"。提供{audio_description} 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
     else:
         desc_str = "".join(desc_parts) + "。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
     if lyrics_preview:
@@ -648,8 +664,8 @@ def generate_song_folder(
         fm_lines.append(f"musical_key: {json.dumps(score_info['key'], ensure_ascii=False)}")
     if images:
         fm_lines.append(f"image: {json.dumps(images[0].name, ensure_ascii=False)}")
-    if mp3_path.exists():
-        fm_lines.append(f"audio: {json.dumps(mp3_path.name, ensure_ascii=False)}")
+    if audio_path:
+        fm_lines.append(f"audio: {json.dumps(audio_path.name, ensure_ascii=False)}")
     fm_lines.append("---")
     frontmatter = "\n".join(fm_lines)
 
@@ -1256,6 +1272,9 @@ def main() -> int:
             )
             print(f"[單曲] 已產生：{out}")
         except RuntimeError as exc:
+            if isinstance(exc, AmbiguousMainTmdError):
+                print(f"跳過：{exc}", file=sys.stderr)
+                return 0
             print(f"錯誤：{exc}", file=sys.stderr)
             return 1
     elif song_folders:
@@ -1282,6 +1301,9 @@ def main() -> int:
                     if done % 25 == 0 or done == total:
                         print(f"  進度：{done}/{total}（最新：{folder.name}）")
                 except Exception as exc:
+                    if isinstance(exc, AmbiguousMainTmdError):
+                        print(f"  [跳過] {folder}: {exc}", file=sys.stderr)
+                        continue
                     err_msg = f"{folder}: {exc}"
                     errors.append(err_msg)
                     print(f"  [失敗] {err_msg}", file=sys.stderr)

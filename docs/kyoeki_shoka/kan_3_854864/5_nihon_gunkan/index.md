@@ -1,17 +1,18 @@
 ---
 title: "日本軍艦 — 《共益商社唱歌教科書》 巻三（教師用）"
 song_title: "日本軍艦"
-description: "〈日本軍艦〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：G 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大なること、山の如き、 鋼鉄の、軍艦、…"
+description: "〈日本軍艦〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：G 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大なること、山の如き、 鋼鉄の、軍艦、…"
 keywords: "日本軍艦, 共益商社唱歌教科書, 巻三（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻三・教師用（NDL PID 854864）"
 musical_key: "G"
 image: "P011.jpg"
+audio: "nihon_gunkan.mp3"
 ---
 
 # 日本軍艦
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="nihon_gunkan.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第十～十一頁（第一學期第五曲）
 - NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P011.jpg

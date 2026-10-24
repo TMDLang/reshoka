@@ -1,17 +1,18 @@
 ---
 title: "眞の勇士 — 《共益商社唱歌教科書》 巻二（教師用）"
 song_title: "眞の勇士"
-description: "〈眞の勇士〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：虎をば斬るもの、眞の勇士か、 城をば拔くもの、眞の勇士か、…"
+description: "〈眞の勇士〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：虎をば斬るもの、眞の勇士か、 城をば拔くもの、眞の勇士か、…"
 keywords: "眞の勇士, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
 musical_key: "G"
 image: "P016.jpg"
+audio: "makoto_no_yushi.mp3"
 ---
 
 # 眞の勇士
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="makoto_no_yushi.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第二十～二十一頁（第十曲）
 - NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P016.jpg

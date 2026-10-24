@@ -1,17 +1,18 @@
 ---
 title: "琵琶湖 — 《共益商社唱歌教科書》 巻三（教師用）"
 song_title: "琵琶湖"
-description: "〈琵琶湖〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：C 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌へや歌へ、世に名も高き、 近江の海の、八つの景、…"
+description: "〈琵琶湖〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：C 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌へや歌へ、世に名も高き、 近江の海の、八つの景、…"
 keywords: "琵琶湖, 共益商社唱歌教科書, 巻三（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻三・教師用（NDL PID 854864）"
 musical_key: "C"
 image: "P013.jpg"
+audio: "biwako.mp3"
 ---
 
 # 琵琶湖
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="biwako.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第十四～十五頁（第二學期第二曲）
 - NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P013.jpg

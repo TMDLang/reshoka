@@ -1,17 +1,18 @@
 ---
 title: "一月の遊び — 《共益商社唱歌教科書》 巻一（生徒用）"
 song_title: "一月の遊び"
-description: "〈一月の遊び〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：D 2/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あげよかみだこ、皆來てあげよ、 たこあげあそびは、…"
+description: "〈一月の遊び〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：D 2/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あげよかみだこ、皆來てあげよ、 たこあげあそびは、…"
 keywords: "一月の遊び, 共益商社唱歌教科書, 巻一（生徒用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻一・生徒用（NDL PID 854862）"
 musical_key: "D"
 image: "P016.jpg"
+audio: "ichigatsu_no_asobi.mp3"
 ---
 
 # 一月の遊び
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="ichigatsu_no_asobi.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第二十八～二十九頁（第十四曲）
 - NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P016.jpg

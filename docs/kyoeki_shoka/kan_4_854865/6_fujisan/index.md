@@ -1,17 +1,18 @@
 ---
 title: "富士山 — 《共益商社唱歌教科書》 巻四（教師用）"
 song_title: "富士山"
-description: "〈富士山〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：E, 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あふげよや、ふじのやま、 やま／＼の、あるなかに、…"
+description: "〈富士山〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：E, 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あふげよや、ふじのやま、 やま／＼の、あるなかに、…"
 keywords: "富士山, 共益商社唱歌教科書, 巻四（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻四・教師用（NDL PID 854865）"
 musical_key: "E,"
 image: "P013.jpg"
+audio: "fujisan.mp3"
 ---
 
 # 富士山
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="fujisan.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第十四～十五頁（第二學期第一曲）
 - NDL Digital Collections PID 854865（https://dl.ndl.go.jp/pid/854865）掃描 P013.jpg

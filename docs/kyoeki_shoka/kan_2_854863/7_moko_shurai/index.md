@@ -1,17 +1,18 @@
 ---
 title: "蒙古襲來 — 《共益商社唱歌教科書》 巻二（教師用）"
 song_title: "蒙古襲來"
-description: "〈蒙古襲來〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 2/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：四百餘州の、大王、 蒙古の忽必烈、…"
+description: "〈蒙古襲來〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 2/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：四百餘州の、大王、 蒙古の忽必烈、…"
 keywords: "蒙古襲來, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
 musical_key: "G"
 image: "P013.jpg"
+audio: "moko_shurai.mp3"
 ---
 
 # 蒙古襲來
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="moko_shurai.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第十四～十五頁（第七曲）
 - NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P013.jpg

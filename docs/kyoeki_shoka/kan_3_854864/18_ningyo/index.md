@@ -1,17 +1,18 @@
 ---
 title: "人形 — 《共益商社唱歌教科書》 巻三（教師用）"
 song_title: "人形"
-description: "〈人形〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：B, 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：粗末にすなと、母上の、 おほせ給ひし、此人形、…"
+description: "〈人形〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：B, 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：粗末にすなと、母上の、 おほせ給ひし、此人形、…"
 keywords: "人形, 共益商社唱歌教科書, 巻三（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻三・教師用（NDL PID 854864）"
 musical_key: "B,"
 image: "P026.jpg"
+audio: "ningyo.mp3"
 ---
 
 # 人形
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="ningyo.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第四十～四十一頁（女生徒專用曲第三曲）
 - NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P026.jpg

@@ -1,17 +1,18 @@
 ---
 title: "勸學 — 《共益商社唱歌教科書》 巻一（生徒用）"
 song_title: "勸學"
-description: "〈勸學〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：F 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雪や霰を、しのぎ來て、 斯くも櫻は、花さくものを、…"
+description: "〈勸學〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：F 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雪や霰を、しのぎ來て、 斯くも櫻は、花さくものを、…"
 keywords: "勸學, 共益商社唱歌教科書, 巻一（生徒用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻一・生徒用（NDL PID 854862）"
 musical_key: "F"
 image: "P004.jpg"
+audio: "kangaku.mp3"
 ---
 
 # 勸學
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="kangaku.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第四～五頁（第二曲）
 - NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P004.jpg

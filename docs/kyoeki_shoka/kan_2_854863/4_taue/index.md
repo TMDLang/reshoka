@@ -1,17 +1,18 @@
 ---
 title: "田植 — 《共益商社唱歌教科書》 巻二（教師用）"
 song_title: "田植"
-description: "〈田植〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：もろ聲に、いざ賑しく、 歌ひて植ゑよや、門田の早苗、…"
+description: "〈田植〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：もろ聲に、いざ賑しく、 歌ひて植ゑよや、門田の早苗、…"
 keywords: "田植, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
 musical_key: "G"
 image: "P010.jpg"
+audio: "taue.mp3"
 ---
 
 # 田植
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="taue.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第八～九頁（第四曲）
 - NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P010.jpg

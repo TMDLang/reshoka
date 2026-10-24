@@ -1,17 +1,18 @@
 ---
 title: "螢 — 《共益商社唱歌教科書》 巻三（教師用）"
 song_title: "螢"
-description: "〈螢〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：F 6/8。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：露の白玉、かゝるかと、 觸りて見れば、玉篠の、…"
+description: "〈螢〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：F 6/8。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：露の白玉、かゝるかと、 觸りて見れば、玉篠の、…"
 keywords: "螢, 共益商社唱歌教科書, 巻三（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻三・教師用（NDL PID 854864）"
 musical_key: "F"
 image: "P012.jpg"
+audio: "hotaru.mp3"
 ---
 
 # 螢
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="hotaru.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第十二～十三頁（第二學期第一曲）
 - NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P012.jpg

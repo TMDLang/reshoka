@@ -1,17 +1,18 @@
 ---
 title: "進軍 — 《共益商社唱歌教科書》 巻一（生徒用）"
 song_title: "進軍"
-description: "〈進軍〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：G 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：勇む兵士、數を知らず、 ならびならぶ、あのつゝさき、…"
+description: "〈進軍〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：G 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：勇む兵士、數を知らず、 ならびならぶ、あのつゝさき、…"
 keywords: "進軍, 共益商社唱歌教科書, 巻一（生徒用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻一・生徒用（NDL PID 854862）"
 musical_key: "G"
 image: "P022.jpg"
+audio: "shingun.mp3"
 ---
 
 # 進軍
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="shingun.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第四十～四十一頁（第二十曲）
 - NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P022.jpg

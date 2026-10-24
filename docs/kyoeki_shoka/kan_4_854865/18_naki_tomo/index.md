@@ -1,17 +1,18 @@
 ---
 title: "亡き友 — 《共益商社唱歌教科書》 巻四（教師用）"
 song_title: "亡き友"
-description: "〈亡き友〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：G 4/4。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：曉の露、ふみわけて、 さそひさそはれ、いくとせか、…"
+description: "〈亡き友〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：G 4/4。提供原始 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：曉の露、ふみわけて、 さそひさそはれ、いくとせか、…"
 keywords: "亡き友, 共益商社唱歌教科書, 巻四（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻四・教師用（NDL PID 854865）"
 musical_key: "G"
 image: "P030.jpg"
+audio: "naki_tomo.mp3"
 ---
 
 # 亡き友
 
-*找不到鋼琴伴奏版 TMD，未產生音訊。*
+<audio controls src="naki_tomo.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第四十八～四十九頁（女生徒專用曲第三曲）
 - NDL Digital Collections PID 854865（https://dl.ndl.go.jp/pid/854865）掃描 P030.jpg
