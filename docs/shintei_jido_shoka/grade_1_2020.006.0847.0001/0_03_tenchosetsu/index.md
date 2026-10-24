@@ -53,18 +53,18 @@ M:4/4
 L:1/16
 Q:1/4=96
 K:D
-V:V1 name="Piano" snm="Pia"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
-F8 E4 D4 | E6 F2 E4 D4 | A4 A4 B4 d4 | F8 E4 z4 |
-F8 E4 D4 | A4 F4 E4 D4 | E4 F4 E6 D2 | D12 z4 |
-A8 F4 A4 | B6 B2 A4 F4 | B6 B2 A4 d4 | A12 z4 |
-d8 B4 A4 | F4 A4 B4 A4 | F4 E4 F6 E2 | D12 z4 |
+!mf! F8 E4 D4 | G6 G2 F4 E4 | A6 A2 B4 G4 | F8 E4 z4 |
+G8 F4 B4 | A4 A4 D4 G4 | F4 F4 E6 D2 | D12 z4 |
+!p! G8 F4 E4 | F6 F2 F4 A4 | !mf! B6 d2 c4 B4 | A12 z4 |
+!f! d8 c4 B4 | A4 A4 B4 G4 | F4 A4 G6 E2 | D12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tenchosetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqRCdGtpKTxdsvLl1O3P1zcoaGlxKdoqWJpx2dsquHDZmOib2IE0vlg57_2eWS93T3q6fe7zOfNeLtgDNu_Z7E1A4adLlz5duvf5vpVgsRftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKj4enaHU93bnk-ZcX7PR2gUNQDhqIeKBSBDAPD93s6lbi49LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHugvo2aetK55Nawe64umG3mftnQoBBgbmelkF6e_39DxtaXi6px-oTKFAT8EYKAB0uoKxwstl04DuA4YGyMwXq_Y_a1gOMq2798XM-UDRx83dwBAGiisAg1QBKPx07QSg3scNPU_XdD5u2v64aRNQyeOGXpCdffNfrJ3ztLP3aevKFwt7gMY83dcDYT-d0PJsTufT_t4Xy9perJgBNruTC2Tlk91dz6YvBep-3DjxceNWoPDjxnWPm4DcXqD448b1jxsani5Z_nTCbLCarseNux839j1u3A9RCTLi-RSgaUC5tseN-0CiTT3Pty4Di8yHijRuetw4HcnQVY-buhCWY1oINP5pKzBQgIJAnd1A1QjbHjdOBRr2tH0XWHo5UIJY27AZ2QTU87hxLVApyJ9QT_bCvNfzZPdikEhTB9hfk8C-XToXrKgF6FSwoh0vVu94sgvsnKamx01AzZsfNwJTYifII2CRp60bwVpWALlgLatBBj0DhTZQT-PjxgkwCwfQOZTnCihQ0NLn4goBljUZ-cWpJcWlVgGZiXn5DjUGNQrVIIsUbCy07MAMbFlSAZKjgWlWQcNE4emGfmDpogPPR5pYNACtAxlWA8xMumBoBMSGQFwDZukCxREipkAShM1AInFgIWRtBiARcL7A7bhdPdRxHMgZIFFU58JEQGI1YHEYJMZtOzrJcRvIJZCAggRODTh4QIEEcyOqCDTgYNqIdNzT2bPJcRzYMojdMNfB3IkqAgs9EAtbyNVycenaKSAlTAUgV5mLCwA)]
-- [鋼琴伴奏 TMD 檔案](tenchosetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOXLqdufr294v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cNmY6JvYcdUpKL1YOe_9nlkvd096un3u8znzXi7YowQSfjZ7E1D46dKlT5fufb5vJVjsRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Gh4unbH051bnk9ZAXSckYGRgZ6BgZmegYWJOZBhYAh0nxIXV0hqXnJGfnFqSXGpVUBmYl5-kIdDjUGNQjWXAhDYWGjZgRn6Wgq26EABYsuLhT0KGiYKTzf0A4NBRyHAwMBcL6sgXROLBi19sGE1CsYKumBoBMSGQFwDZukCxREipkAShM1AInFgIWRtBiARLvyO29VDHceBnAESRXUuTAQkVgMWh0Fi3Lajkxy3gVwCCShI4NSAgwcUSDA3oopAAw6mjUjHPZ09mxzHgS2D2A1zHcydqCKw0AOxsIVcLZZ06YOSLk0Q6fJp646Xs1uftW4DMoAOf9bd-3TtBEguRHJavEK0YSyMAgZIPJBlGo8kAmWYACkTFBUghgHQUdgNgjLMQKrN4nMxdIIZyNpwGwW1Gicfv4vgDsfrEazOAQa3rp0CUogrALnKXFwA)]
+- [主旋律 TMD 檔案](tenchosetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqRCdGtpKTxdsvLl1O3P1zcoaGlxKdoqWJpx2dsquHDZmOib2IE0vlg57_2eWS93T3q6fe7zOfNeLtgDNu_Z7E1A4adLlz5duvf5vpVgsRftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKj4enaHU93bnk-ZcX7PR2gUNQDhqIeKBSBDAPD93s6lbi49LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHugvo2aetK55Nawe64umG3mftnQoBBgbmelkF6e_39DxtaXi6px-oTKFAT8EYKAB0uoKxwstl04DuA4YGyMwXq_Y_a1gOMq2798XM-UDRx83dwBAGiisAg1QBKPx07QSg3scNPU_XdD5u2v64aRNQyeOGXpCdffNfrJ3ztLP3aevKFwt7gMY83dcDYT-d0PJsTufT_t4Xy9perJgBNruTC2Tlk91dz6YvBep-3DjxceNWoPDjxnWPm4DcXqD448b1jxsani5Z_nTCbLCarseNux839j1u3A9RCTLi-RSgaUC5tseN-0CiTT3Pty4Di8yHijRuetw4HcnQVY-buhCWY1oINP5pKzBQgIJAnd1A1QjbHjdOBRr2tH0XWHo5UIJY27AZ2QTU87hxLVApyJ9QT_bCvNfzZPdikEhTB9hfk8C-XToXrKgF6FSwoh0vVu94sgvsnKamx01AzZsfNwJTYifII2CRp60bwVpWALlgLatBBj0DhTZQT-PjxgkwCwfQOZTnCihQ0NLn4goBljUZ-cWpJcWlVmH5yYk5DjUGNQrVIIsUbCy07MAMbFlSAZKjgWlWQcNE4emGfmDpogPPR5pYNACtAxkGND03rRaYo3TB0AiIDYG4RsEEzDcBy4BEaxRMwSKmCmZgcZAIsi4DkAg4b-B24K4echwIcYku2DaQ3RCXgDDIpQiXwFwKEq8By8EgMW7b0UlW4BXUorgPElKQcDEG0yB3QgMZ5Hig4-IUzFF8QoIrn86eTZYrgZYDrYVYg2o5CKNGKEgE4iUjrMFYy8Wla6eAlFIVgFxlLi4A)]
+- [鋼琴伴奏 TMD 檔案](tenchosetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOXLqdufr294v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cNmY6JvYcdUpKL1YOe_9nlkvd096un3u8znzXi7YowQSfjZ7E1D46dKlT5fufb5vJVjsRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Gh4unbH051bnk9ZAXSckYGRgZ6BgZmegYWJOZBhYAh0nxIXV0hqXnJGfnFqSXGpVUBmYl5-kIdDjUGNQjWXAhDYWGjZgRn6Wgq26EABYsuLhT0KGiYKTzf0A4NBRyHAwMBcL6sgXROLBi19sGFA03PTahWMFXTB0AiIDYG4RsEEzDcBy4BEaxRMwSKmCmZgcZAIsi4DkAgXfgfu6iHHgRCX6IJtA9kNcQkIg1yKcAnMpSDxGrAcDBLjth2dZAVeQS2K-yAhBQkXYzANcic0kEGOBzouTsEcxSckuPLp7NlkuRJoOdBaiDWoloMwaoSCRCBeMsIajLVYEqoPSkI1QSTUp607Xs5ufda6DcgAOv5Zd-_TtRMg2RLhPMN4hWjDWBgFdFc8kGUajyQCZZgAKRMUFSCGAdBR2A2CMsxAqs3iczF0ghnI2nAbBbUaJx-_i-AOx-sRrM4BBreunQJSiCtgcpW5uAA)]
 
 ## 分析
 
@@ -77,19 +77,19 @@ d8 B4 A4 | F4 A4 B4 A4 | F4 E4 F6 E2 | D12 z4 |
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Tenchosetsu #1 @ m.1, 0:01]
-   - 最高音: D5 in [Tenchosetsu #1 @ m.3, 0:06]
+   - 最高音: D5 in [Tenchosetsu #1 @ m.11, 0:25]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Tenchosetsu (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, F#, A, E, B
-   - 調性數值:    D 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.84), A 大調 (0.74), F# 小調 (0.69)
+   - 核心骨幹音:  F#, D, A, G, B
+   - 調性數值:    D 大調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.90), B 小調 (0.66), F# 小調 (0.62)
    - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Tenchosetsu #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Tenchosetsu #1]: D 大調 (r: 0.90, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -103,20 +103,20 @@ d8 B4 A4 | F4 A4 B4 A4 | F4 E4 F6 E2 | D12 z4 |
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# :                            0.0%
-     D  : ████████████████████████  24.2%
+     C# : ████                       3.3%
+     D  : ████████████████████      18.3%
      D# :                            0.0%
-     E  : █████████████████         17.5%
+     E  : ███████████               10.0%
      F  :                            0.0%
-     F# : ███████████████████████   23.3%
-     G  :                            0.0%
+     F# : ████████████████████████  21.7%
+     G  : ███████████████████       17.5%
      G# :                            0.0%
-     A  : ███████████████████████   23.3%
+     A  : ████████████████████      18.3%
      A# :                            0.0%
-     B  : ████████████              11.7%
+     B  : ████████████              10.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 49 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 49 個音符)
 ================================================================================
 ```
 
