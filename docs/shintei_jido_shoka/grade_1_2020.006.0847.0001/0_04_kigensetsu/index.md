@@ -66,16 +66,16 @@ Q:1/4=80
 K:C
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
-G8 G4 A4 | E4 E4 D4 E4 | G4 G4 G4 A4 | E12 z4 |
-G8 G4 A4 | E4 E4 D4 C4 | D4 D4 D4 E4 | C12 z4 |
-A8 A4 c4 | d4 d4 d4 c4 | A4 A4 A4 G4 | A12 z4 |
+G4 G4 G4 A4 | E4 E4 D4 E4 | G4 G4 G4 A4 | E12 z4 |
+G4 G4 G4 A4 | E4 E4 D4 C4 | D4 D4 D4 E4 | C12 z4 |
+A4 A4 A4 c4 | d4 d4 d4 c4 | A4 A4 A4 G4 | A12 z4 |
 c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kigensetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqRCdGtpKTzf0vC0tfn5-gYFLS0uRVsFCwMue1sFZy4bE30TO5DGFyvnvd8z6-XqGU-39D1bu_jlohVg857N3gQUfrKn69m-JU_2r3uyqwcs_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrHi_pwMUkHrAgNQDBSSQYWD4fk-nEheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AdwH9-7R1xbNp7UBXPN3Q-6y9UyHAwMBCL6sg_f2enqctDU_39AOVKRToKZgABYBOVzBReLlsGtB9wAABmfli1f5nDctBpnX3vpg5Hyj6uLn_5dTtQHEFYKgqAIWfrp0A1Pu4oefZjpVPJ_U8bu5-3NDLBdIMDIfHDQ0vQaHb8bix_3FTE9Dgx42rXzRuBovMfQxidD5uanvcBNTUAIqY3ubnK4HKgLLzHzd2P25c-LhxN1jXOpCJIBXbdiFJrwXLdT1u6n3cOB1oNNCUF71Ax4Pta5wKNr3p2RxQNDxu7IVwwQbNXQgWWgV1QiNQ_1awERMfN00GmvJ0yfKn-xY-2QEMC6CyLqArHjfuf9zUATZiEth3uzeA5ZqAOsFGTHiyu-vZ9KVgwYkwwckgbzY0PFsB99Q6sDjEph5IOO0CBl_Ds63bgTEIVtUGdtiGx01AnwDVAtmzISH0dP6Wp-sg3lsP8m1Ty-PGmYjgebZxAVgOKDoRIvpy7iKoByCB39TxuKkLaBDY0N1Pdy8Gy24Chh8kFMCmgJwOVNcI9BLQ0xCDnm2GGATUBhEBBfWzrVsgQQAW2Q_01ROIiTQKpx2d4JhZ-WzLUqABT6dDXA80eN_jxiUgb4DIPoiDoelp38Knu5YjJRigI4EJERSu4CzT2wx08YsJa6DuBiY3UAgBETA9LIV6A-zVp93AxASJmimwBAMMC3CAPZ0PTpJNQIesAAY-UBpYPoDDbzo4qIHpfB3UcmoHydPZs4FKnq-E5Im5sBSz-sWeuWCR7sdN84CpBCzYDzJs-lJQZM5ZA00xQK9D4gviY0jQPZ3TDctBq-EB8HIhsOyEOAOYKoBZGpIwIQGArmEdMNyfzd8IFgSGODCtToc6DRiSu6EZGKxyGSjRQHIZ9RMN0CDKi1YoUNDS5-LyzkxPzStOLSkutQrLT07McagxqFGoBtmjYGOhZQdmYCvWFSC1wouFPQoaJgpPN_QDKykdeFmsiUUD0DaQYTUKpgq6YAiizYC4RsEYSIKwEZSGqIFhhBoYNACJgFMLbrft6qG-2wzBIiAWDENcCxInxW07OslxG8g9IAiiDeMgTgFRCAIqClIAwyCPILQS6UBgHiTHgWDrQRDMALsI4RiQQyChhRx2IBpb-NVycenaKSASpwKQp8zFBQA)]
-- [鋼琴伴奏 TMD 檔案](kigensetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-peFpa_Pz9Q3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwULAy57WwVnLhsTfRM7rjoFpRcr573fM-vl6hlPt_Q9W7v45aIVSiDhZ7M3AYWf7Ol6tm_Jk_3rnuzqAQu_aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgO4zMjAy0DMwMNMzsDAxBzIMDIFOVOLi8s5MT80rTi0pLrUKyEzMyw_ycKgxqFGo5lIAAhsLLTswQ19LwRYdKEAsebGwR0HDROHphn5gQOgoBBgYWOhlFaRrYtGgpQ82rEbBVEEXDEG0GRDXKBgDSRA2gtIQNTCMUAODBiARLvxu29VDfbcZgkVALBiGuBYkTorbdnSS4zaQe0AQRBvGQZwCohAEVBSkAIZBHkFoJdKBT2fPJseBYOtBEMwAuwjhGJBDIKGFHHYgGlv41WKmTR-UtGmCSJsv-rpetvcC3fysu_fp2glPJ_W8aNwEyYtIbotXiDaMhVFwvlk8kDaLzwUJmQCZJkhKTEFypvGxYIYB0FEoJsFl4SJQ_WgaUdUAKYRJUA1wfUZAhhHILXARdFfjdxJcG16fYHUQMLx17RQQQa4A5ClzcQEA)]
+- [主旋律 TMD 檔案](kigensetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqRCdGtpKTzf0vC0tfn5-gYFLS0uRVsFCwMue1sFZy4bE30TO5DGFyvnvd8z6-XqGU-39D1bu_jlohVg857N3gQUfrKn69m-JU_2r3uyqwcs_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrHi_pwMUkHrAgNQDBSSQYWD4fk-nEheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AdwH9-7R1xbNp7UBXPN3Q-6y9UyHAwMBCL6sg_f2enqctDU_39AOVKRToKZgABYBOVzBReLlsGtB9wAABmfli1f5nDctBpnX3vpg5Hyj6uLn_5dTtQHEFYKgqAIWfrp0A1Pu4oefZjpVPJ_U8bu5-3NDLBdIMDIfHDQ0vQaHb8bix_3FTE9Dgx42rXzRuBovMfQxidD5uanvcBNTUAIqY3ubnK4HKgLLzHzd2P25c-LhxN1jXOpCJIBXbdiFJrwXLdT1u6n3cOB1oNNCUF71Ax4Pta5wKNr3p2RxQNDxu7IVwwQbNXQgWWgV1QiNQ_1awERMfN00GmvJ0yfKn-xY-2QEMC6CyLqArHjfuf9zUATZiEth3uzeA5ZqAOsFGTHiyu-vZ9KVgwYkwwckgbzY0PFsB99Q6sDjEph5IOO0CBl_Ds63bgTEIVtUGdtiGx01AnwDVAtmzISH0dP6Wp-sg3lsP8m1Ty-PGmYjgebZxAVgOKDoRIvpy7iKoByCB39TxuKkLaBDY0N1Pdy8Gy24Chh8kFMCmgJwOVNcI9BLQ0xCDnm2GGATUBhEBBfWzrVsgQQAW2Q_01ROIiTQKpx2d4JhZ-WzLUqABT6dDXA80eN_jxiUgb4DIPoiDoelp38Knu5YjJRigI4EJERSu4CzT2wx08YsJa6DuBiY3UAgBETA9LIV6A-zVp93AxASJmimwBAMMC3CAPZ0PTpJNQIesAAY-UBpYPoDDbzo4qIHpfB3UcmoHydPZs4FKnq-E5Im5sBSz-sWeuWCR7sdN84CpBCzYDzJs-lJQZM5ZA00xQK9D4gviY0jQPZ3TDctBq-EB8HIhsOyEOAOYKoBZGpIwIQGArmEdMNyfzd8IFgSGODCtToc6DRiSu6EZGKxyGSjRQHIZ9RMN0CDKi1YoUNDS5-LyzkxPzStOLSkutQrLT07McagxqFGoBtmjYGOhZQdmYCvWFSC1wouFPQoaJgpPN_QDKykdeFmsiUUD0DaQYTUKpgq6cGwGxDUKxkAShI2gNC41MGgAEgGnFtxu29VDfbcZgkVALBiGuBYkTorbdnSS4zaQe2DYMA7iFBCFIKCiyApBHoGIkOBAYB4kx4Fg60EQzAC7COEYkEMgoYUcdiAaW_jVcnHp2ikgEqcCkKfMxQUA)]
+- [鋼琴伴奏 TMD 檔案](kigensetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-peFpa_Pz9Q3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwULAy57WwVnLhsTfRM7rjoFpRcr573fM-vl6hlPt_Q9W7v45aIVSiDhZ7M3AYWf7Ol6tm_Jk_3rnuzqAQu_aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgO4zMjAy0DMwMNMzsDAxBzIMDIFOVOLi8s5MT80rTi0pLrUKyEzMyw_ycKgxqFGo5lIAAhsLLTswQ19LwRYdKEAsebGwR0HDROHphn5gQOgoBBgYWOhlFaRrYtGgpQ82rEbBVEEXjs2AuEbBGEiCsBGUxqUGBg1AIlz43barh_puMwSLgFgwDHEtSJwUt-3oJMdtIPfAsGEcxCkgCkFARZEVgjwCESHBgU9nzybHgWDrQRDMALsI4RiQQyChhRx2IBpb-NVipk0flLRpgkibL_q6Xrb3At38rLv36doJTyf1vGjcBMmLSG6LV4g2jIVRcL5ZPJA2i88FCZkAmSZISkxBcqbxsWCGAdBRKCbBZeEiUP1oGlHVACmESVANcH1GQIYRyC1wEXRX43cSXBten2B1EDC8de0UEEGuAOQpc3EBAA)]
 
 ## 分析
 
@@ -103,13 +103,13 @@ c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
      • [Kigensetsu #1]: A 調性不明確 (r: 0.75, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-               C
-         F            G
-      Bb               D
+               C  
+         F            G  
+      Bb               D  
       Eb              [A ]*
-         Ab           E
-            Db       B
-               F#
+         Ab           E  
+            Db       B  
+               F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
@@ -127,7 +127,7 @@ c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – D5 (14 個半音 / 1.2 個八度, 48 個音符)
+  - Vocal         : C4 – D5 (14 個半音 / 1.2 個八度, 51 個音符)
 ================================================================================
 ```
 
