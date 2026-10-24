@@ -1,0 +1,23 @@
+X:1
+T:朝風
+M:4/4
+L:1/16
+Q:1/4=112
+K:D
+V:V1 name="Voice" snm="Voi"
+[V:V1]
+!mp! z4 z4 z4 D3 F | A11 A B3 A | F12 E3 F | G4 A4 A4 B4 |
+A11 B d3 B | A11 A B3 A | F12 D3 E | F4 G4 F4 E4 |
+D12 z4 | !mf! A8 F6 D2 | E6 E2 D4 E4 | F6 G2 A4 B4 |
+B4 d2 B2 A4 z4 | B6 B2 A4 F4 | F6 F2 E4 D4 | E6 E2 D2 F2 A2 F2 |
+E8 D4 A4 | B8 A6 A2 | d12 z4 | !mp! z4 z4 z4 D3 F |
+A11 A B3 A | F12 E3 F | G4 A4 A4 B4 | A11 B d3 B |
+A11 A B3 A | F12 D3 E | F4 G4 F4 E4 | D12 z4 |
+!mf! A8 F6 D2 | E6 E2 D4 E4 | F6 G2 A4 B4 | B4 d2 B2 A4 z4 |
+B6 B2 A4 F4 | F6 F2 E4 D4 | E6 E2 D2 F2 A2 F2 | E8 D4 A4 |
+B8 A6 A2 | d12 z4 | !mp! z4 z4 z4 D3 F | A11 A B3 A |
+F12 E3 F | G4 A4 A4 B4 | A11 B d3 B | A11 A B3 A |
+F12 D3 E | F4 G4 F4 E4 | D12 z4 | !mf! A8 F6 D2 |
+E6 E2 D4 E4 | F6 G2 A4 B4 | B4 d2 B2 A4 z4 | B6 B2 A4 F4 |
+F6 F2 E4 D4 | E6 E2 D2 F2 A2 F2 | E8 D4 A4 | B8 A6 A2 |
+d12 z4 |

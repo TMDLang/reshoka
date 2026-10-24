@@ -1,0 +1,21 @@
+X:1
+T:水車
+M:6/8
+L:1/16
+Q:3/8=69
+K:F
+V:V1 name="Voice" snm="Voi"
+[V:V1]
+z2 z2 z2 z2 z2 F2 | F4 G2 A4 B2 | c4 d2 c4 A2 | F4 G2 A2 G2 F2 |
+G10 F2 | F4 A2 c4 =B2 | c4 d2 c4 A2 | F4 G2 A4 B2 |
+A4 F2 c4 F2 | c4 d2 c4 A2 | F4 G2 A4 F2 | c4 d2 c4 A2 |
+F2 G2 A2 G4 C2 | C4 F2 A4 F2 | c4 d2 c4 A2 | F4 G2 A4 B2 |
+A4 G2 F4 z2 | z2 z2 z2 z2 z2 F2 | F4 G2 A4 B2 | c4 d2 c4 A2 |
+F4 G2 A2 G2 F2 | G10 F2 | F4 A2 c4 =B2 | c4 d2 c4 A2 |
+F4 G2 A4 B2 | A4 F2 c4 F2 | c4 d2 c4 A2 | F4 G2 A4 F2 |
+c4 d2 c4 A2 | F2 G2 A2 G4 C2 | C4 F2 A4 F2 | c4 d2 c4 A2 |
+F4 G2 A4 B2 | A4 G2 F4 z2 | z2 z2 z2 z2 z2 F2 | F4 G2 A4 B2 |
+c4 d2 c4 A2 | F4 G2 A2 G2 F2 | G10 F2 | F4 A2 c4 =B2 |
+c4 d2 c4 A2 | F4 G2 A4 B2 | A4 F2 c4 F2 | c4 d2 c4 A2 |
+F4 G2 A4 F2 | c4 d2 c4 A2 | F2 G2 A2 G4 C2 | C4 F2 A4 F2 |
+c4 d2 c4 A2 | F4 G2 A4 B2 | A4 G2 F4 z2 |

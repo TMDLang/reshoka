@@ -1,0 +1,17 @@
+X:1
+T:松の操
+M:6/8
+L:1/16
+Q:3/8=38
+K:G
+V:V1 name="Voice" snm="Voi"
+[V:V1]
+!mp! z2 z2 z2 z2 z2 D2 | B4 A2 G2 F2 G2 | A6 D4 D2 | G4 G2 A4 A2 |
+!mf! B10 D2 | B4 A2 G2 F2 E2 | D6 G4 G2 | A4 A2 B4 A2 |
+!mf! G10 D2 | d4 c2 B2 A2 B2 | !p! c6 e4 d2 | d4 e2 d4 ^c2 |
+!mf! d10 D2 | B4 A2 G2 F2 G2 | !mp! A6 D4 D2 | A4 A2 A4 B2 |
+G10 z2 | !mp! z2 z2 z2 z2 z2 D2 | B4 A2 G2 F2 G2 | A6 D4 D2 |
+G4 G2 A4 A2 | !mf! B10 D2 | B4 A2 G2 F2 E2 | D6 G4 G2 |
+A4 A2 B4 A2 | !mf! G10 D2 | d4 c2 B2 A2 B2 | !p! c6 e4 d2 |
+d4 e2 d4 ^c2 | !mf! d10 D2 | B4 A2 G2 F2 G2 | !mp! A6 D4 D2 |
+A4 A2 A4 B2 | G10 z2 |

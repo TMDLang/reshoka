@@ -3,7 +3,7 @@ site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910�
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
-repo_url: https://github.com/tmdlang/reshoka
+# repo_url: https://github.com/tmdlang/reshoka
 
 theme:
   name: material
@@ -28,7 +28,6 @@ theme:
         name: 切換為淺色模式
   features:
     - navigation.instant
-    # - navigation.indexes
     - navigation.tracking
     - navigation.sections
     - navigation.top
@@ -796,5 +795,92 @@ nav:
           - "P217 鄭成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
           - "P220 琵琶湖 (琵琶湖)": shokacho/vol_10/p220_biwako/index.md
           - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
-  - 再創作:
-      - "《公學校唱歌》第三學年室內樂組曲": recreations/kogakko_shoka_grade3_suite/index.md
+  - 共益商社唱歌教科書:
+      - 巻一（生徒用）:
+          - 總覽: kyoeki_shoka/kan_1_854862/index.md
+          - 書訊與掃描頁: kyoeki_shoka/kan_1_854862/0_book_info/index.md
+          - "1 櫻": kyoeki_shoka/kan_1_854862/1_sakura/index.md
+          - "2 勸學": kyoeki_shoka/kan_1_854862/2_kangaku/index.md
+          - "3 祝ひ日": kyoeki_shoka/kan_1_854862/3_iwaibi/index.md
+          - "4 學びの園": kyoeki_shoka/kan_1_854862/4_manabi_no_sono/index.md
+          - "5 朝起": kyoeki_shoka/kan_1_854862/5_asaoki/index.md
+          - "6 雲雀": kyoeki_shoka/kan_1_854862/6_hibari/index.md
+          - "7 虹": kyoeki_shoka/kan_1_854862/7_niji/index.md
+          - "8 やすみの鐘": kyoeki_shoka/kan_1_854862/8_yasumi_no_kane/index.md
+          - "9 日本三景": kyoeki_shoka/kan_1_854862/9_nihon_sankei/index.md
+          - "10 虫": kyoeki_shoka/kan_1_854862/10_mushi/index.md
+          - "11 運動會": kyoeki_shoka/kan_1_854862/11_undokai/index.md
+          - "12 日本男兒": kyoeki_shoka/kan_1_854862/12_nihon_danji/index.md
+          - "13 小犬": kyoeki_shoka/kan_1_854862/13_koinu/index.md
+          - "14 一月の遊び": kyoeki_shoka/kan_1_854862/14_ichigatsu_no_asobi/index.md
+          - "15 母のおもひ": kyoeki_shoka/kan_1_854862/15_haha_no_omoi/index.md
+          - "16 竹馬": kyoeki_shoka/kan_1_854862/16_takeuma/index.md
+          - "17 雪達磨": kyoeki_shoka/kan_1_854862/17_yukidaruma/index.md
+          - "18 航海": kyoeki_shoka/kan_1_854862/18_kokai/index.md
+          - "19 時はこがね": kyoeki_shoka/kan_1_854862/19_toki_wa_kogane/index.md
+          - "20 進軍": kyoeki_shoka/kan_1_854862/20_shingun/index.md
+      - 巻二（教師用）:
+          - 總覽: kyoeki_shoka/kan_2_854863/index.md
+          - 書訊與掃描頁: kyoeki_shoka/kan_2_854863/0_book_info/index.md
+          - "1 來れ遊べ": kyoeki_shoka/kan_2_854863/1_kitare_asobe/index.md
+          - "2 ボート": kyoeki_shoka/kan_2_854863/2_boto/index.md
+          - "3 雨": kyoeki_shoka/kan_2_854863/3_ame/index.md
+          - "4 田植": kyoeki_shoka/kan_2_854863/4_taue/index.md
+          - "5 朋友": kyoeki_shoka/kan_2_854863/5_hoyu/index.md
+          - "6 皇統": kyoeki_shoka/kan_2_854863/6_koto/index.md
+          - "7 蒙古襲來": kyoeki_shoka/kan_2_854863/7_moko_shurai/index.md
+          - "8 乳牛": kyoeki_shoka/kan_2_854863/8_nyugyu/index.md
+          - "9 海": kyoeki_shoka/kan_2_854863/9_umi/index.md
+          - "10 眞の勇士": kyoeki_shoka/kan_2_854863/10_makoto_no_yushi/index.md
+          - "11 月": kyoeki_shoka/kan_2_854863/11_tsuki/index.md
+          - "12 行軍を觀る": kyoeki_shoka/kan_2_854863/12_kogun_o_miru/index.md
+          - "13 泉": kyoeki_shoka/kan_2_854863/13_izumi/index.md
+          - "14 雪": kyoeki_shoka/kan_2_854863/14_yuki/index.md
+          - "15 懐友": kyoeki_shoka/kan_2_854863/15_kaiyu/index.md
+          - "16 須磨明石": kyoeki_shoka/kan_2_854863/16_suma_akashi/index.md
+          - "17 農夫": kyoeki_shoka/kan_2_854863/17_nofu/index.md
+          - "18 親のめぐみ": kyoeki_shoka/kan_2_854863/18_oya_no_megumi/index.md
+      - 巻三（教師用）:
+          - 總覽: kyoeki_shoka/kan_3_854864/index.md
+          - 書訊與掃描頁: kyoeki_shoka/kan_3_854864/0_book_info/index.md
+          - "1 朝風": kyoeki_shoka/kan_3_854864/1_asakaze/index.md
+          - "2 振天府": kyoeki_shoka/kan_3_854864/2_shintenfu/index.md
+          - "3 美しき天然": kyoeki_shoka/kan_3_854864/3_utsukushiki_tennen/index.md
+          - "4 水車": kyoeki_shoka/kan_3_854864/4_suisha/index.md
+          - "5 日本軍艦": kyoeki_shoka/kan_3_854864/5_nihon_gunkan/index.md
+          - "6 螢": kyoeki_shoka/kan_3_854864/6_hotaru/index.md
+          - "7 琵琶湖": kyoeki_shoka/kan_3_854864/7_biwako/index.md
+          - "8 故郷の小川": kyoeki_shoka/kan_3_854864/8_furusato_no_ogawa/index.md
+          - "9 豐年": kyoeki_shoka/kan_3_854864/9_honen/index.md
+          - "10 秋景": kyoeki_shoka/kan_3_854864/10_shukei/index.md
+          - "11 コロンブス": kyoeki_shoka/kan_3_854864/11_koronbusu/index.md
+          - "12 自然": kyoeki_shoka/kan_3_854864/12_shizen/index.md
+          - "13 日本刀": kyoeki_shoka/kan_3_854864/13_nihonto/index.md
+          - "14 和氣清麿": kyoeki_shoka/kan_3_854864/14_wake_no_kiyomaro/index.md
+          - "15 かちどき": kyoeki_shoka/kan_3_854864/15_kachidoki/index.md
+          - "16 鏡": kyoeki_shoka/kan_3_854864/16_kagami/index.md
+          - "17 松の操": kyoeki_shoka/kan_3_854864/17_matsu_no_misao/index.md
+          - "18 人形": kyoeki_shoka/kan_3_854864/18_ningyo/index.md
+          - "19 子守唄": kyoeki_shoka/kan_3_854864/19_komoriuta/index.md
+      - 巻四（教師用）:
+          - 總覽: kyoeki_shoka/kan_4_854865/index.md
+          - 書訊與掃描頁: kyoeki_shoka/kan_4_854865/0_book_info/index.md
+          - "1 花見": kyoeki_shoka/kan_4_854865/1_hanami/index.md
+          - "2 仁德天皇": kyoeki_shoka/kan_4_854865/2_nintoku_tenno/index.md
+          - "3 我陸軍": kyoeki_shoka/kan_4_854865/3_waga_rikugun/index.md
+          - "4 京都": kyoeki_shoka/kan_4_854865/4_kyoto/index.md
+          - "5 ワシントン": kyoeki_shoka/kan_4_854865/5_washinton/index.md
+          - "6 富士山": kyoeki_shoka/kan_4_854865/6_fujisan/index.md
+          - "7 田舍の夕ぐれ": kyoeki_shoka/kan_4_854865/7_inaka_no_yugure/index.md
+          - "8 朝日の旗": kyoeki_shoka/kan_4_854865/8_asahi_no_hata/index.md
+          - "9 靖國神社": kyoeki_shoka/kan_4_854865/9_yasukuni_jinja/index.md
+          - "10 日本武尊": kyoeki_shoka/kan_4_854865/10_yamato_takeru_no_mikoto/index.md
+          - "11 歳暮": kyoeki_shoka/kan_4_854865/11_seibo/index.md
+          - "12 樂しき我家": kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md
+          - "13 日本海軍": kyoeki_shoka/kan_4_854865/13_nihon_kaigun/index.md
+          - "14 御眞影": kyoeki_shoka/kan_4_854865/14_goshinei/index.md
+          - "15 名は萬代": kyoeki_shoka/kan_4_854865/15_na_wa_yorozuyo/index.md
+          - "16 花鳥": kyoeki_shoka/kan_4_854865/16_hanatori/index.md
+          - "17 赤十字": kyoeki_shoka/kan_4_854865/17_sekijuji/index.md
+          - "18 亡き友": kyoeki_shoka/kan_4_854865/18_naki_tomo/index.md
+          - "19 水鳥": kyoeki_shoka/kan_4_854865/19_mizutori/index.md

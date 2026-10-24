@@ -1,0 +1,16 @@
+X:1
+T:勸學
+M:4/4
+L:1/16
+Q:1/4=108
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+C8 C4 F4 | A6 G2 F4 F4 | D6 D2 D4 F4 | G12 z4 |
+A8 A4 c4 | d6 d2 c4 A4 | G2 G2 G2 G2 A4 G4 | F12 z4 |
+G6 G2 G4 F4 | G4 A4 G4 z4 | c4 A4 G4 F4 | G6 A2 G4 z4 |
+c6 d2 c4 A4 | G4 G4 F4 D4 | C4 C4 F4 A4 | G6 G2 F8 |
+C8 C4 F4 | A6 G2 F4 F4 | D6 D2 D4 F4 | G12 z4 |
+A8 A4 c4 | d6 d2 c4 A4 | G2 G2 G2 G2 A4 G4 | F12 z4 |
+G6 G2 G4 F4 | G4 A4 G4 z4 | c4 A4 G4 F4 | G6 A2 G4 z4 |
+c6 d2 c4 A4 | G4 G4 F4 D4 | C4 C4 F4 A4 | G6 G2 F8 |

@@ -1,0 +1,25 @@
+X:1
+T:名は萬代
+M:4/4
+L:1/16
+Q:1/4=138
+K:G
+V:V1 name="Voice" snm="Voi"
+[V:V1]
+!f! z4 z4 z4 D3 D | G12 F3 G | A12 z3 D | d10 B2 c3 B |
+A12 G3 F | E10 E2 D3 D | A10 A2 A3 B | G12 z3 D |
+d10 B2 c3 B | A12 z3 D | d10 B2 c3 c | B3 B A3 A A4 d4 |
+D12 D3 D | G3 G F4 F3 E E3 E | D12 z3 D | A10 A2 G3 A |
+B12 z3 D | d10 B2 c3 A | !ff! G12 d3 d | d12 B3 B |
+B12 z3 B | A10 A2 B3 A | d12 z3 d | e10 e2 d3 d |
+!f! g12 D3 D | G10 G2 F3 G | A12 z3 D | d10 B2 c3 B |
+A12 D3 D | G10 F2 E3 E | D12 z3 D | B8 A6 B2 |
+G12 z4 | !f! z4 z4 z4 D3 D | G12 F3 G | A12 z3 D |
+d10 B2 c3 B | A12 G3 F | E10 E2 D3 D | A10 A2 A3 B |
+G12 z3 D | d10 B2 c3 B | A12 z3 D | d10 B2 c3 c |
+B3 B A3 A A4 d4 | D12 D3 D | G3 G F4 F3 E E3 E | D12 z3 D |
+A10 A2 G3 A | B12 z3 D | d10 B2 c3 A | !ff! G12 d3 d |
+d12 B3 B | B12 z3 B | A10 A2 B3 A | d12 z3 d |
+e10 e2 d3 d | !f! g12 D3 D | G10 G2 F3 G | A12 z3 D |
+d10 B2 c3 B | A12 D3 D | G10 F2 E3 E | D12 z3 D |
+B8 A6 B2 | G12 z4 |
