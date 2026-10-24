@@ -796,6 +796,7 @@ nav:
           - "P220 琵琶湖 (琵琶湖)": shokacho/vol_10/p220_biwako/index.md
           - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
   - 共益商社唱歌教科書:
+      - 專題統計: kyoeki_shoka/index.md
       - 巻一（生徒用）:
           - 總覽: kyoeki_shoka/kan_1_854862/index.md
           - 書訊與掃描頁: kyoeki_shoka/kan_1_854862/0_book_info/index.md

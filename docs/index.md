@@ -26,6 +26,7 @@ image: shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg
 
 - 🔍 **[跨冊重複與同名歌曲總索引（共 101 組、246 首對照）](duplicate_songs.md)**
 - 📊 **[《新定兒童唱歌》專題統計（主題分布、調性、節拍、五聲音階與歌唱音域）](shintei_jido_shoka/index.md)**
+- 📊 **[《共益商社唱歌教科書》專題統計（主題分布、調性、節拍、五聲音階與歌唱音域）](kyoeki_shoka/index.md)**
 - 📄 **[臺史博館藏《楊金土手抄唱歌帖》考證與研究筆記（含封面署名、十冊結構重建與出處考證）](shokacho/research_notes.md)**
 - 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](shokacho/horai_shokashu.md)**
 - 🏛️ **[延伸館藏與日本國會圖書館（NDL）數位影像調查筆記（含 `2020.006.0842` 楊《唱歌帳》3 冊、`2006.006.0878`《唱歌課本》下卷與 NDL 原典歌本 IIIF 清單）](archives/index.md)**

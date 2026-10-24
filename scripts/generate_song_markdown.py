@@ -1104,6 +1104,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         nav_lines.append(f"  - {col_short}:")
         if col_slug == "shintei_jido_shoka" and (col_dir / "index.md").exists():
             nav_lines.append("      - 專題統計: shintei_jido_shoka/index.md")
+        if col_slug == "kyoeki_shoka" and (col_dir / "index.md").exists():
+            nav_lines.append("      - 專題統計: kyoeki_shoka/index.md")
         if col_slug == "shokacho" and (col_dir / "research_notes.md").exists():
             nav_lines.append("      - 考證與研究筆記: shokacho/research_notes.md")
         if col_slug == "shokacho" and (col_dir / "horai_shokashu.md").exists():
