@@ -1,6 +1,6 @@
 ---
-title: Re:shoka — 日治時期臺灣公學校、小學校與國民學校唱歌教材數位重建計畫（658 首五線譜、伴奏試聽與《楊金土手抄唱歌帖》資料庫）
-description: Re:shoka 收錄國立臺灣歷史博物館典藏之日治時期（1910–1940 年代）《公學校唱歌》、《新定兒童唱歌》、《うたのほん》（唱歌課本）及《楊金土手抄唱歌帖》（含失傳《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉、藝旦曲〈嘆烟花〉）共 17 冊 658 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+title: Re:shoka — 日治時期臺灣公學校、小學校與國民學校唱歌教材數位重建計畫（734 首五線譜、伴奏試聽與歷史唱歌資料庫）
+description: Re:shoka 收錄日治時期臺灣與日本唱歌教材、手抄唱歌帖及《共益商社唱歌教科書》共 21 冊 734 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 keywords: 日治時期, 臺灣音樂史, 公學校唱歌, 新定兒童唱歌, うたのほん, 唱歌課本, 楊金土, 唱歌帖, 蓬萊唱歌集, 陳英聲, 牛よ牛よ, 郭水返, 水グルマ, 一條慎三郎, 黑澤隆朝, 嘆烟花, 蓬萊公學校, 老松公學校, 大安公學校, 國立臺灣歷史博物館, TMD, 五線譜, 簡譜
 og_type: website
 image: shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg
@@ -14,7 +14,7 @@ image: shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg
 
 ## 一、專案目的
 
-1. **讓百年前的課堂歌聲重新被聽見**：日治時期針對臺灣公學校（臺籍學童就讀）、小學校與國民學校編纂的唱歌教材及手抄歌本，過去多半只有紙本或掃描影像留存，一般人若不識譜或沒有樂器，很難想像這些歌曲實際聽起來的樣貌。本計畫目前已整理 **658 首（次）**歷史曲目（扣除跨冊重複收錄後，共計 **595 首不重複曲目**），並為每一首歌編配雙手鋼琴伴奏與合成音訊，讓所有人都能直接試聽。
+1. **讓百年前的歌聲重新被聽見**：本計畫目前已整理 **734 首（次）**歷史曲目，並為曲目編配雙手鋼琴伴奏與合成音訊，讓所有人都能直接試聽。
 2. **以純文字格式保存樂譜，方便檢索與再利用**：將歷史樂譜數位化為結構化的純文字樂譜檔，避免受限於特定商業製譜軟體的封閉格式，方便長期保存並轉換為各種現代格式。
 3. **從整體數據觀察當時的音樂教材設計與民間傳抄實況**：當這些曲目轉為結構化的數位資料後，就能透過簡單的統計程式，從「調性分布」、「節拍選擇」、「五聲音階與七聲音階的比例變化」、「歌唱音域寬度」以及「跨冊重複與同名曲目對照」等角度，一窺百年前音樂課本由淺入深的編排方式與民間實際傳抄曲目。
 
@@ -22,9 +22,9 @@ image: shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg
 
 ## 二、資料來源與各冊導覽
 
-本專案目前已收錄國立臺灣歷史博物館（NMTH）數位典藏之四套日治時期學校唱歌教材與手抄筆記本，共計 **17 冊、1,153 頁原書掃描圖檔、658 首（次）曲目**（扣除跨冊與跨叢書重複收錄之 63 首（次）後，實收 **595 首不重複曲目**）：
+本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **21 冊、734 首（次）曲目**：
 
-- 🔍 **[跨冊重複與同名歌曲總索引（共 101 組、233 首對照）](duplicate_songs.md)**
+- 🔍 **[跨冊重複與同名歌曲總索引（共 101 組、246 首對照）](duplicate_songs.md)**
 - 📊 **[《新定兒童唱歌》專題統計（主題分布、調性、節拍、五聲音階與歌唱音域）](shintei_jido_shoka/index.md)**
 - 📄 **[臺史博館藏《楊金土手抄唱歌帖》考證與研究筆記（含封面署名、十冊結構重建與出處考證）](shokacho/research_notes.md)**
 - 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](shokacho/horai_shokashu.md)**
@@ -49,6 +49,10 @@ image: shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg
 | **《楊金土手抄唱歌帖》** | [**原編第 8 冊（VIII・蓬萊唱歌集下）**](shokacho/vol_08/index.md) | 楊金土手抄（1927 年，《蓬萊唱歌集》後半與《一條歌集》） | `2020.006.0843` (`P001`–`P030`) | 22 首 | [書訊與掃描頁](shokacho/vol_08/0_book_info/index.md) |
 | **《楊金土手抄唱歌帖》** | [**原編第 9 冊（IX・支那曲）**](shokacho/vol_09/index.md) | 楊金土手抄（1927 年，〈思春〉等四首合調傳統曲牌） | `2020.006.0844` (`P001`–`P014`) | 4 首 | [書訊與掃描頁](shokacho/vol_09/0_book_info/index.md) |
 | **《楊金土手抄唱歌帖》** | [**原編第 10 冊（X）**](shokacho/vol_10/index.md) | 楊金土手抄（1926–1927 年，《小公學校唱歌教材集》等） | `2020.006.0843` (`P188`–`P223`) | 31 首 | [書訊與掃描頁](shokacho/vol_10/0_book_info/index.md) |
+| **《共益商社唱歌教科書》** | [**卷一（生徒用）**](kyoeki_shoka/kan_1_854862/index.md) | 共益商社樂器店編（明治 35 年／1902 年） | NDL `854862` | 20 首 | [書訊與原書掃描頁](kyoeki_shoka/kan_1_854862/0_book_info/index.md) |
+| **《共益商社唱歌教科書》** | [**卷二（教師用）**](kyoeki_shoka/kan_2_854863/index.md) | 共益商社樂器店編（明治 35 年／1902 年） | NDL `854863` | 18 首 | [書訊與原書掃描頁](kyoeki_shoka/kan_2_854863/0_book_info/index.md) |
+| **《共益商社唱歌教科書》** | [**卷三（教師用）**](kyoeki_shoka/kan_3_854864/index.md) | 共益商社樂器店編（明治 35 年／1902 年） | NDL `854864` | 19 首 | [書訊與原書掃描頁](kyoeki_shoka/kan_3_854864/0_book_info/index.md) |
+| **《共益商社唱歌教科書》** | [**卷四（教師用）**](kyoeki_shoka/kan_4_854865/index.md) | 共益商社樂器店編（明治 35 年／1902 年） | NDL `854865` | 19 首 | [書訊與原書掃描頁](kyoeki_shoka/kan_4_854865/0_book_info/index.md) |
 
 > **臺灣在地題材與音樂史料特色**：除了日本文部省的共通曲目外，本資料庫收錄了大量描寫臺灣風土與時代背景的歌曲，例如[〈だいしゃ（台車）〉](kogakko_shoka/grade_3/2_daisha/index.md)、[〈牛車〉](kogakko_shoka/grade_3/4_gyusha/index.md)、[〈すゐれん（睡蓮）〉](kogakko_shoka/grade_3/7_suiren/index.md)、[〈白さぎ（白鷺鷥）〉](kogakko_shoka/grade_3/15_shirasagi/index.md)、[〈かあれん（加令／八哥）〉](utanohon/ge_2006.006.0878/9_kaaren/index.md)、[〈ぺたこ（白頭殼仔／白頭翁）〉](utanohon/ge_2006.006.0878/13_petako/index.md)、[〈くも（榕樹枝頭的蜘蛛）〉](utanohon/ge_2006.006.0878/17_kumo/index.md)、[〈おばあさん（老奶奶／阿嬤學日語）〉](utanohon/ge_2006.006.0878/19_obaasan/index.md)、[〈カーレンサン（加令／八哥）〉](shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/index.md)、[〈スヰギウ／水牛〉](shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu/index.md)、[〈臺灣行進歌〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/index.md)、[〈常夏の島〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/index.md)、[〈ジャンク（戎克船）〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/1_03_janku/index.md)、[〈これぞ臺灣〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan/index.md)、[〈いかだかづら（九重葛）〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/3_03_ikadakazura/index.md)、[〈神木〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku/index.md)、[〈新高山（玉山）〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/2_06_niitakayama/index.md)、[〈つり橋〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/2_09_tsuribashi/index.md)、[〈六氏先生〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/3_03_rokushi_sensei/index.md)、[〈鄭成功〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/4_06_teiseiko/index.md)、[〈鵞鑾鼻（鵝鑾鼻）〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/1_03_garanbi/index.md)、[〈鱶と少年〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/1_06_fuka_to_shonen/index.md)、[〈南洋の歌〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/index.md)、[〈臺灣の風景〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md)、[〈富士と新高〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_18_fuji_to_niitaka/index.md)、[〈臺灣の歌〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/index.md)、[〈殖民の歌〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_2_10_shokumin_no_uta/index.md)、[〈淡水河〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_2_09_tansuigawa/index.md)，以及《楊金土手抄唱歌帖》所保存的標註「陳英声曲」之[〈牛よ牛よ（牛啊牛啊）〉](shokacho/vol_07/p246_ushi_yo_ushi_yo/index.md)、標註「郭水返曲」之[〈水グルマ（水車）〉](shokacho/vol_07/p231_mizuguruma/index.md)、傳統北管／藝旦小曲五線譜採譜[〈嘆烟花〉](shokacho/vol_02/p081_tan_yenhua/index.md)與[〈1. 思春〉](shokacho/vol_09/0844_p006_sichun/index.md)等史料。
 

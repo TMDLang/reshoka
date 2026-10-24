@@ -1005,7 +1005,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
 
     nav_lines = [
         "site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫",
-        "site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910–1940 年代）《公學校唱歌》、《新定兒童唱歌》、《うたのほん》（唱歌課本）與《楊金土手抄唱歌帖》（含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉）共 17 冊 658 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
+        "site_description: 收錄日治時期臺灣與日本唱歌教材、手抄唱歌帖及《共益商社唱歌教科書》共 21 冊 734 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
         "site_author: TMD Contributors",
         "site_url: https://tmdlang.github.io/reshoka/",
         "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
