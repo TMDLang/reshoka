@@ -40,6 +40,7 @@ COLLECTION_TITLES: dict[str, str] = {
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
     "utanohon": "《うたのほん》（唱歌課本）",
+    "kyoeki_shoka": "《共益商社唱歌教科書》",
     "shokacho": "《楊金土手抄唱歌帖》",
 }
 
@@ -54,6 +55,10 @@ VOLUME_TITLES: dict[str, str] = {
     "koto_boys_2020.006.0848": "高等科 男子一二年用（2020.006.0848）",
     "koto_girls_2020.006.0849": "高等科 女子一二年用（2020.006.0849）",
     "ge_2006.006.0878": "下卷・國民學校初等科第二學年用（2006.006.0878）",
+    "kan_1_854862": "巻一・生徒用（NDL PID 854862）",
+    "kan_2_854863": "巻二・教師用（NDL PID 854863）",
+    "kan_3_854864": "巻三・教師用（NDL PID 854864）",
+    "kan_4_854865": "巻四・教師用（NDL PID 854865）",
     "vol_01": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
     "vol_02": "原編第 2 冊・II（2020.006.0843，P065–P112）",
     "vol_03": "原編第 3 冊・I（2020.006.0843，P031–P064）",
@@ -74,6 +79,10 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "koto_boys_2020.006.0848": "高等科 男子一二年",
     "koto_girls_2020.006.0849": "高等科 女子一二年",
     "ge_2006.006.0878": "下卷（初等科第二學年）",
+    "kan_1_854862": "巻一（生徒用）",
+    "kan_2_854863": "巻二（教師用）",
+    "kan_3_854864": "巻三（教師用）",
+    "kan_4_854865": "巻四（教師用）",
     "vol_01": "第 1 冊（選定唱歌筆記帳）",
     "vol_02": "第 2 冊（II）",
     "vol_03": "第 3 冊（I）",
@@ -82,6 +91,19 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "vol_09": "第 9 冊（IX・支那曲）",
     "vol_10": "第 10 冊（X）",
 }
+
+KYOEKI_PID_BY_VOL: dict[str, str] = {
+    "kan_1_854862": "854862",
+    "kan_2_854863": "854863",
+    "kan_3_854864": "854864",
+    "kan_4_854865": "854865",
+}
+
+KYOEKI_COLLECTION_NOTE = (
+    "東京共益商社樂器店編纂發行之明治後期唱歌教科書（全四卷；巻一為生徒用，巻二～四為附「演奏注意」與語釋之教師用書），"
+    "掃描影像取自日本國立國會圖書館 NDL Digital Collections 網際網路公開（保護期間満了）資料。"
+    "楊金土《唱歌帖》第 3 冊即據巻二抄錄〈ボート〉、〈雨〉、〈海〉三曲（見[原編第 3 冊總覽](../../shokacho/vol_03/index.md)）。"
+)
 
 SHOKACHO_VOL_NOTES: dict[str, str] = {
     "vol_01": "封面頂端標註 **`1`**（`/`），扉頁（`P115.jpg`）附楊金土親筆第 1～6 冊總目錄；臺北市北門町「臺灣子供世界社」吉川精馬發行《選定 唱歌筆記帳／唱歌筆記帖》。前半為五線譜＋簡譜雙行對照儀式歌，中段貼《子供の國》童謠剪報，後半手抄自一條慎三郎《小公學校唱歌教材集》（1915）與《音楽新潮》，卷末附昭和 3 年（1928）大禮奉祝唱歌伴奏譜。",
@@ -549,16 +571,24 @@ def generate_song_folder(
         if clean_lyric_lines:
             lyrics_preview = " ".join(clean_lyric_lines[:2])[:60]
 
-    desc_parts = [f"〈{title}〉收錄於日治時期臺灣{col_title}（{vol_title}）"]
+    if col_name == "kyoeki_shoka":
+        desc_parts = [f"〈{title}〉收錄於明治時期東京共益商社樂器店{col_title}（{vol_title}）"]
+    else:
+        desc_parts = [f"〈{title}〉收錄於日治時期臺灣{col_title}（{vol_title}）"]
     if credit_summary:
         desc_parts.append(f"（{credit_summary}）")
     if key_meter_summary:
         desc_parts.append(f"，調號拍號：{key_meter_summary}")
-    desc_str = "".join(desc_parts) + "。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+    if mp3_path.exists():
+        desc_str = "".join(desc_parts) + "。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+    else:
+        desc_str = "".join(desc_parts) + "。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
     if lyrics_preview:
         desc_str += f"歌詞：{lyrics_preview}…"
 
     kw_list = [title, col_title.strip("《》"), vol_nav_title, "日治時期", "臺灣音樂史", "公學校唱歌", "五線譜", "TMD"]
+    if col_name == "kyoeki_shoka":
+        kw_list = [title, col_title.strip("《》"), vol_nav_title, "明治時期", "唱歌教科書", "共益商社", "日本國立國會圖書館", "五線譜", "TMD"]
     if col_name == "shokacho":
         kw_list.extend(["楊金土", "唱歌帖"])
         if vol_name in ("vol_07", "vol_08"):
@@ -681,6 +711,10 @@ def classify_song_section(col_name: str, vol_name: str, folder_name: str) -> tup
         num = f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
         return None, None, num
 
+    if col_name == "kyoeki_shoka":
+        num = f"第 {int(parts[0])} 曲" if parts[0].isdigit() else parts[0]
+        return None, None, num
+
     if col_name == "shokacho":
         if folder_name.startswith("0844_p"):
             num = parts[1].upper()
@@ -770,6 +804,8 @@ def generate_volume_index(vol_dir: Path) -> Path:
     vol_seo_title = f"{col_title} {vol_title}（共 {len(song_dirs)} 首曲目總覽與線上試聽）"
     if col_name == "shokacho" and vol_name in SHOKACHO_VOL_NOTES:
         vol_seo_desc = re.sub(r"[`*_]", "", SHOKACHO_VOL_NOTES[vol_name])
+    elif col_name == "kyoeki_shoka":
+        vol_seo_desc = f"明治時期東京共益商社樂器店{col_title} {vol_title}全冊數位化曲目總覽（共 {len(song_dirs)} 首），提供五線譜、TMD 樂譜、歌詞檢索及 NDL 原書掃描圖檔。"
     else:
         vol_seo_desc = f"日治時期臺灣{col_title} {vol_title}全冊數位化曲目總覽（共 {len(song_dirs)} 首），提供線上試聽雙手鋼琴伴奏 MP3、閱讀五線譜與 TMD 樂譜、檢索歌詞及原書掃描圖檔。"
 
@@ -802,6 +838,11 @@ def generate_volume_index(vol_dir: Path) -> Path:
                 "- 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](../horai_shokashu.md)**"
             )
 
+    if col_name == "kyoeki_shoka":
+        pid = KYOEKI_PID_BY_VOL.get(vol_name, "")
+        ndl_link = f"（[NDL PID `{pid}`](https://dl.ndl.go.jp/pid/{pid})）" if pid else ""
+        lines.extend([f"> {KYOEKI_COLLECTION_NOTE}{ndl_link}", ""])
+
     if col_name == "utanohon" and vol_name == "ge_2006.006.0878":
         lines.extend(
             [
@@ -819,8 +860,13 @@ def generate_volume_index(vol_dir: Path) -> Path:
             ]
         )
 
-    if col_name in ("kogakko_shoka", "utanohon", "shokacho"):
-        first_col = "課次" if col_name in ("kogakko_shoka", "utanohon") else "原書頁碼"
+    if col_name in ("kogakko_shoka", "utanohon", "shokacho", "kyoeki_shoka"):
+        if col_name in ("kogakko_shoka", "utanohon"):
+            first_col = "課次"
+        elif col_name == "kyoeki_shoka":
+            first_col = "曲次"
+        else:
+            first_col = "原書頁碼"
         lines.extend(
             [
                 f"## 曲目列表（共 {len(song_dirs)} 首）",
@@ -1006,6 +1052,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         ("shintei_jido_shoka", "新定兒童唱歌"),
         ("utanohon", "うたのほん（唱歌課本）"),
         ("shokacho", "楊金土手抄唱歌帖"),
+        ("kyoeki_shoka", "共益商社唱歌教科書"),
     ]
 
     for col_slug, col_short in collections:

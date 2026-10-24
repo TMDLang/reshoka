@@ -53,8 +53,8 @@ python3 scripts/generate_song_markdown.py --force
 
 | namespace | 用途 | 建議 value |
 | --- | --- | --- |
-| `collection` | 教材／資料集 | `kogakko_shoka`, `shintei_jido_shoka`, `shokacho` |
-| `volume` | 冊別或學年 | 目錄使用的資料夾名稱，例如 `vol_01`, `vol_07`, `grade_3_2020_006_0847_0003` |
+| `collection` | 教材／資料集 | `kogakko_shoka`, `shintei_jido_shoka`, `utanohon`, `shokacho`, `kyoeki_shoka` |
+| `volume` | 冊別或學年 | 目錄使用的資料夾名稱，例如 `vol_01`, `vol_07`, `grade_3_2020_006_0847_0003`, `kan_2_854863` |
 | `source` | 原始出版物或來源 | `horai_shokashu`, `school_textbook`, `shokacho_notebook`, `ichijo_kashu`, `unknown` |
 | `source_page` | 原始頁碼 | `P246`, `P229a`；保留原書頁碼，不寫網站頁碼 |
 | `date` | 明確的抄錄／出版／創作年代 | `1927`, `1920s`, `showa_02` |
