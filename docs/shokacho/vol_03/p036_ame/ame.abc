@@ -6,9 +6,13 @@ Q:1/4=116
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!f! c2 F2 F3 A | c2 A2 G4 | F2 A2 c3 d | c2 c2 A4 |
+[Q:1/4=116] !f! C2 F2 F3 A | c2 A2 G4 | F2 A2 c3 d | c2 c2 A4 |
 F2 G2 A3 G | F2 E2 D4 | C2 F2 A3 G | A2 G2 F4 |
-!mf! c3 c A2 G2 | F2 G2 A4 | G3 G F2 E2 | D2 F2 C4 |
-F2 A2 c3 d | c2 B2 A4 | F2 G2 A3 B | A2 G2 F4 |
-!f! c2 F2 F3 A | c2 A2 G4 | F2 A2 c3 d | c2 c2 A4 |
+[M:4/4] [Q:1/4=100] !mf! c6 c2 A4 G4 | F4 G4 A8 | G6 G2 F4 E4 | D4 F4 C8 |
+F4 A4 c6 d2 | c4 B4 A8 | F4 G4 A6 B2 | A4 G4 F8 |
+[M:2/4] [Q:1/4=116] !f! C2 F2 F3 A | c2 A2 G4 | F2 A2 c3 d | c2 c2 A4 |
+F2 G2 A3 G | F2 E2 D4 | C2 F2 A3 G | A2 G2 F4 |
+[M:4/4] [Q:1/4=100] !mf! c6 c2 A4 G4 | F4 G4 A8 | G6 G2 F4 E4 | D4 F4 C8 |
+F4 A4 c6 d2 | c4 B4 A8 | F4 G4 A6 B2 | A4 G4 F8 |
+[M:2/4] [Q:1/4=116] !f! C2 F2 F3 A | c2 A2 G4 | F2 A2 c3 d | c2 c2 A4 |
 F2 G2 A3 G | F2 E2 D4 | C2 F2 A3 G | A2 G2 F4 |
