@@ -66,16 +66,16 @@ Q:1/4=92
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-B3 B A2 A2 | G2 G2 D4 | D2 G2 G2 A2 | A2 B4 z2 |
-D3 D B4 | A3 A A4 | G2 B2 B2 A2 | G2 A4 z2 |
-G3 G G2 D2 | E2 E2 E4 | D2 G2 G2 A2 | A2 B4 z2 |
-d3 d d2 B2 | A3 A A4 | G2 B2 B2 A2 | A2 G4 z2 |
+B3 B A2 A2 | G2 G2 D2 D2 | G2 G2 A2 A2 | B6 z2 |
+d3 d B4 | A3 A A2 G2 | B2 B2 A2 G2 | A6 z2 |
+G3 G G2 D2 | E3 E E3 D | G2 G2 A2 A2 | B6 z2 |
+d3 d d2 B2 | A3 A A2 G2 | B3 B A2 A2 | G6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ushiwakamaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelootnZBYDja1U4tLSUnjctOxx0_bHzesfN61-3DzvcfNqBS0tLkVbBUsjLntbBXcuGyN9EzuQAS9Wznu_Z9azae0vm1c8n9MINvTZ7E0YYi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8yor3ezpAQawHDGI9UBADGQaG7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdBfQp09bVwB9BXTF0w29z9o7FQIMjE30sgrS3-_pASp-uaBRoUBPwdASyAU5fFcP0OHP5swHshVMFF4umwZ0KTBcQKa_WLX_WcNykLndvS9mzgeKPm7uAAoC9QBFnq6dALTDXeHpkuVAMQVgUCsARcG6gaHT87hp0-PmzY-b1j5uXvG4af3jBqBUx6OZK20tjYBquEDmAwMNRIHVLAFFZnPf46Ytj5vboezmfnD0AgWB3Blgpc0Nj5uWgOWApnc8btoMZs8E27QRLNUPUdf1uGkNmA9krAOT-x83T33cvOpx0yKw09ogViOnoIVgPRuBcmAnAZWuBouvhrh2Vw-mFlCiA7kT6JbmyWCnAq2EGN286HFzC8haoIVAm0GuAFoLdAiQBIqDrIGYB3Q60PdIJMiwlWAvAc0G-RBmb_MMEAJ5YA3IDKA7QWgT2BIgWg8N1U6I_UC3AdWDAxbkYHAgN88HO2QSKCCbV8HtB1oCDMxVYDcD9UwAaYa6vBHoFoh5QAuBEgvBIQ6Jri6w14GmAgNj2-Pmboh5QGO60aMFZBJQHdBJoCABqaM8A0CBgpY-F1cosPwrT8xOzE0sKrUKyEzMy3eoMahRqAbZpGBjaKZlB2Zhy38KkOz7YmGPgoaJwtMN_c_XN-jAM40mFg1AC0GG1SgYK-gCobGCEZAE4RoFQyAJwqbxYCmQEJgJE4eoApEQvboKBiARcMThdt2uHnJcB3UDkILZBbEZ5AoIDXMxSB6EEX6AyRPjuh2d5LgOZAsoTOChVaNgBqIQBLWC7-ns2WQFHyT0wDTINuICD0RCvAZzWy0Xl66dAnICVQDylbkA)]
-- [鋼琴伴奏 TMD 檔案](ushiwakamaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx0_bHzesfN61-3DzvcfPq93s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CpRGXva2CO5eNkb6JHVedgtKLlfPe75n1bFr7y-YVz-c0KoHEns3ehCH2on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esALrMyMDIQM_AwEzPwMLEHMgwMAQ6TomLK7Q4I7M8MTsxN7Go1CogMzEvP8jDocagRqGaSwEIbAzNtOzALH0tBVt0oACx58XCHgUNE4WnG_qfr2_QUQgwMDbRyypI18SiQUsfbFiNgrGCLhAaKxgBSRCuUTAEkiBsGg-WAgmBmTBxiCoQCdGrq2AAEuHC77pdPeS4DuoGIAWzC2IzyBUQGuZikDwII_wAkyfGdTs6yXEdyBZQmMBDq0bBDEQhCGoF39PZs8kKPkjogWmQbcQFHoiEeA3mtlps6dMHJX2aQJMn0MB4hWjT-FgoyxDGgAsZAA1EqATLm8Zj6gGJYVFqAlJqAldKgqkoSoE-0rVTQPaUAha-MhcA)]
+- [主旋律 TMD 檔案](ushiwakamaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelootnZBYDja1U4tLSUnjctOxx0_bHzesfN61-3DzvcfNqBS0tLkVbBUsjLntbBXcuGyN9EzuQAS9Wznu_Z9azae0vm1c8n9MINvTZ7E0YYi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8yor3ezpAQawHDGI9UBADGQaG7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdBfQp09bVwB9BXTF0w29z9o7FQIMjE30sgrS3-_pASp-uaBRoUBPwdASyAU5fFcP0OHP5swHshVMFF4umwZ0KTBcQKa_WLX_WcNykLndvS9mzgeKPm7uAAoC9QBFnq6dALTDXeHpkuVAMQVgUCsARcG6gaHT87hp0-PmzY-b1j5uXvG4af3jBqBUx6OZK20tjYBquEDmAwMNRIHVLAFFZnPf46Ytj5vboezmfnD0AgWB3Blgpc0Nj5uWgOWApnc8btoMZs8E27QRLNUPUdf1uGkNmA9krAOT-x83T33cvOpx0yKw09ogViOnoIVgPRuBcmAnAZWuBouvhrh2Vw-mFlCiA7kT6JbmyWCnAq2EGN286HFzC8haoIVAm0GuAFoLdAiQBIqDrIGYB3Q60PdIJMiwlWAvAc0G-RBmb_MMEAJ5YA3IDKA7QWgT2BIgWg8N1U6I_UC3AdWDAxbkYHAgN88HO2QSKCCbV8HtB1oCDMxVYDcD9UwAaYa6vBHoFoh5QAuBEgvBIQ6Jri6w14GmAgNj2-Pmboh5QGO60aMFZBJQHdBJoCABqaM8A0CBgpY-F1cosPwrT8xOzE0sKrUKyEzMy3eoMahRqAbZpGBjaKZlB2Zhy38KkOz7YmGPgoaJwtMN_c_XN-jAM40mFg1AC0GG1SgYK-gCobGCEZAE4RoFQyAJwqbxMAIhhlAF0QeBBiARcMThdt2uHnJcZwo23xRuWw3YdpAbQDTIRRCXgDBCBKKGeLft6CTHbSC7QDbCw6pGwQxE6YIoKAsoToXAezp7NiWBB6JBNuIKPMzoR3VbLReXrp0CcvJUAPKVubgA)]
+- [鋼琴伴奏 TMD 檔案](ushiwakamaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx0_bHzesfN61-3DzvcfPq93s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CpRGXva2CO5eNkb6JHVedgtKLlfPe75n1bFr7y-YVz-c0KoHEns3ehCH2on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esALrMyMDIQM_AwEzPwMLEHMgwMAQ6TomLK7Q4I7M8MTsxN7Go1CogMzEvP8jDocagRqGaSwEIbAzNtOzALH0tBVt0oACx58XCHgUNE4WnG_qfr2_QUQgwMDbRyypI18SiQUsfbFiNgrGCLhAaKxgBSRCuUTAEkiBsGg8jEGIIVRB9EGgAEuHC77pdPeS4zhRsvincthqw7SA3gGiQiyAuAWGECEQN8W7b0UmO20B2gWyEh1WNghmI0gVRUBZQnAqB93T2bEoCD0SDbMQVeJjRj-I2oOtqsaVPH5T0aQJNnkAD4hWiTeNjoSxDGAMuZAA0EKESLG8aj6kHJIZFqQlIqQlcKQmmoigF-kjXTgHZUwpE8JW5uAA)]
 
 ## 分析
 
@@ -88,24 +88,24 @@ d3 d d2 B2 | A3 A A4 | G2 B2 B2 A2 | A2 G4 z2 |
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Ushiwakamaru #1 @ m.2, 0:01]
-   - 最高音: D5 in [Ushiwakamaru #1 @ m.13, 0:15]
+   - 最高音: D5 in [Ushiwakamaru #1 @ m.5, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Ushiwakamaru (20.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  A, G, B, D, E
-   - 調性數值:    D 調性不明確 [相關度: 0.71, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.71), G 大調 (0.68), B 小調 (0.50)
-   - 五度圈歷程:   +2
+   - 調性數值:    G 大調 [相關度: 0.69, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.69), D 大調 (0.65), B 小調 (0.53)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Ushiwakamaru #1]: D 調性不明確 (r: 0.71, 自然音純度: 100.0%)
+     • [Ushiwakamaru #1]: G 大調 (r: 0.69, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
-      Bb              [D ]*
+         F           [G ]*
+      Bb               D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -115,16 +115,16 @@ d3 d d2 B2 | A3 A A4 | G2 B2 B2 A2 | A2 G4 z2 |
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : █████████████             16.7%
+     D  : ███████████               14.2%
      D# :                            0.0%
-     E  : █████                      6.7%
+     E  : █████                      5.8%
      F  :                            0.0%
      F# :                            0.0%
-     G  : ██████████████████        23.3%
+     G  : ████████████████████      25.0%
      G# :                            0.0%
-     A  : ████████████████████████  31.7%
+     A  : ████████████████████████  30.0%
      A# :                            0.0%
-     B  : ████████████████          21.7%
+     B  : ████████████████████      25.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 51 個音符)
