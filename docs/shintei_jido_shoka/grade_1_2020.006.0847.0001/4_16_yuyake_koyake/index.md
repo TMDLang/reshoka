@@ -1,8 +1,8 @@
 ---
-title: "ユフヤケコヤケ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ユフヤケコヤケ"
-description: "〈ユフヤケコヤケ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：中村雨紅、曲：草川信），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ユフヤケコヤケデ ヒガクレテ…"
-keywords: "ユフヤケコヤケ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 中村雨紅, 草川信"
+title: "ユフヤケコヤケ（晚霞） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ユフヤケコヤケ（晚霞）"
+description: "〈ユフヤケコヤケ（晚霞）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：中村雨紅、曲：草川信），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ユフヤケコヤケデ ヒガクレテ…"
+keywords: "ユフヤケコヤケ（晚霞）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 中村雨紅, 草川信"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "C"
@@ -10,7 +10,7 @@ image: "P065.jpg"
 audio: "yuyake_koyake.mp3"
 ---
 
-# ユフヤケコヤケ
+# ユフヤケコヤケ（晚霞）
 
 <audio controls src="yuyake_koyake.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "yuyake_koyake.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= C，拍號 <2/4>，速度 != 92
+曲目說明
+中文解釋：描寫夕陽西下、天空染成橙紅色，以及孩子放學回家的景象。
 
 ## 歌詞
 
@@ -51,7 +51,7 @@ audio: "yuyake_koyake.mp3"
 
 ```abc
 X:1
-T:ユフヤケコヤケ
+T:ユフヤケコヤケ（晚霞）
 C:曲：草川信
 M:2/4
 L:1/16
@@ -71,14 +71,14 @@ G2 E2 D2 C2 | D2 D2 C2 D2 | E2 G2 A2 G2 | C6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yuyake_koyake.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlmTmpsbnp8WnJFYqcWlpKTxuXva4eerj5iWPmzY-btoMYShoaXEp2ipYGnHZ2yo4c9kY6ZvYgcx5sXLe-z2znuxY-2zuxJezVzzf0go2_tnsTUDhF72dT7fPfbJ_IVjsRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Gh4unbH051bnk9Z8X5PByio9YBBrQcKaiDDwPD9nk4lLi59LS6gSi6szn_c3A6UmPS4ac3jpvWPm9c8bm4D8pc8bp73uLnvcdMqIP9x80ogm-tx0-rHzb0ghc1dj5tXA_kQybbHDQ2Pm1tAok1AfSDj5oM5QOUzQHqblkH0Alk7Hzd3AJUDXfO4afvj5hWPm7shckCFQNPmPW7aDVLO9WRXD1Ac6MTOx82LwG6DqGl53LQfKLEIZAzEyOZ-oH1At64GWQ5y0ezHTWuB1kOcB1S_9nHT1sfNmyHGdYCsAfkAGBILHzdvgrgVqBcoB9QFNKtpL9jUbiAHbBDQ0SASKAGkgKr6wDZs59LS5-LyTczMswrITMzLd6gxqFGo5lIAAhtDMy07MKtGwVRBF47NgBhVxBgsYggkQdgILgJiwaABSARqGkgWBEE0SH8N2EzDOBiBagOIB1EFlsRmIFTCKA5ZP8I8mEkQe1DNhLkF3UiYv0B-APkK4hsYD0RD9KK5EMO0Wi4uXTsFUAArINHKXFwA)]
+- [主旋律 TMD 檔案](yuyake_koyake.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlmTmpsbnp8WnJFYqcWlpKTxuXva4eerj5iWPmzY-btoMYbzf0_Fs5qyXc-a939OpoKXFpWirYGnEZW-r4MxlY6RvYgcy88VKoOysJzvWPps78eXsFc-3tIKtejZ7E1D4RW_n0-1zn-xfCBZ70b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWAN0ECnY9YLDrgYIdyDAwBLpPiUtfSwFo6_PZ616sWvVsRh-XgoICyFnT2l8sX_yyvRvonGf9_U_Xr366ZOrLmXtfLN3_ZEf344bGp0tWPl-569n8yc86JjxbORPogRedQLf3PNm99Gl_19O1K5-unfBsyj6QA2bPe7pu2_NZLc9mrn-xceHjhiYuLX0uoL1cQAdyYQ3Bx83tQIlJj5vWPG5a_7h5zePmNiB_yePmeY-b-x43rQLyHzevBLK5HjetftzcC1LY3PW4eTWQD5Fse9zQ8Li5BSTaBNQHMm4-mANUPgOkt2kZRC-QtfNxcwdQOdA1j5u2P25e8bi5GyIHVAg0bd7jpt0g5VxPdvUAxYFO7HzcvAjsNoialsdN-4ESi0DGQIxs7gfaB3TrapDlIBfNfty0Fmg9xHlA9WsfN2193LwZYlwHyBqQD4AhsfBx8yaIW4F6gXJAXUCzmvaCTe0GcsAGAR0NIoESQAqoqg9sw3ZwuPomZuZZBWQm5uU71BjUKFSDIlTBxtBMyw7MqlEwVdCFYzMgRhUxBosYAkkQNoKLgFgwaAASgZoGkgVBEA3SXwM20zAORqDaAOJBVIElsRkIlTCKQ9aPMA9mEsQeVDNhbkE3EuYvkB9AvoL4BsYD0RC9aC7EMK2Wi0vXTgEUwApItDIXFwA)]
 - [鋼琴伴奏 TMD 檔案](yuyake_koyake_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOxx89THzUseN2183LQZwni_p-Nx85THTYseN_c92bPl6dL-J7tnvN_TqaClxaVoq2BpxGVvq-DMZWOkb2LHVaeg9GLlvPd7Zj3ZsfbZ3IkvZ694vqVVCST8bPYmoPCL3s6n2-c-2b8QLPaifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU92NDxdu-Ppzi3Pp6wAus_IwMhAz8DATM_AwsQcyDAwBLpPiYvLNzEzzyogMzEvP8jDocagRqGaSwEIbAzNtOzArBoFUwVdODYDYlQRY7CIIZAEYSO4CIgFgwYgEahpIFkQBNEg_TVgMw3jYASqDSAeRBVYEpuBUAmjOGT9CPNgJkHsQTUT5hZ0I2H-AvkB5CuIb2A8EA3Ri-ZCDNNqkcPXByV8LeDBG20YC1QcbQIi4TwwCeeZxkO5EAbIeJhT0dSDTUEzC64bzMWiGbvVEKNQHILHYoglaHZhtRoYKLp2CqBwUUCilbm4AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ユフヤケコヤケ ]
+📊 TMD Song Profile: [ ユフヤケコヤケ（晚霞） ]
 ================================================================================
 ⏱  Duration:       0:41 (41.7s), 32 measures total
 🎼 Key & Tempo:    首調基準 C, != 92.0 BPM, <2/4>
@@ -132,6 +132,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ユフヤケコヤケ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P065.jpg](P065.jpg)
+![ユフヤケコヤケ（晚霞） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P065.jpg](P065.jpg)
 
 

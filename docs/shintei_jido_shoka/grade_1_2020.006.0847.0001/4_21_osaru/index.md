@@ -1,8 +1,8 @@
 ---
-title: "オサル — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "オサル"
-description: "〈オサル〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：梁田貞），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オサル　オサル キヤツ　キヤツ　キヤ…"
-keywords: "オサル, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 梁田貞"
+title: "オサル（猴子） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "オサル（猴子）"
+description: "〈オサル（猴子）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：梁田貞），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オサル　オサル キヤツ　キヤツ　キヤ…"
+keywords: "オサル（猴子）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "C"
@@ -10,7 +10,7 @@ image: "P071.jpg"
 audio: "osaru.mp3"
 ---
 
-# オサル
+# オサル（猴子）
 
 <audio controls src="osaru.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "osaru.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= C，拍號 <2/4>，速度 != 108
+曲目說明
+中文解釋：描寫猴子的動作、玩耍與淘氣模樣。
 
 ## 跨冊／重複收錄參照
 
@@ -49,7 +49,7 @@ audio: "osaru.mp3"
 
 ```abc
 X:1
-T:オサル
+T:オサル（猴子）
 C:曲：梁田貞
 M:2/4
 L:1/16
@@ -66,14 +66,14 @@ A2 c d c2 z2 | A2 c d c2 z2 | A2 z2 G2 z2 | C6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](osaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvW4aevj5tUKWlpcirYKhgYWXPa2Cs5cNkb6JnYgfS9Wznu_Z9aLibOf9s3_sGzjZrBhz2ZvAgo-W9T4fMqGF5vmgcVetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQV7_d0gIJQDxiEeqAgBDIMDN_v6VTi4tLX4oK79nFDA5wNFF37uHnJ4-YWsCg6G6wJyG9a_bhp4-PmNrDE5sfNQDkg2U6U7iWPm7bBbN0MYQMlwAqbtj9uXvG4uRsst-hx097HzdOAcotAcs2NQAseNy-CWYkQIcZWkj2qpc_F5ZuYmWcVkJmYl-9QY1CjUM2lAAQ2hmZadmBWjYKpgq6CGZAE0QZAjE3EGMoyQlEDg2ARqGlmQLZhnIJRHIiEKcYpCGKh2oLNTJAKZAwRARsFcwZEszEYgmiYCEge5GiwmkHnYUMMM2u5uHTtFEBxpgCklbm4AA)]
+- [主旋律 TMD 檔案](osaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvW4aevj5tXv93Q879nydO2E93s6FbS0uBRtFQwNLLjsbRWcuWyM9E3sQGa8WDnv_Z5ZLybOfto3_8OyjZvBBj-bvQko-GxR4_MpG15smgcWe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgCdBApOPWBw6oGCE8gwMAQ6T4lLX0sBaOvz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6Qc_r7n65fDfHR81ktT7unPtk753FD4_O-lS8ael90tD_bPuPZhsXPVix8tmLx44YmLi19LqCxXPDweNzQAGcDRdc-bl7yuLkFLIrOBmsC8ptWP27a-Li5DSyx-XEzUA5IthOle8njpm0wWzdD2EAJsMKm7Y-bVzxu7gbLLXrctPdx8zSg3CKQXHMj0ILHzYtgViJEiLGVZI-CAsk3MTPPKiAzMS_focagRqEaFPgKNoZmWnZgVo2CqYKughmQBNEGQIxNxBjKMkJRA4NgEahpZkC2YZyCURyIhCnGKQhiodqCzUyQCmQMEQEbBXMGRLMxGIJomAhIHuRosJpB52FDDDNrubh07RRAcaYApJW5uAA)]
 - [鋼琴伴奏 TMD 檔案](osaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx09bHzavf7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGlhw2dsqOHPZGOmb2HHVKSi9WDnv_Z5ZLybOfto3_8OyjZuVQILPZm8CCj5b1Ph8yoYXm-aBxV6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVA5xkZGBnoGRiY6RlYmJgDGQaGQOcpcXH5JmbmWQVkJublB3k41BjUKFRzKQCBjaGZlh2YVaNgqqCrYAYkQbQBEGMTMYayjFDUwCBYBGqaGZBtGKdgFAciYYpxCoJYqLZgMxOkAhlDRMBGwZwB0WwMhiAaJgKSBzkarGbQedgQw8xa5CjzQYkyC3iMRRvGAhWDSAOsPAOFaNN4ZEmQ6TD3RpugKMfgATWjGIyiF24VyPVE8EDOQAQVrd2NTTMwQHXtFEBhqgCklbm4AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ オサル ]
+📊 TMD Song Profile: [ オサル（猴子） ]
 ================================================================================
 ⏱  Duration:       0:22 (22.2s), 20 measures total
 🎼 Key & Tempo:    首調基準 C, != 108.0 BPM, <2/4>
@@ -126,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![オサル — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P071.jpg](P071.jpg)
+![オサル（猴子） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P071.jpg](P071.jpg)
 
 

@@ -1,8 +1,8 @@
 ---
-title: "たこのうた — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "たこのうた"
-description: "〈たこのうた〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タコタコあがれ カゼよくうけて…"
-keywords: "たこのうた, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "たこのうた（風箏之歌） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "たこのうた（風箏之歌）"
+description: "〈たこのうた（風箏之歌）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タコタコあがれ カゼよくうけて…"
+keywords: "たこのうた（風箏之歌）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P034.jpg"
 audio: "tako_no_uta.mp3"
 ---
 
-# たこのうた
+# たこのうた（風箏之歌）
 
 <audio controls src="tako_no_uta.mp3"></audio>
 
@@ -18,6 +18,9 @@ audio: "tako_no_uta.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫風箏乘風飛上天空、越飛越高。
 
 原書資訊與歌詞全文（對應 P034.jpg，書頁 p. 19，第二學期第 5 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「ゲンキニ」
@@ -48,7 +51,7 @@ audio: "tako_no_uta.mp3"
 
 ```abc
 X:1
-T:たこのうた
+T:たこのうた（風箏之歌）
 M:2/4
 L:1/16
 Q:1/4=108
@@ -63,14 +66,14 @@ d6 d2 | c4 A4 | G6 A2 | F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tako_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxunP-4cfLjxnWPG9uAbAUtLS5FWwVDAwsue1sFNy4bI30TO5DuZ9PaXzaveD6nEWzWi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dXzdO2Opzu3PJ-y4v2eDlBo6QFDSw8UWkCGgdH7PZ1KXFz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAPd9WLlvKetK4C-Arri6YbeZ-2dCgEGxiZ6WQXp7_f0ABW_XNCoUKCnYGgJ5MId_mzOfCBbwVTh5bJpQJe-3zMLZPqLVfufNSwHmdvd-2LmfKDo4-YZQEGgHqDI07UTgHa4KTxdshwopgAMUAWgKFg3MHR6Hjdtety8-XHT2sfN3Y8berlABj7Z0QCiHjftf9wElAKTjU2PG4GKeyASqx837Xnc1PG4sR8cbxMfNy6DSKx_3LzoceO-x43LUXU0t4FsQZMA27ULaiTQjAXgpLD6ceMMCBss0bjycePCx02dj5uA2oB2AY1ogegA8pc8blyBalHjhMdNQEOQRCE-6oToWfS4ec3jpq2Pm9Y8bm4Beg3iuEmPmzZCyaYlj5s7HjdvQlLePA8cBovQNPU_bu563LQbRQflyQUKFLT0ubhCErPz_fJDSxKtAjIT8_IdagxqFKpB1ijYGJpp2YFZNcDUoAuGxkBsAsT4REDQDEXEAErXQE0DyWJXCTINrBLOAkFDsIgRDtPo7zaYS2CiNWAXoppWy8Wla6cAD10FIEeZiwsA)]
+- [主旋律 TMD 檔案](tako_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxunP-4cfLjxnWPG9uA7Pd7Ol4uWvF8Xf-Tnd3P1va839OpoKXFpWirYGhgwWVvq-DGZWOkb2IHMu_ZtPaXzSuez2kEm_6ifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzYCzXzc0P10Q_fTHTueL5_4fM2aJ7t6nq7d8XTnludTVgBtB4WfHjD89EDhB2QYGAHdoMSlr6XwbPam57PXvVi16tmMPi4FBYUnO9YCnfBi-eKX7d3v98x61t__dP1qmONnABkvF89-sqPr6ZKVz1fuetzQ-GJbF1AERK6e8bihiUtLnwtkrC21AMhNT_vmP5u948Xm9hcrul50tAN9-2LlvKetK4AOBfrt6YbeZ-2dCgEGxiZ6WQXp7_f0ABW_XNCoUKCnYGgJ5MKD49mc-UC2gqnCy2XTgP4Heg9k-otV-581LAeZ2937YiYwrmY9bp4BFATqAYo8XTsBaIebwtMly4FiCsBoUgCKgnUDw7zncdOmx82bHzetfdzc_bihlwsShA0g6nHT_sdNQCkw2dj0uBGouAcisfpx057HTR2PG_vB6WPi48ZlEIn1j5sXPW7c97hxOaqO5jaQLWgSYLt2QY0EmrEAnORWP26cAWGDJRpXPm5c-Lip83ETUBvQLqARLRAdQP6Sx40rUC1qnPC4CWgIkijER50QPYseN6953LT1cdOax80tQK9BHDfpcdNGKNm05HFzx-PmTUjKm-eBw2ARmqb-x81dj5t2o-igPLlAgQIoGYYkZuf75YeWJFoFZCbm5TvUGNQoVIOsUbAxNNOyA7NqgKlBFwyNgdgEiPGJgKAZiogBlK6BmgaSxa4SZBpYJZwFgoZgESMcptHfbTCXwERrwC5ENa2Wi0vXTgEeugpAjjIXFwA)]
 - [鋼琴伴奏 TMD 檔案](tako_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOP9x4-THjeseN7YB2e_3dLzs3vN8wpYne7Y8Xdr_vLPj_Z5OBS0tLkVbBUMDCy57WwU3LhsjfRM7rjoFpWfT2l82r3g-p1EJxHvRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmie7ep6u3fF055bnU1YAHWBkYGSgZ2BgpmdgYWIOZBgYAd2gxMUVkpid75cfWpJoFZCZmJcf5OFQY1CjUM2lAAQ2hmZadmBWjYKpgi4YGgOxCRDjEwFBMxQRAyhdAzUNJItdJcg0sEo4CwQNwSJGOEyjv9tgLoGJ1oBdiGpaLUbg-qAErgk8bA3jFaINY9EZJlCGAdxlJkiiaBpM45EVkm8gyJxo03gklUBv6NopwH2iAOQoc3EBAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ たこのうた ]
+📊 TMD Song Profile: [ たこのうた（風箏之歌） ]
 ================================================================================
 ⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <2/4>
@@ -123,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![たこのうた — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P034.jpg](P034.jpg)
+![たこのうた（風箏之歌） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P034.jpg](P034.jpg)
 
 

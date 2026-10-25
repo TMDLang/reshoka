@@ -1,8 +1,8 @@
 ---
-title: "十五ヤ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "十五ヤ"
-description: "〈十五ヤ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：三木露風、曲：山田耕作），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：十五夜（ヤ）オ月（ツキ）サン　カゞミノヤウニ アカルイアカルイ　オ月サン…"
-keywords: "十五ヤ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風, 山田耕作"
+title: "十五ヤ（十五夜） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "十五ヤ（十五夜）"
+description: "〈十五ヤ（十五夜）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：三木露風、曲：山田耕作），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：十五夜（ヤ）オ月（ツキ）サン　カゞミノヤウニ アカルイアカルイ　オ月サン…"
+keywords: "十五ヤ（十五夜）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風, 山田耕作"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "G"
@@ -10,7 +10,7 @@ image: "P031.jpg"
 audio: "jugoya.mp3"
 ---
 
-# 十五ヤ
+# 十五ヤ（十五夜）
 
 <audio controls src="jugoya.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "jugoya.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫滿月之夜、月色明亮與秋夜賞月的情景。
 
 原書資訊與歌詞全文（對應 P031.jpg，書頁 p. 16，第二學期第 2 首）：
 調性與拍號：ト調二拍子（G 大調 2/4 拍），「カルク キレイニ」
@@ -50,7 +53,7 @@ audio: "jugoya.mp3"
 
 ```abc
 X:1
-T:十五ヤ
+T:十五ヤ（十五夜）
 C:曲：山田耕作
 M:2/4
 L:1/16
@@ -66,14 +69,14 @@ D2 D2 G2 A2 | B2 d2 B2 G2 | A2 B2 A2 D2 | G6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](jugoya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xUrcWlpKTztbXyya8rj5iUKWlpcirYKlmZc9rYK7lw2RvomdiB9L1bOe79n1pMdnc_mrHg5Z9PLRSvAxj2bvQko_HTjxudTNrxomPpk7xyw8Iv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6nG7qf7tjxfPnE52vWPNnV83Ttjqc7tzyfsuL9ng5QOOoBw1EPFI5AhoHR-z2dSlxc-loKttQCXAoKCk_75j-bvePF5vYXK7pedLQD3QX079PWFc-mtQNd8XRD77P2ToUAA2NDvayC9Pd7eoCKXy5oVCjQUzA0A3LhDn82Zz6QrWCk8HLZNKBLgUEDMv3Fqv3PGpaDzO3ufTFzPlD0cXMHUBCoByjydO0EoB3uCk-XLAeKKQADXAEoCtYNDJ2ex02rHzevfty0XuFx09rHzWseNy153Nz9uKGXC2T0kx0NYPeDo-_pkjlAk4CRCNT8uGnVszkdYG4LUCNYZOvj5s2PGxpAJjbNe9w8_3FzH1Dx46ZlQANBpjxuWgSzDSiKxAbpARkHMQKsFGhq87LHTWseN0-CqmtoeNELdDNQ0XqgOpCFzROQFUBsWAU2eyPQ6mcbtjxuXgQyu3ne46b9CHVgf-3qIcNfW0BB1LQJxG1e8bgZyN4O9B3EvUAP74F6B5mNxWsgFYseN28CBwHQsBWgEAI5E4g2gyxBlYLo2fm4eS84goA6-x83rYN6DaoO6MHdUKWUJ1goUNDS5-LyKk3Pr0y0CshMzMt3qDGoUagG2aFgY2imZQdmYcspCqD0uqPhxcIeBQ0Thacb-p-vb9CBJ29NLBqAVkENezmr7-mEXiugj_eCRMBB2wkm1wDJGiA9HxweIFkoGywPkgGpgJFY9EDE4OYi7NQAOlbTCpQYoFLANAHWsASivWkVNEU2rQVytoI5m6FSq8FmQuyE2NIHtROkGRgnYLFuLHbu6iHXzi1gk9eCyU3IMs0rwDyIDChpIltao2Aar6ALhoZAbATENQrGQNIUiEE0SLQGLA7CqGpAPLB2A5AQOAvhjvpdPVSIelgUkxb5EDEwG6wKJANSgQwwIh6Yi8AawHHZDIlRWDTgloFGEFJcgGIJZCEoNnBZCI51YIYFa96DaSxuGdIthMY4mCAU5SAeiAYrrgFLwCAxUb6jk3pRjhTxIG8ji6FELIoMamIgHOWQcGwGZ09o9p0ENRY5skFVDZAzASqFUIisrAbNNjQLIVEOjkZgqQ0mwbkWnLZApkLyMKisB1KgSgCax0E-QahEUYfbSuRIh8c8siBSLCMEEYkBOeZBkEDMP509e6hldnA-gkRH00awEbAiG2JgK1JEgfIhPFc27QeLIaIfJAOicVkIjfmdYA0QEpxxwYaDNPfDLQFW6cgyKDEOsXw3VAZSqGNYSNXMXsvFpWunAKn8FYAsZS4uAA)]
+- [主旋律 TMD 檔案](jugoya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xUrcWlpKTztbXyya8rj5iXv93RA2E-XzHm_p1NBS4tL0VbB0ozL3lbBncvGSN_EDmTMi5Xz3u-Z9WRH57M5K17O2fRy0Qqw6c9mbwIKP9248fmUDS8apj7ZOwcs_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-nrAC6DBSsesBg1QMFK5BhYAR0ohKXvpYC0OLns9e9WLXq2Yw-LgUFhSc71j6b1v5i-eKX7d1AFz3r73-6fvWz3fufzel4srMb6LfHDY1A9ovOTUANT3ate9HR_nw5SPzF5nlA8eezWp41tz6buf5xQxOXlj4XyApbagGQ-572zX82e8eLze0vVnQB7Qb6HBiiT1tXAB0NioENvc_aOxUCDIwN9bIK0t_v6QEqfrmgUaFAT8HQDMiFB82zOfOBbAUjhZfLpgHDAuhVkOkvVu1_1rAcZG5374uZ84Gij5s7gIJAPUCRp2snAO1wV3i6ZDlQTAEYpQpAUbBuYPj3PG5a_bh59eOm9QqPm9Y-bl7zuGnJ4-buxw29XJCAbQC7H5FGOsCppvNx0ypgwIG5LUCNYJGtj5s3P25oAJnYNO9x8_zHzX1AxY-blgENBJnyuGkRzDagKBIbpAdkHMQIsFKgqc3LHjetedw8CaquoeFFL9DNQEXrgepAFjZPQFYAsWEV2OyNQKufbdjyuHkRyOzmeY-b9iPUgf21q4cMf20BBVHTJhC3ecXjZiB7O9B3EPcCPbwH6h1kNhavgVQsety8CRwEQMNWgEII5Ewg2gyyBFUKomfn4-a94AgC6ux_3LQO6jWoOqAHd0OVUp5goUABlBG8StPzKxOtAjIT8_IdagxqFKpBdijYGJpp2YFZ2HKKAii97mh4sbBHQcNE4emG_ufrG3TgyVsTiwagVVDDXs7qezqh1wro470gEXDQdoLJNUCyBkjPB4cHSBbKBsuDZEAqYCQWPRAxuLkIOzWAjtW0AiUGqBQwTYA1LIFob1oFTZFNa4GcrWDOZqjUarCZEDshtvRB7QRpBsYJWKwbi527esi1cwvY5LVgchOyTPMKMA8iA0qayJbWKJjGK-iCoSEQGwFxjYIxkDQFYhANEq0Bi4MwqhoQD6zdACQEzkK4o35XDxWiHhbFpEU-RAzMBqsCyYBUIAOMiAfmIrAGcFw2Q2IUFg24ZaARhBQXoFgCWQiKDVwWgmMdmGHBmvdgGotbhnQLoTEOJghFOYgHosGKa8ASMEhMlO_opF6UI0U8yNvIYigRiyKDmhgIRzkkHJvB2ROafSdBjUWObFBVA-RMgEohFCIrq0GzDc1CSJSDoxFYaoNJcK4Fpy2QqZA8DCrrgRSoEoDmcZBPECpR1OG2EjnS4TGPLIgUywhBRGJAjnkQJBDzT2fPHmqZHZyPINHRtBFsBKzIhhjYihRRoHwIz5VN-8FiiOgHyYBoXBZCY34nWAOEBGdcsOEgzf1wS4BVOrIMSoxDLN8NlYEU6hgWUjWz13Jx6dopQCp_BSBLmYsLAA)]
 - [鋼琴伴奏 TMD 檔案](jugoya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnja2_hk15THzUve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqWZlz2tgruXDZG-iZ2XHUKSi9Wznu_Z9aTHZ3P5qx4OWfTy0UrlEDCz2ZvAgo_3bjx-ZQNLxqmPtk7Byz8on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdvU8Xbvj6c4tz6esALrPyMDIQM_AwEzPwMLEHMgwMAI6UYmLy6s0Pb8y0SogMzEvP8jDocagRqGaSwEIbAzNtOzALH0tBVt0oACyYUfDi4U9ChomCk839D9f36CjEGBgbKiXVZCuiUWDlj7YsBoF03gFXTA0BGIjIK5RMAaSpkAMokGiNWBxEEZVA-KBtRuAhLjwu25XD9muAxOEnAfigWiw4hqwBAwS47wdnZQ5D-5GZEEk9yAEEc5GdiMIEnDj09mzBzgIa1ETqA9KAjVBpM9n-1qe7et4NqfjaWvn0-3LnnV2Q3IiwlGG8QrRhrHIDNN4IMs0HipmALSNbJWoClB1k2Aq0Le6dgoQDyugsJS5uAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 十五ヤ ]
+📊 TMD Song Profile: [ 十五ヤ（十五夜） ]
 ================================================================================
 ⏱  Duration:       0:20 (20.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <2/4>
@@ -126,6 +129,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![十五ヤ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P031.jpg](P031.jpg)
+![十五ヤ（十五夜） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P031.jpg](P031.jpg)
 
 

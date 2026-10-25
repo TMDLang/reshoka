@@ -1,8 +1,8 @@
 ---
-title: "スズメ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "スズメ"
-description: "〈スズメ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アチラノヤネデ チユンチユンチユンチユンナクヨ…"
-keywords: "スズメ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 小松耕輔"
+title: "スズメ（麻雀） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "スズメ（麻雀）"
+description: "〈スズメ（麻雀）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アチラノヤネデ チユンチユンチユンチユンナクヨ…"
+keywords: "スズメ（麻雀）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P072.jpg"
 audio: "suzume.mp3"
 ---
 
-# スズメ
+# スズメ（麻雀）
 
 <audio controls src="suzume.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "suzume.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 100
+曲目說明
+中文解釋：描寫麻雀在屋簷、庭院間飛跳覓食的情景。
 
 ## 歌詞
 
@@ -47,7 +47,7 @@ audio: "suzume.mp3"
 
 ```abc
 X:1
-T:スズメ
+T:スズメ（麻雀）
 C:曲：小松耕輔
 M:2/4
 L:1/16
@@ -65,14 +65,14 @@ C4 C4 | F F F C F2 z2 | A2 A2 G2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2vm4adfj5oUKWlpcirYKhgYGXPa2Cm5cNkb6JnYgfS9Wznu_Z9aLibOf9s3_sGzjZrBhz2ZvAgo-3dD_bO6-Fw1TX-yZAhZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWvN_TAQpFPWAo6oFCEcgwMHy_p1OJi0tfiwuokutx06LHzY2Pm1c-bu573LzkcXPv4-Z2LrDQssfNm_Eyuh43rX_cvAJoBpACik543LQdZF7TxsfNbUDRTSBVTWuBSoAq8JiJi9wMNGPr4-YZj5tbHzevBtnE9WRXD1AQopMiJzfPAzkTFF3dyB6hvpO19Lm4fBMz86wCMhPz8h1qDGoUqrkUgMDG0EzLDsyqUTBU0FUwBmIjIAaxaxRMgSQMG4BFzKA8GF0D1gHTBVZDhmkwdRBdMIhsmmk8VBDOAKkFQaAASBPEQGTH4DKwlotL104BFBoKSLQyFxcA)]
+- [主旋律 TMD 檔案](suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2vm4adfj5oXv93S83LX75eyG93s6FbS0uBRtFQwNDLjsbRXcuGyM9E3sQGa8WDnv_Z5ZLybOfto3_8OyjZvBBj-bvQko-HRD_7O5-140TH2xZwpY-EX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuxoeLp2x9OdW55PWQF0FShE9YAhqgcKUSDDwBDoQiUufS0FoMXPZ697sWrVsxl9XAoKCk92rH02rf3F8sUv27uBLnrW3_90_WqIp57OWfF0Y_fzDdsfNzQ-3bX25cxFL6dNfrl49ovtm18sAzLmP5_V8qy59dnM9Y8bmri09LmA5nMBHcL1uGnR4-bGx80rHzf3PW5e8ri593FzOxdYaNnj5s14GV2Pm9Y_bl4BNANIAUUnPG7aDjKvaePj5jag6CaQqqa1QCVAFXjMxEVuBpqx9XHzjMfNrY-bV4Ns4nqyqwcoCNFJkZOb54GcCUoZ3cgeob6TQWHtm5iZZxWQmZiX71BjUKNQDYpMBRtDMy07MKtGwVBBV8EYiI2AGMSuUTAFkjBsABYxg_JgdA1YB0wXWA0ZpsHUQXTBILJppvFQQTgDpBYEgQIgTRADkR2Dy8BaLi5dOwVQaCgg0cpcXAA)]
 - [鋼琴伴奏 TMD 檔案](suzume_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx067HzQvf7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGhhw2dsquHHZGOmb2HHVKSi9WDnv_Z5ZLybOfto3_8OyjZuVQILPZm8CCj7d0P9s7r4XDVNf7JkCFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1YAXWhkYGSgZ2BgpmdgYWIOZBgYAl2oxMXlm5iZZxWQmZiXH-ThUGNQo1DNpQAENoZmWnZgVo2CoYKugjEQGwExiF2jYAokYdgALGIG5cHoGrAOmC6wGjJMg6mD6IJBZNNM46GCcAZILQgCBUCaIAYiOwaXgbXIgeGDEhgW8LCINowFKo42jQdRcC6QNADxTMA8MImiFChJgn5USZDz4LohUri0YzMboh3oN107BZD3FJBoZS4uAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ スズメ ]
+📊 TMD Song Profile: [ スズメ（麻雀） ]
 ================================================================================
 ⏱  Duration:       0:28 (28.8s), 24 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
@@ -126,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![スズメ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P072.jpg](P072.jpg)
+![スズメ（麻雀） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P072.jpg](P072.jpg)
 
 

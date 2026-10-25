@@ -1,8 +1,8 @@
 ---
-title: "ネコトカヘル — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ネコトカヘル"
-description: "〈ネコトカヘル〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ネコガ　トビツク カヘルノ　ウヘニ…"
-keywords: "ネコトカヘル, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "ネコトカヘル（貓與青蛙） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ネコトカヘル（貓與青蛙）"
+description: "〈ネコトカヘル（貓與青蛙）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ネコガ　トビツク カヘルノ　ウヘニ…"
+keywords: "ネコトカヘル（貓與青蛙）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P037.jpg"
 audio: "neko_to_kaeru.mp3"
 ---
 
-# ネコトカヘル
+# ネコトカヘル（貓與青蛙）
 
 <audio controls src="neko_to_kaeru.mp3"></audio>
 
@@ -18,8 +18,8 @@ audio: "neko_to_kaeru.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 92
+曲目說明
+中文解釋：描寫貓和青蛙相遇、嬉戲的童趣情景。
 
 ## 歌詞
 
@@ -49,7 +49,7 @@ audio: "neko_to_kaeru.mp3"
 
 ```abc
 X:1
-T:ネコトカヘル
+T:ネコトカヘル（貓與青蛙）
 M:2/4
 L:1/16
 Q:1/4=92
@@ -68,14 +68,14 @@ c2 c2 c2 A2 | d2 d d c2 z2 | A2 c2 A2 F2 | G2 A2 F4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](neko_to_kaeru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu7n3ctPlxc8fjptWPm2c8bl6toKXFpWirYGnEZW-r4MZlY6RvYgfS_6J91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrHi_pwMUQnrAENIDhRCQYWD4fk-nEheXvhYXUCUX1EFNax43NICc1Tz5cXPL46b1XHAHPm7uA8k1LQNzu5El-sESq4HKHzevAYoA5bY_btoENmE_WG7946atYE1Qf68AWwNlg5U3t4IN7AYr3wpySNNuoMSix817QIYiXAWU3gk0p_Fx0xKwwiVQy8Fu4eJ6sqsHKAsMV6BDYNYDGc0LIW5e9bh59uOmtVBtIFEgOQ_V-yBLIRGzEqIDaA7QcxsfN7dBPQP2Isz7yNY_btoLNgekF2xBNzgc2oAWdD5unva4GRzncM-AvL8QbAfIM0ALwEHcPB8UGkDnaulzcfkmZuZZBWQm5uU71BjUKFRzKSjYGJpp2QHpGgVTBV0wNoZifCJmUIyqBgRrUMzCrg5ilhGQRMY1YHFDKA9hFkgEBFHVgSBMLUQEhGG21MBtBvEw3QVzCUydGVjEAG4WTB5kA8SlMB7ErFouLl07BVBwKiDRylwA)]
+- [主旋律 TMD 檔案](neko_to_kaeru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu7n3ctPlxc8fjptWPm2c8bl79fk_Hi02TX3S0v5w76cXsme_3dCpoaXEp2ipYGnHZ2yq4cdkY6ZvYgUx80b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWAK0DhZkeMMz0QGEGZBgYAi1V4tLXUng2e9Pz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9u73e2Y96-9_un410LVPJ_VAXPt89o6Xje2PGxqfrul81rHp-awWoBtebFv8rLn12cz1jxuauLT0uYAmcwGdwAX1e9Oaxw0NoBBonvy4ueVx03oueFg8bu4DyTUtA3O7kSX6wRKrgcofN68BigDltj9u2gQ2YT9Ybv3jpq1gTdAgXgG2BsoGK29uBRvYDVa-FeSQpt1AiUWPm_eADEW4Cii9E2hO4-OmJWCFS6CWg93CxfVkVw9QFhiFQIfArAcymhdC3LzqcfPsx01rodpAokByHqr3QZZC0sBKiA6gOUDPbXzc3Ab1DNiLMO8jW_-4aS_YHJBesAXd4HBoA1rQ-bh52uNmcPKCewbk_YVgO0CeAVoADuLm-aDQADoXFD--iZl5VgGZiXn5DjUGNQrVwKi3MTTTsgPSNQqmCrpgbAzF-ETMoBhVDQjWoJiFXR3ELCMgiYxrwOKGUB7CLJAICKKqA0GYWogICMNsqYHbDOJhugvmEpg6M7CIAdwsmDzIBohLYTyIWbVcXLp2CqDgVECilbkA)]
 - [鋼琴伴奏 TMD 檔案](neko_to_kaeru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3Pu4afPj5o7HTasfN8943Lz6_Z6Ox81THjctetzc92TPlqdL-5_snvF-T6eClhaXoq2CpRGXva2CG5eNkb6JHVedgtKL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7ICaKmRgZGBnoGBmZ6BhYk5kGFgCLRUiYvLNzEzzyogMzEvP8jDocagRqGaS0HBxtBMyw5I1yiYKuiCsTEU4xMxg2JUNSBYg2IWdnUQs4yAJDKuAYsbQnkIs0AiIIiqDgRhaiEiIAyzpQZuM4iH6S6YS2DqzMAiBnCzYPIgGyAuhfEgZtUih6YPUmhaQAMz2jAWqBBC4uCZYJFD1otNXiHaKD4XzIfScHnTeAwDoEL43QK2BYvtGPIGmHIQC2CagWGia6cAChYFJFqZCwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ネコトカヘル ]
+📊 TMD Song Profile: [ ネコトカヘル（貓與青蛙） ]
 ================================================================================
 ⏱  Duration:       0:41 (41.7s), 32 measures total
 🎼 Key & Tempo:    首調基準 F, != 92.0 BPM, <2/4>
@@ -129,6 +129,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ネコトカヘル — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P037.jpg](P037.jpg)
+![ネコトカヘル（貓與青蛙） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P037.jpg](P037.jpg)
 
 

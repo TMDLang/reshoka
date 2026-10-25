@@ -1,8 +1,8 @@
 ---
-title: "イヌ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "イヌ"
-description: "〈イヌ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） ソトヘ　デルトキ　トンデキテ…"
-keywords: "イヌ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "イヌ（小狗） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "イヌ（小狗）"
+description: "〈イヌ（小狗）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） ソトヘ　デルトキ　トンデキテ…"
+keywords: "イヌ（小狗）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P019.jpg"
 audio: "inu.mp3"
 ---
 
-# イヌ
+# イヌ（小狗）
 
 <audio controls src="inu.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "inu.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：歌唱小狗跟隨孩子、親近又可愛的日常。
 
 原書資訊與歌詞全文（對應 P019.jpg，書頁 p. 4，第一學期第 4 首）：
 調性與拍號：ニ調四拍子（D 大調 4/4 拍），「アイラシク」
@@ -41,7 +44,7 @@ audio: "inu.mp3"
 
 ```abc
 X:1
-T:イヌ
+T:イヌ（小狗）
 C:曲：文部省
 M:4/4
 L:1/16
@@ -56,14 +59,14 @@ F6 E2 D4 z4 | d6 d2 B4 z4 | A4 A4 F4 E4 | D12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](inu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4uUdBS4tL0VbB0MCCy95WwYXLxkTfxA6k6cXKee_3zHo2rf1l84rncxrBBj2bvQlD7EX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuxoeLp2x9OdW55PWfF-Twco-PSAwacHCj4gw8Dw_Z5OJS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqB7gL69GnrCqCvgK54uqH3WXunQoCBoaVeVkH6-z09QMUvFzQqFOgpmAB5cHc_mzMfyFYwUXi5bBrQocBgARn-YtX-Zw3LQcZ2976YOR8o-ri5Gyj4dPZsoMjTtROAVrgoPF2yHCimAAxpBaAoWDcwcHoeNy0Cx8nKx03bHzetf9zQywUyE6gFaCVQFYjzuGnv4-aOx80zHjc0PG5uf9y8GsRtWgvmAsU3gwSB3OY2iOpVj5tbgJzHzYtAKtC4QDbIvjaQZc2rwRqa5z5ubnzc3A-Wng02D2hqN1gz0Kp-kAaQni6403b1wJ22DKx3BljlDKjTQOZsAqOpELshSveDnIAweufjpjVQp4G4QIPWgAMBKEiqu4CqKU8oUKCgpc_F5ZlXahWQmZiX71BjUKNQDbJAwcZCyw7MwJY6FSCJ5MXCHgUNE4WnG_qfr2_QgScpTSwagNaADKtRMFXQBUMQbQzENQpGYL6RgiGQBGGECEgeogamCwQNQCLgyMHttl095LjNDGy-GZgG2VijYBgHFgJSYBZEECYNchqyg4l33o5OcpwHsg8WUGBbkJwHchNEDOQymOtA7gKqwnBdLReXrp0CMNoVgJQyFxcA)]
+- [主旋律 TMD 檔案](inu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4uef9no6nG_qfd09_v6dTQUuLS9FWwdDAgsveVsGFy8ZE38QOZMCLlfPe75n1bFr7y-YVz-c0gg19NnsThtiL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6CJQUOoBg1IPFJRAhoEh0HVKXPpaCkBbn89e92LVqmcz-rgUFBSe7FgLdMKL5YtftneDnLO2B2g-xEMvts9_OWvF07Urn66d8Lih8cWyVS_2T3za3_G0f_2zltnPZ7U8m74U6IDHDU1cWvpcIMNtqQVALnvaN__Z7B0vNre_WNH1oqMd6DJgKD5tXQF0LjjMe5-1dyoEGBha6mUVpL_f0wNU_HJBo0KBnoIJkAcPk2dz5gPZCiYKL5dNAwYC0I8gw1-s2v-sYTnI2O7eFzPnA0UfN3cDBZ_Ong0UAXoYaIWLwtMly4FiCsBYVACKgnUDA77ncdMicNyvfNy0_XHT-scNvVwgM4FagFYCVYE4j5v2Pm7ueNw843FDw-Pm9sfNq0HcprVgLlB8M0gQyG1ug6he9bi5Bch53LwIpAKNC2SD7GsDWda8Gqyhee7j5sbHzf1g6dlg84CmdoM1A63qB2kA6emCO20XMKlCnbYMrHcGWOUMqNNA5mwCo6kQuyFK94OcgDB65-OmNVCngbhAg9aAAwEoSKq7gKopTyhQoABKgJ55pVYBmYl5-Q41BjUK1SALFGwstOzADGypUwGSSF4s7FHQMFEAJfr1DTrwJKWJRQPQGpBhNQqmCrpgCKKNgbhGwQjMN1IwBJIgjBAByUPUwHSBoAFIBBw5uN22q4cct5mBzTcD0yAbaxQM48BCQArMggjCpEFOQ3Yw8c7b0UmO80D2wQIKbAuS80BugoiBXAZzHchdQFUYrqvl4tK1UwBGuwKQUubiAgA)]
 - [鋼琴伴奏 TMD 檔案](inu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctORxc8_7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQwILL3lbBhcvGRN_EjqtOQenFynnv98x6Nq39ZfOK53MalUBiz2ZvwhB70b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWAJ1mZGBkoGdgYKZnYGFiDmQYGAJdp8TF5ZlXahWQmZiXH-ThUGNQo1DNpQAENhZadmCGvpaCLTpQgJj-YmGPgoaJwtMN_c_XN-goBBgYWuplFaRrYtGgpQ82rEbBVEEXDEG0MRDXKBiB-UYKhkAShBEiIHmIGpguEDQAiXDhd9uuHnLcZgY23wxMg2ysUTCMAwsBKTALIgiTBjkN2cHEO29HJznOA9kHCyiwLUjOA7kJIgZyGcx1IHcBVWG4rhYp1n1QYt0EGutAXfEK0YaxMApobjyQZRpPnAiIYQC0CGKUCVDUBEkZIT4OY0DyUOuAgjBdQArEg2qGa0X2AMgIoJd17RSAvlZAUMpcXAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ イヌ ]
+📊 TMD Song Profile: [ イヌ（小狗） ]
 ================================================================================
 ⏱  Duration:       0:26 (26.7s), 12 measures total
 🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <4/4>
@@ -116,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![イヌ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P019.jpg](P019.jpg)
+![イヌ（小狗） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P019.jpg](P019.jpg)
 
 

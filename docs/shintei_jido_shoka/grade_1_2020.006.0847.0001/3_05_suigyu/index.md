@@ -1,8 +1,8 @@
 ---
-title: "スヰギウ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "スヰギウ"
-description: "〈スヰギウ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　ヤマノ　フモトノ アヲクサバラ　ニ…"
-keywords: "スヰギウ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "スヰギウ（水牛） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "スヰギウ（水牛）"
+description: "〈スヰギウ（水牛）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　ヤマノ　フモトノ アヲクサバラ　ニ…"
+keywords: "スヰギウ（水牛）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,13 +10,16 @@ image: "P044.jpg"
 audio: "suigyu.mp3"
 ---
 
-# スヰギウ
+# スヰギウ（水牛）
 
 <audio controls src="suigyu.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫臺灣水牛在田間工作、休息與生活的情景。
 
 原書資訊與歌詞全文（對應 P044.jpg，書頁 p. 29，第三學期第 5 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍）
@@ -54,7 +57,7 @@ audio: "suigyu.mp3"
 
 ```abc
 X:1
-T:スヰギウ
+T:スヰギウ（水牛）
 M:2/4
 L:1/16
 Q:1/4=96
@@ -69,14 +72,14 @@ G2 G2 A2 A2 | F2 F2 D2 D2 | c2 z2 G2 A2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suigyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi64WI5iWWlBalKnFpaSk8btr5uHnD46Z1j5uWKWhpcSnaKliacdnbKrhx2Rjpm9iBdL5o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZMdDU_X7ni6c8vzKSve7-kAhZgeMMT0QCEGZBgYvt_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572rri2bR2oCuebuh91t6pEGBgYqKXVZD-fk8PUPHLBY0KBXoKRpZALtjhnUCHP5szH8hWMFV4uWwa0KXv98wCmf5i1f5nDctB5nb3vpg5Hyj6uHkGUPDJrh6gyNO1E4B2uCk8XbIcKKYADEIFoChQNxdILzBAHjc0PG5e8rh53uPmPjB76uPmRY-bO4BckIrHTUDOpsdN6x83bX3cPOFx80qwom6wHFBH097HzavAQjB2cwdEHyIeQdJNayCiEHM2gYX2P26e-bi57XHzaojc7sfNXY-bVkMdAtTXPAOoFCIHNBdoeiPENKDXgCECdA7EFRMfNzfDSYi_dgGjHugmoNuBGiHGbX_ctOlxcwvQWriJsx83rQXbueRx00Zkf7WANEFduQzsJJBD8fkL6LiVUB3N88Ge2gD31yKwV2EBjOqv7SB9wCABGkjAX0AhypMjFCho6XNxBZdmpleWWgVkJublO9QY1ChUg-xQsDE007IDs7DlAwVINnqxsEdBw0Th6Yb-5-sbdOCJVxOLBqBVUMNezup7OqHXSsEAEmJgP3aCyTVAsgZIzwfzICRIDCKPXwbCQ5Ag0xF2agAdq2kF4gCll4DJeZCkC9U-FcxbBCY7kGWaIGKbIMkWTG6F6pkAllkJJrvBZqNauasHbiXEkFUoBm8HGwY2uLkFzN4PlYGomw0WWwtmd0FlwE5v2ojNyhqgl3UVTOOBhCEQGwFxjYIxkARhEA8kik0ExIJhkBE14LyDO9p39VAU7ZAohwFQZIIiDOQ5iDiIRo5iUEhDkgcikaAmFQTAGumQEIdbCDZ-FVgzRBwmAot6kFN2gnkbwLLrwOQyqAzIYlSAEeWQ6IRbCLQGlH5AmkGGgAxbDRSZCZZrI9_CGmAVoAuHxsD4g4mYwmO4BhzHsPSASBMwSEx87-ikPJtD4hOS2cEkKPghOQdMoskgZXOsMoisjzubI2VWSPYFBSYohyEHPbBwhsrsBvNA-QwUPcj5FBQRwLIabg5SFKBlc2hhBvEX1EqoiyGWgeMXbiW4UIA6CaU0wmclJJuD4hAU1yBco2AGJEEYIQLL5agisDxPRKw_nT2bslyOUiAj4hM9NyPSAKwEgKQXhD6YDgTAnsvBpeaTHdvAGhvBQQvNQuCSEpYSNoNJUNENkgHVqpC4a54IJkE8sASKjUjhj5TNISU4NAGDTQdnXWrbiCihYbGKyNVmoOIeTEDyPihmYSohqlBzei0Xl66dAqTKVwCylLm4AA)]
+- [主旋律 TMD 檔案](suigyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi64WI5iWWlBalKnFpaSk8btr5uHnD46Z1j5uWvd_T8WzDlueds9_v6VTQ0uJStFWwNOOyt1Vw47Ix0jexA5nyon3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esAFoECj09YOjpgUIPyDAwBFqqxKWvpfBs9qbns9e9WLXq2Yw-LgUFhSc71j6b1v5i-eKX7d3v98x61t__dP1qqDPArn06Z8XzKRteTpv8dPvSJ3vnPG5ofLJn4rPG9S862p9Pmf9sy-7ns1qeNbc-m7n-cUMTl5Y-F8gWW2oBkBOf9s1_NnvHi83tL1Z0AW0Fev7FynlPW1cA3Q306tMNvc_aOxUCDExM9LIK0t_v6QEqfrmgUaFAT8HIEsgFh04nMHSezZkPZCuYKrxcNg0YHEDfgkx_sWr_s4blIHO7e1_MnA8Ufdw8Ayj4ZFcPUOTp2glAO9wUni5ZDhRTAMaTAlAUqJsLEngNjxsaHjcvedw873FzH5g99XHzosfNHUAuSMXjJiBn0-Om9Y-btj5unvC4eSVYUTdYDqijae_j5lVgIRi7uQOiD5FwQNJNayCiEHM2gYX2P26e-bi57XHzaojc7sfNXY-bVkMdAtTXPAOoFCIHNBdoeiPENKDXgCECdA7EFRMfNzfDSYi_dgHTF9BNQLcDNUKM2_64adPj5hagtXATZz9uWgu2c8njpo3I_moBaYK6chnYSSCH4vMX0HEroTqa54M9tQHur0Vgr8ICGNVf20H6gEECNJCAv4BClCdHKFAAJfPg0sz0ylKrgMzEvHyHGoMahWqQHQo2hmZadmAWtnygAMmrLxb2KGiYKDzd0P98fYMOPPFqYtEAtApq2MtZfU8n9FopGEBCDOzHTjC5BkjWAOn5YB6EBIlB5PHLQHgIEmQ6wk4NoGM1rUAcoPQSMDkPknSh2qeCeYvAZAeyTBNEbBMk2YLJrVA9E8AyK8FkN9hsVCt39cCthBiyCsXg7WDDwAY3t4DZ-6EyEHWzwWJrwewuqAzY6U0bsVlZA_SyroJpPJAwBGIjIK5RMAaSIAzigUSxiYBYMAwyogacd3BH-64eiqIdEuUwAIpMUISBPAcRB9HIUQwKaUjyQCQS1KSCAFgjHRLicAvBxq8Ca4aIw0RgUQ9yyk4wbwNYdh2YXAaVAVmMCjCiHBKdcAuB1oDSD0gzyBCQYauBIjPBcm3kW1gDrAJ04dAYGH8wEVN4DNeA4xiWHhBpAgaJie8dnZRnc0h8QjI7mAQFPyTngEk0GaRsjlUGkfVxZ3OkzArJvqDABOUw5KAHFs5Qmd1gHiifgaIHOZ-CIgJYVsPNQYoCtGwOLcwg_oJaCXUxxDJw_MKtBBcKUCehlEb4rIRkc1AcguIahGsUzIAkCCNEYLkcVQSW54mI9aezZ1OWy1EKZER8oudmRBqAlQCQ9ILQB9OBANhzObjUfLJjG1hjIzhooVkIXFLCUsJmMAkqukEyoFoVEnfNE8EkiAeWQLERKfyRsjmkBIcmYLDp4KxLbRsRJTQsVhG52gxU3IMJSN4HxSxMJUQVak6v5eLStVOAVPkKQJYyFxcA)]
 - [鋼琴伴奏 TMD 檔案](suigyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx84bHTeseNy17v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cdkY6ZvYcdUpKL1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZMdDU_X7ni6c8vzKSuANhoZGBnoGRiY6RlYmJgDGQaGQEuVuLiCSzPTK0utAjIT8_KDPBxqDGoUqrkUgMDG0EzLDszS11KwRQcKEBteLOxR0DBReLqh__n6Bh2FAAMTE72sgnRNLBq09MGG1SgYKOgqmMYDCUMgNgLiGgVjIAnCIB5IFJsIiAXDICNquPA7blcPOY4zBZoMg8ZAu2AipnDX1IDdA3M7wv0wSIzbdnSSG3Agm0AuAuEaBTMgCcIIEVi4oYrAQpEItz2dPZsct8HCAmY_IpTMQFENJiBhCXIDTCVEFWrI1aKmSR-UNGmCSJLPmha8nDbp-ZQNT-dMAkb2s-7ep2snQHIUwlmG8QrRhrFYGabx8UAba3AqNAEyTKAiWNQhS8N1ItSBTI82jQeJm4GYZvG5MEuhwlDlQO_q2ilAfKyAwlLm4gIA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ スヰギウ ]
+📊 TMD Song Profile: [ スヰギウ（水牛） ]
 ================================================================================
 ⏱  Duration:       0:20 (20.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
@@ -129,6 +132,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![スヰギウ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P044.jpg](P044.jpg)
+![スヰギウ（水牛） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P044.jpg](P044.jpg)
 
 

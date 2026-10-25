@@ -1,8 +1,8 @@
 ---
-title: "三バノツバメ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "三バノツバメ"
-description: "〈三バノツバメ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（曲：永井幸次），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イツノマニキタ三バノツバメ モトノフルスガコヒシイカ…"
-keywords: "三バノツバメ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 永井幸次"
+title: "三バノツバメ（三隻燕子） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "三バノツバメ（三隻燕子）"
+description: "〈三バノツバメ（三隻燕子）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（曲：永井幸次），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イツノマニキタ三バノツバメ モトノフルスガコヒシイカ…"
+keywords: "三バノツバメ（三隻燕子）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 永井幸次"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "G"
@@ -10,7 +10,7 @@ image: "P055.jpg"
 audio: "sanba_no_tsubame.mp3"
 ---
 
-# 三バノツバメ
+# 三バノツバメ（三隻燕子）
 
 <audio controls src="sanba_no_tsubame.mp3"></audio>
 
@@ -18,6 +18,9 @@ audio: "sanba_no_tsubame.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫燕子飛翔、築巢與春天歸來的情景。
 
 原書資訊與歌詞全文（對應 P055.jpg，書頁 p. 40，參考教材第 3 首）：
 調性與拍號：ト調四拍子（G 大調 4/4 拍），「カハイゲニ」
@@ -48,7 +51,7 @@ audio: "sanba_no_tsubame.mp3"
 
 ```abc
 X:1
-T:三バノツバメ
+T:三バノツバメ（三隻燕子）
 C:曲：永井幸次
 M:4/4
 L:1/16
@@ -63,14 +66,14 @@ D2 D2 G2 G2 A4 B4 | A4 D4 G4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sanba_no_tsubame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTzZ0fm4ecLj5r7HzS1gxkIFLS0uRVsFQwMLLntbBXcuGxN9EzuQAc9mb3q_Z9azDTue7Jr6dOeOZ2sWgs190b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonu3qert3xdOeW51NWvN_TAQo5PWDI6YFCDsgwMHq_p1OJi0tfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqC7Xqyc97R1xbNp7UBXPN3Q-6y9UyHAwNRUL6sg_f2eHqDilwsaFQr0FEwMgNyn_c0vGpqB3n02dwLQEwrGCi-XTQO6FBg0INNfrNr_rGE5yNzu3hcz5wNFHzd3AAWfzp4NFHm6dgLQDneFp0uWA8UUgCGrABQF6waGTs_jptWPm_sfNy153LTpcXP344ZeLpCZT3Y0gCiQOCiSgFE1DyTbtPZx037M-AMrbV4EtBYsOvVx8-rHTTsfN6153LT5cfOkx03bwRashqjrAxlDhLpGXAjiwl09EBcCzVrxuLn3cTPQiPVg7wCNw-lIoAtnAy15tnX7040bHzd3gS0H2rn_cfNkiIqZYB3dIBJiGDB4QOqAbKDIfmKdt6MTTO3uAqY2UNiAbADq3_64GRik7did97xj2-OmrUCfPFvfC2E8btoLDjCg34AaFkFsng_2K9BJQCOBcpBAWwW2BGg8MIqWEHIhUJrylA0FClr6XFzBiXlJiX75IcWlSYnA3B6QmZiX71BjUKNQDbJLwcZCyw7MqFEwjVfQVTCEYiNgWq4BkrpgCJYyAOIaoDBYAEyDFIIUGQOxIZIiqIFm8SAEUgSUAiIwB6QeBEF6EGYaA03UBZMgcZgBhhgmQ00yBEKQdpAjIK6EOx7igFouLl07BVS_KwBFlLm4AA)]
+- [主旋律 TMD 檔案](sanba_no_tsubame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTzZ0fm4ecLj5r7HzS1gxsL3ezqAgi9n7X7ePvXp2gnv93QqaGlxKdoqGBpYcNnbKrhz2Zjom9iBjHw2e9P7PbOebdjxZNfUpzt3PFuzEGzTi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dXzdO2Opzu3PJ-yAugMUFjqAcNSDxSWQIaBEdAxSlz6WgpAi5_PXvdi1apnM_q4FBSAvlj7bFr7i-WLX7Z3g1zU3_90_WqI-18unv18_5THDY3P13c-3b7oRUf7sxlLny5Z-Wztjif72p7PannW3Pps5vrHDU1cWvpcIMNtqQVALnvaN__Z7B0vNre_WNEFsnttz4uV8562rgA6F-jDpxt6n7V3KgQYmJrqZRWkv9_TA1T8ckGjQoGegokBkPu0v_lFQzMwKJ_NnQAMIAVjhZfLpgFDAehJkOkvVu1_1rAcZG5374uZ84Gij5s7gIJPZ88GioBjr8Nd4emS5UAxBWCsKQBFwbqBId_zuGn14-b-x01LHjdtetzc_bihlwsSlg0gCiQOShLAhDEPJNu09nHTfszUAlbavAhoLVh06uPm1Y-bdj5uWvO4afPj5kmPm7aDLVgNUdcHMoYIdY24EMSFu3ogLgSateJxc-_jZqAR68HeARqH05FAF84GWvJs6_anGzc-bu4CWw60c__j5skQFTPBOrpBJMQwYPCA1AHZQJH9xDpvRyeY2t0FTMmgsAHZANS__XEzMEjbsTvvece2x01bgT55tr4XwnjctBccYEC_ATUsgtg8H-xXoJOARgLlIIG2CmwJ0HhgFC0h5EKgNOUpGwoUQDkmODEvKdEvP6S4NCkRWLYEZCbm5TvUGNQoVIPsUrCx0LIDM2oUTOMVdBUModgImJZrgKQuGIKlDIC4BigMFgDTIIUgRcZAbIikCGqgWTwIgRQBpYAIzAGpB0GQHoSZxkATdcEkSBxmgCGGyVCTDIEQpB3kCIgr4Y6HOKCWi0vXTgHV7wpAEWUuLgA)]
 - [鋼琴伴奏 TMD 檔案](sanba_no_tsubame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo_Nx84THzX2Pm1vAjIXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwsue1sFdy4bE30TO646BaVnsze93zPr2YYdT3ZNfbpzx7M1C5VAwi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8ygqgS4wMjAz0DAzM9AwsTMyBDAMjoGOUuLiCE_OSEv3yQ4pLkxJzU60CMhPz8oM8HGoMahSquRSAwMZCyw7MqFEwjVfQVTCEYiMFY6CQEZAFgmApAyCuAQqDBcA0SCFIkTEQGyIpghpoFg9CIEVAKSACc0DqQRCkB2GmMdBEXTAJEocZYIhhMtQkQyAEaQc5AuJKuOMhDqjF7nUfFK-bwL1uGK8QbRgLo0C2AFmm8bFghgERCqDmmICEsaoDE2gmgYTgXsVuIVg_mklALshGoBd17RRQfakAFFHm4gIA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 三バノツバメ ]
+📊 TMD Song Profile: [ 三バノツバメ（三隻燕子） ]
 ================================================================================
 ⏱  Duration:       0:22 (22.2s), 10 measures total
 🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <4/4>
@@ -123,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![三バノツバメ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P055.jpg](P055.jpg)
+![三バノツバメ（三隻燕子） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P055.jpg](P055.jpg)
 
 

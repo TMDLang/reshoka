@@ -1,8 +1,8 @@
 ---
-title: "アワテトコヤ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "アワテトコヤ"
-description: "〈アワテトコヤ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：北原白秋、曲：成田爲三），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハルハハヨウカラ　川ベノアシニ カニガミセダシ　トコヤデゴザル…"
-keywords: "アワテトコヤ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
+title: "アワテトコヤ（匆忙理髮店） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "アワテトコヤ（匆忙理髮店）"
+description: "〈アワテトコヤ（匆忙理髮店）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：北原白秋、曲：成田爲三），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハルハハヨウカラ　川ベノアシニ カニガミセダシ　トコヤデゴザル…"
+keywords: "アワテトコヤ（匆忙理髮店）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P056.jpg"
 audio: "awate_tokoya.mp3"
 ---
 
-# アワテトコヤ
+# アワテトコヤ（匆忙理髮店）
 
 <audio controls src="awate_tokoya.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "awate_tokoya.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：以螃蟹與猴子理髮的故事，描寫忙亂又滑稽的場面。
 
 原書資訊與歌詞全文（對應 P056.jpg – P057.jpg，書頁 pp. 41–42，參考教材第 4 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍）
@@ -68,7 +71,7 @@ audio: "awate_tokoya.mp3"
 
 ```abc
 X:1
-T:アワテトコヤ
+T:アワテトコヤ（匆忙理髮店）
 C:曲：成田爲三
 M:2/4
 L:1/16
@@ -83,14 +86,14 @@ c4 c4 | F4 F4 | A4 F4 | F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](awate_tokoya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5bnFwGt1dJSeNy06HHz-sfNbY-bOx43bX7cvERBS4tL0VbB0MCCy95WwY3LxkjfxA6k_cXKee_3zHraM_1p3_znM_c-X94NNvXZ7E1A4WcdE55P2fC8Y9OTHZ1g4Rftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKr5-naHU93bnk-ZcX7PR2g4NQDBqceKDiBDAOj93uANnDpaynYUgtwKSgoAD31bPaOF5vbX6zoetHRDnQX0L9PW1c8m9YOdMXTDb3P2jsVAgxMzfSyCtIVHjVMBnHMQZz3e3qAOl8uaFQoKNBTMDEEypkAHdnztL_5RUMzMASezZ0A9JeCicLLZdOAjgeGFsjCF6v2P2tYDrKqu_fFzPlA0cfNM4CCQP8DRZ6unQC01k3h6ZLlQDEFYBwoAEWBurlAep_saABRj5v7HzevBpNAtOJx07LHTUDuyscNDU-3z33cPPNxcx8ogpu2P27uBmsASXc_blrzuHn-46bdj5sbQHINDfDIf9zc_rhpy-OmbUBzITY0ggxubnnctPZx82awUkIizV0QN-7qAYfrhn6wfd2Pm6eB1EBIoC6Qo4D2zQFr2QR2wWqgIMSZq8ByTY-bdjxungdW0Q62CWjWVpDbQRq6QD5t2kmpM3d0QqzcCw6BGeBA3Pq4aR3I1SBnrgKrX_K4CZhLgEGHEjidYNX7HjcBpYH6wcEH0gMMZWD4Akmgf9vARgA1r6HQpU9nz4a4FO5AYMyuBTkTGJNAC6AWA90IFIfnaliYPpsODKz1EBIU2CDVMH-BVANduhAcAgtgkUBJ1E-BuBQYe8AwAUZgFzhKgfEGRP1gjVPACRaoBcZo2olwLCw2gIkR6DRg2gZ6pA3JPqAUMLkArQSGLNBcIJvSZPC0dS1m4AJNByoAOQolcEGpEOgzoKuBUsDQgzp5O5i_H-xZYBCDyYaG5yu3gFIV0I0gzcBkS0m-AuqkvLSDAgUtfS4ux_LEktSQ_Oz8ykSrgMzEvHyHGoMahWqQRQo2hmZadmBWjYKpgi4QmoFpYyCuUTAEksi4RsEIygLRYDVQvSZQMRA2AKskwjSoXmQzQebUgNXDVCGbpgunYXpBKkAQRkP0oorAWCCTIHprubh07RSQwkUByFXm4gIA)]
+- [主旋律 TMD 檔案](awate_tokoya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5bnFwGt1dJSeNy06HHz-sfNbY-bOx43bX7cvOT9no6nPW1P9898PqHt5ep1T3dNf7-nU0FLi0vRVsHQwILL3lbBjcvGSN_EDmTmi5Xz3u-Z9bRn-tO--c9n7n2-vBts1bPZm4DCzzomPJ-y4XnHpic7OsHCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZFfP07U7nu7c8nzKCqADQWGsBwxjPVAYAxkGRkA3KnHpaykALX4-e92LVauezejjUlBQeLJj7bNp7S-WL37Z3g100ZPdS1_Ma34xf-eLjvbnPVuerp0A8eXzWS3PprY-2QVU0_Osv__p-tXAAHiyq-lpf8ez3ROfr9gLVPB0wZaXcxc9bmji0tLnAtllSy0Acigw_J7N3vFic_uLFV1AxwGDABi0T1tXAF0PipENvc_aOxUCDEzN9LIK0hUeNUwGccxBHJCTZ-94uaBRoaBAT8HEEChnAgyPnqf9zS8amoGB_WzuBGAQKpgovFw2DRhOwGAAWfhi1f5nDctBVnX3vpg5Hyj6uHkGUBAY1EARYMgArXVTeLpkOVBMARjdCkBRoG4uSKg2gKjHzf2Pm1eDSSBa8bhp2eMmIHfl44aGp9vnPm6e-bi5D5TAmrY_bu4GawBJdz9uWvO4ef7jpt2PmxtAcg0N8MT3uLn9cdOWx03bgOZCbGgEGdzc8rhp7ePmzWClhESauyBu3NUDDtcN_WD7uh83TwOpgZBAXSBHAe2bA9ayCeyC1UBBiDNXgeWaHjfteNw8D6yiHWwT0KytILeDNHSBfNq0k1Jn7uiEWLkXHAIzwIG49XHTOpCrQc5cBVa_5HETMJcCgw4lcDrBqvc9bgJKA_WDgw-kBxjKwPAFkkD_toGNAGpeQ6FLn86eDXEp3IHAmF0LciYwJoEWQC0GuhEoDi9VYGH6bDowsNZDSFBgg1TD_AVSDXTpQnAILIBFAiVRPwXiUmDsAcMEGIFd4CgFxhsQ9YM1TgEnWKAWGKNpJ8KxsNgAJkag04BpG-iRNiT7gFLA5AK0EhiyQHOBbEqTwdPWtZiBCzQdqADkKJTABaVCoM-ArgZKAUMP6uTtYP5-sGeBQQwmGxqer9wCSlVAN4I0A5MtJfkKqJPy0g4KFEClqGN5YklqSH52fmWiVUBmYl6-Q41BjUI1yCIFG0MzLTswq0bBVEEXCM3AtDEQ1ygYAklkXKNgBGWBaLAaqF4TqBgIG4BVEmEaVC-ymSBzasDqYaqQTdOF0zC9IBUgCKMhelFFYCyQSRC9tVxcunYKSOGiAOQqc3EBAA)]
 - [鋼琴伴奏 TMD 檔案](awate_tokoya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOhx8_rHzW2PmzseN21-3Lzk_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgaGDBZW-r4MZlY6RvYsdVp6D0YuW893tmPe2Z_rRv_vOZe58v71YCCT-bvQko_KxjwvMpG553bHqyoxMs_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-nrAA60MjAyEDPwMBMz8DCxBzIMDACulGJi8uxPLEkNSQ_O78y0SogMzEvP8jDocagRqGaSwEIbAzNtOzArBoFUwVdIDQD08ZAXKNgCCSRcY2CEZQFosFqoHpNoGIgbABWSYRpUL3IZoLMqQGrh6lCNk0XTsP0glSAIIyG6EUVgbFAJkH01mIJFh-UYDGBh4phvEK0YSwywzQeyoL5HcgHiWFRCwtZkA7TeKiMAVQErAdhCxBBxMEMiDqQS3XtFJAcqwDkKnNxAQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ アワテトコヤ ]
+📊 TMD Song Profile: [ アワテトコヤ（匆忙理髮店） ]
 ================================================================================
 ⏱  Duration:       0:13 (13.3s), 12 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <2/4>
@@ -143,8 +146,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![アワテトコヤ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P056.jpg](P056.jpg)
+![アワテトコヤ（匆忙理髮店） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P056.jpg](P056.jpg)
 
-![アワテトコヤ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P057.jpg](P057.jpg)
+![アワテトコヤ（匆忙理髮店） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P057.jpg](P057.jpg)
 
 

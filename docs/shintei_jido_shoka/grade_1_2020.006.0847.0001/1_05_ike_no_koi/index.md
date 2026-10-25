@@ -1,8 +1,8 @@
 ---
-title: "イケノコヒ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "イケノコヒ"
-description: "〈イケノコヒ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：デテコイ　デテコイ イケノ　コヒ…"
-keywords: "イケノコヒ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "イケノコヒ（池中鯉魚） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "イケノコヒ（池中鯉魚）"
+description: "〈イケノコヒ（池中鯉魚）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：デテコイ　デテコイ イケノ　コヒ…"
+keywords: "イケノコヒ（池中鯉魚）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "G"
@@ -10,7 +10,7 @@ image: "P020.jpg"
 audio: "ike_no_koi.mp3"
 ---
 
-# イケノコヒ
+# イケノコヒ（池中鯉魚）
 
 <audio controls src="ike_no_koi.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "ike_no_koi.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫池水中的鯉魚游動，以及孩子觀魚的趣味。
 
 原書資訊與歌詞全文（對應 P020.jpg，書頁 p. 5，第一學期第 5 首）：
 調性與拍號：ト調二拍子（G 大調 2/4 拍），「オモシロク」♩=96
@@ -56,7 +59,7 @@ audio: "ike_no_koi.mp3"
 
 ```abc
 X:1
-T:イケノコヒ
+T:イケノコヒ（池中鯉魚）
 C:曲：文部省
 M:2/4
 L:1/16
@@ -71,14 +74,14 @@ d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ike_no_koi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4aePj5r7HTZsfN09S0NLiUrRVsDTjsrdVcOeyMdI3sQNpfrFy3vs9s55Na3_ZvOL5nEawgc9mb8IQe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVrzf0wEKRj1gMOqBghHIMDB8v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu4A-fdq6AugroCuebuh91t6pEAByTFZB-vs9PUDFLxc0KhToKZgCeXB3P5szH8hWMFV4uWwa0KHAYAEZ_mLV_mcNy0HGdve-mDkfKPq4uQMo-GRXD1Dk6doJQCvcFZ4uWQ4UUwCGtAJQFKwbGDg9j5tWPW5e9Lhp--PmtY-b1j9u6H00c6UtMGJAJgNtBVGPm9sfN7eBYg4Yiw0NyFywNDxugXLg6IWI7gVzwKLN8x43t4Dsae6DyG1_3LQJJNS0Hyzd9bhpNdBYiGVtIE1AoebVYAOB7ut43LwJog_oRqBl-x83r4RaBnMCNgmwF3b1UOAFoKnAgIF4YQnYmeuQvNAMFF0D9QLQ_SAfzYBYBlS4CeY3oMlrHzdPfdy0BiI3_3HTCmxewCVBeQqEAgUtfS4uz-xUv3zv_EyrgMzEvHyHGoMahWqQLQo2hmZadmAWtsSvAEmDLxb2KGiYKDzd0P98fYMOPMVqYtEAtAxkWI2CsYIuEBopGAJJ03gggVUIxDQCYoiUCVAExINBA5AacHzidt2uHnJcB7IXZDPEXpBLQPaCMEjGDOI4sBvBTgWzoE4GS4IJqDxhN-7oJMeNphDbwbQxIrhAToQFGyhMIRCkCBxcQHEIBKmBBGAtF5eunQIsCSgA2cpcXAA)]
+- [主旋律 TMD 檔案](ike_no_koi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4aePj5r7HTZsfN096v6fj2cYFT3asfbm-8-XaWe_3dCpoaXEp2ipYmnHZ2yq4c9kY6ZvYgYx7sXLe-z2znk1rf9m84vmcRrAVz2ZvwhB70b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWAJ0FClg9YMDqgQIWyDAwBDpOiUtfSwFo6_PZ616sWvVsRh-XgoIC0PVAJ7xYvvhlezfIOf39T9evBvrq2YYtQKnns1ogfnu2Y8fT7qnv9_Q82b30aX_X07Urn66d8GJ5A1AKqObFtsVPJ25-3NDEpaXPBbLFlloA5MSnffOfzd7xYnP7ixVdLzragZ4HBufT1hVAdwO9-nRD77P2ToUAkI-zCtKBTgQqfrmgUaFAT8EUyIMHzrM584FsBVOFl8umAUMD6FmQ4S9W7X_WsBxkbHfvi5nzgaKPmzuAgk929QBFgJ4EWuGu8HTJcqCYAjA6FYCiYN3AGOh53LTqcfOix03bHzevfdy0_nFD76OZK22BsQ8J2QYQ9bi5_XFzGyjBABNPQwMyFywNT1JAOXCqgojuBXPAos3zHje3gOxpBscYyLqmTSChpv1g6a7HTauBxkIsawNpAgo1rwYbCHRfx-PmTRB9QDcCLdv_uHkl1DKYE7BJgL2wq4cCLwBNBQYMxAtLwM5ch-SFZqDoGqgXgO4H-WgGxDKgwk0wvwFNXvu4eerjpjUQufmPm1Zg8wIuCcpTIBQogFK2Z3aqX753fqZVQGZiXr5DjUGNQjXIFgUbQzMtOzALW-JXgKTBFwt7FDRMFJ5u6H--vkEHnmI1sWgAWgYyrEbBWEEXCI0UDIGkaTyQwCoEYhoBMUTKBCgC4sGgAUgNOD5xu25XDzmuA9kLshliL8glIHtBGCRjBnEc2I1gp4JZUCeDJcEEVJ6wG3d0kuNGU4jtYNoYEVwgJ8KCDRSmEAhSBA4uoDgEgtRAArCWi0vXTgGWBBSAbGUuLgA)]
 - [鋼琴伴奏 TMD 檔案](ike_no_koi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctORx08bHzX2PmzY_bp70fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOOyt1Vw57Ix0jex46pTUHqxct77PbOeTWt_2bzi-ZxGJZDYs9mbMMRetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQJcZGRgZ6BkYmOkZWJiYAxkGhkDHKXFxeWan-uV752daBWQm5uUHeTjUGNQoVHMpAIGNoZmWHZilr6Vgiw4UIHa8WNijoGGi8HRD__P1DToKASBrsgrSNbFo0NIHG1ajYKygC4RGCoZA0jQeSGAVAjGNgBgiZQIUAfFg0ACkhgu_63b1kOM6kL0gmyH2glwCsheEQTJmEMeB3Qh2KpgFdTJYEkxA5Qm7cUcnOW40hdgOpkHuhLnaEB5qoCCFQJAacGgBxSEQpAYSfrXoCcAHJQGYQOMfaHy8QrRhLDrDJB7EMo2PBxpXg6TSFCxuAhSPNoQrgYrCDMBmMKoKiC6wASCH6topwNyqgMZW5uICAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ イケノコヒ ]
+📊 TMD Song Profile: [ イケノコヒ（池中鯉魚） ]
 ================================================================================
 ⏱  Duration:       0:15 (15.0s), 12 measures total
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <2/4>
@@ -131,6 +134,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![イケノコヒ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P020.jpg](P020.jpg)
+![イケノコヒ（池中鯉魚） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P020.jpg](P020.jpg)
 
 

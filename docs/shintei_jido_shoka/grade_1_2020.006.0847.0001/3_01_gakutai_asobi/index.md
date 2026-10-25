@@ -1,8 +1,8 @@
 ---
-title: "ガクタイアソビ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ガクタイアソビ"
-description: "〈ガクタイアソビ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：木村小舟、曲：納所辨次郎），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ヒヨウシヲ　ソロヘテ イザススメ、…"
-keywords: "ガクタイアソビ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 木村小舟, 納所辨次郎"
+title: "ガクタイアソビ（樂隊遊戲） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ガクタイアソビ（樂隊遊戲）"
+description: "〈ガクタイアソビ（樂隊遊戲）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：木村小舟、曲：納所辨次郎），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ヒヨウシヲ　ソロヘテ イザススメ、…"
+keywords: "ガクタイアソビ（樂隊遊戲）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 木村小舟, 納所辨次郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P040.jpg"
 audio: "gakutai_asobi.mp3"
 ---
 
-# ガクタイアソビ
+# ガクタイアソビ（樂隊遊戲）
 
 <audio controls src="gakutai_asobi.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "gakutai_asobi.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= D，拍號 <2/4>，速度 != 112
+曲目說明
+中文解釋：孩子模仿樂隊演奏，在遊戲中吹奏、行進與歡唱。
 
 ## 歌詞
 
@@ -51,7 +51,7 @@ audio: "gakutai_asobi.mp3"
 
 ```abc
 X:1
-T:ガクタイアソビ
+T:ガクタイアソビ（樂隊遊戲）
 C:曲：納所辨次郎
 M:2/4
 L:1/16
@@ -71,14 +71,14 @@ A3 A d2 d2 | c2 B2 A4 | F3 F E2 E2 | D6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gakutai_asobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8LhpzeOm9Y-b9j9uWvK4adHjpr2PmycraGlxKdoqGBoacdnbKrhw2Rjpm9iBDHqxct77PbOezVnxbO7Epxv6X3TMB5v_bPYmoPDzLb3POhte7FvxbM3Cl819YJkX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHmyo-Hp2h1Pd255PmXF-z0doLDVA4atHihsgQwDw_d7OpW4uPS1uIAquR43T3rcvOJx07LHTdsfN2963NAA9sjax80zHje3cYH9tu1x004Qal74uKERKITkb5ByqNcfN_cD5VY9bgbygUatBUs3AYUgAbT5cXMfWDlQRQdYbXPn42agaCdYDswGKW9e-bi55XHzREzlQKrtcXMjiASa2bwHpJzrya4eoBUQK7seN8-n2ANA5VsfN88DGUgPD2jpc3H5JmbmWQVkJublO9QY1ChUcyko2BiaadkB6RoFQwVdIDRUMAbTxkARUyCNjGsUzMByZmAahCFqYNAAJAIxKw5iWByaXhAG8UB21CgYAUkQBvFANMwN6KZB7DDFYRYI1sBdjWo6brPALgQTNQrmOE2DuRCby2q5uHTtFEBBqoBEK3MBAA)]
+- [主旋律 TMD 檔案](gakutai_asobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8LhpzeOm9Y-b9j9uWvK4adHjpr2Pmye_39PxbEXTy1ldLxu7nnVser-nU0FLi0vRVsHQ0IjL3lbBhcvGSN_EDmT0i5Xz3u-Z9WzOimdzJz7d0P-iYz7YxmezgbpmPd_S-6yz4cW-Fc_WLHzZ3AeWedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgAdCAptPWBo64FCG8gwMAQ6U4lLX0sBaPfz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6go56uXfl07YRnKxY-2b0f4stne6Y8Xdr_fk_P0zkrID4Gank6YSdQ8HFD44uFPS8bNr3oaH-2diHQYY8bmri09LmAFnEBXcT1uHnS4-YVj5uWPW7a_rh50-OGBnAQrn3cPONxcxsXOFS3PW7aCULNC4HGAYWQQhykHBroj5v7gXKrHjcD-UCj1oKlm4BCkKjZ_Li5D6wcqKIDrLa583EzULQTLAdmg5Q3r3zc3PK4eSKmciDV9ri5EUQCzWzeA1LO9WRXD9AKiJVdj5vnU-wBoPKtj5vngQykhwdAUeGbmJlnFZCZmJfvUGNQo1ANjHQbQzMtOyBdo2CooAuEhgrGYNoYKGIKpJFxjYIZWM4MTIMwRA0MGoBEIGbFQQyLQ9MLwiAeyI4aBSMgCcIgHoiGuQHdNIgdpjjMAsEauKtRTcdtFtiFYKJGwRynaTAXYnNZLReXrp0CKEgVkGhlLgA)]
 - [鋼琴伴奏 TMD 檔案](gakutai_asobi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOZx0_rHTfsfNy153LTocdPex82T3-_peNw8BcRt7nuyZ8vTpf1Pds94v6dTQUuLS9FWwdDQiMveVsGFy8ZI38SOq05B6cXKee_3zHo2Z8WzuROfbuh_0TFfCST8bPYmoPDzLb3POhte7FvxbM3Cl819YJkX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHmyo-Hp2h1Pd255PmUF0JlGBkYGegYGZnoGFibmQIaBIdCZSlxcvomZeVYBmYl5-UEeDjUGNQrVXAoKNoZmWnZAukbBUEEXCA0VjMG0MVDEFEgj4xoFM7CcGZgGYYgaGDQAiUDMioMYFoemF4RBPJAdNQpGQBKEQTwQDXMDumkQO0xxmAWCNXBXo5qO2yywC8FEjYI5TtNgLsTmslrkEPVBClELaIBGG8YCFUJIDJ4JmAcmYXIggyGOxKoWxjONB3MhFIl6UeUgRuDUCrUIVS82a4EhoWunAAoMBSRamQsA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ガクタイアソビ ]
+📊 TMD Song Profile: [ ガクタイアソビ（樂隊遊戲） ]
 ================================================================================
 ⏱  Duration:       0:34 (34.3s), 32 measures total
 🎼 Key & Tempo:    首調基準 D, != 112.0 BPM, <2/4>
@@ -132,6 +132,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ガクタイアソビ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P040.jpg](P040.jpg)
+![ガクタイアソビ（樂隊遊戲） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P040.jpg](P040.jpg)
 
 

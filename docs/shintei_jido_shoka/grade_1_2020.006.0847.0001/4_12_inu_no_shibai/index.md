@@ -1,8 +1,8 @@
 ---
-title: "イヌノシバヰ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "イヌノシバヰ"
-description: "〈イヌノシバヰ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：北原白秋、曲：成田爲三），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チヤツポンチヤツポンチヤツポンポン チチンガチリチリチヤツポンポン…"
-keywords: "イヌノシバヰ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
+title: "イヌノシバヰ（狗的戲劇） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "イヌノシバヰ（狗的戲劇）"
+description: "〈イヌノシバヰ（狗的戲劇）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：北原白秋、曲：成田爲三），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チヤツポンチヤツポンチヤツポンポン チチンガチリチリチヤツポンポン…"
+keywords: "イヌノシバヰ（狗的戲劇）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "G"
@@ -10,7 +10,7 @@ image: "P060.jpg"
 audio: "inu_no_shibai.mp3"
 ---
 
-# イヌノシバヰ
+# イヌノシバヰ（狗的戲劇）
 
 <audio controls src="inu_no_shibai.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "inu_no_shibai.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= G，拍號 <2/4>，速度 != 108
+曲目說明
+中文解釋：把狗擬人化，描寫牠們演戲般的滑稽動作。
 
 ## 歌詞
 
@@ -61,7 +61,7 @@ audio: "inu_no_shibai.mp3"
 
 ```abc
 X:1
-T:イヌノシバヰ
+T:イヌノシバヰ（狗的戲劇）
 C:曲：成田爲三
 M:2/4
 L:1/16
@@ -93,14 +93,14 @@ e2 e2 e2 e2 | d2 d2 B2 B2 | A2 A2 E2 D2 | G4 z2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](inu_no_shibai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4uedxc9_jpu2Pmyc8bt6goKXFpWirYGhgwWVvq-DOZWOkb2IHMuDFynnv98x62jP9ad_85zP3Pl_eDTb32exNQOFnHROeT9nwvGPTkx2dYOEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHmyo-Hp2h1Pd255PmXF-z0doADVAwaoHihAgQwDw_d7gDZw6WtxAVVyPW5ufNwM9ELL4-a5j5s3E-KCSIgeINr8uGkNmLEKicRU3QRUBw4kkOpJj5tXgETgjKb9YA1tj5vbgWyg2UCJ1sfNC0FBChIFatsAFpz9uGnZ46bVj5sXAK3i4nqyq4cujt_7uHkNjAQqAroI4lSgQ5pAXmjuAOkBuxxsQNOOx83zwOkBqHomGC0Cp41VYD0rHzdtAjp-Rye9Qh4YeEDnAJ2w73HzWigJcjBQNSLMZ4AchiBB_kEVAZFcXE9nz6aLs4FBtfVxMzC0FsESCTjkQKqBXKAGYJgDA3jf46b1XE97G5_smgIOeaB5QJcDPQnUDPTzPKA0WN0ysOOBquieYMDSoMgHppNu9ODEHexATwKtmvq4aSMoerT0ubh8EzPzrAIyE_PyHWoMahSquRSAwMbQTMsOzKpRMFTQBUPTeCijRsEMxkQSM4KyYMprEJIGUFwDNdEYyAZhkBYQhtgBwggRkDwIwozFYxzYNWACZgzENSCMKWIKtRzhYgzzQMYhYaDVSPoQekEYbC3YZYiAQphXy8Wla6cACmEFImhlLi4A)]
+- [主旋律 TMD 檔案](inu_no_shibai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4uedxc9_jpu2Pmyc8bt7wfk_H8-7pz2e1POvY9LSr_f2eTgUtLS5FWwVDAwsue1sFdy4bI30TO5CRL1bOe79n1tOe6U_75j-fuff58m6wTc9mbwIKP-uY8HzKhucdm57s6AQLv2jf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4CuAwWxHjCI9UBBDGQYGALdqMSlr6UAtPj57HUvVq16NqOPS0FB4cmOtc-mtb9YvvhlezfIRV1dQJ89m7zmya5dT3umvd_T86y__-n61c87FzxtmPhszxSgj190rAF5fffE5yv2Pu2e-mTvnMcNTVxa-lxA87mADuF63Nz4uBkYZi2Pm-c-bt5MiAsiIXqAaPPjpjVgxiokElN1E1AdOFZAqic9bl4BEoEzmvaDNbQ9bm4HsoFmAyVaHzcvBMUhSBSobQNYcPbjpmWPm1Y_bl4AtIqL68muHro4fu_j5jUwEqgI6CKIU4EOaQJ5obkDpAfscrABTTseN88DJ0Cg6plgtAicGFeB9ax83LQJ6PgdnfQKeWDgAZ0DdMK-x81roSTIwUDViDCfAXIYggT5B1UERHJxPZ09my7OBgbV1sfNwNBaBEsk4JADqQZygRqAYQ4M4H2Pm9ZzPe1tfLJrCjjkgeYBXQ70JFAz0M_zgNJgdcvAjgeqonuCAUuDIh-YTrrRgxN3sAM9CbRq6uOmjaDoAeVW38TMPKuAzMS8fIcagxqFalBxoGBjaKZlB2bVKBgq6IKhaTyUUaNgBmMiiRlBWTDlNQhJAyiugZpoDGSDMEgLCEPsAGGECEgeBGHG4jEO7BowATMG4hoQxhQxhVqOcDGGeSDjkDDQaiR9CL0gDLYW7DJEQCHMq-Xi0rVTAIWwAhG0MhcXAA)]
 - [鋼琴伴奏 TMD 檔案](inu_no_shibai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctORxc8_j5r7HTdsfN0943Lzh_Z6Ox81THjctAgo-2bPl6dL-J7tnvN_TqaClxaVoq2BoYMFlb6vgzmVjpG9ix1WnoPRi5bz3e2Y97Zn-tG_-85l7ny_vVgIJP5u9CSj8rGPC8ykbnndserKjEyz8on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esALrRyMDIQM_AwEzPwMLEHMgwMAS6UYmLyzcxM88qIDMxLz_Iw6HGoEahmksBCGwMzbTswKwaBUMFXTA0jYcyahTMYEwkMSMoC6a8BiFpAMU1UBONgWwQBmkBYYgdIIwQAcmDIMxYPMaBXQMmYMZAXAPCmCKmUMsRLsYwD2QcEgZajaQPoReEwdaCXYYIKIR5tcgB7IMSwBbw8I02jAUqhpBAnkk8CtcUGxfZtVDtEAmCXCz6ibEQn_0mYAVgEsMzUN2oroGHja6dAih4FIiglbm4AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ イヌノシバヰ ]
+📊 TMD Song Profile: [ イヌノシバヰ（狗的戲劇） ]
 ================================================================================
 ⏱  Duration:       1:28 (88.9s), 80 measures total
 🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <2/4>
@@ -157,8 +157,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![イヌノシバヰ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P060.jpg](P060.jpg)
+![イヌノシバヰ（狗的戲劇） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P060.jpg](P060.jpg)
 
-![イヌノシバヰ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P061.jpg](P061.jpg)
+![イヌノシバヰ（狗的戲劇） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P061.jpg](P061.jpg)
 
 

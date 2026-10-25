@@ -1,8 +1,8 @@
 ---
-title: "がん — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "がん"
-description: "〈がん〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれあれ　がんがとんでくる がんがん　かぎになれさをになれ…"
-keywords: "がん, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
+title: "がん（雁） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "がん（雁）"
+description: "〈がん（雁）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれあれ　がんがとんでくる がんがん　かぎになれさをになれ…"
+keywords: "がん（雁）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P066.jpg"
 audio: "gan.mp3"
 ---
 
-# がん
+# がん（雁）
 
 <audio controls src="gan.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "gan.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
-・調性與拍號：調號 ?= F，拍號 <4/4>，速度 != 112
+曲目說明
+中文解釋：描寫雁群飛過天空、成群遷徙的景象。
 
 ## 歌詞
 
@@ -47,7 +47,7 @@ audio: "gan.mp3"
 
 ```abc
 X:1
-T:がん
+T:がん（雁）
 C:曲：田村虎藏
 M:4/4
 L:1/16
@@ -65,14 +65,14 @@ C4 C4 F4 F4 | G4 G4 A4 F4 | c4 c4 A4 F4 | G4 G4 F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9HJpaSk8bux53DRZQUuLS9FWwdDQiMveVsGNy8ZE38QOpOtF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57s6nm6dsfTnVueT1nxfk8HKFz0gOGiBwoXIMPA6P2eTrC7Xqyc937PrOfzNz_tm_90Us-THZ0vm_vAMs9mbwLJTNnwbO7EFzP7XkzvBzpZX4vryY4GrseNTY-beqBkQwPEFyCycQWYsfxxY__jpm6gOpgEkASp637c2Pe4cfXjxlVg_VMfN02Cc4Gql4BUgCTmg4U6HzduAGvretzU9bhxGcjCxrmPG3diGgyU3ve4cQdYz_rHjSsfN0LcM_NxYy9QNVC6H2wR0GUtjxu3gmwAKgXpBKqY9bhxOlgcqgyoAciZ-Lhx3ePG3WA_AR3QAlbd9rhxP9ABcLMfN3VwcQFDG0-QwB2PPUhWgUwBkUARoOPRVSMHCdBja0EhBtQGdA7Q_qZGoP1gR60gGCRAG4D-RwQJ0Lydj5uAAQr0JFqQABlAg_aApYCmTAbaA9QANAOodd3jJmAQAZ0EtBoSJECl08AxC7QBFiRa-lxcvomZeVYBmYl5-Q41BjUK1VwKQGBjoWUHZtQomCroKhgDMYyuUTACkiBoCKUhIiA5EA0SRagBQQOQCF7TUPWaxUOZaEIgaApiIBsIlDEEKgRhZBNh2sFKwbbBbIQYiGwjfveZKpgBsTFYBGIaSNwEydU1cNswXAcWABMgJYiggTkWYgVMDiYD9S-CIMVIiAimj2FqED6u5eLStVMAxb8CkFbm4gIA)]
+- [主旋律 TMD 檔案](gan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9HJpaSk8bux53DT5_Z6Ol7Mb3-_pVNDS4lK0VTA0NOKyt1Vw47Ix0TexA2l_0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonu3qert3xdOeW51NWAK0BBZAeMID0QAEEZBgYAW1V4tLXUng2e9Pz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9u73e2Y96-9_un410JXP9y15uXj2y8a-p0tWPl-563FD47OOCSDBxu1P9818Pqvl2cz1LzYufNzQxKWlD3b6ynlA_c_nb37aN__ppJ4nOzpfNveBwwRoJUhmyoZncye-mNn3Yno_MFD0tbie7GjgetzY9LipB0o2NEDCCUQ2rgAzlj9u7H_c1A1UB5MAkiB13Y8b-x43rn7cuAqsf-rjpklwLlD1EpAKkMR8sFDn48YNYG1dj5u6HjcuA1nYOPdx405Mg4HS-x437gDrWf-4ceXjRoh7Zj5u7AWqBkr3gy0CuqzlceNWkA1ApSCdQBWzHjdOB4tDlQE1ADkTHzeue9y4G-wnoANawKrbHjfuBzoAbvbjpg4uLmA04gkSuOOxB8kqkCkgEigCdDy6auQgAXpsLSjEgNqAzgHa39QItB_sqBUEgwRoA9D_iCABmrfzcRMwQIGeRAsSIANo0B6wFNCUyUB7gBqAZgC1rnvcBAwioJOAVkOCBKh0GjhmgTbAggSYuLh8EzPzrAIyE_PyHWoMahSqQelWwcZCyw7MqFEwVdBVMAZiGF2jYAQkQdAQSkNEQHIgGiSKUAOCBiARvKah6jWLhzLRhEDQFMRANhAoYwhUCMLIJsK0g5WCbYPZCDEQ2Ub87jNVMANiY7AIxDSQuAmSq2vgtmG4DiwAJkBKEEEDcyzECpgcTAbqXwRBipEQEUwfw9QgfFzLxaVrpwCKfwUgrczFBQA)]
 - [鋼琴伴奏 TMD 檔案](gan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43NjzuGny-z0dT_Zsebq0_8nuGe_3dCpoaXEp2ioYGhpx2dsquHHZmOib2HHVKSi9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2TXT1P1-54unPL8ykrgJYZGRgZ6BkYmOkZWJiYAxkGRkBblcA2rJz3fs-s5_M3P-2b_3RSz5MdnS-b-8Ayz2ZvAslM2fBs7sQXM_teTO9X4uLyTczMswrITMzLD_JwqDGoUajmUgACGwstOzCjRsFUQVfBGIhhdI2CEZAEQUMoDREByYFokChCDQgagETwmoaq1yweykQTAkFTEAPZQKCMIVAhCCObCNMOVgq2DWYjxEBkG_G7z1TBDIiNwSIQ00DiJkiuroHbhuE6sACYAClBBA3MsRArYHIwGah_EQQpRkJEMH0MU4PwcS1y9PvgiH5DkE3RhrEgnQgmyBlgnmk8uTJQCtlrpNtlApExAcsYgdlGWGTAepBtwpTFaheEA4l14h1HjJfQxTHsQDEWiwxqkiA9LnBbZQbhmoG5EA4VLSMq7IApU9dOAZQ4FYC0MhcXAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ がん ]
+📊 TMD Song Profile: [ がん（雁） ]
 ================================================================================
 ⏱  Duration:       0:51 (51.4s), 24 measures total
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <4/4>
@@ -125,8 +125,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![がん — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P066.jpg](P066.jpg)
+![がん（雁） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P066.jpg](P066.jpg)
 
-![がん — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P067.jpg](P067.jpg)
+![がん（雁） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P067.jpg](P067.jpg)
 
 

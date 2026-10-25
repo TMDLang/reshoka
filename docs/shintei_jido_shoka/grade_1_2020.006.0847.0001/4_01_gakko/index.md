@@ -1,8 +1,8 @@
 ---
-title: "ガクカウ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ガクカウ"
-description: "〈ガクカウ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原平三郎、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワタシノ　ガクカウ ヨイ　ガクカウヨ…"
-keywords: "ガクカウ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原平三郎, 田村虎藏"
+title: "ガクカウ（學校） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ガクカウ（學校）"
+description: "〈ガクカウ（學校）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原平三郎、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワタシノ　ガクカウ ヨイ　ガクカウヨ…"
+keywords: "ガクカウ（學校）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原平三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P048.jpg"
 audio: "gakko.mp3"
 ---
 
-# ガクカウ
+# ガクカウ（學校）
 
 <audio controls src="gakko.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "gakko.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 80
+曲目說明
+中文解釋：描寫孩子上學、學習與和同學一起生活的情景。
 
 ## 歌詞
 
@@ -51,7 +51,7 @@ audio: "gakko.mp3"
 
 ```abc
 X:1
-T:ガクカウ
+T:ガクカウ（學校）
 C:曲：田村虎藏
 M:2/4
 L:1/16
@@ -71,14 +71,14 @@ c2 c2 A2 c2 | d2 d2 c2 A2 | G2 G2 G2 A2 | G2 G2 F2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gakko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8LhpzeOm9Y-bVj9uWqagpcWlaKtgYcBlb6vgxmVjpG9iB9L-YuW893tmPZ-_-Wnf_Kc7Nz_Z0fmyuQ9s8LPZm0AyUzY8mzvxxcy-F9P7wcIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMqK93s6QCGqBwxRPVCIAhkGhu_3dCpxcelrcQFVcj1uBjp8_-Om7Y-b-x43NCB7BSi34nHTEjRRoCDX46a1YLllj5t2QBlARc2THjevBWoA6ut-3NyPKgTSu_Fxc-vjZoiBWx43z37cvBnIBcotgagCkSBNXUATFoLVrgQ5DCSxCOg8oEKgQ4HO2ArSCDIEKNryuLmNi-vJrh4MnzR3gLUBGY1IPkESBfukeR7YfKCDGyF2g1wKUr0eaN0mkEVAv4IkIELNQC8D0TqoN4DKgVqbVmP1Q9MqkFUg94AlQA4G-rcDorYFLLECbDOYC_SGlj4Xl29iZp5VQGZiXr5DjUGNQjWXAhDYGJpp2YFZNQqGCrpgbATFNQrGQBKEESKmSCIgtTVgFkzEACQCNQ2kEoZB8jUKZkAShGGi2MwHmQmDyKYh6wXRQJVxWJ0C4yE8gM04ZIdBnIJsAcS5MNNgHkQ1H2JaLReXrp0CKGQVkGhlLi4A)]
+- [主旋律 TMD 檔案](gakko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8LhpzeOm9Y-bVj9uWvZ-T8fTtTueLVj4fk-ngpYWl6KtgoUBl72tghuXjZG-iR3IqBcr573fM-v5_M1P--Y_3bn5yY7Ol819YEuezd4Ekpmy4dnciS9m9r2Y3g8WftG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsagK55unPL8ykrgC4Dha4eMHT1QKELZBgYAl2pxKWvpQC0-PnsdS9WrXo2o49LQUHhyY61z6a1v1i--GV7N9BFz_r7n65f_XTtyqdrJzzZ0QU083FDI5B8vn_Si472p5N6nk7oAXKB1r3Yuv35lPnPtux-PqvlWXPrs5nrHzc0cWnpcwFt4QLKcz1uBobU_sdN2x839z1uaEAOO6DcisdNS9BEgYJcj5vWguWWPW7aAWUAFTVPety8FqgBqK_7cXM_qhBI78bHza2PmyEGbnncPPtx82YgFyi3BKIKRII0dQFNWAhWuxLkMJDEIqDzgAqBDgU6YytII8gQoGjL4-Y2Lq4nu3owfNLcAdYGZDQi-QRJFOyT5nlg84EOboTYDXIpSPV6oHWbQBYB_QqSgAg1A70MROug3gAqB2ptWo3VD02rQFaB3AOWADkY6N8OiNoWsMQKsM1gLtAboGjxTczMswrITMzLd6gxqFGoBsW-go2hmZYdmFWjYKigC8ZGUFyjYAwkQRghYookAlJbA2bBRAxAIlDTQCphGCRfo2AGJEEYJorNfJCZMIhsGrJeEA1UGYfVKTAewgPYjEN2GMQpyBZAnAszDeZBVPMhptVycenaKYBCVgGJVubiAgA)]
 - [鋼琴伴奏 TMD 檔案](gakko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOZx0_rHTasfNy17v6fjcfOUx02LHjf3Pdmz5enS_ie7Z7zf06mgpcWlaKtgYcBlb6vgxmVjpG9ix1WnoPRi5bz3e2Y9n7_5ad_8pzs3P9nR-bK5Twkk82z2JpDMlA3P5k58MbPvxfR-sPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6EojAyMDPQMDMz0DCxNzIMPAEOhKJS4u38TMPKuAzMS8_CAPhxqDGoVqLgUgsDE007IDs2oUDBV0wdgIimsUjIEkCCNETJFEQGprwCyYiAFIBGoaSCUMg-RrFMyAJAjDRLGZDzITBpFNQ9YLooEq47A6BcZDeACbccgOgzgF2QKIc2GmwTyIaj7EtFrkgPVBCVgLeLhGG8YCFUebxoMoglwIA0wZwN0LVQQmgTwTFB4280AOhGuGKAeTeO3DoR2f3ei6oXygNMgAYPDo2imAQkgBiVbm4gIA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ガクカウ ]
+📊 TMD Song Profile: [ ガクカウ（學校） ]
 ================================================================================
 ⏱  Duration:       0:48 (48.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <2/4>
@@ -132,6 +132,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ガクカウ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P048.jpg](P048.jpg)
+![ガクカウ（學校） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P048.jpg](P048.jpg)
 
 

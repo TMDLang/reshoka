@@ -1,8 +1,8 @@
 ---
-title: "トキ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "トキ"
-description: "〈トキ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：永井幸次），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オヒサンオヒサン　イマナンジ カゲガ一シヤク　イマ一ジ…"
-keywords: "トキ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 永井幸次"
+title: "トキ（朱鷺） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "トキ（朱鷺）"
+description: "〈トキ（朱鷺）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：永井幸次），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オヒサンオヒサン　イマナンジ カゲガ一シヤク　イマ一ジ…"
+keywords: "トキ（朱鷺）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 永井幸次"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "G"
@@ -10,7 +10,7 @@ image: "P073.jpg"
 audio: "toki.mp3"
 ---
 
-# トキ
+# トキ（朱鷺）
 
 <audio controls src="toki.mp3"></audio>
 
@@ -19,8 +19,8 @@ audio: "toki.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= G，拍號 <2/4>，速度 != 104
+曲目說明
+中文解釋：歌唱朱鷺飛翔的姿態與優美形象。
 
 ## 歌詞
 
@@ -54,7 +54,7 @@ audio: "toki.mp3"
 
 ```abc
 X:1
-T:トキ
+T:トキ（朱鷺）
 C:曲：永井幸次
 M:2/4
 L:1/16
@@ -82,14 +82,14 @@ E2 G2 E4 | D2 D2 G2 B2 | A2 A2 B2 A2 | G6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](toki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu7njctFZBS4tL0VbB0MCEy95WwZ3LxkjfxA6k6dnsTe_3zHq2YceTXVOf7tzxbM1CsFkv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMqK93s6QKGlBwwtPVBoARkGhu_3dCpxcelrcQFVcj1uWvW4edLjpq2PmzejsBsaHjctedw873FzF1hqB1Dp6sdNmx43gWx43LT9cfOSx03r4erAgjtAZgKpx83dYH0tj5v2P25eCVIE4nYDNYMZq7nAJjc-bu573AQ0fNnj5gkgNkjd1MdNKxDquJ7s6iHTkZ1gh6A5EiQIdCREjqAjmxY9bl4IMgPkzv0gM0CuXQNT2vK4uQ1kPNidOzrJcufT1rWYgQkW3MEFoYgJTIjhQEcCLW0DKYIEJtCS5l6kwHw6ezbYZohg0xawY8AkxGaQX4CegnoeqG7l46adYP3AgAAaPQNm6AygCrCV7UB1mx83d4JUgIwExiQwVrGrA9vb3A91bdMukB-QQ7J5A8heLX0uLt_EzDyrgMzEvHyHGoMahWouBSCwMTTTsgOzahRM4xV0kQgQrFEwBJIwDBExApIgbAzFEBEYNACJQA2EqUCoNAUZjoQhakyg8iBzIDZiMw3ZTpAaVJdARMxADgcTID6YAfUXNhNRFUJ8h_A_SALhP5g9uNxYy8Wla6cACmMFPLQyFxcA)]
+- [主旋律 TMD 檔案](toki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu7njctPb9no5ncza-3L7r_Z5OBS0tLkVbBUMDEy57WwV3LhsjfRM7kAHPZm96v2fWsw07nuya-nTnjmdrFoLNfdG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgAdAAo5PWDI6YFCDsgwMAQ6RolLX0sBaPHz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6Qi9b2gMwHu__l4tnP9095Pqvl6fL9z1q7X3S0P21Z9Xxf39O9i15sXPi4oYlLS58LaCYX0HKux02rHjdPety09XHzZhR2Q8PjpiWPm-c9bu4CS-0AKl39uGnT4yaQox83bX_cvORx03q4OrDgDpCZQOpxczdYX8vjpv2Pm1eCFIG43UDNYMZqLrDJjY-b-x43AQ1f9rh5AogNUjf1cdMKhDquJ7t6yHRkJ9ghaI4ECQIdCZEj6MimRY-bF4LMALlzP8gMkGvXwJS2PG5uAxkPdueOTrLc-bR1LWZgggV3cEEoYgITYjjQkUBL20CKIIEJtKS5Fykwn86eDbYZIti0BewYMAmxGeQXoKegngeqW_m4aSdYPzAggEbPgBk6A6gCbGU7UN3mx82dIBUgI4ExCYxV7OrA9jb3Q13btAvkB-SQbN4AsheUOH0TM_OsAjIT8_IdagxqFKpBKV7BxtBMyw7MqlEwjVfQRSJAsEbBEEjCMETECEiCsDEUQ0Rg0AAkAjUQpgKh0hRkOBKGqDGByoPMgdiIzTRkO0FqUF0CETEDORxMgPhgBtRf2ExEVQjxHcL_IAmE_2D24HJjLReXrp0CKIwV8NDKXFwA)]
 - [鋼琴伴奏 TMD 檔案](toki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PG4ae37PR2Pm6c8blr0uLnvyZ4tT5f2P9k94_2eTgUtLS5FWwVDAxMue1sFdy4bI30TO646BaVnsze93zPr2YYdT3ZNfbpzx7M1C5VAwi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8ygqgY4wMjAz0DAzM9AwsTMyBDANDoGOUuLh8EzPzrAIyE_PygzwcagxqFKq5FIDAxtBMyw7MqlEwjVfQRSJAsEbBEEjCMETECEiCsDEUQ0Rg0AAkAjUQpgKh0hRkOBKGqDGByoPMgdiIzTRkO0FqUF0CETEDORxMgPhgBtRf2ExEVQjxHcL_IAmE_2D24HJjLXIQ-6AEsQU8hKNN42OBqqEUkG8I5oJJhCwqF2QBzMFo6rHxUI1G0YzVeDjXBMKFUFj1Y1WBbhw2-4Fho2unAAoeBTy0MhcXAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ トキ ]
+📊 TMD Song Profile: [ トキ（朱鷺） ]
 ================================================================================
 ⏱  Duration:       1:13 (73.8s), 64 measures total
 🎼 Key & Tempo:    首調基準 G, != 104.0 BPM, <2/4>
@@ -145,6 +145,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![トキ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P073.jpg](P073.jpg)
+![トキ（朱鷺） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P073.jpg](P073.jpg)
 
 

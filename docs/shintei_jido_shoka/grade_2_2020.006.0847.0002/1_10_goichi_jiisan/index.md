@@ -1,8 +1,8 @@
 ---
-title: "五一ヂイサン — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "五一ヂイサン"
-description: "〈五一ヂイサン〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：松岸寬一、曲：永井幸次），調號拍號：A, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ザブ／＼オチル　水（ミヅ）ノヲト トン／＼ヒビク　キネノオト…"
-keywords: "五一ヂイサン, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 松岸寬一, 永井幸次"
+title: "五一ヂイサン（五一老爺爺） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "五一ヂイサン（五一老爺爺）"
+description: "〈五一ヂイサン（五一老爺爺）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：松岸寬一、曲：永井幸次），調號拍號：A, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ザブ／＼オチル　水（ミヅ）ノヲト トン／＼ヒビク　キネノオト…"
+keywords: "五一ヂイサン（五一老爺爺）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 松岸寬一, 永井幸次"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "A,"
@@ -10,7 +10,7 @@ image: "P028.jpg"
 audio: "goichi_jiisan.mp3"
 ---
 
-# 五一ヂイサン
+# 五一ヂイサン（五一老爺爺）
 
 <audio controls src="goichi_jiisan.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "goichi_jiisan.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫一位老爺爺的生活與親切形象。
 
 原書資訊與歌詞全文（對應 P028.jpg – P029.jpg，書頁 pp. 13–14，第一學期第 10 首）：
 調性與拍號：變イ調四拍子（降 A 大調 4/4 拍），「ゲンキニ（♩＝126）」
@@ -49,7 +52,7 @@ audio: "goichi_jiisan.mp3"
 
 ```abc
 X:1
-T:五一ヂイサン
+T:五一ヂイサン（五一老爺爺）
 C:曲：永井幸次
 M:4/4
 L:1/16
@@ -67,14 +70,14 @@ A4 c4 B4 A4 | F4 z4 A8 | E4 A4 B4 c4 | A12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](goichi_jiisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPNk15cmOhsfNTY-bljxu2vq4ebOClhaXoq2CoZEZl72tgqMOl42JvokdyIQXK-e93zPr2dx9TzfteLp-DVAf2OBnszeBhDfseLJr6tOdO56tWQgWftG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJ7t6nq7d8XTnludTVrzf0wEKUT1giOqBQhTIMDB6v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu4D-fdq64tm0dqArnm7ofdbeqRBgYGShl1WQrvCoYTKIYwnivN_TA9T5ckGjQkGBnoKhMVDO0AQoCPLLjgagX57NmQ9kKxgaKLxcNg3oemBwgWx8sWr_s4blILu6e1_MnA8UfbGuCxgPQPGns2cDBZ-unQC0-uXMXgVHhadLlgPFFYBxoQCUARsCDLiex02bgHH2uGnt4-ZuoNpHM1e-3zMXGHdABY8berlA1gDdAKIeN2173Ay0vf_9nj2Pm1Y9bm583Lz6cUPDsw1bgBofN89_3NwK0tXc97gZaGYHWE8zUGIzVE_zpMfNkx83rQfqAdvXC1IKMgisFBhfYGOAokANnY-b1gBFnuxYCxcEp7FlYHcB0xswse183DzvcTPIw2BXghPii91dIA1NG0BuawYmN6B7-rFogOjoIdFfcMeS4K_HTYtA-aIJ6JyVj5sngD0CdEU72FH9j5v2g8SBeae5DeEL5OyEy_E7OkHUs7kTwY5cADQFFvj9QAc_bl4DYoN9AQ0TsEdQQwboTKBrgHZ3g82avhSsbhIk-IGWAZ0CFQQ5EBgu3UASGgNNy8BunwoyomkF2Keg1LT9cdMWcOgAXQp0PtCUFbBwWQUL4-1gO4E2QwNo9eOmjSDDQGgnWCnI5WAGUD_IteDw6gWppjyvQoGClj4Xl3t-ZnJGpldmZnFinlVAZmJevkONQY1CNcgmBRsLLTswA1tJoQDJnC8W9ihomCg83dD_fH2DDjx7a2LRALQPatjLWX1PJ_RaAVNRJ0gEGAJ7Eezm-Qo1QHINmA0mgbIQABJfCRbvBLMgMiAdYDm4OgRA2KkBdKwm0MqmbVBrpqGwQdpXgdmNYHI1kpUg44FJB4j3AHEf2EkgtSC5DrxW7uqhp5U1CoYKukBoGg9lGAOFjIA0CAMFQUK6QCEzENMQRIEFjUFEDUIBCBqAhMD5DHfk7-oZFJEPUgWSg5iAJViQIh8adqBKGpkN0j4JzJ4MtnI9wsqmtWDxXrIjn15Wkhn5IFmYVuKjfkcnhVEPijRI5MHYiHQPkYFFJyzaQWLASAeLQ0SIzfHAkIRoB8ZAE7JloEoVKtX0uHkpsESHSiyBiDbtBLLngeW7oPZBZHDZB83ui6Dat4KLdqjrQeaCKj-ohaASHS7eD9WwH5bEwfaAZNpw2QeJW1D8QWhQLBpDWbDYhEa2LogCiYF5pGd0YFOKChkd5jNIpgWJIMo5SHbHjFmYGEQeWsoTk9GBrQh4MEKL16YNUO2gYhaUs8CxACZBwQ-LdlCkI2RIiHYsVjY3IWmHWglMFJCkSLaVkNwKjktwTIJ4kLgHpQT0eAbxQeIgedLz-a4pOGIe1jjvfLZuK5GpAKmuJpQKIOkAEtfw4h6a-8EYXGWAqwpoCYAwHcRCSQ-d4DJgAdRQEAkuUeGx3opkOSiKICogzgJXwcCUA0o1oAgCyQDbe-CIA6nohqoHl-TAsgUUfZiWN20HS28BKwUV4IhYhqQGVMtXQCsBYIMRSoOqASAbRIPajouB6QdRFwDLGDC5EVyAwBMJomrHkUrA6QSUJMCVAbiIMASpBeqBlxEGcGOANKFionUt9RILNOOjJwxEZYBIKhQWF5AYQs61oEiFxAZIO0gMEsyg2gFm3X6wmqlgcVBehqtvWkGMdWDtkGwPre1h1oHSJsQ6kDjUOqiPICUXpJiAqYdUIlisg2R25AiHVgegfI-oIYgqJGq5uHTtFJD7CgpAvjIXFwA)]
+- [主旋律 TMD 檔案](goichi_jiisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPNk15cmOhsfNTY-bljxu2vq4efP7PR0QwRcNjc87dgHR-z2dClpaXIq2CoZGZlz2tgqOOlw2JvomdiBjX6yc937PrGdz9z3dtOPp-jVAfWDbns3eBBLesOPJrqlPd-54tmYhWPhF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57s6nm6dsfTnVueT1kBdCEomPWAwawHCmYgw8AI6EglLn0tBaDFz2eve7Fq1bMZfVwKCgpPdqx9Nq39xfLFL9u7QS7q73-6fjXQlU_29sI9-HxWy_Mp859t2f2io_3FslVPO9qf7l30YuPCxw1NXFr6XCBjbakFQG562jf_2ewdLza3v1jRBbQS6FtgKD5tXQF0KNBvTzf0PmvvVAgwMLLQyypIV3jUMBnEsQRx3u_pAep8uaBRoaBAT8HQGChnaAIUBIXQjgZgCD2bMx_IVjA0UHi5bBowTIBeBtn4YtX-Zw3LQXZ1976YOR8o-mJdFzDKgeJPZ88GCj5dOwFo9cuZvQqOCk-XLAeKKwBjWAEoAzYEGB09j5s2AZPH46a1j5uBIdnxaObK93vmAlMEUMHjhl4uSGA3gKjHTdseNwNt73-_Z8_jplWPmxsfN69-3NDwbMMWoMbHzfMfN7eCdDX3PW4GmtkB1tMMlAAmPrCe5kmPmyc_bloP1AO2rxekFGQQWCkwFYCNAYoCNXQ-bloDFAHGM1wQnJyXgd0FTNrAdL3zcfO8x80gD4NdCUneu7tAGpo2gNzWDEzEQPf0Y9EA0dFDor_gjiXBX4-bFoGyYBPQOSsfN08AewToinawo_ofN-0HiQOzaXMbwhfIOReX43d0gqhncyeCHbkAaAos8PuBDn7cvAbEBvsCGiZgj6CGDNCZQNcA7e4GmzV9KVjdJEjwAy0DOgUqCHIgMFy6gSQ0BpqWgd0-FWRE0wqwT0Gpafvjpi3g0AG6FOh8oCkrYOGyChbG28F2Am2GBtDqx00bQYaB0E6wUpDLwQygfpBrweHVC1JNeV6FAgVQGeCen5mckemVmVmcmGcVkJmYl-9QY1CjUA2yScHGQssOzMBWUihAMueLhT0KGiYKTzf0P1_foAPP3ppYNADtgxr2clbf0wm9VsBU1AkSAYbAXgS7eb5CDZBcA2aDSaAsBIDEV4LFO8EsiAxIB1gOrg4BEHZqAB2rCbSyaRvUmmkobJD2VWB2I5hcjWQlyHhg0gHiPUDcB3YSSC1IrgOvlbt66GlljYKhgi4QmsZDGcZAISMgDcJAQZCQLlDIDMQ0BFFgQWMQUYNQAIIGICFwPsMd-bt6BkXkg1SB5CAmYAkWpMiHhh0w76GwQdongdmTwVauR1jZtBYs3kt25NPLSjIjHyQL00p81O_opDDqQZEGiTwYG5HuITKw6IRFO0gMGOlgcYgIsTkeGJIQ7cAYaEK2DFSpQqWaHjcvBZboUIklENGmnUD2PLB8F9Q-iAwu-6DZfRFU-1Zw0Q51PchcUOUHtRBUosPF-6Ea9sOSONgekEwbLvsgcQuKPwgNikVjKAsWm9DI1gVRIDEwj_SMDmxKUSGjw3wGybQgEUQ5B8numDELE4PIQ0t5YjI6sBUBD0Zo8dq0AaodVMyCchY4FsAkKPhh0Q6KdIQMCdGOxcrmJiTtUCuBiQKSFMm2EpJbwXEJjkkQDxL3oJSAHs8gPkgcJE96Pt81BUfMwxrnnc_WbSUyFSDV1YRSASQdQOIaXtxDcz8Yg6sMcFUBLQEQpoNYKOmhE1wGLIAaCiLBJSo81luRLAdFEUQFxFngKhiYckCpBhRBIBlgew8ccSAV3VD14JIcWLaAog_T8qbtYOktYKWgAhwRy5DUgGr5CmglAGwwQmlQNQBkg2hQ23ExMP0g6gJgGQMmN4ILEHgiQVTtOFIJOJ2AkgS4MgAXEYYgtUA98DLCAG4MkCZUTLSupV5igWZ89ISBqAwQSYXC4gISQ8i5FhSpkNgAaQeJQYIZVDvArNsPVjMVLA7Ky3D1TSuIsQ6sHZLtobU9zDpQ2oRYBxKHWgf1EaTkghQTMPWQSgSLdZDMjhzh0OoAlO8RNQRRhUQtF5eunQJyX0EByFfm4gIA)]
 - [鋼琴伴奏 TMD 檔案](goichi_jiisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniya8qTHQ2Pm5seNy153LT1cfPm93s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoZEZl72tgqMOl42JvokdV52C0ouV897vmfVs7r6nm3Y8Xb8GaJgSSPjZ7E0g4Q07nuya-nTnjmdrFoKFX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7Pmya6ep2t3PN255fmUFUAXGhkYGegZGJjpGViYmAMZBkZARypxcbnnZyZnZHplZhYn5lkFZCbm5Qd5ONQY1ChUcykAgY2Flh2Yoa-lYIsOFEDW7Gh4sbBHQcNE4emG_ufrG3QUAgyMLPSyCtI1sWjQ0gcbVqNgqKALhKbxUIYxUMgISIMwUBAkpAsUMgMxDUEUWNAYRNQgFICgAUiIC78Td_XQzYkgWZhW4h24o5McB4LsAtkIoUH2GkNZMPuhztMFUSAxMI_0AHw6eza5AQi2EWwfiAdxIci96K4B8UHiIHnSw2_XFBzue7-nBxK-z9ZtxetWRPrC4Viwc0EuA8c1ODwNQWqBeuABagA3BkgTCtPWtZS6GeQsZCdCYxsUYIgEQFTo1mIrB3xQygETRDnwbMOWF7u7XnQ0Pd-4GehyYJH3dPuyZ53dkOIPyX3xCtGGsTAK5BQgyzQ-FsGoUTABskxwqTEAOo1ko5BEELoQJmHTiW461CQoRbSjoAzs2vA4iZA52MLIAM5FNQRsFcwTCEVEuAWYBnTtFJCTgQKQr8zFBQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 五一ヂイサン ]
+📊 TMD Song Profile: [ 五一ヂイサン（五一老爺爺） ]
 ================================================================================
 ⏱  Duration:       0:45 (45.7s), 24 measures total
 🎼 Key & Tempo:    首調基準 A,, != 126.0 BPM, <4/4>
@@ -127,8 +130,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![五一ヂイサン — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P028.jpg](P028.jpg)
+![五一ヂイサン（五一老爺爺） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P028.jpg](P028.jpg)
 
-![五一ヂイサン — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P029.jpg](P029.jpg)
+![五一ヂイサン（五一老爺爺） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P029.jpg](P029.jpg)
 
 

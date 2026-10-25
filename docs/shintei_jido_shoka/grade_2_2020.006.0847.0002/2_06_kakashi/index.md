@@ -1,8 +1,8 @@
 ---
-title: "かかし — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "かかし"
-description: "〈かかし〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山田のなかの　一ぽんあしの　かかし てんきがよいのに　みの笠着けて…"
-keywords: "かかし, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "かかし（稻草人） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "かかし（稻草人）"
+description: "〈かかし（稻草人）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山田のなかの　一ぽんあしの　かかし てんきがよいのに　みの笠着けて…"
+keywords: "かかし（稻草人）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P035.jpg"
 audio: "kakashi.mp3"
 ---
 
-# かかし
+# かかし（稻草人）
 
 <audio controls src="kakashi.mp3"></audio>
 
@@ -18,6 +18,9 @@ audio: "kakashi.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫稻草人站在田裡守護農作物。
 
 原書資訊與歌詞全文（對應 P035.jpg，書頁 p. 20，第二學期第 6 首）：
 調性與拍號：ヘ調四拍子（F 大調 4/4 拍），「ゲンキヨク（♩＝112）」
@@ -44,7 +47,7 @@ audio: "kakashi.mp3"
 
 ```abc
 X:1
-T:かかし
+T:かかし（稻草人）
 M:4/4
 L:1/16
 Q:1/4=112
@@ -59,14 +62,14 @@ c4 d4 c4 c4 | c6 A2 F4 F4 | G3 G A2 B2 c4 C4 | F12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kakashi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5bnFwGt1dJSeNzYDUbTFbS0uBRtFQwNjbjsbRXcuGxM9E3sQLqeTWt_2bzi-ZxGsBkv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkV8_TtTue7tzyfMqK93s6QKGkBwwlPVAoARkGRu_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTXi5XznrauAPoK6IqnG3qftXcqBBgYm-plFaS_39MDVPxyQaNCgZ6CkQGQC3f4sznzgWwFM4WXy6YBXfp-zyyQ6S9W7X_WsBxkbnfvi5nzgaKPm2cABZ_Ong0Uebp2AtAON4WnS5YDxRSAAaoAFAXrBoZOz-OmTY-bNz9uWvu4ecXjpvVApY9mrny_Zy4wCoBqHjf0coGseLKjAeyPjRufT9nwuHHd48ZV4Ahb97ihASj3uHHv46bJjxubgFEIEYTHKEjb48ZlYOnex41A-zoeN7aAjVgNVrcfyH6-ZsHzuUD2RKBKiAagSVNBBjR1Pm7cANa873HjcrCG-Y8bF4DJhY8bVz5u3A23BKynqQfsNqAN3WDV68Hc2XBBcr0BDoVdPZSEQlMbyLdNQFcsf9w0Cex4oLplQHUg45omvegFCs4EG7oCoqHjcRPYAFAoQEKEcCisfdwElO6H-RweEEDNm8EWAqUoDAugNsrzBRQoaOlzcXknZicCCzergMzEvHyHGoMahWqQJQo2hmZadmBWjYKhgi4cGgGxMZQNo2vAojAIUg3jw1VATTIF80yB2QhEIuQh4iCTYHahm2CAZhIV3RSPphDTUehaYZajOwrkLRiEeRG793A6Gy2gQDSySdi9hwzR3QTTCXMbpptgLJj5MDfCaJhJEBuNwGpMkE2CBSCq97A7qpaLS9dOAZrqFIBMZS4uAA)]
+- [主旋律 TMD 檔案](kakashi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5bnFwGt1dJSeNzYDUbT3-_peL5i94vezie7dr3f06mgpcWlaKtgaGjEZW-r4MZlY6JvYgcy5Nm09pfNK57PaQQb-aJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-nrABaDQo0PWCg6YECDcgwMAK6QYlLX0vh2exNz2eve7Fq1bMZfVwKCgpPdqwFOuHF8sUv27vf75n1rL__6frVcJc_Xz3z6ZwVz6dseLF44dN1HS_Wbn-xb9OTvXOed6583NDEpaXPBTLTlloA5KCnffOfzd7xYnP7ixVdLzragV59sXLe09YVQFcCPfZ0Q--z9k6FAANjU72sgvT3e3qAil8uaFQo0FMwMgBy4WHxbM58IFvBTOHlsmlAzwP9BjL9xar9zxqWg8zt7n0xcz5Q9HHzDKDg09mzgSJP104A2uGm8HTJcqCYAjCOFICiYN3AAO953LTpcfPmx01rHzeveNy0Hqj00cyV7_fMBcYqUM3jhl4uSIg2gP2xcSMw3B43rnvcuAqcJNY9bmgAyj1u3Pu4afLjxiZgIoEIwtMMSNvjxmVg6d7HjUD7Oh43toCNWA1Wtx_Ifr5mwfO5QPZEoEqIBqBJU0EGNHU-btwA1rzvceNysIb5jxsXgMmFjxtXPm7cDbcErKepB-w2oA3dYNXrwdzZcEFyvQEOhV09lIRCUxvIt01AVyx_3DQJ7HigumVAdSDjmia96AUKzgQbugKioeNxE9gAUChAQoRwKKx93ASU7of5HB4QQM2bwRYCpSgMC6A2yvMFFCiA8pt3YnYisPi0CshMzMt3qDGoUagGWaJgY2imZQdm1SgYKujCoREQG0PZMLoGLAqDINUwPlwF1CRTMM8UmI1AJEIeIg4yCWYXugkGaCZR0U3xaAoxHYWuFWY5uqNA3oJBmBexew-ns9ECCkQjm4Tde8gQ3U0wnTC3YboJxoKZD3MjjIaZBLHRCKzGBNkkWACieg-7o2q5uHTtFKCpTgHIVObiAgA)]
 - [鋼琴伴奏 TMD 檔案](kakashi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2A1G09_v6XjZvef5hC1P9mx5urT_eWfH-z2dClpaXIq2CoaGRlz2tgpuXDYm-iZ2XHUKSs-mtb9sXvF8TqMSiPeifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU929Txdu-Ppzi3Pp6wAOsDIwMhAz8DATM_AwsQcyDAwArpBiYvLOzE7sTgj0yogMzEvP8jDocagRqGaSwEIbAzNtOzArBoFQwVdODQCYmMoG0bXgEVhEKQaxoergJpkCuaZKpiBSYQ8RBxkEswudBMM0Eyiopvi0RRiOgpdK8xydEeBvAWDMC9i9x5OZ6MFFIhGNgm795AhuptgOmFuw3QTjAUzH-ZGGA0zCWKjEViNCbJJsABE9R52R9WiJToflERngkhz8QrRhrEwChRLQJZpPEIEhzogA6wUyDHAqYhYw-DqUI0zAYqaoNqJrI2gYSACxXFAAwkYBtcMZ9SA5SGBCw5WXTsFaMgqAJnKXFwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ かかし ]
+📊 TMD Song Profile: [ かかし（稻草人） ]
 ================================================================================
 ⏱  Duration:       0:34 (34.3s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <4/4>
@@ -119,6 +122,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![かかし — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P035.jpg](P035.jpg)
+![かかし（稻草人） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P035.jpg](P035.jpg)
 
 

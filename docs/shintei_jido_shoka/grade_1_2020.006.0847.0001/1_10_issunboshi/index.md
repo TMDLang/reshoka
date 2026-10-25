@@ -1,8 +1,8 @@
 ---
-title: "一スンボウシ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "一スンボウシ"
-description: "〈一スンボウシ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：巖谷小波、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ユビニタリナイ一スンボウシ チヒサイカラダニオホキナノゾミ…"
-keywords: "一スンボウシ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 巖谷小波, 田村虎藏"
+title: "一スンボウシ（一寸法師） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "一スンボウシ（一寸法師）"
+description: "〈一スンボウシ（一寸法師）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：巖谷小波、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ユビニタリナイ一スンボウシ チヒサイカラダニオホキナノゾミ…"
+keywords: "一スンボウシ（一寸法師）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 巖谷小波, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P026.jpg"
 audio: "issunboshi.mp3"
 ---
 
-# 一スンボウシ
+# 一スンボウシ（一寸法師）
 
 <audio controls src="issunboshi.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "issunboshi.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：日本民間故事中的小小英雄，描寫他勇敢出發、闖蕩世界。
 
 原書資訊與歌詞全文（對應 P026.jpg–P027.jpg，書頁 pp. 11–12，第一學期第 10 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「オモシロク」
@@ -61,7 +64,7 @@ audio: "issunboshi.mp3"
 
 ```abc
 X:1
-T:一スンボウシ
+T:一スンボウシ（一寸法師）
 C:曲：田村虎藏
 M:2/4
 L:1/16
@@ -77,14 +80,14 @@ d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](issunboshi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk82dHwuGnn4-bNj5vnPG5a9rhpu4KWFpeirYKhgQGXva2CG5eNkb6JHciIFyvnvd8z6-n2aS82bH-6of_Z5kVgk5_N3gQUfj5lw7O5E1_M7HsxvR8s_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1QBc9Xbvj6c4tz6eseL-nAxSkesAg1QMFKZBhYPh-T6cSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UB3Af37tHXFs2ntQFc83dD7rL1TIcDAyEwvqyD9UcNkINMcxHy_pweo7-WCRoWCAj0FQ0OglKERUBDuk2dz5gPZwPBUeLlsGtDtwMAC2fdi1f5nDctBNnX3vpg5Hyj6uHkGUPDJrh6gyNO1E4C2uik8XbIcKKYAjAIFoChYNzC8eh43rXrcvAgYWY-b1z5uWv-4oZcLZCbQQhD1uHnZ4-bJj5u7Hzftf9wMVNn1uGkJZkRDlDY-bp70uGkrUMXjptWPm1c-bm4A6wRqm_24aS1Ic3Pf46Z9j5vngzWAJNaDjel73Dz1cXMvSHVzP9gtQHWrgQZBDAaaB3TGDJBcM9DgCWASqGcO2ElAB6yHuHlXD8RcoFUQLUCztoIsaNrxuHkFWASoC-h4oCxQBGhxJ1ikG6INaCHQXKA1QJevAXt4NS6vAv0D4iAxOkDeAdkM9PASoLsg6iY9bl4I9gzQnR2gcG5uBytaAQyDx82tQNugod0JcQLQtW3g6IA4BKgLqBdJfdM2sBTUwUBpoG2gxPG4eQpIXRPQAqDjgcEEdD_QFe1A4yBKgeHcAjIb6sk1oFBs2gs2HigFjLkZqB4D-R4oOg9MbgIHFNB7wGBYAHbw09mzIeqBVkEcCVEPVAk0F5gEgHYAPQKMTqCLQBbDUgjINqAGOAMYKEAjgG5uAkckMIZaHjdtBJqC5EOQCng4A20AxiowSIARA-RCvQf0K1AfkA-Od5ABQKcuBIsDQwioB-gYpHQyBSX8QKkQFMngOAc5AegRYMgBPQU0BBhHjRDVQAmgKcDENxUcQOuAluFKHsBoB6YHsElNW8CeBNqzG2wVMLkB8xPC2cAQhoQhMJQmgvMXOLuA_Ak0YjNIHeWlEhQoaOlzcXkWF5fmJeUDqyKrgMzEvHyHGoMahWqQPQo2hmZadmAWtiJRAVIOvVjYo6BhogAstp-vb9CBl2OaWDQArQMZVqNgGq-gC4RAyhDM0AWKGYFpI6iIEVDEGMwyVjAD02YgfRBtYBkDkC5w_OF23a4eclwHcwmMhrkE7jjzeKCYGcQPQAqhDuEvMIsYJ-7oJMeJCMsRrBqo6wxhYoZwv0AgyBcwRUbEhiEwZ5PlQGicwWIMEoYgDBIBYZhLkN2GnAYgbqvl4tK1U0CkUQUgT5mLCwA)]
+- [主旋律 TMD 檔案](issunboshi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk82dHwuGnn4-bNj5vnPG5a9rhp-_s9HUDBp-t3PNs89emO1e_3dCpoaXEp2ioYGhhw2dsquHHZGOmb2IEMfbFy3vs9s55un_Ziw_anG_qfbV4EtuvZ7E1A4edTNjybO_HFzL4X0_vBwi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69ZA3LO2h1Pd255PmUF0HWgQNYDBrIeKJCBDANDoBuVuPS1FIAWP5-97sWqVc9m9HEpKAA9t_bZtPYXyxe_bO8GuujZ9KXP5qx5tmHiy2mTn01tfbKrG6jg-awWoNOB6EX3xpezW97v6XnW3_90_eonu6c97W5_NnXRU6CzZ-553ND4cvq0F1NXPtkx7flUoAubuLT0uUCW2lILgFz8tG_-s9k7Xmxuf7Gi60VHOzAsgGH8tHUF0BtAnz_d0PusvVMhwMDITC-rIP1Rw2Qg0xzEBDl79o6XCxoVCgr0FAwNgVKGRkBBeOg9mzMfyAbGocLLZdOA4QUMDpB9L1btf9awHGRTd--LmfOBoo-bZwAFn-zqAYo8XTsBaKubwtMly4FiCsBoVwCKgnUDQ6DncdOqx82LgEnmcfPax03rHzf0ckFCvQFEPW5e9rh58uPm7sdN-x83A1V2PW5agpncIEobHzdPety0FajicdPqx80rHzc3gHUCtc1-3LQWpLm573HTvsfN88EaQBLrwcb0PW6e-ri5F6S6uR_sFqC61UCDIAYDzQM6YwZIrhlo8AQwCdQzB-wkoAPWQ9y8qwdiLtAqiBagWVtBFjTteNy8AiwC1AV0PFAWKAK0uBMs0g3RBrQQaC7QGqDL14A9vBqXV4H-AXGQGB0g74BsBnp4CdBdEHWTHjcvBHsG6M4OUDg3t4MVrQCGwePmVqBt0NDuhDgB6No2cHRAHALUBdSLpL5pG1gK6mCgNNA2UOJ43DwFpK4JaAHQ8cBgArof6Ip2oHEQpcBwbgGZDfXkGlAoNu0FGw-UAsbcDFSPgXwPFJ0HJjeBAwroPWAwLAA7-Ons2RD1QKsgjoSoB6oEmgtMAkA7gB4BRifQRSCLYSkEZBtQA5wBDBSgEUA3N4EjEhhDLY-bNgJNQfIhSAU8nIE2AGMVGCTAiAFyod4D-hWoD8gHxzvIAKBTF4LFgSEE1AN0DFI6mYISfqBUCIpkcJyDnAD0CDDkgJ4CGgKMo0aIaqAE0BRg4psKDqB1QMtwJQ9gtAPTA9ikpi1gTwLt2Q22CpjcgPkJ4WxgCEPCEBhKE8H5C5xdQP4EGrEZpI7yUgkKFEClnWdxcWleUj6wQrQKyEzMy3eoMahRqAbZo2BjaKZlB2ZhKxIVIOXQi4U9ChomCsDC9vn6Bh14OaaJRQPQOpBhNQqm8Qq6QAikDMEMXaCYEZg2gooYAUWMwSxjBTMwbQbSB9EGljEA6QLHH27X7eohx3Uwl8BomEvgjjOPB4qZQfwApBDqEP4Cs4hx4o5OcpyIsBzBqoG6zhAmZgj3CwSCfAFTZERsGAJzNlkOhMYZLMYgYQjCIBEQhrkE2W3IaQDitlouLl07BUQaVQDylLm4AA)]
 - [鋼琴伴奏 TMD 檔案](issunboshi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fx087HzZsfN8953LTscdP293s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoYEBl72tghuXjZG-iR1XnYLSi5Xz3u-Z9XT7tBcbtj_d0P9s8yIlkPCz2ZuAws-nbHg2d-KLmX0vpveDhV-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-zBujMp2t3PN255fmUFUAHGhkYGegZGJjpGViYmAMZBoZANypxcXkWF5fmJeUXZ2RaBWQm5uUHeTjUGNQoVHMpAIGNoZmWHZilr6Vgiw4UILa8WNijoGGiAPTK8_UNOgoBBkZmelkF6ZpYNGjpgw2rUTCNV9AFQiBlCGboAsWMwLQRVMQIKGIMZhkrmIFpM5A-iDawjAFIFxd-1-3qIcd1MJfAaJhLYG4zjwcKmUG8AKQQyhDeArOIceGOTnJciLAcwaqBus4QJmYI9woEgjwBU2REbBA-nT2bLAdCowwWYZAgBGGQCAjDXILsNuQkAHFbLWYK9UFJoSbQBAo0Ll4h2jAWHAtAlmk8iAkSM4EyDIDGwVIfigKwJjOQmBFYDCSNUGwCkjABSyAxUY1AVg01D24wqrMMQVpAvtK1U0B4TAGDp8zFBQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 一スンボウシ ]
+📊 TMD Song Profile: [ 一スンボウシ（一寸法師） ]
 ================================================================================
 ⏱  Duration:       0:19 (19.2s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
@@ -137,8 +140,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![一スンボウシ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P026.jpg](P026.jpg)
+![一スンボウシ（一寸法師） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P026.jpg](P026.jpg)
 
-![一スンボウシ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P027.jpg](P027.jpg)
+![一スンボウシ（一寸法師） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P027.jpg](P027.jpg)
 
 

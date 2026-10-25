@@ -1,8 +1,8 @@
 ---
-title: "ユフヒ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "ユフヒ"
-description: "〈ユフヒ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：葛原齒、曲：室崎琴月），調號拍號：E 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ギン／＼ギラ／＼　ユフヒガシヅム ギン／＼ギラ／＼　日ガシヅム…"
-keywords: "ユフヒ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒, 室崎琴月"
+title: "ユフヒ（夕陽） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "ユフヒ（夕陽）"
+description: "〈ユフヒ（夕陽）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：葛原齒、曲：室崎琴月），調號拍號：E 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ギン／＼ギラ／＼　ユフヒガシヅム ギン／＼ギラ／＼　日ガシヅム…"
+keywords: "ユフヒ（夕陽）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒, 室崎琴月"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "E"
@@ -10,7 +10,7 @@ image: "P063.jpg"
 audio: "yuhi.mp3"
 ---
 
-# ユフヒ
+# ユフヒ（夕陽）
 
 <audio controls src="yuhi.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "yuhi.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
-・調性與拍號：調號 ?= E，拍號 <2/4>，速度 != 96
+曲目說明
+中文解釋：描寫夕陽西下、天空染紅的傍晚景色。
 
 ## 跨冊／重複收錄參照
 
@@ -52,7 +52,7 @@ audio: "yuhi.mp3"
 
 ```abc
 X:1
-T:ユフヒ
+T:ユフヒ（夕陽）
 C:曲：室崎琴月
 M:2/4
 L:1/16
@@ -69,14 +69,14 @@ E4 C4 | B,2 B,2 E2 E2 | F2 G2 F2 F2 | E6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yuhi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlmTmpsbnp8WnJFYqcXFpaSk8bl72uHnq4-ZJClpaXIq2CpZmXPa2Cq5cNkb6JnYgzS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8yor3ezpAgaYHDDQ9UKABGQZG7_d0gp33YuW893tmvZg4-2nf_Jd7J4HFns3eBBR7um7J0y19zydseTanA-hcfS2uJzsauB43rXvcvPn9nv73e_aA2Suh7IYGuG8eN6153LT9cXPr4-YF-DQ8m74UVWnzvMfNLY-bVj9u7kOwgQY37QVqAwk2rX_cvAiobj7QyMfNXWChVWANs4ESYDfAjQCRpNjOBQwz2noP5KqVj5t2Pm5eAXQ2SLp5E9h7q6Bubtr4uLkNORi6wV4Hc5vbEN4Dsps2P25aQortWvpcXL6JmXlWAZmJefkONQY1CtVcCkBgY2imZQdm1SiYKuiCoRmUhoggY4SIMRTXwFlGQGwAEoGaZggzLR5hHIgJJkCSIFwD1gbTDsIIjSCIbCB2x4DYMIfXgJ1uDvUCCCM8hW4azNkI02B6DOMwhBCKQFqwGUdF39ZycenaKYBiSwFIK3NxAQA)]
+- [主旋律 TMD 檔案](yuhi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlmTmpsbnp8WnJFYqcXFpaSk8bl72uHnq4-ZJ7_d0PF0y9eXMve_3dCpoaXEp2ipYmnHZ2yq4ctkY6ZvYgQx60b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonu3qert3xdOeW51NWAC0CBaAeMAD1QAEIZBgYAS1V4tLXUng2e9Pz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9u73e2Y96-9_un41xJ0vlu5_sqP7cUPj0yUrn6_c9Wz-5OdbWp_Panna1Pts5qxnM9e_6Nz0uKGJS0sf7PSV84D6X0yc_bRv_su9k8DhArQMKPZ03ZKnW_qeT9jybE4HMEz0tbie7Gjgety07nHz5vd7-t_v2QNmr4SyGxrgQfa4ac3jpu2Pm1sfNy_Ap-HZ9KWoSpvnPW5uedy0-nFzH4INNLhpL1AbSLBp_ePmRUB184FGPm7uAgutAmuYDZQAuwFuBIgkxXYuYGTQ1nsgV6183LTzcfMKoLNB0s3AmAB6bxXUzU0bHze3IQdDN9jrYG5zG8J7QHbT5sdNS0ixHRjdXL6JmXlWAZmJefkONQY1CtWglKRgY2imZQdm1SiYKuiCoRmUhoggY4SIMRTXwFlGQGwAEoGaZggzLR5hHIgJJkCSIFwD1gbTDsIIjSCIbCB2x4DYMIfXgJ1uDvUCCCM8hW4azNkI02B6DOMwhBCKQFqwGUdF39ZycenaKYBiSwFIK3NxAQA)]
 - [鋼琴伴奏 TMD 檔案](yuhi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43LzscfPUx82T3u_peLJny9Ol_U92z3i_p1NBS4tL0VbB0ozL3lbBlcvGSN_EjqtOQelF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57s6nm6dsfTnVueT1kBtMvIwMhAz8DATM_AwsQcyDAwAlqqBLZh5bz3e2a9mDj7ad_8l3sngcWezd4EFHu6bsnTLX3PJ2x5NqdDiYvLNzEzzyogMzEvP8jDocagRqGaSwEIbAzNtOzArBoFUwVdMDSD0hARZIwQMYbiGjjLCIgNQCJQ0wxhpsUjjAMxwQRIEoRrwNpg2kEYoREEkQ3E7hgQG-bwGrDTzaFeAGGEp9BNgzkbYRpMj2EchhBCEUgLNuOo6Nta5MjywRVZhiCDow1jgaQJmGkCYqKIIzFxi5vGg3mm8SAuhIPiL4RaM4hKM7BKNI2EjIRyUMyDkDgsI8rtSB7HFQbEW4JkAlHixFpCy2ADJhVdOwVQalEA0spcXAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ユフヒ ]
+📊 TMD Song Profile: [ ユフヒ（夕陽） ]
 ================================================================================
 ⏱  Duration:       0:25 (25.0s), 20 measures total
 🎼 Key & Tempo:    首調基準 E, != 96.0 BPM, <2/4>
@@ -129,6 +129,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ユフヒ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P063.jpg](P063.jpg)
+![ユフヒ（夕陽） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P063.jpg](P063.jpg)
 
 

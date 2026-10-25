@@ -1,8 +1,8 @@
 ---
-title: "カザグルマ・ミヅグルマ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "カザグルマ・ミヅグルマ"
-description: "〈カザグルマ・ミヅグルマ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カゼニ クルクル…"
-keywords: "カザグルマ・ミヅグルマ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "カザグルマ・ミヅグルマ（風車與水車） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "カザグルマ・ミヅグルマ（風車與水車）"
+description: "〈カザグルマ・ミヅグルマ（風車與水車）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カゼニ クルクル…"
+keywords: "カザグルマ・ミヅグルマ（風車與水車）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P053.jpg"
 audio: "kazaguruma_mizuguruma.mp3"
 ---
 
-# カザグルマ・ミヅグルマ
+# カザグルマ・ミヅグルマ（風車與水車）
 
 <audio controls src="kazaguruma_mizuguruma.mp3"></audio>
 
@@ -18,8 +18,8 @@ audio: "kazaguruma_mizuguruma.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 112
+曲目說明
+中文解釋：描寫風力與水力讓車輪轉動的自然景象。
 
 ## 歌詞
 
@@ -36,7 +36,7 @@ audio: "kazaguruma_mizuguruma.mp3"
 
 ```abc
 X:1
-T:カザグルマ・ミヅグルマ
+T:カザグルマ・ミヅグルマ（風車與水車）
 M:2/4
 L:1/16
 Q:1/4=112
@@ -49,14 +49,14 @@ c4 d2 d2 | c3 d c2 A2 | G2 G2 A2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kazaguruma_mizuguruma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5YnlqQWKXFpaSk8blr9uGnb46YNj5tXP26e97h59-Pm-Y-bW-EiClpaXIq2CoaGRlz2tgpuXDZG-iZ2IONetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQV7_d0gAJMDxhgeqAAAzIMDN_v6VTi4tLX4gI7bs_j5m4gaz3IOWASIoxwMxfUxWBlYDEwCROGK9PS5-LyTczMswrITMzLd6gxqFGo5lIAAhtDMy07MKtGwVhBFwxNoRgmYgqmjcAihkAShEE8iAhMFwgagESgpoFMAEEzKIaJmIFpkK4auCmo5qOaVsvFpWunAHK8ApBW5uICAA)]
+- [主旋律 TMD 檔案](kazaguruma_mizuguruma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5YnlqQWKXFpaSk8blr9uGnb46YNj5tXP26e97h59-Pm-Y-bW-Ei7_d0vFy04sXurhcd7c82bAEy3u_pVNDS4lK0VTA0NOKyt1Vw47Ix0jexA9nxon3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esAFoJCkU9YCjqgUIRyDAwBNqqxKWvpfBs9qbns9e9WLXq2Yw-LgUFhSc71j6b1v5i-eKX7d3v98x61t__dP1qoIufds2GuBjEWDcZ5IE9q17s7XzaPfX5rJYX7auet2x7NnP9i40LHzc0cWnpcwEN5wKHxp7Hzd1A1nqQ_8EkRBgRSFzQIAIrA4uBSZgwXBnIUN_EzDyrgMzEvHyHGoMahWqQkxVsDM207MCsGgVjBV0wNIVimIgpmDYCixgCSRAG8SAiMF0gaAASgZoGMgEEzaAYJmIGpkG6auCmoJqPalotF5eunQLI8QpAWpmLCwA)]
 - [鋼琴伴奏 TMD 檔案](kazaguruma_mizuguruma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx07bHTRseN69-3DzvcfPux83zHze3wkXe7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGhpx2dsquHHZGOmb2HHVKSi9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgLYaGRgZ6BkYmOkZWJiYAxkGhkBblbi4fBMz86wCMhPz8oM8HGoMahSquRSAwMbQTMsOzKpRMFbQBUNTKIaJmIJpI7CIIZAEYRAPIgLTBYIGIBGoaSATQNAMimEiZmAapKsGbgqq-aim1SK73QfF7RZwp0cbxgIVQ0g4zzQeDxdkPMypUAUmKMphZkG0YdUNdJqunQLIdQpAWpmLCwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ カザグルマ・ミヅグルマ ]
+📊 TMD Song Profile: [ カザグルマ・ミヅグルマ（風車與水車） ]
 ================================================================================
 ⏱  Duration:       0:08 (8.6s), 8 measures total
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <2/4>
@@ -109,6 +109,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![カザグルマ・ミヅグルマ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P053.jpg](P053.jpg)
+![カザグルマ・ミヅグルマ（風車與水車） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P053.jpg](P053.jpg)
 
 

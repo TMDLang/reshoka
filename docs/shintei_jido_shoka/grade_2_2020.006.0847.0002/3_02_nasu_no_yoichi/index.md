@@ -1,8 +1,8 @@
 ---
-title: "なすのよいち — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "なすのよいち"
-description: "〈なすのよいち〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：げんぺいしようぶの　はれのばしよ ぶうんはこの矢にさだまると…"
-keywords: "なすのよいち, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "なすのよいち（那須與一） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "なすのよいち（那須與一）"
+description: "〈なすのよいち（那須與一）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：げんぺいしようぶの　はれのばしよ ぶうんはこの矢にさだまると…"
+keywords: "なすのよいち（那須與一）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P044.jpg"
 audio: "nasu_no_yoichi.mp3"
 ---
 
-# なすのよいち
+# なすのよいち（那須與一）
 
 <audio controls src="nasu_no_yoichi.mp3"></audio>
 
@@ -18,6 +18,9 @@ audio: "nasu_no_yoichi.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫源平故事中的武將那須與一，在海上射中扇子的英勇事蹟。
 
 原書資訊與歌詞全文（對應 P044.jpg，書頁 p. 29，第三學期第 2 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「ゲンキヨク（♩＝88）」
@@ -42,7 +45,7 @@ audio: "nasu_no_yoichi.mp3"
 
 ```abc
 X:1
-T:なすのよいち
+T:なすのよいち（那須與一）
 M:2/4
 L:1/16
 Q:1/4=88
@@ -57,14 +60,14 @@ d3 d c2 B2 | B3 B A2 A2 | G3 G C2 C2 | F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nasu_no_yoichi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelootnZBYDja1U4tLSUnjcuOpx48zHjeseN3U8bmx53LhQQUuLS9FWwcKCy95WwY3LxkjfxA5kwLNp7S-bVzyf0wg27kX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuzqebp2x9OdW55PWfF-TwcoIPWAAakHCkggw8Do_Z5OJS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqB7nqxct7T1hVAXwFd8XRD77P2ToUAAxMTvayC9Pd7eoCKXy5oVCjQUzCyBHJBDt_RCXT4sznzgWwFI4WXy6YBXfp-zyyQ6S9W7X_WsBxkbnfvi5nzgaKPm2cABYGeBYo8XTsBaIebwtMly4FiCsAAVQCKgnUDQ6fncdOmx82bHzetfdy84nHTeqDSRzNXvt8z18ICqORxQy8XyIYnOxpA1OPGSY-bJj9u3AWOq-ngSGt73LgNFIENDY8b1z9u6gGxGzdAZCF6gNJtYG3rHzcCyXXP5y963Lj6cePUx40LHjfue9zU_bhxBUQpIjUAbQRqAJNAk4Datj5u6gQyIOrWgjiNm6BmNDU-blwGdsAmmJNWgFzY1A1x_K4eiK4mkCmNfUBzny6Z-mz6UrAresHmAk3oBRoCUQc0BRg4_e_37HkxYS8wTT5uAprY_2wz0NnrnuzowupUoKd3gz0DDID1T3Z3PW5qAkf8xu6nm8HhAwoDoJtXg9256nFTF9j9m4EGg9RRnsygQEFLn4vLL7G41C8_Mj8zOSPTKiAzMS_focagRqEaZJOCjaGZlh2YVaNgqKALhIYKxkAShGsUTMEipmAahGsUzMAiZmAahGFqdBUMoHQN1DQTMM8EyTQjsIgR2B4QRoiAaBAGmhaPwzgziASQwtSOKYLdCyAz4eZBPQISBzkVn4PBjgITsEBCdl8tF5eunQJyKCsA-cpcXAA)]
+- [主旋律 TMD 檔案](nasu_no_yoichi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelootnZBYDja1U4tLSUnjcuOpx48zHjeseN3U8bmx53Ljw_Z6Ol02LXy7oeNHR_mRHw_s9nQpaWlyKtgoWFlz2tgpuXDZG-iZ2ICOfTWt_2bzi-ZxGsAUv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkV8_TtTue7tzyfMoKoOWgoNUDBq0eKGiBDAMjoBOUuPS1FJ7N3vR89roXq1Y9m9HHpaCg8GTHWqATXixf_LK9-_2eWc_6-5-uX_1s14SnOzc_m9r6ZFc3UMHzWS3P1i57uqEd1U89T-eseLZ1-5MdXU83tIDM6Wx_unYCUPGL7o1Pu9uBel_snP-4oYlLS58LZLUttQDI3U_75j-bvePF5vYXK7qADgKGyIuV8562rgB6Buj_pxt6n7V3KgQYmJjoZRWkA90KVPxyQaNCgZ6CkSWQCwqyHZ3AIHs2Zz6QrWCk8HLZNGAYAYMAZPqLVfufNSwHmdvd-2LmfKDo4-YZQEFgMANFgL4E2uGm8HTJcqCYAjAqFYCiYN3AeOl53LTpcfPmx01rHzeveNy0Hqj00cyV7_fMtbAAKnnc0MsFCfcGEPW4cdLjpsmPG3eB0810cAJqe9y4DZSYGhoeN65_3NQDYjdugMhC9ACl28Da1j9uBJLrns9f9Lhx9ePGqY8bFzxu3Pe4qftx4wqIUkTKBNoI1AAmgSYBtW193NQJZEDUrQVxGjdBzWhqfNy4DOyATTAnrQC5sKkb4vhdPRBdTSBTGvuA5j5dMvXZ9KVgV_SCzQWa0As0BKIOaAowcPrf79nzYsJeYP543AQ0sf_ZZqCz1wHTD1anAj29G-wZYACsf7K763FTEzjiN3Y_3QwOH1AYAN28GuzOVY-busDu3ww0GKSO8mQGBQqg5OuXWFzqlx-Zn5mckWkVkJmYl-9QY1CjUA2yScHG0EzLDsyqUTBU0AVCQwVjIAnCNQqmYBFTMA3CNQpmYBEzMA3CMDW6CgZQugZqmgmYZ4JkmhFYxAhsDwgjREA0CANNi8dhnBlEAkhhascUwe4FkJlw86AeAYmDnIrPwWBHgQlYICG7r5aLS9dOATmUFYB8ZS4uAA)]
 - [鋼琴伴奏 TMD 檔案](nasu_no_yoichi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOpx48zHjeseN3U8bmx53Ljw_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcFlb6vgxmVjpG9ix1WnoPRsWvvL5hXP5zQqgXgv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkV8_TtTue7tzyfMoKoP1GBkYGegYGZnoGFibmQIaBEdAJSlxcfonFpX75kfmZyRmZVgGZiXn5QR4ONQY1CtVcCkBgY2imZQdm1SgYKugCoaGCMZAE4RoFU7CIKZgG4RoFM7CIGZgGYZgaXQUDKF0DNc0EzDNBMs0ILGIEtgeEESIgGoSBpsXjMM4MIgGkMLVjimD3AshMuHlQj4DEQU7F52Cwo8AELJCQ3VeLLZB9UALZBBHG8QrRhrHIDBMgwwQqYoAIPZi0aTwKyzQexkRWi0MxzCJUY8GWoZoPMRWqEugfXTsFZC8pAPnKXFwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ なすのよいち ]
+📊 TMD Song Profile: [ なすのよいち（那須與一） ]
 ================================================================================
 ⏱  Duration:       0:21 (21.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 88.0 BPM, <2/4>
@@ -117,6 +120,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![なすのよいち — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P044.jpg](P044.jpg)
+![なすのよいち（那須與一） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P044.jpg](P044.jpg)
 
 

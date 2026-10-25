@@ -1,8 +1,8 @@
 ---
-title: "ヒヨコ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "ヒヨコ"
-description: "〈ヒヨコ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カヘツタバカリノ　カハイイヒヨコ オヤニオンブサレ　ピヨピヨピヨ…"
-keywords: "ヒヨコ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "ヒヨコ（小雞） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "ヒヨコ（小雞）"
+description: "〈ヒヨコ（小雞）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カヘツタバカリノ　カハイイヒヨコ オヤニオンブサレ　ピヨピヨピヨ…"
+keywords: "ヒヨコ（小雞）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "C"
@@ -10,13 +10,16 @@ image: "P024.jpg"
 audio: "hiyoko.mp3"
 ---
 
-# ヒヨコ
+# ヒヨコ（小雞）
 
 <audio controls src="hiyoko.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫小雞的叫聲、動作與可愛模樣。
 
 原書資訊與歌詞全文（對應 P024.jpg – P025.jpg，書頁 pp. 9–10，第一學期第 7 首）：
 調性與拍號：イ短調四拍子（A 小調 4/4 拍），「アイラシク（♩＝96）」
@@ -45,7 +48,7 @@ audio: "hiyoko.mp3"
 
 ```abc
 X:1
-T:ヒヨコ
+T:ヒヨコ（小雞）
 M:4/4
 L:1/16
 Q:1/4=96
@@ -62,14 +65,14 @@ B6 c2 B4 A4 | F6 A2 F4 E4 | A6 F2 A4 F4 | D4 E8 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hiyoko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxunvS4ecXjps0KWlpcirYKlmZc9rYKzlzZqZW2Co65XDYm-iZ2IO0v2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkV8_TtTue7tzyfMqK93s6QAGkBwwgPVAAARkGRu_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTXi5XznraueDatHeiKpxt6n7V3KgQYGJnoZRWkKzxqmAzimII47_f0AHW-XNCoUFCgp2AJlDI0AIqBvLKjAeiVZ3PmA9kK5govl00Duv39nlkg-16s2v-sYTnIpu7eFzPnA0UfNy15Pn8tUPzp7NlAwadrJwAtdlR4uqEfKKYADFcFoCjYAGCQ9TxuWgTU8Lh55eOm7Y-b1gOVPpq58v2euZZmQCWPG3rBdqzYDTQX6LMXa-eAnGDyuKHRFIgNDUCmPl_fAHZj5_PtsxScTBRezt_8fM2yJzu6n03b-axv0tPeDU_2zgHZ1DwfaB7QVmAgPG9d_mTXFKAGoIlA9S9XzwD6AGS0oSHQXCMDEGEINRwYYM-bdoGduh1sQIc52GlNXCC3PW5a_bh5xuPmlsdN-x83TwBzVz1u7nvc0ABm94N8B_IgNL1B9ABVAIW6wYzNj5unPW7a-rh5DUhP8xSQOiQSrAGoG2TG1MdNy0DeALGBhi0DagB6A2Q50EJkG4AxBhbtBPJBzgNpALuwoQEYK0AvAJWCPAESBAb76hfLusGCwPgDagHa3AMO92VAF4I4j5s7wE5dBPPnSrD3gNw1MBLioz6Ia4GeXgN2Tx8wGkAGgyzZDzYbGCRgzVj9SXkWgAIFLX0uLo_MyvzsfKuAzMS8fIcagxqFapAdCjYWWnZgBraspwBJ7i8W9ihomEATgA48v2hi0QC0CWrYy1l9Tyf0WgH9Px8kAg4JYIwthArUAOmVYEEIiUUKIoldV9N2sHQn1GiEtZAsDrQWnBKhprSAteyHGjABklDBMqvAZB9EBiwGjjEgewlYFYgE6ZkEFl8BFtuMammNgrGCLhiaADGIXaNgBiRBGFUEJIYqYg7EhnFAwgAkBM5CuCNiVw-FEQEJVETogfggz4EDGF9owwSROGhycIAtJkCBDAlYcKA2d0ODG5TdwQLTgJytYNYaqLVTEOGNxEaVQbcTFsiQYAWxa8DBjRrs1QW18KiB0RCdELXExcWOTgrjAuRRSChjBDlyYKPFFCS9g2iscYhiII7YgCblPRCFcDbIDIhmiAwk6KEy4GwAyUjQzATLMvgzhhE01BGhDwt1RAyBkz84F6DGGkwfEbEBLMSpVkRBwgAWFZBYQo4rlEhCizzc-vDFBcTeDmj4QuMZFJiQ8gtcWzUjFV-QpA8r1MCpAFxwwWOwCRJ3PeixASumQDQkNkDxA4sjRPyAwh27GqJKqSlUKaWwFkagAIUELHqAwzQh5R3Mogopy-CKEEhkgYIQEoCQiAEXVlAjgRU8JDbgea9pEdxZIK3IPJhGWMkHyjUocYJZLYDCGhTiiBiAqDGB04iqA0QTkz9a11IWJ-CAw1Pu4Kk7cNceqLkDZ4z0Q2MEFOeQwgZWW0MdBYoKaG0OcxSojiCn_gCFKZaiCLPehkUHpPKAZQ9E5VHLxaVrpwBpcikAWcpcXAA)]
+- [主旋律 TMD 檔案](hiyoko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxunvS4ecXjps3v93Q83dD_cva893s6FbS0uBRtFSzNuOxtFZy5slMrbRUcc7lsTPRN7EBGvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNk109T9fueLpzy_MpK4AWggJLDxhYeqDAAjIMjICWK3Hpayk8m73p-ex1L1atejajj0tBQeHJjrXPprW_WL74ZXv3-z2znvX3P12_GuLe57NanvavftG46XFD49PuqU_2znnR0f60f_2zltnPVix8tmLx44YmLi19LpCxttQCIDc97Zv_bPaOF5vbX6zoAloJ9O2LlfOetq4AOhQcmL3P2jsVAgyMTPSyCtIVHjVMBnFMQZz3e3qAOl8uaFQoKNBTsARKGRoAxUABtKMBGEDP5swHshXMFV4umwYMEaCHQfa9WLX_WcNykE3dvS9mzgeKPm5a8nz-WqD409mzgYJP104AWuyoAAwXoJgCMLYUgKJgA4AR0fO4aRFQw-PmlY-btj9uWg9U-mjmyvd75lqaAZU8bugF27FiN9BcoM9erJ0DcoIJMFBNgdjQAGTq8_UNYDd2Pt8-S8HJROHl_M3P1yx7sqP72bSdz_omPe3dAAx9kE3N84HmAW0FBsLz1uVPdk0BagCaCFT_cvUMoA9ARhsaAs01MgARhlDDgQH2vGkX2KnbwQZ0mIOd1sQFctvjptWPm2c8bm553LT_cfMEMHfV4-a-xw0NYHY_yHcgD0JTNEQPUAVQqBvM2Py4edrjpq2Pm9eA9DRPAalDIsEagLpBZkx93LQM5A0QG2jYMqAGoDdAlgMtRLYBGGNg0U4gH-Q8kAawCxsagLEC9AJQKcgTIEFgsK9-sQyYgIGCwPgDagHa3AMO92VAF4I4j5s7wE5dBPPnSrD3gNw1MBLiI3C2AHt6Ddg9fcBoABkMsmQ_2GxgkIA1Y_Un5VkAChRAWcsjszI_O98qIDMxL9-hxqBGoRpkh4KNhZYdmIEt6ylAkvuLhT0KGibQBKADzy-aWDQAbYIa9nJW39MJvVZA_88HiYBDAhhjC6ECNUB6JVgQQmKRgkhi19W0HSzdCTUaYS0kiwOtBadEqCktYC37oQZMgCRUsMwqMNkHkQGLgWMMyF4CVgUiQXomgcVXgMU2o1pao2CsoAuGJkAMYtcomAFJEEYVAYmhipgDsWEckDAACYGzEO6I2NVDYURAAhUReiA-yHPgAMYX2jBBJA6aHBxgiwlQIEMCFhyozd3Q4AZld7DANCBnK5i1BmrtFER4I7FRZdDthAUyJFhB7BpwcKMGe3VBLTxqYDREJ0QtcXGxo5PCuAB5FBLKGEGOHNhoMQVJ7yAaaxyiGIgjNqBJeQ9EIZwNMgOiGSIDCXqoDDgbQDISNDPBsgz-jGEEDXVE6MNCHRFD4OQPzgWosQbTR0RsAAtxqhVRkDCARQUklpDjCiWS0CIPtz58cQGxtwMavtB4BgUmpPwC11bNSMUXJOnDCjVwKgAXXPAYbILEXQ96bMCKKRANiQ1Q_MDiCBE_oHDHroaoUmoKVUoprIURKEAhAYse4DBNSHkHs6hCyjK4IgQSWaAghAQgJGLAhRXUSGAFD4kNeN5rWgR3FkgrMg-mEVbygXINSpxgVgugsAaFOCIGIGpM4DSi6gDRxOSP1rWUxQk44PCUO3jqDty1B2ruwBkj_dAYAcU5pLCB1dZQR4GiAlqbwxwFqiPIqT9AYYqlKMKst2HRAak8YNkDUXnUcnHp2ilAmlwKQJYyFxcA)]
 - [鋼琴伴奏 TMD 檔案](hiyoko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPOlx84rHTZvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqWZlz2tgrOXNmplbYKjrlcNib6JnZcdQpKL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZFfP07U7nu7c8nzKCqDNRgZGBnoGBmZ6BhYm5kCGgRHQciUuLo_MyvzsfKuAzMS8_CAPhxqDGoVqLgUgsLHQsgMz9LUUbNGBAsiCHQ0vFvYoaJgoPN3Q_3x9g45CgIGRiV5WQbomFg1a-mDDahSMFXTB0ASIQewaBTMgCcKoIiAxVBFzIDaMAxIGICEu_I7b1UOO4yAWQ6wCsWvATkB1SnVBLdy5MBqiE6KWOPft6CTHfUZQVyBcA3MFwsXgIAKHFKovYPqIcN3T2bMpiVoQDXEdyL0wNyPcC3IHdjVExewU8mMWOR5BdoJsRrgEosYETiOSHYgmJtxa15LjNpANWCIMMwfAHAdJcrBAQyS5WtT87IOSn00Q-fnZrtXP5k8BuvHFqv1Pty971tkNKZKQgis-XiHaLD43FomFLGoMYhmji5qAWCbxqIIglgHQcfgMhmtENheU0eASSEajiCFMNgKKGqE5Da4Uuy-wOgHVVIRpyObitQuXQmyBgOQtvGYSEbIIfQRDFpuxIOvhukGmAhOTrp0CJD0pAFnKXFwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ヒヨコ ]
+📊 TMD Song Profile: [ ヒヨコ（小雞） ]
 ================================================================================
 ⏱  Duration:       1:00 (60.0s), 24 measures total
 🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <4/4>
@@ -122,8 +125,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ヒヨコ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P024.jpg](P024.jpg)
+![ヒヨコ（小雞） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P024.jpg](P024.jpg)
 
-![ヒヨコ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P025.jpg](P025.jpg)
+![ヒヨコ（小雞） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P025.jpg](P025.jpg)
 
 

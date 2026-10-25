@@ -1,8 +1,8 @@
 ---
-title: "オクワシノキシヤ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "オクワシノキシヤ"
-description: "〈オクワシノキシヤ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：山本壽），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ガッタンゴッコ　ガッタンコ オクワシシノ　キシャガ…"
-keywords: "オクワシノキシヤ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山本壽"
+title: "オクワシノキシヤ（點心火車） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "オクワシノキシヤ（點心火車）"
+description: "〈オクワシノキシヤ（點心火車）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：山本壽），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ガッタンゴッコ　ガッタンコ オクワシシノ　キシャガ…"
+keywords: "オクワシノキシヤ（點心火車）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山本壽"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "G"
@@ -10,7 +10,7 @@ image: "P050.jpg"
 audio: "okashi_no_kisha.mp3"
 ---
 
-# オクワシノキシヤ
+# オクワシノキシヤ（點心火車）
 
 <audio controls src="okashi_no_kisha.mp3"></audio>
 
@@ -19,8 +19,8 @@ audio: "okashi_no_kisha.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= G，拍號 <2/4>，速度 != 100
+曲目說明
+中文解釋：把火車想像成載滿糖果點心的列車，充滿童趣。
 
 ## 歌詞
 
@@ -51,7 +51,7 @@ audio: "okashi_no_kisha.mp3"
 
 ```abc
 X:1
-T:オクワシノキシヤ
+T:オクワシノキシヤ（點心火車）
 C:曲：山本壽
 M:2/4
 L:1/16
@@ -74,14 +74,14 @@ D2 G2 A2 B2 | G6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](okashi_no_kisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8blr1uGn94-b1j5u2P27ue9y0FsxYoqClxaVoq2BoYMBlb6vgzmVjpG9iBzLp2exN7_fMerpx47M5a54u3gs2_UX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuxoeLp2x9OdW55PWfF-Twco_PSA4acHCj8gw8Dw_Z5OJS4ufS0uoEqux01rHjc3P27a_7h58-OmLWD25scNDajim4HqkPwE8RZIEcRni4GquV5s3fC4edXj5nmPm3aC5YAaVkOVggRXPG7exPWyYRaqoh2Pm5c-bloGYjd3gWxsXMb1uHkNWPnqx43rHjf3g9Utetzc-Lh5-ePmhSDZ5jkgPc0dXFxPdvVQ0Q-Pm5Y8btr7uAloLcyFQFcBjQGKN3eAjGnuBbqL62nrUhRvAOUw_DDjcfMekDuaV8L8ADRjBVgE4gGgVRuBHtjRSU0PNE993LQcHHpAt20HS-973AxUASaBDgE5ZxPEeavBHloNdjfYhUC7mifCPACyaA_IlyCH7od5ABiXwAQNlGrk0tLn4vJNzMyzCshMzMt3qDGoUajmUgACG0MzLTswq0bBME5BF0KYQnGNghmQBGEQzwAsAmKB-MYgxWARIyAJ4oFosBqoeabxUCUwBUArwJohEGIcSA6GIWpALLAVIO1gAmYgslkIq2FmQcwDyUEcCPOCCZLzwLpIcB5XLReXrp0CKOgUsNDKXFwA)]
+- [主旋律 TMD 檔案](okashi_no_kisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8blr1uGn94-b1j5u2P27ue9y0FsxY8n5Px8vd857ub37euPrF7q73ezoVtLS4FG0VDA0MuOxtFdy5bIz0TexAZj-bven9nllPN258NmfN08V7wfa9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgG4AhageMET1QCEKZBgYAl2ixKWvpQC09fnsdS9WrXo2o49LQUHhyY61z6a1v1i--GV7N9A5z7q6IC5_1rz5aXP_s44JL_Z0Ptu9__nmac_mzYF6bVbL047pYN_1PG1tBcmuXvpi2-LHDU1cWvpcQFu4gM7hety05nFz8-Om_Y-bNz9u2gJmb37c0IAqvhmoDikoIaEJUgQJ0MVA1Vwvtm543LzqcfO8x007wXJADauhSkGCKx43b-J62TALVdGOx81LHzctA7Gbu0A2Ni7jety8Bqx89ePGdY-b-8HqFj1ubnzcvPxx80KQbPMckJ7mDi6uJ7t6qOiHx01LHjftfdwEtBbmQqCrgMYAxZs7QMY09wLdxfW0dSmKN4ByGH6Y8bh5D8gdzSthfgCasQIsAvEA0KqNQA_s6KSmB5qnPm5aDg49oNu2g6X3PW4GqgCTQIeAnLMJ4rzVYA-tBrsb7EKgXc0TYR4AWbQH5EuQQ_fDPACMS2A-Ako1glORb2JmnlVAZmJevkONQY1CNSixKtgYmmnZgVk1CoZxCroQwhSKaxTMgCQIg3gGYBEQC8Q3BikGixgBSRAPRIPVQM0zjYcqgSkAWgHWDIEQ40ByMAxRA2KBrQBpBxMwA5HNQlgNMwtiHkgO4kCYF0yQnAfWRYLzuGq5uHTtFEBBp4CFVubiAgA)]
 - [鋼琴伴奏 TMD 檔案](okashi_no_kisha_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx0_rHzesfN21_3Nz3uGktmLHk_Z6Ox81THjctAgo-2bPl6dL-J7tnvN_TqaClxaVoq2BoYMBlb6vgzmVjpG9ix1WnoPRs9qb3e2Y93bjx2Zw1TxfvVQKJvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4AuMTIwMtAzMDDTM7AwMQcyDAyBLlHi4vJNzMyzCshMzMsP8nCoMahRqOZSAAIbQzMtOzCrRsEwTkEXQphCcY2CGZAEYRDPACwCYoH4xiDFYBEjIAnigWiwGqh5pvFQJTAFQCvAmiEQYhxIDoYhakAssBUg7WACZiCyWQirYWZBzAPJQRwI84IJkvPAukhwHlctcsj5oIScBTzgog1jgYohJJBnAuMZYMqZxoO5IAooC9OPJApWBVYNcgIWOVQ-dhdAJCEBgtVxaLpx2w8KAF07BVAYKGChlbm4AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ オクワシノキシヤ ]
+📊 TMD Song Profile: [ オクワシノキシヤ（點心火車） ]
 ================================================================================
 ⏱  Duration:       0:50 (50.4s), 42 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <2/4>
@@ -136,6 +136,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![オクワシノキシヤ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P050.jpg](P050.jpg)
+![オクワシノキシヤ（點心火車） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P050.jpg](P050.jpg)
 
 

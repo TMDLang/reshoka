@@ -1,8 +1,8 @@
 ---
-title: "アメ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "アメ"
-description: "〈アメ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：北原白秋、曲：成田爲三），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アメガフリマスアメガフル アソビニユキタシカサハナシ…"
-keywords: "アメ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
+title: "アメ（雨） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "アメ（雨）"
+description: "〈アメ（雨）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：北原白秋、曲：成田爲三），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アメガフリマスアメガフル アソビニユキタシカサハナシ…"
+keywords: "アメ（雨）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P052.jpg"
 audio: "ame.mp3"
 ---
 
-# アメ
+# アメ（雨）
 
 <audio controls src="ame.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "ame.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 92
+曲目說明
+中文解釋：描寫下雨時的聲音、景色，以及孩子在雨中的感受。
 
 ## 跨冊／重複收錄參照
 
@@ -64,7 +64,7 @@ audio: "ame.mp3"
 
 ```abc
 X:1
-T:アメ
+T:アメ（雨）
 C:曲：成田爲三
 M:2/4
 L:1/16
@@ -91,14 +91,14 @@ c2 c2 d2 c2 | A2 A2 c2 F2 | G2 G2 G2 A2 | F4 z2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5anJgIZRUpcWloKj5sWPW5eqKClxaVoq2BpxGVvq-DGZWOkb2IH0vRi5bz3e2Y97Zn-tG_-85l7ny_vBpv1bPYmoPCzjgnPp2x43rHpyY5OsPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7Li_Z4OUCDqAQNRDxSIQIaB4fs9QBu49LW4gCq5IE5-3LTmcfPUx82rHjfPe9y0E1VwNVhR097HzZMfN3c_bl72uGnt46b9j5u2P25a_bhp6-Pm_sfNXUAu1-PmmWAVmx439z1uWvW4aRNIXTPQMCBjDUhbM5Dcz8X1ZFcPsTYvedwMRO0gU0AmLnvc3AjiIlwE1LYbKA60HCixAqx1Pkgp1EiQHNi1QIfMR6gGer6TWCdsfNy8GUYCEdDzO8DOAbprHtjnS0CeQpUDhsoCUPA0A0WA7MnQ0Gpey8X1dPZsYm0GSgCDE2juOpDXmnvBAb77cXMn2OYGcNAAGaDABIYNUALsQkh8gMIGaB7Qz0AXAv0PdiQw5KcQaXnzJCAFNgLEh5FAVyAEiTNJS5-LyzcxM88qIDMxL9-hxqBGoZpLAQhsDM207MCsGgVjBV0wNILiGgVDIAnCCBGQGhBGiJjGQ7UZQHEN1DgzkASYgBlTA9cGMgIigmwgiIaowWaeKZANwmZQGqEXxEM1H2EaSBzVtFouLl07BVBoKBBBK3NxAQA)]
+- [主旋律 TMD 檔案](ame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5anJgIZRUpcWloKj5sWPW5e-H5Px8vZK97v6VTQ0uJStFWwNOKyt1Vw47Ix0jexA-l-sXLe-z2znvZMf9o3__nMvc-Xd4MNfTZ7E1D4WceE51M2PO_Y9GRHJ1j4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Gh4unbH051bnk8BuqYDFJp6wNDUA4UmkGFgCHSiEpe-lgLQ4uez171YterZjD4uBQWFJzvWPpvW_mL54pft3SAX9fc_Xb_6yY5uoK-ezWx6PqvlReOml_M3P25ofDZz_YtOoKt7nuxe-rS_6-nalU_XTng6ZwVQJdAQoMpnLfOf9k9_3NDEpaXPBbSLC-goLkgwPW5a87h56uPmVY-b5z1u2okquBqsqGnv4-bJj5u7Hzcve9y09nHT_sdN2x83rX7ctPVxc__j5i4gl-tx80ywik2Pm_seN6163LQJpK4ZaBiQsQakrRlI7ufierKrh1iblzxuBqJ2kCkgE5c9bm4EcREuAmrbDRQHWg6UWAHWOh-kFGokSA7sWqBD5iNUAz3fSawTNj5u3gwjgQjo-R1g5wDdNQ_s8yUgT6HKAUNlASh4moEiQPZkaGg1r-Xiejp7NrE2AyWAwQk0dx3Ia8294ADf_bi5E2xzAzhogAxQYALDBigBdiEkPkBhAzQP6GegC4H-BzsSGPJTiLS8eRKQAhsB4sNIoCsQgsSZBEptvomZeVYBmYl5-Q41BjUK1aCkrWBjaKZlB2bVKBgr6IKhERTXKBgCSRBGiIDUgDBCxDQeqs0AimugxpmBJMAEzJgauDaQERARZANBNEQNNvNMgWwQNoPSCL0gHqr5CNNA4qim1XJx6dopgEJDgQhamYsLAA)]
 - [鋼琴伴奏 TMD 檔案](ame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOhx88L3ezoeN08Bs_ue7NnydGn_k90z3u_pVNDS4lK0VbA04rK3VXDjsjHSN7HjqlNQerFy3vs9s572TH_aN__5zL3Pl3crgYSfzd4EFH7WMeH5lA3POzY92dEJFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1YAnWhkYGSgZ2BgpmdgYWIOZBgYAp2oxMXlm5iZZxWQmZiXH-ThUGNQo1DNpQAENoZmWnZgVo2CsYIuGBpBcY2CIZAEYYQISA0II0RM46HaDKC4BmqcGUgCTMCMqYFrAxkBEUE2EERD1GAzzxTIBmEzKI3QC-Khmo8wDSSOalotcmD4oASGBTwsog1jgYqjTeNBFHFcZLdGm4ClIBJALkQlnIumHcJA0Q9RYYKiHs0wbLYD_aZrpwDyngIRtDIXFwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ アメ ]
+📊 TMD Song Profile: [ アメ（雨） ]
 ================================================================================
 ⏱  Duration:       1:18 (78.3s), 60 measures total
 🎼 Key & Tempo:    首調基準 F, != 92.0 BPM, <2/4>
@@ -155,6 +155,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![アメ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P052.jpg](P052.jpg)
+![アメ（雨） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P052.jpg](P052.jpg)
 
 

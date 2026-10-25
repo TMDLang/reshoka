@@ -1,8 +1,8 @@
 ---
-title: "チヨダノオシロ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "チヨダノオシロ"
-description: "〈チヨダノオシロ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：野口雨情、曲：藤井清水），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チヨダノ　オシロノ ハトポツポ…"
-keywords: "チヨダノオシロ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 野口雨情, 藤井清水"
+title: "チヨダノオシロ（千代田城） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "チヨダノオシロ（千代田城）"
+description: "〈チヨダノオシロ（千代田城）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：野口雨情、曲：藤井清水），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チヨダノ　オシロノ ハトポツポ…"
+keywords: "チヨダノオシロ（千代田城）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 野口雨情, 藤井清水"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P070.jpg"
 audio: "chiyoda_no_oshiro.mp3"
 ---
 
-# チヨダノオシロ
+# チヨダノオシロ（千代田城）
 
 <audio controls src="chiyoda_no_oshiro.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "chiyoda_no_oshiro.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 92
+曲目說明
+中文解釋：描寫東京皇居一帶的城郭與莊嚴景色。
 
 ## 歌詞
 
@@ -42,7 +42,7 @@ audio: "chiyoda_no_oshiro.mp3"
 
 ```abc
 X:1
-T:チヨダノオシロ
+T:チヨダノオシロ（千代田城）
 C:曲：藤井清水
 M:2/4
 L:1/16
@@ -60,14 +60,14 @@ C8 | C4 z2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](chiyoda_no_oshiro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJCanKnFpaSk8bm583LzicXPD4-a-x02rHjdtf9y8VkFLi0vRVsHSiMveVsGNy8ZI38QOZMKLlfPe75n1sr3vaf_il7NXPGtuBRv8bPYmoPCL6Uue7Jr6bEfrsw1bwMIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMqK93s6QCGqBwxRPVCIAhkGhu_3dCpxcelrcaG4vqEB7gEgFyjX_7i543Hz3MfNLUASnQ9SDmc3dwClux43LXnc3Pa4aT_QTEyjtzxuXvS4eTPYaIglQOVNqx83z8TmjObZj5uBJEgtUNcmsNHzHze3kuoMLX0uLkergMzEvHyHGoMahWouBSCwMTTTsgOzahRMFXQVzIAYRBsDcY2CEZA0BInGQxkQIV0gCeKBIExEV8EAimugxiGrRNYLNQ5MAC0FUSAIZpigCcIgkhDCmlouLifqeAgmjOpMFJuc8dpED7_q2ik4KgAJJzjhDCKUubgA)]
+- [主旋律 TMD 檔案](chiyoda_no_oshiro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJCanKnFpaSk8bm583LzicXPD4-a-x02rHjdtf9y89v2ejqe9zU92L34-ZcPT-X3v93QqaGlxKdoqWBpx2dsquHHZGOmb2IHMfLFy3vs9s1629z3tX_xy9opnza1gq57N3gQUfjF9yZNdU5_taH22YQtY-EX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuxoeLp2x9OdW55PWQF0HCiM9YBhrAcKYyDDwBDoRCUufS0FoMXPZ697sWrVsxl9XAoKCk92rH02rf3F8sUv27uBLnrW3_90_epnczc-2bXm-az2pxtbQSbv2PZ8VgvQny-b177oaH_R1_V01pZnM9e_6Nz0uKGJS0ufC2gyF0pANTTAwwrIBcr1P27ueNw893FzC5BE54OUw9nNHUDprsdNSx43tz1u2g80E9PoLY-bFz1u3gw2GmIJUHnT6sfNM7E5o3n242YgCVIL1LUJbPT8x82tpDoD5FFHq4DMxLx8hxqDGoVqUAAq2BiaadmBWTUKpgq6CmZADKKNgbhGwQhIGoJE46EMiJAukATxQBAmoqtgAMU1UOOQVSLrhRoHJoCWgigQBDNM0ARhEEkIYU0tF5cTdTwEE0Z1JopNznhtoodfde0UHBWAhBOccAYRylxcAA)]
 - [鋼琴伴奏 TMD 檔案](chiyoda_no_oshiro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3Pi4ecXj5obHzX2Pm1Y9btr-uHnt-z0dj5unPG5aBBR8smfL06X9T3bPeL-nU0FLi0vRVsHSiMveVsGNy8ZI38SOq05B6cXKee_3zHrZ3ve0f_HL2SueNbcqgYSfzd4EFH4xfcmTXVOf7Wh9tmELWPhF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdKKRgZGBnoGBmZ6BhYk5kGFgCHSiEheXo1VAZmJefpCHQ41BjUI1lwIQ2BiaadmBWTUKpgq6CmZADKKNgbhGwQhIGoJE46EMiJAukATxQBAmoqtgAMU1UOOQVSLrhRoHJoCWgigQBDNM0ARhEEkIYU0t3Es-KF6ygPso2jAWqBJCAnmm8WCuCZhC8FGlkb2AXQXCAIjxEFEYF-JcCBvuTidqBT1MGDVAUcIEahf1wwRotjMBf9AjzqFuwOk_asWZrp2CowKQcIITziBCmYsLAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ チヨダノオシロ ]
+📊 TMD Song Profile: [ チヨダノオシロ（千代田城） ]
 ================================================================================
 ⏱  Duration:       0:28 (28.7s), 22 measures total
 🎼 Key & Tempo:    首調基準 F, != 92.0 BPM, <2/4>
@@ -123,6 +123,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![チヨダノオシロ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P070.jpg](P070.jpg)
+![チヨダノオシロ（千代田城） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P070.jpg](P070.jpg)
 
 

@@ -1,8 +1,8 @@
 ---
-title: "シヤボンダマ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "シヤボンダマ"
-description: "〈シヤボンダマ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：濱岡泰夫、曲：井上武士），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤボンダマ　アガレ クモマデ　アガレ…"
-keywords: "シヤボンダマ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 濱岡泰夫, 井上武士"
+title: "シヤボンダマ（肥皂泡） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "シヤボンダマ（肥皂泡）"
+description: "〈シヤボンダマ（肥皂泡）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：濱岡泰夫、曲：井上武士），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤボンダマ　アガレ クモマデ　アガレ…"
+keywords: "シヤボンダマ（肥皂泡）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 濱岡泰夫, 井上武士"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "C"
@@ -10,7 +10,7 @@ image: "P026.jpg"
 audio: "shabondama.mp3"
 ---
 
-# シヤボンダマ
+# シヤボンダマ（肥皂泡）
 
 <audio controls src="shabondama.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "shabondama.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫孩子吹起肥皂泡，泡泡在陽光下飛舞、破裂。
 
 原書資訊與歌詞全文（對應 P026.jpg，書頁 p. 11，第一學期第 8 首）：
 調性與拍號：ハ調二拍子（C 大調 2/4 拍），「ウレシゲニ」
@@ -53,7 +56,7 @@ audio: "shabondama.mp3"
 
 ```abc
 X:1
-T:シヤボンダマ
+T:シヤボンダマ（肥皂泡）
 C:曲：井上武士
 M:2/4
 L:1/16
@@ -68,14 +71,14 @@ z2 e2 z2 e2 | z2 e2 e2 z2 | !p! G2 G2 G2 A2 | G2 G2 G2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shabondama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG7a_rh5yePmOY-bNz9ubnjcPE9BS4tL0VbB0MCCy95WwZnLxkjfxA5kwIuV897vmfVs_8anmxY-27zh6ZLVYHOfzd4EFH6ya-qTHV3P1i57uhgi_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-nrHi_pwMUoHrAANUDBSiQYWD0fk-nEheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AdwH9-7R1xbNp7UBXPN3Q-6y9UyHAwMhML6sg_f2eHqDilwsaFQr0FAwNgVyQw3c0AB3-bM58IFvBQuHlsmlAlwKDBmT6i1X7nzUsB5nb3fti5nyg6OPmfqAg0LNAkadrJwDtcFZ4umQ5UEwBGOAKQFGwbmDo9DxuWva4eQ0oppo2PW7uftzQywUyE2gfiMKMwccNDY-bFj1uWgPUBVGx_nHzIpBEczuGXHMbWB82OaBzHjetfdwENLwP6NzHTVtB3OZusNwGCB8uBzS_AyQHdtmuHtwuAykDcbG5DEUOzWXIcuguAzkcj-Mg_oK4DyhNeYKBAgUtfS6u4IzEpPy8lMTcRKuAzMS8fIcagxqFapA9CjaGZlp2YBa21KoASTMvFvYoaJiA3Px8fYMOchJ7OmH1087ep0v7FYyg0ppYTAG6AWrDy1l9Tyf0WiloQHRpgoRhoAaH6OOmveB4QCKbV-KQAQGEbRpAt2taIZsGNxSbGDgxLAaaDkoNQKoBbNU8qNwisCVrwGIgEt2qXT3Usqq5A8zbDCZBMkhW1SgYKOgqGMcBCTgDSQwuAYzfgloFUyALhs3AosgiYHXg3IA78nf14Ih84uIZElNQEhp386G-7IQHJUQMGjJQcQiJ0Icugy0KwLENzLBgBeD4AgcpMHdCAx1bHIIMbkMKcMI6MGIdj5VY4xKvlfhjvzoXGK2gqARFKCgSjcHRaggkjaA8aPTnptUqGIKSgy6IAmkBKQcqBYmBCSN4YiGQCHZ0UpgIIFE2HxyGyFGLloXBMrAAgiScTjALLenAeQjz0OMFmhRWgRXOBrLWAvESMK8PakE_2OKtYHItWKYbItEIFloClsSuaRE4mh4374Fpw5Ik6Gw1cowDSwFg3IKZqLkeLIQoHkCS4LSBSEgQlhE4QUGSRi0Xl66dAqIKUQDylLm4AA)]
+- [主旋律 TMD 檔案](shabondama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG7a_rh5yePmOY-bNz9ubnjcPO_9no4XTUufz2p6tnnh-z2dClpaXIq2CoYGFlz2tgrOXDZG-iZ2IPNerAQqnfVs_8anmxY-27zh6ZLVYGuezd4EFH6ya-qTHV3P1i57uhgi_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-nrAA6DRS-esDw1QOFL5BhYAR0oxKXvpYC0OLns9e9WLXq2Yw-LgUFhSc71j6b1v5i-eKX7d0gh_b3P12_-unalU_XTng6YeeLrduRfNkDJIHo6ZwVL2fufdra-WRH98vFs190zHvc0Ph8wZYXi5seNzRxaelzgSyypRYAufJp3_xns3e82Nz-YkXXi452oP-B4fq0dQXQ6UDfPt3Q-6y9UyHAwMhML6sgHeTQ2TteLmhUKNBTMDQEckEBtKMBGEDP5swHshUsFF4umwYMEaCHQaa_WLX_WcNykLndvS9mzgeKPm7uBwoCAxUoAgwJoB3OCk-XLAeKKQAjVgEoCtYNjIWex03LHjevASWQpk2Pm7sfN_RyQcK1AURhJpzHDQ2PmxY9bloD1AVRsf5x8yKQRHM7hlxzG1gfNjmgcx43rX3cBDS8D-jcx01bQdzmbrDcBggfLgc0vwMkB3bZrh7cLgMpA3GxuQxFDs1lyHLoLgM5HI_jIP6CuA8oTXmCgQIFUEIMzkhMys9LScxNtArITMzLd6gxqFGoBtmjYGNopmUHZmFLrQqQNPNiYY-ChgnIzc_XN-ggJ7GnE1Y_7ex9urRfwQgqrYnFFKAboDa8nNX3dEKvlYIGRJcmSBgGanCIPm7aC44HJLJ5JQ4ZEEDYpgF0u6YVsmlwQ7GJgRPDYqDpoNQApBrAVs2Dyi0CW7IGLAYi0a3a1UMtq5o7wLzNYBIkg2RVjYKBgq6CcRyQgDOQxOASwPgtqFUwBbJg2AwsiiwCVgfODbgjf1cPjsgnLp4hMQUloXE3H-rLTnhQQsSgIQMVh5AIfegy2KIAHNvADAtWAI4vcJACcyc00LHFIcjgNqQAJ6wDI9bxWIk1LvFaiT_2q3OB0QqKSlCEgiLRGBythkDSCMqDRn9uWq2CISg56IIokBaQcqBSkBiYMIInFgKJYEcnhYkAEmXzwWGIHLVoWRgsAwsgSMLpBLPQkg6chzAPPV6gSWEVWOFsIGstEC8B8_qgFvSDLd4KJteCZbohEo1goSVgSeyaFoGj6XHzHpg2LEmCzlYjxziwFADGLZiJmuvBQojiASQJThuIhARhGYETFCRp1HJx6dopIKoQBSBPmYsLAA)]
 - [鋼琴伴奏 TMD 檔案](shabondama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP1x85LHzXMeN29-3NzwuHne-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MCCy95WwZnLxkjfxI6rTkHpxUqghlnP9m98umnhs80bni5ZrQQSfjZ7E1D4ya6pT3Z0PVu77OliiPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ1fN07Y6nO7c8n7IC6EAjAyMDPQMDMz0DCxNzIMPACOhGJS6u4IzEpPy8lMTcRKuAzMS8_CAPhxqDGoVqLgUgsDE007IDs_S1FGzRgQLIlh0NLxb2KGiYKDzd0P98fYOOQoCBkZleVkH6-z09TyesftrZCwwRBSOotCYWU7T0wTbUKBgo6CoYxwEJOANJDC4BdFtBrYIpkAXDZmBRZBGwOi78Dt_Vg8PheN1YnQu0HGQhyFqQVcZgyw2BpBGUB3VkblqtgiHI0bogCqQFpByoFCQGJozgXiLg1B2d5DkV5gJg2AHtAjNRwwoshAhUkCTYrQiPQVhGYA9CnFqLmWZ8UNKMCSLJvNgz9fnsjmebgel84cvFLc-2rnu6fdmzzm5IPkE41TBeIdowFsIwgDoGTQw5_E2AUibIykE-RRaMNo0HslDCAV0L1BiwDabxUBbIc7p2Cgj_KWDwlLm4AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ シヤボンダマ ]
+📊 TMD Song Profile: [ シヤボンダマ（肥皂泡） ]
 ================================================================================
 ⏱  Duration:       0:13 (13.3s), 12 measures total
 🎼 Key & Tempo:    首調基準 C, != 108.0 BPM, <2/4>
@@ -128,6 +131,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![シヤボンダマ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P026.jpg](P026.jpg)
+![シヤボンダマ（肥皂泡） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P026.jpg](P026.jpg)
 
 

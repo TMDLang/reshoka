@@ -1,8 +1,8 @@
 ---
-title: "スズフルオウマ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "スズフルオウマ"
-description: "〈スズフルオウマ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：山本壽），調號拍號：A 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤンコロシヤンコ　シヤンコロシヤンコ スズフリー　フリーフーリ…"
-keywords: "スズフルオウマ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山本壽"
+title: "スズフルオウマ（鈴鐺響的小馬） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "スズフルオウマ（鈴鐺響的小馬）"
+description: "〈スズフルオウマ（鈴鐺響的小馬）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：山本壽），調號拍號：A 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤンコロシヤンコ　シヤンコロシヤンコ スズフリー　フリーフーリ…"
+keywords: "スズフルオウマ（鈴鐺響的小馬）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山本壽"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "A"
@@ -10,7 +10,7 @@ image: "P063.jpg"
 audio: "suzu_furu_ouma.mp3"
 ---
 
-# スズフルオウマ
+# スズフルオウマ（鈴鐺響的小馬）
 
 <audio controls src="suzu_furu_ouma.mp3"></audio>
 
@@ -19,8 +19,8 @@ audio: "suzu_furu_ouma.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= A，拍號 <2/4>，速度 != 108
+曲目說明
+中文解釋：描寫馬兒掛著鈴鐺奔跑，鈴聲清脆悅耳。
 
 ## 歌詞
 
@@ -42,7 +42,7 @@ audio: "suzu_furu_ouma.mp3"
 
 ```abc
 X:1
-T:スズフルオウマ
+T:スズフルオウマ（鈴鐺響的小馬）
 C:曲：山本壽
 M:2/4
 L:1/16
@@ -59,14 +59,14 @@ C2 E2 F2 A B | c2 c e c B A2 | B2 A B c2 B2 | A6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suzu_furu_ouma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2vm4adfj5qmPm1c_blr1uGnZ4-Z5ClpaXIq2CoYGFlz2tgqOXDZG-iZ2IDOezd70fs-spxs3Ppuz5univWBzX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFe_3dIBCTg8YcnqgkAMyDAzf7-lU4uLS1-ICquR63LT9cfOSx82bHzdtfty8FoXb0IBHFqgT7sVVj5v3gFTD2SAGkFzF9bh5xeOmRSBO08bHzX0wdfMeNzc-bt4ENGM9SEfTJqgcNKSAWoEqgNw1YNUdj5tnQ8wDiTft5OJ6squHEpc3r3_ctB8sBHYassuB4iByCdD4dWA7gbphzgZ6GCS3izhng0RWgi0FuhloFVC2i0tLn4vLNzEzzyogMzEv36HGoEahmksBCGwMzbTswKwaBUMFXQXTeBAyi4cwdXGKGsPZYFFDBSOQIJBlrGAKxEZgbTVQg42gKkDyIJkaiCaEeQaUmglzKAyCDeSq5eLStVMA-VsBiVbm4gIA)]
+- [主旋律 TMD 檔案](suzu_furu_ouma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2vm4adfj5qmPm1c_blr1uGnZ4-Z57_d0vOzY8nLCrpfz9z-f1fJ0Q__LZWve7-lU0NLiUrRVMDSw4LK3VXDksjHSN7EDmf1s9qb3e2Y93bjx2Zw1TxfvBdv3on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esALoEFKJ6wBDVA4UokGFgCHSJEpe-lgLQ1uez171YterZjD4uBQWFJzvWPpvW_mL54pft3UDnPOvvf7p-NdDlQLue9c1-MXE6xFNPl055sX3i-z09QO6Lxk3PdrS-aGl71tT6omHz44YmLi19LqDhXEBXcD1u2v64ecnj5s2PmzY_bl6Lwm1owCML1AkP1lWPm_eAVMPZIAaQXMX1uHnF46ZFIE7TxsfNfTB18x43Nz5u3gQ0Yz1IR9MmqBw0doBagSqA3DVg1R2Pm2dDzAOJN-3k4nqyq4cSlzevf9y0HywEdhqyy4HiIHIJ0Ph1YDuBumHOBnoYJLeLOGeDRFaCLQW6GWgVULYLHPK-iZl5VgGZiXn5DjUGNQrVoHhVsDE007IDs2oUDBV0FUzjQcgsHsLUxSlqDGeDRQ0VjECCQJaxgikQG4G11UANNoKqAMmDZGogmhDmGVBqJsyhMAg2kKuWi0vXTgHkbwUkWpmLCwA)]
 - [鋼琴伴奏 TMD 檔案](suzu_furu_ouma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx067HzVMfN69-3LTqcdOyx83z3u_peNw85XHTosfNfU_2bHm6tP_J7hnv93QqaGlxKdoqGBpYcNnbKjhy2Rjpm9hx1SkoPZu96f2eWU83bnw2Z83TxXuVQGIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoEuMDIwM9AwMzPQMLEzMgQwDQ6BLlLi4fBMz86wCMhPz8oM8HGoMahSquRSAwMbQTMsOzKpRMFTQVTCNByGzeAhTF6eoMZwNFjVUMAIJAlnGCqZAbATWVgM12AiqAiQPkqmBaEKYZ0CpmTCHwiDYQK5aZG_7oHjbAu7raMNYoGIIiYNnEo9FEqbdFCwJ1wFRC-IakGYAhIKpAXkB7AFdOwWQHxSQaGUuLgA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ スズフルオウマ ]
+📊 TMD Song Profile: [ スズフルオウマ（鈴鐺響的小馬） ]
 ================================================================================
 ⏱  Duration:       0:22 (22.2s), 20 measures total
 🎼 Key & Tempo:    首調基準 A, != 108.0 BPM, <2/4>
@@ -120,6 +120,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![スズフルオウマ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P063.jpg](P063.jpg)
+![スズフルオウマ（鈴鐺響的小馬） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P063.jpg](P063.jpg)
 
 

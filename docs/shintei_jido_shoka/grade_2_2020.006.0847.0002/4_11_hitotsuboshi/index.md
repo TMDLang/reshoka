@@ -1,8 +1,8 @@
 ---
-title: "一ツボシ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "一ツボシ"
-description: "〈一ツボシ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（曲：室崎琴月），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ザンザザンブリコト　ヨセテハカヘス 海ノオキベノ　アノ一ツボシ　一ツボシ…"
-keywords: "一ツボシ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 室崎琴月"
+title: "一ツボシ（一顆星） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "一ツボシ（一顆星）"
+description: "〈一ツボシ（一顆星）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（曲：室崎琴月），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ザンザザンブリコト　ヨセテハカヘス 海ノオキベノ　アノ一ツボシ　一ツボシ…"
+keywords: "一ツボシ（一顆星）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 室崎琴月"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "B,"
@@ -10,7 +10,7 @@ image: "P064.jpg"
 audio: "hitotsuboshi.mp3"
 ---
 
-# 一ツボシ
+# 一ツボシ（一顆星）
 
 <audio controls src="hitotsuboshi.mp3"></audio>
 
@@ -19,8 +19,8 @@ audio: "hitotsuboshi.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
-・調性與拍號：調號 ?= B,，拍號 <2/4>，速度 != 88
+曲目說明
+中文解釋：描寫夜空中閃耀的一顆星，以及孩子仰望星空的心情。
 
 ## 歌詞
 
@@ -42,7 +42,7 @@ audio: "hitotsuboshi.mp3"
 
 ```abc
 X:1
-T:一ツボシ
+T:一ツボシ（一顆星）
 C:曲：室崎琴月
 M:2/4
 L:1/16
@@ -57,14 +57,14 @@ e2 f2 g2 a2 | b6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hitotsuboshi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxcWlpKTzZ0fC4ueVx85zHTdsVtLS4FG0VLCy47G0VnHS4bIz0TexAel-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smunqdrdzzdueX5lBXv93SAQkcPGDp6oNABMgyM3u_pBLvu2exN7_fMerpuydMtfc8nbHk2pwPoPH0tLqDzuB43bXvcvBlEQhjN0x43r3rcBGR0PG4Aun7F46bdj5vbHjf3P25a_bh5xuOmnVzPtm5_3Nz3uAmobu3j5pkgNlBp0yIgA9nHQEFkLhcX0MEgOxEKmrY-bp4H1gs3qhts2ZrHzROATlvyuGkv2CagzUDTF4JcAXJUF0g1SBDoqJ2YIkCbdnQCtcN1AT2xDKqmeQlYPZC78v2e_vd79jzd0faiYydQ9SKQBqCVzZNAGoBubNoIVjof5EyQzk0gs5o2PG5eDRYHuhHK5dLS5-LyTczMswrITMzLd6gxqFGo5lIAAhtDMy07MKtGwTBOQRcMTYHYDIhrwCxjIDZSMARikAiIB5KDydRANYP4MGwAVglSBTMNbHSNglGcgnGcggmIA6SBxoKFEdabgjWBRUEQ6iQEATHYBMmJ5ghlMAhWxFXLxaVrpwDyswKQVubiAgA)]
+- [主旋律 TMD 檔案](hitotsuboshi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxcWlpKTzZ0fC4ueVx85zHTdvf7-kAcl8ubHs2Y_77PZ0KWlpcirYKFhZc9rYKTjpcNkb6JnYgo16073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smunqdrdzzdueX5lBVAy0CBpQcMLD1QYAEZBkZAW5W49LUUns3e9Hz2uherVj2b0celoAB05dpn09pfLF_8sr37_Z5Zz_r7n65f_XTJnOcrdwGlXk5rftHQ8HxWC5Lre57sXvq0v-vp2pVP1054snvDszmzgeJA9UBlT_c3P2tufdzQxKWlD_IP0DagoU_XLXm6pe_5hC3P5nQAw0ZfiwtoHNfjpm2PmzeDSAijedrj5lWPm4CMjscNwKBb8bhp9-PmtsfN_Y-bVj9unvG4aSfXs63bHzf3PW4Cqlv7uHkmiA1U2rQIyEAObqAgMpeLCxg8IDsRCpq2Pm6eB9YLN6obbNmax80TgE5b8rhpL9gmoM1A0xeCXAFyVBdINUgQ6KidmCJAm3Z0ArXDdQE9sQyqpnkJWD2Qu_L9nv73e_Y83dH2omMnUPUikAaglc2TQBqAbmzaCFY6H-RMkM5NILOaNjxuXg0WB7oRygUFM5dvYmaeVUBmYl6-Q41BjUI1KFoVbAzNtOzArBoFwzgFXTA0BWIzIK4Bs4yB2EjBEIhBIiAeSA4mUwPVDOLDsAFYJUgVzDSw0TUKRnEKxnEKJiAOkAYaCxZGWG8K1gQWBUGokxAExGATJCeaI5TBIFgRVy0Xl66dAsjPCkBamYsLAA)]
 - [鋼琴伴奏 TMD 檔案](hitotsuboshi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ4sqPhcXPL4-Y5j5u2v9_T8WTPlqdL-5_snvF-T6eClhaXoq2ChQWXva2Ckw6XjZG-iR1XnYLSi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dXzdO2Opzu3PJ-yAmiZkYGRgZ6BgZmegYWJOZBhYAS0VQlkw7PZm97vmfV03ZKnW_qeT9jybE6HEheXb2JmnlVAZmJefpCHQ41BjUI1lwIQ2BiaadmBWTUKhnEKumBoCsRmQFwDZhkDsZGCIRCDREA8kBxMpgaqGcSHYQOwSpAqmGlgo2sUjOIUjOMUTEAcIA00FiyMsN4UrAksCoJQJyEIiMEmSE40RyiDQbAirlpkL_vg9HI8UHG0YSzIAgQTRdw0Hsw2jceQQdYBCwVkxVAK6miwhAmGTUjiphC9yOYR5Q4IiWENURpA4aRrpwAKKgUgrczFBQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 一ツボシ ]
+📊 TMD Song Profile: [ 一ツボシ（一顆星） ]
 ================================================================================
 ⏱  Duration:       0:13 (13.6s), 10 measures total
 🎼 Key & Tempo:    首調基準 B,, != 88.0 BPM, <2/4>
@@ -116,6 +116,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![一ツボシ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P064.jpg](P064.jpg)
+![一ツボシ（一顆星） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P064.jpg](P064.jpg)
 
 

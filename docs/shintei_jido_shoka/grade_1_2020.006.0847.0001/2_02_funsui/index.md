@@ -1,8 +1,8 @@
 ---
-title: "フンスヰ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "フンスヰ"
-description: "〈フンスヰ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：梁田貞），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オイケノフンスヰ オモシロイ…"
-keywords: "フンスヰ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 梁田貞"
+title: "フンスヰ（噴泉） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "フンスヰ（噴泉）"
+description: "〈フンスヰ（噴泉）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：梁田貞），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オイケノフンスヰ オモシロイ…"
+keywords: "フンスヰ（噴泉）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P032.jpg"
 audio: "funsui.mp3"
 ---
 
-# フンスヰ
+# フンスヰ（噴泉）
 
 <audio controls src="funsui.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "funsui.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫噴泉向上噴起、閃耀散落的水花。
 
 原書資訊與歌詞全文（對應 P032.jpg，書頁 p. 17，第二學期第 2 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「オモシロク」
@@ -51,7 +54,7 @@ audio: "funsui.mp3"
 
 ```abc
 X:1
-T:フンスヰ
+T:フンスヰ（噴泉）
 C:曲：梁田貞
 M:2/4
 L:1/16
@@ -67,14 +70,14 @@ d2 d2 c4 | A2 A2 F4 | C2 A2 A2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](funsui.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5YnlqQWKXFpaSk8bp76uHnz46adj5s3KGhpcSnaKliacdnbKrhx2Rjpm9iBNL5YOe_9nlkvJs5-2jf_w7KNm8GmPZu9CSj4bFHj8ykbXmyaBxZ70b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWvN_TAQpDPWAY6oHCEMgwMHy_p1OJi0tfS8GWWoBLQUEB6J9ns3e82Nz-YkXXi452oLuAXn3auuLZtHagK55u6H3W3qkQYGBspJdVkP5-Tw9Q8csFjQoFegqG5kAuyOG7eoAOfzZnPpCtYKTwctk0oEuB4QIy_cWq_c8aloPM7e59MXM-UPRx8wygIFAPUOTp2glAO9wUni5ZDhRTAIa1AlAUrBsYOj2Pm1Y9bl70uGn74-a1j5vWP27o5QKZCQwoEAWSbVryuGnj4-Y-5BiEySF0LgELNU963NzyuGnt42agXBdYrhsiMf9xc-vj5glgoZUQ7UDWssdNyx43NMDZBCT2P25aDXJkE9DaNSCbmtuwuQTsgV09hD2w83HTLpA2oIrmLogQ0Pw9QEeD1ALZzUBboFZA_NQHsrt5IURoK9ArYEeCGEhCzatgZjXPBpkFcu5-ZOdi2Et5MoMCBS19Li630rzi0kyrgMzEvHyHGoMahWqQHQo2hmZadmAWtvStAMkeLxb2KGiYKDzd0P98fYMOPFFqYtEAtApkWI2CabyCLoQwBGJjIAaKAUkQNIPSMBEzMA1RA1INgwYgEXDM4Xbdrh5yXAeyC2SjEZpLIK4AuaEGKmcM5pmBPAL1FCmu29FJjuvAtsEg2E7UcIEKQTwBgRAnwzxBpPOezp5NlvOgUQizDeISWMBBgxPkRJgwKCSxxWwtF5eunQIkZSoAWcpcAA)]
+- [主旋律 TMD 檔案](funsui.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5YnlqQWKXFpaSk8bp76uHnz46adj5s3vN_T8XTmlmebO9_v6VTQ0uJStFWwNOOyt1Vw47Ix0jexAxnyYuW893tmvZg4-2nf_A_LNm4Gm_xs9iag4LNFjc-nbHixaR5Y7EX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuxoeLp2x9OdW55PWQF0ESg89YDhqQcKTyDDwBDoOiUufS0FoK3PZ697sWrVsxl9XAoKCk92rH02rf3F8sUv27tBzunvf7p-NcRDTydMfLKjC8h-sXX744bGl9OaXzQ0PJu6-MWEvc9ntTzbsOVF18bHDU1cWvpcIJNtqQVAzgIG1LPZO15sbn-xoutFRzvQw8AwfNq6AuhWUIBv6H3W3qkQYGBspJdVkP5-Tw9Q8csFjQoFegqG5kAuKER29QBD5Nmc-UC2gpHCy2XTgEEA9CHI9Ber9j9rWA4yt7v3xcz5QNHHzTOAgkA9QJGnaycA7XBTeLpkOVBMARiJCkBRsG5gsPc8blr1uHnR46btj5vXPm5a_7ihlwsSkA0gCiTbtORx08bHzX3IyQQmh9C5BCzUPOlxc8vjprWPm4FyXWC5bojE_MfNrY-bJ4CFVkK0A1nLHjcte9zQAGcTkNj_uGk1yJFNQGvXgGxqbsPmErAHdvUQ9sDOx027QNqAKpq7IEJA8_cAHQ1SC2Q3A22BWgHxUx_I7uaFEKGtQK-AHQliIAk1r4KZ1TwbZBbIufuRnYthL-XJDAoUQMnXrTSvuDTTKiAzMS_focagRqEaZIeCjaGZlh2YhS19K0Dy3YuFPQoaJgpPN_Q_X9-gA0-Umlg0AK0CGVajYBqvoAshDIHYGIiBYkASBM2gNEzEDExD1IBUw6ABSAQcc7hdt6uHHNeB7ALZaITmEogrQG6ogcoZg3lmII9APUWK63Z0kuM6sG0wCLYTNVygQhBPQCDEyTBPEOm8p7Nnk-U8aBTCbIO4BBZw0OAEOREmDApJbDFby8Wla6cASZkKQJYyFwA)]
 - [鋼琴伴奏 TMD 檔案](funsui_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPPVx8-bHTTsfN294v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cdkY6ZvYcdUpKL1YOe_9nlkvJs5-2jf_w7KNm5VAgs9mbwIKPlvU-HzKhheb5oHFXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFUCnGRkYGegZGJjpGViYmAMZBoZA1ylxcbmV5hWXZloFZCbm5Qd5ONQY1ChUcykAgY2hmZYdmKWvpWCLDhQgNrxY2KOgYaLwdEP_8_UNOgoBBsZGelkF6ZpYNGjpgw2rUTCNV9CFEIZAbAzEQDEgCYJmUBomYgamIWpAqmHQACTChd91u3rIcR3ILpCNRmgugbgC5IYaqJwxmGcG8gjUU6S4bkcnOa4D2waDYDtRwwUqBPEEBEKcDPMEkc57Ons2Wc6DRiHMNohLYAEHDU6QE2HCoJDEFrO1qAnTByVhmkDTJVBjvEK0YSyUYQJjwEQMgAYh1JnGo8gbxQNZRmAxUyATodYEJGGCqhjOQFeKTR5hE0gl0Ce6dgoQzyigsJS5AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ フンスヰ ]
+📊 TMD Song Profile: [ フンスヰ（噴泉） ]
 ================================================================================
 ⏱  Duration:       0:20 (20.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
@@ -127,6 +130,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![フンスヰ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P032.jpg](P032.jpg)
+![フンスヰ（噴泉） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P032.jpg](P032.jpg)
 
 

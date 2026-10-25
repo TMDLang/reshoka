@@ -1,8 +1,8 @@
 ---
-title: "カーレンサン — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "カーレンサン"
-description: "〈カーレンサン〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　カーレンサン オマヘノ　カアチヤン…"
-keywords: "カーレンサン, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "カーレンサン（花蓮港） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "カーレンサン（花蓮港）"
+description: "〈カーレンサン（花蓮港）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　カーレンサン オマヘノ　カアチヤン…"
+keywords: "カーレンサン（花蓮港）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,13 +10,16 @@ image: "P042.jpg"
 audio: "karensan.mp3"
 ---
 
-# カーレンサン
+# カーレンサン（花蓮港）
 
 <audio controls src="karensan.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：歌唱臺灣花蓮港的地方風景與熱鬧景象。
 
 原書資訊與歌詞全文（對應 P042.jpg，書頁 p. 27，第三學期第 3 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍）
@@ -52,7 +55,7 @@ audio: "karensan.mp3"
 
 ```abc
 X:1
-T:カーレンサン
+T:カーレンサン（花蓮港）
 M:2/4
 L:1/16
 Q:1/4=96
@@ -67,14 +70,14 @@ A2 A2 G2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](karensan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJCanKnFpaSk8blr9uHnP4-Y1j5s3P27aCiQVtLS4FG0VLM247G0V3LhsjPRN7EDaX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFe_3dIACSA8YQHqgAAIyDAzf7-lU4uLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3orhcr5z1tXfFsWjvQFU839D5r71QIMDAx0ssqSH-_pweo-OWCRoUCPQUjcyAX7PBOoMOfzZkPZCsYK7xcNg3o0vd7ZoFMf7Fq_7OG5SBzu3tfzJwPFH3cPAMo-GRXD1Dk6doJQDvcFJ4uWQ4UUwAGoQJQFKibC6QXGCCPGxowQx4k97hp1ePmeUCzHjf3QRU1LXrc3Pi4eQlMRXPn46bNj5u7QdLNGx43r4bo2w0ypxkotBks0f-4uQtkbNN6qLFPN24ES3QDzYSY0wXW0QG2Zu3jJqAFbY-bF0GUAyXAdgBtBpsGcfguYNwS6XCguU3LiHL4CqCOZ3NAJFhiPogBlQOxgNrnUeJwoCjlCQoKFLT0ubi8E4tS84oT86wCMhPz8h1qDGoUqkG2KNhYaNmBGdiSsgIkJ7xY2KOgYaLwdEP_8_UNOvD0p4lFA9AuqGEvZ_U9ndBrBfT5fJAIkF4DJ2tA4QoWhQGgSNNecFigkyC1KyEmIIki7NEAOlATaE3Taqg1e1Cs2QzWAi4j4BatAquYByZnQKIMKgNMuAvBAsAksBiqG9mqXT3UsgqU1JbisKoGmHF1FYyAsEbBEMjSVTAAskyhsEbBDCgCZoETOO6Y29VDhZiDkaD4gpAg14P8jAAgESS1aLGH3RTMGIRINoGDsbkbTG6AGgEJcCTrmnaD5SFqG-BskNp-MK8LEhlgcj2adZBYJMm6FWB5UNwBcy-cjfAdWAasD5IqkGLSGBiHhkCWETwmQWKQmITLEojJHZ3gmDQmOyYReQ9GgtyNNSaRcyA072LJbZCEvQRMQpI3KAjBeQjdQEhcQOOqA8NAaGxAQpBCA0GhDILGKOENCmtQjiIQyk9nz6YwlEHlFJTEkwfwlYNYQhqc3JogAdMGJhdBAwYSAMgJuBFqKCgPYDcUWoJRzVBQaWSGlJrRSi2uWi4uXTsFWPWjAGQrc3EBAA)]
+- [主旋律 TMD 檔案](karensan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJCanKnFpaSk8blr9uHnP4-Y1j5s3P27aCiTf7-l40bXxxeR1z3asf7-nU0FLi0vRVsHSjMveVsGNy8ZI38QOZNqL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7ICaBcovPSA4aUHCi8gw8AQaKkSl76WwrPZm57PXvdi1apnM_q4FBQUnuxY-2xa-4vli1-2d7_fMwtoMtB8iDPgDn4-q-XpnA3Ppu18uWjFs5nrX3S0P2_b-HLNchB748LHDU1cWvpcIMNtqQVALnvaN__Z7B0vNre_WNEFtBLoshcr5z1tXQF0LtCHTzf0PmvvVAgwMDHSyypIf7-nB6j45YJGhQI9BSNzIBccKJ3AQHk2Zz6QrWCs8HLZNGAoAD0JMv3Fqv3PGpaDzO3ufTFzPlD0cfMMoOCTXT1AkadrJwDtcFN4umQ5UEwBGD0KQFGgbi5ImDU8bmjAjGSQ3OOmVY-b5wHNetzcB1XUtOhxc-Pj5iUwFc2dj5s2P27uBkk3b3jcvBqibzfInGag0GawRP_j5i6QsU3rocY-3bgRLNENNBNiThdYRwfYmrWPm4AWtD1uXgRRDpQA2wG0GWwaxOG7gOmGSIcDzW1aRpTDVwB1PJsDIsES80EMqByIBdQ-jxKHA0UpT1BQoABKqN6JRal5xYl5VgGZiXn5DjUGNQrVIFsUbCy07MAMbElZAZLLXizsUdAwUXi6of_5-gYdePrTxKIBaBfUsJez-p5O6LUC-nw-SARIr4GTNaBwBYvCAFCkaS84LNBJkNqVEBOQRBH2aAAdqAm0pmk11Jo9KNZsBmsBRTjColVgFfPA5AxIlEFlgAl3IVgAmAQWQ3UjW7Wrh1pWgZLaUhxW1QAzrq6CERDWKBgCWboKBkCWKRTWKJgBRcAscALHHXO7eqgQczASFF8QEuR6kJ8RACSCpBYt9rCbghmDEMkmcDA2d4PJDVAjIAGOZF3TbrA8RG0DnA1S2w_mdUEiA0yuR7MOEoskWbcCLA-KO2DuhbMRvgPLgPVBUgVSTBoD49AQyDKCxyRIDBKTcFkCMbmjExyTxmTHJCLvwUiQu7HGJHIOhOZdLLkNkrCXgElI8gYFITgPoRsIiQtoXHVgGAiNDUgIUmggKJRB0BglvEFhDcpRBEL56ezZFIYyqJyCknjyAL5yEEtIg5NbEyRg2sDkImjAQAIAOQE3Qg0F5QHshkJLMKoZCiqNzJBSM1qpxVXLxaVrpwCrfhSAbGUuLgA)]
 - [鋼琴伴奏 TMD 檔案](karensan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx857HzWseN29-3LQVSL7f0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFSzNuOxtFdy4bIz0Tey46hSUXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFUAbjQyMDPQMDMz0DCxMzIEMA0OgpUpcXN6JRal5xYl5VgGZiXn5QR4ONQY1CtVcCkBgY6FlB2boaynYogMFiBUvFvYoaJgoPN3Q_3x9g45CgIGJkV5WQbomFg1a-mDDahSMFXQVjICwRsEQyNJVMACyTKGwRsEMKAJmceG3e1cPeXYbA201BLKM4HaDxCB2w2UJ2L2jE2y3MWl2g_xsBLQB2W6QvaDwIGDj09mzybHRDAgRPkMLc65a9Nj3QYl9E0Tsv9gz9en-1cAgf9bd-3TthKfblz3r7IakXoRlhvEK0YaxEAbIa3C-CZBhAmSgqzONR1MIY0AVguSjTeOxKYWqgJmMrBRiO8hzunYKMP8poLGVubgA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ カーレンサン ]
+📊 TMD Song Profile: [ カーレンサン（花蓮港） ]
 ================================================================================
 ⏱  Duration:       0:17 (17.5s), 14 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
@@ -127,6 +130,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![カーレンサン — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P042.jpg](P042.jpg)
+![カーレンサン（花蓮港） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P042.jpg](P042.jpg)
 
 

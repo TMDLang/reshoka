@@ -1,8 +1,8 @@
 ---
-title: "ササノフネ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ササノフネ"
-description: "〈ササノフネ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：近藤義次），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オニハノ　イケノ　マサナノ　カフネ ボクタガ　ツクツタ　ササノフネ…"
-keywords: "ササノフネ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 近藤義次"
+title: "ササノフネ（竹葉船） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ササノフネ（竹葉船）"
+description: "〈ササノフネ（竹葉船）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：近藤義次），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オニハノ　イケノ　マサナノ　カフネ ボクタガ　ツクツタ　ササノフネ…"
+keywords: "ササノフネ（竹葉船）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 近藤義次"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P054.jpg"
 audio: "sasa_no_fune.mp3"
 ---
 
-# ササノフネ
+# ササノフネ（竹葉船）
 
 <audio controls src="sasa_no_fune.mp3"></audio>
 
@@ -19,8 +19,8 @@ audio: "sasa_no_fune.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= D，拍號 <2/4>，速度 != 100
+曲目說明
+中文解釋：孩子把竹葉折成小船，想像它順水漂流。
 
 ## 歌詞
 
@@ -48,7 +48,7 @@ audio: "sasa_no_fune.mp3"
 
 ```abc
 X:1
-T:ササノフネ
+T:ササノフネ（竹葉船）
 C:曲：近藤義次
 M:2/4
 L:1/16
@@ -72,14 +72,14 @@ d2 d2 d2 B2 | A3 F A4 | F3 F E2 E2 | D6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sasa_no_fune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8btoKQs19j5unPm7uVdDS4lK0VTA0MOCyt1Vw4bIx0jexAxnwbPam93tmvdg_8cX0Jc_3rXy2ZiHY3Bftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKj4enaHU93bnk-ZcX7PR2gkNMDhpweKOSADAPD93s6lbi49LW4gCq5Hjetetzc_bi5H-TQhobHTUseN22EspvngT3QBZNaDfEJ1-PmOY-b1j9u2v-4aQ1YXQuICyL3g9Wh-Btow97HzSugJMSYpj0wnVNBOkGC-x83TwaLdAM17AQ7A0yC5ICMnY-bF4Cl-8EOXvS4afvj5rVABVxcT3b1ALUsArkTZArE5SCbHzd3gNkQlwLVo0gBfdHyuLkVZEdzG1gC6M-Vj5s3P25uh7moD6QN5J1lEBv2gD0CcRTYFxAfgQIP6F6wR0A-2gg0uxNsEphEeGEhluABxkIn0PS1j5vXgN0C9AUSG1twQmyGeBioCCjRDQsaoCeBkQQU6Yc4GGgMhAQauflx0zqw-8EhDwxFkOq2x83LgC4HqwYhlLCFBRfQHqAgMP4mc2npc3H5JmbmWQVkJublO9QY1ChUcykAgY2hmZYdmFWjYKqgC4SmCsZA0giIaxQMwSKGYB4I1oDldIEkSK0ZWASiCwINQCJQ00CyIDUweaBpcRDj4sByIHGEeSAbwPI1cMvQDcR0HrJmUp0HtgxBICuGaEc1EGQFcpggG1jLxaVrpwAKXgUstDIXFwA)]
+- [主旋律 TMD 檔案](sasa_no_fune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8btoKQs19j5unPm7ufb-n4_nqnS8mdr7o2Pl-T6eClhaXoq2CoYEBl72tgguXjZG-iR3IvGezN73fM-vF_okvpi95vm_lszULwda8aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgG4ABaQeMCD1QAEJZBgYAh2jxKWvpQC0-PnsdS9WrXo2o49LQUHhyY61z6a1v1i--GV7N9BFT9eufLp2wrOuLogvnnXNeNYx4emGfrB3ep41b37a3P90XfPLBW3PNmx5tqfp2dbGxw1NXFr6XEDDuYCu4HrctOpxc_fj5n5QmDQ0PG5a8rhpI5TdPA8cVl0wqdWQQON63DzncdP6x037HzetAatrAXFB5H6wOpQgBtqw93HzCigJMaZpD0znVJBOkOD-x82TwSLdQA07wc4AkyA5IGPn4-YFYOl-sIMXPW7a_rh5LVABF9eTXT1ALYtA7gSZAnE5yObHzR1gNsSlQPUoUkBftDxubgXZ0dwGlgD6c-Xj5s2Pm9thLuoDaQN5ZxnEhj1gj0AcBfYFxEegwAO6F-wRkI82As3uBJsEJhFeWIgleICx0Ak0fe3j5jVgtwB9gcTGFpwQmyEeBioCSnTDggboSWAkAUX6IQ4GGgMhgUZufty0Dux-cMgDQxGkuu1x8zKgy8GqQQglbGHBBbQHKAiMv8nglOObmJlnFZCZmJfvUGNQo1ANSpcKNoZmWnZgVo2CqYIuEJoqGANJIyCuUTAEixiCeSBYA5bTBZIgtWZgEYguCDQAiUBNA8mC1MDkgabFQYyLA8uBxBHmgWwAy9fALUM3ENN5yJpJdR7YMgSBrBiiHdVAkBXIYYJsYC0Xl66dAih4FbDQylxcAA)]
 - [鋼琴伴奏 TMD 檔案](sasa_no_fune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctBWEmvseN0993Nz7fk_H4-Ypj5sWAUWe7NnydGn_k90z3u_pVNDS4lK0VTA0MOCyt1Vw4bIx0jex46pTUHo2e9P7PbNe7J_4YvqS5_tWPluzUAkk_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrAA6xsjAyEDPwMBMz8DCxBzIMDAEOkaJi8s3MTPPKiAzMS8_yMOhxqBGoZpLAQhsDM207MCsGgVTBV0gNFUwBpJGQFyjYAgWMQTzQLAGLKcLJEFqzcAiEF0QaAASgZoGkgWpgckDTYuDGBcHlgOJI8wD2QCWr4Fbhm4gpvOQNZPqPLBlCAJZMUQ7qoEgK5DDBNnAWuTQ9UEJXQt44EYbxgIVR5vGgyhcXBNkHsh4mGshMhBx7KoRRkEYKLopsxubbaguQTUKohkYKrp2CqCAUcBCK3NxAQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ササノフネ ]
+📊 TMD Song Profile: [ ササノフネ（竹葉船） ]
 ================================================================================
 ⏱  Duration:       0:57 (57.6s), 48 measures total
 🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <2/4>
@@ -134,6 +134,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ササノフネ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P054.jpg](P054.jpg)
+![ササノフネ（竹葉船） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P054.jpg](P054.jpg)
 
 

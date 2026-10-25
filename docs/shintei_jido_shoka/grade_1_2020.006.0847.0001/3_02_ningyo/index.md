@@ -1,8 +1,8 @@
 ---
-title: "ニンギヤウ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ニンギヤウ"
-description: "〈ニンギヤウ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワタシノニンギヤウハ ヨイニンギヤウ…"
-keywords: "ニンギヤウ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "ニンギヤウ（人偶） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ニンギヤウ（人偶）"
+description: "〈ニンギヤウ（人偶）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワタシノニンギヤウハ ヨイニンギヤウ…"
+keywords: "ニンギヤウ（人偶）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P041.jpg"
 audio: "ningyo.mp3"
 ---
 
-# ニンギヤウ
+# ニンギヤウ（人偶）
 
 <audio controls src="ningyo.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "ningyo.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <4/4>，速度 != 104
+曲目說明
+中文解釋：描寫可愛的人偶，以及孩子與人偶遊玩的情景。
 
 ## 歌詞
 
@@ -51,7 +51,7 @@ audio: "ningyo.mp3"
 
 ```abc
 X:1
-T:ニンギヤウ
+T:ニンギヤウ（人偶）
 C:曲：文部省
 M:4/4
 L:1/16
@@ -71,14 +71,14 @@ F4 F4 G4 G4 | F4 G4 A4 A4 | c4 A4 G4 G4 | F12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ningyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5bmJeckFhdnpmWmpihxaWkpPG7ufty8-XHTusfNSx43LVPQ0uJStFUwNDDhsrdVcOOyMdE3sQOZ8WLlvPd7Zj2b1v6yecXzOY1gc5_N3oQh9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrHi_pwMUmnrA0NQDhSaQYWD4fk-nEheXvhYXUCXX4-b1j5v2P27a_ri5D80Lj5v7gdIrHjctQZMAii4ESj5unvC4uflxc-Pj5lWPmzu4wArXPm7aASKb24GqgDKTHjdtBUk0rQdzF0EULgKrXQmytmkJeW7gerKrh0zXAyWBmpo3wRgzgD4Bqu0FqQKSINPagPxJQLeCvdb-uGkV2Jw2oAeAEl2Pm4AenPe4aTdQB3lu0NLn4vJNzMyzCshMzMt3qDGoUajmUlCwMdGyA1I1CoZAaASEIJaRgjEQ1iiYAkkQrwZI6wKhgUINWK0pEJoBIYQFkgOxzMDsGqB6ZLUgk4wxzEXoR1aLyw0wMZjaWi4uXTsFkG8UkGhlLgA)]
+- [主旋律 TMD 檔案](ningyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5bmJeckFhdnpmWmpihxaWkpPG7ufty8-XHTusfNSx43LXu_p-PJrl1PG7e939OpoKXFpWirYGhgwmVvq-DGZWOib2IHMu_Fynnv98x6Nq39ZfOK53MawXY8m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdBEoZPWAIasHClkgw8AQ6DolLn0tBaCtz2eve7Fq1bMZfVwKCgpPdqwFOuHF8sUv27tBzunvf7p-9dP-9c9aZj-f1QLzWc-T3Uuf9nc9Xbvy6doJLzraIeIvG7ue960EKnvW3Pps5vrHDU1cWvpcQFu4gM7hety8_nHT_sdN2x8396GF2ePmfqD0isdNS9AkgKILgZKPmyc8bm5-3Nz4uHnV4-YOLrDCtY-bdoDI5nagKqDMpMdNW0ESTevB3EUQhYvAaleCrG1aQp4buJ7s6iHT9UBJoKbmTTDGDKBPgGp7QaqAJMi0NiB_EtCtYK-1P25aBTanDegBoETX4yagB-c9btoN1EGeG0Ax4JuYmWcVkJmYl-9QY1CjUA2MaBsTLTsgVaNgCIRGQAhiGSkYA2GNgimQBPFqgLQuEBoo1IDVmgKhGRBCWCA5EMsMzK4BqkdWCzLJGMNchH5ktbjcABODqa3l4tK1UwD5RgGJVuYCAA)]
 - [鋼琴伴奏 TMD 檔案](ningyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P24efPjpnWPm5c8blr2fk_H4-Ypj5sWPW7ue7Jny9Ol_U92z3i_p1NBS4tL0VbB0MCEy95WwY3LxkTfxI6rTkHpxcp57_fMejat_WXziudzGpVAYs9mb8IQe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgBdZ2RgZKBnYGCmZ2BhYg5kGBgCXafExeWbmJlnFZCZmJcf5OFQY1CjUM2loGBjomUHpGoUDIHQCAhBLCMFYyCsUTAFkiBeDZDWBUIDhRqwWlMgNANCCAskB2KZgdk1QPXIakEmGWOYi9CPrBaXG2BiMLW1yJ7xweKZaMNYoNJo03gQBeeCSRySCEdApU3waIXxIEZgaMVrLYq5pGnF5mJgUOjaKYBCQwGJVuYCAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ニンギヤウ ]
+📊 TMD Song Profile: [ ニンギヤウ（人偶） ]
 ================================================================================
 ⏱  Duration:       1:13 (73.8s), 32 measures total
 🎼 Key & Tempo:    首調基準 F, != 104.0 BPM, <4/4>
@@ -132,6 +132,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ニンギヤウ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P041.jpg](P041.jpg)
+![ニンギヤウ（人偶） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P041.jpg](P041.jpg)
 
 

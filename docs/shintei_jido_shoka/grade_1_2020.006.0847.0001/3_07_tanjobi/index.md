@@ -1,8 +1,8 @@
 ---
-title: "タンジヤウビ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "タンジヤウビ"
-description: "〈タンジヤウビ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：巖谷小波、曲：納所辨次郎），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オトウサマ　オトウサマ ケフハ　アナタノ　タンジヤウビ…"
-keywords: "タンジヤウビ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 巖谷小波, 納所辨次郎"
+title: "タンジヤウビ（生日） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "タンジヤウビ（生日）"
+description: "〈タンジヤウビ（生日）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：巖谷小波、曲：納所辨次郎），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オトウサマ　オトウサマ ケフハ　アナタノ　タンジヤウビ…"
+keywords: "タンジヤウビ（生日）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 巖谷小波, 納所辨次郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P046.jpg"
 audio: "tanjobi.mp3"
 ---
 
-# タンジヤウビ
+# タンジヤウビ（生日）
 
 <audio controls src="tanjobi.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "tanjobi.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 96
+曲目說明
+中文解釋：描寫生日到來時，孩子祝福、慶祝與分享喜悅。
 
 ## 歌詞
 
@@ -47,7 +47,7 @@ audio: "tanjobi.mp3"
 
 ```abc
 X:1
-T:タンジヤウビ
+T:タンジヤウビ（生日）
 C:曲：納所辨次郎
 M:2/4
 L:1/16
@@ -71,14 +71,14 @@ F2 F2 D2 C2 | F2 F2 A2 A2 | G2 G2 A2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanjobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxaWkpPG7a_7h58-OmHY-blzxuWva4ebKClhaXoq2CpRmXva2CG5eNkb6JHciIFyvnvd8z6-n2aS82bH-6of_Z5kVgk5_N3gQUfr6l91lnw4t9K56tWfiyuQ8s86J91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrHi_pwMUqnrAUNUDhSqQYWD4fk-nEheXvhYXUCXX46ZVj5s7QG5v2vq4ed7jhgY0EaCKjY-bpz5u7gfLLXrc3AX2dR-Yi-59DPOa2x83LwIr3fy4uRPEBuoEKVgLNJELpK-55XHzxMfNq2BW94Nt2A7mrn3cBFTQBrEQaPZekHVA6eaVYGmIwyAuWQVWCtQ86XFzN9Dg9SBNQGOa1mAzGOhcsCzQhU27ga7l4nqyqwfs-KbVIE8iBwaSCBmBgWwePDCaG0HuBAqC3IwvMIA2AJUCxduhFkKDAGgEieHRDXbcusfNK0COA6kAOmzb4-ZmUPgizJ6MCBItfS4u38TMPKuAzMS8fIcagxqFai4FBRtDMy07IF2jYKygC8ZGQGwIxDUKpvFACgYNIEJAEoTNoDREBEUN3DCQcRAaWSdIBGI8yCKYZSAapgvdLIgNpmA7Mc0CYVSzMEXAusBmQcwwjMNiGHathByGHCCoDoOYjt1hmGaB5EHYDBTm4IBHiGF6ExZPEDWoptVycenaKYCiWgGJVuYCAA)]
+- [主旋律 TMD 檔案](tanjobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxaWkpPG7a_7h58-OmHY-blzxuWva4efL7PR3Pp8x_Nn3p-z2dClpaXIq2CpZmXPa2Cm5cNkb6JnYg416snPd-z6yn26e92LD96Yb-Z5sXgW15NnsTUPj5lt5nnQ0v9q14tmbhy-Y-sMyL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6DJQCOsBQ1gPFMJAhoEh0JVKXPpaCkC7n89e92LVqmcz-rgUFBSe7Fj7bFr7i-WLX7Z3Ax31rL__6frVEI897djwZF_bs5lN7_f0PF278unaCc-Xzn2-rP9xQ-Oz1m1A9ouO9qcdbU92rX46bc6zptbHDU1cWvpcQFu4gM7hety06nFzByiwmrY-bp73uKEBTQSoYuPj5qmPm4EmAuUWPW7uAgdzH5iLHt4Y5jW3P25eBFa6-XFzJ4gN1AlSsBZoIhdIX3PL4-aJj5tXwazuB9uwHcxd-7gJqKANYiHQ7L0g64DSzSvB0hCHQVyyCqwUqHnS4-ZuoMHrQZqAxjStwWYw0LlgWaALm3YDXcvF9WRXD9jxTatBnkQODCQRMgID2Tx4YDQ3gtwJFAS5GV9gAG0AKgWKt0MthAYB0AgSw6Mb7Lh1j5tXgBwHUgF02LbHzc2g8EWYPRkRJKBU4puYmWcVkJmYl-9QY1CjUA1MjDaGZlp2QLpGwVhBF4yNgNgQiGsUTOOBFAwaQISAJAibQWmICIoauGEg4yA0sk6QCMR4kEUwy0A0TBe6WRAbTMF2YpoFwqhmYYqAdYHNgphhGIfFMOxaCTkMOUBQHQYxHbvDMM0CyYOwGSjMwQGPEMP0JiyeIGpQTavl4tK1UwBFtQISrcwFAA)]
 - [鋼琴伴奏 TMD 檔案](tanjobi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP9x8-bHTTseNy953LTscfPk93s6HjdPedy06HFz35M9W54u7X-ye8b7PZ0KWlpcirYKlmZc9rYKblw2Rvomdlx1CkovVs57v2fW0-3TXmzY_nRD_7PNi5RAws9mbwIKP9_S-6yz4cW-Fc_WLHzZ3AeWedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgBdaWRgZKBnYGCmZ2BhYg5kGBgCXanExeWbmJlnFZCZmJcf5OFQY1CjUM2loGBjaKZlB6RrFIwVdMHYCIgNgbhGwTQeSMGgAUQISIKwGZSGiKCogRsGMg5CI-sEiUCMB1kEswxEw3ShmwWxwRRsJ6ZZIIxqFqYIWBfYLIgZhnFYDMOulZDDkAME1WEQ07E7DNMskDwIm4HCHBzwCDFMb8LiCaIG1bRa5Jj2QYppC2hERxvGAhVCSBgPpBkuY4Ihg1MfnGcaD-ZCKJx6UUxG14uVC9EN1odfN_VsxtSLYjQxFgPjQNdOARQNCki0MhcA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ タンジヤウビ ]
+📊 TMD Song Profile: [ タンジヤウビ（生日） ]
 ================================================================================
 ⏱  Duration:       1:00 (60.0s), 48 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
@@ -132,8 +132,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![タンジヤウビ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P046.jpg](P046.jpg)
+![タンジヤウビ（生日） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P046.jpg](P046.jpg)
 
-![タンジヤウビ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P047.jpg](P047.jpg)
+![タンジヤウビ（生日） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P047.jpg](P047.jpg)
 
 

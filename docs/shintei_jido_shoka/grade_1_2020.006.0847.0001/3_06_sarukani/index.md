@@ -1,8 +1,8 @@
 ---
-title: "サル・カニ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "サル・カニ"
-description: "〈サル・カニ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原和三郎、曲：納所辨次郎），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハヤク　メヲダセ カキノタネ…"
-keywords: "サル・カニ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 納所辨次郎"
+title: "サル・カニ（猴子與螃蟹） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "サル・カニ（猴子與螃蟹）"
+description: "〈サル・カニ（猴子與螃蟹）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原和三郎、曲：納所辨次郎），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハヤク　メヲダセ カキノタネ…"
+keywords: "サル・カニ（猴子與螃蟹）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 納所辨次郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P045.jpg"
 audio: "sarukani.mp3"
 ---
 
-# サル・カニ
+# サル・カニ（猴子與螃蟹）
 
 <audio controls src="sarukani.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "sarukani.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= D，拍號 <2/4>，速度 != 92
+曲目說明
+中文解釋：日本民間故事，描寫猴子與螃蟹的衝突和因果報應。
 
 ## 歌詞
 
@@ -51,7 +51,7 @@ audio: "sarukani.mp3"
 
 ```abc
 X:1
-T:サル・カニ
+T:サル・カニ（猴子與螃蟹）
 C:曲：納所辨次郎
 M:2/4
 L:1/16
@@ -71,14 +71,14 @@ d3 d B2 d2 | A2 A2 F2 A2 | E3 E F2 E2 | D6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sarukani.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi64WIpuXnZOfkF6UqcWlpKTxu2vq4efXj5t2Pm4Bkt4KWFpeirYKlEZe9rYILl42RvokdSPuLlfPe75n1fP7mp33zn07qebKj82VzH9jgZ7M3gWS29D7rbHixb8WzNQthMi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8yor3ezpAQa0HDGo9UFADGQaG7_d0KnFx6WtxAVVyPW7uf9y85HHT-scNDY-bFz5u3vS4ueFx024ukI-a1j5u7nvctP9xcy9QIVAY6Nuex80dYLX9YO78x83tQLnGx80rHjdvfty0DhQeTfvQzO163LwSpLVpNZK5IL0rgAphkkSZy_VkVw_EcKDUEpAGkPPmPW7aAuQCDQdyGh83LXvctPNx0xqwZc3dIE9BFIJENz5uboO4AshfC1Lb3AjRCDGlD-yKJpCjmsAeaF4PtxDo6CWPm1cB-R1gjWASZPQqWEroB8q1PG6eBuavARrLpaXPxeWbmJlnFZCZmJfvUGNQo1DNpaBgY2imZQekaxRMFXTB0BiIDYG4RsEIygPREBFMNSAWCILU6CoYKNQgmWWqYAYmYepAGMQD0RDTQfpgNtSATYRBA5AI2CyIDcZw10BMh5kDMd0wDuQgEAGyEYQRbkU1DawIrBakCszDZiAxjqvl4tK1UwCFqQISrcwFAA)]
+- [主旋律 TMD 檔案](sarukani.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi64WIpuXnZOfkF6UqcWlpKTxu2vq4efXj5t2Pm4Bk9_s9Hc97tjxdO-FFR_uLec0v5u98v6dTQUuLS9FWwdKIy95WwYXLxkjfxA5k5ouV897vmfV8_uanffOfTup5sqPzZXMf2LZnszeBZLb0PutseLFvxbM1C2EyL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKCqArQeGvBwx_PVD4AxkGhkCHKnHpaykA7X4-e92LVauezejjUlBQeLJj7bNp7S-WL37ZDvTerGfTlz6bs-bZhokvp01-NrX1yS6gYM-z_v6n61ej-fz5rJYXC-c-X9UI9NvT2QuezZvzdMHGZ-2djxuauLT0uYB2cQEdxfW4uf9x85LHTesfNzQ8bl74uHnT4-aGx027uUAh2rT2cXPf46b9j5t7gQqBwsDQ7nnc3AFW2w_mzn_c3A6Ua3zcvOJx8-bHTetA8dG0D83crsfNK0Fam1YjmQvSuwKoECZJlLlcT3b1QAwHSi0BaQA5b97jpi1ALtBwIKfxcdOyx007HzetAVvW3A3yFEQhSHTj4-Y2iCuA_LUgtc2NEI0QU_rArmgCOaoJ7IHm9XALgY5e8rh5FZDfAdYIJkFGr4KlxH6gXMvj5mlg_hqgseDA9k3MzLMKyEzMy3eoMahRqAbGrI2hmZYdkK5RMFXQBUNjIDYE4hoFIygPRENEMNWAWCAIUqOrYKBQg2SWqYIZmISpA2EQD0RDTAfpg9lQAzYRBg1AImCzIDYYw10DMR1mDsR0wziQg0AEyEYQRrgV1TSwIrBakCowD5uBxDiulotL104BFKYKSLQyFwA)]
 - [鋼琴伴奏 TMD 檔案](sarukani_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPVx8-rHzbsfNwHJ7vd7Oh43T3nctOhxc9-TPVueLu1_snvG-z2dClpaXIq2CpZGXPa2Ci5cNkb6JnZcdQpKL1bOe79n1vP5m5_2zX86qefJjs6XzX1KIJlnszeBZLb0PutseLFvxbM1C2EyL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKCqBDjQyMDPQMDMz0DCxMzIEMA0OgQ5W4uHwTM_OsAjIT8_KDPBxqDGoUqrkUFGwMzbTsgHSNgqmCLhgaA7EhENcoGEF5IBoigqkGxAJBkBpdBQOFGiSzTBXMwCRMHQiDeCAaYjpIH8yGGrCJMGgAEgGbBbHBGO4aiOkwcyCmG8aBHAQiQDaCMMKtqKaBFYHVglSBedgMJMZxtchB6oMUpBbQEI02jAUqhJBAnmk8ChdVEsKDKIG4FCpkglU51Cyoeqg4IvxRjcNuF4rBGFpJthYYGrp2CqAAUUCilbkA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ サル・カニ ]
+📊 TMD Song Profile: [ サル・カニ（猴子與螃蟹） ]
 ================================================================================
 ⏱  Duration:       0:41 (41.7s), 32 measures total
 🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <2/4>
@@ -132,6 +132,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![サル・カニ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P045.jpg](P045.jpg)
+![サル・カニ（猴子與螃蟹） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P045.jpg](P045.jpg)
 
 

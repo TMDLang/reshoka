@@ -1,8 +1,8 @@
 ---
-title: "ヲノノタウフウ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "ヲノノタウフウ"
-description: "〈ヲノノタウフウ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シダレヤナギニ　トビツクカハヅ トンデハオチ　オチテハトビ…"
-keywords: "ヲノノタウフウ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
+title: "ヲノノタウフウ（小野道風） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "ヲノノタウフウ（小野道風）"
+description: "〈ヲノノタウフウ（小野道風）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シダレヤナギニ　トビツクカハヅ トンデハオチ　オチテハトビ…"
+keywords: "ヲノノタウフウ（小野道風）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P059.jpg"
 audio: "ono_no_tofu.mp3"
 ---
 
-# ヲノノタウフウ
+# ヲノノタウフウ（小野道風）
 
 <audio controls src="ono_no_tofu.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "ono_no_tofu.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫書法家小野道風受青蛙啟發、持續努力的故事。
 
 原書資訊與歌詞全文（對應 P059.jpg，書頁 p. 44，參考教材第 6 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「ユクワイニ（♩＝84）」
@@ -46,7 +49,7 @@ audio: "ono_no_tofu.mp3"
 
 ```abc
 X:1
-T:ヲノノタウフウ
+T:ヲノノタウフウ（小野道風）
 C:曲：田村虎藏
 M:2/4
 L:1/16
@@ -63,14 +66,14 @@ F4 C4 | A4 F4 | c4 C4 | F4 F4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ono_no_tofu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelootnZBYDja1U4tLSUnjcvOlxcx8INe1_3LTscfNUIKmgpcWlaKtgYcJlb6vgxmVjpG9iBzLjxcp57_fMej5_89O--U8n9TzZ0fmyuQ9s-rPZm0AyUzY8mzvxxcy-F9P7wcIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkV8_TtTue7tzyfMqK93s6QMGtBwxuPVBwAxkGRu_3dCpxcelrKdhSC3ApKCgA_fVs9o4Xm9tfrOh60dEOdBfQy09bVzyb1g50xdMNvc_aOxUCDEwt9bIK0t_v6QEqfrmgUaFAT8HEBMh92t_8oqEZ6N1ncycAPaFgpvBy2TSgS4FBAzL9xar9zxqWg8zt7n0xcz5Q9HHzDKAg0LNAkadrJwDtcFN4umQ5UEwBGOYKQFGwbmDo9DxuXva4af3j5vWPm5Y8bu4GKn00c-X7PXMtgBZ3Pm7o5QLZ8GRHA4h63LT9cXPD4-Y1j5uBarseN60D6njcABTpeNw8-XFzC8ikptWPm_sfN7eCNYAkNj9ubgcJNa163NwIUg1hNLeB1YF0QsyGiy5CYYOMn_S4GWjqvMfNQOfOftzcCbQWZjwobcFIqBvWgi0BiqwBORjorabNj5tWAF0BsQfsWaA6kCICbNI1gENrVw9EI9DnwKACZoQVYAXzQT4CeQdL1oB4B-hIeGithnkEzICGFlDBfIjZQFGgx_Y_bgYGFUQb0OBVYA27wVEJZOzEHVpNwLABxhUwPoFK28Gu6gLrAZoLdCqQ3QK0E2IVwpUgs4FWQWwAWYVdCqSN8owDBQpa-lxc_nn5fvkh-WmlVgGZiXn5DjUGNQrVIGsUbAzNtOzArBoF03gFXQVDKAbBGgUjIAnCIBEQXaNgDCRB2BRKQ9TA5A1AIlDjYCph8jUKZiALQBBsE1gtcaqgJoLkwbJgGTALj6AR0FyEqTCfgNyNbCaIDxIF0SAMtB9kDBKGqAGxEH6G-RfEQ3ch3OmQIAQpAUFEoEKsRFEEk4Qr4qrl4tK1U4BHnAKQo8zFBQA)]
+- [主旋律 TMD 檔案](ono_no_tofu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelootnZBYDja1U4tLSUnjcvOlxcx8INe1_3LTscfNUIPl-T8fTDf0v2_teNk5-uWjF-z2dClpaXIq2ChYmXPa2Cm5cNkb6JnYgU1-snPd-z6zn8zc_7Zv_dFLPkx2dL5v7wPY9m70JJDNlw7O5E1_M7HsxvR8s_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-nAB3UAYoAPWAE6IEiAMgwMAK6UolLX0sBaPHz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6gi5719z9dv_rZ7B3PNk99um4bsj-f9k9_OXfSi9kzn06d_3zmnscNjc96Gp8D7e1a9bRr9vNZLc-mtj7Z1f24oYlLS58LZJcttQDIocAgBDrrxeb2Fyu6XnS0A4MAGLpPW1cAXQ-OkN5n7Z0KAQamlnpZBenv9_QAFb9c0KhQoKdgYgLkPu1vftHQDAzZZ3MnAMNLwUzh5bJpwEAB-hlk-otV-581LAeZ2937YuZ8oOjj5hlAQWC4AkWerp0AtMNN4emS5UAxBWD0KgBFwbqBEdHzuHnZ46b1j5vXP25a8rgZGIwdj2aufL9nrgXQ4s7HDb1ckIBuAFGPm7Y_bm543LzmcTNQbdfjpnVAHY8bgCIdj5snP25uAZnUtPpxc__j5lawBpDE5sfN7SChplWPmxtBqiGM5jawOpBOiNlw0UUobJDxkx43A02d97gZ6NzZj5s7gdbCjAclbBgJdcNasCVAkTUgBwO91bT5cdMKoCsg9oA9C1QHUkSATboGcGjt6oFoBPocGFTAXLgCrGA-yEcg72DJlxDvAB0JD63VMI-AGdDQAiqYDzEbKAr02P7HzcCggmgDGrwKrGE3OCqBjJ24Q6sJGDbAuALGJ1BpO9hVXWA9QHOBTgWyW4B2QqxCuBJkNtAqiA0gq7BLgbRRnnGgQAGUIf3z8v3yQ_LTSq0CMhPz8h1qDGoUqkHWKNgYmmnZgVk1CqbxCroKhlAMgjUKRkAShEEiILpGwRhIgrAplIaogckbgESgxsFUwuRrFMxAFoAg2CawWuJUQU0EyYNlwTJgFh5BI6C5CFNhPgG5G9lMEB8kCqJBGGg_yBgkDFEDYiH8DPMviIfuQrjTIUEIUgKCiECFWImiCCYJV8RVy8Wla6cAjzgFIEeZiwsA)]
 - [鋼琴伴奏 TMD 檔案](ono_no_tofu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOlxcx8INe1_3LTscfNUIPl-T8fL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VbAw4bK3VXDjsjHSN7HjqlNQerFy3vs9s57P3_y0b_7TST1PdnS-bO5TAsk8m70JJDNlw7O5E1_M7HsxvR8s_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-nrAA60cjAyEDPwMBMz8DCxBzIMDACulKJi8s_L98vPyQ_rdQqIDMxLz_Iw6HGoEahmksBCGwMzbTswKwaBdN4BV0FQygGwRoFIyAJwiAREF2jYAwkQdgUSkPUwOQNQCJQ42AqYfI1CmYgC0AQbBNYLXGqoCaC5MGyYBkwC4-gEdBchKkwn4DcjWwmiA8SBdEgDLQfZAwShqgBsRB-hvkXxEN3IdzpkCAEKQFBRKBCrERRBJOEK-KqxYg3H5R4M4FHm2G8QrRhLDj-gCzTeBATRcwA4TyYsAlQGMjBIgJVCeJGm4DNQmISNhaoEkUhkIGiDqQRzADbDuLBRcAaQP7WtVOAe10ByFHm4gIA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ヲノノタウフウ ]
+📊 TMD Song Profile: [ ヲノノタウフウ（小野道風） ]
 ================================================================================
 ⏱  Duration:       0:28 (28.6s), 20 measures total
 🎼 Key & Tempo:    首調基準 F, != 84.0 BPM, <2/4>
@@ -123,6 +126,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ヲノノタウフウ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P059.jpg](P059.jpg)
+![ヲノノタウフウ（小野道風） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P059.jpg](P059.jpg)
 
 

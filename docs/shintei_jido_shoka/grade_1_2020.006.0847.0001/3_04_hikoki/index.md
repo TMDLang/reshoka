@@ -1,8 +1,8 @@
 ---
-title: "ヒカウキ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ヒカウキ"
-description: "〈ヒカウキ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アレアレ　アガル ヒカウキ　ガ…"
-keywords: "ヒカウキ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "ヒカウキ（飛機） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ヒカウキ（飛機）"
+description: "〈ヒカウキ（飛機）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アレアレ　アガル ヒカウキ　ガ…"
+keywords: "ヒカウキ（飛機）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P043.jpg"
 audio: "hikoki.mp3"
 ---
 
-# ヒカウキ
+# ヒカウキ（飛機）
 
 <audio controls src="hikoki.mp3"></audio>
 
@@ -18,8 +18,8 @@ audio: "hikoki.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 120
+曲目說明
+中文解釋：描寫飛機飛上天空、越過雲端的想像與興奮。
 
 ## 跨冊／重複收錄參照
 
@@ -57,7 +57,7 @@ audio: "hikoki.mp3"
 
 ```abc
 X:1
-T:ヒカウキ
+T:ヒカウキ（飛機）
 M:2/4
 L:1/16
 Q:1/4=120
@@ -76,14 +76,14 @@ d2 d2 c2 A2 | c4 A2 F2 | G2 G2 A2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hikoki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8bp70uGn146Zlj5vWKmhpcSnaKhgaGXDZ2yq4cdkY6ZvYgXS_aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykr3u_pAIWPHjB89EDhA2QYGL7f06nExaWvxQVUyfW4adHj5jVQsqEBxGha87h5NReyI8ESa7ieLlkO4jR3gfjNHY-bJ0MlwJxpYNElIB3NIHN3PW7eDCVRzG1a_7h5EVhtH5B8sqMLqL3vcXPL4-Y2sOj8x037HzctAVqD4Ybmbi6uJ7t6sDkaaAvQXUAF2Ny9of9x01YkdwPVzsHl7mYgBygPJkESjSDTmldAnL7q2fSlYKPmQZ2DbDWS6UDGSqBRQDcAPbse5BuQHEgUaA2Xlj4Xl29iZp5VQGZiXr5DjUGNQjWXgoKNoZmWHZCuUTCNV9AFQuN4JFaNgiGQYQTigIV0QeqApBkQg2iQaA1YHgYNQCLI5oHNAZoBIrAZB-OBZMwgiuA6UQ0EywLtjUdWC9KOjCFWgAyEuRPiYizGYfgDpg7mHITpIBGE6ahm1XJx6dopgIJWAYlW5gIA)]
+- [主旋律 TMD 檔案](hikoki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8bp70uGn146Zlj5vWvt_T8XLx7Gcr57_f06mgpcWlaKtgaGTAZW-r4MZlY6RvYgcy6UX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuxoeLp2x9OdW55PWQG0CRRWesCw0gOFFZBhYAi0VYlLX0vh2exNz2eve7Fq1bMZfVwKCgpPdqx9Nq39xfLFL9u73--Z9ay__-n61RCHAsknO7qeLln5fOWuxw2NL7Z1vWzsewnUv3r981ktz5o3P23uf9HR_qKj4-nSdY8bmri09LmAVnAB3cL1uGnR4-Y1ULKhAcRoWvO4eTUXcpCAJdZwPV2yHMRp7gLxmzseN0-GSoA508CiS0A6mkHm7nrcvBlKopjbtP5x8yKw2j4gCXQ4UHvf4-aWx81tYNH5j5v2P25aArQGww3N3VxcT3b1YHM00Bagu4AKsLl7Q__jpq1I7gaqnYPL3c1ADlAeTIIkGkGmNa-AOH3Vs-lLwUbNgzoH2Wok04GMlUCjgG4AenY9yDcgOZAo0Bpw8PsmZuZZBWQm5uU71BjUKFQDo9jG0EzLDkjXKJjGK-gCoXE8EqtGwRDIMAJxwEK6IHVA0gyIQTRItAYsD4MGIBFk88DmAM0AEdiMg_FAMmYQRXCdqAaCZYH2xiOrBWlHxhArQAbC3AlxMRbjMPwBUwdzDsJ0kAjCdFSzarm4dO0UQEGrgEQrcwEA)]
 - [鋼琴伴奏 TMD 檔案](hikoki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPOlx0-rHTcseN619v6fjcfOUx02LHjf3Pdmz5enS_ie7Z7zf06mgpcWlaKtgaGTAZW-r4MZlY6RvYsdVp6D0on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esANpqZGBkoGdgYKZnYGFiDmQYGAJtVeLi8k3MzLMKyEzMyw_ycKgxqFGo5lJQsDE007ID0jUKpvEKukBoHI_EqlEwBDKMQBywkC5IHZA0A2IQDRKtAcvDoAFIBNk8sDlAM0AENuNgPJCMGUQRXCeqgWBZoL3xyGpB2pExxAqQgTB3QlyMxTgMf8DUwZyDMB0kgjAd1axa5JD1QQpZC2jARhvGAhVCSAI803gQA2QyxI1QaYgwDtXRJjBZDN0QGXQF6MaZIPOQdRN0KJpJEL3A8NC1UwAFiQISrcwFAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ヒカウキ ]
+📊 TMD Song Profile: [ ヒカウキ（飛機） ]
 ================================================================================
 ⏱  Duration:       0:32 (32.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 F, != 120.0 BPM, <2/4>
@@ -137,6 +137,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ヒカウキ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P043.jpg](P043.jpg)
+![ヒカウキ（飛機） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P043.jpg](P043.jpg)
 
 

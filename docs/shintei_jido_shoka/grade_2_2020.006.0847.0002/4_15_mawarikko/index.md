@@ -1,8 +1,8 @@
 ---
-title: "まはりつこ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "まはりつこ"
-description: "〈まはりつこ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：松岸寬一、曲：永井幸次），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ぼくはちかみちみぎまはり ぼくはひだりへとほまはり…"
-keywords: "まはりつこ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 松岸寬一, 永井幸次"
+title: "まはりつこ（轉圈遊戲） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "まはりつこ（轉圈遊戲）"
+description: "〈まはりつこ（轉圈遊戲）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：松岸寬一、曲：永井幸次），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ぼくはちかみちみぎまはり ぼくはひだりへとほまはり…"
+keywords: "まはりつこ（轉圈遊戲）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 松岸寬一, 永井幸次"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P069.jpg"
 audio: "mawarikko.mp3"
 ---
 
-# まはりつこ
+# まはりつこ（轉圈遊戲）
 
 <audio controls src="mawarikko.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "mawarikko.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 108
+曲目說明
+中文解釋：描寫孩子一起旋轉、嬉戲的活潑遊戲。
 
 ## 歌詞
 
@@ -43,7 +43,7 @@ audio: "mawarikko.mp3"
 
 ```abc
 X:1
-T:まはりつこ
+T:まはりつこ（轉圈遊戲）
 C:曲：永井幸次
 M:2/4
 L:1/16
@@ -59,14 +59,14 @@ D2 F2 D2 F2 | G2 A2 A2 F2 | G2 G2 C2 C2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mawarikko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxcWlpKTxu3Pe4cf3jpq7HjUseN05W0NLiUrRVMDSw4LK3VXDjsjHSN7EDmfCifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU929Txdu-Ppzi3Pp6x4v6cDFEZ6wDDSA4URkGFg9H5PJ9iNL1bOe79n1rO5-55u2vF0_ZonOxrAws9mbwIJb9jxZNfUpzt3PFuzEOhwfS0uoDzX48Y9jxv7Qe5vXPi4sftx434wA0j2wf2FrGjT48YFYK_ueNy44nHjboQioCuf7NoFVgQ0ZuLjxqbHjdPRwgZo0kqQ-U2djxt7wBItjxuBCKgBVR3INKBiJCc1tYEN3fC4qf9xE1AQqAskDlQEcQbE3bsfN00G2wFUDRHpedzUAVSNZvPUx429jxtXg20DmjT_ceM6oFVARcgGACWA0kA5uFOB9i6GCHJp6XNx-SZm5lkFZCbm5TvUGNQoVHMpAIGNoZmWHZhVo2CgoKtgFg8jDIG4RsEISIKwMYYIDENEYBBkRg2SeSB9IGwKVmkGMhyKISIwORANMQ1kCzbTYK5AdQmmCAxDRMBewWYc3I9onsVuoClIEZjA5sBaLi5dOwVQ-CoAaWUuLgA)]
+- [主旋律 TMD 檔案](mawarikko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxcWlpKTxu3Pe4cf3jpq7HjUseN05-v6fjxd7Op3M6XjZ2PevY9H5Pp4KWFpeirYKhgQWXva2CG5eNkb6JHcjMF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lBdA-UKjpAUNNDxRqQIaBEdBWJS59LYVnszc9n73uxapVz2b0cSkoKDzZsfbZtPYXyxe_bO9-v2fWs_7-p-tXP1278unaCU92NLzYuv3Z9G6g6x83ND5d0wl0_fNZLc-27H62dyLEM48bmri09MFOXzkPpH_uvqebdjxdvwaoGRxKQPtAwht2PNk19enOHc_WLASGkb4WF1Ce63HjnseN_aCgalz4uLH7ceN-MANI9sGDEFnRpseNC8ChuuNx44rHjbsRioDef7JrF1gR0JiJjxubHjdOR4sGoEkrQeY3dT5u7AFLtDxuBCKgBlR1INOAipGc1NQGNnTD46b-x01AQaAukDhQEcQZEHfvftw0GWwHUDVEpOdxUwdQNZrNUx839j5uXA22DWjS_MeN64BWARUhGwCUAEoD5eBOBdq7GCIICnEu38TMPKuAzMS8fIcagxqFalBkKtgYmmnZgVk1CgYKugpm8TDCEIhrFIyAJAgbY4jAMEQEBkFm1CCZB9IHwqZglWYgw6EYIgKTA9EQ00C2YDMN5gpUl2CKwDBEBOwVbMbB_YjmWewGmoIUgQlsDqzl4tK1UwCFrwKQVubiAgA)]
 - [鋼琴伴奏 TMD 檔案](mawarikko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43LjvceP6x01djxuXPG6c_H5Px5M9W54u7X-ye8b7PZ0KWlpcirYKhgYWXPa2Cm5cNkb6JnZcdQpKL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZFfP07U7nu7c8nzKCqBlRgZGBnoGBmZ6BhYm5kCGgRHQViWwDSvnvd8z69ncfU837Xi6fs2THQ1g4WezN4GEN-x4smvq0507nq1ZqMTF5ZuYmWcVkJmYlx_k4VBjUKNQzaUABDaGZlp2YFaNgoGCroJZPIwwBOIaBSMgCcLGGCIwDBGBQZAZNUjmgfSBsClYpRnIcCiGiMDkQDTENJAt2EyDuQLVJZgiMAwRAXsFm3FwP6J5FruBpiBFYAKbA2uRg9cHX_CaxIPMiDaJj0VQNUCDwaKmYK4hmG2IRQaFgyYHpdCDH8kwmJEmEBdgWIXEQbMIwxBkW4h0O9G-MoNwzSC-glDI9qGEIAqHXBtxeA8Yqbp2CqB4VQDSylxcAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ まはりつこ ]
+📊 TMD Song Profile: [ まはりつこ（轉圈遊戲） ]
 ================================================================================
 ⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <2/4>
@@ -119,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![まはりつこ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P069.jpg](P069.jpg)
+![まはりつこ（轉圈遊戲） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P069.jpg](P069.jpg)
 
 

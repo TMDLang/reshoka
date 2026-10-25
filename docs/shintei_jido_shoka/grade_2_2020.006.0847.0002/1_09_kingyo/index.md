@@ -1,8 +1,8 @@
 ---
-title: "キンギヨ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "キンギヨ"
-description: "〈キンギヨ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：葛原幽、曲：梁田貞），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ユラユラユラユラリ アレアレ金魚（キンギヨ）ガオヨグ…"
-keywords: "キンギヨ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原幽, 梁田貞"
+title: "キンギヨ（金魚） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "キンギヨ（金魚）"
+description: "〈キンギヨ（金魚）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：葛原幽、曲：梁田貞），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ユラユラユラユラリ アレアレ金魚（キンギヨ）ガオヨグ…"
+keywords: "キンギヨ（金魚）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原幽, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "B,"
@@ -10,7 +10,7 @@ image: "P027.jpg"
 audio: "kingyo.mp3"
 ---
 
-# キンギヨ
+# キンギヨ（金魚）
 
 <audio controls src="kingyo.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "kingyo.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫金魚在水中游動、閃耀的模樣。
 
 原書資訊與歌詞全文（對應 P027.jpg，書頁 p. 12，第一學期第 9 首）：
 調性與拍號：變ロ調二拍子（降 B 大調 2/4 拍），「ユクワイニ」
@@ -50,7 +53,7 @@ audio: "kingyo.mp3"
 
 ```abc
 X:1
-T:キンギヨ
+T:キンギヨ（金魚）
 C:曲：梁田貞
 M:2/4
 L:1/16
@@ -66,14 +69,14 @@ d'4 c'2 b2 | g4 f2 z2 | g2 f2 c2 B2 | B6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kingyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvu4efPjpnWPm1coaGlxKdoqGBpYcNnbKjjpcNkY6ZvYgfS-WDnv_Z5ZLybOfto3_-nOvWDzns3eBBR7tqjx-ZQNLzbNA4u9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2TXT1P1-54unPL8ykr3u_pAIWiHjAU9UChCGQYGL3f06nExaWvpWBLLcCloKAA9M6z2TtebG5_saLrRUc70F1Anz5tXfFsWjvQFU839D5r71QIMDAy18sqSH-_pweo-OWCRoUCPQVDoIt6QA7f0QB0-LM584FsBUuFl8umAV0KDBeQ6S9W7X_WsBxkbnfvi5nzQSG4rutx81qgONC_QMGnaycArXk5s1fBSeHpkuVAcQVgiCsAZcCGAAOp53HzssdN6x83r3_ctORxc_fjhl4ukNFAa0EUSLZ5JTZyFVi6adHj5jUQ8mX7xJdrZwGtQ45xoDWPm4AKVgHZj5s2wPVsftwMdGj34-b5j5u2PG7uAHEbGh43TwIZ17zpcfOEx017gT553DwDHIxLloMNBhozG2wkUKILp4UNDU839IPEmxuBJoLVb8WjHuLfXT1U9G_zvMfNU4FcDP-ClAL1A0Ma4l-golVgn7bT0b9ACyhP3VCgoKXPxeWdmZdemW8VkJmYl-9QY1CjUA2yQ8HG0EzLDszClq0UIIn7xcIeBQ0TBaAPnq9v0IHnBU0sGoBWQQ17Oavv6YReK2B0zQeH8F5w1K2Es2tIk2nuhMqsAZkPFoGxEHZqAB2rCbJyGVjBHiTtIDZIOykyIBGQDIgHsXIVFit39dDTyhoFYwVdBVMgNoPShEQM48BCRiAKBMEMA5AYOFfhjvhdPVSIeERUIaIQ7jlwBEN8BZGFqMaSFKAk7ihvWoRmGTSM0cShloFzG9QNwCy3HEiBZEEyoPAG1YMgqQ1YrINEN7Wsa54HVjsVbimSdcBoRIkzaESC4hQEQfELjkaIBAiiJgAQNiIyrnd0DrpMjkyiRwJSnENCFliWgsluFKO3gMU64PIgmUlIRm8CkxOgkQRxyFowOQOLpUgxj9XSJohWsNFNS1AshcQvOGlBrWknbCllWR1BEBH_T2fPpmteR6QDdPWwUgAGsMQ6qMaFmgkJN2goY-QymG2gKhcothWuGKoUpAeuEJuF0Bini4VE53ZY1IOytiEk_0PVgCAksmu5uHTtFCB1vgKQpczFBQA)]
+- [主旋律 TMD 檔案](kingyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvu4efPjpnWPm1e839Pxsn3iy7Wz3u_pVNDS4lK0VTA0sOCyt1Vw0uGyMdI3sQOZ82LlvPd7Zr2YOPtp3_ynO_eCzX42exNQ7NmixudTNrzYNA8s9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-ngJwEClE9YIjqgUIUyDAwAjpPiUtfSwFo6_PZ616sWvVsRh-XgoLCkx1rn01rf7F88cv2bpBz-vufrl8N8dHTOSuebdgCUrBjx9PuqY8bGl9Oa37R0PB8VsuzFQufrVj8uKGJS0ufC2SsLbUAyE3AQHo2e8eLze0vVnS96GgH-hYYfk9bVwAdCvTb0w29z9o7FQIMjMz1sgrS3-_pASp-uaBRoUBPwRDozx5QcOxoAAbHsznzgWwFS4WXy6YB_Q_0Hsj0F6v2P2tYDjK3u_fFzPmgeFnX9bh5LVAcGIpAwadrJ4BidWavgpPC0yXLgeIKwHhUAMqADQEGfc_j5mWPm9Y_bl7_uGnJ4-buxw29XJDAbABRINnmldjIVWDppkWPm9dASFja6UBNU52Pm4AKVgHZj5s2wPVsftwMdGj34-b5j5u2PG7uAHEbGh43TwIZ17zpcfOEx017gT553DwDHIxLloMNBhozG2wkUKILp4UNDU839IPEmxuBJoLVb8WjHuLfXT1U9G_zvMfNU4FcDP-ClAL1A0Ma4l-golVgn7bT0b9ACyhP3VCgAMo13pl56ZX5VgGZiXn5DjUGNQrVIDsUbAzNtOzALGzZSgGSuF8s7FHQMFEA-uD5-gYdeF7QxKIBaBXUsJez-p5O6LUCRtd8cAjvBUfdSji7hjSZ5k6ozBqQ-WARGAthpwbQsZogK5eBFexB0g5ig7STIgMSAcmAeBArV2GxclcPPa2sUTBW0FUwBWIzKE1IxDAOLGQEokAQzDAAiYFzFe6I39VDhYhHRBUiCuGeA0cwxFcQWYhqLEkBSuKO8qZFaJZBwxhNHGoZOLdB3QDMcsuBFEgWJAMKb2AmBEttwGIdJLqpZV3zPLDaqXBLkawDRiNKnEEjEhSnIAiKX3A0QiRAEDUBgLARkXG9o3PQZXJkEj0SkOIcErLAshRMdqMYvQUs1gGXB8lMQjJ6E5icAI0kiEPWgskZWCxFinmsljZBtIKNblqCYikkfsFJC2pNO2FLKcvqCIKI-H86ezZd8zoiHaCrh5UCMIAl1kE1LtRMSLhBQxkjl8FsA1W5QLGtcMVQpSA9cIXYLITGOF0sJDq3w6IelLUNIfkfqgYEIZFdy8Wla6cAqfMVgCxlLi4A)]
 - [鋼琴伴奏 TMD 檔案](kingyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPZx8-bHTeseN694v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGlhw2dsqOOlw2Rjpm9hx1SkovVg57_2eWS8mzn7aN__pzr1KILFnszcBxZ4tanw-ZcOLTfPAYi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8CshtRgZGBnoGBmZ6BhYm5kCGgRHQeUpcXN6ZeemV-VYBmYl5-UEeDjUGNQrVXApAYGNopmUHZulrKdiiAwWQDTsaXizsUdAwUXi6of_5-gYdhQADI3O9rIJ0TSwatPTBhtUoGCvoKpgCsRmUJiRiGAcWMgJRIAhmGIDEuPA7b1cPWc5DsQdqOcgdIAhyE9hqiAQIojoahI2IdN-OTnoHH4Igwn1PZ8-mYfjBHAsKLENIiELVgCDEebWoydMHJXmaIFLns6YFz3bseLZhy7PNi55uX_assxuSBxGOMoxXiDaMRWeYxeeCmKbx8UALa9CVmmAwcCgk10zTeKgmkEKgX3XtFCDeVUBhKXNxAQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ キンギヨ ]
+📊 TMD Song Profile: [ キンギヨ（金魚） ]
 ================================================================================
 ⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 108.0 BPM, <2/4>
@@ -126,6 +129,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![キンギヨ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P027.jpg](P027.jpg)
+![キンギヨ（金魚） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P027.jpg](P027.jpg)
 
 

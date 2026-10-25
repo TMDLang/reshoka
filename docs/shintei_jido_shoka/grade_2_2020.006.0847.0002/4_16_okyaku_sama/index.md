@@ -1,8 +1,8 @@
 ---
-title: "おきやくさま — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "おきやくさま"
-description: "〈おきやくさま〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：葛原齒、曲：梁田貞），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（甲）『ごめんください花子さん 大へんおさむくなりました…"
-keywords: "おきやくさま, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒, 梁田貞"
+title: "おきやくさま（客人） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "おきやくさま（客人）"
+description: "〈おきやくさま（客人）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：葛原齒、曲：梁田貞），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（甲）『ごめんください花子さん 大へんおさむくなりました…"
+keywords: "おきやくさま（客人）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "B,"
@@ -10,7 +10,7 @@ image: "P070.jpg"
 audio: "okyaku_sama.mp3"
 ---
 
-# おきやくさま
+# おきやくさま（客人）
 
 <audio controls src="okyaku_sama.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "okyaku_sama.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
-・調性與拍號：調號 ?= B,，拍號 <2/4>，速度 != 96
+曲目說明
+中文解釋：描寫客人來訪時的迎接、招待與日常禮貌。
 
 ## 跨冊／重複收錄參照
 
@@ -58,7 +58,7 @@ audio: "okyaku_sama.mp3"
 
 ```abc
 X:1
-T:おきやくさま
+T:おきやくさま（客人）
 C:曲：梁田貞
 M:2/4
 L:1/16
@@ -78,14 +78,14 @@ B2 B2 B2 A2 | B2 d2 B2 G2 | A2 A2 A2 B2 | G6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](okyaku_sama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxcWlpKTxu7Hrc2Pu4qeVxY__jxqmPG_cpaGlxKdoqWJpx2dsqOOlw2Rjpm9iBDHnRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmie7ep6u3fF055bnU1a839MBCiY9YDDpgYIJyDAwer-nE-zMFyvnvd8z68XE2U_75r_cOwks9mz2JqDYs0WNz6dseLFpHtDV-lpcT3Y0cAFNej4FKNf5uKHvceOUx02Nj5smg32xAOyRlhddG5-unQBiN03merpk-ePGHWAVQA8DhRrASlc9bgJy9z1unP64cT7X81ltEOUg84Ch0jgJzAaGTffjxp7HjUAjZj5u6AdZ_WTnTJjVQN1Nj5s6HjcCNQNVz305exXCXrDQwsdNnSDbQVaveNy4G2xpE1Dp48YNjxtnA53B9Xx54-PGdUBXPtkFtGsVUOmTXbue7l0EtBdoBlAI4pSex039j5uAXKDblz2bseLZ9KUg2aZOoKKFjxuXgMxvArpmIti9QIsmvVgGVA20AuhKILkG5HwuYISgBd_cx01A9evBWoDWAB25GhwG08HcjcAwQAtBoKFzwHasB6UdaCDOBLoCyFoLdghQbj40UYH0AB0FVQTSjBGIwDAGhiBEJ9D3K5E0zIaEY9ezTqC-VpD3GrtebNsMZiwBRTvUnmVAJwLdtByi4vnsdWDVk8AhDTQeqGjf46a5XE_2AhPHaqCil4uBQjsfN84CexZo9bLHTcBog_oDOSCArgHGLSiJgKMTKAgMCmBotoH8oaXPxeWbmJlnFZCZmJfvUGNQo1DNpQAENoZmWnZgVo2CgYIuGBvHAwkzEFGjYA6iwIQhjFGjYIzMRVYIgyBTaqCmghTCMFQ_iIliRg3EFIR5JlCLcBkKlkcQYHU1CkYgCkFARcEqEKaCpfAYDQuFgXUvwtFkhi-aEMj5MAwShohgMw-7ShgPI1nA0wb5SQCfmWA5VDNrubh07RRAqVkBSCtzcQEA)]
+- [主旋律 TMD 檔案](okyaku_sama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxcWlpKTxu7Hrc2Pu4qeVxY__jxqmPG_e939PxdN2iJ7t2vd_TqaClxaVoq2BpxmVvq-Ckw2VjpG9iBzLwRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Op5unbH051bnk9ZAbQJFGR6wCDTAwUZkGFgBLRViUtfS-HZ7E3PZ697sWrVsxl9XAoKCk92rH02rf3F8sUv27vf75n1rL__6frVEIc-2df2YsWqZzObns9qebG_71nf0scNjc-6Zz_d1_qio_3Z9KUg25ete7EJ6JgmLi19sAdWzgOa8mLi7Kd981_unQQOJaCVIJMXNT6fsuHFpnnAANLX4nqyo4EL6NDnU4BynY8b-h43Tnnc1Pi4aTI4wBaAw6zlRdfGp2sngNhNk7meLln-uHEHWAUwbIFCDWClqx43Abn7HjdOf9w4n-v5rDaIcpB5wAhonARmA6Oh-3Fjz-NGoBEzHzf0g6x-snMmzGqg7qbHTR2PG4Gagarnvpy9CmEvWGjh46ZOkO0gq1c8btwNtrQJqPRx44bHjbOBzuB6vrzxceM6oCuf7ALatQqoFBiGT_cuAtoLNAMoBHFKz-Om_sdNQC7Q7cuezVgBDEeQbFMnUNHCx41LQOY3AV0zEexeoEWTXiwDqgZaAXQlkFwDcj4XML7Rgm_u4yag-vVgLUBrgI5cDQ6D6WDuRmAYoIUg0NA5YDvWg5IpNBBnAl0BZK0FOwQoNx-afkF6gI6CKgJpxghEYBgDQxCiE-j7lUgaZkPCsetZJ1BfK8h7jV0vtm0GM5aAoh1qzzKgE4FuWg5RAUynYNWTwCENNB6oaN_jprlcT_YCE8dqoKKXi4FCOx83zgJ7Fmj1ssdNwGiD-gM5IICuAcYtKImAoxMoCAwKYGi2gfwBTLpcvomZeVYBmYl5-Q41BjUK1aC8oWBjaKZlB2bVKBgo6IKxcTyQMAMRNQrmIApMGMIYNQrGyFxkhTAIMqUGaipIIQxD9YOYKGbUQExBmGcCtQiXoWB5BAFWV6NgBKIQBFQUrAJhKlgKj9GwUBhY9yIcTWb4ogmBnA_DIGGICDbzsKuE8TCSBTxtkJ8E8JkJlkM1s5aLS9dOAZSaFYC0MhcXAA)]
 - [鋼琴伴奏 TMD 檔案](okyaku_sama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43Nj1uLH3cVPL48b-x41THzfue7-n48meLU-X9j_ZPeP9nk4FLS0uRVsFSzMue1sFJx0uGyN9EzuuOgWlF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lBdAyIwMjAz0DAzM9AwsTcyDDwAhoqxLYhpXz3u-Z9WLi7Kd981_unQQWezZ7E1Ds2aLG51M2vNg0T4mLyzcxM88qIDMxLz_Iw6HGoEahmksBCGwMzbTswKwaBQMFXTA2jgcSZiCiRsEcRIEJQxijRsEYmYusEAZBptRATQUphGGofhATxYwaiCkI80ygFuEyFCyPIMDqahSMQBSCgIqCVSBMBUvhMRoWCgPrXoSjyQxfNCGQ82EYJAwRwWYedpUwHkaygKcN8pMAPjPBcqhm1iInZh9CidksHmRCtFl8LMQvEK4xmIvCAdmFpBSfPiiF7EV8eomWA6eCaCPibERSjKLPFKLPFKwBhYNbDyG7cATmoPQYnSLOEMwzBHGQmITtw6WP6MSHlmhp5T-iMwqUgudNXTsFUPZUANLKXFwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ おきやくさま ]
+📊 TMD Song Profile: [ おきやくさま（客人） ]
 ================================================================================
 ⏱  Duration:       0:40 (40.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 B,, != 96.0 BPM, <2/4>
@@ -138,8 +138,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![おきやくさま — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P070.jpg](P070.jpg)
+![おきやくさま（客人） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P070.jpg](P070.jpg)
 
-![おきやくさま — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P071.jpg](P071.jpg)
+![おきやくさま（客人） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P071.jpg](P071.jpg)
 
 

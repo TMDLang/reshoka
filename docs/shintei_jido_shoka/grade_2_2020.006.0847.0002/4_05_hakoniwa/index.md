@@ -1,8 +1,8 @@
 ---
-title: "ハコニハ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "ハコニハ"
-description: "〈ハコニハ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（曲：小松耕輔），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タカイトコロハ　ヤマデセウ ヒクイハトコロ　カハデセウ…"
-keywords: "ハコニハ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小松耕輔"
+title: "ハコニハ（箱庭） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "ハコニハ（箱庭）"
+description: "〈ハコニハ（箱庭）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（曲：小松耕輔），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タカイトコロハ　ヤマデセウ ヒクイハトコロ　カハデセウ…"
+keywords: "ハコニハ（箱庭）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P058.jpg"
 audio: "hakoniwa.mp3"
 ---
 
-# ハコニハ
+# ハコニハ（箱庭）
 
 <audio controls src="hakoniwa.mp3"></audio>
 
@@ -18,6 +18,9 @@ audio: "hakoniwa.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫箱庭中的小型山水與庭園景色，像一個縮小的世界。
 
 原書資訊與歌詞全文（對應 P058.jpg，書頁 p. 43，參考教材第 5 首）：
 調性與拍號：ニ調四拍子（標題誤植為二拍子，譜面拍號為 4/4），「カハイラシク」
@@ -42,7 +45,7 @@ audio: "hakoniwa.mp3"
 
 ```abc
 X:1
-T:ハコニハ
+T:ハコニハ（箱庭）
 C:曲：小松耕輔
 M:4/4
 L:1/16
@@ -58,14 +61,14 @@ d4 d4 d4 B4 | A8 B4 A4 | F4 F4 E4 E4 | D12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hakoniwa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG7uf9y0-XFzN5ChoKXFpWirYGhgwWVvq-DCZWOib2IH0vps9qb3e2Y93dD_bO6-Fw1TX-yZAjbxRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Op5unbH051bnk9Z8X5PByjM9IBhpgcKMyDDwOj9nk4lLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oHuerFy3tPWFc-mtQNd8XRD77P2ToUAA1MLvayC9Pd7eoCKXy5oVCjQUzAxBnKf9je_aGgGevfZ3AlATyiYKrxcNg3oUmDQgEx_sWr_s4blIHO7e1_MnA8UBYYqUPDp7NlAkadrJwDteLZi5suFPS9WLXm2pPd50y5gOMCkel6snfNy7iKIXqCUAjDswWYDw67ncdNqcDwtedy88nHT9sdN6x839HKBLH2yowFEPW7aD1IDUtABjs61IPUNDY-bgSLzHje3P27a_bhpGVhp8ySQfpDSfoRqoFKIHahKIbpBaQOsZ-uzOSvASpc9bt4IkkIoheoGKwWp3v64eRPU1CYkpWA37-qBaGl53LjvcePqx42THzfuf9y48HHTJJCWxiWPGyeCpWY_bmwDK23sfty4Hqy063Hj1seNa2FK28BSO9FUA0X3PW7qedw4_WU7kFwHVgoMIbiF6yHqgPYCfQUkgUK9YA1AFavBqpeDRECqpz9unA9STXkShAIFLX0uLo_E7Py8zPJEq4DMxLx8hxqDGoVqkC0KNhZadmBGDTB96YKhYRyQMANiiBAMG4NFjIAkCBtC6RqwOAwagETQjAOZBGLXQAyGmw4RA-kGYZi5QFV4zEPGNWBTYCZhmgZxL8wV6KYh3ILmXVQnE-O8Wi4uXTsFWAgrANnKXFwA)]
+- [主旋律 TMD 檔案](hakoniwa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG7uf9y0-XFzN5Dxfk_H83Ubn-5a-35Pp4KWFpeirYKhgQWXva2CC5eNib6JHciYZ7M3vd8z6-mG_mdz971omPpizxSw6S_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8ygqgA0DhpwcMPz1Q-AEZBkZAxyhx6WspAC1-Pnvdi1Wrns3o41JQUHiyY-2zae0vli9-2d4NdNGz_v6n61dD3A-Uej6rBejGp_O6n27c-GzDlhcd7UDxp3MmPZu5_kUn0Ac9T5v7n-xoeNrQ_XzHOqBKoPonO6Y9nwp0XhOXlj4XyEZbagGQc5_2zX82e8eLze0vVnQBXQMMiBcr5z1tXQH0A9DbTzf0PmvvVAgwMLXQyypIB7oPqPjlgkaFAj0FE2OQc_ubXzQ0A8P32dwJwFBTMFV4uWwaMGiAPgeZ_mLV_mcNy0Hmdve-mDkfKAqMUqDg09mzgSJP104A2vFsxcyXC3terFrybEnv86ZdwICHSfW8WDvn5dxFEL1AKQVgZIPNBoZGz-Om1eBEsuRx88rHTdsfN61_3NDLBYmBBhD1uGk_SA1IQQc4La0FqW9oeNwMFJn3uLn9cdPux03LwEqbJ4H0g5T2I1QDlULsQFUK0Q1KmGA9W5_NWQFWuuxx80aQFEIpVDdYKUj19sfNm6CmNiEpBbt5Vw9ES8vjxn2PG1c_bpz8uHH_48aFj5smgbQ0LnncOBEsNftxYxtYaWP348b1YKVdjxu3Pm5cC1PaBpbaiaYaKLrvcVPP48bpL9uB5DqwUmAIwS1cD1EHtBfoKyAJFOoFawCqWA1WvRwkAlI9_XHjfJBqypMgFCiAkrZHYnZ-XmZ5olVAZmJevkONQY1CNcgWBRsLLTswowaYvnTB0DAOSJgBMUQIho3BIkZAEoQNoXQNWBwGDUAiaMaBTAKxayAGw02HiIF0gzDMXKAqPOYh4xqwKTCTME2DuBfmCnTTEG5B8y6qk4lxXi0Xl66dAiyEFYBsZS4uAA)]
 - [鋼琴伴奏 TMD 檔案](hakoniwa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P-4afPj5m4g4_2ejpfde55P2PJkz5anS_ufd3a839OpoKXFpWirYGhgwWVvq-DCZWOib2LHVaeg9Gz2pvd7Zj3d0P9s7r4XDVNf7JmiBBJ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonu3qert3xdOeW51NWAF1iZGBkoGdgYKZnYGFiDmQYGAEdo8TF5ZGYnZ-XWZ5oFZCZmJcf5OFQY1CjUM2lAAQ2Flp2YEaNgqmCLhgaxgEJMyCGCMGwMVjECEiCsCGUrgGLw6ABSATNOJBJIHYNxGC46RAxkG4QhpkLVIXHPGRcAzYFZhKmaRD3wlyBbhrCLWjeRXUyMc6rRQ9gH5QANoEHsGG8QrRhrIIJkDKJRfChFND6eCDLND4WwYCrAWEDhOMRBoE1Qk2E88H6gSwizYE7AGoOnA9lwIxDciGYQBiE5ABkn5HgIGAg6topwMJRAchW5uICAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ハコニハ ]
+📊 TMD Song Profile: [ ハコニハ（箱庭） ]
 ================================================================================
 ⏱  Duration:       0:35 (35.6s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <4/4>
@@ -118,6 +121,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ハコニハ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P058.jpg](P058.jpg)
+![ハコニハ（箱庭） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P058.jpg](P058.jpg)
 
 

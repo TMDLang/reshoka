@@ -1,8 +1,8 @@
 ---
-title: "オホシサマ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "オホシサマ"
-description: "〈オホシサマ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原和三郎、曲：楠見恩三郎），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オヒサマニシニカクレテ ヨヒノミヨウジヨウ　カホダスト…"
-keywords: "オホシサマ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 楠見恩三郎"
+title: "オホシサマ（星星） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "オホシサマ（星星）"
+description: "〈オホシサマ（星星）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原和三郎、曲：楠見恩三郎），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オヒサマニシニカクレテ ヨヒノミヨウジヨウ　カホダスト…"
+keywords: "オホシサマ（星星）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 楠見恩三郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P023.jpg"
 audio: "ohoshisama.mp3"
 ---
 
-# オホシサマ
+# オホシサマ（星星）
 
 <audio controls src="ohoshisama.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "ohoshisama.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：仰望夜空中的星星，歌唱其明亮與美麗。
 
 原書資訊與歌詞全文（對應 P023.jpg，書頁 p. 8，第一學期第 8 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「キレイニ」
@@ -59,7 +62,7 @@ audio: "ohoshisama.mp3"
 
 ```abc
 X:1
-T:オホシサマ
+T:オホシサマ（星星）
 C:曲：楠見恩三郎
 M:2/4
 L:1/16
@@ -76,14 +79,14 @@ C2 C2 F2 F2 | A2 A2 c2 c2 | G2 G2 G2 A2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ohoshisama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5a9bh59uOm7Y-btj5unqegpcWlaKtgYcFlb6vgxmVjpG9iB9L8YuW893tmPZ-_-Wnf_KeTep7s6HzZ3Ac29tnsTUCZZ0sXvFjW_axxJZLMi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-y4v2eDlCQ6gGDVA8UpECGgeH7PZ1KXFz6Wgq21AJcCgoKQK89m73jxeb2Fyu6XnS0A90F9PXT1hXPprUDXfF0Q--z9k6FAAMjY72sgvT3e3qAil8uaFQo0FOwAPLg7n42Zz6QrWCh8HLZNKBDgYEDMvzFqv3PGpaDjO3ufTFzPlD0cfMMoOCTXT1AkadrJwCtcFN4umQ5UEwBGOoKQFGwbmDg9DxuWvu4ec3jpiWPm7sfN_RygQwEWgaiwPE3CRJ5IFlgRILI1Y-b1oO0NLeBFTWvAClq7nvcPB_Eblr2uGkHlNHQAFINTALNQMbOx80dEFMXPW5uedzcCNIDVAFKIcseN7c_bl4E5k4B61kFUbqZaKUg0Tawy1aD5dC44GQINAXk-l0QT-7qgdgB9D_QGqAU0IVdj5u2PG7eBPIwSO8SsH3dEHXroOpAvkJSCjIdi2q8ngTZuRJCEuFPDNVAPwCDH2jdemgQI3OxeXVHJyyqgO5q2giKRqBl0JjsAtsNDCygBdAoBUY6MEmATYE7BygCsgwouPJx8wI8kQlUAXN2EzBtQIzE4kPs6iDuw5Wa9oOSEii5dUDjnfLsCQUKWvpcXP4Z-cDyuDgxN9EqIDMxL9-hxqBGoRpkj4KNhZYdmIGtaFCA5NAXC3sUNEwUnm7of76-QQeenzWxaADaBjKsRsEYCmsUDKGwRsEICA2BGCSrC4QGCjXgeMRt964ecuw2BZptCoQQVyDsNoK6hzi7d3SSY7cZFIJcYQoNAYh7QCwj4ux-Ons2ZWEOCWmIv3XBbKDL4okN9ClkBXo8CEEsBTkCEgHYgr2Wi0vXTgGRJhWAPGUuLgA)]
+- [主旋律 TMD 檔案](ohoshisama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5a9bh59uOm7Y-btj5unvd-T8ezGfOB6P2eTgUtLS5FWwULCy57WwU3LhsjfRM7kEEvVgKVzXo-f_PTvvlPJ_U82dH5srkPbMWz2ZuAMs-WLnixrPtZ40okmRftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKj4enaHU93bnk-ZQXQcaDg1QMGrx4oeIEMA0OgQ5W49LUUgHY_n73uxapVz2b0cSkoKDzZsfbZtPYXyxe_bO8GOurJ7g3P5sx-umTO85W7gFLPZ7XA_NkDtBRo9dPWbUCdT3ate9HR_nxf38td0x83NHFp6XOBDLelFgC5DBhsz2bveLG5_cWKLqBlQOuBIfq0dQXQuUAfPt3Q-6y9UyHAwMhYL6sgHeS-2TteLmhUKNBTsADy4GHybM58IFvBQuHlsmnAQAD6EWT4i1X7nzUsBxnb3ftiJtB7sx43zwAKPtnVAxR5unYC0Ao3hadLlgPFFIAxqgAUBesGBnzP46a1j5vXPG5a8ri5-3FDLxckHBtAFDidTIIkEpAsMMGAyNWPm9aDtDS3gRU1rwApau573DwfxG5a9rhpB5TR0ABSDUxqzUDGzsfNHRBTFz1ubnnc3AjSA1QBSonLHje3P25eBOZOAetZBVG6mWilINE2sMtWg-XQuODkDjQF5PpdEE_u6oHYAfQ_0BqgFNCFXY-btjxu3gTyMEjvErB93RB166DqQL5CUgoyHYtqvJ4E2bkSQhLhTwzVQD8Agx9o3XpoECNzsXl1RycsqoDuatoIikagZdCY7ALbDQwsoAXQKAVGOjBJgE2BOwcoArIMKLjycfMCPJEJVAFzdhMwbUCMxOJD7Oog7sOVmvaDkhIouXVA453y7AkFCqBs75-RDyz3ixNzE60CMhPz8h1qDGoUqkH2KNhYaNmBGdiKBgVIDn2xsEdBw0Th6Yb-5-sbdOD5WROLBqBtIMNqFIyhsEbBEAprFIyA0BCIQbK6QGigUAOOR9x27-ohx25ToNmmQAhxBcJuI6h7iLN7Ryc5dptBIcgVptAQgLgHxDIizu6ns2dTFuaQkIb4WxfMBrosnthAn0JWoMeDEMRSkCMgEYAt2Gu5uHTtFBBpUgHIU-biAgA)]
 - [鋼琴伴奏 TMD 檔案](ohoshisama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx8-zHTdsfN2193Dzv_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcFlb6vgxmVjpG9ix1WnoPRiJVD9rOfzNz_tm_90Us-THZ0vm_uUQDLPZm8CyjxbuuDFsu5njSuRZF6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVAVxoZGBnoGRiY6RlYmJgDGQaGQIcqcXH5Z-QXZ2QWJ-YmWgVkJublB3k41BjUKFRzKQCBjYWWHZihr6Vgiw4UIJa8WNijoGGi8HRD__P1DToKAQZGxnpZBemaWDRo6YMNq1EwhsIaBUMorFEwAkJDIAbJ6gKhgUINF367d_WQY7cp0GxTIIS4AmG3EdQ9xNm9o5Mcu82gEOQKU2gIQNwDYhkRZ_fT2bMpC3NISEP8rQtmA10WT2ygTyEr0ONBCGIpyBGQCMAW7LWYSdIHJUmaQJMkUFO8QrRhLDLDNB7IMo2HioGMI1WlCVDYBEUlihYsRoJNMgSbhMQ0wa4Yj_1Aj-vaKSD8roDBU-biAgA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ オホシサマ ]
+📊 TMD Song Profile: [ オホシサマ（星星） ]
 ================================================================================
 ⏱  Duration:       0:27 (27.3s), 20 measures total
 🎼 Key & Tempo:    首調基準 F, != 88.0 BPM, <2/4>
@@ -136,6 +139,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![オホシサマ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P023.jpg](P023.jpg)
+![オホシサマ（星星） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P023.jpg](P023.jpg)
 
 

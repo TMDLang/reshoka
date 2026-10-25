@@ -1,8 +1,8 @@
 ---
-title: "カラス — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "カラス"
-description: "〈カラス〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カアカア　カラスガ　ナイテイク カラス　カラス　ドコヘイク…"
-keywords: "カラス, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "カラス（烏鴉） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "カラス（烏鴉）"
+description: "〈カラス（烏鴉）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カアカア　カラスガ　ナイテイク カラス　カラス　ドコヘイク…"
+keywords: "カラス（烏鴉）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P033.jpg"
 audio: "karasu.mp3"
 ---
 
-# カラス
+# カラス（烏鴉）
 
 <audio controls src="karasu.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "karasu.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫烏鴉飛翔、鳴叫與在鄉野活動的情景。
 
 原書資訊與歌詞全文（對應 P033.jpg，書頁 p. 18，第二學期第 3 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「カルク」
@@ -36,7 +39,7 @@ audio: "karasu.mp3"
 
 ```abc
 X:1
-T:カラス
+T:カラス（烏鴉）
 C:曲：文部省
 M:2/4
 L:1/16
@@ -52,14 +55,14 @@ c3 A c3 A | c2 A2 G2 F2 | A3 A G2 G2 | F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](karasu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWv24eeXjpp0KWlpcirYKlmZc9rYKblw2RvomdiBtL1bOe79n1rNp7S-bVzyf0wg26tnsTRhiL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKivd7OkABqAcMQD1QAAIZBobv93QqcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50F9CnT1tXAH0FdMXTDb3P2jsVAgyMjfWyCtLf7-kBKn65oFGhQE_B0ALIBTl8Vw_Q4c_mzAeyFYwVXi6bBnQpMFxApr9Ytf9Zw3KQud29L2bOB4o-bp4BFATqAYo8XTsBaIebwtMly4FiCsCgVgCKgnUDQ6cHHCerHzetf9zQywUyDSTQtAhKNjTA4-xx0xoQt7nrcdOSx81tILJpPUwDRAWyapDSzsdNm4FOQVa66nHz_MfNQAP6wCoWPW4GiswA6wQy2kCaoVJANb1AKbKcRHmsQYGClj4Xl3diUWJxqVVAZmJevkONQY1CNcgOBRtDMy07MAtbclGApLYXC3sUNEwUnm7of76-QQcex5pYNACtAhlWo2CqoAuExnAaImIMxEZAbAjENWAeSAwhAmKBoAGUrgHHJm637eoh120wl4BtQXEXQgQkBhIBycBEiHfbjk5y3QbCZlCMEIHZT5Qa_G57Ons2PeIUEm6wMEWEWy0Xl66dAiRFKgBZylwA)]
+- [主旋律 TMD 檔案](karasu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWv24eeXjpp3v93Q8b-5_uaXz_Z5OBS0tLkVbBUszLntbBTcuGyN9EzuQES9Wznu_Z9azae0vm1c8n9MINvbZ7E0YYi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8ygqgg0CBqQcMTD1QYAIZBoZAxylx6WspAG19Pnvdi1Wrns3o41JQUHiyYy3QCS-WL37Z3g1yTn__0_WrIf55uXj28_1THjc0vty85Wn_6hcd7U_nrHjZ0vmyve_Zlt1Pu6c-n9XyrLn12cz1jxuauLT0uUDm21ILgBz3tG_-s9k7Xmxuf7GiC2g90NvAgHzaugLoYqAnn27ofdbeqRBgYGysl1WQ_n5PD1DxywWNCgV6CoYWQC4oXHb1AMPl2Zz5QLaCscLLZdOAAQH0J8j0F6v2P2tYDjK3u_fFzPlA0cfNM4CCQD1AkadrJwDtcFN4umQ5UEwBGJMKQFGwbmDg94Cjf_XjJqDfe7lApoEEmhZByYYGePJ43LQGxG3uety05HFzG4hsWg_TAFGBrBqktPNx02agU5CVrnrcPP9xM9CAPrCKRY-bgSIzwDqBjDaQZqgUUE0vUIosJ1Eea1CgAEoN3olFicWlVgGZiXn5DjUGNQrVIDsUbAzNtOzALGzJRQGSmF8s7FHQMFF4uqH_-foGHXgca2LRALQKZFiNgqmCLhAaw2mIiDEQGwGxIRDXgHkgMYQIiAWCBlC6BhybuN22q4dct8FcArYFxV0IEZAYSAQkAxMh3m07Osl1GwibQTFCBGY_UWrwu-3p7Nn0iFNIuMHCFBFutVxcunYKkBSpAGQpcwEA)]
 - [鋼琴伴奏 TMD 檔案](karasu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx88rHTTvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqWZlz2tgpuXDZG-iZ2XHUKSi9Wznu_Z9azae0vm1c8n9OoBBJ7NnsThtiL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6DIjAyMDPQMDMz0DCxNzIMPAEOg4JS4u78SixOJSq4DMxLz8IA-HGoMahWouBSCwMTTTsgOz9LUUbNGBAsSGFwt7FDRMFJ5u6H--vkFHIcDA2FgvqyBdE4sGLX2wYTUKpgq6QGgMpyEixkBsBMSGQFwD5oHEECIgFggaQOkaLvxu29VDrttgLgHbguIuhAhIDCQCkoGJEO-2HZ3kug2EzaAYIQKznyg1-N32dPZsesQpJNxgYYoIt1rUBOmDkiBNoOkRqDFeIdowFivDND4eaF4NkkLTeAyVcCFUlSYYClFE8FqOYiTQG7p2ChCfKABZylwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ カラス ]
+📊 TMD Song Profile: [ カラス（烏鴉） ]
 ================================================================================
 ⏱  Duration:       0:20 (20.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
@@ -112,6 +115,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![カラス — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P033.jpg](P033.jpg)
+![カラス（烏鴉） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P033.jpg](P033.jpg)
 
 

@@ -1,8 +1,8 @@
 ---
-title: "デンシヤ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "デンシヤ"
-description: "〈デンシヤ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チンチンデンシヤガウゴキダス ゴウゴウマチノ　マンナカヲ…"
-keywords: "デンシヤ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 小松耕輔"
+title: "デンシヤ（電車） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "デンシヤ（電車）"
+description: "〈デンシヤ（電車）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チンチンデンシヤガウゴキダス ゴウゴウマチノ　マンナカヲ…"
+keywords: "デンシヤ（電車）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P058.jpg"
 audio: "densha.mp3"
 ---
 
-# デンシヤ
+# デンシヤ（電車）
 
 <audio controls src="densha.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "densha.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 104
+曲目說明
+中文解釋：描寫電車行駛、沿途景色與乘車的興奮。
 
 ## 歌詞
 
@@ -45,7 +45,7 @@ audio: "densha.mp3"
 
 ```abc
 X:1
-T:デンシヤ
+T:デンシヤ（電車）
 C:曲：小松耕輔
 M:2/4
 L:1/16
@@ -67,14 +67,14 @@ d4 d2 c2 | f2 f2 c4 | A4 F4 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](densha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8bm5_3Lz5cdP2x81LFLS0uBRtFQwNTLjsbRXcuGyM9E3sQLpfrJz3fs-sFxNnP-2b_2HZxs1gI5_N3gQUfLqh_9ncfS8apr7YMwUs_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3Y0PF274-nOLc-nrHi_pwMUlnrAsNQDhSWQYWD4fk-nEheXvhYXUCXX4-ZGkLuhJMIPj5vWPG5a9rhpy-OmtY-bGx437eQCcyBCyx43zwPr6Xvc0ABmAzV3PW5a_bh5E9DIfrAZLY-b2x43AzUADZgHNABqCZIpECN3gBSBDOh-3LQKrG0h0JjHzb0gNzRPgmgGmorqOKglQBsxTOV6sqsHqH4-2ElbsXgMZCKQBFoGNRqFD_bGSpDHgMY1rwCbC3TjZqBrgSYBPTPhcXMP2CSgs7vBAQB08yqwNqCj1gDVLQJzgLYvQVVHtpe09Lm4fBMz86wCMhPz8h1qDGoUqrkUgMDG0EzLDsyqUTBV0AVDGI0QMQZiQ7CIEZBExhARGDQAieA0DWQKCKOKgCDIDBAboQvdNIhKY7gZCJeAeBCXgFwItjEe4QEYkxzzYHIgcxEi2Ewzg4qBaJAPgG6JA2kEEZi-hbkT4WKEebVcXLp2CqCoUkCilbm4AA)]
+- [主旋律 TMD 檔案](densha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8bm5_3Lz5cdP2x81L3u_peDl794vdXe_3dCpoaXEp2ioYGphw2dsquHHZGOmb2IFMerFy3vs9s15MnP20b_6HZRs3g41_NnsTUPDphv5nc_e9aJj6Ys8UsPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6CpQuOoBw1UPFK5AhoEh0IVKXPpaCkCLn89e92LVqmcz-rgUFBSe7Fj7bFr7i-WLX7Z3A130rL__6frVEE-9WNjzcvnsxw2Nzzbtf9kw5dnM9S86N73oaH-ycwZQ9vmslhcdHU-Xrnvc0MSlpc8FNJwL6Aqux82NoPCBkoiwety05nHTssdNWx43rX3c3PC4aScXmAMRWva4eR5YT9_jhgYwG6i563HT6sfNm4BG9oPNaHnc3Pa4GagBaMA8oAFQS5BMgRi5A6QIZED346ZVYG0LgcY8bu4FuaF5EkQz0FRUx0EtAdqIYSrXk109QPXzwU7aisVjIBOBJNAyqNEofLA3VoI8BjSueQXYXKAbNwNdCzQJ6JkJj5t7wCYBnd0NDgCgm1eBtQEdtQaobhGYA7R9Cao6sr0EijHfxMw8q4DMxLx8hxqDGoVqUHpQsDE007IDs2oUTBV0wRBGI0SMgdgQLGIEJJExRAQGDUAiOE0DmQLCqCIgCDIDxEboQjcNotIYbgbCJSAexCUgF4JtjEd4AMYkxzyYHMhchAg208ygYiAa5AOgW-JAGkEEpm9h7kS4GGFeLReXrp0CKKoUkGhlLi4A)]
 - [鋼琴伴奏 TMD 檔案](densha_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P64efPjpu2Pm5e839PxuHnK46ZFj5v7nuzZ8nRp_5PdM97v6VTQ0uJStFUwNDDhsrdVcOOyMdI3seOqU1B6sXLe-z2zXkyc_bRv_odlGzcrgQSfzd4EFHy6of_Z3H0vGqa-2DMFLPyifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU92NDxdu-Ppzi3Pp6wAutDIwMhAz8DATM_AwsQcyDAwBLpQiYvLNzEzzyogMzEvP8jDocagRqGaSwEIbAzNtOzArBoFUwVdMITRCBFjIDYEixgBSWQMEYFBA5AITtNApoAwqggIgswAsRG60E2DqDSGm4FwCYgHcQnIhWAb4xEegDHJMQ8mBzIXIYLNNDOoGIgG-QDoljiQRhCB6VuYOxEuRphXixxTPigxZQGPqGjDWKBiCInBM40HcyEUnA8yH-ZavNohPLhuMBePZnTbsBhGsm48lpuAFYBJYvwB0QsMU107BVCwKiDRylxcAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ デンシヤ ]
+📊 TMD Song Profile: [ デンシヤ（電車） ]
 ================================================================================
 ⏱  Duration:       0:46 (46.2s), 40 measures total
 🎼 Key & Tempo:    首調基準 F, != 104.0 BPM, <2/4>
@@ -128,8 +128,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![デンシヤ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P058.jpg](P058.jpg)
+![デンシヤ（電車） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P058.jpg](P058.jpg)
 
-![デンシヤ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P059.jpg](P059.jpg)
+![デンシヤ（電車） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P059.jpg](P059.jpg)
 
 

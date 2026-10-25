@@ -1,8 +1,8 @@
 ---
-title: "ムシノコヱ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ムシノコヱ"
-description: "〈ムシノコヱ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：小松耕輔），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：リンリン　チリリン　ムシガナク マツムシ　スズムシ　スズシイコエデ…"
-keywords: "ムシノコヱ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小松耕輔"
+title: "ムシノコヱ（蟲的聲音） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ムシノコヱ（蟲的聲音）"
+description: "〈ムシノコヱ（蟲的聲音）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：小松耕輔），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：リンリン　チリリン　ムシガナク マツムシ　スズムシ　スズシイコエデ…"
+keywords: "ムシノコヱ（蟲的聲音）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "C"
@@ -10,7 +10,7 @@ image: "P062.jpg"
 audio: "mushi_no_koe.mp3"
 ---
 
-# ムシノコヱ
+# ムシノコヱ（蟲的聲音）
 
 <audio controls src="mushi_no_koe.mp3"></audio>
 
@@ -19,8 +19,8 @@ audio: "mushi_no_koe.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= C，拍號 <2/4>，速度 != 96
+曲目說明
+中文解釋：描寫夜裡或草叢中各種昆蟲此起彼落的鳴叫。
 
 ## 歌詞
 
@@ -35,7 +35,7 @@ audio: "mushi_no_koe.mp3"
 
 ```abc
 X:1
-T:ムシノコヱ
+T:ムシノコヱ（蟲的聲音）
 C:曲：小松耕輔
 M:2/4
 L:1/16
@@ -51,14 +51,14 @@ A3 A c2 A2 | G3 G E4 | c4 A2 G2 | c6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mushi_no_koe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuXvC4afvj5r7HTZsfN29U0NLiUrRVsDTjsrdVcOayMdI3sQNpfjZ70_s9s55u6H82d9-Lhqkv9kwBm_mifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU92NDxdu-Ppzi3Pp6x4v6cDFGp6wFDTA4UakGFg-H5PpxIXl74W1-PmVY-bgU4Dkw0Nj5sbwWw4F-z8pjWPm7seN60Hqp73uLkFKgqUbtr5uGkXOhekYQnIv00rHje3cz1uAhrW_bi5HxQKIEXrHzdthbJBZi0DaQMx2oBKkQwAKYWaAVaKxYVcWvpcXL6JmXlWAZmJefkONQY1CtVcCkBgY2imZQdm1SgYxinoAqFRHIRlBsQ4BE3BYmZg2hhJBAINQCJQM0HqQSrxajaCWKFgCCZBIiBxEAbxkI0DiYFkQHpBGGIBCMMcgFAD0gsyEWhjPKmuM4WaghQCCGuQhBAG1nJx6dopgMJYAUgrc3EBAA)]
+- [主旋律 TMD 檔案](mushi_no_koe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuXvC4afvj5r7HTZsfN298v6fjxfxNz2e1vGjc9HL-5vd7OhW0tLgUbRUszbjsbRWcuWyM9E3sQMY9m73p_Z5ZTzf0P5u770XD1Bd7poBtedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgBdAQpHPWA46oHCEcgwMAS6RYlLX0sBaPHz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6gi5719z9dv_rpkjkvFi981jHtRW_n0_5FQDVPJ7Q8X7Hu2Yw2oP-erV3yYuv2p3v3vJiwF-jXl5u3PO1f_bihiUtLnwtoBdfj5lWPm4HBASYbGh43N4LZcC44yJrWPG7uety0Hqh63uPmFqgoULpp5-OmXehckIYloDBuWvG4uZ3rcRPQsO7Hzf2gkAcpWv-4aSuUDTJrGUgbiNEGVIpkAEgp1AywUiwuBHvCNzEzzyogMzEv36HGoEahGhRQCjaGZlp2YFaNgmGcgi4QGsVBWGZAjEPQFCxmBqaNkUQg0AAkAjUTpB6kEq9mI4gVCoZgEiQCEgdhEA_ZOJAYSAakF4QhFoAwzAEINSC9IBOBNsaT6jpTqClIIYCwBkkIYWAtF5eunQIojBWAtDIXFwA)]
 - [鋼琴伴奏 TMD 檔案](mushi_no_koe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOBx0_bHzX2PmzY_bt74fk_H4-Ypj5sWAUWe7NnydGn_k90z3u_pVNDS4lK0VbA047K3VXDmsjHSN7HjqlNQejZ70_s9s55u6H82d9-Lhqkv9kxRAgm_aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgG4xMjAy0DMwMNMzsDAxBzIMDIFuUeLi8k3MzLMKyEzMyw_ycKgxqFGo5lIAAhtDMy07MKtGwTBOQRcIjeIgLDMgxiFoChYzA9PGSCIQaAASgZoJUg9SiVezEcQKBUMwCRIBiYMwiIdsHEgMJAPSC8IQC0AY5gCEGpBekIlAG-NJdZ0p1BSkEEBYgySEMLAWOYh9UILYAh7C0YaxQMXRJiASBw9Mwnggw2FuhajDodo0HsyFUHBZEBfJAFQtEONQrEPTT7TtuDUDQ0XXTgEUMApAWpmLCwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ムシノコヱ ]
+📊 TMD Song Profile: [ ムシノコヱ（蟲的聲音） ]
 ================================================================================
 ⏱  Duration:       0:20 (20.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <2/4>
@@ -111,6 +111,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ムシノコヱ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P062.jpg](P062.jpg)
+![ムシノコヱ（蟲的聲音） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P062.jpg](P062.jpg)
 
 

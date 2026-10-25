@@ -1,8 +1,8 @@
 ---
-title: "アサガホ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "アサガホ"
-description: "〈アサガホ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：マイアサ　マイアサ サク　アサガホハ…"
-keywords: "アサガホ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "アサガホ（牽牛花） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "アサガホ（牽牛花）"
+description: "〈アサガホ（牽牛花）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：マイアサ　マイアサ サク　アサガホハ…"
+keywords: "アサガホ（牽牛花）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P022.jpg"
 audio: "asagao.mp3"
 ---
 
-# アサガホ
+# アサガホ（牽牛花）
 
 <audio controls src="asagao.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "asagao.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫清晨盛開的牽牛花與夏日庭院景色。
 
 原書資訊與歌詞全文（對應 P022.jpg，書頁 p. 7，第一學期第 7 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「キレイニ」♩=84
@@ -47,7 +50,7 @@ audio: "asagao.mp3"
 
 ```abc
 X:1
-T:アサガホ
+T:アサガホ（牽牛花）
 C:曲：文部省
 M:2/4
 L:1/16
@@ -62,14 +65,14 @@ c4 A2 c2 | d2 d2 c2 c2 | A2 c2 A2 F2 | G2 A2 F4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](asagao.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJOYBjdXSUnjctOhx09bHTWseN89W0NLiUrRVsDDhsrdVcOOyMdI3sQNpfLFy3vs9s55Na3_ZvOL5nEawYc9mb8IQe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVrzf0wEKQj1gEOqBghDIMDB8v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu4A-fdq6AugroCuebuh91t6pEGBgZKSXVZD-fk8PUPHLBY0KBXoK5kAe3N3P5swHshXMFV4umwZ0KDBYQIa_WLX_WcNykLHdvS9mzgeKPm6eARR8sqsHKPJ07QSgFW4KT5csB4opAENaASgK1g0MnJ7HTWsfN6953LTkcXP344beRzNX2gJjBWQs0EoQ9bh5HkgWEnkNDchcsDQoSteDJJCi93FzP0TrpsfNHWA0CawCaFXf4-apQBGINNC0zVASZPLUx00rHje3QYzdCDKtuR-sb_vj5rVPZwONbYHoW_C4eSXYsrVA6Se7poAkwE7e1QPRvArkCJB1XWCDWx43z3ncPB_mLJBLdyIcDrQEqK5pNcTsRpBjQVbj1AqUA4q2gV0GNgOmFWgOMGQggQGUAPugaSNEH9ALQHOA7loCC6vVj5sXgeQoT2FQoKClz8XlWJyYnphvFZCZmJfvUGNQo1ANskPBxkLLDszAlrIVIAnsxcIeBQ0Thacb-p-vb9CBJ0dNLBqANoEMq1EwBUJjIERnmQEhTExXoQYcO7jt3tVDrt3I9oDsNoLCGiDPEEgTtntHJ3l26wJtMAWyQC4A2Q-yEeQKQ7ArQDTI7louLl07BUikKABZylxcAA)]
+- [主旋律 TMD 檔案](asagao.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJOYBjdXSUnjctOhx09bHTWseN89-v6fjeefe552zX3RtfL-nU0FLi0vRVsHChMveVsGNy8ZI38QOZM6LlfPe75n1bFr7y-YVz-c0gs1-NnsThtiL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6CZQiOoBQ1QPFKJAhoEh0HFKXPpaCkBbn89e92LVqmcz-rgUFBSe7FgLdMKL5YtftneDnNPf_3T96mc7Wp_NXPF89uyX07qfz2qB-_BFR_vTJf3Ppi99umvty5mLns1c_6Jz0-OGJi4tfS6Q4bbUAiCXPe2b_2z2jheb21-s6AJaDPQzMBSftq4AOhfow6cbep-1dyoEGBgZ6WUVpL_f0wNU_HJBo0KBnoI5kAcPk2dz5gPZCuYKL5dNAwYC0I8gw1-s2v-sYTnI2O7eFzPnA0UfN88ACj7Z1QMUebp2AtAKN4WnS5YDxRSAsagAFAXrBgZ8z-OmtY-b1zxuWvK4uftxQ--jmSttgTEOCc0GEPW4eR5IFpJOGhqQuWBpUOpZD5JASkmPm_shWjc9bu4Ao0lgFUCr-h43TwWKQKSBpm2GkiCTpz5uWvG4uQ1i7EaQac39YH3bHzevfTobaGwLRN-Cx80rwZatBUo_2TUFJAF28q4eiOZVIEeArOsCG9zyuHnO4-b5MGeBXLoT4XCgJUB1TashZjeCHAuyGqdWoBxQtA3sMrAZMK1Ac4AhAwkMoATYB00bIfqAXgCaA3TXElhYrX7cvAgkR3kKgwIFUMp1LE5MT8y3CshMzMt3qDGoUagG2aFgY6FlB2ZgS9kKkAT2YmGPgoaJwtMN_c_XN-jAk6MmFg1Am0CG1SiYAqExEKKzzIAQJqarUAOOHdx27-oh125ke0B2G0FhDZBnCKQJ272jkzy7dYE2mAJZIBeA7AfZCHKFIdgVIBpkdy0Xl66dAiRSFIAsZS4uAA)]
 - [鋼琴伴奏 TMD 檔案](asagao_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOhx09bHTWseN89-v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmHDZ2yq4cdkY6ZvYcdUpKL1YOe_9nlnPprW_bF7xfE6jEkjs2exNGGIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoMuMDIwM9AwMzPQMLEzMgQwDQ6DjlLi4HIsT0xPzrQIyE_PygzwcagxqFKq5FIDAxkLLDszQ11KwRQcKEAteLOxR0DBReLqh__n6Bh2FAAMjI72sgnRNLBq09MGG1SiYAqExEKKzzIAQJqarUMOF3-5dPeTajWwPyG4jKKwB8gyBNGG7d3SSZ7cu0AZTIAvkApD9IBtBrjAEuwJEg-yuRY0TH5Q4MYHGSY2CYbxCtGEsOsMEWQRJJYq4gmk8kGUaDxMDs9CNNcEwH6zLEKwW6EZdOwWIMxVQWMpcXAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ アサガホ ]
+📊 TMD Song Profile: [ アサガホ（牽牛花） ]
 ================================================================================
 ⏱  Duration:       0:17 (17.1s), 12 measures total
 🎼 Key & Tempo:    首調基準 F, != 84.0 BPM, <2/4>
@@ -122,6 +125,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![アサガホ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P022.jpg](P022.jpg)
+![アサガホ（牽牛花） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P022.jpg](P022.jpg)
 
 

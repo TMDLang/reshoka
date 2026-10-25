@@ -1,8 +1,8 @@
 ---
-title: "カタツムリ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "カタツムリ"
-description: "〈カタツムリ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：デンデンムシムシ カタツムリ…"
-keywords: "カタツムリ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "カタツムリ（蝸牛） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "カタツムリ（蝸牛）"
+description: "〈カタツムリ（蝸牛）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：デンデンムシムシ カタツムリ…"
+keywords: "カタツムリ（蝸牛）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P021.jpg"
 audio: "katatsumuri.mp3"
 ---
 
-# カタツムリ
+# カタツムリ（蝸牛）
 
 <audio controls src="katatsumuri.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "katatsumuri.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫蝸牛背著殼慢慢爬行的樣子。
 
 原書資訊與歌詞全文（對應 P021.jpg，書頁 p. 6，第一學期第 6 首）：
 調性與拍號：ニ調二拍子（D 大調 2/4 拍），「ゲンキヨク」♩=92
@@ -54,7 +57,7 @@ audio: "katatsumuri.mp3"
 
 ```abc
 X:1
-T:カタツムリ
+T:カタツムリ（蝸牛）
 C:曲：文部省
 M:2/4
 L:1/16
@@ -69,14 +72,14 @@ A2 d2 d2 A2 | f2 a2 a2 f2 | d2 f2 f3 e | d4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](katatsumuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWv24af_j5pbHzQseN69S0NLiUrRVsDTisrdVcOGyMdI3sQNpfrFy3vs9s55Na3_ZvOL5nEawgc9mb8IQe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVrzf0wEKRj1gMOqBghHIMDB8v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu4A-fdq6AugroCuebuh91t6pEGBgZKiXVZD-fk8PUPHLBY0KBXoKZkAe3N3P5swHshXMFF4umwZ0KDBYQIa_WLX_WcNykLHdvS9mzgeKPm7uBgo-2dUDFHm6dgLQCheFp0uWA8UUgCGtABQF6wYGTs_jpk2Pmzc_blr7uHnF46b1jxt6H81caQuMGJDJQFtB1OPmdpAaKLngcdN2CAmWQ41YiNCqx83zHjfPeNzc97hpEVgayO2HGNX5uAloSDdIonk1RAiot-9xc8Pjpt2Pm5cADYGwIUbBtYOFwI7a1UOpo5oXgswj21EI7TAhylMJFCho6XNxeSeWJJYUl-aWFmVaBWQm5uU71BjUKFSDLFKwMTTTsgOzsKVRBUhSebGwR0HDROHphv7n6xt04AlLE4sGoH0gw2oUTBV0gdAUTBsDcY2CYRxYCEiBWUYgokbBGCIKpMACYKkaCBsEDaB0DTiucDtyVw85joRabhKnYApimUEsB7OBboeKghXBnQSksDifeIfu6CQ3NMHWggkQD2o12IXIzgQrALOhTgM6FB72yM6s5eLStVNAShsKQK4yFxcA)]
+- [主旋律 TMD 檔案](katatsumuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWv24af_j5pbHzQseN696v6fjxdwdzztnv9_TqaClxaVoq2BpxGVvq-DCZWOkb2IHMujFynnv98x6Nq39ZfOK53MawYY_m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdBAoSPWAQaoHClIgw8AQ6DglLn0tBaCtz2eve7Fq1bMZfVwKCgpPdqwFOuHF8sUv27tBzunvf7p-NcQ_L5p7Xkyc_mzdnmeti4DoeceaFwt7ns9qebZi8dO1Ex43NHFp6XOBzLSlFgA56Gnf_Gezd7zY3P5iRdeLjnagV4GB97R1BdCVQI893dD7rL1TIcDAyFAvqyD9_Z4eoOKXCxoVCvQUzIA8eFA8mzMfyFYwU3i5bBrQ70CvgQx_sWr_s4blIGO7e1_MnA8UfdzcDRR8sqsHKAL0FdAKF4WnS5YDxRSAkacAFAXrBoZ3z-OmTY-bNz9uWvu4ecXjpvWPG3ofzVxpC4xrSDg2gKjHze0gNVByweOm7RASLIeabiBCqx43z3vcPONxc9_jpkVgaSC3H2JU5-MmoCHdIInm1RAhoN6-x80Nj5t2P25eAjQEwoYYBdcOFgI7alcPpY5qXggyj2xHIbTDhChPJVCgAEp93okliSXFpbmlRZlWAZmJefkONQY1CtUgixRsDM207MAsbGlUAZJUgElaQcNE4emG_ufrG3TgCUsTiwagfSDDahRMFXSB0BRMGwNxjYJhHFgISIFZRiCiRsEYIgqkwAJgqRoIGwQNoHQNOK5wO3JXDzmOhFpuEqdgCmKZQSwHs4Fuh4qCFcGdBKSwOJ94h-7oJDc0wdaCCRAPajXYhcjOBCsAs6FOAzoUHvbIzqzl4tK1U0BKGwpArjIXFwA)]
 - [鋼琴伴奏 TMD 檔案](katatsumuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx0_7HzS2Pmxc8bl71fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOKyt1Vw4bIx0jex46pTUHqxct77PbOeTWt_2bzi-ZxGJZDYs9mbMMRetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQJcZGRgZ6BkYmOkZWJiYAxkGhkDHKXFxeSeWJJYUl-aWFmVaBWQm5uUHeTjUGNQoVHMpAIGNoZmWHZilr6Vgiw4UINa8WNijoGGi8HRD__P1DToKAQZGhnpZBemaWDRo6YMNq1EwVdAFQlMwbQzENQqGYBFDMG0EFgGJg2RBPJBoDZgFggZQuoYLv9t29ZDjNoi9JmC3mYHtxXQtxCVGGK4l3m07OskNN8M4GAHiQWwGsVDDEsSCuMkIHrrIrqvFEvc-KHFvAo16oO54hWjDWKwM0_h4oKE1SApNMOSjTeOhYqgqMY1EUQh0oa6dApIjFTC5ylxcAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ カタツムリ ]
+📊 TMD Song Profile: [ カタツムリ（蝸牛） ]
 ================================================================================
 ⏱  Duration:       0:15 (15.7s), 12 measures total
 🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <2/4>
@@ -129,6 +132,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![カタツムリ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P021.jpg](P021.jpg)
+![カタツムリ（蝸牛） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P021.jpg](P021.jpg)
 
 

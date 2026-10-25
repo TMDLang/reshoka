@@ -1,8 +1,8 @@
 ---
-title: "ツキ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ツキ"
-description: "〈ツキ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：デタ　デタ　ツキガ マルイマルイ　マンマルイ…"
-keywords: "ツキ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "ツキ（月亮） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ツキ（月亮）"
+description: "〈ツキ（月亮）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：デタ　デタ　ツキガ マルイマルイ　マンマルイ…"
+keywords: "ツキ（月亮）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P038.jpg"
 audio: "tsuki.mp3"
 ---
 
-# ツキ
+# ツキ（月亮）
 
 <audio controls src="tsuki.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "tsuki.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 88
+曲目說明
+中文解釋：描寫夜空中的月亮，以及月光照耀大地的景色。
 
 ## 跨冊／重複收錄參照
 
@@ -53,7 +53,7 @@ audio: "tsuki.mp3"
 
 ```abc
 X:1
-T:ツキ
+T:ツキ（月亮）
 C:曲：文部省
 M:2/4
 L:1/16
@@ -74,14 +74,14 @@ F3 G A2 d2 | c4 A4 | G4 A4 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5uedy0VkFLi0vRVsHCgsveVsGNy8ZI38QOpOfFynnv98x6Nq39ZfOK53MaweY8m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1nxfk8HKPT0gKGnBwo9IMPA8P2eTiUuLn0tLqBKrsfN7Y-b9j9uaEBigJz_uGkNUG7e4-bVj5uWIBggaSB7M1wEqGgOmN_3uHnJ46Zlj5u7EAZwPdnVw_W4Cahu_ePmNVDjQexFj5u7gRJAFlAdUBuMATW-GS4CVLTzcfN8FOPhBgA90Al2JNBgGrheS5-LyzcxM88qIDMxL9-hxqBGoZpLQcHG0EzLDkjXKJgq6IKhMZTGJmIIZRnBRWByIGgAEkEyywxMg1QQJwIzFdUsiJ1GYDVmONwF04npUoRZtVxcunYKoCBQwEIrcwEA)]
+- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5uedy09v2ejmdzOp7sWvd-T6eClhaXoq2ChQWXva2CG5eNkb6JHUj_i5Xz3u-Z9Wxa-8vmFc_nNILNfDZ7E4bYi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAuggUEjqAUNSDxSSQIaBIdBxSlz6WgpAW5_PXvdi1apnM_q4FBQUnuxYC3TCi-WLX7Z3g5zT3_90_eqnS-Y8X7kLKPV8VgvMbz1Pdi992t8F5D5t7XzeuvxFQ8PTJcufztkAUjNz_YvOTY8bmri09LmAtnABncP1uLn9cdP-xw0NSAxQeD1uWgOUm_e4efXjpiUIBkgayN4MFwEqmgPm9z1uXvK4adnj5i6EAVxPdvVwPW4Cqlv_uHkN1HgQe9Hj5m6gBJAFVAfUBmNAjW-GiwAV7XzcPB_FeLgBQA90gh0JNJgGrgeFkm9iZp5VQGZiXr5DjUGNQjUwMmwMzbTsgHSNgqmCLhgaQ2lsIoZQlhFcBCYHggYgESSzzMA0SAVxIjBTUc2C2GkEVmOGw10wnZguRZhVy8Wla6cACgIFLLQyFwA)]
 - [鋼琴伴奏 TMD 檔案](tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae37PR2Pm6c8blr0uLnvyZ4tT5f2P9k94_2eTgUtLS5FWwULCy57WwU3LhsjfRM7rjoFpRcr573fM-vZtPaXzSuez2lUAok9m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdJyRgZGBnoGBmZ6BhYk5kGFgCHScEheXb2JmnlVAZmJefpCHQ41BjUI1l4KCjaGZlh2QrlEwVdAFQ2MojU3EEMoygovA5EDQACSCZJYZmAapIE4EZiqqWRA7jcBqzHC4C6YT06UIs2qRQ8AHKQQsoAEQbRgLVAghcfBM45G5IJMhbiRCK4wHMQJDqwkexVitBXpH104B5CMFLLQyFwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ツキ ]
+📊 TMD Song Profile: [ ツキ（月亮） ]
 ================================================================================
 ⏱  Duration:       0:49 (49.1s), 36 measures total
 🎼 Key & Tempo:    首調基準 F, != 88.0 BPM, <2/4>
@@ -136,6 +136,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ツキ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P038.jpg](P038.jpg)
+![ツキ（月亮） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P038.jpg](P038.jpg)
 
 

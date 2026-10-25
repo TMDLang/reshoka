@@ -1,8 +1,8 @@
 ---
-title: "アリ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "アリ"
-description: "〈アリ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：梁田貞），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チヨロ　チヨロ　チヨロ チヨロ　チヨロ　チヨロ…"
-keywords: "アリ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 梁田貞"
+title: "アリ（螞蟻） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "アリ（螞蟻）"
+description: "〈アリ（螞蟻）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：葛原𦱳、曲：梁田貞），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チヨロ　チヨロ　チヨロ チヨロ　チヨロ　チヨロ…"
+keywords: "アリ（螞蟻）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P056.jpg"
 audio: "ari.mp3"
 ---
 
-# アリ
+# アリ（螞蟻）
 
 <audio controls src="ari.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "ari.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= D，拍號 <2/4>，速度 != 108
+曲目說明
+中文解釋：描寫螞蟻成群工作、搬運食物的勤勞模樣。
 
 ## 歌詞
 
@@ -52,7 +52,7 @@ audio: "ari.mp3"
 
 ```abc
 X:1
-T:アリ
+T:アリ（螞蟻）
 C:曲：梁田貞
 M:2/4
 L:1/16
@@ -72,14 +72,14 @@ d d d d d4 | A A A A A4 | B2 A2 F2 D2 | E2 E2 D2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvS4eZWClhaXoq2CoYEFl72tgguXjZG-iR1I04uV897vmfVi4uynffM_LNu4GWzSs9mbgILPFjU-n7LhxaZ5YLEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHmyo-Hp2h1Pd255PmXF-z0doPDTA4afHij8gAwDw_d7OpW4uPS1uIAquR43Nz5uXvG4ee3jhgasbGJUNK163Dwb4nGQRNNmCJtKhu-DCqExwObPe9y0BGRZ09bHzf2Pm4Hs9WDdYPHmCY-bgU5Z9bhpL1Cc5q7herKrB6gAqG4zyCXNK0EkSAGKCNjRzTMeN60G8UFmT3rctBHoVmK0goK1A6EV5LWdQJeBHQ4Rbd4EVtT_uGk32PBpYAM6QTHTDBTvAyogyo2doFgEubQd5sb1QBu4tPS5uHwTM_OsAjIT8_IdagxqFKq5FIDAxtBMyw7MqlEwjENBumBYo2AKhzARMyAJ4hkDsSFUDULEACRCuZFGQBKEQTxkI2FiIBqkukbBBMoCiYBVwnkgGiSLMB-EaebAWi4uXTsFUDgrINHKXFwA)]
+- [主旋律 TMD 檔案](ari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvS4edX7PR0v5s17MX_3-z2dClpaXIq2CoYGFlz2tgouXDZG-iZ2IANerJz3fs-sFxNnP-2b_2HZxs1gU5_N3gQUfLao8fmUDS82zQOLvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4BOAoWlHjAs9UBhCWQYGAKdp8Slr6UAtPX57HUvVq16NqOPS0FB4cmOtc-mtb9YvvhlezfIOf39T9evhvjoWceE5_uWPN2-9MneOY8bGp9NWPOysfvl4vnPO1c-n9XytHvJ0-55z1YsfLZi8eOGJi4tfS6g-VxAh3A9bm583LzicfPaxw0NWNnEqGha9bh5NiSMQRJNmyFsKhm-DyqExgCbP-9x0xKQZU1bHzf3P24GsteDdYPFmyc8bgY6ZdXjpr1AcZq7huvJrh6gAqC6zSCXNK8EkSAFKCJgRzfPeNy0GsQHmT3pcdNGoFuJ0QoK1g6EVpDXdgJdBnY4RLR5E1hR_-Om3WDDp4EN6ATFTDNQvA-ogCg3doJiEeTSdpgb1wNtAKcc38TMPKuAzMS8fIcagxqFalDSVLAxNNOyA7NqFAzjUJAuGNYomMIhTMQMSIJ4xkBsCFWDEDEAiVBupBGQBGEQD9lImBiIBqmuUTCBskAiYJVwHogGySLMB2GaObCWi0vXTgEUzgpItDIXFwA)]
 - [鋼琴伴奏 TMD 檔案](ari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOhx86r3ezoeN08Bs_ue7NnydGn_k90z3u_pVNDS4lK0VTA0sOCyt1Vw4bIx0jex46pTUHqxct77PbNeTJz9tG_-h2UbNyuBBJ_N3gQUfLao8fmUDS82zQOLvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4DOMzIwMtAzMDDTM7AwMQcyDAyBzlPi4vJNzMyzCshMzMsP8nCoMahRqOZSAAIbQzMtOzCrRsEwDgXpgmGNgikcwkTMgCSIZwzEhlA1CBEDkAjlRhoBSRAG8ZCNhImBaJDqGgUTKAskAlYJ54FokCzCfBCmmQNrkYPZByWYLeChHG0YC1QMITF4Jig803gY1wDuYEq1IwSRdIAEgWpgxoEFkY2jgvXAsNG1UwAFjwISrczFBQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ アリ ]
+📊 TMD Song Profile: [ アリ（螞蟻） ]
 ================================================================================
 ⏱  Duration:       0:35 (35.6s), 32 measures total
 🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <2/4>
@@ -133,6 +133,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![アリ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P056.jpg](P056.jpg)
+![アリ（螞蟻） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P056.jpg](P056.jpg)
 
 

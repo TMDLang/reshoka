@@ -1,8 +1,8 @@
 ---
-title: "フタリノヘイタイサン — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "フタリノヘイタイサン"
-description: "〈フタリノヘイタイサン〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：北原白秋、曲：成田爲三），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：フタリナランデヘイタイサン アカイボウシデオサンポダ…"
-keywords: "フタリノヘイタイサン, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
+title: "フタリノヘイタイサン（兩個小兵） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "フタリノヘイタイサン（兩個小兵）"
+description: "〈フタリノヘイタイサン（兩個小兵）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：北原白秋、曲：成田爲三），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：フタリナランデヘイタイサン アカイボウシデオサンポダ…"
+keywords: "フタリノヘイタイサン（兩個小兵）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P057.jpg"
 audio: "futari_no_heitaisan.mp3"
 ---
 
-# フタリノヘイタイサン
+# フタリノヘイタイサン（兩個小兵）
 
 <audio controls src="futari_no_heitaisan.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "futari_no_heitaisan.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 112
+曲目說明
+中文解釋：描寫兩個小兵一起行進、操練與互相陪伴。
 
 ## 歌詞
 
@@ -43,7 +43,7 @@ audio: "futari_no_heitaisan.mp3"
 
 ```abc
 X:1
-T:フタリノヘイタイサン
+T:フタリノヘイタイサン（兩個小兵）
 C:曲：成田爲三
 M:2/4
 L:1/16
@@ -61,14 +61,14 @@ d2 c2 A2 c2 | d2 c2 A2 F2 | G2 A2 c2 d2 | F4 z2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](futari_no_heitaisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG6e-rhp_-PmVY-b-x43z3jctATEBZFbHzdvVtDS4lK0VTA0NOKyt1Vw47Ix0jexAxn2YuW893tmPe2Z_rRv_vOZe58v7wbb8Wz2JqDws44Jz6dseN6x6cmOTrDwi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-y4v2eDlDg6gEDVw8UuECGgeH7PUAbuPS1uIAquZD80vW4eSXQ_Y-b2zE9xfW4adHjptUgfvOcx03LHjdtB6lrWgWRftw893FzAxfXk109QBPnPW5eDTZl0uPmDrDRQJWLQIJN6x83rwCpBBu3_XHTGrBEy-PmNrCeBWA7lj1u7gSKAI3b0Qk0Dmj0dLDTFgEd_Lh5DVg9smNXA40DGgw0ESgHVN0CMgVoLciNa8FeAMlyaelzcfkmZuZZBWQm5uU71BjUKFRzKQCBjaGZlh2YVaNgGKegq2AKxGZADObUKBiBmEAMoo3BIiAFIBZMBqIGBA2guAZqHsgYmGoQjSqC0AuTB8kCXYFhWi0Xl66dAsj5ClhoZS4uAA)]
+- [主旋律 TMD 檔案](futari_no_heitaisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG6e-rhp_-PmVY-b-x43z3jctATEBZFbHzdvfr-n42nryqcN3U839D9t3fp-T6eClhaXoq2CoaERl72tghuXjZG-iR3I-Bcr573fM-tpz_SnffOfz9z7fHk32NZnszcBhZ91THg-ZcPzjk1PdnSChV-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3segyzvfrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoOtAwa0HDG49UHADGQaGQDcqcelrKQAtfj573YtVq57N6ONSUFB4smPts2ntL5YvftneDXJRf__T9auRPQc0-cXW7S8W9rxs2PS4ofHZ5N7n27e86Gh_smvS89k7Xs5c9WTPlscNTVxa-lxA87mAyrmQAq_rcfNKYIA9bm7HDEWux02LHjetBvGb5zxuWva4aTtIXdMqiPTj5rmPmxu4uJ7s6gGaOO9x82qwKZMeN3eAjQaqXAQSbFr_uHkFSCXYuO2Pm9aAJVoeN7eB9SwA27HscXMnUARo3I5OoHFAo6eDnbYI6ODHzWvA6pEduxpoHNBgoIlAOaDqFpApQGtBblwL9gJIFuxr38TMPKuAzMS8fIcagxqFalCwKtgYmmnZgVk1CoZxCroKpkBsBsRgTo2CEYgJxCDaGCwCUgBiwWQgakDQAIproOaBjIGpBtGoIgi9MHmQLNAVGKbVcnHp2imAnK-AhVbm4gIA)]
 - [鋼琴伴奏 TMD 檔案](futari_no_heitaisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPPVx0_7HzaseN_c9bp7xuGkJiAsitz5u3vx-T8fj5imPmxYBZZ_s2fJ0af-T3TPe7-lU0NLiUrRVMDQ04rK3VXDjsjHSN7HjqlNQerFy3vs9s572TH_aN__5zL3Pl3crgYSfzd4EFH7WMeH5lA3POzY92dEJFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1YA3WhkYGSgZ2BgpmdgYWIOZBgYAt2oxMXlm5iZZxWQmZiXH-ThUGNQo1DNpQAENoZmWnZgVo2CYZyCroIpEJsBMZhTo2AEYgIxiDYGi4AUgFgwGYgaEDSA4hqoeSBjYKpBNKoIQi9MHiQLdAWGabXIrvdBcb0F3PHRhrFAxdEmIBLIM40Hc8GCcEmIIFwW2a0QjXD1qDyoYXDtYHG423TtFEDOU8BCK3NxAQA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ フタリノヘイタイサン ]
+📊 TMD Song Profile: [ フタリノヘイタイサン（兩個小兵） ]
 ================================================================================
 ⏱  Duration:       0:25 (25.7s), 24 measures total
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <2/4>
@@ -123,6 +123,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![フタリノヘイタイサン — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P057.jpg](P057.jpg)
+![フタリノヘイタイサン（兩個小兵） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P057.jpg](P057.jpg)
 
 

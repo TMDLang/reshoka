@@ -1,8 +1,8 @@
 ---
-title: "チンコロヘイタイ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "チンコロヘイタイ"
-description: "〈チンコロヘイタイ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：草川信），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チンコロチンコロチリチリチン チリチリチンコロチリチリチン…"
-keywords: "チンコロヘイタイ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 草川信"
+title: "チンコロヘイタイ（小小兵） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "チンコロヘイタイ（小小兵）"
+description: "〈チンコロヘイタイ（小小兵）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（曲：草川信），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チンコロチンコロチリチリチン チリチリチンコロチリチリチン…"
+keywords: "チンコロヘイタイ（小小兵）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 草川信"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "C"
@@ -10,7 +10,7 @@ image: "P066.jpg"
 audio: "chinkoro_heitai.mp3"
 ---
 
-# チンコロヘイタイ
+# チンコロヘイタイ（小小兵）
 
 <audio controls src="chinkoro_heitai.mp3"></audio>
 
@@ -19,8 +19,8 @@ audio: "chinkoro_heitai.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= C，拍號 <2/4>，速度 != 108
+曲目說明
+中文解釋：描寫身材小巧、精神抖擻的士兵遊行與操練。
 
 ## 歌詞
 
@@ -58,7 +58,7 @@ audio: "chinkoro_heitai.mp3"
 
 ```abc
 X:1
-T:チンコロヘイタイ
+T:チンコロヘイタイ（小小兵）
 C:曲：草川信
 M:2/4
 L:1/16
@@ -88,14 +88,14 @@ A2 A2 A2 G2 | c2 c2 c2 A2 | G2 G2 G2 A2 | G6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](chinkoro_heitai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-Zm5mSWJBZVKnFpaSk8bm583Lz5cdPmx81rHzfPeNy05HHTfiCpoKXFpWirYGhgwWVvq-DMZWOkb2IHMujZ7E3v98x60dv5dPvcJ_sXgg1_0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWvN_TAQo-PWDw6YGCD8gwMHy_p1OJi0tfiwuokgvVrWjsVUjkZohSFCH8SrGEwOPmlY-bWx43T3zctBfIAKpre9zcgUQC5eY-bl70uGk1SENzN5ixkYvrya4eWjkV5JI1MBLozvWPm7aCbG5uh1j-uHne46bdj5uWAU0FOhJo0hqw7glAocfNfY-bJz1ungbWs-hxcwPYF02Pm4Fe7QIaB3T5jk6auRxoCdDBMBLq8v7HTUCHLHzcPPtx03aQEx43AXUAHQP0DNCHO8EagI6EqAN6YR7I5809XFxPZ8-md3oAOgHoLpDsClDkN60FuhbieqAj-0AuBzl4FygyQF4Aam4A-2o_KElMoZFrtfS5uBytAjIT8_IdagxqFKq5FIDAxtBMyw7MqlEwVdCFY2MgJiRiBheBQQOQCNQ0kCwMg9TUKBjGASkEgdBOyMBaLi4nvC4HuQ2GjXC4HCQOw4ZwEWwuJ9U0iAjITAxn69opOCoACScQQQRLmYsLAA)]
+- [主旋律 TMD 檔案](chinkoro_heitai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-Zm5mSWJBZVKnFpaSk8bm583Lz5cdPmx81rHzfPeNy05HHTfiD5fk_H0w39INS69f2eTgUtLS5FWwVDAwsue1sFZy4bI30TO5C5z2Zver9n1ovezqfb5z7ZvxBs14v2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6nG7qf7tjxfPnE52vWPNnR8HTtjqc7tzyfsgLoAFBo6gFDUw8UmkCGgSHQJUpc-loKQFufz173YtWqZzP6uBQUFJ7sWPtsWvuL5YtftncDnfOsv__p-tUvdq1-NncCyAvblz9uaHy-ad_zpfOedU17Nnn381ktTxevBnrtZWPXi4U9Lzran03ufb59y-OGJi4tfS6gFVxAt3ChBg4aexUSuRmiFEUIv1IsQf64eeXj5pbHzRMfN-0FMoDq2h43dyCRQLm5j5sXPW5aDdLQ3A1mbOTierKrh1ZOBblkDYwEunP946atIJub2yGWP26e97hp9-OmZUBTgY4EmrQGrHsCUOhxc9_j5kmPm6eB9Sx63NwA9kXT42agV7uAxgFdvqOTZi4HWgJ0MIyEurz_cRPQIQsfN89-3LQd5ITHTUAdQMcAPQP04U6wBqAjIeqAXpgH8nlzDxfX09mz6Z0egE4AugskuwIU-U1rga6FuB7oyD6Qy0EO3gWKDJAXgJobwL7aD0oSU2jkWlD2cLQKyEzMy3eoMahRqAblPwUbQzMtOzCrRsFUQReOjYGYkIgZXAQGDUAiUNNAsjAMUlOjYBgHpBAEQjshA2u5uJzwuhzkNhg2wuFykDgMG8JFsLmcVNMgIiAzMZyta6fgqAAknEAEESxlLi4A)]
 - [鋼琴伴奏 TMD 檔案](chinkoro_heitai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3Pi4efPjps2Pm9c-bp7xuGnJ46b9QPL9no7HzVMeNy163Nz3ZM-Wp0v7n-ye8X5Pp4KWFpeirYKhgQWXva2CM5eNkb6JHVedgtKz2Zve75n1orfz6fa5T_YvVAKJvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4AuMTIwMtAzMDDTM7AwMQcyDAyBLlHi4nK0CshMzMsP8nCoMahRqOZSAAIbQzMtOzCrRsFUQReOjYGYkIgZXAQGDUAiUNNAsjAMUlOjYBgHpBAEQjshA2vhbvdBcbsF3OnRhrFAlRASB88EmQcyGeZQiAw-1dj0At3kRCA8QSEGw0Y4whMkDsOGcBFs4UmqaRARkJkYgQl1OIHANI3HGpoQYTQuSngSox1VFh6kunYKjgpAwglEEMFS5uICAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ チンコロヘイタイ ]
+📊 TMD Song Profile: [ チンコロヘイタイ（小小兵） ]
 ================================================================================
 ⏱  Duration:       1:19 (80.0s), 72 measures total
 🎼 Key & Tempo:    首調基準 C, != 108.0 BPM, <2/4>
@@ -156,8 +156,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![チンコロヘイタイ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P066.jpg](P066.jpg)
+![チンコロヘイタイ（小小兵） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P066.jpg](P066.jpg)
 
-![チンコロヘイタイ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P067.jpg](P067.jpg)
+![チンコロヘイタイ（小小兵） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P067.jpg](P067.jpg)
 
 

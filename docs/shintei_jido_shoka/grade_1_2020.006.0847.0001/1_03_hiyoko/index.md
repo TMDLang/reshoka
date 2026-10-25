@@ -1,8 +1,8 @@
 ---
-title: "ヒヨコ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ヒヨコ"
-description: "〈ヒヨコ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ヒヨヒヨヒヨコ チヒサナヒヨコ…"
-keywords: "ヒヨコ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "ヒヨコ（小雞） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ヒヨコ（小雞）"
+description: "〈ヒヨコ（小雞）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ヒヨヒヨヒヨコ チヒサナヒヨコ…"
+keywords: "ヒヨコ（小雞）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P018.jpg"
 audio: "hiyoko.mp3"
 ---
 
-# ヒヨコ
+# ヒヨコ（小雞）
 
 <audio controls src="hiyoko.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "hiyoko.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫小雞的叫聲、動作與可愛模樣。
 
 原書資訊與歌詞全文（對應 P018.jpg，書頁 p. 3，第一學期第 3 首）：
 調性與拍號：ヘ調四拍子（F 大調 4/4 拍），「カハイラシク」♩=112
@@ -59,7 +62,7 @@ audio: "hiyoko.mp3"
 
 ```abc
 X:1
-T:ヒヨコ
+T:ヒヨコ（小雞）
 C:曲：文部省
 M:4/4
 L:1/16
@@ -75,14 +78,14 @@ c4 c4 A4 F4 | G4 F2 G2 A4 z4 | c4 c4 A4 F4 | G2 G2 A4 F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hiyoko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxunvS4ecXjps0KWlpcirYKhoZGXPa2Cm5cNib6JnYgfS9Wznu_Z9azae0vm1c8n9MINuvZ7E0YYi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8yor3ezpAIagHDEE9UAgCGQaG7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdBfQp09bVwB9BXTF0w29z9o7FQIMDC30sgrS3-_pASp-uaBRoUBPwRjIg7v72Zz5QLaCscLLZdOADgUGC8jwF6v2P2tYDjK2u_fFzPlA0cfNM4CCT2fPBoo8XTsBaIWbwtMly4FiCsCQVgCKgnUDA6fncdPqx839j5uWPG5e-bhp--Om9Y8beh_NXGkLihyQ6UCbQRQ07pDJps0QiUYQv2nr4-YuVImmtY-blzxuWva4uQFsfhfYLqD0eqi5IPtApnU_blr0uHn146aNEH2LwBJ9j5tbEMrBpq983Ax0MNBAoJXdENGOx82zQY5ungGyA8TogjsXKLfqcXM7QgJs764e_P6BBwjIzSgSQD7QRe2Pm4EOBBoM5EIdAfQJUNOax81tj5t7HzcvALIhEv1gPtAnQL-vIeAToFqgBNwQoIGYPkGWoDxlQoGClj4Xl0dmZX52vlVAZmJevkONQY1CNcgOBRsLLTswA1uOUIAkzBcLexQ0TBSebuh_vr5BB56MNbFoANoEMqxGwVRBF4yNgdgQiGsUjMAsI7CIAVgEWY0ZhghYDThGcbttVw-13AZyGUQEhGFqjMHyIAhSA3E7SIQYt-3oJMdtIFeAIIgG4Rq4nSAeJNxAIiAI8wdEBMQChSIRbgMWHPSIU5ga9HCr5eLStVOAJEgFIEuZiwsA)]
+- [主旋律 TMD 檔案](hiyoko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxunvS4ecXjps3v93Q83dD_cva893s6FbS0uBRtFQwNjbjsbRXcuGxM9E3sQGa8WAmUnvVsWvvL5hXP5zSCzX02exOG2Iv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6nG7qf7tjxfPnE52vWPNnR8HTtjqc7tzyfsgLoIlBo6gFDUw8UmkCGgSHQdUpc-loKQFufz173YtWqZzP6uBQUFJ7sWAt0wovli1-2d4Oc09__dP1qiIeez2p52r_6ReOmxw2NT7unPtk750VH-9P-9c9aZj9bsfDZisWPG5q4tPS5QMbaUguA3PS0b_6z2TtebG5_saILaCXQt8Dwe9q6AuhQcGj3PmvvVAgwMLTQyypIf7-nB6j45YJGhQI9BWMgDx4az-bMB7IVjBVeLpsG9D7QdyDDX6za_6xhOcjY7t4XM-cDRR83zwAKPp09GyjydO0EoBVuCk-XLAeKKQDjTwEoCtYNDPKex02rHzf3P25a8rh55eOm7Y-b1j9u6H00c6UtKMohwdkAoqCpA5ls2gyRaATxm7Y-bu5ClWha-7h5yeOmZY-bG8Dmd4HtAkqvh5oLsg9kWvfjpkWPm1c_btoI0bcILNH3uLkFoRxs-srHzUAHAw0EWtkNEe143Dwb5OjmGSA7QIwuuHOBcqseN7cjJMD27urB7x94gIDcjCIB5ANd1P64GehAoMFALtQRQJ8ANa153Nz2uLn3cfMCIBsi0Q_mA30C9PsaAj4BqgVKwA0BGojpE2QJylMmFCiAUrxHZmV-dr5VQGZiXr5DjUGNQjXIDgUbCy07MANbjlCAJMwXC3sUNEwUgFns-foGHXgy1sSiAWgTyLAaBVMFXTA2BmJDIK5RMAKzjMAiBmARZDVmGCJgNeAYxe22XT3UchvIZRAREIapMQbLgyBIDcTtIBFi3Lajkxy3gVwBgiAahGvgdoJ4kHADiYAgzB8QERALFIpEuA1YcNAjTmFq0MOtlotL104BkiAVgCxlLi4A)]
 - [鋼琴伴奏 TMD 檔案](hiyoko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPOlx84rHTZvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGhkZc9rYKblw2Jvomdlx1CkovVs57v2fWs2ntL5tXPJ_TqAQSezZ7E4bYi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAug0IwMjAz0DAzM9AwsTcyDDwBDoOiUuLo_MyvzsfKuAzMS8_CAPhxqDGoVqLgUgsLHQsgMz9LUUbNGBAsSCFwt7FDRMFJ5u6H--vkFHIcDA0EIvqyBdE4sGLX2wYTUKpgq6YGwMxIZAXKNgBGYZgUUMwCLIaswwRMBquPC7bVcPtdwGchlEBIRhaozB8iAIUgNxO0iEGLft6CTHbSBXgCCIBuEauJ0gHiTcQCIgCPMHRATEAoUiEW57Ons2PeIUpgY93GpR06MPSno0gabHGgXDeIVow1gYBTQ6HsgyjQeLGCDkTYCUCUgeoR4oS4QZEBECtsC8DhOFM-A6QSJIzkE3GOg84pyDzQx0xwBDTtdOARJ4CigsZS4uAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ヒヨコ ]
+📊 TMD Song Profile: [ ヒヨコ（小雞） ]
 ================================================================================
 ⏱  Duration:       0:34 (34.3s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <4/4>
@@ -135,6 +138,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ヒヨコ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P018.jpg](P018.jpg)
+![ヒヨコ（小雞） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P018.jpg](P018.jpg)
 
 

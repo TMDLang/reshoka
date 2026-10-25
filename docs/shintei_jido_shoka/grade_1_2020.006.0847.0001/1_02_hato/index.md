@@ -1,8 +1,8 @@
 ---
-title: "ハト — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ハト"
-description: "〈ハト〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） ポッポッポ　ハトポッポ…"
-keywords: "ハト, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
+title: "ハト（鴿子） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ハト（鴿子）"
+description: "〈ハト（鴿子）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） ポッポッポ　ハトポッポ…"
+keywords: "ハト（鴿子）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P017.jpg"
 audio: "hato.mp3"
 ---
 
-# ハト
+# ハト（鴿子）
 
 <audio controls src="hato.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "hato.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
 
 ## 說明
+
+曲目說明
+中文解釋：孩子呼喚鴿子，描寫餵食與和鳥兒親近的情景。
 
 原書資訊與歌詞全文（對應 P017.jpg，書頁 p. 2，第一學期第 2 首）：
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「オモシロク」♩=96
@@ -41,7 +44,7 @@ audio: "hato.mp3"
 
 ```abc
 X:1
-T:ハト
+T:ハト（鴿子）
 C:曲：文部省
 M:2/4
 L:1/16
@@ -56,14 +59,14 @@ c2 c2 c2 A2 | d2 d2 d2 c2 | A2 A2 A2 G2 | F8 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hato.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu7n_c3KGgpcWlaKtgacZlb6vgxmVjpG9iB9LzYuW893tmPZvW_rJ5xfM5jWBzns3ehCH2on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6eseL-nAxR6esDQ0wOFHpBhYPh-T6cSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UB3AX36tHUF0FdAVzzd0PusvVMhwMDQXC-rIP39nh6g4pcLGhUK9BSMgDy4u5_NmQ9kKxgpvFw2DehQYLCADH-xav-zhuUgY7t7X8ycDxR93DwDKPhkVw9Q5OnaCUAr3BSeLlkOFFMAhrQCUBSsGxg4PY-bVj1uXvS4afvj5rWPm9Y_buh9NHOlLTBiQCYDNQItBqoFcR43z33c3IwgGxogcQkXgSia97h54eOmNY-bZ4MMbVryuGk1SGnT3sfNKx83L3ncvPpx0z6I0vmPmzc_bu563NwOIoHqmleAnQBUvf9x88zHzd2PmzYDjYC7ZVcPGW4BSjQtA7ERbgGbDiKBdq8EKwXKNTc-bu4E2wl06trHzS2Pm9vABgNNBTqzHax_I0g15WkCChS09Lm4PBJL8q0CMhPz8h1qDGoUqkE2KNhYaNmBGdhSogIkQbxY2KOgYaLwdEP_8_UNOvDko4lFA9AekGE1CoYKusDkowtkGQNJEKxRMAWyQeI1YBmwGDjEcdu9q4d8u43BNoLshLBAdhshu4eA3Ts6ybEbZCPIrhoFMzA0BdsIgiC7QS6D2F3LxaVrpwCKEgUgrczFBQA)]
+- [主旋律 TMD 檔案](hato.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu7n_c3PF-T8fLLfufrp3wfk-ngpYWl6KtgqUZl72tghuXjZG-iR1I_4uV897vmfVsWvvL5hXP5zSCzXw2exOG2Iv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6nG7qf7tjxfPnE52vWPNnR8HTtjqc7tzyfsgLoIFBI6gFDUg8UkkCGgSHQcUpc-loKQFufz173YtWqZzP6uBQUFJ7sWAt0wovli1-2dwOd83TtSqBPnk7c83TaLJivep719z9dv_rlkq0vF89_0dH-dFLPy81LgY55sWzVi_0Tn89qedbc-mzm-scNTVxa-lwgW2ypBUBOfNo3_9nsHS82t79Y0QW0Huh5YHA-bV0BdDfQq0839D5r71QIMDA018sqSAc5d_aOlwsaFQr0FIyAPHjgPJszH8hWMFJ4uWwaMDSAngUZ_mLV_mcNy0HGdve-mDkfKPq4eQZQ8MmuHqAI2P8dbgpPlywHiikAo1MBKArWDYyBnsdNqx43L3rctP1x89rHTcAA6H00c6UtMPZBJgM1Ai0GqgVxHjfPfdzcjCAbGiCJBy4CUTTvcfPCx01rHjfPBhnatORx02qQ0qa9j5tXPm5e8rh59eOmfRCl8x83b37c3PW4uR1EAtU1rwA7Aah6_-PmmY-bux83bQYaAXfLrh4y3AKUaFoGYiPcAjYdRALtXglWCpRrbnzc3Am2E-jUtY-bWx43t4ENBpoKdGY7WP9GkGrK0wQUKIDSmkdiSb5VQGZiXr5DjUGNQjXIBgUbCy07MANbSlSAJIgXC3sUNEwUnm7of76-QQeefDSxaADaAzKsRsFQQReYfHSBLGMgCYI1CqZANki8BiwDFgOHOG67d_WQb7cx2EaQnRAWyG4jZPcQsHtHJzl2g2wE2VWjYAaGpmAbQRBkN8hlELtrubh07RRAUaIApJW5uAA)]
 - [鋼琴伴奏 TMD 檔案](hato_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P-4ueP9no6X3XueT9jyZM-Wp0v7n3cCRToVtLS4FG0VLM247G0V3LhsjPRN7LjqFJRerJz3fs-sZ9PaXzaveD6nUQkk9mz2JgyxF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPh6dodT3dueT5lBdBlRgZGBnoGBmZ6BhYm5kCGgSHQcUpcXB6JJflWAZmJeflBHg41BjUK1VwKQGBjoWUHZuhrKdiiAwWI8S8W9ihomCg83dD_fH2DjkKAgaG5XlZBuiYWDVr6YMNqFAwVdBWMgLhGwRhIgmCNgimQDRKvAcuAxbjw272rh3y7jcE2guyEsEB2GyG7h4DdOzrJsRtkI8iuGgUzMDQF2wiCILtBLoPYXYscIz4oMWICjRGg8niFaNP4WCjLEIVhGg-TRFKMqgRTO7pSE6xKDSDu07VTADlRAYlW5uICAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ハト ]
+📊 TMD Song Profile: [ ハト（鴿子） ]
 ================================================================================
 ⏱  Duration:       0:15 (15.0s), 12 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
@@ -116,6 +119,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ハト — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P017.jpg](P017.jpg)
+![ハト（鴿子） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P017.jpg](P017.jpg)
 
 

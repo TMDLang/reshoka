@@ -1,8 +1,8 @@
 ---
-title: "ヨクマナビ ヨクアソベ — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "ヨクマナビ ヨクアソベ"
-description: "〈ヨクマナビ ヨクアソベ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ツクエノマヘデハ　一シンニ ナニモオモハズ　ヨクマナベ…"
-keywords: "ヨクマナビ ヨクアソベ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "ヨクマナビ ヨクアソベ（好好學習，好好遊玩） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "ヨクマナビ ヨクアソベ（好好學習，好好遊玩）"
+description: "〈ヨクマナビ ヨクアソベ（好好學習，好好遊玩）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ツクエノマヘデハ　一シンニ ナニモオモハズ　ヨクマナベ…"
+keywords: "ヨクマナビ ヨクアソベ（好好學習，好好遊玩）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P018.jpg"
 audio: "yoku_manabi_yoku_asobe.mp3"
 ---
 
-# ヨクマナビ ヨクアソベ
+# ヨクマナビ ヨクアソベ（好好學習，好好遊玩）
 
 <audio controls src="yoku_manabi_yoku_asobe.mp3"></audio>
 
@@ -18,6 +18,9 @@ audio: "yoku_manabi_yoku_asobe.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：勉勵孩子認真學習，也要健康快樂地遊戲。
 
 原書資訊與歌詞全文（對應 P018.jpg – P019.jpg，書頁 pp. 3–4，第一學期第 2 首）：
 調性與拍號：ヘ調四拍子（F 大調 4/4 拍），♩＝108
@@ -46,7 +49,7 @@ audio: "yoku_manabi_yoku_asobe.mp3"
 
 ```abc
 X:1
-T:ヨクマナビ ヨクアソベ
+T:ヨクマナビ ヨクアソベ（好好學習，好好遊玩）
 M:4/4
 L:1/16
 Q:1/4=108
@@ -62,14 +65,14 @@ C3 C F4 G3 G A4 | c3 c d3 c c4 z4 | B3 B A4 G3 G C4 | G3 G A3 G F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yoku_manabi_yoku_asobe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8Lh5xeOm9Y-b5z1u7nrcPBnGb1r0uGnv4-aZClpaXIq2CoYGFlz2tgpuXDYm-iZ2ICOfTWt_2bzi-ZxGsAUv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkV8_TtTue7tzyfMqK93s6QEGoBwxCPVAQAhkGRu_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTXi5XznrauAPoK6IqnG3qftXcqBBgYWuhlFaQrPGqYDOJYgjjv9_QAdb5c0KhQUKCnYAyUMgEKgXyyowHok2dz5gPZCkYKL5dNAzr9_Z5ZIOterNr_rGE5yKLu3hcz5wNFHzfPAAo-nT0bKPJ07QSgpW4KT5csB4opAENYASgK1t3zaObK93vmgoIfZA7QDhD1uLkFHEcrHjf3gWNuxuPm9sfN_Y8bGoAqHjdtf9y8-XFzN0QpMFa7HzcDo3MViAQqatoFVIca7TPBSqFxPhkk1LTmcfNKsPEzQYY1rX3cvORx0zKgfojSHY-bVoNt2fS4ecHjZqB53SBTm3Y-bgaKTwDLroI4AGoFgoHNlYQUgX2_qwdiOdDdQN8DbZ4KcifITqAaoBNW4g0AkB6gUqDH2hABAEvnEIP3g4yBBBTIjLUgFSBfQRRNA4VH0xqIUqDtkGABMoCxsRHkb6ipwICCWAUJAJgVCAYWVxKjiPKkDwUKWvpcXJH52aW-iXmJSZkglmNxflKqVUBmYl6-Q41BjUI1yEIFGwstOzADW_5TgCT6Fwt7FDRMFJ5u6H--vkEHnmk0sWgAWgs17OWsvqcTeq2A_t4LEgHTj5s7wfG1BkjWAOn5EBkgHyYDIkEyIBUwGYQqhAwyQNipAXSsJtDK5haoleuBeAVYcx_U4HlQw2YAcTuY1Q-RaVoClWkBsrdD2ZvBerrxWrmrB2QlKMWuA9u5CahjKpgF9WbTTrhpwMQHZq0k384aBdN4BV0gBFKGQMoIiGsUjMFCRmAREK4Bi4NEYDIwEQg0AKkBZzncEb-rhyoRD_ITKAoR0Q6KZOTIhZCg8ADpQFYN4SH0YAkP5GjvglsICj5gHocauwoqugga3cACEuoUcOIAJhNwAQVV1QWWmYnXQkik47KwGWQgyOCdUH8ACyRMC5tAqiEZA6-FwBiHxhooLiHxDYpjWOyCMEQNTB7EgqkhPr53dFIW3_CsCfMzejbvhKZ8RPonVDRgCQ2k-IYGIMQAkObJUM2QaAFlQJiFsOwPCWRwVgSV7IuB1DKoFChh4LYRmstB1QfUcFCiQiQxWO5dC09Oe6AyiFgG1i_IjgGXD1htRORVEI2cww0VzEC5H0zgKwmIjnVg-4SKxTv-fA7xGqYOROFOTC5v2gHVvhocjyDNm6AWLoAa1oBUgCIXwCAdE-C6QTogJQMuC6GRDjIenmhQLITVMxvBhsMtBOdykPgSaGqAlAV4LYTlclMcuRwEkWMcUa7jyOc2hmaEqvZdU6gQ9-i5FxHf8BIdrAKcEUEseL0ACg9g-24hgkKkH7ApYJWwSh-5voA1GJDCD7keAJXkoFIAkt_R-bCKF1HtQqpmpBQD1wEiyTEDSyoClQOQkAAbiMYnwlFwHXBHkWgGjhYErJxBS2nQ1GgGpWF1ECiFQVSYgGkTuB6YGVDTsTVCYNbBDeGq5eLStVPA0lJVAAorc3EBAA)]
+- [主旋律 TMD 檔案](yoku_manabi_yoku_asobe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8Lh5xeOm9Y-b5z1u7nrcPBnGb1r0uGnv4-aZ7_d0PF26F4TW7ni-f9L7PT0Q7svGrud9K9_v6VTQ0uJStFUwNLDgsrdVcOOyMdE3sQPZ-Wxa-8vmFc_nNIJd8KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1AK1-unPL8ykrgI4BhbEeMIz1QGEMZBgYAd2gxKWvpfBs9qbns9e9WLXq2Yw-LgUFhSc71gKd8GL54pft3e_3zHra3fm0e-vTtSufrp0AtPr5nPlwHz3ZOf_FssanjUuf7tr-dP_qZyuans7ZAPTgs45NjxuauLT0uUDm21ILgBz3tG_-s9k7Xmxuf7Gi60VHO9DbL1bOe9q6AuhiUIhv6H3W3qkQYGBooZdVkK7wqGEyiGMJ4gDdC9T5ckGjQkGBnoIxUMoEKAQKqB0NQB89mzMfyFYwUni5bBowZIAeB1n3YtX-Zw3LQRZ1976YOR8o-rh5BlDw6ezZQBFgiAAtdVN4umQ5UEwBGIEKQFGw7p5HM4GRPBcUu5AwbQBRj5tbwGlkxePmPnDKmfG4uf1xc__jhgagisdN2x83b37c3A1RCkxV3Y-bgclpFYgEKmraBVSHmuxmgpVC09xkkFDTmsfNK8HGzwQZ1rT2cfOSx03LgPohSnc8bloNtmXT4-YFj5uB5nWDTG3a-bgZKD4BLLsK4gCoFQgGNlcSUgT2_a4eiOVAdwN9D7R5KsidIDuBaoBOWIk3AEB6gEqBHmtDBAAsn0EM3g8yBhJQIDPWglSAfAVRNA0UHk1rIEqBtkOCBcgAxsZGkL-hpgIDCmIVJABgViAYWFxJjCLKkz4UKICyVGR-dqlvYl5iUiaI5Vicn5RqFZCZmJfvUGNQo1ANslDBxkLLDszAlv8UIIn-xcIeBQ0Thacb-p-vb9CBZxpNLBqA1kINezmr7-mEXiugv_eCRMD04-ZOcHytAZI1QHo-RAbIh8mASJAMSAVMBqEKIYMMEHZqAB2rCbSyuQVq5XogXgHW3Ac1eB7UsBlA3A5m9UNkmpZAZVqA7O1Q9mawnm68Vu7qAVkJSrHrwHZuAuqYCmZBvdm0E24aMPGBWSvJt7NGwTReQRcIgZQhkDIC4hoFY7CQEVgEhGvA4iARmAxMBAINQGrAWQ53xO_qoUrEg_wEikJEtIMiGTlyISQoPEA6kFVDeAg9WMIDOdq74BaCgg-Yx6HGroKKLoJGN7CAhDoFnDiAyQRcQEFVdYFlZuK1EBLpuCxsBhkIMngn1B_AAgnTwiaQakjGwGshMMahsQaKS0h8g-IYFrsgDFEDkwexYGqIj-8dnZTFNzxrwvyMns07oSkfkf4JFQ1YQgMpvqEBCDEApHkyVDMkWkAZEGYhLPtDAhmcFUEl-2IgtQwqBUoYuG2E5nJQ9QE1HJSoEEkMlnvXwpPTHqgMIpaB9QuyY8DlA1YbEXkVRCPncEMFM1DuBxP4SgKiYx3YPqFi8Y4_n0O8hqkDUbgTk8ubdkC1rwbHI0jzJqiFC6CGNSAVoMgFMEjHBLhukA5IyYDLQmikg4yHJxoUC2H1zEaw4XALwbkcJL4EmhogZQFeC2G53BRHLgdB5BhHlOs48rmNoRmhqn3XFCrEPXruRcQ3vEQHqwBnRBALXi-AwgPYvluIoBDpB2wKWCWs0keuL2ANBqTwQ64HQCU5qBSA5Hd0PqziRVS7kKoZKcXAdYBIcszAkopA5QAkJMAGovGJcBRcB9xRJJqBowUBK2fQUho0NZpBaVgdBEphEBUmYNoErgdmBtR0bI0QmHVwQ7hqubh07RSwtFQVgMLKXFwA)]
 - [鋼琴伴奏 TMD 檔案](yoku_manabi_yoku_asobe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOJx0_rHzfMeN3c9bp4M4zctety093HzzPd7Ol5273k-YcuTPVueLu1_3tnxfk-ngpYWl6KtgqGBBZe9rYIbl42JvokdV52C0rNp7S-bVzyf06gE4r1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZNdPU_X7ni6c8vzKSuADjAyMDLQMzAw0zOwMDEHMgyMgG5Q4uKKzM8u9U3MS0zKBLEci_OTUq0CMhPz8oM8HGoMahSquRSAwMZCyw7M0NdSsEUHCiDbdjS8WNijoGGi8HRD__P1DToKAQaGFnpZBemaWDRo6YMNq1EwjVfQBUIgZQikjIC4RsEYLGQEFgHhGrA4SAQmAxOBQAOQGi78rtvVQ5broDaA7IW4DeQemEtAGKIGJg9iwdQQ77YdneS4DRYCIBo53AwVzEBhCibwhS_R7ns6ezb5YWeKI-xAENl1iJjFEXo2hmaEUuCuKZSnQFiIorkT6hczKA1LFyD3QVSYgGkTuB6YGVDTsSVimHVwQ7hq8eRGH5TcaIIIi2dz5j7bsPjF5DVPu5ufbl_2rLMbUsggfGgYrxBtGAujMPmm8UCWaXwsgoEmZgB0G3FGQRlIBiFUIEzBZiFUnQmQMsHlKGxmkeM5PObgUgVzGLYggpoDjD1dOwUsEaiAW1iZiwsA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ヨクマナビ ヨクアソベ ]
+📊 TMD Song Profile: [ ヨクマナビ ヨクアソベ（好好學習，好好遊玩） ]
 ================================================================================
 ⏱  Duration:       0:44 (44.4s), 20 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <4/4>
@@ -122,8 +125,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ヨクマナビ ヨクアソベ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P018.jpg](P018.jpg)
+![ヨクマナビ ヨクアソベ（好好學習，好好遊玩） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P018.jpg](P018.jpg)
 
-![ヨクマナビ ヨクアソベ — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P019.jpg](P019.jpg)
+![ヨクマナビ ヨクアソベ（好好學習，好好遊玩） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P019.jpg](P019.jpg)
 
 

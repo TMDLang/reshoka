@@ -1,8 +1,8 @@
 ---
-title: "キンタラウ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "キンタラウ"
-description: "〈キンタラウ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：マサカリカツイデ キンタラウ…"
-keywords: "キンタラウ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
+title: "キンタラウ（金太郎） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "キンタラウ（金太郎）"
+description: "〈キンタラウ（金太郎）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：マサカリカツイデ キンタラウ…"
+keywords: "キンタラウ（金太郎）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P051.jpg"
 audio: "kintaro.mp3"
 ---
 
-# キンタラウ
+# キンタラウ（金太郎）
 
 <audio controls src="kintaro.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "kintaro.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 108
+曲目說明
+中文解釋：日本民間傳說中的大力少年，描寫他在山中和動物玩耍、鍛鍊成長。
 
 ## 歌詞
 
@@ -51,7 +51,7 @@ audio: "kintaro.mp3"
 
 ```abc
 X:1
-T:キンタラウ
+T:キンタラウ（金太郎）
 C:曲：田村虎藏
 M:2/4
 L:1/16
@@ -69,14 +69,14 @@ C2 F2 F2 F2 | A2 F2 F2 z2 | c2 d2 c2 A2 | G2 F2 F2 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kintaro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk8blr7uHnz46b9j5tXPm5apqClxaVoq2BoYMFlb6vgxmVjpG9iB9L_YuW893tmPZ-_-Wnf_KeTep7s6HzZ3Ac2-dnsTSCZKRuezZ34Ymbfi-n9YOEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHmyo-Hp2h1Pd255PmXF-z0doCDVAwapHihIgQwDw_d7OpW4uPS1uIAquR43z3vctPVx0-rHzavAZMvjpiWPm9u50DwG5K8HqW3uBuvY_7hpDVAHUBSoaxlYou9x00aQ3qbNQEP7waztYLM6wSpAJEwCixBRarme7OoBWrkIrBpo_8rHzUAFILuBqsEskHOA7gQ5f-Pj5obHzYvADgOSLY-bFz5ubgNK7AQrBJqJ5mKQ14GaVoBtXQIUAspvBovuJyivpc_F5ZuYmWcVkJmYl-9QY1CjUM2lAAQ2hmZadmBWjYKhgq6CaTyQADGMgLhGwRjKAomAcA2cB6JBsjUKpkASBg1AIlDjQLIw_QiVZiBLUERgPEwbkU2DOwzhFJBSGA-sFIsFyI6HGFfLxaVrpwAKDAUkWpmLCwA)]
+- [主旋律 TMD 檔案](kintaro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk8blr7uHnz46b9j5tXPm5a9n5Px8v2iU-XrHrZ3Pd-T6eClhaXoq2CoYEFl72tghuXjZG-iR3IuBcr573fM-v5_M1P--Y_ndTzZEcnUAPYomezN4Fkpmx4Nnfii5l9L6b3g4VftO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQNeBQlgPGMJ6oBAGMgwMgc5U4tLXUgBa_Hz2uherVj2b0celoKDwZMfaZ9PaXyxf_LK9G-iiZ9OXPpuz5tmGiS-nTX7atBmoDqjg-ayWp0uWP-2a_XTDRKAV7_f0POvvf7p-9ZPd057OWfF040agGqD3nnZPfd658nnfyhcNQDc3vuyd_bK361nHhJdTtz9uaOLS0ucCOoAL6FKux83zHjdtfdy0-nHzKjDZ8rhpyePmdi60cAby14PUNneDdex_3LQGqAMoCtS1DCzR97hpI0hv02agof1g1nawWZ1gFSASJoFFiCi1XE929QCtXARWDbR_5eNmoAKQ3UDVYBbIOUB3gpy_8XFzw-PmRWCHAcmWx80LHze3ASV2ghUCzURzMcjrQE0rwLYuAQoB5TeDRfcTlAeFqG9iZp5VQGZiXr5DjUGNQjUoThVsDM207MCsGgVDBV0F03ggAWIYAXGNgjGUBRIB4Ro4D0SDZGsUTIEkDBqARKDGgWRh-hEqzUCWoIjAeJg2IpsGdxjCKSClMB5YKRYLkB0PMa6Wi0vXTgEUGApItDIXFwA)]
 - [鋼琴伴奏 TMD 檔案](kintaro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPZx8-bHTfsfN6983LTs_Z6Ox81THjctetzc92TPlqdL-5_snvF-T6eClhaXoq2CoYEFl72tghuXjZG-iR1XnYLSi5Xz3u-Z9Xz-5qd9859O6nmyo_Nlc58SSObZ7E0gmSkbns2d-GJm34vp_WDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPh6dodT3dueT5lBdCZRgZGBnoGBmZ6BhYm5kCGgSHQmUpcXL6JmXlWAZmJeflBHg41BjUK1VwKQGBjaKZlB2bVKBgq6CqYxgMJEMMIiGsUjKEskAgI18B5IBokW6NgCiRh0AAkAjUOJAvTj1BpBrIERQTGw7QR2TS4wxBOASmF8cBKsViA7HiIcbXIYeGDEhYW8KCINowFKoaQGDzTeDAXQsFkQcbD3ApVj6oAzTBMSQz9GLYDVeBwC1Q70G-6dgog7ykg0cpcXAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ キンタラウ ]
+📊 TMD Song Profile: [ キンタラウ（金太郎） ]
 ================================================================================
 ⏱  Duration:       0:26 (26.7s), 24 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <2/4>
@@ -130,6 +130,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![キンタラウ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P051.jpg](P051.jpg)
+![キンタラウ（金太郎） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P051.jpg](P051.jpg)
 
 

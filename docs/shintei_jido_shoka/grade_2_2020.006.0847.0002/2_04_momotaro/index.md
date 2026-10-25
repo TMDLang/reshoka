@@ -1,8 +1,8 @@
 ---
-title: "ももたらう — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "ももたらう"
-description: "〈ももたらう〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：田邊友三郎、曲：田村虎藏），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ももからうまれたももたらう きはやさしくてちからもち…"
-keywords: "ももたらう, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 田邊友三郎, 田村虎藏"
+title: "ももたらう（桃太郎） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "ももたらう（桃太郎）"
+description: "〈ももたらう（桃太郎）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002））（詞：田邊友三郎、曲：田村虎藏），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ももからうまれたももたらう きはやさしくてちからもち…"
+keywords: "ももたらう（桃太郎）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 田邊友三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P033.jpg"
 audio: "momotaro.mp3"
 ---
 
-# ももたらう
+# ももたらう（桃太郎）
 
 <audio controls src="momotaro.mp3"></audio>
 
@@ -19,6 +19,9 @@ audio: "momotaro.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：日本民間故事，描寫桃太郎帶著同伴出發討伐鬼怪。
 
 原書資訊與歌詞全文（對應 P033.jpg，書頁 p. 18，第二學期第 4 首）：
 調性與拍號：ニ調二拍子（D 大調 2/4 拍），「ゲンキヨク」
@@ -62,7 +65,7 @@ audio: "momotaro.mp3"
 
 ```abc
 X:1
-T:ももたらう
+T:ももたらう（桃太郎）
 C:曲：田村虎藏
 M:2/4
 L:1/16
@@ -78,14 +81,14 @@ B3 B d2 B2 | A2 A2 F4 | A3 F E2 F2 | D6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](momotaro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk8bmoCocb5j5s6Hze2KWhpcSnaKhgaWHDZ2yq4cNkY6ZvYgfS_WDnv_Z5Zz6dseNnU9bS_-8mOzpfNfWCTn83eBJF5Nnfii5l9L6b3g4VftO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJrp6na3c83bnl-ZQV7_d0gIJUDxikeqAgBTIMjN7v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeguoJeftq54Nq0d6IqnG3qftXcqBBgYG-tlFaS_39MDVPxyQaNCgZ6CoQWQC3f4sznzgWwFE4WXy6YBXQoMGpDpL1btf9awHGRud--LmfOBoo-bu4GCQD1AkadrJwDtcFF4umQ5UEwBGOYKQFGwbmDo9Dxu2vS4efPjprWPm1c8blr_uKGXC2Tmkx0NIAoWg92QGHzcuO9xUw84QlFiFqy0sfdx4_rHTS2PG6c-bpz-uLH_ceOyx40LoZpBqhdC1HU9blz9uBFoDFAR0LxJjxs3gM0GGjb5ceMKoDaIOrBJIKHlYPYOsFIgu_tx40Sw6i6IU3f1QNQDDV3yuHEvUAvQ9Y8b14FdtPlx4wKwIVMgilaBnQfUD1ENVNH_uAloItCCNWDLgVZ2w_0zA-pRkC-3gv0DdDwwnICemQlXB9Q693HjJLAo0NKVYAZQHcTgVY-bOqBB2glRvx6kGOR5oEYgAoYT0EVA5ywAc6cD1YOCA-g73KE1-3FTI9hFs-GhBXQ60D_zwQgSXUB7gL4FaoaQ82C-AoZGA1B3H4wBCeQpYDbQq0A3AFUDbYOkhKezZ0M0QryzDxpyIC1AB8MsA_sdHhzAkAQ6eBM4CIGKZj5u7ABpABoNUtoCUQcKaLA6oFag44H-xK4OHA0gdUDvAX0CNBUYYhjqKM-oUKCgpc_F5Zufm1-SWJRvFZCZmJfvUGNQo1ANskXBxtBMyw7MqlEwVtAFQmMFIyBpCMTYREzBImZQ2hgoApKDQQOQGiymgdioeiEiEL1GYB6IXQO2BZtpEL2mUBqk0gzDNMM4sBCQAsmBeTCNmAbCtIOVgTgQpTDTIHbAfInwA6b7arm4dO0UYAGsAGQrc3EBAA)]
+- [主旋律 TMD 檔案](momotaro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk8bmoCocb5j5s6Hze2vd_T8Wxh89Mlq142973f06mgpcWlaKtgaGDBZW-r4MJlY6RvYgcy7sXKee_3zHo-ZcPLpq6n_d1PdnQCNYAtejZ7E0Tm2dyJL2b2vZjeDxZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonu3qert3xdOeW51NWAF0HCmE9YAjrgUIYyDAwAjpTiUtfSwFo8fPZ616sWvVsRh-XgoLCkx1rn01rf7F88cv2bqCLnk1f-mzOmmcbJr6cNvnZ1NYnu4CCPc_6-5-uXw338dMd215MnP50Qs-TPVueAh08c8-LFX1P9kx4uWbPs4ZVjxuauLT0uUB22VILgBz6tG_-s9k7Xmxuf7Gi60VHOzAIgKH7tHUF0PVADz_d0PusvVMhwMDYWC-rIB3k6Nk7Xi5oVCjQUzC0AHLhYfRsznwgW8FE4eWyacBAAfoZZPqLVfufNSwHmdvd-2LmfKDo4-ZuoCBQD1Dk6doJQDtcFJ4uWQ4UUwBGrwJQFKwbGBE9j5s2PW7e_Lhp7ePmFY-b1j9u6OWCBG0DiIKlnW5I2nncuO9xUw84KaGkKbDSxt7HjesfN7U8bpz6uHH648b-x43LHjcuhGoGqV4IUdf1uHH140agMUBFQPMmPW7cADYbaNjkx40rgNog6sAmgYSWg9k7wEqB7O7HjRPBqrsgTt3VA1EPNHTJ48a9QC1A1z9uXAd20ebHjQvAhkyBKFoFdh5QP0Q1UEX_4yagiUAL1oAtB1rZDffPDKhHQb7cCvYP0PHAcAJ6ZiZcHVDr3MeNk8CiQEtXghlAdRCDVz1u6oAGaSdE_XqQYpDngRqBCBhOQBcBnbMAzJ0OVA8KDqDvcIfW7MdNjWAXzYaHFtDpQP_MByNIdAHtAfoWqBlCzoP5ChgaDUDdfTAGJJCngNlArwLdAFQNtA2SEp7Ong3RCPHOPmjIgbQAHQyzDOx3eHAAQxLo4E3gIAQqmvm4sQOkAWg0SGkLRB0ooMHqgFqBjgf6E7s6cDSA1AG9B_QJ0FRgiGGoozyjQoECqADwzc_NL0ksyrcKyEzMy3eoMahRqAbZomBjaKZlB2bVKBgr6AKhsYIRkDQEYmwipmARMyhtDBQBycGgAUgNFtNAbFS9EBGIXiMwD8SuAduCzTSIXlMoDVJphmGaYRxYCEiB5MA8mEZMA2HawcpAHIhSmGkQO2C-RPgB0321XFy6dgqwAFYAspW5uAA)]
 - [鋼琴伴奏 TMD 檔案](momotaro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc1ARCjfMfN3U-bmx7v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGlhw2dsquHDZGOmb2HHVKSi9WDnv_Z5Zz6dseNnU9bS_-8mOzpfNfUogmWezN0Fkns2d-GJm34vp_WDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lBdCNRgZGBnoGBmZ6BhYm5kCGgRHQmUpcXL75ufkliUX5VgGZiXn5QR4ONQY1CtVcCkBgY2imZQdm1SgYK-gCobGCEZA0BGJsIqZgETMobQwUAcnBoAFIDRbTQGxUvRARiF4jMA_ErgHbgs00iF5TKA1SaYZhmmEcWAhIgeTAPJhGTANh2sHKQByIUphpEDtgvkT4AdN9tejh64MSvibw4DWMV4g2jY_FYBmCGKbxMDGsqtHUgMQMUJSCFZggM0ww1CGL4jIR6BtdOwWYhxSAbGUuLgA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ももたらう ]
+📊 TMD Song Profile: [ ももたらう（桃太郎） ]
 ================================================================================
 ⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <2/4>
@@ -138,6 +141,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ももたらう — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P033.jpg](P033.jpg)
+![ももたらう（桃太郎） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P033.jpg](P033.jpg)
 
 

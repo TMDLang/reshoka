@@ -1,8 +1,8 @@
 ---
-title: "シタキリスズメ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "シタキリスズメ"
-description: "〈シタキリスズメ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原和三郎、曲：田村虎藏），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤウジキヂイサン　ツエヲツイテ シタキリスズメ　オヤドハドコカ…"
-keywords: "シタキリスズメ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
+title: "シタキリスズメ（剪舌麻雀） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "シタキリスズメ（剪舌麻雀）"
+description: "〈シタキリスズメ（剪舌麻雀）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001））（詞：石原和三郎、曲：田村虎藏），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤウジキヂイサン　ツエヲツイテ シタキリスズメ　オヤドハドコカ…"
+keywords: "シタキリスズメ（剪舌麻雀）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "D"
@@ -10,7 +10,7 @@ image: "P039.jpg"
 audio: "shitakiri_suzume.mp3"
 ---
 
-# シタキリスズメ
+# シタキリスズメ（剪舌麻雀）
 
 <audio controls src="shitakiri_suzume.mp3"></audio>
 
@@ -20,8 +20,8 @@ audio: "shitakiri_suzume.mp3"
 
 ## 說明
 
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= D，拍號 <2/4>，速度 != 100
+曲目說明
+中文解釋：日本民間故事，描寫善良老人與麻雀，以及貪心者受到教訓。
 
 ## 歌詞
 
@@ -51,7 +51,7 @@ audio: "shitakiri_suzume.mp3"
 
 ```abc
 X:1
-T:シタキリスズメ
+T:シタキリスズメ（剪舌麻雀）
 C:曲：田村虎藏
 M:2/4
 L:1/16
@@ -75,14 +75,14 @@ d3 d A2 A2 | B2 B2 A3 A | F2 A2 E2 F2 | D6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shitakiri_suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2v64af_jprWPm1c9btr5uGnX4-aFClpaXIq2CoYGBlz2tgouXDZG-iZ2IDNerJz3fs-s5_M3P-2b_3RSz5MdnS-b-8CmP5u9CSQzZcOzuRNfzOx7Mb0fLPyifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU92NDxdu-Ppzi3Pp6x4v6cDFKx6wGDVAwUrkGFg-H5PpxIXl74WF1AlF8gXzUseNy173LQD7Jemx01A7tbHzZsfNzQ8bm553LTicfMmMGPJ4-Y2sAYMb4OUNq0CGdTc-bi5H0Q2bX7ctJoLIQTib37cvAJsauPj5o2Pm5vRGFxcT3b1AC1Y_bh5Ndi2lsfNrY-bV4LsB-laBGYDBdvAamYAXQC0YBJIFOy2x83zQU4DckGq28FsoFugDKDBQDcDnbD7cdM6GAPsz6Ytj5v7wF4A-gtoMNASoFV9QOfs6ARasOJx0_rHzVPBUhMeNy0iPXSgplMhgJ7Ong20A2gQ0BXUDyCQjsmgcAGJAi0EMhaATWoHux_oOqAzgQaBQ0dLn4vLNzEzzyogMzEv36HGoEahmktBwcbQTMsOSNcoGCroKhgDsSkQmwFxDZgFwiBRkGyNghGQ1AWSIB6IXQPXAcIGIBGwWSBRkD5Us2DmgCBCDcgchOkwHsIswziwQiAFs6cGbCYIg3ggEuEOkH4QG-IfGISYVsvFpWunAAoEBTy0MhcA)]
+- [主旋律 TMD 檔案](shitakiri_suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2v64af_jprWPm1c9btr5uGnX4-aF7_d0PO1c9aKj5-Wu3S9nN7zf06mgpcWlaKtgaGDAZW-r4MJlY6RvYgcy9cXKee_3zHo-f_PTvvlPJ_U82dH5srkPbN-z2ZtAMlM2PJs78cXMvhfT-8HCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKCqADQQGtBwxoPVBAAxkGhkBnKnHpaykALX4-e92LVauezejjUlBQeLJj7bNp7S-WL37Z3g100bPpS5_NWfNsw8SX0yY_m9r6ZBdQsOdZf__T9aufTmt50bn-RUPjk127XnS0w3zf82T30qf9XS82rXq6v_lFQ-vT_ulPOzaAvLBi8uOGJi4tfS6gvVxAB3KBgrN5yeOmZY-bdoADtelxE5C79XHz5scNDY-bWx43rXjcvAnMWPK4uQ2sASP8QUqbVoEMau583NwPIps2P25azYUQAvE3P25eATa18XHzxsfNzWgMLq4nu3qAFqx-3LwabFvL4-bWx80rQfaDdC0Cs4GCbWA1M4AuAFowCSQKdtvj5vkgpwG5INXtYDbQLVAG0GCgm4FO2P24aR2MAfZn05bHzX1gLwD9BTQYaAnQqj6gc3Z0Ai1Y8bhp_ePmqWCpCY-bFpEeOlDTqRBAT2fPBtoBNAjoCuoHEEjHZFC4gESBFgIZC8AmtYPdD3Qd0JlAg8ChA0pEvomZeVYBmYl5-Q41BjUK1cDUa2NopmUHpGsUDBV0FYyB2BSIzYC4BswCYZAoSLZGwQhI6gJJEA_EroHrAGEDkAjYLJAoSB-qWTBzQBChBmQOwnQYD2GWYRxYIZCC2VMDNhOEQTwQiXAHSD-IDfEPDEJMq-Xi0rVTAAWCAh5amQsA)]
 - [鋼琴伴奏 TMD 檔案](shitakiri_suzume_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP1x0_7HTWsfN6963LTzcdOux80L3-_peNw85XHTosfNfU_2bHm6tP_J7hnv93QqaGlxKdoqGBoYcNnbKrhw2Rjpm9hx1SkovVg57_2eWc_nb37aN__ppJ4nOzpfNvcpgWSezd4Ekpmy4dnciS9m9r2Y3g8WftG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgCdaWRgZKBnYGCmZ2BhYg5kGBgCnanExeWbmJlnFZCZmJcf5OFQY1CjUM2loGBjaKZlB6RrFAwVdBWMgdgUiM2AuAbMAmGQKEi2RsEISOoCSRAPxK6B6wBhA5AI2CyQKEgfqlkwc0AQoQZkDsJ0GA9hlmEcWCGQgtlTAzYThEE8EIlwB0g_iA3xDwxCTKtFDgMfpDCwgAZBtGEsUGG0CYiE88AkkGcaD-ZCKGRZA6hD8eqG8OCaoYZh6oapB5uCSzeYC_IV2E-6dgogbyngoZW5AA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ シタキリスズメ ]
+📊 TMD Song Profile: [ シタキリスズメ（剪舌麻雀） ]
 ================================================================================
 ⏱  Duration:       0:57 (57.6s), 48 measures total
 🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <2/4>
@@ -138,6 +138,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![シタキリスズメ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P039.jpg](P039.jpg)
+![シタキリスズメ（剪舌麻雀） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P039.jpg](P039.jpg)
 
 

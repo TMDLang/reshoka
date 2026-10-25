@@ -1,8 +1,8 @@
 ---
-title: "ウミ — 《新定兒童唱歌》 尋常科 第一學年"
-song_title: "ウミ"
-description: "〈ウミ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オホキイ　ナミ　チヒサイ　ナミ ヨセテ　カヘシテ　マタヨセテ…"
-keywords: "ウミ, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "ウミ（海） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "ウミ（海）"
+description: "〈ウミ（海）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（2020.006.0847.0001）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オホキイ　ナミ　チヒサイ　ナミ ヨセテ　カヘシテ　マタヨセテ…"
+keywords: "ウミ（海）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（2020.006.0847.0001）"
 musical_key: "F"
@@ -10,7 +10,7 @@ image: "P055.jpg"
 audio: "umi.mp3"
 ---
 
-# ウミ
+# ウミ（海）
 
 <audio controls src="umi.mp3"></audio>
 
@@ -19,9 +19,8 @@ audio: "umi.mp3"
 
 ## 說明
 
-・出處：教育幼稚唱歌集
-・出處：臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
-・調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 96
+曲目說明
+中文解釋：描寫大海的遼闊、波浪與海上景色。
 
 ## 跨冊／重複收錄參照
 
@@ -58,7 +57,7 @@ audio: "umi.mp3"
 
 ```abc
 X:1
-T:ウミ
+T:ウミ（海）
 M:2/4
 L:1/16
 Q:1/4=96
@@ -81,14 +80,14 @@ F2 F2 G2 A2 | d2 d2 c4 | A2 A2 G2 G2 | F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](umi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlieWpBYpcWlpKTxuWva4eb6ClhaXoq2CpRmXva2CG5eNkb6JHUjLs6kzXzRterpzz_MVs55O2fhsbc_L2W1gw16073reuBgi_2xO89PWNS9W9T5u6Ho2bcPTdbOetk56vnopRMfjhu6nG7qf7tjxfPnE52vWPNnR8HTtjqc7tzyfsuL9ng5QIOoBA1EPFIhAhoHh-z2dSlxc-lpcQJVcj5tWPW6e_bhp7eOmJY8bGh43dwFdC2Y0Pm6e9LhpK7I41-PmFY-bdj9ubgMJNa1-3DzjcdN2KLd53uOm_XAFQIOBEkBT14OVIrGB6ppb4CJAdWArgGY098PsBRq8AuGY5j6QVHMXF9eTXT2oDm6e-rgZGChgXUAu1CiQIFDdxsfNCx43A1X3g-WAblsFVgrUvBokCxYBegkoDXQM0E4YA6Ro_uOmdaAAaAaygYpAxgIdDVTUATZgPcjrII8BnbEC7PhlIM8Ag7QT1YWg2N-E7kKwINDmTWC3AlUD7VkDZYMMBZoF1Ax0Sys40JsWPW7a-7h5GoKBHDZAdU37gYpAyQwcVkCnAqMC6EWwvUCnAi0FqQOJcGnpc3H5JmbmWQVkJublO9QY1ChUcykAgY2hmZYdmFWjYKqgC4ZmQAxi1ygYQ0UMoXSNghGUBZIBsWvgcqbxMEVQ48xgAmAGWBqiGoTBYiAGxEgQBvEgRsKsBUEDJBNBjgJhkAMhzsEuAnMgwnxspsGcApIHqQa6GMnzENNA4jCvonoXYVotF5eunQIodBWw0MpcXAA)]
+- [主旋律 TMD 檔案](umi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlieWpBYpcWlpKTxuWva4ef77PR3Ptm5_v6dTQUuLS9FWwdKMy95WwY3LxkjfxA6k99nUmS-aNj3duef5illPp2x8trbn5ew2sKkv2nc9b1wMkX82p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-9FKLjcUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBtB8UmnrA0NQDhSaQYWAIdI4Sl76WwrPZm57PXvdi1apnM_q4FBQUnuxY-2xa-4vli1-2d7_fM-tZf__T9aufLlkO9MHzWS0vG_e8nN71uKHx2eZFz7auetHRDhR_sqPr2cz1Lzo3PW5o4tLS5wIaywW0n-tx06rHzbMfN6193LTkcUPD4-YuYGCAGY2Pmyc9btqKLM71uHnF46bdj5vbQEJNqx83z3jctB3KbZ73uGk_XAHQYKAE0NT1YKVIbKC65ha4CFAd2AqgGc39MHuBBq9AOKa5DyTV3MXF9WRXD6qDm6c-bgYGNVgXkAs1CiQIVLfxcfOCx81A1f1gOaDbVoGVAjWvBsmCRYBeAkoDHQO0E8YAKZr_uGkdKACagWygIpCxQEcDFXWADVgP8jrIY0BnrAA7fhnIM8Ag7UR1IShxAcMc1YVgQaDNm8BuBaoG2rMGygYZCjQLqBnollZwoDctety093HzNAQDOWyA6pr2AxWBUjE4rIBOBUYF0Itge4FOBVoKUgcSAUe9b2JmnlVAZmJevkONQY1CNShJKdgYmmnZgVk1CqYKumBoBsQgdo2CMVTEEErXKBhBWSAZELsGLmcaD1MENc4MJgBmgKUhqkEYLAZiQIwEYRAPYiTMWhA0QDIR5CgQBjkQ4hzsIjAHIszHZhrMKSB5kGqgi5E8DzENJA7zKqp3EabVcnHp2imAQlcBC63MxQUA)]
 - [鋼琴伴奏 TMD 檔案](umi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx8_z3ezoeN0953LTocXPfkz1bni7tf7J7xvs9nQpaWlyKtgqWZlz2tgpuXDZG-iZ2XHUKSs-mznzRtOnpzj3PV8x6OmXjs7U9L2e3KYFkXrTvet64GCL_bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eilEx-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAugcIwMjAz0DAzM9AwsTcyDDwBDoHCUuLt_EzDyrgMzEvPwgD4cagxqFai4FILAxNNOyA7NqFEwVdMHQDIhB7BoFY6iIIZSuUTCCskAyIHYNXM40HqYIapwZTADMAEtDVIMwWAzEgBgJwiAexEiYtSBogGQiyFEgDHIgxDnYRWAORJiPzTSYU0DyINVAFyN5HmIaSBzmVVTvIkyrRQ5cH5TAtYCHbbRhLFBxtAmIhPPAJJBnGg_mQig0WZh-E4gaCIUwD8bFagTIhXADsDkAn3OwaIabDtYHV48miWQ1MGh07RRAoaOAhVbm4gIA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ ウミ ]
+📊 TMD Song Profile: [ ウミ（海） ]
 ================================================================================
 ⏱  Duration:       1:00 (60.0s), 48 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
@@ -143,6 +142,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ウミ — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P055.jpg](P055.jpg)
+![ウミ（海） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P055.jpg](P055.jpg)
 
 

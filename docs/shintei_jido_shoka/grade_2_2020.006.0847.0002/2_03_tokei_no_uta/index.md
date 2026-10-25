@@ -1,8 +1,8 @@
 ---
-title: "とけいのうた — 《新定兒童唱歌》 尋常科 第二學年"
-song_title: "とけいのうた"
-description: "〈とけいのうた〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：とけいはあさから　かつちんかつちん おんなじひゞきで　うごいてをれども…"
-keywords: "とけいのうた, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "とけいのうた（時鐘之歌） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "とけいのうた（時鐘之歌）"
+description: "〈とけいのうた（時鐘之歌）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（2020.006.0847.0002）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：とけいはあさから　かつちんかつちん おんなじひゞきで　うごいてをれども…"
+keywords: "とけいのうた（時鐘之歌）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（2020.006.0847.0002）"
 musical_key: "G"
@@ -10,7 +10,7 @@ image: "P032.jpg"
 audio: "tokei_no_uta.mp3"
 ---
 
-# とけいのうた
+# とけいのうた（時鐘之歌）
 
 <audio controls src="tokei_no_uta.mp3"></audio>
 
@@ -18,6 +18,9 @@ audio: "tokei_no_uta.mp3"
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
 
 ## 說明
+
+曲目說明
+中文解釋：描寫時鐘滴答走動與報時，呈現規律的時間感。
 
 原書資訊與歌詞全文（對應 P032.jpg，書頁 p. 17，第二學期第 3 首）：
 調性與拍號：ト調二拍子（G 大調 2/4 拍）
@@ -42,7 +45,7 @@ audio: "tokei_no_uta.mp3"
 
 ```abc
 X:1
-T:とけいのうた
+T:とけいのうた（時鐘之歌）
 M:2/4
 L:1/16
 Q:1/4=92
@@ -57,14 +60,14 @@ A2 A2 D2 D2 | B2 B2 A2 G2 | B4 A4 | A4 G4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tokei_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLkIyGSqQmZ-Tl5-SnVypxaWkpPG5c8bhx4uPGlseN6x43tj1unK-gpcWlaKtgacRlb6vgzmVjpG9iBzLj2bT2l80rns9pBJv4on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdvU8Xbvj6c4tz6eseL-nAxSYesDA1AMFJpBhYPR-T6cSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UB3vVg572nrCqCvgK54uqH3WXunQoCBsZFeVkH6-z09QMUvFzQqFOgpGJoDuXCHP5szH8hWMFZ4uWwa0KXv98wCmf5i1f5nDctB5nb3vpg5Hyj6uLkDKAjUAxR5unYC0A53hadLlgPFFIABqgAUBermAul9sqMBRCFFxPrHjU2PG6c-bux-3NT5uKEBxGhc8rhx4eOmychsiLYusOiqx40zHjduetw073Fj7-PG5WBtwOicAjZx2eOmSY-beh43rnzc1ATRthBszAogH8UIkDagQyY_buoF6QG6omnu48ZZjxtXQ7RtACvdB7IB5BKgDdNBxuNxJNiPu3ow_QgxajnIBQT82NQPcjwwLBqBXlgL8gXQgRA_NgHNmgkzCOhHoM592PwIUQdy-CywbUAu2IMg7wPVALUh_AgJfFL8CNRGeTKFAgUtfS6ukPzs1Ey__NCSRKuAzMS8fIcagxqFapA9CjaGZlp2YFaNgqGCLhwbAXENMGHqgjGIBxKFiIAgSAQEa-AskDxYBGoaSByETeNhBEQ3zCyIeYRUQYSgRpqBOAgCqhy7KMwTIAwyENVYYhxKusdrubh07RQQoa0A5ClzcQEA)]
+- [主旋律 TMD 檔案](tokei_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLkIyGSqQmZ-Tl5-SnVypxaWkpPG5c8bhx4uPGlseN6x43tj1unP9-T8ezmU0vJ8x4srP72dqe93s6FbS0uBRtFSyNuOxtFdy5bIz0TexApj6b1v6yecXzOY1gO16073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ykagkY8bup9u6H66Y8fz5ROfr1nzZFfP07U7nu7c8nzKCqDloODVAwavHih4gQwDI6ATlLj0tRSezd70fPa6F6tWPZvRx6WgoPBkx1qgE14sX_yyvfv9nlnP-vufrl8Ncfuz3Vuer53yYuuGp91TX3S0P12wESj-fk_P04kdz_v3vVjW_3Rf9_NZLSDF0yY_a5n_uKGJS0ufC2SLLbUAyIlP--Y_m73jxeb2Fyu6gO4Aev7FynlPW1cA3Q306tMNvc_aOxUCDIyN9LIK0oHuAyp-uaBRoUBPwdAcyIWHzrM584FsBWOFl8umAYMD6FuQ6S9W7X_WsBxkbnfvi5nAmJv1uLkDKAjUAxR5unYC0A53hadLlgPFFICxpgAUBermggReA4hCiv_1jxubHjdOfdzY_bip83FDA4jRuORx48LHTZOR2RBtXWDRVY8bZzxu3PS4ad7jxt7HjcvB2oCpaArYxGWPmyY9bup53LjycVMTRNtCsDErgHwUI0DagA6Z_LipF6QH6IqmuY8bZz1uXA3RtgGsdB_IBpBLgDZMBxmPx5FgP-7qwfQjxKjlIBcQ8GNTP8jxwLBoBHphLcgXQAdC_NgENGsmzCCgH4E692HzI0QdyOGzwLYBuWAPgrwPVAPUhvAjJPBJ8SNQG-XJFAoUQMk_JD87NdMvP7Qk0SogMzEv36HGoEahGmSPgo2hmZYdmFWjYKigC8dGQFwDTJi6YAzigUQhIiAIEgHBGjgLJA8WgZoGEgdh03gYAdENMwtiHiFVECGokWYgDoKAKscuCvMECIMMRDWWGIeS7vFaLi5dOwVEaCsAecpcXAA)]
 - [鋼琴伴奏 TMD 檔案](tokei_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOJx48THjS2PG9c9bmx73Dj__Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgacRlb6vgzmVjpG9ix1WnoPRsWvvL5hXP5zQqgXgv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkV8_TtTue7tzyfMoKoP1GBkYGegYGZnoGFibmQIaBEdAJSlxcIfnZqZl--aEliVYBmYl5-UEeDjUGNQrVXApAYGNopmUHZtUoGCrowrERENcoGANJEAbxQKIQERAEiYBgDZwFkgeLQE0DiYOwaTyMgOiGmQUxj5AqiBDUSDMQB0FAlWMXhXkChEEGohpLjENJ93gtZmD7oAS2CSKs4xWiDWPRGabxIJZpPFQMqhbMh0jBVWMRg6o2AcmYgGWQmEjqiTEem2OAvtO1U0B4UAHIU-biAgA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ とけいのうた ]
+📊 TMD Song Profile: [ とけいのうた（時鐘之歌） ]
 ================================================================================
 ⏱  Duration:       0:20 (20.9s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 92.0 BPM, <2/4>
@@ -117,6 +120,6 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![とけいのうた — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P032.jpg](P032.jpg)
+![とけいのうた（時鐘之歌） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P032.jpg](P032.jpg)
 
 
