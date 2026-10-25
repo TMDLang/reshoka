@@ -61,15 +61,15 @@ Q:1/4=108
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-F2 C2 F2 G2 | A2 G2 F2 F2 | G2 F2 G2 A2 | c6 z2 |
-A2 A2 G2 A2 | c2 d2 c2 A2 | c2 c2 A2 G2 | A2 G2 F2 z2 |
-C2 F2 F2 F2 | A2 F2 F2 z2 | c2 d2 c2 A2 | G2 F2 F2 z2 |
+F3 C F2 G2 | A3 G F2 F2 | G3 F G2 A2 | c6 z2 |
+A3 A G2 A2 | c3 d c2 A2 | c3 c A2 G2 | A2 G2 F2 z2 |
+C3 F F2 F2 | A2 F2 F2 z2 | c2 d2 c2 A2 | G2 F2 F2 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kintaro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk8blr7uHnz46b9j5tXPm5a9n5Px8v2iU-XrHrZ3Pd-T6eClhaXoq2CoYEFl72tghuXjZG-iR3IuBcr573fM-v5_M1P--Y_ndTzZEcnUAPYomezN4Fkpmx4Nnfii5l9L6b3g4VftO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQNeBQlgPGMJ6oBAGMgwMgc5U4tLXUgBa_Hz2uherVj2b0celoKDwZMfaZ9PaXyxf_LK9G-iiZ9OXPpuz5tmGiS-nTX7atBmoDqjg-ayWp0uWP-2a_XTDRKAV7_f0POvvf7p-9ZPd057OWfF040agGqD3nnZPfd658nnfyhcNQDc3vuyd_bK361nHhJdTtz9uaOLS0ucCOoAL6FKux83zHjdtfdy0-nHzKjDZ8rhpyePmdi60cAby14PUNneDdex_3LQGqAMoCtS1DCzR97hpI0hv02agof1g1nawWZ1gFSASJoFFiCi1XE929QCtXARWDbR_5eNmoAKQ3UDVYBbIOUB3gpy_8XFzw-PmRWCHAcmWx80LHze3ASV2ghUCzURzMcjrQE0rwLYuAQoB5TeDRfcTlAeFqG9iZp5VQGZiXr5DjUGNQjUoThVsDM207MCsGgVDBV0F03ggAWIYAXGNgjGUBRIB4Ro4D0SDZGsUTIEkDBqARKDGgWRh-hEqzUCWoIjAeJg2IpsGdxjCKSClMB5YKRYLkB0PMa6Wi0vXTgEUGApAWpmLCwA)]
-- [鋼琴伴奏 TMD 檔案](kintaro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPZx8-bHTfsfN6983LTs_Z6Ox81THjctetzc92TPlqdL-5_snvF-T6eClhaXoq2CoYEFl72tghuXjZG-iR1XnYLSi5Xz3u-Z9Xz-5qd9859O6nmyo_Nlc58SSObZ7E0gmSkbns2d-GJm34vp_WDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPh6dodT3dueT5lBdCZRgZGBnoGBmZ6BhYm5kCGgSHQmUpcXL6JmXlWAZmJeflBHg41BjUK1VwKQGBjaKZlB2bVKBgq6CqYxgMJEMMIiGsUjKEskAgI18B5IBokW6NgCiRh0AAkAjUOJAvTj1BpBrIERQTGw7QR2TS4wxBOASmF8cBKsViA7HiIcbXIYeGDEhYW8KCINowFKoaQGDzTeDAXQsFkQcbD3ApVj6oAzTBMSQz9GLYDVeBwC1Q70G-6dgog7ykg0cpcXAA)]
+- [主旋律 TMD 檔案](kintaro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk8blr7uHnz46b9j5tXPm5a9n5Px8v2iU-XrHrZ3Pd-T6eClhaXoq2CoYEFl72tghuXjZG-iR3IuBcr573fM-v5_M1P--Y_ndTzZEcnUAPYomezN4Fkpmx4Nnfii5l9L6b3g4VftO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQNeBQlgPGMJ6oBAGMgwMgc5U4tLXUgBa_Hz2uherVj2b0celoKDwZMfaZ9PaXyxf_LK9G-iiZ9OXPpuz5tmGiS-nTX7atBmoDqjg-ayWp0uWP-2a_XTDRKAV7_f0POvvf7p-9ZPd057OWfF040agGqD3nnZPfd658nnfyhcNQDc3vuyd_bK361nHhJdTtz9uaOLS0ucCOoAL6FKux83zHjdtfdy0-nHzKjDZ8rhpyePmdi60cAby14PUNneDdex_3LQGqAMoCtS1DCzR97hpI0hv02agof1g1nawWZ1gFSASJoFFiCi1XE929QCtXARWDbR_5eNmoAKQ3UDVYBbIOUB3gpy_8XFzw-PmRWCHAcmWx80LHze3ASV2ghUCzURzMcjrQE0rwLYuAQoB5TeDRfcTlAeFqG9iZp5VQGZiXr5DjUGNQjUoThVsDM207MCsGgVDBV0gNI0HM4yAuEbBGCxkBBYB4RqwOIgNokGyNQqmYBEINACJQI2D6DXGUGkGppFFTME8hI0gFsg2ZNOAzoJYjHAKSCmMB1YKNs4MbCDMAphRCONqubh07RRAgaEApJW5uAA)]
+- [鋼琴伴奏 TMD 檔案](kintaro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPZx8-bHTfsfN6983LTs_Z6Ox81THjctetzc92TPlqdL-5_snvF-T6eClhaXoq2CoYEFl72tghuXjZG-iR1XnYLSi5Xz3u-Z9Xz-5qd9859O6nmyo_Nlc58SSObZ7E0gmSkbns2d-GJm34vp_WDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPh6dodT3dueT5lBdCZRgZGBnoGBmZ6BhYm5kCGgSHQmUpcXL6JmXlWAZmJeflBHg41BjUK1VwKQGBjaKZlB2bVKBgq6AKhaTyYYQTENQrGYCEjsAgI14DFQWwQDZKtUTAFi0CgAUgEahxErzGGSjMwjSxiCuYhbASxQLYhmwZ0FsRihFNASmE8sFIsFsCMQhhXixwWPihhYQEPimjDWKBiCInBM40HcyEUTBZkPMytUPWoCtAMw5TE0I9hO1AFDrdAtQP9pmunAPKeAhKtzMUFAA)]
 
 ## 分析
 
@@ -90,11 +90,11 @@ C2 F2 F2 F2 | A2 F2 F2 z2 | c2 d2 c2 A2 | G2 F2 F2 z2 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  F, C, A, G, D
-   - 調性數值:    F 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.87), C 大調 (0.73), A 小調 (0.65)
+   - 調性數值:    F 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.85), C 大調 (0.74), A 小調 (0.67)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.87, 自然音純度: 100.0%)
+     • [Main #1]: F 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -107,16 +107,16 @@ C2 F2 F2 F2 | A2 F2 F2 z2 | c2 d2 c2 A2 | G2 F2 F2 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████      25.0%
+     C  : ██████████████████████    26.1%
      C# :                            0.0%
-     D  : ████                       4.5%
+     D  : ███                        3.4%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ████████████████████████  29.5%
+     F  : ████████████████████████  28.4%
      F# :                            0.0%
      G  : ███████████████           18.2%
      G# :                            0.0%
-     A  : ██████████████████        22.7%
+     A  : ████████████████████      23.9%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
