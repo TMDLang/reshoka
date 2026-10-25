@@ -66,12 +66,12 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 B3 A G2 D2 | B3 A G2 D2 | G2 A2 B3 c | A6 z2 |
 G3 A B4 | A2 A2 G2 E2 | D3 D D2 D2 | E2 E2 D4 |
-d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
+d3 d d2 B2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ike_no_koi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4aePj5r7HTZsfN09S0NLiUrRVsDTjsrdVcOeyMdI3sQNpfrFy3vs9s55Na3_ZvOL5nEawgc9mb8IQe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVrzf0wEKRj1gMOqBghHIMDB8v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu4A-fdq6AugroCuebuh91t6pEAByTFZB-vs9PUDFLxc0KhToKZgCeXB3P5szH8hWMFV4uWwa0KHAYAEZ_mLV_mcNy0HGdve-mDkfKPq4uQMo-GRXD1Dk6doJQCvcFZ4uWQ4UUwCGtAJQFKwbGDg9j5tWPW5e9Lhp--PmtY-b1j9u6H00c6UtMGJAJgNtBVGPm9sfN7eBYg4Yiw0NyFywNDxugXLg6IWI7gVzwKLN8x43t4Dsae6DyG1_3LQJJNS0Hyzd9bhpNdBYiGVtIE1AoebVYAOB7ut43LwJog_oRqBl-x83r4RaBnMCNgmwF3b1UOAFoKnAgIF4YQnYmeuQvNAMFF0D9QLQ_SAfzYBYBlS4CeY3oMlrHzdPfdy0BiI3_3HTCmxewCVBeQqEAgUtfS4uz-xUv3zv_EyrgMzEvHyHGoMahWqQLQo2hmZadmAWtsSvAEmDLxb2KGiYKDzd0P98fYMOPMVqYtEAtAxkWI2CsYIuEBopGAJJ03gggVUIxDQCYoiUCVAExINBA5AacHzidt2uHnJcB7IXZDPEXpBLQPaCMEjGDOI4sBvBTgWzoE4GS4IJqDxhN-7oJMeNphDbwbQxIrhAToQFGyhMIRCkCBxcQHEIBKmBBGAtF5eunQIsCSgA2cpcXAA)]
+- [主旋律 TMD 檔案](ike_no_koi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4aePj5r7HTZsfN09S0NLiUrRVsDTjsrdVcOeyMdI3sQNpfrFy3vs9s55Na3_ZvOL5nEawgc9mb8IQe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVrzf0wEKRj1gMOqBghHIMDB8v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu4A-fdq6AugroCuebuh91t6pEAByTFZB-vs9PUDFLxc0KhToKZgCeXB3P5szH8hWMFV4uWwa0KHAYAEZ_mLV_mcNy0HGdve-mDkfKPq4uQMo-GRXD1Dk6doJQCvcFZ4uWQ4UUwCGtAJQFKwbGDg9j5tWPW5e9Lhp--PmtY-b1j9u6H00c6UtMGJAJgNtBVGPm9sfN7eBYg4Yiw0NyFywNDxugXLg6IWI7gVzwKLN8x43t4Dsae6DyG1_3LQJJNS0Hyzd9bhpNdBYiGVtIE1AoebVYAOB7ut43LwJog_oRqBl-x83r4RaBnMCNgmwF3b1UOAFoKnAgIF4YQnYmeuQvNAMFF0D9QLQ_SAfzYBYBlS4CeY3oMlrHzdPfdy0BiI3_3HTCmxewCVBeQqEAgUtfS4uz-xUv3zv_EyrgMzEvHyHGoMahWqQLQo2hmZadmAWtsSvAEmDLxb2KGiYKDzd0P98fYMOPMVqYtEAtAxkWI2CsYIuEBopGAJJ03gggVUIxDQCYoiUCVAExINBA5AacHzidt2uHnJcB7IXZDPEXpBLQPaCMEjGDOI4sBvBTgWzoE4GS4IJqDxhN-7oJMeNphDbwTTInTBXG8JDDRSkEAhSAw4toDgEgtRAwq-Wi0vXTgGWAhSAbGUuLgA)]
 - [鋼琴伴奏 TMD 檔案](ike_no_koi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctORx08bHzX2PmzY_bp70fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOOyt1Vw57Ix0jex46pTUHqxct77PbOeTWt_2bzi-ZxGJZDYs9mbMMRetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQJcZGRgZ6BkYmOkZWJiYAxkGhkDHKXFxeWan-uV752daBWQm5uUHeTjUGNQoVHMpAIGNoZmWHZilr6Vgiw4UIHa8WNijoGGi8HRD__P1DToKASBrsgrSNbFo0NIHG1ajYKygC4RGCoZA0jQeSGAVAjGNgBgiZQIUAfFg0ACkhgu_63b1kOM6kL0gmyH2glwCsheEQTJmEMeB3Qh2KpgFdTJYEkxA5Qm7cUcnOW40hdgOpkHuhLnaEB5qoCCFQJAacGgBxSEQpAYSfrXoCcAHJQGYQOMfaHy8QrRhLDrDJB7EMo2PBxpXg6TSFCxuAhSPNoQrgYrCDMBmMKoKiC6wASCH6topwNyqgMZW5uICAA)]
 
 ## 分析
@@ -83,8 +83,8 @@ d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
 ⏱  Duration:       0:15 (15.0s), 12 measures total
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  B3 in [IkeNoKoi #1 @ m.9, 0:10]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [IkeNoKoi #1 @ m.1, 0:00]
    - 最高音: D5 in [IkeNoKoi #1 @ m.9, 0:10]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      IkeNoKoi (15.0s)
@@ -124,7 +124,7 @@ d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
      B  : ███████████████████       21.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 45 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 45 個音符)
 ================================================================================
 ```
 
