@@ -51,13 +51,11 @@ V:V1 name="Vocal" snm="Voc"
 [V:V1]
 A4 c4 G4 G4 | F4 A4 D4 D4 | B4 A4 G4 ^G4 | A12 z4 |
 A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
-A4 c4 G4 G4 | F4 A4 D4 D4 | B4 A4 G4 ^G4 | A12 z4 |
-A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuki_to_gan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgKGlUSK6FNyo-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJDelFhWDXQtxRElRYh7EDKAgQlVJRirQ4Yl5mbnIeiGieYklpUWpSlxaWgqPm1seN6193NzxuGnN4-bNChrP5nS86Gh_ObtRU0FLi0vRVsHChMveVsENZMSLlfPe75n1bF_L03Xrnm5pf7K78cWyVc_7usHmP5u9CSQ5Z83Tja0vp25_smOaEpeNib6JHReXvhaXggI-q0DSwZCAU3g6ZeOztT1Pd0xT0DAyMDLQMzAw0zOwMDHW1FEABbVeVkG6gkZJfgFYk29iUXpmXmJOZqKVAsRdz9btf7Kj--m-hU_2zlF4vnrpizULX85uU3i6ZPnLGauere97Nn3ps2kbXjTOe75k3_OZe14s7FEwNNUz0jPWA5nnnJ9bkF-cWgQ0DckjQKOAvlPQV_CpLMpMziwugVmGHAhA_2A4AOzGkFSgmUDNrhUFRanF4KhTeNqy6vm-vsfN3VwgFWBji61ATEOwMx43zwOGEJhc_bi5S-Fx0ypo6DVtBYoC5SeBArFp--NmoCFLQAqbgApXAiXawZztj5v2P25eATbdCGJkY9fjxiWPG3sfN0593LjvceM6oNCqx43dQNbjxt2PmzqB_O7HTUBVPSAlTZMfN24ACq0As5Y_bmp73NjPpaXPxeWbmJlnFZafnJjjUGNQo1ANMl3BxkLLDsyoUTBW0FUwBWIjKK5RMASSIFGzeBhRo2ACFQOrUgcLgbgwaAASQTIQpBhEg3CNghmQRDYAYoURkA8SBdpgrhMPFUQ1sJaLS9cOmGoy8xSQaGUuAA)]
+- [主旋律 TMD 檔案](tsuki_to_gan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgKGlUSK6FNyo-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJDelFhWDXQtxRElRYh7EDKAgQlVJRirQ4Yl5mbnIeiGieYklpUWpSlxaWgqPm1seN6193NzxuGnN4-bNChrP5nS86Gh_ObtRU0FLi0vRVsHChMveVsENZMSLlfPe75n1bF_L03Xrnm5pf7K78cWyVc_7usHmP5u9CSQ5Z83Tja0vp25_smOaEpeNib6JHReXvhaXggI-q0DSwZCAU3g6ZeOztT1Pd0xT0DAyMDLQMzAw0zOwMDHW1FEABbVeVkG6gkZJfgFYk29iUXpmXmJOZqKVAsRdz9btf7Kj--m-hU_2zlF4vnrpizULX85uU3i6ZPnLGauere97Nn3ps2kbXjTOe75k3_OZe14s7FEwNNUz0jPWA5nnnJ9bkF-cWgQ0DckjQKOAvlPQV_CpLMpMziwugVmGHAhA_2A4AOzGkFSgmUDNrhUFRanF4KhTeNqy6vm-vsfN3VwgFWBji61ATEOwMx43zwOGEJhc_bi5S-Fx0ypo6DVtBYoC5SeBArFp--NmoCFLQAqbgApXAiXawZztj5v2P25eATbdCGJkY9fjxiWPG3sfN0593LjvceM6oNCqx43dQNbjxt2PmzqB_O7HTUBVPSAlTZMfN24ACq0As5Y_bmp73NjPpaXPxeWbmJlnFZafnJjjUGNQo1ANMl3BxkLLDsyoUTBW0FUwBWIjKK5RMASSIFGzeBhRo2ACFQOrUgcLgbgwaAASQTIQpBhEg3CNghmQRDYAYoURkA8SBdpgrhMPFUQ1sJaLS9cOmGoy8xSAtDIXAA)]
 - [鋼琴伴奏 TMD 檔案](tsuki_to_gan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae3j5o7HTWseN29W0Hg2p-NFR_vL2Y2aCo8apigEZCbm5Ss4Jifn5xYk5mXmpuaVKGhpcSnaKliYcNnbKrhx1SkovVg57_2eWc_2tTxdt-7plvYnuxtfLFv1vK9bCST5bPYmkOScNU83tr6cuv3JjmlKXDYm-iZ2XFz6WlwKCuQ4AaQtOL-0KDnVSuHplI3P1vY83TFNQcPIwMhAz8DATM_AwsRYU0chwNDSSC-rIF1BoyS_QBOkyTexKD0zLzEnM9FKAeLeZ-v2P9nR_XTfwid75yg8X730xZqFL2e3KTxdsvzljFXP1vc9m7702bQNLxrnPV-y7_nMPS8W9igYmuoZ6RnrgcxzBropvzi1CGgakgeBRgF9raCv4FNZlJmcWVwCsww5cID-xHCAJpeWPheXb2JmnlVYfnJijkONQY1CNcgiBRsLLTswo0bBWEFXwRSIjaC4RsEQSIJEzeJhRI2CCVQMrEodLATiwqABSATJQJBiEA3CNQpmQBLZAIgVRkA-SBRog7lOPFQQ1cBaqPPBkRbkgd0Dhtogc4GkNsgbQKO0QXbA6BoF03htkMkQZcbx2mAfwWig44DqtEHuAKkDqwGJQCmIT4EyIOPAIQVhguSRmMjehxsD8i-cA2eA3GuiDQoRTIuRTIQ7GxRKcJXwoAI6HyqPjYUl8HxwBR4oEMCEKdBgGIksbgYWgZA1CkZgGixhBCeAjkXSDCGRgwSsHAQRpgJTFFgZknkoVoMgRA5FGMIBM-Ge1LUDZsTMPAUkWpkLAA)]
 
 ## 分析
@@ -66,14 +64,14 @@ A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ ツキトガン 月與雁 ]
 ================================================================================
-⏱  Duration:       0:45 (45.7s), 16 measures total
+⏱  Duration:       0:22 (22.9s), 8 measures total
 🎼 Key & Tempo:    首調基準 F, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Main #1 @ m.2, 0:04]
    - 最高音: D5 in [Main #1 @ m.6, 0:14]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (22.9s) -> Main (22.9s)
+🏛  結構:      Main (22.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -81,10 +79,9 @@ A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
    - 核心骨幹音:  A, F, G, D, A#
    - 調性數值:    D 調性不明確 [相關度: 0.61, 穩定度: Ambiguous, 自然音純度: 95.0%]
    - 候選調性 (K-S): D 小調 (0.61), A 小調 (0.59), F 大調 (0.55)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
      • [Main #1]: D 調性不明確 (r: 0.61, 自然音純度: 95.0%, 調外音: D#, G#)
-     • [Main #2]: D 調性不明確 (r: 0.61, 自然音純度: 95.0%, 調外音: D#, G#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -111,7 +108,7 @@ A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 56 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 28 個音符)
 ================================================================================
 ```
 

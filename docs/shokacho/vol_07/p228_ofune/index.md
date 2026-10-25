@@ -57,19 +57,11 @@ A2 A2 F2 F2 | A2 A2 F2 F2 | A2 A2 B2 B2 | B4 z4 |
 d2 d2 B2 B2 | d2 d2 B2 B2 | A2 A2 F2 F2 | A4 z4 |
 A2 A2 F2 F2 | A2 A2 F2 F2 | B2 B2 B2 B2 | A4 z4 |
 d2 d2 B2 B2 | A2 A2 F2 F2 | A2 A2 d2 d2 | d4 z4 |
-A2 A2 F2 F2 | A2 A2 F2 F2 | A2 A2 B2 B2 | B4 z4 |
-d2 d2 B2 B2 | d2 d2 B2 B2 | A2 A2 F2 F2 | A4 z4 |
-A2 A2 F2 F2 | A2 A2 F2 F2 | B2 B2 B2 B2 | A4 z4 |
-d2 d2 B2 B2 | A2 A2 F2 F2 | A2 A2 d2 d2 | d4 z4 |
-A2 A2 F2 F2 | A2 A2 F2 F2 | A2 A2 B2 B2 | B4 z4 |
-d2 d2 B2 B2 | d2 d2 B2 B2 | A2 A2 F2 F2 | A4 z4 |
-A2 A2 F2 F2 | A2 A2 F2 F2 | B2 B2 B2 B2 | A4 z4 |
-d2 d2 B2 B2 | A2 A2 F2 F2 | A2 A2 d2 d2 | d4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ofune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGRBboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKCgEpeWlsLjplWPm6c-bu59v6fj6Yb-Fx073-_pVNDS4lK0VTA0sOCyt1Vw4bIx0jexA5n5dMrGZ2t7nu6YpgDyp4LGkx0NT3duUdBXeDF5zYsJXRBpBUOTlwsaNZW4uPS1FGypBbgUFLA7FiQRDAlFBYT7NIwMjAz0DAzM9AwsTIw1dcAO1ssqSAcp900sSs_MS8xRAMVHsZWCoR7QC9j9YmSiB_EPSJ93aqWVwuPm7her9itouCjkJmblFwGNDskEJgoFYBgBmam5BflAd-xf_WzLbqBKkC6fyqLM5GIrEBNo0ePmSY-b9zxuXvu4aQmQ0wXiNK0Bc4BUc__j5r7HTcseN89A8TBQDsjZ_7hp_eOmrY-bNwN1djxunv24GSg_73HTTojidY-bmx83Nz5uXonGaW4D6gGpbJ4GNAysuHku2BkgEqh44-PmBSDLm9YDOavBrB2PmxeDXNK0FqTeCORyoGNXgg1qB6pa-7gZ5GygKFBmNkgXyBS4-UCXgySB9ndDrEDnAzUDPbMbJNq0BqIFaDEwMICqNgE5e0Fh1DwD6HYgZzNYuB2seD3E_XPA7geGQj-QMx_kRVDIzICE2aLHTdshYQxSbAxy_ByQfUAJqGNATgbKA_0L8lYLKHDB_oMHO1ge5Dl4HDR3AxX3gcIc6B5wMEBcghKhyByoMcDYBLpvE8RkkAPgcQQ0A8RCMhkUR8DA3wtSTHmmgQIFLX0uLv-00rxUq7D85MQchxqDGoVqkBUKNhZadmBGjYIpEBoDITrLDAhrgFhXwQCIa8CqgTnbIQecrm0VlICeBjofGKzNa4F-AqdqCB-caMEJG8gHRVMfkL0MSM9QAjkJ1aB4I7BRIK2gFAtK4uBkBqShxkBSGiidgFIskD0NiHuxGWUMNmoOUBkofhdBXbMKqh3kSnC8A3ELKFtB2SvhRtUoGMaBEMTryGzkoMEdIGCrpoJcBw0EoBXgrLUV6rMOiFOaQermAcV34gwQkFFgzzeCSh6IL1D4IONBRu-GhTXOAEEOAEjCRrgSkgIhLmoCuRAc_kgBgi11gIIEFix4AgNUEkEdDIpZUFRgCoGyOdhSYHDgjlhIkADjH2wKKBjARQUk6YEyP6S0gMqB0g8oSNbjTiPoKReNDw8yUKqdD7IORxpBDR6IDFgFnlwzF2oXlAYn6QVADMwpkHIYygaVxBAnNK3FnXGAqR1sGihpgYtEaGCAkhy4VATSwJzQtB3mO9zpBJphYNEDTg-wqEJKJ-CoAjlwL9ioWi4uXTsFcDGjgJWhzAUA)]
+- [主旋律 TMD 檔案](ofune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGRBboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKCgEpeWlsLjplWPm6c-bu59v6fj6Yb-Fx073-_pVNDS4lK0VTA0sOCyt1Vw4bIx0jexA5n5dMrGZ2t7nu6YpgDyp4LGkx0NT3duUdBXeDF5zYsJXRBpBUOTlwsaNZW4uPS1FGypBbgUFLA7FiQRDAlFBYT7NIwMjAz0DAzM9AwsTIw1dcAO1ssqSAcp900sSs_MS8xRAMVHsZWCoR7QC9j9YmSiB_EPSJ93aqWVwuPm7her9itouCjkJmblFwGNDskEJgoFYBgBmam5BflAd-xf_WzLbqBKkC6fyqLM5GIrEBNo0ePmSY-b9zxuXvu4aQmQ0wXiNK0Bc4BUc__j5r7HTcseN89A8TBQDsjZ_7hp_eOmrY-bNwN1djxunv24GSg_73HTTojidY-bmx83Nz5uXonGaW4D6gGpbJ4GNAysuHku2BkgEqh44-PmBSDLm9YDOavBrB2PmxeDXNK0FqTeCORyoGNXgg1qB6pa-7gZ5GygKFBmNkgXyBS4-UCXgySB9ndDrEDnAzUDPbMbJNq0BqIFaDEwMICqNgE5e0Fh1DwD6HYgZzNYuB2seD3E_XPA7geGQj-QMx_kRVDIzICE2aLHTdshYQxSbAxy_ByQfUAJqGNATgbKA_0L8lYLKHDB_oMHO1ge5Dl4HDR3AxX3gcIc6B5wMEBcghKhyByoMcDYBLpvE8RkkAPgcQQ0A8RCMhkUR8DA3wtSTHmmgQIFLX0uLv-00rxUq7D85MQchxqDGoVqkBUKNhZadmBGjYIpEBoDITrLDAhrgFhXwQCIa8CqgTnbIQecrm0VlICeBjofGKzNa4F-AqdqCB-caMEJG8gHRVMfkL0MSM9QAjkJ1aB4I7BRIK2gFAtK4uBkBqShxkBSGiidgFIskD0NiHuxGWUMNmoOUBkofhdBXbMKqh3kSnC8A3ELKFtB2SvhRtUoGMaBEMTryGzkoMEdIGCrpoJcBw0EoBXgrLUV6rMOiFOaQermAcV34gwQkFFgzzeCSh6IL1D4IONBRu-GhTXOAEEOAEjCRrgSkgIhLmoCuRAc_kgBgi11gIIEFix4AgNUEkEdDIpZUFRgCoGyOdhSYHDgjlhIkADjH2wKKBjARQUk6YEyP6S0gMqB0g8oSNbjTiPoKReNDw8yUKqdD7IORxpBDR6IDFgFnlwzF2oXlAYn6QVADMwpkHIYygaVxBAnNK3FnXGAqR1sGihpgYtEaGCAkhy4VATSwJzQtB3mO9zpBJphYNEDTg-wqEJKJ-CoAjlwL9ioWi4uXTsFcDGjAGQocwEA)]
 - [鋼琴伴奏 TMD 檔案](ofune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx89THzb3v93Q83dD_omPn-z2dClpaXIq2CoYGFlz2tgouXDZG-iZ2XHUKSk-nbHy2tufpjmkKAUZGFgoaT3Y0PN25RUFf4cXkNS8mdEGkFQxNXi5o1FTi4tLXUrClFuBSUMDh2EcNUxQCMhPz8hUck5PzcwsS8zJzU_NKQBqC80uLklOtFBDu1jAyMDLQMzAw0zOwMDHW1AF7RC-rIB2k3DexKD0zLzFHIS-_JLXYSsFQD-g17H40MtGD-BOkj3LfQYGClj4Xl39aaV6qVVh-cmKOQ41BjUI1yAoFGwstOzCjRsEUCI2BEJ1lBoQ1QKyrYADENWDVwChwyKksykwutlVQetw8SeFx8x4gXgsMyyVAugvCb1oD4YPo5n4g7gOylwHpGUogJ6EaFG8ENgqkdSUQbwbidqByoJHNUGPAcrOB7NVAvBHIngbEvXCjahQM40AI4l5kNrJ_cPuiaRXQuKkgI6Eu3w_E64F4K9Q5HRDrm0Hq5gHFd-L0BcgosIsbgbgblMDQ-CDjQUbvhgUQki-wxQPIHzC_4PHBusfNzVBbQGEIigJMoeY2qH-AfkALQgx_AEMabArI7ZuA9F5IJDfPgBjTBDQGLAeKKZA_1uOIDVQ_QWTAKvAkqrlQ50JpcIwvgCQkcNiB3AZi73jcvBiSrprW4k5Xc6CmgSIRlBTnQ30Ailygb8CRvwhIb4clY7BRtbB8Ay4Jgjyw55zq3LRaBUNtoMfA2BiMgd7DI2IGxiAR1IxVo2CsDQwWMIFQhU0M03TzeG0joACqccQ5ywRsLDoJkjHGMJEkx0ApoCkQXWAKZAaYATMYNZh9cASzYbyCaTyUxMIzjlcwAQvUQGkgaYAIB7BCmAJsPIgRwBQar2AEEsDUjd1quGWoZuG3GskykE1IJiOFiWdeSVE-tqRngpT0CmoVog1jFaJNY4HcaLNcKBNNP2qYIvTDLDaD0CBdrnkpmXnphKwFpvhoE7i1QAdA3YysG5elwKBA-BasS9dOAexYBSADnBJQGBAzQSxlLgA)]
 
 ## 分析
@@ -78,14 +70,14 @@ d2 d2 B2 B2 | A2 A2 F2 F2 | A2 A2 d2 d2 | d4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ オフネ（小船） ]
 ================================================================================
-⏱  Duration:       0:53 (53.3s), 48 measures total
+⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F#4 (MIDI 66) – D5 (MIDI 74) [跨度: 8 個半音 / 0.7 個八度, 難度: easy]
    - 最低音:  F#4 in [Ofune #1 @ m.1, 0:00]
    - 最高音: D5 in [Ofune #1 @ m.5, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Ofune (17.8s) -> Ofune (17.8s) -> Ofune (17.8s)
+🏛  結構:      Ofune (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -93,11 +85,9 @@ d2 d2 B2 B2 | A2 A2 F2 F2 | A2 A2 d2 d2 | d4 z4 |
    - 核心骨幹音:  A, B, F#, D
    - 調性數值:    D 大調 [相關度: 0.72, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.72), F# 小調 (0.68), A 大調 (0.62)
-   - 五度圈歷程:   +2 -> +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
      • [Ofune #1]: D 大調 (r: 0.72, 自然音純度: 100.0%)
-     • [Ofune #2]: D 大調 (r: 0.72, 自然音純度: 100.0%)
-     • [Ofune #3]: D 大調 (r: 0.72, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -124,7 +114,7 @@ d2 d2 B2 B2 | A2 A2 F2 F2 | A2 A2 d2 d2 | d4 z4 |
      B  : █████████████████         25.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : F#4 – D5 (8 個半音 / 0.7 個八度, 156 個音符)
+  - Vocal         : F#4 – D5 (8 個半音 / 0.7 個八度, 52 個音符)
 ================================================================================
 ```
 

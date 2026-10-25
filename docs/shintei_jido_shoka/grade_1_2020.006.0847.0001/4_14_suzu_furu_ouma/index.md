@@ -54,14 +54,12 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 A2 E E F2 E2 | A2 E E F2 E2 | C2 E2 F2 A B | c2 c e c B A2 |
 B2 A B c2 B A | F2 F2 E2 z2 | C2 E2 F2 A B | c2 c e c B A2 |
-B2 A B c2 B2 | A6 z2 | A2 E E F2 E2 | A2 E E F2 E2 |
-C2 E2 F2 A B | c2 c e c B A2 | B2 A B c2 B A | F2 F2 E2 z2 |
-C2 E2 F2 A B | c2 c e c B A2 | B2 A B c2 B2 | A6 z2 |
+B2 A B c2 B2 | A6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suzu_furu_ouma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2vm4adfj5qmPm1c_blr1uGnZ4-Z57_d0vOzY8nLCrpfz9z-f1fJ0Q__LZWve7-lU0NLiUrRVMDSw4LK3VXDksjHSN7EDmf1s9qb3e2Y93bjx2Zw1TxfvBdv3on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esALoEFKJ6wBDVA4UokGFgCHSJEpe-lgLQ1uez171YterZjD4uBQWFJzvWPpvW_mL54pft3UDnPOvvf7p-NdDlQLue9c1-MXE6xFNPl055sX3i-z09QO6Lxk3PdrS-aGl71tT6omHz44YmLi19LqDhXEBXcD1u2v64ecnj5s2PmzY_bl6Lwm1owCML1AkP1lWPm_eAVMPZIAaQXMX1uHnF46ZFIE7TxsfNfTB18x43Nz5u3gQ0Yz1IR9MmqBw0doBagSqA3DVg1R2Pm2dDzAOJN-3k4nqyq4cSlzevf9y0HywEdhqyy4HiIHIJ0Ph1YDuBumHOBnoYJLeLOGeDRFaCLQW6GWgVULYLHPK-iZl5VgGZiXn5DjUGNQrVoHhVsDE007IDs2oUDBV0FUzjQcgsHsLUxSlqDGeDRQ0VjECCQJaxgikQG4G11UANNoKqAMmDZGogmhDmGVBqJsyhMAg2kKuWi0vXTgHkbwUkWpmLCwA)]
+- [主旋律 TMD 檔案](suzu_furu_ouma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2vm4adfj5qmPm1c_blr1uGnZ4-Z57_d0vOzY8nLCrpfz9z-f1fJ0Q__LZWve7-lU0NLiUrRVMDSw4LK3VXDksjHSN7EDmf1s9qb3e2Y93bjx2Zw1TxfvBdv3on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esALoEFKJ6wBDVA4UokGFgCHSJEpe-lgLQ1uez171YterZjD4uBQWFJzvWPpvW_mL54pft3UDnPOvvf7p-NdDlQLue9c1-MXE6xFNPl055sX3i-z09QO6Lxk3PdrS-aGl71tT6omHz44YmLi19LqDhXEBXcD1u2v64ecnj5s2PmzY_bl6Lwm1owCML1AkP1lWPm_eAVMPZIAaQXMX1uHnF46ZFIE7TxsfNfTB18x43Nz5u3gQ0Yz1IR9MmqBw0doBagSqA3DVg1R2Pm2dDzAOJN-3k4nqyq4cSlzevf9y0HywEdhqyy4HiIHIJ0Ph1YDuBumHOBnoYJLeLOGeDRFaCLQW6GWgVULYLHPK-iZl5VgGZiXn5DjUGNQrVoHhVsDE007IDs2oUDBV0FUzjQcgsHsLUxSlqDGeDRQ0VjECCQJaxgikQG4G11UANNoKqAMmDZGogmhDmGVBqJsyhMAg2kKuWi0vXTgHkbwUgrczFBQA)]
 - [鋼琴伴奏 TMD 檔案](suzu_furu_ouma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx067HzVMfN69-3LTqcdOyx83z3u_peNw85XHTosfNfU_2bHm6tP_J7hnv93QqaGlxKdoqGBpYcNnbKjhy2Rjpm9hx1SkoPZu96f2eWU83bnw2Z83TxXuVQGIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoEuMDIwM9AwMzPQMLEzMgQwDQ6BLlLi4fBMz86wCMhPz8oM8HGoMahSquRSAwMbQTMsOzKpRMFTQVTCNByGzeAhTF6eoMZwNFjVUMAIJAlnGCqZAbATWVgM12AiqAiQPkqmBaEKYZ0CpmTCHwiDYQK5aZG_7oHjbAu7raMNYoGIIiYNnEo9FEqbdFCwJ1wFRC-IakGYAhIKpAXkB7AFdOwWQHxSQaGUuLgA)]
 
 ## 分析
@@ -70,14 +68,14 @@ C2 E2 F2 A B | c2 c e c B A2 | B2 A B c2 B2 | A6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ スズフルオウマ（鈴鐺響的小馬） ]
 ================================================================================
-⏱  Duration:       0:22 (22.2s), 20 measures total
+⏱  Duration:       0:11 (11.1s), 10 measures total
 🎼 Key & Tempo:    首調基準 A, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C#4 (MIDI 61) – E5 (MIDI 76) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C#4 in [Main #1 @ m.3, 0:02]
    - 最高音: E5 in [Main #1 @ m.4, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (11.1s) -> Main (11.1s)
+🏛  結構:      Main (11.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -85,10 +83,9 @@ C2 E2 F2 A B | c2 c e c B A2 | B2 A B c2 B2 | A6 z2 |
    - 核心骨幹音:  A, C#, E, B, F#
    - 調性數值:    A 大調 [相關度: 0.85, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): A 大調 (0.85), E 大調 (0.71), F# 小調 (0.67)
-   - 五度圈歷程:   +3 -> +3
+   - 五度圈歷程:   +3
    - 各段落調性細節:
      • [Main #1]: A 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Main #2]: A 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -115,7 +112,7 @@ C2 E2 F2 A B | c2 c e c B A2 | B2 A B c2 B2 | A6 z2 |
      B  : ████████████████          17.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C#4 – E5 (15 個半音 / 1.2 個八度, 94 個音符)
+  - Piano         : C#4 – E5 (15 個半音 / 1.2 個八度, 47 個音符)
 ================================================================================
 ```
 

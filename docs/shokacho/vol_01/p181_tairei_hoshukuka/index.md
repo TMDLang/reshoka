@@ -67,21 +67,11 @@ E4 A2 F2 E4 D4 | B,4 D4 E8 | F4 D2 E2 F4 ^A4 | B12 z4 |
 B4 F2 A2 B4 A4 | F4 E4 D4 B,4 | E4 F2 A2 B4 d2 B2 | A12 F4 |
 E4 A4 F4 D2 B,2 | A,4 B,4 D8 | E4 F4 A4 B2 A2 | F12 E4 |
 D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
-D4 E2 F2 E4 D4 | B,4 A,4 B,4 D4 | E4 E2 F2 A4 F4 | E12 z4 |
-E4 A2 F2 E4 D4 | B,4 D4 E8 | F4 D2 E2 F4 ^A4 | B12 z4 |
-B4 F2 A2 B4 A4 | F4 E4 D4 B,4 | E4 F2 A2 B4 d2 B2 | A12 F4 |
-E4 A4 F4 D2 B,2 | A,4 B,4 D8 | E4 F4 A4 B2 A2 | F12 E4 |
-D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
-D4 E2 F2 E4 D4 | B,4 A,4 B,4 D4 | E4 E2 F2 A4 F4 | E12 z4 |
-E4 A2 F2 E4 D4 | B,4 D4 E8 | F4 D2 E2 F4 ^A4 | B12 z4 |
-B4 F2 A2 B4 A4 | F4 E4 D4 B,4 | E4 F2 A2 B4 d2 B2 | A12 F4 |
-E4 A4 F4 D2 B,2 | A,4 B,4 D8 | E4 F4 A4 B2 A2 | F12 E4 |
-D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tairei_hoshukuka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKEFhgzcpPi8_JLUpPz8bISKgqL8stS8xDygqtzEvNLi5KLMgpL45PyCSoSa1LLMlFSQitSUzJL8oszEHCQnpRYVgx0LcUNJUWIexAygIEJVSUYq0N1pqcUlmWUg3VpaCk-XLH--bN3TpZ3Pl859trZHQQNd4FHDFIUXa1qerl_9vLNDU0FLi0vRVsHSjMveVsGFy8ZE38SOi0tfi0tBgVSjQFqCIQGj8HTKRqCCpzumKWgYGRgZ6BkYmOkZWJgYa-oogEJSL6sgHaTcOT-3IL84tQioYefmp5sWPp3b_mRnt4K-gk9lUWZyZnGJlcLL1TOeT9nwomHqkx0NChrPprW_bF7xfE7jy8YdT9fNAtvpBwz8YisF38zc1Pz0osSCjNQUBQ0kH5rq5mTmpSoUlySmpQGjOjkxR6E4Ob8oVaEgsbgEqDY_D-EmkHlgu4utQExDPRD5uHH_48b-x41THzeue9w4_3Fj9-OmTqBo2-PGiY8blzxu7HvcuAzIb3rcuA_M3wQTXQfT29T5uGnC48bVYOOagGb1PG7sety4-3FjL1gFSCFQC5ADNB5oyFYgv_tx4_THjZPBokB7tkJUQXSBtDxu6oK4ruVx4zQwuf5x4w50PthLRhB_NAFdDDRsJpiEeAVk5Gqwi4F2rX3cNAniYqB9K8AeBqJJEN_NfNzUCHY3UBriD5AVQLcCjQOKTgHr6If4A-j0HRA5sHFNHWDrgM6ZATaEbH8YQ-MDaD5YJ8RsEOqCWAz00frHTT2Pm7qB_K1AChbAwCAHehNkMTCW5oPiA-ThfohxQIM2g-WBXgEioHKQh4FeB_sDFGpAf0FjDWIc0AaQn8jxh5Y-F5dvYmaeVRgoKTrUGNQoVIP0KdhYaNmBGTUKhgq6CkYKxkCsC2bXKJjFAylTEAFmQQRB0iBlpkDaGC4CgwYgEaiBIHFTTAMh9kCU14CNMAQbCFSsDlGFwzyQOMheEA2yHaIZZjrYbIilMEWGcUCqBqwWBsEuRnEfRMwQpB-oFMWzEBdCTIQoNQOSEGthECQLMxCmB2gA0CAgaQjVDnIMqqthWkGhg9CI8HEtF5eunQIoyhSw0MpcAA)]
+- [主旋律 TMD 檔案](tairei_hoshukuka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKEFhgzcpPi8_JLUpPz8bISKgqL8stS8xDygqtzEvNLi5KLMgpL45PyCSoSa1LLMlFSQitSUzJL8oszEHCQnpRYVgx0LcUNJUWIexAygIEJVSUYq0N1pqcUlmWUg3VpaCk-XLH--bN3TpZ3Pl859trZHQQNd4FHDFIUXa1qerl_9vLNDU0FLi0vRVsHSjMveVsGFy8ZE38SOi0tfi0tBgVSjQFqCIQGj8HTKRqCCpzumKWgYGRgZ6BkYmOkZWJgYa-oogEJSL6sgHaTcOT-3IL84tQioYefmp5sWPp3b_mRnt4K-gk9lUWZyZnGJlcLL1TOeT9nwomHqkx0NChrPprW_bF7xfE7jy8YdT9fNAtvpBwz8YisF38zc1Pz0osSCjNQUBQ0kH5rq5mTmpSoUlySmpQGjOjkxR6E4Ob8oVaEgsbgEqDY_D-EmkHlgu4utQExDPRD5uHH_48b-x41THzeue9w4_3Fj9-OmTqBo2-PGiY8blzxu7HvcuAzIb3rcuA_M3wQTXQfT29T5uGnC48bVYOOagGb1PG7sety4-3FjL1gFSCFQC5ADNB5oyFYgv_tx4_THjZPBokB7tkJUQXSBtDxu6oK4ruVx4zQwuf5x4w50PthLRhB_NAFdDDRsJpiEeAVk5Gqwi4F2rX3cNAniYqB9K8AeBqJJEN_NfNzUCHY3UBriD5AVQLcCjQOKTgHr6If4A-j0HRA5sHFNHWDrgM6ZATaEbH8YQ-MDaD5YJ8RsEOqCWAz00frHTT2Pm7qB_K1AChbAwCAHehNkMTCW5oPiA-ThfohxQIM2g-WBXgEioHKQh4FeB_sDFGpAf0FjDWIc0AaQn8jxh5Y-F5dvYmaeVRgoKTrUGNQoVIP0KdhYaNmBGTUKhgq6CkYKxkCsC2bXKJjFAylTEAFmQQRB0iBlpkDaGC4CgwYgEaiBIHFTTAMh9kCU14CNMAQbCFSsDlGFwzyQOMheEA2yHaIZZjrYbIilMEWGcUCqBqwWBsEuRnEfRMwQpB-oFMWzEBdCTIQoNQOSEGthECQLMxCmB2gA0CAgaQjVDnIMqqthWkGhg9CI8HEtF5eunQIoyhSAtDIXAA)]
 - [鋼琴伴奏 TMD 檔案](tairei_hoshukuka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZPnzZeueLu18vnTus7U9ChroAo8apii8WNPydP3q550dmmBuQGZiXr6CY3Jyfm5BYl5mbmpeiYKWFpeirYKlGZe9rYILl42JvokdF5e-FpeCArWsABkVnF9alJxqpfB0ykagxqc7piloGBkYGegZGJjpGViYGGvqKAQYWhjqZRWkK2gkojgwrSg_V6GgKDOvJDVFISc1MS0ntQSk2ASkWBNkuDNQdX5xahHQ-J2bn25a-HRu-5Od3Qr6Cj6VRZnJmcUlVgovV894PmXDi4apT3Y0KGg8m9b-snnF8zmNLxt3PF03S5NLS5-LyzcxM88qLD85McehxqBGoRpksoKNhZYdmFGjYKigq2CkYAzEumB2jYJZPJAyBRFgFkQQJA1SZgqkjeEiMGgAEoEaCBI3xTQQYg9EeQ3YCEOwgUDF6hBVOMwDiYPsBdEg2yGaYaaDzYZYClNkGAekasBqYRDsYhT3QcQMQfqBSlE8C3EhxESIUjMgCbEWBkGyMANheoAGAA0CkoZQ7SDHoLoaphUUOgiNCB_XQuMLnNyCPLDHmGm8NizSgEywdyAiQDvitcHeANJgP8H4ZjAFQAYsJs11gIqgmrUhUQpkgkQRcQ3yuDHco0jSIGFclkMtQ1INCVGQONgiUMSDpEBssBJtaBIASmsjotscEu6wUEaSg7FBNCRw4WYj2Qp2D9gpMJfB_Y9iCCS5QB0CjRywC-ABg-l_hGp48EHTEnrQg_lgV8BDAZw2YNoQJkFSGdw8WFpC8RPMKaimoqQ8qAWG2ibwMALRCHuQ7ABB5BADJ0uE2dhYWBKqD46EagjyPwjCGUDX6cDYCBYwt8CYpmBBsHqgM-EqECx4XMBFsBqOpAFJ1JiAO2AlDm6zIeZidTqyINwiTMOxOhzMhKhFEgUbjWwvkmLsoQKWwuFGE4TxEBUwPyEJIVkAjQkwCY9zXTsFULQrYKGVuQA)]
 
 ## 分析
@@ -90,14 +80,14 @@ D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 大禮奉祝歌 大禮奉祝歌 — 謄寫版 ]
 ================================================================================
-⏱  Duration:       2:30 (150.0s), 60 measures total
+⏱  Duration:       0:50 (50.0s), 20 measures total
 🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  A3 in [Main #1 @ m.2, 0:03]
    - 最高音: D5 in [Main #1 @ m.11, 0:26]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (50.0s) -> Main (50.0s) -> Main (50.0s)
+🏛  結構:      Main (50.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       B 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -105,11 +95,9 @@ D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
    - 核心骨幹音:  E, B, D, F#, A
    - 調性數值:    B 調性不明確 [相關度: 0.70, 穩定度: Ambiguous, 自然音純度: 98.7%]
    - 候選調性 (K-S): B 小調 (0.70), D 大調 (0.70), A 大調 (0.68)
-   - 五度圈歷程:   +5 -> +5 -> +5
+   - 五度圈歷程:   +5
    - 各段落調性細節:
      • [Main #1]: B 調性不明確 (r: 0.70, 自然音純度: 98.7%, 調外音: A#)
-     • [Main #2]: B 調性不明確 (r: 0.70, 自然音純度: 98.7%, 調外音: A#)
-     • [Main #3]: B 調性不明確 (r: 0.70, 自然音純度: 98.7%, 調外音: A#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -136,7 +124,7 @@ D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
      B  : █████████████████████     20.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : A3 – D5 (17 個半音 / 1.4 個八度, 225 個音符)
+  - Vocal         : A3 – D5 (17 個半音 / 1.4 個八度, 75 個音符)
 ================================================================================
 ```
 

@@ -69,17 +69,11 @@ V:V1 name="Piano" snm="Pia"
 c2 B2 A2 | A G G4 | !p! B2 A2 F2 | F E E4 |
 !mf! B c B2 B2 | e4 c2 | c d c2 c2 | f4 c2 |
 e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |
-!mf! c2 c2 c2 | e3 d B2 | B2 B2 B2 | d3 c A2 |
-!f! c2 B2 A2 | B2 A G G2 | !p! B2 A2 F2 | G2 F E E2 |
-!f! c2 c2 c2 | e3 d B2 | B2 B2 B2 | d3 c A2 |
-c2 B2 A2 | A G G4 | !p! B2 A2 F2 | F E E4 |
-!mf! B c B2 B2 | e4 c2 | c d c2 c2 | f4 c2 |
-e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kiri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW3mJJaVFqeii5amJQEaREpeWlsLLOcvf7-kAk50KWlpcirYK5kZc9rYKjlw2xvoWdiCtT9t3vZg59f2eWS8mr3k6ZePL2W0KhgbmLxc0Pm5e8bh5FVD_sxlrjfSM9YxMgKaAbXvc0AVU-Wxtz9Md0x43dAOVGBkYGegZGJjpGViYGAOVgUJVL6sgXYmLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oCterJz3tHXFs2ntQIc83dD7rL1TAWY_0ClAn4G0vVi1_1nDcpCG7t4XM-cDRR83LQEKKgDDQQEoBtTrqPB0yXIUIaDmnkczV9kampiAzVix-8WKGTiDSkFfAR5UXCD1T3Y0PG5oBLEeNy973Dz1cfMkIKv7cdN2EKUApB83tz5ung-Wbtr4uHkCWG0TkLPzcdNaIGvt4-YeoGwfEHcApUGWPG5a9bh5NtAoiLlLHjfPA1KLgOKrHzf3w5lNmyB2gBR0Am2Cq174uHk1kAV08CagiUDWgsfNvVD3AKUbgJZCXLH-cfNKsCuaV0CdMA9oONgJIMe0QVSB7Ad7CORWkOv2P25ufNy0GWguJAx29cDCoKntcVPj40aQ-5oeN3U9bpyu8Lhx_-PGpUBqHRC3PW4EBkXjOrDixhVAJVCJyY-bJgIpoLMbux83rgdLAA1rnPi4cQNE8drHTUCHg4SbIFpAeB9QEVAEGOaNqx43Ln_cuAyiGKhkKlQJ0Lg5ILuAeOvjxl6gEqCGfqA7Hjd1Q9zcATVh-uNGYIiC3ACyeSnEcUuACGJmC8g6sId6IVJAszqA9kDNoTzpQ4GClj4Xl3dmUaZVQGZiXr5DjUGNQjXIBgUbQzMtOzCrOjetFsyoUTBW0IXjGgVTIKmrYKJgBOaBSBiuAYqC5IwVDEE8iDEopoBUgeWgLPN4EIKrLYCphakzA0tC1ADZpmCE3WhyHYjuMISjQJCAw5DchKQaEXJGQMMRlkMcBnOmMdAxCEebIctBdZsCRUF6QBjdyzD1YDkFDRMgw0RTVUNXVxPuH5BfIIoMwAbUcnHp2imAol0BiVbmAgA)]
+- [主旋律 TMD 檔案](kiri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW3mJJaVFqeii5amJQEaREpeWlsLLOcvf7-kAk50KWlpcirYK5kZc9rYKjlw2xvoWdiCtT9t3vZg59f2eWS8mr3k6ZePL2W0KhgbmLxc0Pm5e8bh5FVD_sxlrjfSM9YxMgKaAbXvc0AVU-Wxtz9Md0x43dAOVGBkYGegZGJjpGViYGAOVgUJVL6sgXYmLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oCterJz3tHXFs2ntQIc83dD7rL1TAWY_0ClAn4G0vVi1_1nDcpCG7t4XM-cDRR83LQEKKgDDQQEoBtTrqPB0yXIUIaDmnkczV9kampiAzVix-8WKGTiDSkFfAR5UXCD1T3Y0PG5oBLEeNy973Dz1cfMkIKv7cdN2EKUApB83tz5ung-Wbtr4uHkCWG0TkLPzcdNaIGvt4-YeoGwfEHcApUGWPG5a9bh5NtAoiLlLHjfPA1KLgOKrHzf3w5lNmyB2gBR0Am2Cq174uHk1kAV08CagiUDWgsfNvVD3AKUbgJZCXLH-cfNKsCuaV0CdMA9oONgJIMe0QVSB7Ad7CORWkOv2P25ufNy0GWguJAx29cDCoKntcVPj40aQ-5oeN3U9bpyu8Lhx_-PGpUBqHRC3PW4EBkXjOrDixhVAJVCJyY-bJgIpoLMbux83rgdLAA1rnPi4cQNE8drHTUCHg4SbIFpAeB9QEVAEGOaNqx43Ln_cuAyiGKhkKlQJ0Lg5ILuAeOvjxl6gEqCGfqA7Hjd1Q9zcATVh-uNGYIiC3ACyeSnEcUuACGJmC8g6sId6IVJAszqA9kDNoTzpQ4GClj4Xl3dmUaZVQGZiXr5DjUGNQjXIBgUbQzMtOzCrOjetFsyoUTBW0IXjGgVTIKmrYKJgBOaBSBiuAYqC5IwVDEE8iDEopoBUgeWgLPN4EIKrLYCphakzA0tC1ADZpmCE3WhyHYjuMISjQJCAw5DchKQaEXJGQMMRlkMcBnOmMdAxCEebIctBdZsCRUF6QBjdyzD1YDkFDRMgw0RTVUNXVxPuH5BfIIoMwAbUcnHp2imAol0BSCtzAQA)]
 - [鋼琴伴奏 TMD 檔案](kiri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5Z_n7PR1A8nHz7pfde55P2PJkz5anS_ufd3a839OpoKXFpWirYG7EZW-r4MhlY6xvYcdVp6D0tH3Xi5lT3--Z9WLymqdTNr6c3aZgaGD-ckHj4-YVj5tXAU18NmOtkZ6xnpEJ0BQlkJbHDV1Alc_W9jzdMe1xQzdQiZGBkYGegYGZnoGFiTFQWYCBoZleVkG6EheXd2ZRplVAZmJefpCHQ41BjUI1lwIQ2BiaadmBWdW5abVgRo2Cobaxgi4KWaNgHq9tCmToKpgoGMEEQAxUCqTXBKzMWMEQxIcYjWYyVLFZvDZYDYxvCGSAEFxbAUwbUCVEAUgTWItpvDZYJZBrCka47KKeL3C5HuxsmHtAkLDrIa42BjoGTQ8iDoyAdmO6CuJ4kLtAfGOgN1D9Z6hthqwCapapghlUL4TEDCkTuD6gSRA1ChomQI0mmqoaurqaUAvAvoQ6BsiGCIKgAdjUWuRk5oMrmcHDxRDkedN4EAlmgswE0UYIcaxCGPrQw84MLAdRAWHDzIGQxhAxtGgygqkHUSZQbRClWLQh5RaqegO76yFWIzuGBNdDSEgUoUUBMc6COsIY2T0QC8DyULuQAwOsFHvUQFQjaYe5HB4_MFfAVcDTlq6dAih5KSDRylwA)]
 
 ## 分析
@@ -88,14 +82,14 @@ e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 霧（霧） ]
 ================================================================================
-⏱  Duration:       1:00 (60.0s), 48 measures total
+⏱  Duration:       0:30 (30.0s), 24 measures total
 🎼 Key & Tempo:    首調基準 A, != 72.0 BPM, <3/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    E4 (MIDI 64) – F#5 (MIDI 78) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  E4 in [Kiri #1 @ m.8, 0:09]
    - 最高音: F#5 in [Kiri #1 @ m.20, 0:23]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Kiri (30.0s) -> Kiri (30.0s)
+🏛  結構:      Kiri (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       E 大調（流行色彩大調，未偵測到可信轉調）
    - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
@@ -103,10 +97,9 @@ e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |
    - 核心骨幹音:  B, C#, E, A, F#
    - 調性數值:    E 大調 [相關度: 0.79, 穩定度: Moderate, 自然音純度: 92.7%]
    - 候選調性 (K-S): E 大調 (0.79), A 大調 (0.69), C# 小調 (0.67)
-   - 五度圈歷程:   +4 -> +4
+   - 五度圈歷程:   +4
    - 各段落調性細節:
      • [Kiri #1]: E 大調 (r: 0.79, 自然音純度: 92.7%, 調外音: D)
-     • [Kiri #2]: E 大調 (r: 0.79, 自然音純度: 92.7%, 調外音: D)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -133,7 +126,7 @@ e f e2 e2 | !f! f4 e2 | d2/3 e2/3 d2/3 c2 B2 | A4 z2 |
      B  : ████████████████████████  23.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E4 – F#5 (14 個半音 / 1.2 個八度, 148 個音符)
+  - Piano         : E4 – F#5 (14 個半音 / 1.2 個八度, 74 個音符)
 ================================================================================
 ```
 

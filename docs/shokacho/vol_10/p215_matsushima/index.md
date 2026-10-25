@@ -61,16 +61,12 @@ z12 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G3 A | B4 B3 B d4 d3 B |
 A8 z4 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G2 A2 | B4 A2 G2 A4 G3 =F |
 G8 z4 B3 c | d8 z4 d3 B | A8 z4 A3 B | c4 c3 c c4 B3 A |
 B8 z4 G3 B | d8 z4 B3 A | G8 z4 =F3 E | D4 G3 B A4 G3 =F |
-G12 z4 | z12 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G3 A |
-B4 B3 B d4 d3 B | A8 z4 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G2 A2 |
-B4 A2 G2 A4 G3 =F | G8 z4 B3 c | d8 z4 d3 B | A8 z4 A3 B |
-c4 c3 c c4 B3 A | B8 z4 G3 B | d8 z4 B3 A | G8 z4 =F3 E |
-D4 G3 B A4 G3 =F | G12 z4 |
+G12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](matsushima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGhKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWpSlxaWgrP5u57unmbggaE1lTQ0uJStFUwNDLjsrdVcOeyMdE3sQPpftq65unaHc8WLHw6ZeOztT1Pd2xW0AB5UUfByNT85YJGHYVnM9Y-ndRj9HTnFsNnczqMLJ9NX6qpxMWlr8WloKAA1PJi5bz3e2aBOE92NDxuaASxHjftf9zc-Li563HzysfN0xQeN8973NzyuLnvcdNaoOTux82bHzf3gsk-oOT8x82dj5tXgXU2r3_c3PC4aTVYy2qg4lVg9SD9QM5esBk7HzetAVoBlmxe9Lhp--PmtRDNQAuBhvUDZUBij5vWg61u2vq4acvj5iaIzNrHzStA7mpaDdLzfM68pzvaHjcvUXje2Q5kQWwEqul43DwbbEDT5sdN6x43LwNywL7c1QPzZePkx009jxvnPW7sfty4Dqiy63Fj_-PGOY-bJgMl9z1uXPK4cTqYAZRsXPW4sedxUyNQPUTzJqDw46amx40rHjcCPQqSXwA2qRfImQo043HjxMeNLRDNQMVAZUseN3XANa8AcoB2toGUgViN8x83TgDLAE0CmQE0YN3jxoVA0yFxAlTZ-7hxGVAGaOncx407MfU0dYJ80AQ0cDKXlj4Xl29iZp5VWH5yYo5DjUGNQjXIIAUbQzMtOzCrRsFAQRcrNASTRkAVxlARI6goiEaoMIsHKjGNR9MNMxXTFAhtrGAK5UNoY6AKmLk4zYC6mFL3gNQTMsVcB2QMhI1pCkSvCdxFML-gqyPsN4g4SIUJVARCm8D5ELuQQxB7-ADNIOAahEm4_AXyNYhGDUOY-cSEELqJNVy1XFy6dgqgZKiARCtzAQA)]
+- [主旋律 TMD 檔案](matsushima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGhKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWpSlxaWgrP5u57unmbggaE1lTQ0uJStFUwNDLjsrdVcOeyMdE3sQPpftq65unaHc8WLHw6ZeOztT1Pd2xW0AB5UUfByNT85YJGHYVnM9Y-ndRj9HTnFsNnczqMLJ9NX6qpxMWlr8WloKAA1PJi5bz3e2aBOE92NDxuaASxHjftf9zc-Li563HzysfN0xQeN8973NzyuLnvcdNaoOTux82bHzf3gsk-oOT8x82dj5tXgXU2r3_c3PC4aTVYy2qg4lVg9SD9QM5esBk7HzetAVoBlmxe9Lhp--PmtRDNQAuBhvUDZUBij5vWg61u2vq4acvj5iaIzNrHzStA7mpaDdLzfM68pzvaHjcvUXje2Q5kQWwEqul43DwbbEDT5sdN6x43LwNywL7c1QPzZePkx009jxvnPW7sfty4Dqiy63Fj_-PGOY-bJgMl9z1uXPK4cTqYAZRsXPW4sedxUyNQPUTzJqDw46amx40rHjcCPQqSXwA2qRfImQo043HjxMeNLRDNQMVAZUseN3XANa8AcoB2toGUgViN8x83TgDLAE0CmQE0YN3jxoVA0yFxAlTZ-7hxGVAGaOncx407MfU0dYJ80AQ0cDKXlj4Xl29iZp5VWH5yYo5DjUGNQjXIIAUbQzMtOzCrRsFAQRcrNASTRkAVxlARI6goiEaoMIsHKjGNR9MNMxXTFAhtrGAK5UNoY6AKmLk4zYC6mFL3gNQTMsVcB2QMhI1pCkSvCdxFML-gqyPsN4g4SIUJVARCm8D5ELuQQxB7-ADNIOAahEm4_AXyNYhGDUOY-cSEELqJNVy1XFy6dgqgZKgApJW5AA)]
 - [鋼琴伴奏 TMD 檔案](matsushima_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2d9_TzdsUNCC0poKuwsvuPc8nbHmyZ8vTpf3POzsUtLS4FG0VDI3MuOxtFdy5bEz0Tey46hSUnrauebp2x7MFC59O2fhsbc_THZsVNAKMDE11FIxMzV8uaNRReDZj7dNJPUZPd24xfDanw8jy2fSlmkpcXL6JmXlWYfnJiTkONQY1CtVcCkBgY2imZQdm1SgYAF2BDRqCSSOgCmOoiBFUFEQjVJjFA5WYxqPphpmKaQqENlYwhfIhtDFQBcxcnGZAXUype0DqCZlirgMyBsLGNAWi1wTuIphf0NUR9htEHKTCBCoCoU3gfIhdyCGIPXyAZhBwDcIkXP4C-RpEo4YhzHxiQgjdxBquWmgaDMhMzMsP8iAxFUIdAaQQdpmDxMASQHdCAw3CAFLAYMIV99jMgtCGGHw8SQjJGKjjqeIwMIHNLLhDYBaDAx6nYXAfoDkOpzqifIrpinhsQoQNI9ZhQP8D8wQuw4ywBSvcBiJDDC6AI7H6oCRWE6S0CoKG4GQUD0ImQPNBGMwHWQYRhknDeCAZoMOhCuDBQIwRIBGIL1ClEWYg60GyCKIJxiLNGJB7DKHugrsNh2MMIIGna6cACj8FJFqZCwA)]
 
 ## 分析
@@ -79,14 +75,14 @@ D4 G3 B A4 G3 =F | G12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 松島 松島 ]
 ================================================================================
-⏱  Duration:       1:04 (64.8s), 34 measures total
+⏱  Duration:       0:32 (32.4s), 17 measures total
 🎼 Key & Tempo:    首調基準 G, != 126.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Main #1 @ m.3, 0:03]
    - 最高音: D5 in [Main #1 @ m.4, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (32.4s) -> Main (32.4s)
+🏛  結構:      Main (32.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -94,10 +90,9 @@ D4 G3 B A4 G3 =F | G12 z4 |
    - 核心骨幹音:  G, A, D, B, C
    - 調性數值:    G 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 97.7%]
    - 候選調性 (K-S): G 大調 (0.86), D 大調 (0.68), B 小調 (0.52)
-   - 五度圈歷程:   +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [Main #1]: G 大調 (r: 0.86, 自然音純度: 97.7%, 調外音: F)
-     • [Main #2]: G 大調 (r: 0.86, 自然音純度: 97.7%, 調外音: F)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -124,7 +119,7 @@ D4 G3 B A4 G3 =F | G12 z4 |
      B  : ████████████████          19.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 132 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 66 個音符)
 ================================================================================
 ```
 

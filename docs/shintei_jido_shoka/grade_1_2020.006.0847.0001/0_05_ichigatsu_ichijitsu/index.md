@@ -62,15 +62,11 @@ A8 B4 A4 | F6 E2 D4 D4 | E4 E4 A6 G2 | F12 z4 |
 A8 B4 A4 | F6 E2 D4 D4 | E4 E4 F6 E2 | D12 z4 |
 d4 d4 d4 B4 | d8 A4 A4 | B4 B4 A6 G2 | F12 z4 |
 A8 B4 A4 | d4 B4 A4 G4 | F4 A4 G6 E2 | D12 z4 |
-A8 B4 A4 | F6 E2 D4 D4 | E4 E4 A6 G2 | F12 z4 |
-A8 B4 A4 | F6 E2 D4 D4 | E4 E4 F6 E2 | D12 z4 |
-d4 d4 d4 B4 | d8 A4 A4 | B4 B4 A6 G2 | F12 z4 |
-A8 B4 A4 | d4 B4 A4 G4 | F4 A4 G6 E2 | D12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ichigatsu_ichijitsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xUrcWlpKTzZ0fBsTgeInL5UQUuLS9FWwdKMy95WwYXLxkTfxA6k9cXKee_3zHra2_x03banG7qeL-sHm_hs9iag8JMdXc_nzHuxsAcs9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1QBc8Xbvj6c4tz6eseL-nAxSOesBw1AOFI5BhYPh-T6cSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UB3AT37tHXFs2ntQFc83dD7rL1TIcDAwFIvqyD9_Z6epy0NT_f0A5UpFOgpmAIFgE5XMFV4uWwa0H3A0ACZ-WLV_mcNy0Gmdfe-mDkfKPq4ufvl1O1AcQVgkCoAhZ-unQDU-7ih5-n-1c-27AbKP27o5QJpBobD44YGYDgArX_cuOJx43SgwY8b1z1d3g0WWf-4ccbjpkaIIFDlk30Q8flAQZhioK5lILOeb20CyTVNAmoDSTR1PW5c9bix98kOoGuB4h0QU57PXve0fRdYBGjEcrDg_MeNU4EaQaY8m7vv-eqdYEv2PW5cApabCFO0DIQaGl5OawAr6H7cuBIsNQXsitVgVyydC5ZrgbqiceuT3V3A1AYWnAjkggUnP26cCzTo2Qqwk0FGrwOLTwepaeqBhM0uYJA1PO2YC9MNDAyge4CpEBxCrcAIAApuAjmjqQsk2NAA8kbjdKj3GlvAKpdDg-fp7NnPpoE91gREQHuBcqtf7IG4FmjEvMdNEA39oHAGunkORAro5qnQkFsJMXfu4yag3Z1gQyfMBgv1Pm7cD1bU83Tfwqd7N4IF94NDaBLEJpBv10-B-RaYHoCCO8AeWgL27O4NYLkmWAj1vVgGiWqwuU1Ag6BhBsySMFO2AoMdrBgcZkBTKM8lUKCgpc_F5ZmckZmeWFJcCmJkZQIZVmH5yYk5DjUGNQrVIPsUbCy07MAMbDlVAZLRgYWFgoaJwtMN_c_XN-jAs5cmFg1AW0GG1QDzmC4YmgExiF2jYAzmGykYAkkQrgGyQXyIvK6CCVwNBBqA1IDTEW637eqhtdtgMjVgcVLctqOTHLcZxoGcACdAToQKgiDItRAXgyRg7icr7IC5iTphB3cniGsCD04YD1fg1XJx6dopYKZQBZyiylxcAA)]
+- [主旋律 TMD 檔案](ichigatsu_ichijitsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xUrcWlpKTzZ0fBsTgeInL5UQUuLS9FWwdKMy95WwYXLxkTfxA6k9cXKee_3zHra2_x03banG7qeL-sHm_hs9iag8JMdXc_nzHuxsAcs9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1QBc8Xbvj6c4tz6eseL-nAxSOesBw1AOFI5BhYPh-T6cSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UB3AT37tHXFs2ntQFc83dD7rL1TIcDAwFIvqyD9_Z6epy0NT_f0A5UpFOgpmAIFgE5XMFV4uWwa0H3A0ACZ-WLV_mcNy0Gmdfe-mDkfKPq4ufvl1O1AcQVgkCoAhZ-unQDU-7ih5-n-1c-27AbKP27o5QJpBobD44YGYDgArX_cuOJx43SgwY8b1z1d3g0WWf-4ccbjpkaIIFDlk30Q8flAQZhioK5lILOeb20CyTVNAmoDSTR1PW5c9bix98kOoGuB4h0QU57PXve0fRdYBGjEcrDg_MeNU4EaQaY8m7vv-eqdYEv2PW5cApabCFO0DIQaGl5OawAr6H7cuBIsNQXsitVgVyydC5ZrgbqiceuT3V3A1AYWnAjkggUnP26cCzTo2Qqwk0FGrwOLTwepaeqBhM0uYJA1PO2YC9MNDAyge4CpEBxCrcAIAApuAjmjqQsk2NAA8kbjdKj3GlvAKpdDg-fp7NnPpoE91gREQHuBcqtf7IG4FmjEvMdNEA39oHAGunkORAro5qnQkFsJMXfu4yag3Z1gQyfMBgv1Pm7cD1bU83Tfwqd7N4IF94NDaBLEJpBv10-B-RaYHoCCO8AeWgL27O4NYLkmWAj1vVgGiWqwuU1Ag6BhBsySMFO2AoMdrBgcZkBTKM8lUKCgpc_F5ZmckZmeWFJcCmJkZQIZVmH5yYk5DjUGNQrVIPsUbCy07MAMbDlVAZLRgYWFgoaJwtMN_c_XN-jAs5cmFg1AW0GG1QDzmC4YmgExiF2jYAzmGykYAkkQrgGyQXyIvK6CCVwNBBqA1IDTEW637eqhtdtgMjVgcVLctqOTHLcZxoGcACdAToQKgiDItRAXgyRg7icr7IC5iTphB3cniGsCD04YD1fg1XJx6dopYKZQBaCoMhcXAA)]
 - [鋼琴伴奏 TMD 檔案](ichigatsu_ichijitsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-HZnA4QOX3p-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0ozL3lbBhcvGRN_EjqtOQenFynnv98x62tv8dN22pxu6ni_rVwIJP5u9CSj8ZEfX8znzXizsAYu9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zg3QWU_X7ni6c8vzKSuAjjMyMDLQMzAw0zOwMDEHMgwMge5T4uLyTM7ITE8sKS4FMbIygQyrgMzEvPwgD4cagxqFai4FILCx0LIDM_S1FGzRgQLEMqCDFTRMFJ5u6H--vkFHIcDAwFIvqyBdE4sGLX2wYTUKpgq6YGgGxCB2jYIxmG-kYAgkQbgGyAbxIfK6CiZwNRBoAFLDhd9tu3po7TaYTA1YnBS37egkx22GcSAnwAmQE6GCIAhyLcTFIAmY-8kKu6ezZ1Mn7ODuBHFN4MEJ4-EKvFrcCdQHJYGaIBLo02lznrVuezaj78mudUD3P-vufbp2AiRXIoVgvEK0YSyMAro4HsgyjY9FMAioMQC6DsUoEyBlgqQNzsdvNMIcqAa4dYT4-J1DnDaszgEGuq6dAma4K-AUVebiAgA)]
 
 ## 分析
@@ -79,14 +75,14 @@ A8 B4 A4 | d4 B4 A4 G4 | F4 A4 G6 E2 | D12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 一月一日 ]
 ================================================================================
-⏱  Duration:       1:20 (80.0s), 32 measures total
+⏱  Duration:       0:40 (40.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [IchigatsuIchijitsu #1 @ m.2, 0:03]
    - 最高音: D5 in [IchigatsuIchijitsu #1 @ m.9, 0:20]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      IchigatsuIchijitsu (40.0s) -> IchigatsuIchijitsu (40.0s)
+🏛  結構:      IchigatsuIchijitsu (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -94,10 +90,9 @@ A8 B4 A4 | d4 B4 A4 G4 | F4 A4 G6 E2 | D12 z4 |
    - 核心骨幹音:  D, A, F#, B, E
    - 調性數值:    D 大調 [相關度: 0.94, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.94), A 大調 (0.69), F# 小調 (0.64)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
      • [IchigatsuIchijitsu #1]: D 大調 (r: 0.94, 自然音純度: 100.0%)
-     • [IchigatsuIchijitsu #2]: D 大調 (r: 0.94, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -124,7 +119,7 @@ A8 B4 A4 | d4 B4 A4 G4 | F4 A4 G6 E2 | D12 z4 |
      B  : ███████████               11.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 96 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 48 個音符)
 ================================================================================
 ```
 

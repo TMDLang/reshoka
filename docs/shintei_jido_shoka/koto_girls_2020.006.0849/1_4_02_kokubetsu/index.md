@@ -74,27 +74,7 @@ z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
-!mf! A,6 B,2 A,4 | F,8 z4 | A,6 B,2 A,4 | F,8 z4 |
-B,8 B,4 | A,8 A,4 | G,4 C4 C4 | D8 z4 |
-F,6 G,2 F,4 | D,8 z4 | F,6 G,2 F,4 | D,8 z4 |
-G,8 G,4 | F,8 F,4 | E,6 D,2 E,2 G,2 | F,8 z4 |
-D,8 D,4 | D,8 z4 | D,8 D,4 | D,8 z4 |
-D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
 [V:V2]
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-!mf! A,6 B,2 A,4 | F,8 z4 | A,6 B,2 A,4 | F,8 z4 |
-B,8 B,4 | A,8 A,4 | G,4 C4 C4 | D8 z4 |
-F,6 G,2 F,4 | D,8 z4 | F,6 G,2 F,4 | D,8 z4 |
-G,8 G,4 | F,8 F,4 | E,6 D,2 E,2 G,2 | F,8 z4 |
-D,8 D,4 | D,8 z4 | D,8 D,4 | D,8 z4 |
-D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
 z12 | z12 | z12 | z12 |
 !mf! A,6 B,2 A,4 | F,8 z4 | A,6 B,2 A,4 | F,8 z4 |
@@ -116,21 +96,11 @@ F,6 G,2 F,4 | D,8 z4 | F,6 G,2 F,4 | D,8 z4 |
 G,8 G,4 | F,8 F,4 | E,6 D,2 E,2 G,2 | F,8 z4 |
 D,8 D,4 | D,8 z4 | D,8 D,4 | D,8 z4 |
 D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-!mf! A,6 B,2 A,4 | F,8 z4 | A,6 B,2 A,4 | F,8 z4 |
-B,8 B,4 | A,8 A,4 | G,4 C4 C4 | D8 z4 |
-F,6 G,2 F,4 | D,8 z4 | F,6 G,2 F,4 | D,8 z4 |
-G,8 G,4 | F,8 F,4 | E,6 D,2 E,2 G,2 | F,8 z4 |
-D,8 D,4 | D,8 z4 | D,8 D,4 | D,8 z4 |
-D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kokubetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdmpqbDxHW0lJ4OrHracdSBS0tLkVbBUMDAy57WwUXLhtjfRM7kK4XK-e93zPr2cKJz6dseDZj6ctFK8CGPZu9CSjspqcQnJmTnJFaBBZ82r7rxcypQPH3ezpAyudOfLZq0dN1s55O2fhsbc_L2W3v93SCFb5o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu2AaS8ddLz1Ushmh43dL9cPeP52s7nyyc-Xbr56doJz6esABoPCmE9YAjrgUIYbCyXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AxwDD4mnrimfT2oEOeLqh91l7p0KAgbmhXlZB-vs9PUDFLxc0KhToKRibAblAZz_Z0fBizyqgR56vWaNgpPBy2TSgS4HBAzL9xar9zxqWg8zt7n0xcz5Q9HFz98up24HiIO8pPO0F2jsDLNP5uKERGB0KQJVAqSc7Ol82r4CYC7K1efPj5k0v9u153LzwcXObwqOZK22BsQjUBfYDOEZerNgNNAt_vHCBlAMdDNa1pP9x47oneyY-btz_uKHh6b7Wx40LHzd2PG6c_mR317PpSx83zgOpezajD8gBGvq4selx40yQSxvXP-sAaut5um4bSLypBez8hucd256tB7keZFDTXKAyIAlW3_K4sftx42qwtf3dj5uAKqY-bgJKbABqeza19WXzdrC2rY-bgOqmPm4Exn7ns552oFseNy6DuHpXD9g1a3cA1TxdA9Q7HeTqjqUgLU1znzVtAoqAVDyfDfRF7-PGNU8n9D5bBwwQoLmrHjdOedzUBXHm48bZj5sageaC_NHZ_XwL0E9guxuBkQI0F4czwe4CmgsMtWVP54CSJ9BfYA37gCaC9FCeIqFAQUufi8s3MTPPKiCxqMTQocagRqEaZIOCjYWWHZgBzAfA9AZKewt7FDQ89TRBekASQJW5abUKpvEKukBoFg9h1SgYQwR0FQzAXALyUKOA0hBBMAOuSxemyQREmcOJGgVDFEOQXbqrB-JSFKdCLQUaA2YB9aO6koA81BSwK6DqULwC1WQE4QP1AllANRieRQnRTqg7URwKtxfMwHAnfmlCZkD5SIGL1RS4K9d2AjMrJEyBhQakqHi-dcKzufMVNAzNFJ5u6H--vgHJ8SDtMEgCbwjrrkXKPkYONdoWhPMPqLTfve1l4yYFC2gIvmzY9LQVWPB1jmatkZe1UDIVLEUMeJ5CTtfGwHRtaEZKwoaXDaMpe8SkbGCK0bVTACUaBSRamYsLAA)]
+- [主旋律 TMD 檔案](kokubetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdmpqbDxHW0lJ4OrHracdSBS0tLkVbBUMDAy57WwUXLhtjfRM7kK4XK-e93zPr2cKJz6dseDZj6ctFK8CGPZu9CSjspqcQnJmTnJFaBBZ82r7rxcypQPH3ezpAyudOfLZq0dN1s55O2fhsbc_L2W3v93SCFb5o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu2AaS8ddLz1Ushmh43dL9cPeP52s7nyyc-Xbr56doJz6esABoPCmE9YAjrgUIYbCyXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AxwDD4mnrimfT2oEOeLqh91l7p0KAgbmhXlZB-vs9PUDFLxc0KhToKRibAblAZz_Z0fBizyqgR56vWaNgpPBy2TSgS4HBAzL9xar9zxqWg8zt7n0xcz5Q9HFz98up24HiIO8pPO0F2jsDLNP5uKERGB0KQJVAqSc7Ol82r4CYC7K1efPj5k0v9u153LzwcXObwqOZK22BsQjUBfYDOEZerNgNNAt_vHCBlAMdDNa1pP9x47oneyY-btz_uKHh6b7Wx40LHzd2PG6c_mR317PpSx83zgOpezajD8gBGvq4selx40yQSxvXP-sAaut5um4bSLypBez8hucd256tB7keZFDTXKAyIAlW3_K4sftx42qwtf3dj5uAKqY-bgJKbABqeza19WXzdrC2rY-bgOqmPm4Exn7ns552oFseNy6DuHpXD9g1a3cA1TxdA9Q7HeTqjqUgLU1znzVtAoqAVDyfDfRF7-PGNU8n9D5bBwwQoLmrHjdOedzUBXHm48bZj5sageaC_NHZ_XwL0E9guxuBkQI0F4czwe4CmgsMtWVP54CSJ9BfYA37gCaC9FCeIqFAQUufi8s3MTPPKiCxqMTQocagRqEaZIOCjYWWHZgBzAfA9AZKewt7FDQ89TRBekASQJW5abUKpvEKukBoFg9h1SgYQwR0FQzAXALyUKOA0hBBMAOuSxemyQREmcOJGgVDFEOQXbqrB-JSFKdCLQUaA2YB9aO6koA81BSwK6DqULwC1WQE4QP1AllANRieRQnRTqg7URwKtxfMwHAnfmlCZkD5SIGL1RS4K9d2AjMrJEyBhQakqHi-dcKzufMVNAzNFJ5u6H--vgHJ8SDtMEgCbwjrrkXKPkYONdoWhPMPqLTfve1l4yYFC2gIvmzY9LQVWPB1jmatkZe1UDIVLEUMeJ5CTtfGwHRtaEZKwoaXDaMpe8SkbGCK0bVTACUaBSCtzMUFAA)]
 - [鋼琴伴奏 TMD 檔案](kokubetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6setpx9L3ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKhgQGXva2CC5eNsb6JHVedgtKLlfPe75n1bOHE51M2PJux9OWiFUog4WezNwGF3fQUgjNzkjNSi8CCT9t3vZg5FSgOtAKkfO7EZ6sWPV036-mUjc_W9ryc3Qa0CKzwRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA0g5a2Tnq9eCtH0uKH75eoZz9d2Pl8-8enSzU_XTng-ZQXQeCMDIwM9AwMzPQMLE0uwsVy-iZl5VgGJRSWGDjUGNQrVXApAYGOhZQdmAAVy02oVTOMVdIHQLB7CqlEwhgjoKhiAuQTkoUYBpSGCYAZcly5MkwmIMocTNQqGWAyBmgxUC2YBFaE6hYA81BSwVVB1KO6FajKC8IF6gSygGhw-gpsNZmC4Bb80ITOgfKRQwmMKiA2DJPCGsO5apLRr5FCjbTGaeEcTL7kJyBiYgAzNRlPQ0EtB8FjMTMzL9_FArsRM4LEI1BNtGAvGcI4BbnFEKEWbAGWBGE0pyC3RpvFALojAonXUQlpYCE4UUBbULjQh7GrBLEj6AZFIyoGpR9dOAZSAFJBoZS4uAA)]
 
 ## 分析
@@ -139,14 +109,14 @@ D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 告別 ]
 ================================================================================
-⏱  Duration:       2:24 (144.0s), 80 measures total
+⏱  Duration:       1:12 (72.0s), 40 measures total
 🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A2 (MIDI 45) – D4 (MIDI 62) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  A2 in [Main #1 @ m.23, 0:40]
    - 最高音: D4 in [Main #1 @ m.8, 0:12]
    - 適合: tenor, baritone, bass
-🏛  結構:      Main (72.0s) -> Main (72.0s)
+🏛  結構:      Main (72.0s)
 ⚡ 編曲密度:        Peak 3 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -154,10 +124,9 @@ D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
    - 核心骨幹音:  D, F#, A, G, B
    - 調性數值:    D 大調 [相關度: 0.94, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.94), B 小調 (0.62), F# 小調 (0.56)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
      • [Main #1]: D 大調 (r: 0.94, 自然音純度: 100.0%)
-     • [Main #2]: D 大調 (r: 0.94, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -184,9 +153,9 @@ D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
      B  : ████                       6.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Part1         : A2 – D4 (17 個半音 / 1.4 個八度, 92 個音符)
-  - Part2         : A2 – D4 (17 個半音 / 1.4 個八度, 92 個音符)
-  - Part3         : A2 – D4 (17 個半音 / 1.4 個八度, 92 個音符)
+  - Part1         : A2 – D4 (17 個半音 / 1.4 個八度, 46 個音符)
+  - Part2         : A2 – D4 (17 個半音 / 1.4 個八度, 46 個音符)
+  - Part3         : A2 – D4 (17 個半音 / 1.4 個八度, 46 個音符)
 ================================================================================
 ```
 

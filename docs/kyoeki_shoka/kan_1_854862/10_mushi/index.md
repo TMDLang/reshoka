@@ -58,17 +58,12 @@ V:V1 name="Piano" snm="Pia"
 G3 B d2 d2 | e2 d c B4 | G3 A B3 c | B3 A G2 z2 |
 D2 E D G3 A | B2 B A B3 c | d3 d e d c B | A6 z2 |
 D2 E D G3 A | B3 c d4 | B2 c B A3 A | G6 z2 |
-!p! [Q:1/8=66] d d d d d d d2 | g4 g4 | g6 z2 | [Q:1/8=168] !f! G3 B d2 d2 |
-e2 d c B4 | G3 A B3 c | B4 A2 z2 | G3 B d2 d2 |
-e2 d c B4 | G3 A B3 c | B3 A G2 z2 | D2 E D G3 A |
-B2 B A B3 c | d3 d e d c B | A6 z2 | D2 E D G3 A |
-B3 c d4 | B2 c B A3 A | G6 z2 | !p! [Q:1/8=66] d d d d d d d2 |
-g4 g4 | g6 z2 |
+!p! [Q:1/8=66] d d d d d d d2 | g4 g4 | g6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeMtzA1sTAzQkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgi6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJwOtLkstykzLTE1BcldqUTHI1VArSooS84qTizILQF5BqEpPzStKtUrOyMxJKUrNiy_Oz0tHSKblF-VaFZcU5RdkZCYjhEsyUoEeTszLzE3MQRctTk0EmlGMLlySmZsan58Wn5JYqcSlpaXwYuZqBS0tLkVbBQsTLntbBXcuGxN9CzuQrqftu17MnPp-z6ynrRufz-56OrXt-ZJ9z1Y0PZ254umu6Y8bup5O2fhsbc-zqTOfL5_4bPYOhedT5j_dN-n5lBUKT7fvfrKj4XFD9_M1a57s6nna2_h-7zwIAyj-ckHj-z0dQCkg99nsTe_3dIJd6efio-CSmZ5Zkpij4AyP7GKFAE8XBUh0AnVllJQUFFvp66fk6OUBcXq-XlaBfkFmij5MReezvuZn_f0KoEgEygEDkUtfS8GWWoBLQUHhad98oHdfbG5_saLrRUc7MAxerJz3tHXFs2ntQBeCvIFwMqXB1IPmHaAHgTECcsWLVfufNSwH2d_d-2LmfKDo48YVQMGnraufdrQ9bu57Ons2UOrp2glAR7krPF2yHCipAIxcBaAo2Jiel9O6Xy5Y-2zFzMcNPc9aZj9uXvm4afvjpvUKGo9mrrQ1NLPQfNwAVNrxrKcT09Sn_V3P5qx-tm4rUP-LFTNATm3vfN60S-HRzFUgvSCBrhlPJ3QAdQC1vpy_-fmaZUDJlbYWJmDrZ0NSwJMdzU839D9f3_BiSfvzHRufb5_1dF8PxE0FChqPm1Y9btoLdJMmyFGrbM3MYG7CbraxMdBscPCs2A121Sxo2K7d8WzOfBB7Ryc4zXUAI-xp73bkVPi4oQkUi7M3gVy1cy7EVUBvAG0AMoBxCGQDjQKyn07oAUbQs-ndT_d1A3XBw1EhDagEYuTT1rUQA4CBBAwVuOfgChD-3rr9xd5OhQKFJzuWPZuy71nromcrFj7Zvf_F_E0vN29BMnD144ZGZKcBvQLMoMBwety86nHzZmC4PNnZ_XL1DGBwKLibKryc2fJ097aXU7cDwwGcQDrSUotyE0sSIV6FhAvIyNa1EIOBgQm1AeY0oNuf9m54NqfzWf_sZxsWww0KQxixA8hAaHi5bBrQUKADgK4yjNdTMIqPBzoLYsbTOZOf7Z4IDAKITlCKAusBm9IATFTPNyx8sXbOsz39QPVPd00Fqnyydw7QIGM9cJQDw34KUAyoBBieQM-93A3MdKBUCY1-J2Cy6gCmQaimeIguhFeh_ulf-rR_MzBvQbNt74bnne1PG9ufTugFh2Tj4-a9j5vXPm5eAvQXggtiQwIZiLbCyCaIw4BOerKj-2UrMFtMB7l952aYgU1coLQIzuSNINazOR1P27Y8bux43NT_uHH-4yZg8ml8vrz7ceO6l-19jxtBUQxS97ip43HjzMeNPY-bOl-s2vC4aRLIBY37HjcuedzU8Lhx-uOmFpjSxq2Pm7oeNy4AanjZsQVYoAMlXjTOe9zYC1LdOPFx4zKo0ic7gfqASvuB9r5cPgloKdhUoEuApgIFwQYD3QwylcSAgPgTnJ5ALKCXXi5a8bhxKtjQfpCLdq0GeQ_kcqCVG-COXw8KhsYuoLtALm8ChihQuuVx41yQ50GyQBdBlQI9s_RxEzBIgC6f-rhxNrC8e9wICkCQV4H-atgECjOY6smPG3c_bgKGATBYgap3wMxeBQ6Y6WA9oMxLlm-BeiivS6BAQUufi8u3tDgj0yogMzEv36HGoEahGmSFgo2hmZYdmFUNrqFrIew0CA2s1x43twDTylog3grEKxRqgCLrgaz9QHoPEK8GiTQtgvBA6pr7wGr6gLgbzFoBFN8JxGuA7JUgp4BMrlEwVNAFQmMFUyAJwjUKZmCWCVAMJAMSgagxgoqYAEVgckZAbICkBskcuMvBbgTZCnLnJrBb5kF5QD81LwC7fDtUZAlYfioQr4KKNIDdDVIDcv0uqOgCsB64L4h3sxFYBuJm03ggZRYPomHKIcqMkTUiPAIKflDQgpwNCuaNYBrk4DZ4YEOdDaxbYZGyGephcISAxaH6QREI9AjcE6BgA3nDDOqVGnDwwiABJ4OcCjEApAwkAjICYgBQDcIT2xVqQG5thGKQf5ag8EGyoKwAo-B8tDSD7KzqglpwyjU2rgW6AhmC4yIOqhjOQBKDG8JVy8Wla6cAziAKyAxlLgA)]
+- [主旋律 TMD 檔案](mushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeMtzA1sTAzQkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgi6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJwOtLkstykzLTE1BcldqUTHI1VArSooS84qTizILQF5BqEpPzStKtUrOyMxJKUrNiy_Oz0tHSKblF-VaFZcU5RdkZCYjhEsyUoEeTszLzE3MQRctTk0EmlGMLlySmZsan58Wn5JYqcSlpaXwYuZqBS0tLkVbBQsTLntbBXcuGxN9CzuQrqftu17MnPp-z6ynrRufz-56OrXt-ZJ9z1Y0PZ254umu6Y8bup5O2fhsbc-zqTOfL5_4bPYOhedT5j_dN-n5lBUKT7fvfrKj4XFD9_M1a57s6nna2_h-7zwIAyj-ckHj-z0dQCkg99nsTe_3dIJd6efio-CSmZ5Zkpij4AyP7GKFAE8XBUh0AnVllJQUFFvp66fk6OUBcXq-XlaBfkFmij5MReezvuZn_f0KoEgEygEDkUtfS8GWWoBLQUHhad98oHdfbG5_saLrRUc7MAxerJz3tHXFs2ntQBeCvIFwMqXB1IPmHaAHgTECcsWLVfufNSwH2d_d-2LmfKDo48YVQMGnraufdrQ9bu57Ons2UOrp2glAR7krPF2yHCipAIxcBaAo2Jiel9O6Xy5Y-2zFzMcNPc9aZj9uXvm4afvjpvUKGo9mrrQ1NLPQfNwAVNrxrKcT09Sn_V3P5qx-tm4rUP-LFTNATm3vfN60S-HRzFUgvSCBrhlPJ3QAdQC1vpy_-fmaZUDJlbYWJmDrZ0NSwJMdzU839D9f3_BiSfvzHRufb5_1dF8PxE0FChqPm1Y9btoLdJMmyFGrbM3MYG7CbraxMdBscPCs2A121Sxo2K7d8WzOfBB7Ryc4zXUAI-xp73bkVPi4oQkUi7M3gVy1cy7EVUBvAG0AMoBxCGQDjQKyn07oAUbQs-ndT_d1A3XBw1EhDagEYuTT1rUQA4CBBAwVuOfgChD-3rr9xd5OhQKFJzuWPZuy71nromcrFj7Zvf_F_E0vN29BMnD144ZGZKcBvQLMoMBwety86nHzZmC4PNnZ_XL1DGBwKLibKryc2fJ097aXU7cDwwGcQDrSUotyE0sSIV6FhAvIyNa1EIOBgQm1AeY0oNuf9m54NqfzWf_sZxsWww0KQxixA8hAaHi5bBrQUKADgK4yjNdTMIqPBzoLYsbTOZOf7Z4IDAKITlCKAusBm9IATFTPNyx8sXbOsz39QPVPd00Fqnyydw7QIGM9cJQDw34KUAyoBBieQM-93A3MdKBUCY1-J2Cy6gCmQaimeIguhFeh_ulf-rR_MzBvQbNt74bnne1PG9ufTugFh2Tj4-a9j5vXPm5eAvQXggtiQwIZiLbCyCaIw4BOerKj-2UrMFtMB7l952aYgU1coLQIzuSNINazOR1P27Y8bux43NT_uHH-4yZg8ml8vrz7ceO6l-19jxtBUQxS97ip43HjzMeNPY-bOl-s2vC4aRLIBY37HjcuedzU8Lhx-uOmFpjSxq2Pm7oeNy4AanjZsQVYoAMlXjTOe9zYC1LdOPFx4zKo0ic7gfqASvuB9r5cPgloKdhUoEuApgIFwQYD3QwylcSAgPgTnJ5ALKCXXi5a8bhxKtjQfpCLdq0GeQ_kcqCVG-COXw8KhsYuoLtALm8ChihQuuVx41yQ50GyQBdBlQI9s_RxEzBIgC6f-rhxNrC8e9wICkCQV4H-atgECjOY6smPG3c_bgKGATBYgap3wMxeBQ6Y6WA9oMxLlm-BeiivS6BAQUufi8u3tDgj0yogMzEv36HGoEahGmSFgo2hmZYdmFUNrqFrIew0CA2s1x43twDTylog3grEKxRqgCLrgaz9QHoPEK8GiTQtgvBA6pr7wGr6gLgbzFoBFN8JxGuA7JUgp4BMrlEwVNAFQmMFUyAJwjUKZmCWCVAMJAMSgagxgoqYAEVgckZAbICkBskcuMvBbgTZCnLnJrBb5kF5QD81LwC7fDtUZAlYfioQr4KKNIDdDVIDcv0uqOgCsB64L4h3sxFYBuJm03ggZRYPomHKIcqMkTUiPAIKflDQgpwNCuaNYBrk4DZ4YEOdDaxbYZGyGephcISAxaH6QREI9AjcE6BgA3nDDOqVGnDwwiABJ4OcCjEApAwkAjICYgBQDcIT2xVqQG5thGKQf5ag8EGyoKwAo-B8tDSD7KzqglpwyjU2rgW6AhmC4yIOqhjOQBKDG8JVy8Wla6cAziAKQIYyFwA)]
 
 ## 分析
 
@@ -76,14 +71,14 @@ g4 g4 | g6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 虫 ]
 ================================================================================
-⏱  Duration:       1:07 (67.5s), 38 measures total
+⏱  Duration:       0:33 (33.8s), 19 measures total
 🎼 Key & Tempo:    首調基準 G, != 84.0 BPM, <4/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – G5 (MIDI 79) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  D4 in [Mushi #1 @ m.9, 0:11]
    - 最高音: G5 in [Mushi #1 @ m.18, 0:24]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Mushi (33.8s) -> Mushi (33.8s)
+🏛  結構:      Mushi (33.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -91,10 +86,9 @@ g4 g4 | g6 z2 |
    - 核心骨幹音:  G, B, D, A, C
    - 調性數值:    G 大調 [相關度: 0.91, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.91), B 小調 (0.69), D 大調 (0.64)
-   - 五度圈歷程:   +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [Mushi #1]: G 大調 (r: 0.91, 自然音純度: 100.0%)
-     • [Mushi #2]: G 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -121,7 +115,7 @@ g4 g4 | g6 z2 |
      B  : ██████████████████████    25.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – G5 (17 個半音 / 1.4 個八度, 140 個音符)
+  - Piano         : D4 – G5 (17 個半音 / 1.4 個八度, 70 個音符)
 ================================================================================
 ```
 

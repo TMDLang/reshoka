@@ -66,17 +66,11 @@ V:V1 name="Piano" snm="Pia"
 c4 A4 | c4 A4 | F4 G4 | A6 z2 |
 c3 d c2 A2 | c3 d c2 A2 | c3 d c2 A2 | G6 z2 |
 F3 G A2 d2 | c4 A4 | G4 A4 | F6 z2 |
-c4 A4 | c4 A4 | F4 G4 | A6 z2 |
-c3 d c2 A2 | c3 d c2 A2 | c3 d c2 A2 | G6 z2 |
-F3 G A2 d2 | c4 A4 | G4 A4 | F6 z2 |
-c4 A4 | c4 A4 | F4 G4 | A6 z2 |
-c3 d c2 A2 | c3 d c2 A2 | c3 d c2 A2 | G6 z2 |
-F3 G A2 d2 | c4 A4 | G4 A4 | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5uedy09v2ejmdzOp7sWvd-T6eClhaXoq2ChQWXva2CG5eNkb6JHUj_i5Xz3u-Z9Wxa-8vmFc_nNILNfDZ7E4bYi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAuggUEjqAUNSDxSSQIaBIdBxSlz6WgpAW5_PXvdi1apnM_q4FBQUnuxYC3TCi-WLX7Z3g5zT3_90_eqnS-Y8X7kLKPV8VgvMbz1Pdi992t8F5D5t7XzeuvxFQ8PTJcufztkAUjNz_YvOTY8bmri09LmAtnABncP1uLn9cdP-xw0NSAxQeD1uWgOUm_e4efXjpiUIBkgayN4MFwEqmgPm9z1uXvK4adnj5i6EAVxPdvVwPW4Cqlv_uHkN1HgQe9Hj5m6gBJAFVAfUBmNAjW-GiwAV7XzcPB_FeLgBQA90gh0JNJgGrgeFkm9iZp5VQGZiXr5DjUGNQjUwMmwMzbTsgHSNgqmCLhgaQ2lsIoZQlhFcBCYHggYgESSzzMA0SAVxIjBTUc2C2GkEVmOGw10wnZguRZhVy8Wla6cACgIFLLQyFwA)]
+- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5uedy09v2ejmdzOp7sWvd-T6eClhaXoq2ChQWXva2CG5eNkb6JHUj_i5Xz3u-Z9Wxa-8vmFc_nNILNfDZ7E4bYi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAuggUEjqAUNSDxSSQIaBIdBxSlz6WgpAW5_PXvdi1apnM_q4FBQUnuxYC3TCi-WLX7Z3g5zT3_90_eqnS-Y8X7kLKPV8VgvMbz1Pdi992t8F5D5t7XzeuvxFQ8PTJcufztkAUjNz_YvOTY8bmri09LmAtnABncP1uLn9cdP-xw0NSAxQeD1uWgOUm_e4efXjpiUIBkgayN4MFwEqmgPm9z1uXvK4adnj5i6EAVxPdvVwPW4Cqlv_uHkN1HgQe9Hj5m6gBJAFVAfUBmNAjW-GiwAV7XzcPB_FeLgBQA90gh0JNJgGrgeFkm9iZp5VQGZiXr5DjUGNQjUwMmwMzbTsgHSNgqmCLhgaQ2lsIoZQlhFcBCYHggYgESSzzMA0SAVxIjBTUc2C2GkEVmOGw10wnZguRZhVy8Wla6cACgIFIK3MBQA)]
 - [鋼琴伴奏 TMD 檔案](tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae37PR2Pm6c8blr0uLnvyZ4tT5f2P9k94_2eTgUtLS5FWwULCy57WwU3LhsjfRM7rjoFpRcr573fM-vZtPaXzSuez2lUAok9m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdJyRgZGBnoGBmZ6BhYk5kGFgCHScEheXb2JmnlVAZmJefpCHQ41BjUI1l4KCjaGZlh2QrlEwVdAFQ2MojU3EEMoygovA5EDQACSCZJYZmAapIE4EZiqqWRA7jcBqzHC4C6YT06UIs2qRQ8AHKQQsoAEQbRgLVAghcfBM45G5IJMhbiRCK4wHMQJDqwkexVitBXpH104B5CMFLLQyFwA)]
 
 ## 分析
@@ -85,14 +79,14 @@ F3 G A2 d2 | c4 A4 | G4 A4 | F6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ ツキ（月亮） ]
 ================================================================================
-⏱  Duration:       0:49 (49.1s), 36 measures total
+⏱  Duration:       0:16 (16.4s), 12 measures total
 🎼 Key & Tempo:    首調基準 F, != 88.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
    - 最低音:  F4 in [Main #1 @ m.3, 0:02]
    - 最高音: D5 in [Main #1 @ m.5, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (16.4s) -> Main (16.4s) -> Main (16.4s)
+🏛  結構:      Main (16.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
@@ -100,11 +94,9 @@ F3 G A2 d2 | c4 A4 | G4 A4 | F6 z2 |
    - 核心骨幹音:  A, C, G, F, D
    - 調性數值:    A 小調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): A 小調 (0.82), C 大調 (0.72), F 大調 (0.69)
-   - 五度圈歷程:   +3 -> +3 -> +3
+   - 五度圈歷程:   +3
    - 各段落調性細節:
      • [Main #1]: A 小調 (r: 0.82, 自然音純度: 100.0%)
-     • [Main #2]: A 小調 (r: 0.82, 自然音純度: 100.0%)
-     • [Main #3]: A 小調 (r: 0.82, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -131,7 +123,7 @@ F3 G A2 d2 | c4 A4 | G4 A4 | F6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 87 個音符)
+  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 29 個音符)
 ================================================================================
 ```
 

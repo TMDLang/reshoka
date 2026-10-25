@@ -62,16 +62,11 @@ V:V1 name="Piano" snm="Pia"
 !mp! D4 E2 E2 | D2 E2 F2 A2 | B2 B2 B2 B2 | B6 z2 |
 !mp! e4 e2 e2 | A2 B2 c2 c2 | E2 A2 B2 c2 | A6 z2 |
 [Q:1/4=58] A2 B2 c2 c2 | B2 A2 F2 E2 | A2 F2 E2 D2 | E6 z2 |
-[Q:1/4=44] !mp! E2 A2 B2 c2 | B2 B2 A4 | E2 A2 B2 c2 | B6 z2 |
-!mf! e2 e2 c2 e2 | B2 B2 A4 | B2 B2 B2 B2 | E6 z2 |
-!mp! D4 E2 E2 | D2 E2 F2 A2 | B2 B2 B2 B2 | B6 z2 |
-!mp! e4 e2 e2 | A2 B2 c2 c2 | E2 A2 B2 c2 | A6 z2 |
-[Q:1/4=58] A2 B2 c2 c2 | B2 A2 F2 E2 | A2 F2 E2 D2 | E6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh_MSS0qLUtFFSzJzU-Pz0-JTEivRpdLyc7Jz8kFatLQUns3pUNDS4lK0VTAx4bK3VXDmsjHSN7EDaXnavuvFzKnv98x62rrx-eyup1Pbni_Z92xF09OZK57umv64oevplI3P1vY8mzrz-fKJz2bvUACynu5Y_XzKCoWn23c_2dXzuKH7-Zo1QMbT3kYg-X7vPCh7R-fLBY3v93QAZcHchmezN73f0wl2qJ-Lj4JLZnpmSWKOgjM8zosVAjxdFCCxCtSYUVJSUGylr5-So5cHxOn5elkF-gWZKfowFZ3P-pqf9fcrgOISKAcMSy59LQVbagEuBQWFp33zgZ5-sbn9xYquFx3twJB4sXLe09YVz6a1A10I8gbCyVQIrB40HwH9CIwakENerNr_rGE5yAndvS9mzgeKPm7uBwo-nT37aUfb4-Y-oEFAqadrJwDd5azwdMlyoOT7Pf2OCk83gNS9bN77fH3Dy_mbX87qA9oDjH4FoHKw-T2PZq6ytbAA6nvWP_v5uukQI4FKn69ZpvBo5kpbExOIuscNPc92rHw6qedxc_eTHVMeN7c8nTP52e6JQK6CY15KIjDfKDgDycSkzJxUvccNQONng2J_9uxn67Y-WzETqB9oCcg2Q0MzoJG5qXn5Crn5xcX5egrP9ux4tmbhs-krHzetB-vE5RhToEM7wSGyYveLFTNAKXfauheNm142rwA6EagW6E1gHACDA8gAGvNi7ZwnO7pftgKDZjpQ8MVCoBtmAVPj-z1zn3e2P21sfzqh93EDODb2zH26czNEBGjH44YmUETP3gRxPzB_QOIKGJ4Qk0ExuaMBohekYELL09a1MNkesCzQkEaodqAs0CtQWbDh4KT1ZPfSp62r4V4EhtLzJbteNsx_umsZNKxAMQMyDWIOMAxgwQcUfrJj2bNpe57tmfJ0af-zzSuetQCjetWzGX3AkEY29XHjeuRwfLK393HjuhcNzY8bdzxumgR0wuPGZcBAf7lg-rPWRcDAAyZjUFqc2vpszppnq6aA3IikHRIxz5t2KYALFAVgogSxTC2AnoL4GhTdc1YD_aJQkJ-cr1CUWaKnAHQq0JwXS9qf79j4fPusp70NL2dNQU4gEK2QEAJpBekCmvhk1xSgcmAsAq15vmEhkPGyYQLQIc8W7Hi6oRcYAS_atwCVQTPr09YdyKEByiYNwFy7BOhfYEyCwmH98sdNvU_3bAQmGbjfgR5_3NT9EijSCNTSQWrQgUqiltmPmzofN04HmgDKGo1Lnraser6v73HjamB4Pm7cClT8Ylnj40ZgJmgCOgk5nB43rgLajhRUQDufr-iFOAfk8JZ-uCZIUIGiF1SATHm6ZA4w3h43dTxu6oLkIEjSAdoGzkqNQJUvlnWDordx_ePGtUB7QOqBfmoDkpuBWh43tMK1PN8O1tK47Ok-UI4Cuv351iagycBE_LhxKlAcUnY9X70A5CqQt6DmPF3eDda4DmpUI9BPQEuBIdQF1AVWuQlY0YB837gTFEgo8TV7EyymgIkWGGI9L5e0Al0DDMPHjS0g12wEcoHGrQAZ2tD4bGETyPo5QC7IBSBrMNXMmAIJlBcrGoB2g42aD1EJMhmkEliaAV0M9B7YGxs3As0EO3rSs63bwWygLUDTloPVQEwGOmbr48bJIHbTpJdzFz2fuRcUQyCLgIKgQEGoB0VYL8KTL1bNe9neDfUkPOoau4A187MVizGjCFgWgRMNULz3-eqlL9YsAGYVUPkL9vyLro0wNUAFS8ApD-4-YPHZ-Kxj4tM5QClgWgeqB4mDwwvoRGA0toESXEMT0GqgUU92rAXF8xRY6IBdD7Klqek5MFaBKXFL64uJQPNngh0DjOfOp62d4IgFBtw-cJSCvQ2yCKgLqBJoPiK8YIkXqBiYlmeDBEEJcMXTxWuAlj7dv-Dppomw1LQarAwYW0BHAk0AOgkYzSBHIrsH5PjG3WDr9j9uXAR2GFDXhsdNoLQCdhjQVVNBrgU6BhgxYOvAbgMm5CYuUJxAim1w7CAnOGC4TQBlYERgQhX1A5PPjie7gAl4HVAIGJdga4CCwIIWrAIWltOeTwW6BaQInH7WvZwFFAdFCNjW3V1AZ79o3Py4qQ0cy42QZPdy5gZohsCaOEA2oqcPcOICmwlqU0CcAE8Z4KT9dBKk9MDwCbhuhPoELLfpadNmUOST4BNQ9gJGTxMw_QETDTA7N0IyzYvtCxE-QUo4sPhpaHzeCkwpSFEEzyaUN9egQEFLn4srpLg0O9PRKiAzMS_focagRqEaZIeCjYWWHZhRDW7_1kLY4FoMys4tgDCA7cjHTcuAeCsQrwPiNQo1Co-bFwFxIxBvAvNagOLrgXQHkF4CFpkKIoFsUIvocdN2ID0DLD4Zoqq5D-Q6kPk1CsYKZgrmCoZxQKY5EJop6KIL6gKhAZBVnZtWq2AcB0JAGSCJpAPh2NVAvB9oxSqww0DOWAd35Fqw1SCx3VCVICdCREBe6oN6ZB5YRz_CkSB7QBDkMoRzCmoVjIAcYyCsAbKMFUyAjkFWDHc7wnkgC-eBQxBk6V5omABDuHk12FKYPMgpqxU04JWhJlj9JoSTwNYDAwFoPzQwoEEGDjWkAASFD8QRtdAE4UR8gjC1QEoHOx43LwU6bQ-QuQXsVJCTwOEMDlpQGoEG3XwgbgMH4ePmXgUNuAeAnoR7ANm5oFg0AQcjhDZCDmmQu3XtFCBpWQHGcoKz0MSUuQA)]
+- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh_MSS0qLUtFFSzJzU-Pz0-JTEivRpdLyc7Jz8kFatLQUns3pUNDS4lK0VTAx4bK3VXDmsjHSN7EDaXnavuvFzKnv98x62rrx-eyup1Pbni_Z92xF09OZK57umv64oevplI3P1vY8mzrz-fKJz2bvUACynu5Y_XzKCoWn23c_2dXzuKH7-Zo1QMbT3kYg-X7vPCh7R-fLBY3v93QAZcHchmezN73f0wl2qJ-Lj4JLZnpmSWKOgjM8zosVAjxdFCCxCtSYUVJSUGylr5-So5cHxOn5elkF-gWZKfowFZ3P-pqf9fcrgOISKAcMSy59LQVbagEuBQWFp33zgZ5-sbn9xYquFx3twJB4sXLe09YVz6a1A10I8gbCyVQIrB40HwH9CIwakENerNr_rGE5yAndvS9mzgeKPm7uBwo-nT37aUfb4-Y-oEFAqadrJwDd5azwdMlyoOT7Pf2OCk83gNS9bN77fH3Dy_mbX87qA9oDjH4FoHKw-T2PZq6ytbAA6nvWP_v5uukQI4FKn69ZpvBo5kpbExOIuscNPc92rHw6qedxc_eTHVMeN7c8nTP52e6JQK6CY15KIjDfKDgDycSkzJxUvccNQONng2J_9uxn67Y-WzETqB9oCcg2Q0MzoJG5qXn5Crn5xcX5egrP9ux4tmbhs-krHzetB-vE5RhToEM7wSGyYveLFTNAKXfauheNm142rwA6EagW6E1gHACDA8gAGvNi7ZwnO7pftgKDZjpQ8MVCoBtmAVPj-z1zn3e2P21sfzqh93EDODb2zH26czNEBGjH44YmUETP3gRxPzB_QOIKGJ4Qk0ExuaMBohekYELL09a1MNkesCzQkEaodqAs0CtQWbDh4KT1ZPfSp62r4V4EhtLzJbteNsx_umsZNKxAMQMyDWIOMAxgwQcUfrJj2bNpe57tmfJ0af-zzSuetQCjetWzGX3AkEY29XHjeuRwfLK393HjuhcNzY8bdzxumgR0wuPGZcBAf7lg-rPWRcDAAyZjUFqc2vpszppnq6aA3IikHRIxz5t2KYALFAVgogSxTC2AnoL4GhTdc1YD_aJQkJ-cr1CUWaKnAHQq0JwXS9qf79j4fPusp70NL2dNQU4gEK2QEAJpBekCmvhk1xSgcmAsAq15vmEhkPGyYQLQIc8W7Hi6oRcYAS_atwCVQTPr09YdyKEByiYNwFy7BOhfYEyCwmH98sdNvU_3bAQmGbjfgR5_3NT9EijSCNTSQWrQgUqiltmPmzofN04HmgDKGo1Lnraser6v73HjamB4Pm7cClT8Ylnj40ZgJmgCOgk5nB43rgLajhRUQDufr-iFOAfk8JZ-uCZIUIGiF1SATHm6ZA4w3h43dTxu6oLkIEjSAdoGzkqNQJUvlnWDordx_ePGtUB7QOqBfmoDkpuBWh43tMK1PN8O1tK47Ok-UI4Cuv351iagycBE_LhxKlAcUnY9X70A5CqQt6DmPF3eDda4DmpUI9BPQEuBIdQF1AVWuQlY0YB837gTFEgo8TV7EyymgIkWGGI9L5e0Al0DDMPHjS0g12wEcoHGrQAZ2tD4bGETyPo5QC7IBSBrMNXMmAIJlBcrGoB2g42aD1EJMhmkEliaAV0M9B7YGxs3As0EO3rSs63bwWygLUDTloPVQEwGOmbr48bJIHbTpJdzFz2fuRcUQyCLgIKgQEGoB0VYL8KTL1bNe9neDfUkPOoau4A187MVizGjCFgWgRMNULz3-eqlL9YsAGYVUPkL9vyLro0wNUAFS8ApD-4-YPHZ-Kxj4tM5QClgWgeqB4mDwwvoRGA0toESXEMT0GqgUU92rAXF8xRY6IBdD7Klqek5MFaBKXFL64uJQPNngh0DjOfOp62d4IgFBtw-cJSCvQ2yCKgLqBJoPiK8YIkXqBiYlmeDBEEJcMXTxWuAlj7dv-Dppomw1LQarAwYW0BHAk0AOgkYzSBHIrsH5PjG3WDr9j9uXAR2GFDXhsdNoLQCdhjQVVNBrgU6BhgxYOvAbgMm5CYuUJxAim1w7CAnOGC4TQBlYERgQhX1A5PPjie7gAl4HVAIGJdga4CCwIIWrAIWltOeTwW6BaQInH7WvZwFFAdFCNjW3V1AZ79o3Py4qQ0cy42QZPdy5gZohsCaOEA2oqcPcOICmwlqU0CcAE8Z4KT9dBKk9MDwCbhuhPoELLfpadNmUOST4BNQ9gJGTxMw_QETDTA7N0IyzYvtCxE-QUo4sPhpaHzeCkwpSFEEzyaUN9egQEFLn4srpLg0O9PRKiAzMS_focagRqEaZIeCjYWWHZhRDW7_1kLY4FoMys4tgDCA7cjHTcuAeCsQrwPiNQo1Co-bFwFxIxBvAvNagOLrgXQHkF4CFpkKIoFsUIvocdN2ID0DLD4Zoqq5D-Q6kPk1CsYKZgrmCoZxQKY5EJop6KIL6gKhAZBVnZtWq2AcB0JAGSCJpAPh2NVAvB9oxSqww0DOWAd35Fqw1SCx3VCVICdCREBe6oN6ZB5YRz_CkSB7QBDkMoRzCmoVjIAcYyCsAbKMFUyAjkFWDHc7wnkgC-eBQxBk6V5omABDuHk12FKYPMgpqxU04JWhJlj9JoSTwNYDAwFoPzQwoEEGDjWkAASFD8QRtdAE4UR8gjC1QEoHOx43LwU6bQ-QuQXsVJCTwOEMDlpQGoEG3XwgbgMH4ePmXgUNuAeAnoR7ANm5oFg0AQcjhDZCDmmQu3XtFCBpWQHGcgKxlLkA)]
 
 ## 分析
 
@@ -79,27 +74,25 @@ V:V1 name="Piano" snm="Pia"
 ================================================================================
 📊 TMD Song Profile: [ 月 ]
 ================================================================================
-⏱  Duration:       1:43 (103.8s), 40 measures total
+⏱  Duration:       0:51 (51.9s), 20 measures total
 🎼 Key & Tempo:    首調基準 C, != 44.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [TsukiA #1 @ m.9, 0:21]
    - 最高音: E5 in [TsukiA #1 @ m.5, 0:10]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      TsukiA (43.6s) -> TsukiB (8.3s) -> TsukiA (43.6s) -> TsukiB (8.3s)
+🏛  結構:      TsukiA (43.6s) -> TsukiB (8.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       E 大調（推測轉調經歷 3 次）
+🗝  調性診斷：       E 大調（推測轉調經歷 1 次）
    - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
-   - 轉調歷程:    E 大調起奏 ➔ [TsukiB] 轉至 A 小調 (+5 半音 / 五度圈 -1 步) ➔ [TsukiA] 轉至 E 大調 (-5 半音 / 五度圈 +1 步) ➔ [TsukiB] 轉至 A 小調 (+5 半音 / 五度圈 -1 步)
+   - 轉調歷程:    E 大調起奏 ➔ [TsukiB] 轉至 A 小調 (+5 半音 / 五度圈 -1 步)
    - 核心骨幹音:  B, E, A, C, D
    - 調性數值:    E 大調 [相關度: 0.72, 穩定度: Moderate, 自然音純度: 80.0%]
    - 候選調性 (K-S): E 大調 (0.72), E 小調 (0.64), A 小調 (0.60)
-   - 五度圈歷程:   +4 -> +3 -> +4 -> +3
+   - 五度圈歷程:   +4 -> +3
    - 各段落調性細節:
      • [TsukiA #1]: E 大調 (r: 0.72, 自然音純度: 83.3%, 調外音: C, D, F)
      • [TsukiB #1]: A 小調 (r: 0.77, 自然音純度: 100.0%)
-     • [TsukiA #2]: E 大調 (r: 0.72, 自然音純度: 83.3%, 調外音: C, D, F)
-     • [TsukiB #2]: A 小調 (r: 0.77, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -126,7 +119,7 @@ V:V1 name="Piano" snm="Pia"
      B  : ████████████████████████  32.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 122 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 61 個音符)
 ================================================================================
 ```
 

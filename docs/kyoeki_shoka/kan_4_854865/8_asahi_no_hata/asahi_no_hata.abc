@@ -10,12 +10,4 @@ V:V1 name="Voice" snm="Voi"
 G12 G4 | G6 G2 E2 C2 E2 F2 | G6 A2 G4 F4 | E6 E2 D4 G4 |
 C12 G4 | c6 c2 B2 c2 d2 B2 | c8 G4 G4 | F6 E2 D2 E2 F2 D2 |
 E12 G4 | c6 d2 c2 B2 A2 G2 | !ff! c6 d2 e4 c4 | G6 c2 e4 d4 |
-c12 z4 | !f! z4 z4 z4 G4 | G6 A2 G2 F2 E2 C2 | G6 A2 G4 G4 |
-c6 c2 B4 A4 | G12 G4 | G6 G2 E2 C2 E2 F2 | G6 A2 G4 F4 |
-E6 E2 D4 G4 | C12 G4 | c6 c2 B2 c2 d2 B2 | c8 G4 G4 |
-F6 E2 D2 E2 F2 D2 | E12 G4 | c6 d2 c2 B2 A2 G2 | !ff! c6 d2 e4 c4 |
-G6 c2 e4 d4 | c12 z4 | !f! z4 z4 z4 G4 | G6 A2 G2 F2 E2 C2 |
-G6 A2 G4 G4 | c6 c2 B4 A4 | G12 G4 | G6 G2 E2 C2 E2 F2 |
-G6 A2 G4 F4 | E6 E2 D4 G4 | C12 G4 | c6 c2 B2 c2 d2 B2 |
-c8 G4 G4 | F6 E2 D2 E2 F2 D2 | E12 G4 | c6 d2 c2 B2 A2 G2 |
-!ff! c6 d2 e4 c4 | G6 c2 e4 d4 | c12 z4 |
+c12 z4 |

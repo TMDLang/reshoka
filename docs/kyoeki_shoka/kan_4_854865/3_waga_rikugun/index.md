@@ -65,20 +65,12 @@ V:V1 name="Voice" snm="Voi"
 G12 G3 F | E6 ^D2 E2 F2 G2 A2 | B8 A4 D2 D2 | c6 c2 c4 B2 A2 |
 d12 e3 d | c6 B2 A2 B2 c2 d2 | e8 d4 D2 D2 | G6 B2 A2 D2 G2 B2 |
 A12 G4 | e6 e2 e2 d2 c2 B2 | A6 B2 c4 D4 | c6 B2 A4 D4 |
-G12 z4 | !f! z4 z4 z4 D3 D | G10 B2 A2 G2 | d10 d2 c2 B2 |
-A4 B2 c2 d4 d4 | G12 G3 F | E6 ^D2 E2 F2 G2 A2 | B8 A4 D2 D2 |
-c6 c2 c4 B2 A2 | d12 e3 d | c6 B2 A2 B2 c2 d2 | e8 d4 D2 D2 |
-G6 B2 A2 D2 G2 B2 | A12 G4 | e6 e2 e2 d2 c2 B2 | A6 B2 c4 D4 |
-c6 B2 A4 D4 | G12 z4 | !f! z4 z4 z4 D3 D | G10 B2 A2 G2 |
-d10 d2 c2 B2 | A4 B2 c2 d4 d4 | G12 G3 F | E6 ^D2 E2 F2 G2 A2 |
-B8 A4 D2 D2 | c6 c2 c4 B2 A2 | d12 e3 d | c6 B2 A2 B2 c2 d2 |
-e8 d4 D2 D2 | G6 B2 A2 D2 G2 B2 | A12 G4 | e6 e2 e2 d2 c2 B2 |
-A6 B2 c4 D4 | c6 B2 A4 D4 | G12 z4 |
+G12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](waga_rikugun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhYImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq1yE4uSMxCCaflFuVbFJUX5BRmZyQjhkoxUoEdzM3MySxKLKtHFM3MLgG5IzFHi0tJSeNYx8eXMHS929ypoaXEp2ipYmnHZ2yq4c9mY6JvYgTQ-bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdygAWU93rH4-ZYXC0-27n86e_bih-_maNU9b177fO-_JjuaXCxrf7-kAijzZ0fB07Y5nc-aD2Z3PZm96v6cT7FY_Fx8Fl8x0oONzFJzhsVqsEODpogCJN6AJGSUlBcVW-vopOXp5QJyer5dVoF-QmaIPU9H5rK_5WX-_Aii2gHLpSlxc-loKttQCXAoKCk_75gN9_GJz-4sVXS862oHB8GLlvKetK55Nawe6EOQNhJPJDKkeNF8A_QWMC5DlL1btf9awHGRtd--LmfOBoo8bVwAFgQY97Wh73NwHZAClnq6dAHSLu8LTJcuBkgrAaFUAioKN6Xk0c6WtpRmQ8bih5-ni9UAlj5u7HzcAZXue7tn4Yut2YBwBFYNtW7H7xYoZoGQwbd2Lxk0vm1cAFQGj7fn6BqBtQBLos8cNTS-ndb9csFYhDcgEReuuKU839AMlIdENcs2-nqe9XcA09bx_39PedgUXE1Bi2LDwxdo5QOOfN-1SUDaNB5oc4usCtBIsYKoOFOiEGPi0txFoJ8RMYOADdT3t3QBUBHS_mZ6CWbyCmYKpgkm8gnE8xBcvupc-2bH25bTJYImnc9uf7J0DCZ-X8zc_X7PsaWf70yWzgM6BuA7k7w29z1uXQ2ISKWx7oIm0u_fJzm6wYRDXPW1d-bSh-2nrariRCIcieR4SFUCR59tnAR0N8hbY5yC_giICEgLP9vQDvfNkR_fL3fOADlUAJuKeJ_vmwrXBAgTouSaI759N2wMOZmDQNwLTDYjsbYSQIG9Cwql3w7M5nc_6Zz_bsBhoAtA7wNAKA4YP0BRoIn7auuPZnilPl_Y_27ziWUs_MJZfbFz9fP8kYJ4EpqnHjdMfNwKDCpiUdjzdueVx42pggD1uXP64cf7jJmBy6Xk2Z-7LRStAJjZNerpvJVDj48aZjxt3AjW-3zMb4sBn67ZC8zzYUY8bVwH1giJbARhsjxvXvVw94-muZUAG0PuPmzofN04Dyj9bsRjiIkzznq9eAFQMiSdgFINcsXbl09atIFcAndzQ83zBJgQXqHL79seNszGMbQL5AGwySmi8WDXvZXs3OEsBVbQAvfy4EagOGA6THzcCk0kHkHzcuP5xUyMoZDZ0PW5sAUck0IKZIEGQB_qAyp4uWfl8VvvLmbOBvoIoeDZ169PFwHzUAWQAnQVyXBNQ-3K47PN2YHKDyr6cufjpRqjGp-2gwgMk1bEB5p6F0CgA-RDoHlBwQLIKUrzO3gSJUVAIdUx83NgDKe7BRqwHJpWXK_rA4dQIC79GWMg1Pt2-FMJ4sWfOy_ZeEBsYbY0rgTY9X7Hu5cJ5QNNAAdS4BBgKIPUTWoDk48a5QAVPuyEBMenpug6QD0GywNABehjoYnASnQN0N4wLTFIT9wIVP26c-rgJqB3IWPZ8NtB7wGif-rhxH1DqxcoFj5uAoQ-KdnDiA0ddQxMwhrlA3gUmLaCpIBY8zp5PBcYwMJkDnQFkAJ2KiBuQIRDVT_ctBDkFZDfQGoihQAcBvQSMXqDf1r2cDfRVKziFgDUAwwkYZqBA2r4UYgyouAXFxXqwzUB7VsLM3t8MFAW5DGgeegg0QZwNzrtgczuBrgCqBAbLVlD0A10Ejx1g1C6HpGuYEyCiL7uawY4Ehf6zTmDoLHzWDeQCpSBJGqIanOQeNwLDAOhgYIiCoh0at0Ajetcg1AETH1gdMJCBJEgdNDEAI3Rvx5MdO-DO3gFMZjBdoFjubX7ZDvT5anDgARM0sOCYDk7ZwEQCTHUgB4JDBJyKgSUNODJAQf10WvvT_rUgh8zfD49AoF_7gR572t0OihWwTyBxCEu8sNh7MWHNs7XA8gOYAYApcwfEoseNwPgAemQHMBk87QclEpBSyqt8KFDQ0ufiCk9MTwzKzC5NL82zCsvPTE51qDGoUagGWaRgY2imZQdmVafVgmlgw0MDUqNqgpKnAtBhCjVA1mqFx817ILixG4inA_FksEwvQqapH8jvAeKZIJmmRiDuhOrpA-J1QFENYJiDTN4NFge6D2RpjYKBgi4YotPAUhdK1SgYQsWQoTEQGwExSK4GWNdhqgCJmUBV1oDVwvSBRGE6YDR2W0AQIm4OdAgsnIAxD_UcNHCaJkH5-8A0KAhAAQgKriVAvB4mAgwIsNqmuTB14OAEBgkwMOFBAmwjIPlCHcQDCwGdAHENyC81YJ8gQ5gPwSEHJmrAPoVBEBvGh4Ue9pADQTNo6CB5GhJzwDQLpVug9GQo3Qb3FMiboBTRDeYtBAcBOE2BAwuYTqDqVoJ1wz2O7FqYC5HjCxg0aK6ExyKSn5HjEWYKWAokgZoYsEc1UAXC00DPNQETOsgDYE9ugjt-BVQEFMO9YJH9UBGg9xvnQzMCIlbRAheEsSdRmMNhwQHNCujxCfMbmhJcyRiWsWq4arm4dO0UkEoHBYJcZS4A)]
+- [主旋律 TMD 檔案](waga_rikugun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhYImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq1yE4uSMxCCaflFuVbFJUX5BRmZyQjhkoxUoEdzM3MySxKLKtHFM3MLgG5IzFHi0tJSeNYx8eXMHS929ypoaXEp2ipYmnHZ2yq4c9mY6JvYgTQ-bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdygAWU93rH4-ZYXC0-27n86e_bih-_maNU9b177fO-_JjuaXCxrf7-kAijzZ0fB07Y5nc-aD2Z3PZm96v6cT7FY_Fx8Fl8x0oONzFJzhsVqsEODpogCJN6AJGSUlBcVW-vopOXp5QJyer5dVoF-QmaIPU9H5rK_5WX-_Aii2gHLpSlxc-loKttQCXAoKCk_75gN9_GJz-4sVXS862oHB8GLlvKetK55Nawe6EOQNhJPJDKkeNF8A_QWMC5DlL1btf9awHGRtd--LmfOBoo8bVwAFgQY97Wh73NwHZAClnq6dAHSLu8LTJcuBkgrAaFUAioKN6Xk0c6WtpRmQ8bih5-ni9UAlj5u7HzcAZXue7tn4Yut2YBwBFYNtW7H7xYoZoGQwbd2Lxk0vm1cAFQGj7fn6BqBtQBLos8cNTS-ndb9csFYhDcgEReuuKU839AMlIdENcs2-nqe9XcA09bx_39PedgUXE1Bi2LDwxdo5QOOfN-1SUDaNB5oc4usCtBIsYKoOFOiEGPi0txFoJ8RMYOADdT3t3QBUBHS_mZ6CWbyCmYKpgkm8gnE8xBcvupc-2bH25bTJYImnc9uf7J0DCZ-X8zc_X7PsaWf70yWzgM6BuA7k7w29z1uXQ2ISKWx7oIm0u_fJzm6wYRDXPW1d-bSh-2nrariRCIcieR4SFUCR59tnAR0N8hbY5yC_giICEgLP9vQDvfNkR_fL3fOADlUAJuKeJ_vmwrXBAgTouSaI759N2wMOZmDQNwLTDYjsbYSQIG9Cwql3w7M5nc_6Zz_bsBhoAtA7wNAKA4YP0BRoIn7auuPZnilPl_Y_27ziWUs_MJZfbFz9fP8kYJ4EpqnHjdMfNwKDCpiUdjzdueVx42pggD1uXP64cf7jJmBy6Xk2Z-7LRStAJjZNerpvJVDj48aZjxt3AjW-3zMb4sBn67ZC8zzYUY8bVwH1giJbARhsjxvXvVw94-muZUAG0PuPmzofN04Dyj9bsRjiIkzznq9eAFQMiSdgFINcsXbl09atIFcAndzQ83zBJgQXqHL79seNszGMbQL5AGwySmi8WDXvZXs3OEsBVbQAvfy4EagOGA6THzcCk0kHkHzcuP5xUyMoZDZ0PW5sAUck0IKZIEGQB_qAyp4uWfl8VvvLmbOBvoIoeDZ169PFwHzUAWQAnQVyXBNQ-3K47PN2YHKDyr6cufjpRqjGp-2gwgMk1bEB5p6F0CgA-RDoHlBwQLIKUrzO3gSJUVAIdUx83NgDKe7BRqwHJpWXK_rA4dQIC79GWMg1Pt2-FMJ4sWfOy_ZeEBsYbY0rgTY9X7Hu5cJ5QNNAAdS4BBgKIPUTWoDk48a5QAVPuyEBMenpug6QD0GywNABehjoYnASnQN0N4wLTFIT9wIVP26c-rgJqB3IWPZ8NtB7wGif-rhxH1DqxcoFj5uAoQ-KdnDiA0ddQxMwhrlA3gUmLaCpIBY8zp5PBcYwMJkDnQFkAJ2KiBuQIRDVT_ctBDkFZDfQGoihQAcBvQSMXqDf1r2cDfRVKziFgDUAwwkYZqBA2r4UYgyouAXFxXqwzUB7VsLM3t8MFAW5DGgeegg0QZwNzrtgczuBrgCqBAbLVlD0A10Ejx1g1C6HpGuYEyCiL7uawY4Ehf6zTmDoLHzWDeQCpSBJGqIanOQeNwLDAOhgYIiCoh0at0Ajetcg1AETH1gdMJCBJEgdNDEAI3Rvx5MdO-DO3gFMZjBdoFjubX7ZDvT5anDgARM0sOCYDk7ZwEQCTHUgB4JDBJyKgSUNODJAQf10WvvT_rUgh8zfD49AoF_7gR572t0OihWwTyBxCEu8sNh7MWHNs7XA8gOYAYApcwfEoseNwPgAemQHMBk87QclEpBSyqt8KFDQ0ufiCk9MTwzKzC5NL82zCsvPTE51qDGoUagGWaRgY2imZQdmVafVgmlgw0MDUqNqgpKnAtBhCjVA1mqFx817ILixG4inA_FksEwvQqapH8jvAeKZIJmmRiDuhOrpA-J1QFENYJiDTN4NFge6D2RpjYKBgi4YotPAUhdK1SgYQsWQoTEQGwExSK4GWNdhqgCJmUBV1oDVwvSBRGE6YDR2W0AQIm4OdAgsnIAxD_UcNHCaJkH5-8A0KAhAAQgKriVAvB4mAgwIsNqmuTB14OAEBgkwMOFBAmwjIPlCHcQDCwGdAHENyC81YJ8gQ5gPwSEHJmrAPoVBEBvGh4Ue9pADQTNo6CB5GhJzwDQLpVug9GQo3Qb3FMiboBTRDeYtBAcBOE2BAwuYTqDqVoJ1wz2O7FqYC5HjCxg0aK6ExyKSn5HjEWYKWAokgZoYsEc1UAXC00DPNQETOsgDYE9ugjt-BVQEFMO9YJH9UBGg9xvnQzMCIlbRAheEsSdRmMNhwQHNCujxCfMbmhJcyRiWsWq4arm4dO0UkEoHBSBXmQsA)]
 
 ## 分析
 
@@ -86,14 +78,14 @@ A6 B2 c4 D4 | c6 B2 A4 D4 | G12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 我陸軍 ]
 ================================================================================
-⏱  Duration:       2:07 (127.5s), 51 measures total
+⏱  Duration:       0:42 (42.5s), 17 measures total
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [WagaRikugun #1 @ m.1, 0:01]
    - 最高音: E5 in [WagaRikugun #1 @ m.9, 0:21]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      WagaRikugun (42.5s) -> WagaRikugun (42.5s) -> WagaRikugun (42.5s)
+🏛  結構:      WagaRikugun (42.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -101,11 +93,9 @@ A6 B2 c4 D4 | c6 B2 A4 D4 | G12 z4 |
    - 核心骨幹音:  D, G, A, C, B
    - 調性數值:    G 大調 [相關度: 0.92, 穩定度: High, 自然音純度: 99.2%]
    - 候選調性 (K-S): G 大調 (0.92), D 大調 (0.72), C 大調 (0.60)
-   - 五度圈歷程:   +1 -> +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [WagaRikugun #1]: G 大調 (r: 0.92, 自然音純度: 99.2%, 調外音: D#)
-     • [WagaRikugun #2]: G 大調 (r: 0.92, 自然音純度: 99.2%, 調外音: D#)
-     • [WagaRikugun #3]: G 大調 (r: 0.92, 自然音純度: 99.2%, 調外音: D#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -132,7 +122,7 @@ A6 B2 c4 D4 | c6 B2 A4 D4 | G12 z4 |
      B  : ███████████               11.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Voice         : D4 – E5 (14 個半音 / 1.2 個八度, 207 個音符)
+  - Voice         : D4 – E5 (14 個半音 / 1.2 個八度, 69 個音符)
 ================================================================================
 ```
 

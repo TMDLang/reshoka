@@ -9,7 +9,4 @@ V:V1 name="Voice" snm="Voi"
 !mf! z2 z2 z2 z2 z2 E2 | A4 A2 A2 ^G2 A2 | B4 B2 B4 E2 | c4 c2 B4 B2 |
 !mf! A10 E2 | e4 d2 c4 c2 | !mp! B4 B2 A4 A2 | B4 B2 B4 B2 |
 E10 E2 | A4 A2 A2 ^G2 A2 | B4 B2 B4 E2 | c4 c2 B4 B2 |
-A10 z2 | !mf! z2 z2 z2 z2 z2 E2 | A4 A2 A2 ^G2 A2 | B4 B2 B4 E2 |
-c4 c2 B4 B2 | !mf! A10 E2 | e4 d2 c4 c2 | !mp! B4 B2 A4 A2 |
-B4 B2 B4 B2 | E10 E2 | A4 A2 A2 ^G2 A2 | B4 B2 B4 E2 |
-c4 c2 B4 B2 | A10 z2 |
+A10 z2 |

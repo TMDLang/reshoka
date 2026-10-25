@@ -62,20 +62,12 @@ V:V1 name="Piano" snm="Pia"
 A4 z2 G2 | e3 d c3 B | A4 z2 B2 | A3 G A3 A |
 D4 z4 | !f! d4 d4 | B4 G4 | A2 B2 c2 e2 |
 d4 z4 | d2 d2 e2 c2 | B4 G4 | A2 c2 B2 A2 |
-G4 z2 z2 | !mf! z2 z2 z2 D2 | G3 G A3 F | G4 z2 G2 |
-A3 G A3 B | A4 z2 G2 | e3 d c3 B | A4 z2 B2 |
-A3 G A3 A | D4 z4 | !f! d4 d4 | B4 G4 |
-A2 B2 c2 e2 | d4 z4 | d2 d2 e2 c2 | B4 G4 |
-A2 c2 B2 A2 | G4 z2 z2 | !mf! z2 z2 z2 D2 | G3 G A3 F |
-G4 z2 G2 | A3 G A3 B | A4 z2 G2 | e3 d c3 B |
-A4 z2 B2 | A3 G A3 A | D4 z4 | !f! d4 d4 |
-B4 G4 | A2 B2 c2 e2 | d4 z4 | d2 d2 e2 c2 |
-B4 G4 | A2 c2 B2 A2 | G4 z2 z2 |
+G4 z2 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](takeuma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeMtzA1sTAzQkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh4sL8ouQnAMRzM3MySxJLKpEFwfaXpaao8SlpaXwfPXOl8vWKGhpcSnaKhgamnHZ2yq4c9kY6ZvYgTQ9bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdyg8nzL_6b5Jz6esUHi6ffeTHQ2PG7qfr1nzZEfn097GJ7t63u-dB2Xv6Hy5oPH9ng6gLJD7tHXts9mb3u_pBDvVz8VHwSUzHej2HAVneIwXKwR4uihA4hSoMaOkpKDYSl8_JUcvD4jT8_WyCvQLMlP0YSo6n_U1P-vvVwDFJFAOGJJc-loKttQCXAoKCk_75gM9_WJz-4sVXS862oEh8WLlvKetK55Nawe6EOQNhJOpEFg9aD4C-hEYNSCHvFi1_1nDcpATuntfzJwPFH3cuAIo-HT27KcdbY-b-4DGAaWerp0AdJe7wtMly4GSCsBYVgCKgo3peTRzpS0wAQBZjxt6nu5f_WzL7sfN3U92THnc3PJiz9THTesfNwCV9jzds_HF1u1Pe7vAOjuetq4G2vBy_ubna5YBDQI7ZsXuFytmAN0A9czaHc_mzAexgW4ARTJQz4qnvdvRYv5xQxPQoOfrG4BBBLQGqBHIfjoByGh4Nr376b5uoMYXa-c82dH9shXokeng8AIFDUhZ74bnne1PG9ufTgA5EWgRRPDpzs0wQZD5L6d1v1yw9tmKmQq5aUBlEOe9WNgDEkkDyoMFwKbu6gEKP53Q8mT3UmQPQvwONObpcqBzIAY0gAyYsxqkEhzYUJVdCyAan-yZ-GztIqDIsynbnm7YB_JERzskMEBWQAJzQsezjglP1wGTxpanG_qBbodECVwZ0PznTbvQzQdz4eZD8hLQQ0D3A6WAup63LISYDzcNIo7dNFTXwkMD5MjOXqAzIA57smvK8-2zgPHwcmbLs2nbgdqBUQ1McUD1cCmQBzcsBMdVw4v2LUApLlCygAQtmLVzxuOmHmQSKAEpiR43roYp2t31uKnjcVPX030g6Se7dgGT9OPGVUARqIqnvc0vJqx52d7zuHEdUOjlij6gAc-mtwKdDFUBUt4ITLqTn81sgigCJp_n27c83z8J7qpdCMXrQC5BJslx1eOm_seNPc-mL302B6rv6YSJjxu3Ppu6Fari2aTmx43z8bsKHI1EuwpsHFC6-3HjepDzGnuBEmDVXY8bl4Gd1w13HlC6HxhWIKEmsP1APSAnNLzY3QtxDjhwlyx_uqEd7LnpIHUg84CqtwL9BrKqaTLIqUB1lBekUKCgpc_FFZKYnVqam2gVkJmYl-9QY1CjUA2yRMHG0EzLDsyqzk2rBTOAZbkGJHlrKgALOIUaILkGzILRUJGm_SBW00Ygbw-QXgak54HluhU0Hjct0QRZDDKwRsFAQReOTeOBRI2CIZDUBZJGYNo8Hi4EUQVi10AlYYqM4SJIamBOBtn9uHkFEK-Cu7ERiCeBWR0QNzZ3gXmrEC4zA5tmqmCC1QZjLK4wAoqA_QBTBIIQZ1QjQvBxE7CQ3wy0awKIglgKdVbTWpAwSORx83IgFyK9B-EmU6ihMLoG7A6IG2AiILeAREHuBvkBoQvVSeCQ6QLashVIQ2wChgXYCRDHbAfHI1hN80qoCIpLQBhkA8gmXC4ByYFkQGzUeAThGq5aLi5dOwVoGlTAyVTmAgA)]
+- [主旋律 TMD 檔案](takeuma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeMtzA1sTAzQkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh4sL8ouQnAMRzM3MySxJLKpEFwfaXpaao8SlpaXwfPXOl8vWKGhpcSnaKhgamnHZ2yq4c9kY6ZvYgTQ9bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdyg8nzL_6b5Jz6esUHi6ffeTHQ2PG7qfr1nzZEfn097GJ7t63u-dB2Xv6Hy5oPH9ng6gLJD7tHXts9mb3u_pBDvVz8VHwSUzHej2HAVneIwXKwR4uihA4hSoMaOkpKDYSl8_JUcvD4jT8_WyCvQLMlP0YSo6n_U1P-vvVwDFJFAOGJJc-loKttQCXAoKCk_75gM9_WJz-4sVXS862oEh8WLlvKetK55Nawe6EOQNhJOpEFg9aD4C-hEYNSCHvFi1_1nDcpATuntfzJwPFH3cuAIo-HT27KcdbY-b-4DGAaWerp0AdJe7wtMly4GSCsBYVgCKgo3peTRzpS0wAQBZjxt6nu5f_WzL7sfN3U92THnc3PJiz9THTesfNwCV9jzds_HF1u1Pe7vAOjuetq4G2vBy_ubna5YBDQI7ZsXuFytmAN0A9czaHc_mzAexgW4ARTJQz4qnvdvRYv5xQxPQoOfrG4BBBLQGqBHIfjoByGh4Nr376b5uoMYXa-c82dH9shXokeng8AIFDUhZ74bnne1PG9ufTgA5EWgRRPDpzs0wQZD5L6d1v1yw9tmKmQq5aUBlEOe9WNgDEkkDyoMFwKbu6gEKP53Q8mT3UmQPQvwONObpcqBzIAY0gAyYsxqkEhzYUJVdCyAan-yZ-GztIqDIsynbnm7YB_JERzskMEBWQAJzQsezjglP1wGTxpanG_qBbodECVwZ0PznTbvQzQdz4eZD8hLQQ0D3A6WAup63LISYDzcNIo7dNFTXwkMD5MjOXqAzIA57smvK8-2zgPHwcmbLs2nbgdqBUQ1McUD1cCmQBzcsBMdVw4v2LUApLlCygAQtmLVzxuOmHmQSKAEpiR43roYp2t31uKnjcVPX030g6Se7dgGT9OPGVUARqIqnvc0vJqx52d7zuHEdUOjlij6gAc-mtwKdDFUBUt4ITLqTn81sgigCJp_n27c83z8J7qpdCMXrQC5BJslx1eOm_seNPc-mL302B6rv6YSJjxu3Ppu6Fari2aTmx43z8bsKHI1EuwpsHFC6-3HjepDzGnuBEmDVXY8bl4Gd1w13HlC6HxhWIKEmsP1APSAnNLzY3QtxDjhwlyx_uqEd7LnpIHUg84CqtwL9BrKqaTLIqUB1lBekUKCgpc_FFZKYnVqam2gVkJmYl-9QY1CjUA2yRMHG0EzLDsyqzk2rBTOAZbkGJHlrKgALOIUaILkGzILRUJGm_SBW00Ygbw-QXgak54HluhU0Hjct0QRZDDKwRsFAQReOTeOBRI2CIZDUBZJGYNo8Hi4EUQVi10AlYYqM4SJIamBOBtn9uHkFEK-Cu7ERiCeBWR0QNzZ3gXmrEC4zA5tmqmCC1QZjLK4wAoqA_QBTBIIQZ1QjQvBxE7CQ3wy0awKIglgKdVbTWpAwSORx83IgFyK9B-EmU6ihMLoG7A6IG2AiILeAREHuBvkBoQvVSeCQ6QLashVIQ2wChgXYCRDHbAfHI1hN80qoCIpLQBhkA8gmXC4ByYFkQGzUeAThGq5aLi5dOwVoGlQAMpW5AA)]
 
 ## 分析
 
@@ -83,14 +75,14 @@ B4 G4 | A2 c2 B2 A2 | G4 z2 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 竹馬 ]
 ================================================================================
-⏱  Duration:       0:52 (52.8s), 51 measures total
+⏱  Duration:       0:17 (17.6s), 17 measures total
 🎼 Key & Tempo:    首調基準 G, != 116.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [Takeuma #1 @ m.1, 0:00]
    - 最高音: E5 in [Takeuma #1 @ m.6, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Takeuma (17.6s) -> Takeuma (17.6s) -> Takeuma (17.6s)
+🏛  結構:      Takeuma (17.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -98,11 +90,9 @@ B4 G4 | A2 c2 B2 A2 | G4 z2 z2 |
    - 核心骨幹音:  A, G, D, B, C
    - 調性數值:    G 大調 [相關度: 0.81, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.81), D 大調 (0.76), A 小調 (0.55)
-   - 五度圈歷程:   +1 -> +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [Takeuma #1]: G 大調 (r: 0.81, 自然音純度: 100.0%)
-     • [Takeuma #2]: G 大調 (r: 0.81, 自然音純度: 100.0%)
-     • [Takeuma #3]: G 大調 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -129,7 +119,7 @@ B4 G4 | A2 c2 B2 A2 | G4 z2 z2 |
      B  : █████████████             14.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 132 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 44 個音符)
 ================================================================================
 ```
 

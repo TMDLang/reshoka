@@ -59,15 +59,11 @@ E4 E4 G4 G4 | A8 G4 G4 | E4 E4 G4 G4 | A8 G4 z4 |
 A4 A4 B4 B4 | A8 G8 | A4 A4 G4 E4 | D12 z4 |
 E4 E4 G4 G4 | A4 A4 G4 G4 | d4 d4 B4 B4 | A12 z4 |
 d4 d4 B4 B4 | A4 A4 G4 E4 | D4 D4 C4 C4 | D12 z4 |
-E4 E4 G4 G4 | A8 G4 G4 | E4 E4 G4 G4 | A8 G4 z4 |
-A4 A4 B4 B4 | A8 G8 | A4 A4 G4 E4 | D12 z4 |
-E4 E4 G4 G4 | A4 A4 G4 G4 | d4 d4 B4 B4 | A12 z4 |
-d4 d4 B4 B4 | A4 A4 G4 E4 | D4 D4 C4 C4 | D12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](koto.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SU4tSc_PzMhNz0GUKEkuKMvNLMpMREmn5RblWxSVF-QUZyMIlGanAYMjMLQC6BNkciHh5YklqkRKXlpbC81ntz7duVNDS4lK0VbAw4bK3VXDmsjHRN7EDaXnavuvFzKnv98x62rrx-eyup1Pbni_Z92xF09OZK57umv64oevplI3P1vY8mzrz-fKJz2bvUACynu5Y_XzKCoWn23c_2dXzuKH7-Zo1T3sbgez3e-eBGDs6Xy5ofL-nAyTeuvbZ7E3v93SC3efn4qPgkpmeWZKYo-AMj-dihQBPFwVITAJ1ZZSUFBRb6eun5OjlAXF6vl5WgX5BZoo-TEXns77mZ_39CqD4A8qlK3Fx6Wsp2FILcCkoKDztmw_064vN7S9WdL3oaAcGwIuV8562rng2rR3oQpA3EE6mKIx60PwC9B0wLkBOeLFq_7OG5SDLu3tfzJwPFH3c3A8UfDp79tOOtsfNfUAGUOrp2glAFzkrPF2yHCipAIxWBaAo0OAXa-c82dH1YsUMBWewoT2PZq60tTABMh439LycO-dFU-vj5u7HDb1gy1bsBqoEpYJp6140bnrZvAKoDmjN8_UNQI8BXQ1kAK0Bm9n9shVo63Sg4IuFPUAtT3YApeY-72x_2tj-dELv4wawL_fMfbpzM0QEaP3jhiZQ6M3eBHL0uq3AtAYMA2DaeLqhH2xyz9MJLUBxYCAB9UIEn81Z_WxO57P-2c82LAa6DRwEHWUQrwDloIrWLno2bQ9Qz8v5m4HSLiDvvZzZ8nL3PJA5HW1A4edrlj3tWgAJtSd7JgJ1AEUgTnqya8rz7bOAngKG8vMNC4GMlw0TgFqeLdjxdEMv0F8v2rcAlUETxNPWHc_2THm6tP_Z5hXPWvpBEdLQ_mLj6uf7JwE99rhxxePG6Y8blwG1PV274-nOLY8bVwMz1-PG5Y8b5z9uAoZ0z7PpS5_NWQOM-mcz1wMD_nHTpKf7VgK1P26c-bhxJ0h7QxPQTGBYQHz3uHEdJERA8dzfBUpC4DiH-Aro36d7NsJiqxNo2vMVvUCRx439wDh73Lj12YrFwMh42t_xtH0h0GFg05ahBQ3IDftbHzcCs_-2p807nzYsedy44HHjxKe7t72cuh3ksKZuoDkQLyO7EylQZm-CBQfQ1slAa8DWA33Y-HTJSmDp83LmbGCqAYo_3bfw-ebdwMLocWPP0537nvY2v5iwBhxSQCmgln2gwGpqetzY9bgRqH794yYgY9XjxhawsStAbt0-F2T-1kYgCQrWxo7HjWuAAQ1mAyNgB5gBlAIGehM40IGmdT9umgtkv9gEtKgF4iSgUc86QFxQuDRNAnmyY-LjhtYX7YufbZgIcs_OHc-XAT28_nHjysdNQLftBjGgxnY-bmwDGQtM1EumPZ3T_WQXMJpBjn-ye8Pjxj6wRdtQnNEEdCfQeUDrtoLDEcl5kAwICcoXq-a9bO-GBCUwcQLzyMuOLUA_A6MarBkYG_OAYQd0FjgBA3PW3Cd7up52LwI6Auirp0tWPV867-k6oMXrns6fD3QcyJ_AwAJ6oKkbHHYwi0GBAjShEV3XvoXAAuXpWmCArgIqg1Qd-MMXlN6BuR4UUvvBkQdMI3PBdgEjDMgF-RkUUv0dQOsw1KxH9ibQZGCRBY5dYBpEaH-_ZzYwQIDJ5fnyblCK6V8C8TtQBJh6YGkIGr6QtAIOsf7HTcCwBmZKIAmUAjp-A9ANUBMa1yMSH5ALjCFQalsHjh6g37vAJQ3YXmCemwZM9euAKeNFLzTYIank-RRgzu4B5XJQHE8CyUIEG2eBAxk53JaBvQ8MNGB2h5QWEx43ToV4E2oyhpfByoBOBTppNSiRQXwNT3PAXAhKO8AYAJoNYoGCF-R4oCFAjcACBhgIoAIZLfFAVaMGKFARJD8BEzIwzwHzONRIiOhsYEZ7snsxEIHiHxqTQBLoCaCdq2FGwsIKrA0oAXT5VLBqYOQC4xToF1DYwl0OqhqxuByIgPkN4nLUBANTDXQhME2DPANKBES4fw1S4QNxP1AcmFiAVgEjARYk6AEOtBoSayClQK_CHA9USnlDAwoUtPS5uLzzS_KtAjIT8_IdagxqFKpBNijYWGjZgRnA5s3j5vlA3AXEi4C4Q6FG4XHTWiBrBZgG8ZYA8U4g3gXEa0Aizf1AvAdkPMiMGgVjBV0wNoXiGgUzIAmCCBH8agxAInAXNe0Gmr8ZSG9_3LwUZBPIzglQsc1gN-0HYqALm-eB3Q4S2Y5wD8hkEDaHYlS7QBChBiQCcleNghFUDgTR3AO1DeyuHrBrQHaDcB84JEAioFBcCFSzAcwGiXQTCiGY_RARozggBSYw3Y3pJrDte6Cx1gcLE5ArmtYD8VawyF6gSAMQt8BCqXkVwk247MMMFRA2hGJs4VTLxaVrpwBKaQpItDIXAA)]
+- [主旋律 TMD 檔案](koto.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SU4tSc_PzMhNz0GUKEkuKMvNLMpMREmn5RblWxSVF-QUZyMIlGanAYMjMLQC6BNkciHh5YklqkRKXlpbC81ntz7duVNDS4lK0VbAw4bK3VXDmsjHRN7EDaXnavuvFzKnv98x62rrx-eyup1Pbni_Z92xF09OZK57umv64oevplI3P1vY8mzrz-fKJz2bvUACynu5Y_XzKCoWn23c_2dXzuKH7-Zo1T3sbgez3e-eBGDs6Xy5ofL-nAyTeuvbZ7E3v93SC3efn4qPgkpmeWZKYo-AMj-dihQBPFwVITAJ1ZZSUFBRb6eun5OjlAXF6vl5WgX5BZoo-TEXns77mZ_39CqD4A8qlK3Fx6Wsp2FILcCkoKDztmw_064vN7S9WdL3oaAcGwIuV8562rng2rR3oQpA3EE6mKIx60PwC9B0wLkBOeLFq_7OG5SDLu3tfzJwPFH3c3A8UfDp79tOOtsfNfUAGUOrp2glAFzkrPF2yHCipAIxWBaAo0OAXa-c82dH1YsUMBWewoT2PZq60tTABMh439LycO-dFU-vj5u7HDb1gy1bsBqoEpYJp6140bnrZvAKoDmjN8_UNQI8BXQ1kAK0Bm9n9shVo63Sg4IuFPUAtT3YApeY-72x_2tj-dELv4wawL_fMfbpzM0QEaP3jhiZQ6M3eBHL0uq3AtAYMA2DaeLqhH2xyz9MJLUBxYCAB9UIEn81Z_WxO57P-2c82LAa6DRwEHWUQrwDloIrWLno2bQ9Qz8v5m4HSLiDvvZzZ8nL3PJA5HW1A4edrlj3tWgAJtSd7JgJ1AEUgTnqya8rz7bOAngKG8vMNC4GMlw0TgFqeLdjxdEMv0F8v2rcAlUETxNPWHc_2THm6tP_Z5hXPWvpBEdLQ_mLj6uf7JwE99rhxxePG6Y8blwG1PV274-nOLY8bVwMz1-PG5Y8b5z9uAoZ0z7PpS5_NWQOM-mcz1wMD_nHTpKf7VgK1P26c-bhxJ0h7QxPQTGBYQHz3uHEdJERA8dzfBUpC4DiH-Aro36d7NsJiqxNo2vMVvUCRx439wDh73Lj12YrFwMh42t_xtH0h0GFg05ahBQ3IDftbHzcCs_-2p807nzYsedy44HHjxKe7t72cuh3ksKZuoDkQLyO7EylQZm-CBQfQ1slAa8DWA33Y-HTJSmDp83LmbGCqAYo_3bfw-ebdwMLocWPP0537nvY2v5iwBhxSQCmgln2gwGpqetzY9bgRqH794yYgY9XjxhawsStAbt0-F2T-1kYgCQrWxo7HjWuAAQ1mAyNgB5gBlAIGehM40IGmdT9umgtkv9gEtKgF4iSgUc86QFxQuDRNAnmyY-LjhtYX7YufbZgIcs_OHc-XAT28_nHjysdNQLftBjGgxnY-bmwDGQtM1EumPZ3T_WQXMJpBjn-ye8Pjxj6wRdtQnNEEdCfQeUDrtoLDEcl5kAwICcoXq-a9bO-GBCUwcQLzyMuOLUA_A6MarBkYG_OAYQd0FjgBA3PW3Cd7up52LwI6Auirp0tWPV867-k6oMXrns6fD3QcyJ_AwAJ6oKkbHHYwi0GBAjShEV3XvoXAAuXpWmCArgIqg1Qd-MMXlN6BuR4UUvvBkQdMI3PBdgEjDMgF-RkUUv0dQOsw1KxH9ibQZGCRBY5dYBpEaH-_ZzYwQIDJ5fnyblCK6V8C8TtQBJh6YGkIGr6QtAIOsf7HTcCwBmZKIAmUAjp-A9ANUBMa1yMSH5ALjCFQalsHjh6g37vAJQ3YXmCemwZM9euAKeNFLzTYIank-RRgzu4B5XJQHE8CyUIEG2eBAxk53JaBvQ8MNGB2h5QWEx43ToV4E2oyhpfByoBOBTppNSiRQXwNT3PAXAhKO8AYAJoNYoGCF-R4oCFAjcACBhgIoAIZLfFAVaMGKFARJD8BEzIwzwHzONRIiOhsYEZ7snsxEIHiHxqTQBLoCaCdq2FGwsIKrA0oAXT5VLBqYOQC4xToF1DYwl0OqhqxuByIgPkN4nLUBANTDXQhME2DPANKBES4fw1S4QNxP1AcmFiAVgEjARYk6AEOtBoSayClQK_CHA9USnlDAwoUtPS5uLzzS_KtAjIT8_IdagxqFKpBNijYWGjZgRnA5s3j5vlA3AXEi4C4Q6FG4XHTWiBrBZgG8ZYA8U4g3gXEa0Aizf1AvAdkPMiMGgVjBV0wNoXiGgUzIAmCCBH8agxAInAXNe0Gmr8ZSG9_3LwUZBPIzglQsc1gN-0HYqALm-eB3Q4S2Y5wD8hkEDaHYlS7QBChBiQCcleNghFUDgTR3AO1DeyuHrBrQHaDcB84JEAioFBcCFSzAcwGiXQTCiGY_RARozggBSYw3Y3pJrDte6Cx1gcLE5ArmtYD8VawyF6gSAMQt8BCqXkVwk247MMMFRA2hGJs4VTLxaVrpwBKaQpAWpkLAA)]
 
 ## 分析
 
@@ -75,14 +71,14 @@ d4 d4 B4 B4 | A4 A4 G4 E4 | D4 D4 C4 C4 | D12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 皇統 ]
 ================================================================================
-⏱  Duration:       1:31 (91.4s), 32 measures total
+⏱  Duration:       0:45 (45.7s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [Koto #1 @ m.15, 0:41]
    - 最高音: D5 in [Koto #1 @ m.11, 0:28]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Koto (45.7s) -> Koto (45.7s)
+🏛  結構:      Koto (45.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -90,10 +86,9 @@ d4 d4 B4 B4 | A4 A4 G4 E4 | D4 D4 C4 C4 | D12 z4 |
    - 核心骨幹音:  A, G, D, E, B
    - 調性數值:    G 調性不明確 [相關度: 0.76, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.76), D 大調 (0.76), A 小調 (0.55)
-   - 五度圈歷程:   +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [Koto #1]: G 調性不明確 (r: 0.76, 自然音純度: 100.0%)
-     • [Koto #2]: G 調性不明確 (r: 0.76, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -120,7 +115,7 @@ d4 d4 B4 B4 | A4 A4 G4 E4 | D4 D4 C4 C4 | D12 z4 |
      B  : ████████                  10.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 100 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 50 個音符)
 ================================================================================
 ```
 

@@ -67,21 +67,12 @@ V:V1 name="Voice" snm="Voi"
 D4 D4 F4 F4 | A4 c2 F2 G8 | B4 B4 B4 c4 | d4 d4 d4 c4 |
 F4 G4 A2 G2 A2 F2 | G12 z4 | B4 B4 d4 d4 | c4 d2 F2 G8 |
 D4 D4 F4 F4 | A4 c2 F2 G8 | D4 D4 D4 C4 | D4 F4 D2 C2 B,4 |
-!pp! B4 c4 d2 c2 d2 B2 | c12 z4 | !p! F4 F4 G8 | B,2 C2 D2 B,2 C8 |
-A4 A4 c4 c4 | G4 A2 F2 G8 | D4 D4 F4 F4 | A4 c2 F2 G8 |
-B4 B4 B4 c4 | d4 d4 d4 c4 | F4 G4 A2 G2 A2 F2 | G12 z4 |
-B4 B4 d4 d4 | c4 d2 F2 G8 | D4 D4 F4 F4 | A4 c2 F2 G8 |
-D4 D4 D4 C4 | D4 F4 D2 C2 B,4 | !pp! B4 c4 d2 c2 d2 B2 | c12 z4 |
-!p! F4 F4 G8 | B,2 C2 D2 B,2 C8 | A4 A4 c4 c4 | G4 A2 F2 G8 |
-D4 D4 F4 F4 | A4 c2 F2 G8 | B4 B4 B4 c4 | d4 d4 d4 c4 |
-F4 G4 A2 G2 A2 F2 | G12 z4 | B4 B4 d4 d4 | c4 d2 F2 G8 |
-D4 D4 F4 F4 | A4 c2 F2 G8 | D4 D4 D4 C4 | D4 F4 D2 C2 B,4 |
 !pp! B4 c4 d2 c2 d2 B2 | c12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](komoriuta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiZI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq1ySnNyEpMqEcJp-UW5VsUlRfkFGZnJCOGSjFSgV9MSczNzkBRDRBPzMnMTc9BFC3IS84CO1tJSeLp2wtN1HU-ntChoaXEp2iqYWXLZ2yo46nBlp1baKrjlctmY6JvYgbQ_bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdygAWU93rH4-ZYXC0-27n-zofNzQ_XzNmqezZz_tbXyyq-f93nlQ9o7Olwsa3-_peLp08_Mp85_um_R0QwdQ27PZmyDqgYz3ezrBfvBz8VFwyUzPLEnMUXCGp4FihQBPFwVILAPNySgpKSi20tdPydHLA-L0fL2sAv2CzBR9mIrOZ33Nz_r7FUBxC5RLV-Li0tdSsKUW4FJQUHjaNx8YBi82t79Y0fWiox0YMC9WznvauuLZtHagC0HeQDiZCmHXg-YjoB-BMQVyyItV-581LAc5obv3xcz5QNFnK2Y-buh5sa7rcWMLUBZkUEfb4-Y-UEh39wITxOOGXqAbX6ydA1QPFHw5s_fFihlgvT1P1y973rTr5fQ5T_Y3Pd3QD9T-uHnG8_lrgYz3e_rdFCBiCsA0owA0C-yKnkczV9qaWQIZQFuftcx-3LzycdP2x03rgdaAHbhiN9B4ULqatu5F46aXzSuASoH-er6-AeguIAkMGJAHV8x8uRAo3v1yZgtQC9AsSIoBuhcYTECbgMY9bmh6Oa375YK1CgVAHaAAA4VQM9BRQGNe7O1UKACKd7xcNu3ZmoXA5Py8f9-zOQ1P92yEeA8s2_lkxzKgVQpFmSV6QOOAZjzZ0QAxAMwGWtMICagnu6Y83z4LGErAAFFwB6U783gFXYiXn29YCJQAutEc6Cqgm59N2_lsT__T3g1P9va9nL_55e55ID_uXopsxrNd04AWQtPO09Ydz_ZMebq0_9nmFc9a-kGxBmY8n7nnWfNmoOaXDfOf7lr2fPvKZ62LgFY_bl72uLn5cRMwOlY9bgQFx5MdU572r3_WBozNxqfrlwMte7oPFL7A0AQmtvd7Zj9tX_i0dTUwiIEOer5m2dNuYDpZCjJ5QcfTOZOf7Z4IVwkKpH09wGQHCYdne4Bu2_Fsyj6g7RBngBLGsqZn2zqetkJtedGxBqj3-VSg28DaYWEMdCo4lCFx8GTvfnDczX65YMLz_ZOA-RzoZKDI005gMtzxdOeWxw0dz-Z0PG7ofLKzGyiLGj6zN0FCBhjMjxsnP24CkuuBqeHJvtmPG9c9b1n4smnVsw2LHzcCA2Td48bVjxubgAoeNwJll71YueBx0-THjQvAUstBUk3dQNOfrV0CyqmN84BZA6gMpL6hEczuBpsw-3FT_-PG6WCRhY8bpzxuano-B2hU5-PGWWAF659ubH3cuA-koKHpxdxtQAUvujYCyZeLVrzY3QVkgA3cD3TV8xWzQHmtcd3TJYuAeoFBB3ID1DFAA9uA8Qi2aCvQm0DTQNkF5HtgegSaAWLB3NABzHrv9-wBmdzU8bgR6MK1YKPAsmAvQFQDRRtAwQRSBNUJdg3QnxApYBCAlYIc3gD0BzBsgE7YBmI0TQLKvVgGNBVD9ePGTUAHQ90AZDfvAbkfZDB2cZCeZ6t3g41fCHYoLuObIB7eBSw5kNwFdR00YpaAg3v5y0ZgcQYUh7gIHAwvFwOjehuS6mVP9kx83NQIVfR86kSgzS_65zxfAU4eDY1P9gHDfNnjJqCpMxHqQHyg0yFCSHK4xMEpdD0wYoEmTQB6A54kwW6Y-7hxA9A2qFUwH4KLFbAPgWkE4losMQkyAax871RIUD3dvRsSDchsSJR0g1Nqy-OmuUC3vFwIjGtECKMp7QdyYLHUD44liJHYxWGx19QCSyUrwM4FJtpeEBvIAAUmOKNSXpVCgYKWPheXd35uflFmaUmiVVh-ZnKqQ41BjUI1yBoFG0MzLTswq7qgFkwDq_PHzY3AuNsCpFco1EB4zXugIkAaKtoLxAuAeA2yOjQ1K4Ai66FqV4OcArKhRsEMWNyDIZwBqgBQYI2CEUjIGESYgAgEF1WZIZQFo43R6BqE2SAlYBux2Aa2AwThDExH1mAGEMir_WCvtkF5U6HsqWDRPiDuAOJpYDZIZBMQz4eqgQQhSBQpcJA9gsu1RlAWOo3wtAnMO2g0QgVm2INsBnPgAYUUeOjQADNQJgHxSjgN8haIBQoUBA-XPNz76F5C90AN3AsgEYqik5ighvuuaSs0LYN8AIlKUL5YDY1kkC82gUUhkasBagZpQuMYJAnKKnvQ4xrTmXAGPKkjqYI7HSwCVgHOFhBl1QUFtRgpARRIIDaIBskhgg93hNZycenaKcALDQW8HGUuAA)]
+- [主旋律 TMD 檔案](komoriuta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiZI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq1ySnNyEpMqEcJp-UW5VsUlRfkFGZnJCOGSjFSgV9MSczNzkBRDRBPzMnMTc9BFC3IS84CO1tJSeLp2wtN1HU-ntChoaXEp2iqYWXLZ2yo46nBlp1baKrjlctmY6JvYgbQ_bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdygAWU93rH4-ZYXC0-27n-zofNzQ_XzNmqezZz_tbXyyq-f93nlQ9o7Olwsa3-_peLp08_Mp85_um_R0QwdQ27PZmyDqgYz3ezrBfvBz8VFwyUzPLEnMUXCGp4FihQBPFwVILAPNySgpKSi20tdPydHLA-L0fL2sAv2CzBR9mIrOZ33Nz_r7FUBxC5RLV-Li0tdSsKUW4FJQUHjaNx8YBi82t79Y0fWiox0YMC9WznvauuLZtHagC0HeQDiZCmHXg-YjoB-BMQVyyItV-581LAc5obv3xcz5QNFnK2Y-buh5sa7rcWMLUBZkUEfb4-Y-UEh39wITxOOGXqAbX6ydA1QPFHw5s_fFihlgvT1P1y973rTr5fQ5T_Y3Pd3QD9T-uHnG8_lrgYz3e_rdFCBiCsA0owA0C-yKnkczV9qaWQIZQFuftcx-3LzycdP2x03rgdaAHbhiN9B4ULqatu5F46aXzSuASoH-er6-AeguIAkMGJAHV8x8uRAo3v1yZgtQC9AsSIoBuhcYTECbgMY9bmh6Oa375YK1CgVAHaAAA4VQM9BRQGNe7O1UKACKd7xcNu3ZmoXA5Py8f9-zOQ1P92yEeA8s2_lkxzKgVQpFmSV6QOOAZjzZ0QAxAMwGWtMICagnu6Y83z4LGErAAFFwB6U783gFXYiXn29YCJQAutEc6Cqgm59N2_lsT__T3g1P9va9nL_55e55ID_uXopsxrNd04AWQtPO09Ydz_ZMebq0_9nmFc9a-kGxBmY8n7nnWfNmoOaXDfOf7lr2fPvKZ62LgFY_bl72uLn5cRMwOlY9bgQFx5MdU572r3_WBozNxqfrlwMte7oPFL7A0AQmtvd7Zj9tX_i0dTUwiIEOer5m2dNuYDpZCjJ5QcfTOZOf7Z4IVwkKpH09wGQHCYdne4Bu2_Fsyj6g7RBngBLGsqZn2zqetkJtedGxBqj3-VSg28DaYWEMdCo4lCFx8GTvfnDczX65YMLz_ZOA-RzoZKDI005gMtzxdOeWxw0dz-Z0PG7ofLKzGyiLGj6zN0FCBhjMjxsnP24CkuuBqeHJvtmPG9c9b1n4smnVsw2LHzcCA2Td48bVjxubgAoeNwJll71YueBx0-THjQvAUstBUk3dQNOfrV0CyqmN84BZA6gMpL6hEczuBpsw-3FT_-PG6WCRhY8bpzxuano-B2hU5-PGWWAF659ubH3cuA-koKHpxdxtQAUvujYCyZeLVrzY3QVkgA3cD3TV8xWzQHmtcd3TJYuAeoFBB3ID1DFAA9uA8Qi2aCvQm0DTQNkF5HtgegSaAWLB3NABzHrv9-wBmdzU8bgR6MK1YKPAsmAvQFQDRRtAwQRSBNUJdg3QnxApYBCAlYIc3gD0BzBsgE7YBmI0TQLKvVgGNBVD9ePGTUAHQ90AZDfvAbkfZDB2cZCeZ6t3g41fCHYoLuObIB7eBSw5kNwFdR00YpaAg3v5y0ZgcQYUh7gIHAwvFwOjehuS6mVP9kx83NQIVfR86kSgzS_65zxfAU4eDY1P9gHDfNnjJqCpMxHqQHyg0yFCSHK4xMEpdD0wYoEmTQB6A54kwW6Y-7hxA9A2qFUwH4KLFbAPgWkE4losMQkyAax871RIUD3dvRsSDchsSJR0g1Nqy-OmuUC3vFwIjGtECKMp7QdyYLHUD44liJHYxWGx19QCSyUrwM4FJtpeEBvIAAUmOKNSXpVCgYKWPheXd35uflFmaUmiVVh-ZnKqQ41BjUI1yBoFG0MzLTswq7qgFkwDq_PHzY3AuNsCpFco1EB4zXugIkAaKtoLxAuAeA2yOjQ1K4Ai66FqV4OcArKhRsEMWNyDIZwBqgBQYI2CEUjIGESYgAgEF1WZIZQFo43R6BqE2SAlYBux2Aa2AwThDExH1mAGEMir_WCvtkF5U6HsqWDRPiDuAOJpYDZIZBMQz4eqgQQhSBQpcJA9gsu1RlAWOo3wtAnMO2g0QgVm2INsBnPgAYUUeOjQADNQJgHxSjgN8haIBQoUBA-XPNz76F5C90AN3AsgEYqik5ighvuuaSs0LYN8AIlKUL5YDY1kkC82gUUhkasBagZpQuMYJAnKKnvQ4xrTmXAGPKkjqYI7HSwCVgHOFhBl1QUFtRgpARRIIDaIBskhgg93hNZycenaKcALDQUgR5kLAA)]
 
 ## 分析
 
@@ -89,14 +80,14 @@ D4 D4 F4 F4 | A4 c2 F2 G8 | D4 D4 D4 C4 | D4 F4 D2 C2 B,4 |
 ================================================================================
 📊 TMD Song Profile: [ 子守唄 ]
 ================================================================================
-⏱  Duration:       3:07 (187.8s), 54 measures total
+⏱  Duration:       1:02 (62.6s), 18 measures total
 🎼 Key & Tempo:    首調基準 A,, != 69.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A#3 (MIDI 58) – C#5 (MIDI 73) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  A#3 in [Komoriuta #1 @ m.2, 0:03]
    - 最高音: C#5 in [Komoriuta #1 @ m.8, 0:24]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Komoriuta (62.6s) -> Komoriuta (62.6s) -> Komoriuta (62.6s)
+🏛  結構:      Komoriuta (62.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
@@ -104,11 +95,9 @@ D4 D4 F4 F4 | A4 c2 F2 G8 | D4 D4 D4 C4 | D4 F4 D2 C2 B,4 |
    - 核心骨幹音:  C#, G, C, F, A#
    - 調性數值:    F 小調 [相關度: 0.58, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): F 小調 (0.58), A# 小調 (0.43), C# 大調 (0.42)
-   - 五度圈歷程:   -1 -> -1 -> -1
+   - 五度圈歷程:   -1
    - 各段落調性細節:
      • [Komoriuta #1]: F 小調 (r: 0.58, 自然音純度: 100.0%)
-     • [Komoriuta #2]: F 小調 (r: 0.58, 自然音純度: 100.0%)
-     • [Komoriuta #3]: F 小調 (r: 0.58, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -135,7 +124,7 @@ D4 D4 F4 F4 | A4 c2 F2 G8 | D4 D4 D4 C4 | D4 F4 D2 C2 B,4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Voice         : A#3 – C#5 (15 個半音 / 1.2 個八度, 213 個音符)
+  - Voice         : A#3 – C#5 (15 個半音 / 1.2 個八度, 71 個音符)
 ================================================================================
 ```
 

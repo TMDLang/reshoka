@@ -61,15 +61,12 @@ V:V1 name="Vocal" snm="Voc"
 G8 B4 A4 | G4 F2 E2 D4 B,4 | D4 G2 A2 B4 A2 G2 | A12 z4 |
 G6 A2 B4 A4 | G4 F2 E2 D4 B,4 | D4 G2 A2 B4 A4 | G8 z8 |
 B2 B2 A2 G2 G4 F2 F2 | E2 E2 G2 G2 D2 D2 D2 z2 | D4 G2 A2 B6 c2 | d4 e4 d4 z4 |
-B8 d4 z4 | A4 A2 B2 G4 z4 | G8 B4 A4 | G4 F2 E2 D4 B,4 |
-D4 G2 A2 B4 A2 G2 | A12 z4 | G6 A2 B4 A4 | G4 F2 E2 D4 B,4 |
-D4 G2 A2 B4 A4 | G8 z8 | B2 B2 A2 G2 G4 F2 F2 | E2 E2 G2 G2 D2 D2 D2 z2 |
-D4 G2 A2 B6 c2 | d4 e4 d4 z4 | B8 d4 z4 | A4 A2 B2 G4 z4 |
+B8 d4 z4 | A4 A2 B2 G4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsubame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGJKboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW4l5mbkgvVpaCo8blzxu3PC4qfH9no7n7VOfrp3wfk-ngpYWl6KtgqGBCZe9rYI7l42JvokdyIynUzY-W9vzdMc0BZDvFTSe7Oh8unOLgr7Cs2kbnuydA5EGcl9MXvNiQheQ-3J2m4Kp2csFjZpKXFz6Wgq21AJcCgrY3Q6SCIYEtQLCuRpGBkYGegYGZnoGFibGmjpg9-tlFaSDlPsmFqVn5iXmKIAirdhKwdAC6AU8XoP4CKTTO7XSSuFxc8eLVfsVNNwVchOz8ouAhodkAgNZARhoIDU-lUWZycVWIKahnsLjprWPm7sfN-183LwJqHPP46b1j5unAoVXPW5eAuI3tzxungBmLAT7sWnR46atj5tWP25eCVQPlNkMlpz3uLkdKLkCJAnidzxuBprQDdPSvPBxcx_Q4MfNQI2THjcvAoquftwEVDgVbCNQqBsiCjRuGdgdK4BCQBuABgNZU8EGgRy6HUhNety0BqxmO0jYCOgLSMg3ghze8rhxJliy4XET0IDGTY8b94H5TY8bVz1u7IfEFFAVUMv0x02TgRygfzrBSiY_blwN5K943Aj2FVBj43qgKRAtXWCz1z1uBKqa_Lip93HTJKAokLMSbPZ6sHGdjxtnAUWBFs0Bm7AapK9xLtjCFRBzgHK9QAro8X6wkgkgYcpTIBQoaOlzcYUUlyYlAuM8LD85McehxqBGoRpkiYKNhZYdmFGjYKigC4bGQGwExBAR83gFs3gF03iQBIiogbANgUogCg2BQiDlMGgAUgQ2EpibHHLAactWQQmYrEDRBYyOnUAanLKA7PVAGpy2gPQSiFhzCygVQdkLlUCuRzUs3ghkXCNQeeMGUKiBYhhIz4Qa2QDE4FgG4n1QsSZQIEPYjf1wI2FehvmEaC_DFMK8C4JYvQxKvltBCRtoNzhzAPFmqNfmATE4g0DUgMU6gBjkzm7c3gZ5FeT16UBt4JQKpDuh3gTxwakViKHWgIKgERjKTQgja4C-MAZHHNSzQFQD8jEQgcSAnoUgA3Sf6yqYgISAtBkQg2ickQ30efNCIO6DRHAzKASAmQOSzYEY5FtQzIESAEgclLHBmR1IL4N6B-gNSIYHYhB7Ku5Q6YImgnWg_AfBTcAsBcmPQAwMfHAiAFoHDjlgiEFyJRDPgYYUKOSA5jTOBRUGoFBECTFILMP9DE4FoFABhSGuUAAnd3DxBKTXQH21HbcvQK4BFwRAZf1QV00AK6_l4tK1U4BmYgVUpjIXAA)]
+- [主旋律 TMD 檔案](tsubame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGJKboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW4l5mbkgvVpaCo8blzxu3PC4qfH9no7n7VOfrp3wfk-ngpYWl6KtgqGBCZe9rYI7l42JvokdyIynUzY-W9vzdMc0BZDvFTSe7Oh8unOLgr7Cs2kbnuydA5EGcl9MXvNiQheQ-3J2m4Kp2csFjZpKXFz6Wgq21AJcCgrY3Q6SCIYEtQLCuRpGBkYGegYGZnoGFibGmjpg9-tlFaSDlPsmFqVn5iXmKIAirdhKwdAC6AU8XoP4CKTTO7XSSuFxc8eLVfsVNNwVchOz8ouAhodkAgNZARhoIDU-lUWZycVWIKahnsLjprWPm7sfN-183LwJqHPP46b1j5unAoVXPW5eAuI3tzxungBmLAT7sWnR46atj5tWP25eCVQPlNkMlpz3uLkdKLkCJAnidzxuBprQDdPSvPBxcx_Q4MfNQI2THjcvAoquftwEVDgVbCNQqBsiCjRuGdgdK4BCQBuABgNZU8EGgRy6HUhNety0BqxmO0jYCOgLSMg3ghze8rhxJliy4XET0IDGTY8b94H5TY8bVz1u7IfEFFAVUMv0x02TgRygfzrBSiY_blwN5K943Aj2FVBj43qgKRAtXWCz1z1uBKqa_Lip93HTJKAokLMSbPZ6sHGdjxtnAUWBFs0Bm7AapK9xLtjCFRBzgHK9QAro8X6wkgkgYcpTIBQoaOlzcYUUlyYlAuM8LD85McehxqBGoRpkiYKNhZYdmFGjYKigC4bGQGwExBAR83gFs3gF03iQBIiogbANgUogCg2BQiDlMGgAUgQ2EpibHHLAactWQQmYrEDRBYyOnUAanLKA7PVAGpy2gPQSiFhzCygVQdkLlUCuRzUs3ghkXCNQeeMGUKiBYhhIz4Qa2QDE4FgG4n1QsSZQIEPYjf1wI2FehvmEaC_DFMK8C4JYvQxKvltBCRtoNzhzAPFmqNfmATE4g0DUgMU6gBjkzm7c3gZ5FeT16UBt4JQKpDuh3gTxwakViKHWgIKgERjKTQgja4C-MAZHHNSzQFQD8jEQgcSAnoUgA3Sf6yqYgISAtBkQg2ickQ30efNCIO6DRHAzKASAmQOSzYEY5FtQzIESAEgclLHBmR1IL4N6B-gNSIYHYhB7Ku5Q6YImgnWg_AfBTcAsBcmPQAwMfHAiAFoHDjlgiEFyJRDPgYYUKOSA5jTOBRUGoFBECTFILMP9DE4FoFABhSGuUAAnd3DxBKTXQH21HbcvQK4BFwRAZf1QV00AK6_l4tK1U4BmYgUgU5kLAA)]
 - [鋼琴伴奏 TMD 檔案](tsubame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuORx44bHTY3v93Q8b5_6dO2E93s6FbS0uBRtFQwNTLjsbRXcuWxM9E3suOoUlJ5O2fhsbc_THdMUAoxMTBU0nuzofLpzi4K-wrNpG57snQORBnJfTF7zYkIXkPtydpuCqdnLBY2aSlxc-loKttQCXAoKONz-qGGKQkBmYl6-gmNycn5uQWJeZm5qXglIQ3B-aVFyqpUCwhsaRgZGBnoGBmZ6BhYmxpo6YH_pZRWkg5T7JhalZ-Yl5ijk5ZekFlspGFoAvYbHyxCfgnRS7j8oUNDS5-IKKS5NSsxNtQrLT07McagxqFGoBlmiYGOhZQdm1CgYKuiCoTEQGwExRMQ8XsEsXsE0HiQBImogbEOgEohCQ6AQSDkMGoAUgY0ExpVDTmVRZnKxrYLS46a1Co-buxUeN-0E0puAeA-QvR5ITwXSq4D0EohYcwsQT4CyFyqBXI9qWLwRyLhGoPLGDUAM0g7U0jgTamQDEAOtaQRa0bgPKtYEZIOsALIb--FGwrwM8wnRXoYphHkXBLF6eRHQ7q1AvBpo90qotzZDvTYPiNuBcisgasBiHUAMcmc3bm-DvAry-nSgtslAGmR8J9SbID7QqkagkY1Qa0BB0AgM5SaEkTVAXxiDIw7qWSCqAfkYiEBiQM9CkAG6z3UVTEBCQNoMiEE0zsgG-rx5IRD3QSK4GRQCk4AYFCJAdhPIt6CYAyUAkDgwxsByIGcvg3oH6A2wOCikQOypuEOlC5oI1gExKBSAuKkXiIFGg_nAwAcnAqB14JADhljjLEiiaJwDDSlQyAHNaZwLxCCzVqCEGCSW4X4GpwJQqIDCEFcogJP7dogPm9ZAfbUdty9ArgG6Gpyk-6GumgBWXovIweByKcgDex6uzk2rBSZabZCrgBQk9rRBrjeN14YkXKgsJJHD1KCnc4geSOYG6jSHaAaHAIiH4me4kWANZFgGVA3VBLUHrA_IxZ7HyEu_EIdBUrChNigeDbVBqRjCRvYNTCWKHJLrQLGOcB9EJ3r8-KDEjwmijAU5DOhMCAVydbyCCbIAkAESA1LGYD5I1AiIQTTQPyQaA-LABaA6MEwBWQSxDGQE1BhQ2CH0gMwC8xGyGC6BhDaKNcBQ8cwrKcrHlmYRYVKdW1CrEG0YqxBtCsRmuUDCGEjUKESbAJlGID5QAhrKSObhDWNIegP7CRh-kGQANsA1LyUzL52Qi4C5CGw73EVABtBBQEfCUiKaUbgcA7Qe4hggCXYakn5dOwWwdxSADGjqATEhxoJYylwA)]
 
 ## 分析
@@ -78,14 +75,14 @@ D4 G2 A2 B6 c2 | d4 e4 d4 z4 | B8 d4 z4 | A4 A2 B2 G4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ つばめ（燕子） ]
 ================================================================================
-⏱  Duration:       1:04 (64.6s), 28 measures total
+⏱  Duration:       0:32 (32.3s), 14 measures total
 🎼 Key & Tempo:    首調基準 G, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    B3 (MIDI 59) – E5 (MIDI 76) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  B3 in [Tsubame #1 @ m.2, 0:04]
    - 最高音: E5 in [Tsubame #1 @ m.12, 0:25]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Tsubame (32.3s) -> Tsubame (32.3s)
+🏛  結構:      Tsubame (32.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -93,10 +90,9 @@ D4 G2 A2 B6 c2 | d4 e4 d4 z4 | B8 d4 z4 | A4 A2 B2 G4 z4 |
    - 核心骨幹音:  G, B, A, D, E
    - 調性數值:    G 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.83), D 大調 (0.74), B 小調 (0.66)
-   - 五度圈歷程:   +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [Tsubame #1]: G 大調 (r: 0.83, 自然音純度: 100.0%)
-     • [Tsubame #2]: G 大調 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -123,7 +119,7 @@ D4 G2 A2 B6 c2 | d4 e4 d4 z4 | B8 d4 z4 | A4 A2 B2 G4 z4 |
      B  : ████████████████████      22.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : B3 – E5 (17 個半音 / 1.4 個八度, 116 個音符)
+  - Vocal         : B3 – E5 (17 個半音 / 1.4 個八度, 58 個音符)
 ================================================================================
 ```
 

@@ -68,23 +68,11 @@ D2 D2 D4 | G2 G2 G4 | A2 A2 B2 B2 | A6 z2 |
 B2 B2 B2 B2 | d2 d2 d2 d2 | B2 c2 B2 A2 | G6 z2 |
 A2 B2 B2 G2 | A2 A2 B2 G2 | E2 E2 G2 E2 | D6 z2 |
 E2 G2 E4 | D2 D2 G2 B2 | A2 A2 B2 A2 | G6 z2 |
-D2 D2 D4 | G2 G2 G4 | A2 A2 B2 B2 | A6 z2 |
-B2 B2 B2 B2 | d2 d2 d2 d2 | B2 c2 B2 A2 | G6 z2 |
-A2 B2 B2 G2 | A2 A2 B2 G2 | E2 E2 G2 E2 | D6 z2 |
-E2 G2 E4 | D2 D2 G2 B2 | A2 A2 B2 A2 | G6 z2 |
-D2 D2 D4 | G2 G2 G4 | A2 A2 B2 B2 | A6 z2 |
-B2 B2 B2 B2 | d2 d2 d2 d2 | B2 c2 B2 A2 | G6 z2 |
-A2 B2 B2 G2 | A2 A2 B2 G2 | E2 E2 G2 E2 | D6 z2 |
-E2 G2 E4 | D2 D2 G2 B2 | A2 A2 B2 A2 | G6 z2 |
-D2 D2 D4 | G2 G2 G4 | A2 A2 B2 B2 | A6 z2 |
-B2 B2 B2 B2 | d2 d2 d2 d2 | B2 c2 B2 A2 | G6 z2 |
-A2 B2 B2 G2 | A2 A2 B2 G2 | E2 E2 G2 E2 | D6 z2 |
-E2 G2 E4 | D2 D2 G2 B2 | A2 A2 B2 A2 | G6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](toki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu7njctPb9no5ncza-3L7r_Z5OBS0tLkVbBUMDEy57WwV3LhsjfRM7kAHPZm96v2fWsw07nuya-nTnjmdrFoLNfdG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgAdAAo5PWDI6YFCDsgwMAQ6RolLX0sBaPHz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6Qi9b2gMwHu__l4tnP9095Pqvl6fL9z1q7X3S0P21Z9Xxf39O9i15sXPi4oYlLS58LaCYX0HKux02rHjdPety09XHzZhR2Q8PjpiWPm-c9bu4CS-0AKl39uGnT4yaQox83bX_cvORx03q4OrDgDpCZQOpxczdYX8vjpv2Pm1eCFIG43UDNYMZqLrDJjY-b-x43AQ1f9rh5AogNUjf1cdMKhDquJ7t6yHRkJ9ghaI4ECQIdCZEj6MimRY-bF4LMALlzP8gMkGvXwJS2PG5uAxkPdueOTrLc-bR1LWZgggV3cEEoYgITYjjQkUBL20CKIIEJtKS5Fykwn86eDbYZIti0BewYMAmxGeQXoKegngeqW_m4aSdYPzAggEbPgBk6A6gCbGU7UN3mx82dIBUgI4ExCYxV7OrA9jb3Q13btAvkB-SQbN4AsheUOH0TM_OsAjIT8_IdagxqFKpBKV7BxtBMyw7MqlEwjVfQRSJAsEbBEEjCMETECEiCsDEUQ0Rg0AAkAjUQpgKh0hRkOBKGqDGByoPMgdiIzTRkO0FqUF0CETEDORxMgPhgBtRf2ExEVQjxHcL_IAmE_2D24HJjLReXrp0CKIwV8NDKXFwA)]
+- [主旋律 TMD 檔案](toki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu7njctPb9no5ncza-3L7r_Z5OBS0tLkVbBUMDEy57WwV3LhsjfRM7kAHPZm96v2fWsw07nuya-nTnjmdrFoLNfdG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgAdAAo5PWDI6YFCDsgwMAQ6RolLX0sBaPHz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6Qi9b2gMwHu__l4tnP9095Pqvl6fL9z1q7X3S0P21Z9Xxf39O9i15sXPi4oYlLS58LaCYX0HKux02rHjdPety09XHzZhR2Q8PjpiWPm-c9bu4CS-0AKl39uGnT4yaQox83bX_cvORx03q4OrDgDpCZQOpxczdYX8vjpv2Pm1eCFIG43UDNYMZqLrDJjY-b-x43AQ1f9rh5AogNUjf1cdMKhDquJ7t6yHRkJ9ghaI4ECQIdCZEj6MimRY-bF4LMALlzP8gMkGvXwJS2PG5uAxkPdueOTrLc-bR1LWZgggV3cEEoYgITYjjQkUBL20CKIIEJtKS5Fykwn86eDbYZIti0BewYMAmxGeQXoKegngeqW_m4aSdYPzAggEbPgBk6A6gCbGU7UN3mx82dIBUgI4ExCYxV7OrA9jb3Q13btAvkB-SQbN4AsheUOH0TM_OsAjIT8_IdagxqFKpBKV7BxtBMyw7MqlEwjVfQRSJAsEbBEEjCMETECEiCsDEUQ0Rg0AAkAjUQpgKh0hRkOBKGqDGByoPMgdiIzTRkO0FqUF0CETEDORxMgPhgBtRf2ExEVQjxHcL_IAmE_2D24HJjLReXrp0CKIwVgLQyFxcA)]
 - [鋼琴伴奏 TMD 檔案](toki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PG4ae37PR2Pm6c8blr0uLnvyZ4tT5f2P9k94_2eTgUtLS5FWwVDAxMue1sFdy4bI30TO646BaVnsze93zPr2YYdT3ZNfbpzx7M1C5VAwi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8ygqgY4wMjAz0DAzM9AwsTMyBDANDoGOUuLh8EzPzrAIyE_PygzwcagxqFKq5FIDAxtBMyw7MqlEwjVfQRSJAsEbBEEjCMETECEiCsDEUQ0Rg0AAkAjUQpgKh0hRkOBKGqDGByoPMgdiIzTRkO0FqUF0CETEDORxMgPhgBtRf2ExEVQjxHcL_IAmE_2D24HJjLXIQ-6AEsQU8hKNN42OBqqEUkG8I5oJJhCwqF2QBzMFo6rHxUI1G0YzVeDjXBMKFUFj1Y1WBbhw2-4Fho2unAAoeBTy0MhcXAA)]
 
 ## 分析
@@ -93,14 +81,14 @@ E2 G2 E4 | D2 D2 G2 B2 | A2 A2 B2 A2 | G6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ トキ（朱鷺） ]
 ================================================================================
-⏱  Duration:       1:13 (73.8s), 64 measures total
+⏱  Duration:       0:18 (18.5s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 104.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Main #1 @ m.1, 0:00]
    - 最高音: D5 in [Main #1 @ m.6, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (18.5s) -> Main (18.5s) -> Main (18.5s) -> Main (18.5s)
+🏛  結構:      Main (18.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -108,12 +96,9 @@ E2 G2 E4 | D2 D2 G2 B2 | A2 A2 B2 A2 | G6 z2 |
    - 核心骨幹音:  G, D, B, A, E
    - 調性數值:    G 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.85), D 大調 (0.74), B 小調 (0.63)
-   - 五度圈歷程:   +1 -> +1 -> +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [Main #1]: G 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Main #2]: G 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Main #3]: G 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Main #4]: G 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -140,7 +125,7 @@ E2 G2 E4 | D2 D2 G2 B2 | A2 A2 B2 A2 | G6 z2 |
      B  : █████████████████████     21.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 196 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 49 個音符)
 ================================================================================
 ```
 

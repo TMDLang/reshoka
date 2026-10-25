@@ -64,20 +64,12 @@ V:V1 name="Voice" snm="Voi"
 F8 z4 B,4 | E8 E4 E4 | D6 C2 B,4 B,4 | E8 D6 F2 |
 !mf! E8 z4 E4 | c8 c4 c4 | e6 B2 B4 B4 | c8 c4 c4 |
 !mp! B4 ^A4 B4 B,4 | E8 E4 E4 | F6 D2 B,4 B,4 | G8 F6 G2 |
-E8 z4 z4 | !mp! z4 z4 z4 B,4 | E8 E4 E4 | F6 D2 B,4 B,4 |
-G8 G6 A2 | F8 z4 B,4 | E8 E4 E4 | D6 C2 B,4 B,4 |
-E8 D6 F2 | !mf! E8 z4 E4 | c8 c4 c4 | e6 B2 B4 B4 |
-c8 c4 c4 | !mp! B4 ^A4 B4 B,4 | E8 E4 E4 | F6 D2 B,4 B,4 |
-G8 F6 G2 | E8 z4 z4 | !mp! z4 z4 z4 B,4 | E8 E4 E4 |
-F6 D2 B,4 B,4 | G8 G6 A2 | F8 z4 B,4 | E8 E4 E4 |
-D6 C2 B,4 B,4 | E8 D6 F2 | !mf! E8 z4 E4 | c8 c4 c4 |
-e6 B2 B4 B4 | c8 c4 c4 | !mp! B4 ^A4 B4 B,4 | E8 E4 E4 |
-F6 D2 B,4 B,4 | G8 F6 G2 | E8 z4 z4 |
+E8 z4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sekijuji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhZImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh3MzczJLEosq0cWT83NzS_MyS4ASWloKL7Yuedrb-HTtdAUtLS5FWwULCy57WwVXLhsTfRM7kM6n7btezJz6fs-sp60bn8_uejq17fmSfc9WND2dueLprumPG7qeTtn4bG3Ps6kzny-f-Gz2DgUg6-mO1c-nrFB4un3309mzHzd0P1-zBsgA2dO69v3eeRD2kx3NLxc0vt_T8XTp5udT5j_dN-nphg6gtmezNwHVP9nVA2S839MJdr6fi4-CS2Y60D85Cs7wCC9WCPB0UYBEKdCcjJKSgmIrff2UHL08IE7P18sq0C_ITNGHqeh81tf8rL9fARSRQDlgQHLpaynYUgtwKSgoPO2bDwyDF5vbX6zoetHRDgyYFyvnPW1d8WxaO9CFIG8gnEyFsOtB8xHQj8CYAjnkxar9zxqWg5zQ3fti5nyg6OPG3UBBkP6OtsfNfUAGUOrp2glAd7kqPF2yHCipAIx0BaAo2JieRzNX2lpYABmPG3qetcx_3Lzpye6lj5vbHjcAFfQ83bPxxdbtT3Y0ANWDLVyx-8WKGaB0ghGdINXT1r1o3PSyeQWQ_WRH5_P1DUBXAEmg7x83NL2c1v1ywdpnK2Yq5BYAFYCif0fni4VQO4AOBAVC6-qnG_qBWiABAnElWEsaRAsoWHb1wNWAElB37_OmXU972xUcFV7O3ww058muKc-3z3qxdg5Io_LjhsbnGxbCeCYQX0MsB2pVcAKKdICTzYqZz-Z0Pt297eXU7UA_goOz48PcFmDQQXVAAxPsXIg3gL6CpAXk-APG2bM5q17ObHm2Z8rTpf3PNq941tL_bE0LUDE08Txt3QEMMKAoKMIaeuC583HjeqBrn3VseLpgy-PG1c-m7XncuOzFpgVPm7a_aGh93DTpWXs7UPxxY8vjxvkgxU1dzzq7Hzc2AZU92d39rGvj48aZj5u6HzcBRdY9blwONA0Y5yCjgGYuBmpc97RrNtiEVSjKgCYAuY1AkU6Qlr0dT3bseDl7xcvFQMXrXk6b_LgRiOaCbGzsf9w0D6SscS1I5dLNwLT1uLEH5ublz2cvBLkBpH7dkx1dIIsae592A0XgtqwAu38rWM0KYKAAUxoiXF6smveyvRsSLkCdj5s6QPr3NwM9_2TXxMfAUGjoRfUM0DiwZxrXP9k7FeQHhAWrQU7s3fy4EegmkIOQAhrdNeDIAOZEoKVAbv_jRqBRwKAB2gKMErCNC7bAFOwH6QLqbeh9Pqf7xdrt0EAHRi_IH8DMArQWxAIbtfxx01ygdpB7GhofN-4DK-4EegdkPkQdmjeAomCfQLjz4IahBAbIZ63bns_c-2w60Dcgj0IUzX3cBLRlGTgugfEE9ktDI8LjMEfuAuZIiOUdQDXrns0DSkEjHhTls4ERAzURHuHAsgXoyGWgVANUOgfoNmAAzQfZh-Rd1JCDxMCGicB0AhaEhgdUAyytrH82A5iUO7C6cwcoQYJLnoUNjxuBXt0Ncu3WxsdNIA-8XAV00bqnGzfCnQCMZlAggYMAGIAtj5tAsQHMBE92dDxdshoSchClwJQJTLpTwQEGj1KgwUBHAr0AtKoXGMKg_IXk2tkvVi2ARByKU4HSlNcsUKCgpc_FFQxs4mSVZmVaheVnJqc61BjUKFSDbFGwsdCyAzOqcwtqwQxg5aYBKZM0FR43LVGoUXjc3A7Ee4G8_WAeiLUaSE8F4nkgkaadQNZKIN4Elu8D4kaQtSDjahQMFHTh2DQeSNQoGAJJEATRIFyjYATmm8dDVECVGUOVQWgTuDJks2BuhjgJ5IgOsCO6gBgk0g9mg0S64aIgJ-8D4rUIR2K6COgWkIAZqpNg6qCyRkhCIDdV56bVQvTD3dW8AmzT46bNsMBrBvKAQfW4aS9YZCEQt4HdDwvc9WA5uNvMoBaAaBAGWhkHFjAFQhAJEsJUBBI3UYcqAEUveoiBIqppOzjUQDYDQwoYweBwatoNDiOQq3c8bl4KFNwDFtiBL8DwRiFE0hgtuEC4hquWi0vXTgGWRBXwsJW5AA)]
+- [主旋律 TMD 檔案](sekijuji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhZImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh3MzczJLEosq0cWT83NzS_MyS4ASWloKL7Yuedrb-HTtdAUtLS5FWwULCy57WwVXLhsTfRM7kM6n7btezJz6fs-sp60bn8_uejq17fmSfc9WND2dueLprumPG7qeTtn4bG3Ps6kzny-f-Gz2DgUg6-mO1c-nrFB4un3309mzHzd0P1-zBsgA2dO69v3eeRD2kx3NLxc0vt_T8XTp5udT5j_dN-nphg6gtmezNwHVP9nVA2S839MJdr6fi4-CS2Y60D85Cs7wCC9WCPB0UYBEKdCcjJKSgmIrff2UHL08IE7P18sq0C_ITNGHqeh81tf8rL9fARSRQDlgQHLpaynYUgtwKSgoPO2bDwyDF5vbX6zoetHRDgyYFyvnPW1d8WxaO9CFIG8gnEyFsOtB8xHQj8CYAjnkxar9zxqWg5zQ3fti5nyg6OPG3UBBkP6OtsfNfUAGUOrp2glAd7kqPF2yHCipAIx0BaAo2JieRzNX2lpYABmPG3qetcx_3Lzpye6lj5vbHjcAFfQ83bPxxdbtT3Y0ANWDLVyx-8WKGaB0ghGdINXT1r1o3PSyeQWQ_WRH5_P1DUBXAEmg7x83NL2c1v1ywdpnK2Yq5BYAFYCif0fni4VQO4AOBAVC6-qnG_qBWiABAnElWEsaRAsoWHb1wNWAElB37_OmXU972xUcFV7O3ww058muKc-3z3qxdg5Io_LjhsbnGxbCeCYQX0MsB2pVcAKKdICTzYqZz-Z0Pt297eXU7UA_goOz48PcFmDQQXVAAxPsXIg3gL6CpAXk-APG2bM5q17ObHm2Z8rTpf3PNq941tL_bE0LUDE08Txt3QEMMKAoKMIaeuC583HjeqBrn3VseLpgy-PG1c-m7XncuOzFpgVPm7a_aGh93DTpWXs7UPxxY8vjxvkgxU1dzzq7Hzc2AZU92d39rGvj48aZj5u6HzcBRdY9blwONA0Y5yCjgGYuBmpc97RrNtiEVSjKgCYAuY1AkU6Qlr0dT3bseDl7xcvFQMXrXk6b_LgRiOaCbGzsf9w0D6SscS1I5dLNwLT1uLEH5ublz2cvBLkBpH7dkx1dIIsae592A0XgtqwAu38rWM0KYKAAUxoiXF6smveyvRsSLkCdj5s6QPr3NwM9_2TXxMfAUGjoRfUM0DiwZxrXP9k7FeQHhAWrQU7s3fy4EegmkIOQAhrdNeDIAOZEoKVAbv_jRqBRwKAB2gKMErCNC7bAFOwH6QLqbeh9Pqf7xdrt0EAHRi_IH8DMArQWxAIbtfxx01ygdpB7GhofN-4DK-4EegdkPkQdmjeAomCfQLjz4IahBAbIZ63bns_c-2w60Dcgj0IUzX3cBLRlGTgugfEE9ktDI8LjMEfuAuZIiOUdQDXrns0DSkEjHhTls4ERAzURHuHAsgXoyGWgVANUOgfoNmAAzQfZh-Rd1JCDxMCGicB0AhaEhgdUAyytrH82A5iUO7C6cwcoQYJLnoUNjxuBXt0Ncu3WxsdNIA-8XAV00bqnGzfCnQCMZlAggYMAGIAtj5tAsQHMBE92dDxdshoSchClwJQJTLpTwQEGj1KgwUBHAr0AtKoXGMKg_IXk2tkvVi2ARByKU4HSlNcsUKCgpc_FFQxs4mSVZmVaheVnJqc61BjUKFSDbFGwsdCyAzOqcwtqwQxg5aYBKZM0FR43LVGoUXjc3A7Ee4G8_WAeiLUaSE8F4nkgkaadQNZKIN4Elu8D4kaQtSDjahQMFHTh2DQeSNQoGAJJEATRIFyjYATmm8dDVECVGUOVQWgTuDJks2BuhjgJ5IgOsCO6gBgk0g9mg0S64aIgJ-8D4rUIR2K6COgWkIAZqpNg6qCyRkhCIDdV56bVQvTD3dW8AmzT46bNsMBrBvKAQfW4aS9YZCEQt4HdDwvc9WA5uNvMoBaAaBAGWhkHFjAFQhAJEsJUBBI3UYcqAEUveoiBIqppOzjUQDYDQwoYweBwatoNDiOQq3c8bl4KFNwDFtiBL8DwRiFE0hgtuEC4hquWi0vXTgGWRBWAbGUuAA)]
 
 ## 分析
 
@@ -85,14 +77,14 @@ F6 D2 B,4 B,4 | G8 F6 G2 | E8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 赤十字 ]
 ================================================================================
-⏱  Duration:       2:19 (139.1s), 51 measures total
+⏱  Duration:       0:46 (46.4s), 17 measures total
 🎼 Key & Tempo:    首調基準 E, != 88.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    B3 (MIDI 59) – E5 (MIDI 76) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  B3 in [Sekijuji #1 @ m.1, 0:02]
    - 最高音: E5 in [Sekijuji #1 @ m.11, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Sekijuji (46.4s) -> Sekijuji (46.4s) -> Sekijuji (46.4s)
+🏛  結構:      Sekijuji (46.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       E 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -100,11 +92,9 @@ F6 D2 B,4 B,4 | G8 F6 G2 | E8 z4 z4 |
    - 核心骨幹音:  E, B, C#, F#, G#
    - 調性數值:    E 大調 [相關度: 0.91, 穩定度: High, 自然音純度: 98.4%]
    - 候選調性 (K-S): E 大調 (0.91), B 大調 (0.70), C# 小調 (0.63)
-   - 五度圈歷程:   +4 -> +4 -> +4
+   - 五度圈歷程:   +4
    - 各段落調性細節:
      • [Sekijuji #1]: E 大調 (r: 0.91, 自然音純度: 98.4%, 調外音: A#)
-     • [Sekijuji #2]: E 大調 (r: 0.91, 自然音純度: 98.4%, 調外音: A#)
-     • [Sekijuji #3]: E 大調 (r: 0.91, 自然音純度: 98.4%, 調外音: A#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -131,7 +121,7 @@ F6 D2 B,4 B,4 | G8 F6 G2 | E8 z4 z4 |
      B  : ████████████████          22.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Voice         : B3 – E5 (17 個半音 / 1.4 個八度, 150 個音符)
+  - Voice         : B3 – E5 (17 個半音 / 1.4 個八度, 50 個音符)
 ================================================================================
 ```
 

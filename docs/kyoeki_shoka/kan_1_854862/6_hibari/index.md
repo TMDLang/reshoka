@@ -59,16 +59,11 @@ G3 G G2 G2 | c2 G2 G2 G2 | A3 G A2 B2 | c8 |
 d2 d2 G2 G2 | c2 c2 G2 G2 | d2 d2 G2 G2 | c2 c2 G2 G2 |
 E3 F G2 G2 | A3 G A2 B2 | c3 B c2 d2 | G8 |
 c3 c c2 c2 | d2 G2 G2 G2 | A3 G A2 B2 | c8 |
-!mf! G3 G G2 G2 | A2 G2 G2 G2 | A3 G A2 B2 | c2 G2 G4 |
-G3 G G2 G2 | c2 G2 G2 G2 | A3 G A2 B2 | c8 |
-d2 d2 G2 G2 | c2 c2 G2 G2 | d2 d2 G2 G2 | c2 c2 G2 G2 |
-E3 F G2 G2 | A3 G A2 B2 | c3 B c2 d2 | G8 |
-c3 c c2 c2 | d2 G2 G2 G2 | A3 G A2 B2 | c8 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hibari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeMtzA1sTAzQkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSghxPzMnMTc9BF8xJLSotSlbi0tBRezt70cnaDgpYWl6KtgqGRGZe9rYIzl42RvokdSNPT9l0vZk59v2fW09aNz2d3PZ3a9nzJvmcrmp7OXPF01_THDV1Pp2x8trbn2dSZz5dPfDZ7h8LzKfOf7pv0fMoKhafbdz_Z0fC4ofv5mjVPexuf7Op5v3ceiLGj8-WCxvd7OkDirWufzd70fk8n2IV-Lj4KLpnpmSWJOQrO8BgtVgjwdFGAxBlQV0ZJSUGxlb5-So5eHhCn5-tlFegXZKbow1R0PutrftbfrwCKKaAcMKS49LUUbKkFuBQUFJ72zQf69cXm9hcrul50tAMD4MXKeU9bVzyb1g50IcgbCCdTFEY9aH4B-g4YFyAnvFi1_1nDcpDl3b0vZs4Hij5uXA8UfDp79tOOtsfNfUCzgFJP104AushZ4emS5UBJBWC0KgBFwcb0PJq50hYY40DW44YeYJw-btr-uGn944ZesPkrdr9YMQNoLNBlQCc-Xbvj2Zz58Bh73NAE8u7sTUBbgM59uqH_-foGoEXP1ve_WNjzZNcUmAjIHqB7gGxgCADZQPVA9tMJPUAzn03vfrqvG2jUy2ndLxesfbZipkJuGpALtmX144ZGSIhAGEB7IWY-m7P6ae-GZ3M6n_XPfrZhMdCRYO93hAEtA2oG2v18-6wXa-cAg-b5hoVABtCmF-1boObOng10HzSwd86FmAjyIdhZYMXdL1uBoTb9xaolz5b0Pm_aBQybx40tjxv3PW5c97hxw_u9cx43AR0NDMOep_2bgbEEif0nQPGGnie7u8DK9oDVNIGVzYabDzKqedLj5pVYyIbGx81THjevwEICpRp6IXYBff68s_1pY_vTCSAHIDsYKPV052aIFNBqLlAkgtNWI4j1cs68x02THjdOBzuv73HjMqAEMO8_2TUVLDL3cVPn40ZQoINUP26cDEZAPy9_sq_tcVPH48YVjxuBXmoEs7c9btwEDIvHTV0wDXjcjtvHYIetngFyVVMLnAHS09gEdhWaJY0zHzcCI2M-MKWDHNPY_7gJyAX55AVEKVAQpBrqeXDSgWhcApadCgoCUCgAGUA7QBqf9q8CWwP0HTDmFiKC4MWEvWD-MrBlsCgFeh6n68iKWYjzuh43AY0Eeh4Yc5sfN2wFh3MLOKhRLXm6rxXoJAj5uAnsf2C8ATU3NKIlPZBqygs7KFDQ0ufi8shMSizKtArITMzLd6gxqFGoBtmhYGNopmUHZlXnptWCGcDi9nHTaiDeCQyV-UC8SaEGyNsOZPUB6XVAug0ssh7IWgTEG8AyIJG9QNZKIO4G8zZDcPM8IG4HOQJkeo2CqYIuEJqCaRCuUTCDslBFQGwQbQ4WMYxDUgCCWAxCOB9k7Qog7gB7BegYMG8aKJqBeAJYZBWYnAKVg9CYInBnozgAryuRYY2CEUgITCA0gpWhGIhwO9iFoECE0CAXYYg07YdGEShSluAQAUUNMMKgPob7g0j3KBiD3W9CjHfNIQywoUgeAQcwKBU1rYE4sLkfLAJyJijtAEWhKQmUUkBBPgEeXavQ0wtykEKtBVIIh0M9RnoEcdVycenaKUDyhwIKS5kLAA)]
+- [主旋律 TMD 檔案](hibari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeMtzA1sTAzQkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSghxPzMnMTc9BF8xJLSotSlbi0tBRezt70cnaDgpYWl6KtgqGRGZe9rYIzl42RvokdSNPT9l0vZk59v2fW09aNz2d3PZ3a9nzJvmcrmp7OXPF01_THDV1Pp2x8trbn2dSZz5dPfDZ7h8LzKfOf7pv0fMoKhafbdz_Z0fC4ofv5mjVPexuf7Op5v3ceiLGj8-WCxvd7OkDirWufzd70fk8n2IV-Lj4KLpnpmSWJOQrO8BgtVgjwdFGAxBlQV0ZJSUGxlb5-So5eHhCn5-tlFegXZKbow1R0PutrftbfrwCKKaAcMKS49LUUbKkFuBQUFJ72zQf69cXm9hcrul50tAMD4MXKeU9bVzyb1g50IcgbCCdTFEY9aH4B-g4YFyAnvFi1_1nDcpDl3b0vZs4Hij5uXA8UfDp79tOOtsfNfUCzgFJP104AushZ4emS5UBJBWC0KgBFwcb0PJq50hYY40DW44YeYJw-btr-uGn944ZesPkrdr9YMQNoLNBlQCc-Xbvj2Zz58Bh73NAE8u7sTUBbgM59uqH_-foGoEXP1ve_WNjzZNcUmAjIHqB7gGxgCADZQPVA9tMJPUAzn03vfrqvG2jUy2ndLxesfbZipkJuGpALtmX144ZGSIhAGEB7IWY-m7P6ae-GZ3M6n_XPfrZhMdCRYO93hAEtA2oG2v18-6wXa-cAg-b5hoVABtCmF-1boObOng10HzSwd86FmAjyIdhZYMXdL1uBoTb9xaolz5b0Pm_aBQybx40tjxv3PW5c97hxw_u9cx43AR0NDMOep_2bgbEEif0nQPGGnie7u8DK9oDVNIGVzYabDzKqedLj5pVYyIbGx81THjevwEICpRp6IXYBff68s_1pY_vTCSAHIDsYKPV052aIFNBqLlAkgtNWI4j1cs68x02THjdOBzuv73HjMqAEMO8_2TUVLDL3cVPn40ZQoINUP26cDEZAPy9_sq_tcVPH48YVjxuBXmoEs7c9btwEDIvHTV0wDXjcjtvHYIetngFyVVMLnAHS09gEdhWaJY0zHzcCI2M-MKWDHNPY_7gJyAX55AVEKVAQpBrqeXDSgWhcApadCgoCUCgAGUA7QBqf9q8CWwP0HTDmFiKC4MWEvWD-MrBlsCgFeh6n68iKWYjzuh43AY0Eeh4Yc5sfN2wFh3MLOKhRLXm6rxXoJAj5uAnsf2C8ATU3NKIlPZBqygs7KFDQ0ufi8shMSizKtArITMzLd6gxqFGoBtmhYGNopmUHZlXnptWCGcDi9nHTaiDeCQyV-UC8SaEGyNsOZPUB6XVAug0ssh7IWgTEG8AyIJG9QNZKIO4G8zZDcPM8IG4HOQJkeo2CqYIuEJqCaRCuUTCDslBFQGwQbQ4WMYxDUgCCWAxCOB9k7Qog7gB7BegYMG8aKJqBeAJYZBWYnAKVg9CYInBnozgAryuRYY2CEUgITCA0gpWhGIhwO9iFoECE0CAXYYg07YdGEShSluAQAUUNMMKgPob7g0j3KBiD3W9CjHfNIQywoUgeAQcwKBU1rYE4sLkfLAJyJijtAEWhKQmUUkBBPgEeXavQ0wtykEKtBVIIh0M9RnoEcdVycenaKUDyhwKQpcwFAA)]
 
 ## 分析
 
@@ -76,14 +71,14 @@ c3 c c2 c2 | d2 G2 G2 G2 | A3 G A2 B2 | c8 |
 ================================================================================
 📊 TMD Song Profile: [ 雲雀 ]
 ================================================================================
-⏱  Duration:       0:38 (38.1s), 40 measures total
+⏱  Duration:       0:19 (19.0s), 20 measures total
 🎼 Key & Tempo:    首調基準 C, != 126.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    E4 (MIDI 64) – D5 (MIDI 74) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
    - 最低音:  E4 in [Hibari #1 @ m.13, 0:11]
    - 最高音: D5 in [Hibari #1 @ m.9, 0:07]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Hibari (19.0s) -> Hibari (19.0s)
+🏛  結構:      Hibari (19.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -91,10 +86,9 @@ c3 c c2 c2 | d2 G2 G2 G2 | A3 G A2 B2 | c8 |
    - 核心骨幹音:  G, C, A, D, B
    - 調性數值:    G 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 99.4%]
    - 候選調性 (K-S): G 大調 (0.80), C 大調 (0.75), G 小調 (0.60)
-   - 五度圈歷程:   +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [Hibari #1]: G 大調 (r: 0.80, 自然音純度: 99.4%, 調外音: F)
-     • [Hibari #2]: G 大調 (r: 0.80, 自然音純度: 99.4%, 調外音: F)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -121,7 +115,7 @@ c3 c c2 c2 | d2 G2 G2 G2 | A3 G A2 B2 | c8 |
      B  : ███                        5.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E4 – D5 (10 個半音 / 0.8 個八度, 140 個音符)
+  - Piano         : E4 – D5 (10 個半音 / 0.8 個八度, 70 個音符)
 ================================================================================
 ```
 

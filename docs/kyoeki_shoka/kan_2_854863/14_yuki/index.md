@@ -63,16 +63,12 @@ V:V1 name="Piano" snm="Pia"
 e4 e4 d2 c2 B2 A2 | G6 B2 A8 | G4 B4 d6 e2 | d2 c2 B2 A2 G8 |
 !f! D4 G3 B d4 e4 | d2 e2 d2 c2 B8 | G4 B4 A6 D2 | B6 A2 G8 |
 [M:2/4] D4 G3 B | d3 d d2 d2 | e4 d4 | c2 B2 A2 G2 |
-A8 | d8 | [M:4/4] [Q:1/4=160] !mf! D4 G3 B d4 e4 | d2 e2 d2 c2 B8 |
-G4 B3 B A4 D4 | G2 A2 B2 c2 d8 | e4 e4 d2 c2 B2 A2 | G6 B2 A8 |
-G4 B4 d6 e2 | d2 c2 B2 A2 G8 | !f! D4 G3 B d4 e4 | d2 e2 d2 c2 B8 |
-G4 B4 A6 D2 | B6 A2 G8 | [M:2/4] D4 G3 B | d3 d d2 d2 |
-e4 d4 | c2 B2 A2 G2 | A8 | d8 |
+A8 | d8 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh8tTE4GMInTh4tREoCHF6MI5iXkpQIcWpCpxaWkpvJy9SkFLi0vRVsHQzIDL3lbBncvGRN_EDqTpafuuFzOnvt8z62nrxuezu55ObXu-ZN-zFU1PZ654umv644aup1M2Plvb82zqzOfLJz6bvUMByHq6Y_XzKSsUnm7f_WRXz-OG7udr1jzZ0fm0t_H93nkQxpMdDS8XNL7f0wGUAnKfzp79bPam93s6we70c_FRcMlMzyxJzFFwhsd3sUKAp4sCJEaBGjNKSgqKrfT1U3L08oA4PV8vq0C_IDNFH6ai81lf87P-fgVQPALlgOHIpa-lYEstwKWgoPC0bz7Qxy82t79Y0fWiox0YDC9WznvauuLZtHagC0HeQDiZ0pDqQfMO0IPASAG54sWq_c8aloPs7-59MXM-UPRxcwdQEBioTzvaHjf3gUK3u_fp2glAR7krPF2yHCipAIxfBaAo2JieRzNX2gKjHsh63NDzrKXz6f7Vj5u7HzcApWc_m7P62bqtz6bshJsHdCrMPJD6x81LHjfvfdy06nETkFyvEJBZquCTmleSD9bfA9QP8smG_ufrGxSKgJFalAJMfPkQmZfzNz_dve3l1O0vVswAuh3snRW7gRxwglsBTBSg1NG6GqIdqAfoAiADGIxPW1eCRWa_WDvnyY7ul61AB00HB18DUPzJ7qXPO9ufNrY_ndD7uKERJL6rByL-dOdmiPjT3g1PO7Y_bmh62tkLdCHQk8DwAYX4rh6YdZ3Pm3ZhC8YeiEVAk0FhsW6rQm4a1BawOQppQHfBeUBvAo15saT9-Y6Nz7fPgugGGYYjVJ_sWPZsyr5nrYtAzgGnsGdzVj1bMfPZtA0vG-Y_3bXs2dQdQL-CA3DNs1VTnk1aC1K_aT8oJcFjEhStL9pXQRMU2D8vtm4HRcCjhmWJRUACGA0gEhoT0AhyUQBGycuZLcixAnRHWmpRbmJJIlBpiK-LAtA94CjqBAXehBagR5CtAQYnMGifzel81j_72YbFEDOA6SQMmB6AGqB-WDETKPFkZzfQuudrlgH983TvoudTlz7Zs-f5yl1P9zeD43rJi3UN8CiAqARZ2b8ZmCUgue3ZepiVrStfLOwBKn6yowuYHoBcUPj2TQI6BRSOy5qALng-c-_jxp7HjWsfN6573Nj2uHHZ48ZVwIgDOgyo5VnfUgw1_Y8bpz5uBCUhcGIGBeqTfXORkxzQC8_2TAFm7ZcL2p7u6n_Z0wJ2QwPQMUCnwhMkKIT7l0Jc_mTvHHC2aXzcvBJkMjoDlGtQrICob1r0uHmNAlQRmARxgBiipQOU0Xb1gHLUhBagpeAkAnQwOCGCE__TCT1AZY-b1gK1QCIPWog9bd0B8sPS_mebVzxr6QeVIMCAADsdGIiPm4B6uuDJ-XHjvseNyx83rn--ovdZw1JImn3cuBpUmG9f-WzPalCYNnU-blzzbMViUDG8Fhiam5CzBzBkn29tApr5uGkS0BCgrsdNwPAFKYBkC8w8AbQOGMcIx6zofQk0s7EfbDjQwJ2PG4G-BUqBwghoPiQgQI7sBEqtBlnRCPQX0FXA6Fz2bE7D031AjSBlkDQLdAnEwCc7pjxuXPJsKdCiRpDK3RMfN3YDTYD4AupseIGyegHQELDU-qdtvY8bNz9d3g3WuA6SyoHGAksckDlg7cC69HEjkAt0Uu-TXd2gVAsUAZa4czpAeQNo1GygG9aBEiso5c2E-AtSDAOVIQpPBaCFoKwMpFc8Xwv01XRQWOzZ8WzNQrjF4GBtgFgG4i4B2j37cVM3sO5-sWoeOJK6QDkD5oiXs1fAHfG0v_l563JwGgFlWaRkMnsTPIE8XTIH5NFpk4HB83ImUOfix43zgU0JUOoAJuZGYJBPftwE9AowSJqez5kHzlng1AFSCcx6wAy4BOxRoOtbgNY8bpwLipMdXTBlu-HGguK8FZjooGywFmBR0Phs5voXnaAwe7Gu62nPNHDOBSYroFHTHzcB9bYAAwhMAtMI0J1AHwLLgV6Ef4Ah8bK9G5rgsZcOvS-7gKEItBuoH2goMLB3AB3xfHX3sy3AjAB05XyQSpCV68Cm9wDVP9kx7flUYP6H64X4E0gCXd_xuHkPUCNMDUjLk90zIeqBjCe7gBG17snefmDsIasBtbnmAMvRXmDiBLLhUlwg30AqIxALVxmHq1yD6gZH5upnHRMeNwFLGmDVD4xAoIfXIXkGrBQleJtanu4Cm9fQCI53oMHA7AKMGpjB4LIC6GWgBmCGAkYbMErWwOWAeQluLM7CEOo_UOsIi__WA90AziJo_tsPFt8H8x84eGEB2Phkd9fz2UBFQAR0HjA2V2P33Mv2vpcgR-P237M5c59NB-VvsOeAqXcrVs-BS1yQn9AZ4JxFeVsUChS09Lm4IkuzMx2tAjIT8_IdagxqFKpBVijYGJpp2YFZ1eCWfS2EDWnxQzm5aRAGsJX8uGk7MErWAmlQhdMLxH0KNUDeMmDSBXKARTOI6gKLYVe5HqykaSuEWgtyGsjsGgXTeAVdMDQEk8YKplC-GZQGKoHyQLQJWA1EBgZroHphMsYKRlA-3HCIEpAwSAnIEJg1cEMQfl0CrUeBzViQt7pBFNAPQP9BKtzVYB9tBvvtcdM6IL0ZLLIb4jlgUxlELUH4EeYVGI3sEZCbEB6AeQLmAVxeRHU_yFxIMCGbimwmwofVyLG6Cuj2RYg4a14C9ifYw4-b-yEUOP6aITENjDhYhG6EaKNxVKKGBNiCGhRN2D1aC0n3TnjTvRE83YPConke0DP7weEB8u9UIAaGDtjDPWAPA8MJGPsgOXAbC05rAOtdPU2oBIgECkGbx5p4wgYSFqCQANEgjEgnsHCrwYjPGiwpAzMlA72va6cAzvkKUIYTjIEqoswFAA)]
+- [主旋律 TMD 檔案](yuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh8tTE4GMInTh4tREoCHF6MI5iXkpQIcWpCpxaWkpvJy9SkFLi0vRVsHQzIDL3lbBncvGRN_EDqTpafuuFzOnvt8z62nrxuezu55ObXu-ZN-zFU1PZ654umv644aup1M2Plvb82zqzOfLJz6bvUMByHq6Y_XzKSsUnm7f_WRXz-OG7udr1jzZ0fm0t_H93nkQxpMdDS8XNL7f0wGUAnKfzp79bPam93s6we70c_FRcMlMzyxJzFFwhsd3sUKAp4sCJEaBGjNKSgqKrfT1U3L08oA4PV8vq0C_IDNFH6ai81lf87P-fgVQPALlgOHIpa-lYEstwKWgoPC0bz7Qxy82t79Y0fWiox0YDC9WznvauuLZtHagC0HeQDiZ0pDqQfMO0IPASAG54sWq_c8aloPs7-59MXM-UPRxcwdQEBioTzvaHjf3gUK3u_fp2glAR7krPF2yHCipAIxfBaAo2JieRzNX2gKjHsh63NDzrKXz6f7Vj5u7HzcApWc_m7P62bqtz6bshJsHdCrMPJD6x81LHjfvfdy06nETkFyvEJBZquCTmleSD9bfA9QP8smG_ufrGxSKgJFalAJMfPkQmZfzNz_dve3l1O0vVswAuh3snRW7gRxwglsBTBSg1NG6GqIdqAfoAiADGIxPW1eCRWa_WDvnyY7ul61AB00HB18DUPzJ7qXPO9ufNrY_ndD7uKERJL6rByL-dOdmiPjT3g1PO7Y_bmh62tkLdCHQk8DwAYX4rh6YdZ3Pm3ZhC8YeiEVAk0FhsW6rQm4a1BawOQppQHfBeUBvAo15saT9-Y6Nz7fPgugGGYYjVJ_sWPZsyr5nrYtAzgGnsGdzVj1bMfPZtA0vG-Y_3bXs2dQdQL-CA3DNs1VTnk1aC1K_aT8oJcFjEhStL9pXQRMU2D8vtm4HRcCjhmWJRUACGA0gEhoT0AhyUQBGycuZLcixAnRHWmpRbmJJIlBpiK-LAtA94CjqBAXehBagR5CtAQYnMGifzel81j_72YbFEDOA6SQMmB6AGqB-WDETKPFkZzfQuudrlgH983TvoudTlz7Zs-f5yl1P9zeD43rJi3UN8CiAqARZ2b8ZmCUgue3ZepiVrStfLOwBKn6yowuYHoBcUPj2TQI6BRSOy5qALng-c-_jxp7HjWsfN6573Nj2uHHZ48ZVwIgDOgyo5VnfUgw1_Y8bpz5uBCUhcGIGBeqTfXORkxzQC8_2TAFm7ZcL2p7u6n_Z0wJ2QwPQMUCnwhMkKIT7l0Jc_mTvHHC2aXzcvBJkMjoDlGtQrICob1r0uHmNAlQRmARxgBiipQOU0Xb1gHLUhBagpeAkAnQwOCGCE__TCT1AZY-b1gK1QCIPWog9bd0B8sPS_mebVzxr6QeVIMCAADsdGIiPm4B6uuDJ-XHjvseNyx83rn--ovdZw1JImn3cuBpUmG9f-WzPalCYNnU-blzzbMViUDG8Fhiam5CzBzBkn29tApr5uGkS0BCgrsdNwPAFKYBkC8w8AbQOGMcIx6zofQk0s7EfbDjQwJ2PG4G-BUqBwghoPiQgQI7sBEqtBlnRCPQX0FXA6Fz2bE7D031AjSBlkDQLdAnEwCc7pjxuXPJsKdCiRpDK3RMfN3YDTYD4AupseIGyegHQELDU-qdtvY8bNz9d3g3WuA6SyoHGAksckDlg7cC69HEjkAt0Uu-TXd2gVAsUAZa4czpAeQNo1GygG9aBEiso5c2E-AtSDAOVIQpPBaCFoKwMpFc8Xwv01XRQWOzZ8WzNQrjF4GBtgFgG4i4B2j37cVM3sO5-sWoeOJK6QDkD5oiXs1fAHfG0v_l563JwGgFlWaRkMnsTPIE8XTIH5NFpk4HB83ImUOfix43zgU0JUOoAJuZGYJBPftwE9AowSJqez5kHzlng1AFSCcx6wAy4BOxRoOtbgNY8bpwLipMdXTBlu-HGguK8FZjooGywFmBR0Phs5voXnaAwe7Gu62nPNHDOBSYroFHTHzcB9bYAAwhMAtMI0J1AHwLLgV6Ef4Ah8bK9G5rgsZcOvS-7gKEItBuoH2goMLB3AB3xfHX3sy3AjAB05XyQSpCV68Cm9wDVP9kx7flUYP6H64X4E0gCXd_xuHkPUCNMDUjLk90zIeqBjCe7gBG17snefmDsIasBtbnmAMvRXmDiBLLhUlwg30AqIxALVxmHq1yD6gZH5upnHRMeNwFLGmDVD4xAoIfXIXkGrBQleJtanu4Cm9fQCI53oMHA7AKMGpjB4LIC6GWgBmCGAkYbMErWwOWAeQluLM7CEOo_UOsIi__WA90AziJo_tsPFt8H8x84eGEB2Phkd9fz2UBFQAR0HjA2V2P33Mv2vpcgR-P237M5c59NB-VvsOeAqXcrVs-BS1yQn9AZ4JxFeVsUChS09Lm4IkuzMx2tAjIT8_IdagxqFKpBVijYGJpp2YFZ1eCWfS2EDWnxQzm5aRAGsJX8uGk7MErWAmlQhdMLxH0KNUDeMmDSBXKARTOI6gKLYVe5HqykaSuEWgtyGsjsGgXTeAVdMDQEk8YKplC-GZQGKoHyQLQJWA1EBgZroHphMsYKRlA-3HCIEpAwSAnIEJg1cEMQfl0CrUeBzViQt7pBFNAPQP9BKtzVYB9tBvvtcdM6IL0ZLLIb4jlgUxlELUH4EeYVGI3sEZCbEB6AeQLmAVxeRHU_yFxIMCGbimwmwofVyLG6Cuj2RYg4a14C9ifYw4-b-yEUOP6aITENjDhYhG6EaKNxVKKGBNiCGhRN2D1aC0n3TnjTvRE83YPConke0DP7weEB8u9UIAaGDtjDPWAPA8MJGPsgOXAbC05rAOtdPU2oBIgECkGbx5p4wgYSFqCQANEgjEgnsHCrwYjPGiwpAzMlA72va6cAzvkKUIYTiKHMBQA)]
 
 ## 分析
 
@@ -80,27 +76,25 @@ e4 d4 | c2 B2 A2 G2 | A8 | d8 |
 ================================================================================
 📊 TMD Song Profile: [ 雪 ]
 ================================================================================
-⏱  Duration:       0:45 (45.0s), 36 measures total
+⏱  Duration:       0:22 (22.5s), 18 measures total
 🎼 Key & Tempo:    首調基準 G, != 160.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [YukiA #1 @ m.1, 0:00]
    - 最高音: E5 in [YukiA #1 @ m.1, 0:01]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      YukiA (18.0s) -> YukiB (4.5s) -> YukiA (18.0s) -> YukiB (4.5s)
+🏛  結構:      YukiA (18.0s) -> YukiB (4.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（推測轉調經歷 3 次）
+🗝  調性診斷：       G 大調（推測轉調經歷 1 次）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
-   - 轉調歷程:    G 大調起奏 ➔ [YukiB] 轉至 D 大調 (-5 半音 / 五度圈 +1 步) ➔ [YukiA] 轉至 G 大調 (+5 半音 / 五度圈 -1 步) ➔ [YukiB] 轉至 D 大調 (-5 半音 / 五度圈 +1 步)
+   - 轉調歷程:    G 大調起奏 ➔ [YukiB] 轉至 D 大調 (-5 半音 / 五度圈 +1 步)
    - 核心骨幹音:  D, G, B, A, E
    - 調性數值:    G 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.86), D 大調 (0.80), B 小調 (0.68)
-   - 五度圈歷程:   +1 -> +2 -> +1 -> +2
+   - 五度圈歷程:   +1 -> +2
    - 各段落調性細節:
      • [YukiA #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
      • [YukiB #1]: D 大調 (r: 0.86, 自然音純度: 95.8%, 調外音: C)
-     • [YukiA #2]: G 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [YukiB #2]: D 大調 (r: 0.86, 自然音純度: 95.8%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -127,7 +121,7 @@ e4 d4 | c2 B2 A2 G2 | A8 | d8 |
      B  : ████████████████          19.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 140 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 70 個音符)
 ================================================================================
 ```
 

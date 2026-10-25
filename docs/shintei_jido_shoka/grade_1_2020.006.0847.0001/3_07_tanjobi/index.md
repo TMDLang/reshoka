@@ -63,17 +63,11 @@ c3 c d4 | c2 c2 A2 A2 | G2 G2 F2 A2 | G2 G2 F4 |
 d3 f d4 | c2 c2 F2 A2 | G2 G2 F2 G2 | A6 z2 |
 c2 c2 c2 d2 | c2 c2 A4 | G2 G2 F2 A2 | G6 z2 |
 F2 F2 D2 C2 | F2 F2 A2 A2 | G2 G2 A2 G2 | F6 z2 |
-A2 A2 G2 F2 | C6 z2 | c2 c2 d2 c2 | c6 z2 |
-A3 A A4 | c2 c2 A2 F2 | G2 G2 F2 G2 | A6 z2 |
-c3 c d4 | c2 c2 A2 A2 | G2 G2 F2 A2 | G2 G2 F4 |
-d3 f d4 | c2 c2 F2 A2 | G2 G2 F2 G2 | A6 z2 |
-c2 c2 c2 d2 | c2 c2 A4 | G2 G2 F2 A2 | G6 z2 |
-F2 F2 D2 C2 | F2 F2 A2 A2 | G2 G2 A2 G2 | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanjobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxaWkpPG7a_7h58-OmHY-blzxuWva4efL7PR3Pp8x_Nn3p-z2dClpaXIq2CpZmXPa2Cm5cNkb6JnYg416snPd-z6yn26e92LD96Yb-Z5sXgW15NnsTUPj5lt5nnQ0v9q14tmbhy-Y-sMyL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6DJQCOsBQ1gPFMJAhoEh0JVKXPpaCkC7n89e92LVqmcz-rgUFBSe7Fj7bFr7i-WLX7Z3Ax31rL__6frVEI897djwZF_bs5lN7_f0PF278unaCc-Xzn2-rP9xQ-Oz1m1A9ouO9qcdbU92rX46bc6zptbHDU1cWvpcQFu4gM7hety06nFzByiwmrY-bp73uKEBTQSoYuPj5qmPm4EmAuUWPW7uAgdzH5iLHt4Y5jW3P25eBFa6-XFzJ4gN1AlSsBZoIhdIX3PL4-aJj5tXwazuB9uwHcxd-7gJqKANYiHQ7L0g64DSzSvB0hCHQVyyCqwUqHnS4-ZuoMHrQZqAxjStwWYw0LlgWaALm3YDXcvF9WRXD9jxTatBnkQODCQRMgID2Tx4YDQ3gtwJFAS5GV9gAG0AKgWKt0MthAYB0AgSw6Mb7Lh1j5tXgBwHUgF02LbHzc2g8EWYPRkRJKBU4puYmWcVkJmYl-9QY1CjUA1MjDaGZlp2QLpGwVhBF4yNgNgQiGsUTOOBFAwaQISAJAibQWmICIoauGEg4yA0sk6QCMR4kEUwy0A0TBe6WRAbTMF2YpoFwqhmYYqAdYHNgphhGIfFMOxaCTkMOUBQHQYxHbvDMM0CyYOwGSjMwQGPEMP0JiyeIGpQTavl4tK1UwBFtQISrcwFAA)]
+- [主旋律 TMD 檔案](tanjobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxaWkpPG7a_7h58-OmHY-blzxuWva4efL7PR3Pp8x_Nn3p-z2dClpaXIq2CpZmXPa2Cm5cNkb6JnYg416snPd-z6yn26e92LD96Yb-Z5sXgW15NnsTUPj5lt5nnQ0v9q14tmbhy-Y-sMyL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6DJQCOsBQ1gPFMJAhoEh0JVKXPpaCkC7n89e92LVqmcz-rgUFBSe7Fj7bFr7i-WLX7Z3Ax31rL__6frVEI897djwZF_bs5lN7_f0PF278unaCc-Xzn2-rP9xQ-Oz1m1A9ouO9qcdbU92rX46bc6zptbHDU1cWvpcQFu4gM7hety06nFzByiwmrY-bp73uKEBTQSoYuPj5qmPm4EmAuUWPW7uAgdzH5iLHt4Y5jW3P25eBFa6-XFzJ4gN1AlSsBZoIhdIX3PL4-aJj5tXwazuB9uwHcxd-7gJqKANYiHQ7L0g64DSzSvB0hCHQVyyCqwUqHnS4-ZuoMHrQZqAxjStwWYw0LlgWaALm3YDXcvF9WRXD9jxTatBnkQODCQRMgID2Tx4YDQ3gtwJFAS5GV9gAG0AKgWKt0MthAYB0AgSw6Mb7Lh1j5tXgBwHUgF02LbHzc2g8EWYPRkRJKBU4puYmWcVkJmYl-9QY1CjUA1MjDaGZlp2QLpGwVhBF4yNgNgQiGsUTOOBFAwaQISAJAibQWmICIoauGEg4yA0sk6QCMR4kEUwy0A0TBe6WRAbTMF2YpoFwqhmYYqAdYHNgphhGIfFMOxaCTkMOUBQHQYxHbvDMM0CyYOwGSjMwQGPEMP0JiyeIGpQTavl4tK1UwBFtQKQVuYCAA)]
 - [鋼琴伴奏 TMD 檔案](tanjobi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP9x8-bHTTseNy953LTscfPk93s6HjdPedy06HFz35M9W54u7X-ye8b7PZ0KWlpcirYKlmZc9rYKblw2Rvomdlx1CkovVs57v2fW0-3TXmzY_nRD_7PNi5RAws9mbwIKP9_S-6yz4cW-Fc_WLHzZ3AeWedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgBdaWRgZKBnYGCmZ2BhYg5kGBgCXanExeWbmJlnFZCZmJcf5OFQY1CjUM2loGBjaKZlB6RrFIwVdMHYCIgNgbhGwTQeSMGgAUQISIKwGZSGiKCogRsGMg5CI-sEiUCMB1kEswxEw3ShmwWxwRRsJ6ZZIIxqFqYIWBfYLIgZhnFYDMOulZDDkAME1WEQ07E7DNMskDwIm4HCHBzwCDFMb8LiCaIG1bRa5Jj2QYppC2hERxvGAhVCSBgPpBkuY4Ihg1MfnGcaD-ZCKJx6UUxG14uVC9EN1odfN_VsxtSLYjQxFgPjQNdOARQNCki0MhcA)]
 
 ## 分析
@@ -82,14 +76,14 @@ F2 F2 D2 C2 | F2 F2 A2 A2 | G2 G2 A2 G2 | F6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ タンジヤウビ（生日） ]
 ================================================================================
-⏱  Duration:       1:00 (60.0s), 48 measures total
+⏱  Duration:       0:30 (30.0s), 24 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  C4 in [Main #1 @ m.2, 0:01]
    - 最高音: F5 in [Main #1 @ m.13, 0:15]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (30.0s) -> Main (30.0s)
+🏛  結構:      Main (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -97,10 +91,9 @@ F2 F2 D2 C2 | F2 F2 A2 A2 | G2 G2 A2 G2 | F6 z2 |
    - 核心骨幹音:  C, A, G, F, D
    - 調性數值:    C 調性不明確 [相關度: 0.78, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.78), F 大調 (0.75), A 小調 (0.72)
-   - 五度圈歷程:   +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
      • [Main #1]: C 調性不明確 (r: 0.78, 自然音純度: 100.0%)
-     • [Main #2]: C 調性不明確 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -127,7 +120,7 @@ F2 F2 D2 C2 | F2 F2 A2 A2 | G2 G2 A2 G2 | F6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 146 個音符)
+  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 73 個音符)
 ================================================================================
 ```
 

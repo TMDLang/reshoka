@@ -69,19 +69,12 @@ V:V1 name="Voice" snm="Voi"
 [V:V1]
 C3 E G3 A G6 E2 | C3 E G3 A G8 | c3 c B3 A G3 A G3 E | C3 E G3 A G8 |
 c3 B c3 B A3 B A2 A2 | G3 E C4/3 D4/3 E4/3 D8 | C3 D E3 F G3 A G3 G | A3 A G3 G c8 |
-c3 c c3 c d3 c B3 A | G3 G G4/3 A4/3 B4/3 c8 | C3 E G3 A G6 E2 | C3 E G3 A G8 |
-c3 c B3 A G3 A G3 E | C3 E G3 A G8 | c3 B c3 B A3 B A2 A2 | G3 E C4/3 D4/3 E4/3 D8 |
-C3 D E3 F G3 A G3 G | A3 A G3 G c8 | c3 c c3 c d3 c B3 A | G3 G G4/3 A4/3 B4/3 c8 |
-C3 E G3 A G6 E2 | C3 E G3 A G8 | c3 c B3 A G3 A G3 E | C3 E G3 A G8 |
-c3 B c3 B A3 B A2 A2 | G3 E C4/3 D4/3 E4/3 D8 | C3 D E3 F G3 A G3 G | A3 A G3 G c8 |
-c3 c c3 c d3 c B3 A | G3 G G4/3 A4/3 B4/3 c8 | C3 E G3 A G6 E2 | C3 E G3 A G8 |
-c3 c B3 A G3 A G3 E | C3 E G3 A G8 | c3 B c3 B A3 B A2 A2 | G3 E C4/3 D4/3 E4/3 D8 |
-C3 D E3 F G3 A G3 G | A3 A G3 G c8 | c3 c c3 c d3 c B3 A | G3 G G4/3 A4/3 B4/3 c8 |
+c3 c c3 c d3 c B3 A | G3 G G4/3 A4/3 B4/3 c8 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](honen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh4tTE4Gqi9GFy_OLkPwHESvIScxDcjlEMC21uCSzLDEHXTw5Pze3NC-zpFKJS0tL4cXGCU93blHQ0uJStFUwNLbgsrdVcOayMdE3sQPpe9q-68XMqe_3zHrauvH57K6nU9ueL9n3bEXT05krnu6a_rih6-mUjc_W9jybOvP58onPZu9QALKe7lj9fMoKhafbdz_Z0fm4ofv5mjVPexuftq5-v3fek109QPaTHQ0vFzS-39MBlAKJrN3xbM58kLLZs5_N3vR-TyfYzX4uPgoumemZJYk5Cs7wVFKsEODpogBJB0ATMkpKCoqt9PVTcvTygDg9Xy-rQL8gM0UfpqLzWV_zs_5-BVDsA-XSHzc0AplmIKYSF5e-loIttQCXgoLC0775wFB4sbn9xYquFx3twKB5sXLe09YVz6a1Ax0L8hHC9ZSGXg9unwG9DYwzkINerNr_rGE5yCndvS9mzgeKPm7uBwoCg_ppR9vj5j5QmHf3Pl07Aeg-Z4WnS5YDJRWA0a8AFAUb0_No5kpbYMoAsh439ADj_nHT9sdNmx43dz9u6AVbsWL3ixUzQGlk2roXjZteNq8AKgUa-3x9A9AKIAn04uOGJmSPgHyxcy4kDcCcD7TsedMuiD5IuAE9BEwOz1r6gYwXq-a9bO8G-WPPlKdL-59tXgEUf79nNjQFIaUpWBgAg3AZJJyADgS6HKLscTMwAPY8btrxuBGIljxumve4EWg-yKsg2zt7n7aufbqhH-SGFU0v1s4BaodbgW5-_2ZM84HOQLJiHcyKXoQV-0Bhg2wFNGxg9j7t74IGFZgLsR0URe27nvfvA4YfMFBfzt_8fM0yYAJ52bAYyIaY8GTXFLgWSKwCXQt0GDCSFR43r4a4AKjo-fZZQFuf9m4AuaZ15dOGbmRDgXrMzmxSAGJI7D_fsBCu-uXMlpe7gckZofpp1wJwpK5F068HNGA_xIAnu5fCLQWa8WzXNKBzoXnlaesO1Pic9Wzp1qf7Vz_bAkz9U4A6nzUshaROYIoAZhZQhE_dBkwUL5dNe7ZmISRI4MEAth2YcDYBGc-m7QFGBVDvy2mTn-7c_HRuO1A7UD1QMdDDcMVPN_Q-7Zj7fP-kFw2tz1f0Pp294eXsxUDxlws6nra2Aj0FcRiqi8FpEpSTGnqeb9z8fGXD46a2x43zHzd2P25c_bhxPyjem7oeNy4DptuXu1tetk980bkJKPhs86LHjT3PVwOVAVNFByiRNC5_3AjMUMCs1PRi36anS4DagXo7Hjf1Pm6c_Lhx8-PGFrCxG0AkyEyI-s7HjUAbQbqezeh7Nn3p48b1TzuAurqe9k-Dya54saIBzFj2dNqcx43bgD583NSE0A7UOx3oHmBcgjSCxBsngRRv6H-xC2j7TKCrMLW87Fv3dF0H0JHPl6593LjqceNKkIKGRrDz5gK1ACsTcCCsB2UEYLJvXP9i80SwF2A-bVwB9tRWSLBCyxBIyEIyOSRkHzcBXbMAnGhngQK3ad7zKcBQgGoGhw6wnJkNKpIWdjzduBGYRiCKX84GWgx2GdCVK6eDzVkCjpXVT_a1gV0ADGKgINCcfY8bgQoawYJAK4DeWP1k166ne4HhAjLhZcMCSEQCrX6yA-jh1eDIWwZWDPQwMGjWQdzwuHE3OLcDbQGGDjDiIc4GlgKTHze1gA1Z8WIZUC9IFqLleetMcEj1AcPocSMwfcB1AZUBHQZ2P0hNz_PZs0HmgBQDbQSGDFABwvvQKIHqnQtKZ3MnvmyHBOD0x41Lgf4CKWjqfr50HrD2BqVlUJCDIqihEcSCpFFoAgXqAha7nUDzF4ISYuNssIOByX0PVDW2xA5MieDiChRD654vB3FBShEx07ju6R5gSICSyvMNE5-vAYYriA0xD-ipheAQWANOPevA6QkYmMAQALpqKsgZMDfvAtYkEKPnAoNo3bNFoBQMVo8S_qgOBjkVGBZTgYn6-cpdEAueLpn6bE7H0yXA0heqCJg0gNEITA4t8DwFyr99QEFgBAJJUHYGW90xEepRYLkP9gZK3gPGFDyEgRU4JISB0QHOFSBvQqucRlC12AiqMVFc-2wD0M8gpc92Az0DLCfAYbserBRYisBcC0y8QMN2AF0LSiOgAEBLSlB1QE8DEyoo2YOiBRK2oHQOzI3AOASGLTC6Ia4FVhkw18Iy-bPFwCCFRAcwjoA5AqgF5DQUB4NLAqC69aCEDgw_YF3dOA-cSFaB0j0skoERACwrgKmy5UUHMABALge7BVgmAEuJFeBUAIpJcIsCLPGiGxgHvdAQ3rkHlIxAbHBJTHlrDQoUtPS5uDzy81LzrMLyM5NTHWoMahSqQVYo2BiaadmBWcBW4uOmzUC8BliR9gLxHiAGVap7FGqAZBdUZD6U3gQSbVoG5TVC6RUQumk3kG4DWQsyuUbBUEEXCI0VTMG0GZSGQGMgxq8CBIEq4sAMIGWOogZGGyvUIPwBchfITUD3QN0C8gNQtGk_EK8GsruR_AJuOoBVbALiBri_HzctAuK1xPkDxZXmCIYZEg3CNXD3ahgqGCkYa6pq6AKBJpCNZhjCO0AHg6KlaTvUaSDvgRwPdB40ekA8oAxY5VawDJqjgTaBaRM0x5sCVUCciBCBuh2bU8BWgkJ2EhD3AHEHNKQgTgM5BeTATqDIRqgMyDkrkJwDj0cEywgjbmGhZKqgYQrkmsNDCYvbarm4dO0UwOlbAT9DmQsA)]
+- [主旋律 TMD 檔案](honen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh4tTE4Gqi9GFy_OLkPwHESvIScxDcjlEMC21uCSzLDEHXTw5Pze3NC-zpFKJS0tL4cXGCU93blHQ0uJStFUwNLbgsrdVcOayMdE3sQPpe9q-68XMqe_3zHrauvH57K6nU9ueL9n3bEXT05krnu6a_rih6-mUjc_W9jybOvP58onPZu9QALKe7lj9fMoKhafbdz_Z0fm4ofv5mjVPexuftq5-v3fek109QPaTHQ0vFzS-39MBlAKJrN3xbM58kLLZs5_N3vR-TyfYzX4uPgoumemZJYk5Cs7wVFKsEODpogBJB0ATMkpKCoqt9PVTcvTygDg9Xy-rQL8gM0UfpqLzWV_zs_5-BVDsA-XSHzc0AplmIKYSF5e-loIttQCXgoLC0775wFB4sbn9xYquFx3twKB5sXLe09YVz6a1Ax0L8hHC9ZSGXg9unwG9DYwzkINerNr_rGE5yCndvS9mzgeKPm7uBwoCg_ppR9vj5j5QmHf3Pl07Aeg-Z4WnS5YDJRWA0a8AFAUb0_No5kpbYMoAsh439ADj_nHT9sdNmx43dz9u6AVbsWL3ixUzQGlk2roXjZteNq8AKgUa-3x9A9AKIAn04uOGJmSPgHyxcy4kDcCcD7TsedMuiD5IuAE9BEwOz1r6gYwXq-a9bO8G-WPPlKdL-59tXgEUf79nNjQFIaUpWBgAg3AZJJyADgS6HKLscTMwAPY8btrxuBGIljxumve4EWg-yKsg2zt7n7aufbqhH-SGFU0v1s4BaodbgW5-_2ZM84HOQLJiHcyKXoQV-0Bhg2wFNGxg9j7t74IGFZgLsR0URe27nvfvA4YfMFBfzt_8fM0yYAJ52bAYyIaY8GTXFLgWSKwCXQt0GDCSFR43r4a4AKjo-fZZQFuf9m4AuaZ15dOGbmRDgXrMzmxSAGJI7D_fsBCu-uXMlpe7gckZofpp1wJwpK5F068HNGA_xIAnu5fCLQWa8WzXNKBzoXnlaesO1Pic9Wzp1qf7Vz_bAkz9U4A6nzUshaROYIoAZhZQhE_dBkwUL5dNe7ZmISRI4MEAth2YcDYBGc-m7QFGBVDvy2mTn-7c_HRuO1A7UD1QMdDDcMVPN_Q-7Zj7fP-kFw2tz1f0Pp294eXsxUDxlws6nra2Aj0FcRiqi8FpEpSTGnqeb9z8fGXD46a2x43zHzd2P25c_bhxPyjem7oeNy4DptuXu1tetk980bkJKPhs86LHjT3PVwOVAVNFByiRNC5_3AjMUMCs1PRi36anS4DagXo7Hjf1Pm6c_Lhx8-PGFrCxG0AkyEyI-s7HjUAbQbqezeh7Nn3p48b1TzuAurqe9k-Dya54saIBzFj2dNqcx43bgD583NSE0A7UOx3oHmBcgjSCxBsngRRv6H-xC2j7TKCrMLW87Fv3dF0H0JHPl6593LjqceNKkIKGRrDz5gK1ACsTcCCsB2UEYLJvXP9i80SwF2A-bVwB9tRWSLBCyxBIyEIyOSRkHzcBXbMAnGhngQK3ad7zKcBQgGoGhw6wnJkNKpIWdjzduBGYRiCKX84GWgx2GdCVK6eDzVkCjpXVT_a1gV0ADGKgINCcfY8bgQoawYJAK4DeWP1k166ne4HhAjLhZcMCSEQCrX6yA-jh1eDIWwZWDPQwMGjWQdzwuHE3OLcDbQGGDjDiIc4GlgKTHze1gA1Z8WIZUC9IFqLleetMcEj1AcPocSMwfcB1AZUBHQZ2P0hNz_PZs0HmgBQDbQSGDFABwvvQKIHqnQtKZ3MnvmyHBOD0x41Lgf4CKWjqfr50HrD2BqVlUJCDIqihEcSCpFFoAgXqAha7nUDzF4ISYuNssIOByX0PVDW2xA5MieDiChRD654vB3FBShEx07ju6R5gSICSyvMNE5-vAYYriA0xD-ipheAQWANOPevA6QkYmMAQALpqKsgZMDfvAtYkEKPnAoNo3bNFoBQMVo8S_qgOBjkVGBZTgYn6-cpdEAueLpn6bE7H0yXA0heqCJg0gNEITA4t8DwFyr99QEFgBAJJUHYGW90xEepRYLkP9gZK3gPGFDyEgRU4JISB0QHOFSBvQqucRlC12AiqMVFc-2wD0M8gpc92Az0DLCfAYbserBRYisBcC0y8QMN2AF0LSiOgAEBLSlB1QE8DEyoo2YOiBRK2oHQOzI3AOASGLTC6Ia4FVhkw18Iy-bPFwCCFRAcwjoA5AqgF5DQUB4NLAqC69aCEDgw_YF3dOA-cSFaB0j0skoERACwrgKmy5UUHMABALge7BVgmAEuJFeBUAIpJcIsCLPGiGxgHvdAQ3rkHlIxAbHBJTHlrDQoUtPS5uDzy81LzrMLyM5NTHWoMahSqQVYo2BiaadmBWcBW4uOmzUC8BliR9gLxHiAGVap7FGqAZBdUZD6U3gQSbVoG5TVC6RUQumk3kG4DWQsyuUbBUEEXCI0VTMG0GZSGQGMgxq8CBIEq4sAMIGWOogZGGyvUIPwBchfITUD3QN0C8gNQtGk_EK8GsruR_AJuOoBVbALiBri_HzctAuK1xPkDxZXmCIYZEg3CNXD3ahgqGCkYa6pq6AKBJpCNZhjCO0AHg6KlaTvUaSDvgRwPdB40ekA8oAxY5VawDJqjgTaBaRM0x5sCVUCciBCBuh2bU8BWgkJ2EhD3AHEHNKQgTgM5BeTATqDIRqgMyDkrkJwDj0cEywgjbmGhZKqgYQrkmsNDCYvbarm4dO0UwOlbAchQ5gIA)]
 
 ## 分析
 
@@ -89,14 +82,14 @@ C3 D E3 F G3 A G3 G | A3 A G3 G c8 | c3 c c3 c d3 c B3 A | G3 G G4/3 A4/3 B4/3 c
 ================================================================================
 📊 TMD Song Profile: [ 豐年 ]
 ================================================================================
-⏱  Duration:       1:09 (69.6s), 40 measures total
+⏱  Duration:       0:17 (17.4s), 10 measures total
 🎼 Key & Tempo:    首調基準 C, != 138.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [Honen #1 @ m.1, 0:00]
    - 最高音: D5 in [Honen #1 @ m.9, 0:14]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Honen (17.4s) -> Honen (17.4s) -> Honen (17.4s) -> Honen (17.4s)
+🏛  結構:      Honen (17.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -104,12 +97,9 @@ C3 D E3 F G3 A G3 G | A3 A G3 G c8 | c3 c c3 c d3 c B3 A | G3 G G4/3 A4/3 B4/3 c
    - 核心骨幹音:  G, C, A, D, E
    - 調性數值:    C 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.86), G 大調 (0.79), C 小調 (0.56)
-   - 五度圈歷程:   +0 -> +0 -> +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
      • [Honen #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
-     • [Honen #2]: C 大調 (r: 0.86, 自然音純度: 100.0%)
-     • [Honen #3]: C 大調 (r: 0.86, 自然音純度: 100.0%)
-     • [Honen #4]: C 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -136,7 +126,7 @@ C3 D E3 F G3 A G3 G | A3 A G3 G c8 | c3 c c3 c d3 c B3 A | G3 G G4/3 A4/3 B4/3 c
      B  : ████                       6.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Voice         : C4 – D5 (14 個半音 / 1.2 個八度, 260 個音符)
+  - Voice         : C4 – D5 (14 個半音 / 1.2 個八度, 65 個音符)
 ================================================================================
 ```
 

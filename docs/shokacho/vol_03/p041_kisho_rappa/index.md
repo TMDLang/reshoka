@@ -48,27 +48,12 @@ g g g2 g2 g2 | e e e2 g2 e2 | c4 z2 c e | c4 z2 G G |
 c2 G G c2 G G | c2 c2 c2 e2 | g g g2 g2 g2 | e e e2 g2 e2 |
 c4 z2 c e | c4 z4 | !mf! c2 c2 c2 c2 | c2 e2 c2 e2 |
 g8 | !p! g4 z4 | !mf! g e g e g2 e2 | c2 e2 c2 G2 |
-c8 | !pp! c4 z4 | !f! z4 z2 G2 | c G c2 c G c2 |
-e c e c c G c2 | G c c2 c e c2 | c3 e c2 e2 | e e e2 e e e2 |
-g e g e g e g e | c e c2 G G G2 | c6 z2 | z4 z2 G G |
-c2 G G c2 G G | c2 c2 c2 e2 | g g g2 g2 g2 | e e e2 g2 e2 |
-c4 z2 c e | c4 z2 G G | c2 G G c2 G G | c2 c2 c2 e2 |
-g g g2 g2 g2 | e e e2 g2 e2 | c4 z2 c e | c4 z4 |
-!mf! c2 c2 c2 c2 | c2 e2 c2 e2 | g8 | !p! g4 z4 |
-!mf! g e g e g2 e2 | c2 e2 c2 G2 | c8 | !pp! c4 z4 |
-!f! z4 z2 G2 | c G c2 c G c2 | e c e c c G c2 | G c c2 c e c2 |
-c3 e c2 e2 | e e e2 e e e2 | g e g e g e g e | c e c2 G G G2 |
-c6 z2 | z4 z2 G G | c2 G G c2 G G | c2 c2 c2 e2 |
-g g g2 g2 g2 | e e e2 g2 e2 | c4 z2 c e | c4 z2 G G |
-c2 G G c2 G G | c2 c2 c2 e2 | g g g2 g2 g2 | e e e2 g2 e2 |
-c4 z2 c e | c4 z4 | !mf! c2 c2 c2 c2 | c2 e2 c2 e2 |
-g8 | !p! g4 z4 | !mf! g e g e g2 e2 | c2 e2 c2 G2 |
 c8 | !pp! c4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kisho_rappa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDY4RwcX5pUXJqfEFieqpVgIGJIboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoKASl5aWwout25_u6no6rf1p_9rHzbtf7p73dOIeOPfZto7n7R0QroKWFpeirYKhoRGXva2CM5eNkb6JHciip-27Xsyc-n7PrMcNXU-nbHy2tufpjmmPG7rf7-kwMjAy0DMwMNMzsDAxfr-nE-R9vayCdAWNpPySkvxcTaAacz2FF5v2vJzZArHmxdo5QIVKXFz6Wgq21AJcCgoKT_vmP5u948Xm9hcruoDWPt3Q-6y9UwHuoic7up_2dkFc8nzLzKd7tgKdAfQUSKsh0IlI4QTUHZRalpoJTApANSAFRnoKyCEHUgBMKArOiTk5UBXGegrIgQlUEZJYUKygr-CTmZ5RUqzgX1ryfk_PixW7X6yY8bih59mahY-b-5_s6gFqety87HFDL7Lg4-YNEEGo4ZQHEBQoaOlzcXlnAhNkUGJBQaJVQGZiXr5DjUGNQjXIHgUbQzMtOzCrOq0WTANjCS10QGaAZGoUDBR0wRBEmwJxjYJhHJABJHSRWDUKxnEgFoREFgczYKoh0lBDQKbCBIA0UBRqJZADQWBxGBNoFJiFSYJNg5lkCoZIViCcDzEf6Fm0mMblWVOYISAmnAEVQxAI10EQUBmcQPEMWATFp3AngiyEeAJNkDquwAxYJLcQ4QoQhIceWi6AhV51LjQ1YTgNOcrBVqI5GBFLCHuqC2CGwRWgOgTJOrQUgeovhIVYUgWyfXALsfi8lotL104BkacUCPCUuQA)]
+- [主旋律 TMD 檔案](kisho_rappa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDY4RwcX5pUXJqfEFieqpVgIGJIboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoKASl5aWwout25_u6no6rf1p_9rHzbtf7p73dOIeOPfZto7n7R0QroKWFpeirYKhoRGXva2CM5eNkb6JHciip-27Xsyc-n7PrMcNXU-nbHy2tufpjmmPG7rf7-kwMjAy0DMwMNMzsDAxfr-nE-R9vayCdAWNpPySkvxcTaAacz2FF5v2vJzZArHmxdo5QIVKXFz6Wgq21AJcCgoKT_vmP5u948Xm9hcruoDWPt3Q-6y9UwHuoic7up_2dkFc8nzLzKd7tgKdAfQUSKsh0IlI4QTUHZRalpoJTApANSAFRnoKyCEHUgBMKArOiTk5UBXGegrIgQlUEZJYUKygr-CTmZ5RUqzgX1ryfk_PixW7X6yY8bih59mahY-b-5_s6gFqety87HFDL7Lg4-YNEEGo4ZQHEBQoaOlzcXlnAhNkUGJBQaJVQGZiXr5DjUGNQjXIHgUbQzMtOzCrOq0WTANjCS10QGaAZGoUDBR0wRBEmwJxjYJhHJABJHSRWDUKxnEgFoREFgczYKoh0lBDQKbCBIA0UBRqJZADQWBxGBNoFJiFSYJNg5lkCoZIViCcDzEf6Fm0mMblWVOYISAmnAEVQxAI10EQUBmcQPEMWATFp3AngiyEeAJNkDquwAxYJLcQ4QoQhIceWi6AhV51LjQ1YTgNOcrBVqI5GBFLCHuqC2CGwRWgOgTJOrQUgeovhIVYUgWyfXALsfi8lotL104BkacUgDxlLgA)]
 - [鋼琴伴奏 TMD 檔案](kisho_rappa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixdfvTXV1Pp7U_7V_7uHn3y93znk7cA-c-29bxvL0Dwn2_p-Nl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKhgaGnHZ2yo4c9kY6ZvYcdUpKD1t3_Vi5tT3e2Y9buh6OmXjs7U9T3dMe9zQDTTFyMDIQM_AwEzPwMLEGGhGgIGJoV5WQbqCRlJ-SUl-riZQjbmewotNe17ObIHY_WLtHKBCJS4u78zijPygxIKCRKuAzMS8_CAPhxqDGoVqLgUgsDE007IDs6pz02rBjBoFAwVdMATRpkBco2CsbRgHZIIpXTRejYKptnGcAkgISmPIQ5jIuoEK4dJQBlAGLgg2CSgHdRCYC0RQYTRuDdBObVOwCB4G1B6EHYbapkCXgUiII0xhzkB4HmY_aoCYItwM4iAx4eKoFJo7gQjCALoBjcbwKkwCLUBQXAtyFcRnWCRo61zs8YPuaBKcC4IQU6tzC2DpEasr0ZMP1DIsfjCGOgcZQu2AW4GmDKdTcCUwFM9icQ_OZIbsGCQPYw2WWszM7IMrM8PNQk674DStYBgPch6IQLCoIAoLIdw6jOECYBaGqGk8ivFwM3BlRYLeQRhtiKYUIYNDFNU3qE7BL0q2QzACEIsjiXEIetLG7Sx8otBwxkibMAm0LEK0dVBPYfcVdhthMig5QddOAZEZFAjwlLkA)]
 
 ## 分析
@@ -77,14 +62,14 @@ c8 | !pp! c4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 起床喇叭・點呼喇叭・消燈喇叭 ]
 ================================================================================
-⏱  Duration:       1:36 (96.4s), 90 measures total
+⏱  Duration:       0:32 (32.1s), 30 measures total
 🎼 Key & Tempo:    首調基準 C, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    G4 (MIDI 67) – G5 (MIDI 79) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  G4 in [KishoRappa #1 @ m.1, 0:00]
    - 最高音: G5 in [KishoRappa #1 @ m.7, 0:06]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      KishoRappa (32.1s) -> KishoRappa (32.1s) -> KishoRappa (32.1s)
+🏛  結構:      KishoRappa (32.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -92,11 +77,9 @@ c8 | !pp! c4 z4 |
    - 核心骨幹音:  C, G, E
    - 調性數值:    C 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.89), C 小調 (0.61), E 小調 (0.58)
-   - 五度圈歷程:   +0 -> +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
      • [KishoRappa #1]: C 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [KishoRappa #2]: C 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [KishoRappa #3]: C 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -123,7 +106,7 @@ c8 | !pp! c4 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : G4 – G5 (12 個半音 / 1.0 個八度, 357 個音符)
+  - Piano         : G4 – G5 (12 個半音 / 1.0 個八度, 119 個音符)
 ================================================================================
 ```
 

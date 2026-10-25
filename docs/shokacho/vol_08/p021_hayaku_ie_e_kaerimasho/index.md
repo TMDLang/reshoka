@@ -53,14 +53,11 @@ V:V1 name="Piano" snm="Pia"
 !mf! C8 D4 E4 | F4 F4 E8 | D4 C4 B,4 D4 | C12 z4 |
 E6 F2 G4 C4 | A6 G2 F8 | E4 D4 C4 B,4 | A,12 z4 |
 D8 B,4 G,4 | E4 F4 G4 E4 | F6 E2 D4 G4 | C12 z4 |
-!mf! C8 D4 E4 | F4 F4 E8 | D4 C4 B,4 D4 | C12 z4 |
-E6 F2 G4 C4 | A6 G2 F8 | E4 D4 C4 B,4 | A,12 z4 |
-D8 B,4 G,4 | E4 F4 G4 E4 | F6 E2 D4 G4 | C12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hayaku_ie_e_kaerimasho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGRIboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKCgEpeWlsKz6SsfN_Y_XbftceOOpzs2PG7qety473Hj7MeNbe_3dDzdv_rp7HlA2acTlr_f06mgpcWlaKtgaGDAZW-r4MxlY6JvYgey62n7rhczp77fM-vJjoanO7co6Cs87egCmzXzcVMHkAE069mMtUZ6hoZ6xgZAk8AufNzQ9XTKxmdre57umPa4oRuoxsjAyEDPwMBMz8DCxBioDBSaelkF6QoaSfklJfm5mkpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0A53zYuW8p60rnk1rB4XAht5n7Z0KcIc82dH9tBfonU6gZ0G6X6za_6xhOUhfd--LmfOBoo-b-4GCCsCgUQCKAY1wVni6ZDmKUCdY54rdL1bMQA4zRAihBx8XSANQ3eOGRhDrcfOix03LHjcD0dTHTWseN-1_3NwNFO163LzqcfO8x03bgUJghU1AhatBok1rgJwlj5tnQFS2PG5ai6qyuf9x85LHTeuByoCqgSY3AhUDOUDdQD0QY3cDJSBO2dUDc0rj9MdNkx83bnzc2PK4cdXjRqCDgBY0At2-CCwE5E-GKAQmq8WPG5c9bpqApnDD48YmJIVEuwSomPIkAAUKWvpcXB6JlYnZpZ6prt6JqUWZucCsmG8VkJmYl-9QY1CjUA2yUMHGQssOzKjOTasFM2oUDBV0wdAIiI2BuEbBBEiCMIgHgjVgOZA683ioQoQ2EDQAiUCNg2gyUTCFaqlRMAOLmIKNhBgHUoNiJFARiMJmHkgdCILVmUIUg_SDTAPZgXAyiA1SDRLF5r5aLi5dOwUswaSAW1iZCwA)]
+- [主旋律 TMD 檔案](hayaku_ie_e_kaerimasho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGRIboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKCgEpeWlsKz6SsfN_Y_XbftceOOpzs2PG7qety473Hj7MeNbe_3dDzdv_rp7HlA2acTlr_f06mgpcWlaKtgaGDAZW-r4MxlY6JvYgey62n7rhczp77fM-vJjoanO7co6Cs87egCmzXzcVMHkAE069mMtUZ6hoZ6xgZAk8AufNzQ9XTKxmdre57umPa4oRuoxsjAyEDPwMBMz8DCxBioDBSaelkF6QoaSfklJfm5mkpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0A53zYuW8p60rnk1rB4XAht5n7Z0KcIc82dH9tBfonU6gZ0G6X6za_6xhOUhfd--LmfOBoo-b-4GCCsCgUQCKAY1wVni6ZDmKUCdY54rdL1bMQA4zRAihBx8XSANQ3eOGRhDrcfOix03LHjcD0dTHTWseN-1_3NwNFO163LzqcfO8x03bgUJghU1AhatBok1rgJwlj5tnQFS2PG5ai6qyuf9x85LHTeuByoCqgSY3AhUDOUDdQD0QY3cDJSBO2dUDc0rj9MdNkx83bnzc2PK4cdXjRqCDgBY0At2-CCwE5E-GKAQmq8WPG5c9bpqApnDD48YmJIVEuwSomPIkAAUKWvpcXB6JlYnZpZ6prt6JqUWZucCsmG8VkJmYl-9QY1CjUA2yUMHGQssOzKjOTasFM2oUDBV0wdAIiI2BuEbBBEiCMIgHgjVgOZA683ioQoQ2EDQAiUCNg2gyUTCFaqlRMAOLmIKNhBgHUoNiJFARiMJmHkgdCILVmUIUg_SDTAPZgXAyiA1SDRLF5r5aLi5dOwUswaQAFFbmAgA)]
 - [鋼琴伴奏 TMD 檔案](hayaku_ie_e_kaerimasho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2feXjxv6n67Y9btzxdMeGx01djxv3PW6c_bix7f2ejqf7Vz-dPQ8o-3TC8sfNu19273k-YcuTPVueLu1_3tnxfk-ngpYWl6KtgqGBAZe9rYIzl42JvokdV52C0tP2XS9mTn2_Z9aTHQ1Pd25R0Fd42tEFNn3m46YOIANo-rMZa430DA31jA2AJimBdD1u6Ho6ZeOztT1Pd0x73NANVGNkYGSgZ2BgpmdgYWIMVBZgYGSol1WQrqCRlF9Skp-rqcTF5ZFYmZhd6pnq6p2YWpSZm1ickW8VkJmYlx_k4VBjUKNQzaUABDYWWnZgRnVuWi2YUaNgqKALhkZAbAzEQBFtEyANI0FiIFijYB6vDVIE0mAeD9VRo2Aarw0zAgQNQIIwo6GaTRSMtU2hOkGiZmBRU6gVEMMhapGsMFWP1wZbU6NgHK9tBmJhswOqAwTBqk0hWiDGGYEtgFoOFoH5DuRXqFYgBZIH69E2jMOwpxZP6PrgCN0CeOjC3YRg1SiYgCgwgSwKpozhAqbxUK-gGoESwKhSYL1Q08ECRnB7QIEIN9MYiaxRMIPygASEiWwDRAPYHCQm3GasHkMIoHkBzQ_AgNW1U8AStgq4hZW5AA)]
 
 ## 分析
@@ -69,14 +66,14 @@ D8 B,4 G,4 | E4 F4 G4 E4 | F6 E2 D4 G4 | C12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 早く家へ帰りませう（快回家吧） ]
 ================================================================================
-⏱  Duration:       0:57 (57.6s), 24 measures total
+⏱  Duration:       0:28 (28.8s), 12 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    G3 (MIDI 55) – A4 (MIDI 69) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  G3 in [HayakuIeEKaerimasho #1 @ m.9, 0:21]
    - 最高音: A4 in [HayakuIeEKaerimasho #1 @ m.6, 0:12]
    - 適合: mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      HayakuIeEKaerimasho (28.8s) -> HayakuIeEKaerimasho (28.8s)
+🏛  結構:      HayakuIeEKaerimasho (28.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -84,10 +81,9 @@ D8 B,4 G,4 | E4 F4 G4 E4 | F6 E2 D4 G4 | C12 z4 |
    - 核心骨幹音:  C, E, D, F, G
    - 調性數值:    C 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.89), A 小調 (0.72), F 大調 (0.65)
-   - 五度圈歷程:   +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
      • [HayakuIeEKaerimasho #1]: C 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [HayakuIeEKaerimasho #2]: C 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -114,7 +110,7 @@ D8 B,4 G,4 | E4 F4 G4 E4 | F6 E2 D4 G4 | C12 z4 |
      B  : ███████                    6.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : G3 – A4 (14 個半音 / 1.2 個八度, 70 個音符)
+  - Piano         : G3 – A4 (14 個半音 / 1.2 個八度, 35 個音符)
 ================================================================================
 ```
 

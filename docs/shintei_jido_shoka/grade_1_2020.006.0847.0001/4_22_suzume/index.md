@@ -60,14 +60,11 @@ V:V1 name="Piano" snm="Pia"
 F2 A2 G2 F2 | c2 c2 c2 z2 | d2 c2 d2 c2 | A2 A2 G2 z2 |
 F2 A2 G2 F2 | c2 c2 c2 z2 | d2 c2 A2 G2 | F6 z2 |
 C4 C4 | F F F C F2 z2 | A2 A2 G2 G2 | F6 z2 |
-F2 A2 G2 F2 | c2 c2 c2 z2 | d2 c2 d2 c2 | A2 A2 G2 z2 |
-F2 A2 G2 F2 | c2 c2 c2 z2 | d2 c2 A2 G2 | F6 z2 |
-C4 C4 | F F F C F2 z2 | A2 A2 G2 G2 | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2vm4adfj5oXv93S83LX75eyG93s6FbS0uBRtFQwNDLjsbRXcuGyM9E3sQGa8WDnv_Z5ZLybOfto3_8OyjZvBBj-bvQko-HRD_7O5-140TH2xZwpY-EX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuxoeLp2x9OdW55PWQF0FShE9YAhqgcKUSDDwBDoQiUufS0FoMXPZ697sWrVsxl9XAoKCk92rH02rf3F8sUv27uBLnrW3_90_WqIp57OWfF0Y_fzDdsfNzQ-3bX25cxFL6dNfrl49ovtm18sAzLmP5_V8qy59dnM9Y8bmri09LmA5nMBHcL1uGnR4-bGx80rHzf3PW5e8ri593FzOxdYaNnj5s14GV2Pm9Y_bl4BNANIAUUnPG7aDjKvaePj5jag6CaQqqa1QCVAFXjMxEVuBpqx9XHzjMfNrY-bV4Ns4nqyqwcoCNFJkZOb54GcCUoZ3cgeob6TQWHtm5iZZxWQmZiX71BjUKNQDYpMBRtDMy07MKtGwVBBV8EYiI2AGMSuUTAFkjBsABYxg_JgdA1YB0wXWA0ZpsHUQXTBILJppvFQQTgDpBYEgQIgTRADkR2Dy8BaLi5dOwVQaCgg0cpcXAA)]
+- [主旋律 TMD 檔案](suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2vm4adfj5oXv93S83LX75eyG93s6FbS0uBRtFQwNDLjsbRXcuGyM9E3sQGa8WDnv_Z5ZLybOfto3_8OyjZvBBj-bvQko-HRD_7O5-140TH2xZwpY-EX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnuxoeLp2x9OdW55PWQF0FShE9YAhqgcKUSDDwBDoQiUufS0FoMXPZ697sWrVsxl9XAoKCk92rH02rf3F8sUv27uBLnrW3_90_WqIp57OWfF0Y_fzDdsfNzQ-3bX25cxFL6dNfrl49ovtm18sAzLmP5_V8qy59dnM9Y8bmri09LmA5nMBHcL1uGnR4-bGx80rHzf3PW5e8ri593FzOxdYaNnj5s14GV2Pm9Y_bl4BNANIAUUnPG7aDjKvaePj5jag6CaQqqa1QCVAFXjMxEVuBpqx9XHzjMfNrY-bV4Ns4nqyqwcoCNFJkZOb54GcCUoZ3cgeob6TQWHtm5iZZxWQmZiX71BjUKNQDYpMBRtDMy07MKtGwVBBV8EYiI2AGMSuUTAFkjBsABYxg_JgdA1YB0wXWA0ZpsHUQXTBILJppvFQQTgDpBYEgQIgTRADkR2Dy8BaLi5dOwVQaCgAaWUuLgA)]
 - [鋼琴伴奏 TMD 檔案](suzume_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx067HzQvf7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGhhw2dsquHHZGOmb2HHVKSi9WDnv_Z5ZLybOfto3_8OyjZuVQILPZm8CCj7d0P9s7r4XDVNf7JkCFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1YAXWhkYGSgZ2BgpmdgYWIOZBgYAl2oxMXlm5iZZxWQmZiXH-ThUGNQo1DNpQAENoZmWnZgVo2CoYKugjEQGwExiF2jYAokYdgALGIG5cHoGrAOmC6wGjJMg6mD6IJBZNNM46GCcAZILQgCBUCaIAYiOwaXgbXIgeGDEhgW8LCINowFKo42jQdRcC6QNADxTMA8MImiFChJgn5USZDz4LohUri0YzMboh3oN107BZD3FJBoZS4uAA)]
 
 ## 分析
@@ -76,14 +73,14 @@ C4 C4 | F F F C F2 z2 | A2 A2 G2 G2 | F6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ スズメ（麻雀） ]
 ================================================================================
-⏱  Duration:       0:28 (28.8s), 24 measures total
+⏱  Duration:       0:14 (14.4s), 12 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [Main #1 @ m.9, 0:09]
    - 最高音: D5 in [Main #1 @ m.3, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (14.4s) -> Main (14.4s)
+🏛  結構:      Main (14.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -91,10 +88,9 @@ C4 C4 | F F F C F2 z2 | A2 A2 G2 G2 | F6 z2 |
    - 核心骨幹音:  C, F, A, G, D
    - 調性數值:    F 大調 [相關度: 0.89, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): F 大調 (0.89), C 大調 (0.78), A 小調 (0.61)
-   - 五度圈歷程:   -1 -> -1
+   - 五度圈歷程:   -1
    - 各段落調性細節:
      • [Main #1]: F 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [Main #2]: F 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -121,7 +117,7 @@ C4 C4 | F F F C F2 z2 | A2 A2 G2 G2 | F6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 76 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 38 個音符)
 ================================================================================
 ```
 

@@ -58,16 +58,12 @@ V:V1 name="Voice" snm="Voi"
 c8 z4 c4 | e8 d4 c4 | B8 z4 B4 | A8 G6 F2 |
 !mf! F8 z4 A4 | G4 F4 E4 G4 | B8 z4 c4 | B4 A4 G4 B4 |
 !f! e8 z4 B4 | e8 c6 c2 | c8 z4 e4 | G8 F6 E2 |
-E8 z4 z4 | !f! z4 z4 z4 E4 | E8 G6 B2 | e8 z4 B4 |
-e8 c6 c2 | c8 z4 c4 | e8 d4 c4 | B8 z4 B4 |
-A8 G6 F2 | !mf! F8 z4 A4 | G4 F4 E4 G4 | B8 z4 c4 |
-B4 A4 G4 B4 | !f! e8 z4 B4 | e8 c6 c2 | c8 z4 e4 |
-G8 F6 E2 | E8 z4 z4 |
+E8 z4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](fujisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgaI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh3MS81KAVhekokvkJZaUFmGIFuQkJgMFtbQUnq7vebp49dONGxW0tLgUbRUMDUy47G0VXHW4bEz0TexA-p6273oxc-r7PbOetm58Prvr6dS250v2PVvR9HTmiqe7pj9u6Ho6ZeOztT3Pps58vnzis9k7FICspztWP5-yQuHp9t1PZ89-3ND9fM2ap72NQPb7vfOAjCe7prxc0Ph-TwdQ_MmunqdrdzybMx_E3tHwbPam93s6wQ72c_FRcMlMzyxJzFFwhsd8sUKAp4sCJG6BJmSUlBQUW-nrp-To5QFxer5eVoF-QWaKPkxF57O-5mf9_QqgGAXKAUOUS19LwZZagEtBQeFp33ygv19sbn-xoutFRzswMF6snPe0dcWzae1AF4K8gXAyReHVg-YXoO-A8QJywotV-581LAdZ3t37YuZ8oOiLdV2PG3cDxYGmPO1oe9zcB2QAZZ-unQB0lOujmWufLlkOlFYAxrMCUBxsVs-jmSttgWkAyHrcAEwZ64FqHjd3P24ASvc83bPxxdbtoDjq7gXbuWL3ixUzQAlj2roXjZteNq8AKgJG5_P1DUALgSTQl48bml5O6365YK1CGlASHMWdz9ZthUT909bVTzf0AxWC2BDHga0AOiUXqhwkDFcOCogeXDrSgFZBkhBcBZD9cv5mYOA93z7rxdo5z5t2gfR3tAEFn69ZpgAKA6BPOwwVdCGef7Kj-9m0nc83LAQqfran_2nvhqe7t72cuh2o_WlzK5ALDBNDBQVjPQXTeEiQPJuz5tmqKU_2zYVbAgwRNHuA7oImkqetO57tmfJ0af-zzSuetfQDQ-5le-_jhtbHjdMfN_aDQqtx6-PGnUD244bG5y3bHjd2P25qer595bM9qx83rn62tfFxUzdYAVC883HjLBSjX6ya97K9G2jo48aJjxsXgBQ1At3Y8WRH19PJjY8bVwE9CdIA0gEMGaAVINbjxiawrZMeN3U8bmoBioK5Mx43rgNxG_fB1IE57_cAXb0HJAdS1wR2ziqwTavh5oGS3fOVuyCKXs7e9Lhp0vO5DY8bgQEBVYFw3uNGYAoBmjQXpLpxJojbOB_uyF0gSYgWoOy8x01A_0MdCSm3wOL7HzeuhasDcWCOXA82GuQccIABjV4JV7fwceOKx42zQX4F-gGkbjowSF_OBnoG5GyIol6QdSBHTga5EOHOyY-b5j5uAsYcOPQpL0OgQEFLn4vLrTQrszgxzyosPzM51aHGoEahGmSJgo2Flh2YUZ1WC6aBhZgGJPFrgiJRoQZIbgXiScCo6gDxmlrAIiDxGaAQBIuAePvALKBlIGNqFAwUdOEYmBWAIiASBI3BpClIJA4qBFJkClEEEzKDkjVQFkQRiF0DcyjMThANcgHQLRAXN3UDWauAuBssvhqUfBAug1thDjMQbDeqO0xQHGsEFDFCUlOdm1YLVoLklt0Kj5v3AOl5QPs74e7pB7unCSLXBAzFxl6w3DJQgkW4CWQNyAJQGIHYqE5COBJkJ0geLbDAbgI6CSyMcNICcBDArOwB4rlwh80Ei4B487EEDfbQB0tDHAsJFRBpiBS1sAiv4arl4tK1U4AmOwVUpjIXAA)]
+- [主旋律 TMD 檔案](fujisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgaI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh3MS81KAVhekokvkJZaUFmGIFuQkJgMFtbQUnq7vebp49dONGxW0tLgUbRUMDUy47G0VXHW4bEz0TexA-p6273oxc-r7PbOetm58Prvr6dS250v2PVvR9HTmiqe7pj9u6Ho6ZeOztT3Pps58vnzis9k7FICspztWP5-yQuHp9t1PZ89-3ND9fM2ap72NQPb7vfOAjCe7prxc0Ph-TwdQ_MmunqdrdzybMx_E3tHwbPam93s6wQ72c_FRcMlMzyxJzFFwhsd8sUKAp4sCJG6BJmSUlBQUW-nrp-To5QFxer5eVoF-QWaKPkxF57O-5mf9_QqgGAXKAUOUS19LwZZagEtBQeFp33ygv19sbn-xoutFRzswMF6snPe0dcWzae1AF4K8gXAyReHVg-YXoO-A8QJywotV-581LAdZ3t37YuZ8oOiLdV2PG3cDxYGmPO1oe9zcB2QAZZ-unQB0lOujmWufLlkOlFYAxrMCUBxsVs-jmSttgWkAyHrcAEwZ64FqHjd3P24ASvc83bPxxdbtoDjq7gXbuWL3ixUzQAlj2roXjZteNq8AKgJG5_P1DUALgSTQl48bml5O6365YK1CGlASHMWdz9ZthUT909bVTzf0AxWC2BDHga0AOiUXqhwkDFcOCogeXDrSgFZBkhBcBZD9cv5mYOA93z7rxdo5z5t2gfR3tAEFn69ZpgAKA6BPOwwVdCGef7Kj-9m0nc83LAQqfran_2nvhqe7t72cuh2o_WlzK5ALDBNDBQVjPQXTeEiQPJuz5tmqKU_2zYVbAgwRNHuA7oImkqetO57tmfJ0af-zzSuetfQDQ-5le-_jhtbHjdMfN_aDQqtx6-PGnUD244bG5y3bHjd2P25qer595bM9qx83rn62tfFxUzdYAVC883HjLBSjX6ya97K9G2jo48aJjxsXgBQ1At3Y8WRH19PJjY8bVwE9CdIA0gEMGaAVINbjxiawrZMeN3U8bmoBioK5Mx43rgNxG_fB1IE57_cAXb0HJAdS1wR2ziqwTavh5oGS3fOVuyCKXs7e9Lhp0vO5DY8bgQEBVYFw3uNGYAoBmjQXpLpxJojbOB_uyF0gSYgWoOy8x01A_0MdCSm3wOL7HzeuhasDcWCOXA82GuQccIABjV4JV7fwceOKx42zQX4F-gGkbjowSF_OBnoG5GyIol6QdSBHTga5EOHOyY-b5j5uAsYcOPQpL0OgQEFLn4vLrTQrszgxzyosPzM51aHGoEahGmSJgo2Flh2YUZ1WC6aBhZgGJPFrgiJRoQZIbgXiScCo6gDxmlrAIiDxGaAQBIuAePvALKBlIGNqFAwUdOEYmBWAIiASBI3BpClIJA4qBFJkClEEEzKDkjVQFkQRiF0DcyjMThANcgHQLRAXN3UDWauAuBssvhqUfBAug1thDjMQbDeqO0xQHGsEFDFCUlOdm1YLVoLklt0Kj5v3AOl5QPs74e7pB7unCSLXBAzFxl6w3DJQgkW4CWQNyAJQGIHYqE5COBJkJ0geLbDAbgI6CSyMcNICcBDArOwB4rlwh80Ei4B487EEDfbQB0tDHAsJFRBpiBS1sAiv4arl4tK1U4AmOwUgU5kLAA)]
 
 ## 分析
 
@@ -75,14 +71,14 @@ G8 F6 E2 | E8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 富士山 ]
 ================================================================================
-⏱  Duration:       1:18 (78.5s), 34 measures total
+⏱  Duration:       0:39 (39.2s), 17 measures total
 🎼 Key & Tempo:    首調基準 E,, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D#4 (MIDI 63) – D#5 (MIDI 75) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D#4 in [Fujisan #1 @ m.1, 0:01]
    - 最高音: D#5 in [Fujisan #1 @ m.3, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Fujisan (39.2s) -> Fujisan (39.2s)
+🏛  結構:      Fujisan (39.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -90,10 +86,9 @@ G8 F6 E2 | E8 z4 z4 |
    - 核心骨幹音:  D#, C, A#, G, F
    - 調性數值:    D# 大調 [相關度: 0.93, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): D# 大調 (0.93), C 小調 (0.83), G# 大調 (0.56)
-   - 五度圈歷程:   -3 -> -3
+   - 五度圈歷程:   -3
    - 各段落調性細節:
      • [Fujisan #1]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
-     • [Fujisan #2]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -120,7 +115,7 @@ G8 F6 E2 | E8 z4 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Voice         : D#4 – D#5 (12 個半音 / 1.0 個八度, 84 個音符)
+  - Voice         : D#4 – D#5 (12 個半音 / 1.0 個八度, 42 個音符)
 ================================================================================
 ```
 

@@ -66,16 +66,11 @@ E4 C4 | B,2 B,2 E2 E2 | !p! F2 G2 F2 F2 | E6 z2 |
 B2 B2 B2 B2 | B4 B2 B2 | c2 e2 c2 c2 | B6 z2 |
 !mp! G2 G2 B2 B2 | c2 c2 e2 B2 | c2 c2 B2 B2 | G6 z2 |
 !mf! E4 C4 | B,2 B,2 E2 E2 | F2 G2 F2 F2 | E6 z2 |
-B4 c4 | B2 B2 B2 B2 | !mp! B2 B2 G2 G2 | G2 G2 F2 z2 |
-E4 C4 | B,2 B,2 E2 E2 | !p! F2 G2 F2 F2 | E6 z2 |
-B2 B2 B2 B2 | B4 B2 B2 | c2 e2 c2 c2 | B6 z2 |
-!mp! G2 G2 B2 B2 | c2 c2 e2 B2 | c2 c2 B2 B2 | G6 z2 |
-!mf! E4 C4 | B,2 B,2 E2 E2 | F2 G2 F2 F2 | E6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yuhi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW3mJJaVFqeii5amJQEaREpeWlsLTJVOfTV_6fk8HkPFy5t73ezoVtLS4FG0VDA0suOxtFVy5bIz0TexAJjydsvHZ2p6nO6YpgEJEQePF5DUvJnRBRBWMzV4uaNQE2_Ri5bz3e2a9mDj7ad_8x43THzdOetzUDZZ5NnsTUObpuiVPt_Q9n7Dl2ZwOJS4ufS0FW2oBLgUFLD4CiQZDIkUB4QkNIwMjAz0DAzM9AwsTY00dsK_0sgrSQcp9E4vSM_MScxRA0VtspWCpoK-A7G6gT4AimCEAUrZ_9bMtux83d4PM8U6ttFJ43Dz7xar9ChquCrmJWflFQKtCMoHRoAAMWCAzNbcgH-guZF0-lUWZycVWIKahnsLjpnWPmzejUCshJNDkZY-bpz5uBobwGqDM9sfNrY-bF4D04dUEUo6qunne4-bmx02rkUmgrr0gXc19j5vWP25eBFE4H2je4-YuoChQfhVY8WygJLoRpLvBiD4-bex-3NT5uHHm46YOIKfrceOmx02TIKwlIMnGiY8bl0FU7oMJAYOicS6Mvwwus-xx4-THjS2kO4LyhA4FClr6XFyRpRmZVmH5yYk5DjUGNQrVIBsUbCy07MCMGgVTBV0FMyAGsSAQqCi3oBbMNAbCGjBppGCgUAPWAsyRDjngJGiroAT0BdALYD8h0UBvwehmYIA0TwV5EygGjhsguxWIFyiBnIdqYLwRlYysUTAEeSse4q94EDIEQqDPgB4zAnvHCKpIl1yPUdFD-DyCiBVQTEFYZgqGcUDCDCqIywvN84BmNQPNBaZQdLppL9RuUEZdD6QX4XR-YzdQSScwXc8E0uBsAcSbgFr2APngzAHES0B5B4gnAvEyJOeDkxIoAcFcDnY7jAkRNMbnh_mQMGsGWgIpVKD-mA1yM6hcQfcbbn_sQ3InONOC8ipUDJxvkdiTgbgFxR9ptbgS1VBJULVcXLp2CqACQQGJVuYCAA)]
+- [主旋律 TMD 檔案](yuhi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW3mJJaVFqeii5amJQEaREpeWlsLTJVOfTV_6fk8HkPFy5t73ezoVtLS4FG0VDA0suOxtFVy5bIz0TexAJjydsvHZ2p6nO6YpgEJEQePF5DUvJnRBRBWMzV4uaNQE2_Ri5bz3e2a9mDj7ad_8x43THzdOetzUDZZ5NnsTUObpuiVPt_Q9n7Dl2ZwOJS4ufS0FW2oBLgUFLD4CiQZDIkUB4QkNIwMjAz0DAzM9AwsTY00dsK_0sgrSQcp9E4vSM_MScxRA0VtspWCpoK-A7G6gT4AimCEAUrZ_9bMtux83d4PM8U6ttFJ43Dz7xar9ChquCrmJWflFQKtCMoHRoAAMWCAzNbcgH-guZF0-lUWZycVWIKahnsLjpnWPmzejUCshJNDkZY-bpz5uBobwGqDM9sfNrY-bF4D04dUEUo6qunne4-bmx02rkUmgrr0gXc19j5vWP25eBFE4H2je4-YuoChQfhVY8WygJLoRpLvBiD4-bex-3NT5uHHm46YOIKfrceOmx02TIKwlIMnGiY8bl0FU7oMJAYOicS6Mvwwus-xx4-THjS2kO4LyhA4FClr6XFyRpRmZVmH5yYk5DjUGNQrVIBsUbCy07MCMGgVTBV0FMyAGsSAQqCi3oBbMNAbCGjBppGCgUAPWAsyRDjngJGiroAT0BdALYD8h0UBvwehmYIA0TwV5EygGjhsguxWIFyiBnIdqYLwRlYysUTAEeSse4q94EDIEQqDPgB4zAnvHCKpIl1yPUdFD-DyCiBVQTEFYZgqGcUDCDCqIywvN84BmNQPNBaZQdLppL9RuUEZdD6QX4XR-YzdQSScwXc8E0uBsAcSbgFr2APngzAHES0B5B4gnAvEyJOeDkxIoAcFcDnY7jAkRNMbnh_mQMGsGWgIpVKD-mA1yM6hcQfcbbn_sQ3InONOC8ipUDJxvkdiTgbgFxR9ptbgS1VBJULVcXLp2CqACQQFIK3MBAA)]
 - [鋼琴伴奏 TMD 檔案](yuhi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOqz6Uvf7-kAMl7O3Pt-T6eClhaXoq2CoYEFl72tgiuXjZG-iR1XnYLS0ykbn63tebpjmkKAkbGZgsaLyWteTOiCiCoYm71c0KipBFL3YuW893tmvZg4-2nf_MeN0x83Tnrc1A2WeTZ7E1Dm6bolT7f0PZ-w5dmcDiUuLn0tBVtqAS4FBWw-etQwRSEgMzEvX8ExOTk_tyAxLzM3Na8EpDo4v7QoOdVKAeE5DSMDIwM9AwMzPQMLE2NNHbBv9bIK0kHKfROL0jPzEnMU8vJLUoutFCwV9BWQ_QP0IVAEM2RAyvavfrZl9-PmbpA5lHsVChS09Lm4IkszMq3C8pMTcxxqDGoUqkE2KNhYaNmBGTUKpgq6CmZADGJBIFBRbkEtmGkMhDVg0kjBQKEGrAUYJw45lUWZycW2CkqPm9YpPG7erIBKr0TQzcuAeCoQTwKKrQHi7UB2KxAvUAI5D9XAeCMqGVmjYAjyVjzEX_EgZAiEQJ8BPWYE9o4RVJEuuR6joofweQQRK6CYgrDMFAzjgIQZVBCXF5rnAc1qBpq7GpNu2gu1uw_IXg-kF-F0fmM3UEmnwuPGmUC6A0h3AfEmoJY9QD7Q6WD-EiAGqmucCMTLkJwPTkqgBARzOdjtMCZE0BifH-ZDwqwZaAnYraug_pgNcjMQY_gRtz_2IbkTqLxxLhDDxIBpCoU9GYhbUPyRVosrUQ2VBFULLQ3AxV2QB_byoBrkT21jbVDCMtQ20YaUDRARTBIawYZgAbAgGIM1gLFpvLZ5vDai9ACFnDYomEzitVGCEiwMJiC5FMg0QjEBRgPTS7w21BBEWMNiCKc7EX5CFQX50FgbmCYhTAiJUI5qA9irEI_BvAwzA8UkdGFUS0GOB5qAxflEhA0J4YIS3z444tsQZHw80Epgao5H8KEUMt8YzAdxYBjheiRTQBgsAFJvBjMWWRu6wRjG4LQc6kosjsVmBooeLHyC7iDfO8Cg98wrKcrHltdMEHkNmJ6iDWMVok1igbxos1wg0xTIRNOOGnUI7eCQAJWk4EQC1uWal5KZl07AVlAyBlkJSmBg62F2IuvGZSnQRnCBgLBT104B7FgFIAOU3kA0xCQQS5kLAA)]
 
 ## 分析
@@ -84,14 +79,14 @@ B2 B2 B2 B2 | B4 B2 B2 | c2 e2 c2 c2 | B6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 夕日（夕陽） ]
 ================================================================================
-⏱  Duration:       0:44 (44.4s), 40 measures total
+⏱  Duration:       0:22 (22.2s), 20 measures total
 🎼 Key & Tempo:    首調基準 E, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    B3 (MIDI 59) – E5 (MIDI 76) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  B3 in [Yuhi #1 @ m.6, 0:05]
    - 最高音: E5 in [Yuhi #1 @ m.11, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Yuhi (22.2s) -> Yuhi (22.2s)
+🏛  結構:      Yuhi (22.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       E 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -99,10 +94,9 @@ B2 B2 B2 B2 | B4 B2 B2 | c2 e2 c2 c2 | B6 z2 |
    - 核心骨幹音:  B, E, C#, G#, F#
    - 調性數值:    E 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): E 大調 (0.80), B 大調 (0.79), G# 小調 (0.62)
-   - 五度圈歷程:   +4 -> +4
+   - 五度圈歷程:   +4
    - 各段落調性細節:
      • [Yuhi #1]: E 調性不明確 (r: 0.80, 自然音純度: 100.0%)
-     • [Yuhi #2]: E 調性不明確 (r: 0.80, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -129,7 +123,7 @@ B2 B2 B2 B2 | B4 B2 B2 | c2 e2 c2 c2 | B6 z2 |
      B  : ████████████████████████  37.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : B3 – E5 (17 個半音 / 1.4 個八度, 120 個音符)
+  - Vocal         : B3 – E5 (17 個半音 / 1.4 個八度, 60 個音符)
 ================================================================================
 ```
 

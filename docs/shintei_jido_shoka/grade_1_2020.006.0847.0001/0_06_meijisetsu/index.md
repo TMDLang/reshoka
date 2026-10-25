@@ -72,8 +72,6 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 z4 z4 z4 F4 | F6 E2 D4 F4 | A6 A2 F4 E4 | B6 B2 A4 G4 |
 F8 E4 A4 | A6 A2 F4 A4 | d6 d2 c4 B2 B2 | c6 B2 A4 G4 |
-A8 z4 F4 | F6 E2 D4 F4 | A6 A2 F4 E4 | B6 B2 A4 G4 |
-F8 E4 A4 | A6 A2 F4 A4 | d6 d2 c4 B2 B2 | c6 B2 A4 G4 |
 A8 z4 E4 | E6 F2 G4 B4 | A6 A2 F4 A4 | d6 d2 c4 B4 |
 A8 F4 A4 | d8 c4 B4 | A6 B2 F4 A4 | A8 B4 c4 |
 d8 z4 z4 |
@@ -81,7 +79,7 @@ d8 z4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](meijisetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqSi6oaIJ6cWpebm54FltLQUns3oe7Zp9_P1DQpaWlyKtgqWZlz2tgouXDYm-iZ2IK0vVs57v2fW0wUNz_YteTpxxdN1nWATn83eBBR-Nrfz2cb5z5c3gMVetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQV7_d0gMJXDxi-eqDwBTIMDN_vAdrKpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F1Azz5tXfFsWjvQFU839D5r71QIMDA00MsqSFd41DAZxDEEcd7v6Xna0vB0Tz9Qj0JBgZ6CGVDWHCgK9IyCmcLLZdOALgaGD8iWF6v2P2tYDjK_u_fFzPlA0cfN3S-nbgeKKwADWQEo_HTtBKDexw09T7vbHze0Pm7a_rhp_eOGXpAr-ua_WDvnaWfv09aVLxb2PJvT-bS_98WythcrZoAN6-QC2QEMwMcNDU92zXm-ZQOQBOp73Nj0uHHG46YWoJLHjeuezd0IFtz0uLHnceN0kGBDw7PpS5-274KJQ1QufdzU_WLmVLDgiseNkx83AV3RCfZHI9BTEKVAc7sg5j6dMBss2Pu4cT9EBGju8_59UBc0AUXWg8SbgLbuA1r8uHEZOOT7l4BVbAXaBtbW-3TJyqdzNsC0NT5uXPK4cSHEmWCHTHvcOBuo-OWc5VD7IC5omgQ2bsnyp_sWPm0FBjlQrutx426gc8Au7Ya5dDXQoJezOsAK-oFuAQuuArPXg525CWQQMO2CVDRNAjt1B1gRMByBLl8LUgo0onEyMMeATQFasBAsCwogsBETgWrApmzaDTMFGJBAucbnW5eB9cyH2bwD6BegcUBXP9m9-OkGoBvBJjZB1GwFehketbuACaPhWeNWsJHAgJkAD-pnmxeB9QG9AREBppmGp62rn20B5k2g4hawLyAWrn65ZAYsWYBFmrrAIbdv4fMVc56uaIR5CagHGDUg018uAuVFUBA2AhMU1PRnW7eDUuQ2iIPbwHZvAHt-MlgNUBAcwc-XAksNiGaoY5_smwt2FDAKgNypkOiEBMGzpWth_gdGByjrAMPu6R6IezdBUiDQ6-Cg3TARFpCwQFi2DpgvwIJAQ4Hx3QYWB0XW0y5I4gRGE1AcmDjA5m6EJO51YGUbgEEESUGQxA0KdmAIPJ3TDUSwxLIaHOir4en7aT84fEHRBHHE6sdNTS8mAnMVUHA6LEmDk8JzSIICpuAmYIAQSApPJ_Q-n9oPiwlgyAJDDxiBoJCF5nJQdni-HOIwWMprXPd8JSQTz4V6snEmyICGhhf9kGgCZk6gqeA4XTbz5WpIuALNBjoBmvvApu_uAhYIYDlgQgYmN7BvQSmyFyYO9DYoCEGOmAUMZqg7wSong3MpMN_1wbL4ulmwSFkA8TmsBJiIiPg2SEACTQHaBM3QT7eASl-w_4DRCov4F6shaQRoHCSOQCkb2bgXK6c87W6FGQdyDtS4dZBMvw8YR4h0D8x1QPRsDjiJA_0I8iYwW4MT1GJg0gCKAIshaCEHKlrB6oGlNpJ6cPEIKUuBkdi4GmIurAyDhmDf06WQUgnoWHDGAuaVpskg7wPLrB3gLIEosIBxshJa2lJew0GBgpY-F5ejoVVAZmJevkONrmGNQjXIAgUbEy07MKNGwQAMjRVqoHwNYwVdXQUjTVUNXV1NBUOQjIKGKUjMFCpmrGCEUG0GkjGDypgqmADFgAYAVZgi1KDpBsooaBjGgQQN46Ci5iCTzBRAPE2ERnNMw4FmgR1cw1UL9JoREV5DcqwRyDxjqHkmQPuwOg6mGsOJIPUg-5FVgRRBpcBGwVyLrAakxwyoCKoa7nxdOwVHQwUwCWYbgUhlLi4A)]
+- [主旋律 TMD 檔案](meijisetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqSi6oaIJ6cWpebm54FltLQUns3oe7Zp9_P1DQpaWlyKtgqWZlz2tgouXDYm-iZ2IK0vVs57v2fW0wUNz_YteTpxxdN1nWATn83eBBR-Nrfz2cb5z5c3gMVetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQV7_d0gMJXDxi-eqDwBTIMDN_vAdrKpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F1Azz5tXfFsWjvQFU839D5r71QIMDA00MsqSFd41DAZxDEEcd7v6Xna0vB0Tz9Qj0JBgZ6CGVDWHCgK9IyCmcLLZdOALgaGD8iWF6v2P2tYDjK_u_fFzPlA0cfN3S-nbgeKKwADWQEo_HTtBKDexw09T7vbHze0Pm7a_rhp_eOGXpAr-ua_WDvnaWfv09aVLxb2PJvT-bS_98WythcrZoAN6-QC2QEMwMcNDU92zXm-ZQOQBOp73Nj0uHHG46YWoJLHjeuezd0IFtz0uLHnceN0kGBDw7PpS5-274KJQ1QufdzU_WLmVLDgiseNkx83AV3RCfZHI9BTEKVAc7sg5j6dMBss2Pu4cT9EBGju8_59UBc0AUXWg8SbgLbuA1r8uHEZOOT7l4BVbAXaBtbW-3TJyqdzNsC0NT5uXPK4cSHEmWCHTHvcOBuo-OWc5VD7IC5omgQ2bsnyp_sWPm0FBjlQrutx426gc8Au7Ya5dDXQoJezOsAK-oFuAQuuArPXg525CWQQMO2CVDRNAjt1B1gRMByBLl8LUgo0onEyMMeATQFasBAsCwogsBETgWrApmzaDTMFGJBAucbnW5eB9cyH2bwD6BegcUBXP9m9-OkGoBvBJjZB1GwFehketbuACaPhWeNWsJHAgJkAD-pnmxeB9QG9AREBppmGp62rn20B5k2g4hawLyAWrn65ZAYsWYBFmrrAIbdv4fMVc56uaIR5CagHGDUg018uAuVFUBA2AhMU1PRnW7eDUuQ2iIPbwHZvAHt-MlgNUBAcwc-XAksNiGaoY5_smwt2FDAKgNypkOiEBMGzpWth_gdGByjrAMPu6R6IezdBUiDQ6-Cg3TARFpCwQFi2DpgvwIJAQ4Hx3QYWB0XW0y5I4gRGE1AcmDjA5m6EJO51YGUbgEEESUGQxA0KdmAIPJ3TDUSwxLIaHOir4en7aT84fEHRBHHE6sdNTS8mAnMVUHA6LEmDk8JzSIICpuAmYIAQSApPJ_Q-n9oPiwlgyAJDDxiBoJCF5nJQdni-HOIwWMprXPd8JSQTz4V6snEmyICGhhf9kGgCZk6gqeA4XTbz5WpIuALNBjoBmvvApu_uAhYIYDlgQgYmN7BvQSmyFyYO9DYoCEGOmAUMZqg7wSong3MpMN_1wbL4ulmwSFkA8TmsBJiIiPg2SEACTQHaBM3QT7eASl-w_4DRCov4F6shaQRoHCSOQCkb2bgXK6c87W6FGQdyDtS4dZBMvw8YR4h0D8x1QPRsDjiJA_0I8iYwW4MT1GJg0gCKAIshaCEHKlrB6oGlNpJ6cPEIKUuBkdi4GmIurAyDhmDf06WQUgnoWHDGAuaVpskg7wPLrB3gLIEosIBxshJa2lJew0GBgpY-F5ejoVVAZmJevkONrmGNQjXIAgUbEy07MKNGwQAMjRVqoHwNYwVdXQUjTVUNXV1NBUOQjIKGKUjMFCpmrGCEUG0GkjGDypgqmADFgAYAVZgi1KDpBsooaBjGgQQN46Ci5iCTzBRAPE2ERnNMw4FmgR1cw1UL9JoREV5DcqwRyDxjqHkmQPuwOg6mGsOJIPUg-5FVgRRBpcBGwVyLrAakxwyoCKoa7nxdOwVHQwUQCXSYnYIyFxcA)]
 - [鋼琴伴奏 TMD 檔案](meijisetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2o-_Zpt3P1ze839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRVcuGxM9E3suOoUlF6snPd-z6ynCxqe7VvydOKKp-s6lUDCz2ZvAgo_m9v5bOP858sbwGIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoOOMDIwM9AwMzPQMLEzMgQwDQ6D7lLi4HA2tAjIT8_KDPBxqdA1rFKq5FIDAxkTLDsyoUTAAQ2OFGihfw1hBV1fBSFNVQ1dXU8EQJKOgYQoSM4WKGSsYIVSbgWTMoDKmCiZAMaABQBWmCDVouoEyChqGcSBBwzioqDnIJDMFEE8TodEc03CgWWAH13DVIjzng99zINUQvmG8QrRhLIzC4ENVmQC5JrEwCq7KNB5Im8Yj1KGbZgZSYBafi9AKVQjXiTACSTPMM0ZExRRS2BuBgscYGjwmwODDGtYw1RghDlIPCk5kVSBFUCmIUbDQR1YE0mQGVAVVjogOqA-Ijg784UJElKCpgnIJqCIqNnTtFBwNFcAkmG0EIpW5uAA)]
 
 ## 分析
@@ -90,25 +88,24 @@ d8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 明治節 ]
 ================================================================================
-⏱  Duration:       1:00 (60.0s), 24 measures total
+⏱  Duration:       0:40 (40.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [A1 #1 @ m.2, 0:03]
    - 最高音: D5 in [A1 #1 @ m.7, 0:15]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      A1 (20.0s) -> A1 (20.0s) -> A2 (20.0s)
+🏛  結構:      A1 (20.0s) -> A2 (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A 調性不明確（推測轉調經歷 1 次）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
-   - 轉調歷程:    A 調性不明確起奏 ➔ [A2] 轉至 A 大調 (+3 半音 / 五度圈 -3 步)
+🗝  調性診斷：       A 大調（推測轉調經歷 1 次）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    A 大調起奏 ➔ [A2] 轉至 A 大調 (+3 半音 / 五度圈 -3 步)
    - 核心骨幹音:  A, F#, D, B, C#
-   - 調性數值:    A 調性不明確 [相關度: 0.82, 穩定度: Ambiguous, 自然音純度: 94.6%]
-   - 候選調性 (K-S): A 大調 (0.82), F# 小調 (0.81), D 大調 (0.76)
-   - 五度圈歷程:   +6 -> +6 -> +3
+   - 調性數值:    A 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 95.2%]
+   - 候選調性 (K-S): A 大調 (0.84), F# 小調 (0.78), D 大調 (0.78)
+   - 五度圈歷程:   +6 -> +3
    - 各段落調性細節:
      • [A1 #1]: F# 小調 (r: 0.88, 自然音純度: 93.1%, 調外音: G)
-     • [A1 #2]: F# 小調 (r: 0.85, 自然音純度: 93.5%, 調外音: G)
      • [A2 #1]: A 大調 (r: 0.86, 自然音純度: 96.8%, 調外音: G)
 
   [ 五度圈游移軌跡 ]
@@ -123,20 +120,20 @@ d8 z4 z4 |
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : ██████                     8.6%
-     D  : █████████                 12.9%
+     C# : ██████                     8.9%
+     D  : ███████████               14.5%
      D# :                            0.0%
      E  : ██████                     8.1%
      F  :                            0.0%
-     F# : ███████████████           19.9%
-     G  : ████                       5.4%
+     F# : █████████████             17.7%
+     G  : ████                       4.8%
      G# :                            0.0%
-     A  : ████████████████████████  32.8%
+     A  : ████████████████████████  33.1%
      A# :                            0.0%
-     B  : █████████                 12.4%
+     B  : █████████                 12.9%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 87 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 57 個音符)
 ================================================================================
 ```
 

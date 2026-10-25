@@ -72,29 +72,17 @@ V:V2 name="Soprano" snm="Sop"
 z4 z4 z4 B,2 A,2 | B,3 C C3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z2 B, A, | B,3 C C3 D D4 B,2 D2 |
 C3 B, C2 A,2 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 |
 C3 B, C2 A,2 B,4 z4 | D8 D4 D4 | C4 A,4 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 |
-C3 B, C2 A,2 B,4 z4 | z4 z4 z4 B,2 A,2 | B,3 C C3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z2 B, A, |
-B,3 C C3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z2 D2 |
-D3 F E3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z4 | D8 D4 D4 | C4 A,4 B,4 z2 D2 |
-D3 F E3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z4 | z4 z4 z4 B,2 A,2 | B,3 C C3 D D4 B,2 D2 |
-C3 B, C2 A,2 B,4 z2 B, A, | B,3 C C3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 |
-C3 B, C2 A,2 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z4 | D8 D4 D4 |
-C4 A,4 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z4 |
+C3 B, C2 A,2 B,4 z4 |
 [V:V2]
 z4 z4 z4 B,2 C2 | D3 E E3 F F4 D2 F2 | E3 D E2 C2 D4 z2 B, C | D3 E E3 F F4 D2 F2 |
 E3 D E2 C2 B,4 z2 F2 | B3 A G3 F F4 D2 F2 | E3 D E2 C2 D4 z2 F2 | B3 A G3 F F4 D2 F2 |
 E3 D E2 C2 B,4 z4 | F8 B4 F4 | E4 C4 D4 z2 F2 | B3 A G3 F F4 D2 F2 |
-E3 D E2 C2 B,4 z4 | z4 z4 z4 B,2 C2 | D3 E E3 F F4 D2 F2 | E3 D E2 C2 D4 z2 B, C |
-D3 E E3 F F4 D2 F2 | E3 D E2 C2 B,4 z2 F2 | B3 A G3 F F4 D2 F2 | E3 D E2 C2 D4 z2 F2 |
-B3 A G3 F F4 D2 F2 | E3 D E2 C2 B,4 z4 | F8 B4 F4 | E4 C4 D4 z2 F2 |
-B3 A G3 F F4 D2 F2 | E3 D E2 C2 B,4 z4 | z4 z4 z4 B,2 C2 | D3 E E3 F F4 D2 F2 |
-E3 D E2 C2 D4 z2 B, C | D3 E E3 F F4 D2 F2 | E3 D E2 C2 B,4 z2 F2 | B3 A G3 F F4 D2 F2 |
-E3 D E2 C2 D4 z2 F2 | B3 A G3 F F4 D2 F2 | E3 D E2 C2 B,4 z4 | F8 B4 F4 |
-E4 C4 D4 z2 F2 | B3 A G3 F F4 D2 F2 | E3 D E2 C2 B,4 z4 |
+E3 D E2 C2 B,4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanoshiki_wagaya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgCGmDNyk-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJCelFhWDHQtxQ0lRYh7EDKAgQlVJRirQ3WmJuZk5QHO1tBSerWh63Dj9cWPvs46JT9dtU9DS4lK0VbAw4bK3VXDS4bIx0TexA-l-NnvT-z2zPFLziioVgvLLc1IrFZwygd4peL-nwyM_N1VRIbg8NbVEAcJ-sqvnZfOKpxM6nk7Z-H5PJ9h-IPPZ2p6nOzYDdRgZGBnoGRiY6RlYmBgDFYACSy-rIP1Rw2Qg0xjEBKp6vmaNgrEJUMzYVOHlgkawQVz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAOd-GLlvKetK55Nawc64emG3mftnQpY3KfwYvsKoKOedXY_62p5smvK8-2zXqyd835PD6argQEHsunFqv3PGpaD7OjufTFzPlD0xbqux81rgeJPZ89-2tH2ZGc3kAGUfbp2AtBupySFp0uWA2UVgJGgABQGGo4WsFwgcw31FB43rX_cvOdx8yIw2fe4ef7j5iWPm1aA2A0Nj5v2P25a_bi5Eyy1CKQHCB43TwCpbgLqWfK4uetx0_bHzcseNy-EGgHSBpTqeNy0F6ahaS3YhtVgpa1gw9Y_bloD1gC0bTOS0uZ-kDogCTJj1eOmjY-bm0GGgUzdDLYWaMQMoBFwDUgmAUmoukkwpRDZJVDPAG1GEgQHghEwEBqbwMp7QGTjusdNkx43tT1unPi4cQNYHzChr3vcOPNx4xRgcofZ2wgOuMZlj5u6YSRQxSawYDdIW-PSx02djxsnwwOhAyQNMmz248aVQInHTUBfgu0EWti473HjEqA9SMaDVAAlgHkMaPtOqGMapz5uBMYO0JLJIOMap8ON73_cCDGsBRoOEBUgpdOhskApkPh8sIkIQXA4GOsBUw48jT7t3_y0ccuzPYuerp0OSdmgRAOx6mlr5-Omrucrd4Hd1g808sWeucCQAQYDVMWzrY1PdgGl1z3t7AX5oaEBKAL064uFPUANUEUvNy993LgKyH-6cSPIu0BjelpfTARpg1m0vxlkxrr9jxvngR0OVA0MI2BIg8odmF0dwHjqAZZAIFtgbLgcUNN0FBXgUgtFHeWlARQoaOlzcYUk5uUXZ2RmZ4YnpidWJloF5xcAC9R8hxqDGoVqsLNsDM207MAsbCWSwtM9G19s3Q7M7MDi4MmOhmfrtipoWCg83dD_fH2DDrg8gZYlmlg0A10AMrhGwUBBFwzRacN4IGEEImqgKo1BHF0Fk3gQArFM40EIohwsCebVwKSBQmAW2BCoZoj5QLOBglQxF-xMmLkQdeBEij3IQCG1qwccUiYkh5Qh2B7zeAUzCr0PdSblpqJ4HgTx-f1p53pg_iTH43D3wCDEzVCnge2FOQ_qMLjj6eHlWsy85JhTgj0jEUjv5vEo7oTYBbQX6imgS-C-AkuCeTUwaUiyhpmC4lIgByRKA5MhClGzEjD8EGE3yMyFxBmKsQgIF4Az4EbCDIPbSB-HAhOXrp0CWvpSIFpImQsA)]
+- [主旋律 TMD 檔案](tanoshiki_wagaya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgCGmDNyk-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJCelFhWDHQtxQ0lRYh7EDKAgQlVJRirQ3WmJuZk5QHO1tBSerWh63Dj9cWPvs46JT9dtU9DS4lK0VbAw4bK3VXDS4bIx0TexA-l-NnvT-z2zPFLziioVgvLLc1IrFZwygd4peL-nwyM_N1VRIbg8NbVEAcJ-sqvnZfOKpxM6nk7Z-H5PJ9h-IPPZ2p6nOzYDdRgZGBnoGRiY6RlYmBgDFYACSy-rIP1Rw2Qg0xjEBKp6vmaNgrEJUMzYVOHlgkawQVz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAOd-GLlvKetK55Nawc64emG3mftnQpY3KfwYvsKoKOedXY_62p5smvK8-2zXqyd835PD6argQEHsunFqv3PGpaD7OjufTFzPlD0xbqux81rgeJPZ89-2tH2ZGc3kAGUfbp2AtBupySFp0uWA2UVgJGgABQGGo4WsFwgcw31FB43rX_cvOdx8yIw2fe4ef7j5iWPm1aA2A0Nj5v2P25a_bi5Eyy1CKQHCB43TwCpbgLqWfK4uetx0_bHzcseNy-EGgHSBpTqeNy0F6ahaS3YhtVgpa1gw9Y_bloD1gC0bTOS0uZ-kDogCTJj1eOmjY-bm0GGgUzdDLYWaMQMoBFwDUgmAUmoukkwpRDZJVDPAG1GEgQHghEwEBqbwMp7QGTjusdNkx43tT1unPi4cQNYHzChr3vcOPNx4xRgcofZ2wgOuMZlj5u6YSRQxSawYDdIW-PSx02djxsnwwOhAyQNMmz248aVQInHTUBfgu0EWti473HjEqA9SMaDVAAlgHkMaPtOqGMapz5uBMYO0JLJIOMap8ON73_cCDGsBRoOEBUgpdOhskApkPh8sIkIQXA4GOsBUw48jT7t3_y0ccuzPYuerp0OSdmgRAOx6mlr5-Omrucrd4Hd1g808sWeucCQAQYDVMWzrY1PdgGl1z3t7AX5oaEBKAL064uFPUANUEUvNy993LgKyH-6cSPIu0BjelpfTARpg1m0vxlkxrr9jxvngR0OVA0MI2BIg8odmF0dwHjqAZZAIFtgbLgcUNN0FBXgUgtFHeWlARQoaOlzcYUk5uUXZ2RmZ4YnpidWJloF5xcAC9R8hxqDGoVqsLNsDM207MAsbCWSwtM9G19s3Q7M7MDi4MmOhmfrtipoWCg83dD_fH2DDrg8gZYlmlg0A10AMrhGwUBBFwzRacN4IGEEImqgKo1BHF0Fk3gQArFM40EIohwsCebVwKSBQmAW2BCoZoj5QLOBglQxF-xMmLkQdeBEij3IQCG1qwccUiYkh5Qh2B7zeAUzCr0PdSblpqJ4HgTx-f1p53pg_iTH43D3wCDEzVCnge2FOQ_qMLjj6eHlWsy85JhTgj0jEUjv5vEo7oTYBbQX6imgS-C-AkuCeTUwaUiyhpmC4lIgByRKA5MhClGzEjD8EGE3yMyFxBmKsQgIF4Az4EbCDIPbSB-HAhOXrp0CWvpSAAopcwEA)]
 - [鋼琴伴奏 TMD 檔案](tanoshiki_wagaya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx4_THjb3POiY-Xbft_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcJlb6vgpMNlY6JvYsdVp6D0bPam93tmeaTmFVUqBOWX56RWKjhlFmfkFwCN8cjPTVVUCC5PTS1RgLCf7Op52bzi6YSOp1M2Ak1VApkAZD5b2_N0x2agDiMDIwM9AwMzPQMLE2OgggBDAyO9rIL0Rw2TgUxjEBOo6vmaNQrGJkAxY1OFlwsawQZxhSTm5RdnZGZnhiemJ1YmWgXnFxQBhRxqDGoUqrkUgMDG0EzLDsyqUTBQ0AVDdNowHkgYgYgaqEpjEEdXwSQehEAs03gQgigHS4J5NTBpoBCYBTYEqhliPtBsoCBVzAU7E2YuRB3UWEOwsHm8ghmFrqWaqShuBUGYoXATYBBiC9QwsEqYgVCj4NbRw5G1mGnKMaeErARlHo_iTohdQHuhngK6BO4rsCSYVwOThqQbmCkoLgVyQKI0MBmiEDWtAsMPEXaDzFzkhAU3AgbhAnAG3EiYYXAb6eNQLIkrIBMoEORBcvrSBqV7oEXaKMUWUBzqQKN4baCjISTE6dpAf0BIuBlgtTAxkDdgqiFyMD7cGoTxsIQIdAZUdoCcANcKjzNwyIBiTRtYKJjEa0PLhWFoO3LqByrGKFnhrkHYAssFMJuQTEd21GDyH65M44OSaUyQ8gwEIhIkqEYAEiAGCIPqIGQxspWaUFklqjhFpmoDSx-QYmDg6dopoIWfAtFCylwA)]
 
 ## 分析
@@ -103,14 +91,14 @@ E4 C4 D4 z2 F2 | B3 A G3 F F4 D2 F2 | E3 D E2 C2 B,4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 樂しき我家 ]
 ================================================================================
-⏱  Duration:       1:51 (111.4s), 39 measures total
+⏱  Duration:       0:37 (37.1s), 13 measures total
 🎼 Key & Tempo:    首調基準 B,, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A3 (MIDI 57) – F4 (MIDI 65) [跨度: 8 個半音 / 0.7 個八度, 難度: easy]
    - 最低音:  A3 in [TanoshikiWagaya #1 @ m.1, 0:02]
    - 最高音: F4 in [TanoshikiWagaya #1 @ m.6, 0:14]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      TanoshikiWagaya (37.1s) -> TanoshikiWagaya (37.1s) -> TanoshikiWagaya (37.1s)
+🏛  結構:      TanoshikiWagaya (37.1s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -118,11 +106,9 @@ E4 C4 D4 z2 F2 | B3 A G3 F F4 D2 F2 | E3 D E2 C2 B,4 z4 |
    - 核心骨幹音:  D, A#, F, C, D#
    - 調性數值:    A# 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): A# 大調 (0.83), D 小調 (0.70), F 大調 (0.55)
-   - 五度圈歷程:   -2 -> -2 -> -2
+   - 五度圈歷程:   -2
    - 各段落調性細節:
      • [TanoshikiWagaya #1]: A# 大調 (r: 0.83, 自然音純度: 100.0%)
-     • [TanoshikiWagaya #2]: A# 大調 (r: 0.83, 自然音純度: 100.0%)
-     • [TanoshikiWagaya #3]: A# 大調 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -149,8 +135,8 @@ E4 C4 D4 z2 F2 | B3 A G3 F F4 D2 F2 | E3 D E2 C2 B,4 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Alto          : A3 – F4 (8 個半音 / 0.7 個八度, 219 個音符)
-  - Soprano       : A#3 – A#4 (12 個半音 / 1.0 個八度, 219 個音符)
+  - Alto          : A3 – F4 (8 個半音 / 0.7 個八度, 73 個音符)
+  - Soprano       : A#3 – A#4 (12 個半音 / 1.0 個八度, 73 個音符)
 ================================================================================
 ```
 

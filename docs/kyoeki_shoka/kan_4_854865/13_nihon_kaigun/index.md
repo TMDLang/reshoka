@@ -66,22 +66,12 @@ A10 G2 F2 E2 | D10 D2 G2 B2 | A12 G2 B2 | d6 e2 d2 c2 B2 A2 |
 G12 A4 | A6 G2 A2 B2 c2 d2 | e8 d4 d4 | e6 d2 c2 B2 A2 G2 |
 d12 D3 D | G6 F2 G2 A2 B2 G2 | d6 e2 d4 e4 | d6 B2 A2 G2 A2 B2 |
 !f! G12 D3 D | G12 B3 G | d12 d3 d | e6 d2 d4 d4 |
-G10 z2 z2 z2 | !mf! z4 z4 z2 D2 E2 F2 | G10 B2 A2 G2 | d12 c2 B2 |
-A4 B2 c2 d4 B2 G2 | A10 G2 F2 E2 | D10 D2 G2 B2 | A12 G2 B2 |
-d6 e2 d2 c2 B2 A2 | G12 A4 | A6 G2 A2 B2 c2 d2 | e8 d4 d4 |
-e6 d2 c2 B2 A2 G2 | d12 D3 D | G6 F2 G2 A2 B2 G2 | d6 e2 d4 e4 |
-d6 B2 A2 G2 A2 B2 | !f! G12 D3 D | G12 B3 G | d12 d3 d |
-e6 d2 d4 d4 | G10 z2 z2 z2 | !mf! z4 z4 z2 D2 E2 F2 | G10 B2 A2 G2 |
-d12 c2 B2 | A4 B2 c2 d4 B2 G2 | A10 G2 F2 E2 | D10 D2 G2 B2 |
-A12 G2 B2 | d6 e2 d2 c2 B2 A2 | G12 A4 | A6 G2 A2 B2 c2 d2 |
-e8 d4 d4 | e6 d2 c2 B2 A2 G2 | d12 D3 D | G6 F2 G2 A2 B2 G2 |
-d6 e2 d4 e4 | d6 B2 A2 G2 A2 B2 | !f! G12 D3 D | G12 B3 G |
-d12 d3 d | e6 d2 d4 d4 | G10 z2 z2 z2 |
+G10 z2 z2 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nihon_kaigun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PS0SULEkuKMvNLMpMREmn5RblWxSVF-QUZyMIlGanAkMjNzMksSSyqRBcvTyxJLUIXBDurIL8I6DEtLYVn05c-m7Pm2dbtL3b3KmhpcSnaKhgaGXDZ2yq4c9mY6JvYgXQ_bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdygAWU93rH4-ZYXC0-27n86e_bih-_maNU92dD7tbXyyq-f93nkw9pSXCxrf7-mAyq7d8WzOfBB7V8-z2Zve7-kEO97PxUfBJTMd6MUcBWd44ihWCPB0UYBEP9CEjJKSgmIrff2UHL08IE7P18sq0C_ITNGHqeh81tf8rL9fARTpQLn0xw2NQKYxiKnExaWvpWBLLcCloKDwtG8-MCBebG5_saLrRUc7MHRerJz3tHXFs2ntQMeCfIRwPRUCsAfNc48aJsM8B_Q5MOZAbnqxav-zhuUg13T3vpg5Hyj6uHEFUBBo_tOOtsfNfUAGUOrp2glAJ7orPF2yHCipAEwECkBRsDE9j2autAWmDyDrcUPP0-72x83zHjdtf9y0_nEDUEXP0z0bX2zd_mRHA8iY3i6gMSBnNnQ_bV0NtOHl_M3P1ywDGgR2zIrdL1bMAKWpaeteNG562bwCqB-o-vn6BqBSIAkMj8cNTcBU9mLtnBfbVyB5H5pmQB6M9wEaB_QRXBboBSTZIKAs0JCX07pfLlj7bMVMhdw0oC3gBDblxcIeSMID6Wpd-3RDP9BSEBcSCGCfgFINUFca0AxIhCJHAtweI7A9kCgGKgD5GhhFe0BeeTZtD1DZszmrgcH1fMfGZytXv2hf9XTOiseNQJHGx41LHjd2P27c-mRP39OGNpBIQ-_TfcDInPS8s-PZnv6nvRuAXGBIgiztXwpy7_7dQANftANDEuaSHZ1AkeeztzzrWwpUD3XADmBsgRwAibbnLdvQ1L9YNe9le_eT3b0vgC6fAwyknhfrup7u3A3M6s82TXqya-LjhlagY57s7H6xfPGLVavAkTMFOZjR0iAkop7s6H42bSfQGUAz0YLi6Tpg-t4CTOjAUAKKA2183LjjcdPkx42TwOT0x02t4ADZAyJBgdMP5s4HMZqaHjeuAjIeNSwDpzRQrEKz2dPWHc_2THm6tP_Z5hXPWvpBKaqzF-gNoAVPdm5-3gnMO70vupeCjQMm055nHRNfztwBLO6A4o-bJr3YuPr5_kmPG2c-btwJdMT7PbOfT90GLHyAikGubAYm0U5gNgBG2PPlu0HKmpqe9q8HuaapC9URszdBrAdZvKPhceM6UAoGWdkItOxF5zKgyNPF64G5CuyVqY8b9z1uXA5PDi-2bnjcBEwLwJBYAXQWUDHIQQ2ghIZsFCi9NM0FqoSaCfRA-6rnUzaCElQjMJCgCQroyceNPZBiHWRv99Qne-eAFK9a87gR6HNQKkA29unOzU937ABa_axjw7OZQHOATloH0f5k9-6n3UBvT3q-ZBcolkARAnQb0BdNIAc3NAHDEREKkHQFCYWnG4HOAnp15tPtK8D-Xw9PV2CpdY-bgAEMjO5V4EABOrTlRQcwEtYDLQbKPtmxFuirZ1uByoCBsvzpxlagfU_n94F9uOJZw1yQ05t6gILASANFbMOkZ_uBKacXaNqzzYvAroSFZkMjUBaiGCwF9F4XOFEBUx3Q3v4XK4ARBoxzoGvBPgRJrYMYizVfvFgGdEMHOCzgjgEG34aXszaCbGlohDIwFDztB-oCBhww9KGOBzumBRRnnUA20HfAxAUpHICCQJHVYHGIFqBIFzimgSbvBzry2ebFkOgEh9jqJ3uBOQXoEaiBL_cBvQZKZKA0uxyoHpiqgEYB8wHQj8DoAJJA2a0Qb0KTCDBPgBwADAGgdSCTwUEE1DINGshbtz-d0_18yvanrZA0OhnszXnglAcMalAJBhfEUAxTA3MhOM-Bc-GKhhcTQSnyafcisDuXgNIGUCUofICOAWoBhwnYJaBaC6b-5YK2p7uAvoZ4DRjCKKkT4mZoCgY5DBjFQLLtcSMweywD1gAINyDc38QFSs6gLNzQCE7YGMkYFuDroKkRou7Zhi0vZ28HJr7nCzaBAw4Y5UBtQDcBTd8MCkeIOnCdufNxMzAhrH-5egYoQoDpBVjigDwBjBOg8_tgSoEOBkYEyPv9wJYaKE9OBxkDSn7AkAGmUqAeYHEANxuSB15MWPOyHZQKUaocmMeABQpEMbYKCRj3wPjuhhQteNShV1zQMAOWyxB3gIsOaJqCBFhL59P9QL3A3ANEMEUoyQNkLmZygiiFFkvroV4Du-LZ1K1g_wNT0jZwaQyJrp2boUr3AyMZFLZAS8Bhuw8cYLDoetkOjBZguIHiCqWkgxTqlDcDoUBBS5-Lyy8zIz_POzEzvTTPKiw_MznVocagRqEaZJGCjaGZlh2YVZ2bVgtmAFujGpAWiCYwuSwBJRkg7lKoUQCmHCBrD5Be-7h5OZBaDeRuBkk09wN5y8CSIN58IO6DKt0OpNfCZMA6QKJAg5pARq8EuRBka42CgYIuGCLTpvFAwgxEmIOIGgVDqCQyNAZiIyAGydUomGJRAYImUJU1YLUwfSBRmA4QH2IGTAUyBMmAHQF2Tg0sqCDeAHlpP5Q9GxwEIJG98ADpAuIZoHCDyDRPhgcIKHjmIQIB7GF0CBYE2Y_qfmwuhKhADgMzqA9h_gfpxh6OIAgzG8l_oDjvgEQxzJ-IyGxaD8YgPy4C4k1QH4H8CEkAIHXrgKxJqJGN7AeQW0B85PioAbsbJRDQaFQV6D7EnxagoQykEP5sXgjxDdilKO5H8fl8sAgoGUP9C1YLj2mw7zvBIQb3K3JYg1MQsocxHQqLMBgb4llkFciehJmDO0qr02qxexjk8AnwHLwK6Pgdj5uXwn0N9VvTDiDeBvYbJKVj9RcyBDkH5Dg84Q8lMeMQM5ax2QIqGmC4hquWi0vXTgGplFMgyFXmAgA)]
+- [主旋律 TMD 檔案](nihon_kaigun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PS0SULEkuKMvNLMpMREmn5RblWxSVF-QUZyMIlGanAkMjNzMksSSyqRBcvTyxJLUIXBDurIL8I6DEtLYVn05c-m7Pm2dbtL3b3KmhpcSnaKhgaGXDZ2yq4c9mY6JvYgXQ_bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdygAWU93rH4-ZYXC0-27n86e_bih-_maNU92dD7tbXyyq-f93nkw9pSXCxrf7-mAyq7d8WzOfBB7V8-z2Zve7-kEO97PxUfBJTMd6MUcBWd44ihWCPB0UYBEP9CEjJKSgmIrff2UHL08IE7P18sq0C_ITNGHqeh81tf8rL9fARTpQLn0xw2NQKYxiKnExaWvpWBLLcCloKDwtG8-MCBebG5_saLrRUc7MHRerJz3tHXFs2ntQMeCfIRwPRUCsAfNc48aJsM8B_Q5MOZAbnqxav-zhuUg13T3vpg5Hyj6uHEFUBBo_tOOtsfNfUAGUOrp2glAJ7orPF2yHCipAEwECkBRsDE9j2autAWmDyDrcUPP0-72x83zHjdtf9y0_nEDUEXP0z0bX2zd_mRHA8iY3i6gMSBnNnQ_bV0NtOHl_M3P1ywDGgR2zIrdL1bMAKWpaeteNG562bwCqB-o-vn6BqBSIAkMj8cNTcBU9mLtnBfbVyB5H5pmQB6M9wEaB_QRXBboBSTZIKAs0JCX07pfLlj7bMVMhdw0oC3gBDblxcIeSMID6Wpd-3RDP9BSEBcSCGCfgFINUFca0AxIhCJHAtweI7A9kCgGKgD5GhhFe0BeeTZtD1DZszmrgcH1fMfGZytXv2hf9XTOiseNQJHGx41LHjd2P27c-mRP39OGNpBIQ-_TfcDInPS8s-PZnv6nvRuAXGBIgiztXwpy7_7dQANftANDEuaSHZ1AkeeztzzrWwpUD3XADmBsgRwAibbnLdvQ1L9YNe9le_eT3b0vgC6fAwyknhfrup7u3A3M6s82TXqya-LjhlagY57s7H6xfPGLVavAkTMFOZjR0iAkop7s6H42bSfQGUAz0YLi6Tpg-t4CTOjAUAKKA2183LjjcdPkx42TwOT0x02t4ADZAyJBgdMP5s4HMZqaHjeuAjIeNSwDpzRQrEKz2dPWHc_2THm6tP_Z5hXPWvpBKaqzF-gNoAVPdm5-3gnMO70vupeCjQMm055nHRNfztwBLO6A4o-bJr3YuPr5_kmPG2c-btwJdMT7PbOfT90GLHyAikGubAYm0U5gNgBG2PPlu0HKmpqe9q8HuaapC9URszdBrAdZvKPhceM6UAoGWdkItOxF5zKgyNPF64G5CuyVqY8b9z1uXA5PDi-2bnjcBEwLwJBYAXQWUDHIQQ2ghIZsFCi9NM0FqoSaCfRA-6rnUzaCElQjMJCgCQroyceNPZBiHWRv99Qne-eAFK9a87gR6HNQKkA29unOzU937ABa_axjw7OZQHOATloH0f5k9-6n3UBvT3q-ZBcolkARAnQb0BdNIAc3NAHDEREKkHQFCYWnG4HOAnp15tPtK8D-Xw9PV2CpdY-bgAEMjO5V4EABOrTlRQcwEtYDLQbKPtmxFuirZ1uByoCBsvzpxlagfU_n94F9uOJZw1yQ05t6gILASANFbMOkZ_uBKacXaNqzzYvAroSFZkMjUBaiGCwF9F4XOFEBUx3Q3v4XK4ARBoxzoGvBPgRJrYMYizVfvFgGdEMHOCzgjgEG34aXszaCbGlohDIwFDztB-oCBhww9KGOBzumBRRnnUA20HfAxAUpHICCQJHVYHGIFqBIFzimgSbvBzry2ebFkOgEh9jqJ3uBOQXoEaiBL_cBvQZKZKA0uxyoHpiqgEYB8wHQj8DoAJJA2a0Qb0KTCDBPgBwADAGgdSCTwUEE1DINGshbtz-d0_18yvanrZA0OhnszXnglAcMalAJBhfEUAxTA3MhOM-Bc-GKhhcTQSnyafcisDuXgNIGUCUofICOAWoBhwnYJaBaC6b-5YK2p7uAvoZ4DRjCKKkT4mZoCgY5DBjFQLLtcSMweywD1gAINyDc38QFSs6gLNzQCE7YGMkYFuDroKkRou7Zhi0vZ28HJr7nCzaBAw4Y5UBtQDcBTd8MCkeIOnCdufNxMzAhrH-5egYoQoDpBVjigDwBjBOg8_tgSoEOBkYEyPv9wJYaKE9OBxkDSn7AkAGmUqAeYHEANxuSB15MWPOyHZQKUaocmMeABQpEMbYKCRj3wPjuhhQteNShV1zQMAOWyxB3gIsOaJqCBFhL59P9QL3A3ANEMEUoyQNkLmZygiiFFkvroV4Du-LZ1K1g_wNT0jZwaQyJrp2boUr3AyMZFLZAS8Bhuw8cYLDoetkOjBZguIHiCqWkgxTqlDcDoUBBS5-Lyy8zIz_POzEzvTTPKiw_MznVocagRqEaZJGCjaGZlh2YVZ2bVgtmAFujGpAWiCYwuSwBJRkg7lKoUQCmHCBrD5Be-7h5OZBaDeRuBkk09wN5y8CSIN58IO6DKt0OpNfCZMA6QKJAg5pARq8EuRBka42CgYIuGCLTpvFAwgxEmIOIGgVDqCQyNAZiIyAGydUomGJRAYImUJU1YLUwfSBRmA4QH2IGTAUyBMmAHQF2Tg0sqCDeAHlpP5Q9GxwEIJG98ADpAuIZoHCDyDRPhgcIKHjmIQIB7GF0CBYE2Y_qfmwuhKhADgMzqA9h_gfpxh6OIAgzG8l_oDjvgEQxzJ-IyGxaD8YgPy4C4k1QH4H8CEkAIHXrgKxJqJGN7AeQW0B85PioAbsbJRDQaFQV6D7EnxagoQykEP5sXgjxDdilKO5H8fl8sAgoGUP9C1YLj2mw7zvBIQb3K3JYg1MQsocxHQqLMBgb4llkFciehJmDO0qr02qxexjk8AnwHLwK6Pgdj5uXwn0N9VvTDiDeBvYbJKVj9RcyBDkH5Dg84Q8lMeMQM5ax2QIqGmC4hquWi0vXTgGplFMAcpW5AA)]
 
 ## 分析
 
@@ -89,14 +79,14 @@ d12 d3 d | e6 d2 d4 d4 | G10 z2 z2 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 日本海軍 ]
 ================================================================================
-⏱  Duration:       2:06 (126.0s), 63 measures total
+⏱  Duration:       0:42 (42.0s), 21 measures total
 🎼 Key & Tempo:    首調基準 G, != 120.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [NihonKaigun #1 @ m.1, 0:01]
    - 最高音: E5 in [NihonKaigun #1 @ m.8, 0:14]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      NihonKaigun (42.0s) -> NihonKaigun (42.0s) -> NihonKaigun (42.0s)
+🏛  結構:      NihonKaigun (42.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -104,11 +94,9 @@ d12 d3 d | e6 d2 d4 d4 | G10 z2 z2 z2 |
    - 核心骨幹音:  D, G, A, E, B
    - 調性數值:    G 調性不明確 [相關度: 0.85, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.85), D 大調 (0.84), D 小調 (0.58)
-   - 五度圈歷程:   +1 -> +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [NihonKaigun #1]: G 調性不明確 (r: 0.85, 自然音純度: 100.0%)
-     • [NihonKaigun #2]: G 調性不明確 (r: 0.85, 自然音純度: 100.0%)
-     • [NihonKaigun #3]: G 調性不明確 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -135,7 +123,7 @@ d12 d3 d | e6 d2 d4 d4 | G10 z2 z2 z2 |
      B  : ██████                     8.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Voice         : D4 – E5 (14 個半音 / 1.2 個八度, 249 個音符)
+  - Voice         : D4 – E5 (14 個半音 / 1.2 個八度, 83 個音符)
 ================================================================================
 ```
 

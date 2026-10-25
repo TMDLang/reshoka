@@ -64,19 +64,12 @@ f3 e f2 d2 | e3 d B2 G2 | A3 B c2 A2 | B2 z D D2 D2 |
 B8 | B2 E2 F2 G2 | A8 | A2 D2 E2 F2 |
 G6 A2 | B8 | B2 z B B2 ^c2 | d4 e3 d |
 c4 B4 | B2 z D A3 G | E8 | d6 F2 |
-G8 | G2 z2 z4 | !f! D2 D D G2 A2 | B2 G G d2 B2 |
-A2 B A G2 E2 | D4 z4 | D2 G A B2 d2 | e2 d2 B2 G2 |
-A2 D2 A2 B2 | G4 z4 | D2 G A B2 d2 | e2 d2 B2 G2 |
-A3 B A2 E2 | A4 z4 | f3 e f2 d2 | e3 d B2 G2 |
-A3 B c2 A2 | B2 z D D2 D2 | B8 | B2 E2 F2 G2 |
-A8 | A2 D2 E2 F2 | G6 A2 | B8 |
-B2 z B B2 ^c2 | d4 e3 d | c4 B4 | B2 z D A3 G |
-E8 | d6 F2 | G8 | G2 z2 z4 |
+G8 | G2 z2 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gunkan_machi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVKnEpaWl8GJ374vOZY-b5z1u3vO4uVFBS4tL0VbB0NCMy95WwZ3LxkjfxA6k_8XKee_3zHq5eenTjRufTp0MNvPZ7E1AsecNK551bHvav_jF9CVPJ3SCZV6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3S_XD3j-drO58snPp-y_enaCc-nrHi_pwMUiHrAQNQDBeL7PUBjufS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoBzoG6MmnrSueTWsHOuDpht5n7Z0KAQZmFnpZBekKjxomgziWIM77PT1AnS8XNCoUFOgpGBsD5YxNgIJAnzzZ0fB8zZonOzqfrt3xbM58IFvBXOHlsmlALwDDCmTti1X7nzUsB1nY3fti5nyg6OPmjpdTtwPFgdYaKjztBTpoBlim83FDIzACFIAqQS5qbX62YfHj5hWPm9YrPJq50hYYS0A1XCBDgdaCvbSu43FT9-OmpmdTdj9uaoCwX3bveTlh6-PGdSAVz7aue9y4EyjxdH7f48Z5Lxfsedy4_3HjKqAIivTjxrlAHUBFz6YvBTKezVkDNeD5rPanc4DS657Onv1sGlDpJKilQG2N00EqHjfue9wI5K8FKWrdBkxeSGasBrt2dzvIysaZIJOaJoEd2_i4qQOsbTrEQ7t6wLbN3_y8CWTQ8-b5jxvXP9ux8NmWpc-2boc65uW-XrCeFY8bN4AYTV0v5y583NgP9lAXOET2djzZseNZ5-THjUseN2563Lj5cSNQz_qXs2FmvACJopjxuHElyDHA8IMb82LCmpftPSBPbF70bP8SoKOf7JwOlHuxDaga6O5lYLv2LYQGTSsw5hpe7AEGIZA7GyRHeZKFAgUtfS6uMGB2T7UKyEzMy3eoMahRqAZZoWBjaKZlB2YBswo4FTa8WNijoGGq8HRD__P1DZogvSBpoIa0WgXTeAVdEAFEhkCWERDXKBgDSUMgNAXSIHYNWNwYSILUmIG01EB0gqABlIYKGQKVgTSBNNeAoxHmkl09uFxiBlUPsRhmIdg4iM0gIZAEIfswTUJxwY5OXC4AWQPxItyDECFk-8zBtBmYRlgHYqM6HGSQCSw0kR0AzC64HAAywQAaE1CvQwSRIUQE7D5ziN-RHYpQBQ89hFK0qJiCyx2wUAZBRGrAdIQBkATRJupgIVBwQAIHEiA14ACABAVUG0pAtK4lGBAQbxmCQhmW1BBOgNkHghD_obgcoggkAoo9eAxy1XJx6dopgHOOAjJDmYsLAA)]
+- [主旋律 TMD 檔案](gunkan_machi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVKnEpaWl8GJ374vOZY-b5z1u3vO4uVFBS4tL0VbB0NCMy95WwZ3LxkjfxA6k_8XKee_3zHq5eenTjRufTp0MNvPZ7E1AsecNK551bHvav_jF9CVPJ3SCZV6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3S_XD3j-drO58snPp-y_enaCc-nrHi_pwMUiHrAQNQDBeL7PUBjufS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoBzoG6MmnrSueTWsHOuDpht5n7Z0KAQZmFnpZBekKjxomgziWIM77PT1AnS8XNCoUFOgpGBsD5YxNgIJAnzzZ0fB8zZonOzqfrt3xbM58IFvBXOHlsmlALwDDCmTti1X7nzUsB1nY3fti5nyg6OPmjpdTtwPFgdYaKjztBTpoBlim83FDIzACFIAqQS5qbX62YfHj5hWPm9YrPJq50hYYS0A1XCBDgdaCvbSu43FT9-OmpmdTdj9uaoCwX3bveTlh6-PGdSAVz7aue9y4EyjxdH7f48Z5Lxfsedy4_3HjKqAIivTjxrlAHUBFz6YvBTKezVkDNeD5rPanc4DS657Onv1sGlDpJKilQG2N00EqHjfue9wI5K8FKWrdBkxeSGasBrt2dzvIysaZIJOaJoEd2_i4qQOsbTrEQ7t6wLbN3_y8CWTQ8-b5jxvXP9ux8NmWpc-2boc65uW-XrCeFY8bN4AYTV0v5y583NgP9lAXOET2djzZseNZ5-THjUseN2563Lj5cSNQz_qXs2FmvACJopjxuHElyDHA8IMb82LCmpftPSBPbF70bP8SoKOf7JwOlHuxDaga6O5lYLv2LYQGTSsw5hpe7AEGIZA7GyRHeZKFAgUtfS6uMGB2T7UKyEzMy3eoMahRqAZZoWBjaKZlB2YBswo4FTa8WNijoGGq8HRD__P1DZogvSBpoIa0WgXTeAVdEAFEhkCWERDXKBgDSUMgNAXSIHYNWNwYSILUmIG01EB0gqABlIYKGQKVgTSBNNeAoxHmkl09uFxiBlUPsRhmIdg4iM0gIZAEIfswTUJxwY5OXC4AWQPxItyDECFk-8zBtBmYRlgHYqM6HGSQCSw0kR0AzC64HAAywQAaE1CvQwSRIUQE7D5ziN-RHYpQBQ89hFK0qJiCyx2wUAZBRGrAdIQBkATRJupgIVBwQAIHEiA14ACABAVUG0pAtK4lGBAQbxmCQhmW1BBOgNkHghD_obgcoggkAoo9eAxy1XJx6dopgHOOApChzMUFAA)]
 - [鋼琴伴奏 TMD 檔案](gunkan_machi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_dF57LHzfMeN-953Nz4fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDTjsrdVcOeyMdI3seOqU1B6sXLe-z2zXm5e-nTjxqdTJyuBxJ7N3gQUe96w4lnHtqf9i19MX_J0QidY5kX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fL1TOer-18vnzi8ynbn66d8HzKCqDTjAyMDPQMDMz0DCxMLIAOU-LiCkstKk61CshMzMsP8nCoMahRqOZSAAIbQzMtOzBLX0vh-Zo1T3Y0vFjYo6BhqvB0Q__z9Q2aClr6YGmghrRaBdN4BV0QAUSGQJYRENcoGANJQyA0BdIgdg1Y3BhIgtSYgbTUQHSCoAGUhgoZApWBNIE013Ahu2RXDy6XmEHVQyyGWQg2DmIzSAgkQcg-TJNQXLCjE5cLQNZAvAj3IEQI2T5zMG0GphHWgdioDgcZZAILTWQHPJ09G5cDQCYYQGMC6nWIIDKEiIDdZw7xO7JDEargoYdQihYVU3C5AxbKIIhIDZiOMACSINpEHSwECg5I4EACpAYcAJCggGpDCYjWtQQDAuItQ1Aow5Iawgkw-0AQ4j8Ul0MUgURAsQePQa5alIzjg5JxTKD5BqgvXiHaMBaZYQRkGMWDWKbxQKYpmAmTheoygSnGogTBgKmCpTtsBmMzACGGcKQBsgJjIMMsPhfmWnST0L0GUm4MVmMGVAMyCeIUVAOQdEEMBCmGWYPDn0CzQOGsa6cADmoFZIYyFxcA)]
 
 ## 分析
@@ -85,14 +78,14 @@ E8 | d6 F2 | G8 | G2 z2 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 軍艦マーチ ]
 ================================================================================
-⏱  Duration:       1:02 (62.1s), 60 measures total
+⏱  Duration:       0:31 (31.0s), 30 measures total
 🎼 Key & Tempo:    首調基準 G, != 116.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – F#5 (MIDI 78) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
    - 最低音:  D4 in [Verse #1 @ m.1, 0:00]
    - 最高音: F#5 in [Verse #1 @ m.13, 0:12]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Verse (31.0s) -> Verse (31.0s)
+🏛  結構:      Verse (31.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -100,10 +93,9 @@ E8 | d6 F2 | G8 | G2 z2 z4 |
    - 核心骨幹音:  B, D, A, G, E
    - 調性數值:    D 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 97.3%]
    - 候選調性 (K-S): D 大調 (0.80), G 大調 (0.78), B 小調 (0.76)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
      • [Verse #1]: D 調性不明確 (r: 0.80, 自然音純度: 97.3%, 調外音: C)
-     • [Verse #2]: D 調性不明確 (r: 0.80, 自然音純度: 97.3%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -130,7 +122,7 @@ E8 | d6 F2 | G8 | G2 z2 z4 |
      B  : ████████████████████████  22.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – F#5 (16 個半音 / 1.3 個八度, 182 個音符)
+  - Piano         : D4 – F#5 (16 個半音 / 1.3 個八度, 91 個音符)
 ================================================================================
 ```
 

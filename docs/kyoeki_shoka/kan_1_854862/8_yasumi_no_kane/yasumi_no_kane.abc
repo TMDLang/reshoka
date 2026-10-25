@@ -9,10 +9,4 @@ V:V1 name="Piano" snm="Pia"
 z2 z2 z2 D2 | G3 F G3 A | B3 A G3 E | D3 G B3 G |
 A4 z2 A2 | B3 A G3 A | G3 F E3 D | E3 D B3 A |
 G4 z2 D2 | G4 z2 B2 | G4 z2 G2 | A4 z2 F2 |
-G4 z2 z2 | z2 z2 z2 D2 | G3 F G3 A | B3 A G3 E |
-D3 G B3 G | A4 z2 A2 | B3 A G3 A | G3 F E3 D |
-E3 D B3 A | G4 z2 D2 | G4 z2 B2 | G4 z2 G2 |
-A4 z2 F2 | G4 z2 z2 | z2 z2 z2 D2 | G3 F G3 A |
-B3 A G3 E | D3 G B3 G | A4 z2 A2 | B3 A G3 A |
-G3 F E3 D | E3 D B3 A | G4 z2 D2 | G4 z2 B2 |
-G4 z2 G2 | A4 z2 F2 | G4 z2 z2 |
+G4 z2 z2 |

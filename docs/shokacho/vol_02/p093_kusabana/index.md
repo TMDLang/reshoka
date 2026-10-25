@@ -58,27 +58,12 @@ V:V1 name="Vocal" snm="Voc"
 [V:V1]
 z4 F4 F4 F4 | B4 B4 c4 F4 | z2 d2 d2 d2 c4 B4 | z4 d2 d2 D2 D2 z4 |
 z4 c4 d4 c4 | B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 |
-G4 F4 B8 | z4 F4 F4 F4 | B4 B4 c4 F4 | z2 d2 d2 d2 c4 B4 |
-z4 d2 d2 D2 D2 z4 | z4 c4 d4 c4 | B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 |
-B8 z4 F2 F2 | G4 F4 B8 | z4 F4 F4 F4 | B4 B4 c4 F4 |
-z2 d2 d2 d2 c4 B4 | z4 d2 d2 D2 D2 z4 | z4 c4 d4 c4 | B4 c2 B2 G4 B4 |
-F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 | G4 F4 B8 | z4 F4 F4 F4 |
-B4 B4 c4 F4 | z2 d2 d2 d2 c4 B4 | z4 d2 d2 D2 D2 z4 | z4 c4 d4 c4 |
-B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 | G4 F4 B8 |
-z4 F4 F4 F4 | B4 B4 c4 F4 | z2 d2 d2 d2 c4 B4 | z4 d2 d2 D2 D2 z4 |
-z4 c4 d4 c4 | B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 |
-G4 F4 B8 | z4 F4 F4 F4 | B4 B4 c4 F4 | z2 d2 d2 d2 c4 B4 |
-z4 d2 d2 D2 D2 z4 | z4 c4 d4 c4 | B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 |
-B8 z4 F2 F2 | G4 F4 B8 | z4 F4 F4 F4 | B4 B4 c4 F4 |
-z2 d2 d2 d2 c4 B4 | z4 d2 d2 D2 D2 z4 | z4 c4 d4 c4 | B4 c2 B2 G4 B4 |
-F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 | G4 F4 B8 | z4 F4 F4 F4 |
-B4 B4 c4 F4 | z2 d2 d2 d2 c4 B4 | z4 d2 d2 D2 D2 z4 | z4 c4 d4 c4 |
-B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 | G4 F4 B8 |
+G4 F4 B8 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kusabana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgIGlMboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdBTmJeSVKXFpaCi96O190bVTQ0uJStFWwNOOyt1Vw0uGyMdE3sQPpeTpl47O1PU93bH6_p8PIwMhAz8DATM_AwsT4_Z5OkAf1sgrSgVLP16xRMDJVeLmgESiuxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQSS9WznvauuLZtHag7U839D5r71RAuKfnWWf3s66WJ7umPN8-68XaOSjOe79nFsjIF6v2P2tYDjKsu_fFzPlA0Rfruh43rwWKP9nV87Sj7cnObiADKPt07QSgJU5JCk-XLAfKKhjpGykAhYFGgZ3WNfvprmUvVsyAGJKbpvCobZJCARdIzlBP4XHz_MdNS4DmPm7aCWI3r3nc3Pe4oeFx07LHzS2Pm9Y_btr-uHkJSKR5JRyBNAPB46bVj5sWgfQ3bX7c3P64eerj5k1gzXtBpjTPA6M9j5u7sQqCTDECOqGx-3Fj0-PGlseNmx43rnrcOOlx43SQBiC7qQNGrgA7YTccwZ3Q9Lip7XET0IguEBtkxDqwZqDjex83Ah048XFTA6YISL-xnsKzTZuBkQe2djnI2sbJjxsaoc5p6gSL9ANFoLY9n78ZaPyTHWvBxjQBJZ5vaQWxG5c8bpz4uHHZ-z397_fsAak20VN4sWE7UPXzmXufz9z3dEIH2GCgJ4EBBja4qeVRwzKE2S-6pwBVP9vR-mzDFpCRDY1Axsv-hQgjTfUUXs4B-e_ZnLkvF06BmbficeNuLOY9nbcY7LKZjxt7Hjd1AR0H1oASpgizzYDx0AQ0bCrYpM3g1AB06E6QF5cDA3fds-lLgSTM7L0bHzcCkwYw4IFemQBSNHMvOB53Au1EmGoODOA5QItAgfBiwkqwA3YDYwGiAugA1BCYCXTuOnBc9L8EhTQoEEAx0rjncRPQD21AcYTZFnoKT-cAkwrY7P4usNJ-cET0gr2LajbEGS93T3q-E-j3SS_nzAFHJFAdknMpLwygQEFLn4vLu7Q4MSkxL9EqLD85McehxqBGoRrsGhsLLTswA1sxpAAsDJ7saHixsEdBw0Th6Yb-5-sbdOBlhyYWDUC7QIbVKBgo6CqYxqMQNQqGQBKEjRBCBgrGYAgSAklBdILF4kEIxKsBFxC4Xbirh1wXgmw1htIQ5xkBSTOQ0yCOAboSiAyBwqjKQBDqRSAi5MAdnWAHGpLmQLAzwMEEs7GGq5aLS9dOARabCjRiK3MBAA)]
+- [主旋律 TMD 檔案](kusabana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgIGlMboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdBTmJeSVKXFpaCi96O190bVTQ0uJStFWwNOOyt1Vw0uGyMdE3sQPpeTpl47O1PU93bH6_p8PIwMhAz8DATM_AwsT4_Z5OkAf1sgrSgVLP16xRMDJVeLmgESiuxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQSS9WznvauuLZtHag7U839D5r71RAuKfnWWf3s66WJ7umPN8-68XaOSjOe79nFsjIF6v2P2tYDjKsu_fFzPlA0Rfruh43rwWKP9nV87Sj7cnObiADKPt07QSgJU5JCk-XLAfKKhjpGykAhYFGgZ3WNfvprmUvVsyAGJKbpvCobZJCARdIzlBP4XHz_MdNS4DmPm7aCWI3r3nc3Pe4oeFx07LHzS2Pm9Y_btr-uHkJSKR5JRyBNAPB46bVj5sWgfQ3bX7c3P64eerj5k1gzXtBpjTPA6M9j5u7sQqCTDECOqGx-3Fj0-PGlseNmx43rnrcOOlx43SQBiC7qQNGrgA7YTccwZ3Q9Lip7XET0IguEBtkxDqwZqDjex83Ah048XFTA6YISL-xnsKzTZuBkQe2djnI2sbJjxsaoc5p6gSL9ANFoLY9n78ZaPyTHWvBxjQBJZ5vaQWxG5c8bpz4uHHZ-z397_fsAak20VN4sWE7UPXzmXufz9z3dEIH2GCgJ4EBBja4qeVRwzKE2S-6pwBVP9vR-mzDFpCRDY1Axsv-hQgjTfUUXs4B-e_ZnLkvF06BmbficeNuLOY9nbcY7LKZjxt7Hjd1AR0H1oASpgizzYDx0AQ0bCrYpM3g1AB06E6QF5cDA3fds-lLgSTM7L0bHzcCkwYw4IFemQBSNHMvOB53Au1EmGoODOA5QItAgfBiwkqwA3YDYwGiAugA1BCYCXTuOnBc9L8EhTQoEEAx0rjncRPQD21AcYTZFnoKT-cAkwrY7P4usNJ-cET0gr2LajbEGS93T3q-E-j3SS_nzAFHJFAdknMpLwygQEFLn4vLu7Q4MSkxL9EqLD85McehxqBGoRrsGhsLLTswA1sxpAAsDJ7saHixsEdBw0Th6Yb-5-sbdOBlhyYWDUC7QIbVKBgo6CqYxqMQNQqGQBKEjRBCBgrGYAgSAklBdILF4kEIxKsBFxC4Xbirh1wXgmw1htIQ5xkBSTOQ0yCOAboSiAyBwqjKQBDqRSAi5MAdnWAHGpLmQLAzwMEEs7GGq5aLS9dOARabCkC2MhcA)]
 - [鋼琴伴奏 TMD 檔案](kusabana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjR2_mia-P7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHSjMveVsFJh8vGRN_EjqtOQenplI3P1vY83bEZqM3IwMhAz8DATM_AwsQYqCnAwNJYL6sgHSj1fM0aBSNThZcLGoHiSlxc3qXFiUmJeYlWYfnJiTkONQY1CtVcCkBgY6FlB2bUKBgo6CqYxqMQNQqGQBKEjRBCBgrGYAgSAklBdILF4kEIxKtBMhOkzhhKQww0ApJmIMMg2oHmApEhUBhVGQhCHQVEMCPBGsFOgamp4apF8mFAZmJefpAHdj8axmsbx2uj-RLqL6AEyEQoZRqvjcXPUFGoGnw-B6o0B-lF9T1UI84AMNQGqTWH2AJXjj0gTOK1wWYYQT2EpBhLiPighIgRUogAzQQaip1hgOQfJGETEI0iAkQId0F4QCfo2inAXKFAI7YyFwA)]
 
 ## 分析
@@ -87,14 +72,14 @@ B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 | G4 F4 B8 |
 ================================================================================
 📊 TMD Song Profile: [ 草花 ]
 ================================================================================
-⏱  Duration:       3:00 (180.0s), 72 measures total
+⏱  Duration:       0:22 (22.5s), 9 measures total
 🎼 Key & Tempo:    首調基準 B,, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Kusabana #1 @ m.4, 0:08]
    - 最高音: D5 in [Kusabana #1 @ m.3, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Kusabana (22.5s) -> Kusabana (22.5s) -> Kusabana (22.5s) -> Kusabana (22.5s) -> Kusabana (22.5s) -> Kusabana (22.5s) -> Kusabana (22.5s) -> Kusabana (22.5s)
+🏛  結構:      Kusabana (22.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -102,16 +87,9 @@ B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 | G4 F4 B8 |
    - 核心骨幹音:  A#, F, C, D, G
    - 調性數值:    A# 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): A# 大調 (0.88), F 大調 (0.72), D 小調 (0.55)
-   - 五度圈歷程:   -2 -> -2 -> -2 -> -2 -> -2 -> -2 -> -2 -> -2
+   - 五度圈歷程:   -2
    - 各段落調性細節:
      • [Kusabana #1]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Kusabana #2]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Kusabana #3]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Kusabana #4]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Kusabana #5]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Kusabana #6]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Kusabana #7]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Kusabana #8]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -138,7 +116,7 @@ B4 c2 B2 G4 B4 | F2 F2 B2 c2 d4 c4 | B8 z4 F2 F2 | G4 F4 B8 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 288 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 36 個音符)
 ================================================================================
 ```
 

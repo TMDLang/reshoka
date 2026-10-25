@@ -13,10 +13,4 @@ E8 B4/3 G4/3 B4/3 | e4 e4 c4/3 e4/3 c4/3 | B4 G4 F4/3 E4/3 F4/3 | G4 A4 c4 |
 B8 B4/3 G4/3 B4/3 | e4 e4 c4/3 e4/3 c4/3 | B4 G4 F4/3 E4/3 F4/3 | G8 F4 |
 !mp! E8 e3 B | c4 B4 e3 B | c4 B4 c4/3 B4/3 A4/3 | G8 F4 |
 !mf! B,8 B,3 B, | E4 E4 G F E G | B4 B4 c4/3 B4/3 A4/3 | G8 F4 |
-E8 z4 | !mf! z4 z4 B,3 B, | E4 E4 G F E G | B4 B4 c4/3 B4/3 A4/3 |
-G4 F6 G E | B,8 B,3 B, | E4 E4 G F E G | B4 B4 c4/3 B4/3 A4/3 |
-G4 F6 G F | E8 B4/3 G4/3 B4/3 | e4 e4 c4/3 e4/3 c4/3 | B4 G4 F4/3 E4/3 F4/3 |
-G4 A4 c4 | B8 B4/3 G4/3 B4/3 | e4 e4 c4/3 e4/3 c4/3 | B4 G4 F4/3 E4/3 F4/3 |
-G8 F4 | !mp! E8 e3 B | c4 B4 e3 B | c4 B4 c4/3 B4/3 A4/3 |
-G8 F4 | !mf! B,8 B,3 B, | E4 E4 G F E G | B4 B4 c4/3 B4/3 A4/3 |
-G8 F4 | E8 z4 |
+E8 z4 |

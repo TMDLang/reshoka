@@ -68,19 +68,11 @@ e8 e4 | e8 e4 | f8 e4 | d12 |
 e8 d4 | B8 d4 | A12 | A4 z4 z4 |
 A8 =B4 | c8 c4 | =B8 A4 | F8 E4 |
 D4 E4 F4 | A8 E4 | D12 | D8 z4 |
-D8 D4 | E4 D4 E4 | A8 B4 | A12 |
-B8 A4 | d8 B4 | A12 | A4 z4 z4 |
-B4 A4 B4 | d8 e4 | A8 F4 | E12 |
-F4 E4 A4 | F8 E4 | D12 | D4 z4 z4 |
-e8 e4 | e8 e4 | f8 e4 | d12 |
-e8 d4 | B8 d4 | A12 | A4 z4 z4 |
-A8 =B4 | c8 c4 | =B8 A4 | F8 E4 |
-D4 E4 F4 | A8 E4 | D12 | D8 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](utsukushiki_tennen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgKGBCboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWpSlxaWgrP9_U9bpz-uLH36ZKVz1u2KWhpcSnaKliacdnbKrhxZadW2iq45HLZGOub2IEMebFy3vs9s56tXfZ087bn-_a-WLgYbPaz2ZuAws-nbHiyY-3zldOfr-wFCz-dsvHZ2p6nOza_39NhZGBkoGdgYKZnYGFi_H5PJyh89LIK0h81TAYyTUFMoKrna9YoGJsBxYzNFV4uaASqU-Li0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6ESgt562rng2rR3ohKcbep-1dypgdV_Ps87uZ10tT3ZNeb591ou1czCdCwwGkBUvVu1_1rAcZHh374uZ84Gij5tnAAWfzp79tKPtyc7uJzs6gVJP104A2vhy-pwn-5uebugHKlBwUYAygEGuAFQCNJMLZOKTHQ2PGxpBrOcrdz1uXP10dsPjpu6Xm5c-blz3dPGGxw0NTzdveNzU8bip68WEvY8blwBln-2eC5R9OX8z2NdLlj_bvAhoOJB83LjycfMeGLkCqPlx46bHjZuB6eD51m2PGzseN85-3Ljm2dbtCP0vGuc9bpz4uAno-12PG1ofN3Y9bmoCpZ2mXqA2sBGTQW4BpyOItmcrmh43TYKGx-PGnS_aVz2dswLoeLBtQG3zHzfue9y4Faj5-VKg6eue7lsIDGEQY0MX2OgWiN939UD9_mwG0L_rn63eDVTzuBFoesvLnmUg7cuButY_39L6YmInSPuUCWBbQAkb4vd-oPTjxpmPG2dBRJ_NAfpx3fOtO0EB17YGpHnOvOczgQHX-3L2KpARO5rBDl_WDQ5UuK_bQEHbCDQOZAqmr5_vnPK8cyXU10C_vJw1G2jEk11A560GygFjB9PXYBGgicAgQvI4UD_lyR0KFLT0ubhCS4pLs0uLMzKzM0NS8_JS86zC8pMTcxxqDGoUqkHWKdiYaNmBGdhyHDxHKABTPSQ1AuPlxcIeBQ0LUJp9vr5BE4suoM0gE2sUzOIVdEFEjYJ5PIgGkjUKxkAxEyitC6RNgKQxSDGauLGCARDWgFMDMa7rBLoOmNeId50J0AqQhSCLzaEWG0LcCnGBIYgJcpohSAXI7WAPgaSADCJcBy5CyAw7c6irYLRhHJQBci7ICSAJM2j4gWiSwg3JZSSHGzgC1YEMUyDDFOQCdWgUIocTkAYFJkgxRtDpgh1Yy8Wla6eAkUQVcAkqcwEA)]
+- [主旋律 TMD 檔案](utsukushiki_tennen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgKGBCboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWpSlxaWgrP9_U9bpz-uLH36ZKVz1u2KWhpcSnaKliacdnbKrhxZadW2iq45HLZGOub2IEMebFy3vs9s56tXfZ087bn-_a-WLgYbPaz2ZuAws-nbHiyY-3zldOfr-wFCz-dsvHZ2p6nOza_39NhZGBkoGdgYKZnYGFi_H5PJyh89LIK0h81TAYyTUFMoKrna9YoGJsBxYzNFV4uaASqU-Li0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6ESgt562rng2rR3ohKcbep-1dypgdV_Ps87uZ10tT3ZNeb591ou1czCdCwwGkBUvVu1_1rAcZHh374uZ84Gij5tnAAWfzp79tKPtyc7uJzs6gVJP104A2vhy-pwn-5uebugHKlBwUYAygEGuAFQCNJMLZOKTHQ2PGxpBrOcrdz1uXP10dsPjpu6Xm5c-blz3dPGGxw0NTzdveNzU8bip68WEvY8blwBln-2eC5R9OX8z2NdLlj_bvAhoOJB83LjycfMeGLkCqPlx46bHjZuB6eD51m2PGzseN85-3Ljm2dbtCP0vGuc9bpz4uAno-12PG1ofN3Y9bmoCpZ2mXqA2sBGTQW4BpyOItmcrmh43TYKGx-PGnS_aVz2dswLoeLBtQG3zHzfue9y4Faj5-VKg6eue7lsIDGEQY0MX2OgWiN939UD9_mwG0L_rn63eDVTzuBFoesvLnmUg7cuButY_39L6YmInSPuUCWBbQAkb4vd-oPTjxpmPG2dBRJ_NAfpx3fOtO0EB17YGpHnOvOczgQHX-3L2KpARO5rBDl_WDQ5UuK_bQEHbCDQOZAqmr5_vnPK8cyXU10C_vJw1G2jEk11A560GygFjB9PXYBGgicAgQvI4UD_lyR0KFLT0ubhCS4pLs0uLMzKzM0NS8_JS86zC8pMTcxxqDGoUqkHWKdiYaNmBGdhyHDxHKABTPSQ1AuPlxcIeBQ0LUJp9vr5BE4suoM0gE2sUzOIVdEFEjYJ5PIgGkjUKxkAxEyitC6RNgKQxSDGauLGCARDWgFMDMa7rBLoOmNeId50J0AqQhSCLzaEWG0LcCnGBIYgJcpohSAXI7WAPgaSADCJcBy5CyAw7c6irYLRhHJQBci7ICSAJM2j4gWiSwg3JZSSHGzgC1YEMUyDDFOQCdWgUIocTkAYFJkgxRtDpgh1Yy8Wla6eAkUQVgILKXAA)]
 - [鋼琴伴奏 TMD 檔案](utsukushiki_tennen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-r-9x4_THjb1Pl6x83rLt_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgacZlb6vgxpWdWmmr4JLLZWOsb2LHVaeg9GLlvPd7Zj1bu-zp5m3P9-19sXCxEkj42exNQOHnUzY82bH2-crpz1f2goWfTtn4bG3P0x2bgXYZGRgZ6BkYmOkZWJgYA20KMDQw0csqSH_UMBnINAUxgaqer1mjYGwGFDM2V3i5oBGoTomLK7SkuDS7tDgjMzszJDUvLzXPKiw_OTHHocagRqGaSwEIbEy07MCMGgWzeAVdEFGjYB4PooFkjYIxUMwESusCaRMgaQxSjCZurGAAhDVQo0yAfJAsSJU5VJUhxGCIckMQE2SOIUgFyCKw7SApIAPZKHOoETDaMA7KAJkNUg-SMIO6DERjdxHYH-pAhimQYQpSrg71CbILgDTImSDFGI7SBZtWiy1QAzIT8_KDPEgIVkNtkB1G2qBAgrBBtoD4wIAC8oHu0wZ5EF0FiIUtoCGqweEDVktmYJuqa4OCE0yh88y0wUEP5RmDLQQZAVUFEoD5AOQafK6GR4axNig6QCThCDFVj9eGJMl4bbj7YWz8UeODM2qAxsdrG8NIkHnxMIvg9mGqwhQxilcwATsFQmIRwG4KcqiQYwZx7iXeVyixhEUXueGDTR-R3kN2EqYKQ2DKjtc2hZHA5AhUYh4frw00HUoRFV_Eewye2HTtFDDSmwIuQWUuAA)]
 
 ## 分析
@@ -89,14 +81,14 @@ D4 E4 F4 | A8 E4 | D12 | D8 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 美しき天然 ]
 ================================================================================
-⏱  Duration:       2:00 (120.0s), 64 measures total
+⏱  Duration:       1:00 (60.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – F5 (MIDI 77) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [UtsukushikiTennen #1 @ m.1, 0:00]
    - 最高音: F5 in [UtsukushikiTennen #1 @ m.19, 0:33]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      UtsukushikiTennen (60.0s) -> UtsukushikiTennen (60.0s)
+🏛  結構:      UtsukushikiTennen (60.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
@@ -104,10 +96,9 @@ D4 E4 F4 | A8 E4 | D12 | D8 z4 |
    - 核心骨幹音:  D, A, E, F, A#
    - 調性數值:    D 小調 [相關度: 0.75, 穩定度: Moderate, 自然音純度: 96.6%]
    - 候選調性 (K-S): D 小調 (0.75), A 大調 (0.67), D 大調 (0.61)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
      • [UtsukushikiTennen #1]: D 小調 (r: 0.75, 自然音純度: 96.6%, 調外音: B)
-     • [UtsukushikiTennen #2]: D 小調 (r: 0.75, 自然音純度: 96.6%, 調外音: B)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -134,7 +125,7 @@ D4 E4 F4 | A8 E4 | D12 | D8 z4 |
      B  : ███                        3.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – F5 (15 個半音 / 1.2 個八度, 114 個音符)
+  - Vocal         : D4 – F5 (15 個半音 / 1.2 個八度, 57 個音符)
 ================================================================================
 ```
 

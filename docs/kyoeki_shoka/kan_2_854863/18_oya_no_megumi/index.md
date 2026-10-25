@@ -58,15 +58,11 @@ V:V1 name="Piano" snm="Pia"
 d8 e4 c4 | B6 B2 A4 A4 | B4 A4 B4 B4 | ^c4 c4 d8 |
 !mp! D8 E4 F4 | G4 A4 B4 A4 | B6 B2 A4 G4 | F4 G4 A8 |
 !mf! d8 B4 e4 | d4 c4 B4 A4 | G4 D4 G4 B4 | B4 A4 G8 |
-!mf! G8 G4 B4 | A4 G4 E4 G4 | D6 D2 G4 B4 | B4 A4 A8 |
-d8 e4 c4 | B6 B2 A4 A4 | B4 A4 B4 B4 | ^c4 c4 d8 |
-!mp! D8 E4 F4 | G4 A4 B4 A4 | B6 B2 A4 G4 | F4 G4 A8 |
-!mf! d8 B4 e4 | d4 c4 B4 A4 | G4 D4 G4 B4 | B4 A4 G8 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](oya_no_megumi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiZImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh9MSczNzKtFFU3PzIRZoaSm8WLbqceO6x02NjxsnPG7cr6ClxaVoq2BpxGVvq-DOZWOib2IH0v20fdeLmVPf75n1tHXj89ldT6e2PV-y79mKpqczVzzdNf1xQ9fTKRufre15NnXm8-UTn83eoQBkPd2x-vmUFQpPt-9-sqvncUP38zVrnuzofNrb-LR19fu98yDsJzvnvlzQ-H5PB1AWIvVs9qb3ezrBbvZz8VFwyUzPLEnMUXCGx3GxQoCniwIkFoEaM0pKCoqt9PVTcvTygDg9Xy-rQL8gM0UfpqLzWV_zs_5-BVDcAeWAYcelr6VgSy3ApaCg8LRvPtDTLza3v1jR9aKjHRgSL1bOe9q64tm0dqALQd5AOJkKgdWD5iOgH4FRA3LIi1X7nzUsBzmhu_fFzPlA0cfNHUDBp7NnP-1oe9zcB2QApZ6unQB0l7vC0yXLgZIKwFhWAIoCDX6xds6THV0vVsxQcAYb2vNo5kpbSyMg43FDz7MdK59O6nnc3P24oRds2YrdQJWgRDFt3YvGTS-bVwDVAa15vr4B6D2gP4AMoDVgM7tftgJtnQ4UfLGwB6jlyQ6g1Nznne1PG9ufTuh93NAIlAKKPN25GSICtP5xQxMkYJ_2bwb6GxKqz1bMfLmw58neOUAHoSVeoLNADti-DKgYaOmz6Y0vFs99uRiYTtG1PGvcClf_ZN_cJ_u6n_UthNoCVgyyGhh9szeBwmvdVmCqB0fF2qcb-sGe6gHHTwNQCqheITcNKrKrBygCSsnA4IaqBCfs1tUwbidIfVFmiZ7Ckx3Lnk3b82zO6pfzNyu4mCq8nNnydPe2l1O3A8MUHHUdaalFuYkliZCIgCQIoPEvp3W_XLAWZIyjQklqbkG-AjC6FXILIGog7kWoATlt9tMJLRB3AR0IcQjQWqAuiCcgYQ8iweYjOx-o7Nmczmf9s59tWAx3VhkkapD9BQ0NYJprX_FsZtPTXmBGgKpWNlGwVXBWNgVqAoY0RPnT1uUQhRBVz1oXA2Pgya5lLxtXAjMBMFSgYdnd-2Rnt4IJ0LInu6Y83z4LGKkgV29YCGS8bJgADLhnC3Y83dALtPtF-xagMmhefNq649meKU-X9j_bvOJZSz8oFzS0v9i4-vn-ScAofdy44nHj9MeNyx43rgemiJcLOp4vXvFsRt_z-ZuBKeJp__rHjaseN3UBjQPqej51G1jLaqCrgFqedswFJ7dlEPc_mrke4gWgsx83TXjc1Pm4CZg7Gl-s3AR03PM1ICuAWoD2vmhoBRoC5D5f0ft09oaXsxeDbel53LjhaWsrKG8CUyXYtY-bJr1YBrRiJsgokBoguRPkYIh7YMkA6qSmbngyANnV2QuUAqUvBaCjQBY2dYC80rjs-faVYIfPB-p42TD_6a5lQHuALn22dgnI5s4GiMqnbb2PG4HB0PO0tRkoDlUJcjjQFTsgRoECacrGx6AsBHRXL9Cc50t2PW6cDTQZWCO8WDUPOfyeti8EaQEa3tj_uAFo8tbnM_c8a94MCTaQJyCeBnoX5ktEJALNetneDY6-nmdbt4PMBTkFaHrn40agIDD7zkUvA4Ce2Q50XAtIEKQYGJ5AxUCjIdHdCJEFmdbUBDZq8uPG5VB2Ywsws4AKieYdYL3AsJgGVQC26-l-YKAAxYGJBxgcwFQEDA5gqgD6DWg4kA20FBg6TVwgH0AyFoj1uBFoODCUgZ4EBhlQI9BYkEue7luIUYCBNTzduBHooKf9QBM3gP3ZiM3zYKXPNgPT0USwuqbHTUD7gcbPBJm9fhEwOp7PBpoNtHwtSANQM0TP8-mtYBuBesAJDOidJpBbXy4GJo5JYA1ApwJzAdDXUL-AiwewfdNXAmWfrwFaCUwNHUBRKLtxw8sGYBRCBUFKoXyo09rAVq4AyoGDYypIpHHr86XARAfKMLBwapoLJoE-B-YMYPIAVQyIcGqcDFLQBBIE1z9Yoqnx6f4Z4GwF9DDQIGB-nAxNUpTX9FCgoKXPxeVfmeiX75uaXpqbaRWQmZiX71BjUKNQDbJIwcZCyw7MqM5NqwUzgO2Nx02LFB43twDp9Qo1QNZUIGs1EK8FsvvBIvOBvFVAegkQ94FFFgJFNoBlgFaCzKlRMFTQBUMQbQzENQpGUJ5ZPJRRo2AKYuqCKIQyEAlSCsIgWAN3GNjCeUC8CGQp2AkrgHgCkL0LLLIM4rjmLiDuBjsMxFoJltcA1WU6CtCqShPhUFOoPWZAbAJ3Acg1MFcg3ASiIa40UQcpBxEw_RB3VucWIEISZH3TRrATQc4DhSvQC-DQ3Al2Xi8QA3mg8IN4CiQCdCzI-QgHQgIJGnDmIAISvDAXIdwIczUkdMFKYQqRnYgU2eAwBVkPcSLIMSBHbwfSC8Ai2x83LwenhcfNm-BBD-L1A3E7ZjCCnAEKSogIKEARTgS5BewbzNiGJZcarlouLl07BaRkq4DJVeYCAA)]
+- [主旋律 TMD 檔案](oya_no_megumi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiZImQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh9MSczNzKtFFU3PzIRZoaSm8WLbqceO6x02NjxsnPG7cr6ClxaVoq2BpxGVvq-DOZWOib2IH0v20fdeLmVPf75n1tHXj89ldT6e2PV-y79mKpqczVzzdNf1xQ9fTKRufre15NnXm8-UTn83eoQBkPd2x-vmUFQpPt-9-sqvncUP38zVrnuzofNrb-LR19fu98yDsJzvnvlzQ-H5PB1AWIvVs9qb3ezrBbvZz8VFwyUzPLEnMUXCGx3GxQoCniwIkFoEaM0pKCoqt9PVTcvTygDg9Xy-rQL8gM0UfpqLzWV_zs_5-BVDcAeWAYcelr6VgSy3ApaCg8LRvPtDTLza3v1jR9aKjHRgSL1bOe9q64tm0dqALQd5AOJkKgdWD5iOgH4FRA3LIi1X7nzUsBzmhu_fFzPlA0cfNHUDBp7NnP-1oe9zcB2QApZ6unQB0l7vC0yXLgZIKwFhWAIoCDX6xds6THV0vVsxQcAYb2vNo5kpbSyMg43FDz7MdK59O6nnc3P24oRds2YrdQJWgRDFt3YvGTS-bVwDVAa15vr4B6D2gP4AMoDVgM7tftgJtnQ4UfLGwB6jlyQ6g1Nznne1PG9ufTuh93NAIlAKKPN25GSICtP5xQxMkYJ_2bwb6GxKqz1bMfLmw58neOUAHoSVeoLNADti-DKgYaOmz6Y0vFs99uRiYTtG1PGvcClf_ZN_cJ_u6n_UthNoCVgyyGhh9szeBwmvdVmCqB0fF2qcb-sGe6gHHTwNQCqheITcNKrKrBygCSsnA4IaqBCfs1tUwbidIfVFmiZ7Ckx3Lnk3b82zO6pfzNyu4mCq8nNnydPe2l1O3A8MUHHUdaalFuYkliZCIgCQIoPEvp3W_XLAWZIyjQklqbkG-AjC6FXILIGog7kWoATlt9tMJLRB3AR0IcQjQWqAuiCcgYQ8iweYjOx-o7Nmczmf9s59tWAx3VhkkapD9BQ0NYJprX_FsZtPTXmBGgKpWNlGwVXBWNgVqAoY0RPnT1uUQhRBVz1oXA2Pgya5lLxtXAjMBMFSgYdnd-2Rnt4IJ0LInu6Y83z4LGKkgV29YCGS8bJgADLhnC3Y83dALtPtF-xagMmhefNq649meKU-X9j_bvOJZSz8oFzS0v9i4-vn-ScAofdy44nHj9MeNyx43rgemiJcLOp4vXvFsRt_z-ZuBKeJp__rHjaseN3UBjQPqej51G1jLaqCrgFqedswFJ7dlEPc_mrke4gWgsx83TXjc1Pm4CZg7Gl-s3AR03PM1ICuAWoD2vmhoBRoC5D5f0ft09oaXsxeDbel53LjhaWsrKG8CUyXYtY-bJr1YBrRiJsgokBoguRPkYIh7YMkA6qSmbngyANnV2QuUAqUvBaCjQBY2dYC80rjs-faVYIfPB-p42TD_6a5lQHuALn22dgnI5s4GiMqnbb2PG4HB0PO0tRkoDlUJcjjQFTsgRoECacrGx6AsBHRXL9Cc50t2PW6cDTQZWCO8WDUPOfyeti8EaQEa3tj_uAFo8tbnM_c8a94MCTaQJyCeBnoX5ktEJALNetneDY6-nmdbt4PMBTkFaHrn40agIDD7zkUvA4Ce2Q50XAtIEKQYGJ5AxUCjIdHdCJEFmdbUBDZq8uPG5VB2Ywsws4AKieYdYL3AsJgGVQC26-l-YKAAxYGJBxgcwFQEDA5gqgD6DWg4kA20FBg6TVwgH0AyFoj1uBFoODCUgZ4EBhlQI9BYkEue7luIUYCBNTzduBHooKf9QBM3gP3ZiM3zYKXPNgPT0USwuqbHTUD7gcbPBJm9fhEwOp7PBpoNtHwtSANQM0TP8-mtYBuBesAJDOidJpBbXy4GJo5JYA1ApwJzAdDXUL-AiwewfdNXAmWfrwFaCUwNHUBRKLtxw8sGYBRCBUFKoXyo09rAVq4AyoGDYypIpHHr86XARAfKMLBwapoLJoE-B-YMYPIAVQyIcGqcDFLQBBIE1z9Yoqnx6f4Z4GwF9DDQIGB-nAxNUpTX9FCgoKXPxeVfmeiX75uaXpqbaRWQmZiX71BjUKNQDbJIwcZCyw7MqM5NqwUzgO2Nx02LFB43twDp9Qo1QNZUIGs1EK8FsvvBIvOBvFVAegkQ94FFFgJFNoBlgFaCzKlRMFTQBUMQbQzENQpGUJ5ZPJRRo2AKYuqCKIQyEAlSCsIgWAN3GNjCeUC8CGQp2AkrgHgCkL0LLLIM4rjmLiDuBjsMxFoJltcA1WU6CtCqShPhUFOoPWZAbAJ3Acg1MFcg3ASiIa40UQcpBxEw_RB3VucWIEISZH3TRrATQc4DhSvQC-DQ3Al2Xi8QA3mg8IN4CiQCdCzI-QgHQgIJGnDmIAISvDAXIdwIczUkdMFKYQqRnYgU2eAwBVkPcSLIMSBHbwfSC8Ai2x83LwenhcfNm-BBD-L1A3E7ZjCCnAEKSogIKEARTgS5BewbzNiGJZcarlouLl07BaRkqwDkKnMBAA)]
 
 ## 分析
 
@@ -74,14 +70,14 @@ d8 e4 c4 | B6 B2 A4 A4 | B4 A4 B4 B4 | ^c4 c4 d8 |
 ================================================================================
 📊 TMD Song Profile: [ 親のめぐみ ]
 ================================================================================
-⏱  Duration:       1:23 (83.5s), 32 measures total
+⏱  Duration:       0:41 (41.7s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 92.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [OyaNoMegumi #1 @ m.3, 0:05]
    - 最高音: E5 in [OyaNoMegumi #1 @ m.5, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      OyaNoMegumi (41.7s) -> OyaNoMegumi (41.7s)
+🏛  結構:      OyaNoMegumi (41.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -89,10 +85,9 @@ d8 e4 c4 | B6 B2 A4 A4 | B4 A4 B4 B4 | ^c4 c4 d8 |
    - 核心骨幹音:  B, A, G, D, E
    - 調性數值:    G 大調 [相關度: 0.78, 穩定度: Moderate, 自然音純度: 96.9%]
    - 候選調性 (K-S): G 大調 (0.78), D 大調 (0.75), B 小調 (0.69)
-   - 五度圈歷程:   +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
      • [OyaNoMegumi #1]: G 大調 (r: 0.78, 自然音純度: 96.9%, 調外音: C#)
-     • [OyaNoMegumi #2]: G 大調 (r: 0.78, 自然音純度: 96.9%, 調外音: C#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -119,7 +114,7 @@ d8 e4 c4 | B6 B2 A4 A4 | B4 A4 B4 B4 | ^c4 c4 d8 |
      B  : ████████████████████████  23.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 112 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 56 個音符)
 ================================================================================
 ```
 

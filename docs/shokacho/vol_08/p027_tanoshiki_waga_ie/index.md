@@ -71,34 +71,18 @@ V:V2 name="Soprano" snm="Sop"
 F12 F2 F2 | B6 B2 B4 B4 | G6 G2 F4 F2 F2 | F4 B4 A4 A4 |
 B12 d4 | c4 A2 F2 B4 B4 | A6 F2 F6 F2 | G6 G2 F2 F2 F2 F2 |
 F12 F2 F2 | B6 B2 B4 B4 | G6 G2 F4 F2 F2 | F4 B4 A4 A4 |
-B12 z4 | !mp! z4 z4 z4 F2 F2 | B6 B2 B4 B4 | G6 G2 F4 F2 F2 |
-F6 F2 F4 F4 | F12 F2 F2 | B6 B2 B4 B4 | G6 G2 F4 F2 F2 |
-F4 B4 A4 A4 | B12 d4 | c4 A2 F2 B4 B4 | A6 F2 F6 F2 |
-G6 G2 F2 F2 F2 F2 | F12 F2 F2 | B6 B2 B4 B4 | G6 G2 F4 F2 F2 |
-F4 B4 A4 A4 | B12 z4 | !mp! z4 z4 z4 F2 F2 | B6 B2 B4 B4 |
-G6 G2 F4 F2 F2 | F6 F2 F4 F4 | F12 F2 F2 | B6 B2 B4 B4 |
-G6 G2 F4 F2 F2 | F4 B4 A4 A4 | B12 d4 | c4 A2 F2 B4 B4 |
-A6 F2 F6 F2 | G6 G2 F2 F2 F2 F2 | F12 F2 F2 | B6 B2 B4 B4 |
-G6 G2 F4 F2 F2 | F4 B4 A4 A4 | B12 z4 |
+B12 z4 |
 [V:V2]
 !mf! z4 z4 z4 F2 B2 | d6 d2 d4 f4 | e6 c2 B4 A2 c2 | B6 B2 c4 A4 |
 B12 F2 B2 | d6 d2 d4 f4 | e6 c2 B4 A2 c2 | B4 d4 c4 f4 |
 d12 f4 | f4 e2 c2 d4 f4 | e6 c2 B6 B2 | c6 c2 d2 c2 B2 A2 |
 B12 F2 B2 | d6 d2 d4 f4 | e6 c2 B4 A2 c2 | B4 d4 c4 f4 |
-B12 z4 | !mf! z4 z4 z4 F2 B2 | d6 d2 d4 f4 | e6 c2 B4 A2 c2 |
-B6 B2 c4 A4 | B12 F2 B2 | d6 d2 d4 f4 | e6 c2 B4 A2 c2 |
-B4 d4 c4 f4 | d12 f4 | f4 e2 c2 d4 f4 | e6 c2 B6 B2 |
-c6 c2 d2 c2 B2 A2 | B12 F2 B2 | d6 d2 d4 f4 | e6 c2 B4 A2 c2 |
-B4 d4 c4 f4 | B12 z4 | !mf! z4 z4 z4 F2 B2 | d6 d2 d4 f4 |
-e6 c2 B4 A2 c2 | B6 B2 c4 A4 | B12 F2 B2 | d6 d2 d4 f4 |
-e6 c2 B4 A2 c2 | B4 d4 c4 f4 | d12 f4 | f4 e2 c2 d4 f4 |
-e6 c2 B6 B2 | c6 c2 d2 c2 B2 A2 | B12 F2 B2 | d6 d2 d4 f4 |
-e6 c2 B4 A2 c2 | B4 d4 c4 f4 | B12 z4 |
+B12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanoshiki_waga_ie.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGROboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKCgEpeWlsKzFU2Pm7Y_blr7rGPi03Xb3u_peLp_NVDw-awWmEingpYWl6KtgoUFl72tgpMOl42JvokdyIqn7btezJz6fs-sF5PXvJzdBtT8bMZaIz0gNARqA7vicUPX0ykbn63tebpj2uOGbqASIwMjAz0DAzM9AwsTY6AyUIjpZRWkK3Fx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdMWLlfOetq54Nq0d5NENvc_aOxVg9gOdAvQJSNuLVfufNSwHaejufTFzPlD06ZLOx81rgeIKQK8rAIWB2p2SFJ4uWY4iBjSg59HMlbYWFkD5J7umPN8-68XaOU929bxsXvF0QgcwIIAKXPSC9RQScxTcMvNSgVrAFq7Y_WLFDKA9GpCA1FTQV4AEIxdI-smOhscNjSDW4-b-x81dCo-bNj9u2gukVj9u3vS4eeXj5l6g1PrHTWvAUs19QGovkIJoaQHGLlxLc_fj5tlgYzC0NPcBFYK1AM1t2vm4eT7IPiDuAIpDWN1APA-oB2xi8yaI1oVwlwG1AdEesFHNnWDnAXWAnNIO1Tz1cdPGx82rIN7a1QPzFtQja4BGKLzoAqoAurJf4eXsFS8XrXjctAikAxSdPU2Pm2eA1Dyb0wFXs-nlnOUINRA_PVu7BOSlp3MmPZ8yH-gBhRe7Jz1fvR7kFbA2sGlbJzxuXqTwdMJOsPW9j5sngEwDe3A_MJSB2QIa-p1QZz7v2PZsfe_T1pane4BB07QK7M1Fjxs2P27YCpJ_NgMYgkBLgN6YAPH2mscNwEACxgDI4oVgu0GxAVY8ax1UJSh6QUq6gelp6ktQSgMqBhreBgkaoFuAxgKz6HrUcH3auu3Z9KWgcAO6BGTtapB6yjMOFCho6XNxhSTm5RdnZGZnhiemJ3qmWgXnFwBLkHyHGoMahWqQdQo2Flp2YEZ1blotmFGjYKCgC8em8QqGQCFjIFMXSIJoUyCuUTABixgBZXUVzOOBjBowUxdIGkGEQKogQhAIMQpqB9EGghSADIQogmiDmgcSgRoHYpsA1WE3DuSoGrApIBFjsCjQCuo7D9k8UOjVcNViRoJjTgmOGCjAEQNAhAhdEA3CNQpmoDDWBVFABQiFYA6MC6ZBiqGicL-ClEJtI81kaABgjWJQaMBMhaYCcLDCzAVrQTgNzEKzDY7o5GR4NOnaKaDFlALRQspcAA)]
+- [主旋律 TMD 檔案](tanoshiki_waga_ie.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGROboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKCgEpeWlsKzFU2Pm7Y_blr7rGPi03Xb3u_peLp_NVDw-awWmEingpYWl6KtgoUFl72tgpMOl42JvokdyIqn7btezJz6fs-sF5PXvJzdBtT8bMZaIz0gNARqA7vicUPX0ykbn63tebpj2uOGbqASIwMjAz0DAzM9AwsTY6AyUIjpZRWkK3Fx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdMWLlfOetq54Nq0d5NENvc_aOxVg9gOdAvQJSNuLVfufNSwHaejufTFzPlD06ZLOx81rgeIKQK8rAIWB2p2SFJ4uWY4iBjSg59HMlbYWFkD5J7umPN8-68XaOU929bxsXvF0QgcwIIAKXPSC9RQScxTcMvNSgVrAFq7Y_WLFDKA9GpCA1FTQV4AEIxdI-smOhscNjSDW4-b-x81dCo-bNj9u2gukVj9u3vS4eeXj5l6g1PrHTWvAUs19QGovkIJoaQHGLlxLc_fj5tlgYzC0NPcBFYK1AM1t2vm4eT7IPiDuAIpDWN1APA-oB2xi8yaI1oVwlwG1AdEesFHNnWDnAXWAnNIO1Tz1cdPGx82rIN7a1QPzFtQja4BGKLzoAqoAurJf4eXsFS8XrXjctAikAxSdPU2Pm2eA1Dyb0wFXs-nlnOUINRA_PVu7BOSlp3MmPZ8yH-gBhRe7Jz1fvR7kFbA2sGlbJzxuXqTwdMJOsPW9j5sngEwDe3A_MJSB2QIa-p1QZz7v2PZsfe_T1pane4BB07QK7M1Fjxs2P27YCpJ_NgMYgkBLgN6YAPH2mscNwEACxgDI4oVgu0GxAVY8ax1UJSh6QUq6gelp6ktQSgMqBhreBgkaoFuAxgKz6HrUcH3auu3Z9KWgcAO6BGTtapB6yjMOFCho6XNxhSTm5RdnZGZnhiemJ3qmWgXnFwBLkHyHGoMahWqQdQo2Flp2YEZ1blotmFGjYKCgC8em8QqGQCFjIFMXSIJoUyCuUTABixgBZXUVzOOBjBowUxdIGkGEQKogQhAIMQpqB9EGghSADIQogmiDmgcSgRoHYpsA1WE3DuSoGrApIBFjsCjQCuo7D9k8UOjVcNViRoJjTgmOGCjAEQNAhAhdEA3CNQpmoDDWBVFABQiFYA6MC6ZBiqGicL-ClEJtI81kaABgjWJQaMBMhaYCcLDCzAVrQTgNzEKzDY7o5GR4NOnaKaDFlAJQSJkLAA)]
 - [鋼琴伴奏 TMD 檔案](tanoshiki_waga_ie_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dT_evBgo-n9UCEXncvPtl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKlhYcNnbKjjpcNmY6JvYcdUpKD1t3_Vi5tT3e2a9mLzm5ew2oHHPZqw10gNCQ6A2JZCSxw1dT6dsfLa25-mOaY8buoFKjAyMDPQMDMz0DCxMjIHKAgyMzPWyCtKVuLhCEvPyizMyszPDE9MTPVOtAjKBAkEeDjUGNQrVXApAYGOhZQdmVOem1YIZNQoGCrpwbBoPRNqGQFFDbWMgXxdMQ9iG2qZAskbBLF7bBCwFZBhBlIM0apuD9RoBVUDFwKKGEEGYCpABcGkIhNsJdQ8VbIZoM4dYDKQg2mEGQ6AxRBRqqRGYB1RqAjEK1WKwONRDcIuh3gM7C2QPwlnGSOogzhs4T4MkUfwNiuYarlocqcUHR2opwJZawEYpGMaDotU0HkxBOMZgskbBBCIIpaBKoBRMI0QtdjkUQyEOhwYXZXaa4ZPEaSmqclRb8ckR46LB4lNgutC1U0BLGgpECylzAQA)]
 
 ## 分析
@@ -107,14 +91,14 @@ e6 c2 B4 A2 c2 | B4 d4 c4 f4 | B12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 樂シキ我家（快樂的我家） ]
 ================================================================================
-⏱  Duration:       2:19 (139.1s), 51 measures total
+⏱  Duration:       0:46 (46.4s), 17 measures total
 🎼 Key & Tempo:    首調基準 B,, != 88.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
    - 最低音:  F4 in [TanoshikiWagaIe #1 @ m.1, 0:02]
    - 最高音: D5 in [TanoshikiWagaIe #1 @ m.9, 0:23]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      TanoshikiWagaIe (46.4s) -> TanoshikiWagaIe (46.4s) -> TanoshikiWagaIe (46.4s)
+🏛  結構:      TanoshikiWagaIe (46.4s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -122,11 +106,9 @@ e6 c2 B4 A2 c2 | B4 d4 c4 f4 | B12 z4 |
    - 核心骨幹音:  A#, F, D, C, A
    - 調性數值:    A# 大調 [相關度: 0.95, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): A# 大調 (0.95), F 大調 (0.72), A# 小調 (0.60)
-   - 五度圈歷程:   -2 -> -2 -> -2
+   - 五度圈歷程:   -2
    - 各段落調性細節:
      • [TanoshikiWagaIe #1]: A# 大調 (r: 0.95, 自然音純度: 100.0%)
-     • [TanoshikiWagaIe #2]: A# 大調 (r: 0.95, 自然音純度: 100.0%)
-     • [TanoshikiWagaIe #3]: A# 大調 (r: 0.95, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -153,8 +135,8 @@ e6 c2 B4 A2 c2 | B4 d4 c4 f4 | B12 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Alto          : F4 – D5 (9 個半音 / 0.8 個八度, 195 個音符)
-  - Soprano       : F4 – F5 (12 個半音 / 1.0 個八度, 195 個音符)
+  - Alto          : F4 – D5 (9 個半音 / 0.8 個八度, 65 個音符)
+  - Soprano       : F4 – F5 (12 個半音 / 1.0 個八度, 65 個音符)
 ================================================================================
 ```
 

@@ -65,20 +65,12 @@ z2 z2 z2 z2 z2 F2 | F4 G2 A4 B2 | c4 d2 c4 A2 | F4 G2 A2 G2 F2 |
 G10 F2 | F4 A2 c4 =B2 | c4 d2 c4 A2 | F4 G2 A4 B2 |
 A4 F2 c4 F2 | c4 d2 c4 A2 | F4 G2 A4 F2 | c4 d2 c4 A2 |
 F2 G2 A2 G4 C2 | C4 F2 A4 F2 | c4 d2 c4 A2 | F4 G2 A4 B2 |
-A4 G2 F4 z2 | z2 z2 z2 z2 z2 F2 | F4 G2 A4 B2 | c4 d2 c4 A2 |
-F4 G2 A2 G2 F2 | G10 F2 | F4 A2 c4 =B2 | c4 d2 c4 A2 |
-F4 G2 A4 B2 | A4 F2 c4 F2 | c4 d2 c4 A2 | F4 G2 A4 F2 |
-c4 d2 c4 A2 | F2 G2 A2 G4 C2 | C4 F2 A4 F2 | c4 d2 c4 A2 |
-F4 G2 A4 B2 | A4 G2 F4 z2 | z2 z2 z2 z2 z2 F2 | F4 G2 A4 B2 |
-c4 d2 c4 A2 | F4 G2 A2 G2 F2 | G10 F2 | F4 A2 c4 =B2 |
-c4 d2 c4 A2 | F4 G2 A4 B2 | A4 F2 c4 F2 | c4 d2 c4 A2 |
-F4 G2 A4 F2 | c4 d2 c4 A2 | F2 G2 A2 G4 C2 | C4 F2 A4 F2 |
-c4 d2 c4 A2 | F4 G2 A4 B2 | A4 G2 F4 z2 |
+A4 G2 F4 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh_MSS0qLUtFFyxNLUovQBXMS81KAriwAqtbSUni2YcuL3V0KWlpcirYKhgYmXPa2Cm5cNmb6FnYgfU_bd72YOfX9nllPWzc-n931dGrb8yX7nq1oejpzxdNd0x83dD2dsvHZ2p5nU2c-Xz7x2ewdCkDW0x2rn09ZofB0--4nOzofN3Q_X7Pmaevq93vnPdk59-WCxvd7OoAiT3Y0PF2749mc-SDZ2bOfzd70fk8n2Kl-Lj4KLpnpmSWJOQrO8PguVgjwdFGAxCjQhIySkoJiK339lBy9PCBOz9fLKtAvyEzRh6nofNbX_Ky_XwEUj0A5YDhy6Wsp2FILcCkoKDztmw_08YvN7S9WdL3oaAcGw4uV8562rng2rR3oQpA3EE4mM6R60HwB9BcwLkCWv1i1_1nDcpC13b0vZs4Hij5ungEUBOp_2tH2uLnvaetaoNTTtROAbnFTeLpkOVBSARitCkBRsDE9j2au1LMFRjlQwcuZLS93zwPGA1Dvy_mbn69ZBpEAKXvc0PO4ednj5pUwsuNxA9CEnqd7Nr7Yuh0Yj2ADOyAWQzQDNYLduGL3ixUzQIln2roXjZteNq8AagP69Pn6BqBSIAkMj8cNTaDUsGvK0w39IJE5q4HGvVw27dmahcC097x_37M5a57sBVnwsqkFGOJAo4FmAn2s8GjmOpDTnSB0j4k6UApiGsgpYNOATjcFOvZxQyNItLfxya4euIQRsgQwsOAShkAJYHg83b3t5dTtELuA1nyY2wIMSVB4wIyCuhgYBs9WzFQoyizRA9oOTRdPW3c82zPl6dL-Z5tXPGvpBwbBs7VLgGn8edMuSDg92dmNFEEgMyEBCYxQaIbo7gUp3rMdHnAvl8wAi2yEicx-PnUbxMznK3qfNSx92TAfzdinE1ogjnyyo_fZ1B0QKaD4i4aep8uanuzoBqlsbX3a2QuMlacNQL2IOASGzZMdXVAF-0DRhqYAZD7QkF09EOtedKx5saIDaAso1U5tfbJ7KdBtoIjsbHjWD7IXFLsr5z_dtQyoBuhOzCQHKhhm7wB6CptdnSC_T1sHSQqwRAdMChAbZ0MDcN1WYAIC-XdnNyiuG7oh2p_ub325oAMao9s2P23d9mxm09OGPUCNkOQFj2ZgYgIaC0l_z6btgYTwk737gdkUNXZnb4LEKzDBAC1-3LgOlJYb1wND7cWG7U-3z33cuPpxY_fjprmPm7ohZSxQzePGpseN8x83db2cOwck27j66e7dQAWPG6c-btz3uGkSWM1OUNDvApqGMBOYekBciDlNk56u6wDqegFStgso_mT3TBCjqfFxYy_YfGwGAgsYJAOfLpnzctrkZ0u3gnUtg7lnFVhv2-PGhTjdBjQfxFgO8gtQtqEJmF0Q4fJi1byX7d2QcAEr7Xvc1AMJAnCpMevZzvUg_U39jxv7gckHSIJCCsQFOh1o2Q5g6AAd9GxrI8j0prlAjcBYgprWNO9x42SwsVvBbu2CmokI301gNb0g6xrXASP_ceMKkE_6Vz2bu-_lIiC751k7MCBmgT0GVL8f6BNgcni6ZBo4wtY_2Tv1cVMTWCPQxukgWxpbwM5rgTkDaNESoPanS6Y-m74UrKvlcSMwvoHeBMoC8w3YSSApILcfLAh0MNAvQHshKoEkMPiAjgEygBEADFlgpAKDYvrjJmAgAO2CBTRIEBhWHUhWAxUAnbT-6bptIKvBdkHZwHSwA5Sknq2FhCHUfGCMgK0A2rsD6LwXy4AugRsIVDMZyIWYA_YpkAFM1ntAaaWl_-lEYDiAqihwwHZCovJx40Swp1aCnNcATD1AE4CGA320HpoQgS7ZC_R4AzDrg60GexOYe0DJBJRZGhpBrGc7WkExBYpoUFoHJcqNG59tAtkIVQHPQEAJsCdBisApAJYVYOr2gVI11HXQJABWipoA4QY_3QxKhNAkAbS3HxikaOkK6lpgNoRq6W1-unPL85n7gCTY6JngxANUDIl0qEOAWacXFKBA50DlgI0kqJthoQPMNFDVwAgHJgqw70FZDKh5Elg1svgmkCDc5c-b5z-dAEwbwGQATIRzYY4HagbnRlTHg9oUYF0vJuxFT7Qga9DSLVjpy81AaaDj1z5unAB2BUQpZsqDegGWgkDpFGjeflCEAx0FKqCA6QXobaCCZQg_g_Mp0EsrwEkUFLgg94PKIKBtSO4HKqW8kQYFClr6XFzBpZnFGYlWYfmZyakONQY1CtUgOxRsLLTswAxg41AD0qLRVHjctFahRuFx8wow63FzF5BeAxZZA8R7gLgPiJeAReZBRIDyj5v7wSLdQBLJqNUg60E21CgYwKEhkGeooKtgpGAMJE2APFMgbQYmjZHkjMAqjYA8CATyYK4FmQxxEIhGcQzIeU2bwSIgh84H4lagyAaQUogyZBcCuXAXguw1BrvCRB2noyAOBtGGYDlkRwHDAOIEiMNAtk0C4smQkGzaDxJpWoehBuREkAjQmejhtx_hOlzOAYURuhwk9HQVTOORXdcADhiQoY-bp4LdAgo8UPztBtItIJtBDTlQqACVgiUgykGOnApJCs2rkFwUD7YelyPQwwsUnbrA6K_hquXi0rVTgCRKBRwsZS4A)]
+- [主旋律 TMD 檔案](suisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh_MSS0qLUtFFyxNLUovQBXMS81KAriwAqtbSUni2YcuL3V0KWlpcirYKhgYmXPa2Cm5cNmb6FnYgfU_bd72YOfX9nllPWzc-n931dGrb8yX7nq1oejpzxdNd0x83dD2dsvHZ2p5nU2c-Xz7x2ewdCkDW0x2rn09ZofB0--4nOzofN3Q_X7Pmaevq93vnPdk59-WCxvd7OoAiT3Y0PF2749mc-SDZ2bOfzd70fk8n2Kl-Lj4KLpnpmSWJOQrO8PguVgjwdFGAxCjQhIySkoJiK339lBy9PCBOz9fLKtAvyEzRh6nofNbX_Ky_XwEUj0A5YDhy6Wsp2FILcCkoKDztmw_08YvN7S9WdL3oaAcGw4uV8562rng2rR3oQpA3EE4mM6R60HwB9BcwLkCWv1i1_1nDcpC13b0vZs4Hij5ungEUBOp_2tH2uLnvaetaoNTTtROAbnFTeLpkOVBSARitCkBRsDE9j2au1LMFRjlQwcuZLS93zwPGA1Dvy_mbn69ZBpEAKXvc0PO4ednj5pUwsuNxA9CEnqd7Nr7Yuh0Yj2ADOyAWQzQDNYLduGL3ixUzQIln2roXjZteNq8AagP69Pn6BqBSIAkMj8cNTaDUsGvK0w39IJE5q4HGvVw27dmahcC097x_37M5a57sBVnwsqkFGOJAo4FmAn2s8GjmOpDTnSB0j4k6UApiGsgpYNOATjcFOvZxQyNItLfxya4euIQRsgQwsOAShkAJYHg83b3t5dTtELuA1nyY2wIMSVB4wIyCuhgYBs9WzFQoyizRA9oOTRdPW3c82zPl6dL-Z5tXPGvpBwbBs7VLgGn8edMuSDg92dmNFEEgMyEBCYxQaIbo7gUp3rMdHnAvl8wAi2yEicx-PnUbxMznK3qfNSx92TAfzdinE1ogjnyyo_fZ1B0QKaD4i4aep8uanuzoBqlsbX3a2QuMlacNQL2IOASGzZMdXVAF-0DRhqYAZD7QkF09EOtedKx5saIDaAso1U5tfbJ7KdBtoIjsbHjWD7IXFLsr5z_dtQyoBuhOzCQHKhhm7wB6CptdnSC_T1sHSQqwRAdMChAbZ0MDcN1WYAIC-XdnNyiuG7oh2p_ub325oAMao9s2P23d9mxm09OGPUCNkOQFj2ZgYgIaC0l_z6btgYTwk737gdkUNXZnb4LEKzDBAC1-3LgOlJYb1wND7cWG7U-3z33cuPpxY_fjprmPm7ohZSxQzePGpseN8x83db2cOwck27j66e7dQAWPG6c-btz3uGkSWM1OUNDvApqGMBOYekBciDlNk56u6wDqegFStgso_mT3TBCjqfFxYy_YfGwGAgsYJAOfLpnzctrkZ0u3gnUtg7lnFVhv2-PGhTjdBjQfxFgO8gtQtqEJmF0Q4fJi1byX7d2QcAEr7Xvc1AMJAnCpMevZzvUg_U39jxv7gckHSIJCCsQFOh1o2Q5g6AAd9GxrI8j0prlAjcBYgprWNO9x42SwsVvBbu2CmokI301gNb0g6xrXASP_ceMKkE_6Vz2bu-_lIiC751k7MCBmgT0GVL8f6BNgcni6ZBo4wtY_2Tv1cVMTWCPQxukgWxpbwM5rgTkDaNESoPanS6Y-m74UrKvlcSMwvoHeBMoC8w3YSSApILcfLAh0MNAvQHshKoEkMPiAjgEygBEADFlgpAKDYvrjJmAgAO2CBTRIEBhWHUhWAxUAnbT-6bptIKvBdkHZwHSwA5Sknq2FhCHUfGCMgK0A2rsD6LwXy4AugRsIVDMZyIWYA_YpkAFM1ntAaaWl_-lEYDiAqihwwHZCovJx40Swp1aCnNcATD1AE4CGA320HpoQgS7ZC_R4AzDrg60GexOYe0DJBJRZGhpBrGc7WkExBYpoUFoHJcqNG59tAtkIVQHPQEAJsCdBisApAJYVYOr2gVI11HXQJABWipoA4QY_3QxKhNAkAbS3HxikaOkK6lpgNoRq6W1-unPL85n7gCTY6JngxANUDIl0qEOAWacXFKBA50DlgI0kqJthoQPMNFDVwAgHJgqw70FZDKh5Elg1svgmkCDc5c-b5z-dAEwbwGQATIRzYY4HagbnRlTHg9oUYF0vJuxFT7Qga9DSLVjpy81AaaDj1z5unAB2BUQpZsqDegGWgkDpFGjeflCEAx0FKqCA6QXobaCCZQg_g_Mp0EsrwEkUFLgg94PKIKBtSO4HKqW8kQYFClr6XFzBpZnFGYlWYfmZyakONQY1CtUgOxRsLLTswAxg41AD0qLRVHjctFahRuFx8wow63FzF5BeAxZZA8R7gLgPiJeAReZBRIDyj5v7wSLdQBLJqNUg60E21CgYwKEhkGeooKtgpGAMJE2APFMgbQYmjZHkjMAqjYA8CATyYK4FmQxxEIhGcQzIeU2bwSIgh84H4lagyAaQUogyZBcCuXAXguw1BrvCRB2noyAOBtGGYDlkRwHDAOIEiMNAtk0C4smQkGzaDxJpWoehBuREkAjQmejhtx_hOlzOAYURuhwk9HQVTOORXdcADhiQoY-bp4LdAgo8UPztBtItIJtBDTlQqACVgiUgykGOnApJCs2rkFwUD7YelyPQwwsUnbrA6K_hquXi0rVTgCRKBSBLmQsA)]
 
 ## 分析
 
@@ -86,14 +78,14 @@ c4 d2 c4 A2 | F4 G2 A4 B2 | A4 G2 F4 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 水車 ]
 ================================================================================
-⏱  Duration:       1:28 (88.3s), 51 measures total
+⏱  Duration:       0:29 (29.4s), 17 measures total
 🎼 Key & Tempo:    首調基準 F, != 104.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [Suisha #1 @ m.13, 0:22]
    - 最高音: D5 in [Suisha #1 @ m.3, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Suisha (29.4s) -> Suisha (29.4s) -> Suisha (29.4s)
+🏛  結構:      Suisha (29.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -101,11 +93,9 @@ c4 d2 c4 A2 | F4 G2 A4 B2 | A4 G2 F4 z2 |
    - 核心骨幹音:  C, F, A, G, D
    - 調性數值:    F 大調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 99.0%]
    - 候選調性 (K-S): F 大調 (0.87), C 大調 (0.76), A 小調 (0.71)
-   - 五度圈歷程:   -1 -> -1 -> -1
+   - 五度圈歷程:   -1
    - 各段落調性細節:
      • [Suisha #1]: F 大調 (r: 0.87, 自然音純度: 99.0%, 調外音: B)
-     • [Suisha #2]: F 大調 (r: 0.87, 自然音純度: 99.0%, 調外音: B)
-     • [Suisha #3]: F 大調 (r: 0.87, 自然音純度: 99.0%, 調外音: B)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -132,7 +122,7 @@ c4 d2 c4 A2 | F4 G2 A4 B2 | A4 G2 F4 z2 |
      B  : █                          1.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Voice         : C4 – D5 (14 個半音 / 1.2 個八度, 192 個音符)
+  - Voice         : C4 – D5 (14 個半音 / 1.2 個八度, 64 個音符)
 ================================================================================
 ```
 
