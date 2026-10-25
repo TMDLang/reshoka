@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫
-site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910–1940 年代）《公學校唱歌》、《新定兒童唱歌》、《うたのほん》（唱歌課本）與《楊金土手抄唱歌帖》（含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉）共 17 冊 658 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 21 冊、734 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -29,6 +29,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
+    # - navigation.sections
     - navigation.top
     - search.suggest
     - search.highlight
@@ -73,32 +74,328 @@ extra_css:
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/abcjs@6.4.4/dist/abcjs-basic-min.js
   - javascripts/abc-render.js
+  - javascripts/random-song.js
 
 nav:
   - 首頁: index.md
   - 跨冊重複與同名歌曲索引: duplicate_songs.md
-  - 公學校唱歌:
-      - 第三學年用:
-          - 總覽: kogakko_shoka/grade_3/index.md
-          - 書訊與掃描頁: kogakko_shoka/grade_3/0_book_info/index.md
-          - "1 あをば（青葉）": kogakko_shoka/grade_3/1_awoba/index.md
-          - "2 だいしゃ（台車）": kogakko_shoka/grade_3/2_daisha/index.md
-          - "3 村のかぢや（村之鍛冶屋）": kogakko_shoka/grade_3/3_muranokajiya/index.md
-          - "4 牛車": kogakko_shoka/grade_3/4_gyusha/index.md
-          - "5 ながいお休（長假）": kogakko_shoka/grade_3/5_nagaioyasumi/index.md
-          - "6 せみ（蟬）": kogakko_shoka/grade_3/6_semi/index.md
-          - "7 すゐれん（睡蓮）": kogakko_shoka/grade_3/7_suiren/index.md
-          - "8 おまつり日（祭典之日）": kogakko_shoka/grade_3/8_omatsuribi/index.md
-          - "9 にじ（彩虹）": kogakko_shoka/grade_3/9_niji/index.md
-          - "10 うんどうくわい（運動會）": kogakko_shoka/grade_3/10_undokai/index.md
-          - "11 きしゃ（火車）": kogakko_shoka/grade_3/11_kisha/index.md
-          - "12 大日本": kogakko_shoka/grade_3/12_dainippon/index.md
-          - "13 おぢいさん（老爺爺）": kogakko_shoka/grade_3/13_ojiisan/index.md
-          - "14 すみやき（燒炭）": kogakko_shoka/grade_3/14_sumiyaki/index.md
-          - "15 白さぎ（白鷺鷥）": kogakko_shoka/grade_3/15_shirasagi/index.md
+  - 共益商社唱歌教科書:
+      - 專題統計: kyoeki_shoka/index.md
+      - 巻一（生徒用）:
+          - 總覽: kyoeki_shoka/kan_1_854862/index.md
+          - 書訊與掃描頁: kyoeki_shoka/kan_1_854862/0_book_info/index.md
+          - "1 櫻": kyoeki_shoka/kan_1_854862/1_sakura/index.md
+          - "2 勸學": kyoeki_shoka/kan_1_854862/2_kangaku/index.md
+          - "3 祝ひ日": kyoeki_shoka/kan_1_854862/3_iwaibi/index.md
+          - "4 學びの園": kyoeki_shoka/kan_1_854862/4_manabi_no_sono/index.md
+          - "5 朝起": kyoeki_shoka/kan_1_854862/5_asaoki/index.md
+          - "6 雲雀": kyoeki_shoka/kan_1_854862/6_hibari/index.md
+          - "7 虹": kyoeki_shoka/kan_1_854862/7_niji/index.md
+          - "8 やすみの鐘": kyoeki_shoka/kan_1_854862/8_yasumi_no_kane/index.md
+          - "9 日本三景": kyoeki_shoka/kan_1_854862/9_nihon_sankei/index.md
+          - "10 虫": kyoeki_shoka/kan_1_854862/10_mushi/index.md
+          - "11 運動會": kyoeki_shoka/kan_1_854862/11_undokai/index.md
+          - "12 日本男兒": kyoeki_shoka/kan_1_854862/12_nihon_danji/index.md
+          - "13 小犬": kyoeki_shoka/kan_1_854862/13_koinu/index.md
+          - "14 一月の遊び": kyoeki_shoka/kan_1_854862/14_ichigatsu_no_asobi/index.md
+          - "15 母のおもひ": kyoeki_shoka/kan_1_854862/15_haha_no_omoi/index.md
+          - "16 竹馬": kyoeki_shoka/kan_1_854862/16_takeuma/index.md
+          - "17 雪達磨": kyoeki_shoka/kan_1_854862/17_yukidaruma/index.md
+          - "18 航海": kyoeki_shoka/kan_1_854862/18_kokai/index.md
+          - "19 時はこがね": kyoeki_shoka/kan_1_854862/19_toki_wa_kogane/index.md
+          - "20 進軍": kyoeki_shoka/kan_1_854862/20_shingun/index.md
+      - 巻二（教師用）:
+          - 總覽: kyoeki_shoka/kan_2_854863/index.md
+          - 書訊與掃描頁: kyoeki_shoka/kan_2_854863/0_book_info/index.md
+          - "1 來れ遊べ": kyoeki_shoka/kan_2_854863/1_kitare_asobe/index.md
+          - "2 ボート": kyoeki_shoka/kan_2_854863/2_boto/index.md
+          - "3 雨": kyoeki_shoka/kan_2_854863/3_ame/index.md
+          - "4 田植": kyoeki_shoka/kan_2_854863/4_taue/index.md
+          - "5 朋友": kyoeki_shoka/kan_2_854863/5_hoyu/index.md
+          - "6 皇統": kyoeki_shoka/kan_2_854863/6_koto/index.md
+          - "7 蒙古襲來": kyoeki_shoka/kan_2_854863/7_moko_shurai/index.md
+          - "8 乳牛": kyoeki_shoka/kan_2_854863/8_nyugyu/index.md
+          - "9 海": kyoeki_shoka/kan_2_854863/9_umi/index.md
+          - "10 眞の勇士": kyoeki_shoka/kan_2_854863/10_makoto_no_yushi/index.md
+          - "11 月": kyoeki_shoka/kan_2_854863/11_tsuki/index.md
+          - "12 行軍を觀る": kyoeki_shoka/kan_2_854863/12_kogun_o_miru/index.md
+          - "13 泉": kyoeki_shoka/kan_2_854863/13_izumi/index.md
+          - "14 雪": kyoeki_shoka/kan_2_854863/14_yuki/index.md
+          - "15 懐友": kyoeki_shoka/kan_2_854863/15_kaiyu/index.md
+          - "16 須磨明石": kyoeki_shoka/kan_2_854863/16_suma_akashi/index.md
+          - "17 農夫": kyoeki_shoka/kan_2_854863/17_nofu/index.md
+          - "18 親のめぐみ": kyoeki_shoka/kan_2_854863/18_oya_no_megumi/index.md
+      - 巻三（教師用）:
+          - 總覽: kyoeki_shoka/kan_3_854864/index.md
+          - 書訊與掃描頁: kyoeki_shoka/kan_3_854864/0_book_info/index.md
+          - "1 朝風": kyoeki_shoka/kan_3_854864/1_asakaze/index.md
+          - "2 振天府": kyoeki_shoka/kan_3_854864/2_shintenfu/index.md
+          - "3 美しき天然": kyoeki_shoka/kan_3_854864/3_utsukushiki_tennen/index.md
+          - "4 水車": kyoeki_shoka/kan_3_854864/4_suisha/index.md
+          - "5 日本軍艦": kyoeki_shoka/kan_3_854864/5_nihon_gunkan/index.md
+          - "6 螢": kyoeki_shoka/kan_3_854864/6_hotaru/index.md
+          - "7 琵琶湖": kyoeki_shoka/kan_3_854864/7_biwako/index.md
+          - "8 故郷の小川": kyoeki_shoka/kan_3_854864/8_furusato_no_ogawa/index.md
+          - "9 豐年": kyoeki_shoka/kan_3_854864/9_honen/index.md
+          - "10 秋景": kyoeki_shoka/kan_3_854864/10_shukei/index.md
+          - "11 コロンブス": kyoeki_shoka/kan_3_854864/11_koronbusu/index.md
+          - "12 自然": kyoeki_shoka/kan_3_854864/12_shizen/index.md
+          - "13 日本刀": kyoeki_shoka/kan_3_854864/13_nihonto/index.md
+          - "14 和氣清麿": kyoeki_shoka/kan_3_854864/14_wake_no_kiyomaro/index.md
+          - "15 かちどき": kyoeki_shoka/kan_3_854864/15_kachidoki/index.md
+          - "16 鏡": kyoeki_shoka/kan_3_854864/16_kagami/index.md
+          - "17 松の操": kyoeki_shoka/kan_3_854864/17_matsu_no_misao/index.md
+          - "18 人形": kyoeki_shoka/kan_3_854864/18_ningyo/index.md
+          - "19 子守唄": kyoeki_shoka/kan_3_854864/19_komoriuta/index.md
+      - 巻四（教師用）:
+          - 總覽: kyoeki_shoka/kan_4_854865/index.md
+          - 書訊與掃描頁: kyoeki_shoka/kan_4_854865/0_book_info/index.md
+          - "1 花見": kyoeki_shoka/kan_4_854865/1_hanami/index.md
+          - "2 仁德天皇": kyoeki_shoka/kan_4_854865/2_nintoku_tenno/index.md
+          - "3 我陸軍": kyoeki_shoka/kan_4_854865/3_waga_rikugun/index.md
+          - "4 京都": kyoeki_shoka/kan_4_854865/4_kyoto/index.md
+          - "5 ワシントン": kyoeki_shoka/kan_4_854865/5_washinton/index.md
+          - "6 富士山": kyoeki_shoka/kan_4_854865/6_fujisan/index.md
+          - "7 田舍の夕ぐれ": kyoeki_shoka/kan_4_854865/7_inaka_no_yugure/index.md
+          - "8 朝日の旗": kyoeki_shoka/kan_4_854865/8_asahi_no_hata/index.md
+          - "9 靖國神社": kyoeki_shoka/kan_4_854865/9_yasukuni_jinja/index.md
+          - "10 日本武尊": kyoeki_shoka/kan_4_854865/10_yamato_takeru_no_mikoto/index.md
+          - "11 歳暮": kyoeki_shoka/kan_4_854865/11_seibo/index.md
+          - "12 樂しき我家": kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md
+          - "13 日本海軍": kyoeki_shoka/kan_4_854865/13_nihon_kaigun/index.md
+          - "14 御眞影": kyoeki_shoka/kan_4_854865/14_goshinei/index.md
+          - "15 名は萬代": kyoeki_shoka/kan_4_854865/15_na_wa_yorozuyo/index.md
+          - "16 花鳥": kyoeki_shoka/kan_4_854865/16_hanatori/index.md
+          - "17 赤十字": kyoeki_shoka/kan_4_854865/17_sekijuji/index.md
+          - "18 亡き友": kyoeki_shoka/kan_4_854865/18_naki_tomo/index.md
+          - "19 水鳥": kyoeki_shoka/kan_4_854865/19_mizutori/index.md
+  - 楊金土手抄唱歌帖:
+      - 考證與研究筆記: shokacho/research_notes.md
+      - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
+      - 延伸館藏與日本國會圖書館調查: archives/index.md
+      - 第 1 冊（選定唱歌筆記帳）- 1923~1927 :
+          - 總覽: shokacho/vol_01/index.md
+          - 書訊與掃描頁: shokacho/vol_01/0_book_info/index.md
+          - "君が代": shokacho/vol_01/p120_kimigayo/index.md
+          - "勅語奉答": shokacho/vol_01/p121_chokugo_hoto/index.md
+          - "勅語奉答（あな尊しや）": shokacho/vol_01/p122_chokugo_hoto_2/index.md
+          - "一月一日": shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md
+          - "紀元節": shokacho/vol_01/p124_kigensetsu/index.md
+          - "始政紀念日": shokacho/vol_01/p125_shisei_kinenbi/index.md
+          - "天長節": shokacho/vol_01/p126_tenchosetsu/index.md
+          - "朝起": shokacho/vol_01/p127_asaoki/index.md
+          - "夕立": shokacho/vol_01/p128_yudachi/index.md
+          - "うたのけいこ": shokacho/vol_01/p129_uta_no_keiko/index.md
+          - "天然の美": shokacho/vol_01/p131_tennen_no_bi/index.md
+          - "もしもしばあさん": shokacho/vol_01/p133_moshimoshi_baasan/index.md
+          - "春のみつぎ": shokacho/vol_01/p135_haru_no_mitsugi/index.md
+          - "雪の花": shokacho/vol_01/p137_yuki_no_hana/index.md
+          - "渡りやんせ": shokacho/vol_01/p139_watariyanse/index.md
+          - "圓い小山（顔あそび）": shokacho/vol_01/p142_marui_koyama/index.md
+          - "機織り（手毬唄）": shokacho/vol_01/p143_hataori/index.md
+          - "虫なく野辺": shokacho/vol_01/p144_mushi_naku_nobe/index.md
+          - "お人形さん": shokacho/vol_01/p145_oningyosan/index.md
+          - "汽車と汽船": shokacho/vol_01/p146_kisha_to_kisen/index.md
+          - "お月さん": shokacho/vol_01/p147_otsukisan/index.md
+          - "秋の風": shokacho/vol_01/p148_aki_no_kaze/index.md
+          - "みそらの鏡": shokacho/vol_01/p149_misora_no_kagami/index.md
+          - "雲雀の歌": shokacho/vol_01/p150_hibari_no_uta/index.md
+          - "停車場の鈴": shokacho/vol_01/p151_teishaba_no_suzu/index.md
+          - "十五夜お月さん": shokacho/vol_01/p152_jugoya_otsukisan/index.md
+          - "七里が濱（女子大学校歌）": shokacho/vol_01/p153_shichirigahama/index.md
+          - "旅愁": shokacho/vol_01/p154_ryoshu/index.md
+          - "月": shokacho/vol_01/p155_tsuki/index.md
+          - "胡蝶": shokacho/vol_01/p156_kocho/index.md
+          - "羽衣": shokacho/vol_01/p157_hagoromo/index.md
+          - "四季の散歩": shokacho/vol_01/p158_shiki_no_sanpo/index.md
+          - "我國兵士": shokacho/vol_01/p159_wagakuni_heishi/index.md
+          - "お客様": shokacho/vol_01/p161_okyakusama/index.md
+          - "モリノヲトメ": shokacho/vol_01/p163_mori_no_otome/index.md
+          - "アハテ床屋": shokacho/vol_01/p164_awate_tokoya/index.md
+          - "行く春": shokacho/vol_01/p165_yuku_haru/index.md
+          - "豊年祭": shokacho/vol_01/p166_honensai/index.md
+          - "勿忘草": shokacho/vol_01/p167_wasurenagusa/index.md
+          - "蟹の鋏とぎ": shokacho/vol_01/p168_kani_no_hasamitogi/index.md
+          - "兎のお耳": shokacho/vol_01/p169a_usagi_no_omimi/index.md
+          - "豊年 (輪唱歌)": shokacho/vol_01/p169b_honen/index.md
+          - "蜜蜂": shokacho/vol_01/p170_mitsubachi/index.md
+          - "舞踏": shokacho/vol_01/p171_buto/index.md
+          - "富國強兵": shokacho/vol_01/p173_fukoku_kyohei/index.md
+          - "社會奉仕": shokacho/vol_01/p175_shakai_hoshi/index.md
+          - "化くらべ （滑稽歌） (變身比賽（滑稽歌）)": shokacho/vol_01/p177_bake_kurabe/index.md
+          - "卒業式 (畢業典禮)": shokacho/vol_01/p179_sotsugyoshiki/index.md
+          - "大禮奉祝歌 (大禮奉祝歌 — 謄寫版)": shokacho/vol_01/p181_tairei_hoshukuka/index.md
+          - "明治節唱歌 (明治節唱歌 — 謄寫版)": shokacho/vol_01/p182_meijisetsu_shoka/index.md
+          - "文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)": shokacho/vol_01/p184_tairei_hoshuku_shoka/index.md
+          - "明治節唱歌 (明治節唱歌 — 印刷譜)": shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md
+          - "青年團御大禮奉祝歌 (青年團御大禮奉祝歌)": shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/index.md
+      - 第 2 冊（II）1923~1927:
+          - 總覽: shokacho/vol_02/index.md
+          - 書訊與掃描頁: shokacho/vol_02/0_book_info/index.md
+          - "オサル": shokacho/vol_02/p069_osaru/index.md
+          - "トンボ": shokacho/vol_02/p070a_tonbo/index.md
+          - "ヒヨコ": shokacho/vol_02/p070b_hiyoko/index.md
+          - "汽車": shokacho/vol_02/p071_kisha/index.md
+          - "ピアノ": shokacho/vol_02/p072_piano/index.md
+          - "オ日様": shokacho/vol_02/p073_ohisama/index.md
+          - "軍艦": shokacho/vol_02/p074_gunkan/index.md
+          - "大砲": shokacho/vol_02/p075_taiho/index.md
+          - "花園": shokacho/vol_02/p076_hanazono/index.md
+          - "お星様": shokacho/vol_02/p077_ohoshisama/index.md
+          - "ゴモン": shokacho/vol_02/p078_gomon/index.md
+          - "カタツムリ": shokacho/vol_02/p079_katatsumuri/index.md
+          - "近眼のしくじり": shokacho/vol_02/p080_kingan_no_shikujiri/index.md
+          - "嘆烟花": shokacho/vol_02/p081_tan_yenhua/index.md
+          - "暫の別": shokacho/vol_02/p082_shibashi_no_wakare/index.md
+          - "九人のくろんぼ": shokacho/vol_02/p084_kunin_no_kuronbo/index.md
+          - "うぐひす": shokacho/vol_02/p085_uguisu/index.md
+          - "白いボート": shokacho/vol_02/p086_shiroi_boto/index.md
+          - "フリージア": shokacho/vol_02/p087_furijia/index.md
+          - "同窓會（二部合唱）": shokacho/vol_02/p088_dosokai/index.md
+          - "小楠公": shokacho/vol_02/p089_sho_nanko/index.md
+          - "曉景（二部輪唱）": shokacho/vol_02/p090_gyokei/index.md
+          - "お山の大將": shokacho/vol_02/p092_oyama_no_taisho/index.md
+          - "草花": shokacho/vol_02/p093_kusabana/index.md
+          - "み國の誇り": shokacho/vol_02/p094_mikuni_no_hokori/index.md
+          - "摘草": shokacho/vol_02/p096_tsumikusa/index.md
+          - "埴生の宿": shokacho/vol_02/p097_hanyu_no_yado/index.md
+          - "君德": shokacho/vol_02/p098_kuntoku/index.md
+          - "開校記念日": shokacho/vol_02/p100_kaiko_kinenbi/index.md
+          - "樂しき我家": shokacho/vol_02/p102_tanoshiki_wagaya/index.md
+          - "美しき天然": shokacho/vol_02/p104_utsukushiki_tennen/index.md
+          - "カナリヤ": shokacho/vol_02/p106_kanariya/index.md
+          - "太陽": shokacho/vol_02/p107_taiyo/index.md
+          - "鬼が島": shokacho/vol_02/p108_onigashima/index.md
+          - "とんび": shokacho/vol_02/p109_tonbi/index.md
+      - 第 3 冊（I）1923~1927:
+          - 總覽: shokacho/vol_03/index.md
+          - 書訊與掃描頁: shokacho/vol_03/0_book_info/index.md
+          - "ボート": shokacho/vol_03/p035_boto/index.md
+          - "雨": shokacho/vol_03/p036_ame/index.md
+          - "海（其一）": shokacho/vol_03/p037_umi/index.md
+          - "海（其二）": shokacho/vol_03/p039_umi/index.md
+          - "無題・三拍子曲": shokacho/vol_03/p040_mudai/index.md
+          - "起床喇叭・點呼喇叭・消燈喇叭": shokacho/vol_03/p041_kisho_rappa/index.md
+          - "螢の光": shokacho/vol_03/p042_hotaru_no_hikari/index.md
+          - "行けども": shokacho/vol_03/p043_yukedomo/index.md
+          - "皇太子殿下奉迎の歌": shokacho/vol_03/p044_kotaishi_denka_hogei_no_uta/index.md
+          - "屋島合戰": shokacho/vol_03/p045_yashima_gassen/index.md
+          - "雨天晴天": shokacho/vol_03/p046_uten_seiten/index.md
+          - "始政紀念日": shokacho/vol_03/p047_shisei_kinembi/index.md
+          - "君が代": shokacho/vol_03/p048a_kimi_ga_yo/index.md
+          - "軍隊行進": shokacho/vol_03/p048b_guntai_koshin/index.md
+          - "皇太子殿下御成婚奉祝歌": shokacho/vol_03/p049_kotaishi_denka_goseikon_hoshukuka/index.md
+          - "金剛石・水は器": shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md
+          - "陸軍記念日行進歌": shokacho/vol_03/p053_rikugun_kinembi_koshinka/index.md
+          - "銀婚式奉祝行進歌": shokacho/vol_03/p056_ginkonshiki_hoshuku_koshinka/index.md
+          - "秩父宮殿下奉迎行進歌": shokacho/vol_03/p057_chichibunomiya_denka_hogei_koshinka/index.md
+          - "皇太子殿下御成婚奉祝提燈行列進行歌": shokacho/vol_03/p061_kotaishi_denka_chochin_gyoretsu_shinkoka/index.md
+          - "亡友": shokacho/vol_03/p062_boyu/index.md
+          - "れんげさう": shokacho/vol_03/p063_rengeso/index.md
+      - 第 7 冊（VII・蓬萊唱歌集上）1923~1927:
+          - 總覽: shokacho/vol_07/index.md
+          - 書訊與掃描頁: shokacho/vol_07/0_book_info/index.md
+          - "オフネ（小船）": shokacho/vol_07/p228_ofune/index.md
+          - "雨（雨）": shokacho/vol_07/p229a_ame/index.md
+          - "子守唄（搖籃曲）": shokacho/vol_07/p229b_komoriuta/index.md
+          - "山の飴屋（山上的糖果店）": shokacho/vol_07/p230a_yama_no_ameya/index.md
+          - "舞踏（舞蹈）": shokacho/vol_07/p230b_buto/index.md
+          - "水グルマ（水車）": shokacho/vol_07/p231_mizuguruma/index.md
+          - "オ友達（好朋友）": shokacho/vol_07/p232_otomodachi/index.md
+          - "シャボン玉（肥皂泡）": shokacho/vol_07/p233_shabondama/index.md
+          - "螢の學校（螢火蟲的學校）": shokacho/vol_07/p234_hotaru_no_gakko/index.md
+          - "三羽ノ雀（三隻麻雀）": shokacho/vol_07/p235_sanba_no_suzume/index.md
+          - "夕日（夕陽）": shokacho/vol_07/p236_yuhi/index.md
+          - "兎の電報（兔子的電報）": shokacho/vol_07/p237_usagi_no_denpo/index.md
+          - "南京玉（琉璃珠／南京玉）": shokacho/vol_07/p238_nankin_dama/index.md
+          - "虹の橋（彩虹橋）": shokacho/vol_07/p239_niji_no_hashi/index.md
+          - "ワニの子（小鱷魚）": shokacho/vol_07/p240_wani_no_ko/index.md
+          - "初鶯（初鶯）": shokacho/vol_07/p241_hatsu_uguisu/index.md
+          - "菜の花（油菜花）": shokacho/vol_07/p242_nanohana/index.md
+          - "どんぶりこ（漂呀漂）": shokacho/vol_07/p243_donburiko/index.md
+          - "牛（牛）": shokacho/vol_07/p244_ushi/index.md
+          - "つばめ（燕子）": shokacho/vol_07/p245_tsubame/index.md
+          - "牛よ牛よ（牛呀牛呀）": shokacho/vol_07/p246_ushi_yo_ushi_yo/index.md
+          - " 春風のをどり（春風之舞）": shokacho/vol_07/p247a_harukaze_no_odori/index.md
+          - " 悲歌（かちかち山の兎）": shokacho/vol_07/p247b_hika/index.md
+          - "波（波浪）": shokacho/vol_07/p249_nami/index.md
+          - "夕立小立 (陣雨)": shokacho/vol_07/p250_yudachi_kodachi/index.md
+          - "水の流 (水流)": shokacho/vol_07/p251_mizu_no_nagare/index.md
+          - "しゃぼん玉 (肥皂泡)": shokacho/vol_07/p252_shabondama/index.md
+          - "火事 (火災)": shokacho/vol_07/p253_kaji/index.md
+          - "ひとりぼっち (孤零零)": shokacho/vol_07/p254_hitoribocchi/index.md
+          - "富士の山 (富士山)": shokacho/vol_07/p255_fuji_no_yama/index.md
+          - "落葉 (落葉)": shokacho/vol_07/p256_ochiba/index.md
+          - "近眼のしくじり (近視眼的失誤)": shokacho/vol_07/p257_chikame_no_shikujiri/index.md
+      - 第 8 冊（VIII・蓬萊唱歌集下）1923~1927:
+          - 總覽: shokacho/vol_08/index.md
+          - 書訊與掃描頁: shokacho/vol_08/0_book_info/index.md
+          - "銀杏の樹（銀杏樹）": shokacho/vol_08/p005_icho_no_ki/index.md
+          - "繪本（圖畫書）": shokacho/vol_08/p006_ehon/index.md
+          - "月夜の畑（月夜的田野）": shokacho/vol_08/p007_tsukiyo_no_hatake/index.md
+          - "大日本（日本）": shokacho/vol_08/p008_dainippon/index.md
+          - "汽車の旅（火車之旅）": shokacho/vol_08/p009_kisha_no_tabi/index.md
+          - "わたしのしゃしん（我的照片）": shokacho/vol_08/p010_watashi_no_shashin/index.md
+          - "菅公（菅原道真）": shokacho/vol_08/p011_kanko/index.md
+          - "軍艦（軍艦）": shokacho/vol_08/p012_gunkan/index.md
+          - "花のあけくれ（花的晨昏）": shokacho/vol_08/p014_hana_no_akekure/index.md
+          - "霧（霧）": shokacho/vol_08/p016_kiri/index.md
+          - "怒るな働け（不要發怒，努力工作）": shokacho/vol_08/p017_ikaruna_hatarake/index.md
+          - "朝の祈り（早晨的祈禱）": shokacho/vol_08/p018_asa_no_inori/index.md
+          - "陣營の月（軍營之月）": shokacho/vol_08/p019_jinei_no_tsuki/index.md
+          - "深林逍遥（漫步深林）": shokacho/vol_08/p020_shinrin_shoyo/index.md
+          - "早く家へ帰りませう（快回家吧）": shokacho/vol_08/p021_hayaku_ie_e_kaerimasho/index.md
+          - "田舎の夕暮（鄉村的黃昏）": shokacho/vol_08/p022_inaka_no_yugure/index.md
+          - "春は行く（春將離去）": shokacho/vol_08/p023_haru_wa_yuku/index.md
+          - "夜の貝（夜之貝）": shokacho/vol_08/p024_yoru_no_kai/index.md
+          - "星と花（星與花）": shokacho/vol_08/p025_hoshi_to_hana/index.md
+          - "秋ノ湖上（秋日湖上）": shokacho/vol_08/p026_aki_no_kojo/index.md
+          - "樂シキ我家（快樂的我家）": shokacho/vol_08/p027_tanoshiki_waga_ie/index.md
+          - "少女のほこり（少女的驕傲）": shokacho/vol_08/p028_shojo_no_hokori/index.md
+      - 第 9 冊（IX・支那曲）1923~1927:
+          - 總覽: shokacho/vol_09/index.md
+          - 書訊與掃描頁: shokacho/vol_09/0_book_info/index.md
+          - "思春": shokacho/vol_09/0844_p006_sichun/index.md
+          - "柬甫寨人の戲曲": shokacho/vol_09/0844_p008_kanbojiya_no_gikyoku/index.md
+          - "小紅桃": shokacho/vol_09/0844_p010_xiaohongtao/index.md
+          - "安南行進曲": shokacho/vol_09/0844_p012_annan_koshinkyoku/index.md
+      - 第 10 冊（X）1923~1927:
+          - 總覽: shokacho/vol_10/index.md
+          - 書訊與掃描頁: shokacho/vol_10/0_book_info/index.md
+          - "ツキトガン (月與雁)": shokacho/vol_10/p192a_tsuki_to_gan/index.md
+          - "タモザハガハ (田母澤川)": shokacho/vol_10/p192b_tamozawa_gawa/index.md
+          - "キンギョ (金魚)": shokacho/vol_10/p193a_kingyo/index.md
+          - "サトウ (砂糖)": shokacho/vol_10/p193b_satou/index.md
+          - "ウ・マ (馬)": shokacho/vol_10/p194a_uma/index.md
+          - "サカ (坂)": shokacho/vol_10/p194b_saka/index.md
+          - "朧月夜 (朦朧月夜)": shokacho/vol_10/p195a_oborozukiyo/index.md
+          - "進軍 (進軍)": shokacho/vol_10/p195b_shingun/index.md
+          - "宮尊徳 (二宮尊德)": shokacho/vol_10/p196_ninomiya_sontoku/index.md
+          - "別の歌 (送別之歌)": shokacho/vol_10/p197_sobetsu_no_uta/index.md
+          - "雁 (歸雁)": shokacho/vol_10/p198_kigan/index.md
+          - "別離 (遠別離)": shokacho/vol_10/p199_enbetsuri/index.md
+          - "の歸雁 （二部） (夜之歸雁（二部合唱）)": shokacho/vol_10/p200_yoru_no_kigan/index.md
+          - "業の歌 (畢業之歌)": shokacho/vol_10/p201_sotsugyo_no_uta/index.md
+          - "高山 (新高山／玉山)": shokacho/vol_10/p202_niitakayama/index.md
+          - "ロンブス (哥倫布)": shokacho/vol_10/p203_koronbusu/index.md
+          - "の實り。 (秋之豐收)": shokacho/vol_10/p204_aki_no_minori/index.md
+          - "と磯の石 (波浪與岸邊的石頭)": shokacho/vol_10/p205_nami_to_iso_no_ishi/index.md
+          - "友 (懷友)": shokacho/vol_10/p206_kaiyu/index.md
+          - "洋の歌 (南洋之歌)": shokacho/vol_10/p207_nanyo_no_uta/index.md
+          - " (燕子)": shokacho/vol_10/p208_tsubame/index.md
+          - "球 (網球)": shokacho/vol_10/p209_teikyu/index.md
+          - "け船 (救生船)": shokacho/vol_10/p211_tasukebune/index.md
+          - "車の旅 (火車之旅)": shokacho/vol_10/p212_kisha_no_tabi/index.md
+          - " (早晨)": shokacho/vol_10/p213_asa/index.md
+          - "の小鳥 (森林的小鳥)": shokacho/vol_10/p214_mori_no_kotori/index.md
+          - "島 (松島)": shokacho/vol_10/p215_matsushima/index.md
+          - "義山 (妙義山)": shokacho/vol_10/p216_myogisan/index.md
+          - "成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
+          - "琶湖 (琵琶湖)": shokacho/vol_10/p220_biwako/index.md
+          - "狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
   - 新定兒童唱歌:
       - 專題統計: shintei_jido_shoka/index.md
-      - 尋常科 第一學年:
+      - 尋常科 第一學年 - 1930 年版:
           - 總覽: shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_1_2020.006.0847.0001/0_book_info/index.md
           - "0-01 君が代": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md
@@ -160,7 +457,7 @@ nav:
           - "4-21 オサル": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/index.md
           - "4-22 スズメ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/index.md
           - "4-23 トキ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/index.md
-      - 尋常科 第二學年:
+      - 尋常科 第二學年 - 1930 年版:
           - 總覽: shintei_jido_shoka/grade_2_2020.006.0847.0002/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_2_2020.006.0847.0002/0_book_info/index.md
           - "1-01 サクラ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/index.md
@@ -210,7 +507,7 @@ nav:
           - "4-16 おきやくさま": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/index.md
           - "4-17 にたんの四郎": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_17_nitan_no_shiro/index.md
           - "4-18 にぐるま": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma/index.md
-      - 尋常科 第三學年:
+      - 尋常科 第三學年 - 1930 年版:
           - 總覽: shintei_jido_shoka/grade_3_2020.006.0847.0003/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_3_2020.006.0847.0003/0_book_info/index.md
           - "1-01 森の樂隊": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_01_mori_no_gakutai/index.md
@@ -266,7 +563,7 @@ nav:
           - "4-23 冬季休業": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_23_toki_kyugyo/index.md
           - "4-24 始業式": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_24_shigyoshiki/index.md
           - "4-25 終業式": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_25_shugyoshiki/index.md
-      - 尋常科 第四學年:
+      - 尋常科 第四學年 - 1930 年版:
           - 總覽: shintei_jido_shoka/grade_4_2020.006.0847.0004/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_4_2020.006.0847.0004/0_book_info/index.md
           - "1-01 春の小川": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_01_haru_no_ogawa/index.md
@@ -319,7 +616,7 @@ nav:
           - "4-20 どんぶりこ": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko/index.md
           - "4-21 新築落成の歌（新築落成式）": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_21_shinchiku_rakuseishiki/index.md
           - "4-22 學校記念日": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_22_gakko_kinenbi/index.md
-      - 尋常科 第五學年:
+      - 尋常科 第五學年 - 1930 年版:
           - 總覽: shintei_jido_shoka/grade_5_2020.006.0847.0005/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_5_2020.006.0847.0005/0_book_info/index.md
           - "1-01 春の野": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md
@@ -368,7 +665,7 @@ nav:
           - "4-17 奉天會戰": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_17_hoten_kaisen/index.md
           - "4-18 初鶯": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md
           - "4-19 告別": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/index.md
-      - 尋常科 第六學年:
+      - 尋常科 第六學年 - 1930 年版:
           - 總覽: shintei_jido_shoka/grade_6_2020.006.0847.0006/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_6_2020.006.0847.0006/0_book_info/index.md
           - "1-01 朧月夜": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/index.md
@@ -416,7 +713,7 @@ nav:
           - "4-17 御稜威の光": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_17_miitsu_no_hikari/index.md
           - "4-18 富士と新高": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_18_fuji_to_niitaka/index.md
           - "4-19 別れ": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/index.md
-      - 高等科 男子一二年:
+      - 高等科 男子一二年 - 1930 年版:
           - 總覽: shintei_jido_shoka/koto_boys_2020.006.0848/index.md
           - 書訊與掃描頁: shintei_jido_shoka/koto_boys_2020.006.0848/0_book_info/index.md
           - "1-1-01 學友": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_01_gakuyu/index.md
@@ -481,7 +778,7 @@ nav:
           - "2-4-02 出陣": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_02_shutsujin/index.md
           - "2-4-03 牧笛": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_03_bokuteki/index.md
           - "2-4-04 健兒よ來れ": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_04_kenji_yo_kitare/index.md
-      - 高等科 女子一二年:
+      - 高等科 女子一二年 - 1930 年版:
           - 總覽: shintei_jido_shoka/koto_girls_2020.006.0849/index.md
           - 書訊與掃描頁: shintei_jido_shoka/koto_girls_2020.006.0849/0_book_info/index.md
           - "1-1-01 のどけき春": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_01_nodokeki_haru/index.md
@@ -546,8 +843,27 @@ nav:
           - "2-4-05 埴生の宿": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md
           - "2-4-06 高嶺": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/index.md
           - "2-4-07 浦のあけくれ": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/index.md
+  - 公學校唱歌:
+      - 第三學年用 - 1942 年版:
+          - 總覽: kogakko_shoka/grade_3/index.md
+          - 書訊與掃描頁: kogakko_shoka/grade_3/0_book_info/index.md
+          - "1 あをば（青葉）": kogakko_shoka/grade_3/1_awoba/index.md
+          - "2 だいしゃ（台車）": kogakko_shoka/grade_3/2_daisha/index.md
+          - "3 村のかぢや（村之鍛冶屋）": kogakko_shoka/grade_3/3_muranokajiya/index.md
+          - "4 牛車": kogakko_shoka/grade_3/4_gyusha/index.md
+          - "5 ながいお休（長假）": kogakko_shoka/grade_3/5_nagaioyasumi/index.md
+          - "6 せみ（蟬）": kogakko_shoka/grade_3/6_semi/index.md
+          - "7 すゐれん（睡蓮）": kogakko_shoka/grade_3/7_suiren/index.md
+          - "8 おまつり日（祭典之日）": kogakko_shoka/grade_3/8_omatsuribi/index.md
+          - "9 にじ（彩虹）": kogakko_shoka/grade_3/9_niji/index.md
+          - "10 うんどうくわい（運動會）": kogakko_shoka/grade_3/10_undokai/index.md
+          - "11 きしゃ（火車）": kogakko_shoka/grade_3/11_kisha/index.md
+          - "12 大日本": kogakko_shoka/grade_3/12_dainippon/index.md
+          - "13 おぢいさん（老爺爺）": kogakko_shoka/grade_3/13_ojiisan/index.md
+          - "14 すみやき（燒炭）": kogakko_shoka/grade_3/14_sumiyaki/index.md
+          - "15 白さぎ（白鷺鷥）": kogakko_shoka/grade_3/15_shirasagi/index.md
   - うたのほん（唱歌課本）:
-      - 下卷（初等科第二學年）:
+      - 下卷（初等科第二學年） - 1943 年版:
           - 總覽: utanohon/ge_2006.006.0878/index.md
           - 書訊與掃描頁: utanohon/ge_2006.006.0878/0_book_info/index.md
           - "1 二年生": utanohon/ge_2006.006.0878/1_ninensei/index.md
@@ -570,227 +886,5 @@ nav:
           - "18 日本": utanohon/ge_2006.006.0878/18_nippon/index.md
           - "19 おばあさん（老奶奶／阿嬤）": utanohon/ge_2006.006.0878/19_obaasan/index.md
           - "20 ひな祭（女兒節／雛祭）": utanohon/ge_2006.006.0878/20_hinamatsuri/index.md
-  - 楊金土手抄唱歌帖:
-      - 考證與研究筆記: shokacho/research_notes.md
-      - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
-      - 延伸館藏與日本國會圖書館調查: archives/index.md
-      - 第 1 冊（選定唱歌筆記帳）:
-          - 總覽: shokacho/vol_01/index.md
-          - 書訊與掃描頁: shokacho/vol_01/0_book_info/index.md
-          - "P120 君が代": shokacho/vol_01/p120_kimigayo/index.md
-          - "P121 勅語奉答": shokacho/vol_01/p121_chokugo_hoto/index.md
-          - "P122 勅語奉答（あな尊しや）": shokacho/vol_01/p122_chokugo_hoto_2/index.md
-          - "P123 一月一日": shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md
-          - "P124 紀元節": shokacho/vol_01/p124_kigensetsu/index.md
-          - "P125 始政紀念日": shokacho/vol_01/p125_shisei_kinenbi/index.md
-          - "P126 天長節": shokacho/vol_01/p126_tenchosetsu/index.md
-          - "P127 朝起": shokacho/vol_01/p127_asaoki/index.md
-          - "P128 夕立": shokacho/vol_01/p128_yudachi/index.md
-          - "P129 (6) うたのけいこ": shokacho/vol_01/p129_uta_no_keiko/index.md
-          - "P131 天然の美": shokacho/vol_01/p131_tennen_no_bi/index.md
-          - "P133 もしもしばあさん": shokacho/vol_01/p133_moshimoshi_baasan/index.md
-          - "P135 春のみつぎ": shokacho/vol_01/p135_haru_no_mitsugi/index.md
-          - "P137 雪の花": shokacho/vol_01/p137_yuki_no_hana/index.md
-          - "P139 渡りやんせ": shokacho/vol_01/p139_watariyanse/index.md
-          - "P142 圓い小山（顔あそび）": shokacho/vol_01/p142_marui_koyama/index.md
-          - "P143 機織り（手毬唄）": shokacho/vol_01/p143_hataori/index.md
-          - "P144 虫なく野辺": shokacho/vol_01/p144_mushi_naku_nobe/index.md
-          - "P145 お人形さん": shokacho/vol_01/p145_oningyosan/index.md
-          - "P146 汽車と汽船": shokacho/vol_01/p146_kisha_to_kisen/index.md
-          - "P147 お月さん": shokacho/vol_01/p147_otsukisan/index.md
-          - "P148 秋の風": shokacho/vol_01/p148_aki_no_kaze/index.md
-          - "P149 みそらの鏡": shokacho/vol_01/p149_misora_no_kagami/index.md
-          - "P150 雲雀の歌": shokacho/vol_01/p150_hibari_no_uta/index.md
-          - "P151 停車場の鈴": shokacho/vol_01/p151_teishaba_no_suzu/index.md
-          - "P152 十五夜お月さん": shokacho/vol_01/p152_jugoya_otsukisan/index.md
-          - "P153 七里が濱（女子大学校歌）": shokacho/vol_01/p153_shichirigahama/index.md
-          - "P154 旅愁": shokacho/vol_01/p154_ryoshu/index.md
-          - "P155 月": shokacho/vol_01/p155_tsuki/index.md
-          - "P156 胡蝶": shokacho/vol_01/p156_kocho/index.md
-          - "P157 羽衣": shokacho/vol_01/p157_hagoromo/index.md
-          - "P158 四季の散歩": shokacho/vol_01/p158_shiki_no_sanpo/index.md
-          - "P159 我國兵士": shokacho/vol_01/p159_wagakuni_heishi/index.md
-          - "P161 お客様": shokacho/vol_01/p161_okyakusama/index.md
-          - "P163 モリノヲトメ": shokacho/vol_01/p163_mori_no_otome/index.md
-          - "P164 アハテ床屋": shokacho/vol_01/p164_awate_tokoya/index.md
-          - "P165 行く春": shokacho/vol_01/p165_yuku_haru/index.md
-          - "P166 豊年祭": shokacho/vol_01/p166_honensai/index.md
-          - "P167 勿忘草": shokacho/vol_01/p167_wasurenagusa/index.md
-          - "P168 蟹の鋏とぎ": shokacho/vol_01/p168_kani_no_hasamitogi/index.md
-          - "P169A 兎のお耳": shokacho/vol_01/p169a_usagi_no_omimi/index.md
-          - "P169B 豊年 (輪唱歌)": shokacho/vol_01/p169b_honen/index.md
-          - "P170 蜜蜂": shokacho/vol_01/p170_mitsubachi/index.md
-          - "P171 舞踏": shokacho/vol_01/p171_buto/index.md
-          - "P173 富國強兵": shokacho/vol_01/p173_fukoku_kyohei/index.md
-          - "P175 社會奉仕": shokacho/vol_01/p175_shakai_hoshi/index.md
-          - "P177 化くらべ （滑稽歌） (變身比賽（滑稽歌）)": shokacho/vol_01/p177_bake_kurabe/index.md
-          - "P179 卒業式 (畢業典禮)": shokacho/vol_01/p179_sotsugyoshiki/index.md
-          - "P181 大禮奉祝歌 (大禮奉祝歌 — 謄寫版)": shokacho/vol_01/p181_tairei_hoshukuka/index.md
-          - "P182 明治節唱歌 (明治節唱歌 — 謄寫版)": shokacho/vol_01/p182_meijisetsu_shoka/index.md
-          - "P184 文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)": shokacho/vol_01/p184_tairei_hoshuku_shoka/index.md
-          - "P185 明治節唱歌 (明治節唱歌 — 印刷譜)": shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md
-          - "P186 青年團御大禮奉祝歌 (青年團御大禮奉祝歌)": shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/index.md
-      - 第 2 冊（II）:
-          - 總覽: shokacho/vol_02/index.md
-          - 書訊與掃描頁: shokacho/vol_02/0_book_info/index.md
-          - "P069 オサル": shokacho/vol_02/p069_osaru/index.md
-          - "P070A トンボ": shokacho/vol_02/p070a_tonbo/index.md
-          - "P070B ヒヨコ": shokacho/vol_02/p070b_hiyoko/index.md
-          - "P071 汽車": shokacho/vol_02/p071_kisha/index.md
-          - "P072 ピアノ": shokacho/vol_02/p072_piano/index.md
-          - "P073 オ日様": shokacho/vol_02/p073_ohisama/index.md
-          - "P074 軍艦": shokacho/vol_02/p074_gunkan/index.md
-          - "P075 大砲": shokacho/vol_02/p075_taiho/index.md
-          - "P076 花園": shokacho/vol_02/p076_hanazono/index.md
-          - "P077 お星様": shokacho/vol_02/p077_ohoshisama/index.md
-          - "P078 ゴモン": shokacho/vol_02/p078_gomon/index.md
-          - "P079 カタツムリ": shokacho/vol_02/p079_katatsumuri/index.md
-          - "P080 近眼のしくじり": shokacho/vol_02/p080_kingan_no_shikujiri/index.md
-          - "P081 嘆烟花": shokacho/vol_02/p081_tan_yenhua/index.md
-          - "P082 暫の別": shokacho/vol_02/p082_shibashi_no_wakare/index.md
-          - "P084 九人のくろんぼ": shokacho/vol_02/p084_kunin_no_kuronbo/index.md
-          - "P085 うぐひす": shokacho/vol_02/p085_uguisu/index.md
-          - "P086 白いボート": shokacho/vol_02/p086_shiroi_boto/index.md
-          - "P087 フリージア": shokacho/vol_02/p087_furijia/index.md
-          - "P088 同窓會（二部合唱）": shokacho/vol_02/p088_dosokai/index.md
-          - "P089 小楠公": shokacho/vol_02/p089_sho_nanko/index.md
-          - "P090 曉景（二部輪唱）": shokacho/vol_02/p090_gyokei/index.md
-          - "P092 お山の大將": shokacho/vol_02/p092_oyama_no_taisho/index.md
-          - "P093 草花": shokacho/vol_02/p093_kusabana/index.md
-          - "P094 み國の誇り": shokacho/vol_02/p094_mikuni_no_hokori/index.md
-          - "P096 摘草": shokacho/vol_02/p096_tsumikusa/index.md
-          - "P097 埴生の宿": shokacho/vol_02/p097_hanyu_no_yado/index.md
-          - "P098 君德": shokacho/vol_02/p098_kuntoku/index.md
-          - "P100 開校記念日": shokacho/vol_02/p100_kaiko_kinenbi/index.md
-          - "P102 樂しき我家": shokacho/vol_02/p102_tanoshiki_wagaya/index.md
-          - "P104 美しき天然": shokacho/vol_02/p104_utsukushiki_tennen/index.md
-          - "P106 カナリヤ": shokacho/vol_02/p106_kanariya/index.md
-          - "P107 太陽": shokacho/vol_02/p107_taiyo/index.md
-          - "P108 鬼が島": shokacho/vol_02/p108_onigashima/index.md
-          - "P109 とんび": shokacho/vol_02/p109_tonbi/index.md
-      - 第 3 冊（I）:
-          - 總覽: shokacho/vol_03/index.md
-          - 書訊與掃描頁: shokacho/vol_03/0_book_info/index.md
-          - "P035 ボート": shokacho/vol_03/p035_boto/index.md
-          - "P036 雨": shokacho/vol_03/p036_ame/index.md
-          - "P037 海（其一）": shokacho/vol_03/p037_umi/index.md
-          - "P039 海（其二）": shokacho/vol_03/p039_umi/index.md
-          - "P040 無題・三拍子曲": shokacho/vol_03/p040_mudai/index.md
-          - "P041 起床喇叭・點呼喇叭・消燈喇叭": shokacho/vol_03/p041_kisho_rappa/index.md
-          - "P042 螢の光": shokacho/vol_03/p042_hotaru_no_hikari/index.md
-          - "P043 行けども": shokacho/vol_03/p043_yukedomo/index.md
-          - "P044 皇太子殿下奉迎の歌": shokacho/vol_03/p044_kotaishi_denka_hogei_no_uta/index.md
-          - "P045 屋島合戰": shokacho/vol_03/p045_yashima_gassen/index.md
-          - "P046 雨天晴天": shokacho/vol_03/p046_uten_seiten/index.md
-          - "P047 始政紀念日": shokacho/vol_03/p047_shisei_kinembi/index.md
-          - "P048A 君が代": shokacho/vol_03/p048a_kimi_ga_yo/index.md
-          - "P048B 軍隊行進": shokacho/vol_03/p048b_guntai_koshin/index.md
-          - "P049 皇太子殿下御成婚奉祝歌": shokacho/vol_03/p049_kotaishi_denka_goseikon_hoshukuka/index.md
-          - "P051 金剛石・水は器": shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md
-          - "P053 陸軍記念日行進歌": shokacho/vol_03/p053_rikugun_kinembi_koshinka/index.md
-          - "P056 銀婚式奉祝行進歌": shokacho/vol_03/p056_ginkonshiki_hoshuku_koshinka/index.md
-          - "P057 秩父宮殿下奉迎行進歌": shokacho/vol_03/p057_chichibunomiya_denka_hogei_koshinka/index.md
-          - "P061 皇太子殿下御成婚奉祝提燈行列進行歌": shokacho/vol_03/p061_kotaishi_denka_chochin_gyoretsu_shinkoka/index.md
-          - "P062 亡友": shokacho/vol_03/p062_boyu/index.md
-          - "P063 れんげさう": shokacho/vol_03/p063_rengeso/index.md
-      - 第 7 冊（VII・蓬萊唱歌集上）:
-          - 總覽: shokacho/vol_07/index.md
-          - 書訊與掃描頁: shokacho/vol_07/0_book_info/index.md
-          - "P228 オフネ（小船）": shokacho/vol_07/p228_ofune/index.md
-          - "P229A 雨（雨）": shokacho/vol_07/p229a_ame/index.md
-          - "P229B 子守唄（搖籃曲）": shokacho/vol_07/p229b_komoriuta/index.md
-          - "P230A 山の飴屋（山上的糖果店）": shokacho/vol_07/p230a_yama_no_ameya/index.md
-          - "P230B 舞踏（舞蹈）": shokacho/vol_07/p230b_buto/index.md
-          - "P231 水グルマ（水車）": shokacho/vol_07/p231_mizuguruma/index.md
-          - "P232 オ友達（好朋友）": shokacho/vol_07/p232_otomodachi/index.md
-          - "P233 シャボン玉（肥皂泡）": shokacho/vol_07/p233_shabondama/index.md
-          - "P234 螢の學校（螢火蟲的學校）": shokacho/vol_07/p234_hotaru_no_gakko/index.md
-          - "P235 三羽ノ雀（三隻麻雀）": shokacho/vol_07/p235_sanba_no_suzume/index.md
-          - "P236 夕日（夕陽）": shokacho/vol_07/p236_yuhi/index.md
-          - "P237 兎の電報（兔子的電報）": shokacho/vol_07/p237_usagi_no_denpo/index.md
-          - "P238 南京玉（琉璃珠／南京玉）": shokacho/vol_07/p238_nankin_dama/index.md
-          - "P239 虹の橋（彩虹橋）": shokacho/vol_07/p239_niji_no_hashi/index.md
-          - "P240 ワニの子（小鱷魚）": shokacho/vol_07/p240_wani_no_ko/index.md
-          - "P241 初鶯（初鶯）": shokacho/vol_07/p241_hatsu_uguisu/index.md
-          - "P242 菜の花（油菜花）": shokacho/vol_07/p242_nanohana/index.md
-          - "P243 どんぶりこ（漂呀漂）": shokacho/vol_07/p243_donburiko/index.md
-          - "P244 牛（牛）": shokacho/vol_07/p244_ushi/index.md
-          - "P245 つばめ（燕子）": shokacho/vol_07/p245_tsubame/index.md
-          - "P246 牛よ牛よ（牛呀牛呀）": shokacho/vol_07/p246_ushi_yo_ushi_yo/index.md
-          - "P247A 春風のをどり（春風之舞）": shokacho/vol_07/p247a_harukaze_no_odori/index.md
-          - "P247B 悲歌（かちかち山の兎）": shokacho/vol_07/p247b_hika/index.md
-          - "P249 波（波浪）": shokacho/vol_07/p249_nami/index.md
-          - "P250 夕立小立 (陣雨)": shokacho/vol_07/p250_yudachi_kodachi/index.md
-          - "P251 水の流 (水流)": shokacho/vol_07/p251_mizu_no_nagare/index.md
-          - "P252 しゃぼん玉 (肥皂泡)": shokacho/vol_07/p252_shabondama/index.md
-          - "P253 火事 (火災)": shokacho/vol_07/p253_kaji/index.md
-          - "P254 ひとりぼっち (孤零零)": shokacho/vol_07/p254_hitoribocchi/index.md
-          - "P255 富士の山 (富士山)": shokacho/vol_07/p255_fuji_no_yama/index.md
-          - "P256 落葉 (落葉)": shokacho/vol_07/p256_ochiba/index.md
-          - "P257 近眼のしくじり (近視眼的失誤)": shokacho/vol_07/p257_chikame_no_shikujiri/index.md
-      - 第 8 冊（VIII・蓬萊唱歌集下）:
-          - 總覽: shokacho/vol_08/index.md
-          - 書訊與掃描頁: shokacho/vol_08/0_book_info/index.md
-          - "P005 銀杏の樹（銀杏樹）": shokacho/vol_08/p005_icho_no_ki/index.md
-          - "P006 繪本（圖畫書）": shokacho/vol_08/p006_ehon/index.md
-          - "P007 月夜の畑（月夜的田野）": shokacho/vol_08/p007_tsukiyo_no_hatake/index.md
-          - "P008 大日本（日本）": shokacho/vol_08/p008_dainippon/index.md
-          - "P009 汽車の旅（火車之旅）": shokacho/vol_08/p009_kisha_no_tabi/index.md
-          - "P010 わたしのしゃしん（我的照片）": shokacho/vol_08/p010_watashi_no_shashin/index.md
-          - "P011 菅公（菅原道真）": shokacho/vol_08/p011_kanko/index.md
-          - "P012 軍艦（軍艦）": shokacho/vol_08/p012_gunkan/index.md
-          - "P014 花のあけくれ（花的晨昏）": shokacho/vol_08/p014_hana_no_akekure/index.md
-          - "P016 霧（霧）": shokacho/vol_08/p016_kiri/index.md
-          - "P017 怒るな働け（不要發怒，努力工作）": shokacho/vol_08/p017_ikaruna_hatarake/index.md
-          - "P018 朝の祈り（早晨的祈禱）": shokacho/vol_08/p018_asa_no_inori/index.md
-          - "P019 陣營の月（軍營之月）": shokacho/vol_08/p019_jinei_no_tsuki/index.md
-          - "P020 深林逍遥（漫步深林）": shokacho/vol_08/p020_shinrin_shoyo/index.md
-          - "P021 早く家へ帰りませう（快回家吧）": shokacho/vol_08/p021_hayaku_ie_e_kaerimasho/index.md
-          - "P022 田舎の夕暮（鄉村的黃昏）": shokacho/vol_08/p022_inaka_no_yugure/index.md
-          - "P023 春は行く（春將離去）": shokacho/vol_08/p023_haru_wa_yuku/index.md
-          - "P024 夜の貝（夜之貝）": shokacho/vol_08/p024_yoru_no_kai/index.md
-          - "P025 星と花（星與花）": shokacho/vol_08/p025_hoshi_to_hana/index.md
-          - "P026 秋ノ湖上（秋日湖上）": shokacho/vol_08/p026_aki_no_kojo/index.md
-          - "P027 樂シキ我家（快樂的我家）": shokacho/vol_08/p027_tanoshiki_waga_ie/index.md
-          - "P028 少女のほこり（少女的驕傲）": shokacho/vol_08/p028_shojo_no_hokori/index.md
-      - 第 9 冊（IX・支那曲）:
-          - 總覽: shokacho/vol_09/index.md
-          - 書訊與掃描頁: shokacho/vol_09/0_book_info/index.md
-          - "P006 思春": shokacho/vol_09/0844_p006_sichun/index.md
-          - "P008 柬甫寨人の戲曲": shokacho/vol_09/0844_p008_kanbojiya_no_gikyoku/index.md
-          - "P010 小紅桃": shokacho/vol_09/0844_p010_xiaohongtao/index.md
-          - "P012 安南行進曲": shokacho/vol_09/0844_p012_annan_koshinkyoku/index.md
-      - 第 10 冊（X）:
-          - 總覽: shokacho/vol_10/index.md
-          - 書訊與掃描頁: shokacho/vol_10/0_book_info/index.md
-          - "P192A ツキトガン (月與雁)": shokacho/vol_10/p192a_tsuki_to_gan/index.md
-          - "P192B タモザハガハ (田母澤川)": shokacho/vol_10/p192b_tamozawa_gawa/index.md
-          - "P193A キンギョ (金魚)": shokacho/vol_10/p193a_kingyo/index.md
-          - "P193B サトウ (砂糖)": shokacho/vol_10/p193b_satou/index.md
-          - "P194A ウ・マ (馬)": shokacho/vol_10/p194a_uma/index.md
-          - "P194B サカ (坂)": shokacho/vol_10/p194b_saka/index.md
-          - "P195A 朧月夜 (朦朧月夜)": shokacho/vol_10/p195a_oborozukiyo/index.md
-          - "P195B 進軍 (進軍)": shokacho/vol_10/p195b_shingun/index.md
-          - "P196 二宮尊徳 (二宮尊德)": shokacho/vol_10/p196_ninomiya_sontoku/index.md
-          - "P197 送別の歌 (送別之歌)": shokacho/vol_10/p197_sobetsu_no_uta/index.md
-          - "P198 歸雁 (歸雁)": shokacho/vol_10/p198_kigan/index.md
-          - "P199 遠別離 (遠別離)": shokacho/vol_10/p199_enbetsuri/index.md
-          - "P200 夜の歸雁 （二部） (夜之歸雁（二部合唱）)": shokacho/vol_10/p200_yoru_no_kigan/index.md
-          - "P201 卒業の歌 (畢業之歌)": shokacho/vol_10/p201_sotsugyo_no_uta/index.md
-          - "P202 新高山 (新高山／玉山)": shokacho/vol_10/p202_niitakayama/index.md
-          - "P203 コロンブス (哥倫布)": shokacho/vol_10/p203_koronbusu/index.md
-          - "P204 秋の實り。 (秋之豐收)": shokacho/vol_10/p204_aki_no_minori/index.md
-          - "P205 波と磯の石 (波浪與岸邊的石頭)": shokacho/vol_10/p205_nami_to_iso_no_ishi/index.md
-          - "P206 懐友 (懷友)": shokacho/vol_10/p206_kaiyu/index.md
-          - "P207 南洋の歌 (南洋之歌)": shokacho/vol_10/p207_nanyo_no_uta/index.md
-          - "P208 燕 (燕子)": shokacho/vol_10/p208_tsubame/index.md
-          - "P209 庭球 (網球)": shokacho/vol_10/p209_teikyu/index.md
-          - "P211 助け船 (救生船)": shokacho/vol_10/p211_tasukebune/index.md
-          - "P212 汽車の旅 (火車之旅)": shokacho/vol_10/p212_kisha_no_tabi/index.md
-          - "P213 朝 (早晨)": shokacho/vol_10/p213_asa/index.md
-          - "P214 森の小鳥 (森林的小鳥)": shokacho/vol_10/p214_mori_no_kotori/index.md
-          - "P215 松島 (松島)": shokacho/vol_10/p215_matsushima/index.md
-          - "P216 妙義山 (妙義山)": shokacho/vol_10/p216_myogisan/index.md
-          - "P217 鄭成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
-          - "P220 琵琶湖 (琵琶湖)": shokacho/vol_10/p220_biwako/index.md
-          - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
+  - 再創作:
+      - "《公學校唱歌》第三學年室內樂組曲": recreations/kogakko_shoka_grade3_suite/index.md

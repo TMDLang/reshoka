@@ -1,0 +1,18 @@
+X:1
+T:虫
+M:4/8
+L:1/16
+Q:1/8=168
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+[Q:1/8=168] !f! G3 B d2 d2 | e2 d c B4 | G3 A B3 c | B4 A2 z2 |
+G3 B d2 d2 | e2 d c B4 | G3 A B3 c | B3 A G2 z2 |
+D2 E D G3 A | B2 B A B3 c | d3 d e d c B | A6 z2 |
+D2 E D G3 A | B3 c d4 | B2 c B A3 A | G6 z2 |
+!p! [Q:1/8=66] d d d d d d d2 | g4 g4 | g6 z2 | [Q:1/8=168] !f! G3 B d2 d2 |
+e2 d c B4 | G3 A B3 c | B4 A2 z2 | G3 B d2 d2 |
+e2 d c B4 | G3 A B3 c | B3 A G2 z2 | D2 E D G3 A |
+B2 B A B3 c | d3 d e d c B | A6 z2 | D2 E D G3 A |
+B3 c d4 | B2 c B A3 A | G6 z2 | !p! [Q:1/8=66] d d d d d d d2 |
+g4 g4 | g6 z2 |

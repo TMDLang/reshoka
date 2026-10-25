@@ -7,6 +7,73 @@
   overflow-x: auto;
 }
 
+.lucky-song {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.9rem;
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--md-primary-fg-color--light, rgba(63, 81, 181, 0.25));
+  border-radius: 0.75rem;
+  background: var(--md-primary-fg-color--lightest, rgba(63, 81, 181, 0.06));
+}
+
+.lucky-song > div {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.lucky-song strong {
+  font-size: 1.05rem;
+}
+
+.lucky-song span {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.lucky-song button {
+  border: 0;
+  border-radius: 999px;
+  padding: 0.55rem 0.9rem;
+  color: var(--md-primary-bg-color);
+  background: var(--md-primary-fg-color);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 600;
+}
+
+.lucky-song button:hover {
+  opacity: 0.86;
+}
+
+.lucky-song p {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+@media screen and (max-width: 600px) {
+  .lucky-song {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+  }
+
+  .lucky-song button {
+    grid-column: 1;
+    width: 100%;
+  }
+
+  .lucky-song p {
+    grid-column: 1;
+  }
+}
+
 [data-md-color-scheme="slate"] .abc-score-container svg {
   color: var(--md-default-fg-color);
   fill: currentColor;

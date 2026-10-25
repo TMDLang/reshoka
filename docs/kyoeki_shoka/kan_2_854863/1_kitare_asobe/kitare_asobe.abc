@@ -1,0 +1,16 @@
+X:1
+T:來れ遊べ
+M:4/4
+L:1/16
+Q:1/4=120
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! D3 D D3 E F3 F F4 | D3 E F3 G A3 B A4 | d3 d c3 B A3 B A4 | B3 B A3 A D8 |
+d6 d2 c4 B4 | A4 B4 A8 | B6 B2 A2 G2 F2 E2 | D4 E4 F8 |
+d6 d2 c4 B4 | A4 B4 A8 | B6 B2 A2 G2 F2 E2 | D4 F4 E8 |
+!f! D3 F E3 E F3 G A4 | B3 B A3 A B6 A2 | d12 z4 | !mf! D3 D D3 E F3 F F4 |
+D3 E F3 G A3 B A4 | d3 d c3 B A3 B A4 | B3 B A3 A D8 | d6 d2 c4 B4 |
+A4 B4 A8 | B6 B2 A2 G2 F2 E2 | D4 E4 F8 | d6 d2 c4 B4 |
+A4 B4 A8 | B6 B2 A2 G2 F2 E2 | D4 F4 E8 | !f! D3 F E3 E F3 G A4 |
+B3 B A3 A B6 A2 | d12 z4 |

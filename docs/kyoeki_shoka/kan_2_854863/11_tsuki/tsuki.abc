@@ -1,0 +1,18 @@
+X:1
+T:月
+M:2/4
+L:1/16
+Q:1/4=44
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+[Q:1/4=44] !mp! E2 A2 B2 c2 | B2 B2 A4 | E2 A2 B2 c2 | B6 z2 |
+!mf! e2 e2 c2 e2 | B2 B2 A4 | B2 B2 B2 B2 | E6 z2 |
+!mp! D4 E2 E2 | D2 E2 F2 A2 | B2 B2 B2 B2 | B6 z2 |
+!mp! e4 e2 e2 | A2 B2 c2 c2 | E2 A2 B2 c2 | A6 z2 |
+[Q:1/4=58] A2 B2 c2 c2 | B2 A2 F2 E2 | A2 F2 E2 D2 | E6 z2 |
+[Q:1/4=44] !mp! E2 A2 B2 c2 | B2 B2 A4 | E2 A2 B2 c2 | B6 z2 |
+!mf! e2 e2 c2 e2 | B2 B2 A4 | B2 B2 B2 B2 | E6 z2 |
+!mp! D4 E2 E2 | D2 E2 F2 A2 | B2 B2 B2 B2 | B6 z2 |
+!mp! e4 e2 e2 | A2 B2 c2 c2 | E2 A2 B2 c2 | A6 z2 |
+[Q:1/4=58] A2 B2 c2 c2 | B2 A2 F2 E2 | A2 F2 E2 D2 | E6 z2 |

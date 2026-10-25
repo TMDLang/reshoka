@@ -1,0 +1,20 @@
+X:1
+T:朋友
+M:4/4
+L:1/16
+Q:1/4=138
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! G4 A3 G E4 G4 | c4 d3 e d4 c4 | A3 A c3 A G3 E D3 C | D12 z4 |
+G4 A3 G E4 G4 | c4 d3 e d4 A4 | G3 G A3 A c3 c d3 e | c12 z4 |
+[M:3/4] d3 d d3 e d3 c | [M:4/4] A4 c3 A G4 E4 | D2 D2 D2 C2 D2 C2 D2 E2 | G12 z4 |
+[M:3/4] A3 A G4 A2 G2 | [M:4/4] c4 d3 e d4 A4 | G3 G A3 A c3 c d3 e | c12 z4 |
+!mf! G4 A3 G E4 G4 | c4 d3 e d4 c4 | A3 A c3 A G3 E D3 C | D12 z4 |
+G4 A3 G E4 G4 | c4 d3 e d4 A4 | G3 G A3 A c3 c d3 e | c12 z4 |
+[M:3/4] d3 d d3 e d3 c | [M:4/4] A4 c3 A G4 E4 | D2 D2 D2 C2 D2 C2 D2 E2 | G12 z4 |
+[M:3/4] A3 A G4 A2 G2 | [M:4/4] c4 d3 e d4 A4 | G3 G A3 A c3 c d3 e | c12 z4 |
+!mf! G4 A3 G E4 G4 | c4 d3 e d4 c4 | A3 A c3 A G3 E D3 C | D12 z4 |
+G4 A3 G E4 G4 | c4 d3 e d4 A4 | G3 G A3 A c3 c d3 e | c12 z4 |
+[M:3/4] d3 d d3 e d3 c | [M:4/4] A4 c3 A G4 E4 | D2 D2 D2 C2 D2 C2 D2 E2 | G12 z4 |
+[M:3/4] A3 A G4 A2 G2 | [M:4/4] c4 d3 e d4 A4 | G3 G A3 A c3 c d3 e | c12 z4 |

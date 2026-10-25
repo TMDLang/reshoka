@@ -1,0 +1,16 @@
+X:1
+T:母のおもひ
+M:4/4
+L:1/16
+Q:1/4=88
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! G6 G2 c4 B4 | A6 G2 G8 | E6 E2 D4 C4 | G,12 z4 |
+G6 G2 c4 B4 | A6 G2 G8 | E6 E2 D4 E4 | C12 z4 |
+!mf! E4 E4 E4 D4 | C4 E4 G8 | A6 A2 G4 E2 G2 | c12 z4 |
+c8 B4 A4 | G6 G2 E4 E4 | G6 E2 D4 E4 | C12 z4 |
+!mp! G6 G2 c4 B4 | A6 G2 G8 | E6 E2 D4 C4 | G,12 z4 |
+G6 G2 c4 B4 | A6 G2 G8 | E6 E2 D4 E4 | C12 z4 |
+!mf! E4 E4 E4 D4 | C4 E4 G8 | A6 A2 G4 E2 G2 | c12 z4 |
+c8 B4 A4 | G6 G2 E4 E4 | G6 E2 D4 E4 | C12 z4 |

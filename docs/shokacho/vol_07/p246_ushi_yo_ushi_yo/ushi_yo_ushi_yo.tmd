@@ -13,12 +13,12 @@
 ?= E,
 <4/4>
 ~ "唱歌帖 P246 (60頁)"
-~ "曲：陳英声"
+~ "曲：陳英聲"
 
 /* =========================================================================
    牛よ牛よ（牛呀牛呀／牛啊牛啊）
    Source: 唱歌帖 (2020.006.0843), P246.jpg
-   Marginal notes: 陳英声曲 / 60頁 / 同情の態度で
+   Marginal notes: 陳英聲曲 / 60頁 / 同情の態度で
    Key: 変ホ調 (Eb major), Time: 4/4, Tempo: 同情の態度で
    Lyrics:
    1. ギーコロ ギーコロ アサハヤク カラ
@@ -52,4 +52,4 @@ UshiYoUshiYo:Vocal@|0| {
     /* @lyrics_3= "ス ー イ タ ロ" */
 }
 
--> UshiYoUshiYo -> #
+-> UshiYoUshiYo -> UshiYoUshiYo -> UshiYoUshiYo -> #

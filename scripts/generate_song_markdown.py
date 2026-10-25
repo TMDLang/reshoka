@@ -36,10 +36,16 @@ DOCS_ROOT = REPO_ROOT / "docs"
 DUPLICATE_INDEX_JSON = DOCS_ROOT / "duplicate_songs.json"
 DUPLICATE_INDEX_MD = DOCS_ROOT / "duplicate_songs.md"
 
+
+class AmbiguousMainTmdError(RuntimeError):
+    """A song folder has multiple possible main TMD files and should be skipped."""
+
+
 COLLECTION_TITLES: dict[str, str] = {
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
     "utanohon": "《うたのほん》（唱歌課本）",
+    "kyoeki_shoka": "《共益商社唱歌教科書》",
     "shokacho": "《楊金土手抄唱歌帖》",
 }
 
@@ -54,6 +60,10 @@ VOLUME_TITLES: dict[str, str] = {
     "koto_boys_2020.006.0848": "高等科 男子一二年用（2020.006.0848）",
     "koto_girls_2020.006.0849": "高等科 女子一二年用（2020.006.0849）",
     "ge_2006.006.0878": "下卷・國民學校初等科第二學年用（2006.006.0878）",
+    "kan_1_854862": "巻一・生徒用（NDL PID 854862）",
+    "kan_2_854863": "巻二・教師用（NDL PID 854863）",
+    "kan_3_854864": "巻三・教師用（NDL PID 854864）",
+    "kan_4_854865": "巻四・教師用（NDL PID 854865）",
     "vol_01": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
     "vol_02": "原編第 2 冊・II（2020.006.0843，P065–P112）",
     "vol_03": "原編第 3 冊・I（2020.006.0843，P031–P064）",
@@ -74,6 +84,10 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "koto_boys_2020.006.0848": "高等科 男子一二年",
     "koto_girls_2020.006.0849": "高等科 女子一二年",
     "ge_2006.006.0878": "下卷（初等科第二學年）",
+    "kan_1_854862": "巻一（生徒用）",
+    "kan_2_854863": "巻二（教師用）",
+    "kan_3_854864": "巻三（教師用）",
+    "kan_4_854865": "巻四（教師用）",
     "vol_01": "第 1 冊（選定唱歌筆記帳）",
     "vol_02": "第 2 冊（II）",
     "vol_03": "第 3 冊（I）",
@@ -82,6 +96,19 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "vol_09": "第 9 冊（IX・支那曲）",
     "vol_10": "第 10 冊（X）",
 }
+
+KYOEKI_PID_BY_VOL: dict[str, str] = {
+    "kan_1_854862": "854862",
+    "kan_2_854863": "854863",
+    "kan_3_854864": "854864",
+    "kan_4_854865": "854865",
+}
+
+KYOEKI_COLLECTION_NOTE = (
+    "東京共益商社樂器店編纂發行之明治後期唱歌教科書（全四卷；巻一為生徒用，巻二～四為附「演奏注意」與語釋之教師用書），"
+    "掃描影像取自日本國立國會圖書館 NDL Digital Collections 網際網路公開（保護期間満了）資料。"
+    "楊金土《唱歌帖》第 3 冊即據巻二抄錄〈ボート〉、〈雨〉、〈海〉三曲（見[原編第 3 冊總覽](../../shokacho/vol_03/index.md)）。"
+)
 
 SHOKACHO_VOL_NOTES: dict[str, str] = {
     "vol_01": "封面頂端標註 **`1`**（`/`），扉頁（`P115.jpg`）附楊金土親筆第 1～6 冊總目錄；臺北市北門町「臺灣子供世界社」吉川精馬發行《選定 唱歌筆記帳／唱歌筆記帖》。前半為五線譜＋簡譜雙行對照儀式歌，中段貼《子供の國》童謠剪報，後半手抄自一條慎三郎《小公學校唱歌教材集》（1915）與《音楽新潮》，卷末附昭和 3 年（1928）大禮奉祝唱歌伴奏譜。",
@@ -121,6 +148,42 @@ BOOK_INFO_IMAGE_DESCRIPTIONS: dict[str, dict[str, str]] = {
         "P059.jpg": "卷末附錄五線譜練習頁（第 5 頁，印有四行空白五線譜）。",
         "P060.jpg": "封底裏版權頁：標明「昭和十八年三月二十八日翻刻發行 昭和十八年四月一日發行」、「著作兼發行者 臺灣總督府」、「翻刻發行兼印刷者 臺北市建成町四丁目一番地 臺灣書籍株式會社 代表者 小塚兼吉」、「定價金拾貳錢」，左頁蓋有經銷商「善化 曾文堂」紅印與學童鉛筆塗鴉。",
         "P061.jpg": "封底外頁，右下角可見原書定價與編號小字。",
+    },
+    "kan_1_854862": {
+        "P001.jpg": "本冊封面（左頁），題「共益商社編 唱歌教科書 卷一 生徒用 共益商社樂器店出版」，右上貼有舊藏圖書分類籤。",
+        "P002.jpg": "目次頁（左頁）：列出第一學期（一櫻～七虹）、第二學期（一休みの鐘～七一月の遊び）、第三學期（一母のおもひ～六進軍）共 20 首曲名與頁碼。",
+        "P023.jpg": "版權頁（右頁）：標明「明治三十五年四月十五日印刷、明治三十五年四月二十日發行、明治三十五年十一月一日訂正印刷、明治三十五年十一月五日訂正再版」、「編者 東京市京橋區竹川町十三番地 共益商社樂器店」、「代表兼發行者 白井銈造」、「印刷者 野村宗十郎」、「印刷所 株式會社東京築地活版製造所」、「定價金拾五錢」。",
+        "P024.jpg": "封底裏留白與封底外頁。",
+        "P025.jpg": "日本國立國會圖書館（NDL）書標與微縮數位化資訊卡（書號 特48-941）。",
+    },
+    "kan_2_854863": {
+        "P001.jpg": "本冊封面（左頁），題「共益商社編 唱歌教科書 卷二 教師用 共益商社樂器店出版」。",
+        "P002.jpg": "「緒言」（第 1 頁）與「本書の特色及び使用上の注意」（第 2 頁，說明五線譜與數字簡譜並列、選曲、拍子與發音指導原則）。",
+        "P003.jpg": "「本書の特色及び使用上の注意」續頁（第 3–4 頁，說明調子、音程及明治三十五年四月編者識語）。",
+        "P004.jpg": "「發音圖解」（第 5 頁，圖示ア、イ、ウ、エ、オ五母音口形與「頭聲」「胸聲」發聲解說）與「速度」（第 6 頁，說明 Maelzel 拍節機度數與垂錘繩長簡易代用法）。",
+        "P005.jpg": "「速度」續頁與「唱歌教科書卷二（教師用）目次」（列出第一～三學期共 18 首曲名與頁碼）。",
+        "P006.jpg": "「演奏上一般の注意」（第 1 頁，說明教師範唱、發聲呼吸、姿勢、伴奏樂器與節奏指導原則）。",
+        "P026.jpg": "版權頁（右頁）：標明「明治三十五年五月一日印刷、明治三十五年五月五日發行、明治三十五年十一月一日訂正印刷、明治三十五年十一月五日訂正再版」、「編者 共益商社樂器店」、「代表兼發行者 白井銈造」、「印刷者 野村宗十郎」、「定價金參拾錢」。",
+        "P027.jpg": "封底裏留白與封底外頁。",
+        "P028.jpg": "日本國立國會圖書館（NDL）書標與微縮數位化資訊卡（書號 特48-941）。",
+    },
+    "kan_3_854864": {
+        "P001.jpg": "本冊封面（左頁），題「共益商社編 唱歌教科書 卷三 教師用 共益商社樂器店出版」，中上方蓋有「文部省檢定濟 明治36年2月25日」印記。",
+        "P002.jpg": "「緒言」（第 1 頁）與「本書の特色及び使用上の注意」（第 2 頁）。",
+        "P003.jpg": "「本書の特色及び使用上の注意」續頁（第 3–4 頁）。",
+        "P004.jpg": "「發音圖解」（第 5 頁）與「速度」（第 6 頁）。",
+        "P005.jpg": "「速度」續頁與「唱歌教科書卷三（教師用）目次」（列出第一～三學期及「女生徒專用」共 19 首曲名與頁碼）。",
+        "P006.jpg": "「演奏上一般の注意」（第 1 頁）。",
+        "P028.jpg": "版權頁（右頁）：標明「明治三十五年五月一日印刷、明治三十五年五月五日發行、明治四十年六月二十五日訂正五版發行」、「編者 共益商社樂器店」、「代表兼發行者 白井直」、「發行所 合資會社共益商社樂器店」、「定價金參拾錢」。",
+    },
+    "kan_4_854865": {
+        "P001.jpg": "本冊封面（左頁），題「共益商社編 唱歌教科書 卷四 教師用 共益商社樂器店出版」。",
+        "P002.jpg": "「緒言」（第 1 頁）與「本書の特色及び使用上の注意」（第 2 頁）。",
+        "P003.jpg": "「本書の特色及び使用上の注意」續頁（第 3–4 頁）。",
+        "P004.jpg": "「發音圖解」（第 5 頁）與「速度」（第 6 頁）。",
+        "P005.jpg": "「速度」續頁與「唱歌教科書卷四（教師用）目次」（列出第一～三學期及「女生徒專用」共 19 首曲名與頁碼）。",
+        "P006.jpg": "「演奏上一般の注意」（第 1 頁）。",
+        "P032.jpg": "版權頁（右頁）：標明「明治三十五年五月一日印刷、明治三十五年五月五日發行、明治三十五年十一月一日訂正印刷、明治三十五年十一月五日訂正再版」、「編者 共益商社樂器店」、「代表兼發行者 白井銈造」、「印刷者 野村宗十郎」、「定價金參拾錢」。",
     },
 }
 
@@ -174,7 +237,7 @@ def choose_main_tmd(folder: Path) -> Path:
     if len(matching) == 1:
         return matching[0]
     names = ", ".join(path.name for path in candidates)
-    raise RuntimeError(f"找到多個可能的主 TMD，無法判斷：{names}")
+    raise AmbiguousMainTmdError(f"找到多個可能的主 TMD，跳過：{names}")
 
 
 def choose_piano_tmd(folder: Path, main_tmd: Path) -> Path | None:
@@ -186,11 +249,19 @@ def choose_piano_tmd(folder: Path, main_tmd: Path) -> Path | None:
 
 
 def find_scanned_images(folder: Path) -> list[Path]:
-    images = [
-        p
-        for p in folder.iterdir()
-        if p.is_file() and p.suffix.lower() in {".jpg", ".jpeg", ".png"}
-    ]
+    images = []
+    for p in folder.iterdir():
+        if not p.is_file() or p.suffix.lower() not in {".jpg", ".jpeg", ".png"}:
+            continue
+        try:
+            header = p.read_bytes()[:8]
+        except OSError:
+            continue
+        if p.suffix.lower() in {".jpg", ".jpeg"} and not header.startswith(b"\xff\xd8"):
+            continue
+        if p.suffix.lower() == ".png" and not header.startswith(b"\x89PNG"):
+            continue
+        images.append(p)
     return sorted(images, key=lambda p: (natural_sort_key(p.stem), p.suffix.lower()))
 
 
@@ -458,33 +529,43 @@ def generate_song_folder(
 
     analysis = render_analysis(main_tmd, folder)
 
-    audio_html = "*找不到鋼琴伴奏版 TMD，未產生音訊。*"
-    if piano_tmd:
-        if not no_audio and (force or not is_up_to_date(mp3_path, piano_tmd)):
-            render_command = ["tmd", str(piano_tmd), "-w", str(wav_path)]
-            if soundfont:
-                render_command.extend(["--soundfont", str(soundfont.resolve())])
-            run(render_command, cwd=folder)
-            run(
-                [
-                    "ffmpeg",
-                    "-y",
-                    "-i",
-                    str(wav_path),
-                    "-codec:a",
-                    "libmp3lame",
-                    "-q:a",
-                    "2",
-                    str(mp3_path),
-                ],
-                cwd=folder,
-            )
-            if not keep_wav:
-                wav_path.unlink(missing_ok=True)
-        if mp3_path.exists():
-            audio_html = f'<audio controls src="{html.escape(mp3_path.name)}"></audio>'
-        else:
-            audio_html = "*已略過音訊渲染（尚未產生 MP3）。*"
+    audio_html = "*尚未產生音訊。*"
+    # Prefer piano accompaniment.  If it is unavailable, keep an existing
+    # original MP3; otherwise render the main melody TMD as a fallback.
+    render_tmd = piano_tmd or main_tmd
+    should_render_fallback = piano_tmd is not None or not mp3_path.exists()
+    if not no_audio and should_render_fallback and (
+        force or not is_up_to_date(mp3_path, render_tmd)
+    ):
+        render_command = ["tmd", str(render_tmd), "-w", str(wav_path)]
+        if soundfont:
+            render_command.extend(["--soundfont", str(soundfont.resolve())])
+        run(render_command, cwd=folder)
+        run(
+            [
+                "ffmpeg",
+                "-y",
+                "-i",
+                str(wav_path),
+                "-codec:a",
+                "libmp3lame",
+                "-q:a",
+                "2",
+                str(mp3_path),
+            ],
+            cwd=folder,
+        )
+        if not keep_wav:
+            wav_path.unlink(missing_ok=True)
+    # Prefer the generated piano accompaniment, but keep using a pre-existing
+    # same-stem MP3 when no accompaniment TMD is available (or rendering was
+    # skipped/failed).  The latter is the original audio supplied with the song.
+    audio_path = mp3_path if mp3_path.exists() else None
+    audio_is_piano = piano_tmd is not None and audio_path is not None
+    if audio_path:
+        audio_html = f'<audio controls src="{html.escape(audio_path.name)}"></audio>'
+    elif piano_tmd:
+        audio_html = "*已略過音訊渲染（尚未產生 MP3）。*"
 
     meta_items = list(credits) + [s for s in sources if s not in credits]
     credits_block = (
@@ -541,16 +622,25 @@ def generate_song_folder(
         if clean_lyric_lines:
             lyrics_preview = " ".join(clean_lyric_lines[:2])[:60]
 
-    desc_parts = [f"〈{title}〉收錄於日治時期臺灣{col_title}（{vol_title}）"]
+    if col_name == "kyoeki_shoka":
+        desc_parts = [f"〈{title}〉收錄於明治時期東京共益商社樂器店{col_title}（{vol_title}）"]
+    else:
+        desc_parts = [f"〈{title}〉收錄於日治時期臺灣{col_title}（{vol_title}）"]
     if credit_summary:
         desc_parts.append(f"（{credit_summary}）")
     if key_meter_summary:
         desc_parts.append(f"，調號拍號：{key_meter_summary}")
-    desc_str = "".join(desc_parts) + "。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+    if audio_path:
+        audio_description = "雙手鋼琴伴奏 MP3" if audio_is_piano else "原始 MP3"
+        desc_str = "".join(desc_parts) + f"。提供{audio_description} 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+    else:
+        desc_str = "".join(desc_parts) + "。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
     if lyrics_preview:
         desc_str += f"歌詞：{lyrics_preview}…"
 
     kw_list = [title, col_title.strip("《》"), vol_nav_title, "日治時期", "臺灣音樂史", "公學校唱歌", "五線譜", "TMD"]
+    if col_name == "kyoeki_shoka":
+        kw_list = [title, col_title.strip("《》"), vol_nav_title, "明治時期", "唱歌教科書", "共益商社", "日本國立國會圖書館", "五線譜", "TMD"]
     if col_name == "shokacho":
         kw_list.extend(["楊金土", "唱歌帖"])
         if vol_name in ("vol_07", "vol_08"):
@@ -574,8 +664,8 @@ def generate_song_folder(
         fm_lines.append(f"musical_key: {json.dumps(score_info['key'], ensure_ascii=False)}")
     if images:
         fm_lines.append(f"image: {json.dumps(images[0].name, ensure_ascii=False)}")
-    if mp3_path.exists():
-        fm_lines.append(f"audio: {json.dumps(mp3_path.name, ensure_ascii=False)}")
+    if audio_path:
+        fm_lines.append(f"audio: {json.dumps(audio_path.name, ensure_ascii=False)}")
     fm_lines.append("---")
     frontmatter = "\n".join(fm_lines)
 
@@ -642,7 +732,10 @@ def generate_book_info_folder(folder: Path) -> Path:
     images_md = "\n\n".join(img_blocks) if img_blocks else "*（無掃描圖檔）*"
 
     seo_title = f"書訊與卷首／卷末掃描頁 — {col_title} {vol_title}"
-    seo_desc = f"日治時期臺灣{col_title}（{vol_title}）之封面、扉頁、目次（もくろく）、樂典大要、版權頁與封底等高解析度原書掃描圖檔（共 {len(images)} 頁）。"
+    if col_name == "kyoeki_shoka":
+        seo_desc = f"明治時期東京共益商社樂器店{col_title}（{vol_title}）之封面、緒言、發音圖解、目次、演奏注意與版權頁等高解析度原書掃描圖檔（共 {len(images)} 頁）。"
+    else:
+        seo_desc = f"日治時期臺灣{col_title}（{vol_title}）之封面、扉頁、目次（もくろく）、樂典大要、版權頁與封底等高解析度原書掃描圖檔（共 {len(images)} 頁）。"
     fm_lines = [
         "---",
         f"title: {json.dumps(seo_title, ensure_ascii=False)}",
@@ -671,6 +764,10 @@ def classify_song_section(col_name: str, vol_name: str, folder_name: str) -> tup
     parts = folder_name.split("_")
     if col_name in ("kogakko_shoka", "utanohon"):
         num = f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
+        return None, None, num
+
+    if col_name == "kyoeki_shoka":
+        num = f"第 {int(parts[0])} 曲" if parts[0].isdigit() else parts[0]
         return None, None, num
 
     if col_name == "shokacho":
@@ -762,6 +859,8 @@ def generate_volume_index(vol_dir: Path) -> Path:
     vol_seo_title = f"{col_title} {vol_title}（共 {len(song_dirs)} 首曲目總覽與線上試聽）"
     if col_name == "shokacho" and vol_name in SHOKACHO_VOL_NOTES:
         vol_seo_desc = re.sub(r"[`*_]", "", SHOKACHO_VOL_NOTES[vol_name])
+    elif col_name == "kyoeki_shoka":
+        vol_seo_desc = f"明治時期東京共益商社樂器店{col_title} {vol_title}全冊數位化曲目總覽（共 {len(song_dirs)} 首），提供五線譜、TMD 樂譜、歌詞檢索及 NDL 原書掃描圖檔。"
     else:
         vol_seo_desc = f"日治時期臺灣{col_title} {vol_title}全冊數位化曲目總覽（共 {len(song_dirs)} 首），提供線上試聽雙手鋼琴伴奏 MP3、閱讀五線譜與 TMD 樂譜、檢索歌詞及原書掃描圖檔。"
 
@@ -794,6 +893,11 @@ def generate_volume_index(vol_dir: Path) -> Path:
                 "- 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](../horai_shokashu.md)**"
             )
 
+    if col_name == "kyoeki_shoka":
+        pid = KYOEKI_PID_BY_VOL.get(vol_name, "")
+        ndl_link = f"（[NDL PID `{pid}`](https://dl.ndl.go.jp/pid/{pid})）" if pid else ""
+        lines.extend([f"> {KYOEKI_COLLECTION_NOTE}{ndl_link}", ""])
+
     if col_name == "utanohon" and vol_name == "ge_2006.006.0878":
         lines.extend(
             [
@@ -811,8 +915,13 @@ def generate_volume_index(vol_dir: Path) -> Path:
             ]
         )
 
-    if col_name in ("kogakko_shoka", "utanohon", "shokacho"):
-        first_col = "課次" if col_name in ("kogakko_shoka", "utanohon") else "原書頁碼"
+    if col_name in ("kogakko_shoka", "utanohon", "shokacho", "kyoeki_shoka"):
+        if col_name in ("kogakko_shoka", "utanohon"):
+            first_col = "課次"
+        elif col_name == "kyoeki_shoka":
+            first_col = "曲次"
+        else:
+            first_col = "原書頁碼"
         lines.extend(
             [
                 f"## 曲目列表（共 {len(song_dirs)} 首）",
@@ -901,18 +1010,64 @@ def generate_volume_index(vol_dir: Path) -> Path:
     return output
 
 
+def write_song_index_json(docs_dir: Path) -> Path:
+    """Write the lightweight song index used by the homepage random picker."""
+    songs: list[dict[str, str]] = []
+    for main_tmd in sorted(
+        (p for p in docs_dir.rglob("*.tmd") if not p.name.endswith("_piano.tmd")),
+        key=lambda p: natural_sort_key(str(p)),
+    ):
+        folder = main_tmd.parent
+        try:
+            chosen_main_tmd = choose_main_tmd(folder)
+        except AmbiguousMainTmdError:
+            continue
+        if chosen_main_tmd != main_tmd:
+            continue
+        title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
+        rel_folder = folder.relative_to(docs_dir).as_posix()
+        parts = rel_folder.split("/")
+        collection = parts[0] if parts else ""
+        volume = parts[1] if len(parts) > 1 else ""
+        songs.append(
+            {
+                "title": title,
+                "collection": COLLECTION_TITLES.get(collection, collection),
+                "volume": VOLUME_TITLES.get(volume, volume),
+                "url": f"{rel_folder}/",
+            }
+        )
+
+    output = docs_dir / "data" / "songs.json"
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(
+        json.dumps(songs, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    return output
+
+
 def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
     docs_dir = docs_dir.resolve()
     home_lines = [
         "# Re:shoka — 百年歌曲重建計畫",
         "",
-        "日治時期臺灣公學校與小學校音樂教材數位化、TMD 樂譜重建、雙手鋼琴伴奏編曲與調性分析資料庫。",
+        "TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，並提供 TMD 樂譜、MP3 與調性分析。",
+        "",
+        "> **專案定位**：Re:shoka 是 **TMD 電腦音樂語言的子計畫**，由個人／社群維護，並非政府機關、博物館或任何官方計畫。資料主要整理自公開典藏與公版史料，供研究、教育與欣賞使用。",
+        "",
+        '<div class="lucky-song" data-lucky-song>',
+        "  <div>",
+        "    <strong>隨機聽見一段歷史</strong>",
+        '    <button type="button" data-lucky-song-button>讓命運選一首</button>',
+        "  </div>",
+        "  <p data-lucky-song-result>從 734 首歷史曲目中隨機探索。</p>",
+        "</div>",
         "",
     ]
 
     nav_lines = [
         "site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫",
-        "site_description: 收錄國立臺灣歷史博物館典藏之日治時期（1910–1940 年代）《公學校唱歌》、《新定兒童唱歌》、《うたのほん》（唱歌課本）與《楊金土手抄唱歌帖》（含《蓬萊唱歌集》、陳英聲〈牛よ牛よ〉、郭水返〈水グルマ〉）共 17 冊 658 首歷史曲目，提供線上試聽雙手鋼琴伴奏 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
+        "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 21 冊、734 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
         "site_author: TMD Contributors",
         "site_url: https://tmdlang.github.io/reshoka/",
         "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
@@ -998,6 +1153,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         ("shintei_jido_shoka", "新定兒童唱歌"),
         ("utanohon", "うたのほん（唱歌課本）"),
         ("shokacho", "楊金土手抄唱歌帖"),
+        ("kyoeki_shoka", "共益商社唱歌教科書"),
     ]
 
     for col_slug, col_short in collections:
@@ -1010,6 +1166,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         nav_lines.append(f"  - {col_short}:")
         if col_slug == "shintei_jido_shoka" and (col_dir / "index.md").exists():
             nav_lines.append("      - 專題統計: shintei_jido_shoka/index.md")
+        if col_slug == "kyoeki_shoka" and (col_dir / "index.md").exists():
+            nav_lines.append("      - 專題統計: kyoeki_shoka/index.md")
         if col_slug == "shokacho" and (col_dir / "research_notes.md").exists():
             nav_lines.append("      - 考證與研究筆記: shokacho/research_notes.md")
         if col_slug == "shokacho" and (col_dir / "horai_shokashu.md").exists():
@@ -1065,6 +1223,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         home_lines.append("")
 
     index_md = docs_dir / "index.md"
+    write_song_index_json(docs_dir)
     if not index_md.exists():
         index_md.write_text("\n".join(home_lines), encoding="utf-8")
     mkdocs_path.write_text("\n".join(nav_lines) + "\n", encoding="utf-8")
@@ -1160,6 +1319,9 @@ def main() -> int:
             )
             print(f"[單曲] 已產生：{out}")
         except RuntimeError as exc:
+            if isinstance(exc, AmbiguousMainTmdError):
+                print(f"跳過：{exc}", file=sys.stderr)
+                return 0
             print(f"錯誤：{exc}", file=sys.stderr)
             return 1
     elif song_folders:
@@ -1186,6 +1348,9 @@ def main() -> int:
                     if done % 25 == 0 or done == total:
                         print(f"  進度：{done}/{total}（最新：{folder.name}）")
                 except Exception as exc:
+                    if isinstance(exc, AmbiguousMainTmdError):
+                        print(f"  [跳過] {folder}: {exc}", file=sys.stderr)
+                        continue
                     err_msg = f"{folder}: {exc}"
                     errors.append(err_msg)
                     print(f"  [失敗] {err_msg}", file=sys.stderr)

@@ -5,9 +5,9 @@ M:4/4
 L:1/16
 Q:1/4=80
 K:C
-V:V1 name="Piano" snm="Pia"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
-G4 A4 G6 E2 | G6 G2 c4 d4 | c4 A4 G4 E4 | D12 z4 |
-E4 D4 C4 D4 | E4 G4 A8 | G4 E4 C4 D4 | C12 z4 |
-A4 A4 c4 A4 | d4 c4 A8 | G4 A4 G4 E4 | G12 z4 |
-c8 d4 c4 | A4 G4 E8 | D4 G4 E4 D4 | C12 z4 |
+G4 G4 G4 A4 | E4 E4 D4 E4 | G4 G4 G4 A4 | E12 z4 |
+G4 G4 G4 A4 | E4 E4 D4 C4 | D4 D4 D4 E4 | C12 z4 |
+A4 A4 A4 c4 | d4 d4 d4 c4 | A4 A4 A4 G4 | A12 z4 |
+c8 c4 d4 | A4 A4 G4 E4 | D4 D4 E4 D4 | C12 z4 |

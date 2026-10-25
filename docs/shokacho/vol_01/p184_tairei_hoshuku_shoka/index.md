@@ -64,12 +64,22 @@ E4 A2 F2 E4 D4 | B,4 D4 E8 | F4 D2 E2 F4 ^A4 | B12 z4 |
 B4 F2 A2 B4 A4 | F4 E4 D4 B,4 | E4 F2 A2 B4 d2 B2 | A12 F4 |
 E4 A4 F4 D2 B,2 | A,4 B,4 D8 | E4 F4 A4 B2 A2 | F12 E4 |
 D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
+D4 E2 F2 E4 D4 | B,4 A,4 B,4 D4 | E4 E2 F2 A4 F4 | E12 z4 |
+E4 A2 F2 E4 D4 | B,4 D4 E8 | F4 D2 E2 F4 ^A4 | B12 z4 |
+B4 F2 A2 B4 A4 | F4 E4 D4 B,4 | E4 F2 A2 B4 d2 B2 | A12 F4 |
+E4 A4 F4 D2 B,2 | A,4 B,4 D8 | E4 F4 A4 B2 A2 | F12 E4 |
+D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
+D4 E2 F2 E4 D4 | B,4 A,4 B,4 D4 | E4 E2 F2 A4 F4 | E12 z4 |
+E4 A2 F2 E4 D4 | B,4 D4 E8 | F4 D2 E2 F4 ^A4 | B12 z4 |
+B4 F2 A2 B4 A4 | F4 E4 D4 B,4 | E4 F2 A2 B4 d2 B2 | A12 F4 |
+E4 A4 F4 D2 B,2 | A,4 B,4 D8 | E4 F4 A4 B2 A2 | F12 E4 |
+D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tairei_hoshuku_shoka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGFCboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdaanFJZllyLoh4smpRam5-Xlgc7W0FJ5Na3_ZvOL5nMaXjTuerpul8HTJ8ufL1j1d2vl86dynUzY-W9ujoEGEmkcNUxSe9m542rH9xdo5mgpaWlyKtgqWZlz2tgouXDYm-iZ2XFz6WlwKCrSxEGRwMCT4FSAKnu6YpqBhZGBkoGdgYKZnYGFirKmjAIovvayCdAWNnMqizORihcSc4nyF_DyQhDFIAmyQcxEo6IutFF6unvF8yoYXDVOf7GhQeLJ3DshefYWnOzc_3bTw6dz2Jzu7waKzN4FElyx_OWPVszlzn01f-mzahheN854v2fd0fcuLLR1cIEN9wBZagZiGeiDycfP8x03rHzdtfdzc97hp_-Om1Y-bVyo8blr2uGnj4-aWx03rHje3AfmLHjfPA_GbJ8FE-2B6m1c-bt7wuLkbYhzQrDWPm1Y9bp79uGktSAVYIVDLWpDxIEOmAo1b_bhp--OmzWBRoD1TwaogusBaHjevAhvXtORx0zYQ2dz_uHkGOh_sJSOIP5raHjf2Pm6cCSbXPW6cDyQVHjeufty46XHj9MeNQIsmAfn7HzdOfNy44nHjVDCa9LhxGVB05uOmxseNPWDp1WDjGlseN-4DGwcUnQLW0Q8UXfK4sftx4w6IHNi4pg6wdesfN84AGwKytOtx426wWeseN3XBjZsGJoEKd6Dzwf4whvoDGAGQEACSK8BoFSQAgaEH9PSax82rgXxgiAHDEBzAoCjohgTgIrCqleDAXQ-JD6BBk0HyTTtBCGQoKDq3gu2Z8bgZGM_r4bEGMQ5oA9BSsuJDS5-LyzcxM88qLD85McehxqBGoRqkT8HGQssOzKhRMFTQVTBSMAZiXTC7RsEsHkiZgggwCyIIkgYpMwXSxnARGDQAiUANBImbYhoIsQeivAZshCHYQKBidYgqHOaBxEH2gmiQ7RDNMNPBZkMshSkyjANSNWC1MAh2MYr7IGKGIP1ApSiehbgQYiJEqRmQhFgLgyBZmIEwPUADgAYBSUOodpBjUF0N0woKHYRGhI9rubh07RRAUaYApJW5AA)]
-- [鋼琴伴奏 TMD 檔案](tairei_hoshuku_shoka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2rf1l84rncxpfNu54um6WwtMly58vW_d0aefzpXOfTtn4bG2PggYRah41TFF42rvhacf2J3u2PF3a_2LtHE0FLS0uRVsFSzMue1sFFy4bE30TOy4ufS0uBQVaWgsyPji_tCg51UoBouzpjmkKGkYGRgZ6BgZmegYWJsaaOgoBhhYmelkF6QoaOZVFmcnFCok5xfkK-XkgCWOQBNgg56LUlMySYiuFl6tnPJ-y4UXD1Cc7GhSe7J0Dsl1f4enOzU83LXw6t_3Jzm6w6OxNINEly1_OWPVsztxn05c-m7bhReO850v2PV3f8mJLB5eWPheXb2JmnlVYfnJijkONQY1CNcgiBRsLLTswo0bBUEFXwUjBGIh1wewaBbN4IGUKIsAsiCBIGqTMFEgbw0Vg0AAkAjUQJG6KaSDEHojyGrARhmADgYrVIapwmAcSB9kLokG2QzTDTAebDbEUpsgwDkjVgNXCINjFKO6DiBmC9AOVongW4kKIiRClZkASYi0MgmRhBsL0AA0AGgQkDaHaQY5BdTVMKyh0EBoRPq6FxldAZmJefpAH9hgzjdeGRRqQCfYORARoR7w22BtAGuwnGN8MpgDIgMWkuQ5QEVSzNiRKgUyQKCKuQR43hnsUSRokjMtyqGVIqiEhChIHWwSKeJAUiA1Wog1NAkBpbUR0m0PCHRbKSHIwNoiGBC7cbCRbwe4BOwXmMrj_UQyBJBeoQ6CRA3YBPGAw_Y9QDQ8-aFpCD3owH-wKeCiA0wZMG8IkSCqDmwdLSyh-gjkF1VSUlAe1wFDbBB5GIBphD5IdIIgcYuBkiTAbGwtLQvXBkVANQf4HQTgD6DodGBvBAuYWGNMULAhWD3QmXAWCBY8LuAhWw5E0IIkaE3AHrMTBbTbEXKxORxaEW4RpOFaHg5kQtUiiYKOR7UVSjD1UwFI43GiCMB6iAuYnJCEkC6AxASbhca5rpwCKdgUgrcwFAA)]
+- [主旋律 TMD 檔案](tairei_hoshuku_shoka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGFCboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdaanFJZllyLoh4smpRam5-Xlgc7W0FJ5Na3_ZvOL5nMaXjTuerpul8HTJ8ufL1j1d2vl86dynUzY-W9ujoEGEmkcNUxSe9m542rH9xdo5mgpaWlyKtgqWZlz2tgouXDYm-iZ2XFz6WlwKCrSxEGRwMCT4FSAKnu6YpqBhZGBkoGdgYKZnYGFirKmjAIovvayCdAWNnMqizORihcSc4nyF_DyQhDFIAmyQcxEo6IutFF6unvF8yoYXDVOf7GhQeLJ3DshefYWnOzc_3bTw6dz2Jzu7waKzN4FElyx_OWPVszlzn01f-mzahheN854v2fd0fcuLLR1cIEN9wBZagZiGeiDycfP8x03rHzdtfdzc97hp_-Om1Y-bVyo8blr2uGnj4-aWx03rHje3AfmLHjfPA_GbJ8FE-2B6m1c-bt7wuLkbYhzQrDWPm1Y9bp79uGktSAVYIVDLWpDxIEOmAo1b_bhp--OmzWBRoD1TwaogusBaHjevAhvXtORx0zYQ2dz_uHkGOh_sJSOIP5raHjf2Pm6cCSbXPW6cDyQVHjeufty46XHj9MeNQIsmAfn7HzdOfNy44nHjVDCa9LhxGVB05uOmxseNPWDp1WDjGlseN-4DGwcUnQLW0Q8UXfK4sftx4w6IHNi4pg6wdesfN84AGwKytOtx426wWeseN3XBjZsGJoEKd6Dzwf4whvoDGAGQEACSK8BoFSQAgaEH9PSax82rgXxgiAHDEBzAoCjohgTgIrCqleDAXQ-JD6BBk0HyTTtBCGQoKDq3gu2Z8bgZGM_r4bEGMQ5oA9BSsuJDS5-LyzcxM88qLD85McehxqBGoRqkT8HGQssOzKhRMFTQVTBSMAZiXTC7RsEsHkiZgggwCyIIkgYpMwXSxnARGDQAiUANBImbYhoIsQeivAZshCHYQKBidYgqHOaBxEH2gmiQ7RDNMNPBZkMshSkyjANSNWC1MAh2MYr7IGKGIP1ApSiehbgQYiJEqRmQhFgLgyBZmIEwPUADgAYBSUOodpBjUF0N0woKHYRGhI9rubh07RRAUaaAhVbmAgA)]
+- [鋼琴伴奏 TMD 檔案](tairei_hoshuku_shoka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2rf1l84rncxpfNu54um6WwtMly58vW_d0aefzpXOfTtn4bG2PggYRah41TFF42rvhacf2J3u2PF3a_2LtHE0FLS0uRVsFSzMue1sFFy4bE30TOy4ufS0uBQVaWgsyPji_tCg51UoBouzpjmkKGkYGRgZ6BgZmegYWJsaaOgoBhhYmelkF6QoaOZVFmcnFCok5xfkK-XkgCWOQBNgg56LUlMySYiuFl6tnPJ-y4UXD1Cc7GhSe7J0Dsl1f4enOzU83LXw6t_3Jzm6w6OxNINEly1_OWPVsztxn05c-m7bhReO850v2PV3f8mJLB5eWPheXb2JmnlVYfnJijkONQY1CNcgiBRsLLTswo0bBUEFXwUjBGIh1wewaBbN4IGUKIsAsiCBIGqTMFEgbw0Vg0AAkAjUQJG6KaSDEHojyGrARhmADgYrVIapwmAcSB9kLokG2QzTDTAebDbEUpsgwDkjVgNXCINjFKO6DiBmC9AOVongW4kKIiRClZkASYi0MgmRhBsL0AA0AGgQkDaHaQY5BdTVMKyh0EBoRPq6FxldAZmJefpAH9hgzjdeGRRqQCfYORARoR7w22BtAGuwnGN8MpgDIgMWkuQ5QEVSzNiRKgUyQKCKuQR43hnsUSRokjMtyqGVIqiEhChIHWwSKeJAUiA1Wog1NAkBpbUR0m0PCHRbKSHIwNoiGBC7cbCRbwe4BOwXmMrj_UQyBJBeoQ6CRA3YBPGAw_Y9QDQ8-aFpCD3owH-wKeCiA0wZMG8IkSCqDmwdLSyh-gjkF1VSUlAe1wFDbBB5GIBphD5IdIIgcYuBkiTAbGwtLQvXBkVANQf4HQTgD6DodGBvBAuYWGNMULAhWD3QmXAWCBY8LuAhWw5E0IIkaE3AHrMTBbTbEXKxORxaEW4RpOFaHg5kQtUiiYKOR7UVSjD1UwFI43GiCMB6iAuYnJCEkC6AxASbhca5rpwCKdgUstDIXAA)]
 
 ## 分析
 
@@ -77,14 +87,14 @@ D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 文部省選定 大禮奉祝唱歌 文部省選定 大禮奉祝唱歌 — 印刷譜 ]
 ================================================================================
-⏱  Duration:       0:50 (50.0s), 20 measures total
+⏱  Duration:       2:30 (150.0s), 60 measures total
 🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  A3 in [Main #1 @ m.2, 0:03]
    - 最高音: D5 in [Main #1 @ m.11, 0:26]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (50.0s)
+🏛  結構:      Main (50.0s) -> Main (50.0s) -> Main (50.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       B 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -92,9 +102,11 @@ D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
    - 核心骨幹音:  E, B, D, F#, A
    - 調性數值:    B 調性不明確 [相關度: 0.70, 穩定度: Ambiguous, 自然音純度: 98.7%]
    - 候選調性 (K-S): B 小調 (0.70), D 大調 (0.70), A 大調 (0.68)
-   - 五度圈歷程:   +5
+   - 五度圈歷程:   +5 -> +5 -> +5
    - 各段落調性細節:
      • [Main #1]: B 調性不明確 (r: 0.70, 自然音純度: 98.7%, 調外音: A#)
+     • [Main #2]: B 調性不明確 (r: 0.70, 自然音純度: 98.7%, 調外音: A#)
+     • [Main #3]: B 調性不明確 (r: 0.70, 自然音純度: 98.7%, 調外音: A#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -121,7 +133,7 @@ D8 B,2 A,2 B,2 D2 | E4 B4 B4 A4 | F8 E4 F2 E2 | D12 z4 |
      B  : █████████████████████     20.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : A3 – D5 (17 個半音 / 1.4 個八度, 75 個音符)
+  - Vocal         : A3 – D5 (17 個半音 / 1.4 個八度, 225 個音符)
 ================================================================================
 ```
 

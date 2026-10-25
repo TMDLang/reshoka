@@ -1,0 +1,17 @@
+X:1
+T:秋景
+M:4/4
+L:1/16
+Q:1/4=80
+K:G
+V:V1 name="Voice" snm="Voi"
+[V:V1]
+!mp! z4 z4 z4 D4 | G6 G2 G2 F2 G2 A2 | B8 G4 G4 | A6 A2 B2 A2 G2 A2 |
+B8 z4 c4 | c6 c2 c2 B2 A2 G2 | A8 A4 D4 | !mf! d6 e2 d2 c2 B2 A2 |
+!mp! G8 z4 d4 | d6 c2 B4 G4 | A8 A4 G4 | !mf! d6 e2 d4 ^c4 |
+!mp! d8 D4 D4 | G6 G2 G2 F2 G2 A2 | B8 G4 G4 | A6 A2 B2 A2 G2 A2 |
+G8 z4 z4 | !mp! z4 z4 z4 D4 | G6 G2 G2 F2 G2 A2 | B8 G4 G4 |
+A6 A2 B2 A2 G2 A2 | B8 z4 c4 | c6 c2 c2 B2 A2 G2 | A8 A4 D4 |
+!mf! d6 e2 d2 c2 B2 A2 | !mp! G8 z4 d4 | d6 c2 B4 G4 | A8 A4 G4 |
+!mf! d6 e2 d4 ^c4 | !mp! d8 D4 D4 | G6 G2 G2 F2 G2 A2 | B8 G4 G4 |
+A6 A2 B2 A2 G2 A2 | G8 z4 z4 |
