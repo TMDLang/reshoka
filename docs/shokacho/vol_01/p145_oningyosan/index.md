@@ -12,7 +12,7 @@ audio: "oningyosan.mp3"
 
 # お人形さん
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="oningyosan.mp3"></audio>
 

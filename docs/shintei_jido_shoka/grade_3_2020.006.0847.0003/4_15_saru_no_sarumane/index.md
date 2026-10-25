@@ -12,7 +12,7 @@ audio: "saru_no_sarumane.mp3"
 
 # 猿の猿眞似
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="saru_no_sarumane.mp3"></audio>
 

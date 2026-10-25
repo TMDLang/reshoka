@@ -12,7 +12,7 @@ audio: "guntai_koshin.mp3"
 
 # 軍隊行進
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="guntai_koshin.mp3"></audio>
 

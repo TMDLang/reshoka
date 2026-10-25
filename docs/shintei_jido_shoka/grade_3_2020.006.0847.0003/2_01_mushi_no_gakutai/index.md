@@ -12,7 +12,7 @@ audio: "mushi_no_gakutai.mp3"
 
 # 蟲の樂隊（蟲之樂隊）
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="mushi_no_gakutai.mp3"></audio>
 

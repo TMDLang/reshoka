@@ -12,7 +12,7 @@ audio: "mudai.mp3"
 
 # 無題・三拍子曲
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="mudai.mp3"></audio>
 

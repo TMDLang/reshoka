@@ -12,7 +12,7 @@ audio: "kisho_rappa.mp3"
 
 # 起床喇叭・點呼喇叭・消燈喇叭
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="kisho_rappa.mp3"></audio>
 

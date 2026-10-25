@@ -12,7 +12,7 @@ audio: "oyama_no_taisho.mp3"
 
 # お山の大將
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="oyama_no_taisho.mp3"></audio>
 

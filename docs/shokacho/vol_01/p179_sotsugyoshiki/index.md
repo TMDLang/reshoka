@@ -12,7 +12,7 @@ audio: "sotsugyoshiki.mp3"
 
 # 卒業式 (畢業典禮)
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="sotsugyoshiki.mp3"></audio>
 

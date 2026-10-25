@@ -12,7 +12,7 @@ audio: "shinchiku_rakuseishiki.mp3"
 
 # 新築落成の歌（新築落成式）
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="shinchiku_rakuseishiki.mp3"></audio>
 

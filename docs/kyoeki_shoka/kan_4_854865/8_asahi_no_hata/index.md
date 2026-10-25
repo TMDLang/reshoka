@@ -12,7 +12,7 @@ audio: "asahi_no_hata.mp3"
 
 # 朝日の旗
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="asahi_no_hata.mp3"></audio>
 

@@ -12,7 +12,7 @@ audio: "kigan.mp3"
 
 # 歸雁 (歸雁)
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="kigan.mp3"></audio>
 

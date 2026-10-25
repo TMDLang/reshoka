@@ -12,7 +12,7 @@ audio: "sobetsu_no_uta.mp3"
 
 # 送別の歌 (送別之歌)
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="sobetsu_no_uta.mp3"></audio>
 

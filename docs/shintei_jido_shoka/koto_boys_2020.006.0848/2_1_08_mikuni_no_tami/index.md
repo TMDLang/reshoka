@@ -12,7 +12,7 @@ audio: "mikuni_no_tami.mp3"
 
 # 御國の民
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="mikuni_no_tami.mp3"></audio>
 

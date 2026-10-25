@@ -12,7 +12,7 @@ audio: "yamato_takeru_no_mikoto.mp3"
 
 # 日本武尊
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="yamato_takeru_no_mikoto.mp3"></audio>
 

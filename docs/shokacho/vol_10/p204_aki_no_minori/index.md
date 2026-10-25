@@ -12,7 +12,7 @@ audio: "aki_no_minori.mp3"
 
 # 秋の實り。 (秋之豐收)
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="aki_no_minori.mp3"></audio>
 

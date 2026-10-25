@@ -12,7 +12,7 @@ audio: "asa_no_inori.mp3"
 
 # 朝の祈り（早晨的祈禱）
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="asa_no_inori.mp3"></audio>
 

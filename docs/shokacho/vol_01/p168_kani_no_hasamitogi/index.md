@@ -12,7 +12,7 @@ audio: "kani_no_hasamitogi.mp3"
 
 # 蟹の鋏とぎ
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="kani_no_hasamitogi.mp3"></audio>
 

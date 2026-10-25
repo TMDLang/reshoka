@@ -12,7 +12,7 @@ audio: "jinei_no_tsuki.mp3"
 
 # 陣營の月（軍營之月）
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="jinei_no_tsuki.mp3"></audio>
 

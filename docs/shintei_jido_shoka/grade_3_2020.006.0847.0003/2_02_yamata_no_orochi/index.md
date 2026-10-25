@@ -12,7 +12,7 @@ audio: "yamata_no_orochi.mp3"
 
 # 八岐の大蛇（八岐大蛇）
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="yamata_no_orochi.mp3"></audio>
 

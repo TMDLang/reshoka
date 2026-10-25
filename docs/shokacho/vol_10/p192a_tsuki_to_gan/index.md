@@ -12,7 +12,7 @@ audio: "tsuki_to_gan.mp3"
 
 # ツキトガン (月與雁)
 
-> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="tsuki_to_gan.mp3"></audio>
 
