@@ -58,16 +58,16 @@ Q:1/4=100
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A3 G G4 | F2 F2 C2 C2 | F2 G2 A2 F2 | G6 z2 |
-A3 c c4 | A2 A2 F2 F2 | G2 A2 G2 G2 | F6 z2 |
-c2 c2 c2 z2 | d2 d2 c2 c2 | B2 A2 G2 c2 | c6 z2 |
-A2 A2 A2 z2 | c3 c A2 A2 | B2 A2 G2 G2 | F6 z2 |
+A3 G G4 | F3 F C2 C2 | F2 G2 A2 F2 | G6 z2 |
+A3 c c4 | A3 A F2 F2 | G3 A G2 G2 | F6 z2 |
+c2 c2 c2 z2 | d3 d c2 c2 | B3 A G2 c2 | c6 z2 |
+A2 A2 A2 z2 | c3 c A2 A2 | B2 A2 G3 G | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ichinensei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8GRHw-Pm3sfNmx837X7ctOT9ng6gyNOdW55vmfV8yvz3ezoVtLS4FG0VDA0MuOxtFdy4bIz0TexAhr5o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mDciCtTtAdkxZAbQPFGx6wGDTAwUbkGFgCLRViUtfS-HZ7E3PZ697sWrVsxl9XAoKQLeufTat_cXyxS_bu9_vmfWsv__p-tVPO2c_65jwvGkX3N1Aw4FOfz6r5enalU_XTni_p-fpjm0vJk5_Nmf-032tL6d1P13eDVTzbMFCoLJnW3Y_bmji0tLnAtrIBTSD63HznMdN6x839z9uaHjctAMcNEByyeOmZSB55NDiety0-XFzx-Om7SC1QB1NSx43tzxu2o9F4aLHzQsfN60BK5wKUtXc9rh5Ecw2iHaQhUvA5HqgjtWPm_YgdICMxq-D68muHqC2tY-b-0AaIFJg5zxuXgGUWAPVBjQYRC4DGzED7LSmnUCToTpA9i4jqKN5JczXxDgNJUybGx83bQXbtAZo1Caw0GawwrVgdgOYXAGOE9_EzDyrgMzEvHyHGoMahWpQMlCwMTTTsgOzahSMFXSB0AgIQbQuUMQQSIKwaTyMgIiBVIBUg9g1cPUgaAASQTHPFAhh5oFEYPoQekEiIBqEIeZjMw1kCgyDxRXMgCQIw0RrFEyQTIOIwOzG5jYYhpgGUWkKF0U1DZfbarm4dO0UQEGrAKSVubgA)]
-- [鋼琴伴奏 TMD 檔案](ichinensei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fxc-_j5s2Pm3Y_blryfk_H4-Ypj5sWPW7ue7Jny9Ol_U92z3i_p1NBS4tL0VbB0MCAy95WwY3LxkjfxI6rTkHpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuAFj9du-Ppzi3Pp6wA2mpkYGSgZ2BgpmdgYWIOZBgYAm1V4uLyTczMswrITMzLD_JwqDGoUajmUgACG0MzLTswq0bBWEEXCI2AEETrAkUMgSQIm8bDCIgYSAVINYhdA1cPggYgERTzTIEQZh5IBKYPoRckAqJBGGI-NtNApsAwWFzBDEiCMEy0RsEEyTSICMxubG6DYYhpEJWmcFFU03C5rRY5ZH1QQtYCHrDRhrFAxdGm8SAKzgWTGDyIIpDxMKcSoRzNaOy6gWIK0SYouiE8ojWjWo1bMzBQdO0UQOGigEQrc3EBAA)]
+- [主旋律 TMD 檔案](ichinensei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8GRHw-Pm3sfNmx837X7ctOT9ng6gyNOdW55vmfV8yvz3ezoVtLS4FG0VDA0MuOxtFdy4bIz0TexAhr5o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mDciCtTtAdkxZAbQPFGx6wGDTAwUbkGFgCLRViUtfS-HZ7E3PZ697sWrVsxl9XAoKQLeufTat_cXyxS_bu9_vmfWsv__p-tVPO2c_65jwvGkX3N1Aw4FOfz6r5enalU_XTni_p-fpjm0vJk5_Nmf-032tL6d1P13eDVTzbMFCoLJnW3Y_bmji0tLnAtrIBTSD63HznMdN6x839z9uaHjctAMcNEByyeOmZSB55NDiety0-XFzx-Om7SC1QB1NSx43tzxu2o9F4aLHzQsfN60BK5wKUtXc9rh5Ecw2iHaQhUvA5HqgjtWPm_YgdICMxq-D68muHqC2tY-b-0AaIFJg5zxuXgGUWAPVBjQYRC4DGzED7LSmnUCToTpA9i4jqKN5JczXxDgNJUybGx83bQXbtAZo1Caw0GawwrVgdgOYXAGOE9_EzDyrgMzEvHyHGoMahWpQMlCwMTTTsgOzahSMFXSB0AgIQbQuUMQQTBsqmMYDKTABEQOpAKkGsWvg6kHQACSCYp4pEMLMg4gYg_Uh6zUG0yAMsxPTNJApMAwWVzADqzGDi9YomCCZBhGB2Y3NbTAMMQ2i0hQuCjENxIK40Qir22q5uHTtFEBBqwCklbm4AA)]
+- [鋼琴伴奏 TMD 檔案](ichinensei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fxc-_j5s2Pm3Y_blryfk_H4-Ypj5sWPW7ue7Jny9Ol_U92z3i_p1NBS4tL0VbB0MCAy95WwY3LxkjfxI6rTkHpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuAFj9du-Ppzi3Pp6wA2mpkYGSgZ2BgpmdgYWIOZBgYAm1V4uLyTczMswrITMzLD_JwqDGoUajmUgACG0MzLTswq0bBWEEXCI2AEETrAkUMwbShgmk8kAITEDGQCpBqELsGrh4EDUAiKOaZAiHMPIiIMVgfsl5jMA3CMDsxTQOZAsNgcQUzsBozuGiNggmSaRARmN3Y3AbDENMgKk3hohDTQCyIG42wuq0WOWR9UELWAh6w0YaxQMXRpvEgCs4Fkxg8iCKQ8TCnEqEczWjsuoFiCtEmKLohPKI1o1qNWzMwUHTtFEDhooBEK3NxAQA)]
 
 ## 分析
 
@@ -87,9 +87,9 @@ A2 A2 A2 z2 | c3 c A2 A2 | B2 A2 G2 G2 | F6 z2 |
 🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, A, G, F, D
+   - 核心骨幹音:  C, G, A, F, A#
    - 調性數值:    F 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.80), C 大調 (0.78), A 小調 (0.68)
+   - 候選調性 (K-S): F 大調 (0.80), C 大調 (0.79), A 小調 (0.65)
    - 五度圈歷程:   -1
    - 各段落調性細節:
      • [Main #1]: F 調性不明確 (r: 0.80, 自然音純度: 100.0%)
@@ -112,10 +112,10 @@ A2 A2 A2 z2 | c3 c A2 A2 | B2 A2 G2 G2 | F6 z2 |
      E  :                            0.0%
      F  : ███████████████████       20.7%
      F# :                            0.0%
-     G  : ███████████████████       21.6%
+     G  : ████████████████████      22.4%
      G# :                            0.0%
-     A  : ██████████████████████    24.1%
-     A# : ███                        3.4%
+     A  : ████████████████████      22.4%
+     A# : ████                       4.3%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
