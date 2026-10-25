@@ -24,7 +24,7 @@ image: "0_book_info/P113.jpg"
 | P126 | [**天長節**](p126_tenchosetsu/index.md) | 詞：黒川真頼 / 曲：奥好義 | `?=D` `<4/4>` `!=96` | P126.jpg |
 | P127 | [**朝起**](p127_asaoki/index.md) | — | `?=F` `<4/4>` `!=144` | P127.jpg |
 | P128 | [**夕立**](p128_yudachi/index.md) | — | `?=D` `<2/4>` `!=120` | P128.jpg |
-| P129 | [**(6) うたのけいこ**](p129_uta_no_keiko/index.md) | — | `?=F` `<4/4>` `!=100` | P129.jpg, P130.jpg |
+| P129 | [**うたのけいこ**](p129_uta_no_keiko/index.md) | — | `?=F` `<4/4>` `!=100` | P129.jpg, P130.jpg |
 | P131 | [**天然の美**](p131_tennen_no_bi/index.md) | 詞：武島羽衣 / 曲：田中穗積 | `?=F` `<3/4>` `!=96` | P131.jpg |
 | P133 | [**もしもしばあさん**](p133_moshimoshi_baasan/index.md) | — | `?=G` `<4/4>` `!=108` | P133.jpg |
 | P135 | [**春のみつぎ**](p135_haru_no_mitsugi/index.md) | 詞：西木紫雪 / 曲：トキ坊 | `?=C` `<4/4>` `!=104` | P135.jpg |

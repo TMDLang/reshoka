@@ -29,7 +29,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    # - navigation.sections
+    - navigation.sections
     - navigation.top
     - search.suggest
     - search.highlight
@@ -74,11 +74,727 @@ extra_css:
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/abcjs@6.4.4/dist/abcjs-basic-min.js
   - javascripts/abc-render.js
-  - javascripts/random-song.js
 
 nav:
   - 首頁: index.md
   - 跨冊重複與同名歌曲索引: duplicate_songs.md
+  - 公學校唱歌:
+      - 第三學年用:
+          - 總覽: kogakko_shoka/grade_3/index.md
+          - 書訊與掃描頁: kogakko_shoka/grade_3/0_book_info/index.md
+          - "1 あをば（青葉）": kogakko_shoka/grade_3/1_awoba/index.md
+          - "2 だいしゃ（台車）": kogakko_shoka/grade_3/2_daisha/index.md
+          - "3 村のかぢや（村之鍛冶屋）": kogakko_shoka/grade_3/3_muranokajiya/index.md
+          - "4 牛車": kogakko_shoka/grade_3/4_gyusha/index.md
+          - "5 ながいお休（長假）": kogakko_shoka/grade_3/5_nagaioyasumi/index.md
+          - "6 せみ（蟬）": kogakko_shoka/grade_3/6_semi/index.md
+          - "7 すゐれん（睡蓮）": kogakko_shoka/grade_3/7_suiren/index.md
+          - "8 おまつり日（祭典之日）": kogakko_shoka/grade_3/8_omatsuribi/index.md
+          - "9 にじ（彩虹）": kogakko_shoka/grade_3/9_niji/index.md
+          - "10 うんどうくわい（運動會）": kogakko_shoka/grade_3/10_undokai/index.md
+          - "11 きしゃ（火車）": kogakko_shoka/grade_3/11_kisha/index.md
+          - "12 大日本": kogakko_shoka/grade_3/12_dainippon/index.md
+          - "13 おぢいさん（老爺爺）": kogakko_shoka/grade_3/13_ojiisan/index.md
+          - "14 すみやき（燒炭）": kogakko_shoka/grade_3/14_sumiyaki/index.md
+          - "15 白さぎ（白鷺鷥）": kogakko_shoka/grade_3/15_shirasagi/index.md
+  - 新定兒童唱歌:
+      - 專題統計: shintei_jido_shoka/index.md
+      - 尋常科 第一學年:
+          - 總覽: shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md
+          - 書訊與掃描頁: shintei_jido_shoka/grade_1_2020.006.0847.0001/0_book_info/index.md
+          - "0-01 君が代": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md
+          - "0-02 勅語奉答": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/index.md
+          - "0-03 天長節": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md
+          - "0-04 紀元節": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/index.md
+          - "0-05 一月一日": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md
+          - "0-06 明治節": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_06_meijisetsu/index.md
+          - "0-07 始政記念日": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/index.md
+          - "0-08 卒業式歌": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/index.md
+          - "0-09 金剛石": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/index.md
+          - "1-01 ヒノマルノハタ（日之丸旗）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata/index.md
+          - "1-02 ハト（鴿子）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_02_hato/index.md
+          - "1-03 ヒヨコ（小雞）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_03_hiyoko/index.md
+          - "1-04 イヌ（小狗）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_04_inu/index.md
+          - "1-05 イケノコヒ（池中鯉魚）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_05_ike_no_koi/index.md
+          - "1-06 カタツムリ（蝸牛）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/index.md
+          - "1-07 アサガホ（牽牛花）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao/index.md
+          - "1-08 オホシサマ（星星）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_08_ohoshisama/index.md
+          - "1-09 カザグルマトコドモ（風車與孩子）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_09_kazaguruma_to_kodomo/index.md
+          - "1-10 一スンボウシ（一寸法師）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_10_issunboshi/index.md
+          - "1-11 フエトタイコ（笛與太鼓）": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_11_fue_to_taiko/index.md
+          - "2-01 ウサギトカメ（兔子與烏龜）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_01_usagi_to_kame/index.md
+          - "2-02 フンスヰ（噴泉）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_02_funsui/index.md
+          - "2-03 カラス（烏鴉）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_03_karasu/index.md
+          - "2-04 ウシワカマル（牛若丸）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru/index.md
+          - "2-05 ハナ（花）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/index.md
+          - "2-06 オヤウシコウシ（母牛與小牛）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_06_oyaushi_koushi/index.md
+          - "2-07 ネコトカヘル（貓與青蛙）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_07_neko_to_kaeru/index.md
+          - "2-08 ツキ（月亮）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki/index.md
+          - "2-09 シタキリスズメ（剪舌麻雀）": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_09_shitakiri_suzume/index.md
+          - "3-01 ガクタイアソビ（樂隊遊戲）": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_01_gakutai_asobi/index.md
+          - "3-02 ニンギヤウ（人偶）": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_ningyo/index.md
+          - "3-03 カーレンサン（花蓮港）": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/index.md
+          - "3-04 ヒカウキ（飛機）": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/index.md
+          - "3-05 スヰギウ（水牛）": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu/index.md
+          - "3-06 サル・カニ（猴子與螃蟹）": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_06_sarukani/index.md
+          - "3-07 タンジヤウビ（生日）": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_07_tanjobi/index.md
+          - "4-01 ガクカウ（學校）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_01_gakko/index.md
+          - "4-02 一ネンセイ（一年級生）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_02_ichinensei/index.md
+          - "4-03 オクワシノキシヤ（點心火車）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_03_okashi_no_kisha/index.md
+          - "4-04 キンタラウ（金太郎）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_04_kintaro/index.md
+          - "4-05 アメ（雨）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/index.md
+          - "4-06 カザグルマ・ミヅグルマ（風車與水車）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_06_kazaguruma_mizuguruma/index.md
+          - "4-07 ササノフネ（竹葉船）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_07_sasa_no_fune/index.md
+          - "4-08 ウミ（海）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_08_umi/index.md
+          - "4-09 アリ（螞蟻）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/index.md
+          - "4-10 フタリノヘイタイサン（兩個小兵）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_10_futari_no_heitaisan/index.md
+          - "4-11 デンシヤ（電車）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_11_densha/index.md
+          - "4-12 イヌノシバヰ（狗的戲劇）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_12_inu_no_shibai/index.md
+          - "4-13 ムシノコヱ（蟲的聲音）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_13_mushi_no_koe/index.md
+          - "4-14 スズフルオウマ（鈴鐺響的小馬）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_14_suzu_furu_ouma/index.md
+          - "4-15 オツキサマ（月亮先生）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_15_otsukisama/index.md
+          - "4-16 ユフヤケコヤケ（晚霞）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_16_yuyake_koyake/index.md
+          - "4-17 チンコロヘイタイ（小小兵）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_17_chinkoro_heitai/index.md
+          - "4-18 モチツキ（搗麻糬）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_18_mochitsuki/index.md
+          - "4-19 オシヤウグワツ（新年）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_19_oshogatsu/index.md
+          - "4-20 チヨダノオシロ（千代田城）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_20_chiyoda_no_oshiro/index.md
+          - "4-21 オサル（猴子）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/index.md
+          - "4-22 スズメ（麻雀）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/index.md
+          - "4-23 トキ（朱鷺）": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/index.md
+      - 尋常科 第二學年:
+          - 總覽: shintei_jido_shoka/grade_2_2020.006.0847.0002/index.md
+          - 書訊與掃描頁: shintei_jido_shoka/grade_2_2020.006.0847.0002/0_book_info/index.md
+          - "1-01 サクラ（櫻花）": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/index.md
+          - "1-02 ヨクマナビ ヨクアソベ（好好學習，好好遊玩）": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/index.md
+          - "1-03 水グルマ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md
+          - "1-04 小ウマ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/index.md
+          - "1-05 カヘル ト クモ（青蛙與雲）": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md
+          - "1-06 コガハ（小河）": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_06_kogawa/index.md
+          - "1-07 ヒヨコ（小雞）": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_07_hiyoko/index.md
+          - "1-08 シヤボンダマ（肥皂泡）": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama/index.md
+          - "1-09 キンギヨ（金魚）": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_09_kingyo/index.md
+          - "1-10 五一ヂイサン（五一老爺爺）": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_10_goichi_jiisan/index.md
+          - "2-01 カゴノムシ（籠中蟲）": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_01_kago_no_mushi/index.md
+          - "2-02 十五ヤ（十五夜）": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_02_jugoya/index.md
+          - "2-03 とけいのうた（時鐘之歌）": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_03_tokei_no_uta/index.md
+          - "2-04 ももたらう（桃太郎）": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_04_momotaro/index.md
+          - "2-05 たこのうた（風箏之歌）": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_05_tako_no_uta/index.md
+          - "2-06 かかし（稻草人）": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_06_kakashi/index.md
+          - "2-07 あひる（鴨子）": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_07_ahiru/index.md
+          - "2-08 水牛": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md
+          - "2-09 うらしま太郎": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro/index.md
+          - "2-10 山びこ": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_10_yamabiko/index.md
+          - "2-11 木のは": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_11_ki_no_ha/index.md
+          - "3-01 だるま（達摩）": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_01_daruma/index.md
+          - "3-02 なすのよいち（那須與一）": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_02_nasu_no_yoichi/index.md
+          - "3-03 田うゑ": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_03_taue/index.md
+          - "3-04 大こくさま": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_04_daikoku_sama/index.md
+          - "3-05 いはひ日": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_05_iwaibi/index.md
+          - "3-06 七面鳥": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/index.md
+          - "3-07 花さかぢぢい": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md
+          - "3-08 春が來た": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_08_haru_ga_kita/index.md
+          - "4-01 ヒバリ（雲雀）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_01_hibari/index.md
+          - "4-02 テフトハルカゼ（蝴蝶與春風）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_02_cho_to_harukaze/index.md
+          - "4-03 三バノツバメ（三隻燕子）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_03_sanba_no_tsubame/index.md
+          - "4-04 アワテトコヤ（匆忙理髮店）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_04_awate_tokoya/index.md
+          - "4-05 ハコニハ（箱庭）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa/index.md
+          - "4-06 ヲノノタウフウ（小野道風）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_06_ono_no_tofu/index.md
+          - "4-07 カヘル（青蛙）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_07_kaeru/index.md
+          - "4-08 フウリン（風鈴）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_08_furin/index.md
+          - "4-09 デンシンバシラ（電線桿）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_09_denshin_bashira/index.md
+          - "4-10 ユフヒ（夕陽）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_10_yuhi/index.md
+          - "4-11 一ツボシ（一顆星）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_11_hitotsuboshi/index.md
+          - "4-12 半カケオ月サン": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_12_hankake_otsukisan/index.md
+          - "4-13 がん（雁）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_13_gan/index.md
+          - "4-14 ふじ山": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_14_fujisan/index.md
+          - "4-15 まはりつこ（轉圈遊戲）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_15_mawarikko/index.md
+          - "4-16 おきやくさま（客人）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/index.md
+          - "4-17 にたんの四郎": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_17_nitan_no_shiro/index.md
+          - "4-18 にぐるま（人力車／運貨車）": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma/index.md
+      - 尋常科 第三學年:
+          - 總覽: shintei_jido_shoka/grade_3_2020.006.0847.0003/index.md
+          - 書訊與掃描頁: shintei_jido_shoka/grade_3_2020.006.0847.0003/0_book_info/index.md
+          - "1-01 森の樂隊": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_01_mori_no_gakutai/index.md
+          - "1-02 天の岩屋": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_02_ama_no_iwaya/index.md
+          - "1-03 かゞやく光": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_03_kagayaku_hikari/index.md
+          - "1-04 村のかぢや": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_04_mura_no_kajiya/index.md
+          - "1-05 蝶": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_05_cho/index.md
+          - "1-06 鯉のぼり": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/index.md
+          - "1-07 かみなりさま": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_07_kaminarisama/index.md
+          - "1-08 虹": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/index.md
+          - "1-09 長いお休": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/index.md
+          - "1-10 夏の歌": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_10_natsu_no_uta/index.md
+          - "2-01 蟲の樂隊（蟲之樂隊）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_01_mushi_no_gakutai/index.md
+          - "2-02 八岐の大蛇（八岐大蛇）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_02_yamata_no_orochi/index.md
+          - "2-03 日の丸のはた（日之丸國旗）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/index.md
+          - "2-04 お祭日（祭典之日）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md
+          - "2-05 日本武尊": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_05_yamato_takeru_no_mikoto/index.md
+          - "2-06 取入れ（秋收）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/index.md
+          - "2-07 臺灣行進歌": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/index.md
+          - "2-08 運動會": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/index.md
+          - "2-09 港": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/index.md
+          - "2-10 汽車（火車）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_10_kisha/index.md
+          - "2-11 にじ（彩虹）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_11_niji/index.md
+          - "3-01 大日本": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon/index.md
+          - "3-02 おもひやり（體貼同理）": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_02_omoiyari/index.md
+          - "3-03 町の朝（街鎮之晨）": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_03_machi_no_asa/index.md
+          - "3-04 炭やき（燒炭）": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_04_sumiyaki/index.md
+          - "3-05 神風": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_05_kamikaze/index.md
+          - "3-06 蓄音機（留聲機）": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki/index.md
+          - "3-07 常夏の島": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/index.md
+          - "4-01 綱ひき": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_01_tsunahiki/index.md
+          - "4-02 花瓶の花": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_02_kabin_no_hana/index.md
+          - "4-03 こんこん小雉子": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_03_konkon_kokiji/index.md
+          - "4-04 ねむり人形": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_04_nemuri_ningyo/index.md
+          - "4-05 けむり": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_05_kemuri/index.md
+          - "4-06 僕等は少年だ": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_06_bokura_wa_shonen_da/index.md
+          - "4-07 お庭のラヂオ": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_07_oniwa_no_rajio/index.md
+          - "4-08 鵯越": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_08_hiyodorigoe/index.md
+          - "4-09 蓮の葉の露": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_09_hasu_no_ha_no_tsuyu/index.md
+          - "4-10 遠足の歌": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_10_ensoku_no_uta/index.md
+          - "4-11 波がざんぶりこ": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_11_nami_ga_zanburiko/index.md
+          - "4-12 小舟": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_12_kobune/index.md
+          - "4-13 郵便函": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_13_yubinbako/index.md
+          - "4-14 活動寫眞": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_14_katsudo_shashin/index.md
+          - "4-15 猿の猿眞似": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_15_saru_no_sarumane/index.md
+          - "4-16 梅に鶯": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_16_ume_ni_uguisu/index.md
+          - "4-17 進軍": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_17_shingun/index.md
+          - "4-18 雛菊": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_18_hinagiku/index.md
+          - "4-19 青い小鳥": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_19_aoi_kotori/index.md
+          - "4-20 冬の朝": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_20_fuyu_no_asa/index.md
+          - "4-21 キャベツ": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_21_kyabetsu/index.md
+          - "4-22 夏季休業": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_22_kaki_kyugyo/index.md
+          - "4-23 冬季休業": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_23_toki_kyugyo/index.md
+          - "4-24 始業式": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_24_shigyoshiki/index.md
+          - "4-25 終業式": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_25_shugyoshiki/index.md
+      - 尋常科 第四學年:
+          - 總覽: shintei_jido_shoka/grade_4_2020.006.0847.0004/index.md
+          - 書訊與掃描頁: shintei_jido_shoka/grade_4_2020.006.0847.0004/0_book_info/index.md
+          - "1-01 春の小川": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_01_haru_no_ogawa/index.md
+          - "1-02 菅公": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_02_kanko/index.md
+          - "1-03 ジャンク": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_03_janku/index.md
+          - "1-04 蠶": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_04_kaiko/index.md
+          - "1-05 初夏の夜": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_05_shoka_no_yoru/index.md
+          - "1-06 行軍": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_06_kogun/index.md
+          - "1-07 能久親王": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_07_yoshihisa_shinno/index.md
+          - "1-08 夕立": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi/index.md
+          - "1-09 雲": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_09_kumo/index.md
+          - "1-10 千引の岩": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_10_chibiki_no_iwa/index.md
+          - "2-01 鷲": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_01_washi/index.md
+          - "2-02 漁船": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_02_gyosen/index.md
+          - "2-03 二宮尊徳": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku/index.md
+          - "2-04 遠足": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_04_ensoku/index.md
+          - "2-05 觀兵式": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_05_kanpeishiki/index.md
+          - "2-06 つゆと虫": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_06_tsuyu_to_mushi/index.md
+          - "2-07 新井白石": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_07_arai_hakuseki/index.md
+          - "2-08 燈臺": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_08_todai/index.md
+          - "2-09 農家の秋": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_09_noka_no_aki/index.md
+          - "2-10 千里の山河": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_10_senri_no_sanga/index.md
+          - "2-11 これぞ臺灣": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan/index.md
+          - "3-01 國旗": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_01_kokki/index.md
+          - "3-02 雞": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_02_niwatori/index.md
+          - "3-03 いかだかづら": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_03_ikadakazura/index.md
+          - "3-04 我が帝國": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_04_waga_teikoku/index.md
+          - "3-05 忍耐": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_05_nintai/index.md
+          - "3-06 競馬": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_06_keiba/index.md
+          - "3-07 富士登山": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_07_fuji_tozan/index.md
+          - "4-01 花ざかり": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_01_hanazakari/index.md
+          - "4-02 春の丘": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_02_haru_no_oka/index.md
+          - "4-03 二つの蝶": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_03_futatsu_no_cho/index.md
+          - "4-04 羽衣": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo/index.md
+          - "4-05 初夏の朝": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_05_shoka_no_asa/index.md
+          - "4-06 螢": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_06_hotaru/index.md
+          - "4-07 さみだれ": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_07_samidare/index.md
+          - "4-08 黃金虫": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_08_kogane_mushi/index.md
+          - "4-09 秋の野": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_09_aki_no_no/index.md
+          - "4-10 航海": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai/index.md
+          - "4-11 流れ星": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_11_nagareboshi/index.md
+          - "4-12 海へ": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_12_umi_e/index.md
+          - "4-13 お月さん": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_13_otsukisan/index.md
+          - "4-14 軍人": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_14_gunjin/index.md
+          - "4-15 とんび": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi/index.md
+          - "4-16 秋夕": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_16_shuseki/index.md
+          - "4-17 百舌鳥": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_17_mozu/index.md
+          - "4-18 日本男兒": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_18_nihon_danji/index.md
+          - "4-19 かなりや": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya/index.md
+          - "4-20 どんぶりこ": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko/index.md
+          - "4-21 新築落成の歌（新築落成式）": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_21_shinchiku_rakuseishiki/index.md
+          - "4-22 學校記念日": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_22_gakko_kinenbi/index.md
+      - 尋常科 第五學年:
+          - 總覽: shintei_jido_shoka/grade_5_2020.006.0847.0005/index.md
+          - 書訊與掃描頁: shintei_jido_shoka/grade_5_2020.006.0847.0005/0_book_info/index.md
+          - "1-01 春の野": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md
+          - "1-02 神木": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku/index.md
+          - "1-03 日東帝國": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_03_nitto_teikoku/index.md
+          - "1-04 夏は來ぬ": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_04_natsu_wa_kinu/index.md
+          - "1-05 夏の興": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_05_natsu_no_kyo/index.md
+          - "1-06 瀧鶴臺の妻": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_06_taki_kakudai_no_tsuma/index.md
+          - "1-07 心と心": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_07_kokoro_to_kokoro/index.md
+          - "1-08 海": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi/index.md
+          - "1-09 星の界": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_09_hoshi_no_yo/index.md
+          - "1-10 納涼": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_10_noryo/index.md
+          - "2-01 朝の歌": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_01_asa_no_uta/index.md
+          - "2-02 秋景": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_02_shukei/index.md
+          - "2-03 コスモスボート": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_03_kosumosu_boto/index.md
+          - "2-04 飛行機": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md
+          - "2-05 航海": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_05_kokai/index.md
+          - "2-06 新高山": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_06_niitakayama/index.md
+          - "2-07 助船": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md
+          - "2-08 もみぢ": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_08_momiji/index.md
+          - "2-09 つり橋": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_09_tsuribashi/index.md
+          - "2-10 傳書鳩": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_10_denshobato/index.md
+          - "3-01 愛國": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_01_aikoku/index.md
+          - "3-02 捕鯨船": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_02_hogeisen/index.md
+          - "3-03 六氏先生": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_03_rokushi_sensei/index.md
+          - "3-04 軍艦": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md
+          - "3-05 象": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_05_zo/index.md
+          - "3-06 平和なる村": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_06_heiwa_naru_mura/index.md
+          - "3-07 廣瀨中佐": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_07_hirose_chusa/index.md
+          - "4-01 雲雀": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_01_hibari/index.md
+          - "4-02 舞踏": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_02_buto/index.md
+          - "4-03 若葉": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_03_wakaba/index.md
+          - "4-04 妙義山": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan/index.md
+          - "4-05 ポプラ": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_05_popura/index.md
+          - "4-06 鄭成功": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_06_teiseiko/index.md
+          - "4-07 うすづき": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_07_usuzuki/index.md
+          - "4-08 夕暮の唄": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_08_yugure_no_uta/index.md
+          - "4-09 進め矢玉": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_09_susume_yadama/index.md
+          - "4-10 秋の山路": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_10_aki_no_yamaji/index.md
+          - "4-11 常磐木": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_11_tokiwagi/index.md
+          - "4-12 農商工": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko/index.md
+          - "4-13 磯の千鳥": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_13_iso_no_chidori/index.md
+          - "4-14 大漁船": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_14_tairyobune/index.md
+          - "4-15 松島": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima/index.md
+          - "4-16 春雨": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_16_harusame/index.md
+          - "4-17 奉天會戰": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_17_hoten_kaisen/index.md
+          - "4-18 初鶯": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md
+          - "4-19 告別": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/index.md
+      - 尋常科 第六學年:
+          - 總覽: shintei_jido_shoka/grade_6_2020.006.0847.0006/index.md
+          - 書訊與掃描頁: shintei_jido_shoka/grade_6_2020.006.0847.0006/0_book_info/index.md
+          - "1-01 朧月夜": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/index.md
+          - "1-02 四季の雨": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_02_shiki_no_ame/index.md
+          - "1-03 鵞鑾鼻": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_03_garanbi/index.md
+          - "1-04 織田信長": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_04_oda_nobunaga/index.md
+          - "1-05 日本海海戰": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/index.md
+          - "1-06 鱶と少年": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_06_fuka_to_shonen/index.md
+          - "1-07 小楠公": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko/index.md
+          - "1-08 雨上り": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari/index.md
+          - "1-09 蓮池": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_09_hasuike/index.md
+          - "1-10 我國兵士": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/index.md
+          - "2-01 故郷の空": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_01_kokyo_no_sora/index.md
+          - "2-02 秋": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_02_aki/index.md
+          - "2-03 汽車の旅": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_03_kisha_no_tabi/index.md
+          - "2-04 乃木大將の歌": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_04_nogi_taisho_no_uta/index.md
+          - "2-05 水師營の會見": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/index.md
+          - "2-06 ナイチンゲール": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_06_naichingeru/index.md
+          - "2-07 にぎみたま": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/index.md
+          - "2-08 霧": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_08_kiri/index.md
+          - "2-09 白虎隊": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_09_byakkotai/index.md
+          - "2-10 明治天皇御製": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md
+          - "3-01 伊勢神宮": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_01_ise_jingu/index.md
+          - "3-02 君が代の初春": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu/index.md
+          - "3-03 王政復古": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_03_osei_fukko/index.md
+          - "3-04 樂しき我家": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md
+          - "3-05 鶯": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_05_uguisu/index.md
+          - "3-06 仰げば尊し": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_06_aogeba_totoshi/index.md
+          - "4-01 日曜日": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_01_nichiyobi/index.md
+          - "4-02 兒島高徳": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_02_kojima_takanori/index.md
+          - "4-03 南洋の歌": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/index.md
+          - "4-04 尊い寶": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_04_totoi_takara/index.md
+          - "4-05 つばめ": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_05_tsubame/index.md
+          - "4-06 森の小川": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_06_mori_no_ogawa/index.md
+          - "4-07 臺灣の風景": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md
+          - "4-08 曉景": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md
+          - "4-09 朝": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_09_asa/index.md
+          - "4-10 荒城の月": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_10_kojo_no_tsuki/index.md
+          - "4-11 埴生の宿": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/index.md
+          - "4-12 小菊": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_12_kogiku/index.md
+          - "4-13 勇氣": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_13_yuki/index.md
+          - "4-14 子守唄": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_14_komoriuta/index.md
+          - "4-15 揚子江": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_15_yosuko/index.md
+          - "4-16 軍港": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_16_gunko/index.md
+          - "4-17 御稜威の光": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_17_miitsu_no_hikari/index.md
+          - "4-18 富士と新高": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_18_fuji_to_niitaka/index.md
+          - "4-19 別れ": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/index.md
+      - 高等科 男子一二年:
+          - 總覽: shintei_jido_shoka/koto_boys_2020.006.0848/index.md
+          - 書訊與掃描頁: shintei_jido_shoka/koto_boys_2020.006.0848/0_book_info/index.md
+          - "1-1-01 學友": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_01_gakuyu/index.md
+          - "1-1-02 誠實": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_02_seijitsu/index.md
+          - "1-1-03 郵便車": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_03_yubinsha/index.md
+          - "1-1-04 天兵無敵": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_04_tenpei_muteki/index.md
+          - "1-1-05 馬上の少年": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_05_bajo_no_shonen/index.md
+          - "1-1-06 軍艦旗": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_06_gunkanki/index.md
+          - "1-1-07 夏げしき": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_07_natsugeshiki/index.md
+          - "1-1-08 吉田松陰": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_08_yoshida_shoin/index.md
+          - "1-1-09 凱旋": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_09_gaisen/index.md
+          - "1-1-10 故郷": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_10_kokyo/index.md
+          - "1-2-01 海原": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_01_unabara/index.md
+          - "1-2-02 運動會": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_02_undokai/index.md
+          - "1-2-03 足柄山": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_03_ashigarayama/index.md
+          - "1-2-04 去年今夜": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_04_kyonen_konya/index.md
+          - "1-2-05 秋の聲": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_05_aki_no_koe/index.md
+          - "1-2-06 川中島": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_06_kawanakajima/index.md
+          - "1-2-07 遊獵": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_07_yuryo/index.md
+          - "1-2-08 日本男兒": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_08_nihon_danji/index.md
+          - "1-2-09 臺灣の歌": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/index.md
+          - "1-2-10 殖民の歌": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_10_shokumin_no_uta/index.md
+          - "1-3-01 千代田の宮": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_01_chiyoda_no_miya/index.md
+          - "1-3-02 集會": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_02_shukai/index.md
+          - "1-3-03 ヲーターロー": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_03_waterloo/index.md
+          - "1-3-04 憲法發布": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_04_kenpo_happu/index.md
+          - "1-3-05 櫻田門外": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_05_sakuradamon_gai/index.md
+          - "1-3-06 月の瀨": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_06_tsuki_no_se/index.md
+          - "1-3-07 軍艦マーチ": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md
+          - "1-4-01 誠の道": shintei_jido_shoka/koto_boys_2020.006.0848/1_4_01_makoto_no_michi/index.md
+          - "1-4-02 船子": shintei_jido_shoka/koto_boys_2020.006.0848/1_4_02_funako/index.md
+          - "1-5-01 朝風": shintei_jido_shoka/koto_boys_2020.006.0848/1_5_01_asakaze/index.md
+          - "1-5-02 村祭": shintei_jido_shoka/koto_boys_2020.006.0848/1_5_02_muramatsuri/index.md
+          - "1-5-03 忠臣": shintei_jido_shoka/koto_boys_2020.006.0848/1_5_03_chushin/index.md
+          - "1-5-04 夕映": shintei_jido_shoka/koto_boys_2020.006.0848/1_5_04_yubae/index.md
+          - "2-1-01 春の夕べ": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_01_haru_no_yube/index.md
+          - "2-1-02 吉野懷古": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_02_yoshino_kaiko/index.md
+          - "2-1-03 汐干狩": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_03_shiohigari/index.md
+          - "2-1-04 皇祖": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_04_koso/index.md
+          - "2-1-05 俊寛僧都": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_05_shunkan_sozu/index.md
+          - "2-1-06 海國男子": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_06_kaikoku_danshi/index.md
+          - "2-1-07 故郷の空": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_07_kokyo_no_sora/index.md
+          - "2-1-08 御國の民": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_08_mikuni_no_tami/index.md
+          - "2-2-01 納涼": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_01_noryo/index.md
+          - "2-2-02 進軍": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_02_shingun/index.md
+          - "2-2-03 急流": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_03_kyuryu/index.md
+          - "2-2-04 火砲の雷": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_04_taiho_no_ikazuchi/index.md
+          - "2-2-05 騎馬旅行": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_05_kiba_ryoko/index.md
+          - "2-2-06 箱根八里": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_06_hakone_hachiri/index.md
+          - "2-2-07 田舍の夕暮": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md
+          - "2-2-08 豐太閤": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_08_ho_taiko/index.md
+          - "2-2-09 同窓會": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_09_dosokai/index.md
+          - "2-3-01 麗はしき我國": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_01_uruwashiki_wagakuni/index.md
+          - "2-3-02 行軍": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_02_kogun/index.md
+          - "2-3-03 現人神": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_03_arahitogami/index.md
+          - "2-3-04 突貫": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_04_tokkan/index.md
+          - "2-3-05 如意輪堂": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_05_nyoirindo/index.md
+          - "2-3-06 青年の歌": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_06_seinen_no_uta/index.md
+          - "2-3-07 八洲の民": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_07_yashima_no_tami/index.md
+          - "2-3-08 心の力": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_08_kokoro_no_chikara/index.md
+          - "2-4-01 我國旗": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_01_waga_kokki/index.md
+          - "2-4-02 出陣": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_02_shutsujin/index.md
+          - "2-4-03 牧笛": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_03_bokuteki/index.md
+          - "2-4-04 健兒よ來れ": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_04_kenji_yo_kitare/index.md
+      - 高等科 女子一二年:
+          - 總覽: shintei_jido_shoka/koto_girls_2020.006.0849/index.md
+          - 書訊與掃描頁: shintei_jido_shoka/koto_girls_2020.006.0849/0_book_info/index.md
+          - "1-1-01 のどけき春": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_01_nodokeki_haru/index.md
+          - "1-1-02 漁火": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_02_isaribi/index.md
+          - "1-1-03 吉野山": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_03_yoshinoyama/index.md
+          - "1-1-04 水は流るゝ": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_04_mizu_wa_nagaruru/index.md
+          - "1-1-05 夏げしき": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_05_natsugeshiki/index.md
+          - "1-1-06 海邊眺望": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_06_kaihen_chobo/index.md
+          - "1-1-07 牽牛花": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_07_kengyuka/index.md
+          - "1-1-08 ローレライ": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_08_rorerai/index.md
+          - "1-2-01 海原": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_01_unabara/index.md
+          - "1-2-02 小鳥": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_02_kotori/index.md
+          - "1-2-03 足柄山": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_03_ashigarayama/index.md
+          - "1-2-04 秋の聲": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_04_aki_no_koe/index.md
+          - "1-2-05 大和魂": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_05_yamato_damashii/index.md
+          - "1-2-06 子守歌": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_06_komoriuta/index.md
+          - "1-2-07 雁の叫び": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_07_kari_no_sakebi/index.md
+          - "1-2-08 木靈": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama/index.md
+          - "1-2-09 臺灣の歌": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_09_taiwan_no_uta/index.md
+          - "1-2-10 勸學": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_10_kangaku/index.md
+          - "1-3-01 千代田の宮": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_01_chiyoda_no_miya/index.md
+          - "1-3-02 孝女": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_02_kojo/index.md
+          - "1-3-03 ヲーターロー": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_03_waterloo/index.md
+          - "1-3-04 才女": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_04_saijo/index.md
+          - "1-3-05 舞踏": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_05_buto/index.md
+          - "1-3-06 月の瀨": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_06_tsuki_no_se/index.md
+          - "1-3-07 祝歌": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_07_shukuka/index.md
+          - "1-4-01 御寺の鐘の音": shintei_jido_shoka/koto_girls_2020.006.0849/1_4_01_otera_no_kane/index.md
+          - "1-4-02 告別": shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md
+          - "1-5-01 朝風": shintei_jido_shoka/koto_girls_2020.006.0849/1_5_01_asakaze/index.md
+          - "1-5-02 燕": shintei_jido_shoka/koto_girls_2020.006.0849/1_5_02_tsubame/index.md
+          - "1-5-03 忠臣": shintei_jido_shoka/koto_girls_2020.006.0849/1_5_03_chushin/index.md
+          - "1-5-04 歌謠": shintei_jido_shoka/koto_girls_2020.006.0849/1_5_04_kayo/index.md
+          - "2-1-01 希望": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_01_kibo/index.md
+          - "2-1-02 野川のしらべ": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_02_nogawa_no_shirabe/index.md
+          - "2-1-03 友の睦び": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_03_tomo_no_mutsubi/index.md
+          - "2-1-04 愛らしき花": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_04_airashiki_hana/index.md
+          - "2-1-05 太田道灌": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_05_ota_dokan/index.md
+          - "2-1-06 海水浴": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_06_kaisuiyoku/index.md
+          - "2-1-07 我が駒": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_07_waga_koma/index.md
+          - "2-1-08 歸帆": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_08_kihan/index.md
+          - "2-2-01 納涼": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_01_noryo/index.md
+          - "2-2-02 急流": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_02_kyuryu/index.md
+          - "2-2-03 秋の湖上": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo/index.md
+          - "2-2-04 笛の音": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_04_fue_no_ne/index.md
+          - "2-2-05 秋夜懷友": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_05_shuya_kaiyu/index.md
+          - "2-2-06 他郷の月": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_06_takyo_no_tsuki/index.md
+          - "2-2-07 護良親王": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_07_morinaga_shinno/index.md
+          - "2-2-08 寧樂の都": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_08_nara_no_miyako/index.md
+          - "2-2-09 淡水河": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_09_tansuigawa/index.md
+          - "2-3-01 現人神": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_01_arahitogami/index.md
+          - "2-3-02 岩戸開きの曲": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_02_iwato_biraki_no_kyoku/index.md
+          - "2-3-03 豐太閤": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_03_ho_taiko/index.md
+          - "2-3-04 可憐の少女": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_04_karen_no_shojo/index.md
+          - "2-3-05 懷友": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu/index.md
+          - "2-3-06 世界の平和": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_06_sekai_no_heiwa/index.md
+          - "2-3-07 卒業の歌": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta/index.md
+          - "2-4-01 姉妹": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_01_shimai/index.md
+          - "2-4-02 牧童": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_02_bokudo/index.md
+          - "2-4-03 月夜泛舟": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_03_tsukiyo_hanshu/index.md
+          - "2-4-04 花": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_04_hana/index.md
+          - "2-4-05 埴生の宿": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md
+          - "2-4-06 高嶺": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/index.md
+          - "2-4-07 浦のあけくれ": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/index.md
+  - うたのほん（唱歌課本）:
+      - 下卷（初等科第二學年）:
+          - 總覽: utanohon/ge_2006.006.0878/index.md
+          - 書訊與掃描頁: utanohon/ge_2006.006.0878/0_book_info/index.md
+          - "1 二年生": utanohon/ge_2006.006.0878/1_ninensei/index.md
+          - "2 モモタラウ（桃太郎）": utanohon/ge_2006.006.0878/2_momotaro/index.md
+          - "3 コヒノボリ（鯉魚旗）": utanohon/ge_2006.006.0878/3_koinobori/index.md
+          - "4 ぐんかん（軍艦）": utanohon/ge_2006.006.0878/4_gunkan/index.md
+          - "5 兵たいさん（士兵先生）": utanohon/ge_2006.006.0878/5_heitaisan/index.md
+          - "6 せみ（蟬）": utanohon/ge_2006.006.0878/6_semi/index.md
+          - "7 たなばたさま（七夕樣）": utanohon/ge_2006.006.0878/7_tanabatasama/index.md
+          - "8 かへると くも（青蛙與蜘蛛）": utanohon/ge_2006.006.0878/8_kaeru_to_kumo/index.md
+          - "9 かあれん（加令／八哥）": utanohon/ge_2006.006.0878/9_kaaren/index.md
+          - "10 ひかうき（飛機）": utanohon/ge_2006.006.0878/10_hikoki/index.md
+          - "11 おまつり（祭典）": utanohon/ge_2006.006.0878/11_omatsuri/index.md
+          - "12 牛わか丸（牛若丸）": utanohon/ge_2006.006.0878/12_ushiwakamaru/index.md
+          - "13 ぺたこ（白頭殼仔／白頭翁）": utanohon/ge_2006.006.0878/13_petako/index.md
+          - "14 うらしま太郎（浦島太郎）": utanohon/ge_2006.006.0878/14_urashimataro/index.md
+          - "15 國引き（國引）": utanohon/ge_2006.006.0878/15_kunibiki/index.md
+          - "16 池の 鯉（池中的鯉魚）": utanohon/ge_2006.006.0878/16_ike_no_koi/index.md
+          - "17 くも（蜘蛛）": utanohon/ge_2006.006.0878/17_kumo/index.md
+          - "18 日本": utanohon/ge_2006.006.0878/18_nippon/index.md
+          - "19 おばあさん（老奶奶／阿嬤）": utanohon/ge_2006.006.0878/19_obaasan/index.md
+          - "20 ひな祭（女兒節／雛祭）": utanohon/ge_2006.006.0878/20_hinamatsuri/index.md
+  - 楊金土手抄唱歌帖:
+      - 考證與研究筆記: shokacho/research_notes.md
+      - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
+      - 延伸館藏與日本國會圖書館調查: archives/index.md
+      - 第 1 冊（選定唱歌筆記帳）:
+          - 總覽: shokacho/vol_01/index.md
+          - 書訊與掃描頁: shokacho/vol_01/0_book_info/index.md
+          - "P120 君が代": shokacho/vol_01/p120_kimigayo/index.md
+          - "P121 勅語奉答": shokacho/vol_01/p121_chokugo_hoto/index.md
+          - "P122 勅語奉答（あな尊しや）": shokacho/vol_01/p122_chokugo_hoto_2/index.md
+          - "P123 一月一日": shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md
+          - "P124 紀元節": shokacho/vol_01/p124_kigensetsu/index.md
+          - "P125 始政紀念日": shokacho/vol_01/p125_shisei_kinenbi/index.md
+          - "P126 天長節": shokacho/vol_01/p126_tenchosetsu/index.md
+          - "P127 朝起": shokacho/vol_01/p127_asaoki/index.md
+          - "P128 夕立": shokacho/vol_01/p128_yudachi/index.md
+          - "P129 うたのけいこ": shokacho/vol_01/p129_uta_no_keiko/index.md
+          - "P131 天然の美": shokacho/vol_01/p131_tennen_no_bi/index.md
+          - "P133 もしもしばあさん": shokacho/vol_01/p133_moshimoshi_baasan/index.md
+          - "P135 春のみつぎ": shokacho/vol_01/p135_haru_no_mitsugi/index.md
+          - "P137 雪の花": shokacho/vol_01/p137_yuki_no_hana/index.md
+          - "P139 渡りやんせ": shokacho/vol_01/p139_watariyanse/index.md
+          - "P142 圓い小山（顔あそび）": shokacho/vol_01/p142_marui_koyama/index.md
+          - "P143 機織り（手毬唄）": shokacho/vol_01/p143_hataori/index.md
+          - "P144 虫なく野辺": shokacho/vol_01/p144_mushi_naku_nobe/index.md
+          - "P145 お人形さん": shokacho/vol_01/p145_oningyosan/index.md
+          - "P146 汽車と汽船": shokacho/vol_01/p146_kisha_to_kisen/index.md
+          - "P147 お月さん": shokacho/vol_01/p147_otsukisan/index.md
+          - "P148 秋の風": shokacho/vol_01/p148_aki_no_kaze/index.md
+          - "P149 みそらの鏡": shokacho/vol_01/p149_misora_no_kagami/index.md
+          - "P150 雲雀の歌": shokacho/vol_01/p150_hibari_no_uta/index.md
+          - "P151 停車場の鈴": shokacho/vol_01/p151_teishaba_no_suzu/index.md
+          - "P152 十五夜お月さん": shokacho/vol_01/p152_jugoya_otsukisan/index.md
+          - "P153 七里が濱（女子大学校歌）": shokacho/vol_01/p153_shichirigahama/index.md
+          - "P154 旅愁": shokacho/vol_01/p154_ryoshu/index.md
+          - "P155 月": shokacho/vol_01/p155_tsuki/index.md
+          - "P156 胡蝶": shokacho/vol_01/p156_kocho/index.md
+          - "P157 羽衣": shokacho/vol_01/p157_hagoromo/index.md
+          - "P158 四季の散歩": shokacho/vol_01/p158_shiki_no_sanpo/index.md
+          - "P159 我國兵士": shokacho/vol_01/p159_wagakuni_heishi/index.md
+          - "P161 お客様": shokacho/vol_01/p161_okyakusama/index.md
+          - "P163 モリノヲトメ": shokacho/vol_01/p163_mori_no_otome/index.md
+          - "P164 アハテ床屋": shokacho/vol_01/p164_awate_tokoya/index.md
+          - "P165 行く春": shokacho/vol_01/p165_yuku_haru/index.md
+          - "P166 豊年祭": shokacho/vol_01/p166_honensai/index.md
+          - "P167 勿忘草": shokacho/vol_01/p167_wasurenagusa/index.md
+          - "P168 蟹の鋏とぎ": shokacho/vol_01/p168_kani_no_hasamitogi/index.md
+          - "P169A 兎のお耳": shokacho/vol_01/p169a_usagi_no_omimi/index.md
+          - "P169B 豊年 (輪唱歌)": shokacho/vol_01/p169b_honen/index.md
+          - "P170 蜜蜂": shokacho/vol_01/p170_mitsubachi/index.md
+          - "P171 舞踏": shokacho/vol_01/p171_buto/index.md
+          - "P173 富國強兵": shokacho/vol_01/p173_fukoku_kyohei/index.md
+          - "P175 社會奉仕": shokacho/vol_01/p175_shakai_hoshi/index.md
+          - "P177 化くらべ （滑稽歌） (變身比賽（滑稽歌）)": shokacho/vol_01/p177_bake_kurabe/index.md
+          - "P179 卒業式 (畢業典禮)": shokacho/vol_01/p179_sotsugyoshiki/index.md
+          - "P181 大禮奉祝歌 (大禮奉祝歌 — 謄寫版)": shokacho/vol_01/p181_tairei_hoshukuka/index.md
+          - "P182 明治節唱歌 (明治節唱歌 — 謄寫版)": shokacho/vol_01/p182_meijisetsu_shoka/index.md
+          - "P184 文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)": shokacho/vol_01/p184_tairei_hoshuku_shoka/index.md
+          - "P185 明治節唱歌 (明治節唱歌 — 印刷譜)": shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md
+          - "P186 青年團御大禮奉祝歌 (青年團御大禮奉祝歌)": shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/index.md
+      - 第 2 冊（II）:
+          - 總覽: shokacho/vol_02/index.md
+          - 書訊與掃描頁: shokacho/vol_02/0_book_info/index.md
+          - "P069 オサル": shokacho/vol_02/p069_osaru/index.md
+          - "P070A トンボ": shokacho/vol_02/p070a_tonbo/index.md
+          - "P070B ヒヨコ": shokacho/vol_02/p070b_hiyoko/index.md
+          - "P071 汽車": shokacho/vol_02/p071_kisha/index.md
+          - "P072 ピアノ": shokacho/vol_02/p072_piano/index.md
+          - "P073 オ日様": shokacho/vol_02/p073_ohisama/index.md
+          - "P074 軍艦": shokacho/vol_02/p074_gunkan/index.md
+          - "P075 大砲": shokacho/vol_02/p075_taiho/index.md
+          - "P076 花園": shokacho/vol_02/p076_hanazono/index.md
+          - "P077 お星様": shokacho/vol_02/p077_ohoshisama/index.md
+          - "P078 ゴモン": shokacho/vol_02/p078_gomon/index.md
+          - "P079 カタツムリ": shokacho/vol_02/p079_katatsumuri/index.md
+          - "P080 近眼のしくじり": shokacho/vol_02/p080_kingan_no_shikujiri/index.md
+          - "P081 嘆烟花": shokacho/vol_02/p081_tan_yenhua/index.md
+          - "P082 暫の別": shokacho/vol_02/p082_shibashi_no_wakare/index.md
+          - "P084 九人のくろんぼ": shokacho/vol_02/p084_kunin_no_kuronbo/index.md
+          - "P085 うぐひす": shokacho/vol_02/p085_uguisu/index.md
+          - "P086 白いボート": shokacho/vol_02/p086_shiroi_boto/index.md
+          - "P087 フリージア": shokacho/vol_02/p087_furijia/index.md
+          - "P088 同窓會（二部合唱）": shokacho/vol_02/p088_dosokai/index.md
+          - "P089 小楠公": shokacho/vol_02/p089_sho_nanko/index.md
+          - "P090 曉景（二部輪唱）": shokacho/vol_02/p090_gyokei/index.md
+          - "P092 お山の大將": shokacho/vol_02/p092_oyama_no_taisho/index.md
+          - "P093 草花": shokacho/vol_02/p093_kusabana/index.md
+          - "P094 み國の誇り": shokacho/vol_02/p094_mikuni_no_hokori/index.md
+          - "P096 摘草": shokacho/vol_02/p096_tsumikusa/index.md
+          - "P097 埴生の宿": shokacho/vol_02/p097_hanyu_no_yado/index.md
+          - "P098 君德": shokacho/vol_02/p098_kuntoku/index.md
+          - "P100 開校記念日": shokacho/vol_02/p100_kaiko_kinenbi/index.md
+          - "P102 樂しき我家": shokacho/vol_02/p102_tanoshiki_wagaya/index.md
+          - "P104 美しき天然": shokacho/vol_02/p104_utsukushiki_tennen/index.md
+          - "P106 カナリヤ": shokacho/vol_02/p106_kanariya/index.md
+          - "P107 太陽": shokacho/vol_02/p107_taiyo/index.md
+          - "P108 鬼が島": shokacho/vol_02/p108_onigashima/index.md
+          - "P109 とんび": shokacho/vol_02/p109_tonbi/index.md
+      - 第 3 冊（I）:
+          - 總覽: shokacho/vol_03/index.md
+          - 書訊與掃描頁: shokacho/vol_03/0_book_info/index.md
+          - "P035 ボート": shokacho/vol_03/p035_boto/index.md
+          - "P036 雨": shokacho/vol_03/p036_ame/index.md
+          - "P037 海（其一）": shokacho/vol_03/p037_umi/index.md
+          - "P039 海（其二）": shokacho/vol_03/p039_umi/index.md
+          - "P040 無題・三拍子曲": shokacho/vol_03/p040_mudai/index.md
+          - "P041 起床喇叭・點呼喇叭・消燈喇叭": shokacho/vol_03/p041_kisho_rappa/index.md
+          - "P042 螢の光": shokacho/vol_03/p042_hotaru_no_hikari/index.md
+          - "P043 行けども": shokacho/vol_03/p043_yukedomo/index.md
+          - "P044 皇太子殿下奉迎の歌": shokacho/vol_03/p044_kotaishi_denka_hogei_no_uta/index.md
+          - "P045 屋島合戰": shokacho/vol_03/p045_yashima_gassen/index.md
+          - "P046 雨天晴天": shokacho/vol_03/p046_uten_seiten/index.md
+          - "P047 始政紀念日": shokacho/vol_03/p047_shisei_kinembi/index.md
+          - "P048A 君が代": shokacho/vol_03/p048a_kimi_ga_yo/index.md
+          - "P048B 軍隊行進": shokacho/vol_03/p048b_guntai_koshin/index.md
+          - "P049 皇太子殿下御成婚奉祝歌": shokacho/vol_03/p049_kotaishi_denka_goseikon_hoshukuka/index.md
+          - "P051 金剛石・水は器": shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md
+          - "P053 陸軍記念日行進歌": shokacho/vol_03/p053_rikugun_kinembi_koshinka/index.md
+          - "P056 銀婚式奉祝行進歌": shokacho/vol_03/p056_ginkonshiki_hoshuku_koshinka/index.md
+          - "P057 秩父宮殿下奉迎行進歌": shokacho/vol_03/p057_chichibunomiya_denka_hogei_koshinka/index.md
+          - "P061 皇太子殿下御成婚奉祝提燈行列進行歌": shokacho/vol_03/p061_kotaishi_denka_chochin_gyoretsu_shinkoka/index.md
+          - "P062 亡友": shokacho/vol_03/p062_boyu/index.md
+          - "P063 れんげさう": shokacho/vol_03/p063_rengeso/index.md
+      - 第 7 冊（VII・蓬萊唱歌集上）:
+          - 總覽: shokacho/vol_07/index.md
+          - 書訊與掃描頁: shokacho/vol_07/0_book_info/index.md
+          - "P228 オフネ（小船）": shokacho/vol_07/p228_ofune/index.md
+          - "P229A 雨（雨）": shokacho/vol_07/p229a_ame/index.md
+          - "P229B 子守唄（搖籃曲）": shokacho/vol_07/p229b_komoriuta/index.md
+          - "P230A 山の飴屋（山上的糖果店）": shokacho/vol_07/p230a_yama_no_ameya/index.md
+          - "P230B 舞踏（舞蹈）": shokacho/vol_07/p230b_buto/index.md
+          - "P231 水グルマ（水車）": shokacho/vol_07/p231_mizuguruma/index.md
+          - "P232 オ友達（好朋友）": shokacho/vol_07/p232_otomodachi/index.md
+          - "P233 シャボン玉（肥皂泡）": shokacho/vol_07/p233_shabondama/index.md
+          - "P234 螢の學校（螢火蟲的學校）": shokacho/vol_07/p234_hotaru_no_gakko/index.md
+          - "P235 三羽ノ雀（三隻麻雀）": shokacho/vol_07/p235_sanba_no_suzume/index.md
+          - "P236 夕日（夕陽）": shokacho/vol_07/p236_yuhi/index.md
+          - "P237 兎の電報（兔子的電報）": shokacho/vol_07/p237_usagi_no_denpo/index.md
+          - "P238 南京玉（琉璃珠／南京玉）": shokacho/vol_07/p238_nankin_dama/index.md
+          - "P239 虹の橋（彩虹橋）": shokacho/vol_07/p239_niji_no_hashi/index.md
+          - "P240 ワニの子（小鱷魚）": shokacho/vol_07/p240_wani_no_ko/index.md
+          - "P241 初鶯（初鶯）": shokacho/vol_07/p241_hatsu_uguisu/index.md
+          - "P242 菜の花（油菜花）": shokacho/vol_07/p242_nanohana/index.md
+          - "P243 どんぶりこ（漂呀漂）": shokacho/vol_07/p243_donburiko/index.md
+          - "P244 牛（牛）": shokacho/vol_07/p244_ushi/index.md
+          - "P245 つばめ（燕子）": shokacho/vol_07/p245_tsubame/index.md
+          - "P246 牛よ牛よ（牛呀牛呀）": shokacho/vol_07/p246_ushi_yo_ushi_yo/index.md
+          - "P247A 春風のをどり（春風之舞）": shokacho/vol_07/p247a_harukaze_no_odori/index.md
+          - "P247B 悲歌（かちかち山の兎）": shokacho/vol_07/p247b_hika/index.md
+          - "P249 波（波浪）": shokacho/vol_07/p249_nami/index.md
+          - "P250 夕立小立 (陣雨)": shokacho/vol_07/p250_yudachi_kodachi/index.md
+          - "P251 水の流 (水流)": shokacho/vol_07/p251_mizu_no_nagare/index.md
+          - "P252 しゃぼん玉 (肥皂泡)": shokacho/vol_07/p252_shabondama/index.md
+          - "P253 火事 (火災)": shokacho/vol_07/p253_kaji/index.md
+          - "P254 ひとりぼっち (孤零零)": shokacho/vol_07/p254_hitoribocchi/index.md
+          - "P255 富士の山 (富士山)": shokacho/vol_07/p255_fuji_no_yama/index.md
+          - "P256 落葉 (落葉)": shokacho/vol_07/p256_ochiba/index.md
+          - "P257 近眼のしくじり (近視眼的失誤)": shokacho/vol_07/p257_chikame_no_shikujiri/index.md
+      - 第 8 冊（VIII・蓬萊唱歌集下）:
+          - 總覽: shokacho/vol_08/index.md
+          - 書訊與掃描頁: shokacho/vol_08/0_book_info/index.md
+          - "P005 銀杏の樹（銀杏樹）": shokacho/vol_08/p005_icho_no_ki/index.md
+          - "P006 繪本（圖畫書）": shokacho/vol_08/p006_ehon/index.md
+          - "P007 月夜の畑（月夜的田野）": shokacho/vol_08/p007_tsukiyo_no_hatake/index.md
+          - "P008 大日本（日本）": shokacho/vol_08/p008_dainippon/index.md
+          - "P009 汽車の旅（火車之旅）": shokacho/vol_08/p009_kisha_no_tabi/index.md
+          - "P010 わたしのしゃしん（我的照片）": shokacho/vol_08/p010_watashi_no_shashin/index.md
+          - "P011 菅公（菅原道真）": shokacho/vol_08/p011_kanko/index.md
+          - "P012 軍艦（軍艦）": shokacho/vol_08/p012_gunkan/index.md
+          - "P014 花のあけくれ（花的晨昏）": shokacho/vol_08/p014_hana_no_akekure/index.md
+          - "P016 霧（霧）": shokacho/vol_08/p016_kiri/index.md
+          - "P017 怒るな働け（不要發怒，努力工作）": shokacho/vol_08/p017_ikaruna_hatarake/index.md
+          - "P018 朝の祈り（早晨的祈禱）": shokacho/vol_08/p018_asa_no_inori/index.md
+          - "P019 陣營の月（軍營之月）": shokacho/vol_08/p019_jinei_no_tsuki/index.md
+          - "P020 深林逍遥（漫步深林）": shokacho/vol_08/p020_shinrin_shoyo/index.md
+          - "P021 早く家へ帰りませう（快回家吧）": shokacho/vol_08/p021_hayaku_ie_e_kaerimasho/index.md
+          - "P022 田舎の夕暮（鄉村的黃昏）": shokacho/vol_08/p022_inaka_no_yugure/index.md
+          - "P023 春は行く（春將離去）": shokacho/vol_08/p023_haru_wa_yuku/index.md
+          - "P024 夜の貝（夜之貝）": shokacho/vol_08/p024_yoru_no_kai/index.md
+          - "P025 星と花（星與花）": shokacho/vol_08/p025_hoshi_to_hana/index.md
+          - "P026 秋ノ湖上（秋日湖上）": shokacho/vol_08/p026_aki_no_kojo/index.md
+          - "P027 樂シキ我家（快樂的我家）": shokacho/vol_08/p027_tanoshiki_waga_ie/index.md
+          - "P028 少女のほこり（少女的驕傲）": shokacho/vol_08/p028_shojo_no_hokori/index.md
+      - 第 9 冊（IX・支那曲）:
+          - 總覽: shokacho/vol_09/index.md
+          - 書訊與掃描頁: shokacho/vol_09/0_book_info/index.md
+          - "P006 思春": shokacho/vol_09/0844_p006_sichun/index.md
+          - "P008 柬甫寨人の戲曲": shokacho/vol_09/0844_p008_kanbojiya_no_gikyoku/index.md
+          - "P010 小紅桃": shokacho/vol_09/0844_p010_xiaohongtao/index.md
+          - "P012 安南行進曲": shokacho/vol_09/0844_p012_annan_koshinkyoku/index.md
+      - 第 10 冊（X）:
+          - 總覽: shokacho/vol_10/index.md
+          - 書訊與掃描頁: shokacho/vol_10/0_book_info/index.md
+          - "P192A ツキトガン (月與雁)": shokacho/vol_10/p192a_tsuki_to_gan/index.md
+          - "P192B タモザハガハ (田母澤川)": shokacho/vol_10/p192b_tamozawa_gawa/index.md
+          - "P193A キンギョ (金魚)": shokacho/vol_10/p193a_kingyo/index.md
+          - "P193B サトウ (砂糖)": shokacho/vol_10/p193b_satou/index.md
+          - "P194A ウ・マ (馬)": shokacho/vol_10/p194a_uma/index.md
+          - "P194B サカ (坂)": shokacho/vol_10/p194b_saka/index.md
+          - "P195A 朧月夜 (朦朧月夜)": shokacho/vol_10/p195a_oborozukiyo/index.md
+          - "P195B 進軍 (進軍)": shokacho/vol_10/p195b_shingun/index.md
+          - "P196 二宮尊徳 (二宮尊德)": shokacho/vol_10/p196_ninomiya_sontoku/index.md
+          - "P197 送別の歌 (送別之歌)": shokacho/vol_10/p197_sobetsu_no_uta/index.md
+          - "P198 歸雁 (歸雁)": shokacho/vol_10/p198_kigan/index.md
+          - "P199 遠別離 (遠別離)": shokacho/vol_10/p199_enbetsuri/index.md
+          - "P200 夜の歸雁 （二部） (夜之歸雁（二部合唱）)": shokacho/vol_10/p200_yoru_no_kigan/index.md
+          - "P201 卒業の歌 (畢業之歌)": shokacho/vol_10/p201_sotsugyo_no_uta/index.md
+          - "P202 新高山 (新高山／玉山)": shokacho/vol_10/p202_niitakayama/index.md
+          - "P203 コロンブス (哥倫布)": shokacho/vol_10/p203_koronbusu/index.md
+          - "P204 秋の實り。 (秋之豐收)": shokacho/vol_10/p204_aki_no_minori/index.md
+          - "P205 波と磯の石 (波浪與岸邊的石頭)": shokacho/vol_10/p205_nami_to_iso_no_ishi/index.md
+          - "P206 懐友 (懷友)": shokacho/vol_10/p206_kaiyu/index.md
+          - "P207 南洋の歌 (南洋之歌)": shokacho/vol_10/p207_nanyo_no_uta/index.md
+          - "P208 燕 (燕子)": shokacho/vol_10/p208_tsubame/index.md
+          - "P209 庭球 (網球)": shokacho/vol_10/p209_teikyu/index.md
+          - "P211 助け船 (救生船)": shokacho/vol_10/p211_tasukebune/index.md
+          - "P212 汽車の旅 (火車之旅)": shokacho/vol_10/p212_kisha_no_tabi/index.md
+          - "P213 朝 (早晨)": shokacho/vol_10/p213_asa/index.md
+          - "P214 森の小鳥 (森林的小鳥)": shokacho/vol_10/p214_mori_no_kotori/index.md
+          - "P215 松島 (松島)": shokacho/vol_10/p215_matsushima/index.md
+          - "P216 妙義山 (妙義山)": shokacho/vol_10/p216_myogisan/index.md
+          - "P217 鄭成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
+          - "P220 琵琶湖 (琵琶湖)": shokacho/vol_10/p220_biwako/index.md
+          - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
   - 共益商社唱歌教科書:
       - 專題統計: kyoeki_shoka/index.md
       - 巻一（生徒用）:
@@ -169,722 +885,3 @@ nav:
           - "17 赤十字": kyoeki_shoka/kan_4_854865/17_sekijuji/index.md
           - "18 亡き友": kyoeki_shoka/kan_4_854865/18_naki_tomo/index.md
           - "19 水鳥": kyoeki_shoka/kan_4_854865/19_mizutori/index.md
-  - 楊金土手抄唱歌帖:
-      - 考證與研究筆記: shokacho/research_notes.md
-      - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
-      - 延伸館藏與日本國會圖書館調查: archives/index.md
-      - 第 1 冊（選定唱歌筆記帳）- 1923~1927 :
-          - 總覽: shokacho/vol_01/index.md
-          - 書訊與掃描頁: shokacho/vol_01/0_book_info/index.md
-          - "君が代": shokacho/vol_01/p120_kimigayo/index.md
-          - "勅語奉答": shokacho/vol_01/p121_chokugo_hoto/index.md
-          - "勅語奉答（あな尊しや）": shokacho/vol_01/p122_chokugo_hoto_2/index.md
-          - "一月一日": shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md
-          - "紀元節": shokacho/vol_01/p124_kigensetsu/index.md
-          - "始政紀念日": shokacho/vol_01/p125_shisei_kinenbi/index.md
-          - "天長節": shokacho/vol_01/p126_tenchosetsu/index.md
-          - "朝起": shokacho/vol_01/p127_asaoki/index.md
-          - "夕立": shokacho/vol_01/p128_yudachi/index.md
-          - "うたのけいこ": shokacho/vol_01/p129_uta_no_keiko/index.md
-          - "天然の美": shokacho/vol_01/p131_tennen_no_bi/index.md
-          - "もしもしばあさん": shokacho/vol_01/p133_moshimoshi_baasan/index.md
-          - "春のみつぎ": shokacho/vol_01/p135_haru_no_mitsugi/index.md
-          - "雪の花": shokacho/vol_01/p137_yuki_no_hana/index.md
-          - "渡りやんせ": shokacho/vol_01/p139_watariyanse/index.md
-          - "圓い小山（顔あそび）": shokacho/vol_01/p142_marui_koyama/index.md
-          - "機織り（手毬唄）": shokacho/vol_01/p143_hataori/index.md
-          - "虫なく野辺": shokacho/vol_01/p144_mushi_naku_nobe/index.md
-          - "お人形さん": shokacho/vol_01/p145_oningyosan/index.md
-          - "汽車と汽船": shokacho/vol_01/p146_kisha_to_kisen/index.md
-          - "お月さん": shokacho/vol_01/p147_otsukisan/index.md
-          - "秋の風": shokacho/vol_01/p148_aki_no_kaze/index.md
-          - "みそらの鏡": shokacho/vol_01/p149_misora_no_kagami/index.md
-          - "雲雀の歌": shokacho/vol_01/p150_hibari_no_uta/index.md
-          - "停車場の鈴": shokacho/vol_01/p151_teishaba_no_suzu/index.md
-          - "十五夜お月さん": shokacho/vol_01/p152_jugoya_otsukisan/index.md
-          - "七里が濱（女子大学校歌）": shokacho/vol_01/p153_shichirigahama/index.md
-          - "旅愁": shokacho/vol_01/p154_ryoshu/index.md
-          - "月": shokacho/vol_01/p155_tsuki/index.md
-          - "胡蝶": shokacho/vol_01/p156_kocho/index.md
-          - "羽衣": shokacho/vol_01/p157_hagoromo/index.md
-          - "四季の散歩": shokacho/vol_01/p158_shiki_no_sanpo/index.md
-          - "我國兵士": shokacho/vol_01/p159_wagakuni_heishi/index.md
-          - "お客様": shokacho/vol_01/p161_okyakusama/index.md
-          - "モリノヲトメ": shokacho/vol_01/p163_mori_no_otome/index.md
-          - "アハテ床屋": shokacho/vol_01/p164_awate_tokoya/index.md
-          - "行く春": shokacho/vol_01/p165_yuku_haru/index.md
-          - "豊年祭": shokacho/vol_01/p166_honensai/index.md
-          - "勿忘草": shokacho/vol_01/p167_wasurenagusa/index.md
-          - "蟹の鋏とぎ": shokacho/vol_01/p168_kani_no_hasamitogi/index.md
-          - "兎のお耳": shokacho/vol_01/p169a_usagi_no_omimi/index.md
-          - "豊年 (輪唱歌)": shokacho/vol_01/p169b_honen/index.md
-          - "蜜蜂": shokacho/vol_01/p170_mitsubachi/index.md
-          - "舞踏": shokacho/vol_01/p171_buto/index.md
-          - "富國強兵": shokacho/vol_01/p173_fukoku_kyohei/index.md
-          - "社會奉仕": shokacho/vol_01/p175_shakai_hoshi/index.md
-          - "化くらべ （滑稽歌） (變身比賽（滑稽歌）)": shokacho/vol_01/p177_bake_kurabe/index.md
-          - "卒業式 (畢業典禮)": shokacho/vol_01/p179_sotsugyoshiki/index.md
-          - "大禮奉祝歌 (大禮奉祝歌 — 謄寫版)": shokacho/vol_01/p181_tairei_hoshukuka/index.md
-          - "明治節唱歌 (明治節唱歌 — 謄寫版)": shokacho/vol_01/p182_meijisetsu_shoka/index.md
-          - "文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)": shokacho/vol_01/p184_tairei_hoshuku_shoka/index.md
-          - "明治節唱歌 (明治節唱歌 — 印刷譜)": shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md
-          - "青年團御大禮奉祝歌 (青年團御大禮奉祝歌)": shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/index.md
-      - 第 2 冊（II）1923~1927:
-          - 總覽: shokacho/vol_02/index.md
-          - 書訊與掃描頁: shokacho/vol_02/0_book_info/index.md
-          - "オサル": shokacho/vol_02/p069_osaru/index.md
-          - "トンボ": shokacho/vol_02/p070a_tonbo/index.md
-          - "ヒヨコ": shokacho/vol_02/p070b_hiyoko/index.md
-          - "汽車": shokacho/vol_02/p071_kisha/index.md
-          - "ピアノ": shokacho/vol_02/p072_piano/index.md
-          - "オ日様": shokacho/vol_02/p073_ohisama/index.md
-          - "軍艦": shokacho/vol_02/p074_gunkan/index.md
-          - "大砲": shokacho/vol_02/p075_taiho/index.md
-          - "花園": shokacho/vol_02/p076_hanazono/index.md
-          - "お星様": shokacho/vol_02/p077_ohoshisama/index.md
-          - "ゴモン": shokacho/vol_02/p078_gomon/index.md
-          - "カタツムリ": shokacho/vol_02/p079_katatsumuri/index.md
-          - "近眼のしくじり": shokacho/vol_02/p080_kingan_no_shikujiri/index.md
-          - "嘆烟花": shokacho/vol_02/p081_tan_yenhua/index.md
-          - "暫の別": shokacho/vol_02/p082_shibashi_no_wakare/index.md
-          - "九人のくろんぼ": shokacho/vol_02/p084_kunin_no_kuronbo/index.md
-          - "うぐひす": shokacho/vol_02/p085_uguisu/index.md
-          - "白いボート": shokacho/vol_02/p086_shiroi_boto/index.md
-          - "フリージア": shokacho/vol_02/p087_furijia/index.md
-          - "同窓會（二部合唱）": shokacho/vol_02/p088_dosokai/index.md
-          - "小楠公": shokacho/vol_02/p089_sho_nanko/index.md
-          - "曉景（二部輪唱）": shokacho/vol_02/p090_gyokei/index.md
-          - "お山の大將": shokacho/vol_02/p092_oyama_no_taisho/index.md
-          - "草花": shokacho/vol_02/p093_kusabana/index.md
-          - "み國の誇り": shokacho/vol_02/p094_mikuni_no_hokori/index.md
-          - "摘草": shokacho/vol_02/p096_tsumikusa/index.md
-          - "埴生の宿": shokacho/vol_02/p097_hanyu_no_yado/index.md
-          - "君德": shokacho/vol_02/p098_kuntoku/index.md
-          - "開校記念日": shokacho/vol_02/p100_kaiko_kinenbi/index.md
-          - "樂しき我家": shokacho/vol_02/p102_tanoshiki_wagaya/index.md
-          - "美しき天然": shokacho/vol_02/p104_utsukushiki_tennen/index.md
-          - "カナリヤ": shokacho/vol_02/p106_kanariya/index.md
-          - "太陽": shokacho/vol_02/p107_taiyo/index.md
-          - "鬼が島": shokacho/vol_02/p108_onigashima/index.md
-          - "とんび": shokacho/vol_02/p109_tonbi/index.md
-      - 第 3 冊（I）1923~1927:
-          - 總覽: shokacho/vol_03/index.md
-          - 書訊與掃描頁: shokacho/vol_03/0_book_info/index.md
-          - "ボート": shokacho/vol_03/p035_boto/index.md
-          - "雨": shokacho/vol_03/p036_ame/index.md
-          - "海（其一）": shokacho/vol_03/p037_umi/index.md
-          - "海（其二）": shokacho/vol_03/p039_umi/index.md
-          - "無題・三拍子曲": shokacho/vol_03/p040_mudai/index.md
-          - "起床喇叭・點呼喇叭・消燈喇叭": shokacho/vol_03/p041_kisho_rappa/index.md
-          - "螢の光": shokacho/vol_03/p042_hotaru_no_hikari/index.md
-          - "行けども": shokacho/vol_03/p043_yukedomo/index.md
-          - "皇太子殿下奉迎の歌": shokacho/vol_03/p044_kotaishi_denka_hogei_no_uta/index.md
-          - "屋島合戰": shokacho/vol_03/p045_yashima_gassen/index.md
-          - "雨天晴天": shokacho/vol_03/p046_uten_seiten/index.md
-          - "始政紀念日": shokacho/vol_03/p047_shisei_kinembi/index.md
-          - "君が代": shokacho/vol_03/p048a_kimi_ga_yo/index.md
-          - "軍隊行進": shokacho/vol_03/p048b_guntai_koshin/index.md
-          - "皇太子殿下御成婚奉祝歌": shokacho/vol_03/p049_kotaishi_denka_goseikon_hoshukuka/index.md
-          - "金剛石・水は器": shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md
-          - "陸軍記念日行進歌": shokacho/vol_03/p053_rikugun_kinembi_koshinka/index.md
-          - "銀婚式奉祝行進歌": shokacho/vol_03/p056_ginkonshiki_hoshuku_koshinka/index.md
-          - "秩父宮殿下奉迎行進歌": shokacho/vol_03/p057_chichibunomiya_denka_hogei_koshinka/index.md
-          - "皇太子殿下御成婚奉祝提燈行列進行歌": shokacho/vol_03/p061_kotaishi_denka_chochin_gyoretsu_shinkoka/index.md
-          - "亡友": shokacho/vol_03/p062_boyu/index.md
-          - "れんげさう": shokacho/vol_03/p063_rengeso/index.md
-      - 第 7 冊（VII・蓬萊唱歌集上）1923~1927:
-          - 總覽: shokacho/vol_07/index.md
-          - 書訊與掃描頁: shokacho/vol_07/0_book_info/index.md
-          - "オフネ（小船）": shokacho/vol_07/p228_ofune/index.md
-          - "雨（雨）": shokacho/vol_07/p229a_ame/index.md
-          - "子守唄（搖籃曲）": shokacho/vol_07/p229b_komoriuta/index.md
-          - "山の飴屋（山上的糖果店）": shokacho/vol_07/p230a_yama_no_ameya/index.md
-          - "舞踏（舞蹈）": shokacho/vol_07/p230b_buto/index.md
-          - "水グルマ（水車）": shokacho/vol_07/p231_mizuguruma/index.md
-          - "オ友達（好朋友）": shokacho/vol_07/p232_otomodachi/index.md
-          - "シャボン玉（肥皂泡）": shokacho/vol_07/p233_shabondama/index.md
-          - "螢の學校（螢火蟲的學校）": shokacho/vol_07/p234_hotaru_no_gakko/index.md
-          - "三羽ノ雀（三隻麻雀）": shokacho/vol_07/p235_sanba_no_suzume/index.md
-          - "夕日（夕陽）": shokacho/vol_07/p236_yuhi/index.md
-          - "兎の電報（兔子的電報）": shokacho/vol_07/p237_usagi_no_denpo/index.md
-          - "南京玉（琉璃珠／南京玉）": shokacho/vol_07/p238_nankin_dama/index.md
-          - "虹の橋（彩虹橋）": shokacho/vol_07/p239_niji_no_hashi/index.md
-          - "ワニの子（小鱷魚）": shokacho/vol_07/p240_wani_no_ko/index.md
-          - "初鶯（初鶯）": shokacho/vol_07/p241_hatsu_uguisu/index.md
-          - "菜の花（油菜花）": shokacho/vol_07/p242_nanohana/index.md
-          - "どんぶりこ（漂呀漂）": shokacho/vol_07/p243_donburiko/index.md
-          - "牛（牛）": shokacho/vol_07/p244_ushi/index.md
-          - "つばめ（燕子）": shokacho/vol_07/p245_tsubame/index.md
-          - "牛よ牛よ（牛呀牛呀）": shokacho/vol_07/p246_ushi_yo_ushi_yo/index.md
-          - " 春風のをどり（春風之舞）": shokacho/vol_07/p247a_harukaze_no_odori/index.md
-          - " 悲歌（かちかち山の兎）": shokacho/vol_07/p247b_hika/index.md
-          - "波（波浪）": shokacho/vol_07/p249_nami/index.md
-          - "夕立小立 (陣雨)": shokacho/vol_07/p250_yudachi_kodachi/index.md
-          - "水の流 (水流)": shokacho/vol_07/p251_mizu_no_nagare/index.md
-          - "しゃぼん玉 (肥皂泡)": shokacho/vol_07/p252_shabondama/index.md
-          - "火事 (火災)": shokacho/vol_07/p253_kaji/index.md
-          - "ひとりぼっち (孤零零)": shokacho/vol_07/p254_hitoribocchi/index.md
-          - "富士の山 (富士山)": shokacho/vol_07/p255_fuji_no_yama/index.md
-          - "落葉 (落葉)": shokacho/vol_07/p256_ochiba/index.md
-          - "近眼のしくじり (近視眼的失誤)": shokacho/vol_07/p257_chikame_no_shikujiri/index.md
-      - 第 8 冊（VIII・蓬萊唱歌集下）1923~1927:
-          - 總覽: shokacho/vol_08/index.md
-          - 書訊與掃描頁: shokacho/vol_08/0_book_info/index.md
-          - "銀杏の樹（銀杏樹）": shokacho/vol_08/p005_icho_no_ki/index.md
-          - "繪本（圖畫書）": shokacho/vol_08/p006_ehon/index.md
-          - "月夜の畑（月夜的田野）": shokacho/vol_08/p007_tsukiyo_no_hatake/index.md
-          - "大日本（日本）": shokacho/vol_08/p008_dainippon/index.md
-          - "汽車の旅（火車之旅）": shokacho/vol_08/p009_kisha_no_tabi/index.md
-          - "わたしのしゃしん（我的照片）": shokacho/vol_08/p010_watashi_no_shashin/index.md
-          - "菅公（菅原道真）": shokacho/vol_08/p011_kanko/index.md
-          - "軍艦（軍艦）": shokacho/vol_08/p012_gunkan/index.md
-          - "花のあけくれ（花的晨昏）": shokacho/vol_08/p014_hana_no_akekure/index.md
-          - "霧（霧）": shokacho/vol_08/p016_kiri/index.md
-          - "怒るな働け（不要發怒，努力工作）": shokacho/vol_08/p017_ikaruna_hatarake/index.md
-          - "朝の祈り（早晨的祈禱）": shokacho/vol_08/p018_asa_no_inori/index.md
-          - "陣營の月（軍營之月）": shokacho/vol_08/p019_jinei_no_tsuki/index.md
-          - "深林逍遥（漫步深林）": shokacho/vol_08/p020_shinrin_shoyo/index.md
-          - "早く家へ帰りませう（快回家吧）": shokacho/vol_08/p021_hayaku_ie_e_kaerimasho/index.md
-          - "田舎の夕暮（鄉村的黃昏）": shokacho/vol_08/p022_inaka_no_yugure/index.md
-          - "春は行く（春將離去）": shokacho/vol_08/p023_haru_wa_yuku/index.md
-          - "夜の貝（夜之貝）": shokacho/vol_08/p024_yoru_no_kai/index.md
-          - "星と花（星與花）": shokacho/vol_08/p025_hoshi_to_hana/index.md
-          - "秋ノ湖上（秋日湖上）": shokacho/vol_08/p026_aki_no_kojo/index.md
-          - "樂シキ我家（快樂的我家）": shokacho/vol_08/p027_tanoshiki_waga_ie/index.md
-          - "少女のほこり（少女的驕傲）": shokacho/vol_08/p028_shojo_no_hokori/index.md
-      - 第 9 冊（IX・支那曲）1923~1927:
-          - 總覽: shokacho/vol_09/index.md
-          - 書訊與掃描頁: shokacho/vol_09/0_book_info/index.md
-          - "思春": shokacho/vol_09/0844_p006_sichun/index.md
-          - "柬甫寨人の戲曲": shokacho/vol_09/0844_p008_kanbojiya_no_gikyoku/index.md
-          - "小紅桃": shokacho/vol_09/0844_p010_xiaohongtao/index.md
-          - "安南行進曲": shokacho/vol_09/0844_p012_annan_koshinkyoku/index.md
-      - 第 10 冊（X）1923~1927:
-          - 總覽: shokacho/vol_10/index.md
-          - 書訊與掃描頁: shokacho/vol_10/0_book_info/index.md
-          - "ツキトガン (月與雁)": shokacho/vol_10/p192a_tsuki_to_gan/index.md
-          - "タモザハガハ (田母澤川)": shokacho/vol_10/p192b_tamozawa_gawa/index.md
-          - "キンギョ (金魚)": shokacho/vol_10/p193a_kingyo/index.md
-          - "サトウ (砂糖)": shokacho/vol_10/p193b_satou/index.md
-          - "ウ・マ (馬)": shokacho/vol_10/p194a_uma/index.md
-          - "サカ (坂)": shokacho/vol_10/p194b_saka/index.md
-          - "朧月夜 (朦朧月夜)": shokacho/vol_10/p195a_oborozukiyo/index.md
-          - "進軍 (進軍)": shokacho/vol_10/p195b_shingun/index.md
-          - "宮尊徳 (二宮尊德)": shokacho/vol_10/p196_ninomiya_sontoku/index.md
-          - "別の歌 (送別之歌)": shokacho/vol_10/p197_sobetsu_no_uta/index.md
-          - "雁 (歸雁)": shokacho/vol_10/p198_kigan/index.md
-          - "別離 (遠別離)": shokacho/vol_10/p199_enbetsuri/index.md
-          - "の歸雁 （二部） (夜之歸雁（二部合唱）)": shokacho/vol_10/p200_yoru_no_kigan/index.md
-          - "業の歌 (畢業之歌)": shokacho/vol_10/p201_sotsugyo_no_uta/index.md
-          - "高山 (新高山／玉山)": shokacho/vol_10/p202_niitakayama/index.md
-          - "ロンブス (哥倫布)": shokacho/vol_10/p203_koronbusu/index.md
-          - "の實り。 (秋之豐收)": shokacho/vol_10/p204_aki_no_minori/index.md
-          - "と磯の石 (波浪與岸邊的石頭)": shokacho/vol_10/p205_nami_to_iso_no_ishi/index.md
-          - "友 (懷友)": shokacho/vol_10/p206_kaiyu/index.md
-          - "洋の歌 (南洋之歌)": shokacho/vol_10/p207_nanyo_no_uta/index.md
-          - " (燕子)": shokacho/vol_10/p208_tsubame/index.md
-          - "球 (網球)": shokacho/vol_10/p209_teikyu/index.md
-          - "け船 (救生船)": shokacho/vol_10/p211_tasukebune/index.md
-          - "車の旅 (火車之旅)": shokacho/vol_10/p212_kisha_no_tabi/index.md
-          - " (早晨)": shokacho/vol_10/p213_asa/index.md
-          - "の小鳥 (森林的小鳥)": shokacho/vol_10/p214_mori_no_kotori/index.md
-          - "島 (松島)": shokacho/vol_10/p215_matsushima/index.md
-          - "義山 (妙義山)": shokacho/vol_10/p216_myogisan/index.md
-          - "成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
-          - "琶湖 (琵琶湖)": shokacho/vol_10/p220_biwako/index.md
-          - "狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
-  - 新定兒童唱歌:
-      - 專題統計: shintei_jido_shoka/index.md
-      - 尋常科 第一學年 - 1930 年版:
-          - 總覽: shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md
-          - 書訊與掃描頁: shintei_jido_shoka/grade_1_2020.006.0847.0001/0_book_info/index.md
-          - "0-01 君が代": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md
-          - "0-02 勅語奉答": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/index.md
-          - "0-03 天長節": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md
-          - "0-04 紀元節": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/index.md
-          - "0-05 一月一日": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md
-          - "0-06 明治節": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_06_meijisetsu/index.md
-          - "0-07 始政記念日": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/index.md
-          - "0-08 卒業式歌": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/index.md
-          - "0-09 金剛石": shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/index.md
-          - "1-01 ヒノマルノハタ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata/index.md
-          - "1-02 ハト": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_02_hato/index.md
-          - "1-03 ヒヨコ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_03_hiyoko/index.md
-          - "1-04 イヌ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_04_inu/index.md
-          - "1-05 イケノコヒ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_05_ike_no_koi/index.md
-          - "1-06 カタツムリ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/index.md
-          - "1-07 アサガホ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao/index.md
-          - "1-08 オホシサマ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_08_ohoshisama/index.md
-          - "1-09 カザグルマトコドモ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_09_kazaguruma_to_kodomo/index.md
-          - "1-10 一スンボウシ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_10_issunboshi/index.md
-          - "1-11 フエトタイコ": shintei_jido_shoka/grade_1_2020.006.0847.0001/1_11_fue_to_taiko/index.md
-          - "2-01 ウサギトカメ": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_01_usagi_to_kame/index.md
-          - "2-02 フンスヰ": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_02_funsui/index.md
-          - "2-03 カラス": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_03_karasu/index.md
-          - "2-04 ウシワカマル": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru/index.md
-          - "2-05 ハナ": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/index.md
-          - "2-06 オヤウシコウシ": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_06_oyaushi_koushi/index.md
-          - "2-07 ネコトカヘル": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_07_neko_to_kaeru/index.md
-          - "2-08 ツキ": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki/index.md
-          - "2-09 シタキリスズメ": shintei_jido_shoka/grade_1_2020.006.0847.0001/2_09_shitakiri_suzume/index.md
-          - "3-01 ガクタイアソビ": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_01_gakutai_asobi/index.md
-          - "3-02 ニンギヤウ": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_ningyo/index.md
-          - "3-03 カーレンサン": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/index.md
-          - "3-04 ヒカウキ": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/index.md
-          - "3-05 スヰギウ": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu/index.md
-          - "3-06 サル・カニ": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_06_sarukani/index.md
-          - "3-07 タンジヤウビ": shintei_jido_shoka/grade_1_2020.006.0847.0001/3_07_tanjobi/index.md
-          - "4-01 ガクカウ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_01_gakko/index.md
-          - "4-02 一ネンセイ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_02_ichinensei/index.md
-          - "4-03 オクワシノキシヤ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_03_okashi_no_kisha/index.md
-          - "4-04 キンタラウ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_04_kintaro/index.md
-          - "4-05 アメ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/index.md
-          - "4-06 カザグルマ・ミヅグルマ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_06_kazaguruma_mizuguruma/index.md
-          - "4-07 ササノフネ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_07_sasa_no_fune/index.md
-          - "4-08 ウミ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_08_umi/index.md
-          - "4-09 アリ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/index.md
-          - "4-10 フタリノヘイタイサン": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_10_futari_no_heitaisan/index.md
-          - "4-11 デンシヤ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_11_densha/index.md
-          - "4-12 イヌノシバヰ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_12_inu_no_shibai/index.md
-          - "4-13 ムシノコヱ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_13_mushi_no_koe/index.md
-          - "4-14 スズフルオウマ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_14_suzu_furu_ouma/index.md
-          - "4-15 オツキサマ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_15_otsukisama/index.md
-          - "4-16 ユフヤケコヤケ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_16_yuyake_koyake/index.md
-          - "4-17 チンコロヘイタイ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_17_chinkoro_heitai/index.md
-          - "4-18 モチツキ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_18_mochitsuki/index.md
-          - "4-19 オシヤウグワツ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_19_oshogatsu/index.md
-          - "4-20 チヨダノオシロ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_20_chiyoda_no_oshiro/index.md
-          - "4-21 オサル": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/index.md
-          - "4-22 スズメ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/index.md
-          - "4-23 トキ": shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/index.md
-      - 尋常科 第二學年 - 1930 年版:
-          - 總覽: shintei_jido_shoka/grade_2_2020.006.0847.0002/index.md
-          - 書訊與掃描頁: shintei_jido_shoka/grade_2_2020.006.0847.0002/0_book_info/index.md
-          - "1-01 サクラ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/index.md
-          - "1-02 ヨクマナビ ヨクアソベ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/index.md
-          - "1-03 水グルマ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md
-          - "1-04 小ウマ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/index.md
-          - "1-05 カヘル ト クモ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md
-          - "1-06 コガハ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_06_kogawa/index.md
-          - "1-07 ヒヨコ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_07_hiyoko/index.md
-          - "1-08 シヤボンダマ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama/index.md
-          - "1-09 キンギヨ": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_09_kingyo/index.md
-          - "1-10 五一ヂイサン": shintei_jido_shoka/grade_2_2020.006.0847.0002/1_10_goichi_jiisan/index.md
-          - "2-01 カゴノムシ": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_01_kago_no_mushi/index.md
-          - "2-02 十五ヤ": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_02_jugoya/index.md
-          - "2-03 とけいのうた": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_03_tokei_no_uta/index.md
-          - "2-04 ももたらう": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_04_momotaro/index.md
-          - "2-05 たこのうた": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_05_tako_no_uta/index.md
-          - "2-06 かかし": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_06_kakashi/index.md
-          - "2-07 あひる": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_07_ahiru/index.md
-          - "2-08 水牛": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md
-          - "2-09 うらしま太郎": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro/index.md
-          - "2-10 山びこ": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_10_yamabiko/index.md
-          - "2-11 木のは": shintei_jido_shoka/grade_2_2020.006.0847.0002/2_11_ki_no_ha/index.md
-          - "3-01 だるま": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_01_daruma/index.md
-          - "3-02 なすのよいち": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_02_nasu_no_yoichi/index.md
-          - "3-03 田うゑ": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_03_taue/index.md
-          - "3-04 大こくさま": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_04_daikoku_sama/index.md
-          - "3-05 いはひ日": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_05_iwaibi/index.md
-          - "3-06 七面鳥": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/index.md
-          - "3-07 花さかぢぢい": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md
-          - "3-08 春が來た": shintei_jido_shoka/grade_2_2020.006.0847.0002/3_08_haru_ga_kita/index.md
-          - "4-01 ヒバリ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_01_hibari/index.md
-          - "4-02 テフトハルカゼ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_02_cho_to_harukaze/index.md
-          - "4-03 三バノツバメ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_03_sanba_no_tsubame/index.md
-          - "4-04 アワテトコヤ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_04_awate_tokoya/index.md
-          - "4-05 ハコニハ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa/index.md
-          - "4-06 ヲノノタウフウ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_06_ono_no_tofu/index.md
-          - "4-07 カヘル": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_07_kaeru/index.md
-          - "4-08 フウリン": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_08_furin/index.md
-          - "4-09 デンシンバシラ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_09_denshin_bashira/index.md
-          - "4-10 ユフヒ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_10_yuhi/index.md
-          - "4-11 一ツボシ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_11_hitotsuboshi/index.md
-          - "4-12 半カケオ月サン": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_12_hankake_otsukisan/index.md
-          - "4-13 がん": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_13_gan/index.md
-          - "4-14 ふじ山": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_14_fujisan/index.md
-          - "4-15 まはりつこ": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_15_mawarikko/index.md
-          - "4-16 おきやくさま": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/index.md
-          - "4-17 にたんの四郎": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_17_nitan_no_shiro/index.md
-          - "4-18 にぐるま": shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma/index.md
-      - 尋常科 第三學年 - 1930 年版:
-          - 總覽: shintei_jido_shoka/grade_3_2020.006.0847.0003/index.md
-          - 書訊與掃描頁: shintei_jido_shoka/grade_3_2020.006.0847.0003/0_book_info/index.md
-          - "1-01 森の樂隊": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_01_mori_no_gakutai/index.md
-          - "1-02 天の岩屋": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_02_ama_no_iwaya/index.md
-          - "1-03 かゞやく光": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_03_kagayaku_hikari/index.md
-          - "1-04 村のかぢや": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_04_mura_no_kajiya/index.md
-          - "1-05 蝶": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_05_cho/index.md
-          - "1-06 鯉のぼり": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/index.md
-          - "1-07 かみなりさま": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_07_kaminarisama/index.md
-          - "1-08 虹": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/index.md
-          - "1-09 長いお休": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/index.md
-          - "1-10 夏の歌": shintei_jido_shoka/grade_3_2020.006.0847.0003/1_10_natsu_no_uta/index.md
-          - "2-01 蟲の樂隊（蟲之樂隊）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_01_mushi_no_gakutai/index.md
-          - "2-02 八岐の大蛇（八岐大蛇）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_02_yamata_no_orochi/index.md
-          - "2-03 日の丸のはた（日之丸國旗）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/index.md
-          - "2-04 お祭日（祭典之日）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md
-          - "2-05 日本武尊": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_05_yamato_takeru_no_mikoto/index.md
-          - "2-06 取入れ（秋收）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/index.md
-          - "2-07 臺灣行進歌": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/index.md
-          - "2-08 運動會": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/index.md
-          - "2-09 港": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/index.md
-          - "2-10 汽車（火車）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_10_kisha/index.md
-          - "2-11 にじ（彩虹）": shintei_jido_shoka/grade_3_2020.006.0847.0003/2_11_niji/index.md
-          - "3-01 大日本": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon/index.md
-          - "3-02 おもひやり（體貼同理）": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_02_omoiyari/index.md
-          - "3-03 町の朝（街鎮之晨）": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_03_machi_no_asa/index.md
-          - "3-04 炭やき（燒炭）": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_04_sumiyaki/index.md
-          - "3-05 神風": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_05_kamikaze/index.md
-          - "3-06 蓄音機（留聲機）": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki/index.md
-          - "3-07 常夏の島": shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/index.md
-          - "4-01 綱ひき": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_01_tsunahiki/index.md
-          - "4-02 花瓶の花": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_02_kabin_no_hana/index.md
-          - "4-03 こんこん小雉子": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_03_konkon_kokiji/index.md
-          - "4-04 ねむり人形": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_04_nemuri_ningyo/index.md
-          - "4-05 けむり": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_05_kemuri/index.md
-          - "4-06 僕等は少年だ": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_06_bokura_wa_shonen_da/index.md
-          - "4-07 お庭のラヂオ": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_07_oniwa_no_rajio/index.md
-          - "4-08 鵯越": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_08_hiyodorigoe/index.md
-          - "4-09 蓮の葉の露": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_09_hasu_no_ha_no_tsuyu/index.md
-          - "4-10 遠足の歌": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_10_ensoku_no_uta/index.md
-          - "4-11 波がざんぶりこ": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_11_nami_ga_zanburiko/index.md
-          - "4-12 小舟": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_12_kobune/index.md
-          - "4-13 郵便函": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_13_yubinbako/index.md
-          - "4-14 活動寫眞": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_14_katsudo_shashin/index.md
-          - "4-15 猿の猿眞似": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_15_saru_no_sarumane/index.md
-          - "4-16 梅に鶯": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_16_ume_ni_uguisu/index.md
-          - "4-17 進軍": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_17_shingun/index.md
-          - "4-18 雛菊": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_18_hinagiku/index.md
-          - "4-19 青い小鳥": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_19_aoi_kotori/index.md
-          - "4-20 冬の朝": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_20_fuyu_no_asa/index.md
-          - "4-21 キャベツ": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_21_kyabetsu/index.md
-          - "4-22 夏季休業": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_22_kaki_kyugyo/index.md
-          - "4-23 冬季休業": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_23_toki_kyugyo/index.md
-          - "4-24 始業式": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_24_shigyoshiki/index.md
-          - "4-25 終業式": shintei_jido_shoka/grade_3_2020.006.0847.0003/4_25_shugyoshiki/index.md
-      - 尋常科 第四學年 - 1930 年版:
-          - 總覽: shintei_jido_shoka/grade_4_2020.006.0847.0004/index.md
-          - 書訊與掃描頁: shintei_jido_shoka/grade_4_2020.006.0847.0004/0_book_info/index.md
-          - "1-01 春の小川": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_01_haru_no_ogawa/index.md
-          - "1-02 菅公": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_02_kanko/index.md
-          - "1-03 ジャンク": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_03_janku/index.md
-          - "1-04 蠶": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_04_kaiko/index.md
-          - "1-05 初夏の夜": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_05_shoka_no_yoru/index.md
-          - "1-06 行軍": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_06_kogun/index.md
-          - "1-07 能久親王": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_07_yoshihisa_shinno/index.md
-          - "1-08 夕立": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi/index.md
-          - "1-09 雲": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_09_kumo/index.md
-          - "1-10 千引の岩": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_10_chibiki_no_iwa/index.md
-          - "2-01 鷲": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_01_washi/index.md
-          - "2-02 漁船": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_02_gyosen/index.md
-          - "2-03 二宮尊徳": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku/index.md
-          - "2-04 遠足": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_04_ensoku/index.md
-          - "2-05 觀兵式": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_05_kanpeishiki/index.md
-          - "2-06 つゆと虫": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_06_tsuyu_to_mushi/index.md
-          - "2-07 新井白石": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_07_arai_hakuseki/index.md
-          - "2-08 燈臺": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_08_todai/index.md
-          - "2-09 農家の秋": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_09_noka_no_aki/index.md
-          - "2-10 千里の山河": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_10_senri_no_sanga/index.md
-          - "2-11 これぞ臺灣": shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan/index.md
-          - "3-01 國旗": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_01_kokki/index.md
-          - "3-02 雞": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_02_niwatori/index.md
-          - "3-03 いかだかづら": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_03_ikadakazura/index.md
-          - "3-04 我が帝國": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_04_waga_teikoku/index.md
-          - "3-05 忍耐": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_05_nintai/index.md
-          - "3-06 競馬": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_06_keiba/index.md
-          - "3-07 富士登山": shintei_jido_shoka/grade_4_2020.006.0847.0004/3_07_fuji_tozan/index.md
-          - "4-01 花ざかり": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_01_hanazakari/index.md
-          - "4-02 春の丘": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_02_haru_no_oka/index.md
-          - "4-03 二つの蝶": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_03_futatsu_no_cho/index.md
-          - "4-04 羽衣": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo/index.md
-          - "4-05 初夏の朝": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_05_shoka_no_asa/index.md
-          - "4-06 螢": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_06_hotaru/index.md
-          - "4-07 さみだれ": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_07_samidare/index.md
-          - "4-08 黃金虫": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_08_kogane_mushi/index.md
-          - "4-09 秋の野": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_09_aki_no_no/index.md
-          - "4-10 航海": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai/index.md
-          - "4-11 流れ星": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_11_nagareboshi/index.md
-          - "4-12 海へ": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_12_umi_e/index.md
-          - "4-13 お月さん": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_13_otsukisan/index.md
-          - "4-14 軍人": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_14_gunjin/index.md
-          - "4-15 とんび": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi/index.md
-          - "4-16 秋夕": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_16_shuseki/index.md
-          - "4-17 百舌鳥": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_17_mozu/index.md
-          - "4-18 日本男兒": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_18_nihon_danji/index.md
-          - "4-19 かなりや": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya/index.md
-          - "4-20 どんぶりこ": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko/index.md
-          - "4-21 新築落成の歌（新築落成式）": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_21_shinchiku_rakuseishiki/index.md
-          - "4-22 學校記念日": shintei_jido_shoka/grade_4_2020.006.0847.0004/4_22_gakko_kinenbi/index.md
-      - 尋常科 第五學年 - 1930 年版:
-          - 總覽: shintei_jido_shoka/grade_5_2020.006.0847.0005/index.md
-          - 書訊與掃描頁: shintei_jido_shoka/grade_5_2020.006.0847.0005/0_book_info/index.md
-          - "1-01 春の野": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md
-          - "1-02 神木": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku/index.md
-          - "1-03 日東帝國": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_03_nitto_teikoku/index.md
-          - "1-04 夏は來ぬ": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_04_natsu_wa_kinu/index.md
-          - "1-05 夏の興": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_05_natsu_no_kyo/index.md
-          - "1-06 瀧鶴臺の妻": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_06_taki_kakudai_no_tsuma/index.md
-          - "1-07 心と心": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_07_kokoro_to_kokoro/index.md
-          - "1-08 海": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi/index.md
-          - "1-09 星の界": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_09_hoshi_no_yo/index.md
-          - "1-10 納涼": shintei_jido_shoka/grade_5_2020.006.0847.0005/1_10_noryo/index.md
-          - "2-01 朝の歌": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_01_asa_no_uta/index.md
-          - "2-02 秋景": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_02_shukei/index.md
-          - "2-03 コスモスボート": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_03_kosumosu_boto/index.md
-          - "2-04 飛行機": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md
-          - "2-05 航海": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_05_kokai/index.md
-          - "2-06 新高山": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_06_niitakayama/index.md
-          - "2-07 助船": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md
-          - "2-08 もみぢ": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_08_momiji/index.md
-          - "2-09 つり橋": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_09_tsuribashi/index.md
-          - "2-10 傳書鳩": shintei_jido_shoka/grade_5_2020.006.0847.0005/2_10_denshobato/index.md
-          - "3-01 愛國": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_01_aikoku/index.md
-          - "3-02 捕鯨船": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_02_hogeisen/index.md
-          - "3-03 六氏先生": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_03_rokushi_sensei/index.md
-          - "3-04 軍艦": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md
-          - "3-05 象": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_05_zo/index.md
-          - "3-06 平和なる村": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_06_heiwa_naru_mura/index.md
-          - "3-07 廣瀨中佐": shintei_jido_shoka/grade_5_2020.006.0847.0005/3_07_hirose_chusa/index.md
-          - "4-01 雲雀": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_01_hibari/index.md
-          - "4-02 舞踏": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_02_buto/index.md
-          - "4-03 若葉": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_03_wakaba/index.md
-          - "4-04 妙義山": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan/index.md
-          - "4-05 ポプラ": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_05_popura/index.md
-          - "4-06 鄭成功": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_06_teiseiko/index.md
-          - "4-07 うすづき": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_07_usuzuki/index.md
-          - "4-08 夕暮の唄": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_08_yugure_no_uta/index.md
-          - "4-09 進め矢玉": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_09_susume_yadama/index.md
-          - "4-10 秋の山路": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_10_aki_no_yamaji/index.md
-          - "4-11 常磐木": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_11_tokiwagi/index.md
-          - "4-12 農商工": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko/index.md
-          - "4-13 磯の千鳥": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_13_iso_no_chidori/index.md
-          - "4-14 大漁船": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_14_tairyobune/index.md
-          - "4-15 松島": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima/index.md
-          - "4-16 春雨": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_16_harusame/index.md
-          - "4-17 奉天會戰": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_17_hoten_kaisen/index.md
-          - "4-18 初鶯": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md
-          - "4-19 告別": shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/index.md
-      - 尋常科 第六學年 - 1930 年版:
-          - 總覽: shintei_jido_shoka/grade_6_2020.006.0847.0006/index.md
-          - 書訊與掃描頁: shintei_jido_shoka/grade_6_2020.006.0847.0006/0_book_info/index.md
-          - "1-01 朧月夜": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/index.md
-          - "1-02 四季の雨": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_02_shiki_no_ame/index.md
-          - "1-03 鵞鑾鼻": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_03_garanbi/index.md
-          - "1-04 織田信長": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_04_oda_nobunaga/index.md
-          - "1-05 日本海海戰": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/index.md
-          - "1-06 鱶と少年": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_06_fuka_to_shonen/index.md
-          - "1-07 小楠公": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko/index.md
-          - "1-08 雨上り": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari/index.md
-          - "1-09 蓮池": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_09_hasuike/index.md
-          - "1-10 我國兵士": shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/index.md
-          - "2-01 故郷の空": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_01_kokyo_no_sora/index.md
-          - "2-02 秋": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_02_aki/index.md
-          - "2-03 汽車の旅": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_03_kisha_no_tabi/index.md
-          - "2-04 乃木大將の歌": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_04_nogi_taisho_no_uta/index.md
-          - "2-05 水師營の會見": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/index.md
-          - "2-06 ナイチンゲール": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_06_naichingeru/index.md
-          - "2-07 にぎみたま": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/index.md
-          - "2-08 霧": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_08_kiri/index.md
-          - "2-09 白虎隊": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_09_byakkotai/index.md
-          - "2-10 明治天皇御製": shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md
-          - "3-01 伊勢神宮": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_01_ise_jingu/index.md
-          - "3-02 君が代の初春": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu/index.md
-          - "3-03 王政復古": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_03_osei_fukko/index.md
-          - "3-04 樂しき我家": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md
-          - "3-05 鶯": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_05_uguisu/index.md
-          - "3-06 仰げば尊し": shintei_jido_shoka/grade_6_2020.006.0847.0006/3_06_aogeba_totoshi/index.md
-          - "4-01 日曜日": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_01_nichiyobi/index.md
-          - "4-02 兒島高徳": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_02_kojima_takanori/index.md
-          - "4-03 南洋の歌": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/index.md
-          - "4-04 尊い寶": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_04_totoi_takara/index.md
-          - "4-05 つばめ": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_05_tsubame/index.md
-          - "4-06 森の小川": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_06_mori_no_ogawa/index.md
-          - "4-07 臺灣の風景": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md
-          - "4-08 曉景": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md
-          - "4-09 朝": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_09_asa/index.md
-          - "4-10 荒城の月": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_10_kojo_no_tsuki/index.md
-          - "4-11 埴生の宿": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/index.md
-          - "4-12 小菊": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_12_kogiku/index.md
-          - "4-13 勇氣": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_13_yuki/index.md
-          - "4-14 子守唄": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_14_komoriuta/index.md
-          - "4-15 揚子江": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_15_yosuko/index.md
-          - "4-16 軍港": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_16_gunko/index.md
-          - "4-17 御稜威の光": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_17_miitsu_no_hikari/index.md
-          - "4-18 富士と新高": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_18_fuji_to_niitaka/index.md
-          - "4-19 別れ": shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/index.md
-      - 高等科 男子一二年 - 1930 年版:
-          - 總覽: shintei_jido_shoka/koto_boys_2020.006.0848/index.md
-          - 書訊與掃描頁: shintei_jido_shoka/koto_boys_2020.006.0848/0_book_info/index.md
-          - "1-1-01 學友": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_01_gakuyu/index.md
-          - "1-1-02 誠實": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_02_seijitsu/index.md
-          - "1-1-03 郵便車": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_03_yubinsha/index.md
-          - "1-1-04 天兵無敵": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_04_tenpei_muteki/index.md
-          - "1-1-05 馬上の少年": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_05_bajo_no_shonen/index.md
-          - "1-1-06 軍艦旗": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_06_gunkanki/index.md
-          - "1-1-07 夏げしき": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_07_natsugeshiki/index.md
-          - "1-1-08 吉田松陰": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_08_yoshida_shoin/index.md
-          - "1-1-09 凱旋": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_09_gaisen/index.md
-          - "1-1-10 故郷": shintei_jido_shoka/koto_boys_2020.006.0848/1_1_10_kokyo/index.md
-          - "1-2-01 海原": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_01_unabara/index.md
-          - "1-2-02 運動會": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_02_undokai/index.md
-          - "1-2-03 足柄山": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_03_ashigarayama/index.md
-          - "1-2-04 去年今夜": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_04_kyonen_konya/index.md
-          - "1-2-05 秋の聲": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_05_aki_no_koe/index.md
-          - "1-2-06 川中島": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_06_kawanakajima/index.md
-          - "1-2-07 遊獵": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_07_yuryo/index.md
-          - "1-2-08 日本男兒": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_08_nihon_danji/index.md
-          - "1-2-09 臺灣の歌": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/index.md
-          - "1-2-10 殖民の歌": shintei_jido_shoka/koto_boys_2020.006.0848/1_2_10_shokumin_no_uta/index.md
-          - "1-3-01 千代田の宮": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_01_chiyoda_no_miya/index.md
-          - "1-3-02 集會": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_02_shukai/index.md
-          - "1-3-03 ヲーターロー": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_03_waterloo/index.md
-          - "1-3-04 憲法發布": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_04_kenpo_happu/index.md
-          - "1-3-05 櫻田門外": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_05_sakuradamon_gai/index.md
-          - "1-3-06 月の瀨": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_06_tsuki_no_se/index.md
-          - "1-3-07 軍艦マーチ": shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md
-          - "1-4-01 誠の道": shintei_jido_shoka/koto_boys_2020.006.0848/1_4_01_makoto_no_michi/index.md
-          - "1-4-02 船子": shintei_jido_shoka/koto_boys_2020.006.0848/1_4_02_funako/index.md
-          - "1-5-01 朝風": shintei_jido_shoka/koto_boys_2020.006.0848/1_5_01_asakaze/index.md
-          - "1-5-02 村祭": shintei_jido_shoka/koto_boys_2020.006.0848/1_5_02_muramatsuri/index.md
-          - "1-5-03 忠臣": shintei_jido_shoka/koto_boys_2020.006.0848/1_5_03_chushin/index.md
-          - "1-5-04 夕映": shintei_jido_shoka/koto_boys_2020.006.0848/1_5_04_yubae/index.md
-          - "2-1-01 春の夕べ": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_01_haru_no_yube/index.md
-          - "2-1-02 吉野懷古": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_02_yoshino_kaiko/index.md
-          - "2-1-03 汐干狩": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_03_shiohigari/index.md
-          - "2-1-04 皇祖": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_04_koso/index.md
-          - "2-1-05 俊寛僧都": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_05_shunkan_sozu/index.md
-          - "2-1-06 海國男子": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_06_kaikoku_danshi/index.md
-          - "2-1-07 故郷の空": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_07_kokyo_no_sora/index.md
-          - "2-1-08 御國の民": shintei_jido_shoka/koto_boys_2020.006.0848/2_1_08_mikuni_no_tami/index.md
-          - "2-2-01 納涼": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_01_noryo/index.md
-          - "2-2-02 進軍": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_02_shingun/index.md
-          - "2-2-03 急流": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_03_kyuryu/index.md
-          - "2-2-04 火砲の雷": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_04_taiho_no_ikazuchi/index.md
-          - "2-2-05 騎馬旅行": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_05_kiba_ryoko/index.md
-          - "2-2-06 箱根八里": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_06_hakone_hachiri/index.md
-          - "2-2-07 田舍の夕暮": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md
-          - "2-2-08 豐太閤": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_08_ho_taiko/index.md
-          - "2-2-09 同窓會": shintei_jido_shoka/koto_boys_2020.006.0848/2_2_09_dosokai/index.md
-          - "2-3-01 麗はしき我國": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_01_uruwashiki_wagakuni/index.md
-          - "2-3-02 行軍": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_02_kogun/index.md
-          - "2-3-03 現人神": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_03_arahitogami/index.md
-          - "2-3-04 突貫": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_04_tokkan/index.md
-          - "2-3-05 如意輪堂": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_05_nyoirindo/index.md
-          - "2-3-06 青年の歌": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_06_seinen_no_uta/index.md
-          - "2-3-07 八洲の民": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_07_yashima_no_tami/index.md
-          - "2-3-08 心の力": shintei_jido_shoka/koto_boys_2020.006.0848/2_3_08_kokoro_no_chikara/index.md
-          - "2-4-01 我國旗": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_01_waga_kokki/index.md
-          - "2-4-02 出陣": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_02_shutsujin/index.md
-          - "2-4-03 牧笛": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_03_bokuteki/index.md
-          - "2-4-04 健兒よ來れ": shintei_jido_shoka/koto_boys_2020.006.0848/2_4_04_kenji_yo_kitare/index.md
-      - 高等科 女子一二年 - 1930 年版:
-          - 總覽: shintei_jido_shoka/koto_girls_2020.006.0849/index.md
-          - 書訊與掃描頁: shintei_jido_shoka/koto_girls_2020.006.0849/0_book_info/index.md
-          - "1-1-01 のどけき春": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_01_nodokeki_haru/index.md
-          - "1-1-02 漁火": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_02_isaribi/index.md
-          - "1-1-03 吉野山": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_03_yoshinoyama/index.md
-          - "1-1-04 水は流るゝ": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_04_mizu_wa_nagaruru/index.md
-          - "1-1-05 夏げしき": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_05_natsugeshiki/index.md
-          - "1-1-06 海邊眺望": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_06_kaihen_chobo/index.md
-          - "1-1-07 牽牛花": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_07_kengyuka/index.md
-          - "1-1-08 ローレライ": shintei_jido_shoka/koto_girls_2020.006.0849/1_1_08_rorerai/index.md
-          - "1-2-01 海原": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_01_unabara/index.md
-          - "1-2-02 小鳥": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_02_kotori/index.md
-          - "1-2-03 足柄山": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_03_ashigarayama/index.md
-          - "1-2-04 秋の聲": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_04_aki_no_koe/index.md
-          - "1-2-05 大和魂": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_05_yamato_damashii/index.md
-          - "1-2-06 子守歌": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_06_komoriuta/index.md
-          - "1-2-07 雁の叫び": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_07_kari_no_sakebi/index.md
-          - "1-2-08 木靈": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama/index.md
-          - "1-2-09 臺灣の歌": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_09_taiwan_no_uta/index.md
-          - "1-2-10 勸學": shintei_jido_shoka/koto_girls_2020.006.0849/1_2_10_kangaku/index.md
-          - "1-3-01 千代田の宮": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_01_chiyoda_no_miya/index.md
-          - "1-3-02 孝女": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_02_kojo/index.md
-          - "1-3-03 ヲーターロー": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_03_waterloo/index.md
-          - "1-3-04 才女": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_04_saijo/index.md
-          - "1-3-05 舞踏": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_05_buto/index.md
-          - "1-3-06 月の瀨": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_06_tsuki_no_se/index.md
-          - "1-3-07 祝歌": shintei_jido_shoka/koto_girls_2020.006.0849/1_3_07_shukuka/index.md
-          - "1-4-01 御寺の鐘の音": shintei_jido_shoka/koto_girls_2020.006.0849/1_4_01_otera_no_kane/index.md
-          - "1-4-02 告別": shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md
-          - "1-5-01 朝風": shintei_jido_shoka/koto_girls_2020.006.0849/1_5_01_asakaze/index.md
-          - "1-5-02 燕": shintei_jido_shoka/koto_girls_2020.006.0849/1_5_02_tsubame/index.md
-          - "1-5-03 忠臣": shintei_jido_shoka/koto_girls_2020.006.0849/1_5_03_chushin/index.md
-          - "1-5-04 歌謠": shintei_jido_shoka/koto_girls_2020.006.0849/1_5_04_kayo/index.md
-          - "2-1-01 希望": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_01_kibo/index.md
-          - "2-1-02 野川のしらべ": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_02_nogawa_no_shirabe/index.md
-          - "2-1-03 友の睦び": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_03_tomo_no_mutsubi/index.md
-          - "2-1-04 愛らしき花": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_04_airashiki_hana/index.md
-          - "2-1-05 太田道灌": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_05_ota_dokan/index.md
-          - "2-1-06 海水浴": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_06_kaisuiyoku/index.md
-          - "2-1-07 我が駒": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_07_waga_koma/index.md
-          - "2-1-08 歸帆": shintei_jido_shoka/koto_girls_2020.006.0849/2_1_08_kihan/index.md
-          - "2-2-01 納涼": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_01_noryo/index.md
-          - "2-2-02 急流": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_02_kyuryu/index.md
-          - "2-2-03 秋の湖上": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo/index.md
-          - "2-2-04 笛の音": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_04_fue_no_ne/index.md
-          - "2-2-05 秋夜懷友": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_05_shuya_kaiyu/index.md
-          - "2-2-06 他郷の月": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_06_takyo_no_tsuki/index.md
-          - "2-2-07 護良親王": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_07_morinaga_shinno/index.md
-          - "2-2-08 寧樂の都": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_08_nara_no_miyako/index.md
-          - "2-2-09 淡水河": shintei_jido_shoka/koto_girls_2020.006.0849/2_2_09_tansuigawa/index.md
-          - "2-3-01 現人神": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_01_arahitogami/index.md
-          - "2-3-02 岩戸開きの曲": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_02_iwato_biraki_no_kyoku/index.md
-          - "2-3-03 豐太閤": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_03_ho_taiko/index.md
-          - "2-3-04 可憐の少女": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_04_karen_no_shojo/index.md
-          - "2-3-05 懷友": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu/index.md
-          - "2-3-06 世界の平和": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_06_sekai_no_heiwa/index.md
-          - "2-3-07 卒業の歌": shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta/index.md
-          - "2-4-01 姉妹": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_01_shimai/index.md
-          - "2-4-02 牧童": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_02_bokudo/index.md
-          - "2-4-03 月夜泛舟": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_03_tsukiyo_hanshu/index.md
-          - "2-4-04 花": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_04_hana/index.md
-          - "2-4-05 埴生の宿": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md
-          - "2-4-06 高嶺": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/index.md
-          - "2-4-07 浦のあけくれ": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/index.md
-  - 公學校唱歌:
-      - 第三學年用 - 1942 年版:
-          - 總覽: kogakko_shoka/grade_3/index.md
-          - 書訊與掃描頁: kogakko_shoka/grade_3/0_book_info/index.md
-          - "1 あをば（青葉）": kogakko_shoka/grade_3/1_awoba/index.md
-          - "2 だいしゃ（台車）": kogakko_shoka/grade_3/2_daisha/index.md
-          - "3 村のかぢや（村之鍛冶屋）": kogakko_shoka/grade_3/3_muranokajiya/index.md
-          - "4 牛車": kogakko_shoka/grade_3/4_gyusha/index.md
-          - "5 ながいお休（長假）": kogakko_shoka/grade_3/5_nagaioyasumi/index.md
-          - "6 せみ（蟬）": kogakko_shoka/grade_3/6_semi/index.md
-          - "7 すゐれん（睡蓮）": kogakko_shoka/grade_3/7_suiren/index.md
-          - "8 おまつり日（祭典之日）": kogakko_shoka/grade_3/8_omatsuribi/index.md
-          - "9 にじ（彩虹）": kogakko_shoka/grade_3/9_niji/index.md
-          - "10 うんどうくわい（運動會）": kogakko_shoka/grade_3/10_undokai/index.md
-          - "11 きしゃ（火車）": kogakko_shoka/grade_3/11_kisha/index.md
-          - "12 大日本": kogakko_shoka/grade_3/12_dainippon/index.md
-          - "13 おぢいさん（老爺爺）": kogakko_shoka/grade_3/13_ojiisan/index.md
-          - "14 すみやき（燒炭）": kogakko_shoka/grade_3/14_sumiyaki/index.md
-          - "15 白さぎ（白鷺鷥）": kogakko_shoka/grade_3/15_shirasagi/index.md
-  - うたのほん（唱歌課本）:
-      - 下卷（初等科第二學年） - 1943 年版:
-          - 總覽: utanohon/ge_2006.006.0878/index.md
-          - 書訊與掃描頁: utanohon/ge_2006.006.0878/0_book_info/index.md
-          - "1 二年生": utanohon/ge_2006.006.0878/1_ninensei/index.md
-          - "2 モモタラウ（桃太郎）": utanohon/ge_2006.006.0878/2_momotaro/index.md
-          - "3 コヒノボリ（鯉魚旗）": utanohon/ge_2006.006.0878/3_koinobori/index.md
-          - "4 ぐんかん（軍艦）": utanohon/ge_2006.006.0878/4_gunkan/index.md
-          - "5 兵たいさん（士兵先生）": utanohon/ge_2006.006.0878/5_heitaisan/index.md
-          - "6 せみ（蟬）": utanohon/ge_2006.006.0878/6_semi/index.md
-          - "7 たなばたさま（七夕樣）": utanohon/ge_2006.006.0878/7_tanabatasama/index.md
-          - "8 かへると くも（青蛙與蜘蛛）": utanohon/ge_2006.006.0878/8_kaeru_to_kumo/index.md
-          - "9 かあれん（加令／八哥）": utanohon/ge_2006.006.0878/9_kaaren/index.md
-          - "10 ひかうき（飛機）": utanohon/ge_2006.006.0878/10_hikoki/index.md
-          - "11 おまつり（祭典）": utanohon/ge_2006.006.0878/11_omatsuri/index.md
-          - "12 牛わか丸（牛若丸）": utanohon/ge_2006.006.0878/12_ushiwakamaru/index.md
-          - "13 ぺたこ（白頭殼仔／白頭翁）": utanohon/ge_2006.006.0878/13_petako/index.md
-          - "14 うらしま太郎（浦島太郎）": utanohon/ge_2006.006.0878/14_urashimataro/index.md
-          - "15 國引き（國引）": utanohon/ge_2006.006.0878/15_kunibiki/index.md
-          - "16 池の 鯉（池中的鯉魚）": utanohon/ge_2006.006.0878/16_ike_no_koi/index.md
-          - "17 くも（蜘蛛）": utanohon/ge_2006.006.0878/17_kumo/index.md
-          - "18 日本": utanohon/ge_2006.006.0878/18_nippon/index.md
-          - "19 おばあさん（老奶奶／阿嬤）": utanohon/ge_2006.006.0878/19_obaasan/index.md
-          - "20 ひな祭（女兒節／雛祭）": utanohon/ge_2006.006.0878/20_hinamatsuri/index.md
-  - 再創作:
-      - "《公學校唱歌》第三學年室內樂組曲": recreations/kogakko_shoka_grade3_suite/index.md
