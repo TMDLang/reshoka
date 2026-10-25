@@ -69,15 +69,15 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 A2 A2 A2 A2 | F2 F2 F2 F2 | G2 G2 F2 G2 | A6 z2 |
 c4 c2 c2 | A2 A2 F2 F2 | G2 G2 G2 A2 | F6 z2 |
-d2 d2 d2 d2 | c2 c2 A2 A2 | c2 c2 A4 | G6 z2 |
-A2 A2 A2 A2 | G2 G2 F2 F2 | G2 G2 F4 | D6 z2 |
+d2 d2 d2 d2 | c2 c2 A2 A2 | c4 c2 A2 | G6 z2 |
+A2 A2 A2 A2 | G2 G2 F2 F2 | G4 G2 F2 | D6 z2 |
 C2 C2 F2 F2 | A2 A2 c2 c2 | G2 G2 G2 A2 | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ohoshisama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5a9bh59uOm7Y-btj5unqegpcWlaKtgYcFlb6vgxmVjpG9iB9L8YuW893tmPZ-_-Wnf_KeTep7s6HzZ3Ac29tnsTUCZZ0sXvFjW_axxJZLMi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-y4v2eDlCQ6gGDVA8UpECGgeH7PZ1KXFz6Wgq21AJcCgoKQK89m73jxeb2Fyu6XnS0A90F9PXT1hXPprUDXfF0Q--z9k6FAAMjY72sgvT3e3qAil8uaFQo0FOwAPLg7n42Zz6QrWCh8HLZNKBDgYEDMvzFqv3PGpaDjO3ufTFzPlD0cfMMoOCTXT1AkadrJwCtcFN4umQ5UEwBGOoKQFGwbmDg9DxuWvu4ec3jpiWPm7sfN_RygQwEWgaiwPE3CRJ5IFlgRILI1Y-b1oO0NLeBFTWvAClq7nvcPB_Eblr2uGkHlNHQAFINTALNQMbOx80dEFMXPW5uedzcCNIDVAFKIcseN7c_bl4E5k4B61kFUbqZaKUg0Tawy1aD5dC44GQINAXk-l0QT-7qgdgB9D_QGqAU0IVdj5u2PG7eBPIwSO8SsH3dEHXroOpAvkJSCjIdi2q8ngTZuRJCEuFPDNVAPwCDH2jdemgQI3OxeXVHJyyqgO5q2giKRqBl0JjsAtsNDCygBdAoBUY6MEmATYE7BygCsgwouPJx8wI8kQlUAXN2EzBtQIzE4kPs6iDuw5Wa9oOSEii5dUDjnfLsCQUKWvpcXP4Z-cDyuDgxN9EqIDMxL9-hxqBGoRpkj4KNhZYdmIGtaFCA5NAXC3sUNEwUnm7of76-QQeenzWxaADaBjKsRsEYCmsUDKGwRsEICA2BGCSrC4QGCjXgeMRt964ecuw2BZptCoQQVyDsNoK6hzi7d3SSY7cZFIJcYQoNAQhLF-wKoux-Ons2ZWEOCWlEmIPsNosnNtCnkBXo8SAEsRTkCEgEYAv2Wi4uXTsFRJpUAPKUubgA)]
-- [鋼琴伴奏 TMD 檔案](ohoshisama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx8-zHTdsfN2193Dzv_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcFlb6vgxmVjpG9ix1WnoPRiJVD9rOfzNz_tm_90Us-THZ0vm_uUQDLPZm8CyjxbuuDFsu5njSuRZF6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVAVxoZGBnoGRiY6RlYmJgDGQaGQIcqcXH5Z-QXZ2QWJ-YmWgVkJublB3k41BjUKFRzKQCBjYWWHZihr6Vgiw4UIJa8WNijoGGi8HRD__P1DToKAQZGxnpZBemaWDRo6YMNq1EwhsIaBUMorFEwAkJDIAbJ6gKhgUINF367d_WQY7cp0GxTIIS4AmG3EdQ9xNm9o5Mcu82gEOQKU2gIQFi6YFcQZffT2bMpC3NISCPCHGS3WTyxgT6FrECPByGIpSBHQCIAW7DXYiZJH5QkaQJNkkBN8QrRhrHIDNN4IMs0HioGMo5UlSZAYRMUlShasBgJNskQbBIS0wS7Yjz2Az2ua6eA8LsCBk-ZiwsA)]
+- [主旋律 TMD 檔案](ohoshisama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5a9bh59uOm7Y-btj5unqegpcWlaKtgYcFlb6vgxmVjpG9iB9L8YuW893tmPZ-_-Wnf_KeTep7s6HzZ3Ac29tnsTUCZZ0sXvFjW_axxJZLMi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-y4v2eDlCQ6gGDVA8UpECGgeH7PZ1KXFz6Wgq21AJcCgoKQK89m73jxeb2Fyu6XnS0A90F9PXT1hXPprUDXfF0Q--z9k6FAAMjY72sgvT3e3qAil8uaFQo0FOwAPLg7n42Zz6QrWCh8HLZNKBDgYEDMvzFqv3PGpaDjO3ufTFzPlD0cfMMoOCTXT1AkadrJwCtcFN4umQ5UEwBGOoKQFGwbmDg9DxuWvu4ec3jpiWPm7sfN_RygQwEWgaiwPE3CRJ5IFlgRILI1Y-b1oO0NLeBFTWvAClq7nvcPB_Eblr2uGkHlNHQAFINTALNQMbOx80dEFMXPW5uedzcCNIDVAFKIcseN7c_bl4E5k4B61kFUbqZaKUg0Tawy1aD5dC44GQINAXk-l0QT-7qgdgB9D_QGqAU0IVdj5u2PG7eBPIwSO8SsH3dEHXroOpAvkJSCjIdi2q8ngTZuRJCEuFPDNVAPwCDH2jdemgQI3OxeXVHJyyqgO5q2giKRqBl0JjsAtsNDCygBdAoBUY6MEmATYE7BygCsgwouPJx8wI8kQlUAXN2EzBtQIzE4kPs6iDuw5Wa9oOSEii5dUDjnfLsCQUKWvpcXP4Z-cDyuDgxN9EqIDMxL9-hxqBGoRpkj4KNhZYdmIGtaFCA5NAXC3sUNEwUnm7of76-QQeenzWxaADaBjKsRsEYCmsUDKGwRsEICA2BGCSrC4QGCjXgeMRt964ecuw2BZptCoQQVyDsNoK6hzi7d3SSY7cZFIJcYQoNAYh7QCwj4ux-Ons2ZWEOCWmIv3XBbKDL4okN9ClkBXo8CEEsBTkCEgHYgr2Wi0vXTgGRJhWAPGUuLgA)]
+- [鋼琴伴奏 TMD 檔案](ohoshisama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx8-zHTdsfN2193Dzv_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcFlb6vgxmVjpG9ix1WnoPRiJVD9rOfzNz_tm_90Us-THZ0vm_uUQDLPZm8CyjxbuuDFsu5njSuRZF6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVAVxoZGBnoGRiY6RlYmJgDGQaGQIcqcXH5Z-QXZ2QWJ-YmWgVkJublB3k41BjUKFRzKQCBjYWWHZihr6Vgiw4UIJa8WNijoGGi8HRD__P1DToKAQZGxnpZBemaWDRo6YMNq1EwhsIaBUMorFEwAkJDIAbJ6gKhgUINF367d_WQY7cp0GxTIIS4AmG3EdQ9xNm9o5Mcu82gEOQKU2gIQNwDYhkRZ_fT2bMpC3NISEP8rQtmA10WT2ygTyEr0ONBCGIpyBGQCMAW7LWYSdIHJUmaQJMkUFO8QrRhLDLDNB7IMo2HioGMI1WlCVDYBEUlihYsRoJNMgSbhMQ0wa4Yj_1Aj-vaKSD8roDBU-biAgA)]
 
 ## 分析
 
@@ -98,11 +98,11 @@ C2 C2 F2 F2 | A2 A2 c2 c2 | G2 G2 G2 A2 | F6 z2 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  A, F, G, C, D
-   - 調性數值:    F 大調 [相關度: 0.78, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.78), A 小調 (0.65), C 大調 (0.63)
+   - 調性數值:    F 大調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.77), C 大調 (0.67), A 小調 (0.65)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Ohoshisama #1]: F 大調 (r: 0.78, 自然音純度: 100.0%)
+     • [Ohoshisama #1]: F 大調 (r: 0.77, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -115,16 +115,16 @@ C2 C2 F2 F2 | A2 A2 c2 c2 | G2 G2 G2 A2 | F6 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████            16.0%
+     C  : ████████████████          17.3%
      C# :                            0.0%
      D  : ████████                   9.3%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ██████████████████████    25.3%
+     F  : ██████████████████████    24.0%
      F# :                            0.0%
-     G  : ██████████████████        21.3%
+     G  : ████████████████████      22.7%
      G# :                            0.0%
-     A  : ████████████████████████  28.0%
+     A  : ████████████████████████  26.7%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
