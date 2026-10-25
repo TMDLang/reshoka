@@ -12,6 +12,8 @@ audio: "kisho_rappa.mp3"
 
 # 起床喇叭・點呼喇叭・消燈喇叭
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kisho_rappa.mp3"></audio>
 
 - 出處：《唱歌帖》（2020.006.0843）P041.jpg (bottom)（7. 貼附喇叭譜）

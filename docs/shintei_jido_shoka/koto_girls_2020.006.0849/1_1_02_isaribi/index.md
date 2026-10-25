@@ -12,6 +12,8 @@ audio: "isaribi.mp3"
 
 # 漁火
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="isaribi.mp3"></audio>
 
 - 詞：杉谷代水

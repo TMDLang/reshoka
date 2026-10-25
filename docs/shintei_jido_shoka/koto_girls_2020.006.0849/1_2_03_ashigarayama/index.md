@@ -12,6 +12,8 @@ audio: "ashigarayama.mp3"
 
 # 足柄山
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ashigarayama.mp3"></audio>
 
 - 詞：國定高等小學讀本所載

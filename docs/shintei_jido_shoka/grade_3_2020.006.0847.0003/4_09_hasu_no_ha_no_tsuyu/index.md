@@ -12,6 +12,8 @@ audio: "hasu_no_ha_no_tsuyu.mp3"
 
 # 蓮の葉の露
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hasu_no_ha_no_tsuyu.mp3"></audio>
 
 - 詞：葛原齒

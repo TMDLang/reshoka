@@ -12,6 +12,8 @@ audio: "teiseiko.mp3"
 
 # 鄭成功 (鄭成功 - 未完成草稿)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="teiseiko.mp3"></audio>
 
 - 公學校唱歌帳 (P217, 241頁)

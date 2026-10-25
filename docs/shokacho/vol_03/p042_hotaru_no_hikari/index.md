@@ -12,6 +12,8 @@ audio: "hotaru_no_hikari.mp3"
 
 # 螢の光
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hotaru_no_hikari.mp3"></audio>
 
 - 詞：稲垣千穎

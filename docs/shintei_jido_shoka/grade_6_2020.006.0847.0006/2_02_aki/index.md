@@ -12,6 +12,8 @@ audio: "aki.mp3"
 
 # 秋
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="aki.mp3"></audio>
 
 - 文部省

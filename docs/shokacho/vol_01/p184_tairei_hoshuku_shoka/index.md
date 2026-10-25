@@ -12,6 +12,8 @@ audio: "tairei_hoshuku_shoka.mp3"
 
 # 文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tairei_hoshuku_shoka.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供

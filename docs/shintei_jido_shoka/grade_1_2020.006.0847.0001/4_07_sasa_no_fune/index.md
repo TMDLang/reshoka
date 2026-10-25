@@ -12,6 +12,8 @@ audio: "sasa_no_fune.mp3"
 
 # ササノフネ（竹葉船）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="sasa_no_fune.mp3"></audio>
 
 - 曲：近藤義次

@@ -12,6 +12,8 @@ audio: "biwako.mp3"
 
 # 琵琶湖
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="biwako.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第十四～十五頁（第二學期第二曲）

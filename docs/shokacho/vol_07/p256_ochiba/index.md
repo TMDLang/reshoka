@@ -12,6 +12,8 @@ audio: "ochiba.mp3"
 
 # 落葉 (落葉)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ochiba.mp3"></audio>
 
 - 公學校唱歌帳 補遺 — 女子リードアルバム・蓬 71頁ヨリ

@@ -12,6 +12,8 @@ audio: "asa.mp3"
 
 # 朝 (早晨)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="asa.mp3"></audio>
 
 - 公學校唱歌帳 (P213, 285頁, 昭和2年1月29日)

@@ -12,6 +12,8 @@ audio: "hoyu.mp3"
 
 # 朋友
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hoyu.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第十～十一頁（第五曲）

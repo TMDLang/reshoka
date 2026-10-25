@@ -12,6 +12,8 @@ audio: "futari_no_heitaisan.mp3"
 
 # フタリノヘイタイサン（兩個小兵）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="futari_no_heitaisan.mp3"></audio>
 
 - 詞：北原白秋

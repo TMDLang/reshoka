@@ -12,6 +12,8 @@ audio: "hayaku_ie_e_kaerimasho.mp3"
 
 # 早く家へ帰りませう（快回家吧）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hayaku_ie_e_kaerimasho.mp3"></audio>
 
 - 出處：一年 / 刊りすより（昭2.11.30）

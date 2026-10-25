@@ -12,6 +12,8 @@ audio: "ningyo.mp3"
 
 # 人形
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ningyo.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第四十～四十一頁（女生徒專用曲第三曲）

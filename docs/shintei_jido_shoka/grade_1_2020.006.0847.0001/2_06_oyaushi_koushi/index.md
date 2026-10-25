@@ -12,6 +12,8 @@ audio: "oyaushi_koushi.mp3"
 
 # オヤウシコウシ（母牛與小牛）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="oyaushi_koushi.mp3"></audio>
 
 - 詞：三木露風
@@ -58,14 +60,14 @@ Q:1/4=96
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-c4 d4 c4 A4 | d4 c4 c4 z4 | d4 d2 d2 c4 A4 | G4 d2 F2 G4 z4 |
+c4 d4 c4 A4 | d4 c4 c4 z4 | d4 d2 d2 c4 A4 | G4 D2 F2 G4 z4 |
 A6 A2 A4 c4 | d4 d4 c4 z4 | d6 c2 A4 G2 F2 | G4 A2 G2 F4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](oyaushi_koushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG5a9bh5yeOmZY-btj9u2gxhvN_T8Wx97_PO2S862p9u6Acy3u_pVNDS4lK0VbA047K3VXDjsjHRN7EDmfti5bz3e2Y92dH5bM6Kl3M2vVy0Amzdi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAugQUIDqAQNUDxSgQIaBIdAtSlz6WgrPZm96Pnvdi1Wrns3o41JQUHiyY-2zae0vli9-2d4NdNGz_v6n61dD_PF0Ug_EH89n73iyby6I3LPl-ayWF8tWPWtufdzQxKWlzwUy05ZaAOSgp33zn83e8WJz-4sVXcCQBHoVGFZPW1cAXQn02NMNvc_aOxUCDIzN9LIK0t_v6QEqfrmgUaFAT8EI6MkeUFjs6gGGxbM584FsBTOFl8umAT0P9BvI9Ber9j9rWA4yt7v3xcz5QNHHzTOAgk9nzwaKPF07AWiHm8LTJcuBYgrAyFIAioJ1AwO853HT6sfN_Y-bgDG_6XFz9-OGXi5IEDaAKKyJAizRvAjEaZ70uGnN46b1j5vXPG5eDdGx_3Hz5sfNcx439z1unv-4ufFx8yaIji6wXStAykGMGUBNELt29RCwC2jRVJBdzZseNy163Dz5cXMbRMf2x83Nj5vnghwBcgrQVIgjQMqBpoFJVLt2dEJ0bgWJg2xZAXIomAGRADpu6-PmCWBtKxGaUdwB8jPQ6tbHzQsgmiBuhpBIOihPPVCgAEqV_pWJpcACyDsfRFoFZCbm5TvUGNQoVIOsUrCx0LIDM7AlXgVIdnqxsEdBw0QBlAPWN-jAU5wmFg1AC0GG1SiYKugCE5wumDYG4ho4D4QN4CJmQIhQYwQWMQTTYDXg0Mfttl095LgNZBfIRhANshvmEnS3gfggNUZAF0HcZgxmw9xWy8Wla6eAEr4KQAFlLgA)]
-- [鋼琴伴奏 TMD 檔案](oyaushi_koushi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx85LHTcseN21_3LQZwni_p-Nl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKliacdnbKrhx2Zjom9hx1SkovVg57_2eWU92dD6bs-LlnE0vF61QAgu373reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVAhxgZGBnoGRiY6RlYmJgDGQaGQLcocXH5VyaWFmdkeueDSKuAzMS8_CAPhxqDGoVqLgUgsLHQsgMz9LUUbNGBAsSeFwt7FDRMFJ5u6H--vkFHIcDA2EwvqyBdE4sGLX2wYTUKpgq6CmZADKKNgbgGzgNhA7iIGRAi1BiBRQzBNFgNF3637eohx20gu0A2gmiQ3TCXoLsNxAepMQK6COI2YzAb5rZarMHrgxK8JtDgrVEwjFeINoyFUTUKJnC-AZRngiRrFA9kGcXHKpgCGUAFeAyBaMNmCEhvtCnQEIg8yMG6dgooblbAJqDMBQA)]
+- [主旋律 TMD 檔案](oyaushi_koushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG5a9bh5yeOmZY-btj9u2gxhKGhpcSnaKliacdnbKrhx2Zjom9iBjHixct77PbOe7Oh8NmfFyzmbXi5aATb5Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Gh4unbH051bnk9Z8X5PByjs9IBhpwcKOyDDwPD9nk4lLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oHuAnrsaeuKZ9Paga54uqH3WXunQoCBsZleVkH6-z09QMUvFzQqFOgpGAFd1ANy-K4eoMOfzZkPZCuYKbxcNg3oUmDQgEx_sWr_s4blIHO7e1_MnA8Ufdw8Ayj4dPZsoMjTtROAdrgpPF2yHCimAAxZBaAoWDcwdHoeN61-3Nz_uAkYI5seN3c_bujlApkJDCgQhTWywBLNi0Cc5kmPm9Y8blr_uHnN4-bVEB37Hzdvftw853Fz3-Pm-Y-bGx83b4Lo6ALbtQKkHMSYAdQEsWtXDwG7gBZNBdnVvOlx06LHzZMfN7dBdGx_3Nz8uHkuyBEgpwBNhTgCpBxoGphEtWtHJ0TnVpA4yJYVIIeCGRAJoOO2Pm6eANa2EqEZxR0gPwOtbn3cvACiCeJmCImkg_LUAwUKWvpcXP6ViaXAgsE7H0RaBWQm5uU71BjUKFSDrFKwsdCyAzOwJV4FSNp_sbBHQcNE4emG_ufrG3TgKU4TiwaghSDDahRMFXSBCU4XTBsDcQ2cB8IGcBEzIESoMQKJxCsYghlgReDgx-24XT3kOA5kGchKEA2yHOYUdMeB-CA1RkAXQRxnDGbD3FbLxaVrp4ASwApAAWUuAA)]
+- [鋼琴伴奏 TMD 檔案](oyaushi_koushi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx85LHTcseN21_3LQZwni_p-Nl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKliacdnbKrhx2Zjom9hx1SkovVg57_2eWU92dD6bs-LlnE0vF61QAgu373reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVAhxgZGBnoGRiY6RlYmJgDGQaGQLcocXH5VyaWFmdkeueDSKuAzMS8_CAPhxqDGoVqLgUgsLHQsgMz9LUUbNGBAsSeFwt7FDRMFJ5u6H--vkFHIcDA2EwvqyBdE4sGLX2wYTUKpgq6CmZADKKNgbgGzgNhA7iIGRAi1BiBROIVDMEMsCIu_I7b1UOO40CWgawE0SDLYU5BdxyID1JjBHQRxHHGYDbMbbVYw9cHJXxNoOFbo2AYrxBtGAujahRM4HwDKM8ESdYoHsgyio9VMAUygArwGALRhs0QkN5oU6AhEHmQg3XtFFDcTJyAMhcXAA)]
 
 ## 分析
 
@@ -76,8 +78,8 @@ A6 A2 A4 c4 | d4 d4 c4 z4 | d6 c2 A4 G2 F2 | G4 A2 G2 F4 z4 |
 ⏱  Duration:       0:20 (20.0s), 8 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [OyaushiKoushi #1 @ m.4, 0:08]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [OyaushiKoushi #1 @ m.4, 0:08]
    - 最高音: D5 in [OyaushiKoushi #1 @ m.1, 0:00]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      OyaushiKoushi (20.0s)
@@ -117,7 +119,7 @@ A6 A2 A4 c4 | d4 d4 c4 z4 | d6 c2 A4 G2 F2 | G4 A2 G2 F4 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 32 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 32 個音符)
 ================================================================================
 ```
 

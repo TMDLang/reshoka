@@ -12,6 +12,8 @@ audio: "osei_fukko.mp3"
 
 # 王政復古
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="osei_fukko.mp3"></audio>
 
 - 詞：大橋銅造

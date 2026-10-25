@@ -12,6 +12,8 @@ audio: "tanoshiki_wagaya.mp3"
 
 # 樂しき我家
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tanoshiki_wagaya.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第二十八～三十一頁（第三學期第一曲）

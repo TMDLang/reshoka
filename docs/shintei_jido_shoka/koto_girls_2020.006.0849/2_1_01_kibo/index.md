@@ -12,6 +12,8 @@ audio: "kibo.mp3"
 
 # 希望
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kibo.mp3"></audio>
 
 - 出處：實科女學唱歌

@@ -12,6 +12,8 @@ audio: "nagai_oyasumi.mp3"
 
 # 長いお休
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nagai_oyasumi.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）

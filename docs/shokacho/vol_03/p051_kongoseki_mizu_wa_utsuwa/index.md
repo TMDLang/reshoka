@@ -12,6 +12,8 @@ audio: "kongoseki_mizu_wa_utsuwa.mp3"
 
 # 金剛石・水は器
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kongoseki_mizu_wa_utsuwa.mp3"></audio>
 
 - 曲：奥好義 (昭憲皇太后御歌)

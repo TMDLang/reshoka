@@ -12,6 +12,8 @@ audio: "shakai_hoshi.mp3"
 
 # 社會奉仕
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shakai_hoshi.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P175–P176）

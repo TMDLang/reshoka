@@ -12,6 +12,8 @@ audio: "tsubame.mp3"
 
 # つばめ
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tsubame.mp3"></audio>
 
 - lyrics: 安東正郎

@@ -12,6 +12,8 @@ audio: "nogawa_no_shirabe.mp3"
 
 # 野川のしらべ
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nogawa_no_shirabe.mp3"></audio>
 
 - 曲：成田為三

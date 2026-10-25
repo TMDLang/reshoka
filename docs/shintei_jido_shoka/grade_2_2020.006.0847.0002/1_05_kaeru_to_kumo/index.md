@@ -12,6 +12,8 @@ audio: "kaeru_to_kumo.mp3"
 
 # カヘル ト クモ（青蛙與雲）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kaeru_to_kumo.mp3"></audio>
 
 - 文部省

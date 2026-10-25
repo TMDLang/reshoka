@@ -12,6 +12,8 @@ audio: "wake_no_kiyomaro.mp3"
 
 # 和氣清麿
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="wake_no_kiyomaro.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第三十二～三十三頁（第三學期第三曲）

@@ -12,6 +12,8 @@ audio: "haru_no_ogawa.mp3"
 
 # 春の小川
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="haru_no_ogawa.mp3"></audio>
 
 - 文部省唱歌

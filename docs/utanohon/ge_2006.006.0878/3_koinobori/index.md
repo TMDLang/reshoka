@@ -12,6 +12,8 @@ audio: "koinobori.mp3"
 
 # コヒノボリ（鯉魚旗）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="koinobori.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第三課）

@@ -12,6 +12,8 @@ audio: "omoiyari.mp3"
 
 # おもひやり（體貼同理）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="omoiyari.mp3"></audio>
 
 - 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第三學期・第2首）

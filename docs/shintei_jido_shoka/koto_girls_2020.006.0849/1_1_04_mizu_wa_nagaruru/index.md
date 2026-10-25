@@ -12,6 +12,8 @@ audio: "mizu_wa_nagaruru.mp3"
 
 # 水は流るゝ
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="mizu_wa_nagaruru.mp3"></audio>
 
 - 詞：犬童球溪（現代女子音樂）

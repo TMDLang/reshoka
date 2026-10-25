@@ -12,6 +12,8 @@ audio: "nami_to_iso_no_ishi.mp3"
 
 # 波と磯の石 (波浪與岸邊的石頭)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nami_to_iso_no_ishi.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供

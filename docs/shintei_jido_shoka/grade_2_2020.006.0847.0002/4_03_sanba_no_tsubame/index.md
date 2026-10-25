@@ -12,6 +12,8 @@ audio: "sanba_no_tsubame.mp3"
 
 # 三バノツバメ（三隻燕子）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="sanba_no_tsubame.mp3"></audio>
 
 - 曲：永井幸次

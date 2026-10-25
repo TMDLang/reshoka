@@ -12,6 +12,8 @@ audio: "tako_no_uta.mp3"
 
 # たこのうた（風箏之歌）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tako_no_uta.mp3"></audio>
 
 - 文部省

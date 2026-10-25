@@ -12,6 +12,8 @@ audio: "oya_no_megumi.mp3"
 
 # 親のめぐみ
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="oya_no_megumi.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第三十八～三十九頁（第十八曲）

@@ -12,6 +12,8 @@ audio: "annan_koshinkyoku.mp3"
 
 # 安南行進曲
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="annan_koshinkyoku.mp3"></audio>
 
 - 曲：伝統曲 (合調・昭2.7.12.抄)

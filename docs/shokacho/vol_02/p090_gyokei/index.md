@@ -12,6 +12,8 @@ audio: "gyokei.mp3"
 
 # 曉景（二部輪唱）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="gyokei.mp3"></audio>
 
 - 唱歌帳（2020.006.0843）P090.jpg–P091.jpg（第 22–23 頁）

@@ -12,6 +12,8 @@ audio: "shabondama.mp3"
 
 # シヤボンダマ（肥皂泡）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shabondama.mp3"></audio>
 
 - 詞：濱岡泰夫

@@ -12,6 +12,8 @@ audio: "sanba_no_suzume.mp3"
 
 # 三羽ノ雀（三隻麻雀）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="sanba_no_suzume.mp3"></audio>
 
 - 唱歌帖 P235 (大正幼年唱歌 / 蓬萊唱集 34頁)

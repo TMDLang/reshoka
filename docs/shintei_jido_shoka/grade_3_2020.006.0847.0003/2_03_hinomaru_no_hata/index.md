@@ -12,6 +12,8 @@ audio: "hinomaru_no_hata.mp3"
 
 # 日の丸のはた（日之丸國旗）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hinomaru_no_hata.mp3"></audio>
 
 - 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第二學期・第3首）

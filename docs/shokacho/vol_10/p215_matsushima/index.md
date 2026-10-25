@@ -12,6 +12,8 @@ audio: "matsushima.mp3"
 
 # 松島 (松島)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="matsushima.mp3"></audio>
 
 - 公學校唱歌帳 (P215, 257頁, 昭和2年1月29日)

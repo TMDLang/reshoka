@@ -12,6 +12,8 @@ audio: "seinen_no_uta.mp3"
 
 # 青年の歌
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="seinen_no_uta.mp3"></audio>
 
 - 曲：山田耕作

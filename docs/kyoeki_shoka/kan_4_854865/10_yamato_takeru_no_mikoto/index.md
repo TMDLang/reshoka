@@ -12,6 +12,8 @@ audio: "yamato_takeru_no_mikoto.mp3"
 
 # 日本武尊
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yamato_takeru_no_mikoto.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第二十二～二十五頁（第二學期第五曲）

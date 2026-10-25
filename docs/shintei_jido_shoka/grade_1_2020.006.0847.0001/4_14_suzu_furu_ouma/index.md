@@ -12,6 +12,8 @@ audio: "suzu_furu_ouma.mp3"
 
 # スズフルオウマ（鈴鐺響的小馬）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="suzu_furu_ouma.mp3"></audio>
 
 - 曲：山本壽

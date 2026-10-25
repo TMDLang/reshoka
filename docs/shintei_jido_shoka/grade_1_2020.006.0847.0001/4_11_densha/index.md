@@ -12,6 +12,8 @@ audio: "densha.mp3"
 
 # デンシヤ（電車）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="densha.mp3"></audio>
 
 - 詞：葛原𦱳

@@ -12,6 +12,8 @@ audio: "nami.mp3"
 
 # 波（波浪）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nami.mp3"></audio>
 
 - 唱歌帖 P249 (小学新唱歌 / 蓬萊唱集 64頁 / 昭2.3.25)

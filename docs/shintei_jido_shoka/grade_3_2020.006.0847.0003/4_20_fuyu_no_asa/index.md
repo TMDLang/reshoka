@@ -12,6 +12,8 @@ audio: "fuyu_no_asa.mp3"
 
 # 冬の朝
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="fuyu_no_asa.mp3"></audio>
 
 - 三木露風 作詞 / 山田耕作 作曲

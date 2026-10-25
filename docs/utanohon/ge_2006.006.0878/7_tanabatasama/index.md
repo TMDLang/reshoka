@@ -12,6 +12,8 @@ audio: "tanabatasama.mp3"
 
 # たなばたさま（七夕樣）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tanabatasama.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第七課）

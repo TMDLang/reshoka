@@ -12,6 +12,8 @@ audio: "awate_tokoya.mp3"
 
 # アハテ床屋
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="awate_tokoya.mp3"></audio>
 
 - 作詞：北原白秋

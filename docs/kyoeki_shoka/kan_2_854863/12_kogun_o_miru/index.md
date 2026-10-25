@@ -12,6 +12,8 @@ audio: "kogun_o_miru.mp3"
 
 # 行軍を觀る
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kogun_o_miru.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第二十四～二十七頁（第十二曲）

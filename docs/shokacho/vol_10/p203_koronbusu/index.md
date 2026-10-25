@@ -12,6 +12,8 @@ audio: "koronbusu.mp3"
 
 # コロンブス (哥倫布)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="koronbusu.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供

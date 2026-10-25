@@ -12,6 +12,8 @@ audio: "hankake_otsukisan.mp3"
 
 # 半カケオ月サン
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hankake_otsukisan.mp3"></audio>
 
 - 詞：西條八十

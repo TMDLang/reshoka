@@ -12,6 +12,8 @@ audio: "onigashima.mp3"
 
 # 鬼が島
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="onigashima.mp3"></audio>
 
 - 大正幼年唱歌 第五集 20頁ヨリ

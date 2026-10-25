@@ -12,6 +12,8 @@ audio: "fuka_to_shonen.mp3"
 
 # 鱶と少年
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="fuka_to_shonen.mp3"></audio>
 
 - 詞：石原和三郎

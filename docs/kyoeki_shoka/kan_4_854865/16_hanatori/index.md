@@ -12,6 +12,8 @@ audio: "hanatori.mp3"
 
 # 花鳥
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hanatori.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第四十二～四十五頁（女生徒專用曲第一曲）

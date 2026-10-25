@@ -12,6 +12,8 @@ audio: "nihon_danji.mp3"
 
 # 日本男兒
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nihon_danji.mp3"></audio>
 
 - 詞：蘆田惠之助（松邑三松堂發行檢定唱歌集）

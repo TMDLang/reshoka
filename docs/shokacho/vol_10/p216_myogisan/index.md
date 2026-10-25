@@ -12,6 +12,8 @@ audio: "myogisan.mp3"
 
 # 妙義山 (妙義山)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="myogisan.mp3"></audio>
 
 - 公學校唱歌帳 (P216, 245頁, 昭和2年2月9日)

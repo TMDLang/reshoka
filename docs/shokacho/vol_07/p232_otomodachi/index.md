@@ -12,6 +12,8 @@ audio: "otomodachi.mp3"
 
 # オ友達（好朋友）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="otomodachi.mp3"></audio>
 
 - 唱歌帖 P232 (二年 / 大正幼年唱歌 / 蓬萊唱集 26頁)

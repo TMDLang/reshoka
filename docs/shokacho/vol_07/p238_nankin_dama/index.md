@@ -12,6 +12,8 @@ audio: "nankin_dama.mp3"
 
 # 南京玉（琉璃珠／南京玉）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nankin_dama.mp3"></audio>
 
 - 曲：中山晋平

@@ -12,6 +12,8 @@ audio: "umi.mp3"
 
 # 海（其二）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="umi.mp3"></audio>
 
 - 出處：《唱歌帖》（2020.006.0843）P039.jpg（5.）

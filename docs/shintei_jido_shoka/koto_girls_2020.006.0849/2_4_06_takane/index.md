@@ -12,6 +12,8 @@ audio: "takane.mp3"
 
 # 高嶺
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="takane.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

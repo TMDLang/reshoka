@@ -12,6 +12,8 @@ audio: "ushi_yo_ushi_yo.mp3"
 
 # 牛よ牛よ（牛呀牛呀）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ushi_yo_ushi_yo.mp3"></audio>
 
 - 曲：陳英聲

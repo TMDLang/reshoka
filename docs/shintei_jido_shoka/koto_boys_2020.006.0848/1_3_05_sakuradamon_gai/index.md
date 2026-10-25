@@ -12,6 +12,8 @@ audio: "sakuradamon_gai.mp3"
 
 # 櫻田門外
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="sakuradamon_gai.mp3"></audio>
 
 - 詞：大和田建樹

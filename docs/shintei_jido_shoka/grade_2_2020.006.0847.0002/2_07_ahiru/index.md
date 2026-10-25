@@ -12,6 +12,8 @@ audio: "ahiru.mp3"
 
 # あひる（鴨子）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ahiru.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）

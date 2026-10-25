@@ -12,6 +12,8 @@ audio: "ensoku_no_uta.mp3"
 
 # 遠足の歌
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ensoku_no_uta.mp3"></audio>
 
 - 詞：葛原齒

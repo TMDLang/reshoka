@@ -12,6 +12,8 @@ audio: "chushin.mp3"
 
 # 忠臣
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="chushin.mp3"></audio>
 
 - 出處：（小學唱歌集）

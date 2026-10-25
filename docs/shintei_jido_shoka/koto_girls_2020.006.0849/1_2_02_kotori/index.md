@@ -12,6 +12,8 @@ audio: "kotori.mp3"
 
 # 小鳥
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kotori.mp3"></audio>
 
 - 詞：今中楓溪（現代女子音樂）

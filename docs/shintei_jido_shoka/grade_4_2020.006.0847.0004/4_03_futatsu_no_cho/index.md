@@ -12,6 +12,8 @@ audio: "futatsu_no_cho.mp3"
 
 # 二つの蝶
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="futatsu_no_cho.mp3"></audio>
 
 - 曲：室崎琴月

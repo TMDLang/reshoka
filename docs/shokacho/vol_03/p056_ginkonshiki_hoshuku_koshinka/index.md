@@ -12,6 +12,8 @@ audio: "ginkonshiki_hoshuku_koshinka.mp3"
 
 # 銀婚式奉祝行進歌
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ginkonshiki_hoshuku_koshinka.mp3"></audio>
 
 - 曲：一條氏

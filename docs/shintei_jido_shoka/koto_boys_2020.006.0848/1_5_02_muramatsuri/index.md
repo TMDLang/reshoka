@@ -12,6 +12,8 @@ audio: "muramatsuri.mp3"
 
 # 村祭
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="muramatsuri.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

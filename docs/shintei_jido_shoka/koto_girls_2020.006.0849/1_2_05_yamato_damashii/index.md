@@ -12,6 +12,8 @@ audio: "yamato_damashii.mp3"
 
 # 大和魂
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yamato_damashii.mp3"></audio>
 
 - 詞：佐々木信綱（女子音樂教科書）

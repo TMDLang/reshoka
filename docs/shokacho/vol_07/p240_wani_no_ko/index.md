@@ -12,6 +12,8 @@ audio: "wani_no_ko.mp3"
 
 # ワニの子（小鱷魚）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="wani_no_ko.mp3"></audio>
 
 - 詞：真田梅村

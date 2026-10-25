@@ -12,6 +12,8 @@ audio: "shiroi_boto.mp3"
 
 # 白いボート
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shiroi_boto.mp3"></audio>
 
 - 曲：不詳

@@ -12,6 +12,8 @@ audio: "chinkoro_heitai.mp3"
 
 # チンコロヘイタイ（小小兵）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="chinkoro_heitai.mp3"></audio>
 
 - 曲：草川信

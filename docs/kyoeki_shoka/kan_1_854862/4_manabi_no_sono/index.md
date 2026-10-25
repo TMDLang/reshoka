@@ -12,6 +12,8 @@ audio: "manabi_no_sono.mp3"
 
 # 學びの園
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="manabi_no_sono.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第八～九頁（第四曲）

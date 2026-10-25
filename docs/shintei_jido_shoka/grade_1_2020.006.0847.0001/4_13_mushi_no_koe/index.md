@@ -12,6 +12,8 @@ audio: "mushi_no_koe.mp3"
 
 # ムシノコヱ（蟲的聲音）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="mushi_no_koe.mp3"></audio>
 
 - 曲：小松耕輔

@@ -12,6 +12,8 @@ audio: "tanjobi.mp3"
 
 # タンジヤウビ（生日）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tanjobi.mp3"></audio>
 
 - 詞：巖谷小波

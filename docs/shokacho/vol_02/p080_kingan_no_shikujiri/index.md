@@ -12,6 +12,8 @@ audio: "kingan_no_shikujiri.mp3"
 
 # 近眼のしくじり
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kingan_no_shikujiri.mp3"></audio>
 
 - 曲：不詳 (大正十三年二月十一日 邱氏より抄)

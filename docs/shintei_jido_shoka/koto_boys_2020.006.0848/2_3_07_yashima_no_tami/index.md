@@ -12,6 +12,8 @@ audio: "yashima_no_tami.mp3"
 
 # 八洲の民
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yashima_no_tami.mp3"></audio>
 
 - 詞：稻垣千頴

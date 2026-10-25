@@ -12,6 +12,8 @@ audio: "issunboshi.mp3"
 
 # 一スンボウシ（一寸法師）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="issunboshi.mp3"></audio>
 
 - 詞：巖谷小波

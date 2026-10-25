@@ -12,6 +12,8 @@ audio: "tsubame.mp3"
 
 # つばめ（燕子）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tsubame.mp3"></audio>
 
 - 唱歌帖 P245 (三年 / 新作唱歌 / 蓬萊唱集 56頁)

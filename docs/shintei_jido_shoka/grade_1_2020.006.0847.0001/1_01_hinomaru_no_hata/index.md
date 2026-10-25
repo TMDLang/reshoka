@@ -12,6 +12,8 @@ audio: "hinomaru_no_hata.mp3"
 
 # ヒノマルノハタ（日之丸旗）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hinomaru_no_hata.mp3"></audio>
 
 - 詞：文部省

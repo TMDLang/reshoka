@@ -12,6 +12,8 @@ audio: "mizu_no_nagare.mp3"
 
 # 水の流 (水流)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="mizu_no_nagare.mp3"></audio>
 
 - 公學校唱歌帳 補遺 — 女子リードアルバム・蓬 66頁ヨリ

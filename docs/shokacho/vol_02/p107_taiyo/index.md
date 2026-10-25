@@ -12,6 +12,8 @@ audio: "taiyo.mp3"
 
 # 太陽
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="taiyo.mp3"></audio>
 
 - 大正幼年唱歌 第十二集ヨリ（ロシヤ）

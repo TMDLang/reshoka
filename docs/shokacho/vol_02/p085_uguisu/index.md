@@ -12,6 +12,8 @@ audio: "uguisu.mp3"
 
 # うぐひす
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="uguisu.mp3"></audio>
 
 - 曲：不詳

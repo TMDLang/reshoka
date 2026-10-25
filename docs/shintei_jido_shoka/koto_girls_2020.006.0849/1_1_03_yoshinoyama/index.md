@@ -12,6 +12,8 @@ audio: "yoshinoyama.mp3"
 
 # 吉野山
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yoshinoyama.mp3"></audio>
 
 - （教育唱歌集）

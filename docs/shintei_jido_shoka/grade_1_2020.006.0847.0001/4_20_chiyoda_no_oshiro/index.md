@@ -12,6 +12,8 @@ audio: "chiyoda_no_oshiro.mp3"
 
 # チヨダノオシロ（千代田城）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="chiyoda_no_oshiro.mp3"></audio>
 
 - 詞：野口雨情

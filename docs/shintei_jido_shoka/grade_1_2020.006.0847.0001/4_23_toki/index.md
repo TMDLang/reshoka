@@ -12,6 +12,8 @@ audio: "toki.mp3"
 
 # トキ（朱鷺）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="toki.mp3"></audio>
 
 - 曲：永井幸次

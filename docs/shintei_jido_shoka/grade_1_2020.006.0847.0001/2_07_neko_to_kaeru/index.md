@@ -12,6 +12,8 @@ audio: "neko_to_kaeru.mp3"
 
 # ネコトカヘル（貓與青蛙）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="neko_to_kaeru.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）

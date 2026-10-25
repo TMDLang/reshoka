@@ -12,6 +12,8 @@ audio: "taiwan_no_uta.mp3"
 
 # 臺灣の歌
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="taiwan_no_uta.mp3"></audio>
 
 - 詞：內田隆（昭和6年臺灣教育會選歌）

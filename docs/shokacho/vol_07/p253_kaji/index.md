@@ -12,6 +12,8 @@ audio: "kaji.mp3"
 
 # 火事 (火災)
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kaji.mp3"></audio>
 
 - 公學校唱歌帳 補遺 — 小学新唱歌・蓬 68頁ヨリ

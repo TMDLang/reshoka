@@ -12,6 +12,8 @@ audio: "natsu_no_kyo.mp3"
 
 # 夏の興
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="natsu_no_kyo.mp3"></audio>
 
 - 詞：桑田春風

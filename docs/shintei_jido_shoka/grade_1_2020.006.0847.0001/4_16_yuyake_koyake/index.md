@@ -12,6 +12,8 @@ audio: "yuyake_koyake.mp3"
 
 # ユフヤケコヤケ（晚霞）
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yuyake_koyake.mp3"></audio>
 
 - 詞：中村雨紅

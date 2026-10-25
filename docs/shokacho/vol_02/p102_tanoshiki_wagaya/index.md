@@ -12,6 +12,8 @@ audio: "tanoshiki_wagaya.mp3"
 
 # 樂しき我家
 
+> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tanoshiki_wagaya.mp3"></audio>
 
 - 曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）
