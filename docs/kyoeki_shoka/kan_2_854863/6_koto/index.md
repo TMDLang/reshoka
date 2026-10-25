@@ -12,6 +12,8 @@ audio: "koto.mp3"
 
 # 皇統
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="koto.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第十二～十三頁（第六曲）

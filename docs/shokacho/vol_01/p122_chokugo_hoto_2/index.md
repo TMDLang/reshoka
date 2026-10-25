@@ -12,6 +12,8 @@ audio: "chokugo_hoto_2.mp3"
 
 # 勅語奉答（あな尊しや）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="chokugo_hoto_2.mp3"></audio>
 
 - 唱歌筆記帖（臺灣子供世界社發行，2020.006.0843）P122.jpg（第 6 頁）

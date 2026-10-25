@@ -12,6 +12,8 @@ audio: "kunin_no_kuronbo.mp3"
 
 # 九人のくろんぼ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kunin_no_kuronbo.mp3"></audio>
 
 - 曲：不詳

@@ -12,6 +12,8 @@ audio: "ono_no_tofu.mp3"
 
 # ヲノノタウフウ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ono_no_tofu.mp3"></audio>
 
 - 詞：石原和三郎

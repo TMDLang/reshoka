@@ -12,6 +12,8 @@ audio: "sumiyaki.mp3"
 
 # すみやき（燒炭）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="sumiyaki.mp3"></audio>
 
 - 日治時期公學校唱歌（第三學年・第十四課）

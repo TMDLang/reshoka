@@ -12,6 +12,8 @@ audio: "tasukebune.mp3"
 
 # 助け船 (救生船)
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tasukebune.mp3"></audio>
 
 - 公學校唱歌帳 (P211, 301頁, 昭和2年1月29日)

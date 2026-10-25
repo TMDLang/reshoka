@@ -12,6 +12,8 @@ audio: "rengeso.mp3"
 
 # れんげさう
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="rengeso.mp3"></audio>
 
 - 曲：正聴会編 唱歌学習帳 四年

@@ -12,6 +12,8 @@ audio: "yashima_gassen.mp3"
 
 # 屋島合戰
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yashima_gassen.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供

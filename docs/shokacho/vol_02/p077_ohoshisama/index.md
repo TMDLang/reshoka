@@ -12,6 +12,8 @@ audio: "ohoshisama.mp3"
 
 # お星様
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ohoshisama.mp3"></audio>
 
 - 曲：愛吟抄 (大正十二年)

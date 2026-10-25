@@ -12,6 +12,8 @@ audio: "kisha.mp3"
 
 # 汽車（火車）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kisha.mp3"></audio>
 
 - 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第二學期・第10首）

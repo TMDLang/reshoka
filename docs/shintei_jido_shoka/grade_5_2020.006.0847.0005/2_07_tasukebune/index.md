@@ -12,6 +12,8 @@ audio: "tasukebune.mp3"
 
 # 助船
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tasukebune.mp3"></audio>
 
 - 佐々木信綱 作詞

@@ -12,6 +12,8 @@ audio: "ama_no_iwaya.mp3"
 
 # 天の岩屋
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ama_no_iwaya.mp3"></audio>
 
 - 詞：葛原しげる

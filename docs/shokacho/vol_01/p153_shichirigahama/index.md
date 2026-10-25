@@ -12,6 +12,8 @@ audio: "shichirigahama.mp3"
 
 # 七里が濱（女子大学校歌）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shichirigahama.mp3"></audio>
 
 - 詞：三角錫子

@@ -12,6 +12,8 @@ audio: "mizutori.mp3"
 
 # 水鳥
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="mizutori.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第五十～五十一頁（女生徒專用曲第四曲）

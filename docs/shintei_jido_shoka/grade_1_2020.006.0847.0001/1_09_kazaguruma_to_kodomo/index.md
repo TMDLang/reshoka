@@ -12,6 +12,8 @@ audio: "kazaguruma_to_kodomo.mp3"
 
 # カザグルマトコドモ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kazaguruma_to_kodomo.mp3"></audio>
 
 - 詞：大和田建樹

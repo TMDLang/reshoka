@@ -12,6 +12,8 @@ audio: "shibashi_no_wakare.mp3"
 
 # 暫の別
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shibashi_no_wakare.mp3"></audio>
 
 - 曲：不詳

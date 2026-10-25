@@ -12,6 +12,8 @@ audio: "tonbi.mp3"
 
 # とんび
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tonbi.mp3"></audio>
 
 - 大正幼年唱歌 第一集 17頁ヨリ

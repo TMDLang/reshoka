@@ -12,6 +12,8 @@ audio: "jugoya.mp3"
 
 # 十五ヤ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="jugoya.mp3"></audio>
 
 - 詞：三木露風

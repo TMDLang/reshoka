@@ -12,6 +12,8 @@ audio: "ume_ni_uguisu.mp3"
 
 # 梅に鶯
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ume_ni_uguisu.mp3"></audio>
 
 - 葛原齒 作詞 / 小松耕輔 作曲

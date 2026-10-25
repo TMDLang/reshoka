@@ -12,6 +12,8 @@ audio: "hanami.mp3"
 
 # 花見
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hanami.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第二～三頁（第一學期第一曲）

@@ -12,6 +12,8 @@ audio: "ike_no_koi.mp3"
 
 # 池の 鯉（池中的鯉魚）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ike_no_koi.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第十六課）

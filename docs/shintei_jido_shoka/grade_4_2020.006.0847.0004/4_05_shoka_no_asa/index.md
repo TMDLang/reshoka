@@ -12,6 +12,8 @@ audio: "shoka_no_asa.mp3"
 
 # 初夏の朝
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shoka_no_asa.mp3"></audio>
 
 - 詞：水田月人

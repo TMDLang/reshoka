@@ -12,6 +12,8 @@ audio: "muranokajiya.mp3"
 
 # 村のかぢや（村之鍛冶屋）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="muranokajiya.mp3"></audio>
 
 - 日治時期公學校唱歌（第三學年・第三課／原曲：1912年『尋常小学唱歌』）

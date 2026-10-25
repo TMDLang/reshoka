@@ -12,6 +12,8 @@ audio: "haru_no_oka.mp3"
 
 # 春の丘
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="haru_no_oka.mp3"></audio>
 
 - 詞：川路柳虹

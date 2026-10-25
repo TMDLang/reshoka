@@ -12,6 +12,8 @@ audio: "seijitsu.mp3"
 
 # 誠實
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="seijitsu.mp3"></audio>
 
 - 詞：犬童球溪

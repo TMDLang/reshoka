@@ -12,6 +12,8 @@ audio: "ohisama.mp3"
 
 # オ日様
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ohisama.mp3"></audio>
 
 - 曲：大正幼年唱歌 第八集

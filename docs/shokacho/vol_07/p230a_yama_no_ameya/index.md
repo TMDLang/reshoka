@@ -12,6 +12,8 @@ audio: "yama_no_ameya.mp3"
 
 # 山の飴屋（山上的糖果店）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yama_no_ameya.mp3"></audio>
 
 - 唱歌帖 P230a (二年 / 蓬萊唱集 23頁)

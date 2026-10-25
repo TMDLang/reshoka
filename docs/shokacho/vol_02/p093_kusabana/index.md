@@ -12,6 +12,8 @@ audio: "kusabana.mp3"
 
 # 草花
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kusabana.mp3"></audio>
 
 - 唱歌帳（2020.006.0843）P093.jpg（第 25 頁）

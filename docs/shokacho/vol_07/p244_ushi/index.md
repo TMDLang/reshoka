@@ -12,6 +12,8 @@ audio: "ushi.mp3"
 
 # 牛（牛）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ushi.mp3"></audio>
 
 - 唱歌帖 P244 (三年 / 幼年唱歌 / 蓬萊唱集 53頁)

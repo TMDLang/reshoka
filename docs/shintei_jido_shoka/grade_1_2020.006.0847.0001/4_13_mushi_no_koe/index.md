@@ -12,6 +12,8 @@ audio: "mushi_no_koe.mp3"
 
 # ムシノコヱ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="mushi_no_koe.mp3"></audio>
 
 - 曲：小松耕輔

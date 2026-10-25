@@ -12,6 +12,8 @@ audio: "gunkan.mp3"
 
 # 軍艦
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="gunkan.mp3"></audio>
 
 - 加藤義清 作詞

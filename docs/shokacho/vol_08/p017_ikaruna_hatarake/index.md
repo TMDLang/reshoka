@@ -12,6 +12,8 @@ audio: "ikaruna_hatarake.mp3"
 
 # 怒るな働け（不要發怒，努力工作）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ikaruna_hatarake.mp3"></audio>
 
 - 曲：杉江秀

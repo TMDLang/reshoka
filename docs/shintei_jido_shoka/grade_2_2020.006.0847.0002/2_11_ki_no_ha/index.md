@@ -12,6 +12,8 @@ audio: "ki_no_ha.mp3"
 
 # 木のは
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ki_no_ha.mp3"></audio>
 
 - 文部省

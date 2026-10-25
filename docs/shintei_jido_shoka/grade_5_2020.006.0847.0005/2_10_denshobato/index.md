@@ -12,6 +12,8 @@ audio: "denshobato.mp3"
 
 # 傳書鳩
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="denshobato.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）

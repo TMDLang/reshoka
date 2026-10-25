@@ -12,6 +12,8 @@ audio: "kokyo_no_sora.mp3"
 
 # 故郷の空
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kokyo_no_sora.mp3"></audio>
 
 - 明治唱歌

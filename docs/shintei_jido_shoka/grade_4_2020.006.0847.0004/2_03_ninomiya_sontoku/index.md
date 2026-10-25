@@ -12,6 +12,8 @@ audio: "ninomiya_sontoku.mp3"
 
 # 二宮尊徳
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ninomiya_sontoku.mp3"></audio>
 
 - 詞：桑田春風

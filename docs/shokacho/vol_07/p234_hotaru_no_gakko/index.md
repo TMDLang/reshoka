@@ -12,6 +12,8 @@ audio: "hotaru_no_gakko.mp3"
 
 # 螢の學校（螢火蟲的學校）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hotaru_no_gakko.mp3"></audio>
 
 - 唱歌帖 P234 (二年 / 蓬萊唱集 31頁)

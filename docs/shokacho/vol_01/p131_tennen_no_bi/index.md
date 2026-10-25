@@ -12,6 +12,8 @@ audio: "tennen_no_bi.mp3"
 
 # 天然の美
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tennen_no_bi.mp3"></audio>
 
 - 詞：武島羽衣

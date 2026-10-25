@@ -12,6 +12,8 @@ audio: "rikugun_kinembi_koshinka.mp3"
 
 # 陸軍記念日行進歌
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="rikugun_kinembi_koshinka.mp3"></audio>
 
 - 曲：不詳

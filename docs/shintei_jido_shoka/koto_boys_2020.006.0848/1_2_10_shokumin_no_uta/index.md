@@ -12,6 +12,8 @@ audio: "shokumin_no_uta.mp3"
 
 # 殖民の歌
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shokumin_no_uta.mp3"></audio>
 
 - 編：北村季晴（弘樂社發行中等音樂教科書）

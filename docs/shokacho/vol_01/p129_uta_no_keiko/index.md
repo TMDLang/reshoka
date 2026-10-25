@@ -12,6 +12,8 @@ audio: "uta_no_keiko.mp3"
 
 # うたのけいこ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="uta_no_keiko.mp3"></audio>
 
 - 歐米小學唱歌集 アメリカ篇一 見本（菊版）

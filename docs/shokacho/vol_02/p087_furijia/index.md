@@ -12,6 +12,8 @@ audio: "furijia.mp3"
 
 # フリージア
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="furijia.mp3"></audio>
 
 - 曲：不詳

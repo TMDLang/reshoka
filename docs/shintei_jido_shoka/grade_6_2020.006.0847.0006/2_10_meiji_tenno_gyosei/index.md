@@ -12,6 +12,8 @@ audio: "meiji_tenno_gyosei.mp3"
 
 # 明治天皇御製
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="meiji_tenno_gyosei.mp3"></audio>
 
 - 文部省

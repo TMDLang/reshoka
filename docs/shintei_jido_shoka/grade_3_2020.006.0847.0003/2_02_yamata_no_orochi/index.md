@@ -12,6 +12,8 @@ audio: "yamata_no_orochi.mp3"
 
 # 八岐の大蛇（八岐大蛇）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yamata_no_orochi.mp3"></audio>
 
 - 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第二學期・第2首）

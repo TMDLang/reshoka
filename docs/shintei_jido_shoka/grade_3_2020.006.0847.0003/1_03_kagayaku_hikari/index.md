@@ -12,6 +12,8 @@ audio: "kagayaku_hikari.mp3"
 
 # かゞやく光
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kagayaku_hikari.mp3"></audio>
 
 - 文部省唱歌

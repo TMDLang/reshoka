@@ -12,6 +12,8 @@ audio: "honensai.mp3"
 
 # 豊年祭
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="honensai.mp3"></audio>
 
 - 作曲：橋本正夫（原載《音楽新潮》，大正 14 年 6 月 17 日抄）

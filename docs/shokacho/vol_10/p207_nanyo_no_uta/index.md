@@ -12,6 +12,8 @@ audio: "nanyo_no_uta.mp3"
 
 # 南洋の歌 (南洋之歌)
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nanyo_no_uta.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供

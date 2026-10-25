@@ -12,6 +12,8 @@ audio: "inaka_no_yugure.mp3"
 
 # 田舍の夕暮
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="inaka_no_yugure.mp3"></audio>
 
 - 曲：北村季晴

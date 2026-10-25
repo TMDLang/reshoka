@@ -12,6 +12,8 @@ audio: "watashi_no_shashin.mp3"
 
 # わたしのしゃしん（我的照片）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="watashi_no_shashin.mp3"></audio>
 
 - 出處：2.3年 / 刊りすより（昭2.11.30）

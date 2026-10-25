@@ -12,6 +12,8 @@ audio: "hiyoko.mp3"
 
 # ヒヨコ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hiyoko.mp3"></audio>
 
 - 曲：大正幼年唱歌 第五集

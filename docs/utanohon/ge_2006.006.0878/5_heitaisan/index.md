@@ -12,6 +12,8 @@ audio: "heitaisan.mp3"
 
 # 兵たいさん（士兵先生）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="heitaisan.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第五課）

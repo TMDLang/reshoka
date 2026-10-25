@@ -12,6 +12,8 @@ audio: "natsu_wa_kinu.mp3"
 
 # 夏は來ぬ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="natsu_wa_kinu.mp3"></audio>
 
 - 詞：佐佐木信綱

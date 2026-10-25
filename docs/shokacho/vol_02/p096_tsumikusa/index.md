@@ -12,6 +12,8 @@ audio: "tsumikusa.mp3"
 
 # 摘草
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tsumikusa.mp3"></audio>
 
 - 唱歌帳（2020.006.0843）P096.jpg（第 28 頁）

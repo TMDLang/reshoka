@@ -12,6 +12,8 @@ audio: "nippon.mp3"
 
 # 日本
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nippon.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第十八課）

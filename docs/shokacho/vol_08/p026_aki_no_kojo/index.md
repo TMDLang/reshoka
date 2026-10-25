@@ -12,6 +12,8 @@ audio: "aki_no_kojo.mp3"
 
 # 秋ノ湖上（秋日湖上）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="aki_no_kojo.mp3"></audio>
 
 - 出處：蓬集（昭2.2.21）

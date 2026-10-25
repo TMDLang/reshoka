@@ -12,6 +12,8 @@ audio: "tenpei_muteki.mp3"
 
 # 天兵無敵
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tenpei_muteki.mp3"></audio>
 
 - 詞：吉丸一昌

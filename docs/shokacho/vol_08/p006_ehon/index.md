@@ -12,6 +12,8 @@ audio: "ehon.mp3"
 
 # 繪本（圖畫書）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ehon.mp3"></audio>
 
 - 曲：原田氏

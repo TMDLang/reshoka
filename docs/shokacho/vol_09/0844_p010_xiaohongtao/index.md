@@ -12,6 +12,8 @@ audio: "xiaohongtao.mp3"
 
 # 小紅桃
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="xiaohongtao.mp3"></audio>
 
 - 曲：伝統曲 (合調・昭2.7.13.抄)

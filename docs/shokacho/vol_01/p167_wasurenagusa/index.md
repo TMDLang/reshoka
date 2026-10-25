@@ -12,6 +12,8 @@ audio: "wasurenagusa.mp3"
 
 # 勿忘草
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="wasurenagusa.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P167）

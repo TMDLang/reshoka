@@ -12,6 +12,8 @@ audio: "furin.mp3"
 
 # フウリン
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="furin.mp3"></audio>
 
 - 詞：川路柳江

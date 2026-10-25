@@ -12,6 +12,8 @@ audio: "sasa_no_fune.mp3"
 
 # ササノフネ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="sasa_no_fune.mp3"></audio>
 
 - 曲：近藤義次

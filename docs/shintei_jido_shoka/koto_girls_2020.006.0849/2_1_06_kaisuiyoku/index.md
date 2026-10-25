@@ -12,6 +12,8 @@ audio: "kaisuiyoku.mp3"
 
 # 海水浴
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kaisuiyoku.mp3"></audio>
 
 - 出處：女子教育音樂教科書

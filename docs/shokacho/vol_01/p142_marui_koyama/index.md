@@ -12,6 +12,8 @@ audio: "marui_koyama.mp3"
 
 # 圓い小山（顔あそび）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="marui_koyama.mp3"></audio>
 
 - 詞：北原白秋

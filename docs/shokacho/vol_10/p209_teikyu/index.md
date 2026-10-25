@@ -12,6 +12,8 @@ audio: "teikyu.mp3"
 
 # 庭球 (網球)
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="teikyu.mp3"></audio>
 
 - 公學校唱歌帳 (P209-P210, 308頁, 昭和2年1月29日)

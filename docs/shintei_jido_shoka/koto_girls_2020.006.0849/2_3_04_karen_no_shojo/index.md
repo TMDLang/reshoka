@@ -12,6 +12,8 @@ audio: "karen_no_shojo.mp3"
 
 # 可憐の少女
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="karen_no_shojo.mp3"></audio>
 
 - 詞：武島又次郎

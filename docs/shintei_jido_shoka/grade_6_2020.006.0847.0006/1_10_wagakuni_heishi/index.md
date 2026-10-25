@@ -12,6 +12,8 @@ audio: "wagakuni_heishi.mp3"
 
 # 我國兵士
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="wagakuni_heishi.mp3"></audio>
 
 - 詞：旗野士良

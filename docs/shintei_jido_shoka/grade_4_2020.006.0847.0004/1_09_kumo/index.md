@@ -12,6 +12,8 @@ audio: "kumo.mp3"
 
 # 雲
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kumo.mp3"></audio>
 
 - 文部省唱歌

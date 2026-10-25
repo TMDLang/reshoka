@@ -12,6 +12,8 @@ audio: "ofune.mp3"
 
 # オフネ（小船）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="ofune.mp3"></audio>
 
 - 唱歌帖 P228 (一年 / 蓬萊唱歌 14頁)

@@ -12,6 +12,8 @@ audio: "hotaru.mp3"
 
 # 螢
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hotaru.mp3"></audio>
 
 - 教育唱歌集

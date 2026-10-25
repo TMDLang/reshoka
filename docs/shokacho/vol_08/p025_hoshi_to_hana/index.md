@@ -12,6 +12,8 @@ audio: "hoshi_to_hana.mp3"
 
 # 星と花（星與花）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hoshi_to_hana.mp3"></audio>
 
 - 出處：蓬集ヨリ（昭2.2.21）

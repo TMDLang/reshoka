@@ -12,6 +12,8 @@ audio: "kangaku.mp3"
 
 # 勸學
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kangaku.mp3"></audio>
 
 - 詞：大和田建樹（田村檢定唱歌集）

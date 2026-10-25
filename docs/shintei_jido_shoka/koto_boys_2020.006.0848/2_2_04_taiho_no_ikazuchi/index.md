@@ -12,6 +12,8 @@ audio: "taiho_no_ikazuchi.mp3"
 
 # 火砲の雷
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="taiho_no_ikazuchi.mp3"></audio>
 
 - 曲：ウイルヘルム（獨）（Carl Wilhelm）

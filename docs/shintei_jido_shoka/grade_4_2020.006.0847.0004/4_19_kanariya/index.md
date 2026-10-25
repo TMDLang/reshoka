@@ -12,6 +12,8 @@ audio: "kanariya.mp3"
 
 # かなりや
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kanariya.mp3"></audio>
 
 - 曲：成田爲三／詞：西條八十

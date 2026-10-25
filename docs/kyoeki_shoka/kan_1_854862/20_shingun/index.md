@@ -12,6 +12,8 @@ audio: "shingun.mp3"
 
 # 進軍
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shingun.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第四十～四十一頁（第二十曲）

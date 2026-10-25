@@ -12,6 +12,8 @@ audio: "hana.mp3"
 
 # ハナ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hana.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）

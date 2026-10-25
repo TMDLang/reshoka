@@ -12,6 +12,8 @@ audio: "kisha_no_tabi.mp3"
 
 # 汽車の旅 (火車之旅)
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kisha_no_tabi.mp3"></audio>
 
 - 公學校唱歌帳 (P212, 293頁, 昭和2年1月29日)

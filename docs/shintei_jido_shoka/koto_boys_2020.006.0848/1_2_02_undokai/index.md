@@ -12,6 +12,8 @@ audio: "undokai.mp3"
 
 # 運動會
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="undokai.mp3"></audio>
 
 - 詞：大和田建樹（松邑三松堂發行檢定唱歌集）

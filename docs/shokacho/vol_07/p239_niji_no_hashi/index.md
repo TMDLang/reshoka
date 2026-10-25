@@ -12,6 +12,8 @@ audio: "niji_no_hashi.mp3"
 
 # 虹の橋（彩虹橋）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="niji_no_hashi.mp3"></audio>
 
 - 唱歌帖 P239 (三年 / 新特選楽譜 / 蓬萊唱集 45頁)

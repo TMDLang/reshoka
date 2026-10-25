@@ -12,6 +12,8 @@ audio: "hanazono.mp3"
 
 # 花園
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hanazono.mp3"></audio>
 
 - 曲：教育幼稚唱歌集

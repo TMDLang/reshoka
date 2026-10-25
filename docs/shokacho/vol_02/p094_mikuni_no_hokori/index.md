@@ -12,6 +12,8 @@ audio: "mikuni_no_hokori.mp3"
 
 # み國の誇り
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="mikuni_no_hokori.mp3"></audio>
 
 - 青年唱歌

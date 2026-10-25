@@ -12,6 +12,8 @@ audio: "shinrin_shoyo.mp3"
 
 # 深林逍遥（漫步深林）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shinrin_shoyo.mp3"></audio>
 
 - 出處：中華唱歌 / 蓬莱集ヨリ（昭2.2.25）

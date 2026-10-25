@@ -12,6 +12,8 @@ audio: "kimigayo_no_hatsuharu.mp3"
 
 # 君が代の初春
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kimigayo_no_hatsuharu.mp3"></audio>
 
 - 中等唱歌集

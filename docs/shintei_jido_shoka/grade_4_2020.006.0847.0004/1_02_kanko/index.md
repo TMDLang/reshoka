@@ -12,6 +12,8 @@ audio: "kanko.mp3"
 
 # 菅公
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kanko.mp3"></audio>
 
 - 文部省唱歌

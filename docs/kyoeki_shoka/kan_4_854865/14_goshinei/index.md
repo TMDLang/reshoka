@@ -12,6 +12,8 @@ audio: "goshinei.mp3"
 
 # 御眞影
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="goshinei.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第三十六～三十七頁（第三學期第三曲）

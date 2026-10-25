@@ -12,6 +12,8 @@ audio: "katsudo_shashin.mp3"
 
 # 活動寫眞
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="katsudo_shashin.mp3"></audio>
 
 - 葛原齒 作詞 / 小松耕輔 作曲

@@ -12,6 +12,8 @@ audio: "mudai.mp3"
 
 # 無題・三拍子曲
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="mudai.mp3"></audio>
 
 - 出處：《唱歌帖》（2020.006.0843）P040.jpg–P041.jpg (top)（6.–7.）

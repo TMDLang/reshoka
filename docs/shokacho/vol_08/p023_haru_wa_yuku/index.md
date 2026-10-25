@@ -12,6 +12,8 @@ audio: "haru_wa_yuku.mp3"
 
 # 春は行く（春將離去）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="haru_wa_yuku.mp3"></audio>
 
 - 出處：蓬集ヨリ（昭2.2.21）

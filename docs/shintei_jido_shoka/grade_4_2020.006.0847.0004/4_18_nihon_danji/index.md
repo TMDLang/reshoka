@@ -12,6 +12,8 @@ audio: "nihon_danji.mp3"
 
 # 日本男兒
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nihon_danji.mp3"></audio>
 
 - 曲：小山作之助／詞：東宮鐵眞呂

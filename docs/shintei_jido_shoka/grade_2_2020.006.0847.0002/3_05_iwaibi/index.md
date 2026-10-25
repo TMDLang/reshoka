@@ -12,6 +12,8 @@ audio: "iwaibi.mp3"
 
 # いはひ日
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="iwaibi.mp3"></audio>
 
 - 唱歌教科書

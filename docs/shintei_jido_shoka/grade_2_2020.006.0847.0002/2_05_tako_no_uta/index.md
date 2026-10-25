@@ -12,6 +12,8 @@ audio: "tako_no_uta.mp3"
 
 # たこのうた
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tako_no_uta.mp3"></audio>
 
 - 文部省

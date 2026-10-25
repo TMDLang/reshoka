@@ -12,6 +12,8 @@ audio: "kokoro_to_kokoro.mp3"
 
 # 心と心
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kokoro_to_kokoro.mp3"></audio>
 
 - 曲：永井幸次

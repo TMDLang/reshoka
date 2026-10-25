@@ -12,6 +12,8 @@ audio: "petako.mp3"
 
 # ぺたこ（白頭殼仔／白頭翁）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="petako.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第十三課）

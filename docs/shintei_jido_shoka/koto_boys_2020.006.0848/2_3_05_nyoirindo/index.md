@@ -12,6 +12,8 @@ audio: "nyoirindo.mp3"
 
 # 如意輪堂
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nyoirindo.mp3"></audio>
 
 - 詞：松谷代水（杉谷代水）

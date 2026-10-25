@@ -12,6 +12,8 @@ audio: "meijisetsu_shoka.mp3"
 
 # 明治節唱歌 (明治節唱歌 — 謄寫版)
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="meijisetsu_shoka.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供

@@ -12,6 +12,8 @@ audio: "seinendan_gotairei_hoshukuka.mp3"
 
 # 青年團御大禮奉祝歌 (青年團御大禮奉祝歌)
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="seinendan_gotairei_hoshukuka.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供

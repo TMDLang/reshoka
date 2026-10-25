@@ -12,6 +12,8 @@ audio: "shiohigari.mp3"
 
 # 汐干狩
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="shiohigari.mp3"></audio>
 
 - 詞：大和田建樹

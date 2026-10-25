@@ -12,6 +12,8 @@ audio: "gunkan.mp3"
 
 # ぐんかん（軍艦）
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="gunkan.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第四課）

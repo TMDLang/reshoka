@@ -12,6 +12,8 @@ audio: "tenchosetsu.mp3"
 
 # 天長節
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="tenchosetsu.mp3"></audio>
 
 - 詞：黒川真頼

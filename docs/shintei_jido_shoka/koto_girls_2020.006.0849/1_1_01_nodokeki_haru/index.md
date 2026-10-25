@@ -12,6 +12,8 @@ audio: "nodokeki_haru.mp3"
 
 # のどけき春
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="nodokeki_haru.mp3"></audio>
 
 - 詞：佐々木信綱（女子教育音樂教科書）

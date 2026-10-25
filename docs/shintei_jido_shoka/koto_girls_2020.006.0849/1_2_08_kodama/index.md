@@ -12,6 +12,8 @@ audio: "kodama.mp3"
 
 # 木靈
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kodama.mp3"></audio>
 
 - 曲：Carl Maria von Weber（北村中等音樂教科書）

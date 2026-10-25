@@ -12,6 +12,8 @@ audio: "haru_ga_kita.mp3"
 
 # 春が來た
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="haru_ga_kita.mp3"></audio>
 
 - 文部省

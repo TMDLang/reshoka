@@ -12,6 +12,8 @@ audio: "gunko.mp3"
 
 # 軍港
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="gunko.mp3"></audio>
 
 - lyrics: 大和田建樹

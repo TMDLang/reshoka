@@ -12,6 +12,8 @@ audio: "kaiko_kinenbi.mp3"
 
 # 開校記念日
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kaiko_kinenbi.mp3"></audio>
 
 - 唱歌帳（2020.006.0843）P100.jpg–P101.jpg（第 32–33 頁）

@@ -12,6 +12,8 @@ audio: "dainippon.mp3"
 
 # 大日本
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="dainippon.mp3"></audio>
 
 - 日治時期公學校唱歌（第三學年・第十二課）

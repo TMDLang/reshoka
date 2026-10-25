@@ -12,6 +12,8 @@ audio: "gaisen.mp3"
 
 # 凱旋
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="gaisen.mp3"></audio>
 
 - 出處：弘樂社發行《中等音樂教科書》

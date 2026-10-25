@@ -12,6 +12,8 @@ audio: "hoshi_no_yo.mp3"
 
 # 星の界
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="hoshi_no_yo.mp3"></audio>
 
 - 詞：杉谷代水

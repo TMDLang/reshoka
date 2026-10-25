@@ -12,6 +12,8 @@ audio: "bajo_no_shonen.mp3"
 
 # 馬上の少年
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="bajo_no_shonen.mp3"></audio>
 
 - 詞：大和田建樹

@@ -12,6 +12,8 @@ audio: "yamabiko.mp3"
 
 # 山びこ
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yamabiko.mp3"></audio>
 
 - 詞：松岸寬一

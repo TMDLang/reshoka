@@ -12,6 +12,8 @@ audio: "yuki.mp3"
 
 # 雪
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="yuki.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第三十～三十一頁（第十四曲）

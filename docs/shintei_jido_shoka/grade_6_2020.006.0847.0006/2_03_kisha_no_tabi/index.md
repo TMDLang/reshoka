@@ -12,6 +12,8 @@ audio: "kisha_no_tabi.mp3"
 
 # 汽車の旅
 
+> Re:Shoka 使用 AI 辨識樂譜，可能會有錯誤。歡迎回報。
+
 <audio controls src="kisha_no_tabi.mp3"></audio>
 
 - 北村氏中等音樂教科書
