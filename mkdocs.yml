@@ -3,7 +3,7 @@ site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
-# repo_url: https://github.com/tmdlang/reshoka
+repo_url: https://github.com/tmdlang/reshoka
 
 theme:
   name: material
@@ -73,6 +73,7 @@ extra_css:
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/abcjs@6.4.4/dist/abcjs-basic-min.js
   - javascripts/abc-render.js
+  - javascripts/random-song.js
 
 nav:
   - 首頁: index.md
@@ -885,4 +886,4 @@ nav:
           - "19 おばあさん（老奶奶／阿嬤）": utanohon/ge_2006.006.0878/19_obaasan/index.md
           - "20 ひな祭（女兒節／雛祭）": utanohon/ge_2006.006.0878/20_hinamatsuri/index.md
   - "重新創作":
-      - "公學校唱歌第三年學年組曲": recreations/kogakko_shoka_grade3_suite/kogakko_shoka_grade3_chamber_fugue_suite.tmd
+      - "公學校唱歌第三年學年組曲": recreations/kogakko_shoka_grade3_suite/index.md
