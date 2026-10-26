@@ -1,11 +1,11 @@
 ---
 title: "兵たいさん（士兵先生） — 《うたのほん》（唱歌課本） 下卷（初等科第二學年）"
 song_title: "兵たいさん（士兵先生）"
-description: "〈兵たいさん（士兵先生）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（2006.006.0878）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　てっぱう　かついだ　兵たいさん、 足なみ　そろへて　あるいてる。…"
+description: "〈兵たいさん（士兵先生）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（2006.006.0878）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　てっぱう　かついだ　兵たいさん、 足なみ　そろへて　あるいてる。…"
 keywords: "兵たいさん（士兵先生）, うたのほん》（唱歌課本）, 下卷（初等科第二學年）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《うたのほん》（唱歌課本） 下卷・國民學校初等科第二學年用（2006.006.0878）"
-musical_key: "G"
+musical_key: "C"
 image: "P019.jpg"
 audio: "heitaisan.mp3"
 ---
@@ -23,7 +23,7 @@ audio: "heitaisan.mp3"
 
 【曲目說明】
 ・出處：臺灣總督府編《うたのほん 下》（國民學校初等科第二學年用），第五課〈兵たいさん〉（士兵先生），原書第 15–16 頁。
-・調性與拍號：ト調（G 大調，原書五線譜省略調號，主音為 G，並於第 12、14 小節引入第四級音 Fa＝C5），2/4 拍，速度 != 112。
+・調性與拍號：C 大調（?= C，無升降記號），2/4 拍，速度 != 112。
 ・背景與曲風：第一節描寫扛著步槍整齊行軍（「とっとこ とっとこ」）的步兵，第二節描寫策馬揚塵疾馳而來（「ぱっぱか ぱっぱか」）的騎兵，充滿輕快活潑的進行曲節奏感。
 ・版本說明：本檔案為原書單聲部五線譜旋律之忠實數位化版本。
 
@@ -54,19 +54,19 @@ T:兵たいさん（士兵先生）
 M:2/4
 L:1/16
 Q:1/4=112
-K:G
+K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-G4 A4 | B2 B2 A2 B2 | G4 B2 B2 | B4 z4 |
-d2 d2 d2 B2 | A2 A2 G2 E2 | G2 A2 G2 A2 | G4 z4 |
-A4 G2 A2 | A4 G2 A2 | B2 B2 A2 B2 | c4 z4 |
-A4 d2 d2 | c4 A4 | B2 B2 A2 G2 | G4 z4 |
+F4 A4 | c2 c2 A2 A2 | F4 c2 c2 | c4 z4 |
+d2 d2 d2 c2 | A2 A2 G2 F2 | G2 G2 G2 G2 | G4 z4 |
+A4 G2 G2 | A4 G2 G2 | A2 A2 G2 A2 | c4 z4 |
+A4 d2 d2 | c4 A4 | c2 c2 A2 G2 | F4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](heitaisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjauvVx4_zHjS2PG6c-bpr8fk_H08WrgYJPWzueT5n_fk-ngpYWl6KtgqGhEZe9rYI7l42RvokdV52C0rPpS59t2v1sZtOzOfOfzul-tmHi07U7ni1Y-HTKxmdre4AGPW5sAxu97nHjbqDRCk92dD9u3v18zZonu6a8WLUJaLYSyByg3ueru1-073reuPjZ2u1P-zc97Z31vHPlyyUrnrbueDG9X4mLS19LwZZagEtBQeFxw4Rnszc9n73uxapVz2b0PW6YCBZt3v20fdeLmVPf75kFcc_zHXufz138dNec59tXPG7owuajhm5QmCH7v2Pu87Wdz5dPBPu0Byj4dOeW51NWAP37fk8P3PuPGzrQwv5xA1ABevADtTztm_9s9g6gRgVD00cNkw3NFF4uaHzc0AR18otV-581LH_R0f6su_fFTKCeWY-bO4CCQLPcFZ4uWQ5mQg0BWv18-6wXa-c8n9P4fOpSoBRYR8-THbtfzt_8vGmXgjuYt-zZtD1gC40eNzQamig83dD_fH3D0z1Tn7YuBYo_nT37-ZZZQB0Kbonv98x1NoU4FJgyFICOALJeNsx_umuZAiTdIDm1uefZzPUgp87e9HIRMERmgYJjRwPQ7Gf9_U_Xr37WOfvFxOnP1i59trz32dQtL_d2vVjY82I30MiOxw09jxtXPG5cDCYnKyBzHjcAVXQ-n9UC1AkMPFgw98DNfb522stla571z3q6cOvzafteLtv8oqHnyb42mLkbwUYByW6guQgO3NyXK_og5j5tbX22e_8LYEDsX_1sy-5neyeCZBs2AZ0JSlDAMFra_6xlPsLLzzs7ns1ZA0lmQP8C2c9WTXm2sAMY1pAoeTpt3YvGTS-bV8Dj5tn07qf7up_s7H66f8HT9cueTd3xZG_v055pEKNARkOTMMQAYGZ7sXLe09YVz6a1A4P2yY61IMaqeS_Wrgema6AP0VIOUORZXzMwXIAOUQgwMLQEygQYGBmA47ATbDYwSh43NDxuXAYLiTYwt_tx4xJwal0A5GIk3kaQzhfbNj9uXPW4cT9Yw9zHTb2PG3eADAJxmx43AY0AalgGYkCDCCUagYrQuNj0oFvdCPRow9Pu9seN-x43TgeJQ9QBfQoJB1DAI6UsYJSh5rIeoPiTPRMgKe7pnA0vtm4AKgaa8nTmAggCeg_ORlGAZM7zOfNfdG8EuaOhCR6Su3rA3ugCJr_HjavBbGDpAfQhMI3gCMPnC4CengRWOhEsDYwGSAACQwIoAmID0y5yGCInWaA6NC4ObeQEIygjzFkB9MyTHV2Ywfhix6IXW7c_2zQTmM2eLp0Cz2aggJq66un0SRASFJhIXGB4oivGE6pAB1FeB0CBgpY-F5dHamZJYmZxYp5VQGZiXr5DjUGNQjXIGgUbCy07MANY_QCzhBUwoEE5AhLebQo1QAaovFgCxC1AvAAsAkztIA4oXMH8qQqgmkIBZBXMqF09IKO6gLgNiPcB8WqwUlDCAGkFqSPCqBoFQwVdBSMgrlEwBkIjIIaIgXggMV0FA5AsOCUieaIJiKcD8Sog3g82eS7Q5F6QjSAvgkWAappAngM5ACwC5EEAhkdmQoxqmgR19kSwH0DaYIaBDAKJgkT6sRlWo2AKhiBnGwGhoYJZPNgvIKYR1FdY_QIqLkAUEE8G24UhQIJPQPkGRIGdDNKLIUCET0ARAnE0goWIHhNcHsEe2cBMCQ1VkCRQDJxcpkNFcHiDYqMgTgdFCMTByGnMECU2arm4dO0U4FkIxFHmAgA)]
-- [鋼琴伴奏 TMD 檔案](heitaisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjauvVx4_zHjS2PG6c-bpr8fk_H08WrgYJPWzueT5n_fk8nUORl957nE7Y82bPl6dL-550dQEEFLS0uRVsFQ0MjLntbBXcuGyN9EzuuOgWlZ9OXPtu0-9nMpmdz5j-d0_1sw8Sna3c8W7Dw6ZSNz9b2AM163NgGtm_d48bdQPsUnuzofty8-_maNU92TXmxahPQbCWQOUC9z1d3v2jf9bxx8bO125_2b3raO-t558qXS1Y8bd3xYnq_EheXvpaCLbUAl4KCwuOGCc9mb3o-e92LVauezeh73DARLNq8-2n7rhczp77fMwvinuc79j6fu_jprjnPt6943NCFzUcN3aCARPZ_x9znazufL58I9mkPUPDpzi3Pp6wAB3AP3PuPGzrQIuRxAygGMOKk52nf_GezdwA1KhiaPmqYbGim8HJB4-OGJqiTX6za_6xh-YuO9mfdvS9mAvXMetzcARQEmuWu8HTJcjATagjQ6ufbZ71YO-f5nMbnU5cCpcA6ep7s2P1y_ubnTbsU3MG8Zc-m7QFbaPS4odHQROHphv7n6xue7pn6tHUpUPzp7NnPt8wC6lBwS3y_Z66zKcShwJShAHQEkPWyYf7TXcsUIOkGyanNPc9mrgc5dfaml4uAITILFBw7GoBmP-vvf7p-9bPO2S8mTn-2dumz5b3Ppm55ubfrxcKeF7uBRnY8buh53LjiceNiMDlZAZnzuAGoovP5rBagTmDgwYK5B27u87XTXi5b86x_1tOFW59P2_dy2eYXDT1P9rXBzN0INgpIdgPNRXDg5r5c0Qcx92lr67Pd-18AA2L_6mdbdj_bOxEk27AJ6ExQggKG0dL-Zy3zEV4GJhygBCSZYc1fwEAAKVVQMNRTeNrZCxRX0PDMKynK11GAhbsmUM2zycCcMQ0YT8-mdz_d1_1swY6n-5ufrWh62r_0yd45wJh7uqEPqBfkxN27QPkJKVUgHKSgYKQHTLW7gRkU4gYFDY_UzJLEzOLEPJAtT_s3P-vsVtAIyEzMyw_y0FR4tmcKUBUk8QA1AfM23Anv98x-un0ZQrmPhybECiB4sm8ucpZ4srcPkg2eTZ35bO6E51umPFuxAxggz-ZMf7KzG5gSni3Y87K198nupU8n9bxo3ARxG8jN0MwKd8CLlfOetq54Nq0d6LMnO9aCGKvmvVi7HpiDgaGLlkeAIs_6moEp4NmqKQoBBoaWQJkAAyMDcKh3gs0GJr7HDQ2PG5fB4rwNzO1-3LgEnC8XALkY2bQRpPPFts2PG1c9btwP1jD3cVPv48YdIINA3KbHTUAjgBqWgRjQxICSYIGK0LjY9KBb3Qj0aMPT7vbHjfseN04HiUPUAX0KCQdQSkHKQ8DEiVqe9ADFn-yZAMlbT-dseLF1A1Ax0JSnMxdAENB7cDaKAiRzns-Z_6J7I8gdDU3wkNzVA_ZGFzCjPW5cDWYDy0mgD4GJD0cYPl8A9PQksNKJYGlgNEACEBgSQBEQG5hLkcMQOXMC1aFxcWgjJxhBWX7OCqBnnuzowgzGFzsWvdi6_dmmmcAC5enSKfACBRRQU1c9nT4JQoICE4kLDE90xXhCFeggyms7KFDQ0ufiAhcrVtC87VBjUKNQDc6xNhZadmBGjYKRgq6CKRDWAAsfXTCvRsEYCI0UDIEsQyDfACTGVYtimg-KaSZw00zjFaJNY0GGwRiGyAxDIANkErwIwuc2YBMAmFmtgEkAlFchKaENaBCkzF4CxC1AvAAsAsyHIA4oxsH8qQqg2loBFAgwo3b1gIzqAuI2IN4HxKvBSkFJFqQV4gGCRkHCBDmcjKFiIB5IDBZiaJ5oAuLpQLwKiPeDTZ4LNLkXZCPIi2ARoJomkOdADgCLAHkQgOGRmRCjmiZBnT0R7AeQNphhIINAoiCRfmyGAaMLDEHONgJHuFk82C8gphFK7KP5BVSQgSggngy2C0OABJ-AcjSIAjsZpBdDgAifgCIE4mgECxE9oKSN1SPYIxtYXEBDFSQJFAMnl-lQERzeoNgokvIiWg7ClR8xch8mA0klWByUhc1ysWddaKqBicMZcM2gbG-CqhIujlEcGEC8omunAC5ZFIAMuLcwOMpcAA)]
+- [主旋律 TMD 檔案](heitaisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjauvVx4_zHjS2PG6c-bpr8fk_H08WrgYJPWzueT5n_fk-ngpYWl6KtgqGhEZe9rYIzl42RvokdV52C0rPpS59t2v1sZtOzOfOfzul-tmHi07U7ni1Y-HTKxmdre4AGPW5sAxu97nHjbqDRCk92dD9u3v18zZonu6a8WLUJaLYSyByg3ueru1-073reuPjZ2u1P-zc97Z31vHPlyyUrnrbueDG9X4mLS19LwZZagEtBQeFxw4Rnszc9n73uxapVz2b0PW6YCBZt3v20fdeLmVPf75kFcc_zHXufz138dNec59tXPG7owuajhm5QmCH7v2Pu87Wdz5dPBPu0Byj4dOeW51NWAP37fk8P3PuPGzrQwv5xA1ABevADtTztm_9s9g6gRgVD00cNkw3NFF4uaHzc0AR18otV-581LH_R0f6su_fFTKCeWc4KT5csBwoDTQNFGcjWloVPe9tfzux9sWIGWA3IXGBEKgD1AFkvG-Y_3bVMARLNSCY39zybuR5k8uxNLxcBPTAL5PodDc_XNzzr73-6fvWzztkvJk5_tnbps-W9z6Zuebm368XCnhe7gUZ2PG7oedy44nHjYjA5WQGZ87gBqKLz-awWoE6gX2Gh0gM39_naaS-XrXnWP-vpwq3Pp-17uWzzi4aeJ_vaYOZuBBsFJLuB5iI4cHNfruiDmPu0tfXZ7v0v9kx9un_1sy27n-2dCJJt2AR0Jij-1zc8Xdr_rGU-wsvPOzuezVkDSRVA_wLZz1ZNebaw43nTLkg0PJ227kXjppfNK4Cx-Hz7rBdr5zyb3v10X_eTnd1P9y94un7Zs6k7nuztfdozDWIUyGhoioMYAMwbL1bOe9q64tm0dmDQPtmxFsRYNe_F2vXAZAj0IVpEA0We9TUDwwXoEIUAA0NLoEyAgZEBOA47wWYDo-RxQ8PjxmWwkGgDc7sfNy4BJ64FQC5GWmsE6XyxbfPjxlWPG_eDNcx93NT7uHEHyCAQt-lxE9AIoIZlIAY0iFCiEagIjYtND7rVjUCPNjztbn_cuO9x43SQOEQd0KeQcAAFPFLKAkYZaqboAYo_2TMBkuKeztnwYusGoGKgKU9nLoAgoPfgbBQFSOY8nzP_RfdGkDsamuAhuasH7I0uYPJ73LgazAZmdqAPgWkERxg-XwD09CSw0olgaWA0QAIQGBJAERAbmHaRwxA5yQLVoXFxaCMnGEEZYc4KoGee7OjCDMYXOxa92Lr92aaZwGz2dOkUeDYDBdTUVU-nT4KQoMBE4gLDE10xnlAFOojyIhsKFLT0ubg8UjNLEjOLE_OsAjIT8_IdagxqFKpB1ijYWGjZgRnA2gKYJayA-bntcXMzkJr4uGmZQo3C46bVQE4rkF4CpBtAIs0zwJym_WBBkJKtj5s3gwwBWQYzbFcP0LBGUPEPpIChvRqksnEdEC8G4vlAY_aARYBZpwUiAKRBAqCIQjasRsFEQVfBDIhrFAzjQMgMCCGiED5YXFfBAKQEnCQRvmlaBMTbgZZ1AfF8sGP3AllrQb4A-RUsAlTTDPQl2IdgESAPAjD8MxPsbmD-ByqfBHbuRKjjl4ExSARUwIJEQSL9YAu6UY2rUTCKgyKw60H-MQX6pwZIQiCIhd1DzR2Q6OkAGrsZ7FZ0AVK8A8pFIArsapDbMQSI8AwoaiCORmaBvASKJpxRgyMZPW7uB5sKkdwK5M8DRyFEBIc_sCciYHaHGAWWnApKh0A8HSqCxReQOIG6GTXFgTwFSnEQn9RycenaKcCzFYijzMUFAA)]
+- [鋼琴伴奏 TMD 檔案](heitaisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjauvVx4_zHjS2PG6c-bpr8fk_H08WrgYJPWzueT5n_fk8nUORl957nE7Y82bPl6dL-550dQEEFLS0uRVsFQ0MjLntbBWcuGyN9EzuuOgWlZ9OXPtu0-9nMpmdz5j-d0_1sw8Sna3c8W7Dw6ZSNz9b2AM163NgGtm_d48bdQPsUnuzofty8-_maNU92TXmxahPQbCWQOUC9z1d3v2jf9bxx8bO125_2b3raO-t558qXS1Y8bd3xYnq_EheXvpaCLbUAl4KCwuOGCc9mb3o-e92LVauezeh73DARLNq8-2n7rhczp77fMwvinuc79j6fu_jprjnPt6943NCFzUcN3aCARPZ_x9znazufL58I9mkPUPDpzi3Pp6wAB3AP3PuPGzrQIuRxAygGMOKk52nf_GezdwA1KhiaPmqYbGim8HJB4-OGJqiTX6za_6xh-YuO9mfdvS9mAvXMclZ4umQ5UBhoGijKQLa2LHza2_5yZu-LFTPAakDmAiNSAagHyHrZMP_prmUKkGhGMrm559nM9SCTZ296uQjogVkg1-9oeL6-4Vl__9P1q591zn4xcfqztUufLe99NnXLy71dLxb2vNgNNLLjcUPP48YVjxsXg8nJCsicxw1AFZ3PZ7UAdQL9CguVHri5z9dOe7lszbP-WU8Xbn0-bd_LZZtfNPQ82dcGM3cj2Cgg2Q00F8GBm_tyRR_E3Ketrc9273-xZ-rT_aufbdn9bO9EkGzDJqAzQfG_vgGYzJ-1zEd4GRjPQAlIqsCaHYCBAFKqoGCop_C0sxcorqDhmVdSlK-jYKLwdEM_0ExNoJpnk4EJedqTHbufTe9-uq_72YIdT_c3P1vR9LR_6ZO9c5437Xq6oQ-oF-TE3btAyR8pEhEOUlAw0gMmst3A_ARxg4KGR2pmSWJmcWIeyJan_ZufdXYraARkJublB3loKjzbMwWoCpJggJqAWRHuhPd7Zj_dvgyh3MdDE2IFEDzZNxc5BT_Z2wdJtc-mznw2d8LzLVOerdgBDJBnc6Y_2dkNTAnPFux52dr7ZPfSp5N6XjRugrgN5GZo3oI74MXKeU9bVzyb1g702ZMda0GMVfNerF0PzHDA0EVL0kCRZ33NwBTwbNUUhQADQ0ugTICBkQE41DvBZgMT3-OGhseNy2Bx3gbmdj9uXALORguAXIxc1QjS-WLb5seNqx437gdrmPu4qfdx4w6QQSBu0-MmoBFADctADGhiQEmwQEVoXGx60K1uBHq04Wl3--PGfY8bp4PEIeqAPoWEAyilIOUhYOJEzf49QPEneyZA8tbTORtebN0AVAw05enMBRAE9B6cjaIAyZznc-a_6N4IckdDEzwkd_WAvdEFzGiPG1eD2cBiDehDYOLDEYbPFwA9PQmsdCJYGhgNkAAEhgRQBMQG5lLkMETOnEB1aFwc2sgJRlCWn7MC6JknO7owg_HFjkUvtm5_tmkmsEB5unQKvEABBdTUVU-nT4KQoMBE4gLDE10xnlAFOojyygkKFLT0ubjAxYoVNG871BjUKFSDc6yNhZYdmFGjYKagq2AUB0I1CoZxQA5IAMwEIjMFUyDbBChiABLlqkUx0gfFSBO4kUbxCtFGubEgnUCWCYhhCGQYIouAjIIXRPhcCKy3gVnWCliytj1ubgZSEx83LQMa9LhpNZDTCqSXAOkGkEjzDDCnaT9YEKRk6-PmzeDiCRgYMMN29QANawRVxEAKmBpWg1Q2rgPixUA8H2jMHrAIMGu3QASANEgAlJCQDYMEDGpwmUFFIXxoiELCDtU3TYuAeDvQsi4gng927F4gay3IFyC_gkWAapqBvgT7ECwC5EEAhn9mgt0NLJ-AyieBnTsR6vhlYAwSAVV1IFGQSD_Ygm5U44BRB04JQAR2Pcg_pkD_1ABJCASxsHuouQMSPR1AYzeD3YouQIp3QLkcRIFdDXI7hgARngFFDcTRyCyQl0DRhDNqcCSjx839YFMhkluB_HngKISI4PAH9kQELI4gRoElp4LSIRBPh4pg8QUpGRQtV-HKpBg5EiECY2BkZwwV6ErhZmEycBqKtYwwgPhF104BXN4oABlwf2FwlLm4AA)]
 
 ## 分析
 
@@ -75,50 +75,50 @@ A4 d2 d2 | c4 A4 | B2 B2 A2 G2 | G4 z4 |
 📊 TMD Song Profile: [ 兵たいさん（士兵先生） ]
 ================================================================================
 ⏱  Duration:       0:17 (17.1s), 16 measures total
-🎼 Key & Tempo:    首調基準 G, != 112.0 BPM, <2/4>
+🎼 Key & Tempo:    首調基準 C, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    E4 (MIDI 64) – D5 (MIDI 74) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  E4 in [Heitaisan #1 @ m.6, 0:06]
+🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
+   - 最低音:  F4 in [Heitaisan #1 @ m.1, 0:00]
    - 最高音: D5 in [Heitaisan #1 @ m.5, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Heitaisan (17.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+🗝  調性診斷：       A 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, G, B, D, C
-   - 調性數值:    G 大調 [相關度: 0.64, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.64), A 小調 (0.54), D 大調 (0.54)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  A, C, G, F, D
+   - 調性數值:    A 小調 [相關度: 0.75, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 小調 (0.75), C 大調 (0.70), F 大調 (0.62)
+   - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [Heitaisan #1]: G 大調 (r: 0.64, 自然音純度: 100.0%)
+     • [Heitaisan #1]: A 小調 (r: 0.75, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
+         F            G  
       Bb               D  
-      Eb               A  
+      Eb              [A ]*
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████                      7.1%
+     C  : █████████████████         23.2%
      C# :                            0.0%
-     D  : ██████                     8.9%
+     D  : ███████                    8.9%
      D# :                            0.0%
-     E  : █                          1.8%
-     F  :                            0.0%
+     E  :                            0.0%
+     F  : █████████                 12.5%
      F# :                            0.0%
-     G  : ██████████████████        25.0%
+     G  : █████████████████         23.2%
      G# :                            0.0%
-     A  : ████████████████████████  33.9%
+     A  : ████████████████████████  32.1%
      A# :                            0.0%
-     B  : ████████████████          23.2%
+     B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E4 – D5 (10 個半音 / 0.8 個八度, 44 個音符)
+  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 44 個音符)
 ================================================================================
 ```
 
