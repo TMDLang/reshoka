@@ -3,7 +3,7 @@ T:くも（蜘蛛）
 M:2/4
 L:1/16
 Q:1/4=96
-K:C
+K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 c2 A4 G2 | F3 F A2 A2 | G3 A G2 F2 | D2 F2 G2 z2 |

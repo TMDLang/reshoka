@@ -3,7 +3,7 @@ T:兵たいさん（士兵先生）
 M:2/4
 L:1/16
 Q:1/4=112
-K:C
+K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F4 A4 | c2 c2 A2 A2 | F4 c2 c2 | c4 z4 |
