@@ -1,7 +1,7 @@
 ---
 title: "おまつり（祭典） — 《うたのほん》（唱歌課本） 下卷（初等科第二學年）"
 song_title: "おまつり（祭典）"
-description: "〈おまつり（祭典）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（2006.006.0878）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　もりの　太こが　どんと　なりゃ、 おこめも　せんども　うれしさう。…"
+description: "〈おまつり（祭典）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（2006.006.0878）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　今日は　たのしい　おまつり日。 たいこの　音に　目が　さめて、…"
 keywords: "おまつり（祭典）, うたのほん》（唱歌課本）, 下卷（初等科第二學年）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《うたのほん》（唱歌課本） 下卷・國民學校初等科第二學年用（2006.006.0878）"
@@ -23,8 +23,8 @@ audio: "omatsuri.mp3"
 
 【曲目說明】
 ・出處：臺灣總督府編《うたのほん 下》（國民學校初等科第二學年用），第十一課〈おまつり〉（祭典），原書第 27–28 頁。
-・調性與拍號：ハ調（C 大調，主音為 C，並於第 2、11、15 小節使用導音 Si＝`7`），2/4 拍，速度 != 112。
-・背景與曲風：描寫秋日豐收祭典中神社林間太鼓咚咚響起、幡旗隨晨風飄揚的熱鬧景象；原書第 28 頁配有大鳥居與紅白祭典幡旗高聳於林間的插圖。
+・調性與拍號：C 大調（?= C，無升降記號），2/4 拍，速度 != 112。
+・背景與曲風：共三節歌詞，第一節描寫祭典日清晨被太鼓聲喚醒、踏上石階參拜搖響神社鈴鐺；第二節描寫煙火升空、屋台攤販林立與兒童相撲開賽的喜慶；第三節描寫街角燈籠旗海與神轎「わっしょ わっしょ」熱鬧巡行的景象。
 ・版本說明：本檔案為原書單聲部五線譜旋律之忠實數位化版本。
 
 ・編曲說明（鋼琴伴奏版）：
@@ -35,15 +35,20 @@ audio: "omatsuri.mp3"
 ## 歌詞
 
 ```text
-一　もりの　太こが　どんと　なりゃ、
-おこめも　せんども　うれしさう。
-ことしは　ゆたかな　秋まつり、
-どんどん　なる　なる、お太こが。
+一　今日は　たのしい　おまつり日。
+たいこの　音に　目が　さめて、
+まづ　おまゐりと　石だんを、
+のぼって　行けば　すずが　なる。
 
-二　宮の　のぼりが　はたはたと、
-はれた　朝風　吹きわたり、
-うぶすなざまの　おまつりに、
-どんどん　なる　なる、お太こが。
+二　今日は　うれしい　おまつり日。
+花火が　ぽんぽん　上ってる、
+道には　ならぶ　やたいみせ、
+子供ずまふも　はじまった。
+
+三　今日は　たのしい　おまつり日。
+かどには　ちゃうちん　はたの　なみ、
+みこしも　さっき　出たところ、
+わっしょ　わっしょと　もんで　ゐる。
 ```
 
 ## ABC
@@ -57,16 +62,16 @@ Q:1/4=112
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-G4 A2 G2 | c3 c B2 c2 | G2 A2 G2 A2 | G4 z4 |
-E2 E2 D2 E2 | A4 G2 E2 | D2 E2 G2 E2 | D4 z4 |
-C2 D2 E2 D2 | G2 G2 G2 z2 | E2 G2 A2 B2 | c4 z4 |
+G4 A2 G2 | c3 c B2 c2 | G3 A G2 A2 | G4 z4 |
+E3 E D2 E2 | A4 G2 E2 | D3 E D2 E2 | D4 z4 |
+C2 D2 E2 G2 | G2 G2 G2 z2 | E3 G A2 B2 | c4 z4 |
 d2 d4 e2 | d3 d c2 A2 | G3 A B2 d2 | c4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](omatsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PW4cd_jxiWPm7re7-l4vnTt09Yd7_d0KmhpcSnaKhgaGnHZ2yo4c9kY6ZvYcdUpKD2bvvTZpt3PZjY9mzP_6ZzuZxsmPl2749mChU-nbHy2tgdoxOPGtseN8x83rnvcuPtx02SFJzu6Hzfvfr5mzdPexic7Gl6s2gQ0XglkFFD789XdL9p3PW9c_Gzt9qf9m572znreufLlkhVAR7yY3q_ExaWvpWBLLcCloKDwuGHCs9mbns9e92LVqmcz-h43TASLNu9-2r7rxcyp7_fMgrjn-Y69z-cufrprzvPtKx43AMMI01MN3UDfogRBx9znazufL58I9OyTXT1Awac7tzyfsgLo3_d7epBD4HEDMJgQAf-4AagAEfZAxU_75j-bvQOoRcHI_FHDZCMLhZcLGh83NEEd-2LV_mcNy190tD_r7n0xcz7Q1Y-b-4GCQFOcFZ4uWQ5m9jzZsfvl_M3Pm3YpOIN5y55N2wM28nFDo6EhiDBVeLqh__n6hid79wPd-XRDH1C9QnDm-z1zE8wTIC4BxrsC0BYg62XD_Ke7lilAUgWSW5p7ns1cD3LL7E0vFwE9O-tZf__T9aufL-8GppUXGyc8m7IN4rUnO9Y-Xzrv-ZJ9z-ZNfzlt8tMlq17umfx00iwgejl__4ut24FOerpz4bPp01_OWvFs5gqgaS8Xtzzrn_V8Vsvzto0v1ywHWbRx4fs9s5HCBxw0L1t7n83pBPr85ealTze2Al3zfEvr85l7IRZDDV0940XjZmAYQKwHGvqsf9LTOdMQXnne2fFszhpIygD5Y86aZ6umPFvYAQxCiIVPp6170bjpZfOKJ7umPN8-68XaOc-mdz_d1_1kZ_fT_Querl_2bOqOJ3t7n_ZMgxgFMhqa6iAGALPIi5XznraueDatHehIYIiAGKvmvVi7HpgUQYkANcqBIs_6moEBCnSIQoCBsSFQBkgZgeOmE2w2MEU9bmh43NQESkjABNrQAAzYx42THzf2gMQbVwLT6-NGYCIGsleB1DQ1A8MZ7CpQEpz8uKkRpBkkPRusFKgBwm173NTzuHH648apIDY0lEAGrwCLAl0MtBaSL7pBZjc0AOMcKVFDLYE4AExC3QDMO3BGI9AVSA4GWwL0NSRMQJGweB0wvl4sXgiML0SKmbMBkmJA-WrF7ucbN4NifMoGoLIne-cAi5AnO-e_XLj-6b7pz9YufDptzvOWhc_WTwGa_mR3FzBPPpsBTEbgdAlMWOBkCst7PZDkCDV_4nSg-yAMkNSS5VAHTASGeBM8_HeBwvnpOmDRAAp8cBmxBxwXkPBfDw4gCAmMBWigrAeH7Xygimdz5gITOsiICTsfN_Y-buoHiSOFHzCEtz1unAkKsMZp4OCF2INUfjSuplJoQ_InKKjBWebp1FVPpy6DksAwAedGYFA8m7nl2ZzpoBwEzqVAlz_rbnrR0POyEZhvep7OWfF0XceLtduBpj1umPJ8yqKnc-aD2VNBAQ4tC4DVDYmhDXQr5ZUAFCho6XNx-ecmlhSXFmVaBWQm5uU71BjUKFSDbFGwsdCyAzOA1Q8wf1kpALMEEHcBw3cdULQGWMauAmUFIO4B84EhDpQH8VcA8SqQCDingcwAWQUza1cP0KzG_UDZFrhZIBqYZKDm94BF1gPxfDgNElkBNgpuWI2CqYKughmQrFHQMIxT0NVVMIzTVNXQ1dVUMAcywQpA0mZQpQZAXANOsAhPNYIsBDq6qRHsQZA1s6HeAHkHItIGZPUA6elAPBUqguIUhL-ArgUrnQ_1FzDMgFqApQMQzwGLbAXiXqCqfpi_gH5G85cxEBoBcQ3Q6bpAp4NYID6MhcMrsLAHOXM92GSgw8FhCLIdHCNg9wBtb9wHxEuw2Y7wCkjzNiCeCdc8DaoRFmmgsIMYBDIGJLIa3SuGYIcbgWMABA3A3gPFiTlIFhhr2P0CS0sQGmQ0MLU1QfwBoiHWw9IgxDmgdIjVJ1QwDBjscSCkq2AMSlgaIKYuUACa3oAeAaUyDWAyAyZJeCIEqkLxZC0Xl66dAizPgdjKXAA)]
-- [鋼琴伴奏 TMD 檔案](omatsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PW4cd_jxiWPm7re7-l4vnTt09Yd7_d0Atkvu_c8n7DlyZ4tT5f2P-_sAAoqaGlxKdoqGBoacdnbKjhz2Rjpm9hx1SkoPZu-9Nmm3c9mNj2bM__pnO5nGyY-Xbvj2YKFT6dsfLa2B2jW48a2x43zHzeue9y4-3HTZIUnO7ofN-9-vmbN097GJzsaXqzaBDReCWQUUPvz1d0v2nc9b1z8bO32p_2bnvbOet658uWSFUCXvZjer8TFpa-lYEstwKWgoPC4YcKz2Zuez173YtWqZzP6HjdMBIs2737avuvFzKnv98yCuOf5jr3P5y5-umvO8-0rHjcAAw7TUw3dQN-iBEHH3OdrO58vnwj07JNdPUDBpzu3PJ-yAhzGPcgh8LgBGEyI2HjcAIoEpAjpedo3_9nsHUAtCkbmjxomG1kovFzQ-LihCerYF6v2P2tY_qKj_Vl374uZ84GuftzcDxQEmuKs8HTJcjCz58mO3S_nb37etEvBGcxb9mzaHrCRjxsaDQ1BhKnC0w39z9c3PNm7H-jOpxv6gOoVgjPf75mbYJ4AcQkw3hWAtgBZLxvmP921TAGSKpDc0tzzbOZ6kFtmb3q5COjZWc_6-5-uX_18eTcwrbzYOOHZlG0Qrz3Zsfb50nnPl-x7Nm_6y2mTny5Z9XLP5KeTZgHRy_n7X2zdDnTS050Ln02f_nLWimczVwBNe7m45Vn_rOezWp63bXy5ZjnIoo0L3--ZjRQ-4KB52dr7bE4n0OcvNy99urEV6JrnW1qfz9wLsRhq6OoZLxo3A8MAYj3Q0Gf9k57OmYbwCjCugZ6ApAysuQLoOZBSBQVDPYWnnb1AcQUNz7ySonwdBRNoUGqCAmAyMDFPAwb_s-ndT_d1P1uw4-n-5mcrmp72L32ydw4wQoAhDdQLiufdu0BZACk6n7XMhzpIQcFID5jQdgOzFcQNChr-uYklxaVFmSBLnvZvftbZraARkJmYlx_koanwbM8UoCJIyAD1ADMk3AWgENu-DKHcx0MTYgMQPNk3FzkRP9nbB0m4z6bOfDZ3wvMtU56t2AEMj2dzpj_Z2Q2MkmcL9gBD-8nupU8n9bxo3ARxGsjJ0OwFd8CLlfOetq54Nq0d6DFg1IMYq-a9WLsemOdAqR01bQNFnvU1A1POs1VTFAIMjA2BMkDKCBzonWCzgVnncUPD46YmUI4B5sSGBmAKetw4-XFjD0i8cSUwYz5uBOZWIHsVSE1TMzBBgV0FymuTHzc1gjSDpGeDlQI1QLhtj5t6HjdOf9w4FcSGJgeQwSvAokAXA62FFADdILMbGoCJGyn3Qi2BOABMQt0ALCTgjEagK5AcDLYE6GtImIASzeJ1wIT5YvFCYMJEZI05GyBZA1SArNj9fONmUNKesgGoDJSSOlc-2Tn_5cL1T_dNf7Z24dNpc563LHy2fgrQ9Ce7u0BxOAOYX8AZEJiDwPkRVsj0QPId1PyJ04HugzBAUkuWQx0wERjiTfDw3wUK56frgGUgKPDBheEecFxAwn89OIAgJDAWoIGyHhy2wDTd8GzOXGDyARkxYefjxt7HTf0gcaTwA4bwtseNM0EB1jgNHLwQe5AKysbVVAptSEEECmpw2fB06qqnU5dBSWCYgIsdYFA8m7kFmPBBRQW4OAK6_Fl304uGnpeNwAKi5-mcFU_XdbxYux1o2uOGKc-nLHo6Zz6YPRUU4NBCD1jZkhjaQLdSXttBgYKWPhcXuIyygpYUDjUGNQrV4PxvY6FlB2bUKBjFgZCugnEckKMBYuoCBTRVNXR1NRUM4xTMQMKmIFEzqKA5SEMNSE5XwQCIa7hqUWzyQbHJBG6TabxCtGkslGGWC2OBhQyBDEMgA2QUrLDD525g8wBYLFgpAHMyEHcBk8U6sB3AEAXlYCDuAfOBCQUoD-KvAOJVIBFwAQEuAYEhBDNrVw_QrMb9QNkWuFkgGpjSoeb3gEXWA_F8OA0SWQEtTqGGAf0EDBIzIAkMNlAQ6QIDCh5wQAGQApA0KFxBSiEhiOqpRpCFQEc3NYI9CLJmNtQbIO9ARNqArB4gPR2Ip0JFUJyC8BfQtWCl86H-AoYZUAuwUAPiOWCRrUDcC1TVD_MX0M9o_jIGQiMgrgE6XRfodBALxIexcHgFFvYgZ64Hmwx0ODgMQbaDYwTsHqDtjfuAeAk22xFeAWneBsQz4ZqnQTXCIg0UdhCDQMaARFaje8UQ7HAjcAyAoAHYe6A4MUdN2Gh-gaUlCA0yGpjamiD-ANEQ62FpEOIcUDrE6hMqGEa13Iua5XBlYFgmRWWYIGdkdJUmMAZIAZyBphKlBMAUIa74AMYhyCe6dgrgokgByID5Cp2tzAUA)]
+- [主旋律 TMD 檔案](omatsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PW4cd_jxiWPm7re7-l4vnTt09Yd7_d0KmhpcSnaKhgaGnHZ2yo4c9kY6ZvYcdUpKD2bvvTZpt3PZjY9mzP_6ZzuZxsmPl2749mChU-nbHy2tgdoxOPGtseN8x83rnvcuPtx02SFJzu6Hzfvfr5mzdPexic7Gl6s2gQ0XglkFFD789XdL9p3PW9c_Gzt9qf9m572znreufLlkhVAR7yY3q_ExaWvpWBLLcCloKDwuGHCs9mbns9e92LVqmcz-h43TASLNu9-2r7rxcyp7_fMgrjn-Y69z-cufrprzvPtKx43AMMI01MN3UDfogRBx9znazufL58I9OyTXT1Awac7tzyfsgLo3_d7epBD4HEDMJgQAf-4AagAEfZAxU_75j-bvQOoRcHI_FHDZCMLhZcLGh83NEEd-2LV_mcNy190tD_r7n0xcz7Q1c4KT5csBwoDzQHFF8i-loVPe9tfzux9sWIGWA3IXGAsKgD1AFkvG-Y_3bVMARLHSCY39zybuR5k8uxNLxcBnT7raevGJzs6n69vAEbvi5XzID4BegMk0t__dP1qiLtB6WJH67OZK14sWv10yaqXeya_aNz0dNqsl22THjc0vtjR_2RH1_P5m1_O6nva3_yse86zCdNezt__fOm850v2vezY8nLCrvd7ZkMCDmFy68znjauBvni-chfQkKcbu5_2b3g2ZcmLTSufzZsOSjsd7U9bJz1fvfT57B3PJm16Oa37xea9z2e1PJ0251nrNqiBEMeDDXyxcPqL5ZOet3c837jg2fTpz7ZuB5oAdMOLvcCU0PO4qf9x4-LHjdMfN7UrIHMeN_Q-b9v4cs3yp9sXvljYA7QAFEYbFyKC7Xlnx7M5ayBpChhmQPazVVOeLex43rQLEpVPp60DhsfL5hVPdk15vn3Wi7Vznk3vfrqv-8nO7qf7Fzxdv-zZ1B1P9vY-7ZkGMQpkNDS9QgyAhP7T1hXPprUDHf1kx1oQY9W8F2vXAxMxKPmgJhagyLO-ZqC3gQ5RCDAwNgTKACkjcDroBJsNjMTHDQ1PdncB4-5xI9CYBlgan_64sQXMRaRRkBqod0GKWh43TgYpbWh4OX_z48bVQAYwUz1u7AFrm_q4qfFx4zJgnEE0AM0A6oaZ1zQBlOYbgfmqAZgiHjcuAOaox02gZAJRDTRmDzjsgQY0AMP7cePEx40bwPpnPm6cBbNk1eMmYCYEOwnoWUhQAMMe6J-nS1Y-m7H-6f7Vz1Y0ASMLnkCBqp_OWQFPncAwBKbOJ_vaQNlh2bSnraDoerKr7WnfbkgafdHQg5xwgcpebN0A5IIU7OsBphtgwn3av-7pzJ1P9s4Bpmag-fCw3QVyJGrYtj1uAvoFb9i-6NoITPEwH-4FBQyEBJq1A6gBHCggb4OD6iUoDoCqIcYDw6PzceM2ELsJGD2QSNr_uHE2VPXTtROe7JsNDkCgvVsfNzWBta1_3DgDLAI0ez6-8ATmrqf7m9HCE5JFny_YAERP52wA5lVQ-CxZCcyxoFBtnPxi-_qnrSufTW981jfpacf0FxOnQzIwqJBDyrpPds4Hmb-8Gxj-yMG4o5O8JNr9uHElUtgsfNzUDC7DgQxQYIK9DTYIEnLAcIKlPmCIAUMVmO0hwTMVHDC9QDawhgDrWQFS0AQUgWhAKSeAQY_EBSdxkEGgaFwOZgOTPumJFlJsPeub_Wz3fmD4QMovUNm3rOnZ5kXPtq560bEGVChNn_50J7CgB6VMYIn2tHP2s85eYMACHQ4suIAaQVJz9j3ZtevZ2sVPp3UB4wJY6j2dsf_ppN2g4hXKgJV1czY839D-bHLjs6414PIRHClAd1NeEUOBgpY-F5d_bmJJcWlRplVAZmJevkONQY1CNcgWBRtDMy07MAvYBgAWVVbAoN4I4oIK3KlA3K9QAxTaD-b3AVnbgXgJWGwVWGweELcA8SqQWPNkiFYYAFoNM3pXD9DoxolQoxu3AvF6kJbGNnD09gBZ04G4BSzWBSnPgHgJUK4LLLYZp9E7Omni6hoFUwVdMDQDYhC7RsEwDiwApMwhFEgQoswMTIOUIjQaQOkacDZDCmKwy4Auety0GexCmMvAjusA4m6wwxaCla0BYmB4AXkgMVB44Qvi9eCwWwUOMWARBw47UOEGCfe9QLMmg8WawHxQuC8G4mVgJ3QTCOPVYPd1gt0HDeTmxsfNix83LQNJNALxZrBgP9jh-yGh3wyOwOb5OELZGBxExgpGYBIUfKBABEFQMEJEQHKoaiAiuIMYGMUgJ7WCHQKLdJB1j5s3gHkQsQ6oa0C-XwJWC0wqzQ1wj2wiENrgiGwEx1MjOHTA4Q8KX7D5TZ1gsW1ItrSAReaD0zpIP0jtbJy2gMMdHHSgpAJxH8jdi6CmbQXzmsEyaxG2NLeDRUARAExNQJ0gMZg8qi3ARA0MPljAQpI5iIRhUADDIskUHDWgpA_PCnhioA_stjkQ54FTLiKUNwL5E6B-2AkW2QVJ6dDEAgpL7CECCXdQcgZWPhBZYOEPDkZQnQspW4ACkFiA5IYZ0NJkMVgMe0JEhPZ6kIuBAf24eTlSiCKLgkIVJAaKBVBKAYU3KF3hdjkwwYLCC0yAkzKk6IDygRQ4OJFLDzNwOIMVYA3sWi4uXTsFWMEOYitzcQEA)]
+- [鋼琴伴奏 TMD 檔案](omatsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PW4cd_jxiWPm7re7-l4vnTt09Yd7_d0Atkvu_c8n7DlyZ4tT5f2P-_sAAoqaGlxKdoqGBoacdnbKjhz2Rjpm9hx1SkoPZu-9Nmm3c9mNj2bM__pnO5nGyY-Xbvj2YKFT6dsfLa2B2jW48a2x43zHzeue9y4-3HTZIUnO7ofN-9-vmbN097GJzsaXqzaBDReCWQUUPvz1d0v2nc9b1z8bO32p_2bnvbOet658uWSFUCXvZjer8TFpa-lYEstwKWgoPC4YcKz2Zuez173YtWqZzP6HjdMBIs2737avuvFzKnv98yCuOf5jr3P5y5-umvO8-0rHjcAAw7TUw3dQN-iBEHH3OdrO58vnwj07JNdPUDBpzu3PJ-yAhzGPcgh8LgBGEyI2HjcAIoEpAjpedo3_9nsHUAtCkbmjxomG1kovFzQ-LihCerYF6v2P2tY_qKj_Vl374uZ84GudlZ4umQ5UBhoDii-QPa1LHza2_5yZu-LFTPAakDmAmNRAagHyHrZMP_prmUKkDhGMrm559nM9SCTZ296uQjo9FlPWzc-2dH5fH0DMHpfrJwH8QnQGyCR_v6n61dD3A1KFztan81c8WLR6qdLVr3cM_lF46an02a9bJv0uKHxxY7-Jzu6ns_f_HJW39P-5mfdc55NmPZy_v7nS-c9X7LvZceWlxN2vd8zGxJwCJNbZz5vXA30xfOVu4CGPN3Y_bR_w7MpS15sWvls3nRQ2ulof9o66fnqpc9n73g2adPLad0vNu99Pqvl6bQ5z1q3QQ2EOB5s4IuF018sn_S8veP5xgXPpk9_tnU70ASgG17sBaaEnsdN_Y8bFz9unP64qV0BmfO4ofd528aXa5Y_3b7wxcIeoAWgMNq4EBFswFQCDDBImsKan4ABCVKqoGCop_C0sxcorqDhmVdSlK-jYKLwdEM_0ImaQDXPJgOzwbQnO3Y_m979dF_3swU7nu5vfrai6Wn_0id75zxv2vV0Qx9QLyiF7N4FCgCkhPCsZT7UQQoKRnrAJLobGGMQNyho-OcmlhSXFmWCLHnav_lZZ7eCRkBmYl5-kIemwrM9U4CKIGkOqAeYleEuAIbh0-3LEMp9PDQhNgDBk31zkZP_k719kCT_bOrMZ3MnPN8y5dmKHcDweDZn-pOd3cDE9GzBnpetvU92L306qQeYOCBOAzkZmjHhDgAms6etK55Nawd67MmOtSDGqnkv1q4H5lZQPkHNFUCRZ33NwPh9tmqKQoCBsSFQBkgZgQO9E2w2MLU-bmh4srsLmEgfNwKNaYBl5umPG1vAXERmBKmBxitIUcvjxskgpQ0NL-dvfty4GsgAlh6PG3vA2qY-bmp83LgMmDghGoBmAHXDzGuaAMrcjcACpAGY9B83LgAWHY-bQPkBohpozB5wIgMa0ABMWI8bJz5u3ADWP_Nx4yyYJaseNwFLG7CTgJ6FBAUwGoH-ebpk5bMZ65_uXw1MIsBUCc-JQNVP56yAZ0NgGAKz4ZN9baB8v2za09YOYEp6sqvtad9uSGZ80dCDnEOByl5s3QDkghTs6wFmEGAOfdq_7unMncBUCMy2QPPhYbsL5EjUsG173AT0C96wfdG1EZi1YT7cCwoYCAk0awdQAzhQQN4GB9VLUBwAVUOMB4ZH5-PGbSB2EzB6IJG0_3HjbKjqp2snPNk3GxyAQHu3Pm5qAmtb_7hxBlgEaDYsp2ANT2AxAsx1aOEJKYueL9gARE_nbAAWSqDwWbISWDSBQrVx8ovt65-2rnw2vfFZ36SnHdNfTJwOKalAeRWpjHqycz7I_OXdwPBHDsYdneQl0e7HjSuRwmbh46ZmcGUFZIACE-xtsEGQkAOGEyz1AUMMGKrA8g0SPFPBAdMLZAOrQrCeFSAFTUARiAaUAhEY9EhccBIHGQSKxuVgNjDpk55oIeXzs77Zz3bvB4YPpKAGFfLLmp5tXvRs66oXHWtApe_06U93Ams0UMoEFt1PO2c_6-wFBizQ4cASGqgRJDVn35Ndu56tXfx0WhcwLoDF-9MZ-59O2g2qR6AMWKE-Z8PzDe3PJjc-61oDrgjAkQJ0N-UtDihQ0NLn4gKX9lbQMtehxqBGoRpcktoYmmnZgVk1CkZxCroQAgSNQQyoIFjYEMQyAwuagsXMFMxhGmogsiBoAKVruGpRrPVBsdYEbqtpvEK0aSyUYZYLY4GFDIEMQyADZBSsDsHrCWCDDVjcWgGTy0ZILfG4eSoQ9wPNety0H8zvA7K2A_ESsNgqsNg8IG4B4lUgsebJsCoGAoDBBzN6Vw_Q6MaJUKMbtwLxepCWxjZwEu0BsqYDcQtYrAtSJgPxEqBcF1hsM06jd3TSxNWwuILEHIgNjyogBYo_MA8RpSAaOZKRIxQtiMEuA7rocdNmsAthLgM7rgOIu8EOWwhWtgaIgeEF5IHEQOGFL4jXg8NuFTjEgMU0OOxABTQk3PcCzZoMFmsC80HhvhiIl4Gd0E0gjFeD3dcJdh80kJsbHzcvfty0DCTRCMSbwYL9YIfvh4R-MzgCm-fjCGVjSJ5RMAKToOADBSIIgoIRIgKSQ1UDEcEdxMAoBjmpFewQWKSDrHvcvAHMg4h1QF0D8v0SsFpgUmlugHtkE4HQBkdkIzieGsGhAw5_UPiCzW_qBIttQ7KlBSwyH5zWQfpBamfjtAUc7uCgAyUViPtA7l4ENW0rmNcMllmLsKW5HSwCigBgagLqBInB5FFtASZqUFEEDVhIMgeRMAwKYFgkmYKjBpT0sZZaaDHQB3bbHIjzwCkXEcobgfwJUD_sBIvsgqR0aGIBhSX2EIGEOyg5AytQiCywAgMHI6jdAClbgAKQWIDkhhnQ0mQxWAx7QkSE9nqQi4EB_bh5OVKIIouCQhUkBooFUEoBhTcoXeF2OU2qCNRyHVctAasJUBkmyLUFukoTGAOkAM5AU4lSzWCKEFdHGUB8omunAK7vFIAMmK_wsZW5uAA)]
 
 ## 分析
 
@@ -87,11 +92,11 @@ d2 d4 e2 | d3 d c2 A2 | G3 A B2 d2 | c4 z4 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  G, D, C, E, A
-   - 調性數值:    G 大調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.90), C 大調 (0.73), E 小調 (0.66)
+   - 調性數值:    G 大調 [相關度: 0.91, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.91), C 大調 (0.73), E 小調 (0.65)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Omatsuri #1]: G 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [Omatsuri #1]: G 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -106,14 +111,14 @@ d2 d4 e2 | d3 d c2 A2 | G3 A B2 d2 | c4 z4 |
   [ 十二半音累積音高分佈 ]
      C  : ███████████████           16.4%
      C# :                            0.0%
-     D  : ████████████████████      21.8%
+     D  : █████████████████████     22.7%
      D# :                            0.0%
      E  : ███████████████           16.4%
      F  :                            0.0%
      F# :                            0.0%
      G  : ████████████████████████  26.4%
      G# :                            0.0%
-     A  : ████████████              13.6%
+     A  : ████████████              12.7%
      A# :                            0.0%
      B  : █████                      5.5%
 --------------------------------------------------------------------------------
