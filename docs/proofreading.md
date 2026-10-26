@@ -507,9 +507,9 @@
 - [x] **10 うんどうくわい（運動會）**（`C` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/10_undokai/index.md) · [主譜 TMD](kogakko_shoka/grade_3/10_undokai/undokai.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/10_undokai/undokai_piano.tmd)
 - [x] **11 きしゃ（火車）**（`G` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/11_kisha/index.md) · [主譜 TMD](kogakko_shoka/grade_3/11_kisha/kisha.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/11_kisha/kisha_piano.tmd)
 - [x] **12 大日本**（`G` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/12_dainippon/index.md) · [主譜 TMD](kogakko_shoka/grade_3/12_dainippon/dainippon.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/12_dainippon/dainippon_piano.tmd)
-- [ ] **13 おぢいさん（老爺爺）**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/13_ojiisan/index.md) · [主譜 TMD](kogakko_shoka/grade_3/13_ojiisan/ojiisan.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/13_ojiisan/ojiisan_piano.tmd)
-- [ ] **14 すみやき（燒炭）**（`Bb` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/14_sumiyaki/index.md) · [主譜 TMD](kogakko_shoka/grade_3/14_sumiyaki/sumiyaki.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/14_sumiyaki/sumiyaki_piano.tmd)
-- [ ] **15 白さぎ（白鷺鷥）**（`Eb` / `3/4`）— [單曲頁](kogakko_shoka/grade_3/15_shirasagi/index.md) · [主譜 TMD](kogakko_shoka/grade_3/15_shirasagi/shirasagi.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/15_shirasagi/shirasagi_piano.tmd)
+- [x] **13 おぢいさん（老爺爺）**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/13_ojiisan/index.md) · [主譜 TMD](kogakko_shoka/grade_3/13_ojiisan/ojiisan.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/13_ojiisan/ojiisan_piano.tmd)
+- [x] **14 すみやき（燒炭）**（`Bb` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/14_sumiyaki/index.md) · [主譜 TMD](kogakko_shoka/grade_3/14_sumiyaki/sumiyaki.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/14_sumiyaki/sumiyaki_piano.tmd)
+- [x] **15 白さぎ（白鷺鷥）**（`Eb` / `3/4`）— [單曲頁](kogakko_shoka/grade_3/15_shirasagi/index.md) · [主譜 TMD](kogakko_shoka/grade_3/15_shirasagi/shirasagi.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/15_shirasagi/shirasagi_piano.tmd)
 
 ## 《うたのほん》（唱歌課本）
 
