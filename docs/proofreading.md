@@ -513,10 +513,10 @@
 
 ## 《うたのほん》（唱歌課本）
 
-### 下卷・國民學校初等科第二學年用（2006.006.0878）（0 / 20 首） {#utanohon_ge_2006.006.0878}
+### 下卷・國民學校初等科第二學年用（2006.006.0878）（2 / 20 首） {#utanohon_ge_2006.006.0878}
 
-- [ ] **1 二年生**（`F` / `2/4`）— [單曲頁](utanohon/ge_2006.006.0878/1_ninensei/index.md) · [主譜 TMD](utanohon/ge_2006.006.0878/1_ninensei/ninensei.tmd) · [伴奏 TMD](utanohon/ge_2006.006.0878/1_ninensei/ninensei_piano.tmd)
-- [ ] **2 モモタラウ（桃太郎）**（`G` / `2/4`）— [單曲頁](utanohon/ge_2006.006.0878/2_momotaro/index.md) · [主譜 TMD](utanohon/ge_2006.006.0878/2_momotaro/momotaro.tmd) · [伴奏 TMD](utanohon/ge_2006.006.0878/2_momotaro/momotaro_piano.tmd)
+- [x] **1 二年生**（`F` / `2/4`）— [單曲頁](utanohon/ge_2006.006.0878/1_ninensei/index.md) · [主譜 TMD](utanohon/ge_2006.006.0878/1_ninensei/ninensei.tmd) · [伴奏 TMD](utanohon/ge_2006.006.0878/1_ninensei/ninensei_piano.tmd)
+- [x] **2 モモタラウ（桃太郎）**（`C` / `2/4`）— [單曲頁](utanohon/ge_2006.006.0878/2_momotaro/index.md) · [主譜 TMD](utanohon/ge_2006.006.0878/2_momotaro/momotaro.tmd) · [伴奏 TMD](utanohon/ge_2006.006.0878/2_momotaro/momotaro_piano.tmd)
 - [ ] **3 コヒノボリ（鯉魚旗）**（`F` / `2/4`）— [單曲頁](utanohon/ge_2006.006.0878/3_koinobori/index.md) · [主譜 TMD](utanohon/ge_2006.006.0878/3_koinobori/koinobori.tmd) · [伴奏 TMD](utanohon/ge_2006.006.0878/3_koinobori/koinobori_piano.tmd)
 - [ ] **4 ぐんかん（軍艦）**（`G` / `2/4`）— [單曲頁](utanohon/ge_2006.006.0878/4_gunkan/index.md) · [主譜 TMD](utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd) · [伴奏 TMD](utanohon/ge_2006.006.0878/4_gunkan/gunkan_piano.tmd)
 - [ ] **5 兵たいさん（士兵先生）**（`G` / `2/4`）— [單曲頁](utanohon/ge_2006.006.0878/5_heitaisan/index.md) · [主譜 TMD](utanohon/ge_2006.006.0878/5_heitaisan/heitaisan.tmd) · [伴奏 TMD](utanohon/ge_2006.006.0878/5_heitaisan/heitaisan_piano.tmd)
