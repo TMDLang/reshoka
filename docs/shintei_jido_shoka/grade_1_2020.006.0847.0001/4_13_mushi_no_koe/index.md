@@ -47,14 +47,14 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 c3 d c2 A2 | c3 d c2 A2 | G3 A G2 E2 | G6 z2 |
 A3 A c2 A2 | G3 A G2 E2 | D3 D C2 D2 | E2 E2 D2 z2 |
-E3 E G2 G2 | A2 A2 G4 | E3 E D2 C2 | G,6 z2 |
+E3 E G2 G2 | A2 A2 G4 | E3 E D2 C2 | G6 z2 |
 A3 A c2 A2 | G3 G E4 | c4 A2 G2 | c6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mushi_no_koe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuXvC4afvj5r7HTZsfN298v6fjxfxNz2e1vGjc9HL-5vd7OhW0tLgUbRUszbjsbRWcuWyM9E3sQMY9m73p_Z5ZTzf0P5u770XD1Bd7poBtedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgBdAQpHPWA46oHCEcgwMAS6RYlLX0sBaPHz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6gi5719z9dv_rpkjkvFi981jHtRW_n0_5FQDVPJ7Q8X7Hu2Yw2oP-erV3yYuv2p3v3vJiwF-jXl5u3PO1f_bihiUtLnwtoBdfj5lWPm4HBASYbGh43N4LZcC44yJrWPG7uety0Hqh63uPmFqgoULpp5-OmXehckIYloDBuWvG4uZ3rcRPQsO7Hzf2gkAcpWv-4aSuUDTJrGUgbiNEGVIpkAEgp1AywUiwuBHvCNzEzzyogMzEv36HGoEahGhRQCjaGZlp2YFaNgmGcgi4QGsVBWGZAjEPQFCxmBqaNkUQg0AAkAjUTpB6kEq9mI4gVCoZgEiQCEgdhEA_ZOJAYSAakF4QhFoAwzAEINSC9IBOBNsaT6jpTqClIIYCwBkkIYWAtF5eunQIojBWAtDIXFwA)]
-- [鋼琴伴奏 TMD 檔案](mushi_no_koe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOBx0_bHzX2PmzY_bt74fk_H4-Ypj5sWAUWe7NnydGn_k90z3u_pVNDS4lK0VbA047K3VXDmsjHSN7HjqlNQejZ70_s9s55u6H82d9-Lhqkv9kxRAgm_aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgG4xMjAy0DMwMNMzsDAxBzIMDIFuUeLi8k3MzLMKyEzMyw_ycKgxqFGo5lIAAhtDMy07MKtGwTBOQRcIjeIgLDMgxiFoChYzA9PGSCIQaAASgZoJUg9SiVezEcQKBUMwCRIBiYMwiIdsHEgMJAPSC8IQC0AY5gCEGpBekIlAG-NJdZ0p1BSkEEBYgySEMLAWOYh9UILYAh7C0YaxQMXRJiASBw9Mwnggw2FuhajDodo0HsyFUHBZEBfJAFQtEONQrEPTT7TtuDUDQ0XXTgEUMApAWpmLCwA)]
+- [主旋律 TMD 檔案](mushi_no_koe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuXvC4afvj5r7HTZsfN298v6fjxfxNz2e1vGjc9HL-5vd7OhW0tLgUbRUszbjsbRWcuWyM9E3sQMY9m73p_Z5ZTzf0P5u770XD1Bd7poBtedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgBdAQpHPWA46oHCEcgwMAS6RYlLX0sBaPHz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6gi5719z9dv_rpkjkvFi981jHtRW_n0_5FQDVPJ7Q8X7Hu2Yw2oP-erV3yYuv2p3v3vJiwF-jXl5u3PO1f_bihiUtLnwtoBdfj5lWPm4HBASYbGh43N4LZcC44yJrWPG7uety0Hqh63uPmFqgoULpp5-OmXehckIYloDBuWvG4uZ3rcRPQsO7Hzf2gkAcpWv-4aSuUDTJrGUgbiNEGVIpkAEgp1AywUiwuBHvCNzEzzyogMzEv36HGoEahGhRQCjaGZlp2YFaNgmGcgi4QGsVBWGZAjEPQFCxmBqaNkUQg0AAkAjUTpB6kEq9mI4gVCoZgEiQCEgdhEA_ZOJAYSAakF4QhFoAwzAEINSC9IBPJcJwp1BCkAEDYgiSEMLCWi0vXTgEUxApAWpmLCwA)]
+- [鋼琴伴奏 TMD 檔案](mushi_no_koe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOBx0_bHzX2PmzY_bt74fk_H4-Ypj5sWAUWe7NnydGn_k90z3u_pVNDS4lK0VbA047K3VXDmsjHSN7HjqlNQejZ70_s9s55u6H82d9-Lhqkv9kxRAgm_aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgG4xMjAy0DMwMNMzsDAxBzIMDIFuUeLi8k3MzLMKyEzMyw_ycKgxqFGo5lIAAhtDMy07MKtGwTBOQRcIjeIgLDMgxiFoChYzA9PGSCIQaAASgZoJUg9SiVezEcQKBUMwCRIBiYMwiIdsHEgMJAPSC8IQC0AY5gCEGpBekIlkOM4UaghSACBsQRJCGFiLHMI-KCFsAQ_gaMNYoOJoExCJgwcmYTyQ4TC3QtThUG0aD-ZCKLgsiItkAKoWiHEo1qHpJ9p23JqBoaJrpwAKGAUgrczFBQA)]
 
 ## 分析
 
@@ -65,10 +65,10 @@ A3 A c2 A2 | G3 G E4 | c4 A2 G2 | c6 z2 |
 ⏱  Duration:       0:20 (20.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    G3 (MIDI 55) – D5 (MIDI 74) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
-   - 最低音:  G3 in [Main #1 @ m.12, 0:13]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Main #1 @ m.7, 0:08]
    - 最高音: D5 in [Main #1 @ m.1, 0:00]
-   - 適合: mezzo-soprano, contralto, tenor, baritone, bass
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
@@ -106,7 +106,7 @@ A3 A c2 A2 | G3 G E4 | c4 A2 G2 | c6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : G3 – D5 (19 個半音 / 1.6 個八度, 51 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 51 個音符)
 ================================================================================
 ```
 
