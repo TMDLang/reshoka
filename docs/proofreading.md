@@ -1,6 +1,6 @@
 # 人工校對進度紀錄（Proofreading Checklist）
 
-本頁追蹤全站 **21 冊、734 首**歷史曲目之人工校對進度（目前已校對 **55 / 734** 首，完成率 **7.5%**）。
+本頁追蹤全站 **21 冊、734 首**歷史曲目之人工校對進度（目前已校對 **101 / 734** 首，完成率 **13.8%**）。
 
 ## 校對檢核要點
 
@@ -14,36 +14,36 @@
 
 ## 各冊校對進度總表
 
-| 叢書                       | 冊別                                                              | 已校對 |  總曲數 |     進度 |
-| :------------------------- | :---------------------------------------------------------------- | -----: | ------: | -------: |
-| 《新定兒童唱歌》           | [尋常科 第一學年](#shintei_jido_shoka_grade_1_2020.006.0847.0001) |     47 |      59 |      80% |
-| 《新定兒童唱歌》           | [尋常科 第二學年](#shintei_jido_shoka_grade_2_2020.006.0847.0002) |      0 |      47 |       0% |
-| 《新定兒童唱歌》           | [尋常科 第三學年](#shintei_jido_shoka_grade_3_2020.006.0847.0003) |      0 |      53 |       0% |
-| 《新定兒童唱歌》           | [尋常科 第四學年](#shintei_jido_shoka_grade_4_2020.006.0847.0004) |      0 |      50 |       0% |
-| 《新定兒童唱歌》           | [尋常科 第五學年](#shintei_jido_shoka_grade_5_2020.006.0847.0005) |      0 |      46 |       0% |
-| 《新定兒童唱歌》           | [尋常科 第六學年](#shintei_jido_shoka_grade_6_2020.006.0847.0006) |      0 |      45 |       0% |
-| 《新定兒童唱歌》           | [高等科 男子一二年](#shintei_jido_shoka_koto_boys_2020.006.0848)  |      0 |      62 |       0% |
-| 《新定兒童唱歌》           | [高等科 女子一二年](#shintei_jido_shoka_koto_girls_2020.006.0849) |      0 |      62 |       0% |
-| 《公學校唱歌》             | [第三學年用](#kogakko_shoka_grade_3)                              |      0 |      15 |       0% |
-| 《うたのほん》（唱歌課本） | [下卷（初等科第二學年）](#utanohon_ge_2006.006.0878)              |      0 |      20 |       0% |
-| 《共益商社唱歌教科書》     | [巻一（生徒用）](#kyoeki_shoka_kan_1_854862)                      |      0 |      20 |       0% |
-| 《共益商社唱歌教科書》     | [巻二（教師用）](#kyoeki_shoka_kan_2_854863)                      |      0 |      18 |       0% |
-| 《共益商社唱歌教科書》     | [巻三（教師用）](#kyoeki_shoka_kan_3_854864)                      |      0 |      19 |       0% |
-| 《共益商社唱歌教科書》     | [巻四（教師用）](#kyoeki_shoka_kan_4_854865)                      |      0 |      19 |       0% |
-| 《楊金土手抄唱歌帖》       | [第 1 冊（選定唱歌筆記帳）](#shokacho_vol_01)                     |      4 |      53 |       8% |
-| 《楊金土手抄唱歌帖》       | [第 2 冊（II）](#shokacho_vol_02)                                 |      0 |      35 |       0% |
-| 《楊金土手抄唱歌帖》       | [第 3 冊（I）](#shokacho_vol_03)                                  |      3 |      22 |      14% |
-| 《楊金土手抄唱歌帖》       | [第 7 冊（VII・蓬萊唱歌集上）](#shokacho_vol_07)                  |      1 |      32 |       3% |
-| 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |      0 |      22 |       0% |
-| 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |      0 |       4 |       0% |
-| 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |      0 |      31 |       0% |
-| **合計**                   | **全 21 冊**                                                      | **55** | **734** | **7.5%** |
+| 叢書                       | 冊別                                                              |  已校對 |  總曲數 |      進度 |
+| :------------------------- | :---------------------------------------------------------------- | ------: | ------: | --------: |
+| 《新定兒童唱歌》           | [尋常科 第一學年](#shintei_jido_shoka_grade_1_2020.006.0847.0001) |      58 |      59 |       98% |
+| 《新定兒童唱歌》           | [尋常科 第二學年](#shintei_jido_shoka_grade_2_2020.006.0847.0002) |       0 |      47 |        0% |
+| 《新定兒童唱歌》           | [尋常科 第三學年](#shintei_jido_shoka_grade_3_2020.006.0847.0003) |       0 |      53 |        0% |
+| 《新定兒童唱歌》           | [尋常科 第四學年](#shintei_jido_shoka_grade_4_2020.006.0847.0004) |       0 |      50 |        0% |
+| 《新定兒童唱歌》           | [尋常科 第五學年](#shintei_jido_shoka_grade_5_2020.006.0847.0005) |       0 |      46 |        0% |
+| 《新定兒童唱歌》           | [尋常科 第六學年](#shintei_jido_shoka_grade_6_2020.006.0847.0006) |       0 |      45 |        0% |
+| 《新定兒童唱歌》           | [高等科 男子一二年](#shintei_jido_shoka_koto_boys_2020.006.0848)  |       0 |      62 |        0% |
+| 《新定兒童唱歌》           | [高等科 女子一二年](#shintei_jido_shoka_koto_girls_2020.006.0849) |       0 |      62 |        0% |
+| 《公學校唱歌》             | [第三學年用](#kogakko_shoka_grade_3)                              |      15 |      15 |      100% |
+| 《うたのほん》（唱歌課本） | [下卷（初等科第二學年）](#utanohon_ge_2006.006.0878)              |      20 |      20 |      100% |
+| 《共益商社唱歌教科書》     | [巻一（生徒用）](#kyoeki_shoka_kan_1_854862)                      |       0 |      20 |        0% |
+| 《共益商社唱歌教科書》     | [巻二（教師用）](#kyoeki_shoka_kan_2_854863)                      |       0 |      18 |        0% |
+| 《共益商社唱歌教科書》     | [巻三（教師用）](#kyoeki_shoka_kan_3_854864)                      |       0 |      19 |        0% |
+| 《共益商社唱歌教科書》     | [巻四（教師用）](#kyoeki_shoka_kan_4_854865)                      |       0 |      19 |        0% |
+| 《楊金土手抄唱歌帖》       | [第 1 冊（選定唱歌筆記帳）](#shokacho_vol_01)                     |       4 |      53 |        8% |
+| 《楊金土手抄唱歌帖》       | [第 2 冊（II）](#shokacho_vol_02)                                 |       0 |      35 |        0% |
+| 《楊金土手抄唱歌帖》       | [第 3 冊（I）](#shokacho_vol_03)                                  |       3 |      22 |       14% |
+| 《楊金土手抄唱歌帖》       | [第 7 冊（VII・蓬萊唱歌集上）](#shokacho_vol_07)                  |       1 |      32 |        3% |
+| 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       0 |      22 |        0% |
+| 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |       4 |        0% |
+| 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |       0 |      31 |        0% |
+| **合計**                   | **全 21 冊**                                                      | **101** | **734** | **13.8%** |
 
 ---
 
 ## 《新定兒童唱歌》
 
-### 尋常科 第一學年用（2020.006.0847.0001）（47 / 59 首） {#shintei_jido_shoka_grade_1_2020.006.0847.0001}
+### 尋常科 第一學年用（2020.006.0847.0001）（58 / 59 首） {#shintei_jido_shoka_grade_1_2020.006.0847.0001}
 
 - [x] **0-01 君が代**（`C` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/kimigayo.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/kimigayo_piano.tmd) — 已依序檢視
 - [x] **0-02 勅語奉答**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/chokugo_hoto.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/chokugo_hoto_piano.tmd) — 已修正（`9db580a7`, `717d7e4d`）
@@ -103,14 +103,14 @@
 - [x] **4-20 チヨダノオシロ（千代田城）**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_20_chiyoda_no_oshiro/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_20_chiyoda_no_oshiro/chiyoda_no_oshiro.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_20_chiyoda_no_oshiro/chiyoda_no_oshiro_piano.tmd)
 - [x] **4-21 オサル（猴子）**（`C` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/osaru.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/osaru_piano.tmd)
 - [x] **4-22 スズメ（麻雀）**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/suzume.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/suzume_piano.tmd)
-- [ ] **4-23 トキ（朱鷺）**（`G` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/toki.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/toki_piano.tmd)
+- [x] **4-23 トキ（朱鷺）**（`G` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/toki.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/toki_piano.tmd)
 
 ### 尋常科 第二學年用（2020.006.0847.0002）（0 / 47 首） {#shintei_jido_shoka_grade_2_2020.006.0847.0002}
 
-- [ ] **1-01 サクラ（櫻花）**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/sakura.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/sakura_piano.tmd)
-- [ ] **1-02 ヨクマナビ ヨクアソベ（好好學習，好好遊玩）**（`F` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/yoku_manabi_yoku_asobe.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/yoku_manabi_yoku_asobe_piano.tmd)
-- [ ] **1-03 水グルマ**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/mizuguruma.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/mizuguruma_piano.tmd)
-- [ ] **1-04 小ウマ**（`D` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/kouma.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/kouma_piano.tmd)
+- [x] **1-01 サクラ（櫻花）**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/sakura.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/sakura_piano.tmd)
+- [x] **1-02 ヨクマナビ ヨクアソベ（好好學習，好好遊玩）**（`F` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/yoku_manabi_yoku_asobe.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/yoku_manabi_yoku_asobe_piano.tmd)
+- [x] **1-03 水グルマ**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/mizuguruma.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/mizuguruma_piano.tmd)
+- [x] **1-04 小ウマ**（`D` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/kouma.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/kouma_piano.tmd)
 - [ ] **1-05 カヘル ト クモ（青蛙與雲）**（`G` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/kaeru_to_kumo.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/kaeru_to_kumo_piano.tmd)
 - [ ] **1-06 コガハ（小河）**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_06_kogawa/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_06_kogawa/kogawa.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_06_kogawa/kogawa_piano.tmd)
 - [ ] **1-07 ヒヨコ（小雞）**（`C` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_07_hiyoko/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_07_hiyoko/hiyoko.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_07_hiyoko/hiyoko_piano.tmd)
@@ -493,7 +493,7 @@
 
 ## 《公學校唱歌》
 
-### 尋常科 第三學年用（0 / 15 首） {#kogakko_shoka_grade_3}
+### 尋常科 第三學年用（15 / 15 首） {#kogakko_shoka_grade_3}
 
 - [x] **1 あをば（青葉）**（`D` / `4/4`）— [單曲頁](kogakko_shoka/grade_3/1_awoba/index.md) · [主譜 TMD](kogakko_shoka/grade_3/1_awoba/awoba.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/1_awoba/awoba_piano.tmd)
 - [x] **2 だいしゃ（台車）**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/2_daisha/index.md) · [主譜 TMD](kogakko_shoka/grade_3/2_daisha/daisha.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/2_daisha/daisha_piano.tmd)
