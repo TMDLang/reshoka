@@ -437,10 +437,10 @@ def extract_notes_and_lyrics(
     return "\n\n".join(note_texts).strip(), "\n\n".join(lyric_texts).strip()
 
 
-def is_up_to_date(target: Path, source: Path) -> bool:
+def is_up_to_date(target: Path, source: Path, *, tolerance_sec: float = 2.0) -> bool:
     if not target.exists() or target.stat().st_size == 0:
         return False
-    return target.stat().st_mtime >= source.stat().st_mtime
+    return target.stat().st_mtime + tolerance_sec >= source.stat().st_mtime
 
 
 def render_analysis(main_tmd: Path, folder: Path) -> str:
@@ -1131,6 +1131,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "  - pymdownx.snippets",
         "  - pymdownx.tabbed:",
         "      alternate_style: true",
+        "  - pymdownx.tasklist:",
+        "      custom_checkbox: true",
         "  - attr_list",
         "  - md_in_html",
         "  - tables",
