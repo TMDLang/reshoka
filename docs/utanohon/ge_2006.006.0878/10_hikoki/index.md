@@ -1,11 +1,11 @@
 ---
 title: "ひかうき（飛機） — 《うたのほん》（唱歌課本） 下卷（初等科第二學年）"
 song_title: "ひかうき（飛機）"
-description: "〈ひかうき（飛機）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（2006.006.0878）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　あの　町　この　町　ひととびに、 とんで　來たのか、ひかうきよ。…"
+description: "〈ひかうき（飛機）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（2006.006.0878）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　ひかうき、ひかうき、 青い　空。…"
 keywords: "ひかうき（飛機）, うたのほん》（唱歌課本）, 下卷（初等科第二學年）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《うたのほん》（唱歌課本） 下卷・國民學校初等科第二學年用（2006.006.0878）"
-musical_key: "F"
+musical_key: "C"
 image: "P029.jpg"
 audio: "hikoki.mp3"
 ---
@@ -23,8 +23,8 @@ audio: "hikoki.mp3"
 
 【曲目說明】
 ・出處：臺灣總督府編《うたのほん 下》（國民學校初等科第二學年用），第十課〈ひかうき〉（飛機），原書第 25–26 頁。
-・調性與拍號：ヘ調（F 大調五聲音階，原書五線譜省略調號，全曲結束於高音屬音 C5＝`5`，營造飛機翱翔天際、餘韻向遠方延伸的效果），2/4 拍，速度 != 112。
-・背景與曲風：歌詞描寫機翼閃耀著日之丸標誌、螺旋槳（「ぷろぺら」）發出勇壯聲響穿雲而過的雙翼機，第 26 頁配有兒童在花叢間仰望紅日章雙翼飛機的插圖。
+・調性與拍號：C 大調（?= C，無升降記號），2/4 拍，速度 != 112。
+・背景與曲風：第一節描寫晴朗藍天與白雲間，漆有日之丸標誌的兩架戰鬥機在森林上空盤旋畫圈；第二節描寫飛機在空中接連翻筋斗（宙返り）、爆音迴盪天際、螺旋槳與銀翼閃耀的景象。
 ・版本說明：本檔案為原書單聲部五線譜旋律之忠實數位化版本。
 
 ・編曲說明（鋼琴伴奏版）：
@@ -43,15 +43,23 @@ audio: "hikoki.mp3"
 ## 歌詞
 
 ```text
-一　あの　町　この　町　ひととびに、
-とんで　來たのか、ひかうきよ。
-つばさに　日の丸　光らせて、
-だれが　のってる　ひかうきぞ。
+一　ひかうき、ひかうき、
+青い　空。
+ぽっかり　浮かんだ、
+白い　雲。
+日の丸　つけた、
+せんとうき。
+二きが　わを　かく、
+森の　上。
 
-二　あの　くも　この　くも　つきぬけて、
-のぼりゆくのか、ひかうきよ。
-ぷろぺら　勇まし、音　たてて、
-どこへ　行くのか、ひかうきよ。
+二　ひかうき、ひかうき、
+ちゅうがへり。
+そら、また　一き、
+ちゅうがへり。
+ばくおん　ひびく、
+青い　空。
+光る　プロペラ、
+銀の　はね。
 ```
 
 ## ABC
@@ -62,19 +70,19 @@ T:ひかうき（飛機）
 M:2/4
 L:1/16
 Q:1/4=112
-K:F
+K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-G2 A2 G2 F2 | G2 A2 G2 F2 | D2 F2 G2 A2 | G4 z4 |
-c3 c A2 G2 | A3 A G2 F2 | D3 F G2 G2 | F4 z4 |
-C2 D2 F2 G2 | A3 A G4 | d3 d d2 A2 | G4 z4 |
-F4 G2 A2 | c3 c A2 G2 | A3 A G2 d2 | c4 z4 |
+G2 G2 E2 C2 | G2 G2 E2 C2 | D3 E F2 A2 | G4 z4 |
+c3 c A2 A2 | G3 G E2 E2 | D3 D E2 E2 | D4 z4 |
+C3 D F2 G2 | A3 A G4 | c3 d c2 A2 | G4 z4 |
+E4 G2 A2 | c3 c A2 G2 | A3 A G2 d2 | c4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hikoki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOlxY_fjxrbHjb3v93S8XDz72cr57_d0KmhpcSnaKhgaGnHZ2yq4cdkY6ZvYcdUpKD2bvvTZpt3PZjY9mzP_6ZzuZxsmPl2749mChU-nbHy2tgdoBNis-Y8b1z1u3P24abLCkx3dj5t3P1-z5mlv44tVm4BmK4HMAep9vrr7Rfuu542Ln63d_rR_09PeWc87V75csuJp644X0_uVuLj0tRRsqQW4FBQUHjdMeDZ70_PZ616sWvVsRt_jholg0ebdT9t3vZg59f2eWRD3PN-x9_ncxU93zXm-fcXjhi5sPmroBnoVxf8dc5-v7Xy-fCLQp0929QAFn-7c8nzKCqB_3-_pgXv_cQMwgBBB_rgBKIsIdaDKp33zn83eAVSvYGT6qGGykZnCywWNjxuaoC59sWr_s4blLzran3X3vpgJ1DPrcfMMoCDQFDeFp0uWA5lPdk150bjp5fzNL2f1wQ0ECj7fPuvF2jnP5zQ-n7oUqAysu-dp6wpQkGyd8Gzu_GfT9rxcPQOo8enGNUBSwdn0_Z65CaYJIPe3z3_ZsADizuf7Nz7fP-XpkpUvZ81-3ND4cglQy-6nEya-bFzwbNrOp7u3Pdmz4_mslmdTO57NmwPxFDDxKAAdDGS9bJj_dNcyBUjSQvJWc8-zmetB3pq96eUiYKDNAiamFyvnPevvf7p-NdjSPS-nNb9oaHgxcTowCT7Z2f1kx45nK2a-WNUDdMOLebueTe9-tnwzKP019Dxu3P64qfdx467HTZ2PG4DWdj6fuQcYx0-7258uXg8OnP3PV-5_OXvTi4ael419QNe-nD0TaAU4FkCRpQAJ95etvc_mdD5tnfR89dKnc1a86Nr4tH_Ry2mTn-ze8GzO7OdbWoFOeb56AUQzNHSAPu-f9HTONITnnnd2PJuzBpLmQD6bs-bZqinPFnY8b9oFiZyn09aBHNW8Ah5LQN883dcN9OXT_Querl_2bOqOJ3t7n_ZMgxgFMhqaniEGQAILFJfT2oGB-GTHWhBj1bwXa9cDEzkwUNDSE1DkWV8zMHCBDlEIMDCyBMoEGBgbgGOrE2z2kx0NjxsaHjc2gdJ9Q8PzKbvA3MmoXGBKXgFGmx83rgZGBNhVQH4TUN1yoIon--BZB5hnGlGSfhMwqiBB1LjkceOGx41TwWY0AMMUqAEYvUD209ZOUBw2zn7cuAxu_ILHTcAoBsY70AFAgxeD5JqAxkPcAzO-cR7UeKBnIUEBDHugr572L362YTEwsl5s63qyq-1lEzCjL386v-9l3zpg0L1smAnngpLr4tnA9AH0BVDl0-mg7ASJ5adTu4CmQ9Llkx1dwEh_umTVy5l7n02fDkymQARKcK3gnL9y2_PV85_NWP9i1YancycAUxHQxmfztkHMebF44dOJi4BGwYN9F8Rf0GB_3Nj_uKkJOeSRRIChBvTmmseNE5FDBxgiex43dT1uAoZCP8GQR84oDcD88bhx3-PG6aBsPX8z2BJg5C1DNn4l2CWguHmxEBgLhGxADnxQlgMGJjjMn3e2g7IfOMAhbGBYPdnR-2za9qf7GoDF0POVu55NaXja244Z7PDc_qJ7IyhLz9kAyd4vZ7UBESR7w0P-xbJGoF6gmU_2TgUVTxMXoZkGCnmgQymvYaBAQUufi8sjMzs_O9MqIDMxL9-hxqBGoRpkh4KNhZYdmAGs2YBJ0QoYnk2gKFMA5iegaA2QPRmNvwmUn6B4M1hkNcgAIADaAzNqVw_CKGCcKABTCJJhyCJLgLgXiNcA8USwyDJU42oUjBSMgdgQhWUWD6RAXJCgroIBENeA0yuST4AuBFaOwHwPNgWYZ4Ds-VAHdMP9AkohYDcABZo6cHkFpGcPUEEXJBSaQFqAniDBrBoFDVMFXV0FU01VDV1dTbBPgGLGIDFjqBjEbxpAzwEFDeGCIIWGuHwJCsANQDwVHBMwl4DctQ9YCCGcBnRRJ5CejS2MEf7cDlQGio5dYOUgpS1Qs_cB8XSwSBc09kFhuQzZOLhPTeNhEYTpQ6AXgD4EiZlBxczwR-MCoFN6gHQPNAGCSliwnSjeQwr5xnm4fLcSmgR3UBCLoIiAJDxi4tMMFBpwn9VycenaKUDyIoilzAUA)]
-- [鋼琴伴奏 TMD 檔案](hikoki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOlxY_fjxrbHjb3v93S8XDz72cr57_d0gtjde55P2PJkz5anS_ufd3YABRW0tLgUbRUMDY247G0V3LhsjPRN7LjqFJSeTV_6bNPuZzObns2Z_3RO97MNE5-u3fFswcKnUzY-W9sDNAtswfzHjeseN-5-3DRZ4cmO7sfNu5-vWfO0t_HFqk1As5VA5gD1Pl_d_aJ91_PGxc_Wbn_av-lp76znnStfLlnxtHXHi-n9Slxc-loKttQCXAoKCo8bJjybven57HUvVq16NqPvccNEsGjz7qftu17MnPp-zyyIe57v2Pt87uKnu-Y8377icUMXNh81dAO9iuL_jrnP13Y-Xz4R6NMnu3qAgk93bnk-ZQU4gHvg3n_cAAwgRDw8bgAHPyIqep72zX82ewdQvYKR6aOGyUZmCi8XND5uaIK69MWq_c8alr_oaH_W3ftiJlDPrMfNM4CCQFPcFJ4uWQ5kPtk15UXjppfzN7-c1Qc3ECj4fPusF2vnPJ_T-HzqUqAysO6ep60rQEGydcKzufOfTdvzcvUMoManG9cASQVn0_d75iaYJoDc3z7_ZcMCiDuf79_4fP-Up0tWvpw1-3FD48slQC27n06Y-LJxwbNpO5_u3vZkz47ns1qeTe14Nm8OxFPAxKMAdDCQ9bJh_tNdyxQgSQvJW809z2auB3lr9qaXi4CBNguYmF6snPesv__p-tVgS_e8nNb8oqHhxcTpwCT4ZGf3kx07nq2Y-WJVD9ANL-bteja9-9nyzaD019DzuHH746bex427Hjd1Pm4AWtv5fOYeYBw_7W5_ung9OHD2P1-5_-XsTS8ael429gFd-3L2TKAV4FgARZYCJNxftvY-m9P5tHXS89VLn85Z8aJr49P-RS-nTX6ye8OzObOfb2kFOuX56gUQzdDQAfq8f9LTOdMQngOmIqC3IGkOa2YDehekVEHBUE_haWcvUFxBwzOvpChfR8FE4emG_ufrGzRBQTIZmE2mPdmxG-jXp_u6ny3Y8XR_87MVTU_7lz7ZO-d5066nG_qAekGxunsXKHMhpZVnLfOhDlJQMNIDJuHdwACGuEFBwyMzOz87E2TF0_7Nzzq7FTQCMhPz8oM8NBWe7ZkCVAJJQ0AdwFwOt__9ntlPty9DKPfx0ISYDwRP9s1FzhxP9vZBMsSzqTOfzZ3wfMuUZyt2AEPj2ZzpwJgERvizBXuAYf1k99Knk3qA8QNxGMjB0GwLdwAwTYCS7LR2oLee7FgLYqya92LtemBeBgYtWrYBijzrawamoWerpigEGBhZAmUCDIwNwEHeCTb7yY6Gxw0NjxubQNm7oeH5lF1g7mRULjDDrgCjzY8bVwPTG9hVQH4TUN1yoIon--AlBLBoaETJ4U3AFAlJCY1LHjdueNw4FWxGAzDpADUAUzGQ_bS1E5RUG2c_blwGN37B4yZgSgYmb6ADgAYvBsk1AY2HuAdmfOM8qPFAz0KCAhiNQF897V_8bMNiYJp8sa3rya62l03A8mz50_l9L_vWAYPuZcNMOBeUKxfPBmYDoC-AKp9OB5UakMT8dGoX0HRI9nuyowuYtp8uWfVy5t5n06cDcyMQgfJVK7iAW7nt-er5z2asf7Fqw9O5E4CZBWjjs3nbIOa8WLzw6cRFQKPgwb4L4i9osD9u7H_c1IQc8kgiwFADenPN48aJyKEDDJE9j5u6HjcBQ6GfYMgjlwcNwGLgceO-x43TQaXX_M1gS4CRtwzZ-JVgl4Di5sVCYCwQsgE58EElCzAwwWH-vLMdVMqAAxzCBobVkx29z6Ztf7qvAVjaPl-569mUhqe97ZjBDi_UXnRvBJVcczZASrGXs9qACFKKwUP-xbJGoF6gmU_2TgWVwhMXoZkGCnmgQymvSKFAQUufiwtcSFlBCwuHGoMahWpwEWBjoWUHZtQoGCroKhgpGANZGqYKuroKppqqGrq6mkARI5CYMUjMGCpmpGAGFAMqUzAA4hquWhQbfFBsMEHYEK8QbRgL0ghjgETMcmFCpkAGyChIKYfPtcD2BjDnWAGjvwmUwhSA2R9sAzAtoPE3gbI_FG8Gi6yGlnzAYIEZtasHYRQwCSkAEzSSYcgiS4C4F4jXAPFEsMgyVONqwGFoBAxNZJZZPJCCBK4RPNDQfAJ0IbDJAiymwKYAsziQPR_qgG64X0AJGuwGoEBTBy6vgPTsASrogoRCE0gL0BMkmEVcKgD5TQPoOaCgIVwQpBCUmLD6EhSAG4B4KjgmYC4BuWsfsMxEOA3ook4gPRtbGCP8uR2oDBQdu8DKQUpboGbvA-LpYJEuaOyDwnIZsnFwnwLTHjSCMH0I9ALQhyAxM6iYGf5oXAB0Sg-Q7oEmQFCFALYTxXtIId84D5fvVkKT4A4KYpHCXI2cFXFla3huhjOAoYkQAedqqGOQ8z1cJUgBXATdTJA4WAHxZqIUKgYQf-jaKYALKAUgA-InVJYyFwA)]
+- [主旋律 TMD 檔案](hikoki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOlxY_fjxrbHjb3v93S8XDz72cr57_d0KmhpcSnaKhgaGnHZ2yo4c9kY6ZvYcdUpKD2bvvTZpt3PZjY9mzP_6ZzuZxsmPl2749mChU-nbHy2tgdoBNis-Y8b1z1u3P24abLCkx3dj5t3P1-z5mlv44tVm4BmK4HMAep9vrr7Rfuu542Ln63d_rR_09PeWc87V75csuJp644X0_uVuLj0tRRsqQW4FBQUHjdMeDZ70_PZ616sWvVsRt_jholg0ebdT9t3vZg59f2eWRD3PN-x9_ncxU93zXm-fcXjhi5sPmroBnoVxf8dc5-v7Xy-fCLQp0929QAFn-7c8nzKCqB_3-_pgXv_cQMwgBBB_rgBKIsIdaDKp33zn83eAVSvYGT6qGGykZnCywWNjxuaoC59sWr_s4blLzran3X3vpgJ1DPLWeHpkuVAYaA5oJgCWday8Glv-8uZvS9WzACrAZkLjD8FoB4g62XD_Ke7lilAYhfJ5OaeZzPXg0yevenlIqC7Z4F8sqPh-fqGZ_39T9evfjZzy7M5019M7326ZCVQ2fOZe18CVU6bDDTy2Z62Z3M6gUnjyc7uJzt2PFsx88WqnuezWp62rnw2b9uzjg0v1ywF-vDpnBXPFq97Nm_6kx1dz1fuej57ybPp3c-nrn46p-P9ntmQgINbBwkUoBagyic71j7rW_qyYfHz_bufr-1-Nm06KPTXzXyxf8rjpi6gBx83ND7vaHs5f_OL_Vuez14FdOHLWbOBgi_m7QJa8Wz5ZqCDX3Y1PN-_5-W05hcNDUC3gTy7cSHC_887O57NWQNJGUDPA9nPVk15trDjedMuSJw8nbbuReOml80rnuya8nz7rBdr5wCNfrqvG-jnp_sXPF2_7NnUHU_29j7tmQYxCmQ0NNVBDADmjxcr5z1tXfFsWjvQPSBPARmr5r1Yux6YFIE-Qot1oMizvmZgaAAdohBgYGQJlAkwMDYAR2gn2Gxg_DxuaEBNUY1oXJC6l3MnPW5sASoFBibMy417HzcuBils6gJKPNsKTN5A9uTHjQugmoAxDNEEjGeoJmAUA_MBMIrBti553DgRlDMgyh83zgZrXwGzGawDGKUgTmMPSEdT_-OmSWCtQOf1Q_UBkwQobzU0AFMFVBPQ55BwAUYEJB0A1cJySc-LKbOAqRCUvJashPjnxZ6pLxe3ABHQFy8mTgfF7t4pkAT6bM5WoAJgAgWa_nTJqpcz9z6bPh2eQOFJE6gGkljhyQ5XSgWqhIc-0G_EhP7jxoWPm1rBQsDA2AEOcGgczH3cBEq8jxv3gQMSGAZA84jQtwEUfo1doACHumAzIkSxxPbT1s7HTcBiq-Fx8_THzWsfN8963LwSprwLaAIoAh43rn_cuJaoOIDnS3iOBGp7Pqf76cQGkGw_MAN0Av0CDFCsKl_snf9y8xZQdpq__-m-nZgxCsymQPR85h6gw4HiaPn4RecmoDOAuRkaGUDnUl5DQIGClj4Xl0dmdn52plVAZmJevkONQY1CNcgOBRtDMy07MAtYNQG9ZwUsOCaB4qNpNZhcBibXAskafDJNi8BFziYgawkQ7wWrXgkyFgGAroDZs6sHaE_jJnC8d4PJNjDZCzENjwwo-YAFgQkIiHeALe_CalGNgqmCLhgbA7EhEGMTMQKSIL4JkDSDqwFBAyhdA84ZSOEzF-zXZnBIPG5eBXYCJDRA_M1A3AAW2w5WtxYaJuvBYQIKJ3xhAja7qRPI2gfE88F-bgGHwGJwKDxu3kN6OBjGgT0CpEA-RPalKTgkQBgWEkYYInhCApwemvuAeB4Qrwb7EOzapo1AvB_iDJDLdoMVgoKmAxxYIDFQ0sEXFBvA3u4H4i6g6slICQNoDlAcZnhjE9jGSeCQAoUgyPBOXEEB9SQoukFBUAMODlCgwKIdHlxGcRAWkakClFrBDgFF-BpwUKwH-xqUKYAJAykBgBINONggIdE8g0BIgHwN9ng3UEs3WMt0sDFAq5pngXMaKBz6wNZPBrLWATHYukbsgVwDjmBIAoB5EDWRYIYNMDiQlCEHRC0Xl66dAqSAAbGUubgA)]
+- [鋼琴伴奏 TMD 檔案](hikoki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOlxY_fjxrbHjb3v93S8XDz72cr57_d0gtjde55P2PJkz5anS_ufd3YABRW0tLgUbRUMDY247G0VnLlsjPRN7LjqFJSeTV_6bNPuZzObns2Z_3RO97MNE5-u3fFswcKnUzY-W9sDNAtswfzHjeseN-5-3DRZ4cmO7sfNu5-vWfO0t_HFqk1As5VA5gD1Pl_d_aJ91_PGxc_Wbn_av-lp76znnStfLlnxtHXHi-n9Slxc-loKttQCXAoKCo8bJjybven57HUvVq16NqPvccNEsGjz7qftu17MnPp-zyyIe57v2Pt87uKnu-Y8377icUMXNh81dAO9iuL_jrnP13Y-Xz4R6NMnu3qAgk93bnk-ZQU4gHvg3n_cAAwgRDw8bgAHPyIqep72zX82ewdQvYKR6aOGyUZmCi8XND5uaIK69MWq_c8alr_oaH_W3ftiJlDPLGeFp0uWA4WB5oBiCmRZy8Knve0vZ_a-WDEDrAZkLjD-FIB6gKyXDfOf7lqmAIldJJObe57NXA8yefaml4uA7p4F8smOhufrG5719z9dv_rZzC3P5kx_Mb336ZKVQGXPZ-59CVQ5bTLQyGd72p7N6QQmjSc7u5_s2PFsxcwXq3qez2p52rry2bxtzzo2vFyzFOjDp3NWPFu87tm86U92dD1fuev57CXPpnc_n7r66RxgkpsNCTi4dZBAAWoBqnyyY-2zvqUvGxY_37_7-druZ9Omg0J_3cwX-6c8buoCevBxQ-PzjraX8ze_2L_l-exVQBe-nDUbKPhi3i6gFc-WbwY6-GVXw_P9e15Oa37R0AB0G8izGxci_A-Ma6DPISkDa5YAhghIqYKCoZ7C085eoLiChmdeSVG-joKJwtMN_UCXawLVPJsMTMzTnuzYDbT46b7uZwt2PN3f_GxF09P-pU_2znnetOvphj6gXlBU794FygJIMfqsZT7UQQoKRnrAhLYbmKcgblDQ8MjMzs_OBFnxtH_zs85uBY2AzMS8_CAPTYVne6YAlUCSDlAHMC_C7QcG7NPtyxDKfTw0IeYDwZN9c5GT8JO9fZBk-2zqzGdzJzzfMuXZih3A0ADGOjBegWni2YI9L1t7n-xe-nRSz4vGTRCHgRwMzVxwB7xYOe9p64pn09qB3gLFHZCxat6LteuBOQ4YtGiJGyjyrK8ZGOnPVk1RCDAwsgTKBBgYG4CDvBNsNjAZPm5oQM04jWhckLqXcyc9bmwBKgWmGVjMNu593LgYpLCpCyjxbCswFwPZkx83LoBqAiZkiCZgcoZqAqZkYHYHpmSwrUseN04EFQAQ5Y8bZ4O1r4DZDNYBTLkgTmMPSEdT_-OmSWCtQOcBAwisD5jyQUVIQwMw8UM1AX0OCRdgnEKSO1AtrDDoeTFlFjCzgXLRkpUQ_7zYM_Xl4hYgAvrixcTpoES8dwokHz6bsxWoAJgPgaY_XbLq5cy9z6ZPh-dDeA4EqoHkSXjuwpUhgSrhoQ_0GzGh_7hx4eOmVrAQMDB2gAMcGgdzHzeB8ujjxn3ggASGAdA8IvRtAIVfYxcowKEu2IwIUSyx_bS183ETsHRueNw8_XHz2sfNsx43r4Qp7wKaAIqAx43rHzeuJSoO4MUPvOABans-p_vpxAaQbH8HsNgD-gUYoFhVvtg7_-XmLcCs8nL-_qf7dmLGKLA0AqLnM_cAHQ4URyuuXnRuAjoDWGhBIwPoXMorQihQ0NLn4gIXX1bQYsShxqBGoRpcONgYmmnZgVk1wLJNFwxNgdgMiGsUDOPAAkAKxAeJ14BZIHkQzwgkD1emq2AApWu4alGs9EGx0gRhY7xCtEksyAQgwxDEAImYIouATIKUh3hdD2xAAGPHCli8TwIlp6bVYHIZmFwLtguPTNMicMWwCchaAsR7wapXwspOCAAGIsyeXT1Aexo3gZNtN5hsA5O9ENPwyIBSP1gQmP6BeAfY8i6sFtWAAxiEjUExAA5nTBEjcHAbg6MOEmUgedSoQAufuWC_NoND4nHzKrATIKEB4m8G4gaw2HawurXQMFkPDhNQOOELE7DZTZ1A1j4gng_2cws4BBaDQ-Fx8x7SwwE1ESL70hQcEiAMCwkjDBE8IQFOD819QDwPiFeDfQh2bdNGIN4PcQbIZbvBCkFB0wEOLJAYKOngC4oNYG_3A3EXUPVkpIQBNAcoDjO8sQls4yRwSIFCEGR4J66ggHoSFN2YuRHsSVhwAbMmmEVkqgClVrBDQBG-BhwU68G-BmUKYMJASgCgRAMONkhINM8gEBIgX4M93g3U0g3WMh1sDNCq5lngnAYKhz6w9ZOBrHVADLauEXsg14AjmIolFXL5gquoApVH8KIKzMAovLAVauCyDC5iBGQY5WJRCmLAyz-ChmKUlAYQf-jaKYALXQUgA-InVJYyFxcA)]
 
 ## 分析
 
@@ -83,23 +91,23 @@ F4 G2 A2 | c3 c A2 G2 | A3 A G2 d2 | c4 z4 |
 📊 TMD Song Profile: [ ひかうき（飛機） ]
 ================================================================================
 ⏱  Duration:       0:17 (17.1s), 16 measures total
-🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <2/4>
+🎼 Key & Tempo:    首調基準 C, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Hikoki #1 @ m.9, 0:08]
-   - 最高音: D5 in [Hikoki #1 @ m.11, 0:10]
+   - 最低音:  C4 in [Hikoki #1 @ m.1, 0:00]
+   - 最高音: D5 in [Hikoki #1 @ m.11, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Hikoki (17.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, A, F, D, C
-   - 調性數值:    C 調性不明確 [相關度: 0.64, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.64), G 大調 (0.64), G 小調 (0.58)
+   - 核心骨幹音:  G, C, A, E, D
+   - 調性數值:    C 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.86), G 大調 (0.77), A 小調 (0.63)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Hikoki #1]: C 調性不明確 (r: 0.64, 自然音純度: 100.0%)
+     • [Hikoki #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -112,16 +120,16 @@ F4 G2 A2 | c3 c A2 G2 | A3 A G2 d2 | c4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████                 12.5%
+     C  : ██████████████████        21.4%
      C# :                            0.0%
-     D  : █████████                 13.4%
+     D  : ███████████               13.4%
      D# :                            0.0%
-     E  :                            0.0%
-     F  : ████████████              17.0%
+     E  : █████████████             15.2%
+     F  : ███                        3.6%
      F# :                            0.0%
-     G  : ████████████████████████  33.9%
+     G  : ████████████████████████  28.6%
      G# :                            0.0%
-     A  : ████████████████          23.2%
+     A  : ███████████████           17.9%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
