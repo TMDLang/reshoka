@@ -1,6 +1,6 @@
 # 人工校對進度紀錄（Proofreading Checklist）
 
-本頁追蹤全站 **21 冊、734 首**歷史曲目之人工校對進度（目前已校對 **101 / 734** 首，完成率 **13.8%**）。
+本頁追蹤全站 **21 冊、735 首**歷史曲目之人工校對進度（目前已校對 **139 / 735** 首，完成率 **18.9%**）。
 
 ## 校對檢核要點
 
@@ -16,8 +16,8 @@
 
 | 叢書                       | 冊別                                                              |  已校對 |  總曲數 |      進度 |
 | :------------------------- | :---------------------------------------------------------------- | ------: | ------: | --------: |
-| 《新定兒童唱歌》           | [尋常科 第一學年](#shintei_jido_shoka_grade_1_2020.006.0847.0001) |      58 |      59 |       98% |
-| 《新定兒童唱歌》           | [尋常科 第二學年](#shintei_jido_shoka_grade_2_2020.006.0847.0002) |       0 |      47 |        0% |
+| 《新定兒童唱歌》           | [尋常科 第一學年](#shintei_jido_shoka_grade_1_2020.006.0847.0001) |      59 |      59 |      100% |
+| 《新定兒童唱歌》           | [尋常科 第二學年](#shintei_jido_shoka_grade_2_2020.006.0847.0002) |      36 |      47 |       77% |
 | 《新定兒童唱歌》           | [尋常科 第三學年](#shintei_jido_shoka_grade_3_2020.006.0847.0003) |       0 |      53 |        0% |
 | 《新定兒童唱歌》           | [尋常科 第四學年](#shintei_jido_shoka_grade_4_2020.006.0847.0004) |       0 |      50 |        0% |
 | 《新定兒童唱歌》           | [尋常科 第五學年](#shintei_jido_shoka_grade_5_2020.006.0847.0005) |       0 |      46 |        0% |
@@ -37,13 +37,13 @@
 | 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       0 |      22 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |       4 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |       0 |      31 |        0% |
-| **合計**                   | **全 21 冊**                                                      | **101** | **734** | **13.8%** |
+| **合計**                   | **全 21 冊**                                                      | **139** | **735** | **18.9%** |
 
 ---
 
 ## 《新定兒童唱歌》
 
-### 尋常科 第一學年用（2020.006.0847.0001）（58 / 59 首） {#shintei_jido_shoka_grade_1_2020.006.0847.0001}
+### 尋常科 第一學年用（2020.006.0847.0001）（59 / 59 首） {#shintei_jido_shoka_grade_1_2020.006.0847.0001}
 
 - [x] **0-01 君が代**（`C` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/kimigayo.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/kimigayo_piano.tmd) — 已依序檢視
 - [x] **0-02 勅語奉答**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/chokugo_hoto.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/chokugo_hoto_piano.tmd) — 已修正（`9db580a7`, `717d7e4d`）
@@ -105,7 +105,7 @@
 - [x] **4-22 スズメ（麻雀）**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/suzume.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_22_suzume/suzume_piano.tmd)
 - [x] **4-23 トキ（朱鷺）**（`G` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/index.md) · [主譜 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/toki.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_23_toki/toki_piano.tmd)
 
-### 尋常科 第二學年用（2020.006.0847.0002）（0 / 47 首） {#shintei_jido_shoka_grade_2_2020.006.0847.0002}
+### 尋常科 第二學年用（2020.006.0847.0002）（36 / 47 首） {#shintei_jido_shoka_grade_2_2020.006.0847.0002}
 
 - [x] **1-01 サクラ（櫻花）**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/sakura.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_01_sakura/sakura_piano.tmd)
 - [x] **1-02 ヨクマナビ ヨクアソベ（好好學習，好好遊玩）**（`F` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/yoku_manabi_yoku_asobe.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/yoku_manabi_yoku_asobe_piano.tmd)
