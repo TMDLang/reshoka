@@ -437,10 +437,10 @@ def extract_notes_and_lyrics(
     return "\n\n".join(note_texts).strip(), "\n\n".join(lyric_texts).strip()
 
 
-def is_up_to_date(target: Path, source: Path) -> bool:
+def is_up_to_date(target: Path, source: Path, *, tolerance_sec: float = 2.0) -> bool:
     if not target.exists() or target.stat().st_size == 0:
         return False
-    return target.stat().st_mtime >= source.stat().st_mtime
+    return target.stat().st_mtime + tolerance_sec >= source.stat().st_mtime
 
 
 def render_analysis(main_tmd: Path, folder: Path) -> str:
@@ -1099,7 +1099,6 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "  features:",
         "    - navigation.instant",
         "    - navigation.tracking",
-        "    - navigation.sections",
         "    - navigation.top",
         "    - search.suggest",
         "    - search.highlight",
@@ -1132,6 +1131,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "  - pymdownx.snippets",
         "  - pymdownx.tabbed:",
         "      alternate_style: true",
+        "  - pymdownx.tasklist:",
+        "      custom_checkbox: true",
         "  - attr_list",
         "  - md_in_html",
         "  - tables",
@@ -1144,6 +1145,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "extra_javascript:",
         "  - https://cdn.jsdelivr.net/npm/abcjs@6.4.4/dist/abcjs-basic-min.js",
         "  - javascripts/abc-render.js",
+        "  - javascripts/random-song.js",
         "",
         "nav:",
         "  - 首頁: index.md",
@@ -1151,11 +1153,11 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
     ]
 
     collections = [
-        ("kogakko_shoka", "公學校唱歌"),
-        ("shintei_jido_shoka", "新定兒童唱歌"),
-        ("utanohon", "うたのほん（唱歌課本）"),
-        ("shokacho", "楊金土手抄唱歌帖"),
         ("kyoeki_shoka", "共益商社唱歌教科書"),
+        ("shokacho", "楊金土手抄唱歌帖"),
+        ("shintei_jido_shoka", "新定兒童唱歌"),
+        ("kogakko_shoka", "公學校唱歌"),
+        ("utanohon", "うたのほん（唱歌課本）"),
     ]
 
     for col_slug, col_short in collections:

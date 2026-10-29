@@ -6,5 +6,5 @@ Q:1/4=100
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-G4 G2 E2 | D2 E2 G2 G2 | A3 c A2 A2 | G4 z4 |
-C2 D2 E2 D2 | G3 G E2 G2 | c3 c A2 d2 | c4 z4 |
+E4 G2 E2 | D3 C D2 E2 | G3 c A2 A2 | G4 z4 |
+C3 E D2 E2 | G3 G E2 G2 | c3 c A2 G2 | c4 z4 |

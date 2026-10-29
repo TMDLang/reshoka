@@ -1,6 +1,13 @@
-#!/bin/bash
+#!/bin/sh
+set -e
 
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-mkdocs serve --dirty
+if [ ! -d "venv" ]; then
+  python3 -m venv venv
+  . venv/bin/activate
+  pip install --upgrade pip
+  pip install -r requirements.txt
+else
+  . venv/bin/activate
+fi
+
+exec mkdocs serve --dirty "$@"

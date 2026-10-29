@@ -59,15 +59,15 @@ Q:1/4=100
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-F4 C3 F | A2 A3 G F2 | G3 G A2 G2 | F4 z4 |
-A3 c c2 d2 | c4 A2 G2 | A3 c A2 G2 | D4 z4 |
-C4 F2 D2 | C2 F3 G A2 | A2 c2 A2 G2 | F4 z4 |
+F4 C3 C | A3 A G2 F2 | G3 G A2 F2 | G4 z4 |
+A3 c c2 d2 | c4 A2 G2 | G3 A G2 F2 | D4 z4 |
+C4 F2 D2 | C3 C F2 G2 | A2 c2 A2 G2 | F4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hinamatsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOlx46rnS9e-39PxdOnmp62Tnq9veL-n_-Xs2WDBTgUtLS5FWwVDAwMue1sFNy4bI30TO646BaVn05c-27T72cymZ3PmP53T_WzDxKdrdzxbsPDplI3P1vYAjXvc2Pa4cf7jxnWPG3c_bpqs8GRH9-Pm3c_XrHmyq-dpb-OLVZuAxiuBjAJqf766-0X7rueNi5-t3f60f9PT3lnPO1e-XLLiaeuOF9P7lbi49LUUbKkFuBQUFB43THg2e9Pz2eterFr1bEbf44aJYNHm3U_bd72YOfX9nlkQ9zzfsff53MVPd815vn3F44YubJ5q6AYFHnIQdMx9vrbz-fKJUM-u3fF055bnU1YA_ft-Tw9yCDxdPPnF7h1AhzxuAIYXNCoeNwCVYY8NoPanffOfzd4BNETBxPxRw2QTC4WXCxofNzRBnf9i1f5nDctfdLQ_6-59MXM-0B-Pm2cABYEmuik8XbIcyHyya8qLxk0v529-OasPbiBQ8Pn2WS_Wznk-p_H51KVAZWDdPU_XL3s5azZI8eoZz7c2PVu76Nm0PQpuCkARiHuA6UEBaBeQ9bJh_tNdyxQgqQXJRc09z2auB7lo9qaXi4CBMOvZvOnP5m9-tnnRk71zXqyc97ih8enOzU92TX26a_uTHZ0vm_uA4uAwaXo2vfvpvu6nLatezm59vnr9i74usD39Lxv7Xs5sebl73tPW1U872oCOeb5mGdAKYKg-bV0LF3k-q-X5lg0v2la-2Lr9yZ5-oN5n_f3Pd64C2vJsTgeInL4UHs4vu4HiXc-3tD7b0AEMrRdblzxubHm2fjaY2wl0JFD26cYlzybverFi7dPW5S8Wg-IFaOnL9olPN_YDvfayqwGYaJ7uWg5W3A1S3Dfpacd0YNg-2bXr6ezmp2sngBy5bgbQUqBjnuxe-rS_68m-2U-Xdr6cs-Hlklagxhf9GyGM5zP3vmydBDJ_9qpnW-Y9bwe56nHjHmCyA5PAoOgEevBF__qXu6YD3f-sdRsonDcuRAT9886OZ3PWQFI4KNznrHm2asqzhR3Pm3ZBYv3ptHWgpNC8Ah79kBB_srP76f4FwLh_NnXHk729T3umQYwCGQ3NPRADgFkdGINPW1c8m9YOdOqTHWtBjFXzXqxdD8xSQAejJVSgyLO-ZmAsAB2iEGBgagiUAVJG4LTUCTb7yY6Gxw0NkOAHMh437gNnutkgf4O40x839j5uXPK4qfFx4zJgOIHd0wjMmQtAGpq6ni2f8bgRaHsDML5AGRWkZwFYM1gpMLZgopsfNzWDzd72uHE1UAQYfwgNIMvB4QhKC2APAUMQmEae7d7_ct06YDJ50bkJGPywBNIDTxFPG7cB08jTOSuezQE5AZgKQOluwtqXrb1Au4G6IIkFFLHA9NK5CZZkmuABsKsH5HpwonncuOFxUwvI00CyoQGSdMAlEDCaoV6f-7gJGCCLwaEBdPqqx02dIC-B0yCWAHjcuPJxU8_jpiawRC-IDfQrUBuICwwxUCkECkNM30Oc9GxF08tZXY8bgGxEsn7cMBWcsteBshMo4nueTd3ycm8XJAMAAwOSH0Di6_uBMfx0Q9fL5r3PZqx_vq8PlHxntQBDDmTa3kXIIbEDmO-ArmoCeQnozubdYOcBA6MJFAAgbhcwmzxunPa4cSLce4gcAtYMDINpj5uAxTTYeyCdQP3AAJsK1fBkdxewGIAlGVDBAFYKL4wxg2HfbGC8omVYoO-fT5kDybOg1NDW-2Lx3JeL9wFLnudbZj7fuxIYx8AsDAw2eHYGhtnzOfOfzel8sW0xuDToerpkJTBIII6Al0vQ8AA6gvKaDwoUtPS5uDwy8xJzE0uKS4syrQIyE_PyHWoMahSqQRYp2Fho2YEZwGoXGFtWwFBtAuJuIG4BitYA6X1A3AbEsxVA9SBIZDoQ9wLxEqBII1hkGcgIIABaBzNsVw_IsClAvBqsEZjAQUqbWiAGAGmI8f2Pm_og8oseN7UDqflg4YVoxu3ohLqtqROIe6CaN0ENA7l5IVikCyoCct80sMhEVLfVKBgq6CpomMYr6OoqGGqqaujqagIFjRU0jEEiRlARQ6CYhhGyiLGCEVSzARDXgNMtUrCBLF4ADjZgegRbPBUaeOuhjgUF4g4gXgflA1UD_Y0l0OaC3A_M6JCABSldBfF34zaoVlAMzMdvFCTA9kDDHkRDXAWK2mlAXjdUK9Dd4OCDBBrE3WgBBgkZU2g4mCqYAcVMgWEACRFUWYiYGTB0sQcTMF7ADoK5HFo0g_0GSiogsT40NZBgxRJQK8FJAeR-iEKQ4UA-KA6AQQZLDqBEAgxAoL8gyRkjqUKCaiIQb0WKLmD0gVzRtOFx87rHzS3w9AYyChStS8DJuQstrEDpCphIgAEAZmsA0wtyEgIlNFOMpFTLxaVrp4CUT0FcZS4A)]
-- [鋼琴伴奏 TMD 檔案](hinamatsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOlx46rnS9e-39PxdOnmp62Tnq9veL-n_-Xs2WDBTqD4y-49zydsebJny9Ol_c87O4CCClpaXIq2CoYGBlz2tgpuXDZG-iZ2XHUKSs-mL322afezmU3P5sx_Oqf72YaJT9fueLZg4dMpG5-t7QGa9bix7XHj_MeN6x437n7cNFnhyY7ux827n69Z82RXz9PexherNgGNVwIZBdT-fHX3i_ZdzxsXP1u7_Wn_pqe9s553rny5ZMXT1h0vpvcrcXHpaynYUgtwKSgoPG6Y8Gz2puez171YterZjL7HDRPBos27n7bvejFz6vs9syDueb5j7_O5i5_umvN8-4rHDV3YPNXQDQpR5CDomPt8befz5ROhnl274-nOLc-nrACHcQ9yCDxdPPnF7h1AhzxuAIYXNH4eN4CiAkcU9Tztm_9s9g6gIQom5o8aJptYKLxc0Pi4oQnq_Ber9j9rWP6io_1Zd--LmfOB_njcPAMoCDTRTeHpkuVA5pNdU140bno5f_PLWX1wA4GCz7fPerF2zvM5jc-nLgUqA-vuebp-2ctZs0GKV894vrXp2dpFz6btUXBTAIpA3ANMDwpAu4Cslw3zn-5apgBJLUguau55NnM9yEWzN71cBAyEWc_mTX82f_OzzYue7J3zYuW8xw2NT3dufrJr6tNd25_s6HzZ3AcUB4dJ07Pp3U_3dT9tWfVyduvz1etf9HWB7el_2dj3cmbLy93znrauftrRBnTM8zXLgFYAQ_Vp61q4yPNZLc-3bHjRtvLF1u1P9vQD9T7r73--cxXQlmdzOkDk9KXwcH7ZDRTver6l9dkGYMLveLF1yePGlmfrZ4O5nUBHAmWfblzybPKuFyvWPm1d_mIxKF6Alr5sn_h0Yz_Qay-7GoCJ5umu5WDF3SDFfZOedkwHhu2TXbuezm5-unYCyJHrZgAtBTrmye6lT_u7nuyb_XRp58s5G14uaQVqfNG_EcJ4PnPvy9ZJIPNnr3q2Zd7zdpCrHjfuASY7MAkMik6gB1_0r3-5azrQ_c9at4HCeeNCRNAD0ywwHCEpHGvuBkYGSKmCgqGewtPOXqC4goZnXklRvo6CicLTDf1AYzVBETYZmCmnPdmxGxIfzxbseLq_-dmKpqf9S4FR9bxp19MNfUC9oOSyexcoKyMlwmct86EOUlAw0gNmmN3A4gHiBgUNj8y8xNzEkuLSokyQPU_7Nz_r7FbQCMhMzMsP8tBUeLZnClAdJIUCtQHLFrgj3u-Z_XT7MoRyHw9NiCVA8GTfXOT8-GRvHyQPPps689ncCc-3THm2YgcwSJ7Nmf5kZzcw4p4t2POytRcUHZN6gFkD4jqQq6ElBdwBwNT6tHXFs2ntQL892bEWxFg178Xa9cDiAxi-aJkSKPKsrxmY4p6tmqIQYGBqCJQBUkbgcO8Em_1kR8PjhgZIUgMyHjfuAxcws0FxDOJOf9zY-7hxyeOmxseNy4BpAuyeRmAptACkoanr2fIZjxuBtjcA0yaoUALpWQDWDFYKTJkw0c2Pm5rBZm973LgaKAJMqwgNIMvBUQRK92APASMDmB-e7d7_ct06YJZ40bkJmNRgmaEHnvqfNm4D5oenc1Y8mwNyAjDFg_LYhLXA0ATaDdQFyRigRAzMG52bYNmjCR4Au3pArgdnkMeNGx43tYA8DSQbGiDZBFzaApM01OtzHzcBA2QxODSATl_1uKkT5CVwfsMSAI8bVz5u6nnc1ASW6AWxgX4FagNxgSEGKnFBYYjpe4iTgGn85ayuxw1ANiILP26YCs7F60BFByjie55N3fJybxckswMDA5L3QeLr-4Ex_HRD18vmvc9mrH--rw-UVWe1AEMOZNreRcghsQNYxgBd1QTyEtCdzbvBzgMGRhMoAEDcLmCR8Lhx2uPGiXDvIUoDsGZgGEx73ASsksDeA-kE6gcG2FSohie7u4BFHizJgApBsFJ4xYMZDPtmA-MVrXAC-v75lDmQ8gmUGtp6Xyye-3LxPmAp-3zLzOd7VwLjGFhcAYMNXnQBw-z5nPnP5nS-2LYYXPJ1PV2yEhgkEEfAy2BoeAAdQXktDwUKWvpcXOAyzQparDjUGNQoVIMLCxsLLTswo0bBNF5BV8FQwSwewtYwVNDVVTDSVNXQ1dVUMAYKGiuYArERkAWUUjAA4hquWhSjfVCMNkE2OtowFqQRmWGKLAIyCakwxOdUYEsImKisgJHfBMTdQNwCtgVYeABxGxDPVgA1TUAi04G4F4iXAEUawSLLoEUkMFRghu3qARk2BYhXgzUC8yFIaVMLxAAgDTG-_3FTH0R-0eOmdiA1Hyy8EM24HZ1QtzV1AnEPVPMmqGEgNy8Ei3RBRUDumwYWmYjqNkhAa4AiBhgz0JgAxYOGMXLcGALFNIxQYws1ltCCDWTxAnCwAbMN2OKp0MBbD3UsKBB3APE6KB-oGuhvLIE2F-R-YHkECViQ0lUQfzdug2oFxcB8_EZBAmwPNOxBNMRVoKidBuR1Q7UC3Q0OPkigQdyNFmCQkDGFhoOpghko9QHDABIiqLIQMWB6xxFMwHgBOwjmcmgNAvYbKKmAxPrQ1ECCFUtArQQnBZD7IQpBhgP5oDgABhksOYASCTAAgf6CJGeMpAoJqolAvBUpuoDRB3JF04bHzeseN7fA0xvIKFC0LgEn5y60sCI3w2NkU1zZHiW3gxmgggA12yNUmsAUoBYQQOdFm-UilOIvSwwgTtS1UwAXSwpABpJzCXOVuQA)]
+- [主旋律 TMD 檔案](hinamatsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOlx46rnS9e-39PxdOnmp62Tnq9veL-n_-Xs2WDBTgUtLS5FWwVDAwMue1sFNy4bI30TO646BaVn05c-27T72cymZ3PmP53T_WzDxKdrdzxbsPDplI3P1vYAjXvc2Pa4cf7jxnWPG3c_bpqs8GRH9-Pm3c_XrHmyq-dpb-OLVZuAxiuBjAJqf766-0X7rueNi5-t3f60f9PT3lnPO1e-XLLiaeuOF9P7lbi49LUUbKkFuBQUFB43THg2e9Pz2eterFr1bEbf44aJYNHm3U_bd72YOfX9nlkQ9zzfsff53MVPd815vn3F44YubJ5q6AYFHnIQdMx9vrbz-fKJUM-u3fF055bnU1YA_ft-Tw9yCDxdPPnF7h1AhzxuAIYXNCoeNwCVYY8NoPanffOfzd4BNETBxPxRw2QTC4WXCxofNzRBnf9i1f5nDctfdLQ_6-59MXM-0B-Pm2cABYEmuik8XbIcyHyya8qLxk0v529-OasPbiBQ8Pn2WS_Wznk-p_H51KVAZWDdPU_XL3s5azZI8eoZz7c2PVu76Nm0PQpuCkARiHuA6UEBaBeQ9bJh_tNdyxQgqQXJRc09z2auB7lo9qaXi4CBMOvZvOnP5m9-tnnRk71zXqyc97ih8enOzU92TX26a_uTHZ0vm_uA4uAwaXo2vfvpvu6nLatezm59vnr9i74usD39Lxv7Xs5sebl73tPW1U872oCOeb5mGdAKYKg-bV0LF3k-q-X5lg0v2la-2Lr9yZ5-oN5n_f3Pd64C2vJsTgeInL4UHs4vu4HiXc-3tD7b0AEMrRdblzxubHm2fjaY2wl0JFD26cYlzybverFi7dPW5S8Wg-IFaOnL9olPN_YDvfayqwGYaJ7uWg5W3A1S3Dfpacd0YNg-2bXr6ezmp2sngBy5bgbQUqBjnuxe-rS_68m-2U-Xdr6cs-Hlklagxhf9GyGM5zP3vmydBDJ_9qpnW-Y9bwe56nHjHmCyA5PAoOgEevBF__qXu6YD3f-sdRsonDcuRAT9886OZ3PWQFI4KNznrHm2asqzhR3Pm3ZBYv3ptHWgpNC8Ah79kBB_srP76f4FwLh_NnXHk729T3umQYwCGQ3NPRADgFkdGINPW1c8m9YOdOqTHWtBjFXzXqxdD8xSQAejJVSgyLO-ZmAsAB2iEGBgagiUAVJG4LTUCTb7yY6Gxw0NkOAHMh437gNnutkgf4O40x839j5uXPK4qfFx4zJgOIHd0wjMmQtAGpq6ni2f8bgRaHsDML5AGRWkZwFYM1gpMLZgopsfNzWDzd72uHE1UAQYfwgNIMvB4QhKC2APAUMQmEae7d7_ct06YDJ50bkJGPywBNIDTxFPG7cB08jTOSuezQE5AZgKQOluwtqXrb1Au4G6IIkFFLHA9NK5CZZkmuABsKsH5HpwonncuOFxUwvI00CyoQGSdMAlEDCaoV6f-7gJGCCLwaEBdPqqx02dIC-B0yCWAHjcuPJxU8_jpiawRC-IDfQrUBuICwwxUCkECkNM30Oc9GxF08tZXY8bgGxEsn7cMBWcsteBshMo4nueTd3ycm8XJAMAAwOSH0Di6_uBMfx0Q9fL5r3PZqx_vq8PlHxntQBDDmTa3kXIIbEDmO-ArmoCeQnozubdYOcBA6MJFAAgbhcwmzxunPa4cSLce4gcAtYMDINpj5uAxTTYeyCdQP3AAJsK1fBkdxewGIAlGVDBAFYKL4wxg2HfbGC8omVYoO-fT5kDybOg1NDW-2Lx3JeL9wFLnudbZj7fuxIYx8AsDAw2eHYGhtnzOfOfzel8sW0xuDToerpkJTBIII6Al0vQ8AA6gvKaDwoUtPS5uDwy8xJzE0uKS4syrQIyE_PyHWoMahSqQRYp2BiaadmBWcB6FxhdVsBgbQLibiBuAYrWAOl9QNwGxLMVQBUhSGQ6EPcC8RKgSCNU1TKQISD7YIbt6gEZNgWIV4M1QpRtALJbIEYAaZBI_-OmPpD848ZFj5vagdR8sPBCNON2dELd1tQJxD1Q4zZBjQK5eSFYpAsqAnLfNKiqichuq1EwVNAFQ9N4GFWjYAxmGisYAUmQfA2YpQskQTLIIroKBlC6Bpx2kUIOZPcCcMgB0yTY5qnQ8FsPdQkoHHcA8TooH6gaHDQY4TYX6oXF4KAFKV0F8XrjNqhWUCTMx28UJMz2gCUgNMRVoNidBuR1Q7UC3Q0OQUi4QdyNEmKQ0DEFQl0FM3BYgFiQEAOFESJ0kEPQDBK-eAIM6EOw02B-gBbUYF-C0g1IrA9NDSSAsQTZSnC6APkEohBkOJAPig1g4MHSBijFAIMS6ENI2saazCYC8VakaANGI8gNTRseN6973AxJtzCDQNG7BCQCDFzkMIOmLkhggIMCLgakQIKQcAOFICg0ESEJS5-IYKvl4tK1U0DKyCCuMhcXAA)]
+- [鋼琴伴奏 TMD 檔案](hinamatsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOlx46rnS9e-39PxdOnmp62Tnq9veL-n_-Xs2WDBTqD4y-49zydsebJny9Ol_c87O4CCClpaXIq2CoYGBlz2tgpuXDZG-iZ2XHUKSs-mL322afezmU3P5sx_Oqf72YaJT9fueLZg4dMpG5-t7QGa9bix7XHj_MeN6x437n7cNFnhyY7ux827n69Z82RXz9PexherNgGNVwIZBdT-fHX3i_ZdzxsXP1u7_Wn_pqe9s553rny5ZMXT1h0vpvcrcXHpaynYUgtwKSgoPG6Y8Gz2puez171YterZjL7HDRPBos27n7bvejFz6vs9syDueb5j7_O5i5_umvN8-4rHDV3YPNXQDQpR5CDomPt8befz5ROhnl274-nOLc-nrACHcQ9yCDxdPPnF7h1AhzxuAIYXNH4eN4CiAkcU9Tztm_9s9g6gIQom5o8aJptYKLxc0Pi4oQnq_Ber9j9rWP6io_1Zd--LmfOB_njcPAMoCDTRTeHpkuVA5pNdU140bno5f_PLWX1wA4GCz7fPerF2zvM5jc-nLgUqA-vuebp-2ctZs0GKV894vrXp2dpFz6btUXBTAIpA3ANMDwpAu4Cslw3zn-5apgBJLUguau55NnM9yEWzN71cBAyEWc_mTX82f_OzzYue7J3zYuW8xw2NT3dufrJr6tNd25_s6HzZ3AcUB4dJ07Pp3U_3dT9tWfVyduvz1etf9HWB7el_2dj3cmbLy93znrauftrRBnTM8zXLgFYAQ_Vp61q4yPNZLc-3bHjRtvLF1u1P9vQD9T7r73--cxXQlmdzOkDk9KXwcH7ZDRTver6l9dkGYMLveLF1yePGlmfrZ4O5nUBHAmWfblzybPKuFyvWPm1d_mIxKF6Alr5sn_h0Yz_Qay-7GoCJ5umu5WDF3SDFfZOedkwHhu2TXbuezm5-unYCyJHrZgAtBTrmye6lT_u7nuyb_XRp58s5G14uaQVqfNG_EcJ4PnPvy9ZJIPNnr3q2Zd7zdpCrHjfuASY7MAkMik6gB1_0r3-5azrQ_c9at4HCeeNCRNAD0ywwHCEpHGvuBkYGSKmCgqGewtPOXqC4goZnXklRvo6CicLTDf1AYzVBETYZmCmnPdmxGxIfzxbseLq_-dmKpqf9S4FR9bxp19MNfUC9oOSyexcoKyMlwmct86EOUlAw0gNmmN3A4gHiBgUNj8y8xNzEkuLSokyQPU_7Nz_r7FbQCMhMzMsP8tBUeLZnClAdJIUCtQHLFrgj3u-Z_XT7MoRyHw9NiCVA8GTfXOT8-GRvHyQPPps689ncCc-3THm2YgcwSJ7Nmf5kZzcw4p4t2POytRcUHZN6gFkD4jqQq6ElBdwBwNT6tHXFs2ntQL892bEWxFg178Xa9cDiAxi-aJkSKPKsrxmY4p6tmqIQYGBqCJQBUkbgcO8Em_1kR8PjhgZIUgMyHjfuAxcws0FxDOJOf9zY-7hxyeOmxseNy4BpAuyeRmAptACkoanr2fIZjxuBtjcA0yaoUALpWQDWDFYKTJkw0c2Pm5rBZm973LgaKAJMqwgNIMvBUQRK92APASMDmB-e7d7_ct06YJZ40bkJmNRgmaEHnvqfNm4D5oenc1Y8mwNyAjDFg_LYhLXA0ATaDdQFyRigRAzMG52bYNmjCR4Au3pArgdnkMeNGx43tYA8DSQbGiDZBFzaApM01OtzHzcBA2QxODSATl_1uKkT5CVwfsMSAI8bVz5u6nnc1ASW6AWxgX4FagNxgSEGKnFBYYjpe4iTgGn85ayuxw1ANiILP26YCs7F60BFByjie55N3fJybxckswMDA5L3QeLr-4Ex_HRD18vmvc9mrH--rw-UVWe1AEMOZNreRcghsQNYxgBd1QTyEtCdzbvBzgMGRhMoAEDcLmCR8Lhx2uPGiXDvIUoDsGZgGEx73ASsksDeA-kE6gcG2FSohie7u4BFHizJgApBsFJ4xYMZDPtmA-MVrXAC-v75lDmQ8gmUGtp6Xyye-3LxPmAp-3zLzOd7VwLjGFhcAYMNXnQBw-z5nPnP5nS-2LYYXPJ1PV2yEhgkEEfAy2BoeAAdQXktDwUKWvpcXOAyzQparDjUGNQoVIMLCxtDMy07MKtGwTReQRcMDYHYDMSBiwEpkKARWMwYJADEIBoiApIDQQMoXcNVi2KlD4qVJkg2xitEG8aCTEBmmCKLgIxCKiXx-gHYRgImNytgsmgC4m4gbgHbAyxWgLgNiGcrgBotIJHpQNwLxEuAIo1QVcvAhScwvGCG7eoBGTYFiFeDNUKUbQCyWyBGAGmQSP_jpj6Q_OPGRY-b2oHUfLDwQjTjdnRC3dbUCcQ9UOM2QY0CuXkhWKQLKgJy3zSoqonIbkMEOSKCIBEDihZQpIDka8AsUCSBZJBFkKMKLeRAdi8AhxwwT4FtngoNv_VQl4DCcQcQr4PygarBQYMRbnOhXlgMDlqQ0lUQrzdug2oFRcJ8_EZBwmwPWAJCQ1wFit1pQF43VCvQ3eAQhIQbxN0oIQYJHVNw0jWDJG5oGCASMiR0kEMQnA_wBhjQh2CnwfwArWjAvgSlG5BYH5oaSABjCbKV4HQB8glEIchwIB8UG8DAg6UNUIoBBiXQh5C0jTWZTQTirUjRBoxGkBuaNjxuXve4GZJuYQaBoncJSAQYuMhhRuUiASMf4yoYUIoDMANcVKAWDAilZrlwJaiFiBlICCxLXIljAHGnrp0CuPRSADKQ3EyYq8zFBQA)]
 
 ## 分析
 
@@ -84,19 +84,19 @@ C4 F2 D2 | C2 F3 G A2 | A2 c2 A2 G2 | F4 z4 |
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Hinamatsuri (14.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, F, C, G, D
-   - 調性數值:    F 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.82), A 小調 (0.73), C 大調 (0.70)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  C, G, F, A, D
+   - 調性數值:    C 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.82), F 大調 (0.77), A 小調 (0.59)
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Hinamatsuri #1]: F 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [Hinamatsuri #1]: C 大調 (r: 0.82, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-               C  
-        [F ]*          G  
+              [C ]*
+         F            G  
       Bb               D  
       Eb               A  
          Ab           E  
@@ -105,16 +105,16 @@ C4 F2 D2 | C2 F3 G A2 | A2 c2 A2 G2 | F4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████      22.6%
+     C  : ████████████████████████  25.0%
      C# :                            0.0%
-     D  : ████████                   9.5%
+     D  : █████████                  9.5%
      D# :                            0.0%
      E  :                            0.0%
-     F  : █████████████████████     23.8%
+     F  : █████████████████████     21.4%
      F# :                            0.0%
-     G  : ███████████████           16.7%
+     G  : ████████████████████████  25.0%
      G# :                            0.0%
-     A  : ████████████████████████  27.4%
+     A  : ██████████████████        19.0%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------

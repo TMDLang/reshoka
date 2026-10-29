@@ -57,15 +57,15 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A2 A2 A4 | F2 F2 G2 G2 | D2 D2 F2 F2 | C2 C2 C4 |
-c2 f2 f4 | G2 A2 G2 F2 | A2 A2 G2 G2 | F6 z2 |
+C2 F2 F4 | G2 A2 G2 F2 | A2 A2 G2 G2 | F6 z2 |
 A2 c2 c4 | c2 d2 c2 A2 | G2 G2 F2 G2 | A2 c2 c4 |
 d2 d2 d4 | c2 c2 A2 F2 | G2 G2 A2 G2 | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kogawa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlieWpBYpcWlpKTxu2vy4ac3j5v73ezqebuh_tmnz-z2dClpaXIq2CoYGFlz2tgpuXDZG-iZ2ICNerJz3fs8soNInOxqA6p5Na3_ZvOL5nMYX6xqezVnzuKERJLWrByj1ZO-Exw2tz-aseDqh88mOzpfNfWA3PJu9CWjA8y29zzobXuxb8WzNQpjMi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9YA7Xu6dsfTnVueT1kBtB4UK3rAWNEDxQqQYWAEdI0Sl76WAtDu57PXvVi16tmMPi4FBYUnO9YCPfBi-eKX7d1ARz3r73-6fvWzHa3P9nU827Xq2dZGIHrZ2Pd8yoaX7X1Avz3duPHltMnPZ7U8m7n-Reemxw1NXFr6XCCTbakFQM562jf_2ewdLza3v1jR9aKjHehhYKg_bV0BdCs4jnqftXcqBBgYGetlFaS_39MDVPxyQaNCgZ6CBZAHCpAdDcAAeTZnPpCtYKbwctk0YAgAPQgy_MWq_c8aloOM7e59MXM-UPRx8wygIDAQgSJP104AWuGm8HTJcqCYAjDWFYCiYN3AUO953LT6cfPqx03rHzcvA7Gbljxu7n7c0MsFCc0GEAUWnPG4ue9x8zwwY9Pj5gmPm7vAiQyIVgMT2dPtc4HWIKW8TrC_sUkg6Wx73NDwuLkTJAs0F2hN03qwhc0LHzc3gJ0DcdRukNKm_SAnNO0FW97xuHn24-ZVENVA84C-mPe4adHj5haw5jagd2E2rwIpRVg-A-K1XT1gB0LVALVDZMEWgJwD9iPQdSD22sdNQC7Im8_nA_MSxDdAx25HeBNTAkknTm8CHQt0F1AbMIBbgNoeN68ABT_Ip0AS5ChUnzbtfNwEVNEPNg8o1wb2-1qwOyHeXPa4eT7Ij0DVlCddKFAAZQnv_PTE8kSrgMzEvHyHGoMahWqQHQo2hmZadmAWtjyjAEm6Lxb2KGiYgINpfYMOPKFrYtEAtApq2MtZfU8n9FoBQ2k-OKwQJAjUANmdYBEIuQZOgmRWgnkQEqEKKNO0FxyMCBIEEHZqAB2rCbSyaQlY0www2Ydk5Twk8U1gcgJUpgtsJMIZwPQCtXIzkkw_Fit39YCtBCmHKECxEupWsCGoVkLF1oLlITKoVoI90bQd1coaBWMFXTgGwRoFQyAJwkZQXKNgFg-kwARMrkbBFMRFEGCt4LyEO-p39VAW9RDPI0UhLB4goQlJEhA2NIJREgtqooDphwEs0Y4tqrBHbhuSobCYACcLcKiD4mA9HuugUY4tmrBHLNnWAaMNFIFxMAIS4aBIBkU_iIZELixBIJIASBwGDYiI6x2d1MjmaFkTngEgmRnKBqlEpAJE_CPiGptZmPHdvBCsqQGsDJR3YFYug4sA6x7kCGjaD-aB8ifMMbACoAPMmw0mV2GxEhLnzS1IbgZpgVkJKXHAsqB6YDmQ041iJ4iHXEoQsBMSpaDIB2FItINYZlARkCwkIcASASTaMXThj_ans2dTGO3IZTWIhAUIUkkNzc6wLI4c7YiMTlwWh2ZlSDCCSnOYdYsQ4Q9NFrAoBwUsNJCRigaQdaAciMs6aBbfCda2Aq4Nah20nAdZAXMSKLujWwdOh_DkjsM6YGkNjVcQRsQ0LJYhGRwW07BMji2D13Jx6dopQGp6BSBLmYsLAA)]
-- [鋼琴伴奏 TMD 檔案](kogawa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPlx05rHzf3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwsue1sFNy4bI30TO646BaUXK-e93zMLqOfJjgagumfT2l82r3g-p_HFuoZnc9Y8bmgESe3qAUo92TvhcUPrszkrnk7ofLKj82VznxLIgGezNwENeL6l91lnw4t9K56tWQiTedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM0aoH1P1-54unPL8ykrgNYbGRgZ6BkYmOkZWJiYAxkGRkDXKHFxeeenJ5YnWgVkJublB3k41BjUKFRzKQCBjaGZlh2Ypa-lYIsOFEA27Gh4sbBHQcNE4emG_ufrG3QUAgyMjPWyCtI1sWjQ0gcbVqNgrKALxyBYo2AIJEHYCIprFMzigRSYgMnVKJiCuAgCrJULvwN39ZDjQFOQlXEwAuJEkLNADgbREOfAvIBwNEgcBg2IcN2OTnKDD-RCEIa4DcQyg4qAZCGuhbkU4jYMXfjd9nT2bHLcBnIFDCPcBnMXJNxgboOFHbZwq0VNlz4o6dIEkSyf7d0FQlsbn23Y8nLRiqfblz3r7IbkWISjDOMVog1joQzTeBDLBMgyATFM42Fi6IoRMkj6gCwDTKW49IDEoGrhFuJQCzIV6GldOwWIvxVQWMpcXAA)]
+- [主旋律 TMD 檔案](kogawa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlieWpBYpcWlpKTxu2vy4ac3j5v73ezqebuh_tmnz-z2dClpaXIq2CoYGFlz2tgpuXDZG-iZ2ICNerJz3fs8soNInOxqA6p5Na3_ZvOL5nMYX6xqezVnzuKERJLWrByj1ZO-Exw2tz-aseDqh88mOzpfNfWA3PJu9CWjA8y29zzobXuxb8WzNQpjMi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9YA7Xu6dsfTnVueT1kBtB4UK3rAWNEDxQqQYWAEdI0Sl76WAtDu57PXvVi16tmMPi4FBYUnO9YCPfBi-eKX7d1ARz3r73-6fvWzHa3P9nU827Xq2dZGIHrZ2Pd8yoaX7X1Avz3duPHltMnPZ7U8m7n-Reemxw1NXFr6XCCTbakFQM562jf_2ewdLza3v1jR9aKjHehhYKg_bV0BdCs4jnqftXcqBBgYGetlFaS_39MDVPxyQaNCgZ6CBZAHCpAdDcAAeTZnPpCtYKbwctk0YAgAPQgy_MWq_c8aloOM7e59MXM-UPRx8wygIDAQgSJP104AWuGm8HTJcqCYAjDWFYCiYN3AUO953LT6cfPqx03rHzcvA7Gbljxu7n7c0MsFCc0GEAUWnPG4ue9x8zwwY9Pj5gmPm7vAiQyIVgMT2dPtc4HWIKW8TrC_sUkg6Wx73NDwuLkTJAs0F2hN03qwhc0LHzc3gJ0DcdRukNKm_SAnNO0FW97xuHn24-ZVENVA84C-mPe4adHj5haw5jagd2E2rwIpRVg-A-K1XT1gB0LVALVDZMEWgJwD9iPQdSD22sdNQC7Im8_nA_MSxDdAx25HeBNTAkknTm8CHQt0F1AbMIBbgNoeN68ABT_Ip0AS5ChUnzbtfNwEVNEPNg8o1wb2-1qwOyHeXPa4eT7Ij0DVlCddKFAAZQnv_PTE8kSrgMzEvHyHGoMahWqQHQo2hmZadmAWtjyjAEm6Lxb2KGiYgINpfYMOPKFrYtEAtApq2MtZfU8n9FoBQ2k-OKwQJAjUANmdYBEIuQZOgmRWgnkQEqEKKNO0FxyMCBIEEHZqAB2rCbSyaQlY0www2Ydk5Twk8U1gcgJUpgtsJMIZwPQCtXIzkkw_Fit39YCtBCmHKECxEupWsCGoVkLF1oLlITKoVoI90bQd1coaBWMFXTgGwRoFQyAJwkZQXKNgFg-kwARMrkbBFMRFEGCt4LyEO-p39VAW9RDPI0UhLB4goQlJEhA2NIJREgtqooDphwEs0Y4tqrBHbhuSobCYACcLcKiD4mA9HuugUY4tmrBHLNnWQaMNFouQ-AbFMSj2QTQkbmHpAZECYKpB0ICIqN7RSY1cjpYz4ekfkpehbJBKRCJARD8iqrGZhRndzQvBmhrAykBZB2blMrgIsOpBDv-m_WAeKHvCHAPL_x1g3mwwuQqLlZAob25BcjNIC8xKSIEDlgVVA8uBnG4UO0E85EKCgJ2QKDWFYki0g1hmUBGQLCQhwBIBJNoxdOGP9qezZ1MY7chFNYiEBQhSQQ3NzbAcjhztiHxOXA6H5mRIMIIKc5h1ixDhD00WsCgHBSw0kJFKBpB1oAyIyzpoDt8J1rYCrg1qHbSYB1kBcxIot6NbB06H8OSOwzpgYQ2NVxBGxDQsliEZHBbTsEyOLYPXcnHp2ilAKnoFIEuZiwsA)]
+- [鋼琴伴奏 TMD 檔案](kogawa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPlx05rHzf3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwsue1sFNy4bI30TO646BaUXK-e93zMLqOfJjgagumfT2l82r3g-p_HFuoZnc9Y8bmgESe3qAUo92TvhcUPrszkrnk7ofLKj82VznxLIgGezNwENeL6l91lnw4t9K56tWQiTedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM0aoH1P1-54unPL8ykrgNYbGRgZ6BkYmOkZWJiYAxkGRkDXKHFxeeenJ5YnWgVkJublB3k41BjUKFRzKQCBjaGZlh2Ypa-lYIsOFEA27Gh4sbBHQcNE4emG_ufrG3QUAgyMjPWyCtI1sWjQ0gcbVqNgrKALxyBYo2AIJEHYCIprFMzigRSYgMnVKJiCuAgCrJULvwN39ZDjQLDxMHshLgS5CuReEA1xDcwHCDfDVIOgARGO29FJbuiZQjHEbSCWGVQEJAtxLcylELdh6MLvtqezZ5PjNpArYBjhNpi7IOEGcxss7LCFWy1qsvRBSZYmiFT5bO8uENra-GzDlpeLVjzdvuxZZzckwyIcZRivEG0YC2WYxoNYJkCWCYhhGg8TQ1eMkEHSB2QZYCrFpQckBlULtxCHWpCpQE_r2ilA_K2AwlLm4gIA)]
 
 ## 分析
 
@@ -76,9 +76,9 @@ d2 d2 d4 | c2 c2 A2 F2 | G2 G2 A2 G2 | F6 z2 |
 ⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [Kogawa #1 @ m.4, 0:03]
-   - 最高音: F5 in [Kogawa #1 @ m.5, 0:04]
+   - 最高音: D5 in [Kogawa #1 @ m.10, 0:10]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Kogawa (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
@@ -117,7 +117,7 @@ d2 d2 d4 | c2 c2 A2 F2 | G2 G2 A2 G2 | F6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 52 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 52 個音符)
 ================================================================================
 ```
 
