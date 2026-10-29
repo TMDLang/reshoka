@@ -52,13 +52,13 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 G4 E2 F2 G4 A4 | G4 E2 F2 G4 c4 | A4 G4 E4 C4 | D12 z4 |
-G4 A2 G2 E4 G4 | c4 d2 c2 A4 c4 | G4 E4 D6 G2 | c12 z4 |
+G4 A2 G2 E4 G4 | c4 d2 c2 A4 c4 | G4 e4 d6 G2 | c12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](haru_ga_kita.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xXjFNbSUng2Y-njxp4n-9oeN85X0NLiUrRVMDQw4LK3VXDmsjHRN7ED6X02rf1l84rncxrBJr1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZNdPU_X7ni6c8vzKSve7-kABaEeMAj1QEEIZBgYvd_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572roC6CugK55u6H3W3qkQYGBqpJdVkP5-Tw9Q8csFjQoFegrG5kAuyOE7OoEOfzZnPpCtYKHwctk0oEvf75kFMv3Fqv3PGpaDzO3ufTFzPlD0cXM_UPDp7NlAkadrJwDtcFZ4umQ5UEwBGKAKQFGgbi6Q3ic7GkAUchw8bmhA4z5uXPm4cfLjxtUQEbCPNm6E84EqXrb3oHL7gNzHTU1QDWCbdvWAHdsF1NjzdNKmx439QJVoXLhNEBGETXAVEJuQuFCboBogfuoEUS83gzzxuHEVVCUqF2bTcogI3CYoH2YTMhdo03KgTQgNlCcOKFDQ0ufi8kgsKnVP9M4sSbQKyEzMy3eoMahRqAbZo2BjoWUHZtQomCroKhgrmIBpMyBGFTGMAwuBJCDCQCGwiBGQhEEDkAiScWZAEqQSxK6BGGEUB6JBxkBNhJkGMccUpg7VyFouLl07BYQ_FIA8ZS4uAA)]
-- [鋼琴伴奏 TMD 檔案](haru_ga_kita_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxp4n-9oeN85_v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGhhw2dsqOHPZmOib2HHVKSg9m9b-snnF8zmNSiDei_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dXzdO2Opzu3PJ-yAugAIwMjAz0DAzM9AwsTcyDDwAjoBiUuLo_EolL3RO_MkkSrgMzEvPwgD4cagxqFai4FILCx0LIDM2oUTBV0FYwVTMC0GRCjihjGgYVAEhBhoBBYxAhIwqABSATJODMgCVIJYtdAjDCKA9EgY6AmwkyDmGMKU4dqZC2mN3xQvGEC94ZhvEK0YSyYMolF5QOpGgUTNL5pPJBlGh8LIQzg7semD2gglILLw7XDRUAYZAzQzbp2CghnKwB5ylxcAA)]
+- [主旋律 TMD 檔案](haru_ga_kita.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xXjFNbSUng2Y-njxp4n-9oeN85X0NLiUrRVMDQw4LK3VXDmsjHRN7ED6X02rf1l84rncxrBJr1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZNdPU_X7ni6c8vzKSve7-kABaEeMAj1QEEIZBgYvd_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572roC6CugK55u6H3W3qkQYGBqpJdVkP5-Tw9Q8csFjQoFegrG5kAuyOE7OoEOfzZnPpCtYKHwctk0oEvf75kFMv3Fqv3PGpaDzO3ufTFzPlD0cXM_UPDp7NlAkadrJwDtcFZ4umQ5UEwBGKAKQFGgbi6Q3ic7GkAUchw8bmhA4z5uXPm4cfLjxtUQEbCPNm6E84EqXrb3oHL7gNzHTU1QDWCbdvWAHdsF1NjzdNKmx439QJVoXLhNEBGETXAVEJuQuFCboBogfuoEUS83gzzxuHEVVCUqF2bTcogI3CYoH2YTMhdo03KgTQgNlCcOKFDQ0ufi8kgsKnVP9M4sSbQKyEzMy3eoMahRqAbZo2BjoWUHZtQomCroKhgrmIBpMyBGFTGMAwuBJCDCQCGwiBGQhEEDkAiScWZAEqQSxK6BGGEUB6JBxkBNBJsGlQGZYQpTiWpoLReXrp0CwicKQJ4yFxcA)]
+- [鋼琴伴奏 TMD 檔案](haru_ga_kita_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxp4n-9oeN85_v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGhhw2dsqOHPZmOib2HHVKSg9m9b-snnF8zmNSiDei_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dXzdO2Opzu3PJ-yAugAIwMjAz0DAzM9AwsTcyDDwAjoBiUuLo_EolL3RO_MkkSrgMzEvPwgD4cagxqFai4FILCx0LIDM2oUTBV0FYwVTMC0GRCjihjGgYVAEhBhoBBYxAhIwqABSATJODMgCVIJYtdAjDCKA9EgY6Amgk2DyoDMMIWpRDW0FtMjPigeMYF7xDBeIdowFkyZxKLygVSNggka3zQeyDKNj4UQBnAfYNMHNBBKweXh2uEiIAwyBuhmXTsFhLMxecpcXAA)]
 
 ## 分析
 
@@ -69,9 +69,9 @@ G4 A2 G2 E4 G4 | c4 d2 c2 A4 c4 | G4 E4 D6 G2 | c12 z4 |
 ⏱  Duration:       0:19 (19.2s), 8 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
    - 最低音:  C4 in [HaruGaKita #1 @ m.3, 0:06]
-   - 最高音: D5 in [HaruGaKita #1 @ m.6, 0:12]
+   - 最高音: E5 in [HaruGaKita #1 @ m.7, 0:15]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      HaruGaKita (19.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
@@ -110,7 +110,7 @@ G4 A2 G2 E4 G4 | c4 d2 c2 A4 c4 | G4 E4 D6 G2 | c12 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 30 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 30 個音符)
 ================================================================================
 ```
 
