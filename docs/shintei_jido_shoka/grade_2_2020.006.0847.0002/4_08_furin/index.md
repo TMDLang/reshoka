@@ -56,13 +56,13 @@ D3 D C2 C2 | F2 G2 G2 A2 | c3 c G2 A2 | F6 z2 |
 F2 G2 A2 z2 | c2 c c c2 z2 | A2 A2 G2 F2 | C6 z2 |
 D3 D C2 C2 | F2 G2 G2 A2 | c3 c G2 A2 | F6 z2 |
 c4 c2 c2 | d2 c2 c2 A2 | c2 d2 c2 A2 | c6 z2 |
-F2 G2 A2 z2 | c2 c c c2 z2 | A4 G2 G2 | F6 z2 |
+F2 G2 A2 z2 | c2 c c c2 z2 | G4 A2 G2 | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](furin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-aWFmcmK3FpaSk8bp76uGnZ4-ZVj5s3v9_T8XLRipcdW97v6VTQ0uJStFWwNOOyt1Vw47Ix0jexAxnyYuW893tmPd0-98X29c_mb362cT7Y7GezNwGFX_R2AmWe7F8IFnvRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmie7ep6u3fF055bnU1YA3QQKUT1giOqBQhTIMDACuk-JS19LAWjr89nrXqxa9WxGH5eCgsKTHWufTWt_sXzxy_ZuoHOe9fc_Xb8a4qWnc1Y83bcOyAaqeT5zz9P2Xc92tL5oaXvRuOnl_M2PG5q4tPS5QGbaUguAHPS0b_6z2TtebG5_saLrRUc70KvA8HvaugLoSqDHnm7ofdbeqRBgYGaol1WQ_n5PD1DxywWNCgV6CiZmQO7T_uYXDc3AEHw2dwIwXBQsFF4umwb0PNBvINNfrNr_rGE5yNzu3hcz5wNFHzfPAAoCww8o8nTtBKAdbgpPlywHiikAI1ABKArWDQzwnsdNqx839z9unvS4adPj5u7HDb1cIDOR08Pj5kYwA0J2gcl5j5u2P27aD1batAhsCFB6CUh1004QA0I298KVPm5eQarBQOc0tzxuAqrrQLekef3j5pUgV4M07ISoBpq68HFzH8gkkNL2x81gPU17wHYCtbURdADQNqBD2x837QaqAammPP6hQAGUrtxKgdnZKiAzMS_focagRqEaZIWCjaGZlh2YVaNgqKCrYATExkBsAMQ1CqZA0hQMYSIgORAGqQOpB6qJB1IwCFYENc4MIgGkwErABMISmEUQS0DWIERAarCZOOgdCFEJUgvBQDuQeAjTYKLI5pPvXRCEuRib22q5uHTtFMDxrwBkKHNxAQA)]
-- [鋼琴伴奏 TMD 檔案](furin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPPVx07LHzaseN29-v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cdkY6ZvYcdUpKL1YOe_9nllPt899sX39s_mbn22crwQSfjZ7E1D4RW8nUObJ_oVgsRftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKr5-naHU93bnk-ZQXQcUYGRgZ6BgZmegYWJuZAhoER0H1KXFxupUWZeVYBmYl5-UEeDjUGNQrVXApAYGNopmUHZtUoGCroKhgBsTEQGwBxjYIpkDQFQ5gISA6EQepA6oFq4oEUDIIVQY0zg0gAKbASMIGwBGYRxBKQNQgRkBpsJg56B0JUgtRCMNAOJB7CNJgosvnkexcEYS7G5rZalOj3QYl-E0TsxytEG8ZCGAbIfNN4sABUmQmQB1cXbRoPZYEUwbTS3EATZB1YjMRiM4pxwADRtVMAh4kCkKHMxQUA)]
+- [主旋律 TMD 檔案](furin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-aWFmcmK3FpaSk8bp76uGnZ4-ZVj5s3v9_T8XLRipcdW97v6VTQ0uJStFWwNOOyt1Vw47Ix0jexAxnyYuW893tmPd0-98X29c_mb362cT7Y7GezNwGFX_R2AmWe7F8IFnvRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmie7ep6u3fF055bnU1YA3QQKUT1giOqBQhTIMDACuk-JS19LAWjr89nrXqxa9WxGH5eCgsKTHWufTWt_sXzxy_ZuoHOe9fc_Xb8a4qWnc1Y83bcOyAaqeT5zz9P2Xc92tL5oaXvRuOnl_M2PG5q4tPS5QGbaUguAHPS0b_6z2TtebG5_saLrRUc70KvA8HvaugLoSqDHnm7ofdbeqRBgYGaol1WQ_n5PD1DxywWNCgV6CiZmQO7T_uYXDc3AEHw2dwIwXBQsFF4umwb0PNBvINNfrNr_rGE5yNzu3hcz5wNFHzfPAAoCww8o8nTtBKAdbgpPlywHiikAI1ABKArWDQzwnsdNqx839z9unvS4adPj5u7HDb1cIDOR08Pj5kYwA0J2gcl5j5u2P27aD1batAhsCFB6CUh1004QA0I298KVPm5eQarBQOc0tzxuAqrrQLekef3j5pUgV4M07ISoBpq68HFzH8gkkNL2x81gPU17wHYCtbURdADQNqBD2x837QaqAammPP6hQAGUrtxKgdnZKiAzMS_focagRqEaZIWCjaGZlh2YVaNgqKCrYATExkBsAMQ1CqZA0hQMYSIgORAGqQOpB6qJB1IwCFYENc4MIgGkwErABMISmEUQS0DWIERAarCZOOgdCFEJUgvBQDuQeAjTYKLI5pPnXZA8CMK8jM1ttVxcunYK4PhXADKUubgA)]
+- [鋼琴伴奏 TMD 檔案](furin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPPVx07LHzaseN29-v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cdkY6ZvYcdUpKL1YOe_9nllPt899sX39s_mbn22crwQSfjZ7E1D4RW8nUObJ_oVgsRftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKr5-naHU93bnk-ZQXQcUYGRgZ6BgZmegYWJuZAhoER0H1KXFxupUWZeVYBmYl5-UEeDjUGNQrVXApAYGNopmUHZtUoGCroKhgBsTEQGwBxjYIpkDQFQ5gISA6EQepA6oFq4oEUDIIVQY0zg0gAKbASMIGwBGYRxBKQNQgRkBpsJg56B0JUgtRCMNAOJB7CNJgosvnkeRckD4IwL2NzWy1K9PugRL8JIvbjFaINYyEMA2S-aTxYAKrMBMiDq4s2jYeyQIpgWmluoAmyDixGYrEZxThggOjaKYDDRAHIUObiAgA)]
 
 ## 分析
 
@@ -82,12 +82,12 @@ F2 G2 A2 z2 | c2 c c c2 z2 | A4 G2 G2 | F6 z2 |
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, F, A, G, D
-   - 調性數值:    C 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.85), F 大調 (0.76), A 小調 (0.67)
+   - 核心骨幹音:  C, F, G, A, D
+   - 調性數值:    C 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.86), F 大調 (0.76), A 小調 (0.65)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Furin #1]: C 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Furin #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -107,9 +107,9 @@ F2 G2 A2 z2 | c2 c c c2 z2 | A4 G2 G2 | F6 z2 |
      E  :                            0.0%
      F  : ███████████               19.0%
      F# :                            0.0%
-     G  : █████████                 15.5%
+     G  : ██████████                16.7%
      G# :                            0.0%
-     A  : ███████████               17.9%
+     A  : ██████████                16.7%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
