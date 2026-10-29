@@ -63,16 +63,16 @@ Q:1/4=108
 K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-d2 f2 g2 f2 | d2 f2 g2 f2 | d2 f2 g2 b2 | c'4 c'2 z2 |
-d'4 c'2 b2 | g4 f2 z2 | b4 g2 f2 | d2 d2 c2 z2 |
-d2 f2 g2 f2 | d2 f2 g2 f2 | d2 f2 g2 b2 | c'2 c'2 c'2 z2 |
-d'4 c'2 b2 | g4 f2 z2 | g2 f2 c2 B2 | B6 z2 |
+D,2 F,2 G,2 F,2 | D,2 F,2 G,2 F,2 | D,2 F,2 G,2 B,2 | C4 C2 z2 |
+D4 C2 B,2 | G,4 F,2 z2 | B,4 G,2 F,2 | D,2 D,2 C,2 z2 |
+D,2 F,2 G,2 F,2 | D,2 F,2 G,2 F,2 | D,2 F,2 G,2 B,2 | C2 C2 C2 z2 |
+D4 C2 B,2 | G,4 F,2 z2 | G,2 F,2 C,2 B,,2 | B,,6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kingyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvu4efPjpnWPm1e839Pxsn3iy7Wz3u_pVNDS4lK0VTA0sOCyt1Vw0uGyMdI3sQOZ82LlvPd7Zr2YOPtp3_ynO_eCzX42exNQ7NmixudTNrzYNA8s9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-ngJwEClE9YIjqgUIUyDAwAjpPiUtfSwFo6_PZ616sWvVsRh-XgoLCkx1rn01rf7F88cv2bpBz-vufrl8N8dHTOSuebdgCUrBjx9PuqY8bGl9Oa37R0PB8VsuzFQufrVj8uKGJS0ufC2SsLbUAyE3AQHo2e8eLze0vVnS96GgH-hYYfk9bVwAdCvTb0w29z9o7FQIMjMz1sgrS3-_pASp-uaBRoUBPwRDozx5QcOxoAAbHsznzgWwFS4WXy6YB_Q_0Hsj0F6v2P2tYDjK3u_fFzPmgeFnX9bh5LVAcGIpAwadrJ4BidWavgpPC0yXLgeIKwHhUAMqADQEGfc_j5mWPm9Y_bl7_uGnJ4-buxw29XJDAbABRINnmldjIVWDppkWPm9dASFja6UBNU52Pm4AKVgHZj5s2wPVsftwMdGj34-b5j5u2PG7uAHEbGh43TwIZ17zpcfOEx017gT553DwDHIxLloMNBhozG2wkUKILp4UNDU839IPEmxuBJoLVb8WjHuLfXT1U9G_zvMfNU4FcDP-ClAL1A0Ma4l-golVgn7bT0b9ACyhP3VCgAMo13pl56ZX5VgGZiXn5DjUGNQrVIDsUbAzNtOzALGzZSgGSuF8s7FHQMFEA-uD5-gYdeF7QxKIBaBXUsJez-p5O6LUCRtd8cAjvBUfdSji7hjSZ5k6ozBqQ-WARGAthpwbQsZogK5eBFexB0g5ig7STIgMSAcmAeBArV2GxclcPPa2sUTBW0FUwBWIzKE1IxDAOLGQEokAQzDAAiYFzFe6I39VDhYhHRBUiCuGeA0cwxFcQWYhqLEkBSuKO8qZFaJZBwxhNHGoZOLdB3QDMcsuBFEgWJAMKb2AmBEttwGIdJLqpZV3zPLDaqXBLkawDRiNKnEEjEhSnIAiKX3A0QiRAEDUBgLARkXG9o3PQZXJkEj0SkOIcErLAshRMdqMYvQUs1gGXB8lMQjJ6E5icAI0kiEPWgskZWCxFinmsljZBtIKNblqCYikkfsFJC2pNO2FLKcvqCIKI-H86ezZd8zoiHaCrh5UCMIAl1kE1LtRMSLhBQxkjl8FsA1W5QLGtcMVQpSA9cIXYLITGOF0sJDq3w6IelLUNIfkfqgYEIZFdy8Wla6cAqfMVgCxlLi4A)]
-- [鋼琴伴奏 TMD 檔案](kingyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPZx8-bHTeseN694v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGlhw2dsqOOlw2Rjpm9hx1SkovVg57_2eWS8mzn7aN__pzr1KILFnszcBxZ4tanw-ZcOLTfPAYi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8CshtRgZGBnoGBmZ6BhYm5kCGgRHQeUpcXN6ZeemV-VYBmYl5-UEeDjUGNQrVXApAYGNopmUHZulrKdiiAwWQDTsaXizsUdAwUXi6of_5-gYdhQADI3O9rIJ0TSwatPTBhtUoGCvoKpgCsRmUJiRiGAcWMgJRIAhmGIDEuPA7b1cPWc5DsQdqOcgdIAhyE9hqiAQIojoahI2IdN-OTnoHH4Igwn1PZ8-mYfjBHAsKLENIiELVgCDEebWoydMHJXmaIFLns6YFz3bseLZhy7PNi55uX_assxuSBxGOMoxXiDaMRWeYxeeCmKbx8UALa9CVmmAwcCgk10zTeKgmkEKgX3XtFCDeVUBhKXNxAQA)]
+- [主旋律 TMD 檔案](kingyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvu4efPjpnWPm1e839Pxsn3iy7Wz3u_pVNDS4lK0VTA0sOCyt1Vw0uGyMdI3sQOZ82LlvPd7Zr2YOPtp3_ynO_eCzX42exNQ7NmixudTNrzYNA8s9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T3b1PF274-nOLc-ngJwEClE9YIjqgUIUyDAwAjpPiUtfSwFo6_PZ616sWvVsRh-XgoLCkx1rn01rf7F88cv2bpBz-vufrl8N8dHTOSuebdgCUrBjx9PuqY8bGl9Oa37R0PB8VsuzFQufrVj8uKGJS0ufC2SsLbUAyE3AQHo2e8eLze0vVnS96GgH-hYYfk9bVwAdCvTb0w29z9o7FQIMjMz1sgrS3-_pASp-uaBRoUBPwRDozx5QcOxoAAbHsznzgWwFS4WXy6YB_Q_0Hsj0F6v2P2tYDjK3u_fFzPmgeFnX9bh5LVAcGIpAwadrJ4BidWavgpPC0yXLgeIKwHhUAMqADQEGfc_j5mWPm9Y_bl7_uGnJ4-buxw29XJDAbABRINnmldjIVWDppkWPm9dASFja6UBNU52Pm4AKVgHZj5s2wPVsftwMdGj34-b5j5u2PG7uAHEbGh43TwIZ17zpcfOEx017gT553DwDHIxLloMNBhozG2wkUKILp4UNDU839IPEmxuBJoLVb8WjHuLfXT1U9G_zvMfNU4FcDP-ClAL1A0Ma4l-golVgn7bT0b9ACyhP3VCgAMo13pl56ZX5VgGZiXn5DjUGNQrVIDsUbAzNtOzALGzZSgGSuF8s7FHQMFEA-uD5-gYdeF7QxKIBaBXUsJez-p5O6LUCRtd8cAjvBUfdSji7hjSZ5k6ozBqQ-WARGAthpwbQsZogK5eBFexB0g5ig7STIgMSAcmAeBArV2GxclcPPa2sUTCOV9BVMAURZnAWkaKGYEEjIAmCINoAJALOXbgTwK4eKiQARJQhohLuSXBEQ3wHkYWoxpIkoCTuqG9ahGYZNKzRxKGWgXMd1A3ArLccSIFkQTKgcAdmRrDUBizWQaKdWtY1zwOrnQq3FMk6YDQixRgkDsHRCYLgyAXHIlgGBDESAJgwgiskEN07Ogddfkcm0eMBKdohgQssVsFkN4rRW8BiHXB5kMwkJKM3gckJ0HiCOGQtmJyBxVKkyMdqaRNEK9jopiUolkKiGJy6oNa0E7aUSrkeholIBk9nz6ZrrkckB3T1sPIABrBEPqgOhpoJCT5oYGPkN5htoEoYKLYVrhiqFKQHrhCbhdCIp4uFxOZ7RNSD87ghJBGAKRiERHgtF5eunUK1va6hUa0CkAVpE4BYylxcAA)]
+- [鋼琴伴奏 TMD 檔案](kingyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPZx8-bHTeseN694v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGlhw2dsqOOlw2Rjpm9hx1SkovVg57_2eWS8mzn7aN__pzr1KILFnszcBxZ4tanw-ZcOLTfPAYi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8CshtRgZGBnoGBmZ6BhYm5kCGgRHQeUpcXN6ZeemV-VYBmYl5-UEeDjUGNQrVXApAYGNopmUHZulrKdiiAwWQDTsaXizsUdAwUXi6of_5-gYdhQADI3O9rIJ0TSwatPTBhtUoGCvoKpgCsRmUJiRiGAcWMgJRIAhmGIDEuPA7b1cPWc5DsQdqOcgdIAhyE9hqiAQIojoahI2IdN-OTnoHH4Igwn1PZ8-mYfjBHAsKLENIiELVgCDEebWoydMHJXmaIFLns6YFz3bseLZhy7PNi55uX_assxuSBxGOMoxXiDaMRWeYxeeCmKbx8UALa9CVmmAwcCgk10zTeKgmkEKgX3XtFKrtdQ2NahWALIjHUVnKXFwA)]
 
 ## 分析
 
@@ -83,10 +83,10 @@ d'4 c'2 b2 | g4 f2 z2 | g2 f2 c2 B2 | B6 z2 |
 ⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A#4 (MIDI 70) – D6 (MIDI 86) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  A#4 in [Kingyo #1 @ m.15, 0:16]
-   - 最高音: D6 in [Kingyo #1 @ m.5, 0:04]
-   - 適合: soprano, tenor
+🎤 人聲音域:    A#2 (MIDI 46) – D4 (MIDI 62) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#2 in [Kingyo #1 @ m.15, 0:16]
+   - 最高音: D4 in [Kingyo #1 @ m.5, 0:04]
+   - 適合: tenor, baritone, bass
 🏛  結構:      Kingyo (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 調性不明確（純淨自然大調，未偵測到可信轉調）
@@ -124,7 +124,7 @@ d'4 c'2 b2 | g4 f2 z2 | g2 f2 c2 B2 | B6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A#4 – D6 (16 個半音 / 1.3 個八度, 50 個音符)
+  - Piano         : A#2 – D4 (16 個半音 / 1.3 個八度, 50 個音符)
 ================================================================================
 ```
 
