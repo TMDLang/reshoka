@@ -53,16 +53,16 @@ Q:1/4=108
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-z2 D2 D2 F2 | G2 G2 A2 F2 | G2 G2 G2 G2 | G6 z2 |
-z2 A2 A2 c2 | d2 d2 d2 c2 | A2 c2 A2 G2 | F6 z2 |
-G2 A2 A2 F2 | G2 A2 A2 F2 | G2 G2 G2 F2 | D6 z2 |
-D2 F2 D2 F2 | G2 A2 A2 F2 | G2 G2 C2 C2 | F6 z2 |
+z3 D D3 F | G3 G A3 F | G3 G G3 G | G6 z2 |
+z3 A A3 c | d3 d d3 c | A3 c A3 G | F6 z2 |
+G3 A A3 F | G3 A A3 F | G3 G G3 F | D6 z2 |
+D3 F D3 F | G3 A A3 F | G3 G C3 C | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mawarikko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxcWlpKTxu3Pe4cf3jpq7HjUseN05-v6fjxd7Op3M6XjZ2PevY9H5Pp4KWFpeirYKhgQWXva2CG5eNkb6JHcjMF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lBdA-UKjpAUNNDxRqQIaBEdBWJS59LYVnszc9n73uxapVz2b0cSkoKDzZsfbZtPYXyxe_bO9-v2fWs_7-p-tXP1278unaCU92NLzYuv3Z9G6g6x83ND5d0wl0_fNZLc-27H62dyLEM48bmri09MFOXzkPpH_uvqebdjxdvwaoGRxKQPtAwht2PNk19enOHc_WLASGkb4WF1Ce63HjnseN_aCgalz4uLH7ceN-MANI9sGDEFnRpseNC8ChuuNx44rHjbsRioDef7JrF1gR0JiJjxubHjdOR4sGoEkrQeY3dT5u7AFLtDxuBCKgBlR1INOAipGc1NQGNnTD46b-x01AQaAukDhQEcQZEHfvftw0GWwHUDVEpOdxUwdQNZrNUx839j5uXA22DWjS_MeN64BWARUhGwCUAEoD5eBOBdq7GCIICnEu38TMPKuAzMS8fIcagxqFalBkKtgYmmnZgVk1CgYKugpm8TDCEIhrFIyAJAgbY4jAMEQEBkFm1CCZB9IHwqZglWYgw6EYIgKTA9EQ00C2YDMN5gpUl2CKwDBEBOwVbMbB_YjmWewGmoIUgQlsDqzl4tK1UwCFrwKQVubiAgA)]
-- [鋼琴伴奏 TMD 檔案](mawarikko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43LjvceP6x01djxuXPG6c_H5Px5M9W54u7X-ye8b7PZ0KWlpcirYKhgYWXPa2Cm5cNkb6JnZcdQpKL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZFfP07U7nu7c8nzKCqBlRgZGBnoGBmZ6BhYm5kCGgRHQViWwDSvnvd8z69ncfU837Xi6fs2THQ1g4WezN4GEN-x4smvq0507nq1ZqMTF5ZuYmWcVkJmYlx_k4VBjUKNQzaUABDaGZlp2YFaNgoGCroJZPIwwBOIaBSMgCcLGGCIwDBGBQZAZNUjmgfSBsClYpRnIcCiGiMDkQDTENJAt2EyDuQLVJZgiMAwRAXsFm3FwP6J5FruBpiBFYAKbA2uRg9cHX_CaxIPMiDaJj0VQNUCDwaKmYK4hmG2IRQaFgyYHpdCDH8kwmJEmEBdgWIXEQbMIwxBkW4h0O9G-MoNwzSC-glDI9qGEIAqHXBtxeA8Yqbp2CqB4VQDSylxcAA)]
+- [主旋律 TMD 檔案](mawarikko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxcWlpKTxu3Pe4cf3jpq7HjUseN05-v6fjxd7Op3M6XjZ2PevY9H5Pp4KWFpeirYKhgQWXva2CG5eNkb6JHcjMF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lBdA-UKjpAUNNDxRqQIaBEdBWJS59LYVnszc9n73uxapVz2b0cSkoKDzZsfbZtPYXyxe_bO9-v2fWs_7-p-tXP1278unaCU92NLzYuv3Z9G6g6x83ND5d0wl0_fNZLc-27H62dyLEM48bmri09MFOXzkPpH_uvqebdjxdvwaoGRxKQPtAwht2PNk19enOHc_WLASGkb4WF1Ce63HjnseN_aCgalz4uLH7ceN-MANI9sGDEFnRpseNC8ChuuNx44rHjbsRioDef7JrF1gR0JiJjxubHjdOR4sGoEkrQeY3dT5u7AFLtDxuBCKgBlR1INOAipGc1NQGNnTD46b-x01AQaAukDhQEcQZEHfvftw0GWwHUDVEpOdxUwdQNZrNUx839j5uXA22DWjS_MeN64BWARUhGwCUAEoD5eBOBdq7GCIICnEu38TMPKuAzMS8fIcagxqFalBkKtgYmmnZgVk1CgYKukBoFg9CIJYhUMwIzDJSMMYQgdEwEQgEmVGDYp4xVK8pUMQMYgOUBonA5CA0yDRDHKZBbIGZhnAJpgjMbSARqFcwjYP7EcOz2Aw0hSgCUtgcWMvFpWunAApfBSCtzMUFAA)]
+- [鋼琴伴奏 TMD 檔案](mawarikko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43LjvceP6x01djxuXPG6c_H5Px5M9W54u7X-ye8b7PZ0KWlpcirYKhgYWXPa2Cm5cNkb6JnZcdQpKL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZFfP07U7nu7c8nzKCqBlRgZGBnoGBmZ6BhYm5kCGgRHQViWwDSvnvd8z69ncfU837Xi6fs2THQ1g4WezN4GEN-x4smvq0507nq1ZqMTF5ZuYmWcVkJmYlx_k4VBjUKNQzaUABDaGZlp2YFaNgoGCLhCaxYMQiGUIFDMCs4wUjDFEYDRMBAJBZtSgmGcM1WsKFDGD2AClQSIwOQgNMs0Qh2kQW2CmIVyCKQJzG0gE6hVM4-B-xPAsNgNNIYqAFDYH1iIHrw--4DWJBxkUbRIfi6BqgMaCRU3BXEMw2xCLDAoHTQ5KoQc_kmEwI00gLsCwComDZhGGIci2EOl2on1lBuGaQXwFoZDtQwlBFA65NuLwHjBSde0UQPGqAKSVubgA)]
 
 ## 分析
 
@@ -79,20 +79,20 @@ D2 F2 D2 F2 | G2 A2 A2 F2 | G2 G2 C2 C2 | F6 z2 |
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+🗝  調性診斷：       G 大調（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, F, A, D, C
-   - 調性數值:    D 調性不明確 [相關度: 0.63, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 小調 (0.63), F 大調 (0.63), C 大調 (0.58)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  G, A, D, F, C
+   - 調性數值:    G 大調 [相關度: 0.66, 穩定度: Moderate, 自然音純度: 82.5%]
+   - 候選調性 (K-S): G 大調 (0.66), G 小調 (0.62), D 小調 (0.61)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: D 調性不明確 (r: 0.63, 自然音純度: 100.0%)
+     • [Main #1]: G 大調 (r: 0.66, 自然音純度: 82.5%, 調外音: F)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
-      Bb              [D ]*
+         F           [G ]*
+      Bb               D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -100,16 +100,16 @@ D2 F2 D2 F2 | G2 A2 A2 F2 | G2 G2 C2 C2 | F6 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ███████                    8.6%
+     C  : ████                       6.1%
      C# :                            0.0%
-     D  : █████████████             17.2%
+     D  : ██████████████            20.2%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ███████████████████       24.1%
+     F  : ████████████              17.5%
      F# :                            0.0%
-     G  : ████████████████████████  31.0%
+     G  : ████████████████████████  34.2%
      G# :                            0.0%
-     A  : ███████████████           19.0%
+     A  : ███████████████           21.9%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
