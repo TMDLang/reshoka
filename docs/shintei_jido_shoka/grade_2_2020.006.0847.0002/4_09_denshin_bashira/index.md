@@ -56,16 +56,16 @@ Q:1/4=104
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-c4 G4 | A2 A2 G2 G2 | c2 c2 G2 G2 | A2 G2 E2 z2 |
-G4 c2 c2 | d2 d2 e2 c2 | d2 d2 d2 e2 | d2 c4 z2 |
-C4 E2 E2 | G2 G2 E2 C2 | c2 A2 c2 A2 | G2 E2 G2 z2 |
-A4 c2 A2 | G2 G A E2 G2 | A2 c2 G E D C | E2 D2 C2 z2 |
+!mf! c4 G4 | A2 A2 G2 G2 | c2 c2 G2 G2 | A2 G2 E2 z2 |
+G4 c2 c2 | d2 d2 e2 c2 | d2 d2 d2 d2 | e2 d2 c2 z2 |
+!mp! C4 E2 E2 | G2 G2 E2 C2 | c2 A2 c2 A2 | G2 E2 G2 z2 |
+!mf! A4 c2 A2 | G2 G A E2 G2 | A2 c2 G E D C | E2 D2 C2 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](denshin_bashira.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5akJmfk5efkp1cqcWlpKTxubn_cvPlx03YQ2TwBzFj5fk_Hy9m7n2-f9Wzh_vd7OhW0tLgUbRUMDUy47G0VnLlsjPRN7EDGvlg57_2eWc82bX6ya-rLts4XPdPBtj2bvQko_KK38-n2uU_2LwSLvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNk109T9fueLpzy_MpK4DuAoWxHjCM9UBhDGQYGAEdqMSlr6UAtPX57HUvVq16NqOPS0FB4cmOtc-mtb9YvvhlezfIlf39T9evfrFw-svGyU92dD2f1QL34ouOdgj7_Z6epxM7nvfvA6Inuxc_nd_3dEfTs5nrX3RuetzQxKWlzwWyyJZaAOTKp33zn83e8WJz-4sVXUB3AP0PDNSnrSuATgf69umG3mftnQoBBmZGelkF6UD3ARW_XNCoUKCnYGIOcm5_84uGZmCwPps7ARhYCpYKL5dNA4YI0MMg01-s2v-sYTnI3O7eFzPnA0UfN_cDBYGBChR5unYC0A5nhadLlgPFFICxqgAUBesGxkLP4-Zlj5vWP25e_7hpyePm7scNvVyQcG2AUs_mrHnc0AAyC8ho7gCyHzetfty073HzjMfNbY-b54PJRSDVCImmtY-bgaq7QIYCNWBLfmAN2CSAjgfr6XzcBBScB1bT8ri5FehMiJ6Ox82zQQY3rXq6cePj5j6gahCjaR1IJ1TDIogvdvVAtADV7wVr2Q22qRtqR9POx81A9y583AT2GkjvaoiGqSA-pgaQQyZg1QB2VPNqmI_A2kAausA-AhoBZPcj-xwYbo1gBwMDaQ048FcANQATN9C2F8u6HzetgIZf8wqQBsoTIhQogBK4S2oeqMhzSgSSRYlWAZmJefkONQY1CtUguxRsDM207MCsGgXDOAVdMDSF0jUKZkAShEEiIAxVBCYQYjAVxkBsABKBGggzB6GnRsEIRIEJY6yiCCmoKNxVyCYbQsVANoIwxC6YG0CyUJeCnAZnQFSBVIBoZPNAsnCXIpSaAtkw5RBFUJ8bKxgBbakBSxpBbYSYV8vFpWungBrqCkARZS4uAA)]
-- [鋼琴伴奏 TMD 檔案](denshin_bashira_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P64efPjpu0gsnkCmLHy_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgaGDCZW-r4MxlY6RvYsdVp6D0YuW893tmPdu0-cmuqS_bOl_0TFcCCT-bvQko_KK38-n2uU_2LwSLvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNk109T9fueLpzy_MpK4CuMzIwMtAzMDDTM7AwMQcyDIyADlTi4nJJzSvOyMxzSgSSRYlWAZmJeflBHg41BjUK1VwKQGBjaKZlB2bVKBjGKeiCoSmUrlEwA5IgDBIBYagiMIEQg6kwBmIDkAjUQJg5CD01CkYgCkwYYxVFSEFF4a5CNtkQKgayEYQhdsHcAJKFuhTkNDgDogqkAkQjmweShbsUodQUyIYphyiC-txYwQhoSw1Y0ghqI8S8WuyB7oMS6CaIMI9XiDaMBTJMYAwMEXSVpsgMUygDKIuhEMUkE6iIAVwdsiiaG0zjoSYCfaNrp4DqIQWgiDIXFwA)]
+- [主旋律 TMD 檔案](denshin_bashira.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5akJmfk5efkp1cqcWlpKTxubn_cvPlx03YQ2TwBzFj5fk_Hy9m7n2-f9Wzh_vd7OhW0tLgUbRUMDUy47G0VnLlsjPRN7EDGvlg57_2eWc82bX6ya-rLts4XPdPBtj2bvQko_KK38-n2uU_2LwSLvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNk109T9fueLpzy_MpK4DuAoWxHjCM9UBhDGQYGAEdqMSlr6UAtPX57HUvVq16NqOPS0FB4cmOtc-mtb9YvvhlezfIlf39T9evfrFw-svGyU92dD2f1QL34ouOdgj7_Z6epxM7nvfvA6Inuxc_nd_3dEfTs5nrX3RuetzQxKWlzwWyyJZaAOTKp33zn83e8WJz-4sVXUB3AP0PDNSnrSuATgf69umG3mftnQoBBmZGelkF6UD3ARW_XNCoUKCnYGIOcm5_84uGZmCwPps7ARhYCpYKL5dNA4YI0MMg01-s2v-sYTnI3O7eFzPnA0UfN_cDBYGBChR5unYC0A5nhadLlgPFFICxqgAUBesGxkLP4-Zlj5vWP25e_7hpyePm7scNvVyQcG2AUs_mrHnc0AAyC8ho7gCyHzetfty073HzjMfNbY-b54PJRSDVCImmtY-bgaq7QIYCNWBLfmAN2CSAjgfr6XzcBBScB1bT8ri5FehMiJ6Ox82zQQY3rXq6cePj5j6gahCjaR1IJ1TDIogvdvVAtADV7wVr2Q22qRtqR9POx81A9y583AT2GkjvaoiGqSA-pgaQQyZg1QB2VPNqmI_A2kAausA-AhoBZPcj-xwYbo1gBwMDaQ048FcANQATN9C2F8u6HzetgIZf8wqQBsoTIhQogBK4S2oeqMhzSgSSRYlWAZmJefkONQY1CtUguxRsDM207MAsoEhuWq2CYZyCLhiaQukaBTMgCcIgERCugSgCEwgxmApjIDYAiUBNhZmD0FOjYASiwIQxVlEEUQNRAWaDlSEbXZ1bAHQw1HyQvSAMsRHmEpAs1L0gB8IZEFUgFSAa1VBgKICUwB2NUG8KZMP0QHwMDQRjBSOgVUDHgtwKtRZiaC0Xl66dAmosKABFlLm4AA)]
+- [鋼琴伴奏 TMD 檔案](denshin_bashira_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P64efPjpu0gsnkCmLHy_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgaGDCZW-r4MxlY6RvYsdVp6D0YuW893tmPdu0-cmuqS_bOl_0TFcCCT-bvQko_KK38-n2uU_2LwSLvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNk109T9fueLpzy_MpK4CuMzIwMtAzMDDTM7AwMQcyDIyADlTi4nJJzSvOyMxzSgSSRYlWAZmJeflBHg41BjUK1VwKQGBjaKZlB2YBRXLTahUM4xR0wdAUStcomAFJEAaJgHANRBGYQIjBVBgDsQFIBGoqzByEnhoFIxAFJoyxiiKIGogKMBusDNno6twCoIOh5oPsBWGIjTCXgGSh7gU5EM6AqAKpANGohgJDAaQE7miEelMgG6YH4mNoIBgrGAGtAjoW5FaotRBDa7FHgg9KJJjA48AwXiHaMBbIMIExMETQVZoiM0yhDKAshkIUk0ygIgZwdciiaG4wjYeaCPSNrp0CqoewiyhzcQEA)]
 
 ## 分析
 
@@ -86,11 +86,11 @@ A4 c2 A2 | G2 G A E2 G2 | A2 c2 G E D C | E2 D2 C2 z2 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  C, G, E, A, D
-   - 調性數值:    C 大調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.90), G 大調 (0.73), A 小調 (0.64)
+   - 調性數值:    C 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.88), G 大調 (0.75), A 小調 (0.63)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [DenshinBashira #1]: C 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [DenshinBashira #1]: C 大調 (r: 0.88, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -103,21 +103,21 @@ A4 c2 A2 | G2 G A E2 G2 | A2 c2 G E D C | E2 D2 C2 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  29.2%
+     C  : ████████████████████████  27.5%
      C# :                            0.0%
-     D  : ██████████                12.5%
+     D  : ████████████              14.2%
      D# :                            0.0%
-     E  : █████████████             15.8%
+     E  : ██████████████            15.8%
      F  :                            0.0%
      F# :                            0.0%
-     G  : ██████████████████████    26.7%
+     G  : ███████████████████████   26.7%
      G# :                            0.0%
-     A  : █████████████             15.8%
+     A  : ██████████████            15.8%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 57 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 58 個音符)
 ================================================================================
 ```
 
