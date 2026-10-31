@@ -55,17 +55,17 @@ Q:1/4=80
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-D4 D4 G4 B4 | d12 z4 | c6 B2 A4 G4 | A12 z4 |
-E4 E4 G3 G D4 | E4 E4 z4 D3 D | G4 B4 d8 | c8 B8 |
-B6 B2 A4 D4 | G4 z4 D3 D D3 B | e8 d8 | c3 B A4 G8 |
-B8 A8 | D6 D2 G4 B4 | d12 z4 | D3 D D4 B4 A3 A |
-G12 z4 |
+D6 D2 G4 B4 | d12 z4 | c6 B2 A4 G4 | A12 z4 |
+E6 E2 G3 G D4 | E4 E4 z8 | D6 D2 B4 d4 | c8 B8 |
+B6 B2 A4 D4 | G12 z4 | d6 d2 d4 B4 | e8 d8 |
+c6 B2 A4 G4 | B8 A8 | D6 D2 G4 B4 | d12 z4 |
+D4 D4 D4 B4 | A4 A4 G8 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ama_no_iwaya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BeloosXpeZkpoPVa2kpPF2y8nHjuqebVj7d2K2gpcWlaKtgYcBlb6vgzmVjom9iB9L7YuW893tmvZg4-2nf_MeN0x83Tnrc1A029dnsTUCZpxv6n83d96Jh6os9U8DCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfn07U7nu7c8nzKivd7OkDBrAcMZj1QMAMZBsbv93QqcXHpaynYUgtwKSgoAP31bPaOF5vbX6zoetHRDnQX0MtPW1c8m9YOdMXTDb3P2jsVAgyMzPSyCtLf7-kBKn65oFGhQE8B6KAesLsbgO5-Nmc-kK1gpPBy2TSgQ4EhAzL8xar9zxqWg4zt7n0xcz5Q9HHjCqDg09mzgSJP104AWuEOjIflQDEFYJArAEXBuoGB0_N08fqns7Y8bu5-3NDLBTINaBPYxUtWArU9blz2uGkyUPHjpqanczaARRZCuM_nAOMMyJ0OVdC47uV0kGceN7U8btwPFAGZ8rwTbEpTE1AarGjm48Ypjxt7sSh92r_qaSvQUUAj5z9umve4cdPjxm6wVd3AxAMWB6peD7HqxZS1YJFuYFKB6Yc6GGjVPogiSJp7tgWhGWRhUxPY0B6g156274JIgdUvBdoENqh1G8whc4GmQBzyuKkLqOjpBiAJdmDjVmAYg7X1whQjlEHCcVcPxFnLny-FhFTX48bdYCeDvPy4sQfiPmTHgV0GDJYusE4U1y0HegucNYCBA3T7BmjoPp_VBg9goMGPG1eBVa9_um8hzF1AQYTTHjdNAukEB9NmUBAgOR4s3fVs7RKwCDRSn-wApjSgBR0Qc8GumA923rQ5EInHTb0w1UATVz_bDfQeyFqwyMLHTf1gNwM9vwakjfL8BAUKWvpcXI65iX75nuWJlYlWAZmJefkONQY1CtUgexRsDM207MAsbJlZAZKnXizsUdAwUQCWL8_XN-jAc6AmFg1A60CG1SiYxivogiGcYQiljaE0UA2UhQ4NYCqgZpkgyYF0G6GZWAMXwW0Sfj_u6iHHj2Ywr8EZEBcZIjyNTRHMUVBFQArmUfQgQg8g1KBAVglXQcCjOzrJ8SiyLcgRgORNmNMxPQdlGcN9aYbmZly-NMaIaCJ9CSzSwb40Jd-XIIieqJASNdyHGIkalvzR9MIgPEFiBhDCEIjFRhjJAqdhXLVcXLp2Coh8rgDkKXNxAQA)]
-- [鋼琴伴奏 TMD 檔案](ama_no_iwaya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOXjxnVPN618urH7_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcBlb6vgzmVjom9ix1WnoPRi5bz3e2a9mDj7ad_8x43THzdOetzUrQSSeTZ7E1Dm6Yb-Z3P3vWiY-mLPFLDwi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dH5dO2Opzu3PJ-yAuhEIwMjAz0DAzM9AwsTcyDDwBjoSiUuLsfcRL98z_LEykSrgMzEvPwgD4cagxqFai4FILAxNNOyA7NqFEzjFXTBEM4whNLGUBqoBspChwYwFVCzTJDkQLqN0EysgYsQMskM5hg4A2KGIcKZ2BTBjIEqAlIwA9E9he4lVMcjq4SrgJqELI7sSSSHwSzDdA6UZYzwKJotuNxljBGY-NwFguhBjRTVcDdhRDUsUaDphUF4NGF6CWEIxGIjjKDHaRhXLWZ69UFJrybw5GoYrxBtGAujQO4AskzjY8EMA0RKBIqaEFZmBhI2i89FUokQMgArhvsCogBuEIYdONUBRSBGQfiEXEjQPFwq0f2IqhDZbkQggoICGPq6dgqICFDA4ClzcQEA)]
+- [主旋律 TMD 檔案](ama_no_iwaya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BeloosXpeZkpoPVa2kpPF2y8nHjuqebVj7d2K2gpcWlaKtgYcBlb6vgzmVjom9iB9L7YuW893tmvZg4-2nf_MeN0x83Tnrc1A029dnsTUCZpxv6n83d96Jh6os9U8DCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfn07U7nu7c8nzKivd7OkDBrAcMZj1QMAMZBsbv93QqcXHpaynYUgtwKSgoAP31bPaOF5vbX6zoetHRDnQX0MtPW1c8m9YOdMXTDb3P2jsVAgyMzPSyCtLf7-kBKn65oFGhQE8B6KAesLsbgO5-Nmc-kK1gpPBy2TSgQ4EhAzL8xar9zxqWg4zt7n0xcz5Q9HHjCqDg09mzgSJP104AWuEOjIflQDEFYJArAEXBuoGB0_N08fqns7Y8bu5-3NDLBTINaBPYxUtWArU9blz2uGkyUPHjpqanczaARRZCuM_nAOMMyJ0OVdC47uV0kGceN7U8btwPFAGZ8rwTbEpTE1AarGjm48Ypjxt7sSh92r_qaSvQUUAj5z9umve4cdPjxm6wVd3AxAMWB6peD7HqxZS1YJFuYFKB6Yc6GGjVPogiSJp7tgWhGWRhUxPY0B6g156274JIgdUvBdoENqh1G8whc4GmQBzyuKkLqOjpBiAJdmDjVmAYg7X1whQjlEHCcVcPxFnLny-FhFTX48bdYCeDvPy4sQfiPmTHgV0GDJYusE4U1y0HegucNYCBA3T7BmjoPp_VBg9goMGPG1eBVa9_um8hzF1AQYTTHjdNAukEB9NmUBAgOR4s3fVs7RKwCDRSn-wApjSgBR0Qc8GumA923rQ5EInHTb0w1UATVz_bDfQeyFqwyMLHTf1gNwM9vwakjfL8BAUKWvpcXI65iX75nuWJlYlWAZmJefkONQY1CtUgexRsDM207MAsbJlZAZKnXizsUdAwUQCWL8_XN-jAc6AmFg1A60CG1SiYxivowiGYYwjlGENpoBokJcjQAKYCapYJkhxItxGUDTOxBi6C2yT8ftzVQ44fzZD9COZAXGSI8D2SIjgD5igYhHkTM8hgQQULKNSggAUHqlkEIrOTHI8i24IcAUjehMUF7hiAehLZj0heQ6QKMzQT0FMJAS8Cy3OwF81I8yLhNIYe1OhpDnc0kp_y4WZhMhCGwRyC7mSEw2q5uHTtFBDFgAKQp8zFBQA)]
+- [鋼琴伴奏 TMD 檔案](ama_no_iwaya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOXjxnVPN618urH7_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcBlb6vgzmVjom9ix1WnoPRi5bz3e2a9mDj7ad_8x43THzdOetzUrQSSeTZ7E1Dm6Yb-Z3P3vWiY-mLPFLDwi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dH5dO2Opzu3PJ-yAuhEIwMjAz0DAzM9AwsTcyDDwBjoSiUuLsfcRL98z_LEykSrgMzEvPwgD4cagxqFai4FILAxNNOyA7P0tRRs0YEC2JaGFwt7FDRMFIAuf76-QUchwMDITC-rIF0TiwYtfbBhNQqm8Qq6cAjmGEI5xlAaqAZJCTI0gKmAmmWCJAfSbQRlw0ysgYvgNgm_H3f1kONHM2Q_gjkQFxkifI-kCM6AOQoGYd7EDDJYUMECCjUoYMGBahaByOwkx6PItiBHAJI3YXGBOwagnkT2I5LXEKnCDM0E9FRCwItPZ88Ge9GMNC8STmPoQY2e5nBHI_kpH24WJgNhGMwh6E5GOKwWsxTwQSkFTGhTCBjGK0QbxsIoZL4BInMDxUyQ1JjGA1mm8bFgBkgZbXIu0BKz-FwkexFCoEiAuQ7dB3DXwURokt-ghsMtwx5y6G5DC0naZBO02MJwKQkxjxGWCBEQF5pwde0UEGlXAYOnzMUFAA)]
 
 ## 分析
 
@@ -73,29 +73,29 @@ G12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 天の岩屋 ]
 ================================================================================
-⏱  Duration:       0:51 (51.0s), 17 measures total
+⏱  Duration:       0:54 (54.0s), 18 measures total
 🎼 Key & Tempo:    首調基準 G, != 80.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [AmaNoIwaya #1 @ m.1, 0:00]
-   - 最高音: E5 in [AmaNoIwaya #1 @ m.11, 0:30]
+   - 最高音: E5 in [AmaNoIwaya #1 @ m.12, 0:33]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      AmaNoIwaya (51.0s)
+🏛  結構:      AmaNoIwaya (54.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+🗝  調性診斷：       D 調性不明確（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, G, B, A, E
-   - 調性數值:    G 調性不明確 [相關度: 0.83, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.83), D 大調 (0.81), B 小調 (0.65)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  D, B, G, A, E
+   - 調性數值:    D 調性不明確 [相關度: 0.82, 穩定度: Ambiguous, 自然音純度: 92.4%]
+   - 候選調性 (K-S): D 大調 (0.82), G 大調 (0.79), B 小調 (0.66)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [AmaNoIwaya #1]: G 調性不明確 (r: 0.83, 自然音純度: 100.0%)
+     • [AmaNoIwaya #1]: D 調性不明確 (r: 0.82, 自然音純度: 92.4%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+      Bb              [D ]*
       Eb               A  
          Ab           E  
             Db       B  
@@ -103,21 +103,21 @@ G12 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████                      6.9%
+     C  : █████                      7.6%
      C# :                            0.0%
-     D  : ████████████████████████  33.5%
+     D  : ████████████████████████  34.8%
      D# :                            0.0%
-     E  : ███████                    9.7%
+     E  : ██████                     9.1%
      F  :                            0.0%
      F# :                            0.0%
-     G  : █████████████             17.7%
+     G  : ██████████                15.2%
      G# :                            0.0%
-     A  : ██████████                14.5%
+     A  : ██████████                15.2%
      A# :                            0.0%
-     B  : █████████████             17.7%
+     B  : █████████████             18.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 53 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 52 個音符)
 ================================================================================
 ```
 

@@ -61,17 +61,17 @@ Q:1/4=108
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D2 F2 | G2 G2 F2 G2 | c3 c B2 A2 | G6 z2 |
-F4 G2 A2 | G2 G2 F2 D2 | C2 C2 D2 C2 | C6 z2 |
-D2 D2 F2 F2 | G2 G2 F4 | D2 F2 D2 F2 | G6 z2 |
-A4 G2 F2 | c3 d c2 A2 | G2 G2 F2 G2 | A2 G2 F2 z2 |
+C4 D2 F2 | G3 G F2 G2 | c3 c B2 A2 | G6 z2 |
+F4 G2 A2 | G3 G F2 D2 | C3 C D2 C2 | C6 z2 |
+D3 D F2 F2 | G2 G2 F4 | D3 F D2 F2 | G6 z2 |
+A4 G2 F2 | c3 d c2 A2 | G3 G F2 G2 | A2 G2 F2 z2 |
 G4 G4 | C2 C2 C2 C2 | D2 D2 C2 C2 | F2 F2 G2 G2 |
-A2 G F A2 G F | c3 d c2 A2 | G4 A2 G2 | F6 z2 |
+A2 G F A2 G F | c3 d c2 A2 | G6 A G | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mori_no_gakutai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLQt2Vk5kGlNLSUni2eN3jxnXPVjS9nNWloKXFpWirYGhgwWVvq-DGZWOkb2IH0v9i5bz3e2Y9n7_5ad_8p5N6nuzofNncBzb52exNIJkpG57NnfhiZt-L6f1g4Rftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esARr9dO2Opzu3PJ-y4v2eDlBA6wEDWg8U0ECGgfH7PZ1KXFz6Wgq21AJcCgoKQH89m73jxeb2Fyu6XnS0A90F9PLT1hXPprUDXfF0Q--z9k6FAAMjE72sgnSFRw2TQRxTEOf9nh6gzpcLGhUKCvQUDIFSRkAhsE8agD55Nmc-kK1gqPBy2TSg04FhBbLuxar9zxqWgyzq7n0xcz5Q9HHjDqDgk109QJGnaycALXVTeLpkOVBMARgJCkBRsG5gcPUA4-px0_bHTZseN3c_bujlAhkItAxEvZwDjKeOx43djxtnPm7cD9TyuHH-48ZVjxs3P24Ehn_Di66NYAXrgYJA2aeTgLEH5E4Fq-x93LgMZMqzGUuhipq6QRJNTcAU8rhxJdjc1UBTQCY2dT1uXPO4qedx4wZwAG4EG9zU8rhxH9iwnsdNQHIylNHQ8HT27Ke9jS9nN4CNnv64ccbjxq0gE5uA3uoEGfG4cdPjpn6QDU2NIOkmoHtAtr3cth6sp-1x4wSQmsaZQA0vZ2-CmQUU2QB0DsyU5imPm_dASaBTm1Y_bl6JSYKVNm1-3Lz2_Z7-93v2EMOGGN8INr7xcdN6VPakx80rgErhDIjq2WAVsx83bXzcBJRbDomtXT3QVACJamC4g703HRzak55O6AALAoMd6HNgKM4GKQAF--rHjX3gMAZFBDiqYKkFHHhACYQpjxvngoNwB0Tzy7mLns_cC1bZBY7R6UBZsOn9YIMWrwPHHzBpgUISGOEvejufzQHlQaAKYAoBJg9oWgAFKtB0YEACXbHvceNycMpr74MmAWBSQaSCdWgJDqL_Rce8p-27wOJA_cD4WwBWDEyyIOOgXhvsEQkUpbzsgQIFLX0uLl9gWe-X756YXVqSmGkVkJmYl-9QY1CjUA2ySsHG0EzLDszCVvYpQAqcFwt7FDRMFJ5u6H--vkEHXmBpYtEAtBFkWI2CabyCLhiagRiGQFyjYAQkQRjEA9FAVWAlpgomQNIYrgYGDUAi4KSN23W7eshxHcgFIAiyDWEvzG1gJ0O9ACbAAmAWkseIdeGOTnJcCLYSHnaY4QeCUFVwJyNUkeA-YAlKjvtAoQYLQYi9kLg0A9OYYQqJb5A4TISo2J1CjttgIQCjkaMSQSCHMbIoLLxhricUfq1rMd0IrsMJhp8R0B4YjSv8QBAWaoh0i4jbWi4uXTsFlEyuABRQ5uICAA)]
+- [主旋律 TMD 檔案](mori_no_gakutai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLQt2Vk5kGlNLSUni2eN3jxnXPVjS9nNWloKXFpWirYGhgwWVvq-DGZWOkb2IH0v9i5bz3e2Y9n7_5ad_8p5N6nuzofNncBzb52exNIJkpG57NnfhiZt-L6f1g4Rftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esARr9dO2Opzu3PJ-y4v2eDlBA6wEDWg8U0ECGgfH7PZ1KXFz6Wgq21AJcCgoKQH89m73jxeb2Fyu6XnS0A90F9PLT1hXPprUDXfF0Q--z9k6FAAMjE72sgnSFRw2TQRxTEOf9nh6gzpcLGhUKCvQUDIFSRkAhsE8agD55Nmc-kK1gqPBy2TSg04FhBbLuxar9zxqWgyzq7n0xcz5Q9HHjDqDgk109QJGnaycALXVTeLpkOVBMARgJCkBRsG5gcPUA4-px0_bHTZseN3c_bujlAhkItAxEvZwDjKeOx43djxtnPm7cD9TyuHH-48ZVjxs3P24Ehn_Di66NYAXrgYJA2aeTgLEH5E4Fq-x93LgMZMqzGUuhipq6QRJNTcAU8rhxJdjc1UBTQCY2dT1uXPO4qedx4wZwAG4EG9zU8rhxH9iwnsdNQHIylNHQ8HT27Ke9jS9nN4CNnv64ccbjxq0gE5uA3uoEGfG4cdPjpn6QDU2NIOkmoHtAtr3cth6sp-1x4wSQmsaZQA0vZ2-CmQUU2QB0DsyU5imPm_dASaBTm1Y_bl6JSYKVNm1-3Lz2_Z7-93v2EMOGGN8INr7xcdN6VPakx80rgErhDIjq2WAVsx83bXzcBJRbDomtXT3QVACJamC4g703HRzak55O6AALAoMd6HNgKM4GKQAF--rHjX3gMAZFBDiqYKkFHHhACYQpjxvngoNwB0Tzy7mLns_cC1bZBY7R6UBZsOn9YIMWrwPHHzBpgUISGOEvejufzQHlQaAKYAoBJg9oWgAFKtB0YEACXbHvceNycMpr74MmAWBSQaSCdWgJDqL_Rce8p-27wOJA_cD4WwBWDEyyIOOgXhvsEQkUpbzsgQIFLX0uLl9gWe-X756YXVqSmGkVkJmYl-9QY1CjUA2ySsHG0EzLDszCVvYpQAqcFwt7FDRMFJ5u6H--vkEHXmBpYtEAtBFkWI2CabyCLhiagRiGQFyjYAQWMALzQGygKrCIqYIJkDRGUgOBBiARcNLG7bpdPeS4DuQCiFtQ7YW4DexkuBeAFFgAzEXyGLEu3NFJjgvBVoKdAnIRIvxAGOZ6uCpDzFAm2n3AEpQc94FCDRaCEHshcWkGpjHDFBLfIHGYDqJidwo5boOFAIyGRhoaAQ09RNxCRWHhDQttQuHXuhbTjeA6nGD4gUIGRuMOPwg0BvIQ6RYRt7VcXLp2CiiZXAEooMzFBQA)]
 - [鋼琴伴奏 TMD 檔案](mori_no_gakutai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2eN3jxnXPVjS9nNX1fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNLDgsrdVcOOyMdI3seOqU1B6sXLe-z2zns_f_LRv_tNJPU92dL5s7lMCyTybvQkkM2XDs7kTX8zsezG9Hyz8on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVAo5-u3fF055bnU1YA3WhkYGSgZ2BgpmdgYWIOZBgYA52pxMXlm1-U6ZfvnphdWpKYaRWQmZiXH-ThUGNQo1DNpQAENoZmWnZgVo2CabyCLhiagRiGQFyjYAQkQRjEA9FAVWAlpgomQNIYrgYGDUAiUPNAekAQJI9QCTMNbAnUUjABFgCzkJyCbiZYEdx9mG4EQagquCUIVdhMBLkM5kqISogPzcA0prshoQASh4kgmwazBUYjexBBIPsDWRTmJ5h9yG40AsrAaFxuBEGYyxDhj_BxLdYE4YOSIEzg6cEwXiHaMBbsBSDLNB7ERBEzQEQ1TNgEyDDB1INQCVeAXQsWI3E4A6ESm_NQrAHLEWksWAwUULp2CihhpYBNQJmLCwA)]
 
 ## 分析
@@ -93,8 +93,8 @@ A2 G F A2 G F | c3 d c2 A2 | G4 A2 G2 | F6 z2 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  G, C, F, D, A
-   - 調性數值:    C 大調 [相關度: 0.81, 穩定度: Moderate, 自然音純度: 98.9%]
-   - 候選調性 (K-S): C 大調 (0.81), F 大調 (0.69), G 大調 (0.58)
+   - 調性數值:    C 大調 [相關度: 0.81, 穩定度: High, 自然音純度: 98.9%]
+   - 候選調性 (K-S): C 大調 (0.81), F 大調 (0.68), G 大調 (0.60)
    - 五度圈歷程:   +0
    - 各段落調性細節:
      • [MoriNoGakutai #1]: C 大調 (r: 0.81, 自然音純度: 98.9%, 調外音: A#)
@@ -112,14 +112,14 @@ A2 G F A2 G F | c3 d c2 A2 | G4 A2 G2 | F6 z2 |
   [ 十二半音累積音高分佈 ]
      C  : █████████████████         23.1%
      C# :                            0.0%
-     D  : ████████                  11.0%
+     D  : █████████                 11.5%
      D# :                            0.0%
      E  :                            0.0%
-     F  : █████████████████         22.0%
+     F  : ████████████████          21.4%
      F# :                            0.0%
-     G  : ████████████████████████  31.9%
+     G  : ████████████████████████  32.4%
      G# :                            0.0%
-     A  : ████████                  11.0%
+     A  : ████████                  10.4%
      A# : █                          1.1%
      B  :                            0.0%
 --------------------------------------------------------------------------------
