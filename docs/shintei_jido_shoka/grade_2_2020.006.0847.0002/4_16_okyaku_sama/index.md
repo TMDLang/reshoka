@@ -68,10 +68,10 @@ Q:1/4=96
 K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-z2 z2 D2 G2 | A2 A2 B2 A2 | d2 B2 A2 G2 | A6 z2 |
+z2 D2 G4 | A2 A2 B2 A2 | d2 B2 A2 G2 | A6 z2 |
 B2 B2 B2 A2 | B2 d2 B2 A2 | G2 A2 G2 E2 | D6 z2 |
 E2 E2 E2 D2 | C2 C2 C2 D2 | E2 G2 E2 C2 | D6 z2 |
-z2 z2 B2 A2 | B2 d2 B2 A2 | G2 A2 G2 E2 | D6 z2 |
+z2 B4 A2 | B2 d2 B2 A2 | G2 A2 G2 E2 | D6 z2 |
 E2 E2 E2 D2 | C2 C2 C2 D2 | E2 E2 G2 G2 | A6 z2 |
 B2 B2 B2 A2 | B2 B2 B2 A2 | d2 d2 d2 B2 | d6 z2 |
 d2 d2 d2 B2 | d2 d2 B2 G2 | A2 A2 A2 B2 | A6 z2 |
@@ -80,8 +80,8 @@ B2 B2 B2 A2 | B2 d2 B2 G2 | A2 A2 A2 B2 | G6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](okyaku_sama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxcWlpKTxu7Hrc2Pu4qeVxY__jxqmPG_e939PxdN2iJ7t2vd_TqaClxaVoq2BpxmVvq-Ckw2VjpG9iBzLwRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Op5unbH051bnk9ZAbQJFGR6wCDTAwUZkGFgBLRViUtfS-HZ7E3PZ697sWrVsxl9XAoKCk92rH02rf3F8sUv27vf75n1rL__6frVEIc-2df2YsWqZzObns9qebG_71nf0scNjc-6Zz_d1_qio_3Z9KUg25ete7EJ6JgmLi19sAdWzgOa8mLi7Kd981_unQQOJaCVIJMXNT6fsuHFpnnAANLX4nqyo4EL6NDnU4BynY8b-h43Tnnc1Pi4aTI4wBaAw6zlRdfGp2sngNhNk7meLln-uHEHWAUwbIFCDWClqx43Abn7HjdOf9w4n-v5rDaIcpB5wAhonARmA6Oh-3Fjz-NGoBEzHzf0g6x-snMmzGqg7qbHTR2PG4Gagarnvpy9CmEvWGjh46ZOkO0gq1c8btwNtrQJqPRx44bHjbOBzuB6vrzxceM6oCuf7ALatQqoFBiGT_cuAtoLNAMoBHFKz-Om_sdNQC7Q7cuezVgBDEeQbFMnUNHCx41LQOY3AV0zEexeoEWTXiwDqgZaAXQlkFwDcj4XML7Rgm_u4yag-vVgLUBrgI5cDQ6D6WDuRmAYoIUg0NA5YDvWg5IpNBBnAl0BZK0FOwQoNx-afkF6gI6CKgJpxghEYBgDQxCiE-j7lUgaZkPCsetZJ1BfK8h7jV0vtm0GM5aAoh1qzzKgE4FuWg5RAUynYNWTwCENNB6oaN_jprlcT_YCE8dqoKKXi4FCOx83zgJ7Fmj1ssdNwGiD-gM5IICuAcYtKImAoxMoCAwKYGi2gfwBTLpcvomZeVYBmYl5-Q41BjUK1aC8oWBjaKZlB2bVKBgo6IKxcTyQMAMRNQrmIApMGMIYNQrGyFxkhTAIMqUGaipIIQxD9YOYKGbUQExBmGcCtQiXoWB5BAFWV6NgBKIQBFQUrAJhKlgKj9GwUBhY9yIcTWb4ogmBnA_DIGGICDbzsKuE8TCSBTxtkJ8E8JkJlkM1s5aLS9dOAZSaFYC0MhcXAA)]
-- [鋼琴伴奏 TMD 檔案](okyaku_sama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43Nj1uLH3cVPL48b-x41THzfue7-n48meLU-X9j_ZPeP9nk4FLS0uRVsFSzMue1sFJx0uGyN9EzuuOgWlF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lBdAyIwMjAz0DAzM9AwsTcyDDwAhoqxLYhpXz3u-Z9WLi7Kd981_unQQWezZ7E1Ds2aLG51M2vNg0T4mLyzcxM88qIDMxLz_Iw6HGoEahmksBCGwMzbTswKwaBQMFXTA2jgcSZiCiRsEcRIEJQxijRsEYmYusEAZBptRATQUphGGofhATxYwaiCkI80ygFuEyFCyPIMDqahSMQBSCgIqCVSBMBUvhMRoWCgPrXoSjyQxfNCGQ82EYJAwRwWYedpUwHkaygKcN8pMAPjPBcqhm1iInZh9CidksHmRCtFl8LMQvEK4xmIvCAdmFpBSfPiiF7EV8eomWA6eCaCPibERSjKLPFKLPFKwBhYNbDyG7cATmoPQYnSLOEMwzBHGQmITtw6WP6MSHlmhp5T-iMwqUgudNXTsFUPZUANLKXFwA)]
+- [主旋律 TMD 檔案](okyaku_sama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxcWlpKTxu7Hrc2Pu4qeVxY__jxqmPG_e939PxdN2iJ7t2vd_TqaClxaVoq2BpxmVvq-Ckw2VjpG9iBzLwRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Op5unbH051bnk9ZAbQJFGR6wCDTAwUZkGFgBLRViUtfS-HZ7E3PZ697sWrVsxl9XAoKCk92rH02rf3F8sUv27vf75n1rL__6frVEIc-2df2YsWqZzObns9qebG_71nf0scNjc-6Zz_d1_qio_3Z9KUg25ete7EJ6JgmLi19sAdWzgOa8mLi7Kd981_unQQOJaCVIJMXNT6fsuHFpnnAANLX4nqyo4EL6NDnU4BynY8b-h43Tnnc1Pi4aTI4wBaAw6zlRdfGp2sngNhNk7meLln-uHEHWAUwbIFCDWClqx43Abn7HjdOf9w4n-v5rDaIcpB5wAhonARmA6Oh-3Fjz-NGoBEzHzf0g6x-snMmzGqg7qbHTR2PG4Gagarnvpy9CmEvWGjh46ZOkO0gq1c8btwNtrQJqPRx44bHjbOBzuB6vrzxceM6oCuf7ALatQqoFBiGT_cuAtoLNAMoBHFKz-Om_sdNQC7Q7cuezVgBDEeQbFMnUNHCx41LQOY3AV0zEexeoEWTXiwDqgZaAXQlkFwDcj4XML7Rgm_u4yag-vVgLUBrgI5cDQ6D6WDuRmAYoIUg0NA5YDvWg5IpNBBnAl0BZK0FOwQoNx-afkF6gI6CKgJpxghEYBgDQxCiE-j7lUgaZkPCsetZJ1BfK8h7jV0vtm0GM5aAoh1qzzKgE4FuWg5RAUynYNWTwCENNB6oaN_jprlcT_YCE8dqoKKXi4FCOx83zgJ7Fmj1ssdNwGiD-gM5IICuAcYtKImAoxMoCAwKYGi2gfwBTLpcvomZeVYBmYl5-Q41BjUK1aC8oWBjaKZlB2bVKBgo6CoYxwMJMxABgjUK5iAmmDCEMWoUjJG5YMVQhTAIMqkGaipIIQxD9YOYKGbUQExBmGcCtQiXoWB5BAFWV6NgBKIQBFQUrAJhKlgKj9EgNshhIDhw7kU4mszwRRMCOR-GQcIQEWzmYVcJ4yG7BjVtkJ8E8JkJT4oIM2u5uHTtFECpWQFIK3NxAQA)]
+- [鋼琴伴奏 TMD 檔案](okyaku_sama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43Nj1uLH3cVPL48b-x41THzfue7-n48meLU-X9j_ZPeP9nk4FLS0uRVsFSzMue1sFJx0uGyN9EzuuOgWlF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lBdAyIwMjAz0DAzM9AwsTcyDDwAhoqxLYhpXz3u-Z9WLi7Kd981_unQQWezZ7E1Ds2aLG51M2vNg0T4mLyzcxM88qIDMxLz_Iw6HGoEahmksBCGwMzbTswKwaBQMFXTA2jgcSZiCiRsEcRIEJQxijRsEYmYusEAZBptRATQUphGGofhATxYwaiCkI80ygFuEyFCyPIMDqahSMQBSCgIqCVSBMBUvhMRoWCgPrXoSjyQxfNCGQ82EYJAwRwWYedpUwHkaygKcN8pMAPjPBcqhm1iInZh9CidksHmRCtFl8LMQvEK4xmIvCAdmFpBSfPiiF7EV8eomWA6eCaCPibERSjKLPFKLPFKwBhYNbDyG7cATmoPQYnSLOEMwzBHGQmITtw6WP6MSHlmhp5T-iMwqUgudNXTsFUPZEppW5uAA)]
 
 ## 分析
 
@@ -102,11 +102,11 @@ B2 B2 B2 A2 | B2 d2 B2 G2 | A2 A2 A2 B2 | G6 z2 |
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  D, A, A#, G, D#
-   - 調性數值:    G 小調 [相關度: 0.68, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 小調 (0.68), D 小調 (0.60), A# 大調 (0.54)
+   - 調性數值:    G 小調 [相關度: 0.69, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 小調 (0.69), D 小調 (0.59), A# 大調 (0.55)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 小調 (r: 0.68, 自然音純度: 100.0%)
+     • [Main #1]: G 小調 (r: 0.69, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -119,17 +119,17 @@ B2 B2 B2 A2 | B2 d2 B2 G2 | A2 A2 A2 B2 | G6 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████                     6.0%
+     C  : ██████                     5.9%
      C# :                            0.0%
-     D  : ████████████████████████  25.0%
-     D# : ██████████                10.3%
+     D  : ████████████████████████  24.6%
+     D# : ██████████                10.2%
      E  :                            0.0%
      F  :                            0.0%
      F# :                            0.0%
-     G  : ████████████              12.1%
+     G  : ████████████              12.7%
      G# :                            0.0%
-     A  : ███████████████████████   24.1%
-     A# : ██████████████████████    22.4%
+     A  : ███████████████████████   23.7%
+     A# : ██████████████████████    22.9%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
