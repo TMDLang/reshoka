@@ -7,7 +7,7 @@ Q:1/4=96
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-c2 c2 c2 d2 | c2 c c c2 z2 | c2 A2 G2 F2 | G4 z4 |
-D2 D2 D2 C2 | D2 D2 D2 C2 | F2 G2 F2 G2 | A4 z4 |
-c2 d2 c2 A2 | c2 d2 c2 A2 | c2 d2 c c A2 | d4 z4 |
-c2 d2 c2 A2 | G2 F2 D2 C2 | G2 A2 G2 G2 | F4 z4 |
+!mf! c2 c2 c2 d2 | c2 c c c2 z2 | c2 A2 G2 F2 | G4 z4 |
+!mp! D2 D2 D2 C2 | D2 D2 D2 C2 | F2 G2 F2 G2 | A4 z4 |
+!f! c2 d2 c2 A2 | c2 d2 c2 A2 | c2 d2 c2 A2 | d4 z4 |
+c2 d2 c2 A2 | G2 F2 D2 C2 | !mp! G2 A2 G2 G2 | F4 z4 |

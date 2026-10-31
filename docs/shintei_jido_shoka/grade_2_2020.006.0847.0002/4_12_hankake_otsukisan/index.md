@@ -53,16 +53,16 @@ Q:1/4=96
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-c2 c2 c2 d2 | c2 c c c2 z2 | c2 A2 G2 F2 | G4 z4 |
-D2 D2 D2 C2 | D2 D2 D2 C2 | F2 G2 F2 G2 | A4 z4 |
-c2 d2 c2 A2 | c2 d2 c2 A2 | c2 d2 c c A2 | d4 z4 |
-c2 d2 c2 A2 | G2 F2 D2 C2 | G2 A2 G2 G2 | F4 z4 |
+!mf! c2 c2 c2 d2 | c2 c c c2 z2 | c2 A2 G2 F2 | G4 z4 |
+!mp! D2 D2 D2 C2 | D2 D2 D2 C2 | F2 G2 F2 G2 | A4 z4 |
+!f! c2 d2 c2 A2 | c2 d2 c2 A2 | c2 d2 c2 A2 | d4 z4 |
+c2 d2 c2 A2 | G2 F2 D2 C2 | !mp! G2 A2 G2 G2 | F4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hankake_otsukisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxcWlpKTzt7XrctPpx08bHTauezel43LT1cfNmBS0tLkVbBUszLntbBTcuGyN9EzuQGS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8yor3ezpAoaQHDCU9UCgBGQZG7_d0gl35YuW893tmvVi6_9miuU9bVz_tbQQLP5u9CSTc2_l0-9wn-xcCna6vxfVkRwMXVuc_bmh43Nz5uGnz4-YZj5uXPW5aD1L3tKMNJN205nHT9sfN3UBFTzduRFIB4nQ_bu5_3LThcfP8x819z-asAJkEMRKkZwVEkAtkUXMf1N7mlSA9DQ0vlnU_blr0uGk_WKSHiwvoZ6KdB5SG2Q_UsASkB2gKyPJlYLcg1EH4IHe-6Nz0YtNckDfWTni6rhPIJs5hWvpcXL6JmXlWAZmJefkONQY1CtVcCkBgY2imZQdm1SiYKujCsRkQw0RAUFfBAC5iDMRGQGwIFgGxQBAkD4I1UNPM4kHGwAlTEIFLFGQSzEQQXQO2A5upMLfB3IFfxBQqAuIRZxrMFciuA4nB_AxxHUgFqnm1XFy6dgqgIFYA0spcXAA)]
-- [鋼琴伴奏 TMD 檔案](hankake_otsukisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ42tv1uGn146aNj5tWPZvT8bhp6-Pmze_3dDzZs-Xp0v4nu2e839OpoKXFpWirYGnGZW-r4MZlY6RvYsdVp6D0on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdvU8Xbvj6c4tz6esANplZGBkoGdgYKZnYGFiDmQYGAEtVQLbsHLe-z2zXizd_2zR3Ketq5_2NoKFn83eBBLu7Xy6fe6T_QuVuLh8EzPzrAIyE_PygzwcagxqFKq5FIDAxtBMyw7MqlEwVdCFYzMghomAoK6CAVzEGIiNgNgQLAJigSBIHgRroKaZxYOMgROmIAKXKMgkmIkgugZsBzZTYW6DuQO_iClUBMQjzjSYK5BdBxKD-RniOpAKVPNqkUPYB1cIG4IMjDaMBVmCYKKIQ0hIYONSbhoP5pnGw5Qi-8kEImkClkTRhlsGiYNiNooMukVEeIYocROIq0ixArdPUJxPjF-AEadrpwCKOwUgrczFBQA)]
+- [主旋律 TMD 檔案](hankake_otsukisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxcWlpKTzt7XrctPpx08bHTauezel43LT1cfNmBS0tLkVbBUszLntbBTcuGyN9EzuQGS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RXz9O1O57u3PJ8yor3ezpAoaQHDCU9UCgBGQZG7_d0gl35YuW893tmvVi6_9miuU9bVz_tbQQLP5u9CSTc2_l0-9wn-xcCna6vxfVkRwMXVuc_bmh43Nz5uGnz4-YZj5uXPW5aD1L3tKMNJN205nHT9sfN3UBFTzduRFIB4nQ_bu5_3LThcfP8x819z-asAJkEMRKkZwVEkAtkUXMf1N7mlSA9DQ0vlnU_blr0uGk_WKSHiwvoZ6KdB5SG2Q_UsASkB2gKyPJlYLcg1EH4IHe-6Nz0YtNckDfWTni6rhPIJs5hWvpcXL6JmXlWAZmJefkONQY1CtVcCkBgY2imZQdmAUVy02oVTBV04dgMiGugPBDUVTCAixgDsREQG4JFQCwQBMmDYA3cyIJaBbN4kFlwwhRE1OAQBRkHMxZE14Atwmo01LEgR8IcBHEaIREQD5uJmCphLkF2IdhLIAlYCECcCVKGamgtF5eunQIo1BWAtDIXFwA)]
+- [鋼琴伴奏 TMD 檔案](hankake_otsukisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ42tv1uGn146aNj5tWPZvT8bhp6-Pmze_3dDzZs-Xp0v4nu2e839OpoKXFpWirYGnGZW-r4MZlY6RvYsdVp6D0on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdvU8Xbvj6c4tz6esANplZGBkoGdgYKZnYGFiDmQYGAEtVQLbsHLe-z2zXizd_2zR3Ketq5_2NoKFn83eBBLu7Xy6fe6T_QuVuLh8EzPzrAIyE_PygzwcagxqFKq5FIDAxtBMyw7MAorkptUqmCrowrEZENdAeSCoq2AAFzEGYiMgNgSLgFggCJIHwRq4kQW1CmbxILPghCmIqMEhCjIOZiyIrgFbhNVoqGNBjoQ5COI0QiIgHjYTMVXCXILsQrCXQBKwEIA4E6QM1dBa5ED3wRXohiBTow1jQTYhmCjiEBIS9LiUm8aDeabxMKXIHjOBSJqAJVG04ZZB4qCYjSKDbhERniFK3ATiKlKswO0TFOcT4xdgxOnaKYDiTgFIK3NxAQA)]
 
 ## 分析
 
@@ -114,7 +114,7 @@ c2 d2 c2 A2 | G2 F2 D2 C2 | G2 A2 G2 G2 | F4 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 53 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 52 個音符)
 ================================================================================
 ```
 
