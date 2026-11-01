@@ -73,16 +73,16 @@ Q:1/4=96
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-c3 d c2 d2 c4 A4 | c3 d c4 F2 G4 z2 | c3 d c2 d2 c4 A4 | c3 d c4 F2 G4 z2 |
-A3 B A2 F2 G2 A3 G E2 | F2 G2 F2 D2 C4 z4 | A3 B A2 F2 G2 A3 G E2 | F2 G2 F2 D2 C4 z4 |
+c3 d c3 d c4 A4 | c3 d c3 F G4 z4 | c3 d c3 d c4 A4 | c3 d c3 F G4 z4 |
+A3 B A3 F G3 A G3 E | F3 G F3 D C4 z4 | A3 B A3 F G3 A G3 E | F3 G F3 D C4 z4 |
 A6 B2 c4 c4 | d8 c4 c4 | A12 c4 | A4 F4 G4 z4 |
 A6 B2 c4 c4 | d6 d2 c4 c4 | A4 c4 A4 G4 | F12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nemuri_ningyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG5c-7ip4XFT15Ndu57uXaSgpcWlaKtgacZlb6vgxmVjom9iB9L8YuW893tmvZg4-2nf_Jd7J4ENfDZ7E1Ds2Zw1Tze2vpy6_cmOaWDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPz6dodT3dueT5lxfs9HaCQ1AOGpB4oJIEMA-P3ezqVuLj0tRRsqQW4FBQUgD56NnvHi83tL1Z0vehoB7oL6NmnrSueTWsHuuLpht5n7Z0KAQZmRnpZBemPGiYDmcYg5vs9PUB9Lxc0KhQU6CkYWwKlTAyAgi8Wz3na2gr0_7O5E4C-UjBReLlsGtDpwLACWfdi1f5nDctBFnX3vpg5Hyj6uHEHUPDp7NlAkadrJwAtdVN4umQ5UEwBGPwKQFGw7p5HM1faAiMGZMiTHQ0g6vnyxseN6yAx97ihARjCjxunP25sAduzdP-zLd1wOaCBEDZI7uXqVY8b179snwhiNDQ8n7MHxJ07CcgAa926BGjIywVrHjfuetw4H6jiyY4dIJGFU8ABtn7u48bux40zHzeueNy09nHz0sfNex43twC5zzYvftzY-7hxH1h2HUg1WAgotwxozOPGruez1z1uaH3cNOnltM7HjYsQSsHe2tUDtmAJUHw10EmPm5Y8blr3uHnV46adIO3NQMs2P27uBJEQ0x83bX_cvPxx07LHzRugckA2MEx2rAUZ0TQB6H5IJO8GJiygxPPl3UDLXywDuh-oDmj57MeNbUDvIAXn7k2PmzrAAbkO6ODHjcBAnQpWuhocOJu2g13WAzT52cwmoCKwc5djmAT27uPGyWCTwL5vagHmMxRLIXHZCfZJ41ywocAgbYLofdGxE2jnk51A7bMfNwE9BpRdBo6-xgXAIH02fSkw7wETz8uGRpg02K_AvPiycTI4BLC57dl2oN9BqQTOwKII5hpgyHe-2Ar0MdgPqB6AJBWYXEPDS6B3m4DeBUYHVo8CUzh2jz5u7AfH93LUCF4O9gwskUKSJ0gRODkC0yJUBTC1IpIq0Mf93S8bgXIr4ClpOZLDgOkBNc6RPQqOI2CMAlM_2HFgBiy1Az2J5G8kUUjCBnLBgd3QAE5bQHVIqikvqKBAQUufi8svNbe0KNMvMy-9Mt8qIDMxL9-hxqBGoRpkk4KNhZYdmAEsJg11TayAOQQYuMCAASVnoG-BeQIYEn2gKGpsA_KBvpwP8jo4IQD5QCcDIw8qia4YGFO70UWBLgJZV6OgYaqgq6tgpqmqoaurqWCqYAbEugrGQIwpp6tgqGAEJA3I1wfzpKmuBdCToLjYD8qXwNIH5LqNwMgDeh2Yn4FCTcAcD2RDfAtUCHQ30BvAYgmUZICi-x43QUSB5G4kDwHdoKtgArXcGGw1RMwIKmYeD1QGEjZUMItXMI0HuwzsbrK1wrxlqWtoBPIXMBNDi1qgd-BlbTOYD0y0SIUtwuGgsAPaDg4vEK4BhilIBMKDiEDUIEQhIoZADAlfJKcYGusamoHcArQOXJA3rgenBWDogtAkIGcFclFO2CGQKEZYC4twkNWgUEE4DeKQWi4uXTsF5HSvAOQrc3EBAA)]
-- [鋼琴伴奏 TMD 檔案](nemuri_ningyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuPZxU8Pjpq4nu3Y93bvo_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgacZlb6vgxmVjom9ix1WnoPRi5bz3e2a9mDj7ad_8l3snKYHEns3eBBR7NmfN042tL6duf7JjGlj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Oh8unbH051bnk9ZAXSckYGRgZ6BgZmegYWJOZBhYAx0nxIXl19qbmlRpl9mXnplvlVAZmJefpCHQ41BjUI1lwIQ2Fho2YEZNQoapgq6ugpmmqoaurqaCqYKZkCsq2AMxJhyugqGCkZA0oB8fTBbgQp1FUygKozB8hAxI6iYeTxQGUjYUMEsXsE0HqwdbDjZWqF2g9wINADsLhCuAbodJALhQUQgahCiEBFDIIb4g7BpkPBA6IWFDkg_yHUI8yGm1WKLNB-USDOBR5phvEK0YSyMgvNN4-PBcYNfGskMs_hciHC0aTxIoRmIaQQThBlFUBUOV5mA1JlgugPOp9QgJDchtICMAQamrp0CcngqYOErc3EBAA)]
+- [主旋律 TMD 檔案](nemuri_ningyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG5c-7ip4XFT15Ndu57uXaSgpcWlaKtgacZlb6vgxmVjom9iB9L8YuW893tmvZg4-2nf_Jd7J4ENfDZ7E1Ds2Zw1Tze2vpy6_cmOaWDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPz6dodT3dueT5lxfs9HaCQ1AOGpB4oJIEMA-P3ezqVuLj0tRRsqQW4FBQUgD56NnvHi83tL1Z0vehoB7oL6NmnrSueTWsHuuLpht5n7Z0KAQZmRnpZBemPGiYDmcYg5vs9PUB9Lxc0KhQU6CkYWwKlTAyAgi8Wz3na2gr0_7O5E4C-UjBReLlsGtDpwLACWfdi1f5nDctBFnX3vpg5Hyj6uHEHUPDp7NlAkadrJwAtdVN4umQ5UEwBGPwKQFGw7p5HM1faAiMGZMiTHQ0g6vnyxseN6yAx97ihARjCjxunP25sAduzdP-zLd1wOaCBEDZI7uXqVY8b179snwhiNDQ8n7MHxJ07CcgAa926BGjIywVrHjfuetw4H6jiyY4dIJGFU8ABtn7u48bux40zHzeueNy09nHz0sfNex43twC5zzYvftzY-7hxH1h2HUg1WAgotwxozOPGruez1z1uaH3cNOnltM7HjYsQSsHe2tUDtmAJUHw10EmPm5Y8blr3uHnV46adIO3NQMs2P27uBJEQ0x83bX_cvPxx07LHzRugckA2MEx2rAUZ0TQB6H5IJO8GJiygxPPl3UDLXywDuh-oDmj57MeNbUDvIAXn7k2PmzrAAbkO6ODHjcBAnQpWuhocOJu2g13WAzT52cwmoCKwc5djmAT27uPGyWCTwL5vagHmMxRLIXHZCfZJ41ywocAgbYLofdGxE2jnk51A7bMfNwE9BpRdBo6-xgXAIH02fSkw7wETz8uGRpg02K_AvPiycTI4BLC57dl2oN9BqQTOwKII5hpgyHe-2Ar0MdgPqB6AJBWYXEPDS6B3m4DeBUYHVo8CUzh2jz5u7AfH93LUCF4O9gwskUKSJ0gRODkC0yJUBTC1IpIq0Mf93S8bgXIr4ClpOZLDgOkBNc6RPQqOI2CMAlM_2HFgBiy1Az2J5G8kUUjCBnLBgd3QAE5bQHVIqikvqKBAQUufi8svNbe0KNMvMy-9Mt8qIDMxL9-hxqBGoRpkk4KNhZYdmAEsJg11TayAOQQYuMCAASVnoG-BeQIYEn2gKGpsA_KBvpwP8jo4IQD5QCcDIw8qia4YGFO70UWBLgJZV6OgYaqgq6tgpqmqoauricYDchSMgRi7KkMozwiowgCnKjLNggWGqa4FMDBAcbYflH-BpRTIFxuBkQwMImC-Bwo1AUsGIBsSKkCFQP8BvQssvkBJCyi673ETRBRI7kbyONA1ugomMGeAeTBnaADdAXQuCs88HsoFajUECRjBpME8M5i0aTyKH-hmETCwLHUNjUChBSxCoAU9MJDgJX0zmA_MMkhFPSI4QHEDdCU4nkC4RsEMLALhQUQgahCiEBGgqzDjzdBY19AM5BagdeBqpHE9OCUC4wyEJgE5K5ArEsIOMUNzCCxBgayuATsCBiEOqeXi0rVTQM51CkC-MhcXAA)]
+- [鋼琴伴奏 TMD 檔案](nemuri_ningyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuPZxU8Pjpq4nu3Y93bvo_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgacZlb6vgxmVjom9ix1WnoPRi5bz3e2a9mDj7ad_8l3snKYHEns3eBBR7NmfN042tL6duf7JjGlj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Oh8unbH051bnk9ZAXSckYGRgZ6BgZmegYWJOZBhYAx0nxIXl19qbmlRpl9mXnplvlVAZmJefpCHQ41BjUI1lwIQ2Fho2YEZ-loKhromVgqPm_ofN85_3Dj9ceM6YBisftw0-XFj3-OmlseNbUB-E0iyqRMs3wLkzwZScEl0xV2PG3eji2rpg62rUdAwVdDVVTDTVNXQ1dVE4wE5CsZAjF2VIZRnBFRhgFMVmWbBAsNU1wIYGI3djxv3P25c_7ixF-yLjY8blwCDqBEs1PS4aRKQDQkVoEKg_4DeXfy4cRcwkICi-x43QUSB5G4kjwNdo6tgAnMGmAdzhgbQHUDnovDM46FcoFZDkIARTBrMM4NJm8aj-IFuFgEDy1LX0AgUWmvBfp35uHEFMJDWPm5e-rh5z-PmZjC_cRUoEIGBApJfhwgOUNwAXQmOJxCuUTADi0B4EBGIGoQoRAToKsx4MzTWNTQDuQVoHTDolwFjCpwSgXEGQpOAnBWPGxeR4BAzNIfAEhTI6hqwI2AQ4pBabJnOByXTmUAzHVB7vEK0YSyMgvNN4-OBphGSRjLDLD4XIhxtGg9SaAZiGsEEYUYRVIXDVSYgdSaY7oDzKTUIyU0ILSBjgIGpa6eAHJ4KWPjKXFwA)]
 
 ## 分析
 
@@ -99,38 +99,38 @@ A6 B2 c4 c4 | d6 d2 c4 c4 | A4 c4 A4 G4 | F12 z4 |
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      NemuriNingyo (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, A, F, D, G
-   - 調性數值:    A 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 97.5%]
-   - 候選調性 (K-S): A 小調 (0.80), C 大調 (0.77), F 大調 (0.74)
-   - 五度圈歷程:   +3
+   - 核心骨幹音:  C, A, F, G, D
+   - 調性數值:    C 調性不明確 [相關度: 0.79, 穩定度: Ambiguous, 自然音純度: 97.4%]
+   - 候選調性 (K-S): C 大調 (0.79), A 小調 (0.78), F 大調 (0.74)
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [NemuriNingyo #1]: A 調性不明確 (r: 0.80, 自然音純度: 97.5%, 調外音: A#)
+     • [NemuriNingyo #1]: C 調性不明確 (r: 0.79, 自然音純度: 97.4%, 調外音: A#)
 
   [ 五度圈游移軌跡 ]
-               C  
+              [C ]*
          F            G  
       Bb               D  
-      Eb              [A ]*
+      Eb               A  
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  33.9%
+     C  : ████████████████████████  34.5%
      C# :                            0.0%
-     D  : ████████                  11.9%
+     D  : ███████                   10.3%
      D# :                            0.0%
-     E  : █                          1.7%
-     F  : ██████████                13.6%
+     E  : █                          0.9%
+     F  : ██████████                13.8%
      F# :                            0.0%
-     G  : ████████                  11.0%
+     G  : █████████                 12.9%
      G# :                            0.0%
-     A  : ██████████████████        25.4%
-     A# : ██                         2.5%
+     A  : █████████████████         25.0%
+     A# : ██                         2.6%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
