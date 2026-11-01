@@ -12,7 +12,7 @@ audio: "neko_to_kaeru.mp3"
 
 # ネコトカヘル（貓與青蛙）
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="neko_to_kaeru.mp3"></audio>
 

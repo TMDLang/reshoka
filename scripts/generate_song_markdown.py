@@ -26,7 +26,7 @@ from pathlib import Path
 
 TITLE_RE = re.compile(r"^\s*\*\*\s*(.*?)\s*\*\*\s*$")
 CREDIT_RE = re.compile(r'^\s*~\s*"(.*?)"\s*$')
-TAG_RE = re.compile(r'^tag:\s*[^\s:]+:[^\s:]+$')
+TAG_RE = re.compile(r"^tag:\s*[^\s:]+:[^\s:]+$")
 KEY_RE = re.compile(r"^\s*\?=\s*(\S+)\s*$")
 TEMPO_RE = re.compile(r"^\s*!=\s*(\S+)\s*$")
 METER_RE = re.compile(r"^\s*<(\d+/\d+)>\s*$")
@@ -189,7 +189,9 @@ BOOK_INFO_IMAGE_DESCRIPTIONS: dict[str, dict[str, str]] = {
 
 
 def natural_sort_key(text: str) -> list[int | str]:
-    return [int(tok) if tok.isdigit() else tok.lower() for tok in re.split(r"(\d+)", text)]
+    return [
+        int(tok) if tok.isdigit() else tok.lower() for tok in re.split(r"(\d+)", text)
+    ]
 
 
 def resolve_binary(name: str) -> str:
@@ -534,8 +536,10 @@ def generate_song_folder(
     # original MP3; otherwise render the main melody TMD as a fallback.
     render_tmd = piano_tmd or main_tmd
     should_render_fallback = piano_tmd is not None or not mp3_path.exists()
-    if not no_audio and should_render_fallback and (
-        force or not is_up_to_date(mp3_path, render_tmd)
+    if (
+        not no_audio
+        and should_render_fallback
+        and (force or not is_up_to_date(mp3_path, render_tmd))
     ):
         render_command = ["tmd", str(render_tmd), "-w", str(wav_path)]
         if soundfont:
@@ -617,13 +621,16 @@ def generate_song_folder(
         clean_lyric_lines = [
             ln.strip()
             for ln in lyrics.splitlines()
-            if ln.strip() and not re.match(r"^[一二三四五六七八九十0-9]+[、\.\s]*$", ln.strip())
+            if ln.strip()
+            and not re.match(r"^[一二三四五六七八九十0-9]+[、\.\s]*$", ln.strip())
         ]
         if clean_lyric_lines:
             lyrics_preview = " ".join(clean_lyric_lines[:2])[:60]
 
     if col_name == "kyoeki_shoka":
-        desc_parts = [f"〈{title}〉收錄於明治時期東京共益商社樂器店{col_title}（{vol_title}）"]
+        desc_parts = [
+            f"〈{title}〉收錄於明治時期東京共益商社樂器店{col_title}（{vol_title}）"
+        ]
     else:
         desc_parts = [f"〈{title}〉收錄於日治時期臺灣{col_title}（{vol_title}）"]
     if credit_summary:
@@ -632,15 +639,37 @@ def generate_song_folder(
         desc_parts.append(f"，調號拍號：{key_meter_summary}")
     if audio_path:
         audio_description = "雙手鋼琴伴奏 MP3" if audio_is_piano else "原始 MP3"
-        desc_str = "".join(desc_parts) + f"。提供{audio_description} 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+        desc_str = (
+            "".join(desc_parts)
+            + f"。提供{audio_description} 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+        )
     else:
         desc_str = "".join(desc_parts) + "。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
     if lyrics_preview:
         desc_str += f"歌詞：{lyrics_preview}…"
 
-    kw_list = [title, col_title.strip("《》"), vol_nav_title, "日治時期", "臺灣音樂史", "公學校唱歌", "五線譜", "TMD"]
+    kw_list = [
+        title,
+        col_title.strip("《》"),
+        vol_nav_title,
+        "日治時期",
+        "臺灣音樂史",
+        "公學校唱歌",
+        "五線譜",
+        "TMD",
+    ]
     if col_name == "kyoeki_shoka":
-        kw_list = [title, col_title.strip("《》"), vol_nav_title, "明治時期", "唱歌教科書", "共益商社", "日本國立國會圖書館", "五線譜", "TMD"]
+        kw_list = [
+            title,
+            col_title.strip("《》"),
+            vol_nav_title,
+            "明治時期",
+            "唱歌教科書",
+            "共益商社",
+            "日本國立國會圖書館",
+            "五線譜",
+            "TMD",
+        ]
     if col_name == "shokacho":
         kw_list.extend(["楊金土", "唱歌帖"])
         if vol_name in ("vol_07", "vol_08"):
@@ -661,7 +690,9 @@ def generate_song_folder(
         f"is_part_of: {json.dumps(f'{col_title} {vol_title}', ensure_ascii=False)}",
     ]
     if score_info.get("key"):
-        fm_lines.append(f"musical_key: {json.dumps(score_info['key'], ensure_ascii=False)}")
+        fm_lines.append(
+            f"musical_key: {json.dumps(score_info['key'], ensure_ascii=False)}"
+        )
     if images:
         fm_lines.append(f"image: {json.dumps(images[0].name, ensure_ascii=False)}")
     if audio_path:
@@ -673,7 +704,7 @@ def generate_song_folder(
 
 # {title}
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 {audio_html}
 
@@ -761,7 +792,9 @@ def generate_book_info_folder(folder: Path) -> Path:
     return output
 
 
-def classify_song_section(col_name: str, vol_name: str, folder_name: str) -> tuple[str | None, str | None, str]:
+def classify_song_section(
+    col_name: str, vol_name: str, folder_name: str
+) -> tuple[str | None, str | None, str]:
     """Return (year_heading, section_heading, number_label) for a song directory."""
     parts = folder_name.split("_")
     if col_name in ("kogakko_shoka", "utanohon"):
@@ -782,7 +815,12 @@ def classify_song_section(col_name: str, vol_name: str, folder_name: str) -> tup
         return None, None, num
 
     if vol_name.startswith("koto_"):
-        if len(parts) >= 3 and parts[0].isdigit() and parts[1].isdigit() and parts[2].isdigit():
+        if (
+            len(parts) >= 3
+            and parts[0].isdigit()
+            and parts[1].isdigit()
+            and parts[2].isdigit()
+        ):
             yr = parts[0]
             cat = parts[1]
             num = f"({int(parts[2])})"
@@ -818,9 +856,7 @@ def classify_song_section(col_name: str, vol_name: str, folder_name: str) -> tup
 
 def format_song_table_row(sdir: Path, num_label: str) -> str:
     main_tmd = choose_main_tmd(sdir)
-    title, credits, _, score_info = parse_metadata(
-        main_tmd.read_text(encoding="utf-8")
-    )
+    title, credits, _, score_info = parse_metadata(main_tmd.read_text(encoding="utf-8"))
     credit_str = " / ".join(credits) if credits else "—"
     info_parts = []
     if score_info.get("key"):
@@ -858,7 +894,9 @@ def generate_volume_index(vol_dir: Path) -> Path:
         if b_imgs:
             cover_img_rel = f"0_book_info/{b_imgs[0].name}"
 
-    vol_seo_title = f"{col_title} {vol_title}（共 {len(song_dirs)} 首曲目總覽與線上試聽）"
+    vol_seo_title = (
+        f"{col_title} {vol_title}（共 {len(song_dirs)} 首曲目總覽與線上試聽）"
+    )
     if col_name == "shokacho" and vol_name in SHOKACHO_VOL_NOTES:
         vol_seo_desc = re.sub(r"[`*_]", "", SHOKACHO_VOL_NOTES[vol_name])
     elif col_name == "kyoeki_shoka":
@@ -890,14 +928,19 @@ def generate_volume_index(vol_dir: Path) -> Path:
                 "- 📄 **[《楊金土手抄唱歌帖》考證與研究筆記（含全 10 冊結構與 `P115.jpg` 第 1–6 冊親筆總目錄）](../research_notes.md)**",
             ]
         )
-        if vol_name in ("vol_07", "vol_08") and (vol_dir.parent / "horai_shokashu.md").exists():
+        if (
+            vol_name in ("vol_07", "vol_08")
+            and (vol_dir.parent / "horai_shokashu.md").exists()
+        ):
             lines.append(
                 "- 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](../horai_shokashu.md)**"
             )
 
     if col_name == "kyoeki_shoka":
         pid = KYOEKI_PID_BY_VOL.get(vol_name, "")
-        ndl_link = f"（[NDL PID `{pid}`](https://dl.ndl.go.jp/pid/{pid})）" if pid else ""
+        ndl_link = (
+            f"（[NDL PID `{pid}`](https://dl.ndl.go.jp/pid/{pid})）" if pid else ""
+        )
         lines.extend([f"> {KYOEKI_COLLECTION_NOTE}{ndl_link}", ""])
 
     if col_name == "utanohon" and vol_name == "ge_2006.006.0878":
@@ -1109,7 +1152,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "      lang:",
         "        - ja",
         "        - en",
-        '      separator: \'[\\s\\-\\.、，。／（）「」『』【】・]+\'',
+        "      separator: '[\\s\\-\\.、，。／（）「」『』【】・]+'",
         "",
         "markdown_extensions:",
         "  - meta",
@@ -1175,7 +1218,9 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         if col_slug == "shokacho" and (col_dir / "research_notes.md").exists():
             nav_lines.append("      - 考證與研究筆記: shokacho/research_notes.md")
         if col_slug == "shokacho" and (col_dir / "horai_shokashu.md").exists():
-            nav_lines.append("      - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md")
+            nav_lines.append(
+                "      - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md"
+            )
         if col_slug == "shokacho" and (docs_dir / "archives" / "index.md").exists():
             nav_lines.append("      - 延伸館藏與日本國會圖書館調查: archives/index.md")
 
@@ -1200,9 +1245,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             )
 
             nav_lines.append(f"      - {vol_nav_title}:")
-            nav_lines.append(
-                f"          - 總覽: {col_slug}/{vol_dir.name}/index.md"
-            )
+            nav_lines.append(f"          - 總覽: {col_slug}/{vol_dir.name}/index.md")
             if (vol_dir / "0_book_info" / "index.md").exists():
                 nav_lines.append(
                     f"          - 書訊與掃描頁: {col_slug}/{vol_dir.name}/0_book_info/index.md"
@@ -1212,7 +1255,11 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                 title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
                 parts = sdir.name.split("_")
                 if col_slug == "shokacho":
-                    prefix = parts[1].upper() if sdir.name.startswith("0844_p") else parts[0].upper()
+                    prefix = (
+                        parts[1].upper()
+                        if sdir.name.startswith("0844_p")
+                        else parts[0].upper()
+                    )
                 elif len(parts) >= 3 and parts[0].isdigit() and parts[1].isdigit():
                     if len(parts) >= 4 and parts[2].isdigit():
                         prefix = f"{parts[0]}-{parts[1]}-{parts[2]}"
@@ -1304,7 +1351,10 @@ def main() -> int:
 
     song_folders, book_info_folders, volume_folders = discover_targets(target)
     if not song_folders and not book_info_folders:
-        print(f"錯誤：在 {target} 下找不到任何 TMD 曲目或 0_book_info 資料夾", file=sys.stderr)
+        print(
+            f"錯誤：在 {target} 下找不到任何 TMD 曲目或 0_book_info 資料夾",
+            file=sys.stderr,
+        )
         return 1
 
     for bdir in book_info_folders:

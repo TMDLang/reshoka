@@ -12,7 +12,7 @@ audio: "kamikaze.mp3"
 
 # 神風
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="kamikaze.mp3"></audio>
 

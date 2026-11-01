@@ -1,4 +1,4 @@
-# Re:shoka 專案代理人指引
+# Re:shōka 專案代理人指引
 
 ## 資料來源與產生檔
 
@@ -51,20 +51,20 @@ python3 scripts/generate_song_markdown.py --force
 
 ### 受控詞彙
 
-| namespace | 用途 | 建議 value |
-| --- | --- | --- |
-| `collection` | 教材／資料集 | `kogakko_shoka`, `shintei_jido_shoka`, `utanohon`, `shokacho`, `kyoeki_shoka` |
-| `volume` | 冊別或學年 | 目錄使用的資料夾名稱，例如 `vol_01`, `vol_07`, `grade_3_2020_006_0847_0003`, `kan_1_854862`～`kan_4_854865` |
-| `source` | 原始出版物或來源 | `horai_shokashu`, `school_textbook`, `shokacho_notebook`, `ichijo_kashu`, `unknown` |
-| `source_page` | 原始頁碼 | `P246`, `P229a`；保留原書頁碼，不寫網站頁碼 |
-| `date` | 明確的抄錄／出版／創作年代 | `1927`, `1920s`, `showa_02` |
-| `provenance` | 資料來源型態 | `manuscript_copy`, `printed_text`, `clipping`, `unknown` |
-| `evidence` | 編輯判斷的證據層級 | `scan_verified`, `transcription_verified`, `inferred`, `editorial` |
-| `genre` | 曲種或音樂功能 | `children_song`, `lullaby`, `march`, `dance`, `work_song`, `ceremonial`, `patriotic`, `folk_tune`, `traditional_theater`, `instrumental` |
-| `theme` | 歌詞／題材主題 | `taiwan`, `nature`, `landscape`, `weather`, `animal`, `plant`, `water`, `transport`, `school_life`, `family`, `friendship`, `work`, `military`, `imperial`, `festival`, `seasons`, `time_of_day`, `folklore`, `history`, `technology`, `food`, `travel`, `emotion`, `religion`, `community`, `music`, `place`, `sport`, `unclassified` |
-| `form` | 聲部或曲式 | `strophic`, `unison`, `two_part`, `round`, `question_answer`, `instrumental` |
-| `version` | 檔案代表的版本 | `source_transcription`, `piano_arrangement`, `duplicate_version`, `modern_editorial` |
-| `analysis` | 經分析得到的音樂特徵 | `pentatonic`, `major`, `minor`, `modal`, `repeated_melody`, `wide_range` |
+| namespace     | 用途                       | 建議 value                                                                                                                                                                                                                                                                                                                             |
+| ------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `collection`  | 教材／資料集               | `kogakko_shoka`, `shintei_jido_shoka`, `utanohon`, `shokacho`, `kyoeki_shoka`                                                                                                                                                                                                                                                          |
+| `volume`      | 冊別或學年                 | 目錄使用的資料夾名稱，例如 `vol_01`, `vol_07`, `grade_3_2020_006_0847_0003`, `kan_1_854862`～`kan_4_854865`                                                                                                                                                                                                                            |
+| `source`      | 原始出版物或來源           | `horai_shokashu`, `school_textbook`, `shokacho_notebook`, `ichijo_kashu`, `unknown`                                                                                                                                                                                                                                                    |
+| `source_page` | 原始頁碼                   | `P246`, `P229a`；保留原書頁碼，不寫網站頁碼                                                                                                                                                                                                                                                                                            |
+| `date`        | 明確的抄錄／出版／創作年代 | `1927`, `1920s`, `showa_02`                                                                                                                                                                                                                                                                                                            |
+| `provenance`  | 資料來源型態               | `manuscript_copy`, `printed_text`, `clipping`, `unknown`                                                                                                                                                                                                                                                                               |
+| `evidence`    | 編輯判斷的證據層級         | `scan_verified`, `transcription_verified`, `inferred`, `editorial`                                                                                                                                                                                                                                                                     |
+| `genre`       | 曲種或音樂功能             | `children_song`, `lullaby`, `march`, `dance`, `work_song`, `ceremonial`, `patriotic`, `folk_tune`, `traditional_theater`, `instrumental`                                                                                                                                                                                               |
+| `theme`       | 歌詞／題材主題             | `taiwan`, `nature`, `landscape`, `weather`, `animal`, `plant`, `water`, `transport`, `school_life`, `family`, `friendship`, `work`, `military`, `imperial`, `festival`, `seasons`, `time_of_day`, `folklore`, `history`, `technology`, `food`, `travel`, `emotion`, `religion`, `community`, `music`, `place`, `sport`, `unclassified` |
+| `form`        | 聲部或曲式                 | `strophic`, `unison`, `two_part`, `round`, `question_answer`, `instrumental`                                                                                                                                                                                                                                                           |
+| `version`     | 檔案代表的版本             | `source_transcription`, `piano_arrangement`, `duplicate_version`, `modern_editorial`                                                                                                                                                                                                                                                   |
+| `analysis`    | 經分析得到的音樂特徵       | `pentatonic`, `major`, `minor`, `modal`, `repeated_melody`, `wide_range`                                                                                                                                                                                                                                                               |
 
 題材標記要區分：`theme:weather` 只用於雨、雷、雲、霧、露、風等實際天候現象；四季與季節性景物使用 `theme:seasons`；朝、夕、夜、月夜等時間意象使用 `theme:time_of_day`。
 

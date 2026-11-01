@@ -12,7 +12,7 @@ audio: "tsuki_no_se.mp3"
 
 # 月の瀨
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="tsuki_no_se.mp3"></audio>
 

@@ -12,7 +12,7 @@ audio: "tokei_no_uta.mp3"
 
 # とけいのうた（時鐘之歌）
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="tokei_no_uta.mp3"></audio>
 

@@ -12,7 +12,7 @@ audio: "kojima_takanori.mp3"
 
 # 兒島高徳
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="kojima_takanori.mp3"></audio>
 

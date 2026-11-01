@@ -12,7 +12,7 @@ audio: "toki_kyugyo.mp3"
 
 # 冬季休業
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="toki_kyugyo.mp3"></audio>
 
