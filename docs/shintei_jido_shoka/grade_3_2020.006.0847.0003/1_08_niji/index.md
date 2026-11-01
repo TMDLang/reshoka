@@ -1,7 +1,7 @@
 ---
 title: "虹 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "虹"
-description: "〈虹〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夕立（ゆふだち）はれて　すゞしき空（そら）に わたせる橋（はし）の　その面白（おもしろ）さ…"
+description: "〈虹〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：D 4/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夕立（ゆふだち）はれて　すゞしき空（そら）に わたせる橋（はし）の　その面白（おもしろ）さ…"
 keywords: "虹, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
@@ -59,22 +59,22 @@ audio: "niji.mp3"
 ```abc
 X:1
 T:虹
-M:4/4
+M:4/8
 L:1/16
-Q:1/4=92
+Q:1/8=184
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A4 F4 F4 E4 | F4 A4 A8 | B6 B2 d4 B4 | B4 A4 A8 |
-A4 F4 F4 E4 | F4 A4 A4 A4 | B4 B4 A4 E4 | F4 E4 D8 |
-A8 F4 A4 | B4 d4 d8 | A4 A4 F4 D4 | F8 E8 |
-A4 A4 F4 A4 | B4 d4 d8 | A4 d4 F4 E4 | D12 z4 |
+A2 F2 F2 E2 | F2 A2 A4 | B2 B2 d2 B2 | B2 A2 A4 |
+A2 F2 F2 E2 | F2 A2 A2 A2 | B2 B2 A2 E2 | F2 E2 D4 |
+A4 F2 A2 | B2 d2 d4 | A2 A2 F2 D2 | F4 E4 |
+A2 A2 F2 A2 | B2 d2 d4 | A2 d2 F2 E2 | D6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](niji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpvJi5U0FLi0vRVsHSiMveVsGFy8ZE38QOpOHZ1JkvmjY9nbLx2dqel7PbwIa8aN_1vHExRObZnOanrWterOp93ND1bNqGp-tmPW2d9Hz1UoiOxw3dTzd0P92x4_nyic_XrHmyo_Pp2h1Pd255PmXF-z0doGDSAwaTHiiYgAwD4_d7OpW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7rrxcp5T1tXPJvWDnTF0w29z9o7FQIMjI31sgrS3-_pASp-uaBRoUBPwdAAyAU7vAHo8Gdz5gPZChYKL5dNA7r0_Z5ZINNfrNr_rGE5yNzu3hcz5wNFHzeuBgo-nT0bKPJ07QSgHS4KT5csB4opmOhbKABFQZasXfJi5tQXK2Y8b9oFFDaBCAMNBQZaz9OWVc_39T1u7n7c0MsFsgToALBPlkx9vrobaODjprbHjVsfNy543LgQqOtx4_rHTT2PG5c9bmh43DjzcdO8x43THzf2Pl-5C6S4ce7jJqDJQGWrQaY8bup_3Dj_cePsx03dz1aCjQPqb5wOVrEObMRcIOPl3EXPZ-4Fy3Y9bmoCmdgEcuLjxqlgUxpbHjcuB9r5Yln34yagi1qAOp_tADoHyAZZAFaKxQ6I5iawg0Eksn5gSgQrXf24cQbEOeiawaGxqwdiyOTHjf1P-4GywNCYCWQDTXiyo_lx4xKgxhedm8AaW2CuBvsdKPq4cSV-jwODHiwFNBRoUD9YFhiaUF93g8Kuqed5xzaQq4F6miaBpXcAuc_W94ItmbkT4nJkU8GBMhGoGhqh0HDY-ripC-Typu6Xs0GZAhwmjWA7VwDtBPrr2fSlYHGgd0DOfLp3I5gLNHwSRBnEoP3AyAZ68mn7rqcTOsAqgJHTBFYB9PIykIYmYDroAdr0vHMlOJaAcboOrGAezgiFewVnrD3bBrENEshAxprHjfugoU15_oUCBS19Li6_zKxMQ6uAzMS8fIcagxqFapAVCjYWWnZgBrZiQwGSeV8s7FHQMFF4uqH_-foGHXhe18SiAWgRyLAaBVMFXQVjKDYC4howCyQKwiBYo2AGps0UDOPAFEwIRRE4unE7blcP9R0HwhCXwFyDUANiGRLpth2d5LoNBGEugrgEHERgAhJ0MHeCVIHcA3EdCIJcSITrgOUrua6D2YvfdWAuIoBhgQaCBmDn1XJx6dopgFOlApChzMUFAA)]
-- [鋼琴伴奏 TMD 檔案](niji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxc-f7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHSiMveVsGFy8ZE38SOq05B6dnUmS-aNj2dsvHZ2p6Xs9uUQGIv2nc9b1wMkXk2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-9FKLjcUP30w3dT3fseL584vM1a57s6Hy6dsfTnVueT1kBdIWRgZGBnoGBmZ6BhYk5kGFgDHSIEheXX2ZWpqFVQGZiXn6Qh0ONQY1CNZcCENhYaNmBGTUKpgq6CsZQbATENWAWSBSEQbBGwQxMmykYxoEpmBCKIqKMA2GIXph-hBoQyxCLaSAIMwOiF-wMMAFxHsxkkCqQCRDzQBBkJrp5MJX4zQNzEZ6AOQwEDcAG1qKErg9K6JrAQ9cwXiHaMFbBNB5Im8bHIkSgVI2CCZBhEgujsOgg1SQkFXAmTA2qWeg64Xx0ebg5uFxFyCSsrjaAhKKunQI4IBWQGcpcXAA)]
+- [主旋律 TMD 檔案](niji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpvJi5U0FLi0vRVsHSiMveVsGFy8ZE38IOpOHZ1JkvmjY9nbLx2dqel7PbwIa8aN_1vHExRObZnOanrWterOp93ND1bNqGp-tmPW2d9Hz1UoiOxw3dTzd0P92x4_nyic_XrHmyo_Pp2h1Pd255PmXF-z0doGDSAwaTHiiYgAwD4_d7OpW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7rrxcp5T1tXPJvWDnTF0w29z9o7FQIMjI31sgrS3-_pASp-uaBRoUBPwdAAyAU7vAHo8Gdz5gPZChYKL5dNA7r0_Z5ZINNfrNr_rGE5yNzu3hcz5wNFHzeuBgo-nT0bKPJ07QSgHS4KT5csB4opAINVASgKsmTtkhczp75YMeN50y6gsAlEGGgoMNB6nraser6v73Fz9-OGXi6QJUAHgH2yZOrz1d1AAx83tT1u3Pq4ccHjxoVAXY8b1z9u6nncuOxxQ8PjxpmPm-Y9bpz-uLH3-cpdIMWNcx83AU0GKlsNMuVxU__jxvmPG2c_bup-thJsHFB_43SwinVgI-YCGS_nLno-cy9YtutxUxPIxCaQEx83TgWb0tjyuHE50M4Xy7ofNwFd1ALU-WwH0DlANsgCsFIsdkA0N4EdDCKR9QNTIljp6seNMyDOQdcMDo1dPRBDJj9u7H_aD5QFhsZMIBtowpMdzY8blwA1vujcBNbYAnM12O9A0ceNK_F7HBj0YCmgoUCD-sGywNCE-robFHZNPc87toFcDdTTNAksvQPIfba-F2zJzJ0QlyObCg6UiUDV0AiFhsPWx01dIJc3db-cDcoU4DBpBNu5Amgn0F_Ppi8FiwO9A3Lm070bwVyg4ZMgyiAG7QdGNtCTT9t3PZ3QAVYBjJwmsAqgl5eBNDQB00EP0KbnnSvBsQSM03VgBfNwRijcKzhj7dk2iG2QQAYy1jxu3AcNbcrzLxQoaOlzcfllZmUaWgVkJublO9QY1ChUg6xQsLHQsgMzsBUbCpDM-2Jhj4KGicLTDf3P1zfowPO6JhYNQItAhtUomCoYA6ERkGUMZJsq6AJZZkBoGAckQEyoIDg6cVu-q4calptCLTeFihkpGBJh945O8uzWBdsKshHoWSACeR3kBmOgrSDbdYH2E7QdWP6RZzvIHkzbgQxIgIA8rqtgALS-lotL104BnCoUgAxlLi4A)]
+- [鋼琴伴奏 TMD 檔案](niji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxc-f7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHSiMveVsGFy8ZE38KOq05B6dnUmS-aNj2dsvHZ2p6Xs9uUQGIv2nc9b1wMkXk2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-9FKLjcUP30w3dT3fseL584vM1a57s6Hy6dsfTnVueT1kBdIWRgZGBnoGBmZ6BhYk5kGFgDHSIEheXX2ZWpqFVQGZiXn6Qh0ONQY1CNZcCENhYaNmBGTUKpgrGQGgEZBkD2aYKukCWGRAaxgEJEBMqiEO5KVS5KVTMSMEQRbUuWB1IDdBAIAIZD9JlDFQHUq8L1IGsHiSDqR7IgFgKMlxXwQCooRbFdz44fGcYrxBtGKtgGg-kTeNjESJQqkbBBMgwiYVRWHSQahKSCjgTpgbVLHSdcD66PNwcXK4iZBJWV0NDUddOARyQCsgMZS4uAA)]
 
 ## 分析
 
@@ -82,14 +82,14 @@ A4 A4 F4 A4 | B4 d4 d8 | A4 d4 F4 E4 | D12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 虹 ]
 ================================================================================
-⏱  Duration:       0:41 (41.7s), 16 measures total
-🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <4/4>
+⏱  Duration:       0:20 (20.9s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <4/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Niji1 #1 @ m.8, 0:19]
-   - 最高音: D5 in [Niji1 #1 @ m.3, 0:06]
+   - 最低音:  D4 in [Niji1 #1 @ m.8, 0:09]
+   - 最高音: D5 in [Niji1 #1 @ m.3, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Niji1 (41.7s)
+🏛  結構:      Niji1 (20.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
