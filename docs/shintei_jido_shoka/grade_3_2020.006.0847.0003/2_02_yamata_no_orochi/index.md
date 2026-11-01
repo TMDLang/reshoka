@@ -70,14 +70,16 @@ Q:1/4=100
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C2 C2 D3 C C F F G A2 z2 | B3 A G2 F2 G2 A2 G2 z2 | C2 C2 D3 C C F F A G2 z2 | c2 c2 A3 F G2 G2 C2 z2 |
-C2 C2 C3 A B2 B d c2 z2 | B3 B A2 G2 F2 G A G2 z2 | C2 C2 D3 C C F F A c2 z2 | d2 d2 c3 A G2 A G F2 z2 |
+C4 C4 D6 C2 | C2 F2 F2 G2 A4 z4 | B4 A4 G6 F2 | G4 A4 G4 z4 |
+C4 C4 D6 C2 | C2 F2 F2 A2 G4 z4 | c4 c4 A6 F2 | G4 G4 C4 z4 |
+c4 c4 c6 A2 | B4 B2 d2 c4 z4 | B4 B4 A6 G2 | F4 G2 A2 G4 z4 |
+C4 C4 D6 C2 | C2 F2 F2 A2 c4 z4 | d4 d4 c6 A2 | G4 A3 G F4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yamata_no_orochi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk8bV39dNOEx43rni5Z_mJ2-_s9HRARGLdTQUuLS9FWwdDAgMveVsGNy8ZE38QOZOKL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD37NpG56um_W0ddLz1UufTtn4bG3P44b-pxu6n-7Y8Xz5xOdr1jzZ0fl07Y6nO7c8n7ICaB9IZFcPUOTZnPmPm3cDuUYvl00D2gx299M53c9Xd0PtWrv9af-mp72znneufLlkxdPWHS-m94NdDGK8mDn__Z5ZoBjQA8aAHigGgAwDY7BJXPpaCrbUAlwKCgqPGyY8m73p-ex1L1atejaj73HDRLBo8-6n7btezJwKdAmO8GkEij_tmQ4MpZerZzxd0PR85p4XC4FB1IUt3LrxhNuzGWufTuoxA_Lf7-k3tDQ2BLM63-_pAblEQQE5XIFsBSMFYLA-boDGLzzGHzcAtaBHOtCQp33zn83eAdJoaKrwckEjyMa-5mf9_c9WTVEIMDC20MsqSAcqfdzQhOJzsL5NQP8_m9b-snnF8zmNEM8A9RtaGhoAHQn0K8RbTzf0gzwE8yvYiw0QLwK99GztEqBxz7cD43kpsu9R7Hyxav-zhuUvOtqfdfdCEsDj5hlAQaBtbgog74CYIO8AU60CUA2Q9bJh_tNdyxQgaRrJpOaeZzPXg0yavenlImAAz3o2dcaL_RueTV_6bM6a50vnvVi58cmOtc-3LHjWMeXp9FlPN3QBLXm5oOPJ3glPdnY_n7L96cS9QLterFj7ZEc3MDxfTmsAka2Tni3f-2LVjCd79yMH8svFm4BSL9s6X7QvBSYKSJQ9657ytLfxWf_Cp129z6atASp7smPZs2l7gIynG_Y93Tf96ZKVT_sXvZy9CagAaPuL3s4X02aC2Z3Pe3c_2dXxfFb703VLns9qeTa19cmuboT3nnd2AL0BSawgv81ZA4zHZws7njftgsT002nrXjRuAsbYk11Tnm-f9WLtHJD3ZrY8X777afdUBZd8hZez-p5O6H3e2f60sR3IANoJ9PfT_Querl_2bOqOJ3t7n_ZMg1gDshaaSSCGAyP4xcp5T1tXABMFMIiB4QhirJr3Yu16YM4Bpb8Nvc_aO5HTFdgAYHp43NDwuKnxceOEx02djxtnPp23-NmCnUAdjxu7Hzf2Pm5cC04PjcDQhgmuBIoAg_px45KXDQseN3WBXdI4F5jigYqerQd6H6ruceOUx43AmAaau_rZ4uXPpm4HS0193DgDaDRYfDrQFLDFO0CmQBSBHAUUbYTGLUwP0MRtEOdAFCCsBSp63NAKVrcVqAKuDmLE46ZJjxvnPdsNSrOPG0HJ9XHjssdN3SD9oDgGhxIwyp6v73yxdfvTOb3PNwIDuPHp7l1A74FSWONksOd7nq3vh7BfNu99NmEtUDGwhAGWNhCppw3dEO6THV3PpuwD5TSgCNQHMAWQxLp4IciEafOBbnqyq-35vj6QKxua4JGyC5hbQWkbmJhBbm5qedy473EjMPMBXY6oRx43dj1uAkbQQlCm2D_xceNSYKA-2dcGlgKKg9Vjxg4oUBYAQwcSR9OBgQ82FxjA04EFweMmcOkGVIEWC4gwB2WrxZuAIQkhgYEJzGVgdwITGtAkoOAyYIAD8x0kRmDxPB9LmCPn2Gd7dgDRy7kLgJ552dgH9knPs64ukFuA4g2bgGEIdAUkCoBhCJQFcRe2ARUAk_eLidPRwvzptLlPJzaAyDkbnuzbD3Tl04ZJz-cuBKnc1YYc4DuAKbwBUuCAfTQZlmzXA-tGYAiDfNTQ-GR3F1hq7rOZTUAFiIB9um_hk73AXAHRvB4SsNDYApcj4EQOFARmjc6ne6YCiyFgDMHyX-MSeFCDkt2GfdDoASXbHngMQTIcUBCk7SmwFF3cAo3oJqCrZkJTNSidzH7cuOHZ1kaQhU1zXywEGr3u6fa5GCG_oQtU5m7d_mLXamBYPZ_T_WzXNGCVAPTbs7WLn81Y_6Jz_bOVwDTUAyo0gTVP64aX0ya_bO191rEFWPw9Xb8N7LWepxvaQXkEGgugZA9EwLIVWEaD6oIFk0EGbm181jEBJL4I5KBnmzYjBf7T2bNBgb9zC6zkWAFOLdCS48muXaCAAAY-LGFDfPq0f9rjxn5wYpuOlMLb5iBlD6ApwNhCZBIQtwmobPWz3a2PGzcDTQHbv2EfJLTB2QXI6AL6FqwfGMBAPcshKRcUNftA9QYsmhExisgazzqA2RAYZzNBJSrIWmBuWwcMKrCe-aB0Ac1tQD8CucDCCuRZjKjZuQWEOkGZ-emEeS8XzweGArDyAwV7a_uz5oUQPz7dAKzXlwD98mQXKC883TcPUo0BC39g6AA9AVT_smkxMAcBIxoSWcBYANZHQFcC6zlQTbah68WmLc9bFj5bPwUSp8CGHzRqgG6ivCEHBQpa-lxckYm5iSWJfvn-RfnJGZlWAZmJefkONQY1CtXgutnGQssOzMDWkAS3tYDJZ91WBQ0jYIz1P1_foAOvzECyCoYKwFaeJhatQLuhxgJNsAJW1QsVHjdtANIrQcmmaSeYXA3k7wHSayF0cy9QtAYsDqrcO4F4CRC3gHktQPH1QHoVuEkBAlArahRM40FIwyxeQVcXyNJU1dDV1VTQAIoZgthApqGCEYRlrGAA1KBhAlJpDFVoBPSFEVDGCCQHzhy4Q2NXD77QMCI2NJr2An3Sh-RTUGhsgYZCB5TuhobGViDeAQ4lkKrtsNAAhiSwUUheaIC9DvI5KDRMgVDDGKQarAAsbgQyg3Bw7OjEFxzGRAcHihebJ4FJUDCAvAkLClhgwBLONGiCAalHBBoosWALDiBGinITUBIwgwSCKVKSMIHKgxKDIchfyAGFPyyABSq-sDAhNWk0TwX7DeLDqfAMgpk0NgL5m8Chsg-sdj4QtwF5-4E0KHmRmzgg4WIGhBqmqNkFmFig2ckQHC61XFy6dgqoJQ1IRJmLCwA)]
-- [鋼琴伴奏 TMD 檔案](yamata_no_orochi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjauvrppgmPG9c9XbL8xez293s6ICIQ7uPm3S-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwdDAgMveVsGNy8ZE38SOq05B6UX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHv2bQNT9fNeto66fnqpU-nbHy2tudxQ__TDd1Pd-x4vnzi8zVrnuzofLp2x9OdW55PWQF0AUhkVw9Q5Nmc-UAXALlGL5dNA9qsBLLl6Zzu56u7oXat3f60f9PT3lnPO1e-XLLiaeuOF9P7wX4AMV7MnP9-zywjAyMDPQMDMz0DCxNzIMPAGGwSl76Wgi21AJeCgsLjhgnPZm96Pnvdi1Wrns3oe9wwESzavPtp-64XM6cCXYIjfBqB4k97pgND6eXqGU8XND2fuefFQmAQdWELt2484fZsxtqnk3rMgPz3e_oNLY0NwazO93t6QC5RUEAOVyBbwUgBGKyPG6AxDk8DjxuAWlCSAcSQp33zn83eAdJoaKrwckEjyMa-5mf9_c9WTVEIMDC20MsqSAcqfdzQhOJzsL5NQP8_m9b-snnF8zmNMM_A1L1Ytf9Zw_IXHe3Punshkfa4eQZQEGiDmwLICSAmyAnAlKYAVANkvWyY_3TXMgVIOkSY9Hz7CqBdkBgA6sZMvECzIYFhqKfwtLMXKK6g4ZlXUpSvAwyOpxv6n69v0ASqebpnKjBMgX59Onv2s3VbX_R1PZ215dnUGU92dT-f1fJ864SnG_Y9W9H0tH_pk71znjftAhm1ARjnYHcoKBjpKTzZsRvoR4jVChqRibmJJYl--f5F-ckZmToKFlC7FA5PVwB6ad1WsKX9m591dj_bMwWo5emKxmdrlz3tX_JsxQ6gjRCrn03vfrqvGx6fQPB0-zKglie7lz5fufJp41KgSpCDu3ufrp0ATApP9yx72bAJmJieTVn_bNKE50vnvVi5EZhhXqxc-WzD4mcbZkMdTHkGgAIFLX0uLnBwWgVkJublB3k41BjUKFSD3WtjoWUHZtQomMaDkIZZvIKuLpClqaqhq6upoAEUMwSxgUxDBWMIy1TBAKjBDAg1TEGqwcJAcSMFDWMFI4gaQ5AarloUq31wWG0ItFMh2jAWSMKZIBtMQBywCNAVYBbUTNSow-cvbCUKONPtaADGsIIGPIFhUQYMOOKDBuptY7DDNUxQgwUoDZQxAjsfv7N29VDXWdAYA1sNjDdTUAwBVYMVgMWNQGYQdteOTpLdBYozRCCYgALFDDn9QALJBCoPCh5DkAXILsbvKEg5QP3AIil5Y0uK2NM5VZIikVkl2hQsTMXEhm4xJNVA2KBAVTBCiFIxLSFZC_Miud4lKbmQXCTp2imASzoFIAM1TZAvoszFBQA)]
+- [主旋律 TMD 檔案](yamata_no_orochi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk8bV39dNOEx43rni5Z_mJ2-_s9HRARGLdTQUuLS9FWwdDAgMveVsGNy8ZE38QOZOKL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD37NpG56um_W0ddLz1UufTtn4bG3P44b-pxu6n-7Y8Xz5xOdr1jzZ0fl07Y6nO7c8n7ICaB9IZFcPUOTZnPmPm3cDuUYvl00D2gx299M53c9Xd0PtWrv9af-mp72znneufLlkxdPWHS-m94NdDGK8mDn__Z5ZoBjQA8aAHigGgAwDY7BJXPpaCrbUAlwKCgqPGyY8m73p-ex1L1atejaj73HDRLBo8-6n7btezJwKdAmO8GkEij_tmQ4MpZerZzxd0PR85p4XC4FB1IUt3LrxhNuzGWufTuoxA_Lf7-k3tDQ2BLM63-_pAblEQQE5XIFsBSMFYLA-boDGLzzGHzcAtaBHOtCQp33zn83eAdJoaKrwckEjyMa-5mf9_c9WTVEIMDC20MsqSAcqfdzQhOJzsL5NQP8_m9b-snnF8zmNEM8A9RtaGhoAHQn0K8RbTzf0gzwE8yvYiw0QLwK99GztEqBxz7cD43kpsu9R7Hyxav-zhuUvOtqfdfdCEsDj5hlAQaBtbgog74CYIO8AU60CUA2Q9bJh_tNdyxQgaRrJpOaeZzPXg0yavenlImAAz3o2dcaL_RueTV_6bM6a50vnvVi58cmOtc-3LHjWMeXp9FlPN3QBLXm5oOPJ3glPdnY_n7L96cS9QLterFj7ZEc3MDxfTmsAka2Tni3f-2LVjCd79yMH8svFm4BSL9s6X7QvBSYKSJQ9657ytLfxWf_Cp129z6atASp7smPZs2l7gIynG_Y93Tf96ZKVT_sXvZy9CagAaPuL3s4X02aC2Z3Pe3c_2dXxfFb703VLns9qeTa19cmuboT3nnd2AL0BSawgv81ZA4zHZws7njftgsT002nrXjRuAsbYk11Tnm-f9WLtHJD3ZrY8X777afdUBZd8hZez-p5O6H3e2f60sR3IANoJ9PfT_Querl_2bOqOJ3t7n_ZMg1gDshaaSSCGAyP4xcp5T1tXABMFMIiB4QhirJr3Yu16YM4Bpb8Nvc_aO5HTFdgAYHp43NDwuKnxceOEx02djxtnPp23-NmCnUAdjxu7Hzf2Pm5cC04PjcDQhgmuBIoAg_px45KXDQseN3WBXdI4F5jigYqerQd6H6ruceOUx43AmAaau_rZ4uXPpm4HS0193DgDaDRYfDrQFLDFO0CmQBSBHAUUbYTGLUwP0MRtEOdAFCCsBSp63NAKVrcVqAKuDmLE46ZJjxvnPdsNSrOPG0HJ9XHjssdN3SD9oDgGhxIwyp6v73yxdfvTOb3PNwIDuPHp7l1A74FSWONksOd7nq3vh7BfNu99NmEtUDGwhAGWNhCppw3dEO6THV3PpuwD5TSgCNQHMAWQxLp4IciEafOBbnqyq-35vj6QKxua4JGyC5hbQWkbmJhBbm5qedy473EjMPMBXY6oRx43dj1uAkbQQlCm2D_xceNSYKA-2dcGlgKKg9Vjxg4oUBYAQwcSR9OBgQ82FxjA04EFweMmcOkGVIEWC4gwB2WrxZuAIQkhgYEJzGVgdwITGtAkoOAyYIAD8x0kRmDxPB9LmCPn2Gd7dgDRy7kLgJ552dgH9knPs64ukFuA4g2bgGEIdAUkCoBhCJQFcRe2ARUAk_eLidPRwvzptLlPJzaAyDkbnuzbD3Tl04ZJz-cuBKnc1YYc4DuAKbwBUuCAfTQZlmzXA-tGYAiDfNTQ-GR3F1hq7rOZTUAFiIB9um_hk73AXAHRvB4SsNDYApcj4EQOFARmjc6ne6YCiyFgDMHyX-MSeFCDkt2GfdDoASXbHngMQTIcUBCk7SmwFF3cAo3oJqCrZkJTNSidzH7cuOHZ1kaQhU1zXywEGr3u6fa5GCG_oQtU5m7d_mLXamBYPZ_T_WzXNGCVAPTbs7WLn81Y_6Jz_bOVwDTUAyo0gTVP64aX0ya_bO191rEFWPw9Xb8N7LWepxvaQXkEGgugZA9EwLIVWEaD6oIFk0EGbm181jEBJL4I5KBnmzYjBf7T2bNBgb9zC6zkWAFOLdCS48muXaCAAAY-LGFDfPq0f9rjxn5wYpuOlMLb5iBlD6ApwNhCZBIQtwmobPWz3a2PGzcDTQHbv2EfJLTB2QXI6AL6FqwfGMBAPcshKRcUNftA9QYsmhExisgazzqA2RAYZzNBJSrIWmBuWwcMKrCe-aB0Ac1tQD8CucDCCuRZjKjZuQWEOkGZ-emEeS8XzweGArDyAwV7a_uz5oUQPz7dAKzXlwD98mQXKC883TcPUo0BC39g6AA9AVT_smkxMAcBIxoSWcBYANZHQFcC6zlQTbah68WmLc9bFj5bPwUSp8CGHzRqgG6ivCEHBQpa-lxckYm5iSWJfvn-RfnJGZlWAZmJefkONQY1CtXgutnGRMsOzMDWkAS3tYDJZ91WBQ0jYIz1P1_foAOvzECyCoYKwFaeJhatQLuhxgJNsAJW1QsVHjdtANIrQcmmaSeYXA3k7wHSayF0cy9QtAYsDqrcO4F4CRC3gHktQPH1QHoVuEkBAlArahRM40FIwyxeQVcXyNJU1dDV1QSKawBFDUE8TQUNQwUjCMtYwQAoZQKkgX4CqgcrACs3AooZgWTBGQR3iOzqwRciRsSGSNNeoG_6kHwLCpEt0JDogNLd0BDZCsQ7wCEFUrUdFiLA0AQ2DMkNEWMIC-xnBVMg1DBGDxEjkDmEg2RHJ74gMSY6SFC82TwJTIKCAuRVWHDAAgSWgKZBEw5IPSLgQIkGNUhA_jMF-Q_sbbD_TBQ0TBTMIKFgCk0XQDFwKICTC1iVIchjyGGFPzCAJSu-wDAhNX00TwV7DuLFqfCcgpk-NgL5m8DBsg-sdj4QtwF5-4E0KI2Rn0IgYWMGhOghaIQcWprAoAIFTy0Xl66dAmrJAxJR5uICAA)]
+- [鋼琴伴奏 TMD 檔案](yamata_no_orochi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjauvrppgmPG9c9XbL8xez293s6ICIQ7uPm3S-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwdDAgMveVsGNy8ZE38SOq05B6UX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHv2bQNT9fNeto66fnqpU-nbHy2tudxQ__TDd1Pd-x4vnzi8zVrnuzofLp2x9OdW55PWQF0AUhkVw9Q5Nmc-UAXALlGL5dNA9qsBLLl6Zzu56u7oXat3f60f9PT3lnPO1e-XLLiaeuOF9P7wX4AMV7MnP9-zywjAyMDPQMDMz0DCxNzIMPAGGwSl76Wgi21AJeCgsLjhgnPZm96Pnvdi1Wrns3oe9wwESzavPtp-64XM6cCXYIjfBqB4k97pgND6eXqGU8XND2fuefFQmAQdWELt2484fZsxtqnk3rMgPz3e_oNLY0NwazO93t6QC5RUEAOVyBbwUgBGKyPG6AxDk8DjxuAWlCSAcSQp33zn83eAdJoaKrwckEjyMa-5mf9_c9WTVEIMDC20MsqSAcqfdzQhOJzsL5NQP8_m9b-snnF8zmNMM_A1L1Ytf9Zw_IXHe3Punshkfa4eQZQEGiDmwLICSAmyAnAlKYAVANkvWyY_3TXMgVIOkSY9Hz7CqBdkBgA6sZMvECzIYFhqKfwtLMXKK6g4ZlXUpSvAwyOpxv6n69v0ASqebpnKjBMgX59Onv2s3VbX_R1PZ215dnUGU92dT-f1fJ864SnG_Y9W9H0tH_pk71znjftAhm1ARjnYHcoKBjpKTzZsRvoR4jVChqRibmJJYl--f5F-ckZmToKFlC7FA5PVwB6ad1WsKX9m591dj_bMwWo5emKxmdrlz3tX_JsxQ6gjRCrn03vfrqvGx6fQPB0-zKglie7lz5fufJp41KgSpCDu3ufrp0ATApP9yx72bAJmJieTVn_bNKE50vnvVi5EZhhXqxc-WzD4mcbZkMdTHkGgAIFLX0uLnBwWgVkJublB3k41BjUKFSD3WtjomUHZtQomMaDkIZZvIKuLpClqaqhq6sJFNcAihqCeJoKGoYKxhCWqYIBUMoMCDVMQerBwmDlRgoaxgpGEFWGIFVctSjW--Cw3hBor0K0YSyQROKAbDEBccAiYEeC2VBzUaMQn_-wlSzgzLejARjTChqwhKYDzzUgWaAPgDGliUUrMFChxgJNsAIm84UKj5s2AOmVoETftBNMrgby9wDptRC6uRfsU5A4KGN0AvESIG4B81qA4uuB9CpYMoJZQWzMQMPcGBJmQBroJ6B6sAJozAAjBhxy-ENkVw--EDEiNkSa9gJ904fkW1CIbIGGRAeU7oaGyFYg3gEOKZCq7bAQAYYmsNQhN0SgaRXsZ2CKNQWlTLQQMQKZQzhIdnTiCxJjooMExZvNk8AkKChAXoUFByxAYAloGjThgNQjAg6UaFCDBOQ_tLxooqBhomCGnGNNQGLgUAAnF7AqQ5DHkMMKf2BASl-cgWFCavpongr2HMSLU-E5BTN9bATyN4GDZR9Y7XwgbgPy9gNpUBojP4UQKM1goYVUoGEreLCXbMQWPHiCjKTCMdoULEFaHifRckiegbBBIQwKKIQ4aXmJeKthXiXf2-hJl1phjqiQdO0UwHWdApCBmkbIF1Hm4gIA)]
 
 ## 分析
 
@@ -85,24 +87,24 @@ C2 C2 C3 A B2 B d c2 z2 | B3 B A2 G2 F2 G A G2 z2 | C2 C2 D3 C C F F A c2 z2 | d
 ================================================================================
 📊 TMD Song Profile: [ 八岐の大蛇（八岐大蛇） ]
 ================================================================================
-⏱  Duration:       0:19 (19.2s), 8 measures total
+⏱  Duration:       0:38 (38.4s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [YamataNoOrochi #1 @ m.1, 0:00]
-   - 最高音: D5 in [YamataNoOrochi #1 @ m.5, 0:11]
+   - 最高音: D5 in [YamataNoOrochi #1 @ m.10, 0:22]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      YamataNoOrochi (19.2s)
+🏛  結構:      YamataNoOrochi (38.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（流行色彩大調，未偵測到可信轉調）
    - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  C, G, A, D, F
-   - 調性數值:    C 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 91.1%]
-   - 候選調性 (K-S): C 大調 (0.83), F 大調 (0.72), C 小調 (0.61)
+   - 調性數值:    C 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 92.0%]
+   - 候選調性 (K-S): C 大調 (0.83), F 大調 (0.71), A 小調 (0.60)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [YamataNoOrochi #1]: C 大調 (r: 0.83, 自然音純度: 91.1%, 調外音: A#)
+     • [YamataNoOrochi #1]: C 大調 (r: 0.83, 自然音純度: 92.0%, 調外音: A#)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -120,12 +122,12 @@ C2 C2 C3 A B2 B d c2 z2 | B3 B A2 G2 F2 G A G2 z2 | C2 C2 D3 C C F F A c2 z2 | d
      D  : █████████                 12.5%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ████████                  11.6%
+     F  : ████████                  10.7%
      F# :                            0.0%
-     G  : █████████████             18.7%
+     G  : █████████████             18.3%
      G# :                            0.0%
-     A  : ██████████                14.3%
-     A# : ██████                     8.9%
+     A  : ████████████              16.5%
+     A# : ██████                     8.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
