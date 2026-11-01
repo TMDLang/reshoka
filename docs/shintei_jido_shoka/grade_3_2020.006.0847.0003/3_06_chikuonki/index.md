@@ -59,16 +59,16 @@ Q:1/4=108
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C3 D E4 | G2 G2 A2 G2 | c3 B c3 A | G6 z2 |
-A4 G2 A2 | c3 B c2 A2 | D3 C D3 E | D6 z2 |
-E2 D2 E2 D2 | E2 D2 E2 G2 | E2 A2 G2 A2 | c2 c2 c2 z2 |
-G4 E2 G2 | c3 G E4 | G2 F2 E2 D2 | C6 z2 |
+C3 D E4 | G2 G2 E2 C2 | c3 B A3 c | G6 z2 |
+A4 A2 G2 | c3 A G2 E2 | D3 C D3 E | D6 z2 |
+E3 D C2 D2 | E3 D C2 D2 | E3 G A2 G2 | c2 c2 A2 z2 |
+G4 E2 C2 | c2 c4 A2 | G2 G2 E3 D | C6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](chikuonki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5akJmfk5efkp1eiy-SWFmcmK3FpaSm8mNzycv7mZyvnv9_T8XzqzBeNm8DsTgUtLS5FWwVDAwsue1sFZy4bI30TO5ApL9p3PW9c_AyotGnTsznNT1vXvFjV-7ih79m0DU_XzXraOun56qVPp2x8trbncUP_0w3dT3fseL584vM1a57s6Hy6dsfTnVueT1kBsgwm8mzO_MfNu4Fcs5fLpgFtBrv16Zzu56u7oXat3f60f9PT3lnPO1e-XLLiaeuOF9P7gSZAGC9mAp07CxQfesD40APFB5BhYAw2iUtfS8GWWoBLQUHhccOEZ7M3PZ-97sWqVc9m9D1umAgWbd79tH3Xi5lTgS7BET6NQPGnPdOBofRy9YynC5qez9zzYiEwiLqwhVs3nnB7NmPt00k9ZkD--z39hpbGhmBW5_s9PSCXKCgghyuQrWCmAAzWxw0d8Ih-3ABUjBLXQL1P--Y_m70DpN7YROHlgkaQRX3Nz_r7n62aohBgYGqul1WQDlT6uKEJ6uEXK-cBQwLk4Ymzgbpf7p0E1ANhP26c_rhx0uOmbqCGJ3vnAFUCnfpsUePzKRtebJqnABQC6kQyadX-Zw3LX3S0P-vuhcTm4-Z-oCDQPGeFp0uWg5kgRwKToAJQDZD1smH-013Lnq2Y-XzJrscNPY-blz1uWv-4ef3jpiWPm7sfNwDVdEBSL6qbm3uezVwPsmn2ppeLgKE5C-jDp-tXP127EhT6G3qRQgURYEAjns9qebp079Ol7UC9L1fOejqjDaR3zorn6zYCRYBufDqt_Wn_2mfbNwITwfPV85-3bHvatBmYJp6u63-yax1QOzBegSYjYqll4YvV055NWvtsyr6nS2Y93TDx2ZqFL5v3PtnRC0w0z7esB6p8sW7yk127gCLPlzVCbAd69fnKbUDzn81Y_2LVhqdzVrxYvPDl3EWQdPN04qL3e4DRC0xtMA8_7-x4NgeYAEFpFeziNcD4fLaw43nTLkiMP522Duisl80rnuya8nz7rBdr5wB9_nJmy_Plu592T1VwyVd4Oavv6YTe553tTxvbgQxQlO7sfrp_wdP1y55N3fFkb-_TnmkQa0DWQvMIxHCQn1fOe9q64tk0UMA92bEWxFg178Xa9cCMA8rBG3qftXcipy-wAU92NDxuaACGLVDJ48b1jxsng2KxcR3QALDIqseNoKQFJB83AWO3AajgcdPEx409wAAHK1gOkm3qhgTCysfNLY-bgdLrHjd2PW7sJ05bY9Pjph4YOetx04THjdseN00GagPGNlg10KzdYFf0gl0ENqupA6J5AVhbDzAAwErbHjeCUtHjxiWPG5eBbAYa19QNdtHyx42zgQpA2kBpDhw4wJh6um8e0P9P106ARjA4MT3Z1QaKrPmbQRl23zzkNIehYPbTyX1PJzYA0fM5oOQCT4gQBU-ndgENIZiY4DGyC1gqAQOsBRx-K0FB2AgMOWCuayImICeDQ2g1MOSgoYWqB64UyVR0G4AhB4y2HrAUMMBmAY1DCWpIIJMQwrhyICj7zdwDKs5hQQ3hvmxa_HLXHrRgBIYz0ARgsD_t7wAynvbuBqbdl7vnPdk5H5hvXyzb9XTfdEhmJiqogU6kvJqCAgUtfS4u54zM7NL8vOxMq4DMxLx8hxqDGoVqcAlkY6FlB2ZgqyEhlUjDs3VbFTRMFJ5u6H--vkEHnk1BsgqGCsDqSxOLVqC1UGOBJlgB818_KJqaNgNZfUBWDZDuAvJXQ3DzSpAIUBaUUzcCWWvArHawutXgohIEkAzd1QM0tLEFHPf9QLwSYmhjNxBPBOJlQEOawCKTwRaDxHrAqpeDrepGN7RGQcNQQVdXwUhTVUNXV1PBWEEXKGYKhGZADJKNA0mbQ6WhXDMoF6RSFwgNFGrAOQV3eO7qwReeRkSHJ7A8awZSQH_BArRpFdin6ykLUlA-BVKrgBikChSCXeBw2w3EvWAZkkLVDBgqoDDECEEgDyxqBBI0hAUrmGcMD1Ugl6hQ3dGJL1SNiQ3VpkXAwFkDp0Fe2gVkbQDiaUC8GRrMj5tnA-m14DQMCWRwEDevwBagmCkSU2QJRLSpBy4CtKBxFjQO4GFpDAwPEIaxQOnSGJw-QSEJDFAIIhhcT2fPxhdcJkQnwgZwmgIFGCh1gYJiGThd7IckzjZwYgOFHihB9sGSX9NuiDqs6W8B2ABgQIATFigo2sAJDFioLwaHGciACeC0BizXYSkPXLajJz1QloQEEjTpmaLlbRNoaAIzPjSV1XJx6dopwMtLEEeZiwsA)]
-- [鋼琴伴奏 TMD 檔案](chikuonki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxueXl_M3PVs5_v6fj-dSZLxo3AdmPm3e_7N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwsue1sFZy4bI30TO646BaUX7bueNy5-BtTctOnZnOanrWterOp93ND3bNqGp-tmPW2d9Hz10qdTNj5b2_O4of_phu6nO3Y8Xz7x-Zo1T3Z0Pl274-nOLc-nrABZDxN5NgfkAiDX7OWyaUCblUC2PJ3T_Xx1N9Sutduf9m962jvreefKl0tWPG3d8WJ6P9AECOPFTKBnZhkZGBnoGRiY6RlYmJgDGQbGYJO49LUUbKkFuBQUFB43THg2e9Pz2eterFr1bEbf44aJYNHm3U_bd72YORXoEhzh0wgUf9ozHRhKL1fPeLqg6fnMPS8WAoOoC1u4deMJt2cz1j6d1GMG5L_f029oaWwIZnW-39MDcomCAnK4AtkKZgrAYH3c0AGP-scNQMWI2Ifofdo3_9nsHSD1xiYKLxc0gizqa37W3_9s1RSFAANTc72sgnSg0scNTVAPv1g5DxgSIA9PnA3U_XLvJKAeCPtx4_THjZMeN3UDNTzZOweoEujUZ4san0_Z8GLTPAWgEFAnkkmr9j9rWP6io_1Zdy8kNh839wMFgeY5KzxdshzMBDkSmAQVgGqArJcN85_uWqYASaAIk55vXwE0GRI1QN2YqRpoNiSUDPUUnnb2AsUVNDzzSorydRRMFJ5u6H--vkETqObpnqnAwAaGxtPZs5-t2_q4oedx44LHTUCyBxQ_jUseNy573DQB6MPHjeseNy5_3Dj7cWPb44beJ_v7n89a92LP1Kf7Vz-f1fJ864SnG_Y9W9H0tH_py2ndTxdsgbpVQcFIT-HJjt1A0yDOU9BwzsjMLs3Py87UUTA0g7pF4fB0BSMFoAvAjurf_Kyz-9meKUDlT1tbn-3eD0wxL7YtBgbc070dwBAEWvhsevfTfcBg73m6fRlQ8ZPdS59t2f1s70Sg1NPW1U872oBJ4PmaZUDGi-WLgcno6Z5lEPuh7qI8k0CBgpY-Fxc4ZK0CMhPz8oM8HGoMahSqwZ63sdCyAzNqFEwVdBWMgWSNgoZhnIKuroKppqqGrq4mUFAXLG0CZBkBWYZAvq6CgUINVy2KwT44DDaMV4g2jFUwhVCYfBDDFMIHUnB5EIZaAo8QfD7AVr5AsmADMNoUNOCpCosyYBBB3KoB9JyughGaz02BWRcpYMyh0lCuGZQLCUJIyOB30a4e4l1kBjQRZD-G7UAeWNQIJGgIcxKYZwx3EZBLlIt2dBLvIlAqgKQECAsUMsbgEAK5B-gsCCJoKSRHE2kpeakTLeFgT6FUSTg4ErkJkDLBwweqp25ygVoANR7Oh9trBGQY5cbCaeTsR91kQijbmwEZZkAXoAcJLN9TL-1QXgDp2imACzoFIAOepjA4ylxcAA)]
+- [主旋律 TMD 檔案](chikuonki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5akJmfk5efkp1eiy-SWFmcmK3FpaSm8mNzycv7mZyvnv9_T8XzqzBeNm8DsTgUtLS5FWwVDAwsue1sFZy4bI30TO5ApL9p3PW9c_AyotGnTsznNT1vXvFjV-7ih79m0DU_XzXraOun56qVPp2x8trbncUP_0w3dT3fseL584vM1a57s6Hy6dsfTnVueT1kBsgwm8mzO_MfNu4Fcs5fLpgFtBrv16Zzu56u7oXat3f60f9PT3lnPO1e-XLLiaeuOF9P7gSZAGC9mAp07CxQfesD40APFB5BhYAw2iUtfS8GWWoBLQUHhccOEZ7M3PZ-97sWqVc9m9D1umAgWbd79tH3Xi5lTgS7BET6NQPGnPdOBofRy9YynC5qez9zzYiEwiLqwhVs3nnB7NmPt00k9ZkD--z39hpbGhmBW5_s9PSCXKCgghyuQrWCmAAzWxw0d8Ih-3ABUjBLXQL1P--Y_m70DpN7YROHlgkaQRX3Nz_r7n62aohBgYGqul1WQDlT6uKEJ6uEXK-cBQwLk4Ymzgbpf7p0E1ANhP26c_rhx0uOmbqCGJ3vnAFUCnfpsUePzKRtebJqnABQC6kQyadX-Zw3LX3S0P-vuhcTm4-Z-oCDQPGeFp0uWg5kgRwKToAJQDZD1smH-013Lnq2Y-XzJrscNPY-blz1uWv-4ef3jpiWPm7sfNwDVdEBSL6qbm3uezVwPsmn2ppeLgKE5C-jDp-tXP127EhT6G3qRQgURYEAjns9qebp079Ol7UC9L1fOejqjDaR3zorn6zYCRYBufDqt_Wn_2mfbNwITwfPV85-3bHvatBmYJp6u63-yax1QOzBegSYjYqll4YvV055NWvtsyr6nS2Y93TDx2ZqFL5v3PtnRC0w0z7esB6p8sW7yk127gCLPlzVCbAd69fnKbUDzn81Y_2LVhqdzVrxYvPDl3EWQdPN04qL3e4DRC0xtMA8_7-x4NgeYAEFpFeziNcD4fLaw43nTLkiMP522Duisl80rnuya8nz7rBdr5wB9_nJmy_Plu592T1VwyVd4Oavv6YTe553tTxvbgQxQlO7sfrp_wdP1y55N3fFkb-_TnmkQa0DWQvMIxHCQn1fOe9q64tk0UMA92bEWxFg178Xa9cCMA8rBG3qftXcipy-wAU92NDxuaACGLVDJ48b1jxsng2KxcR3QALDIqseNoKQFJB83AWO3AajgcdPEx409wAAHK1gOkm3qhgTCysfNLY-bgdLrHjd2PW7sJ05bY9Pjph4YOetx04THjdseN00GagPGNlg10KzdYFf0gl0ENqupA6J5AVhbDzAAwErbHjeCUtHjxiWPG5eBbAYa19QNdtHyx42zgQpA2kBpDhw4wJh6um8e0P9P106ARjA4MT3Z1QaKrPmbQRl23zzkNIehYPbTyX1PJzYA0fM5oOQCT4gQBU-ndgENIZiY4DGyC1gqAQOsBRx-K0FB2AgMOWCuayImICeDQ2g1MOSgoYWqB64UyVR0G4AhB4y2HrAUMMBmAY1DCWpIIJMQwrhyICj7zdwDKs5hQQ3hvmxa_HLXHrRgBIYz0ARgsD_t7wAynvbuBqbdl7vnPdk5H5hvXyzb9XTfdEhmJiqogU6kvJqCAgUtfS4u54zM7NL8vOxMq4DMxLx8hxqDGoVqcAlkY6FlB2ZgqyEhlUjDs3VbFTRMFJ5u6H--vkEHnk1BsgqGCsDqSxOLVqC1UGOBJlgB818_KJqaNgNZfUBWDZDuAvJXQ3DzSpAIUBaUUzcCWWvArHawutXgohIEkAzd1QM0tLEFHPf9QLwSYmhjNxBPBOJlQEOawCKTwRaDxHrAqpeDrepGN7RGQcNQQVdXwUhTVUNXV1PBWEEXKGYKhMZAX4Jk40DS5lBpDTMQzzAOygWp1AVCA4UacE7BHZ67evCFpxHR4Qksz5qBFNBfsABtWgX26XrKghSUT4HUKiAGqQKFYBc43HYDcS9YhqRQBYYTEJsiQtAMGmSggAUKGoHDERaqYJ4xPFCBXKICdUcnvkA1JjZQmxYBw2YNnAb5aBeQtQGIpwHxZmgoP26eDaTXgpMwJIzBIdy8Alt4YiZITJElENGmHrgI0ILGWdAoQCRQUJpEpFBDYPDgFzSFCkLCHxj8QGRGODifzp6NLzhNiE6jDeAkBwpQUOIDBdUycLLZD0m7beC0CApdUHrtg6XOpt0QdViT5wKwAcCAAqc7UFC1gdMfsMxfDA5TkAETwEkRWOzDEia46EdPmaAcC8nbkJABpVNIjkcLU6ACeDqs5eLStVOAF6ggjjIXFwA)]
+- [鋼琴伴奏 TMD 檔案](chikuonki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxueXl_M3PVs5_v6fj-dSZLxo3AdmPm3e_7N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwsue1sFZy4bI30TO646BaUX7bueNy5-BtTctOnZnOanrWterOp93ND3bNqGp-tmPW2d9Hz10qdTNj5b2_O4of_phu6nO3Y8Xz7x-Zo1T3Z0Pl274-nOLc-nrABZDxN5NgfkAiDX7OWyaUCblUC2PJ3T_Xx1N9Sutduf9m962jvreefKl0tWPG3d8WJ6P9AECOPFTKBnZhkZGBnoGRiY6RlYmJgDGQbGYJO49LUUbKkFuBQUFB43THg2e9Pz2eterFr1bEbf44aJYNHm3U_bd72YORXoEhzh0wgUf9ozHRhKL1fPeLqg6fnMPS8WAoOoC1u4deMJt2cz1j6d1GMG5L_f029oaWwIZnW-39MDcomCAnK4AtkKZgrAYH3c0AGP-scNQMWI2Ifofdo3_9nsHSD1xiYKLxc0gizqa37W3_9s1RSFAANTc72sgnSg0scNTVAPv1g5DxgSIA9PnA3U_XLvJKAeCPtx4_THjZMeN3UDNTzZOweoEujUZ4san0_Z8GLTPAWgEFAnkkmr9j9rWP6io_1Zdy8kNh839wMFgeY5KzxdshzMBDkSmAQVgGqArJcN85_uWqYASaAIk55vXwE0GRI1QN2YqRpoNiSUDPUUnnb2AsUVNDzzSorydRRMFJ5u6H--vkETqObpnqnAwAaGxtPZs5-t2_q4oedx44LHTUCyBxQ_jUseNy573DQB6MPHjeseNy5_3Dj7cWPb44beJ_v7n89a92LP1Kf7Vz-f1fJ864SnG_Y9W9H0tH_py2ndTxdsgbpVQcFIT-HJjt1A0yDOU9BwzsjMLs3Py87UUTA0g7pF4fB0BSMFoAvAjurf_Kyz-9meKUDlT1tbn-3eD0wxL7YtBgbc070dwBAEWvhsevfTfcBg73m6fRlQ8ZPdS59t2f1s70Sg1NPW1U872oBJ4PmaZUDGi-WLgcno6Z5lEPuh7qI8k0CBgpY-Fxc4ZK0CMhPz8oM8HGoMahSqwZ63sdCyAzNqFEwVdBWMgWSNgoZhnIKuroKppqqGrq4mUFAXLG0CZBkBWYZAvq6CgUINVy2KwT44DDaMV4g2jFUwhVCYfBDDFMIHUnB5EIZaAo8QfD7AVr5AsmADMNoUNGCpSgeeiUCyQN8AM78mFq3AYIMaCzTBCpim-0Epu2kzkNUH9tfj5i4gfzUEN68EiQBlQal_I5C1BsxqB6tbDU5nIIBk6K4eoKGNLSBljf1AvBJiaGM3EE8E4mVAQ5rAIpPBFoPEesCql4Ot6kY3FBRxoHgzQos3UyDLEBGt5lBpDTMQzzAOyoUkAEi84g_PXT34wtOI6PBc-bi5GUgB_QUL0KZVYJ-upyxImx43TQZSq4AYpAoUgl3gcNsNxL1gGZJCFRhOQIyUMcygQQYKWKCgETgcYaEK5hnDAxXIJSpQd3TiC1RjYgO1aREwbNbAaZCPdgFZG4B4GhBvhoby4-bZQHotOAlDwhgcws0rsIUnZoLEFFkCEW3qgYsALWicBY0CRAIFpUlECjUElyf4BGFlECT8gcEPRGaEgxNSWeAMThOi02gDOMmBAhSU-EBBtQycbPZD0m4bOC2CQheUXvtgqbNpN0Qd1uS5AGwAMKDA6Q4UVG3g9AesqxeDwxRkwARwUgRWabCECa7W0FMmpMgG5W1IyIDSKSTHo4UpWqGNVp5iL7iJLU_xhCPOst8ESJng4QPVk1wO4XUH1AKo8XA-3F4jIMMoNxZOI9dKJGdeckIEzjcDMsyALkAPElh1SFK6p8glhOtlXTsFcP2vAGTA0xQGR5mLCwA)]
 
 ## 分析
 
@@ -89,8 +89,8 @@ G4 E2 G2 | c3 G E4 | G2 F2 E2 D2 | C6 z2 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  C, G, E, D, A
-   - 調性數值:    C 大調 [相關度: 0.88, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.88), G 大調 (0.76), E 小調 (0.64)
+   - 調性數值:    C 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.88), G 大調 (0.70), A 小調 (0.65)
    - 五度圈歷程:   +0
    - 各段落調性細節:
      • [Chikuonki #1]: C 大調 (r: 0.88, 自然音純度: 100.0%)
@@ -106,18 +106,18 @@ G4 E2 G2 | c3 G E4 | G2 F2 E2 D2 | C6 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  25.0%
+     C  : ████████████████████████  29.2%
      C# :                            0.0%
-     D  : █████████████████         17.5%
+     D  : ██████████████            16.7%
      D# :                            0.0%
-     E  : ██████████████████        19.2%
-     F  : ██                         1.7%
+     E  : ████████████████          19.2%
+     F  :                            0.0%
      F# :                            0.0%
-     G  : ██████████████████████    22.5%
+     G  : █████████████████         20.8%
      G# :                            0.0%
-     A  : ████████████              12.5%
+     A  : ███████████               13.3%
      A# :                            0.0%
-     B  : ██                         1.7%
+     B  : █                          0.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 50 個音符)
