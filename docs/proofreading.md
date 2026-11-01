@@ -9,7 +9,7 @@
 1. **調號、拍號與速度**：核對原書掃描頁的調號（`?=`）、拍號（`<...>`）與速度標示（`!=`）。
 2. **主旋律音高與節奏時值**：對照原書簡譜／五線譜與頁面渲染出的 ABC 五線譜，確認有無音高誤判、附點遺漏、連音線或休止符時值錯誤。
 3. **小節數與結構**：透過 `tmd inspect` 確認小節數、弱起拍（Pickup）及反覆記號與原譜一致。
-4. **歌詞與歷史假名**：確認日文片假名／平假名／漢字轉錄無誤。
+4. ** 歌詞與歷史假名**：確認日文片假名／平假名／漢字轉錄無誤。
 5. **鋼琴伴奏與音訊試聽**：確認 `*_piano.tmd` 伴奏聲部與主旋律和聲協調、無多餘重複播放或拍數錯位，並更新 `.abc` 與 `.mp3`。
 
 ## 各冊校對進度總表
@@ -164,8 +164,8 @@
 - [x] **1-05 蝶**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_05_cho/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_05_cho/cho.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_05_cho/cho_piano.tmd)
 - [x] **1-06 鯉のぼり**（`D` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/koinobori.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/koinobori_piano.tmd)
 - [x] **1-07 かみなりさま**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_07_kaminarisama/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_07_kaminarisama/kaminarisama.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_07_kaminarisama/kaminarisama_piano.tmd)
-- [ ] **1-08 虹**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/niji.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/niji_piano.tmd)
-- [ ] **1-09 長いお休**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/nagai_oyasumi.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/nagai_oyasumi_piano.tmd)
+- [x] **1-08 虹**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/niji.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/niji_piano.tmd)
+- [x] **1-09 長いお休**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/nagai_oyasumi.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/nagai_oyasumi_piano.tmd)
 - [ ] **1-10 夏の歌**（`G` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_10_natsu_no_uta/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_10_natsu_no_uta/natsu_no_uta.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_10_natsu_no_uta/natsu_no_uta_piano.tmd)
 - [ ] **2-01 蟲の樂隊（蟲之樂隊）**（`E` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_01_mushi_no_gakutai/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_01_mushi_no_gakutai/mushi_no_gakutai.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_01_mushi_no_gakutai/mushi_no_gakutai_piano.tmd)
 - [ ] **2-02 八岐の大蛇（八岐大蛇）**（`F` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_02_yamata_no_orochi/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_02_yamata_no_orochi/yamata_no_orochi.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_02_yamata_no_orochi/yamata_no_orochi_piano.tmd)
