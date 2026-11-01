@@ -1,7 +1,7 @@
 ---
 title: "取入れ（秋收） — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "取入れ（秋收）"
-description: "〈取入れ（秋收）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　春（はる）のたがやし　鋤（す）きならし 夏（なつ）の植付（うゑつけ）　田草取（たぐさとり）…"
+description: "〈取入れ（秋收）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（2020.006.0847.0003）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　春（はる）のたがやし　鋤（す）きならし 夏（なつ）の植付（うゑつけ）　田草取（たぐさとり）…"
 keywords: "取入れ（秋收）, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（2020.006.0847.0003）"
@@ -62,23 +62,23 @@ audio: "toriire.mp3"
 ```abc
 X:1
 T:取入れ（秋收）
-M:2/4
+M:4/4
 L:1/16
 Q:1/4=116
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A4 G2 F2 | c3 d c2 A2 | F2 A A G2 F2 | G4 z4 |
-F2 F2 G2 A2 | c3 d c2 A2 | F2 A A G2 F2 | F4 z4 |
-C2 D2 C2 F2 | c2 d3 c F2 | G2 A G F2 G2 | A4 z4 |
-d2 c2 d2 c2 | A2 A2 c4 | A2 A2 G2 F2 | F4 z4 |
-C2 D2 C2 A2 | c6 d2 | c2 A2 G4 | F4 z4 |
+A8 G4 F4 | c4 d2 c2 A4 F4 | A4 A4 G6 F2 | G12 z4 |
+F6 F2 G4 A4 | c4 d2 c2 A4 F4 | A4 A4 G6 F2 | F12 z4 |
+C6 D2 C4 F4 | C6 D2 C4 F4 | G4 A2 G2 F6 G2 | A12 z4 |
+d6 c2 d4 c4 | A6 A2 c8 | A4 A4 G6 F2 | F12 z4 |
+C6 D2 C4 A4 | c12 z4 | d6 c2 c4 A4 | F12 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](toriire.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5bnFwGt1dJSeNo_7Wnr0sdNPe_3dDxf3v1syrb3ezoVtLS4FG0VDA3NuOxtFdy4bIz0TexAJrxo3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzf0PZu24em6WU9bJz1fvfTplI3P1vY8buh_uqH76Y4dz5dPfL5mzZMdnU_X7ni6c8vzKStANgFFdvUARZ7Nmf-4eTeQa_Zy2TSgzWB3Pp3T_Xx1N9Sutduf9m962jvreefKl0tWPG3d8WJ6P9AECOPFzPnv98wChbgeMMT1QCEOZBgYg03i0tdSsKUW4FJQUHjcMOHZ7E3PZ697sWrVsxl9jxsmgkWbdz9t3_Vi5lSgS3CETyNQ_GnPdGAovVw94-mCpucz97xYCAyiLmzh1o0n3J7NWPt0Uo8ZkP9-T7-hpbEhmNX5fk8PyCUKCsjhCmQrmCkAg_VxQwc8lh83ABUjIhqo8Wnf_Gezd4AUGxkovFzQCLKlr_lZf_-zVVMUAgxMjPWyCtKBSh83NKH4FqxvE9DPz6a1v2xe8XxOI8QDQP2GloYghwH9B_HK0w39IE_A_Ad3JMTxCINfrNr_rGH5i472Z929kJh93DwDKAg00k3h6ZLlYCbIzcDkqABUA0oGYNc_7Vz_bMXMlwt7Xqxa8mxJ7_OmXY8beh437gBqeDp7NlDl07UTHjcA1fc82TXl-fZZL9bOgVgBtAvouOfrG4CCT9cvA2pUgJuNCNWXDfOf7loGtOH5EpDBT9d0Pm7a_rhp0-PmbgVINgEajuSN5p5nM9eDvDF708tFwGibBfT3i5ULns1Y-qJhKjA1PF3S_6JhBiig-yc9Xw7y8MuZS170Ai3sfLKj98W-tS_2zX7aPQ8UOR0bnuxqA0bX0yUrn6_Y_Xzl9OdbJ4AcuqsXiEBGta54um7bs7ULn06bA4zSp52bni5oe7F1-_OVDU83bkT4YG_Xi8ZNIGUT9wB98GLjBFD8NC563NTyuKHh2e79T_bOgXF7n89qebFvE9BYoDKgmU92dj9b0YTw3vPOjmdzgOkalAVAfpuzBphSni3sAAYeNDamrQNaBkwT8MAGevXlzJbny3c_7Z6q4JKv8HJW39MJvc872582tgMZIH_v7H66fwHQZ8-m7niyt_dpzzSINSBroVkPYjg4KOcBvQ1MdsCAe7JjLYixat6LteuB-RGUIjb0PmvvRE65YAOe7GgA-XTGUqCSx43rHzd1g5Je47rHjfMfN_aAPN44HajgZfcSsIKZYNnex42rHjcBGdNBRgCjDSy36nEjUBFIMzCtPdkNisjHjW2PmyYCxR83At0ATNINz6dsAMYoMN-BZYF2THjcOPVx44rHTV0gJ4HiZNWKF7tWP2sGhc7jxt2PG9c-btz_uGkS2Ojpjxv3PW4Eer_haTMonYOcDDQF5BZQcD1uXA0yApgeIJohQqhcYAYAWgj013yQc1YABYFSQO5aiNuBufjJvjaw4HKIoSATISkD5qI2kKOaJoM1oKQVsIJ9QCmwHcBggSoAGQGUg8QHKHHMWApKucAE1TAVqO1ZV9fTOfOfztnwvKvx6c7NoAS-pB-iAJ4VgAH3ctpkWIaY_Wzt4qezFwDTFjBnAMMKkjOAJjztXvKsvf3p9qVg1_RAMseTHV1P-zteTusGeg7oUCCCiIMy_u4uUCm6YjewKHg5dfvTfdOfA12ydO_7PY3PZqyHePvpVGDc9AC5oLIGnPbBIsAiEZqGdgGLr4Zn05cCy2BwCGx63NQBiVBw1C8Fp5h14HS2AqgMaCeQBKsEizduBSYPIAkN62f9zWC5uY-bIHEKlJ7_YtkqoAvB4l3gVAkOfWAyaG15ugdYJALFm4BRDZIFJaa5ULOednSA5SCpGuiWZc_mQlQDk94GsCAwJrtBBu0EFtrwRAJMZ8uedQILCqAIJJ77wclgGdAgoBCovAVqA0YIJMZh6QySJMG5oKkJYu7zjUBZYGgAXQfWBUxhoAIIKAL0BEgjInlhLXgwk84KYMoARduSlS8bFr-YOB0YW0D2sw2LQfHdse3ZelCx_nTpZlAhDg4dUGE4eSGwzAQWd8CkAywMn-zohkT5s962Zx0TgGECLDOfzV7zZOe-p229L1pWP98EzG89L_Z2Pp-zB-jLJ_v2Q8pPYHHxdNdycOoBFaTAYoj4VLIDnP-nLoNFFjB9goNjQ_9LUBiDQhqU0xsXQkughgagbU_2gAovUJICRSswyGZCwhEcuZNaYEUAsOwBpmaQtucr1sHiF5KjgeVfw5P9W4EFKEwcWMoBxbsfN86CGgQ2GFguLHvc1AjO9kBF_SDHIkdo435gNoK4HcydBIxfsCvAbQiwBKgUA5Yl4OgH1nVAdUDBlbCiCZwBVkAEgRYAnQlJaFOBuYXERPB0zgpgefB0fhMw8F5sXw902LO17U_7F0MSwYtGUOIAlS4rNwIrf1ClAIyk5r0vFs99umTW0w0TgUXIi0XdQAXPNwILm9nwaAZVhEtWAqtMYEECbJGBG2WgWAclLHDTCOgnUKNgznxQNO9fDfQNJI6JSgRAP1De3oQCBS19Lq4QYEM_syjVKiAzMS_focagRqEaXK3bWGjZgRnYGrrgtuCOhmfrtipomChAWjk68GoRJKtgqABshWpi0Qq0FGos0AQrBWBKAieebiBrnUINkJwP4jf2AJsDe0CJCiw2HYhnAnEvEK8CinZCRWEAamiNgrGCroIR0PIaBQ1TBV1dBTNNVQ1dXU0FU6BMDVBcw1jBGCSkCVVlBFRvAMQ14OyF27O7evB51ohozwIdD_JW4xK4d9vA3p8IFweJAXnAYADW60A8FYhXgESbujC9awiERmCvEeddQyK9u6MTn3eNifbubqi31gLxfrAnJkHjDVhuA_EasHfXQ7wLju9OcCyDRFdjetc0XsEsHkSC_GKqoGEG8rMp1M-Q6AT62AjiY1DIQBIEET4GNeXx-NiEFB8DXQ6he8D-AEVgCzRdgzwB4YFCZB0QL4eK9WL61gzoRRAGecIYSAM9AWaRFpW7puDzmClJHmuDOLxpMtjJoEIV4mRQZIIidzLUu_1wryLUYItGUCIF-QuYcMEskN9AvkT4rZaLS9dOAVpIgZjKXFwA)]
-- [鋼琴伴奏 TMD 檔案](toriire_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjaP-1p69LHTT3v93Q8X979bMq2x827X3bveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoaEZl72tghuXjZG-iR1XnYLSi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9-zaRuerpv1tHXS89VLn07Z-Gxtz-OG_qcbup_u2PF8-cTna9Y82dH5dO2Opzu3PJ-yAmQ3UGRXD1Dk2Zz5QBcAuWYvl00D2qwEsuXpnO7nq7uhdq3d_rR_09PeWc87V75csuJp644X0_uBJkAYL2bOf79nlpGBkYGegYGZnoGFiTmQYWAMNolLX0vBllqAS0FB4XHDhGezNz2fve7FqlXPZvQ9bpgIFm3e_bR914uZU4EuwRE-jUDxpz3TgaH0cvWMpwuans_c82IhMIi6sIVbN55wezZj7dNJPWZA_vs9_YaWxoZgVuf7PT0glygoIIcrkK1gpgAM1scNHfB4f9wAVAyNeojGp33zn83eAVJsZKDwckEjyJa-5mf9_c9WTVEIMDAx1ssqSAcqfdzQhOJbsL5NQD8_m9b-snnF8zmNMA_A1L1Ytf9Zw_IXHe3PunshEfW4eQZQEGiDm8LTJcvBTJATgKlLAagGyHrZMP_prmUKkLSHMOn59hVAuyChDtSNmWCBZkMCwFBP4WlnL1BcQcMzr6QoX0fBROHphv7n6xs0gWqe7pkKDEdwIE15tm7r44aeFxsnAIPwceOix00tjxsanu3e_2TvHBi399nahc9atwHVAEPr-awWoO1Pdq17tqLpaf_Sl9O6ny7YAnWigoKRnsKTHbuB3oe4SkEjJL8oM7MoVQcUqhAHKByermCsALQW7JL-zc86u5_tmQJU_LS1FWjvi32bnq7b9nTanGdNrUC7XuyZ-nT_6mfTu5_u6wbF0vZlQPVPdi99tmX3s70TgQqetq5-2tH2cv7m52uWAdPE0z3LIFZDnUR5iocCBS19Li5wWFoFZCbm5Qd5ONQY1ChUg_1tY6FlB2bUKJjGK5jFg0hjEEdBFwjNwCxjBSMgu0bBEEgagFhctSgG-uAw0DBeIdowFmQiiILzTYCUCRIfJG-KxIdbAY0BfK7GVkCA89COBmA8KWjA0w4WZcBggbjTGGihEdB3NQoaQG8Dfa2pqqGrqwn2OcjXGsYKxiAhTagqUGhAHInfDbt6iHeDIRAage0jzg2IuCAQDp3EuwGeAEAWmCpomIEcYgp1CMTjQGcYQZwBci4k6IhwxtPZs4l3hhnQbhAGmW4MTogQFmkeB5cPpHqcqJSPkiyxp32qJEsc2QfOh-YjqDDYF6B8RPWUSZwzsOdi6iVOHM4Axlu0WS6S98lwB0mpE-pdbIUYpcFBSpKltGzVtVMAl-AKQAY0QeNmKnNxAQA)]
+- [主旋律 TMD 檔案](toriire.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5bnFwGt1dJSeNo_7Wnr0sdNPe_3dDxf3v1syrb3ezoVtLS4FG0VDA3NuOxtFdy4bEz0TexAJrxo3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzf0PZu24em6WU9bJz1fvfTplI3P1vY8buh_uqH76Y4dz5dPfL5mzZMdnU_X7ni6c8vzKStANgFFdvUARZ7Nmf-4eTeQa_Zy2TSgzWB3Pp3T_Xx1N9Sutduf9m962jvreefKl0tWPG3d8WJ6P9AECOPFzPnv98wChbgeMMT1QCEOZBgYg03i0tdSsKUW4FJQUHjcMOHZ7E3PZ697sWrVsxl9jxsmgkWbdz9t3_Vi5lSgS3CETyNQ_GnPdGAovVw94-mCpucz97xYCAyiLmzh1o0n3J7NWPt0Uo8ZkP9-T7-hpbEhmNX5fk8PyCUKCsjhCmQrmCkAg_VxQwc8lh83ABUjIhqo8Wnf_Gezd4AUGxkovFzQCLKlr_lZf_-zVVMUAgxMjPWyCtKBSh83NKH4FqxvE9DPz6a1v2xe8XxOI8QDQP2GloYghwH9B_HK0w39IE_A_Ad3JMTxCINfrNr_rGH5i472Z929kJh93DwDKAg00k3h6ZLlYCbIzUb6JgpANaBkAHb90871z1bMfLmw58WqJc-W9D5v2vW4oedx4w6ghqezZwNVPl074XEDUH3Pk11Tnm-f9WLtHIgVQLuAjnu-vgEo-HT9MqBGBbjZiFB92TD_6a5lQBueLwEZ_HRN5-Om7Y-bNj1u7laAZBOg4UjeaO55NnM9yBuzN71cBIy2WUB_v1i54NmMpS8apgJTw9Ml_S8aZoACun_S8-UgD7-cueRFL9DCzic7el_sW_ti3-yn3fNAkdOx4cmuNmB0PV2y8vmK3c9XTn--dQLIobt6gQhkVOuKp-u2PVu78Om0OcAofdq56emCthdbtz9f2fB040aED_Z2vWjcBFI2cQ_QBy82TgDFT-Oix00tjxsanu3e_2TvHBi39_mslhf7NgGNBSoDmvlkZ_ezFU0I7z3v7Hg2B5iuQVkA5Lc5a4Ap5dnCDmDgQWNj2jqgZcA0AQ9soFdfzmx5vnz30-6pCi75Ci9n9T2d0Pu8s_1pYzuQAfL3zu6n-xcAffZs6o4ne3uf9kyDWAOyFpr1IIaDg3Ie0NvAZAcMuCc71oIYq-a9WLsemB9BKWJD77P2TuSUCzbgyY4GkE9nLAUqedy4_nFTNyjpNa573Dj_cWMPyOON04EKXnYvASuYCZbtfdy46nETkDEdZAQw2sByqx43AhWBNAPT2pPdoIh83Nj2uGkiUPxxI9ANwCTd8HzKBmCMAvMdWBZox4THjVMfN6543NQFchIoTlateLFr9bNmUOg8btz9uHHt48b9j5smgY2e_rhx3-NGoPcbnjaD0jnIyUBTQG4BBdfjxtUgI4DpAaIZIoTKBWYAoIVAf80HOWcFUBAoBeSuhbgdmIuf7GsDCy6HGAoyEZIyYC5qAzmqaTJYA0paASvYB5QC2wEMFqgCkBFAOUh8gBLHjKWglAtMUA1TgdqedXU9nTP_6ZwNz7san-7cDErgS_ohCuBZARhwL6dNhmWI2c_WLn46ewEwbQFzBjCsIDkDaMLT7iXP2tufbl8Kdk0PJHM82dH1tL_j5bRuoOeADgUiiDgo4-_uApWiK3YDi4KXU7c_3Tf9OdAlS_e-39P4bMZ6iLefTgXGTQ-QCyprwGkfLAIsEqFpaBew-Gp4Nn0psAwGh8Cmx00dkAgFR_1ScIpZB05nK4DKgHYCSbBKsHjjVmDyAJLQsH7W3wyWm_u4CRKnQOn5L5atAroQLN4FTpXg0Acmg9aWp3uARSJQvAkY1SBZUGKaCzXraUcHWA6SqoFuWfZsLkQ1MOltAAsCY7IbZNBOYKENTyTAdLbsWSewoACKQOK5H5wMlgENAgqBylugNmCEQGIcls4gSRKcC5qaIOY-3wiUBYYG0HVgXcAUBiqAgCJAT4A0IpIX1oIHM-msAKYMULQtWfmyYfGLidOBsQVkP9uwGBTfHduerQcV60-XbgYV4uDQARWGkxcCy0xgcQdMOsDC8MmObkiUP-tte9YxARgmwDLz2ew1T3bue9rW-6Jl9fNNwPzW82Jv5_M5e4C-fLJvP6T8BBYXT3ctB6ceUEEKLIaITyU7wPl_6jJYZAHTJzg4NvS_BIUxKKRBOb1xIbQEamgA2vZkD6jwAiUpULQCg2wmJBzBkTupBVYEAMseYGoGaXu-Yh0sfiE5Glj-NTzZvxVYgMLEgaUcULz7ceMsqEFgg4HlwrLHTY3gbA9U1A9yLHKENu4HZiOI28HcScD4BbsC3IYAS4BKMWBZAo5-YF0HVAcUXAkrmsAZYAVEEGgB0JmQhDYVmFtITARP56wAlgdP5zcBA-_F9vVAhz1b2_60fzEkEbxoBCUOUOmyciOw8gdVCsBIat77YvHcp0tmPd0wEViEvFjUDVTwfCOwsJkNj2ZQRbhkJbDKBBYkwBYZuFEGinVQwgI3jYB-AjUK5swHRfP-1UDfQOKYqEQA9APl7U0oUNDS5-IKATb0M4tSrQIyE_PyHWoMahSqwdW6jYmWHZiBraELbgvuaHi2bquChokCpJWjA68WQbIKhgrAVqgmFq1AS6HGAk2wUgCmJHDi6Qay1inUAMn5IH5jD7A5sAeUqMBi04F4JhD3AvEqoGgnVBQGoIbWKBgr6CoYAS2vUTBV0DBTMNVU1dDVBIqCRIyBUMNIQVdXwRAkDBSvAarVBUIDhRpw9sLt2V09-DxrRLRngY4HeatxCdy7bWDvT4SLg8SAPGAwAOt1IJ4KxCtAok1dmN7VUDBE8o4R0IPEetyQSI_v6MTncWOiPb4b6sG1QLwf7J1J0BgEluBAvAbs8fUQj4NjvhMc3yDR1Vg8bhoP8o9ZPNRDQC7IpziEjRQ0jBWMIEGiAfQ5MI3AAwKUYogICFBbH09AmJASEEAPQegesPdAMdwCTfggv0F4oIBaB8TLoWK9WALBDOgVcEwDfQKMc5AQ0Du6CsYw7wN9Rln075qCz9emJPm6DeKrpslg_4CKZIh_QAkAlCAmQ8OiHx4OCDX4ox6S7KE-ggQLJAeAwwAki_BvLReXrp0CtNgDMZW5uAA)]
+- [鋼琴伴奏 TMD 檔案](toriire_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjaP-1p69LHTT3v93Q8X979bMq2x827X3bveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoaEZl72tghuXjYm-iR1XnYLSi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9-zaRuerpv1tHXS89VLn07Z-Gxtz-OG_qcbup_u2PF8-cTna9Y82dH5dO2Opzu3PJ-yAmQ3UGRXD1Dk2Zz5QBcAuWYvl00D2qwEsuXpnO7nq7uhdq3d_rR_09PeWc87V75csuJp644X0_uBJkAYL2bOf79nlpGBkYGegYGZnoGFiTmQYWAMNolLX0vBllqAS0FB4XHDhGezNz2fve7FqlXPZvQ9bpgIFm3e_bR914uZU4EuwRE-jUDxpz3TgaH0cvWMpwuans_c82IhMIi6sIVbN55wezZj7dNJPWZA_vs9_YaWxoZgVuf7PT0glygoIIcrkK1gpgAM1scNHfB4f9wAVAyNeojGp33zn83eAVJsZKDwckEjyJa-5mf9_c9WTVEIMDAx1ssqSAcqfdzQhOJbsL5NQD8_m9b-snnF8zmNMA_A1L1Ytf9Zw_IXHe3PunshEfW4eQZQEGiDm8LTJcvBTJATjPRNFIBqgKyXDfOf7lqmAEl7CJOeb18BtAsS6kDdmAkWaDYkAAz1FJ529gLFFTQ880qK8nUUTBSebuh_vr5BE6jm6Z6pwHAEB9KUZ-u2Pm7oebFxAjAIHzcuetzU8rih4dnu_U_2zoFxe5-tXfisdRtQDTC0ns9qAdr-ZNe6ZyuanvYvfTmt--mCLVAnKigY6Sk82bEb6H2IqxQ0QvKLMjOLUnVAoQpxgMLh6QrGCkBrwS7p3_yss_vZnilAxU9bW4H2vti36em6bU-nzXnW1Aq068WeqU_3r342vfvpvm5QLG1fBlT_ZPfSZ1t2P9s7Eajgaevqpx1tL-dvfr5mGTBNPN2zDGI11EmUp3goUNDS5-ICh6VVQGZiXn6Qh0ONQY1CNdjfNiZadmBGjYJpvIJZPIg0BnEUdIHQDMwyVjACsmsUDIGkAYjFVYtioA8OAw3jFaINY0Emgig43wRImSDxQfKmSHy4FdAYwOdqbAUEOA_taADGk4IGLO3owDMCSBboE2Du1cSiFRhUUGOBJlgpPG5cD0q_Td1A1jqgCx83zgfxG3uAaXoPULwFLDYdiGcCcS8QrwKKdkJFYQBqaA0wIHWBQWkIDlQNMwVTTVUNXU2gKEjEGAg1gOGsq2AIEgaK14CDHRTkNVz4PburB59njYj2LNDxIG81LoF7tw3s_YlwcZAYkAcMhseNE4B4KhCvAIk2dWF6V0PBEMk7RtB0RYzHQSmNGI_v6MTncWOiPb4b6sG1QLwf7J1J0Bh83LgPiNeAPb4e4nFwzHeC4xskuhqLx4FJGugfs3ioh4BckE9xCBspaABzGCRINIA-B6YReECAUgwRAfF09mx8AWFCSkAAPQShe8DeA8VwCzThg_wG4YECah0QL4eK9WIJBDOgV8AxDfQJMM5BQkDv6CoYw7wPLlQoiX5wHYDT16Yk-boN4qumyWD_gKoPiH9ACQCUICZDw6IfHg4INfijHlGcAn0ECRZIDgCHAUgW4V_0Ug970UpsqYfH8zhLZzgfWkxDhcHVA6iYhpTOJJVH1HAG9kqCpNKBHGcAK8Ros1wk75PhDvTMidcdUO9iqyMpDQ603EJOcBBddevaKYAbCApABjRB42Yqc3EBAA)]
 
 ## 分析
 
@@ -86,21 +86,21 @@ C2 D2 C2 A2 | c6 d2 | c2 A2 G4 | F4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 取入れ（秋收） ]
 ================================================================================
-⏱  Duration:       0:20 (20.7s), 20 measures total
-🎼 Key & Tempo:    首調基準 F, != 116.0 BPM, <2/4>
+⏱  Duration:       0:41 (41.4s), 20 measures total
+🎼 Key & Tempo:    首調基準 F, != 116.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Toriire #1 @ m.9, 0:08]
-   - 最高音: D5 in [Toriire #1 @ m.2, 0:01]
+   - 最低音:  C4 in [Toriire #1 @ m.9, 0:16]
+   - 最高音: D5 in [Toriire #1 @ m.2, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Toriire (20.7s)
+🏛  結構:      Toriire (41.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, F, A, G, D
-   - 調性數值:    F 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.86), C 大調 (0.77), A 小調 (0.69)
+   - 核心骨幹音:  F, C, A, G, D
+   - 調性數值:    F 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.86), C 大調 (0.72), A 小調 (0.72)
    - 五度圈歷程:   -1
    - 各段落調性細節:
      • [Toriire #1]: F 大調 (r: 0.86, 自然音純度: 100.0%)
@@ -116,16 +116,16 @@ C2 D2 C2 A2 | c6 d2 | c2 A2 G4 | F4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  26.4%
+     C  : ███████████████████████   25.0%
      C# :                            0.0%
-     D  : ██████████                10.7%
+     D  : ████████                   8.8%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ██████████████████████    24.3%
+     F  : ████████████████████████  25.7%
      F# :                            0.0%
-     G  : ███████████████           16.4%
+     G  : ███████████████           15.5%
      G# :                            0.0%
-     A  : ████████████████████      22.1%
+     A  : ███████████████████████   25.0%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
