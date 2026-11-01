@@ -23,7 +23,8 @@ audio: "yubinbako.mp3"
 ## 說明
 
 原書資訊與歌詞全文（對應 P074.jpg，書頁 p. 51，補充教材第 13 首）：
-調性與拍號：に短調二拍子（D 小調 / 關係大調 F 大調 2/4 拍），♩=100
+調性與拍號：に短調二拍子（D 都節／陰音階 6_ 7_ 1 3 4 6，調號 1♭ ?= F，2/4 拍）
+（原書左上角有楊金土鉛筆批註：「4/8 ニ歌フ」）
 
 ## 歌詞
 
@@ -59,16 +60,16 @@ Q:1/4=100
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-D2 D3 E F A | A B A F A4 | B B d B A2 F2 | A8 |
-B,2 D2 B,4 | A,4 F,4 | E, E, D, E, F,2 E,2 | D,8 |
-D2 B, A, F,4 | A,2 F,2 ^C,4 | F2 ^C2 A2 F2 | ^C2 D2 C4 |
-D D ^C2 F2 A z | B2 A2 F2 z2 | d2 B2 A2 F2 | ^C2 F C D2 z2 |
+D4 D2 E F | A2 B A F2 A2 | B B d B A2 F2 | A8 |
+B4 d2 B2 | A4 F4 | E E D E F2 E2 | D8 |
+d2 B2 A2 F2 | A2 F2 E4 | F2 E F A2 F2 | E2 D2 E4 |
+D D E z F F A z | B2 A2 F2 z2 | d2 B2 A2 F2 | E2 F E D2 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yubinbako.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLkIyGSqQmZ-Tl5-SnVypxaWkpvGze-mTf_qftexW0tLgUbRUMDQy47G0V3LhsjPRN7EB6X6yc937PrGdz9z3dtOPp-tlPdjSAjXw2exNIeMOOJ7umPt2549mahWDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPz6dodT3dueT5lxfs9HaBA1gMGsh4okIEMA-P3ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAe6C-jfp60rnk1rB7ri6YbeZ-2dCgEG5iZ6WQXp7_f0ABW_XNCoUKCnYGoI5L5YPOdpayvQu8_mTgB6QsHQWOHlsmlApwLDBmT8i1X7nzUsBxnc3fti5nyg6OPG1c_nrwWKP9nVAxR8unYC0B4Xhacb-oFiCvoKL6fPebK_6emS5SCumwKUAYwMBaBqsME9j2autAXFE8gCYHSAvQEMt5n7gOSTHWsfNzQ8mzP3cWP346bOZzNXPm7c97hxOUjR48bpj5s6HjdNfty453FT1_PV3Y8blzxuXAbU8LJx8ouFPY8b-5_s2vW4aRJE9X6QXNOEx01Ak5oeN6573LgeZPaKVc-n7AIyHjdOBjJASkH8xnUv9u0GKWpoeLF8EoQBT1wQp-7qAVEvZ68Am7UVaO6z6UtBRgNVLlrxdMJOoP0gkcbVQEFCDm5oeLqx43Hj1MeNbUANMNXUdfCOTnAcTuwExvrjppanGxrBjElAlU9bgS7vAdnUCAy2fY-bgAEOdwUONz9uBCoCynY-blwDip5GoPXQiFkAjiWwOoj7yXc5UBHlWQMKFLT0ubgiS5My85ISs_OtAjIT8_IdagxqFKpB1ijYWGjZgRnAXGmoa2IF9MhasM83P25qBkYmjLvocVMrMJ6A0sBYAcYYKGU-btwAlgMlTpA1IGNqFMziFTSAWFdXwTxeU1VDV1dTQcNQwRjE1ARKaxgrmEDYQJYhhGWsoAuSMYHLmMFYQCVAGZA8CNbAXGqqawFyKTAi2uHR9Lhx_uPGxcDghyT7hY-bgKkK6P5NjxtXACMc4UCTeJAbgSTIUmMQZQhha5jHxwMdDXY1yBHIPKASkCzIeyDFKK6x1DU0AjkHS2ZTACWkRkgYLQQqgbFQQgvoFGOENVBXAVmm6mC7aoBhAGRCwwLEAmoCUUhOMDTWNTQDuQFkOthqYEJcBGQAhYApEViCAFmgAAEiYMwCnbEB6BiEM0AxZgZ1A8hoQ1DsGMDizARstwHIuVA2xB3AeAVSEFVAA4AKuGq5uHTtFODpTQHIUebiAgA)]
-- [鋼琴伴奏 TMD 檔案](yubinbako_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZvPXJvv1P2_e-39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDQy47G0V3LhsjPRN7LjqFJRerJz3fs-sZ3P3Pd204-n62U92NCiBhJ_N3gQS3rDjya6pT3fueLZmIVj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Oh8unbH051bnk9ZAXSgkYGRgZ6BgZmegYWJOZBhYAx0oxIXV2RpUmZeUmJ2vlVAZmJefpCHQ41BjUI1lwIQ2Fho2YEZNQpm8QoaQKyrq2Aer6mqoaurqaBhqGAMYmoCpTWMFUwgbCDLEMIyVtAFyZjAZcxgLKASoAxIHgRroFaYxINsAZIgbcYgyhDC1jCPjwdaC7YXZAwyD6gEJAtyIEgxsnkgJwNNM0aohBoMZJmqg5XXAB0CZEIdBGIBNYEohCkgX5tBjQDJGIJ8aADztwlYqwHINigbYgwwbIAURBXQAKACrlqMsPZBCWsTpLCOV4g2i8-NRWMbIbGNQWzjeCATqgksaYRdE0gxiigWixAG4hBG0gPyL8hcEBuZBVIMZoE8q2unAPevAjpHmYsLAA)]
+- [主旋律 TMD 檔案](yubinbako.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLkIyGSqQmZ-Tl5-SnVypxaWkpvGze-mTf_qftexW0tLgUbRUMDQy47G0V3LhsjPRN7EB6X6yc937PrGdz9z3dtOPp-tlPdjSAjXw2exNIeMOOJ7umPt2549mahWDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPz6dodT3dueT5lxfs9HaBA1gMGsh4okIEMA-P3ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAe6C-jfp60rnk1rB7ri6YbeZ-2dCgEG5iZ6WQXp7_f0ABW_XNCoUKCnYGoI5L5YPOdpayvQu8_mTgB6QsHQWOHlsmlApwLDBmT8i1X7nzUsBxnc3fti5nyg6OPG1c_nrwWKP9nVAxR8unYC0B4XYDzsfb6-4f2e_pczN7ycv_nlrD4Fs3gF83gFQwVjBRMFM5Bdq_YDjVAwfDRzrQIoioBCwDhSABoCtA9kGcjBYO883b7syY6uF8snPZvT-Wxp18v2iU_nzH_ZOfv52rZnnTtfrNgNckdDj4m-hcLj5m5QXDRPfdwANgZkDjCKwUEDjIuZ-4Dkkx1rHzc0PJsz93Fj9-OmzmczVz5u3Pe4cTlI0ePG6Y-bOh43TX7cuOdxU9fz1d2PG5c8blwG1PCycfKLhT2PG_uf7Nr1uGkSRPV-kFzThMdNQJOaHjeue9y4HmT2ilXPp-wCMh43TgYyQEpB_MZ1L_btBilqaAB6BsKAJ1iIU3f1gKiXs1eAzdoKNPfZ9KUgo4EqF614OmEn0H6QSONqoCAhBzc0PN3Y8bhx6uPGNqAGmGrqOngHOKpeTOwExtPjppanGxrBjElAlU9bgS7vAdnUCAy2fY-bgAEOdwUONz9uBCoCynY-blwDip5GoPXQiFkAjiWwOoj7yXc5UBHl2Q0KFLT0ubgiS5My85ISs_OtAjIT8_IdagxqFKpB1ijYGJpp2YFZwKweXFlckpoLzAMauXqGuiaaVsD02vu4efPj5smPm5c8blr_uHkPXGjP4-bGx83AIFym8Lhp0eMmYGJY_bh55ePmCWDpeUCF7SDLQWbXgHKXLhiCGeCMVgPMarrAzGYMZOuC2TVAHjDzgcV0waIQNciwBs2xRiDHmupagBzbtP1x8wqw7XMeN68C8vc_bm553NwGdMp8sGuBUQP0w6THzR1AoU0I15nAHAd2ELK1IEeArQW5GYhgpQTYDyBhuMdwOdAY5EBLXUMjcHAC3dH2uHnD4-bVQM6ix819j5v7gawVj5sgQToP6E6gw0EBCGIhwg_qMtSAgbsD4kQoF1SGwVSBZWFhjt2BJuDoNtY1NAO7EGQv2F3AkGsCMoCuAcZrJ5gFCsBl4NSwGcgBRjTQxcAsshklniFBZAB0AMghBtDghTnJABJqGN4BO88QGsRQZVy1XFy6dgrw1KsA5ChzAQA)]
+- [鋼琴伴奏 TMD 檔案](yubinbako_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZvPXJvv1P2_e-39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDQy47G0V3LhsjPRN7LjqFJRerJz3fs-sZ3P3Pd204-n62U92NCiBhJ_N3gQS3rDjya6pT3fueLZmIVj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Oh8unbH051bnk9ZAXSgkYGRgZ6BgZmegYWJOZBhYAx0oxIXV2RpUmZeUmJ2vlVAZmJefpCHQ41BjUI1lwIQ2BiaadmBWfpaCsGVxSWpuQqGChq5eoa6JppWCo-bex83b37cPPlx85LHTesfN--BC-153Nz4uHnp46ZlCo-bFj1u2vq4afXj5pWPmyeApecBFbYraOmDzQballtQq2AWr6ALhmCGeTzQphoFYyDTBEgaAmkQuwbIM1EwA4vpgkUhapBhDZqLjUAuNtW1ALm4afvj5hVgJ8x53LwKyN__uLnlcXMb0D3zwU5eBvbIpMfNHUChTchOTKsF2gp1IdhVyHaDXAK2G-RwIAL6AewDsEdAwnDf4XKlMciVlrqGRuCABTqm7XHzhsfNq4GcRY-b-x439wNZKx43QQJ3HtCxQNeDghLEQgtJqPNQgwjuGIg7oVxDJFVgWVjoY3elCTj2jXUNzcDOBFkOdhwwDJuADKCTgNHcCWaBgnIZOHFsBnKA8Q509h6gk9HCFGgfJLAMgK4AucYAHMkI1xtAwg_DT2A3GkIDG6qMqxYjQfugJGgL3OkZ4S6zeGC4xGsbg0yGsXCJmgDZQL62IaqwMZBtDhQGckBMoJ9wJUqEtUhGITFxWQyzwQhiA9QydNWYFiPSGVabsfsYjw1E-xgp6aAGtQHMpejuwCKExTaQLJACWQiMfV07BXgCwM1RAHKUubgA)]
 
 ## 分析
 
@@ -79,21 +80,21 @@ D D ^C2 F2 A z | B2 A2 F2 z2 | d2 B2 A2 F2 | ^C2 F C D2 z2 |
 ⏱  Duration:       0:19 (19.2s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C#3 (MIDI 49) – D5 (MIDI 74) [跨度: 25 個半音 / 2.1 個八度, 難度: difficult]
-   - 最低音:  C#3 in [Yubinbako #1 @ m.10, 0:11]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Yubinbako #1 @ m.1, 0:00]
    - 最高音: D5 in [Yubinbako #1 @ m.3, 0:02]
-   - 適合: tenor
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Yubinbako (19.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 小調（流行色彩小調，未偵測到可信轉調）
-   - 風格氣質:    流行小調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       D 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, F, C#, A#
-   - 調性數值:    D 小調 [相關度: 0.86, 穩定度: High, 自然音純度: 86.2%]
-   - 候選調性 (K-S): D 小調 (0.86), F 大調 (0.54), A 大調 (0.46)
+   - 核心骨幹音:  A, D, F, E, A#
+   - 調性數值:    D 小調 [相關度: 0.87, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 小調 (0.87), F 大調 (0.56), A 小調 (0.50)
    - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Yubinbako #1]: D 小調 (r: 0.86, 自然音純度: 86.2%, 調外音: C#)
+     • [Yubinbako #1]: D 小調 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -107,20 +108,20 @@ D D ^C2 F2 A z | B2 A2 F2 z2 | d2 B2 A2 F2 | ^C2 F C D2 z2 |
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : █████████████             13.8%
-     D  : █████████████████████     22.0%
+     C# :                            0.0%
+     D  : ██████████████████████    23.0%
      D# :                            0.0%
-     E  : █████                      4.9%
-     F  : █████████████████████     22.0%
+     E  : █████████████████         17.2%
+     F  : ██████████████████████    22.1%
      F# :                            0.0%
      G  :                            0.0%
      G# :                            0.0%
-     A  : ████████████████████████  25.2%
-     A# : ████████████              12.2%
+     A  : ████████████████████████  24.6%
+     A# : █████████████             13.1%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C#3 – D5 (25 個半音 / 2.1 個八度, 59 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 60 個音符)
 ================================================================================
 ```
 
