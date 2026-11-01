@@ -7,7 +7,7 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 E2 G2 G2 z2 | A3 A G2 E2 | D6 E2 | C2 D2 E2 z2 |
-A2 z2 A4 | A2 z2 A4 | A8- | A z z2 z4 |
+A2 z2 G4 | A2 z2 G4 | A8- | A z z2 z4 |
 c4 d2 c2 | A3 A G2 G2 | A4 G4 | E2 D C D2 z2 |
-C4 D2 E2 | G2 G2 A2 G2 | c6 c2 | A4 G2 A2 |
+C4 D2 E2 | G3 G A2 G2 | c6 c2 | A4 G2 A2 |
 c8- | c4 z4 |
