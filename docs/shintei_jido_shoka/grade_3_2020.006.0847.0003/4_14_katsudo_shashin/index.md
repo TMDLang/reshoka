@@ -24,7 +24,7 @@ audio: "katsudo_shashin.mp3"
 Reference Materials 14: 活動寫眞 (Katsudō Shashin / Motion Pictures)
 Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934), p. 52 (P075.jpg)
 Lyricist: 葛原齒 (Kuzuhara Shigeru) / Composer: 小松耕輔 (Komatsu Kōsuke)
-Key: D major (?= D), 6/8 (<6/8>), 早メニ 面白ク Dotted Quarter = 112 (!= 112)
+Key: D major (?= D), 6/8 (<6/8>), 早メニ 面白ク
 
 ## 歌詞
 
@@ -46,20 +46,21 @@ X:1
 T:活動寫眞
 M:6/8
 L:1/16
-Q:3/8=37
+Q:3/8=75
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-d2 B2 z2 B2 A2 z2 | d2 B2 z2 B2 A2 z2 | F2 D2 z2 E F G2 z2 | A6 F4 z2 |
-d2 B2 z2 B2 A2 z2 | d2 B2 z2 B2 A2 z2 | F2 D2 z2 E F G2 z2 | E6 D4 z2 |
-d4 d2 d2 c2 B2 | B2 B2 z2 A4 d2 | A2 F2 z2 D2 B,2 z2 | A10 z2 |
-d4 d2 d2 B2 A2 | A2 A2 z2 F4 E2 | D2 E2 F6 E2 | D10 z2 |
+z2 z2 z2 z2 z2 d2 | B2 z2 B2 A2 z2 d2 | B2 z2 B2 A2 z2 F2 | D2 z2 E2 F2 z2 G2 |
+A6 F4 d2 | B2 z2 B2 A2 z2 d2 | B2 z2 B2 A2 z2 F2 | D2 z2 E2 F2 z2 G2 |
+E6 D4 z2 | d4 d2 d4 c2 | B4 B2 B4 A2 | d4 A2 F4 D2 |
+B6 A4 z2 | d4 d2 d4 B2 | A4 A2 A4 F2 | E4 D2 E4 F2 |
+E6 D4 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](katsudo_shashin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5akJmfk5efkp1cqcWlpKTzbsvtp99Sn61c_nzNPQUuLS9FWwdSMy95WwYXLxkzfwg6k-8XE2U_75r_cO0nhyd45L1bOU9BXeLqh_9ncfS8apr7YMwUk-mz2JrBFL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfn07U7nu7c8nzKivd7OkBBqQcMSj1QUAIZBsbv93QqcXHpa3EpaCkEpaalFoECQ8E3sSQVFBbFCoYmVqie0fBOLCkuTTnaqxCckQiKRaCzffNBQaIQkJlcUlqUWqwJMiwYEjMKWJ2ugOlwoN-xO1tBw9DS2ERTR6FAT8HUSEEjwMDcVC-rIB1si09lUWZyZnEJ0B54aGp4l1aVZiQWJQJdmJmeWlSqCXSic35uQX5xapEVahhreOfngvyj4H20t7g0OxVsqHdqpZWCi0JuYlZ-kYIGKNKAtgNjTUEDHHdAzrPpKx83L3zc3K3wcu6i5zP3Pm5ar-CSXwJMXgqBpYlFwMBTsFUwNAS6FhjxQBpkLNy5xVYg5pMdDY8bGp-273rcuOzJvrbHTd3I7McNDY8bWx439T5umvy4cdWTXUCpHpA2kARIrulxUw-EBPrnceNUoCKg-POuNY8b9z1uXA41pakDoef5momPG5fAbQAZ2dDwcnnb48aJYJtnAkUQqp-unfBk3-zHjetfbNsMMrtxP9jauSAnNe6AmwL2yS5gqmt80b4KmEhe7O4CqnvRux3CeLlsDZQxezdUancXqjcaVzxuBDq0E4UNklryuGkeKAzgQYLsGeQAAEk3zoeQIKsWz36xsOfZyvmQkMDipWedQMMmgS2cBBLfsRcoBRbZCvGSPhdXGDDvp1oFZCbm5TvUGNQoVHMpAIGNhZYdmKGvpWCoC8waQAuADnzc2A_UiM5BRB-QswnsuR6Q2SD9NQqGcQpmCgZAbAokMbjGCoZAWsNIwVhTVUNXU8EELGqqoAuExkAM5MHcYaprAXIHIjyAnIVgC0GJAuyORmiqAHJAbgOGJGXuMAK7wxDVHZa6hkZAhzQBbQBG5mJ4SED8DrQayAKmwAXAlAYVQnYD0Lg4EDIHWl0DxCBHgLwLFAL52xjINVQwi0cKBhBEst7QWNfQDBQQwABf-bgJGLfrwTE8HZJ6gRKItAuNImz2gzwOsgHkfVBAG4GkgSSIDeMh217LxaVrpwBOLQpAhjIXFwA)]
-- [鋼琴伴奏 TMD 檔案](katsudo_shashin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2ZffT7qlP169-Pmfe-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB1IzL3lbBhcvGTN_CjqtOQenFxNlP--a_3DtJ4cneOS9WzlPQV3i6of_Z3H0vGqa-2DMFJPps9iYlsNL2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6nG7qf7tjxfPnE52vWPNnR-XTtjqc7tzyfsgLoOCMDIwM9AwMzPQMLE3Mgw8AY6D4lLi59LS4FLYWg1LTUotS85FQF38SS1KLMxJxiBUMTKxQfKmh4J5YUl6Yc7VUIzkgszsjMAzrbN78kMz9PISAzuaS0KLVYU0EXyE7My1dwTE7Ozy1IzMvMTc0rAVkRnF9alJxqpYDVQwqY3gGGCHbPKGgYWhqbaOooFOgpmBopaAQYmJvqZRWkawJt0efiCkstKk61AjsiyMOhxqBGoZpLAQhsLLTswIwaBcM4BTMFAyA2BZIYXGMFQyCtYaRgrKmqoaupYAIWNQX6TBcopwviUWCOEdgcQ3RzgEJxIGQO1F4DxCCDQFYChUB2GwO5hgpm8UhOAUGsRoDsBykCuQLkXiOQNJAEsWE8ZANqUcLMB0eYmcQrRJvEgpwBZBiCGNjF4EzTeCDLNB5FFISBTGSHU2YunAMmsBsNwkhMJKNg6hEiZiDzzOJzsZkO4uEwHsl76MaDdKH4H9VQsBRabOjaKYAjRAGZoczFBQA)]
+- [主旋律 TMD 檔案](katsudo_shashin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5akJmfk5efkp1cqcWlpKTzbsvtp99Sn61c_nzNPQUuLS9FWwdDQiMveVsGFy8ZM38IOpP3FxNlP--a_3DtJ4cneOS9WzlPQV3i6of_Z3H0vGqa-2DMFJPps9iawTS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RH59O1O57u3PJ8yor3ezpAYakHDEs9UFgCGQbG7_d0KnFx6WtxKWgpBKWmpRaBQkPBN7EkFRQYxQqGJlaovtHwTiwpLk052qsQnJEIikags33zQWGiEJCZXFJalFqsCTIsGBI1ClidroDpcKDfsTtbQcPQ0thEU0ehQE_B1EhBI8DA3FQvqyAdbItPZVFmcmZxCdAeeGhqeJdWlWYkFiUCXZiZnlpUqgl0onN-bkF-cWqRFWoYa3jn54L8o-B9tLe4NDsVbKh3aqWVgotCbmJWfpGCBijSgLYDY01BAxx3QM6z6SsfNy983Nyt8HLuoucz9z5uWg_UCHdQsRWI-WRHw-OGxqftux43Lnuyr-1xUzcy-3FDw-PGlsdNvY-bJj9uXPVkF1CqB6QNJAGSa3rc1AMhgS5-3DgVqAgo_rxrzePGfY8bl0NNaepA6Hm-ZuLjxiVwG0BGNjS8XN72uHEi2OaZQBGE6qdrJzzZN_tx4_oX2zaDzG7cD7Z2LshJjTvgpoB9sguYrhpftK8CJoMXu7uA6l70bocwXi5bA2XM3g2V2t2F6o3GFY8bgQ7tRGGDpJY8bpoHCgN4kCB7BjkAQNKN8yEkyKrFs18s7Hm2cj4kJLB46Vkn0LBJYAsngcR37AVKgUW2Qrykz8UVBszeqVYBmYl5-Q41BjUK1VwKQGBjoWUHZuhrKTzds_HF1u3PunutFB43twMT0ePGGSCtIOkaBQM4NIxTqIHpMdQFZpjHzW0KwCQBpFeDddagijQtAYusBeLNQNwFxJPAIh1AuTUKGo-bFmki7DED2mCmYAq1B4lrDOQZAmkjIMtAwQTIM1XQBUJjIEZ2kqmuBchJa4CGL4LQzY1g6yYBRbZCHAB1Ug8QzwM7GeRYkAjIAyvIcowR2DGGQGyAcIulrqERyDGgkFgJxC3gkAFaBA8toKOA4QASAYXURiCvAUjvhDkYKAd3DNAJYJ-CaXOwc3SBGESawqRNIcEBlQTxUdxjaKxraAZ0UBMoIjqBGBRC_WDrgaym7dDomQ8W2QuNtBlojsbuIDNohJiCSVD4gELEEEzCeIjwqeXi0rVTAKdJBSBDmQsA)]
+- [鋼琴伴奏 TMD 檔案](katsudo_shashin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2ZffT7qlP169-Pmfe-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0NCIy95WwYXLxkzfwo6rTkHpxcTZT_vmv9w7SeHJ3jkvVs5T0Fd4uqH_2dx9LxqmvtgzBST6bPYmJbDS9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fl07Y6nO7c8n7IC6DojAyMDPQMDMz0DCxNzIMPAGOhAJS4ufS0uBS2FoNS01KLUvORUBd_EktSizMScYgVDEysULypoeCeWFJemHO1VCM5ILM7IzAM62ze_JDM_TyEgM7mktCi1WFNBF8hOzMtXcExOzs8tSMzLzE3NKwFZEZxfWpScaqWA1UMKmN4Bhgh2zyhoGFoam2jqKBToKZgaKWgEGJib6mUVpGsCbdHn4gpLLSpOtQI7IsjDocagRqGaSwEIbCy07MCMGgUDODSMU6iBCpoBuWYKplBBJK4xkGcIpI2ALAMFEyDPFOhLXSBPl0z9RmD9hkBsANcO1AQ2Dkybgw3QBWIQaQqTNoXYCZUE8XGaYAZ1pimYBDkBZKkhmITxEE6oRQk2HxzBZhivEG0YC8am8SAewm4ToJRJLMjvEDVAGaxicKZpPJBlGo8iCsIIteSaDJcEBgDMEjCBYTSKf5BVwm0AYSRV2FwKETcCcoxygTwQgew3TKuQjMZtHqp70F2H01_AeNS1UwBHpQIyQ5kLAA)]
 
 ## 分析
 
@@ -67,24 +68,24 @@ d4 d2 d2 B2 A2 | A2 A2 z2 F4 E2 | D2 E2 F6 E2 | D10 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 活動寫眞 ]
 ================================================================================
-⏱  Duration:       0:51 (51.4s), 16 measures total
-🎼 Key & Tempo:    首調基準 D, != 56.0 BPM, <6/8>
+⏱  Duration:       0:27 (27.3s), 17 measures total
+🎼 Key & Tempo:    首調基準 D, != 112.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  B3 in [Verse #1 @ m.11, 0:34]
-   - 最高音: D5 in [Verse #1 @ m.1, 0:00]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Verse #1 @ m.4, 0:04]
+   - 最高音: D5 in [Verse #1 @ m.1, 0:01]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Verse (51.4s)
+🏛  結構:      Verse (27.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, A, B, F#, E
-   - 調性數值:    D 大調 [相關度: 0.93, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.93), B 小調 (0.71), A 大調 (0.65)
+   - 核心骨幹音:  D, B, A, E, F#
+   - 調性數值:    D 大調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.87), B 小調 (0.77), A 大調 (0.65)
    - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Verse #1]: D 大調 (r: 0.93, 自然音純度: 100.0%)
+     • [Verse #1]: D 大調 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -98,20 +99,20 @@ d4 d2 d2 B2 A2 | A2 A2 z2 F4 E2 | D2 E2 F6 E2 | D10 z2 |
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : █                          1.3%
-     D  : ████████████████████████  31.6%
+     C# : █                          1.2%
+     D  : ████████████████████████  29.3%
      D# :                            0.0%
-     E  : ███████                    9.2%
+     E  : ████████████              14.6%
      F  :                            0.0%
-     F# : ███████████               14.5%
-     G  : ██                         2.6%
+     F# : ██████████                12.2%
+     G  : ██                         2.4%
      G# :                            0.0%
-     A  : ██████████████████        23.7%
+     A  : ████████████████          19.5%
      A# :                            0.0%
-     B  : █████████████             17.1%
+     B  : █████████████████         20.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 58 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 58 個音符)
 ================================================================================
 ```
 
