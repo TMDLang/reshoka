@@ -1,6 +1,6 @@
 # 人工校對進度紀錄（Proofreading Checklist）
 
-本頁追蹤全站 **21 冊、734 首**歷史曲目之人工校對進度（目前已校對 **152 / 734** 首，完成率 **20.7%**）。
+本頁追蹤全站 **21 冊、734 首**歷史曲目之人工校對進度（目前已校對 **170 / 734** 首，完成率 **23.2%**）。
 
 ## 校對檢核要點
 
@@ -9,7 +9,7 @@
 1. **調號、拍號與速度**：核對原書掃描頁的調號（`?=`）、拍號（`<...>`）與速度標示（`!=`）。
 2. **主旋律音高與節奏時值**：對照原書簡譜／五線譜與頁面渲染出的 ABC 五線譜，確認有無音高誤判、附點遺漏、連音線或休止符時值錯誤。
 3. **小節數與結構**：透過 `tmd inspect` 確認小節數、弱起拍（Pickup）及反覆記號與原譜一致。
-4. ** 歌詞與歷史假名**：確認日文片假名／平假名／漢字轉錄無誤。
+4. **歌詞與歷史假名**：確認日文片假名／平假名／漢字轉錄無誤。
 5. **鋼琴伴奏與音訊試聽**：確認 `*_piano.tmd` 伴奏聲部與主旋律和聲協調、無多餘重複播放或拍數錯位，並更新 `.abc` 與 `.mp3`。
 
 ## 各冊校對進度總表
@@ -18,7 +18,7 @@
 | :------------------------- | :---------------------------------------------------------------- | ------: | ------: | --------: |
 | 《新定兒童唱歌》           | [尋常科 第一學年](#shintei_jido_shoka_grade_1_2020.006.0847.0001) |      59 |      59 |      100% |
 | 《新定兒童唱歌》           | [尋常科 第二學年](#shintei_jido_shoka_grade_2_2020.006.0847.0002) |      47 |      47 |      100% |
-| 《新定兒童唱歌》           | [尋常科 第三學年](#shintei_jido_shoka_grade_3_2020.006.0847.0003) |       3 |      53 |        6% |
+| 《新定兒童唱歌》           | [尋常科 第三學年](#shintei_jido_shoka_grade_3_2020.006.0847.0003) |      21 |      53 |       40% |
 | 《新定兒童唱歌》           | [尋常科 第四學年](#shintei_jido_shoka_grade_4_2020.006.0847.0004) |       0 |      50 |        0% |
 | 《新定兒童唱歌》           | [尋常科 第五學年](#shintei_jido_shoka_grade_5_2020.006.0847.0005) |       0 |      46 |        0% |
 | 《新定兒童唱歌》           | [尋常科 第六學年](#shintei_jido_shoka_grade_6_2020.006.0847.0006) |       0 |      45 |        0% |
@@ -37,7 +37,7 @@
 | 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       0 |      22 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |       4 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |       0 |      31 |        0% |
-| **合計**                   | **全 21 冊**                                                      | **152** | **734** | **20.7%** |
+| **合計**                   | **全 21 冊**                                                      | **170** | **734** | **23.2%** |
 
 ---
 
@@ -155,7 +155,7 @@
 - [x] **4-17 にたんの四郎**（`D` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_17_nitan_no_shiro/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_17_nitan_no_shiro/nitan_no_shiro.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_17_nitan_no_shiro/nitan_no_shiro_piano.tmd)
 - [x] **4-18 にぐるま（人力車／運貨車）**（`G` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma/index.md) · [主譜 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma/niguruma.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma/niguruma_piano.tmd)
 
-### 尋常科 第三學年用（2020.006.0847.0003）（3 / 53 首） {#shintei_jido_shoka_grade_3_2020.006.0847.0003}
+### 尋常科 第三學年用（2020.006.0847.0003）（21 / 53 首） {#shintei_jido_shoka_grade_3_2020.006.0847.0003}
 
 - [x] **1-01 森の樂隊**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_01_mori_no_gakutai/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_01_mori_no_gakutai/mori_no_gakutai.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_01_mori_no_gakutai/mori_no_gakutai_piano.tmd)
 - [x] **1-02 天の岩屋**（`G` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_02_ama_no_iwaya/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_02_ama_no_iwaya/ama_no_iwaya.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_02_ama_no_iwaya/ama_no_iwaya_piano.tmd)
@@ -164,7 +164,7 @@
 - [x] **1-05 蝶**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_05_cho/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_05_cho/cho.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_05_cho/cho_piano.tmd)
 - [x] **1-06 鯉のぼり**（`D` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/koinobori.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/koinobori_piano.tmd)
 - [x] **1-07 かみなりさま**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_07_kaminarisama/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_07_kaminarisama/kaminarisama.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_07_kaminarisama/kaminarisama_piano.tmd)
-- [x] **1-08 虹**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/niji.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/niji_piano.tmd)
+- [x] **1-08 虹**（`D` / `4/8`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/niji.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_08_niji/niji_piano.tmd)
 - [x] **1-09 長いお休**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/nagai_oyasumi.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/nagai_oyasumi_piano.tmd)
 - [x] **1-10 夏の歌**（`G` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_10_natsu_no_uta/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_10_natsu_no_uta/natsu_no_uta.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_10_natsu_no_uta/natsu_no_uta_piano.tmd)
 - [x] **2-01 蟲の樂隊（蟲之樂隊）**（`E` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_01_mushi_no_gakutai/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_01_mushi_no_gakutai/mushi_no_gakutai.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_01_mushi_no_gakutai/mushi_no_gakutai_piano.tmd)
@@ -172,7 +172,7 @@
 - [x] **2-03 日の丸のはた（日之丸國旗）**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/hinomaru_no_hata.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/hinomaru_no_hata_piano.tmd)
 - [x] **2-04 お祭日（祭典之日）**（`Eb` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/omatsuribi.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/omatsuribi_piano.tmd)
 - [x] **2-05 日本武尊**（`A` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_05_yamato_takeru_no_mikoto/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_05_yamato_takeru_no_mikoto/yamato_takeru_no_mikoto.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_05_yamato_takeru_no_mikoto/yamato_takeru_no_mikoto_piano.tmd)
-- [x] **2-06 取入れ（秋收）**（`F` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/toriire.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/toriire_piano.tmd)
+- [x] **2-06 取入れ（秋收）**（`F` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/toriire.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/toriire_piano.tmd)
 - [x] **2-07 臺灣行進歌**（`G` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/taiwan_koshinka.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/taiwan_koshinka_piano.tmd)
 - [x] **2-08 運動會**（`C` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/undokai.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/undokai_piano.tmd)
 - [x] **2-09 港**（`C` / `3/4`）— [單曲頁](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/index.md) · [主譜 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/minato.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/minato_piano.tmd)
