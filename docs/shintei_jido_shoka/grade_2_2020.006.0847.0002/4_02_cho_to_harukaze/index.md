@@ -12,7 +12,7 @@ audio: "cho_to_harukaze.mp3"
 
 # テフトハルカゼ（蝴蝶與春風）
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="cho_to_harukaze.mp3"></audio>
 

@@ -12,7 +12,7 @@ audio: "kobune.mp3"
 
 # 小舟
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="kobune.mp3"></audio>
 
@@ -53,15 +53,15 @@ K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F6 B2 G4 z4 | F6 B2 G4 z4 | B6 B2 c4 d4 | c4 c2 B2 G4 z4 |
-F6 F2 B4 d4 | G6 G2 F4 D4 | F2 F2 D2 B2 c4 d4 | F12 z4 |
+F6 F2 B4 d4 | G6 G2 F4 D4 | F2 F2 D2 B,2 C4 D4 | F12 z4 |
 B6 B2 d4 c4 | B6 B2 G4 F4 | c4 c2 d2 B4 z4 | c4 c2 d2 B4 z4 |
 F6 F2 B4 d4 | G6 G2 F4 D4 | c4 c2 d2 B4 z4 | c4 c2 d2 B4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kobune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk83dD_omO-gpYWl6KtgqUZl72tglMSl42JvokdSN-LlfPe75n1onvp040bn3cuf7ZhC9i4Z7M3AYWfze18tnH-8-UNYLEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHmyo_Pp2h1Pd255PmXF-z0doEDUAwaiHigQgQwD4_d7OpW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7oL6NmnrSueTWsHuuLpht5n7Z0KAQbmxnpZBenv9_QAFb9c0KhQoKdgagDkvlg852lrK9C7z-ZOAHpCwdBI4eWyaUCnAgMGZPyLVfufNSwHGdzd-2LmfFAorut63NQLFH86ezZQ8OnaCUB7nJIUni5ZDhRUAAa5AlAYbELPo5krbYGxATLoyY4GEPW4se9xY8vjxiWPGyejsBsaHjcCPTD_cWPPy4ZZj5u6Qaqf7d_4uHH148bux42TgJY-btwKVPdsRjtQ-nHjiseN-x839Txu3ABWunnR48b1jxunPm6a97hxFUgOZCSQ2wklmzoeN85-3NgPMhvsol09pLsIzF8PSW4gE0GKQNqedQJdBBJ_sm82xNSVYIkdj5vaQHY2rgP5AqQau20oel4sBPqKOD2UJyIoUNDS5-Lyzk8qzUu1CshMzMt3qDGoUagG2aFgY6FlB2YAE6-hrokVPMwWA12BzukCxVLjWmCoATnAONoNDDmQ4SD9NQqm8Qq6QGioYAZiGAAxdjFDqJARkDQGi4BYRiiKYE4y1bUAOQkY-fuAqQXIQiQXIAcYiHsg6QXIgSYYBQ2YI9cDBYGBug3EaeqAcIDeWQaXWfm4qUkTw_1ACuRCiMvALtIFUWBZYxABVglEQA6yJ6DaIRDFE5a6hkYgX4BTLtjyqY8bp0H4YA4sHSsgJ2SQR6CJBiiOSGm4YwjJL7AwBjkN5ESECNhHYLfCwt0YLAeJGwwReNow1jU0A3mCNCeRE7rEuKqWi0vXTgGSphWALGUuLgA)]
-- [鋼琴伴奏 TMD 檔案](kobune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6of9Fx_z3ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKlGZe9rYJTEpeNib6JHVedgtKLlfPe75n1onvp040bn3cuf7ZhixJI-NnsTUDhZ3M7n22c_3x5A1jsRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Oh8unbH051bnk9ZAXSdkYGRgZ6BgZmegYWJOZBhYAx0oBIXl3d-UmleqlVAZmJefpCHQ41BjUI1lwIQ2Fho2YEZNQqm8Qq6QGioYAZiGAAxdjFDqJARkDQGi4BYRiiKUI0EUiBNEMVgRbogCixrDCLAKoEIyEE2F6odApHNhTkBpAykHCECNh2sD-YsY7AcxOkYIiS7kxgza1HD2wclvE3g4W0YrxBtGKtgEh8P1IfBNQPS0WbxubFA6yEyQKtALCOQGFQVqklQqgYsG22CJABioJkFZpnGQ4QwjILLIjsEbCyqZqBykGPR-MQ6i5AxwIDUtVOAhKUCCkuZiwsA)]
+- [主旋律 TMD 檔案](kobune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk83dD_omO-gpYWl6KtgqUZl72tglMSl42JvokdSN-LlfPe75n1onvp040bn3cuf7ZhC9i4Z7M3AYWfze18tnH-8-UNYLEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHmyo_Pp2h1Pd255PmXF-z0doEDUAwaiHigQgQwD4_d7OpW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7oL6NmnrSueTWsHuuLpht5n7Z0KAQbmxnpZBenv9_QAFb9c0KhQoKdgagDkvlg852lrK9C7z-ZOAHpCwdBI4eWyaUCnAgMGZPyLVfufNSwHGdzd-2LmfFAorut63NQLFH86ezZQ8OnaCUB7nJIUni5ZDhRUAAa5AlAYbELPo5krbYGxATLoyY4GEPW4se9xY8vjxiWPGyejsBsaHjcCPTD_cWPPy4ZZj5u6Qaqf7d_4uHH148bux42TgJY-btwKVPdsRjtQ-nHjiseN-x839Txu3ABWunnR48b1jxunPm6a97hxFUgOZCSQ2wklmzoeN85-3NgPMhvsol09pLsIzF8PSW4gE0GKQNqedQJdBBJ_sm82xNSVYIkdj5vaQHY2rgP5AqQau20oel4sBPqKOD2UJyIoUNDS5-Lyzk8qzUu1CshMzMt3qDGoUagG2aFgY6FlB2YAE6-hrokVPMwWA12BzukCxVLjWmCoATnAONoNDDmQ4SD9NQqm8Qq6QGioYAZiGAAxdjFDqJARkDQGi4BYRiiKYE4y1bUAOQkY-fuAqQXIQiQXIAcYiHsg6QXIgSYYBQ2YI9cDBYGBug3EaeqAcIDeWQaXWfm4qUkTw_1ACuRCiMvALtIFUWBZYxABVglEQI5hvIIRqjhINQSi-MNS19AI5BFw4gXbP_Vx4zQIH8yBJWUF5LQM8gs03QDFEYkNdyQheQcWzCCPgAIYIQL2FNitsKA3BstBogdDBJ48jHUNzUCeIM1J5AQwMa6q5eLStVOAJGsFIEuZiwsA)]
+- [鋼琴伴奏 TMD 檔案](kobune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6of9Fx_z3ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKlGZe9rYJTEpeNib6JHVedgtKLlfPe75n1onvp040bn3cuf7ZhixJI-NnsTUDhZ3M7n22c_3x5A1jsRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Oh8unbH051bnk9ZAXSdkYGRgZ6BgZmegYWJOZBhYAx0oBIXl3d-UmleqlVAZmJefpCHQ41BjUI1lwIQ2Fho2YEZNQqm8Qq6QGioYAZiGAAxdjFDqJARkDQGi4BYRiiKUI0EUiBNEMVgRbogCixrDCLAKoEIyDGMVzBCFQephkBko2GuABkKsh8hArYArA_mMmOwHMT1GCIkO5UYM2tRg9wHJchN4EEO9Gy0YayCSXw8UB8G1wxIR5vF58YCrYfIAK0CsYxAYlBVqCZBqRqwbLQJkgCIgWYWmGUaDxHCMAoui-wQsLGomoHKQY5F4xPrLELGAANS104BEpYKKCxlLi4A)]
 
 ## 分析
 
@@ -72,8 +72,8 @@ F6 F2 B4 d4 | G6 G2 F4 D4 | c4 c2 d2 B4 z4 | c4 c2 d2 B4 z4 |
 ⏱  Duration:       0:40 (40.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Kobune #1 @ m.6, 0:14]
+🎤 人聲音域:    A#3 (MIDI 58) – D5 (MIDI 74) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#3 in [Kobune #1 @ m.7, 0:15]
    - 最高音: D5 in [Kobune #1 @ m.3, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Kobune (40.0s)
@@ -113,7 +113,7 @@ F6 F2 B4 d4 | G6 G2 F4 D4 | c4 c2 d2 B4 z4 | c4 c2 d2 B4 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 61 個音符)
+  - Piano         : A#3 – D5 (16 個半音 / 1.3 個八度, 61 個音符)
 ================================================================================
 ```
 

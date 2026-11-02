@@ -12,7 +12,7 @@ audio: "nami_ga_zanburiko.mp3"
 
 # 波がざんぶりこ
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="nami_ga_zanburiko.mp3"></audio>
 
@@ -53,16 +53,16 @@ Q:1/4=108
 K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-c2 c2 c2 d2 | c2 f f f2 z2 | g2 b2 g4 | f2 d d f2 z2 |
-d2 d2 c2 B2 | c2 d2 f2 z2 | d2 d2 c2 B2 | c2 c2 B4 |
-d2 d4 B2 | c2 f f f2 z2 | z2 b4 g2 | f2 d d f2 z2 |
-d2 d c B4 | c2 d2 f2 z2 | f2 g4 f2 | d2 c c B4 |
+!f! c2 c2 c2 d2 | c2 F F F2 z2 | G2 B2 G4 | F2 D D F2 z2 |
+!mf! D3 D C2 B,2 | C2 D2 F2 z2 | !mp! d2 d2 c2 B2 | c2 c2 B4 |
+!f! d2 d4 B2 | c2 F F F2 z2 | z2 B4 G2 | F2 D2 F2 z2 |
+!mp! D3 D C2 B,2 | C2 D2 F2 z2 | F2 G4 F2 | d2 c c B4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nami_ga_zanburiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlieWpBYpcWlpKTzbvOhxY8_jxmmPmyY_btz2uKnrceNkBS0tLkVbBUMDCy57WwWnJC4bI30TO5AZL1bOe79n1sv2vqf9i1_OXvGsuRVs9LPZm4DCT_ZOeNzQ-mzOiseN6x437nnc1A2WfNG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzs6n67d8XTnludTVrzf0wEKbz1geOuBwhvIMDB-v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu4C-ftq64tm0dqArnm7ofdbeqRBgYG6kl1WQ_n5PD1DxywWNCgV6CiaWQO6LxXOetrYCvfts7gSgJxQMDRVeLpsGdCowhEDGv1i1_1nDcpDB3b0vZs4Hir5Y1_W4qRco_mRXD1Dw6doJQHuckhSeLlkOFFQAhr0CUBhsQs-jmSttQfECMunJjgYQhTUKHzc0PG5cCRZZ-bhxxbNOIGPZ48YNYA9uAgr1PG4CqljyuLEfruHlwimPmyY9bd_1uHH648b5EDt29cDtWP-4sQlo1uPG7sdNnWAL9gGVoVkMVr1pGjAJvNzS97ipCWTu4tlgFcufzV0KN3dHJ4h63Nj1bDpQsAds63wICdQCtg_D3BcdQNt6QOYCXQFUtBWYzFqA_oKaC1RBeQqAAgUtfS4uv8TcTPfEqMS8pNKizOx8q4DMxLx8hxqDGoVqkGUKNhZadmAGMAka6ppYAb2z6nHjfiwZCjkuHje2QeICZAdId42CERgag1kapgqmmqoaupoKpgoGQBEzBcM4IKELZJoqaBgrGCNJwiw31bUAWQ4MC2AcQWJ2MTxmgRLdjxt3A6P2ceMCSNQibAaaB7TTEGyzMdRGZDEQDbQaZpGlrqERwpsoCQIoiiU5oNqkCzUV3Y8GID_qAn2Jx4-GxrqGZiC7gcb2gksYoK1Nj5sagSRQdAUkiYHlUPwHNM4IYhzYJ0j-NAUHqylEFdCrSKq4arm4dO0U0BKAAlBImYsLAA)]
-- [鋼琴伴奏 TMD 檔案](nami_ga_zanburiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2edHjxp7HjdMeN01-3LjtcVPX48bJ7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMLLntbBackLhsjfRM7rjoFpRcr573fM-tle9_T_sUvZ6941tyqBBJ-NnsTUPjJ3gmPG1qfzVnxuHHd48Y9j5u6wZIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR-fTtTue7tzyfMoKoDuNDIwM9AwMzPQMLEzMgQwDY6BTlbi4_BJzM90ToxLzkkqLMrPzrQIyE_PygzwcagxqFKq5FIDAxkLLDsyoUTACQ2MwS8NUwVRTVUNXU8FUwQAoYqZgGAckdIFMUwUNYwVjJEmodqAgUKMhWLsxVBuyGIgG6kdSrQuVQbfMAGSZLtA6fJYBxY0g4mBjkSw1BTvUFKIKaC-SKq5aHGHigxImJvAwMY2PV4g2jY-FMkHGm4CETEAihmABqEogJ9osPhdZJZoQkIus2JB8Q8EK4UYC_aRrp4DmLQXsQspcXAA)]
+- [主旋律 TMD 檔案](nami_ga_zanburiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLlieWpBYpcWlpKTzbvOhxY8_jxmmPmyY_btz2uKnrceNkBS0tLkVbBUMDCy57WwWnJC4bI30TO5AZL1bOe79n1sv2vqf9i1_OXvGsuRVs9LPZm4DCT_ZOeNzQ-mzOiseN6x437nnc1A2WfNG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzs6n67d8XTnludTVrzf0wEKbz1geOuBwhvIMDB-v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu4C-ftq64tm0dqArnm7ofdbeqRBgYG6kl1WQ_n5PD1DxywWNCgV6CiaWQO6LxXOetrYCvfts7gSgJxQMDRVeLpsGdCowhEDGv1i1_1nDcpDB3b0vZs4Hir5Y1_W4qRco_mRXD1Dw6doJQHuckhSeLlkOFFQAhr0CUBhsQs-jmSttQfECMunJjgYQhTUKHzc0PG5cCRZZ-bhxxbNOIGPZ48YNYA9uAgr1PG4CqljyuLEfruHlwimPmyY9bd_1uHH648b5EDt29cDtWP-4sQlo1uPG7sdNnWAL9gGVoVkMVr1pGjAJvNzS97ipCWTu4tlgFcufzV0KN3dHJ4h63Nj1bDpQsAds63wICdQCtg_D3BcdQNt6QOYCXQFUtBWYzFqA_oKaC1RBeQqAAgUtfS4uv8TcTPfEqMS8pNKizOx8q4DMxLx8hxqDGoVqkGUKNhZadmAGMAka6ppYAb2z6nHjfiwZCjkuHje2QeICZAdIN9C4tFoFIzA0BvKMFDRM4xVM4zVVNXQ1gbSCAVDQLF7BEEToAtlAIQ3jeAVjFBUwh5jqWoAcAgwXYHxBYnkxPJaBEt2PG3cDo_lx4wJINCO5IhfoDJDBurpQs4GGGwHtjQc5CmQfzDHVuQW1QKcaA51qCHYwiAa6DOYGS11DI0RooKQboCiWVIMaFCCTdaEmYwkKA7BlwLAAhwTcVfCYMNY1NAPZDjS4F1wUAe1tetzUCCSBoisgaREsh-J5oJeI8jyQAscDkK4BOlQD6HuI8yBBUMvFpWungJZ0FIBCylxcAA)]
+- [鋼琴伴奏 TMD 檔案](nami_ga_zanburiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2edHjxp7HjdMeN01-3LjtcVPX48bJ7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMLLntbBackLhsjfRM7rjoFpRcr573fM-tle9_T_sUvZ6941tyqBBJ-NnsTUPjJ3gmPG1qfzVnxuHHd48Y9j5u6wZIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR-fTtTue7tzyfMoKoDuNDIwM9AwMzPQMLEzMgQwDY6BTlbi4_BJzM90ToxLzkkqLMrPzrQIyE_PygzwcagxqFKq5FIDAxkLLDszQ11Iw1DWxUnjcuOpx437M0ABKrATzVz5uBPqi7XHjsseNGxS09MG6gcal1SoYgaExkGekoGEar2Aar6mqoasJpBUMgIJm8QqGIEIXyAYKaRjHKxijqIA5xFTXAuSQlseN60EOaWp43Lj4cWM_3CHdjxt3P26a9LhxwePG6Y8b5yO5IhfoDJDBurpQs4GGGwHtjQc5CmQfzDHVuQW1QKcaA51qCHYwiAa6DOYGS11DI0RoAN3RBPZ39-OmTqDoPqCt6AGEEhQgk3WhJmMJCgOwZcCwAIcE3FXwmDDWNTQD2Q40uBecZID2Nj1uagSSQNEVYHuXg-VQPA_0ElGeB1LgeADSNUCHagB9D3EeJAhqcaQcH5SUYwJNOSDj4hWiTeNjoUyQDSYgIROQCNB2mM_AnGiz-FxklWhCIMciKTYk31CwQriRQD_p2imgeUsBu5AyFxcA)]
 
 ## 分析
 
@@ -73,21 +73,21 @@ d2 d c B4 | c2 d2 f2 z2 | f2 g4 f2 | d2 c c B4 |
 ⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A#4 (MIDI 70) – A#5 (MIDI 82) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  A#4 in [NamiGaZanburiko #1 @ m.5, 0:05]
-   - 最高音: A#5 in [NamiGaZanburiko #1 @ m.3, 0:02]
-   - 適合: soprano, tenor
+🎤 人聲音域:    A#3 (MIDI 58) – D5 (MIDI 74) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#3 in [NamiGaZanburiko #1 @ m.5, 0:05]
+   - 最高音: D5 in [NamiGaZanburiko #1 @ m.1, 0:00]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      NamiGaZanburiko (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A# 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  D, C, F, A#, G
-   - 調性數值:    A# 大調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A# 大調 (0.77), F 大調 (0.73), D 小調 (0.68)
+   - 調性數值:    A# 調性不明確 [相關度: 0.74, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.74), F 大調 (0.73), D 小調 (0.69)
    - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [NamiGaZanburiko #1]: A# 大調 (r: 0.77, 自然音純度: 100.0%)
+     • [NamiGaZanburiko #1]: A# 調性不明確 (r: 0.74, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -100,21 +100,21 @@ d2 d c B4 | c2 d2 f2 z2 | f2 g4 f2 | d2 c c B4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████████████████     21.9%
+     C  : █████████████████████     22.8%
      C# :                            0.0%
-     D  : ████████████████████████  25.4%
+     D  : ████████████████████████  26.3%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ████████████████████      21.1%
+     F  : ███████████████████       21.1%
      F# :                            0.0%
      G  : ██████████                10.5%
      G# :                            0.0%
      A  :                            0.0%
-     A# : ████████████████████      21.1%
+     A# : ██████████████████        19.3%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A#4 – A#5 (12 個半音 / 1.0 個八度, 56 個音符)
+  - Piano         : A#3 – D5 (16 個半音 / 1.3 個八度, 55 個音符)
 ================================================================================
 ```
 

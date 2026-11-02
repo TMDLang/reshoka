@@ -12,7 +12,7 @@ audio: "kunin_no_kuronbo.mp3"
 
 # 九人のくろんぼ
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="kunin_no_kuronbo.mp3"></audio>
 

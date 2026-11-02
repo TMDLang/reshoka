@@ -12,7 +12,7 @@ audio: "yoshida_shoin.mp3"
 
 # 吉田松陰
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="yoshida_shoin.mp3"></audio>
 

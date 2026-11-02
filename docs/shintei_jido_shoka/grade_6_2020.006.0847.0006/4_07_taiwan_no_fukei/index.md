@@ -12,7 +12,7 @@ audio: "taiwan_no_fukei.mp3"
 
 # 臺灣の風景
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="taiwan_no_fukei.mp3"></audio>
 

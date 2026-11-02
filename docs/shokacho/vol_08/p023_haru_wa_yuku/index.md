@@ -12,7 +12,7 @@ audio: "haru_wa_yuku.mp3"
 
 # 春は行く（春將離去）
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="haru_wa_yuku.mp3"></audio>
 

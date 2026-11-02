@@ -12,7 +12,7 @@ audio: "saru_no_sarumane.mp3"
 
 # 猿の猿眞似
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="saru_no_sarumane.mp3"></audio>
 
@@ -54,15 +54,15 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 G4 c2 A2 | G2 G A G2 E2 | G2 G A G2 E2 | G2 G2 G2 z2 |
 E4 G2 E2 | D2 D E D2 C2 | D2 D E D2 C2 | D2 D2 D2 z2 |
-z2 G2 G2 G2 | c2 c2 A2 G2 | E2 E2 D2 C2 | A2 A2 A2 z2 |
+z2 G2 G2 G2 | c2 c2 A2 G2 | e2 e2 d2 c2 | A2 A2 A2 z2 |
 z2 E2 E2 E2 | A2 A2 G2 E2 | c2 c2 A2 G2 | E2 E2 E2 z2 |
 G4 E2 G2 | A2 A2 G2 A2 | c2 c2 A2 d2 | c2 c2 c2 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](saru_no_sarumane.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTzv2f-4cR2QfD5n3pM9exS0tLgUbRUMDSy47G0VnLlsjPRN7EC6X7b3Pe1f_HL2imfNrQpP9s55sXKegr7C03VLnm7pez5hy7M5HSDRZ7M3ge160b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOzqfrt3xdOeW51NWvN_TAQpNPWBo6oFCE8gwMH6_p1OJi0tfi0tBSyEoNS21CBQeCr6JJamg4ChWMDS1wvCTRnBiUalCXr4CiM5NzEsFutw3Py87tVK9GMrQDU5N1YUyXfI1QaYHQ2JLAatfFDB9ooDLHwoahpbGJpo6CgUFegqmxrqmJgoaAQbmZnpZBem6QIY5iAG20qeyKDM5s7jESgEluDX88tNLkzMyFUKzjvZqAh3vnJ9bkF-cWmSFGgEavqVF-VWJ2ZkK3pl56aklxaVgU71TK60UnBVyE7PyixQ0QNEKdAswXhU0wLEL5Lycu-j5zL2Pm9YrBJYmFgGDUgGcBBQ0IEkBZArcecVWIOaTHQ2PGxqfbtz4uHH548YucIgD47Lh2ZwVz2fuftzU9bhx-uPGZY-bukGqgRJABFH9dO0EkOqmJgKqIaYiVDQ0PNnR9ayz-3Hj6qftu57NXYpqNthUYlWjJRC4fqAgiAEWBPtyF9BPjUBTHzd2P27qRPYokA1297JnG7YAtT1umvy4cQHCBrgeZO8S0AP1MUJuOVhw3-PG-WDjVoP9hulp4jUQ6W99Lq4wYGmSahWQmZiX71BjUKNQzaUABDYWWnZghr6WgqGuiZXC46YWsH2gNPC4cSrQMmDoKDxu7AW5qHEPcsyCjAVprVEwVdBVMIxTMAMzNUwVzDRVNXQ1gWxjHCIgaKBQA7PZVNcCxWagx6eBbG5qImSzMdBmiKFGChpGCsYQa4wUDHGIgCCSxZa6hkZAmxFeRVgGFJ3xuKn5cWPb48ZZwJAHO6wXxXIDqE9qQJ4H-x_ENgZCiHVmYIhknaGxrqEZyD6YB0m1D2Q2yLMgcyHeRrfZGMU-c10jA5B9EM8BbYIwgKG8FtkVQAkgGyyKEqfGYGMhloEiF2aZURycA0QgC2u5uHTtFMBpTAHIUObiAgA)]
-- [鋼琴伴奏 TMD 檔案](saru_no_sarumane_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjes_9x4zog-XzOvCd79rzf0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFQwNLLjsbRWcuWyM9E3suOoUlF629z3tX_xy9opnza0KT_bOebFynoK-wtN1S55u6QOa8WxOB0j02exNSiDVL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfn07U7nu7c8nzKCqADjQyMDPQMDMz0DCxMzIEMA2OgG5W4uPS1uBS0FIJS01KLUvOSUxV8E0tSizITc4oVDE2t0D2qoBGcWFSqkJevAKJzE_NSgS73zc_LTq1UL4YydINTU3WhTJd8TQVdhYDMRKAOx-Tk_NyCxLzM3NS8EpCdwfmlRcmpVgpYfaiA6T8FXL5T0DC0NDbR1FEoKNBTMDXWNTVR0AgwMDfTyypI1wUyzEEMTaCV-lxcYalFxalWYBcFeTjUGNQoVHMpAIGNhZYdmFGjYAp0smGcghmYqWGqYKapqqGrCWQb4xABQQOFGqh2Y6B2iIyRgoaRgjFErZGCIQ4REEToNoCaVwNyAtgVILYxEELUm4EhsnqQHMg2kDjEXnSdxkjqQZ4zBstA1IN8CVNvFAfnABFITy1KgPngCDDDeIVow1gFEyBlEovgQyl8fIS70NWYxgNZpvGxCAYRYijBCJOAKiTkSKgEkEIJXIg0ihJ0f2AxEre_ENag6EHyEaopwBjQtVMAR4ICMkOZiwsA)]
+- [主旋律 TMD 檔案](saru_no_sarumane.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTzv2f-4cR2QfD5n3pM9exS0tLgUbRUMDSy47G0VnLlsjPRN7EC6X7b3Pe1f_HL2imfNrQpP9s55sXKegr7C03VLnm7pez5hy7M5HSDRZ7M3ge160b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOzqfrt3xdOeW51NWvN_TAQpNPWBo6oFCE8gwMH6_p1OJi0tfi0tBSyEoNS21CBQeCr6JJamg4ChWMDS1wvCTRnBiUalCXr4CiM5NzEsFutw3Py87tVK9GMrQDU5N1YUyXfI1QaYHQ2JLAatfFDB9ooDLHwoahpbGJpo6CgUFegqmxrqmJgoaAQbmZnpZBem6QIY5iAG20qeyKDM5s7jESgEluDX88tNLkzMyFUKzjvZqAh3vnJ9bkF-cWmSFGgEavqVF-VWJ2ZkK3pl56aklxaVgU71TK60UnBVyE7PyixQ0QNEKdAswXhU0wLEL5Lycu-j5zL2Pm9YrBJYmFgGDUgGcBBQ0IEkBZArcecVWIOaTHQ2PGxqfbtz4uHH548YucIgD47Lh2ZwVz2fuftzU9bhx-uPGZY-bukGqgRJABFH9dO0EkOqmJgKqIaYiVDQ0PNnR9ayz-3Hj6qftu57NXYpqNthUYlWjJRC4fqAgiAEWBPtyF9BPjUBTHzd2P27qRPYokA1297JnG7YAtT1umvy4cQHCBrgeZO8S0AP1MUJuOVhw3-PG-WDjVoP9hulp4jUQ6W99Lq4wYGmSahWQmZiX71BjUKNQzaUABDYWWnZghr6WgqGuiZXC46YWsH2gNPC4cSrQMmDoKDxu7AW5qHEPcsyCjAVprVEwVdBVMIxTMAMzNUwVzDRVNXQ1gWxjHCIgaKBQA7PZVNcCxWagx6eBbG5qImSzMdBmiKFGChpGCsYQa4wUDHGIgCCSxZa6hkZAmxFeRVgGFJ3xuKn5cWPb48ZZwJAHO6wXxXIDqE9qQJ4H-x_ENo4DISOwSA1QDASRrDQ01jU0A9kJ8ySpdhqDIcRkiNdRbAdDZPvMdY0MQPZBPAi0CcIAhvRaZFcAJYBssChKvBqDjYVYBopgmGVAD8I4QASysJaLS9dOAZzOFIAMZS4uAA)]
+- [鋼琴伴奏 TMD 檔案](saru_no_sarumane_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjes_9x4zog-XzOvCd79rzf0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFQwNLLjsbRWcuWyM9E3suOoUlF629z3tX_xy9opnza0KT_bOebFynoK-wtN1S55u6QOa8WxOB0j02exNSiDVL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfn07U7nu7c8nzKCqADjQyMDPQMDMz0DCxMzIEMA2OgG5W4uPS1uBS0FIJS01KLUvOSUxV8E0tSizITc4oVDE2t0D2qoBGcWFSqkJevAKJzE_NSgS73zc_LTq1UL4YydINTU3WhTJd8TQVdhYDMRKAOx-Tk_NyCxLzM3NS8EpCdwfmlRcmpVgpYfaiA6T8FXL5T0DC0NDbR1FEoKNBTMDXWNTVR0AgwMDfTyypI1wUyzEEMTaCV-lxcYalFxalWYBcFeTjUGNQoVHMpAIGNhZYdmFGjYAp0smGcghmYqWGqYKapqqGrCWQb4xABQQOFGqh2Y6B2iIyRgoaRgjFErZGCIQ4REEToNoCaVwNyAtgVILZxHAgZgUVqgGIgiKzHGAwhMhC7UXSDIUI9yIPGYBmIepBPYeqBdsA4QATSU4sSaD44As0wXiHaMFbBBEiZxCL4UAofH-EudDWm8UCWaXwsgkGEGEpQwiSgCgk5EioBpFACFyKNogTdH1iMxO0vhDUoepB8hGoKMAZ07RTAkaCAzFDm4gIA)]
 
 ## 分析
 
@@ -73,9 +73,9 @@ G4 E2 G2 | A2 A2 G2 A2 | c2 c2 A2 d2 | c2 c2 c2 z2 |
 ⏱  Duration:       0:22 (22.2s), 20 measures total
 🎼 Key & Tempo:    首調基準 C, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
    - 最低音:  C4 in [Verse #1 @ m.6, 0:06]
-   - 最高音: D5 in [Verse #1 @ m.19, 0:20]
+   - 最高音: E5 in [Verse #1 @ m.11, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Verse (22.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
@@ -114,7 +114,7 @@ G4 E2 G2 | A2 A2 G2 A2 | c2 c2 A2 d2 | c2 c2 c2 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 74 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 74 個音符)
 ================================================================================
 ```
 

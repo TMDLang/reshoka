@@ -12,7 +12,7 @@ audio: "kamikaze.mp3"
 
 # 神風
 
-> Re:Shoka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="kamikaze.mp3"></audio>
 
@@ -65,15 +65,15 @@ Q:1/4=108
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C6 D2 E3 F | G4 E4 G4 | A4 c3 A G4 | D4 C4 D4 |
-A3 G A4 c4 | c4 G4 G4 | c3 d e3 d c4 | D8 z4 |
-C6 D2 E3 G | c4 c4 G4 | A4 B3 c d4 | c8 z4 |
+C3 E G6 E2 | G3 c A8 | A3 A G6 E2 | D3 C D8 |
+A3 G c6 A2 | c3 d A8 | c3 A G6 E2 | D8 z4 |
+C3 D G6 A2 | c3 d c8 | A3 B d6 c2 | c8 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kamikaze.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-Zm5mSWJBZVKnFpaSk8Xzrv5aIVClpaXIq2CoYGFlz2tgrOXDbG-iZ2IG0v2nc9b1z8bOrMF02bns1pftq65sWq3scNfc-mbXi6btbT1knPVy99OmXjs7U9jxv6n27ofrpjx_PlE5-vWfNkR-fTtTue7tzyfMqK93s64CLP5sx_3LwbyDV9uWza-z2dYMc9ndP9fHU31K6125_2b3raO-t558qXS1Y8bd3xYno_0AQI48XM-e_3zAIFsx4wmPVAwQxkGBiDTeLS11KwpRbgUlBQeNww4dnsTc9nr3uxatWzGX2PGyaCRZt3P23f9WLmVKBLcIRPI1D8ac90YCi9XD3j6YKm5zP3vFgIDKIubOHWjSfcns1Y-3RSjxmQ_35Pv6GlsSGY1fl-Tw_IJQoKyOEKZCuYKgCD9XFDByRaHzeAVD7tm_9s9g6QrLGxwssFjSBj-5qf9fc_WzVFIcDA1EwvqyAdaOjjhiao916snAf0N9B7QLOfzVnxcs4mUBp5sncOUALojqcbNz6fsuFFw1SgCEgUqBZJ76r9zxqWv-hof9bdC4mtx839QEGgrc4KT5csBzNBzgImMQWgGiDrZcP8p7uWPVsx8_mSXY8bep62Nj_bsPhx84rHTesVIKnycQMwUOE2NPc8m7keZMNskLuANjybOuPF_g1PexuB7n2yY9rzLQ1AM17s7n2xdNOz6UtB_p3W_mzDDlDE7ZnxdF3nk53dT_fuBDrj2bQ9wJT2dMksYCS-bFz7srH92awtYDOhIQhU82JZ27PdrUAt0JTZtBmYGqCuUVBADosnu5e-nN3ybMe-Z3M6n3bNfj6rRQHmZQWob4Gufjmz5eXuec_XNzxd2v9i7Zyn61cDg-DF9hXAIHjZOAWYXl7O36zgmwl0QoJxXAJKvDzv7Hg2B5jCQIkR5O05a4BR-Gxhx_OmXZBIfjpt3YvGTS-bVzzZNeX59llA44HGAC18vnz30-6pCi75Ci9n9T2d0Pu8s_1pYzuQATQeFBj7Fzxdv-zZ1B1P9vY-7ZkGsQboKqCfgEZD_A1M48_mTgAxps18sn_u07UzQO6C5hKI7cDUDEwgT1tXAIMb6NEnO9aCGKvmvVi7Hph1QHl4Q--z9k7kNAc24MmOhscNDU8nAGOk43HjVpCXGyc-bmqBRQFQsPtx434wCfRQJyTKwOLrwYLAVAbUsu7ZJmCJAhTsetwI8tjjxtUg04FJASw66XHTZIg6UJTsBqoACs5_3NjyuHECRAqYgF4umfFiAtDrQKkZQKc8bgIy9kFkwWbtAmZ6oNDcx41Qs15M3_10I8hvj5uaHjf2P24EJjeg-IrHjaseN05_Ng8UAUBnggWXAY0DmQIUgoQKMA6Bvn6xdfvTCcthnu15OmcFxINPl0x7BpTa0A53FyhnzJkLcT4onoBxA1SwayowpUHcATQHGCvwcN0FLF0aXqwAphWgG9pgbmh52goMY6DIElD4gZy9DiwFZCwAObup-9lUiIJl0IBsmgQy7kXHTmCQPm9cDeSDg33i8_mLwD5vgSh6ugHIAGoDc8EKQNqAWQKsaBJYFBjgEx83bgaGDcj-prkv9u-FxBlYdtOzbqDrwfHaBCwjQCIYAda-69nkLqBHQQGzePVTUMLqebG_Dyj4ZF_b8671wMAAuh8cwT3Pd2wEuvd5-ySQ24Gl8oQ1z9etfbm3C1geg2Rn7gGaBnTf08Xrn07Y9nRaF8jM1m0vV7a-BJb869qez16IHJw7gFmxAVhXvZy9GOzIyeAIBwYYJC0AvQaM9h3PuoBmw300_el6iPc7wNzZYC3Akg2cpZ91AMNi9fM5wEIVnM5AJoKKHFAa7QaWWItBkdLUBVIKTB5ATU_3LQTaD1YNzA5Ak4BlByjkX6zdDjWiCeRcYBQ-bgRG1nT0wAOGx5O9-yFeeNY3CVh4PW2YBExDLxp6gIEHDBKgi4Ah-qx9O7AIez5n_rO1i4HBCXELKMCWzgOWPE92zn-6vxUYVEBbn-yd-HTdtpdNy5DC6ens2ZDsjJyLgakQkviQkx00DIBlNCj3zlkDkmhoAGqAeRKS7SdA_dk4D6wB6KZ9K0FB1AHO2CAjgWgDJMcD0_njxoWQBASMDALZDZgmsKYniKOALnqys_nZjPUQf0O8CyouQa7rAZb2EKeARDqagdqBye7pemCx1wCsXoEh-nwlsDYDhwrQEZQ3SKBAQUufi8s7MTczO7Eq1SogMzEv36HGoEahGlwf2Vho2YEZ2JpCkNZCw7N1WxU0TBSebugHVkI68NIYJKtgqABsp2hi0Qq0FWos0AQrYGU0FVz9PW7aCGQvAdKrFWqArPlgsdVgcg-QBIn1Q8UeN-0H8vogok2rwKJrwRVbN5BEsmBXD9CCxjaIBY3LgMpagPQSkLbG9WBtTWCZdRCjGiG8BUC8CohnQkWXgUV7weonISyoAfpRFwiNFDSMFXR1FUw0VTV0dTWB4qZAUaAQmK5RMAOSGoZxICVmUCUQCSMgCTICRNeAEzzuwN7Vgy-wjYgN7KZNwEDaDA08UDBCgnAJmLcBHISboWI7wFEDbDwB8TxwCIKiACSLABhBvRWI1wIxON4aN0GNAgUaMAuCyYlQMWBEAMWBGQ4qAwlqkCyG8TUKGsAwBAYnNPRAAQoKT1AMgChQaEJCFBrMRnFQlRrGqHyoLlCAg6ABEQEPbLfiCXhjogN-LyQRNkEC_3HzInAogBNhcyuY7IAGcRdY3XZwen_cDEq8INEVeAMeHMSg4J0PDkRgvQgOzulgMXDsgkmQGNh4YNSAcgCwaIOKgqIKS8CjpnBYBEDDHR740DRuDlJjCAtrI6QYQgR2LReXrp0CrNQBsZW5uAA)]
-- [鋼琴伴奏 TMD 檔案](kamikaze_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-dN7LRSve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBhZc9rYKzlw2xvomdlx1Ckov2nc9b1z8bOrMF02bns1pftq65sWq3scNfc-mbXi6btbT1knPVy99OmXjs7U9jxv6n27ofrpjx_PlE5-vWfNkR-fTtTue7tzyfArISrjIsznzHzfvBnJNXy6bBrRZCWTL0zndz1d3Q-1au_1p_6anvbOed658uWTF09YdL6b3A02AMF7MnP9-zywjAyMDPQMDMz0DCxNzIMPAGGwSl76Wgi21AJeCgsLjhgnPZm96Pnvdi1Wrns3oe9wwESzavPtp-64XM6cCXYIjfBqB4k97pgND6eXqGU8XND2fuefFQmAQdWELt2484fZsxtqnk3rMgPz3e_oNLY0NwazO93t6QC5RUEAOVyBbwVQBGKyPGzogcf24AaTyad_8Z7N3gGSNjRVeLmgEGdvX_Ky__9mqKQoBBqZmelkF6UBDHzc0Qb33YuU8oL-B3gOa_WzOipdzNgENU3iydw5QAuiOpxs3Pp-y4UXDVKAISBSoFknvqv3PGpa_6Gh_1t0Lia3Hzf1AQaCtzgpPlywHM0HOAiYxBaAaIOtlw_ynu5YpQBIgwqTn21cATYYEPdZUCzQbEgqGegpPO3uB4goannklRfk6CiYKTzf0P1_foAlU83TPVGBgQkLq2bqtzzYsftq96Pni1udLtjyf1fJkRxcwap5vbXq2dtGzFU1P-5e-nNb9dMEWqDsUFIz0FJ7s2A2MKYjVChreibmZ2YlVqToKhkZQaxQOTwdaCTQcbF__5med3c_2TAGqRg6qF2vnPF2_-snO7pezW57t2AdyTXfv07UTnk3vfrqvGxRR25cBNT7ZvfRp36yn65eBHQdVA0wET_cse9mwCejWZ1PWP5s0Aeo-yhM6FCho6XNxgUPPKiAzMS8_yMOhxqBGoRocCDYWWnZgRo2CoYIuEBopaBgr6OoqmGqqaujqaoLE44DCYMIUiGsUzICkhjlIjWEcVJERSBaqEgQNQFyuWhRrfXBZGw9UHG0YCydRhExBzBoFExAFZkebYqiB2waLP3z-xFaSQDJbAzCWFTTg6QuLMmBAYgsqE3hQgQIIKIQcUKAw0VUwgyqBSBiBAhRsAMjh-J21q4d4Z2kAbUTEHMh6cIxAIwZkN8R-qKOMYNGnYYzKh-oCOQ8RmwRCD5QByQo96iQ01KjHntaoE_V4kytMCJxeo01AHLAsMGkgEi80CVMx4pGsg5BYHWUGFjLLBfHAOlBcRfVYpl6-1rVTABckCkAGLKKJZStzcQEA)]
+- [主旋律 TMD 檔案](kamikaze.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-Zm5mSWJBZVKnFpaSk8Xzrv5aIVClpaXIq2CoYGFlz2tgrOXDbG-iZ2IG0v2nc9b1z8bOrMF02bns1pftq65sWq3scNfc-mbXi6btbT1knPVy99OmXjs7U9jxv6n27ofrpjx_PlE5-vWfNkR-fTtTue7tzyfMqK93s64CLP5sx_3LwbyDV9uWza-z2dYMc9ndP9fHU31K6125_2b3raO-t558qXS1Y8bd3xYno_0AQI48XM-e_3zAIFsx4wmPVAwQxkGBiDTeLS11KwpRbgUlBQeNww4dnsTc9nr3uxatWzGX2PGyaCRZt3P23f9WLmVKBLcIRPI1D8ac90YCi9XD3j6YKm5zP3vFgIDKIubOHWjSfcns1Y-3RSjxmQ_35Pv6GlsSGY1fl-Tw_IJQoKyOEKZCuYKgCD9XFDByRaHzeAVD7tm_9s9g6QrLGxwssFjSBj-5qf9fc_WzVFIcDA1EwvqyAdaOjjhiao916snAf0N9B7QLOfzVnxcs4mUBp5sncOUALojqcbNz6fsuFFw1SgCEgUqBZJ76r9zxqWv-hof9bdC4mtx839QEGgrc4KT5csBzNBzgImMQWgGiDrZcP8p7uWPVsx8_mSXY8bep62Nj_bsPhx84rHTesVIKnycQMwUOE2NPc8m7keZMNskLuANjybOuPF_g1PexuB7n2yY9rzLQ1AM17s7n2xdNOz6UtB_p3W_mzDDlDE7ZnxdF3nk53dT_fuBDrj2bQ9wJT2dMksYCS-bFz7srH92awtYDOhIQhU82JZ27PdrUAt0JTZtBmYGqCuUVBADosnu5e-nN3ybMe-Z3M6n3bNfj6rRQHmZQWob4Gufjmz5eXuec_XNzxd2v9i7Zyn61cDg-DF9hXAIHjZOAWYXl7O36zgmwl0QoJxXAJKvDzv7Hg2B5jCQIkR5O05a4BR-Gxhx_OmXZBIfjpt3YvGTS-bVzzZNeX59llA44HGAC18vnz30-6pCi75Ci9n9T2d0Pu8s_1pYzuQATQeFBj7Fzxdv-zZ1B1P9vY-7ZkGsQboKqCfgEZD_A1M48_mTgAxps18sn_u07UzQO6C5hKI7cDUDEwgT1tXAIMb6NEnO9aCGKvmvVi7Hph1QHl4Q--z9k7kNAc24MmOhscNDU8nAGOk43HjVpCXGyc-bmqBRQFQsPtx434wCfRQJyTKwOLrwYLAVAbUsu7ZJmCJAhTsetwI8tjjxtUg04FJASw66XHTZIg6UJTsBqoACs5_3NjyuHECRAqYgF4umfFiAtDrQKkZQKc8bgIy9kFkwWbtAmZ6oNDcx41Qs15M3_10I8hvj5uaHjf2P24EJjeg-IrHjaseN05_Ng8UAUBnggWXAY0DmQIUgoQKMA6Bvn6xdfvTCcthnu15OmcFxINPl0x7BpTa0A53FyhnzJkLcT4onoBxA1SwayowpUHcATQHGCvwcN0FLF0aXqwAphWgG9pgbmh52goMY6DIElD4gZy9DiwFZCwAObup-9lUiIJl0IBsmgQy7kXHTmCQPm9cDeSDg33i8_mLwD5vgSh6ugHIAGoDc8EKQNqAWQKsaBJYFBjgEx83bgaGDcj-prkv9u-FxBlYdtOzbqDrwfHaBCwjQCIYAda-69nkLqBHQQGzePVTUMLqebG_Dyj4ZF_b8671wMAAuh8cwT3Pd2wEuvd5-ySQ24Gl8oQ1z9etfbm3C1geg2Rn7gGaBnTf08Xrn07Y9nRaF8jM1m0vV7a-BJb869qez16IHJw7gFmxAVhXvZy9GOzIyeAIBwYYJC0AvQaM9h3PuoBmw300_el6iPc7wNzZYC3Akg2cpZ91AMNi9fM5wEIVnM5AJoKKHFAa7QaWWItBkdLUBVIKTB5ATU_3LQTaD1YNzA5Ak4BlByjkX6zdDjWiCeRcYBQ-bgRG1nT0wAOGx5O9-yFeeNY3CVh4PW2YBExDLxp6gIEHDBKgi4Ah-qx9O7AIez5n_rO1i4HBCXELKMCWzgOWPE92zn-6vxUYVEBbn-yd-HTdtpdNy5DC6ens2ZDsjJyLgakQkviQkx00DIBlNCj3zlkDkmhoAGqAeRKS7SdA_dk4D6wB6KZ9K0FB1AHO2CAjgWgDJMcD0_njxoWQBASMDALZDZgmsKYniKOALnqys_nZjPUQf0O8CyouQa7rAZb2EKeARDqagdqBye7pemCx1wCsXoEh-nwlsDYDhwrQEZQ3SKBAQUufi8s7MTczO7Eq1SogMzEv36HGoEahGlwf2Vho2YEZ2JpCkNZCw7N1WxU0TBSebugHVkI68NIYJKtgqABsp2hi0Qq0FWos0AQrYGU0FVz9PW7aCGQvAdKrFWqArPlgsdVgcg-QBIn1Q8UeN-0H8vogok2rwKJrwRVbN5BEsmBXD9CCxjaIBY3LgMpagPQSkLbG9WBtTWCZdRCjGiG8BUC8CohnQkWXgUV7weonISyoUdAwVNAFQmNNVQ1dXU1gk0kXyAGJg1mGcVBxM7AqXZAEhGmG0ADSDpIwAjMNoRIQHlAHOBvgjoJdPfiiwIjYKGjaBAy6zdAgBQUuJGCXgHkbwAG7GSq2AxxhwCYVEM8DhysoYkCyCIARAVuBeC0Qg2OzcRPUKFBQAjMmmJwIFQNGD1AcmA2hMpAIAMliGA8JTV0FU2iYGcZBwhYcL0C2roIRlgiAqcKIAViQGxAR7MC2LJ5gNyY62PdCEmYTJOgfNy8ChwE4YTa3gskOaAB3gdVtB-eBx82gBA0SXYE32MEBDArc-eAgBNaV4MCcDhYDxy2YBImBjQdGDChXAIs7qCgoorAFOyTVG6EEIbZgh4Y1UsI3h6VviAxQQQ1CFSTka7m4dO0UYMUSiK3MxQUA)]
+- [鋼琴伴奏 TMD 檔案](kamikaze_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-dN7LRSve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBhZc9rYKzlw2xvomdlx1Ckov2nc9b1z8bOrMF02bns1pftq65sWq3scNfc-mbXi6btbT1knPVy99OmXjs7U9jxv6n27ofrpjx_PlE5-vWfNkR-fTtTue7tzyfArISrjIsznzHzfvBnJNXy6bBrRZCWTL0zndz1d3Q-1au_1p_6anvbOed658uWTF09YdL6b3A02AMF7MnP9-zywjAyMDPQMDMz0DCxNzIMPAGGwSl76Wgi21AJeCgsLjhgnPZm96Pnvdi1Wrns3oe9wwESzavPtp-64XM6cCXYIjfBqB4k97pgND6eXqGU8XND2fuefFQmAQdWELt2484fZsxtqnk3rMgPz3e_oNLY0NwazO93t6QC5RUEAOVyBbwVQBGKyPGzogcf24AaTyad_8Z7N3gGSNjRVeLmgEGdvX_Ky__9mqKQoBBqZmelkF6UBDHzc0Qb33YuU8oL-B3gOa_WzOipdzNgENU3iydw5QAuiOpxs3Pp-y4UXDVKAISBSoFknvqv3PGpa_6Gh_1t0Lia3Hzf1AQaCtzgpPlywHM0HOAiYxBaAaIOtlw_ynu5YpQBIgwqTn21cATYYEPdZUCzQbEgqGegpPO3uB4goannklRfk6CiYKTzf0P1_foAlU83TPVGBgQkLq2bqtzzYsftq96Pni1udLtjyf1fJkRxcwap5vbXq2dtGzFU1P-5e-nNb9dMEWqDsUFIz0FJ7s2A2MKYjVChreibmZ2YlVqToKhkZQaxQOTwdaCTQcbF__5med3c_2TAGqRg6qF2vnPF2_-snO7pezW57t2AdyTXfv07UTnk3vfrqvGxRR25cBNT7ZvfRp36yn65eBHQdVA0wET_cse9mwCejWZ1PWP5s0Aeo-yhM6FCho6XNxgUPPKiAzMS8_yMOhxqBGoRocCDYWWnZgRo2ChqGCLhAaaapq6OpqAhMciGcGlohT0AVKxEFlQFwwBEqZgRnmUBkjiAxQQQ1ClQFIJVctiht8cLjBMB6oONowFk6iCJmCmDUKJiAKzI42xVADtw0Wmfg8ja1YgeS8BmCUK2jAEpsOPDeBZBUMFYCRpYlFKzCkocYCTbACJvWp4IT2uGkjkL0ESK8GOvZx83yw2GowuQfsb2BOgoo9btoP5PVBRJtWgUXXgrNNN5BEsmBXD9CCxjaIBY3LgMpagPQSkLbG9WBtTWCZdRCjGiG8BUC8CohnQkWXgUV7weonISyApwZjRGoAckDiYJYhLC1A4h8pKZihJB-wDiNIooClEZgOLvxRsKsHXxQYERsFTZuAQbcZGqSgwIUE7BIwbwM4YDdDxXaAI-xx8wogngcOV1DEgGQRACMCtgLxWiAGx2bjJqhRoKB83AiKsceNE6FiwOgBij9uBEUTSAYSASBZDOMhoQlM5Kg5DltmRIoAmCqMGIAFOSRvEEj5oJIUZ7AbEx3seyEJswkS9I-bF4HDAJwwm1vBZAc0gLvA6raD88DjZlCCBomuwBvs4AAGBe58cBA-btwMDszpYDFw3IJJkBjYeGDEgHLF46ZOqCgoorAFO63LQNRSCXsxSGyphCceCJWkMCFwURptAuKAZWuQy1Vo6UpaPsXrKCTrICRWR5mBhcxyQTywDhRXkZGIKQgokqocXTsFcB2nAGTAIppYtjIXFwA)]
 
 ## 分析
 
@@ -84,21 +84,21 @@ C6 D2 E3 G | c4 c4 G4 | A4 B3 c d4 | c8 z4 |
 ⏱  Duration:       0:20 (20.0s), 12 measures total
 🎼 Key & Tempo:    首調基準 C, != 108.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [Kamikaze #1 @ m.1, 0:00]
-   - 最高音: E5 in [Kamikaze #1 @ m.7, 0:10]
+   - 最高音: D5 in [Kamikaze #1 @ m.6, 0:08]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Kamikaze (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, D, G, A, E
-   - 調性數值:    C 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.87), G 大調 (0.66), A 小調 (0.59)
+   - 核心骨幹音:  C, A, D, G, E
+   - 調性數值:    C 大調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.77), G 大調 (0.68), A 小調 (0.68)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Kamikaze #1]: C 大調 (r: 0.87, 自然音純度: 100.0%)
+     • [Kamikaze #1]: C 大調 (r: 0.77, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -111,21 +111,21 @@ C6 D2 E3 G | c4 c4 G4 | A4 B3 c d4 | c8 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  37.5%
+     C  : ████████████████████████  30.1%
      C# :                            0.0%
-     D  : ████████████              19.1%
+     D  : ████████████████          20.6%
      D# :                            0.0%
-     E  : ██████                     9.6%
-     F  :                            0.7%
+     E  : ████                       5.1%
+     F  :                            0.0%
      F# :                            0.0%
-     G  : ████████████              19.1%
+     G  : ████████████████          20.6%
      G# :                            0.0%
-     A  : ████████                  11.8%
+     A  : ██████████████████        22.8%
      A# :                            0.0%
-     B  : █                          2.2%
+     B  : █                          0.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 39 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 38 個音符)
 ================================================================================
 ```
 
