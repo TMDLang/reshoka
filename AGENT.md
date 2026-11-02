@@ -3,6 +3,7 @@
 ## 必要技能（Required Skills）
 
 - **啟動時載入 `tmd` skill**：代理人在啟動或處理本專案的任何樂譜掃描、轉錄、編修與除錯時，**必須優先載入並參考 `tmd` skill**，以精確遵循 TMD 語法規則、時值與小節驗證機制，並善用 `tmd check` 進行校對。
+- **樂譜掃描與轉錄時載入專屬 `shoka-score-grounding` skill**：當進行任何樂譜掃描、校對、圖檔光學轉錄或防止模型先驗幻覺時，**必須載入本專案專屬之 `.agents/skills/shoka-score-grounding` skill**，嚴格落實高解析切片定位、雙通道盲審轉錄與常理審查工具。
 
 ## 代理人互動與行為準則
 
@@ -48,6 +49,10 @@ python3 scripts/generate_song_markdown.py --force
   * 面對極高知名度的曲目（如《春の小川》、《故郷の空》、《蛍の光》等），模型內部通常儲存了現代標準版或民間廣為流傳的版本。**嚴禁依賴預訓練記憶中的旋律、拍子、節奏型或歌詞填入 TMD**。
   * 歷史教材（如臺灣總督府各時期唱歌集、各版次尋常科教材）常有專門的教材改編、音域調整、節奏簡化、甚至變奏。**「長得像知名歌曲」不等於「音符完全相同」，必須一拍一音逐一核對圖檔上的符頭與符桿**。
 * **禁止現代化歌詞**：歌詞字元必須嚴格按照掃描頁上的文字抄錄，保留歷史假名遣（如「かうべ」、「けふ」）與原書漢字／異體字，不得自動轉為現代日文假名或進行簡體/繁體轉換。
+
+> [!IMPORTANT]
+> **歷史假名遣（歴史的仮名遣）不可侵犯原則**：
+> 本專案所有戰前教材一律使用歷史假名遣（如「さへぎる」、「けふ」、「くわん」、「せちゑ」）與舊字體，且活字鉛印常省略濁點（如「むら雲（くも）」）或使用大字促音／拗音（如「シヨ」、「きつ」）。**嚴禁 AI 依據現代日語文法或現代發音自動修正、現代化或私自補上濁點**（詳見 `.agents/skills/shoka-score-grounding/references/historical_kana.md`）。
 
 ### 3. 機械化分步轉錄與自檢流程（Measure-by-Measure Verification）
 為避免整體性記憶取代局部性觀察，轉錄時必須依序分步執行：
@@ -102,6 +107,7 @@ python3 scripts/generate_song_markdown.py --force
 | `theme`       | 歌詞／題材主題             | `taiwan`, `nature`, `landscape`, `weather`, `animal`, `plant`, `water`, `transport`, `school_life`, `family`, `friendship`, `work`, `military`, `imperial`, `festival`, `seasons`, `time_of_day`, `folklore`, `history`, `technology`, `food`, `travel`, `emotion`, `religion`, `community`, `music`, `place`, `sport`, `unclassified` |
 | `form`        | 聲部或曲式                 | `strophic`, `unison`, `two_part`, `round`, `question_answer`, `instrumental`                                                                                                                                                                                                                                                           |
 | `version`     | 檔案代表的版本             | `source_transcription`, `piano_arrangement`, `duplicate_version`, `modern_editorial`                                                                                                                                                                                                                                                   |
+| `orthography` | 歌詞假名遣與正字法         | `historical_kana`, `modern_kana`                                                                                                                                                                                                                                                                                                      |
 | `analysis`    | 經分析得到的音樂特徵       | `pentatonic`, `major`, `minor`, `modal`, `repeated_melody`, `wide_range`                                                                                                                                                                                                                                                               |
 
 題材標記要區分：`theme:weather` 只用於雨、雷、雲、霧、露、風等實際天候現象；四季與季節性景物使用 `theme:seasons`；朝、夕、夜、月夜等時間意象使用 `theme:time_of_day`。

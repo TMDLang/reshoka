@@ -22,6 +22,8 @@ description: >-
    * 歌名去語意化。不要因為看到《春の小川》或《菅公》就直覺帶入民間旋律或西洋自然小調套路。
 3. **拒絕削足適履（No Lyric-Melody Compromise）**：
    * 絕不能因為歌詞字數與音符數看似不合，就自行修改音符時值或添加破折號 `-`。
+4. **歷史假名遣絕對保留（Historical Kana Preservation）**：
+   * 戰前出版物一律使用歷史假名遣（如「さへぎる」「けふ」「くわん」「せちゑ」）與舊字體，嚴禁自動現代化，嚴禁私自補上濁點或修改大小寫（詳見 [歷史假名遣指南](./references/historical_kana.md)）。
 
 ---
 
@@ -67,12 +69,14 @@ python3 .agents/skills/shoka-score-grounding/scripts/slice_score.py path/to/song
   | m.2  | 2    | 第二線（G4）  | 向上 | 實心 | `1`  |
 
 #### 通道 B（Pass 2：排版與結構審查）
+* **歷史假名與正字檢驗**：確認保留「さへぎる」「くわん」「せちゑ」等歷史假名遣，以及大字拗音（如「シヨ」「きつ」）、無濁點（「むら雲（くも）」）與舊字體（「會」「眞」「拜」），嚴禁轉為現代正寫法。
 * **反覆記號搜尋**：檢查第 8 小節末尾或段落末尾是否有反覆記號 `|:` / `:|`。
 * **雙層歌詞識別**：若音符下方出現上下兩排日文假名（Double-decker），代表前 8 小節反覆演唱兩遍（第 1 遍與第 2 遍），第 9~16 小節有獨立歌詞，**嚴禁混淆**！
 
 ### 步驟 3：撰寫或修改 TMD 檔案
 
 編輯主旋律 `.tmd`：
+* Metadata 標籤：若採用歷史假名遣，加入 `~ "tag: orthography:historical_kana"`。
 * 調號（`?=`）與明確調性標註（`key=`）
 * 拍號（`<4/4>`、`<2/4>`、`<3/4>`）
 * 每小節以 `| ... |` 嚴格包覆，時值總和精確相符。
@@ -103,5 +107,6 @@ python3 scripts/generate_song_markdown.py --force path/to/song_dir
 
 ## 參考文獻與專題手冊
 
+* [歷史假名遣轉錄指南與常見對照手冊（ハ行轉呼音、合拗音、濁點省略、舊字體）](./references/historical_kana.md)
 * [日治時期學校唱歌音階與旋法手冊（都節音階、律音階、四七拔）](./references/scales_and_modes.md)
 * [歷史活字鉛版印刷缺陷與排版陷阱手冊（肥符頭、墨暈、斷線、雙層歌詞）](./references/notation_defects.md)
