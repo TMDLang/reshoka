@@ -112,9 +112,8 @@ def slice_score(
         y_start = max(0, y_start)
         y_end = min(height, y_end)
         crop_h = y_end - y_start
-        center_y = (y_start + y_end) // 2
-        offset_y = center_y - (height // 2)
-        offset_x = 0  # 居中
+        offset_y = y_start
+        offset_x = margin_x
 
         dst = output_dir / f"staff_{i+1}.png"
         crop_image(image_path, dst, crop_w, crop_h, offset_x, offset_y)
@@ -125,11 +124,11 @@ def slice_score(
     lyrics_top = int(height * 0.65)
     lyrics_bot = int(height * lyrics_bottom_ratio)
     lyrics_h = lyrics_bot - lyrics_top
-    center_y = (lyrics_top + lyrics_bot) // 2
-    offset_y = center_y - (height // 2)
+    offset_y = lyrics_top
+    offset_x = margin_x
 
     dst_lyrics = output_dir / "bottom_lyrics.png"
-    crop_image(image_path, dst_lyrics, crop_w, lyrics_h, 0, offset_y)
+    crop_image(image_path, dst_lyrics, crop_w, lyrics_h, offset_x, offset_y)
     cropped_files.append(dst_lyrics)
     print(f"   [底欄歌詞] 已輸出：{dst_lyrics.name} (Y: {lyrics_top}..{lyrics_bot})")
 
