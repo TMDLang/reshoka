@@ -47,7 +47,7 @@ audio: "yudachi.mp3"
 
 三
 かみなりやんで雨風（あめかぜ）はれて
-落（お）ち來る白（しら）つゆはら／＼／＼
+落（お）ち來（く）る白（しら）つゆはら／＼／＼
 鳴（な）き出（だ）す夕（ゆふ）ぜみじい／＼／＼
 見る間に虹（にじ）は消（き）えて行（ゆ）く
 ```
@@ -63,16 +63,16 @@ Q:1/4=120
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-D2 F2 A2 d2 | B3 A A4 | G3 G F2 G2 | E2 F2 D4 |
-F3 A d2 c2 | B3 c d2 B2 | A B z2 A B z2 | A2 d4 z2 |
-d3 f d2 A2 | B3 G A2 F2 | E F z2 G A z2 | E2 A4 z2 |
+D3 F A2 d2 | B3 A A4 | G3 G F2 G2 | E3 F D4 |
+F3 A d2 c2 | B3 c d2 B2 | A B z2 A B z2 | d2 d4 z2 |
+d3 f d2 A2 | B3 G A2 F2 | E F z2 G A z2 | E2 D4 z2 |
 A3 B A2 F2 | D3 E F4 | E3 F G2 E2 | D6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yudachi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5anJgIZRUpcWloKT5dMfb66W0FLi0vRVsHQyIDL3lbBhcvGSN_EDqTrRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-y4v2eDlC46AHDRQ8ULkCGgcn7PZ1KXFz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAPd9WLlvKetK55Nawe64umG3mftnQoBBsaGelkF6e_39AAVv1zQqFCgp2AB5AHd_WRHA9Ddz-bMB7IVLBReLpsGdOj7PbNAhr9Ytf9Zw3KQsd29L2bOB4o-blwNFHyyqwco8nTtBKAVLsAQXQ4UUwCGoAJQFGjqo5krbYEhCzSHC2QK0AYQ9bix6XHjwsdNnY8b1z3duBGo9XFTy-PGfUBlQFNf7p70cvYmkGBj_-OmXjDZBJbqetw4-XFTF8SITSD9TY0g6Uag5lWPG5cCjXjcuOVxY_f7Pf3v9-yBkCDVLzdvAZu3CmRMU9fT9l1g7gKwqTOBGh437gcZ0QS0YQrQTnT9L5YBjQRq2A_W3_1y2mQwF-rg5yshxs0Fuggssh7sZiAD6DSgod0Qv-_qgTgcaNnEx01tQNknuyAaNz1uBCYUUGiAQ2YF2KdLoCobl4Ejd8JOsNKtYHW9T_a1QQII4iCw0mkv528GCwI1Q4ybCjQFIyhmAn0HMwjk3wXAEIDkBHA8AN21FSy4EGzEBrCfMEIDEghAvz_dtRZs3GqgryF-f7YRGKxAEWCcTASLAL2DCIQdnfBAgIU4MOqbgEYtfzl7xctFoAwDCgRQxALVzIGGZ1MPNBxeTNgL8SNYYiEwHIBGP58JEZwOi4AlYH8AtWG4HSUlNPaipQRgOMADASwyB-zMGUDf4AuEFzMhkQMMhBnQQNjWARYBhjWQC2Qse7GwB2I0WKQfZATl2R4KFLT0ubgiS1MSkzMyrQIyE_PyHWoMahSqQZYo2BiaadmBWdgKHAVIvge6TkHDROHphv7n6xt04KWEJhYNQLughmkANWpaKTxuWgSK0uZGMLkSTPYByRogvQTMmwfE3SBNENGm9WDRtXAWSD9IfBWI17QZLAZigwCydbt6QNY1gowCJi6w4jYwux9iQOMmMG8FEK9DWNfYBBftArNAjgKJI5nTuAzVuhoFQwVdBWMgNgViwzggUaNgBiRBAiAhEKxRMAHTJmCFIHaNghFUG0g7WA042eMO-l09FAV98yRooD9uXggOD1CAgoISEvBdQNwKjQJIhEwByq0G-xSZDZEB6YfwcQb9VnBg9UKDHJgBUIJyGjyIV0DFpwIN3vO4cTFYEIkDkQM5AiqAFvqgIAQFNTjkzZFC3xwiBOLUAOXNFAzA6iA0SAQaWyAIFiIQ_js6KQt_sHeBifVxcwM4QHZCwx8Ujo-b5yOpgIhvASd8cPgjsSEykExBOPybgNHauAAcpDOhmiHZYCtcHJQYQGG8ASjXCbEOiQ2RAZkE4aMFPjQAjeMgLFCYwoLfBMwDxQ4oqRuDgxgkBgl9UOKHZQ4iAh_YTqIs8OeDg2w1NHlDyhhQaOwF80CZApRKYQEMKWuAolAWKGJACR85yeMI9v3gwOoGsvaBgxKkBRSI4FhuXA_GcIsaW8CiE6HZAFjXQB0AKwIxAhwSZmZIYQspPkAhDCtqQGELkgUVMyA2TA1yaNdycenaKUArAgUgU5kLAA)]
-- [鋼琴伴奏 TMD 檔案](yudachi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOrz1d3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDIwMue1sFFy4bI30TO646BaUX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHk6e_bTtTue7tzyfMoKoJVGBkYGegYGZnoGFibmQIaBCdBWJS6uyNKUxOSMTKuAzMS8_CAPhxqDGoVqLgUgsDE007IDs_S1FGzRgQLQiic7Gl4s7FHQMFF4uqH_-foGHYUAA2NDvayCdE0sGrT0wYbVKBgq6CoYA7EpEBvGAYkaBTMgCRIACYFgjYIJmDYBKwSxaxSMoNpA2sFquPA7blcPOY4D2QByCdhh5kiOM4cIgTg1QHkzBQOwOggNEoF6BgTBQgSct6OTrLCDWGEcB2GBbIU50ATMA7kfFFbGYEeAxCDuA4UeLHSJcB4w9ZDjPIgNZkgugcQWyD2wmAW5BCQLilUQG6YG2W21aAnTByVhWkDTJVBnvIJpPJQEphkgEzvHNB5ZIW7NYAKkHOgOMAFmA5UAEZBD2FaQRSCtML1gYYhJWDWj8uDqkWXhlgMDRddOARouCqhMZS4A)]
+- [主旋律 TMD 檔案](yudachi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdLFyYl58WWpRZlpmakpCPn8opKMfKBLCjIqrTIyi0vyizKTE3PisxPzkB2cWlQM9hTYNfElRYl5xclFmQUgnyJUlWSkAn1VnpoIZBQpcWlpKTxdMvX56m4FLS0uRVsFQyMDLntbBRcuGyN9EzuQrhftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9eseTp79tO1O57u3PJ8yor3ezpAAagHDEA9UAACGQYm7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdNeLlfOetq54Nq0d6IqnG3qftXcqBBgYG-plFaS_39MDVPxyQaNCgZ6CBZAHdPeTHQ1Adz-bMx_IVrBQeLlsGtCh7_fMAhn-YtX-Zw3LQcZ2976YOR8o-rhxNVDwya4eoMjTtROAVrgAQ3Q5UEwBGIIKQFGgqY9mrrQFhizQHC6QKUAbQNTjxqbHjQsfN3U-blz3dONGoNbHTS2PG_cBlQFNfbl70svZm0CCjf2Pm3rBZBNYqutx4-THTV0QIzaB9Dc1gqQbgZpXPW5cCjTiceOWx43d7_f0v9-zB0KCVL_cvAVs3iqQMU1dT9t3gbkLwKbOBGp43LgfZEQT0IYpQDvR9b9YBjQSqGE_WH_3y2mTwVyog5-vhBg3F-gisMh6sJuBDKDTgIZ2Q_y-qwficKBlEx83tQFln-yCaNz0uBGYUEChAQ6ZFWCfLoGqbFwGjtwJO8FKt4LV9T7Z1wYJIIiDwEqnvZy_GSwI1AwxbirQFIygmAn0HcwgkH8XAEMAkhPA8QB011aw4EKwERvAfsIIDUggAP3-dNdasHGrgb6G-P3ZRmCwAkWAcTIRLAL0DiIQdnTCAwEW4sCobwIatfzl7BUvF4EyDCgQQBELVDMHGp5NPdBweDFhL8SPYImFaOHwfCZEdjosJpaAPQTUj-EJlCTR2IuWJIABAg8NsMgcsHtnAL2FLzRezITEEjA0ZkBDY1sHWAQY6EAukLHsxcIeiNFgkX6QEZTnfyhQ0NLn4oosTUlMzsi0CshMzMt3qDGoUagGWaJgY2imZQdmYSt5FCAFANB1ChomCk839D9f36ADLy40sWgA2gU1TAOoUdNK4XHTIlDcNjeCyZVgsg9I1gDpJWDePCDuBmmCiDatB4uuhbNA-kHiq0C8ps1gMRAbBJCt29UDsq4RZBQwlYEVt4HZ_RADGjeBeSuAeB3CusYmuGgXmAVyFEgcyZzGZVis29GJZN1-MAlxIcgYkHtbwLzJQPHl6NY1NcJ1zoGKg_3a1IPNuhoFQwVdIDRWMAWShnFAokbBDCxkChYCwRoFEzBtAlQGIkEiRlBtEO1AEXB2wx3Tu3ooiunmSeC4WQnEC8G-AfkJFBKQeO4C4lYwax5EvHkKUG412KfIbIgMSD-Ejxn00JjeCg6sXmgMA_MbSsxNg8foCqj4VKDBex43LgYLInEgciBHQAUwbYRGNsS8hRg2TgfzOqGpB5LuIJEKEgV7EImNiG4IH8W6GnD8gWIWHNHmSJFtDhECcWqA8mYKBmB1EBqYSECSYAIEwWIE4ntHJ2XxDQ4OYF583NwA9s5OiOfA8fa4eT6SCoj4FnC-BgcHEhsiA8nzGMGBEd_A7AUskMEhOhOqGZLLt8LFQYkPFMYbkEIfwYbI4Ah95MgG52Zw8sJlHSjvQvI-yNAZQAzK8yAxBBsiAxKD8FGsg0YaMI_GQVig3AyLbhMwD5QaQDnZGByjIDFIbIPyNixfExHXwOYnZXE9H-SH5tXQ3AspsUGhsRfMA-V5UJaA-hhacgNFoSxomQjUjwqwxDK4KAXmLGBLChxsIC2gQAQnKlAuAucdWNCCC1lgKQ3J5ZBIAzkAVqFgswgav_gtAsUgskW9YNEd0NIZkcVhvkazCJRBQVFjhhSJkOgCRSWsyIYV0KDiGsSGqUGO1louLl07BWj9rQBkKnMBAA)]
+- [鋼琴伴奏 TMD 檔案](yudachi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOrz1d3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDIwMue1sFFy4bI30TO646BaUX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHk6e_bTtTue7tzyfMoKoJVGBkYGegYGZnoGFibmQIaBCdBWJS6uyNKUxOSMTKuAzMS8_CAPhxqDGoVqLgUgsDE007IDs_S1FGzRgQLQiic7Gl4s7FHQMFF4uqH_-foGHYUAA2NDvayCdE0sGrT0wYbVKBgq6AKhsYIpkDSMAxI1CmZgIVOwEAjWKJiAaROgMhAJEjGCaoNoB4pw4Xfcrh5yHAeyD-QSsMPMkRxnDhECcWqA8mYKBmB1EBroKZAkmABBsBgB9-3oJCvwIFYYx0FYoACDudAEzAN5ABRYxmBHgMQgDgQFHyzoiHAeMPmQ4zxIBJohuQRiJ8g9sKiFRSQoWkFsmBpkt9WipUwflJRpAU2YQJ3xCqbxUBKYaIBM7BzTeGSFKJqhUlANYAKi3gBKItkC5BC2GFUvwmZcmlF5UPVwV4HF4fqB4aJrpwANGgVUpjIXAA)]
 
 ## 分析
 
@@ -94,7 +94,7 @@ A3 B A2 F2 | D3 E F4 | E3 F G2 E2 | D6 z2 |
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  D, A, F#, B, E
    - 調性數值:    D 大調 [相關度: 0.98, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.98), B 小調 (0.68), A 大調 (0.67)
+   - 候選調性 (K-S): D 大調 (0.98), B 小調 (0.72), A 大調 (0.56)
    - 五度圈歷程:   +2
    - 各段落調性細節:
      • [Yudachi #1]: D 大調 (r: 0.98, 自然音純度: 100.0%)
@@ -112,16 +112,16 @@ A3 B A2 F2 | D3 E F4 | E3 F G2 E2 | D6 z2 |
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# : ██                         2.6%
-     D  : ████████████████████████  26.3%
+     D  : ████████████████████████  32.5%
      D# :                            0.0%
-     E  : █████████                  9.6%
+     E  : ████████                  10.5%
      F  :                            0.0%
-     F# : ████████████████          17.5%
-     G  : ████████                   8.8%
+     F# : ████████████              15.8%
+     G  : ██████                     8.8%
      G# :                            0.0%
-     A  : █████████████████████     22.8%
+     A  : █████████████             17.5%
      A# :                            0.0%
-     B  : ███████████               12.3%
+     B  : █████████                 12.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Piano         : D4 – F#5 (16 個半音 / 1.3 個八度, 54 個音符)
