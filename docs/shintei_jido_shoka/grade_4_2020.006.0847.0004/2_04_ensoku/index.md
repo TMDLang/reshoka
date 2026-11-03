@@ -78,16 +78,16 @@ Q:1/4=108
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C2 C2 F2 F2 | G2 F2 G2 A2 | G2 F2 D2 F2 | G2 G2 G2 z2 |
-c2 c2 c2 c2 | d2 c2 A2 c2 | G2 G2 F2 D2 | F6 z2 |
-G2 G2 F2 D2 | F2 G2 F2 D2 | C2 C2 C2 F2 | G2 A2 G2 z2 |
-F2 F2 G2 G2 | A2 A2 c2 c2 | G2 F2 E2 G2 | F6 z2 |
+C3 C F3 F | G3 F G2 A2 | G3 F D2 F2 | G2 G2 G2 z2 |
+c3 c c2 c2 | d3 c A2 c2 | G3 G F2 D2 | F6 z2 |
+G3 G F2 D2 | F3 G F2 D2 | C3 C C2 F2 | G2 A2 G2 z2 |
+F3 F G2 G2 | A3 A c2 c2 | G3 F D2 G2 | F6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ensoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8LJxwYttmxW0tLgUbRUMDSy47G0V3LhsjPRN7EA6X6yc937PrGfT2l82r3g-pxFs2rPZmzDEXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7Pm6ezZT9fueLpzy_MpK97v6QCFoR4wDPVAYQhkGJi839OpxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQXUCfPm1dAfQV0BVPN_Q-a-9UCDAwttDLKkh_1DAZyLQEMd_v6QHqe7mgUaGgQE_B0BQoZWgGFAT65MmuHqBPns2ZD2QrmCi8XDYN6HRgQIGse7Fq_7OG5SCLuntfzJwPFH3cuAMoCNQDFHm6dgLQUjeFp0uWA8UUgGGvABQF6gZpfdkw_-muZc962p8v2QUK9pbOp_tXP27u5gJJPtnRAKIeN3Y9bux-3Nj0uHHq48Z9IHZT5-OmjseNLUCpp0tWPtuwGGjD48Zlj5smP24EGf24cQXYYY3A-AVKQISAqpcBJR43bn7cOP9x4xIwG6hh3ZMda8HKVgGNhrrrceNOsGFAdW0vmlaCpYFOAPoNaNDqx039ICc0LnrcNOlx43qI0eCABwbRgoVg1T2PG_vBetrAeoAunw5U9KxhKVgWqGEuWLzvxUKQSoh_d_UgDHnavgts_TqgBc-mQ3QBUyZQyzqgFJi7HOJTYDCBDG9qB2l-vmUDWG43zAKgTcCAm_MS6NOGBpj1vY8bt4JlgV4GuqwbpPPZDrDDgV6DehNoJIgNDqllz-ZNB-tc_7gJaCKQDYwBoN_XPG6cCPX7i2XAwAOq2A_WDFQHNgLofnBMPd24EWw6UPM-iC-e7OgCq28DJhZQqENiHBz6z1dCPDgXaAjEj8-2bocphpgPjLoesMeBjlsN9gfIleAk1bgArBSoYjdYaT_QZY8bgXYDyfUvQdkbKAuMwCawbDfQZZAYBwbTQrCrgfEOYQAjGmghMLCAOreC0VqgEWBLFoHyM1hiDiRNPJsDEZkM8d2LiUCXg8ILwn02FZJEgUEM5AKdOh8cFG1gXwNLCXAAzt0GTcaQyGma9GL_XrAIMKDguoB5ARgxQL2zQXELigNgIIPEwUYsn_S0azZYz0xwVgEb1AxMDPvAOoHBNAnMBbKBoTYFbOhksBtaO55PAcY1UM9ycNB2vVgIcTIwBIApvA8pxoGWL4cEGVD1DEjIg4Nv7uPGbSCzm4BsoCOBATcVmrCnQNQDzQKavu7ZzKYXKzpgsQRMQC1Q_4IiahnMKeCABpu76XHjUlhKAlow-emEnWDNkDQMtGYVOLpmQguNJ7sgyQeobQXQ25AYAEUrSBGwuG6GFRiTkAqMVS8X9sOiFJJuoH4E2g_0IDD8uoGuerpvElgROPAbgTHe-XzmvpdLZkCtBDkQmGhAaQASs61rwRS4bgBrBAZLMzgcQCUNKJ2AMjUo2TxumggtXEDWAYu4HmAwPt0_A5YnZ4KDCFxAgMN3xZN9wJIFXrhBSgpgaK5_2gHJ4zuBBkHsAOZ9SM6EpD9wDpsCCSJgBEKSJKiYAYUy0NrG5S8mrHm2FuKuDeAgmgaNIpAFwDS0A1xeNAALGFDihOWkTUARcKADvTAVkrwhMQNSTXnFBgUKWvpcXK55xfnZpVYBmYl5-Q41BjUK1SA7FGwstOzADGwVqgKoFtvRACxvFTRMFJ5u6H--vkEHXgtqYtEAtAlqmAZQo6YVMOBXKTxu3gOkVwPxIoUaILkVKDIPItK8EiTSvALIWwJV2wYW2QzkrQXSHUDTkA3d1QMytLEHiPuBuBuUQ0AaGpcD8XwgXgfE68Eim6A8kMwKsEgLEC8GYlDJj-rUTrBT90KcCnQUyGKQU5cBWUBTgbzHTWvADpsE4TUDzWruBot0AXEz2OFwp9YomMaDkCEQ1igYAUkjBWMoywwkDGKCoIFCDTjV4w7-XT2UBT8oEEHBDwxeaNCCXD8ZKLIf7AuoSBMwwJv7wL4B-Xs1yBgwwBL4uyFGNs4FBykoYJuAeA4QA41sXAgW6QVHDDAxA_FUsEg3ViMhIQ92EyjkZwPtBsceKNSbgMmiGZRI-sFuWg9kLYImmyVgNfPQjQSGOxTWKJgBSWMwCxTQ4HCvAVK6QEg41Hd0UhTqzTOhSRgYIMA0BAlRSDyAQh2SbkD-AaU0YOA1bwKLAFM0NJ6whXsTUBoc7qBkPh1sKCgLgHigRA22Bpj0gcUIWB5YOYBF1gDxRLA8tpAHZklIyDfCMiM4JUB4MJcCcwEoHYH9AI5MIPm4GRjFQBcjhT1KOMOZkJwAzgwgJcbEpHpg9U5Zqgd6GpRewIUOJPxBhQ4o_LfD8gG4wAHm-CZgGQH0ISSF4Un1oLQNMrITFvqgwgVsJDDxQvIBOOT3QYsdSLG0A0-qh6cJUPiDQxqeC0FR3QcOaVBMAEsXcLoBp3qgfzBSPaicAYV-DTB4QWkekuoNFczjwYKIVF_LxaVrpwCpCxSALGUuLgA)]
-- [鋼琴伴奏 TMD 檔案](ensoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZuODFts3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwsue1sFNy4bI30TO646BaUXK-e93zPr2bT2l80rns9pVAKJPZu9CUPsRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-yAug0IwMjAz0DAzM9AwsTcyDDwAToOiUuLte84vzsUquAzMS8_CAPhxqDGoVqLgUgsLHQsgMz9LUUbNGBAtCCJzsaXizsUdAwUXi6of_5-gYdhQADYwu9rIJ0TSwatPTBhtUomMaDkCEQ1igYAUkjBWMoywwkDGKCoIFCDRd-63f1kGU9FNYomAFJYzALZB_Y-hogpQuEhC3f0UmO5SgWwZmQEAEHCkiJMTG-B8YuOQ4ABTvIETVAW0B-h_jeUME8HiyI8H0tasrwwZoygBriFaINY2EUyCtAlmk8NhEzEMMsPhdFEMQAWYfdNBMgw4SQWQhNCIPwKcSuF80CrO6CyxLQCGSYY7oMGKK6dgqQQFVAYSlzcQEA)]
+- [主旋律 TMD 檔案](ensoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8LJxwYttmxW0tLgUbRUMDSy47G0V3LhsjPRN7EA6X6yc937PrGfT2l82r3g-pxFs2rPZmzDEXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7Pm6ezZT9fueLpzy_MpK97v6QCFoR4wDPVAYQhkGJi839OpxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQXUCfPm1dAfQV0BVPN_Q-a-9UCDAwttDLKkh_1DAZyLQEMd_v6QHqe7mgUaGgQE_B0BQoZWgGFAT65MmuHqBPns2ZD2QrmCi8XDYN6HRgQIGse7Fq_7OG5SCLuntfzJwPFH3cuAMoCNQDFHm6dgLQUjeFp0uWA8UUgGGvABQF6gZpfdkw_-muZc962p8v2QUK9pbOp_tXP27u5gJJPtnRAKIeN3Y9bux-3Nj0uHHq48Z9IHZT5-OmjseNLUCpp0tWPtuwGGjD48Zlj5smP24EGf24cQXYYY3A-AVKQISAqpcBJR43bn7cOP9x4xIwG6hh3ZMda8HKVgGNhrrrceNOsGFAdW0vmlaCpYFOAPoNaNDqx039ICc0LnrcNOlx43qI0eCABwbRgoVg1T2PG_vBetrAeoAunw5U9KxhKVgWqGEuWLzvxUKQSoh_d_UgDHnavgts_TqgBc-mQ3QBUyZQyzqgFJi7HOJTYDCBDG9qB2l-vmUDWG43zAKgTcCAm_MS6NOGBpj1vY8bt4JlgV4GuqwbpPPZDrDDgV6DehNoJIgNDqllz-ZNB-tc_7gJaCKQDYwBoN_XPG6cCPX7i2XAwAOq2A_WDFQHNgLofnBMPd24EWw6UPM-iC-e7OgCq28DJhZQqENiHBz6z1dCPDgXaAjEj8-2bocphpgPjLoesMeBjlsN9gfIleAk1bgArBSoYjdYaT_QZY8bgXYDyfUvQdkbKAuMwCawbDfQZZAYBwbTQrCrgfEOYQAjGmghMLCAOreC0VqgEWBLFoHyM1hiDiRNPJsDEZkM8d2LiUCXg8ILwn02FZJEgUEM5AKdOh8cFG1gXwNLCXAAzt0GTcaQyGma9GL_XrAIMKDguoB5ARgxQL2zQXELigNgIIPEwUYsn_S0azZYz0xwVgEb1AxMDPvAOoHBNAnMBbKBoTYFbOhksBtaO55PAcY1UM9ycNB2vVgIcTIwBIApvA8pxoGWL4cEGVD1DEjIg4Nv7uPGbSCzm4BsoCOBATcVmrCnQNQDzQKavu7ZzKYXKzpgsQRMQC1Q_4IiahnMKeCABpu76XHjUlhKAlow-emEnWDNkDQMtGYVOLpmQguNJ7sgyQeobQXQ25AYAEUrSBGwuG6GFRiTkAqMVS8X9sOiFJJuoH4E2g_0IDD8uoGuerpvElgROPAbgTHe-XzmvpdLZkCtBDkQmGhAaQASs61rwRS4bgBrBAZLMzgcQCUNKJ2AMjUo2TxumggtXEDWAYu4HmAwPt0_A5YnZ4KDCFxAgMN3xZN9wJIFXrhBSgpgaK5_2gHJ4zuBBkHsAOZ9SM6EpD9wDpsCCSJgBEKSJKiYAYUy0NrG5S8mrHm2FuKuDeAgmgaNIpAFwDS0A1xeNAALGFDihOWkTUARcKADvTAVkrwhMQNSTXnFBgUKWvpcXK55xfnZpVYBmYl5-Q41BjUK1SA7FGwMzbTswCxsNaoCqBrb0QAscBU0TBSebuh_vr5BB14NamLRALQKapgGUKOmFTDkVyk8bt4DpFcD8SKFGiC5FSgyDyLSvBIk0rwCyFsCVdsGFtkM5K0F0h1A05AN3dUDMrSxB4j7gbgblEVAGhqXA_F8IF4HxOvBIpugPJDMCrBICxAvBmJQ0Y_q1E6wU_dCnAp0FMhikFOXAVlAU4G8x01rwA6bBOE1A81q7gaLdAFxM9jhcKfWKJjGK-gCIZAyBDMMgWJGUBaINgZihIgZSDVIIUQIhg1AIuBsgTt6dvVQFj2gQAZFDzD4oUEP8t1koMh-sC-hIk3ACGnuA_sWFC6rQcaAAZbI2Q0xsnEuOMhBAd8ExHOAGGhk40KwSC844oCpHYingkW6sRoJiRmwm0AxMxtoNzh2QbHSBEw2zaBE1A9203ogaxE0WS0Bq5mHbiQwXiDRAqZBuEbBDCoCihGICCRWjMARAo6ZGmgkQiAxsbKjk6JYaZ4JzQLAAAOmQUiIQ-IJFCuQdAfyLyilAgO3eRNYBJgjoPGILV6agNLgeAFlk-lgQ0FZCMQDZQqwNcCsAyyHwPLA2gUssgaIJ4LlscUMMEtDYqYRlpnBKQXCg7kUmItA6QzsB3BkA8nHzcAkAHQxUtzgDHcUIUTOArMQuQYUgUTmGmD7gbJcAwwUUHoDF2qQ-AEVaqD42Q7LR-ACDViiNAHLIGAIQFIonlwDyhsgIzthsQMqvMBGAhM_JB-BY2YftFiDFHs78OQaeJoBxQ84JuC5GJQU-sAxAYopYOkFTlfgXAP0D0augZVhsIKpBhzYoCBH5COUsgyiCDPX1HJx6dopQCojBSBLmYsLAA)]
+- [鋼琴伴奏 TMD 檔案](ensoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZuODFts3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwsue1sFNy4bI30TO646BaUXK-e93zPr2bT2l80rns9pVAKJPZu9CUPsRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-yAug0IwMjAz0DAzM9AwsTcyDDwAToOiUuLte84vzsUquAzMS8_CAPhxqDGoVqLgUgsDE007IDs_S1FGzRgQLQhic7Gl4s7FHQMFF4uqH_-foGHYUAA2MLvayCdE0sGrT0wYbVKJjGK-gCIZAyBDMMgWJGUBaINgZihIgZSDVIIUQIhg1AIlz4nberhyznQVwHpkG4RsEMKgJyGEQE4jgjsLvADqyB-gUCiXHcjk5yHIfTYhQhRAiDWYjQA_mAyNADJh9yHAiLUlg81YDtBNmMCE-UqIUowgy9WtSk6YOSNC2gKROoMV4h2jAWRoG8DmSZxhMnAmIYAO3CbpQJkGGCxDcCMozicyHawPqR9SDMgaszA6kzA7HgCpGFMB0G0WmOw2FwWbgIkkNQ_ARkICuDug4Yorp2CpBAVUBhKXNxAQA)]
 
 ## 分析
 
@@ -108,11 +108,11 @@ F2 F2 G2 G2 | A2 A2 c2 c2 | G2 F2 E2 G2 | F6 z2 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  F, G, C, D, A
-   - 調性數值:    F 調性不明確 [相關度: 0.78, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.78), C 大調 (0.76), F 小調 (0.51)
+   - 調性數值:    F 調性不明確 [相關度: 0.75, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.75), C 大調 (0.75), G 大調 (0.47)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Ensoku #1]: F 調性不明確 (r: 0.78, 自然音純度: 100.0%)
+     • [Ensoku #1]: F 調性不明確 (r: 0.75, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -125,16 +125,16 @@ F2 F2 G2 G2 | A2 A2 c2 c2 | G2 F2 E2 G2 | F6 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████          21.7%
+     C  : █████████████████         20.8%
      C# :                            0.0%
-     D  : ██████                     8.3%
+     D  : █████████                 10.8%
      D# :                            0.0%
-     E  : █                          1.7%
-     F  : ████████████████████████  31.7%
+     E  :                            0.0%
+     F  : ████████████████████████  30.0%
      F# :                            0.0%
-     G  : █████████████████████     28.3%
+     G  : ████████████████████████  30.0%
      G# :                            0.0%
-     A  : ██████                     8.3%
+     A  : ███████                    8.3%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
