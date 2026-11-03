@@ -8,5 +8,5 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A2 A2 A2 G2 F2 F2 D2 F2 | C2 D2 F2 D2 C6 z2 | F2 F2 F2 G2 A2 A2 G2 A2 | c2 d2 c2 A2 G6 z2 |
-!f! c4 c4 c4 d2 c2 | A4 c4 c8 | G4 A2 G2 F4 G2 A2 | G8 C4 z4 |
-!mf! F2 G2 A2 F2 G2 G2 A2 C2 | D2 F2 A2 G2 F6 z2 |
+!f! c6 c2 c4 A2 c2 | A4 c4 c8 | G4 A2 G2 F4 G2 A2 | G8 C4 z4 |
+!mf! F3 G A2 F2 G2 G2 A2 C2 | D3 F A2 G2 F6 z2 |
