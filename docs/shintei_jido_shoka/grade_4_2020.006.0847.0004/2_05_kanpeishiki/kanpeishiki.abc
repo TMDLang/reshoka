@@ -9,9 +9,9 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 D2 G2 G2 A2 | B2 A2 G2 E2 | D2 G2 A2 B2 | A6 z2 |
 B2 d2 d2 B2 | e2 d2 B2 d2 | A2 B2 A2 E2 | G6 z2 |
-!f! B8 | B4 c4 | d2 d2 e2 d2 | d2 B2 d2 B2 |
-A6 z2 | !p! A2 A2 G2 A2 | B2 A2 G2 E2 | G2 A2 A2 B2 |
-A6 z2 | !f! d2 d2 d2 d2 | e4 d2 B2 | d2 B2 A2 G2 |
-E6 z2 | D2 D2 E2 D2 | G2 G2 A4 | A2 A2 G2 A2 |
-B6 z2 | B2 d2 d2 B2 | A2 G2 A4 | d6 e d |
-B6 A2 | G6 z2 |
+!f! B4 B3 c | d2 d2 e2 d2 | d2 B2 d2 B2 | A6 z2 |
+!p! A2 A2 G2 A2 | B2 A2 G2 E2 | G2 A2 A2 B2 | A6 z2 |
+!f! d2 d2 d2 d2 | e4 d2 B2 | d2 B2 A2 G2 | E6 z2 |
+D2 D2 E2 D2 | G2 G2 A4 | A2 A2 G2 A2 | B6 z2 |
+B2 d2 d2 B2 | A2 G2 A4 | d6 e d | B6 A2 |
+G6 z2 |
