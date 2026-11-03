@@ -181,6 +181,25 @@ def audit_tmd(tmd_path: Path) -> bool:
     else:
         print("⚠️ [審查完畢] 請依照上述警示項目，逐一重新核對原譜局部切片。")
 
+    # 4. 同步審查鋼琴伴奏（若存在）
+    piano_candidates = list(tmd_path.parent.glob(f"{tmd_path.stem}_piano.tmd")) or list(tmd_path.parent.glob("*_piano.tmd"))
+    if piano_candidates:
+        piano_tmd = piano_candidates[0]
+        try:
+            from audit_piano_harmony import audit_piano_score
+            p_ok, p_warns = audit_piano_score(piano_tmd)
+            if p_ok:
+                print(f"  🎹 [鋼琴伴奏] {piano_tmd.name} 和聲協調，無強烈撞音。")
+            else:
+                print(f"  🎹 [鋼琴伴奏] {piano_tmd.name} 偵測到 {len(p_warns)} 處和聲疑慮：")
+                for w in p_warns[:5]:
+                    print(f"     - {w}")
+                if len(p_warns) > 5:
+                    print(f"     ... (其餘 {len(p_warns) - 5} 處略)")
+                has_warnings = True
+        except Exception as e:
+            pass
+
     return not has_warnings
 
 
