@@ -50,20 +50,20 @@ Q:1/4=100
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-D2 G2 G2 A2 | B2 A2 G2 E2 | D2 G2 A2 B2 | A6 z2 |
-B2 d2 d2 B2 | e2 d2 B2 d2 | A2 B2 A2 E2 | G6 z2 |
-!f! B4 B3 c | d2 d2 e2 d2 | d2 B2 d2 B2 | A6 z2 |
-!p! A2 A2 G2 A2 | B2 A2 G2 E2 | G2 A2 A2 B2 | A6 z2 |
-!f! d2 d2 d2 d2 | e4 d2 B2 | d2 B2 A2 G2 | E6 z2 |
-D2 D2 E2 D2 | G2 G2 A4 | A2 A2 G2 A2 | B6 z2 |
-B2 d2 d2 B2 | A2 G2 A4 | d6 e d | B6 A2 |
+D2 G2 G2 G2 | B2 G2 G2 G2 | D2 G2 A2 B2 | A6 z2 |
+G2 B2 B2 B2 | d2 B2 B2 B2 | G2 B2 B2 A2 | G6 z2 |
+!f! d4 d3 d | d2 d2 B2 G2 | d2 d2 B2 G2 | D6 z2 |
+!p! D2 G2 D2 A2 | G2 G2 G4 | A2 A2 G2 A2 | B6 z2 |
+!f! d3 d d3 d | d4 B2 G2 | d2 d2 B2 G2 | E6 z2 |
+E2 D2 E2 A2 | G2 G2 G4 | A2 A2 G2 A2 | B6 z2 |
+B2 d2 d2 B2 | G2 A2 B4 | d6 G A | B6 A2 |
 G6 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kanpeishiki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxyanFqXm5ueB9WtpKbxY3vC0devTPf0KWlpcirYKhgYGXPa2Cu5cNkb6JnYgvS9Wznu_Z9bTDf3Pp2x4tn3ji-n9YCOfzd4EEX66ceOTvXOe7Ox-2rUSLPOifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU9nz366dsfTnVueT1nxfk8HKDj1gMGpBwpOIMPA5P2eTiUuLn0tBVtqAS4FBYWnffOfzd7xYnP7ixVdLzrage4Cevlp64pn09qBrni6ofdZe6dCgIGJgV5WQfr7PT1AxS8XNCoU6CkYmgO5QIc_2dUDdPizOfOBbAVThZfLpgFdCgwdkOkvVu1_1rAcZG5374uZ84Giz1bMfLmw58WK3S9WzHjc0PO4cQVQDdDvQAVP10543NALNPTF2jkv5y6CaHnetEsBGBkKQB7QPe4KT5csB2pACHWCrHnZMP_prmXPetqfL9kFipfW5mcbFj9uXvG4aT1Q06OZK22BMQtSC_Zxx3Sg4OPGVY-bgM7sfNy483FT9-PG3Y8blz5umvu4cf3jhoZn8yBq1j9uanncCGQDla0CMkD6HzcuAeoE6wdqA7KBZB9E28s5c56unwTWOf1xU9PjxqmPmxrAmsE6X87qerIH5I3HjfMfNwINngKUe7Z2MUh1IzCRNDxuBOoB2jP_cVPH46YuiG1bgSyQSY0TXyzrBmveDzKyCRh2G4B6gAHydMJssDhQGdAXQLeAFTSuA9vZswwstxpiCUQCqALkYKA9IDv3gQxqanvc2A90MziEJuwE69kKVt37uHET2JNAC3c8bpwJCp45c18uAqVSsIOBTgPKzgErXg1xM9BvwOABBmb_y2VrwOqAxu8Dq5gHcnM3KHGBlU0FCwKdAHIdSDPlyRoKFLT0ubi8E_MKUjOBxVh2plVAZmJevkONQY1CNcgiBRtDMy07MAtbplIAJe0dDS8W9ihomCmASoD1DTrwnKCJRQPQPqhhj5u7gHglEM8E4tUKNUByNhC3AnELEPeDRfqBeInC46btYPVAESALAkCyIHUgE0AmQUwAiawGqloH1gu1rUbBNF5BV8EQio2AuEbBGMoCiZiBpJFUgcRB8jVgFgwawPWZQjFEjRkSD0TXgLMQ7gDb1UNegIEDYRGQ3gqkF6AHRtN-MOtxEyi4tkBFHjc3QPQ1rQWLAHWDAgssswIcYKugJsCDCuZ3EA0NF1CQoAZCdVotWBEIQmgTUPhBAwAWIBARWLDgCFACgbWjk8zUNRXsOXBgNW0Ee3U-KHia1wDxBHBgAGVBKQ6cVuaDVfQhpa1ueMCBxBH6gSkSGHzw4KouqAX7CZaUcCYumCS-tAUKVlggwjAkfYEgPBDxBxmwoiAzyOaBg-Zx8zKgF9eDvbwIKUCAAQoOjEmwzNYECsoZQHonNAVC02YTKAPugQYiWuqC-QEWOEDfgYIHNRjA-RBMgCXBLEgAwgIRBCEBiBnupKSuXVPAQWVKclYEZjJwqQPKTOCgagIGGigAm_ZBA2MJNDtufdwMCYt5UIHtYOm16CGDWa4gew3iYZAcDJoBeagehgQBRmblquXi0rVTQCrlFYBcZS4uAA)]
-- [鋼琴伴奏 TMD 檔案](kanpeishiki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixvOFp69ane_rf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBgZc9rYK7lw2Rvomdlx1CkovVs57v2fW0w39z6dseLZ944vp_Uog4WezN0GEn27c-GTvnCc7u592rQTLvGjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbN09mzn67d8XTnludTVgDdaGRgZKBnYGCmZ2BhYg5kGJgAnanExeWdmFeQmlmckZmdaRWQmZiXH-ThUGNQo1DNpQAENoZmWnZglr6Wgi06UABa82RHw4uFPQoaZgogT61v0FEIMDAx0MsqSNfEokFLH2xYjYJpvIKugiEUGwFxjYIxlAUSMQNJI6kCiYPka8AsGDSA6zOFYogaMyQeiK7hwu-FXT3keAHmJhANdS_IqaiOq06rBSsCQQhtAvIX1GEwh0JEYM7F4VECntjRSY4nqgtqwTbBAh5nVMAk8cUEyLMwr8EwJDZAEO41_B4BpluyEhRSbIDcCrQX5HBUB4LTE5gAS4JZEK_BvAeCEK9hhggpsbFrCtgTpqR5AjMpI7sC4jaQHAyaAXmoboO4FiMdctViyek-KDndAprRgbrjFaINY2EUnG8WD6TN4nNBQqYgtmk8kiK4CIhhgMUUEyDDBMGHlwNI2oAMcyQLgRTIIFCqwuEkqJmYlqG7Bim1o9uIw4dQISRFGD7E5jDsvsQ0DGEViAUyDY-7cDkCVRUkuHDEIR596IGIMyZAiUjXTgEpHSkAucpcXAA)]
+- [主旋律 TMD 檔案](kanpeishiki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxyanFqXm5ueB9WtpKbxY3vC0devTPf0KWlpcirYKhgYGXPa2Cu5cNkb6JnYgvS9Wznu_Z9bTDf3Pp2x4tn3ji-n9YCOfzd4EEX66ceOTvXOe7Ox-2rUSLPOifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU9nz366dsfTnVueT1nxfk8HKDj1gMGpBwpOIMPA5P2eTiUuLn0tBVtqAS4FBYWnffOfzd7xYnP7ixVdLzrage4Cevlp64pn09qBrni6ofdZe6dCgIGJgV5WQfr7PT1AxS8XNCoU6CkYmgO5QIc_2dUDdPizOfOBbAVThZfLpgFdCgwdkOkvVu1_1rAcZG5374uZ84Giz1bMfLmw58WK3S9WzHjc0PO4cQVQDdDvQAVP10543NALNPTF2jkv5y6CaHnetEsBGBkKQB7QPe4KT5csB2pACHWCrHnZMP_prmXPetqfL9kFipfW5mcbFj9uXvG4aT1Q06OZK22BMQtSC_Zxx3Sg4OPGVY-bgM7sfNy483FT9-PG3Y8blz5umvu4cf3jhoZn8yBq1j9uanncCGQDla0CMkD6HzcuAeoE6wdqA7KBZB9E28s5c56unwTWOf1xU9PjxqmPmxrAmsE6X87qerIH5I3HjfMfNwINngKUe7Z2MUh1IzCRNDxuBOoB2jP_cVPH46YuiG1bgSyQSY0TXyzrBmveDzKyCRh2G4B6gAHydMJssDhQGdAXQLeAFTSuA9vZswwstxpiCUQCqALkYKA9IDv3gQxqanvc2A90MziEJuwE69kKVt37uHET2JNAC3c8bpwJCp45c18uAqVSsIOBTgPKzgErXg1xM9BvwOABBmb_y2VrwOqAxu8Dq5gHcnM3KHGBlU0FCwKdAHIdSDPlyRoKFLT0ubi8E_MKUjOBxVh2plVAZmJevkONQY1CNcgiBRtDMy07MAtbplIAJe0dDS8W9ihomCmASoD1DTrwnKCJRQPQPqhhj5u7gHglEM8E4tUKNUByNhC3AnELEPeDRfqBeInC46btYPVAESALAkCyIHUgE0AmQUwAiawGqloH1gu1rUbBNF5BV8EQCdcoGGOIwBUZATFIugbMgkEDsAhIHiQHw0Bt6CLgHIQ7vHb1kBde4DBYBKS3AukF6GHRtB_MetwECq0tUJHHzQ0QfU1rwSJA3aCwAsusAIfXKqgJ8JBC9h_I9xAR1DCoTqsF-xoEIbQpNBxgYQENUEwRUBCjGEYgsHZ0kpm4poI9Bw6spo1gr84HBU_zGiCeAA4MoCwowYGTynywij6kpNUNDziQOEI_MEECgw8eXNUFwKCApRswAxFoMAyCkKQEwrAEBkmBuALWFC1gQRAejPjDDFhRkBlm88Bh87h5GdCP68F-XoQUIsAQBYfGJFhmawKF5QwgvROaBKGJswmUAfdAQxEteWEmCTOMJAERAgcmmEVBiBLKilPAIWVKclYEZjJwoQPKTOCQagKGGSj8mvZBw2IJNDtufdwMCYp5UIHtYOm16AEDcjpy4EA8DCuJIB6GJQQQNATKoXoYR27lquXi0rVTQCrkFYBcZS4uAA)]
+- [鋼琴伴奏 TMD 檔案](kanpeishiki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixvOFp69ane_rf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBgZc9rYK7lw2Rvomdlx1CkovVs57v2fW0w39z6dseLZ944vp_Uog4WezN0GEn27c-GTvnCc7u592rQTLvGjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbN09mzn67d8XTnludTVgDdaGRgZKBnYGCmZ2BhYg5kGJgAnanExeWdmFeQmlmckZmdaRWQmZiXH-ThUGNQo1DNpQAENoZmWnZglr6Wgi06UABa82RHw4uFPQoaZgogT61v0FEIMDAx0MsqSNfEokFLH2bY4-YuIF4JxDOBeLVCDZCcDcStQNwCxP1gkX4gXqLwuGk7WD1QBMiCAJAsSB3IBJBJEBNAIquBqtaB9UJtq1EwjVfQVTBEwjUKxhgicEVGQAySrgGzYNAALAKSB8nBMFAbuggX_vDa1UNeeIHDYBGQ3gqkF6CHRdN-MOtxEyi0tkBFHjc3QPQ1rQWLAHWDwgosswIcXqugJsBDCtl_IN9DRFDDoDqtFuxrEITQptBwgIUFNEAxRUBBjGIYgcDa0Ulm4poK9hw4sJo2gr06HxQ8zWuAeAI4MICyoAQHTirzwSr6kJJWNzzgQOII_cAECQw-eHBVFwCDApZuwAxEoMEwCEKSEgjDEhgkBeIKWFO0gAVBeDDiDzNgviczzOaBw-Zx8zKgH9eD_bwIKUSAIQoOjUmwzNYECssZQHonNAlCE2cTKAPugYYiWvLCTBJmGEkCIgQOTDCLghAllBWngEPKlOSsCMxk4EIHlJnAIdUEDDNQ-DXtg4bFEmh23Pq4GRIU86AC28HSa9EDBuR05MCBeBhWEkE8DEsIIGgIlEP1MI7cylWLpYz3QSnjLaBFPFB3vEK0YSyMgvPN4oG0WXwuSMgUxDaNR1IEFwExDLCYYgJkmCD48DIZSRuQYY5kIZACGQTKDzicBDUT0zJ016BkVFQbcfgQKoSkCMOH2ByG3ZeYhiGsArFApuFxFy5HoKqCBBeOOMSjDz0QccYEKBHp2ikgpSMFIFeZiwsA)]
 
 ## 分析
 
@@ -74,26 +74,26 @@ G6 z2 |
 ⏱  Duration:       0:34 (34.8s), 29 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Kanpeishiki #1 @ m.1, 0:00]
-   - 最高音: E5 in [Kanpeishiki #1 @ m.6, 0:06]
+   - 最高音: D5 in [Kanpeishiki #1 @ m.6, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Kanpeishiki (34.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, B, G, E
-   - 調性數值:    D 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 99.5%]
-   - 候選調性 (K-S): D 大調 (0.80), G 大調 (0.68), B 小調 (0.60)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  G, D, B, A, E
+   - 調性數值:    G 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.87), D 大調 (0.72), B 小調 (0.70)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Kanpeishiki #1]: D 大調 (r: 0.80, 自然音純度: 99.5%, 調外音: C)
+     • [Kanpeishiki #1]: G 大調 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
-      Bb              [D ]*
+         F           [G ]*
+      Bb               D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -101,21 +101,21 @@ G6 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  :                            0.5%
+     C  :                            0.0%
      C# :                            0.0%
-     D  : ████████████████████      23.4%
+     D  : ███████████████████████   27.5%
      D# :                            0.0%
-     E  : █████████                 10.6%
+     E  : ████                       4.6%
      F  :                            0.0%
      F# :                            0.0%
-     G  : ██████████████            16.5%
+     G  : ████████████████████████  28.9%
      G# :                            0.0%
-     A  : ████████████████████████  27.5%
+     A  : ████████████              14.2%
      A# :                            0.0%
-     B  : ███████████████████       21.6%
+     B  : █████████████████████     24.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 88 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 87 個音符)
 ================================================================================
 ```
 
