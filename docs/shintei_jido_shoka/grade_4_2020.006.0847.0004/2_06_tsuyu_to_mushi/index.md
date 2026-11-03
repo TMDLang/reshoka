@@ -55,18 +55,18 @@ Q:3/8=64
 K:Eb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-B4 B2 c4 c2 | B10 z2 | B4 B2 G4 B2 | F10 z2 |
-G4 G2 B4 B2 | c4 c2 B6 | G4 B2 c4 B2 | F10 z2 |
-G2 B2 z2 G2 B2 z2 | c4 c2 B6 | G4 G2 F4 F2 | E10 z2 |
-B4 B2 c4 c2 | B4 B2 B4 z2 | B4 B2 G4 B2 | F10 z2 |
-G4 G2 B4 B2 | c4 c2 B6 | G4 B2 c4 B2 | F10 z2 |
-G2 B2 z2 G2 B2 z2 | c4 c2 B6 | G4 B2 F4 G2 | E10 z2 |
+B4 B2 c4 c2 | B4 B2 B4 z2 | B4 B2 G4 B2 | F6 F4 z2 |
+G4 G2 B4 B2 | c4 c2 B6 | G4 B2 c4 B2 | F6 F4 z2 |
+G2 B2 z2 G2 B2 z2 | c4 c2 B6 | G4 G2 F4 F2 | E6 E4 z2 |
+B4 B2 c4 c2 | B4 B2 B4 z2 | B4 B2 G4 B2 | F6 F4 z2 |
+G4 G2 B4 B2 | c4 c2 B6 | G4 B2 c4 B2 | F6 F4 z2 |
+G2 B2 z2 G2 B2 z2 | c4 c2 B6 | G4 B2 F4 G2 | E6 E4 z2 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuyu_to_mushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi64WIlqcmAhlF6MLFqYnF-XnFSlxaWgqPG5c8bmp73LjixczVClpaXIq2CpZmXPa2Cq46XDZm-hZ2IL0v2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfN09uyna3c83bnl-ZQV7_d0gIJSDxiUeqCgBDIMTN7v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeiuFyvnPW1d8WxaO9AVTzf0PmvvVAgwMDHUyypIf7-nB6j45YJGhQI9BUMLIBfo8Ce7eoAOfzZnPpCtYKbwctk0oEvf75kFMv3Fqv3PGpaDzO3ufTFzPlD0xbqux427geJPW9cCBZ-unQC0xjVJ4emS5UBBBWAwKgCFgSaAtL9smP9017JnPe3Pl-wC6n3asur5vr7Hzd1cIMknOxpAFCxWep5NXQw06nHjQqDmx03djxsakKWAIiDVz-Z0gBUtedwIsuRx47qnrUDHAkU2PW7sftzUBRF83LgMqOHprrVgqdWPG9eDxVdDLOx93ATkIJMrXs7ZBDW3qQ2sFMnOx41THze1QEmge5p6gBIvJkKshRjc_bhx0uPG5UAu2NtzgI5ZBzEA7Jiex41gbY3THzcCDYKaOvlxUy8qCUqZIFObgF6fDnHGy81bwPasAnP7ISG3qwccOTOBHgMaugooDgwtCBeoHqQMElSQ4EEOD3gYYLccxQBc_n42B-zIxvWPG2c9bpoIDYAmcIyDzVgHMQOP17HHAEqoU549oEBBS5-LK6S4tLI0JN-3FFgaWgVkJublO9QY1ChUg2xSsLHQsgMzsGVOBVAW2dHwbN3Wp529T3u7FDQsFJ5u6H--vgGYfZ5OWA2S69j_fOuEpxv26cBzmiYWg4DugFryuLkFFAzNyxQeN60BsxoVaoDkapA8GIB4hNRAzatRMFXQBWIzIGkG5UGgAVzOGEzWKBghy6G5pmktkNUHtmkSyKYmkE2Pm1dBRUF2t4FFVgNxN5jVDxYFsdFcBLLPGGp3DdRlEHdB5CCuxe0isFtWwl0FYoFctBZs60og7gCLaBjqaYKdDwsm9EBCcpAp0AIIic1BxmCHGAF5higOIiZZ7OvBSBb9vS-WtQElXjZsetq6FJhfSU8ijVPB3gf6Dc4CBQE4Cpp6gBgU7ECRxvUgkcZuIJ4EZi2HixJMJqZgkthk0rgEbHcbkLUObNNCsIvASQEoAsy9UBfB3dg4HSwHdjnQhVRPJo2Tgfb0gu2AsUA2TQbb3wtkrYAkEyNQMmlqADsI5ExgmQlW2E9qMjEFO8QYI5nUcnHp2ikgFzIKQL4yFxcA)]
-- [鋼琴伴奏 TMD 檔案](tsuyu_to_mushi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuORxU9vjxhUvZq5-v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq46nDZmOlb2HHVKSi9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs3T2bOfrt3xdOeW51NWAK00MjAy0DMwMNMzsDAxBzIMTIC2KnFxhRSXVpaG5PuWFmdkWgVkJublB3k41BjUKFRzKQCBjYWWHZihr6Vgiw4UgNY82dHwbN3Wp529T3u7FDSeTlgNEujY_3zrhKcb9ukoBBiYGOplFaRrYtGtpQ82uUbBVEEXiM2ApBmUB4EGcDljMFmjYIQsB9UNkjOGqquBmgIxAyIHMRm3blMgD0Ji020M1mUE5Bmi6CYmUPb1QAKlv_fFsjYg72XDpqetS5_s6qE8gEzB5GAIIFOwLmOMAKrFlrZ8sKYtoNZ4hWjDWDA2ATJNgEwgRhGHMkGOwBQFYWBQxAN5pvFALoiA8xB-waURyU4UcSzOIskiA2RXE2EJ1CRzsMFAEkcAQBLfaKiRGGrAFKlrp4CcKBWw8JW5uAA)]
+- [主旋律 TMD 檔案](tsuyu_to_mushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi64WIlqcmAhlF6MLFqYnF-XnFSlxaWgqPG5c8bmp73LjixczVClpaXIq2CpZmXPa2Cq46XDZm-hZ2IL0v2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfN09uyna3c83bnl-ZQV7_d0gIJSDxiUeqCgBDIMTN7v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeiuFyvnPW1d8WxaO9AVTzf0PmvvVAgwMDHUyypIf7-nB6j45YJGhQI9BUMLIBfo8Ce7eoAOfzZnPpCtYKbwctk0oEvf75kFMv3Fqv3PGpaDzO3ufTFzPlD0xbqux427geJPW9cCBZ-unQC0xjVJ4emS5UBBBWAwKgCFgSaAtL9smP9017JnPe3Pl-wC6n3asur5vr7Hzd1cIMknOxpAFCxWep5NXQw06nHjQqDmx03djxsakKWAIiDVz-Z0gBUtedwIsuRx47qnrUDHAkU2PW7sftzUBRF83LgMqOHprrVgqdWPG9eDxVdDLOx93ATkIJMrXs7ZBDW3qQ2sFMnOx41THze1QEmge5p6gBIvJkKshRjc_bhx0uPG5UAu2NtzgI5ZBzEA7Jiex41gbY3THzcCDYKaOvlxUy8qCUqZIFObgF6fDnHGy81bwPasAnP7ISG3qwccOTOBHgMaugooDgwtCBeoHqQMElSQ4EEOD3gYYLccxQBc_n42B-zIxvWPG2c9bpoIDYAmcIyDzVgHMQOP17HHAEqoU549oEBBS5-LK6S4tLI0JN-3FFgaWgVkJublO9QY1ChUg2xSsLHQsgMzsGVOBVAW2dHwbN3Wp529T3u7FDQsFJ5u6H--vgGYfZ5OWA2S69j_fOuEpxv26cBzmiYWg4DugFryuLkFFAzNyxQeN60BsxoVaoDkapA8GIB4hNRAzatRMFXQBWIzIGkG54FIAzjPGEzWKBgBaV0wCZRDc03TWiCrD2zTJJBNTSCbHjevgoqC7G4Di6wG4m4wqx8sCmKjuQhknzHU7hqoy0A8XagcxLW4XQR2y0q4q0AskIvWgm1dCcQdYBENQz1NsPNhwYQeSEgOMgVaACGxOcgY7AQjIM8QLAoiQQ4iJlns68FIFv29L5a1ASVeNmx62roUmF9JTyKNU8HeB_oNzgIFATgKmnqAGBTsQJHG9SCRxm4gngRmLYeLUjmZNC4B290GZK0D27QQ7CJwUgCKAHMv1EVwNzZOB8uBXQ50IdWTSeNkoD29YDtgLJBNk8H29wJZKyDJxAiUTJoawA4CORNYZoIV9pOaTEzBTjDGSCa1XFy6dgrIhYwCkK_MxQUA)]
+- [鋼琴伴奏 TMD 檔案](tsuyu_to_mushi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuORxU9vjxhUvZq5-v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq46nDZmOlb2HHVKSi9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs3T2bOfrt3xdOeW51NWAK00MjAy0DMwMNMzsDAxBzIMTIC2KnFxhRSXVpaG5PuWFmdkWgVkJublB3k41BjUKFRzKQCBjYWWHZihr6Vgiw4UgNY82dHwbN3Wp529T3u7FDSeTlgNEujY_3zrhKcb9ukoBBiYGOplFaRrYtGtpQ82uUbBVEEXiM2ApBmcByIN4DxjMFmjYASkdcEkUA6qGyRnDFVXAzUFxNOFykFMxq3bFMiDkNh0G4PVGwF5hmBREAnSTUyg7OuBBEp_74tlbUDey4ZNT1uXPtnVM5wCyBSs3hgjgGqxpS0frGkLqDVeIdowFoxNgEwTIBOIUcShTJAjMEVBGBgU8UCeaTyQCyLgPIRfcGlEshNFHIuzSLLIANnVRFgCNckcbDCQxBEAkMQ3GmokhhowReraKSAnSgUsfGUuLgA)]
 
 ## 分析
 
@@ -118,7 +118,7 @@ G2 B2 z2 G2 B2 z2 | c4 c2 B6 | G4 B2 F4 G2 | E10 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D#4 – C5 (9 個半音 / 0.8 個八度, 70 個音符)
+  - Piano         : D#4 – C5 (9 個半音 / 0.8 個八度, 78 個音符)
 ================================================================================
 ```
 
