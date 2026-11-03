@@ -61,17 +61,17 @@ Q:1/4=100
 K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-z4 z4 F2 F2 | B6 F2 B3 A | G4 z4 F2 F2 | d6 c2 B3 c |
-d4 z4 G2 G2 | B6 c2 d3 c | B4 z4 G2 D2 | G6 B2 G3 D |
-G4 z4 C2 D2 | F6 F2 G3 F | G4 z4 G2 G2 | G6 G2 D3 C |
-D4 z4 G2 G2 | B6 c2 d3 e | d4 z4 F2 F2 | B6 d2 c3 B |
+z4 z4 F2 F2 | B6 G2 c3 B | G4 z4 F2 F2 | d6 B2 c3 d |
+c4 z4 G2 G2 | B6 G2 c3 B | G4 z4 F2 D2 | G6 B2 F3 D |
+F4 z4 B,2 C2 | D6 D2 E3 D | C4 z4 G2 G2 | F6 E2 D3 C |
+B,4 z4 B2 B2 | G6 F2 G3 B | c4 z4 F2 F2 | d6 B2 c3 d |
 B4 z4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ninomiya_sontoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2ZkFgO1VypxaWkpPNnV83Tduqcbup7u26ygpcWlaKtgaGDAZW-r4KTDZWOsb2IH0vxi5bz3e2Y9Wzjx-ZQNz2YsfbloBdjMZ7M3AYVBYnMnvpjZ92J6P1j4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-y4v2eDlBg6gEDUw8UmECGgcn7PZ1KXFz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAPdBfTv09YVz6a1A13xdEPvs_ZOhQADY3O9rIL093t6gIpfLmhUKNBTMAS6qAfocFAort3xbM58IFvBWOHlsmlAlwKDBmT6i1X7nzUsB5nb3fti5nyg6It1XY-beoHiT3Z0AgWfrp0AtMYpSeHpkuVAQQVgoCsAhYEmgLS_bJj_dNeyZz3tz5fsAup9un_1sy27Hzd3A7U8mrnSFhhZIIUglU92NICox41NjxunP26c_7hx9Yut24HqHjd2AdU8bux93Ljs6caNQPFn87c87egASwFVbnjcCDSu83FTF9i9vZ0v54GMf9zU_7gJqG0RUO7J3jlg1UseN_ZDlILMWgIWbAIaBFS2_tnsLWA1W8FcoN7ux437HjcuBxu6fT1Ybv_jxoVg_W0gFY2bQCqamoABCnVLEzDEgbKTgI56NmUfWHD948ZVYBOBHgIHKNiD6x839TxubAG6DuzG6Y8bGh43Tn7cuA4Ymi9WbQDrBIY1UAoYMxMeN86DBNGuHnCEdy952tL5tGv2i4U9YJW9j5uAeieCSKDPmtrBjgM6vw1kQkPDi32bnk8AsoEq1wEFgWpgrpz6uHEFNNye7JgGDNmnCzYCcxJY6W6QUqA0JMSAOhsagHkCHGJAndPBgjuA7KdNEPXAsIW4eAckGiY9nQPxRxPYr6Bwe9Y9GSyyCehpeJSCzN0wEeJjYAhDnPZsKkRkJsx6YFBPB_u9a_7zHZCQBYbeVKBSqOtAoQp07DygcZBC4fnSec-XQFSuBivY_7gJqGUGOKyAZDM0hVKeCaFAQUufi8svMy8_N7MyMTg_ryQ_u9QqIDMxL9-hxqBGoRpkmYKNoZmWHZiFrRhQeLpnIzDRK2gYKjzd0P98fYMOPONqYlENtBBqkgYw92haKTxuWgRKYU3bgSSy5K4ekGRjL1hyMkKyRsFAQRcMYbRpPIyoASc57M4ElRk7GoDJT0HDhFyX7gcJQAGwQAA7bRWE17QW6LLHzW1IKiCqloDJeWCXQ_TA5cB-ftw8AcpbDVYBMQ8BsITJRBRDQGEDy0OLgbLdIGMaMRzSuA5MgsSB8k1dKGZMAstNhapcgaECySE1CobQcIeHPUTAPB4oZwbi44gcYDGN0GgE12eEJAPTBTYGTBCK0l09FEVp83rkcGheCSaboLwWcDjAVCCiBhLNj5tXQMKyuR_FDFAownQ9boZEKij6Ifx21NBEitamDmRjGleDyd1QXhs4UkEWQvgwK6HRCo5AkIrpKGbsgMuBeEvAKuajyCI5BTViQfEDiRVQ_MBkUOLHGBKr8CgHQZBCqABQGkt6MELoJJRZOymLWZhHwZ5tbgSTyyA8YOyAYgUSMLDsCWFBC6PHzcvBSjahGALKqbDoftzcBU4esDLhcdMu1PBEzrGQFAVT2AMiGxdCeI2bwMZ0wmTBJR6EBXItJMJAEYdS-EBz7Eyoyn6wCphjEckAHrXgHIiSaaExA2RjiSWk_Icav4iIB0clMOfi0Yo_goFNT8pKY1BUwQMEHCuPm9dAgwec1qEZGZaxITLgMrdpMyRQm_tQAhUkCovRx01rwBEDEoPw96EGKnL8tiAbAy5HEdluHThu4E5BysSgVAfJ6CAVoIyMMAPkCGDlD-XNADsFVNJD-cC2ALJbcOVdEyxlK3KJjKwLpA6kE5SJMXM8jK7hquXi0rVTQGs0KACFlLm4AA)]
-- [鋼琴伴奏 TMD 檔案](ninomiya_sontoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyq-fpunVPN3Q93bf5_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgaGDAZW-r4KTDZWOsb2LHVaeg9GLlvPd7Zj1bOPH5lA3PZix9uWiFEkj42exNQGGQ2NyJL2b2vZjeDxZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqns2c_Xbvj6c4tz6esALrQyMDIQM_AwEzPwMLEHMgwMAE6UomLyy8zLz83szIxOD-vJD-71CogMzEvP8jDocagRqGaSwEIbAzNtOzALH0tBVt0oPB0z8YXW7craBgqPN3Q_3x9g45CgIGxuV5WQbomFtVa-mCTahQMFHTBEEabxsOIGi7clgH99WRHw4uFPQoaJqTZZwi1B24XRMA8HihnBuLjcIyCMZJGI7g-IyQZmC6wMWCCkBd29VDqBZBLIPaDXAKTQXGJMcT9cM-BIEghVAAojcXnRgidhKKhkxw_gAMVJR6gTgCysTgHKUhRPYLwIdjNwMjAoxW_T4AZhXqxYYIlXSCnJmRdIHUgnaBowYxDGF3DVYsjl_qg5FITRCaFZkmkvAaCiGBA5CKEb-IVog1jwRgU0kCeWXxuLEgXXMo0HiRnDJIzhsqhmAhJ1NhNhHJAxiEMh5Bo1qE6EpzGkBIPUCHIGVC3oLoTyWCwnThdCo1wDJeaoLkU1eMICVCE6NopoMWJAnYhZS4uAA)]
+- [主旋律 TMD 檔案](ninomiya_sontoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2ZkFgO1VypxaWkpPNnV83Tduqcbup7u26ygpcWlaKtgaGDAZW-r4KTDZWOsb2IH0vxi5bz3e2Y9Wzjx-ZQNz2YsfbloBdjMZ7M3AYVBYnMnvpjZ92J6P1j4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-y4v2eDlBg6gEDUw8UmECGgcn7PZ1KXFz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAPdBfTv09YVz6a1A13xdEPvs_ZOhQADY3O9rIL093t6gIpfLmhUKNBTMAS6qAfocFAort3xbM58IFvBWOHlsmlAlwKDBmT6i1X7nzUsB5nb3fti5nyg6It1XY-beoHiT3Z0AgWfrp0AtMYpSeHpkuVAQQVgoCsAhYEmgLS_bJj_dNeyZz3tz5fsAup9un_1sy27Hzd3A7U8mrnSFhhZIIUglU92NICox41NjxunP26c_7hx9Yut24HqHjd2AdU8bux93Ljs6caNQPFn87c87egASwFVbnjcCDSu83FTF9i9vZ0v54GMf9zU_7gJqG0RUO7J3jlg1UseN_ZDlILMWgIWbAIaBFS2_tnsLWA1W8FcoN7ux437HjcuBxu6fT1Ybv_jxoVg_W0gFY2bQCqamoABCnVLEzDEgbKTgI56NmUfWHD948ZVYBOBHgIHKNiD6x839TxubAG6DuzG6Y8bGh43Tn7cuA4Ymi9WbQDrBIY1UAoYMxMeN86DBNGuHnCEdy952tL5tGv2i4U9YJW9j5uAeieCSKDPmtrBjgM6vw1kQkPDi32bnk8AsoEq1wEFgWpgrpz6uHEFNNye7JgGDNmnCzYCcxJY6W6QUqA0JMSAOhsagHkCHGJAndPBgjuA7KdNEPXAsIW4eAckGiY9nQPxRxPYr6Bwe9Y9GSyyCehpeJSCzN0wEeJjYAhDnPZsKkRkJsx6YFBPB_u9a_7zHZCQBYbeVKBSqOtAoQp07DygcZBC4fnSec-XQFSuBivY_7gJqGUGOKyAZDM0hVKeCaFAQUufi8svMy8_N7MyMTg_ryQ_u9QqIDMxL9-hxqBGoRpkmYKNoZmWHZiFrRhQeLpnIzDRK2gYKjzd0P98fYMOPONqYlENtBBqkgYw92haKTxuWgRKYU3bgSSy5K4ekGRjL1hyMkKyRsFAQRcMYbRpPIyoASc57M4ElRk7GoDJT0HDhFyX7gcJQAGwQAA7bRWE17QW6LLHzW1IKiCqloDJeWCXQ_TA5cB-ftw8AcpbDVYBMQ8BsITJRBRDQGEDy0OLgbLdIGMaMRzSuA5MgsSB8k1dKGZMAstNhapcgaECySE1CobQcAdBM1CwG4GZhkApMBdH3ABLaYQ-kBkQbcZAGQgLoQtsDJggFKO7eiiK0eb1yMHQvBJMNkF5LeBggKlAxAwklh83r4AEZXM_ihmgQITpetwMiVNQ7EP47aiBiRSrTR3IxjSuBpO7obw2cJyCLITwYVZCYxUcfyAV01HM2AGXA_GWgFXMR5FFcgp6vBKOVmNItMIlYfEKlgRL18DYCJ2G4ARDVGbtpCxqYT4F-7a5EUwug_CA0QOKFkjIwLInhAUtjB43Lwcr2YRiCCinwuL7cXMXOH3AyoTHTbtQAxQ5x0KSFExhD4hsXAjhNW4CG9MJkwWXeBAWyLWQGAPFHErhA82xM6Eq-8EqYI5FpAN43ILjCgbBHBOkWALHB44MiIhCEATrghoG1AVMNBgRDMUEohfY8KSsLAZFFDw4wHHyuHkNNHDASR2aj2H5GiIDLnGbNkOCtLkPJUhBorD4fNy0BhwtIDEIfx9qkCLHbguyMeBSFJHr1oFjBu4UpDwMSnOQfA5SAcrHCDNAjgBW_VDeDLBTQOU8lA9sCSC7BS0PgiMMKgLKveilK3FlMqw0QK9ta7hqubh07RTQWg0KQCFlLi4A)]
+- [鋼琴伴奏 TMD 檔案](ninomiya_sontoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyq-fpunVPN3Q93bf5_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgaGDAZW-r4KTDZWOsb2LHVaeg9GLlvPd7Zj1bOPH5lA3PZix9uWiFEkj42exNQGGQ2NyJL2b2vZjeDxZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqns2c_Xbvj6c4tz6esALrQyMDIQM_AwEzPwMLEHMgwMAE6UomLyy8zLz83szIxOD-vJD-71CogMzEvP8jDoUbXsEahmksBCGwMzbTswCx9LQVbdKDwdM_GF1u3K2gYKjzd0P98fYOOQoCBsbleVkG6JhbVWvowkzSe7GjQtFJ43LQIyH_ctB1IIkvu6gFJNvaCJScjJGsUDBR0wRBGm8bDiBou3M4EBgnQwhcLexQ0TMh16X6QABQ8bu4GO20VhNe0Fuiyx81tSCogqpaAyXlgl0P0wOXAfn7cPAHKWw1WATEPAbCEyUQUQ0Bh87ip63FT--PGxUDZbpAxjRgOaVwHJkHiQPmmLhQzJoHlpkJVrsBQgeSQGgVDaLiDoBko2I3ATEOgFJiLI24UjJH0gcyAaDMGykBYCF1gY8AEoRjd1UNRjDavRw6G5pVgsgnKawEHA0wFImYgsfy4eQUkKJv7UcwABSJM1-NmSJyCYh_Cb0cNTKRYbepANqZxNZjcDeW1geMUZCGED7MSGqvg-AOpmI5ixg64HIi3BKxiPoosklPQ45VwtBpDohUuCYtXsCRYugbGRug0BCcYojJrJ2VRC_Mp2LfNjWByGYQHjB5QtEBCBpY9ISxoYfS4eTlYySYUQ0A5FRbfj5u7wOkDViY8btqFGqDIORaSpGAKe0Bk40IIr3ET2JhOmCy4xIOwQK6FxBgo5lAKH2iOnQlV2Q9WAXMsIh3A4xYcVzAI5pggxRI4PnBkQEQUgiBYF9QwoC5gosGIYCgmEL3A6omyshgUUfDgAMfJ4-Y10MABJ3VoPobla4gMuMRt2gwJ0uY-lCAFicLi83HTGnC0gMQg_H2oQYocuy3IxoBLUUSuWweOGbhTkPIwKM1B8jlIBSgfI8wAOeJxE8Tcx40zwE4BlfNQ_uOmZmS3oOVBcIRBRUC5F710Ja5MhpUG6LVtDVctjlaDD7DVYABvNJgA2wywkELUvYjCJl4h2jAWjEHOB_LM4nNjgbYgpEzjQXLGIDljqByKiZCyH7uJUA7IOIThEBLNOlRHgsscuJGmIIUgZ0DdgupOJIPBduJ0KTStY7jUBM2lqB5HSIBCXNdOAS3QFbALKXNxAQA)]
 
 ## 分析
 
@@ -82,26 +82,26 @@ B4 z4 z4 |
 ⏱  Duration:       0:30 (30.6s), 17 measures total
 🎼 Key & Tempo:    首調基準 B,, != 100.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D#5 (MIDI 75) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [NinomiyaSontoku #1 @ m.9, 0:15]
-   - 最高音: D#5 in [NinomiyaSontoku #1 @ m.14, 0:25]
+🎤 人聲音域:    A#3 (MIDI 58) – D5 (MIDI 74) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#3 in [NinomiyaSontoku #1 @ m.9, 0:15]
+   - 最高音: D5 in [NinomiyaSontoku #1 @ m.4, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      NinomiyaSontoku (30.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 小調（純淨自然小調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+🗝  調性診斷：       A# 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  G, A#, D, F, C
-   - 調性數值:    G 小調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 小調 (0.90), A# 大調 (0.75), D 小調 (0.53)
-   - 五度圈歷程:   +1
+   - 調性數值:    A# 調性不明確 [相關度: 0.81, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.81), G 小調 (0.79), F 大調 (0.65)
+   - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [NinomiyaSontoku #1]: G 小調 (r: 0.90, 自然音純度: 100.0%)
+     • [NinomiyaSontoku #1]: A# 調性不明確 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+     [Bb]*              D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -109,21 +109,21 @@ B4 z4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ███████                    8.7%
+     C  : ███████████████████       16.9%
      C# :                            0.0%
-     D  : ██████████████████        21.2%
-     D# : █                          0.6%
+     D  : ████████████████████      18.1%
+     D# : ███                        3.1%
      E  :                            0.0%
-     F  : ████████████              14.4%
+     F  : ████████████████████      18.1%
      F# :                            0.0%
-     G  : ████████████████████████  28.7%
+     G  : ████████████████████████  21.9%
      G# :                            0.0%
-     A  : █                          0.6%
-     A# : █████████████████████     25.6%
+     A  :                            0.0%
+     A# : ████████████████████████  21.9%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D#5 (15 個半音 / 1.2 個八度, 56 個音符)
+  - Piano         : A#3 – D5 (16 個半音 / 1.3 個八度, 56 個音符)
 ================================================================================
 ```
 
