@@ -70,15 +70,43 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A3 F A3 F | F2 E4 E2 | E2 E2 D2 E2 | F6 z2 |
+w: モ シ モ シ | カ メ ヨ | カ メ サ ン | ヨ
 A3 A F3 A | F3 F D3 D | E3 E F3 E | D6 z2 |
+w: セ カ イ ノ | ウ チ デ _ | オ マ ヘ ホ | ド
 A3 A A3 A | B3 B B3 B | d3 d d3 B | A6 z2 |
+w: ア ユ ミ ノ | ノ ロ イ _ | モ ノ ハ ナ | イ
 B3 B d3 B | A3 A F3 F | E3 E F3 E | D6 z2 |
+w: ド ウ シ テ | ソ ン ナ ニ | ノ ロ イ ノ | カ
+A3 F A3 F | F2 E4 E2 | E2 E2 D2 E2 | F6 z2 |
+w: ナ _ ン ト | オッ シャ ル | ウ サ ギ サ | ン
+A3 A F3 A | F3 F D3 D | E3 E F3 E | D6 z2 |
+w: ソ ン ナ ラ | オ マ ヘ ト | カ ケ ク ラ | ベ
+A3 A A3 A | B3 B B3 B | d3 d d3 B | A6 z2 |
+w: ム カ フ ノ | コ ヤ マ ノ | フ モ ト マ | デ
+B3 B d3 B | A3 A F3 F | E3 E F3 E | D6 z2 |
+w: ド チ ラ ガ | サ キ ニ _ | カ ケ ッ ク | カ
+A3 F A3 F | F2 E4 E2 | E2 E2 D2 E2 | F6 z2 |
+w: ド ン ナ ニ | カ メ ガ | イ ソ イ デ | モ
+A3 A F3 A | F3 F D3 D | E3 E F3 E | D6 z2 |
+w: ド ウ セ _ | バ ン マ デ | カ カ ル ダ | ロ
+A3 A A3 A | B3 B B3 B | d3 d d3 B | A6 z2 |
+w: コ コ ラ デ | チョ ッ ト _ | ヒ ト ネ ム | リ
+B3 B d3 B | A3 A F3 F | E3 E F3 E | D6 z2 |
+w: グ ウ グ ウ | グ ウ グ ウ | グ ウ グ ウ | グウ
+A3 F A3 F | F2 E4 E2 | E2 E2 D2 E2 | F6 z2 |
+w: コ _ レ ハ | ネ スギ タ | シ ク ジ ッ | タ
+A3 A F3 A | F3 F D3 D | E3 E F3 E | D6 z2 |
+w: ピョ ン ピョ ン | ピョ ン ピョ ン | ピョ ン ピョ ン | ピョン
+A3 A A3 A | B3 B B3 B | d3 d d3 B | A6 z2 |
+w: ア ン マ リ | オ ソ イ _ | ウ サ ギ サ | ン
+B3 B d3 B | A3 A F3 F | E3 E F3 E | D6 z2 |
+w: サ ッ キ ノ | ジ マ ン ハ | ド ウ シ タ | ノ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](usagi_to_kame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWva4aevjpnWPmzseN61-3Lzw_Z6Op61Tnq6d8KKj_Xlz_8t9c97v6VTQ0uJStFUwNDDhsrdVcOGyMdI3sQOZ-mLlvPd7Zj2fv_lp3_ynk3qe7Oh82dwHtu_Z7E0gmS29zzobXuxb8WzNQpjMi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAuhMUFjrAcNaDxTWQIaBIdClSlz6WgpAu5_PXvdi1apnM_q4FBQUnuxY-2xa-4vli1-2dwMd9WzKzqfrVz9u6AB6DujXF5v3vtg-8XFD57OprU92ARX0PN2z_cWq_c9XrgS5p2vV067ZT7vnvmzse7ly6lOgmxuWvtjV-LihiUtLnwtknS21AMitwIB8NnvHi83tL1Z0AaMAGArAMH7augLoAVDUbOh91t6pEGBgbKCXVZD-qGEykGkIYgKdDdT3ckGjQkGBnoKhKVDK0AwoCAq3XT3AcHs2Zz6QrWCo8HLZNGBAAcMBZB3Qn88aloMs6u59MXM-UPRxczdQEKgHKAJMBkBLXRSeLlkOFFMAxroCUBSsGxg5PY-bVj1uXvS4afvj5rWPm9Y_bujlggR3A1AXPGkBlYNEYSrBZEMDJLU9bl6BYANVN28GioBVN-0GiTYtedzcB1ax7HFz4-PmdjAbaOu8x80zHjfPftwMMbtp0eNmoIr5UNVAEuSiJWA2UArI7X_c3AUUgbikE-w4oGPawObtBdvbBfQ5imYgo2k1xEe7esA-gmQQqHeA6oG6OmAuagEbCNQFTFlg90LyFdhTEDfCrVmJ6guIEUDPbgQFIlC2eSbEhgVgG6fCggCoGWg8UA_Ej0BxoNc6wCLtMH-BAmnl46Y1YA1AB6yFegpiPMiR6-Ge2gGMRizRBDQEKTSgUQMxcAnIE6CQaQfajRyUu8EumgDWCXIOzEqgZiACSq2FBMFmsC-APgSrADl2xePmZmgQNE8Ce6cX5PHmVRANG8DGY5Ag49EFwZ56Ons2Nk-BbF0DSgQga3ofN-0ER81-sDnbwWGyA-SOpv0QT0153Lwc7BfcDJBBOGVBpmAkGFAahQTPKmj8QwITR2oBsoAOAsYfJPKB7gPqBOqH-AGWgoF-aAaXcZSXPlCgACrVQosT0zND8r0TgdVFQGZiXr5DjUGNQjXIIgUbQzMtOzALW9mnACmoXyzsUdAwUXi6of_5-gYdeIGliUUD0D6QYTUKpgq6QGgMp2uAWFfBCMyD0DVgEoQN4SIgNTBoABIBpwPcbtvVQ77bTKG2mcLtNQa7RFcBSEEcB3IWRMoIKAKRJN5xOzopcRyMrlEwA7PM4DTQJXFgJpCCskCCEA1EOw-YuchxHswRmDbDwhMU18QEXi0Xl66dAlLiVABylbkA)]
-- [鋼琴伴奏 TMD 檔案](usagi_to_kame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx09bHTeseN3c8blr9uHnh-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MCEy95WwYXLxkjfxI6rTkHpxcp57_fMej5_89O--U8n9TzZ0fmyuU8JJPNs9iaQzJbeZ50NL_ateLZmIUzmRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Gh4unbH051bnk9ZAXSmkYGRgZ6BgZmegYWJOZBhYAh0qRIXV2hxYnpmSL53Ym6qVUBmYl6-Q41BjUI1lwIQ2BiaadmBWfpaCrboQAFiyYuFPQoaJgpPN_Q_X9-goxBgYGygl1WQrolFg5Y-2LAaBVMFXSA0htM1QKyrYATmQegaMAnChnARkBoYNACJcOF3264e8t1mCrXNFG6vMdglIPdA3AZyFUTGCCgCkSPebTs6KXEbjK5RMAOzzOA00CVxEGfGwVggQYgGop33dPZscpwHcwSGxbDQBMU0MWFXiyVd-nggp0wTaMIE6o5XiDaMBVkVD2SZxqMxgdIGQBPR1GLThF2lCZBhgsJAUYcsistEoG907RSQPKSAyVXm4gIA)]
+- [主旋律 TMD 檔案](usagi_to_kame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWva4aevjpnWPmzseN61-3Lzw_Z6Op61Tnq6d8KKj_Xlz_8t9c97v6VTQ0uJStFUwNDDhsrdVcOGyMdI3sQOZ-mLlvPd7Zj2fv_lp3_ynk3qe7Oh82dwHtu_Z7E0gmS29zzobXuxb8WzNQpjMi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAuhMUFjrAcNaDxTWQIaBIdClSlz6WgpAu5_PXvdi1apnM_q4FBQUnuxY-2xa-4vli1-2dwMd9WzKzqfrVz9u6AB6DujXF5v3vtg-8XFD57OprU92ARX0PN2z_cWq_c9XrgS5p2vV067ZT7vnvmzse7ly6lOgmxuWvtjV-LihiUtLnwtknS21AMitwIB8NnvHi83tL1Z0AaMAGArAMH7augLoAVDUbOh91t6pEGBgbKCXVZD-qGEykGkIYgKdDdT3ckGjQkGBnoKhKVDK0AwoCAq3XT3AcHs2Zz6QrWCo8HLZNGBAAcMBZB3Qn88aloMs6u59MXM-UPRxczdQEKgHKAJMBkBLXRSeLlkOFFMAxroCUBSsGxg5PY-bVj1uXvS4afvj5rWPm9Y_bujlggR3A1AXPGkBlYNEYSrBZEMDJLU9bl6BYANVN28GioBVN-0GiTYtedzcB1ax7HFz4-PmdjAbaOu8x80zHjfPftwMMbtp0eNmoIr5UNVAEuSiJWA2UArI7X_c3AUUgbikE-w4oGPawObtBdvbBfQ5imYgo2k1xEe7esA-gmQQqHeA6oG6OmAuagEbCNQFTFlg90LyFdhTEDfCrVmJ6guIEUDPbgQFIlC2eSbEhgVgG6fCggCoGWg8UA_Ej0BxoNc6wCLtMH-BAmnl46Y1YA1AB6yFegpiPMiR6-Ge2gGMRizRBDQEKTSgUQMxcAnIE6CQaQfajRyUu8EumgDWCXIOzEqgZiACSq2FBMFmsC-APgSrADl2xePmZmgQNE8Ce6cX5PHmVRANG8DGY5Ag49EFwZ56Ons2Nk-BbF0DSgQga3ofN-0ER81-sDnbwWGyA-SOpv0QT0153Lwc7BfcDJBBOGVBpmAkGFAahQTPKmj8QwITR2oBsoAOAsYfJPKB7gPqBOqH-AGWgoF-aAaXcZSXPlCgACrVQosT0zND8r0TgdVFQGZiXr5DjUFNNcgeBRtDMy07MAtb0acAKadfLOxR0DBReLqh__n6Bh14eaWJRQPQOpBhNQqmCrpAaAyna4BYV8EIzIPQNWAShA3hIiA1MGgAEgGb5mNYAypwwKLAYEJhA2WaVoPYzQuh-oCpEGwWsjgwAsDszRAZsAoYjEfYYwSS64KbA1INojvApgFzeDPE0sfNi-FqQHaAZJchbGlaB2eDzIOYgmGXMUiuE24TzF5gRsXmp6Y1UHuWgHl7wSSY3dwOtQcSJhj2mIB0wdwAzDdQuh-spxdsDij_wC3aD7VoO5i3HkzuAGsB-R4kA1KBahH-BLSrh_wEZApNEqbwxGEMTi6gRANJQKCkA5ExAopA5LAmoKbdUB-uhgYdyE998MgD8RqhwQmC4CiHis8D4hlQ9mxwwEEiDmsCAkcOeqSuxGkeJHGBohvkto3QMIfraZ6J3Sbk5AN0P8x3kKQwAckF86DsdhR7gGEATrogmQawnrXY7QElH3BBiGQkCpda8tgyCoGCqZOSdAWjaxTMwCwzOA1MRXFgJpCCskCCEA3Ykxa0PGoGRkTzfCgbnLSAJIS3Fp7okHMrSB6UFyHsLngOx5G0mhdAVIKjbyqyPdAcDmxTIEU5xAUwdYvAiQ2WAEEysKSOJWnBzAPSoISIlIRA1Tws9prhRkI8NQkq3gHEvVD2ArAMJOVjTV3wwENOrauQ8wswR6EEHiy_AotYWMkFYmMvbPGmIWADg5w0BEspGKkDVlyB6juSCieUrAwqekGB0Ab2LLbiBFxHYElbsNQAydrY0xCszgEVdtCYBdYuIF2gGgvEA5oHtAER3EiFE7gSgFQMeOwBp6ANSD5CsMmWgcU69jQEdTooRQKdjxwUoLoLVubCMgmk8sMS5MC6DRGwyDbVcnHp2ikgNaSifQxjFdCFjDCFjDGFTMBCylwA)]
+- [鋼琴伴奏 TMD 檔案](usagi_to_kame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOxx09bHTeseN3c8blr9uHnh-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MCEy95WwYXLxkjfxI6rTkHpxcp57_fMej5_89O--U8n9TzZ0fmyuU8JJPNs9iaQzJbeZ50NL_ateLZmIUzmRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Gh4unbH051bnk9ZAXSmkYGRgZ6BgZmegYWJOZBhYAh0qRIXV2hxYnpmSL53Ym6qVUBmYl6-Q41BTTWXAhDYGJpp2YFZ-loKtuhAAWLHi4U9ChomCk839D9f36CjEGBgbKCXVZCuiUWDlj7YsBoFUwVdIDSG0zVArKtgBOZB6BowCcKGcBGQGhg0AImATfMxrFF43LwILPq4aTsKGyjTtBrEbl4I1fe4eQXYLGRxYJSC2ZshMmAVMBiPsMcIJNcFNwekGkR3gE1b9bi5GWLp4-bFcDUgO0CyyxC2NK2Ds0HmQUzBsMsYJNcJtwlm7-Pmbmx-aloDtWcJmLcXTILZze1QeyBhgmGPCUgXzA2Pm0HmgOh-sJ5esDk7IU6GWLQfatF2MG89mNwB1gLyPUgGpALVIvwJaFcP-QnIFJokTOGJwxicXECJBpKAQEkHImMEFIHIYU1ATbuhPlwNDTqQn_rgkQfiNUKDEwTBUQ4VnwfEM6Ds2eCAg0Qc1gQEjhz0SF2J0zxI4gJFN8htG6FhDtfTPBO7TcjJB-h-mO8gSWECkgvmQdntKPYAwwCcdEEyDWA9a7HbA0o-zVMeNy9HMhKFSy15bBmFQMHUSUm6gtE1CmZglhmcBqaiODATSEFZIEGIBuxJC1oeNQMjonk-lA1OWkASwlsLT3TIuRUkD8qLEHYXPIfjSFrNCyAqwdE3FdkeaA5_3LwEKcohLoCpWwRObLAECJKBJXUsSQtmHpAGJUSkJNTciIi9ZriREE9Ngop3AHEvlL0ALANJ-VhTFzzwkFPrKuT8AsxRKIEHy6_AIhZWcoHY2AtbvGno6ezZ5KQhWErBSB2w4gpU35FUOKFkZVDRCwqENrBnsRUn4DoCS9qCpQZI1saehmB1Dqiwg8YssHYB6QLVWCAe0DygDYjgRiqcwJUApGLAYw84BW1A8hGCTbYMLNaxpyGo00EpEuh85KAA1V2wMheWSSCVH5YgB9ZtiIBFtqkWSyvKxwOpHWUCbUYBYzleIdowFpQk4oEs03g0JlDaAOp0JLXYNGFXaQJkmKAwUNQhi-IyEegZXTsFJP9E-wBVogsZYQoZYwoB7QIKKXMBAA)]
 
 ## 分析
 
@@ -86,14 +114,14 @@ B3 B d3 B | A3 A F3 F | E3 E F3 E | D6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ ウサギトカメ（兔子與烏龜） ]
 ================================================================================
-⏱  Duration:       0:18 (18.5s), 16 measures total
+⏱  Duration:       1:13 (73.8s), 64 measures total
 🎼 Key & Tempo:    首調基準 D, != 104.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [UsagiToKame #1 @ m.3, 0:02]
-   - 最高音: D5 in [UsagiToKame #1 @ m.11, 0:11]
+   - 最低音:  D4 in [UsagiToKame[L1] #1 @ m.3, 0:02]
+   - 最高音: D5 in [UsagiToKame[L1] #1 @ m.11, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      UsagiToKame (18.5s)
+🏛  結構:      UsagiToKame[L1] (18.5s) -> UsagiToKame[L2] (18.5s) -> UsagiToKame[L3] (18.5s) -> UsagiToKame[L4] (18.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -101,9 +129,12 @@ B3 B d3 B | A3 A F3 F | E3 E F3 E | D6 z2 |
    - 核心骨幹音:  A, D, F#, E, B
    - 調性數值:    D 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.84), A 大調 (0.76), F# 小調 (0.68)
-   - 五度圈歷程:   +2
+   - 五度圈歷程:   +2 -> +2 -> +2 -> +2
    - 各段落調性細節:
-     • [UsagiToKame #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [UsagiToKame[L1] #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [UsagiToKame[L2] #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [UsagiToKame[L3] #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [UsagiToKame[L4] #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -130,7 +161,7 @@ B3 B d3 B | A3 A F3 F | E3 E F3 E | D6 z2 |
      B  : ████████████              11.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 51 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 204 個音符)
 ================================================================================
 ```
 

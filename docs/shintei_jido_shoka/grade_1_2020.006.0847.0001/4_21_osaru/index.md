@@ -60,16 +60,21 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 G2 A G G2 z2 | G2 A G G2 z2 | E2 z2 D2 z2 | G6 z2 |
+w: オ サ _ ル | オ サ _ ル | キャッ キャッ | キャ
 A2 c d c2 z2 | A2 c d c2 z2 | A2 z2 G2 z2 | E6 z2 |
+w: オッ カ ケ テ | コ ロ ン デ | キャッ キャッ | キャ
 G2 G2 G2 G2 | G2 c2 G4 | E2 E E E2 E2 | E2 G2 D4 |
+w: オ ヤ ザ ル | コ ザ ル | イ ツ _ ショ ニ | ア ソ ブ
 G2 A G G2 z2 | G2 A G G2 z2 | E2 z2 D2 z2 | G6 z2 |
+w: アッ チ デ モ | コッ チ デ モ | キャッ キャッ | キャ
 A2 c d c2 z2 | A2 c d c2 z2 | A2 z2 G2 z2 | C6 z2 |
+w: オ サ _ ル | オ サ _ ル | キャッ キャッ | キャ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](osaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvW4aevj5tXv93Q879nydO2E93s6FbS0uBRtFQwNLLjsbRWcuWyM9E3sQGa8WDnv_Z5ZLybOfto3_8OyjZvBBj-bvQko-GxR4_MpG15smgcWe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgCdBApOPWBw6oGCE8gwMAQ6T4lLX0sBaOvz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6Qc_r7n65fDfHR81ktT7unPtk753FD4_O-lS8ael90tD_bPuPZhsXPVix8tmLx44YmLi19LqCxXPDweNzQAGcDRdc-bl7yuLkFLIrOBmsC8ptWP27a-Li5DSyx-XEzUA5IthOle8njpm0wWzdD2EAJsMKm7Y-bVzxu7gbLLXrctPdx8zSg3CKQXHMj0ILHzYtgViJEiLGVZI-CAsk3MTPPKiAzMS_focagRqEaFPgKNoZmWnZgVo2CqYKughmQBNEGQIxNxBjKMkJRA4NgEahpZkC2YZyCURyIhCnGKQhiodqCzUyQCmQMEQEbBXMGRLMxGIJomAhIHuRosJpB52FDDDNrubh07RRAcaYApJW5uAA)]
-- [鋼琴伴奏 TMD 檔案](osaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx09bHzavf7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGlhw2dsqOHPZGOmb2HHVKSi9WDnv_Z5ZLybOfto3_8OyjZuVQILPZm8CCj5b1Ph8yoYXm-aBxV6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVA5xkZGBnoGRiY6RlYmJgDGQaGQOcpcXH5JmbmWQVkJublB3k41BjUKFRzKQCBjaGZlh2YVaNgqqCrYAYkQbQBEGMTMYayjFDUwCBYBGqaGZBtGKdgFAciYYpxCoJYqLZgMxOkAhlDRMBGwZwB0WwMhiAaJgKSBzkarGbQedgQw8xa5CjzQYkyC3iMRRvGAhWDSAOsPAOFaNN4ZEmQ6TD3RpugKMfgATWjGIyiF24VyPVE8EDOQAQVrd2NTTMwQHXtFEBhqgCklbm4AA)]
+- [主旋律 TMD 檔案](osaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvW4aevj5tXv93Q879nydO2E93s6FbS0uBRtFQwNLLjsbRWcuWyM9E3sQGa8WDnv_Z5ZLybOfto3_8OyjZvBBj-bvQko-GxR4_MpG15smgcWe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgCdBApOPWBw6oGCE8gwMAQ6T4lLX0sBaOvz2eterFr1bEYfl4KCwpMda59Na3-xfPHL9m6Qc_r7n65fDfHR81ktT7unPtk753FD4_O-lS8ael90tD_bPuPZhsXPVix8tmLx44YmLi19LqCxXPDweNzQAGcDRdc-bl7yuLkFLIrOBmsC8ptWP27a-Li5DSyx-XEzUA5IthOle8njpm0wWzdD2EAJsMKm7Y-bVzxu7gbLLXrctPdx8zSg3CKQXHMj0ILHzYtgViJEiLGVZI-CAsk3MTPPKiAzMS_focagphoU9go2hmZadmBWjYKpgq6CGZAE0QZAjE3EGMoyQlEDg2ARsGk-NaAECuQCnQcim1cDyXiwBtziQJcuftzcDBVB58NUINkHFoa63gzINoxTMIoDkTDH4RQEsVB9hcsPEAcAkwgQbwQ6uA3JOZvBXlgLxJuBuJ1aXgE5DBlDRMA-gIU2xM3GYAiiYSIgeVDcgNWgxUTzErBTtsHDHe4FJDGI4cAEDBZpAcsCk_FyMLcbKrkILLwXLDYNxTYapCJgdgHHQHMjOIyBOQQpFIE5B7fkgKUnQ9y-oVOeqOXi0rVTAOV4BSCtzAUA)]
+- [鋼琴伴奏 TMD 檔案](osaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx09bHzavf7-l43DzlcdOix819T_Zsebq0_8nuGe_3dCpoaXEp2ioYGlhw2dsqOHPZGOmb2HHVKSi9WDnv_Z5ZLybOfto3_8OyjZuVQILPZm8CCj5b1Ph8yoYXm-aBxV6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVA5xkZGBnoGRiY6RlYmJgDGQaGQOcpcXH5JmbmWQVkJublB3k41BjUVHMpAIGNoZmWHZhVo2CqoKtgBiRBtAEQYxMxhrKMUNTAIFgEbJpPDSjMgFxgsIHI5tVAMh6sAbf42sfNix83N0NF0PkwFUj2gYWhrjcDsg3jFIziQCTMcTgFQSxUX-HyA8QBj5tWA_FGoIPbkJyzGeyFtUC8GYjbqeUVkMOQMUQE7ANYaEPcbAyGIBomApIHxQ1YDVpMNC8BO2UbPNzhXkASgxj-uAmstrkFLLv9cfNyMLcbKrkILLwXLDYNxTYapCJgVgPHQHMjOIwfN4Nsh8cAPskBS0-GuH1DpzxRi5zhfZAzvAU8v0cbxgLVgkgDrDwDhWjTeGRJkGdgwRNtgqIcgwfUjGIwil64VSAfEMEDOQMRM7R2NzbNwPDUtVMABakCkFbmAgA)]
 
 ## 分析
 

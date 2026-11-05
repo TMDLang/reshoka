@@ -35,7 +35,7 @@ audio: "issunboshi.mp3"
 ユビニタリナイ一スンボウシ
 チヒサイカラダニオホキナノゾミ
 オワンノフネニハシノカイ
-ヤウヘハルバルノボリユク
+キヤウヘハルバルノボリユク
 
 二
 キヤウハサンジヨウノダイジンドノニ
@@ -75,15 +75,51 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 C3 C F4 | G3 G F3 G | A3 A d3 d | c3 c A2 z2 |
+w: ユ ビ ニ | タ リ ナ イ | イ ッ ス ン | ボ ウ シ
 G3 G G3 G | A3 G F3 E | D3 D G3 G | C3 C C2 z2 |
+w: チ ヒ サ イ | カ ラ ダ ニ | オ ホ キ ナ | ノ ゾ ミ
 D3 D D3 D | F3 F D3 F | G6 A2 | F3 G A2 z2 |
+w: オ ワ ン ノ | フ _ ネ ニ | ハ シ | ノ カ イ
 d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
+w: キャ ウ ヘ _ | ハ ル バ ル | ノ ボ | リ ユ ク
+C3 C F4 | G3 G F3 G | A3 A d3 d | c3 c A2 z2 |
+w: キャ ウ ハ | サ ン ジョウ ノ | ダ イ ジ ン | ド ノ ニ
+G3 G G3 G | A3 G F3 E | D3 D G3 G | C3 C C2 z2 |
+w: カ カ ヘ _ | ラ レ タ ル | イ ッ ス ン | ボ ウ シ
+D3 D D3 D | F3 F D3 F | G6 A2 | F3 G A2 z2 |
+w: ホ ウ シ _ | ホ ウ シ ト | オ キ | ニ イ リ
+d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
+w: ヒ メ ノ _ | オ ト モ デ | キ ヨ | ミ ヅ ヘ
+C3 C F4 | G3 G F3 G | A3 A d3 d | c3 c A2 z2 |
+w: サ テ モ | カ ヘ リ ノ | キ ヨ ミ ヅ | ザ カ ニ
+G3 G G3 G | A3 G F3 E | D3 D G3 G | C3 C C2 z2 |
+w: オ ニ ガ _ | イ ッ ピ キ | ア ラ ハ レ | イ デ テ
+D3 D D3 D | F3 F D3 F | G6 A2 | F3 G A2 z2 |
+w: ク ッ テ _ | カ カ レ バ | ソ ノ | ク チ ヘ
+d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
+w: ホ ウ シ _ | タ チ マ チ | ヲ ド | リ コ ム
+C3 C F4 | G3 G F3 G | A3 A d3 d | c3 c A2 z2 |
+w: ハ リ ノ | タ チ ヲ バ | サ カ テ ニ | モ ッ テ
+G3 G G3 G | A3 G F3 E | D3 D G3 G | C3 C C2 z2 |
+w: チ ク リ _ | チ ク リ ト | ハ ラ ヂュ ウ | ツ ケ バ
+D3 D D3 D | F3 F D3 F | G6 A2 | F3 G A2 z2 |
+w: オ ニ ハ _ | ホ ウ シ ヲ | ハ キ | ダ シ テ
+d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
+w: イッ シャ ウ _ | ケ ン メ イ | ニ ゲ | テ ユ ク
+C3 C F4 | G3 G F3 G | A3 A d3 d | c3 c A2 z2 |
+w: オ ニ ガ | ワ ス レ タ | ウ チ デ ノ | コ ヅ チ
+G3 G G3 G | A3 G F3 E | D3 D G3 G | C3 C C2 z2 |
+w: ウ テ バ _ | フ シ ギ ヤ | イ ッ ス ン | ボ ウ シ
+D3 D D3 D | F3 F D3 F | G6 A2 | F3 G A2 z2 |
+w: ヒ ト ウ チ | ゴ _ ト ニ | セ ガ | ノ ビ テ
+d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
+w: イ マ ハ _ | リ ッ パ ナ | オ ホ | ヲ ト コ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](issunboshi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk82dHwuGnn4-bNj5vnPG5a9rhp-_s9HUDBp-t3PNs89emO1e_3dCpoaXEp2ioYGhhw2dsquHHZGOmb2IEMfbFy3vs9s55un_Ziw_anG_qfbV4EtuvZ7E1A4edTNjybO_HFzL4X0_vBwi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69ZA3LO2h1Pd255PmUF0HWgQNYDBrIeKJCBDANDoBuVuPS1FIAWP5-97sWqVc9m9HEpKAA9t_bZtPYXyxe_bO8GuujZ9KXP5qx5tmHiy2mTn01tfbKrG6jg-awWoNOB6EX3xpezW97v6XnW3_90_eonu6c97W5_NnXRU6CzZ-553ND4cvq0F1NXPtkx7flUoAubuLT0uUCW2lILgFz8tG_-s9k7Xmxuf7Gi60VHOzAsgGH8tHUF0BtAnz_d0PusvVMhwMDITC-rIP1Rw2Qg0xzEBDl79o6XCxoVCgr0FAwNgVKGRkBBeOg9mzMfyAbGocLLZdOA4QUMDpB9L1btf9awHGRTd--LmfOBoo-bZwAFn-zqAYo8XTsBaKubwtMly4FiCsBoVwCKgnUDQ6DncdOqx82LgEnmcfPax03rHzf0ckFCvQFEPW5e9rh58uPm7sdN-x83A1V2PW5agpncIEobHzdPety0FajicdPqx80rHzc3gHUCtc1-3LQWpLm573HTvsfN88EaQBLrwcb0PW6e-ri5F6S6uR_sFqC61UCDIAYDzQM6YwZIrhlo8AQwCdQzB-wkoAPWQ9y8qwdiLtAqiBagWVtBFjTteNy8AiwC1AV0PFAWKAK0uBMs0g3RBrQQaC7QGqDL14A9vBqXV4H-AXGQGB0g74BsBnp4CdBdEHWTHjcvBHsG6M4OUDg3t4MVrQCGwePmVqBt0NDuhDgB6No2cHRAHALUBdSLpL5pG1gK6mCgNNA2UOJ43DwFpK4JaAHQ8cBgArof6Ip2oHEQpcBwbgGZDfXkGlAoNu0FGw-UAsbcDFSPgXwPFJ0HJjeBAwroPWAwLAA7-Ons2RD1QKsgjoSoB6oEmgtMAkA7gB4BRifQRSCLYSkEZBtQA5wBDBSgEUA3N4EjEhhDLY-bNgJNQfIhSAU8nIE2AGMVGCTAiAFyod4D-hWoD8gHxzvIAKBTF4LFgSEE1AN0DFI6mYISfqBUCIpkcJyDnAD0CDDkgJ4CGgKMo0aIaqAE0BRg4psKDqB1QMtwJQ9gtAPTA9ikpi1gTwLt2Q22CpjcgPkJ4WxgCEPCEBhKE8H5C5xdQP4EGrEZpI7yUgkKFEClnWdxcWleUj6wQrQKyEzMy3eoMahRqAbZo2BjaKZlB2ZhKxIVIOXQi4U9ChomCsDC9vn6Bh14OaaJRQPQOpBhNQqm8Qq6QAikDMEMXaCYEZg2gooYAUWMwSxjBTMwbQbSB9EGljEA6QLHH27X7eohx3Uwl8BomEvgjjOPB4qZQfwApBDqEP4Cs4hx4o5OcpyIsBzBqoG6zhAmZgj3CwSCfAFTZERsGAJzNlkOhMYZLMYgYQjCIBEQhrkE2W3IaQDitlouLl07BUQaVQDylLm4AA)]
-- [鋼琴伴奏 TMD 檔案](issunboshi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fx087HzZsfN8953LTscdP293s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoYEBl72tghuXjZG-iR1XnYLSi5Xz3u-Z9XT7tBcbtj_d0P9s8yIlkPCz2ZuAws-nbHg2d-KLmX0vpveDhV-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-zBujMp2t3PN255fmUFUAHGhkYGegZGJjpGViYmAMZBoZANypxcXkWF5fmJeUXZ2RaBWQm5uUHeTjUGNQoVHMpAIGNoZmWHZilr6Vgiw4UILa8WNijoGGiAPTK8_UNOgoBBkZmelkF6ZpYNGjpgw2rUTCNV9AFQiBlCGboAsWMwLQRVMQIKGIMZhkrmIFpM5A-iDawjAFIFxd-1-3qIcd1MJfAaJhLYG4zjwcKmUG8AKQQyhDeArOIceGOTnJciLAcwaqBus4QJmYI9woEgjwBU2REbBA-nT2bLAdCowwWYZAgBGGQCAjDXILsNuQkAHFbLWYK9UFJoSbQBAo0Ll4h2jAWHAtAlmk8iAkSM4EyDIDGwVIfigKwJjOQmBFYDCSNUGwCkjABSyAxUY1AVg01D24wqrMMQVpAvtK1U0B4TAGDp8zFBQA)]
+- [主旋律 TMD 檔案](issunboshi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFpaSk82dHwuGnn4-bNj5vnPG5a9rhp-_s9HUDBp-t3PNs89emO1e_3dCpoaXEp2ioYGhhw2dsquHHZGOmb2IEMfbFy3vs9s55un_Ziw_anG_qfbV4EtuvZ7E1A4edTNjybO_HFzL4X0_vBwi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69ZA3LO2h1Pd255PmUF0HWgQNYDBrIeKJCBDANDoBuVuPS1FIAWP5-97sWqVc9m9HEpKAA9t_bZtPYXyxe_bO8GuujZ9KXP5qx5tmHiy2mTn01tfbKrG6jg-awWoNOB6EX3xpezW97v6XnW3_90_eonu6c97W5_NnXRU6CzZ-553ND4cvq0F1NXPtkx7flUoAubuLT0uUCW2lILgFz8tG_-s9k7Xmxuf7Gi60VHOzAsgGH8tHUF0BtAnz_d0PusvVMhwMDITC-rIP1Rw2Qg0xzEBDl79o6XCxoVCgr0FAwNgVKGRkBBeOg9mzMfyAbGocLLZdOA4QUMDpB9L1btf9awHGRTd--LmfOBoo-bZwAFn-zqAYo8XTsBaKubwtMly4FiCsBoVwCKgnUDQ6DncdOqx82LgEnmcfPax03rHzf0ckFCvQFEPW5e9rh58uPm7sdN-x83A1V2PW5agpncIEobHzdPety0FajicdPqx80rHzc3gHUCtc1-3LQWpLm573HTvsfN88EaQBLrwcb0PW6e-ri5F6S6uR_sFqC61UCDIOqAWoFGAl0yAyTdDDR7ApgEapsDdhXQDeshzt7Vg6YFaNxWkB1NOx43rwCLAHUB3Q-UBYoA7e4Ei3RDtAHtBJoLtAbo-DVgP6_G5Vugl0AcJEYHyEcgm4F-XgJ0F0TdpMfNC8H-AbqzAxTUze1gRSuAwfC4uRVoGzTAOyFOALq2DRwjEIcAdQH1Iqlv2gaWgjoYKA20DZQ-HjdPAalrAloAdDwwmIDuB7qiHWgcRCkwqFtAZkM9uQYUik17wcYDpYCRNwPVYyDfA0XngclN4IACeg8YDAvADn46ezZEPdAqiCMh6oEqgeYCUwHQDqBHgDEKdBHIYlgiAdkG1ABnAAMFaATQzU3giATGUMvjpo1AU5B8CFIBD2egDcBYBQYJMGKAXKj3gH4F6gPywfEOMgDo1IVgcWAIAfUAHYOUTqaghB8oIYIiGRznICcAPQIMOaCngIYA46gRohooATQFmPimggNoHdAyXMkDGO3A9AA2qWkL2JNAe3aDrQImN2CWQjgbGMKQMASG0kRwFgPnGJA_gUZsBqmjvGCCAgVQgedZXFyal5QPrBOtAjIT8_IdagxqqkHWKNgYmmnZgVnYCkUFSEn0YmGPgoaJArC4fb6-QQdekmli0QC0DWRYjYJpvIIuEAIpQzBDFyhmBKaNoCJGQBFjMMtYwQxMm4H0QbSBZQxAusDm-RjWgIomsBwwMIG4G24qMAah4quAuAvCbloCllkClWkGsndC2ZtBMs1zoOqWAfF2IAvkXKhdRiCdwNS2GKGkuR_Juq1wg8BFynKQCohIH9joBrgTgPIolnbC1UE8gGSpMbLJbUC8CMnG1VDxGWBPItnVtBbKWwHE86HsVrDMNqgrVmPaZQJyC8RHkEDrwxKYjUC8CcqegOxvsIltUJlusL8gbgUHM1gGyS5TkE6Ym7uB7DUIu5rXQ03cCWRDxEH2g3TAQhTkinYUH2-G-xIkC7MLfxLe1UNOEoYlVxgNS66wBGweDxQyg6RzIIVQhkj7YBZ6Mga5GuSDSUhhCkmusHheiUhFkBCGh-BspDjvAochJO6AtSw0BaAnZKiZ4FibgRT2K6GmrEGK89XkZxpw-sURz8gmNk-BmrEWLANLOSAfw1LkGhQ97ZhpCpx-oaHYtB6eJyD-whQHlqpgGZj5ILuAVc9SuGdAki1Q3kZwcsdMwrAE2QaVh1k3FapvOxCvg6ohr-whUAp3kpOEEakTwaqBJl9DmJghPK1DICiVwxQZYSuI4fEMCmNYfoSUfZDgAPF7oTSkhICVn7DAggQeLO0C0yY4uNDSLjC1owYULNAxxaFxDHUZzB5QTgGph1QW4BIZnCbQ0y20HIKXX7B0i5x3oOUTtCzci2wP2B_I5oBKLVBeQ0uzyPkDuUbB6p9NWMIN5h9YDQNMdNjKW2DJAgsT5JIU5IItcDd3wN0CEt-NYg_Ir0jxA65wEfbgTajAViJZCRVskxm8-oeUtSAMEgFhWIpETqPIDQr0NIpWgSMXfaBABRV2kOiEsREehgURKJ-CRGHRBooeUBSjJ1NYcC9EMgEW3ZCAhlSRkKoMUW3D7FkBtQdRgWMkH1AyxZUdwMU3pOADti3hbJAOSAUOswfU_EDyD7AqBbbtUe0BJ1NgE7UZqgTYvF4MT0QQ2zaCzQJle5CPIdkKOZvBEhHIbpAorKmAJfTAJSusnJyHlikgoQdyCLCVDCZBbTuMTA4OFYRfIYke5DqIPbVcXLp2CogGcLSPYawCmogRhogxhogJhogpWESZCwA)]
+- [鋼琴伴奏 TMD 檔案](issunboshi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fx087HzZsfN8953LTscdP293s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoYEBl72tghuXjZG-iR1XnYLSi5Xz3u-Z9XT7tBcbtj_d0P9s8yIlkPCz2ZuAws-nbHg2d-KLmX0vpveDhV-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-zBujMp2t3PN255fmUFUAHGhkYGegZGJjpGViYmAMZBoZANypxcXkWF5fmJeUXZ2RaBWQm5uUHeTjUGNRUcykAgY2hmZYdmKWvpWCLDhQglrxY2KOgYaIA9Mnz9Q06CgEGRmZ6WQXpmlg0aOmDDatRMI1X0AVCIGUIZugCxYzAtBFUxAgoYgxmGSuYgWkzkD6INrCMAUgX2DwfwxqFx83LwHKPmycDcTfc1MdN-6Hiq4C4C8JuWgKWWQKVaQayd0LZm0EyzXOg6pYB8XYgC-RcqF1GIJ1rHzcvRihp7keybivcoMdNOx43LwepgIj0gY1ugDsBKI9iaSdcHcQDSJYaI5vcBsSLkGxcDRWfAfYkkl1Na6G8FUA8H8puBctsg7piNaZdJiC3QHwECbQ-LIHZCMSboOwJyP4Gm9gGlekG-wviVnAwg2WQ7DIF6YS5uRvIXoOwq3k91MSdQDZEHGQ_SAcsREGuaEfx8Wa4L0GyMLvwJ-FdPeQkYVhyhdGw5ApLwObxQCEzSDoHUghliLQPZqEnY5CrQT6YhBSmkOQKi-eViFQECWF4CM5GivMucBhC4u5x0z5oCkBPyFAzwbE2AynsV0JNWYMU56vJzzTg9IsjnpFNbJ4CNWMtWAaWckA-hqXINSh62jHTFDj9QkOxaT08T0D8hSn-uLkDLAMzH2RX0-PmpXDPgCRboLyN4OSOmYRhCbINKg-zbipU33YgXgdVQ17ZQ6AU7iQnCSNSJ4JVA02-hjAxQ3hah0BQKocpMsJWEMPjGRTGsPwIKfsgwQHi90JpSAkBKz9hgQUJPFjaBaZNcHChpV1gakcNKFigY4pD4xjqMpg9oJwCUg-pLMAlMjhNoKdbaDkEL79g6RY570DLJ2hZuBfZHrA_kM0BlVqgvIaWZpHzB3KNgtU_m7CEG8w_sBoGmOiwlbfAkgUWJsglKcgFW-Bu7oC7BSS-G8UekF-R4gdc4SLswZtQn86eTVZCBdtkBq_-IWUtCINEQBiWIpHTKHKDAj2NolXgyEUfKFBBhR0kOmFshIdhQQTKpyBRWLSBogcUxejJFBbcC5FMgEU3JKAhVSSkKkNU2zB7VkDtQVTgGMkHlExxZQdw8Q0p-B43z4OzQTogFTjMHlDzA8k_wKr0cfMCVHvAyXQJKCdAUxgoFGGJCGLbRrBZoGwP8jEkWyFnM1giAtkNEoU1FbCEHrhkhZWT89AyBST0QA553DwRTILadhiZHBwqCL9CEj3IdRB7ajHbvz7I7V8TaPMXmLziFaINY8HVN5BlGg9igsRMoAwDqKsxFIA1mYHEjMBiIGmEYhOQhAlYAomJagSyaqh5cINRnWUI0gLylK6dAsJf0T5AFWgiRhgixhgiQK-hiZiCRZS5AA)]
 
 ## 分析
 
@@ -91,14 +127,14 @@ d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 一スンボウシ（一寸法師） ]
 ================================================================================
-⏱  Duration:       0:19 (19.2s), 16 measures total
+⏱  Duration:       1:36 (96.0s), 80 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Issunboshi #1 @ m.1, 0:00]
-   - 最高音: D5 in [Issunboshi #1 @ m.3, 0:03]
+   - 最低音:  C4 in [Issunboshi[L1] #1 @ m.1, 0:00]
+   - 最高音: D5 in [Issunboshi[L1] #1 @ m.3, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Issunboshi (19.2s)
+🏛  結構:      Issunboshi[L1] (19.2s) -> Issunboshi[L2] (19.2s) -> Issunboshi[L3] (19.2s) -> Issunboshi[L4] (19.2s) -> Issunboshi[L5] (19.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -106,9 +142,13 @@ d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
    - 核心骨幹音:  G, F, D, C, A
    - 調性數值:    C 調性不明確 [相關度: 0.74, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.74), F 大調 (0.74), D 小調 (0.67)
-   - 五度圈歷程:   +0
+   - 五度圈歷程:   +0 -> +0 -> +0 -> +0 -> +0
    - 各段落調性細節:
-     • [Issunboshi #1]: C 調性不明確 (r: 0.74, 自然音純度: 100.0%)
+     • [Issunboshi[L1] #1]: C 調性不明確 (r: 0.74, 自然音純度: 100.0%)
+     • [Issunboshi[L2] #1]: C 調性不明確 (r: 0.74, 自然音純度: 100.0%)
+     • [Issunboshi[L3] #1]: C 調性不明確 (r: 0.74, 自然音純度: 100.0%)
+     • [Issunboshi[L4] #1]: C 調性不明確 (r: 0.74, 自然音純度: 100.0%)
+     • [Issunboshi[L5] #1]: C 調性不明確 (r: 0.74, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -135,7 +175,7 @@ d3 d c3 c | A2 A2 c2 c2 | F6 A2 | G3 G F2 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 55 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 275 個音符)
 ================================================================================
 ```
 

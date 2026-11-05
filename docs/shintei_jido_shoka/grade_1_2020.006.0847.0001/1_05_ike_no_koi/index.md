@@ -70,14 +70,23 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 B3 A G2 D2 | B3 A G2 D2 | G2 A2 B3 c | A6 z2 |
+w: デ テ コ イ | デ テ コ イ | イ ケ ノ コ | ヒ
 G3 A B4 | A2 A2 G2 E2 | D3 D D2 D2 | E2 E2 D4 |
+w: ソ コ ノ | マ ツ モ ノ | シ ゲ ツ タ | ナ カ デ
 d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
+w: テ ノ ナ ル | オ _ ト ヲ | キ イ タ ラ コイ | キ イ タ ラ コイ
+B3 A G2 D2 | B3 A G2 D2 | G2 A2 B3 c | A6 z2 |
+w: デ テ コ イ | デ テ コ イ | イ ケ ノ コ | ヒ
+G3 A B4 | A2 A2 G2 E2 | D3 D D2 D2 | E2 E2 D4 |
+w: キ シ ノ | ヤ ナ ギ ノ | シ ダ レ タ | カ ゲ ヘ
+d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
+w: ナ _ ゲ タ | ヤ キ フ ガ | ミ エ タ ラ コイ | ミ エ タ ラ コイ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ike_no_koi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4aePj5r7HTZsfN096v6fj2cYFT3asfbm-8-XaWe_3dCpoaXEp2ipYmnHZ2yq4c9kY6ZvYgYx7sXLe-z2znk1rf9m84vmcRrAVz2ZvwhB70b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWAJ0FClg9YMDqgQIWyDAwBDpOiUtfSwFo6_PZ616sWvVsRh-XgoIC0PVAJ7xYvvhlezfIOf39T9evBvrq2YYtQKnns1ogfnu2Y8fT7qnv9_Q82b30aX_X07Urn66d8GJ5A1AKqObFtsVPJ25-3NDEpaXPBbLFlloA5MSnffOfzd7xYnP7ixVdLzragZ4HBufT1hVAdwO9-nRD77P2ToUAkI-zCtKBTgQqfrmgUaFAT8EUyIMHzrM584FsBVOFl8umAUMD6FmQ4S9W7X_WsBxkbHfvi5nzgaKPmzuAgk929QBFgJ4EWuGu8HTJcqCYAjA6FYCiYN3AGOh53LTqcfOix03bHzevfdy0_nFD76OZK22BsQ8J2QYQ9bi5_XFzGyjBABNPQwMyFywNT1JAOXCqgojuBXPAos3zHje3gOxpBscYyLqmTSChpv1g6a7HTauBxkIsawNpAgo1rwYbCHRfx-PmTRB9QDcCLdv_uHkl1DKYE7BJgL2wq4cCLwBNBQYMxAtLwM5ch-SFZqDoGqgXgO4H-WgGxDKgwk0wvwFNXvu4eerjpjUQufmPm1Zg8wIuCcpTIBQogFK2Z3aqX753fqZVQGZiXr5DjUGNQjXIFgUbQzMtOzALW-JXgKTBFwt7FDRMFJ5u6H--vkEHnmI1sWgAWgYyrEbBWEEXCI0UDIGkaTyQwCoEYhoBMUTKBCgC4sGgAUgNOD5xu25XDzmuA9kLshliL8glIHtBGCRjBnEc2I1gp4JZUCeDJcEEVJ6wG3d0kuNGU4jtYNoYEVwgJ8KCDRSmEAhSBA4uoDgEgtRAArCWi0vXTgGWBBSAbGUuLgA)]
-- [鋼琴伴奏 TMD 檔案](ike_no_koi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctORx08bHzX2PmzY_bp70fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOOyt1Vw57Ix0jex46pTUHqxct77PbOeTWt_2bzi-ZxGJZDYs9mbMMRetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQJcZGRgZ6BkYmOkZWJiYAxkGhkDHKXFxeWan-uV752daBWQm5uUHeTjUGNQoVHMpAIGNoZmWHZilr6Vgiw4UIHa8WNijoGGi8HRD__P1DToKASBrsgrSNbFo0NIHG1ajYKygC4RGCoZA0jQeSGAVAjGNgBgiZQIUAfFg0ACkhgu_63b1kOM6kL0gmyH2glwCsheEQTJmEMeB3Qh2KpgFdTJYEkxA5Qm7cUcnOW40hdgOpkHuhLnaEB5qoCCFQJAacGgBxSEQpAYSfrXoCcAHJQGYQOMfaHy8QrRhLDrDJB7EMo2PBxpXg6TSFCxuAhSPNoQrgYrCDMBmMKoKiC6wASCH6topwNyqgMZW5uICAA)]
+- [主旋律 TMD 檔案](ike_no_koi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWvK4aePj5r7HTZsfN096v6fj2cYFT3asfbm-8-XaWe_3dCpoaXEp2ipYmnHZ2yq4c9kY6ZvYgYx7sXLe-z2znk1rf9m84vmcRrAVz2ZvwhB70b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonOxqert3xdOeW51NWAJ0FClg9YMDqgQIWyDAwBDpOiUtfSwFo6_PZ616sWvVsRh-XgoIC0PVAJ7xYvvhlezfIOf39T9evBvrq2YYtQKnns1ogfnu2Y8fT7qnv9_Q82b30aX_X07Urn66d8GJ5A1AKqObFtsVPJ25-3NDEpaXPBbLFlloA5MSnffOfzd7xYnP7ixVdLzragZ4HBufT1hVAdwO9-nRD77P2ToUAkI-zCtKBTgQqfrmgUaFAT8EUyIMHzrM584FsBVOFl8umAUMD6FmQ4S9W7X_WsBxkbHfvi5nzgaKPmzuAgk929QBFgJ4EWuGu8HTJcqCYAjA6FYCiYN3AGOh53LTqcfOix03bHzevfdy0_nFD76OZK22BsQ8J2QYQ9bi5_XFzGyjBABNPQwMyFywNT1JAOXCqgojuBXPAos3zHje3gOxpBscYyLqmTSChpv1g6a7HTauBxkIsawNpAgo1rwYbCHRfx-PmTRB9QDcCLdv_uHkl1DKYE7BJgL2wq4cCLwBNBQYMxAtLwM5ch-SFZqDoGqgXgO4H-WgGxDKgwk0wvwFNXvu4eerjpjUQufmPm1Zg8wIuCcpTIBQogFK2Z3aqX753fqZVQGZiXr5DjUFNNcgSBRtDMy07MAtb2leAJMEXC3sUNEwUnm7of76-QQeeYDWxaADaBTKsRsFYQRcIjRQMgaRpPJDAKgRiGgExRMoEKALiwaABSA3YPB_DGlBcgkWBMQiMhs0gVtMSsCl4ZMA0MI7Bsn0QVUAVID2TkGwCuwZikxE9bMIf4rt6yAlxUFiCQhMSliA3gcIShEEyZpAAB4c7OPjBLGg0gCXBBFQeJdyb9sJ9A_MZJCzmgf3aAiYXwf0N0rEdqmMTTL5pP1RPF5i3GqwaEpYoId-0FqpzO5pd4NCF6l6Hza7mBiBeg2wXxBagG0CyM-B2EUjtneSEvSkkVMG0MSJpg4IelsRB6R8CQYrASRsoDoEgNeiJvQ3qrT6Yt5tB3gF5axXUK8ACEkyCPAgJOlAiBHkfWJaAoguSJiHOwS-NlPRBdsEiDzniQGpBfKAxzVPBLFBgg2TmA9krcNqLV5qrlotL104BVjpF-xjGKqDwjcB8ZS4A)]
+- [鋼琴伴奏 TMD 檔案](ike_no_koi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctORx08bHzX2PmzY_bp70fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOOyt1Vw57Ix0jex46pTUHqxct77PbOeTWt_2bzi-ZxGJZDYs9mbMMRetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQJcZGRgZ6BkYmOkZWJiYAxkGhkDHKXFxeWan-uV752daBWQm5uUHeTjUGNRUcykAgY2hmZYdmKWvpWCLDhQgVrxY2KOgYaLwdEP_8_UNOgoBIFuyCtI1sWjQ0gcbVqNgrKALhEYKhkDSNB5IYBUCMY2AGCJlAhQB8WDQAKQGbJ6PYY3C4-Z2sOjj5jZgpGwGsZqWgE3BIwOmgfEHlu2DqAKqAOmZhGQT2DUQm4zoYRP-EN_VQ06Ig8ISFJqQsAS5CRSWIAySMYMEODjcwcEPZkGjASwJJqDyKOHetBfuG5jPIGExD-zXFjC5CO5vkI7tUB2bYPJN-6F6usC81WDVkLBECfmmtVCd29HsAocuVPc6bHY1NwDxGmS7ILYA3QCSnQG3i0Bq7yQn7E0hoQqmQeEPiw1DeAoHJX8IBKkBp2ygOASC1KCn9Taor_pgvm4G-Qbkq1VQnzxu7gCTIP9BQg6UBkG-f9y8EhRbkCQJiWH80kgpH2QXLO6Q4w2kFsQHGtM8FcwChTVIZj6QvQKnvXiluWrRyyYf5LLJBFo0AUMzXiHaMBadYRIPYpnGxwNDD-IHiLgpWNwEKB5tCFcCFYUZgM1gVBUQXWADQO7UtVOAOTXaByiPwjcC85W5AA)]
 
 ## 分析
 
@@ -85,14 +94,14 @@ d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
 ================================================================================
 📊 TMD Song Profile: [ イケノコヒ（池中鯉魚） ]
 ================================================================================
-⏱  Duration:       0:15 (15.0s), 12 measures total
+⏱  Duration:       0:30 (30.0s), 24 measures total
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  B3 in [IkeNoKoi #1 @ m.9, 0:10]
-   - 最高音: D5 in [IkeNoKoi #1 @ m.9, 0:10]
+   - 最低音:  B3 in [IkeNoKoi[L1] #1 @ m.9, 0:10]
+   - 最高音: D5 in [IkeNoKoi[L1] #1 @ m.9, 0:10]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      IkeNoKoi (15.0s)
+🏛  結構:      IkeNoKoi[L1] (15.0s) -> IkeNoKoi[L2] (15.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -100,9 +109,10 @@ d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
    - 核心骨幹音:  D, A, G, B, E
    - 調性數值:    D 調性不明確 [相關度: 0.82, 穩定度: Ambiguous, 自然音純度: 98.9%]
    - 候選調性 (K-S): D 大調 (0.82), G 大調 (0.79), B 小調 (0.64)
-   - 五度圈歷程:   +2
+   - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [IkeNoKoi #1]: D 調性不明確 (r: 0.82, 自然音純度: 98.9%, 調外音: C)
+     • [IkeNoKoi[L1] #1]: D 調性不明確 (r: 0.82, 自然音純度: 98.9%, 調外音: C)
+     • [IkeNoKoi[L2] #1]: D 調性不明確 (r: 0.82, 自然音純度: 98.9%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -129,7 +139,7 @@ d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
      B  : ███████████████████       21.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 45 個音符)
+  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 90 個音符)
 ================================================================================
 ```
 

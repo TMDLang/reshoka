@@ -67,15 +67,27 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 z2 C2 F2 G2 | A2 A2 G2 F2 | A2 A2 G2 F2 | G2 G2 G2 z2 |
+w: ヤ マ ノ | フ モ ト ノ | ア ヲ ク サ | バ ラ ニ
 c4 A2 G2 | c3 c A2 G2 | F2 F2 G2 G2 | A6 z2 |
+w: ノ ソ リ | ノ ソ リ ト | ス ヰ ギ ウ | ガ
 z2 A2 c2 c2 | d2 d2 c2 c2 | A2 A2 c2 c2 | A2 G2 F2 z2 |
+w: ク サ ヲ | タ ベ テ ル | セ ナ カ ノ | ウ ヘ ヲ
 G2 G2 A2 A2 | F2 F2 D2 D2 | c2 z2 G2 A2 | F6 z2 |
+w: オ ヽ チ ウ | ニ サ ン バ | パッ パ ツ | パ
+z2 C2 F2 G2 | A2 A2 G2 F2 | A2 A2 G2 F2 | G2 G2 G2 z2 |
+w: モ リ ノ | シ ゲ ツ タ | オ ホ キ ナ | イ ケ ニ
+c4 A2 G2 | c3 c A2 G2 | F2 F2 G2 G2 | A6 z2 |
+w: ツ ノ ヲ | ウ カ ベ テ | ス ヰ ギ ウ | ガ
+z2 A2 c2 c2 | d2 d2 c2 c2 | A2 A2 c2 c2 | A2 G2 F2 z2 |
+w: ソ ラ ヲ | ミ テ ヰ ル | ア タ マ ノ | ウ ヘ ヲ
+G2 G2 A2 A2 | F2 F2 D2 D2 | c2 z2 G2 A2 | F6 z2 |
+w: シ ラ サ ギ | ニ サ ン バ | パッ パ ツ | パ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](suigyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi64WI5iWWlBalKnFpaSk8btr5uHnD46Z1j5uWvd_T8WzDlueds9_v6VTQ0uJStFWwNOOyt1Vw47Ix0jexA5nyon3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esAFoECj09YOjpgUIPyDAwBFqqxKWvpfBs9qbns9e9WLXq2Yw-LgUFhSc71j6b1v5i-eKX7d3v98x61t__dP1qqDPArn06Z8XzKRteTpv8dPvSJ3vnPG5ofLJn4rPG9S862p9Pmf9sy-7ns1qeNbc-m7n-cUMTl5Y-F8gWW2oBkBOf9s1_NnvHi83tL1Z0AW0Fev7FynlPW1cA3Q306tMNvc_aOxUCDExM9LIK0t_v6QEqfrmgUaFAT8HIEsgFh04nMHSezZkPZCuYKrxcNg0YHEDfgkx_sWr_s4blIHO7e1_MnA8Ufdw8Ayj4ZFcPUOTp2glAO9wUni5ZDhRTAMaTAlAUqJsLEngNjxsaHjcvedw873FzH5g99XHzosfNHUAuSMXjJiBn0-Om9Y-btj5unvC4eSVYUTdYDqijae_j5lVgIRi7uQOiD5FwQNJNayCiEHM2gYX2P26e-bi57XHzaojc7sfNXY-bVkMdAtTXPAOoFCIHNBdoeiPENKDXgCECdA7EFRMfNzfDSYi_dgHTF9BNQLcDNUKM2_64adPj5hagtXATZz9uWgu2c8njpo3I_moBaYK6chnYSSCH4vMX0HEroTqa54M9tQHur0Vgr8ICGNVf20H6gEECNJCAv4BClCdHKFAAJfPg0sz0ylKrgMzEvHyHGoMahWqQHQo2hmZadmAWtnygAMmrLxb2KGiYKDzd0P98fYMOPPFqYtEAtApq2MtZfU8n9FopGEBCDOzHTjC5BkjWAOn5YB6EBIlB5PHLQHgIEmQ6wk4NoGM1rUAcoPQSMDkPknSh2qeCeYvAZAeyTBNEbBMk2YLJrVA9E8AyK8FkN9hsVCt39cCthBiyCsXg7WDDwAY3t4DZ-6EyEHWzwWJrwewuqAzY6U0bsVlZA_SyroJpPJAwBGIjIK5RMAaSIAzigUSxiYBYMAwyogacd3BH-64eiqIdEuUwAIpMUISBPAcRB9HIUQwKaUjyQCQS1KSCAFgjHRLicAvBxq8Ca4aIw0RgUQ9yyk4wbwNYdh2YXAaVAVmMCjCiHBKdcAuB1oDSD0gzyBCQYauBIjPBcm3kW1gDrAJ0wRAWnzARUyQRUBzD0gMiTcAgMfG9o5PybA6JT0hmB5Og4IfkHDCJJoOUzbHKILI-7myOlFkh2RcUmKAchhz0wMIZKrMbzAPlM1D0IOdTUEQAy2q4OUhRgJbNoYUZxF9QK6EuhlgGjl-4leBCAeoklNIIn5WQbA6KQ1Bcg3CNghmQBGGECCyXo4rA8jwRsf509mzKcjlKgYyIT_TcjEgDsBIAkl4Q-mA6EAB7LgeXmk92bANrbAQHLTQLgUtKWErYDCZBRTdIBlSrQuKueSKYBPHAEig2IoU_UjaHlODQBAw2HZx1qW0jooSGxSoiV5uBinswAcn7oJiFqYSoQs3ptVxcunYKkCpfAchS5uICAA)]
-- [鋼琴伴奏 TMD 檔案](suigyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx84bHTeseNy17v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cdkY6ZvYcdUpKL1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZMdDU_X7ni6c8vzKSuANhoZGBnoGRiY6RlYmJgDGQaGQEuVuLiCSzPTK0utAjIT8_KDPBxqDGoUqrkUgMDG0EzLDszS11KwRQcKEBteLOxR0DBReLqh__n6Bh2FAAMTE72sgnRNLBq09MGG1SgYKOgqmMYDCUMgNgLiGgVjIAnCIB5IFJsIiAXDICNquPA7blcPOY4zBZoMgjC7YSKmSCIg98DcjnA_DBLjth2d5AYcyCaQi0C4RsEMSIIwQgQWbqgisFAkwm1PZ88mx22wsIDZjwglM1BUgwlIWILcAFMJUYUacrWoadIHJU2aIJLks6YFL6dNej5lw9M5k4CR_ay79-naCZAchXCWYbxCtGEsVoZpfDzQxhqcCk2ADBOoCBZ1yNJwnQh1INOjTeNB4mYgpll8LsxSqDBUOdC7unYKEB8roLCUubgA)]
+- [主旋律 TMD 檔案](suigyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi64WI5iWWlBalKnFpaSk8btr5uHnD46Z1j5uWvd_T8WzDlueds9_v6VTQ0uJStFWwNOOyt1Vw47Ix0jexA5nyon3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esAFoECj09YOjpgUIPyDAwBFqqxKWvpfBs9qbns9e9WLXq2Yw-LgUFhSc71j6b1v5i-eKX7d3v98x61t__dP1qqDPArn06Z8XzKRteTpv8dPvSJ3vnPG5ofLJn4rPG9S862p9Pmf9sy-7ns1qeNbc-m7n-cUMTl5Y-F8gWW2oBkBOf9s1_NnvHi83tL1Z0AW0Fev7FynlPW1cA3Q306tMNvc_aOxUCDExM9LIK0t_v6QEqfrmgUaFAT8HIEsgFh04nMHSezZkPZCuYKrxcNg0YHEDfgkx_sWr_s4blIHO7e1_MnA8Ufdw8Ayj4ZFcPUOTp2glAO9wUni5ZDhRTAMaTAlAUqJsLEngNjxsaHjcvedw873FzH5g99XHzosfNHUAuSMXjJiBn0-Om9Y-btj5unvC4eSVYUTdYDqijae_j5lVgIRi7uQOiD5FwQNJNayCiEHM2gYX2P26e-bi57XHzaojc7sfNXY-bVkMdAtTXPAOoFCIHNBdoeiPENKDXgCECdA7EFRMfNzfDSYi_dgHTF9BNQLcDNUKM2_64adPj5hagtXATZz9uWgu2c8njpo3I_moBaYK6chnYSSCH4vMX0HEroTqa54M9tQHur0Vgr8ICGNVf20H6gEECNJCAv4BClCdHKFAAJfPg0sz0ylKrgMzEvHyHGoOaapAVCjaGZlp2YBa2bKAAyaovFvYoaJgoPN3Q_3x9gw487Wpi0QC0CWrYy1l9Tyf0WikYQAIM7MVOMLkGSNYA6flgHoQEiUHk8ctAeAgSZDrCTg2gYzWtQByg9BIwOQ-ScqHap4J5i8BkB7JME0RsEyTVgsmtUD0TwDIrwWQ32GxUK3f1wK2EGLIKxeDtYMPABje3gNn7oTIQdbPBYmvB7C6oDNjpTRuxWVkD9LKugmk8kDAEYiMgrlEwBpIgDOKBRLGJgFgwDDKiBmycj2GNAsgsUHCByHlgsg-sAxRcIN4iMNmBLAMMLhBvE4gEBheI3ArVMwEssxJMdgNJkOlQu4xgdkF0r0IxcTvYFLCJwHACsfdDZSDqZoPF1oLZXVAZsJuB4YRqF_7kvKuHouQMScowAEqkoIQIcgxEHEQjJ11QkECSPSLxo2YBBMCamCEpCW4h2PhVYM0QcZgILEmDnLITzNsAll0HJpdBZUAWowKMpAxJpnALgdaAIhqkGWQIyLDVQJGZYLk28i2sAdZsumAIS6cwEVMkEVDahaVzRFqHQdR0DElLIAgKE1gKQ4jDQgqWmiEOB_E2gGXXgcllUJk1SPagpmFI-gSbCDYZkg8gAQSxBxJAIJk2MuwhUBx3Ul4cQ9InpFAGkyBPQUo4MIkmg1QcY5VBFNG4i2OkQhVSzIL8DioJkZMSsA6FyuwG80DlISg0kctTUMICVqlwc5CSFFpxDK10IP6CWgl1McQycHqFWwkuvKFOQqk18FkJKY5BaRKUdkG4RsEMSIIwQgRWGqOKwMpmLKUxUpmKSF2g8hA5XYGcDpHZDeaBSkVQaCGXqqBUBnI6zBwspTE0r0BKbKhdwGBC2AJOtXC7wGU31C0otQUOu_Cm5qezZ1NWGqM0CBDpFL3URaRtWEkNyQcIfTAdCIC9NAbX2k92bANrbAQnGWhRB66pYSl8M5gENR1AMqBGHdhMIBNMgnhgCRQbkdIVUnEMaUFAMybYdHARS20bES0EWGpFlL5moKgEE5AyGpRiYSohqnCUyNC6G5LCGsEpB1rugetrWArfDCZBLQe42yHJB-ReWIMA4nqchTKkAQFJxhBjwQUtFa2q5eLStVOAtKOjfQxjFZB4RmCeMhcA)]
+- [鋼琴伴奏 TMD 檔案](suigyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPNx84bHTeseNy17v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cdkY6ZvYcdUpKL1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZMdDU_X7ni6c8vzKSuANhoZGBnoGRiY6RlYmJgDGQaGQEuVuLiCSzPTK0utAjIT8_KDPBxqDGqquRSAwMbQTMsOzNLXUrBFBwoQC14s7FHQMFF4uqH_-foGHYUAAxMTvayCdE0sGrT0wYbVKBgo6CqYxgMJQyA2AuIaBWMgCcIgHkgUmwiIBcMgI2rAxvkY1iiAzHrcvARMzgOTfWAdj5ungnmLwGQHskwTRGwTiGxaDya3QvVMAMusBJPdQBJkOtQuI5hdEN2rUEzcDjYFbGJzC5i9HyoDUTcbLLYWzO6CyoDd3LQRzS78gb6rh5xANwWaDIKwMIWJmCKJgMIZFieIeIFB1DCH-BsEHzfthYcGQhwkCgshUMiDfLsTzNsAll0HJpdBZdYg2YMa3pCwBJsINhkSZyA9IL0gM1YDxWaCZdrIsIdAAu8kN4GDQg4UwiBco2AGJEEYIQJL36gisNSOJX0jpVJEGIBSGLLvHzevhsrsBvNA6QwUQsjpFBQWj5tnwM3Bkr6hMQrJA1C7mucj2QIOW7hd4NwAdQtK_sNhF94wfzp7NjlhDkuzsHBFpGYzkKVgApLmQWELUwlRhSOFQ_MtJCwawX6EpiNwXoXFxWYwCSo1QDITHzc3Qz0K5IBJUAIGSyFZhZbIIYUHJMAhxoITLhWtqkUt6H2QC3oTRDn_rGnBy2mTnk_Z8HTOJGBJ86y79-naCZBaChHWhvEK0YaxWBmm8fHAYIT4DJu8CZBhAhXBog5ZGq4ToQ5kerRpPEjcDMQ0i8-FWQoVhioH-lbXTgHi4WgfoEFIPCMwT5kLAA)]
 
 ## 分析
 
@@ -83,14 +95,14 @@ G2 G2 A2 A2 | F2 F2 D2 D2 | c2 z2 G2 A2 | F6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ スヰギウ（水牛） ]
 ================================================================================
-⏱  Duration:       0:20 (20.0s), 16 measures total
+⏱  Duration:       0:40 (40.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Suigyu #1 @ m.1, 0:00]
-   - 最高音: D5 in [Suigyu #1 @ m.10, 0:11]
+   - 最低音:  C4 in [Suigyu[L1] #1 @ m.1, 0:00]
+   - 最高音: D5 in [Suigyu[L1] #1 @ m.10, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Suigyu (20.0s)
+🏛  結構:      Suigyu[L1] (20.0s) -> Suigyu[L2] (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -98,9 +110,10 @@ G2 G2 A2 A2 | F2 F2 D2 D2 | c2 z2 G2 A2 | F6 z2 |
    - 核心骨幹音:  A, G, C, F, D
    - 調性數值:    C 調性不明確 [相關度: 0.72, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.72), F 大調 (0.71), A 小調 (0.69)
-   - 五度圈歷程:   +0
+   - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [Suigyu #1]: C 調性不明確 (r: 0.72, 自然音純度: 100.0%)
+     • [Suigyu[L1] #1]: C 調性不明確 (r: 0.72, 自然音純度: 100.0%)
+     • [Suigyu[L2] #1]: C 調性不明確 (r: 0.72, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -127,7 +140,7 @@ G2 G2 A2 A2 | F2 F2 D2 D2 | c2 z2 G2 A2 | F6 z2 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 52 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 104 個音符)
 ================================================================================
 ```
 
