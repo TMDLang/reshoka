@@ -65,24 +65,22 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A4 G2 G2 | F6 z2 | c2 c2 c2 c2 | d4 c2 c2 |
-w: カ レ ン | サン | オ マ ヘ ノ | カァ チャ ン
+w: 1.~カ レ ン | サン | オ マ ヘ ノ | カァ チャ ン
+w: 2.~カ レ ン | サン | オ マ ヘ ノ | トゥ チャ ン
 A2 A2 F2 F2 | G6 z2 | A2 A2 c2 c2 | A2 A2 F2 F2 |
-w: ド コ ニ ヰ | ル | セ ン ダ ン | ハ ナ サ ク
+w: 1.~ド コ ニ ヰ | ル | セ ン ダ ン | ハ ナ サ ク
+w: 2.~ド コ ニ ヰ | ル | エ ノ キ ノ | ミ ノ ル _
 G2 G2 G2 A2 | G6 z2 | c2 c2 A4 | d2 d2 c2 c2 |
-w: オ ヤ マ ニ | カ | ナ ン ト | キ イ テ モ
-A2 A2 G2 G2 | F6 z2 | A4 G2 G2 | F6 z2 |
-w: コ ン ニ チ | ハ | カ レ ン | サン
-c2 c2 c2 c2 | d4 c2 c2 | A2 A2 F2 F2 | G6 z2 |
-w: オ マ ヘ ノ | トゥ チャ ン | ド コ ニ ヰ | ル
-A2 A2 c2 c2 | A2 A2 F2 F2 | G2 G2 G2 A2 | G6 z2 |
-w: エ ノ キ ノ | ミ ノ ル _ | ノ ヤ マ ニ | カ
-c2 c2 A4 | d2 d2 c2 c2 | A2 A2 G2 G2 | F6 z2 |
-w: ナ ン ト | キ イ テ モ | コ ン ニ チ | ハ
+w: 1.~オ ヤ マ ニ | カ | ナ ン ト | キ イ テ モ
+w: 2.~ノ ヤ マ ニ | カ | ナ ン ト | キ イ テ モ
+A2 A2 G2 G2 | F6 z2 |
+w: 1.~コ ン ニ チ | ハ
+w: 2.~コ ン ニ チ | ハ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](karensan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJCanKnFpaSk8blr9uHnP4-Y1j5s3P27aCiTf7-l40bXxxeR1z3asf7-nU0FLi0vRVsHSjMveVsGNy8ZI38QOZNqL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7ICaBcovPSA4aUHCi8gw8AQaKkSl76WwrPZm57PXvdi1apnM_q4FBQUnuxY-2xa-4vli1-2d7_fMwtoMtB8iDPgDn4-q-XpnA3Ppu18uWjFs5nrX3S0P2_b-HLNchB748LHDU1cWvpcIMNtqQVALnvaN__Z7B0vNre_WNEFtBLoshcr5z1tXQF0LtCHTzf0PmvvVAgwMDHSyypIf7-nB6j45YJGhQI9BSNzIBccKJ3AQHk2Zz6QrWCs8HLZNGAoAD0JMv3Fqv3PGpaDzO3ufTFzPlD0cfMMoOCTXT1AkadrJwDtcFN4umQ5UEwBGD0KQFGgbi5ImDU8bmjAjGSQ3OOmVY-b5wHNetzcB1XUtOhxc-Pj5iUwFc2dj5s2P27uBkk3b3jcvBqibzfInGag0GawRP_j5i6QsU3rocY-3bgRLNENNBNiThdYRwfYmrWPm4AWtD1uXgRRDpQA2wG0GWwaxOG7gOmGSIcDzW1aRpTDVwB1PJsDIsES80EMqByIBdQ-jxKHA0UpT1BQoABKqN6JRal5xYl5VgGZiXn5DjUGNdUgSxRsLLTswAxsKVkBksleLOxR0DBReLqh__n6Bh148tPEogFoFdSwl7P6nk7otQJ6fD5IBEivgZM1oGAFi8IAUKRpLzgo0EmQ2pUQE5BEEfZoAB2oCbSmaTXUmj0o1mwGawHFN8KiVWAV88DkDEiMQWWA6XYhWACYAhZDdSNbtauHWlaBUtpSHFbVAPOtroIRENYoGAJZugoGQJYpFNYomAFFwCywah9DsMuBYiCngAwC8cHOAGmNh7oD5AqQG0AugHsVpAduP9Q4I3KMg3gHzTj86WpXDxXSFYwEpSYICXIMKEYQACSCpBYtbWE3BTN9QSSbwJHc3A0mN0CNgCQHJOuadoPlIWob4GyQ2n4wrwts1lYwuR7NOkgaI8m6FWB5UMoCFi1wNsJ3YBmwPkiaRUpnxsAUZghkGcHTGUgMks7gsoh0BnQWyFEgJ4EcBHEOIl3sBvsU5GdowgH6F-RbkF9BPkVKYgRMWgF2Nsg7sBQ2HyICVkUobe3oBKctY7LTFqKsgpGgkMSatpBLLGhZh6V0ghQES8AkpDgARSokq6EZCEkd0NTTgWEgNH1A4pRCA0HxDoLGKCkAFPugEgi5fAHl-CVgq0AWwYoIaGyBYhgc7x0IXeA4BsUXsbrwxujT2bMpjFFQHQIl8ZQA-OooLLEKzmxNkEhoA5OLoJEACWzk7NsINRRUAmA3FFq7UM1QUE1hhpSX0WoUpNgF5jKghSDrQJZBrILEDSh3NkKtgMYcUjVBmr5aLi5dOwVYSyTaxzBWAYVvBOYrcwEA)]
+- [主旋律 TMD 檔案](karensan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJCanKnFpaSk8blr9uHnP4-Y1j5s3P27aCiTf7-l40bXxxeR1z3asf7-nU0FLi0vRVsHSjMveVsGNy8ZI38QOZNqL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7ICaBcovPSA4aUHCi8gw8AQaKkSl76WwrPZm57PXvdi1apnM_q4FBQUnuxY-2xa-4vli1-2d7_fMwtoMtB8iDPgDn4-q-XpnA3Ppu18uWjFs5nrX3S0P2_b-HLNchB748LHDU1cWvpcIMNtqQVALnvaN__Z7B0vNre_WNEFtBLoshcr5z1tXQF0LtCHTzf0PmvvVAgwMDHSyypIf7-nB6j45YJGhQI9BSNzIBccKJ3AQHk2Zz6QrWCs8HLZNGAoAD0JMv3Fqv3PGpaDzO3ufTFzPlD0cfMMoOCTXT1AkadrJwDtcFN4umQ5UEwBGD0KQFGgbi5ImDU8bmjAjGSQ3OOmVY-b5wHNetzcB1XUtOhxc-Pj5iUwFc2dj5s2P27uBkk3b3jcvBqibzfInGag0GawRP_j5i6QsU3rocY-3bgRLNENNBNiThdYRwfYmrWPm4AWtD1uXgRRDpQA2wG0GWwaxOG7gOmGSIcDzW1aRpTDVwB1PJsDIsES80EMqByIBdQ-jxKHA0UpT1BQoABKqN6JRal5xYl5VgGZiXn5DjUGNdUgSxRsLLTswAxsKVkBksleLOxR0DBReLqh__n6Bh148tPEogFoFdSwl7P6nk7otQJ6fD5IBEivgZM1oGAFi8IAUKRpLzgo0EmQ2pUQE5BEEfZoAB2oCbSmaTXUmj0o1mwGawHFN8KiVWAV88DkDEiMQWWA6XYhWACYAhZDdSNbtauHWlaBUtpSHFbVAPOtroIRENYoGAJZugoGQJYpFNYomAFFwCywah9DsMuBYiCngAwC8cHOAGmNh7oD5AqQG0AugHsVpAduP9Q4I3KMg3gHzTj86WpXDxXSFYwEpSYICXIMKEYQACSCpBYtbWE3BTN9QSSbwJHc3A0mN0CNgCQHJOuadoPlIWob4GyQ2n4wrwts1lYwuR7NOkgaI8m6FWB5UMoCFi1wNsJ3YBmwPkiaRUpnxsAUZghkGcHTGUgMks7gsoh0BnQWyFEgJ4EcBHEOIl3sBvsU5GdowgH6F-RbkF9BPkVKYgRMWgF2Nsg7sBQ2HyICVkUobe3oBKctY7LTFqKsgpGgkMSatpBLLGhZh6V0ghQES8AkpDgARSokq6EZCEkd0NTTgWEgNH1A4pRCA0HxDoLGKCkAFPugEgi5fAHl-CVgq0AWwYoIaGyBYhgc7x0IXeA4BsUXsbrwxujT2bMpjFFQHQIl8ZQA-OooLLEKzmxNkEhoA5OLoJEACWzk7NsINRRUAmA3FFq7UM1QUE1hhpSX0WoUpNgF5jKghSDrQJZBrILEDSh3NkKtgMYcUjVBmr5aLi5dOwVYS0QByFbmAgA)]
 - [鋼琴伴奏 TMD 檔案](karensan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx857HzWseN29-3LQVSL7f0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFSzNuOxtFdy4bIz0Tey46hSUXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFUAbjQyMDPQMDMz0DCxMzIEMA0OgpUpcXN6JRal5xYl5VgGZiXn5QR4ONQY11VwKQGBjoWUHZuhrKdiiAwWIDS8W9ihomCg83dD_fH2DjkKAgYmRXlZBuiYWDVr6YMNqFIwVdBWMgLBGwRDI0lUwALJMobBGwQwoAmaBVfsY1oACECgGDEAg3gxUAQlEsNZ4MHcVUGIeEM8A4j6wyOrHTQvBehofNy-GaIMYZ0SOcc0dj5uWohuHP2R29ZAXMsbAMDEEsozgIQMSg4QMXBYRMs2dQPduBtLdQLwB7FaQ52A-2Q126-PmBphXm_uBuAvkZSBejxwoBExaAQ6Lx01r4WEyHyICVkUoNHZ0gkPDmLTQAKURI6CfkUMDFBKg9IOcOkDxtQQaZ92Q6Ee4HORbcBh0IHSB_QtyO7G68Pru6ezZ5PjODAgR8YqWH5B8BwzxJpA724B4EdidIHfBYqoRGqtQlyMlctL01aIXBD7IBYEJoiB4sWfq0_2rgen7WXfv07UTnm5f9qyzG1KOIfxmGK8QbRgLYYBiDc43ATJMgAx0dabxaAphDKhCkHy0aTw2pVAVMJORlUJsB_lN104B5r1oH6AuFL4RmK_MBQA)]
 
 ## 分析
@@ -91,14 +89,14 @@ w: ナ ン ト | キ イ テ モ | コ ン ニ チ | ハ
 ================================================================================
 📊 TMD Song Profile: [ カーレンサン（花蓮港） ]
 ================================================================================
-⏱  Duration:       0:35 (35.0s), 28 measures total
+⏱  Duration:       0:17 (17.5s), 14 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [Karensan[L1] #1 @ m.2, 0:01]
-   - 最高音: D5 in [Karensan[L1] #1 @ m.4, 0:03]
+   - 最低音:  F4 in [Karensan #1 @ m.2, 0:01]
+   - 最高音: D5 in [Karensan #1 @ m.4, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Karensan[L1] (17.5s) -> Karensan[L2] (17.5s)
+🏛  結構:      Karensan (17.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -106,10 +104,9 @@ w: ナ ン ト | キ イ テ モ | コ ン ニ チ | ハ
    - 核心骨幹音:  G, A, C, F, D
    - 調性數值:    C 大調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.77), F 大調 (0.73), A 小調 (0.66)
-   - 五度圈歷程:   +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Karensan[L1] #1]: C 大調 (r: 0.77, 自然音純度: 100.0%)
-     • [Karensan[L2] #1]: C 大調 (r: 0.77, 自然音純度: 100.0%)
+     • [Karensan #1]: C 大調 (r: 0.77, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -136,7 +133,7 @@ w: ナ ン ト | キ イ テ モ | コ ン ニ チ | ハ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 82 個音符)
+  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 41 個音符)
 ================================================================================
 ```
 

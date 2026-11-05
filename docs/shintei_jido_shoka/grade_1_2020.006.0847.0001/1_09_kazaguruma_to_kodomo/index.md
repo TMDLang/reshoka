@@ -63,34 +63,28 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A2 c2 c4 | A2 c2 c4 | A2 c2 c2 c2 | d2 G4 G2 |
-w: マ ハ レ | マ ハ レ | ク ル マ ヨ | ク ル マ
+w: 1.~マ ハ レ | マ ハ レ | ク ル マ ヨ | ク ル マ
+w: 2.~ア ソ ベ | ア ソ ベ | ワ レ ラ ガ | ト モ ヨ
 G2 B2 B4 | G2 B2 B4 | B2 A2 G2 F2 | E2 D2 C4 |
-w: マ ハ レ | マ ハ レ | ク ル ク ル | ク ル ト
+w: 1.~マ ハ レ | マ ハ レ | ク ル ク ル | ク ル ト
+w: 2.~キ タ レ | キ タ レ | ミ ナ ウ チ | ツ レ テ
 F2 F2 F2 F2 | F2 F4 F2 | G2 G2 G2 G2 | G2 G4 G2 |
-w: ヤ マ ズ ニ | マ ハ レ | タ エ ズ ニ | マ ハ レ
+w: 1.~ヤ マ ズ ニ | マ ハ レ | タ エ ズ ニ | マ ハ レ
+w: 2.~テ ヲ ヒ キ | ツ レ テ | マ ハ レ ヤ | マ ハ レ
 A2 c2 c4 | A2 c2 c4 | d2 d2 c2 c2 | A2 G2 F4 |
-w: ア サ モ | ヒ ル モ | ク ル ク ル | マ ハ レ
+w: 1.~ア サ モ | ヒ ル モ | ク ル ク ル | マ ハ レ
+w: 2.~マ ル ク | マ ル ク | ク ル マ ノ | ヤ ウ ニ
 F2 F2 F F F2 | F F F2 F F F2 | G2 G2 G G G2 | G G G2 G G G2 |
-w: フ ク カ ゼ ニ | マ ハ レ ク ル マ | フ ク カ ゼ ニ | マ ハ レ ク ル マ
+w: 1.~フ ク カ ゼ ニ | マ ハ レ ク ル マ | フ ク カ ゼ ニ | マ ハ レ ク ル マ
+w: 2.~ウ タ ウ タ ヘ | ト リ ノ ヤ ウ ニ | マ ヘ ア ソ ベ | チョー チョ ノ ヤ ウ ニ
 A2 c2 c4 | A2 c2 c4 | d2 d2 c2 c2 | A2 G2 F4 |
-w: ク ル リ | ク ル リ | タ ノ シ ク | マ ハ レ
-A2 c2 c4 | A2 c2 c4 | A2 c2 c2 c2 | d2 G4 G2 |
-w: ア ソ ベ | ア ソ ベ | ワ レ ラ ガ | ト モ ヨ
-G2 B2 B4 | G2 B2 B4 | B2 A2 G2 F2 | E2 D2 C4 |
-w: キ タ レ | キ タ レ | ミ ナ ウ チ | ツ レ テ
-F2 F2 F2 F2 | F2 F4 F2 | G2 G2 G2 G2 | G2 G4 G2 |
-w: テ ヲ ヒ キ | ツ レ テ | マ ハ レ ヤ | マ ハ レ
-A2 c2 c4 | A2 c2 c4 | d2 d2 c2 c2 | A2 G2 F4 |
-w: マ ル ク | マ ル ク | ク ル マ ノ | ヤ ウ ニ
-F2 F2 F F F2 | F F F2 F F F2 | G2 G2 G G G2 | G G G2 G G G2 |
-w: ウ タ ウ タ ヘ | ト リ ノ ヤ ウ ニ | マ ヘ ア ソ ベ | チョー チョ ノ ヤ ウ ニ
-A2 c2 c4 | A2 c2 c4 | d2 d2 c2 c2 | A2 G2 F4 |
-w: マ ハ リ | ナ ガ ラ | タ ノ シ ク | ア ソ ベ
+w: 1.~ク ル リ | ク ル リ | タ ノ シ ク | マ ハ レ
+w: 2.~マ ハ リ | ナ ガ ラ | タ ノ シ ク | ア ソ ベ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kazaguruma_to_kodomo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG5a_bhp2-OmDY-bVz9unve4ueNx0-bHzZ2Pmxe939PxctGKF7u7XnS0P1278unaCe_3dCpoaXEp2ioYGphw2dsquHHZGOmb2IGMf7Fy3vs9s54uWf50Us_zKRue7t71bMVOsMXPZm8CyrxYuv_Zlm4gGyz2on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esADoQFNx6wODWAwU3kGFgCHSjEpe-lgLQpuez171YterZjD4uBQWFJzvWPpvW_mL54pft3UDnPOvvf7p-NcRbz7r3v5g4HeLX93t6ns5ZAWSD1K9d-HT_6peNXc_7Vj6f1fKsufXZzPWPG5q4tPS5QFbYUguA3Pe0b_6z2TtebG5_sQIU4ECfA0P0aesKoKOB_ny6ofdZe6dCgIGRiV5WQfqjhslApimICXQwUN_LBY0KBQV6CpZAGUMDoBg8qJ7NmQ9kK1gqvFw2DRg2QK-DbHuxav-zhuUge7p7X8ycDxR93DwDKPhkVw9QBBzVHW4KwNgEiikAo1gBKArWDYyPnsdN-x839z1u2v64CRgcvVyQ4G0AUeAk1P-4eQ2C0dAAUgZNXSvgbEKqkcnmDojqJSB1TbseN3ejatj_uAloMIo4WEPTosdNW4Ep-XHzJLAxi9CNR1HdPBUkCsoPe0AmAZXCLUF1NJHqoJxVCAbErfCgg9sODsBdPXA3733cPBPBAFkAVAwMpJWPm4BkB9hHKyCq14JNBNoMY4BUz3_c3AW2bNnj5sbHzS1gzW0Qx7c9bt4ECg-gBpgEihcggYwUKkAOJLhgDJQI7QNpANnTDXHPMnBsgMnmGWCDgc5dhaEOpHUGqheBDl3xuBkYpBAGFg1ANwFN6gIHwkr0wISZBVJNeY6EAgVQTvdOrEpMLy0qzU0MyffOT8nPzbcKyEzMy3eoMaipBlmnYGNopmUHZmErFRQgefHFwh4FDROFpxv6n69v0IFnZU0sGoC2ggyrUTBW0FUwhWIQJCQCwjUKZkDSCCoPomvApvkY1oCCEcgHhiSYXAM3A6d403qwyGowCVGzAkMGBCGyUJuMQPKLQKJNe8FyM5FMxCHeDDEPZDcwdsFqQGyQTAdYDKQPYhPYBeBMgzu8d_WQE96g0DKBYoi7MEVALFCYg2QMwSLm8UDKDESYggiwMuoEORIbPTJAgYJkEzjI14L17McwEYd483ywSBdYdhmY3QiVaUGKjDa4TQSSeCc5QQ4KQmSMEAFBiAgoqJExQgRbEl8CdjU4dJt2gdndGCEOSUjQBAYJmSZQsiJKByLEwWEDLFDB5CSwflBYo4YgRCdIJbZYh7gXt114w_zp7Nm0KlZAhQgII4oV5ESPlsahmXor2N2wjAryEzhMoCkWSRx3GseeK5BCHCKP0ImamzDEsRRgfVAd4HQCTfeg-CYmje-aQlkaB0FIGoewECKI9A2CEBEICy6ClManIkKuaTUQ70FJs6Dwg6YuoBqQ76HFM_k6kUoZcIhB88wyMAtYl0NN6ADiVdAwBoUwWAVabgKpBaUYUCUAqQJAcsBafzmw-oeysBtBIDO0rh0cmQE5ya3CkRSRxSEFM9i_Tdvh0UN8ZoDII5kILdIRdSlBm7DXyly1XFy6dgqYDaBoH8NYBRwyRmAZZS4A)]
+- [主旋律 TMD 檔案](kazaguruma_to_kodomo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG5a_bhp2-OmDY-bVz9unve4ueNx0-bHzZ2Pmxe939PxctGKF7u7XnS0P1278unaCe_3dCpoaXEp2ioYGphw2dsquHHZGOmb2IGMf7Fy3vs9s54uWf50Us_zKRue7t71bMVOsMXPZm8CyrxYuv_Zlm4gGyz2on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdjQ8Xbvj6c4tz6esADoQFNx6wODWAwU3kGFgCHSjEpe-lgLQpuez171YterZjD4uBQWFJzvWPpvW_mL54pft3UDnPOvvf7p-NcRbz7r3v5g4HeLX93t6ns5ZAWSD1K9d-HT_6peNXc_7Vj6f1fKsufXZzPWPG5q4tPS5QFbYUguA3Pe0b_6z2TtebG5_sQIU4ECfA0P0aesKoKOB_ny6ofdZe6dCgIGRiV5WQfqjhslApimICXQwUN_LBY0KBQV6CpZAGUMDoBg8qJ7NmQ9kK1gqvFw2DRg2QK-DbHuxav-zhuUge7p7X8ycDxR93DwDKPhkVw9QBBzVHW4KwNgEiikAo1gBKArWDYyPnsdN-x839z1u2v64CRgcvVyQ4G0AUeAk1P-4eQ2C0dAAUgZNXSvgbEKqkcnmDojqJSB1TbseN3ejatj_uAloMIo4WEPTosdNW4Ep-XHzJLAxi9CNR1HdPBUkCsoPe0AmAZXCLUF1NJHqoJxVCAbErfCgg9sODsBdPXA3733cPBPBAFkAVAwMpJWPm4BkB9hHKyCq14JNBNoMY4BUz3_c3AW2bNnj5sbHzS1gzW0Qx7c9bt4ECg-gBpgEihcggYwUKkAOJLhgDJQI7QNpANnTDXHPMnBsgMnmGWCDgc5dhaEOpHUGqheBDl3xuBkYpBAGFg1ANwFN6gIHwkr0wISZBVJNeY6EAgVQTvdOrEpMLy0qzU0MyffOT8nPzbcKyEzMy3eoMaipBlmnYGNopmUHZmErFRQgefHFwh4FDROFpxv6n69v0IFnZU0sGoC2ggyrUTBW0FUwhWIQJCQCwjUKZkDSCCoPomvApvkY1oCCEcgHhiSYXAM3A6d403qwyGowCVGzAkMGBCGyUJuMQPKLQKJNe8FyM5FMxCHeDDEPZDcwdsFqQGyQTAdYDKQPYhPYBeBMgzu8d_WQE96g0DKBYoi7MEVALFCYg2QMwSLm8UDKDESYggiwMuoEORIbPTJAgYJkEzjI14L17McwEYd483ywSBdYdhmY3QiVaUGKjDa4TQSSeCc5QQ4KQmSMEAFBiAgoqJExQgRbEl8CdjU4dJt2gdndGCEOSUjQBAYJmSZQsiJKByLEwWEDLFDB5CSwflBYo4YgRCdIJbZYh7gXt114w_zp7Nm0KlZAhQgII4oV5ESPlsahmXor2N2wjAryEzhMoCkWSRx3GseeK5BCHCKP0ImamzDEsRRgfVAd4HQCTfeg-CYmje-aQlkaB0FIGoewECKI9A2CEBEICy6ClManIkKuaTUQ70FJs6Dwg6YuoBqQ76HFM_k6kUoZcIhB88wyMAtYl0NN6ADiVdAwBoUwWAVabgKpBaUYUCUAqQJAcsBafzmw-oeysBtBIDO0rh0cmQE5ya3CkRSRxSEFM9i_Tdvh0UN8ZoDII5kILdIRdSlBm7DXyly1XFy6dgqYDaDoWAWguDIXAA)]
 - [鋼琴伴奏 TMD 檔案](kazaguruma_to_kodomo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx07bHTRseN69-3DzvcXPH46bNj5s7Hzcver-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqGBqYcNnbKrhx2Rjpm9hx1SkovVg57_2eWU-XLH86qef5lA1Pd-96tmKnEkjm2exNQJkXS_c_29INZIPFXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFUAHGhkYGegZGJjpGViYmAMZBoZANypxcXknViWmlxaV5iaG5Hvnp-Tn5lsFZCbm5TvUGNRUcykAgY2hmZYdmKWvpWCLDhQgVr1Y2KOgYaLwdEP_8_UNOgoBBkYmelkF6ZpYNGjpgw2rUTBW0FUwhWIQJCQCwjUKZkDSCCoPomvApvkY1igAYwXIf9zcDybXwM3AKd60HiyyGkxC1KzAkAFBiCzUJiOQ_CKQaNNesNxMJBNxiDdDzAPZ_bh5JVgNiA2S6QCLgfRBbAK7gAt_eO_qISe8QaFlAsUQd2GKgFigMAfJGIJFzOOBlBmIMAURYGXUCXIkNnpkgAIFySZwkK8F69mPYSIO8eb5YJEusOwyMLsRKtOCFBltcJsIJPFOcoIcFITIGCECghARUFAjY4QItiS-BOxqcOg27QKzuzFCHJKQoAkMEjJNoGRFlA5EiIPD5nHzJjA5CawfFNaoIQjRCVKJLdYh7sVtF94wfzp7Nq2KFVAhAsKIYgU50aOlcWim3gp2NyyjgvwEDhNoikUSx53GsecKpBCHyCN0ouYmDHEsBVgfVAc4nUDTPSi-iUnju6ZQlsZBEJLGISyECCJ9gyBEBMKCiyCl8amIkGtaDcR7UNIsKPygqQuoBuR7aPFMvk6kUgYcYtA8swzMetw8A2pCBxCvgoYxKITBKtByE0gtKMWAKgFIFQCSa3zcvPxxM8g1IBZ2Iwhkhta1gyMzICe5VTiSIrI4pGAG-7dpOzx6iM8MEHkkE6FFOqIuJWgT9lqZqxZ368fHA6n9YwJt_gATdrxCtGEsVoYJkGEaD2RBlZrGwwQwmIZoTJyGYzUDp2qQCxDaaG0yMPB07RQwwy_aB6gSh4wRWEaZCwA)]
 
 ## 分析
@@ -99,14 +93,14 @@ w: マ ハ リ | ナ ガ ラ | タ ノ シ ク | ア ソ ベ
 ================================================================================
 📊 TMD Song Profile: [ カザグルマトコドモ（風車與孩子） ]
 ================================================================================
-⏱  Duration:       0:55 (55.4s), 48 measures total
+⏱  Duration:       0:27 (27.7s), 24 measures total
 🎼 Key & Tempo:    首調基準 F, != 104.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [KazagurumaToKodomo[L1] #1 @ m.8, 0:08]
-   - 最高音: D5 in [KazagurumaToKodomo[L1] #1 @ m.4, 0:03]
+   - 最低音:  C4 in [KazagurumaToKodomo[] #1 @ m.8, 0:08]
+   - 最高音: D5 in [KazagurumaToKodomo[] #1 @ m.4, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      KazagurumaToKodomo[L1] (27.7s) -> KazagurumaToKodomo[L2] (27.7s)
+🏛  結構:      KazagurumaToKodomo[] (27.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（流行色彩大調，未偵測到可信轉調）
    - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
@@ -114,10 +108,9 @@ w: マ ハ リ | ナ ガ ラ | タ ノ シ ク | ア ソ ベ
    - 核心骨幹音:  C, G, F, A, A#
    - 調性數值:    C 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 92.7%]
    - 候選調性 (K-S): C 大調 (0.84), F 大調 (0.80), C 小調 (0.56)
-   - 五度圈歷程:   +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [KazagurumaToKodomo[L1] #1]: C 大調 (r: 0.84, 自然音純度: 92.7%, 調外音: A#)
-     • [KazagurumaToKodomo[L2] #1]: C 大調 (r: 0.84, 自然音純度: 92.7%, 調外音: A#)
+     • [KazagurumaToKodomo[] #1]: C 大調 (r: 0.84, 自然音純度: 92.7%, 調外音: A#)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -144,7 +137,7 @@ w: マ ハ リ | ナ ガ ラ | タ ノ シ ク | ア ソ ベ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 176 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 88 個音符)
 ================================================================================
 ```
 

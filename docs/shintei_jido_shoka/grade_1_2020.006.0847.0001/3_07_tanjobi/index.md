@@ -58,34 +58,28 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A2 A2 G2 F2 | C6 z2 | c2 c2 d2 c2 | c6 z2 |
-w: オ ト ウ サ | マ | オ ト ウ サ | マ
+w: 1.~オ ト ウ サ | マ | オ ト ウ サ | マ
+w: 2.~オ カ ア サ | マ | オ カ ア サ | マ
 A3 A A4 | c2 c2 A2 F2 | G2 G2 F2 G2 | A6 z2 |
-w: ケ フ ハ | ア ナ タ ノ | タ ン ジャ ウ | ビ
+w: 1.~ケ フ ハ | ア ナ タ ノ | タ ン ジャ ウ | ビ
+w: 2.~ケ フ ハ | ア ナ タ ノ | タ ン ジャ ウ | ビ
 c3 c d4 | c2 c2 A2 A2 | G2 G2 F2 A2 | G2 G2 F4 |
-w: オ ト ウ | サ マ デ モ | コ ド モ ノ | ト キ ハ
+w: 1.~オ ト ウ | サ マ デ モ | コ ド モ ノ | ト キ ハ
+w: 2.~オ カ ア | サ マ デ モ | チ ヒ サ イ | ト キ ハ
 d3 f d4 | c2 c2 F2 A2 | G2 G2 F2 G2 | A6 z2 |
-w: ヤッ パ リ | オ ハ ナ シ | キ イ テ タ | ノ
+w: 1.~ヤッ パ リ | オ ハ ナ シ | キ イ テ タ | ノ
+w: 2.~ヤッ パ リ | オ モ チャ デ | ア ソ ン ダ | ノ
 c2 c2 c2 d2 | c2 c2 A4 | G2 G2 F2 A2 | G6 z2 |
-w: ソ ン ナ ラ | ケ フ ノ | オ イ ハ ヒ | ニ
+w: 1.~ソ ン ナ ラ | ケ フ ノ | オ イ ハ ヒ | ニ
+w: 2.~ソ ン ナ ラ | ケ フ ノ | オ イ ハ ヒ | ニ
 F2 F2 D2 C2 | F2 F2 A2 A2 | G2 G2 A2 G2 | F6 z2 |
-w: ワ タ シ ガ | オ ハ ナ シ | イ タ シ マ | セウ
-A2 A2 G2 F2 | C6 z2 | c2 c2 d2 c2 | c6 z2 |
-w: オ カ ア サ | マ | オ カ ア サ | マ
-A3 A A4 | c2 c2 A2 F2 | G2 G2 F2 G2 | A6 z2 |
-w: ケ フ ハ | ア ナ タ ノ | タ ン ジャ ウ | ビ
-c3 c d4 | c2 c2 A2 A2 | G2 G2 F2 A2 | G2 G2 F4 |
-w: オ カ ア | サ マ デ モ | チ ヒ サ イ | ト キ ハ
-d3 f d4 | c2 c2 F2 A2 | G2 G2 F2 G2 | A6 z2 |
-w: ヤッ パ リ | オ モ チャ デ | ア ソ ン ダ | ノ
-c2 c2 c2 d2 | c2 c2 A4 | G2 G2 F2 A2 | G6 z2 |
-w: ソ ン ナ ラ | ケ フ ノ | オ イ ハ ヒ | ニ
-F2 F2 D2 C2 | F2 F2 A2 A2 | G2 G2 A2 G2 | F6 z2 |
-w: ニ ン ギョ ウ | カ ザ ツ テ | ア ソ ビ マ | セウ
+w: 1.~ワ タ シ ガ | オ ハ ナ シ | イ タ シ マ | セウ
+w: 2.~ニ ン ギョ ウ | カ ザ ツ テ | ア ソ ビ マ | セウ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanjobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxaWkpPG7a_7h58-OmHY-blzxuWva4efL7PR3Pp8x_Nn3p-z2dClpaXIq2CpZmXPa2Cm5cNkb6JnYg416snPd-z6yn26e92LD96Yb-Z5sXgW15NnsTUPj5lt5nnQ0v9q14tmbhy-Y-sMyL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6DJQCOsBQ1gPFMJAhoEh0JVKXPpaCkC7n89e92LVqmcz-rgUFBSe7Fj7bFr7i-WLX7Z3Ax31rL__6frVEI897djwZF_bs5lN7_f0PF278unaCc-Xzn2-rP9xQ-Oz1m1A9ouO9qcdbU92rX46bc6zptbHDU1cWvpcQFu4gM7hety06nFzByiwmrY-bp73uKEBTQSoYuPj5qmPm4EmAuUWPW7uAgdzH5iLHt4Y5jW3P25eBFa6-XFzJ4gN1AlSsBZoIhdIX3PL4-aJj5tXwazuB9uwHcxd-7gJqKANYiHQ7L0g64DSzSvB0hCHQVyyCqwUqHnS4-ZuoMHrQZqAxjStwWYw0LlgWaALm3YDXcvF9WRXD9jxTatBnkQODCQRMgID2Tx4YDQ3gtwJFAS5GV9gAG0AKgWKt0MthAYB0AgSw6Mb7Lh1j5tXgBwHUgF02LbHzc2g8EWYPRkRJKBU4puYmWcVkJmYl-9QY1BTDUqLCjaGZlp2YFaNgrGCLhgbAbEhENcomMYDKRg0gAgBSRA2g9IQERQ1YON8DGuAWXgVkA8MFBDZtAxMbgXrAToMSRfIFhJVQ-wwgutqWg0mFxFnB3GquZDCBRQyEBo5EEAikJAChRks3EA0TBf2YNkIFgVGMBD3w02FOqi5C-ys_WB2H1QGwtsMlgEmysXwMAK5fDKe0KG5VdBAgqQCU3C6wAwkEEYNJEwRsC60tANJDxDrYS4HxRcktoA5CUyC_AKSAbu5uRMuBvcTNE2tBYvBQwEtDUHSBSRkCNrV3AjmTQLrAqtqWoLXLmgwQYLHMA5LOGEPFYKJCVSgNEODaiIQQ7yCnKFAjoBF9XaoDNh5YCcDiwwwGxTtIONAQYYjMRG2ChLqwFIOnGrAQQZPbE17wWKQSGrAaRtSekIua1DTE8RW7OkJV6ZDth4cGM0roc4D5RFQDoGlGBQ_QQMJEoig-AY5uxt3INHYHmjwgLwMwmYgUXAxjRDDzHCwUh2iBldCWg92Bjj7g9MJsLpFdiDWdAR2NLIecGYByYCqHdyhBPYZrJQBVmTLwQxoKQMtnreBlbSASVAaRU9JoLKIgH21XFy6dgqgii_axzBWAc42ArOVuQA)]
+- [主旋律 TMD 檔案](tanjobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCpxaWkpPG7a_7h58-OmHY-blzxuWva4efL7PR3Pp8x_Nn3p-z2dClpaXIq2CpZmXPa2Cm5cNkb6JnYg416snPd-z6yn26e92LD96Yb-Z5sXgW15NnsTUPj5lt5nnQ0v9q14tmbhy-Y-sMyL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6DJQCOsBQ1gPFMJAhoEh0JVKXPpaCkC7n89e92LVqmcz-rgUFBSe7Fj7bFr7i-WLX7Z3Ax31rL__6frVEI897djwZF_bs5lN7_f0PF278unaCc-Xzn2-rP9xQ-Oz1m1A9ouO9qcdbU92rX46bc6zptbHDU1cWvpcQFu4gM7hety06nFzByiwmrY-bp73uKEBTQSoYuPj5qmPm4EmAuUWPW7uAgdzH5iLHt4Y5jW3P25eBFa6-XFzJ4gN1AlSsBZoIhdIX3PL4-aJj5tXwazuB9uwHcxd-7gJqKANYiHQ7L0g64DSzSvB0hCHQVyyCqwUqHnS4-ZuoMHrQZqAxjStwWYw0LlgWaALm3YDXcvF9WRXD9jxTatBnkQODCQRMgID2Tx4YDQ3gtwJFAS5GV9gAG0AKgWKt0MthAYB0AgSw6Mb7Lh1j5tXgBwHUgF02LbHzc2g8EWYPRkRJKBU4puYmWcVkJmYl-9QY1BTDUqLCjaGZlp2YFaNgrGCLhgbAbEhENcomMYDKRg0gAgBSRA2g9IQERQ1YON8DGuAWXgVkA8MFBDZtAxMbgXrAToMSRfIFhJVQ-wwgutqWg0mFxFnB3GquZDCBRQyEBo5EEAikJAChRks3EA0TBf2YNkIFgVGMBD3w02FOqi5C-ys_WB2H1QGwtsMlgEmysXwMAK5fDKe0KG5VdBAgqQCU3C6wAwkEEYNJEwRsC60tANJDxDrYS4HxRcktoA5CUyC_AKSAbu5uRMuBvcTNE2tBYvBQwEtDUHSBSRkCNrV3AjmTQLrAqtqWoLXLmgwQYLHMA5LOGEPFYKJCVSgNEODaiIQQ7yCnKFAjoBF9XaoDNh5YCcDiwwwGxTtIONAQYYjMRG2ChLqwFIOnGrAQQZPbE17wWKQSGrAaRtSekIua1DTE8RW7OkJV6ZDth4cGM0roc4D5RFQDoGlGBQ_QQMJEoig-AY5uxt3INHYHmjwgLwMwmYgUXAxjRDDzHCwUh2iBldCWg92Bjj7g9MJsLpFdiDWdAR2NLIecGYByYCqHdyhBPYZrJQBVmTLwQxoKQMtnreBlbSASVAaRU9JoLKIgH21XFy6dgqgik8BSCtzAQA)]
 - [鋼琴伴奏 TMD 檔案](tanjobi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP9x8-bHTTseNy953LTscfPk93s6HjdPedy06HFz35M9W54u7X-ye8b7PZ0KWlpcirYKlmZc9rYKblw2Rvomdlx1CkovVs57v2fW0-3TXmzY_nRD_7PNi5RAws9mbwIKP9_S-6yz4cW-Fc_WLHzZ3AeWedG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgBdaWRgZKBnYGCmZ2BhYg5kGBgCXanExeWbmJlnFZCZmJcf5OFQY1BTzaUABDaGZlp2YFaNgrGCLhgbAbEhENcomMYDKRg0gAgBSRA2g9IQERQ1YON8DGuAobgKyH_c3AEim5aBya1gPY-b5yHpAtlComqIHUZwXU2rweQi4uwgTjUXUriAQgZCIwcCSAQSUqAwg4UbiIbpwh4sG8Gij5unAnE_3FSog5q7wM7aD2b3QWUgvM1gGWCiXAwPI5DLJ-MJHZpbBQ0kSCowBacLzEACYdRAwhQB60JLO5D0ALEe5nJQfEFi63FzO5gE-QUkA3ZzcydcDO4naJpaCxaDhwJaGoKkC0jIELSruRHMmwTWBVbVtASvXdBgggSPYRyWcMIeKgQTE7CAam6GBtVEIIZ4BTlDgRwBi-rtUBmw88BOftzcBmaDoh1kHCjIcCQmwlZBQr0RmmrAQQZPbE17wWKQSGrAaRtSekIua1DTE8RW7OkJV6ZDth4cGM0roc4D5RFQDoGlGBQ_QQMJEoig-AY5uxt3INHYHmjwgLwMwmYgUXAxjRDDzHCwUh2iBldCWg92Bjj7g9PJ46Y1yA7Emo7AjkbWA84sIJndiFyLLSmBfAYrZdY9bl4OZkBLGWjxvA2spAVMgtIoekoClUUE7KtFrvd8kOs9C3i1F20YC1QLIWE8UODAZUwwZPDohPNM48FcCIVHN4rp6LqxcmH6wTrx66em7dh0oxhPjOXACNG1UwDFSbQPSBjGNgKzlbkA)]
 
 ## 分析
@@ -94,14 +88,14 @@ w: ニ ン ギョ ウ | カ ザ ツ テ | ア ソ ビ マ | セウ
 ================================================================================
 📊 TMD Song Profile: [ タンジヤウビ（生日） ]
 ================================================================================
-⏱  Duration:       1:00 (60.0s), 48 measures total
+⏱  Duration:       0:30 (30.0s), 24 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  C4 in [Main[L1] #1 @ m.2, 0:01]
-   - 最高音: F5 in [Main[L1] #1 @ m.13, 0:15]
+   - 最低音:  C4 in [Main #1 @ m.2, 0:01]
+   - 最高音: F5 in [Main #1 @ m.13, 0:15]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main[L1] (30.0s) -> Main[L2] (30.0s)
+🏛  結構:      Main (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -109,10 +103,9 @@ w: ニ ン ギョ ウ | カ ザ ツ テ | ア ソ ビ マ | セウ
    - 核心骨幹音:  C, A, G, F, D
    - 調性數值:    C 調性不明確 [相關度: 0.78, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.78), F 大調 (0.75), A 小調 (0.72)
-   - 五度圈歷程:   +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main[L1] #1]: C 調性不明確 (r: 0.78, 自然音純度: 100.0%)
-     • [Main[L2] #1]: C 調性不明確 (r: 0.78, 自然音純度: 100.0%)
+     • [Main #1]: C 調性不明確 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -139,7 +132,7 @@ w: ニ ン ギョ ウ | カ ザ ツ テ | ア ソ ビ マ | セウ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 146 個音符)
+  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 73 個音符)
 ================================================================================
 ```
 

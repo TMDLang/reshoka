@@ -61,22 +61,18 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 c4 d4 c4 A4 | d4 c4 c4 z4 | d4 d2 d2 c4 A4 | G4 D2 F2 G4 z4 |
-w: オ ヤ ウ シ | コ ウ シ | モ ウ _ ヒ ガ | ク レ _ ル
+w: 1.~オ ヤ ウ シ | コ ウ シ | モ ウ _ ヒ ガ | ク レ _ ル
+w: 2.~オ ヤ ウ シ | コ ウ シ | ユ フ _ ヒ ヲ | ア ビ _ テ
+w: 3.~サ カ コ エ | ノ コ エ | ク サ バ カ ラ | カ ヘ _ レ
 A6 A2 A4 c4 | d4 d4 c4 z4 | d6 c2 A4 G2 F2 | G4 A2 G2 F4 z4 |
-w: タ ン ボ ノ | ミ チ ヲ | ナ カ ヨ ク _ | カ ヘ _ レ
-c4 d4 c4 A4 | d4 c4 c4 z4 | d4 d2 d2 c4 A4 | G4 D2 F2 G4 z4 |
-w: オ ヤ ウ シ | コ ウ シ | ユ フ _ ヒ ヲ | ア ビ _ テ
-A6 A2 A4 c4 | d4 d4 c4 z4 | d6 c2 A4 G2 F2 | G4 A2 G2 F4 z4 |
-w: シッ _ ポ ガ | ヒ カ ル | フ リ フ リ _ | カ ヘ _ レ
-c4 d4 c4 A4 | d4 c4 c4 z4 | d4 d2 d2 c4 A4 | G4 D2 F2 G4 z4 |
-w: サ カ コ エ | ノ コ エ | ク サ バ カ ラ | カ ヘ _ レ
-A6 A2 A4 c4 | d4 d4 c4 z4 | d6 c2 A4 G2 F2 | G4 A2 G2 F4 z4 |
-w: ユフ _ ヒ ガ | シ ヅ ム | ウ シ ウ シ _ | カ ヘ _ レ
+w: 1.~タ ン ボ ノ | ミ チ ヲ | ナ カ ヨ ク _ | カ ヘ _ レ
+w: 2.~シッ _ ポ ガ | ヒ カ ル | フ リ フ リ _ | カ ヘ _ レ
+w: 3.~ユフ _ ヒ ガ | シ ヅ ム | ウ シ ウ シ _ | カ ヘ _ レ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](oyaushi_koushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG5a9bh5yeOmZY-btj9u2gxhvN_T8Wx97_PO2S862p9u6Acy3u_pVNDS4lK0VbA047K3VXDjsjHRN7EDmfti5bz3e2Y92dH5bM6Kl3M2vVy0Amzdi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAugQUIDqAQNUDxSgQIaBIdAtSlz6WgrPZm96Pnvdi1Wrns3o41JQUHiyY-2zae0vli9-2d4NdNGz_v6n61dD_PF0Ug_EH89n73iyby6I3LPl-ayWF8tWPWtufdzQxKWlzwUy05ZaAOSgp33zn83e8WJz-4sVXcCQBHoVGFZPW1cAXQn02NMNvc_aOxUCDIzN9LIK0t_v6QEqfrmgUaFAT8EI6MkeUFjs6gGGxbM584FsBTOFl8umAT0P9BvI9Ber9j9rWA4yt7v3xcz5QNHHzTOAgk9nzwaKPF07AWiHm8LTJcuBYgrAyFIAioJ1AwO853HT6sfN_Y-bgDG_6XFz9-OGXi5IEDaAKKyJAizRvAjEaZ70uGnN46b1j5vXPG5eDdGx_3Hz5sfNcx439z1unv-4ufFx8yaIji6wXStAykGMGUBNELt29RCwC2jRVJBdzZseNy163Dz5cXMbRMf2x83Nj5vnghwBcgrQVIgjQMqBpoFJVLt2dEJ0bgWJg2xZAXIomAGRADpu6-PmCWBtKxGaUdwB8jPQ6tbHzQsgmiBuhpBIOihPPVCgAEqV_pWJpcACyDsfRFoFZCbm5TvUGNRUg2xSsLHQsgMzsKVdBUhuerGwR0HDRAGUAdY36MATnCYWDUD7QIbVKJgq6ALTmy6YNgbiGjgPhA3gImZAiFBjBBKJVzAEM8CKwMb5GNaAohnIB8Y0iGxaBia3gzUBYwFNLB4i3rwIId48CcxeA9WxHiwG4gGjHqYDYpcReXZBbJmKsKt5E1QH2BXNk8FkG6pdxiD5rWCzQK6Amb4CamYfmhjULojrgfqA6Q2ms3klVA7CmwH3H8Q2_FG8q4ecKAZFGSjiQDQoCmERih7FID5IjREwXiFRbAxmY8bwfrBqYDkAxHPALFAIgEJiPpjXCA9XWKh3QXQAfQ0sIcAsUNjgDgdEDIOKALBmkIK5YK3QxAFNKhAD4IkDGrkgsVXwiAYlEwKWgaIYXADALUNNiaA0BCwSwOQCpDgGpSdIGkNPgdgtq-Xi0rVTQMnr0T6GsQqYgkbYBI3BgspcAA)]
+- [主旋律 TMD 檔案](oyaushi_koushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG5a9bh5yeOmZY-btj9u2gxhvN_T8Wx97_PO2S862p9u6Acy3u_pVNDS4lK0VbA047K3VXDjsjHRN7EDmfti5bz3e2Y92dH5bM6Kl3M2vVy0Amzdi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAugQUIDqAQNUDxSgQIaBIdAtSlz6WgrPZm96Pnvdi1Wrns3o41JQUHiyY-2zae0vli9-2d4NdNGz_v6n61dD_PF0Ug_EH89n73iyby6I3LPl-ayWF8tWPWtufdzQxKWlzwUy05ZaAOSgp33zn83e8WJz-4sVXcCQBHoVGFZPW1cAXQn02NMNvc_aOxUCDIzN9LIK0t_v6QEqfrmgUaFAT8EI6MkeUFjs6gGGxbM584FsBTOFl8umAT0P9BvI9Ber9j9rWA4yt7v3xcz5QNHHzTOAgk9nzwaKPF07AWiHm8LTJcuBYgrAyFIAioJ1AwO853HT6sfN_Y-bgDG_6XFz9-OGXi5IEDaAKKyJAizRvAjEaZ70uGnN46b1j5vXPG5eDdGx_3Hz5sfNcx439z1unv-4ufFx8yaIji6wXStAykGMGUBNELt29RCwC2jRVJBdzZseNy163Dz5cXMbRMf2x83Nj5vnghwBcgrQVIgjQMqBpoFJVLt2dEJ0bgWJg2xZAXIomAGRADpu6-PmCWBtKxGaUdwB8jPQ6tbHzQsgmiBuhpBIOihPPVCgAEqV_pWJpcACyDsfRFoFZCbm5TvUGNRUg2xSsLHQsgMzsKVdBUhuerGwR0HDRAGUAdY36MATnCYWDUD7QIbVKJgq6ALTmy6YNgbiGjgPhA3gImZAiFBjBBKJVzAEM8CKwMb5GNaAohnIB8Y0iGxaBia3gzUBYwFNLB4i3rwIId48CcxeA9WxHiwG4gGjHqYDYpcReXZBbJmKsKt5E1QH2BXNk8FkG6pdxiD5rWCzQK6Amb4CamYfmhjULojrgfqA6Q2ms3klVA7CmwH3H8Q2_FG8q4ecKAZFGSjiQDQoCmERih7FID5IjREwXiFRbAxmY8bwfrBqYDkAxHPALFAIgEJiPpjXCA9XWKh3QXQAfQ0sIcAsUNjgDgdEDIOKALBmkIK5YK3QxAFNKhAD4IkDGrkgsVXwiAYlEwKWgaIYXADALUNNiaA0BCwSwOQCpDgGpSdIGkNPgdgtq-Xi0rVTQMnrCkABZS4A)]
 - [鋼琴伴奏 TMD 檔案](oyaushi_koushi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx85LHTcseN21_3LQZwni_p-Nl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKliacdnbKrhx2Zjom9hx1SkovVg57_2eWU92dD6bs-LlnE0vF61QAgu373reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smOhqdrdzzdueX5lBVAhxgZGBnoGRiY6RlYmJgDGQaGQLcocXH5VyaWFmdkeueDSKuAzMS8_CAPhxqDmmouBSCwsdCyAzP0tRRs0YECxJoXC3sUNEwUnm7of76-QUchwMDYTC-rIF0TiwYtfbBhNQqmCroKZkAMoo2BuAbOA2EDuIgZECLUGIFE4hUMwQywIrBxPoY1oAgA8oFxACKbloHJ7WBNwOhAE4uHiDcvQog3TwKz10B1rAeLgXiPm1fDdEDsMiLPLogtUxF2NW-C6gC7onkymGxDtcsYJL8VbBbIFTDTV0DN7EMTg9oFcT1Q3-PmCTCdzSuhchDeDLj_ILbhj-JdPeREMSjKQBEHokFRCItQ9CgG8UFqjIDxColiYzAbM4b3g1U_bt4MxHPALFAIgEJiPpjXCA9XWKh3QXQAff24GRRCkLDBHQ6IGN7-uLkZrBmkYC5YKzRxQJMKxAB44oBGLkhsFTyiQcmEgGWgKG5eBtOMmRJBaehxcyuYXIAUx6D0BElj6CkQu2W1WLO6D3JWN4Fm9RoFw3iFaMNYGFWjYALnG0B5JkiyRvFAllF8rIIpkAFUgMcQiDZshoD0RpsCDYHIg9yra6eA4uRoH6BKTEEjbILGYEFlLgA)]
 
 ## 分析
@@ -85,14 +81,14 @@ w: ユフ _ ヒ ガ | シ ヅ ム | ウ シ ウ シ _ | カ ヘ _ レ
 ================================================================================
 📊 TMD Song Profile: [ オヤウシコウシ（母牛與小牛） ]
 ================================================================================
-⏱  Duration:       1:00 (60.0s), 24 measures total
+⏱  Duration:       0:20 (20.0s), 8 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [OyaushiKoushi[L1] #1 @ m.4, 0:08]
-   - 最高音: D5 in [OyaushiKoushi[L1] #1 @ m.1, 0:00]
+   - 最低音:  D4 in [OyaushiKoushi #1 @ m.4, 0:08]
+   - 最高音: D5 in [OyaushiKoushi #1 @ m.1, 0:00]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      OyaushiKoushi[L1] (20.0s) -> OyaushiKoushi[L2] (20.0s) -> OyaushiKoushi[L3] (20.0s)
+🏛  結構:      OyaushiKoushi (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -100,11 +96,9 @@ w: ユフ _ ヒ ガ | シ ヅ ム | ウ シ ウ シ _ | カ ヘ _ レ
    - 核心骨幹音:  D, C, A, G, F
    - 調性數值:    C 調性不明確 [相關度: 0.65, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.65), D 小調 (0.64), A 小調 (0.63)
-   - 五度圈歷程:   +0 -> +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [OyaushiKoushi[L1] #1]: C 調性不明確 (r: 0.65, 自然音純度: 100.0%)
-     • [OyaushiKoushi[L2] #1]: C 調性不明確 (r: 0.65, 自然音純度: 100.0%)
-     • [OyaushiKoushi[L3] #1]: C 調性不明確 (r: 0.65, 自然音純度: 100.0%)
+     • [OyaushiKoushi #1]: C 調性不明確 (r: 0.65, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -131,7 +125,7 @@ w: ユフ _ ヒ ガ | シ ヅ ム | ウ シ ウ シ _ | カ ヘ _ レ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 96 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 32 個音符)
 ================================================================================
 ```
 

@@ -62,32 +62,26 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 G2 G2 D2 D2 | E2 E2 D2 z2 | D3 d B2 G2 | A2 B2 A2 z2 |
-w: ガッ タン ゴッ コ | ガッ タン コ | オ クワ シ ノ | キ シャ ガ
+w: 1.~ガッ タン ゴッ コ | ガッ タン コ | オ クワ シ ノ | キ シャ ガ
+w: 2.~ガッ タン ゴッ コ | ガッ タン コ | オ クワ シ ノ | キ シャ ガ
+w: 3.~ガッ タン ゴッ コ | ガッ タン コ | オ クワ シ ノ | キ シャ ガ
 D2 G2 A2 B2 | G6 z2 | A2 A2 A2 B2 | A4 D2 D2 |
-w: ハ シ リ マ | ス | オ カ マ ノ | マ エ ヲ
+w: 1.~ハ シ リ マ | ス | オ カ マ ノ | マ エ ヲ
+w: 2.~イ ソ ギ マ | ス | ナ ガ イ ト | ン ネ ル
+w: 3.~フ エ マ シ | タ | ゾ ロ ゾ ロ | ハ イ ル
 G2 A2 B2 G2 | A6 z2 | B4 d2 d2 | c2 B2 A2 G2 |
-w: ト ウ リ マ | ス | ジュウ ナ ラ | バ _ レ エ
-D2 G2 A2 B2 | G6 z2 | G2 G2 D2 D2 | E2 E2 D2 z2 |
-w: ル ハ ア メ | ン | ガッ タン ゴッ コ | ガッ タン コ
-D3 d B2 G2 | A2 B2 A2 z2 | D2 G2 A2 B2 | G6 z2 |
-w: オ クワ シ ノ | キ シャ ガ | イ ソ ギ マ | ス
-A2 A2 A2 B2 | A4 D2 D2 | G2 A2 B2 G2 | A6 z2 |
-w: ナ ガ イ ト | ン ネ ル | ハ イ リ マ | ス
-B4 d2 d2 | c2 B2 A2 G2 | D2 G2 A2 B2 | G6 z2 |
-w: トウ ナ ラ | バ _ チョ コ | レ エ ト ノ | コ
-G2 G2 D2 D2 | E2 E2 D2 z2 | D3 d B2 G2 | A2 B2 A2 z2 |
-w: ガッ タン ゴッ コ | ガッ タン コ | オ クワ シ ノ | キ シャ ガ
-D2 G2 A2 B2 | G6 z2 | A2 A2 A2 B2 | A4 D2 D2 |
-w: フ エ マ シ | タ | ゾ ロ ゾ ロ | ハ イ ル
-G2 A2 B2 G2 | A6 z2 | B4 d2 d2 | c2 B2 A2 G2 |
-w: ト ン ネ ル | ハ | ラッ パ ナ | ラ _ ヰ ノ
+w: 1.~ト ウ リ マ | ス | ジュウ ナ ラ | バ _ レ エ
+w: 2.~ハ イ リ マ | ス | トウ ナ ラ | バ _ チョ コ
+w: 3.~ト ン ネ ル | ハ | ラッ パ ナ | ラ _ ヰ ノ
 D2 G2 A2 B2 | G6 z2 |
-w: ク チ ニ イ | サ
+w: 1.~ル ハ ア メ | ン
+w: 2.~レ エ ト ノ | コ
+w: 3.~ク チ ニ イ | サ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](okashi_no_kisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8blr1uGn94-b1j5u2P27ue9y0FsxY8n5Px8vd857ub37euPrF7q73ezoVtLS4FG0VDA0MuOxtFdy5bIz0TexAZj-bven9nllPN258NmfN08V7wfa9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgG4AhageMET1QCEKZBgYAl2ixKWvpQC09fnsdS9WrXo2o49LQUHhyY61z6a1v1i--GV7N9A5z7q6IC5_1rz5aXP_s44JL_Z0Ptu9__nmac_mzYF6bVbL047pYN_1PG1tBcmuXvpi2-LHDU1cWvpcQFu4gM7hety05nFz8-Om_Y-bNz9u2gJmb37c0IAqvhmoDikoIaEJUgQJ0MVA1Vwvtm543LzqcfO8x007wXJADauhSkGCKx43b-J62TALVdGOx81LHzctA7Gbu0A2Ni7jety8Bqx89ePGdY-b-8HqFj1ubnzcvPxx80KQbPMckJ7mDi6uJ7t6qOiHx01LHjftfdwEtBbmQqCrgMYAxZs7QMY09wLdxfW0dSmKN4ByGH6Y8bh5D8gdzSthfgCasQIsAvEA0KqNQA_s6KSmB5qnPm5aDg49oNu2g6X3PW4GqgCTQIeAnLMJ4rzVYA-tBrsb7EKgXc0TYR4AWbQH5EuQQ_fDPACMS2A-Ako1glORb2JmnlVAZmJevkONQU01KK0q2BiaadmBWTUKhgq6YGwaDyNqFMxAFJgACxiABcFMoIiCMVRHjYIRkATxQDRYEdhMH8MaYL4GhQtQCBI0YAYo1MAMEBe7EhAJsQ0YkGDrIKEJpLaDOM19UMm1YClQmIIZa1AdYDTQDjAeQAdA4xUcXaBogkUSJKphEGIHSA6GIWpALHA0I5IDIlKb-yGWgh0Cch0wDUOdsxPDbIj7gSUMXB3c8WAexG8rwOKbEPaA424JWG4vmFxHyJ7mLngIQHU2d0BlQKEJtqe5F0yC3IIURc1TkdwAdiHYbyB79mPxzz6wOkjAI9iwcIH4B2I_xB6kHAYLYES-QTUcJAfJXRBco2AC1QFSC9aFFA0g7wGLM7BVhKMBWoDDgwIcXM0roU6fABeHBCAoMJCiAhrlEG8RtAtcyhK0CFRNgE0FZwOk6AD7C5IRkCMMKYCR7QIWk6DMAzFzItxGsBRcfAOYBKc7UnIGUmBD0i8kGBaB2QuhtiBS1xywLMjnyEGHCFCY12CZF64TmtI3ogZE03pIOIHJbrg6kMxWuJ2QYAKpqeGq5eLStVMAFfXRPoaxCnC2ERLbGMxW5gIA)]
+- [主旋律 TMD 檔案](okashi_no_kisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8blr1uGn94-b1j5u2P27ue9y0FsxY8n5Px8vd857ub37euPrF7q73ezoVtLS4FG0VDA0MuOxtFdy5bIz0TexAZj-bven9nllPN258NmfN08V7wfa9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2THQ1P1-54unPL8ykrgG4AhageMET1QCEKZBgYAl2ixKWvpQC09fnsdS9WrXo2o49LQUHhyY61z6a1v1i--GV7N9A5z7q6IC5_1rz5aXP_s44JL_Z0Ptu9__nmac_mzYF6bVbL047pYN_1PG1tBcmuXvpi2-LHDU1cWvpcQFu4gM7hety05nFz8-Om_Y-bNz9u2gJmb37c0IAqvhmoDikoIaEJUgQJ0MVA1Vwvtm543LzqcfO8x007wXJADauhSkGCKx43b-J62TALVdGOx81LHzctA7Gbu0A2Ni7jety8Bqx89ePGdY-b-8HqFj1ubnzcvPxx80KQbPMckJ7mDi6uJ7t6qOiHx01LHjftfdwEtBbmQqCrgMYAxZs7QMY09wLdxfW0dSmKN4ByGH6Y8bh5D8gdzSthfgCasQIsAvEA0KqNQA_s6KSmB5qnPm5aDg49oNu2g6X3PW4GqgCTQIeAnLMJ4rzVYA-tBrsb7EKgXc0TYR4AWbQH5EuQQ_fDPACMS2A-Ako1glORb2JmnlVAZmJevkONQU01KK0q2BiaadmBWTUKhgq6YGwaDyNqFMxAFJgACxiABcFMoIiCMVRHjYIRkATxQDRYEdhMH8MaYL4GhQtQCBI0YAYo1MAMEBe7EhAJsQ0YkGDrIKEJpLaDOM19UMm1YClQmIIZa1AdYDTQDjAeQAdA4xUcXaBogkUSJKphEGIHSA6GIWpALHA0I5IDIlKb-yGWgh0Cch0wDUOdsxPDbIj7gSUMXB3c8WAexG8rwOKbEPaA424JWG4vmFxHyJ7mLngIQHU2d0BlQKEJtqe5F0yC3IIURc1TkdwAdiHYbyB79mPxzz6wOkjAI9iwcIH4B2I_xB6kHAYLYES-QTUcJAfJXRBco2AC1QFSC9aFFA0g7wGLM7BVhKMBWoDDgwIcXM0roU6fABeHBCAoMJCiAhrlEG8RtAtcyhK0CFRNgE0FZwOk6AD7C5IRkCMMKYCR7QIWk6DMAzFzItxGsBRcfAOYBKc7UnIGUmBD0i8kGBaB2QuhtiBS1xywLMjnyEGHCFCY12CZF64TmtI3ogZE03pIOIHJbrg6kMxWuJ2QYAKpqeGq5eLStVMAFfUKQFqZCwA)]
 - [鋼琴伴奏 TMD 檔案](okashi_no_kisha_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx0_rHzesfN21_3Nz3uGktmLHk_Z6Ox81THjctAgo-2bPl6dL-J7tnvN_TqaClxaVoq2BoYMBlb6vgzmVjpG9ix1WnoPRs9qb3e2Y93bjx2Zw1TxfvVQKJvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4AuMTIwMtAzMDDTM7AwMQcyDAyBLlHi4vJNzMyzCshMzMsP8nCoMaip5lIAAhtDMy07MKtGwVBBF4xN42FEjYIZiAITYAEDsCCYCRRRMIbqqFEwApIgHogGKwKb6WNYAwy0NY-bm4FCj5v2P27eDGZsgYmAuNiVgEiIbcBQB1sHCXogtR3Eae6DSq4FSwGjYTGYsQbVAUYD7QDjAXQANF7B0QWKJlgkQaIaBiF2gORgGKIGxAJHMyI5ICK1uR9iKdghINc9bp4Hdc5ODLMh7n_ctBquDu54MA_itxVg8U0Ie8BxtwQstxdMriNkT3MXPASgOps7oDKg0ATb09wLJkFuQYqi5qlIbgC7EOw3kD37sfhnH1gdJOARbFi4QPwDsR9iD1IOgwUwIt-gGg6Sg-QuCK5RMIHqAKkF60KKBpD3HjctA1tFOBp2PG5eClENCQpwcDWvhDp9AlwcEoCgwECKCmiUQ7xF0K7mDmIsanzcvBxsKjgbIEUH2F-QjIAcYUgBjGzXSkjmgZg5EW4jWAouvgFMgtMdKTkDKbAh6RcSDIvA7IVQWxCpaw5YFuRz5KBDBCjMa7DMC9cJTekbUQOiaT0knMBkN1wdSGYr3E5IMIHU1HDVIpf0PsglvQW8oI82jAWqhZBAngmMZ4ApZxoP5oIooCxMP5IoWBVYNSi8sMih8rG7ACIJiU2sjkPTjdt-kP917RRAQRDtAxKGsY2Q2MZgtjIXAA)]
 
 ## 分析
@@ -96,14 +90,14 @@ w: ク チ ニ イ | サ
 ================================================================================
 📊 TMD Song Profile: [ オクワシノキシヤ（點心火車） ]
 ================================================================================
-⏱  Duration:       0:50 (50.4s), 42 measures total
+⏱  Duration:       0:16 (16.8s), 14 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Main[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Main[L1] #1 @ m.3, 0:02]
+   - 最低音:  D4 in [Main #1 @ m.1, 0:00]
+   - 最高音: D5 in [Main #1 @ m.3, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main[L1] (16.8s) -> Main[L2] (16.8s) -> Main[L3] (16.8s)
+🏛  結構:      Main (16.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -111,11 +105,9 @@ w: ク チ ニ イ | サ
    - 核心骨幹音:  G, A, D, B, E
    - 調性數值:    G 大調 [相關度: 0.79, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.79), D 大調 (0.75), B 小調 (0.50)
-   - 五度圈歷程:   +1 -> +1 -> +1
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main[L1] #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
-     • [Main[L2] #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
-     • [Main[L3] #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
+     • [Main #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -142,7 +134,7 @@ w: ク チ ニ イ | サ
      B  : ███████████████           17.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 129 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 43 個音符)
 ================================================================================
 ```
 

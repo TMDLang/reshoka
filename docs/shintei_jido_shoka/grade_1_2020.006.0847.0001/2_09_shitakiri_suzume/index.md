@@ -62,34 +62,25 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 D2 F2 A2 B2 | A2 A2 F2 D2 | E3 E D2 E2 | F2 A2 A2 z2 |
-w: シャ ウ ジ キ | ヂ イ サ ン | ツ _ エ ヲ | ツ イ テ
+w: 1.~シャ ウ ジ キ | ヂ イ サ ン | ツ _ エ ヲ | ツ イ テ
+w: 2.~カ ル イ _ | ツ ヅ ラ ヲ | モ ラ ツ テ | カ ヘ リ
+w: 3.~ヨ ク フ カ | バ ア サ ン | ツ _ エ ヲ | ツ イ テ
+w: 4.~オ モ イ _ | ツ ヅ ラ ヲ | モ ラ ツ テ | カ ヘ リ
 F3 F A2 B2 | A2 F2 D4 | F3 F E2 D2 | E2 E2 D2 z2 |
-w: シ タ キ リ | ス ズ メ | オ ヤ ド ハ | ド コ カ
+w: 1.~シ タ キ リ | ス ズ メ | オ ヤ ド ハ | ド コ カ
+w: 2.~ヒ ラ イ テ | ミ タ ラ | デ タ ハ _ | デ タ ハ
+w: 3.~シ タ キ リ | ス ズ メノ | オ ヤ ド ハ | ド コ カ
+w: 4.~ヒ ラ イ テ | ミ タ ラ | デ タ ハ _ | デ タ ハ
 d3 d A2 A2 | B2 B2 A3 A | F2 A2 E2 F2 | D6 z2 |
-w: ヤ _ ド ハ | コ コ ヨ _ | チヱ ッ チヱ ッ | チヱ
-D2 F2 A2 B2 | A2 A2 F2 D2 | E3 E D2 E2 | F2 A2 A2 z2 |
-w: カ ル イ _ | ツ ヅ ラ ヲ | モ ラ ツ テ | カ ヘ リ
-F3 F A2 B2 | A2 F2 D4 | F3 F E2 D2 | E2 E2 D2 z2 |
-w: ヒ ラ イ テ | ミ タ ラ | デ タ ハ _ | デ タ ハ
-d3 d A2 A2 | B2 B2 A3 A | F2 A2 E2 F2 | D6 z2 |
-w: キ ン ギ ン | サ ン ゴ ノ | タ カ ラ モ | ノ
-D2 F2 A2 B2 | A2 A2 F2 D2 | E3 E D2 E2 | F2 A2 A2 z2 |
-w: ヨ ク フ カ | バ ア サ ン | ツ _ エ ヲ | ツ イ テ
-F3 F A2 B2 | A2 F2 D4 | F3 F E2 D2 | E2 E2 D2 z2 |
-w: シ タ キ リ | ス ズ メノ | オ ヤ ド ハ | ド コ カ
-d3 d A2 A2 | B2 B2 A3 A | F2 A2 E2 F2 | D6 z2 |
-w: ヤ _ ド ハ | コ コ ヨ _ | チヱ ッ チヱ ッ | チヱ
-D2 F2 A2 B2 | A2 A2 F2 D2 | E3 E D2 E2 | F2 A2 A2 z2 |
-w: オ モ イ _ | ツ ヅ ラ ヲ | モ ラ ツ テ | カ ヘ リ
-F3 F A2 B2 | A2 F2 D4 | F3 F E2 D2 | E2 E2 D2 z2 |
-w: ヒ ラ イ テ | ミ タ ラ | デ タ ハ _ | デ タ ハ
-d3 d A2 A2 | B2 B2 A3 A | F2 A2 E2 F2 | D6 z2 |
-w: ヘ ビ ハ チ | ム カ デ _ | コ ハ イ モ | ノ
+w: 1.~ヤ _ ド ハ | コ コ ヨ _ | チヱ ッ チヱ ッ | チヱ
+w: 2.~キ ン ギ ン | サ ン ゴ ノ | タ カ ラ モ | ノ
+w: 3.~ヤ _ ド ハ | コ コ ヨ _ | チヱ ッ チヱ ッ | チヱ
+w: 4.~ヘ ビ ハ チ | ム カ デ _ | コ ハ イ モ | ノ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shitakiri_suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2v64af_jprWPm1c9btr5uGnX4-aF7_d0PO1c9aKj5-Wu3S9nN7zf06mgpcWlaKtgaGDAZW-r4MJlY6RvYgcy9cXKee_3zHo-f_PTvvlPJ_U82dH5srkPbN-z2ZtAMlM2PJs78cXMvhfT-8HCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKCqADQQGtBwxoPVBAAxkGhkBnKnHpaykALX4-e92LVauezejjUlBQeLJj7bNp7S-WL37Z3g100bPpS5_NWfNsw8SX0yY_m9r6ZBdQsOdZf__T9aufTmt50bn-RUPjk127XnS0w3zf82T30qf9XS82rXq6v_lFQ-vT_ulPOzaAvLBi8uOGJi4tfS6gvVxAB3KBgrN5yeOmZY-bdoADtelxE5C79XHz5scNDY-bWx43rXjcvAnMWPK4uQ2sASP8QUqbVoEMau583NwPIps2P25azYUQAvE3P25eATa18XHzxsfNzWgMLq4nu3qAFqx-3LwabFvL4-bWx80rQfaDdC0Cs4GCbWA1M4AuAFowCSQKdtvj5vkgpwG5INXtYDbQLVAG0GCgm4FO2P24aR2MAfZn05bHzX1gLwD9BTQYaAnQqj6gc3Z0Ai1Y8bhp_ePmqWCpCY-bFpEeOlDTqRBAT2fPBtoBNAjoCuoHEEjHZFC4gESBFgIZC8AmtYPdD3Qd0JlAg8ChA0pEvomZeVYBmYl5-Q41BjXVoMSrYGNopmUHZtUoGCroKhgDsSkQmwFxDZgFwiBRkGyNghGQ1AWSIB6IXQPXAcIGIBGwaT6GNeDM37wYKARMsGByB5hcC9YGTLtg3hIwuRVENm-GyrSALQGJrwCLb0ISh-pobgOS8QjrjEDWrQbLgEmwKhCE62tuBZMrUUxcBLEHKApTBTIXYdYMMLkK1S5jkE6wy5rWg-WngtkgHSCZCWAeyGQq-MsE5BaQ_RC30spf0BQAiktQbKOmAFjsQ6yFqQHFPiJNwHgYKQDq4f3QiIdYCpLZCRbfBRZbiPAU2LMgsSVA3Alm9UM9BeY1gQIT4g206G-ehPA0UmCCZOZD3QALKFgAtiNcB7YFWRymHiSOFvnE-gqY8Sj1GCj-ae4xWP6PA6sDUrD8XANOBSAM4oFIRH4HxTiIDSk3YBAt_oGehSZ5VC9DPQsmwVkJ5kBQwQkWbAaTKFwkeRhELwFAkQHJccBqA8qCWIjIicAaBKqqDywDDg1ovoDkIlDuAVkGiz00m8D5n34eAycBUIYFKZ8MtQqoAapxAZLzIdGO5BCIWmiiwe2tWi4uXTsFUP0Q7WMYqwBnGyGxjZHYJmC2MhcA)]
+- [主旋律 TMD 檔案](shitakiri_suzume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxu2v64af_jprWPm1c9btr5uGnX4-aF7_d0PO1c9aKj5-Wu3S9nN7zf06mgpcWlaKtgaGDAZW-r4MJlY6RvYgcy9cXKee_3zHo-f_PTvvlPJ_U82dH5srkPbN-z2ZtAMlM2PJs78cXMvhfT-8HCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKCqADQQGtBwxoPVBAAxkGhkBnKnHpaykALX4-e92LVauezejjUlBQeLJj7bNp7S-WL37Z3g100bPpS5_NWfNsw8SX0yY_m9r6ZBdQsOdZf__T9aufTmt50bn-RUPjk127XnS0w3zf82T30qf9XS82rXq6v_lFQ-vT_ulPOzaAvLBi8uOGJi4tfS6gvVxAB3KBgrN5yeOmZY-bdoADtelxE5C79XHz5scNDY-bWx43rXjcvAnMWPK4uQ2sASP8QUqbVoEMau583NwPIps2P25azYUQAvE3P25eATa18XHzxsfNzWgMLq4nu3qAFqx-3LwabFvL4-bWx80rQfaDdC0Cs4GCbWA1M4AuAFowCSQKdtvj5vkgpwG5INXtYDbQLVAG0GCgm4FO2P24aR2MAfZn05bHzX1gLwD9BTQYaAnQqj6gc3Z0Ai1Y8bhp_ePmqWCpCY-bFpEeOlDTqRBAT2fPBtoBNAjoCuoHEEjHZFC4gESBFgIZC8AmtYPdD3Qd0JlAg8ChA0pEvomZeVYBmYl5-Q41BjXVoMSrYGNopmUHZtUoGCroKhgDsSkQmwFxDZgFwiBRkGyNghGQ1AWSIB6IXQPXAcIGIBGwaT6GNeDM37wYKARMsGByB5hcC9YGTLtg3hIwuRVENm-GyrSALQGJrwCLb0ISh-pobgOS8QjrjEDWrQbLgEmwKhCE62tuBZMrUUxcBLEHKApTBTIXYdYMMLkK1S5jkE6wy5rWg-WngtkgHSCZCWAeyGQq-MsE5BaQ_RC30spf0BQAiktQbKOmAFjsQ6yFqQHFPiJNwHgYKQDq4f3QiIdYCpLZCRbfBRZbiPAU2LMgsSVA3Alm9UM9BeY1gQIT4g206G-ehPA0UmCCZOZD3QALKFgAtiNcB7YFWRymHiSOFvnE-gqY8Sj1GCj-ae4xWP6PA6sDUrD8XANOBSAM4oFIRH4HxTiIDSk3YBAt_oGehSZ5VC9DPQsmwVkJ5kBQwQkWbAaTKFwkeRhELwFAkQHJccBqA8qCWIjIicAaBKqqDywDDg1ovoDkIlDuAVkGiz00m8D5n34eAycBUIYFKZ8MtQqoAapxAZLzIdGO5BCIWmiiwe2tWi4uXTsFUP2gAKSVuQA)]
 - [鋼琴伴奏 TMD 檔案](shitakiri_suzume_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctP1x0_7HTWsfN6963LTzcdOux80L3-_peNw85XHTosfNfU_2bHm6tP_J7hnv93QqaGlxKdoqGBoYcNnbKrhw2Rjpm9hx1SkovVg57_2eWc_nb37aN__ppJ4nOzpfNvcpgWSezd4Ekpmy4dnciS9m9r2Y3g8WftG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsanq7d8XTnludTVgCdaWRgZKBnYGCmZ2BhYg5kGBgCnanExeWbmJlnFZCZmJcf5OFQY1BTzaUABDaGZlp2YFaNgqGCroIxEJsCsRkQ14BZIAwSBcnWKBgBSV0gCeKB2DVwHSBsABIBm-ZjWAMOyObFQKHHTcvA5A4wuRas7XFzE5i3BExuBZHNm6EyLWBLQOIrwOKbkMShOprbgGQ8wjojkHWrwTJgEqwKBOH6mlvB5EoUExdB7AGKwlSBzEWYNQNMrkK1yxikE-yypvVg-algNkgHSGYCmAcymQr-MgG5BWQ_xK208hc0BYDiEhTbqCkAFvsQa2FqQLGPSBMwHkYKgHp4PzTiIZaCZHaCxXeBxRYiPAX2LEhsCRB3gln9UE-BeU2gwIR4Ay36mychPI0UmCCZ-VA3wAIKFoDtCNeBbUEWh6kHiaNFPrG-ApYVlHoMFP809xgs_8eB1QEpWH6uAacCEAbxQCQiv4NiHMSGlBswiBb_QM9Ckzyql6GeBZPgrARzYOPj5o1gwWYwicJFkodB9BIAFBmQHPe4aR2UBbEQkRMfN22BquoDy4BDA5ovILkIlHtAlsFiD80mcP6nn8fASQCUYUHKJ0OtAmqAalyA5HxItCM5BKIWmmhwe6sWuXrwQa4eLOC1Q7RhLFBttAmIhPPAJJBnGg_mQihkWQOoLwjoh_Dg2qHGYdMP0wE2B5d-MBeUGMFe07VTAPku2gckDGMbIbGNkdggc-0UlLkA)]
 
 ## 分析
@@ -98,14 +89,14 @@ w: ヘ ビ ハ チ | ム カ デ _ | コ ハ イ モ | ノ
 ================================================================================
 📊 TMD Song Profile: [ シタキリスズメ（剪舌麻雀） ]
 ================================================================================
-⏱  Duration:       0:57 (57.6s), 48 measures total
+⏱  Duration:       0:14 (14.4s), 12 measures total
 🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Main[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Main[L1] #1 @ m.9, 0:09]
+   - 最低音:  D4 in [Main #1 @ m.1, 0:00]
+   - 最高音: D5 in [Main #1 @ m.9, 0:09]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main[L1] (14.4s) -> Main[L2] (14.4s) -> Main[L3] (14.4s) -> Main[L4] (14.4s)
+🏛  結構:      Main (14.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -113,12 +104,9 @@ w: ヘ ビ ハ チ | ム カ デ _ | コ ハ イ モ | ノ
    - 核心骨幹音:  D, A, F#, E, B
    - 調性數值:    D 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.88), A 大調 (0.75), F# 小調 (0.69)
-   - 五度圈歷程:   +2 -> +2 -> +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Main[L1] #1]: D 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Main[L2] #1]: D 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Main[L3] #1]: D 大調 (r: 0.88, 自然音純度: 100.0%)
-     • [Main[L4] #1]: D 大調 (r: 0.88, 自然音純度: 100.0%)
+     • [Main #1]: D 大調 (r: 0.88, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -145,7 +133,7 @@ w: ヘ ビ ハ チ | ム カ デ _ | コ ハ イ モ | ノ
      B  : ████████                   8.9%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 168 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 42 個音符)
 ================================================================================
 ```
 

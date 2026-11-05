@@ -68,22 +68,19 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A3 A A2 F2 | d3 d d2 e2 | f3 f e2 d2 | e4 z4 |
-w: デ ン デ ン | ム シ ム シ | カ タ ツ ム | リ
+w: 1.~デ ン デ ン | ム シ ム シ | カ タ ツ ム | リ
+w: 2.~デ ン デ ン | ム シ ム シ | カ タ ツ ム | リ
 f3 g a2 b2 | a3 a a2 f2 | e3 e d2 e2 | f4 z4 |
-w: オ マ ヘ ノ | ア タ マ ハ | ド コ ニ ア | ル
+w: 1.~オ マ ヘ ノ | ア タ マ ハ | ド コ ニ ア | ル
+w: 2.~オ マ ヘ ノ | メ ダ マ ハ | ド コ ニ ア | ル
 A2 d2 d2 A2 | f2 a2 a2 f2 | d2 f2 f3 e | d4 z4 |
-w: ツ ノ ダ セ | ヤ リ ダ セ | ア タ マ ダ | セ
-A3 A A2 F2 | d3 d d2 e2 | f3 f e2 d2 | e4 z4 |
-w: デ ン デ ン | ム シ ム シ | カ タ ツ ム | リ
-f3 g a2 b2 | a3 a a2 f2 | e3 e d2 e2 | f4 z4 |
-w: オ マ ヘ ノ | メ ダ マ ハ | ド コ ニ ア | ル
-A2 d2 d2 A2 | f2 a2 a2 f2 | d2 f2 f3 e | d4 z4 |
-w: ツ ノ ダ セ | ヤ リ ダ セ | メ ダ マ ダ | セ
+w: 1.~ツ ノ ダ セ | ヤ リ ダ セ | ア タ マ ダ | セ
+w: 2.~ツ ノ ダ セ | ヤ リ ダ セ | メ ダ マ ダ | セ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](katatsumuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWv24af_j5pbHzQseN696v6fjxdwdzztnv9_TqaClxaVoq2BpxGVvq-DCZWOkb2IHMujFynnv98x6Nq39ZfOK53MawYY_m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdBAoSPWAQaoHClIgw8AQ6DglLn0tBaCtz2eve7Fq1bMZfVwKCgpPdqwFOuHF8sUv27tBzunvf7p-NcQ_L5p7Xkyc_mzdnmeti4DoeceaFwt7ns9qebZi8dO1Ex43NHFp6XOBzLSlFgA56Gnf_Gezd7zY3P5iRdeLjnagV4GB97R1BdCVQI893dD7rL1TIcDAyFAvqyD9_Z4eoOKXCxoVCvQUzIA8eFA8mzMfyFYwU3i5bBrQ70CvgQx_sWr_s4blIGO7e1_MnA8UfdzcDRR8sqsHKAL0FdAKF4WnS5YDxRSAkacAFAXrBoZ3z-OmTY-bNz9uWvu4ecXjpvWPG3ofzVxpC4xrSDg2gKjHze0gNVByweOm7RASLIeabiBCqx43z3vcPONxc9_jpkVgaSC3H2JU5-MmoCHdIInm1RAhoN6-x80Nj5t2P25eAjQEwoYYBdcOFgI7alcPpY5qXggyj2xHIbTDhChPJVCgAEp93okliSXFpbmlRZlWAZmJefkONQY11SB7FGwMzbTswCxsSVQBklKAKVpBw0Th6Yb-5-sbdODpShOLBqB1IMNqFEwVdIHQFEwbA3GNgmEcWAhIgVlGIKJGwRgiCqTAAmCpGggbBA2gdA3YWB_DGlA8gUWA0QRlg1ggTcDIgcg0bYeyQSywTNNqqMx-UEyA9YDkQXpWQW2IR7XJiB424Q_4XT3kBDw0QE3iFExBLDNIgILZwPiAioIVwYMZSGGJEqyB3wTxBDCxAvEMMKsP6vFFSB6fB5bph3q8EyoDCsZuMAukFiQDCSysgY_bpuaFUJkGimwikOo7yU314KAEEyAeNDjBoY4c9GAFYDY0uIGBD88j2NM9JDWBAgHkdZDndkM9twQsBgowNBmw90FRAglIWLCBZEAqcKV7MmwCRwpUjKBNtVxcunYKSMVStI9hrAK6kBFYSJkLAA)]
+- [主旋律 TMD 檔案](katatsumuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxuWv24af_j5pbHzQseN696v6fjxdwdzztnv9_TqaClxaVoq2BpxGVvq-DCZWOkb2IHMujFynnv98x6Nq39ZfOK53MawYY_m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdBAoSPWAQaoHClIgw8AQ6DglLn0tBaCtz2eve7Fq1bMZfVwKCgpPdqwFOuHF8sUv27tBzunvf7p-NcQ_L5p7Xkyc_mzdnmeti4DoeceaFwt7ns9qebZi8dO1Ex43NHFp6XOBzLSlFgA56Gnf_Gezd7zY3P5iRdeLjnagV4GB97R1BdCVQI893dD7rL1TIcDAyFAvqyD9_Z4eoOKXCxoVCvQUzIA8eFA8mzMfyFYwU3i5bBrQ70CvgQx_sWr_s4blIGO7e1_MnA8UfdzcDRR8sqsHKAL0FdAKF4WnS5YDxRSAkacAFAXrBoZ3z-OmTY-bNz9uWvu4ecXjpvWPG3ofzVxpC4xrSDg2gKjHze0gNVByweOm7RASLIeabiBCqx43z3vcPONxc9_jpkVgaSC3H2JU5-MmoCHdIInm1RAhoN6-x80Nj5t2P25eAjQEwoYYBdcOFgI7alcPpY5qXggyj2xHIbTDhChPJVCgAEp93okliSXFpbmlRZlWAZmJefkONQY11SB7FGwMzbTswCxsSVQBklKAKVpBw0Th6Yb-5-sbdODpShOLBqB1IMNqFEwVdIHQFEwbA3GNgmEcWAhIgVlGIKJGwRgiCqTAAmCpGggbBA2gdA3YWB_DGlA8gUWA0QRlg1ggTcDIgcg0bYeyQSywTNNqqMx-UEyA9YDkQXpWQW2IR7XJiB424Q_4XT3kBDw0QE3iFExBLDNIgILZwPiAioIVwYMZSGGJEqyB3wTxBDCxAvEMMKsP6vFFSB6fB5bph3q8EyoDCsZuMAukFiQDCSysgY_bpuaFUJkGimwikOo7yU314KAEEyAeNDjBoY4c9GAFYDY0uIGBD88j2NM9JDWBAgHkdZDndkM9twQsBgowNBmw90FRAglIWLCBZEAqcKV7MmwCRwpUjKBNtVxcunYKSMVSdKwCUECZCwA)]
 - [鋼琴伴奏 TMD 檔案](katatsumuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctPpx0_7HzS2Pmxc8bl71fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOKyt1Vw4bIx0jex46pTUHqxct77PbOeTWt_2bzi-ZxGJZDYs9mbMMRetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjoana3c83bnl-ZQVQJcZGRgZ6BkYmOkZWJiYAxkGhkDHKXFxeSeWJJYUl-aWFmVaBWQm5uUHeTjUGNRUcykAgY2hmZYdmKWvpWCLDhQgtrxY2KOgYaLwdEP_8_UNOgoBBkaGelkF6ZpYNGjpgw2rUTBV0AVCUzBtDMQ1CoZgEUMwbQQWAYmDZEE8kGgNmAWCBlC6Bmyaj2GNwuPmdrDI4-bNUDaIBdIDjBqITNN2KBvEAss0rYbK7AfKtID1gORBelZBbYhHtcmIHjbhD-9dPeSENyQsTcDhbQa2GTMGIKFrhBEDWMO7CeLux83zgHgGmNUH9esiJL_OA8v0Q_3aCZUBhVw3mAVSC5KBhA_W8MZtU_NCqEwDRTYRSN-d5KZvwzgYAeJBQhPEQk3zIBYknI3guQB7CoekG5DfQT4G-Wk31E9LwGKgcEKTAfsaFBOQ8IOFFkgGpAJXCifDJnBcQMUI2lSLpdjxQS52TKClDjBA4hWiDWOxMkzj44HhBHE3RNgEQz7aNB4qhqoS00gUhUAH6topILkx2geoEF3ICCykzAUA)]
 
 ## 分析
@@ -92,14 +89,14 @@ w: ツ ノ ダ セ | ヤ リ ダ セ | メ ダ マ ダ | セ
 ================================================================================
 📊 TMD Song Profile: [ カタツムリ（蝸牛） ]
 ================================================================================
-⏱  Duration:       0:31 (31.3s), 24 measures total
+⏱  Duration:       0:15 (15.7s), 12 measures total
 🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F#4 (MIDI 66) – B5 (MIDI 83) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  F#4 in [Katatsumuri[L1] #1 @ m.1, 0:00]
-   - 最高音: B5 in [Katatsumuri[L1] #1 @ m.5, 0:06]
+   - 最低音:  F#4 in [Katatsumuri[] #1 @ m.1, 0:00]
+   - 最高音: B5 in [Katatsumuri[] #1 @ m.5, 0:06]
    - 適合: soprano, tenor
-🏛  結構:      Katatsumuri[L1] (15.7s) -> Katatsumuri[L2] (15.7s)
+🏛  結構:      Katatsumuri[] (15.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -107,10 +104,9 @@ w: ツ ノ ダ セ | ヤ リ ダ セ | メ ダ マ ダ | セ
    - 核心骨幹音:  F#, A, D, E, B
    - 調性數值:    D 大調 [相關度: 0.81, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.81), F# 小調 (0.74), A 大調 (0.72)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Katatsumuri[L1] #1]: D 大調 (r: 0.81, 自然音純度: 100.0%)
-     • [Katatsumuri[L2] #1]: D 大調 (r: 0.81, 自然音純度: 100.0%)
+     • [Katatsumuri[] #1]: D 大調 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -137,7 +133,7 @@ w: ツ ノ ダ セ | ヤ リ ダ セ | メ ダ マ ダ | セ
      B  : ██                         2.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F#4 – B5 (17 個半音 / 1.4 個八度, 78 個音符)
+  - Piano         : F#4 – B5 (17 個半音 / 1.4 個八度, 39 個音符)
 ================================================================================
 ```
 

@@ -56,30 +56,25 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 c4 c4 | c4 A2 F2 | G2 G2 G2 G2 | G6 z2 |
-w: チン チン | デン シャ ガ | ウ ゴ キ ダ | ス
+w: 1.~チン チン | デン シャ ガ | ウ ゴ キ ダ | ス
+w: 2.~ミナ サン | デン シャ ガ | マ ガ リ マ | ス
 c4 c4 | A2 A2 c4 | A4 G2 A2 | c6 z2 |
-w: ゴウ ゴウ | マ チ ノ | マン ナ カ | ヲ
+w: 1.~ゴウ ゴウ | マ チ ノ | マン ナ カ | ヲ
+w: 2.~マ ガリ | マ ス カラ | ゴ ヨ ウ | ジン
 A3 A A2 A2 | G2 G2 A2 G2 | F4 C4 | C6 z2 |
-w: ハ シ ッ テ | ユ キ マ ス | チン ゴウ | ゴウ
+w: 1.~ハ シ ッ テ | ユ キ マ ス | チン ゴウ | ゴウ
+w: 2.~コ ロ バ ヌ | ヤ ウ ニ _ | ツリ カハ | ガ
 A3 A A2 A2 | G2 G2 A2 G2 | A2 A2 F2 G2 | A6 z2 |
-w: ゴ ジュ ン ニ | オ ツ メ ヲ | ネ ガ ヒ マ | ス
+w: 1.~ゴ ジュ ン ニ | オ ツ メ ヲ | ネ ガ ヒ マ | ス
+w: 2.~ア カ ナ イ | ヤ ウ ニ _ | ネ ガ ヒ マ | ス
 D4 D2 C2 | F2 F2 C4 | A4 F4 | F6 z2 |
-w: デン シャ ガ | ハ シ ル | チン ゴウ | ゴウ
-c4 c4 | c4 A2 F2 | G2 G2 G2 G2 | G6 z2 |
-w: ミナ サン | デン シャ ガ | マ ガ リ マ | ス
-c4 c4 | A2 A2 c4 | A4 G2 A2 | c6 z2 |
-w: マ ガリ | マ ス カラ | ゴ ヨ ウ | ジン
-A3 A A2 A2 | G2 G2 A2 G2 | F4 C4 | C6 z2 |
-w: コ ロ バ ヌ | ヤ ウ ニ _ | ツリ カハ | ガ
-A3 A A2 A2 | G2 G2 A2 G2 | A2 A2 F2 G2 | A6 z2 |
-w: ア カ ナ イ | ヤ ウ ニ _ | ネ ガ ヒ マ | ス
-D4 D2 C2 | F2 F2 C4 | A4 F4 | F6 z2 |
-w: デン シャ ガ | ハ シ ル | チン ゴウ | ゴウ
+w: 1.~デン シャ ガ | ハ シ ル | チン ゴウ | ゴウ
+w: 2.~デン シャ ガ | ハ シ ル | チン ゴウ | ゴウ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](densha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8bm5_3Lz5cdP2x81L3u_peDl794vdXe_3dCpoaXEp2ioYGphw2dsquHHZGOmb2IFMerFy3vs9s15MnP20b_6HZRs3g41_NnsTUPDphv5nc_e9aJj6Ys8UsPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6CpQuOoBw1UPFK5AhoEh0IVKXPpaCkCLn89e92LVqmcz-rgUFBSe7Fj7bFr7i-WLX7Z3A130rL__6frVEE-9WNjzcvnsxw2Nzzbtf9kw5dnM9S86N73oaH-ycwZQ9vmslhcdHU-Xrnvc0MSlpc8FNJwL6Aqux82NoPCBkoiwety05nHTssdNWx43rX3c3PC4aScXmAMRWva4eR5YT9_jhgYwG6i563HT6sfNm4BG9oPNaHnc3Pa4GagBaMA8oAFQS5BMgRi5A6QIZED346ZVYG0LgcY8bu4FuaF5EkQz0FRUx0EtAdqIYSrXk109QPXzwU7aisVjIBOBJNAyqNEofLA3VoI8BjSueQXYXKAbNwNdCzQJ6JkJj5t7wCYBnd0NDgCgm1eBtQEdtQaobhGYA7R9Cao6sr0EijHfxMw8q4DMxLx8hxqDmmpQclCwMTTTsgOzahRMFXTBEEYjRIyB2BAsYgQkkTFEBAYNQCJg03wMa4BZB-QMqBQKByQHcjpMDuTqxWDGGohs0zIwbwuYXAvW3gCV2YndPiOQmaAYg5sJijhi7WueB-cBYwJMgkSw24czuEDBBMKoIiAICiQQG6ELS3CBYwruRCQO3IHNjWCyD1kcOYhBngemHKjUJuxWgUMKZBzEHlC6RbcH7GlIMkZIgWMDYs8KsDTIeSBxUNrGsAoaSJAAMIYHDSIFgXiQFARKWeCAjIdbBmdiCabmfqjLtwPZzWD3tEEdD0k1kPSC8Ah6SkQLWmQulqBqgugDZlwgngBm9UANXQIPBmD-RBgIzs1wy0CZGskyUBIjO6RgcqAQQ4jgTE5QFwDjZynQVSB_QNwJkoQk8hYwuRBMgpILyPW9YE2QrDAJHpQEsl7TIph34ckQFDr4QokUe6BhZAZLFmAGOJFAkg8IIyUfWKjAUhYijWFLT_hLBlDkgdIayIGgnAVzPvkpil4W1nJx6dopgEr9aB_DWAU42wjMVuYCAA)]
+- [主旋律 TMD 檔案](densha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk8bm5_3Lz5cdP2x81L3u_peDl794vdXe_3dCpoaXEp2ioYGphw2dsquHHZGOmb2IFMerFy3vs9s15MnP20b_6HZRs3g41_NnsTUPDphv5nc_e9aJj6Ys8UsPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6CpQuOoBw1UPFK5AhoEh0IVKXPpaCkCLn89e92LVqmcz-rgUFBSe7Fj7bFr7i-WLX7Z3A130rL__6frVEE-9WNjzcvnsxw2Nzzbtf9kw5dnM9S86N73oaH-ycwZQ9vmslhcdHU-Xrnvc0MSlpc8FNJwL6Aqux82NoPCBkoiwety05nHTssdNWx43rX3c3PC4aScXmAMRWva4eR5YT9_jhgYwG6i563HT6sfNm4BG9oPNaHnc3Pa4GagBaMA8oAFQS5BMgRi5A6QIZED346ZVYG0LgcY8bu4FuaF5EkQz0FRUx0EtAdqIYSrXk109QPXzwU7aisVjIBOBJNAyqNEofLA3VoI8BjSueQXYXKAbNwNdCzQJ6JkJj5t7wCYBnd0NDgCgm1eBtQEdtQaobhGYA7R9Cao6sr0EijHfxMw8q4DMxLx8hxqDmmpQclCwMTTTsgOzahRMFXTBEEYjRIyB2BAsYgQkkTFEBAYNQCJg03wMa4BZB-QMqBQKByQHcjpMDuTqxWDGGohs0zIwbwuYXAvW3gCV2YndPiOQmaAYg5sJijhi7WueB-cBYwJMgkSw24czuEDBBMKoIiAICiQQG6ELS3CBYwruRCQO3IHNjWCyD1kcOYhBngemHKjUJuxWgUMKZBzEHlC6RbcH7GlIMkZIgWMDYs8KsDTIeSBxUNrGsAoaSJAAMIYHDSIFgXiQFARKWeCAjIdbBmdiCabmfqjLtwPZzWD3tEEdD0k1kPSC8Ah6SkQLWmQulqBqgugDZlwgngBm9UANXQIPBmD-RBgIzs1wy0CZGskyUBIjO6RgcqAQQ4jgTE5QFwDjZynQVSB_QNwJkoQk8hYwuRBMgpILyPW9YE2QrDAJHpQEsl7TIph34ckQFDr4QokUe6BhZAZLFmAGOJFAkg8IIyUfWKjAUhYijWFLT_hLBlDkgdIayIGgnAVzPvkpil4W1nJx6dopgEp9BSCtzAUA)]
 - [鋼琴伴奏 TMD 檔案](densha_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3P64efPjpu2Pm5e839PxuHnK46ZFj5v7nuzZ8nRp_5PdM97v6VTQ0uJStFUwNDDhsrdVcOOyMdI3seOqU1B6sXLe-z2zXkyc_bRv_odlGzcrgQSfzd4EFHy6of_Z3H0vGqa-2DMFLPyifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU92NDxdu-Ppzi3Pp6wAutDIwMhAz8DATM_AwsQcyDAwBLpQiYvLNzEzzyogMzEvP8jDocagpppLAQhsDM207MCsGgVTBV0whNEIEWMgNgSLGAFJZAwRgUEDkAjYNB_DGmDQNQKDDiqFwgHJgYIVJgcK3cVgxhqIbNMyMG8LmFwL1t4AldmJ3T4jkJnzHzd3wc3cSoJ9zfPgvMfNq8AkSAS7fTiDCxRMIIwqAoKgQAKxEbqwBFfTFoi_IU5E4sAd2NwIJvuQxZGDGOT5x02roVKbsFsFDimQcRB71kA8jGIP2NNAgx43r0RIgWMDYs8KsDTIeSDxHQgnYAQSJACM4UGDSEEgHiQFgVIWOCDj4ZbBmViCqbkf6vLtQHYz2D1tUMdDUg0kvSA8gp4S0YIWmYslqJog-h43rwXiCWBWD9TQJfBgeNzcjTCwuQURpOBAhDgYYhkoiZEdUjA5UIghRHAmJ6gLgPGzFOgqkD8g7gRJQhJ5C5hcCCZByQXk-l6wJkhWmAQPSgJZr2kRzLvwZAgKHXyhRIo90DAygyULMAOcSCDJB4SRkg8sVGApC5HGsKUn_CUDKPJAaQ3kQFDOgjmf_BRFLwtrkQt9H-RC3wJe5kcbxgLVQkgMnmk8mAuh4HyQ8RDfENAO4cF1g7l4NKPbhsUwknXjsdwErABMEuMPiF5gkOraKYBCNdoHJAxjG4HZylwA)]
 
 ## 分析
@@ -88,14 +83,14 @@ w: デン シャ ガ | ハ シ ル | チン ゴウ | ゴウ
 ================================================================================
 📊 TMD Song Profile: [ デンシヤ（電車） ]
 ================================================================================
-⏱  Duration:       0:46 (46.2s), 40 measures total
+⏱  Duration:       0:23 (23.1s), 20 measures total
 🎼 Key & Tempo:    首調基準 F, != 104.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  C4 in [Main[L1] #1 @ m.11, 0:12]
-   - 最高音: C5 in [Main[L1] #1 @ m.1, 0:00]
+   - 最低音:  C4 in [Main #1 @ m.11, 0:12]
+   - 最高音: C5 in [Main #1 @ m.1, 0:00]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main[L1] (23.1s) -> Main[L2] (23.1s)
+🏛  結構:      Main (23.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -103,10 +98,9 @@ w: デン シャ ガ | ハ シ ル | チン ゴウ | ゴウ
    - 核心骨幹音:  C, A, G, F, D
    - 調性數值:    A 調性不明確 [相關度: 0.78, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): A 小調 (0.78), C 大調 (0.76), F 大調 (0.68)
-   - 五度圈歷程:   +3 -> +3
+   - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [Main[L1] #1]: A 調性不明確 (r: 0.78, 自然音純度: 100.0%)
-     • [Main[L2] #1]: A 調性不明確 (r: 0.78, 自然音純度: 100.0%)
+     • [Main #1]: A 調性不明確 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -133,7 +127,7 @@ w: デン シャ ガ | ハ シ ル | チン ゴウ | ゴウ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 104 個音符)
+  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 52 個音符)
 ================================================================================
 ```
 

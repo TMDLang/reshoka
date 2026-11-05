@@ -66,22 +66,19 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 C2 F2 F2 F2 | A2 F2 F4 | c2 c2 A2 c2 | f2 g2 a4 |
-w: オ ツキ サ マ | エ ライ ナ | オ ヒ サマ ノ | キョウ ダイ デ
+w: 1.~オ ツキ サ マ | エ ライ ナ | オ ヒ サマ ノ | キョウ ダイ デ
+w: 2.~オ ツキ サ マ | ワ カイ ナ | イ ツモ トシ ヲ | トラ ナイ デ
 c2 c2 A2 F2 | G2 A2 G4 | A2 A2 G2 F2 | D2 F2 G4 |
-w: ミ カ ヅ キニ | ナッ タ リ | マン マ ル ニ | ナッ タ リ
+w: 1.~ミ カ ヅ キニ | ナッ タ リ | マン マ ル ニ | ナッ タ リ
+w: 2.~ク シノ ヤウ ニ | ナッ タ リ | カガ ミノ ヤウ ニ | ナッ タ リ
 c2 d2 c2 A2 | G2 A2 G2 F2 | D2 C2 F2 G2 | A2 G2 F4 |
-w: ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
-C2 F2 F2 F2 | A2 F2 F4 | c2 c2 A2 c2 | f2 g2 a4 |
-w: オ ツキ サ マ | ワ カイ ナ | イ ツモ トシ ヲ | トラ ナイ デ
-c2 c2 A2 F2 | G2 A2 G4 | A2 A2 G2 F2 | D2 F2 G4 |
-w: ク シノ ヤウ ニ | ナッ タ リ | カガ ミノ ヤウ ニ | ナッ タ リ
-c2 d2 c2 A2 | G2 A2 G2 F2 | D2 C2 F2 G2 | A2 G2 F4 |
-w: ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
+w: 1.~ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
+w: 2.~ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](otsukisama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5a9bi55XHT2sdNWx83z3u_p-PZnI4nu9Y9be14PmX--z2dClpaXIq2CpZGXPa2Cm5cNkb6JnYg416sBCqe9Xz-5qd9859O6nmyo_Nlcx_YomezN4FktvQ-62x4sW_FszULYTIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoBNBgawHDGQ9UCADGQaGQIcqcelrKQDtfj573YtVq57N6ONSUFB4smPts2ntL5YvftneDXTUk91LXyxb9bSj_fmslucrNj6duAdoF9DGp0vmPF-5C6gYKA7x_4uOdiDjaWvn44YmLi19LqDhXEBXcKGF1-OGhsdNKx43r3zctORxcxdEehJUrrkPpK55xeOmZY-bgeqAKtq5HjfPf9y0-nFzK1iuG2RAcxfYyP2Pm1cBpYH6NoNJoCIs0v1gid1QUSCjaRHYJKDI1MfNy4AqusESc8HGNAGFwNZvetzcBnbmTi6uJ7t6sPmjeT3IYTB_ACmgKYseN3c8btoO1t8B0g-0FuqPJqByoETf4-YlYBsw3QoybQ3Iv8iKqO0bUNz4JmbmWQVkJublO9QY1FSDIl7BxtBMyw7MqlEwjVfQVTBEwjUKxkg8EAQqApIgDJIB0TUKhnFAyghEGIMIsDKwiT6GNaCMA-RDwhDEaNoK5s4D6wSmCTAPlCzAjC64NTB9kyCaIDqAIQSVBPp9OdCLYDFQkgEz2lFtNyJke_N6sBgoMjFsh4iAohbMAMUumLEJqhUUyxBN2G1HDShIYBpBeSAaYg-IBxOBqDGDxQFcESIom-dD3Au2rhXMBuUNqIuASaMZLLYfLA_yONQz4LwC9zgwKYFJQvqQAhESTqBUDFYCSqNEGQEJ3DVgQVDyJk03UjiaIYUlajgihRo8-YLEIWELU4EekP1I4QCKdWBMQ90Ljm5IYmmeCiZBjgXpAeYwsDPBmQzMAOazpTDPwNJFG5gHThpNOzGDku4213Jx6dopgHJ-tI9hrAKcbQRmK3MBAA)]
+- [主旋律 TMD 檔案](otsukisama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5a9bi55XHT2sdNWx83z3u_p-PZnI4nu9Y9be14PmX--z2dClpaXIq2CpZGXPa2Cm5cNkb6JnYg416sBCqe9Xz-5qd9859O6nmyo_Nlcx_YomezN4FktvQ-62x4sW_FszULYTIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoBNBgawHDGQ9UCADGQaGQIcqcelrKQDtfj573YtVq57N6ONSUFB4smPts2ntL5YvftneDXTUk91LXyxb9bSj_fmslucrNj6duAdoF9DGp0vmPF-5C6gYKA7x_4uOdiDjaWvn44YmLi19LqDhXEBXcKGF1-OGhsdNKx43r3zctORxcxdEehJUrrkPpK55xeOmZY-bgeqAKtq5HjfPf9y0-nFzK1iuG2RAcxfYyP2Pm1cBpYH6NoNJoCIs0v1gid1QUSCjaRHYJKDI1MfNy4AqusESc8HGNAGFwNZvetzcBnbmTi6uJ7t6sPmjeT3IYTB_ACmgKYseN3c8btoO1t8B0g-0FuqPJqByoETf4-YlYBsw3QoybQ3Iv8iKqO0bUNz4JmbmWQVkJublO9QY1FSDIl7BxtBMyw7MqlEwjVfQVTBEwjUKxkg8EAQqApIgDJIB0TUKhnFAyghEGIMIsDKwiT6GNaCMA-RDwhDEaNoK5s4D6wSmCTAPlCzAjC64NTB9kyCaIDqAIQSVBPp9OdCLYDFQkgEz2lFtNyJke_N6sBgoMjFsh4iAohbMAMUumLEJqhUUyxBN2G1HDShIYBpBeSAaYg-IBxOBqDGDxQFcESIom-dD3Au2rhXMBuUNqIuASaMZLLYfLA_yONQz4LwC9zgwKYFJQvqQAhESTqBUDFYCSqNEGQEJ3DVgQVDyJk03UjiaIYUlajgihRo8-YLEIWELU4EekP1I4QCKdWBMQ90Ljm5IYmmeCiZBjgXpAeYwsDPBmQzMAOazpTDPwNJFG5gHThpNOzGDku4213Jx6dopgHK-ApBW5gIA)]
 - [鋼琴伴奏 TMD 檔案](otsukisama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpxc8vjprWPm7Y-bp73fk_H4-Ypj5sWPW7ue7Jny9Ol_U92z3i_p1NBS4tL0VbB0ojL3lbBjcvGSN_EjqtOQenFSqCWWc_nb37aN__ppJ4nOzpfNvcpgWSezd4EktnS-6yz4cW-Fc_WLITJvGjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4AONTIwMtAzMDDTM7AwMQcyDAyBDlXi4vJNzMyzCshMzMsP8nCoMaip5lIAAhtDMy07MKtGwTReQVfBEAnXKBgj8UAQqAhIgjBIBkTXKBjGASkjEGEMIsDKwCb6GNaAAhLIh4QliNG0FcydB9b5uGkFmLfycdMSMKMLbg1M3ySIJogOYOhDJdc-bl7-uGkZWKwBprsd1XYjQrY3rweLrcZmO0Sk5XHzIjCj43HTdjBjE1QrMD2shGjCbjtqQEEC0wjKA9EQe0A8mAhEjRksDuCKEEHZPB_iXrB1rWA2MBy6oS7qetzcDBbbD5YHeRzqmeZ5j5s3wz3-uBliACF9SIEICaftkOB_3LwEFvKErQYF7hqw4HySdSOFoxlSWKKGI1KowZMvSBwStjAV6AHZjxQOoFgHxjTUveDohiSW5qlgEuRYkJ5uqDOb58JCs-lx81KYZ2Dpog3MAyeNpp2YQUl3m2uRM74Pcsa3gOf7aMNYoFoISQIPu27TeDAXQmHImqDI4jUBTQtWWZD3dO0UQD6M9gEJwdhGYLYyFwA)]
 
 ## 分析
@@ -90,14 +87,14 @@ w: ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
 ================================================================================
 📊 TMD Song Profile: [ オツキサマ（月亮先生） ]
 ================================================================================
-⏱  Duration:       0:31 (31.3s), 24 measures total
+⏱  Duration:       0:15 (15.7s), 12 measures total
 🎼 Key & Tempo:    首調基準 F, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – A5 (MIDI 81) [跨度: 21 個半音 / 1.8 個八度, 難度: difficult]
-   - 最低音:  C4 in [Main[L1] #1 @ m.1, 0:00]
-   - 最高音: A5 in [Main[L1] #1 @ m.4, 0:04]
+   - 最低音:  C4 in [Main #1 @ m.1, 0:00]
+   - 最高音: A5 in [Main #1 @ m.4, 0:04]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main[L1] (15.7s) -> Main[L2] (15.7s)
+🏛  結構:      Main (15.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -105,10 +102,9 @@ w: ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
    - 核心骨幹音:  F, G, A, C, D
    - 調性數值:    F 大調 [相關度: 0.82, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): F 大調 (0.82), C 大調 (0.69), A 小調 (0.59)
-   - 五度圈歷程:   -1 -> -1
+   - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main[L1] #1]: F 大調 (r: 0.82, 自然音純度: 100.0%)
-     • [Main[L2] #1]: F 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [Main #1]: F 大調 (r: 0.82, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -135,7 +131,7 @@ w: ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – A5 (21 個半音 / 1.8 個八度, 86 個音符)
+  - Piano         : C4 – A5 (21 個半音 / 1.8 個八度, 43 個音符)
 ================================================================================
 ```
 

@@ -54,22 +54,18 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F3 C D2 F2 | G3 F G2 A2 | c3 A G2 F2 | G4 z2 z2 |
-w: フ ー タ リ | ナ ラ ン デ | ヘ イ タ イ | サン
+w: 1.~フ ー タ リ | ナ ラ ン デ | ヘ イ タ イ | サン
+w: 2.~マ ー ル デ | ヒ ト リ デ | ア ル ク ヨ | ダ
+w: 3.~ポ プ ラ モ | 一 レ ツ _ | ナ ラ ン デ | ル
 d3 c A2 c2 | d3 c A2 F2 | G3 A C2 D2 | F4 z2 z2 |
-w: ア ー カ イ | ボ ウ シ デ | オ サ ン ポ | ダ
-F3 C D2 F2 | G3 F G2 A2 | c3 A G2 F2 | G4 z2 z2 |
-w: マ ー ル デ | ヒ ト リ デ | ア ル ク ヨ | ダ
-d3 c A2 c2 | d3 c A2 F2 | G3 A C2 D2 | F4 z2 z2 |
-w: ア ー シ ガ | ア ッ テ ル | ム カ ウ ド | テ
-F3 C D2 F2 | G3 F G2 A2 | c3 A G2 F2 | G4 z2 z2 |
-w: ポ プ ラ モ | 一 レ ツ _ | ナ ラ ン デ | ル
-d3 c A2 c2 | d3 c A2 F2 | G3 A C2 D2 | F4 z2 z2 |
-w: ク ー モ ガ | ポ ッ カ リ | シ ロ イ ク | モ
+w: 1.~ア ー カ イ | ボ ウ シ デ | オ サ ン ポ | ダ
+w: 2.~ア ー シ ガ | ア ッ テ ル | ム カ ウ ド | テ
+w: 3.~ク ー モ ガ | ポ ッ カ リ | シ ロ イ ク | モ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](futari_no_heitaisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG6e-rhp_-PmVY-b-x43z3jctATEBZFbHzdvfr-n42nryqcN3U839D9t3fp-T6eClhaXoq2CoaERl72tghuXjZG-iR3I-Bcr573fM-tpz_SnffOfz9z7fHk32NZnszcBhZ91THg-ZcPzjk1PdnSChV-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3segyzvfrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoOtAwa0HDG49UHADGQaGQDcqcelrKQAtfj573YtVq57N6ONSUFB4smPts2ntL5YvftneDXJRf__T9auRPQc0-cXW7S8W9rxs2PS4ofHZ5N7n27e86Gh_smvS89k7Xs5c9WTPlscNTVxa-lxA87mAyrmQAq_rcfNKYIA9bm7HDEWux02LHjetBvGb5zxuWva4aTtIXdMqiPTj5rmPmxu4uJ7s6gGaOO9x82qwKZMeN3eAjQaqXAQSbFr_uHkFSCXYuO2Pm9aAJVoeN7eB9SwA27HscXMnUARo3I5OoHFAo6eDnbYI6ODHzWvA6pEduxpoHNBgoIlAOaDqFpApQGtBblwL9gJIFuxr38TMPKuAzMS8fIcag5pqUKgq2BiaadmBWTUKhgq6QGgar2AWD6RBvBoFI7CYIZg2BouYgkWMwSLIanQVDKC4Bmyej2ENKHWCZR4371EAhiiYtQqsB-gJqMxKIN4MZrVDZWZAZJqWwPQAWWAZcHBjt8wIpHEewrLm1ShGToLKdEAdAJdpWgSVWQ1krwezVkD1NGC3yRgkNxeqazrYAyAWyJwaYCqF6ALGFBC3QE3A712QS1HtgcaHGVjYFBzuoFBHFUEOe2NQrOlC4g0Wj1jjA-5dUHyAgwgWts1zIDJNy4B4O0oQgQIMJLMV7nSQ9_EEESgyUGwCm9e0BmoeTKYZiNvALJBLQOYtgNoEioxlYJlOqAxIHY7IAEcbLNpBZsNtgkcT0CaIb2GpD-wiEH8tNAQgpoD0QFyHbFMtF5eunQIo90T7GMYqwNlGSGxjMFuZCwA)]
+- [主旋律 TMD 檔案](futari_no_heitaisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6Yl5mbmVCpxaWkpPG6e-rhp_-PmVY-b-x43z3jctATEBZFbHzdvfr-n42nryqcN3U839D9t3fp-T6eClhaXoq2CoaERl72tghuXjZG-iR3I-Bcr573fM-tpz_SnffOfz9z7fHk32NZnszcBhZ91THg-ZcPzjk1PdnSChV-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3segyzvfrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoOtAwa0HDG49UHADGQaGQDcqcelrKQAtfj573YtVq57N6ONSUFB4smPts2ntL5YvftneDXJRf__T9auRPQc0-cXW7S8W9rxs2PS4ofHZ5N7n27e86Gh_smvS89k7Xs5c9WTPlscNTVxa-lxA87mAyrmQAq_rcfNKYIA9bm7HDEWux02LHjetBvGb5zxuWva4aTtIXdMqiPTj5rmPmxu4uJ7s6gGaOO9x82qwKZMeN3eAjQaqXAQSbFr_uHkFSCXYuO2Pm9aAJVoeN7eB9SwA27HscXMnUARo3I5OoHFAo6eDnbYI6ODHzWvA6pEduxpoHNBgoIlAOaDqFpApQGtBblwL9gJIFuxr38TMPKuAzMS8fIcag5pqUKgq2BiaadmBWTUKhgq6QGgar2AWD6RBvBoFI7CYIZg2BouYgkWMwSLIanQVDKC4Bmyej2ENKHWCZR4371EAhiiYtQqsB-gJqMxKIN4MZrVDZWZAZJqWwPQAWWAZcHBjt8wIpHEewrLm1ShGToLKdEAdAJdpWgSVWQ1krwezVkD1NGC3yRgkNxeqazrYAyAWyJwaYCqF6ALGFBC3QE3A712QS1HtgcaHGVjYFBzuoFBHFUEOe2NQrOlC4g0Wj1jjA-5dUHyAgwgWts1zIDJNy4B4O0oQgQIMJLMV7nSQ9_EEESgyUGwCm9e0BmoeTKYZiNvALJBLQOYtgNoEioxlYJlOqAxIHY7IAEcbLNpBZsNtgkcT0CaIb2GpD-wiEH8tNAQgpoD0QFyHbFMtF5eunQIo9ygAaWUuAA)]
 - [鋼琴伴奏 TMD 檔案](futari_no_heitaisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPPVx0_7HzaseN_c9bp7xuGkJiAsitz5u3vx-T8fj5imPmxYBZZ_s2fJ0af-T3TPe7-lU0NLiUrRVMDQ04rK3VXDjsjHSN7HjqlNQerFy3vs9s572TH_aN__5zL3Pl3crgYSfzd4EFH7WMeH5lA3POzY92dEJFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmic7Gp6u3fF055bnU1YA3WhkYGSgZ2BgpmdgYWIOZBgYAt2oxMXlm5iZZxWQmZiXH-ThUGNQU82lAAQ2hmZadmBWjYKhgi4QmsYrmMUDaRCvRsEILGYIpo3BIqZgEWOwCLIaXQUDKK4Bm-djWAMKULDM4-Y9CsCgBLNWgfU8bu6CyqwE4s1gVjtUZgZEpmkJTA-QBZYBRwN2y4xAGuchLGtejWLkJKhMB9QBcJmmRVCZ1UD2ejBrBVRPA3abjEFyc6G6poM9AGKBzKlRAMYFVGYNELdATcDvXZBLUe2BxocZWNgUHO6gUEcVQQ57Y1Cs6ULiDRaPWOMD7l1QfICDCBa2zXMgMk3LgHg7ShCBAgwksxXudJD38QQRKDJQbAKb17QGah5MphmI28AskEtA5i2A2gSKjGVgmU6oDEgdjsgARxss2kFmw22CRxPQJohvYakP7CIQfy00BCCmgPRAXIdsUy1y5vFBzjwW8LwTbRgLVBttAiKBPNN4MBcsCJeECMJlEd4ACoE1wtWj8qCGwbWDxeFO07VTALku2gckDGMbIbGNwWxlLgA)]
 
 ## 分析
@@ -78,14 +74,14 @@ w: ク ー モ ガ | ポ ッ カ リ | シ ロ イ ク | モ
 ================================================================================
 📊 TMD Song Profile: [ フタリノヘイタイサン（兩個小兵） ]
 ================================================================================
-⏱  Duration:       0:25 (25.7s), 24 measures total
+⏱  Duration:       0:08 (8.6s), 8 measures total
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Main[L1] #1 @ m.5, 0:04]
+   - 最低音:  C4 in [Main #1 @ m.1, 0:00]
+   - 最高音: D5 in [Main #1 @ m.5, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main[L1] (8.6s) -> Main[L2] (8.6s) -> Main[L3] (8.6s)
+🏛  結構:      Main (8.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -93,11 +89,9 @@ w: ク ー モ ガ | ポ ッ カ リ | シ ロ イ ク | モ
    - 核心骨幹音:  F, G, C, D, A
    - 調性數值:    F 大調 [相關度: 0.76, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): F 大調 (0.76), C 大調 (0.72), D 小調 (0.65)
-   - 五度圈歷程:   -1 -> -1 -> -1
+   - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main[L1] #1]: F 大調 (r: 0.76, 自然音純度: 100.0%)
-     • [Main[L2] #1]: F 大調 (r: 0.76, 自然音純度: 100.0%)
-     • [Main[L3] #1]: F 大調 (r: 0.76, 自然音純度: 100.0%)
+     • [Main #1]: F 大調 (r: 0.76, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -124,7 +118,7 @@ w: ク ー モ ガ | ポ ッ カ リ | シ ロ イ ク | モ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 78 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 26 個音符)
 ================================================================================
 ```
 

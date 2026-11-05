@@ -78,4 +78,4 @@ FueToTaiko:Piano@|0|{
     L4| ピー - ピー - | ドン - ドン - | ピー - ド ン | ドン - - _ |
 }
 
--> FueToTaiko[L1] -> FueToTaiko[L2] -> FueToTaiko[L3] -> FueToTaiko[L4] -> #
+-> FueToTaiko -> #

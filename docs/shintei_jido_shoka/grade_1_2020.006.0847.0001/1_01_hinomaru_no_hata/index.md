@@ -64,26 +64,22 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F4 F4 | G4 G4 | A4 A4 | G4 z4 |
-w: シ ロ | ヂ ニ | ア カ | ク
+w: 1.~シ ロ | ヂ ニ | ア カ | ク
+w: 2.~ア サ | ヒ ノ | ノ ボ | ル
 A4 A4 | c4 c4 | d4 d4 | c4 z4 |
-w: ヒ ノ | マ ル | ソ メ | テ
+w: 1.~ヒ ノ | マ ル | ソ メ | テ
+w: 2.~イ キ | ホ ヒ | ミ セ | テ
 d4 d4 | c4 c4 | A4 F4 | G4 z4 |
-w: ア ア | ウ ツ | ク シ | ヤ
+w: 1.~ア ア | ウ ツ | ク シ | ヤ
+w: 2.~ア ア | イ サ | マ シ | ヤ
 c4 c4 | A4 F4 | G4 A4 | F4 z4 |
-w: ニ ホ | ン ノ | ハ タ | ハ
-F4 F4 | G4 G4 | A4 A4 | G4 z4 |
-w: ア サ | ヒ ノ | ノ ボ | ル
-A4 A4 | c4 c4 | d4 d4 | c4 z4 |
-w: イ キ | ホ ヒ | ミ セ | テ
-d4 d4 | c4 c4 | A4 F4 | G4 z4 |
-w: ア ア | イ サ | マ シ | ヤ
-c4 c4 | A4 F4 | G4 A4 | F4 z4 |
-w: ニ ホ | ン ノ | ハ タ | ハ
+w: 1.~ニ ホ | ン ノ | ハ タ | ハ
+w: 2.~ニ ホ | ン ノ | ハ タ | ハ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hinomaru_no_hata.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqRCdGtpKTxunvS4ue9x87zHzavBjP7HTfvf7-l4Nn3pk53dT3bseDZ9-vs9nQpaWlyKtgqGBhZc9rYKblw2RvomdiBzX6yc937PrGfT2l82r3g-pxFs17PZmzDEXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFUB3gUJYDxjCeqAQBjIMDIGuU-LS11IA2vp89roXq1Y9m9HHpaCg8GTHWqATXixf_LK9G-Sc_v6n61cDvfVszpqnc7qB3no6Z8XLRSuAyl4ubnnWP-v9np6nO7Y9m9P5rGU2UMGLjvZnU9c8a-l_PqsF6Cqg6Y8bmri09LlAdtlSC4Ac-rRv_rPZO15sbn-xogtk69oeYKA-bV0BdD3Qw0839D5r71QIMDA008sqSAe6Eqj45YJGhQI9BaDfe-BB9GzOfCBbwVDh5bJpwDABehlk-ItV-581LAcZ2937YuZ8oOjj5hlAwSe7eoAiT9dOAFrhpvB0yXKgmAIwUhWAomDdwHjoedy06XHz5sdNax83r3jctP5xQy8XJGQbQNTjpu2Pm4FSTY-bux83LXrctBqoBiyBnKaa9j5uXvi4uQ2iA6gKiJY9bm4BmQcyYAlER_fj5tkgu2BJEEhC7NrVA9e5FWYwEM0Bmg2RWAJ2H1AzUG7-46bdaHYBpYH65hGyCyhBeWxCgQIolXhk5uXnJhaV-uV7JJYkWgVkJublO9QY1FSDrFKwMdGyAzOwJSYFSJy-WNijoGGh8HRD__P1DTrwFKCJRQPQQpBhNcDYNwSSRkBYo2AMhCC2AZxtCoQ1CmZACGIDxcG6fAxrQHEJDJi1QHFgfIKCCMRqWgTEq8Gs9QrxYLlJQNwHZs0DYojcXiBrIVisDaQKYqYRTP9WNH19QDwHzFoNMbNpCRBDbJ4NVglizQeK7UYyE39Y7eohJ6xg4QAKE2NouIHCClUEFG6GaGEF8tcisNuXAV3YAg0hUBiCXLwEGlbdYB-BWJvhvu8HqtoPZWGGFcRMUHhAQg0YxmSYWcvFpWungJr-on0MYxWwiBqBRZW5AA)]
+- [主旋律 TMD 檔案](hinomaru_no_hata.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqRCdGtpKTxunvS4ue9x87zHzavBjP7HTfvf7-l4Nn3pk53dT3bseDZ9-vs9nQpaWlyKtgqGBhZc9rYKblw2RvomdiBzX6yc937PrGfT2l82r3g-pxFs17PZmzDEXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7PmyY6Gp2t3PN255fmUFUB3gUJYDxjCeqAQBjIMDIGuU-LS11IA2vp89roXq1Y9m9HHpaCg8GTHWqATXixf_LK9G-Sc_v6n61cDvfVszpqnc7qB3no6Z8XLRSuAyl4ubnnWP-v9np6nO7Y9m9P5rGU2UMGLjvZnU9c8a-l_PqsF6Cqg6Y8bmri09LlAdtlSC4Ac-rRv_rPZO15sbn-xogtk69oeYKA-bV0BdD3Qw0839D5r71QIMDA008sqSAe6Eqj45YJGhQI9BaDfe-BB9GzOfCBbwVDh5bJpwDABehlk-ItV-581LAcZ2937YuZ8oOjj5hlAwSe7eoAiT9dOAFrhpvB0yXKgmAIwUhWAomDdwHjoedy06XHz5sdNax83r3jctP5xQy8XJGQbQNTjpu2Pm4FSTY-bux83LXrctBqoBiyBnKaa9j5uXvi4uQ2iA6gKiJY9bm4BmQcyYAlER_fj5tkgu2BJEEhC7NrVA9e5FWYwEM0Bmg2RWAJ2H1AzUG7-46bdaHYBpYH65hGyCyhBeWxCgQIolXhk5uXnJhaV-uV7JJYkWgVkJublO9QY1FSDrFKwMdGyAzOwJSYFSJy-WNijoGGh8HRD__P1DTrwFKCJRQPQQpBhNcDYNwSSRkBYo2AMhCC2AZxtCoQ1CmZACGIDxcG6fAxrQHEJDJi1QHFgfIKCCMRqWgTEq8Gs9QrxYLlJQNwHZs0DYojcXiBrIVisDaQKYqYRTP9WNH19QDwHzFoNMbNpCRBDbJ4NVglizQeK7UYyE39Y7eohJ6xg4QAKE2NouIHCClUEFG6GaGEF8tcisNuXAV3YAg0hUBiCXLwEGlbdYB-BWJvhvu8HqtoPZWGGFcRMUHhAQg0YxmSYWcvFpWungJr-FIAiylwA)]
 - [鋼琴伴奏 TMD 檔案](hinomaru_no_hata_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPOlxc9_j5nmPm1eDGf2Pm_a_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDSy47G0V3LhsjPRN7LjqFJRerJz3fs-sZ9PaXzaveD6nUQkk9mz2JgyxF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqPh6dodT3dueT5lBdBpRgZGBnoGBmZ6BhYm5kCGgSHQdUpcXB6Zefm5iUWlfvkeiSWJVgGZiXn5QR4ONQY11VwKQGBjomUHZuhrKdiiAwWIPS8W9ihoWCg83dD_fH2DjkKAgaGZXlZBuiYWDVr6YMNqFAyBsEbBCAhrFIyBEMQ2gLNNgbBGwQwIQWygOFiXj2GNwuOm7cDgXwsUf9zcBMTdIFbTIiBeDWatV4gHy00C4j4wax4QQ-T2AlkLwWJtIFUQM41g-rei6esD4jlg1mqImU1LgBhi82ywShBrPlBsN5KZ-MNqVw85YQULB1CYGEPDDRRWqCKgcDNECyuQvxaB3b4M6MIWaAiBwhDk4iXQsOoG-wjE2gz3fT9Q1X4oCzOsIGaCwgMSasAwJsPMWuzJzwdb8gP6LV4h2jAW5O14IMs0HsREEQMFCVwAzjABMkygIrDAQRVF04DbKFSLQYYBfaBrp4DqiWgfoGIsokZgUWUuAA)]
 
 ## 分析
@@ -92,14 +88,14 @@ w: ニ ホ | ン ノ | ハ タ | ハ
 ================================================================================
 📊 TMD Song Profile: [ ヒノマルノハタ（日之丸旗） ]
 ================================================================================
-⏱  Duration:       0:35 (35.6s), 32 measures total
+⏱  Duration:       0:17 (17.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [HinomaruNoHata[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [HinomaruNoHata[L1] #1 @ m.7, 0:06]
+   - 最低音:  F4 in [HinomaruNoHata #1 @ m.1, 0:00]
+   - 最高音: D5 in [HinomaruNoHata #1 @ m.7, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      HinomaruNoHata[L1] (17.8s) -> HinomaruNoHata[L2] (17.8s)
+🏛  結構:      HinomaruNoHata (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -107,10 +103,9 @@ w: ニ ホ | ン ノ | ハ タ | ハ
    - 核心骨幹音:  C, A, F, G, D
    - 調性數值:    F 調性不明確 [相關度: 0.77, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): F 大調 (0.77), C 大調 (0.76), A 小調 (0.73)
-   - 五度圈歷程:   -1 -> -1
+   - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [HinomaruNoHata[L1] #1]: F 調性不明確 (r: 0.77, 自然音純度: 100.0%)
-     • [HinomaruNoHata[L2] #1]: F 調性不明確 (r: 0.77, 自然音純度: 100.0%)
+     • [HinomaruNoHata #1]: F 調性不明確 (r: 0.77, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -137,7 +132,7 @@ w: ニ ホ | ン ノ | ハ タ | ハ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 56 個音符)
+  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 28 個音符)
 ================================================================================
 ```
 

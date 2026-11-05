@@ -62,26 +62,22 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F2 F2 G2 G2 | A2 A2 G2 G2 | c2 A2 G2 F2 | G2 A2 G2 z2 |
-w: ワ タ シ ノ | ガ ク カ ウ | ヨ イ ガ ク | カ ウ ヨ
+w: 1.~ワ タ シ ノ | ガ ク カ ウ | ヨ イ ガ ク | カ ウ ヨ
+w: 2.~ワ タ シ ノ | ト モ ダ チ | ヨ イ ト モ | ダ チ ヨ
 c2 c2 c2 A2 | d2 d2 c2 c2 | A2 A2 G2 G2 | F6 z2 |
-w: キョ ウ ジョ ウ | ヒ ロ イ _ | ニ ハ ヒ ロ | イ
+w: 1.~キョ ウ ジョ ウ | ヒ ロ イ _ | ニ ハ ヒ ロ | イ
+w: 2.~マ イ ニ チ | ナ カ ヨ ク | ゲ ン キ ヨ | ク
 D2 D2 C2 D2 | F2 A2 G2 F2 | G2 G2 F2 G2 | A6 z2 |
-w: カ ケ ヅ ヤ | ゴ ホ ン ヤ | イ ロ イ ロ | ナ
+w: 1.~カ ケ ヅ ヤ | ゴ ホ ン ヤ | イ ロ イ ロ | ナ
+w: 2.~ユ ウ ギ ヤ | ナ ニ カ _ | イ ロ イ ロ | ナ
 c2 c2 A2 c2 | d2 d2 c2 A2 | G2 G2 G2 A2 | G2 G2 F2 z2 |
-w: メ _ ヅ ラ | シ イ モ ノ | タ ク サ ン | ア ツ テ
-F2 F2 G2 G2 | A2 A2 G2 G2 | c2 A2 G2 F2 | G2 A2 G2 z2 |
-w: ワ タ シ ノ | ト モ ダ チ | ヨ イ ト モ | ダ チ ヨ
-c2 c2 c2 A2 | d2 d2 c2 c2 | A2 A2 G2 G2 | F6 z2 |
-w: マ イ ニ チ | ナ カ ヨ ク | ゲ ン キ ヨ | ク
-D2 D2 C2 D2 | F2 A2 G2 F2 | G2 G2 F2 G2 | A6 z2 |
-w: ユ ウ ギ ヤ | ナ ニ カ _ | イ ロ イ ロ | ナ
-c2 c2 A2 c2 | d2 d2 c2 A2 | G2 G2 G2 A2 | G2 G2 F2 z2 |
-w: オ _ モ シ | ロ イ コ ト | イ ツ ショ ニ | ヤ ツ テ
+w: 1.~メ _ ヅ ラ | シ イ モ ノ | タ ク サ ン | ア ツ テ
+w: 2.~オ _ モ シ | ロ イ コ ト | イ ツ ショ ニ | ヤ ツ テ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gakko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8LhpzeOm9Y-bVj9uWvZ-T8fTtTueLVj4fk-ngpYWl6KtgoUBl72tghuXjZG-iR3IqBcr573fM-v5_M1P--Y_3bn5yY7Ol819YEuezd4Ekpmy4dnciS9m9r2Y3g8WftG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsagK55unPL8ykrgC4Dha4eMHT1QKELZBgYAl2pxKWvpQC0-PnsdS9WrXo2o49LQUHhyY61z6a1v1i--GV7N9BFz_r7n65f_XTtyqdrJzzZ0QU083FDI5B8vn_Si472p5N6nk7oAXKB1r3Yuv35lPnPtux-PqvlWXPrs5nrHzc0cWnpcwFt4QLKcz1uBobU_sdN2x839z1uaEAOO6DcisdNS9BEgYJcj5vWguWWPW7aAWUAFTVPety8FqgBqK_7cXM_qhBI78bHza2PmyEGbnncPPtx82YgFyi3BKIKRII0dQFNWAhWuxLkMJDEIqDzgAqBDgU6YytII8gQoGjL4-Y2Lq4nu3owfNLcAdYGZDQi-QRJFOyT5nlg84EOboTYDXIpSPV6oHWbQBYB_QqSgAg1A70MROug3gAqB2ptWo3VD02rQFaB3AOWADkY6N8OiNoWsMQKsM1gLtAboGjxTczMswrITMzLd6gxqKkGRb6CjaGZlh2YVaNgqKALxkZQXKNgDCRBGCFiiiQCUlsDZsFEDEAiYNN8DGsUgKEG5AMDDkxuB5HNfWA9wEgHi0HkV4PJZRCZ5hVg3hIwiVAF0oNQB1GFZJsRXtuaO8C8RWCyAUw2YtqGpAokg1CHbBs0qEDBAMMgz9comAFJEIaJYgs8UIDBIFpQgVL9coT_QGkfwQU5ZxLYIWvhzgVBkHg3WLwfTCLUgEyEqUKzDRxU85C8DTEBFiBdYBlwUEMDBxb8m8Bim8FiYHeA5UEyIBWoNkGDySweFCogwhTOggQDZhqC8RApD1dQQdLBRrATWsEkyCMgmS1g3myEQ-EyEK8igg8eTGAP4womSFxAyHXI5kGCCRJ0YPdAo4Mke9DSEsjLkJSDnJYgqQsWQLDMhhpk6NluIdQaWPCshDoOnCmgzoJkBlh2hGQaSAbaCg8-kAxEXQuYbMMMoqZVcLvAKsF2gNyAFARNkKgAZS9EEIFNBJVT4GQODkmQNiRJJOtqubh07RRA5Ve0j2GsApxtBGYrcwEA)]
+- [主旋律 TMD 檔案](gakko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZlqrEpaWl8LhpzeOm9Y-bVj9uWvZ-T8fTtTueLVj4fk-ngpYWl6KtgoUBl72tghuXjZG-iR3IqBcr573fM-v5_M1P--Y_3bn5yY7Ol819YEuezd4Ekpmy4dnciS9m9r2Y3g8WftG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJzsagK55unPL8ykrgC4Dha4eMHT1QKELZBgYAl2pxKWvpQC0-PnsdS9WrXo2o49LQUHhyY61z6a1v1i--GV7N9BFz_r7n65f_XTtyqdrJzzZ0QU083FDI5B8vn_Si472p5N6nk7oAXKB1r3Yuv35lPnPtux-PqvlWXPrs5nrHzc0cWnpcwFt4QLKcz1uBobU_sdN2x839z1uaEAOO6DcisdNS9BEgYJcj5vWguWWPW7aAWUAFTVPety8FqgBqK_7cXM_qhBI78bHza2PmyEGbnncPPtx82YgFyi3BKIKRII0dQFNWAhWuxLkMJDEIqDzgAqBDgU6YytII8gQoGjL4-Y2Lq4nu3owfNLcAdYGZDQi-QRJFOyT5nlg84EOboTYDXIpSPV6oHWbQBYB_QqSgAg1A70MROug3gAqB2ptWo3VD02rQFaB3AOWADkY6N8OiNoWsMQKsM1gLtAboGjxTczMswrITMzLd6gxqKkGRb6CjaGZlh2YVaNgqKALxkZQXKNgDCRBGCFiiiQCUlsDZsFEDEAiYNN8DGsUgKEG5AMDDkxuB5HNfWA9wEgHi0HkV4PJZRCZ5hVg3hIwiVAF0oNQB1GFZJsRXtuaO8C8RWCyAUw2YtqGpAokg1CHbBs0qEDBAMMgz9comAFJEIaJYgs8UIDBIFpQgVL9coT_QGkfwQU5ZxLYIWvhzgVBkHg3WLwfTCLUgEyEqUKzDRxU85C8DTEBFiBdYBlwUEMDBxb8m8Bim8FiYHeA5UEyIBWoNkGDySweFCogwhTOggQDZhqC8RApD1dQQdLBRrATWsEkyCMgmS1g3myEQ-EyEK8igg8eTGAP4womSFxAyHXI5kGCCRJ0YPdAo4Mke9DSEsjLkJSDnJYgqQsWQLDMhhpk6NluIdQaWPCshDoOnCmgzoJkBlh2hGQaSAbaCg8-kAxEXQuYbMMMoqZVcLvAKsF2gNyAFARNkKgAZS9EEIFNBJVT4GQODkmQNiRJJOtqubh07RRA5ZcCkFbmAgA)]
 - [鋼琴伴奏 TMD 檔案](gakko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOZx0_rHTasfNy17v6fjcfOUx02LHjf3Pdmz5enS_ie7Z7zf06mgpcWlaKtgYcBlb6vgxmVjpG9ix1WnoPRi5bz3e2Y9n7_5ad_8pzs3P9nR-bK5Twkk82z2JpDMlA3P5k58MbPvxfR-sPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZ0fB07Y6nO7c8n7IC6EojAyMDPQMDMz0DCxNzIMPAEOhKJS4u38TMPKuAzMS8_CAPhxqDmmouBSCwMTTTsgOzahQMFXTB2AiKaxSMgSQII0RMkURAamvALJiIAUgEbJqPYY3C4-b1QP7jpv1gcjuIbO4D6wEGLFgMIr8aTC6DyDSvAPOWgEmEKpAehDqIKiTbjPDa1twB5i0Ckw1gshHTNiRVIBmEOmTboEEFCgYYBnm-RsEMSIIwTBRb4IECDAbRgqpp7ePm5Qj_Ne1A5oKcMwnskLVw54IgSLwbLN4PJhFqQCbCVKHZBg6qeUjehpgAC5AusAw4qKGBAwv-TWCxzWAxsDvA8iAZkApUm6DBZBYPChUQYQpnQYIBMw3BeIiUhyuoIOlgI9gJrWAS5BGQzBYwbzbCoXAZiFcRwQcPJrCHcQUTJC4g5Dpk8yDBBAk6sHug0UGSPWhpCeRlSMpBTkuQ1AULIFhmQw0y9Gy3EGoNLHhWQh0HzhRQZ0EyAyw7QjINJANthQcfSAairgVMtmEGUdMquF1glWA7QG5ACoImSFSAshciiMAmNm2HJnNwSIK0IUkiWVeLXHz5IBdfFvDSK9owFqg22jQeRBHkQhhgygDqH7giMAnkmaDwsJkHch9cM0Q5mMRrHw7t-OxG1w3lA6VBBgBDR9dOARRA0T4gHTC2EZitzAUA)]
 
 ## 分析
@@ -90,14 +86,14 @@ w: オ _ モ シ | ロ イ コ ト | イ ツ ショ ニ | ヤ ツ テ
 ================================================================================
 📊 TMD Song Profile: [ ガクカウ（學校） ]
 ================================================================================
-⏱  Duration:       0:48 (48.0s), 32 measures total
+⏱  Duration:       0:24 (24.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main[L1] #1 @ m.9, 0:12]
-   - 最高音: D5 in [Main[L1] #1 @ m.6, 0:07]
+   - 最低音:  C4 in [Main #1 @ m.9, 0:12]
+   - 最高音: D5 in [Main #1 @ m.6, 0:07]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main[L1] (24.0s) -> Main[L2] (24.0s)
+🏛  結構:      Main (24.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -105,10 +101,9 @@ w: オ _ モ シ | ロ イ コ ト | イ ツ ショ ニ | ヤ ツ テ
    - 核心骨幹音:  G, A, C, F, D
    - 調性數值:    C 大調 [相關度: 0.73, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.73), F 大調 (0.63), G 大調 (0.60)
-   - 五度圈歷程:   +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main[L1] #1]: C 大調 (r: 0.73, 自然音純度: 100.0%)
-     • [Main[L2] #1]: C 大調 (r: 0.73, 自然音純度: 100.0%)
+     • [Main #1]: C 大調 (r: 0.73, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -135,7 +130,7 @@ w: オ _ モ シ | ロ イ コ ト | イ ツ ショ ニ | ヤ ツ テ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 112 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 56 個音符)
 ================================================================================
 ```
 
