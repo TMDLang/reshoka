@@ -68,16 +68,24 @@ Q:1/4=112
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z2 C2 C2 D2 | E2 E D C2 z2 | !mp! z2 C2 C2 D2 | E2 E D C2 z2 |
-!mf! A,2 A,2 G,2 C2 | E2 D C D4 | E2 E E D2 G2 | E6 z2 |
-!f! A4 A2 G2 | E2 D C D2 z2 | C2 D E G2 E2 | D6 z2 |
-!mf! C2 C D E2 C2 | A2 A A G2 E2 | D2 D C A,2 D2 | C6 z2 |
+!mf! z2 c2 c2 d2 | c2 A G G2 z2 | !mp! z2 G2 G2 A2 | G2 E D C2 z2 |
+w: 1.~コ ナ ミ | ドン ブ リ コ | コ ナ ミ | ドン ブ リ コ
+w: 2.~こ な み | どん ぶ り こ | こ な み | どん ぶ り こ
+!mf! C3 C D2 E2 | G3 G A2 G2 | G3 G E2 D2 | C6 z2 |
+w: 1.~シ ロ ス ナ | ハ _ マ ノ | ホ シ ヅ キ | ヨ
+w: 2.~な _ み の | せ な か に | の せ ら れ | て
+!f! F4 F2 F2 | F2 E F G2 z2 | A3 G C2 D2 | E6 z2 |
+w: 1.~ト ホ イ | オ キ カ ラ | カ ズ シ レ | ズ
+w: 2.~ゆ め の | し ま か ら | う た ご ゑ | が
+!mf! C3 C D2 E2 | G3 G A2 G2 | G3 G E2 D2 | C6 z2 |
+w: 1.~ナ _ ミ ハ | ドン ブ リコ ト | ヨ セ テ ク | ル
+w: 2.~どん ぶ り こ | どん ぶ りこ と | き し を う | つ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](donburiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5YnlqQWKXFpaSk8blz5uGny48Ztj5u6HjdOVtDS4lK0VTA0NOKyt1Vw5rIx0jexA2l-NnvT-z2znuyd8Lih9dmcFS-6N77f0_9i5Tyg4Iul-182b382bw7Ylhftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9eseTp79tO1O57u3PJ8yor3ezpA4agHDEc9UDgCGQYm7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdBfQV09bVzyb1g50xdMNvc_aOxUCDCwM9LIK0t_v6QEqfrmgUaFAT8HUHMh92t_8oqEZ6N1ncycAPaFgZKDwctk0oFOBAQMy_sWq_c8aloMM7u59MXM-UPRx43qg4JNdPUCRp2snAC1xVni6ZDlQTAEY2ApAUaBukNaXDfOf7lr2rKf9-ZJdQH1AhY9mrrQFRg1IHqTgyY4GsA829D_bvAgoDYy_x42rHjfuBypAi1eQOphKLFLPZ-4F65_-uAlk-_MFTWDuTKBxQO6z_cDIBnLXP27cBzZ6HcS4ZzOA_gGK7wZqBCmb0wHmLn3cCDLk6ZI5IG4TUBDincYFYOkVQA1gU1qebQIGFFAE6AqQhseN3Y-bwEoVgMmy-3HjrOfzlz5u6gEyQIJglwOdgOJ4oHFQDU1Ag2Y_blz2ZF_b46ZuSPjs6kGED2kBAhZdBzYRGKBAt6yGuQss2NQJdtcysPFLQEqfbt6G6v62x43zHzdOedw08XEj2BkYLsfukaebdoADpRcSqI-bJoHNWgKSpTzFQ4GClj4Xl0t-XlJpUWZ2vlVAZmJevkONQY1CNdgRNoZmWnZgFjC3aQCTmSYwfDc_bu563Dxf4XFz5-NmIGfa4-ZVQFE8MvpAvbt6gHph6RKjtMEtA3QgyP4aBQMFXYXq3LRaBUMgA4SNgLhGwRhIGgPZIBGQEpjCAoIKYf563LT9cfPax007ga4HOr3_cfOex83zHjf3ATnAGAZKtj5uWgvkrAB6BORKoHzjfmBUAzmIZIGSIoCcZQiXg11tFg-0E0yYggiQKyBuArkI5EIQhLkS5E6gQrgIDKK6u7kD7MAlQB8Agxnog9WPm1cCOasfN-0Cu3sNkLML5OgmYFZohLh4OjDvQhIoStoEcnqQXAxyMNROEI1wCcy1kKCGhK4xWB4kWwP3CRbXApMGMGDnA0MYPYEAfQIK3sdNux83A126HshZDQ5r9ESCnlOAQqDsAckbQM4StECHpACQC2EhDvKNGRCiuhjkK3DcQJIKSCmqJ2q5uHTtFOAZRQHIUebiAgA)]
-- [鋼琴伴奏 TMD 檔案](donburiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuPJx0-THjdseN3U9bpz8fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDTisrdVcOayMdI3seOqU1B6NnvT-z2znuyd8Lih9dmcFS-6N77f0_9i5Tyg4Iul-182b382b44SSOGL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jydPfvp2h1Pd255PmUF0G1GBkYGegYGZnoGFibmQIaBCdB5SlxcLvl5SaVFmdn5VgGZiXn5QR4ONQY1CtVcCkBgY2imZQdm1SgYKOgqVOem1SoYAhkgbATENQrGQNIYyAaJgJTAFBYQVAg1F2ymWTxQBEyYggiQGogOkHqQfhCEmQEyBagQLgKDKKaCDIWKg2iEapiJEMdC3GcMlgfJ1sBtwzAR4XeQBpgjQYabASGqASBLwN6B-B2kFNXMWoyA90EJeAt4uFeDQjJeIdowFkYBzYPzDVB4WGShppjEAwVN4jFVmYIkTIESeERQTAJHLV7jsLkJbihUAR7PYZptBBIxis9FcRtIChKe4NDUtVOAB6gCkKPMxQUA)]
+- [主旋律 TMD 檔案](donburiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBH5YklqUVKXFpaCo8bVz5umvy4cdvjpq7HjZMVtLS4FG0VDA2NuOxtFZy5bIz0TexAmp_N3vR-z6wneyc8bmh9NmfFi-6N7_f0v1g5Dyj4Yun-l83bn82bA7blRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-y4v2eDlBg6wEDWw8U2ECGgcn7PZ1KXFz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAPdBfTV09YVz6a1A13xdEPvs_ZOhQADCwO9rIL093t6gIpfLmhUKNBTMDUHcp_2N79oaAZ699ncCUBPKBgZKLxcNg3oVGDAgIx_sWr_s4blIIO7e1_MnA8Ufdy4Hij4ZFcPUOTp2glAS5wVni5ZDhRTAAa2AlAUqBuk9WXD_Ke7lj3raX--ZBdQH1Dho5krbYFRA5IHKXiyowHsgw39zzYvAkoD4-9x46rHjfuBCtDiFaQOphKL1POZe8H6pz9uAtn-fEETmDsTaByQ-2w_MLKB3PWPG_eBjV4HMe7ZDKB_gOK7gRpByuZ0gLlLHzeCDHm6ZA6I2wQUhHincQFYegVQA9iUlmebgAEFFAG6AqThcWP34yawUgVgsux-3Djr-fylj5t6gAyQINjlQCegOB5oHFRDE9Cg2Y8blz3Z1_a4qRsSPrt6EOFDWoCARdeBTQQGKNAtq2HuAgs2dYLdtQxs_BKQ0qebt6G6v-1x4_zHjVMeN0183Ah2BobLsXvk6aYd4EDphQTq46ZJYLOWgGQpT_FQoKClz8Xlkp-XVFqUmZ1vFZCZmJfvUGNQUw12g42hmZYdmAXMbBrAVKYJDN7Nj5u7HjfPV6hReNzc-bgZyJ32uHkVUBwkgkdWH2jCrh6gCbDECVKDVuiARHDLAt0KckuNgoGCrkJ1blqtgmEckAUmjEBEDYRtpmAKhLpgZTDFBbVgIRA2AwuDWMYKRgqGMIVgs30MIRpADgaSzV1gcj5YB8RDYIFpQLwKqghhC6maIDYaQTUDPQgiV4HJ_RDN4AAAC2wDauyCKkKykURNsLh83LT9cfPax007QY4FObL_cfO8x819YDYwVQNlWx83rQVzVwBjDhIlwNQNNh-RF8BcREYAc5ch4gkSR0CLgZEEDGpQgMOCHhQVoIgAsREiIHmQOmBEgkUgEDV6gK4DiwI9AGTvhIc42BtQHUDfgMk-qPhsiChQJ9BjYNZaqMwK7PYAIwUSqmB94JAF-R4SvlDTgPLAUACzVkNlQCpA_NlAGzrB9vRAZZZhtQcUFc0d4CBfAs4-wJwCjJbVj5tXgrmrHzftAsfGGjB3FygqmoDFWiMsKqYDS2JIcQPmIsoaMLcHKSqAMWECtR9Eg3ANmDQGkojcAooTUEyAwh8SE6A4wRETzR3w8AaFCcgTYN82gdMjMIyBPgDKrYSbDuJDYmIXNB5BXoPI7MIdE01tMHuaGlFiYjqYtw8cD5AQh9rTCNEBDA4gngLWOREqA4oRHDEBKrlAiQij8AL5FJxaHjftftwMjID1YO5qcNbALMLQC3SwIKgchxTiYO4SWmcTcKaARA6oKIJkDqQCCV4kwYotUGQisgTQp0A2KBhBvoXIQCIPe2aBFjqIYgdWOmGThJVbIKvAYQOVnA6UnARmgSyGBBO6lbVcXLp2CvA6SwHIUeYCAA)]
+- [鋼琴伴奏 TMD 檔案](donburiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuPJx0-THjdseN3U9bpz8fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDTisrdVcOayMdI3seOqU1B6NnvT-z2znuyd8Lih9dmcFS-6N77f0_9i5Tyg4Iul-182b382b44SSOGL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jydPfvp2h1Pd255PmUF0G1GBkYGegYGZnoGFibmQIaBCdB5SlxcLvl5SaVFmdn5VgGZiXn5QR4ONQY11VwKQGBjaKZlB2bVKBgo6CpU56bVKhjGAVlgwghE1EDYZgqmQKgLVgZTXFALFgJhM7AwiGWsYKRgCFMINtvHEKLhcdNmENncBSbng3U8bu583AwRngbEq6CKELaQqglioxFUc-NkMLkKTO6HaAZHKlhgG1BjF1QRko0kaoKGHyTsgALAwAMGASggYEECCiJQAIHYCBGQPEgdMIDBIhCIGmyPm7aDRR83rwWyd8JDAhQG_VAdj5vngck-qPhsiChQ5-PmVjBrLVRmBXZ7gIEF8S1YH9jHjxvXQf0NNQ0o_7ixG8xaDZUBqQDxZwNt6ATb0wOVWYbVHmAQAUPIBCoOokG4BkwaA0lE6gKFFSiEQOECCSFQWOEIoeYOeDiA3Pq4aQnEFU3g-AP6_XHTaqDcSrjpID4khHZBw_dx8xqozC7cIdTUBrOnqRElhKaDefvA4QMJCag9jRAdjxvnA_EUsM6JUBlQSGENIZokInCSgQQRKANBkg5SNoJnJFhmAwUpIsE8btoNZIM887hpPVQGEoTYkxI0qyAyCyxPYZOE5TaQVSD5XqjkdKDkJDALZDFIBhSvqFbWYhRuPsiFmwW8bKsGllSG8QrRhrFgyjQ-FhRgQJYJkAWkDaBcqDxIFCIAUgmRh5oEVWUaD6HhAiboAqj2QAQQxoDLTrAekF1wBjAzwJhQVyHz8ZmH8CApTgPxIMEJDkxdOwV4eEb7gORQBIzAAspcAA)]
 
 ## 分析
 
@@ -88,21 +96,21 @@ V:V1 name="Piano" snm="Pia"
 ⏱  Duration:       0:17 (17.1s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    G3 (MIDI 55) – A4 (MIDI 69) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  G3 in [Donburiko #1 @ m.5, 0:04]
-   - 最高音: A4 in [Donburiko #1 @ m.9, 0:08]
-   - 適合: mezzo-soprano, contralto, tenor, baritone, bass
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Donburiko #1 @ m.4, 0:03]
+   - 最高音: D5 in [Donburiko #1 @ m.1, 0:00]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Donburiko (17.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, D, E, A, G
-   - 調性數值:    C 大調 [相關度: 0.70, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.70), A 小調 (0.66), G 大調 (0.55)
+   - 核心骨幹音:  G, C, E, D, F
+   - 調性數值:    C 大調 [相關度: 0.96, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.96), G 大調 (0.71), E 小調 (0.55)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Donburiko #1]: C 大調 (r: 0.70, 自然音純度: 100.0%)
+     • [Donburiko #1]: C 大調 (r: 0.96, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -115,21 +123,21 @@ V:V1 name="Piano" snm="Pia"
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  26.8%
+     C  : ███████████████████████   26.8%
      C# :                            0.0%
-     D  : ███████████████████████   25.9%
+     D  : ██████████                11.6%
      D# :                            0.0%
-     E  : ██████████████████████    24.1%
-     F  :                            0.0%
+     E  : ████████████              14.3%
+     F  : ████████                   9.8%
      F# :                            0.0%
-     G  : ████████                   8.9%
+     G  : ████████████████████████  28.6%
      G# :                            0.0%
-     A  : █████████████             14.3%
+     A  : ████████                   8.9%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : G3 – A4 (14 個半音 / 1.2 個八度, 57 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 52 個音符)
 ================================================================================
 ```
 

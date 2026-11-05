@@ -1,7 +1,7 @@
 ---
 title: "航海 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "航海"
-description: "〈航海〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（2020.006.0847.0004））（曲：山田耕作），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：碇（いかり）をあげて船出（ふなで）する あゝ航海（かうかい）のたのしさよ…"
+description: "〈航海〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（2020.006.0847.0004））（曲：山田耕作），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：碇をあげて船出する あゝ航海のたのしさよ…"
 keywords: "航海, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山田耕作"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（2020.006.0847.0004）"
@@ -23,6 +23,7 @@ audio: "kokai.mp3"
 
 原書資訊與歌詞全文（對應 P067.jpg，書頁 p. 44，參考教材第 10 首）：
 調性與拍號：は調二拍子（C 大調 2/4 拍，♩=96）
+航（かう）海（かい）
 
 ## 跨冊／重複收錄參照
 
@@ -35,28 +36,28 @@ audio: "kokai.mp3"
 
 ```text
 一
-碇（いかり）をあげて船出（ふなで）する
-あゝ航海（かうかい）のたのしさよ
-港（みなと）は後（あと）に消（き）えゆきて
-たゞ見る青（あを）い水（みづ）ばかり
+碇をあげて船出する
+あゝ航海のたのしさよ
+港は後に消えゆきて
+たゞ見る青い水ばかり
 
 二
-日（ひ）、水平（すゐへい）にあるときは
-たちまち海（うみ）は金（きん）となり
-月（つき）天心（てんしん）にかゞやけば
-たちまち海は銀（ぎん）となる
+日、水平にあるときは
+たちまち海は金となり
+月天心にかゞやけば
+たちまち海は銀となる
 
 三
-あゝ日と月を友（とも）として
-かけりて行（ゆ）くや千萬里（せんまんり）
-まだ見（み）ぬ國（くに）の有様（ありさま）も
+あゝ日と月を友として
+かけりて行くや千萬里
+まだ見ぬ國の有樣も
 目（ま）のあたり見るめづらしさ
 
 四
-かくて世界（せかい）の果（はて）までも
-御國（みくに）の旗（はた）はひるがへる
-あゝ海國（かいこく）の我民（わがたみ）よ
-進（すゝ）みて海をおそるるな
+かくて世界の果（はて）までも
+御國の旗はひるがへる
+あゝ海國の我民よ
+進みて海をおそるるな
 ```
 
 ## ABC
@@ -71,16 +72,24 @@ Q:1/4=96
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! G3 G G2 G2 | E2 E2 G2 z2 | D3 E F2 A2 | G4 z4 |
-!f! c3 c B2 A2 | G2 A2 G2 z2 | A2 B c E2 ^F2 | G4 z4 |
-!mp! F3 F F2 F2 | E2 F2 G2 z2 | A6 G2 | G2 F2 E2 z2 |
-!f! d3 d E2 B c | d2 B2 G4 | e2 c G A2 B d | c4 z4 |
+!mf! G3 G G2 E2 | D3 D D2 z2 | C3 D E2 G2 | A4 z4 |
+w: 1.~イ カ リ ヲ | ア ゲ テ | フ ナ デ ス | ル
+w: 2.~ひ _ す ゐ | へ い に | あ る と き | は
+!f! c3 d c2 A2 | G3 G E2 z2 | G2 A G E2 D2 | C4 z4 |
+w: 1.~ア ア カ ウ | カ イ ノ | タ ノ _ シ サ | ヨ
+w: 2.~た ち ま ち | う み は | き ん _ と な | り
+!mp! D3 D D2 D2 | E2 F2 G2 z2 | A6 A2 | G2 A2 c2 z2 |
+w: 1.~ミ ナ ト ハ | ア ト ニ | キ エ | ユ キ テ
+w: 2.~つ き て ん | し ん に | か が | や け ば
+!f! d3 c A2 G F | G4 c2 A2 | G2 A c d2 A G | c4 z4 |
+w: 1.~タ ダ ミ ル _ | ア ヲ イ | ミ ヅ _ バ カ _ | リ
+w: 2.~た ち ま ち _ | う み は | ぎ ん _ と な _ | る
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5YnlqQWoQsCdZSlAg3U0lJ40bHq2dbtClpaXIq2CpZmXPa2Cs5cNkb6JnYgPc9mb3q_Z9bTjRufT9nwomHqk71zwEa9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs3T2bOfrt3xdOeW51NWvN_TAQpBPWAI6oFCEMgwMHm_p1OJi0tfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqC7Xqyc97R1xbNp7UBXPN3Q-6y9UyHAwMxcL6sg_f2eHqDilwsaFQr0FEyALup52t_8oqEZ6N1ncycAPaFgaKDwctk0oFOBYQMy_sWq_c8aloMM7u59MXM-UPRx43qg4JNdPUCRp2snAC1xVni6ZDlQTAEYtApAUaCxj2autLU0AxrDBTLkyY4GEPV8EchJjxtbHjd2P27qAso-bpr0uLHpcSOQXPaiY-fT9l1gBVsfN6563LgcpKBx5uOmbpBmkLqmuZAoBSvqftzYBiZbwOrWPW6cDyanP26c-ripA6Tn2Y71YKX7weYBYwWobv3TfT1gQaC1EJHVz7Z1gEWADgdyOx43Ac3tBboIYu38x03zXiwDOrj75dxJUJ1NQAZQacuzDVtgFiwFi2yAeA3i6109YEdMB0oB1QBTW-fjhkaglqc7N4NFgF6b8LhxB8wHq8EmAz20Amz9epj1jQsfN-4DkjCPA123H-KVl-0TIQ5_3DQZLALUuQpkPcjaORBPLYH46-mSlU_3N4NFlgFVg4IJqgdoLdDJ8x43AaNlItAHWKwFWdXVANbch2pVNzR-OxFRBPQvUBZoPTCUnvZ3g3WteNzUBNMFjB9oyAK9OhHoWlDcLwTHSVMbWFE_0C1Pe5tfTFjzsh0SV7PBTt4HIsHpBqIf6LoFwJiBxABY55qncyDcfqC_IMni2ZzOZ8tnwOINaNlUoEZw0msCp8nZ68ByYCFQ8gEmC2CMd0Fi_HFTIzBmHzcBpUDJCuxZYD6HOx9ozbInO6Y9nwpzJlJ6fDZvDlhwPVANWATo3OVQW5_uWwhzKTDpIDl2-nSYHmBWA0UxMN2A00QPKKEg5wRgtMCMANn5uBEYQP1QUzomPtsAThlNQKOBOoGRCQ4fSK542QBMipDkNxesAeiEZaBYBmVGYADNBXscaOgqkGrKSykoUNDS5-LyBlY6mVYBmYl5-Q41BjUK1SArFGwMzbTswCxspaMCsFwCliDANKKgYaLwdEP_8_UNOvAiTROLBqBNUMM0gBo1rRQeNy0B4tUKj5tXAfEmhRogbxEQbwLy2hQMQPzmqUDcBcTtQPGdYBGQ-j1AWWTjdvWAjGsEadwDpGcCFU8AKW7cAcQtQLwaYlxjE1CmG0ivAOJesMh6VOOAns9Nq1UwVdAFQlMwDcI1CsZAEoRBPAOwiBFYjbGCCZA0A4tAdEHkQbAGnDRxB9-uHsqCDxRYIAwMkqZl4OADsYCB2twH8W_TfhAbHChN24F4KzgEgZ7HFYLzgXghKBODaVD4tAEx0BRgOEFCsBdozGRIMIMCcRXYGlAMoQYiMAwN48CBAKTMUUIIxEKEIohnDlIEClwTdbLCcUcnReHYDPQ1OJF1AHE_LBmCed3QcFwLSVlNK8ABuAwqAkqkWAIRGAGgYGoEKZsMDrTpYBYiGQKTIDgEe8CGgxLoRCDegJoMC2rBSQsYKmAahCHJEMRCDUAYhCRVEAlSA1ILVoM_-IBFJ2XJEJTIGqDBuBrkMVgIAvMjODWCRcDSrWB_N08AJVWYOCjzE5McoeqRUiRMpA8tTcLcAAlmtGRpBEmWQAoUPuCkB8zLIEFQMoUlPWBIg4SAkqbQJApUUgNL08hJs5aLS9dOAVyEKgAZylxcAA)]
-- [鋼琴伴奏 TMD 檔案](kokai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRserZ1u3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLMy57WwVnLhsjfRM7rjoFpWezN73fM-vpxo3Pp2x40TD1yd45SiDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5Onv207U7nu7c8nzKCqBDjAyMDPQMDMz0DCxMzIEMAxOgW5S4uLzzsxMzrQIyE_PygzwcagxqFKq5FIDAxtBMyw7M0tdSsEUHCkALnuxoeLGwR0HDROHphv7n6xt0FAIMzMz1sgrSNbFo0NIHGwY0PjetVsFUQRcITcE0CNcoGANJEAbxDMAiRmA1xgomQNIMLALRBZEHwRou_A7c1UOWA4HuM4wDWwCkzFFsB7EQLgTxzEGKQA43USfLjTs6yQvEglpwwADtBdMgDAlEEAvViTAICWgQCVIDUgtWg9-BwGREbiAaQQIRSIHsAgcUMFZBgqBAhQUU0NUgIaCkKTRAgUpqYDGAHJC1KKnVByW1WkATK1BjvEK0YSyMQuYbgHwfD-SaxpvHIrHQ1KCaYwKkTDDNMQPpNovPjVUwAjKMQAqgBkJMRphDhI0wS-BuRqhEcRLcBnSFcLORjMbtP2A46topgINSAchQ5uICAA)]
+- [主旋律 TMD 檔案](kokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBH5YklqUXogkBjy1KBtmppKbzoWPVs63YFLS0uRVsFSzMue1sFZy4bI30TO5CeZ7M3vd8z6-nGjc-nbHjRMPXJ3jlgo16073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5uns2U_X7ni6c8vzKSve7-kABbMeMJj1QMEMZBiYvN_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572rri2bR2oCuebuh91t6pEGBgZq6XVZD-fk8PUPHLBY0KBXoKJkAX9Tztb37R0Az07rO5E4CeUDA0UHi5bBrQqcCwARn_YtX-Zw3LQQZ3976YOR8o-rhxPVDwya4eoMjTtROAljgrPF2yHCimAAxaBaAo0NhHM1faWpoBjeECG9KxCqjscWP348Y2oBgwUmDcFpiSJzsaQNTzRe2PmyY9bmx63Agkl73o2Pm0fdfjxpmPm7pB0iCJprmQeH3cuO5x43wwOf1x49THTR0gFc92rAc68Om-nseNq59tA1rS8bip7XFjL9AwiAHzHzfNe7GsG2jgy7lAK1qebdjyuHEDyDFNXRCX7OoBGzR96eOGRqDs052bgWaBbQY6eAXYrPUwsxoXPm7cByTB7ln_sn0iWMUqkFkgM-Z0PF2y8un-ZrABQBvmPW5qedwIVLQBhwFdDTADuqHB0onwN8hJjSuAhgKD6Gk_xDFAr0M9BuRPBNoLCrWFQN_3A6162tv8YsKal-1gD4HtWQDyeuOap3OA5LpnczqfrVj8uKkJHPKz14EjZR8wRsCBCowCYFh1QcLqcVPj48alj5uAUqDABrsNmODhNvcDrX2yY9rzqUCb1z2bNwdsFDAmloFNA1q8HGrN030LoZZPBxoEVLEJHKxAbTtQ4hgYHlB1HROfbQB6DBy7Lxs2PW7cDzQWFFygdAL07lyw84BKV4FUUJ6poEBBS5-LyxtYkGZaBWQm5uU71BjUVINsULAxNNOyA7Ow5WUFYC4CJmZgHChomCg83dD_fH2DDjwDamLRALQIZFiNQnVuWq2CqYIuEJqCaWMgrlEwAosYgWkDsIghVAQkD1JXo2AGFoHIg2AN2EgfwxqFx01LwCKPm1YrPG5eBWI1bwLredy0CCqzCSjWBjf9cfNUiHhzFxC3g1XshMqsxm6PEVCuEWQqWF_jTLCeCRA9jTugoi1ADNIPtaWxCWp7N5C9AqyiFyqzHsMW_MG9q4es4AaGtmEcJCjjICxQMNbAowAUvBDHgkTMoCKgaIBFAfYAhwXrInCgg1jLoAEOCT5QlDxu7kMERdN-cHCDRB43bQeTW6EBDgoYXAE-HxqwC0F5G8qCBCAoMkH8_dDAhAU5KIAfN00Gy0GCHJQgQC7oIjHId3SSl8ILalHSMyQwQcFqAg5ymFNh6RkEEZECYoHjCawIEeLN0JAAJ9gOMKsf6i9QXMDEupFCfC2SBY-bQGEBMgcUTxA5pAyBFOLQrAQMR2AZBA9LkMx0pJBFTuQgO-H2NPZAbW8B8yaCyQ1we_CGOLC0JTeRA1M3yHpgyIEC0BQY1LA0Dg1O5BAGCoDVg5I7MJlDtGJP56BUCwqpBmgMQIoHRA6AFTWQIggWT4-bW8EkqHiA5AiQDCgdkpvOISkdRILSOkgckpOwpXNYfCDsqeXi0rVTAJf0CkCGMhcA)]
+- [鋼琴伴奏 TMD 檔案](kokai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRserZ1u3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLMy57WwVnLhsjfRM7rjoFpWezN73fM-vpxo3Pp2x40TD1yd45SiDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5Onv207U7nu7c8nzKCqBDjAyMDPQMDMz0DCxMzIEMAxOgW5S4uLzzsxMzrQIyE_PygzwcagxqqrkUgMDG0EzLDszS11KwRQcKQPOf7Gh4sbBHQcNE4emG_ufrG3QUAgzMzPWyCtI1sWjQ0gcbVqNQnZtWq2CqoAuEpmDaGIhrFIzAIkZg2gAsYggVAcmD1NUomIFFIPIgWAM20sewRuFx0xKwyOOm1QqPm1eBWM2bwHoeNy2CymwCirXBTX_cPBUi3twFxO1gFTuhMqux22MElGsEmQrW1zgTrGcCRE_jDqhoCxCD9ENtaWyC2t4NZK8Aq-iFyqzHsAV_cO_qISu4gaFtGAcJyjgICxSMNfAoAAUvxLEgETOoCCgaYFGAPcBhwboIHOgg1jJogEOCDxQlj5v7EEHRtB8c3CCRx03bweRWaICDAgZXgM-HBuxCIN4HZUECEBSZIP5-aGDCghwUwI-bJoPlIEEOShAgF3SRGOQ7OslL4QW1KOkZEpigYDUBBznMqbD0DIKISAGxwPEEVoQI8WZoSIATbAeY1Q_1FyguYGLdSCG-FsmCx02gsACZA4oniBxShkAKcWhWAobj40aIWlBYgmSmI4UsciIH2Qm3p7EHansLmDcRTG6A24M3xIFlFrmJHJi6QdYDQw4UgKbAoIalcWhwIocwUACsHpTcgckcohV7OgelWlBINUBjAFI8IHIArKiBFEGweHrc3AomQcUDJEeAZEDpkNx0DknpIBKU1kHikJyELZ3D4gNhTy1KQe-DXNBbQMt5YDjEK0QbxsIoYFjFA1mm8bFghgEWBSZAhkksiALKQg1BiIEoZD1IJsBNRpOHmoFiMZI6EAtqEDZrgAwUY4yAYka5sXAabhm643A6BxhsunYK4JCL9gEKIzhGYI4yFwA)]
 
 ## 分析
 
@@ -91,21 +100,21 @@ V:V1 name="Piano" snm="Pia"
 ⏱  Duration:       0:20 (20.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Kokai #1 @ m.3, 0:02]
-   - 最高音: E5 in [Kokai #1 @ m.15, 0:17]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Kokai #1 @ m.3, 0:02]
+   - 最高音: D5 in [Kokai #1 @ m.5, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Kokai (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 調性不明確（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, A, E, F, C
-   - 調性數值:    G 調性不明確 [相關度: 0.76, 穩定度: Ambiguous, 自然音純度: 87.0%]
-   - 候選調性 (K-S): G 大調 (0.76), C 大調 (0.74), E 小調 (0.64)
+   - 核心骨幹音:  G, D, A, C, E
+   - 調性數值:    G 調性不明確 [相關度: 0.78, 穩定度: Ambiguous, 自然音純度: 97.2%]
+   - 候選調性 (K-S): G 大調 (0.78), C 大調 (0.76), A 小調 (0.63)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Kokai #1]: G 調性不明確 (r: 0.76, 自然音純度: 87.0%, 調外音: F)
+     • [Kokai #1]: G 調性不明確 (r: 0.78, 自然音純度: 97.2%, 調外音: F)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -118,21 +127,21 @@ V:V1 name="Piano" snm="Pia"
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████                  10.2%
+     C  : ████████████████████      20.4%
      C# :                            0.0%
-     D  : ███████                    9.3%
+     D  : ████████████████████      21.3%
      D# :                            0.0%
-     E  : ███████████               13.9%
-     F  : ██████████                13.0%
-     F# : █                          1.9%
-     G  : ████████████████████████  30.6%
+     E  : █████████                  9.3%
+     F  : ███                        2.8%
+     F# :                            0.0%
+     G  : ████████████████████████  25.0%
      G# :                            0.0%
-     A  : ████████████              14.8%
+     A  : ████████████████████      21.3%
      A# :                            0.0%
-     B  : █████                      6.5%
+     B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 52 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 52 個音符)
 ================================================================================
 ```
 

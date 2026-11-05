@@ -23,8 +23,9 @@ audio: "samidare.mp3"
 ## 說明
 
 原書資訊與歌詞全文（對應 P064.jpg，書頁 p. 41，參考教材第 7 首）：
-調性與拍號：原曲變い調四拍子（譜面移調為 1 個升記號 e 小調／G 大調關係音階 4/4 拍）
+調性與拍號：原曲變い調四拍子（譜面移調為 1 個升記號 G 大調 4/4 拍）
 速度指示：しづかにわびしく
+作者署名：葛原蘢（詞）、小松耕輔（曲）
 
 ## 歌詞
 
@@ -51,19 +52,27 @@ C:曲：小松耕輔
 M:4/4
 L:1/16
 Q:1/4=76
-K:Em
+K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-B,6 E2 F4 E4 | A6 A2 B4 A4 | F4 A2 F2 E3 F A3 B | B12 z4 |
-!mf! e6 e2 f3 e B4 | A6 A2 B3 A F4 | E4 E2 F2 A4 F3 E | E12 z4 |
-E6 F2 A3 F E3 F | B3 d B4 A8 | F4 A2 B2 A4 B3 A | B12 z4 |
-B,6 E2 F4 E4 | A6 A2 B4 A4 | B6 d2 B4 A3 F | E12 z4 |
+B,6 D2 E4 D4 | G6 E2 A4 G4 | D6 E2 E2 D2 E2 G2 | A12 z4 |
+w: 1.~ア _ ヲ イ | タ ン ボ ノ | サ ミ ダ _ レ _ | ハ
+w: 2.~せ _ ど の | せ ん に ち | は な しゃ う _ _ | ぶ
+!mf! B6 d2 B2 A2 G4 | A6 B2 A2 G2 E4 | D6 E2 E2 D2 G2 E2 | D12 z4 |
+w: 1.~ヒャ ク ニ _ チ | コ コ ノ _ カ | フ リ マ _ シ _ | タ
+w: 2.~あ _ め _ の | ふ る ひ _ に | さ き ま _ し _ | た
+E6 E2 G2 E2 A2 G2 | B6 d2 d4 B4 | G6 G2 E2 D2 E2 G2 | A12 z4 |
+w: 1.~ノ キ バ _ ノ _ | ア マ ダ レ | ノ キ ス _ ズ _ | メ
+w: 2.~う み か _ ら _ | や ま か ら | さ み だ _ れ _ | の
+B,6 D2 E4 D4 | G6 G2 B4 A4 | B6 d2 B4 A4 | G12 z4 |
+w: 1.~デ ン シ ン | バ シ ラ モ | ヌ レ マ シ | タ
+w: 2.~あ _ め が | さ ん さ ん | ふ り ま し | た
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](samidare.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5anJgIZRejCxamJxfl5xUpcWloKjxunPm7c_7hxweOmHgUtLS5FWwVzMy57WwV3ruzUSlsF11wuGxN9EzuQES9Wznu_Z9aLibOf9s1_3Dj9ceOkx03dYMOfzd4ElHm6of_Z3H0vGqa-2DMFLPyifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU9nz366dsfTnVueT1nxfk8HKLD1gIGtBwpsIMPA5P2eTiUuLn0tBVtqAS4FBQWgv57N3vFic_uLFV0vOtqB7gJ6-WnrimfT2oGueLqh91l7p0KAgZmJXlZB-vs9PUDFLxc0KhToKZgYArlP-5tfNDQDvfts7gSgJxTMFV4umwZ0KTBoQKa_WLX_WcNykLndvS9mzgcFGMi-TS_WdT1ubAHKAn0NlHq6dgLQshdr57ycu-j58t1A8edNuxQMFZ4Cg6gX6LIZQL0KqQrAwAZKvd_T767wdMlyIPPl9DlP9je9nL_55aw-BWCUKQDNAloOsvllw_ynu5Y962l_vmQX0Fpw3C193Nj9uHH146b-x42bwSL9XCC1T3Y0gLXMnQR0xePGpsdNQEYn0IHPp2x4OqcZLDj_cdPkx417wOLrnuya8mxOx8vZoIhCTk1g2fUgs57P3Pds-tInO-cCSbCiTY-bmoH2gaxvXPi4EWgWEK0DOgio5-VMoKuBaraC9DcBQ2Yf2HHzwSG4G5hi1oOlgap7HzdugDgBZnkTUDVYBGQ_UPHL2Q1Iimc-bpr3uKkRFiazdz_Zv_DZ_I1gFcvBPpoOJjeAGcBYA9oPNHEN0CyEK8BBtKsH7JrmnmcdO8DaZz9uXAlxytPeZpgvZ4NNA3kRJNXQ8KJr44v-aS8mAbMKUHb948ZVYIuAIdH2uHEb3FkrQB6a2QvMWkCDQPobGp5C9UwF2wH0ClKYPNu6HSwHNAOYGoDS3UC3P90I9lZTCyxAQILIkQO0A25bz-OmrY-bN0PJhgaw5agBT3n2ggIFLX0uruDE3MyUxKJUq4DMxLx8hxqDGoVqkC0KNoZmWnZgFracrQDMU8DU-WJhj4KGCSj9P1_foAPPjppYNAAtgxqmAdSoaaXwuGmRwuPmPUC8CcheolADJPcDeZuBeA4Q94FFtgJZ84G4AaJ0DYTaA5Jr7ofq36NggGL8rh6Q8Y2zIdKNK4F4HUgDSKRpMpBeDcQLwSLrgXgVEEPjHm4gSG4bpvE1CsbxCrpwaAbimMNEwDwQrFEwQlIEYhsjsSEq4LpAQmAOVDuQDVFlDLINyRxkaAAzB5wHcMfQrh6KYqh50uPmxcAwA4ZSczckMBrBsQKMIxBu7gMLNq0GR8dUIAaGZfM8iOB2pLAERyyeqGqCSDc1QmIMElvAqG_qBtKbIIJgSxqBljT2AvE-iOB05AgDpROMCKvOTatVMEOONFAgQ1mw8MUVY0aIeKpBxC8i2mG6oKqAEkjKyI20HZ2URVofMNzWAukJkNAAxxEoDkDZbR4oK4HyETwTQVU37YTEwC7kDLYQf6wBs0sjMGKBBRpYayfMohZQ_IDEQYLw2AHFHEj1AojqHuSYW4ct5lACEim4gUxEXoHlEVOMPAaDaHkNpAymBBbJFGc0YGuBsjhrhxR8TdvBNCjsJ0B5wNKreRFYpAcab8A4BMuQlrOA7B5YPIALQQgNy2hd0Dibjj83Uav4Qw5vUwwV4HglIh_VcnHp2inAqjAFIFuZiwsA)]
-- [鋼琴伴奏 TMD 檔案](samidare_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPVx4_7HjQseN_W839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRXMzbjsbRXcubJTK20VXHO5bEz0Tey46hSUXqyc937PrBcTZz_tm_-4cfrjxkmPm7qVQDLPZm8Cyjzd0P9s7r4XDVNf7JkCFn7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmqezZz9du-Ppzi3Pp6wAOtXIwMhAz8DATM_AwsQcyDAwAbpWiYsrODE3MyWxKNUqIDMxLz_Iw6HGoEahmksBCGwMzbTswCx9LQVbdKAAtOPJjoYXC3sUNEwUgO5-vr5BRyHAwMxEL6sgXROLBi19sGE1CsbxCrpwaAbimMNEwDwQrFEwQlIEYhsjsSEq4LpAQmAOVDuQDVFlDLINyRxkaAAzhwu_H3f1kOPH6ty0WgUzZH-C3AVlwZyEy5NGCK_VIIIEEVIwXVBVQAkkZeT6c0cnOf5EsRbJcUAmIjJgkWCKEYkwiBaZIGUwJbAgoTgmgTliIFMrsutNMVSAQ4mIOKxFz7I-KFnWBJpjQWbFK0SbxefGIrGAzgQyjYAsGI0QQVYF9HK0MZAFpA2AdqIbCJPGZhxCFTYxEAubiQi1MLMxHYipBofz8PsX0wJM5wEDWddOARbOCkC2MhcXAA)]
+- [主旋律 TMD 檔案](samidare.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBH5amJQEYRunBxamJxfl6xEpeWlsLjxqmPG_c_blzwuKlHQUuLS9FWwdyMy95WwZ3LxkTfxA6k9cXKee_3zHoxcfbTvvmPG6c_bpz0uKkbbOiz2ZuAMk839D-bu-9Fw9QXe6aAhV-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5uns2U_X7ni6c8vzKSve7-kAxYQeMCb0QDEBZBiYvN_TqcTFpa-lYEstwKWgoAD017PZO15sbn-xoutFRzvQXUAvP21d8WxaO9AVTzf0PmvvVAgwMDPRyypIf7-nB6j45YJGhQI9BRNDIPdpf_OLhmagd5_NnQD0hIK5wstl04AuBQYNyPQXq_Y_a1gOMre798XM-aAAA9m36cW6rseNLUBZoK-BUk_XTgBa9mLtnJdzFz1fvhso_rxpl4KhwlNgEPUCXTYDqFfBXeHpkuVAKQVg3CgANQFtAVnxsmH-013LnvW0P1-yC2g-OJKWPm7sfty4-nFT_-PGzWCRfpDSJ3vnvGhofb5309MJQN3QWH0xYxHIblA8dz5uaESOUKA4OJY7ucC6dzSA7Zs7CSj-uLHpcROQ0Qn0xvMpG57OaQYLzn_cNPlx4x6w-Lonu6Y8m9PxcjYoOpHTGlh2Pcis5zP3PZu-9MnOuUASrGjT46ZmoGNBbm9c-LgRaBYQrQP6Bqjn5Uygo4FqtoL0NwHDbx_YZ_PB4bwbmK7Wg6WBqnsfN26AOAFmeRNQNVgEZD9Q8cvZDUiKZz5umve4qREWoLN3P9m_8Nn8jWAVy8E-mg4mN4AZwLgF2g80cQ3QLIQrwEG0qwfsmuaeZx07wNpnP25cCXHK095mmC9ng00DeREc5g0vuja-6J_2YhIwqIGy6x83rgJbBAyJtseN2-DOWgHy0MxeYAYEGgTS39DwFKpnKtgOoFeQwuTZ1u1gOaAZ-8HS3UC3P90I9lZTCyxAQILIkQO0A25bz-OmrY-bN0PJhgaw5agBT3kmhAIFLX0uruDE3MyUxKJUq4DMxLx8hxqDmmqQJQo2Flp2YAa23K8AzHfAtPliYY-ChokCMP0-X9-gA8-ymlg0AK0CGVajYByvoAuEpvEKZiAWkNYFihqCBYEiRkAKxKmByIDFgAii3BAoDFIAgwYghWBzfQxrFB43LYKKP27eBCKbloANety0Hyq6GYjngFl9UJmtUJn5QNwAZq2ByDT3Y7fHCCjXOBtmT-NKMLkOogcqDkxpQPZqsMxCqMx6qPpVQAxKZkCqDSwEktyGYRX-gN_VQ07AV-em1SoYQwIfSBtBgxkSnhA-OEYwQx4sARfGGvTNkx43L4b6fj2Q2w0Oy0ZoKG-GyoDCHxTyj5tAoQPSNhUa_sBwaZ4HltmOEmfYw78JFv5NIBsQ4Q-NzaZuIBucAsCxAJKB2tPYC8T7wKzpUJn5JAb-jk5yAh8csuAgBQcmKLCBWQEaGabgCEBkA7ASolI8ODRBPl4LZE8AhyQsZUPyAihU0VM2kp6mnWDWLqgMKLXiCnNIcgWWWUAMjt2mTqhNLVCZfegy8FAH6VkAlumByoBijIRQB1bZ1C5rDMFBDgpbREQgRCBqsId5OzRkgakZnFpBLEj4gWIAkoYfN4NLhmZQLIBkQP6GxAEl6RwWetBwBZczIDaIhZoDuohI57VcXLp2CrDyXwHIVuYCAA)]
+- [鋼琴伴奏 TMD 檔案](samidare_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPVx4_7HjQseN_W839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRXMzbjsbRXcuWxM9E3suOoUlF6snPd-z6wXE2c_7Zv_uHH648ZJj5u6lUAyz2ZvAso83dD_bO6-Fw1TX-yZAhZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqns2c_Xbvj6c4tz6esADrRyMDIQM_AwEzPwMLEHMgwMAG6UomLKzgxNzMlsSjVKiAzMS8_yMOhxqCmmksBCGwstOzADH0tBVt0oAC04cmOhhcLexQ0TBSArn6-vkFHIcDAzEQvqyBdE4sGLX2wYTUKxvEKukBoGq9gBmIBaV2gqCFYEChiBKRAnBqIDFgMiCDKDYHCIAUwaABSCDbXx7BG4XHTIqj44-ZNILJpCdigx037oaKbgXgOmNUHldkKlZkPxA1g1hqITHM_dnuMgHKNs2H2NK4Ek-sgeqDij5smA9mrwTILoTLroepXAfH0x03NQKoNLASS3IZhFf6A39VDTsBX56bVKhhDAh9IG0GDGRKeED44RjBDHiwBF8Ya9M2THjcvhvp-PZDbDQ7LRmgob4bKgMIfFPKPm0ChA9I2FRr-wHBpngeW2Y4SZ9jDvwkW_k0gGxDhD43Npm4gG5wCwLEAkoHa09gLxPvArOlQmfkkBv6OTnICHxyy4CAFByYosIFZARoZpuAIQGQDsBKiUjw4NEE-XgtkTwCHJCxlQ_ICKFTRUzaSnqadYNYuqAwoteIKc0hyBRZ7QAyO3aZOqE0tUJl96DLwUAfpWQCW6YHKgGKMhFAHlmbULmsMwUEOCltERCBEIGqwh3k7NGSBqRmcWkEsSPiBYgCShh83g0uGZlAsgGRA_obEASXpHBZ60HAFlzMgNoiFmgO6iEjntejFvw9y8W8CLf6BYRGvEG0YC6PgfNN4mACMBVcBFjCNh6gxgHoJWgKhmwZXawZimMXnopuILIRpJkIXsn4cTsawAtM8HDpBFEgxXgGQKcBA1bVTgIVrtA9QBoVvBOYrcwEA)]
 
 ## 分析
 
@@ -74,28 +83,28 @@ B,6 E2 F4 E4 | A6 A2 B4 A4 | B6 d2 B4 A3 F | E12 z4 |
 ⏱  Duration:       0:50 (50.5s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 76.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    B3 (MIDI 59) – F#5 (MIDI 78) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
+🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  B3 in [Samidare #1 @ m.1, 0:00]
-   - 最高音: F#5 in [Samidare #1 @ m.5, 0:14]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
+   - 最高音: D5 in [Samidare #1 @ m.5, 0:13]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Samidare (50.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       E 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  B, E, A, F#, D
-   - 調性數值:    E 大調 [相關度: 0.79, 穩定度: Moderate, 自然音純度: 98.8%]
-   - 候選調性 (K-S): E 大調 (0.79), A 大調 (0.68), E 小調 (0.56)
-   - 五度圈歷程:   +4
+   - 核心骨幹音:  G, D, A, B, E
+   - 調性數值:    G 大調 [相關度: 0.81, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.81), D 大調 (0.75), E 小調 (0.65)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Samidare #1]: E 大調 (r: 0.79, 自然音純度: 98.8%, 調外音: D)
+     • [Samidare #1]: G 大調 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
+         F           [G ]*
       Bb               D  
       Eb               A  
-         Ab          [E ]*
+         Ab           E  
             Db       B  
                F# 
      (* = active key center)
@@ -103,19 +112,19 @@ B,6 E2 F4 E4 | A6 A2 B4 A4 | B6 d2 B4 A3 F | E12 z4 |
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : █                          1.2%
+     D  : ███████████████████████   21.7%
      D# :                            0.0%
-     E  : █████████████████████     26.7%
+     E  : ██████████████████        16.7%
      F  :                            0.0%
-     F# : ████████████              15.0%
-     G  :                            0.0%
+     F# :                            0.0%
+     G  : ████████████████████████  22.5%
      G# :                            0.0%
-     A  : ████████████████████      26.2%
+     A  : █████████████████████     20.0%
      A# :                            0.0%
-     B  : ████████████████████████  30.8%
+     B  : ████████████████████      19.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – F#5 (19 個半音 / 1.6 個八度, 64 個音符)
+  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 62 個音符)
 ================================================================================
 ```
 

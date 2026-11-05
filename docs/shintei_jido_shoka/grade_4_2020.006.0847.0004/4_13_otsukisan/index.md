@@ -56,17 +56,22 @@ Q:1/4=108
 K:Em
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-e4 B2 B2 B4 B4 | c4 B2 A2 B4 z4 | E4 F2 G2 A4 E4 | B,12 z4 |
-!mf! E4 F4 G4 A4 | G4 A4 B4 B4 | c4 c4 B4 A4 | B12 z4 |
-e4 B2 B2 B4 B4 | c4 B2 A2 B4 z4 | !p! B4 A2 G2 A4 E4 | B,12 z4 |
-!mf! E4 B2 B2 F4 E4 | F4 B4 B4 B4 | c4 c4 B4 c4 | B12 z4 |
-B,4 E4 F4 G4 | F4 G4 A4 B4 | c4 c4 B4 B4 | e12 z4 |
+e4 B2 B2 B8 | B4 A2 G2 B4 z4 | E4 F2 G2 F4 E4 | B,12 z4 |
+w: お つ き さん | そ ら _ の | ひ と _ り た | び
+!mf! B,4 E4 F4 G4 | E4 F4 G4 A4 | B4 c4 c4 A4 | B12 z4 |
+w: お な か が | す い て は | あ る け ま | い
+e4 B2 B2 B8 | B4 A2 G2 B4 z4 | !p! E4 F2 G2 F4 E4 | B,12 z4 |
+w: お つ き さん | ま へ _ に | い わ _ し ぐ | も
+!mf! E4 B,2 B,2 B,8 | E4 F4 G4 A4 | B4 c4 c4 A4 | B12 z4 |
+w: お つ き さん | よ _ こ に | と び の う | を
+B,4 E4 F4 G4 | E4 F4 G4 A4 | B4 c4 c4 B4 | e12 z4 |
+w: お な か が | す い た ら | め し あ が | れ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](otsukisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG7sejan43Hj1MdNkxW0tLgUbRUMDSy47G0V3LmyUyttFVxzuWxM9E3sQEa8WDnv_Z5ZL5buf7p97tPuTrCxz2ZvAoo9m7Pm6cbWl1O3P9kxDSz8on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPZ89-unbH051bnk9Z8X5PByg89YDhqQcKTyDDwOT9HqDFXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0A90F9OzT1hXPprUDXfF0Q--z9k6FAANzQ72sgvT3e3qAil8uaFQo0FMwsQByn_Y3v2hoBnr32dwJQE8oGBorvFw2DehUYNiAjH-xav-zhuUgg7t7X8ycDxR93Lj7-fy1QHGgh4GCT9dOANqTqvB0Qz9QTAEY4gpAUaABIN0vG-Y_3bXsWU_78yW7QBGwBxhb659NXwkkuUDykEgE6n_cuORxI0gXJEKfrwQqBwrOfdwEdAhQcN3jhoYnOxqe7Nr1bHorWGrT48YVj5u6HjfOf9y4GWod0LgXrTvB0qseN3aDdfY8bpz5uLHlceOyx43rgaY8W7sSrKDpcRNEwcTHjfuAChDOgTjhaSfQOUA2UG4HWN1qoOaXG9a_BCUboHjL46b-x43THzdOeNzUhLAfrv_ZilUgdU1A7mSE_sWzwZpXQNwM9NfLtbPAIm2Pmyah-ALJ5fOBofC4qRFsWxNIvKkHpI7y9AMFClr6XFz-JcWl2ZnFiXlWAZmJefkONQY1CtUgaxRsLLTswAxsSVcBmGiAEfNiYY-ChgkoETxf36ADT2-aWDQALYMaBvQoEC8B4l4gnqoAysk1QNZcIKtT4XHzHiB7nYIBWGwTEK-AiDWBdM0Hi26GiACxAczcGgUzBV0FYzAE0bpAERMwywjMMwCLmMUDKfN4BUOgqC6EV6NgDKJgEKwOnEhx-3tXDwX-XgXE3UDcA_bJTCBuAeJlQLweLNIE9ClIfiIQ7wOLAOUxfVudm1YL944u0EO6YC_VwFmowQAJCpgaEIsUD-_opGpE7wPiHdCIXg2NaKAnm_qhYtOBeAJItAkYGORFdHVBLdS_FEU1sKyjps-bOqA-nAz2OcjfwMQNSs7ABA8sDMBqJuGPbpC_wVEO9RKYDQsKzAgH0aRH-K4pVE_h88G5G-TBRmgUAyMXoqapB5uXwXGFmsKhvkVO4qi-hYiAEgiqb2u5uHTtFOBlnQKQo8zFBQA)]
-- [鋼琴伴奏 TMD 檔案](otsukisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PVsTsfjxqmPmya_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDSy47G0V3LmyUyttFVxzuWxM9E3suOoUlF6snPd-z6wXS_c_3T73aXenEkjs2exNQLFnc9Y83dj6cur2JzumgYVftO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bp7NlP1-54unPL8ykrgK40MjAy0DMwMNMzsDAxBzIMTIAOVeLi8i8pLs3OLE7MswrITMzLD_JwqDGoUajmUgACGwstOzBDX0vBFh0oAO14sqPhxcIeBQ0Thacb-p-vb9BRCDAwN9TLKkjXxKJBSx9sWI2CmYKugjEYgmhdoIgJmGUE5hmARczigZR5vIIhUFQXwqtRMAZRMAhWx4Xffbt6yHFfdW5aLdwBukAn6IIdUQNnoToc4niYGhCLFCfu6KRVEFYX1ELdRVEgAhMSZYEIciU4IKEOALNhDscMRhBNejDumkKOI8FhgRrTUPchRzWq-yAioAhAdV8tRmbyQclMJtDMBErb8QrRZvG5sUisGgUjINMIyAK6yQBFEUwC7NxoY5gKDMMQ6gyBLEOwumhjsIAJkGVCvEk0chbMPRjuglKkOAunWVAj0PWBzAPGkK6dAjySFIAcZS4uAA)]
+- [主旋律 TMD 檔案](otsukisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBHeYklpUWpSlxaWgqPG7uezel43Dj1cdNkBS0tLkVbBUMDCy57WwV3ruzUSlsF11wuGxN9EzuQES9Wznu_Z9aLpfufbp_7tLsTbOyz2ZuAYs_mrHm6sfXl1O1PdkwDC79o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzdPZs5-u3fF055bnU1a839MBCnQ9YKDrgQIdyDAweb8HaDGXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AdwE9-7R1xbNp7UBXPN3Q-6y9UyHAwNxQL6sg_f2eHqDilwsaFQr0FEwsgNyn_c0vGpqB3n02dwLQEwqGxgovl00DOhUYNiDjX6za_6xhOcjg7t4XM-cDRR837n4-fy1QHOhhoODTtROA9qQqPN3QDxRTAIa4AlAUaABI98uG-U93LXvW0_58yS5QBOwBxtb6Z9NXAkkukDwkEoH6HzcuedwI0gWJ0OcrgcqBgnMfNwEdAhRc97ih4cmOhie7dj2b3gqW2vS4ccXjpq7HjfMfN26GWgc07kXrTrD0qseN3WCdPY8bZz5ubHncuOxx43qgKc_WrgQraHrcBFEw8XHjPqAChHMgTnjaCXQOkA2U2wFWtxqo-eWG9S9ByQYo3vK4qf9x4_THjRMeNzUh7Ifrf7ZiFUhdE5A7GaF_8Wyw5hUQNwP99XLtLLBI2-OmSSi-QHL5fGAoPG5qBNvWBBJv6gGpozz9QIGClj4Xl39JcWl2ZnFinlVAZmJevkONQU01yBYFGwstOzADW8pVAKYZYLy8WNijoGECSgPP1zfowJObJhYNQLughgH9CcRLgLgXiMH5uAbImKsA9K6CLpC1TsEALLIJiFeARJpAGuaDxTYD5aBG1SiYASWNwVAXDGvALCMFQzBtABYxiwdS5vFAMSChC-EC1YEoGAQrBBvpA7KiC-wIFPfBjAe5EuQemDthloDcChKBuRbEng-V2YxhE_5Q3dVDQaiuAuJuIO4BWz0TiFuAeBkQrweLNAGdB5KfCMT7wCItyAFanZtWCwkbWLDpAgMOORghfCN4YJtAMUIEb6iuApPdYLIHGkAzwbwWMLkMTK6HyjSBgxOieiKY3AeVAakmJVB3dFIzqe4D4h1g96yGJlVgKDf1g0WmA_EEkFhTE6lJtbqgltrJFRReCLcikis4tOEuBpETIDJAV5MUssDKgIoh29QBdstksGtB7lwBzkCgrAYsKsEqJmGkV3AYAUMIgmB-p1KCxR6uYHeCIMitsLCFuBfEA2V5SPEAcjVExyTSwvXJrilULwbmg0sukGMaoQkVWBxA1DT1IAcrWSUAiA1J5xSVAKBiE1LAQhyKSKHg0gCmB-hgdItqubh07RTg9ZkCkKPMBQA)]
+- [鋼琴伴奏 TMD 檔案](otsukisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PVsTsfjxqmPmya_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDSy47G0V3LmyUyttFVxzuWxM9E3suOoUlF6snPd-z6wXS_c_3T73aXenEkjs2exNQLFnc9Y83dj6cur2JzumgYVftO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bp7NlP1-54unPL8ykrgK40MjAy0DMwMNMzsDAxBzIMTIAOVeLi8i8pLs3OLE7MswrITMzLD_JwqDGoqeZSAAIbCy07MENfS8EWHSgArXiyo-HFwh4FDROFpxv6n69v0FEIMDA31MsqSNfEokFLH2xYjYKZgq6CMRjqgmENmGWkYAimDcAiZvFAyjweKAYkdCFcoDoQBYNghWAjfWpAcQLkPm5cAsS9QAyKG7jxjxvngiSbOsFK1sEtedy4CSyyAiwLMWA-VGYzhk34g2JXDzlBUZ2bVgvxFczDukAvIwcAhG8EDyYTKEaI4A2PVWCyG0z2QL02E8xrAZPLwOR6qEwTOCAgqieCyX1QGZBqUoJjRyetUkZ1QS21UwfIk48bd4DJ1XCLoEHU1A8Wnw4mJ0BkmkABRUJwAPMi2akD7Dmg1yAI5mgqJQ_sAdLUAWU_bgSJQgIFpAmcUcBZA5KNHje2QXVMIi1AnuyaQk6AkJVTQGxI0qIop4AKBkgRAvJvI1gMkijAuQampwlEo1pUi1HK-iCXsibQUhbkk3iFaLP43FgkFrIo0PsGUAEgM9oYKARTBObDVGAYBxQ2jEfoBLKjjRBmm8QqGMFF8BtEZXehG0eR24jyJFA7ugNAZgGjSNdOAR5LCkCOMhcA)]
 
 ## 分析
 
@@ -83,42 +88,42 @@ B,4 E4 F4 G4 | F4 G4 A4 B4 | c4 c4 B4 B4 | e12 z4 |
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Otsukisan (44.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       B 調性不明確（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       E 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  B, E, C, A, F#
-   - 調性數值:    B 調性不明確 [相關度: 0.63, 穩定度: Ambiguous, 自然音純度: 87.7%]
-   - 候選調性 (K-S): B 小調 (0.63), B 大調 (0.62), E 小調 (0.58)
-   - 五度圈歷程:   +5
+   - 核心骨幹音:  B, E, F#, G, C
+   - 調性數值:    E 調性不明確 [相關度: 0.68, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): E 小調 (0.68), B 大調 (0.67), B 小調 (0.66)
+   - 五度圈歷程:   +4
    - 各段落調性細節:
-     • [Otsukisan #1]: B 調性不明確 (r: 0.63, 自然音純度: 87.7%, 調外音: C)
+     • [Otsukisan #1]: E 調性不明確 (r: 0.68, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
       Bb               D  
       Eb               A  
-         Ab           E  
-            Db      [B ]*
+         Ab          [E ]*
+            Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████                    12.3%
+     C  : █████                      8.2%
      C# :                            0.0%
      D  :                            0.0%
      D# :                            0.0%
-     E  : ████████                  16.4%
+     E  : ████████████              20.5%
      F  :                            0.0%
-     F# : ████                       7.5%
-     G  : ████                       6.8%
+     F# : ██████                    11.0%
+     G  : █████                      9.6%
      G# :                            0.0%
-     A  : █████                     10.3%
+     A  : █████                      8.2%
      A# :                            0.0%
-     B  : ████████████████████████  46.6%
+     B  : ████████████████████████  42.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – E5 (17 個半音 / 1.4 個八度, 70 個音符)
+  - Piano         : B3 – E5 (17 個半音 / 1.4 個八度, 67 個音符)
 ================================================================================
 ```
 

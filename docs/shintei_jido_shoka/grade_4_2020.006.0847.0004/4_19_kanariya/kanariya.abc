@@ -4,20 +4,34 @@ C:曲：成田爲三／詞：西條八十
 M:2/4
 L:1/16
 Q:1/4=80
-K:Am
+K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mp! A, C D2 E2 D2 | A,3 A, A,2 E,2 | F,2 E,2 F,2 A,2 | E,4 z4 |
-A,2 A,2 A,2 C2 | D3 E D2 C2 | A,2 C2 A,2 E2 | D4 z4 |
-E2 E2 D2 E2 | C2 D2 C4 | A,2 F,2 E,2 A,2 | A,4 z4 |
-A, C D2 E2 D2 | A,3 A, A,2 E,2 | F,2 E,2 F,2 A,2 | E,4 z4 |
-A,2 A,2 A,2 C2 | D3 E D2 C2 | A,2 C2 A,2 E2 | D4 z4 |
-E2 E2 D2 E2 | C2 D2 C4 | A,2 F,2 E,2 A,2 | A,4 z4 |
-A, C D2 E2 D2 | A,3 A, A,2 E,2 | F,2 E,2 F,2 A,2 | E,4 z4 |
-A,2 A,2 A,2 C2 | D3 E D2 C2 | A,2 C2 A,2 E2 | D4 z4 |
-E2 E2 D2 E2 | C2 D2 C4 | C2 A,2 F,2 E,2 | [M:3/8] [Q:1/8=240] D,4 z2 |
-z6 | A, C D2 E2 | A,2 A,2 E,2 | F,2 A,2 D2 |
-E4 z2 | E, F, A,2 A,2 | F, A, D2 D2 | A, A, F,2 E,2 |
-D,4 z2 | D2 E2 D2 | C2 A,2 C2 | [Q:1/8=200] A,2 F,2 A,2 |
-[Q:1/8=170] E4 z2 | [Q:1/8=240] A,2 A,2 A,2 | D C A,2 C2 | A, C F,2 E,2 |
-A,4 z2 |
+!mp! E3 G A2 G2 | C3 C C2 C2 | D2 D2 E2 G2 | E4 z4 |
+w: ウ _ タ ヲ | ワ ス レ タ | カ ナ リ ヤ | ハ
+A2 A2 G2 A2 | c2 d2 e2 e2 | G2 G2 A2 c2 | A4 z4 |
+w: ウ シ ロ ノ | ヤ _ マ ニ | ス テ マ ショ | カ
+c2 e2 d2 e2 | G2 G2 G4 | E2 E2 G2 A2 | G4 z4 |
+w: イ エ イ エ | ソ レ ハ | ナ リ マ セ | ヌ
+E3 G A2 G2 | C3 C C2 C2 | D2 D2 E2 G2 | E4 z4 |
+w: う _ た を | わ す れ た | か な り や | は
+A2 A2 G2 A2 | c2 d2 e2 e2 | G2 G2 A2 c2 | A4 z4 |
+w: せ _ ど の | こ や ぶ に | う め ま しょ | か
+c2 e2 d2 e2 | G2 G2 G4 | E2 E2 G2 A2 | G4 z4 |
+w: い え い え | そ れ も | な り ま せ | ぬ
+E3 G A2 G2 | C3 C C2 C2 | D2 D2 E2 G2 | E4 z4 |
+w: ウ _ タ ヲ | ワ ス レ タ | カ ナ リ ヤ | ハ
+A2 A2 G2 A2 | c2 d2 e2 e2 | G2 G2 A2 c2 | A4 z4 |
+w: ヤ ナ ギ ノ | ム _ チ デ | ブ チ マ ショ | カ
+c2 e2 d2 e2 | G2 G2 G4 | E2 E2 D2 G2 | [M:3/8] [Q:1/8=240] C4 z2 |
+w: イ エ イ エ | ソ レ ハ | カ ハ イ サ | ウ
+z6 | A G c2 A2 | A G E2 G2 | A c d2 e2 |
+w: ウ _ タ ヲ | ワ ス レ タ | カ ナ リ ヤ
+G4 z2 | C D E2 G2 | A G c2 E2 | G G E2 E2 |
+w: ハ | ザ ウ ゲ ノ | フ _ ネ ニ | ギ ン ノ カ
+C4 z2 | c d e2 e2 | A2 G2 G2 | [Q:1/8=200] A A c2 d2 |
+w: イ | ツ キ ヨ ノ | ウ ミ ニ | ウ カ ベ レ
+[Q:1/8=170] e2 e2 z2 | [Q:1/8=240] A A G2 A2 | c A G2 E2 | G G E2 E2 |
+w: バ _ | ワ ス レ タ | ウ _ タ ヲ | オ モ ヒ ダ
+C4 z2 |
+w: ス

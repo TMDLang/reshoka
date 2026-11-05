@@ -61,18 +61,24 @@ Q:1/4=104
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! C4 C3 D F4 G4 | A4 c3 d c8 | d3 c A3 c G4 F3 G | A4 G4 C8 |
-C4 C3 D F4 G4 | A4 c3 d c8 | d3 c A3 c G4 F3 G | G4 A4 F8 |
-c4 A4 G4/3 A4/3 G4/3 F4 | D4 F3 G F4 C4 | D4 F3 F G4 c3 A | G4 c4 c8 |
-d4 d3 d c4 A4 | G4 A3 G F8 | D4 D3 D C4 F3 G | A4 G4 F8 |
-!f! d3 d A3 c d3 c A4 | c4 d4 c8 | A3 G F4 G3 A c3 A | G4 A4 c8 |
-d3 d A3 c d3 c A4 | c4 d4 c8 | A3 G F4 G3 A c3 A | G4 A4 F8 |
+!mf! C4 F3 F F4 G4 | A4 G3 F c8 | A4 c3 c G4 A3 A | F4 G4 C8 |
+w: ワ ガ キ ミ ノ | タ メ ニ ハ | ミ ヲ モ ス テ テ | ツ ト メ
+C4 F3 F F4 G4 | A4 G3 F c8 | A4 c3 c G4 A3 A | F4 G4 A8 |
+w: ワ ガ ク ニ ノ | タ メ ニ ハ | イ ヘ モ ス テ テ | ハ ゲ ミ
+c8 A4 G4/3 A4/3 G4/3 | F4 G3 G C8 | C4 F3 G F4 G3 A | G4 c4 A8 |
+w: ア メ ア ラ レ | フ リ ク ル | タ マ ノ ナ カ ヲ | オ カ シ
+c4 c3 c A4 G4 | F4 G3 G C8 | C4 F3 G F4 G3 A | G4 C4 F8 |
+w: イ ナ ヅ マ ノ | キ ラ メ ク | タ チ ノ モ ト モ | オ ヂ ズ
+!f! F3 A c4 F3 A c4 | d6 d2 c8 | c3 c c4 A3 A A4 | G4 c4 A8 |
+w: マ ス ラ タ ケ ヲ | コ レ ゾ | コ レ ゾ マ ス ラ | タ ケ ヲ
+F3 A c4 F3 A c4 | d6 d2 c8 | c3 c c4 A3 A A4 | G4 C4 F8 |
+w: ニ ツ ポン ダ ン ジ | コ レ ゾ | コ レ ゾ ニ ツ ポン | ダ ン ジ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nihon_danji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-Zm5mSWJBZVKnFpaSk8m7702Zw1z6dsf9o6SUFLi0vRVsHQwITL3lbBjcvGRN_EDqT52exN7_fMerqh_-nGjU_2znmys_tp18r3e_pfrJwHFH82d-PTdeteTtj6fM68pxObwNa9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullAu56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5uns2U_X7ni6c8vzKSve7-kABageMED1QAEKZBiYvN_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F1Avz1tXfFsWjvQFU839D5r71QIMDA318sqSH-_pweo-OWCRoUCPQVToIt6nvY3v2hoBnr32dwJQE8oGFoovFw2DehUYPCAjH-xav-zhuUgg7t7X8ycDxR93LgD6FWgOJAECj5dOwFoj5vC0yXLgWIKwIBXAIqCTIY4bNWSZ0uA4dcD1AaUf9zQ-7xpF4QLMQUoArQNZNXLhvlPdy171tP-fMkuUORs2f1s78THzd1A4x_NXGkLjFyQQpDKZx0THzf2PJ0wGyj1uLH3ceN-oMzjxnXPO4CxDRSZ_7ipESyy-nHjepAGoD92rQZLgVU2TXrc1PSsFxRNjxtnglUue9w092k30NdAkSWPG4FSQGWNSJbNAbnjcWM_0FC4ZcgWPF23DaygBegzsOamZ4tbMCzYChZZ_7hxElhwP9jfsyEOaYK6unn3yzkbYCJAg3qAgi9nAkMJKALUDxTperKvDeIaMLcb4gKQvxv3AV32uHHV48ZuoC-fd60HK-sCcsH2TQepfL5i99Nlu2GOBSpdCtQG9VMr0DJwkDYBgwIUAkA7oP5bsuppRwM0eBsXQtQDfQkMK5BfG4BpBmQTWHzR40Zw4gE7ZybIEyA9E0Hh3jgZ6KHHjfNgToZyMVWCgx4pi4ONBwY3MHL2Pm6a_LhxAZicAbYQu6HI2kFSlGc4KFDQ0ufi8svMyM9zSczLyrQKyEzMy3eoMahRqAY7wcbQTMsOzALmdkM9hcfN6xUeN60B4rVA9nwg7lOoAfL2A1kLgbgbiPtBImC5TUC8CCi7E0i3gTFIpgWIO8DqNQz1NEEuAJkPtDE3rVbBNF5BFwyhDLN4BUOoiBGUrlEwhqmBKIHSCFgDNdEMqgqi3hRuAsREIySTYDJw61GNAnreCNnzQBrsVRyeb1oCZM3A6vl-oAgoWOYraBghe57O_oaJwEyE2YUwCebvx01AT4C8B6ZXAvEasEemAvEqaFCshgfDPHCgPG7uAvJXg1MASAakDshr2o7kXzQHaBgBmUaaqhpQF2jCnQT0DixsYO6HScEDDe5xVJWGiHiFWobwOcwBmGGI8DkoGoE-aW6F-wzkG1DKB4UDKEzWw33eCPU5KJRAqXsRzOfNTUB6F8LnkMgBRR9qJMJCAj1yEN7FiGaYb6EMIAUPEdxJHHdUg_M30J_gJAv0IchfTRvhsbgZHPePm_ah8ZD1QEMDqgstfwOzN8zTsJSJmlJBnocFByyYcKVx9MCBeM8YS0yj5hp0k2BZG5R5QSXTXCAG-a0BQjftIOB3VH2gnIHQiZrFB9LvmJFey8Wla6eAKPoVgDxlLi4A)]
-- [鋼琴伴奏 TMD 檔案](nihon_danji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2femzOWueT9n-tHXS-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MCEy95WwY3LxkTfxI6rTkHp2exN7_fMerqh_-nGjU_2znmys_tp18r3e_pfrJwHFH82d-PTdeteTtj6fM68pxOblEA6XrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN0soAOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bp7NlP1-54unPL8ykrgI40MjAy0DMwMNMzsDAxBzIMTIDuVOLi8svMyM9zSczLyrQKyEzMyw_ycKgxqFGo5lIAAhtDMy07MAsokptWq2Aar6ALhlCGWbyCIVTECErXKBjD1ECUQGkErIGaaAZVBVFvCjcBYqIRkkkwGbj16EbR2V0wEZiJMLsQJsHchaZQwwjINNJU1YCq1IRrBVoL8wPMHpgU3HNwB6KqNESED9QyhAthDsD0K4pnQcGBGigwF6N7FuEsjGCDuQrKAFJwl-OOUpxBVw1MbjBHwWICNWZAjoM5F-YNXHGK7niI9cZYQgw1lWDx5gC6CTOwajFzsA9KDjZBZOCCWgXDeIVow1gwZRofCxREEgBSMJeZxAP5JkAFpiAGXCWIB6QM4OooMA7OhBqIaiJYFmQCQi8uM43AboIaaATSimwehnYUi7EaiFUlkpHVucCANAPJmcXnxiKxIK7H4lYMT4FZYD0gFiI8qWAqknuBaUPXTgGRPBSAPGUuLgA)]
+- [主旋律 TMD 檔案](nihon_danji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBHuZk5mSWJRZVKXFpaCs-mL302Z83zKduftk5S0NLiUrRVMDQw4bK3VXDjsjHRN7EDaX42e9P7PbOebuh_unHjk71znuzsftq18v2e_hcr5wHFn83d-HTdupcTtj6fM-_pxCawdS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpuFtCu56uXPp2y8dnanscN3U83dD_dseP58onP16x5Onv207U7nu7c8nzKivd7OkChrgcMdT1QqAMZBibv93QqcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50F9BvT1tXPJvWDnTF0w29z9o7FQIMzM31sgrS3-_pASp-uaBRoUBPwRToop6n_c0vGpqB3n02dwLQEwqGFgovl00DOhUYPCDjX6za_6xhOcjg7t4XM-cDRR837gB6FSgOJIGCT9dOANrjpvB0yXKgmAIw4BWAoiCTIQ5bteTZEmD49QC1AeUfN_Q-b9oF4UJMAYoAbQNZ9bJh_tNdy571tD9fsgsUOVt2P9s78XFzN9D4RzNX2gIjF6QQpPJZx8THjT1PJ8wGSj1u7H3cuB8o87hx3fMOYGwDReY_bmoEi6x-3LgepAHoj12rwVJglU2THjc1PesFRdPjxplglcseN8192g30NVBkyeNGoBRQWSOSZXNA7njc2A80FG4ZsgVP120DK2gB-gysuenZ4hYMC7aCRdY_bpwEFtwP9vdsiEOaoK5u3v1yzgaYCNCgHqDgy5nAUAKKAPUDRbqe7GuDuAbM7Ya4AOTvxn1Alz1uXPW4sRvoy-dd68HKuoBcsH3TQSqfr9j9dNlumGOBSpcCtUH91Aq0DBykTcCgAIUA0A6o_5asetrRAA3exoUQ9UBfAsMK5NcGYJoB2QQWX_S4EZx4wM6ZCfIESM9EULg3TgZ66HHjPJiToVxMleCgR8riYOOBwQ2MnL2PmyY_blwAJmeALcRuKLJ2kBTlGQ4KFLT0ubj8MjPy81wS87IyrQIyE_PyHWoMaqrBLrAxNNOyA7OAmd1QT-Fx83qFx01rgHgtkD0fiPsUaoC8_UDWQiDuBuJ-kAhYbhMQLwLK7gTSbWAMkmkB4g6weg1DPU2QA0Dm1yhU56bVKpjGK-iCoSGUhNC6CkZQukbBGEXEUMEUyofBGrB5PiCr1kOFQE6G0BBnQ0WBjocZCvICTHQhlIZ4BpvhCEdALDeFOw8ibgxUge5wuM-wuBPhok1QGhJsMNE2OA0JQJh4B5qb0Q0HRpoRcqQBabCvcERa0xIgawbWSOsHioCic76ChhFypNE6viAuHoj4gunAdCYwmGBWz4DS-KIL5iRQAMJUwCIcYTgsvh43Ac0CRQuYXgnEa8CmTAXiVdAAWQ2PvnngQHnc3AXkrwYnH5AMSB2Q17QdKZ7QLIT5TsMIyDTSVNXQBQJNjGAwwpdsgS5ElUIkQw0k54NMBbkfpmYVNDQgPsFmOEayMkJzFii-4PkKzUdY3IlIKvOgNCTMYPECcQUi9FDFQaztGIYj4guUaYDh39wKjw-QKaCCBuR9UEyuh8dXI9RuUOCAysBFsPhqbgLSuzDjC5ZeUTMRKAeQElGIBAvxNMyxMFHkfLUWLroSSkO8gM1w0iIKVSlWhyJiqhHuNFAowUQhBR4i3GDiTTAWMAzRDUepvoARBC7ZgFEDipCmjfBo3wzOao-b9qHxkPVAoxGqC636AtZeEJ8Zw2MPnV-jYIbkNBAbT2EITatQq2H-g4QQzAmIaNuMZAjI6SA1-7AaDktcpmhZxxieyEjKXBCLYaEFcwA2x6NEMNADMLUwb6AaDqu7QKU6qMkw93EzKFIagBhIN-0gEGko2kDBidCIWoNRNc4gVRWSzTA_NkBpiAtoHm1EZDXs8YbDA5AAhCmCewvuFYT5tVxcunYKiBalApCnzAUA)]
+- [鋼琴伴奏 TMD 檔案](nihon_danji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2femzOWueT9n-tHXS-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MCEy95WwY3LxkTfxI6rTkHp2exN7_fMerqh_-nGjU_2znmys_tp18r3e_pfrJwHFH82d-PTdeteTtj6fM68pxOblEA6XrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN0soAOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bp7NlP1-54unPL8ykrgI40MjAy0DMwMNMzsDAxBzIMTIDuVOLi8svMyM9zSczLyrQKyEzMyw_ycKgxqKnmUgACG0MzLTswq0ahOjetVsE0XkEXDA2hJITWVTCC0jUKxigihgqmUD4M1oDN86lReNy8Hir0uGkNlF4LFJ0PE23ugxv6uGk_XHQhlO4G4n6shiMcAbHcFO48iLgxUAW6w-E-w-JOhIs2QelFQBfthIu2wWmQ6ha4eAeamzHdSevwXA8Op4EIT5gOTGc2LYFbPQNK4wtOmJMeN0ECHyQDixCE4bDwRJOAuULDCMg00lTV0AUCTQznGuGL_qZFaFKI6NQAST5uXgnEa0CmPm6eClezCupqUBSsxmo4RvQboTkLFK7w9InmIyzuRETpPCjdB8RdMNEmiCtAiRikGuI-hDiItR3DcLRwhcU_aqIEpShSAhSRACCOe9zcCnc0ejpdCxddCaUXggMVm-GkBSiqUqwORYRoI9xpoNQKE4VkcJAISog2N8FYTbswDIcVp8DSFGKzMTx00fk1CmZIWkFsPJkfGufAfAQLKhAP4oPHTRvhhRckWDcjGQJMvGA1-7AaDot8U7QkaAxPBCQlUojFICsRFmJ3PEoEAD0AUwvzBrozqRqakEITVJg_bp77uBkWXI-bG6D0ZqCbdiC5lEYBSkQixR6iODwA8hvECxBPQFlwryDMr8VsGvggNw1MEC2DAmBSjleINowFU6bxsaDYgLKgEvBIgnBN46HCCiYgFkghSMgAXR0F5gFlQMaRZx7cFFCRAtdKPfMwHVidixqKCM-Y4DQVrg7NjdgVkWQYkgOBCUHXTgGRFhSAPGUuAA)]
 
 ## 分析
 
@@ -85,19 +91,19 @@ d3 d A3 c d3 c A4 | c4 d4 c8 | A3 G F4 G3 A c3 A | G4 A4 F8 |
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [NihonDanji #1 @ m.1, 0:00]
-   - 最高音: D5 in [NihonDanji #1 @ m.2, 0:03]
+   - 最高音: D5 in [NihonDanji #1 @ m.18, 0:39]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      NihonDanji (55.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, F, A, G, D
-   - 調性數值:    C 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.83), F 大調 (0.79), A 小調 (0.67)
+   - 核心骨幹音:  C, A, F, G, D
+   - 調性數值:    C 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.85), F 大調 (0.77), A 小調 (0.69)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [NihonDanji #1]: C 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [NihonDanji #1]: C 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -110,21 +116,21 @@ d3 d A3 c d3 c A4 | c4 d4 c8 | A3 G F4 G3 A c3 A | G4 A4 F8 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  31.5%
+     C  : ████████████████████████  37.5%
      C# :                            0.0%
-     D  : ███████████               14.6%
+     D  : ███                        4.2%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ██████████████            18.7%
+     F  : █████████████             19.8%
      F# :                            0.0%
-     G  : █████████████             16.6%
+     G  : ███████████               17.9%
      G# :                            0.0%
-     A  : ██████████████            18.6%
+     A  : █████████████             20.7%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 116 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 108 個音符)
 ================================================================================
 ```
 

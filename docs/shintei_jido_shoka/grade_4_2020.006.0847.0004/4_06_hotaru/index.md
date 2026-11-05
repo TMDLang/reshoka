@@ -55,17 +55,27 @@ Q:1/4=100
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-G6 G2 G4 G4 | A4 G4 E4 C4 | c6 c2 c4 d2 c2 | d12 z4 |
-A6 A2 G4 G4 | G4 F4 E4 G4 | D6 D2 E4 F2 G2 | A12 z4 |
-c2 c2 c2 c2 d4 c2 A2 | G8 A4 G4 | E4 G4 E4 z4 | G4 G4 A4 G4 |
-E4 G4 A4 G4 | D8 G4 A4 | G4 c4 B4 z4 | d12 d4 |
-c12 z4 |
+G6 G2 G4 G4 | A4 G4 E4 C4 | c6 d2 e4 d2 c2 | d12 z4 |
+w: 1.~イ ザ コ ヨ | ホ _ タ ル | コ コ ニ キ _ | テ
+w: 2.~い ざ こ よ | ほ _ た る | こ こ に き _ | て
+A6 A2 G4 A4 | G4 G4 E4 E4 | D6 D2 D4 C2 E2 | G12 z4 |
+w: 1.~テ _ ラ セ | フ ミ ヨ ム | ワ ガ マ ド _ | ヲ
+w: 2.~と _ も せ | や み よ の | と も し び _ | を
+c4 c4 G4 c4 | d8 c4 d4 | A8 c4 A4 | G4 A4 E4 z4 |
+w: 1.~ミ ツ ヨ ツ | フ タ ツ | ツ ユ ト | チ _ リ
+w: 2.~あ つ め し | ひ と の | む か し | ま _ で
+A4 A4 G4 G4 | E4 E4 C4 C4 | D8 G4 A4 | G4 c4 d4 z4 |
+w: 1.~タ マ ト ゾ | カ ガ ヤ ク | オ モ シ | ロ _ ノ
+w: 2.~お も ひ ぞ | や ら る る | な つ か | し _ の
+e12 d4 | c12 z4 |
+w: 1.~ム シ | ヨ
+w: 2.~む し | よ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hotaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKbyYt0hBS4tL0VbB0MCAy95WwZnLxkTfxA6k49nUmS-aNj2dsvHZ2p6Xs9vAprxo3_W8cTFE5tmc5qeta16s6n3c0PVs2oan62Y9bZ30fPVSiI7HDd1PN3Q_3bHj-fKJz9eseTp79tO1O57u3PJ8yor3ezpA4aQHDCc9UDgBGQYm7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdNeLlfOetq54Nq0d6IqnG3qftXcqBBiYGetlFaS_39MDVPxyQaNCgZ6CiQGQ-7S_-UVDM9C7z-ZOAHpCwUzh5bJpQJe-3zMLZPqLVfufNSwHmdvd-2LmfKDo48b1QEGgZ4EiT9dOANrhrPB0yXKgmAIwWBWAokDdIK0vG-Y_3bXsWU_78yW7gPqetqx6vq_vcXM3UMejmSttgbEBVfi0fdeLmVNfrNj9YsUMoEKgPFq8gNSBFD7Z0QCiHje2PG6c9rhx8uOmDmDsAtU_btz9uHH-4yag2Z1g8bmPG1c_2QfUCJQCuedx4zKQzuety8FCy0BCTUDR2cDQAItsfdy4HyzY8bip4XFT_-PGnuerJoOl9j1uXAmWmgRxAzBogKJg1Y1LgOEA4jZ1QLhPdvXAjAOGFUjk5ZxNYJElj5tA_njcuOJx48LHTV1g5_RBzJoPtAQmN-_Fnrlgwe7HTfMeN7WAxfvB4Tl30fOZe8FyXY-bmh43Tn_cBPHbuhfzwZYAXd44HeILSHjt6sESXsgBBA0XkM0gE2c_mzX96ZI5YLOAevbD_LXucUPD8_aO542rwdZDFE9_3LgZES6PG4FCQE82AiWe7AJGOFDdJqBSiP5nM6bAHNgNdSMoXJdDdEK8A1Q9D2gPyGZg1DQB_T8XIr0KZDBYH8SrIO8BJSjPPlCgoKXPxeWRX5JYVGoVkJmYl-9QY1CjUA2yQ8HGQssOzMCWbRWAGQaYJl8s7FHQMFF4uqH_-foGHXhe08SiAWgT1DANoEZNK4XHTUuAeBsQb1Z43LxCoQZIzgbiPUCR_UB6NUgEJAeW7wbSa8GyIHVtEHVAbIBi8K4ekMGNLUA8DYgnAzV1gDQ07oZoaJwPFOkGiwDlwHg1EPfCDG5chmlwjYKpgi4QmoJpEK4BFhUQljEQG4JFDOPAioAUmGUEpmtANEgYAg1AKsHJE3eY7uqhKEzhIbMS6NHd4LCaCsRAbwND-HHzArDIeqDcGiA9D4g74WG6CX-YgrSDoqYJyJ4NjhpQKAMjChjCwMQJDj2gGrD8dCAGRRrY4KZJ2MIUFIK6QBIRpiDSBBqmEBEjsBojsIgJUAymi_jQ3NFJWWiCwg3oTXDYgWhgWILTZgs4xEAiII-BEg04mTU3QkVWAV0H8jpILSiUgUHUtA9bqIJCC5QNgBrBoQaMBFAoQsKzqQGaaoGJHygLCuF9UJHlEAsau6AhDtI3DxG6kGQIQeAkCKTN4CkZFO6wMIaFNogGhyg8RuBq8IcxsBoAh7EpuaUAMAOCUyMoGNaDvb0KGoqLgOzt4HCF5PzHzX0QbwPTMSxJwVRAkyeO1AtKq03ApA7M-7D8D7UEFPrA8AWJAMMfLLIOGnnQ0AeLgUMflNIxUzIsBBFhCkm3CFFImILLBXN4MKOUDGAOvBBBTt-1XFy6dgqQIloByFLm4gIA)]
-- [鋼琴伴奏 TMD 檔案](hotaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxb9H7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQwIDL3lbBmcvGRN_EjqtOQenZ1JkvmjY9nbLx2dqel7PblEBiL9p3PW9cDJF5Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvRSi43FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-yAugMIwMjAz0DAzM9AwsTcyDDwAToEiUuLo_8ksSiUquAzMS8_CAPhxqDGoVqLgUgsLHQsgMz9LUUbNGBAtCCJzsaXizsUdAwUXi6of_5-gYdhQADM2O9rIJ0TSwatPTBhtUomCroAqEpmAbhGgUzKMsYiA3BIoZxYEVACswyAtM1IBokDIEGIJVc-F24q4ccF4LcowskES4EkSZQF0JEjMBqjMAiJkAxmC7i3bajkxy3QYIEgsDBAaTN4KEKcjXMhTC3gmiwe-D-gavB70JgAgK70JQ0F8LsRbgEElYIUYhLwDFrDnccStyCOfBkgBymtagp1gclxZpAUyxQZ7xCtGEsjKpRMEHjQxlm8UDaLD4XJGQKYpvGx4IZBkCrICaBdJog6YQqM8cUQrMOqAlIIQyCSkKlUPjITgJSQD3osphmoNoMZ8DVQH2B5F4EC80yUKDq2ilAwlUByFLm4gIA)]
+- [主旋律 TMD 檔案](hotaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBHiXmZuSALtLQUXsxbpKClxaVoq2BoYMBlb6vgzGVjom9iB9LxbOrMF02bnk7Z-Gxtz8vZbWBTXrTvet64GCLzbE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eilEx-OG7qcbup_u2PF8-cTna9Y8nT376dodT3dueT5lxfs9HaDA1AMGph4oMIEMA5P3ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAe668XKeU9bVzyb1g50xdMNvc_aOxUCDMyM9bIK0t_v6QEqfrmgUaFAT8HEAMh92t_8oqEZ6N1ncycAPaFgpvBy2TSgS9_vmQUy_cWq_c8aloPM7e59MXM-UPRx43qgINCzQJGnaycA7XBWeLpkOVBMARisCkBRoG6Q1pcN85_uWvasp_35kl1AfU9bVj3f1_e4uRuo49HMlbbA2IAqfNq-68XMqS9W7H6xYgZQIVAeLV5A6kAKn-xoAFGPG1seN0573Dj5cVMHMHaB6h837n7cOP9xE9DsTrD43MeNq5_sA2oESoHc87hxGUjn89blYKFlIKEmoOhsYGiARbY-btwPFux43NTwuKn_cWPP81WTwVL7HjeuBEtNgrgBGDRAUbDqxiXAcABxmzog3Ce7emDGAcMKJPJyziawyJLHTSB_PG5c8bhx4eOmLrBz-iBmzQdaApOb92LPXLBg9-OmeY-bWsDi_eDwnLvo-cy9YLmux01NjxunP26C-G3di_lgS4Aub5wO8QUkvHb1YAkv5ACChgvIZpCJs5_Nmv50yRywWUA9-2H-Wve4oeF5e8fzxtVg6yGKpz9u3IwIl8eNQCGgJxuBEk92ASMcqG4TUClE_7MZU2AO7Ia6ERSuyyE6Id4Bqp4HtAdkMzBqmoD-nwuRXgUyGKwP4lWQ94ASlGcfKFDQ0ufi8sgvSSwqtQrITMzLd6gxqKkGWaFgY6FlB2Zgy7UKwPwCTJIvFvYoaJgoPN3Q_3x9gw48q2li0QC0CGRYjYKpgi4QmoJpEK4B5jsIyxiIDcEihnFgRUZxCsYgFpAGitSAaJAwBBqAVILN9DGsUXjctAQs-rhpGxBvBrGaV4DNetw8G6rjcdN-sPhqiDhYFUh0M1CsG8xaC9XRht0eI6BcYwtEV-M0IJ4M1tUB0dW4G2ZP43ywOMhMkDhIFUh0MhCD7AbmS6jMMgx78If4rh5yQhwUvrpAEhTGIDYkDmAhDsLAoIUEOJg2BIrB4glrWMPD53HzSrBPQT4HiU8Fi4F9Dw79x80LoDLroWG9BsieB5bphMpswhPWIDMg-prA4QaKSVDMgeIAmEfhoQ_MHNAQhegAqQfmGbAMKJZBeiaRGNY7OsFhbUpaWINTLpgAhR-YgZRuwXwwDxYrUDFEtIBYoCgBOxHMg2UPcGZBigRIMIODAhrYIDYsGpATPEwcknRBIqCE97gZmnCbG-Hiq-A2w_RCIgscyE370KIHEimgjAcs_MBsUJCDZGCRCokQePQ0NcDFwRkOrh5kMkR8OcIFjV1gkyG2gEwElpJgF-CNOGC1RE7EwbICqACCFEKQLAEJd0T8IKIQ4kpwAQWD0KiFFl_YyylwCQDMB6BghQQdKG-AZECBD4mGRWDx7RDxZlCpBBHvQwQOOGfBIEItLMdgyU2QXNMEyneQsglRQsFthkQmOHJA4qDogYiDIhCWMGCRCJGBRiE4H6LaXMvFpWunAKldFIAsZS4A)]
+- [鋼琴伴奏 TMD 檔案](hotaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxb9H7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQwIDL3lbBmcvGRN_EjqtOQenZ1JkvmjY9nbLx2dqel7PblEBiL9p3PW9cDJF5Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvRSi43FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-yAugMIwMjAz0DAzM9AwsTcyDDwAToEiUuLo_8ksSiUquAzMS8_CAPhxqDmmouBSCwsdCyAzP0tRRs0YEC0PwnOxpeLOxR0DBReLqh__n6Bh2FAAMzY72sgnRNLBq09MGG1SiYKugCoSmYBuEaBTMoyxiIDcEihnFgRUZxCsYgFpAGitSAaJAwBBqAVILN9DGsUXjctAQs-rhpGxBvBrGaV4DNetw8G6rjcdN-sPhqiDhYFUh0M1CsG8xaC9XRht0eI6BcYwtEV-M0IJ4M1tUB0dW4G2ZP43ywOMhMkDhIFUh0MhCD7H7c2AuVWYZhD_4Q39VDToiDwlcXSILCGMSGxAEsxEEYGLSQAAfThkAxWDxhDWt4-DxuXgn2KcjnIPGpYDGw78Gh_7h5AVRmPTSs1wDZ88AynVCZTXjCGmQGRF8TONxAMQmKOVAcPG4ExyY49B83roOGKEQHSP3jxulgGVAsg_RMIjGsd3SCw9qUtLAGp1wwAQo_MAMp3YL5YB4sVqBiiGgBsUBRAnYimAfLHuDMghQJkGAGBwU0sEFsWDQgJ3iYOCTpgkRACe9xMzThNjfCxVfBbYbphUQWOJCb9qFFDyRSQBnvcRPIDEiQg2RgkQqJEHj0NDXAxcEZDq4eZDJEfDnCBY1dYJMhtoBMfNwIcg2BiAMWe-REHCwrgAogSCEEyRKQcEfEDyIKIa4EF1AwCI1aaPGFvZwClwDAfAAKVkjQgfIGSAYU-JBoWAQW3w4RbwaVShDxPkTggHMWDCLUwnIMltwEyTVNoHwHKZsQJRTcZkhkgiMHJA6KHog4KAJhCQMWiRAZaBSC8yGqzbWolYsPcuViAq1cgIEVrxBtGAujahRM0Pjo8qbxQJZpfCyYYQD1IESbCUQZkCKgDd1khDE4tYFEQDTcJigF0QKxGWgMsjtABhBjLLJ7oZ5C1gCxFdWxwKDVtVOAhG60D1AciWcE5ilzAQA)]
 
 ## 分析
 
@@ -73,24 +83,24 @@ c12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 螢 ]
 ================================================================================
-⏱  Duration:       0:40 (40.8s), 17 measures total
+⏱  Duration:       0:43 (43.2s), 18 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
    - 最低音:  C4 in [Hotaru #1 @ m.2, 0:04]
-   - 最高音: D5 in [Hotaru #1 @ m.3, 0:06]
+   - 最高音: E5 in [Hotaru #1 @ m.3, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Hotaru (40.8s)
+🏛  結構:      Hotaru (43.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D, C, A, E
-   - 調性數值:    G 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 97.6%]
-   - 候選調性 (K-S): G 大調 (0.87), C 大調 (0.75), G 小調 (0.61)
+   - 核心骨幹音:  G, C, D, A, E
+   - 調性數值:    G 調性不明確 [相關度: 0.81, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.81), C 大調 (0.80), A 小調 (0.59)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Hotaru #1]: G 大調 (r: 0.87, 自然音純度: 97.6%, 調外音: F)
+     • [Hotaru #1]: G 調性不明確 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -103,21 +113,21 @@ c12 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████████             17.5%
+     C  : ████████████████████      21.6%
      C# :                            0.0%
-     D  : ███████████████           19.8%
+     D  : ████████████████████      20.9%
      D# :                            0.0%
-     E  : ███████                    9.5%
-     F  : ██                         2.4%
+     E  : ███████████████           15.7%
+     F  :                            0.0%
      F# :                            0.0%
-     G  : ████████████████████████  32.5%
+     G  : ████████████████████████  25.4%
      G# :                            0.0%
-     A  : ████████████              16.7%
+     A  : ████████████████          16.4%
      A# :                            0.0%
-     B  : █                          1.6%
+     B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 58 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 58 個音符)
 ================================================================================
 ```
 

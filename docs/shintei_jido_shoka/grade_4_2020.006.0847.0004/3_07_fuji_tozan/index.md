@@ -56,20 +56,32 @@ T:富士登山
 C:曲：田村虎藏
 M:2/2
 L:1/16
-Q:1/2=66
+Q:1/2=72
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-D8 D4 G4 | A6 B2 A4 G4 | A6 B2 d4 e4 | d12 z4 |
-e8 d4 B4 | A6 G2 E4 B4 | A6 E2 G4 A4 | D12 z4 |
-G6 A2 B4 G4 | A6 B2 d8 | B8 e4 d4 | B4 G4 A4 z4 |
-d8 B4 G4 | E6 G2 A4 d4 | B6 d2 e4 A4 | G12 z4 |
+D4 G4 G8 | A6 B2 A4 G4 | A6 A2 d4 c4 | B12 z4 |
+w: 1.~キ シャ ノ | マ ド ヨ リ | ア フ ギ ミ | ル
+w: 2.~ふ ね の | へ さ き に | な が め や | る
+w: 3.~ヤ マ ハ | セ カ イ ニ | オ ホ ケ レ | ド
+c6 c2 B4 A4 | G6 G2 A4 B4 | A6 A2 A4 A4 | D12 z4 |
+w: 1.~フ _ ジ ノ | ス ガ タ ノ | ケ ダ カ サ | ヨ
+w: 2.~ふ _ じ の | け し き の | お も し ろ | や
+w: 3.~カ タ チ ノ | ヨ _ キ ハ | コ ノ ヤ マ | ゾ
+E6 E2 G4 F4 | E6 E2 D4 E4 | G8 A4 B2 A2 | G4 A4 B4 z4 |
+w: 1.~ク モ ヨ リ | ウ _ ヘ ニ | ヌ ケ _ _ | イ デ テ
+w: 2.~さ か さ に | う _ つ る | う な _ _ | ば ら の
+w: 3.~ハ _ ル ノ | カ ス ミ ノ | タ ツ _ _ | ア シ タ
+c8 B4 A4 | G6 A2 B4 c4 | d6 d2 d4 d4 | G12 z4 |
+w: 1.~イ ツ モ | タ カ ネ ノ | ユ キ シ ロ | シ
+w: 2.~か げ は | ゑ よ り も | た く み に | て
+w: 3.~ア キ ノ | イ リ ヒ ノ | サ ス ユ フ | ベ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](fuji_tozan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPF3f83Tx6uczdz_duFFBS4tL0VbB0NiIy95WwZ3LxkjfyA6k9cXKee_3zHq6fdqLDdufbuh_tnkR2MRnszcBhZ9P2fBs7sQXM_teTO8HC79o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzdPZs5-u3fF055bnU1a839MBCko9YFDqgYISyDAweb-nU4mLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oLuA_n3auuLZtHagK55u6H3W3qkQYGBqppdVkP5-Tw9Q8csFjQoFegrGxkAu0OFPdnQCHf5sznwgW8Fc4eWyaUCXAoMGZPqLVfufNSwHmdvd-2LmfKDo48YVQMEnu3qAIk_XTgDa4a7wdMlyoJgCMMAVgKJA3SCtLxvmP9217FlP-_Mlu0Dhv3sxUNnj5m6gjg9zW-fZmhuBFIJUPtnRAKKebdz7YnfX48Z1z1dNftzU8bip68nuDUDVjxubHjduBSp-3Nj3Yln346ZusL_BUQ9U_XT5frCimY8bex43Ap0IVLfu2YbFL1fPAItPfNy44HEj0Fqg-FSguWC3zd4EtWEH0EKgKWuA6p6273rcuPxx4zKQiseNLY8blzxuagIa83Qb0ANAk-YDjXncuBZiw8vZq57P3Pu4cTrEC7t6wMHVsRMo9aJj89PWDrCWHSA7G0FBArTm-RyIOauALgWJNDU-bmpB986zmetfdAJTJsTl02Ga172cuwhkX1MLxHVAU4FuAZJAPW1gl3Y_27odmBjAOoEiQEs2PG4CxiNIM9iGvRvBckBtk8Ci65_vXAUSaZoIdgwoOID-fbp9Ocyz_Y8bgUELcjkoUCAxBY5aYG4Dan-yY9rzqcAgX_10CTBVTHzcBGSvhNi0CGgnyMTGXqC6Z2uXgKIJpGceOJ5nLAX5Zw4wV0KcA4w5iD3rnq8Gcpc8mzMXFu1A_4NiFKTt-XKg3LqnrUufTQfpB3t-5tMlU8FeAHp46-PGnVCllOcsKFDQ0uficivNygzJr0rMswrITMzLd6gxqFGoBlmjYGOhZQdmYMvUCuCs1fBiYY-ChokCsOB5vr5BB54TNbFoAFoGNUwDqFHTSuFx01qQACjCm7Y_bl6s8Li5D8ipAdLzIMLNnUC8AsxaBZFpWgSVmQpkrwOz5kP1rIYahgyQ7dzVA7KzcSvMzkaQ7cCghmhv3AEVBRrc2AtmgQwEyYCsBvF7gFY2gl3bAnVMNwErd3SCrGxeArMS7K_Hzf1Q7bshok2rgRikBlh8QGWgVjbPBrI3gllrIDLAEMFpZY2CabyCLhiCGYZAXKNgBBYwBtOoIqZA0gwsAmLBoAFIBJwdcMf7rh6K4h0YeSAv7QH5HRTs8Hhv2gkNkTVAvB9FBhQKIH4DOLxAakARCQoRUPrAESLo8Q6xs3EGiAmP-IkQkxunwyMeJtMFdU0TWBbEAsmDXANKAPjshEQ81KFAjzxuBiccePqGuBmUASCpAewwsMmbof7sg6YbSJoByezDbWcNOB7BEQ-OWUQsGyqYgZICshBQAJQOQBykFENs1O_opCzLr4f6bxFGzl4GlZkBzQfwMGnugfoWlhdgYQUJn3Yw2YYlFqAxD0ptoGjthrIRORuiCVgmQ_My3GioDEgO5DxgMQ-1EpT9IKogyQTdSmiOB8UpSCEwZ4PjHJIUkFI4sNSCysB9A0rvEDlQ6kKIg0o8YAEJJmFq4PEOiklQXIIiGDN3g2ANWA4c8dD0ARGBpQEiIh3Y9qMs0iERBfQWKN4x_QwuAZvBeQ-eQ6CpAZRDIH5vBhXXID0gHjrAEuvg-GycBIs8hJ3Q_N7UAcSgHA7K35BIB9UkIPX9QAwufeAJBeIa3HZC8zskqoAORY9bSA0ASuuPm4FOQirXINURKF1A_AwpHEEhMBO3nYgSGxHv4HwO4oAiFRHNIDYo4iHZHZJckHN7LReXrp0CvBGgAOQoc3EBAA)]
-- [鋼琴伴奏 TMD 檔案](fuji_tozan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vufp4tXPZ-5-unHj-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0NiIy95WwZ3LxkjfyI6rTkHpxcp57_fMerp92osN259u6H-2eZESSPjZ7E1A4edTNjybO_HFzL4X0_vBwi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z83T27KdrdzzdueX5lBVABxoZGBnoGRiY6RlYmJgDGQYmQDcqcXG5lWZlhuRXJeZZBWQm5uUHeTjUGNQoVHMpAIGNhZYdmKGvpWCLDhSAdjzZ0fBiYY-ChokC0CPP1zfoKAQYmJrpZRWka2LRoKUPNqxGwTReQRcMwQxDIK5RMAILGINpVBFTIGkGFgGxYNAAJMKF33W7eshxHcgusOPAtiNcYqhgBnIushBQAORWEAfJV8Q6b0cnOc4DWQiyEuQOzIACwRqwHNh9UG9ARGBOJcJtwMRDVsRC7UW4DRxkIA7IYoRTQGyQ4yAhB_EScsDVYiRMH5SEaQJNmEC98QrRhrEwChQLQJZpfCyEgSoEUmSCIgImDIAWQgwzgSjANMwMxDCLzwUJGgGZRkAWSBVIDrdxON0GF4EyQPYi80EKcRuDcAzMKSgGmcabI4mAMMgoYIjq2inAA1UBnaPMxQUA)]
+- [主旋律 TMD 檔案](fuji_tozan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBHeYklpUWpSlxaWgpP1_c8Xbz6-czdTzduVNDS4lK0VTA0MeGyt1Vw57Ix0jeyA2l9sXLe-z2znm6f9mLD9qcb-p9tXgQ28dnsTUDh51M2PJs78cXMvhfT-8HCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzdPbsp2t3PN255fmUFe_3dIDCWw8Y3nqg8AYyDEze7-lU4uLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oLqB_n7aueDatHeiKpxt6n7V3KgQYmJrpZRWkv9_TA1T8ckGjQoGegrExkAt0-JMdnUCHP5szH8hWMFd4uWwa0KXAoAGZ_mLV_mcNy0Hmdve-mDkfKPq4cQVQ8MmuHqDI07UTgHa4KzxdshwopgAMcAWgKFA3SOvLhvlPdy171tP-fMkuUPjvXgxU9ri5G6jjw9zWebbmRiCFIJVPdjSAqGcb977Y3fW4cd3zVZMfN3U8bup6snsDUPXjxqbHjVuBih839r1Y1v24qRvsb3DUA1U_Xb4frGjm48aex41AJwLVrXu2YfHL1TPA4hMfNy543Ai0Fig-FWgu2G2zN0Ft2AG0EGjKGqC6p-27Hjcuf9y4DKTicWPL48Ylj5uagMY83Qb0ANCk-UBjHjeuhdjwcvaq5zP3Pm6cDvHCrh5wcHXsBEq96Nj8tLUDrGUHyM5GUJAArXk-B2LOKqBLQSJNjY-bWtC982zm-hedwJQJcfl0mOZ1L-cuAtnX1AJxHdBUoFuAJFBPG9il3c-2bgcmBrBOoAjQkg2Pm4DxCNIMtmHvRrAcUNsksOj65ztXgUSaJoIdAwoOoH-fbl8O82z_40Zg0IJcDgoUSEyBoxaY24Dan-yY9nwqMMhXP10CTBUTHzcB2SshNi0C2gkysbEXqO7Z2iWgaALpmQeO5xlLQf6ZA8yVEOcAYw5iz7rnq4HcJc_mzIVFO9D_oBgFaXu-HCi37mnr0mfTQfrBnp_5dMlUsBeAHt76uHEnVCnlOQsKFLT0ubjcSrMyQ_KrEvOsAjIT8_IdagxqqkG2KNhYaNmBGdjytAI4ZzW8WNijoGGiACx3nq9v0IFnRE0sGoB2QQ3TAGrUtFJ43LQWFNdN2x83L1Z43NwHkgWCGiB7Hpj1uLkTiFeAWasgMk2LoDJTgex1YNZ8qJ7VUP0IgGzjrh6QjY1bwakLbG8jSDvUwsYdEGMbgcY29oJZIONAMiCLQfweoIWNYPe2QJ3SjdfCHZ0gC5uXgN0I8s_j5n6EhU27IcY2rQZiiBqQcSAZqIXNs4HsjWDWGogMMDRwWFijYBqvoKtgCMUgWKNgBKaNwTRIFCZipGAKJE3AIsZQ1SBoABIBG-djCHLHWiAfGjlABjB6YAaDvANiwaIHxFoFkQFGD0QGEj0g1nyontXYrTIChfFWkEpgrIBIkC6oPcBYAZsGjRUQC2QKJFYgMpBYATm0BeqCbuz2GIPcsATsIpDrQZEBtwcYGWDToJEBkgWZAokMiH8gkQFirYH6pxPDHvx5ZVcPRXkFGKKQZLEH6BJQaoVkGJAbd0KT0hog3o8iA0o-IH4D2G8gNaD0D3I9KFNhTUpImaV5L1T7XigbQoKCfyJEpnE6PLuAMhNIpgvqmCawLIgFkgc5BpRtcFsJyS5gV4I07QdaBs5tML9AXQzxPzj_grMTyODNUJk-lOwGktmHy8oacPoH5QJQDgDlixpozjEE80CiiPwCoiFqwNkMR4YBxhBEHBQ_sBwDiR-IKCR-kGVAKQrEh8QPSA0oJ0B8iz-3QFL_DDAJyjGQSIGIQiIFWaYL6gJIpIBYIHlIpODMLWAXgdRC4gLJ3XDXQQsJcF6CxATEP5CYgOU1SEyQllt2dFJWs6yHpolFGBXIMkQ6ap4BZkEL3uYeaBqBFbsgFXvAeiCpqh1MtqGmJOTKBZpFG7uhbEQlAtEENrIRbBi48kDIgNSCHIhkaeMGsDpQmY-oqrBUMJBKBaIRnMfhuR-Wl3aCS2FkGVApAdEFypTIPgVVr8BCH0zCVMHzjBkk9QMpUF4xB_GQBcGZA8yFZSZItgFVQRARWNZCr2rWQ9MNJLaQ65NlsJQGjCukchkYV7AUCMlDENWQNNcOJttQ7QHnHEgOhUUQcn0CUg2RA5sBrkVQxSE1AUR0A1gNqAaA5DH0egZWt0BqPUR-h-UoSIwgy4DKBYgOWI6E1aag2IDkQqJyDrCbRlnOASVP5LQBShGINAOuI5vBRT68ZIbmKGBZAE05zaDyGaQHxEMFWHINrBkFbLeDSVDWBWmG1jFNHUAMqlVAxRckz4ASM0hlPxCDKzx4PoM4BZeF0DoG0oSEuBg5V0B8Dkp7j5vBToHLgGpNWE4CWQGpjUF-n4nLQlgNA0nwyDWMEVgE0v4CtcR0gSSIBmFExsFSwYCTNyKRgKIGOfHAoga5oIZkH1jUgGRABTYkanBXMLAmFChGQCQoe0JiBGIaJEYgFQokQ4ASM0glJEaQMxYsA2OrYCCNRUQ1AssMEH_CIgJZBlL1wSICJAPKxpCIQLenlotL104B3rtRAHKUuQA)]
+- [鋼琴伴奏 TMD 檔案](fuji_tozan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vufp4tXPZ-5-unHj-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MSEy95WwZ3LxkjfyI6rTkHpxcp57_fMerp92osN259u6H-2eZESSPjZ7E1A4edTNjybO_HFzL4X0_vBwi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z83T27KdrdzzdueX5lBVABxoZGBnoGRiY6RlYmJgDGQYmQDcqcXG5lWZlhuRXJeZZBWQm5uUHeTjUGNRUcykAgY2Flh2Yoa-lYIsOFIBWPNnR8GJhj4KGiQLQH8_XN-goBBiYmullFaRrYtGgpQ82rEbBNF5BV8EQikGwRsEITBuDaZAoTMRIwRRImoBFjKGqQdAAJAI2zsewRuFx01og_3HT9sfNi0GM5j64wY-b54FZj5s7gXgFmLUKItO0CCozFcheB2bNh-pZjd0qI6Bc41aQykawhY0gXVB7GndATGsEmtbYC2aBTAHJgOwD8XuA9jSCHdoCdUE3dnuMQW5YAnYRyPWPm_sR9jTthpjWtBqIIWpApoBkoPY0zwayN4JZa6D-6cSwB3-87uohJ15B0QSKLFBEgaKvBhrBhmAeSBQRrSAaogacGnDEKzBqIOKPm0DBC4lYkFd3QkXXAPF-FBmQx0H8BnAQgdSAIgxkFijy8UUqJJJmgElQxILEJ0JFp8MjFSbTBXVBE1gWxALJg1wAilwckQp2EUjtfqB7wEkB5m6466BpGRzlIB2bof7pQ0kSIJl9GPYQyKyd5ESqGSR6gBQoMs1BPGRBcOyBubDYhsQrKCtDRGBxj55l10M9tggjXy6DBUUzODJg6bu5Bx5EkEiGqIYESjuYbEO1Bxy1kCT0uLEbykbkS5BqiBzYDHBuRBWH5CiI6AawGlBOgiQC9PwKy6OQ0gORIGFRvhNaviBkQAkXogOWZGClErAoA5MgFURELbCoJz-_QmIHOb8agUUghS6o-NUFkiAahBGxjCW7guMC4SNQ3CL7FFxmNYOzETzZQ-IalOihfm4GJX-QHhAPV3aFlZuPGyeBSVBaAumBZtemDiAGZVBQ9oTEHijkQSr7gRhcYMBTASy1YcuukBoCkSlhMQfxJyjFPm4GuwAuAylIILENMhlShIF8OhPDnlqM2tcHufY1gda-oCIyXiHaMFbBEEJBBIAcmDhUhWl8LIxhDhKEKgdhA6i3gJEOFDSBGAVSD1cFNRJYQgP5Rrlwk1BMBxMIs8xA4mbxQMUgljFIN0IIrAnMQrEDhMECUAvxuwyqCChFnB-BQaprpwAP1WgfoDiqgBG6gDFYQJkLAA)]
 
 ## 分析
 
@@ -77,29 +89,29 @@ d8 B4 G4 | E6 G2 A4 d4 | B6 d2 e4 A4 | G12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 富士登山 ]
 ================================================================================
-⏱  Duration:       0:29 (29.1s), 16 measures total
-🎼 Key & Tempo:    首調基準 G, != 132.0 BPM, <2/2>
+⏱  Duration:       0:26 (26.7s), 16 measures total
+🎼 Key & Tempo:    首調基準 G, != 144.0 BPM, <2/2>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [FujiTozan #1 @ m.1, 0:00]
-   - 最高音: E5 in [FujiTozan #1 @ m.3, 0:05]
+   - 最高音: D5 in [FujiTozan #1 @ m.3, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      FujiTozan (29.1s)
+🏛  結構:      FujiTozan (26.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, A, G, B, E
-   - 調性數值:    D 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.85), G 大調 (0.77), B 小調 (0.60)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  G, A, D, B, C
+   - 調性數值:    G 大調 [相關度: 0.85, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.85), D 大調 (0.69), A 小調 (0.57)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [FujiTozan #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [FujiTozan #1]: G 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
-      Bb              [D ]*
+         F           [G ]*
+      Bb               D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -107,21 +119,21 @@ d8 B4 G4 | E6 G2 A4 d4 | B6 d2 e4 A4 | G12 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  :                            0.0%
+     C  : ██████████                10.0%
      C# :                            0.0%
-     D  : ████████████████████████  29.2%
+     D  : █████████████████         16.7%
      D# :                            0.0%
-     E  : ███████████               13.3%
+     E  : ████████                   8.3%
      F  :                            0.0%
-     F# :                            0.0%
-     G  : ████████████████          19.2%
+     F# : ██                         1.7%
+     G  : ████████████████████████  24.2%
      G# :                            0.0%
-     A  : ██████████████████        21.7%
+     A  : ████████████████████████  24.2%
      A# :                            0.0%
-     B  : ██████████████            16.7%
+     B  : ███████████████           15.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 49 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 52 個音符)
 ================================================================================
 ```
 

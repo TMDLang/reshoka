@@ -7,9 +7,15 @@ Q:1/4=104
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! C4 C3 D F4 G4 | A4 c3 d c8 | d3 c A3 c G4 F3 G | A4 G4 C8 |
-C4 C3 D F4 G4 | A4 c3 d c8 | d3 c A3 c G4 F3 G | G4 A4 F8 |
-c4 A4 G4/3 A4/3 G4/3 F4 | D4 F3 G F4 C4 | D4 F3 F G4 c3 A | G4 c4 c8 |
-d4 d3 d c4 A4 | G4 A3 G F8 | D4 D3 D C4 F3 G | A4 G4 F8 |
-!f! d3 d A3 c d3 c A4 | c4 d4 c8 | A3 G F4 G3 A c3 A | G4 A4 c8 |
-d3 d A3 c d3 c A4 | c4 d4 c8 | A3 G F4 G3 A c3 A | G4 A4 F8 |
+!mf! C4 F3 F F4 G4 | A4 G3 F c8 | A4 c3 c G4 A3 A | F4 G4 C8 |
+w: ワ ガ キ ミ ノ | タ メ ニ ハ | ミ ヲ モ ス テ テ | ツ ト メ
+C4 F3 F F4 G4 | A4 G3 F c8 | A4 c3 c G4 A3 A | F4 G4 A8 |
+w: ワ ガ ク ニ ノ | タ メ ニ ハ | イ ヘ モ ス テ テ | ハ ゲ ミ
+c8 A4 G4/3 A4/3 G4/3 | F4 G3 G C8 | C4 F3 G F4 G3 A | G4 c4 A8 |
+w: ア メ ア ラ レ | フ リ ク ル | タ マ ノ ナ カ ヲ | オ カ シ
+c4 c3 c A4 G4 | F4 G3 G C8 | C4 F3 G F4 G3 A | G4 C4 F8 |
+w: イ ナ ヅ マ ノ | キ ラ メ ク | タ チ ノ モ ト モ | オ ヂ ズ
+!f! F3 A c4 F3 A c4 | d6 d2 c8 | c3 c c4 A3 A A4 | G4 c4 A8 |
+w: マ ス ラ タ ケ ヲ | コ レ ゾ | コ レ ゾ マ ス ラ | タ ケ ヲ
+F3 A c4 F3 A c4 | d6 d2 c8 | c3 c c4 A3 A A4 | G4 C4 F8 |
+w: ニ ツ ポン ダ ン ジ | コ レ ゾ | コ レ ゾ ニ ツ ポン | ダ ン ジ

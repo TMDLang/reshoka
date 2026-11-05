@@ -58,18 +58,30 @@ Q:1/4=116
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! A6 G2 F4 G4 | A3 A G3 F D4 C2 z2 | F6 A2 c4 A4 | c3 d c3 A G3 A G2 z2 |
-F6 G2 A4 c4 | d3 c A3 G F4 z4 | D6 F2 G3 A G4 | c3 d c3 A F4 z4 |
-!f! d6 A2 c6 A2 | G4 c4 d4 c4 | !mf! F6 G2 A4 c4 | G4 A4 G4 F4 |
-D6 F2 G4 A4 | G3 F G3 A G4 z4 | F6 A2 c4 d4 | c4 c4 A4 z4 |
-!f! f6 d2 c6 A2 | G4 F4 D4 C4 | F6 G2 A6 G2 | F6 D2 C4 F4 |
-!mf! D6 F2 F4 G4 | A6 G2 G2 A2 z4 | F6 A2 c4 d4 | c6 d2 c2 F2 z4 |
+!mf! C6 F2 A4 G4 | F3 F E3 D C4 C2 z2 | F6 A2 c4 A4 | G3 F G3 A G3 G G2 z2 |
+w: 1.~グ ン ト ウ | シ モ ノ ゴ ト ク | ダ ン ガ ン | ア ラ レ ニ ニ タ リ
+w: 2.~た い ほ う | そ ら に ひ び き | す ゐ ら い | う み に と ど ろ く
+F6 G2 A4 G4 | F3 E D3 D D4 z4 | C6 F2 G3 A G4 | c2 A2 G2 A2 F4 z4 |
+w: 1.~リ ク セ ン | イ マ ナ カ バ | ヤ マ ウ ゴ キ | カ ハ フ ル フ
+w: 2.~か い せ ん | い ま な か ば | か ぜ お こ り | な み さ わ ぐ
+!f! c6 c2 d6 c2 | A4 c4 A4 F4 | !mf! G6 A2 G4 F4 | D4 D4 F4 D4 |
+w: 1.~ニ ツ ポ ン | グ ン ジ ン | イ ノ チ ヲ | ヲ シ マ ズ
+w: 2.~に つ ぽ ん | ぐ ん じ ん | い の ち を | を し ま ず
+C6 F2 G4 A4 | G3 F G3 A G4 z4 | F6 A2 c4 d4 | c4 c4 F4 z4 |
+w: 1.~チュ ウ ギ ノ | コ _ コ _ ロ | イ ハ ヨ リ | カ タ シ
+w: 2.~ちゅ う ぎ の | こ _ こ _ ろ | い は よ り | か た し
+!f! c3 c d3 c A3 c A3 F | F3 F G3 A G3 F D3 F | !mf! C6 F2 G4 A4 | A4 G3 F G4 z4 |
+w: 1.~レ ツ ヲ モ ク ヅ サ ズ | ヤ マ カ ハ フ ミ コ エ | ス ス ム ヨ | ス ス ム ヨ
+w: 2.~へ _ さ き そ ろ へ て | し ら な み け た て て | す す む よ | す す む よ
+F6 A2 c4 d4 | c4 c3 c F4 z4 |
+w: 1.~テ キ ヂ ン | メ ガ ケ テ
+w: 2.~て き か ん | め が け て
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gunjin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-Zm5mSWJBZVKnFpaSm82N37ZNcuBS0tLkVbBUNDMy57WwU3LhsTfRM7kLYXK-e93zPr2bT2l80rns9pfLGu4dmcNWADn83eBJR5PmXDs7kTX8zsezG9Hyz8on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPZ89-unbH051bnk9Z8X5PBygk9YAhqQcKSSDDwOT9nk4lLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oHuAnr5aesKoJeBrni6ofdZe6dCgIG5kV5WQfqjhslApjGI-X5PD1DfywWNCgUFegomlkApUwOg4NP-5hcNzUD_P5s7AegrBUMThZfLpgHdDgwskH0vVu1_1rAcZFN374uZ84Gijxt3AAWB3geKPF07AWirm8LTJcuBYgrAWFAAigJ1g7S-bJj_dNeyZz3tz5fsAup72t3-dPH6Z1t2P9s78XFzN1Dfo5krbYFRCFIOUv9kRwPYxt29TzsagNKPGyc8bpr8uHH-48Y2oJqXc-aABac_bmoCch83rnu6DMgAikx53AiMAqBI_-OGhqd7O57s2AEWXwDWDjSkH8gAm7ABLN70uKnzcVMPWMvqJ3v2gAVXg7nzHzd1gd0-c8ezDrDqpi6QuY2zIUY82d31tLcLrKHlceO-x42rHjcCvQLUuQFk98aNT7ungnVBZNuAjgPL9j7dPvflHFAUAdU_blz_uHHr4yaIxq0g-55NXwpMqJDEDXHO48Yljxv3wnwAJGdAXACyZuJemAvWPW5cCBJsmvSsGRw8TZPAhk4HWw-Owaf7FzzftxKsYeHjplawo_qgAbi_GSw--XHT3MdNoHgDmb4Johho-nqw0aAweLqgFeZ2YBoAWQA2umM62M4eoGMhrgDGzdMtEP3AQFsKVjoV6BBo4GyfixQ4oHAAKnixox-sfitY8f4X2yDBC_ZrYwckIQGzLlBoJtCZYGsagI4CCkIYQKOfTd36cuZisJplwLB-3LgIElbPZwPDB-i4iUBxSBLb1QN295LlzxdAzAQmLpBHIUns-UpI4AMDA5j-Qanj5fz9YBGgXcCCBRSRIOs2bHk5ezvMScDYAYq3AGWfbYUIAgMYqAuk_cVeYGgBRVYAtUMDuLEfHN9bt0PTFygYgC4gKn29XLTiBdQOoK45jxuBaRMcTk1dzzYverkCIgXUsh8U6k3AcAVqnICeviApCJJksKQUSLqAJARo5M-GBAtq5L_o2Py0tQMssQMcySDvPeuHpChYcgJJLQOa9XzmXqALYfkXKA5yJCjygeXnalBZAI4kiOnAKFwGjXasUf2icxlSVHdjiWqgZspLWyhQ0NLn4nIvzcvKzLMKyEzMy3eoMahRqAbZoWBjaKZlB2ZhK-YVgOUpsEx7sbBHQcNE4emG_ufrG3TgZbMmFg1Aq6CGaQA1alopPG7aoPC4eTMQdwDZyxRqgOR2IG8REPcB2VugMusVDEByzQ0Q1U1rwDRINUjlSiAGiXRDcNN-IL0KqAPZul09IOsa5wNxCxDvBuI2kAGNc4EaOoH0aiDeBMRA4xt7IdY1zgTKTYDKt4BF2oAYaDxY9QogBlrd1Auk-xHWAQMvN61WwVhBFw6NgNgQiQ2CNVAVxlARQwWzeKiUKYhhAFYD0wVRCZRCYkNMgYiYQWmYaRAabAa4YMAdgbt6KIpAYECDoudxEzBEoVGyBMiaB8RdQDYwnJonQCMPKg6MZnDENq0Fqwap6AfiqUAMYk_FHnHAeAVH3GyglsngqADx9gEx0AFg2Q3QSAOx5wAx0PrGyUDVXWBRkCpQxAGtaQJa1whyFDzCkEMZFG6w0IWFdg0wfCF8iIwRXAcohKEqYLEHiUxYRMMiBFtUYRhCIKp2dFIWVaD8AQy1ZmCSh0YVNPc17UCJPGDOa24E4k3gaANmCnCeBEUdsGEKT-TANA4JFczUCePXwD0Pk4HpQIQsOLMQjgCYQTAZGB-mk0DYAZtzlIVd4-PmpdC0uw4cRKDA2vy4eQ-cal4LSYDgIASlaGD5AMwd0DQOKpSAwYiU6HAkGOS8DSsZ0JMSItXhKh9g4QxLdJglB7GJbtcUygIOVDCDEh0wGQGLdVBoAEuL5lYgvRWcoJBLBkhZABIBlQbAsroJlDhXYCsPQCkWGOig_AwsrmEFOagoBso0gmuSxunQohuS90EiE6FVADAagRglLRvGIQUlKPhwJ2ZYoKMW2JgRgpySYXxUFWAT4LqJTcutaymrc3dCcPMCcCIFRQmqCKS4BlZ1wCL6cXMTrGxoXgipeZs2gmWxFtPAGhNcawIr6qYOWB2KJAIpokHBD4oqUGUNLsybgMVNYw80gpZh1KUYWQVXZYoQhYU9OVkFOQWAdCGySi0Xl66dAqS1pABkKXNxAQA)]
-- [鋼琴伴奏 TMD 檔案](gunjin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_fJrl3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDQzMue1sFNy4bE30TO646BaUXK-e93zPr2bT2l80rns9pfLGu4dmcNUogmWezNwFlnk_Z8GzuxBcz-15M7wcLv2jf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbN09mzn67d8XTnludTVgDdaGRgZKBnYGCmZ2BhYg5kGJgAnanExeVempeVmWcVkJmYlx_k4VBjUKNQzaUABDaGZlp2YJa-loItOlAA2vBkR8OLhT0KGiYKTzf0P1_foKMQYGBupJdVkK6JRYOWPtgwoPG5abUKxgq6cGgExIZIbBCsgaowhooYKpjFQ6VMQQwDsBqYLohKoBQSG2IKRMQMSsNMg9BgM7jwe3FXDzleRHYXyCaYe2DuqwG6CMKHyBjBdYDcBFUB8y_E-7CggXkBm-cwDCHguR2dZMUfMPogzscMeBi_Bu5KmAxMByIIwOmAcEjBDILJwPgwnQQ8CcwG5HgSR-gjJy1YwkSPF0QU4kqesLCAxSBmwiU2BndNITcGDeOQHAdyEO4ohHkDNQdiehE5_mB8VBVgE-C6iY3B1rVkFzMY0YirnEGIwnxBTjQihyVIFyIaa1FLWh-UktYEWtACrYpXiDaMBVOm8bEIAaN4oFko0kAKzjeNB0tjmgFWZALng4wAmhRtlAvRg2SHabw5TAnUGJhCuDlwHejWo6uAmAQWQjMLyVI4E-p4ZMNMEK5CcxTIL0BZVBsh4YMaYKghCLcbi5tARiKHAzyk0B2E4juQk4BxqmunAIlWBSBLmYsLAA)]
+- [主旋律 TMD 檔案](gunjin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBHuZk5mSWJRZVKXFpaCi929z7ZtUtBS4tL0VbB0NCMy95WwY3LxkTfxA6k7cXKee_3zHo2rf1l84rncxpfrGt4NmcN2MBnszcBZZ5P2fBs7sQXM_teTO8HC79o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzdPZs5-u3fF055bnU1a839MBCm49YHDrgYIbyDAweb-nU4mLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oLuAXn7augLoZaArnm7ofdbeqRBgYG6kl1WQ_qhhMpBpDGK-39MD1PdyQaNCQYGegoklUMrUACj4tL_5RUMz0P_P5k4A-krB0ETh5bJpQLcDAwtk34tV-581LAfZ1N37YuZ8oOjjxh1AQaD3gSJP104A2uqm8HTJcqCYAjAWFICiQN0grS8b5j_dtexZT_vzJbuA-p52tz9dvP7Zlt3P9k583NwN1Pdo5kpbYBSClIPUP9nRALZxd-_Tjgag9OPGCY-bJj9unP-4sQ2o5uWcOWDB6Y-bmoDcx43rni4DMoAiUx43AqMAKNL_uKHh6d6OJzt2gMUXgLUDDekHMsAmbACLNz1u6nzc1APWsvrJnj1gwdVg7vzHTV1gt8_c8awDrLqpC2Ru42yIEU92dz3t7QJraHncuO9x46rHjUCvAHVuANm9cePT7qlgXRDZNqDjwLK9T7fPfTkHFEVA9Y8b1z9u3Pq4CaJxK8i-Z9OXAhMqJHFDnPO4ccnjxr0wHwDJGRAXgKyZuBfmgnWPGxeCBJsmPWsGB0_TJLCh08HWg2Pw6f4Fz_etBGtY-LipFeyoPmgA7m8Gi09-3DT3cRMo3kCmb4IoBpq-Hmw0KAyeLmiFuR2YBkAWgI3umA62swfoWIgrgHHzdAtEPzDQloKVTgU6BBo42-ciBQ4oHIAKXuzoB6vfCla8_8U2SPCC_drYAUlIwKwLFJoJdCbYmgago4CCEAbQ6GdTt76cuRisZhkwrB83LoKE1fPZwPABOm4iUBySxHb1gN29ZPnzBRAzgYkL5FFIEnu-EhL4wMAApn9Q6ng5fz9YBGgXsGABRSTIug1bXs7eDnMSMHaA4i1A2WdbIYLAAAbqAml_sRcYWkCRFUDt0ABu7AfH99bt0PQFCgagC4hKXy8XrXgBtQOoa87jRmDaBIdTU9ezzYteroBIAbXsB4V6EzBcgRonoKcvSAqCJBksKQWSLiAJARr5syHBghr5Lzo2P23tAEvsAEcyyHvP-iEpCpacQFLLgGY9n7kX6EJY_gWKgxwJinxg-bkaVBaAIwliOjAKl0GjHWtUv-hchhTV3ViiGqiZ8tIWChS09Lm43EvzsjLzrAIyE_PyHWoMaqpBVijYGJpp2YFZ2Ep5BWBxCizSXizsUdAwUXi6of_5-gYdeNGsiUUD0CaoYRpAjZpWCo-bNig8bt4MxB1A9jKFGiC5HchbBMR9QPYWqMx6BQOQXHMDRHXTGjANUg1SuRKIQSLdENy0H0ivAupAtm5XD8i6xvlA3ALEu4G4DWRA41yghk4gvRqINwEx0PjGXoh1jTOBchOg8i1gkTYgBhoPVr0CiIFWN_UC6X6EdTUK1blptQqm8Qq6cGgIxMZQthGUrgGLguTMIUrN4hGawAwDJFUQCDLDFIkNMQdioiGUNobSRmAabAbYXT6GoPDagGQaKAxBZAeMD4wBmJmgeICogcQFRB4SHzDV6-FuBMUMhrnAWELmw8xdBBWDxBqEDYk5iKmQ2ENxuREo6Ocj2wCMDhC5G85vQ9gAjFKISZBohchDohamuhfhcmAkI5kLjG6ITmR7YOZC7IAlAAgbkgggeiEJAeZy_PlmVw9F-QYYQqDwf9wETMjQnLAEyJoHxF1ANjB5Nk-A5hmoODBuwfHXtBasGqSiH4inAjGIPRV7fgFGDDi_zAZqmQwOBBBvHxADHQCW3QDNKyD2HCAGWt84Gai6CywKUgUKLqA1TUDrGkGOgucT5JQNSqu4cggwfwDzBogFpKAsSChDVGFkNdSMAFYCNR5mDcxquCGILAJOfIgEAUrkoGDGlpSXQMUgwQ5RDwl6dCeCogHJVKAORHaDRQvCXFDiAkUPiJwKJiEiIDYWV4OzByT7ICdbUKzBfDEZYTo0ScNiEcKGxCSGq9FMnQMmoT6FxjJCLcgsUGyDSLCrgTEOYmOEBoGssaOTsqwBKkyAqbQZWLJDswa0kmnagZJZgBVMcyMQbwLHD7CAAFc9oKwC7H7By3JQUY4UCCC2GRq_Bp5y0ctmWDKD1gmw9AhTAuMjlMFTN5wBk4MLICdVlOgBehpEQko_mBgouSKX-4gEDAoOdDFEoobJgEp-UDDB-JsQKuFsWF0BS9gQsV2o7gUnUkipCVXRCLIJ2AVAFgMnVJBKWKJBJF1gBwFDDJGcYWrWgcmFcJWTkHwGYwObaHDWPjhrFty9eJMnsF9IWfJsfNy8FFocrwMHMMhpkAoTUh2vhZSo4DQKKqKBVQywTIIW2qDqERjcSKUojtKPcAMBOafjamTAkjqkBAVBGI2vBAV7ETlWQQUdyLtQPrQ9AYkVRHqEs4BBgO5A9HQJKRxXwPmwQhtWfEJMBBVGEBYshWIrOkG9RmTDwRU9sA8J58McDlKMSI5wFrDix3AuWrKE1CKIphNyuQnLxIgmDiKBEltm7poCTpRG5CZKUPMZVGYCS0FQgw_UtGhuBdJbwRkZuRmB3HAAtqaBkfa4aQW2pgOodAFX_MDWFqSZDaKBRXAjuJ0P9CKkhQZrIkwEBwBIFoSxFMCm0NRoCk3ZMNoQqSmNmsINYaUmUAlS8oS1OiEehrAhnoawIR6HRBTM8xAZSADAUiCsQoYFBETHCpS0BS9jwVUiiIaEBizhwFQgQgUiAwkZiAwkdGBJBKQSroNAWdW6lrLe2U4Ibl4AzmugvIUqAmlhtoGbL4-bm2DVa_NCoAgwSTVtBMtibVkC-1bg_hWwSwfMF9DeFpIIpFUJSgygQAJ168DtzyZgjd3YA00uywj3ujALQ9RWJizJUFIYmuIrDIGhhTANwgOFHpQPL8GQVcJYsFBGdx8oTJHNXAtW2wQ3E6k2B8YETBU01UPjBKt7wSkWpT8E5oGiBGYKrAhDVgljwaIOw73QFAtT3Qsm4cUecm0OjF6Yqh4oDYlodPfWcnHp2ilAhi0UgCxlLgA)]
+- [鋼琴伴奏 TMD 檔案](gunjin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_fJrl3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDQzMue1sFNy4bE30TO646BaUXK-e93zPr2bT2l80rns9pfLGu4dmcNUogmWezNwFlnk_Z8GzuxBcz-15M7wcLv2jf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbN09mzn67d8XTnludTVgDdaGRgZKBnYGCmZ2BhYg5kGJgAnanExeVempeVmWcVkJmYlx_k4VBjUFPNpQAENoZmWnZglr6Wgi06UABa8GRHw4uFPQoaJgpPN_Q_X9-goxBgYG6kl1WQrolFg5Y-2LAaherctFoF03gFXTg0BGJjKNsISteARUFy5hClZvEITWCGAZIqCASZYYrEhpgDMdEQShtDaSMwDTYD7C4fwxqFx00bkEx73LwZTHbA-E3L4GY-btoOVbMIiPug8ltQVK-Hu_FxcwOmuU1rUPgwcxdBxVYCMUTF4-ZuMIaYuh_IXoXqciOgvsb5yDY0toDJ3XB-G8KGxrlQkzqB7NVQ-U1ADHPF48ZehMsbZyKb2zQBqhPZHpi5EDseNwJdCDd3BRCvhOrtBbL74S7Hn7J29ZCTspDTAih2caUpYIoCpiYQC0hBWRB3QVRhJE7UpANWAjUeZg3MarghiEQFji5EEIKSxeMmeNSgRP4SqNg8IO6Cql8NZIOCHdWJj5shamGmzAOrhSRQcEJsWotkLig6HjeDAv9x81QwCREBsbG4GpygIAkOOaIfN86G-2IywnRoInjcuA-IIX4F6X7cCMtMSK5GM3UOmIT6tHEy0FwIG6IWZBYoOYFIsKubwD5oxAgNAolpRydZxRSolEJyLYhthsavgScx9GIHlh6gxR0s4cCUwPgIZfBkCGfA5OACyGkKJRybwbHTDMnYMDFQukIu0hAp7XHTDgwxROqDyYAKtcfNjXD-JoRKOBtWDMJSIERsF6p7wakJUiBAVTSCbHrcuBdZDJyiQCphsYtIY48bZ2CIIdIdTM06MLkQrnISks9g7MeN0-GsfXDWLLh78aYjYH1KTjrCUZgQrqGQMw6uWg6WICEFEgjCaHwFUuPj5qVIBkLKjcdNoBAE86EVGiTsEKkGzmpei-FA9NQDKWtWwPmwMhBWGkFMBOVtCAuWjrCVRAsfN7UiGw6uaR43whwJiXqo4cBCBCYKZwFrHgznoiUeSKGMqLuRiyFYVkPUsYhkRGwRtGsKOOkYkVsEmUJj2hSaamC0IVI7CTX1GMLKDaASpKiHNSla4LkY3IQB10ogdiuQvRUaCLuQ6hlwnQSNOVDswuqOx83z4SnjcdMKlHiDlzLg0htE9yI1P0BsiIrHjcvAAQ0JVEjDBFaPgBoTE-HBD1IJ10Egt7aupV7jFDPLojYtYIFPSZY1xZdlm3YimQbhPW5eAOPD8xmyShgLpA6hArkFAWsUQlSvBattgpuJVDM0I0pVaPpp2oikH1ueRWk2gnmPm2CNYERGQ1YJY4HUIVQgZ1lY8xuiuhdMwjMncs3QBK-1Gnug9EQk_Qj31qJ2f3yQuz8m0N4PMCbjFaINY8GUaXwsVADEAtIGqPJAClTig7sqIAoojTAEKIYwwwjIMsqNBdFIZgCVIOyAqEcxAqTGBCyM01qwfogIzA6gDjCNZhBIA6ZWNB-ZYHoYM1jAhkBcDDYUpAmXXWBlBO0yh1sGjCNdOwVINEX7AFUi8YzAPGUuAA)]
 
 ## 分析
 
@@ -77,28 +89,28 @@ D6 F2 G4 A4 | G3 F G3 A G4 z4 | F6 A2 c4 d4 | c4 c4 A4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 軍人 ]
 ================================================================================
-⏱  Duration:       0:49 (49.7s), 24 measures total
+⏱  Duration:       0:45 (45.5s), 22 measures total
 🎼 Key & Tempo:    首調基準 F, != 116.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  C4 in [Gunjin #1 @ m.2, 0:03]
-   - 最高音: F5 in [Gunjin #1 @ m.17, 0:33]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Gunjin #1 @ m.1, 0:00]
+   - 最高音: D5 in [Gunjin #1 @ m.9, 0:17]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Gunjin (49.7s)
+🏛  結構:      Gunjin (45.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  F, C, G, A, D
-   - 調性數值:    F 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.83), C 大調 (0.75), D 小調 (0.64)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  C, F, G, A, D
+   - 調性數值:    C 調性不明確 [相關度: 0.83, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.83), F 大調 (0.81), A 小調 (0.59)
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Gunjin #1]: F 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [Gunjin #1]: C 調性不明確 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-               C  
-        [F ]*          G  
+              [C ]*
+         F            G  
       Bb               D  
       Eb               A  
          Ab           E  
@@ -107,21 +119,21 @@ D6 F2 G4 A4 | G3 F G3 A G4 z4 | F6 A2 c4 d4 | c4 c4 A4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████████████    22.2%
+     C  : ████████████████████████  24.7%
      C# :                            0.0%
-     D  : ███████████████           15.4%
+     D  : ████████████              12.7%
      D# :                            0.0%
-     E  :                            0.0%
-     F  : ████████████████████████  24.2%
+     E  : █                          1.2%
+     F  : ██████████████████████    22.5%
      F# :                            0.0%
-     G  : ███████████████████       19.1%
+     G  : ██████████████████████    22.2%
      G# :                            0.0%
-     A  : ███████████████████       19.1%
+     A  : ████████████████          16.7%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 104 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 104 個音符)
 ================================================================================
 ```
 
