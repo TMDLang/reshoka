@@ -61,14 +61,26 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A3 A A2 A2 | F3 F D2 D2 | E3 E F2 G2 | B2 B2 A2 z2 |
+w: 1.~て お ひ の | ゐ の し し | き ば く ひ | そ ら し
+w: 2.~た い しや う | よ り と も | あ れ し と | め よ と
+w: 3.~う ま か ら | ひ ら り と | み を を ど | ら せ て
+w: 4.~す そ の に | ひ か へ た | い く せ ん | に ん が
 d3 d A2 A2 | B3 B A2 F2 | E3 E F2 G2 | F2 E2 F2 z2 |
+w: 1.~ち を け り | き を を り | く さ な び | か せ て
+w: 2.~い ふ こ ゑ | ま た ず に | に た ん の | し ら う
+w: 3.~せ な か へ | と び の り | わ き ざ し | ぬ い て
+w: 4.~い ち ど に | や ん や と | し ら う を | ほ め た
 d3 d A2 A2 | B3 B A2 F2 | E3 E A2 B2 | A2 A2 D2 z2 |
+w: 1.~こ な た を | め ざ し て | や ま か け | く だ る
+w: 2.~ゐ の し し | め が け て | う ま か け | よ せ る
+w: 3.~こ ぶ し も | と ほ れ と | い つ さ し | む さ し
+w: 4.~ふ じ の _ | や ま さ へ | く づ れ る | ほ ど に
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nitan_no_shiro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFxaWkpPG5c_bhx_uOmyY8b1z2dPftlc5-ClhaXoq2CoYEBl72tgguXjZG-iR3IjBftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKr5-naHU93bnk-ZcX7PR2gUNIDhpIeKJSADAOj93s6wa58Nq39ZfOK53MagW7T1-J6sqOB61ln9-PGrseNm4Due96z6nFj7-PGDY8b-8Eicx83dT5unM71dM6Gx02THjdOfNzU9WzOChAbhLpe9AKlgXo2P24EmjL7ceMyrseNQJ8ChYBenvR89rrHjdOABgAlnm7cCFY0EWz2gsdN3VxcQHdzPV2y_OmG9hebtzybM_dxY9Pjph6weqAdjY-bOoAMoIktjxu3vgC5Zx_I3MZZwDB9srvx-RSgO6FhygVyOlBHI1A30IZlL5etgdoGMmM2xLYdnVxQcZCvNoHIJqDPV7zYtRrqo8aVYCmoR4AU0CNAU3aA3APy5DqQhiag-4GBBPEX0Dig66De3gYSamoCq94N9smKJ7umPG6cChR_2roWwuDiAjoZqH4mKHiBJoLSB9BrEGvmP92572lv85Ndu4BeAcXP013LQCqaWkApCEg2roB4GOxaoB1AL8_nerq-5-lioDHrwIEMtARoEtCRS0FOaAIavBvkscbVXFr6XFy-iZl5VgGZiXn5DjUGNQrVXApAYGNopmUHZtUomCroAqEpmAbhGgVjsIixgiGQBOEaBSOwiBFYxgQsYgYkQRikwwAkAjXNMA6sFEghzAOpA6kG8UAmYDMPxAKJgmjyzQOJgGQhvgJhkPsh5tVycenaKYCCQwFIK3NxAQA)]
-- [鋼琴伴奏 TMD 檔案](nitan_no_shiro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43Lj6ceP8x02THzeuezp79svmvvd7Op7s2fJ0af-T3TPe7-lU0NLiUrRVMDQw4LK3VXDhsjHSN7HjqlNQetG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJ7t6nq7d8XTnludTVgAtMzIwMtAzMDDTM7AwMQcyDIyAtiqBbHg2rf1l84rncxqVuLh8EzPzrAIyE_PygzwcagxqFKq5FIDAxtBMyw7MqlEwVdAFQlMwDcI1CsZgEWMFQyAJwjUKRmARI7CMCVjEDEiCMEiHAUgEapphHFgpkEKYB1IHUg3igUzAZh6IBRIF0eSbBxIByUJ8BcIg90PMq0UODR9coWEYD1QcbRgL0opg4hY3jQfzTONBXBROjYIJmGcC14PiLxzmoeshxh50syixxwjMMcJiCwoXyR5guOraKYCCFplW5uICAA)]
+- [主旋律 TMD 檔案](nitan_no_shiro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6bl52Tn5BelKnFxaWkpPG5c_bhx_uOmyY8b1z2dPftlc5-ClhaXoq2CoYEBl72tgguXjZG-iR3IjBftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebKr5-naHU93bnk-ZcX7PR2gUNIDhpIeKJSADAOj93s6wa58Nq39ZfOK53MagW7T1-J6sqOB61ln9-PGrseNm4Due96z6nFj7-PGDY8b-8Eicx83dT5unM71dM6Gx02THjdOfNzU9WzOChAbhLpe9AKlgXo2P24EmjL7ceMyrseNQJ8ChYBenvR89rrHjdOABgAlnm7cCFY0EWz2gsdN3VxcQHdzPV2y_OmG9hebtzybM_dxY9Pjph6weqAdjY-bOoAMoIktjxu3vgC5Zx_I3MZZwDB9srvx-RSgO6FhygVyOlBHI1A30IZlL5etgdoGMmM2xLYdnVxQcZCvNoHIJqDPV7zYtRrqo8aVYCmoR4AU0CNAU3aA3APy5DqQhiag-4GBBPEX0Dig66De3gYSamoCq94N9smKJ7umPG6cChR_2roWwuDiAjoZqH4mKHiBJoLSB9BrEGvmP92572lv85Ndu4BeAcXP013LQCqaWkApCEg2roB4GOxaoB1AL8_nerq-5-lioDHrwIEMtARoEtCRS0FOaAIavBvkscbVXFr6XFy-iZl5VgGZiXn5DjUGNdVcCkBgY2imZQdm1SiYKugCoSmYBuEaBWOwiLGCIZAE4RoFI7CIEVjGBCxiBiRBGKTDACQCNs3HsAaY_peBVQMTGRBvArPWgfU8bpoAlVkHxNPBLBAJ0tMLldkAxP1gFkgnSGYuiNfUCVcdj7DNCCQ_H6qzBSQPDDEwpw1qYQdEsgnklBVgVhPUWBAN4vfAnQKSB-lpBIuDdELEkCw0BukEmQ2S2wfE3XDHgWRATobwQTYimdm4HyozCYxBMiuhtkE8NhtMggIOyTYTkM6ZUNvmQoMRGK2otgHdAIx_MAsUFCAZUBiA-P0wk5smQ2VAeiE8YHJDsa1GwTAOrA1IIZICKIpBEQ3igSIfW1IAsUCiIBo9KSxE-LtxIjQmUCIcESJwGVD0g9w3FYhXgVmboTLg0MYeVuCkAPP3ViAG-7EJZCdIZh9UZj4Qz0IJRRANlYGGCzSxQlIFNH5AcY6eDkDuAMmtgrsMFAsgGVCsQ9wNjTOY35pgfusF4mlgFiwDrAHzIKkXWzqA-W0hNO3AfQBO8ZBYhaV-WKoDmQ1Nj2AfQEIaJLMbzAOndHCqIT8dgERAspCCBIRBRQZ6OgCFLCysQPbBXQJ2A0hmGizEwb5H8hcin4FTECyFAKsUsDkgGbR0gLuYgdsGyvXg9AizDTNXw2yDlgSQfIRmGzgdwPy2DZ5mYGUMLB3sBpczyDED89sSIJ6K4sIGMA8hhp4OtkJ1zoCmLRBEDy2IblhqhKW5pTBXgH0BTwVIqQliVy0Xl66dAqjaUADSylwA)]
+- [鋼琴伴奏 TMD 檔案](nitan_no_shiro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uLS0lJ43Lj6ceP8x02THzeuezp79svmvvd7Op7s2fJ0af-T3TPe7-lU0NLiUrRVMDQw4LK3VXDhsjHSN7HjqlNQetG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJ7t6nq7d8XTnludTVgAtMzIwMtAzMDDTM7AwMQcyDIyAtiqBbHg2rf1l84rncxqVuLh8EzPzrAIyE_PygzwcagxqqrkUgMDG0EzLDsyqUTBV0AVCUzANwjUKxmARYwVDIAnCNQpGYBEjsIwJWMQMSIIwSIcBSARsmo9hDTBkloFVP27sAuJNYNY6sJ7HTROgMuuAeDqYBSJBenqhMhuAuB_MAukEycwF8Zo64arjEbYZgeTnQ3W2gOQfN7WAOW1QCzsgkk0gp6wAs5qgxoJoEL8H7hSQPEhPI1gcpBMihmShMUgnyGyQ3D4g7oY7DiQDcjKED7IRyczG_VCZSWAMklkJtQ3isdlgEhRwSLaZgHTOhNo2FxqMwISHahvQDY8bd4BZoKAAyYDCAMTvh5ncNBkqA9IL4T1u7EGxrUbBMA6sDUghkgIoikERDeKBIh9bUgCxQKIgGj0pLET4u3EiNCZQIhwRInAZUPSD3DcViFeBWZuhMuDQxh5W4KQA8_dWIAb7sQlkJ0hmH1RmPhDPQglFEA2VgYYLNLFCUgU0fkBxjp4OQO4Aya2CuwwUCyAZUKxD3A2NM5jfmmB-6wXiaWAWLAOsAfMgqRdbOoD5bSE07cB9AE7xkFiFpX5YqgOZDU2PYB9AQhoksxvMA6d0cKohPx2ARECykIIEhEFFBno6AIUsLKxA9sFdAnYDSGYaLMTBvkfyFyKfgVMQLIU8blwANgckg5YOcBczcNtAuR6cHmG2YeZqmG3QkgCSj9BsA6cDmN-2wdMMrIyBpYPd4HIGOWZgflsCxFNRXNgA5iHE0NPBVqjOGdC0BYLooQXRDUuNsDS3FOYKsC_gqQApNUHsqkWuNXxw1BqGILXRhrFAEomJW9w0HswzjQdxUTg1CiZgnglcDyLx4DYPXQ8x9qCbRYk9RmCOERZbULhI9gCDVddOARSy0T4gQ2BskBkwtjESG2SnnYIyFwA)]
 
 ## 分析
 

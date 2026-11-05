@@ -54,17 +54,17 @@ Q:1/4=108
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 C3 C | F8 F4 F3 G | A8 A4 G3 A | c6 A2 G4 A4 |
-!f! G8 z4 c3 c | d8 A4 d3 c | !mf! c12 c3 A | G6 A2 G4 F4 |
-!mp! D4 C4 z4 C3 C | F8 F4 D3 F | !mf! G8 G4 c3 c | d6 c2 A4 G4 |
-!f! A8 A4 c3 c | d8 A4 d3 c | !mf! c8 A4 G3 A | F6 G2 A4 G4 |
-F8 z4 z4 |
+!mf! z12 C3 C | F8 F4 F3 G | A8 F4 A3 c | d6 A2 F4 A4 |
+!f! G8 z4 c3 c | c8 A4 d3 c | !mf! c12 F3 G | A6 c2 A4 A4 |
+!mp! F8 z4 E3 F | G8 G4 F3 G | !mf! A8 A4 c3 c | d6 c2 c4 A4 |
+!f! G8 z4 c3 c | c8 A4 d3 c | !mf! c8 A4 F3 G | A6 c2 A4 A4 |
+F8 z8 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](waga_teikoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqRCdGtpKTzrmPi4sefpjrlP53QraGlxKdoqGBpYcNnbKrhx2Zjom9iBNL9YOe_9nlnPprW_bF7xfE7ji3UNz-asARv7bPYmoMzzKRuezZ34Ymbfi-n9YOEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHk6e_bTtTue7tzyfMqK93s6QOGpBwxPPVB4AhkGJu_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnQX0MtPW1cAvQx0xdMNvc_aOxUCDEyN9LIK0t_v6QEqfrmgUaFAT8HIEsgFOvzJjk6gw5_NmQ9kK5govFw2DehSYNCATH-xav-zhuUgc7t7X8ycDxR93LgDKAj0LFDk6doJQDvcFJ4uWQ4UUwCGuQJQFGjq0z0bX2zd_mRHA5jbCTLpZcP8p7uWPetpf75kF9CYF6sWPG7e9GLfnsfNCx83twGNeTRzpS0w_kDKQeqBmiHUtOdTe4DSjxtnP27sftzYAlTwuHH148Z9jxvnP25c9bixF5oQ5nQ_mw-UBarsByvoedwE9Ebn46YOsEH7usFy8x83NYKNmP64qelxYxNQ0ePGNY8bJz9uXAf0x9N9C5_sXgxW2fW4cffjxv1A_QhTXs7e9HLaZKglIP37IM550bgZLDj3MYgBVN32uKn76caNIEOXNYGlpjxuBKYLoGKQ68Ax1z0VLNEGlANLAH0368W6LrAgkL0ebBDIdcgeBDkE7J9dPWAHtfcBUwBYyzqgFpiXJz3bCvQlUBAYPsDQA4p0gxy0Heg-3A562QDMEUCJmY-b5oIl9j9uXPZs7SKQYBMk3IGBjh5W0JABB-VcuEvBbgGa1YtwNVgRqtbG9c-WrQPbORXoZUTAIRtMeTaBAgUtfS6u8MT0xJDUzOz87FKrgMzEvHyHGoMahWqQRQo2hmZadmAWtkyqAM4qDS8W9ihoQNK3gjYwuzzd0P98fYMOPItpYtEJtBhqqgbQBE0rEAcreNy0G0yuVqgBkkvQZZu74ax5YHX7QeqauzBMWQtXtx7MXwM2D8RGNgkkDuOvhLJA5q1AMw9h7n6w2oUoHtrVg89DjevA5HqwAzoxDJwEV7cKTPaA1cG8iVAH93gj2OEQ88Bmw8SngEmY04GJGsoCqVuNZh5C10woCfVQjYKBgi4YotPVuWm1CqbxYDaQqlEwhErAIIwPoY2AKozRVMD4RlBejYIpmixEBqGyBi4Cg3DngFwDcYxCDbg8wJ1md_WA0yyZSfVx03b0UGteBGM1gVigxANKNj24QrlpM1hVHzhuQfEMM2c2mJwP58NiDzkRPm7eg2EeOFEDXYGRDIFFFrrixmVwbS1g_j5wkoClfHQALKHA5DqwKkTOAtYFYBJmPrBwgrJAnoKxsTi2sQlKwpOYGY50AREHxidKukCGkEQITz7IiQM5-cCSItAqSIIFJ1m0BJRbgJKeCaShHZ0UpSFwcYUSLIiirGkvmD8ZHOuwyEKog-Xdx82g4hBkEkhdH0JF0xawODwK4MUcSB16SYLQBbIJpBczDTXBig64YmCxBGOB5ECxjK1YARVLMONBzgHWfmB1CPMgepDMgxeJyKkIHSDSJDwN4Sp9oBFuiKXogPGREhEorSGnRpAoaikFSkS4yjESyiBgc5GyMggjqJt2wVngIG3uB8c3rBqDq4OXStStCmEASwmEURuDSw4IC1J_glMPRmwjpZ7GqWCyG6yuDaECXA0SKoNwAQrKH3iMg5IOovpCToQgUcykg55M0WvVGq5aLi5dOwWkVpkCkKvMxQUA)]
-- [鋼琴伴奏 TMD 檔案](waga_teikoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMfFxY8_THXOfzul-v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGlhw2dsquHHZmOib2HHVKSi9WDnv_Z5Zz6a1v2xe8XxO44t1Dc_mrFECyTybvQko83zKhmdzJ76Y2fdiej9Y-EX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrns6e_XTtjqc7tzyfsgLoRiMDIwM9AwMzPQMLE3Mgw8AE6EwlLq7wxPTEkNTM7PzsUquAzMS8_CAPhxqDGoVqLgUgsDE007IDs_S1FGzRgQLQmic7Gl4s7FHQeLpn44ut2xW0FUwUnm7of76-QUchwMDUSC-rIF0Ti04tfbCpNQoGCrpgiE5X56bVKpjGg9lAqkbBECoBgzA-hDYCqjBGUwHjG0F5NQqmaLIQGYTKGrgIDMKdA3INxDEKNVz4Q2RXDzhESAwIMxyuh4gDbUVxPTKEBBXck8heQPYkLMCAVkGCFRywaN7MLUAJdQI-3dFJjk9xxSTUWYZYogHGR_IqKESQwwwkihrjIK_iShMkxCcwI9EnPuFuA3kSkWiRgwskiulJ9ABFz0s1XLVYMroPSkY3geZzUI6EQKAUyCGG8QrRhrEwCmgZgm8ajyRgGg9TAWaB5AzAwQwWhJptApQxgWgGUnC9IAy2DM0AhJkgjUAG0ERQCgU6DpaWEK4xi8_F0IxkKJLVEHebgRSCNUFIIt0KpCCmopsCMdkcSSk4FEFhr2ungBT8CphcZS4uAA)]
+- [主旋律 TMD 檔案](waga_teikoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqRCdGtpKTzrmPi4sefpjrlP53QraGlxKdoqGBpYcNnbKrhx2Zjom9iBNL9YOe_9nlnPprW_bF7xfE7ji3UNz-asARv7bPYmoMzzKRuezZ34Ymbfi-n9YOEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHk6e_bTtTue7tzyfMqK93s6QOGpBwxPPVB4AhkGJu_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnQX0MtPW1cAvQx0xdMNvc_aOxUCDEyN9LIK0t_v6QEqfrmgUaFAT8HIEsgFOvzJjk6gw5_NmQ9kK5govFw2DehSYNCATH-xav-zhuUgc7t7X8ycDxR93LgDKAj0LFDk6doJQDvcFJ4uWQ4UUwCGuQJQFGjq0z0bX2zd_mRHA5jbCTLpZcP8p7uWPetpf75kF9CYF6sWPG7e9GLfnsfNCx83twGNeTRzpS0w_kDKQeqBmiHUtOdTe4DSjxtnP27sftzYAlTwuHH148Z9jxvnP25c9bixF5oQ5nQ_mw-UBarsByvoedwE9Ebn46YOsEH7usFy8x83NYKNmP64qelxYxNQ0ePGNY8bJz9uXAf0x9N9C5_sXgxW2fW4cffjxv1A_QhTXs7e9HLaZKglIP37IM550bgZLDj3MYgBVN32uKn76caNIEOXNYGlpjxuBKYLoGKQ68Ax1z0VLNEGlANLAH0368W6LrAgkL0ebBDIdcgeBDkE7J9dPWAHtfcBUwBYyzqgFpiXJz3bCvQlUBAYPsDQA4p0gxy0Heg-3A562QDMEUCJmY-b5oIl9j9uXPZs7SKQYBMk3IGBjh5W0JABB-VcuEvBbgGa1YtwNVgRqtbG9c-WrQPbORXoZUTAIRtMeTaBAgUtfS6u8MT0xJDUzOz87FKrgMzEvHyHGl3DmmqQRQo2hmZadmAWtkyqAM4qDS8W9ihoQNK3gjYwuzzd0P98fYMOPItpYtEJtBhqqgbQBE0rEAcreNy0G0yuVqgBkkvQZZu74ax5YHX7QeqauzBMWQtXtx7MXwM2D8RGNgkkDuOvhLJA5q1AMw9h7n6w2oUoHtrVg89DjevA5HqwAzoxDJwEV7cKTPaA1cG8iVAH93gj2OEQ88Bmw8SngEmY04GJGsoCqVuNZh5C10woCfVQjYKBgi5WWJ2bVqtgGg9mA6kaBUM0BTA-hDYCqjDGoQIibgpUYYYkCxJFVaELVGGEZgbMedUg18DMAZcHuNPsrh5wmiUzqT5u2o4eas2LYKwmEAuUeEDJpgdXKDdtBqvqA8ctKJ5h5swGk_PhfFjsISfCx817MMwDJ2qgKzCSIbDIQlfcuAyurQXM3wdOErCUjw6AJRSYXAdWhchZwLoATMLMBxZOUBbIUzA2Fsc2NkFJeBKDxBtqzIMgJDWA0gW6CpREiD2BgbTA-Ijkg55I4cknt6BWwRySmg0JJqAdnRQlIHBZhRImiHKsaS-YPxkc5bCYQqiDZdzHzaCyEGQSSF0fQkXTFrA4PPzhZRxIHXoxgtAFsgmkFzMBNcHKDbhiYJkEY4HkQFGMrUwBlUkw40HOAVZ9YHUI8yB6kMyDl4fISQgdIBIkPAGhFwowPu6iB8aHlGLwdIZc_oBEYemOquUPsKlIWfmDEdJNu-AscIg294OjG1aFwdXBSyTqVoMwgKX0waiJwaUGhAWpO8GJByOykRJP41Qw2Q1W14ZQAa4CCZU_uAAFZQ9K0qFG2QODNVy1XFy6dgpILTIFIFeZCwA)]
+- [鋼琴伴奏 TMD 檔案](waga_teikoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMfFxY8_THXOfzul-v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGlhw2dsquHHZmOib2HHVKSi9WDnv_Z5Zz6a1v2xe8XxO44t1Dc_mrFECyTybvQko83zKhmdzJ76Y2fdiej9Y-EX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrns6e_XTtjqc7tzyfsgLoRiMDIwM9AwMzPQMLE3Mgw8AE6EwlLq7wxPTEkNTM7PzsUquAzMS8_CAPhxpdw5pqLgUgsDE007IDs_S1FGzRgQLQmic7Gl4s7FHQeLpn44ut2xW0FUwUnm7of76-QUchwMDUSC-rIF0Ti04tfZipGkATNK1AHKzgcdNuMLlaoQZILkGXbe6Gs-aB1e0HqWvuwjBlLVzdejB_Ddg8EBvZJJA4jL8SygKZtwLNPIS5-8FqF6J4aFcPPg81rgOT68EO6MQwcBJc3Sow2QNWB_MmQh3c441gh0PMA5sNE58CJmFOf9zYD2WB1K1GMw-hayaUhHqoRsFAQRcrrM5Nq1UwjQezgVSNgiGaAhgfQhsBVRjjUAERNwWqMEOSBYmiqtAFqjBCMwPmvGqQa2DmcOFPs7t6wGmWzKT6uGk7eqg1L4KxmkAsUOIBJZseXKHctBmsqg8ct6B4hpkzG0zOh_NhsYecCB8378EwD5yoga7ASIaPG0EpFEVx4zK4thYwfx84ScBSPjp43DgZTK4Dq0LkrMeN4JwJN_9xUweUBfIUjI3FsY1NUBKexCDxhhrzIAhJDaB0ga4CJRFiT2AgLTA-IvmgJ1J48sktqFUwh6RmQ4IJaEcnRQkIXFahhAmiHGvaC-ZPBkc5LKYQ6mAZ93EzqCwEmQRS14dQ0bQFLA4Pf3gZB1KHXowgdIFsAunFTEBNsHIDrhhYJsFYIDlQFGMrU0BlEsx4kHMeN_aC1SHMg-hBMg9eHiInIXSASJDwBIReKMD4uIseGB9SisHTGXL5AxKFpTuqlj_Aqpmy8gcjpJt2wVngEG3uB0c3rAqDq4OXSNStBmEAS-mDURODSw0IC1J3ghMPRmQjJZ7GqWCyG6yuDaECXAUSKn9wAQrKHpSkQ42yBwZruGqxNMh8UBpkJtD2GKhehsAaqEPiFaINY2EU0DIE3zQeScA0HqYCzALJGYATL1gQarYJUMYEohlIwfWCMNgyNAMQZoI0AhlAE0HlKdBxUAORXGMWn4uhGclQJKsh7jYDKQRrgpBEuhVIQUxFNwVisjmSUnAogsJe104BKfgVMLnKXAA)]
 
 ## 分析
 
@@ -72,51 +72,51 @@ F8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 我が帝國 ]
 ================================================================================
-⏱  Duration:       0:37 (37.8s), 17 measures total
+⏱  Duration:       0:35 (35.6s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [WagaTeikoku #1 @ m.1, 0:01]
-   - 最高音: D5 in [WagaTeikoku #1 @ m.6, 0:11]
+   - 最高音: D5 in [WagaTeikoku #1 @ m.4, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      WagaTeikoku (37.8s)
+🏛  結構:      WagaTeikoku (35.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, A, G, F, D
-   - 調性數值:    C 調性不明確 [相關度: 0.77, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.77), F 大調 (0.76), A 小調 (0.67)
-   - 五度圈歷程:   +0
+   - 核心骨幹音:  A, C, F, G, D
+   - 調性數值:    A 調性不明確 [相關度: 0.82, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 小調 (0.82), F 大調 (0.79), C 大調 (0.71)
+   - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [WagaTeikoku #1]: C 調性不明確 (r: 0.77, 自然音純度: 100.0%)
+     • [WagaTeikoku #1]: A 小調 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-              [C ]*
+               C  
          F            G  
       Bb               D  
-      Eb               A  
+      Eb              [A ]*
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  23.4%
+     C  : █████████████████████     27.1%
      C# :                            0.0%
-     D  : ███████████████           14.3%
+     D  : ██████                     7.5%
      D# :                            0.0%
-     E  :                            0.0%
-     F  : ███████████████████       18.9%
+     E  : █                          1.2%
+     F  : ████████████████          20.4%
      F# :                            0.0%
-     G  : █████████████████████     20.9%
+     G  : ███████████               13.3%
      G# :                            0.0%
-     A  : ███████████████████████   22.5%
+     A  : ████████████████████████  30.4%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 61 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 59 個音符)
 ================================================================================
 ```
 

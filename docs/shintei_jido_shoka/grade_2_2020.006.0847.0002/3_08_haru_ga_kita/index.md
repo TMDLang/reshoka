@@ -52,13 +52,19 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 G4 E2 F2 G4 A4 | G4 E2 F2 G4 c4 | A4 G4 E4 C4 | D12 z4 |
+w: 1.~は る が き た | は る が き た | ど こ に き | た
+w: 2.~は な が さ く | は な が さ く | ど こ に さ | く
+w: 3.~と り が な く | と り が な く | ど こ で な | く
 G4 A2 G2 E4 G4 | c4 d2 c2 A4 c4 | G4 e4 d6 G2 | c12 z4 |
+w: 1.~や ま に き た | さ と に き た | の に も き | た
+w: 2.~や ま に さ く | さ と に さ く | の に も さ | く
+w: 3.~や ま で な く | さ と で な く | の で も な | く
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](haru_ga_kita.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xXjFNbSUng2Y-njxp4n-9oeN85X0NLiUrRVMDQw4LK3VXDmsjHRN7ED6X02rf1l84rncxrBJr1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZNdPU_X7ni6c8vzKSve7-kABaEeMAj1QEEIZBgYvd_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572roC6CugK55u6H3W3qkQYGBqpJdVkP5-Tw9Q8csFjQoFegrG5kAuyOE7OoEOfzZnPpCtYKHwctk0oEvf75kFMv3Fqv3PGpaDzO3ufTFzPlD0cXM_UPDp7NlAkadrJwDtcFZ4umQ5UEwBGKAKQFGgbi6Q3ic7GkAUchw8bmhA4z5uXPm4cfLjxtUQEbCPNm6E84EqXrb3oHL7gNzHTU1QDWCbdvWAHdsF1NjzdNKmx439QJVoXLhNEBGETXAVEJuQuFCboBogfuoEUS83gzzxuHEVVCUqF2bTcogI3CYoH2YTMhdo03KgTQgNlCcOKFDQ0ufi8kgsKnVP9M4sSbQKyEzMy3eoMahRqAbZo2BjoWUHZtQomCroKhgrmIBpMyBGFTGMAwuBJCDCQCGwiBGQhEEDkAiScWZAEqQSxK6BGGEUB6JBxkBNBJsGlQGZYQpTiWpoLReXrp0CwicKQJ4yFxcA)]
-- [鋼琴伴奏 TMD 檔案](haru_ga_kita_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxp4n-9oeN85_v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGhhw2dsqOHPZmOib2HHVKSg9m9b-snnF8zmNSiDei_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dXzdO2Opzu3PJ-yAugAIwMjAz0DAzM9AwsTcyDDwAjoBiUuLo_EolL3RO_MkkSrgMzEvPwgD4cagxqFai4FILCx0LIDM2oUTBV0FYwVTMC0GRCjihjGgYVAEhBhoBBYxAhIwqABSATJODMgCVIJYtdAjDCKA9EgY6Amgk2DyoDMMIWpRDW0FtMjPigeMYF7xDBeIdowFkyZxKLygVSNggka3zQeyDKNj4UQBnAfYNMHNBBKweXh2uEiIAwyBuhmXTsFhLMxecpcXAA)]
+- [主旋律 TMD 檔案](haru_ga_kita.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xXjFNbSUng2Y-njxp4n-9oeN85X0NLiUrRVMDQw4LK3VXDmsjHRN7ED6X02rf1l84rncxrBJr1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZNdPU_X7ni6c8vzKSve7-kABaEeMAj1QEEIZBgYvd_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572roC6CugK55u6H3W3qkQYGBqpJdVkP5-Tw9Q8csFjQoFegrG5kAuyOE7OoEOfzZnPpCtYKHwctk0oEvf75kFMv3Fqv3PGpaDzO3ufTFzPlD0cXM_UPDp7NlAkadrJwDtcFZ4umQ5UEwBGKAKQFGgbi6Q3ic7GkAUchw8bmhA4z5uXPm4cfLjxtUQEbCPNm6E84EqXrb3oHL7gNzHTU1QDWCbdvWAHdsF1NjzdNKmx439QJVoXLhNEBGETXAVEJuQuFCboBogfuoEUS83gzzxuHEVVCUqF2bTcogI3CYoH2YTMhdo03KgTQgNlCcOKFDQ0ufi8kgsKnVP9M4sSbQKyEzMy3eoMaipBlmjYGOhZQdm1CiYKugqGCuYgGkzIEYVMYwDC4EkIMJAIbCIEZCEQQOQCNg4H8MahceN64H8x03dQFYPEPeCeMCMCNKFX24lmDcZTK4GkyB5kAxIBQzGI2wzgpvYuApq4lQwrx_ZNhxymLaB5EEyIBVYbDMGya0Au78LauIqFBPxySHbthzqKny2QaLBDEiCwhzEroFEhlEciAZFCDRuwPEClQGZYQpTiSN6mlrA1u8Dexs9CiBBtAKr3DpEUDU1gU0GqSAQPWi2oUYBqm2octhsm0ooepBsW44RBQjbMOUgtoEjBm7bKhy21XJx6dopIDKXApCnzAUA)]
+- [鋼琴伴奏 TMD 檔案](haru_ga_kita_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxp4n-9oeN85_v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGhhw2dsqOHPZmOib2HHVKSg9m9b-snnF8zmNSiDei_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dXzdO2Opzu3PJ-yAugAIwMjAz0DAzM9AwsTcyDDwAjoBiUuLo_EolL3RO_MkkSrgMzEvPwgD4cag5pqLgUgsLHQsgMzahRMFXQVjBVMwLQZEKOKGMaBhUASEGGgEFjECEjCoAFIBGycj2GNwuPG9UD-46ZuIKsHiHtBvMb5YF345VaCeZPB5GowCZIHyYBUwGA8wjYjuImNq6AmTgXz-pFtwyGHaRtIHiQDUoHFNmOQ3Aqw-7ugJq5CMRGfHLJty6GuwmcbJBrMgCQozEHsGkhkGMWBaFCEQOMGHC9QGZAZpjCVOKKnqQVs_T6wt9GjABJEK7DKrUMEVVMT2GSQCgLRg2YbahSg2oYqh822qYSiB8m25RhRgLANUw5iGzhi4LatwmFbLWbe8kHOWybwvGUYrxBtGAumTGJR-UCqRsEEjW8aD2SZxsdCCAN4UsCmD2gglILLw7XDRUAYZAzQybp2CghXR_sAJdBEjDBEjMEiylwA)]
 
 ## 分析
 

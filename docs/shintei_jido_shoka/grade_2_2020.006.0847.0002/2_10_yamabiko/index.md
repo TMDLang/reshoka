@@ -59,17 +59,35 @@ K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 B3 B F2 z2 | B3 B F2 z2 | c3 c F2 z2 | c3 c F2 z2 |
+w: 1.~お う い | お う い | お う い | お う い
+w: 2.~だ れ だ | だ れ だ | だ れ だ | だ れ だ
+w: 3.~ふ し ぎ | ふ し ぎ | ふ し ぎ | ふ し ぎ
 B2 G A B2 G A | B2 G A B2 z2 | c2 B d c2 B d | c2 B2 F2 z2 |
+w: 1.~ふ し _ ぎ に _ | お な _ じ | こ と _ ば を _ | か へ し
+w: 2.~ふ し _ ぎ に _ | お な _ じ | こ と _ ば を _ | か へ し
+w: 3.~や さ _ し く _ | い へ _ ば | や さ _ し く _ | こ た へ
 G3 B G4 | F2 F2 B2 d2 | c2 d2 c2 F2 | B6 z2 |
+w: 1.~や ま の | あ な た で | ま ね を す | る
+w: 2.~し か も | む か ふ は | た れ も ゐ | ない
+w: 3.~おこ つ て | い _ へ ば | _ _ _ _ | _
 c2 d2 c2 F2 | B2 B2 B2 z2 | G G G G B2 G2 | F6 z2 |
+w: 1.~_ _ _ _ | _ _ _ | _ _ _ _ _ _ | _
+w: 2.~_ _ _ _ | _ _ _ | _ _ _ _ _ _ | _
+w: 3.~お こ つ て | こ た へ | く ち ま ね じやう ず | な
 G G G G B2 G2 | F6 z2 | c2 B d c2 F2 | B6 z2 |
+w: 1.~_ _ _ _ _ _ | _ | _ _ _ _ _ | _
+w: 2.~_ _ _ _ _ _ | _ | _ _ _ _ _ | _
+w: 3.~く ち ま ね じやう ず | な | や ま _ び こ | よ
 c2 B d c2 F2 | B6 z2 |
+w: 1.~_ _ _ _ _ | _
+w: 2.~_ _ _ _ _ | _
+w: 3.~や ま _ び こ | よ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yamabiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPN248XHj5seNkxW0tLgUbRUsDLjsbRWcdLhsjPRN7ED6Xqyc937PrGdz9z3dtOPp-jVPdjSAjXs2exNIeMOOJ7umPt2549mahWDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lxfs9HaBw1AOGox4oHIEMA6P3ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAe6C-jfp60rnk1rB7ri6YbeZ-2dCgEGJgZ6WQXpCo8aJoM4hiDO-z09QJ0vFzQqFBToKRiZAuWMzICCcL88mzMfyFYwNFB4uWwa0PXA4ALZ-GLV_mcNy0F2dfe-mDkfKPpiXdfj5rVAcaA-oODTtROAVr-c2avgpPB0yXKguAIwLhSAMmBDgAHX87hp1ePmRY-btgP1PW5aD1T-aObK93vmWhgAlTxu6OUCWQSMKRD1uLHrcWPb48YWkH82bny6dylIDUzwcUMDfgUQI7Y-bpz-uLHvceNqsMSqx40zwDonP25c8bhxw-OmSY8bux837gAqA4cqKFWte9zYBFY6_3HjcrDqfY8bgc4FKp35uKkb4sZdPRALFjxu6gGSqE6ACoL14lNAlhvBqrsfNzU9bgIqAkoA9a8Ha5gPMhUkPgFsSgs0NDtRrEF1CMxukHZ8CsBGNLU8bpwK5veDYgDkog0gnSjiQFcDw20HPAaB_CWPG5ehaEARR9LwtH8xJLCf7Oh61gn02ipkx2DKwqMMVBA8bupAUY0kDlJHebaDAgUtfS6uyMTcxKTM7HyrgMzEvHyHGoMahWqQLQo2hmZadmBWjYKhgi4QGiqYxgMpAyDGKmQEFjLCL4Rkolm8gnk8EgtdFGGEoYIxnIaJ6GIaCtQKcRSUAdIOVgQmQFqM4UaCWCAaLAXzDgQiG4lDKQxDnAi0Do6gXoBbjc1QotWjeJ4IlxJUWsvFpWunAItzBSBbmYsLAA)]
-- [鋼琴伴奏 TMD 檔案](yamabiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6cePjxs2PGye_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUsDLjsbRWcdLhsjPRN7LjqFJRerJz3fs-sZ3P3Pd204-n6NU92NCiBhJ_N3gQS3rDjya6pT3fueLZmIVj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Op5unbH051bnk9ZAXSgkYGRgZ6BgZmegYWJOZBhYAR0oxIXV2RibmJSZna-VUBmYl5-kIdDjUGNQjWXAhDYGJpp2YFZNQqGCrpAaKhgGg-kDIAYq5ARWMgIvxCSiWbxCubxSCx0UYQRhgrGcBomootpKFArxFFQBkg7WBGYAGkxhhsJYoFosBTMOxCIbCQOpTAMcSLQOjiCegFuNTZDiVaP4nkiXEpQaS16lPugRLkJIsbj4xWiDeNjUZmm8SA2kETnYNdlgK4FJAgWgGkwAUma4LUGahBUAzYpdFMQqjElSDUbFGK6dgqwQFPAw1bm4gIA)]
+- [主旋律 TMD 檔案](yamabiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPN248XHj5seNkxW0tLgUbRUsDLjsbRWcdLhsjPRN7ED6Xqyc937PrGdz9z3dtOPp-jVPdjSAjXs2exNIeMOOJ7umPt2549mahWDhF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5sqvn6dodT3dueT5lxfs9HaBw1AOGox4oHIEMA6P3ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAe6C-jfp60rnk1rB7ri6YbeZ-2dCgEGJgZ6WQXpCo8aJoM4hiDO-z09QJ0vFzQqFBToKRiZAuWMzICCcL88mzMfyFYwNFB4uWwa0PXA4ALZ-GLV_mcNy0F2dfe-mDkfKPpiXdfj5rVAcaA-oODTtROAVr-c2avgpPB0yXKguAIwLhSAMmBDgAHX87hp1ePmRY-btgP1PW5aD1T-aObK93vmWhgAlTxu6OUCWQSMKRD1uLHrcWPb48YWkH82bny6dylIDUzwcUMDfgUQI7Y-bpz-uLHvceNqsMSqx40zwDonP25c8bhxw-OmSY8bux837gAqA4cqKFWte9zYBFY6_3HjcrDqfY8bgc4FKp35uKkb4sZdPRALFjxu6gGSqE6ACoL14lNAlhvBqrsfNzU9bgIqAkoA9a8Ha5gPMhUkPgFsSgs0NDtRrEF1CMxukHZ8CsBGNLU8bpwK5veDYgDkog0gnSjiQFcDw20HPAaB_CWPG5ehaEARR9LwtH8xJLCf7Oh61gn02ipkx2DKwqMMVBA8bupAUY0kDlJHebaDAgUtfS6uyMTcxKTM7HyrgMzEvHyHGoOaapAlCjaGZlp2YFaNgqGCLhAaKpjGAykDIMYqZAQWMsIvBDbRx7AGFKRgSWAaB-IWIAukhmriEHuMQPILIPJNPVA2TB9VxCH2GIPkt0LdMR2I-5D0UUUcKSbM4hXM45FY6KKIoDdUMIbTMBFd7JEBshRkJYgEWQrMw0jBC0yhYHIGkjMng0VWgMkN4ICZBJXpBovtgJuIHiF0sgsUKU2gBAHM00g29kN1QmQgOkFmQu3CowPiivlwfcgRAwx-SIaAMkA6wAENJkDBbgyPFhALRIOlYFkJAtGiBewYkHX7gHgd3GBgsY4UUBAHLYfK7APz1sIDCVjUQz0GCioYRI8SkEdBaruB6kBmQ-1paoCKgkhItK2H2gO2FZgXQCTYNU0ToDKgAhu7VeBsAioxobYtAeJlSL6CaUOOlhqwAcgYIoJpPM7AhWFIxgBGEBxBMw48srBHA3YHoIvAIH5HgoKbquZBwhQcXJD0uQRMgoIVZ5oFp-nHjQuhCWstKLeB6742sLpZUDWg5IUtmIkOQZRCiGBqJ8LLUDlig5mK5oGDmaxAgxcpkJy5GUyCogUk04HVNpIDjpRAIcHDJDm8lotL104B1pxQALKVuQA)]
+- [鋼琴伴奏 TMD 檔案](yamabiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6cePjxs2PGye_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUsDLjsbRWcdLhsjPRN7LjqFJRerJz3fs-sZ3P3Pd204-n6NU92NCiBhJ_N3gQS3rDjya6pT3fueLZmIVj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Op5unbH051bnk9ZAXSgkYGRgZ6BgZmegYWJOZBhYAR0oxIXV2RibmJSZna-VUBmYl5-kIdDjUFNNZcCENgYmmnZgVk1CoYKukBoqGAaD6QMgBirkBFYyAi_ENhEH8MahceNXWDJx41tQNwCZIHUUE0cYo8RSH4BRL6pB8qG6aOKOMQeY5D8Vqg7pgNxH5I-qogjxYRZvIJ5PBILXRQR9IYKxnAaJqKLPTJAloKsBJEgSx83rkYK3seNq8DkDCRnTgaLrACTG8ABMwkq0w0W2wE3ET1C6GQXKFKaQAniceNUJBv7oTohMhCdIDOhduHRAXHFfLg-5IgBBj8kQ0AZIB3ggAYToGA3hkcLiAWiwVKwrASBaNECdgzIun1AvA5u8OPGJqSAgjhoOVRmH5i3Fh5IjxtnQj0GCioYRI8SkEdBaruB6kBmQ-1paoCKgkhItK2H2gO2FZgXQCTYNU0ToDKrIGGLxSpwNumCBCTIrCVAvAzJVzBtyNFSAzYAGUNEMI3HGbgwDMkYwAiCI2jGgUcW9mjA7gB0ERjE70hQcFPVPEiYgoMLkj6XgElQsOJMs-A0_bhxITRhrQXlNmBaAxWhIHWzoGpAyQtbMBMdgiiFEMHUToSXoXLEBjMVzQMHM1mBBi9SIDlzM5gERQtIpgOrbSQHHCmBQoKHSXJ4LXprwge5NWGCaEzExytEG8bHojJN40FsIInOwa7LAF0LSBAsANNgApI0wWsN1CCoBmxS6KYgVGNKkGo2KMB07RRgYRbtYxirgMI3QuMbg_nKXAA)]
 
 ## 分析
 

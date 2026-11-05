@@ -57,15 +57,23 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 G4 E4 G4 E4 | A4 c4 c4 z4 | c4 A4 A4 A4 | c4 G4 G4 z4 |
+w: 1.~ヒ ラ ヒ ラ | マ フ ヨ | キ レ イ ナ | テフ テ フ
+w: 2.~ソ ヨ ソ ヨ | カ ゼ ガ | ノ ド カ ニ | フ ク ヨ
 G4 E4 G4 E4 | A4 c4 c4 z4 | c4 A4 G4 F4 | E4 D4 C4 z4 |
+w: 1.~テ フ テフ ガ | マ ヘ バ | ナ ノ ハ ナ | ユ ラ グ
+w: 2.~ノ ド カ ナ | カ ゼ ニ | ナ ノ ハ ナ | ユ ラ グ
 D4 E4 F4 D4 | E4 F4 G4 z4 | D4 E4 F4 D4 | E4 F4 G4 z4 |
+w: 1.~ユ ラ グ ナ | ハ ナ ヨ | ト マ レ ヨ | テ フ テフ
+w: 2.~ユ ラ グ ナ | ハ ナ ヨ | ト マ レ ヨ | テ フ テフ
 G4 E4 G4 E4 | A4 c4 c4 z4 | c4 A4 G4 F4 | E4 D4 C4 z4 |
+w: 1.~シ ヅ カ ニ | ト マ レ | キ レ イ ナ | テ フ テフ
+w: 2.~ノ ド カ ナ | カ ゼ モ | フ ク ナ ヨ | フ ク ナ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](cho_to_harukaze.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxubnvcPPVxc8fj5v7HzasfNwHRnvd7Ol7M3fJi7rYXHe3PZix9uWjF-z2dClpaXIq2CoYGBlz2tgrOXDYm-iZ2IINfrJz3fs-sFxNnP-2b_3LvJLBlz2ZvAoo9W9T4fMqGF5vmgcVetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJrp6na3c83bnl-RSgQzpAQawHDGI9UBADGQZGQNcpcelrKQBtfT573YtVq57N6ONSUFB4smPts2ntL5YvftneDXJOf__T9ashPns5a8WLidMhnnu5ePaLDqAfep5O7Hjevw8o-Gz60uezWl7smfp0_-pnM9e_6Nz0uKGJS0ufC2SLLbUAyInAMHs2e8eLze0vVnSBQnttDzA4n7auALob6NWnG3qftXcqBBiYmuhlFaQDnQhU_HJBo0KBnoKxJcjF_c0vGpqBYfps7gRgSCkYKbxcNg0YHEDfgkx_sWr_s4blIHO7e1_MnA8UBUYzUPDp7NlAkadrJwDtcFZ4umQ5UEwBGJ8KQFGwbmAU9DxuWvu4ec3jpiWPm7sfN_RyQUK0AUQ9bp70uHkljJwHTkErHjc0IGnpgqUsEAnRg-A_bloD1jbjcfMEkDaQ6j5wCgQyloEMbdoA0QPlgCUg0mB7QOkVqB9oygoMe5q2P25uBSVkoLPh6vC4DeyvXT0QvXtBJkJJUFYAuRRkH9B1nTAzgc5fD1QAcSBcoguqARRYVPYRFksWgfVAXAI2AsYGaaA8aUKBAijJO2fkh-R7JBaVZidWpVoFZCbm5TvUGNQoVIOsUrCx0LIDM2oUTBV0FYyBGEbXKJgBScM4GGEAFgMzQRIwDBUC6QJhsCryTAQpMwELgRQbgVShGQgSA8mBVIHYEJUgHtxqYtRQ33m1XFy6dgooQa0AFFDm4gIA)]
-- [鋼琴伴奏 TMD 檔案](cho_to_harukaze_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3Pa4eerj5o7Hzf2Pm1c_bgKiPe_3dLzs3vN8wpYne7Y8Xdr_vLPj_Z5OBS0tLkVbBUMDAy57WwVnLhsTfRM7rjoFpRcr573fM-vFxNlP--a_3DtJCST2bPYmoNizRY3Pp2x4sWkeWOxF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57s6nm6dsfTnVueT1kBdJqRgZGBnoGBmZ6BhYk5kGFgBHSdEheXc0Z-SL5HYlFpdmJVqlVAZmJefpCHQ41BjUI1lwIQ2Fho2YEZNQqmCroKxkAMo2sUzICkYRyMMACLgZkgCRiGCoF0gTBYFXkmgpSZgIVAio1AqtAMBImB5ECqQGyIShAPbjUxaqjvvFqsIe2DEtIm8JA2jFeINoyFUTUKJkCGSSwYGyC4UAquHISB0iSZAZIGm2EaD2SZxqObAheGMyAmg0yCKCRCCQEXgbQQ5SRgIOraKaCEI1YBZS4uAA)]
+- [主旋律 TMD 檔案](cho_to_harukaze.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKTxubnvcPPVxc8fj5v7HzasfNwHRnvd7Ol7M3fJi7rYXHe3PZix9uWjF-z2dClpaXIq2CoYGBlz2tgrOXDYm-iZ2IINfrJz3fs-sFxNnP-2b_3LvJLBlz2ZvAoo9W9T4fMqGF5vmgcVetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJrp6na3c83bnl-RSgQzpAQawHDGI9UBADGQZGQNcpcelrKQBtfT573YtVq57N6ONSUFB4smPts2ntL5YvftneDXJOf__T9ashPns5a8WLidMhnnu5ePaLDqAfep5O7Hjevw8o-Gz60uezWl7smfp0_-pnM9e_6Nz0uKGJS0ufC2SLLbUAyInAMHs2e8eLze0vVnSBQnttDzA4n7auALob6NWnG3qftXcqBBiYmuhlFaQDnQhU_HJBo0KBnoKxJcjF_c0vGpqBYfps7gRgSCkYKbxcNg0YHEDfgkx_sWr_s4blIHO7e1_MnA8UBUYzUPDp7NlAkadrJwDtcFZ4umQ5UEwBGJ8KQFGwbmAU9DxuWvu4ec3jpiWPm7sfN_RyQUK0AUQ9bp70uHkljJwHTkErHjc0IGnpgqUsEAnRg-A_bloD1jbjcfMEkDaQ6j5wCgQyloEMbdoA0QPlgCUg0mB7QOkVqB9oygoMe5q2P25uBSVkoLPh6vC4DeyvXT0QvXtBJkJJUFYAuRRkH9B1nTAzgc5fD1QAcSBcoguqARRYVPYRFksWgfVAXAI2AsYGaaA8aUKBAijJO2fkh-R7JBaVZidWpVoFZCbm5TvUGNRUg2xSsLHQsgMzahRMFXQVjIEYRtcomAFJwzgYYQAWAzNBEjAMFQLpAmGwKrCJPoY1oIQG5ANDDEwi2CCZeWDeVDC5AkjGQ8Sb1oJF1oDIpiVgdhdUByhAwQJtcK1gTRDrjECa98KNQ2aDZFaDxfaASZDhUOua-8CqOsHiYDXN3VAZsF1N61EdSF5ggZSZgIVAio1AqrCEFcJbCL-C3YoIrhlgcgKS-0GBA_NFP0pwLUMEfdMGzLDC4nOoTuSwAocGJXbVgL0L8jYoAEBsSCCAePAEQ4wapIBCtw3hDoSrUBJVcwdYBBKG4KQFSxfYAh09oOhmHW3SVdN2sG2tYPejJnF0dxKRBwkHF3HpahFScCHnNERgYpOB2FXLxaVrp4BSsCkABZS5AA)]
+- [鋼琴伴奏 TMD 檔案](cho_to_harukaze_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3Pa4eerj5o7Hzf2Pm1c_bgKiPe_3dLzs3vN8wpYne7Y8Xdr_vLPj_Z5OBS0tLkVbBUMDAy57WwVnLhsTfRM7rjoFpRcr573fM-vFxNlP--a_3DtJCST2bPYmoNizRY3Pp2x4sWkeWOxF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57s6nm6dsfTnVueT1kBdJqRgZGBnoGBmZ6BhYk5kGFgBHSdEheXc0Z-SL5HYlFpdmJVqlVAZmJefpCHQ41BTTWXAhDYWGjZgRk1CqYKugrGQAyjaxTMgKRhHIwwAIuBmSAJGIYKgXSBMFgV2EQfwxpgQE4C8h83rwSTCDZIZh6YNxVMrgCS8RDxprVgkTUgsmkJmN0F1QGKFLBAG1wrWBPEOiOQ5r1w45DZIJnVYLE9YBJkONS65j6wqk6wOFhNczdUBmxX03pUB5IXWCBlJmAhkGIjkCosYYXwFsKvYLcigmsGmJyA5H5Q4MB80Y8SXMsQQd-0ATOssPgcqhM5rMChQYldNWDvgrwNCgAQGxIIIB48wRCjBimg0G1DuAPhKpRE1dwBFoGEIThpwdIFtkBHDyi6WUebdNW0HWxbK9j9qEkc3Z1E5EHCwUVculqEFFzIOQ0RmNhkIHbVYi3XfJDLNRN4uWYYrxBtGAujahRMgAyTWDA2QHChFFw5CAOlSTIDJA02wzQeyDKNRzcFLgxnQEwGmQRRSIQSAi4CaSHKScAw1LVTQAnGaB-gHKagEVhQmQsA)]
 
 ## 分析
 
