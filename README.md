@@ -81,11 +81,23 @@ flowchart LR
 
 ## 五、專案腳本與網站維護說明
 
-若需在本地端重新產生網頁、更新音訊或執行統計腳本，可使用以下指令：
+> **系統環境需求**：編譯本專案的樂譜與音訊**必須在 macOS 環境下進行**，且本地端需先安裝：
+> 1. **`tmd` CLI（[TmdSwift](https://github.com/TMDLang/TmdSwift)）**：`brew tap TMDLang/tmd && brew install tmd`（依賴 macOS 原生 `AVAudioEngine` 與內建 Apple DLS 音源渲染 `.wav`）
+> 2. **`ffmpeg`**：`brew install ffmpeg`
+> 3. **`NEUTRINO`（[STUDIO NEUTRINO](https://studio-neutrino.com/)）**：macOS 版解壓縮至 `/Applications/NEUTRINO`
+
+關於完整的工具安裝來源與所有腳本的詳細參數說明，請參閱：
+
+- 🛠️ **[網站編譯環境與腳本工具說明手冊（`docs/tooling_and_scripts.md`）](docs/tooling_and_scripts.md)**
+
+若需在本地端重新產生網頁、合成 NEUTRINO 歌聲、更新音訊或執行統計腳本，常用指令如下：
 
 ```bash
 # 批次更新全站單曲頁面、音訊與網站導覽列（預設僅重新處理有修改過的樂譜）
 python3 scripts/generate_song_markdown.py
+
+# 使用 NEUTRINO 合成日文人聲並混入鋼琴伴奏（可傳入單曲目錄或整冊目錄）
+python3 scripts/render_neutrino_mix.py docs/kogakko_shoka/grade_3
 
 # 執行調性、節拍與五聲音階統計報表（可加 --collection shintei_jido_shoka --deduplicate）
 python3 scripts/stats_tonality.py --collection shintei_jido_shoka --deduplicate
@@ -93,7 +105,7 @@ python3 scripts/stats_meter.py --collection shintei_jido_shoka --deduplicate
 python3 scripts/stats_pentatonic.py --collection shintei_jido_shoka --deduplicate
 
 # 啟動 MkDocs 本地預覽伺服器
-./venv/bin/mkdocs serve
+./run.sh
 ```
 
 ---

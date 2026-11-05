@@ -54,15 +54,27 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 B6 A2 G6 E2 | D4 E4 G8 | A6 A2 B4 d4 | A12 z4 |
+w: 1.~な た ね の | は な に | と ぶ こ て | ふ
+w: 2.~わ か く さ | も ゆ る | を か の う | へ
+w: 3.~た ん ぽ ぽ | よ め な | つ く つ く | し
 B6 A2 G6 E2 | D4 E4 G8 | A6 A2 B4 A4 | G12 z4 |
-d6 B2 d4 B4 | A4 G4 E8 | D4 G4 A4 B4 | A12 z4 |
+w: 1.~あ を ぞ ら | た か く | な く ひ ば | り
+w: 2.~の ど け き | ひ か げ | あ み な が | ら
+w: 3.~て か ご に | い れ て | も ち か へ | る
+d6 d2 B4 B4 | A4 G4 E4 E4 | D4 G4 A4 B4 | A12 z4 |
+w: 1.~い づ れ か | は ら ぬ _ | た の し さ | を
+w: 2.~や す ら ひ | を れ ば _ | そ よ そ よ | と
+w: 3.~の べ の あ | ぜ み ち _ | お も し ろ | や
 B6 A2 G6 E2 | D4 E4 G8 | A6 G2 B4 A4 | G12 z4 |
+w: 1.~う た ふ か | は る の | の に い で | て
+w: 2.~そ で ふ く | か ぜ の | こ こ ろ よ | さ
+w: 3.~あ す も ま | た こ ん | う ち つ れ | て
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](haru_no_no.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xXjFNbSUng2Y-njxnUv2_sUtLS4FG0VDA0suOxtFdy5bEz0TexAGl-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smuKU_X7ni6c8vzKSve7-kAhZgeMMT0QCEGZBiYvt_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572rri2bR2oCuebuh91t6pEGBgZKKXVZD-fk8PUPHLBY0KBXoKhkAeyN07GoDufjZnPpCtYKjwctk0oEPf75kFMvzFqv3PGpaDjO3ufTFzPlD0ceOKl1O3A8Wfzp79tKPtyc5uIAMo-3TtBKB17gpPlywHSioAQ1MBKAo2qefZiqbHTdsfN60Hqng0cyU41CEyQAFISENCFCjIBbIW6KTHDQ0v-uc8X7EOGF0vujY-blwNFHm5ePbjxm0vmhe-mLsNpO7l3EnPV-56uXrG48Z-oPTTqXuAjJezN72c3QCSftzY8rhx6eOmnseN3Y8b1z9u6nzcuAaoDuSexumPG6c-bpoEUgeKy8atQEWQ1AGyqL0PaOPT9l2PG5c_blwGcdQuYIw3PG7qByp80dv5uAnoqbbHTd0gizctBOp7sqMLYivQzSsfN0583Nj7bPrSp3s3grQ1Aq3c_7hx1ePGHqA7wOqagK6bCXbUpqcbW8HO3ABWOvdxU8f7Pf3v9wC9swIcDYumgR3Y_3LRCogDn-5vBioCegEaXp1gjfMfN01-3LgXhICSTY0g-0DiS0DhAyWng33cCQwQIJoC8mUrJIiWgUKmB6hn4bO1Ox437gB6DRzG7X0vm7qAtj6fOuVl42RgjIH9MgfsnYXAGAMF19xFz2cC7WwBmz2jD-htYPA87e94sg8YQpNBBncCHQYMpCUQq0DqKE_-UKCgpc_F5ZFYVOqX75dvFZCZmJfvUGNQo1ANskXBxkLLDszAlvEUIOn_xcIeBQ0Thacb-p-vb9CB5xZNLBqAdkEN0wBq1LRSeNzcBRJ43LQfyOwFM5v3KNQAyX4QEyj5uLkbJKwAFuyAqJgG1LAZxGiDCE-FqAABqA01CsYKukBoBMyTINosHihkGg9h6UIFdYFiRlBlIOWmSCIQaAASAScS3AGwq4eiAGhaBPHTJiBzH1IAAEMESKwGEesRAQANrfVA5iSQ0gkQ4VXUCQAQuwYuR2wA7OikLACWQHzdCsRroH4G-WklSLAH4TFYmDT3gRRtBxFbISo3YfE9KC51gZ4C0SCvQTwK8hrY_xC_g8MDJAaSQ6giwfPA4psyzy-DRCgo-YNTMUryB8U-yLuw2AczQRkCHGiPm9shwsBcQFnsG-KN_VouLl07BVgRoQBkK3NxAQA)]
-- [鋼琴伴奏 TMD 檔案](haru_no_no_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxnUv2_ve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBhZc9rYK7lw2Jvomdlx1Ckov2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNk15Sna3c83bnl-ZQVQCuNDIwM9AwMzPQMLEzMgQwDU6CtSlxcHolFpX75fvlWAZmJeflBHg41BjUK1VwKQGBjoWUHZuhrKdiiAwWQFTsaXizsUdAwUXi6of_5-gYdhQADIxO9rIJ0TSwatPTBhtUoGCvoAqGRgiGYNosHCpnGQ1i6UEFdoJgRVBlIuSmSCAQagES48DtvVw-dnAdi18DliHXejk5ynAcKCl2grSAaZDfEJSC7wQ6EOA7sYJAYSA6higTXPZ09m-aBZ4g38GrRE6cPSuI0QSTOZzP6ns2Z_qyl8-n-1U92dgOd_qy79-naCU-3L3vW2Q3JZggnGsYrRBvGwihMvmk8kGUaj00ExDAAOo1Eg-AMZDW4zYErNwMxzOJzkTQiC9HMWcCQ17VTgAW-AhpbmYsLAA)]
+- [主旋律 TMD 檔案](haru_no_no.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xXjFNbSUng2Y-njxnUv2_sUtLS4FG0VDA0suOxtFdy5bEz0TexAGl-073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smuKU_X7ni6c8vzKSve7-kAhZgeMMT0QCEGZBiYvt_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572rri2bR2oCuebuh91t6pEGBgZKKXVZD-fk8PUPHLBY0KBXoKhkAeyN07GoDufjZnPpCtYKjwctk0oEPf75kFMvzFqv3PGpaDjO3ufTFzPlD0ceOKl1O3A8Wfzp79tKPtyc5uIAMo-3TtBKB17gpPlywHSioAQ1MBKAo2qefZiqbHTdsfN60Hqng0cyU41CEyQAFISENCFCjIBbIW6KTHDQ0v-uc8X7EOGF0vujY-blwNFHm5ePbjxm0vmhe-mLsNpO7l3EnPV-56uXrG48Z-oPTTqXuAjJezN72c3QCSftzY8rhx6eOmnseN3Y8b1z9u6nzcuAaoDuSexumPG6c-bpoEUgeKy8atQEWQ1AGyqL0PaOPT9l2PG5c_blwGcdQuYIw3PG7qByp80dv5uAnoqbbHTd0gizctBOp7sqMLYivQzSsfN0583Nj7bPrSp3s3grQ1Aq3c_7hx1ePGHqA7wOqagK6bCXbUpqcbW8HO3ABWOvdxU8f7Pf3v9wC9swIcDYumgR3Y_3LRCogDn-5vBioCegEaXp1gjfMfN01-3LgXhICSTY0g-0DiS0DhAyWng33cCQwQIJoC8mUrJIiWgUKmB6hn4bO1Ox437gB6DRzG7X0vm7qAtj6fOuVl42RgjIH9MgfsnYXAGAMF19xFz2cC7WwBmz2jD-htYPA87e94sg8YQpNBBncCHQYMpCUQq0DqKE_-UKCgpc_F5ZFYVOqX75dvFZCZmJfvUGNQUw2yRMHGQssOzMCW7xQgyf_Fwh4FDROFpxv6n69v0IFnFk0sGoBWQQ3TAGrUtFJ43NwFEnjctB_I7AUzm_co1ADJfhATKPm4uRskrAAW7IComAbUsBnEaIMIT4WoAAGoDTUKxgq6QGgEzJIg2iweKGQaD2HpQgV1gWJGUGUg5aZIIhBoABIBG-hjCLSocRVYFJhSgHgtlL0O5ITG9WA2SB6YJuCmAxMgVNU2IJ4MZi2DymxFsgfkJqg9RkC5pn6orm4ghrGngnQ1NYHYTW1gshthT9MkJB3rwCyQGpA9O7DbYwySmw_R1TQZyN4LNWEv2LwOsHgj3Fcw_yyBquqHsiHuA8lMx7AHf8LZ1UNRwmlaBEkLm4DMfUgJB5iSgMRqELEekXCgqWw9kDkJpHQCRHgVdRIOiF0Dl8OWcEDRBgrQSUD2PCi7ExxsoCgARRssKGEBDUtqoIDeBGZtgEZ1F_YIBSUccNSD1K4E4olQdi_YPIgZEHsgiQViD9RljcAMCE2-PVB7OrHbA044oEQMS25ToOzVYPNawH4DmQFTBTENZs9CuCtACRMkA0vGxCacHZ2UJZwlkNTSCsRroGkFlBZWggR7EAkClpaa-0CKtoOIrRCVm7CkGlDZASpBQMkBhCEJBJQkwOkGTEATEkgQJIlQhivVgMISFFJL4SEKCit4cQOOIWCdjBSbkNQEKQBAGRJUbCAXEFhTTRPMnplwM0GpBaYLZjco_cHsmQsWBxcSSGxEgYc91cBS5064G0GpAiQzB8zbDyYXItkDSuvQQg_in6ZeqMsgbiY61QCbWZSlmmWQEgRUT4GrG5R6ClTcgNIJrLgBM0E1Fzi1PW5uhwgDqyvKihtDIosbUNkPq6cg9Qwo6SASDiQDQqIDEtCwqFkNy8KNy6EysEyMrbgBRT1ELcKefrAuiA2QaEW2B1QHgsSANQ44KhEJB5RQcSUcWOEBSqAw9j6kBA-uWYG1GMIeWAiAihtwPQVOxNj9U8vFpWunAGsCKQDZylwA)]
+- [鋼琴伴奏 TMD 檔案](haru_no_no_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Y-njxnUv2_ve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBhZc9rYK7lw2Jvomdlx1Ckov2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNk15Sna3c83bnl-ZQVQCuNDIwM9AwMzPQMLEzMgQwDU6CtSlxcHolFpX75fvlWAZmJeflBHg41BjXVXApAYGOhZQdm6Gsp2KIDBZANOxpeLOxR0DBReLqh__n6Bh2FAAMjE72sgnRNLBq09MGG1SgYK-gCoZGCIZg2iwcKmcZDWLpQQV2gmBFUGUi5KZIIBBqARMAG-hjWKDxuXAUWfdw4H4jXQtnrgHoeN64Hs0HyjxtXw01_3LgCqmobEE8Gs5ZBZbYi2QNyE9QeI6BcUz9UVzcQw9hTQbqamkDspjYw2Y2wp2kSko51YBZIDcieHdjtMQbJzYfoapoMZO-FmrAXbF4HWLwR7iuYf5ZAVfVD2RD3gWSmY9iDP1p39dApWkHsGrgctmgFBSrIu5OA7HlQdifYU6AAAgUqzKOwYIAlBFAwbAKzNkAjogt7cIOiFRwxILUrgXgilN0LNg9iBsQeSFRC7IG6rHE_PHH1QO3pxG4POFpBSQyWGKZA2avB5rWA_QYyA6YKYhrMnoVwV4CSDUgGlsiIjdYdneREKyjrgTIgKL5AGBKDoDgDRyyYgMY0SBAkiVCGK1pBngV5ZSncyyDPwHMrOAgfN65BCm5IdEPyDyg9g3Idcv7CGq1NMHtmws0ERSdMF8xuUAKB2TMXLA7OY0hsRHmBPVphyWcn3I2gaAPJzAHz9oPJhUj2gBIjtMyA-KepF-oyiJuJjtans2fTPLcaEplbQQUbrBCGFKKgiEVEKyT9QgILEgywgFsNywGNy6EysDyALbeCIgaiFmFPP1gXxAZIoCPbAyrgQWLA4hQc0IhoBSUjXNEKy3ug5ANj70NKjuBqA1hEI-yBhQAot4ILYXASw-6fWvTK1we58jVBVL7PZvQ9mzP9WUvn0_2rn-zsBsb4s-7ep2snPN2-7FlnN6QVgYhZw3iFaMNYGIXJN40HskzjsYmAGAbQECDBIDgDWQ1uc-DKzUAMs_hcJI3IQjRzFjDgde0UYGEf7QOUQeEbofGNwXxlLgA)]
 
 ## 分析
 
@@ -83,11 +95,11 @@ B6 A2 G6 E2 | D4 E4 G8 | A6 G2 B4 A4 | G12 z4 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  G, A, B, D, E
-   - 調性數值:    G 大調 [相關度: 0.76, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.76), D 大調 (0.62), E 小調 (0.57)
+   - 調性數值:    G 大調 [相關度: 0.75, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.75), D 大調 (0.61), E 小調 (0.58)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [HaruNoNo #1]: G 大調 (r: 0.76, 自然音純度: 100.0%)
+     • [HaruNoNo #1]: G 大調 (r: 0.75, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -102,7 +114,7 @@ B6 A2 G6 E2 | D4 E4 G8 | A6 G2 B4 A4 | G12 z4 |
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : █████████                 12.5%
+     D  : █████████                 11.7%
      D# :                            0.0%
      E  : ████████                  10.8%
      F  :                            0.0%
@@ -111,10 +123,10 @@ B6 A2 G6 E2 | D4 E4 G8 | A6 G2 B4 A4 | G12 z4 |
      G# :                            0.0%
      A  : █████████████████████     28.3%
      A# :                            0.0%
-     B  : █████████████             16.7%
+     B  : █████████████             17.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 48 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 49 個音符)
 ================================================================================
 ```
 

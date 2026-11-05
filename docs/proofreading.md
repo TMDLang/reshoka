@@ -266,7 +266,7 @@
 
 ### 尋常科 第五學年用（2020.006.0847.0005）（0 / 46 首） {#shintei_jido_shoka_grade_5_2020.006.0847.0005}
 
-- [ ] **1-01 春の野**（`G` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md) · [主譜 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/haru_no_no.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/haru_no_no_piano.tmd)
+- [x] **1-01 春の野**（`G` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md) · [主譜 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/haru_no_no.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/haru_no_no_piano.tmd)
 - [ ] **1-02 神木**（`D` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku/index.md) · [主譜 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku/shinboku.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku/shinboku_piano.tmd)
 - [ ] **1-03 日東帝國**（`D` / `2/4`）— [單曲頁](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_03_nitto_teikoku/index.md) · [主譜 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_03_nitto_teikoku/nitto_teikoku.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_03_nitto_teikoku/nitto_teikoku_piano.tmd)
 - [ ] **1-04 夏は來ぬ**（`C` / `4/4`）— [單曲頁](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_04_natsu_wa_kinu/index.md) · [主譜 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_04_natsu_wa_kinu/natsu_wa_kinu.tmd) · [伴奏 TMD](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_04_natsu_wa_kinu/natsu_wa_kinu_piano.tmd)
