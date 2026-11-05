@@ -62,16 +62,28 @@ Q:1/4=88
 K:Am
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A,3 B, C2 D2 | E2 F2 E2 D2 | C2 D2 C2 B,2 | A,6 z2 |
-E,2 E,2 A,2 B,2 | C2 B,2 A,2 C2 | B,3 A, ^G,2 A,2 | B,6 z2 |
-E,2 E,2 A,2 B,2 | C2 B,2 C2 D2 | E3 F E2 D2 | E6 z2 |
-C3 D C2 B,2 | A,3 B, C2 D2 | B,3 E, C2 B,2 | A,6 z2 |
+E3 A B2 c2 | B2 e2 c2 B2 | c2 c2 B2 A2 | B6 z2 |
+w: 1.~イ _ カ ダ | カ ヅ ラ ガ | サ キ ダ シ | タ
+w: 2.~い _ か だ | か づ ら を | み る に つ | け
+w: 3.~ヒ _ ビ ニ | イ ロ マ ス | ア ノ ハ ナ | ヲ
+A2 A2 F2 F2 | E2 E2 D2 E2 | F3 E D2 D2 | E6 z2 |
+w: 1.~ミ ド リ ノ | タ _ ナ ヲ | イ チ メ ン | ニ
+w: 2.~わ _ す れ | ら れ な い | お ぢ い さ | ま
+w: 3.~ミ ル タ ビ | ゴ _ ト ニ | オ モ ヒ ダ | ス
+D2 E2 F2 E2 | D2 E2 F2 A2 | B3 B B2 B2 | B6 z2 |
+w: 1.~ア カ ム ラ | サ _ キ ノ | イ ロ ニ ソ | メ
+w: 2.~あ の き を | う _ ゑ て | あ さ ゆ ふ | に
+w: 3.~オ ト ギ バ | ナ _ シ ヲ | ア ノ シ タ | デ
+c3 e c2 B2 | A3 c B2 A2 | B3 B D2 D2 | A6 z2 |
+w: 1.~イ _ カ ダ | カ ヅ ラ ガ | サ キ ダ シ | タ
+w: 2.~たん _ せ い | さ _ れ た | お ぢ い さ | ま
+w: 3.~シ テ _ _ | サ _ レ タ | オ ヂ イ サ | マ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ikadakazura.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJOYBjdXSUnjc2PK4sftx4wIwufRxU6eClhaXoq2ChQWXva2CM1d2aqWtgmMul42RvokdyJgX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHk6e_bTtTue7tzyfMqK93s6QAGlBwwoPVBAARkGJu_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTXi5XznraueDatHeiKpxt6n7V3KgQYmBrqZRWkv9_TA1T8ckGjQoGegpEFkAt0-JMdnUCHP5szH8hWMFZ4uWwa0KXv98wCmf5i1f5nDctB5nb3vpg5HygKDNHn89cCxZ_s6gEKPl07AWhNosLTDf1AMQVgKCoARYEGcIG0P9nRAKIwY-FxY8_TSZuAOh83TgUqftzY-7R9F5i7AMyd_rhxPkjn821APlB0_-PGlY-busBy64ByjxtXPW6aBDT-5dxFYAVACxY-bmp83DQZrGY12PFblzzfshos3QSyuakBbPNUoG0Qg150QpzQ8rgJIrL62XygfqDIXBC3qRGf4yFuhjoV7NldPTjUN016sawb4g-wuUDx1Y8blzxunAiOwf0zQHJN_Y8bZ4Kle8B6ekB-BJnV9bhxEZgBdPg-iA1A76x7NgeUzKB-aZr0uLHtcdPEx43Lns2Z-3QJMFAhvp76uKntceNWRKCAAq9p8uPG2VAjQfYAgxPVEkjcdYKoZ9OXPm5oBRsH9PJmiEEYAbcP6HaIs150bQRLrQc6H-IycFQsAwZ_99Ndy8ByQPsgBk153LgCFOoNwPAGinc9bmoCi29CTQ0zIQ4HuhGouu9x4wZw0EwH-xpk55MdkNAFRQVYw3KIBiB_GUwOGLoQw_B4GZiFccX4emDGhoXDWnAAgkikYAVFX8_TddvAUdkCSV9Pd60FawBG9npIWLxcvA8sAjQXlMvATgEm7CZwgO8Gpm9IUgYqAtn5ZAdQEdC4Dog9YF_3YkkQz2ZMAatrABs8HawaqBSYwEBcLBooL3qgQEFLn4vLMzsxJTE7saq0KNEqIDMxL9-hxqBGoRpkkYKNoZmWHZiFreBTABc_DS8W9ihomIDKkOfrG3TgpZUmFg1A-6CGaQA1aloBA34JKPib9wBZq8GsBiBZA-e1gsmV4ChaA5XZCuathat-3LQdKrMfZDgSQLZuVw_IusYWmHWN3eC0sgCiFcpbCjauE0xOgsqADAWmfrA82FGNICeDZCbisW5HJ8i6ZpAhYOuaJ4NZIGNALoX4GuKHeWALdkJlFoHF-sBkP5jsgsg0b8JuXY2CWbyCLhCaxysYAikjIK4B1gS6CiZADKIhIjA5EA1UChKCaoRAA5AQOCPhjuxdPRRFdvN8sIfA4du8Cu5RWNSBAgrmYYh3EUHVCMQLwazN0OAABSWu0IdEdhM4_BpngsO3B0yCrAYZCuZBrGsEOwScMECRCra8cREsqTROhYrvw2MdNLIhvgOnEah_QJEOsm4Lku86wCQsIUBCAWgdNKk0QMVByQGLdcCIBcUZmADHHjQm4ZEKFgTxaiB8sIipOlwKLkx8pO_opCyHg1M0ND8vAJOg_AzPyZBggeZnWHKA5Q9IQD1u2gsRBycBXLEAzeFNIA2N68BkL1gzLCe3IVkHyrvA-gUqA9EzFSgOVtMIchhIHORoXNZBIh0ageBIbQJb2jwB6lZIMoZYByqhEEkalseh4uDEAtLRjt06gpGOmu1BGR-R7SEiRMc2sBKlbXmOqzQnoywH57emyUDWbBALnoVBWRbiBHA2B6ujLGtD4w9UjoMTSNN6iFaom7cCWSD_wGMSmiqaYOEB9iVIPaisx2IVJC5BUYZZOqMU69DMC0wK-IvxWi4uXTsFpKpdAchV5uICAA)]
-- [鋼琴伴奏 TMD 檔案](ikadakazura_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PK4sftx4wIwufRxU-f7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHCgsveVsGZKzu10lbBMZfLxkjfxI6rTkHpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-yAmizkYGRgZ6BgZmegYWJOZBhYAK0XImLyzM7MSUxO7GqtCjRKiAzMS8_yMOhxqBGoZpLAQhsDM207MAsfS0FW3SgALTmyY6GFwt7FDRMFJ5u6H--vkFHIcDA1FAvqyBdE4sGLX2wYTUKZvEKukBoHq9gCKSMgLhGwRhImgAxiIaIwORANFApSAiqEQINQEJc-N23q4cc9xmDrAETYAuhlsPdARYE8WogfLCIqTpcCi5MvDt3dNLAnaiBCwpeROBCRIh2IDA9keNAkAtANmJGIUrcQ4ML6BP8cV2LJcX6oKRYC2iCBWmPBxkIpeB8I5AQgmuMJg2iDIA24TUDzofqhhsCYphDOAQNgTnEEJh0EDygBC4D0J2K0ILXJ8Aw07VTQAo2BUyuMhcXAA)]
+- [主旋律 TMD 檔案](ikadakazura.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJOYBjdXSUnjc2PK4sftx4wIwufRxU6eClhaXoq2ChQWXva2CM1d2aqWtgmMul42RvokdyJgX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHk6e_bTtTue7tzyfMqK93s6QAGlBwwoPVBAARkGJu_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTXi5XznraueDatHeiKpxt6n7V3KgQYmBrqZRWkv9_TA1T8ckGjQoGegpEFkAt0-JMdnUCHP5szH8hWMFZ4uWwa0KXv98wCmf5i1f5nDctB5nb3vpg5HygKDNHn89cCxZ_s6gEKPl07AWhNosLTDf1AMQVgKCoARYEGcIG0P9nRAKIwY-FxY8_TSZuAOh83TgUqftzY-7R9F5i7AMyd_rhxPkjn821APlB0_-PGlY-busBy64ByjxtXPW6aBDT-5dxFYAVACxY-bmp83DQZrGY12PFblzzfshos3QSyuakBbPNUoG0Qg150QpzQ8rgJIrL62XygfqDIXBC3qRGf4yFuhjoV7NldPTjUN016sawb4g-wuUDx1Y8blzxunAiOwf0zQHJN_Y8bZ4Kle8B6ekB-BJnV9bhxEZgBdPg-iA1A76x7NgeUzKB-aZr0uLHtcdPEx43Lns2Z-3QJMFAhvp76uKntceNWRKCAAq9p8uPG2VAjQfYAgxPVEkjcdYKoZ9OXPm5oBRsH9PJmiEEYAbcP6HaIs150bQRLrQc6H-IycFQsAwZ_99Ndy8ByQPsgBk153LgCFOoNwPAGinc9bmoCi29CTQ0zIQ4HuhGouu9x4wZw0EwH-xpk55MdkNAFRQVYw3KIBiB_GUwOGLoQw_B4GZiFccX4emDGhoXDWnAAgkikYAVFX8_TddvAUdkCSV9Pd60FawBG9npIWLxcvA8sAjQXlMvATgEm7CZwgO8Gpm9IUgYqAtn5ZAdQEdC4Dog9YF_3YkkQz2ZMAatrABs8HawaqBSYwEBcLBooL3qgQEFLn4vLMzsxJTE7saq0KNEqIDMxL9-hxqCmGmSPgo2hmZYdmIWt3FMAlz4NLxb2KGiYgIqQ5-sbdOCFlSYWDUDrQIbVAMspXSA0UzAHkoZxQKIGzDQGMcF8EK8GwoTzzeDqYNAAJAI20sewBhiJS6Dij5tWg8jmBrAOGK8VTK4Ey6-BymwF89bCVT9u2g6V2Y-wB8UiI6BkYwvMosZuMLkAognKWwo2qBNMToLKgIwD5iGwPNg5jSDHgmQm4rDIGCjZDNIOtqh5MpgEGQDz6eNmiLvngY3eCZVZBBbrA5P9YLILItO8CdMi_HG7q4ecuAVFEwibQDEktkHYCErXgMVBbJAICMNSBNZobZ4P9gY4PJtXwb2HHEkQT0K8iEgIj5sbgXghmLUZGgigAMRiDyhWm0DBBYnVmeAg7YGaBolJEA-YMcEkKP5BcQeyFcRfBBUD5lGozD7s9oAjFeIfcCoA-wASuSCbtsD90wEmYdENshXEB9oDThKIpA2KdlR7COTXTnLiFBZzoHiDxCCyCHLGNAfTkOyLL6uCkyk0Y4JyDyRjwrIkJBNDkjcsrmFxuhYaLo-b9kJkwDGMI04bm8Cxsg5M9oJ1wXJkG9weUA4E1jVQcZAOSEwCK18wC-QikAzItTjiFBxD0FhrAtvWPAHqOkgagRUtiDQKCgGI_6Ay4LQA0tGOYQ_eOAXWe-TEKbhcBZe5SCUuKCrBRS56gWuOlFchirDHK74iGMRvxVoEQ2IbTxGMEa-gZhDMqsbZYBKWKUFZEGIkJMuCshvZmRXsGJDDwUmhaT3UUygJtRnkFXj0wTNrE6ycBqsERSyopEa1p5aLS9dOAakKVgBylbkA)]
+- [鋼琴伴奏 TMD 檔案](ikadakazura_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PK4sftx4wIwufRxU-f7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHCgsveVsGZKzu10lbBMZfLxkjfxI6rTkHpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-yAmizkYGRgZ6BgZmegYWJOZBhYAK0XImLyzM7MSUxO7GqtCjRKiAzMS8_yMOhxqCmmksBCGwMzbTswCx9LQVbdKAAtOXJjoYXC3sUNEwUnm7of76-QUchwMDUUC-rIF0TiwYtfbBhNQrGCrpAaKZgDiQN44BEDZhpDGKC-SBeDYQJ55vB1cGgAUgEbKSPYY3C46YlUPHHTatBZHMDWAeM1womV4Ll10BltoJ5a-GqHzdth8rsR9iDYpERULKxBWZRYzeYXADRBOUtBRvUCSYnQWVAxj1ugsiDndMIcixIZiIOi4yBks0g7WCLmieDSZABMJ8-boa4ex7Y6J1QmUVgsT4w2Q8muyAyzZswLcIft7t6yIlbUDSBsAkUQ2IbhI2gdA1YHMQGiYAwLEVgjdbm-WBvgMOzeRXce8iRBPEkxIuIhPC4uRGIF4JZm6GBAApALPaAYrUJFFyQWJ0JDtIeqGmQmATxHjeC7QfHPyjuQLaC-IugYo8bp0Jl9mG3BxypEP-AUwHYB5DIBdm0Be6fDjAJi26QrSA-0B5wkkAkbVC0o9pDIL92khOnsJgDxRskBpFFkDOmOZiGZF98WRWcTKEZE5R7IBkTliUhmRiSvGFxDYvTtdBwedy0FyIDjmEccdrYBI6VdWCyF6wLliPb4PaAcuDjxmVQcZAOSEw-bgKpedwIchFIBuRaHHEKjiForDWBbWueAHUdJI3AihZEGgWFAMR_UBlwWgDpaMewB2-cAkt6cuIUXK6Cy1ykEhcUleAiF73ANUfKqxBF2OMVXxEM4rdiLYIhsY2nCMaI1_mPm0CZBhJVs8EkLFOCsiDESEiWBWU3sjMr2DEgh4OTQtN6qKdQEmozyCvw6INn1iZYOQ1WCYpYUEmNak8tlhrYB7kGtoBWwMBQj49XMI6HUXC-EUgIwTVGkwZRBlAP4TQDzofqhhsCYphDOAQNgTnEMF7BFMEDSuAyAN2pCC14fQIMMl07BaRQi_YxjFVAFzLCFDIGCylzAQA)]
 
 ## 分析
 
@@ -82,21 +94,21 @@ C3 D C2 B,2 | A,3 B, C2 D2 | B,3 E, C2 B,2 | A,6 z2 |
 ⏱  Duration:       0:21 (21.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 88.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    E3 (MIDI 52) – F4 (MIDI 65) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
-   - 最低音:  E3 in [Ikadakazura #1 @ m.5, 0:05]
-   - 最高音: F4 in [Ikadakazura #1 @ m.2, 0:01]
-   - 適合: contralto, tenor, baritone, bass
+🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  D4 in [Ikadakazura #1 @ m.6, 0:07]
+   - 最高音: E5 in [Ikadakazura #1 @ m.2, 0:01]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Ikadakazura (21.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A 小調（純淨自然小調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  B, A, E, C, D
-   - 調性數值:    A 小調 [相關度: 0.79, 穩定度: High, 自然音純度: 98.3%]
-   - 候選調性 (K-S): A 小調 (0.79), A 大調 (0.54), E 小調 (0.52)
+   - 核心骨幹音:  B, E, A, C, D
+   - 調性數值:    A 調性不明確 [相關度: 0.59, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 小調 (0.59), E 大調 (0.56), E 小調 (0.54)
    - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [Ikadakazura #1]: A 小調 (r: 0.79, 自然音純度: 98.3%, 調外音: G#)
+     • [Ikadakazura #1]: A 調性不明確 (r: 0.59, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -109,21 +121,21 @@ C3 D C2 B,2 | A,3 B, C2 D2 | B,3 E, C2 B,2 | A,6 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████      19.2%
+     C  : █████████                 11.7%
      C# :                            0.0%
-     D  : ███████████               10.8%
+     D  : █████████                 11.7%
      D# :                            0.0%
-     E  : █████████████████████     20.0%
-     F  : ███                        2.5%
+     E  : █████████████████         20.8%
+     F  : ███████                    9.2%
      F# :                            0.0%
      G  :                            0.0%
-     G# : ██                         1.7%
-     A  : ███████████████████████   22.5%
+     G# :                            0.0%
+     A  : █████████████             16.7%
      A# :                            0.0%
-     B  : ████████████████████████  23.3%
+     B  : ████████████████████████  30.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E3 – F4 (13 個半音 / 1.1 個八度, 52 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 52 個音符)
 ================================================================================
 ```
 

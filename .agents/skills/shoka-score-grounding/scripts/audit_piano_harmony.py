@@ -120,6 +120,7 @@ def parse_chord_absolute_pitches(chord_token: str, key_offset: int) -> list[int]
 def expand_track_timeline(section_text: str, default_grid: int = 16) -> list[list[dict]]:
     measures = []
     clean_text = re.sub(r"/\*.*?\*/", "", section_text, flags=re.DOTALL)
+    clean_text = re.sub(r"^\s*L\d*\|.*$", "", clean_text, flags=re.MULTILINE)
     current_grid = default_grid
     raw_measures = clean_text.split("|")
     for raw_m in raw_measures:

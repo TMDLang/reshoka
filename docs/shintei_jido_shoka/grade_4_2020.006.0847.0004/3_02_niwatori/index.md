@@ -57,17 +57,27 @@ Q:1/4=112
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! !f! C4/3 E4/3 G4/3 z4 | E2 c2 G4 | C2 G2 E4 | F2 F2 E2 E2 |
-D2 D2 G4 | !f! A2 c2 A4 | C2 G2 E4 | !mf! F3 E D2 B,2 |
-C4 z4 | !mf! F2 F2 E2 E2 | D2 D2 G4 | d3 B A2 G2 |
-!f! F2 D2 G4 | A2 c2 A4 | !mf! C2 G2 E4 | F3 E D2 B,2 |
-C4 z4 |
+!mf! C4 E4 | G4 z4 | !f! G2 e2 c4 | E2 A2 G4 |
+w: 1.~コケ ココ | ココ | コッ ケッ コ | コッ ケッ コ
+w: 2.~こけ ここ | ここ | こっ けっ こ | こっ けっ こ
+D3 E F2 F2 | A2 G2 G4 | !f! G2 e2 c4 | E2 A2 G4 |
+w: 1.~ヒ ガ シ ガ | シ ラ ム | コッ ケッ コ | コッ ケッ コ
+w: 2.~あ さ ひ が | の ぼ る | こっ けっ こ | こっ けっ こ
+!mf! A3 G F2 D2 | C4 z4 | !mf! D3 E F2 F2 | E2 G2 c4 |
+w: 1.~ヨ ガ ア ケ | タ | ネ グ ラ ヲ | イ デ テ
+w: 2.~み な お き | た | た ろ さ ん | じ ろ さん
+d3 c B2 A2 | A2 G2 G4 | !f! G2 e2 c4 | E2 A2 G4 |
+w: 1.~ア サ ゲ ノ | シ タ ク | コッ ケッ コ | コッ ケッ コ
+w: 2.~が つ こ の | し た く | こっ けっ こ | こっ けっ こ
+!mf! A3 G F2 D2 | C4 z4 |
+w: 1.~イ ソ ガ シ | ヤ
+w: 2.~お く れ る | な
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](niwatori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeaC9GppKbycPU9BS4tL0VbB0NCIy95WwZnLxkjfxA6k48XKee_3zHq6ZPmzld0vu1pfNiwAG_Rs9iag8Iul-59t6QaywWIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfN09uyna3c83bnl-ZQV7_d0gIJPDxh8eqDgAzIMTN7v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeguoGeftq54Nq0d6IqnG3qftXcqBBiYGuhlFaS_39MDVPxyQaNCgZ6CkTmQC3T4kx2dQIc_mzMfyFYwUni5bBrQpcBwAZn-YtX-Zw3LQeZ2976YOR8o-rhxPVDwya4eoMjTtROAdjgrAAMWKKYADG0FoChQN0jry4b5T3cte9bT_nzJLqC-5x17n-5f_bi5-_mK3mfTVz5uWg92ffuuFzOnvlix-8WKGUBFQNPgsQEyBqTkyY4GEPW4afPjpo2PGxrAjM1wBkyuuRkkDSJhcqgiz-ZufNzY87hx-uOmzsdNcCMJaXu6ZA5YW9PjxomPG-eDtTWufdw4AWzMpMeNLY8blz9umvtsztyXS3qA7gcrnfq4cRLQ_Y8b14EsbJz_uLGfWAvBJs6FObUFEgS7eqgSBHPmPpu-FGw00F17Hjd1E6vz-ay2F1u3P27shQbB0yWrXjb3gfzZNPnZmoVwNigdLVhInre7gKofN_UAXfW4cRVIG-X5AwoUtPS5uPwyyxNBJY1VQGZiXr5DjUGNQjXIFgUbEwstOzALW9ZUAGeQhhcLexQ0TBWebuh_vr5BB56fNLFoAFoGNUwDqFHTChptEGozjEKAGmj4AClQcIDFQCrwiDdPArLWAPF2MA0zBchrXgnEC-BmI7tlVw_ILY2TgQkZQk2GUShuAQktBlLA1L4YYidQBT7xJiCeCsSbgLgHbso6IN4DdFM3uluAwZ6bVqtgqKALhsZQ2hRKG0BpdAjUBtQFUw2ChnFIHJh2TG0wi9BVIRuFqsMEiYfMRtaBzK4BFpoIHjIbp6vAuRp3etvVA05vJuSnN9KS0wp4MnrctAikAJ6k9iMlDtwJiqT0sh-IV0FFuoC4F55m5mO3DBL1ZkjhhxL1yBKoEUl61IOTJnKcI2tAjlnzeJw2IUOcqZlAAtjRSVECaO4FRt0GaGmwCR6ZS4C8diBug4cwSBQU4VuhkQ_Mw819cBlQ6QKMrab1-KJ_PlAB0DpQEdAEKUpAUTkDJgoThAgDax5QmgAJgYoIJJnpEKMa-7HEPnqk0ChTKhghJysINAeTyEkMWTtqWUGFnA9sQ9I154OSRNNeqAikQoFGSPMSeETgjHpcORyUqyHxCKzP4XUASAaS7zEMHZY5vJaLS9dOAdbsUACylbkA)]
-- [鋼琴伴奏 TMD 檔案](niwatori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5e977PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQ0IjL3lbBmcvGSN_EjqtOQenFSqCGWU-XLH-2svtlV-vLhgVKIOFnszcBhV8s3f9sSzeQDRZ70b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqns2c_Xbvj6c4tz6esALrOyMDIQM_AwEzPwMLEHMgwMAE6UImLyy-zPLEkvyjTKiAzMS8_yMOhxqBGoZpLAQhsTCy07MAsfS0FW3SgALTjyY6GFwt7FDRMFZ5u6H--vkFHIcDA1EAvqyBdE4sGLX2wYUDjc9NqFQwVdMHQGEqbQmkDKI0OgdqAumCqQdAwDokD046pDWYRuipko1B1mCDxkNnIOpDZNQpGSDxkNk5XceEP11094HA1ITFcgQFkhmQLSgAhS6B6l_QAAkcgcsgga0D2v3k8TpuQIc44JxBMOzrJCiZ019MojhWMkMMfAs3BJHJcIGtHTXpUSEjAQmA0IYF0cNWiF3U-KEUdrKSDOinaMBZqGiQwDOPBQlAKaD8a3wTIMEHim8YDWabxsQhGDVLQQlVDKUzTIKECkYUaYI6kDuwslLRM2HYgE8hCUmMEZBjl0tKBwBDXtVOABboCGluZCwA)]
+- [主旋律 TMD 檔案](niwatori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFX5RSUZ-UC3FmRUWmVkFoMMSU7Mic9OzEPyUklGKtBHiXmZuSALtLQUXs6ep6ClxaVoq2BoaMRlb6vgzGVjpG9iB9LxYuW893tmPV2y_NnK7pddrS8bFoANejZ7E1D4xdL9z7Z0A9lgsRftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9eseTp79tO1O57u3PJ8yor3ezpAYawHDGM9UBgDGQYm7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdBfQs09bVzyb1g50xdMNvc_aOxUCDEwN9LIK0t_v6QEqfrmgUaFAT8HIHMgFOvzJjk6gw5_NmQ9kKxgpvFw2DehSYLiATH-xav-zhuUgc7t7X8ycDxR93LgeKPhkVw9Q5OnaCUA7nBWAAQsUUwCGtgJQFKgbpPVlw_ynu5Y962l_vmQXUN_zjr1P969-3Nz9fEXvs-krHzetB7u-fdeLmVNfrNj9YsUMoCKgafDYABkDUvJkRwOIety0-XHTxscNDWDGZjgDJtfcDJIGkTA5VJFnczc-bux53Dj9cVPn4ya4kYS0PV0yB6yt6XHjxMeN88HaGtc-bpwANmbS48aWx43LHzfNfTZn7sslPUD3g5VOfdw4Cej-x43rQBY2zn_c2E-shWAT58Kc2gIJgl09VAmCOXOfTV8KNhrorj2Pm7qJ1fl8VtuLrdsfN_ZCg-DpklUvm_tA_mya_GzNQjgblI4WLCTP211A1Y-beoCuety4CqSN8vwBBQpa-lxcfpnliaCSxCogMzEv36HGoKYaZImCjaGZlh2YhS1nKoDzR8OLhT0KGmYKTzf0P1_foAPPTppYNADtAhlWo1Cdm1arYKigC4bGULpGwRTKMoCLVAPVgUSN44CEIYiAiIP0mAExTEcNMHNCzDIBkiBcA5eHqwFb7mNYA00sUGFIOoGbg8JFOAQSK2DloIiB6CNWtnkS1KY1QLwdyoLoA_OaV4LJBagONQLKN04G5i2YQ0GcyQhTkblIDgUJLwYrB2ZKCANNEx7ZJqhNU4F4E5jVA5VZB-btATu-G-5Q_IljVw84cZiQmDiIjnNwMgIJgQRBkQ5KBDXwhAUPFJSIJz8WV0ACBxyLiyDKoPr2Y7cRFoNkRwfEXGCeB-IuMKsXKjMfw0YC-bSTrKgABTBmzgLFBCgWkCLHCMIEipgDKVCc4M2AzSB_gEJwAzz1g5IbKCyXgHntYLINKW5AIQ7SsRWIwUmzuQ8qA8lRoLAC1pxYYgASVo-besEJG8QChTFIZgZUHJzkIcKwoAele5DwEmiUQHIASGY6mAcyFFgqExf8wPbPcMoJ4DgCie2FlmSQOADFK0SG-jkBlPohAQ6sB8E2ggohkMwqDBtrubh07RRglZoCkK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](niwatori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5e977PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQ0IjL3lbBmcvGSN_EjqtOQenFSqCGWU-XLH-2svtlV-vLhgVKIOFnszcBhV8s3f9sSzeQDRZ70b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqns2c_Xbvj6c4tz6esALrOyMDIQM_AwEzPwMLEHMgwMAE6UImLyy-zPLEkvyjTKiAzMS8_yMOhxqCmmksBCGwMzbTswCx9LQVbdKAAtOLJjoYXC3sUNMwUnm7of76-QUchwMDUQC-rIF0TiwYtfbBhNQrVuWm1CoYKumBoDKVrFEyhLAO4SDVQHUjUOA5IGIIIiDhIjxkQw3TUKBhBzTIBkiBcA5eHqwFb7mNYo_C4afPjpo1QYTBnM9wcFC7CISDh5maw8o0wBqomPLLNk6A2rQHi7VAWRB-Y17wSTC5AdagRUL5x8uPGiTCHgjiTEaYic5EcChJeDFY-EcZA04RHtglq01Qg3gRm9UBl1oF5e8CO74Y7FH_i2NUDThwmJCYOouMcnIxAQiBBUKSDEkENPGHBAwUl4smPxRWQwAHH4iKIMqi-_dhthMUg2dEBMfdx4yog7gKzeqEy8zFsJJBPO8mKClAAY-YsUEyAYgEpcowgTKCIOZACxQneDNgM8gcoBDfAUz8ouYHCcgmY1w4m25DiBhTiIB1bgRicNJv7oDKQHAUKq8dN67HEACSsHjf1ghM2iAUKY5DMDKg4OMlDhGFBD0r3IOEl0CiB5ACQzHQwD2To48Z-4oIfWBIPp5wAjiOQ2F5oSQaJA1C8QmSonxNAqR8S4I-bQFEDKYRAMqswbKxFr9N8kOs0C2iVBg20aMNYoCYIWQOlQUZBQt8wHiwEpYABisY3jQeyTONjEQwMNUhxScg0sINMgDwTbAaCXYXsdCIsB0oBZWJhhtLaccCQ17VTgAV-tA8oNJH5RmC-MhcA)]
 
 ## 分析
 
@@ -75,24 +85,24 @@ C4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 雞 ]
 ================================================================================
-⏱  Duration:       0:18 (18.2s), 17 measures total
+⏱  Duration:       0:19 (19.3s), 18 measures total
 🎼 Key & Tempo:    首調基準 C, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  B3 in [Niwatori #1 @ m.8, 0:08]
-   - 最高音: D5 in [Niwatori #1 @ m.12, 0:11]
+🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  C4 in [Niwatori #1 @ m.1, 0:00]
+   - 最高音: E5 in [Niwatori #1 @ m.3, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Niwatori (18.2s)
+🏛  結構:      Niwatori (19.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  E, G, C, D, F
-   - 調性數值:    C 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.89), G 大調 (0.68), E 小調 (0.67)
+   - 核心骨幹音:  G, C, E, A, D
+   - 調性數值:    C 大調 [相關度: 0.93, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.93), G 大調 (0.74), E 小調 (0.61)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Niwatori #1]: C 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Niwatori #1]: C 大調 (r: 0.93, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -105,21 +115,21 @@ C4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████      17.2%
+     C  : ██████████████████        22.0%
      C# :                            0.0%
-     D  : ████████████████          13.7%
+     D  : ████████                   9.8%
      D# :                            0.0%
-     E  : ████████████████████████  20.4%
-     F  : ███████████████           12.9%
+     E  : █████████████             15.2%
+     F  : ████████                   9.1%
      F# :                            0.0%
-     G  : ████████████████████████  20.4%
+     G  : ████████████████████████  28.8%
      G# :                            0.0%
-     A  : █████████████             11.3%
+     A  : ███████████               13.6%
      A# :                            0.0%
-     B  : █████                      4.0%
+     B  : █                          1.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 52 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 52 個音符)
 ================================================================================
 ```
 

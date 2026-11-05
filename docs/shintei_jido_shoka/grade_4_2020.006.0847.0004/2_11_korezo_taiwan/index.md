@@ -66,15 +66,21 @@ Q:1/4=100
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-D3 E G4 G4 | A3 G E4 G4 | E3 G A4 B4 | d3 e d4 z4 |
-d3 d d4 B4 | A3 B d4 e4 | G3 A G4 D4 | G3 B A4 z4 |
-B2 A2 G4 A4 | E2 A2 G4 G2 A2 | B8 d2 B2 | G8 z4 |
+G2 A2 G4 E4 | D2 E2 D4 B4 | D2 E2 G4 B4 | A2 B2 A4 z4 |
+w: 1.~カ ガ ヤ ク | ワ レ ラ ノ | ミ ク ニ ノ | ハ テ ニ
+w: 2.~ま う へ に | ひ を う け | しゃ く ね つ | の ゐ は
+d2 d2 d4 B4 | A2 B2 G4 E4 | D2 E2 D4 B,4 | D2 E2 D4 z4 |
+w: 1.~ウ シ ホ ノ | ヲ ド レ ル | ウ ナ バ ラ | コ エ テ
+w: 2.~を を し き | ち か ら を | ち じゃ う に | も り て
+G2 A2 G4 E4 | D2 E2 D4 E2 D2 | A8 A2 B2 | G8 z4 |
+w: 1.~ウ ゴ カ ヌ | シ _ マ コ レ | ゾ タ イ | ワン
+w: 2.~わ _ か き | い の ち こ れ | ぞ た い | わん
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](korezo_taiwan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJCanKnFpaSk8bpz8uKnnceO8F-27njcuVtDS4lK0VTA0MOCyt1Vw57Ix1jexA2l-sXLe-z2znm6f-3Rb99OmzWADn83eBBR7smPt040bn-7Y8XJ2C1gYYtKzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqEbqPX58onP16x5Onv207U7nu7c8nzKivd7OkAhqQcMST1QSAIZBibv93QqcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50F9CzT1tXPJvWDnTF0w29z9o7FQIMgG7IKkh_v6cHqPjlgkaFAj0FI6CLeoAOf7KrB-jwZ3PmA9kKhoYKL5dNAzoVGDYg41-s2v-sYTnI4O7eFzPnA0UfN64ACj7Z0QkUebp2AtASd4WnS5YDxRSAwa0AFAXq5gLpfbKjAWzEnrlARY8bux83zXvc1AKUfdzY_7gJiHoeNwHZ657Pan86pxusZj9IqnE1WM26x43rHzcuA3JBpjzbuw6sou1x4_THjbuhKpomPW5cCTao-9nW7cCwgKlZ9bhxA9B0sLLJjxuBgsvAodU9FaZiCliu-3Hjmqebt4EFgebuAwk2NKClK7Ds_MeNLWBXT4b7b1cPiHo-Z96THV1gNfvAJu8Am7z65cy9YEFgMusEOxQoNfF5457nbRuh1jU1g7279nHjEoh_nq5oBEk1AUMVyF0PMh2YLh83tIJFJwERWALo0N6nXbPBpiwEByzYo02Tns7ZAHMKUHwG2II2iGuezwarb2oCq-yChseL7qVgUaArgBEAVNf7fMr8pxMhDm8Bx8FCrEECjeBOcNTM6Xi5FmguUMsSoAlgn4ESATh0gY4GWfaiZw5YQRNYcC3Euy9BWRAoCAxUsLMgMf20Z_rT2fOerd3xfPsssDTQRGDgAxX1gd0E5M6GxALQiGezO1_OWQ5WBg7hpgZISDxfsAXsMaB6YOSCfAyJqj1gUWAoAzVPA6oGJhyg5WCPYvoPmKXBuoDpsweYJyAuBToCGJEgBjSa50yEJimgUdCEuQkYYC_614PFgWl4FSQ6gbEDiRqIxqeTIL4HpkhQwIMje_WMp9t2wZIbIqCezd0KzNiwwACmF6ALgEkdFC9PN-142QSJcnDIN-6EaHnRvPDpHmAgAcWB6b_3cVMrJCmA_bUOmF4ggTMTrHoiKEERygXQND8FHOXTNgDdCla_GuRdsHPBRnUB4x5syOqn64F5HWhLBzj8u5_tX_JsKiQrATMnMKODgwGeEp_2Tn_eAEnSq4CxC86ykLJi3ctpDc86wI4DxhRIChz3DQ3PNkCMA6e1pqannbOfNoKTcyPQ0aDMBksl4GT1Yu12aB6F5gFQoQGNe0y_AjVQXj5DgYKWPheXd35RalV-SGJmeWKeVUBmYl6-Q41BjUI1yCYFG0MzLTswC1v1oAAqpHc0vFjYo6BhovB0Q__z9Q068DJdE4sGoIVQwzSAGjWtFB43rQbyHzetUXjcvAQkBeath7JqgKIg9uNmkPxKmHxzH5L8fKiOx83dWOX7wSJtSPIwgOyYXT0gxzTuAyluBCpu3AEzrBHkQKhhjZvAlk0Cq4HJT0SSBxWdQKofiNfCFcD8BVKwDmzABCAL5kc019QomMYr6AKhWbyCIZihC6drFIygfKAkuhRUyBCqRlfBGC5lCjEQSusqGMBkwDkHd9Tu6qEsapeBPbsdGPSzYYGBEjXg0GzuBEcvTB4ptCH6m7uAeAJcHpYIQPKbweavAEcv1sBEilpgpMGibjrMsMZehGGNC8Ei3UA1nTB5sB5UeWjVBTMA2bVNYC1A1zaC3I3FNbCIMIVHBCKKIJFmDJcxg8tAYtgIHtPQ5IGQMobHOLHxuqOTGvG6BZp5wSHR3IMUEtvBInuAeB48KMFxBY5nkApQPoOI7weTsCwCzfKPm0HKMQGWaIVkb6BdwKiDmokSrS1gkXXQCITITwbbCXIxSAXcjY3gogSsA64f3K7C55YacCSCYgAWQbDYgGZJZCkQDeJDNCFDULyDxGCRioCISK3l4tK1U0AurxWAfGUuLgA)]
-- [鋼琴伴奏 TMD 檔案](korezo_taiwan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPlxU8_jxnkv2nc9b1z8fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDDgsrdVcOeyMdY3seOqU1B6sXLe-z2znm6f-3Rb99OmzUogsWezNwHFnuxY-3Tjxqc7dryc3QIWhhj_bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27oBmp9vnzi8zVrns6e_XTtjqc7tzyfsgLoOiMDIwM9AwMzPQMLE3Mgw8AE6EAlLi7v_KLUqvyQxMzyxDyrgMzEvPwgD4cagxqFai4FILAxNNOyA7P0tRRs0YEC0J4nOxpeLOxR0DBReLqh__n6Bh2FAAOgDVkF6ZpYNGjpgw2rUTCNV9AFQrN4BUMwQxdO1ygYQflASXQpqJAhVI2ugjFcyhRiIJTWVTCAyXDhd_-uHrLcDzbbFG4bwh0QlxnDZczgMhBvGMG9Aw0DhJQx3FvEOn5HJzmOBzkWZBPMITBboeGLLAWiQXyIJmQI8h9IDOZ4BEQ4vhZbAvNBSWAm0PQFNCZeIdowFoxrFEyAHBMYxwjIMcoF8oyBBCjtAPmm8bFAi2qw6YXLR5vFgzVgl8XUDbIDFAZALlgnRANMFqQHzgNpBvpO104B2YMKWPjKXFwA)]
+- [主旋律 TMD 檔案](korezo_taiwan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJCanKnFpaSk8bpz8uKnnceO8F-27njcuVtDS4lK0VTA0MOCyt1Vw57Ix1jexA2l-sXLe-z2znm6f-3Rb99OmzWADn83eBBR7smPt040bn-7Y8XJ2C1gYYtKzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqEbqPX58onP16x5Onv207U7nu7c8nzKivd7OkAhqQcMST1QSAIZBibv93QqcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50F9CzT1tXPJvWDnTF0w29z9o7FQIMgG7IKkh_v6cHqPjlgkaFAj0FI6CLeoAOf7KrB-jwZ3PmA9kKhoYKL5dNAzoVGDYg41-s2v-sYTnI4O7eFzPnA0UfN64ACj7Z0QkUebp2AtASd4WnS5YDxRSAwa0AFAXq5gLpfbKjAWzEnrlARY8bux83zXvc1AKUfdzY_7gJiHoeNwHZ657Pan86pxusZj9IqnE1WM26x43rHzcuA3JBpjzbuw6sou1x4_THjbuhKpomPW5cCTao-9nW7cCwgKlZ9bhxA9B0sLLJjxuBgsvAodU9FaZiCliu-3Hjmqebt4EFgebuAwk2NKClK7Ds_MeNLWBXT4b7b1cPiHo-Z96THV1gNfvAJu8Am7z65cy9YEFgMusEOxQoNfF5457nbRuh1jU1g7279nHjEoh_nq5oBEk1AUMVyF0PMh2YLh83tIJFJwERWALo0N6nXbPBpiwEByzYo02Tns7ZAHMKUHwG2II2iGuezwarb2oCq-yChseL7qVgUaArgBEAVNf7fMr8pxMhDm8Bx8FCrEECjeBOcNTM6Xi5FmguUMsSoAlgn4ESATh0gY4GWfaiZw5YQRNYcC3Euy9BWRAoCAxUsLMgMf20Z_rT2fOerd3xfPsssDTQRGDgAxX1gd0E5M6GxALQiGezO1_OWQ5WBg7hpgZISDxfsAXsMaB6YOSCfAyJqj1gUWAoAzVPA6oGJhyg5WCPYvoPmKXBuoDpsweYJyAuBToCGJEgBjSa50yEJimgUdCEuQkYYC_614PFgWl4FSQ6gbEDiRqIxqeTIL4HpkhQwIMje_WMp9t2wZIbIqCezd0KzNiwwACmF6ALgEkdFC9PN-142QSJcnDIN-6EaHnRvPDpHmAgAcWB6b_3cVMrJCmA_bUOmF4ggTMTrHoiKEERygXQND8FHOXTNgDdCla_GuRdsHPBRnUB4x5syOqn64F5HWhLBzj8u5_tX_JsKiQrATMnMKODgwGeEp_2Tn_eAEnSq4CxC86ykLJi3ctpDc86wI4DxhRIChz3DQ3PNkCMA6e1pqannbOfNoKTcyPQ0aDMBksl4GT1Yu12aB6F5gFQoQGNe0y_AjVQXj5DgYKWPheXd35RalV-SGJmeWKeVUBmYl6-Q41BTTXIIgUbCy07MANb5aAAKqJ3NLxY2KOgYaLwdEP_8_UNOvASXROLBqB1IMNqFAwVjIBYV8EsHkjUKJjGg1hAUlfBGEkApALCNwLSRkCWAYgHNsPHsEbhcdNqIF6j8Lh5CVD8cdN6sNrHzeuBGCS6EiTa3AcVnQ9W8bi5G0W0H4jboKJgx0BMNwLKNe4DYqBc4w6QjsbVEB2Nm4DmTALLgEQnQkVBZSaQAhrXuBYsAXISSGIdUPkEIA1yHMQC_AG6q4ecADUFQ-TgwhG8GCLoQboMiLcDA2Q2SjABPd3cCQ5WkCg0KEBqm7uAeAJYFBTcINHNQLwCHKwYQQoKOHDgTQeHUS80jBYCcTdQphMcjZOQREE1BTysYdY2ATHQ2sZlRAbpjk7qplEIDQpmXTAEBTdIPYSHLUC3gNMqKJB6oH7YDubNA3sYGGDAgAWJ7oOa8bhpPxAvgaTmx82bocLoodkPDhZwgoaHZQskzQFDDyQ6GaiqBywOsgpsdCMwIwBVgfUDyyEUo2u5uHTtFJBLBAUgX5kLAA)]
+- [鋼琴伴奏 TMD 檔案](korezo_taiwan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPlxU8_jxnkv2nc9b1z8fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDDgsrdVcOeyMdY3seOqU1B6sXLe-z2znm6f-3Rb99OmzUogsWezNwHFnuxY-3Tjxqc7dryc3QIWhhj_bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27oBmp9vnzi8zVrns6e_XTtjqc7tzyfsgLoOiMDIwM9AwMzPQMLE3Mgw8AE6EAlLi7v_KLUqvyQxMzyxDyrgMzEvPwgD4cag5pqLgUgsLHQsgMz9LUUbNGBAtCWJzsaXizsUdAwUXi6of_5-gYdhQADoPlZBemaWDRo6YMNq1EwVDACYl0Fs3ggUaNgGg9iAUldBWMkAZAKCN8ISBsBWQYgHtgMH8MahcdNq4F4jcLj5iVA8cdN68FqHzevB2KQ6EqQaHMfVHQ-WMXj5m4U0X4gboOKgh0DMd0IKNe4D4iBco07QDoaV0N0NG4CmjMJLAMSnQgVnf64qRlIAY1rXAuWADkJJLEOqHwCkAY5DmIB_gDd1UNOgJqCIXJw4QheDBH0IF0GxNuBATIbJZiAnm7uBAcrSBQaFCC1zV1APAEsCgpukOhmIF4BDlaMIAUFHDjwpoPDqBcaRguBuBso0wmOxklIojMgwQoJa5i1TUAMtLZxGZFBuqOTumkUQoOCWRcMQcENUg_hYQvQLeC0CgqkHqgftoN588AeBgYYMGBBovugZjxu2g_ESyCp-XHzZqgwemj2g4MFnKDhYdkCSXPA0AOJTgaq6gGLg6wCG90IzAhAVWD9j5smoxhdi61A8EEuEEyIKhCAJZm7gq6dAoJwUdB42tv1fGvTs7WL8Ad7vEK0YaxCtFl8biwSF4jhHGAiBsUHkGMaHwsMb6KyFMxJrrn6zuS7CuwMM5DVYPdFm2C4kQR3gdMlyF0oLgKzNJ6tXfxswR4SXIbHJWACLglyFzCegdYgR3W0D1AKQ8wILKbMBQA)]
 
 ## 分析
 
@@ -85,21 +91,21 @@ B2 A2 G4 A4 | E2 A2 G4 G2 A2 | B8 d2 B2 | G8 z4 |
 ⏱  Duration:       0:21 (21.6s), 12 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [KorezoTaiwan #1 @ m.1, 0:00]
-   - 最高音: E5 in [KorezoTaiwan #1 @ m.4, 0:05]
+🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  B3 in [KorezoTaiwan #1 @ m.7, 0:12]
+   - 最高音: D5 in [KorezoTaiwan #1 @ m.5, 0:07]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      KorezoTaiwan (21.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D, A, B, E
-   - 調性數值:    G 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.88), D 大調 (0.71), E 小調 (0.60)
+   - 核心骨幹音:  D, G, E, A, B
+   - 調性數值:    G 調性不明確 [相關度: 0.81, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.81), D 大調 (0.79), E 小調 (0.62)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [KorezoTaiwan #1]: G 大調 (r: 0.88, 自然音純度: 100.0%)
+     • [KorezoTaiwan #1]: G 調性不明確 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -114,19 +120,19 @@ B2 A2 G4 A4 | E2 A2 G4 G2 A2 | B8 d2 B2 | G8 z4 |
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : ████████████████          21.2%
+     D  : ████████████████████████  27.3%
      D# :                            0.0%
-     E  : █████████                 11.4%
+     E  : ████████████████          18.2%
      F  :                            0.0%
      F# :                            0.0%
-     G  : ████████████████████████  31.8%
+     G  : ███████████████████       21.2%
      G# :                            0.0%
-     A  : ██████████████            18.9%
+     A  : ███████████████           16.7%
      A# :                            0.0%
-     B  : █████████████             16.7%
+     B  : ███████████████           16.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 43 個音符)
+  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 43 個音符)
 ================================================================================
 ```
 
