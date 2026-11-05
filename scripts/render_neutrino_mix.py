@@ -158,6 +158,25 @@ def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> 
     # 遍歷保留聲部中的所有 <note>，將無歌詞的器樂音符轉為 <rest/>
     converted_notes = 0
     in_lyric_tie = False
+    prev_lyric_by_num: dict[str, str] = {}
+
+    kanji_to_kana = {
+        "出": "デ",
+        "野": "ノ",
+        "汽": "キ",
+        "車": "シャ",
+        "一": "イ",
+        "十": "ジュウ",
+        "五": "ゴ",
+    }
+    dakuten_map = str.maketrans(
+        "かきくけこさしすせそたちつてとはひふへほカキクケコサシスセソタチツテトハヒフヘホ",
+        "がぎぐげござじずぜぞだぢづでどばびぶべぼガギグゲゴザジズゼゾダヂヅデドバビブベボ",
+    )
+    seion_map = str.maketrans(
+        "がぎぐげござじずぜぞだぢづでどばびぶべぼガギグゲゴザジズゼゾダヂヅデドバビブベボ",
+        "かきくけこさしすせそたちつてとはひふへほカキクケコサシスセソタチツテトハヒフヘホ",
+    )
 
     for measure in best_part.findall("measure"):
         # 移除和弦標記 <harmony>，避免干擾單旋律解析
@@ -178,6 +197,7 @@ def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> 
             # 檢查是否有有效歌詞
             lyric_texts = []
             for lyr in list(note.findall("lyric")):
+                lyr_num = lyr.attrib.get("number", "1")
                 t_el = lyr.find("text")
                 txt = (t_el.text or "").strip() if t_el is not None else ""
                 if not txt or txt == "_":
@@ -185,9 +205,20 @@ def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> 
                 else:
                     # 清理特殊標點（保留平假名、片假名、長音符「ー」）
                     cleaned = re.sub(r"[「」『』（）()・、。，,\s]", "", txt)
+                    for k, v in kanji_to_kana.items():
+                        cleaned = cleaned.replace(k, v)
+                    # 展開疊字號（踊り字：ヽ ヾ ゝ ゞ）
+                    if cleaned in ("ヽ", "ゝ"):
+                        prev = prev_lyric_by_num.get(lyr_num, "ア")
+                        cleaned = prev[-1].translate(seion_map) if prev else "ア"
+                    elif cleaned in ("ヾ", "ゞ"):
+                        prev = prev_lyric_by_num.get(lyr_num, "ア")
+                        cleaned = prev[-1].translate(dakuten_map) if prev else "ア"
+
                     if t_el is not None:
                         t_el.text = cleaned
                     if cleaned:
+                        prev_lyric_by_num[lyr_num] = cleaned
                         lyric_texts.append(cleaned)
                     else:
                         note.remove(lyr)
@@ -293,6 +324,10 @@ def render_single_song(target: Path, args: argparse.Namespace, neutrino_dir: Pat
         output_path = song_dir / f"{base_stem}.mp3"
     else:
         output_path = song_dir / f"{base_stem}_neutrino.mp3"
+
+    if args.skip_existing and output_path.exists() and output_path.stat().st_size > 0:
+        print(f"⏭️  略過已存在的檔案：{output_path.name} ({song_dir.name})")
+        return output_path
 
     vocal_tmd_text = vocal_src_tmd.read_text(encoding="utf-8")
     accomp_tmd_text = accomp_tmd.read_text(encoding="utf-8")
@@ -523,6 +558,11 @@ def main() -> None:
         "--replace-song-mp3",
         action="store_true",
         help="直接覆寫歌曲目錄下的 <stem>.mp3（供網站頁面直接播放）",
+    )
+    parser.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="若目標輸出 MP3 已存在且非空檔案，則直接略過不重新合成",
     )
     parser.add_argument(
         "--lh-only",
