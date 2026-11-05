@@ -1,0 +1,3107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>あをば（青葉・鋼琴伴奏版）</work-title>
+  </work>
+  <identification>
+    <creator type="composer">TMD</creator>
+    <creator type="composer">國立臺灣歷史博物館典藏</creator>
+    <encoding>
+      <software>TmdSwift MusicXML Exporter</software>
+    </encoding>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>PianoLH</part-name>
+    </score-part>
+    <score-part id="P2">
+      <part-name>PianoRH</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>48</divisions>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome>
+            <beat-unit>quarter</beat-unit>
+            <per-minute>100</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="100"/>
+      </direction>
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="2">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="3">
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="6m">minor</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="4">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="5">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="6">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="7">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="8">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="9">
+        <note>
+          <pitch>
+            <step>G</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="4">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="4">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="10">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="11">
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="6m">minor</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="12">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="13">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="14">
+        <note>
+          <pitch>
+            <step>G</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="4">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="6m">minor</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="15">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="6m">minor</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="16">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="17">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="18">
+        <note>
+          <pitch>
+            <step>G</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="4">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="19">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="20">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="21">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="22">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="23">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="24">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="25">
+        <note>
+          <pitch>
+            <step>G</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="4">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="4">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="26">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="27">
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="6m">minor</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="28">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="29">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="30">
+        <note>
+          <pitch>
+            <step>G</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="4">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="6m">minor</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="31">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="6m">minor</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="32">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="33">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="34">
+        <note>
+          <pitch>
+            <step>G</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="4">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="35">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="5">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+    </measure>
+
+    <measure number="36">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>3</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="1">major</kind>
+      </harmony>
+      <note>
+        <rest/>
+        <duration>48</duration>
+          <type>quarter</type>
+      </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+  </part>
+  <part id="P2">
+    <measure number="1">
+      <attributes>
+        <divisions>48</divisions>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome>
+            <beat-unit>quarter</beat-unit>
+            <per-minute>100</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="100"/>
+      </direction>
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>5</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="2">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+        </note>
+
+    </measure>
+
+    <measure number="3">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="4">
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="5">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ア</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>メ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ガ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ヤ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="6">
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ム</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="7">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ク</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>モ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ガ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>チ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="8">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ル</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="9">
+        <note>
+          <pitch>
+            <step>G</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ク</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>モ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ノ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="10">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ア</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ト</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ニ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="11">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ウ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ネ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ウ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ネ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="12">
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ト</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="13">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ア</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ヲ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>バ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="14">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>5</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ワ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>5</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>カ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>C</step>
+            <alter>1</alter>
+            <octave>5</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>バ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ノ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="15">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ヤ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>マ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ヤ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>マ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="16">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ガ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="17">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ト</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ホ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ク</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="18">
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>チ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>カ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ク</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="19">
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ノ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>コ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="20">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ル</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="21">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>あ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>め</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>が</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>や</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="22">
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>む</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="23">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>く</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>も</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>が</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ち</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="24">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>る</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="25">
+        <note>
+          <pitch>
+            <step>G</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>き</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>き</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>の</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="26">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>か</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>げ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>は</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="27">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ゆ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ら</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ゆ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ら</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="28">
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>と</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="29">
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>み</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>づ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>の</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="30">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>5</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>お</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>5</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>も</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>C</step>
+            <alter>1</alter>
+            <octave>5</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>て</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>に</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="31">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ち</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>の</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>う</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>へ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="32">
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>に</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+    <measure number="33">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>あ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>を</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>く</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="34">
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>72</duration>
+          <type>quarter</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>く</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>B</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>24</duration>
+          <type>eighth</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>ろ</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>A</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>96</duration>
+          <type>half</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>く</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="35">
+        <note>
+          <pitch>
+            <step>E</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>う</text>
+          </lyric>
+        </note>
+
+        <note>
+          <pitch>
+            <step>F</step>
+            <alter>1</alter>
+            <octave>4</octave>
+          </pitch>
+          <duration>48</duration>
+          <type>quarter</type>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>つ</text>
+          </lyric>
+        </note>
+
+    </measure>
+
+    <measure number="36">
+        <note>
+          <pitch>
+            <step>D</step>
+            <octave>4</octave>
+          </pitch>
+          <duration>144</duration>
+          <type>half</type>
+          <dot/>
+          <lyric number="1">
+            <syllabic>single</syllabic>
+            <text>る</text>
+          </lyric>
+        </note>
+
+        <note>
+          <rest/>
+          <duration>48</duration>
+          <type>quarter</type>
+        </note>
+
+    </measure>
+
+  </part>
+</score-partwise>
