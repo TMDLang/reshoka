@@ -545,28 +545,50 @@ def generate_song_folder(
         if soundfont:
             render_command.extend(["--soundfont", str(soundfont.resolve())])
         run(render_command, cwd=folder)
-        run(
-            [
-                "ffmpeg",
-                "-y",
-                "-i",
-                str(wav_path),
-                "-codec:a",
-                "libmp3lame",
-                "-q:a",
-                "2",
-                str(mp3_path),
-            ],
+
+        # 偵測 WAV 峰值音量並線性增益至 -1.5 dB（保留曲內 mf/f 強弱對比，解決 tmd -w 預設音量過小問題）
+        vol_proc = subprocess.run(
+            ["ffmpeg", "-hide_banner", "-i", str(wav_path), "-af", "volumedetect", "-f", "null", "-"],
             cwd=folder,
+            capture_output=True,
+            text=True,
         )
+        m_max = re.search(r"max_volume:\s*([-\d.]+)\s*dB", (vol_proc.stderr or "") + (vol_proc.stdout or ""))
+        gain_db = 0.0
+        if m_max:
+            max_vol = float(m_max.group(1))
+            if max_vol < -1.5:
+                gain_db = min(20.0, -1.5 - max_vol)
+
+        ffmpeg_mp3_cmd = ["ffmpeg", "-y", "-i", str(wav_path)]
+        if gain_db > 0.1:
+            ffmpeg_mp3_cmd.extend(["-af", f"volume={gain_db:.2f}dB,alimiter=limit=0.95"])
+        ffmpeg_mp3_cmd.extend(["-codec:a", "libmp3lame", "-q:a", "2", str(mp3_path)])
+        run(ffmpeg_mp3_cmd, cwd=folder)
         if not keep_wav:
             wav_path.unlink(missing_ok=True)
     # Prefer the generated piano accompaniment, but keep using a pre-existing
     # same-stem MP3 when no accompaniment TMD is available (or rendering was
     # skipped/failed).  The latter is the original audio supplied with the song.
     audio_path = mp3_path if mp3_path.exists() else None
+    neutrino_mp3_path = folder / f"{stem}_neutrino.mp3"
+    if not neutrino_mp3_path.exists():
+        neutrino_candidates = sorted(folder.glob("*_neutrino.mp3"))
+        if neutrino_candidates:
+            neutrino_mp3_path = neutrino_candidates[0]
+    has_neutrino_audio = neutrino_mp3_path.exists()
+
     audio_is_piano = piano_tmd is not None and audio_path is not None
-    if audio_path:
+    if audio_path and has_neutrino_audio:
+        piano_label = "鋼琴伴奏版" if audio_is_piano else "原曲伴奏版"
+        audio_html = (
+            f"- **{piano_label}**：<br><audio controls src=\"{html.escape(audio_path.name)}\"></audio>\n"
+            f"- **NEUTRINO 歌聲合成版**：<br><audio controls src=\"{html.escape(neutrino_mp3_path.name)}\"></audio>"
+        )
+    elif has_neutrino_audio:
+        audio_path = neutrino_mp3_path
+        audio_html = f'<audio controls src="{html.escape(neutrino_mp3_path.name)}"></audio>'
+    elif audio_path:
         audio_html = f'<audio controls src="{html.escape(audio_path.name)}"></audio>'
     elif piano_tmd:
         audio_html = "*已略過音訊渲染（尚未產生 MP3）。*"
