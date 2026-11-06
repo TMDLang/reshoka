@@ -14,7 +14,8 @@ audio: "mura_no_kajiya.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="mura_no_kajiya.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="mura_no_kajiya.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="mura_no_kajiya_neutrino.mp3"></audio>
 
 - 詞：中村秋香
 - 曲：田村虎藏

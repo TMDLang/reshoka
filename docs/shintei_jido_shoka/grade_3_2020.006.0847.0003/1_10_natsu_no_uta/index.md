@@ -14,7 +14,8 @@ audio: "natsu_no_uta.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="natsu_no_uta.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="natsu_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="natsu_no_uta_neutrino.mp3"></audio>
 
 - 詞：大和田建樹
 - 曲：田村虎藏

@@ -542,9 +542,9 @@
 
 - [x] **1 櫻**（`F` / `4/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/1_sakura/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/1_sakura/sakura.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/1_sakura/sakura_piano.tmd)
 - [x] **2 勸學**（`F` / `4/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/2_kangaku/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/2_kangaku/kangaku.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/2_kangaku/kangaku_piano.tmd)
-- [ ] **3 祝ひ日**（`C` / `4/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/3_iwaibi/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/3_iwaibi/iwaibi.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/3_iwaibi/iwaibi_piano.tmd)
-- [ ] **4 學びの園**（`G` / `2/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/4_manabi_no_sono/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/4_manabi_no_sono/manabi_no_sono.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/4_manabi_no_sono/manabi_no_sono_piano.tmd)
-- [ ] **5 朝起**（`F` / `4/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/5_asaoki/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/5_asaoki/asaoki.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/5_asaoki/asaoki_piano.tmd)
+- [x] **3 祝ひ日**（`C` / `4/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/3_iwaibi/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/3_iwaibi/iwaibi.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/3_iwaibi/iwaibi_piano.tmd)
+- [x] **4 學びの園**（`G` / `2/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/4_manabi_no_sono/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/4_manabi_no_sono/manabi_no_sono.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/4_manabi_no_sono/manabi_no_sono_piano.tmd)
+- [x] **5 朝起**（`F` / `4/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/5_asaoki/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/5_asaoki/asaoki.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/5_asaoki/asaoki_piano.tmd)
 - [ ] **6 雲雀**（`C` / `2/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/6_hibari/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/6_hibari/hibari.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/6_hibari/hibari_piano.tmd)
 - [ ] **7 虹**（`F` / `4/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/7_niji/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/7_niji/niji.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/7_niji/niji_piano.tmd)
 - [ ] **8 やすみの鐘**（`G` / `2/4`）— [單曲頁](kyoeki_shoka/kan_1_854862/8_yasumi_no_kane/index.md) · [主譜 TMD](kyoeki_shoka/kan_1_854862/8_yasumi_no_kane/yasumi_no_kane.tmd) · [伴奏 TMD](kyoeki_shoka/kan_1_854862/8_yasumi_no_kane/yasumi_no_kane_piano.tmd)
