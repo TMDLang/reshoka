@@ -62,11 +62,11 @@ Q:1/4=100
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-G4 G4 c4 G4 | A6 A2 g8 | E6 E2 D4 C4 | G12 z4 |
+G4 G4 c4 G4 | A6 A2 G8 | E6 E2 D4 C4 | G12 z4 |
 w: 1.~フ サ ウ ノ | ソ ラ ニ | タ カ ヒ カ | ル
 w: 2.~う ち と の | う み の | へ だ て な | き
 w: 3.~ム カ シ ノ | ミ ヨ ニ | タ メ シ ナ | キ
-G4 G4 c4 G4 | A6 A2 g8 | E6 E2 D4 C4 | C12 z4 |
+G4 G4 c4 G4 | A6 A2 G8 | E6 E2 D4 C4 | C12 z4 |
 w: 1.~ワ ガ ヒ ノ | ミ コ ノ | マ ツ リ ゴ | ト
 w: 2.~め い ぢ の | ひ か り | く ま も な | く
 w: 3.~ヨ キ ヒ ハ | ケ フ ノ | ヨ キ ヒ ナ | リ
@@ -82,8 +82,8 @@ w: 3.~ホ マ レ ハ | ケ フ ノ | ホ マ レ ナ | リ
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shisei_kinenbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqSi6oaIJ6cWpebm54FltLQUni7vfjZl_4sVM57u3_ps-lIFLS0uRVsFQwMDLntbBWcuGxN9EzuQCS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8yor3ezpAYacHDDs9UNgBGQaG7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdNeLlfOetq54Nq0d6IqnG3qftXcqBBgYGullFaS_39PztKXh6Z5-oDKFAj0FC6AA0OkK5govl00Duu_9nlkgM1-s2v-sYTnItO7eFzPnA0UfN_e_nLodKK4ADCcFoPDTtRO4QEqBvn7c0PCsc9uzhROB9j1u3Pq4cerjxjagYY8b1z1fuQssOPdxE9BsoMjql6tnPG0FsoGC8x83dj9u3AQkQVJN3SDjnnVMfNzYA4wfsIpNEFOe7lsItA4ssv9x42SIIDAyn-wC6gQK7nvcuORxU9fjximPG4FB3wkOluUQufWPG2eAjW983LjsRQ_QRKDg5MdNcyHOeTZ1--PGXrAR04GCIJ2Pm4AqelGc0DTp-VKgBiC3BWgiWOeOFxPWPFu7GSy44XHT5MeN04CyEEMfNzRBwmYXMI00PG1rfboEGLhAhW2PGxdCnAjywNbtMMH9EJGXs6aARXY8blwAFln2uHEV0C3ggJnR92zTbpA0yCdAZyyChg00MOHB2PVyVgdYpB_oK7BIE9iUfnDEghP3083bYBHQ8ripH-x6IBsSZ6tf7IF4tftx07zHTRAvAUNoOlj_2r1gud2gEGvqgYQNMC3BPAJMKsSGzY5OULqZAfZxUwM4KUyHR_eT3Yuh0d0E9AxI35N9kPicD_Y_RCUsbLDEWOP6J7u7YCLAJLUVYjQ2latASQfoKpD3JqwBOweIgD4GKgI7Zw7EZmB4roaG0F6gP4EiK8Ah1EsohHC4BZtKJLdQXjpAgYKWPhdXcEZmcWqmd2Zeal5SplVAZmJevkONQU01yCYFGwstOzADW9mkACnaXizsUdAwUXi6of_5-gYdeIGiiUUD0D6QYTUKpgq6YGwYB2XUKJgBSV0gaQoSAsEaBWMwbaxgBFIJFgEphUEDkAjYPB_DGoXHzVOB_MdNW8HkMhDZ3AfW87hpL1j94-aVQNwNN_1x036IeNNqoPgkKAss0wyiYTAeYY8RUK6xDaSycSGYXAEm10F0gWVA_P1QMag9jTug4guAGOyyxlVQmV7s9hiD3LAA7qLHTduR_dM8H-qfFdj907wQrqMLKrMWwx78sbqrh56xCiJxxep6sP_XgH0DjiP0UGjaDBWDhkLzPGgotAAxKJwfN22BynRgD21QrDY1glQ2toDJRWASFqubIOY1dgNVgcITFqv9UPF9QPEmMAsWqxAZ7LEKTjHg-ID5B6Qa5IKNUHdPRfMPSAdED0wHNFbBviMlVnd0khOroHhCxpD4AsUiLDdCohmEQSIm6mAhfFkV5OXHTaBsAUqsIBKUdUCBsBksAyZRkjY4OUODDRTBEBGYDK6sCkoi0Ehtgtg5GaILKgPJyrDMDhIH2QlsZoDVQhIDKIuCZKZjtwcRqc0Q17WCSVjRA06-YJ-g-AecFB83dyL0gf2G3T94I_Xp7NnkRCo4i4IJcyAGRR0sxkyhGRSWVUFRDpPBn1UxkzYo64D8tASsHhTvj5tnIIXCBLAoJM63QdQA1YJkYGGFLVZ3g9QBsx1INSSmQLYhF8Dz4YUuRHwDWBUo7oENDqiaFrAMjoIeHKuzwa4Dp7ZmSAFEKKui64BkVuxZtZaLS9dOAaX2VQAKKHMBAA)]
-- [鋼琴伴奏 TMD 檔案](shisei_kinenbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vPvZlP0vVsx4un_rs-lL3-_peNm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKhgYGXPa2Cs5cNib6JnZcdQpKL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKCqCVRgZGBnoGBmZ6BhYm5kCGgSHQViUuruCMzOLUTO_MvNS8pEyrgMzEvPwgD4cag5pqLgUgsLHQsgMz9LUUbNGBAsSaFwt7FDRMFJ5u6H--vkFHIcDA0EgvqyBdE4sGLX2wYTUKpgq6YGwYB2XUKJgBSV0gaQoSAsEaBWMwbaxgBFIJFgEphUEDkAjYPB_DGoXHzVOB_MdNW8HkMhDZ3AfW87hpL1j94-aVQNwNN_1x036IeNNqoPgkKAss0wyiYTAeYY8RUK6xDaSycSGYXAEm10F0gWVA_P1QMag9jTug4guAGOyyxlVQmV7s9hiD3LAA7qLHTduR_dM8H-qfFdj907wQrqMLKrMWwx78sbqrh56xCiJxxep6sP_XgH0DjiP0UGjaDBWDhkLzPGgotAAxKJwfN22BynRgD21QrDY1glQ2toDJRWASFqubIOY1dgNVgcITFqv9UPF9QPEmMAsWqxAZ7LEKTjHg-ID5B6Qa5IKNUHdPRfMPSAdED0wHNFbBviMlVnd0khOroHhCxpD4AsUiLDdCohmEQSIm6mAhfFkV5OXHTaBsAUqsIBKUdUCBsBksAyZRkjY4OUODDRTBEBGYDK6sCkoi0Ehtgtg5GaILKgPJyrDMDhIH2fm4sQesFpIYQFkUJDMduz2ISG2GuK4VTMKKHnDyBfsExT_gpPi4uROhD-w37P7BG6lPZ88mJ1LBWRRMmAMxKOpgMWYKzaCwrAqKcpgM_qyKmbRBWQfkpyVg9aB4f9w8AykUJoBFIXG-DaIGqBYkAwsrbLG6G6QOmO1AqiExBbINuQCeDy90IeIbwKpAcf-4cRpUTQtYBkdBD47V2WDXgVNbM6QAIpRV0XVAMiv2rFqLtfL1Qa58TRCV74u-rpftvcDIftbd-3TthKeTel40boK0IJAiNV4h2jAWRtUomAAZJkh8KMM0HkibxqOJGED9ToExQAphClwaqzoUk42AlBGIj6IHw0FQ1ZjGEHIQMKh17RRQQjvaxzAWbDqmhBEuCWO4hDIXAA)]
+- [主旋律 TMD 檔案](shisei_kinenbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2bmFqSi6oaIJ6cWpebm54FltLQUni7vfjZl_4sVM57u3_ps-lIFLS0uRVsFQwMDLntbBWcuGxN9EzuQCS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82RHw9O1O57u3PJ8yor3ezpAYacHDDs9UNgBGQaG7_d0KnFx6Wsp2FILcCkoKDztm_9s9o4Xm9tfrOh60dEOdNeLlfOetq54Nq0d6IqnG3qftXcqBBgYGullFaS_39PztKXh6Z5-oDKFAj0FC6AA0OkK5govl00Duu_9nlkgM1-s2v-sYTnItO7eFzPnA0UfN_e_nLodKK4ADCcFoPDTtRO4QEqBvn7c0PCsc9uzhROB9j1u3Pq4cerjxjagYY8b1z1fuQssOPdxE9BsoMjql6tnPG0FsoGC8x83dj9u3AQkQVJN3SDjnnVMfNzYA4wfsIpNEFOe7lsItA4ssv9x42SIIDAyn-wC6gQK7nvcuORxU9fjximPG4FB3wkOluUQufWPG2eAjW983LjsRQ_QRKDg5MdNcyHOeTZ1--PGXrAR04GCIJ2Pm4AqelGc0DTp-VKgBiC3BWgiWOeOFxPWPFu7GSy44XHT5MeN04CyEEMfNzRBwmYXMI00PG1rfboEGLhAhW2PGxdCnAjywNbtMMH9EJGXs6aARXY8blwAFln2uHEV0C3ggJnR92zTbpA0yCdAZyyChg00MOHB2PVyVgdYpB_oK7BIE9iUfnDEghP3083bYBHQ8ripH-x6IBsSZ6tf7IF4tftx07zHTRAvAUNoOlj_2r1gud2gEGvqgYQNMC3BPAJMKsSGzY5OULqZAfZxUwM4KUyHR_eT3Yuh0d0E9AxI35N9kPicD_Y_RCUsbLDEWOP6J7u7YCLAJLUVYjQ2latASQfoKpD3JqwBOweIgD4GKgI7Zw7EZmB4roaG0F6gP4EiK8Ah1EsohHC4BZtKJLdQXjpAgYKWPhdXcEZmcWqmd2Zeal5SplVAZmJevkONQU01yCYFGwstOzADW9mkACnaXizsUdAwUXi6of_5-gYdeIGiiUUD0D6QYTUKpgq6YGwYB2XUKJgBSV0gCeKBYI2CMZg2VjACKQSLwORA0AAkAjbOx7BG4XHzVCD_cdNWMLkMRDb3gfU8btoLVv-4eSUQd8NNf9y0HyLetBooPgnKAss0g2gYjEfYYwSUa2wDqWxcCCZXgMl1EF1gGRB_P1QMak_jDqj4AiAGu6xxFVSmF7s9xiA3LIC76HHTdmT_NM-H-mcFdv80L4Tr6ILKrMWwB3-k7uqhY6SCSFyRuh7s_TVgz4CjCD0QmjZDxaCB0DwPGggtQAwK5sdNW6AyHdgDGxSpTY0glY0tYHIRmIRF6iaIeY3dQFWg4IRFaj9UfB9QvAnMgkUqRAZ7pIITDDg6YP4BqQa5YCPU3VPR_APSAdED0wGNVLDvSInUHZ3kRCoonpAxJL5AsYiIU1AsgzBIxEQdLIQvp4K8_LgJlCtAaRVEgnIOKBA2g2XAJErKBqdmaLCBIhgiApPBlVNBSQQaqU0QOydDdEFlIDkZltdB4iA7gY0MsFpIYgDlUJDMdOz2ICK1GeK6VjAJK3nAyRfsExT_gJPi4-ZOhD6w37D7B2-kPp09m5xIBedQMGEOxKCog8WYKTSDwrIqKMphMvizKmbSBmUdkJ-WgNWD4v1x8wykUJgAFoXE-TaIGqBakAwsrLDF6m6QOmC2A6mGxBTINuTydz68zIWIbwCrAsU9sLkBVdMClsFRzoNjdTbYdeDU1gwpgAhlVXQdkMyKPavWcnHp2img1L0KQAFlLgA)]
+- [鋼琴伴奏 TMD 檔案](shisei_kinenbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vPvZlP0vVsx4un_rs-lL3-_peNm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKhgYGXPa2Cs5cNib6JnZcdQpKL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKCqCVRgZGBnoGBmZ6BhYm5kCGgSHQViUuruCMzOLUTO_MvNS8pEyrgMzEvPwgD4cag5pqLgUgsLHQsgMz9LUUbNGBAsSaFwt7FDRMFJ5u6H--vkFHIcDA0EgvqyBdE4sGLX2wYTUKpgq6YGwYB2XUKJgBSV0gCeKBYI2CMZg2VjACKQSLwORA0AAkAjbOx7BG4XHzVCD_cdNWMLkMRDb3gfU8btoLVv-4eSUQd8NNf9y0HyLetBooPgnKAss0g2gYjEfYYwSUa2wDqWxcCCZXgMl1EF1gGRB_P1QMak_jDqj4AiAGu6xxFVSmF7s9xiA3LIC76HHTdmT_NM-H-mcFdv80L4Tr6ILKrMWwB3-k7uqhY6SCSFyRuh7s_TVgz4CjCD0QmjZDxaCB0DwPGggtQAwK5sdNW6AyHdgDGxSpTY0glY0tYHIRmIRF6iaIeY3dQFWg4IRFaj9UfB9QvAnMgkUqRAZ7pIITDDg6YP4BqQa5YCPU3VPR_APSAdED0wGNVLDvSInUHZ3kRCoonpAxJL5AsYiIU1AsgzBIxEQdLIQvp4K8_LgJlCtAaRVEgnIOKBA2g2XAJErKBqdmaLCBIhgiApPBlVNBSQQaqU0QOydDdEFlIDkZltdB4iA7Hzf2gNVCEgMoh4JkpmO3BxGpzRDXtYJJWMkDTr5gn6D4B5wUHzd3IvSB_YbdP3gj9ens2eREKjiHgglzIAZFHSzGTKEZFJZVQVEOk8GfVTGTNijrgPy0BKweFO-Pm2cghcIEsCgkzrdB1ADVgmRgYYUtVneD1AGzHUg1JKZAtiGXv_PhZS5EfANYFSjuHzdOg6ppAcvgKOfBsTob7DpwamuGFECEsiq6DkhmxZ5Va7FWvT7IVa8Joup90df1sr0XGNnPunufrp3wdFLPi8ZNkPYDUqTGK0QbxsKoGgUTIMMEiQ9lmMYDadN4NBEDqN8pMAZIIUyBS2NVh2KyEZAyAvFR9GA4CKoa0xhCDgIGta6dAkpoR_sYxoJNx5QwwiVhDJdQ5gIA)]
 
 ## 分析
 
@@ -94,10 +94,10 @@ w: 3.~ホ マ レ ハ | ケ フ ノ | ホ マ レ ナ | リ
 ⏱  Duration:       0:38 (38.4s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – G5 (MIDI 79) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
+🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  C4 in [ShiseiKinenbi #1 @ m.3, 0:06]
-   - 最高音: G5 in [ShiseiKinenbi #1 @ m.2, 0:03]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
+   - 最高音: C5 in [ShiseiKinenbi #1 @ m.1, 0:01]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      ShiseiKinenbi (38.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
@@ -135,7 +135,7 @@ w: 3.~ホ マ レ ハ | ケ フ ノ | ホ マ レ ナ | リ
      B  : █                          1.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – G5 (19 個半音 / 1.6 個八度, 48 個音符)
+  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 48 個音符)
 ================================================================================
 ```
 
