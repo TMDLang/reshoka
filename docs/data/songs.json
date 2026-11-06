@@ -90,6 +90,240 @@
     "url": "kogakko_shoka/grade_3/15_shirasagi/"
   },
   {
+    "title": "君が代",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/1_01_kimigayo/"
+  },
+  {
+    "title": "かめ",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/1_02_kame/"
+  },
+  {
+    "title": "なはとび",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/1_03_nawatobi/"
+  },
+  {
+    "title": "犬",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/1_04_inu/"
+  },
+  {
+    "title": "猫と蛙",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/1_05_neko_to_kaeru/"
+  },
+  {
+    "title": "蘭の花",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/1_06_ran_no_hana/"
+  },
+  {
+    "title": "人形",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/1_07_ningyo/"
+  },
+  {
+    "title": "天長節",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/2_01_tenchosetsu/"
+  },
+  {
+    "title": "花",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/2_02_hana/"
+  },
+  {
+    "title": "せんたく",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/2_03_sentaku/"
+  },
+  {
+    "title": "月",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/2_04_tsuki/"
+  },
+  {
+    "title": "紙鳶",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/2_05_tako/"
+  },
+  {
+    "title": "時計",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/2_06_tokei/"
+  },
+  {
+    "title": "さあ遊びませう",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/2_07_saa_asobimasho/"
+  },
+  {
+    "title": "勅語奉答",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/3_01_chokugo_hoto/"
+  },
+  {
+    "title": "日の丸の旗",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/3_02_hinomaru_no_hata/"
+  },
+  {
+    "title": "こだま",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/3_03_kodama/"
+  },
+  {
+    "title": "親の恩",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/3_04_oya_no_on/"
+  },
+  {
+    "title": "運動會",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/3_05_undokai/"
+  },
+  {
+    "title": "紀元節",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/3_06_kigensetsu/"
+  },
+  {
+    "title": "花咲爺",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/3_07_hanasaka_jijii/"
+  },
+  {
+    "title": "天皇陛下",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/4_01_tenno_heika/"
+  },
+  {
+    "title": "六氏先生",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/4_02_rokushi_sensei/"
+  },
+  {
+    "title": "同情",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/4_03_dojo/"
+  },
+  {
+    "title": "夕立",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/4_04_yudachi/"
+  },
+  {
+    "title": "菊の花",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/4_05_kiku_no_hana/"
+  },
+  {
+    "title": "二宮金次郎",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/4_06_ninomiya_kinjiro/"
+  },
+  {
+    "title": "數へ歌",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/4_07_kazoeuta/"
+  },
+  {
+    "title": "一月一日",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/"
+  },
+  {
+    "title": "始政紀念日",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/5_01_shisei_kinenbi/"
+  },
+  {
+    "title": "富士山",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/5_02_fujisan/"
+  },
+  {
+    "title": "櫻井のわかれ",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/5_03_sakurai_no_wakare/"
+  },
+  {
+    "title": "日本の國",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/5_04_nihon_no_kuni/"
+  },
+  {
+    "title": "汽車",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/5_05_kisha/"
+  },
+  {
+    "title": "にぎみたま",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/5_06_nigimitama/"
+  },
+  {
+    "title": "漁船",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/5_07_gyosen/"
+  },
+  {
+    "title": "明治天皇御製",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/"
+  },
+  {
+    "title": "金剛石・水は器",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/"
+  },
+  {
+    "title": "蛙と蜘蛛",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_02_kaeru_to_kumo/"
+  },
+  {
     "title": "櫻",
     "collection": "《共益商社唱歌教科書》",
     "volume": "巻一・生徒用（NDL PID 854862）",

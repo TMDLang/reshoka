@@ -42,6 +42,7 @@ class AmbiguousMainTmdError(RuntimeError):
 
 
 COLLECTION_TITLES: dict[str, str] = {
+    "kogakko_shokashu_1915": "《公學校唱歌集》",
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
     "utanohon": "《うたのほん》（唱歌課本）",
@@ -50,6 +51,7 @@ COLLECTION_TITLES: dict[str, str] = {
 }
 
 VOLUME_TITLES: dict[str, str] = {
+    "kogakko_shokashu_1915": "大正四年版（國臺圖 0725 26）",
     "grade_3": "尋常科 第三學年用",
     "grade_1_2020.006.0847.0001": "尋常科 第一學年用（2020.006.0847.0001）",
     "grade_2_2020.006.0847.0002": "尋常科 第二學年用（2020.006.0847.0002）",
@@ -74,6 +76,7 @@ VOLUME_TITLES: dict[str, str] = {
 }
 
 VOLUME_NAV_TITLES: dict[str, str] = {
+    "kogakko_shokashu_1915": "大正四年（全一冊）",
     "grade_3": "第三學年用",
     "grade_1_2020.006.0847.0001": "尋常科 第一學年",
     "grade_2_2020.006.0847.0002": "尋常科 第二學年",
@@ -185,7 +188,65 @@ BOOK_INFO_IMAGE_DESCRIPTIONS: dict[str, dict[str, str]] = {
         "P006.jpg": "「演奏上一般の注意」（第 1 頁）。",
         "P032.jpg": "版權頁（右頁）：標明「明治三十五年五月一日印刷、明治三十五年五月五日發行、明治三十五年十一月一日訂正印刷、明治三十五年十一月五日訂正再版」、「編者 共益商社樂器店」、「代表兼發行者 白井銈造」、「印刷者 野村宗十郎」、「定價金參拾錢」。",
     },
+    "kogakko_shokashu_1915": {
+        "P001.jpg": "本冊封面（右頁），題「公學校唱歌集　臺灣總督府」，左上貼有舊藏圖書分類籤「0725 26」。",
+        "P002.jpg": "「緒言」（第 1–2 頁）：說明本書編纂旨趣、選曲與作歌作曲來源（一條／宮島慎三郎、文部省著作《尋常小學唱歌》等）及伴奏譜省略理由。",
+        "P003.jpg": "「緒言」續頁（第 3 頁，署「大正四年四月　臺灣總督府」）與「公學校唱歌集目次」前半（第一～三學年）。",
+        "P004.jpg": "「公學校唱歌集目次」後半（第四～六學年）。",
+        "P005.jpg": "「本集ノ使ヒ方」第 1–2 頁（五線譜與數字簡譜音階、拍子、休止符等樂典對照說明）。",
+        "P006.jpg": "「本集ノ使ヒ方」第 3–4 頁。",
+        "P007.jpg": "「本集ノ使ヒ方」第 5–6 頁。",
+    },
 }
+
+KOGAKKO_SHOKASHU_1915_NOTE = (
+    "國立臺灣圖書館「日治時期圖書影像系統」典藏號 **`jpli2009-bk-sxt_0725_26_8888`**（索書號 **`0725 26`**）。"
+    "大正 4 年（1915 年）4 月臺灣總督府編纂發行，為臺灣公學校第一部最早期的官編五線譜與數字簡譜對照唱歌集。"
+    "本數位化版本依據國臺圖館藏原件完整存見之 **39 首**曲目（第一至第三學年各 7 首、第四與第五學年各 8 首、第六學年存卷首 2 首；原件缺頁處詳見[書訊與緒言](0_book_info/index.md)）進行重建。"
+)
+
+KOGAKKO_SHOKASHU_1915_BOOK_INFO_EXTRA = """## 館藏詮釋資料（國立臺灣圖書館）
+
+| 欄位 | 內容 |
+| :--- | :--- |
+| **系統編號** | `jpli2009-bk-sxt_0725_26_8888` |
+| **資料格式** | 圖書 |
+| **主要題名** | 公學校唱歌集 |
+| **作者（姓名）** | 臺灣總督府（編輯） |
+| **出版／發行者** | 臺灣總督府 |
+| **出版年（日治）** | 大正 4 年（1915 年 4 月） |
+| **總頁數** | 112 頁（原件部分缺頁，存掃描影像 93 頁） |
+| **語文** | 日文 |
+| **索書號** | `0725 26` |
+| **關鍵詞** | 猫、蛙、天長節、時計、紀元節、運動會、二宮金次郎、始政紀念日、汽車、富士山、明治天皇、金剛石、日本、高砂、臺灣島、蜘蛛、打狗港、淡水河、霧社、人形、佛桑花、帽子 |
+| **補充說明** | 目次可連結之章節內文影像包含黑體字章節在內。無版權頁、部分原件缺頁（缺頁曲目：第一學年〈蝶々〉〈お馬〉、第二學年〈桃園〉〈夕やけ〉、第三學年〈帽子〉〈佛桑花〉、第四學年〈蜻蛉〉、第五學年〈楠木正行〉、第六學年〈臺灣周遊唱歌〉〈霧社〉〈卒業〉）。 |
+
+---
+
+## 緒言（原文轉錄）
+
+> 一、本書ハ公學校第一部ニ於テ唱歌教授ノ際教師ノ使用ニ供センガ爲ニ編纂シタルモノナリ。但シ第六學年ニ於テハ便宜兒童ニモ使用セシムル目的ヲ以テ特ニ假名遣ヲ正シ漢字ヲモ交ヘタリ。
+>
+> 一、本書ハ每學年ノ教材ヲ九曲トシ、別ニ祝祭日唱歌等五曲ヲ加ヘテ合計五十九曲ヲ採擇セリ。而シテ是等ノ歌曲ハ主トシテ各學年ニ於ケル國語讀本中ノ教材ト聯絡ヲ保タシメタリ。其ノ中「猫と蛙」「せんたく」「さあ遊びませう」「こだま」「運動會」「夕立」ハ本府編纂公學校用國民讀本ヨリ、「かめ」「なはとび」「蝶々」「蘭の花」「お馬」「桃園」「夕やけ」「帽子」「佛桑花」「蜻蛉」「臺灣周遊唱歌」「霧社」「卒業」ハ別ニ新作シ、總テ本府囑託一條（舊姓宮島）慎三郎ヲシテ作曲セシメ、「勅語奉答」「六氏先生」「菊の花」「始政紀念日」ハ從來本島ニ行ハレタル歌詞ニ同囑託ノ作曲シタルモノヲ採リ、「にぎみたま」ハ芝葛鎮氏ノ作曲ニカヽルモノヲ採リ、其ノ他ハ悉ク文部省ノ著作ニカヽルモノ、中ニ就キテ採擇シタリ。但シ「花」「人形」「天皇陛下」ハ本島ニ適セシメンガ爲ニ其ノ歌詞ニ多少ノ改作ヲ試ミタリ。
+>
+> 一、本書ハ使用上ノ便宜ヲ圖リテ本譜及ビ略譜ノ二種ヲ併セ載セタリ。但シ紙數ノ都合ニヨリテ伴奏譜ハ總テ之ヲ省略セリ。
+>
+> 大正四年四月　　臺灣總督府
+"""
+
+
+def resolve_col_and_vol(folder_or_vol: Path) -> tuple[str, str]:
+    """Return (col_name, vol_name) for either a song/0_book_info folder or a volume folder."""
+    p = folder_or_vol.resolve()
+    # Check if p is directly a volume folder (e.g. docs/kogakko_shokashu_1915 or docs/kogakko_shoka/grade_3)
+    if p.parent == DOCS_ROOT.resolve():
+        return p.name, p.name
+    if p.parent.parent == DOCS_ROOT.resolve():
+        # Either p is a multi-volume dir (docs/kogakko_shoka/grade_3) or a song dir in a single-volume collection (docs/kogakko_shokashu_1915/1_01_kimigayo)
+        if p.name == "0_book_info" or list(p.glob("*.tmd")):
+            return p.parent.name, p.parent.name
+        return p.parent.name, p.name
+    return p.parent.parent.name, p.parent.name
 
 
 def natural_sort_key(text: str) -> list[int | str]:
@@ -605,8 +666,7 @@ def generate_song_folder(
     if abc + "\n" != abc_raw:
         abc_path.write_text(abc + "\n", encoding="utf-8")
 
-    vol_name = folder.parent.name
-    col_name = folder.parent.parent.name
+    col_name, vol_name = resolve_col_and_vol(folder)
     col_title = COLLECTION_TITLES.get(col_name, col_name)
     vol_title = VOLUME_TITLES.get(vol_name, vol_name)
     vol_nav_title = VOLUME_NAV_TITLES.get(vol_name, vol_name)
@@ -769,8 +829,7 @@ def generate_song_folder(
 
 def generate_book_info_folder(folder: Path) -> Path:
     folder = folder.resolve()
-    vol_name = folder.parent.name
-    col_name = folder.parent.parent.name
+    col_name, vol_name = resolve_col_and_vol(folder)
     col_title = COLLECTION_TITLES.get(col_name, col_name)
     vol_title = VOLUME_TITLES.get(vol_name, vol_name)
 
@@ -789,6 +848,8 @@ def generate_book_info_folder(folder: Path) -> Path:
     seo_title = f"書訊與卷首／卷末掃描頁 — {col_title} {vol_title}"
     if col_name == "kyoeki_shoka":
         seo_desc = f"明治時期東京共益商社樂器店{col_title}（{vol_title}）之封面、緒言、發音圖解、目次、演奏注意與版權頁等高解析度原書掃描圖檔（共 {len(images)} 頁）。"
+    elif col_name == "kogakko_shokashu_1915":
+        seo_desc = f"日治時期臺灣總督府大正四年（1915 年）《公學校唱歌集》（國臺圖系統編號 jpli2009-bk-sxt_0725_26_8888，索書號 0725 26）之館藏詮釋資料、緒言全文轉錄、目次與「本集ノ使ヒ方」原書掃描圖檔（共 {len(images)} 頁）。"
     else:
         seo_desc = f"日治時期臺灣{col_title}（{vol_title}）之封面、扉頁、目次（もくろく）、樂典大要、版權頁與封底等高解析度原書掃描圖檔（共 {len(images)} 頁）。"
     fm_lines = [
@@ -801,12 +862,18 @@ def generate_book_info_folder(folder: Path) -> Path:
     fm_lines.append("---")
     frontmatter = "\n".join(fm_lines)
 
+    extra_meta = (
+        f"\n{KOGAKKO_SHOKASHU_1915_BOOK_INFO_EXTRA}\n---\n\n## 卷首原書掃描頁（P001–P007）\n"
+        if col_name == "kogakko_shokashu_1915"
+        else ""
+    )
+
     markdown = f"""{frontmatter}
 
 # 書訊與卷首／卷末掃描頁 — {col_title} {vol_title}
 
 本頁收錄本冊之封面、扉頁、目次（もくろく）、樂典大要、版權頁與封底等原書掃描圖檔（共 {len(images)} 頁）。
-
+{extra_meta}
 {images_md}
 """
     output = folder / "index.md"
@@ -819,6 +886,21 @@ def classify_song_section(
 ) -> tuple[str | None, str | None, str]:
     """Return (year_heading, section_heading, number_label) for a song directory."""
     parts = folder_name.split("_")
+    if col_name == "kogakko_shokashu_1915":
+        if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
+            cat = parts[0]
+            num = f"({int(parts[1])})"
+            sec_map = {
+                "1": "第一學年",
+                "2": "第二學年",
+                "3": "第三學年",
+                "4": "第四學年",
+                "5": "第五學年",
+                "6": "第六學年",
+            }
+            return None, sec_map.get(cat, f"第 {cat} 學年"), num
+        return None, None, folder_name
+
     if col_name in ("kogakko_shoka", "utanohon"):
         num = f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
         return None, None, num
@@ -895,8 +977,7 @@ def format_song_table_row(sdir: Path, num_label: str) -> str:
 
 def generate_volume_index(vol_dir: Path) -> Path:
     vol_dir = vol_dir.resolve()
-    vol_name = vol_dir.name
-    col_name = vol_dir.parent.name
+    col_name, vol_name = resolve_col_and_vol(vol_dir)
     col_title = COLLECTION_TITLES.get(col_name, col_name)
     vol_title = VOLUME_TITLES.get(vol_name, vol_name)
 
@@ -964,6 +1045,9 @@ def generate_volume_index(vol_dir: Path) -> Path:
             f"（[NDL PID `{pid}`](https://dl.ndl.go.jp/pid/{pid})）" if pid else ""
         )
         lines.extend([f"> {KYOEKI_COLLECTION_NOTE}{ndl_link}", ""])
+
+    if col_name == "kogakko_shokashu_1915":
+        lines.extend([f"> {KOGAKKO_SHOKASHU_1915_NOTE}", ""])
 
     if col_name == "utanohon" and vol_name == "ge_2006.006.0878":
         lines.extend(
@@ -1093,14 +1177,12 @@ def write_song_index_json(docs_dir: Path) -> Path:
             continue
         title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
         rel_folder = folder.relative_to(docs_dir).as_posix()
-        parts = rel_folder.split("/")
-        collection = parts[0] if parts else ""
-        volume = parts[1] if len(parts) > 1 else ""
+        col_name, vol_name = resolve_col_and_vol(folder)
         songs.append(
             {
                 "title": title,
-                "collection": COLLECTION_TITLES.get(collection, collection),
-                "volume": VOLUME_TITLES.get(volume, volume),
+                "collection": COLLECTION_TITLES.get(col_name, col_name),
+                "volume": VOLUME_TITLES.get(vol_name, vol_name),
                 "url": f"{rel_folder}/",
             }
         )
@@ -1127,14 +1209,14 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "    <strong>隨機聽見一段歷史</strong>",
         '    <button type="button" data-lucky-song-button>讓命運選一首</button>',
         "  </div>",
-        "  <p data-lucky-song-result>從 734 首歷史曲目中隨機探索。</p>",
+        "  <p data-lucky-song-result>從 773 首歷史曲目中隨機探索。</p>",
         "</div>",
         "",
     ]
 
     nav_lines = [
         "site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫",
-        "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 21 冊、734 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
+        "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 22 冊、773 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
         "site_author: TMD Contributors",
         "site_url: https://tmdlang.github.io/reshoka/",
         "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
@@ -1219,6 +1301,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
 
     collections = [
         ("kyoeki_shoka", "共益商社唱歌教科書"),
+        ("kogakko_shokashu_1915", "公學校唱歌集（大正四年）"),
         ("shokacho", "楊金土手抄唱歌帖"),
         ("shintei_jido_shoka", "新定兒童唱歌"),
         ("kogakko_shoka", "公學校唱歌"),
@@ -1245,6 +1328,37 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             )
         if col_slug == "shokacho" and (docs_dir / "archives" / "index.md").exists():
             nav_lines.append("      - 延伸館藏與日本國會圖書館調查: archives/index.md")
+
+        if col_slug == "kogakko_shokashu_1915":
+            generate_volume_index(col_dir)
+            vol_title = VOLUME_TITLES.get(col_slug, col_slug)
+            song_dirs = sorted(
+                (
+                    d
+                    for d in col_dir.iterdir()
+                    if d.is_dir() and d.name != "0_book_info" and list(d.glob("*.tmd"))
+                ),
+                key=lambda d: natural_sort_key(d.name),
+            )
+            home_lines.append(
+                f"- [**{vol_title}**]({col_slug}/index.md)（共 {len(song_dirs)} 首）"
+            )
+            nav_lines.append(f"      - 總覽: {col_slug}/index.md")
+            if (col_dir / "0_book_info" / "index.md").exists():
+                nav_lines.append(
+                    f"      - 書訊與掃描頁: {col_slug}/0_book_info/index.md"
+                )
+            for sdir in song_dirs:
+                main_tmd = choose_main_tmd(sdir)
+                title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
+                parts = sdir.name.split("_")
+                prefix = f"{parts[0]}-{parts[1]}" if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit() else parts[0]
+                label = f"{prefix} {title}".replace(":", "：").replace('"', '\\"')
+                nav_lines.append(
+                    f'      - "{label}": {col_slug}/{sdir.name}/index.md'
+                )
+            home_lines.append("")
+            continue
 
         vol_dirs = sorted(
             (d for d in col_dir.iterdir() if d.is_dir()),

@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫
-site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 21 冊、734 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 22 冊、773 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -170,6 +170,48 @@ nav:
           - "17 赤十字": kyoeki_shoka/kan_4_854865/17_sekijuji/index.md
           - "18 亡き友": kyoeki_shoka/kan_4_854865/18_naki_tomo/index.md
           - "19 水鳥": kyoeki_shoka/kan_4_854865/19_mizutori/index.md
+  - 公學校唱歌集（大正四年）:
+      - 總覽: kogakko_shokashu_1915/index.md
+      - 書訊與掃描頁: kogakko_shokashu_1915/0_book_info/index.md
+      - "1-01 君が代": kogakko_shokashu_1915/1_01_kimigayo/index.md
+      - "1-02 かめ": kogakko_shokashu_1915/1_02_kame/index.md
+      - "1-03 なはとび": kogakko_shokashu_1915/1_03_nawatobi/index.md
+      - "1-04 犬": kogakko_shokashu_1915/1_04_inu/index.md
+      - "1-05 猫と蛙": kogakko_shokashu_1915/1_05_neko_to_kaeru/index.md
+      - "1-06 蘭の花": kogakko_shokashu_1915/1_06_ran_no_hana/index.md
+      - "1-07 人形": kogakko_shokashu_1915/1_07_ningyo/index.md
+      - "2-01 天長節": kogakko_shokashu_1915/2_01_tenchosetsu/index.md
+      - "2-02 花": kogakko_shokashu_1915/2_02_hana/index.md
+      - "2-03 せんたく": kogakko_shokashu_1915/2_03_sentaku/index.md
+      - "2-04 月": kogakko_shokashu_1915/2_04_tsuki/index.md
+      - "2-05 紙鳶": kogakko_shokashu_1915/2_05_tako/index.md
+      - "2-06 時計": kogakko_shokashu_1915/2_06_tokei/index.md
+      - "2-07 さあ遊びませう": kogakko_shokashu_1915/2_07_saa_asobimasho/index.md
+      - "3-01 勅語奉答": kogakko_shokashu_1915/3_01_chokugo_hoto/index.md
+      - "3-02 日の丸の旗": kogakko_shokashu_1915/3_02_hinomaru_no_hata/index.md
+      - "3-03 こだま": kogakko_shokashu_1915/3_03_kodama/index.md
+      - "3-04 親の恩": kogakko_shokashu_1915/3_04_oya_no_on/index.md
+      - "3-05 運動會": kogakko_shokashu_1915/3_05_undokai/index.md
+      - "3-06 紀元節": kogakko_shokashu_1915/3_06_kigensetsu/index.md
+      - "3-07 花咲爺": kogakko_shokashu_1915/3_07_hanasaka_jijii/index.md
+      - "4-01 天皇陛下": kogakko_shokashu_1915/4_01_tenno_heika/index.md
+      - "4-02 六氏先生": kogakko_shokashu_1915/4_02_rokushi_sensei/index.md
+      - "4-03 同情": kogakko_shokashu_1915/4_03_dojo/index.md
+      - "4-04 夕立": kogakko_shokashu_1915/4_04_yudachi/index.md
+      - "4-05 菊の花": kogakko_shokashu_1915/4_05_kiku_no_hana/index.md
+      - "4-06 二宮金次郎": kogakko_shokashu_1915/4_06_ninomiya_kinjiro/index.md
+      - "4-07 數へ歌": kogakko_shokashu_1915/4_07_kazoeuta/index.md
+      - "4-08 一月一日": kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/index.md
+      - "5-01 始政紀念日": kogakko_shokashu_1915/5_01_shisei_kinenbi/index.md
+      - "5-02 富士山": kogakko_shokashu_1915/5_02_fujisan/index.md
+      - "5-03 櫻井のわかれ": kogakko_shokashu_1915/5_03_sakurai_no_wakare/index.md
+      - "5-04 日本の國": kogakko_shokashu_1915/5_04_nihon_no_kuni/index.md
+      - "5-05 汽車": kogakko_shokashu_1915/5_05_kisha/index.md
+      - "5-06 にぎみたま": kogakko_shokashu_1915/5_06_nigimitama/index.md
+      - "5-07 漁船": kogakko_shokashu_1915/5_07_gyosen/index.md
+      - "5-08 明治天皇御製": kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/index.md
+      - "6-01 金剛石・水は器": kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/index.md
+      - "6-02 蛙と蜘蛛": kogakko_shokashu_1915/6_02_kaeru_to_kumo/index.md
   - 楊金土手抄唱歌帖:
       - 考證與研究筆記: shokacho/research_notes.md
       - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md

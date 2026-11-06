@@ -1,6 +1,6 @@
 # 人工校對進度紀錄（Proofreading Checklist）
 
-本頁追蹤全站 **21 冊、734 首**歷史曲目之人工校對進度（目前已校對 **254 / 734** 首，完成率 **34.6%**）。
+本頁追蹤全站 **22 冊、773 首**歷史曲目之人工校對進度（目前已校對 **353 / 773** 首，完成率 **45.7%**）。
 
 ## 校對檢核要點
 
@@ -20,16 +20,17 @@
 | 《新定兒童唱歌》           | [尋常科 第二學年](#shintei_jido_shoka_grade_2_2020.006.0847.0002) |      47 |      47 |      100% |
 | 《新定兒童唱歌》           | [尋常科 第三學年](#shintei_jido_shoka_grade_3_2020.006.0847.0003) |      53 |      53 |      100% |
 | 《新定兒童唱歌》           | [尋常科 第四學年](#shintei_jido_shoka_grade_4_2020.006.0847.0004) |      50 |      50 |      100% |
-| 《新定兒童唱歌》           | [尋常科 第五學年](#shintei_jido_shoka_grade_5_2020.006.0847.0005) |       0 |      46 |        0% |
+| 《新定兒童唱歌》           | [尋常科 第五學年](#shintei_jido_shoka_grade_5_2020.006.0847.0005) |       1 |      46 |        2% |
 | 《新定兒童唱歌》           | [尋常科 第六學年](#shintei_jido_shoka_grade_6_2020.006.0847.0006) |       0 |      45 |        0% |
 | 《新定兒童唱歌》           | [高等科 男子一二年](#shintei_jido_shoka_koto_boys_2020.006.0848)  |       0 |      62 |        0% |
 | 《新定兒童唱歌》           | [高等科 女子一二年](#shintei_jido_shoka_koto_girls_2020.006.0849) |       0 |      62 |        0% |
+| 《公學校唱歌集》           | [大正四年版（國臺圖 0725 26）](#kogakko_shokashu_1915)            |      24 |      39 |       62% |
 | 《公學校唱歌》             | [第三學年用](#kogakko_shoka_grade_3)                              |      15 |      15 |      100% |
 | 《うたのほん》（唱歌課本） | [下卷（初等科第二學年）](#utanohon_ge_2006.006.0878)              |      20 |      20 |      100% |
-| 《共益商社唱歌教科書》     | [巻一（生徒用）](#kyoeki_shoka_kan_1_854862)                      |       2 |      20 |       10% |
-| 《共益商社唱歌教科書》     | [巻二（教師用）](#kyoeki_shoka_kan_2_854863)                      |       0 |      18 |        0% |
-| 《共益商社唱歌教科書》     | [巻三（教師用）](#kyoeki_shoka_kan_3_854864)                      |       0 |      19 |        0% |
-| 《共益商社唱歌教科書》     | [巻四（教師用）](#kyoeki_shoka_kan_4_854865)                      |       0 |      19 |        0% |
+| 《共益商社唱歌教科書》     | [巻一（生徒用）](#kyoeki_shoka_kan_1_854862)                      |      20 |      20 |      100% |
+| 《共益商社唱歌教科書》     | [巻二（教師用）](#kyoeki_shoka_kan_2_854863)                      |      18 |      18 |      100% |
+| 《共益商社唱歌教科書》     | [巻三（教師用）](#kyoeki_shoka_kan_3_854864)                      |      19 |      19 |      100% |
+| 《共益商社唱歌教科書》     | [巻四（教師用）](#kyoeki_shoka_kan_4_854865)                      |      19 |      19 |      100% |
 | 《楊金土手抄唱歌帖》       | [第 1 冊（選定唱歌筆記帳）](#shokacho_vol_01)                     |       4 |      53 |        8% |
 | 《楊金土手抄唱歌帖》       | [第 2 冊（II）](#shokacho_vol_02)                                 |       0 |      35 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 3 冊（I）](#shokacho_vol_03)                                  |       3 |      22 |       14% |
@@ -37,7 +38,7 @@
 | 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       0 |      22 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |       4 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |       0 |      31 |        0% |
-| **合計**                   | **全 21 冊**                                                      | **254** | **734** | **34.6%** |
+| **合計**                   | **全 22 冊**                                                      | **353** | **773** | **45.7%** |
 
 ---
 
@@ -490,6 +491,50 @@
 - [ ] **2-4-05 埴生の宿**（`E,` / `4/4`）— [單曲頁](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md) · [主譜 TMD](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/hanyu_no_yado.tmd) · [伴奏 TMD](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/hanyu_no_yado_piano.tmd)
 - [ ] **2-4-06 高嶺**（`G` / `4/4`）— [單曲頁](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/index.md) · [主譜 TMD](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/takane.tmd) · [伴奏 TMD](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/takane_piano.tmd)
 - [ ] **2-4-07 浦のあけくれ**（`G` / `4/4`）— [單曲頁](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/index.md) · [主譜 TMD](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/ura_no_akekure.tmd) · [伴奏 TMD](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/ura_no_akekure_piano.tmd)
+
+## 《公學校唱歌集》
+
+### 大正四年版（國臺圖 0725 26）（24 / 39 首） {#kogakko_shokashu_1915}
+
+- [x] **1-01 君が代**（`C` / `4/4`）— [單曲頁](kogakko_shokashu_1915/1_01_kimigayo/index.md) · [主譜 TMD](kogakko_shokashu_1915/1_01_kimigayo/kimigayo.tmd) · [伴奏 TMD](kogakko_shokashu_1915/1_01_kimigayo/kimigayo_piano.tmd) — 重複曲目（同《新定》尋一 0-01）
+- [ ] **1-02 かめ**（`F` / `4/4`）— [單曲頁](kogakko_shokashu_1915/1_02_kame/index.md) · [主譜 TMD](kogakko_shokashu_1915/1_02_kame/kame.tmd) · [伴奏 TMD](kogakko_shokashu_1915/1_02_kame/kame_piano.tmd)
+- [ ] **1-03 なはとび**（`F` / `2/4`）— [單曲頁](kogakko_shokashu_1915/1_03_nawatobi/index.md) · [主譜 TMD](kogakko_shokashu_1915/1_03_nawatobi/nawatobi.tmd) · [伴奏 TMD](kogakko_shokashu_1915/1_03_nawatobi/nawatobi_piano.tmd)
+- [x] **1-04 犬**（`D` / `4/4`）— [單曲頁](kogakko_shokashu_1915/1_04_inu/index.md) · [主譜 TMD](kogakko_shokashu_1915/1_04_inu/inu.tmd) · [伴奏 TMD](kogakko_shokashu_1915/1_04_inu/inu_piano.tmd) — 重複曲目（同《新定》尋一 1-04）
+- [x] **1-05 猫と蛙**（`F` / `2/4`）— [單曲頁](kogakko_shokashu_1915/1_05_neko_to_kaeru/index.md) · [主譜 TMD](kogakko_shokashu_1915/1_05_neko_to_kaeru/neko_to_kaeru.tmd) · [伴奏 TMD](kogakko_shokashu_1915/1_05_neko_to_kaeru/neko_to_kaeru_piano.tmd) — 重複曲目（同《新定》尋一 2-07）
+- [ ] **1-06 蘭の花**（`F` / `4/4`）— [單曲頁](kogakko_shokashu_1915/1_06_ran_no_hana/index.md) · [主譜 TMD](kogakko_shokashu_1915/1_06_ran_no_hana/ran_no_hana.tmd) · [伴奏 TMD](kogakko_shokashu_1915/1_06_ran_no_hana/ran_no_hana_piano.tmd)
+- [x] **1-07 人形**（`F` / `4/4`）— [單曲頁](kogakko_shokashu_1915/1_07_ningyo/index.md) · [主譜 TMD](kogakko_shokashu_1915/1_07_ningyo/ningyo.tmd) · [伴奏 TMD](kogakko_shokashu_1915/1_07_ningyo/ningyo_piano.tmd) — 重複曲目（同《新定》尋一 3-02）
+- [x] **2-01 天長節**（`D` / `4/4`）— [單曲頁](kogakko_shokashu_1915/2_01_tenchosetsu/index.md) · [主譜 TMD](kogakko_shokashu_1915/2_01_tenchosetsu/tenchosetsu.tmd) · [伴奏 TMD](kogakko_shokashu_1915/2_01_tenchosetsu/tenchosetsu_piano.tmd) — 重複曲目（同《新定》尋一 0-03）
+- [x] **2-02 花**（`G` / `4/4`）— [單曲頁](kogakko_shokashu_1915/2_02_hana/index.md) · [主譜 TMD](kogakko_shokashu_1915/2_02_hana/hana.tmd) · [伴奏 TMD](kogakko_shokashu_1915/2_02_hana/hana_piano.tmd) — 重複曲目（同《新定》尋一 2-05）
+- [ ] **2-03 せんたく**（`F` / `2/4`）— [單曲頁](kogakko_shokashu_1915/2_03_sentaku/index.md) · [主譜 TMD](kogakko_shokashu_1915/2_03_sentaku/sentaku.tmd) · [伴奏 TMD](kogakko_shokashu_1915/2_03_sentaku/sentaku_piano.tmd)
+- [x] **2-04 月**（`F` / `2/4`）— [單曲頁](kogakko_shokashu_1915/2_04_tsuki/index.md) · [主譜 TMD](kogakko_shokashu_1915/2_04_tsuki/tsuki.tmd) · [伴奏 TMD](kogakko_shokashu_1915/2_04_tsuki/tsuki_piano.tmd) — 重複曲目（同《新定》尋一 2-08）
+- [x] **2-05 紙鳶**（`F` / `2/4`）— [單曲頁](kogakko_shokashu_1915/2_05_tako/index.md) · [主譜 TMD](kogakko_shokashu_1915/2_05_tako/tako.tmd) · [伴奏 TMD](kogakko_shokashu_1915/2_05_tako/tako_piano.tmd) — 重複曲目（同《新定》尋二 2-05）
+- [x] **2-06 時計**（`G` / `2/4`）— [單曲頁](kogakko_shokashu_1915/2_06_tokei/index.md) · [主譜 TMD](kogakko_shokashu_1915/2_06_tokei/tokei.tmd) · [伴奏 TMD](kogakko_shokashu_1915/2_06_tokei/tokei_piano.tmd) — 重複曲目（同《新定》尋二 2-03）
+- [ ] **2-07 さあ遊びませう**（`F` / `2/4`）— [單曲頁](kogakko_shokashu_1915/2_07_saa_asobimasho/index.md) · [主譜 TMD](kogakko_shokashu_1915/2_07_saa_asobimasho/saa_asobimasho.tmd) · [伴奏 TMD](kogakko_shokashu_1915/2_07_saa_asobimasho/saa_asobimasho_piano.tmd)
+- [x] **3-01 勅語奉答**（`D` / `4/4`）— [單曲頁](kogakko_shokashu_1915/3_01_chokugo_hoto/index.md) · [主譜 TMD](kogakko_shokashu_1915/3_01_chokugo_hoto/chokugo_hoto.tmd) · [伴奏 TMD](kogakko_shokashu_1915/3_01_chokugo_hoto/chokugo_hoto_piano.tmd) — 重複曲目（同《新定》尋一 0-02）
+- [x] **3-02 日の丸の旗**（`F` / `2/4`）— [單曲頁](kogakko_shokashu_1915/3_02_hinomaru_no_hata/index.md) · [主譜 TMD](kogakko_shokashu_1915/3_02_hinomaru_no_hata/hinomaru_no_hata.tmd) · [伴奏 TMD](kogakko_shokashu_1915/3_02_hinomaru_no_hata/hinomaru_no_hata_piano.tmd) — 重複曲目（同《新定》尋一 1-01）
+- [ ] **3-03 こだま**（`C` / `2/4`）— [單曲頁](kogakko_shokashu_1915/3_03_kodama/index.md) · [主譜 TMD](kogakko_shokashu_1915/3_03_kodama/kodama.tmd) · [伴奏 TMD](kogakko_shokashu_1915/3_03_kodama/kodama_piano.tmd)
+- [ ] **3-04 親の恩**（`G` / `4/4`）— [單曲頁](kogakko_shokashu_1915/3_04_oya_no_on/index.md) · [主譜 TMD](kogakko_shokashu_1915/3_04_oya_no_on/oya_no_on.tmd) · [伴奏 TMD](kogakko_shokashu_1915/3_04_oya_no_on/oya_no_on_piano.tmd)
+- [x] **3-05 運動會**（`C` / `2/4`）— [單曲頁](kogakko_shokashu_1915/3_05_undokai/index.md) · [主譜 TMD](kogakko_shokashu_1915/3_05_undokai/undokai.tmd) · [伴奏 TMD](kogakko_shokashu_1915/3_05_undokai/undokai_piano.tmd) — 重複曲目（同《公學校唱歌》10、《新定》尋三 2-08）
+- [x] **3-06 紀元節**（`C` / `4/4`）— [單曲頁](kogakko_shokashu_1915/3_06_kigensetsu/index.md) · [主譜 TMD](kogakko_shokashu_1915/3_06_kigensetsu/kigensetsu.tmd) · [伴奏 TMD](kogakko_shokashu_1915/3_06_kigensetsu/kigensetsu_piano.tmd) — 重複曲目（同《新定》尋一 0-04）
+- [ ] **3-07 花咲爺**（`D` / `2/4`）— [單曲頁](kogakko_shokashu_1915/3_07_hanasaka_jijii/index.md) · [主譜 TMD](kogakko_shokashu_1915/3_07_hanasaka_jijii/hanasaka_jijii.tmd) · [伴奏 TMD](kogakko_shokashu_1915/3_07_hanasaka_jijii/hanasaka_jijii_piano.tmd)
+- [ ] **4-01 天皇陛下**（`D` / `4/4`）— [單曲頁](kogakko_shokashu_1915/4_01_tenno_heika/index.md) · [主譜 TMD](kogakko_shokashu_1915/4_01_tenno_heika/tenno_heika.tmd) · [伴奏 TMD](kogakko_shokashu_1915/4_01_tenno_heika/tenno_heika_piano.tmd)
+- [x] **4-02 六氏先生**（`B,` / `4/4`）— [單曲頁](kogakko_shokashu_1915/4_02_rokushi_sensei/index.md) · [主譜 TMD](kogakko_shokashu_1915/4_02_rokushi_sensei/rokushi_sensei.tmd) · [伴奏 TMD](kogakko_shokashu_1915/4_02_rokushi_sensei/rokushi_sensei_piano.tmd) — 重複曲目（同《新定》尋五 3-03，已核對 P056–P057）
+- [x] **4-03 同情**（`G` / `4/4`）— [單曲頁](kogakko_shokashu_1915/4_03_dojo/index.md) · [主譜 TMD](kogakko_shokashu_1915/4_03_dojo/dojo.tmd) · [伴奏 TMD](kogakko_shokashu_1915/4_03_dojo/dojo_piano.tmd) — 重複曲目（同《新定》尋三 3-02）
+- [x] **4-04 夕立**（`D` / `2/4`）— [單曲頁](kogakko_shokashu_1915/4_04_yudachi/index.md) · [主譜 TMD](kogakko_shokashu_1915/4_04_yudachi/yudachi.tmd) · [伴奏 TMD](kogakko_shokashu_1915/4_04_yudachi/yudachi_piano.tmd) — 重複曲目（同《唱歌帖》第 1 冊 P128，已核對 P060–P061）
+- [ ] **4-05 菊の花**（`C` / `4/4`）— [單曲頁](kogakko_shokashu_1915/4_05_kiku_no_hana/index.md) · [主譜 TMD](kogakko_shokashu_1915/4_05_kiku_no_hana/kiku_no_hana.tmd) · [伴奏 TMD](kogakko_shokashu_1915/4_05_kiku_no_hana/kiku_no_hana_piano.tmd)
+- [ ] **4-06 二宮金次郎**（`D` / `2/4`）— [單曲頁](kogakko_shokashu_1915/4_06_ninomiya_kinjiro/index.md) · [主譜 TMD](kogakko_shokashu_1915/4_06_ninomiya_kinjiro/ninomiya_kinjiro.tmd) · [伴奏 TMD](kogakko_shokashu_1915/4_06_ninomiya_kinjiro/ninomiya_kinjiro_piano.tmd)
+- [ ] **4-07 數へ歌**（`G` / `4/4`）— [單曲頁](kogakko_shokashu_1915/4_07_kazoeuta/index.md) · [主譜 TMD](kogakko_shokashu_1915/4_07_kazoeuta/kazoeuta.tmd) · [伴奏 TMD](kogakko_shokashu_1915/4_07_kazoeuta/kazoeuta_piano.tmd)
+- [x] **4-08 一月一日**（`D` / `4/4`）— [單曲頁](kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/index.md) · [主譜 TMD](kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd) · [伴奏 TMD](kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/ichigatsu_ichijitsu_piano.tmd) — 重複曲目（同《新定》尋一 0-05）
+- [x] **5-01 始政紀念日**（`C` / `4/4`）— [單曲頁](kogakko_shokashu_1915/5_01_shisei_kinenbi/index.md) · [主譜 TMD](kogakko_shokashu_1915/5_01_shisei_kinenbi/shisei_kinenbi.tmd) · [伴奏 TMD](kogakko_shokashu_1915/5_01_shisei_kinenbi/shisei_kinenbi_piano.tmd) — 重複曲目（同《新定》尋一 0-07）
+- [x] **5-02 富士山**（`D` / `4/4`）— [單曲頁](kogakko_shokashu_1915/5_02_fujisan/index.md) · [主譜 TMD](kogakko_shokashu_1915/5_02_fujisan/fujisan.tmd) · [伴奏 TMD](kogakko_shokashu_1915/5_02_fujisan/fujisan_piano.tmd) — 重複曲目（同《新定》尋二 4-14）
+- [ ] **5-03 櫻井のわかれ**（`D` / `4/4`）— [單曲頁](kogakko_shokashu_1915/5_03_sakurai_no_wakare/index.md) · [主譜 TMD](kogakko_shokashu_1915/5_03_sakurai_no_wakare/sakurai_no_wakare.tmd) · [伴奏 TMD](kogakko_shokashu_1915/5_03_sakurai_no_wakare/sakurai_no_wakare_piano.tmd)
+- [ ] **5-04 日本の國**（`D` / `2/4`）— [單曲頁](kogakko_shokashu_1915/5_04_nihon_no_kuni/index.md) · [主譜 TMD](kogakko_shokashu_1915/5_04_nihon_no_kuni/nihon_no_kuni.tmd) · [伴奏 TMD](kogakko_shokashu_1915/5_04_nihon_no_kuni/nihon_no_kuni_piano.tmd)
+- [x] **5-05 汽車**（`G` / `2/4`）— [單曲頁](kogakko_shokashu_1915/5_05_kisha/index.md) · [主譜 TMD](kogakko_shokashu_1915/5_05_kisha/kisha.tmd) · [伴奏 TMD](kogakko_shokashu_1915/5_05_kisha/kisha_piano.tmd) — 重複曲目（同《公學校唱歌》11、《新定》尋三 1-05）
+- [x] **5-06 にぎみたま**（`G` / `4/4`）— [單曲頁](kogakko_shokashu_1915/5_06_nigimitama/index.md) · [主譜 TMD](kogakko_shokashu_1915/5_06_nigimitama/nigimitama.tmd) · [伴奏 TMD](kogakko_shokashu_1915/5_06_nigimitama/nigimitama_piano.tmd) — 重複曲目（同《新定》尋六 2-07）
+- [x] **5-07 漁船**（`D` / `2/4`）— [單曲頁](kogakko_shokashu_1915/5_07_gyosen/index.md) · [主譜 TMD](kogakko_shokashu_1915/5_07_gyosen/gyosen.tmd) · [伴奏 TMD](kogakko_shokashu_1915/5_07_gyosen/gyosen_piano.tmd) — 重複曲目（同《新定》尋四 2-02）
+- [ ] **5-08 明治天皇御製**（`G` / `4/4`）— [單曲頁](kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/index.md) · [主譜 TMD](kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd) · [伴奏 TMD](kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/meiji_tenno_gyosei_piano.tmd)
+- [x] **6-01 金剛石・水は器**（`C` / `4/4`）— [單曲頁](kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/index.md) · [主譜 TMD](kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd) · [伴奏 TMD](kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa_piano.tmd) — 重複曲目（同《新定》尋一 0-09、《唱歌帖》第 3 冊 P051）
+- [x] **6-02 蛙と蜘蛛**（`G` / `2/4`）— [單曲頁](kogakko_shokashu_1915/6_02_kaeru_to_kumo/index.md) · [主譜 TMD](kogakko_shokashu_1915/6_02_kaeru_to_kumo/kaeru_to_kumo.tmd) · [伴奏 TMD](kogakko_shokashu_1915/6_02_kaeru_to_kumo/kaeru_to_kumo_piano.tmd) — 重複曲目（同《新定》尋二 1-05、《うたのほん》8）
 
 ## 《公學校唱歌》
 

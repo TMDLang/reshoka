@@ -1,0 +1,152 @@
+---
+title: "櫻井のわかれ — 《公學校唱歌集》 大正四年（全一冊）"
+song_title: "櫻井のわかれ"
+description: "〈櫻井のわかれ〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、必死（ひっし）を期（き）する　軍（いくさ）の門出（かどで）、 亡（な）きあと迄（まで）も　みかどの衞（まもり）…"
+keywords: "櫻井のわかれ, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+musical_key: "D"
+image: "P074.jpg"
+audio: "sakurai_no_wakare.mp3"
+---
+
+# 櫻井のわかれ
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+<audio controls src="sakurai_no_wakare.mp3"></audio>
+
+- 文部省《尋常小學唱歌》
+- 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P074.jpg–P075.jpg，第五學年 pp. 68–69）：
+調性與拍號：ニ長調（D 大調）4/4 拍，速度 ♩=96
+版本考證：本曲採自文部省《尋常小學唱歌》第五學年〈櫻井のわかれ〉（全四章，「必死を期する…」），
+與《新定兒童唱歌》第六學年〈小楠公〉（落合直文詞・奥山朝恭曲〈櫻井のわかれ〉末段「言の葉を…」）詞曲不同。
+
+## 歌詞
+
+```text
+一、必死（ひっし）を期（き）する　軍（いくさ）の門出（かどで）、
+亡（な）きあと迄（まで）も　みかどの衞（まもり）
+殘（のこ）しおかんと　還（かへ）すわが子（こ）に、
+教（をしへ）を垂（た）るゝ　櫻井（さくらゐ）の驛（えき）。
+
+二、この度（たび）こそは　大事（だいじ）の軍（いくさ）。
+生（い）きては家（いへ）に　歸（かへ）らぬ覺悟（かくご）。
+父（ちゝ）が詞（ことば）を　耳（みゝ）にとゞめて、
+臣子（しんし）の道（みち）を　踏（ふ）みな違（たが）へそ。
+
+三、世（よ）の中（なか）如何（いか）に　なりゆくとても、
+父（ちゝ）が日頃（ひごろ）の　心（こゝろ）をつぎて、
+殘（のこ）る家（いへ）の子（こ）　一（ひと）つにあつめ、
+再（ふたゝ）び擧（あ）げよ　菊水（きくすゐ）の旗（はた）。
+
+四、山崎大路（やまざきおほぢ）　かたみとたちし、
+子（こ）わかれ松（まつ）は　枯（か）れはてぬれど、
+人（ひと）の心（こゝろ）に　ふかくねざして、
+かるゝ世知（よし）らず　楠（くす）の二本（ふたもと）。
+```
+
+## ABC
+
+```abc
+X:1
+T:櫻井のわかれ
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! A6 A2 F4 D4 | d6 d2 A8 | B6 B2 E4 F4 | G6 G2 F8 |
+w: 1.~ひ っ し を | き す る | い く さ の | か ど で
+w: 2.~こ の た び | こ そ は | だ い じ の | い く さ
+w: 3.~よ の な か | い か に | な り ゆ く | と て も
+w: 4.~や ま ざ き | お ほ ぢ | か た み と | た ち し
+A6 A2 F4 D4 | d6 d2 A8 | B6 B2 E4 G4 | F6 E2 D8 |
+w: 1.~な き あ と | ま で も | み か ど の | ま も り
+w: 2.~い き て は | い へ に | か へ ら ぬ | か く ご
+w: 3.~ち ち が ひ | ご ろ の | こ こ ろ を | つ ぎ て
+w: 4.~こ わ か れ | ま つ は | か れ は て | ぬ れ ど
+!p! E8 F4 F4 | G6 G2 F4 F4 | B6 B2 A4 G4 | F6 E2 F8 |
+w: 1.~の こ し | お か ん と | か へ す わ | が こ に
+w: 2.~ち ち が | こ と ば を | み み に と | ど め て
+w: 3.~の こ る | い へ の こ | ひ と つ に | あ つ め
+w: 4.~ひ と の | こ こ ろ に | ふ か く ね | ざ し て
+!mf! A6 A2 d4 c4 | B6 B2 A8 | B6 B2 E4 G4 | F6 E2 D8 |
+w: 1.~を し へ を | た る る | さ く ら ゐ | の え き
+w: 2.~し ん し の | み ち を | ふ み な た | が へ そ
+w: 3.~ふ た た び | あ げ よ | き く す ゐ | の は た
+w: 4.~か る る よ | し ら ず | く す の ふ | た も と
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sakurai_no_wakare.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OLM4ojTe0NDRVgqssy88pzU21Si9KTEmNRxIvzi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDA3QcgUFOWXpeYl5gF1FxRl5pWkpoC1IxSklmWmpIKki5MT8-LLUosy0zJTU5CclFpUDHI51IqSosS84uSizAKQdxCq8otKMvKBzi7IqLTKyCwuyS_KTE7Mic9OzEtEKCrJSAV6DiJdiS6cm5mTWZIIEtfSUni2eveTXVMfN6573NT_uLH7cVOPgpYWl6KtgqUZl72tgguXjYm-iR3IhGfT2l82r3g-p_FxQ9fTDd1Pd-x4uqH_6dodT6dsfLa253FDN9ieF-27njcufr5j7_O5i5_umgNS27oGqOrZgoUQhS9ntwHVvt_T8XTJ8mdrFz-dPfvpzi1PdnQ-m9Pxfk_P8y2Lns3e8WLmfAUDcyNTBSOz93s6lbi49LUUbKkFuBQUFJ72zQdZs7n9xYquFx3tQGe9WDnvaesKoB9BLtvQ-6y9UwEUvXpZBemPGiYDmaYgJsiFa9Y82TUF5O-dWxQKCvQUzCyACswsgQ59v2cWyPAXq_Y_a1gOMra7F-gToOjj5u6XU7cDxYGGuygAPQ5mdgJDVgGoBmjoy4b5T3ctU3g0c6UtMNyBZjzv7Hg2Z82LhuYXa0HGAtnPZm961rfwRfsqgvGA7MLHDR2YMfy4AWhmB9C7wMB_vnoB0P7HDT1P97c-W7v7cdOkZ3PmP26c-bip-1HDsscNQNcBFfeA_dXRDrTy2bQNT9fNeto66fnqpchWPm1dC7cS6KBnSxcAIx5i04sJe59O6Hg-ewvQ6cBwfty8--nSpU83bnw2Z-6zxrVAj-Fy5bM5q5-t2wp03IsVDUCpFxM7ge6DOwtoFFDvkx29TycAFTdxgdz4ZEfD44ZGiF-ANj9u3PS4cfHjxulA5RCvgQVBuiF-fNzQ8GI3kAsUbHncCLR5Klhq3ctpDU_bd4HFux83rnzcuBwk3tAItmPXQrDEKrDS3seNTY8bV7zY3wIW3AdV2tQENPpx436Y_nUvFs6DKgBKNXUB1YDMerZuBlh03ePGyWDjpj9u7AL7fzLQUKARL5sg5gJN2QFzNdCZPU_XTgCLQ3Sthjrt2dSZINGmSWCDwBqaJj2d1wRWCvQ7kAs0ei7QXEh4g8WBod7_uAkoBTQR7PeVs8HisICCBe0uYCg3Am0EKgEmVoiRjxs3gzUBBec-blwPNBiYup_sAuXvx40LwIEK9CDIVCzBDDQYlNSnQCIF6E9IcC4DGvR03TaYaoi3gT5seLYWyEYKC6CbG9e8WLbrWRPEBKA40OgpSEZ3QExZCPQz2BRQNocEGyh0GzdAAgiUCBqA_gCK74epXA1S0DTvcRPQx8D0Bg7dF-2LYcE-HRxB4GQFDDBQLIA1NwJTBszEHf1gwa1gNUCpVS9BvoYEWg9YcAco0OAJF5S8nuyYBo4_YFEIMvjJjrWQlAb0G1Dk6bKmJ3shZgDDBSQCCReQgqaux01tYP8D_bUMnPzAbsYMgmfTl75c0AzLHFMeN0FywzpQ3O2HiE8GpRGIOCgpLXnc2IcIBfQk29SNEVnrUFJnQwMwV8LsWwFWADQRGMDAfLMEFMAQc5-2QRLIVlAIQR27-dlkYG4CCgJTMJA7CRgyoKDt73q2YQskJ4O9DMwT0LT7bDowToDi66HJHRq6wIIOVCxs3Ph0Sx-o-N2-HhzMQAcD8-s0sDHAXLf7ceMiiIPBaQkYT8BoAwYnkLEQFOVQdyL7DVZYPZu7D5b9l4BdAsoKz-aBrYHEFLBAA7kKmLjXgNkr4aUJpJiBh806LLEAjWZg0EDS-Fqwq4FZHBYpYFeAsjYwBT2fvxSSiGDlHlD_LJBzlgKLeqAgKMCg6WtXD7BmQQp1UEmGyD6U17VQoKClz8UVnJhdWpSY6ZcfnpidWARsPWUm5uU71BjUVIPsUrCx0LIDM7DV9QqgOm1Hw4uFPQoaJgrA6uX5-gYdeAWtiUUD0EaQYTUK1blptQqmCrpAaKpgDCQNgbhGwTAOLASkIHIgMTMwbaZgBCRBKmsUTMAiJmAeWA3YUB_DGmCAbwKLAKsXIJ4OYjVNAusBpiaozEygWDfcdGD-gIr3A_FUMGsdVAaiCpgogHg5ql1GIPnJUPl1QDwfzNoM1QmTmQvE65HsWgAVbwHiGSh2obsCyS5joHxTB5Jdq8AskOuQdXYD8Woku0CqQP7vAuI2qNkQmRVQHcuAMk2odpmA7IKZuA-Ip4FZoLAD6eyCyuwG4kVIdsFCaj4Q7wezQHaAZEDhAuIvhMYHxC78SWpXDzlJivTUBEpHNdBUZATWg56aoGEI9D-wsEPx1z6ozHLkMIT6HhYbK6ExhqIDqBoUJ5ipCRbqILuWgVmglIMsswMthmGhDhRv6gSz1qDJgFLTFFS7QKkJGBuIWOkBs0D5BiQDUQ0s4KAuh9kFS9GTwXLI-WoJVKYP6m601ATT2QRyC8hdoM4MahgugfoVzV9AdRBxiLkgGZD_YDKg0CUmNe3oJKuAKqgFpxEQBKUQzJIHIgJLT6AUhpqesJVOsBCFhAokRyDnK2CqaYLIwNIZUhwDSy5IOEJkQKEIjRFEqkBKT5A4hsQyiISFOiwmVwDxBrCJsJiEpd39UBMRroCENbBVgBnH4PSE5i9w-YqeckFqIPLI5TTIFaAUBLERJAPJTeBUAbQPMz1BdMJch8hfGCkUbuJWROiCy0BgTQ2VAZVukHhA9hfe9ARstFBc4YELJnOwG5DTDyT9k1RCgeMO5oMd4LCHxSa05AXGBWp9B6ldwGUDpNRomgCVgcQisIsBxKAQRE9RkPIblEKhdSs87GEpB1ieQF2EGvKgFAWptUCuQk69oJQxF9UucIqC6QTVKKh1Kyx9TILXihBxiIshZR4kp6D7az08VFBTFKy8gYUUxFxkH3cC2bOQ7AKlIpCJwLYENF2D3Isc6sBSHlrPguyq5eLStVNAa2spAIWUuQA)]
+- [鋼琴伴奏 TMD 檔案](sakurai_no_wakare_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2eveTXVMfN6573NT_uLH7cVPP-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0ozL3lbBhcvGRN_EjqtOQenZtPaXzSuez2l83ND1dEP30x07nm7of7p2x9MpG5-t7Xnc0K0EUvWifdfzxsXPd-x9Pnfx011zQGpb1wBVPVuwEKLw5ew2oFqgzU-XLH-2dvHT2bOf7tzyZEfnszlAy3ueb1n0bPaOFzPnKxiYG5kqGJkBHaTExRWcmF1alJjplx-emJ1YlGoVkJmYlx_k4VBjUFPNpQAENhZadmCGvpaCLTpQeL5mzZMdDS8W9ihomCgAXf18fYOOQoCBuYleVkG6JhYNWvpgw2oUqnPTahVMFXSB0FTBGEgaAnGNgmEcWAhIQeRAYmZg2kzBCEiCVNYomIBFTMA8sBqwoT6GNQqPGzeBRR43Lgbi6SBW0ySwnseNvVCZmUCxbrjpjxtboOL9QDwVzFoHlYGoety4EoiXo9plBJKfDJVfB8TzwazNUJ0wmblAvB7JrgVQ8RYgnoFiF7orkOwyBso3dSDZtQrMArkOWWc3EK9GsgukCuT_LiBug5oNkVkB1bEMKNOEapcJyC6YifuAeBqYBQo7kM4uqMxuIF6EZBcspOYD8X4wC2QHSAYULiD-Qmh8QOzCn6R29ZCTpEhPTaB0VANNRUZgPeipCRqGQP8_bgSFFMJf-6Ayy5HDEOp7WGyshMYYig6galCcYKYmWKiD7FoGZoFSDrLMDrQYhoU6ULypE8xagyYDSk1TUO0CpSZgbCBipQfMAuUbkAxE9eMmkCtALofZBUvRk8FyyPlqCVSmD-putNQE09kEcgvIXcDyES0Ml0D9iuYvoDqIOMRckAzIfzAZUOgSk5p2dJJVQBXUgtMICIJSCGbJAxGBpSdQCkNNT9hKJ1iIQkIFkiOQ8xUw1TRBZGDpDCmOgSUXJBwhMqBQhMYIIlUgpSdIHENiGUTCQh0WkyuAeAPYRFhMwtLufqiJCFdAwvpxUyNmHIPTE5q_wOUresoFqYHII5fTIFeAUhDERpAMJDeBUwXQPsz0BNEJcx0if2GkULiJWxGhCy4DHzeuhcqASjdIPCD7C296AlasFFd44ILJHOwG5PQDSf8klVDguIP5YAc47GGxCS15gXGBWt9Bahdw2QApNZomQGUgsfi4sQOIQSGInqIg5TcohULrVnjYw1IOsDyBugg15EEpClJrgVyFnHpBKWMuql3gFAXTCapRUOtWWPqYBK8VIeIQF0PKPEhOQffXeniooKYoWHkDCymIucg-7gSyZyHZBUpFIBOBbQlouga5FznUgaU8tJ4F2VWLo6nlg9zUMoE2taCJxTBeIdowFkYByx4gwwSTbxoPpE3jQSJwJlANzIfAWpBkc0BSGMaACkRkCyCaMUWQjAdSuAxD8iBUAxkOA4aqrp0CWsBG-xjGgm3BJmWEW8oYt5QJXEqZCwA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 櫻井のわかれ ]
+================================================================================
+⏱  Duration:       0:40 (40.0s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [SakuraiNoWakare #1 @ m.1, 0:01]
+   - 最高音: D5 in [SakuraiNoWakare #1 @ m.2, 0:02]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      SakuraiNoWakare (40.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  F#, A, D, B, G
+   - 調性數值:    D 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.86), B 小調 (0.72), F# 小調 (0.70)
+   - 五度圈歷程:   +2
+   - 各段落調性細節:
+     • [SakuraiNoWakare #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : ██                         1.6%
+     D  : █████████████████         17.2%
+     D# :                            0.0%
+     E  : ██████████                10.2%
+     F  :                            0.0%
+     F# : ████████████████████████  24.2%
+     G  : ███████████               10.9%
+     G# :                            0.0%
+     A  : ████████████████████      20.3%
+     A# :                            0.0%
+     B  : ███████████████           15.6%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 56 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![櫻井のわかれ — 《公學校唱歌集》 大正四年（全一冊） 原書掃描頁 P074.jpg](P074.jpg)
+
+![櫻井のわかれ — 《公學校唱歌集》 大正四年（全一冊） 原書掃描頁 P075.jpg](P075.jpg)
+
+
