@@ -60,16 +60,36 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 !mf! z4 z4 B2 B2 | A4 G4 E2 G2 | D4 B,4 D4 | G6 A2 B2 A2 |
+w: 1.~ふ る | と も み _ | え じ は | る の あ _
+w: 2.~に は | か に す _ | ぐ る な | つ の あ _
+w: 3.~を り | を り そ _ | そ ぐ あ | き の あ _
+w: 4.~き く | だ に さ _ | む き ふ | ゆ の あ _
 !p! A6 z2 B2 B2 | A4 G4 E4 | A4 A4 A4 | F2 D2 G4 F4 |
+w: 1.~め み づ | に わ を | か く な | み _ な く
+w: 2.~め も の | ほ し ざ | ほ に し | ら _ つ ゆ
+w: 3.~め こ の | は こ の | み を の | に _ や ま
+w: 4.~め ま ど | の こ ざ | さ に さ | や _ さ や
 D6 z2 D2 D2 | E6 E2 F2 G2 | A4 A4 G4 | E6 B2 A2 G2 |
+w: 1.~ば け ぶ | る と ば _ | か り お | も は せ _
+w: 2.~を な ご | り と し _ | ば し は | し ら せ _
+w: 3.~に い ろ | さ ま ざ _ | ま に そ | め な し _
+w: 4.~と ふ け | ゆ く よ _ | は を お | と づ れ _
 !mf! A6 z2 B2 B2 | A4 G4 E2 G2 | D4 B,4 D4 | G6 A2 B2 A2 |
+w: 1.~て ふ る | と も み _ | え じ は | る の あ _
+w: 2.~て に は | か に す _ | ぐ る な | つ の あ _
+w: 3.~て を り | を り そ _ | そ ぐ あ | き の あ _
+w: 4.~て き く | だ に さ _ | む き ふ | ゆ の あ _
 G6 z2 z4 |
+w: 1.~め
+w: 2.~め
+w: 3.~め
+w: 4.~め
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shiki_no_ame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5anJgIZRejCxamJxfl5xUpcWloKT2fPfrp28ePGdS9nr1DQ0uJStFUws-Syt1Vw57Ix1jexA2l9Nq39ZfOK53MawQa9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs3T1rVP1-54unPL8ykr3u_pAIWgHjDc9EAhCGQYmL3f06nExaWvpWBLLcCloKDwtG_-s9k7Xmxuf7Gi60VHO9BdL1bOe9q6AugroCuebuh91t6pEGBgZKqXVZD-fk8PUPHLBY0KBXoKRkAe0N1PdjQA3f1sznwgW8FI4eWyaUCHvt8zC2T4i1X7nzUsBxnb3fti5nyg6OPGFS-nbgeKg0K2o-3Jzu4nOzqBsk_XTgBa567wdMlyoKQCMGwVgKJAG57u2fhi63YFQwgXaDAw3Hpezp3zuGn14-buxw1AwY5HM1famlkCZblAlgId9Lih4eXM3sdN3UDrHjc1vVgGZHQ8bpzxbMZSSFyC1D3bsOVx4-oXe1Y9bpr0uBGoov_Z5kWPG1cBGY8bN4BUPG6c-LhxG9SYxg0gRU1dzxrmPm5c_7hx9uPGZSBFBCwCu2gX0NENT_a3AO172dj3uHECUMfTJUBrYG553rnycePux43Tn6_eD1T0fObel3M2Ad0FcQXQSVOANoNdMR3skOkvtm543NSJcAVOwyEh0gm0H-TNpq73e_rf79nzuHHu4yagPyY8Xw50MTxE5gAtWPdiYieE8XT9MqCel-1AM1c_3bgRSILjtHPTsxWLHze0AvlgYxrBDgS6C-wQAraAk9zs2UDnvGicBw7pBSDT1wNjoPdp2xqkEFk1GeSEDf3P1-wE2zT1cVMLzFiIa2cD42_ii4U9QGOeLpnztLcLHJGQYFr6uAkoDnYRAYsoz0ZQoKClz8UVnJGZnemX7wgsRwIyE_PyHWoMahSqQfYo2Fho2YEZ2LKwAiQnAX2joAFN8toKJgog_69v0IFnQE0sOoHWgkytUTBQ0AXj6ty0WgVjIKwB5kddYNbRVTCLB1I1CqbxQLYxiACzasByukBVxkAMUQ0yoroAqh8cXbjdu6sH7F4SnYnkJpATQFwYrlEwjwc5DSQNZIEEwA4FOQrIACJCTtrRSY6TwE4BuwhoKyigYA4COQQuDQokmCQ4mODhjN9RwPROYTgREXcQngE4AdRw1XJx6dopIBKjApCnzMUFAA)]
-- [鋼琴伴奏 TMD 檔案](shiki_no_ame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6e_bTtYsfN657OXvF-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbBzJLL3lbBncvGWN_EjqtOQenZtPaXzSuez2lUAvFetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-Zp69qna3c83bnl-RSQ_UYGRgZ6BgZmegYWJuZAhoEZ0AlKXFzBGZnZmX75jrmpVgGZiXn5QR4ONQY1CtVcCkBgY6FlB2boaynYogMFoCVPdjS8WNijoBFgYGSql1WQrolFmZY-2IgaBQMFXTCuzk2rVTAGwhoFIyDXEIjN4oFUjYJpPJBtDCLArBqwnC5QlTEQQ1SDjKgugOrnwu-4XT3EOw7JJSCLQVwYrlEwjwc5CCQNZIEEwM4DOQXIACJCDtnRSbxDwA4AuwNoFyhQYM4AWQ-XBgUITBIcJPAwxe8UYKokK0yIiB0IzwAcxTVctZhJywclaZlAkxYoXUDdbwAyJV4h2jBWIdosPjcWbCeUbxoP4sJkgRgqBxIHpQegXqhxaCYYAblGQC4QI2lB4yJ0m4GEwFpRnADWA7YVSQGaK6BewO4MHB5B4YE0A8NN104BEXQKGDxlLi4A)]
+- [主旋律 TMD 檔案](shiki_no_ame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5anJgIZRejCxamJxfl5xUpcWloKT2fPfrp28ePGdS9nr1DQ0uJStFUws-Syt1Vw57Ix1jexA2l9Nq39ZfOK53MawQa9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs3T1rVP1-54unPL8ykr3u_pAIWgHjDc9EAhCGQYmL3f06nExaWvpWBLLcCloKDwtG_-s9k7Xmxuf7Gi60VHO9BdL1bOe9q6AugroCuebuh91t6pEGBgZKqXVZD-fk8PUPHLBY0KBXoKRkAe0N1PdjQA3f1sznwgW8FI4eWyaUCHvt8zC2T4i1X7nzUsBxnb3fti5nyg6OPGFS-nbgeKg0K2o-3Jzu4nOzqBsk_XTgBa567wdMlyoKQCMGwVgKJAG57u2fhi63YFQwgXaDAw3Hpezp3zuGn14-buxw1AwY5HM1famlkCZblAlgId9Lih4eXM3sdN3UDrHjc1vVgGZHQ8bpzxbMZSSFyC1D3bsOVx4-oXe1Y9bpr0uBGoov_Z5kWPG1cBGY8bN4BUPG6c-LhxG9SYxg0gRU1dzxrmPm5c_7hx9uPGZSBFBCwCu2gX0NENT_a3AO172dj3uHECUMfTJUBrYG553rnycePux43Tn6_eD1T0fObel3M2Ad0FcQXQSVOANoNdMR3skOkvtm543NSJcAVOwyEh0gm0H-TNpq73e_rf79nzuHHu4yagPyY8Xw50MTxE5gAtWPdiYieE8XT9MqCel-1AM1c_3bgRSILjtHPTsxWLHze0AvlgYxrBDgS6C-wQAraAk9zs2UDnvGicBw7pBSDT1wNjoPdp2xqkEFk1GeSEDf3P1-wE2zT1cVMLzFiIa2cD42_ii4U9QGOeLpnztLcLHJGQYFr6uAkoDnYRAYsoz0ZQoKClz8UVnJGZnemX7wgsRwIyE_PyHWoMaqpB1ijYWGjZgRnYcrACJCMBPaOgAU3x2gomCiDvr2_Qgec_TSw6gbaCTK1RMFDQBePq3LRaBWMgrAFmR11gztFVMIsHUjUKpvFAtjGIALNqwHK6QFXGQAxRDTKiugCqH2ywj2GNAkg1CD9u3AqM4G6gWmAgg_hNTWDR_WDTgEkfzJsBJtdDxICqQaYCwxuIQapBYo1gsXiwTmBcwWwyQrZpNdgMkKkgE0B8EDkTatMEsO0QmVVQsSX4bAK6FCQDtckYyaamSUDcBVY9CczvApsyF2oqiIbaBzO1sRevnyYj22SC7KdeIO4Hm7AAyU9ToSY0QNVAwhki1obXpn1AvBJoE_50tasHnK5ITE5IaQdkLYgLwzUK5vGgJASSBrJAAuAEBUo8QAYQIZIO1JNN_dCghgQgJOLAYvDoAyUiCA8iAxLbAPfqRCDehpRQgMUlWOV0MDkNqh4iBglWkAwouDrBPFDigAQnLKIh5q4C4ilIyQKScEGRCAl2JLdBkgdcDOKvFrDYPiQxiLktQLlepEQA0QczF-ZeUNSjJwOIiWAZMBuW2SDmAjMgMCwIRfmOTnKiHBzV4BgHxiqowIBFOCii4dKgwgImCS4u4OUNItLhuX4FNBLhkQ7NXSASpA6UpiGlBbAug6pbhuxZUGmDiHSwbpi50AgGmw9LCNBSB8wD2daJ1Vxo2YIU6aDghkQkInJAkQqLHGhpAM17kGQDsx9uLqwkQUQ6PP_2A9mg0hGewKCJCRoO0AgGlYXAigvDvdByA3-kA6tVCvM5EXUEhGcArmiQMzk1agOwfUgZnBrlPpKZoHimSgmPZCY4Y1OjLIeYWcvFpWungGhDKAB5ylwA)]
+- [鋼琴伴奏 TMD 檔案](shiki_no_ame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6e_bTtYsfN657OXvF-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbBzJLL3lbBncvGWN_EjqtOQenZtPaXzSuez2lUAvFetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-Zp69qna3c83bnl-RSQ_UYGRgZ6BgZmegYWJuZAhoEZ0AlKXFzBGZnZmX75jrmpVgGZiXn5QR4ONQY11VwKQGBjoWUHZuhrKdiiAwWgHU92NLxY2KOgEWBgZKqXVZCuiUWZlj7YiBoFAwVdMK7OTatVMAbCGgUjINcQiM3igVSNgmk8kG0MIsCsGrCcLlCVMRBDVIOMqC6A6gcb7GNYowBSDcKPG7cqPG7qBqp93LgCxG9qAovuB5v2uLEDzJsBJtdDxICqQaYC4wmIQapBYo1gsXiwzseNS2E2GSHbtBpsBshUkAkgPoicCbVpAth2iMwqqNgSfDYBXQqSgdpkjGRT0yQg7gKrngTmd4FNmQs1FURD7YOZ2tiL10-TkW0yQfZTLxD3g01YgOSnqVATGqBqIOEMEWvDa9M-IF4JtAl_ItrVQ3wiQkoxIMtAXBiuUTCPByUckDSQBRIAJyNQkgEygAiRYKBea-qHBjAk2CDRBRaDRxoo6UB4EBmQ2Aa4BycC8Tak5PG4cTdY5XQwOQ2qHiIGCUyQDCiQOsE8UJKABCIseiHmrgLiKUiJAZJcQVEHCWwkt0ESBVwM4q8WsNg-JDGIuS1AuV6kqIfog5kLcy8owtEjH2IiWAbMhmUxiLnAbAcMC0IRvaOT-IgGRzA4noFxCSocYNEMil64NKhggEmCiwZ42YKIangOXwGNOnhUQ3MSiASpA6VfSMnwuHE2VN0yZC-CShZEVIN1w8yFRivYfFj0Q0sYMA9kWydWc6HlCFJUgwIZEn2IKAFFJSxKoDkfms8giQVmP9xcWKmBiGp4Xu0HskElITxZQZMQNByg0Qoq9x439WC4F1pG4I9qYOVHVp4mohaA8AzAVQlyhqZGeQ-2DykzU6NkRzITFLtUKcORzARnYmqU1hAzazFbBD7ILQITaIsAVJ1Ds5sBKFLiFaINYxWizeJzY8FRCOWbxoO4MFkghsqBxEHVOFAv1Dg0E4yAXCMgF4iRtKBxEbrNQEJgrShOAOsB24qkAM0VUC9gdwYOj6DwQJqBwaZrp4AIuWgfoASaCNDtaCLGGCImYBFlLgA)]
 
 ## 分析
 
