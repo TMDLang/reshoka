@@ -15,7 +15,7 @@ image: "0_book_info/P113.jpg"
 
 | 原書頁碼 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
 | :--- | :--- | :--- | :--- | :--- |
-| P120 | [**君が代**](p120_kimigayo/index.md) | 曲：林廣守 | `?=C` `<4/4>` `!=66` | P120.jpg |
+| P120 | [**君が代**](p120_kimigayo/index.md) | 詞：古歌 / 曲：林廣守 | `?=C` `<4/4>` `!=66` | P120.jpg |
 | P121 | [**勅語奉答**](p121_chokugo_hoto/index.md) | 詞：勝安芳 / 曲：小山作之助 | `?=D` `<4/4>` `!=84` | P121.jpg |
 | P122 | [**勅語奉答（あな尊しや）**](p122_chokugo_hoto_2/index.md) | — | `?=D` `<4/4>` `!=96` | P122.jpg |
 | P123 | [**一月一日**](p123_ichigatsu_ichijitsu/index.md) | 詞：千家尊福 / 曲：上眞行 | `?=D` `<4/4>` `!=96` | P123.jpg |
@@ -23,7 +23,7 @@ image: "0_book_info/P113.jpg"
 | P125 | [**始政紀念日**](p125_shisei_kinenbi/index.md) | — | `?=C` `<4/4>` `!=100` | P125.jpg |
 | P126 | [**天長節**](p126_tenchosetsu/index.md) | 詞：黒川真頼 / 曲：奥好義 | `?=D` `<4/4>` `!=96` | P126.jpg |
 | P127 | [**朝起**](p127_asaoki/index.md) | — | `?=F` `<4/4>` `!=144` | P127.jpg |
-| P128 | [**夕立**](p128_yudachi/index.md) | — | `?=D` `<2/4>` `!=120` | P128.jpg |
+| P128 | [**夕立**](p128_yudachi/index.md) | 詞：公學校用國民讀本 / 曲：宮島慎三郎 | `?=D` `<2/4>` `!=120` | P128.jpg |
 | P129 | [**うたのけいこ**](p129_uta_no_keiko/index.md) | — | `?=F` `<4/4>` `!=100` | P129.jpg, P130.jpg |
 | P131 | [**天然の美**](p131_tennen_no_bi/index.md) | 詞：武島羽衣 / 曲：田中穗積 | `?=F` `<3/4>` `!=96` | P131.jpg |
 | P133 | [**もしもしばあさん**](p133_moshimoshi_baasan/index.md) | — | `?=G` `<4/4>` `!=108` | P133.jpg |
@@ -62,9 +62,9 @@ image: "0_book_info/P113.jpg"
 | P173 | [**富國強兵**](p173_fukoku_kyohei/index.md) | — | `?=E,` `<2/4>` `!=116` | P173.jpg, P174.jpg |
 | P175 | [**社會奉仕**](p175_shakai_hoshi/index.md) | — | `?=A` `<2/4>` `!=108` | P175.jpg, P176.jpg |
 | P177 | [**化くらべ （滑稽歌） (變身比賽（滑稽歌）)**](p177_bake_kurabe/index.md) | — | `?=E,` `<2/4>` `!=112` | P177.jpg, P178.jpg |
-| P179 | [**卒業式 (畢業典禮)**](p179_sotsugyoshiki/index.md) | — | `?=F` `<4/4>` `!=108` | P179.jpg |
-| P181 | [**大禮奉祝歌 (大禮奉祝歌 — 謄寫版)**](p181_tairei_hoshukuka/index.md) | — | `?=D` `<4/4>` `!=96` | P181.jpg |
-| P182 | [**明治節唱歌 (明治節唱歌 — 謄寫版)**](p182_meijisetsu_shoka/index.md) | — | `?=D` `<4/4>` `!=96` | P182.jpg |
-| P184 | [**文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)**](p184_tairei_hoshuku_shoka/index.md) | — | `?=D` `<4/4>` `!=96` | P183.jpg, P184.jpg |
-| P185 | [**明治節唱歌 (明治節唱歌 — 印刷譜)**](p185_meijisetsu_shoka_printed/index.md) | — | `?=D` `<4/4>` `!=96` | P183.jpg, P185.jpg |
-| P186 | [**青年團御大禮奉祝歌 (青年團御大禮奉祝歌)**](p186_seinendan_gotairei_hoshukuka/index.md) | — | `?=F` `<4/4>` `!=80` | P186.jpg |
+| P179 | [**卒業式**](p179_sotsugyoshiki/index.md) | — | `?=F` `<4/4>` `!=108` | P179.jpg |
+| P181 | [**大禮奉祝歌**](p181_tairei_hoshukuka/index.md) | 詞：高田耕一（文部省選定） / 曲：平岡均之（文部省選定） | `?=D` `<4/4>` `!=96` | P181.jpg |
+| P182 | [**明治節唱歌**](p182_meijisetsu_shoka/index.md) | 詞：堀澤周安 / 曲：杉江秀 | `?=D` `<4/4>` `!=96` | P182.jpg |
+| P184 | [**文部省選定 大禮奉祝唱歌**](p184_tairei_hoshuku_shoka/index.md) | 詞：高田耕一（文部省選定） / 曲：平岡均之（文部省選定） | `?=D` `<4/4>` `!=96` | P183.jpg, P184.jpg |
+| P185 | [**明治節唱歌（印刷譜）**](p185_meijisetsu_shoka_printed/index.md) | 詞：堀澤周安（文部省選定） / 曲：杉江秀（文部省選定） | `?=D` `<4/4>` `!=96` | P183.jpg, P185.jpg |
+| P186 | [**青年團御大禮奉祝歌**](p186_seinendan_gotairei_hoshukuka/index.md) | 詞：川路柳虹 / 曲：中山晉平 | `?=Bb` `<2/4>` `!=80` | P186.jpg |

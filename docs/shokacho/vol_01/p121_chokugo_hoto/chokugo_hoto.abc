@@ -7,9 +7,27 @@ Q:1/4=84
 K:D
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
-D4 E2 F2 B3 B A2 E2 | F2 G2 G2 F2 F2 E2 z4 | D4 E2 F2 B3 B A2 E2 | F2 A2 c2 B2 A6 z2 |
-d4 c2 B2 A2 A2 G2 F2 | E2 F2 G2 A2 G2 F2 z4 | d4 c2 B2 A2 A2 G2 F2 | B2 G2 F2 E2 D6 z2 |
-E4 E2 E2 A2 G2 F2 E2 | G2 F2 E2 D2 F2 E2 z4 | A4 A2 A2 B2 A2 G2 F2 | A2 A2 G2 F2 E6 z2 |
-E4 E2 E2 A2 G2 F2 E2 | G2 F2 E2 D2 F2 E2 z4 | A4 A2 A2 B2 A2 G2 F2 | A2 A2 G2 F2 E6 z2 |
-D4 E2 F2 B3 B A2 E2 | F2 G2 G2 F2 F2 E2 z4 | D4 E2 F2 B3 B A2 E2 | F2 A2 c2 B2 A6 z2 |
-d4 c2 B2 A2 A2 G2 F2 | E2 F2 G2 A2 G2 F2 z4 | d4 c2 B2 A2 A2 G2 F2 | E F G2 A B c2 d6 z2 |
+!p! D8 E4 F4 | B6 B2 A4 E4 | F4 G4 G4 F4 | F8 E4 z4 |
+w: ア ヤ ニ | カ シ コ キ | ス メ ラ ギ | ノ _
+D8 E4 F4 | B6 B2 A4 E4 | F4 A4 c4 B4 | A12 z4 |
+w: ア ヤ ニ | タ フ ト キ | ス メ ラ ギ | ノ
+!f! d8 c4 B4 | A4 A4 G4 F4 | E4 F4 G4 A4 | G8 F4 z4 |
+w: ア ヤ ニ | タ フ ト ク | カ シ コ ク | モ _
+d8 c4 B4 | A4 A4 G4 F4 | B4 G4 F4 E4 | D12 z4 |
+w: ク ダ シ | タ マ ヘ リ | オ ホ ミ コ | ト
+!p! E8 E4 E4 | A4 G4 F4 E4 | G4 F4 E4 D4 | F8 E4 z4 |
+w: コ レ ゾ | メ デ タ キ | ヒ ノ モ ト | ノ _
+!mp! A8 A4 A4 | B4 A4 G4 F4 | A4 A4 G4 F4 | E12 z4 |
+w: ク ニ ノ | ヲ シ ヘ ノ | モ ト ヰ ナ | ル
+!p! E8 E4 E4 | A4 G4 F4 E4 | G4 F4 E4 D4 | F8 E4 z4 |
+w: コ レ ゾ | メ デ タ キ | ヒ ノ モ ト | ノ _
+!mp! A8 A4 A4 | B4 A4 G4 F4 | A4 A4 G4 F4 | E12 z4 |
+w: ヒ ト ノ | ヲ シ ヘ ノ | カ ガ ミ ナ | ル
+!mf! D8 E4 F4 | B6 B2 A4 E4 | F4 G4 G4 F4 | F8 E4 z4 |
+w: ア ヤ ニ | カ シ コ キ | ス メ ラ ギ | ノ _
+D8 E4 F4 | B6 B2 A4 E4 | F4 A4 c4 B4 | A12 z4 |
+w: ミ コ ト | ノ マ マ ニ | イ ソ シ ミ | テ
+!ff! d8 c4 B4 | A4 A4 G4 F4 | E4 F4 G4 A4 | G8 F4 z4 |
+w: ア ヤ ニ | タ フ ト キ | ス メ ラ ギ | ノ _
+d8 c4 B4 | A4 A4 G4 F4 | E2 F2 G4 A2 B2 c4 | d12 z4 |
+w: オ ホ ミ | コ コ ロ ニ | コ _ タ ヘ マ ツ | ラ

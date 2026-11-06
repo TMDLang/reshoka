@@ -1,7 +1,7 @@
 ---
 title: "天長節 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "天長節"
-description: "〈天長節〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：黒川真頼、曲：奥好義），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：今日の吉き日は大君の　生れ給ひし吉き日なり 今日の吉き日は御光の　さしでたまひし吉き日なり…"
+description: "〈天長節〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：黒川真頼、曲：奥好義），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、今日の吉き日は大君の　生れ給ひし吉き日なり 二、今日の吉き日は御光の　さしでたまひし吉き日なり…"
 keywords: "天長節, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 黒川真頼, 奥好義"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -23,7 +23,7 @@ audio: "tenchosetsu.mp3"
 ## 說明
 
 原書資訊與歌詞全文（對應 P126.jpg，印刷五線譜＋簡譜對照第 10 頁）：
-調性與拍號：ニ調四分之四拍子（D 大調 4/4 拍）
+調性與拍號：ニ調四分之四拍子（D 大調 4/4 拍），♩=96
 
 ## 跨冊／重複收錄參照
 
@@ -35,8 +35,8 @@ audio: "tenchosetsu.mp3"
 ## 歌詞
 
 ```text
-今日の吉き日は大君の　生れ給ひし吉き日なり
-今日の吉き日は御光の　さしでたまひし吉き日なり
+一、今日の吉き日は大君の　生れ給ひし吉き日なり
+二、今日の吉き日は御光の　さしでたまひし吉き日なり
 光あまねき君が代を　いはへ諸人もろともに
 惠あまねき君が代を　祝へもろびと諸共に
 ```
@@ -54,15 +54,23 @@ K:D
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
 F8 E4 D4 | G6 G2 F4 E4 | A6 A2 B4 G4 | F8 E4 z4 |
+w: 1.~ケ フ ノ | ヨ キ ヒ ハ | オ ホ ギ ミ | ノ _
+w: 2.~け ふ の | よ き ひ は | み ひ か り | の _
 G8 F4 B4 | A4 A4 D4 G4 | F4 F4 E6 D2 | D12 z4 |
+w: 1.~ウ マ レ | タ マ ヒ シ | ヨ キ ヒ ナ | リ
+w: 2.~さ し で | た ま ひ し | よ き ひ な | り
 G8 F4 E4 | F6 F2 F4 A4 | B6 d2 c4 B4 | A12 z4 |
+w: 1.~ヒ カ リ | ア マ ネ キ | キ ミ ガ ヨ | ヲ
+w: 2.~め ぐ み | あ ま ね き | き み が よ | を
 d8 c4 B4 | A4 A4 B4 G4 | F4 A4 G6 E2 | D12 z4 |
+w: 1.~イ ハ ヘ | モ ロ ビ ト | モ ロ ト モ | ニ
+w: 2.~い は へ | も ろ び と | も ろ と も | に
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tenchosetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGRGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdmbkFqRDdWloKT5esfDl1-_P1DQpaWlyKtgqWZlz2tgouXDYm-iZ2II0vVs57v2fWy92Tnm6f-3zO_JcL9oDNezZ7E1D46dKlT5fufb5vJVjs6ZSNz9b2PF_b9mLFjKc7pr3f0_GifdfzxsVP1054sm_2kx3Tnk_teb5k3_OZe14s7Hm_p8fIwMhAz8DATM_AwsT4_Z5OUKDpZRWkAzU-X7NGwdBA4eWCRqC4EheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AZwP9-bR1xbNp7UDbn27ofdbeqYBwT8_T3g1PO7Y_2TXl-fZZL9bOeb-n-_mGhUAGUOXz1uUorgUGC8iGF6v2P2tYDjK7u_fFzPlA0cfN3UDBp7NnP-1oe7KzG8gASgHDBmihCzAelgMlFYChrgAUBRrDBTLkye6uZ9OXPm5c93RC5-PGXjB7PVDp0wmzgYKPGxqeT5n_uKnn-dZljxs3PW6cjqRs1eOmLtxG7Fv4tBXIBRnxuHEqUOfjxuWPG-c_btyH0yCwhiawirVAObATep7sXvy4aRLYlBaguY8bd7xYvePJrl2Pm5oeN_U-blwBYjSuBul_1rwAj_7nS-cCNcO0bQbqBBr0tHUjVDPlsQ4FClr6XFwhwGyUkV-cWlJcahWWn5yY41BjUKNQDbJIwcZCyw7MwJbkFIAx_WRHAzD5KmiYKDzd0A_MODrwdKKJRQPQOpBhNQrGCrpgaATEhkBco2AC5puAZUCiNQqmYBFTBTOwOEgEWZcBSAScLHC7bVcPOW6DuEQXbBvIbohLQBjkUoRLYC4FideA5WCQGLft6KTUbZBQgoSJMZgGubEG7Gagm-IUzFE8QILjgJmRHMcBrYRYgWoxCKPGIUgE4hMjrCFXy8Wla6eAlC4VgFxlLi4A)]
-- [鋼琴伴奏 TMD 檔案](tenchosetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOXLqdufr294v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cNmY6JvYcdUpKL1YOe_9nlkvd096un3u8znzXy7YowQSfjZ7E1D46dKlT5fufb5vJVjs6ZSNz9b2PF_b9mLFjKc7pgGtedG-63nj4qdrJzzZN_vJjmnPp_Y8X7Lv-cw9Lxb2vN_TY2RgZKBnYGCmZ2BhYgx0QoChkZleVkE6UOPzNWsUDA0UXi5oBIorcXGFpOYlZ-QXp5YUl1qF5Scn5jjUGNQoVHMpAIGNhZYdmFGjYKygC4ZGQGwIxDUKJmC-CVgGJFqjYAoWMVUwA4uDRGByBlDdNVDTIHp1wfIg1RC9IAwyG6EXph8kXgOWg0GQidhMg7gE4lpjMA0ytQZsC9CUOAVzFCuxGQdUBBFEVQrCqD4DiUDsNsLqulrU0A3ITMzLD_LAHr6G2rAQNo_XRgSyoTYsmCEKoJJA-7VhoW2iDXIVRCHMHKgy9GCHmQZSDlIG0QozDEKC7EU1DMVI_DEBVIRqA9y9MP8ZQ1kQy4BxB3YCOGaMtEEBbqIOdZQR1IeYthhrw6MIqgeLP7AFC0QG7kjiY80HJdZMELEWD0Km8WAK6BkgA4ShYjB5mDAwHQFJEEZJvQhNEEUQTWYYmmAYrAJqpwHcGJgsmt0QhLDFCIwgyoEMiGPg6QOuHdklmM7H5RJg0OnaKSCFngImV5mLCwA)]
+- [主旋律 TMD 檔案](tenchosetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGRGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlVJRirQ7Zm5BUD9iTno4smpRam5-XlgGS0thadLVr6cuv35-gYFLS0uRVsFSzMue1sFFy4bE30TO5DWFyvnvd8z6-XuSU-3z30-Z_7LBXvAJj6bvQko_HTp0qdL9z7ftxIs9nTKxmdre56vbXuxYsbTHdPe7-l40b7reePip2snPNk3-8mOac-n9jxfsu_5zD0vFva839NjZGBkoGdgYKZnYGFi_H5PJyhI9bIK0oEan69Zo2BooPByQSNQXImLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oLOB_nzauuLZtHag7U839D5r71RAuKfnae-Gpx3bn-ya8nz7rBdr57zf0_18w0IgA6jyeetyFNcCgwVkw4tV-581LAeZ3d37YuZ8oOjj5m6g4NPZs592tD3Z2Q1kAKWAYQO00AUYD8uBkgrAUFcAioKN6Xk0c6UtMD5Apj3Z0fC4ofHJ7q5n05c-blz3dELn48ZeMHs9UOfTCbOBgo8bGp5Pmf-4qef51mWPGzc9bpyOpGzV46YusEG7enAatG_h01YgF2TQ48apQP2PG5c_bpz_uHEfTuNAAKypCaxqLVAe7JieJ7sXP26aBDapBWj248YdL1bveLJr1-OmpsdNvY8bV4AYjathZjxrXoDHjOdL5wINgGndDNQNNOxp60aoAZQnCShQ0NLn4goB5sCM_OLUkuJSq7D85MQchxqDGoVqsEttLLTswAxs6VEBmAyA8QRM2womCk839AMzlQ48DWFRDrQMZFSNgrGCLhgaAbEhENcA9YP4JmAZkGiNgilYxFTBDCwOEkHWZQASAZvmY1ij8LhpI1TucfNUMNkH1vG4eQVEtGktkD0JLNMPkWlaBVU_G8heB2bNh-oB6YXBeIQ9RkC5xokwexq3gkmQTpBpHVDRXiDeBGath8g07ofKbALibrBbuqAyIL2o9uAP6V09pIc0JFx1wWEHCklIuIIwKNwR4QoLd5B4DVgOBtFDehk8pOeByTXQEAD5EyYGDumm7UhxAIoBmAyI7gLLQOIAe0iD4hESctPB5HJoqIFiCZhtoGEKk4fFASgGYDIgehVYBhTipIT0jk7KQhqSgiHp1RhMg0K8BhwDwBCOUzAHUojowBHU0MACBd5qcKCBggvknUXwCHjcDPYuOHBBMiAakpQfN4EiBhL4ILMgAYI1qJsa4UE9AUyCohIU1E1Q0X1ADI4-cOCCZEA0RCWw1AK7ABT4ILNgbiYyqIF1AulBDQxAiAWowQjCqKUFSAQSL0YEUvUSWBCAy4fHzTOgwQYK6sfNkLQ7GUxCPYoiA839QDGQDCiX40rVLfCgBpUPwDIeGmygoAaW9WCxzWASGnEoMrDSrAkcCaBEgWpPLReXrp0CUnmuAOQqcwEA)]
+- [鋼琴伴奏 TMD 檔案](tenchosetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOXLqdufr294v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cNmY6JvYcdUpKL1YOe_9nlkvd096un3u8znzXy7YowQSfjZ7E1D46dKlT5fufb5vJVjs6ZSNz9b2PF_b9mLFjKc7pgGtedG-63nj4qdrJzzZN_vJjmnPp_Y8X7Lv-cw9Lxb2vN_TY2RgZKBnYGCmZ2BhYgx0QoChkZleVkE6UOPzNWsUDA0UXi5oBIorcXGFpOYlZ-QXp5YUl1qF5Scn5jjUGNQoVHMpAIGNhZYdmFGjYKygC4ZGQGwIxDUKJmC-CVgGJFqjYAoWMVUwA4uDRJB1GYBEwKb5GNYoPG7aCJV73DwVTPaBdTxuXgERbVoLZE8Cy_RDZJpWQdXPBrLXgVnzoXpAemEwHmGPEVCucSLMnsatYBKkE2RaB1S0F4g3gVnrITKN-6Eym4C4G-yWLqgMSC-mPbCw0AX7F-R7SFiAMCisEGEBCyuQeA1YDgbRQ2cZPHTmgck1UFeD3AYTA4dO03akcAOFGkwGRHeBZSDhhj10QGEP8e10MLkc6lNQyD5u3AcNB5g8LNxAoQaTAdGrwDKgUCIUOpCUAkkXxmAaFEo14FADhkqcgjmQQgQhjuCBehDk4dVgj4K8CHLCInigPW4GOxEcICAZEA1JMo-bQIEJCTCQWRBPYA2epkZ48EwAk6DgBwVPE1R0HxCDgxwcICAZEA1R-bixB-wCUICBzIK5GT14gJ6GCKJ6HYRRcxJIBBKWRgRSzxKYs8F553HzDKhXQcHzuBmSRiaDSajjUGSgOQMoBpIB5QBcqacFHjygvPO4cQfUq6DgedwESSObwSQ0sFFkYDm9CRxwoIhEtacWtXQKyEzMyw_ywF4-GWrDyhrzeG1EIWWoDSumIAqgksDw1IaVVibaoFCGKMRiDiJoEaaBlIOUQbTCDIOQIHtRDUOxGV_OrwEpQrUB7l6Yu4yhLIhlwLwFdgI45xhpgxKQiTrUUUZQH2LaYqwNT3JQPVj8gS1YIDJwR2JPhdhizQcl1kwQsRYPQqbxYAroGSADhKFiMHmYMDBfAEkYNkCULwhtEGUQbWZYtcENhtqKMAYmi2Y7BCFsMQIjiHIgA9UpCA8huwS7B7C5BBh4unYKSOEX7WMYq4AuZAQWUuYCAA)]
 
 ## 分析
 

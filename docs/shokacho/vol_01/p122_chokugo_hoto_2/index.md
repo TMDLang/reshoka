@@ -54,18 +54,24 @@ Q:1/4=96
 K:D
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
-A6 A2 A4 A4 | B8 A4 A4 | F6 F2 E4 D4 | E12 z4 |
-A6 A2 F4 D4 | B8 A4 A4 | F6 F2 E4 E4 | D12 z4 |
-E8 E4 E4 | F4 E4 D4 D4 | E4 E4 D4 E4 | F12 z4 |
-E6 E2 E4 E4 | F4 E4 D4 D4 | F4 F4 E4 E4 | D12 z4 |
-A8 A4 A4 | d4 d4 A4 A4 | F6 F2 E4 D4 | A12 z4 |
-d6 d2 A4 A4 | B8 A4 F4 | E4 E4 A6 A2 | D12 z4 |
+!mf! A6 A2 A4 A4 | B8 A4 A4 | F6 F2 E4 D4 | E12 z4 |
+w: ア ナ タ フ | ト シ ヤ | ア キ ラ ケ | ク
+!p! A6 A2 F4 D4 | B8 A4 A4 | F6 F2 E4 E4 | D12 z4 |
+w: ヲ サ マ ル | ミ ヨ ノ | ス メ ラ ギ | ノ
+!f! E8 E4 E4 | F4 E4 D4 D4 | E4 E4 D4 E4 | F12 z4 |
+w: ク ダ シ | タ マ ヒ シ | オ ホ ミ コ | ト
+!mf! E6 E2 E4 E4 | F4 E4 D4 D4 | F4 F4 E4 E4 | D12 z4 |
+w: ミ コ ト ノ | ム _ ネ ヲ | ミ ニ シ メ | テ
+!f! A8 A4 A4 | d4 d4 A4 A4 | F6 F2 E4 D4 | A,12 z4 |
+w: ア サ ナ | ユ フ ナ ニ | マ モ ラ ナ | ム
+d6 d2 A4 A4 | B8 A4 F4 | E4 E4 A6 A,2 | D12 z4 |
+w: ア ナ タ フ | ト シ ヤ | オ ホ ミ コ | ト
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](chokugo_hoto_2.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGREboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdmbkFqai6IeLJqUWpufl5YBktLYWn3a0vVs17urTz-dop7_d0PG5sety46umGrseN0x83tbzf06mgpcWlaKtgacZlb6vgwmVjom9iBzLy6ZSNz9b2PF_b9mLFjKc7pgH1vmjf9bxx8dO1E57sm_1kx7TnU3ueL9n3fOaeFwt73u_pMTIwMtAzMDDTM7AwMQaaCwo7vayCdKDG52vWKJgpvFzQCBRW4uLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3o6hcr5z1tXfFsWjvQ8qcbep-1dyognNPztHfD047tT3ZNeb591ou1c97v6X6-YSGQAVT5vHU5smPf75kFsuDFqv3PGpaDjO7ufTFzPlD0cXM3UPDp7NlPO9qe7OwGMoBSwJAB2uei8HTJcqCkAjAgFYCiYGN6XjbMf7prmcKjmSttLc0UHrVNAjMNDUzgbGAEgPzSNRuoDhjkEHty08DyBWASwoYKpXGBlD9uWvS4uetx0_7HzVMfN3c8btr-uHnJ44YGkHjT2sfNKx83bXzctB6stHnT46atj5vnPW5e_bh5_uPmFY-b-8BKdz5uXghWug4oAjF1_eNmoMR2sMFADZNAbJDSVY-bZ4M0N20G2gYxFcoBGda84HHznsfNvSCrgKpBlnSDnQQ0vg3mXJAbuh43LwO7GMjoBisFWgL0yUqwyAL8PsNwA-WpCAoUtPS5uJyB2bs0Pd8jvyTfyCosPzkxx6HGoEahGmSTgo2Flh2YgS0NKwCTzpMdDcDsoKBhovB0Q__z9Q068ISnA41lTSwagfaCDK1RMFXQBUJTMA3CNcCkCBKB8CAixmC-sYIRkDQEi4BYMGgAEgGnDdxu3NWDw41EuQ1kP8Re_G4D4RqwSlLctqMTb_gBcwxeR8KCAuEAkJNgQYUILpgIQg0JjgRmd3ICEOI2I7xuA4nARMkLwF1TKE-AyFFqGAdyHIjAlwRh-ogNwda15IQg2Blg12DPICB3IeIXlmCxhWEtF5eunQJyXlcA8pW5uAA)]
-- [鋼琴伴奏 TMD 檔案](chokugo_hoto_2_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnja3fpi1bynSzufr53yfk_H48amx42rnm7oetw4_XFTy-Pm3S-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwdKMy95WwYXLxkTfxI6rTkHp6ZSNz9b2PF_b9mLFjKc7pgFNe9G-63nj4qdrJzzZN_vJjmnPp_Y8X7Lv-cw9Lxb2vN_TY2RgZKBnYGCmZ2BhYgw0N8DQyEgvqyAdqPH5mjUKZgovFzQChZW4uJwz8rNL0_M98kvyjazC8pMTcxxqDGoUqrkUgMDGQssOzKhRMFXQBUJTMA3CNUBDQCIQHkTEGMw3VjACkoZgERALBg1AImimgXRAVOI3DYRrwCqxmQazBaESpBfmCoRLYCIINbhNM8JrGkgEJorfbRCfIvvLMA5kDIjAF3IwfejmgTWC9WOPCZBJCN_Cwhmb-2rRIj8gMzEvP8gDe_Qba8OjDMyCkDUKJtowy1HFDbVhXjKP10b4CsrB5jGEDRC9EA1Emw-lEDKYNiBZjl0TklNRnIskToo1RsRaA_UwsiQR9qBHCQiCRMEpBE4RESlGcO2YViCSG_54hxgNTIoQg6EU0BqkFIjFJ1jToA9KGjSBp0HDeAQCuiAehGA8CG0aD-WCGDBsgMg7eAxA1gHCYNVQ8xAm4FOFYgxUmEJT8DsG1TvYeBSEh1E8CCE7QBuUWuDRpmungBxzCkC-MhcXAA)]
+- [主旋律 TMD 檔案](chokugo_hoto_2.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGREboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlVJRirQ7Zm5BUD9iTno4smpRam5-XlgGS0thafdrS9WzXu6tPP52inv93Q8bmx63Ljq6Yaux43THze1vN_TqaClxaVoq2BpxmVvq-DCZWOib2IHMvLplI3P1vY8X9v2YsWMpzumAfW-aN_1vHHx07UTnuyb_WTHtOdTe54v2fd85p4XC3ve7-kxMjAy0DMwMNMzsDAxBpoLCj-9rIJ0oMbna9YomCm8XNAIFFbi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHejqFyvnPW1d8WxaO9Dypxt6n7V3KiCc0_O0d8PTju1Pdk15vn3Wi7Vz3u_pfr5hIZABVPm8dTmyY9_vmQWy4MWq_c8aloOM7u59MXM-UPRxczdQ8Ons2U872p7s7AYygFLAkAHa56LwdMlyoKQCMCAVgKJgY3peNsx_umuZwqOZK20tzRQetU0CMw0NTOBsYASA_NI1G6gOGOQQe3LTwPIFYBLChgqlcYGUP25a9Li563HT_sfNUx83dzxu2v64ecnjhgaQeNPax80rHzdtfNy0Hqy0edPjpq2Pm-c9bl79uHn-4-YVj5v7wEp3Pm5eCFa6DigCMXX942agxHawwUANk0BskNJVj5tngzQ3bQbaBjEVygEZ1rzgcfOex829IKuAqkGWdIOdBDS-DeZckBu6HjcvA7sYyOgGKwVaAvTJSrDIAvw-w3AD5akIChS09Lm4nIFZvDQ93yO_JN_IKiw_OTHHocagRqEaZJOCjYWWHZiBLQ0rAJPOkx0NwOygYKLwdEP_8_UNOvB0pwOLe6y2goyszk2rBTNqFEwVdIHQFEyDcA0wRYJEIDyIiDGYb6xgBCQNwSIgFgwagETApvnUgMISLAgMUCB7P5g1FawFGIJQDcAABosvgYjDdDStBYqtBLM2QmXWI1kTD7YGf4js6sEeInhCogA9IECehXgSf0CAcA1YJfaAaN4E9dZWIHse2MOroQExHxYQzSvAZB_UuzuhogvhAbEOqgOkgpSA2NGJL2mAygLcIQJPGrBIRvgW5H9YIkAkBJgIQg2OpAGLTmCOB_sOlAxA4pBkAgmjSSgyq8Bis8EkKNSAOREaIrDERGSIAItNkpMGIpNAQsIIb0iARGCiBNMGJAWAfAPxCTwNNC-Ah1EvmASlIpgOYAkGDx1QKoHItJEWEsDKiOxiA63UQM4ahnGgkAAR-MoNU5AD8RYckBwDKUAg_lsG5oEKEYgYJBRAMqAUA-IvguUXuB5YKBKbOlrXkpo6oD4G-xl72QnyPSKDQIuXeLzpgozCEz2HQFIV9hxSy8Wla6eAXOsoAPnKXAA)]
+- [鋼琴伴奏 TMD 檔案](chokugo_hoto_2_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnja3fpi1bynSzufr53yfk_H48amx42rnm7oetw4_XFTy-Pm3S-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwdKMy95WwYXLxkTfxI6rTkHp6ZSNz9b2PF_b9mLFjKc7pgFNe9G-63nj4qdrJzzZN_vJjmnPp_Y8X7Lv-cw9Lxb2vN_TY2RgZKBnYGCmZ2BhYgw0N8DQyEgvqyAdqPH5mjUKZgovFzQChZW4uJwz8rNL0_M98kvyjazC8pMTcxxqDGoUqrkUgMDGQssOzKhRMFXQBUJTMA3CNUBDQCIQHkTEGMw3VjACkoZgERALBg1AImDTfGoUHjctAgs-bu4CsveDWVPBWh43d0A1PG7aDhZfAhGH6WhaCxRbCWZthMqsR7ImHm4NwtEgh0EchN_RIFwDVond0c2boE7YCmTPAztuNdTR82GObl4BJvugTtsJFV0Id_Q6qA6QCmyOhoUZwkEgJ8LCFBGuMBGEGhwhDQudx80NYAeAQhUkDgl1iDcmocisAovNBpMgjz1u2gx1NCxusDvaCK-jQSIwUYIhDQlPkMUQS-Eh2rwA7p1eMAmKE5iOx83dcI-Awhwi04bD0ZDkgZwYDONArgUR-FK1KcgQvMkakkYgyRvihmVgHiiJQ8QgLgXJgCIAxF8ESyFwPTCforsb7ECwO7HnRpCLEWkEmgni8YY3GdkRPZFAYgt7IqlFK2gCMhPz8oM8sBc1xtrwfAtmQcgaBRNtmCdRxQ21YVFkHq-NiCUoB9O_yDZA9EI0EG0-lELIYNqAZDl2TUhORXEukjgp1hgRaw3Uw8iSRNiDHiUgCBIFp0Q4RUSk4Mg6cLPAqRp_tENMBqZ4iLlQCmgLckLH4hOsadAHJQ2awNOgYTwCAZ0QD0IwHoQ2jYdyQQwYNkDkUTwGIOsAYbBqqHkIE_CpQjEGKkyhKfgdg-odbDwKwsMoHoSQHaANSi3waNO1U0COOQUgX5kLAA)]
 
 ## 分析
 
@@ -76,8 +82,8 @@ d6 d2 A4 A4 | B8 A4 F4 | E4 E4 A6 A2 | D12 z4 |
 ⏱  Duration:       1:00 (60.0s), 24 measures total
 🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [ChokugoHoto2 #1 @ m.3, 0:06]
+🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  A3 in [ChokugoHoto2 #1 @ m.20, 0:47]
    - 最高音: D5 in [ChokugoHoto2 #1 @ m.18, 0:42]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      ChokugoHoto2 (60.0s)
@@ -117,7 +123,7 @@ d6 d2 A4 A4 | B8 A4 F4 | E4 E4 A6 A2 | D12 z4 |
      B  : ██████                     6.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 73 個音符)
+  - Vocal         : A3 – D5 (17 個半音 / 1.4 個八度, 73 個音符)
 ================================================================================
 ```
 

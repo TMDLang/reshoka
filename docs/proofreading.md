@@ -1,6 +1,6 @@
 # 人工校對進度紀錄（Proofreading Checklist）
 
-本頁追蹤全站 **22 冊、773 首**歷史曲目之人工校對進度（目前已校對 **353 / 773** 首，完成率 **45.7%**）。
+本頁追蹤全站 **22 冊、773 首**歷史曲目之人工校對進度（目前已校對 **365 / 773** 首，完成率 **47.2%**）。
 
 ## 校對檢核要點
 
@@ -31,14 +31,14 @@
 | 《共益商社唱歌教科書》     | [巻二（教師用）](#kyoeki_shoka_kan_2_854863)                      |      18 |      18 |      100% |
 | 《共益商社唱歌教科書》     | [巻三（教師用）](#kyoeki_shoka_kan_3_854864)                      |      19 |      19 |      100% |
 | 《共益商社唱歌教科書》     | [巻四（教師用）](#kyoeki_shoka_kan_4_854865)                      |      19 |      19 |      100% |
-| 《楊金土手抄唱歌帖》       | [第 1 冊（選定唱歌筆記帳）](#shokacho_vol_01)                     |       4 |      53 |        8% |
+| 《楊金土手抄唱歌帖》       | [第 1 冊（選定唱歌筆記帳）](#shokacho_vol_01)                     |      16 |      53 |       30% |
 | 《楊金土手抄唱歌帖》       | [第 2 冊（II）](#shokacho_vol_02)                                 |       0 |      35 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 3 冊（I）](#shokacho_vol_03)                                  |       3 |      22 |       14% |
 | 《楊金土手抄唱歌帖》       | [第 7 冊（VII・蓬萊唱歌集上）](#shokacho_vol_07)                  |       1 |      32 |        3% |
 | 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       0 |      22 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |       4 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |       0 |      31 |        0% |
-| **合計**                   | **全 22 冊**                                                      | **353** | **773** | **45.7%** |
+| **合計**                   | **全 22 冊**                                                      | **365** | **773** | **47.2%** |
 
 ---
 
@@ -673,17 +673,17 @@
 
 ## 《楊金土手抄唱歌帖》
 
-### 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）（4 / 53 首） {#shokacho_vol_01}
+### 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）（16 / 53 首） {#shokacho_vol_01}
 
-- [ ] **P120 君が代**（`C` / `4/4`）— [單曲頁](shokacho/vol_01/p120_kimigayo/index.md) · [主譜 TMD](shokacho/vol_01/p120_kimigayo/kimigayo.tmd) · [伴奏 TMD](shokacho/vol_01/p120_kimigayo/kimigayo_piano.tmd)
-- [ ] **P121 勅語奉答**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p121_chokugo_hoto/index.md) · [主譜 TMD](shokacho/vol_01/p121_chokugo_hoto/chokugo_hoto.tmd) · [伴奏 TMD](shokacho/vol_01/p121_chokugo_hoto/chokugo_hoto_piano.tmd)
-- [x] **P122 勅語奉答（あな尊しや）**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p122_chokugo_hoto_2/index.md) · [主譜 TMD](shokacho/vol_01/p122_chokugo_hoto_2/chokugo_hoto_2.tmd) · [伴奏 TMD](shokacho/vol_01/p122_chokugo_hoto_2/chokugo_hoto_2_piano.tmd) — 已修正（`9db580a7`, `717d7e4d`）
-- [ ] **P123 一月一日**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md) · [主譜 TMD](shokacho/vol_01/p123_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd) · [伴奏 TMD](shokacho/vol_01/p123_ichigatsu_ichijitsu/ichigatsu_ichijitsu_piano.tmd)
-- [x] **P124 紀元節**（`C` / `4/4`）— [單曲頁](shokacho/vol_01/p124_kigensetsu/index.md) · [主譜 TMD](shokacho/vol_01/p124_kigensetsu/kigensetsu.tmd) · [伴奏 TMD](shokacho/vol_01/p124_kigensetsu/kigensetsu_piano.tmd) — 已修正（`1f072c06`）
-- [ ] **P125 始政紀念日**（`C` / `4/4`）— [單曲頁](shokacho/vol_01/p125_shisei_kinenbi/index.md) · [主譜 TMD](shokacho/vol_01/p125_shisei_kinenbi/shisei_kinenbi.tmd) · [伴奏 TMD](shokacho/vol_01/p125_shisei_kinenbi/shisei_kinenbi_piano.tmd)
-- [x] **P126 天長節**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p126_tenchosetsu/index.md) · [主譜 TMD](shokacho/vol_01/p126_tenchosetsu/tenchosetsu.tmd) · [伴奏 TMD](shokacho/vol_01/p126_tenchosetsu/tenchosetsu_piano.tmd) — 已修正（`011dd7ab`）
-- [ ] **P127 朝起**（`F` / `4/4`）— [單曲頁](shokacho/vol_01/p127_asaoki/index.md) · [主譜 TMD](shokacho/vol_01/p127_asaoki/asaoki.tmd) · [伴奏 TMD](shokacho/vol_01/p127_asaoki/asaoki_piano.tmd)
-- [ ] **P128 夕立**（`D` / `2/4`）— [單曲頁](shokacho/vol_01/p128_yudachi/index.md) · [主譜 TMD](shokacho/vol_01/p128_yudachi/yudachi.tmd) · [伴奏 TMD](shokacho/vol_01/p128_yudachi/yudachi_piano.tmd)
+- [x] **P120 君が代**（`C` / `4/4`）— [單曲頁](shokacho/vol_01/p120_kimigayo/index.md) · [主譜 TMD](shokacho/vol_01/p120_kimigayo/kimigayo.tmd) · [伴奏 TMD](shokacho/vol_01/p120_kimigayo/kimigayo_piano.tmd) — 已對照 P120.jpg 校對並補齊歌詞
+- [x] **P121 勅語奉答**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p121_chokugo_hoto/index.md) · [主譜 TMD](shokacho/vol_01/p121_chokugo_hoto/chokugo_hoto.tmd) · [伴奏 TMD](shokacho/vol_01/p121_chokugo_hoto/chokugo_hoto_piano.tmd) — 已對照 P121.jpg 修正為 48 小節 4/4 拍並補齊歌詞
+- [x] **P122 勅語奉答（あな尊しや）**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p122_chokugo_hoto_2/index.md) · [主譜 TMD](shokacho/vol_01/p122_chokugo_hoto_2/chokugo_hoto_2.tmd) · [伴奏 TMD](shokacho/vol_01/p122_chokugo_hoto_2/chokugo_hoto_2_piano.tmd) — 已修正（`9db580a7`, `717d7e4d`）並補齊歌詞
+- [x] **P123 一月一日**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md) · [主譜 TMD](shokacho/vol_01/p123_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd) · [伴奏 TMD](shokacho/vol_01/p123_ichigatsu_ichijitsu/ichigatsu_ichijitsu_piano.tmd) — 已對照 P123.jpg 修正第 14 小節附點並補齊歌詞
+- [x] **P124 紀元節**（`C` / `4/4`）— [單曲頁](shokacho/vol_01/p124_kigensetsu/index.md) · [主譜 TMD](shokacho/vol_01/p124_kigensetsu/kigensetsu.tmd) · [伴奏 TMD](shokacho/vol_01/p124_kigensetsu/kigensetsu_piano.tmd) — 已修正（`1f072c06`）並補齊歌詞
+- [x] **P125 始政紀念日**（`C` / `4/4`）— [單曲頁](shokacho/vol_01/p125_shisei_kinenbi/index.md) · [主譜 TMD](shokacho/vol_01/p125_shisei_kinenbi/shisei_kinenbi.tmd) · [伴奏 TMD](shokacho/vol_01/p125_shisei_kinenbi/shisei_kinenbi_piano.tmd) — 已對照 P125.jpg 修正低音 `5_` 並補齊歌詞
+- [x] **P126 天長節**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p126_tenchosetsu/index.md) · [主譜 TMD](shokacho/vol_01/p126_tenchosetsu/tenchosetsu.tmd) · [伴奏 TMD](shokacho/vol_01/p126_tenchosetsu/tenchosetsu_piano.tmd) — 已修正（`011dd7ab`）並補齊歌詞
+- [x] **P127 朝起**（`F` / `4/4`）— [單曲頁](shokacho/vol_01/p127_asaoki/index.md) · [主譜 TMD](shokacho/vol_01/p127_asaoki/asaoki.tmd) · [伴奏 TMD](shokacho/vol_01/p127_asaoki/asaoki_piano.tmd) — 已對照 P127.jpg 修正旋律與力度並補齊歌詞
+- [x] **P128 夕立**（`D` / `2/4`）— [單曲頁](shokacho/vol_01/p128_yudachi/index.md) · [主譜 TMD](shokacho/vol_01/p128_yudachi/yudachi.tmd) · [伴奏 TMD](shokacho/vol_01/p128_yudachi/yudachi_piano.tmd) — 已對照 P128.jpg 修正附點節奏與音高並補齊歌詞
 - [x] **P129 うたのけいこ**（`F` / `4/4`）— [單曲頁](shokacho/vol_01/p129_uta_no_keiko/index.md) · [主譜 TMD](shokacho/vol_01/p129_uta_no_keiko/uta_no_keiko.tmd) · [伴奏 TMD](shokacho/vol_01/p129_uta_no_keiko/uta_no_keiko_piano.tmd) — 已修正（`a139bf62`）
 - [ ] **P131 天然の美**（`F` / `3/4`）— [單曲頁](shokacho/vol_01/p131_tennen_no_bi/index.md) · [主譜 TMD](shokacho/vol_01/p131_tennen_no_bi/tennen_no_bi.tmd) · [伴奏 TMD](shokacho/vol_01/p131_tennen_no_bi/tennen_no_bi_piano.tmd)
 - [ ] **P133 もしもしばあさん**（`G` / `4/4`）— [單曲頁](shokacho/vol_01/p133_moshimoshi_baasan/index.md) · [主譜 TMD](shokacho/vol_01/p133_moshimoshi_baasan/moshimoshi_baasan.tmd) · [伴奏 TMD](shokacho/vol_01/p133_moshimoshi_baasan/moshimoshi_baasan_piano.tmd)
@@ -722,12 +722,12 @@
 - [ ] **P173 富國強兵**（`E,` / `2/4`）— [單曲頁](shokacho/vol_01/p173_fukoku_kyohei/index.md) · [主譜 TMD](shokacho/vol_01/p173_fukoku_kyohei/fukoku_kyohei.tmd) · [伴奏 TMD](shokacho/vol_01/p173_fukoku_kyohei/fukoku_kyohei_piano.tmd)
 - [ ] **P175 社會奉仕**（`A` / `2/4`）— [單曲頁](shokacho/vol_01/p175_shakai_hoshi/index.md) · [主譜 TMD](shokacho/vol_01/p175_shakai_hoshi/shakai_hoshi.tmd) · [伴奏 TMD](shokacho/vol_01/p175_shakai_hoshi/shakai_hoshi_piano.tmd)
 - [ ] **P177 化くらべ （滑稽歌） (變身比賽（滑稽歌）)**（`E,` / `2/4`）— [單曲頁](shokacho/vol_01/p177_bake_kurabe/index.md) · [主譜 TMD](shokacho/vol_01/p177_bake_kurabe/bake_kurabe.tmd) · [伴奏 TMD](shokacho/vol_01/p177_bake_kurabe/bake_kurabe_piano.tmd)
-- [ ] **P179 卒業式 (畢業典禮)**（`F` / `4/4`）— [單曲頁](shokacho/vol_01/p179_sotsugyoshiki/index.md) · [主譜 TMD](shokacho/vol_01/p179_sotsugyoshiki/sotsugyoshiki.tmd) · [伴奏 TMD](shokacho/vol_01/p179_sotsugyoshiki/sotsugyoshiki_piano.tmd)
-- [ ] **P181 大禮奉祝歌 (大禮奉祝歌 — 謄寫版)**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p181_tairei_hoshukuka/index.md) · [主譜 TMD](shokacho/vol_01/p181_tairei_hoshukuka/tairei_hoshukuka.tmd) · [伴奏 TMD](shokacho/vol_01/p181_tairei_hoshukuka/tairei_hoshukuka_piano.tmd)
-- [ ] **P182 明治節唱歌 (明治節唱歌 — 謄寫版)**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p182_meijisetsu_shoka/index.md) · [主譜 TMD](shokacho/vol_01/p182_meijisetsu_shoka/meijisetsu_shoka.tmd) · [伴奏 TMD](shokacho/vol_01/p182_meijisetsu_shoka/meijisetsu_shoka_piano.tmd)
-- [ ] **P184 文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p184_tairei_hoshuku_shoka/index.md) · [主譜 TMD](shokacho/vol_01/p184_tairei_hoshuku_shoka/tairei_hoshuku_shoka.tmd) · [伴奏 TMD](shokacho/vol_01/p184_tairei_hoshuku_shoka/tairei_hoshuku_shoka_piano.tmd)
-- [ ] **P185 明治節唱歌 (明治節唱歌 — 印刷譜)**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md) · [主譜 TMD](shokacho/vol_01/p185_meijisetsu_shoka_printed/meijisetsu_shoka_printed.tmd) · [伴奏 TMD](shokacho/vol_01/p185_meijisetsu_shoka_printed/meijisetsu_shoka_printed_piano.tmd)
-- [ ] **P186 青年團御大禮奉祝歌 (青年團御大禮奉祝歌)**（`F` / `4/4`）— [單曲頁](shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/index.md) · [主譜 TMD](shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/seinendan_gotairei_hoshukuka.tmd) · [伴奏 TMD](shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/seinendan_gotairei_hoshukuka_piano.tmd)
+- [x] **P179 卒業式 (畢業典禮)**（`F` / `4/4`）— [單曲頁](shokacho/vol_01/p179_sotsugyoshiki/index.md) · [主譜 TMD](shokacho/vol_01/p179_sotsugyoshiki/sotsugyoshiki.tmd) · [伴奏 TMD](shokacho/vol_01/p179_sotsugyoshiki/sotsugyoshiki_piano.tmd) — 已對照 P179.jpg 重轉真實四節歌詞並校對旋律
+- [x] **P181 大禮奉祝歌 (大禮奉祝歌 — 謄寫版)**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p181_tairei_hoshukuka/index.md) · [主譜 TMD](shokacho/vol_01/p181_tairei_hoshukuka/tairei_hoshukuka.tmd) · [伴奏 TMD](shokacho/vol_01/p181_tairei_hoshukuka/tairei_hoshukuka_piano.tmd) — 已對照 P181.jpg / P184.jpg 重轉旋律與伴奏並補齊歌詞
+- [x] **P182 明治節唱歌 (明治節唱歌 — 謄寫版)**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p182_meijisetsu_shoka/index.md) · [主譜 TMD](shokacho/vol_01/p182_meijisetsu_shoka/meijisetsu_shoka.tmd) · [伴奏 TMD](shokacho/vol_01/p182_meijisetsu_shoka/meijisetsu_shoka_piano.tmd) — 已對照 P182.jpg 重用已驗證〈明治節〉樂譜與歌詞
+- [x] **P184 文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p184_tairei_hoshuku_shoka/index.md) · [主譜 TMD](shokacho/vol_01/p184_tairei_hoshuku_shoka/tairei_hoshuku_shoka.tmd) · [伴奏 TMD](shokacho/vol_01/p184_tairei_hoshuku_shoka/tairei_hoshuku_shoka_piano.tmd) — 已對照 P184.jpg 印刷伴奏譜重轉旋律與伴奏並補齊歌詞
+- [x] **P185 明治節唱歌 (明治節唱歌 — 印刷譜)**（`D` / `4/4`）— [單曲頁](shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md) · [主譜 TMD](shokacho/vol_01/p185_meijisetsu_shoka_printed/meijisetsu_shoka_printed.tmd) · [伴奏 TMD](shokacho/vol_01/p185_meijisetsu_shoka_printed/meijisetsu_shoka_printed_piano.tmd) — 已對照 P185.jpg 重用已驗證〈明治節〉樂譜與歌詞
+- [x] **P186 青年團御大禮奉祝歌 (青年團御大禮奉祝歌)**（`B,` / `2/4`）— [單曲頁](shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/index.md) · [主譜 TMD](shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/seinendan_gotairei_hoshukuka.tmd) · [伴奏 TMD](shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/seinendan_gotairei_hoshukuka_piano.tmd) — 已對照 P186.jpg 修正為變ロ長調 2/4 拍並重轉真實旋律與四節歌詞
 
 ### 原編第 2 冊・II（2020.006.0843，P065–P112）（0 / 35 首） {#shokacho_vol_02}
 

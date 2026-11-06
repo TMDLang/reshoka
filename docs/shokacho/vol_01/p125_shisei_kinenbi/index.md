@@ -1,7 +1,7 @@
 ---
 title: "始政紀念日 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "始政紀念日"
-description: "〈始政紀念日〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、扶桑の空に高光る　我が日の御子の政事（まつりごと） 始めて茲に敷きましし　よき日を祝へ萬歳に…"
+description: "〈始政紀念日〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、高砂島の　民草が あまねきめぐみの　露うけて…"
 keywords: "始政紀念日, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -22,7 +22,7 @@ audio: "shisei_kinenbi.mp3"
 ## 說明
 
 原書資訊與歌詞全文（對應 P125.jpg，印刷五線譜＋簡譜對照第 9 頁）：
-調性與拍號：ハ調四分之四拍子（C 大調 4/4 拍），速度 ♩=100
+調性與拍號：ハ調四分之四拍子（C 大調 4/4 拍），♩=100
 
 ## 跨冊／重複收錄參照
 
@@ -35,12 +35,20 @@ audio: "shisei_kinenbi.mp3"
 ## 歌詞
 
 ```text
-一、扶桑の空に高光る　我が日の御子の政事（まつりごと）
-始めて茲に敷きましし　よき日を祝へ萬歳に
-二、内外の海の隔てなき　明治の光り隈もなく
-臺灣島に輝きし　譽を歌へ萬歳に
-三、昔の御代に例なき　よき日は今日のよきひなり
-萬の國に轟きし　譽はけふのほまれなり
+一、高砂島の　民草が
+あまねきめぐみの　露うけて
+よみがへりたる　よろこびを
+うたふけふこそ　めでたけれ
+
+二、いやさかへゆく　此の島の
+すがたを庭の　木々に見て
+今日をことほぐ　人のこゑ
+どよむちまたぞ　にぎはしき
+
+三、すめら御國の　にひじまの
+民てふほまれ　忘るなと
+さとすがごとく　あふぎ見る
+日のみはたこそ　たふとけれ
 ```
 
 ## ABC
@@ -54,16 +62,28 @@ Q:1/4=100
 K:C
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
-G6 G2 c4 G4 | A6 A2 G8 | E6 E2 D4 C4 | G12 z4 |
+G6 G2 c4 G4 | A6 A2 G8 | E6 E2 D4 C4 | G,12 z4 |
+w: 1.~タ カ サ ゴ | ジ マ ノ | タ ミ ク サ | ガ
+w: 2.~い や さ か | へ ゆ く | こ の し ま | の
+w: 3.~ス メ ラ ミ | ク ニ ノ | ニ ヒ ジ マ | ノ
 G6 G2 c4 G4 | A6 A2 G8 | E6 E2 D4 E4 | C12 z4 |
+w: 1.~ア マ ネ キ | メ グ ミ | ツ ユ ウ ケ | テ
+w: 2.~す が た を | に は の | き ぎ に み | て
+w: 3.~タ ミ テ フ | ホ マ レ | ワ ス ル ナ | ト
 D6 D2 D4 D4 | C4 E4 G8 | A6 A2 G4 ^F4 | G12 z4 |
-c6 c2 B4 A4 | G6 G2 E8 | E4 D4 G6 G2 | C12 z4 |
+w: 1.~ヨ ミ ガ ヘ | リ タ ル | ヨ ロ コ ビ | ヲ
+w: 2.~け ふ を こ | と ほ ぐ | ひ と の こ | ゑ
+w: 3.~サ ト ス ガ | ゴ ト ク | ア フ ギ ミ | ル
+c6 c2 B4 A4 | G6 G2 E8 | E4 D4 G6 G,2 | C12 z4 |
+w: 1.~ウ タ フ ケ | フ コ ソ | メ デ タ ケ | レ
+w: 2.~ど よ む ち | ま た ぞ | に ぎ は し | き
+w: 3.~ヒ ノ ミ ハ | タ コ ソ | タ フ ト ケ | レ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shisei_kinenbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGRKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdmbkFqai6IeLJqUWpufl5YBktLYWny7ufTdn_fEvD0_1bn01fqqClxaVoq2BoYMBlb6vgzGVjom9iBzLhRfuu542Ln-_Y-3zu4qe75qBpezpl47O1PWCrIMzna9terJjxdMe093s6IFqfrp3wZN_sJzumPZ_a83zJvucz97xY2PN-T4-RgZGBnoGBmZ6BhYnx-z2doDDVyypIB2p8vmaNgqXCywWNQGElLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oGufrFy3tPWFc-mtQMtf7qh91l7pwLCOT1Pezc87dj-ZNeU59tnvVg75_2e7ucbFgIZQJXPW5cjO_b9nlkgC16s2v-sYTnI6O7eFzPnA0UfN_cDBZ_Onv20o-3Jzm4gAygFDBmgfc4KT5csB0oqAENcASgKNqbnZcP8p7uWKTyaudIWFCcgU5_saHjc0Pisc9uzhRMfN657vnLX48bVL1fPeNra-bip-3FDw7MOoHgPMFaAsk_3LQQaD2QAY-vJrm6gPY8b9z1uXPK4qetx45THjSuA1oAMBQFgnD5uanzcuOxFzyagkc-mbn_c2AtWPh2EGhoeNwF194IMbpr0fOncx407XkxY82ztZqBisMN29QAd9rSt9emSaSAbtwL1r3s5C2jLsseNq0BmAd02o-_Zpt0gh4Fc2_VyVsfjpiawbD_MGdDksnkb0NgXe4C2AN0Asv3F2r1Ae4GxhGHvjk5QgMwAWgTy75Pdi4EST_Z1wy1FuLtx_ZPdXZCQgQg-bgR6dRXQJXDbJ6wBGTMHqHv1i73zUWxvXP-4ERi0W0G6G4Ge2Pe4CegYmG7KEyUUKGjpc3EFZ2QWp2Z6Z-al5iVlWoXlJyfmONQY1ChUgx1qY6FlB2ZgyxMKwKQITCTA7KWgYaLwdEP_8_UNOvCErIlFA9BCkGE1CqYKukBoqmAYB6Z0gUJmYCEzqBRIxBhMGysYAUlDsAhMDgQNQCLghIrbcbt66OI4ELsG7ERSHLejkxzHgezTBZIgGoQh9oJcgHAbsmtN1MkJOWCBQY7jwCEGjKw4BXOwAxA2m0IDDBZ0IKfDZLAFXS0Xl66dAkriVAAKKHMBAA)]
-- [鋼琴伴奏 TMD 檔案](shisei_kinenbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vPvZlP3PtzQ83b_12fSl7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMDLntbBWcuGxN9EzuuOgWlF-27njcufr5j7_O5i5_umoNm1tMpG5-t7VECKYQwn69te7FixtMd04C2QLQ-XTvhyb7ZT3ZMez615_mSfc9n7nmxsOf9nh4jAyMDPQMDMz0DCxNjoAsCDI1M9bIK0oEan69Zo2Cp8HJBI1BYiYsrOCOzODXTOzMvNS8p0yosPzkxx6HGoEahmksBCGwstOzAjBoFUwVdIDRVMIwDU7pAITOwkBlUCiRiDKaNFYyApCFYBCYHggYgEXKNA7FrwIZiMw6kQhdIgmgQhqgE6UGYhmy-iTpe14FdBfRCnII5WAtCrSnUUTDngSyDyWBzXi16EAdkJublB3lgD2Rjbbgt2mA3QARqFEy0Ya6HKQH7URsWQubx2ogwB3HgqtC9RrEVYAHcMQFVBgoZKBNKQbRAtCPbYKIOtxjiakNtaOwQ8Acikoy0QdEE8QCyD2GOR3gEyUlwVcRHmw9KtJnAo80wHoGAHooHIRgPQpvGxyuYATEwGQFJI4iAASK9EWUACIP5IAaQQuiHyaKoQjIRaCEc4XUCSAxoN7p-rOYjuQIYXLp2CighpkCUgDIXAA)]
+- [主旋律 TMD 檔案](shisei_kinenbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGRKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlVJRirQ7Zm5BUD9iTno4smpRam5-XkoMjn5yYngkChJzCxPBBqlpaXwdHn3syn7n29peLp_67PpSxW0tLgUbRUMDQy47G0VnLlsTPRN7EAGvGjf9bxx8fMde5_PXfx01xw0bU-nbHy2tgdsE4T5fG3bixUznu6Y9n5PB0Tr07UTnuyb_WTHtOdTe54v2fd85p4XC3ve7-kxMjAy0DMwMNMzsDAxfr-nExTgelkF6UCNz9esUbBUeLmgESisxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQ1S9WznvauuLZtHag5U839D5r71RAOKfnae-Gpx3bn-ya8nz7rBdr57zf0_18w0IgA6jyeetyZMe-3zMLZMGLVfufNSwHGd3d-2LmfKDo4-Z-oODT2bOfdrQ92dkNZAClgCEDtM9Z4emS5UBJBWCIKwBFwcb0PJq50hYUGSDjnuxoeNzQ-HL1jOcLmp5u3va4cd3jhoZnGya-6O183NgDUgECjxubHjfue9y49nFj7-OmxseNEx437oeofTln0-PGtseNEx83LoMrb-oAy_c8btzxuKnrceP8x03dQLUg8abex42THzduftw0CWE6UP_8x41bwaYASaD8XLByoE3LwVITHzf1QNy7qwfo3seNLY-bWh43Tn3c2A22A2hAP8jha5cAXQXxB8L0mWCXAN0w6ekuoA_APpyz4nFD6-PG1S-WAQ2AO_zJ7i5gwgMqBLthxePG3SCvNjQ82bULpA8o2DQRYe5KsH8aHjcuBAcO0JnzQK5uXP24se9x4_rHjdOBwQUN5U6wq2eCvNTU-XTfwqdzgPaCXAJWDgzCGWAz4K4GRgHQXeDQALphH9D7QLVP988ABWTjKqDbEM4ABgLQpRBPTgGzQUEBjjKg7j6QD5u64eYCvQfyCTB2gA4EOhkW1tAIAOoGhzVQKeUZAgoUtPS5uIIzMotTM70z81LzkjKtwoClRo5DjUGNQjXYZTYWWnZgBrb8qADMBsB0CszaCiYKTzf0P1_foAPPQ1iUA60DGVWjYKqgC4SmCoZxYEoXKGQGFjKDSoFEjMG0sYIRkDQEi5jGQyVB0AAkBDbPx7AGmLL3g0UfN60G4q1g1hawpsdNOyAyzfOAuA9uPFxH83wgez1YB0gfSGYNkj0gO6H2GAHlGlug9rSAYhjEauyG6GqE2tPUBmT3I-xpnAwRb1wHxNPBrH1QmXXY7TEGuWEn1HULgXgl1J0Q14HcCuJ3o_oHyIeIT4L6GeRjiAxMFcIe_HG6q4cOcQpi14BjFleULoJ6CBRxveCgXQv10EJoUG-ABgvEiyAZaPQ0LwPKLgOr2QiVacMe2OBInQnR1dgDxGDzmiZBdDWuhsqsR4oukDjIPSDxPqgaYM6FyoBsxRWpSEkO7J7HzaAkBHLdbCS_wpIfSBwa2cDk8LgZbE9zF1SmA8MeAhm1k_RIBcWTLpAE0SAMiS9QzCHiFDmWTdTBQjBJLJHavAIRBOB89rh5BtRDq8AeBQURxKuwIIDpWAuU3QxmgXIUSGYT9qAGR-lEiK7GrdDIhORDkAzIPGDpDSYnIOxphJgGkodENVxHE8Qs7FEKKjNAbuqA5lmIr0AyoPIHEk2wPAsRhyXrqUA22B5Yzob7msgoBbYoSI9ScP4ElqhxCuZAChR5iLwLyZ6wjAqKcKhMPIGcCknzoMiDpGhErgPxQPzNQLwXEQjgHPy4uR2qC6JmI1gGX-ELKghBKkGB3QBiNYLMAcmAilQQH5isGkHFHixSIXkTVDqA8jBEzXSkHIw1UoFFKCSKgLkbWr6ACnTkagbNP9BkC_Y7NGfi9k8tF5eunQJKxasAFFDmAgA)]
+- [鋼琴伴奏 TMD 檔案](shisei_kinenbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vPvZlP3PtzQ83b_12fSl7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMDLntbBWcuGxN9EzuuOgWlF-27njcufr5j7_O5i5_umoNm1tMpG5-t7VECKYQwn69te7FixtMd04C2QLQ-XTvhyb7ZT3ZMez615_mSfc9n7nmxsOf9nh4jAyMDPQMDMz0DCxNjoAsCDI1M9bIK0oEan69Zo2Cp8HJBI1BYiYsrOCOzODXTOzMvNS8p0yosPzkxx6HGoEahmksBCGwstOzAjBoFUwVdIDRVMIwDU7pAITOwkBlUCiRiDKaNFYyApCFYxDQeKgmCBiAhsHk-hjUKj5v2g0UfN60G4q1g1hawpsdNOyAyzfOAuA9uPFxH83wgez1YB0gfSGYNkj0gO6H2GAHlGlug9rQA2VNBrMZuiK5GqD1NbUB2P8KexskQ8cZ1QDwdzNoHlVmH3R5jkBt2Ql23EIhXQt0JcR3IrSB-N6p_gHyI-CSon0E-hsjAVKHaQ0Y8gNg14NjAFQ2LoI4ABXYvODjWQh2xEBo8G6BegTgLJAMN0uZlQNllYDUboTJt2AMIHBEzIboae4AYbF7TJIiuxtVQmfVIQQwSB7kHJN4HVfO4EZQEQDIgW3FFBFIyAbvncTMo2kGum43kV1iSAYlDIwgYhY-bwfY0d0FlOrDaUwMOW10gCaJBGBLGoNBGxANyzJiog4VgklgionkFwtng9Py4eQbUEavAjgN5C-I8mLNhOtYCZTeDWaCUC5LZhD14wNEwEaKrcSs0AiDpHSQDMu9x424wOQFhTyPENJA8JHrgOpogZmGPBlDeBLmpA5o3IL4CyYDyOSRoYXkDIg5LilOBbLA9sBwE9zV6NIDzAbC0iVMwB1KgAEfkEUg2gGUIUCRBZeIJ5AhI2gIFOCTlIFI3iAfibwbivQiHg3PK4-Z2qC6Imo1gGXwFE6iQAKkEBVADiNUIMgckAypuQHxgUmgEFQmwiIDkAVAuBOUViJrpSDkFa0QAixdIsAJzETQfgwo75CIYzT_QpAb2OzQH4PZPLXo1EpCZmJcf5IG9IjHWhkePNjjyIAI1CibasOwCUwLOVNqwwsw8XptgvUIF48ECuJJHDUwZKDlBmVAKogWiHdkGE3W4xUZgYUNtaFEA0ghXiOkPRMo20galbYgHkH0IczzCI0hOgqnCntaxx5kPSpyZwOPMMB6BgD6KByEYD0KbxscrmAExKGbiFYwgAgaIXEqUASAM5oMYQAqhHyaLogrJRKCFcITXCSAxoN3o-rGaj-QKYHDp2imghFi0j2GsAqagETZBY7CgMhcA)]
 
 ## 分析
 
@@ -74,10 +94,10 @@ c6 c2 B4 A4 | G6 G2 E8 | E4 D4 G6 G2 | C12 z4 |
 ⏱  Duration:       0:38 (38.4s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  C4 in [ShiseiKinenbi #1 @ m.3, 0:06]
+🎤 人聲音域:    G3 (MIDI 55) – C5 (MIDI 72) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  G3 in [ShiseiKinenbi #1 @ m.4, 0:07]
    - 最高音: C5 in [ShiseiKinenbi #1 @ m.1, 0:01]
-   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+   - 適合: mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      ShiseiKinenbi (38.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
@@ -115,7 +135,7 @@ c6 c2 B4 A4 | G6 G2 E8 | E4 D4 G6 G2 | C12 z4 |
      B  : █                          1.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – C5 (12 個半音 / 1.0 個八度, 48 個音符)
+  - Vocal         : G3 – C5 (17 個半音 / 1.4 個八度, 48 個音符)
 ================================================================================
 ```
 

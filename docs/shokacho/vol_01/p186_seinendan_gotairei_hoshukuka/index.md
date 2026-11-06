@@ -1,104 +1,122 @@
 ---
-title: "青年團御大禮奉祝歌 (青年團御大禮奉祝歌) — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
-song_title: "青年團御大禮奉祝歌 (青年團御大禮奉祝歌)"
-description: "〈青年團御大禮奉祝歌 (青年團御大禮奉祝歌)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カミヨナガラノ スメラギノ ミイツハ四方ニ カガヤケリ アラタマノ世ノ 大御代ノ タカキミクラヲ アフギ見ヨ…"
-keywords: "青年團御大禮奉祝歌 (青年團御大禮奉祝歌), 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+title: "青年團御大禮奉祝歌 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
+song_title: "青年團御大禮奉祝歌"
+description: "〈青年團御大禮奉祝歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：川路柳虹、曲：中山晉平），調號拍號：Bb 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、空（そら）玲瓏（れいろう）と晴（は）れわたり 足（た）り穗（ほ）黃金（こがね）に實（みの）りたり…"
+keywords: "青年團御大禮奉祝歌, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 川路柳虹, 中山晉平"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
-musical_key: "F"
+musical_key: "Bb"
 image: "P186.jpg"
 audio: "seinendan_gotairei_hoshukuka.mp3"
 ---
 
-# 青年團御大禮奉祝歌 (青年團御大禮奉祝歌)
+# 青年團御大禮奉祝歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="seinendan_gotairei_hoshukuka.mp3"></audio>
 
-- 詞曲作者：未在 TMD metadata 中提供
+- 詞：川路柳虹
+- 曲：中山晉平
+- 唱歌筆記帖（臺灣子供世界社發行，2020.006.0843）P186.jpg（大阪朝日新聞社寄贈印刷譜）
 
 ## 說明
 
-青年團御大禮奉祝歌 (青年團御大禮奉祝歌)
-Source: 唱歌帖 (2020.006.0843), P186.jpg
-Credits: 川路柳虹 作歌 / 中山晉平 作曲 / 大阪朝日新聞社寄贈
-Tempo / Expression: 嚴肅莊重に M.M. ♩=80
+原書資訊與歌詞全文（對應 P186.jpg 印刷五線譜＋簡譜對照及右側四節歌詞）：
+調性與拍號：變ロ長調（Bb 大調）2/4 拍子，「嚴肅莊重に M.M. ♩=80」
 
 ## 歌詞
 
 ```text
-1.
-カミヨナガラノ スメラギノ ミイツハ四方ニ カガヤケリ
-アラタマノ世ノ 大御代ノ タカキミクラヲ アフギ見ヨ
-シキシマノヤマトノクニノ ワカウドワレラ ワカウドワレラ
-コゾリテタタヘ タタヘマツラム
+一、空（そら）玲瓏（れいろう）と晴（は）れわたり
+足（た）り穗（ほ）黃金（こがね）に實（みの）りたり
+祝（いは）へ、この朝（あさ）、大君（おほぎみ）は
+天（あま）つ御位（みくらゐ）つがせます
 
-2.
-あきつしまねの あさひこは あまねく四方を てらしけり
-うましみくにの 大御代の ひろきみめぐみ あふぎ見よ
-しきしまのやまとのくにの わかうどわれら わかうどわれら
-こぞりてうたひ うたひまつらむ
+二、雲（くも）ひらけゆく蒼空（あをぞら）の
+光（ひか）り四海（しかい）を照（てら）したり
+仰（あふ）げ、かゞやく高御座（たかみくら）
+わが日（ひ）の本（もと）のいしずゑを
 
-3.
-トヨサカノボル ヒノモトノ チカラハ四方ニ アフレタリ
-イツクシキ世ノ 大御代ノ ナガキミサカエ アフギ見ヨ
-シキシマノヤマトノクニノ ワカウドワレラ ワカウドワレラ
-コゾリテツカヘ ツカヘマツラム
+三、いざ、たゝえなむ、祝（ほ）がむ
+日（ひ）に新（あらた）なる日（ひ）の本（もと）の
+正（ただ）しき歩（あゆ）み統（す）べたまふ
+御稜威（みいづ）かしこき大君（おほぎみ）を
+
+四、今日（けふ）ぞ、榮（はえ）ある祝（いは）ひの日（ひ）
+歡呼（かんこ）は町（まち）に野（の）に充（み）てり
+歌（うた）へ、あまねき御榮（みさかえ）の
+千代（ちよ）にかはらぬ慶（よろこ）びを
 ```
 
 ## ABC
 
 ```abc
 X:1
-T:青年團御大禮奉祝歌 青年團御大禮奉祝歌
-M:4/4
+T:青年團御大禮奉祝歌
+C:曲：中山晉平
+M:2/4
 L:1/16
 Q:1/4=80
-K:F
+K:Bb
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
-F2 G A4 G2 F2 D5 | C4 D4 F4 z4 | G2 G c4 A2 c2 ^G5 | A12 z4 |
-F2 G A4 G2 F2 D5 | C4 D4 F4 z4 | G2 G c4 A2 F2 G5 | F12 z4 |
-d2 d c4 A2 G2 F5 | D4 F4 C4 z4 | D2 D2 F4 D2 F2 G4 | A12 z4 |
-G2 A G2 F D2 D2 F6 | G2 A c4 d4 z5 | f2 d c4 d2 c A6 | c4 G2 G2 c4 z4 |
-A2 G F4 D2 F D6 | C2 F2 A2 G F4 z5 |
+d3 d B3 c | d3 f g3 c' | b3 b g3 d | f6 z2 |
+w: 1.~ソ ラ レ イ | ロ ウ ト ハ | レ ワ タ リ | _
+w: 2.~く も ひ ら | け ゆ く あ | を ぞ ら の | _
+w: 3.~い ざ た た | え な む ほ | が _ _ む | _
+w: 4.~け ふ ぞ は | え あ る い | は ひ の ひ | _
+B3 B c3 d | f3 f b3 g | f3 f d3 c | B6 z2 |
+w: 1.~タ リ ホ コ | ガ ネ ニ ミ | ノ リ タ リ | _
+w: 2.~ひ か り し | か い を て | ら し た り | _
+w: 3.~ひ に あ ら | た な る ひ | の も と の | _
+w: 4.~か ん こ は | ま ち に の | に み て り | _
+f3 f d'3 c' | b3 c' b3 g | b3 c' b3 g | f6 z2 |
+w: 1.~イ ハ ヘ コ | ノ ア サ オ | ホ ギ ミ ハ | _
+w: 2.~あ ふ げ か | が や く た | か み く ら | _
+w: 3.~た だ し き | あ ゆ み す | べ た ま ふ | _
+w: 4.~う た へ あ | ま ね き み | さ か え の | _
+d3 d B3 c | d3 f b3 g | f3 d d3 c | B6 z2 |
+w: 1.~ア マ ツ ミ | ク ラ ヰ ツ | ガ セ マ ス | _
+w: 2.~わ が ひ の | も と の い | し ず ゑ を | _
+w: 3.~み い づ か | し こ き お | ほ ぎ み を | _
+w: 4.~ち よ に か | は ら ぬ よ | ろ こ び を | _
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](seinendan_gotairei_hoshukuka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGFGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoKASl5aWwsu5k57u3PJ0zoyn-xY-XbL8-bJ1T5d2Pl8699naHgUNPJKaClpaXIq2ChYGXPa2Cm5cNib6JnZcXPpaXAoK5BsK0hwMCRSFp1M2AoWe7pimoGFkYGSgZ2BgpmdgYWKsqaMACkW9rIJ0kHLnIpC3i4Hqt899sX39s_mbX8zcqfBk7xyQZfoKT3asfbpx47OZnU93bgaLzt4EFAXa-3LGqmdz5j6bvvTZtA0vGuc9X7Lv6fqWF1s6QGaGpOYW5AOVuVYUFKUWgwNQ4emsLS-aWl_0db1s733cuFrBV89XT-HRzJW2wBAA6fGpLMpMLrYCMQ31QOTjptWPm-c_bl7xuLnrcdOax80rHzf3AUV3Pm5eCOI0rQPzgUqaljxubnnc3P909uxn04DS3WC9IC1LHjdtfNy8CmLcIrCu_Y-b5wE1PtkxDaQd6BFgMD7ZvRhi9n6wxrVgQ9eDbdwE0TgVaN2LZd1A10DM2g5SBSTBZoHsATE6QGyQPqA6kMvWg01b9ri5E8RuBnkBuyjEzM2Pm_YBHfu4uQ3sEKBDZ0CcBGKBLQB6EuikBeDwMoIEUmPT40ZgeC553Dj9ceO-x41rHzeug4hOfdy46XHj5MeN6yF8iCQskJomAUWXPW7qBGuc-LipC2JcG1ghUGg_UC0wnkDGIQIJbPamx01AG4EI6LTGx40TgAyIDVsfN_aBAqkJnAjApgBVQdy17nFTC5ixAsSGG_24CcjqBlsLjJv-x009QCdhF4WYCfTPPKBjQW4HSc8HOgfiahALbAEwzjsfNzWAA8kYEkigmFnxuGkrOEkBo2vO4-bVQNFJYA4wdkERB-Q3guWBIYySksCxD4wmUDRAUxI4vQEjGpwMsKYkSJKFpiSwvU0rBiQlgRwK9BQwJcFYKClJS5-LyzcxM88qLD85McehxqBGoRpkhoKNoZmWHZhVo2CooKtgpGAMJEHQCIhBImbxUAFdoBJTGAcuClICggZwNSCNRgqmUD7IOBDbSB3JGJgd6BBuCK1dBDEYYQpMDyEHmYEsQjEJ5iiYSRjOgDsQ4R6wGjABUwTnwBxFfBiBdBhDnYFpMCIAjOHOBnkC2SRwAMSBJZCVmKI4ARjSUBYkNCGxis1BkFBB8xlSnMFjDaQEVTGSi7hqubh07RRAiVYBSCtzAQA)]
-- [鋼琴伴奏 TMD 檔案](seinendan_gotairei_hoshukuka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5d9LTnVuezpnxdN_Cp0uWP1-27unSzudL5z5b26OggUdSU-FRwxSFgMzEvHwFx-Tk_NyCxLzM3NS8EgUtLS5FWwULAy57WwU3LhsTfRM7Li59LS4FBepbBjI0OL-0KDnVSuHplI1ApU93TFPQMDIwMtAzMDDTM7AwMdbUUQgwtDDTyypIByl3LkpNySwpBqrfPvfF9vXP5m9-MXOnwpO9c0CO0Fd4smPt040bn83sfLpzM1h09iagKNA9L2esejZn7rPpS59N2_Cicd7zJfuerm95saUDZGZIam5BPlCZa0VBUWpxcWZ-HtD4WVteNLW-6Ot62d77uHG1gq-er57Co5krbYEho6XPxeWbmJlnFZafnJjjUGNQo1ANMkfBxtBMyw7MqlEwUNDFC-mkAuoaQyDbSMEYKmoExCARs3gko0xhHLgoSAkIwiypAWs0UjCF8kHGQQxGmALTgw7hZkAdZAayCMUkmKNgJmE4A-5AhHvAasAETBGcA3NUDdzXhJwE0mEMdQamwYgAMIY7G-QJZJPAARAHlkBWYoriBGBIQ1mQ0ATJY3cQJFTQfIYUZ_BYAylBVYzkIq5aaGoFZ8AgDxzp1TReGxJsIIY2zMFADtiFEEnjeG2UJAPkwyMFWQ4sDtaBHl1g04wUzHWALG2Yv-E2IoRBKtVRvKkNkkRyFlgtdi56OA4Gr0E1obkUbhPcRHw8dH8ZaptoQ_IR0A6sVsLsQjIEaiXcQ-i2YfgMphiJRtUDFoUKQYMBHmkowY2Dg1E0QMwwhjEMMZyA4h2k0DdGCQhY8CDbAc6hQDXQXIpNuSmq6yB6MGIVKWRhTFQ12BIh2FBgMYw1BBHeREsbCA8j5QJ0U3BmeB9cGd4QXr5iMMx0YCwkZQhBuBBSxQBPTpiq4HLAQIDLYmNhpG96uRAhhGQaFnXoDjTBVILJAKZOuDK8LsQiiRBCCkRSXAjXBmdgcwySOrhJCL_hdSGWIKA8mhH2IIzHbioWjwNTv66dAigDKGChlbkA)]
+- [主旋律 TMD 檔案](seinendan_gotairei_hoshukuka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGFGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKqCosy8ktSU-My84tQikAsQqlLLMlNSQWqKkxPz4stSizLTMlNTkByWWlQMdjLEJSVFiXnFyUWZBaimlGSkAl2fmVsA1J-Ygy6enFqUmpufB5bR0lJ4OXfS051bns6Z8XTfwqdLlj9ftu7p0s7nS-c-W9ujoKXFpWirYGHAZW-r4JTEZWOkb2IHMu3Fynnv98x6un3ui-3rn83f_GLmTrAlz2ZvAgo_2bH26caNz2Z2Pt25GSz8dMpGoGHP17a9WDHj6Y5p7_d0vGjf9bxx8dO1E57sm_1kx7TnU3ueL9n3fOaeFwt73u_pMTIwMtAzMDDTM7AwMX6_pxMU1HpZBelAjUAHvpyx6tmcuc-mL302bcOLxnlAjU_Xt7zY0vG0d8PTju0v1s4B6lDi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeghYCA8bV3xbFo7yF0bep-1dyrAXKoAccyTXVOeb58FdlL38w0LgQyguuety5_2dz3t3_y0ccvT2bOfr2-AmAV0NjDwQFa9WLX_WcNykCXdvS9mzgeKvljX9bh57cup24FSQNuckhSAAQFmdwKjRAGoDhiWwJB73NDzdNaWF02tL_q6Xrb3Pm5creCr56un8GjmSlsLg8cNvVwg85_saHjc0Ph85S6gUY8b5z5uAlrc-bxv0_PJ_SCRpp7HjS2Pm4C624DijxtXPJu5BaxyPYgLlG3qf9w4_3FTF8gsEHixbTNYHuhSoHzX85XTwdzdQO7L3c0v2yeCuZMfNwINXgs2cvXT9cvAgvsfN66D6EI1Epj-wPItUFsbdwBdDDZjHTDywVJNjxungqQaGoFh8XTCbLAg0Jjdjxv7gAaDda2Hmfd0yUqYpn1gmSXA1P5kby_MEf3AQHjcBAxCkBTYobOBKh83zoQE2C5gyDa-BKVuoHKg2iawwk0gTY0THze1AQVfTNoDC9Gmx02THjfOg4Qr0MVwR7QCBYDymx43dkM8DYz_Z1u3gwWnAwWB_gWLTwKmEbDgMpgZQFnk4HmyewPMO1vB8pPAwdP9uAloKzDM-l-uBmfnXRBj5oPNhnoTqB5mDDgme4BZCeIsiGufzVkDTgVAs1dARMDRAHTBrMdNQM9OgqYhUMiDZaaBGUDnzX3cCDRm1eMmcPKCxiAoFYACtKkBZiuqfauB2RgWakAuOA2BzOgm6Cy4eWsXw3y5ABZYvc_WwiK8CZKK9z_fuhEsMhPM3QlWD4zhrfDY2bfw-Yo5T1c0wtIE0GtAFwDVAsMOaCQw7fXiTGnQUAHGJ9DrT3Z3wRw_ERZB84Diz5YB0zooHwHDCSwIdFw3RkoHpo51yH5HeHPh04l7wMLAeAa6ZjIkiT-fAkl1QL8shIToy_Y-sAg4ZwHzWmsrxEtgLjBJwZMRsOABywDTLyTcIbkMlEmAORXk330LYY4GBshUcFBAnI5I1L3NT3ZDImDh4yaI5GqwwvXgCF3zrHUbOOKACFikQBy9GRRgQM2UF81QoKClz8Xlm5iZZxWWn5yY41BjUKNQDXaijaGZlh2Yha1GUHi-Zg2wOATWOwomCk839ANLYx1EKY7VGpBRNQrGCrpAaKxgCKaN4CKmCmYQkTigkGEcmA2kIILGQDFTMAsCDYC4Bmygj2ENMDfuBYs-bl4JxGsg7KYlQD3Ash_KWwZkd0BV9YNloOqa1wNl90PZq4Ay8Uj2gNhQe4yAehr7oaY1AdmboOxOkGmNE6G8NoSqxiaQTNMkKG8eWC2EvQ63PcYg01qg6qYB8Xwoez7YHqgfGlcBTWuAsneDZXqQzAO5pAG3HSZILm7cCnYbhL0exQ6gL5u6oewWsMx6KG8T2A8wNjZ78CecXT2kJxxIgjEEJhnUFGEKSy1mSEKQNAVKXRBt2JMNItofN8-GBttmcKTBEkcvEEODoBkcAc19CD1EJxtoUmnsBurpgrKngwMUEbyIhLIM7AJYUpmOSAJAvfiTDcye1eDIQ06esEQEcjXMTlDEwaMRnKRXQGXwJE9w0oGa0DQZyJ4M1QNJOvugvIVgVyBMQ_D2g32Izz8EypxO0pMOPFVAEgpyEQNkIyUfrIL4Cp4lEJ8Ai5THzTOgvgKnIFg6aVoExFuhbFA6QaS0deA0BdOPPwVBYxOcWWHppBsp2wMbL0gFD6SogMUzKMRhBRcoNeBLQbB0sgCc8iDsXrBpsPQEKuCg6b5xJlhmJ9xWRPxvJZCC2pD07ICywcUl3IS1YJthPgDJTIX7G1FEYU-peFMQsKlBzVoLI6EYE1n4LIJ4oRlYLzRDy3tIEdMELWXBtdkGKBtc_sKKpabdYH0Q9k78SacJlih6kAoIcJYEZnkIbwWiGICW87ConwVUBavZJhFIOrBEAUqIS6FsSBKFmQYqLmBRCsr6oJoLwutD6MdnDzjpLISq60AqVCD2QMMNmMiBrSe4KpBPYbaCXLAZrz21XFy6dgqgBpECkFbmAgA)]
+- [鋼琴伴奏 TMD 檔案](seinendan_gotairei_hoshukuka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5d9LTnVuezpnxdN_Cp0uWP1-27unSzudL5z5b2_N-T8fL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VbAw4LK3VXBK4rIx0jex46pTUHqxct77PbOebp_7Yvv6Z_M3v5i5Uwkk_Gz2JqDwkx1rn27c-Gxm59Odm8HCT6dsBNrwfG3bixUznu6YBrTqRfuu542Ln66d8GTf7Cc7pj2f2vN8yb7nM_e8WAh0SI-RgZGBnoGBmZ6BhYkx0BkBhhZmelkF6UCNQFe_nLHq2Zy5z6YvfTZtw4vGeUCNT9e3vNjS8bR3w9OO7S_WzgHqUOLi8k3MzLMKy09OzHGoMahRqOZSAAIbQzMtOzCrRsFYQRcIjRUMwbQRXMRUwQwiEgcUMowDs4EURNAYKGYKZkGgARDXgA30MaxReNy0Fyz6uHklEK-BsJuWAPU8bl4L5S0DsjugqvrBMlB1zeuBsvuh7FVAmXgke0BsqD1GQD2N_VDTmoDsTVB2J8i0xolQXhtCVWMTSKZpEpQ3D6wWwl6H2x5jkGktUHXTgHg-lD0fbA_UD42rgKY1QNm7wTI9SOaBXNKA2w4TJBc3bgW7DcJej2IH0JdN3VB2C1hmPZS3CewHGBuXPcB4BIsYAqMZNRZNYTFshiQESQegFAHRhj2qEVH1uHk21KubwQENi9BeIIY6uxkcaM19CD1ERzU0ehu7gXq6oOzp4EBABAkicpeBXQCL3umIaAPqxR_VMHtWgwMcOUnBIh7kapidoMCGBz04Ga6AyuBJUuDohprQNBnIngzVA4nufVDeQrArEKYhePvBPiTkH6SYhEQuclYGspGiHKsgvgy-BGI7MOs-bp4BdQk41mFx27QIiLdC2aC4RaSOdeB0ANOPP9ahMQDOFLC47UbKXo-bgLEOz-CQLAmLG1AowQoIUAzii3VY3C4ApxYIuxdsGiwNgAoSaFptnAmW2Qm3FRFnWwnEehuSnh1QNrhYgpuwFmwzzAcgmalwfyOKAtypC1-JjhG5xkRm8kUQa5uBZWYztCyEZOUmaAkELuk3QNngsgmW_Zt2g_VB2DvxR3cTLCJ7kDIiOOkDsxaEtwKR3aBlICy6ZgFVwUr9SQSiGxaRoMSzFMqGJCuYaaBsCYsGUBYDleoQXh9CPz57wNG9EKquAynzQuyBhhswYT5uhIVUB9inMFtBLtiM155aaPUekJmYlx_kgaOCN9SGJQjTeG1EmoAJA1OFtok2Ul1vrG2qjajvgcqgkqDawjxe20gbe7kATFIw4w3B6uCaQEbASyKE4eByB0kKqAeRGOFmYVqDrMdUG7loQzIcyEezCq8kXn8RDECcnjImwlMokeiDEokmiDiMByEwbQKizeLjwRhkZjzQILhT48ECYAZCHi6ETyGKDhSFMJtxGAj0gK6dAsgP0T6GsQpwthES2xiJbQJmK3MBAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 青年團御大禮奉祝歌 青年團御大禮奉祝歌 ]
+📊 TMD Song Profile: [ 青年團御大禮奉祝歌 ]
 ================================================================================
-⏱  Duration:       0:54 (54.0s), 18 measures total
-🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <4/4>
+⏱  Duration:       0:24 (24.0s), 16 measures total
+🎼 Key & Tempo:    首調基準 B,, != 80.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  C4 in [Main #1 @ m.2, 0:03]
-   - 最高音: F5 in [Main #1 @ m.15, 0:42]
-   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (54.0s)
+🎤 人聲音域:    A#4 (MIDI 70) – D6 (MIDI 86) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#4 in [Main #1 @ m.1, 0:00]
+   - 最高音: D6 in [Main #1 @ m.9, 0:12]
+   - 適合: soprano, tenor
+🏛  結構:      Main (24.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  F, D, A, C, G
-   - 調性數值:    F 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 98.0%]
-   - 候選調性 (K-S): F 大調 (0.83), D 小調 (0.77), C 大調 (0.62)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  A#, F, D, C, G
+   - 調性數值:    A# 大調 [相關度: 0.92, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.92), D 小調 (0.62), F 大調 (0.61)
+   - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.83, 自然音純度: 98.0%, 調外音: G#)
+     • [Main #1]: A# 大調 (r: 0.92, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-        [F ]*          G  
-      Bb               D  
+         F            G  
+     [Bb]*              D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -106,27 +124,27 @@ A2 G F4 D2 F D6 | C2 F2 A2 G F4 z5 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████████████         18.0%
+     C  : ██████                     9.2%
      C# :                            0.0%
-     D  : ██████████████████        20.0%
+     D  : ██████████████            21.7%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ████████████████████████  26.0%
+     F  : ████████████████          24.2%
      F# :                            0.0%
-     G  : █████████████             14.0%
-     G# : ██                         2.0%
-     A  : ██████████████████        20.0%
-     A# :                            0.0%
+     G  : █████                      8.3%
+     G# :                            0.0%
+     A  :                            0.0%
+     A# : ████████████████████████  36.7%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – F5 (17 個半音 / 1.4 個八度, 80 個音符)
+  - Vocal         : A#4 – D6 (16 個半音 / 1.3 個八度, 52 個音符)
 ================================================================================
 ```
 
 
 ## 原書掃描頁
 
-![青年團御大禮奉祝歌 (青年團御大禮奉祝歌) — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳） 原書掃描頁 P186.jpg](P186.jpg)
+![青年團御大禮奉祝歌 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳） 原書掃描頁 P186.jpg](P186.jpg)
 
 
