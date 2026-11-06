@@ -14,7 +14,8 @@ audio: "sakura.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="sakura.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="sakura.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sakura_neutrino.mp3"></audio>
 
 - 曲：田村虎藏
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
