@@ -14,7 +14,8 @@ audio: "ume_ni_uguisu.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="ume_ni_uguisu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="ume_ni_uguisu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ume_ni_uguisu_neutrino.mp3"></audio>
 
 - 葛原齒 作詞 / 小松耕輔 作曲
 - 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）
