@@ -1,9 +1,9 @@
-site_name: Re:shōka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫
-site_description: Re:shōka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 21 冊、734 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 21 冊、734 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
-repo_url: https://github.com/tmdlang/reshoka
+# repo_url: https://github.com/tmdlang/reshoka
 
 theme:
   name: material
@@ -569,7 +569,7 @@ nav:
           - 書訊與掃描頁: shintei_jido_shoka/grade_4_2020.006.0847.0004/0_book_info/index.md
           - "1-01 春の小川": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_01_haru_no_ogawa/index.md
           - "1-02 菅公": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_02_kanko/index.md
-          - "1-03 ジャンク": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_03_janku/index.md
+          - "1-03 ジヤンク": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_03_janku/index.md
           - "1-04 蠶": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_04_kaiko/index.md
           - "1-05 初夏の夜": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_05_shoka_no_yoru/index.md
           - "1-06 行軍": shintei_jido_shoka/grade_4_2020.006.0847.0004/1_06_kogun/index.md
@@ -887,5 +887,3 @@ nav:
           - "18 日本": utanohon/ge_2006.006.0878/18_nippon/index.md
           - "19 おばあさん（老奶奶／阿嬤）": utanohon/ge_2006.006.0878/19_obaasan/index.md
           - "20 ひな祭（女兒節／雛祭）": utanohon/ge_2006.006.0878/20_hinamatsuri/index.md
-  - "重新創作":
-      - "公學校唱歌第三年學年組曲": recreations/kogakko_shoka_grade3_suite/index.md
