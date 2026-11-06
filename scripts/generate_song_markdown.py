@@ -1295,6 +1295,16 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                 )
         home_lines.append("")
 
+    if (
+        docs_dir / "recreations" / "kogakko_shoka_grade3_suite" / "index.md"
+    ).exists():
+        nav_lines.extend(
+            [
+                '  - "重新創作":',
+                '      - "公學校唱歌第三年學年組曲": recreations/kogakko_shoka_grade3_suite/index.md',
+            ]
+        )
+
     index_md = docs_dir / "index.md"
     write_song_index_json(docs_dir)
     if not index_md.exists():
@@ -1315,6 +1325,8 @@ def discover_targets(root: Path) -> tuple[list[Path], list[Path], list[Path]]:
     volume_folders: set[Path] = set()
 
     for tmd in root.rglob("*.tmd"):
+        if "recreations" in tmd.parts:
+            continue
         if not tmd.name.endswith("_piano.tmd"):
             song_folders.append(tmd.parent)
             volume_folders.add(tmd.parent.parent)

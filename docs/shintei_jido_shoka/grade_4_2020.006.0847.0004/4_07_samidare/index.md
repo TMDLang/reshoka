@@ -14,7 +14,8 @@ audio: "samidare.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="samidare.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="samidare.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="samidare_neutrino.mp3"></audio>
 
 - 詞：葛原しげる
 - 曲：小松耕輔
