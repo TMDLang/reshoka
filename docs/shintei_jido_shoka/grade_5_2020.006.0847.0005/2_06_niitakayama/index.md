@@ -80,8 +80,8 @@ w: 3.~ミ カ ゲ | ヲ ア フ ゲ | シ マ ビ _ ト | ヨ
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](niitakayama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPJu24eXqGU83blTQ0uJStFUwNDLgsrdVcOayMdE3sQPpe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-bugC6ny6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNk15Sna3c83bnl-ZQV7_d0gEJGDxgyeqCQATIMTN_v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeiuFyvnPW1d8WxaO9AVTzf0PmvvVAgwMDHWyypIf7-nB6j45YJGhQI9BSMDIBfs8B6gw5_NmQ9kK5gpvFw2DejS93tmgUx_sWr_s4blIHO7e1_MnA8Ufdy4_uXU7UDxp7NnP-1oe7KzG8gAyj5dOwFon7PC0yXLgZIKwOBUAIqCTep5NHMlJKhBRj7Z0fC4oeHp-p6ni1c_blwHjI5nC3YCTX02fSmQ-2zOGiAJ9ticbiDrcSOQnP-4qfFx44rHjU2PG7c-bux7sq_tceMakCJ4fD5uagIyni8AqoDo3rwNrHv648alqLonPG4EWjcd4pZdwFhseNzU_7ixB-jwpxNmw6wE6pv8uLEfaCxI3ePG_SB-09zHTb3Ptm8ESTR2PG7qfNy4Aax0GURR1-PG3Y8bgWbMf9y473HjJqAcyGmN655O6AX6EKQI6EiwbqAKoFuAjgKraAIa1gWyCxJAnUgBBESrwDbtfNzUDfEuzItwjSDTgG4GJtMGuC_gzm553LjkcdOkJ7uBTp0EUjGn-9mGiUCdcBVArZNQVGze9mTXLqgKylMpFCho6XNx-WVmliRmJ1Ym5iZaBWQm5uU71BjUVIPsUbCx0LIDM7DlEAVQOt3R8GJhj4KGicLTDf3P1zfowJO1JhYNQNughmkANWpaKTxungoSeNy0A8jsAzEVFGqA3P0Q0dVA0V4go7kfLNw8CSwMVPi4eRGE2QEWh-oEAagVNQqmCrpAaKpgGAdm6AKFzMA0UAAkZwwWgqgyg9LGcBEINACpAZvnYwiyZypYFOZamLEg50LEIe4FsoAOBssAXQyWgToZwoa5GWFPPMIeI5B5IN1AlY09oPSLsKdxN1QcaFojyE5gkoLKdENlpgPxZCi7H-y2Juz2GKP7B2ICxNUQOx83rwTimWDWaqgM1B6gv5B9jd0_-BPOrh6KEk7TekgC6IZE_-PmPZCUsxqScvYDRRZCEghYGJpcpgKZ6yCqHzetBbu7B0vaAaUNeNoxBhE1CkaQdAQUAiUjUCrBSFBGQCFDpGBASz5AJ0MCD-JmRPIBBS4oICGOhiQRiAwsyUDcDVEFczbO5ANOGqAEMBmeGCCmgZImSHwrNMGAkggk-YDsA5ndCWRvgKqaDpZZht0ecPJZAnXdPCBegbCneRXCP2C_gdwMcQFUpnk2wj_N88lKPjs6KSt3uiHpZAmksAGnG4iXwOkE5CNwkkEvjpq2ghhbIIqxFTtGYB8Yg1MElkQCCSKIEKTUAacxePLCmnBguQ7qWkiegwQ1chRAEgtGiQR0Moi1BaoDT7kDLWtA5QywxgSz5kN0Ne6DymwCJwyEPS1QcZg8rDyCRDRIBJTo0RMOyFSof5pBJjxu3gQ1DznBg8Rg9iCyDixpQXwDMQkkA0qARCQcYMOIsnJnOyKFIFVYENGmXbiLnQ3QYgdYoMI1oBc7kDQATApIlRa2cgelfAIqMAcVPHgSENA2RDJBLnlg4q14Sx5oiQB3Oe4EBI1YYOkCKVug9sDFQSUPKKIgiQg1AQHbNtDI7SJYccESECh5IyUTcDICiS-CVm4QWfQQgFaQ0IoYVnIh7Knl4tK1U0BqFikAucpcAA)]
-- [鋼琴伴奏 TMD 檔案](niitakayama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2bcPL1TOebtz4fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDLgsrdVcOayMdE3seOqU1B60b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6AIa93TdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smuKU_X7ni6c8vzKSuAVhoZGBnoGRiY6RlYmJgDGQamQFuVuLj8MjNLErMTKxNzE60CMhPz8oM8HGoMaqq5FIDAxkLLDszQ11KwRQcKIEt2NLxY2KOgYaLwdEP_8_UNOgoBBibGelkF6ZpYNGjpgw2rUTBV0AVCUwXDODBDFyhkBqaBAiA5Y7AQRJUZlDaGi0CgAUgN2DwfwxqFx81TwaKPm3YA2X1wYx837YeKrwaK94JYzf0QmeZJEBmg6sfNi6DsDrAMTD8IxiPsMQKZB9INVNnYA8RdCHsad0PFgaY1gux83LgOKtMNlZkOxJOh7H6w25qw22OM7h-ICRBXQ-x83LwSiGeCWauhMlB7gP5C9jV2_-CP1V095MQqKNbgsWoMImoUjCAxDBQCRTAo_jCi2ggoZIjkQLSIbVoP9VY3WsSCvA3y4n6g-EKwig6oDCwypwLZoEgAqVoLDoge7AEOilhwpIGiZjI8miCmgRINSHwrNCpBkQeJWJB9ILM7gewNUFXTwTLLsNsDjtglUNfNA-IVCHuaVyH8A_YbyM0QF0Blmmcj_NM8n6yI3dFJTsQagc03BscXliiEeAAiBMmt4BQAj3ys0QpLrU1LoKkV4mn0AIJEJUZObtoKZm2B6sCTX6F5FJQ_HzfOBrPmQ3Q17oPKbAJHG8KeFqg4TB6WjyHRABIBJUn0aAWZCvVPM8iEx82boOYhJ0eQGMweRMKGRTzENxCTQDKg5EFEtD6dPZus_AqJHmAsIZXD2DIsSsYGKjAH5Vg8cdu0Hep-UAwiZ1mYeCveLAvNSsDSDaEHe9xCwxyYLSGZEmoPXByUZUFhCIlf1Lh93ATLvl0Ey2JY3IJSHlIMgmMYJL4IWl5DZNFDAFrmQ-sWWJZH2FOLpRb2Qa6FTRC18Iu-rqeztjxd0PR8VvuTnd3AmH_W3ft07YSn25c96-yGtCje7-l5OnHPs_bO532dkPYGUtuj8-n23qebVzzbsPhp9yJEWjCMV4g2jIVRNQomQIYJEh9d3jQeyDKNjwUzDKCBRdgYKB-uG1kHwhS4NCFziHSOGUjWLD4Xj8dwuggYObp2CkjxE-0DlEQXMsIUMgYLKXMBAA)]
+- [主旋律 TMD 檔案](niitakayama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPJu24eXqGU83blTQ0uJStFUwNDLgsrdVcOayMdE3sQPpe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-bugC6ny6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNk15Sna3c83bnl-ZQV7_d0gEJGDxgyeqCQATIMTN_v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeiuFyvnPW1d8WxaO9AVTzf0PmvvVAgwMDHWyypIf7-nB6j45YJGhQI9BSMDIBfs8B6gw5_NmQ9kK5gpvFw2DejS93tmgUx_sWr_s4blIHO7e1_MnA8Ufdy4_uXU7UDxp7NnP-1oe7KzG8gAyj5dOwFon7PC0yXLgZIKwOBUAIqCTep5NHMlJKhBRj7Z0fC4oeHp-p6ni1c_blwHjI5nC3YCTX02fSmQ-2zOGiAJ9ticbiDrcSOQnP-4qfFx44rHjU2PG7c-bux7sq_tceMakCJ4fD5uagIyni8AqoDo3rwNrHv648alqLonPG4EWjcd4pZdwFhseNzU_7ixB-jwpxNmw6wE6pv8uLEfaCxI3ePG_SB-09zHTb3Ptm8ESTR2PG7qfNy4Aax0GURR1-PG3Y8bgWbMf9y473HjJqAcyGmN655O6AX6EKQI6EiwbqAKoFuAjgKraAIa1gWyCxJAnUgBBESrwDbtfNzUDfEuzItwjSDTgG4GJtMGuC_gzm553LjkcdOkJ7uBTp0EUjGn-9mGiUCdcBVArZNQVGze9mTXLqgKylMpFCho6XNx-WVmliRmJ1Ym5iZaBWQm5uU71Oga1lSDLFKwsdCyAzOwZREFUELd0fBiYY-ChonC0w39z9c36MDTtSYWDUDroIZpADVqWik8bp4KEnjctAPI7AMxFRRqgNz9ENHVQNFeIKO5HyzcPAksDFT4uHkRhNkBFofqBAGoFTUKpgq6QGiqYBgHZugChczANFAAJGcMFoKoMoPSxnARCDQAqQGb52MIsmcqWBTmWpixIOdCxCHuBbKADgbLAF0MloE6GcKGuRlhTzzCHiOQeSDdQJWNPaAEjLCncTdUHGhaI8hOYJqCynRDZaYD8WQoux_stibs9hij-wdiAsTVEDsfN68E4plg1mqoDNQeoL-QfY3dP_gTzq4eihJO03pIAuiGRP_j5j2QlLMaknL2A0UWQhIIWBiaXKYCmesgqh83rQW7uwdL2gGlDXjaMQYRNQpGkHQEFAIlI1AqwUhQRkAhQ6RgQEs-QCdDAg_iZkTyAQUuKCAhjoYkEYgMLMlA3A1RBXM2zuQDThqgBDAZnhggpoGSJkh8KzTBgJIIJPmA7AOZ3Qlkb4Cqmg6WWYbdHnDyWQJ13TwgXoGwp3kVwj9gv4HcDHEBVKZ5NsI_zfPJSj47Oikrd7oh6WQJpLABpxuIl8DpBOQjcJJBL46atoIYWyCKsRU7RmAfGINTBJZEAgkiiBCk1AGnMXjywppwYLkO6lpInoMENXIUQBILRokEdDKItQWqA0-5Ay1rQOUMsMoEs-ZDdDXug8psAicMhD0tUHGYPKw8gkQ0SASU6NETDshUqH-aQSY8bt4ENQ85wYPEYPYgsg4saUF8AzEJJANKgEQkHGDLiLJyZzsihSBVWBDRpl24i50N0GIHWKDCNaAXO5A0AEwKSJUWtnIHpXwCKjAHFTx4EhDQNkQyQS55YOKteEseaIkAdznuBASNWGDpAilboPbAxUElDyiiIIkINQEBGzfQyO0iWHHBEhAoeSMlE3AyAokvglZuEFn0EIBWkNCKGFZyIeyp5eLStVNAahcpALnKXAA)]
+- [鋼琴伴奏 TMD 檔案](niitakayama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2bcPL1TOebtz4fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDLgsrdVcOayMdE3seOqU1B60b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6AIa93TdrKetk56vXvp0ysZna3seN3Q_3dD9dMeO58snPl-z5smuKU_X7ni6c8vzKSuAVhoZGBnoGRiY6RlYmJgDGQamQFuVuLj8MjNLErMTKxNzE60CMhPz8oM8HGp0DWuquRSAwMZCyw7M0NdSsEUHCiBbdjS8WNijoGGi8HRD__P1DToKAQYmxnpZBemaWDRo6YMNq1EwVdAFQlMFwzgwQxcoZAamgQIgOWOwEESVGZQ2hotAoAFIDdg8H8MahcfNU8Gij5t2ANl9cGMfN-2Hiq8GiveCWM39EJnmSRAZoOrHzYug7A6wDEw_CMYj7DECmQfSDVTZ2APEXQh7GndDxYGmNYLsfNy4DirTDZWZDsSToex-sNuasNtjjO4fiAkQV0PsfNy8EohnglmroTJQe4D-QvY1dv_gj9VdPeTEKijW4LFqDCJqFIwgMQwUAkUwKP4wotoIKGSI5EC0iG1aD_VWN1rEgrwN8uJ-oPhCsIoOqAwsMqcC2aBIAKlaCw6IHuwBDopYcKSBomYyPJogpoESDUh8KzQqQZEHiViQfSCzO4HsDVBV08Eyy7DbA47YJVDXzQPiFQh7mlch_AP2G8jNEBdAZZpnI_zTPJ-siN3RSU7EGoHNNwbHF5YohHgAIgTJreAUAI98rNEKS61NS6CpFeJp9ACCRCVGTm7aCmZtgerAk1-heRSUPx83zgaz5kN0Ne6DymwCRxvCnhaoOEwelo8h0QASASVJ9GgFmQr1TzPIhMfNm6DmISdHkBjMHkTChkU8xDcQk0AyoORBRLQ-nT2brPwKiR5gLCGVw9gyLErGBiowB-VYPHHbtB3qflAMImdZmHgr3iwLzUrA0g2hB3vcQsMcmC0hmRJqD1wclGVBYQiJX9S4fdwEy75dBMtiWNyCUh5SDIJjGCS-CFpeQ2TRQwBa5kPrFliWR9hTi6Ua9kGphk0Q1fCLvq6ns7Y8XdD0fFb7k53dwKh_1t37dO2Ep9uXPevshrQp3u_peTpxz7P2zud9nZAWB1Lro_Pp9t6nm1c827D4afciRGIwjFeINoyFUTUKJkCGCRIfXd40HsgyjY8FMwygoUXYGCgfrhtZB8IUuDQhc4h0jhlI1iw-F4_HcLoIGDu6dgpIERTtA5REFzLCFDIGCylzAQA)]
 
 ## 分析
 
@@ -89,14 +89,14 @@ w: 3.~ミ カ ゲ | ヲ ア フ ゲ | シ マ ビ _ ト | ヨ
 ================================================================================
 📊 TMD Song Profile: [ 新高山 ]
 ================================================================================
-⏱  Duration:       0:32 (32.0s), 16 measures total
+⏱  Duration:       0:30 (30.0s), 15 measures total
 🎼 Key & Tempo:    首調基準 C, != 120.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
    - 最低音:  C4 in [Niitakayama #1 @ m.8, 0:14]
    - 最高音: E5 in [Niitakayama #1 @ m.5, 0:09]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Niitakayama (32.0s)
+🏛  結構:      Niitakayama (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -104,13 +104,13 @@ w: 3.~ミ カ ゲ | ヲ ア フ ゲ | シ マ ビ _ ト | ヨ
    - 核心骨幹音:  G, C, D, A, E
    - 調性數值:    C 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.86), G 大調 (0.81), E 小調 (0.57)
-   - 五度圈歷程:   +0
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Niitakayama #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Niitakayama #1]: G 調性不明確 (r: 0.84, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-              [C ]*
-         F            G  
+               C  
+         F           [G ]*
       Bb               D  
       Eb               A  
          Ab           E  
