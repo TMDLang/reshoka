@@ -58,6 +58,4 @@ Fujisan:Piano@|0|{
     L2| フ - - - ジ - ハ - | ニ - - ッ ポ - ン - | イ - チ - ノ - - ヤ | マ - - - - - 0 - |
 }
 
--> Fujisan[L1]
-    -> Fujisan[L2]
-    -> #
+-> Fujisan -> #

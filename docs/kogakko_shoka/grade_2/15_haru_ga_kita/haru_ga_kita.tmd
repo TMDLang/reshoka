@@ -60,7 +60,4 @@ HaruGaKita:Piano@|0|{
     L3| ヤ - マ デ ナ - ク - | サ - ト デ ナ - ク - | ノ - デ - モ - - ナ | ク - - - - - 0 - |
 }
 
--> HaruGaKita[L1]
-    -> HaruGaKita[L2]
-    -> HaruGaKita[L3]
-    -> #
+-> HaruGaKita -> #

@@ -66,8 +66,4 @@ PetakoB:Piano@|0|{
     L2| デ - - ス | ア - ス - | ハ - ア サ | カ - ラ - | テ - ル デ | セ - ウ - | ウ - - - | - - 0 - |
 }
 
--> PetakoA[L1]
-    -> PetakoB[L1]
-    -> PetakoA[L2]
-    -> PetakoB[L2]
-    -> #
+-> PetakoA -> #

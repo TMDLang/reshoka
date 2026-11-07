@@ -58,8 +58,4 @@ ToriNoSu:Piano@|0|{
     L4| カ - ゼ - カ - ゼ - | フ - - ク ナ - キ - | モ - - ノ ガ - ナ - | イ - ゾ - オ - 0 - |
 }
 
--> ToriNoSu[L1]
-    -> ToriNoSu[L2]
-    -> ToriNoSu[L3]
-    -> ToriNoSu[L4]
-    -> #
+-> ToriNoSu -> #

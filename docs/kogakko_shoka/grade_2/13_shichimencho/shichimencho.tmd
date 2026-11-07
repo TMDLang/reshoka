@@ -72,6 +72,4 @@ Shichimencho:Piano@|0|{
     L2| き - よ - ろ - つ - | き - よ - ろ - つ - | く - 0 - く - 0 - | く - - - - - 0 - |
 }
 
--> Shichimencho[L1]
-    -> Shichimencho[L2]
-    -> #
+-> Shichimencho -> #

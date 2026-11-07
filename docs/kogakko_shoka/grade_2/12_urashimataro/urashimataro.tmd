@@ -92,9 +92,4 @@ Urashimataro:Piano@|0|{
     L5| タ - - チ マ - チ - | タ - - ラ ウ - ハ - | オ - ヂ - イ - - サ | ン - - - - - 0 - |
 }
 
--> Urashimataro[L1]
-    -> Urashimataro[L2]
-    -> Urashimataro[L3]
-    -> Urashimataro[L4]
-    -> Urashimataro[L5]
-    -> #
+-> Urashimataro -> #

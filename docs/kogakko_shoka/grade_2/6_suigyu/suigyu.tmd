@@ -71,8 +71,4 @@ Suigyu:Piano@|0|{
     L4| オ - - メ メ - ホ - | ソ - - メ テ - イ - | イ - - キ モ - チ - | イ - - - - - 0 - |
 }
 
--> Suigyu[L1]
-    -> Suigyu[L2]
-    -> Suigyu[L3]
-    -> Suigyu[L4]
-    -> #
+-> Suigyu -> #

@@ -61,26 +61,22 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 C3 C F2 A2 | c4 d4 | c3 d c2 A2 | F6 z2 |
-w: オ イ ケ ノ | フ ス | オ モ シ ロ | イ
+w: 1.~オ イ ケ ノ | フ ス | オ モ シ ロ | イ
+w: 2.~オ イ ケ ノ | フ ス | ス ズ シ イ | ナ
 A4 A2 G2 | c2 c2 A2 F2 | G3 A F2 D2 | C6 z2 |
-w: ヒ キ リ | ナ シ ニ ミ | ヅ バ シ ラ | ア
+w: 1.~ヒ キ リ | ナ シ ニ ミ | ヅ バ シ ラ | ア
+w: 2.~カ ニ フ | カ レ テ キ | リ ノ ア メ | エ
 D6 C2 | F6 C2 | A6 F2 | c6 z2 |
-w: シ ユ | ウ シ | ユ ウ | シ
+w: 1.~シ ユ | ウ シ | ユ ウ | シ
+w: 2.~サ ラ | サ ラ | サ ラ | リ
 d2 d4 c2 | A2 A4 F2 | c3 A A2 G2 | F6 z2 |
-w: タ カ ク | ア ガ ツ | テ オ モ シ | ロ
-C3 C F2 A2 | c4 d4 | c3 d c2 A2 | F6 z2 |
-w: オ イ ケ ノ | フ ス | ス ズ シ イ | ナ
-A4 A2 G2 | c2 c2 A2 F2 | G3 A F2 D2 | C6 z2 |
-w: カ ニ フ | カ レ テ キ | リ ノ ア メ | エ
-D6 C2 | F6 C2 | A6 F2 | c6 z2 |
-w: サ ラ | サ ラ | サ ラ | リ
-d2 d4 c2 | A2 A4 F2 | c3 A A2 G2 | F6 z2 |
-w: カ ホ ニ | ア タ ツ | テ ス ズ シ | イ
+w: 1.~タ カ ク | ア ガ ツ | テ オ モ シ | ロ
+w: 2.~カ ホ ニ | ア タ ツ | テ ス ズ シ | イ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](funsui.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdCiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52cj5AuK8stS8xLzgGoKijLzSlJTwIoQClLLMlNSQdKpKZkl-UWZiTlIlqYWFYPcBLEkvqQoMa84uSizAORQJS4tLYXHzVMfN29-3LTzcfOG93s6ns7c8mzDlvd7OhW0tLgUbRUsjbjsbRXcuGyM9E3sQKY-m7702abdz2Y2PZsz_2nrmqdrdzxbsPDplI3P1vYAtT9fs-bJrh6g4NOdWx437wZxdzS_WLUJaCDYTU_ndD9f3f2ifdfzxsVP50x7NnvHyyUrnrbueDG9X4mLS19LwZZagEtBQeFxw4Rnszc9n73uxapVz2b0PW6YCBZt3v20fdeLmVPf75kFccnzHXufz138dNec59tXPG7oQvPW44ZuZG89n7Li_Z4euM8eN3QgB-Hjhk7kUASqfNo3H-hNoHoFQ5NHDZMNTRVeLmgEqgkwMDQD8oGUOVDh44YmqNterNr_rGH5i472Z929L2bOBzrycfMMoCBQi5vC0yXLwUyQwcAYUQCqAbJeNsx_umuZAji6kAxq7nk2cz3IoNmbXi4COnrWs_7-p-tXg7w3Z9KzjQueLpzxYvHC57NaIM4FigDtQE0PIHtAUvM3Pts1AYie7Oh9vnXq44aex03bHzcve9y07HFDIxK79-XqGUAENPDF1u0gz-9bB7T66YSdT_a1gZyloPC0Z9qTvXOeb9nwcs5yoMkvZwNDHGja1sfNK8FGoTKaVwHNfNbd9LKx70V758t9E4Cufbaj9dm2Pc9a5gO9Co6GzhcLe57sXvp09uynG_qfr294PmXjk719L-dvVkgwi1fQVTCNTwCamGAIZ0JckmAMFDAES5kmKLxsmPB8y6ynEyY-2dH1bErD0952oFVAM57O6wZF95T5T7unAsPv-c5VkPAA2bO-4dmmaU-XrASqfLFs2otlu55N7Xg2bw4iCp53djybswaS-kDhP2fNs1VTni3seN60C5Isnk5b96Jx08vmFU92TXm-fdaLtXOe7Ox-un_B0_XLnk3d8WRvLzC4IIaADIWmaYhWYMp8sXLe09YVz6a1AyP5yY61IMaqeS_WrgcmdFAi3ND7rL1TAZTA9LIK0oGRCTbgyY4GsDlNqx43LXnctBHozj6UUgAs1bwIHKtrQWpg3pn0uLnlcdNaYKQAOV1AeSDVDYqr5vmPm1sfN08AawHFHsQCrCkEJxuiZ__jptWPm9YDWUAHrAFZ2NyGw0FAL0K8CwpZbKn5-Zz5z-Z0vti2GKgBEmlAvz-b0_y0ddKTnfOBSflp45xna9tByXTSbqAL0MinczagpWZkA-HBuauHYHDufNy0C-T6piXggIOGJ8ije0BBCFYO5DUD_QvyLDSEgcYAA6F5ITxs8OQRqAqgGbMhJoKCbz88-LA6gKjw27bn6f7VTyc2APW8WLQakp2BoQjM0ZCMDMzFQO6LjjUgjRv6gdkZVGJsmvl0KihO0RggNGcDMDs_nbMCmJ2BOQ0aqEi2gMIV6DjKKwAoUNDS5-JyK80rLs20CshMzMt3qDGoqQaXADaGZlp2YFYNsGAAFgag8kEBVEyASgagGFhIV8EMSsNEzMA0RA1INQwagETA5vkY1oBSBFgUHOjAdAFkAaMUpAcY3RCZ5s2guIGyN4BkYHqaF4HyD5i1FqIHaApWm4zItQnKa9oFswlsA0hPF4ZN0EACeRkEQbQRPEBggQEKihqwOIgP4oFLX3jYYg2k5klQR7WAEj6YBfIMzBmwQOgGk_OhMq1QPRPg8iuhgbQITyCthnoYkudAukCBA5MB5j4w2QZWAw10sFsgwQkxG5gdoXpW4AoksKdhEOx11FQCFYKFJQhCQg6W3LAlJZAvYRBYYkLdAKLhomA1IDejisLUwkyAyEPFkUJnK4oNsPAkQRQaVthCBMiB5SGQJyGehwUAsueNkZIWvpy1H-wFSISCWOuhDgNHURMoIiFOa4E6DRSpIBlQsQpRAwustXAzQKkfW5IBFakw80DJBmEPyBXY7dkJzldI9sBzLyRZQ-yp5eLStVOAlE3RPoaxYIuRRIzgIspcAA)]
+- [主旋律 TMD 檔案](funsui.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdCiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52cj5AuK8stS8xLzgGoKijLzSlJTwIoQClLLMlNSQdKpKZkl-UWZiTlIlqYWFYPcBLEkvqQoMa84uSizAORQJS4tLYXHzVMfN29-3LTzcfOG93s6ns7c8mzDlvd7OhW0tLgUbRUsjbjsbRXcuGyM9E3sQKY-m7702abdz2Y2PZsz_2nrmqdrdzxbsPDplI3P1vYAtT9fs-bJrh6g4NOdWx437wZxdzS_WLUJaCDYTU_ndD9f3f2ifdfzxsVP50x7NnvHyyUrnrbueDG9X4mLS19LwZZagEtBQeFxw4Rnszc9n73uxapVz2b0PW6YCBZt3v20fdeLmVPf75kFccnzHXufz138dNec59tXPG7oQvPW44ZuZG89n7Li_Z4euM8eN3QgB-Hjhk7kUASqfNo3H-hNoHoFQ5NHDZMNTRVeLmgEqgkwMDQD8oGUOVDh44YmqNterNr_rGH5i472Z929L2bOBzrycfMMoCBQi5vC0yXLwUyQwcAYUQCqAbJeNsx_umuZAji6kAxq7nk2cz3IoNmbXi4COnrWs_7-p-tXg7w3Z9KzjQueLpzxYvHC57NaIM4FigDtQE0PIHtAUvM3Pts1AYie7Oh9vnXq44aex03bHzcve9y07HFDIxK79-XqGUAENPDF1u0gz-9bB7T66YSdT_a1gZyloPC0Z9qTvXOeb9nwcs5yoMkvZwNDHGja1sfNK8FGoTKaVwHNfNbd9LKx70V758t9E4Cufbaj9dm2Pc9a5gO9Co6GzhcLe57sXvp09uynG_qfr294PmXjk719L-dvVkgwi1fQVTCNTwCamGAIZ0JckmAMFDAES5kmKLxsmPB8y6ynEyY-2dH1bErD0952oFVAM57O6wZF95T5T7unAsPv-c5VkPAA2bO-4dmmaU-XrASqfLFs2otlu55N7Xg2bw4iCp53djybswaS-kDhP2fNs1VTni3seN60C5Isnk5b96Jx08vmFU92TXm-fdaLtXOe7Ox-un_B0_XLnk3d8WRvLzC4IIaADIWmaYhWYMp8sXLe09YVz6a1AyP5yY61IMaqeS_WrgcmdFAi3ND7rL1TAZTA9LIK0oGRCTbgyY4GsDlNqx43LXnctBHozj6UUgAs1bwIHKtrQWpg3pn0uLnlcdNaYKQAOV1AeSDVDYqr5vmPm1sfN08AawHFHsQCrCkEJxuiZ__jptWPm9YDWUAHrAFZ2NyGw0FAL0K8CwpZbKn5-Zz5z-Z0vti2GKgBEmlAvz-b0_y0ddKTnfOBSflp45xna9tByXTSbqAL0MinczagpWZkA-HBuauHYHDufNy0C-T6piXggIOGJ8ije0BBCFYO5DUD_QvyLDSEgcYAA6F5ITxs8OQRqAqgGbMhJoKCbz88-LA6gKjw27bn6f7VTyc2APW8WLQakp2BoQjM0ZCMDMzFQO6LjjUgjRv6gdkZVGJsmvl0KihO0RggNGcDMDs_nbMCmJ2BOQ0aqEi2gMIV6DjKKwAoUNDS5-JyK80rLs20CshMzMt3qDGoqQaXADaGZlp2YFYNsGAAFgag8kEBVEyASgagGFhIV8EMSsNEzMA0RA1INQwagETA5vkY1oBSBFgUHOjAdAFkAaMUpAcY3RCZ5s2guIGyN4BkYHqaF4HyD5i1FqIHaApWm4zItQnKa9oFswlsA0hPF4ZN0EACeRkEQbQRPEBggQEKihqwOIgP4oFLX3jYYg2k5klQR7WAEj6YBfIMzBmwQOgGk_OhMq1QPRPg8iuhgbQITyCthnoYkudAukCBA5MB5j4w2QZWAw10sFsgwQkxG5gdoXpW4AoksKdhEOx11FQCFYKFJQhCQg6W3LAlJZAvYRBYYkLdAKLhomA1IDejisLUwkyAyEPFkUJnK4oNsPAkQRQaVthCBMiB5SGQJyGehwUAsueNkZIWvpy1H-wFSISCWOuhDgNHURMoIiFOa4E6DRSpIBlQsQpRAwustXAzQKkfW5IBFakw80DJBmEPyBXY7dkJzldI9sBzLyRZQ-yp5eLStVOAlE0KQJYyFwA)]
 - [鋼琴伴奏 TMD 檔案](funsui_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcPPVx8-bHTTsfN294v6fj6cwtzzZsedy8-2X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqWBpx2dsquHHZGOmb2HHVKSg9m7702abdz2Y2PZsz_2nrmqdrdzxbsPDplI3P1vYADXy-Zs2TXT1Awac7QcaCuDuaX6zaBDRQCaT76Zzu56u7X7Tvet64-Omcac9m73i5ZMXT1h0vpvcrcXHpaynYUgtwKSgoPG6Y8Gz2puez171YterZjL7HDRPBos27n7bvejFz6vs9syAueb5j7_O5i5_umvN8-4rHDV1o3nrc0I3sredTVrzf0wP32eOGDuRAfdzQCQ9XoKeBKp_2zQd6E6hewdDkUcNkQ1OFlwsagWoCDAzNgHwgZQ5U-LihCeq2F6v2P2tY_qKj_Vl374uZ84GOfNw8AygI1OKm8HTJcjATZDAwRhSAaoCslw3zn-5apgCOLoRBQM8AfQ_xOlAzZhQDjQYpVVAw1FN42tkLFFfQ8MwrKcrXUTBReLqh__n6Bk2gmie7lz7taHuxfPHzCdtezt_8dMLEJzu6nvXPerF1-9O23hcT9j7Z0Q10xLMVC59NXgPx-bONC0Dk_I3PNk17umQlyDMbtjzvX_Bs6mKg-uezWp7N3PZ84spnLfOhzlVQMNJTeLJjNzC4IS5U0HArzSsuzdRRMDSDukXh8HQFI4Vn67aCHPW0f_Ozzu5ne6YA1YJDeBNQKyi-pnc_3Qd0zuyn25cBFQDd_mxH67N9Hc-2Nj7tngq0GRiPwEB7unbC00k9Lxo3QWyDuoLyVAcFClr6XFzgoLQKyEzMyw_ycKgxqKkG-9TG0EzLDsyqUTCNV9AFQiBlCKSMgRgoBhbSVTCD0jARY7C8EVgEpBoGDUAiXLUo9vngsM8QZF-0YSyQRGKiiJuAmSYQcbD7ok1BHCQminoICXcEJNao52szMA1Rg-lrkHk-hjUKj5tWgUUfNy0B4o0gVnMfWA8wb0JkmjcDZXZC2RtAMjA9zYuA7O1g1lqIHqApWG0yItcmKK9pF8wmsA0gPV0YNkEDCeRlSLTDIh0UELDAAAVFDVgcxAfxzECBCg9brIHUPAnqqBagA0BefdwM8gzMGbBA6AaT86EyrVA9E-DyK6GBtAhPIK2GengP3DxQ4MBkHjevAZNtYDXQQAe7BRKcELMfNy-E6lmBK5DAnoZBsNdRUwlUCBaWIAgJOVhyw5aUQL6EwcfNy6BuANFwUbAakJtRRWFqYSZA5KHiSKGzFcUGWHiSIAoNK2whAuTA8hDIkxDPwwIA2fP4yxNEcOwHewESoSDWeqjDwFHUBIpIiNNaoE4DRSpIZhU4ZyEH1lq4GaDUjy3JPG6eDTcPlGwQ9oBcgd2eneB8hWQPPPdCkjXWoolaBSQR6sFMhGdR5HAVqihmISkyiwezzXKxF8_ItiA5E6_LCIlT0w7SqxNdOwVwtQa2EMiBxGG0j2EsuogRXESZCwA)]
 
 ## 分析
@@ -89,14 +85,14 @@ w: カ ホ ニ | ア タ ツ | テ ス ズ シ | イ
 ================================================================================
 📊 TMD Song Profile: [ フンスヰ（噴水） ]
 ================================================================================
-⏱  Duration:       0:41 (41.7s), 32 measures total
+⏱  Duration:       0:20 (20.9s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Funsui[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Funsui[L1] #1 @ m.2, 0:01]
+   - 最低音:  C4 in [Funsui #1 @ m.1, 0:00]
+   - 最高音: D5 in [Funsui #1 @ m.2, 0:01]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Funsui[L1] (20.9s) -> Funsui[L2] (20.9s)
+🏛  結構:      Funsui (20.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -104,10 +100,9 @@ w: カ ホ ニ | ア タ ツ | テ ス ズ シ | イ
    - 核心骨幹音:  C, F, A, D, G
    - 調性數值:    F 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): F 大調 (0.84), A 小調 (0.73), C 大調 (0.69)
-   - 五度圈歷程:   -1 -> -1
+   - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Funsui[L1] #1]: F 大調 (r: 0.84, 自然音純度: 100.0%)
-     • [Funsui[L2] #1]: F 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Funsui #1]: F 大調 (r: 0.84, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -134,7 +129,7 @@ w: カ ホ ニ | ア タ ツ | テ ス ズ シ | イ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 82 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 41 個音符)
 ================================================================================
 ```
 

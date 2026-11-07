@@ -59,6 +59,4 @@ Kakashi:Piano@|0|{
     L2| ミ - - ミ ガ - ナ - | イ - - ノ カ - ヤ - | マ - - ダ ノ - カ - | カ - シ - イ - 0 - |
 }
 
--> Kakashi[L1]
-    -> Kakashi[L2]
-    -> #
+-> Kakashi -> #

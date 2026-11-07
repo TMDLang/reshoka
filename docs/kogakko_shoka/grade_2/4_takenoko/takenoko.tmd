@@ -63,7 +63,4 @@ Takenoko:Piano@|0|{
     L3| ケ - - フ ハ - ボ - | ク - - ヨ リ - モ - | ウ - - タ カ - イ - | イ - - - - - 0 - |
 }
 
--> Takenoko[L1]
-    -> Takenoko[L2]
-    -> Takenoko[L3]
-    -> #
+-> Takenoko -> #

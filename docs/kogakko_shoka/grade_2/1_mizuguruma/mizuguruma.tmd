@@ -57,6 +57,4 @@ Mizuguruma:Piano@|0|{
     L2| コ - - ト ン - コ - | ト - - ン ト - コ - | メ - - ヲ ツ - ク - | ウ - - - - - 0 - |
 }
 
--> Mizuguruma[L1]
-    -> Mizuguruma[L2]
-    -> #
+-> Mizuguruma -> #

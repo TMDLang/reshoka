@@ -73,8 +73,4 @@ Nazonazo:Piano@|0|{
     L4| 0 - - - そ - - - | れ - - は き ー よ ん | よ - - - - - 0 - |
 }
 
--> Nazonazo[L1]
-    -> Nazonazo[L2]
-    -> Nazonazo[L3]
-    -> Nazonazo[L4]
-    -> #
+-> Nazonazo -> #
