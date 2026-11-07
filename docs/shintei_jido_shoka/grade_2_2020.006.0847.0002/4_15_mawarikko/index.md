@@ -14,8 +14,9 @@ audio: "mawarikko.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="mawarikko.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="mawarikko_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="mawarikko.mp3"></audio>
+
 
 - 詞：松岸寬一
 - 曲：永井幸次

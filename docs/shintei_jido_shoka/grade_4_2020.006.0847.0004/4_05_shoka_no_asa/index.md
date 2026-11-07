@@ -14,8 +14,9 @@ audio: "shoka_no_asa.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="shoka_no_asa.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="shoka_no_asa_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shoka_no_asa.mp3"></audio>
+
 
 - 詞：水田月人
 - 曲：佐々木英

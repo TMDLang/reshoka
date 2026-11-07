@@ -14,8 +14,9 @@ audio: "suiren.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="suiren.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="suiren_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="suiren.mp3"></audio>
+
 
 - 木本森太郎 作詞（鶯歌庄柑園公學校・懸賞募集入選原題〈睡蓮〉）
 - 日治時期公學校唱歌（第三學年・第七課）

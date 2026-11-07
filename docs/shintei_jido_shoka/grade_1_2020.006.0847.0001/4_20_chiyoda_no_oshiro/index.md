@@ -14,8 +14,9 @@ audio: "chiyoda_no_oshiro.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="chiyoda_no_oshiro.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="chiyoda_no_oshiro_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="chiyoda_no_oshiro.mp3"></audio>
+
 
 - 詞：野口雨情
 - 曲：藤井清水

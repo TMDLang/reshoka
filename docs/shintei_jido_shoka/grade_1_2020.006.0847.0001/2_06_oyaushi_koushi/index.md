@@ -14,8 +14,9 @@ audio: "oyaushi_koushi.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="oyaushi_koushi.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="oyaushi_koushi_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="oyaushi_koushi.mp3"></audio>
+
 
 - 詞：三木露風
 - 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）

@@ -18,7 +18,9 @@ def render_studio_url(tmd_file: Path, folder: Path) -> str:
     return run(["tmd", "studio-url", str(tmd_file)], cwd=folder).strip()
 
 
-def render_abc(main_tmd: Path, abc_path: Path, folder: Path, *, force: bool = False) -> str:
+def render_abc(
+    main_tmd: Path, abc_path: Path, folder: Path, *, force: bool = False
+) -> str:
     if force or not is_up_to_date(abc_path, main_tmd):
         run(["tmd", str(main_tmd), "-a", str(abc_path)], cwd=folder)
     abc_raw = abc_path.read_text(encoding="utf-8")
@@ -110,12 +112,14 @@ def render_song_audio(
     if audio_path and has_neutrino_audio:
         piano_label = "鋼琴伴奏版" if audio_is_piano else "原曲伴奏版"
         audio_html = (
+            f'- **NEUTRINO 歌聲合成版**：<br><audio controls src="{html.escape(neutrino_mp3_path.name)}"></audio>\n'
             f'- **{piano_label}**：<br><audio controls src="{html.escape(audio_path.name)}"></audio>\n'
-            f'- **NEUTRINO 歌聲合成版**：<br><audio controls src="{html.escape(neutrino_mp3_path.name)}"></audio>'
         )
     elif has_neutrino_audio:
         audio_path = neutrino_mp3_path
-        audio_html = f'<audio controls src="{html.escape(neutrino_mp3_path.name)}"></audio>'
+        audio_html = (
+            f'<audio controls src="{html.escape(neutrino_mp3_path.name)}"></audio>'
+        )
     elif audio_path:
         audio_html = f'<audio controls src="{html.escape(audio_path.name)}"></audio>'
     elif piano_tmd:

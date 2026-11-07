@@ -14,8 +14,9 @@ audio: "shirasagi.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="shirasagi.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="shirasagi_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shirasagi.mp3"></audio>
+
 
 - 岡田與志松 作詞（懸賞募集入選原題〈飛んだ白さぎ〉）
 - 日治時期公學校唱歌（第三學年・第十五課）

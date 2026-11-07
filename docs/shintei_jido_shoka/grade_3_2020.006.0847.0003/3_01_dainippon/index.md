@@ -14,8 +14,9 @@ audio: "dainippon.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="dainippon.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="dainippon_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="dainippon.mp3"></audio>
+
 
 - 曲：山本壽
 - 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第三學期・第1首）
