@@ -193,7 +193,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             if (docs_dir / rel_path).exists()
         )
 
-        if col_slug in ("kogakko_shokashu_1915", "taiwan_shuyu_shoka"):
+        if col_slug in ("kogakko_shokashu_1915", "taiwan_shuyu_shoka", "taiwan_no_uta"):
             generate_volume_index(col_dir)
             vol_title = VOLUME_TITLES.get(col_slug, col_slug)
             song_dirs = sorted(
