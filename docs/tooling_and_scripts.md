@@ -129,8 +129,16 @@ flowchart LR
 
 ## 三、`scripts/` 目錄下各腳本詳細用法
 
-### 1. [`scripts/generate_song_markdown.py`](../scripts/generate_song_markdown.py) — 單曲頁面、音訊與全站導覽產生器
-專案最核心的建置腳本。負責掃描指定目錄下的 `.tmd` 與 `*_piano.tmd`，自動呼叫 `tmd` 與 `ffmpeg` 產生 `.abc` 五線譜、峰值正規化後的 `.mp3` 音訊、單曲 `index.md`（若目錄下存在 `*_neutrino.mp3`，會自動在頁面同時掛載「鋼琴伴奏版」與「NEUTRINO 歌聲合成版」雙播放器）、冊別總覽 `index.md`、跨冊重複歌曲索引，並更新 `mkdocs.yml` 的 `nav` 導覽樹。
+### 1. [`scripts/generate_song_markdown.py`](../scripts/generate_song_markdown.py)（及 [`scripts/song_markdown/`](../scripts/song_markdown/) 模組）— 單曲頁面、音訊與全站導覽產生器
+專案最核心的建置腳本。`generate_song_markdown.py` 為命令列入口，底層邏輯拆分為 `scripts/song_markdown/` 套件下的六個獨立職責模組：
+
+- [`catalog.py`](../scripts/song_markdown/catalog.py)：全站叢書與冊別標題、典藏說明、卷首卷末掃描頁圖說與課次／學期分類規則
+- [`utils.py`](../scripts/song_markdown/utils.py)：TMD 與掃描圖檔探索、自然排序、外部執行檔定位與快取時間戳檢查
+- [`tmd_parser.py`](../scripts/song_markdown/tmd_parser.py)：TMD 標頭詮釋資料（曲名、詞曲出處、調號、拍號、速度）、區塊註解與歌詞解析
+- [`audio.py`](../scripts/song_markdown/audio.py)：呼叫 `tmd` 與 `ffmpeg` 產生 `.abc` 五線譜、`-1.5 dB` 峰值正規化 `.mp3` 音訊，以及偵測 `*_neutrino.mp3` 掛載「鋼琴伴奏版＋NEUTRINO 歌聲合成版」雙播放器
+- [`song_page.py`](../scripts/song_markdown/song_page.py)：單曲 `index.md`、SEO frontmatter 與跨冊重複收錄參照區塊生成
+- [`volume_page.py`](../scripts/song_markdown/volume_page.py)：各冊 `0_book_info/index.md` 書訊頁與冊別曲目總覽 `index.md` 生成
+- [`site_nav.py`](../scripts/song_markdown/site_nav.py)：更新全站隨機選曲索引 `docs/data/songs.json`、首頁與 `mkdocs.yml` 的 `nav` 導覽樹（含「重新創作」專區）
 
 ```bash
 # 1. 更新全站（預設開啟平行處理，且僅重新轉檔有修改過的 TMD）

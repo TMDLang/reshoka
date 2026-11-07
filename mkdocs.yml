@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫
-site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 23 冊、788 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 23 冊、795 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -212,6 +212,13 @@ nav:
       - "5-08 明治天皇御製": kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/index.md
       - "6-01 金剛石・水は器": kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/index.md
       - "6-02 蛙と蜘蛛": kogakko_shokashu_1915/6_02_kaeru_to_kumo/index.md
+      - "6-03 農商工": kogakko_shokashu_1915/6_03_no_sho_ko/index.md
+      - "6-04 克忠克孝": kogakko_shokashu_1915/6_04_koku_chu_koku_ko/index.md
+      - "6-05 港": kogakko_shokashu_1915/6_05_minato/index.md
+      - "6-06 玉の宮居": kogakko_shokashu_1915/6_06_tama_no_miyai/index.md
+      - "6-07 臺灣の風景": kogakko_shokashu_1915/6_07_taiwan_no_fukei/index.md
+      - "6-08 開校記念日": kogakko_shokashu_1915/6_08_kaiko_kinenbi/index.md
+      - "6-09 卒業の歌": kogakko_shokashu_1915/6_09_sotsugyo_no_uta/index.md
   - 楊金土手抄唱歌帖:
       - 考證與研究筆記: shokacho/research_notes.md
       - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
