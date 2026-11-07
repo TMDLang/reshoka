@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫
-site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 22 冊、773 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 23 冊、788 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -887,6 +887,24 @@ nav:
           - "2-4-06 高嶺": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/index.md
           - "2-4-07 浦のあけくれ": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/index.md
   - 公學校唱歌:
+      - 第一學年用:
+          - 總覽: kogakko_shoka/grade_1/index.md
+          - 書訊與掃描頁: kogakko_shoka/grade_1/0_book_info/index.md
+          - "1 ヒノマル ノ ハタ（日之丸旗）": kogakko_shoka/grade_1/1_hinomaru_no_hata/index.md
+          - "2 ハト（鴿子）": kogakko_shoka/grade_1/2_hato/index.md
+          - "3 メジロ ノ コ（綠繡眼之子）": kogakko_shoka/grade_1/3_mejiro_no_ko/index.md
+          - "4 ユフダチ ヤンダ（西北雨停了）": kogakko_shoka/grade_1/4_yudachi_yanda/index.md
+          - "5 ヒヨコ（小雞）": kogakko_shoka/grade_1/5_hiyoko/index.md
+          - "6 カタツムリ（蝸牛）": kogakko_shoka/grade_1/6_katatsumuri/index.md
+          - "7 ツキ（月亮）": kogakko_shoka/grade_1/7_tsuki/index.md
+          - "8 キ ノ ハ（樹葉）": kogakko_shoka/grade_1/8_ki_no_ha/index.md
+          - "9 ジヤンケン（猜拳）": kogakko_shoka/grade_1/9_janken/index.md
+          - "10 ニンギヤウ（人偶）": kogakko_shoka/grade_1/10_ningyo/index.md
+          - "11 カアレン（加令／八哥）": kogakko_shoka/grade_1/11_karen/index.md
+          - "12 ヒカウキ（飛機）": kogakko_shoka/grade_1/12_hikoki/index.md
+          - "13 コスズメ（小麻雀）": kogakko_shoka/grade_1/13_kosuzume/index.md
+          - "14 イヌ（小狗）": kogakko_shoka/grade_1/14_inu/index.md
+          - "15 モモタラウ（桃太郎）": kogakko_shoka/grade_1/15_momotaro/index.md
       - 第三學年用:
           - 總覽: kogakko_shoka/grade_3/index.md
           - 書訊與掃描頁: kogakko_shoka/grade_3/0_book_info/index.md

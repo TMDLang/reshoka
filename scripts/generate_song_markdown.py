@@ -52,6 +52,7 @@ COLLECTION_TITLES: dict[str, str] = {
 
 VOLUME_TITLES: dict[str, str] = {
     "kogakko_shokashu_1915": "大正四年版（國臺圖 0725 26）",
+    "grade_1": "尋常科 第一學年用（國臺圖 0729 73）",
     "grade_3": "尋常科 第三學年用",
     "grade_1_2020.006.0847.0001": "尋常科 第一學年用（2020.006.0847.0001）",
     "grade_2_2020.006.0847.0002": "尋常科 第二學年用（2020.006.0847.0002）",
@@ -77,6 +78,7 @@ VOLUME_TITLES: dict[str, str] = {
 
 VOLUME_NAV_TITLES: dict[str, str] = {
     "kogakko_shokashu_1915": "大正四年（全一冊）",
+    "grade_1": "第一學年用",
     "grade_3": "第三學年用",
     "grade_1_2020.006.0847.0001": "尋常科 第一學年",
     "grade_2_2020.006.0847.0002": "尋常科 第二學年",
@@ -196,6 +198,15 @@ BOOK_INFO_IMAGE_DESCRIPTIONS: dict[str, dict[str, str]] = {
         "P005.jpg": "「本集ノ使ヒ方」第 1–2 頁（五線譜與數字簡譜音階、拍子、休止符等樂典對照說明）。",
         "P006.jpg": "「本集ノ使ヒ方」第 3–4 頁。",
         "P007.jpg": "「本集ノ使ヒ方」第 5–6 頁。",
+    },
+    "grade_1": {
+        "P001.jpg": "本冊封面（右頁），題「公學校唱歌　第一學年用　臺灣總督府」，左上貼有舊藏圖書分類籤「0729 73」，左下貼有國臺圖條碼籤「3 1111 004775662」。",
+        "P002.jpg": "封面裏（見返頁）。",
+        "P003.jpg": "扉頁，題「公學校唱歌　第一學年用　臺灣總督府」，蓋有「昭和十一年六月二十九日　編修課ヨリ寄贈」藏書章。",
+        "P004.jpg": "扉頁裏留白頁。",
+        "P005.jpg": "目次頁（「モクロク」，原書第 1 頁）：列出「一　ヒノマル ノ ハタ」至「一五　モモタラウ」共 15 首曲名與頁碼。",
+        "P037.jpg": "版權頁：標明「昭和九年三月十日第一版印刷、昭和九年三月十三日第一版發行、昭和十一年二月十日第四版發行」、「公學校唱歌 第一學年用 定價金五錢」、「著作兼發行者 臺灣總督府」、「印刷者 臺北市榮町二丁目十五番地 加藤豐吉」、「印刷所 臺北市京町一丁目四十三番地 小塚本店印刷工場」。",
+        "P038.jpg": "封底外頁。",
     },
 }
 
@@ -1049,6 +1060,14 @@ def generate_volume_index(vol_dir: Path) -> Path:
     if col_name == "kogakko_shokashu_1915":
         lines.extend([f"> {KOGAKKO_SHOKASHU_1915_NOTE}", ""])
 
+    if col_name == "kogakko_shoka" and vol_name == "grade_1":
+        lines.extend(
+            [
+                "> 國立臺灣圖書館「日治時期圖書影像系統」典藏號 **`jpli2011-bk-sxt_0729_73_1936`**（索書號 **`0729 73`**）。昭和 9 年（1934 年）3 月 13 日第一版發行、昭和 11 年（1936 年）2 月 10 日第四版發行，臺灣總督府著作兼發行、臺北市小塚本店印刷工場印行。全冊共收錄 15 首曲目（五線譜與對頁片假名分詞歌詞），除文部省標準唱歌外，特別編入描寫芒果葉與檳榔雨滴之**〈四　ユフダチ ヤンダ〉**、以香蕉與鳳梨（旺來／オンライ）比擬猜拳手勢之**〈九　ジヤンケン〉**、臺語「加令」（八哥）學人說話之**〈一一　カアレン〉**，以及庭院榕樹（ヨウジユ）枝頭歡唱之**〈一三　コスズメ〉**等臺灣鄉土特色童謠。",
+                "",
+            ]
+        )
+
     if col_name == "utanohon" and vol_name == "ge_2006.006.0878":
         lines.extend(
             [
@@ -1209,14 +1228,14 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "    <strong>隨機聽見一段歷史</strong>",
         '    <button type="button" data-lucky-song-button>讓命運選一首</button>',
         "  </div>",
-        "  <p data-lucky-song-result>從 773 首歷史曲目中隨機探索。</p>",
+        "  <p data-lucky-song-result>從 788 首歷史曲目中隨機探索。</p>",
         "</div>",
         "",
     ]
 
     nav_lines = [
         "site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫",
-        "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 22 冊、773 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
+        "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 23 冊、788 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
         "site_author: TMD Contributors",
         "site_url: https://tmdlang.github.io/reshoka/",
         "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
