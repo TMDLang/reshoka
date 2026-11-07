@@ -14,7 +14,8 @@ audio: "shintenfu.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="shintenfu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shintenfu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="shintenfu_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第四～五頁（第一學期第二曲）
 - NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P008.jpg
@@ -51,7 +52,7 @@ X:1
 T:振天府
 M:4/4
 L:1/16
-Q:1/4=96
+Q:1/4=192
 K:G
 V:V1 name="Voice" snm="Voi"
 [V:V1]
@@ -59,14 +60,14 @@ V:V1 name="Voice" snm="Voi"
 w: 1.~だん がん | じゅ ほ | ほ こ つ る | ぎ
 w: 2.~しょ こ | し かん | か し ほ そ | つ
 d8 d8 | B4 B4 d4 d4 | c6 c2 B4 B4 | A12 z4 |
-w: 1.~にっ しん | せん り の _ | し な じ な | を
-w: 2.~せん びょ | し しゃ の _ | お も か げ | を
+w: 1.~にっ しん | せん ー り の | し な じ な | を
+w: 2.~せん びょ | し しゃ の ー | お も か げ | を
 G8 G4 G4 | D6 D2 D4 D4 | A8 A6 B2 | [Q:1/4=96] !mf! G12 G4 |
 w: 1.~つ ら ね | た ま ひ し | しん て ん | ふ か
 w: 2.~か か げ | た ま ひ し | しん て ん | ふ か
 d8 d6 d2 | B12 G4 | A8 B4 B4 | !f! c4 e4 d4 d4 |
 w: 1.~し こ し | や お | ほ う ち | や ま の う
-w: 2.~し こ し | や てん | の へ _ | い か の お
+w: 2.~し こ し | や てん | の へ ー | い か の お
 e8 d8 | d6 d2 G8 |
 w: 1.~へ に | た て り
 w: 2.~ほ み | し わ ざ
@@ -74,8 +75,8 @@ w: 2.~ほ み | し わ ざ
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shintenfu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKgDYklhRl5pdkJiMk0vKLcq2KS4ryCzKQhUsyUoGezc3MySxJLKpEF8_MLQC6IzEHXTwjs7gkH6RcS0vhWc_6p0tWPt01R0FLi0vRVsHSjMveVsGdy8ZE38QOpO9p-64XM6e-3zPraevG57O7nk5te75k37MVTU9nrni6a_rjhq6nUzY-W9vzbOrM58snPpu9QwHIerpj9fMpKxSebt_9ZEfn44bu52vWPJ09-_3eeU92TXm5oPH9ng6gyJMdDU_X7ng2Zz6Ivavn2exN7_d0gp3q5-Kj4JKZDvRTjoIzPMKLFQI8XRQgUQo0IaOkpKDYSl8_JUcvD4jT8_WyCvQLMlP0YSo6n_U1P-vvVwBFJFAuXYmLS19LwZZagEtBQeFp33ygj19sbn-xoutFRzswGF6snPe0dcWzae1AF4K8gXAymSHVg-YLoL-AcQGy_MWq_c8aloOs7e59MXM-UPRxcwdQEKj_aUfb4-Y-IAMo9XTtBKBb3BWeLlkOlFQARqsCUBRoMNCG59tnvVg7B6L_ae-G5027gBEBiguwthcrZgDFFT7MbdkKtrXn5bTulwvWKvgmpgLTT3H-44ael-29jxtaHzdtf9y0_nED0NSOD3Nb59lamoEc3jXj6YQOiGtezt_8fM0yhUczV9oaWhpBTAN5tbcRaNvTDf3P1zdAfA5yy9btCgGZpQo-qXklIDseN6163LQXbgHIDJD5neAwWLEb6EpQ4py27kXjppfNK8Ae6wGaB7QVSALD-3FDE9ThaQhbgWkPbOuzFTMVijJL9LC6B6gK6HCgnS9ntrzcDYySHrhXgPYDBZ_u3vZy6nZIOIH93gIMa5jfIJ7Z26mQm6bwZMeyZ1N2AsMX4TNkr8Btf9q6Fsn2TqABOG153NCIYgvIc8_mrIZ6a85qoDvx6G2C-xZoDsRiGANqxPMNC0FpY-qOp2unP9nR9WzazmedDcBE8nTO5Kd7lj_tWgAMEYi5QG_hDAh4Inu6ofdZeyfIUatnAEPxacdSUGi4g3KyIcQ3LqZANhCD2HBxUKqbOw-oB6Rz9zygw6H57mnrjmd7pjxd2v9s84pnLf3AJPB86jZgGQINuHVbX7SvghYyYO-8aAdGG6icQYtdYFw-X9H7fPtKoIUQX4ASPNT1QDNAsQdMkcDYg-el51tanq2f8rSzF2jLs9ZFICtAKbPz6e7FwEwGzOTPpy4CKnvWDC3Znq9eACkZXi7oeNrW-2L_lKcdcyGmgbwwZSPQpqfLmoAGAsvaxw0dz-Z0PG7ofNrfBWS_nL0KyAa7ZjY0utdtRfYI0CigL55N24Nm19MNS0DWzZn8bPdEmC2zIWH1dM92oBZ4ZNmBTe942t_8vHU5pFB-unMLyB0zmx43rn-5u-Vl-0SII1CDf_YmSMCD8mjj5MdNQBKYRxufTV_6bEfrs44NzzvWPm5c_bx30-PG-cAof9Y79enkxsdNk17O3Py0Y_rjxlWPG6c-buoGyj5uagSlvn6gv4EJcNvjxnVA7UC9QPLZ2t3Pp7cCyceNQC3zn25of7Zg4dPFq5_2TgJpbFwIVPy4setxE9CtQKMmAc0HM8BsDCtAKhvnAp36dMmsx439IF0NDcD67_ms9pczZz_ZAVS5DhSH-4DGrgcZ0tT5uBHofpAIMPmD7WoDW7oarAbogGVANtiiJUAuvDYFq5z8uHEF0D0vVi543Lj_6VKgUSA1YKnljxubQA5rADqgFxGmL1bNe9neDQvTJWDrgRmz99n0RmBRBypwIWEHSm-zwWqALgaGC9Cm6Y-bWsDiQI8he7IF6g6olUCpfY8bZ4Jc3LwHYgjIw22tTzduhGhH8irUA8-nbAaaD_JAE9BtIC0v5y56uheqHmwa0CVAj4EDGhg6wGQC8hMwMQHDHOy7vR1Pdux42dX8fMEmoNDL7klPO4HawXLw9PK0YyXIVmASACYTUK0yCaoCHhLPtwJDGxgdwABoRAQ1TBFaUDQi_NW4DliCgdLiaqCaZaBAgLkQXP6BXQhPWOtmAIWASQHIfrZ2JSidQd0JTNHglPgC6DawO6GhgOROYIKZC0x4pLoTa_oDyvY_bpwGzXOUN1igQEFLn4srOAPUhs1LK7UKy89MTnWoMaipBtmiYGNopmUHZlUrgqrqWgg7DUID20_AmATG6w6FGgVgbCoAoxPIetw8W-Fx02Yg3QLEq0EiTeuAJDBmFYBRC7IRpLtGwVBBFwWi82sUTOPRhDAEUE0xB0nDBIzgSozRNMGgAcIidHvQrQE72ccQ6JfGBY-bJqNJg1I8hiBI7YzHTa0YandjUYgsBkwNYHIJjN_UjaSyD003DMJCBqQGWAQtxrAWmIIwnAjxlhFID1C6HUMPNj9Nx1AFTOfYFMJcDbUeTML8CSySkFTCfIrPT7OxBftmTEdD_ARMm8AcqgAsRIBpsA-cBrcDWV1AegeYBqVTSGoFpVKQql6wqv1A1jwgngTWAU-rsCQEo2EJBEbXKJgguQHERtdRA0-Q6BCRDHHlCBiNliPAHLgInIGcWJFCDVjQwViN69AsQo9XYIUAJmeg8KEqmybh8AhydKFHKbDIhpu1FkndfBRb94HJTXA-zE0oCRUh-7ipGa-XYB6GOKAJrA6WKoEFM4leQk7PEBOwmkWSl4DpVAPU49AEdb2Bya4NiDeDk-VUBQ1470AT6EJIQQpMxKCiFUiD1CwBslYhEil6AkPmg5IhZgKDQWDxbmlWq1Cdm1aLnNjQVCHzQWzcJSvcDKSkiKX8AVa_yDywPEjpVhzGIkIce0GEbD5EHhRmLThNg6UPtHJwsDkT2EaBaYGnGkgtuwxIN8KSArjc6gOLgkRmAHE3vEwDJSw8SQWztIKVZ2ZQGhb5wNofqdSDycIgRsWJkWgwanmkJIJeMwKb13DWQriJiKCC5C4IC5b_EXpAJu7AMHE1hgvRcywoshGFJZo7wWkEvazBtAekCuFKRDmBcCU87WH1934s5qEU0E39YHXTMFxZy8Wla6cAb9IpADnKXAA)]
-- [鋼琴伴奏 TMD 檔案](shintenfu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWs_7pkpVPd815v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4c9mY6JvYcdUpKD1t3_Vi5tT3e2Y9bd34fHbX06ltz5fse7ai6enMFU93TX_c0PV0ysZna3ueTZ35fPnEZ7N3KABZT3esfj5lhcLT7buf7Oh83ND9fM2ap7Nnv98778muKS8XNALtB4o82dHwdO2OZ3Pmg9i7ep7N3gR0hRLISj8XHwWXzPTMksQcBef8nJzU5JLM_LxihQBPFwULUxMLMxOgCRklJQXFVvr6KTl6eUCcnq-XVaBfkJmiD1PR-ayv-Vl_v0KAgYEFUC5diYsrOCMzryQ1L63UKiAzMS8_yMOhxqCmmksBCGwMzbTswKxqRVtDS6NaCDsNQutrKTzd26HwZMcOhRqFl13NCs8XbAKyHjfPVnjctBlItwDxapBI0zog-Wz6UoVnO1oVtPTBumsUDBV0USA6v0bBNB5NCEMA1RRzkDRMwAiuxBhNEwwaICxCtwfdGrCTfQyBfmlc8LhpMpr048YeTEGQ2hmPm1ox1O7GohBZ7HEjyKjHjUtg_KZuJJV9aLphEBYyIDWrHzcuxrB2OhYnQrxlBNIDlG7H0IPNT9MxVHVj9zzM1VDrwSTMn48b5yKphPkUn59mYwv2zZiOhvgJmDafdWxQeNqxEpgG-8BpcDuQ1QWkd4BpUDqFpFZQKgWp6gWr2g9kzQPiSWAd8LQKS0IwGpZAYHSNggmSG0BsdB018ASJDhHJEFeOgNFoOQLMgYvAGciJFSnUHjd1wViN69AsQo_Xx42rwOQMFD5UZdMkHB5Bji70KH3c1Ak3ay2Suvkotu4Dk5vgfJibUBIqQvZxUzNeL8E8DHFAE1gdLFU-boR5g1gvIadniAlYzSLJS8B0qlGUWaKnCaqIgMmuDYg3g5PlVAWNgMxSBZ_UvJJ8TaALIQUpMBGDilYgDVKzBMhahUik6AkMmQ9KhpgJDAaBxbulWa1CdW5aLXJiQ1OFzAexcZescDOQkiKW8udx4zJkHlgepHQrDmMRIY69IEI2HyIPCrMWnKbB0gdaOTjYnLkM4SR4qoHUssuAdCMsKYDLrT6wKEhkBhB3w8s0UMLCk1QwSytYeWYGpWGRD6z9kUo9mCwMYlScGIkGo5ZHSiLoNePjxjY4ayHcRERQQXIXhAXL_wg9IBN3YJi4GsOF6DkWFNmIwhLNneA0gl7WYNoDUoVwJaKcQLgSnvaw-ns_FvNQCuimfrC6aRiurMVo0fkgt-hMoA06YBJ60df1sr33aeuOl7NbIY1epLZZvEK0YSyMqsEUgaozjQfyTeNjEQzcaok10wTINUFRh8WWQeBOuFFIKtHcjtNHCBMNIHGma6cAj7ZoH6AUqoARWECZCwA)]
+- [主旋律 TMD 檔案](shintenfu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKgDYklhRl5pdkJiMk0vKLcq2KS4ryCzKQhUsyUoGezc3MySxJLKpEF8_MLQC6IzEHXTwjs7gkH6RcS0vhWc_6p0tWPt01R0FLi0vRVsHQ0ojL3lbBncvGRN_EDqTxafuuFzOnvt8z62nrxuezu55ObXu-ZN-zFU1PZ654umv644aup1M2Plvb82zqzOfLJz6bvUMByHq6Y_XzKSsUnm7f_WRH5-OG7udr1jydPfv93nlPdk15uaDx_Z4OoMiTHQ1P1-54Nmc-iL2r59nsTe_3dILd6ufio-CSmQ70VI6CMzzGixUCPF0UIHEKNCGjpKSg2EpfPyVHLw-I0_P1sgr0CzJT9GEqOp_1NT_r71cAxSRQLl2Ji0tfS8GWWoBLQUHhad98oI9fbG5_saLrRUc7MBherJz3tHXFs2ntQBeCvIFwMpkh1YPmC6C_gHEBsvzFqv3PGpaDrO3ufTFzPlD0cXMHUBCo_2lH2-PmPiADKPV07QSgW9wVni5ZDpRUAEarAlAUaDDQhufbZ71YOwei_2nvhudNu4ARAYoLsLYXK2YAxRU-zG3ZCra15-W07pcL1ir4JqYCE1Bx_uOGnpftvY8bWh83bX_ctP5xA9DUjg9zW-fZWpqBHN414-mEDohrXs7f_HzNMoVHM1faAlMYxDSQV3sbgbY93dD_fH0DxOcgt2zdrhCQWargk5pXArLjcdOqx0174RaAzACZ3wkOgxW7ga4EJc5p6140bnrZvALssR6geUBbgSQwvB83NEEdnoawFZj2wLY-WzFToSizRA-re4CqgA4H2vlyZsvL3cAo6YF7BWg_UPDp7m0vp26HhBPY7y3AsIb5DeKZvZ0KuWkKT3YsezZlJzB8ET5D9grc9qeta5Fs7wQagNOWxw2NKLaAPPdszmqot-asBroTj94muG-B5kAshjGgRjzfsBCUNqbueLp2-pMdXc-m7XzW2QBMJE_nTH66Z_nTrgXAEIGYC_QWzoCAJ7KnG3qftXeCHLV6BjAUn3YsBYWGOygnG0J842IKZAMxiA0XB6W6ufOAekA6d88DOhya75627ni2Z8rTpf3PNq941tIPTALPp24DliHQgFu39UX7KmghA_bOi3ZgtIHKGbTYBcbl8xW9z7evBFoI8QUowUNdDzQDFHvAFAmMPXheer6l5dn6KU87e4G2PGtdBLIClDI7n-5eDMxkwEz-fOoioLJnzdCS7fnqBZCS4eWCjqdtvS_2T3naMRdiGsgLUzYCbXq6rAloILCsfdzQ8WxOx-OGzqf9XUD2y9mrgGywa2ZDo3vdVmSPAI0C-uLZtD1odj3dsARk3ZzJz3ZPhNkyGxJWT_dsB2qBR5Yd2PSOp_3Nz1uXQwrlpzu3gNwxs-lx4_qXu1tetk-EOAI1-GdvggQ8KI82Tn7cBCSBebTx2fSlz3a0PuvY8Lxj7ePG1c97Nz1unA-M8me9U59ObnzcNOnlzM1PO6Y_blz1uHHq46ZuoOzjpkZQ6usH-huYALc9blwH1A7UCySfrd39fHorkHzcCNQy_-mG9mcLFj5dvPpp7ySQxsaFQMWPG7seNwHdCjRqEtB8MAPMxrACpLJxLtCpT5fMetzYD9LV0ACsAJ_Pan85c_aTHUCV60BxuA9o7HqQIU2djxuB7geJAJM_2K42sKWrwWqADlgGZIMtWgLkwqtTsMrJjxtXAN3zYuWCx437ny4FGgVSA5Za_rixCeSwBqADehFh-mLVvJft3bAwXQK2Hpgxe59NbwQWdaACFxJ2oPQ2G6wG6GJguABtmv64qQUsDvQYsidboO6AWgmU2ve4cSbIxc17IIaAPNzW-nTjRoh2JK9CPfB8ymag-SAPNAHdBtLycu6ip3uh6sGmAV0C9Bg4oIGhA0wmID8BExMwzMG-29vxZMeOl13NzxdsAgq97J70tBOoHSwHTy9PO1aCbAUmAWAyAdUqk6Aq4CHxfCswtIHRAQyARkRQwxShBUUjwl-N64AlGCgtrgaqWQYKBJgLweUf2IXwhLVuBlAImBSA7GdrV4LSGdSdwBQNTokvgG4DuxMaCkjuBCaYucCER6o7saY_oGz_48Zp0DxHeYMFChS09Lm4gjNAjdi8tFKrsPzM5FSHGoOaapAtCjaGZlp2YFa1IqiqroWw0yA0sP0EjElgvO5QqFEAxqYCMDqBrMfNsxUeN20G0i1AvBok0rQOSAJjVgEYtSAbQbprFAwVdFEgOr9GwTQeTQhDANUUc5A0TMAIrsQYTRMMGiAsQrcH3Rqwk30MgX5pXPC4aTKaNCjFYwiC1M543NSKoXY3FoXIYsDUACaXwPhN3Ugq-9B0wyAsZEBqgEXQYgxrgSkIw4kQbxmB9ACl2zH0YPPTdAxVwHSOTSHM1VDrwSTMn8AiCUklzKf4_DQbW7BvxnQ0xE_AtAnMoQrAQgSYBvvAaXA7kNUFpHeAaVA6haRWUCoFqeoFq9oPZM0D4klgHfC0CktCMBqWQGB0jYIJkhtAbHQdNfAEiQ4RyRBXjoDRaDkCzIGLwBnIiRUp1IAlPIzV1AVjNa6DG40as8AqAUzOQOFDVTZNwuEV5AhDj1RgoQ03ay2Suvkotu4Dk5vgfJibUJIqQvZxUzOGVxAeBSmGeRXihCawSljKBBbOJHoKOU1DTMBqFkmeAqXVnvVAZ7cB8WZwmpwKdA6k5ASmWlBZCqRB4kuArFWIVImeopD5oHRXAyq3Lc1qMRIWDFbnpiEk8ReDIDbuohRuBlLaw1LgAOtbZB5YHqR0Kw5jEcGLveRBNh8iDwqzFpymwRIDWsE32JwJbJTAtMCTCKRaXQakG2FJAVxQ9YFFQSIzgLgbXoiBEhOepIJZPMEKMDMoDYt8YHWPVMzBZGEQo6bESDQY1TpSEkGvCoHtaThrIdxERFBBshKEBc_ucD0gE3dgmLgaw4Xo2RMU2YgyEc2d4DQCswuhB2YPamGDcCeiWEC4E576sPp8PxZ3opTITf1gddMw3FnLxaVrpwBvxSkAOcpcAA)]
+- [鋼琴伴奏 TMD 檔案](shintenfu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWs_7pkpVPd815v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYWhpx2dsquHPZmOib2HHVKSg9bd_1YubU93tmPW3d-Hx219Opbc-X7Hu2ounpzBVPd01_3ND1dMrGZ2t7nk2d-Xz5xGezdygAWU93rH4-ZYXC0-27n-zofNzQ_XzNmqezZ7_fO-_JrikvFzQCHQAUebKj4enaHc_mzAexd_U8m70J6AwlkJV-Lj4KLpnpmSWJOQrO-Tk5qcklmfl5xQoBni4KFqYmFmYmQBMySkoKiq309VNy9PKAOD1fL6tAvyAzRR-movNZX_Oz_n6FAAMDC6BcuhIXV3BGZl5Jal5aqVVAZmJefpCHQ41BTTWXAhDYGJpp2YFZ1Yq2wFCohbDTILS-lsLTvR0KT3bsUKhReNnVrPB8wSYg63HzbIXHTZuBdAsQrwaJNK0Dks-mL1V4tqNVQUsfrLtGwVBBFwWi82sUTOPRhDAEUE0xB0nDBIzgSozRNMGgAcIidHvQrQE72ccQ6JfGBY-bJqNJP27swRQEqZ3xuKkVQ-1uLAqRxR43gox63LgExm_qRlLZh6YbBmEhA1Kz-nHjYgxrp2NxIsRbRiA9QOl2DD3Y_DQdQ1U3ds_DXA21HkzC_Pm4cS6SSphP8flpNrZg34zpaIifgGnzWccGhacdK4FpsA-cBrcDWV1AegeYBqVTSGoFpVKQql6wqv1A1jwgngTWAU-rsCQEo2EJBEbXKJgguQHERtdRA0-Q6BCRDHHlCBiNliPAHLgInIGcWJFC7XHzHhirqQvGalwHNxo1Zh83rgKTM1D4UJVNk3B4BTnC0CP1cVMn3Ky1SOrmo9i6D0xugvNhbkJJqgjZx03NGF5BeBSkGOZViBOawCphKfNxI8wjxHoKOU1DTMBqFkmeAqXVnvVAZ7cB8WZwmpwKdA6k5ASmWlBZCqRB4kuArFWIVImeopD5oHRXAyq3Lc1qMRIWDFbnpiEk8ReDIDbuohRuBlLaw1LgPG5chswDy4OUbsVhLCJ4sZc8yOZD5EFh1oLTNFhiQCv4BpszlyGcBE8ikGp1GZBuhCUFcEHVBxYFicwA4m54IQZKTHiSCmbxBCvAzKA0LPKB1T1SMQeThUGMmhIj0WBU60hJBL0qfNzYBmcthJuICCpIVoKw4Nkdrgdk4g4ME1djuBA9e4IiG1EmorkTnEZgdiH0wOxBLWwQ7kQUCwh3wlMfVp_vx-JOlBK5qR-sbhqGO2sxGnE-yI04EyxtOGCCetHX9bK992nrjpezWyGNXqSmWbxCtGEsjKrBFEGoMwBWPEBB03gC6ogyzwTINUFRBzccYQtOM3GrxSKDVDhS5GS4iUgq0bxB2HPgcARHpK6dAjwuo32A6lAFjMACylwA)]
 
 ## 分析
 
@@ -83,14 +84,14 @@ w: 2.~ほ み | し わ ざ
 ================================================================================
 📊 TMD Song Profile: [ 振天府 ]
 ================================================================================
-⏱  Duration:       0:30 (30.3s), 18 measures total
-🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <4/4>
+⏱  Duration:       0:31 (31.2s), 18 measures total
+🎼 Key & Tempo:    首調基準 G, != 192.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Shintenfu #1 @ m.2, 0:02]
-   - 最高音: E5 in [Shintenfu #1 @ m.16, 0:38]
+   - 最低音:  D4 in [Shintenfu #1 @ m.2, 0:01]
+   - 最高音: E5 in [Shintenfu #1 @ m.16, 0:24]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Shintenfu (30.3s)
+🏛  結構:      Shintenfu (31.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）

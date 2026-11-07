@@ -54,13 +54,13 @@ Q:1/4=138
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A4 A4 A2 G2 F2 E2 | D6 B,2 A,8 | F4 A4 A6 B2 | A2 G2 F2 E2 D8 |
+A4 A4 A2 G2 F2 E2 | D6 B2 A8 | F4 A4 A6 B2 | A2 G2 F2 E2 D8 |
 w: 1.~わ ら ぢ _ を _ | あ し に | べ ん と _ | こ _ し _ に
 w: 2.~しょ も つ _ を _ | ひ ざ に | え ん ぴ つ | み _ み _ に
 E8 E6 E2 | D2 F2 A2 B2 A4 A4 | B4 B4 d4 c2 B2 | A6 B2 A8 |
 w: 1.~と も に | の _ や _ ま を | か け り し _ | と _ も
 w: 2.~と も に | つ _ き _ み て | か た り し _ | と _ も
-B4 A4 G2 F2 E2 D2 | E6 B,2 A,8 | F4 A4 d6 c2 | c4 B4 B8 |
+B4 A4 G2 F2 E2 D2 | E6 B2 A8 | F4 A4 d6 c2 | c4 B4 B8 |
 w: 1.~あ あ そ _ の _ | と も は | し ら ぬ た | こ く に
 w: 2.~あ あ そ _ の _ | と も は | た こ く の | そ ら に
 d4 B4 A2 G2 F2 E2 | D4 B4 A6 A2 | B4 B4 A6 A2 | d12 z4 |
@@ -70,8 +70,8 @@ w: 2.~た れ と _ つ _ | き み て い | ま か か た | る
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kaiyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh9OKMlPzUoozMgvQZVJz8yGWaGkpPGuf8LS_W0FLi0vRVsHQ2ILL3lbBhcvGRN_EDqTrafuuFzOnvt8z62nrxuezu55ObXu-ZN-zFU1PZ654umv644aup1M2Plvb82zqzOfLJz6bvUMByHq6Y_XzKSsUnm7f_WRXz-OG7udr1jzZ0fm0txHIfb93HpS9o_Plgsb3ezqAsmCpKc9mb3q_pxPsVj8XHwWXzPTMksQcBWd4_BYrBHi6KEBiEKgxo6SkoNhKXz8lRy8PiNPz9bIK9AsyU_RhKjqf9TU_6-9XAMUbUA4Yblz6Wgq21AJcCgoKT_vmAz39YnP7ixVdLzragSHxYuW8p60rnk1rB7oQ5A2Ek6kQWD1oPgL6ERg1IIe8WLX_WcNykBO6e1_MnA8UfdzcDRR8Onv20462x819QAZQ6unaCUB3uSg8XbIcKKkAjGUFoCjQ4Bdr5zzZ0fVixQwFZ7ChPY9mrrQFJgcg63FDz7OGuY-bJz1u3vRk99LHzW2PG3rBdq7YDdQAShvT1r1o3PSyeQVQNdC25-sbgL4Euh_IANoGNrr7ZSvQ8ulAwRcLe4BanuwASs193tn-tLH96YTexw1g_-6Z-3TnZogI0BWPG5pAQTl7E8jt67YCUyAwKJ62rn26oR9scg84rBpetG8Ghg9QAYgLCsNGkKfBap7NWf1sTuez_tnPNiwGOhUcMB1lEA-C0h3YXIg2iAZI6IMCal8PTp1AU6Gqm3a9nNnycvc8kP6OtpfzNz9fs-xp1wJIoD_ZM_HZ2kVAEZA_-jcDI_DZnFVPezeAwnPPlKdL-59tXvGspR8YmM_WtADVALPA8-2zgKEFjMXnGxYCGS8bJgDNfLZgx9MNvWCPbgEqgya7p607Xqya97K9GxTVDT0vVm143LjiZXvf040bHzdNerK763FjNxhNfNzUDbQDGLZgwfUQlSDU1PS4cTVcC1Rx47LHjU0gLY39jxsng5W1PG4CxQUXyGagM4ABDI793s6X87qBGl9s2ww0Byj6Yt-K51O3vWgFmg_ighRhsaahEeYsoGumA8seuFKgtXMfNwLROpBo43qw0ukgyxvXPNk97ekcoCDMYDT_gtIPupehDganCBALmOGed64EObgNaAfIoJeds5-vbXvRAHU_ioOfzel4sQxoFjD2IA6eT5SDYe5cBxIHuRzVwcimQhwMjESoa4GKKC-UoEBBS5-Lyzsxs7LUKiAzMS_focagphpkg4KNhZYdmAEsCh83rwfilUDcBMR7gHgTmK5ReNy0CIi3A3ndIF7zTCDeDMQdcHkQD6gDrAakE1iF6IPNrVEwVdCFYhMFYwUjoIghkKerYBavYBoPZukCxYzhqsByYH0Q9RDVQDVg83wMQdb1A_nA8ASRjYvA7ElgU4CRAFYLjBkgXg03_XHjTrCqyWC5FUjiEJHpYBKuHmKTEUgemODawVpBBj9uXIJi2SaoZdPQLOtAsmwLVM0SsMx-MBtColoHjgBQgAKDGhrMfdDAXAKl54GjBOT_1UC8EchbBQ9ykHpIdIBMgAe-EdQOCA0JfGNg0JrBA7sGyAYFuK6CYRyQMIeGPSQWIDRK2MNDDxIkEI-AxNeBxVrAIvtQgqkbLDYRLNYFD29sZqGGPS6bwJHQ2IsUlMtQbJpPgk2gYAenbhDeCw1ASMDDghQUIf3gYAcFNSh_9ADZ-2HpvgmUa5DSOygoQeEGS72wSMCe3sGBDgr2GiCGxAMIowc6JPVByLlgEhTcCI-BvAUscuDGQ5M0NIusgQbffKQkD85CWJM86XaBAxzJXIgekAxYP9QVmOkdGIiPm9cgpVxEwIPSPCS9P24CZx0QD5zuIWkfJLIaEejgYISEPHIpA4sLEIlI6AgRaOhDoAFamEOSUQ_Y7SCfw8MBI5GDeC1g_4LFoMkQREISPkgPhAeBoGSAHOKYNoGSOEgGPZHjtwkcv1hsquXi0rVTAFcACkCGMhcA)]
-- [鋼琴伴奏 TMD 檔案](kaiyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWPuFpf_f7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQ2ILL3lbBhcvGRN_EjqtOQelp-64XM6e-3zPraevG57O7nk5te75k37MVTU9nrni6a_rjhq6nUzY-W9vzbOrM58snPpu9QwHIerpj9fMpKxSebt_9ZFfP44bu52vWPNnR-bS3Ech9v3celL2j8-WCRqBjgLJgqSnPZm8CukQJZKufi4-CS2Z6ZklijoJzfk5OanJJZn5esUKAp4uChamJhZkxUGNGSUlBsZW-fkqOXh4Qp-frZRXoF2Sm6MNUdD7ra37W368QYGBkBJRLV-Li8k7MrCy1CshMzMsP8nCoMaip5lIAAhsLLTswQ19L4XHzeiBeCcRNQLwHiDeB6RqFx02LgHg7kNcN4jXPBOLNQNwBlwfxgDrAakA6uxW09MHm1iiYKuhCsYmCsYIRUMQQyNNVMItXMI0Hs3SBYsZwVWA5sD6IeohqoBqweT6GIOv6gfzHTZ0gsnERmD0JbMrjxiaw2seN04F4Ndz0x407waomg-VWIIlDRKaDSbh6iE1GIPnpj5vawVpBBj9uXIJi2SaoZdPQLOtAsmwLVM0SsMx-MBtColoHjgBQgAKDGhrMfdDAXAKl54GjBOT_1UC8EchbBQ9ykHpIdIBMgAe-EdQOCA0JfGNg0JrBA7sGyAYFuK6CYRyQMIeGPSQWIDRK2MNDDxIkEI-AxNeBxVrAIvtQgqkbLDYRLNYFD29sZqGGPS6bwJHQ2IsUlMtQbJpPgk2gYAenbhDeCw1ASMDDghQUIf3gYAcFNSh_9ADZ-2HpvgmUa5DSOygoQeEGS72wSMCe3sGBDgr2GiCGxAMIowc6JPVByLlgEhTcCI-BvPW4cT3ceGiShmaRNdDgm4-U5MFZCGuSJ90ucIAjmQvRA5IB64e6AjO9AwPxcfMapJSLCHhQmoek98dN4KwD4oHTPSTtg0RWIwIdHIyQkEcuZWBxASIRCR0hAg19CDRAC3NIMuoBux3kc3g4YCRyEK8F7F-wGDQZgkhIwgfpgfAgEJQMkEMc0yZQEgfJoCdy_DaB4xeLTbUo5b8Pcvlvgij_X_R1vWzvfdq64-XsVkgViRS-8QrRhrHABAykTeNjgSJwMRMgZQIUQVUJEwVCKBOhF1YxwASIMBXDDJJUwjnY3UqUWmzmQsWgxqCphIki7AFSBpDY0LVTAEdItA9QGMExAnOUuQA)]
+- [主旋律 TMD 檔案](kaiyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh9OKMlPzUoozMgvQZVJz8yGWaGkpPGuf8LS_W0FLi0vRVsHQ2ILL3lbBhcvGRN_EDqTrafuuFzOnvt8z62nrxuezu55ObXu-ZN-zFU1PZ654umv644aup1M2Plvb82zqzOfLJz6bvUMByHq6Y_XzKSsUnm7f_WRXz-OG7udr1jzZ0fm0txHIfb93HpS9o_Plgsb3ezqAsmCpKc9mb3q_pxPsVj8XHwWXzPTMksQcBWd4_BYrBHi6KEBiEKgxo6SkoNhKXz8lRy8PiNPz9bIK9AsyU_RhKjqf9TU_6-9XAMUbUA4Yblz6Wgq21AJcCgoKT_vmAz39YnP7ixVdLzragSHxYuW8p60rnk1rB7oQ5A2Ek6kQWD1oPgL6ERg1IIe8WLX_WcNykBO6e1_MnA8UfdzcDRR8Onv20462x819QAZQ6unaCUB3uSg8XbIcKKkAjGUFoCjQ4Bdr5zzZ0fVixQwFZ7ChPY9mrrQFJgcg63FDz7OGuY-bJz1u3vRk99LHzW2PG3rBdq7YDdQAShvT1r1o3PSyeQVQNdC25-sbgL4Euh_IANoGNrr7ZSvQ8ulAwRcLe4BanuwASs193tn-tLH96YTexw1g_-6Z-3TnZogI0BWPG5pAQTl7E8jt67YCUyAwKJ62rn26oR9scg84rBpetG8Ghg9QAYgLCsNGkKfBap7NWf1sTuez_tnPNiwGOhUcMB1lEA-C0h3YXIg2iAZI6IMCal8PTp1AU6Gqm3a9nNnycvc8kP6OtpfzNz9fs-xp1wJIoD_ZM_HZ2kVAEZA_-jcDI_DZnFVPezeAwnPPlKdL-59tXvGspR8YmM_WtADVALPA8-2zgKEFjMXnGxYCGS8bJgDNfLZgx9MNvWCPbgEqgya7p607Xqya97K9GxTVDT0vVm143LjiZXvf040bHzdNerK763FjNxhNfNzUDbQDGLZgwfUQlSDU1PS4cTVcC1Rx47LHjU0gLY39jxsng5W1PG4CxQUXyGagM4ABDI793s6X87qBGl9s2ww0Byj6Yt-K51O3vWgFmg_ighRhsaahEeYsoGumA8seuFKgtXMfNwLROpBo43qw0ukgyxvXPNk97ekcoCDMYDT_gtIPupehDganCBALmOGed64EObgNaAfIoJeds5-vbXvRAHU_ioOfzel4sQxoFjD2IA6eT5SDYe5cBxIHuRzVwcimQhwMjESoa4GKKC-UoEBBS5-Lyzsxs7LUKiAzMS_focagphpkg4KNhZYdmAEsCh83rwfilUDcBMR7gHgTmK5ReNy0CIi3A3ndIF7zTCDeDMQdcHkQD6gDrAakE1iF6IPNrVEwVdCFYhMFYwUjoIghkKerYAYWBcEaoDhMDUQGpAuiGqIWqAZsmo8hyLJ-IB8YmiCycRGYPQlsCjAKwGqB8QLEq-GmP27cCVY1GSy3AkkcIjIdTMLVQ2wyAskDk1s7WCvI4MeNS1As2wS1bBqaZR1Ilm2BqlkCltkPZkNIVOvAwQ8KTmBAQwO5DxqUS6D0PHCEgPy_Gog3Anmr4AEOUg-JDJAJ8KA3gtoBoSFBbwwMWkjQg3ANkA0KcF0FwzggYQ4Ne7T4QYQ9PPQgQQLxCEh8HVisBSyyDyWYusFiE8FiXfDwxmYWatjjsgkcCY29SEG5DMWm-STYBAp2cNoG4b3QAIQEPCxIQRHSDw52UFCDckcPkL0fluqbQHkGKbWDghIUbrDUC4sEbKkdHOSgQK8BYkgsgDB6kEPSHoScCyZBgY3wFshTwOIGbjw0QUMzyBpo4M1HSvDgDIQ1wZNuFzi4kcyF6AHJgPVDXYGZ2oFB-Lh5DVK6RQQ7KMVDUvvjJnDGAfHAqR6S8kEiqxFBDg5GSLgjlzCwmACRiGSOEIGGPgQaoIU5JBH1gN0O8jk8HDCSOIjXAvYvWAyaCEEkJNmD9EB4EBiPFuKYNoESOEgGPYnjtwkcv1hsquXi0rVTABf-CkCGMhcA)]
+- [鋼琴伴奏 TMD 檔案](kaiyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWPuFpf_f7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHQ2ILL3lbBhcvGRN_EjqtOQelp-64XM6e-3zPraevG57O7nk5te75k37MVTU9nrni6a_rjhq6nUzY-W9vzbOrM58snPpu9QwHIerpj9fMpKxSebt_9ZFfP44bu52vWPNnR-bS3Ech9v3celL2j8-WCRqBjgLJgqSnPZm8CukQJZKufi4-CS2Z6ZklijoJzfk5OanJJZn5esUKAp4uChamJhZkxUGNGSUlBsZW-fkqOXh4Qp-frZRXoF2Sm6MNUdD7ra37W368QYGBkBJRLV-Li8k7MrCy1CshMzMsP8nCoMaip5lIAAhsLLTswQ19L4XHzeiBeCcRNQLwHiDeB6RqFx02LgHg7kNcN4jXPBOLNQNwBlwfxgDrAakA6uxW09MHm1iiYKuhCsYmCsYIRUMQQyNNVMAOLgmANUBymBiID0gVRDVELVAM2zccQZFk_kP-4qRNENi4CsyeBTXnc2ARW-7hxOhCvhpv-uHEnWNVksNwKJHGIyHQwCVcPsckIJD_9cVM7WCvI4MeNS1As2wS1bBqaZR1Ilm2BqlkCltkPZkNIVOvAwQ8KTmBAQwO5DxqUS6D0PHCEgPy_Gog3Anmr4AEOUg-JDJAJ8KA3gtoBoSFBbwwMWkjQg3ANkA0KcF0FwzggYQ4Ne7T4QYQ9PPQgQQLxCEh8HVisBSyyDyWYusFiE8FiXfDwxmYWatjjsgkcCY29SEG5DMWm-STYBAp2cNoG4b3QAIQEPCxIQRHSDw52UFCDckcPkL0fluqbQHkGKbWDghIUbrDUC4sEbKkdHOSgQK8BYkgsgDB6kEPSHoScCyZBgY3wFshTjxvXw42HJmhoBlkDDbz5SAkenIGwJnjS7QIHN5K5ED0gGbB-qCswUzswCB83r0FKt4hgB6V4SGp_3ATOOCAeONVDUj5IZDUiyMHBCAl35BIGFhMgEpHMESLQ0IdAA7QwhySiHrDbQT6HhwNGEgfxWsD-BYtBEyGIhCR7kB4IDwLj0UIc0yZQAgfJoCdx_DaB4xeLTbUoZb8Pctlvgij7X_R1vWzvfdq64-XsVkj1iBS-8QrRhrEKpvFA2jQ-FigCF4NSEP_ARU2AlAlEHVwTmkq4ODZTYfqhaqFc4lXC7MJuD6avDFCVEmE9mkU4rUcEE9AOUFTo2imAYyPaByiM4BiBOcpcAA)]
 
 ## 分析
 
@@ -82,8 +82,8 @@ w: 2.~た れ と _ つ _ | き み て い | ま か か た | る
 ⏱  Duration:       0:27 (27.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 138.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  A3 in [Kaiyu #1 @ m.2, 0:02]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Kaiyu #1 @ m.2, 0:01]
    - 最高音: D5 in [Kaiyu #1 @ m.7, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Kaiyu (27.8s)
@@ -123,7 +123,7 @@ w: 2.~た れ と _ つ _ | き み て い | ま か か た | る
      B  : ██████████████            20.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A3 – D5 (17 個半音 / 1.4 個八度, 66 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 66 個音符)
 ================================================================================
 ```
 
