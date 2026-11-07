@@ -170,6 +170,11 @@ nav:
           - "17 赤十字": kyoeki_shoka/kan_4_854865/17_sekijuji/index.md
           - "18 亡き友": kyoeki_shoka/kan_4_854865/18_naki_tomo/index.md
           - "19 水鳥": kyoeki_shoka/kan_4_854865/19_mizutori/index.md
+  - 臺灣周遊唱歌（明治四十三年）:
+      - 總覽: taiwan_shuyu_shoka/index.md
+      - 書訊與掃描頁: taiwan_shuyu_shoka/0_book_info/index.md
+      - "1 臺灣周遊唱歌（簡單版・第一～四節）": taiwan_shuyu_shoka/1_taiwan_shuyu_shoka/index.md
+      - "2 臺灣周遊唱歌（完整版・全九〇節）": taiwan_shuyu_shoka/2_taiwan_shuyu_shoka_full/index.md
   - 公學校唱歌集（大正四年）:
       - 總覽: kogakko_shokashu_1915/index.md
       - 書訊與掃描頁: kogakko_shokashu_1915/0_book_info/index.md
