@@ -289,14 +289,27 @@ _SHOKACHO_HORAI_LINK = (
     "- 📑 **[《蓬萊唱歌集》存見曲目目次重建（共 45+3 首完整對照表）](../horai_shokashu.md)**",
     "../horai_shokashu.md",
 )
+_KOGAKKO_LYRICS_CONTEST_LINK = (
+    "- 📜 **[〈懸賞募集 公學校唱歌教材入選歌詞〉與作詞者名單（全 19 篇原文與課本收錄對照）](../lyrics_contest/index.md)**",
+    "../lyrics_contest/index.md",
+)
+_UTANOHON_LYRICS_CONTEST_LINK = (
+    "- 📜 **[〈懸賞募集 公學校唱歌教材入選歌詞〉與作詞者名單（含〈かあれん〉江尚文、〈ぺたこ〉岡本新市原詞考證）](../../kogakko_shoka/lyrics_contest/index.md)**",
+    "../../kogakko_shoka/lyrics_contest/index.md",
+)
 
 VOLUME_EXTRA_LINKS: dict[tuple[str, str], list[tuple[str, str]]] = {
-    ("shokacho", _vol): (
-        [_SHOKACHO_RESEARCH_LINK, _SHOKACHO_HORAI_LINK]
-        if _vol in ("vol_07", "vol_08")
-        else [_SHOKACHO_RESEARCH_LINK]
-    )
-    for _vol in SHOKACHO_VOL_NOTES
+    ("kogakko_shoka", "grade_1"): [_KOGAKKO_LYRICS_CONTEST_LINK],
+    ("kogakko_shoka", "grade_3"): [_KOGAKKO_LYRICS_CONTEST_LINK],
+    ("utanohon", "ge_2006.006.0878"): [_UTANOHON_LYRICS_CONTEST_LINK],
+    **{
+        ("shokacho", _vol): (
+            [_SHOKACHO_RESEARCH_LINK, _SHOKACHO_HORAI_LINK]
+            if _vol in ("vol_07", "vol_08")
+            else [_SHOKACHO_RESEARCH_LINK]
+        )
+        for _vol in SHOKACHO_VOL_NOTES
+    },
 }
 
 VOLUME_SEO_OVERRIDES: dict[tuple[str, str], str] = {
