@@ -64,6 +64,8 @@ NORMALIZED_KEY_NAMES: dict[str, str] = {
 }
 
 COLLECTION_LABELS: dict[str, str] = {
+    "kogakko_shokashu_1915": "《公學校唱歌集》",
+    "taiwan_shuyu_shoka": "《臺灣周遊唱歌》",
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
     "utanohon": "《うたのほん》（唱歌課本）",
@@ -72,6 +74,8 @@ COLLECTION_LABELS: dict[str, str] = {
 }
 
 VOLUME_LABELS: dict[str, str] = {
+    "kogakko_shokashu_1915": "公學校唱歌集・大正四年版（國臺圖 0725 26）",
+    "taiwan_shuyu_shoka": "臺灣周遊唱歌・明治四十三年初版／大正元年八版（國臺圖 0786 10）",
     "grade_3": "公學校唱歌・第三學年",
     "ge_2006.006.0878": "うたのほん・下卷（初等科第二學年）",
     "grade_1_2020.006.0847.0001": "新定・尋常科第一學年",

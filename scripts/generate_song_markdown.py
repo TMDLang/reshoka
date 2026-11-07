@@ -43,6 +43,7 @@ class AmbiguousMainTmdError(RuntimeError):
 
 COLLECTION_TITLES: dict[str, str] = {
     "kogakko_shokashu_1915": "《公學校唱歌集》",
+    "taiwan_shuyu_shoka": "《臺灣周遊唱歌》",
     "kogakko_shoka": "《公學校唱歌》",
     "shintei_jido_shoka": "《新定兒童唱歌》",
     "utanohon": "《うたのほん》（唱歌課本）",
@@ -52,6 +53,7 @@ COLLECTION_TITLES: dict[str, str] = {
 
 VOLUME_TITLES: dict[str, str] = {
     "kogakko_shokashu_1915": "大正四年版（國臺圖 0725 26）",
+    "taiwan_shuyu_shoka": "明治四十三年初版／大正元年八版（國臺圖 0786 10）",
     "grade_3": "尋常科 第三學年用",
     "grade_1_2020.006.0847.0001": "尋常科 第一學年用（2020.006.0847.0001）",
     "grade_2_2020.006.0847.0002": "尋常科 第二學年用（2020.006.0847.0002）",
@@ -77,6 +79,7 @@ VOLUME_TITLES: dict[str, str] = {
 
 VOLUME_NAV_TITLES: dict[str, str] = {
     "kogakko_shokashu_1915": "大正四年（全一冊）",
+    "taiwan_shuyu_shoka": "明治四十三年／大正元年（全一冊）",
     "grade_3": "第三學年用",
     "grade_1_2020.006.0847.0001": "尋常科 第一學年",
     "grade_2_2020.006.0847.0002": "尋常科 第二學年",
@@ -197,7 +200,38 @@ BOOK_INFO_IMAGE_DESCRIPTIONS: dict[str, dict[str, str]] = {
         "P006.jpg": "「本集ノ使ヒ方」第 3–4 頁。",
         "P007.jpg": "「本集ノ使ヒ方」第 5–6 頁。",
     },
+    "taiwan_shuyu_shoka": {
+        "P001.jpg": "本冊外封面，左貼毛筆題籤「臺灣周遊唱歌」，右上與右下貼有舊藏圖書分類籤「0786 10」。",
+        "P002.jpg": "原書彩色／套色木刻扉頁（內封面），繪有水牛、牧童、帆船、椰林與遠山等臺灣風物，帆面題「臺灣周遊唱歌」，右上貼「0786 10」書標。",
+        "P003.jpg": "卷首折頁〈臺灣周遊唱歌地圖〉：繪出基隆港出發、沿西部縱貫鐵路南下至打狗與阿緱（屏東）、再循海路繞行鵝鑾鼻、紅頭嶼（蘭嶼）、卑南（臺東）、花蓮港、蘇澳、宜蘭、深坑、三貂角、瑞芳、金瓜石、牡丹坑返回基隆之全島周遊路線，右側鈐有「臺灣總督府圖書館藏」大方印與「杉浦和作氏ヨリ寄贈」印記。",
+        "P028.jpg": "版權頁：記載「明治四十三年二月十八日印刷、明治四十三年二月廿日發行、明治四十三年三月十五日再版、明治四十三年四月廿八日三版、明治四十三年六月廿五日四版、明治四十三年八月十二日五版、明治四十四年一月十五日六版、明治四十四年六月十五日七版、大正元年十二月十八日八版」、「（定價金八錢）」、「作歌者 臺北石坊街一丁目十一番戶 宇井英」、「發行者 臺北艋舺八甲街七十八番戶 村崎長昶」、「印刷者 臺北艋舺八甲街九十五番戶 青木嵒」、「印刷所 盛文社」、「發兌元 臺北石坊街一丁目十一番戶 新高堂書店」。",
+        "P029.jpg": "封底裏舊藏者杉浦和作之藏書票（印有「圖書番號 第 架 第 類 第 號 大正 年 月 日購入」，中書草書和歌並署「杉浦和作」）。",
+    },
 }
+
+TAIWAN_SHUYU_SHOKA_NOTE = (
+    "國立臺灣圖書館「日治時期圖書影像系統」典藏號 **`jpli2011-bk-sxt_0786_10_1912`**（索書號 **`0786 10`**，杉浦和作舊藏寄贈）。"
+    "明治 43 年（1910 年）2 月 20 日初版、大正元年（1912 年）12 月 18 日八版，**宇井英**作歌、**高橋二三四**作曲，臺北**新高堂書店**（村崎長昶）發行。"
+    "全曲採七五調 **90 節**長篇地理唱歌形式，配合 1908 年全線通車之臺灣縱貫鐵路與東岸環島航線，自基隆港出發環遊全臺名勝古蹟與物產；"
+    "樂譜為 F 大調（ヘ調）2/4 拍、五線譜與數字簡譜上下並列。本資料庫同時提供**簡單版（譜面第 1～4 節對位＋全 90 節歌詞檢索）**與**完整版（全 90 節歌詞完整對位與超長版合成音訊）**兩種版本。"
+)
+
+TAIWAN_SHUYU_SHOKA_BOOK_INFO_EXTRA = """## 館藏詮釋資料（國立臺灣圖書館）
+
+| 欄位 | 內容 |
+| :--- | :--- |
+| **系統編號** | `jpli2011-bk-sxt_0786_10_1912` |
+| **資料格式** | 圖書 |
+| **主要題名** | 臺灣周遊唱歌 |
+| **作歌者** | 宇井英（臺北石坊街一丁目十一番戶） |
+| **作曲者** | 高橋二三四 |
+| **發行者／發兌元** | 村崎長昶／臺北新高堂書店（印刷所：盛文社） |
+| **出版年（日治）** | 明治 43 年（1910 年）2 月 20 日初版；大正元年（1912 年）12 月 18 日八版 |
+| **定價** | 金八錢 |
+| **總頁數** | 掃描影像共 29 頁（含外封面、內封扉頁、周遊地圖、五線譜＋簡譜對照頁 1 頁、歌詞本文 23 頁共 90 節、版權頁與杉浦和作藏書票） |
+| **索書號** | `0786 10` |
+| **舊藏與寄贈** | 杉浦和作氏寄贈臺灣總督府圖書館 |
+"""
 
 KOGAKKO_SHOKASHU_1915_NOTE = (
     "國立臺灣圖書館「日治時期圖書影像系統」典藏號 **`jpli2009-bk-sxt_0725_26_8888`**（索書號 **`0725 26`**）。"
@@ -850,6 +884,8 @@ def generate_book_info_folder(folder: Path) -> Path:
         seo_desc = f"明治時期東京共益商社樂器店{col_title}（{vol_title}）之封面、緒言、發音圖解、目次、演奏注意與版權頁等高解析度原書掃描圖檔（共 {len(images)} 頁）。"
     elif col_name == "kogakko_shokashu_1915":
         seo_desc = f"日治時期臺灣總督府大正四年（1915 年）《公學校唱歌集》（國臺圖系統編號 jpli2009-bk-sxt_0725_26_8888，索書號 0725 26）之館藏詮釋資料、緒言全文轉錄、目次與「本集ノ使ヒ方」原書掃描圖檔（共 {len(images)} 頁）。"
+    elif col_name == "taiwan_shuyu_shoka":
+        seo_desc = f"日治時期明治四十三年（1910 年）初版、大正元年（1912 年）八版《臺灣周遊唱歌》（宇井英作歌、高橋二三四作曲、新高堂書店發行，國臺圖系統編號 jpli2011-bk-sxt_0786_10_1912，索書號 0786 10）之封面、周遊路線地圖、版權頁與藏書票原書掃描圖檔（共 {len(images)} 頁）。"
     else:
         seo_desc = f"日治時期臺灣{col_title}（{vol_title}）之封面、扉頁、目次（もくろく）、樂典大要、版權頁與封底等高解析度原書掃描圖檔（共 {len(images)} 頁）。"
     fm_lines = [
@@ -862,11 +898,12 @@ def generate_book_info_folder(folder: Path) -> Path:
     fm_lines.append("---")
     frontmatter = "\n".join(fm_lines)
 
-    extra_meta = (
-        f"\n{KOGAKKO_SHOKASHU_1915_BOOK_INFO_EXTRA}\n---\n\n## 卷首原書掃描頁（P001–P007）\n"
-        if col_name == "kogakko_shokashu_1915"
-        else ""
-    )
+    if col_name == "kogakko_shokashu_1915":
+        extra_meta = f"\n{KOGAKKO_SHOKASHU_1915_BOOK_INFO_EXTRA}\n---\n\n## 卷首原書掃描頁（P001–P007）\n"
+    elif col_name == "taiwan_shuyu_shoka":
+        extra_meta = f"\n{TAIWAN_SHUYU_SHOKA_BOOK_INFO_EXTRA}\n---\n\n## 卷首與卷末原書掃描頁\n"
+    else:
+        extra_meta = ""
 
     markdown = f"""{frontmatter}
 
@@ -908,6 +945,13 @@ def classify_song_section(
     if col_name == "kyoeki_shoka":
         num = f"第 {int(parts[0])} 曲" if parts[0].isdigit() else parts[0]
         return None, None, num
+
+    if col_name == "taiwan_shuyu_shoka":
+        if parts[0] == "1":
+            return None, None, "簡單版（第 1–4 節）"
+        if parts[0] == "2":
+            return None, None, "完整版（全 90 節）"
+        return None, None, parts[0]
 
     if col_name == "shokacho":
         if folder_name.startswith("0844_p"):
@@ -1049,6 +1093,9 @@ def generate_volume_index(vol_dir: Path) -> Path:
     if col_name == "kogakko_shokashu_1915":
         lines.extend([f"> {KOGAKKO_SHOKASHU_1915_NOTE}", ""])
 
+    if col_name == "taiwan_shuyu_shoka":
+        lines.extend([f"> {TAIWAN_SHUYU_SHOKA_NOTE}", ""])
+
     if col_name == "utanohon" and vol_name == "ge_2006.006.0878":
         lines.extend(
             [
@@ -1066,11 +1113,13 @@ def generate_volume_index(vol_dir: Path) -> Path:
             ]
         )
 
-    if col_name in ("kogakko_shoka", "utanohon", "shokacho", "kyoeki_shoka"):
+    if col_name in ("kogakko_shoka", "utanohon", "shokacho", "kyoeki_shoka", "taiwan_shuyu_shoka"):
         if col_name in ("kogakko_shoka", "utanohon"):
             first_col = "課次"
         elif col_name == "kyoeki_shoka":
             first_col = "曲次"
+        elif col_name == "taiwan_shuyu_shoka":
+            first_col = "版本"
         else:
             first_col = "原書頁碼"
         lines.extend(
@@ -1301,6 +1350,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
 
     collections = [
         ("kyoeki_shoka", "共益商社唱歌教科書"),
+        ("taiwan_shuyu_shoka", "臺灣周遊唱歌（明治四十三年）"),
         ("kogakko_shokashu_1915", "公學校唱歌集（大正四年）"),
         ("shokacho", "楊金土手抄唱歌帖"),
         ("shintei_jido_shoka", "新定兒童唱歌"),
@@ -1329,7 +1379,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         if col_slug == "shokacho" and (docs_dir / "archives" / "index.md").exists():
             nav_lines.append("      - 延伸館藏與日本國會圖書館調查: archives/index.md")
 
-        if col_slug == "kogakko_shokashu_1915":
+        if col_slug in ("kogakko_shokashu_1915", "taiwan_shuyu_shoka"):
             generate_volume_index(col_dir)
             vol_title = VOLUME_TITLES.get(col_slug, col_slug)
             song_dirs = sorted(
