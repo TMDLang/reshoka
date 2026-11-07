@@ -152,8 +152,8 @@ def audit_piano_score(tmd_path: Path):
     text = tmd_path.read_text(encoding="utf-8")
     key_offset = parse_key_signature(text)
 
-    rh_match = re.search(r":PianoRH.*?\{(.*?)\}", text, re.DOTALL)
-    lh_match = re.search(r":PianoLH.*?\{(.*?)\}", text, re.DOTALL)
+    rh_match = re.search(r":PianoRH[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
+    lh_match = re.search(r":PianoLH[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
     
     if not rh_match or not lh_match:
         return True, ["無法找到 PianoRH 或 PianoLH 音軌"]

@@ -155,9 +155,11 @@ def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> 
         if p is not best_part:
             root.remove(p)
 
-    # 遍歷保留聲部中的所有 <note>，將無歌詞的器樂音符轉為 <rest/>
+    # 遍歷保留聲部中的所有 <note>，將無歌詞的器樂音符轉為 <rest/>，並為同小節一字多音圓滑線補上「ー」
     converted_notes = 0
+    melisma_notes = 0
     in_lyric_tie = False
+    in_melisma = False
     prev_lyric_by_num: dict[str, str] = {}
 
     kanji_to_kana = {
@@ -183,9 +185,17 @@ def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> 
         for harmony in list(measure.findall("harmony")):
             measure.remove(harmony)
 
+        measure_has_lyric = any(
+            (lyr.findtext("text") or "").strip() not in ("", "_")
+            for note in measure.findall("note")
+            if note.find("rest") is None
+            for lyr in note.findall("lyric")
+        )
+
         for note in measure.findall("note"):
             if note.find("rest") is not None:
                 in_lyric_tie = False
+                in_melisma = False
                 for lyr in list(note.findall("lyric")):
                     note.remove(lyr)
                 continue
@@ -227,12 +237,25 @@ def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> 
 
             if has_valid_lyric:
                 in_lyric_tie = has_tie_start
+                in_melisma = True
             elif has_tie_stop and in_lyric_tie:
-                # 這是前一個有歌詞音符的連音線延音 (Melisma / Tie continuation)，保留音高
+                # 這是前一個有歌詞音符的連音線延音 (Tie continuation)，保留音高
                 in_lyric_tie = has_tie_start
+                in_melisma = True
+            elif measure_has_lyric and in_melisma:
+                # 歌唱小節內的一字多音圓滑線延音 (Slur / Melisma continuation)，補上長音「ー」
+                lyr_el = ET.SubElement(note, "lyric", {"number": "1"})
+                syl_el = ET.SubElement(lyr_el, "syllabic")
+                syl_el.text = "single"
+                txt_el = ET.SubElement(lyr_el, "text")
+                txt_el.text = "ー"
+                in_lyric_tie = has_tie_start
+                in_melisma = True
+                melisma_notes += 1
             else:
                 # 無歌詞且非歌詞延音 -> 純器樂音符（例如前奏 Intro / 間奏），轉為 <rest/>
                 in_lyric_tie = False
+                in_melisma = False
                 pitch_el = note.find("pitch")
                 if pitch_el is not None:
                     # 將 <pitch> 替換為 <rest/>（保持在 duration 之前以符合 MusicXML DTD 順序）

@@ -74,9 +74,9 @@ def audit_tmd(tmd_path: Path) -> bool:
     has_warnings = False
 
     # 提取音軌小節
-    body_match = re.search(r":Piano.*?\{(.*?)\}", text, re.DOTALL)
+    body_match = re.search(r":(?:Piano|Voice)[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
     if not body_match:
-        body_match = re.search(r"@[^\{]*\{(.*?)\}", text, re.DOTALL)
+        body_match = re.search(r"@[^\{\n]*\{(.*?)\n\s*\}", text, re.DOTALL)
 
     if not body_match:
         print("  ⚠️ 未能解析音軌內容")
