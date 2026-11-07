@@ -62,4 +62,4 @@ SanjoNoIe:Piano@|0|{
     L2| き - - の あ - を さ | に - - - - - ぬ - | れ - - な - が - - | ら - - - - - _ - |
 }
 
--> SanjoNoIe[L1] -> SanjoNoIe[L2] -> #
+-> SanjoNoIe -> #

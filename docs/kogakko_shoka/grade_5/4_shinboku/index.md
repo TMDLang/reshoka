@@ -57,38 +57,31 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 !f! z12 A4 | d8 c4 B4 | !mf! e8 z4 A4 | A6 B2 A4 A4 |
-w: ア | フ ギ ミ | ヨ ネ | ザ _ シ ユ
+w: 1.~ア | フ ギ ミ | ヨ ネ | ザ _ シ ユ
+w: 2.~お | も ひ み | よ さ | ん _ ぜ ん
 !mp! d6 A2 A4 A4 | B6 B2 G4 F4 | E6 A2 A8 | !f! d6 d2 c4 B4 |
-w: タ カ ニ ダ | イ チ ヲ シ | メ _ テ | コ ズ ヱ ハ
+w: 1.~タ カ ニ ダ | イ チ ヲ シ | メ _ テ | コ ズ ヱ ハ
+w: 2.~ね ん の か | み よ の _ | む か し | こ こ に お
 A6 A2 G4 F4 | !mf! G6 G2 F4 E4 | B6 A2 A4 z4 | D8 F4 F4 |
-w: タ _ カ ク | コ ク ウ ヲ | シ ノ グ | ヨ ニ モ
+w: 1.~タ _ カ ク | コ ク ウ ヲ | シ ノ グ | ヨ ニ モ
+w: 2.~ち _ た る | こ の み の | つ ぶ の | や が て
 B6 B2 B4 B4 | A6 A2 A4 D4 | E6 F2 E4 z4 | !mp! G6 G2 G4 F4 |
-w: マ レ ナ ル | ベ ニ ヒ ノ | キョ ボ ク | コ ケ ム ス
+w: 1.~マ レ ナ ル | ベ ニ ヒ ノ | キョ ボ ク | コ ケ ム ス
+w: 2.~め ば え し | べ に ひ の | ふ た ば | しゅ ん ぷ う
 E6 E2 E4 F4 | G6 F2 G4 ^G4 | A6 A2 B4 z4 | !f! d6 d2 c4 B4 |
-w: ミ キ ニ ハ | シ メ ヲ バ | ユ ヒ テ | ヤ _ マ ノ
+w: 1.~ミ キ ニ ハ | シ メ ヲ バ | ユ ヒ テ | ヤ _ マ ノ
+w: 2.~し う う _ | し の ぎ て | い ま や | や _ ま の
 A6 A2 G4 F4 | G6 G2 F4 F4 | !mf! B6 A2 A4 D4 | E6 E2 D6 D2 |
-w: マ モ リ ト | カ ミ サ ビ | タ テ リ シン | ボ ク ノ ナ
-d8 z4 A4 | B8 A6 A2 | D12 z4 | !f! z12 A4 |
-w: モ フ | サ ハ シ | ヤ | お
-d8 c4 B4 | !mf! e8 z4 A4 | A6 B2 A4 A4 | !mp! d6 A2 A4 A4 |
-w: も ひ み | よ さ | ん _ ぜ ん | ね ん の か
-B6 B2 G4 F4 | E6 A2 A8 | !f! d6 d2 c4 B4 | A6 A2 G4 F4 |
-w: み よ の _ | む か し | こ こ に お | ち _ た る
-!mf! G6 G2 F4 E4 | B6 A2 A4 z4 | D8 F4 F4 | B6 B2 B4 B4 |
-w: こ の み の | つ ぶ の | や が て | め ば え し
-A6 A2 A4 D4 | E6 F2 E4 z4 | !mp! G6 G2 G4 F4 | E6 E2 E4 F4 |
-w: べ に ひ の | ふ た ば | しゅ ん ぷ う | し う う _
-G6 F2 G4 ^G4 | A6 A2 B4 z4 | !f! d6 d2 c4 B4 | A6 A2 G4 F4 |
-w: し の ぎ て | い ま や | や _ ま の | ほ こ り と
-G6 G2 F4 F4 | !mf! B6 A2 A4 D4 | E6 E2 D6 D2 | d8 z4 A4 |
-w: を を し く | た て り しん | ぼ く の な | も ふ
-B8 A6 A2 | D12 z4 |
-w: さ は し | や
+w: 1.~マ モ リ ト | カ ミ サ ビ | タ テ リ シン | ボ ク ノ ナ
+w: 2.~ほ こ り と | を を し く | た て り しん | ぼ く の な
+d8 z4 A4 | B8 A6 A2 | D12 z4 |
+w: 1.~モ フ | サ ハ シ | ヤ
+w: 2.~も ふ | さ は し | や
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shinboku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdFiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGJogZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lm8xJLSolR00aLUnMx0sJFaWgrPl857NmeFgpYWl6KtgqGhEZe9rYILl42JvokdSNuL9l3PGxc_37H3-dzFT3fNedzQ9bR1zdO1O54tWPh0ysZna3seN3Q_X7Pmya4pQMGnO7c8n7Li_Z6OZzPWPp3U87S38cmOBqDg-z09z7csejZ7x4uZ8xVMjYz1jM0VTIyNjHRN3u_pVOLi0tdSsKUW4FJQUHjaNx9k2eb2Fyu6XnS0A135YuW8p60rnk1rBzru6YbeZ-2dCqC408sqSH_UMBnINAUxge6EaFUoKNBTMDQAShkaAp34fs8skLEvVu1_1rAcZGB3L9AnQNHHzd0vp24HigONdVF4umQ5mNljpPC0F2j3DLCiTmBQKgB1AMVfNsx_umuZwqOZK21BIQ0yExhAYGr3BqARjxubHjduBWp53Nj3Yln346aOxw1NIOlnC3Y-bpz2uHH646a2x43zHzd2P25cDbTu6ZwNj5smgcUbHzcue9zQCFL9uHHy48ZZj5smPm5c_3L1jMeN_S9mzn6-chfYBqBU_-PGNpAlEJ2N6x43ToDqfLIDaMnqx01AZ-x73NTzuHHV46bu51tan62aA9YMdMXqx42bwC5c93T7CmDKgboQbPDEx00NjxtnPm7c_7ixF6wU7DCQPUB3Al2-CeHIpxs3gsxY1_G4qetx4wpgMnzcOPVx4-bnq4F-WwYShBgMSZ8gpRN6wQ7bCla3Hmx2C0gR2OG7esDh1DAXaAlK0D3Z0fm0txmYCIFGAM16snsx2CdAS_YDFUF88mzGFKSgawKasfrFhL2PGxeCwrqpG2r_-mXgsFryuHEbiAHVAHRDIzCggC4GxsCGx41As6dDQgyoCOisFxM7YZE4Y-nLRSueL-9-ORtoHiTg-4A6n-zuAvsEKVgeN-4GuwQUMqDgAzkJqKGf9MABKqI8T0GBgpY-F1dwRmZeUn52qVVAZmJevkONQU01yBIFGwstOzADW2ZWeLpn44ut24FZB1RW7Gh4tm6rggYsA2piUQ-0CWRWjYKBgi4cVqfVKpgC6RoFwziokDkQm4GFjGBCIB3VuXClIBKkBkSjaDYFc6tzC6AqwRb6GNYoxCNZ-bhpEVjP4-apcJF1ILJ5PlR8BVQcpOtxcy9EtGkbXPV2sPgyqPh-qOhqoFg3WKYBYbcRmt2NXVBdTXCRTWASZApIvAPZ7kaQC0Gik-Gq54DtAvGB4o1roXZPBrLBfmgEuaAGnH-wxxq4YO8BR5aZwtMN_c_XN-jAy0280QaKE1ComwBJY7D9RkiBDoI14OiExgWQQsQkRIUpkl5wdIK4ukASJAQyDGYJxEhQrCOi8HHTEohnmxuBGBxo4IgARdhCWPA0t8Gd8rhpMzRwdgHFN4Jl-6EykCiDRBqIXI-mYz0Qg6IXYg9IBmQTiN8HZG-ARg8iiiHRB9LZAY0ImBtASQESLcD8ixBvhEQoiAYWTGAWNGE0wv3SCEqOwKIKTcc6qG0Qe0Ay0HBp3AYVg7gNfxLY0UlOEjCEug0UX5BohCUKEI0a1SAapB6WTIzBNDhOITkUFvno6ckITINFEJEPz5OwPAbLw_OgomuAGBSEj5tBwQmSmQlX_7h5EpjVB42UtY-bl0Ml50BjHxxmSClgI1BuAZi1E2ocKDZA_LVwJ4BTEyINNLXAY64HTMIKiEao6AYgBmVvSEoAxRzIbBAfWHRAiwFYnG6FyswH64O7D1QHtEIdAko64JKoEZTowZJQTW1QMXBiw58Qns6eTU5CgMSdMZg2UQdbD4t3UCqAxjLRhQFyOYCcrmDlOcggRGCDCwNYhlwIKwyaJ0AjChTsIP4kaHEADbpmSDYByYDSDDw1wFPQIiBeBWaBIglkByglQeqFx02gCHncDC13YWU-0Hyonqbtj5tBaQe5TIBFByjHgiyDp4hGSEoBNsigqQaW-hApaB9UJ0T9bqgoMMqbwIm8EZQdQDpACRtkPdCzYPuADQqoHmh6BdoJ0wNMO2D3E6odpoBThAlyigA3pfGmCFjehRQRhsgVOig1QKppSKxCeCASUaLA1CFneVBVBy2NwZEFCvAucJSBMj8IQipoWCUJyTOwnAmOFJSIh-lAjqM90FDqh5fbwAYySgUNqYhBZoPUw5sMjaBSA5KXkWMOYUctF5eunQKsaRXtYxirgMI3AvOVuQA)]
+- [主旋律 TMD 檔案](shinboku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdFiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGJogZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lm8xJLSolR00aLUnMx0sJFaWgrPl857NmeFgpYWl6KtgqGhEZe9rYILl42JvokdSNuL9l3PGxc_37H3-dzFT3fNedzQ9bR1zdO1O54tWPh0ysZna3seN3Q_X7Pmya4pQMGnO7c8n7Li_Z6OZzPWPp3U87S38cmOBqDg-z09z7csejZ7x4uZ8xVMjYz1jM0VTIyNjHRN3u_pVOLi0tdSsKUW4FJQUHjaNx9k2eb2Fyu6XnS0A135YuW8p60rnk1rBzru6YbeZ-2dCqC408sqSH_UMBnINAUxge6EaFUoKNBTMDQAShkaAp34fs8skLEvVu1_1rAcZGB3L9AnQNHHzd0vp24HigONdVF4umQ5mNljpPC0F2j3DLCiTmBQKgB1AMVfNsx_umuZwqOZK21BIQ0yExhAYGr3BqARjxubHjduBWp53Nj3Yln346aOxw1NIOlnC3Y-bpz2uHH646a2x43zHzd2P25cDbTu6ZwNj5smgcUbHzcue9zQCFL9uHHy48ZZj5smPm5c_3L1jMeN_S9mzn6-chfYBqBU_-PGNpAlEJ2N6x43ToDqfLIDaMnqx01AZ-x73NTzuHHV46bu51tan62aA9YMdMXqx42bwC5c93T7CmDKgboQbPDEx00NjxtnPm7c_7ixF6wU7DCQPUB3Al2-CeHIpxs3gsxY1_G4qetx4wpgMnzcOPVx4-bnq4F-WwYShBgMSZ8gpRN6wQ7bCla3Hmx2C0gR2OG7esDh1DAXaAlK0D3Z0fm0txmYCIFGAM16snsx2CdAS_YDFUF88mzGFKSgawKasfrFhL2PGxeCwrqpG2r_-mXgsFryuHEbiAHVAHRDIzCggC4GxsCGx41As6dDQgyoCOisFxM7YZE4Y-nLRSueL-9-ORtoHiTg-4A6n-zuAvsEKVgeN-4GuwQUMqDgAzkJqKGf9MABKqI8T0GBgpY-F1dwRmZeUn52qVVAZmJevkONQU01yBIFGwstOzADW2ZWeLpn44ut24FZB1RW7Gh4tm6rggYsA2piUQ-0CWRWjYKBgi4cVqfVKpgC6RoFwziokDkQm4GFjGBCIB3VuXClIBKkBkSjaDYFc6tzC6AqwRb6GNYoxCNZ-bhpEVjP4-apcJF1ILJ5PlR8BVQcpOtxcy9EtGkbXPV2sPgyqPh-qOhqoFg3WKYBYbcRmt2NXVBdTXCRTWASZApIvAPZ7kaQC0Gik-Gq54DtAvGB4o1roXZPBrLBfmgEuaAGnH-wxxq4YO8BR5aZwtMN_c_XN-jAy0280QaKE1ComwBJY7D9RkiBDoI14OiExgWQQsQkRIUpkl5wdIK4ukASJAQyDGYJxEhQrCOi8HHTEohnmxuBGBxo4IgARdhCWPA0t8Gd8rhpMzRwdgHFN4Jl-6EykCiDRBqIXI-mYz0Qg6IXYg9IBmQTiN8HZG-ARg8iiiHRB9LZAY0ImBtASQESLcD8ixBvhEQoiAYWTGAWNGE0wv3SCEqOwKIKTcc6qG0Qe0Ay0HBp3AYVg7gNfxLY0UlOEjCEug0UX5BohCUKEI0a1SAapB6WTIzBNDhOITkUFvno6ckITINFEJEPz5OwPAbLw_OgomuAGBSEj5tBwQmSmQlX_7h5EpjVB42UtY-bl0Ml50BjHxxmSClgI1BuAZi1E2ocKDZA_LVwJ4BTEyINNLXAY64HTMIKiEao6AYgBmVvSEoAxRzIbBAfWHRAiwFYnG6FyswH64O7D1QHtEIdAko64JKoEZTowZJQTW1QMXBiw58Qns6eTU5CgMSdMZg2UQdbD4t3UCqAxjLRhQFyOYCcrmDlOcggRGCDCwNYhlwIKwyaJ0AjChTsIP4kaHEADbpmSDYByYDSDDw1wFPQIiBeBWaBIglkByglQeqFx02gCHncDC13YWU-0Hyonqbtj5tBaQe5TIBFByjHgiyDp4hGSEoBNsigqQaW-hApaB9UJ0T9bqgoMMqbwIm8EZQdQDpACRtkPdCzYPuADQqoHmh6BdoJ0wNMO2D3E6odpoBThAlyigA3pfGmCFjehRQRhsgVOig1QKppSKxCeCASUaLA1CFneVBVBy2NwZEFCvAucJSBMj8IQipoWCUJyTOwnAmOFJSIh-lAjqM90FDqh5fbwAYySgUNqYhBZoPUw5sMjaBSA5KXkWMOYUctF5eunQKsaaUAZCtzAQA)]
 - [鋼琴伴奏 TMD 檔案](shinboku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-dN6zOSve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGhkZc9rYKLlw2Jvomdlx1Ckov2nc9b1z8fMfe53MXP90153FD19PWNU_X7ni2YOHTKRufre153ND9fM2aJ7umAAWf7tzyfArIgmcz1j6d1PO0t_HJjgag4Ps9Pc-3LHo2e8eLmfMVTI2M9YzNFUyMjYx0TYBWK3FxBWdk5iXlZ5daBWQm5uUHeTjUGNRUcykAgY2Flh2YUaNgoKALh9VptQqmQLpGwTAOKmQOxGZgISOYEEhHdS5cKYgEqQHRKJpNwdzq3AKoSrCFPoY1CvFIVj5uWgTW87h5KlxkHYhsng8VXwEVB-l63NwLEW3aBle9HSy-DCq-Hyq6GijWDZZpQNhthGZ3YxdUVxNcZBOYBJkCEu9AtrsR5EKQ6GS46jlgu0B8oHjjWqjdk4FssB8aQS6o4YKGNCgYQQFlAiSNwVqMkMIJBGvAMQANPiCFCHyIClMkveAYAHF1gSRICGQYzBKIkaCIQoT646YlEPc1NwIx2J_gsAOF8UKYj5rb4E553LQZ6p9dQPGNYNl-qAwklCHhDCLXo-lYD8SgGIHYA5IB2QTi9wHZG6AhiogVSIiDdHZAww7mBlDsQULyceN0hHgjJA5A9ONGsBtgcdkI90sjKAU9bgLHAZKOdVDbIPaAZKDh0rgNKgZxGzTWDKHGgYIYEvKweATRqLEDokHqYTFrDKbB0QDJB7D4Qk8CRmAaLIKIL3jKh6VkWE6ZBxVdA8QgXz9uBoUASGYmXP3j5klgVh80HNc-bl4OlZwDjTCwN5EibSNQbgGYtRNqHCgAQfy1cCeAEwAi2ppa4IHdAyZh2bARKroBiEGZCBJ5oMAGmQ3iAzMoNLPBomErVGY-WB_cfY3THze1Qh0Cim1wfm8EpVOwJFRTG1QMnD5gcQcJbmMwbaIO1gGLKlDEQSOG6CyHnNuQkwKsoAMZhAgfcJaDJfuFsCzXPAEatqCQAvEnQTMd1LfNkMQIkgFFMzwC4ZG-CIhXgVmgcAXZAYp8SIH5uAkUho-boQUSrDAEmg_V07T9cTMoupFzHiwEQfkCZBk8Ehshkfu4cR80omEJBhHp-6A6Iep3Q0WBsdQETpeNoBQM0gFKiyDrgZ4F2_e4EVqSgPMoxE6YHmB0g90Pi0RYDoFkREPkygkUgZAqBxIREB6IRORbmDrkjAUqtqHFFDh8QWHUBQ5lUBYDQUhlAyvwISkTlv7B4YgSVzAdyMG6B-qxfniB9rhxFUplA6lUQGaD1MOrv0ZQ3oTkGOTARthRi16z-yDX7CZINTsEQpN4vEK0YayCaTyQNokFpW8QyzQ-FqYGnHwhiqAUMBBR-bBsBTECRIFVwU2CM3BYCRWAa4TUYRBZkBxEK1AApAWEgQ6DFcNoLkNyA7LRcHkUN0H8Byp_8bocqxeN4pHVAQVwBii675A8BuNj-gvSkIIZj-49A7AUnIsUvgj_gswCJgldOwVYqoj2Acqg8I3AfGUuAA)]
 
 ## 分析
@@ -97,14 +90,14 @@ w: さ は し | や
 ================================================================================
 📊 TMD Song Profile: [ 神木 ]
 ================================================================================
-⏱  Duration:       1:55 (115.7s), 54 measures total
+⏱  Duration:       0:57 (57.9s), 27 measures total
 🎼 Key & Tempo:    首調基準 D, != 112.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Shinboku[L1] #1 @ m.12, 0:23]
-   - 最高音: E5 in [Shinboku[L1] #1 @ m.3, 0:04]
+   - 最低音:  D4 in [Shinboku #1 @ m.12, 0:23]
+   - 最高音: E5 in [Shinboku #1 @ m.3, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Shinboku[L1] (57.9s) -> Shinboku[L2] (57.9s)
+🏛  結構:      Shinboku (57.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -112,10 +105,9 @@ w: さ は し | や
    - 核心骨幹音:  A, D, B, G, E
    - 調性數值:    D 大調 [相關度: 0.90, 穩定度: High, 自然音純度: 99.0%]
    - 候選調性 (K-S): D 大調 (0.90), A 大調 (0.74), B 小調 (0.63)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Shinboku[L1] #1]: D 大調 (r: 0.90, 自然音純度: 99.0%, 調外音: G#)
-     • [Shinboku[L2] #1]: D 大調 (r: 0.90, 自然音純度: 99.0%, 調外音: G#)
+     • [Shinboku #1]: D 大調 (r: 0.90, 自然音純度: 99.0%, 調外音: G#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -142,7 +134,7 @@ w: さ は し | や
      B  : ███████████████           15.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 182 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 91 個音符)
 ================================================================================
 ```
 
