@@ -26,6 +26,7 @@ Reference Materials 23: 冬季休業 (Tōki Kyūgyō / Winter Vacation)
 Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934), p. 65 (P088.jpg)
 Key: G major (?= G), 4/4 (<4/4>), Quarter = 100 (!= 100)
 
+
 ## 歌詞
 
 ```text

@@ -1,0 +1,149 @@
+---
+title: "夕立 — 《公學校唱歌》 第四學年用"
+song_title: "夕立"
+description: "〈夕立〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第四學年用（國臺圖 0729 73））（詞：公學校用國民讀本、曲：宮島慎三郎），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あちらの山に黑雲（くろくも）おこり、 ひらめくいなづま　ぴかぴかぴか、…"
+keywords: "夕立, 公學校唱歌, 第四學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 公學校用國民讀本, 宮島慎三郎"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌》 尋常科 第四學年用（國臺圖 0729 73）"
+musical_key: "D"
+image: "P023.jpg"
+audio: "yudachi.mp3"
+---
+
+# 夕立
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+<audio controls src="yudachi.mp3"></audio>
+
+- 詞：公學校用國民讀本
+- 曲：宮島慎三郎
+- 臺灣總督府《公學校唱歌》第四學年用（昭和十一年，索書號 0729 73）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P023.jpg–P024.jpg，原書 pp. 18–19）：
+作詞：臺灣總督府《公學校用國民讀本》
+作曲：臺灣總督府國語學校助教授 宮島慎三郎（據大正四年《公學校唱歌集》緒言）
+調性與拍號：ニ長調（D 大調）2/4 拍，速度 ♩=120
+
+
+## 歌詞
+
+```text
+一
+あちらの山に黑雲（くろくも）おこり、
+ひらめくいなづま　ぴかぴかぴか、
+なり出すかみなり　ごろごろごろ、
+見る間に空は暗（くら）くなる。
+
+二
+かけ行く人のあと追（お）つかけて、
+吹き來（く）る風音（かざおと）　さつさつさつ、
+降り出す夕立（ゆふだち）　ぱらぱらぱら、
+見る間に庭（には）は池（いけ）となる。
+
+三
+かみなりやんで、雨風（あめかぜ）はれて、
+落ち來る白露（しらつゆ）　はらはらはら、
+なき出す夕蟬（ゆふぜみ）　じいじいじい、
+見る間に虹（にじ）は消（き）えて行く。
+```
+
+## ABC
+
+```abc
+X:1
+T:夕立
+C:曲：宮島慎三郎
+M:2/4
+L:1/16
+Q:1/4=120
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! A3 A d2 d2 | A3 A A4 | B3 B A2 A2 | F3 E D4 |
+w: 1.~ア チ ラ ノ | ヤ マ ニ | ク ロ ク モ | オ コ リ
+w: 2.~か け ゆ く | ひ と の | あ と お っ | か け て
+w: 3.~カ ミ ナ リ | ヤ ン デ | ア メ カ ゼ | ハ レ テ
+E3 E D2 F2 | A3 A A2 A2 | !mp! B B z2 A A z2 | d d6 z |
+w: 1.~ヒ ラ メ ク | イ ナ ヅ マ | ピ カ ピ カ | ピ カ
+w: 2.~ふ き く る | か ざ お と | さ っ さ っ | さ っ
+w: 3.~オ チ ク ル | シ ラ ツ ユ | ハ ラ ハ ラ | ハ ラ
+!f! d3 d A2 A2 | F3 F D2 D2 | E E z2 A A z2 | F F6 z |
+w: 1.~ナ リ ダ ス | カ ミ ナ リ | ゴ ロ ゴ ロ | ゴ ロ
+w: 2.~ふ り だ す | ゆ ふ だ ち | ぱ ら ぱ ら | ぱ ら
+w: 3.~ナ キ ダ ス | ユ フ ゼ ミ | ジ イ ジ イ | ジ イ
+!mf! B3 B A2 A2 | F3 F A4 | E3 E F2 E2 | D6 z2 |
+w: 1.~ミ ル マ ニ | ソ ラ ハ | ク ラ ク ナ | ル
+w: 2.~み る ま に | に は は | い け と な | る
+w: 3.~ミ ル マ ニ | ニ ジ ハ | キ エ テ ユ | ク
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yudachi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdBiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGBkjZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lny1EQgowhduDg1sTg_L764NDcXJKmlpfB0ydTnq7sVtLS4FG0VDI0MuOxtFVy4bIz0TexAel-snPd-z6ynrWuert3xbMHC51NWPJ3T_WzDxBfrGp7NWQM2_tnsTSAl69Y93bztWWvfkx2dL5v7wDIv2nc9b1z8fMfe53MXP90153FDF9ygp1M2Plvb87ih-_maNU9nzwYKPt25BWj6-z0dz2asfTqp52lv45MdDUDB93t6nm9Z9Gz2jhcz5ysYmBtZKpgbv9_TqcTFpa-lYEstwKWgoPC0bz7Ims3tL1Z0vehoB7oP6PunrSueTWsHOuvpht5n7Z0KoIjXyypIf9QwGcg0ATGBLoRoVSgo0FMwtABKGVoCnQgMFZCxT_bOgYQinuBAC1dguEB1QgIXTSdQ6YtV86AB2bXy2dSZz_o6FNBiABSSk2c9XbL82drFoBDeuQUz_F_ObgNFwfZJL1Y0AB0MsvPFqv3PGpaDvN_dCwxxoOWPm7tfTt0OFAea6AJML8vBzE5gClEAqgF6_mXD_Ke7lik8mrnSFpSAwC7f0QCiHjc2PW5c-Lip83HjuqcbNz5uXP1y98SXIC91PG7sf9zUCyabgKY9bux63Dj5cVPX44ZGiM5NIG1NjSAVjS2PG1c9blz6uHHf44aGx41bHjd2o5AwPauABjxt3_W4cSZYbj9EBKxnCtg2JBKi58Wy7sdN3S-nTQa67flKoM71z2ZNhzkPGINAhwHtB5oCtKQJ4rVdPRDLgBZMfLGwB6jgyS6gxnVgz654sX8vWHsXWO8SiLLHjcug9j2dsPNxY--TfW0QO0CKgNYvWvFy_mawCFD1NHBYAHNCJ9jhU8GmIJEQg17O7IV7FpKHQfqb2h43bn3cuAAY6jD9G8HBj0RievzprrVgy1cDvQ929vpnGxeARYABPxEssgItEHaAEwtKKDe1PG4CmrYcaMHL2SuAfgKb0ASOQ6CyORCTHzcBQwwWGi8m7AW6FBgaQKOfz9z7cg4kZUwHO3YJ0DcwTwC1QTTDSESMN_bCA-HF_DVIgTAH6DSY_hlgryCRmIHwYuZOWCDMgAbCtg6wCDCNA7lAxjJIdIMCAaiZ8kIHChS09Lm4IktTEpMzMq0CMhPz8h1qDGqqQXYo2BiaadmBWdhKOwVg6QnMakBnKWiYKDzd0P98fYMOvIjSxKIBaBXIsBqF6ty0WgVTBV0gNFUwjANSYKIGLgahQSJmYNoMLALCNQrGYBEjBUOYGrChPoY1Co-bFoFFHjc3AvFKMKsPrOdx8xKozDwg7oab_rhpPVR8LZT9uBlkBkhmFUSmaTNQDMKG22UElG-EmAJMo0A1bWBWP0Rn4yaozAogXoewq7EJSbwLzFoMlUEyq3EZql3GILeshrpyPhCDdYJdhOwvkCvbkfwFC4mFUN2Pm_ZAdYBcCZJZA8Qgd0Pswh_Nu3rIiWYjpJgCxRpq_EJiszq3oBYYvWYKBlAJEF0DSg_gJAGDBsjR3DwJ6oWVYA-CPAeKOpC3YcHRBcStYNY8qLengAMiHiyGYCNkEHbFo0TzVmjU9EIjGJhn0SJtGjw6V0BlpoKjFmwXEhshg8UucDRDkxwo-UITI8hdIJntSD5uAbNAyQQSnSBRiL8QbIQMql0EcnMnWbkZmJmhkQWk0DOqMTj6QRiUIIzQ4tkYqgpbLIPCFJLUHzc3gEN-JzQ0cGaHpi3grAwODSQ2QoZALDcB003jAnC8zYTqg2QRkAqYDCjFgfRsBMp2QmMZwUbI4IhlmL-agEUOqr_AcQryDTCVgLMryIcQV-wAp22IvxBshAwJsQxsj5FdZuMqjY2RSmxYrgfJgNjAzIwSxSglNtiDkIQOyaqQ0hnksb1QGVCSh5RZqCU2UByaSUABCjILNROjltb7oYHeDWTvA0cZNGuBaRB_PRjD7WkEZTNYmQzK2MD6HuoCWP2BZg84cnH6B1rrgCMMxT-QRPm4CVgrgMtjeNaG-hTZnlouLl07BWh1rQBkKnMBAA)]
+- [鋼琴伴奏 TMD 檔案](yudachi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOrz1d3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDIwMue1sFFy4bI30TO646BaUXK-e93zPraeuap2t3PFuw8PmUFU_ndD_bMPHFuoZnc9YogZQ8m70JpGTduqebtz1r7Xuyo_Nlcx9Y5kX7rueNi5_v2Pt87uKnu-Y8buiCG_R0ysZna3seN3Q_X7Pm6ezZQMGnO7cATQe67tmMtU8n9TztbXyyowEo-H5Pz_Mti57N3vFi5nwFA3MjSwVzY6CLlbi4IktTEpMzMq0CMhPz8oM8HGoMaqq5FIDAxtBMyw7MqlGozk2rVTBV0AVCUwXDOCAFJmrgYhAaJGIGps3AIiBco2AMFjFSMISpARvqY1ij8LhpEVjkcXMjEK8Es_rAeh43L4HKzAPibrjpj5vWQ8XXQtmPm0FmgGRWQWSaNgPFIGy4XUZA-UaIKY8bJwLVtIFZ_RCdjZugMiuAeB3CrsYmJPEuMGsxVAbJrMZlqHYZg9yyGurK-UAM1gl2EbK_QK5sR_IXLCQWQnU_btoD1QFyJUhmDRCD3A2xCxozRkiBCwpo1CiBREB1bkEtMEbMFAygEiC6BhSF4FiEQQPkmGmeBLV1JdhNIPeAQhvkUpgPuoC4FcyaB3XpFLDb48FiCDZCBmFXPErMbIWGZi80Th43gcIXOZynwWNgBVRmKjg2wHYhsREyWOwCxww0lYBSHDT9gNwFktmO5OMWMAsUs5AYAIlC_IVgI2RQ7YLlGWCWgYYvkELPDsbgGANhUBwaoUWNMVQVtogBBQMkQT1ubgAH1k6oB3AmuqYt4AwD9gASGyFDIGKagFHduAAc1DOh-iAJEaQCJgNKJCA9G4GyndCIQbARMjgiBuavJmDGRvUXOBpAvgFGLDhTgHwIccUOcHKE-AvBRshgjxhQYYarmDJGKspgeQskA2IDswxKrKAUZWA3QZITJENAii2QW_ZCZUAJC5KZUYsyoDg0KYLCAGQWalZBLcb2Q8OpG8jeBw5laAIG0yD-ejCG29MISsywwgqUfR43wtIFrGBFswccHzj9Ay2OwWGM4h9IOnrcBCwuwQUVPANBfYpsTy1azeODXPNYwCsew3iFaMNYGIXJNwEyTJD4pvFAlmk8QgRqDoY4NpMMQDxgZkOSg2U9wi4B2WAAJbGbgO5WbCaA3QhnoJsDDDRdOwVouEX7ACWQuUaoXGMwV5kLAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 夕立 ]
+================================================================================
+⏱  Duration:       0:16 (16.0s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 120.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Yudachi #1 @ m.4, 0:03]
+   - 最高音: D5 in [Yudachi #1 @ m.1, 0:00]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Yudachi (16.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  A, D, F#, E, B
+   - 調性數值:    D 大調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.87), A 大調 (0.78), F# 小調 (0.67)
+   - 五度圈歷程:   +2
+   - 各段落調性細節:
+     • [Yudachi #1]: D 大調 (r: 0.87, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# :                            0.0%
+     D  : ███████████████████       26.7%
+     D# :                            0.0%
+     E  : ████████                  11.2%
+     F  :                            0.0%
+     F# : █████████████             19.0%
+     G  :                            0.0%
+     G# :                            0.0%
+     A  : ████████████████████████  34.5%
+     A# :                            0.0%
+     B  : ██████                     8.6%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 54 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![夕立 — 《公學校唱歌》 第四學年用 原書掃描頁 P023.jpg](P023.jpg)
+
+![夕立 — 《公學校唱歌》 第四學年用 原書掃描頁 P024.jpg](P024.jpg)
+
+

@@ -27,6 +27,7 @@ audio: "kongoseki_mizu_wa_utsuwa.mp3"
 原書資訊與歌詞全文（對應 P006.jpg–P009.jpg，原書 pp. 2–5）：
 調性與拍號：ハ長調（C 大調）4/4 拍，速度 ♩=92
 
+
 ## 歌詞
 
 ```text

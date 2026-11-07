@@ -24,6 +24,7 @@ audio: "ninomiya_sontoku.mp3"
 Source: 唱歌帖 (2020.006.0843), P196.jpg (top)
 Marginalia: 15.2.13 (大正15年2月13日)
 
+
 ## 跨冊／重複收錄參照
 
 > 同名異曲（各冊收錄之不同詞曲版本）

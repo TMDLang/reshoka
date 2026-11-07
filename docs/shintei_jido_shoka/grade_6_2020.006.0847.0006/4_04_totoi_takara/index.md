@@ -27,6 +27,7 @@ audio: "totoi_takara.mp3"
 作詞：田淵巖作歌
 作曲：永井幸次
 
+
 ## 歌詞
 
 ```text

@@ -25,6 +25,7 @@ audio: "seinendan_gotairei_hoshukuka.mp3"
 原書資訊與歌詞全文（對應 P186.jpg 印刷五線譜＋簡譜對照及右側四節歌詞）：
 調性與拍號：變ロ長調（Bb 大調）2/4 拍子，「嚴肅莊重に M.M. ♩=80」
 
+
 ## 歌詞
 
 ```text

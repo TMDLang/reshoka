@@ -25,6 +25,7 @@ audio: "kotaishi_denka_hogei_no_uta.mp3"
 調性與拍號：ト調 2/4 拍（G 大調 2/4 拍）
 註記：第三歌萬歲ノ句ハ七段目ヲ用フ
 
+
 ## 歌詞
 
 ```text

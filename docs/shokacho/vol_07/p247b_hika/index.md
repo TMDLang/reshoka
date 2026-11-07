@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P247.jpg (bottom) – P248.jpg
 Marginal notes: （悲歌） / かちかち山の兎 (faint pencil on P248)
 Key: ホ短調 (E minor / 1 sharp), Time: 4/4
 
+
 ## 歌詞
 
 ```text

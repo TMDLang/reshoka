@@ -28,6 +28,7 @@ Annotations: (大正十四年五月), 古山氏作歌 / 一條氏作曲
 Note: Staves 1–3 ([A], 12 bars) are followed by Staves 4–6 ([B1], 12 bars)
 for Verses 1 & 2, and Staves 7–9 ([B2], 12 bars) for Verse 3.
 
+
 ## 歌詞
 
 ```text

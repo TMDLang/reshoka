@@ -215,6 +215,26 @@ def generate_song_folder(
         "\n".join(f"- {item}" for item in meta_items)
         or "- 詞曲作者：未在 TMD metadata 中提供"
     )
+    if notes:
+        original_notes = notes.splitlines()
+        lines = ""
+        for line in original_notes:
+            if line.startswith("・編曲說明"):
+                if lines.endswith("\n") == False:
+                    lines += "\n"
+                line = line.replace("・", "")
+                lines += "### " + line + "\n\n"
+            elif line.startswith("・"):
+                line = line.replace("・", "- ")
+                if lines.endswith("\n") == False:
+                    lines += "\n"
+                lines += line + "\n\n"
+            elif line.startswith("【曲目說明】"):
+                lines += "\n\n"
+            else:
+                lines += line + "\n"
+        notes = lines
+
     notes_block = notes or "（TMD 檔案未包含額外 note）"
     lyrics_block = lyrics or "（TMD 檔案未包含歌詞註解）"
 

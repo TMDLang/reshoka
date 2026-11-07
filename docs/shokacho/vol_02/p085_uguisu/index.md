@@ -24,6 +24,7 @@ audio: "uguisu.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P085.jpg (Notebook 2, p.17)
 Notation: Handwritten 5-line staff (3 flats = Eb major, 4/4 time, 24 bars)
 
+
 ## 跨冊／重複收錄參照
 
 > 同名異曲（各冊收錄之不同詞曲版本）

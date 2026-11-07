@@ -27,6 +27,7 @@ audio: "shinchiku_rakuseishiki.mp3"
 調性與拍號：へ調四拍子（F 大調 4/4 拍，弱起 1 拍）
 速度指示：少シ早ク
 
+
 ## 歌詞
 
 ```text

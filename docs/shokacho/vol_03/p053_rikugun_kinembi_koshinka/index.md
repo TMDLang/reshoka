@@ -24,6 +24,7 @@ audio: "rikugun_kinembi_koshinka.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P053.jpg – P054.jpg (Insert)
 Notation: Handwritten 5-line staff (C major, 2/4 time, 24 bars) + 4-verse lyrics
 
+
 ## 歌詞
 
 ```text

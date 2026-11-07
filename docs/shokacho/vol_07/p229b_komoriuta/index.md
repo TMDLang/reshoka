@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P229.jpg (bottom)
 Marginal notes: 変ロ調 4/4 （可憐）
 Key: 変ロ調 (Bb major), Time: 4/4, Tempo: 可憐
 
+
 ## 跨冊／重複收錄參照
 
 > 同名異曲（各冊收錄之不同詞曲版本）

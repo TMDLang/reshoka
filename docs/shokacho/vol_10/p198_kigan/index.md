@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P198.jpg
 Marginalia: 15.2.13. (大正15年2月13日)
 Dynamics: Line 1: mf, Line 3 bar 3: mp, Line 4: mf -> f
 
+
 ## 歌詞
 
 ```text

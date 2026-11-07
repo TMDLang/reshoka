@@ -26,6 +26,7 @@ Source: 唱歌帖 (2020.006.0843), P240.jpg
 Marginal notes: 13. / 三年 / 真田梅村詩 / 蓬 47頁
 Key: イ調 (A major), Time: 4/4
 
+
 ## 歌詞
 
 ```text

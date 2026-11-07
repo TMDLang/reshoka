@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P080.jpg (Notebook 2, p.1
 Notation: Handwritten numbered notation (Jianpu) on pasted grid sheet
 Annotations: イ調, (大正十三年二月十一日) (邱氏より抄)
 
+
 ## 跨冊／重複收錄參照
 
 > 同曲（滑稽唱歌〈近眼のしくじり〉；《唱歌帖》P080 與 P257）

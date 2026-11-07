@@ -24,6 +24,7 @@ audio: "shingun.mp3"
 Source: 唱歌帖 (2020.006.0843), P195.jpg (bottom) – P196.jpg (bottom)
 Marginalia: 15.2.13. 171頁 (大正15年2月13日)
 
+
 ## 跨冊／重複收錄參照
 
 > 同名異曲（各冊收錄之不同詞曲版本）

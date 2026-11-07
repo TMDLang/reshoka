@@ -25,6 +25,7 @@ Source: 唱歌帖 支那曲 (NMTH 2020.006.0844, Vol. IX) — P006.jpg–P007.jp
 Annotation: 昭2.7.11. 抄・合調 / 此曲為一女子因情人外出 自訴苦衷
 Notation: Handwritten 5-line staff (1 flat = F major, 2/4 time, 35 bars)
 
+
 ## 歌詞
 
 ```text

@@ -27,6 +27,7 @@ Marginalia: ツヅキ. 15.2.3 (澄宮殿下御作 童謡集)
 Composer: 永井幸次作曲 / Lyricist: 澄宮崇仁親王 (澄宮殿下御作)
 Tempo / Expression: 緩徐ニ
 
+
 ## 歌詞
 
 ```text

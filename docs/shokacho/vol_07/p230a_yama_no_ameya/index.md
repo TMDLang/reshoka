@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P230.jpg (top)
 Marginal notes: 3. / 二年 / 蓬萊唱集 23頁
 Key: ヘ調 (F major), Time: 2/4, Tempo: 軽快ニ
 
+
 ## 歌詞
 
 ```text

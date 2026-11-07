@@ -22,6 +22,7 @@ audio: "kisho_rappa.mp3"
 
 原書資訊（對應 P041.jpg 下半貼附紙張）：
 
+
 ## 歌詞
 
 ```text

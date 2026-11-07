@@ -29,6 +29,7 @@ audio: "yoku_manabi_yoku_asobe.mp3"
 原書資訊與歌詞全文（對應 P018.jpg – P019.jpg，書頁 pp. 3–4，第一學期第 2 首）：
 調性與拍號：ヘ調四拍子（F 大調 4/4 拍），♩＝108
 
+
 ## 歌詞
 
 ```text

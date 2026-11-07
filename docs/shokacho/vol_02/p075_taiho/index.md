@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P075.jpg (Notebook 2, p.7
 Notation: Handwritten numbered notation (Jianpu)
 Annotations: ハ調 二拍子, 大正幼年唱歌 第八集 第二十一頁
 
+
 ## 歌詞
 
 ```text

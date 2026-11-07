@@ -27,6 +27,7 @@ audio: "chiyoda_no_oshiro.mp3"
 曲目說明
 中文解釋：描寫東京皇居一帶的城郭與莊嚴景色。
 
+
 ## 歌詞
 
 ```text

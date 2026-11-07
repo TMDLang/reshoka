@@ -26,6 +26,7 @@ audio: "tsuyu_to_mushi.mp3"
 調性與拍號：變ほ調六拍子（Eb 大調 6/8 拍）
 速度指示：優美ニ
 
+
 ## 歌詞
 
 ```text

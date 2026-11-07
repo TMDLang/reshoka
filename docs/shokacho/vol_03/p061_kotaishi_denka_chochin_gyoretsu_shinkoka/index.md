@@ -24,6 +24,7 @@ audio: "kotaishi_denka_chochin_gyoretsu_shinkoka.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P061.jpg (Notebook 1, p.15)
 Notation: Handwritten 5-line staff (1 sharp = G major, 2/4 time, 20 bars)
 
+
 ## 歌詞
 
 ```text

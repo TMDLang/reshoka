@@ -25,6 +25,7 @@ Source: 唱歌帖 支那曲 (NMTH 2020.006.0844, Vol. IX) — P010.jpg–P011.jp
 Annotation: 昭2.7.13.・合
 Notation: Handwritten 5-line staff (2 sharps = D major, 4/4 time, 47 bars)
 
+
 ## 歌詞
 
 ```text

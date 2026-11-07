@@ -26,6 +26,7 @@ Reference Materials 21: キャベツ (Kyabetsu / Cabbage [玉菜])
 Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934), p. 63 (P086.jpg)
 Key: C major (?= C), 3/4 (<3/4>), Quarter = 100 (!= 100)
 
+
 ## 歌詞
 
 ```text

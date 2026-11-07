@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P079.jpg (Notebook 2, p.1
 Notation: Handwritten numbered notation (Jianpu)
 Annotations: ハ調 (イ短調) 2/4, 大正幼唱 第五集
 
+
 ## 跨冊／重複收錄參照
 
 > 同名異曲（各冊收錄之不同詞曲版本）

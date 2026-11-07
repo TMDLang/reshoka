@@ -26,6 +26,7 @@ Source: 唱歌帖 (2020.006.0843), P238.jpg
 Marginal notes: 11. / 中山晋平曲 / 二年 / 蓬 40頁 / 可愛ラシク
 Key: イ調 (A major), Time: 2/4, Tempo: 可愛ラシク
 
+
 ## 歌詞
 
 ```text

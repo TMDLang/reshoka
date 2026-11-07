@@ -28,6 +28,7 @@ Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934)
 Lyricist: 福田董 (Fukuda Tadasu) / Composer: 大和田愛羅 (Ōwada Aira)
 Key: G minor (relative major ?= Bb), 4/4 (<4/4>), Quarter = 96 (!= 96)
 
+
 ## 歌詞
 
 ```text

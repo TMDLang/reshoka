@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P077.jpg (Notebook 2, p.9
 Notation: Handwritten numbered notation (Jianpu)
 Annotations: ヘ調 2/4, (愛吟抄) 大正十二年, - = 0
 
+
 ## 跨冊／重複收錄參照
 
 > 同名異曲（各冊收錄之不同詞曲版本）

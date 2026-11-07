@@ -28,6 +28,7 @@ Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934)
 Lyricist: 野口雨情 (Noguchi Ujō) / Composer: 室崎琴月 (Murozaki Kingetsu)
 Key: C major (?= C), 2/4 (<2/4>), 面白ク Quarter = 108 (!= 108)
 
+
 ## 歌詞
 
 ```text

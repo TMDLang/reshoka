@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P049.jpg (Notebook 1, p.1
 Notation: Handwritten numbered notation (Jianpu)
 Annotations: ニ調 4/4, ♩= 100, 大正十三年正月 文部省
 
+
 ## 歌詞
 
 ```text

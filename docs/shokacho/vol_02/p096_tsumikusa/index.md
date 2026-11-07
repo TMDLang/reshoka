@@ -24,6 +24,7 @@ audio: "tsumikusa.mp3"
 調性與拍號：ヘ調四分之四拍子（F 大調 4/4 拍）
 力度記號：p → mp → mf
 
+
 ## 歌詞
 
 ```text

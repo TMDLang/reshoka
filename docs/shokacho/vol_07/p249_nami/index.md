@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P249.jpg
 Marginal notes: 小学新唱歌 / 蓬 64頁ヨリ / 昭2.3.25. / 活潑ニ
 Key: ト調 (G major), Time: 2/4, Tempo: 活潑ニ
 
+
 ## 歌詞
 
 ```text

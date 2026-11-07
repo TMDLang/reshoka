@@ -24,6 +24,7 @@ audio: "kongoseki_mizu_wa_utsuwa.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P051.jpg – P052.jpg (Insert)
 Notation: Handwritten 5-line staff (1 sharp = G major, 4/4 time, 32 bars)
 
+
 ## 跨冊／重複收錄參照
 
 > 同曲（昭憲皇太后御歌、奧好義作曲〈金剛石〉；收錄於《新定兒童唱歌》卷首與《唱歌帖》P051–P052 夾頁）

@@ -24,6 +24,7 @@ audio: "shibashi_no_wakare.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P082.jpg – P083.jpg (Notebook 2, p.14–15)
 Notation: Handwritten 5-line staff (1 flat = F major, 3/4 time, 30 bars)
 
+
 ## 歌詞
 
 ```text

@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P230.jpg (bottom pasted slip)
 Marginal notes: 変ロ 3/4 軽快
 Key: 変ロ調 (Bb major), Time: 3/4, Tempo: 軽快
 
+
 ## 跨冊／重複收錄參照
 
 > 同曲＋同名異曲（《唱歌帖》P040〈無題・三拍子曲〉與 P171〈舞踏〉為同曲；《新定兒童唱歌》五年級、高女用及《唱歌帖》P230b 為同名異曲）

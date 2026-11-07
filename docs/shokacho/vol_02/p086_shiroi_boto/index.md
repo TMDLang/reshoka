@@ -24,6 +24,7 @@ audio: "shiroi_boto.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P086.jpg (Notebook 2, p.18)
 Notation: Handwritten 5-line staff (1 sharp = G major, 6/8 time, 24 bars)
 
+
 ## 歌詞
 
 ```text

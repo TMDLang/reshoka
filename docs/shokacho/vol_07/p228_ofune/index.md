@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P228.jpg
 Marginal notes: 1. / 一年 / 蓬萊唱歌 24. 14頁
 Key: ニ調 (D major), Time: 2/4, Tempo: 快活ニ
 
+
 ## 歌詞
 
 ```text

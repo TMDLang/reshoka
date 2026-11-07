@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P235.jpg
 Marginal notes: 8 / 大正幼年唱歌 / 蓬萊 34頁 / 無邪気ニ可愛ラシク
 Key: 変ロ調 (Bb major), Time: 4/4, Tempo: 無邪気ニ可愛ラシク
 
+
 ## 歌詞
 
 ```text

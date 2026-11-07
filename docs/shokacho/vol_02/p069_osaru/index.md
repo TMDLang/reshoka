@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P069.jpg (Notebook 2, p.1
 Notation: Handwritten numbered notation (Jianpu)
 Annotations: ハ調 二拍子, 大正幼年唱歌 第六集 十五頁
 
+
 ## 跨冊／重複收錄參照
 
 > 同曲（《大正幼年唱歌》第六集〈オサル〉；收錄於《新定兒童唱歌》一年級與《唱歌帖》P069）

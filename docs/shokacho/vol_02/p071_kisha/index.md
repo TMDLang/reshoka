@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P071.jpg (Notebook 2, p.3
 Notation: Handwritten numbered notation (Jianpu)
 Annotations: ハ調 二拍子, 大正幼年唱歌 第二集 十九頁
 
+
 ## 跨冊／重複收錄參照
 
 > 同曲＋同名異曲（《公學校唱歌》第三學年與《新定兒童唱歌》三年級為大和田愛羅作曲同曲；《唱歌帖》P071 為《大正幼年唱歌》同名異曲）

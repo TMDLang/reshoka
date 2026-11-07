@@ -24,6 +24,7 @@ audio: "furijia.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P087.jpg (Notebook 2, p.19)
 Notation: Handwritten 5-line staff (4 sharps = E major, 4/4 time, 20 bars)
 
+
 ## 歌詞
 
 ```text

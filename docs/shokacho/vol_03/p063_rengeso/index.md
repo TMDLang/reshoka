@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P063.jpg (Notebook 1, p.1
 Notation: Handwritten 5-line staff (1 flat = F major, 4/4 time, 16 bars)
 Annotations: ヘ調 4/4, (小学生ノ歌), 正聴会編 唱歌学習帳 四年
 
+
 ## 歌詞
 
 ```text

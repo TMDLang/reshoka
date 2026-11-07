@@ -28,6 +28,7 @@ Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934)
 Lyricist: 葛原齒 (Kuzuhara Shigeru) / Composer: 梁田貞 (Yanada Tadashi)
 Key: F major (?= F), 2/4 (<2/4>), ゲンキニ Quarter = 116 (!= 116)
 
+
 ## 跨冊／重複收錄參照
 
 > 同名異曲（各冊收錄之不同詞曲版本）

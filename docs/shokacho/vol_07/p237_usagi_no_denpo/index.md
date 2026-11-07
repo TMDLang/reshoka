@@ -27,6 +27,7 @@ Source: 唱歌帖 (2020.006.0843), P237.jpg
 Marginal notes: 10. / 北原白秋詩 / 二年 / 蓬 37頁 / 元気ヨク滑稽的ニ
 Key: イ調 (A major), Time: 2/4, Tempo: 元気ヨク滑稽的ニ
 
+
 ## 歌詞
 
 ```text

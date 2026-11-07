@@ -25,6 +25,7 @@ audio: "uta_no_keiko.mp3"
 調性與拍號：ヘ調四分之四拍子（F 大調 4/4 拍）
 力度記號：p → mf → dim.
 
+
 ## 歌詞
 
 ```text

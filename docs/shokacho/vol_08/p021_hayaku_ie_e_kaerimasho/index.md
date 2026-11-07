@@ -25,6 +25,7 @@ audio: "hayaku_ie_e_kaerimasho.mp3"
 調性與拍號：ハ調 4/4 拍（C 大調 4/4 拍）
 註記：一年 / 昭2.11.30 刊りすより
 
+
 ## 歌詞
 
 ```text

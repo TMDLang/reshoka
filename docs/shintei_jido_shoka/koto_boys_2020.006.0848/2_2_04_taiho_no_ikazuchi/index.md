@@ -27,6 +27,7 @@ audio: "taiho_no_ikazuchi.mp3"
 原曲：Carl Wilhelm《Die Wacht am Rhein》（ラインの守り）
 出處註記：（東京音樂學校編中等唱歌集）
 
+
 ## 歌詞
 
 ```text

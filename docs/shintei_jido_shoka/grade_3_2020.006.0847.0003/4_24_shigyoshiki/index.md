@@ -26,6 +26,7 @@ Reference Materials 24: 始業式 (Shigyōshiki / Opening Ceremony)
 Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934), p. 66 (P089.jpg)
 Key: D major (?= D), 4/4 (<4/4>), 少シ早ク Quarter = 108 (!= 108)
 
+
 ## 歌詞
 
 ```text

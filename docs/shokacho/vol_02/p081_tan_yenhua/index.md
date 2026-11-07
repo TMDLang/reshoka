@@ -24,6 +24,7 @@ audio: "tan_yenhua.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P081.jpg (Notebook 2, p.13)
 Notation: Handwritten 5-line staff (1 sharp = G major, 4/4 time, 17 bars)
 
+
 ## 歌詞
 
 ```text

@@ -25,6 +25,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P078.jpg (Notebook 2, p.1
 Notation: Handwritten numbered notation (Jianpu)
 Annotations: = 2/2, 大正幼唱 第五集
 
+
 ## 歌詞
 
 ```text

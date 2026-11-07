@@ -26,6 +26,7 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P057.jpg – P058.jpg (No
 Notation: Handwritten 5-line staff (1 flat = F major, 2/4 time) + mimeographed lyrics
 Annotations: (♭ロ調ニテモ可), (大正十四年五月), 松井實氏作歌
 
+
 ## 歌詞
 
 ```text

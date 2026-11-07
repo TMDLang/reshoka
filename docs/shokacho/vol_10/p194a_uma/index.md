@@ -27,6 +27,7 @@ Marginalia: ツヅキ. 15.2.3 (澄宮殿下御作 童謡集)
 Composer: 本居長世作曲 / Lyricist: 澄宮崇仁親王 (澄宮殿下御作)
 Tempo / Expression: 活潑ニ
 
+
 ## 歌詞
 
 ```text

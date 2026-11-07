@@ -26,6 +26,7 @@ Notation: Handwritten numbered notation (Jianpu)
 Annotations: ハ調 二拍子, 大正幼年唱歌 第八集 廿七頁
 Note: Score has Segno on bar 1, Fine at bar 8, and D.S. at bar 16 (total 24 bars).
 
+
 ## 歌詞
 
 ```text

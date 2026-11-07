@@ -26,6 +26,7 @@ Reference Materials 25: 終業式 (Shūgyōshiki / Closing Ceremony)
 Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934), p. 67 (P090.jpg)
 Key: D major (?= D), 4/4 (<4/4>), Quarter = 96 (!= 96)
 
+
 ## 歌詞
 
 ```text

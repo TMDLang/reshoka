@@ -27,6 +27,7 @@ Source: 唱歌帖 (2020.006.0843), P247.jpg (top)
 Marginal notes: 三木露風詩 / 佐々木曲 / 61頁 / （阮為生徒） / 昭2.3.25 / 軽快且優美に
 Key: ハ調 (C major), Time: 4/4, Tempo: 軽快且優美に
 
+
 ## 歌詞
 
 ```text

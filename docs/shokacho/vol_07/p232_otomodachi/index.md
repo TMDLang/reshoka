@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P232.jpg
 Marginal notes: 5 / 二年 / 大正幼年唱歌 / 蓬萊唱集 26頁 / 楽シク
 Key: 変ロ調 (Bb major), Time: 2/4, Tempo: 楽シク
 
+
 ## 歌詞
 
 ```text

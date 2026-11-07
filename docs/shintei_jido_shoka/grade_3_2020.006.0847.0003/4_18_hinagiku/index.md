@@ -28,6 +28,7 @@ Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934)
 Lyricist: 松岸寛一 (Matsugishi Kan'ichi) / Composer: 永井幸次 (Nagai Kōji)
 Key: G minor (relative major ?= Bb), 2/4 (<2/4>), ヤハラカニ Quarter = 96 (!= 96)
 
+
 ## 歌詞
 
 ```text

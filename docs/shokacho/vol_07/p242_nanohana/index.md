@@ -26,6 +26,7 @@ Source: 唱歌帖 (2020.006.0843), P242.jpg
 Marginal notes: 15. / 三年 / 三木露風詩 / 蓬 50頁
 Key: ニ調 (D major), Time: 3/4
 
+
 ## 歌詞
 
 ```text

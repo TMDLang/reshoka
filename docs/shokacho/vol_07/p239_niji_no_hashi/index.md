@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P239.jpg
 Marginal notes: 12 / 三年 / 新特選楽譜 / 蓬 45頁 / ユックリト
 Key: ト調 (G major), Time: 4/4, Tempo: ユックリト
 
+
 ## 歌詞
 
 ```text

@@ -27,6 +27,7 @@ Marginalia: 澄宮殿下御作 童謡集 大阪毎日新聞社發行 15.2.3.
 Composer: 本居長世作曲 / Lyricist: 澄宮崇仁親王 (澄宮殿下御作)
 Tempo / Expression: 優美ニ
 
+
 ## 歌詞
 
 ```text

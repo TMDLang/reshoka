@@ -27,6 +27,7 @@ audio: "ichigatsu_ichijitsu.mp3"
 原書資訊與歌詞全文（對應 P068.jpg–P069.jpg，原書 p. 62–63，第四學年第 8 首）：
 調性與拍號：ニ長調 4/4 拍子，♩= 96
 
+
 ## 歌詞
 
 ```text

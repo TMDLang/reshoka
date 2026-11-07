@@ -28,6 +28,7 @@ Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934)
 Lyricist: 三木露風 (Miki Rofū) / Composer: 山田耕作 (Yamada Kōsaku)
 Key: C major (?= C), 2/4 (<2/4>), 面白ゲニ Quarter = 88 (!= 88)
 
+
 ## 歌詞
 
 ```text

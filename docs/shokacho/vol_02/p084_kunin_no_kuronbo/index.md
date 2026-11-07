@@ -24,6 +24,7 @@ audio: "kunin_no_kuronbo.mp3"
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P084.jpg (Notebook 2, p.16)
 Notation: Handwritten 5-line staff (C major, 2/4 time, 18 bars) + seaside illustration
 
+
 ## 歌詞
 
 ```text

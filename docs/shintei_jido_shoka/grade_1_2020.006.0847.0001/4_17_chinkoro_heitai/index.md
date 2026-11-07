@@ -26,6 +26,7 @@ audio: "chinkoro_heitai.mp3"
 曲目說明
 中文解釋：描寫身材小巧、精神抖擻的士兵遊行與操練。
 
+
 ## 歌詞
 
 ```text

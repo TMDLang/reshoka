@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P221.jpg
 Marginal notes: 195頁 / 2.7.28. / （一九回以下未済）
 Key: ヘ調 (F major), Time: 2/4, Tempo: ♩=112
 
+
 ## 歌詞
 
 ```text

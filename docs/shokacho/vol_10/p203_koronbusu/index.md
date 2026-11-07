@@ -24,6 +24,7 @@ audio: "koronbusu.mp3"
 Source: 唱歌帖 (2020.006.0843), P203.jpg
 Marginalia: 358頁 2.1.28 (昭和2年1月28日)
 
+
 ## 歌詞
 
 ```text

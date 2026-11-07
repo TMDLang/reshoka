@@ -1,6 +1,6 @@
 # 人工校對進度紀錄（Proofreading Checklist）
 
-本頁追蹤全站 **25 冊、830 首**歷史曲目之人工校對進度（目前已校對 **437 / 830** 首，完成率 **52.7%**）。
+本頁追蹤全站 **26 冊、850 首**歷史曲目之人工校對進度（目前已校對 **457 / 850** 首，完成率 **53.8%**）。
 
 ## 校對檢核要點
 
@@ -28,6 +28,7 @@
 | 《公學校唱歌》             | [第一學年用（國臺圖 0729 73）](#kogakko_shoka_grade_1)            |      15 |      15 |      100% |
 | 《公學校唱歌》             | [第二學年用（國臺圖 523.37 4322-4）](#kogakko_shoka_grade_2)      |      15 |      15 |      100% |
 | 《公學校唱歌》             | [第三學年用](#kogakko_shoka_grade_3)                              |      15 |      15 |      100% |
+| 《公學校唱歌》             | [第四學年用（國臺圖 0729 73）](#kogakko_shoka_grade_4)            |      20 |      20 |      100% |
 | 《公學校唱歌》             | [第五學年用（國臺圖 523.37 4322-4）](#kogakko_shoka_grade_5)      |      20 |      20 |      100% |
 | 《うたのほん》（唱歌課本） | [下卷（初等科第二學年）](#utanohon_ge_2006.006.0878)              |      20 |      20 |      100% |
 | 《共益商社唱歌教科書》     | [巻一（生徒用）](#kyoeki_shoka_kan_1_854862)                      |      20 |      20 |      100% |
@@ -41,7 +42,7 @@
 | 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       0 |      22 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |       4 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |       0 |      31 |        0% |
-| **合計**                   | **全 25 冊**                                                      | **437** | **830** | **52.7%** |
+| **合計**                   | **全 26 冊**                                                      | **457** | **850** | **53.8%** |
 
 ---
 
@@ -601,6 +602,29 @@
 - [x] **13 おぢいさん（老爺爺）**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/13_ojiisan/index.md) · [主譜 TMD](kogakko_shoka/grade_3/13_ojiisan/ojiisan.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/13_ojiisan/ojiisan_piano.tmd)
 - [x] **14 すみやき（燒炭）**（`Bb` / `2/4`）— [單曲頁](kogakko_shoka/grade_3/14_sumiyaki/index.md) · [主譜 TMD](kogakko_shoka/grade_3/14_sumiyaki/sumiyaki.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/14_sumiyaki/sumiyaki_piano.tmd)
 - [x] **15 白さぎ（白鷺鷥）**（`Eb` / `3/4`）— [單曲頁](kogakko_shoka/grade_3/15_shirasagi/index.md) · [主譜 TMD](kogakko_shoka/grade_3/15_shirasagi/shirasagi.tmd) · [伴奏 TMD](kogakko_shoka/grade_3/15_shirasagi/shirasagi_piano.tmd)
+
+### 尋常科 第四學年用（國臺圖 0729 73）（20 / 20 首） {#kogakko_shoka_grade_4}
+
+- [x] **1 靖國神社**（`G` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/1_yasukuni_jinja/index.md) · [主譜 TMD](kogakko_shoka/grade_4/1_yasukuni_jinja/yasukuni_jinja.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/1_yasukuni_jinja/yasukuni_jinja_piano.tmd) — 重複曲目（同《新定》尋四 1-02，已核對 P007–P010）
+- [x] **2 お手玉**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/2_otedama/index.md) · [主譜 TMD](kogakko_shoka/grade_4/2_otedama/otedama.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/2_otedama/otedama_piano.tmd) — 已對照 P011–P013 切片轉錄與校對
+- [x] **3 南の風**（`F` / `4/4`）— [單曲頁](kogakko_shoka/grade_4/3_minami_no_kaze/index.md) · [主譜 TMD](kogakko_shoka/grade_4/3_minami_no_kaze/minami_no_kaze.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/3_minami_no_kaze/minami_no_kaze_piano.tmd) — 已對照 P014–P016 切片轉錄與校對
+- [x] **4 初夏の夜**（`Bb` / `4/4`）— [單曲頁](kogakko_shoka/grade_4/4_shoka_no_yoru/index.md) · [主譜 TMD](kogakko_shoka/grade_4/4_shoka_no_yoru/shoka_no_yoru.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/4_shoka_no_yoru/shoka_no_yoru_piano.tmd) — 重複曲目（同《新定》尋四 1-05，已核對 P017–P018）
+- [x] **5 花火**（`G` / `3/4`）— [單曲頁](kogakko_shoka/grade_4/5_hanabi/index.md) · [主譜 TMD](kogakko_shoka/grade_4/5_hanabi/hanabi.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/5_hanabi/hanabi_piano.tmd) — 已對照 P019–P020 切片轉錄與校對（3/4 轉 4/4 變拍）
+- [x] **6 かげろふ**（`Eb` / `4/4`）— [單曲頁](kogakko_shoka/grade_4/6_kagerou/index.md) · [主譜 TMD](kogakko_shoka/grade_4/6_kagerou/kagerou.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/6_kagerou/kagerou_piano.tmd) — 已對照 P021–P022 切片轉錄與校對（吉村守作詞）
+- [x] **7 夕立**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/7_yudachi/index.md) · [主譜 TMD](kogakko_shoka/grade_4/7_yudachi/yudachi.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/7_yudachi/yudachi_piano.tmd) — 重複曲目（同《公學校唱歌集》4-03，已核對 P023–P026）
+- [x] **8 漁船**（`D` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/8_gyosen/index.md) · [主譜 TMD](kogakko_shoka/grade_4/8_gyosen/gyosen.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/8_gyosen/gyosen_piano.tmd) — 重複曲目（同《新定》尋四 2-02，已核對 P027–P030）
+- [x] **9 櫻井の訣別**（`C` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/index.md) · [主譜 TMD](kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/sakurai_no_ketsubetsu.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/sakurai_no_ketsubetsu_piano.tmd) — 重複曲目（同《新定》尋四 4-03，已核對 P031–P034）
+- [x] **10 遠足**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/10_ensoku/index.md) · [主譜 TMD](kogakko_shoka/grade_4/10_ensoku/ensoku.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/10_ensoku/ensoku_piano.tmd) — 已對照 P035–P038 切片轉錄與校對
+- [x] **11 つゆと虫**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/11_tsuyu_to_mushi/index.md) · [主譜 TMD](kogakko_shoka/grade_4/11_tsuyu_to_mushi/tsuyu_to_mushi.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/11_tsuyu_to_mushi/tsuyu_to_mushi_piano.tmd) — 已對照 P039–P040 切片轉錄與校對（全新譜曲版）
+- [x] **12 野菊**（`D` / `4/4`）— [單曲頁](kogakko_shoka/grade_4/12_nogiku/index.md) · [主譜 TMD](kogakko_shoka/grade_4/12_nogiku/nogiku.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/12_nogiku/nogiku_piano.tmd) — 已對照 P041–P042 切片轉錄與校對
+- [x] **13 燈臺**（`G` / `4/4`）— [單曲頁](kogakko_shoka/grade_4/13_todai/index.md) · [主譜 TMD](kogakko_shoka/grade_4/13_todai/todai.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/13_todai/todai_piano.tmd) — 重複曲目（同《公學校唱歌集》4-06，已核對 P043–P044）
+- [x] **14 取入れの歌**（`G` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/14_toriire_no_uta/index.md) · [主譜 TMD](kogakko_shoka/grade_4/14_toriire_no_uta/toriire_no_uta.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/14_toriire_no_uta/toriire_no_uta_piano.tmd) — 已對照 P045–P046 切片轉錄與校對
+- [x] **15 いかだかづら**（`F` / `3/4`）— [單曲頁](kogakko_shoka/grade_4/15_ikadakazura/index.md) · [主譜 TMD](kogakko_shoka/grade_4/15_ikadakazura/ikadakazura.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/15_ikadakazura/ikadakazura_piano.tmd) — 已對照 P047–P048 切片轉錄與校對（全新 3/4 拍大調譜曲版）
+- [x] **16 觀兵式**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/16_kanpeishiki/index.md) · [主譜 TMD](kogakko_shoka/grade_4/16_kanpeishiki/kanpeishiki.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/16_kanpeishiki/kanpeishiki_piano.tmd) — 已對照 P049–P050 切片轉錄與校對（新訂尋常小學唱歌版）
+- [x] **17 子守唄**（`E` / `4/4`）— [單曲頁](kogakko_shoka/grade_4/17_komoriuta/index.md) · [主譜 TMD](kogakko_shoka/grade_4/17_komoriuta/komoriuta.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/17_komoriuta/komoriuta_piano.tmd) — 已對照 P051–P052 切片轉錄與校對
+- [x] **18 昭和の子供**（`F` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/18_showa_no_kodomo/index.md) · [主譜 TMD](kogakko_shoka/grade_4/18_showa_no_kodomo/showa_no_kodomo.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/18_showa_no_kodomo/showa_no_kodomo_piano.tmd) — 已對照 P053–P056 切片轉錄與校對
+- [x] **19 ひなまつり**（`Eb` / `2/4`）— [單曲頁](kogakko_shoka/grade_4/19_hinamatsuri/index.md) · [主譜 TMD](kogakko_shoka/grade_4/19_hinamatsuri/hinamatsuri.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/19_hinamatsuri/hinamatsuri_piano.tmd) — 已對照 P057–P058 切片轉錄與校對（ハ調都節音階）
+- [x] **20 我が帝國**（`F` / `4/4`）— [單曲頁](kogakko_shoka/grade_4/20_waga_teikoku/index.md) · [主譜 TMD](kogakko_shoka/grade_4/20_waga_teikoku/waga_teikoku.tmd) · [伴奏 TMD](kogakko_shoka/grade_4/20_waga_teikoku/waga_teikoku_piano.tmd) — 重複曲目（同《新定》尋四 3-04，已核對 P059–P060）
 
 ### 尋常科 第五學年用（國臺圖 523.37 4322-4）（20 / 20 首） {#kogakko_shoka_grade_5}
 

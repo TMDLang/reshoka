@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P234.jpg
 Marginal notes: 7 / 二年 / 蓬萊唱集 31頁 / 可愛ラシク
 Key: 変ロ調 (Bb major), Time: 2/4, Tempo: 可愛ラシク
 
+
 ## 歌詞
 
 ```text

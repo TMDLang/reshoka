@@ -28,6 +28,7 @@ audio: "miitsu_no_hikari.mp3"
 作詞：佐々木信綱
 作曲：マクノートン
 
+
 ## 歌詞
 
 ```text

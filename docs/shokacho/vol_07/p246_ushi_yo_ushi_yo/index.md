@@ -26,6 +26,7 @@ Source: 唱歌帖 (2020.006.0843), P246.jpg
 Marginal notes: 陳英聲曲 / 60頁 / 同情の態度で
 Key: 変ホ調 (Eb major), Time: 4/4, Tempo: 同情の態度で
 
+
 ## 歌詞
 
 ```text

@@ -28,6 +28,7 @@ Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934)
 Lyricist: 葛原齒 (Kuzuhara Shigeru) / Composer: 小松耕輔 (Komatsu Kōsuke)
 Key: D major (?= D), 2/4 (<2/4>), 愛ラシク Quarter = 76 (!= 76)
 
+
 ## 歌詞
 
 ```text

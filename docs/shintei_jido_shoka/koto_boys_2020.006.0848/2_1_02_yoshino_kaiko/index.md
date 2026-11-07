@@ -27,6 +27,7 @@ audio: "yoshino_kaiko.mp3"
 原曲：舒伯特《冬之旅》〈菩提樹〉（Der Lindenbaum）
 出處註記：（松邑三松堂發行檢定唱歌集）
 
+
 ## 歌詞
 
 ```text

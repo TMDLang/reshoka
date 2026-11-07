@@ -25,6 +25,7 @@ Source: 唱歌帖 (2020.006.0843), P244.jpg
 Marginal notes: 17 / 三年 / 幼年唱歌 / 蓬 53頁 / 爽快ニ
 Key: ヘ調 (F major), Time: 2/4, Tempo: 爽快ニ
 
+
 ## 歌詞
 
 ```text

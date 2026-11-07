@@ -26,6 +26,7 @@ Reference Materials 22: 夏季休業 (Kaki Kyūgyō / Summer Vacation)
 Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934), p. 64 (P087.jpg)
 Key: A major (?= A), 4/4 (<4/4>), Quarter = 100 (!= 100)
 
+
 ## 歌詞
 
 ```text

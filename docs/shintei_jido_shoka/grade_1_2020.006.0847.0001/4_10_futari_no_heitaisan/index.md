@@ -27,6 +27,7 @@ audio: "futari_no_heitaisan.mp3"
 曲目說明
 中文解釋：描寫兩個小兵一起行進、操練與互相陪伴。
 
+
 ## 歌詞
 
 ```text
