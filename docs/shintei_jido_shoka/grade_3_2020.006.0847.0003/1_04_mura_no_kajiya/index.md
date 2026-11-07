@@ -31,7 +31,7 @@ audio: "mura_no_kajiya.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（《公學校唱歌》與《新定兒童唱歌》第三學年共用教材）
+> 同曲（文部省『尋常小學唱歌』〈村の鍛冶屋〉；《公學校唱歌》與《新定兒童唱歌》第三學年共用教材）
 
 - **[同曲]** 《公學校唱歌》第三學年（昭和10年／1935）：[**〈村のかぢや（村之鍛冶屋）〉**](../../../kogakko_shoka/grade_3/3_muranokajiya/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_3/3_muranokajiya/muranokajiya.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)

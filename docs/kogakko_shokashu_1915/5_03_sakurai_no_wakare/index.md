@@ -29,6 +29,15 @@ audio: "sakurai_no_wakare.mp3"
 與《新定兒童唱歌》第六學年〈小楠公〉（落合直文詞・奥山朝恭曲〈櫻井のわかれ〉末段「言の葉を…」）詞曲不同。
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同名異曲（《公學校唱歌》第四學年〈櫻井の訣別〉、《新定兒童唱歌》六年級〈小楠公〉與《唱歌帖》P089 皆為落合直文詞・奧山朝恭曲同曲；《公學校唱歌集》〈櫻井のわかれ〉為文部省『尋常小學唱歌』同名異曲）
+
+- **[同名異曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈櫻井の訣別〉**](../../kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/index.md)（`C` / `2/4` — [原始 TMD](../../kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/sakurai_no_ketsubetsu.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈小楠公〉**](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko/index.md)（`A` / `6/8` — [原始 TMD](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko/sho_nanko.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈小楠公〉**](../../shokacho/vol_02/p089_sho_nanko/index.md)（`A` / `6/8` — [原始 TMD](../../shokacho/vol_02/p089_sho_nanko/sho_nanko.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

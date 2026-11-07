@@ -27,6 +27,14 @@ audio: "gyosen.mp3"
 調性與拍號：ニ長調（D 大調）2/4 拍，速度 ♩=76
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+
+- **[同曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈漁船〉**](../../kogakko_shoka/grade_4/8_gyosen/index.md)（`D` / `2/4` — [原始 TMD](../../kogakko_shoka/grade_4/8_gyosen/gyosen.tmd)）
+- **[同曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈漁船〉**](../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_02_gyosen/index.md)（`D` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_02_gyosen/gyosen.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

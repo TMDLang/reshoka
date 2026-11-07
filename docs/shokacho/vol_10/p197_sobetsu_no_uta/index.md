@@ -31,7 +31,7 @@ Dynamics: Line 1: p, Line 2: mf, Line 3: f, Line 4: f
 > 同曲異詞＋同名異曲（《新定兒童唱歌》五年級〈告別〉、《唱歌帖》P042〈螢の光〉與 P197〈送別の歌〉同採蘇格蘭民謠 *Auld Lang Syne* 旋律；高等科女子用〈告別〉為同名異曲）
 
 - **[同曲異詞]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈告別〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/kokubetsu.tmd)）
-- **[參照]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈告別〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md)（`D` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/kokubetsu.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈告別〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md)（`D` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/kokubetsu.tmd)）
 - **[同曲異詞]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈螢の光〉**](../../vol_03/p042_hotaru_no_hikari/index.md)（`F` / `4/4` — [原始 TMD](../../vol_03/p042_hotaru_no_hikari/hotaru_no_hikari.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

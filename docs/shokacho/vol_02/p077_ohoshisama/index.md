@@ -30,7 +30,7 @@ Annotations: ヘ調 2/4, (愛吟抄) 大正十二年, - = 0
 
 > 同名異曲（各冊收錄之不同詞曲版本）
 
-- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈オホシサマ〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_08_ohoshisama/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_08_ohoshisama/ohoshisama.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈オホシサマ（星星）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_08_ohoshisama/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_08_ohoshisama/ohoshisama.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

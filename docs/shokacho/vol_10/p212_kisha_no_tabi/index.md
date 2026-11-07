@@ -32,7 +32,7 @@ audio: "kisha_no_tabi.mp3"
 > 同曲（〈汽車の旅〉；收錄於《新定兒童唱歌》六年級及《唱歌帖》P009、P212《小公學校唱歌教材集》抄譜）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈汽車の旅〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_03_kisha_no_tabi/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_03_kisha_no_tabi/kisha_no_tabi.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈汽車の旅〉**](../../vol_08/p009_kisha_no_tabi/index.md)（`F` / `2/4` — [原始 TMD](../../vol_08/p009_kisha_no_tabi/kisha_no_tabi.tmd)）
+- **[同曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈汽車の旅（火車之旅）〉**](../../vol_08/p009_kisha_no_tabi/index.md)（`F` / `2/4` — [原始 TMD](../../vol_08/p009_kisha_no_tabi/kisha_no_tabi.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

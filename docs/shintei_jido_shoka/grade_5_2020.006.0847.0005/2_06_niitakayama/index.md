@@ -26,8 +26,9 @@ audio: "niitakayama.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同名異曲（各冊收錄之不同詞曲版本）
+> 同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第五學年〈新高山〉為同曲；《唱歌帖》P202 為 1915 年《小公學校唱歌教材集》3/4 拍同名異曲）
 
+- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈新高山〉**](../../../kogakko_shoka/grade_5/14_niitakayama/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/14_niitakayama/niitakayama.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈新高山 (新高山／玉山)〉**](../../../shokacho/vol_10/p202_niitakayama/index.md)（`C` / `3/4` — [原始 TMD](../../../shokacho/vol_10/p202_niitakayama/niitakayama.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

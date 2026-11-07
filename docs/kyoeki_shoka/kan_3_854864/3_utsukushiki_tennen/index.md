@@ -30,6 +30,14 @@ audio: "utsukushiki_tennen.mp3"
 原典語釋：「すなご」：砂のこと；「またと來じ」：再びこぬであらう。
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同名異曲（武島羽衣詞・田中穗積曲〈美しき天然／天然の美〉於《唱歌帖》P104 與 P131 為同曲；《共益商社唱歌教科書》卷三〈美しき天然〉為同名異曲）
+
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈天然の美〉**](../../../shokacho/vol_01/p131_tennen_no_bi/index.md)（`F` / `3/4` — [原始 TMD](../../../shokacho/vol_01/p131_tennen_no_bi/tennen_no_bi.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈美しき天然〉**](../../../shokacho/vol_02/p104_utsukushiki_tennen/index.md)（`F` / `3/4` — [原始 TMD](../../../shokacho/vol_02/p104_utsukushiki_tennen/utsukushiki_tennen.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

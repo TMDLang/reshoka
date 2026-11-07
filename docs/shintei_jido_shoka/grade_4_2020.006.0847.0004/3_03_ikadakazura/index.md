@@ -26,6 +26,13 @@ audio: "ikadakazura.mp3"
 調性與拍號：い短調二拍子（a 小調 2/4 拍）
 
 
+## 跨冊／重複收錄參照
+
+> 同詞異曲（同採臺灣九重葛題材歌詞「みどりの葉かげにむらさきの…」；《公學校唱歌》第四學年為 F 大調 3/4 拍，《新定兒童唱歌》第四學年為 a 小調 2/4 拍）
+
+- **[同詞異曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈いかだかづら〉**](../../../kogakko_shoka/grade_4/15_ikadakazura/index.md)（`F` / `3/4` — [原始 TMD](../../../kogakko_shoka/grade_4/15_ikadakazura/ikadakazura.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

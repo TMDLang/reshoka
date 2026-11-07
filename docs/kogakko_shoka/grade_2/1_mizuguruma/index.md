@@ -42,6 +42,14 @@ audio: "mizuguruma.mp3"
 2. 主歌伴奏 (Mizuguruma, 16 小節 × 2 段)：右手演奏原曲歌唱旋律；左手以輕快二拍子和聲伴奏。
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同詞異曲（《公學校唱歌》與《新定兒童唱歌》第二學年〈水グルマ〉為同曲；《唱歌帖》P231 同採「お米つかうよ…」歌詞而旋律不同）
+
+- **[同曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈水グルマ〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/mizuguruma.tmd)）
+- **[同詞異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈水グルマ（水車）〉**](../../../shokacho/vol_07/p231_mizuguruma/index.md)（`D` / `2/4` — [原始 TMD](../../../shokacho/vol_07/p231_mizuguruma/mizuguruma.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

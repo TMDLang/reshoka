@@ -43,6 +43,13 @@ audio: "yamato_takeru_no_mikoto.mp3"
 2. 主歌伴奏 (YamatoTakeruNoMikoto, 14 小節 × 2 段)：右手演奏莊嚴旋律，左手以低音區沉穩的八分音符和聲支撐。
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《共益商社唱歌教科書》卷四・教師用（明治33年／1900）：[**〈日本武尊〉**](../../../kyoeki_shoka/kan_4_854865/10_yamato_takeru_no_mikoto/index.md)（`C` / `6/8` — [原始 TMD](../../../kyoeki_shoka/kan_4_854865/10_yamato_takeru_no_mikoto/yamato_takeru_no_mikoto.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

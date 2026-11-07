@@ -48,7 +48,7 @@ audio: "dainippon.mp3"
 > 同曲（山本壽作曲；《公學校唱歌》第三學年、《新定兒童唱歌》第三學年與楊金土《唱歌帖》P008 皆收錄同曲）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈大日本〉**](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon/dainippon.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈大日本〉**](../../../shokacho/vol_08/p008_dainippon/index.md)（`G` / `2/4` — [原始 TMD](../../../shokacho/vol_08/p008_dainippon/dainippon.tmd)）
+- **[同曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈大日本（日本）〉**](../../../shokacho/vol_08/p008_dainippon/index.md)（`G` / `2/4` — [原始 TMD](../../../shokacho/vol_08/p008_dainippon/dainippon.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

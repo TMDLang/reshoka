@@ -43,9 +43,10 @@ audio: "kaeru_to_kumo.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（文部省『新訂尋常小學唱歌』第二學年〈かへるとくも〉；《新定兒童唱歌》第二學年與臺灣總督府《うたのほん》下卷共用教材）
+> 同曲（文部省『新訂尋常小學唱歌』第二學年〈かへるとくも〉；《公學校唱歌集》、《新定兒童唱歌》第二學年與《うたのほん》下卷共同收錄）
 
-- **[同曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈カヘル ト クモ〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/kaeru_to_kumo.tmd)）
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈蛙と蜘蛛〉**](../../../kogakko_shokashu_1915/6_02_kaeru_to_kumo/index.md)（`G` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/6_02_kaeru_to_kumo/kaeru_to_kumo.tmd)）
+- **[同曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈カヘル ト クモ（青蛙與雲）〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/kaeru_to_kumo.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

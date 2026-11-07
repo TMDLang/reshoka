@@ -28,6 +28,13 @@ audio: "hanasaka_jijii.mp3"
 調性與拍號：ニ長調 2/4 拍子，♩= 84
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈花さかぢぢい〉**](../../shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md)（`G` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/hanasaka_jijii.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

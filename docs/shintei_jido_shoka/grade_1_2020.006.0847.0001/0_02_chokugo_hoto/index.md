@@ -28,8 +28,9 @@ audio: "chokugo_hoto.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲＋同名異曲（《新定兒童唱歌》卷首與《唱歌帖》P122 為「あな尊しや」同曲；《唱歌帖》P121 為小山作之助曲「あやにかしこき」另一版本）
+> 同曲＋同名異曲（《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P122 為「あな尊しや」同曲；《唱歌帖》P121 為小山作之助曲「あやにかしこき」另一版本）
 
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈勅語奉答〉**](../../../kogakko_shokashu_1915/3_01_chokugo_hoto/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/3_01_chokugo_hoto/chokugo_hoto.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈勅語奉答〉**](../../../shokacho/vol_01/p121_chokugo_hoto/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p121_chokugo_hoto/chokugo_hoto.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈勅語奉答（あな尊しや）〉**](../../../shokacho/vol_01/p122_chokugo_hoto_2/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p122_chokugo_hoto_2/chokugo_hoto_2.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)

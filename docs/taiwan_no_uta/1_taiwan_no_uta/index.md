@@ -41,6 +41,14 @@ audio: "taiwan_no_uta.mp3"
 
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同名異曲（《新定兒童唱歌》高等科男、女用為同曲；《臺灣の歌》同名主題曲為竹中重雄詞・一條慎三郎曲另一作品）
+
+- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈臺灣の歌〉**](../../shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/index.md)（`B,` / `4/4` — [原始 TMD](../../shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/taiwan_no_uta.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈臺灣の歌〉**](../../shintei_jido_shoka/koto_girls_2020.006.0849/1_2_09_taiwan_no_uta/index.md)（`B,` / `4/4` — [原始 TMD](../../shintei_jido_shoka/koto_girls_2020.006.0849/1_2_09_taiwan_no_uta/taiwan_no_uta.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

@@ -29,8 +29,9 @@ audio: "sotsugyo_no_uta.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（蘆田惠之助作詞、Schulz 作曲〈卒業の歌〉；收錄於《新定兒童唱歌》高等科女子用與《唱歌帖》P201）
+> 同曲＋同名異曲（《新定兒童唱歌》高等科女子用與《唱歌帖》P201 為蘆田惠之助詞・Schulz 曲同曲；《公學校唱歌集》〈卒業の歌〉為同名異曲）
 
+- **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈卒業の歌〉**](../../../kogakko_shokashu_1915/6_09_sotsugyo_no_uta/index.md)（`E,` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/6_09_sotsugyo_no_uta/sotsugyo_no_uta.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈卒業の歌 (畢業之歌)〉**](../../../shokacho/vol_10/p201_sotsugyo_no_uta/index.md)（`E,` / `4/4` — [原始 TMD](../../../shokacho/vol_10/p201_sotsugyo_no_uta/sotsugyo_no_uta.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

@@ -27,8 +27,9 @@ audio: "kimi_ga_yo.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（儀式歌〈君が代〉；收錄於《新定兒童唱歌》卷首與《唱歌帖》P048、P120）
+> 同曲（國歌／儀式歌〈君が代〉；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P048、P120）
 
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈君が代〉**](../../../kogakko_shokashu_1915/1_01_kimigayo/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/1_01_kimigayo/kimigayo.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈君が代〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/kimigayo.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈君が代〉**](../../vol_01/p120_kimigayo/index.md)（`C` / `4/4` — [原始 TMD](../../vol_01/p120_kimigayo/kimigayo.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)

@@ -32,8 +32,8 @@ audio: "meijisetsu.mp3"
 
 > 同曲（堀澤周安作詞、杉江秀作曲〈明治節〉；收錄於《新定兒童唱歌》卷首及《唱歌帖》P182 謄寫版、P185 印刷伴奏譜）
 
-- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈明治節唱歌 (明治節唱歌 — 謄寫版)〉**](../../../shokacho/vol_01/p182_meijisetsu_shoka/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p182_meijisetsu_shoka/meijisetsu_shoka.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈明治節唱歌 (明治節唱歌 — 印刷譜)〉**](../../../shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p185_meijisetsu_shoka_printed/meijisetsu_shoka_printed.tmd)）
+- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈明治節唱歌〉**](../../../shokacho/vol_01/p182_meijisetsu_shoka/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p182_meijisetsu_shoka/meijisetsu_shoka.tmd)）
+- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈明治節唱歌（印刷譜）〉**](../../../shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p185_meijisetsu_shoka_printed/meijisetsu_shoka_printed.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

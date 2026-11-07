@@ -29,6 +29,13 @@ audio: "meiji_tenno_gyosei.mp3"
 與《新定兒童唱歌》第六學年所收〈明治天皇御製〉（「物學ぶ道に立つ子よ…」三首）詞曲不同。
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈明治天皇御製〉**](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md)（`G` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

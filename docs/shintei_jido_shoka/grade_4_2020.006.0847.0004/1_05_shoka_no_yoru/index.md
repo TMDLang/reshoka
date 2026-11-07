@@ -27,6 +27,13 @@ audio: "shoka_no_yoru.mp3"
 調性與拍號：變ろ調四拍子（降 B 大調 4/4 拍，♩=76）
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌》、《新定兒童唱歌》共同收錄教材）
+
+- **[同曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈初夏の夜〉**](../../../kogakko_shoka/grade_4/4_shoka_no_yoru/index.md)（`Bb` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_4/4_shoka_no_yoru/shoka_no_yoru.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

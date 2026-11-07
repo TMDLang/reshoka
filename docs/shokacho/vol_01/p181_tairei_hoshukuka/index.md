@@ -30,7 +30,7 @@ audio: "tairei_hoshukuka.mp3"
 
 > 同曲（高田耕一作詞、平岡均之作曲〈大禮奉祝唱歌〉；《唱歌帖》P181 謄寫版與 P184 印刷伴奏譜）
 
-- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈文部省選定 大禮奉祝唱歌 (文部省選定 大禮奉祝唱歌 — 印刷譜)〉**](../p184_tairei_hoshuku_shoka/index.md)（`D` / `4/4` — [原始 TMD](../p184_tairei_hoshuku_shoka/tairei_hoshuku_shoka.tmd)）
+- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈文部省選定 大禮奉祝唱歌〉**](../p184_tairei_hoshuku_shoka/index.md)（`D` / `4/4` — [原始 TMD](../p184_tairei_hoshuku_shoka/tairei_hoshuku_shoka.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

@@ -24,6 +24,13 @@ audio: "shinboku.mp3"
 調性與拍號：に長調四分之四拍子（D 大調 4/4 拍），♩= 112
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌》與《新定兒童唱歌》第五學年共用阿里山神木題材教材）
+
+- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈神木〉**](../../../kogakko_shoka/grade_5/4_shinboku/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/4_shinboku/shinboku.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

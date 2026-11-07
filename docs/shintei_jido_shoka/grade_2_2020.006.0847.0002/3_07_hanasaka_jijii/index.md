@@ -28,6 +28,13 @@ audio: "hanasaka_jijii.mp3"
 調性與拍號：ト調二拍子（G 大調 2/4 拍），「オモシロク」
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈花咲爺〉**](../../../kogakko_shokashu_1915/3_07_hanasaka_jijii/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/3_07_hanasaka_jijii/hanasaka_jijii.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

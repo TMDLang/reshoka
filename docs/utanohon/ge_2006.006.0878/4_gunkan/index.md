@@ -46,8 +46,8 @@ audio: "gunkan.mp3"
 > 同名異曲（各冊收錄之不同詞曲版本）
 
 - **[同名異曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈軍艦〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md)（`G` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈軍艦〉**](../../../shokacho/vol_08/p012_gunkan/index.md)（`G` / `3/4` — [原始 TMD](../../../shokacho/vol_08/p012_gunkan/gunkan.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈軍艦〉**](../../../shokacho/vol_02/p074_gunkan/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_02/p074_gunkan/gunkan.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈軍艦（軍艦）〉**](../../../shokacho/vol_08/p012_gunkan/index.md)（`G` / `3/4` — [原始 TMD](../../../shokacho/vol_08/p012_gunkan/gunkan.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

@@ -48,7 +48,7 @@ audio: "awate_tokoya.mp3"
 
 > 同詞異曲（北原白秋作詞〈あわて床屋〉；《新定兒童唱歌》二年級為山田耕筰作曲版，《唱歌帖》P164 為佐佐木すぐる作曲版）
 
-- **[同詞異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈アワテトコヤ〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_04_awate_tokoya/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_04_awate_tokoya/awate_tokoya.tmd)）
+- **[同詞異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈アワテトコヤ（匆忙理髮店）〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_04_awate_tokoya/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_04_awate_tokoya/awate_tokoya.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

@@ -30,8 +30,9 @@ audio: "tenchosetsu.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（儀式歌〈天長節〉；收錄於《新定兒童唱歌》卷首與《唱歌帖》P126）
+> 同曲（儀式歌〈天長節〉；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P126）
 
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈天長節〉**](../../../kogakko_shokashu_1915/2_01_tenchosetsu/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/2_01_tenchosetsu/tenchosetsu.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈天長節〉**](../../../shokacho/vol_01/p126_tenchosetsu/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p126_tenchosetsu/tenchosetsu.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

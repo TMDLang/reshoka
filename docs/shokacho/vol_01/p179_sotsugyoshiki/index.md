@@ -27,9 +27,9 @@ audio: "sotsugyoshiki.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同名異曲（各冊收錄之不同詞曲版本）
+> 同曲（收錄於《新定兒童唱歌》卷首〈卒業式歌〉與《唱歌帖》P179〈卒業式〉，詞曲相同）
 
-- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈卒業式歌〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/sotsugyoshiki_uta.tmd)）
+- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈卒業式歌〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/sotsugyoshiki_uta.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

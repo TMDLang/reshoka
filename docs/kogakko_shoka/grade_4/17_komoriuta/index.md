@@ -26,6 +26,16 @@ audio: "komoriuta.mp3"
 每段反覆演唱三次旋律）。
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《共益商社唱歌教科書》卷三・教師用（明治33年／1900）：[**〈子守唄〉**](../../../kyoeki_shoka/kan_3_854864/19_komoriuta/index.md)（`A,` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_3_854864/19_komoriuta/komoriuta.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈子守唄〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_14_komoriuta/index.md)（`E,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_14_komoriuta/komoriuta.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈子守歌〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_2_06_komoriuta/index.md)（`G` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_2_06_komoriuta/komoriuta.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈子守唄（搖籃曲）〉**](../../../shokacho/vol_07/p229b_komoriuta/index.md)（`B,` / `4/4` — [原始 TMD](../../../shokacho/vol_07/p229b_komoriuta/komoriuta.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

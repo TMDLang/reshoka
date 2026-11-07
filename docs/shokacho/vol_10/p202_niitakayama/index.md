@@ -28,8 +28,9 @@ Dynamics: p, f, mf, ff
 
 ## 跨冊／重複收錄參照
 
-> 同名異曲（各冊收錄之不同詞曲版本）
+> 同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第五學年〈新高山〉為同曲；《唱歌帖》P202 為 1915 年《小公學校唱歌教材集》3/4 拍同名異曲）
 
+- **[同名異曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈新高山〉**](../../../kogakko_shoka/grade_5/14_niitakayama/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/14_niitakayama/niitakayama.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈新高山〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_06_niitakayama/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_06_niitakayama/niitakayama.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

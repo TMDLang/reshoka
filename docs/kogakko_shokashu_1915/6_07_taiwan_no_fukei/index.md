@@ -25,6 +25,13 @@ audio: "taiwan_no_fukei.mp3"
 調性與拍號：變ホ長調（Eb 大調）4/4 拍，速度 ♩=120
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌集》與《新定兒童唱歌》第六學年共用教材）
+
+- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈臺灣の風景〉**](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md)（`E,` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/taiwan_no_fukei.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

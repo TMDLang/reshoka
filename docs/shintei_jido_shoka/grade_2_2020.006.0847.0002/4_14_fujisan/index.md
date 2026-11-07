@@ -32,6 +32,15 @@ audio: "fujisan.mp3"
 
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同名異曲（《公學校唱歌》第三學年、《公學校唱歌集》與《新定兒童唱歌》第二學年為文部省『尋常小學唱歌』「あたまを雲の上に出し…」同曲；《公學校唱歌》第二學年〈フヂサン〉為低學年別曲）
+
+- **[同曲]** 《公學校唱歌》第二學年用（昭和11年／1936）：[**〈フジサン（富士山）〉**](../../../kogakko_shoka/grade_2/8_fujisan/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_2/8_fujisan/fujisan.tmd)）
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈富士山〉**](../../../kogakko_shokashu_1915/5_02_fujisan/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_02_fujisan/fujisan.tmd)）
+- **[同名異曲]** 《共益商社唱歌教科書》卷四・教師用（明治33年／1900）：[**〈富士山〉**](../../../kyoeki_shoka/kan_4_854865/6_fujisan/index.md)（`E,` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_4_854865/6_fujisan/fujisan.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

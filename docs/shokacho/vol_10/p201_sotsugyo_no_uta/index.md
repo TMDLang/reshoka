@@ -27,8 +27,9 @@ Marginalia: 419頁. 2.1.28 (昭和2年1月28日)
 
 ## 跨冊／重複收錄參照
 
-> 同曲（蘆田惠之助作詞、Schulz 作曲〈卒業の歌〉；收錄於《新定兒童唱歌》高等科女子用與《唱歌帖》P201）
+> 同曲＋同名異曲（《新定兒童唱歌》高等科女子用與《唱歌帖》P201 為蘆田惠之助詞・Schulz 曲同曲；《公學校唱歌集》〈卒業の歌〉為同名異曲）
 
+- **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈卒業の歌〉**](../../../kogakko_shokashu_1915/6_09_sotsugyo_no_uta/index.md)（`E,` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/6_09_sotsugyo_no_uta/sotsugyo_no_uta.tmd)）
 - **[同曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈卒業の歌〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta/index.md)（`E,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta/sotsugyo_no_uta.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

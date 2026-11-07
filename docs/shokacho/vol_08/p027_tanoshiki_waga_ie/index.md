@@ -28,8 +28,9 @@ audio: "tanoshiki_waga_ie.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同詞異曲＋同名異曲（《新定兒童唱歌》六年級〈樂しき我家〉與《唱歌帖》P027〈樂シキ我家〉同採「花こそ薫らねわがこの園」歌詞而譜曲不同；《唱歌帖》P102〈樂しき我家〉則採英國名曲 *Home! Sweet Home!*〈埴生の宿〉旋律）
+> 同曲＋同詞異曲＋同名異曲（《新定兒童唱歌》六年級與《共益商社唱歌教科書》卷四為同曲；《唱歌帖》P027 同採「花こそ薫らね…」歌詞而譜曲不同；《唱歌帖》P102 則採 *Home! Sweet Home!* 旋律）
 
+- **[同詞異曲]** 《共益商社唱歌教科書》卷四・教師用（明治33年／1900）：[**〈樂しき我家〉**](../../../kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md)（`E` / `6/8` — [原始 TMD](../../../kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
 - **[同詞異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈樂しき我家〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md)（`E` / `6/8` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈樂しき我家〉**](../../vol_02/p102_tanoshiki_wagaya/index.md)（`B,` / `4/4` — [原始 TMD](../../vol_02/p102_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)

@@ -24,6 +24,13 @@ audio: "kaiko_kinenbi.mp3"
 調性與拍號：ニ調四分之四拍子（D 大調 4/4 拍），速度 ♩=100
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈開校記念日〉**](../../../kogakko_shokashu_1915/6_08_kaiko_kinenbi/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/6_08_kaiko_kinenbi/kaiko_kinenbi.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

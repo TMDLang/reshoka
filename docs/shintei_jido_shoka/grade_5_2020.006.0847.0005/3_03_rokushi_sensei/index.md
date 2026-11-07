@@ -24,6 +24,14 @@ audio: "rokushi_sensei.mp3"
 調性與拍號：と短調四分之四拍子（G 小調 4/4 拍），♩= 96
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+
+- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈六氏先生〉**](../../../kogakko_shoka/grade_5/18_rokushi_sensei/index.md)（`B,` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/18_rokushi_sensei/rokushi_sensei.tmd)）
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈六氏先生〉**](../../../kogakko_shokashu_1915/4_02_rokushi_sensei/index.md)（`B,` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/4_02_rokushi_sensei/rokushi_sensei.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

@@ -24,6 +24,13 @@ audio: "hirose_chusa.mp3"
 調性與拍號：と長調四分之四拍子（G 大調 4/4 拍），♩= 112，（文部省）
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（文部省『尋常小學唱歌』第四學年〈廣瀨中佐〉；《公學校唱歌》與《新定兒童唱歌》第五學年共同收錄）
+
+- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈廣瀨中佐〉**](../../../kogakko_shoka/grade_5/19_hirose_chusa/index.md)（`G` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/19_hirose_chusa/hirose_chusa.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

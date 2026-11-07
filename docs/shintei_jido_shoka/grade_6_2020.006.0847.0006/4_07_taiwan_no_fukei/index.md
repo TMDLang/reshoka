@@ -24,6 +24,13 @@ audio: "taiwan_no_fukei.mp3"
 調性與拍號：變ほ長調四分之四拍子（Eb 大調 4/4 拍），♩=120
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌集》與《新定兒童唱歌》第六學年共用教材）
+
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈臺灣の風景〉**](../../../kogakko_shokashu_1915/6_07_taiwan_no_fukei/index.md)（`E,` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/6_07_taiwan_no_fukei/taiwan_no_fukei.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

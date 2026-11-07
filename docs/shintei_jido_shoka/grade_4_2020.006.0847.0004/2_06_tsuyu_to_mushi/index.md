@@ -27,6 +27,13 @@ audio: "tsuyu_to_mushi.mp3"
 速度指示：優美ニ
 
 
+## 跨冊／重複收錄參照
+
+> 同詞異曲（同採「草の葉末におくつゆの…」歌詞；《公學校唱歌》第四學年為 F 大調 2/4 拍，《新定兒童唱歌》第四學年為 Eb 大調 6/8 拍）
+
+- **[同詞異曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈つゆと虫〉**](../../../kogakko_shoka/grade_4/11_tsuyu_to_mushi/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_4/11_tsuyu_to_mushi/tsuyu_to_mushi.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

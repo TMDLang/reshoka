@@ -29,6 +29,14 @@ audio: "gyosen.mp3"
 速度指示：爽快ニ（♩=76）
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+
+- **[同曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈漁船〉**](../../../kogakko_shoka/grade_4/8_gyosen/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_4/8_gyosen/gyosen.tmd)）
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈漁船〉**](../../../kogakko_shokashu_1915/5_07_gyosen/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_07_gyosen/gyosen.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

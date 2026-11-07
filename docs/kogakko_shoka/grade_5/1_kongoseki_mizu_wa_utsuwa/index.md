@@ -28,6 +28,15 @@ audio: "kongoseki_mizu_wa_utsuwa.mp3"
 調性與拍號：ハ長調（C 大調）4/4 拍，速度 ♩=92
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（昭憲皇太后御歌、奧好義作曲〈金剛石・水は器〉；收錄於《公學校唱歌》第五學年、《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P051）
+
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈金剛石・水は器〉**](../../../kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd)）
+- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈金剛石〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/kongoseki.tmd)）
+- **[同曲]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈金剛石・水は器〉**](../../../shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

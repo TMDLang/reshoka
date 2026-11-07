@@ -25,6 +25,13 @@ audio: "kaiko_kinenbi.mp3"
 調性與拍號：ニ調（D 大調）4/4 拍，速度 ♩=100
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈開校記念日〉**](../../shokacho/vol_02/p100_kaiko_kinenbi/index.md)（`D` / `4/4` — [原始 TMD](../../shokacho/vol_02/p100_kaiko_kinenbi/kaiko_kinenbi.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

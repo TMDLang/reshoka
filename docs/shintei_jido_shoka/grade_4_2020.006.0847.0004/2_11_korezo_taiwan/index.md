@@ -28,6 +28,13 @@ audio: "korezo_taiwan.mp3"
 調性與拍號：と調三拍子（G 大調 3/4 拍）
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《新定兒童唱歌》、《臺灣の歌》共同收錄教材）
+
+- **[同曲]** 《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）：[**〈これぞ臺灣〉**](../../../taiwan_no_uta/4_korezo_taiwan/index.md)（`G` / `3/4` — [原始 TMD](../../../taiwan_no_uta/4_korezo_taiwan/korezo_taiwan.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

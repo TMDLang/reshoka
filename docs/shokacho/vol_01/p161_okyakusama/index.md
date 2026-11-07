@@ -47,7 +47,7 @@ audio: "okyakusama.mp3"
 
 > 同曲（《大正幼年唱歌》第七集〈お客様〉；收錄於《新定兒童唱歌》二年級與《唱歌帖》P161）
 
-- **[同曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈おきやくさま〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/index.md)（`B,` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/okyaku_sama.tmd)）
+- **[同曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈おきやくさま（客人）〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/index.md)（`B,` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/okyaku_sama.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

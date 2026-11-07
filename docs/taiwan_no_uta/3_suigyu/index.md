@@ -41,6 +41,15 @@ audio: "suigyu.mp3"
 
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同詞異曲＋同名異曲（御船武作詞；《公學校唱歌》與《新定兒童唱歌》第二學年為同曲，《臺灣の歌》為郭明峯原創譜曲版；《新定兒童唱歌》第一學年〈スヰギウ〉為同名異曲）
+
+- **[同詞異曲]** 《公學校唱歌》第二學年用（昭和11年／1936）：[**〈スヰギウ（水牛）〉**](../../kogakko_shoka/grade_2/6_suigyu/index.md)（`Eb` / `2/4` — [原始 TMD](../../kogakko_shoka/grade_2/6_suigyu/suigyu.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈スヰギウ（水牛）〉**](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu/index.md)（`F` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu/suigyu.tmd)）
+- **[同詞異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈水牛〉**](../../shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md)（`E,` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/suigyu.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

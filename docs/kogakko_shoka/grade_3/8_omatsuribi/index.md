@@ -48,9 +48,10 @@ audio: "omatsuribi.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（《公學校唱歌》與《新定兒童唱歌》第三學年共用教材）
+> 同曲＋同詞異曲（田村富士雄作詞；《公學校唱歌》與《新定兒童唱歌》第三學年為同曲，《臺灣の歌》為昭和4年御大典記念陳華提原創譜曲版）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈お祭日（祭典之日）〉**](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md)（`Eb` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/omatsuribi.tmd)）
+- **[同詞異曲]** 《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）：[**〈お祭日〉**](../../../taiwan_no_uta/2_omatsuribi/index.md)（`E,` / `2/4` — [原始 TMD](../../../taiwan_no_uta/2_omatsuribi/omatsuribi.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

@@ -25,6 +25,14 @@ audio: "no_sho_ko.mp3"
 調性與拍號：ト長調（G 大調）2/4 拍，速度 ♩=120
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+
+- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈農商工〉**](../../kogakko_shoka/grade_5/9_no_sho_ko/index.md)（`G` / `2/4` — [原始 TMD](../../kogakko_shoka/grade_5/9_no_sho_ko/no_sho_ko.tmd)）
+- **[同曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈農商工〉**](../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko/index.md)（`G` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko/noshoko.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

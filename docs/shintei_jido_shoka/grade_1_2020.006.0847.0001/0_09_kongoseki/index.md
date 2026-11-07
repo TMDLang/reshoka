@@ -30,8 +30,10 @@ audio: "kongoseki.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（昭憲皇太后御歌、奧好義作曲〈金剛石〉；收錄於《新定兒童唱歌》卷首與《唱歌帖》P051–P052 夾頁）
+> 同曲（昭憲皇太后御歌、奧好義作曲〈金剛石・水は器〉；收錄於《公學校唱歌》第五學年、《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P051）
 
+- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈金剛石・水はうつは〉**](../../../kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd)）
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈金剛石・水は器〉**](../../../kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈金剛石・水は器〉**](../../../shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

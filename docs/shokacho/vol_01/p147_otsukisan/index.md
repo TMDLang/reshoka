@@ -45,7 +45,7 @@ audio: "otsukisan.mp3"
 
 > 同名異曲（各冊收錄之不同詞曲版本）
 
-- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈オツキサマ〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_15_otsukisama/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_15_otsukisama/otsukisama.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈オツキサマ（月亮先生）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_15_otsukisama/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_15_otsukisama/otsukisama.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈お月さん〉**](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/4_13_otsukisan/index.md)（`G` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/4_13_otsukisan/otsukisan.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

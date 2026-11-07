@@ -28,8 +28,9 @@ audio: "utsukushiki_tennen.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（武島羽衣作詞、田中穗積作曲〈美しき天然／天然の美〉；《唱歌帖》P104 與 P131）
+> 同曲＋同名異曲（武島羽衣詞・田中穗積曲〈美しき天然／天然の美〉於《唱歌帖》P104 與 P131 為同曲；《共益商社唱歌教科書》卷三〈美しき天然〉為同名異曲）
 
+- **[同名異曲]** 《共益商社唱歌教科書》卷三・教師用（明治33年／1900）：[**〈美しき天然〉**](../../../kyoeki_shoka/kan_3_854864/3_utsukushiki_tennen/index.md)（`G` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_3_854864/3_utsukushiki_tennen/utsukushiki_tennen.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈天然の美〉**](../../vol_01/p131_tennen_no_bi/index.md)（`F` / `3/4` — [原始 TMD](../../vol_01/p131_tennen_no_bi/tennen_no_bi.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

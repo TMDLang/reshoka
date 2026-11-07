@@ -24,6 +24,13 @@ audio: "nigimitama.mp3"
 調性與拍號：と長調四分之四拍子（G 大調 4/4 拍），♩=104
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈にぎみたま〉**](../../../kogakko_shokashu_1915/5_06_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_06_nigimitama/nigimitama.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

@@ -29,6 +29,13 @@ audio: "neko_to_kaeru.mp3"
 作曲：臺灣總督府國語學校助教授 宮島慎三郎
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+
+- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ネコトカヘル（貓與青蛙）〉**](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/2_07_neko_to_kaeru/index.md)（`F` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/2_07_neko_to_kaeru/neko_to_kaeru.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

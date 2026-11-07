@@ -34,6 +34,14 @@ audio: "katatsumuri.mp3"
 
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同名異曲（《公學校唱歌》第一學年與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈かたつむり〉同曲；《唱歌帖》P079 為《大正幼年唱歌》同名異曲）
+
+- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈カタツムリ（蝸牛）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/index.md)（`D` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/katatsumuri.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈カタツムリ〉**](../../../shokacho/vol_02/p079_katatsumuri/index.md)（`C` / `2/4` — [原始 TMD](../../../shokacho/vol_02/p079_katatsumuri/katatsumuri.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

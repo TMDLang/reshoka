@@ -28,9 +28,10 @@ Annotations: ハ調 (イ短調) 2/4, 大正幼唱 第五集
 
 ## 跨冊／重複收錄參照
 
-> 同名異曲（各冊收錄之不同詞曲版本）
+> 同曲＋同名異曲（《公學校唱歌》第一學年與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈かたつむり〉同曲；《唱歌帖》P079 為《大正幼年唱歌》同名異曲）
 
-- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈カタツムリ〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/index.md)（`D` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/katatsumuri.tmd)）
+- **[同名異曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈カタツムリ（蝸牛）〉**](../../../kogakko_shoka/grade_1/6_katatsumuri/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_1/6_katatsumuri/katatsumuri.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈カタツムリ（蝸牛）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/index.md)（`D` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/katatsumuri.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

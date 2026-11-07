@@ -29,7 +29,7 @@ audio: "kiri.mp3"
 
 > 同名異曲（各冊收錄之不同詞曲版本）
 
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈霧〉**](../../../shokacho/vol_08/p016_kiri/index.md)（`A` / `3/8` — [原始 TMD](../../../shokacho/vol_08/p016_kiri/kiri.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈霧（霧）〉**](../../../shokacho/vol_08/p016_kiri/index.md)（`A` / `3/8` — [原始 TMD](../../../shokacho/vol_08/p016_kiri/kiri.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

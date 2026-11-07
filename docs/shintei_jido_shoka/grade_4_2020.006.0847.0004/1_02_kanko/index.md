@@ -31,7 +31,7 @@ audio: "kanko.mp3"
 
 > 同名異曲（各冊收錄之不同詞曲版本）
 
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈菅公〉**](../../../shokacho/vol_08/p011_kanko/index.md)（`F` / `4/4` — [原始 TMD](../../../shokacho/vol_08/p011_kanko/kanko.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈菅公（菅原道真）〉**](../../../shokacho/vol_08/p011_kanko/index.md)（`F` / `4/4` — [原始 TMD](../../../shokacho/vol_08/p011_kanko/kanko.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

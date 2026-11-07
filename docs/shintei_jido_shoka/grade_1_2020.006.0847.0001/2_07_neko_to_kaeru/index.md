@@ -26,6 +26,13 @@ audio: "neko_to_kaeru.mp3"
 中文解釋：描寫貓和青蛙相遇、嬉戲的童趣情景。
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈猫と蛙〉**](../../../kogakko_shokashu_1915/1_05_neko_to_kaeru/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/1_05_neko_to_kaeru/neko_to_kaeru.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

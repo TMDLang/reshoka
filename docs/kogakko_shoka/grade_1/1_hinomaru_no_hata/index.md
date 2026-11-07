@@ -34,6 +34,15 @@ audio: "hinomaru_no_hata.mp3"
 
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同名異曲（《公學校唱歌》第一學年、《公學校唱歌集》與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈日の丸の旗〉同曲；《新定兒童唱歌》第三學年為同名異曲）
+
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈日の丸の旗〉**](../../../kogakko_shokashu_1915/3_02_hinomaru_no_hata/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/3_02_hinomaru_no_hata/hinomaru_no_hata.tmd)）
+- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ヒノマルノハタ（日之丸旗）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata/hinomaru_no_hata.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈日の丸のはた（日之丸國旗）〉**](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/hinomaru_no_hata.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

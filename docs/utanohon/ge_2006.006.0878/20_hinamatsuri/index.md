@@ -41,6 +41,13 @@ audio: "hinamatsuri.mp3"
 依國民學校低學年教材純樸明朗之風格配以和聲伴奏。
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈ひなまつり〉**](../../../kogakko_shoka/grade_4/19_hinamatsuri/index.md)（`Eb` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_4/19_hinamatsuri/hinamatsuri.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

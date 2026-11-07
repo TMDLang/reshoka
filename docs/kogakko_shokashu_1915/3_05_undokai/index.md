@@ -29,6 +29,16 @@ audio: "undokai.mp3"
 作曲：臺灣總督府國語學校助教授 宮島慎三郎
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同詞異曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》三年級為同曲，與《公學校唱歌集》一條慎三郎作曲版同採臺灣總督府讀本歌詞；《新定兒童唱歌》高男用與《共益商社唱歌教科書》卷一為同名異曲）
+
+- **[同詞異曲]** 《公學校唱歌》第三學年（昭和10年／1935）：[**〈うんどうくわい（運動會）〉**](../../kogakko_shoka/grade_3/10_undokai/index.md)（`C` / `2/4` — [原始 TMD](../../kogakko_shoka/grade_3/10_undokai/undokai.tmd)）
+- **[同名異曲]** 《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）：[**〈運動會〉**](../../kyoeki_shoka/kan_1_854862/11_undokai/index.md)（`G` / `2/4` — [原始 TMD](../../kyoeki_shoka/kan_1_854862/11_undokai/undokai.tmd)）
+- **[同詞異曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈運動會〉**](../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/index.md)（`C` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/undokai.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈運動會〉**](../../shintei_jido_shoka/koto_boys_2020.006.0848/1_2_02_undokai/index.md)（`G` / `2/4` — [原始 TMD](../../shintei_jido_shoka/koto_boys_2020.006.0848/1_2_02_undokai/undokai.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

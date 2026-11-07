@@ -32,7 +32,7 @@ Key: 変ホ調 (Eb major), Time: 2/4, Tempo: 面白ク軽快ニ
 
 > 同名異曲（各冊收錄之不同詞曲版本）
 
-- **[同名異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈シヤボンダマ〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama/index.md)（`C` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama/shabondama.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈シヤボンダマ（肥皂泡）〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama/index.md)（`C` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama/shabondama.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈しゃぼん玉 (肥皂泡)〉**](../p252_shabondama/index.md)（`E,` / `2/4` — [原始 TMD](../p252_shabondama/shabondama.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

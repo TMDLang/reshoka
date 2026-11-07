@@ -28,8 +28,10 @@ audio: "yudachi.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（文部省唱歌〈夕立〉；收錄於《新定兒童唱歌》四年級與《唱歌帖》P128）
+> 同曲（文部省唱歌〈夕立〉；收錄於《公學校唱歌》第四學年、《新定兒童唱歌》第四學年與《唱歌帖》P128）
 
+- **[同曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈夕立〉**](../../../kogakko_shoka/grade_4/7_yudachi/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_4/7_yudachi/yudachi.tmd)）
+- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈夕立〉**](../../../kogakko_shokashu_1915/4_04_yudachi/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/4_04_yudachi/yudachi.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈夕立〉**](../../../shokacho/vol_01/p128_yudachi/index.md)（`D` / `2/4` — [原始 TMD](../../../shokacho/vol_01/p128_yudachi/yudachi.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
