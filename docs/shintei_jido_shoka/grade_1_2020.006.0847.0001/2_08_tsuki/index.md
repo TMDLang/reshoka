@@ -14,8 +14,9 @@ audio: "tsuki.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="tsuki.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="tsuki_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tsuki.mp3"></audio>
+
 
 - 詞：文部省
 - 曲：文部省
@@ -72,7 +73,7 @@ c3 d c2 A2 | c3 d c2 A2 | c3 d c2 A2 | G6 z2 |
 w: 1.~マ _ ル イ | マ _ ル イ | マ ン マ ル | イ
 w: 2.~ク _ ロ イ | ク _ ロ イ | マ ッ ク ロ | イ
 w: 3.~マ _ ル イ | マ _ ル イ | マ ン マ ル | イ
-F2 G2 A3 d | c4 A4 | G4 A4 | F6 z2 |
+F2 G2 A2 d2 | c4 A4 | G4 A4 | F6 z2 |
 w: 1.~ボ _ ン ノ | ヤウ ナ | ツ キ | ガ
 w: 2.~ス _ ミ ノ | ヤウ ナ | ク モ | ニ
 w: 3.~ボ _ ン ノ | ヤウ ナ | ツ キ | ガ
@@ -80,8 +81,8 @@ w: 3.~ボ _ ン ノ | ヤウ ナ | ツ キ | ガ
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5uedy09v2ejmdzOp7sWvd-T6eClhaXoq2ChQWXva2CG5eNkb6JHUj_i5Xz3u-Z9Wxa-8vmFc_nNILNfDZ7E4bYi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAuggUEjqAUNSDxSSQIaBIdBxSlz6WgpAW5_PXvdi1apnM_q4FBQUnuxYC3TCi-WLX7Z3g5zT3_90_eqnS-Y8X7kLKPV8VgvMbz1Pdi992t8F5D5t7XzeuvxFQ8PTJcufztkAUjNz_YvOTY8bmri09LmAtnABncP1uLn9cdP-xw0NSAxQeD1uWgOUm_e4efXjpiUIBkgayN4MFwEqmgPm9z1uXvK4adnj5i6EAVxPdvVwPW4Cqlv_uHkN1HgQe9Hj5m6gBJAFVAfUBmNAjW-GiwAV7XzcPB_FeLgBQA90gh0JNJgGrgeFkm9iZp5VQGZiXr5DjUFNNSguFGwMzbTswKwaBVMFXTA0htLYRAyhLCO4CEwOBA1AImDTfAxrgIm1HSoO9A5cPS7RFrjoWoRo0xok0-MRphuB5FbDdaxHMgemA8V0uApgaCOp7cZuujFIbh4N3I4S0GZgGhR8xInAghxbQMMd2wwKFGBigDoMvzgwtUDZEHmQo0EqcAU4IhBB3oSbhkscbkszVA1EHo8tqAFPA79AIwCUikHBCUm7ZlhTOiy4MdM-tgiYA3fcZijdB3YcKCPCpbrgRpGT3HfCzZlPlBVkpHma-aKWi0vXTgFUACkAaWUuAA)]
-- [鋼琴伴奏 TMD 檔案](tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae37PR2Pm6c8blr0uLnvyZ4tT5f2P9k94_2eTgUtLS5FWwULCy57WwU3LhsjfRM7rjoFpRcr573fM-vZtPaXzSuez2lUAok9m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdJyRgZGBnoGBmZ6BhYk5kGFgCHScEheXb2JmnlVAZmJefpCHQ41BTTWXAhDYGJpp2YFZNQqmCrpgaAylsYkYQllGcBGYHAgagETApvkY1gDDqx0q_rhpP1w9LtEWuOhahGjTGiTT4xGmG4HkVsN1rEcyB6YDxXS4isfNi5DUdmM33RgkN48GbkcJaDMwDQo-4kRgQY4toOGObQYFyuOmJVCH4Rd_3LwZyobIgxwNUoErwBGBCPIm3DRc4nBbmqFqIPJ4bEENeBr4BRoBoFQMCk5I2jXDmtJhwY2Z9rFFwBy44zZD6T6w45Y8bloGl-qCG0VOct8JN2c-UVaQkeZp5ota5PLHB7n8sYAXP9GGsUC1EBIHzzQemQuKBYjridIM40EMwaLZBI9yrFYDfaVrpwDyWLQPSBjGNkJiG4PZylwA)]
+- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPG5uedy09v2ejmdzOp7sWvd-T6eClhaXoq2ChQWXva2CG5eNkb6JHUj_i5Xz3u-Z9Wxa-8vmFc_nNILNfDZ7E4bYi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y82dHwdO2Opzu3PJ-yAuggUEjqAUNSDxSSQIaBIdBxSlz6WgpAW5_PXvdi1apnM_q4FBQUnuxYC3TCi-WLX7Z3g5zT3_90_eqnS-Y8X7kLKPV8VgvMbz1Pdi992t8F5D5t7XzeuvxFQ8PTJcufztkAUjNz_YvOTY8bmri09LmAtnABncP1uLn9cdP-xw0NSAxQeD1uWgOUm_e4efXjpiUIBkgayN4MFwEqmgPm9z1uXvK4adnj5i6EAVxPdvVwPW4Cqlv_uHkN1HgQe9Hj5m6gBJAFVAfUBmNAjW-GiwAV7XzcPB_FeLgBQA90gh0JNJgGrgeFkm9iZp5VQGZiXr5DjUFNNSguFGwMzbTswKwaBVMFXTA0htLYRAyhLCO4CEwOBA1AImDTfAxrgIm1HSoO9A5cPS7RFrjoWoRo0xok0-MRphuB5FbDdaxHMgemA8V0uApgaCOp7cZuujFIbh4N3I4S0GZgGhR8xInAghxbQMMd2wwKFGBigDoMvzgwtUDZEHmQo0EqcAU4IhBB3oSbhkscbkszVA1EHo8tqAFPA79AIwCUikHBCQpYM7BizJQOC27MtI8tAubAHbcZTPZBHQfKiHCpLrhR5CT3nXBz5hNlBRlpnma-qOXi0rVTABVACkBamQsA)]
+- [鋼琴伴奏 TMD 檔案](tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc3PK4ae37PR2Pm6c8blr0uLnvyZ4tT5f2P9k94_2eTgUtLS5FWwULCy57WwU3LhsjfRM7rjoFpRcr573fM-vZtPaXzSuez2lUAok9m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57saHi6dsfTnVueT1kBdJyRgZGBnoGBmZ6BhYk5kGFgCHScEheXb2JmnlVAZmJefpCHQ41BTTWXAhDYGJpp2YFZNQqmCrpgaAylsYkYQllGcBGYHAgagETApvkY1gDDqx0q_rhpP1w9LtEWuOhahGjTGiTT4xGmG4HkVsN1rEcyB6YDxXS4isfNi5DUdmM33RgkN48GbkcJaDMwDQo-4kRgQY4toOGObQYFyuOmJVCH4Rd_3LwZyobIgxwNUoErwBGBCPIm3DRc4nBbmqFqIPJ4bEENeBr4BRoBoFQMCk5QwJqBFWOmdFhwY6Z9bBEwB-64zWCyD-q4JY-blsGluuBGkZPcd8LNmU-UFWSkeZr5oha5_PFBLn8s4MVPtGEsUC2ExMEzjUfmgmIB4nqiNMN4EEOwaDbBoxyr1UBf6dopgDwW7QMShrGNkNjGYLYyFwA)]
 
 ## 分析
 
@@ -103,7 +104,7 @@ w: 3.~ボ _ ン ノ | ヤウ ナ | ツ キ | ガ
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  A, C, G, F, D
    - 調性數值:    A 小調 [相關度: 0.81, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A 小調 (0.81), C 大調 (0.71), F 大調 (0.66)
+   - 候選調性 (K-S): A 小調 (0.81), C 大調 (0.72), F 大調 (0.67)
    - 五度圈歷程:   +3
    - 各段落調性細節:
      • [Main #1]: A 小調 (r: 0.81, 自然音純度: 100.0%)
@@ -119,16 +120,16 @@ w: 3.~ボ _ ン ノ | ヤウ ナ | ツ キ | ガ
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████████████████     30.0%
+     C  : ██████████████████████    30.0%
      C# :                            0.0%
-     D  : ███                        4.4%
+     D  : ████                       5.6%
      D# :                            0.0%
      E  :                            0.0%
-     F  : █████████                 13.3%
+     F  : ██████████                13.3%
      F# :                            0.0%
-     G  : ████████████              17.8%
+     G  : █████████████             17.8%
      G# :                            0.0%
-     A  : ████████████████████████  34.4%
+     A  : ████████████████████████  33.3%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------

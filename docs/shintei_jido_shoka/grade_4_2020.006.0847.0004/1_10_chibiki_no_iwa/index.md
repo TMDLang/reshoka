@@ -14,8 +14,9 @@ audio: "chibiki_no_iwa.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="chibiki_no_iwa.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="chibiki_no_iwa_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="chibiki_no_iwa.mp3"></audio>
+
 
 - 詞：大和田建樹
 - 曲：小山作之助

@@ -14,8 +14,9 @@ audio: "momotaro.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="momotaro.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="momotaro_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="momotaro.mp3"></audio>
+
 
 - 日治時期國民學校唱歌（うたのほん 下・第二課）
 - 國立臺灣歷史博物館典藏

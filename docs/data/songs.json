@@ -1,5 +1,185 @@
 [
   {
+    "title": "ヒノマル ノ ハタ（日之丸旗）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/1_hinomaru_no_hata/"
+  },
+  {
+    "title": "ハト（鴿子）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/2_hato/"
+  },
+  {
+    "title": "メジロ ノ コ（綠繡眼之子）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/3_mejiro_no_ko/"
+  },
+  {
+    "title": "ユフダチ ヤンダ（西北雨停了）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/4_yudachi_yanda/"
+  },
+  {
+    "title": "ヒヨコ（小雞）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/5_hiyoko/"
+  },
+  {
+    "title": "カタツムリ（蝸牛）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/6_katatsumuri/"
+  },
+  {
+    "title": "ツキ（月亮）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/7_tsuki/"
+  },
+  {
+    "title": "キ ノ ハ（樹葉）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/8_ki_no_ha/"
+  },
+  {
+    "title": "ジヤンケン（猜拳）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/9_janken/"
+  },
+  {
+    "title": "ニンギヤウ（人偶）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/10_ningyo/"
+  },
+  {
+    "title": "カアレン（加令／八哥）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/11_karen/"
+  },
+  {
+    "title": "ヒカウキ（飛機）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/12_hikoki/"
+  },
+  {
+    "title": "コスズメ（小麻雀）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/13_kosuzume/"
+  },
+  {
+    "title": "イヌ（小狗）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/14_inu/"
+  },
+  {
+    "title": "モモタラウ（桃太郎）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "kogakko_shoka/grade_1/15_momotaro/"
+  },
+  {
+    "title": "ミヅグルマ（水車）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/1_mizuguruma/"
+  },
+  {
+    "title": "トリ ノ ス（鳥の巣）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/2_tori_no_su/"
+  },
+  {
+    "title": "アリ（蟻）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/3_ari/"
+  },
+  {
+    "title": "タケノコ（筍）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/4_takenoko/"
+  },
+  {
+    "title": "ペタコ（白頭翁）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/5_petako/"
+  },
+  {
+    "title": "スヰギウ（水牛）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/6_suigyu/"
+  },
+  {
+    "title": "フンスヰ（噴水）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/7_funsui/"
+  },
+  {
+    "title": "フジサン（富士山）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/8_fujisan/"
+  },
+  {
+    "title": "カカシ（案山子）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/9_kakashi/"
+  },
+  {
+    "title": "アヒル（家鴨）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/10_ahiru/"
+  },
+  {
+    "title": "ラヂオ（ラジオ）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/11_rajio/"
+  },
+  {
+    "title": "うらしまたらう（浦島太郎）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/12_urashimataro/"
+  },
+  {
+    "title": "しちめんてう（七面鳥）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/13_shichimencho/"
+  },
+  {
+    "title": "なぞなぞ（謎謎）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/14_nazonazo/"
+  },
+  {
+    "title": "はる が きた（春が來た）",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_2/15_haru_ga_kita/"
+  },
+  {
     "title": "あをば（青葉）",
     "collection": "《公學校唱歌》",
     "volume": "尋常科 第三學年用",
@@ -88,6 +268,126 @@
     "collection": "《公學校唱歌》",
     "volume": "尋常科 第三學年用",
     "url": "kogakko_shoka/grade_3/15_shirasagi/"
+  },
+  {
+    "title": "金剛石・水はうつは",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa/"
+  },
+  {
+    "title": "種",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/2_tane/"
+  },
+  {
+    "title": "こひのぼり",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/3_koinobori/"
+  },
+  {
+    "title": "神木",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/4_shinboku/"
+  },
+  {
+    "title": "空中戰",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/5_kuchusen/"
+  },
+  {
+    "title": "山上の家",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/6_sanjo_no_ie/"
+  },
+  {
+    "title": "海",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/7_umi/"
+  },
+  {
+    "title": "風鈴",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/8_furin/"
+  },
+  {
+    "title": "農商工",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/9_no_sho_ko/"
+  },
+  {
+    "title": "鄭成功",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/10_teiseiko/"
+  },
+  {
+    "title": "朝の歌",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/11_asa_no_uta/"
+  },
+  {
+    "title": "赤嵌城",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/12_sekikanjo/"
+  },
+  {
+    "title": "山にのぼりて",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/13_yama_ni_noborite/"
+  },
+  {
+    "title": "新高山",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/14_niitakayama/"
+  },
+  {
+    "title": "助船",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/15_tasukebune/"
+  },
+  {
+    "title": "敵は幾萬",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/16_teki_wa_ikuman/"
+  },
+  {
+    "title": "船子",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/17_funako/"
+  },
+  {
+    "title": "六氏先生",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/18_rokushi_sensei/"
+  },
+  {
+    "title": "廣瀨中佐",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/19_hirose_chusa/"
+  },
+  {
+    "title": "忍耐",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_5/20_nintai/"
   },
   {
     "title": "君が代",
@@ -322,6 +622,48 @@
     "collection": "《公學校唱歌集》",
     "volume": "大正四年版（國臺圖 0725 26）",
     "url": "kogakko_shokashu_1915/6_02_kaeru_to_kumo/"
+  },
+  {
+    "title": "農商工",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_03_no_sho_ko/"
+  },
+  {
+    "title": "克忠克孝",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_04_koku_chu_koku_ko/"
+  },
+  {
+    "title": "港",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_05_minato/"
+  },
+  {
+    "title": "玉の宮居",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_06_tama_no_miyai/"
+  },
+  {
+    "title": "臺灣の風景",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_07_taiwan_no_fukei/"
+  },
+  {
+    "title": "開校記念日",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_08_kaiko_kinenbi/"
+  },
+  {
+    "title": "卒業の歌",
+    "collection": "《公學校唱歌集》",
+    "volume": "大正四年版（國臺圖 0725 26）",
+    "url": "kogakko_shokashu_1915/6_09_sotsugyo_no_uta/"
   },
   {
     "title": "櫻",

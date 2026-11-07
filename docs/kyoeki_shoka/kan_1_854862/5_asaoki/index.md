@@ -14,8 +14,9 @@ audio: "asaoki.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="asaoki.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="asaoki_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="asaoki.mp3"></audio>
+
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第十～十一頁（第五曲）
 - NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P007.jpg
