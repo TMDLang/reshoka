@@ -6,7 +6,7 @@ Q:1/4=66
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!p! z4 z2 C2 | F4 F2 A2 | G3 F G2 A G | F4 A,2 C2 |
+!p! z4 z2 C2 | F4 F2 A2 | G3 F G2 A G | F4 A2 c2 |
 w: ア | サ ナ ユ | フ ナ ニ オ _ | コ タ ラ
 !mf! d6 f2 | c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 |
 w: ズ ツ | ト _ メ ハ | ゲ ミ シ ソ _ | ノ _ イ サ
@@ -16,7 +16,7 @@ w: ヲ ケ | フ ア ラ ハ | レ _ テ ツ | キ ノ カ ツ
 w: ラ タ | ヲ _ リ エ | マ シ シ メ _ | デ _ タ サ
 F6 z2 | !p! z4 z2 C2 | F4 F2 A2 | G3 F G2 A G |
 w: ヨ | さ | は れ い | く と せ へ _
-F4 A,2 C2 | !mf! d6 f2 | c3 A A2 F2 | G3 F G2 A G |
+F4 A2 c2 | !mf! d6 f2 | c3 A A2 F2 | G3 F G2 A G |
 w: だ て な | く む | つ _ び か | は し し こ _
 F3 D D2 C2 | !f! F6 d2 | c3 A A2 F2 | G3 F G2 A2 |
 w: の _ た も | と わ | か た ん こ | と _ の い
@@ -24,7 +24,7 @@ c3 A A2 c2 | !f! d6 f2 | c3 A A2 F2 | G3 F G2 A G |
 w: と _ を し | き な | ご り を わ | れ _ や い _
 F3 D D2 C2 | F6 z2 | !p! z4 z2 C2 | F4 F2 A2 |
 w: か _ に せ | ん | ア | ハ レ ワ
-G3 F G2 A G | F4 A,2 C2 | !mf! d6 f2 | c3 A A2 F2 |
+G3 F G2 A G | F4 A2 c2 | !mf! d6 f2 | c3 A A2 F2 |
 w: ガ ト モ ミ _ | ヲ シ ヘ | ノ ミ | チ _ ヲ マ
 G3 F G2 A G | F3 D D2 C2 | !f! F6 d2 | c3 A A2 F2 |
 w: モ リ テ ヲ _ | リ _ エ ツ | ル ツ | キ _ ノ カ

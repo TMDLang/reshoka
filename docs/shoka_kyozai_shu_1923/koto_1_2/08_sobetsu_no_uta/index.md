@@ -26,8 +26,7 @@ audio: "sobetsu_no_uta.mp3"
 > - **調性與拍號**：ヘ調二拍子（F 大調 2/4 拍），速度 ♩= 66，弱起拍（第 2 拍後半八分音符起唱）。
 > - **比較校勘**：先前檔案轉植自手抄《唱歌帖》（`P197.jpg`），存在多處節奏與歌詞抄誤，本檔依原書五線譜與數字譜完全重校：
 >   1. 各行結尾附點四分音符（`6.`、`1.`，占 1.5 拍）與下一行開頭弱起八分音符（`1^`、`6`、`1^`，占 0.5 拍）合為 1 個完整 2/4 小節（全曲共 16 小節＋弱起），舊檔誤拆為兩個獨立小節而多出 3 小節。
->   2. 第 3 小節第 2 拍五線譜與簡譜均帶低音點 `3_ 5_`（A3–C4），舊檔誤作高八度 `3 5`。
->   3. 歌詞訂正：第 1 節末句原書為「めでたさよ」（手抄本誤作「めでたさを」）；第 2 節為「へだてなく」「いとをしき」（手抄本誤作「へだてなば」「いとをしかり」）；第 3 節為「み敎（をしへ）の」「折（を）りえつる」（手抄本誤作「みをたてて」「よりゆつる」）。
+>   2. 歌詞訂正：第 1 節末句原書為「めでたさよ」（手抄本誤作「めでたさを」）；第 2 節為「へだてなく」「いとをしき」（手抄本誤作「へだてなば」「いとをしかり」）；第 3 節為「み敎（をしへ）の」「折（を）りえつる」（手抄本誤作「みをたてて」「よりゆつる」）。
 >
 > **一、**
 > 朝（あさ）な夕（ゆふ）なにおこたらず　勉（つと）め勵（はげ）みしそのいさを
@@ -62,7 +61,7 @@ Q:1/4=66
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!p! z4 z2 C2 | F4 F2 A2 | G3 F G2 A G | F4 A,2 C2 |
+!p! z4 z2 C2 | F4 F2 A2 | G3 F G2 A G | F4 A2 c2 |
 w: ア | サ ナ ユ | フ ナ ニ オ _ | コ タ ラ
 !mf! d6 f2 | c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 |
 w: ズ ツ | ト _ メ ハ | ゲ ミ シ ソ _ | ノ _ イ サ
@@ -72,7 +71,7 @@ w: ヲ ケ | フ ア ラ ハ | レ _ テ ツ | キ ノ カ ツ
 w: ラ タ | ヲ _ リ エ | マ シ シ メ _ | デ _ タ サ
 F6 z2 | !p! z4 z2 C2 | F4 F2 A2 | G3 F G2 A G |
 w: ヨ | さ | は れ い | く と せ へ _
-F4 A,2 C2 | !mf! d6 f2 | c3 A A2 F2 | G3 F G2 A G |
+F4 A2 c2 | !mf! d6 f2 | c3 A A2 F2 | G3 F G2 A G |
 w: だ て な | く む | つ _ び か | は し し こ _
 F3 D D2 C2 | !f! F6 d2 | c3 A A2 F2 | G3 F G2 A2 |
 w: の _ た も | と わ | か た ん こ | と _ の い
@@ -80,7 +79,7 @@ c3 A A2 c2 | !f! d6 f2 | c3 A A2 F2 | G3 F G2 A G |
 w: と _ を し | き な | ご り を わ | れ _ や い _
 F3 D D2 C2 | F6 z2 | !p! z4 z2 C2 | F4 F2 A2 |
 w: か _ に せ | ん | ア | ハ レ ワ
-G3 F G2 A G | F4 A,2 C2 | !mf! d6 f2 | c3 A A2 F2 |
+G3 F G2 A G | F4 A2 c2 | !mf! d6 f2 | c3 A A2 F2 |
 w: ガ ト モ ミ _ | ヲ シ ヘ | ノ ミ | チ _ ヲ マ
 G3 F G2 A G | F3 D D2 C2 | !f! F6 d2 | c3 A A2 F2 |
 w: モ リ テ ヲ _ | リ _ エ ツ | ル ツ | キ _ ノ カ
@@ -92,8 +91,8 @@ w: カ _ ク ハ _ | ナ _ テ カ | シ
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sobetsu_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1oiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfpRVlpualFGdkFihxaWkpvGxofNqx9HHjumdrexS0tLgUbRXMzLjsbRXcuGyM9E3suEDaQb61Ung2bcPz7SsUnm7of7p2x7MFCx83737augbCVng6ZSPQhGdTZz6bO-Hl7Lb3ezperp7xfG3n8-UTn-xoACp9sqsHqPTpzi3Pp6x4v6cT7CygzLNFc5-19j3Z0fmyuU8BaPzjhi5S7Hnc0A206umS5c_WLn7a2wiyZOcWCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhiC7ebS11KwpRbgUlBQsFOIVvTzD3GNhXC0tJ72zQfZu7n9xYquFx3tQDe_WDnvaeuKZ9PatbRATt7Q-6y9UyEBlFz0sgrSEx41TAZyzAzAHKDDIQYoFOgpGJsaACWNTYFO78EZqGvWKFgovFw2Dei993tmQVyhC3THi1X7nzUsB7mguxcYCiC7Zz1ungEUBgVRd-_TtROArnFTAAYhUEwBGOUKQFGwKT0vG-Y_3bVM4dHMlaBEAXLTno0vtm4Hy3eAbDQCqX26r-dpb9fT1tVPO9pezt_8fM0yoBpgNAHNeNzQhHDJs_VTXuxpBsbh0-4ZYGc8be142tn7bNWUZws7XuztfLak90X7qmed3c-6WoCpABLRT3dMg0RxQoChpTk0bEBue7p2xtM5K54umfVi5tTn6xueLu2HhzJQ_4tVS4Bqns1ZAzT9yb65kLB8smvK8-2zXqydA1I5dcfTtdOB7KfreoCx8rK9F-gweMApKBjqKTyd0PJiYc_zrROebtj3cmbLy93zns6eDfcjyElmegmPGxoTDPXA8dW7AKjLFBp6QCue7OgGRhLQiJfTul8uWAsJO-RgAhlhGAc2wgxiUBzMIAO4QU8ndDxv2qVgqPC0oRvo1mdTt4DjCJg5gL4GpSNgkpq96WnrRgVDM7hoN8QySEi96OgChgIwRJ51twGNetq6EmjU894Vz1d3Q9S_aOgBhuPT9l0KxlAT4PGmoGCkpwCKaZgMPNaRA_P5hoWgkJzb_nTHtid7-4C-AwaWQoJxvIJpPNBHHY7GwPTrbILmnCd75wBTMyhAgGkswVjBFBgGcGuN9RQgkfliRRMwawNjBmSzoQLQCc_mrH7avxQSpUD_PG7oedzU-Lhx-ePG-Y8bpz5u6njcAEqfkIQETAIQqzCUTQIrA7poNsRPIM9BTGvc8bhxwePGZY8bVz1u7AcqAwu2PG5cAdLVOP1xI1AEhxUoejdg09v9uKkLxWpjZKv3P5vaBzQZpngHKBM1roOY86xrBkQKJAg0pLHjceOSx03duB2zH2wO0L9A9yyDOgYYPkC9TW1IeuH5FFZ4gQqXhkZgbQDmP5szF2RvYxMw3MDuWfV0CZABNAdoyFaIyOPG1Y8bgU6aDLKuCSgy63FDw9NuoB_BjmwEFfnA8H_aDVQPFFn_uBHsC6ALQd6cC_IjKJRA8QKx9MnurmfTl4IVT4TZ0gQ2ef3jJqDXgN4BpgRgCQ8xH-wLYCW2sAks0g32HdD2TqgXQIEDDj2Q86AB-HTfdLAI0BCg3n0glzTNBRqLkZzQAmdXD1LggNRAnQR0fz8oohtnYyShhudzQdn9cVMD0GFg6zaDHQkMB7CloHADhgDQbcBAXgE1uQloGlANUBAoC0RAk4EpAWgCSlKEOQNo0RRwzE4CaQS6pwlYikIUAw0Bxs5skDkYEQ2MeyS_AG0H-eVZx0Swa_vBTu152g8qgcGWAoMXFGs4UmnDy8bJYJXAaAWWpsBABirYB_IUKLkuw5WAYcmMcGzCQgCSYIBZCejZLmiC2QGs-4CGQ2IT6N8WUAiAIhGoHRQF4NAGhhIwUoAi06FBQXn1DwUKWvpcXL6JmXlWAZmJefkONQY1CtUgGxRsDM20wCGugK3VoQCtGMDFq4IGwWpVRwHWStDEYhjQESCLahQMgHUuCILo6oJaYEkMZNSAJX0MaxRAPBAE0Y-bFiHkjNDkGqci5Iyx68PtNaBnIFWgggasyiLS-YZQe0C0McgWYKBA-CDaGEgi1ADrGV2o_xTMoGIgWJ2bVqtgGIfi78dNW6Gyj5u7wOQysL7HzSB_QkQfN3eDfbcKItO0GaajaT9YxUqo-C4kux43t6CEITCxwXX1gMMRLA-k-yGijSuAeDaYtQMqswCmoxHkJmBaRdEBM60BJT4eN8NkHzevAZMge0GuA_FA_A4gBsXT4-b5UJ9ugpu1HSw-Ayreh-IfsGoCcburh5y4NQXbYAyOV1Ac4o5bs3gQgkcuLMLBkQuMW1BkI0Ut0Kswxy8Ek6CgAQUFxMMgL0G93LQXzcuPm5aASVDiQA4iiNxGhD3gqAWphUQUKGkAixOILmiUA8sWMAaxJkNl1sF1gIIVWCBCxVeg2AN2L1LUNsL9A3LP4-Z5UNeBohPEXwXEbXB5kAwoyUDMApkMTZRAejWyPdCkSiDbdtIiakEiyGpAbLRMiyXPwvImsLyB5D541ILTPMRTkICAerhpLVS0D8gGeR4RFCD9iCAH5WjkqAVFJSSagLUlmAWLQlhUQSITkZ_h4k2TwOKgiAeJ9yLbA8nLiKiFug_iQpBekBtBrgOZCiljYDKYSRXiH_Qoh-gDuYZA1AJ7MQOWa0G1EXLEwosisDcgqRYkDkrpkAIKVkiBcjRIph0eDODCGJ5jkXMSUlUHjtQpUB3Aoh0SSZCcBi2aIXKggEdEKiQZgETAgQ0uqEHqQYkBiy3g3ApNOsCS5HEzpDQBJy5ohEHkQCUEIvGCKiCkxAtLBGAfo9pSy8Wla6cAal1E-xjGKsDZRkhsYzBbmQsA)]
-- [鋼琴伴奏 TMD 檔案](sobetsu_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1oiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYlKXFpaCi8bGp92LH3cuO7Z2p73ezpezp75rLP7Zfee5xO2PNmz5enS_vd7OhW0tLgUbRXMzLjsbRXcuGyM9E3suEA2gPxqpfBs2obn21coPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ykagyc-mznw2d8LL2W0gK1bPeL628_nyiU92NACVPtnVA1T6dOeW51NWAO0Cuxwo82zR3GetfU92dL5s7lMAGv-4oYsUex43dAOterpk-bO1i5_2NoIs2bkFwng2p-P9np7nWxY9m73jxcz5CgbmRqa6JoZgu7l8EzPzrAIyE_PygzwcagxqFKq5FIDAxtBMyw7MqlEwUNAFQxBdXVCrYBoPZNSAJX0MaxRAPBAE0Y-bFiHkjNDkGqci5Iyx64PaaAiVAtHGIAkFIygfRBsDSYQaY5B-iJMUzKBiIFidm1arYBiH4tTHTVuhso-bu8DkMrC-x80gp0FEHzd3gx20CiLTtBmmo2k_WMVKqPguJLseN7egePtx43q4rh6w18HyQLofItq4Aohng1k7oDILYDoaQW563Ai1H6oDZloDShA-bobJPm5eAyZB9oJcB-KB-B1ADArax83zoT7dBDdrO1h8BlS8D8U_YNWw6DAFCxqDowIU7LijwywehODxAYsjcHwAowMUP0ixAXQdzL6FYBLkG5DrIW4EuQLqyqa9aK583LQETILiE9lXELmNCHvAsQFSCwlbUGw-bgTFMCKWHjdOB2MQazJUZh1cBygkHjc1QcVXoNgDdi9SbDTC_QNyz-PmeVDXgWIAxF8FxG1weZAMKJYhZoFMhqYjIL0a2R5o6iIyNkAiyGpAbLSsgSVnwHIAMCNC0jg8NsApC-IOiNuhbmxaCxXtA7JB7kW4HqQfEUqgfIMcG6DQh4Ts4yZQeCNCHRa6kPBH5Bq4eNMksDgorkDivcj2QHIMIjag7oO4EKQX5EaQ60CmQnIyTAYzdUH8gx5LEH0g11A3b4BKVuS4gOdRsM2QtAESB6UnSM6F5V5QvgHJtMNdDi6l4PkCOb0iFdvgeJgC1QEs8yDhCknP0DILIgcKK0Q8QGIOJAIOH3AJBlIPij8stoDzBDS2gfn1cTMkz4LTAzSMIXKgfIhIb6CSGSm9weIN7GNUW2qR6y8flPrLAqX6QgQwMODjFaINY2EUMAbjgSzT-FgEA1ONCUjKBCgFYhiQZJQZiGkWn4vDfNIMo6-7gMGra6cACuFoH6AonG2ExDYGs5W5AA)]
+- [主旋律 TMD 檔案](sobetsu_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1oiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfpRVlpualFGdkFihxaWkpvGxofNqx9HHjumdrexS0tLgUbRXMzLjsbRXcuGyM9E3suEDaQb61Ung2bcPz7SsUnm7of7p2x7MFCx83737augbCVng6ZSPQhGdTZz6bO-Hl7Lb3ezperp7xfG3n8-UTn-xoACp9sqsHqPTpzi3Pp6x4v6cT7CygzLNFc5-19j3Z0fmyuU8BaPzjhi5S7Hnc0A206umS5c_WLn7a2wiyZOcWCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhiC7ebS11KwpRbgUlBQsFOIVvTzD3GNhXC0tJ72zQfZu7n9xYquFx3tQDe_WDnvaeuKZ9PatbRATt7Q-6y9UyEBlFz0sgrSEx41TAZyzAzAHKDDIQYoFOgpGJsaACWNTYFO78EZqGvWKFgovFw2Dei993tmQVyhC3THi1X7nzUsB7mguxcYCiC7Zz1ungEUBgVRd-_TtROArnFTAAYhUEwBGOUKQFGwKT0vG-Y_3bVM4dHMlaBEAXLTno0vtm4Hy3eAbDQCqX26r-dpb9fT1tVPO9pezt_8fM0yoBpgNAHNeNzQhHDJs_VTXuxpBsbh0-4ZYGc8be142tn7bNWUZws7XuztfLak90X7qmed3c-6WoCpABLRT3dMg0RxQoChpTk0bEBue7p2xtM5K54umfVi5tTn6xueLu2HhzJQ_4tVS4Bqns1ZAzT9yb65kLB8smvK8-2zXqydA1I5dcfTtdOB7KfreoCx8rK9F-gweMApKBjqKTyd0PJiYc_zrROebtj3cmbLy93zns6eDfcjyElmegmPGxoTDPXA8dW7AKjLFBp6QCue7OgGRhLQiJfTul8uWAsJO-RgAhlhGAc2wgxiUBzMIAO4QU8ndDxv2qVgqPC0oRvo1mdTt4DjCJg5gL4GpSNgkpq96WnrRgVDM7hoN8QySEi96OgChgIwRJ51twGNetq6EmjU894Vz1d3Q9S_aOgBhuPT9l0KxlAT4PGmoGCkpwAJ1RcrmoB5DBhEoIg3VACqejZn9dP-pZCwBRr8uKHncVPj48bljxvnP26c-rip43EDKKFAYhQYF0AnPNk7B0PZJLAyoEtnQ5IU0GSoaY07HjcueNy47HHjqseN_UBlYMGWx40rQLoapz9uBIrgsAJF7wZsersfN3WhWG2MbPX-Z1P7gCbDFO8ApebGdRBznnXNgEiBBIGGNHY8blzyuKkbt2P2g80B-hfonmVQxwDDB6i3qQ1JLzzDwEoRUC5vaAQWy2D-szlzQfY2NgHDDeyeVU-XABlAc4CGbIWIPG5c_bgR6KTJIOuagCKzHjc0PO0G-hHsyEZQ2QsM_6fdQPVAkfWPG8G-ALoQ5M25ID-CQgkULxBLn-zuejZ9KVjxRJgtTWCT1z9uAnoN6B1gSgAWtRDzwb4A1iYLm8Ai3WDfAW3vhHoBFDjg0AM5DxqAT_dNB4sADQHq3QdySdNcoLEYyQktcHb1IAUOSA3USUD394MiunE2RhJqeD4XlO8eNzUAHQa2bjPYkcBwAFsKCjdgCADdBgzkFVCTm4CmAdUABYGyQAQ0GZgSgCagJEWYM4AWTQHH7CSQRqB7moDFGUQx0BBg7MwGmYMR0cC4R_IL0HaQX551TAS7th_s1J6n_aCiEGwpMHhBsYYjlTa8bJwMVgmMVmCxBgxkoIJ9IE-BkusyXAkYlswIxyYsBCAJBpiVgJ7tgiaYHcBKCGg4JDaB_m0BhQAoEoHaQVEADm1gKAEjBSgyHRoUlNfDUKCgpc_F5ZuYmWcVkJmYl-9QY1CjUA2yQcHG0EwLHOIK2Kp_BWgJDS4BFTQI1m86CrDqWhOLYUBHgCyqUTAAVn4gCKKrC2oVTOOBjBqwpI9hjQKIB4Ig-nHTIoScEZpc41SEnDF2fbi9BvQMpC5S0IDVHUQ63xBqD4g2BtkCDBQIH0QbA0mEGpC8KViNGVQEBKtz02oVDONQfP24aStU9nFzF5hcBtb3uBnkS4jo4-ZusN9WQWSaNsN0NO0Hq1gJFd-FZNfj5haUEAQmNbiuHnAoguWBdD9EtHEFEM8Gs3ZAZRbAdDSC3ARMqSg6YKY1oMTG42aY7OPmNWASZC_IdSAeiN8BxKBYetw8H-rTTXCztoPFZ0DF-1D8A1ZNIGZ39ZATs6CYAsUZKNZAMYg7Zs3iQQgYt-CkC49ucOQC4xYU2UhRC_QqzPELwSQoaEBBAfEwyEtQLzftRfPy46YlYBKUOJCDCCK3EWEPOGpBaiERBUoawMIEogsa5cCSBYxBrMlQmXVwHaBgBRaHUPEVKPaA3YsUtY1w_4Dc87h5HtR1oOgE8VcBcRtcHiQDSjIQs0AmQxMlkF6NbA80qRLItJ20iFqQCLIaLJkWS56F5U1gaQPJffCoBad5iKcgAQH1cNNaqGgfkA3yPCIoQPoRQQ7K0chRC4pKSDQB60owCxaFsKiCRCYiP8PFmyaBxUERDxLvRbYHkpcRUQt1H8SFIL0gN4JcBzIVUsbAZDCTKsQ_6FEO0QdyDYGoBXYmBizXguoi5IiFF0Vgb0BSLUgclNIhBRSskALlaJBMOzwYwIUxPMci5ySkig4cqVOgOoBFOySSIDkNWjRD5EABj4hUSDIAiYADG1xQg9SDEgMWW8C5FZp0gCXJ42ZIaQJOXNAIg8iBSghE4gVVQEiJF5YIwD5GtaWWi0vXTgHUtoj2MYxVgLONkNjGYLYyFwA)]
+- [鋼琴伴奏 TMD 檔案](sobetsu_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1oiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYlKXFpaCi8bGp92LH3cuO7Z2p73ezpezp75rLP7Zfee5xO2PNmz5enS_vd7OhW0tLgUbRXMzLjsbRXcuGyM9E3suEA2gPxqpfBs2obn21coPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ykagyc-mznw2d8LL2W0gK1bPeL628_nyiU92NACVPtnVA1T6dOeW51NWAO0Cuxwo82zR3GetfU92dL5s7lMAGv-4oYsUex43dAOterpk-bO1i5_2NoIs2bkFwng2p-P9np7nWxY9m73jxcz5CgbmRqa6JoZgu7l8EzPzrAIyE_PygzwcagxqFKq5FIDAxtBMyw7MqlEwUNAFQxBdXVCrYBoPZNSAJX0MaxRAPBAE0Y-bFiHkjNDkGqci5Iyx64PaaAiVAtHGIAkFIygfRBsDSYQakLwpWI0ZVAQEq3PTahUM41Ac-rhpK1T2cXMXmFwG1ve4GeQwiOjj5m6wc1ZBZJo2w3Q07QerWAkV34Vk1-PmFhRPP25cD9fVA_Y4WB5I90NEG1cA8WwwawdUZgFMRyPITY8bofZDdcBMa0AJwMfNMNnHzWvAJMhekOtAPBC_A4hBAfu4eT7Up5vgZm0Hi8-Aiveh-AesGhYZoMAFBTMooEGBjjsyzOJBCBgd4AQCjyFwfACjAxQ_SLEBdB3MvoVgEuQbkOshbgS5AurKpr1ornzctARMguIT2VcQuY0Ie8CxAVILCVtQbD5uBMUwIpYeN04HYxBrMlRmHVwHKCQeNzVBxVeg2AN2L1JsNML9A3LP4-Z5UNeBYgDEXwXEbXB5kAwoliFmgUyGpiMgvRrZHmjqIjI2QCLIarBkDSw5A5YDgNkQksbhsQFOWRB3QNwOdWPTWqhoH5ANci_C9SD9iFAC5Rvk2ACFPiRkHzeBwhsR6rDQhYQ_ItfAxZsmgcVBcQUS70W2B5JjELEBdR_EhSC9IDeCXAcyFZKTYTKYqQviH_RYgugDuYa6eQNUriLHBTyPgm2GpA2QOCg9QXIuLPeC8g1Iph3ucnApBc8XyOkVqdAGx8MUqA5gmQcJV0h6hpZZEDlQWCHiARJzIBFw-IBLMJB6UPxhsQWcJ6CxDcyvj5sheRacHqBhDJED5UNEegOVzEjpDRZvYB-j2lKLXHv5oNReFiiVFyKAgQEfrxBtGAujgDEYD2GBadN4kBC6EhOQlAlQCsQwIMUkMxDTLD4Xh_FEmgUWoaujgCGra6cACtxoH6AonG2ExDYGs5W5AA)]
 
 ## 分析
 
@@ -104,8 +103,8 @@ w: カ _ ク ハ _ | ナ _ テ カ | シ
 ⏱  Duration:       1:32 (92.7s), 51 measures total
 🎼 Key & Tempo:    首調基準 F, != 66.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A3 (MIDI 57) – F5 (MIDI 77) [跨度: 20 個半音 / 1.7 個八度, 難度: challenging]
-   - 最低音:  A3 in [Main[L1] #1 @ m.4, 0:06]
+🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  C4 in [Main[L1] #1 @ m.1, 0:01]
    - 最高音: F5 in [Main[L1] #1 @ m.5, 0:08]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main[L1] (30.9s) -> Main[L2] (30.9s) -> Main[L3] (30.9s)
@@ -147,7 +146,7 @@ w: カ _ ク ハ _ | ナ _ テ カ | シ
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A3 – F5 (20 個半音 / 1.7 個八度, 171 個音符)
+  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 171 個音符)
 ================================================================================
 ```
 

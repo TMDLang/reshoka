@@ -1,10 +1,62 @@
 X:1
 T:海（二部）
-M:2/4
+M:6/8
 L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
+Q:3/8=44
+K:D
+V:V1 name="Alto" snm="Alt"
+V:V2 name="Soprano" snm="Sop"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+z2 z2 z2 z2 z2 F2 | F4 D2 D4 F2 | F4 F2 F4 D2 | D4 D2 D4 D2 |
+w: ミ | ワ タ シ ト | ホ _ キ ウ | ナ _ バ ラ
+C6 C2 z2 F2 | F4 D2 D4 F2 | F4 F2 F4 F2 | E4 c2 c2 B2 ^G2 |
+w: ヤ _ ハ | ル カ ニ ミ | ユ _ ル マ | ホ _ カ _ タ
+A6 A2 z2 C2 | D2 E2 F2 F4 F2 | G4 F2 D4 C2 | D2 E2 F2 F4 F2 |
+w: ホ _ ユ | ク _ _ カ カ | ヘ ル カ シ | ラ _ _ ト _
+G4 F2 D4 F2 | F4 d2 c2 B2 c2 | d4 F2 A4 A2 | G6 E4 G2 |
+w: リ _ ノ ム | レ テ ト _ ブ | サ _ ヘ オ | モ シ ロ
+F6 F2 z2 z2 | z2 z2 z2 z2 z2 F2 | F4 D2 D4 F2 | F4 F2 F4 D2 |
+w: ヤ _ | お | も _ ひ ゆ | た か に ゆ
+D4 D2 D4 D2 | C6 C2 z2 F2 | F4 D2 D4 F2 | F4 F2 F4 F2 |
+w: ら _ ゆ ら | と _ そ | ら _ を ひ | た し て ゆ
+E4 c2 c2 B2 ^G2 | A6 A2 z2 C2 | D2 E2 F2 F4 F2 | G4 F2 D4 C2 |
+w: く _ は _ て | は _ た | だ _ _ へ う | べ う の ゆ
+D2 E2 F2 F4 F2 | G4 F2 D4 F2 | F4 d2 c2 B2 c2 | d4 F2 A4 A2 |
+w: め _ _ う _ | つ _ つ わ | れ も む _ げ | ん _ の こ
+G6 E4 G2 | F6 F2 z2 z2 | z2 z2 z2 z2 z2 F2 | F4 D2 D4 F2 |
+w: こ ち し | て _ | キ | シ ベ ニ タ
+F4 F2 F4 D2 | D4 D2 D4 D2 | C6 C2 z2 F2 | F4 D2 D4 F2 |
+w: チ _ テ ヤ | ス _ ラ ヘ | バ _ イ | マ _ モ ム
+F4 F2 F4 F2 | E4 c2 c2 B2 ^G2 | A6 A2 z2 C2 | D2 E2 F2 F4 F2 |
+w: カ シ モ カ | ハ _ リ _ ナ | ク _ ヨ | セ _ テ ハ カ
+G4 F2 D4 C2 | D2 E2 F2 F4 F2 | G4 F2 D4 F2 | F4 d2 c2 B2 c2 |
+w: ヘ _ ス ウ | ラ _ _ ノ _ | ナ _ ミ ハ | マ ノ マ _ サ
+d4 F2 A4 A2 | G6 E4 G2 | F6 F2 z2 z2 |
+w: ゴ _ ヲ ユ | ス リ ツ | ツ _
+[V:V2]
+z2 z2 z2 z2 z2 A2 | A4 F2 F4 d2 | d4 A2 A4 F2 | F4 D2 D4 F2 |
+w: ミ | ワ タ シ ト | ホ _ キ ウ | ナ _ バ ラ
+E6 E2 z2 A2 | A4 F2 F4 d2 | d4 A2 A4 d2 | c4 e2 e2 d2 B2 |
+w: ヤ _ ハ | ル カ ニ ミ | ユ _ ル マ | ホ _ カ _ タ
+A6 A2 z2 E2 | F2 G2 A2 A4 A2 | B4 A2 F4 E2 | F2 G2 A2 A4 A2 |
+w: ホ _ ユ | ク _ _ カ カ | ヘ ル カ シ | ラ _ _ ト _
+B4 A2 F4 A2 | d4 d2 e2 d2 e2 | f4 d2 A4 A2 | e6 c4 c2 |
+w: リ _ ノ ム | レ テ ト _ ブ | サ _ ヘ オ | モ シ ロ
+d6 d2 z2 z2 | z2 z2 z2 z2 z2 A2 | A4 F2 F4 d2 | d4 A2 A4 F2 |
+w: ヤ _ | お | も _ ひ ゆ | た か に ゆ
+F4 D2 D4 F2 | E6 E2 z2 A2 | A4 F2 F4 d2 | d4 A2 A4 d2 |
+w: ら _ ゆ ら | と _ そ | ら _ を ひ | た し て ゆ
+c4 e2 e2 d2 B2 | A6 A2 z2 E2 | F2 G2 A2 A4 A2 | B4 A2 F4 E2 |
+w: く _ は _ て | は _ た | だ _ _ へ う | べ う の ゆ
+F2 G2 A2 A4 A2 | B4 A2 F4 A2 | d4 d2 e2 d2 e2 | f4 d2 A4 A2 |
+w: め _ _ う _ | つ _ つ わ | れ も む _ げ | ん _ の こ
+e6 c4 c2 | d6 d2 z2 z2 | z2 z2 z2 z2 z2 A2 | A4 F2 F4 d2 |
+w: こ ち し | て _ | キ | シ ベ ニ タ
+d4 A2 A4 F2 | F4 D2 D4 F2 | E6 E2 z2 A2 | A4 F2 F4 d2 |
+w: チ _ テ ヤ | ス _ ラ ヘ | バ _ イ | マ _ モ ム
+d4 A2 A4 d2 | c4 e2 e2 d2 B2 | A6 A2 z2 E2 | F2 G2 A2 A4 A2 |
+w: カ シ モ カ | ハ _ リ _ ナ | ク _ ヨ | セ _ テ ハ カ
+B4 A2 F4 E2 | F2 G2 A2 A4 A2 | B4 A2 F4 A2 | d4 d2 e2 d2 e2 |
+w: ヘ _ ス ウ | ラ _ _ ノ _ | ナ _ ミ ハ | マ ノ マ _ サ
+f4 d2 A4 A2 | e6 c4 c2 | d6 d2 z2 z2 |
+w: ゴ _ ヲ ユ | ス リ ツ | ツ _

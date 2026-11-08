@@ -6,10 +6,53 @@ Q:1/4=116
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 D4 | B8 d3 B A2 G2 | A8 z4 A4 | B8 A3 G E2 D2 |
-G8 z4 G4 | A6 A2 A2 B2 d2 e2 | [Q:1/4=96] !p! d8 B4 D4 | G8 A4 G4 |
-A8 z4 B4 | d6 e2 d4 B2 d2 | e6 d2 B4 d4 | e8 _B4 A4 |
-G8 z4 B4 | e6 e2 ^d4 e4 | f8 B4 B4 | G8 A6 F2 |
-[Q:1/4=116] !mf! G8 z4 B4 | d6 B2 d2 B2 A2 G2 | A6 B2 G4 E4 | B8 A6 B2 |
-d8 z4 B4 | d6 B2 d2 B2 A2 G2 | A6 B2 G4 B4 | e8 d6 B2 |
+!mf! z4 z4 z4 D4 | d8 e2 d2 c2 B2 | A8 z4 G4 | B8 A2 G2 F2 G2 |
+w: シ | キ シ _ マ _ | ノ シ | キ シ _ マ _
+A8 z4 G4 | A6 A2 G2 A2 B2 c2 | [Q:1/4=96] d8 B4 D4 | G8 G4 G4 |
+w: ノ ミ | チ ノ カ _ ド _ | デ ハ ナ | ナ ヘ ヤ
+G8 z4 c4 | B6 B2 A4 A4 | B6 c2 B4 D4 | d8 _B4 A4 |
+w: ヘ ハ | ナ _ ハ サ | ケ ド モ ヤ | マ ブ キ
+G8 z4 c4 | c6 c2 ^c4 c4 | d8 A4 D4 | =F8 E4 D4 |
+w: ノ ミ | ノ ヒ ト ツ | ダ ニ ナ | キ ゾ ト
+[Q:1/4=116] A8 z4 d4 | d6 d2 e2 d2 c2 B2 | A6 B2 A4 A4 | B8 c6 d2 |
+w: ノ サ | ト ノ ヲ _ ト _ | メ _ ガ ウ | タ ノ _
+d8 z4 d4 | d6 d2 e2 d2 c2 B2 | A6 B2 A4 B4 | e8 d6 d2 |
+w: ゾ サ | ト ノ ヲ _ ト _ | メ _ ガ ウ | タ ノ _
+!mf! G8 z4 D4 | d8 e2 d2 c2 B2 | A8 z4 G4 | B8 A2 G2 F2 G2 |
+w: ゾ え | ど の _ し _ | ろ え | ど の _ し _
+A8 z4 G4 | A6 A2 G2 A2 B2 c2 | [Q:1/4=96] d8 B4 D4 | G8 G4 G4 |
+w: ろ な | は ば り _ な _ | し て わ | が い ほ
+G8 z4 c4 | B6 B2 A4 A4 | B6 c2 B4 D4 | d8 _B4 A4 |
+w: は ま | つ ば ら つ | づ き う み | ち か く
+G8 z4 c4 | c6 c2 ^c4 c4 | d8 A4 D4 | =F8 E4 D4 |
+w: ふ じ | の た か ね | を の き | ば に ぞ
+[Q:1/4=116] A8 z4 d4 | d6 d2 e2 d2 c2 B2 | A6 B2 A4 A4 | B8 c6 d2 |
+w: ぞ な | が _ め _ し _ | こ _ ろ た | か き _
+d8 z4 d4 | d6 d2 e2 d2 c2 B2 | A6 B2 A4 B4 | e8 d6 d2 |
+w: な な | が _ め _ し _ | こ _ ろ た | か き _
+!mf! G8 z4 D4 | d8 e2 d2 c2 B2 | A8 z4 G4 | B8 A2 G2 F2 G2 |
+w: な ユ | ミ ト _ リ _ | ノ ユ | ミ ト _ リ _
+A8 z4 G4 | A6 A2 G2 A2 B2 c2 | [Q:1/4=96] d8 B4 D4 | G8 G4 G4 |
+w: ノ コ | コ ロ ガ _ マ _ | ヘ ハ ト | ホ ク ナ
+G8 z4 c4 | B6 B2 A4 A4 | B6 c2 B4 D4 | d8 _B4 A4 |
+w: リ チ | カ _ ク ナ | ル ミ ノ ハ | マ チ ド
+G8 z4 c4 | c6 c2 ^c4 c4 | d8 A4 D4 | =F8 E4 D4 |
+w: リ ナ | ク ネ ニ シ | ホ ノ ミ | チ ヒ ヲ
+[Q:1/4=116] A8 z4 d4 | d6 d2 e2 d2 c2 B2 | A6 B2 A4 A4 | B8 c6 d2 |
+w: ゾ シ | リ テ ス _ ス _ | メ _ ツ ツ | ハ モ _
+d8 z4 d4 | d6 d2 e2 d2 c2 B2 | A6 B2 A4 B4 | e8 d6 d2 |
+w: ヲ シ | リ テ ス _ ス _ | メ _ ツ ツ | ハ モ _
+!mf! G8 z4 D4 | d8 e2 d2 c2 B2 | A8 z4 G4 | B8 A2 G2 F2 G2 |
+w: ヲ さ | だ め _ な _ | き さ | だ め _ な _
+A8 z4 G4 | A6 A2 G2 A2 B2 c2 | [Q:1/4=96] d8 B4 D4 | G8 G4 G4 |
+w: き よ | の わ ざ _ は _ | ひ に か | か る と
+G8 z4 c4 | B6 B2 A4 A4 | B6 c2 B4 D4 | d8 _B4 A4 |
+w: き さ | こ _ そ い | の ち の を | し か ら
+G8 z4 c4 | c6 c2 ^c4 c4 | d8 A4 D4 | =F8 E4 D4 |
+w: め か | ね て な き | み と お | も ひ し
+[Q:1/4=116] A8 z4 d4 | d6 d2 e2 d2 c2 B2 | A6 B2 A4 A4 | B8 c6 d2 |
+w: る あ | あ い さ _ ぎ _ | よ _ の も | の の _
+d8 z4 d4 | d6 d2 e2 d2 c2 B2 | A6 B2 A4 B4 | e8 d6 d2 |
+w: や あ | あ い さ _ ぎ _ | よ _ の も | の の _
 G8 z4 z4 |
+w: や

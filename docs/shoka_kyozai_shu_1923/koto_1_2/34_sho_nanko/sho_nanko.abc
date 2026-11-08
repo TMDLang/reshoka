@@ -6,11 +6,11 @@ Q:3/8=39
 K:F#m
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!p! z2 z2 z2 z2 z2 C2 | F4 F2 G4 G2 | A6 F4 F2 | G4 G2 A4 B2 |
-w: こ | と _ の は | を _ こ | と _ の は
-!mf! G10 C2 | F4 G2 A4 B2 | c4 d2 c4 B2 | c4 d2 c4 F2 |
-w: を よ | し _ の _ | の や ま に | の こ _ し
-!mf! A4 G2 F4 c2 | d4 d2 c4 A2 | !p! B4 G2 F4 C2 | F4 A2 G4 B2 |
-w: お き て な | は て の か | ぜ _ に ち | _ る さ く
-!pp! A4 G2 F4 z2 |
-w: ら か な
+!p! z2 z2 z2 z2 z2 C2 | F4 F2 G4 G2 | G10 G2 | A4 A2 G4 G2 |
+w: コ | ト _ ノ ハ | ヲ コ | ト _ ノ ハ
+!mf! F10 C2 | A4 G2 G2 F2 G2 | A4 B2 c4 c2 | d4 c2 A4 G2 |
+w: ヲ ヨ | シ _ ノ _ ノ | ヤ マ ニ ノ | コ _ シ _
+!mf! A4 c2 G4 B2 | B4 c2 c4 A2 | A4 G2 F6 | !p! C2 F2 G2 A2 c2 A2 |
+w: オ キ テ ナ | ハ テ ノ カ | ゼ _ ニ | チ _ ル サ _ ク
+!pp! G4 G2 F4 z2 |
+w: ラ カ ナ

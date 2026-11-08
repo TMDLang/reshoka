@@ -1,15 +1,32 @@
 X:1
 T:卒業の歌
-C:曲：Schulz
 M:4/4
 L:1/16
-Q:1/4=84
+Q:1/4=126
 K:Eb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mp! z4 z4 z4 B,4 | E4 F4 G4 A4 | B8 c2 B2 A2 G2 | F4 G4 A4 F4 |
-!mf! G8 z4 B,4 | E4 F4 G4 A4 | B8 c2 B2 =A2 G2 | F4 G2 =A2 B4 A4 |
-!p! B8 z4 B,4 | F4 F4 A4 A4 | A8 G4 B4 | B4 A4 G4 F4 |
-!mf! F4 E8 B,4 | E4 G4 B4 c2 d2 | !mp! e6 d2 e4 B4 | c4 B4 A4 G4 |
-E8 F8 | !f! G4 z4 B8 | G4 B4 c4 d2 e2 | d8 f8 |
-!mf! e12 B,4 | E4 F4 G4 A4 | B8 B,8 | E12 z4 |
+z4 z4 z4 B,4 | E4 G4 B4 B4 | B8 A2 G2 F2 E2 | F4 F4 F4 B,4 |
+w: ス | ギ コ シ ヤ | ト セ _ ミ _ | ガ キ シ ト
+F8 z4 E4 | G4 B4 e4 e4 | e8 d2 c2 B2 =A2 | B4 B2 c2 d4 c4 |
+w: ク ス | ギ コ シ ヤ | ト セ _ マ _ | ナ ビ _ シ ワ
+B8 z4 F4 | B4 c4 _d4 d4 | _d8 c4 B4 | A4 G4 F4 E4 |
+w: ザ オ | モ ヘ バ タ | カ シ オ | ン シ ノ メ
+G8 F4 B,4 | E4 G4 B4 G2 B2 | e6 e2 e4 E4 | F4 G4 A4 G4 |
+w: グ ミ ワ | カ ル ル オ _ | モ ヒ ハ カ | ナ シ キ ウ
+C8 D8 | E8 z4 E4 | G4 E4 B4 G2 B2 | e8 e8 |
+w: チ ニ | モ ツ | ト メ テ ス _ | ス メ
+e12 e4 | F4 G4 A4 G4 | C8 D8 | E8 z4 B,4 |
+w: ン コ | ノ ト ク コ | ノ ワ | ザ す
+E4 G4 B4 B4 | B8 A2 G2 F2 E2 | F4 F4 F4 B,4 | F8 z4 E4 |
+w: ぎ こ し や | と せ _ あ _ | そ び し に | は す
+G4 B4 e4 e4 | e8 d2 c2 B2 =A2 | B4 B2 c2 d4 c4 | B8 z4 F4 |
+w: ぎ こ し や | と せ _ む _ | つ び _ し と | も わ
+B4 c4 _d4 d4 | _d8 c4 B4 | A4 G4 F4 E4 | G8 F4 B,4 |
+w: か る る け | ふ の お | も ひ は か | な し か
+E4 G4 B4 G2 B2 | e6 e2 e4 E4 | F4 G4 A4 G4 | C8 D8 |
+w: な し き う _ | ち に も ま | た あ ふ と | き を
+E8 z4 E4 | G4 E4 B4 G2 B2 | e8 e8 | e12 e4 |
+w: ば ま | ち て ぞ く _ | ら さ | ん こ
+F4 G4 A4 G4 | C8 D8 | E8 z4 z4 |
+w: の に は こ | の と | も

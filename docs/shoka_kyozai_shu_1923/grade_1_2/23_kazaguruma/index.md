@@ -50,19 +50,22 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F3 G A4 | A3 B c4 | c3 c c2 d2 | c4 z4 |
-w: 1.~マ ハ ル | マ ハ ル | カ ザ グ ル | マ
-w: 2.~あ が る | あ が る | や つ こ だ | こ
+w: マ ハ ル | マ ハ ル | カ ザ グ ル | マ
 c4 d3 c | A3 A G3 F | G3 G C3 C | F3 G A2 z2 |
-w: 1.~カ ゼ ヨ | フ ケ フ ケ | ク ル マ ガ | マ ハ ル
-w: 2.~か ぜ よ | ふ け ふ け | や つ こ が | あ が る
+w: カ ゼ ヨ | フ ケ フ ケ | ク ル マ ガ | マ ハ ル
 G3 G G4 | A3 A C3 C | A3 A G3 A | F4 z4 |
-w: 1.~ア マ リ | マ ハ ル ト | メ ガ マ ハ | ル
-w: 2.~あ ま り | あ が る と | め が ま は | る
+w: ア マ リ | マ ハ ル ト | メ ガ マ ハ | ル
+F3 G A4 | A3 B c4 | c3 c c2 d2 | c4 z4 |
+w: あ が る | あ が る | や つ こ だ | こ
+c4 d3 c | A3 A G3 F | G3 G C3 C | F3 G A2 z2 |
+w: か ぜ よ | ふ け ふ け | や つ こ が | あ が る
+G3 G G4 | A3 A C3 C | A3 A G3 A | F4 z4 |
+w: あ ま り | あ が る と | め が ま は | る
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kazaguruma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJiaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5CTWBmfmJcSn56Ym1qsxKWlpfBy0YoXu7sUtLS4FG0VDA0MuOxtFdy4bIz0TexAmp_saHi2aO6z1r4nOzpfNvcpPN--4nFD17NpG4AMhacb-p-u3fFswcLHzbuftq6BsBWeTtn4bG3Ps6kzn82d8HJ22-OG7vd7Op4uWf5s7eKnvY1PdvU83bkFwng2p-P9np7nWxY9m73jxcz5CgbmRqa6Jobv93QqcelrKTybven57HUvVq16NqOPS0FB4cmOtc-mtb9YvvhlO9DIWc_6-5-uXw1x_4uO9qdLtzxtXw606smuXU8btwHFn6_rBxr1dM4KIBuo9-Xi2S_2dj7tbX-5esbjhsYnu5cAVT6fs-dF18Znk1Y-2dX0fFbL89VLX2xb_Ky59dnM9Y8bmkC2Pu2bD3Le5vYXK7pAHtnQ-6y9UwEU03pZBemPGiYDmaYgJtArELUKBXoKJmZAGRNzoP1Al4KMebFq_7OG5UB3PuvuBfoVKPq4eQZQUAEUDt29T9dOAOp_NHOlLSgOtPS5gAHABQx8oEMfN-573Lj-cRPQz0D_7IF4GOiSx43djxunPW6cAJQCqgFaxQWUg0nMAfIfNwHZWx83ToSQMG39cA2PG3vgpnM9bmwCcZq64EKPG1cAIwCkp6kRTTUocLiATge7D6ivB-4-eDw8bmp53LjkcePkx40LgCR29z2dsBMsshVsPtShQCOQ9cOshlqD7FCoENChQCeiuw8Uir6JmXlWAZmJefkONQY11aCYULAxNNOyA7NqFAwVdIHQSMEYTOsCRSAsEwVTuAiEZQqmzZBEdBUMYGrApvkY1ig8bp4HFnnc3A_Eq-Fm4BRvgrAfN20D4g1gFSARhA4MW4yAco1NEF2NPUBd3QjTcIk3tUDFlwDxZDBrAVQHiIdqCzRoYJ4EeRnkfVjQGAODC0QbAkUgLCMF03iIoni0IAUZihQ4UM-CvLsHGhwrwF6dChXdiMIG6VgPVbcaEYRNa7AGKJJd4CCCeR-Y1qD6OsAe3goVnYjCxhZIkIDEFqwQu6ABBQsECI1IQ8YowYIaeMbwgMKaipoWQT03D4hXwc3FlooeN4O91bwQHjjIqkAysEDHl472AXV2IezBko6AeQwcSI0IGaAuCHs9WAYW4Ah7arm4dO0UQHlQAUgrcwEA)]
+- [主旋律 TMD 檔案](kazaguruma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJiaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5CTWBmfmJcSn56Ym1qsxKWlpfBy0YoXu7sUtLS4FG0VDA0MuOxtFdy4bIz0TexAmp_saHi2aO6z1r4nOzpfNvcpPN--4nFD17NpG4AMhacb-p-u3fFswcLHzbuftq6BsBWeTtn4bG3Ps6kzn82d8HJ22-OG7vd7Op4uWf5s7eKnvY1PdvU83bkFwng2p-P9np7nWxY9m73jxcz5CgbmRqa6Jobv93QqcelrKTybven57HUvVq16NqOPS0FB4cmOtc-mtb9YvvhlO9DIWc_6-5-uXw1x_4uO9qdLtzxtXw606smuXU8btwHFn6_rBxr1dM4KIBuo9-Xi2S_2dj7tbX-5esbjhsYnu5cAVT6fs-dF18Znk1Y-2dX0fFbL89VLX2xb_Ky59dnM9Y8bmkC2Pu2bD3Le5vYXK7pAHtnQ-6y9UwEU03pZBemPGiYDmaYgJtArELUKBXoKJmZAGRNzoP1Al4KMebFq_7OG5UB3PuvuBfoVKPq4eQZQUAEUDt29T9dOAOp_NHOlLSgOtPS5gAHABQx8oEMfN-573Lj-cRPQz0D_7IF4GOiSx43djxunPW6cAJQCqgFaxQWUg0nMAfIfNwHZWx83ToSQMG39cA2PG3vgpnM9bmwCcZq64EKPG1cAIwCkp6kRTTUocLiATge7D6ivB-4-eDw8bmp53LjkcePkx40LgCR29z2dsBMsshVsPtShQCOQ9cOshlqD7FCoENChQCeiuw8Uir6JmXlWAZmJefkONQY11aCYULAxNNOyA7NqFAwVdIHQSMEYTOsCRSAsEwVTuAiEZQqmzZBEdBUMYGrApvkY1ig8bp4HFnnc3A_Eq-Fm4BRvgrAfN20D4g1gFSARhA4MW4yAco1NEF2NPUBd3QjTcIk3tUDFlwDxZDBrAVQHiIdqCzRoYJ4EeRnkfVjQGAODC0QbAkUgLCMF03iIoni0IAUZihQ4UM-CvLsHGhwrwF6dChXdiMIG6VgPVbcaEYRNa7AGKJJd4CCCeR-Y1qD6OsAe3goVnYjCxhZIkIDEFqwQu6ABBQsECI1IQ8YowYIaeMbwgMKaipoWQT03D4hXwc3FlooeN4O91bwQHjjIqkAysEDHl472AXV2IezBko6AeQwcSI0IGaAuCHs9WAYW4Ah7arm4dO0UQHkw2scwVgHONgKzlQE)]
 - [鋼琴伴奏 TMD 檔案](kazaguruma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJiaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsSUuLS0FF4uWvFid9f7PR0vZ8981tn9snvP8wlbnuzZ8nRp__s9nQpaWlyKtgqGBgZc9rYKblw2RvomdiDzn-xoeLZo7rPWvic7Ol829yk8377icUPXs2kbgAyFpxv6n67d8WzBwsfNu5-2roGwFZ5O2fhsbc-zqTOfzZ3wcnbb44ZuoK1Plyx_tnbx097GJ7t6nu7cAmE8m9Pxfk_P8y2Lns3e8WLmfAUDcyNTXRNDoHuUuLh8EzPzrAJAvgnycKgxqKnmUgACG0MzLTswq0bBUEEXCI0UjMG0LlAEwjJRMIWLQFimYNoMSURXwQCmBmyaj2GNwuPmeWCRx839QLwabgZO8SYI-3HTNiDeAFYBEkHowLDFCCjX2ATR1dgD1NWNMA2XeFMLVHwJEE8GsxZAdYB4qLZAgwbmSZCXQd6HBY0xMLhAtCFQBMIyUjCNhyiKRwtSkKFIgQP1LMi7e6DBsQLs1alQ0Y0obJCO9VB1qxFB2LQGa4Ai2QUOIpj3HzfOgerrAHt4K1R0IgobWyBBAhJbsELsggYULBAgNCINGaMEC2rgGcMDCmsqaloE9dw8IF4FNxdbKnrcDPZW80J44CCrAsnAAh1fOtoH1NmFsAdLOnrcCI6qpkaEDFAXhL0eLAMLcIQ9tchZ0Ac5C5ogcqC2MRijs0zitUEpDMQ0gDoZQwKi2jRe2zweSqJrwJRD2ICuA-haXTsFkIOjfQxjFeBsIzBbmQsA)]
 
 ## 分析
@@ -71,14 +74,14 @@ w: 2.~あ ま り | あ が る と | め が ま は | る
 ================================================================================
 📊 TMD Song Profile: [ 風車 ]
 ================================================================================
-⏱  Duration:       0:14 (14.4s), 12 measures total
+⏱  Duration:       0:28 (28.8s), 24 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main #1 @ m.7, 0:07]
-   - 最高音: D5 in [Main #1 @ m.3, 0:03]
+   - 最低音:  C4 in [Main[L1] #1 @ m.7, 0:07]
+   - 最高音: D5 in [Main[L1] #1 @ m.3, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (14.4s)
+🏛  結構:      Main[L1] (14.4s) -> Main[L2] (14.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -86,9 +89,10 @@ w: 2.~あ ま り | あ が る と | め が ま は | る
    - 核心骨幹音:  C, A, G, F, D
    - 調性數值:    C 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 98.8%]
    - 候選調性 (K-S): C 大調 (0.82), A 小調 (0.71), F 大調 (0.67)
-   - 五度圈歷程:   +0
+   - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [Main #1]: C 大調 (r: 0.82, 自然音純度: 98.8%, 調外音: A#)
+     • [Main[L1] #1]: C 大調 (r: 0.82, 自然音純度: 98.8%, 調外音: A#)
+     • [Main[L2] #1]: C 大調 (r: 0.82, 自然音純度: 98.8%, 調外音: A#)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -115,7 +119,7 @@ w: 2.~あ ま り | あ が る と | め が ま は | る
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 37 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 74 個音符)
 ================================================================================
 ```
 

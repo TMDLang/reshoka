@@ -34,21 +34,21 @@ image: "0_book_info/P344.jpg"
 | (20) | [**同窓會（二部）**](20_dosokai/index.md) | — | `?=F` `<4/4>` `!=108` | P387.jpg, P388.jpg |
 | (21) | [**春の野**](21_haru_no_no/index.md) | — | `?=G` `<4/4>` `!=116` | P389.jpg, P390.jpg |
 | (22) | [**四季の散歩**](22_shiki_no_sanpo/index.md) | — | `?=G` `<4/4>` `!=126` | P391.jpg, P392.jpg |
-| (23) | [**樂しき我家**](23_tanoshiki_wagaya/index.md) | — | `?=E` `<6/8>` `!=80` | P393.jpg, P394.jpg, P395.jpg, P396.jpg |
-| (24) | [**曉景（二部輪唱）**](24_gyokei/index.md) | — | `?=E,` `<4/4>` `!=116` | P397.jpg, P398.jpg |
+| (23) | [**樂しき我家**](23_tanoshiki_wagaya/index.md) | — | `?=E` `<6/8>` `!=80` | P393.jpg, P394.jpg |
+| (24) | [**曉景（二部輪唱）**](24_gyokei/index.md) | — | `?=E,` `<4/4>` `!=116` | P395.jpg, P396.jpg, P397.jpg, P398.jpg |
 | (25) | [**夏の樂み（二部）**](25_natsu_no_tanoshimi/index.md) | — | `?=D` `<4/4>` `!=108` | P399.jpg, P400.jpg |
 | (26) | [**月**](26_tsuki/index.md) | — | `?=B,` `<4/4>` `!=86` | P401.jpg, P402.jpg |
 | (27) | [**秋の野（二部）**](27_aki_no_no/index.md) | — | `?=F` `<6/8>` `!=108` | P403.jpg, P404.jpg |
 | (28) | [**岩間の清水**](28_iwama_shimizu/index.md) | — | `?=G` `<4/4>` `!=100` | P405.jpg, P406.jpg |
 | (29) | [**君が代の初春（二部）**](29_kimigayo_no_hatsuharu/index.md) | — | `?=F` `<4/4>` `!=100` | P407.jpg, P408.jpg |
 | (30) | [**遠別離**](30_enbetsuri/index.md) | — | `?=A,` `<4/4>` `!=100` | P409.jpg, P410.jpg |
-| (31) | [**時は生命**](31_toki_wa_inochi/index.md) | — | `?=C` `<2/4>` `!=96` | P411.jpg, P412.jpg |
+| (31) | [**時は生命**](31_toki_wa_inochi/index.md) | — | `?=B,` `<4/4>` `!=108` | P411.jpg, P412.jpg |
 | (32) | [**我國兵士**](32_wagakuni_heishi/index.md) | — | `?=B,` `<2/4>` `!=132` | P413.jpg, P414.jpg, P415.jpg, P416.jpg |
-| (33) | [**新入生を迎ふ（二部）**](33_shinnyusei_o_mukau/index.md) | — | `?=C` `<2/4>` `!=96` | P417.jpg, P418.jpg |
+| (33) | [**新入生を迎ふ（二部）**](33_shinnyusei_o_mukau/index.md) | — | `?=E,` `<4/4>` `!=88` | P417.jpg, P418.jpg |
 | (34) | [**小楠公**](34_sho_nanko/index.md) | — | `?=A` `<6/8>` `!=58` | P419.jpg, P420.jpg |
-| (35) | [**海（二部）**](35_umi/index.md) | — | `?=C` `<2/4>` `!=96` | P421.jpg, P422.jpg |
+| (35) | [**海（二部）**](35_umi/index.md) | — | `?=D` `<6/8>` `!=66` | P421.jpg, P422.jpg |
 | (36) | [**太田道灌**](36_ota_dokan/index.md) | — | `?=G` `<4/4>` `!=116` | P423.jpg, P424.jpg |
-| (37) | [**軍艦（二部）**](37_gunkan/index.md) | 加藤義清 作詞 | `?=G` `<3/4>` `!=88` | P425.jpg, P426.jpg |
-| (38) | [**卒業の歌**](38_sotsugyo_no_uta/index.md) | 詞：蘆田惠之助 / 曲：Schulz | `?=E,` `<4/4>` `!=84` | P427.jpg, P428.jpg |
+| (37) | [**軍艦（二部）**](37_gunkan/index.md) | — | `?=G` `<3/4>` `!=92` | P425.jpg, P426.jpg |
+| (38) | [**卒業の歌**](38_sotsugyo_no_uta/index.md) | — | `?=E,` `<4/4>` `!=126` | P427.jpg, P428.jpg |
 | (39) | [**淡水河**](39_tansuigawa/index.md) | — | `?=E,` `<6/8>` `!=63` | P429.jpg, P430.jpg |
 | (40) | [**夜の歸雁（二部）**](40_yoru_no_kigan/index.md) | — | `?=G` `<4/4>` `!=116` | P431.jpg, P432.jpg |

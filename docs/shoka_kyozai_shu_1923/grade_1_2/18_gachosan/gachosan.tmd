@@ -64,4 +64,4 @@ Main:Piano@|0|{
     L4| う た だ け | じや う ず だ | ね - 0 - |
 }
 
--> Main -> #
+-> Main[L1] -> Main[L2] -> Main[L3] -> Main[L4] -> #

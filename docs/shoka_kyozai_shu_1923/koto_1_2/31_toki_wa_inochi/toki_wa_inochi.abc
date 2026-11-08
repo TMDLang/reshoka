@@ -1,10 +1,42 @@
 X:1
 T:時は生命
-M:2/4
+M:4/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=108
+K:Gm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+z4 z4 z4 D2 D2 | G8 A4 B3 A | G8 D4 G3 A | B8 B4 A3 G |
+w: モ _ | リ ノ ユ フ | ベ ノ イ ノ | リ ノ カ ネ
+d8 z4 d2 d2 | e8 d4 B3 d | B6 A2 G4 D3 D | G4 A4 B4 A4 |
+w: ガ ア _ | カ イ ユ フ | ヒ _ ニ ウ ツ | ラ フ ナ カ
+G8 z4 A4 | A8 A4 B3 A | G8 D4 G3 A | B6 A2 G2 B2 A2 G2 |
+w: ヲ ダ | ル イ カ ラ | ダ デ ウ マ | オ ヒ ナ _ ガ _
+A8 z4 e4 | d8 B4 G3 B | A6 G2 D4 G3 A | B6 B2 A4 A4 |
+w: ラ ボ | ク ハ イ ヘ | ヘ _ ト ノ ミ | チ ヲ イ ソ
+G8 z4 z4 | z4 z4 z4 D2 D2 | G8 A4 B3 A | G8 D4 G3 A |
+w: グ | ぼ _ | く は い そ | げ ど つ か
+B8 B4 A3 G | d8 z4 d2 d2 | e8 d4 B3 d | B6 A2 G4 D3 D |
+w: れ た う ま | は く _ | び を た れ | つ _ つ と ぼ
+G4 A4 B4 A4 | G8 z4 A4 | A8 A4 B3 A | G8 D4 G3 A |
+w: と ぼ あ ゆ | む か | あ い さ う | で も は ら
+B6 A2 G2 B2 A2 G2 | A8 z4 e4 | d8 B4 G3 B | A6 G2 D4 G3 A |
+w: だ つ と _ き _ | は つ | い しつ か _ | り _ と し り
+B6 B2 A4 A4 | G8 z4 z4 | z4 z4 z4 D2 D2 | G8 A4 B3 A |
+w: を ば た た | く | ア サ | カ ラ バ ン
+G8 D4 G3 A | B8 B4 A3 G | d8 z4 d2 d2 | e8 d4 B3 d |
+w: マ デ ハ タ | ラ キ ヅ メ | デ タ マ | ニ ハ ナ マ
+B6 A2 G4 D3 D | G4 A4 B4 A4 | G8 z4 A4 | A8 A4 B3 A |
+w: ケ _ ル コ コ | ロ モ デ ル | ガ ト | キ ハ カ ネ
+G8 D4 G3 A | B6 A2 G2 B2 A2 G2 | A8 z4 e4 | d8 B4 G3 B |
+w: ダ ト コ コ | ロ ニ イ _ ヘ _ | バ ド | ん ナ フ ヘ
+A6 G2 D4 G3 A | B6 B2 A4 A4 | G8 z4 z4 | z4 z4 z4 D2 D2 |
+w: イ _ モ ス ツ | カ リ キ エ | ル | け ふ
+G8 A4 B3 A | G8 D4 G3 A | B8 B4 A3 G | d8 z4 d2 d2 |
+w: が く れ _ | た ら あ し | た は あ る | が け _
+e8 d4 B3 d | B6 A2 G4 D3 D | G4 A4 B4 A4 | G8 z4 A4 |
+w: ふ の こ の | ひ _ は も う | か へ ら な | い す
+A8 A4 B3 A | G8 D4 G3 A | B6 A2 G2 B2 A2 G2 | A8 z4 e4 |
+w: ん の ひ か | げ も わ た | し は お _ し _ | い と
+d8 B4 G3 B | A6 G2 D4 G3 A | B6 B2 A4 A4 | G8 z4 z4 |
+w: き は わ た | し _ の た ふ | と い い の | ち

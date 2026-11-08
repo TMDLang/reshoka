@@ -67,7 +67,7 @@ w: レ ン タ イ | キ
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](heitai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgi6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvRebmZOZkliUaUSl5aWwtPWrS9ndSloaXEp2ioYGplx2dsquHPZGOmb2IG0PdnR8GzR3GetfU92dL5s7lN4vn3F44auZ9M2ABkKTzf0P12749mChY-bdz9tXQNhKzydsvHZ2p5nU2c-mzvh5ey2xw3d7_d0PF2y_NnaxU97G5_s6nm6cwuE8WxOx_s9Pc-3LHo2e8eLmfMVDMyNTHVNDN_v6VTi0tdSeDZ70_PZ616sWvVsRh-XgoLCkx1rn01rf7F88ct2oJGznq1Y-GT3_qfT2p_2r306YefTpf0vOoDsxU92LwGa-qy__-n61U8XrwZ68Fnn7GfLe5_sXfm0q_dxQ-PLWSteTJz-onE90OPPpk9_ubfr2dqlTzt7XzZsej6rBUi-WNgDtPtxQxPI1qd980HO29z-YkUXyCMbep-1dyqA4lgvqyD9UcNkINMYxARaClGrUKCnYGIClDExBXoF6FKQMS9W7X_WsBzowmfdvUC_AkUfN3cABRVA4dDd-3TtBKD-RzNX2oLiQEufCxgAXEDrgErB_ul43NjzuLHtcROQbAGb2vm4YQrQ0WCpfY8bd4BEGncAXQ8Wmfm4aS5IpKnxccNUrseN3Y8b5z9uXP0Y6OkJW58vgCha9rhxyePGjUBzgUpftG4AC05-3DgdbNZqYGiBRSY-bpoMFOF63LzycXPL4-aJzzpBUQpU97gJpPNx49THjb0gDeC0BJbaAXQm2EqQY4Fu53qxbTNYoglm_KrHjfsfN8593ATUCVS9DN3lQNmmtseN_UDHNwG9_WIZxM79YF91AEU3PW4CqkInueDxClIODK4moIdA7gA6ERxoTeDQ9U3MzLMKyEzMy3eoMaipBsWQgo2hmZYdmAVMfMCgBaYoSOoCmmQBSuzP1zeAInnCakisPG7oAap63DwD6PTHzQsfN4AsUACaDjKiRsE0XkFXwRCIjaF0DZgFgjBRoCIwhPBANKoaEKwBG-djWKMAMg8ZQ0RAEFkEBHGpgZhHrvsgIjB3GVDZfQjzYFHwbM4aYEECDHxDc3joI4UvxCGGEH-AiRoFM4hpQApZFKbSCO4JEAu7Jx43rQaLPG7ar_C4uRvEau4H63nc3AaRaW4B4olgNcsgMk2boXq2w_Q0bYTqgchgeA8W1sZgx0FCH-YokENhoQ_imyKlDjPcDm9eieG87Y-bl0JduBWq4XHTWrAikCtBmmZARZeAfQxhQXSsweVykEtQ0wTM5cZAliEQwkRAPBCJnLZAxoF1IQX5ImjggRzWBSbnQx2xF-bsZoizZ4CjASSzE-rwnVDVj5thkbEeySaI2ShOR3EEigjYlyRHDMR7uLPF42bkkIR7rXkFhs2PmydBPbsSyoZEKkIGIYeQgZgOSmnoMQgKMlQ31XJx6dopgAo_BSCtzAUA)]
+- [主旋律 TMD 檔案](heitai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgi6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvRebmZOZkliUaUSl5aWwtPWrS9ndSloaXEp2ioYGplx2dsquHPZGOmb2IG0PdnR8GzR3GetfU92dL5s7lN4vn3F44auZ9M2ABkKTzf0P12749mChY-bdz9tXQNhKzydsvHZ2p5nU2c-mzvh5ey2xw3d7_d0PF2y_NnaxU97G5_s6nm6cwuE8WxOx_s9Pc-3LHo2e8eLmfMVDMyNTHVNDN_v6VTi0tdSeDZ70_PZ616sWvVsRh-XgoLCkx1rn01rf7F88ct2oJGznq1Y-GT3_qfT2p_2r306YefTpf0vOoDsxU92LwGa-qy__-n61U8XrwZ68Fnn7GfLe5_sXfm0q_dxQ-PLWSteTJz-onE90OPPpk9_ubfr2dqlTzt7XzZsej6rBUi-WNgDtPtxQxPI1qd980HO29z-YkUXyCMbep-1dyqA4lgvqyD9UcNkINMYxARaClGrUKCnYGIClDExBXoF6FKQMS9W7X_WsBzowmfdvUC_AkUfN3cABRVA4dDd-3TtBKD-RzNX2oLiQEufCxgAXEDrgErB_ul43NjzuLHtcROQbAGb2vm4YQrQ0WCpfY8bd4BEGncAXQ8Wmfm4aS5IpKnxccNUrseN3Y8b5z9uXP0Y6OkJW58vgCha9rhxyePGjUBzgUpftG4AC05-3DgdbNZqYGiBRSY-bpoMFOF63LzycXPL4-aJzzpBUQpU97gJpPNx49THjb0gDeC0BJbaAXQm2EqQY4Fu53qxbTNYoglm_KrHjfsfN8593ATUCVS9DN3lQNmmtseN_UDHNwG9_WIZxM79YF91AEU3PW4CqkInueDxClIODK4moIdA7gA6ERxoTeDQ9U3MzLMKyEzMy3eoMaipBsWQgo2hmZYdmAVMfMCgBaYoSOoCmmQBSuzP1zeAInnCakisPG7oAap63DwD6PTHzQsfN4AsUACaDjKiRsE0XkFXwRCIjaF0DZgFgjBRoCIwhPBANKoaEKwBG-djWKMAMg8ZQ0RAEFkEBHGpgZhHrvsgIjB3GVDZfQjzYFHwbM4aYEECDHxDc3joI4UvxCGGEH-AiRoFM4hpQApZFKbSCO4JEAu7Jx43rQaLPG7ar_C4uRvEau4H63nc3AaRaW4B4olgNcsgMk2boXq2w_Q0bYTqgchgeA8W1sZgx0FCH-YokENhoQ_imyKlDjPcDm9eieG87Y-bl0JduBWq4XHTWrAikCtBmmZARZeAfQxhQXSsweVykEtQ0wTM5cZAliEQwkRAPBCJnLZAxoF1IQX5ImjggRzWBSbnQx2xF-bsZoizZ4CjASSzE-rwnVDVj5thkbEeySaI2ShOR3EEigjYlyRHDMR7uLPF42bkkIR7rXkFhs2PmydBPbsSyoZEKkIGIYeQgZgOSmnoMQgKMlQ31XJx6dopgAq_aB_DWAUgWxkA)]
 - [鋼琴伴奏 TMD 檔案](heitai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgi6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQlFgE1JyempuaV2JVkJmYlx-fmJycn1uQmJcJElPi0tJSeNq69eWsrvd7Ol7Onvmss_tl957nE7Y82bPl6dL-93s6FbS0uBRtFQyNzLjsbRXcuWyM9E3sQOY_2dHwbNHcZ619T3Z0vmzuU3i-fcXjhq5n0zYAGQpPN_Q_Xbvj2YKFj5t3P21dA2ErPJ2y8dnanmdTZz6bO-Hl7LbHDd1AW58uWf5s7eKnvY1PdvU83bkFwng2p-P9np7nWxY9m73jxcz5CgbmRqa6JoZA9yhxcfkmZuZZBYB8E-ThUGNQU82lAAQ2hmZadmBWjYJpvIKugiEQG0PpGjALBGGiQEVgCOGBaFQ1IFgDNs7HsEYBZB4yhoiAILIICOJSAzGPXPdBRGDuMqCy-xDmQd0HscgQ4k4wUaNgBlENpJBFYSqN4I4EsbA78nHTarDI46b9Co-bu0Gs5n6wnsfNbRCZ5hYgnghWswwi07QZqmc7TE_TRqgeiAwW50PC0hjsOEjowhwFcigsdEF8U6TYN8Pt8OaVGM7b_rh5KdSFW6EaHjetBSsCuRKkaQZUdAnYxxAWRMcaXC4HuQQ1zmEuNwayDIEQJgLigUjktAMyDqwLKcgXQQMP5LAuMDkf6oi9MGc3Q5w9AxwNIJmdUIfvhKp-3AyLjPVINkHMRnE6iiNQRMC-JDliIN7DnewfNyOHJNxrzSswbH7cPAnq2ZVQNiRSETIIOYQMxHRQSkOPQVCQobqpFrlg8kEumEzg5ZJhvLZxPJTEwgPmKQiJJkembgMcOk3i47UN0Q0yBQoagbgghnk8bt0weezugJpNrGYYH0ZjdTrQS0A-Kougg7CZCIwiXTsFUCxF-xjGKgDZylwA)]
 
 ## 分析
@@ -80,10 +80,10 @@ w: レ ン タ イ | キ
 🎼 Key & Tempo:    首調基準 G, != 126.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Main #1 @ m.1, 0:00]
-   - 最高音: E5 in [Main #1 @ m.16, 0:14]
+   - 最低音:  D4 in [Main[L1] #1 @ m.1, 0:00]
+   - 最高音: E5 in [Main[L1] #1 @ m.16, 0:14]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (24.8s)
+🏛  結構:      Main[L1] (24.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -93,7 +93,7 @@ w: レ ン タ イ | キ
    - 候選調性 (K-S): G 大調 (0.81), B 小調 (0.76), D 大調 (0.67)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.81, 自然音純度: 100.0%)
+     • [Main[L1] #1]: G 大調 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
