@@ -37,6 +37,42 @@ jobs:
       - name: Build MkDocs
         run: mkdocs build
 
+      - name: Upload media assets to Cloudflare R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+        run: |
+          aws s3 sync docs "s3://${R2_BUCKET}/reshoka" \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --region auto \
+            --no-progress \
+            --exclude "*" \
+            --include "*.jpg" \
+            --include "*.jpeg" \
+            --include "*.png" \
+            --include "*.mp3" \
+            --include "*.wav" \
+            --include "*.mid" \
+            --cache-control "public,max-age=31536000,immutable"
+
+      - name: Externalize media references
+        env:
+          R2_PUBLIC_BASE_URL: ${{ secrets.R2_PUBLIC_BASE_URL }}
+        run: |
+          python scripts/externalize_media.py \
+            --site site \
+            --media-root docs \
+            --base-url "${R2_PUBLIC_BASE_URL}"
+
+      - name: Remove media from Pages artifact
+        run: |
+          find site -type f \
+            \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' \
+            -o -iname '*.mp3' -o -iname '*.wav' -o -iname '*.mid' \) \
+            -delete
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
