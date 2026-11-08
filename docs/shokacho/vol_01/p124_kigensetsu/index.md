@@ -32,6 +32,7 @@ audio: "kigensetsu.mp3"
 
 - **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈紀元節〉**](../../../kogakko_shokashu_1915/3_06_kigensetsu/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/3_06_kigensetsu/kigensetsu.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈紀元節〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/kigensetsu.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈紀元節〉**](../../../shoka_kyozai_shu_1923/grade_1_2/31_kigensetsu/index.md)（`C` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/31_kigensetsu/kigensetsu.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

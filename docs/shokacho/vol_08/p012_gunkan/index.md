@@ -34,6 +34,7 @@ audio: "gunkan.mp3"
 - **[同名異曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈軍艦〉**](../../../kogakko_shoka/grade_6/9_gunkan/index.md)（`E` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_6/9_gunkan/gunkan.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈軍艦〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md)（`G` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈軍艦マーチ〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/gunkan_machi.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈軍艦（二部）〉**](../../../shoka_kyozai_shu_1923/koto_1_2/37_gunkan/index.md)（`G` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/37_gunkan/gunkan.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈軍艦〉**](../../vol_02/p074_gunkan/index.md)（`G` / `4/4` — [原始 TMD](../../vol_02/p074_gunkan/gunkan.tmd)）
 - **[同名異曲]** 《うたのほん》（唱歌課本）下卷（2006.006.0878）：[**〈ぐんかん（軍艦）〉**](../../../utanohon/ge_2006.006.0878/4_gunkan/index.md)（`G` / `2/4` — [原始 TMD](../../../utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)

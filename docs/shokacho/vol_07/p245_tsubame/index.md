@@ -32,6 +32,7 @@ Key: ト調 (G major), Time: 4/4
 
 - **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈つばめ〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_05_tsubame/index.md)（`E,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_05_tsubame/tsubame.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈燕〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_5_02_tsubame/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_5_02_tsubame/tsubame.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈燕〉**](../../../shoka_kyozai_shu_1923/grade_5_6/36_tsubame/index.md)（`F` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/36_tsubame/tsubame.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈燕 (燕子)〉**](../../vol_10/p208_tsubame/index.md)（`F` / `4/4` — [原始 TMD](../../vol_10/p208_tsubame/tsubame.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

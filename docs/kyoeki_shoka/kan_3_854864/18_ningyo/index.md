@@ -36,6 +36,7 @@ audio: "ningyo.mp3"
 - **[同名異曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈ニンギヤウ（人偶）〉**](../../../kogakko_shoka/grade_1/10_ningyo/index.md)（`F` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_1/10_ningyo/ningyo.tmd)）
 - **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈人形〉**](../../../kogakko_shokashu_1915/1_07_ningyo/index.md)（`F` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/1_07_ningyo/ningyo.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ニンギヤウ（人偶）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_ningyo/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_ningyo/ningyo.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈人形〉**](../../../shoka_kyozai_shu_1923/grade_1_2/14_ningyo/index.md)（`F` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/14_ningyo/ningyo.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

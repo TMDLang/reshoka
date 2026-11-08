@@ -30,10 +30,11 @@ audio: "shingun.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同名異曲（各冊收錄之不同詞曲版本）
+> 同曲＋同名異曲（《共益商社唱歌教科書》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
 
 - **[同名異曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈進軍〉**](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/4_17_shingun/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/4_17_shingun/shingun.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈進軍〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_02_shingun/index.md)（`G` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_02_shingun/shingun.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈進軍〉**](../../../shoka_kyozai_shu_1923/grade_3_4/25_shingun/index.md)（`G` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/25_shingun/shingun.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈進軍 (進軍)〉**](../../../shokacho/vol_10/p195b_shingun/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_10/p195b_shingun/shingun.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

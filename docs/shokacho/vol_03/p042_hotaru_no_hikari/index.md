@@ -32,6 +32,8 @@ audio: "hotaru_no_hikari.mp3"
 
 - **[同曲異詞]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈告別〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu/kokubetsu.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈告別〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md)（`D` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_4_02_kokubetsu/kokubetsu.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈送別の歌〉**](../../../shoka_kyozai_shu_1923/grade_3_4/35_sobetsu_no_uta/index.md)（`E,` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/35_sobetsu_no_uta/sobetsu_no_uta.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈送別の歌〉**](../../../shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta/sobetsu_no_uta.tmd)）
 - **[同曲異詞]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈送別の歌 (送別之歌)〉**](../../vol_10/p197_sobetsu_no_uta/index.md)（`F` / `2/4` — [原始 TMD](../../vol_10/p197_sobetsu_no_uta/sobetsu_no_uta.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

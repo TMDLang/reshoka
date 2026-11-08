@@ -38,6 +38,8 @@ audio: "umi.mp3"
 - **[同名異曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈海〉**](../../../kogakko_shoka/grade_5/7_umi/index.md)（`F` / `3/4` — [原始 TMD](../../../kogakko_shoka/grade_5/7_umi/umi.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ウミ（海）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_08_umi/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_08_umi/umi.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈海〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi/index.md)（`F` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi/umi.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈海〉**](../../../shoka_kyozai_shu_1923/grade_5_6/08_umi/index.md)（`F` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/08_umi/umi.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈海（二部）〉**](../../../shoka_kyozai_shu_1923/koto_1_2/35_umi/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/35_umi/umi.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈海（其一）〉**](../../../shokacho/vol_03/p037_umi/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_03/p037_umi/umi.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈海（其二）〉**](../../../shokacho/vol_03/p039_umi/index.md)（`F` / `3/4` — [原始 TMD](../../../shokacho/vol_03/p039_umi/umi.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)

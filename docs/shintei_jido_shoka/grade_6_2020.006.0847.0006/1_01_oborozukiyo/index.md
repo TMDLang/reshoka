@@ -29,6 +29,8 @@ audio: "oborozukiyo.mp3"
 
 > 同曲（高野辰之作詞、岡野貞一作曲〈朧月夜〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P195）
 
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈おぼろ月夜〉**](../../../shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo/oborozukiyo.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈朧月夜〉**](../../../shoka_kyozai_shu_1923/koto_1_2/01_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/01_oborozukiyo/oborozukiyo.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈朧月夜 (朦朧月夜)〉**](../../../shokacho/vol_10/p195a_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../../shokacho/vol_10/p195a_oborozukiyo/oborozukiyo.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

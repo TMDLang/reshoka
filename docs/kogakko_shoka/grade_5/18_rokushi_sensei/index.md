@@ -30,10 +30,11 @@ audio: "rokushi_sensei.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+> 同曲（《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
 
 - **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈六氏先生〉**](../../../kogakko_shokashu_1915/4_02_rokushi_sensei/index.md)（`B,` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/4_02_rokushi_sensei/rokushi_sensei.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈六氏先生〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/3_03_rokushi_sensei/index.md)（`B,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/3_03_rokushi_sensei/rokushi_sensei.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈六氏先生〉**](../../../shoka_kyozai_shu_1923/grade_3_4/32_rokushi_sensei/index.md)（`B,` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/32_rokushi_sensei/rokushi_sensei.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

@@ -33,6 +33,7 @@ audio: "kisha.mp3"
 
 - **[同曲]** 《公學校唱歌》第三學年（昭和10年／1935）：[**〈きしゃ（火車）〉**](../../kogakko_shoka/grade_3/11_kisha/index.md)（`G` / `2/4` — [原始 TMD](../../kogakko_shoka/grade_3/11_kisha/kisha.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈汽車（火車）〉**](../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_10_kisha/index.md)（`G` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_10_kisha/kisha.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈汽車〉**](../../shoka_kyozai_shu_1923/grade_3_4/08_kisha/index.md)（`G` / `2/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_3_4/08_kisha/kisha.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈汽車〉**](../../shokacho/vol_02/p071_kisha/index.md)（`C` / `2/4` — [原始 TMD](../../shokacho/vol_02/p071_kisha/kisha.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 

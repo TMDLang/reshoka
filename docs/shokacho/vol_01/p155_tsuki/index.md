@@ -45,6 +45,9 @@ audio: "tsuki.mp3"
 - **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈月〉**](../../../kogakko_shokashu_1915/2_04_tsuki/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/2_04_tsuki/tsuki.tmd)）
 - **[同名異曲]** 《共益商社唱歌教科書》卷二・教師用（明治33年／1900）：[**〈月〉**](../../../kyoeki_shoka/kan_2_854863/11_tsuki/index.md)（`C` / `2/4` — [原始 TMD](../../../kyoeki_shoka/kan_2_854863/11_tsuki/tsuki.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ツキ（月亮）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki/tsuki.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈月〉**](../../../shoka_kyozai_shu_1923/grade_1_2/37_tsuki/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/37_tsuki/tsuki.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈月〉**](../../../shoka_kyozai_shu_1923/grade_5_6/39_tsuki/index.md)（`C` / `2/2` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/39_tsuki/tsuki.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈月〉**](../../../shoka_kyozai_shu_1923/koto_1_2/26_tsuki/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/26_tsuki/tsuki.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

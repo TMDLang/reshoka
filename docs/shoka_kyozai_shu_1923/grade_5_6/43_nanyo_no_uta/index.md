@@ -1,0 +1,156 @@
+---
+title: "南洋の歌 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
+song_title: "南洋の歌"
+description: "〈南洋の歌〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：バンリノハタウヲ ヒラクトハ メイヂノミカドノ オホミコト イーマヤカイガイ ハッテンノ キウンハジュクセリ トキハキヌ…"
+keywords: "南洋の歌, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
+musical_key: "C"
+image: "P326.jpg"
+audio: "nanyo_no_uta.mp3"
+---
+
+# 南洋の歌
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+<audio controls src="nanyo_no_uta.mp3"></audio>
+
+- 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
+
+## 說明
+
+南洋の歌 (南洋之歌)
+Source: 唱歌帖 (2020.006.0843), P207.jpg
+Marginalia: 319頁. 2.1.29 (昭和2年1月29日)
+Lyrics (10 Verses):
+
+
+## 跨冊／重複收錄參照
+
+> 同曲（〈南洋の歌〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P207《小公學校唱歌教材集》抄譜）
+
+- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈南洋の歌〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/index.md)（`C` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/nanyo_no_uta.tmd)）
+- **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈南洋の歌 (南洋之歌)〉**](../../../shokacho/vol_10/p207_nanyo_no_uta/index.md)（`C` / `2/4` — [原始 TMD](../../../shokacho/vol_10/p207_nanyo_no_uta/nanyo_no_uta.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
+## 歌詞
+
+```text
+1.
+バンリノハタウヲ ヒラクトハ メイヂノミカドノ オホミコト
+イーマヤカイガイ ハッテンノ キウンハジュクセリ トキハキヌ
+
+2.
+にっしゅうこくのー ますらをよ ちーづをひらきて なんやうの
+とんちにまなこを そそぐべし そこにさくはー ここにあリ
+
+3.
+我が台湾ノ南ニ 一衣帯水ヲヘダテタル フィリピン島ニ續キテハ ボルネオ、セレベス パプア島
+
+4.
+馬來半島ノ南ニハ スマトラ、ジャワノ 二島アリ、コレラハスベテ南洋ノ 重ナル島ト聞エタリ
+
+5.
+マリアナ、カロリン、ビスマーク、マーシャル島ヤ サモア島 ココニカシコニ チラバリテ 粟ヲマキタル如クナリ
+
+6.
+コノ大小ノ島々ハ 皆熱帯ノウチニアレド 海風ツネニオトヅレテ、 シノグニカタキホドナラズ
+
+7.
+ミドリシタタルヲカノウヘ ハテモシラレヌウミノナカ、 千古無限ノ宝アリ、 取レド拾ヘド尽キヤセズ
+
+8.
+ミキヲナラベルヤシノ森 枝ヲマジフルゴムノ林、 甘蔗、コヒ、麻、タバコ、木材、石油、眞珠貝
+
+9.
+カカル天與ノタマモノヲ イカデヨソメニミスゴシテ 手ヲフトコロニナスベキカ 海国男兒イザヤタテ
+
+10.
+吹キクル風ハ強クトモ、 サカマク波ハアラクトモ、 ケンニンフバツノ心モテ ヤヘノシホヂニノリイダセ〜
+```
+
+## ABC
+
+```abc
+X:1
+T:南洋の歌
+M:2/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+c3 c c3 c | A3 A c3 c | d3 c A3 c | d4 z4 |
+c3 d e3 e | d3 c A3 A | G3 A G3 E | G4 z4 |
+A3 G E3 G | A3 A A3 G | A3 c d3 e | d4 z4 |
+c3 d e3 e | d3 c A3 A | G3 c e3 d | c4 z4 |
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nanyo_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsh6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUmnpmSW5BdlJuYgOSi1qBjsbojxJUWJecXJRZkFIM8ocWlpKTztnf5sS_fjxnXP1vYoaGlxKdoqGBoacdnbKjhz2Rjpm9hxgcx6sqPh2aK5z1r7nuzofNncp_B8-4rHDV3Ppm0AMhSebuh_unbHswULHzfvftq6BsJWeDplI9DIZ1NnPps74eXstscN3e_3dDxdsvzZ2sVPexuf7Op5unMLhPFsTsf7PT3Ptyx6NnvHi5nzFQzMjUx1TQzf7-lU4tLX4lJQQHWkBoT3ZGc3kKcJkg6GhC3Uyqc7piloGBkYGegZGJjpGViYGGvqKAQYGZjrZRWkg5T7JhalZ-Yl5mQmWikYG1q-XNCop2CkZ6hnZKmg8WzG2qeTeoyAbjMEOsvI8tn0pZpcIE0-lUWZycUKGoYGCmHAME0t1rQCCRvqgcjHzRMeN29-3LzqcXPf4-b-x037Hzcte9y8CSgx6XHzysdN6x83dwAlgPyFj5uWPG5uAiuc_7hp9ePmTiBb4XETUO9ssBDQnA6woSCFex43z3vcvASkEMhtWgMkgYb0P25uftzcBrYTpHct2DogB2j1jsfNS0EWNu0GugeotgMkDZIAkj1grxhB3Ny4-nHj4seN0x83tT5ubHvcOPlxYz8wiIF2AuX2PW6c-bip83HTpMdNHUA-MG73PG4EGjzpceMmkERj7-PGZUCJVY-bJj9uagGbsA5i7gqQEFAHyAKgOatARjdNAkrMBaMJjxt3Aq2F8IEKgaqmgq0GBhLIaqAQRBQYSKvADjYGO_hZx8THjT1P-zc827kP6G1gKnjc3K0ATJkvFi5-umP9sw1bgCH-uHnG4-YGUNgA46B5NdD_Ux83LQbHzBRgCD3dvA2o6fmuHnBwAAMQFCVzgAofN_eCoqChERxuax43A32_Eyg38XEzMIAWAfWBXWICdsnLZWue7Gt72tsFNg7qErBZTTvB8QWM65Vgs4CRAbQc6LE-BVCKBypvWgRyDEgOGF1Ae1aC4waobSbQPdB0DlT9sr33cXMX0GFgKzpeNM573AQMV6CfIEFiCk13QMuAMQA0swtsJtAfQH8BPbsZxG0GhjvEQXtAKQIkAmFvBzsLYjYwPTVtfdy8COJLIGcz2Gnd4CS3HcIGWgTUC3QqMJkDDW9TeL5pPjiwga4Cpj1QSD9d1gRO5kA3Q1xoBnEhSH8fMNsDCwkQA2hjQysoqJ7PanvethEYb6CcAEq9QAuAdgJ9AgyUToVnW7e_XLTicXMLKGJAEkBrgaEK1AqUBhYmjUCTgb4Aat0AcyswzwH9DsxDwAwFdAUw1-0CO8QcGlRAFwNlgKEF9BRQLcjRID-AwgzighmQnAVMFcDAABoO9C_QMmBSAcoBNQMzbBdINdDup73NT_uXPG9Z-HImMET6nq6bC49Xhaf90yB-eNYNTKbA1Nj5dMNesNOA-Xc3zFEWcEeBZIAhCXYxKBEAnQNUCPLbs8XrFJ7NmwsLaGBamgqSbgKm8wUg6XnTQfY9nzLjxRQQCxzUk4CMl7t2g7lAH04ACTY0PpuzAlgKAxnP529-tmkniDFn3vP-BS82zQW7xhIaV0DDgdavfrpk5YuOdnCwAM0AJhmg34C-BxZnoDIIqAIoB0yMe0GlGSjhAz2xE-QskKvbFJ51AoWATgY6Flj2AN0E9CBQBBh24FQOSjCrQfH7dPbe51O2P20FljBAU0EpEWxdG9hFhgZgJz2dADQYqAGYSlaD00P_0z3A6IMUp4sgyWAr2EnAAFr_bDPQocDcBCThZS5U0UZw8Qh0BpAEOgwYa8CU1fd0P7AYBapuA8YEsLAFRhbQy0BPABMRsPABZURwggFKNYDirmEOl5Y-F5dvYmaeVVh-cmKOQ41BjUI1yKEKNoZmWnZgVo2CYZyCLhACKQSrRsEMzDRDETOCsyGyyIK6CgZQugbVXKC8MYQFpDDNMAOKmUJZENoYLoJpJkSPKVANhEa4EyYDEwFaALUK2VrKXQkUgioEqoFrRza3lotL1w5YbWfmKQBpZS4A)]
+- [鋼琴伴奏 TMD 檔案](nanyo_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsh6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUmnpmSW5BdlJuYgOSi1qBjsbojxJUWJecXJRZkFIM8ocWlpKTztnf5sS_fjxnXP1va839PxcvbMZ53dL7v3PJ-w5cmeLU-X9r_f06mgpcWlaKtgaGjEZW-r4MxlY6RvYscFsuPJjoZni-Y-a-17sqPzZXOfwvPtKx43dD2btgHIUHi6of_p2h3PFix83Lz7aesaCFvh6ZSNQKueTZ35bO6El7PbHjd0A619umT5s7WLn_Y2PtnV83TnFgjj2ZyO93t6nm9Z9Gz2jhcz5ysYmBuZ6poYAh2kxKWvxaWggOJ4BQ0I78nObiBPU-FRwxSFgMzEvHwFx-Tk_NyCxLzM3NS8EpC2YEhcQJ3ydMc0BQ0jAyMDPQMDMz0DCxNjTR2FACMDc72sgnSQct_EovTMvMSczEQrBWNDy5cLGvUUjPQM9YwsFTSezVj7dFKPEdDNhkDnGlk-m75Uk0tLn4vLNzEzzyosPzkxx6HGoEahGmSQgo2hmZYdmFWjYBinoAuEQArBqlEwAzPNUMSM4GyILLKgroIBlK5BNRcobwxhASlMM8yAYqZQFoQ2hotgmgnRYwpUA6ER7oTJwESAFkCtQraWclcChaAKgWrg2pHNrYWGOTjOgzxwhLqxtqk2ImxReUBjtU20YTajywFltBHuQ6iESprDJDH9imQSUA2IrY3saSS9KAaDPG-oDdQM5SHYoKgy14nXNoLysQQv3BRTBdN4baBWKAfVj8jKkGWA7kDyLroraeRDoBSyTqgmFMNxxrcPrvg2jIdqgDOAztHBImgEYyJkgWkPzsYIYCxGIFQjm4FfJbq5WN2GEEQ2GMGGu506LkaIIlhI-lGiQNcOWDxm5ilQkVbmAgA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 南洋の歌 ]
+================================================================================
+⏱  Duration:       0:17 (17.1s), 16 measures total
+🎼 Key & Tempo:    首調基準 C, != 112.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    E4 (MIDI 64) – E5 (MIDI 76) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  E4 in [Main #1 @ m.7, 0:07]
+   - 最高音: E5 in [Main #1 @ m.5, 0:04]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Main (17.1s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       A 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  A, C, D, E, G
+   - 調性數值:    A 小調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 小調 (0.80), C 大調 (0.72), G 大調 (0.60)
+   - 五度圈歷程:   +3
+   - 各段落調性細節:
+     • [Main #1]: A 小調 (r: 0.80, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb              [A ]*
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ███████████████████████   25.0%
+     C# :                            0.0%
+     D  : ███████████████████       20.5%
+     D# :                            0.0%
+     E  : █████████████             14.3%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : █████████████             14.3%
+     G# :                            0.0%
+     A  : ████████████████████████  25.9%
+     A# :                            0.0%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Vocal         : E4 – E5 (12 個半音 / 1.0 個八度, 52 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![南洋の歌 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年 原書掃描頁 P326.jpg](P326.jpg)
+
+![南洋の歌 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年 原書掃描頁 P327.jpg](P327.jpg)
+
+

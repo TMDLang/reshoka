@@ -31,6 +31,7 @@ audio: "tasukebune.mp3"
 > 同曲（〈助船／助け船〉；收錄於《公學校唱歌》第五學年、《新定兒童唱歌》第五學年與《唱歌帖》P211《小公學校唱歌教材集》抄譜）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈助船〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md)（`B,` / `6/8` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/tasukebune.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈助け船〉**](../../../shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/index.md)（`B,` / `6/8` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/tasukebune.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈助け船 (救生船)〉**](../../../shokacho/vol_10/p211_tasukebune/index.md)（`B,` / `6/8` — [原始 TMD](../../../shokacho/vol_10/p211_tasukebune/tasukebune.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

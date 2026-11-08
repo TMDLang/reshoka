@@ -31,6 +31,8 @@ Composer: 岡野貞一 / Lyricist: 高野辰之 (尋常小學唱歌 第六學年
 > 同曲（高野辰之作詞、岡野貞一作曲〈朧月夜〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P195）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈朧月夜〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/oborozukiyo.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈おぼろ月夜〉**](../../../shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo/oborozukiyo.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈朧月夜〉**](../../../shoka_kyozai_shu_1923/koto_1_2/01_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/01_oborozukiyo/oborozukiyo.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

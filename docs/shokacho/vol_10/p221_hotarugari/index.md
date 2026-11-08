@@ -26,6 +26,14 @@ Marginal notes: 195頁 / 2.7.28. / （一九回以下未済）
 Key: ヘ調 (F major), Time: 2/4, Tempo: ♩=112
 
 
+## 跨冊／重複收錄參照
+
+> 同曲＋同名異曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
+
+- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈螢狩〉**](../../../shoka_kyozai_shu_1923/grade_3_4/37_hotarugari/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/37_hotarugari/hotarugari.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈螢狩〉**](../../../shoka_kyozai_shu_1923/koto_1_2/03_hotarugari/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/03_hotarugari/hotarugari.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

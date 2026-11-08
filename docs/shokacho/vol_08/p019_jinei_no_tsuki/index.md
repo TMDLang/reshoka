@@ -26,6 +26,13 @@ audio: "jinei_no_tsuki.mp3"
 註記：一條歌集 365頁 / 昭2.3.8
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》共同收錄教材）
+
+- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈陣營の月〉**](../../../shoka_kyozai_shu_1923/koto_1_2/14_jinei_no_tsuki/index.md)（`F` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/14_jinei_no_tsuki/jinei_no_tsuki.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

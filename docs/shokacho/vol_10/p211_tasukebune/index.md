@@ -31,6 +31,7 @@ audio: "tasukebune.mp3"
 
 - **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈助船〉**](../../../kogakko_shoka/grade_5/15_tasukebune/index.md)（`B,` / `6/8` — [原始 TMD](../../../kogakko_shoka/grade_5/15_tasukebune/tasukebune.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈助船〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md)（`B,` / `6/8` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/tasukebune.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈助け船〉**](../../../shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/index.md)（`B,` / `6/8` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/tasukebune.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

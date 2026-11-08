@@ -31,6 +31,7 @@ audio: "gyokei.mp3"
 > 同曲（二部輪唱曲〈曉景〉；收錄於《公學校唱歌》六年級、《新定兒童唱歌》六年級與《唱歌帖》P090）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈曉景〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md)（`E,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/gyokei.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈曉景（二部輪唱）〉**](../../../shoka_kyozai_shu_1923/koto_1_2/24_gyokei/index.md)（`E,` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/24_gyokei/gyokei.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈曉景（二部輪唱）〉**](../../../shokacho/vol_02/p090_gyokei/index.md)（`E,` / `4/4` — [原始 TMD](../../../shokacho/vol_02/p090_gyokei/gyokei.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

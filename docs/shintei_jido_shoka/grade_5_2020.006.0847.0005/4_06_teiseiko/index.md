@@ -29,6 +29,7 @@ audio: "teiseiko.mp3"
 > 同曲（〈鄭成功〉；收錄於《公學校唱歌》第五學年、《新定兒童唱歌》第五學年與《唱歌帖》P217《小公學校唱歌教材集》簡譜草稿）
 
 - **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈鄭成功〉**](../../../kogakko_shoka/grade_5/10_teiseiko/index.md)（`G` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_5/10_teiseiko/teiseiko.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈鄭成功〉**](../../../shoka_kyozai_shu_1923/grade_5_6/09_teiseiko/index.md)（`G` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/09_teiseiko/teiseiko.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈鄭成功 (鄭成功 - 未完成草稿)〉**](../../../shokacho/vol_10/p217_teiseiko/index.md)（`G` / `2/4` — [原始 TMD](../../../shokacho/vol_10/p217_teiseiko/teiseiko.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

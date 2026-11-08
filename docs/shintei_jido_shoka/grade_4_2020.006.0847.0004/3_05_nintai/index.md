@@ -32,9 +32,10 @@ audio: "nintai.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（《公學校唱歌》、《新定兒童唱歌》共同收錄教材）
+> 同曲（《公學校唱歌》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
 
 - **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈忍耐〉**](../../../kogakko_shoka/grade_5/20_nintai/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/20_nintai/nintai.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈忍耐〉**](../../../shoka_kyozai_shu_1923/grade_5_6/03_nintai/index.md)（`D` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/03_nintai/nintai.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

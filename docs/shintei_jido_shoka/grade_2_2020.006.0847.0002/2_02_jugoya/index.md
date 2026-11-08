@@ -33,8 +33,9 @@ audio: "jugoya.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同名異曲（各冊收錄之不同詞曲版本）
+> 同曲＋同名異曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
 
+- **[同名異曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈十五夜お月さん〉**](../../../shoka_kyozai_shu_1923/grade_5_6/16_jugoya_otsukisan/index.md)（`C` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/16_jugoya_otsukisan/jugoya_otsukisan.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈十五夜お月さん〉**](../../../shokacho/vol_01/p152_jugoya_otsukisan/index.md)（`C` / `4/4` — [原始 TMD](../../../shokacho/vol_01/p152_jugoya_otsukisan/jugoya_otsukisan.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

@@ -33,6 +33,7 @@ audio: "tenchosetsu.mp3"
 > 同曲（儀式歌〈天長節〉；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P126）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈天長節〉**](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md)（`D` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/tenchosetsu.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈天長節〉**](../../shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu/index.md)（`D` / `4/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu/tenchosetsu.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈天長節〉**](../../shokacho/vol_01/p126_tenchosetsu/index.md)（`D` / `4/4` — [原始 TMD](../../shokacho/vol_01/p126_tenchosetsu/tenchosetsu.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 

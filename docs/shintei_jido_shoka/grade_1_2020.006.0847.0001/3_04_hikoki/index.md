@@ -32,6 +32,7 @@ audio: "hikoki.mp3"
 
 - **[同曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈ヒカウキ（飛機）〉**](../../../kogakko_shoka/grade_1/12_hikoki/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_1/12_hikoki/hikoki.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈飛行機〉**](../../grade_5_2020.006.0847.0005/2_04_hikoki/index.md)（`G` / `2/4` — [原始 TMD](../../grade_5_2020.006.0847.0005/2_04_hikoki/hikoki.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈飛行機〉**](../../../shoka_kyozai_shu_1923/grade_3_4/50_hikoki/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/50_hikoki/hikoki.tmd)）
 - **[同名異曲]** 《うたのほん》（唱歌課本）下卷（2006.006.0878）：[**〈ひかうき（飛機）〉**](../../../utanohon/ge_2006.006.0878/10_hikoki/index.md)（`C` / `2/4` — [原始 TMD](../../../utanohon/ge_2006.006.0878/10_hikoki/hikoki.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

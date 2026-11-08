@@ -26,6 +26,13 @@ Marginalia: 15.2.13. (大正15年2月13日)
 Dynamics: Line 1: mf, Line 2: f, Line 3: mf, Line 4: f
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》共同收錄教材）
+
+- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈遠別離〉**](../../../shoka_kyozai_shu_1923/koto_1_2/30_enbetsuri/index.md)（`A,` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/30_enbetsuri/enbetsuri.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

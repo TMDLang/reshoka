@@ -30,6 +30,8 @@ audio: "kokubetsu.mp3"
 > 同曲異詞＋同名異曲（《新定兒童唱歌》五年級〈告別〉、《唱歌帖》P042〈螢の光〉與 P197〈送別の歌〉同採蘇格蘭民謠 *Auld Lang Syne* 旋律；高等科女子用〈告別〉為同名異曲）
 
 - **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈告別〉**](../../koto_girls_2020.006.0849/1_4_02_kokubetsu/index.md)（`D` / `3/4` — [原始 TMD](../../koto_girls_2020.006.0849/1_4_02_kokubetsu/kokubetsu.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈送別の歌〉**](../../../shoka_kyozai_shu_1923/grade_3_4/35_sobetsu_no_uta/index.md)（`E,` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/35_sobetsu_no_uta/sobetsu_no_uta.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈送別の歌〉**](../../../shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta/sobetsu_no_uta.tmd)）
 - **[同曲異詞]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈螢の光〉**](../../../shokacho/vol_03/p042_hotaru_no_hikari/index.md)（`F` / `4/4` — [原始 TMD](../../../shokacho/vol_03/p042_hotaru_no_hikari/hotaru_no_hikari.tmd)）
 - **[同曲異詞]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈送別の歌 (送別之歌)〉**](../../../shokacho/vol_10/p197_sobetsu_no_uta/index.md)（`F` / `2/4` — [原始 TMD](../../../shokacho/vol_10/p197_sobetsu_no_uta/sobetsu_no_uta.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)

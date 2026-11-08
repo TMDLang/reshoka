@@ -34,6 +34,7 @@ audio: "todai.mp3"
 > 同詞異曲（同採文部省『尋常小學唱歌』「遠く見ゆるは沖の島…」歌詞；《公學校唱歌》第四學年為文部省 G 大調原曲，《新定兒童唱歌》第四學年為田村虎藏 e 小調曲）
 
 - **[同詞異曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈燈臺〉**](../../../kogakko_shoka/grade_4/13_todai/index.md)（`G` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_4/13_todai/todai.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈燈臺〉**](../../../shoka_kyozai_shu_1923/grade_5_6/33_todai/index.md)（`G` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/33_todai/todai.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

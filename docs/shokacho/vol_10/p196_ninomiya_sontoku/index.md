@@ -31,6 +31,7 @@ Marginalia: 15.2.13 (大正15年2月13日)
 
 - **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈二宮金次郎〉**](../../../kogakko_shokashu_1915/4_06_ninomiya_kinjiro/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/4_06_ninomiya_kinjiro/ninomiya_kinjiro.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈二宮尊徳〉**](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku/index.md)（`B,` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku/ninomiya_sontoku.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈二宮尊徳〉**](../../../shoka_kyozai_shu_1923/koto_1_2/02_ninomiya_sontoku/index.md)（`B,` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/02_ninomiya_sontoku/ninomiya_sontoku.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

@@ -25,6 +25,13 @@ audio: "mori_no_kotori.mp3"
 - 調性與拍號：調號 ?= G，拍號 <2/4>，速度 != 92
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》共同收錄教材）
+
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈森の小鳥〉**](../../../shoka_kyozai_shu_1923/grade_5_6/26_mori_no_kotori/index.md)（`G` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/26_mori_no_kotori/mori_no_kotori.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

@@ -34,6 +34,7 @@ audio: "kongoseki_mizu_wa_utsuwa.mp3"
 
 - **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈金剛石・水はうつは〉**](../../kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa/index.md)（`C` / `4/4` — [原始 TMD](../../kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈金剛石〉**](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/index.md)（`C` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/kongoseki.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈金剛石〉**](../../shoka_kyozai_shu_1923/grade_5_6/27_kongoseki/index.md)（`C` / `4/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_5_6/27_kongoseki/kongoseki.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈金剛石・水は器〉**](../../shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md)（`G` / `4/4` — [原始 TMD](../../shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/kongoseki_mizu_wa_utsuwa.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 

@@ -35,6 +35,8 @@ audio: "tokei_no_uta.mp3"
 > 同曲（文部省『尋常小學唱歌』〈時計の歌〉；《公學校唱歌集》題為〈時計〉，《新定兒童唱歌》第二學年題為〈とけいのうた〉）
 
 - **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈時計〉**](../../../kogakko_shokashu_1915/2_06_tokei/index.md)（`G` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/2_06_tokei/tokei.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈時計の歌〉**](../../../shoka_kyozai_shu_1923/grade_1_2/39_tokei_no_uta/index.md)（`G` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/39_tokei_no_uta/tokei_no_uta.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈時計〉**](../../../shoka_kyozai_shu_1923/grade_3_4/22_tokei/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/22_tokei/tokei.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

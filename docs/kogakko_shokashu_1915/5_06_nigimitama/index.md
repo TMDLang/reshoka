@@ -34,6 +34,7 @@ audio: "nigimitama.mp3"
 
 - **[同曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈にぎみたま〉**](../../kogakko_shoka/grade_6/11_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../kogakko_shoka/grade_6/11_nigimitama/nigimitama.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈にぎみたま〉**](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/nigimitama.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈にぎみたま〉**](../../shoka_kyozai_shu_1923/koto_1_2/16_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../shoka_kyozai_shu_1923/koto_1_2/16_nigimitama/nigimitama.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 
 ## 歌詞

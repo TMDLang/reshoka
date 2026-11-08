@@ -15,6 +15,7 @@ COLLECTIONS_ORDER: list[tuple[str, str]] = [
     ("kyoeki_shoka", "共益商社唱歌教科書（明治三十五年／1902）"),
     ("taiwan_shuyu_shoka", "臺灣周遊唱歌（明治四十三年／1910）"),
     ("kogakko_shokashu_1915", "公學校唱歌集（大正四年／1915）"),
+    ("shoka_kyozai_shu_1923", "新編小學校・公學校唱歌教材集（大正十二年／1923）"),
     ("shokacho", "楊金土手抄唱歌帖（大正十二年至昭和二年／1923–1927）"),
     ("taiwan_no_uta", "臺灣の歌（昭和四年／1929）"),
     ("shintei_jido_shoka", "新定兒童唱歌（昭和五年／1930）"),
@@ -24,6 +25,7 @@ COLLECTIONS_ORDER: list[tuple[str, str]] = [
 
 COLLECTION_TITLES: dict[str, str] = {
     "kogakko_shokashu_1915": "《公學校唱歌集》",
+    "shoka_kyozai_shu_1923": "《新編 小學校・公學校 唱歌教材集》",
     "taiwan_shuyu_shoka": "《臺灣周遊唱歌》",
     "taiwan_no_uta": "《臺灣の歌》",
     "kogakko_shoka": "《公學校唱歌》",
@@ -35,6 +37,10 @@ COLLECTION_TITLES: dict[str, str] = {
 
 VOLUME_TITLES: dict[str, str] = {
     "kogakko_shokashu_1915": "大正四年版（國臺圖 0725 26）",
+    "grade_1_2": "尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）",
+    "grade_3_4": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
+    "grade_5_6": "尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）",
+    "koto_1_2": "高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）",
     "taiwan_shuyu_shoka": "明治四十三年初版／大正元年八版（國臺圖 0786 10）",
     "taiwan_no_uta": "臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8）",
     "grade_1": "尋常科 第一學年用（國臺圖 0729 73）",
@@ -67,6 +73,10 @@ VOLUME_TITLES: dict[str, str] = {
 
 VOLUME_NAV_TITLES: dict[str, str] = {
     "kogakko_shokashu_1915": "大正四年（全一冊）",
+    "grade_1_2": "尋常科 第一、二學年",
+    "grade_3_4": "尋常科 第三、四學年",
+    "grade_5_6": "尋常科 第五、六學年",
+    "koto_1_2": "高等科 第一、二學年",
     "taiwan_shuyu_shoka": "明治四十三年／大正元年（全一冊）",
     "taiwan_no_uta": "昭和四年（全一冊）",
     "grade_1": "第一學年用",
@@ -534,6 +544,7 @@ DEFAULT_VOLUME_SEO_TEMPLATE = (
 
 FLAT_TABLE_FIRST_COL: dict[str, str] = {
     "kogakko_shoka": "課次",
+    "shoka_kyozai_shu_1923": "曲次",
     "utanohon": "課次",
     "kyoeki_shoka": "曲次",
     "taiwan_shuyu_shoka": "版本",
@@ -581,6 +592,9 @@ KOTO_SPECIAL_SECTIONS: dict[tuple[str, str], str] = {
 FLAT_NUMBER_FORMATTERS: dict[str, Callable[[str, list[str]], str]] = {
     "kogakko_shoka": lambda _, parts: (
         f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
+    ),
+    "shoka_kyozai_shu_1923": lambda _, parts: (
+        f"({int(parts[0])})" if parts[0].isdigit() else parts[0]
     ),
     "utanohon": lambda _, parts: (
         f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]

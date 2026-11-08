@@ -42,6 +42,7 @@ audio: "hagoromo.mp3"
 > 同曲（〈羽衣〉；收錄於《新定兒童唱歌》四年級與《唱歌帖》P157《小公學校唱歌教材集》抄譜）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈羽衣〉**](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo/index.md)（`E,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo/hagoromo.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈羽衣〉**](../../../shoka_kyozai_shu_1923/grade_5_6/47_hagoromo/index.md)（`E,` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/47_hagoromo/hagoromo.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

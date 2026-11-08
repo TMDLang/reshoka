@@ -34,6 +34,8 @@ audio: "hibari.mp3"
 
 - **[同名異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈ヒバリ（雲雀）〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_01_hibari/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_01_hibari/hibari.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈雲雀〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_01_hibari/index.md)（`C` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_01_hibari/hibari.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈雲雀〉**](../../../shoka_kyozai_shu_1923/grade_1_2/32_hibari/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/32_hibari/hibari.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈雲雀〉**](../../../shoka_kyozai_shu_1923/grade_3_4/36_hibari/index.md)（`C` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/36_hibari/hibari.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

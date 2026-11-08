@@ -30,6 +30,7 @@ audio: "taiwan_no_fukei.mp3"
 > 同曲（《公學校唱歌集》與《新定兒童唱歌》第六學年共用教材）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈臺灣の風景〉**](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md)（`E,` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/taiwan_no_fukei.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈臺灣の風景〉**](../../shoka_kyozai_shu_1923/grade_5_6/34_taiwan_no_fukei/index.md)（`E,` / `4/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_5_6/34_taiwan_no_fukei/taiwan_no_fukei.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 
 ## 歌詞

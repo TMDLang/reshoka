@@ -35,6 +35,7 @@ audio: "hana.mp3"
 
 - **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ハナ（花）〉**](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/index.md)（`G` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/hana.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈花〉**](../../shintei_jido_shoka/koto_girls_2020.006.0849/2_4_04_hana/index.md)（`A` / `2/4` — [原始 TMD](../../shintei_jido_shoka/koto_girls_2020.006.0849/2_4_04_hana/hana.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈花〉**](../../shoka_kyozai_shu_1923/grade_1_2/33_hana/index.md)（`G` / `4/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_1_2/33_hana/hana.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 
 ## 歌詞

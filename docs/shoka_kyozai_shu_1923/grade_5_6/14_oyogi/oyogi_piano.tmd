@@ -1,0 +1,29 @@
+::SCORE::
+~ "tag: collection:shoka_kyozai_shu_1923"
+~ "tag: volume:grade_5_6"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P258"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:editorial"
+~ "tag: version:source_transcription"
+~ "tag: arrangement:piano_accompaniment"
+** およぎ（雙手鋼琴伴奏） **
+!= 96
+?= C
+<2/4>
+~ "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+
+/* 待對照 P258.jpg–P259.jpg（原書 p. 250–251）轉錄校對 */
+
+RightHand:Piano@|0| {
+    <4*>
+    | 1+3 2+4 | 3+5 5+1^ | 5+1^ 3+5 | 2+4 1+3 | 2+4 3+5 | 5+1^ 3+5 | 2+4 7_+2 | 1+3 0 |
+}
+
+LeftHand:Piano@|0| {
+    <4*>
+    | 1_ 5_ | 1_ 3_ | 5_ 1_ | 5_ 1_ | 5_ 1_ | 3_ 1_ | 5_ 5__ | 1_ 0 |
+}
+
+-> RightHand -> #
+-> LeftHand -> #

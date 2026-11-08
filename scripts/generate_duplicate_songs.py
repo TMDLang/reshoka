@@ -266,6 +266,10 @@ def to_hiragana_reading(text: str) -> str:
 
 BOOK_LABELS: dict[str, str] = {
     "kogakko_shokashu_1915": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+    "shoka_kyozai_shu_1923/grade_1_2": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+    "shoka_kyozai_shu_1923/grade_3_4": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+    "shoka_kyozai_shu_1923/grade_5_6": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+    "shoka_kyozai_shu_1923/koto_1_2": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
     "taiwan_shuyu_shoka": "《臺灣周遊唱歌》（明治43年／1910，國臺圖 0786 10）",
     "taiwan_no_uta": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
     "kogakko_shoka/grade_1": "《公學校唱歌》第一學年用（昭和10年／1935）",

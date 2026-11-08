@@ -43,6 +43,7 @@ audio: "wagakuni_heishi.mp3"
 > 同曲（〈我國兵士〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P159《小公學校唱歌教材集》抄譜）
 
 - **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈我國兵士〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/index.md)（`B,` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/wagakuni_heishi.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈我國兵士〉**](../../../shoka_kyozai_shu_1923/koto_1_2/32_wagakuni_heishi/index.md)（`B,` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/32_wagakuni_heishi/wagakuni_heishi.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

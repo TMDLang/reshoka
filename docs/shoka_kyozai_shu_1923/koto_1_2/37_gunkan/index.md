@@ -1,0 +1,147 @@
+---
+title: "軍艦（二部） — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年"
+song_title: "軍艦（二部）"
+description: "〈軍艦（二部）〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423））（加藤義清 作詞），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　わだの原に、島のごとく 見ゆるは…"
+keywords: "軍艦（二部）, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 加藤義清 作詞"
+schema_type: "MusicComposition"
+is_part_of: "《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）"
+musical_key: "G"
+image: "P425.jpg"
+audio: "gunkan.mp3"
+---
+
+# 軍艦（二部）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+<audio controls src="gunkan.mp3"></audio>
+
+- 加藤義清 作詞
+- 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
+- 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P053.jpg，書頁 p. 30，第三學期第 4 首）：
+調性與拍號：と長調四分之三拍子（G 大調 3/4 拍），廣大ニ（♩= 88）
+作詞：加藤義清　曲：（檢定唱歌集）
+
+
+## 跨冊／重複收錄參照
+
+> 同曲＋同詞異曲＋同名異曲（《新定兒童唱歌》五年級與《唱歌帖》P012 為加藤義清詞・Carey 曲同曲；《公學校唱歌》六年級〈軍艦〉為山田源一郎曲，與《新定兒童唱歌》高男用瀨戶口藤吉曲〈軍艦マーチ〉同採鳥山啓「守るも攻むるも…」歌詞；《うたのほん》下卷與《唱歌帖》P074 為同名異曲）
+
+- **[同名異曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈軍艦〉**](../../../kogakko_shoka/grade_6/9_gunkan/index.md)（`E` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_6/9_gunkan/gunkan.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈軍艦〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md)（`G` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd)）
+- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈軍艦マーチ〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/gunkan_machi.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈軍艦〉**](../../../shokacho/vol_02/p074_gunkan/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_02/p074_gunkan/gunkan.tmd)）
+- **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈軍艦（軍艦）〉**](../../../shokacho/vol_08/p012_gunkan/index.md)（`G` / `3/4` — [原始 TMD](../../../shokacho/vol_08/p012_gunkan/gunkan.tmd)）
+- **[同名異曲]** 《うたのほん》（唱歌課本）下卷（2006.006.0878）：[**〈ぐんかん（軍艦）〉**](../../../utanohon/ge_2006.006.0878/4_gunkan/index.md)（`G` / `2/4` — [原始 TMD](../../../utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
+## 歌詞
+
+```text
+一　わだの原に、島のごとく
+見ゆるは
+復唱「寄する仇（あた）を、防（ふせ）ぐ艦（ふね）よ
+あゝ雄々（をゝ）し猛（たけ）し軍艦（いくさぶね）よ」
+
+二　わだの原に、山のごとく
+見ゆるは
+復唱「皇御國（すめらみくに）、護（まも）る艦（ふね）よ
+あゝ雄々し猛し軍艦よ」
+```
+
+## ABC
+
+```abc
+X:1
+T:軍艦（二部）
+M:3/4
+L:1/16
+Q:1/4=88
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! D2 D2 D2 E2 D2 B,2 | D4 G4 E4 | D4 B,4 D4 | E4 D4 D4 |
+w: 1.~ワ ダ ノ ハ ラ ニ | シ マ ノ | ゴ ト ク | ミ ユ ル
+w: 2.~わ だ の は ら に | や ま の | ご と く | み ゆ る
+D8 z4 | !f! B4 B4 B4 | A4 G4 E4 | D4 G4 A4 |
+w: 1.~ハ | ヨ ス ル | ア タ ヲ | フ セ グ
+w: 2.~は | す め ら | み く に | ま も る
+B6 A2 A4 | !mf! A4 A2 G2 E2 D2 | G4 A4 B4 | [BcBA]4 G4 A4 |
+w: 1.~フ ネ ヨ | ア ヲ ヲ シ _ | タ ケ シ | イクサ ブ ネ
+w: 2.~ふ ね よ | あ を を し _ | た け し | いくさ ぶ ね
+G8 z4 |
+w: 1.~ヨ
+w: 2.~よ
+```
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gunkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGJkiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdKpKZkl-UWZiTlI7kktKgY7G2J8SVFiXnFyUWYByC8IVSUZqUBH52bmZJYkFlUqcWlpKbzY3fuic9n7PR1PdvW8bF7xfk-ngpYWl6KtgoUFl72tgjuXjbG-iR3IhCc7Gp4tmvuste_Jjs6XzX0Kz7eveNzQ9WzaBiBD4emG_qdrdzxbsPBx8-6nrWsgbIWnUzY-W9vzbOrMZ3MnvJzd9rihG2jR0yXLn61d_LS3EWjj051bIIxnczre7-l5vmXRs9k7Xsycr2BgbmSqa2IIdA7Y9S_adz1vXAw06EXTpmdzmoE2vFjVC7H96bpZT1snPV-9FGIZ0I6nG7qf7tjxfPnE52vWPNk1BegWoDXPpwD91mFkYGSgZ2BgpmdgYWIOZBiYwmx42rXgxfQlz_etfLajVeHJ3jkvVs5T4uLS11KwpRbgUlBQeNo3H-TBze0vVnS96GgHuhdoz9PWFc-mtYNCZkPvs_ZOhQADU2O9rIJ0YIAAFb9c0KhQoKdgbAAKH6CHdnSCAnfOfCBbwUTh5bJpQB-83zMLZPqLVfufNSwHmdvdCwxEoOjjxhUvp24Hij-dPftpR9uTnd1A_UDZp2snAO1zVwDGBVBSARjFCkBRsEk9T3cvBgo_bgbF1aOZK0EpASgBMh8SLEBjkQPrcUPDs9mbgIJA5c9WLQJFBzgigPEN0gbWt6MBqOpxU__jxgWPG9cBA-Fx4-rHDY1PN28Dch83TgE683FjP9gLy7ofN7U9bup-3LgeHGD7VgKNe9zQ83R9y-PGmUCJJ7tBQfW4selxI9CHnY-bJgFNejkD6AKg4NbHjbNBgo0TIIkaLLIWrKwDZBxIW9Pcl7NbHje0gqSBmpvmgjVMf94D1AnUAHTbRIgIPGs8bgTaDXT81MeNQAdDjXvc0Avx3C5gmsPmuY0bifbc81ntT_ctfDoHFORgXzY-bgK6YD_Y1tUg-xoaX6zdDpbd97ipCeyCbsJehHgL7hWoq4GKKE_NUKCgpc_F5V6al52YZxWQmZiX71BjUFMNskLBxkLLDszAlokUwEm54cXCHgUNU1Dp8Xx9gw485Wti0QC0CGpYdW5arcLj5vVA3ADEfUDcD8QrgbhboUbhcdN2YCg0zwMRfQpggS0gdgeQaFoPFmieDxJYBiJWQwT6QWZDANSiGog9pvFQZAYmjeOBEkBaV8EQiIFiujA-UEYXwqqBiIPZUAEwBYIGIC7YfB9DkL34PKEL9gWI7AMbAvIHiNcBIoE-AYsBvQISWwYmV0PF-qG2gS2H2GYE0g-0oXEBEK8DYqDNTZ1AejXY5BaQ_sZ9YHIdxJTGKWDeCjAJMhEkth9sdxuY7IaKgVyCsA1_lO_qAUe5CalRDo7xFaAY3ImItaZFIIH9IIFNkGicChLYDSI2wAVA0r0Q3YioBZpnDIo0KK5RMMISpSA-SLwGrAbEBvOQog8cOEAnIQU-0FEgMXBAAZ0FiZCpYLHdYHIDkhhIDcRtKBHVOBOsshFMdiIHPTgiQJEGEQNHWFMTSnRshZjbuBYoBkoqhKJkRyd5UQLOhU2LHjfvAXsUjIGpFsQHBQMoWpo2gghgdgQJLAEn2sdNW4FKpkEiBRwOwHjBnvVAgW0EjARIzquBRwckwoy1TbSNtWHRBokmEAtLLoNECZIbIREFScsbwSRMbAnQjSAngtRPg0YPJLpAUYQlTzVCAn8SBDdOh0YCOFc2TgSTMDFoJQIW2waNIoitoGhCmF3LxaVrpwApVBWALGUuAA)]
+- [鋼琴伴奏 TMD 檔案](gunkan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGJkiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdKpKZkl-UWZiTlI7kktKgY7G2J8SVFiXnFyUWYByC9KXFpaCi92977oXPZ-T8eTXT0vm1e839MJZL-cPfNZZ_fL7j3PJ2x5smfL06X9QHEFLS0uRVsFCwsue1sFdy4bY30TO5A9T3Y0PFs091lr35MdnS-b-xSeb1_xuKHr2bQNQIbC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54ObvtcUM30NKnS5Y_W7v4aW8j0CVPd26BMJ7N6Xi_p-f5lkXPZu94MXO-goG5kamuiSHQOWA_vmjf9bxxMdCgF02bns1pBtrwYlUvxPan62Y9bZ30fPVSiGVAO55u6H66Y8fz5ROfr1nzZNcUoFuA1jyfAvRzh5GBkYGegYGZnoGFiTmQYWAKs-Fp14IX05c837fy2Y5WhSd757xYOU-Ji8u9NC87Mc8qIDMxLz_Iw6HGoKaaSwEIbCy07MAMfS0FW3SgALJ3R8OLhT0KGqagkHm-vkFHIcDA1FgvqyBdE4sGLX2wYTUK1blptQqm8VBkBiaN44ESQFpXwRCIgWK6MD5QRhfCqoGIg9lQATAFggYgLth8H8MahcfN64G4AYj7gLgfiFcCcTdQw-Om7UCVj5vngck-sCGPm7aAeR0gsmk9RKx5PlhsGZhcDRXrh9oGthximxFIP9CGxgVAvA6IgTY3dQLp1WCTW0D6G_eByXUQUxqngHkrwCTIRJDYfrDdbWCyGyoGcgnCNvwxsasHHBMmJMYEMCKMQWEMxTUKRlhiAMQHideA1YDYYB5SaIP90rQTOayaFoHFwP5q3gQNv6lgsd1gcgOSGEhNL9QcpHBtnAlW2QgmO5FDChxuoDCGiIHDt6kJJfS2QsxtXAsUA8UsoRDc0UlWCILSMig4jIDBBEnKNfAAgwSpsbaJtrE2LGAhAQliYUm2kEADBhcYg5MqSBSSODaCSZjYEmBKfdwE8uTj5mnQAIQEKCgQsSTSRkjwTILgxunQYAIn88aJYBIm1gIM38eN4Mhq3AYNRIitoIBEmF2LWnb4IJcdJoiy4-Xslmc79j3dvfjl9K4nO7uBIf2su_fp2glPty8DFsyQIhktRA3jFaINY8EYGFgQjgk4aJElgCJAvmk8pOwAypjGxwKDFOJpSOpGUQ9SAxRANgiiGWoKWD9cN6SUgopCpGAKgRSq7VDTQHYDA0XXTgESLtE-QEEknhGYp8wFAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 軍艦（二部） ]
+================================================================================
+⏱  Duration:       0:26 (26.6s), 13 measures total
+🎼 Key & Tempo:    首調基準 G, != 88.0 BPM, <3/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    B3 (MIDI 59) – C5 (MIDI 72) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
+   - 最低音:  B3 in [Gunkan #1 @ m.1, 0:01]
+   - 最高音: C5 in [Gunkan #1 @ m.12, 0:22]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Gunkan (26.6s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  D, B, A, G, E
+   - 調性數值:    G 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.80), D 大調 (0.80), B 小調 (0.69)
+   - 五度圈歷程:   +1
+   - 各段落調性細節:
+     • [Gunkan #1]: G 調性不明確 (r: 0.80, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F           [G ]*
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ██                         2.5%
+     C# :                            0.0%
+     D  : ████████████████████████  26.2%
+     D# :                            0.0%
+     E  : █████████                 10.0%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : █████████████████         18.7%
+     G# :                            0.0%
+     A  : ██████████████████        20.0%
+     A# :                            0.0%
+     B  : █████████████████████     22.5%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : B3 – C5 (13 個半音 / 1.1 個八度, 43 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![軍艦（二部） — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年 原書掃描頁 P425.jpg](P425.jpg)
+
+![軍艦（二部） — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年 原書掃描頁 P426.jpg](P426.jpg)
+
+

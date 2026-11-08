@@ -31,6 +31,13 @@ audio: "usagi_to_kame.mp3"
 調性與拍號：ニ調二拍子（D 大調 2/4 拍），「オモシロク」
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
+
+- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈兎と龜〉**](../../../shoka_kyozai_shu_1923/grade_1_2/34_usagi_to_kame/index.md)（`D` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/34_usagi_to_kame/usagi_to_kame.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

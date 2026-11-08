@@ -32,6 +32,7 @@ audio: "urashima_taro.mp3"
 > 同曲＋同名異曲（《公學校唱歌》第二學年、《新定兒童唱歌》第二學年與《うたのほん》下卷為 1911 年『尋常小學唱歌』「むかしむかし浦島は…」同曲；《公學校唱歌集》〈浦島太郎〉為同名異曲）
 
 - **[同名異曲]** 《公學校唱歌》第二學年用（昭和11年／1936）：[**〈うらしまたらう（浦島太郎）〉**](../../../kogakko_shoka/grade_2/12_urashimataro/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_2/12_urashimataro/urashimataro.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈浦島太郎〉**](../../../shoka_kyozai_shu_1923/grade_1_2/51_urashima_taro/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/51_urashima_taro/urashima_taro.tmd)）
 - **[同名異曲]** 《うたのほん》（唱歌課本）下卷（2006.006.0878）：[**〈うらしま太郎（浦島太郎）〉**](../../../utanohon/ge_2006.006.0878/14_urashimataro/index.md)（`G` / `2/4` — [原始 TMD](../../../utanohon/ge_2006.006.0878/14_urashimataro/urashimataro.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

@@ -30,6 +30,13 @@ audio: "niwatori.mp3"
 出處註記：（西洋曲）
 
 
+## 跨冊／重複收錄參照
+
+> 同名異曲（各冊收錄之不同詞曲版本）
+
+- **[同名異曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈鶏〉**](../../../shoka_kyozai_shu_1923/grade_1_2/12_niwatori/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/12_niwatori/niwatori.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

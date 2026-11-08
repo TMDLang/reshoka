@@ -36,6 +36,13 @@ audio: "mushi_naku_nobe.mp3"
 2. 主歌伴奏 (Song, 16 小節 × 2 段)：右手演奏主旋律，左手配以輕巧和弦伴奏。
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》共同收錄教材）
+
+- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈蟲なく野邊〉**](../../../shoka_kyozai_shu_1923/grade_3_4/23_mushi_naku_nobe/index.md)（`G` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/23_mushi_naku_nobe/mushi_naku_nobe.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

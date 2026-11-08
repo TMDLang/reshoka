@@ -29,6 +29,7 @@ audio: "myogisan.mp3"
 
 > 同曲（〈妙義山〉；收錄於《新定兒童唱歌》五年級與《唱歌帖》P216《小公學校唱歌教材集》抄譜）
 
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈妙義山〉**](../../../shoka_kyozai_shu_1923/grade_5_6/11_myogisan/index.md)（`D` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/11_myogisan/myogisan.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈妙義山 (妙義山)〉**](../../../shokacho/vol_10/p216_myogisan/index.md)（`D` / `3/4` — [原始 TMD](../../../shokacho/vol_10/p216_myogisan/myogisan.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

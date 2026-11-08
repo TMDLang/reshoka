@@ -38,6 +38,7 @@ audio: "hinomaru_no_hata.mp3"
 - **[同曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈ヒノマル ノ ハタ（日之丸旗）〉**](../../../kogakko_shoka/grade_1/1_hinomaru_no_hata/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_1/1_hinomaru_no_hata/hinomaru_no_hata.tmd)）
 - **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈日の丸の旗〉**](../../../kogakko_shokashu_1915/3_02_hinomaru_no_hata/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/3_02_hinomaru_no_hata/hinomaru_no_hata.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈日の丸のはた（日之丸國旗）〉**](../../grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/index.md)（`F` / `2/4` — [原始 TMD](../../grade_3_2020.006.0847.0003/2_03_hinomaru_no_hata/hinomaru_no_hata.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈日の丸の旗〉**](../../../shoka_kyozai_shu_1923/grade_1_2/01_hinomaru_no_hata/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/01_hinomaru_no_hata/hinomaru_no_hata.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

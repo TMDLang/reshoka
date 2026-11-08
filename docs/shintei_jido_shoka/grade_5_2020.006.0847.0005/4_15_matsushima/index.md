@@ -29,6 +29,7 @@ audio: "matsushima.mp3"
 
 > 同曲（〈松島〉；收錄於《新定兒童唱歌》五年級與《唱歌帖》P215《小公學校唱歌教材集》抄譜）
 
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈松島〉**](../../../shoka_kyozai_shu_1923/grade_5_6/17_matsushima/index.md)（`G` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/17_matsushima/matsushima.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈松島 (松島)〉**](../../../shokacho/vol_10/p215_matsushima/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_10/p215_matsushima/matsushima.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

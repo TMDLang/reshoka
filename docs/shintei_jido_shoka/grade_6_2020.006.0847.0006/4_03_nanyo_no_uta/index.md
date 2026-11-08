@@ -28,6 +28,7 @@ audio: "nanyo_no_uta.mp3"
 
 > 同曲（〈南洋の歌〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P207《小公學校唱歌教材集》抄譜）
 
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈南洋の歌〉**](../../../shoka_kyozai_shu_1923/grade_5_6/43_nanyo_no_uta/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/43_nanyo_no_uta/nanyo_no_uta.tmd)）
 - **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈南洋の歌 (南洋之歌)〉**](../../../shokacho/vol_10/p207_nanyo_no_uta/index.md)（`C` / `2/4` — [原始 TMD](../../../shokacho/vol_10/p207_nanyo_no_uta/nanyo_no_uta.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

@@ -34,6 +34,7 @@ audio: "wakare.mp3"
 > 同曲（畢業惜別歌〈別れ〉「春のあしたの花の陰…」；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）
 
 - **[同曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈別れ〉**](../../../kogakko_shoka/grade_6/20_wakare/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_6/20_wakare/wakare.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈別れ〉**](../../../shoka_kyozai_shu_1923/grade_5_6/46_wakare/index.md)（`C` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/46_wakare/wakare.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

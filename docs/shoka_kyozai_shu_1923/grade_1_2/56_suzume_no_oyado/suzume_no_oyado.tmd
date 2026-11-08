@@ -1,0 +1,22 @@
+::SCORE::
+~ "tag: collection:shoka_kyozai_shu_1923"
+~ "tag: volume:grade_1_2"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P120"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:editorial"
+~ "tag: version:source_transcription"
+** 雀のお宿 **
+!= 96
+?= C
+<2/4>
+~ "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+
+/* 待對照 P120.jpg–P121.jpg（原書 p. 112–113）轉錄校對 */
+
+Main:Piano@|0| {
+    <4*>
+    | 1 2 | 3 5 | 5 3 | 2 1 | 2 3 | 5 3 | 2 2 | 1 0 |
+}
+
+-> Main -> #

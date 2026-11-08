@@ -32,6 +32,7 @@ audio: "tanoshiki_wagaya.mp3"
 - **[同名異曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈樂しき我が家〉**](../../../kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md)（`E` / `6/8` — [原始 TMD](../../../kogakko_shoka/grade_6/15_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
 - **[同名異曲]** 《共益商社唱歌教科書》卷四・教師用（明治33年／1900）：[**〈樂しき我家〉**](../../../kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md)（`E` / `6/8` — [原始 TMD](../../../kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈樂しき我家〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md)（`E` / `6/8` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈樂しき我家〉**](../../../shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya/index.md)（`E` / `6/8` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya/tanoshiki_wagaya.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）：[**〈樂シキ我家（快樂的我家）〉**](../../vol_08/p027_tanoshiki_waga_ie/index.md)（`B,` / `4/4` — [原始 TMD](../../vol_08/p027_tanoshiki_waga_ie/tanoshiki_waga_ie.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

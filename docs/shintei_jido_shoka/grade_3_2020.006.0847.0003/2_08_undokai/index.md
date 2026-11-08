@@ -48,6 +48,7 @@ audio: "undokai.mp3"
 - **[同詞異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈運動會〉**](../../../kogakko_shokashu_1915/3_05_undokai/index.md)（`C` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/3_05_undokai/undokai.tmd)）
 - **[同名異曲]** 《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）：[**〈運動會〉**](../../../kyoeki_shoka/kan_1_854862/11_undokai/index.md)（`G` / `2/4` — [原始 TMD](../../../kyoeki_shoka/kan_1_854862/11_undokai/undokai.tmd)）
 - **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈運動會〉**](../../koto_boys_2020.006.0848/1_2_02_undokai/index.md)（`G` / `2/4` — [原始 TMD](../../koto_boys_2020.006.0848/1_2_02_undokai/undokai.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈運動會〉**](../../../shoka_kyozai_shu_1923/grade_3_4/05_undokai/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/05_undokai/undokai.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

@@ -32,6 +32,7 @@ Dynamics: mf, f
 
 - **[同名異曲]** 《共益商社唱歌教科書》卷二・教師用（明治33年／1900）：[**〈懐友〉**](../../../kyoeki_shoka/kan_2_854863/15_kaiyu/index.md)（`D` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_2_854863/15_kaiyu/kaiyu.tmd)）
 - **[同曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈懷友〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu/kaiyu.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈懷友〉**](../../../shoka_kyozai_shu_1923/grade_5_6/45_kaiyu/index.md)（`D` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/45_kaiyu/kaiyu.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

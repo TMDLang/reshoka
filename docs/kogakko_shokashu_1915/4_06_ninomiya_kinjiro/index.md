@@ -33,6 +33,7 @@ audio: "ninomiya_kinjiro.mp3"
 > 同名異曲（《公學校唱歌集》〈二宮金次郎〉為文部省『尋常小學唱歌』版；《新定兒童唱歌》四年級〈二宮尊徳〉為桑田春風詞・田村虎藏曲版；《唱歌帖》P196 為《小公學校唱歌教材集》3/4 拍版）
 
 - **[同名異曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈二宮尊徳〉**](../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku/index.md)（`B,` / `3/4` — [原始 TMD](../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku/ninomiya_sontoku.tmd)）
+- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈二宮尊徳〉**](../../shoka_kyozai_shu_1923/koto_1_2/02_ninomiya_sontoku/index.md)（`B,` / `3/4` — [原始 TMD](../../shoka_kyozai_shu_1923/koto_1_2/02_ninomiya_sontoku/ninomiya_sontoku.tmd)）
 - **[同名異曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈二宮尊徳 (二宮尊德)〉**](../../shokacho/vol_10/p196_ninomiya_sontoku/index.md)（`B,` / `3/4` — [原始 TMD](../../shokacho/vol_10/p196_ninomiya_sontoku/ninomiya_sontoku.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 

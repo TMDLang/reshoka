@@ -14,7 +14,9 @@ audio: "haru_no_no.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="haru_no_no.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="haru_no_no_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="haru_no_no.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -23,6 +25,13 @@ audio: "haru_no_no.mp3"
 原書資訊與歌詞全文（對應 P024.jpg，書頁 p. 1，第一學期第 1 首）：
 調性與拍號：と長調四分之四拍子（G 大調 4/4 拍），樂シク（♩= 108），（教育唱歌）
 
+
+## 跨冊／重複收錄參照
+
+> 同曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
+
+- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈春の野〉**](../../../shoka_kyozai_shu_1923/koto_1_2/21_haru_no_no/index.md)（`G` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/21_haru_no_no/haru_no_no.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

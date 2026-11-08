@@ -32,6 +32,7 @@ audio: "ichigatsu_ichijitsu.mp3"
 
 - **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈一月一日〉**](../../../kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd)）
 - **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈一月一日〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md)（`D` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd)）
+- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈一月一日〉**](../../../shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu/index.md)（`D` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
