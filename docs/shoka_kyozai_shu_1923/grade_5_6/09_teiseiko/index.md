@@ -84,74 +84,82 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 !mf! D3 D G3 B | d3 d B3 B | A3 G E3 G | A6 z2 |
-w: ア ア イ サ | マ シ ヤ _ | コ ク セ イ | ヤ
+w: 1.~ア ア イ サ | マ シ ヤ _ | コ ク セ イ | ヤ
+w: 2.~しゆ _ し の | う ん め い | か た む き | て
+w: 3.~ヰ ナ ガ ラ | ク ニ ノ _ | ホ ロ ブ ル | ヲ
+w: 4.~た い か の | つ い に _ | く つ が へ | る
+w: 5.~タ _ ト ヘ | シャ ショ ク ハ | タ オ ル ト | モ
+w: 6.~こ う ま う | じ ん ら を | お ひ は ら | ひ
+w: 7.~ア ハ レ ヤ | テ ン ハ _ | コ ノ ヒ ト | ニ
+w: 8.~し げ ふ は | つ ひ に _ | な ら ざ れ | ど
 B3 B A3 B | A3 G E3 E | D3 D E3 D | D6 z2 |
-w: テ イ セ イ | コ ウ ノ _ | イ サ ヲ シ | ヨ
+w: 1.~テ イ セ イ | コ ウ ノ _ | イ サ ヲ シ | ヨ
+w: 2.~ちゆう _ げ ん | お ほ か た | せ め と ら | れ
+w: 3.~イ _ カ デ | ヨ ソ メ ニ | ナ ガ ム ベ | キ
+w: 4.~い ち ぼ く | い か で _ | さ さ ふ べ | き
+w: 5.~シュ ヤ ウ ノ | ア ハ ハ _ | ハ ム マ ジ | ト
+w: 6.~と り で を | か ま へ _ | し ろ を つ | き
+w: 7.~ヨ ハ ヒ ヲ | カ サ ズ _ | イ ツ テ フ | ニ
+w: 8.~め い ぢ の | み よ の _ | み ひ か り | に
 !f! D3 D D3 D | B3 B B3 B | A3 G E3 G | A6 z2 |
-w: キ _ ミ ガ | チ チ オ ヤ | ナ ハ シ リユ | ウ
+w: 1.~キ _ ミ ガ | チ チ オ ヤ | ナ ハ シ リユ | ウ
+w: 2.~み な み の | は て の _ | へ き す う | に
+w: 3.~テ イ シ ハ | ヒ ト リ _ | ミ ヲ ヌ キ | テ
+w: 4.~さ か ま き | よ す る _ | て き ぐ ん | に
+w: 5.~カ _ タ ク | チ カ ヒ テ | ト ウ カ イ | ノ
+w: 6.~へ _ い き | しよ く れ う | た く は へ | て
+w: 7.~ジ フ シ チ | ネ ン ノ _ | カ ン ナ ン | ハ
+w: 8.~き _ み が | い さ を は | あ ら は れ | て
 !mf! B3 B d3 B | A3 G A3 B | D3 D E3 D | G6 z2 |
-w: ハ _ ハ ハ | ヒ ラ ト ノ | タ ガ ハ ウ | ヂ
+w: 1.~ハ _ ハ ハ | ヒ ラ ト ノ | タ ガ ハ ウ | ヂ
+w: 2.~は づ か に | よ _ ぜ ん | た も ち た | り
+w: 3.~ギ ヘ イ ヲ | ツ ノ リ _ | タ タ カ ヘ | リ
+w: 4.~い た く う | た れ て _ | や ぶ れ た | り
+w: 5.~タ イ ワ ン | タ ウ ニ _ | ワ タ リ タ | リ
+w: 6.~と _ き の | い た る を | た だ ま て | り
+w: 7.~ミ _ ヅ ノ | ア ワ ト ゾ | ナ リ ニ ケ | ル
+w: 8.~か い ざ ん | しや と う _ | つ き き よ | し
 !mf! D3 D G3 B | d3 d B3 B | A3 G E3 G | A6 z2 |
-w: しゆ _ し の | う ん め い | か た む き | て
+w: 1.~ア ア イ サ | マ シ ヤ _ | コ ク セ イ | ヤ
+w: 2.~しゆ _ し の | う ん め い | か た む き | て
+w: 3.~ヰ ナ ガ ラ | ク ニ ノ _ | ホ ロ ブ ル | ヲ
+w: 4.~た い か の | つ い に _ | く つ が へ | る
+w: 5.~タ _ ト ヘ | シャ ショ ク ハ | タ オ ル ト | モ
+w: 6.~こ う ま う | じ ん ら を | お ひ は ら | ひ
+w: 7.~ア ハ レ ヤ | テ ン ハ _ | コ ノ ヒ ト | ニ
+w: 8.~し げ ふ は | つ ひ に _ | な ら ざ れ | ど
 B3 B A3 B | A3 G E3 E | D3 D E3 D | D6 z2 |
-w: ちゆう _ げ ん | お ほ か た | せ め と ら | れ
+w: 1.~テ イ セ イ | コ ウ ノ _ | イ サ ヲ シ | ヨ
+w: 2.~ちゆう _ げ ん | お ほ か た | せ め と ら | れ
+w: 3.~イ _ カ デ | ヨ ソ メ ニ | ナ ガ ム ベ | キ
+w: 4.~い ち ぼ く | い か で _ | さ さ ふ べ | き
+w: 5.~シュ ヤ ウ ノ | ア ハ ハ _ | ハ ム マ ジ | ト
+w: 6.~と り で を | か ま へ _ | し ろ を つ | き
+w: 7.~ヨ ハ ヒ ヲ | カ サ ズ _ | イ ツ テ フ | ニ
+w: 8.~め い ぢ の | み よ の _ | み ひ か り | に
 !f! D3 D D3 D | B3 B B3 B | A3 G E3 G | A6 z2 |
-w: み な み の | は て の _ | へ き す う | に
+w: 1.~キ _ ミ ガ | チ チ オ ヤ | ナ ハ シ リユ | ウ
+w: 2.~み な み の | は て の _ | へ き す う | に
+w: 3.~テ イ シ ハ | ヒ ト リ _ | ミ ヲ ヌ キ | テ
+w: 4.~さ か ま き | よ す る _ | て き ぐ ん | に
+w: 5.~カ _ タ ク | チ カ ヒ テ | ト ウ カ イ | ノ
+w: 6.~へ _ い き | しよ く れ う | た く は へ | て
+w: 7.~ジ フ シ チ | ネ ン ノ _ | カ ン ナ ン | ハ
+w: 8.~き _ み が | い さ を は | あ ら は れ | て
 !mf! B3 B d3 B | A3 G A3 B | D3 D E3 D | G6 z2 |
-w: は づ か に | よ _ ぜ ん | た も ち た | り
-!mf! D3 D G3 B | d3 d B3 B | A3 G E3 G | A6 z2 |
-w: ヰ ナ ガ ラ | ク ニ ノ _ | ホ ロ ブ ル | ヲ
-B3 B A3 B | A3 G E3 E | D3 D E3 D | D6 z2 |
-w: イ _ カ デ | ヨ ソ メ ニ | ナ ガ ム ベ | キ
-!f! D3 D D3 D | B3 B B3 B | A3 G E3 G | A6 z2 |
-w: テ イ シ ハ | ヒ ト リ _ | ミ ヲ ヌ キ | テ
-!mf! B3 B d3 B | A3 G A3 B | D3 D E3 D | G6 z2 |
-w: ギ ヘ イ ヲ | ツ ノ リ _ | タ タ カ ヘ | リ
-!mf! D3 D G3 B | d3 d B3 B | A3 G E3 G | A6 z2 |
-w: た い か の | つ い に _ | く つ が へ | る
-B3 B A3 B | A3 G E3 E | D3 D E3 D | D6 z2 |
-w: い ち ぼ く | い か で _ | さ さ ふ べ | き
-!f! D3 D D3 D | B3 B B3 B | A3 G E3 G | A6 z2 |
-w: さ か ま き | よ す る _ | て き ぐ ん | に
-!mf! B3 B d3 B | A3 G A3 B | D3 D E3 D | G6 z2 |
-w: い た く う | た れ て _ | や ぶ れ た | り
-!mf! D3 D G3 B | d3 d B3 B | A3 G E3 G | A6 z2 |
-w: タ _ ト ヘ | シャ ショ ク ハ | タ オ ル ト | モ
-B3 B A3 B | A3 G E3 E | D3 D E3 D | D6 z2 |
-w: シュ ヤ ウ ノ | ア ハ ハ _ | ハ ム マ ジ | ト
-!f! D3 D D3 D | B3 B B3 B | A3 G E3 G | A6 z2 |
-w: カ _ タ ク | チ カ ヒ テ | ト ウ カ イ | ノ
-!mf! B3 B d3 B | A3 G A3 B | D3 D E3 D | G6 z2 |
-w: タ イ ワ ン | タ ウ ニ _ | ワ タ リ タ | リ
-!mf! D3 D G3 B | d3 d B3 B | A3 G E3 G | A6 z2 |
-w: こ う ま う | じ ん ら を | お ひ は ら | ひ
-B3 B A3 B | A3 G E3 E | D3 D E3 D | D6 z2 |
-w: と り で を | か ま へ _ | し ろ を つ | き
-!f! D3 D D3 D | B3 B B3 B | A3 G E3 G | A6 z2 |
-w: へ _ い き | しよ く れ う | た く は へ | て
-!mf! B3 B d3 B | A3 G A3 B | D3 D E3 D | G6 z2 |
-w: と _ き の | い た る を | た だ ま て | り
-!mf! D3 D G3 B | d3 d B3 B | A3 G E3 G | A6 z2 |
-w: ア ハ レ ヤ | テ ン ハ _ | コ ノ ヒ ト | ニ
-B3 B A3 B | A3 G E3 E | D3 D E3 D | D6 z2 |
-w: ヨ ハ ヒ ヲ | カ サ ズ _ | イ ツ テ フ | ニ
-!f! D3 D D3 D | B3 B B3 B | A3 G E3 G | A6 z2 |
-w: ジ フ シ チ | ネ ン ノ _ | カ ン ナ ン | ハ
-!mf! B3 B d3 B | A3 G A3 B | D3 D E3 D | G6 z2 |
-w: ミ _ ヅ ノ | ア ワ ト ゾ | ナ リ ニ ケ | ル
-!mf! D3 D G3 B | d3 d B3 B | A3 G E3 G | A6 z2 |
-w: し げ ふ は | つ ひ に _ | な ら ざ れ | ど
-B3 B A3 B | A3 G E3 E | D3 D E3 D | D6 z2 |
-w: め い ぢ の | み よ の _ | み ひ か り | に
-!f! D3 D D3 D | B3 B B3 B | A3 G E3 G | A6 z2 |
-w: き _ み が | い さ を は | あ ら は れ | て
-!mf! B3 B d3 B | A3 G A3 B | D3 D E3 D | G6 z2 |
-w: か い ざ ん | しや と う _ | つ き き よ | し
+w: 1.~ハ _ ハ ハ | ヒ ラ ト ノ | タ ガ ハ ウ | ヂ
+w: 2.~は づ か に | よ _ ぜ ん | た も ち た | り
+w: 3.~ギ ヘ イ ヲ | ツ ノ リ _ | タ タ カ ヘ | リ
+w: 4.~い た く う | た れ て _ | や ぶ れ た | り
+w: 5.~タ イ ワ ン | タ ウ ニ _ | ワ タ リ タ | リ
+w: 6.~と _ き の | い た る を | た だ ま て | り
+w: 7.~ミ _ ヅ ノ | ア ワ ト ゾ | ナ リ ニ ケ | ル
+w: 8.~か い ざ ん | しや と う _ | つ き き よ | し
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](teiseiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJlYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9B5GuRBcuScwsTwSaqKWl8LJl7bOOCU-75itoaXEp2ioYGlhw2dsquHPZGOmb2IH0gXxvpfBs2obn21coPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7Pb3u_peLqh--mOHc-XT3yyawpY6Vqg0qc7tzyfsuL9nk6we57saHi2aO6z1r4nOzpfNvcpAI1_3NBFij2PG7pBVi1Z_mzt4qe9jU929QBtgDCezel4v6fn-ZZFz2bveDFzvoKBuZGprokhzO4XK-e93zPrRfuu542Ln-_Y-3zu4qe75gBth1sFsQndjtmzgRYAnYvNdAUjM5jpz2ZvoqHpBM0FGvp8zRpgwCMFecezGWufTuoBBc6OBqAgigWmRsZ6xuYKJsZGRromMGvghoIsAJv7dMdmiNFAU562dQENDTAyNAea9LRv_rMVMxWMTAwVXi5oBBvApa-lYEstwKWgoGCnEK3o5x_iGgvhaGmBLAU6f3P7ixVdLzrage4DRurT1hXPprVraYFTYO-z9k6FBFAW1csqSE941DAZxLEEc6Cunr1DoUAP6HADoCTQ-SBRXAl3zRoFS4WXy6YBvQeMXIgrdIHueLFq_7OG5SAXdPcCAxNk96zHzR1AYVAy7O59unYC0DXuCsBIBoopAHOVAlAUbErPy4b5T3ctU3g0cyUk48ENfd7Z8XLuIlCMds8AmwiRUlAw1FOAuASYQZ6vbwCaDIrqHZ0vFvaAxA3h4p1A9z_fPuvF2jnPm3YpJLiY6Cm4mAARiAL6viPBNF5PwTQeiEAUUATknic7up9N2_l8w0Kgtie7lj3ZO0cBpA6iDKyqA-RR1KQEdCvWNAjU_XL1jKetq0FeTDDVM1UA4gSFJzt6n07oAVs2BWgYWupKAJbL8YYG-gXAlAUsPDOLUzOz8xMUnnV2P-tqeTZnDcg9EGeDXA00rOFFOzAxdz5uaIIFkREkiGBBAQ6fBiADkkKArnrc0PN0TvfT5ZOfd-wC-uhx4-THjf2PG2c_bmx53NQCNgwYPx2gMNjRDQyGp70bgFoeN21-3LT-cdPux01LHjcvAasBhRkoP8yeDTQfavKS5U93A_Mv0Nj5IAMbgRm883HjuseNS8Dc1S-WgcpHsI1AEWBAAGV3PG7qBhsIMg0UcTDTwIasACp4vmTf8xXbwRqnAx0JJtuBhoC1rwcr6wIZAlTc1IQwakczwmGTQanlcWMTUD1IVxPQRy1Pl6wECy573DQZYtSztUue7IIHC9DZm4BmgqVWP25oeLl3IUiqCSgLtBRYygHNmQT04-PGqY8bZ4FK9DlzwXqBLgT6btnjxq0wvb2wKIJlYKDqxw2NwFoHzH86fdbTiXtgLmwC6nra3Q4zairYkH0QvxOKuwZ4lQb1GsgEsAKQYmDgg6IDJgsyHOyF6WC_dEAdM2E2WLb3ceN-sPqe5x3bXixbBRZcCEbA0AZZ93QCKKk8bgRKgULvRdfcl_sgIkCnAtW0QW1saHi2HiIODDdw-Deuf7pz87OOHWDBTY-bgCKQcF73fMqGp9vnPtsAjFxIKgImA6AuoFGLkFI6PBh3ATMbPBifzdkI0wh0AFAL2F-N6142dj-duBcs3gaM68dNjUC_g6WAcTf_cVMD2LPLgO58smMtsGSE-hTs_seNkyDJA1RPTdsJlup63Lgbohco_mzKbrAgMNCAYdj4tB9YSAK5YO8A_dXUAw3VXqBjgOL7gcEFC9h1z-bNgQQLmAuMrHVPm3e_nLkGLLgD7KqZsFgDpcCnza2wYFwKy1yrXy6Z8XTaDFjKnANx7ZP9kKQI9B0oOYFjDcjuwkyHwDBFpMONYPObgIU2UAvQncBs0glMcrA8uxri7Ce7wBkBGAhNoHLgceM2UO4DJiSgC5c1PdkLTLGQ1AVx4XKww-Y-n70ObDiojgQa9XwOJA2DbAGHFTAWdgK9DHEJKBlDoxKShiFRuR6Yb2A5FJQ3gT4Cir_YBXQYKGxhWXINPEKf71v5tBWYDYGyfeAgBcd706Sn3ZBYBuZToKuAIl3POjbAQmwuzOXAogkjxIDlHXKIkV_iARMbsMQANU_AKoERtAdWpoHMAYbbsynAhAGUBWZSYGwCxbciBxG42AEqA5YMvU_XA_0FSgBgZTOB5j-buvXFbkimAwYgMDQmwEo5UEICWwF0cP-zTqAgKF-ApYB-B2a3Zc-mgtMqqKTdBi0tsSceYCsBERTkFtcNwHbFy5mQ7AnOtiAt0JLq-SZINMHKbXABAk4qQF_PAJoAsxqckRv7X6yCeAcYmJCIACaSZc_mbny2FeIeoPOAORqoGJL91wFth7Qon24G-hQWiU39oFICxIZmvWc7ICU_MBJBWR4UFFgDBNhgQgqQ51tan62fDUyuz9cC60pIcQ20HehyIDkDXBABxSEpFmgg0KlAr4HdDEy3C5ZBHQyyazlSXQPUvuPp_D5YcIEzIEgKmLqgCQOY4J_OXPFy8fxn02bCShJgkALTAFA9OCmCIhTktRebIAkMFHSwEAYqBmWcZzOB5QYkxCB5HJikwWkGktNBWhaAHQOsPbGUKs3IeWRAK19Y8QtssDWD2_5ANcCUA8xK08HpZC3MAetedG58OXsxWAHQj0A3rIK7DRQgG7Y82wwp94BlOLD4BbqwCZgkwAqAoTQPrB4YWasfN04EZ3D0tAH0BiJM9k9_tnQtNBKBVQzUtetfgmp_SLkE9iPINKCxQMY0cKytBLlkRt-zTeBKB1yRQWtGkHv2P9kNdj-0HACJPG2FpD1gYIJzBNiFuCp6pCYBMJCBvgP7HVwmgKJgWvfTjRuBufvlAojLQfkI7DBgWEFyOih_gerEOR3PdkCqKlCyBCGok6ZDg4XyfhEUKGjpc3GFQNvKVgGZiXn5DjUGNdUgSxRsDM20wBGggK1HBmopg9rQC3sUNEygDWYdBVgvSROLBqBdIMNqFKpz02pBzXBdIARShmCGMVDCFCIEZMNEjMAsQwUziGpDuBAEGgBxDdhUH8MahcdNi8CiIBrY1IaytwL1PG6eB-VtB7IhMkCdQP5mqPh6IN4NZS8B64CpAkGQ7VB7jIBy4JIWKgXkQOl1IG2NEHFgrAJxI1SmBSzTDeXNB8o0QNm9YJll2K0yBjljA0RlcxdQ1xooeyXY6euhvG4g7kN4qXk2VHwtEE-DsleDZTZht8cE5Ib5cLciXArxETQgwTKrEfY09kPFlwBxD5S9A-wyiH4Me0xBcvth4dbcAaVngPVsf9y8GBp0QOZyJP_1g-Uh-h43rQL7BmYCyFeQSMewzQzkxslQd7UB8T44GyQzA2oeKJ46oexJYJkuqLpNQAx1A1AFSAZH-JkjJT2gax83w-IJkpCgKaJ5M1gWHn6wpAeMu8fNk1B8hCP8LMBJD-q6SUC8FcpejxJPIHcjx9MquB-AxQ2U3QOWWYlhD_7svquHnOwOy82QjIslVwMpYN6HlwdQUSALLgqBaLkdFrDA_IqWd-G5ehlq1kAqE2CZAVQigMxagT3Iwbkd2pmByoKCHpZ0kJPLbpQsDpKBZkRgMQAs2-GRAHIHJLtg2AbK8FA3gtTCknk7kgsfN-0FshdCZbrBMlAXAIuHx80LoDIzwfasxW4POMO3QN26EIj3QNngrAaXARYsjcsRodc4FSo-FSnp7QTL9GK3B5zhgbl5KdRRoIiClHWgaEHPNUh5A8oGeQdRdIPLFmipgWEVOLfDgghYVkIdDsvTsIjZBy6jEF6C5qamXrBKiBpwEsLlJVBeh0UF2NWwnLsJ7B9olIESGHDsDG4PLOE1A8tQeHkwlVBeR6o_gM0UKBtSJsNKww6wCMI_UHFwGQD1MzA0QDKwEgFhD4GqHTQwSHrVjlKzI1iIUoDsun0tVPxxM7SqAqZ3UABCAwlIgyoHWEJDyhegaALmcgh71ePmZeAYwVHngjM8LBSBdQ2cDQl3aH0ArLFRwx2SpkCpBtiBhLIh9QxmuCPqduQCDOZAcBZEqg-ATkbYA_M6MLU9bobWucCAQZiFYQ84q8MyLihDw2pBcMsDmH4gvJlItTZIBzSXgv0zAWoPpLjD4R9wVofJIWprcM0EiyKgPMJn4NCBtQFABTU870AiD1Zso9kDzuewHIwoqiDtKFAPDSoAinNYowQSEbAGDlAGHo3gIgVX8wtcrUMjFphZEVHUCHZgL5QHqtaR6xhYqQ0Sh6XAzUiFGoY94GodYhrITbAEB6miYR4E2Q8roCDVfRM0uEDVOqyZAtGD6R-8WR04JkN2Kx6WmyEtd-RcjajtsdfskFY_BKJX7LCAQtQDqLliJSLlQOsRWHoDVYFQPcA0BdIDCSaMQAfnc1gyWIpUQ4BbytBkBOLPgZoGSf2woqcJyIZWwpDKHljKYrUHXKVDSgpQSxdRE4DrC2B9APMFSj6H-2c_UoICt5PhqtDsQanSgT0MeOscJfEDEwgieYDsgenYhpRd8PoHqQ0PLreaYa10cBKHywDzM7xmA7kalkCB_oH6AMTG4x-k-hySvyE0pBRG8ie01ILV87BMDmw3wEs6SHmPwz_g-hyiC-SLViiN2joBdg7hJdU-lKoF1BuBuWAjWAZH-QjO5LA0BqrPYS1xSLoCDQBAJVeAIw0edPBmfS8iGIDJE6wJw6paLi5dOwVYhz7axzBWAYVvhMY3RuOboPFN0fhmaHxzNL4FmK_MBQA)]
+- [主旋律 TMD 檔案](teiseiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJlYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9B5GuRBcuScwsTwSaqKWl8LJl7bOOCU-75itoaXEp2ioYGlhw2dsquHPZGOmb2IH0gXxvpfBs2obn21coPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7Pb3u_peLqh--mOHc-XT3yyawpY6Vqg0qc7tzyfsuL9nk6we57saHi2aO6z1r4nOzpfNvcpAI1_3NBFij2PG7pBVi1Z_mzt4qe9jU929QBtgDCezel4v6fn-ZZFz2bveDFzvoKBuZGprokhzO4XK-e93zPrRfuu542Ln-_Y-3zu4qe75gBth1sFsQndjtmzgRYAnYvNdAUjM5jpz2ZvoqHpBM0FGvp8zRpgwCMFecezGWufTuoBBc6OBqAgigWmRsZ6xuYKJsZGRromMGvghoIsAJv7dMdmiNFAU562dQENDTAyNAea9LRv_rMVMxWMTAwVXi5oBBvApa-lYEstwKWgoGCnEK3o5x_iGgvhaGmBLAU6f3P7ixVdLzrage4DRurT1hXPprVraYFTYO-z9k6FBFAW1csqSE941DAZxLEEc6Cunr1DoUAP6HADoCTQ-SBRXAl3zRoFS4WXy6YBvQeMXIgrdIHueLFq_7OG5SAXdPcCAxNk96zHzR1AYVAy7O59unYC0DXuCsBIBoopAHOVAlAUbErPy4b5T3ctU3g0cyUk48ENfd7Z8XLuIlCMds8AmwiRUlAw1FOAuASYQZ6vbwCaDIrqHZ0vFvaAxA3h4p1A9z_fPuvF2jnPm3YpJLiY6Cm4mAARiAL6viPBNF5PwTQeiEAUUATknic7up9N2_l8w0Kgtie7lj3ZO0cBpA6iDKyqA-RR1KQEdCvWNAjU_XL1jKetq0FeTDDVM1UA4gSFJzt6n07oAVs2BWgYWupKAJbL8YYG-gXAlAUsPDOLUzOz8xMUnnV2P-tqeTZnDcg9EGeDXA00rOFFOzAxdz5uaIIFkREkiGBBAQ6fBiADkkKArnrc0PN0TvfT5ZOfd-wC-uhx4-THjf2PG2c_bmx53NQCNgwYPx2gMNjRDQyGp70bgFoeN21-3LT-cdPux01LHjcvAasBhRkoP8yeDTQfavKS5U93A_Mv0Nj5IAMbgRm883HjuseNS8Dc1S-WgcpHsI1AEWBAAGV3PG7qBhsIMg0UcTDTwIasACp4vmTf8xXbwRqnAx0JJtuBhoC1rwcr6wIZAlTc1IQwakczwmGTQanlcWMTUD1IVxPQRy1Pl6wECy573DQZYtSztUue7IIHC9DZm4BmgqVWP25oeLl3IUiqCSgLtBRYygHNmQT04-PGqY8bZ4FK9DlzwXqBLgT6btnjxq0wvb2wKIJlYKDqxw2NwFoHzH86fdbTiXtgLmwC6nra3Q4zairYkH0QvxOKuwZ4lQb1GsgEsAKQYmDgg6IDJgsyHOyF6WC_dEAdM2E2WLb3ceN-sPqe5x3bXixbBRZcCEbA0AZZ93QCKKk8bgRKgULvRdfcl_sgIkCnAtW0QW1saHi2HiIODDdw-Deuf7pz87OOHWDBTY-bgCKQcF73fMqGp9vnPtsAjFxIKgImA6AuoFGLkFI6PBh3ATMbPBifzdkI0wh0AFAL2F-N6142dj-duBcs3gaM68dNjUC_g6WAcTf_cVMD2LPLgO58smMtsGSE-hTs_seNkyDJA1RPTdsJlup63Lgbohco_mzKbrAgMNCAYdj4tB9YSAK5YO8A_dXUAw3VXqBjgOL7gcEFC9h1z-bNgQQLmAuMrHVPm3e_nLkGLLgD7KqZsFgDpcCnza2wYFwKy1yrXy6Z8XTaDFjKnANx7ZP9kKQI9B0oOYFjDcjuwkyHwDBFpMONYPObgIU2UAvQncBs0glMcrA8uxri7Ce7wBkBGAhNoHLgceM2UO4DJiSgC5c1PdkLTLGQ1AVx4XKww-Y-n70ObDiojgQa9XwOJA2DbAGHFTAWdgK9DHEJKBlDoxKShiFRuR6Yb2A5FJQ3gT4Cir_YBXQYKGxhWXINPEKf71v5tBWYDYGyfeAgBcd706Sn3ZBYBuZToKuAIl3POjbAQmwuzOXAogkjxIDlHXKIkV_iARMbsMQANU_AKoERtAdWpoHMAYbbsynAhAGUBWZSYGwCxbciBxG42AEqA5YMvU_XA_0FSgBgZTOB5j-buvXFbkimAwYgMDQmwEo5UEICWwF0cP-zTqAgKF-ApYB-B2a3Zc-mgtMqqKTdBi0tsSceYCsBERTkFtcNwHbFy5mQ7AnOtiAt0JLq-SZINMHKbXABAk4qQF_PAJoAsxqckRv7X6yCeAcYmJCIACaSZc_mbny2FeIeoPOAORqoGJL91wFth7Qon24G-hQWiU39oFICxIZmvWc7ICU_MBJBWR4UFFgDBNhgQgqQ51tan62fDUyuz9cC60pIcQ20HehyIDkDXBABxSEpFmgg0KlAr4HdDEy3C5ZBHQyyazlSXQPUvuPp_D5YcIEzIEgKmLqgCQOY4J_OXPFy8fxn02bCShJgkALTAFA9OCmCIhTktRebIAkMFHSwEAYqBmWcZzOB5QYkxCB5HJikwWkGktNBWhaAHQOsPbGUKs3IeWRAK19Y8QtssDWD2_5ANcCUA8xK08HpZC3MAetedG58OXsxWAHQj0A3rIK7DRQgG7Y82wwp94BlOLD4BbqwCZgkwAqAoTQPrB4YWasfN04EZ3D0tAH0BiJM9k9_tnQtNBKBVQzUtetfgmp_SLkE9iPINKCxQMY0cKytBLlkRt-zTeBKB1yRQWtGkHv2P9kNdj-0HACJPG2FpD1gYIJzBNiFuCp6pCYBMJCBvgP7HVwmgKJgWvfTjRuBufvlAojLQfkI7DBgWEFyOih_gerEOR3PdkCqKlCyBCGok6ZDg4XyfhEUKGjpc3GFQNvKVgGZiXn5DjUGNdUgSxRsDM20wBGggK1HBmopg9rQC3sUNEygDWYdBVgvSROLBqBdIMNqFKpz02pBzXBdIARShmCGMVDCFCIEZMNEjMAsQwUziGpDuBAEGgBxDdhUH8MahcdNi8CiIBrY1IaytwL1PG6eB-VtB7IhMkCdQP5mqPh6IN4NZS8B64CpAkGQ7VB7jIBy4JIWKgXkQOl1IG2NEHFgrAJxI1SmBSzTDeXNB8o0QNm9YJll2K0yBjljA0RlcxdQ1xooeyXY6euhvG4g7kN4qXk2VHwtEE-DsleDZTZht8cE5Ib5cLciXArxETQgwTKrEfY09kPFlwBxD5S9A-wyiH4Me0xBcvth4dbcAaVngPVsf9y8GBp0QOZyJP_1g-Uh-h43rQL7BmYCyFeQSMewzQzkxslQd7UB8T44GyQzA2oeKJ46oexJYJkuqLpNQAx1A1AFSAZH-JkjJT2gax83w-IJkpCgKaJ5M1gWHn6wpAeMu8fNk1B8hCP8LMBJD-q6SUC8FcpejxJPIHcjx9MquB-AxQ2U3QOWWYlhD_7svquHnOwOy82QjIslVwMpYN6HlwdQUSALLgqBaLkdFrDA_IqWd-G5ehlq1kAqE2CZAVQigMxagT3Iwbkd2pmByoKCHpZ0kJPLbpQsDpKBZkRgMQAs2-GRAHIHJLtg2AbK8FA3gtTCknk7kgsfN-0FshdCZbrBMlAXAIuHx80LoDIzwfasxW4POMO3QN26EIj3QNngrAaXARYsjcsRodc4FSo-FSnp7QTL9GK3B5zhgbl5KdRRoIiClHWgaEHPNUh5A8oGeQdRdIPLFmipgWEVOLfDgghYVkIdDsvTsIjZBy6jEF6C5qamXrBKiBpwEsLlJVBeh0UF2NWwnLsJ7B9olIESGHDsDG4PLOE1A8tQeHkwlVBeR6o_gM0UKBtSJsNKww6wCMI_UHFwGQD1MzA0QDKwEgFhD4GqHTQwSHrVjlKzI1iIUoDsun0tVPxxM7SqAqZ3UABCAwlIgyoHWEJDyhegaALmcgh71ePmZeAYwVHngjM8LBSBdQ2cDQl3aH0ArLFRwx2SpkCpBtiBhLIh9QxmuCPqduQCDOZAcBZEqg-ATkbYA_M6MLU9bobWucCAQZiFYQ84q8MyLihDw2pBcMsDmH4gvJlItTZIBzSXgv0zAWoPpLjD4R9wVofJIWprcM0EiyKgPMJn4NCBtQFABTU870AiD1Zso9kDzuewHIwoqiDtKFAPDSoAinNYowQSEbAGDlAGHo3gIgVX8wtcrUMjFphZEVHUCHZgL5QHqtaR6xhYqQ0Sh6XAzUiFGoY94GodYhrITbAEB6miYR4E2Q8roCDVfRM0uEDVOqyZAtGD6R-8WR04JkN2Kx6WmyEtd-RcjajtsdfskFY_BKJX7LCAQtQDqLliJSLlQOsRWHoDVYFQPcA0BdIDCSaMQAfnc1gyWIpUQ4BbytBkBOLPgZoGSf2woqcJyIZWwpDKHljKYrUHXKVDSgpQSxdRE4DrC2B9APMFSj6H-2c_UoICt5PhqtDsQanSgT0MeOscJfEDEwgieYDsgenYhpRd8PoHqQ0PLreaYa10cBKHywDzM7xmA7kalkCB_oH6AMTG4x-k-hySvyE0pBRG8ie01ILV87BMDmw3wEs6SHmPwz_g-hyiC-SLViiN2joBdg7hJdU-lKoF1BuBuWAjWAZH-QjO5LA0BqrPYS1xSLoCDQBAJVeAIw0edPBmfS8iGIDJE6wJw6paLi5dOwVYh14Bja3MBQA)]
 - [鋼琴伴奏 TMD 檔案](teiseiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJlYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqg5lSiC5ckZpYnAq3W0lJ42bL2WceEp13z3-_peDl75rPO7pfde55P2PJkz5anS_vf7-lU0NLiUrRVMDSw4LK3VXDnsjHSN7EDmQcKPiuFZ9M2PN--QuHphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3Qa04umG7qc7djxfPvHJrilgpWuBSp_u3PJ8ygqgXWB3PtnR8GzR3GetfU92dL5s7lMAGv-4oYsUex43dIOsWrL82drFT3sbn-zqAdoAYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE0OY3S9Wznu_Z9aL9l3PGxc_37H3-dzFT3fNAdoOtwpiE7ods2cDLQA6F5vpCkZmMNOfzd5EQ9MJmgs09PmaNcCARwryjmcz1j6d1AMKnB0NQEEUC0yNjPWMzRVMjI2MdE1g1sANBVkANvfpjs0Qo4GmPG3rAhoaYGRoDjTpad_8ZytmKhiZGCq8XNAINoDLM6-kKN8qAJR0gzwcagxqqrkUgMDG0EzLDsyqUajOTatVMI1X0AVCIGUIZhgDJUwhQkA2TMQIzDKE0iARiGoINADiGq5aFEt9kC01QbXTMF4h2jAWZAiMYRoPZJnGQ8UMIKaFpGYWp2ZmU98XZhDVhnAhZG-ATPUxrFF43LQILAqiHzctgbK3AvU8bp4H5W0HsiEyQJ1A_mao-Hog3g1lLwHrgKkCQZDtUHuMgHKN0x83tUGlgBwovQ6krREi_rhpMhA3QmVawDLdUN58oEwDlN0LllmG3SpjkDM2QFQ2dwF1rYGyV4Kdvh7K6wbiPoSXmmdDxdcC8TQoezVYZhN2e0xAbpgPdyvCpRAfQQMSLLMaYU9jP1R8CRD3QNk7wC6D6MewxxQktx8Wbs0dUHoGWM_2x82LoUEHZC5H8l8_WB6i73HTKrBvYCaAfAWJdAzbzEBunAx1VxsQ74OzQTIzoOaB4qkTyp4ElumCqtsExFA3AFWAZHCEnzlS0gO69nEzLJ4gCQmaIpo3g2Xh4QdLesC4e9w8CcVHOMLPApz0oK6bBMRboez1KPEEcjdyPK2C--FxIzQ9NPWAZVZi2APNobAMiCg80DIikAIVAWA2kIKKAllwUQhEy6CwsABmMbTsBs-Iy1BTM1I2hqVfUCYGmbUCeyiBM-hCYAaF5UVIaMFiGzmGd6PkSpAMNO8Ac-7jRoj50LgHhhhW20B5FOpGkFpYymxHcuHjpr1A9kKoTDdYBuoCYI5-3LwAKjMTbM9a7PaA82gL1K0LgXgPlA3OHXAZYFnQuBwReo1ToeJTkVLLTrBML3Z7wHkUmAGXQh0FiihI8QSKFvSEjpScoWyQdxClLbg4gGZ0DKvAGRQWRMDiDepwWDaERcw-cLGC8BI0AzT1glVC1ICTEC4vgbInLCrAroZltk1g_0CjDJTAmnYh7IElvGZgsQfPwlMJZU-kIv9xIzSkoMUorADrAIsg_AMVB2dbqJ-BoQGSgWVihD2wChSl_kSwEBmX7Bp0LVT8cTO0QgAmUZCfof4C0qAiGJY2kJIyKGSBGRPCXvW4eRk4EHHUbOA8CvM4sESHsyFBBS11gfUialBBkgEooh83zoSyIaU5ZlAhalDkMgfmQHCuQSp1gU5G2APzOjCBPG6G1mzAgEGYhWEPOHfC8hooD8LqGnD9DoxyCG8mUt0I0gHNWGD_TIDaAymhcPgHnDthcog6EVz-w6IIKI_wGTh0YDUtqGyFJ3dI5MFKWjR7wFkTlukQpQuktQJs_MA8BIpzWNUPiQhYMwIoA49GcCmAq5EDrjyhEQvMX4goagQ7sBfKA1WeyNUCrKAFicNS4GakcgjDHnDlCTEN5CZYgoNUhDAPguyHlSmQSrUJGlygyhPWGIDowfQPcvMWlgEhTVrsDXLs9SdmMx1RfcL8hihtURPySkRkQ0trWBIBVTRQPcBkANID8RlGOIGzJizmliKVw-AmJDTmQfw5UNMgCRZWWjQB2dCqDlKlAssyrPaAK05I5gY1ARHlLbhUBpa6MF-gZE24f_YjpQFwAxKuCs0elIoT2PSGN1tR0iswThExCrIHpmMbUgrH6x-kxi24qGmGNV_BqRIuA8yC8PoD5GpYmgL6B-oDEBuPf5BqTUiWhNCQghPJn9CCBlabwvIlsHaGF06QIhqHf8C1JkQXyBetUBq1DQDsNcELl30otQGomQ5zwUawDI4iDZwvYWkMVGvCmqiQdAUsbGCeWgGONHjQwdu7vYhgACZPsCYMqzD6pqR3ds2AGMICdXYhykEKIH1gVBVIggjFoFoboYGg2ahOQTMVo-eta6cA7sorABkwn0b7ALWi8I3Q-MZofBM0vika3wyNb47GtwDzlbkA)]
 
 ## 分析
@@ -160,14 +168,14 @@ w: か い ざ ん | しや と う _ | つ き き よ | し
 ================================================================================
 📊 TMD Song Profile: [ 鄭成功 ]
 ================================================================================
-⏱  Duration:       2:22 (142.2s), 128 measures total
+⏱  Duration:       0:35 (35.6s), 32 measures total
 🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Teiseiko[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Teiseiko[L1] #1 @ m.2, 0:01]
+   - 最低音:  D4 in [Teiseiko #1 @ m.1, 0:00]
+   - 最高音: D5 in [Teiseiko #1 @ m.2, 0:01]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Teiseiko[L1] (17.8s) -> Teiseiko[L2] (17.8s) -> Teiseiko[L3] (17.8s) -> Teiseiko[L4] (17.8s) -> Teiseiko[L5] (17.8s) -> Teiseiko[L6] (17.8s) -> Teiseiko[L7] (17.8s) -> Teiseiko[L8] (17.8s)
+🏛  結構:      Teiseiko (17.8s) -> Teiseiko (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -175,16 +183,10 @@ w: か い ざ ん | しや と う _ | つ き き よ | し
    - 核心骨幹音:  D, A, B, E, G
    - 調性數值:    D 大調 [相關度: 0.85, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.85), G 大調 (0.65), B 小調 (0.63)
-   - 五度圈歷程:   +2 -> +2 -> +2 -> +2 -> +2 -> +2 -> +2 -> +2
+   - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Teiseiko[L1] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Teiseiko[L2] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Teiseiko[L3] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Teiseiko[L4] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Teiseiko[L5] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Teiseiko[L6] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Teiseiko[L7] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [Teiseiko[L8] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Teiseiko #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Teiseiko #2]: D 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -211,7 +213,7 @@ w: か い ざ ん | しや と う _ | つ き き よ | し
      B  : ████████████████          20.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 416 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 104 個音符)
 ================================================================================
 ```
 

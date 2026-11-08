@@ -61,32 +61,43 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 z4 z2 G A | G4 z2 F2 | E D C z z2 C2 | C4 c3 A |
-w: や ま | の お | く か ら み | づ の み
+w: 1.~や ま | の お | く か ら み | づ の み
+w: 2.~い ぬ | は み | る よ り よ | ろ こ ん
 G6 G A | G4 z2 E2 | A B c z z2 A2 | G z z C E4 |
-w: に し か | が た | に へ と で | て き た
+w: 1.~に し か | が た | に へ と で | て き た
+w: 2.~で し か | を め | が け て ほ | え つ け
 D6 E E | E4 E2 E2 | E4 E2 A2 | E2 E2 A2 B2 |
-w: が た ま | た ま じ | ぶん の か | げ を な が
+w: 1.~が た ま | た ま じ | ぶん の か | げ を な が
+w: 2.~ば あ わ | て て に | げ る さ | ま を か し
 c6 G G | G4 G2 G2 | G3 G G2 G2 | G2 F2 E2 D2 |
-w: め き れ | い な つ | の だ と み | と れ て ゐ
+w: 1.~め き れ | い な つ | の だ と み | と れ て ゐ
+w: 2.~_ さ れ | ど も さ | す が に あ | し の は や
 C6 G2 | A2 G2 A2 B2 | c4 z2 e2 | d2 c2 A2 B2 |
-w: る き | れ い き れ | い う | れ し う れ
+w: 1.~る き | れ い き れ | い う | れ し う れ
+w: 2.~さ は | や い は や | い う | れ し う れ
 c6 z2 | z4 z2 G A | G4 z2 F2 | E D C z z2 C2 |
-w: し | い ぬ | は み | る よ り よ
+w: 1.~し | や ま | の お | く か ら み
+w: 2.~し | い ぬ | は み | る よ り よ
 C4 c3 A | G6 G A | G4 z2 E2 | A B c z z2 A2 |
-w: ろ こ ん | で し か | を め | が け て ほ
+w: 1.~づ の み | に し か | が た | に へ と で
+w: 2.~ろ こ ん | で し か | を め | が け て ほ
 G z z C E4 | D6 E E | E4 E2 E2 | E4 E2 A2 |
-w: え つ け | ば あ わ | て て に | げ る さ
+w: 1.~て き た | が た ま | た ま じ | ぶん の か
+w: 2.~え つ け | ば あ わ | て て に | げ る さ
 E2 E2 A2 B2 | c6 G G | G4 G2 G2 | G3 G G2 G2 |
-w: ま を か し | _ さ れ | ど も さ | す が に あ
+w: 1.~げ を な が | め き れ | い な つ | の だ と み
+w: 2.~ま を か し | _ さ れ | ど も さ | す が に あ
 G2 F2 E2 D2 | C6 G2 | A2 G2 A2 B2 | c4 z2 e2 |
-w: し の は や | さ は | や い は や | い う
+w: 1.~と れ て ゐ | る き | れ い き れ | い う
+w: 2.~し の は や | さ は | や い は や | い う
 d2 c2 A2 B2 | c6 z2 |
-w: れ し う れ | し
+w: 1.~れ し う れ | し
+w: 2.~れ し う れ | し
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shika_no_mizukagami.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJmaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYgy6alpiUk6rEpaWl8HLn_seN655t2PKyf6GClhaXoq2CpRmXva2CM5eNkb6JHUgjyPdWCs-mbXi-fYXC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54Obvt_Z6Opxu6n-7Y8Xz5xCe7poCVrgUqfbpzy_MpK97v6QQ76MmOhmeL5j5r7Xuyo_Nlc58C0PjHDV2k2PO4oRtk1ZLlz9Yuftrb-GRXD9AGCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhiC7ebS11KwpRbgUlBQsFOIVvTzD3GNhXC0tJ72zQfZu7n9xYquFx3tQDe_WDnvaeuKZ9PatbTAodP7rL1TIQGUfPSyCtITHjVMBnFMwRygwyEGKBToKRiZmAEljUzMQaK4AnXNGgVDI4WXy6YB_fd-zyyIM3SBDnmxav-zhuUgJ3T3AoMBZPmsx839QGFQGHX3Pl07AegcZwVgGALFFIBRrgAUBZvS87Jh_tNdyxQezVwJShQg6_dsfLF1O1i-A2SlEUjt0309T3u7nraufNrQDQx6kJs62l7O3_x8zTKgYmCEAQ173NCEcNLzzo6XcxcBY_Np9wywe4Ceeb591ou1c4DOfL5hIZDxsmEC0IRnC3YAwwmYSl60bwHZ3twKtOXFzKnP-iYBzXi-ZcPTfeuebl_3fOoGuJcVFAz1FMChYQpKQc_XN0Cc-nT27BcLe0ASxnDxTohdT_bOUUgw1TNVAEJgyIM9Zgjy2MuZLS93AyNtNdA_T7sWwP0GCRy4o-Hqn7cshGgBye6bC4nzxw09wPz1uHHB48YVjxv3v9_T_7hx5uNGoODqx41Njxt64X5-sWLG86ZdQKcAA0kX5BgwqZsADzsFBSOo3yxQ_AZ0CdRvRlj9ZhinYBavYBwH8hyKqyHR19kLjD6gzRCPPtkz8dnaRcC4A_kYLAKJSoUEsAEgn4Os3NEAtAYYt0AzgPJAg0H-bFryuKHhcdMyoK_Acd4IdlwPFpWNLSCVjcD8C01qwPBCpAJoQADdDQoJXQUDIDYGcuBBActlQGcAbQGWWmD-043ApNbxuKnlceM-kP2N654uXQ4Saex63NgPFul-3NQJKusWbwKLA4u-pUBlYCkgezXEHGCRCJadDlQPlup5sWE7WGQ-UA1YZAcwNp-27wILAq0Aiix7sg9U6j1uBHsdpLIHYhqYvQ9CvmhfBU4_QGUzHjdue9w0GerOvWCXA53XOAkk0jTpceMqUCJpaoQZ0vu4CRxsjateLAeqASpeAnM5NGmBSJCaZY-bJjxu6sbQCGNAAh7Eno7KRgvbXT1IYfu8aw3YUqA5QAbQ0vUvloGKXnCSBjoYGLDAkO8Ck72PGycDvQYMGezhCfRdUyM4C0wEuvbphAVg2d1gYyH-AopvgLm_6XETMMssA6KXDc1glZAoABrS_XQ5xOSp0BgHhRswDKfD9E4Fe23l46YmsBpovnuxDZwMgSY3ToeE_7PpK8Ei64GJBywyFWIChngLpgiB8KS8foECBS19Lq7gjMzsRL9838yq0uzE9MTcTKuAzMS8fIcag5pqkG0KNoZmWuAoVMBWxSlACnBQkQPOw8BiQ0EDVutoYlEPtBNkVg04C8KyoqmCGVAEUkxBREyAuAZYshoBC0IDsIghWAREgiA0JyNrg5RxQBGwBT6GNQrxUFEQDQxdYPTtA6oHxg6yeGMX2GBgfgbibqC6TqA4RGY_VGYpVD1MJ0gGJL4ayWZg_ID1Q203QrO9EWT7GrCu9SjiUDuaQDZ3AHEXzHYgDyLTC7dhMoRumgw2ZzlW23HHFKToBEeQCbRU11EgKqqQI8YY7CozBXNQFEBixgwsZArmGYIVgGANMO4QDjQGQkTEAHMNSiDMhwb0aiDeAcQr4FEA8iRIZhlYBFjkQFVDbECYAwmE-ZAohkcBMPsi29PUCNcFLBHgpoJ07obKdEDtWQJWgbBnA4o9TUCz-gkG9o5OcgIbFn4gGhLYyCKQsIbJgXjmYBF4zQbJBaYogQ0LMFDggMgZUE-Bqgu4FChpg5IQRAoUbpDQA9YPYBIU0qAQBYUhIiSA8dHUgxziwDCFyYFYkEwCMxGSfEF2AAtEqDjYSVCbIDLTwTIIWyCqIfbgDXFIk4zs5A1tHsFF4A0mqAioTAKFOihdI0oimE7kAG-BuxsSdkugfoUVHwvAaRy5iAHzgD6Eh1vTBGh4g8IEObzhNoFDeyU8VJtQQnUmVD0opYNiAJRmITKg0IXFNqgoAhWMEBmQXoRNIDmCxQmomUhyeINSLSjEsKReWLsMVHqAKLAEjlQOUosU6NDAA3kGEkwQEeTogGT1NmjAQtRDggMkhlAPEoNBkB7kAgViPoREDT7Kbanl4tK1U8CokaN9DGMVsEsYgSWUuQA)]
+- [主旋律 TMD 檔案](shika_no_mizukagami.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJmaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYgy6alpiUk6rEpaWl8HLn_seN655t2PKyf6GClhaXoq2CpRmXva2CM5eNkb6JHUgjyPdWCs-mbXi-fYXC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54Obvt_Z6Opxu6n-7Y8Xz5xCe7poCVrgUqfbpzy_MpK97v6QQ76MmOhmeL5j5r7Xuyo_Nlc58C0PjHDV2k2PO4oRtk1ZLlz9Yuftrb-GRXD9AGCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhiC7ebS11KwpRbgUlBQsFOIVvTzD3GNhXC0tJ72zQfZu7n9xYquFx3tQDe_WDnvaeuKZ9PatbTAodP7rL1TIQGUfPSyCtITHjVMBnFMwRygwyEGKBToKRiZmAEljUzMQaK4AnXNGgVDI4WXy6YB_fd-zyyIM3SBDnmxav-zhuUgJ3T3AoMBZPmsx839QGFQGHX3Pl07AegcZwVgGALFFIBRrgAUBZvS87Jh_tNdyxQezVwJShQg6_dsfLF1O1i-A2SlEUjt0309T3u7nraufNrQDQx6kJs62l7O3_x8zTKgYmCEAQ173NCEcNLzzo6XcxcBY_Np9wywe4Ceeb591ou1c4DOfL5hIZDxsmEC0IRnC3YAwwmYSl60bwHZ3twKtOXFzKnP-iYBzXi-ZcPTfeuebl_3fOoGuJcVFAz1FMChYQpKQc_XN0Cc-nT27BcLe0ASxnDxTohdT_bOUUgw1TNVAEJgyIM9Zgjy2MuZLS93AyNtNdA_T7sWwP0GCRy4o-Hqn7cshGgBye6bC4nzxw09wPz1uHHB48YVjxv3v9_T_7hx5uNGoODqx41Njxt64X5-sWLG86ZdQKcAA0kX5BgwqZsADzsFBSOo3yxQ_AZ0CdRvRlj9ZhinYBavYBwH8hyKqyHR19kLjD6gzRCPPtkz8dnaRcC4A_kYLAKJSoUEsAEgn4Os3NEAtAYYt0AzgPJAg0H-bFryuKHhcdMyoK_Acd4IdlwPFpWNLSCVjcD8C01qwPBCpAJoQADdDQoJXQUDIDYGcuBBActlQGcAbQGWWmD-043ApNbxuKnlceM-kP2N654uXQ4Saex63NgPFul-3NQJKusWbwKLA4u-pUBlYCkgezXEHGCRCJadDlQPlup5sWE7WGQ-UA1YZAcwNp-27wILAq0Aiix7sg9U6j1uBHsdpLIHYhqYvQ9CvmhfBU4_QGUzHjdue9w0GerOvWCXA53XOAkk0jTpceMqUCJpaoQZ0vu4CRxsjateLAeqASpeAnM5NGmBSJCaZY-bJjxu6sbQCGNAAh7Eno7KRgvbXT1IYfu8aw3YUqA5QAbQ0vUvloGKXnCSBjoYGLDAkO8Ck72PGycDvQYMGezhCfRdUyM4C0wEuvbphAVg2d1gYyH-AopvgLm_6XETMMssA6KXDc1glZAoABrS_XQ5xOSp0BgHhRswDKfD9E4Fe23l46YmsBpovnuxDZwMgSY3ToeE_7PpK8Ei64GJBywyFWIChngLpgiB8KS8foECBS19Lq7gjMzsRL9838yq0uzE9MTcTKuAzMS8fIcag5pqkG0KNoZmWuAoVMBWxSlACnBQkQPOw8BiQ0EDVutoYlEPtBNkVg04C8KyoqmCGVAEUkxBREyAuAZYshoBC0IDsIghWAREgiA0JyNrg5RxQBGwBT6GNQrxUFEQDQxdYPTtA6oHxg6yeGMX2GBgfgbibqC6TqA4RGY_VGYpVD1MJ0gGJL4ayWZg_ID1Q203QrO9EWT7GrCu9SjiUDuaQDZ3AHEXzHYgDyLTC7dhMoRumgw2ZzlW23HHFKToBEeQCbRU11EgKqqQI8YY7CozBXNQFEBixgwsZArmGYIVgGANMO4QDjQGQkTEAHMNSiDMhwb0aiDeAcQr4FEA8iRIZhlYBFjkQFVDbECYAwmE-ZAohkcBMPsi29PUCNcFLBHgpoJ07obKdEDtWQJWgbBnA4o9TUCz-gkG9o5OcgIbFn4gGhLYyCKQsIbJgXjmYBF4zQbJBaYogQ0LMFDggMgZUE-Bqgu4FChpg5IQRAoUbpDQA9YPYBIU0qAQBYUhIiSA8dHUgxziwDCFyYFYkEwCMxGSfEF2AAtEqDjYSVCbIDLTwTIIWyCqIfbgDXFIk4zs5A1tHsFF4A0mqAioTAKFOihdI0oimE7kAG-BuxsSdkugfoUVHwvAaRy5iAHzgD6Eh1vTBGh4g8IEObzhNoFDeyU8VJtQQnUmVD0opYNiAJRmITKg0IXFNqgoAhWMEBmQXoRNIDmCxQmomUhyeINSLSjEsKReWLsMVHqAKLAEjlQOUosU6NDAA3kGEkwQEeTogGT1NmjAQtRDggMkhlAPEoNBkB7kAgViPoREDT7Kbanl4tK1U8CokRVwCSpzAQA)]
 - [鋼琴伴奏 TMD 檔案](shika_no_mizukagami_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJmaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqsQMKJOeiiaYlJOalKXFpaCi937n_cuO7Zhi0v-xe-39PxcvbMZ53dL7v3PJ-w5cmeLU-X9r_f06mgpcWlaKtgacZlb6vgzGVjpG9iBzIQFHxWCs-mbXi-fYXC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54ObsNaMPTDd1Pd-x4vnzik11TwErXApU-3bnl-ZQVQKvADn2yo-HZornPWvue7Oh82dynADT-cUMXKfY8bugGWbVk-bO1i5_2Nj7Z1QO0AcJ4Nqfj_Z6e51sWPZu948XM-QoG5kamuiaGYLu5PPNKivKtAkDBGuThUGNQU82lAAQ2hmZadmBWjYKZgq6CKRCDaHMgrlEwjANSIGgAxMYgTo2CEYgCS2BRB1Nbw1WLYqUPspUWcBtN4hWiTWIVTOOBtGl8LMgkIMswFkbhV2EAsSY4IzM70S_fN7OqNDsxPTE3E58v9bUUbNGBwtM9G19s3f6io_35mjXAGHqxsEdBA5hNTPWyCtI1sajX0oe6H-RVmJdNgeFRAw4_mIgJOGyMFYwUDIF8kIghJLSgaqChhqwNBMEGgS3wMaxRiIeKgujHTS0Kjxv3AdUDEzayeGMX2ODHjf1A3A1U1wkUh8jsh8oshaqH6QTJgMRXI9n8uHE6WD_UdiM02xtBtq8B61qPIg61owlkcwcQd8FsB_IgMr1wGyZD6KbJYHOWY7Udd0yBImhXDziCTED55fn6Bh0FoqIKOWKMwa4yAyZeYBRAYgaUlkGKQDxDsAIQBKZ2JAcaAyEiYh439qAEwnxoQK8G4h1AvAIeBSBPgmSWgUUeN_ZCVUNsQJgDCYT5kCiGR8HjpknI9jQ1wnU9bpwINxWkczdUpgNqzxKwCoQ9G1DsaQKa1U8wsHd0khPYsPAD0ZDARhaBhDVMDkcpYgqEyIENCzBQ4IDIGVBPbQMlJeSkDUpCEClQuEFC73HjKjAJCmlQiILCEBESwPho6kEOcWCYwuRALEgmgZkISb4gOx43ToWKg50EtQkiMx0sg7AFohpiD94Qfzp7NiXJG0SDMEwEFIzIIqAyCRTqoHSNKIlgOpEDvAXubkjYLYH6FVZ8LACnceQiBswD-hAebk0ToOENChPk8IbbBA7tlfBQbUIJ1ZlQ9aCUDooBUJqFyIBCFxbboKIIVDBCZEB6ETaB5AgWJ1PICW-q1pXwQIcGHsgzkGCCiCBHBySrt0EDFqIeEhwgMYR6kBgMgvQgFygQ8yEkavBRbgvuChlHGwBWh8JrdsKtASiF3haAmEe8Hog83DoQA2GMGUjYLD43FomFS9QYxDaGi4JZ6GpxOxCvg7A2eqjYeNK1UwA30xSADIx4i_YBqsUuYQSWUOYCAA)]
 
 ## 分析
@@ -99,10 +110,10 @@ w: れ し う れ | し
 🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  C4 in [ShikaNoMizukagami[L1] #1 @ m.3, 0:02]
-   - 最高音: E5 in [ShikaNoMizukagami[L1] #1 @ m.19, 0:23]
+   - 最低音:  C4 in [ShikaNoMizukagami #1 @ m.3, 0:02]
+   - 最高音: E5 in [ShikaNoMizukagami #1 @ m.19, 0:23]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      ShikaNoMizukagami[L1] (26.2s) -> ShikaNoMizukagami[L2] (26.2s)
+🏛  結構:      ShikaNoMizukagami (26.2s) -> ShikaNoMizukagami (26.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -112,8 +123,8 @@ w: れ し う れ | し
    - 候選調性 (K-S): C 大調 (0.91), E 小調 (0.76), G 大調 (0.74)
    - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [ShikaNoMizukagami[L1] #1]: C 大調 (r: 0.91, 自然音純度: 100.0%)
-     • [ShikaNoMizukagami[L2] #1]: C 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [ShikaNoMizukagami #1]: C 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [ShikaNoMizukagami #2]: C 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*

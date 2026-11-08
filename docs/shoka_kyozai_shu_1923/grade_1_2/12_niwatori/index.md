@@ -50,20 +50,25 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A2 D2 D2 z2 | A2 D2 D2 z2 | D3 D F2 F2 | A2 A2 A2 z2 |
-w: こけっ こっ こ | こけっ こっ こ | に は と り | お い で
+w: 1.~こけっ こっ こ | こけっ こっ こ | に は と り | お い で
+w: 2.~こけっ こっ こ | こけっ こっ こ | に は と り | お い で
 B3 B B2 A2 | d2 d2 d2 z2 | d3 d d2 B2 | A2 F2 A2 z2 |
-w: み ん な で | お い で | お こ め を | あ げ よう
+w: 1.~み ん な で | お い で | お こ め を | あ げ よう
+w: 2.~み ん な で | お い で | い っ しょ に | あ そ ばう
 B3 A F2 D2 | E2 E F D2 z2 | A2 D2 D2 z2 | A2 D2 D2 z2 |
-w: な の は も | み づ _ も | こけっ こっ こ | こけっ こっ こ
+w: 1.~な の は も | み づ _ も | こけっ こっ こ | こけっ こっ こ
+w: 2.~い っ しょ に | う た _ はう | こけっ こっ こ | こけっ こっ こ
 D3 D F2 F2 | A2 A2 A2 z2 | B3 B B2 A2 | d2 d2 d2 z2 |
-w: に は と り | お い で | み ん な で | お い で
+w: 1.~に は と り | お い で | み ん な で | お い で
+w: 2.~に は と り | お い で | み ん な で | お い で
 d3 d d2 B2 | A2 F2 A2 z2 | B3 A F2 D2 | E2 E F D2 z2 |
-w: い っ しょ に | あ そ ばう | い っ しょ に | う た _ はう
+w: 1.~お こ め を | あ げ よう | な の は も | み づ _ も
+w: 2.~い っ しょ に | あ そ ばう | い っ しょ に | う た _ はう
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](niwatori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvReYl5mbmKOEpeWlsLLbf0KWlpcirYKlkZc9rYKLlw2RvomdiANT3Y0PFs091lr35MdnS-b-xSeb1_xuKHr2bQNQIbC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54ObvtcUP3-z0dT5csf7Z28dPexie7ep7u3AJhPJvT8X5Pz_Mti57N3vFi5nwFA3MjU10Tw_d7OpW4uPS1FGypBbgUFBSe9s0HWbO5_cWKrhcd7UAnvlg572nrimfT2kHu29D7rL1TARRpelkF6Y8aJgOZxiAm0IUQrQoFegpGJkAZI1OQ2Ibupzt2PF8-8fmaNcBAetwA9tnaHUDPAUUUDI0UXi6bBvTJ-z2zELY_m73p6YTeFwtXvFgxAyjxuHH148b1jxtXPG7qAil6sWr_s4blIMd19wLDA6SiuRsoCAqq7t6naycAHeqiAAxKoJgCMIYUgKJgK3oezVxpC4w7kBkrdgP1gZ0AdJMRKI6er28AugWo9smuKc-3z3qxds7LmS3P5nQquCmbAE00BhrxYvHcl4v3vZy_-XFDExfIGIiXHjdtfty08XFzC4gBIRsaMAVBGl5ubwGahewjoLGPG7seN7Y8blwO0ta4_3HT5MeNq0BcmDhIJ5DzfONmsObJj5saQdqaJj3ZAdQPFGkCmzLpcROQ3faifw5YcBVYcN2LiUCvA7nrwVqanm3YAubuf9y4FCIC98yuHnp5BhRujdPBzl39shHqh8eNc8H6NwD9gKwAmAbBCtoeNwIjG6gAaBkwvzSBDKI80UOBgpY-F5dfZnkiqDCwCshMzMt3qDGoqQZZomBjaKZlB2Zhy24KkLT9YmGPgoYxNCXpgPIIOGNoYtEAtAtkWI2CqYKugiEUGwAxNhEQC8Q3BpIgXAPW62NYA0wSwLCd-LhxMVAUzIYygGQ8WCsRClaDTQeGKRCvALGauhB2GNHWDvwhuquH3BCFYUj4mYFtNwPTIFFgiMaBAhROgJUhBSrIccCkCiaXI3ljP8QbTZOB7FVwWZw6kIKQWiYSSIKd4AAzIS3AwEEADgkwCxRKkFAEpTX0UDQFi4JSZI2CEZA0AvLhKRUtCCGpAFhUgb04CeqxJrA4iAcprJBCAxQCIMl14KQCUgBSDAsnYHEFF0MPX1A4gVQsBmJgodEO5oBSHcLGuWASVLQg2YhXH0ghsMQBk6ASB25vLReXrp0CrKyI9jGMVUDhG4H5ylwA)]
+- [主旋律 TMD 檔案](niwatori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvReYl5mbmKOEpeWlsLLbf0KWlpcirYKlkZc9rYKLlw2RvomdiANT3Y0PFs091lr35MdnS-b-xSeb1_xuKHr2bQNQIbC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54ObvtcUP3-z0dT5csf7Z28dPexie7ep7u3AJhPJvT8X5Pz_Mti57N3vFi5nwFA3MjU10Tw_d7OpW4uPS1FGypBbgUFBSe9s0HWbO5_cWKrhcd7UAnvlg572nrimfT2kHu29D7rL1TARRpelkF6Y8aJgOZxiAm0IUQrQoFegpGJkAZI1OQ2Ibupzt2PF8-8fmaNcBAetwA9tnaHUDPAUUUDI0UXi6bBvTJ-z2zELY_m73p6YTeFwtXvFgxAyjxuHH148b1jxtXPG7qAil6sWr_s4blIMd19wLDA6SiuRsoCAqq7t6naycAHeqiAAxKoJgCMIYUgKJgK3oezVxpC4w7kBkrdgP1gZ0AdJMRKI6er28AugWo9smuKc-3z3qxds7LmS3P5nQquCmbAE00BhrxYvHcl4v3vZy_-XFDExfIGIiXHjdtfty08XFzC4gBIRsaMAVBGl5ubwGahewjoLGPG7seN7Y8blwO0ta4_3HT5MeNq0BcmDhIJ5DzfONmsObJj5saQdqaJj3ZAdQPFGkCmzLpcROQ3faifw5YcBVYcN2LiUCvA7nrwVqanm3YAubuf9y4FCIC98yuHnp5BhRujdPBzl39shHqh8eNc8H6NwD9gKwAmAbBCtoeNwIjG6gAaBkwvzSBDKI80UOBgpY-F5dfZnkiqDCwCshMzMt3qDGoqQZZomBjaKZlB2Zhy24KkLT9YmGPgoYxNCXpgPIIOGNoYtEAtAtkWI2CqYKugiEUGwAxNhEQC8Q3BpIgXAPW62NYA0wSwLCd-LhxMVAUzIYygGQ8WCsRClaDTQeGKRCvALGauhB2GNHWDvwhuquH3BCFYUj4mYFtNwPTIFFgiMaBAhROgJUhBSrIccCkCiaXI3ljP8QbTZOB7FVwWZw6kIKQWiYSSIKd4AAzIS3AwEEADgkwCxRKkFAEpTX0UDQFi4JSZI2CEZA0AvLhKRUtCCGpAFhUgb04CeqxJrA4iAcprJBCAxQCIMl14KQCUgBSDAsnYHEFF0MPX1A4gVQsBmJgodEO5oBSHcLGuWASVLQg2YhXH0ghsMQBk6ASB25vLReXrp0CrKxQQGMrcwEA)]
 - [鋼琴伴奏 TMD 檔案](niwatori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVQlFgHF01NzU_NKrAoyE_Py4xOTk_NzCxLzMkFiSlxaWgovt_W_39PxcvbMZ53dL7v3PJ-w5cmeLU-XAgU7FbS0uBRtFSyNuOxtFVy4bIz0TexAZj_Z0fBs0dxnrX1PdnS-bO5TeL59xeOGrmfTNgAZCk839D9du-PZgoWPm3c_bV0DYSs8nbLx2dqeZ1NnPps74eXstscN3UBLny5Z_mzt4qe9jU929TzduQXCeDan4_2enudbFj2bvePFzPkKBuZGpromhkDnKHFx-WWWJ5bkF2VaBYB8E-ThUGNQU82lAAQ2hmZadmBWjYKpgq6CIRQbADE2ERALxDcGkiBcA9brY1ij8Lhx8uPGiY8bFwNFwWwoA0jGg7USoWA12PTHjeuBeAWI1dSFsMOItnYgBQIMQ7xsBtZgBqZBosBAiAOFAZwAK0MKB5B5jxtbwORyJJv3Q2xumgxkr4LL4tSB5GtqmQj1I9jVYMeDWSCPQTwOilF0j5uCRUHxXqNgBCSNgHx4ekDzNSSsHzc1gl01CeqWJrA4iPe4qeNxYxuSB0COBkmuA0cISAFIMcxrjxuXwsXQgwTkNZCKxUA8_XFTO5gDiluEjXPB5AZUG_HqAyl83DgfTK5H0sdVi56HfJDzkAk8CxnGgxAKHW0YC3U4gqtgAmNgUWCCLI5QaRoPMRPkFl07BZhzon2Asih8IzBfmQsA)]
 
 ## 分析
@@ -76,10 +81,10 @@ w: い っ しょ に | あ そ ばう | い っ しょ に | う た _ はう
 🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Niwatori[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Niwatori[L1] #1 @ m.6, 0:06]
+   - 最低音:  D4 in [Niwatori #1 @ m.1, 0:00]
+   - 最高音: D5 in [Niwatori #1 @ m.6, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Niwatori[L1] (13.0s) -> Niwatori[L2] (13.0s)
+🏛  結構:      Niwatori (13.0s) -> Niwatori (13.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -89,8 +94,8 @@ w: い っ しょ に | あ そ ばう | い っ しょ に | う た _ はう
    - 候選調性 (K-S): D 大調 (0.91), B 小調 (0.65), D 小調 (0.58)
    - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Niwatori[L1] #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
-     • [Niwatori[L2] #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [Niwatori #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [Niwatori #2]: D 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

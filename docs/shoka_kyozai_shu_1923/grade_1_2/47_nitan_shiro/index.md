@@ -65,34 +65,40 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A3 A A2 A2 | F3 F D2 D2 | E3 E F2 G2 | B2 B2 A2 z2 |
-w: て お ひ の | ゐ の し し | き ば く ひ | そ ら し
+w: 1.~て お ひ の | ゐ の し し | き ば く ひ | そ ら し
+w: 2.~た い しや う | よ り と も | あ れ し と | め よ と
+w: 3.~う ま か ら | ひ ら り と | み を を ど | ら せ て
+w: 4.~す そ の に | ひ か へ た | い く せ ん | に ん が
 d3 d A2 A2 | B3 B A2 F2 | E3 E F2 G2 | F2 E2 F2 z2 |
-w: ち を け り | き を を り | く さ な び | か せ て
+w: 1.~ち を け り | き を を り | く さ な び | か せ て
+w: 2.~い ふ こ ゑ | ま た ず に | に た ん の | し ら う
+w: 3.~せ な か へ | と び の り | わ き ざ し | ぬ い て
+w: 4.~い ち ど に | や ん や と | し ら う を | ほ め た
 d3 d A2 A2 | B3 B A2 F2 | E3 E A2 B2 | A2 A2 D2 z2 |
-w: こ な た を | め ざ し て | や ま か け | く だ る
+w: 1.~こ な た を | め ざ し て | や ま か け | く だ る
+w: 2.~ゐ の し し | め が け て | う ま か け | よ せ る
+w: 3.~こ ぶ し も | と ほ れ と | い つ さ し | む さ し
+w: 4.~ふ じ の _ | や ま さ へ | く づ れ る | ほ ど に
 A3 A A2 A2 | F3 F D2 D2 | E3 E F2 G2 | B2 B2 A2 z2 |
-w: た い しや う | よ り と も | あ れ し と | め よ と
+w: 1.~て お ひ の | ゐ の し し | き ば く ひ | そ ら し
+w: 2.~た い しや う | よ り と も | あ れ し と | め よ と
+w: 3.~う ま か ら | ひ ら り と | み を を ど | ら せ て
+w: 4.~す そ の に | ひ か へ た | い く せ ん | に ん が
 d3 d A2 A2 | B3 B A2 F2 | E3 E F2 G2 | F2 E2 F2 z2 |
-w: い ふ こ ゑ | ま た ず に | に た ん の | し ら う
+w: 1.~ち を け り | き を を り | く さ な び | か せ て
+w: 2.~い ふ こ ゑ | ま た ず に | に た ん の | し ら う
+w: 3.~せ な か へ | と び の り | わ き ざ し | ぬ い て
+w: 4.~い ち ど に | や ん や と | し ら う を | ほ め た
 d3 d A2 A2 | B3 B A2 F2 | E3 E A2 B2 | A2 A2 D2 z2 |
-w: ゐ の し し | め が け て | う ま か け | よ せ る
-A3 A A2 A2 | F3 F D2 D2 | E3 E F2 G2 | B2 B2 A2 z2 |
-w: う ま か ら | ひ ら り と | み を を ど | ら せ て
-d3 d A2 A2 | B3 B A2 F2 | E3 E F2 G2 | F2 E2 F2 z2 |
-w: せ な か へ | と び の り | わ き ざ し | ぬ い て
-d3 d A2 A2 | B3 B A2 F2 | E3 E A2 B2 | A2 A2 D2 z2 |
-w: こ ぶ し も | と ほ れ と | い つ さ し | む さ し
-A3 A A2 A2 | F3 F D2 D2 | E3 E F2 G2 | B2 B2 A2 z2 |
-w: す そ の に | ひ か へ た | い く せ ん | に ん が
-d3 d A2 A2 | B3 B A2 F2 | E3 E F2 G2 | F2 E2 F2 z2 |
-w: い ち ど に | や ん や と | し ら う を | ほ め た
-d3 d A2 A2 | B3 B A2 F2 | E3 E A2 B2 | A2 A2 D2 z2 |
-w: ふ じ の _ | や ま さ へ | く づ れ る | ほ ど に
+w: 1.~こ な た を | め ざ し て | や ま か け | く だ る
+w: 2.~ゐ の し し | め が け て | う ま か け | よ せ る
+w: 3.~こ ぶ し も | と ほ れ と | い つ さ し | む さ し
+w: 4.~ふ じ の _ | や ま さ へ | く づ れ る | ほ ど に
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nitan_shiro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBog6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvReWn5Odk5-UaoSF5eWlsKT3Y3Pp2x4Onv2y-Y-BS0tLkVbBUMDAy57WwUXLhsjfRM7kO4nOxqeLZr7rLXvyY5OkLrn21c8buh6Nm0DkKHwdEP_07U7ni1Y-Lh599PWNRC2wtMpG5-t7Xk2deazuRNezm573ND9fk_H0yXLn61d_LS38cmunqc7t0AYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfE8P2eTrDLn27ofrpjx_PlE5-vWQN0x-MGsOa1O4D6n09ZATQUKK5gafKoYbKlqcLLBY0wfc-mtb9sXvF8TiPQn_paXBCtXM86u19sWvC4cd3znlXPO2c-bux_3LjpcePcx02djxuncz2ds-Fx06QXO7c8bup6NmcFkP2sawaQ_aK38-XchY8bux83zn7cuIzr2dolz6btBEo_bmp83DgNqBUo-rih4enGjS-Xtz1unPhkR_fjpu7HDU1cXEDngmwG-v3phvYXm7c8mzP3cWPT46ae5x2bnk-dCTKhqeNx4wqux40tjxu3vmjc9HRf6-PG-Y8bZz1uXA2JH6CDIVHEBXQ32M4eoCUQO18uWwOx8-l6oP7ZcGt3dIKsBcqCnA3y3iYQ2dQFtOrFrtUgb-7qBYuDffSiuefJjrWPG3e8XAzkbwZaCPJ2S_vT7euedU8BOw3o7e7Nj5uagAY8btwN9ACI0dDwZBdQeiowCJ62AvWDGGD7ge4F2f9i8b6X7X1Aj4DDGRh-O4Bee7pz39Pe5ie7dgH9AYqZp7uWgVQ0tTxumgwiG1dAfAty5Nq9YP_O53q6vufpYqAx64CBDLZnByjAt6wEOQToZ6CLGleCTAFarqXPxeWbmJlnFZCZmJfvUGNQU82lAAQ2hmZadmBWjYKpgi4QmoJpEK5RMAaLGCsYAkkQrlEwAosYgWVMwCJmQBKEQToMQCJg03wMaxSA4QNW_bixC4g3gVnrwHoeN02AyqwD4ulgFogE6emFymwA4n4wC6QTJDMXxGvqhKuOR9hmBJKfD9XZApIHBhqY0wa1sAMi2QRyygowqwlqLIgG8XvgTgHJg_Q0gsVBOiFiSBYag3SCzAbJ7QPibrjjQDIgJ0P4IBuRzGzcD5WZBMYgmZVQ2yAemw0mQQGHZJsJSOdMqG1zocEIjFlU24BuACYBMAsUFCAZUBiA-P0wk5smQ2VAeiE8YIpDsa1GwTAOrA1IIZICKIpBEQ3igSIfW1IAsUCiIBo9KSxE-LtxIjQmUCIcESJwGVD0g9w3FYhXgVmboTLg0MYeVuCkAPP3ViAG-7EJZCdIZh9UZj4Qz0IJRRANlYGGCzSxQlIFNH5AcY6eDkDuAMmtgrsMFAsgGVCsQ9wNjTOY35pgfusF4mlgFiwDrAHzIKkXWzqA-W0hNO3AfQBO8ZBYhaV-WKoDmQ1Nj2AfQEIaJLMbzAOndHCqIT8dgERAspCCBIRBRQZ6OgCFLCysQPbBXQJ2A0hmGizEwb5H8hcin4FTECyFPG5cADYHJIOWDnAXM3DbQLkenB5htmHmapht0JIAko_QbAOnA5jftsHTDKyMgaWD3eByBjlmYH5bAsRTUVzYAOYhxNDTwVaozhnQtAWC6KEF0Q1LjbA0txTmCrAv4KkAKTVB7Krl4tK1UwBVG9E-hrEKcLYREtsYiW0CZitzAQA)]
+- [主旋律 TMD 檔案](nitan_shiro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBog6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvReWn5Odk5-UaoSF5eWlsKT3Y3Pp2x4Onv2y-Y-BS0tLkVbBUMDAy57WwUXLhsjfRM7kO4nOxqeLZr7rLXvyY5OkLrn21c8buh6Nm0DkKHwdEP_07U7ni1Y-Lh599PWNRC2wtMpG5-t7Xk2deazuRNezm573ND9fk_H0yXLn61d_LS38cmunqc7t0AYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfE8P2eTrDLn27ofrpjx_PlE5-vWQN0x-MGsOa1O4D6n09ZATQUKK5gafKoYbKlqcLLBY0wfc-mtb9sXvF8TiPQn_paXBCtXM86u19sWvC4cd3znlXPO2c-bux_3LjpcePcx02djxuncz2ds-Fx06QXO7c8bup6NmcFkP2sawaQ_aK38-XchY8bux83zn7cuIzr2dolz6btBEo_bmp83DgNqBUo-rih4enGjS-Xtz1unPhkR_fjpu7HDU1cXEDngmwG-v3phvYXm7c8mzP3cWPT46ae5x2bnk-dCTKhqeNx4wqux40tjxu3vmjc9HRf6-PG-Y8bZz1uXA2JH6CDIVHEBXQ32M4eoCUQO18uWwOx8-l6oP7ZcGt3dIKsBcqCnA3y3iYQ2dQFtOrFrtUgb-7qBYuDffSiuefJjrWPG3e8XAzkbwZaCPJ2S_vT7euedU8BOw3o7e7Nj5uagAY8btwN9ACI0dDwZBdQeiowCJ62AvWDGGD7ge4F2f9i8b6X7X1Aj4DDGRh-O4Bee7pz39Pe5ie7dgH9AYqZp7uWgVQ0tTxumgwiG1dAfAty5Nq9YP_O53q6vufpYqAx64CBDLZnByjAt6wEOQToZ6CLGleCTAFarqXPxeWbmJlnFZCZmJfvUGNQU82lAAQ2hmZadmBWjYKpgi4QmoJpEK5RMAaLGCsYAkkQrlEwAosYgWVMwCJmQBKEQToMQCJg03wMaxSA4QNW_bixC4g3gVnrwHoeN02AyqwD4ulgFogE6emFymwA4n4wC6QTJDMXxGvqhKuOR9hmBJKfD9XZApIHBhqY0wa1sAMi2QRyygowqwlqLIgG8XvgTgHJg_Q0gsVBOiFiSBYag3SCzAbJ7QPibrjjQDIgJ0P4IBuRzGzcD5WZBMYgmZVQ2yAemw0mQQGHZJsJSOdMqG1zocEIjFlU24BuACYBMAsUFCAZUBiA-P0wk5smQ2VAeiE8YIpDsa1GwTAOrA1IIZICKIpBEQ3igSIfW1IAsUCiIBo9KSxE-LtxIjQmUCIcESJwGVD0g9w3FYhXgVmboTLg0MYeVuCkAPP3ViAG-7EJZCdIZh9UZj4Qz0IJRRANlYGGCzSxQlIFNH5AcY6eDkDuAMmtgrsMFAsgGVCsQ9wNjTOY35pgfusF4mlgFiwDrAHzIKkXWzqA-W0hNO3AfQBO8ZBYhaV-WKoDmQ1Nj2AfQEIaJLMbzAOndHCqIT8dgERAspCCBIRBRQZ6OgCFLCysQPbBXQJ2A0hmGizEwb5H8hcin4FTECyFPG5cADYHJIOWDnAXM3DbQLkenB5htmHmapht0JIAko_QbAOnA5jftsHTDKyMgaWD3eByBjlmYH5bAsRTUVzYAOYhxNDTwVaozhnQtAWC6KEF0Q1LjbA0txTmCrAv4KkAKTVB7Krl4tK1UwBVGwpItDIXAA)]
 - [鋼琴伴奏 TMD 檔案](nitan_shiro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4uKqU1AqSUy3UkjOz8lJTS7JzM-zKs7Iz06Mz67Mr0rMjC_OKI03tDQyVoKrLMvPKc1NtUovSkxJjTeMN0LIFOeXFiWnWhUnZ-Tn58SXpFaUJOXnZ6PLxxckpqdaBRgaIOksKMovS81LzAPqLijKzCtJTQFrRyhILctMSQVJFycn5sWXpRZlpmWmpiA5KrWoGOx2iBUlRYl5xclFmQUgDyFU5ReVZOQDHV6QUWmVkVlckl-UmZyYE5-dmJeoxKWlpfBkd-PzKRuezp79srnv_Z6Ol7NnPuvsftm95_mELU_2bHm6tP_9nk4FLS0uRVsFQwMDLntbBRcuGyN9EzuQDU92NDxbNPdZa9-THZ1A_QrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKEbaOvTJcufrV38tLfxya6epzu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18QQ6B6w755u6H66Y8fz5ROfr1kDdMfjBrDmtTuA-p9PWQE0FCiuYGnyqGGypanCywWNMH3PprW_bF7xfE6jEheXb2JmnlVAZmJefpCHQ41BTTWXAhDYGJpp2YFZNQqmCrpAaAqmQbhGwRgsYqxgCCRBuEbBCCxiBJYxAYuYAUkQBukwAImATfMxrFF43LgMrPpxYxcQbwKz1oH1PG6aAJVZB8TTwSwQCdLTC5XZAMT9YBZIJ0hmLojX1AlXHY-wzQgkPx-qswUk_7ipBcxpg1rYAZFsAjllBZjVBDUWRIP4PXCngORBehrB4iCdEDEkC41BOkFmg-T2AXE33HEgGZCTIXyQjUhmNu6HykwCY5DMSqhtEI_NBpOggEOyzQSkcybUtrnQYHzcuBrVNqAbHjfuALNAQQGSAYUBiN8PM7lpMlQGpBfCe9zYg2JbjYJhHFgbkEIkBVAUgyIaxANFPrakAGKBREE0elJYiPB340RoTKBEOCJE4DKg6Ae5byoQrwKzNkNlwKGNPazASQHm761ADPZjE8hOkMw-qMx8IJ6FEoogGioDDRdoYoWkCmj8gOIcPR2A3AGSWwV3GSgWQDKgWIe4GxpnML81wfzWC8TTwCxYBlgD5kFSL7Z0APPbQmjagfsAnOIhsQpL_bBUBzIbmh7BPoCENEhmN5gHTungVEN-OgCJgGQhBQkIg4oM9HQACllYWIHsg7sE7AaQzDRYiIN9j-QvRD4DpyBYCnncuABsDkgGLR3gLmbgtoFyPTg9wmzDzNUw26AlASQfodkGTgcwv22DpxlYGQNLB7vB5QxyzMD8tgSIp6K4sAHMQ4ihp4OtUJ0zoGkLBNFDC6IblhphaW4pzBVgX8BTAVJqgthVi1xr-OCoNQxBaqMNY4EkEhO3uGk8mGcaD-KicGoUTMA8E7geROLBbR66HmLsQTeLEnuMwBwjLLagcJHsAQarrp0CKGSjfUCGwNggM2BsYyQ2yE47BWUuAA)]
 
 ## 分析
@@ -101,14 +107,14 @@ w: ふ じ の _ | や ま さ へ | く づ れ る | ほ ど に
 ================================================================================
 📊 TMD Song Profile: [ 仁田四郎 ]
 ================================================================================
-⏱  Duration:       0:57 (57.6s), 48 measures total
+⏱  Duration:       0:28 (28.8s), 24 measures total
 🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Main[L1] #1 @ m.2, 0:01]
-   - 最高音: D5 in [Main[L1] #1 @ m.5, 0:04]
+   - 最低音:  D4 in [Main #1 @ m.2, 0:01]
+   - 最高音: D5 in [Main #1 @ m.5, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main[L1] (14.4s) -> Main[L2] (14.4s) -> Main[L3] (14.4s) -> Main[L4] (14.4s)
+🏛  結構:      Main (14.4s) -> Main (14.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -116,12 +122,10 @@ w: ふ じ の _ | や ま さ へ | く づ れ る | ほ ど に
    - 核心骨幹音:  A, F#, D, E, B
    - 調性數值:    A 調性不明確 [相關度: 0.81, 穩定度: Ambiguous, 自然音純度: 95.6%]
    - 候選調性 (K-S): A 大調 (0.81), D 大調 (0.79), F# 小調 (0.65)
-   - 五度圈歷程:   +3 -> +3 -> +3 -> +3
+   - 五度圈歷程:   +3 -> +3
    - 各段落調性細節:
-     • [Main[L1] #1]: A 調性不明確 (r: 0.81, 自然音純度: 95.6%, 調外音: G)
-     • [Main[L2] #1]: A 調性不明確 (r: 0.81, 自然音純度: 95.6%, 調外音: G)
-     • [Main[L3] #1]: A 調性不明確 (r: 0.81, 自然音純度: 95.6%, 調外音: G)
-     • [Main[L4] #1]: A 調性不明確 (r: 0.81, 自然音純度: 95.6%, 調外音: G)
+     • [Main #1]: A 調性不明確 (r: 0.81, 自然音純度: 95.6%, 調外音: G)
+     • [Main #2]: A 調性不明確 (r: 0.81, 自然音純度: 95.6%, 調外音: G)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -148,7 +152,7 @@ w: ふ じ の _ | や ま さ へ | く づ れ る | ほ ど に
      B  : ████████████              15.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 180 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 90 個音符)
 ================================================================================
 ```
 

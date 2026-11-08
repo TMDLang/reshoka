@@ -53,22 +53,28 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 B6 B2 A4 G4 | D4 D2 E2 D4 z4 | d6 d2 B4 G4 | A4 A2 B2 A4 z4 |
-w: み ご と に | さ い _ た | お に は の | ぶっ さ う げ
+w: 1.~み ご と に | さ い _ た | お に は の | ぶっ さ う げ
+w: 2.~み ご と に | さ い _ た | か き ね の | れ ん _ げう
 G8 A4 A4 | B6 B2 A4 G4 | A6 A2 B4 c4 | d4 d4 B4 z4 |
-w: ひ と つ | と り た い | ま っ か な | は な を
+w: 1.~ひ と つ | と り た い | ま っ か な | は な を
+w: 2.~ひ と つ | と り た い | ま し ろ な | は な を
 d6 d2 B4 G4 | A4 A2 B2 G4 D4 | G6 A2 B4 A4 | G12 z4 |
-w: きゃ う そ う | あ そ _ び の | しゃ う ひ ん | に
+w: 1.~きゃ う そ う | あ そ _ び の | しゃ う ひ ん | に
+w: 2.~ま ま ご と | あ そ _ び の | ご ち そ う | に
 B6 B2 A4 G4 | D4 D2 E2 D4 z4 | d6 d2 B4 G4 | A4 A2 B2 A4 z4 |
-w: み ご と に | さ い _ た | か き ね の | れ ん _ げう
+w: 1.~み ご と に | さ い _ た | お に は の | ぶっ さ う げ
+w: 2.~み ご と に | さ い _ た | か き ね の | れ ん _ げう
 G8 A4 A4 | B6 B2 A4 G4 | A6 A2 B4 c4 | d4 d4 B4 z4 |
-w: ひ と つ | と り た い | ま し ろ な | は な を
+w: 1.~ひ と つ | と り た い | ま っ か な | は な を
+w: 2.~ひ と つ | と り た い | ま し ろ な | は な を
 d6 d2 B4 G4 | A4 A2 B2 G4 D4 | G6 A2 B4 A4 | G12 z4 |
-w: ま ま ご と | あ そ _ び の | ご ち そ う | に
+w: 1.~きゃ う そ う | あ そ _ び の | しゃ う ひ ん | に
+w: 2.~ま ま ご と | あ そ _ び の | ご ち そ う | に
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJibIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5CTmAe0X0tL4UXXRgUtLS5FWwVDAwsue1sFdy4bE30TO5CGJzsani2a-6y178mOzpfNfQrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKH7_Z6Op0uWP1u7-Glv45NdPU93boEwns3peL-n5_mWRc9m73gxc76CgbmRqa6J4fs9nWDHvlg57_2eWc-mtb9sXvF8TiPQlBftu543Ln6-Y-_zuYuf7przbMrOJ3vnwJQ_m70JWTnECFQNQKfD3QlxJroDZ88Gug7oV2xOUzAyA9vFpa-lYEstwKWgoPC0bz7Ims3tL1Z0vehoBzoL6PWnrSuAfgG5bEPvs_ZOBVB60ssqSH_UMBnINAUxgS6EaFUo0FMwMwPKmJmDXL1mjYKxscLLZdOAzgUGCciKF6v2P2tYDjK8uxfoH6Do4-YOoCDQw0CRp2snAC1yVwAGAlBMARj5CkBRsO6eRzNX2oLSBdiQVc9m9IECuW_hi_ZV8KAGBeuG7qc7dkASBCRkgcEKdAgw_YBEdm553NABTGePG0BGPt3QDpF6vr7hcUPP4yYgmvy4cdLjxnVgNb3AiH3etAsSeS8XrXjeuRKo7Mne2c8WTgQqADr1ceO2x42LHzdOfdzYBtQIdClQ1-OGJi6QM4EGP25ofLGs-8kuUMw-btz_uHHK48YVIFWNq59OAiYToOBUMLflceP8xw0Njxu7gFKPG9cDnYBhzxJke6AWgOU2wQxd8rQfGNZAETC3CWjWfJDRDQ3P58x7sXUJWGof2CCgg4DqV8FMB9q3CqxlEsjc56u3vdi64WVjF1iu93ET0HVAa-eCySYgA6x5M9CNQKNfbJ73dDIoUzxunA5TuQkYjhBfwsNiFzAiSAuLp_MWP1uwEyzeDXJF41qw7LqXDYuf7weLI-KrjZwQeT5zLyxEgC4HJTOcIfJy8Xqgw2EhAtQARCDnYwbH030LXy7bDAw-sEqgmoWQgEMEB9A4yrMrFCho6XNxeQBLVauAzMS8fIcag5pqkAUKNhZadmAGtjJCAZLqXyzsUdAwAZWewPSvA8rY4NysiUUD0BqQYTUKxgq6QGisYAQkDYG4RsE0HkgBCbN4CNMAIgpWZwpWD1EH0mEE1QlWAzbRx7BGAZgYwKqBwQXEK8Cs1WA9wBQB5rWAyflAEmQDSLwLqmM1EK8Hs9ZBZUAZEiwwFYjbgHgSTBvEQiPyLOyG6ugF4rXIFjb1gHhNk8FioKQItw5_-O_qISf8QWEJgpDQBDkAM0ZALEhY6yqYwGMDhEEi6GG_CWoiLCCWQD0M4oE81gUNCEiggGT2QdUvhgYLMKdAZSAxAeIB8w2WYCffrulA2V4i7CKQ5jvJCXPcaRnEAyd6WMRAAh0SMbCoAkH0QAeWqc1Qn4GS6FwoC-KzJjAPIrYZTMLSNrCYQtYGCk5IygNJglIwDKIHPCwY94HTPCwC8FsGUgfiL8RwIKZNtVxcunYKoIIo2scwVgHONgKzlbkA)]
+- [主旋律 TMD 檔案](hana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJibIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5CTmAe0X0tL4UXXRgUtLS5FWwVDAwsue1sFdy4bE30TO5CGJzsani2a-6y178mOzpfNfQrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKH7_Z6Op0uWP1u7-Glv45NdPU93boEwns3peL-n5_mWRc9m73gxc76CgbmRqa6J4fs9nWDHvlg57_2eWc-mtb9sXvF8TiPQlBftu543Ln6-Y-_zuYuf7przbMrOJ3vnwJQ_m70JWTnECFQNQKfD3QlxJroDZ88Gug7oV2xOUzAyA9vFpa-lYEstwKWgoPC0bz7Ims3tL1Z0vehoBzoL6PWnrSuAfgG5bEPvs_ZOBVB60ssqSH_UMBnINAUxgS6EaFUo0FMwMwPKmJmDXL1mjYKxscLLZdOAzgUGCciKF6v2P2tYDjK8uxfoH6Do4-YOoCDQw0CRp2snAC1yVwAGAlBMARj5CkBRsO6eRzNX2oLSBdiQVc9m9IECuW_hi_ZV8KAGBeuG7qc7dkASBCRkgcEKdAgw_YBEdm553NABTGePG0BGPt3QDpF6vr7hcUPP4yYgmvy4cdLjxnVgNb3AiH3etAsSeS8XrXjeuRKo7Mne2c8WTgQqADr1ceO2x42LHzdOfdzYBtQIdClQ1-OGJi6QM4EGP25ofLGs-8kuUMw-btz_uHHK48YVIFWNq59OAiYToOBUMLflceP8xw0Njxu7gFKPG9cDnYBhzxJke6AWgOU2wQxd8rQfGNZAETC3CWjWfJDRDQ3P58x7sXUJWGof2CCgg4DqV8FMB9q3CqxlEsjc56u3vdi64WVjF1iu93ET0HVAa-eCySYgA6x5M9CNQKNfbJ73dDIoUzxunA5TuQkYjhBfwsNiFzAiSAuLp_MWP1uwEyzeDXJF41qw7LqXDYuf7weLI-KrjZwQeT5zLyxEgC4HJTOcIfJy8Xqgw2EhAtQARCDnYwbH030LXy7bDAw-sEqgmoWQgEMEB9A4yrMrFCho6XNxeQBLVauAzMS8fIcag5pqkAUKNhZadmAGtjJCAZLqXyzsUdAwAZWewPSvA8rY4NysiUUD0BqQYTUKxgq6QGisYAQkDYG4RsE0HkgBCbN4CNMAIgpWZwpWD1EH0mEE1QlWAzbRx7BGAZgYwKqBwQXEK8Cs1WA9wBQB5rWAyflAEmQDSLwLqmM1EK8Hs9ZBZUAZEiwwFYjbgHgSTBvEQiPyLOyG6ugF4rXIFjb1gHhNk8FioKQItw5_-O_qISf8QWEJgpDQBDkAM0ZALEhY6yqYwGMDhEEi6GG_CWoiLCCWQD0M4oE81gUNCEiggGT2QdUvhgYLMKdAZSAxAeIB8w2WYCffrulA2V4i7CKQ5jvJCXPcaRnEAyd6WMRAAh0SMbCoAkH0QAeWqc1Qn4GS6FwoC-KzJjAPIrYZTMLSNrCYQtYGCk5IygNJglIwDKIHPCwY94HTPCwC8FsGUgfiL8RwIKZNtVxcunYKoIJIAYlW5gIA)]
 - [鋼琴伴奏 TMD 檔案](hana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJibIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQ0pcWloKL7o2vt_T8XL2zGed3S-79zyfsOXJni1Pl_a_39OpoKXFpWirYGhgwWVvq-DOZWOib2IHMvnJjoZni-Y-a-17sqPzZXOfwvPtKx43dD2btgHIUHi6of_p2h3PFix83Lz7aesaCFvh6ZSNz9b2PJs689ncCS9ntz1u6Aba-nTJ8mdrFz_tbXyyq-fpzi0QxrM5He_39DzfsujZ7B0vZs5XMDA3MtU1MQS6B-yrFyvnvd8z69m09pfNK57PaQSa8qJ91_PGxc937H0-d_HTXXOeTdn5ZO8cmPJnszchK4cYgaoB6HS4OyHORHfg7NlA1wH9is1pCkZmYLu4PBLzEq0CMhPz8oM8HGoMaqq5FIDAxkLLDszQ11KwRQcKz9esAYbli4U9ChomoIB7vr5BRwGYAkz1sgrSNbFo0NIHG1ajYKygC4TGCkZA0hCIaxRM44EUkDCLhzANIKJgdaZg9RB1IB1GUJ1gNWATfQxrFB437gerftw4BYhXgFmrwXoeN04F81rA5HwgCbIBJN4F1bEaiNeDWeugMtseNy4GC0wF4jYgngTTBrHQiDwLu6E6eoF4LbKFTT0gXtNksNgkkJUw6_CH_64ecsIfFJYgCAlNkAMwYwTEgoS1roIJPDZAGCSCHvaboCbCAmIJ1MMgHshjXdCAgAQKSGYfVP1iaLA8blwFlYHEBIj3uAlbsJNv13SgbC8RdhFI853khDnutAzigRM9LGIggQ6JGFhUgSB6oPc-bmqG-gyUROdCWRCfNYF5ELHNYBKWtqejagMFJyTlgSRBKRgG0QMeFoz7wGkeFgH4LQOpA_EXYjgQ06Za5HLIB7kcMoGWQ8DwiFeINowFhheIjo-FipgAWUDaAKEASoFKFiDLFCgPYgAVYDEHJIvNZLgkSApFEcQuVKMwbYSLmIBEQG7EtA5qEtDrunYKIN9H-wBF4WwjMFuZCwA)]
 
 ## 分析
@@ -81,10 +87,10 @@ w: ま ま ご と | あ そ _ び の | ご ち そ う | に
 🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Hana[L1] #1 @ m.2, 0:02]
-   - 最高音: D5 in [Hana[L1] #1 @ m.3, 0:04]
+   - 最低音:  D4 in [Hana #1 @ m.2, 0:02]
+   - 最高音: D5 in [Hana #1 @ m.3, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Hana[L1] (26.7s) -> Hana[L2] (26.7s)
+🏛  結構:      Hana (26.7s) -> Hana (26.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -94,8 +100,8 @@ w: ま ま ご と | あ そ _ び の | ご ち そ う | に
    - 候選調性 (K-S): G 大調 (0.78), D 大調 (0.72), B 小調 (0.58)
    - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Hana[L1] #1]: G 大調 (r: 0.78, 自然音純度: 100.0%)
-     • [Hana[L2] #1]: G 大調 (r: 0.78, 自然音純度: 100.0%)
+     • [Hana #1]: G 大調 (r: 0.78, 自然音純度: 100.0%)
+     • [Hana #2]: G 大調 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

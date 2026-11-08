@@ -66,34 +66,46 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 C3 D C2 E2 | G3 G G4 | A3 A c2 A2 | G6 z2 |
-w: ア サ カ ゼ | サ ツ ト | フ イ テ キ | テ
+w: 1.~ア サ カ ゼ | サ ツ ト | フ イ テ キ | テ
+w: 2.~ゆ ふ か ぜ | さ つ と | ふ い て き | て
 c4 A2 c2 | d3 c A2 A2 | c4 A2 c2 | d3 c A2 A2 |
-w: オホ ハ タ | ヒ ラ ヒ ラ | コ ハ タ | ヒ ラ ヒ ラ
+w: 1.~オホ ハ タ | ヒ ラ ヒ ラ | コ ハ タ | ヒ ラ ヒ ラ
+w: 2.~おほ は た | ひ ら ひ ら | こ は た | ひ ら ひ ら
 c3 d c3 A | G3 G E4 | G3 A G3 E | D3 D C4 |
-w: ウ ン ド ウ | クワイ _ ガ | イ マ ハ ジ | マ ツ タ
+w: 1.~ウ ン ド ウ | クワイ _ ガ | イ マ ハ ジ | マ ツ タ
+w: 2.~う ん ど う | くわい _ が | い ま も う | す ん だ
 G3 E D2 D2 | G3 G E4 | G3 G E3 G | A3 A A4 |
-w: ア カ バ ウ | シ ロ バウ | ミ ド リ ノ | バ ウ シ
+w: 1.~ア カ バ ウ | シ ロ バウ | ミ ド リ ノ | バ ウ シ
+w: 2.~ま つ か な | ほ ほ に | あ せ ば む | ひ た ひ
 c4 d3 c | A3 A G2 E2 | G3 A G2 E2 | D3 C D4 |
-w: ナ ラ ブ | セ イ ト ハ | ゲ ン キ ニ | ミ チ テ
+w: 1.~ナ ラ ブ | セ イ ト ハ | ゲ ン キ ニ | ミ チ テ
+w: 2.~か へ る | せ い と は | て に て を | と つ て
 C3 E G3 G | A3 A G3 G | c3 c A3 G | c6 z2 |
-w: カ ケ ダ ス | ア シ ナ ミ | イ サ マ シ | ヤ
+w: 1.~カ ケ ダ ス | ア シ ナ ミ | イ サ マ シ | ヤ
+w: 2.~て _ が ら | ば な し の | む つ ま じ | さ
 C3 D C2 E2 | G3 G G4 | A3 A c2 A2 | G6 z2 |
-w: ゆ ふ か ぜ | さ つ と | ふ い て き | て
+w: 1.~ア サ カ ゼ | サ ツ ト | フ イ テ キ | テ
+w: 2.~ゆ ふ か ぜ | さ つ と | ふ い て き | て
 c4 A2 c2 | d3 c A2 A2 | c4 A2 c2 | d3 c A2 A2 |
-w: おほ は た | ひ ら ひ ら | こ は た | ひ ら ひ ら
+w: 1.~オホ ハ タ | ヒ ラ ヒ ラ | コ ハ タ | ヒ ラ ヒ ラ
+w: 2.~おほ は た | ひ ら ひ ら | こ は た | ひ ら ひ ら
 c3 d c3 A | G3 G E4 | G3 A G3 E | D3 D C4 |
-w: う ん ど う | くわい _ が | い ま も う | す ん だ
+w: 1.~ウ ン ド ウ | クワイ _ ガ | イ マ ハ ジ | マ ツ タ
+w: 2.~う ん ど う | くわい _ が | い ま も う | す ん だ
 G3 E D2 D2 | G3 G E4 | G3 G E3 G | A3 A A4 |
-w: ま つ か な | ほ ほ に | あ せ ば む | ひ た ひ
+w: 1.~ア カ バ ウ | シ ロ バウ | ミ ド リ ノ | バ ウ シ
+w: 2.~ま つ か な | ほ ほ に | あ せ ば む | ひ た ひ
 c4 d3 c | A3 A G2 E2 | G3 A G2 E2 | D3 C D4 |
-w: か へ る | せ い と は | て に て を | と つ て
+w: 1.~ナ ラ ブ | セ イ ト ハ | ゲ ン キ ニ | ミ チ テ
+w: 2.~か へ る | せ い と は | て に て を | と つ て
 C3 E G3 G | A3 A G3 G | c3 c A3 G | c6 z2 |
-w: て _ が ら | ば な し の | む つ ま じ | さ
+w: 1.~カ ケ ダ ス | ア シ ナ ミ | イ サ マ シ | ヤ
+w: 2.~て _ が ら | ば な し の | む つ ま じ | さ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](undokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBpbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V1wAVKzEpaWl8LKx-2n31GdzmhW0tLgUbRUMjQy47G0VnLlsjPRN7EDaQL60Ung2bcPz7SsUnm7of7p2x7MFCx83737augbCVng6ZeOztT3Pps58NnfCy9lt7_d0PN3Q_XTHjufLJz7Z0QlSOns2UOnTnVueT1nxfk8n2DlPdjQ8WzT3WWsfUMnL5j4FoPGPG7pIsedxQzfIqiXLn61d_LS38cmuHqANEMazOR3v9_Q837Lo2ewdL2bOVzAwNzLVNTGE2f1i5bz3e2bBDQa66umc7mcbJr5Y1_BszhqwkmezN4GUrFv3dPM2uCMhmtt3PW9c_HzH3udzFz_dNQfoaLhBEAeiOw3o-Z1bgAZgc5SCkRnYUVz6Wgq21AJcCgoKdgrRin7-Ia6xEI6W1tO--SB7N7e_WNH1oqMd6E5gKDxtXfFsWruWFjjKep-1dyokgNKuXlZBesKjhskgjiWYA3Q4xACFAj0FQ2MDoKShMTA8e3DG9Jo1CqYKL5dNA3oPGJAQV-gC3fFi1f5nDctBLujuBYYCyO5Zj5v7gcKgeOvufbp2AtA1zgrAwAOKKQCToQJQFGxKz6OZKyFJFG7ak71zgDEFNgQtXoAx-mLVPGi8dK0EpZq-DgW0CAX5u2_-iz2dyFGFK0aBXgLqwvQewjUgs9bOAYbk89blL1bsfrFiBthlIMWGJqBE_Xx9A8gUiEfBip_smvJ8-ywgAxgizzcsBGmf2_60d8Pzpl1PW1c_7Wh7OX_z8zXL3u_pftq68mlDNzB9P21dCxdXSDBSMALGDjT6Hjf0PG6e8Lhp2eOGXlB-WDsdohIYdiDzQe4whroDWSnYEAWwlWA7kCx-unfRs44JL7YtfjpxM8iO9VOAPn7c0AT2NCxtAfPy44ZGYAkC5j-bM_flImA-73jc2PS4cerjxu7HjXNAukDsJY8bgfm84emEnWAFW8HiLY8blz3ZByo4HjeCohrIhRgFipbp08HiXY8bdz9uXP-4cT5YwabHTTASaNqGfpiyyVjVQEyDF3ZglW2Pm4CKV4IYjf2Pm_qBzgDr6gEa-GR3F1gN0GH7wIJAM2cA2WD3z4eY9mLrkqc79sK8CfTjBqBR4MBpeD5zL0xq-uOmXoRU436QjU1Av6wDKoAkdYgsUCU8KT1uXAV2-bbnU-Y_3TcJrGY22DGg0hPomKetzc82LAaLTwL7AhJoq8HmL4SHHthVEx83LnjcOPPFNmAigDgVZBHICqDihgawscB4AXoN6NQWjJjdBQwOeMw-XTIVGrNNQAdvHQ4x2wQMEKCymWAtC2DhBolooO9WvVywAawe6MLdkEB-thHiHqDG2WCRDY-bgMG4Ceg2IIkU8jseN3XjikGgS551guoIYIBAjUXmNk0CBSbIDfCoXAZyP8jXwNQCjLvpwCQEij6Q1UBlQAcD0-dUaPRRXoVAgYKWPhdXaF4KsM2UaRWQmZiX71BjUFMNskPBxtBMC5xOFLDVXQrg0rLhxcIeBQ1TaJGjowCrTzSxaABaBTKsRsEQWJbqKhiBaWMgrgGWtCARUygNEjED02YKhnFgCqEIAg3AImBJiDpdCKcGbIWPYY3C46ZFYKnHTVuBeDWYtQesCyQClmluAeIOuJWPm6dCdSwBstvArLVQGRAPBuOhpqx63DwbKgSs38DK9yOcYARSAtEGzCugBANmzYFoboRa1Qi0qnEFwglAlRBxoNMal4FZvVAZEA_NCeCcBXNC43owOR_sBPzRtquHnGgzgoQ2MJxBwQ2JEywxgE8dUArKMkOKdVAaAPsfEXnNk6DhuhLKBrEgwb4ZW5jj1QEJucfNm4G4E8IGioFk1j9uXg-KbqiJTWtQXQKKw8ZNULlOKBvEgoT-ZGxBj1cHND00TQayQa4D6WoDy0CLMbiJPXCXEMiBneREJSTkzaC0MSjSIPEDzZuI7GYMlgFhLPGFJmKKkv0gofq4eR40pkD-3gGOqXlQGWAaB8ceNO3DM-xqoNwEaCxBZLZDdawFycAiFBLtoEAHSQEDu3kVlN2HEoGQQAUWoUCDmlACfSZSdCxAmAlUCVEFypyQbAsyGSQDyW0gGliiI-mAmTsbiDdATW0gFHnA1ig48mAtRyIjD1Y0QmiUXIjIeghloDhCLmWRRJDyGyi8ISEOC21I8HZB2ZDcBKKngWMEGhDgohJUhELiGCQDTf2g3AYuPh83g4IQS44C5hcYGxKIIHUQmR1Q07vB4pBSFlImgspKSH5DlImgqICWlk2gnE-w-JtCVvEHCVooDQ52MG0MzwWoYQ4RgUYNtDBEEYNAcE2GFBGw9NyIVOuAghWS2h43bQSKN0DZO1GyzXZ4dIFMQcqCoBoQlumAqkC2wIo8EARXJkjRA6mOIKkfKafB2bDCCVSsgcSh6R2YR4CtFih7Hdh-qDvBJsHy1Ayk6g_Z_louLl07BWhTJNrHMFYBmWsE5ipzAQA)]
+- [主旋律 TMD 檔案](undokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBpbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V1wAVKzEpaWl8LKx-2n31GdzmhW0tLgUbRUMjQy47G0VnLlsjPRN7EDaQL60Ung2bcPz7SsUnm7of7p2x7MFCx83737augbCVng6ZeOztT3Pps58NnfCy9lt7_d0PN3Q_XTHjufLJz7Z0QlSOns2UOnTnVueT1nxfk8n2DlPdjQ8WzT3WWsfUMnL5j4FoPGPG7pIsedxQzfIqiXLn61d_LS38cmuHqANEMazOR3v9_Q837Lo2ewdL2bOVzAwNzLVNTGE2f1i5bz3e2bBDQa66umc7mcbJr5Y1_BszhqwkmezN4GUrFv3dPM2uCMhmtt3PW9c_HzH3udzFz_dNQfoaLhBEAeiOw3o-Z1bgAZgc5SCkRnYUVz6Wgq21AJcCgoKdgrRin7-Ia6xEI6W1tO--SB7N7e_WNH1oqMd6E5gKDxtXfFsWruWFjjKep-1dyokgNKuXlZBesKjhskgjiWYA3Q4xACFAj0FQ2MDoKShMTA8e3DG9Jo1CqYKL5dNA3oPGJAQV-gC3fFi1f5nDctBLujuBYYCyO5Zj5v7gcKgeOvufbp2AtA1zgrAwAOKKQCToQJQFGxKz6OZKyFJFG7ak71zgDEFNgQtXoAx-mLVPGi8dK0EpZq-DgW0CAX5u2_-iz2dyFGFK0aBXgLqwvQewjUgs9bOAYbk89blL1bsfrFiBthlIMWGJqBE_Xx9A8gUiEfBip_smvJ8-ywgAxgizzcsBGmf2_60d8Pzpl1PW1c_7Wh7OX_z8zXL3u_pftq68mlDNzB9P21dCxdXSDBSMALGDjT6Hjf0PG6e8Lhp2eOGXlB-WDsdohIYdiDzQe4whroDWSnYEAWwlWA7kCx-unfRs44JL7YtfjpxM8iO9VOAPn7c0AT2NCxtAfPy44ZGYAkC5j-bM_flImA-73jc2PS4cerjxu7HjXNAukDsJY8bgfm84emEnWAFW8HiLY8blz3ZByo4HjeCohrIhRgFipbp08HiXY8bdz9uXP-4cT5YwabHTTASaNqGfpiyyVjVQEyDF3ZglW2Pm4CKV4IYjf2Pm_qBzgDr6gEa-GR3F1gN0GH7wIJAM2cA2WD3z4eY9mLrkqc79sK8CfTjBqBR4MBpeD5zL0xq-uOmXoRU436QjU1Av6wDKoAkdYgsUCU8KT1uXAV2-bbnU-Y_3TcJrGY22DGg0hPomKetzc82LAaLTwL7AhJoq8HmL4SHHthVEx83LnjcOPPFNmAigDgVZBHICqDihgawscB4AXoN6NQWjJjdBQwOeMw-XTIVGrNNQAdvHQ4x2wQMEKCymWAtC2DhBolooO9WvVywAawe6MLdkEB-thHiHqDG2WCRDY-bgMG4Ceg2IIkU8jseN3XjikGgS551guoIYIBAjUXmNk0CBSbIDfCoXAZyP8jXwNQCjLvpwCQEij6Q1UBlQAcD0-dUaPRRXoVAgYKWPhdXaF4KsM2UaRWQmZiX71BjUFMNskPBxtBMC5xOFLDVXQrg0rLhxcIeBQ1TaJGjowCrTzSxaABaBTKsRsEQWJbqKhiBaWMgrgGWtCARUygNEjED02YKhnFgCqEIAg3AImBJiDpdCKcGbIWPYY3C46ZFYKnHTVuBeDWYtQesCyQClmluAeIOuJWPm6dCdSwBstvArLVQGRAPBuOhpqx63DwbKgSs38DK9yOcYARSAtEGzCugBANmzYFoboRa1Qi0qnEFwglAlRBxoNMal4FZvVAZEA_NCeCcBXNC43owOR_sBPzRtquHnGgzgoQ2MJxBwQ2JEywxgE8dUArKMkOKdVAaAPsfEXnNk6DhuhLKBrEgwb4ZW5jj1QEJucfNm4G4E8IGioFk1j9uXg-KbqiJTWtQXQKKw8ZNULlOKBvEgoT-ZGxBj1cHND00TQayQa4D6WoDy0CLMbiJPXCXEMiBneREJSTkzaC0MSjSIPEDzZuI7GYMlgFhLPGFJmKKkv0gofq4eR40pkD-3gGOqXlQGWAaB8ceNO3DM-xqoNwEaCxBZLZDdawFycAiFBLtoEAHSQEDu3kVlN2HEoGQQAUWoUCDmlACfSZSdCxAmAlUCVEFypyQbAsyGSQDyW0gGliiI-mAmTsbiDdATW0gFHnA1ig48mAtRyIjD1Y0QmiUXIjIeghloDhCLmWRRJDyGyi8ISEOC21I8HZB2ZDcBKKngWMEGhDgohJUhELiGCQDTf2g3AYuPh83g4IQS44C5hcYGxKIIHUQmR1Q07vB4pBSFlImgspKSH5DlImgqICWlk2gnE-w-JtCVvEHCVooDQ52MG0MzwWoYQ4RgUYNtDBEEYNAcE2GFBGw9NyIVOuAghWS2h43bQSKN0DZO1GyzXZ4dIFMQcqCoBoQlumAqkC2wIo8EARXJkjRA6mOIKkfKafB2bDCCVSsgcSh6R2YR4CtFih7Hdh-qDvBJsHy1Ayk6g_Z_louLl07BWhTRAGVqcwFAA)]
 - [鋼琴伴奏 TMD 檔案](undokai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBpbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqsiguApipxaWkpvGzsfto99dmc5vd7Ol7Onvmss_tl957nE7Y82bPl6dL-93s6FbS0uBRtFQyNDLjsbRWcuWyM9E3sQMaBgslK4dm0Dc-3r1B4uqH_6dodzxYsfNy8-2nrGghb4emUjc_W9jybOvPZ3AkvZ7cBrXi6ofvpjh3Pl098sqMTpHT2bKDSpzu3PJ-yAmgX2JlPdjQ8WzT3WWsfUMnL5j4FoPGPG7pIsedxQzfIqiXLn61d_LS38cmuHqANEMazOR3v9_Q837Lo2ewdL2bOVzAwNzLVNTGE2f1i5bz3e2bBDQa66umc7mcbJr5Y1_BszhqwkmezN4GUrFv3dPM2uCMhmtt3PW9c_HzH3udzFz_dNQfoaLhBEAeiOw3o-Z1bgAZgc5SCkRnYUVyheSnAlJ1pFQCK1SAPhxqDmmouBSCwMTTTsgOz9LUUbNGBwvM1a4Ah-WJhj4KGKSjYnq9v0FEAJmBLvayCdE0sGrT0wYbVKBgq6AKhEZg2BuIaBVOwiCmUBomYgWkzBcM4MIVQBIEGYBGwJESdLoRTA7bCx7BG4XHTIrDU46atQLwazNoD1gUSAcs0twBxB9zKx81ToTqWANltYNZaqAyIB4PxUFNWPW6eDRV63NwPVr4f4QQjkBKItseNQCc0doNZcyCaG6FWNQKtalyBcAJQJUQc6LTGZWBWL1QGxENzQmPX48bdMCc0rgeT88FOwB9tu3rIiTYjSGgDwxkU3JA4wRID-NQBpaAsM6RYB6UBsP8Rkdc8CRquK6FsEAsS7JuxhTleHZCQe9y8GYg7IWygGEhm_ePm9aDohprYtAbVJaA4bNwEleuEskEsSOhPxhb0eHVA00PTZCAb5DqQrjawTP_jpn5QrMNM7IG7hEAO7CQnKiEhbwaljUGRBokfaN5EZDdjsAwIY4kvNBFTlOwHCdXHzfOgMQXy9w5wTM2DygDTODj2oGkfnmFXA-UmQGMJIrMdqmMtSAYWoZBoBwU6SAoY2M2roOw-lAiEBOrjxn1Ag5pQAn0mUnQsQJgJVAlRBcqckGwLMhkkA8ltIPpxI6hMgemAmTsbiDdATW0gFHnA8hkceSakRR6saITQKLkQkfUQykBxhFzKIokg5TdQeENCHBbakODtgrIhuQlETwPHCDQgwEUlqAiFxDFIBpr6QbkNXHw-bgYFIZYcBcwvMDYkEEHqIDI7oKZ3g8UhpSykTASVlZD8higTQVEBLS2bQDmfYPE3haziDxK0UBoc7GDaGJ4LUMMcIgKNGmhhiCIGgeCaDCkiYOm5EanWAQUrJLU9btoIFG-AsneiZJvt8OgCmYKUBUE1ICzTAVWBbIEVeSAIrkyQogdSHUFSP1JOg7NhhROoWAOJQ9M7MI88bpwOZa8D2w91J9gkWJ6agVT9Idtfi9YS8UFuiZhAGyLAsItXiDaMRWaYABkmUBEDJD6sqIuHycMVIoRAhsAZINPQbQErhdtnGo9iM5omZIeA9EFEsKkEm4pmGIpaJP-AAkbXTgEaNtE-QDXIXCMwV5kLAA)]
 
 ## 分析
@@ -106,10 +118,10 @@ w: て _ が ら | ば な し の | む つ ま じ | さ
 🎼 Key & Tempo:    首調基準 C, != 120.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Undokai[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Undokai[L1] #1 @ m.6, 0:05]
+   - 最低音:  C4 in [Undokai #1 @ m.1, 0:00]
+   - 最高音: D5 in [Undokai #1 @ m.6, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Undokai[L1] (24.0s) -> Undokai[L2] (24.0s)
+🏛  結構:      Undokai (24.0s) -> Undokai (24.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -119,8 +131,8 @@ w: て _ が ら | ば な し の | む つ ま じ | さ
    - 候選調性 (K-S): C 大調 (0.84), G 大調 (0.74), A 小調 (0.66)
    - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [Undokai[L1] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
-     • [Undokai[L2] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Undokai #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Undokai #2]: C 大調 (r: 0.84, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*

@@ -59,47 +59,65 @@ V:V1 name="Alto" snm="Alt"
 V:V2 name="Soprano" snm="Sop"
 [V:V1]
 !mf! z4 z4 z4 D4 | G6 F2 G4 D4 | B,8 B,4 C4 | B,4 G4 F4 D4 |
-w: ハ | ル ノ ヨ フ | カ ク シ | ヅ ケ キ ネ
+w: 1.~ハ | ル ノ ヨ フ | カ ク シ | ヅ ケ キ ネ
+w: 2.~ま | ど の と ひ | ら き か | す め る そ
 G8 z4 D4 | G6 F2 G4 D4 | E8 ^C4 D2 E2 | F4 F2 E2 D4 ^C4 |
-w: ヤ ト | モ シ ビ カ | カ ゲ ハ _ | ナ ヤ _ サ ク
+w: 1.~ヤ ト | モ シ ビ カ | カ ゲ ハ _ | ナ ヤ _ サ ク
+w: 2.~ら す | み ゑ の さ | ま の お _ | ぼ ろ _ の つ
 !mp! D8 z4 D4 | F6 G2 A4 F4 | B8 G4 c4 | B4 G4 A4 G4 |
-w: ト コ | ヨ ミ テ ニ | ト リ ク | リ ヲ ル ヲ
+w: 1.~ト コ | ヨ ミ テ ニ | ト リ ク | リ ヲ ル ヲ
+w: 2.~き こ | ゑ を た よ | り に み | お く る を
 D8 z4 B,4 | C4 D4 E4 F4 | G6 A2 B4 c4 | B4 G2 F2 G4 D2 C2 |
-w: リ カ | ス カ ノ コ | エ _ ハ カ | ヘ ル _ カ リ _
+w: 1.~リ カ | ス カ ノ コ | エ _ ハ カ | ヘ ル _ カ リ _
+w: 2.~り ほ | の か の か | げ _ は か | へ る _ か り _
 !mf! B,8 z4 D4 | G6 F2 G4 D4 | B,8 B,4 C4 | B,4 G4 F4 D4 |
-w: カ ま | ど の と ひ | ら き か | す め る そ
+w: 1.~カ ハ | ル ノ ヨ フ | カ ク シ | ヅ ケ キ ネ
+w: 2.~か ま | ど の と ひ | ら き か | す め る そ
 G8 z4 D4 | G6 F2 G4 D4 | E8 ^C4 D2 E2 | F4 F2 E2 D4 ^C4 |
-w: ら す | み ゑ の さ | ま の お _ | ぼ ろ _ の つ
+w: 1.~ヤ ト | モ シ ビ カ | カ ゲ ハ _ | ナ ヤ _ サ ク
+w: 2.~ら す | み ゑ の さ | ま の お _ | ぼ ろ _ の つ
 !mp! D8 z4 D4 | F6 G2 A4 F4 | B8 G4 c4 | B4 G4 A4 G4 |
-w: き こ | ゑ を た よ | り に み | お く る を
+w: 1.~ト コ | ヨ ミ テ ニ | ト リ ク | リ ヲ ル ヲ
+w: 2.~き こ | ゑ を た よ | り に み | お く る を
 D8 z4 B,4 | C4 D4 E4 F4 | G6 A2 B4 c4 | B4 G2 F2 G4 D2 C2 |
-w: り ほ | の か の か | げ _ は か | へ る _ か り _
+w: 1.~リ カ | ス カ ノ コ | エ _ ハ カ | ヘ ル _ カ リ _
+w: 2.~り ほ | の か の か | げ _ は か | へ る _ か り _
 B,8 z4 z4 |
-w: か
+w: 1.~カ
+w: 2.~か
 [V:V2]
 !mf! z4 z4 z4 D4 | G6 A2 B4 A4 | G8 D4 E2 F2 | G4 B4 A4 d4 |
-w: ハ | ル ノ ヨ フ | カ ク シ _ | ヅ ケ キ ネ
+w: 1.~ハ | ル ノ ヨ フ | カ ク シ _ | ヅ ケ キ ネ
+w: 2.~ま | ど の と ひ | ら き か _ | す め る そ
 B8 z4 D4 | G6 A2 B4 A4 | G8 E4 F2 G2 | A2 d2 A2 G2 F4 E4 |
-w: ヤ ト | モ シ ビ カ | カ ゲ ハ _ | ナ _ ヤ _ サ ク
+w: 1.~ヤ ト | モ シ ビ カ | カ ゲ ハ _ | ナ _ ヤ _ サ ク
+w: 2.~ら す | み ゑ の さ | ま の お _ | ぼ _ ろ _ の つ
 !mp! D8 z4 D4 | A6 B2 c4 A4 | d8 B4 e4 | d4 G4 c4 B4 |
-w: ト コ | ヨ ミ テ ニ | ト リ ク | リ ヲ ル ヲ
+w: 1.~ト コ | ヨ ミ テ ニ | ト リ ク | リ ヲ ル ヲ
+w: 2.~き こ | ゑ を た よ | り に み | お く る を
 A8 z4 D4 | E4 F4 G4 A4 | B6 c2 d4 e4 | d4 G2 A2 B4 A4 |
-w: リ カ | ス カ ノ コ | エ _ ハ カ | ヘ ル _ カ リ
+w: 1.~リ カ | ス カ ノ コ | エ _ ハ カ | ヘ ル _ カ リ
+w: 2.~り ほ | の か の か | げ _ は か | へ る _ か り
 !mf! G8 z4 D4 | G6 A2 B4 A4 | G8 D4 E2 F2 | G4 B4 A4 d4 |
-w: カ ま | ど の と ひ | ら き か _ | す め る そ
+w: 1.~カ ハ | ル ノ ヨ フ | カ ク シ _ | ヅ ケ キ ネ
+w: 2.~か ま | ど の と ひ | ら き か _ | す め る そ
 B8 z4 D4 | G6 A2 B4 A4 | G8 E4 F2 G2 | A2 d2 A2 G2 F4 E4 |
-w: ら す | み ゑ の さ | ま の お _ | ぼ _ ろ _ の つ
+w: 1.~ヤ ト | モ シ ビ カ | カ ゲ ハ _ | ナ _ ヤ _ サ ク
+w: 2.~ら す | み ゑ の さ | ま の お _ | ぼ _ ろ _ の つ
 !mp! D8 z4 D4 | A6 B2 c4 A4 | d8 B4 e4 | d4 G4 c4 B4 |
-w: き こ | ゑ を た よ | り に み | お く る を
+w: 1.~ト コ | ヨ ミ テ ニ | ト リ ク | リ ヲ ル ヲ
+w: 2.~き こ | ゑ を た よ | り に み | お く る を
 A8 z4 D4 | E4 F4 G4 A4 | B6 c2 d4 e4 | d4 G2 A2 B4 A4 |
-w: り ほ | の か の か | げ _ は か | へ る _ か り
+w: 1.~リ カ | ス カ ノ コ | エ _ ハ カ | ヘ ル _ カ リ
+w: 2.~り ほ | の か の か | げ _ は か | へ る _ か り
 G8 z4 z4 |
-w: か
+w: 1.~カ
+w: 2.~か
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yoru_no_kigan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBsiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5SWWlBaloosWpyYW5-cVowsn5mXmJuYocWlpKTxdMudx47pna3e8nN34fk_Hk109L5tXvN_TqaClxaVoq2BoaMZlb6vgzmVjom9iBzIGFERWCs-mbXi-fYXC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54ObsNaOzL1TOer-18vnzikx0NQKVAW4BKn-7c8nwKyC6w84AyzxbNfdba92RH58vmPgWg8Y8bukix53FDN9Cqp0uWP1u7-GlvI8iSnVsgjGdzOt7v6Xm-ZdGz2TtezJyvYGBuZKprYgi2m0tfS8GWWoBLQUHBTiFa0c8_xDUWwtHSeto3H2Tv5vYXK7pedLQD3fxi5bynrSueTWvX0gI5eUPvs_ZOhQRQGtPLKkhPeNQwGcQxAnOADocYoFBQoKdgYmQElDUxMgYK4wzVNWsUTAwUXi6bBvTg-z2zIO7QBbrk2exNTyf0giydhRbxj5uAqBso8rix93Fjz-OmyWC90ATxdEIHMLCBIgijXqza_6xhOcg73b3AIAWb-bi5Ayj8dPZsoNjTtROA2t2BCWw5UEwBmHwUgKIgz-zZ-GLrdrAbQSIvGzY9bV0KFEezCeS_hvlPdy1TeDRzJTghgtLRsmlAvQoJuWmgYAGZYQFKG8_XN8DNe7EXGJK5BUB5JMc-7-x4NmcNMJyft4KdvGDh0-4ZYCdD1CgoGOopPG3teNrZ-2zVlGcLO4CmvOxpedG-Chiiz6fMf9bZ_ayrBZgeIUnu6Y5pkMSWYGRgZKBnYGCmZ2BhYpwAjISEACMDA2i8gfzwdPYCiOYXa-c829P_YsWMJ3smPlu76PmaZU92LHu6of3Z-v4XC4EJdPXTDfsUjEE-gHgI6MwnO7qBUpDwUjAEST3rbnvWMeFp68qnDd3ABPRy_magORD1QNe8WLXkyd45CkYG0DCBuODJjilPl8x6MXMq0LIne_uetq4GBurL3fMgql_O7AW6CRiBoHS4rEkhwVwnPuFxQ2OCKZQ2AtJAg4COfdmzHuSPxk3AaALaDEx9jxuaYOFnBAw_cPACwxmYVoEp9mnvhie7pjzfPgvoc6Bnnm9YCGSAwgwpZYPcBwmAp3Pbn-xeCo9FiKdfTut-urwb6AqQODhsIIH3bMo2YGiBXDyh48nerc-bdr1Y1v9s6pYnO7uhoaWtYGiGCAUkdxrrKYAMM0JPNkDfQHwGNAwURB1t0MCdM_nZ7olAXygkmMUrmIPDBBiKCLWzZ8PVKiSYgMJqNshQM2AuNYdaAlcPDOlnczqf9gILAlCQKyQogzV0JJiog-ge50cz15tA082GvqcTJj7duAZotEKCKViZC0juaW_X861NwECAWmRoitcrKM4zAlmC4nrsPjWNV4A47HFDz-PmVY-b9zxuAGbdfhC3qQvGRQ5WEz0FSLH2cgGoNEEUZUBlQIcBCyhwOMwBmvB0516QyY3AwmYmyBAQYx3QRWDByY-bJoIF14Ot6AEmmZdzFyEMhSecl629QNsgJj5uWq3wuGknEANpYNXxuGkzEK8AsvcAMdDVvTCXwkpkUIHZ0Ais4sD8ZzOA5Q_Q8vXAEhBs-Tpg4fhsO7AUAheLjVuBbgSL97-cC0rBjxunP24EagGKTAQWly-nASsxoODax00t4FBpeN7e8bxxNVhwxeOmJrD6zUCpZ_1rYV6HGDjpRRfYFqDVjatAIk0tTydBQmIqxEagCVBHgitScAgByf0g0zpBRdDjxmVglavBdnU937kBLNgPNq3r6cZWsC8mgbnAcmgGhAuUgjiVyNgA1hMwZUAGyChotQEUgRgFZKAH8q4epEB-vgpYowDV73vcuBISyM86dgAzODSUGjc9bgKme6B478s581Cc1NQItO75yl1gwblQZUCXL1rxfCcw0ICCM4EBAnPqumetEDOnAu2CisxZDhbpety453ETOOWCBIFNAqDgEqCN8LoC3eNNk57sAwY1UGQ-MNghQQoM6hfLul82QLy_H2wsJLSxBO_jxt3gOhUUqk_3QuIayAZHB0mhSnnTBAoUtPS5uCLzi0r98r0z0xPzrILzC4Ctz3yHGl3DGoVqkF0KNhZa4FhUwNY0UoAUsaAiHZyxgYW3goYJtBDSUYBlUk0sOoFWg0ytUTAA1sowXJ2bVqsALHF0FWrAsj5AZyDLA3MwQs4ITa5xH1gOaqwhkKMLLNuNwSRQAiqiCzEfXIBDBWFKTMHKQDwQBJmJ5pTHzavBUuCCpXkFmDUVrAlU3EC0PW5aDya3Q8SbW8G8jWByLVhHL1RmCZJFwNYSiseAGQNiWuM6IAbb1LgJalMnzKZGkEnAZAERb5wJtqMRTILEgBkETQckmEDqoMGENU5BUbmrh5yoxB3mwODWBQW4IVDMCBjQRkAWkAuVqIEENMyJ1bkFGKngcfMiaPBuB7Ing1mgIEcNelAQQdMIkO4C80DB_LhpKzxqQDKgwIYHCLCGQA36_VDTJoKDHxRk0EgGpzBYtIBIkA0g8T1g9ZDogMiAbAXJgMQQQQ9yN6Gg39FJTtCDghuUkk3gQQ9KzRAxYCjDRUARAlIDEoXpwpHWQakOFIDzgbgNzIKmNHjwAdsDKMEK5jVDIgEUKRA2TAYR4OCIQwQ4MKAhAT4JGETzwSxwbgDSoACGBDjYPHDUgIIVHLWNoIiGpnWgXlQdkADfTTjAgc0icgIclqIhQQoJckjRYQIOaOQgx5YjYMUWUogDmy2w0AGVMPCkCW7AwEIc4mdo0m-egQhrqD5QSCNnCjR7wAkckkQhZQSCDZIBhSIkvMGlGFx8ByKkIfrA4QySAfFQ7alFrVMcc0qGUYUCLsNgmUXBGFZsgRkmSIIgReDUAVWJHO2jtQoZtQpqwINzHzizqUMDGShSAwlxIAHkgBVCZEerF6Q4IK96AQcspCiDpmtEQwlWpUBEYKUhiEYLeHDGGK1hiA1zcHECa6zCQx25jYUc6oj8AdSHVDIN63pG104BqaqJ9jGMVUAXMgILKXMBAA)]
+- [主旋律 TMD 檔案](yoru_no_kigan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBsiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5SWWlBaloosWpyYW5-cVowsn5mXmJuYocWlpKTxdMudx47pna3e8nN34fk_Hk109L5tXvN_TqaClxaVoq2BoaMZlb6vgzmVjom9iBzIGFERWCs-mbXi-fYXC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54ObsNaOzL1TOer-18vnzikx0NQKVAW4BKn-7c8nwKyC6w84AyzxbNfdba92RH58vmPgWg8Y8bukix53FDN9Cqp0uWP1u7-GlvI8iSnVsgjGdzOt7v6Xm-ZdGz2TtezJyvYGBuZKprYgi2m0tfS8GWWoBLQUHBTiFa0c8_xDUWwtHSeto3H2Tv5vYXK7pedLQD3fxi5bynrSueTWvX0gI5eUPvs_ZOhQRQGtPLKkhPeNQwGcQxAnOADocYoFBQoKdgYmQElDUxMgYK4wzVNWsUTAwUXi6bBvTg-z2zIO7QBbrk2exNTyf0giydhRbxj5uAqBso8rix93Fjz-OmyWC90ATxdEIHMLCBIgijXqza_6xhOcg73b3AIAWb-bi5Ayj8dPZsoNjTtROA2t2BCWw5UEwBmHwUgKIgz-zZ-GLrdrAbQSIvGzY9bV0KFEezCeS_hvlPdy1TeDRzJTghgtLRsmlAvQoJuWmgYAGZYQFKG8_XN8DNe7EXGJK5BUB5JMc-7-x4NmcNMJyft4KdvGDh0-4ZYCdD1CgoGOopPG3teNrZ-2zVlGcLO4CmvOxpedG-Chiiz6fMf9bZ_ayrBZgeIUnu6Y5pkMSWYGRgZKBnYGCmZ2BhYpwAjISEACMDA2i8gfzwdPYCiOYXa-c829P_YsWMJ3smPlu76PmaZU92LHu6of3Z-v4XC4EJdPXTDfsUjEE-gHgI6MwnO7qBUpDwUjAEST3rbnvWMeFp68qnDd3ABPRy_magORD1QNe8WLXkyd45CkYG0DCBuODJjilPl8x6MXMq0LIne_uetq4GBurL3fMgql_O7AW6CRiBoHS4rEkhwVwnPuFxQ2OCKZQ2AtJAg4COfdmzHuSPxk3AaALaDEx9jxuaYOFnBAw_cPACwxmYVoEp9mnvhie7pjzfPgvoc6Bnnm9YCGSAwgwpZYPcBwmAp3Pbn-xeCo9FiKdfTut-urwb6AqQODhsIIH3bMo2YGiBXDyh48nerc-bdr1Y1v9s6pYnO7uhoaWtYGiGCAUkdxrrKYAMM0JPNkDfQHwGNAwURB1t0MCdM_nZ7olAXygkmMUrmIPDBBiKCLWzZ8PVKiSYgMJqNshQM2AuNYdaAlcPDOlnczqf9gILAlCQKyQogzV0JJiog-ge50cz15tA082GvqcTJj7duAZotEKCKViZC0juaW_X861NwECAWmRoitcrKM4zAlmC4nrsPjWNV4A47HFDz-PmVY-b9zxuAGbdfhC3qQvGRQ5WEz0FSLH2cgGoNEEUZUBlQIcBCyhwOMwBmvB0516QyY3AwmYmyBAQYx3QRWDByY-bJoIF14Ot6AEmmZdzFyEMhSecl629QNsgJj5uWq3wuGknEANpYNXxuGkzEK8AsvcAMdDVvTCXwkpkUIHZ0Ais4sD8ZzOA5Q_Q8vXAEhBs-Tpg4fhsO7AUAheLjVuBbgSL97-cC0rBjxunP24EagGKTAQWly-nASsxoODax00t4FBpeN7e8bxxNVhwxeOmJrD6zUCpZ_1rYV6HGDjpRRfYFqDVjatAIk0tTydBQmIqxEagCVBHgitScAgByf0g0zpBRdDjxmVglavBdnU937kBLNgPNq3r6cZWsC8mgbnAcmgGhAuUgjiVyNgA1hMwZUAGyChotQEUgRgFZKAH8q4epEB-vgpYowDV73vcuBISyM86dgAzODSUGjc9bgKme6B478s581Cc1NQItO75yl1gwblQZUCXL1rxfCcw0ICCM4EBAnPqumetEDOnAu2CisxZDhbpety453ETOOWCBIFNAqDgEqCN8LoC3eNNk57sAwY1UGQ-MNghQQoM6hfLul82QLy_H2wsJLSxBO_jxt3gOhUUqk_3QuIayAZHB0mhSnnTBAoUtPS5uCLzi0r98r0z0xPzrILzC4Ctz3yHGl3DGoVqkF0KNhZa4FhUwNY0UoAUsaAiHZyxgYW3goYJtBDSUYBlUk0sOoFWg0ytUTAA1sowXJ2bVqsALHF0FWrAsj5AZyDLA3MwQs4ITa5xH1gOaqwhkKMLLNuNwSRQAiqiCzEfXIBDBWFKTMHKQDwQBJmJ5pTHzavBUuCCpXkFmDUVrAlU3EC0PW5aDya3Q8SbW8G8jWByLVhHL1RmCZJFwNYSiseAGQNiWuM6IAbb1LgJalMnzKZGkEnAZAERb5wJtqMRTILEgBkETQckmEDqoMGENU5BUbmrh5yoxB3mwODWBQW4IVDMCBjQRkAWkAuVqIEENMyJ1bkFGKngcfMiaPBuB7Ing1mgIEcNelAQQdMIkO4C80DB_LhpKzxqQDKgwIYHCLCGQA36_VDTJoKDHxRk0EgGpzBYtIBIkA0g8T1g9ZDogMiAbAXJgMQQQQ9yN6Gg39FJTtCDghuUkk3gQQ9KzRAxYCjDRUARAlIDEoXpwpHWQakOFIDzgbgNzIKmNHjwAdsDKMEK5jVDIgEUKRA2TAYR4OCIQwQ4MKAhAT4JGETzwSxwbgDSoACGBDjYPHDUgIIVHLWNoIiGpnWgXlQdkADfTTjAgc0icgIclqIhQQoJckjRYQIOaOQgx5YjYMUWUogDmy2w0AGVMPCkCW7AwEIc4mdo0m-egQhrqD5QSCNnCjR7wAkckkQhZQSCDZIBhSIkvMGlGFx8ByKkIfrA4QySAfFQ7alFrVMcc0qGUYUCLsNgmUXBGFZsgRkmSIIgReDUAVWJHO2jtQoZtQpqwINzHzizqUMDGShSAwlxIAHkgBVCZEerF6Q4IK96AQcspCiDpmtEQwlWpUBEYKUhiEYLeHDGGK1hiA1zcHECa6zCQx25jYUc6oj8AdSHVDIN63pG104BqapRwOQqcwEA)]
 - [鋼琴伴奏 TMD 檔案](yoru_no_kigan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBsiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKrvMSS0qJUdNHi1MTi_LxidGGQGYk5SlxaWgpPl8x53Lju2dodL2c3vt_T8WRXz8vmFe_3dALZL2fPfNbZ_bJ7z_MJW57s2fJ0aT9QXEFLi0vRVsHQ0IzL3lbBncvGRN_EDmQ8KIytFJ5N2_B8-wqFpxv6n67d8WzBwsfNu5-2roGwFZ5O2fhsbc-zqTOfzZ3wcnYbyIrVM56v7Xy-fOKTHQ1ApUDbgUqf7tzyfArIDWBnA2WeLZr7rLXvyY7Ol819CkDjHzd0kWLP44ZuoFVPlyx_tnbx095GkCU7t0AYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfEEGw3V2R-UalfvndmemKeVXB-ATA68h1qdA1rFKq5FIDAxkLLDsyoUTBQ0IXj6ty0WgXTeCCrBizrA9SALP-4uR8hZ4Qm17gPLAc11hDI0VUwUjAGk0AJqIguxHyzeAXzeKggTIkpWBmIB4IgM9Gc8rh5NVjqMTAoHzevALOmgjU9boLIAEWa1oPJ7RDx5lYwbyOYXAvW0QuVWYJk0ePmDhSPPW5cCTGtcR0Qg21q3AS1qRNmUyPIpMeN3RDxxplgOxrBJEjsceNcNB2QYAKpIyKYgCGkCwojQ6CYETBsjIAsIBcqUQMJG5ip1bkFGBH3uHkRNES2A9mTwSxQKKGGFshX0GgF0l1gHihkHjdthYcmSAYUPnA_NG1GC639UNMmgkMM5EtovIATBSwkQSTIBpD4HrB6SAhCZEC2gmRAYojQArkbHlqgEAKlFxN4aIHSDEQMGDBwEVAYgtSARGG6cKQoUNyC_DwfiNvALGh8wn38uHkVSkiAec2QcAOFI4QNk0GEETisEWEEDBtIGE0C-mo-mAVOc0AaFCaQMAKbBw5NUEiAY6MRFDfQFAXUi6oDEka7kcMIlm4goQAJJUieMgGHDXIoYUt3sPyMFEhNO-EeAmU9eAIA0pDggyUheAJrnoEIHqg-UOAgJz00e8DJCJIQIJkHwQbJgDwOCSJw9oaL70AEDkQfOGhAMiAeqj21qMWiY07JgJSJ4DwNS4kKxrBsDGaYIAmCFIHjEaoSOYJGSsGIGlbgpA1OyerQcAGK1EACCUgAOWCFENmRWUKCwwKStaGpB1GjwkpFiAisdADRaGEFTn7DupAE5zNYQwQeUMiVMXJAIVIhUB9Slh0xRWUAqA0f5EFEaYmUwxB5WBvYdtEGBaUpiAkp4LRhxRmQCcm18dqwRiFUFqIHrB2sFdI-hIhiKQjx2WeGsA9YOoAsAkuCCw2gDCjfAFWaQiiwEEQWSTlaHkGxGOpGiJONtEFpByoE9AzY3TBJoIHakBoYIg7OhWANEFmQLVCzYHkREjwwqyDBBHM9KP2CfQa3DhY8IEMhVqBbiB4-0DQNDyD8qcAHNRWYIKUCCIRHBqg0BmYcCIXMN4HxoULo8rjNMAOSxkBsBBEEBRZECiQAwhAREAtEIwyCiMIorI4BmQ0Vw2UKSC1IBKYU0xyYe3B5CxiiunYKSIEa7WMYq4AuZAQWUuYCAA)]
 
 ## 分析
@@ -112,10 +130,10 @@ w: か
 🎼 Key & Tempo:    首調基準 G, != 116.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    B3 (MIDI 59) – C5 (MIDI 72) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
-   - 最低音:  B3 in [YoruNoKigan[L1] #1 @ m.3, 0:04]
-   - 最高音: C5 in [YoruNoKigan[L1] #1 @ m.11, 0:22]
+   - 最低音:  B3 in [YoruNoKigan #1 @ m.3, 0:04]
+   - 最高音: C5 in [YoruNoKigan #1 @ m.11, 0:22]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      YoruNoKigan[L1] (33.1s) -> YoruNoKigan[L2] (33.1s)
+🏛  結構:      YoruNoKigan (33.1s) -> YoruNoKigan (33.1s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -125,8 +143,8 @@ w: か
    - 候選調性 (K-S): G 大調 (0.93), D 大調 (0.79), B 小調 (0.75)
    - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [YoruNoKigan[L1] #1]: G 大調 (r: 0.92, 自然音純度: 98.3%, 調外音: C#)
-     • [YoruNoKigan[L2] #1]: G 大調 (r: 0.93, 自然音純度: 98.3%, 調外音: C#)
+     • [YoruNoKigan #1]: G 大調 (r: 0.92, 自然音純度: 98.3%, 調外音: C#)
+     • [YoruNoKigan #2]: G 大調 (r: 0.93, 自然音純度: 98.3%, 調外音: C#)
 
   [ 五度圈游移軌跡 ]
                C  

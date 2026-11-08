@@ -77,8 +77,8 @@ w: 3.~ル
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kagerou.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdBiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGBkiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lm8xJLSolR00ZLEzPJEJAMhogU5iXklxUpcWloKjxu7HzdOetzU-7hxq4KWFpeirYKlGZe9rYJrEpeNib6JHUjri5Xz3u-Z9XRC57O5E5-u63i_p-PZjLVPJ_U8bV39dOeWF-27njcufr5j7_O5i5_umvNsWvuzqTOfbmx41r7jxeZ5T7vnv5zd9rR16cvGHe_3dIKdgqbjcUPX09Y1T9fueLZg4dMpG5-t7Xnc0P18zZqns2cDBYE2PJ-yAmFnb-OTHQ1Awfd7ep5vWfRs9o4XM-crGJgbWSqYG4Mt4NLXUrClFuBSUFB42jcfZM3m9hcrul50tAPdBwyQp60rgD4FOuvpht5n7Z0KoPShl1WQ_qhhMpBpBGICXQjRqlBQoKdgaAaUMjQHOhEYliBjn-ydgxmwwKB52jv96Y6mlzv3Pp0_9fmUXUDfPtnR-Hz2uie7pjyfuurpnA1PdnQ92b_w2bSdQAuIiQi0wIW4HzN2gCGuYGii8HLZNKAbQQ58sWr_s4blIB939wIDGejSx82zX6zrejl1O1AK6FjXJIWnS5aD2Z3AtKIAVAcKkD0bX2zd_mRXD5gL9G3Py4b5T3ctU3g0c6UtMHGB_b6jARyymxYCNTxumgRMhkCljxvXIadHkIrHTW2PmzqRyJ7HTd2PG5qguh83rn--oOnpxo0gYxpnPm5c9bip5XHjPpBhDY1gAxrXA_lgtPxl4wKwuhWPG3eDrWsBmQR2z64eEPWycTJYwf7HjUCHkeoeoG6Ie2DGgN0DNwzmnvmPQerWPZuzAuzxlVADIMECDvinG7ufLQDGLjBkgJ5ZS0bIgA0Aex1IroZyoQ5oanrc2A9CTUCy53EjqlbKswwUKGjpc3F5A4vOovxSq4DMxLx8hxpdo5pqkCUKNhZadmAGtryqAEyJwATyYmGPggYkMSkYgdKWgjaQfrqh__n6Bh14ftPEoh9oM8jsGgUDBV0wNFCozk2rVTCNVzAEGlGjYAwUMwViEK0LFjGCqwTJGCvUgE3wMaxRiIfKxCs8bt4EDL3VQLoPqAPE0gWSm0Bk81qoKqB481S4DpDMMiBeCTPPCMW8xv1AvBCI14H0NXaD1DdOApvaizAPWDAjmdfUBsSdMPOMUd23BIh7yXQf_ujY1QOODmPSw98MGJ4GCoZxYGYNONhhUVJQC44PU2iMGILjAiRpiBb-MFeC_LgMzF8D9gnIh-hx0w_2-06wqi4wuQTmd5Q4gIUkUC-QBeL3gHWCYgE9ftaD42EmOH5Wgcn9qGZC44EYd8LiCOzOZrCZzeCYR3IngazRSU5cmMESCihSwNnBEBTOMHFQRIBoUGQgZwYkTwIj43HzPJTE0w8WQYg_bm4H4g4oezY4QGHegtmPiAZQ4CKZ1jgfiCeDg3odxIRGYEA1gTIEiA1MpCjRgx4BoGBFdtsioGpwxDWtf9wMNbBpDRCDYgZb3MAMrOXi0rVTgBZdCkCmMhcA)]
-- [鋼琴伴奏 TMD 檔案](kagerou_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2P24cdLjpt7HjVvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqWZlz2tgquSVw2Jvomdlx1CkovVs57v2fW0wmdz-ZOfLoOqLTj2Yy1Tyf1PG1d_XTnlhftu543Ln6-Y-_zuYuf7przbFr7s6kzn25seNa-48XmeU-757-c3fa0denLxh1AO5TA5qHqeNzQ9bR1zdO1O54tWPh0ysZna3seN3Q_X7Pm6ezZQEGgDc-nrEDY2dv4ZEcDUPD9np7nWxY9m73jxcz5CgbmRpYK5sZgC7i8E9NTi_JLrQIyE_PygzwcanSNaqq5FIDAxkLLDsyoUTBQ0AVDA4Xq3LRaBdN4BUMFI6C4MVDMFIhBtC5YxAiuEiRjrFADNsHHsEYhHioTr_C4eZPC46bVQLoPqAPE0gWSm0Bk81qoKqB481S4DpDMMiBeCTPPCMW8xv1AvBCI14H0NXaD1DdOApvaizCvcSuyeU1tQNwJM88Y1X1LgLiXTPchBZkZMAgMFAzjwMwacEjBQrGgFhyEptBANAQHH0jSEC3IYAaDnLUMzF8DthzkKPTg7Ac7dydYVReYXAJzLkqwwTwP1Atkgfg9YJ2ggEMP0vXgoJsJDtJVYHI_qpnQoCPGnbBgBbuzGWxmMziykNwJDT4zWHSAwhGc6AxBQQMTB4UdiAaFH3KSQ3IXMPweN89DiaJ-sAhC_HFzOxB3QNmzwWEAcwnMfkTIgcIDybTG-UA8GRw66yAmNAL91gRKdiA2MCmghCh6mIFCAtlti4CqwWHdtP5xM9TApjVADApMbMEJM7AWLQ_7oORhE5Q8DMI1CobxCtGGsTAKmC7jgSzT-FgwwwDqxhoFE6CoSSyMQtYGVAPjgfWCTIHHG5BvFp8bC2aBFEL1wy1Bsg_sHJAHdO0UoH6I9gEahsw1QuUag7nKXAA)]
+- [主旋律 TMD 檔案](kagerou.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdBiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGBkiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lm8xJLSolR00ZLEzPJEJAMhogU5iXklxUpcWloKjxu7HzdOetzU-7hxq4KWFpeirYKlGZe9rYJrEpeNib6JHUjri5Xz3u-Z9XRC57O5E5-u63i_p-PZjLVPJ_U8bV39dOeWF-27njcufr5j7_O5i5_umvNsWvuzqTOfbmx41r7jxeZ5T7vnv5zd9rR16cvGHe_3dIKdgqbjcUPX09Y1T9fueLZg4dMpG5-t7Xnc0P18zZqns2cDBYE2PJ-yAmFnb-OTHQ1Awfd7ep5vWfRs9o4XM-crGJgbWSqYG4Mt4NLXUrClFuBSUFB42jcfZM3m9hcrul50tAPdBwyQp60rgD4FOuvpht5n7Z0KoPShl1WQ_qhhMpBpBGICXQjRqlBQoKdgaAaUMjQHOhEYliBjn-ydgxmwwKB52jv96Y6mlzv3Pp0_9fmUXUDfPtnR-Hz2uie7pjyfuurpnA1PdnQ92b_w2bSdQAuIiQi0wIW4HzN2gCGuYGii8HLZNKAbQQ58sWr_s4blIB939wIDGejSx82zX6zrejl1O1AK6FjXJIWnS5aD2Z3AtKIAVAcKkD0bX2zd_mRXD5gL9G3Py4b5T3ctU3g0c6UtMHGB_b6jARyymxYCNTxumgRMhkCljxvXIadHkIrHTW2PmzqRyJ7HTd2PG5qguh83rn--oOnpxo0gYxpnPm5c9bip5XHjPpBhDY1gAxrXA_lgtPxl4wKwuhWPG3eDrWsBmQR2z64eEPWycTJYwf7HjUCHkeoeoG6Ie2DGgN0DNwzmnvmPQerWPZuzAuzxlVADIMECDvinG7ufLQDGLjBkgJ5ZS0bIgA0Aex1IroZyoQ5oanrc2A9CTUCy53EjqlbKswwUKGjpc3F5A4vOovxSq4DMxLx8hxpdw5pqkCUKNhZadmAGtryqAEyJwATyYmGPggYkMSkYgdKWgjaQfrqh__n6Bh14ftPEoh9oM8jsGgUDBV0wNFCozk2rVTCNVzAEGlGjYAwUMwViEK0LFjGCqwTJGCvUgE3wMaxRiIfKxCs8bt4EDL3VQLoPqAPE0gWSm0Bk81qoKqB481S4DpDMMiBeCTPPCMW8xv1AvBCI14H0NXaD1DdOApvaizAPWDAjmdfUBsSdMPOMUd23BIh7yXQf_ujY1QOODmPSw98MGJ4GCoZxYGYNONhhUVJQC44PU2iMGILjAiRpiBb-MFeC_LgMzF8D9gnIh-hx0w_2-06wqi4wuQTmd5Q4gIUkUC-QBeL3gHWCYgE9ftaD42EmOH5Wgcn9qGZC44EYd8LiCOzOZrCZzeCYR3IngazRSU5cmMESCihSwNnBEBTOMHFQRIBoUGQgZwYkTwIj43HzPJTE0w8WQYg_bm4H4g4oezY4QGHegtmPiAZQ4CKZ1jgfiCeDg3odxIRGYEA1gTIEiA1MpCjRgx4BoGBFdtsioGpwxDWtf9wMNbBpDRCDYgZb3MAMrOXi0rVTgBZdCkCmMhcA)]
+- [鋼琴伴奏 TMD 檔案](kagerou_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2P24cdLjpt7HjVvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqWZlz2tgquSVw2Jvomdlx1CkovVs57v2fW0wmdz-ZOfLoOqLTj2Yy1Tyf1PG1d_XTnlhftu543Ln6-Y-_zuYuf7przbFr7s6kzn25seNa-48XmeU-757-c3fa0denLxh1AO5TA5qHqeNzQ9bR1zdO1O54tWPh0ysZna3seN3Q_X7Pm6ezZQEGgDc-nrEDY2dv4ZEcDUPD9np7nWxY9m73jxcz5CgbmRpYK5sZgC7i8E9NTi_JLrQIyE_PygzwcanQNa6q5FIDAxkLLDsyoUTBQ0AVDA4Xq3LRaBdN4BUMFI6C4MVDMFIhBtC5YxAiuEiRjrFADNsHHsEYhHioTr_C4eZPC46bVQLoPqAPE0gWSm0Bk81qoKqB481S4DpDMMiBeCTPPCMW8xv1AvBCI14H0NXaD1DdOApvaizCvcSuyeU1tQNwJM88Y1X1LgLiXTPchBZkZMAgMFAzjwMwacEjBQrGgFhyEptBANAQHH0jSEC3IYAaDnLUMzF8DthzkKPTg7Ac7dydYVReYXAJzLkqwwTwP1Atkgfg9YJ2ggEMP0vXgoJsJDtJVYHI_qpnQoCPGnbBgBbuzGWxmMziykNwJDT4zWHSAwhGc6AxBQQMTB4UdiAaFH3KSQ3IXMPweN89DiaJ-sAhC_HFzOxB3QNmzwWEAcwnMfkTIgcIDybTG-UA8GRw66yAmNAL91gRKdiA2MCmghCh6mIFCAtlti4CqwWHdtP5xM9TApjVADApMbMEJM7AWLQ_7oORhE5Q8DMI1CobxCtGGsTAKmC7jgSzT-FgwwwDqxhoFE6CoSSyMQtYGVAPjgfWCTIHHG5BvFp8bC2aBFEL1wy1Bsg_sHJAHdO0UoH6I9gEahsw1QuUag7nKXAA)]
 
 ## 分析
 
@@ -86,14 +86,14 @@ w: 3.~ル
 ================================================================================
 📊 TMD Song Profile: [ かげろふ ]
 ================================================================================
-⏱  Duration:       0:17 (17.5s), 7 measures total
+⏱  Duration:       0:20 (20.0s), 8 measures total
 🎼 Key & Tempo:    首調基準 E,, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A#3 (MIDI 58) – D#5 (MIDI 75) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  A#3 in [Kagerou #1 @ m.1, 0:01]
    - 最高音: D#5 in [Kagerou #1 @ m.4, 0:09]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Kagerou (17.5s)
+🏛  結構:      Kagerou (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -103,7 +103,7 @@ w: 3.~ル
    - 候選調性 (K-S): A# 大調 (0.77), F 大調 (0.67), D# 大調 (0.64)
    - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [Kagerou #1]: A# 調性不明確 (r: 0.80, 自然音純度: 100.0%)
+     • [Kagerou #1]: A# 大調 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

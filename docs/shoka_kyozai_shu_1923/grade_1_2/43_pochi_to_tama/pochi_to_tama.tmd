@@ -55,4 +55,4 @@ PochiToTama:Vocal@|0|{
     L2| ね ず み の | ば ん を - | よ く し ま | す - - _ |
 }
 
--> PochiToTama[L1] -> PochiToTama[L2] -> #
+-> PochiToTama -> PochiToTama -> #

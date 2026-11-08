@@ -57,26 +57,34 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 z4 z4 z4 D4 | D6 E2 F4 G4 | A6 B2 A4 G4 | F8 E4 E4 |
-w: オ | ナ ジ キ マ | ド ニ テ シヨ | ヲ マ ナ
+w: 1.~オ | ナ ジ キ マ | ド ニ テ シヨ | ヲ マ ナ
+w: 2.~あ | し た に ゆ | ふ べ に よ | き を せ
 D8 z4 A4 | d8 d4 e4 | d8 B4 B4 | A8 z4 A4 |
-w: ビ ヒ | ト ツ ノ | ニ ハ ニ | テ マ
+w: 1.~ビ ヒ | ト ツ ノ | ニ ハ ニ | テ マ
+w: 2.~め あ | し き は | た が ひ | に い
 d8 d4 B4 | A8 F4 A4 | B8 A4 F4 | E8 z4 D2 F2 |
-w: リ ヲ ア | ソ ブ ヘ | ダ テ ナ | キ ト _
+w: 1.~リ ヲ ア | ソ ブ ヘ | ダ テ ナ | キ ト _
+w: 2.~さ め こ | ら す ま | こ と あ | る と _
 A6 B2 A4 D4 | F8 E4 E4 | D8 z4 z4 | z4 z4 z4 D4 |
-w: モ コ ソ ウ | レ シ ケ | レ | あ
+w: 1.~モ コ ソ ウ | レ シ ケ | レ | オ
+w: 2.~も こ そ も | つ べ け | れ | あ
 D6 E2 F4 G4 | A6 B2 A4 G4 | F8 E4 E4 | D8 z4 A4 |
-w: し た に ゆ | ふ べ に よ | き を せ | め あ
+w: 1.~ナ ジ キ マ | ド ニ テ シヨ | ヲ マ ナ | ビ ヒ
+w: 2.~し た に ゆ | ふ べ に よ | き を せ | め あ
 d8 d4 e4 | d8 B4 B4 | A8 z4 A4 | d8 d4 B4 |
-w: し き は | た が ひ | に い | さ め こ
+w: 1.~ト ツ ノ | ニ ハ ニ | テ マ | リ ヲ ア
+w: 2.~し き は | た が ひ | に い | さ め こ
 A8 F4 A4 | B8 A4 F4 | E8 z4 D2 F2 | A6 B2 A4 D4 |
-w: ら す ま | こ と あ | る と _ | も こ そ も
+w: 1.~ソ ブ ヘ | ダ テ ナ | キ ト _ | モ コ ソ ウ
+w: 2.~ら す ま | こ と あ | る と _ | も こ そ も
 F8 E4 E4 | D8 z4 z4 |
-w: つ べ け | れ
+w: 1.~レ シ ケ | レ
+w: 2.~つ べ け | れ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gakuyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvQe1BM5mWmp6FJpRZmpeSnFGZkFSlxaWgpP1-542t-toKXFpWirYGhoxGVvq-DCZWOib2IH0ggKAiuFZ9M2PN--QuHphn6g8mcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7Pb3u_peLqh--mOHc-XT3yyawpY6VqQLTu3PJ-y4v2eTrCDnuxoeLZo7rPWvic7Ol829ykAjX_c0EWKPY8bukFWLVn-bO3ip72NT3b1AG2AMJ7N6Xi_p-f5lkXPZu94MXO-goG5kamuiSHM7hcr573fMwuo8-mknudTNjzdvevZip1KXFz6Wgq21AJcCgoKdgrRin7-Ia6xEI6W1tO--SAXbW5_saLrRUc70DdApzxtXfFsWruWFjjcep-1dyokgFKXXlZBesKjhskgjjmYA_QSxACFAj0FIzMLoKSRmSVIFFdwr1mjYGSk8HLZNKDPgT6GOEMX6JAne-cAbQbZiR4MCDUvVu1_1rAc5MzuXmAgghU_bu4GCj-dPRso9nTtBKCTXRSABgDFFIAJRgEoCrap59HMlZDEBDft2YqmZ7M3Pd864dnyboi9eza-2LodGNPP1zcAzQG5FWwASHDKRqAxT7sWKBiagNICUMXTdcCI3wI05Gn_0scNTc82r3jW0v9szhqgmZBQfDl7GtCpCoaWxoYKQK9D0tLTdbOetk56vnopJOkAU8zL1TOer-0EBtXzKduBHgAmyCc7ux83dEByweMGoOM7nGFeMjSC2g50zfPZO55O6AF67cnethdr54Dsnd79dF830FKImmdTdwAdCYzMJzt6wSo7gOTTCSA20HnPp24AagGaA3Q8MBJBJqzvf7Gw5-W07pcL1j6f1fZ0Q_uTHV3AXAEUfDZnNTAggA6DhBGQ_ay77fnedc-m7QFpAUVnz7O1S17MnPp0QseTvVtfNrUAzXzeBIy_mc92TYNFBcRdkCAHWguOC1hKBFr0uKERmOnBfIh7Hzd2PW5cBXJj44zHjb3PV00GC-573LgSLLj6ceMyYOoDC05_3ATMYp2PmyYBQw6mDKJ3M8RMkA2NSx43rnu6ay1YAVD7eoQ569dAdTV1Qcx52QhkAEWaHjfOBSvbBjHnceOOx40LgFqA5gNdBYwlsLIVj5uawMomA9U_XQOKt8eNbY-bgB4BCk5_3DgRyMbw9S6gENzXz-YALYLYCFQ_H-K2p0umggSb2h43bn3cuBMqOK0FLAj2cmMv0LUvNkHcPxvs-Eaogc0LIQbC3NAL9PKTXZPAgvMfN_Y8bgQngcbVL1avBgu2PG4EWgcy4Vk7UAooAgxzIBeoZibM-8CABfpxBcidTd1Yvf-spxHsPIgIMMx3onif8sIMChS09Lm43BOzSytLrQIyE_PyHWoMahSqQXYo2FhogYNZAVshqgBJyMC8AszmkDSuoAHL2joKsBJOE4tOoJUgU2sUDIDFCAwbAnENmNRVMFIwBpImYBFTsIgZmIaIgOQgqiAYpgtiDkhdDdh8H8MahXggD4YfN60Cq37c3AVW_bhpBxCvBbGa50FlOiEyzd1A3AZWs_1x8wqo5CaoNRDlEGNA4pOh4mBLmichHGCE5oDGJoiOxukQcxrnA_FqsDUgy0AyW6EyO-EyHVCZXpjtTSAbgMkUIt7UiGw7xAYu3LEGiqxdPeDIMiYtsgzjoBaBGUYgAknQDIphEYYtMh43g_wCCcEWMNkHDcFuuHg_NPgh4qBQQYQsOJLgIQsLRZCvQWEDzJfQkJoPF-8Bk6B4A4mDwhMRUiAXEAqpHZ3kJGvUkEINFVDiBYcKWBwEQTyQaA04McNCzhAohhxyoKQLCSGQbx43LYL4qWkvXHwamJwBDbkGuDg4GcPSKji5I0IUnLaQQnQqTBc4VQFLIqguSLYAicwEk_ugIQpL-cDCC0xC03cTLD4hIQ3OP_hDGtj8ICdNIhcOkAIEf-EAwsihCgpFkG83Q0PycdMyaPitgYfEdjC5EU0clqeRQq8J5HtIqAELcLAuWH5fAg-nnWByIjScQOkT1bRaLi5dOwVIgRztYxirgMQzAvOUuQA)]
+- [主旋律 TMD 檔案](gakuyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvQe1BM5mWmp6FJpRZmpeSnFGZkFSlxaWgpP1-542t-toKXFpWirYGhoxGVvq-DCZWOib2IH0ggKAiuFZ9M2PN--QuHphn6g8mcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7Pb3u_peLqh--mOHc-XT3yyawpY6VqQLTu3PJ-y4v2eTrCDnuxoeLZo7rPWvic7Ol829ykAjX_c0EWKPY8bukFWLVn-bO3ip72NT3b1AG2AMJ7N6Xi_p-f5lkXPZu94MXO-goG5kamuiSHM7hcr573fMwuo8-mknudTNjzdvevZip1KXFz6Wgq21AJcCgoKdgrRin7-Ia6xEI6W1tO--SAXbW5_saLrRUc70DdApzxtXfFsWruWFjjcep-1dyokgFKXXlZBesKjhskgjjmYA_QSxACFAj0FIzMLoKSRmSVIFFdwr1mjYGSk8HLZNKDPgT6GOEMX6JAne-cAbQbZiR4MCDUvVu1_1rAc5MzuXmAgghU_bu4GCj-dPRso9nTtBKCTXRSABgDFFIAJRgEoCrap59HMlZDEBDft2YqmZ7M3Pd864dnyboi9eza-2LodGNPP1zcAzQG5FWwASHDKRqAxT7sWKBiagNICUMXTdcCI3wI05Gn_0scNTc82r3jW0v9szhqgmZBQfDl7GtCpCoaWxoYKQK9D0tLTdbOetk56vnopJOkAU8zL1TOer-0EBtXzKduBHgAmyCc7ux83dEByweMGoOM7nGFeMjSC2g50zfPZO55O6AF67cnethdr54Dsnd79dF830FKImmdTdwAdCYzMJzt6wSo7gOTTCSA20HnPp24AagGaA3Q8MBJBJqzvf7Gw5-W07pcL1j6f1fZ0Q_uTHV3AXAEUfDZnNTAggA6DhBGQ_ay77fnedc-m7QFpAUVnz7O1S17MnPp0QseTvVtfNrUAzXzeBIy_mc92TYNFBcRdkCAHWguOC1hKBFr0uKERmOnBfIh7Hzd2PW5cBXJj44zHjb3PV00GC-573LgSLLj6ceMyYOoDC05_3ATMYp2PmyYBQw6mDKJ3M8RMkA2NSx43rnu6ay1YAVD7eoQ569dAdTV1Qcx52QhkAEWaHjfOBSvbBjHnceOOx40LgFqA5gNdBYwlsLIVj5uawMomA9U_XQOKt8eNbY-bgB4BCk5_3DgRyMbw9S6gENzXz-YALYLYCFQ_H-K2p0umggSb2h43bn3cuBMqOK0FLAj2cmMv0LUvNkHcPxvs-Eaogc0LIQbC3NAL9PKTXZPAgvMfN_Y8bgQngcbVL1avBgu2PG4EWgcy4Vk7UAooAgxzIBeoZibM-8CABfpxBcidTd1Yvf-spxHsPIgIMMx3onif8sIMChS09Lm43BOzSytLrQIyE_PyHWoMahSqQXYo2FhogYNZAVshqgBJyMC8AszmkDSuoAHL2joKsBJOE4tOoJUgU2sUDIDFCAwbAnENmNRVMFIwBpImYBFTsIgZmIaIgOQgqiAYpgtiDkhdDdh8H8MahXggD4YfN60Cq37c3AVW_bhpBxCvBbGa50FlOiEyzd1A3AZWs_1x8wqo5CaoNRDlEGNA4pOh4mBLmichHGCE5oDGJoiOxukQcxrnA_FqsDUgy0AyW6EyO-EyHVCZXpjtTSAbgMkUIt7UiGw7xAYu3LEGiqxdPeDIMiYtsgzjoBaBGUYgAknQDIphEYYtMh43g_wCCcEWMNkHDcFuuHg_NPgh4qBQQYQsOJLgIQsLRZCvQWEDzJfQkJoPF-8Bk6B4A4mDwhMRUiAXEAqpHZ3kJGvUkEINFVDiBYcKWBwEQTyQaA04McNCzhAohhxyoKQLCSGQbx43LYL4qWkvXHwamJwBDbkGuDg4GcPSKji5I0IUnLaQQnQqTBc4VQFLIqguSLYAicwEk_ugIQpL-cDCC0xC03cTLD4hIQ3OP_hDGtj8ICdNIhcOkAIEf-EAwsihCgpFkG83Q0PycdMyaPitgYfEdjC5EU0clqeRQq8J5HtIqAELcLAuWH5fAg-nnWByIjScQOkT1bRaLi5dOwVIgayAwlLmAgA)]
 - [鋼琴伴奏 TMD 檔案](gakuyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQlFgE1JyempuaV2JVkJmYlx-fmJycn1uQmJcJEkMoLMkAKoL5NiczLRVdKq0oMzUvpTgjs0CJS0tL4enaHU_7u9_v6Xg5e-azzu6X3XueT9jyZM-Wp0v73-_pVNDS4lK0VTA0NOKyt1Vw4bIx0TexAxkICkMrhWfTNjzfvkLh6YZ-oDHPFix83Lz7aesaCFvh6ZSNz9b2PJs689ncCS9ntwGteLqh--mOHc-XT3yyawpY6VqQ7Tu3PJ-yAmgX2KFPdjQ8WzT3WWvfkx2dL5v7FIDGP27oIsWexw0g3zxdsvzZ2sVPexuf7OoB2gBhPJvT8X5Pz_Mti57N3vFi5nwFA3MjU10TQ5jdL1bOe79nFlDn00k9z6dseLp717MVO5W4uNwTs0srS60CQMEe5OFQY1CjUM2lAAQ2Flp2YIa-loItOlB4umfji63bX3S0P1-zBuitFwt7FDRMQH54vr5BRwGY1Mz1sgrSNbHo1NIHm1qjYKCgC8eGQFwDJnUVjBSMgaQJWMQULGIGpiEiIDmIKgiG6YKYA1JXAzbfx7BGIR7Ig-HHTavAqh83d4FVP27aAcRrQazmeVCZTohMczcQt4HVbH_cvAIquQlqDUQ5xBiQ-GSoONiS5kkIBxihOaCxCaKjcTrEnMb5QLwabA3IMpDMVqjMTrhMB1SmF2Z7E8iGx42zIeJNjci2Q2zgwh1roMja1QOOLGPSIsswDmoRmGEEIpAEzaAYFmHYIuNxM8gvkBBsAZN90BDshov3Q4MfIg4KFUTIgiMJHrKwUAT5GhQ2jxvXQ0NqPly8B0yC4g0kDgpPREiBXEAopHZ0kpOsUUMKNVRAiRccKmBxEATxQKI14MQMCzlDoBhyyIGSLiSEQL553LQI4qemvXDxaWByBjTkGuDi4GQMS6vg5I4IUXDaQgrRqTBd4FT1uBGUskG6INkCJDITTO6Dhigs5T9uBOURePpugsUnJKTB-Qd_SD-dPZucNIlcOEAKEPyFAwgjhyooFEG-3QwNycdNy6DhtwYeEtvB5EY0cVieRgq9JpDvIaH2uHEuWBcsvy-Bh9NOMDkRGk6g9IlqWi1qeeyDUh6bQMtjUMkJgUDvxStEG8bCKJx803ggbRqPqgKoH5Zk0XSZABkmsTAKxRQMTeiK0A2B8-FuwGoM0S4GBpGunQIklKJ9gOJIPCMwT5kLAA)]
 
 ## 分析
@@ -89,10 +97,10 @@ w: つ べ け | れ
 🎼 Key & Tempo:    首調基準 D, != 112.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Gakuyu[L1] #1 @ m.1, 0:01]
-   - 最高音: E5 in [Gakuyu[L1] #1 @ m.6, 0:12]
+   - 最低音:  D4 in [Gakuyu #1 @ m.1, 0:01]
+   - 最高音: E5 in [Gakuyu #1 @ m.6, 0:12]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Gakuyu[L1] (32.1s) -> Gakuyu[L2] (32.1s)
+🏛  結構:      Gakuyu (32.1s) -> Gakuyu (32.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -102,8 +110,8 @@ w: つ べ け | れ
    - 候選調性 (K-S): D 大調 (0.94), A 大調 (0.72), B 小調 (0.59)
    - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Gakuyu[L1] #1]: D 大調 (r: 0.94, 自然音純度: 100.0%)
-     • [Gakuyu[L2] #1]: D 大調 (r: 0.94, 自然音純度: 100.0%)
+     • [Gakuyu #1]: D 大調 (r: 0.94, 自然音純度: 100.0%)
+     • [Gakuyu #2]: D 大調 (r: 0.94, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

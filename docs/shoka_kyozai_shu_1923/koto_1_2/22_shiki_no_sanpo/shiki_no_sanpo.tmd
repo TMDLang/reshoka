@@ -70,4 +70,4 @@ ShikiNoSanpo:Piano@|0|{
     L4| ゆ - - - き - - - よ - - - り - - - | さ - 0 - き - 0 - に - - - - - - - | こ - - - こ - - - ろ - - - ぞ - - - | き - 0 - よ - 0 - き - - - - - - - |
 }
 
--> ShikiNoSanpo[L1] -> ShikiNoSanpo[L2] -> ShikiNoSanpo[L3] -> ShikiNoSanpo[L4] -> #
+-> ShikiNoSanpo -> ShikiNoSanpo -> #

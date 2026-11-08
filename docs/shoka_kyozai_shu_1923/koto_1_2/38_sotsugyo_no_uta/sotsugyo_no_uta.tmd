@@ -76,4 +76,4 @@ SotsugyoNoUta:Piano@|-1| {
     L2| ち - て - ぞ - く - | ら - - - さ - - - | ん - - - - - こ - | の - に - は - こ - | の - - - と - - - | も - - - 0 - 0 - |
 }
 
--> SotsugyoNoUta[L1] -> SotsugyoNoUta[L2] -> #
+-> SotsugyoNoUta -> SotsugyoNoUta -> #

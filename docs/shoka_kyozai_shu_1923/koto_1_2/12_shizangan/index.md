@@ -75,7 +75,7 @@ w: ニ | シ ヅ マ リ | タ マ | ヘ
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shizangan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1kiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfQaQr0YVLEjPLE5FMhIjmpuYCjUrMUeLS0lJ40TX36caNT7dPU9DS4lK0VTCz5LK3VXDmsjHRN7EDaQQFipXCs2kbnm9fofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnu_p-Pl6hnP13Y-Xz7xyY4GoNInu3qASp_u3PJ8yor3ezrBDgLKPFs091lr35MdnS-b-xSAxj9u6CLFnscN3UCrni5Z_mzt4qe9jSBLdm6BMJ7N6Xi_p-f5lkXPZu94MXO-goG5kamuiSHM7hcr573fM-tp14KXzSueztrydMlqsPCz2ZuAwkC3P1vZDTQE6LCns2crcXHpaynYUgtwKSgo2ClEK_r5h7jGQjhaWk_75oMcurn9xYquFx3tQE8CXfi0dcWzae1aWiA_buh91t6pkABKhnpZBekJjxomAznmBmAO0KcQAxQK9BSMzQyAksZmQL_24IyFNWsUDI0UXi6bBgwQoI8hztAFOuTFqv3PGpaDnNDdCww3kOWzHjf3A4WBIQEUe7p2AtA5L9bOAUo-b1n4tLf95czexw2NwMSiAJQG2vlk91IFF4WX8zcrJBglKDxv2vV8a9OztYuAAk92dr_o6wIG98vZrc9WNL1ctOLZ9O5nm6eC3dDzaOZKBXDqQ7hl5TxghDzZO-dFQyvYIcjxpQASXzkPaDVadIEkwPHY8axpz9P9W-Hp-8mu7ie7tz1tXfsMmLZaO55PmQ9y0MTpTyf0Pu3f8Lxx8fMde5_PXfx01xxIMgM663FDE8I5T_t7XyxrAwXNnilPl_Y_62l_vmQX2F1Az4BCZMXaZ3M6Qam6ew0wdIAOSDDUA8VNghFQv56CgYJVDZDbCTQBlEDhiowQioAwQeHlzJanu7e9nLr9xYoZYCUgZ4BizASUK56vb1BIMFUwVTBWMALq63jc0PO4ueVxc-Pj5o7HzXseNwDjoPPJrinPt88CugkY_MAgedrQDSI72oCR8HzNMpClIN0KT3YAs9tOoKOfzpn8bPdEoBZIVDzfsBCoVwGmqBuo6MWqJU97N7xsWAw04umuqWClPU_2zYUkE7CXoFYCXQ21FWYfaiiCE-rTppkvGprBgQeRUlAAegSUPnctez573ePmvmczm4DpDph2Hjevety8AkiCZMH-fzYHmJgXgfwOlGraD_J1M1Bk8-NmoOM7Hzd3AxU83QcMlj6g_UBDgEH5uGk9MEwfN0943LT9yY4pwBB7tg2ofdnj5tWPm5c8bgIyusF2rQYGINhFsJyJnBWBrgWWkWCJx42rHjf2Pm7sftzU-bhx_eOGhseNLY8blz5unPy4cd3jxiWPGxc-bgQWaEBxoCO7HjeuAXGboCHxuHH_48b5jxv3AfU-W7vkxUxgJugA650M8kIj0BlAjUD180BqQNohindAtD_bsONl4wKwFiAC2tvxuAmkEbdR08FuQzEKGi2Ul2hQoKClz8UVnJFZlZiXnphnFZCZmJfvUGNQo1ANskbBxkQLHKgK2ApTBWD6BuacFwt7FDRgyVxHAVbAaWLRALQMZBjQ9IJaBSMFQyA2AvIgucgAzAJBYyALmlsUasA6fAxrFB43dyk8bloLxKuB7JVANcBkAtYZD2I3LQHyW4H0ZiDdB5ZtAeJGIO4Aqqnhwu-PXT3k-gPuUiR_VKelAT0YB0VmUP-Ygd2B4p_mVUDcA3YjSGQRwj_N84F-2Q-k54H9CfIh0Gdg33UT4Z8dneT6xwwMTYE8EA32CdjhQCayJMizIIzsoQ4g7oQ6eRXYyTAPzACb8LhpBSSiQHTzZqindKEkAS8BSyegl5529j5bt1VBw5g0jyFFTQGKH7F5AxS-sFS1HZKqULwEdDCQD9JTy8XlmpeSmZduSGLWgdc4ChqGZPoEycGg0AU7GOEgI1IdBKvdSHYQOEChFSEWV0GDSddOAV7MRPsYxioABaBBB-PikDeCcZW5AA)]
+- [主旋律 TMD 檔案](shizangan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1kiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfQaQr0YVLEjPLE5FMhIjmpuYCjUrMUeLS0lJ40TX36caNT7dPU9DS4lK0VTCz5LK3VXDmsjHRN7EDaQQFipXCs2kbnm9fofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnu_p-Pl6hnP13Y-Xz7xyY4GoNInu3qASp_u3PJ8yor3ezrBDgLKPFs091lr35MdnS-b-xSAxj9u6CLFnscN3UCrni5Z_mzt4qe9jSBLdm6BMJ7N6Xi_p-f5lkXPZu94MXO-goG5kamuiSHM7hcr573fM-tp14KXzSueztrydMlqsPCz2ZuAwkC3P1vZDTQE6LCns2crcXHpaynYUgtwKSgo2ClEK_r5h7jGQjhaWk_75oMcurn9xYquFx3tQE8CXfi0dcWzae1aWiA_buh91t6pkABKhnpZBekJjxomAznmBmAO0KcQAxQK9BSMzQyAksZmQL_24IyFNWsUDI0UXi6bBgwQoI8hztAFOuTFqv3PGpaDnNDdCww3kOWzHjf3A4WBIQEUe7p2AtA5L9bOAUo-b1n4tLf95czexw2NwMSiAJQG2vlk91IFF4WX8zcrJBglKDxv2vV8a9OztYuAAk92dr_o6wIG98vZrc9WNL1ctOLZ9O5nm6eC3dDzaOZKBXDqQ7hl5TxghDzZO-dFQyvYIcjxpQASXzkPaDVadIEkwPHY8axpz9P9W-Hp-8mu7ie7tz1tXfsMmLZaO55PmQ9y0MTpTyf0Pu3f8Lxx8fMde5_PXfx01xxIMgM663FDE8I5T_t7XyxrAwXNnilPl_Y_62l_vmQX2F1Az4BCZMXaZ3M6Qam6ew0wdIAOSDDUA8VNghFQv56CgYJVDZDbCTQBlEDhiowQioAwQeHlzJanu7e9nLr9xYoZYCUgZ4BizASUK56vb1BIMFUwVTBWMALq63jc0PO4ueVxc-Pj5o7HzXseNwDjoPPJrinPt88CugkY_MAgedrQDSI72oCR8HzNMpClIN0KT3YAs9tOoKOfzpn8bPdEoBZIVDzfsBCoVwGmqBuo6MWqJU97N7xsWAw04umuqWClPU_2zYUkE7CXoFYCXQ21FWYfaiiCE-rTppkvGprBgQeRUlAAegSUPnctez573ePmvmczm4DpDph2Hjevety8AkiCZMH-fzYHmJgXgfwOlGraD_J1M1Bk8-NmoOM7Hzd3AxU83QcMlj6g_UBDgEH5uGk9MEwfN0943LT9yY4pwBB7tg2ofdnj5tWPm5c8bgIyusF2rQYGINhFsJyJnBWBrgWWkWCJx42rHjf2Pm7sftzU-bhx_eOGhseNLY8blz5unPy4cd3jxiWPGxc-bgQWaEBxoCO7HjeuAXGboCHxuHH_48b5jxv3AfU-W7vkxUxgJugA650M8kIj0BlAjUD180BqQNohindAtD_bsONl4wKwFiAC2tvxuAmkEbdR08FuQzEKGi2Ul2hQoKClz8UVnJFZlZiXnphnFZCZmJfvUGNQo1ANskbBxkQLHKgK2ApTBWD6BuacFwt7FDRgyVxHAVbAaWLRALQMZBjQ9IJaBSMFQyA2AvIgucgAzAJBYyALmlsUasA6fAxrFB43dyk8bloLxKuB7JVANcBkAtYZD2I3LQHyW4H0ZiDdB5ZtAeJGIO4Aqqnhwu-PXT3k-gPuUiR_VKelAT0YB0VmUP-Ygd2B4p_mVUDcA3YjSGQRwj_N84F-2Q-k54H9CfIh0Gdg33UT4Z8dneT6xwwMTYE8EA32CdjhQCayJMizIIzsoQ4g7oQ6eRXYyTAPzACb8LhpBSSiQHTzZqindKEkAS8BSyegl5529j5bt1VBw5g0jyFFTQGKH7F5AxS-sFS1HZKqULwEdDCQD9JTy8XlmpeSmZduSGLWgdc4ChqGZPoEycGg0AU7GOEgI1IdBKvdSHYQOEChFSEWV0GDSddOAV7MKAA50GADMbGIA42zU1DmAgA)]
 - [鋼琴伴奏 TMD 檔案](shizangan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1kiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKoOZXowiWJmeWJSFZDRHNTc4F2JuYocWlpKbzomvt048an26e939PxcvbMZ53dL7v3PJ-w5cmeLU-X9r_f06mgpcWlaKtgZsllb6vgzGVjom9iBzIQFKpWCs-mbXi-fYXC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54ObsNZMPqGc_Xdj5fPvHJjgag0ie7eoBKn-7c8nzKCqBVYIcCZZ4tmvuste_Jjs6XzX0KQOMfN3SRYs_jhm6gVU-XLH-2dvHT3kaQJTu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18QQZveLlfPe75n1tGvBy-YVT2dtebpkNVj42exNQGGg25-t7AYaAnTY09mzlbi4gjMyq4CxlJhnFQCKoiAPhxqDGoVqLgUgsDHRsgMz9LUUbNGBwvM1a4D-fLGwR0HDBOSp5-sbdBQCjM0N9LIK0jWxaNDSBxsGNL2gVsFIwRCIjYA8IwVdIDQAs0DQGMgyBUJjkCxYh49hjcLj5i6Fx01rgXg1kL0SqOZxcz9YZzyI3bQEyG8F0puBdB9YtgWIG4G4A6imhgu_P3b1kOsPuEuR_FGdlgb0YBwUmUH9YwZ2B4p_mlcBcQ_YjSCRRQj_NM8H-mU_kJ4H9ifIh0CfgX3XTYR_dnSS6x8zMDQF8kA02CdghwOZyJIgz4Iwsoc6gLgT6uRVYCfDPDADbMLjphWQiALRzZuhntKFkgS8BEytQC897ex9tm6rgoYxaR5DipoCFD9i8wYofGGpajskVaF4CehgIB-kpxYj-_hgzT7QFB-vEG2UGwungbYjRMDJH0mBIUjeEMIwi4fpQDINQw7dNEgiRDLSBMlIEygfyUCoEIgCWw7lg40BsmFJAF0Zhq9gQY7mGlC4o-s1BTneNB7qC7N4sHZgoLrmpWTmpRviK5GQ4hQp6kDpDBx1GKbgihhUZyK0GeG3HOwdiAtQEw_EBdDEgWIU7qQBSRu6EIdAteraKcCTVrQPMLSAAlAPwbg45I1gXGUuAA)]
 
 ## 分析
@@ -88,10 +88,10 @@ w: ニ | シ ヅ マ リ | タ マ | ヘ
 🎼 Key & Tempo:    首調基準 C, != 69.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Shizangan[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Shizangan[L1] #1 @ m.7, 0:20]
+   - 最低音:  C4 in [Shizangan #1 @ m.1, 0:00]
+   - 最高音: D5 in [Shizangan #1 @ m.7, 0:20]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Shizangan[L1] (52.2s) -> Ending1[L1] (3.5s) -> Shizangan[L1] (52.2s) -> Ending2[L1] (3.5s)
+🏛  結構:      Shizangan (52.2s) -> Ending1 (3.5s) -> Shizangan (52.2s) -> Ending2 (3.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -101,10 +101,10 @@ w: ニ | シ ヅ マ リ | タ マ | ヘ
    - 候選調性 (K-S): D 大調 (0.87), D 小調 (0.75), G 大調 (0.57)
    - 五度圈歷程:   +2 -> +2 -> +2 -> +2
    - 各段落調性細節:
-     • [Shizangan[L1] #1]: D 大調 (r: 0.87, 自然音純度: 98.2%, 調外音: C)
-     • [Ending1[L1] #1]: D 調性不明確 (r: 0.68, 自然音純度: 100.0%)
-     • [Shizangan[L1] #2]: D 大調 (r: 0.87, 自然音純度: 98.2%, 調外音: C)
-     • [Ending2[L1] #1]: D 調性不明確 (r: 0.68, 自然音純度: 100.0%)
+     • [Shizangan #1]: D 大調 (r: 0.87, 自然音純度: 98.2%, 調外音: C)
+     • [Ending1 #1]: D 調性不明確 (r: 0.68, 自然音純度: 100.0%)
+     • [Shizangan #2]: D 大調 (r: 0.87, 自然音純度: 98.2%, 調外音: C)
+     • [Ending2 #1]: D 調性不明確 (r: 0.68, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

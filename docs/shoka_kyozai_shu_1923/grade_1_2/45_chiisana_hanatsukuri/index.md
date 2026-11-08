@@ -52,22 +52,26 @@ K:D
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
 A2 A2 d2 d2 | F2 F2 A4 | G2 G2 B2 B2 | A2 A2 F2 z2 |
-w: あ れ あ れ | う れ し | お は な が | さ い た
+w: 1.~あ れ あ れ | う れ し | お は な が | さ い た
+w: 2.~わ た し が | う ゑ て | さ か せ た | は な よ
+w: 3.~お い で よ | て ふ てふ | ひ ら ひ ら | と ん で
 A2 A2 d2 d2 | F2 F2 A4 | B3 A G2 E2 | E2 E2 D4 |
-w: み な よ く | さ い た | わ た し の | は な が
+w: 1.~み な よ く | さ い た | わ た し の | は な が
+w: 2.~お み づ を | や つ て | そ だ て た | は な よ
+w: 3.~お は な に | と ま れ | し づ か に | と ま れ
 A2 A2 d2 d2 | F2 F2 A4 | G2 G2 B2 B2 | A2 A2 F2 z2 |
-w: わ た し が | う ゑ て | さ か せ た | は な よ
+w: 1.~あ れ あ れ | う れ し | お は な が | さ い た
+w: 2.~わ た し が | う ゑ て | さ か せ た | は な よ
+w: 3.~お い で よ | て ふ てふ | ひ ら ひ ら | と ん で
 A2 A2 d2 d2 | F2 F2 A4 | B3 A G2 E2 | E2 E2 D4 |
-w: お み づ を | や つ て | そ だ て た | は な よ
-A2 A2 d2 d2 | F2 F2 A4 | G2 G2 B2 B2 | A2 A2 F2 z2 |
-w: お い で よ | て ふ てふ | ひ ら ひ ら | と ん で
-A2 A2 d2 d2 | F2 F2 A4 | B3 A G2 E2 | E2 E2 D4 |
-w: お は な に | と ま れ | し づ か に | と ま れ
+w: 1.~み な よ く | さ い た | わ た し の | は な が
+w: 2.~お み づ を | や つ て | そ だ て た | は な よ
+w: 3.~お は な に | と ま れ | し づ か に | と ま れ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](chiisana_hanatsukuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFhaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5CTmIdkP0QwJTEzpzI-JzMtVYlLS0vh6Yb-x41THzeuetG18XHjkseN_Y-buhS0tLgUbRUsjbjsbRVcuGyM9E3sQMY82dHwbNHcZ619T3Z0vmzuU3i-fcXjhq5n0zYAGSCTnq7d8WzBwsfNu5-2roGwFZ5O2fhsbc-zqTOfzZ3wcnbb44bu93s6ni5Z_mzt4qe9jU929TzduQXCeDan4_2enudbFj2bvePFzPkKBuZGpromhu_3dCpxcelrKdhSC3ApKCg87ZsPsmZz-4sVXS862oFOfLFy3tPWFc-mtYPct6H3WXunAih-9bIK0h81TAYyLUFMoAshWhUK9BQsDYAylkAX9jxfs0bBxFTh5bJpQOe-3zMLZMWLVfufNSwHGd7dC_QPUPRxczdQEOTV7t6naycALXJRAAYFUEwBGMIKQFGw7p5HM1faAsMeZAgwxB83NIJYjxubHjf1QMina4DKOh43tgHZQC2PG6c_bmh43NgFjEOw-HpgfILFe55O2gQWmQrmtjxunA8y6_msNrDofqi6JiC7H1Mp0NDnyxtBgk3ARDIfaA1Yah2mNY8bmiDO3QVkgp2LTWPPsyVAH4LcDbZ04uPGZUArUO3tftw4G6gF3YqmDkgYdD3bsAXm9KVgiUkvGxeDbWoB6wemYJChL5oghs593LgALL4Mq6Fwd-_ohAdz19P2XWBlEAOXA5W9mLvtcUMrWBBoztbHDUBzgBqAQb7pcRNQDYh8uXg2WMEKsMmTgRqhxmGE1mqgoseN-0Cx2dDwcu4csOx0qH9AAbD62dpFCLOgKptAxlGe-KFAQUufi8s5IzOzGFhueABxSXFpdmlRplVYPrA0cagxqKkG2adgY2imZQdmYcuBCsB0D0yhLxb2KGiYgAqA5-sbdEDZBpxXNLFoAFoLMqxGwVRBF4wN42BEjYIxkARhkDgI1iiYAEkQNoNihD6QOgOQCNg8H8MaUAYB8oFhBSKR2CCZNiSZ6XDTgZEDFlkPJleBSZiOqWBeC5icDyTjEXYZAeWb-uEyEBMROiF2TQSLLUOyC2JiN5icDdcNkkGyv6kD1S5jhCshblkOVwWSAZkPTJAQuyAMmHWbwAo7wVIINkhmBZg3GW4cxDr8kbyrh3aRDIpYEB8U0UZgERAJwoYwNUiRvB8tsIAlF44og4YEOKogYrCoWocZ8ODoQ7ILFMnQgIfYuBRs4ySomRBblkACHinU50LtWgCPHFyRjGQXUiQju2g1cnw17gPrhLsSnpBBLoMlK7w6uGq5uHTtFLBk-mgfw1gFXFJGuKWMwVLKXAA)]
+- [主旋律 TMD 檔案](chiisana_hanatsukuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFhaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5CTmIdkP0QwJTEzpzI-JzMtVYlLS0vh6Yb-x41THzeuetG18XHjkseN_Y-buhS0tLgUbRUsjbjsbRVcuGyM9E3sQMY82dHwbNHcZ619T3Z0vmzuU3i-fcXjhq5n0zYAGSCTnq7d8WzBwsfNu5-2roGwFZ5O2fhsbc-zqTOfzZ3wcnbb44bu93s6ni5Z_mzt4qe9jU929TzduQXCeDan4_2enudbFj2bvePFzPkKBuZGpromhu_3dCpxcelrKdhSC3ApKCg87ZsPsmZz-4sVXS862oFOfLFy3tPWFc-mtYPct6H3WXunAih-9bIK0h81TAYyLUFMoAshWhUK9BQsDYAylkAX9jxfs0bBxFTh5bJpQOe-3zMLZMWLVfufNSwHGd7dC_QPUPRxczdQEOTV7t6naycALXJRAAYFUEwBGMIKQFGw7p5HM1faAsMeZAgwxB83NIJYjxubHjf1QMina4DKOh43tgHZQC2PG6c_bmh43NgFjEOw-HpgfILFe55O2gQWmQrmtjxunA8y6_msNrDofqi6JiC7H1Mp0NDnyxtBgk3ARDIfaA1Yah2mNY8bmiDO3QVkgp2LTWPPsyVAH4LcDbZ04uPGZUArUO3tftw4G6gF3YqmDkgYdD3bsAXm9KVgiUkvGxeDbWoB6wemYJChL5oghs593LgALL4Mq6Fwd-_ohAdz19P2XWBlEAOXA5W9mLvtcUMrWBBoztbHDUBzgBqAQb7pcRNQDYh8uXg2WMEKsMmTgRqhxmGE1mqgoseN-0Cx2dDwcu4csOx0qH9AAbD62dpFCLOgKptAxlGe-KFAQUufi8s5IzOzGFhueABxSXFpdmlRplVYPrA0cagxqKkG2adgY2imZQdmYcuBCsB0D0yhLxb2KGiYgAqA5-sbdEDZBpxXNLFoAFoLMqxGwVRBF4wN42BEjYIxkARhkDgI1iiYAEkQNoNihD6QOgOQCNg8H8MaUAYB8oFhBSKR2CCZNiSZ6XDTgZEDFlkPJleBSZiOqWBeC5icDyTjEXYZAeWb-uEyEBMROiF2TQSLLUOyC2JiN5icDdcNkkGyv6kD1S5jhCshblkOVwWSAZkPTJAQuyAMmHWbwAo7wVIINkhmBZg3GW4cxDr8kbyrh3aRDIpYEB8U0UZgERAJwoYwNUiRvB8tsIAlF44og4YEOKogYrCoWocZ8ODoQ7ILFMnQgIfYuBRs4ySomRBblkACHinU50LtWgCPHFyRjGQXUiQju2g1cnw17gPrhLsSnpBBLoMlK7w6uGq5uHTtFLBkegXcwspcAA)]
 - [鋼琴伴奏 TMD 檔案](chiisana_hanatsukuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFhaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhViUVA8fTU3NS8EquCzMS8_PjE5OT83ILEvEyQmBKXlpbC0w39jxunPm5c9aJr4-PGJY8b-x83db3f0_Fy9sxnnd0vu_c8n7DlyZ4tT5f2v9_TqaClxaVoq2BpxGVvq-DCZWOkb2IHsu3JjoZni-Y-a-17sqPzZXOfwvPtKx43dD2btgHIANnwdO2OZwsWPm7e_bR1DYSt8HTKxmdre55Nnfls7oSXs9seN3QDLX26ZPmztYuf9jY-2dXzdOcWCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhgCnaPExeWckZlZnJiX6AHEJcWl2aVFmVYBIK8GeTjUGNRUcykAgY2hmZYdmKWvpWCLDhSer1kD9MCLhT0KGiYg1z5f36CjAIwwS72sgnRNLBq09MGG1SgYa5sq6EJJU23DOARVo2CobQykISREBQjWKBhpmwBpCGmibQYnUU2D6DMAiYPt8jGsUXjc2ATkP27qAZFIbJBMG5LMdLhdjxu7wCLrweQqMAnTMRXMawGT84FkPMIuI6B8Uz9cBmIiQifErolgsWVIdkFM7AaTs-G6QTJI9jd1oNpljHAlxC3L4apAMiDzHzduhdgFYcCs2wRW2AmWQrBBMivAvMlw4yDW4U8Au3rolQAg0Q0RgyQD83htI7AUlAGlDGFakFLAfrSQBOZXHPEJDSZwPELEYPG4DjNWwHGLZBcoBUBjBWLjUrCNk6BmQmxZAokVpCiZC7VrATzmcKUAJLuQUgCyi1YjR2bjPrBOuCvhqRzkMliaw6uDqxZPYeGDXFhYQMsKYAzGK5jGQ0l0ngmYCSGR5AygviJGsxGIB-KCSIgs1KG6dgpY3BrtYxirgEvKCLeUMVhKmQsA)]
 
 ## 分析
@@ -76,14 +80,14 @@ w: お は な に | と ま れ | し づ か に | と ま れ
 ================================================================================
 📊 TMD Song Profile: [ 小さな花つくり ]
 ================================================================================
-⏱  Duration:       0:31 (31.3s), 24 measures total
+⏱  Duration:       0:20 (20.9s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [ChiisanaHanatsukuri[L1] #1 @ m.8, 0:09]
-   - 最高音: D5 in [ChiisanaHanatsukuri[L1] #1 @ m.1, 0:00]
+   - 最低音:  D4 in [ChiisanaHanatsukuri #1 @ m.8, 0:09]
+   - 最高音: D5 in [ChiisanaHanatsukuri #1 @ m.1, 0:00]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      ChiisanaHanatsukuri[L1] (10.4s) -> ChiisanaHanatsukuri[L2] (10.4s) -> ChiisanaHanatsukuri[L3] (10.4s)
+🏛  結構:      ChiisanaHanatsukuri (10.4s) -> ChiisanaHanatsukuri (10.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -91,11 +95,10 @@ w: お は な に | と ま れ | し づ か に | と ま れ
    - 核心骨幹音:  A, D, F#, B, E
    - 調性數值:    D 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.87), A 大調 (0.75), F# 小調 (0.62)
-   - 五度圈歷程:   +2 -> +2 -> +2
+   - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [ChiisanaHanatsukuri[L1] #1]: D 大調 (r: 0.87, 自然音純度: 100.0%)
-     • [ChiisanaHanatsukuri[L2] #1]: D 大調 (r: 0.87, 自然音純度: 100.0%)
-     • [ChiisanaHanatsukuri[L3] #1]: D 大調 (r: 0.87, 自然音純度: 100.0%)
+     • [ChiisanaHanatsukuri #1]: D 大調 (r: 0.87, 自然音純度: 100.0%)
+     • [ChiisanaHanatsukuri #2]: D 大調 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -122,7 +125,7 @@ w: お は な に | と ま れ | し づ か に | と ま れ
      B  : ████████                  11.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 84 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 56 個音符)
 ================================================================================
 ```
 

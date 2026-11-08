@@ -66,4 +66,4 @@ AkaiPosuto:Piano@|0| {
     L2| か - ま - ち - の - | ま が り - か ど の - | _ - まっ - か - - な | ぽす - - - と - _ - |
 }
 
--> AkaiPosuto[L1] -> AkaiPosuto[L2] -> #
+-> AkaiPosuto -> AkaiPosuto -> #

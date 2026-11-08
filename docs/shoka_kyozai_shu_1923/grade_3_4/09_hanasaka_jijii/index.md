@@ -59,26 +59,34 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F3 F E2 D2 | F2 A2 A2 A2 | F2 A2 B3 A | A6 z2 |
-w: シヤ ウ ヂ キ | ヂ ヂ イ ガ | ハ ヒ マ ケ | バ
+w: 1.~シヤ ウ ヂ キ | ヂ ヂ イ ガ | ハ ヒ マ ケ | バ
+w: 2.~い ぢ わ る | ぢ ぢ い が | は ひ ま け | ば
 d3 d d2 B2 | A4 A2 F2 | E2 E2 F3 E | D6 z2 |
-w: ノ ハ ラ モ | ヤ マ モ | ハ ナ ザ カ | リ
+w: 1.~ノ ハ ラ モ | ヤ マ モ | ハ ナ ザ カ | リ
+w: 2.~め は な も | く ち も | は ひ だ ら | け
 E3 E E2 E2 | F3 E D2 E2 | F2 A2 B3 A | A6 z2 |
-w: ト ノ サ マ | タ イ ソ ウ | ヨ ロ コ ン | デ
+w: 1.~ト ノ サ マ | タ イ ソ ウ | ヨ ロ コ ン | デ
+w: 2.~と の さ ま | た い そ う | は ら を た | て
 d3 d d2 B2 | A2 A2 A2 F2 | E2 E2 F3 E | D6 z2 |
-w: ヂ ヂ イ ニ | ハ ウ ビ ヲ | ク ダ サ レ | ル
+w: 1.~ヂ ヂ イ ニ | ハ ウ ビ ヲ | ク ダ サ レ | ル
+w: 2.~ぢ ぢ い に | な _ は を | か け ら れ | る
 F3 F E2 D2 | F2 A2 A2 A2 | F2 A2 B3 A | A6 z2 |
-w: い ぢ わ る | ぢ ぢ い が | は ひ ま け | ば
+w: 1.~シヤ ウ ヂ キ | ヂ ヂ イ ガ | ハ ヒ マ ケ | バ
+w: 2.~い ぢ わ る | ぢ ぢ い が | は ひ ま け | ば
 d3 d d2 B2 | A4 A2 F2 | E2 E2 F3 E | D6 z2 |
-w: め は な も | く ち も | は ひ だ ら | け
+w: 1.~ノ ハ ラ モ | ヤ マ モ | ハ ナ ザ カ | リ
+w: 2.~め は な も | く ち も | は ひ だ ら | け
 E3 E E2 E2 | F3 E D2 E2 | F2 A2 B3 A | A6 z2 |
-w: と の さ ま | た い そ う | は ら を た | て
+w: 1.~ト ノ サ マ | タ イ ソ ウ | ヨ ロ コ ン | デ
+w: 2.~と の さ ま | た い そ う | は ら を た | て
 d3 d d2 B2 | A2 A2 A2 F2 | E2 E2 F3 E | D6 z2 |
-w: ぢ ぢ い に | な _ は を | か け ら れ | る
+w: 1.~ヂ ヂ イ ニ | ハ ウ ビ ヲ | ク ダ サ レ | ル
+w: 2.~ぢ ぢ い に | な _ は を | か け ら れ | る
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hanasaka_jijii.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJqYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5afk52TX5SqxKWlpfCia-PTSZued-xS0NLiUrRVsDDhsrdVcOGyMdI3sQNpBPnTSuHZtA3Pt69QeLqh_-naHc8WLHzcvPtp6xoIW-HplI3P1vY8mzrz2dwJL2e3vd_T8XRD99MdO54vn_hkRydI6ezZQKVPd255PmXF-z2dYAc92dHwbNHcZ619QCUvm_sUgMY_bugixZ7HDd0gq5Ysf7Z28dPexie7eoA2QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18QQZvezae0vm1c8n9MItBHiVIiFEAuA5oJVvWjf9bxx8fMde5_PXfx01xyQWphTIArR3QD05c4tQO9gs13ByAxsO5e-loIttQCXgoKCnUK0op9_iGsshKOl9bRvPsjeze0vVnS96GgHuvPFynlPW1cAPa2lBY6b3mftnQoJoGSql1WQnvCoYTKIYw7mAB0OMUChQE_B0NgCKGlobAkSxRWla9YoWCq8XDYN6L33e2ZBXKELdMeLVfufNSwHuaC7FxgKILtnPW7uBgqDIqi79-naCUDXuCgAAw8opgBMbwpAUbApPY9mrgQnRbhhQDe9WDsH6PTnrctfrNj9YsUMsHkgyw0NQMnl-foGoGlAPtB5Lxb2gCSM4OKdT3ZNeb59FtAEkAKI7b0bnjftUnBTNgH60NUEqDfBWMEI6P3Op_t6nvUtVXBBSBhCJIDuerKj-9m0nc83LAQ5prMdakiCsR7QMkMFQ6AqkGoQDVQ9-9naJS9mTn2yby7cemBogEN3E9ADYJ0gox83NIE9CotAYM543NAIzI5gPjBhPZ-9BZhBgWY_bpz-uKnlcWPb48ZFjxt7wSQQtQCte9wITLcNzxs3gJWtf9y4CSy473HjxMeNGyBGvWzvA9oOVrAOpKYJ6MjOx01NTzduBAmCTN4HEQGWCjBzVoHNmfa4sftxUxfUSev2P1uxGKxgBdioqRCNwJh8unEJWHw-0FWPG-cCnQo2EGg40LWTHzdNfty4HGII3PGPG1e_WDLp-b4-mI1A320G65oEDG6wYP_jxgVgZ0x93NTzuKkbI8R2AT2PCLGW_qdzNjxrXggLNKAVix439YM0khhiz2eve7lnNzhwGhGhAQyxfoj3gQ5bCBHBMGcBMHiBRpEZYuDYAYYAWHwZZog937kSrGsVUCUkrEARBHQ5SBdSEFFexkCBgpY-F5cHsDYpTsxO9MrMysy0CshMzMt3qDGoqQbZpGBjaKYFjhEFbEWcAjhrNgCzpoKGCTRj6ijAih1NLBqAFoIMq1EwBpYAukDSCEgaAjFExBQJI0TMwGpNgSIgHgwagNSATfMxrFF43LT9cfMSsMTjpmUKj5ubwKy1YIOgPKgYSNXjpjVQmX6wzCQwOQ-qfyNYZgKSZfEIy4yAco0tEJWNi4CqwSY0dUPMA4pAxEEkSBUwRUJl1oN5m8DkPqj-iWCZDRg24Q_yXT3kBLlhHNgCIAVmgUIVEaIgGhTeNeAYAWFIDBmBNOIOdWAdD_YIMBgfN68Es0BeB8lAIgMWrAhxSIB3gQNtGzTAV4NlVuEO8KZGaICtB2KQOmDuhAYryDyI3EIUceTgXgC1pxMsM5HE4AZXPiQHNygMQeEHC09YmgdVKsgiRKfw5g5oePYBfbIVHrKg0NkP9d8SIN4LZi2DhvYKsDpQNnjctBmqfzNYph13aDeCdIHCbR0QTwWzQAkWJDMfKtMCxHPBrDbk8AaGMIgEZSeQ3HywDMgtJIQ3sBVC1eQNw-Qkb1BigpQc0HKjGZrPIckYHMyPmyeDSVBSA0UGOCCaG8DyoGgC8daA9azGE-Sg7AEtUaDlBkg1SAaWLWBBDApckDjIJZDEDAl2EN0DdgFIBtWeWi4uXTsFlKI-2scwVgFT0AgsqMwFAA)]
+- [主旋律 TMD 檔案](hanasaka_jijii.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJqYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5afk52TX5SqxKWlpfCia-PTSZued-xS0NLiUrRVsDDhsrdVcOGyMdI3sQNpBPnTSuHZtA3Pt69QeLqh_-naHc8WLHzcvPtp6xoIW-HplI3P1vY8mzrz2dwJL2e3vd_T8XRD99MdO54vn_hkRydI6ezZQKVPd255PmXF-z2dYAc92dHwbNHcZ619QCUvm_sUgMY_bugixZ7HDd0gq5Ysf7Z28dPexie7eoA2QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18QQZvezae0vm1c8n9MItBHiVIiFEAuA5oJVvWjf9bxx8fMde5_PXfx01xyQWphTIArR3QD05c4tQO9gs13ByAxsO5e-loIttQCXgoKCnUK0op9_iGsshKOl9bRvPsjeze0vVnS96GgHuvPFynlPW1cAPa2lBY6b3mftnQoJoGSql1WQnvCoYTKIYw7mAB0OMUChQE_B0NgCKGlobAkSxRWla9YoWCq8XDYN6L33e2ZBXKELdMeLVfufNSwHuaC7FxgKILtnPW7uBgqDIqi79-naCUDXuCgAAw8opgBMbwpAUbApPY9mrgQnRbhhQDe9WDsH6PTnrctfrNj9YsUMsHkgyw0NQMnl-foGoGlAPtB5Lxb2gCSM4OKdT3ZNeb59FtAEkAKI7b0bnjftUnBTNgH60NUEqDfBWMEI6P3Op_t6nvUtVXBBSBhCJIDuerKj-9m0nc83LAQ5prMdakiCsR7QMkMFQ6AqkGoQDVQ9-9naJS9mTn2yby7cemBogEN3E9ADYJ0gox83NIE9CotAYM543NAIzI5gPjBhPZ-9BZhBgWY_bpz-uKnlcWPb48ZFjxt7wSQQtQCte9wITLcNzxs3gJWtf9y4CSy473HjxMeNGyBGvWzvA9oOVrAOpKYJ6MjOx01NTzduBAmCTN4HEQGWCjBzVoHNmfa4sftxUxfUSev2P1uxGKxgBdioqRCNwJh8unEJWHw-0FWPG-cCnQo2EGg40LWTHzdNfty4HGII3PGPG1e_WDLp-b4-mI1A320G65oEDG6wYP_jxgVgZ0x93NTzuKkbI8R2AT2PCLGW_qdzNjxrXggLNKAVix439YM0khhiz2eve7lnNzhwGhGhAQyxfoj3gQ5bCBHBMGcBMHiBRpEZYuDYAYYAWHwZZog937kSrGsVUCUkrEARBHQ5SBdSEFFexkCBgpY-F5cHsDYpTsxO9MrMysy0CshMzMt3qDGoqQbZpGBjaKYFjhEFbEWcAjhrNgCzpoKGCTRj6ijAih1NLBqAFoIMq1EwBpYAukDSCEgaAjFExBQJI0TMwGpNgSIgHgwagNSATfMxrFF43LT9cfMSsMTjpmUKj5ubwKy1YIOgPKgYSNXjpjVQmX6wzCQwOQ-qfyNYZgKSZfEIy4yAco0tEJWNi4CqwSY0dUPMA4pAxEEkSBUwRUJl1oN5m8DkPqj-iWCZDRg24Q_yXT3kBLlhHNgCIAVmgUIVEaIgGhTeNeAYAWFIDBmBNOIOdWAdD_YIMBgfN68Es0BeB8lAIgMWrAhxSIB3gQNtGzTAV4NlVuEO8KZGaICtB2KQOmDuhAYryDyI3EIUceTgXgC1pxMsM5HE4AZXPiQHNygMQeEHC09YmgdVKsgiRKfw5g5oePYBfbIVHrKg0NkP9d8SIN4LZi2DhvYKsDpQNnjctBmqfzNYph13aDeCdIHCbR0QTwWzQAkWJDMfKtMCxHPBrDbk8AaGMIgEZSeQ3HywDMgtJIQ3sBVC1eQNw-Qkb1BigpQc0HKjGZrPIckYHMyPmyeDSVBSA0UGOCCaG8DyoGgC8daA9azGE-Sg7AEtUaDlBkg1SAaWLWBBDApckDjIJZDEDAl2EN0DdgFIBtWeWi4uXTsFlKJeAZuAMhcA)]
 - [鋼琴伴奏 TMD 檔案](hanasaka_jijii_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJqYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqs0vJzsnPyi1KVuLS0FF50bXw6adPzjl3v93S8nD3zWWf3y-49zydsebJny9Ol_e_3dCpoaXEp2ipYmHDZ2yq4cNkY6ZvYgQwEBZSVwrNpG55vX6HwdEP_07U7ni1Y-Lh599PWNRC2wtMpG5-t7Xk2deazuRNezm4D2vB0Q_fTHTueL5_4ZEcnSOns2UClT3dueT5lBdAqsEOf7Gh4tmjus9Y-oJKXzX0KQOMfN3SRYs_jhm6QVUuWP1u7-Glv45NdPUAbIIxnczre7-l5vmXRs9k7Xsycr2BgbmSqa2IIs_vZtPaXzSuez2kE2ghxKsRCiAVAc8GqXrTvet64-PmOvc_nLn66aw5ILcwpEIXobgD6cucWoHew2a5gZAa2ncsDGKXFidmJXplZmZlWAaBoDPJwqDGoqeZSAAIbQzMtOzBLX0vBFh0oPF-zBhhwLxb2KGiYgELp-foGHQVgijXXyypI18SiQUsfbFiNgrGCLhAaKxgBSUMghoiYImGEiBlYrSlQBMSDQQOQGrBpPoY1Co-btj9uXgKWeNy0TOFxcxOYtRZsEJQHFQOpety0BirTD5aZBCbnQfVvBMtMQLIsHmGZEVCusQWisnERUDXYhKZuiHlAEYg4iASpetzYA5VZD-ZtApP7oPongmU2YNiEP8h39ZAT5IZxYAuAFJgFClVEiIJoUHjXgGMEhCExZATSiDvUgTkF7BFgMD5uXglmgbwOkoFEBixYEeKQAO8CB9o2aICvBsuswh3gTY3QAFsPxCB1j5tAkQkKPJB5ELmFKOLIwb0Aak8nWGYiicG9o5Oc4AaFISj8YOEJS_NG4PBEiBCdwps7oOHZB_TJVnjIgkJnP9R_S4B4L5i1DBraK8DqQNngcdNmqP7NYJl23KHdCNIFCrd1QDwVzAIlWJDMfKhMCxDPBbPakMMbGMIgEpSdQHLzwTIgt5AQ3sCCi6rJG4bJSd6gxAQpOaDlRjM0n0OSMTiYHzdPBpOgpAaKDHBANDeA5UHRBOKtAetZjSfIQdkDWqJAyw2QapAMLFvAghgUuCBxkEsgiRkS7CC6B-wCkAyqPbVYS3of5JLeBFrQAwMkXiHaMBadYQJimMbHA8MI4u4aBROYMFwhSD7aNB4qhlCJKk6xoUDv6NopoPgo2geoFlPQCCyozAUA)]
 
 ## 分析
@@ -91,10 +99,10 @@ w: ぢ ぢ い に | な _ は を | か け ら れ | る
 🎼 Key & Tempo:    首調基準 D, != 84.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [HanasakaJijii[L1] #1 @ m.1, 0:01]
-   - 最高音: D5 in [HanasakaJijii[L1] #1 @ m.5, 0:05]
+   - 最低音:  D4 in [HanasakaJijii #1 @ m.1, 0:01]
+   - 最高音: D5 in [HanasakaJijii #1 @ m.5, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      HanasakaJijii[L1] (22.9s) -> HanasakaJijii[L2] (22.9s)
+🏛  結構:      HanasakaJijii (22.9s) -> HanasakaJijii (22.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -104,8 +112,8 @@ w: ぢ ぢ い に | な _ は を | か け ら れ | る
    - 候選調性 (K-S): D 大調 (0.83), A 大調 (0.83), F# 小調 (0.65)
    - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [HanasakaJijii[L1] #1]: D 調性不明確 (r: 0.83, 自然音純度: 100.0%)
-     • [HanasakaJijii[L2] #1]: D 調性不明確 (r: 0.83, 自然音純度: 100.0%)
+     • [HanasakaJijii #1]: D 調性不明確 (r: 0.83, 自然音純度: 100.0%)
+     • [HanasakaJijii #2]: D 調性不明確 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

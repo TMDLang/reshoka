@@ -64,4 +64,4 @@ Song:Piano@|0|{
     L3| カラン _ _ け | が を す る | な _ _ _ |
 }
 
--> Song[L1] -> Song[L2] -> Song[L3] -> #
+-> Song -> Song -> #

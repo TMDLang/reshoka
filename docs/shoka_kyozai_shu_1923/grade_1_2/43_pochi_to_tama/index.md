@@ -52,26 +52,34 @@ K:F
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
 F2 F2 G2 G2 | A2 G2 F4 | G2 G2 F2 G2 | A6 z2 |
-w: こ の こ は | ぽ ち と | ま う し ま | す
+w: 1.~こ の こ は | ぽ ち と | ま う し ま | す
+w: 2.~こ の こ は | た ま と | ま う し ま | す
 c2 c2 A2 c2 | d2 d2 c2 A2 | G2 G2 A2 G2 | F6 z2 |
-w: ち ん ち ん | お あ づ け | み な じや う | ず
+w: 1.~ち ん ち ん | お あ づ け | み な じや う | ず
+w: 2.~ま い に ち | げ ん き に | あ そ び ま | す
 c2 c2 c4 | A2 A2 c2 c2 | F2 F2 G2 G2 | A6 z2 |
-w: い ま に | お と な に | な つ た な | ら
+w: 1.~い ま に | お と な に | な つ た な | ら
+w: 2.~い ま に | お と な に | な つ た な | ら
 c2 c2 A2 c2 | d2 d2 c4 | A2 A2 G2 G2 | F6 z2 |
-w: ご も ん の | ば ん を | よ く し ま | す
+w: 1.~ご も ん の | ば ん を | よ く し ま | す
+w: 2.~ね ず み の | ば ん を | よ く し ま | す
 F2 F2 G2 G2 | A2 G2 F4 | G2 G2 F2 G2 | A6 z2 |
-w: こ の こ は | た ま と | ま う し ま | す
+w: 1.~こ の こ は | ぽ ち と | ま う し ま | す
+w: 2.~こ の こ は | た ま と | ま う し ま | す
 c2 c2 A2 c2 | d2 d2 c2 A2 | G2 G2 A2 G2 | F6 z2 |
-w: ま い に ち | げ ん き に | あ そ び ま | す
+w: 1.~ち ん ち ん | お あ づ け | み な じや う | ず
+w: 2.~ま い に ち | げ ん き に | あ そ び ま | す
 c2 c2 c4 | A2 A2 c2 c2 | F2 F2 G2 G2 | A6 z2 |
-w: い ま に | お と な に | な つ た な | ら
+w: 1.~い ま に | お と な に | な つ た な | ら
+w: 2.~い ま に | お と な に | な つ た な | ら
 c2 c2 A2 c2 | d2 d2 c4 | A2 A2 G2 G2 | F6 z2 |
-w: ね ず み の | ば ん を | よ く し ま | す
+w: 1.~ご も ん の | ば ん を | よ く し ま | す
+w: 2.~ね ず み の | ば ん を | よ く し ま | す
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](pochi_to_tama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFiaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYU4wunJKYmVMZn5OZlqrEpaWl8Lhx7-PGhY8bVzxunP-4cZ-ClhaXoq2CpRmXva2CG5eNkb6JHciAJzsani2a-6y178mOzpfNfQrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKH7_Z6Op0uWP1u7-Glv45NdPU93boEwns3peL-n5_mWRc9m73gxc76CgbmRqa6J4fs9nUpcXPpaCrbUAlwKCgpP--aDrNnc_mJF14uOdqATX6yc97R1xbNp7SD3beh91t6pAIpbvayC9EcNk4FMUxAT6EKIVoUCPQULM6CMhTnI1WvWKJgYK7xcNg3o3Pd7ZoGseLFq_7OG5SDDu3uB_gGKPm6eARQEebW79-naCUCL3BSAQQEUUwCGsAJQFKy759HMlbbAsAcZAgzxxw2NINbjxsmPG9dBtAHZQJWPG9c_bp77uLkRFG8NDcB4e9zY9rhxOpgxE6Jn4eMmoDYI2fW4selx49LHjRPBqvc_blz1ZEfXs05QjDxunPG4qQWsfxbQaLDVu7vAEkDRfWDbVoONACaRVSA2yAggYwk4xax63ATW87hxystpDSBtTU1AO8Ha1j2fugps0AaoSNMkkOYmoEg_3LWPG5og_t3Vg-JfMLn-cdP-x83z8HgTyAI6E-jAhU9bm59tWAy2bxLY16AwhbkX6P25jxs3I3SS58e1wEAChx_RXgNqozzdQoGClj4XV0B-ckZmSH5IYm6iVVg-MPM71BjUVIPsUbCx0LIDM7DlGQVgSgWmqRcLexQ0TEBZ9vn6Bh1QQgenbk0sGoC2gQyrUTAEQiMgrFEwBpKGCrpAFogPEgWJ6QKhgUINWLWPYQ0oAoF4HZReD1QDLGVASRKIV4B1g0oaYFwC8XQwGyQyE2xOPMwcI-zmzIfqJcYc_GGxq4ecsDAFQmMgrlEwA0IQGxIWoJABhRRmWAB93QRyP4QGiXQBcRMQLwXiiWCR_UC8CohBWRHsIZDgLCwBAvIuSMVqsIEgkUlQ43vBoiARkNFzgXgzyUGyo5PcIDEFR4cxOGhAgYOcZDCDBOQDkE9WQyMRFCAroEEA8QOItQQa3atAIk2dWEKDMnPwhsXT2bOpkTxgoQIJC2zJYwrQTcAYA8fhOrCbN0B4TZMgvmrqAIr1E8wqa8EpBpKUSDenlotL104BqWyJ9jGMVUAXMgILKXMBAA)]
+- [主旋律 TMD 檔案](pochi_to_tama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFiaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYU4wunJKYmVMZn5OZlqrEpaWl8Lhx7-PGhY8bVzxunP-4cZ-ClhaXoq2CpRmXva2CG5eNkb6JHciAJzsani2a-6y178mOzpfNfQrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKH7_Z6Op0uWP1u7-Glv45NdPU93boEwns3peL-n5_mWRc9m73gxc76CgbmRqa6J4fs9nUpcXPpaCrbUAlwKCgpP--aDrNnc_mJF14uOdqATX6yc97R1xbNp7SD3beh91t6pAIpbvayC9EcNk4FMUxAT6EKIVoUCPQULM6CMhTnI1WvWKJgYK7xcNg3o3Pd7ZoGseLFq_7OG5SDDu3uB_gGKPm6eARQEebW79-naCUCL3BSAQQEUUwCGsAJQFKy759HMlbbAsAcZAgzxxw2NINbjxsmPG9dBtAHZQJWPG9c_bp77uLkRFG8NDcB4e9zY9rhxOpgxE6Jn4eMmoDYI2fW4selx49LHjRPBqvc_blz1ZEfXs05QjDxunPG4qQWsfxbQaLDVu7vAEkDRfWDbVoONACaRVSA2yAggYwk4xax63ATW87hxystpDSBtTU1AO8Ha1j2fugps0AaoSNMkkOYmoEg_3LWPG5og_t3Vg-JfMLn-cdP-x83z8HgTyAI6E-jAhU9bm59tWAy2bxLY16AwhbkX6P25jxs3I3SS58e1wEAChx_RXgNqozzdQoGClj4XV0B-ckZmSH5IYm6iVVg-MPM71BjUVIPsUbCx0LIDM7DlGQVgSgWmqRcLexQ0TEBZ9vn6Bh1QQgenbk0sGoC2gQyrUTAEQiMgrFEwBpKGCrpAFogPEgWJ6QKhgUINWLWPYQ0oAoF4HZReD1QDLGVASRKIV4B1g0oaYFwC8XQwGyQyE2xOPMwcI-zmzIfqJcYc_GGxq4ecsDAFQmMgrlEwA0IQGxIWoJABhRRmWAB93QRyP4QGiXQBcRMQLwXiiWCR_UC8CohBWRHsIZDgLCwBAvIuSMVqsIEgkUlQ43vBoiARkNFzgXgzyUGyo5PcIDEFR4cxOGhAgYOcZDCDBOQDkE9WQyMRFCAroEEA8QOItQQa3atAIk2dWEKDMnPwhsXT2bOpkTxgoQIJC2zJYwrQTcAYA8fhOrCbN0B4TZMgvmrqAIr1E8wqa8EpBpKUSDenlotL104BqWxRwOQqcwEA)]
 - [鋼琴伴奏 TMD 檔案](pochi_to_tama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFiaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhViUVA8fTU3NS8EquCzMS8_PjE5OT83ILEvEyQmBKXlpbC48a9jxsXPm5c8bhx_uPGfe_3dLycPfNZZ_fL7j3PJ2x5smfL06X97_d0KmhpcSnaKliacdnbKrhx2Rjpm9iB7Hmyo-HZornPWvue7Oh82dyn8Hz7iscNXc-mbQAyFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbY8buoGWPl2y_NnaxU97G5_s6nm6cwuE8WxOx_s9Pc-3LHo2e8eLmfMVDMyNTHVNDIHOUeLiCshPzsgMyQ9JzE20CgB5LsjDocagpppLAQhsLLTswAx9LQVbdKDwfM0aoLtfLOxR0DABOfL5-gYdBWAMmeplFaRrYtGgpQ82rEbBEAjN47WNIASQr20MYRoq6AK5CCmoMogKXSA0UKgBm-FjWAMM88lAvA5KrweqAsYCEC8E4hVgg4AxAcRtQDwdzAaJzASbEw8zxwi7OfOheokxB38I7eohJ4SMtU3BGORvEF2jYKJtBsYwUZRggoUfKGgxgwkYIE0gr0FokEgXEDcB8VIgnggW2Q_Eq4B4xuOmFrBfQYKzsIQVKCRAKlaDDQSJTIIa3wsWBYmAjJ4LxJtJDq0dnZSEFgiD4gsUHrCQg4QethSHGVAgf4H8txoa66BgWgENGIjPQKwl0PSxCiTS1IkljCgzB28IPZ09m_rpCTnMUEIJSxhNAboVGL_gGF8H9ssGCK9pEsS3TR1AsX6CeW4tOH1BEh7p5tRiKbl8kEsuE2jJBfREvIJpPFAPiAFENWAeXATmOYS0CUFlpsimIRuP2zB0VUD369opIHkh2scwVgFdyAgspMwFAA)]
 
 ## 分析
@@ -84,10 +92,10 @@ w: ね ず み の | ば ん を | よ く し ま | す
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [PochiToTama[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [PochiToTama[L1] #1 @ m.6, 0:06]
+   - 最低音:  F4 in [PochiToTama #1 @ m.1, 0:00]
+   - 最高音: D5 in [PochiToTama #1 @ m.6, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      PochiToTama[L1] (20.0s) -> PochiToTama[L2] (20.0s)
+🏛  結構:      PochiToTama (20.0s) -> PochiToTama (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -97,8 +105,8 @@ w: ね ず み の | ば ん を | よ く し ま | す
    - 候選調性 (K-S): F 大調 (0.78), C 大調 (0.77), A 小調 (0.69)
    - 五度圈歷程:   -1 -> -1
    - 各段落調性細節:
-     • [PochiToTama[L1] #1]: F 調性不明確 (r: 0.78, 自然音純度: 100.0%)
-     • [PochiToTama[L2] #1]: F 調性不明確 (r: 0.78, 自然音純度: 100.0%)
+     • [PochiToTama #1]: F 調性不明確 (r: 0.78, 自然音純度: 100.0%)
+     • [PochiToTama #2]: F 調性不明確 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

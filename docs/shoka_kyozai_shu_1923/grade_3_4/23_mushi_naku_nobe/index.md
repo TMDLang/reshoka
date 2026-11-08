@@ -58,26 +58,34 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 G4 D4 | G4 z4 | A2 B2 c2 A2 | B4 G2 z2 |
-w: りん りん | りん | つ き て る | の に
+w: 1.~りん りん | りん | つ き て る | の に
+w: 2.~りん りん | りん | き そ ひ て | な く
 A4 D4 | A4 z4 | B2 d2 c2 B2 | A4 z4 |
-w: りん りん | りん | む し は な | く
+w: 1.~りん りん | りん | む し は な | く
+w: 2.~りん りん | りん | む し の こ | ゑ
 c2 c2 A2 A2 | B2 B2 G2 G2 | A2 A2 E2 E2 | F4 D2 z2 |
-w: は な さ き | み だ れ て | つ き て る | の に
+w: 1.~は な さ き | み だ れ て | つ き て る | の に
+w: 2.~つ ゆ お く | は か げ に | き そ ひ て | な く
 G4 D4 | G4 z4 | A2 c2 B2 A2 | G4 z4 |
-w: りん りん | りん | む し は な | く
+w: 1.~りん りん | りん | む し は な | く
+w: 2.~りん りん | りん | む し の こ | ゑ
 G4 D4 | G4 z4 | A2 B2 c2 A2 | B4 G2 z2 |
-w: りん りん | りん | き そ ひ て | な く
+w: 1.~りん りん | りん | つ き て る | の に
+w: 2.~りん りん | りん | き そ ひ て | な く
 A4 D4 | A4 z4 | B2 d2 c2 B2 | A4 z4 |
-w: りん りん | りん | む し の こ | ゑ
+w: 1.~りん りん | りん | む し は な | く
+w: 2.~りん りん | りん | む し の こ | ゑ
 c2 c2 A2 A2 | B2 B2 G2 G2 | A2 A2 E2 E2 | F4 D2 z2 |
-w: つ ゆ お く | は か げ に | き そ ひ て | な く
+w: 1.~は な さ き | み だ れ て | つ き て る | の に
+w: 2.~つ ゆ お く | は か げ に | き そ ひ て | な く
 G4 D4 | G4 z4 | A2 c2 B2 A2 | G4 z4 |
-w: りん りん | りん | む し の こ | ゑ
+w: 1.~りん りん | りん | む し は な | く
+w: 2.~りん りん | りん | む し の こ | ゑ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mushi_naku_nobe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvReYl5mbmKOEpeWlsKL-ZseN6563Nj_sr3vZVOXgpYWl6KtgqUZl72tgjuXjZG-iR1IM8ivVgrPpm14vn2FwtMN_U_X7ni2YOHj5t1PW9dA2ApPp2x8trbn2dSZz-ZOeDm77f2ejqcbup_u2PF8-cQnOzpBSmfPBip9unPL8ykr3u_pBDvqyY6GZ4vmPmvtAyp52dynADT-cUMXKfY8bugGWbVk-bO1i5_2Nj7Z1QO0AcJ4Nqfj_Z6e51sWPZu948XM-QoG5kamuiaGMLvhznu-Zg3IhQ2NqC7sAIorGJqZPWqYbGhmrvByQSNM57PpS59t2v1sZtOzOfPhDgO6G-K0pzs2Qx3VuuPF9H6QzUYGRgZ6BgZmegYWJsZA3wQYmpjAndE3_8UeoO1dIO8CDcPwHsQZUAd0gNwIdOCWWaBAAftawdBYASikYGikAPSxgokCyHldLWDzufS1FGypBbgUFBSArgWF5ub2Fyu6XnS0A536YuW8p60rnk1rB8d477P2TgVQ-tfLKkgHhhyQaQpiAiMColWhQA8RqCBRPLEA9LiRscLLZdOAfnm_ZxbI_her9j9rWA6yubsXGLJA0cfNHUBBUHR39z5dOwHoCncFYMAAxRSAqVcBKArW3fNo5kpbYLoGmbFiN1Df0zndz1d3v2jf9bxx8bO125_2b3raO-t558qXS1ZAIg4zQnFE47MVM4FGPm7ogcQNOBywRCU4Eh83Ax2853HTjsfNKx43rwLqNjTWMzTSM9F73AB0aM_T3s3PZ2951geKwZc9LS_aVz2bswYYbKiJ4Flf87P-flA4QwMX5MFn07uf7utGRMq6HmC8ADPYi_YtjxuauEA-t1OIVvTzD3GNhXC0tIBxAjQRLRZh0YceZ0BrgMUDSCdEO9BsYHQ9bup63DQZhWxoAGe9jseNSx43goL_eetyMHcZkP24qRtY1oC560DcxtUQ07Ca82LmapDKpobHjdPBite_3AwKYGCZBeb2Q_S-6NoIFlwPEX86aROYOxWspvfJriYwd__jxgVgB_QAXUI7F0LKU-Rw2tWDK5yAlj9unPu4EVgIL0PSR6RV6140QjwKVDMRKALR-3IORHDJ4yZgKQxU1gU09sXEzhdT1sICqftx4ySIz5AdgDVoyXcJ5QUOFCho6XNxBefnpVsFZCbm5TvUGNRUgyxQsLHQAgexArZSTgFcoDS8WNijoGECqkuer2_QgWcZTSwagNaADKtRMFTQVTCNBxIQpgGYZaRgDCxbjYAsYyDfEChaA1buY1gDDSSgMJyBJAYxCBgfQNwLxMuAUt1gkXUgHY2rgSqgRhkRaRTImLlAvAlsHEhkFdiofrBR-INkVw85QWKECBIQExIkxgqmwCAxRhYjKUiaGoBung7E68E-APmjHyZLUoDADVoHxJPBIhPhBhFIIZ3kBIcJOClAEoMxMDEYgsPASMEsHoRqFMxBVgPDCyWRQL0JLJfAUQgS2Q_EC4Cu7YFHJJGpBKSuqQ1Id4EDDWZ6NxBPAqumMJkAqzIq5hxQIgEFFlxsECaTWi4uXTsFUDET7WMYqwBnG4HZylwA)]
+- [主旋律 TMD 檔案](mushi_naku_nobe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvReYl5mbmKOEpeWlsKL-ZseN6563Nj_sr3vZVOXgpYWl6KtgqUZl72tgjuXjZG-iR1IM8ivVgrPpm14vn2FwtMN_U_X7ni2YOHj5t1PW9dA2ApPp2x8trbn2dSZz-ZOeDm77f2ejqcbup_u2PF8-cQnOzpBSmfPBip9unPL8ykr3u_pBDvqyY6GZ4vmPmvtAyp52dynADT-cUMXKfY8bugGWbVk-bO1i5_2Nj7Z1QO0AcJ4Nqfj_Z6e51sWPZu948XM-QoG5kamuiaGMLvhznu-Zg3IhQ2NqC7sAIorGJqZPWqYbGhmrvByQSNM57PpS59t2v1sZtOzOfPhDgO6G-K0pzs2Qx3VuuPF9H6QzUYGRgZ6BgZmegYWJsZA3wQYmpjAndE3_8UeoO1dIO8CDcPwHsQZUAd0gNwIdOCWWaBAAftawdBYASikYGikAPSxgokCyHldLWDzufS1FGypBbgUFBSArgWF5ub2Fyu6XnS0A536YuW8p60rnk1rB8d477P2TgVQ-tfLKkgHhhyQaQpiAiMColWhQA8RqCBRPLEA9LiRscLLZdOAfnm_ZxbI_her9j9rWA6yubsXGLJA0cfNHUBBUHR39z5dOwHoCncFYMAAxRSAqVcBKArW3fNo5kpbYLoGmbFiN1Df0zndz1d3v2jf9bxx8bO125_2b3raO-t558qXS1ZAIg4zQnFE47MVM4FGPm7ogcQNOBywRCU4Eh83Ax2853HTjsfNKx43rwLqNjTWMzTSM9F73AB0aM_T3s3PZ2951geKwZc9LS_aVz2bswYYbKiJ4Flf87P-flA4QwMX5MFn07uf7utGRMq6HmC8ADPYi_YtjxuauEA-t1OIVvTzD3GNhXC0tIBxAjQRLRZh0YceZ0BrgMUDSCdEO9BsYHQ9bup63DQZhWxoAGe9jseNSx43goL_eetyMHcZkP24qRtY1oC560DcxtUQ07Ca82LmapDKpobHjdPBite_3AwKYGCZBeb2Q_S-6NoIFlwPEX86aROYOxWspvfJriYwd__jxgVgB_QAXUI7F0LKU-Rw2tWDK5yAlj9unPu4EVgIL0PSR6RV6140QjwKVDMRKALR-3IORHDJ4yZgKQxU1gU09sXEzhdT1sICqftx4ySIz5AdgDVoyXcJ5QUOFCho6XNxBefnpVsFZCbm5TvUGNRUgyxQsLHQAgexArZSTgFcoDS8WNijoGECqkuer2_QgWcZTSwagNaADKtRMFTQVTCNBxIQpgGYZaRgDCxbjYAsYyDfEChaA1buY1gDDSSgMJyBJAYxCBgfQNwLxMuAUt1gkXUgHY2rgSqgRhkRaRTImLlAvAlsHEhkFdiofrBR-INkVw85QWKECBIQExIkxgqmwCAxRhYjKUiaGoBung7E68E-APmjHyZLUoDADVoHxJPBIhPhBhFIIZ3kBIcJOClAEoMxMDEYgsPASMEsHoRqFMxBVgPDCyWRQL0JLJfAUQgS2Q_EC4Cu7YFHJJGpBKSuqQ1Id4EDDWZ6NxBPAqumMJkAqzIq5hxQIgEFFlxsECaTWi4uXTsFUDGjgEQrcwEA)]
 - [鋼琴伴奏 TMD 檔案](mushi_naku_nobe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQlFgE1JyempuaV2JVkJmYlx-fmJycn1uQmJcJElPi0tJSeDF_0-PGVY8b-1-2971s6nq_p-Pl7JnPOrtfdu95PmHLkz1bni7tf7-nU0FLi0vRVsHSjMveVsGdy8ZI38QOZA8oWKwUnk3b8Hz7CoWnG_qfrt3xbMHCx827n7augbAVnk7Z-Gxtz7OpM5_NnfBydhvQhqcbup_u2PF8-cQnOzpBSmfPBip9unPL8ykrgFaB3f9kR8OzRXOftfYBlbxs7lMAGv-4oYsUex43dIOsWrL82drFT3sbn-zqAdoAYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE0OY3XDnPV-zBuTChkZUF3YAxRUMzcweNUw2NDNXeLmgEabz2fSlzzbtfjaz6dmc-XCHAd0NcdrTHZuhjmrd8WJ6P8hmIwMjAz0DAzM9AwsTY6BvAgxNTODO6Jv_Yg_Q9i6Qd4GGYXgP4gywA5S4uDzzSoryrQJA0Rzk4VBjUFPNpQAENhZadmBGjYKhgq6CaTyQgDANwCwjBRMFYyCJJMZVi2KaDw7T4hWiDWOBBkJouACQMgDywOKmUHkgjSYPsiM4Py8dj4P1tRRs0YECOEoaXizsUdAwAaWD5-sbdBSAOdBUL6sgXROLBi19_L43Bvof5HtjIN8Q7DKQch_DGoXHTV2PmyYDheEMJDGIQY8blwBxLxAvA0p1g0XWgXQ0rgaqgBplRKRRIGPmAvEmsHEgkVVgo_rBRuEPkl095ASJESJIQExIkBgrmIKTBJIYSUHS1AB083QgXg_2Acgf_TBZkgIEbtA6IJ4MFpkIN4hACukkJzhMwEkBkhiMgYnBEBwGRgpm8SBUo2AOshoYXiiJBOrNx41TwVEIEtkPxAuAru2BRySRqQSkrqkNSHeBAw1mejcQTwKrpjCZAIsxKuYczHJj8CUTlFKGNgUZxBCYrBFMEbI2kDEITRBL0OTRjMFmGUQfyAKjXIhFIBqXSZQXz7p2CuBaQAHIAAVitA9QGs42ArOVuQA)]
 
 ## 分析
@@ -90,10 +98,10 @@ w: りん りん | りん | む し の こ | ゑ
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Song[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Song[L1] #1 @ m.7, 0:07]
+   - 最低音:  D4 in [Song #1 @ m.1, 0:00]
+   - 最高音: D5 in [Song #1 @ m.7, 0:07]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song[L1] (20.0s) -> Song[L2] (20.0s)
+🏛  結構:      Song (20.0s) -> Song (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -103,8 +111,8 @@ w: りん りん | りん | む し の こ | ゑ
    - 候選調性 (K-S): G 大調 (0.79), D 大調 (0.69), A 小調 (0.54)
    - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Song[L1] #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
-     • [Song[L2] #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
+     • [Song #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
+     • [Song #2]: G 大調 (r: 0.79, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

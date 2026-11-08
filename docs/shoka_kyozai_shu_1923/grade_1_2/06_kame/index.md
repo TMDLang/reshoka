@@ -53,22 +53,28 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F4 F4 G4 G4 | F4 G4 A4 A4 | c4 d4 c4 A4 | F2 F2 G4 A4 z4 |
-w: か め さ ん | か め さ ん | こ ち ら へ | お _ い で
+w: 1.~か め さ ん | か め さ ん | こ ち ら へ | お _ い で
+w: 2.~か め さ ん | か め さ ん | お _ くゎ し | あ げ ま せう
 c4 c4 d4 d4 | c4 c4 A4 A4 | c4 c4 d4 d4 | c12 z4 |
-w: そ ち ら の | は う は _ | あ ぶ な い | よ
+w: 1.~そ ち ら の | は う は _ | あ ぶ な い | よ
+w: 2.~か _ ほ を | だ せ だ せ | あ し を だ | せ
 F8 G4 G4 | F4 G4 A4 A4 | c4 d4 c4 A4 | G4 A4 F4 z4 |
-w: は や く | こ ち ら へ | お よ い で | お い で
+w: 1.~は や く | こ ち ら へ | お よ い で | お い で
+w: 2.~す き な | お くゎ し を | い ま あ げ | ま せ う
 F4 F4 G4 G4 | F4 G4 A4 A4 | c4 d4 c4 A4 | F2 F2 G4 A4 z4 |
-w: か め さ ん | か め さ ん | お _ くゎ し | あ げ ま せう
+w: 1.~か め さ ん | か め さ ん | こ ち ら へ | お _ い で
+w: 2.~か め さ ん | か め さ ん | お _ くゎ し | あ げ ま せう
 c4 c4 d4 d4 | c4 c4 A4 A4 | c4 c4 d4 d4 | c12 z4 |
-w: か _ ほ を | だ せ だ せ | あ し を だ | せ
+w: 1.~そ ち ら の | は う は _ | あ ぶ な い | よ
+w: 2.~か _ ほ を | だ せ だ せ | あ し を だ | せ
 F8 G4 G4 | F4 G4 A4 A4 | c4 d4 c4 A4 | G4 A4 F4 z4 |
-w: す き な | お くゎ し を | い ま あ げ | ま せ う
+w: 1.~は や く | こ ち ら へ | お よ い で | お い で
+w: 2.~す き な | お くゎ し を | い ま あ げ | ま せ う
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYo8SlpaXwct8cBS0tLkVbBUMjAy57WwU3LhsTfRM7kI4nOxqeLZr7rLXvyY7Ol819Cs-3r3jc0PVs2gYgQ-Hphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fa4ofv9no6nS5Y_W7v4aW_jk109T3dugTCezel4v6fn-ZZFz2bveDFzvoKBuZGpronh-z2dYNe-WDnv_Z5ZL9p3PW9c_HzH3udzFz_dNQcs82z2JqDM03Xrnm7eBncbRA-qaqBb4Q6DuAvdRbNnA50DNACbWxSMzMBu4dLXUrClFuBSUFB42jcfZM3m9hcrul50tAOdBfTr09YVz6a1g1y2ofdZe6cCKAXpZRWkP2qYDGQagphAF0K0KhToASMLKGNoDBLb0P10x47nyyc-X7MGGGGPG8ChvHYH0GdAEQUzhZfLpgE9AgwykOUvVu1_1rAcZG13L9CnQNHHzTOAgsCgAIo8XTsB6AQ3BWDwAMUUgOlAASgK1t3zaOZKW1ASARryZO8cSCSgBfjTOd0vVs2DBnjXSlAq6OtQQIspLrAJYIc-bux-3AQkpz5umozCbmh43AgUWfi4qfNx447HjV2PG1seNy5_3NAE0vy4cS5Mbt2zaTuBLn7cuP5xYxvQnSAGSHPT48ZtjxtXgbQ1dcC1rX_cBDSmH8XshoZnmzeDjegCKgUbAbYK2U6wi3f1EHIxUEf_46a-x43TwQ6Y9Lhx3-PG2UCHQWzvfty4-3HTpKftu8DWLQDbNRvIBSlqaHixDeIMoM7pICkMlXBvzHzc2Av2HJKFTZOARjzZ3QXWAHT3PrAeFFdA9VOeiKFAQUufi8s7EVicBGQm5uU71BjUVIMsULCx0LIDM7DlHAVIMn2xsEdBwwRUiDxf36ADTO6G4OSuiUUD0BqQYTUKhgq6YGwExRAREMsYimsUTIGkGRCDaIiIIRDC1BiARMCm-RjWgKIEyAfGIYhsnApmTwbrwScDooHJByzWCWbvgMp0gXktYHI5kIxH2GZErm0gM0EQEtNgxnSoVBMQTwLifWBRUAzD7cQf-rt6yAl9UIjCQheEESKooY-pBgbRQ38uRkiug3ptPZgH8g-EDYIQL4NEtoHJVfDQBso0dSDZgy3cIWG4G2zXJKhpCyABByYRbIQ9oICGqIbIg2RAKlDtIZDSO8lN6SBIWkqHyYPUooc1LBSBJSDYP_1Q_xBIzeBwRU7TxKTzmfDw7gWToJhC6ENJx4jIgBgHScuQ4IfJQNM3mEQk8VouLl07BVDxE-1jGKsAZxuB2cpcAA)]
+- [主旋律 TMD 檔案](kame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYo8SlpaXwct8cBS0tLkVbBUMjAy57WwU3LhsTfRM7kI4nOxqeLZr7rLXvyY7Ol819Cs-3r3jc0PVs2gYgQ-Hphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fa4ofv9no6nS5Y_W7v4aW_jk109T3dugTCezel4v6fn-ZZFz2bveDFzvoKBuZGpronh-z2dYNe-WDnv_Z5ZL9p3PW9c_HzH3udzFz_dNQcs82z2JqDM03Xrnm7eBncbRA-qaqBb4Q6DuAvdRbNnA50DNACbWxSMzMBu4dLXUrClFuBSUFB42jcfZM3m9hcrul50tAOdBfTr09YVz6a1g1y2ofdZe6cCKAXpZRWkP2qYDGQagphAF0K0KhToASMLKGNoDBLb0P10x47nyyc-X7MGGGGPG8ChvHYH0GdAEQUzhZfLpgE9AgwykOUvVu1_1rAcZG13L9CnQNHHzTOAgsCgAIo8XTsB6AQ3BWDwAMUUgOlAASgK1t3zaOZKW1ASARryZO8cSCSgBfjTOd0vVs2DBnjXSlAq6OtQQIspLrAJYIc-bux-3AQkpz5umozCbmh43AgUWfi4qfNx447HjV2PG1seNy5_3NAE0vy4cS5Mbt2zaTuBLn7cuP5xYxvQnSAGSHPT48ZtjxtXgbQ1dcC1rX_cBDSmH8XshoZnmzeDjegCKgUbAbYK2U6wi3f1EHIxUEf_46a-x43TwQ6Y9Lhx3-PG2UCHQWzvfty4-3HTpKftu8DWLQDbNRvIBSlqaHixDeIMoM7pICkMlXBvzHzc2Av2HJKFTZOARjzZ3QXWAHT3PrAeFFdA9VOeiKFAQUufi8s7EVicBGQm5uU71BjUVIMsULCx0LIDM7DlHAVIMn2xsEdBwwRUiDxf36ADTO6G4OSuiUUD0BqQYTUKhgq6YGwExRAREMsYimsUTIGkGRCDaIiIIRDC1BiARMCm-RjWgKIEyAfGIYhsnApmTwbrwScDooHJByzWCWbvgMp0gXktYHI5kIxH2GZErm0gM0EQEtNgxnSoVBMQTwLifWBRUAzD7cQf-rt6yAl9UIjCQheEESKooY-pBgbRQ38uRkiug3ptPZgH8g-EDYIQL4NEtoHJVfDQBso0dSDZgy3cIWG4G2zXJKhpCyABByYRbIQ9oICGqIbIg2RAKlDtIZDSO8lN6SBIWkqHyYPUooc1LBSBJSDYP_1Q_xBIzeBwRU7TxKTzmfDw7gWToJhC6ENJx4jIgBgHScuQ4IfJQNM3mEQk8VouLl07BVDxo4BEK3MBAA)]
 - [鋼琴伴奏 TMD 檔案](kame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQ0pcWloKL_fNeb-n4-Xsmc86u19273k-YcuTPVueLu1_v6dTQUuLS9FWwdDIgMveVsGNy8ZE38QOZPKTHQ3PFs191tr3ZEfny-Y-hefbVzxu6Ho2bQOQofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnvc0A209emS5c_WLn7a2_hkV8_TnVsgjGdzOt7v6Xm-ZdGz2TtezJyvYGBuZKprYgh0D9hXL1bOe79n1ov2Xc8bFz_fsff53MVPd80ByzybvQko83Tduqebt8HdBtGDqhroVrjDIO5Cd9Hs2UDnAA3A5hYFIzOwW7i8E4GxHZCZmJcf5OFQY1BTzaUABDYWWnZghr6Wgi06UHi-Zg0w8F4s7FHQMAGF1PP1DToKAQaGBnpZBemaWDRo6YMNq1EwVNAFYyMohoiAWMZQXKNgCiTNgBhEQ0QMgRCmxgAkAjbNx7BG4XFjN5D_uKkRRDZOBbMng_XgkwHRjxsXgsU6wewdUJkuMK8FTC4HkvEI24zItQ1kJgg-bux_3NQHZkyHSjUB8SQg3gcWnf24sQ1uJ_7Q39VDTuiDQhQWuiCMEEENfUw1MIge-nMxQnId1GvrwTyQfyBsEIR4GSSyDUyugoc2UKapA8kebOEOCcPdYLsmQU1bAAk4MIlgI-wBBTRENUQeJANSgWoPgZTeSW5KB0HSUjpMHqQWPaxhofi4CZI--6H-IZCaweGKnKaJSecz4eHdCyZBMYXQh5KOEZEBMQ6SliHBD5OBpm8wiUjitciljw9y6WMCLX2AgRavEG0Yq2AaD6RN42MRIlAKOx-kEkgbQP0EV2QCpEzwGIJFHsMMEpwCVwo1B-hhXTsFkJ-jfYAK4GwjMFuZCwA)]
 
 ## 分析
@@ -81,10 +87,10 @@ w: す き な | お くゎ し を | い ま あ げ | ま せ う
 🎼 Key & Tempo:    首調基準 F, != 120.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [Kame[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Kame[L1] #1 @ m.3, 0:04]
+   - 最低音:  F4 in [Kame #1 @ m.1, 0:00]
+   - 最高音: D5 in [Kame #1 @ m.3, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Kame[L1] (24.0s) -> Kame[L2] (24.0s)
+🏛  結構:      Kame (24.0s) -> Kame (24.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -94,8 +100,8 @@ w: す き な | お くゎ し を | い ま あ げ | ま せ う
    - 候選調性 (K-S): C 大調 (0.81), F 大調 (0.78), A 小調 (0.71)
    - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [Kame[L1] #1]: C 大調 (r: 0.81, 自然音純度: 100.0%)
-     • [Kame[L2] #1]: C 大調 (r: 0.81, 自然音純度: 100.0%)
+     • [Kame #1]: C 大調 (r: 0.81, 自然音純度: 100.0%)
+     • [Kame #2]: C 大調 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*

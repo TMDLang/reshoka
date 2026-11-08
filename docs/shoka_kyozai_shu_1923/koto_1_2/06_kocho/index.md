@@ -64,26 +64,34 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d4 G2 B6 |
-w: ハ _ ル ヒ カ ゲ | ウ _ ラ ウ ラ ト | ノ ド ケ キ | ヒ ヨ リ
+w: 1.~ハ _ ル ヒ カ ゲ | ウ _ ラ ウ ラ ト | ノ ド ケ キ | ヒ ヨ リ
+w: 2.~は _ な が た み | て _ に も ち て | つ れ だ つ | わ ら は
 D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d2 A2 B2 G6 |
-w: ナ _ ノ ハ ナ ノ | イ _ ロ ハ エ テ | サ キ タ ル | ア _ タ リ
+w: 1.~ナ _ ノ ハ ナ ノ | イ _ ロ ハ エ テ | サ キ タ ル | ア _ タ リ
+w: 2.~か _ に にほ ふ _ | つ _ ぼ す み れ | つ み を る | と _ こ ろ
 !f! G G G2 e2 d4 B2 | !p! A2 D2 D2 d4 B2 | !f! G G G2 e2 d4 B2 | !mf! A2 D2 d2 G6 |
-w: ア レ ヨ コ テフ _ | ヒ _ ラ ヒ ラ | ア レ ヨ コ テフ _ | ト _ ブ ヨ
+w: 1.~ア レ ヨ コ テフ _ | ヒ _ ラ ヒ ラ | ア レ ヨ コ テフ _ | ト _ ブ ヨ
+w: 2.~あ れ よ こ てふ _ | ひ _ ら ひ ら | あ れ よ こ てふ _ | と _ ぶ よ
 !p! A2 D2 d2 B4 B2 | A2 D2 d2 B4 B2 | !p! A2 D2 d2 G6- | [Q:3/8=67] G12 |
-w: ヒ _ ラ ヒ ラ | ヒ _ ラ ヒ ラ | ト _ ブ ヨ | _
+w: 1.~ヒ _ ラ ヒ ラ | ヒ _ ラ ヒ ラ | ト _ ブ ヨ | _
+w: 2.~ひ _ ら ひ ら | ひ _ ら ひ ら | と _ ぶ よ | _
 D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d4 G2 B6 |
-w: は _ な が た み | て _ に も ち て | つ れ だ つ | わ ら は
+w: 1.~ハ _ ル ヒ カ ゲ | ウ _ ラ ウ ラ ト | ノ ド ケ キ | ヒ ヨ リ
+w: 2.~は _ な が た み | て _ に も ち て | つ れ だ つ | わ ら は
 D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d2 A2 B2 G6 |
-w: か _ に にほ ふ _ | つ _ ぼ す み れ | つ み を る | と _ こ ろ
+w: 1.~ナ _ ノ ハ ナ ノ | イ _ ロ ハ エ テ | サ キ タ ル | ア _ タ リ
+w: 2.~か _ に にほ ふ _ | つ _ ぼ す み れ | つ み を る | と _ こ ろ
 !f! G G G2 e2 d4 B2 | !p! A2 D2 D2 d4 B2 | !f! G G G2 e2 d4 B2 | !mf! A2 D2 d2 G6 |
-w: あ れ よ こ てふ _ | ひ _ ら ひ ら | あ れ よ こ てふ _ | と _ ぶ よ
+w: 1.~ア レ ヨ コ テフ _ | ヒ _ ラ ヒ ラ | ア レ ヨ コ テフ _ | ト _ ブ ヨ
+w: 2.~あ れ よ こ てふ _ | ひ _ ら ひ ら | あ れ よ こ てふ _ | と _ ぶ よ
 !p! A2 D2 d2 B4 B2 | A2 D2 d2 B4 B2 | !p! A2 D2 d2 G6- | [Q:3/8=67] G12 |
-w: ひ _ ら ひ ら | ひ _ ら ひ ら | と _ ぶ よ | _
+w: 1.~ヒ _ ラ ヒ ラ | ヒ _ ラ ヒ ラ | ト _ ブ ヨ | _
+w: 2.~ひ _ ら ひ ら | ひ _ ら ひ ら | と _ ぶ よ | _
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kocho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5oiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfJeZl5ibmoIsWpyYW5-cVK3FpaSm8aF74Yu42BS0tLkVbBUMjAy57WwV3LhszfQs7kC6Q160Unk3b8Hz7CoWnG_qfrt3xbMHCx827n7augbAVnk7Z-Gxtz7OpM5_NnfBydtv7PR0vV894vrbz-fKJT3Y0AJU-2dUDVPp055bnU1a839MJdg1Q5tmiuc9a-57s6HzZ3KcANP5xQxcp9jxu6AZa9XTJ8mdrFz_tbQRZsnMLhPFsTsf7PT3Ptyx6NnvHi5nzFQzMjUx1TQxhdj-bvvTZpt3PZjY9mzMfbjzQdogFT3dshhrduuPF9H6QfiMDIwM9AwMzPQMLE2OgmwIMTc1ghj3tm_9iTydIN9DRQMOAZsCc93zNGgVjE3OFlwsa4S5VMDRRALpTwVAB6EgFUwWQW7pawIZx6Wsp2FILcCkoKNgpRCv6-Ye4xkI4WlpAt4JCZHP7ixVdLzragZ59sXLe09YVz6a1a2mBnLih91l7p0ICKFXrZRWkJzxqmAzimIE5wCCFGKBQoAf0lxlQEug7oCjO6Ab630zh5bJpQO-93zML4gpdoDterNr_rGE5yAXdvcDwBdk963FzB1D4aetaoNjTtROArnFXAAYZUEwBmBYVgKJgU3peNsx_umuZwqOZK_VsFSwMgOqe9c9-vm7609mzn3a0vZy_-fmaZQoJkLQMdDIwZpoQFj9bP-XFnmZgbD_tngG29Wlrx9PO3merpjxb2PFib-ezJb0v2lc96-wGxglmgkgAxTs0KEBOAQbX89blkDB5smvK8-2zXqydA_LV1B1P104HssF6EMHX-WT_OmASeLJ76ZMd3S-WNb7cPQ8eLAoKhnoKoAAzfNzQaATEpkBsBsoJz9c3vJzW_XLBWoUE03gFs_gEhedNu4Bx2bryaUM3ML0DgwzucXAsvpw98-muqUDXQFwJMtQEFH4KCYYwvUhhBdbyvGUhspYnO6ZALVMwBdr3dMe2Z3M6n-ztA-oAu7nDxQQY-a4gwsUEYYuxAshFrauR4sEYbCNQEpjNgcYrOAGVg2xDMgwRQwoKRpAwMAb63Rzqd6B2hYQaBSNg_IEg0FW6CA4Q1wADtgNsQQPQdpCzwVZCLFAAOQ_kNlCaBMvC3AMMApB7XExRHWAMcYAl0AGGhlAXgGIxDRR9sGgwVIAHJM5ISHjctEjhcfMaoL7-hMeNTQqPm3qgyeZZ31LUQDIEeSHhcfMKiOKmDki6BRqKrMoMoqppM9TIyTBVKAkf6EFgCsSIhKdzJj_bPREcwSCb2h43TwW6bg_UqGWPG7dCuciBYQJNkcbAeAYVW-DQgCT3p70bgEkCHADP1iwEViPAKNIwAsaOJjBSjIEQHC2PG3oeN08CGvy4eSWYsfJxA7CEQBMBZux-kMrGTSDxpk4QA0gCVaKLQIsAYL4DFqmQ0uvJrmVP9s4BhgHQGVBDoCp7INn42Zw1L1YteT6nEewVmC-Asfd09zZgACF51xTiXVOYEiDbSAHIAGZkYH592tj-dEIv0N9A68AWdYNCTOFx42oQfty4G0iBAxFsOagoBboRUrZCdLxcNhMUJI3AkgToodVPe5rAXJBWsMhWiP9gDoKV2aAytaERWD2D-c9mLAXWGE_3bgTrXf-4qRvk40YgOQlsSBs4tCAksEIFBuG6x40rHzdOfNzYC9I4qQesERhIHY-buoBaIMa-6AeVVY8bV4ENWfeiC2Y-XKRzE1ik5XET2JEgKSB32dNJEPGpYMHex43zwU5qAjO6IIaDuE09QBshTQ2w-smQRAfWBY4xRJzjU_xy8WywCKgZ8bhxG1AZzAqkJIODgakXI6h39SAFNTAQnoPrIUg4PG4Exvn8x437gdqBKQssvgwSlc96QPX74yZghAK5C0GuBVrXsBisZglIEOijxgVA9vPVS8Eq-8FeXg8Pf8Jpo3HJ48Y9L_pXg8VnAp0BNBPkkokzELY07n-6sRVsPjgxgCJiBSj0mnqHRkRQ3uqBAgUtfS6u4Py8dKuAzMS8fIcagxqFapANCjaGZlrg-FbA1tgC5X9gfnuxsEdBA1ZS6CjAanBNLBqAFoEMqwHVS-DaElgjGQOxIXJ1hVMWROOr2sAkTCFIIwzWgG31MawBFjj9QP7j5tVgchKIbAKxQfBx0yawKY-bloFlV4LFEGywmuYOiBpgGxwm0glWtxFuylqoCpDpEBUrwOQqTBcZAdU1rgfJNoJkgZkGTM6H6WzcDzGrEewKYNkJMr8JzF4IVwOSA6lZAncBxJQFcBUgGZC_QH6HqAC7GWwzwkX443lXz-CKZ5AIsib0eO4C-RAcS7A4B4lA4gMkCgoPULg8bgbFF1RNEyimIGraoGq2wsMMrK4JFCMQFaDYAKlYBFcBksMdz90gWUgcQmpAEANmPFgxNKqARReYnAkm4RaCoxUlosFywOILrgJkBUgF3BuNk8HivShOIpChO8mJ6Oq0WmBUgKAusBMDiSgQBEURULagFhxh4LiEEKjy-HXnAqUR2oEYR6RD2pCwDNe0GURCGm8ogYyUM8F5HI1PgkGgwgCicRqYhIU7etSD27NADFIPjRNIKxI18kHlDyQiIfkTlU-CQYj43wbWDnMnEfEPbBuSFf8oMQzEsPIXEoXESoGMQYlchWpQ39TAoBZJEBUiZ3qCEUuECrxxSsgV4NgmHI2EVeCNQTyuqOXi0rVTAFXm0T6GsQpwthGYrcwFAA)]
+- [主旋律 TMD 檔案](kocho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5oiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfJeZl5ibmoIsWpyYW5-cVK3FpaSm8aF74Yu42BS0tLkVbBUMjAy57WwV3LhszfQs7kC6Q160Unk3b8Hz7CoWnG_qfrt3xbMHCx827n7augbAVnk7Z-Gxtz7OpM5_NnfBydtv7PR0vV894vrbz-fKJT3Y0AJU-2dUDVPp055bnU1a839MJdg1Q5tmiuc9a-57s6HzZ3KcANP5xQxcp9jxu6AZa9XTJ8mdrFz_tbQRZsnMLhPFsTsf7PT3Ptyx6NnvHi5nzFQzMjUx1TQxhdj-bvvTZpt3PZjY9mzMfbjzQdogFT3dshhrduuPF9H6QfiMDIwM9AwMzPQMLE2OgmwIMTc1ghj3tm_9iTydIN9DRQMOAZsCc93zNGgVjE3OFlwsa4S5VMDRRALpTwVAB6EgFUwWQW7pawIZx6Wsp2FILcCkoKNgpRCv6-Ye4xkI4WlpAt4JCZHP7ixVdLzragZ59sXLe09YVz6a1a2mBnLih91l7p0ICKFXrZRWkJzxqmAzimIE5wCCFGKBQoAf0lxlQEug7oCjO6Ab630zh5bJpQO-93zML4gpdoDterNr_rGE5yAXdvcDwBdk963FzB1D4aetaoNjTtROArnFXAAYZUEwBmBYVgKJgU3peNsx_umuZwqOZK_VsFSwMgOqe9c9-vm7609mzn3a0vZy_-fmaZQoJkLQMdDIwZpoQFj9bP-XFnmZgbD_tngG29Wlrx9PO3merpjxb2PFib-ezJb0v2lc96-wGxglmgkgAxTs0KEBOAQbX89blkDB5smvK8-2zXqydA_LV1B1P104HssF6EMHX-WT_OmASeLJ76ZMd3S-WNb7cPQ8eLAoKhnoKoAAzfNzQaATEpkBsBsoJz9c3vJzW_XLBWoUE03gFs_gEhedNu4Bx2bryaUM3ML0DgwzucXAsvpw98-muqUDXQFwJMtQEFH4KCYYwvUhhBdbyvGUhspYnO6ZALVMwBdr3dMe2Z3M6n-ztA-oAu7nDxQQY-a4gwsUEYYuxAshFrauR4sEYbCNQEpjNgcYrOAGVg2xDMgwRQwoKRpAwMAb63Rzqd6B2hYQaBSNg_IEg0FW6CA4Q1wADtgNsQQPQdpCzwVZCLFAAOQ_kNlCaBMvC3AMMApB7XExRHWAMcYAl0AGGhlAXgGIxDRR9sGgwVIAHJM5ISHjctEjhcfMaoL7-hMeNTQqPm3qgyeZZ31LUQDIEeSHhcfMKiOKmDki6BRqKrMoMoqppM9TIyTBVKAkf6EFgCsSIhKdzJj_bPREcwSCb2h43TwW6bg_UqGWPG7dCuciBYQJNkcbAeAYVW-DQgCT3p70bgEkCHADP1iwEViPAKNIwAsaOJjBSjIEQHC2PG3oeN08CGvy4eSWYsfJxA7CEQBMBZux-kMrGTSDxpk4QA0gCVaKLQIsAYL4DFqmQ0uvJrmVP9s4BhgHQGVBDoCp7INn42Zw1L1YteT6nEewVmC-Asfd09zZgACF51xTiXVOYEiDbSAHIAGZkYH592tj-dEIv0N9A68AWdYNCTOFx42oQfty4G0iBAxFsOagoBboRUrZCdLxcNhMUJI3AkgToodVPe5rAXJBWsMhWiP9gDoKV2aAytaERWD2D-c9mLAXWGE_3bgTrXf-4qRvk40YgOQlsSBs4tCAksEIFBuG6x40rHzdOfNzYC9I4qQesERhIHY-buoBaIMa-6AeVVY8bV4ENWfeiC2Y-XKRzE1ik5XET2JEgKSB32dNJEPGpYMHex43zwU5qAjO6IIaDuE09QBshTQ2w-smQRAfWBY4xRJzjU_xy8WywCKgZ8bhxG1AZzAqkJIODgakXI6h39SAFNTAQnoPrIUg4PG4Exvn8x437gdqBKQssvgwSlc96QPX74yZghAK5C0GuBVrXsBisZglIEOijxgVA9vPVS8Eq-8FeXg8Pf8Jpo3HJ48Y9L_pXg8VnAp0BNBPkkokzELY07n-6sRVsPjgxgCJiBSj0mnqHRkRQ3uqBAgUtfS6u4Py8dKuAzMS8fIcagxqFapANCjaGZlrg-FbA1tgC5X9gfnuxsEdBA1ZS6CjAanBNLBqAFoEMqwHVS-DaElgjGQOxIXJ1hVMWROOr2sAkTCFIIwzWgG31MawBFjj9QP7j5tVgchKIbAKxQfBx0yawKY-bloFlV4LFEGywmuYOiBpgGxwm0glWtxFuylqoCpDpEBUrwOQqTBcZAdU1rgfJNoJkgZkGTM6H6WzcDzGrEewKYNkJMr8JzF4IVwOSA6lZAncBxJQFcBUgGZC_QH6HqAC7GWwzwkX443lXz-CKZ5AIsib0eO4C-RAcS7A4B4lA4gMkCgoPULg8bgbFF1RNEyimIGraoGq2wsMMrK4JFCMQFaDYAKlYBFcBksMdz90gWUgcQmpAEANmPFgxNKqARReYnAkm4RaCoxUlosFywOILrgJkBUgF3BuNk8HivShOIpChO8mJ6Oq0WmBUgKAusBMDiSgQBEURULagFhxh4LiEEKjy-HXnAqUR2oEYR6RD2pCwDNe0GURCGm8ogYyUM8F5HI1PgkGgwgCicRqYhIU7etSD27NADFIPjRNIKxI18kHlDyQiIfkTlU-CQYj43wbWDnMnEfEPbBuSFf8oMQzEsPIXEoXESoGMQYlchWpQ39TAoBZJEBUiZ3qCEUuECrxxSsgV4NgmHI2EVeCNQTyuqOXi0rVTAFXmCki0MhcA)]
 - [鋼琴伴奏 TMD 檔案](kocho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5oiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYlKXFpaCi-aF76Yu-39no6Xs2c-6-x-2b3n-YQtT_Zsebq0__2eTgUtLS5FWwVDIwMue1sFdy4bM30LO5DZIF9aKTybtuH59hUKTzf0P12749mChY-bdz9tXQNhKzydsvHZ2p5nU2c-mzvh5ew2kBWrZzxf2_l8-cQnOxqASp_s6gEqfbpzy_MpK4B2gd0MlHm2aO6z1r4nOzpfNvcpAI1_3NBFij2PG7qBVj1dsvzZ2sVPextBluzcAmE8m9Pxfk_P8y2Lns3e8WLmfAUDcyNTXRNDmN3Ppi99tmn3s5lNz-bMhxsPtB1iwdMdm6FGt-54Mb0fpN_IwMhAz8DATM_AwsQY6KYAQ1MzmGFP--a_2NMJ0g10NNAwoBkw5z1fs0bB2MRc4eWCRiUuLs-8kqJ8q4DMxLz8IA-HGoMahWouBSCwMTTTsgOzahRM4xXM4kGkroIxEBsCMQiC6BoFIygPLA3ngKVAJEgEWRMI1iCxEdAAJMNVi-IkHxQnWcBdZBivEG0YC8ZITJBLgTzTeCAXRKDy0GVRNKIaaACEYKcE5-elEwicakgCrcUVSmABysIQphCkER6GYOt9DGsUHjf3A_mPm1eDyUkgsgnEBsHHTZvApjxuWgaWXQkWQ7DBapo7IGqA6R0m0glWtxFuylqoCpDpEBUrwOQqTBcZAdU1rgfJNoJkHzf2gMn5MJ2N-yFmNYJd0Qh2dVMTmL0QrgYkB1KzBO4CiCkL4CpAMiB_gfwOUQF2M9hmhIvwJ2AqRA3W5I0UNV0gR4EDFhZNIBFIEIJEQV4AeeVxMyiIoWqaQIELUdMGVbMV7k2wuiZQIEJUgAIQpGIRXAVIDnfUdINkIcHeuPpx424wA2Y8WDE0dB837gGTM8Ek3EJwTKDEDVjucRM8bTSBrACpgHujcTJYvBfFSbD8k1YLDD0Q1FUwA2JYggeFKlC2oBYcxuDghxCo8vh15wKlEdqBGEc8AUPvcfMaWLJu2gwim9seN09FDRek9A_OSWh8EgwCZTmIxmlgEhZU6LHVBA7wx00g9dBgbFyGGV-gXA4Je0guQOWTYBAiyraBtcPciRplKJECxLCCCRLqxEqBjEGtFsBlqQGwLEUIokLkrEUwLohQgTcaCLkCHEGEQ56wCryBjscVKBUUrqoSXj_hqjPJq0tx6CJQP1O73kYuQ3AYDUpleCp-vFpBxQdhy_FbQLQUODugWA_LDTgaJ7p2CuCmkgKQAUoH0T5ABXC2EZitzAUA)]
 
 ## 分析
@@ -96,10 +104,10 @@ w: ひ _ ら ひ ら | ひ _ ら ひ ら | と _ ぶ よ | _
 🎼 Key & Tempo:    首調基準 G, != 120.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Song[L1] #1 @ m.1, 0:00]
-   - 最高音: E5 in [Song[L1] #1 @ m.9, 0:12]
+   - 最低音:  D4 in [Song #1 @ m.1, 0:00]
+   - 最高音: E5 in [Song #1 @ m.9, 0:12]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song[L1] (24.3s) -> Song[L2] (28.8s)
+🏛  結構:      Song (24.3s) -> Song (28.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -109,8 +117,8 @@ w: ひ _ ら ひ ら | ひ _ ら ひ ら | と _ ぶ よ | _
    - 候選調性 (K-S): G 大調 (0.89), D 大調 (0.77), B 小調 (0.62)
    - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Song[L1] #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [Song[L2] #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Song #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Song #2]: G 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

@@ -18,7 +18,7 @@
 
 本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **33 冊、1,087 首（次）曲目**：
 
-- 🔍 **全站歌曲去重統計**：[`docs/duplicate_songs.md`](docs/duplicate_songs.md)（829 首不重複歌曲、176 組重複歌曲）
+- 🔍 **全站歌曲去重統計**：[`docs/duplicate_songs.md`](docs/duplicate_songs.md)（841 首不重複歌曲、165 組重複歌曲）
 - 📊 **《新定兒童唱歌》專題統計（主題分布、調性、節拍、五聲音階與歌唱音域）**：[`docs/shintei_jido_shoka/index.md`](docs/shintei_jido_shoka/index.md)
 - 📄 **《楊金土手抄唱歌帖》專題考證與研究筆記**：[`docs/shokacho/research_notes.md`](docs/shokacho/research_notes.md)
 - 📑 **《蓬萊唱歌集》存見曲目目次重建**：[`docs/shokacho/horai_shokashu.md`](docs/shokacho/horai_shokashu.md)（共 45+3 首完整對照表）

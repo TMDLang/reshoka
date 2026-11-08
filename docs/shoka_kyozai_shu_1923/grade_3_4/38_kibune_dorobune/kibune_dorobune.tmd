@@ -64,4 +64,4 @@ PartB:Piano@|0| {
     L2| 「 い - - - の - ち - | ば - - か り - は - | う - - さ ぎ - さ - | ま - - - - - 」 _ - |
 }
 
--> PartA[L1] -> PartA[L2] -> PartB[L1] -> PartB[L2] -> #
+-> PartA -> PartA -> PartB -> #

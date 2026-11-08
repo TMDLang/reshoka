@@ -57,4 +57,4 @@ SuzumeNoOyado:Piano@|0|{
     L3| タ - - - ン - ト - | タ - - カ ラ - ガ - | デ - タ - デ - - セ | ウ - - - - - _ - |
 }
 
--> SuzumeNoOyado[L1] -> SuzumeNoOyado[L2] -> SuzumeNoOyado[L3] -> #
+-> SuzumeNoOyado -> SuzumeNoOyado -> #

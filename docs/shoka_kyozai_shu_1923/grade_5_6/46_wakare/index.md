@@ -54,13 +54,17 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 !p! z4 z4 z4 c3 c | !mp! c4 z4 c3 c d4 | c3 d c4 A4 F3 G | A4 F4 D3 E G4 |
-w: ハ ル | ノ ハ ル ノ | ア _ シ タ ハ _ | ナ ノ モ _ ト
+w: 1.~ハ ル | ノ ハ ル ノ | ア _ シ タ ハ _ | ナ ノ モ _ ト
+w: 2.~あ き | の あ き の | ゆ _ ふ べ つ _ | き の か _ げ
 !mf! C8 c3 c c4 | z4 c3 c d4 c3 d | c4 A4 d3 d c4 | B4 A3 G A2 B2 c4 |
-w: ニ ト モ ニ | ト モ ニ タ ノ | シ ク シ タ シ | ミ ア _ ヒ _ シ
+w: 1.~ニ ト モ ニ | ト モ ニ タ ノ | シ ク シ タ シ | ミ ア _ ヒ _ シ
+w: 2.~に と も に | と も に う れ | し く か た ら | ひ あ _ ひ _ し
 !p! z4 z4 z4 c3 c | !mp! c4 z4 c3 c d4 | c3 d c4 A4 F3 G | A4 F4 D3 E G4 |
-w: あ き | の あ き の | ゆ _ ふ べ つ _ | き の か _ げ
+w: 1.~ハ ル | ノ ハ ル ノ | ア _ シ タ ハ _ | ナ ノ モ _ ト
+w: 2.~あ き | の あ き の | ゆ _ ふ べ つ _ | き の か _ げ
 !mf! C8 c3 c c4 | z4 c3 c d4 c3 d | c4 A4 d3 d c4 | B4 A3 G A2 B2 c4 |
-w: に と も に | と も に う れ | し く か た ら | ひ あ _ ひ _ し
+w: 1.~ニ ト モ ニ | ト モ ニ タ ノ | シ ク シ タ シ | ミ ア _ ヒ _ シ
+w: 2.~に と も に | と も に う れ | し く か た ら | ひ あ _ ひ _ し
 !p! z4 z4 z4 G4 | G6 G2 G4 E4 | D6 D2 D4 C4 | D6 C2 D4 E4 |
 w: ひ | ご ろ の ま | じ は り わ | す れ ぬ ほ
 G4 A8 c4 | !mf! d6 A2 A4 G4 | !p! E4 G8 C2 C2 | D6 C2 E4 D4 |
@@ -71,7 +75,7 @@ w: ば
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](wakare.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsbIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l1aUmZqXUpyRWYAuA_J4aSLEYC0thacdSx839ShoaXEp2ioYGhhw2dsqOHPZmOib2IE0gkLASuHZtA3Pt69QeLqh_-naHc8WLHzcvPtp6xoIW-HplI3P1vY8mzrz2dwJL2e3vd_T8XRD99MdO54vn_hk1xSw0rVApU93bnk-ZcX7PZ1gBz3Z0fBs0dxnrX1PdnS-bO5TABr_uKGLFHseN3SDrFqy_NnaxU97G5_s6gHaAGE8m9Pxfk_P8y2Lns3e8WLmfAUDcyNTXRNDmN05lcBwAwYfyF_tL5tXPJ_TCBZPzs8tyC9OLUIR59LXUrClFuBSUFCwU4hW9PMPcY2FcLS0nvbNB7lzc_uLFV0vOtqBfnyxct7T1hVAR2hpgUOz91l7p0ICKMnpZRWkJzxqmAziGIM5QI9CDFAo0FMwNjIBShobmYJEcUXCmjUKJmYKL5dNA4bH-z2zIM7QBTrkxar9zxqWg5zQ3QsMNpDlsx439wOFn86eDRR7unYC0DnOCsAwB4opAJOIAlAUbErPo5krwckHZPGejS-2bgdFcHcvwvBnszc93dP_fOuEZ8u7wSbDwxgSr08n9AKVPG7oeNzU_7ixG5gmHzcADe5AeFsBEjIvFzS-XNjzZO-cxw09SGqB7uhBhIrCsxVNL9bOQVYLSehghZ2PG5qedvYqWIBS2vP1DUCVT3Z0P-3d8GxO58vZM59uXAKxCmg9MLSAPnnZ2Auyrbn_cfPqx819jxqWAc0BBhRIdlcPVLax6TGQ0bgOIgsJFlBgw2wBsY1BIaaQYBiXoPByZsvT3dteTt3-YsUMYGgDTXva3_tiWRuEC_K5VU0NMHpBxkBknu2ZAgyrp60rgRY-3dfzrG8pkIQbD3bCpseNUx43gVzxuHHf48YZjxvXP27qgrgI6Olnc9Y8WzXlyb65T9cvezlrNsRASMw83Tj15bTu5027gAktsajEMdrHMFZB104ByjGCc5wSgAaB4xUSuc9mLAU6FmwRMEN2Aq1-NmcuWAQYHtMfNwK9AgzvhhddG6HKGldBlAGDHCTSBFQGKhYeN66GGPi0FaJyBVAKIg6MTLDIfKAusAjQ2H6QmcuARgHFYbaAGPufTgBmfpDtYBFggEyHGPt8Odg6cCxBHPB0yVSwA9oeN2593LgT4k5w2QFUtgShbC_EPd2PGyfhd-fTNaAU-7ixDZjQUNy5CpSUwCaA3dkEchgudz6bvvTlgmawFDQ2ocG1awlYEBqtYHO6gIY_3T8D7AtgTpgJFgQmgzXPV0A8u_tx40pkNz9rngNWDPEI0Hm9wGwB0w6OPqD2pkkgYyd2QcIBrHISMNYeN01-3DgV7PgN0CRAeYkIBQpa-lxc4KRmFZCZmJfvUGNQo1ANskLBxtBMC5zUFLCVxArAfPy0t-vZuq0KGpCCR8EQnMe04RkDknkUgLlJRwFWQGhiMQnoBJAtNQoGwAILBNHp6oJaBcM4MBNI1cDYSApyUVQYweThSoEicE1mUNoETJoCFaGKAFWDSWOgHNQYsPt8DGsU4qEi6DSwhILSq4HmAUsqPPIIWaDKpkUwFU3b4az9aLrAKpu74KIw_Y-b4bqbO1DdaoTHrY1NULoXZG7jOjzyCFmQW9vgKrbCWTvhrCUIlUCdMFGYfmAqh7Mmwd0KjXhDqAAMVuemIccnPOoQSQRLZCOiGimFwKIWqgo5HdQomKMoMgXTIDGEEnjEP26GOR8GYUEOigSELCLYscvDIhcUiaAgRUT6ejgLIgZSiZAHuWA-XAUi2mFBiaQSngCAhQ-6mxtXQFU3IckiuRmrPLBchYr2gCN3OlwcljxhkQssZoGqOhFubtwEVwFJVCAWQgxmUg1XLaQUciK5FNrXQ6AUokLZAy8H4CwQBLFhfGO4CkjZAYEgNowPS-KoKkCiMD7cDEgE4svAsBAEhfAUJOOAdRZYHpHp9iGpnIGsshGU3oAVGVwnUlHTOBPFzB6w-jVwnbvhDoWGHSwUYJkN7jtEVgPnaHhWhSmGaUAEMCwQkAMaBMFVAMhIsCr0IITpgoljlijo0QoPZGA9DRXCkl2a4CUVUmKFqO0Fy6NnAEg5CQowVP0IfaBSElICgsxchWLbZLDcVDgfOSNtQDMJPVGAsxCi2YirDQliKHMBAA)]
+- [主旋律 TMD 檔案](wakare.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsbIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l1aUmZqXUpyRWYAuA_J4aSLEYC0thacdSx839ShoaXEp2ioYGhhw2dsqOHPZmOib2IE0gkLASuHZtA3Pt69QeLqh_-naHc8WLHzcvPtp6xoIW-HplI3P1vY8mzrz2dwJL2e3vd_T8XRD99MdO54vn_hk1xSw0rVApU93bnk-ZcX7PZ1gBz3Z0fBs0dxnrX1PdnS-bO5TABr_uKGLFHseN3SDrFqy_NnaxU97G5_s6gHaAGE8m9Pxfk_P8y2Lns3e8WLmfAUDcyNTXRNDmN05lcBwAwYfyF_tL5tXPJ_TCBZPzs8tyC9OLUIR59LXUrClFuBSUFCwU4hW9PMPcY2FcLS0nvbNB7lzc_uLFV0vOtqBfnyxct7T1hVAR2hpgUOz91l7p0ICKMnpZRWkJzxqmAziGIM5QI9CDFAo0FMwNjIBShobmYJEcUXCmjUKJmYKL5dNA4bH-z2zIM7QBTrkxar9zxqWg5zQ3QsMNpDlsx439wOFn86eDRR7unYC0DnOCsAwB4opAJOIAlAUbErPo5krwckHZPGejS-2bgdFcHcvwvBnszc93dP_fOuEZ8u7wSbDwxgSr08n9AKVPG7oeNzU_7ixG5gmHzcADe5AeFsBEjIvFzS-XNjzZO-cxw09SGqB7uhBhIrCsxVNL9bOQVYLSehghZ2PG5qedvYqWIBS2vP1DUCVT3Z0P-3d8GxO58vZM59uXAKxCmg9MLSAPnnZ2Auyrbn_cfPqx819jxqWAc0BBhRIdlcPVLax6TGQ0bgOIgsJFlBgw2wBsY1BIaaQYBiXoPByZsvT3dteTt3-YsUMYGgDTXva3_tiWRuEC_K5VU0NMHpBxkBknu2ZAgyrp60rgRY-3dfzrG8pkIQbD3bCpseNUx43gVzxuHHf48YZjxvXP27qgrgI6Olnc9Y8WzXlyb65T9cvezlrNsRASMw83Tj15bTu5027gAktsajEMdrHMFZB104ByjGCc5wSgAaB4xUSuc9mLAU6FmwRMEN2Aq1-NmcuWAQYHtMfNwK9AgzvhhddG6HKGldBlAGDHCTSBFQGKhYeN66GGPi0FaJyBVAKIg6MTLDIfKAusAjQ2H6QmcuARgHFYbaAGPufTgBmfpDtYBFggEyHGPt8Odg6cCxBHPB0yVSwA9oeN2593LgT4k5w2QFUtgShbC_EPd2PGyfhd-fTNaAU-7ixDZjQUNy5CpSUwCaA3dkEchgudz6bvvTlgmawFDQ2ocG1awlYEBqtYHO6gIY_3T8D7AtgTpgJFgQmgzXPV0A8u_tx40pkNz9rngNWDPEI0Hm9wGwB0w6OPqD2pkkgYyd2QcIBrHISMNYeN01-3DgV7PgN0CRAeYkIBQpa-lxc4KRmFZCZmJfvUGNQo1ANskLBxtBMC5zUFLCVxArAfPy0t-vZuq0KGpCCR8EQnMe04RkDknkUgLlJRwFWQGhiMQnoBJAtNQoGwAILBNHp6oJaBcM4MBNI1cDYSApyUVQYweThSoEicE1mUNoETJoCFaGKAFWDSWOgHNQYsPt8DGsU4qEi6DSwhILSq4HmAUsqPPIIWaDKpkUwFU3b4az9aLrAKpu74KIw_Y-b4bqbO1DdaoTHrY1NULoXZG7jOjzyCFmQW9vgKrbCWTvhrCUIlUCdMFGYfmAqh7Mmwd0KjXhDqAAMVuemIccnPOoQSQRLZCOiGimFwKIWqgo5HdQomKMoMgXTIDGEEnjEP26GOR8GYUEOigSELCLYscvDIhcUiaAgRUT6ejgLIgZSiZAHuWA-XAUi2mFBiaQSngCAhQ-6mxtXQFU3IckiuRmrPLBchYr2gCN3OlwcljxhkQssZoGqOhFubtwEVwFJVCAWQgxmUg1XLaQUciK5FNrXQ6AUokLZAy8H4CwQBLFhfGO4CkjZAYEgNowPS-KoKkCiMD7cDEgE4svAsBAEhfAUJOOAdRZYHpHp9iGpnIGsshGU3oAVGVwnUlHTOBPFzB6w-jVwnbvhDoWGHSwUYJkN7jtEVgPnaHhWhSmGaUAEMCwQkAMaBMFVAMhIsCr0IITpgoljlijo0QoPZGA9DRXCkl2a4CUVUmKFqO0Fy6NnAEg5CQowVP0IfaBSElICgsxchWLbZLDcVDgfOSNtQDMJPVGAsxCs2QhvP8LbjiCGMhcA)]
 - [鋼琴伴奏 TMD 檔案](wakare_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsbIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqs0ooyU_NSijMyC9BlQCFUmghxgZaWwtOOpY-bet7v6Xg5e-azzu6X3XueT9jyZM-Wp0v73-_pVNDS4lK0VTA0MOCyt1Vw5rIx0TexAxkICkIrhWfTNjzfvkLh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN0GtOLphu6nO3Y8Xz7xya4pYKVrgUqf7tzyfMoKoF1ghz7Z0fBs0dxnrX1PdnS-bO5TABr_uKGLFHseN3SDrFqy_NnaxU97G5_s6gHaAGE8m9Pxfk_P8y2Lns3e8WLmfAUDcyNTXRNDmN05lcCAB4Y_yF_tL5tXPJ_TCBYHBXN-cWoRijiXZ15JUb5VACgqgjwcagxqFKq5FIDAxtBMyw7MAorkptUqGMUp6MKhGRSDoCmUrlEwRhOBQUMorlEwQhOF6YCJ14BFkaEBGl3DVYviaB8UR5uguTleIdooN1bBJF7BMB5keLyCaTxQzDQ-FiIAVACRAwmD5aMNY4F2GUDsCUgsKnEkEDjoDoTR1QW1CoaQMANSQLNh4QdXkIuiAh6-cKVAEbgmWGCbgElToCJUEVgQGiOiA-w-H8MahXioCDr9uLkfSq8GmvcYmExxyyNkgSqbFsFUNG2Hs_aj6QKrbO6Ci8L0P26G627uQHWrER63NjZB6V6QuY3r8MgjZEFubYOr2Apn7YSzliBUAnXCRGH6Hzd2w1mT4G6FRjx6SgWnOER8wqMOkUSwRDYiqpFSCCxqoaqQ00GNgjmKIlMwDRJDKIFH_ONmmPNhEBbkoEhAyCKCHbs8LHJBkQgKUkSkr4ezIGIglQh5kAvmw1Ugoh0WlEgq4QngceNqdDc3roCqbkKSRXIzVvnHjZCIB9YK4MidDheHJU9Y5D5unA9U1Ylwc-MmuApIogKxEGIwk9BLCFwlEag0AZcokCIhHsiEZH1oQQQvdoAlUbQJiA9lgIsqoDgkcODKIOkMKgU0DFp6wQo4mE4wH8oAFnMgLszBThQUaYjSHrmUB7FhfFiZjlrag9gwPiznYNYHMD7cDEi6wFcuwCIGFHFTkIx73NQLlkfk5X1IKmcgq2wEJePHTfCyqgmpBGuciWJmD1j9GrjO3XCHQsMOFgqwPAz3HSIHU1qdgpMRyEiwKmpUqdBAfty4EiqEJRc2wQtApDwAUdsLlkfPV5DiFxRgqPoR-kCFL6RgBZm5CsW2yWC5qXA-cv7cgGYSeqJAT-hE50xQloLnLHhLASU3obQfEBkTmmXBZhFqecAsJND40LVTALdzFIAMcDET7QOURnCM4BwnEEOZCwA)]
 
 ## 分析
@@ -84,10 +88,10 @@ w: ば
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [PartA[L1] #1 @ m.5, 0:09]
-   - 最高音: D5 in [PartA[L1] #1 @ m.2, 0:04]
+   - 最低音:  C4 in [PartA #1 @ m.5, 0:09]
+   - 最高音: D5 in [PartA #1 @ m.2, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      PartA[L1] (19.2s) -> PartA[L2] (19.2s) -> PartB (21.6s)
+🏛  結構:      PartA (19.2s) -> PartA (19.2s) -> PartB (21.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（推測轉調經歷 1 次）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -97,8 +101,8 @@ w: ば
    - 候選調性 (K-S): C 大調 (0.82), A 小調 (0.63), C 小調 (0.56)
    - 五度圈歷程:   +0 -> +0 -> +1
    - 各段落調性細節:
-     • [PartA[L1] #1]: C 大調 (r: 0.75, 自然音純度: 100.0%)
-     • [PartA[L2] #1]: C 大調 (r: 0.75, 自然音純度: 100.0%)
+     • [PartA #1]: C 大調 (r: 0.75, 自然音純度: 100.0%)
+     • [PartA #2]: C 大調 (r: 0.75, 自然音純度: 100.0%)
      • [PartB #1]: G 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]

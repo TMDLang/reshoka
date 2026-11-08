@@ -61,4 +61,4 @@ PartB:Vocal@|0|{
     L2| い - - - は - へ - | も - ろ - び - と - | も - ろ - と - - も | に - - - - - _ - |
 }
 
--> PartA[L1] -> PartA[L2] -> PartB[L1] -> PartB[L2] -> #
+-> PartA -> PartA -> PartB -> #

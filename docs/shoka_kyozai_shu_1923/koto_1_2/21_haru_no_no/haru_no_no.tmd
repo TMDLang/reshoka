@@ -62,4 +62,4 @@ HaruNoNo:Piano@|0|{
     L3| あ - - - - - - - す - - - も - - - | ま - - - - - た - こん - - - - - - - | う - - - - - ち - つ - - - れ - - - | て - - - - - - - - - - - 0 - - - |
 }
 
--> HaruNoNo[L1] -> HaruNoNo[L2] -> HaruNoNo[L3] -> #
+-> HaruNoNo -> HaruNoNo -> #

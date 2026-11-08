@@ -61,26 +61,34 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 !mf! A2 A2 A6 F2 | B2 A2 A4 F4 | D2 E2 F6 A2 | E8 z4 |
-w: が が た る | い _ は ほ | つ ら な り | て
+w: 1.~が が た る | い _ は ほ | つ ら な り | て
+w: 2.~せ き も ん | た _ か く | し ら く も | の
 A2 A2 A6 F2 | A2 d2 d4 c4 | B2 c2 B6 A2 | A8 z4 |
-w: こ く う に | そ ば だ つ | め う ぎ さ | ん
+w: 1.~こ く う に | そ ば だ つ | め う ぎ さ | ん
+w: 2.~た え ま に | ひ ら く る | め う ぎ さ | ん
 !mp! D2 D2 E4 F4 | E2 D2 E4 A,4 | D2 E2 F6 A2 | E8 z4 |
-w: な つ き て | き _ け ば | ホ ト ト ギ | ス
+w: 1.~な つ き て | き _ け ば | ホ ト ト ギ | ス
+w: 2.~ふ ゆ き て | み _ れ ば | ふ る ゆ き | に
 !mf! D2 E2 F4 B4 | A2 G2 A4 D4 | G2 F2 E4 A4 | D8 z4 |
-w: ふ も と の | わ か ば の | か げ に な | く
+w: 1.~ふ も と の | わ か ば の | か げ に な | く
+w: 2.~い は ほ も | か れ き も | は な ぞ さ | く
 !mf! A2 A2 A6 F2 | B2 A2 A4 F4 | D2 E2 F6 A2 | E8 z4 |
-w: せ き も ん | た _ か く | し ら く も | の
+w: 1.~が が た る | い _ は ほ | つ ら な り | て
+w: 2.~せ き も ん | た _ か く | し ら く も | の
 A2 A2 A6 F2 | A2 d2 d4 c4 | B2 c2 B6 A2 | A8 z4 |
-w: た え ま に | ひ ら く る | め う ぎ さ | ん
+w: 1.~こ く う に | そ ば だ つ | め う ぎ さ | ん
+w: 2.~た え ま に | ひ ら く る | め う ぎ さ | ん
 !mp! D2 D2 E4 F4 | E2 D2 E4 A,4 | D2 E2 F6 A2 | E8 z4 |
-w: ふ ゆ き て | み _ れ ば | ふ る ゆ き | に
+w: 1.~な つ き て | き _ け ば | ホ ト ト ギ | ス
+w: 2.~ふ ゆ き て | み _ れ ば | ふ る ゆ き | に
 !mf! D2 E2 F4 B4 | A2 G2 A4 D4 | G2 F2 E4 A4 | D8 z4 |
-w: い は ほ も | か れ き も | は な ぞ さ | く
+w: 1.~ふ も と の | わ か ば の | か げ に な | く
+w: 2.~い は ほ も | か れ き も | は な ぞ さ | く
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](myogisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5dYUlqUii5akJOYDBTU0lJ4umzm830rn27cqKClxaVoq2BobMRlb6vgwmVjrG9iB9IG8ruVwrNpG55vX6HwdEP_07U7ni1Y-Lh599PWNRC2wtMpG5-t7Xk2deazuRNezm57v6fj6Ybupzt2PF8-8cmuKWCla4FKn-7c8nzKivd7OsHOebKj4dmiuc9a-57s6HzZ3KcANP5xQxcp9jxu6AZZtWT5s7WLn_Y2PtnVA7QBwng2p-P9np7nWxY9m73jxcz5CgbmRqa6JoYwu1-snPd-z6xn09pfNq94PqcRaC_EwRBrIdYATQerfTZ7E9Fq4U4FqQLLPN2xGSj5fM0aoLuetnUB3RtgZGgGdNvTvvnPVsxUMDIxVXi5oBEo8GzG2qeTehSMFICeAJJAHyhYKjybvhTsZi59LQVbagEuBQUFO4VoRT__ENdYCEdLC-QeYFhtbn-xoutFRzvQ6cBAetq6AuhxLS1wjPY-a-9USAAleL2sgvSERw2TQRxjMAfqodk7FAr0gH4yAUoCfQYSxZUQ1qxRMDRUeLlsGtB_wPCFOEMX6JAXq_Y_a1gOckJ3LzDqQJbPetzcDRQGJhSg2NO1E4DOcVEAxjtQTAGYTBWAomBTel42zH-6a5nCo5krISkZbujzzo6XcxcBI-Zp9wywiUCfKRiagdLZ8_UNQJ1A5z3fPuvF2jlAi59vWAhkvGyY8HL-5mcLgBHd-3RdD1ADMMW-aN_yuKEJbC4s4ICijxsagbkHzH-6GZiKW4EOfNzYA0RAZz1unP-4qfvpdqBHgYItjxvXP27cDRR_2bAYLLLkcRNQzSqQyqaux43LIOa8mDn7-cpdYAWTHzf2P24E5iqgstVPN88EC8593LjhceMCsOASeCYGSTU1AhU_bux73Dj1cdNkoAKow5b0gzWuAqoHCj7ZB8qmjxtBAQe09EUjMEPAuRNBhjfPftzcAUJN6x437YQY8nIX0ECgsq2Pm5oeN4Ky8uPGdS-6l76YCAx9oEqgO7uBeqHiU9aCFQNFJkEcD7a9HyMAdwHzDzwAn8_f_HIaMEaAGmcD3QOyCOyLl6tngAXnAw0Em9b_fObel6C8CRScDg7DfqBiiNVQo7ZOfTkN4mCgLiC5D-KMl9NA5cbjxk1AXRCjQBFETBi2rYF5HxQd6GG4DGLsfnBUAmN_w8uZQCmQerBI98vZwFgGGg40GaJlNdRYjLQB9MizeeufzQGGMDgAQaaBtTQ1vegCuxCkEpxmGuc9nQQJhKlQv0CCl_JiAgoUtPS5uHwr89MzixPzrAIyE_PyHWoMaqpBlijYWGiB41EBW_mkAMzkoDyzsEdBwwSa1XQUYGWGJhYNQKtAhtUoVOem1SqYgqEuEBoDhcygPGMgrlEwBBaRIJYuUKwGyAaxdBUMQHJgI3wMaxSA-Q-K54NlgVEAVAsMZxC7cT2Y3A02DZgngLKdQHoVVGUXWHQZ1Nx4hLlGIPHZQNwLVNUEVT0ZrBpkCzC2wGQ_1NzpUHNBfJDKJrDoOhRz8Qfgrh5yAhA17EwVDONASFfBHOwuMyBtBg89iDrM0JsMdjcwJ0Dc3rga7Pa5QLwBiBeAxZZA_NnUCFYHzDJQtVPBopNxhN98IO4A4n0oJm9CCitQXBFvMoEk2EleEiyoBSYzUEKDJTojKM8UbCuRaXAVJHUB0wvI9aAUBRKF8CaCyQ0QsWZgqmoGhgoQQ9LKOrBPd-IIw61AOVC4oJq7H6yzB9lcsMpusGpICPaCRVcTH4JPZ88mOxPDAgmU3EBJzQSc3AzBPBOgDDg8ocGJPQBBzm8C0ivAjgdlHVCwgBIm0FNgT8JFwSKToJ6DZGaQKCTzYQZhC7gYgBQCkMwMNQMYgNCAhYuC1IGich40EWIzuZaLS9dOAVZWRvsYxiqg8I3AfGUuAA)]
+- [主旋律 TMD 檔案](myogisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5dYUlqUii5akJOYDBTU0lJ4umzm830rn27cqKClxaVoq2BobMRlb6vgwmVjrG9iB9IG8ruVwrNpG55vX6HwdEP_07U7ni1Y-Lh599PWNRC2wtMpG5-t7Xk2deazuRNezm57v6fj6Ybupzt2PF8-8cmuKWCla4FKn-7c8nzKivd7OsHOebKj4dmiuc9a-57s6HzZ3KcANP5xQxcp9jxu6AZZtWT5s7WLn_Y2PtnVA7QBwng2p-P9np7nWxY9m73jxcz5CgbmRqa6JoYwu1-snPd-z6xn09pfNq94PqcRaC_EwRBrIdYATQerfTZ7E9Fq4U4FqQLLPN2xGSj5fM0aoLuetnUB3RtgZGgGdNvTvvnPVsxUMDIxVXi5oBEo8GzG2qeTehSMFICeAJJAHyhYKjybvhTsZi59LQVbagEuBQUFO4VoRT__ENdYCEdLC-QeYFhtbn-xoutFRzvQ6cBAetq6AuhxLS1wjPY-a-9USAAleL2sgvSERw2TQRxjMAfqodk7FAr0gH4yAUoCfQYSxZUQ1qxRMDRUeLlsGtB_wPCFOEMX6JAXq_Y_a1gOckJ3LzDqQJbPetzcDRQGJhSg2NO1E4DOcVEAxjtQTAGYTBWAomBTel42zH-6a5nCo5krISkZbujzzo6XcxcBI-Zp9wywiUCfKRiagdLZ8_UNQJ1A5z3fPuvF2jlAi59vWAhkvGyY8HL-5mcLgBHd-3RdD1ADMMW-aN_yuKEJbC4s4ICijxsagbkHzH-6GZiKW4EOfNzYA0RAZz1unP-4qfvpdqBHgYItjxvXP27cDRR_2bAYLLLkcRNQzSqQyqaux43LIOa8mDn7-cpdYAWTHzf2P24E5iqgstVPN88EC8593LjhceMCsOASeCYGSTU1AhU_bux73Dj1cdNkoAKow5b0gzWuAqoHCj7ZB8qmjxtBAQe09EUjMEPAuRNBhjfPftzcAUJN6x437YQY8nIX0ECgsq2Pm5oeN4Ky8uPGdS-6l76YCAx9oEqgO7uBeqHiU9aCFQNFJkEcD7a9HyMAdwHzDzwAn8_f_HIaMEaAGmcD3QOyCOyLl6tngAXnAw0Em9b_fObel6C8CRScDg7DfqBiiNVQo7ZOfTkN4mCgLiC5D-KMl9NA5cbjxk1AXRCjQBFETBi2rYF5HxQd6GG4DGLsfnBUAmN_w8uZQCmQerBI98vZwFgGGg40GaJlNdRYjLQB9MizeeufzQGGMDgAQaaBtTQ1vegCuxCkEpxmGuc9nQQJhKlQv0CCl_JiAgoUtPS5uHwr89MzixPzrAIyE_PyHWoMaqpBlijYWGiB41EBW_mkAMzkoDyzsEdBwwSa1XQUYGWGJhYNQKtAhtUoVOem1SqYgqEuEBoDhcygPGMgrlEwBBaRIJYuUKwGyAaxdBUMQHJgI3wMaxSA-Q-K54NlgVEAVAsMZxC7cT2Y3A02DZgngLKdQHoVVGUXWHQZ1Nx4hLlGIPHZQNwLVNUEVT0ZrBpkCzC2wGQ_1NzpUHNBfJDKJrDoOhRz8Qfgrh5yAhA17EwVDONASFfBHOwuMyBtBg89iDrM0JsMdjcwJ0Dc3rga7Pa5QLwBiBeAxZZA_NnUCFYHzDJQtVPBopNxhN98IO4A4n0oJm9CCitQXBFvMoEk2EleEiyoBSYzUEKDJTojKM8UbCuRaXAVJHUB0wvI9aAUBRKF8CaCyQ0QsWZgqmoGhgoQQ9LKOrBPd-IIw61AOVC4oJq7H6yzB9lcsMpusGpICPaCRVcTH4JPZ88mOxPDAgmU3EBJzQSc3AzBPBOgDDg8ocGJPQBBzm8C0ivAjgdlHVCwgBIm0FNgT8JFwSKToJ6DZGaQKCTzYQZhC7gYgBQCkMwMNQMYgNCAhYuC1IGich40EWIzuZaLS9dOAVZWKqCxlbkA)]
 - [鋼琴伴奏 TMD 檔案](myogisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqs8hJLSotS0UULchKTgYJaWgpPl818vm_l040b3-_peDl75rPO7pfde55P2PJkz5anS_vf7-lU0NLiUrRVMDQ24rK3VXDhsjHWN7EDGQcKPCuFZ9M2PN--QuHphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3Qa04umG7qc7djxfPvHJrilgpWuBSp_u3PJ8ygqgXWBnPtnR8GzR3GetfU92dL5s7lMAGv-4oYsUex43dIOsWrL82drFT3sbn-zqAdoAYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE0OY3S9Wznu_Z9azae0vm1c8n9MItBfiYIi1EGuApoPVPpu9iWi1cKeCVIFlnu7YDJR8vmYN0F1P27qA7g0wMjQDuu1p3_xnK2YqGJmYKrxc0AgUeDZj7dNJPQpGCkBPAEmgDxQsFZ5NXwp2M5dnXklRvlUAKCEEeTjUGNRUcykAgY2Flh2YUaNQnZtWq2AI1GmsoKtgBsQ1CqYKJkCsCxQF8UyAMkZAFkikBiwGggYgHlctig0-yDaYoNkQrxBtGKsQbRILMgTKAWKg-VCOaTySlAHEcN_K_PTM4sQ8PD7Q11KwRQcKwIADppMXC3sUNExAieL5-gYdBWCmNdbLKkjXxKJBSx_ZsaZgCPKmMVDIDMoDBRAoACBBBQqQGnDAIIIDZISPYY3C48YeKJ4Pln3c1A1U-7ixBcRuXA8md4NNe9y4BCjbCaRXQVV2gUWXQc2NR5hrBBKfDcS9QFVNUNWTwapBtjxu7AaT_VBzp0PNBfFBKpvAoutQzMUfgLt6yAlA1LAzVTCMAyFdBXOwu8yANCiRQUIPog4z9CaD3f24sQ3i9sbVYLfPBeINQLwALLYE4s-mRrC6x419ULVTwaKTcYTffCDuAOJ9KCZvQgorUFwRbzKBJNhJXhIsAOVIUEKDJTojKM8UbCuRaXAVJHUB0wvI9aAUBRKF8CaCyQ0QsWZgqmoGhgoQQ9LKOrBPd-IIw61AOVC4oJq7H6yzB9lcsMpusGpICPaCRVcTH4JPZ88mOxOTW6YhAhDk_CYgvQLseFDWAQULKGECPQX2JFwULDIJ6jlIZgaJQjIfZhC2gIsBSCEAycxQM4ABCA1YuChIHSgq50ETITaTMYpKYopilNIXzAHJgIphCM80HsoFFcYQ_ShaYRxIwW0E5BkBeUCMVSskVWNagFr047WdgopE104BXFEpABmwkIr2Acqj8IFuB_KVuQA)]
 
 ## 分析
@@ -93,10 +101,10 @@ w: い は ほ も | か れ き も | は な ぞ さ | く
 🎼 Key & Tempo:    首調基準 D, != 132.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  A3 in [Myogisan[L1] #1 @ m.10, 0:13]
-   - 最高音: D5 in [Myogisan[L1] #1 @ m.6, 0:07]
+   - 最低音:  A3 in [Myogisan #1 @ m.10, 0:13]
+   - 最高音: D5 in [Myogisan #1 @ m.6, 0:07]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Myogisan[L1] (21.8s) -> Myogisan[L2] (21.8s)
+🏛  結構:      Myogisan (21.8s) -> Myogisan (21.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -106,8 +114,8 @@ w: い は ほ も | か れ き も | は な ぞ さ | く
    - 候選調性 (K-S): A 大調 (0.90), D 大調 (0.77), F# 小調 (0.67)
    - 五度圈歷程:   +3 -> +3
    - 各段落調性細節:
-     • [Myogisan[L1] #1]: A 大調 (r: 0.90, 自然音純度: 97.7%, 調外音: G)
-     • [Myogisan[L2] #1]: A 大調 (r: 0.90, 自然音純度: 97.7%, 調外音: G)
+     • [Myogisan #1]: A 大調 (r: 0.90, 自然音純度: 97.7%, 調外音: G)
+     • [Myogisan #2]: A 大調 (r: 0.90, 自然音純度: 97.7%, 調外音: G)
 
   [ 五度圈游移軌跡 ]
                C  

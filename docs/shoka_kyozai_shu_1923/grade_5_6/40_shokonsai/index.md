@@ -57,32 +57,38 @@ K:Gm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 z4 z4 z4 D4 | G3 G G4 G4 A3 A | A4 B4 A3 A G4 | G4 ^F8 z4 |
-w: イ | ク サ ノ ニ ハ _ | ニ ア メ _ ト | チ リ
+w: 1.~イ | ク サ ノ ニ ハ _ | ニ ア メ _ ト | チ リ
+w: 2.~と | も _ に ほ こ と | り の に _ や | ま に
+w: 3.~イ | キ テ ハ ク ニ _ | ノ タ テ _ ト | ナ リ
 z4 z4 z4 D4 | G3 G G4 G4 A3 A | A4 D4 B3 B A3 A | G8 z4 B4 |
-w: カ | ゼ _ ト ク ダ ケ | シ ミ タ _ マ ヲ | バ ナ
+w: 1.~カ | ゼ _ ト ク ダ ケ | シ ミ タ _ マ ヲ | バ ナ
+w: 2.~ち | し ほ の は な _ | に か た _ ら ひ | て ろ
+w: 3.~シ | シ テ ハ フ ミ _ | ノ ハ ナ _ ト ナ | ル タ
 B3 B A4 A4 d3 d | d4 d4 d3 d ^c3 c | d8 z4 c4 | B3 B A4 G4 A3 A |
-w: グ サ メ マ ツ _ | ル コ ノ _ ニ ハ | ニ ア | マ カ ケ リ ツ _
+w: 1.~グ サ メ マ ツ _ | ル コ ノ _ ニ ハ | ニ ア | マ カ ケ リ ツ _
+w: 2.~え い の つ き _ | に う た _ ひ て | し む | か _ し し の ぶ
+w: 3.~カ _ キ イ サ ヲ | ハ ノ チ _ ノ ヨ | ノ カ | ガ ミ ト ナ リ _
 A4 D4 B3 B A3 B | G8 z8 | z4 z4 z4 D4 | G3 G G4 G4 A3 A |
-w: ツ ウ ケ _ ヨ キ | ミ | と | も _ に ほ こ と
+w: 1.~ツ ウ ケ _ ヨ キ | ミ | イ | ク サ ノ ニ ハ _
+w: 2.~も あ あ _ な み | だ | と | も _ に ほ こ と
+w: 3.~テ カ ガ _ ヤ カ | ム | イ | キ テ ハ ク ニ _
 A4 B4 A3 A G4 | G4 ^F8 z4 | z4 z4 z4 D4 | G3 G G4 G4 A3 A |
-w: り の に _ や | ま に | ち | し ほ の は な _
+w: 1.~ニ ア メ _ ト | チ リ | カ | ゼ _ ト ク ダ ケ
+w: 2.~り の に _ や | ま に | ち | し ほ の は な _
+w: 3.~ノ タ テ _ ト | ナ リ | シ | シ テ ハ フ ミ _
 A4 D4 B3 B A3 A | G8 z4 B4 | B3 B A4 A4 d3 d | d4 d4 d3 d ^c3 c |
-w: に か た _ ら ひ | て ろ | え い の つ き _ | に う た _ ひ て
+w: 1.~シ ミ タ _ マ ヲ | バ ナ | グ サ メ マ ツ _ | ル コ ノ _ ニ ハ
+w: 2.~に か た _ ら ひ | て ろ | え い の つ き _ | に う た _ ひ て
+w: 3.~ノ ハ ナ _ ト ナ | ル タ | カ _ キ イ サ ヲ | ハ ノ チ _ ノ ヨ
 d8 z4 c4 | B3 B A4 G4 A3 A | A4 D4 B3 B A3 B | G8 z8 |
-w: し む | か _ し し の ぶ | も あ あ _ な み | だ
-z4 z4 z4 D4 | G3 G G4 G4 A3 A | A4 B4 A3 A G4 | G4 ^F8 z4 |
-w: イ | キ テ ハ ク ニ _ | ノ タ テ _ ト | ナ リ
-z4 z4 z4 D4 | G3 G G4 G4 A3 A | A4 D4 B3 B A3 A | G8 z4 B4 |
-w: シ | シ テ ハ フ ミ _ | ノ ハ ナ _ ト ナ | ル タ
-B3 B A4 A4 d3 d | d4 d4 d3 d ^c3 c | d8 z4 c4 | B3 B A4 G4 A3 A |
-w: カ _ キ イ サ ヲ | ハ ノ チ _ ノ ヨ | ノ カ | ガ ミ ト ナ リ _
-A4 D4 B3 B A3 B | G8 z8 |
-w: テ カ ガ _ ヤ カ | ム
+w: 1.~ニ ア | マ カ ケ リ ツ _ | ツ ウ ケ _ ヨ キ | ミ
+w: 2.~し む | か _ し し の ぶ | も あ あ _ な み | だ
+w: 3.~ノ カ | ガ ミ ト ナ リ _ | テ カ ガ _ ヤ カ | ム
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shokonsai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5xalJqbn1eJLp6bmZNZklgEFNfSUnjWPfvl2qbnS9cqaGlxKdoqGBoYcNnbKjjpcGWnVtoquOdy2Zjom9iBjACFhJXCs2kbnm9fofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnu_p-Pphu6nO3Y8Xz7xya4pYKVrgUqf7tzyfMqK93s6wU57sqPh2aK5z1r7nuzofNncpwA0_nFDFyn2PG7oBlm1ZPmztYuf9jY-2dUDtAHCeDan4_2enudbFj2bvePFzPkKBuZGpromhmC7ufS1FGypBbgUFBTsFKIV_fxDXGMhHC2tp33zQfZubn-xoutFRzvQzS9WznvauuLZtHYtLXDo9D5r71RIACUlvayC9IRHDZNBHEMwB-hwiAEKBXoKxoZGQEljQ2OQKK5AXbNGwcRA4eWyaUD_vd8zC-IMXaBDXqza_6xhOcgJ3b3AYABZPuvFuq7HzWuBMk9nzwYKP107Aegip0cz1yoAQxIo_HL6nCf7m4ARAGQ_bu54Ph-kVkFfwR0UKUAm0CHApAFMQb1g23oezVwJTj8gB-7Z-GLrdrBMB9hRIFVAEWC8AdUinPVs9iagQc87d77o3AR209NZW140tb7o63rZ3vt8VsuLpfufbel-OqnnReMmmKUdTyesfrqh7-X8zQoJyqYJCkBPvWhf8WxmE9A_EEGjOGDQdT7bvv3ZhLUvZ7a83D3vZcOmFwt7gLY9X9_wdGk_0IXP5qwGijxtmPRs6g6QC41AngLKPlsx89kcYIwUZZboAU3peLZnx7PWRUDjHjc0gd0Ni1pgqn3c0AjMNGD-s44NQMWPG1seN_Y_bpwKUt-47umCLWDB1Y8b14NFVr-cDUz1QJGmx02NYJEVz6YuBossBHGbuh43NLxcBFHT_bhxDkTN80V9YBGgyQvAIhMfN05_3LgfmHHB4vMfN-4Da5_0uHEDxD2PG1c9bpwAdAnQIqDs48Ylj5uABk4GugriHhDZ0PB0yUqoeyAmgCydCHIGSP3cx41tYC4wxGeDlfUCLcUWFLt6kILiaSswjoGKVzxuAjoP5OvHjbvBVgNFgPEK8cs6iNTTjWDFTcBwgzgA5KoXCxue7QUqAAUL2Ke7IeH5ogtiMtDxq2AmAx08_3ETkL3pceMyiANeztn0vH0-2Figg0GRAtEOLgqA3CVAj0C0A_MjWAToTaB6qCEgGxsans2YAjahAWzFdLAs0CXA0NsG9Bc4xJqebZ8F1g4M6v3QqMFIJEAheMg8nwJ2FdQ9QLcB7Vr_dA6o7AJH7mqIO8ERCpRaATIZnCSerQWGAFAN3BkgjcAyBCy4FRopWMIHYkI3NFhWz4ClFqCNEAcAgx2YQoDJZv3TfZCgANoOToqN657sAJYiwBAABhrYVcCU2Q-UAqfMpnkwS2GObFz2Ys9chGwTxI9ANjCXgMOE8hIWChS09Lm4goEVfH5ecWKmVUBmYl6-Q41BjUI1yBoFG0MzLXD4K2Ar3RXgJZOCtgIw3wNzMbAYUNAwgWZ_HQVY6auJRTPQZpDBNQoGwNILBNFp43goo0bBDMIEUlAWmA1hmEMYQKoGxtZVMMSQhKuHm6arYKoOY8EgzO4asNt8DGsUYCrQ6cdNS-AGPm5aDxXbqvAYWOlCVTR3w1n9CLUI0aZFcPmFcFYHkspGuOgqNHfCPQNxpxEedzauQHJnE1x0NZy1G86aDNcBUtsFF1-HqaupBWFq4z4MeRzuNCY2PNdCxJrbkMIOFsrIIQsKJXh4N-2Hy7fBWcjhCfcRnvDEndpBKXxXz2BJ4XC9kKRuiKIKrhUGYTbC8gUx6RsWl6D42AMThYcncmw0QEU2gtVuh4vPh6tFxMw8KL0JHCMT0NwJtx0eV8SkcFjuAaXF6VCx3SjpFu7WRljMg9Qi8gA8TzYi3NwJFQG7tHEZLpc29aK6FG8ah4UNIpzQ0njzVDgL5hKUNI6kEpGaIXECEgGpxZUHEbFAKJXv6CQnlaMlRHi6BaZVKFkDZcFEEDJG6mAGkEKogUFY2jWCux6Wdh83bYD6DFTuIspQSBoDsZBKKXi4PG7aDJdHL6tB4YtcRmOGIazMRqRLYLMIItfYgpLmYOUZsHGAcAVSmoOXUYg0B0xrEHoZUlrG5gpIjkNOc4j8Cis9kctUUAhB_AfJd4hUhAgBRG0DEXvcDK4H4CowXQEvIfCnJ2CXCJyejClMT-QViIb4ykMYREpTsBIK6DtQiQYLE1i5gZqmYOzHTbDyAVkPpOYFxQdILSyW0cMRzQ3gFIUoj2BpAJkFSWPA1jNanY6NBXE3sIUJTlELiHMDOD2tgfpiPnKpj6UOBfkNnpaRUiFEP0glJBWC5EBqCbuhlotL104B3iyN9jGMVUAVMEIXMAYLKHMBAA)]
+- [主旋律 TMD 檔案](shokonsai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5xalJqbn1eJLp6bmZNZklgEFNfSUnjWPfvl2qbnS9cqaGlxKdoqGBoYcNnbKjjpcGWnVtoquOdy2Zjom9iBjACFhJXCs2kbnm9fofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnu_p-Pphu6nO3Y8Xz7xya4pYKVrgUqf7tzyfMqK93s6wU57sqPh2aK5z1r7nuzofNncpwA0_nFDFyn2PG7oBlm1ZPmztYuf9jY-2dUDtAHCeDan4_2enudbFj2bvePFzPkKBuZGpromhmC7ufS1FGypBbgUFBTsFKIV_fxDXGMhHC2tp33zQfZubn-xoutFRzvQzS9WznvauuLZtHYtLXDo9D5r71RIACUlvayC9IRHDZNBHEMwB-hwiAEKBXoKxoZGQEljQ2OQKK5AXbNGwcRA4eWyaUD_vd8zC-IMXaBDXqza_6xhOcgJ3b3AYABZPuvFuq7HzWuBMk9nzwYKP107Aegip0cz1yoAQxIo_HL6nCf7m4ARAGQ_bu54Ph-kVkFfwR0UKUAm0CHApAFMQb1g23oezVwJTj8gB-7Z-GLrdrBMB9hRIFVAEWC8AdUinPVs9iagQc87d77o3AR209NZW140tb7o63rZ3vt8VsuLpfufbel-OqnnReMmmKUdTyesfrqh7-X8zQoJyqYJCkBPvWhf8WxmE9A_EEGjOGDQdT7bvv3ZhLUvZ7a83D3vZcOmFwt7gLY9X9_wdGk_0IXP5qwGijxtmPRs6g6QC41AngLKPlsx89kcYIwUZZboAU3peLZnx7PWRUDjHjc0gd0Ni1pgqn3c0AjMNGD-s44NQMWPG1seN_Y_bpwKUt-47umCLWDB1Y8b14NFVr-cDUz1QJGmx02NYJEVz6YuBossBHGbuh43NLxcBFHT_bhxDkTN80V9YBGgyQvAIhMfN05_3LgfmHHB4vMfN-4Da5_0uHEDxD2PG1c9bpwAdAnQIqDs48Ylj5uABk4GugriHhDZ0PB0yUqoeyAmgCydCHIGSP3cx41tYC4wxGeDlfUCLcUWFLt6kILiaSswjoGKVzxuAjoP5OvHjbvBVgNFgPEK8cs6iNTTjWDFTcBwgzgA5KoXCxue7QUqAAUL2Ke7IeH5ogtiMtDxq2AmAx08_3ETkL3pceMyiANeztn0vH0-2Figg0GRAtEOLgqA3CVAj0C0A_MjWAToTaB6qCEgGxsans2YAjahAWzFdLAs0CXA0NsG9Bc4xJqebZ8F1g4M6v3QqMFIJEAheMg8nwJ2FdQ9QLcB7Vr_dA6o7AJH7mqIO8ERCpRaATIZnCSerQWGAFAN3BkgjcAyBCy4FRopWMIHYkI3NFhWz4ClFqCNEAcAgx2YQoDJZv3TfZCgANoOToqN657sAJYiwBAABhrYVcCU2Q-UAqfMpnkwS2GObFz2Ys9chGwTxI9ANjCXgMOE8hIWChS09Lm4goEVfH5ecWKmVUBmYl6-Q41BjUI1yBoFG0MzLXD4K2Ar3RXgJZOCtgIw3wNzMbAYUNAwgWZ_HQVY6auJRTPQZpDBNQoGwNILBNFp43goo0bBDMIEUlAWmA1hmEMYQKoGxtZVMMSQhKuHm6arYKoOY8EgzO4asNt8DGsUYCrQ6cdNS-AGPm5aDxXbqvAYWOlCVTR3w1n9CLUI0aZFcPmFcFYHkspGuOgqNHfCPQNxpxEedzauQHJnE1x0NZy1G86aDNcBUtsFF1-HqaupBWFq4z4MeRzuNCY2PNdCxJrbkMIOFsrIIQsKJXh4N-2Hy7fBWcjhCfcRnvDEndpBKXxXz2BJ4XC9kKRuiKIKrhUGYTbC8gUx6RsWl6D42AMThYcncmw0QEU2gtVuh4vPh6tFxMw8KL0JHCMT0NwJtx0eV8SkcFjuAaXF6VCx3SjpFu7WRljMg9Qi8gA8TzYi3NwJFQG7tHEZLpc29aK6FG8ah4UNIpzQ0njzVDgL5hKUNI6kEpGaIXECEgGpxZUHEbFAKJXv6CQnlaMlRHi6BaZVKFkDZcFEEDJG6mAGkEKogUFY2jWCux6Wdh83bYD6DFTuIspQSBoDsZBKKXi4PG7aDJdHL6tB4YtcRmOGIazMRqRLYLMIItfYgpLmYOUZsHGAcAVSmoOXUYg0B0xrEHoZUlrG5gpIjkNOc4j8Cis9kctUUAhB_AfJd4hUhAgBRG0DEXvcDK4H4CowXQEvIfCnJ2CXCJyejClMT-QViIb4ykMYREpTsBIK6DtQiQYLE1i5gZqmYOzHTbDyAVkPpOYFxQdILSyW0cMRzQ3gFIUoj2BpAJkFSWPA1jNanY6NBXE3sIUJTlELiHMDOD2tgfpiPnKpj6UOBfkNnpaRUiFEP0glJBWC5EBqCbuhlotL104B3ixVQOcocwEA)]
 - [鋼琴伴奏 TMD 檔案](shokonsai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqsklOLUnPz8yrRxXMzczJLEouA4lpaCs-6Z79c2_R86dr3ezpezp75rLP7Zfee5xO2PNmz5enS_vd7OhW0tLgUbRUMDQy47G0VnHS4slMrbRXcc7lsTPRN7EBGg4LSSuHZtA3Pt69QeLqh_-naHc8WLHzcvPtp6xoIW-HplI3P1vY8mzrz2dwJL2e3Ae16uqH76Y4dz5dPfLJrCljpWqDSpzu3PJ-yAmgp2MlPdjQ8WzT3WWvfkx2dL5v7FIDGP27oIsWexw3dIKuWLH-2dvHT3sYnu3qANkAYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfEEGw3l2deSVG-VQAoiIM8HGoMahSquRSAwMbQTMsOzKpRMFDQBUN02ghK1ygYgmlDBfN4qJAZjAEVAVI1CFljGANNnyFQEVwnDMJsg8EarloUZ_ugONsEydUQCDIyXiHaLD43VsEIyDAC0jVAJwCZxvGxCAayOhALqBNkUzAwI-bnFSdmkhlIcL_CvQak4J7EH06Q4EGWhKtHCihTdVxBVgN2m49hjQJMBTr9uGkJ3MDHTeuhYlsVHgMTIVRFczec1Y9QixBtWgSXXwhndSCpbISLrkJzJ9wzEHca4XFn4wokdzbBRVfDWbvhrMlwHSC1XXDxdZi6mloQpjbuw5DH4U5jYsNzLUSsuQ0p7GChjByyoFCCh3fTfrh8G5yFHJ5wH-EJTxomSlyZF6wKZ-6FJWVikiQs-EFBuAcmCg8C5ABsgIpsBKvdDhefD1eLCMx5UHoTOBAnoLkTbjs8eIlJlLAED0o-06Fiu1GSGtytjbDIAqlFJFt4NmpEuLkTKgJ2aeMyXC5t6kV1Kd5kCQsbRDihJcvmqXAWzCUoyRJJJSIBQuIEJAJSiyvbIGIBnjAxKgxE8oKSwCIaRQQhY6QOZgAphBoYxKia4MntcdMGqGNApRuipIIkCxALqSyAe-Vx02a4PHqJCAoS5JIQ09uwkhGRlB43QoOssQUlmcBKjceNvQhXICUTeEmASCbA5AGhlyElP2yugGQS5GSCyGKwMgq55AKFEMR_kKyCiHhECCDKdIjY42ZwaQtXgekKeKbGmQRo2maAJwNYOQB0EKjcgHkDljtRkwGM_bgJlguR9UCqJFAQgtTCIgbd62huACcCRK6HRRsyC5IsHjduQ6vssLEg7n7cuB-cCBYQ5wZwElgD9cV85LIVS-UC8hs8-SElHIh-kEpIwgHJgdQSdgNmq4qUNhyYBWmwwdtuCNkaeBsPJAlqw5FhEq7mIMQohDjOtiO2RiY2A0BuJcUBwJDTtVMAN34VgAx4KEb7GMaiCRihCxiDBZS5AA)]
 
 ## 分析
@@ -91,14 +97,14 @@ w: テ カ ガ _ ヤ カ | ム
 ================================================================================
 📊 TMD Song Profile: [ 招魂祭 ]
 ================================================================================
-⏱  Duration:       1:40 (100.8s), 42 measures total
+⏱  Duration:       1:07 (67.2s), 28 measures total
 🎼 Key & Tempo:    首調基準 B,, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Shokonsai[L1] #1 @ m.1, 0:01]
-   - 最高音: D5 in [Shokonsai[L1] #1 @ m.9, 0:21]
+   - 最低音:  D4 in [Shokonsai #1 @ m.1, 0:01]
+   - 最高音: D5 in [Shokonsai #1 @ m.9, 0:21]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Shokonsai[L1] (33.6s) -> Shokonsai[L2] (33.6s) -> Shokonsai[L3] (33.6s)
+🏛  結構:      Shokonsai (33.6s) -> Shokonsai (33.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 小調（流行色彩小調，未偵測到可信轉調）
    - 風格氣質:    流行小調（略帶和弦色彩音與裝飾副屬和弦）
@@ -106,11 +112,10 @@ w: テ カ ガ _ ヤ カ | ム
    - 核心骨幹音:  G, A, D, A#, F#
    - 調性數值:    G 小調 [相關度: 0.75, 穩定度: Moderate, 自然音純度: 93.3%]
    - 候選調性 (K-S): G 小調 (0.75), D 大調 (0.68), G 大調 (0.62)
-   - 五度圈歷程:   +1 -> +1 -> +1
+   - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Shokonsai[L1] #1]: G 小調 (r: 0.75, 自然音純度: 93.3%, 調外音: C#, F#)
-     • [Shokonsai[L2] #1]: G 小調 (r: 0.75, 自然音純度: 93.3%, 調外音: C#, F#)
-     • [Shokonsai[L3] #1]: G 小調 (r: 0.75, 自然音純度: 93.3%, 調外音: C#, F#)
+     • [Shokonsai #1]: G 小調 (r: 0.75, 自然音純度: 93.3%, 調外音: C#, F#)
+     • [Shokonsai #2]: G 小調 (r: 0.75, 自然音純度: 93.3%, 調外音: C#, F#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -137,7 +142,7 @@ w: テ カ ガ _ ヤ カ | ム
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 168 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 112 個音符)
 ================================================================================
 ```
 

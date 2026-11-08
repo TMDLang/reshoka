@@ -56,26 +56,34 @@ K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F2 C2 F2 G2 | A2 G2 F2 F2 | c2 c2 A2 F2 | G2 F2 G4 |
-w: あ ぎ さ ん | お い で _ | あ じん さ ん | お い で
+w: 1.~あ ぎ さ ん | お い で _ | あ じん さ ん | お い で
+w: 2.~で _ た り | は いっ た り | は いっ た り | で た り
 c2 c2 d2 d2 | c2 c2 A2 A2 | G2 G2 F2 G2 | A2 A2 F4 |
-w: こ れ か ら | い っ しょ に | な は と び | し ま せう
+w: 1.~こ れ か ら | い っ しょ に | な は と び | し ま せう
+w: 2.~ぴょ ん ぴょ ん | ぴょ ん と _ | う さ ぎ の | や う に
 G2 A2 G2 A2 | G2 A2 G2 F2 | A2 A2 G2 F2 | G2 A2 F4 |
-w: い っ ぺ ん | に _ へ ん | さ ん べ ん | し _ へん
+w: 1.~い っ ぺ ん | に _ へ ん | さ ん べ ん | し _ へん
+w: 2.~い っ ぺ ん | に _ へ ん | さ ん べ ん | し _ へん
 F2 C2 F2 G2 | A2 G2 F2 F2 | c2 c2 A2 G2 | F6 z2 |
-w: な _ ん ど | と ん で も | か か ら ず | に
+w: 1.~な _ ん ど | と ん で も | か か ら ず | に
+w: 2.~な _ ん ど | と ん で も | か か ら ず | に
 F2 C2 F2 G2 | A2 G2 F2 F2 | c2 c2 A2 F2 | G2 F2 G4 |
-w: で _ た り | は いっ た り | は いっ た り | で た り
+w: 1.~あ ぎ さ ん | お い で _ | あ じん さ ん | お い で
+w: 2.~で _ た り | は いっ た り | は いっ た り | で た り
 c2 c2 d2 d2 | c2 c2 A2 A2 | G2 G2 F2 G2 | A2 A2 F4 |
-w: ぴょ ん ぴょ ん | ぴょ ん と _ | う さ ぎ の | や う に
+w: 1.~こ れ か ら | い っ しょ に | な は と び | し ま せう
+w: 2.~ぴょ ん ぴょ ん | ぴょ ん と _ | う さ ぎ の | や う に
 G2 A2 G2 A2 | G2 A2 G2 F2 | A2 A2 G2 F2 | G2 A2 F4 |
-w: い っ ぺ ん | に _ へ ん | さ ん べ ん | し _ へん
+w: 1.~い っ ぺ ん | に _ へ ん | さ ん べ ん | し _ へん
+w: 2.~い っ ぺ ん | に _ へ ん | さ ん べ ん | し _ へん
 F2 C2 F2 G2 | A2 G2 F2 F2 | c2 c2 A2 G2 | F6 z2 |
-w: な _ ん ど | と ん で も | か か ら ず | に
+w: 1.~な _ ん ど | と ん で も | か か ら ず | に
+w: 2.~な _ ん ど | と ん で も | か か ら ず | に
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nawatobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9B_VETmZaqhKXlpbC850rXy6e_bhxs4KWFpeirYKFBZe9rYIbl42RvokdSO-THQ3PFs191tr3ZEfny-Y-hefbVzxu6Ho2bQOQofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnvc0P1-T8fTJcufrV38tLfxya6epzu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18Tw_Z5OsLtfrJz3fs-sF-27njcufr5j7_O5i5_umgOWeTZ7E1Dm6bp1Tzdvg7sNogdVNdCtcIdB3IXuotmzgc4BGoDNLQpGZmC3cOlrKdhSC3ApKCg87ZsPsmZz-4sVXS862oHOAvr1aeuKZ9PaQS7b0PusvVMBlJb0sgrSHzVMBjJNQUygCyFaFQr0FAzNgDKG5iCxDd1Pd-x4vnzi8zVrgBH2uAEcymt3AH0GFFGwUHi5bBrQI8AgA1n-YtX-Zw3LQdZ29wJ9ChR93DwDKAiKkO7ep2snAJ3gpgAMHqCYAjAdKABFwbp7Hs1caQtMIUAznuydA4kDtPB-Oqf7xap50PDuWglKBH0dCmgRxQU2AezOlzP2P9-3Emjh48amx419QGseN0593DT5cWPX48aWx43LHzc0ANU82d0IUzMDKIupDGTi48bJj5t6Hjd2P27qBJoO1gCUWwxWPf1xU_vjxtVA4x43rnrcuP5x4wpgqgeJN-573AjMAW1QR6Fq2wW0BBguYMHVYJEdIGsbGoA-AQuCXAEW3wlkABMTWHA6XCUkrKY-3bUMLLEK7Gagf4HSK8Ds5Y-bmsCOArp6LtDhjxtngZ3ZBAmkXT3AQHravgusezlY3_zHTUBPAz0AciSUCzIAVQRoMJgBCZgtIN-DrMNkALNzw9NWYMgDLWgD-QcaC-seNwGNA4qsHmwBA9QJziSwsgco2rgM6H9IWoKkludrQV54OqEXJN648vnUbUBlL9Z1PZu95XHjTJCjwG4BmUV5joYCBS19Li6_xPLEkvykTKuAzMS8fIcag5pqkCUKNhZadmAGtqJEAZJvXyzsUdAwAZWqz9c36IDyPzjTa2LRALQKZFiNgqGCaTyQMAIyjYGkIRDWKJgCoTGYBRIxUtBVqAEr9zGsASaGJiDuA-KpCsCABqoBZiIgbgHi5SCVUBWgfIZbEcQ4I5A4iA9Ma0B1XWB160HqgMmEsOByOA9kIv7Q2dVDTuiAAsIMCGFBYgwOEkiggAIMFEiogQP0c1MPkO4G0p1gV4L8DHI3qAQBUqvBgqugfloBxJvBItOBeB8Qg4oStBAC5TVwMCIx0cRXQEO-DRLk4PhZBxJpAlkPEl1NRCDt6CQnkIzAKQcSNJA0BAkaCAskhh5IsCDZBfcKyHXAjA3nQ5INMJ_BRaZDVIC4qKFDBcPwhgqw7KFyxgKJgYJEV8EAJVhWgVwFdulKsCuBiQPMA6bzpiawCDBVQVMWsDiD-1VXIR4lRCgzp5aLS9dOAVYORfsYxiqg8I3AfGUuAA)]
+- [主旋律 TMD 檔案](nawatobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9B_VETmZaqhKXlpbC850rXy6e_bhxs4KWFpeirYKFBZe9rYIbl42RvokdSO-THQ3PFs191tr3ZEfny-Y-hefbVzxu6Ho2bQOQofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnvc0P1-T8fTJcufrV38tLfxya6epzu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18Tw_Z5OsLtfrJz3fs-sF-27njcufr5j7_O5i5_umgOWeTZ7E1Dm6bp1Tzdvg7sNogdVNdCtcIdB3IXuotmzgc4BGoDNLQpGZmC3cOlrKdhSC3ApKCg87ZsPsmZz-4sVXS862oHOAvr1aeuKZ9PaQS7b0PusvVMBlJb0sgrSHzVMBjJNQUygCyFaFQr0FAzNgDKG5iCxDd1Pd-x4vnzi8zVrgBH2uAEcymt3AH0GFFGwUHi5bBrQI8AgA1n-YtX-Zw3LQdZ29wJ9ChR93DwDKAiKkO7ep2snAJ3gpgAMHqCYAjAdKABFwbp7Hs1caQtMIUAznuydA4kDtPB-Oqf7xap50PDuWglKBH0dCmgRxQU2AezOlzP2P9-3Emjh48amx419QGseN0593DT5cWPX48aWx43LHzc0ANU82d0IUzMDKIupDGTi48bJj5t6Hjd2P27qBJoO1gCUWwxWPf1xU_vjxtVA4x43rnrcuP5x4wpgqgeJN-573AjMAW1QR6Fq2wW0BBguYMHVYJEdIGsbGoA-AQuCXAEW3wlkABMTWHA6XCUkrKY-3bUMLLEK7Gagf4HSK8Ds5Y-bmsCOArp6LtDhjxtngZ3ZBAmkXT3AQHravgusezlY3_zHTUBPAz0AciSUCzIAVQRoMJgBCZgtIN-DrMNkALNzw9NWYMgDLWgD-QcaC-seNwGNA4qsHmwBA9QJziSwsgco2rgM6H9IWoKkludrQV54OqEXJN648vnUbUBlL9Z1PZu95XHjTJCjwG4BmUV5joYCBS19Li6_xPLEkvykTKuAzMS8fIcag5pqkCUKNhZadmAGtqJEAZJvXyzsUdAwAZWqz9c36IDyPzjTa2LRALQKZFiNgqGCaTyQMAIyjYGkIRDWKJgCoTGYBRIxUtBVqAEr9zGsASaGJiDuA-KpCsCABqoBZiIgbgHi5SCVUBWgfIZbEcQ4I5A4iA9Ma0B1XWB160HqgMmEsOByOA9kIv7Q2dVDTuiAAsIMCGFBYgwOEkiggAIMFEiogQP0c1MPkO4G0p1gV4L8DHI3qAQBUqvBgqugfloBxJvBItOBeB8Qg4oStBAC5TVwMCIx0cRXQEO-DRLk4PhZBxJpAlkPEl1NRCDt6CQnkIzAKQcSNJA0BAkaCAskhh5IsCDZBfcKyHXAjA3nQ5INMJ_BRaZDVIC4qKFDBcPwhgqw7KFyxgKJgYJEV8EAJVhWgVwFdulKsCuBiQPMA6bzpiawCDBVQVMWsDiD-1VXIR4lRCgzp5aLS9dOAVYOKaCxlbkA)]
 - [鋼琴伴奏 TMD 檔案](nawatobi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQ0pcWloKz3eufLl49uPGze_3dLycPfNZZ_fL7j3PJ2x5smfL06X97_d0KmhpcSnaKlhYcNnbKrhx2Rjpm9iBjH-yo-HZornPWvue7Oh82dyn8Hz7iscNXc-mbQAyFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbY8buoGWPl2y_NnaxU97G5_s6nm6cwuE8WxOx_s9Pc-3LHo2e8eLmfMVDMyNTHVNDIHOAXvtxcp57_fMetG-63nj4uc79j6fu_jprjlgmWezNwFlnq5b93TzNrjbIHpQVQPdCncYxF3oLpo9G-gcoAHY3KJgZAZ2C5dfYnliSX5SplVAZmJefpCHQ41BTTWXAhDYWGjZgRn6Wgq26EDh-Zo1wAB8sbBHQcMEFFrP1zfoKADj3lQvqyBdE4sGLX2wYTUKhgqm8UDCCMg0BpKGQFijYAqExmAWSMRIQVehBqzcx7BG4XFjExD3AfFUhcdNk4FqHjd2AXELEC8HqYSqmAGSxKkIYpwRSBzEf9w4H6iuC6xuPUjd48bFhAWXw3kgE_GHzq4eckIHFBBmQAgLEmNwkEACBRRgoEBCDRygn5t6gHQ3kO4EuxLkZ5C7pz9uagdSq8GCq6B-WgHEm8Ei04F4HxADM08bWghtAesEByeciSa-AhrybZAgB8fPOpBIE8h6kOhqIgJpRyc5gWQETjmQoIGkIUjQQFggMfRAggXJLrhXQK573LgDzockm8eNO-Ei0yEqQFzU0KGCYXhDBZhzqZyxQGKgINFVMEAJllUgV4FduhLsSmDiAPOA6bypCSwCTFXQlPW4cRbcr7oK8SghQpk5tejFkA-2Ygjog3iFaMNYMGUaH4sqAKQw-abx8UArQCREA6o5JkDKBJc2sAZsNsGSApIyMMMQrA6bGFQvNlUo5pHiPXQFoGgFBqOunQIsJKN9gDIofCMwX5kLAA)]
 
 ## 分析
@@ -88,10 +96,10 @@ w: な _ ん ど | と ん で も | か か ら ず | に
 🎼 Key & Tempo:    首調基準 F, != 88.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Nawatobi[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [Nawatobi[L1] #1 @ m.5, 0:06]
+   - 最低音:  C4 in [Nawatobi #1 @ m.1, 0:00]
+   - 最高音: D5 in [Nawatobi #1 @ m.5, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Nawatobi[L1] (21.8s) -> Nawatobi[L2] (21.8s)
+🏛  結構:      Nawatobi (21.8s) -> Nawatobi (21.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -101,8 +109,8 @@ w: な _ ん ど | と ん で も | か か ら ず | に
    - 候選調性 (K-S): F 大調 (0.78), C 大調 (0.64), A 小調 (0.51)
    - 五度圈歷程:   -1 -> -1
    - 各段落調性細節:
-     • [Nawatobi[L1] #1]: F 大調 (r: 0.78, 自然音純度: 100.0%)
-     • [Nawatobi[L2] #1]: F 大調 (r: 0.78, 自然音純度: 100.0%)
+     • [Nawatobi #1]: F 大調 (r: 0.78, 自然音純度: 100.0%)
+     • [Nawatobi #2]: F 大調 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

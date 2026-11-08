@@ -61,4 +61,4 @@ KishaToKisen:Piano@|0| {
     L2| しゆ - う - しゆ - う - | み - - な と - を - | あ - と - に - - - | し - ま - こ - - え | て - - - _ - - - |
 }
 
--> KishaToKisen[L1] -> KishaToKisen[L2] -> #
+-> KishaToKisen -> KishaToKisen -> #

@@ -63,39 +63,53 @@ V:V1 name="Alto" snm="Alt"
 V:V2 name="Soprano" snm="Sop"
 [V:V1]
 G4 G4 C4 | D6 D2 D4 | G4 E4 C4 | D6 D2 E4 |
-w: ワ ダ ノ | ハ ラ ニ | シ マ ノ | ゴ ト ク
+w: 1.~ワ ダ ノ | ハ ラ ニ | シ マ ノ | ゴ ト ク
+w: 2.~わ だ の | は ら に | や ま の | ご と く
 C4 D4 D4 | G8 z4 | G4 B4 d4 | G6 G2 G4 |
-w: ミ ユ ル | ハ | ヨ ス ル | ア ダ ヲ
+w: 1.~ミ ユ ル | ハ | ヨ ス ル | ア ダ ヲ
+w: 2.~み ゆ る | は | す め ら | み く に
 D4 F4 A4 | D6 D2 D4 | G4 G4 G4 | G6 A2 B4 |
-w: フ セ グ | フ ネ ヨ | ア ヲ シ | タ ケ シ
+w: 1.~フ セ グ | フ ネ ヨ | ア ヲ シ | タ ケ シ
+w: 2.~ま も る | ふ ね よ | あ を し | た け し
 c4 D4 D4 | G8 z4 | G4 G4 C4 | D6 D2 D4 |
-w: イクサ ブ ネ | ヨ | わ だ の | は ら に
+w: 1.~イクサ ブ ネ | ヨ | ワ ダ ノ | ハ ラ ニ
+w: 2.~いくさ ぶ ね | よ | わ だ の | は ら に
 G4 E4 C4 | D6 D2 E4 | C4 D4 D4 | G8 z4 |
-w: や ま の | ご と く | み ゆ る | は
+w: 1.~シ マ ノ | ゴ ト ク | ミ ユ ル | ハ
+w: 2.~や ま の | ご と く | み ゆ る | は
 G4 B4 d4 | G6 G2 G4 | D4 F4 A4 | D6 D2 D4 |
-w: す め ら | み く に | ま も る | ふ ね よ
+w: 1.~ヨ ス ル | ア ダ ヲ | フ セ グ | フ ネ ヨ
+w: 2.~す め ら | み く に | ま も る | ふ ね よ
 G4 G4 G4 | G6 A2 B4 | c4 D4 D4 | G8 z4 |
-w: あ を し | た け し | いくさ ぶ ね | よ
+w: 1.~ア ヲ シ | タ ケ シ | イクサ ブ ネ | ヨ
+w: 2.~あ を し | た け し | いくさ ぶ ね | よ
 [V:V2]
 G4 G4 A4 | F6 G2 A4 | B4 B4 c4 | B6 A2 G4 |
-w: ワ ダ ノ | ハ ラ ニ | シ マ ノ | ゴ ト ク
+w: 1.~ワ ダ ノ | ハ ラ ニ | シ マ ノ | ゴ ト ク
+w: 2.~わ だ の | は ら に | や ま の | ご と く
 A4 G4 F4 | G8 z4 | d4 d4 d4 | d6 c2 B4 |
-w: ミ ユ ル | ハ | ヨ ス ル | ア ダ ヲ
+w: 1.~ミ ユ ル | ハ | ヨ ス ル | ア ダ ヲ
+w: 2.~み ゆ る | は | す め ら | み く に
 c4 c4 c4 | c6 B2 A4 | B4 c2 B2 A2 G2 | B6 c2 d4 |
-w: フ セ グ | フ ネ ヨ | ア ヲ _ シ _ | タ ケ シ
+w: 1.~フ セ グ | フ ネ ヨ | ア ヲ _ シ _ | タ ケ シ
+w: 2.~ま も る | ふ ね よ | あ を _ し _ | た け し
 e4/3 d4/3 c4/3 B4 A4 | G8 z4 | G4 G4 A4 | F6 G2 A4 |
-w: イ ク サ ブ ネ | ヨ | わ だ の | は ら に
+w: 1.~イ ク サ ブ ネ | ヨ | ワ ダ ノ | ハ ラ ニ
+w: 2.~い く さ ぶ ね | よ | わ だ の | は ら に
 B4 B4 c4 | B6 A2 G4 | A4 G4 F4 | G8 z4 |
-w: や ま の | ご と く | み ゆ る | は
+w: 1.~シ マ ノ | ゴ ト ク | ミ ユ ル | ハ
+w: 2.~や ま の | ご と く | み ゆ る | は
 d4 d4 d4 | d6 c2 B4 | c4 c4 c4 | c6 B2 A4 |
-w: す め ら | み く に | ま も る | ふ ね よ
+w: 1.~ヨ ス ル | ア ダ ヲ | フ セ グ | フ ネ ヨ
+w: 2.~す め ら | み く に | ま も る | ふ ね よ
 B4 c2 B2 A2 G2 | B6 c2 d4 | e4/3 d4/3 c4/3 B4 A4 | G8 z4 |
-w: あ を _ し _ | た け し | い く さ ぶ ね | よ
+w: 1.~ア ヲ _ シ _ | タ ケ シ | イ ク サ ブ ネ | ヨ
+w: 2.~あ を _ し _ | た け し | い く さ ぶ ね | よ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gunkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGJkiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5WbmZJYkFlWii5cnlqQWKXFpaSm82N37onPZ-z0dT3b1vGxe8X5Pp4KWFpeirYKlEZe9rYI7l42xvokdSDsoFKwUnk3b8Hz7CoWnG_qfrt3xbMHCx827n7augbAVnk7Z-Gxtz7OpM5_NnfBydhvQ1JerZzxf2_l8-cQnOxqASoGWAJU-3bnl-RSQVWBnAWWeLZr7rLXvyY7Ol819CkDjHzd0kWLP44ZuoFVPlyx_tnbx095GkCU7t0AYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfEEGZ3TiUw7IBBaKXwtGvBi-lLnu9b-WxHK1gqOT-3IL84tchK4eXmpU83tj7dv1GJi0tfS8GWWoBLQUHBTiFa0c8_xDUWwtHSeto3H-TUze0vVnS96GgHevPFynlPW1c8m9aupQXy5YbeZ-2dCgmglKeXVZCe8KhhMohjBuYA_QoxQKGgQE_BxNAMKGtiaA4UxhkRa9YoGJsrvFw2DRgm7_fMgrhDF-iSZ7M3PZ3QC7J0FjyRPG6c8Lhp8uPGbiAJVg9NNk8ndADjBCiC0P5i1f5nDctBXujuBYY82JzHzR1AYWA8A8Werp0A1O6uAIw2oJgCMJUpAEWBLkUzEeT2hvlPdy1TeDRzJShZAnW9WLEb5Kq1c17OXfRsxcyXC3ue7Oh-sWrJsyW9z5t2PW7oATkVbNfT2bNhdnU-bgAZ_6x5_pNdU55vB2mHOO3ZjL4XK2YoJACdkKDwZMcUUGjP3vRsfT8w8T1f3_B0bjvQUAVjiPOQfPhk7xxg3IACc-8coAawD5GTkQJUQUMjPAWBhIBKQfHYN__Fnk6g1c82gSOjt_Fp61pgfACTPiTNQ9I4MGk_7d0O9AXQGqjiHZ0gxbNnQxQDM8GLpk0QxbCsAPRpE8KZzzs7ns1ZA0w3z1vB0bFg4dPuGWDHQtQoKBjqKTxt7Xja2fts1ZRnC4HBBgrIF-27njcuhhj_bE4zJEs-XTfraeuk56uXIly3ofvpjh3AdAVMSMBwRcrdHQkBBqbG0GTZ-WRn99Np6140bgLG7bMpO4F5Gxj-oHBobn3aP-3J3j6I1Mv5m5_Onw9U8HT9anhUANUoGBqDygJgdICTxGygj4CpHGwJIu13AuPp6TpgubAFOQ2BQhpiVesKBUMThDHwUFJQMNJTAGUEc4UX7ZuR1XQA09LjJmCyn_m4qfvJ7vbHTZNeztgEzAXA7AAUV3jc2PS4aS5QFIQapz9unP-4cSKQAckwIJ2gNNcJDNqn-3perFj7bE7n0_7eF8vagAkOVBwl1NRYKejp6SlY1dSAMy84d4Oz8Cagjqe9Xc_WbQUF3b6VQJ883zrh2fJuJGcbQ5wNDxtQHABL0-5esLOXKDxuWg_EW8GOAHulsQXo5H4gngpxGKRggAQ9UElwfgGwysmHhmTr6qcdbcAIeb5mGahoblgMZCskaJgpmCqYaKpq6OpqgpwMjzqgfsecEpDmp53A0msGKInC9CskmADVzgY71hDqWEjR9nJBIzBPgN2GGpTgzArJ4kA1L1t7gYqhKpsWKTxu3gTEe4C-2w6iwar7IaYAxSZB5BqnQ-VgQQYrZEFlYEMjsJ4D8x839T9uXPC4cR0w3MFl3PrHTcCQ6XzcuPrp5m1gEWDM7gOLrHu6rAksMuVxI6gGA4bmi2Wg2udx434Qt6kNmFCAJsBMRiQdsJomoEVgZaBkBBbZ-rhxNtgcUJKCiawFq-mAGoIeMA1oyQysqwXoElC0Nm6Da8fw9S5ghiXK1xuBBW_H4yagmeT4-vms9qf7Fj6dA1EA9H4j0GSgSrALV4PSxzpgpQyU2ve4CWgsUHs3rfxOeSUNBQpa-lxc7qV5wEaWFTSXONQY1ChUg2xRsLHQAoeyArbmASiLAhPci4U9ChqwkkVHAVZsaWLRALQLZFiNgiGwAAdhIyCuUTCPB1IgAQjXGEiCsAmcB1IIUl4D1u5jWANM_uuB_MfNDWCyD6zycXM_WO3j5pVA3A0RA2YjkMg8ZHVNW6DqgOUcsCCBm2sEkgOZAUw_YHIdRH0jSA2Q39QJZK-GmtECVrEPRd0UiLrGFeDCCGQu_sDb1YMj8KBFijlU4sXW7QqgAhVSxOINWVAQgoIKHKaQgAZBAzDPFEjCMIQHCmVQCCOH7Hxw2CwDk1DfQkMWZs7j5hXg8NiJrAZYeEFCtQFciKGEauN-sPo2MAmNGWiows1snAmWbYSGNEQMpA8UoqCiHWwPgRDd0QkOUVi9QWRyBKU0GIbwQCkQkRpBYQRKgcihNBXszt1gcgM0VEBioBDohYYQLFQg4QFJi8ihAk49TU0oobIV6uO1oEIWKgZRMQksPp1wKAArKByhAKuqYCnu2ZzVoBqamIQFyYcm0LSDXFmCpSCBhZLcEIHVBI3Gpo2wQFDQQKrGNYEBNA0acIjkhWYOOMBASRMUCBNhAQE0B1H1A81p3AYNPEjggwIQYU4tvKQD1ed0LOZMIJnRFFLOASkwCyJvBmJiKACLjpjiDn_mBAUFOGSQQg1RboB4oAQISZcQOUOM2mLklWngwALXApCsiTXxwfCQL9gIZkNQMIArOnDxjjM54S2zgEUWMAMBCyywz8ktseDNOrA4gfJK104BUmRF-xjGKiDxjMA8ZS4A)]
+- [主旋律 TMD 檔案](gunkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGJkiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5WbmZJYkFlWii5cnlqQWKXFpaSm82N37onPZ-z0dT3b1vGxe8X5Pp4KWFpeirYKlEZe9rYI7l42xvokdSDsoFKwUnk3b8Hz7CoWnG_qfrt3xbMHCx827n7augbAVnk7Z-Gxtz7OpM5_NnfBydhvQ1JerZzxf2_l8-cQnOxqASoGWAJU-3bnl-RSQVWBnAWWeLZr7rLXvyY7Ol819CkDjHzd0kWLP44ZuoFVPlyx_tnbx095GkCU7t0AYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfEEGZ3TiUw7IBBaKXwtGvBi-lLnu9b-WxHK1gqOT-3IL84tchK4eXmpU83tj7dv1GJi0tfS8GWWoBLQUHBTiFa0c8_xDUWwtHSeto3H-TUze0vVnS96GgHevPFynlPW1c8m9aupQXy5YbeZ-2dCgmglKeXVZCe8KhhMohjBuYA_QoxQKGgQE_BxNAMKGtiaA4UxhkRa9YoGJsrvFw2DRgm7_fMgrhDF-iSZ7M3PZ3QC7J0FjyRPG6c8Lhp8uPGbiAJVg9NNk8ndADjBCiC0P5i1f5nDctBXujuBYY82JzHzR1AYWA8A8Werp0A1O6uAIw2oJgCMJUpAEWBLkUzEeT2hvlPdy1TeDRzJShZAnW9WLEb5Kq1c17OXfRsxcyXC3ue7Oh-sWrJsyW9z5t2PW7oATkVbNfT2bNhdnU-bgAZ_6x5_pNdU55vB2mHOO3ZjL4XK2YoJACdkKDwZMcUUGjP3vRsfT8w8T1f3_B0bjvQUAVjiPOQfPhk7xxg3IACc-8coAawD5GTkQJUQUMjPAWBhIBKQfHYN__Fnk6g1c82gSOjt_Fp61pgfACTPiTNQ9I4MGk_7d0O9AXQGqjiHZ0gxbNnQxQDM8GLpk0QxbCsAPRpE8KZzzs7ns1ZA0w3z1vB0bFg4dPuGWDHQtQoKBjqKTxt7Xja2fts1ZRnC4HBBgrIF-27njcuhhj_bE4zJEs-XTfraeuk56uXIly3ofvpjh3AdAVMSMBwRcrdHQkBBqbG0GTZ-WRn99Np6140bgLG7bMpO4F5Gxj-oHBobn3aP-3J3j6I1Mv5m5_Onw9U8HT9anhUANUoGBqDygJgdICTxGygj4CpHGwJIu13AuPp6TpgubAFOQ2BQhpiVesKBUMThDHwUFJQMNJTAGUEc4UX7ZuR1XQA09LjJmCyn_m4qfvJ7vbHTZNeztgEzAXA7AAUV3jc2PS4aS5QFIQapz9unP-4cSKQAckwIJ2gNNcJDNqn-3perFj7bE7n0_7eF8vagAkOVBwl1NRYKejp6SlY1dSAMy84d4Oz8Cagjqe9Xc_WbQUF3b6VQJ883zrh2fJuJGcbQ5wNDxtQHABL0-5esLOXKDxuWg_EW8GOAHulsQXo5H4gngpxGKRggAQ9UElwfgGwysmHhmTr6qcdbcAIeb5mGahoblgMZCskaJgpmCqYaKpq6OpqgpwMjzqgfsecEpDmp53A0msGKInC9CskmADVzgY71hDqWEjR9nJBIzBPgN2GGpTgzArJ4kA1L1t7gYqhKpsWKTxu3gTEe4C-2w6iwar7IaYAxSZB5BqnQ-VgQQYrZEFlYEMjsJ4D8x839T9uXPC4cR0w3MFl3PrHTcCQ6XzcuPrp5m1gEWDM7gOLrHu6rAksMuVxI6gGA4bmi2Wg2udx434Qt6kNmFCAJsBMRiQdsJomoEVgZaBkBBbZ-rhxNtgcUJKCiawFq-mAGoIeMA1oyQysqwXoElC0Nm6Da8fw9S5ghiXK1xuBBW_H4yagmeT4-vms9qf7Fj6dA1EA9H4j0GSgSrALV4PSxzpgpQyU2ve4CWgsUHs3rfxOeSUNBQpa-lxc7qV5wEaWFTSXONQY1ChUg2xRsLHQAoeyArbmASiLAhPci4U9ChqwkkVHAVZsaWLRALQLZFiNgiGwAAdhIyCuUTCPB1IgAQjXGEiCsAmcB1IIUl4D1u5jWANM_uuB_MfNDWCyD6zycXM_WO3j5pVA3A0RA2YjkMg8ZHVNW6DqgOUcsCCBm2sEkgOZAUw_YHIdRH0jSA2Q39QJZK-GmtECVrEPRd0UiLrGFeDCCGQu_sDb1YMj8KBFijlU4sXW7QqgAhVSxOINWVAQgoIKHKaQgAZBAzDPFEjCMIQHCmVQCCOH7Hxw2CwDk1DfQkMWZs7j5hXg8NiJrAZYeEFCtQFciKGEauN-sPo2MAmNGWiows1snAmWbYSGNEQMpA8UoqCiHWwPgRDd0QkOUVi9QWRyBKU0GIbwQCkQkRpBYQRKgcihNBXszt1gcgM0VEBioBDohYYQLFQg4QFJi8ihAk49TU0oobIV6uO1oEIWKgZRMQksPp1wKAArKByhAKuqYCnu2ZzVoBqamIQFyYcm0LSDXFmCpSCBhZLcEIHVBI3Gpo2wQFDQQKrGNYEBNA0acIjkhWYOOMBASRMUCBNhAQE0B1H1A81p3AYNPEjggwIQYU4tvKQD1ed0LOZMIJnRFFLOASkwCyJvBmJiKACLjpjiDn_mBAUFOGSQQg1RboB4oAQISZcQOUOM2mLklWngwALXApCsiTXxwfCQL9gIZkNQMIArOnDxjjM54S2zgEUWMAMBCyywz8ktseDNOrA4gfJK104BUmQpoLCUuQA)]
 - [鋼琴伴奏 TMD 檔案](gunkan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGJkiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKr3MyczJLEokp08fLEktQiJS4tLYUXu3tfdC57v6fjya6el80r3u_pBLJfzp75rLP7Zfee5xO2PNmz5enSfqC4gpYWl6KtgqURl72tgjuXjbG-iR3IWFAwWik8m7bh-fYVCk839D9du-PZgoWPm3c_bV0DYSs8nbLx2dqeZ1NnPps74eXsNpANq2c8X9v5fPnEJzsagEqBlgOVPt255fkUkBPAzgXKPFs091lr35MdnS-b-xSAxj9u6CLFnscN3UCrni5Z_mzt4qe9jSBLdm6BMJ7N6Xi_p-f5lkXPZu94MXO-goG5kamuiSHM7pxKYOAD48BK4WnXghfTlzzft_LZjlawFCi084tTi6wUXm5e-nRj69P9G5W4uNxL84ARZRWcXwCMn3yHGoMahWouBSCwsdCyAzNqFAwVdMHYCIhrFMzjgRRIAMI1BpIgbALngRSClNeAtfsY1ig8bl4P5D9ubgCTfWCVj5v7wWofN68E4m6IWNN2sMg8ZHVNW6DqOoBskDlQc41AciAzHjcuAJPrIOobQWqA_KZOIHs11IwWsIp9KOqmQNQ1rgBikDk1XFD_gjwG8gDYpxDvg6ABmGcKJGEYwgP5HeRvZP_OB7t4GZiEugHqX5g5j5tXgF25E1lN0yKoXxuAeBOqXxv3g9W3gUloeEH9CjezcSZYthHqf4gYSB_In_2w8ID5ExRlMAzhgaISEa0gb4GiEtljU8FG7waTG6AeAYmBHN0L9RTMIxAvQCIV2SPgaGhqQvHIVqgj1wLFOqBiEBWTwOLTkR0OSWUm0DjQMAMyTDRVNXR1NcFSEB-gRBvCB03Q4GjaCHOZgsbjpiXgtPW4aasm0NXToL5BRBOaOWBfgKIY5LKJMNcBzWlsgYbzVKA5jdugPoKECMhXCHNq4VnPMaeEQL4zgaRDU0jGA1JgFkTeDMTEUAAWHbL5D-wdsGeQPIpI5SAeKJohsQ-RM8QocYZEDgT7D1zMQNIs1iiG4UGXDSFBbwQp_MDlB85Iw5v_gNkPmLKAmQ_sWHJzHzDzAUMYmPXA4sTlvQBQSyTIg1D204bFjja08gOyDEEEtKTRBoWAWTyYAqqGlKdAaUg5BVYHlEXEISiJg_WCzQFTWOsaQ21QGjcGk9DUDmYD3QW0BGItzESgGSB7zSGUEcIRkHId7Bo0F4MMMQaSiDIeJgMxAGIxsFwz0UYuYqEeQxiGL3B9UALXBBG48SBkFA92Iyi5QzBYwgzIMAFzYMIgEZgLjdCVA5EBnAVEyEx44CDrwbAQVTGSQSBXYLEL5EldOwWIP6N9DGMVkHhGYJ4yFwA)]
 
 ## 分析
@@ -108,10 +122,10 @@ w: あ を _ し _ | た け し | い く さ ぶ ね | よ
 🎼 Key & Tempo:    首調基準 G, != 92.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Gunkan[L1] #1 @ m.1, 0:01]
-   - 最高音: D5 in [Gunkan[L1] #1 @ m.7, 0:13]
+   - 最低音:  C4 in [Gunkan #1 @ m.1, 0:01]
+   - 最高音: D5 in [Gunkan #1 @ m.7, 0:13]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Gunkan[L1] (27.4s) -> Gunkan[L2] (27.4s)
+🏛  結構:      Gunkan (27.4s) -> Gunkan (27.4s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -121,8 +135,8 @@ w: あ を _ し _ | た け し | い く さ ぶ ね | よ
    - 候選調性 (K-S): G 大調 (0.97), D 大調 (0.62), G 小調 (0.58)
    - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Gunkan[L1] #1]: G 大調 (r: 0.97, 自然音純度: 100.0%)
-     • [Gunkan[L2] #1]: G 大調 (r: 0.97, 自然音純度: 100.0%)
+     • [Gunkan #1]: G 大調 (r: 0.97, 自然音純度: 100.0%)
+     • [Gunkan #2]: G 大調 (r: 0.97, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

@@ -71,4 +71,4 @@ FutatsuNoSato:Piano@|0| {
     L2| は - - - し - を - - - か - | け - - - た - る - - - - - | か - - - な - し - - - さ - | よ - - - - - - - - - _ - |
 }
 
--> FutatsuNoSato[L1] -> FutatsuNoSato[L2] -> #
+-> FutatsuNoSato -> FutatsuNoSato -> #

@@ -818,16 +818,65 @@ def extract_lyrics_hiragana(tmd_text: str) -> str:
         if s.startswith("L1|") or (s.startswith("L|") and not l1_parts):
             l1_parts.append(s.split("|", 1)[1])
     raw = "".join(l1_parts)
+    from_comment = False
     if not raw:
-        # Fallback: check block comments for Japanese lyrics lines
+        # Fallback: handwritten/transcribed scores often keep lyrics in a
+        # comment instead of L1/L2 lines. Prefer lines immediately following
+        # stanza markers (一、二、三...) so explanatory prose such as
+        # "原典語釋" is not mistaken for lyrics.
+        stanza_lines: list[str] = []
         for m in re.finditer(r"/\*.*?\*/", tmd_text, flags=re.S):
-            comment = m.group(0)
-            for line in comment.splitlines():
+            lines = m.group(0).splitlines()
+            for index, line in enumerate(lines):
+                s = line.strip()
+                if not re.match(r"^[一二三四五六七八九十百]+[、．.]", s):
+                    continue
+                for lyric_line in lines[index + 1 :]:
+                    lyric = lyric_line.strip()
+                    if not lyric:
+                        continue
+                    if re.match(r"^[一二三四五六七八九十百]+[、．.]", lyric):
+                        break
+                    if len(re.findall(r"[ぁ-んァ-ヶ]", lyric)) >= 3 and not any(
+                        k in lyric for k in ("Source", "調", "拍", "速度", "原書", "詞", "曲", "語釋")
+                    ):
+                        stanza_lines.append(lyric)
+                if stanza_lines:
+                    break
+        raw = "".join(stanza_lines)
+        from_comment = bool(raw)
+    if not raw:
+        # Last-resort fallback for comments without explicit stanza markers.
+        for m in re.finditer(r"/\*.*?\*/", tmd_text, flags=re.S):
+            for line in m.group(0).splitlines():
                 s = line.strip()
                 if re.search(r"[ぁ-んァ-ヶ]{4,}", s) and not any(
-                    k in s for k in ("Source", "調", "拍", "速度", "原書", "詞", "曲")
+                    k in s for k in ("Source", "調", "拍", "速度", "原書", "詞", "曲", "語釋")
                 ):
                     raw += s
+            from_comment = bool(raw)
+    if from_comment:
+        # Comment transcriptions may use kanji where another score writes the
+        # historical kana reading.  These readings are intentionally limited
+        # to common lyric vocabulary rather than treating every kanji reading
+        # as certain.
+        for kanji, reading in (
+            ("海國兒", "かいこくじ"),
+            ("海國", "かいこく"),
+            ("男兒", "だんじ"),
+            ("東洋", "とうよう"),
+            ("萬里", "ばんり"),
+            ("潮", "しほ"),
+            ("風", "かぜ"),
+            ("浪", "なみ"),
+            ("舟", "ふね"),
+            ("魚", "さかな"),
+            ("鳥", "とり"),
+            ("羽", "はね"),
+            ("爪", "つめ"),
+        ):
+            raw = raw.replace(kanji, reading)
+        raw = to_hiragana_reading(raw)
     hira = to_hiragana(raw)
     hira = re.sub(r"[^ぁ-ん]", "", hira)
     for old, new in _HISTORICAL_KANA_REPLACEMENTS:

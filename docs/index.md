@@ -32,9 +32,10 @@ image: shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg
 
 本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **33 冊、1,087 首（次）曲目**：
 
-- 🔍 **[全站歌曲去重統計（829 首不重複歌曲、176 組重複歌曲）](duplicate_songs.md)**
+- 🔍 **[全站歌曲去重統計（841 首不重複歌曲、165 組重複歌曲）](duplicate_songs.md)**
 - 🔍 **[同一歌名的多個版本（209 組）](same_title_songs.md)**
 - 🔍 **[同詞異曲歌曲（26 組候選）](same_lyrics_songs.md)**
+- 🔍 **[同曲異詞歌曲（27 組候選）](same_melody_songs.md)**
 - 📜 **[〈懸賞募集 公學校唱歌教材入選歌詞〉與作詞者名單（全 19 篇原文與《公學校唱歌》收錄對照）](kogakko_shoka/lyrics_contest/index.md)**
 - 📊 **[《新定兒童唱歌》專題統計（主題分布、調性、節拍、五聲音階與歌唱音域）](shintei_jido_shoka/index.md)**
 - 📊 **[《共益商社唱歌教科書》專題統計（主題分布、調性、節拍、五聲音階與歌唱音域）](kyoeki_shoka/index.md)**

@@ -52,26 +52,34 @@ K:D
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
 A6 F2 A4 F4 | B4 A4 A4 z4 | F6 F2 E4 D4 | F4 E4 E4 z4 |
-w: ふ れ ふ れ | あ め よ | み や こ の | あ め よ
+w: 1.~ふ れ ふ れ | あ め よ | み や こ の | あ め よ
+w: 2.~ふ れ ふ れ | あ め よ | い な か の | あ め よ
 D8 E4 E4 | F6 G2 A4 A4 | B6 c2 d4 B4 | A4 B4 A4 z4 |
-w: う ま や | く る ま の | わ う ら い | た え ぬ
+w: 1.~う ま や | く る ま の | わ う ら い | た え ぬ
+w: 2.~な す や | き う り の | は な さ き | そ ろ ふ
 B6 c2 d4 B4 | A6 A2 F4 A4 | B6 B2 A4 F4 | E4 F4 E4 z4 |
-w: ま _ ち の | ほ こ り の | し づ ま る | ほ ど に
+w: 1.~ま _ ち の | ほ こ り の | し づ ま る | ほ ど に
+w: 2.~は た け の | つ _ ち の | う る ほ ふ | ほ ど に
 B4 A4 A4 z4 | d6 B2 d4 B4 | A6 B2 A4 E4 | F4 D4 z4 z4 |
-w: あ め よ | ふ れ ふ れ | ほ ど よ く | ふ れ
+w: 1.~あ め よ | ふ れ ふ れ | ほ ど よ く | ふ れ
+w: 2.~あ め よ | ふ れ ふ れ | ほ ど よ く | ふ れ
 A6 F2 A4 F4 | B4 A4 A4 z4 | F6 F2 E4 D4 | F4 E4 E4 z4 |
-w: ふ れ ふ れ | あ め よ | い な か の | あ め よ
+w: 1.~ふ れ ふ れ | あ め よ | み や こ の | あ め よ
+w: 2.~ふ れ ふ れ | あ め よ | い な か の | あ め よ
 D8 E4 E4 | F6 G2 A4 A4 | B6 c2 d4 B4 | A4 B4 A4 z4 |
-w: な す や | き う り の | は な さ き | そ ろ ふ
+w: 1.~う ま や | く る ま の | わ う ら い | た え ぬ
+w: 2.~な す や | き う り の | は な さ き | そ ろ ふ
 B6 c2 d4 B4 | A6 A2 F4 A4 | B6 B2 A4 F4 | E4 F4 E4 z4 |
-w: は た け の | つ _ ち の | う る ほ ふ | ほ ど に
+w: 1.~ま _ ち の | ほ こ り の | し づ ま る | ほ ど に
+w: 2.~は た け の | つ _ ち の | う る ほ ふ | ほ ど に
 B4 A4 A4 z4 | d6 B2 d4 B4 | A6 B2 A4 E4 | F4 D4 z4 z4 |
-w: あ め よ | ふ れ ふ れ | ほ ど よ く | ふ れ
+w: 1.~あ め よ | ふ れ ふ れ | ほ ど よ く | ふ れ
+w: 2.~あ め よ | ふ れ ふ れ | ほ ど よ く | ふ れ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5dYUlqUqsSlpaXwcvYKBS0tLkVbBUMjMy57WwUXLhsTfRM7kI4nOxqeLZr7rLXvyY7Ol819Cs-3r3jc0PVs2gYgQ-Hphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fa4ofv9no6nS5Y_W7v4aW_jk109T3dugTCezel4v6fn-ZZFz2bveDFzvoKBuZGpronh-z2dSlxc-loKttQCXAoKCk_75oOs2dz-YkXXi452oBNfrJz3tHXFs2ntIPdt6H3W3qkAijW9rIL0Rw2TgUxzEBPoQohWhQI9BQsLoIyFJcjVa9YomJgovFw2Dejc93tmgax4sWr_s4blIMO7e4H-AYo-bu4GCj6dPRso8nTtBKBFLgrAoACKKQBDWAEoCtbd82jmSltQ4INMAQb544ZGEOvlTKB0x-PGrUBFj5t6HjdsBEYVWKTpcVMjWLDjcUPDy-a9YMH9j5taHjdOBok3rsNUCTZx2RqwaNvjxn1g0ZYXu7vAIv2Pm7qhgo3rgIY-3dfwZF8bSKqpH6S-CSjeApR9vnUbWD3Qd0ARIGMNyNznU3aBRfc9blwIMeLp_GawyG6gix43Ae2Amvu4cfrjxqUglU3dz1eAkgZYzUqwgtVgN2K4HC0cMIKlAd0gYLAAPdS4FSzbBAnVXUAmKaH6fMqGFx0QlcBQXfW4EWgF7oB90dMCiV-w0pnQsG1e-HzyHLBgLzgMEcHwomsjWHw9UD1Q8OmkTWDuVLCC3mf9kMCb-7gJlECAbgUH8tQFMD3zHzdOhIbzHGBMAAWXwEMeHMhAy4DRCQyPrcQGMjS4oIGGPUgxgq4JZBbl-RMKFLT0ubgcgYVTWD6w2HKoMaipBpmvYGOhZQdmYCsTFIA5EZhlXizsUdAwARVJz9c36IAyMjj3amLRALQFZFiNgqmCLhAag2ljIK5RMAOSIB4IG4BFQOIgWSMgaQgXAfFAGKwGbJqPYY0CMGDAqoFBA2WDWCA9wIAG8xrBZAeQjIeK74fqaAGyJ4NYjevw6YDYZUSeXS0QHY2rgLibCLvwh_muHnLCHBSGIAgLQVgIm8DDHRILugrmCoZxQArEgUQVLHLQA70NaiSwUIEGJcRT_dAA6obJwLzbBJUB6gSWa2AWTM98MA8UBMCSDUugr4LbNRPFrl4kE7tQgnY9UqBPBbNAakEyc8EmgHiQCCQm0Hd0khPoOAIUFJyg0EcOdTOk3ACKH1hqRw90UIBCPLYQxbu7oaKTMQJiOlRmKTyiQGkQpgdYzIDJ1VgCHRaE84F4IoqZS3C4ApIkIFEPMR0UwLjtwhvowOqb3EBHLUvAwQ8KYox4gIQ6Ij-AcglID3qo48rZuMsCWHyshOqAZAuYHog6kCnoYU5rm2q5uHTtFICFfbSPYawCjGkEZipzAQA)]
+- [主旋律 TMD 檔案](ame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5dYUlqUqsSlpaXwcvYKBS0tLkVbBUMjMy57WwUXLhsTfRM7kI4nOxqeLZr7rLXvyY7Ol819Cs-3r3jc0PVs2gYgQ-Hphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fa4ofv9no6nS5Y_W7v4aW_jk109T3dugTCezel4v6fn-ZZFz2bveDFzvoKBuZGpronh-z2dSlxc-loKttQCXAoKCk_75oOs2dz-YkXXi452oBNfrJz3tHXFs2ntIPdt6H3W3qkAijW9rIL0Rw2TgUxzEBPoQohWhQI9BQsLoIyFJcjVa9YomJgovFw2Dejc93tmgax4sWr_s4blIMO7e4H-AYo-bu4GCj6dPRso8nTtBKBFLgrAoACKKQBDWAEoCtbd82jmSltQ4INMAQb544ZGEOvlTKB0x-PGrUBFj5t6HjdsBEYVWKTpcVMjWLDjcUPDy-a9YMH9j5taHjdOBok3rsNUCTZx2RqwaNvjxn1g0ZYXu7vAIv2Pm7qhgo3rgIY-3dfwZF8bSKqpH6S-CSjeApR9vnUbWD3Qd0ARIGMNyNznU3aBRfc9blwIMeLp_GawyG6gix43Ae2Amvu4cfrjxqUglU3dz1eAkgZYzUqwgtVgN2K4HC0cMIKlAd0gYLAAPdS4FSzbBAnVXUAmKaH6fMqGFx0QlcBQXfW4EWgF7oB90dMCiV-w0pnQsG1e-HzyHLBgLzgMEcHwomsjWHw9UD1Q8OmkTWDuVLCC3mf9kMCb-7gJlECAbgUH8tQFMD3zHzdOhIbzHGBMAAWXwEMeHMhAy4DRCQyPrcQGMjS4oIGGPUgxgq4JZBbl-RMKFLT0ubgcgYVTWD6w2HKoMaipBpmvYGOhZQdmYCsTFIA5EZhlXizsUdAwARVJz9c36IAyMjj3amLRALQFZFiNgqmCLhAag2ljIK5RMAOSIB4IG4BFQOIgWSMgaQgXAfFAGKwGbJqPYY0CMGDAqoFBA2WDWCA9wIAG8xrBZAeQjIeK74fqaAGyJ4NYjevw6YDYZUSeXS0QHY2rgLibCLvwh_muHnLCHBSGIAgLQVgIm8DDHRILugrmCoZxQArEgUQVLHLQA70NaiSwUIEGJcRT_dAA6obJwLzbBJUB6gSWa2AWTM98MA8UBMCSDUugr4LbNRPFrl4kE7tQgnY9UqBPBbNAakEyc8EmgHiQCCQm0Hd0khPoOAIUFJyg0EcOdTOk3ACKH1hqRw90UIBCPLYQxbu7oaKTMQJiOlRmKTyiQGkQpgdYzIDJ1VgCHRaE84F4IoqZS3C4ApIkIFEPMR0UwLjtwhvowOqb3EBHLUvAwQ8KYox4gIQ6Ij-AcglID3qo48rZuMsCWHyshOqAZAuYHog6kCnoYU5rm2q5uHTtFICFvQKCUuYCAA)]
 - [鋼琴伴奏 TMD 檔案](ame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGFiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhViUVA8fTU3NS8EquCzMS8_PjE5OT83ILEvEyQmBKXlpbCy9kr3u_peDl75rPO7pfde55P2PJkz5anS_vf7-lU0NLiUrRVMDQy47K3VXDhsjHRN7EDGf5kR8OzRXOftfY92dH5srlP4fn2FY8bup5N2wBkKDzd0P907Y5nCxY-bt79tHUNhK3wdMrGZ2t7nk2d-WzuhJez2x43dANtfbpk-bO1i5_2Nj7Z1fN05xYI49mcjvd7ep5vWfRs9o4XM-crGJgbmeqaGALdo8TF5QiMiQCQT4I8HGoMaqq5FIDAxkLLDszQ11KwRQcKz9esAbr3xcIeBQ0TkOOer2_QUQBGh7leVkG6JhYNWvpgw2oUjLVNFXSB0FDbGMoGsXSBMibaZkAaIgYhDcDiEHmIOvN4bSMQE0kCKgSlwFrAVvkY1ig8btwK1vq4qQfKBrFAeh83NoF5jWCyA0jGQ8X3Q3W0ANmTQazGdfh0QOwyIs-uFoiOxlVA3E2EXfgjZFcPORECCksQRA1HRLAbaZugRAosonQVTLXNFcy0DeOATIgQLHaRYxI9Qtqg1j1u3AcNZoiH-6GB1w2TgQVFE1QGqPNxUyeYBdMzH8wDBc_jxjVYImQV3K6ZKHb1IpnYhRLs65EiZCqYBVILkpkLNgHEg0QuMRGyo5OcCCEYvJCghcQPepyAaNRsBcsyyJkFPVJAAQ7x-EKU4NgNFZ2MEVDToTJL4REJSr8wPY8bV4LJ1VgiBRbE84F4IoqZS3C4ApJkIEkDYjooAnDbhTdSns6eTX6kYBZO0AiCBDyO2ELECVrmAmU9kDHo0YGruMBdwMAiaiVUByQ_wfRA1IFMQY8MWttUi1S7-CDXLibQ2gUYFPEKpvFQEhjOYCYQGcClTOPBAjVgBpQPlEXRDpXCYhqQBpJABJaDGI_QjaEAVTNEuTHMcrAMmnaEayEcCAmzDOo0MBesDKQXGCi6dgrAcIn2MYxVgDGNwExlLgA)]
 
 ## 分析
@@ -84,10 +92,10 @@ w: あ め よ | ふ れ ふ れ | ほ ど よ く | ふ れ
 🎼 Key & Tempo:    首調基準 D, != 126.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Ame[L1] #1 @ m.3, 0:05]
-   - 最高音: D5 in [Ame[L1] #1 @ m.7, 0:12]
+   - 最低音:  D4 in [Ame #1 @ m.3, 0:05]
+   - 最高音: D5 in [Ame #1 @ m.7, 0:12]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Ame[L1] (30.5s) -> Ame[L2] (30.5s)
+🏛  結構:      Ame (30.5s) -> Ame (30.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -97,8 +105,8 @@ w: あ め よ | ふ れ ふ れ | ほ ど よ く | ふ れ
    - 候選調性 (K-S): A 大調 (0.80), D 大調 (0.73), F# 小調 (0.65)
    - 五度圈歷程:   +3 -> +3
    - 各段落調性細節:
-     • [Ame[L1] #1]: A 大調 (r: 0.80, 自然音純度: 99.1%, 調外音: G)
-     • [Ame[L2] #1]: A 大調 (r: 0.80, 自然音純度: 99.1%, 調外音: G)
+     • [Ame #1]: A 大調 (r: 0.80, 自然音純度: 99.1%, 調外音: G)
+     • [Ame #2]: A 大調 (r: 0.80, 自然音純度: 99.1%, 調外音: G)
 
   [ 五度圈游移軌跡 ]
                C  

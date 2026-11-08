@@ -66,24 +66,30 @@ K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 z4 z4 z4 D4 | G4 z4 z4 D4 | A4 z4 z4 B4 | c4 B4 A4 d4 |
-w: カラン | カラン カラン | カラン ど | な た も い
+w: 1.~カラン | カラン カラン | カラン ど | な た も い
+w: 2.~からん | からん からん | からん こ | こ ろ を せ
+w: 3.~カラン | カラン カラン | カラン け | れ ど も あ
 B4 A4 G4 D4 | G4 z4 z4 D4 | A4 z4 z4 B4 | d4 d4 D4 D4 |
-w: そ げ と カラン | カラン カラン | カラン か | ね が な る
+w: 1.~そ げ と カラン | カラン カラン | カラン か | ね が な る
+w: 2.~か せ て からん | からん からん | からん ひ | び き わ た
+w: 3.~は て て カラン | カラン カラン | カラン け | が を す る
 G4 z4 z4 z4 | z4 z4 z4 D4 | G4 z4 z4 D4 | A4 z4 z4 B4 |
-w: よ | からん | からん からん | からん こ
+w: 1.~よ | カラン | カラン カラン | カラン ど
+w: 2.~る | からん | からん からん | からん こ
+w: 3.~な | カラン | カラン カラン | カラン け
 c4 B4 A4 d4 | B4 A4 G4 D4 | G4 z4 z4 D4 | A4 z4 z4 B4 |
-w: こ ろ を せ | か せ て からん | からん からん | からん ひ
-d4 d4 D4 D4 | G4 z4 z4 z4 | z4 z4 z4 D4 | G4 z4 z4 D4 |
-w: び き わ た | る | カラン | カラン カラン
-A4 z4 z4 B4 | c4 B4 A4 d4 | B4 A4 G4 D4 | G4 z4 z4 D4 |
-w: カラン け | れ ど も あ | は て て カラン | カラン カラン
-A4 z4 z4 B4 | d4 d4 D4 D4 | G4 z4 z4 z4 |
-w: カラン け | が を す る | な
+w: 1.~な た も い | そ げ と カラン | カラン カラン | カラン か
+w: 2.~こ ろ を せ | か せ て からん | からん からん | からん ひ
+w: 3.~れ ど も あ | は て て カラン | カラン カラン | カラン け
+d4 d4 D4 D4 | G4 z4 z4 z4 |
+w: 1.~ね が な る | よ
+w: 2.~び き わ た | る
+w: 3.~が を す る | な
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](teishaba_no_suzu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvQe2IQCoAYlLi0thaeNc17s7nq6YMvjxnUvO7YoaGlxKdoqGBoacdnbKrhz2Zjom9iBDAD510rh2bQNz7evUHi6of_p2h3PFix83Lz7aesaCFvh6ZSNz9b2PJs689ncCS9nt73f0_F0Q_fTHTueL5_4ZNcUsNK1QKVPd255PmXF-z2dYIc92dHwbNHcZ619T3Z0vmzuUwAa_7ihixR7Hjd0g6xasvzZ2sVPexuf7OoB2gBhPJvT8X5Pz_Mti57N3vFi5nwFA3MjU10TQ5jdz6YvfbZp97OZTc_mzIcbD7QdYsHTHZuhRrfueDG9H6TfyMDIQM_AwEzPwMLEGOimAENToGE9T_vmv9jTCdIIdC_QHKB2mMuer1mjYGRkqfByQSPYVi59LQVbagEuBQUFO4VoRT__ENdYCEdLC-gYkG83t79Y0fWiox3okRcr5z1tXfFsWruWFjhOep-1dyokgJKpXlZBesKjhskgjjmYA_EN0ACFAj2gwy2AkkDng0RxRSXQgyYKL5dNA3rv_Z5ZEFfoAt3xYtX-Zw3LQS7o7gWGHcjuWY-bO4DCT2fPBoo9XTsB6Bp3BWDEAcUUgOlMASgKNqXnZcP8p7uWKTyauRKcFEHW79n4Yut2sIIOiJVA9uOGnsdNqx83r3zcDIyqXqACYNADTXjc0IRwx_POjpdzFwEj9mn3DLAjgB54vn3Wi7Vznk7oAcb9094Nz-Z0Ptmx-9n07qf7uoEOfrKj-0XjppfNK16294IN7H86qQcoAhEEJagp8592T322YuGzyWueN64G5p_nq2c-n7kHlJE6e59NmAbMSKhua0R257MdrS9a2l7O3w80EOjUZ5tXPGvph4edgoKhngLIi6ag5P98fQPEx8DU_GIhMEGvhgl2wv3xcvWMl_M3P2_apZDgbqJgAIQuJsCI7EgwBHNM44EcUKgC_fVs2s7nGxYC9cDD8MWqJcAQAGp-3rIQqODl7nlPdnYrJBiCDHjauxnIAhsC4oPN2DcXbi8wqIAeBXoCFBgr5wNTFdgNcFvh0aCgYATxkhmql3Z0Ar0ETDp4veQI8ZITxEtGYI4xDh8ZovhIIcEU7gtTVH1IvoA5G2YyzNWw_AQsoIDxBywWwXykeGwgyIZqaVz5uHHV48b5j5uaQLKNLY8b5z5unPS4cQXZZgLDHeizx43djxvXghJ8Yw_Iiqbux00dGO7f1UOZ-5_ubwbbNflx09zHTaAc-rhpEtgjs8EOAJLLKAicTY8bNz9u7H3c1A8Oom7M8AfmZ8rCf-LjJmD4rISFf9PjxvVAN1Pi7GcNq551TAQHy0Rg4EPDpHEmyP3AiIB4gfICHgoUtPS5uILz89KtAjIT8_IdagxqqkEWKNiYaIHDSQFbraIAKTOBuRSc1xqAeU1BA1bQa2JRD7QFZFYNOCOAcjCQCcvMQCY0gyjUgFX5GNYoxIMhPGiAahBsAjKNK2HmGMHNASamJmA4TgaphrMJyQDFIOYYU-aeiUBzcAclvABW0DCGlmE6CkSFpQkwxIyAZXkNmDZED1V4WAKTDRDPB7qrCUi3gH06F4gnAfEK4vwED09QqABzKhCDdM-GhBqYBUzzxIUzPEyBWQccWxB3NYH1rIeaA8REuQt_uIJrAZLDFZ4agWELhPHIAWuAHK5o8dwN9sFaIAb5CxjmTWCRpg5o6kEORdSw2QTWuRmIQSHbD44tkM5uVJ3gMMNIWxD7wPExE2Yn0HaYzlouLl07BVAWj_YxjFWAs42Q2MZgtjIXAA)]
+- [主旋律 TMD 檔案](teishaba_no_suzu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvQe2IQCoAYlLi0thaeNc17s7nq6YMvjxnUvO7YoaGlxKdoqGBoacdnbKrhz2Zjom9iBDAD510rh2bQNz7evUHi6of_p2h3PFix83Lz7aesaCFvh6ZSNz9b2PJs689ncCS9nt73f0_F0Q_fTHTueL5_4ZNcUsNK1QKVPd255PmXF-z2dYIc92dHwbNHcZ619T3Z0vmzuUwAa_7ihixR7Hjd0g6xasvzZ2sVPexuf7OoB2gBhPJvT8X5Pz_Mti57N3vFi5nwFA3MjU10TQ5jdz6YvfbZp97OZTc_mzIcbD7QdYsHTHZuhRrfueDG9H6TfyMDIQM_AwEzPwMLEGOimAENToGE9T_vmv9jTCdIIdC_QHKB2mMuer1mjYGRkqfByQSPYVi59LQVbagEuBQUFO4VoRT__ENdYCEdLC-gYkG83t79Y0fWiox3okRcr5z1tXfFsWruWFjhOep-1dyokgJKpXlZBesKjhskgjjmYA_EN0ACFAj2gwy2AkkDng0RxRSXQgyYKL5dNA3rv_Z5ZEFfoAt3xYtX-Zw3LQS7o7gWGHcjuWY-bO4DCT2fPBoo9XTsB6Bp3BWDEAcUUgOlMASgKNqXnZcP8p7uWKTyauRKcFEHW79n4Yut2sIIOiJVA9uOGnsdNqx83r3zcDIyqXqACYNADTXjc0IRwx_POjpdzFwEj9mn3DLAjgB54vn3Wi7Vznk7oAcb9094Nz-Z0Ptmx-9n07qf7uoEOfrKj-0XjppfNK16294IN7H86qQcoAhEEJagp8592T322YuGzyWueN64G5p_nq2c-n7kHlJE6e59NmAbMSKhua0R257MdrS9a2l7O3w80EOjUZ5tXPGvph4edgoKhngLIi6ag5P98fQPEx8DU_GIhMEGvhgl2wv3xcvWMl_M3P2_apZDgbqJgAIQuJsCI7EgwBHNM44EcUKgC_fVs2s7nGxYC9cDD8MWqJcAQAGp-3rIQqODl7nlPdnYrJBiCDHjauxnIAhsC4oPN2DcXbi8wqIAeBXoCFBgr5wNTFdgNcFvh0aCgYATxkhmql3Z0Ar0ETDp4veQI8ZITxEtGYI4xDh8ZovhIIcEU7gtTVH1IvoA5G2YyzNWw_AQsoIDxBywWwXykeGwgyIZqaVz5uHHV48b5j5uaQLKNLY8b5z5unPS4cQXZZgLDHeizx43djxvXghJ8Yw_Iiqbux00dGO7f1UOZ-5_ubwbbNflx09zHTaAc-rhpEtgjs8EOAJLLKAicTY8bNz9u7H3c1A8Oom7M8AfmZ8rCf-LjJmD4rISFf9PjxvVAN1Pi7GcNq551TAQHy0Rg4EPDpHEmyP3AiIB4gfICHgoUtPS5uILz89KtAjIT8_IdagxqqkEWKNiYaIHDSQFbraIAKTOBuRSc1xqAeU1BA1bQa2JRD7QFZFYNOCOAcjCQCcvMQCY0gyjUgFX5GNYoxIMhPGiAahBsAjKNK2HmGMHNASamJmA4TgaphrMJyQDFIOYYU-aeiUBzcAclvABW0DCGlmE6CkSFpQkwxIyAZXkNmDZED1V4WAKTDRDPB7qrCUi3gH06F4gnAfEK4vwED09QqABzKhCDdM-GhBqYBUzzxIUzPEyBWQccWxB3NYH1rIeaA8REuQt_uIJrAZLDFZ4agWELhPHIAWuAHK5o8dwN9sFaIAb5CxjmTWCRpg5o6kEORdSw2QTWuRmIQSHbD44tkM5uVJ3gMMNIWxD7wPExE2Yn0HaYzlouLl07BVAWV0CilbkA)]
 - [鋼琴伴奏 TMD 檔案](teishaba_no_suzu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQlFgE1JyempuaV2JVkJmYlx-fmJycn1uQmJcJEkMoLMkAKrICW1UANFmJS0tL4WnjnBe7u54u2PK4cd3Lji3v93S8nD3zWWf3y-49zydsebJny9Ol_e_3dCpoaXEp2ioYGhpx2dsquHPZmOib2IEMBgWYlcKzaRueb1-h8HRD_9O1O54tWPi4effT1jUQtsLTKRufre15NnXms7kTXs5uA1rxdEP30x07ni-f-GTXFLDStUClT3dueT5lBdAusIOf7Gh4tmjus9a-Jzs6Xzb3KQCNf9zQRYo9jxu6QVYtWf5s7eKnvY1PdvUAbYAwns3peL-n5_mWRc9m73gxc76CgbmRqa6JIczuZ9OXPtu0-9nMpmdz5sONB9oOseDpjs1Qo1t3vJjeD9JvZGBkoGdgYKZnYGFiDHRTgKEp0LCep33zX-zpBGkEuhdoDlA7zGXP16xRMDKyVHi5oBFsK5dnXklRvlUAKPqCPBxqDGqquRSAwMZEyw7MqFEwAEPTeCDTOF7bNF7bECFgEq9tFq9tBFVTw1WLYqAPfgNBBkQbxiLzTCE8qFHB-XnpVHEaVFLbGGguSKePYY1CPBg-blr9uHnl4-bNQB0INgGZxpUwc4zg5jR2P27qfNw0GaQaziYkAxSDmGNMmXsmAs2BBomRtokCyKPmIL8DPW0KFAPxTdRBArBQwhpk8KB53LgKiOcDrWkC0i1gh88F4klAvII4J8KDB-TJx029QAzSPRsSCGDW48ZlxAUbPIgeN_WAAx_iriawnvVQc4CYKHdBgwkcPBCPg1IFMNhMQWKmoIAABw4kWEAJER4qaIHeDbZ_LRCDXAUMsSawSFMHNCqRwwDVZ5vAOjcDMShc-sFhDdLZjaoT7GOMiIbYBw7NmTA7gbbDdKJkG7IzIEgU4gqIGIgPoyF6oo0gPCymIOmDmwWWAYnAaIQeaGbXtVMAFx0KQAbIB9E-QHk4G2gbnG0MZitzAQA)]
 
 ## 分析
@@ -92,14 +98,14 @@ w: カラン け | が を す る | な
 ================================================================================
 📊 TMD Song Profile: [ 停車場の鈴 ]
 ================================================================================
-⏱  Duration:       0:57 (57.9s), 27 measures total
+⏱  Duration:       0:38 (38.6s), 18 measures total
 🎼 Key & Tempo:    首調基準 G, != 112.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Song[L1] #1 @ m.1, 0:01]
-   - 最高音: D5 in [Song[L1] #1 @ m.4, 0:08]
+   - 最低音:  D4 in [Song #1 @ m.1, 0:01]
+   - 最高音: D5 in [Song #1 @ m.4, 0:08]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song[L1] (19.3s) -> Song[L2] (19.3s) -> Song[L3] (19.3s)
+🏛  結構:      Song (19.3s) -> Song (19.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -107,11 +113,10 @@ w: カラン け | が を す る | な
    - 核心骨幹音:  D, G, A, B, C
    - 調性數值:    D 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 95.5%]
    - 候選調性 (K-S): D 大調 (0.83), G 大調 (0.75), B 小調 (0.64)
-   - 五度圈歷程:   +2 -> +2 -> +2
+   - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Song[L1] #1]: D 大調 (r: 0.83, 自然音純度: 95.5%, 調外音: C)
-     • [Song[L2] #1]: D 大調 (r: 0.83, 自然音純度: 95.5%, 調外音: C)
-     • [Song[L3] #1]: D 大調 (r: 0.83, 自然音純度: 95.5%, 調外音: C)
+     • [Song #1]: D 大調 (r: 0.83, 自然音純度: 95.5%, 調外音: C)
+     • [Song #2]: D 大調 (r: 0.83, 自然音純度: 95.5%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -138,7 +143,7 @@ w: カラン け | が を す る | な
      B  : ███████████               18.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 66 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 44 個音符)
 ================================================================================
 ```
 

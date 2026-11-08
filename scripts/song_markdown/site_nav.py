@@ -101,6 +101,7 @@ MKDOCS_CONFIG_HEADER: list[str] = [
     "  - 跨冊重複與同名歌曲索引: duplicate_songs.md",
     "  - 同一歌名的多個版本: same_title_songs.md",
     "  - 同詞異曲歌曲: same_lyrics_songs.md",
+    "  - 同曲異詞歌曲: same_melody_songs.md",
 ]
 
 COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {

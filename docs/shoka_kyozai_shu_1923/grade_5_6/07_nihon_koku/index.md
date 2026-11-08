@@ -67,38 +67,52 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 D3 D E2 F2 | E3 E A4 | F3 E D2 E2 | F6 z2 |
-w: に ほ ん の | く に は | ま つ の く | に
+w: 1.~に ほ ん の | く に は | ま つ の く | に
+w: 2.~に ほ ん の | く に は | は な の く | に
 D3 D E2 F2 | E3 E A4 | F3 F E2 F2 | D6 z2 |
-w: み あ げ る | み ね の | ひ と つ ま | つ
+w: 1.~み あ げ る | み ね の | ひ と つ ま | つ
+w: 2.~う め も も | さ く ら | ふ ぢ あ や | め
 E3 F E2 F2 | E4 A3 A | B6 c2 | B3 B A2 z2 |
-w: は ま べ は | つ づ く | ま つ | ば ら の
+w: 1.~は ま べ は | つ づ く | ま つ | ば ら の
+w: 2.~し ら つ ゆ | む す ぶ | あ き | の の の
 d3 d A2 F2 | E4 B3 B | A3 A E2 F2 | D6 z2 |
-w: え だ ぶ り | す べ て | お も し ろ | や
+w: 1.~え だ ぶ り | す べ て | お も し ろ | や
+w: 2.~ち ぐ さ の | は な も | お も し ろ | や
 D4 E2 F2 | G2 G2 F2 E2 | F2 G2 A2 B2 | B4 A2 z2 |
-w: わ け て | な に お ふ | ま つ し ま | の _
+w: 1.~わ け て | な に お ふ | ま つ し ま | の _
+w: 2.~わ け て | さ く ら の | よ し の や | ま _
 d3 d A2 A2 | B3 B F4 | G3 F E2 D2 | A6 z2 |
-w: お ほ し ま | こ じ ま | そ の な か | を
+w: 1.~お ほ し ま | こ じ ま | そ の な か | を
+w: 2.~ひ _ と め | せ ん ぼん | さ き み ち | て
 A4 B2 c2 | d3 d A2 F2 | E2 F G F3 E | D6 z2 |
-w: か よ ふ | し ら ほ の | う つ _ く し | や
+w: 1.~か よ ふ | し ら ほ の | う つ _ く し | や
+w: 2.~かす み か | く _ も か | う つ _ く し | や
 D3 D E2 F2 | E3 E A4 | F3 E D2 E2 | F6 z2 |
-w: に ほ ん の | く に は | は な の く | に
+w: 1.~に ほ ん の | く に は | ま つ の く | に
+w: 2.~に ほ ん の | く に は | は な の く | に
 D3 D E2 F2 | E3 E A4 | F3 F E2 F2 | D6 z2 |
-w: う め も も | さ く ら | ふ ぢ あ や | め
+w: 1.~み あ げ る | み ね の | ひ と つ ま | つ
+w: 2.~う め も も | さ く ら | ふ ぢ あ や | め
 E3 F E2 F2 | E4 A3 A | B6 c2 | B3 B A2 z2 |
-w: し ら つ ゆ | む す ぶ | あ き | の の の
+w: 1.~は ま べ は | つ づ く | ま つ | ば ら の
+w: 2.~し ら つ ゆ | む す ぶ | あ き | の の の
 d3 d A2 F2 | E4 B3 B | A3 A E2 F2 | D6 z2 |
-w: ち ぐ さ の | は な も | お も し ろ | や
+w: 1.~え だ ぶ り | す べ て | お も し ろ | や
+w: 2.~ち ぐ さ の | は な も | お も し ろ | や
 D4 E2 F2 | G2 G2 F2 E2 | F2 G2 A2 B2 | B4 A2 z2 |
-w: わ け て | さ く ら の | よ し の や | ま _
+w: 1.~わ け て | な に お ふ | ま つ し ま | の _
+w: 2.~わ け て | さ く ら の | よ し の や | ま _
 d3 d A2 A2 | B3 B F4 | G3 F E2 D2 | A6 z2 |
-w: ひ _ と め | せ ん ぼん | さ き み ち | て
+w: 1.~お ほ し ま | こ じ ま | そ の な か | を
+w: 2.~ひ _ と め | せ ん ぼん | さ き み ち | て
 A4 B2 c2 | d3 d A2 F2 | E2 F G F3 E | D6 z2 |
-w: かす み か | く _ も か | う つ _ く し | や
+w: 1.~か よ ふ | し ら ほ の | う つ _ く し | や
+w: 2.~かす み か | く _ も か | う つ _ く し | や
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nihon_koku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5dYUlqUii5akJOYDBTU0lJ4Nn3pszlrHjeuezqnW0FLi0vRVsHQwIDL3lbBhcvGSN_EDqQT5H0rhWfTNjzfvkLh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32fk_H0w3dT3fseL584pNdU8BK1wKVPt255fmUFe_3dIJd9GRHw7NFc5-19j3Z0fmyuU8BaPzjhi5S7Hnc0A2yasnyZ2sXP-1tfLKrB2gDhPFsTsf7PT3Ptyx6NnvHi5nzFQzMjUx1TQxhdr9YOe_9nlnPprW_bF7xfE4jWOzZ7E0YYi_adz1vXPx8x97ncxc_3TUH6D64YyBuQXfF7NlAJwA9hM1-BSMzsP1c-loKttQCXAoKCnYK0Yp-_iGusRCOltbTvvkgeze3v1jR9aKjHehOoIeftq4Aek5LCxw7vc_aOxUSQOlXL6sgPeFRw2QQxxTMATocYoBCgZ6CkbEJUNLI2BwkiitS16xRMFd4uWwa0HvAIIS4Qhfojher9j9rWA5yQXcvMBRAds963NwNFAZFUXfv07UTgK5xUQAGHlBMAZjiFICiYFN6XjbMf7prmcKjmSshiRJu6PPOjpdzF4FioHsG2ESgxxSMLEBJ5vn6hmcrV7_YvuJp68qXCxqBZoN8ZYLNiyArgN54vn3Wi7VzgC58vmEhkPGyYcLL-ZufLdgBDCFg-nzRvuVxQxPYaljQAkUfNzQC8wqYD8lAQHseN65-3Lj7cdNkoMmQ_AQW7AeKg0XWP5u7Dyyy73HjEqxqIAa-WAYR3A9W0_S4cdLjpu6nm9dDBB83roXoBboCLLLpcSMoPwHNRDMfYhrQXrDITjBjyePGpUDrgCqB0QtX_Lhxw-MmYGiAjIV6at5csCwQLQCLb3vc1PW4cSbYnGWPG7seNwEdNv1xU-_jphaoRU1AX0wEyj6dAIw-oMZVYI3AMAFq3AqycfM2JBunAxnINgLjH6YAqH43XAGoFICKT37cOAOmay44BIBBAbLocSMwxDofN02CGPWyYRZYvPtxEzAHAhVvfT5z79MdoDIJ7GagyG6I1c_39YEF28BO6gcLAhW0YMT4rh6yYvxF10awCDDkIaGBPcafLWqFOqMJmGA7ny1sBnGBIdzUBOKuBroWKDsVpAscTS-mA-MXKLL1ceMiELd_2otJwIILKALU0gIxBGIy0ONwX0MSyeMmoC0N4Kjc9nw5xDHAqATlOKDzXrZDAmQdctQ8blz4uHEC2AHr0H0ESgb4EgPc2SC_T-gEmv90I9iEJrCrGteBHAyOU4hGYKp-PhtoOzRhQ_zytLcZFuCzgaH9uHEPJMyfQn09FezaXnDuADp1GczZ3WBvAgW7X4IKdnCwg4MUKEIg6ikvlaFAQUufi8svMyM_zy_fuzQv0yogMzEv36HGoKYaZI-CjaGZFjidKWCrEhSA5SqoEFrYo6BhAi3edBRgBZomFg1A60CG1SgYAktKXSBpBCSNgbgGzNIFkqZgGiQCEgeJgNSCZGEiEGgAEgGb5mNYAwzO1WBRYIoHRu9kMGsdWA8w-KAyq0HFDdx0YLxCxZdA1UJUIsyCwHiEPUbk2QNhA5MkEfbgD-tdPbQNa2MkNRBd2MN6P9RHTUA8CcRq6ob6CCazFupXWBhsgoqvAIc3iAUKfZAMiIcrrNsgupoagbgJzAKRIJmpUPP6gWKdSPZshYovArsOpKMFIgM0g7Sw3tFJTlhDQhY5HCEiutCwNgWKmCG5xBysBiJiBlaDHtaw1LMPiHeCWSAR5JAD1prw0ECka5gcSBVIdAM0LDuhMYMe1tOR5MEx1AQKfVDINcDNmgmlt4FNBIUvwp5eqD2QWAfRyPbgDWtgo5SsdB0HtgpIgcINNbRhIVoDD3fiUnYH1PULwL4EhUIX1F8Qv4PkQLEAopeBxUHykJQJCUNgRQMNN1DKw5WyF0LNmABNy4hSBFZygMoLmMmk2kOgFJmCGdrgVicRpQikJIaEowmQBGEQD1E-g0RAYQ6KAURax5KymyDlJcinE6HhCQkBkL8hZSPE15BcDUvZsPIDHAbwUgRW1mAJa5z2QMIdJAspQ-Bx0ARKBTAbwCU2rBRByVvEpOzWtWSFNUrKBmFEGQGrAyHhDytrQLEDS-vYUzY0_YDqLbSwA9ViIP4MJP-BxOdCxUE5GRIn0FK-CVTm40rZkJIeUtZDym6IabMhosA6E9JCQrIIVpj3AjGoAoFkD5AMKKpISdo7mskJbliwgYIYUiDjKlqMgYEOa5bgL0hAQQXxMCQxwZIwcjG7Gxq8EBlQcQtL3LCmxHSCBQmoFQkPcUjgwepieLqH1J1wcVIsquXi0rVTQGohRvsYxiqgCxmBhZS5AA)]
+- [主旋律 TMD 檔案](nihon_koku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5dYUlqUii5akJOYDBTU0lJ4Nn3pszlrHjeuezqnW0FLi0vRVsHQwIDL3lbBhcvGSN_EDqQT5H0rhWfTNjzfvkLh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32fk_H0w3dT3fseL584pNdU8BK1wKVPt255fmUFe_3dIJd9GRHw7NFc5-19j3Z0fmyuU8BaPzjhi5S7Hnc0A2yasnyZ2sXP-1tfLKrB2gDhPFsTsf7PT3Ptyx6NnvHi5nzFQzMjUx1TQxhdr9YOe_9nlnPprW_bF7xfE4jWOzZ7E0YYi_adz1vXPx8x97ncxc_3TUH6D64YyBuQXfF7NlAJwA9hM1-BSMzsP1c-loKttQCXAoKCnYK0Yp-_iGusRCOltbTvvkgeze3v1jR9aKjHehOoIeftq4Aek5LCxw7vc_aOxUSQOlXL6sgPeFRw2QQxxTMATocYoBCgZ6CkbEJUNLI2BwkiitS16xRMFd4uWwa0HvAIIS4Qhfojher9j9rWA5yQXcvMBRAds963NwNFAZFUXfv07UTgK5xUQAGHlBMAZjiFICiYFN6XjbMf7prmcKjmSshiRJu6PPOjpdzF4FioHsG2ESgxxSMLEBJ5vn6hmcrV7_YvuJp68qXCxqBZoN8ZYLNiyArgN54vn3Wi7VzgC58vmEhkPGyYcLL-ZufLdgBDCFg-nzRvuVxQxPYaljQAkUfNzQC8wqYD8lAQHseN65-3Lj7cdNkoMmQ_AQW7AeKg0XWP5u7Dyyy73HjEqxqIAa-WAYR3A9W0_S4cdLjpu6nm9dDBB83roXoBboCLLLpcSMoPwHNRDMfYhrQXrDITjBjyePGpUDrgCqB0QtX_Lhxw-MmYGiAjIV6at5csCwQLQCLb3vc1PW4cSbYnGWPG7seNwEdNv1xU-_jphaoRU1AX0wEyj6dAIw-oMZVYI3AMAFq3AqycfM2JBunAxnINgLjH6YAqH43XAGoFICKT37cOAOmay44BIBBAbLocSMwxDofN02CGPWyYRZYvPtxEzAHAhVvfT5z79MdoDIJ7GagyG6I1c_39YEF28BO6gcLAhW0YMT4rh6yYvxF10awCDDkIaGBPcafLWqFOqMJmGA7ny1sBnGBIdzUBOKuBroWKDsVpAscTS-mA-MXKLL1ceMiELd_2otJwIILKALU0gIxBGIy0ONwX0MSyeMmoC0N4Kjc9nw5xDHAqATlOKDzXrZDAmQdctQ8blz4uHEC2AHr0H0ESgb4EgPc2SC_T-gEmv90I9iEJrCrGteBHAyOU4hGYKp-PhtoOzRhQ_zytLcZFuCzgaH9uHEPJMyfQn09FezaXnDuADp1GczZ3WBvAgW7X4IKdnCwg4MUKEIg6ikvlaFAQUufi8svMyM_zy_fuzQv0yogMzEv36HGoKYaZI-CjaGZFjidKWCrEhSA5SqoEFrYo6BhAi3edBRgBZomFg1A60CG1SgYAktKXSBpBCSNgbgGzNIFkqZgGiQCEgeJgNSCZGEiEGgAEgGb5mNYAwzO1WBRYIoHRu9kMGsdWA8w-KAyq0HFDdx0YLxCxZdA1UJUIsyCwHiEPUbk2QNhA5MkEfbgD-tdPbQNa2MkNRBd2MN6P9RHTUA8CcRq6ob6CCazFupXWBhsgoqvAIc3iAUKfZAMiIcrrNsgupoagbgJzAKRIJmpUPP6gWKdSPZshYovArsOpKMFIgM0g7Sw3tFJTlhDQhY5HCEiutCwNgWKmCG5xBysBiJiBlaDHtaw1LMPiHeCWSAR5JAD1prw0ECka5gcSBVIdAM0LDuhMYMe1tOR5MEx1AQKfVDINcDNmgmlt4FNBIUvwp5eqD2QWAfRyPbgDWtgo5SsdB0HtgpIgcINNbRhIVoDD3fiUnYH1PULwL4EhUIX1F8Qv4PkQLEAopeBxUHykJQJCUNgRQMNN1DKw5WyF0LNmABNy4hSBFZygMoLmMmk2kOgFJmCGdrgVicRpQikJIaEowmQBGEQD1E-g0RAYQ6KAURax5KymyDlJcinE6HhCQkBkL8hZSPE15BcDUvZsPIDHAbwUgRW1mAJa5z2QMIdJAspQ-Bx0ARKBTAbwCU2rBRByVvEpOzWtWSFNUrKBmFEGQGrAyHhDytrQLEDS-vYUzY0_YDqLbSwA9ViIP4MJP-BxOdCxUE5GRIn0FK-CVTm40rZkJIeUtZDym6IabMhosA6E9JCQrIIVpj3AjGoAoFkD5AMKKpISdo7mskJbliwgYIYUiDjKlqMgYEOa5bgL0hAQQXxMCQxwZIwcjG7Gxq8EBlQcQtL3LCmxHSCBQmoFQkPcUjgwepieLqH1J1wcVIsquXi0rVTQGohKmBylbkA)]
 - [鋼琴伴奏 TMD 檔案](nihon_koku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqs8hJLSotS0UULchKTgYJaWgrPpi99NmfN48Z1T-d0v9_T8XL2zGed3S-79zyfsOXJni1Pl_a_39OpoKXFpWirYGhgwGVvq-DCZWOkb2IHMhEUflYKz6ZteL59hcLTDf1P1-54tmDh4-bdT1vXQNgKT6dsfLa259nUmc_mTng5uw1oxdMN3U937Hi-fOKTXVPAStcClT7dueX5lBVAu8AufbKj4dmiuc9a-57s6HzZ3KcANP5xQxcp9jxuAPnm6ZLlz9Yuftrb-GRXD9AGCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhjC7H6xct77PbOeTWt_2bzi-ZxGsNiz2ZswxF6073reuPj5jr3P5y5-umsO0H1wx0Dcgu6K2bOBTgB6CJv9CkZmYPu5_DIz8vP88r1L8zKtAkCxG-ThUGNQU82lAAQ2hmZadmCWvpaCLTpQeL5mDTDgXizsUdAwAYXS8_UNOgrAhGyil1WQrolFg5Y-2LAaBUMFXSA0VDACksZAXANm6QJJUzANEgGJg0RAakGyMBEINACJgE3zMaxReNy4Giz6uHG3wuOmyWDWOrCex439UJnVQLwebvrjxn1Q8SVQtRCVCLMgMB5hjxF59kDYjxtXEWEP_rDe1UPbsDZGUgPRhT2s90N91ATEk0Cspm6oj2Aya6F-hYXBJqj4CnB4g1ig0AfJgHi4wroNoqupEYibwCwQCZKZCjWvHyjWiWTPVqj4IrDrQDpaIDJAM0gL6x2d5IQ1JGSRwxEiogsNa1OgiBmSS8zBaiAiZmA16GENSz37gHgnmAUSQQ65x41L4aGBSNcwOZAqkOgGaFh2QmMGPaynI8mDY6gJFPqgkGuAmzUTSm8DmwgKX4Q9vVB7ILEOopHtwRvWwIKKrHQdB7YKSIHCDTW0YSFaAw934lJ2B9T1C8C-BIVCF9RfEL-D5ECxAKKXgcVB8pCUCQnDx03QkACnPFwpeyHUjAnQtIwoRWAlB6i8gJlMqj0ESpEpmKFtSmQpAimJIeFoAiRBGMRDlM8gEVCYg2IAkdaxpOwmSHkJ8ulEaHhCQgDkb0jZCPE1JFfDUjas_ACHAbwUgZU1WMIapz2QcAfJQsoQeBw0gVIBzAZwiQ0rRVDyFjEpu3UtWWGNkrJBGFFGwOpASPjDyhpQ7MDSOvaUDU0_oHoLLexAtRiIPwPJfyDxuVBxUE6GxAm0lG8Clfm4UjakpIeU9ZCyG2LabIgosM583LgHUnXCLIIV5r1ADKpAINkDJAOKKlKS9o5mcoIbFmygIIYUyLiKFmNgoMOaJfgLElBQQTwMSUywJIxczO6GBi9EBlTcwhI3rCkxnWBB0o1cMkECD1YXw9M9pO6Ei5NiUS2WBqIPcgPRAto-BIZGvEK0YSyMAoZqPJBlGo8kAmXAJeAiIGwA9RYVDYLLIynENMwEyDCJBVMQJVABoAIi3ARVTLbnEJYh6YK5D2wwMc5BMgVHkMFFwASGSQjf4w19rB4DphFdOwWkZBLtYxgLNh5d2AgurMwFAA)]
 
 ## 分析
@@ -111,10 +125,10 @@ w: かす み か | く _ も か | う つ _ く し | や
 🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [NihonNoKuni[L1] #1 @ m.1, 0:00]
-   - 最高音: D5 in [NihonNoKuni[L1] #1 @ m.13, 0:14]
+   - 最低音:  D4 in [NihonNoKuni #1 @ m.1, 0:00]
+   - 最高音: D5 in [NihonNoKuni #1 @ m.13, 0:14]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      NihonNoKuni[L1] (33.6s) -> NihonNoKuni[L2] (33.6s)
+🏛  結構:      NihonNoKuni (33.6s) -> NihonNoKuni (33.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -124,8 +138,8 @@ w: かす み か | く _ も か | う つ _ く し | や
    - 候選調性 (K-S): D 大調 (0.85), A 大調 (0.73), B 小調 (0.64)
    - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [NihonNoKuni[L1] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
-     • [NihonNoKuni[L2] #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [NihonNoKuni #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [NihonNoKuni #2]: D 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

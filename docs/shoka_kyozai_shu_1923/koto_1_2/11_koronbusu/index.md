@@ -78,58 +78,70 @@ K:Eb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 B,4 z2 |
-w: チ キ ウ ハ | マ _ ロ シ | ヒ ガ シ ヨ | リ _
+w: 1.~チ キ ウ ハ | マ _ ロ シ | ヒ ガ シ ヨ | リ _
+w: 2.~じ だ い は | い ま よ り | し ひや く ね | ん _
+w: 3.~イ サ ミ ニ | イ _ サ ム | コ ロ ン ブ | ス _
+w: 4.~さ れ ど も | く つ せ ず | た じ ろ が | ず _
 E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 E4 z2 |
-w: ニ _ シ ヘ | ニ シ ヘ ト | コ ギ ユ ケ | バ _
+w: 1.~ニ _ シ ヘ | ニ シ ヘ ト | コ ギ ユ ケ | バ _
+w: 2.~む か し の | こ と に て | あ り け る | が _
+w: 3.~パ ロ ス ノ | ミ ナ ト ヲ | ア ト ニ シ | テ _
+w: 4.~し ち じ ふ | よ に ち の | そ の う ち | に _
 e4 e2 d4 c2 | B4 c2 B4 G2 | A4 A2 B4 c2 | B6 G4 z2 |
-w: ヒ ガ シ ノ | ハ _ テ ト | シ ン ジ タ | ル _
+w: 1.~ヒ ガ シ ノ | ハ _ テ ト | シ ン ジ タ | ル _
+w: 2.~そ の と く | と こ ろ を | た れ も み | な _
+w: 3.~ノ リ ダ ス | バ ン リ ノ | ナ ミ ノ ウ | ヘ _
+w: 4.~り く ち は | ま _ へ に | あ ら は れ | ぬ _
 e4 e2 d4 c2 | B4 c2 B4 G2 | A4 G2 F4 G2 | E6 E4 z2 |
-w: イ ン ド ノ | ハ _ シ ニ | タ ツ セ ン | ト _
+w: 1.~イ ン ド ノ | ハ _ シ ニ | タ ツ セ ン | ト _
+w: 2.~し ん ぜ ざ | り _ し に | た だ ひ と | り _
+w: 3.~ク モ ヨ リ | ホ _ カ ハ | ハ テ モ ナ | シ _
+w: 4.~そ の よ ろ | こ _ び や | い か な り | し _
 C4 D2 E4 C2 | B,4 B,2 E4 G2 | F4 E2 F4 G2 | B6 B4 z2 |
-w: オ _ モ ヒ | サ ダ メ テ | コ ロ ン ブ | ス _
+w: 1.~オ _ モ ヒ | サ ダ メ テ | コ ロ ン ブ | ス _
+w: 2.~い す ぱ に | や こ く の | くわ う ご う | は _
+w: 3.~メ _ ザ ス | リ ク チ ハ | イ ヅ カ タ | ゾ _
+w: 4.~こ _ れ ぞ | な ん ぼ く | あ め り か | の _
 c4 B2 c4 e2 | B4 B2 G4 E2 | F4 A2 G4 F2 | E6 E4 z2 |
-w: カ ウ ロ ヲ | ツ ケ ン ト | ク ハ ダ テ | ヌ _
+w: 1.~カ ウ ロ ヲ | ツ ケ ン ト | ク ハ ダ テ | ヌ _
+w: 2.~よ み し て | ひ よ う を | あ た へ た | り _
+w: 3.~ス ヰ フ ノ | イ カ リ ヲ | イ カ ニ セ | ン _
+w: 4.~せ か い に | し ら れ し | は じ め な | る _
 E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 B,4 z2 |
-w: じ だ い は | い ま よ り | し ひや く ね | ん _
+w: 1.~チ キ ウ ハ | マ _ ロ シ | ヒ ガ シ ヨ | リ _
+w: 2.~じ だ い は | い ま よ り | し ひや く ね | ん _
+w: 3.~イ サ ミ ニ | イ _ サ ム | コ ロ ン ブ | ス _
+w: 4.~さ れ ど も | く つ せ ず | た じ ろ が | ず _
 E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 E4 z2 |
-w: む か し の | こ と に て | あ り け る | が _
+w: 1.~ニ _ シ ヘ | ニ シ ヘ ト | コ ギ ユ ケ | バ _
+w: 2.~む か し の | こ と に て | あ り け る | が _
+w: 3.~パ ロ ス ノ | ミ ナ ト ヲ | ア ト ニ シ | テ _
+w: 4.~し ち じ ふ | よ に ち の | そ の う ち | に _
 e4 e2 d4 c2 | B4 c2 B4 G2 | A4 A2 B4 c2 | B6 G4 z2 |
-w: そ の と く | と こ ろ を | た れ も み | な _
+w: 1.~ヒ ガ シ ノ | ハ _ テ ト | シ ン ジ タ | ル _
+w: 2.~そ の と く | と こ ろ を | た れ も み | な _
+w: 3.~ノ リ ダ ス | バ ン リ ノ | ナ ミ ノ ウ | ヘ _
+w: 4.~り く ち は | ま _ へ に | あ ら は れ | ぬ _
 e4 e2 d4 c2 | B4 c2 B4 G2 | A4 G2 F4 G2 | E6 E4 z2 |
-w: し ん ぜ ざ | り _ し に | た だ ひ と | り _
+w: 1.~イ ン ド ノ | ハ _ シ ニ | タ ツ セ ン | ト _
+w: 2.~し ん ぜ ざ | り _ し に | た だ ひ と | り _
+w: 3.~ク モ ヨ リ | ホ _ カ ハ | ハ テ モ ナ | シ _
+w: 4.~そ の よ ろ | こ _ び や | い か な り | し _
 C4 D2 E4 C2 | B,4 B,2 E4 G2 | F4 E2 F4 G2 | B6 B4 z2 |
-w: い す ぱ に | や こ く の | くわ う ご う | は _
+w: 1.~オ _ モ ヒ | サ ダ メ テ | コ ロ ン ブ | ス _
+w: 2.~い す ぱ に | や こ く の | くわ う ご う | は _
+w: 3.~メ _ ザ ス | リ ク チ ハ | イ ヅ カ タ | ゾ _
+w: 4.~こ _ れ ぞ | な ん ぼ く | あ め り か | の _
 c4 B2 c4 e2 | B4 B2 G4 E2 | F4 A2 G4 F2 | E6 E4 z2 |
-w: よ み し て | ひ よ う を | あ た へ た | り _
-E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 B,4 z2 |
-w: イ サ ミ ニ | イ _ サ ム | コ ロ ン ブ | ス _
-E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 E4 z2 |
-w: パ ロ ス ノ | ミ ナ ト ヲ | ア ト ニ シ | テ _
-e4 e2 d4 c2 | B4 c2 B4 G2 | A4 A2 B4 c2 | B6 G4 z2 |
-w: ノ リ ダ ス | バ ン リ ノ | ナ ミ ノ ウ | ヘ _
-e4 e2 d4 c2 | B4 c2 B4 G2 | A4 G2 F4 G2 | E6 E4 z2 |
-w: ク モ ヨ リ | ホ _ カ ハ | ハ テ モ ナ | シ _
-C4 D2 E4 C2 | B,4 B,2 E4 G2 | F4 E2 F4 G2 | B6 B4 z2 |
-w: メ _ ザ ス | リ ク チ ハ | イ ヅ カ タ | ゾ _
-c4 B2 c4 e2 | B4 B2 G4 E2 | F4 A2 G4 F2 | E6 E4 z2 |
-w: ス ヰ フ ノ | イ カ リ ヲ | イ カ ニ セ | ン _
-E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 B,4 z2 |
-w: さ れ ど も | く つ せ ず | た じ ろ が | ず _
-E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 E4 z2 |
-w: し ち じ ふ | よ に ち の | そ の う ち | に _
-e4 e2 d4 c2 | B4 c2 B4 G2 | A4 A2 B4 c2 | B6 G4 z2 |
-w: り く ち は | ま _ へ に | あ ら は れ | ぬ _
-e4 e2 d4 c2 | B4 c2 B4 G2 | A4 G2 F4 G2 | E6 E4 z2 |
-w: そ の よ ろ | こ _ び や | い か な り | し _
-C4 D2 E4 C2 | B,4 B,2 E4 G2 | F4 E2 F4 G2 | B6 B4 z2 |
-w: こ _ れ ぞ | な ん ぼ く | あ め り か | の _
-c4 B2 c4 e2 | B4 B2 G4 E2 | F4 A2 G4 F2 | E6 E4 z2 |
-w: せ か い に | し ら れ し | は じ め な | る _
+w: 1.~カ ウ ロ ヲ | ツ ケ ン ト | ク ハ ダ テ | ヌ _
+w: 2.~よ み し て | ひ よ う を | あ た へ た | り _
+w: 3.~ス ヰ フ ノ | イ カ リ ヲ | イ カ ニ セ | ン _
+w: 4.~せ か い に | し ら れ し | は じ め な | る _
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](koronbusu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5kiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfQaQr0YWBBpel5qCLlieWpBZhUZpXXAC0UolLS0vhcdPmx81rHzcDyWmPm3YqaGlxKdoqGBqYcNnbKrjqcNmY6VvYgUwABZmVwrNpG55vX6HwdEP_07U7ni1Y-Lh599PWNRC2wtMpG5-t7Xk2deazuRNezm57v6fj5eoZz9d2Pl8-8cmOBqDSJ7t6gEqf7tzyfMqK93s6wS4DyjxbNPdZa9-THZ0vm_sUgMY_bugixZ7HDd1Aq54uWf5s7eKnvY0gS3ZugTCezel4v6fn-ZZFz2bveDFzvoKBuZGprokhzO5n09pfNq94PqcRaOPTDd1Pd-yAWAixQOH5mjVPW9fCXYxsD9CxQEGwOVz6Wgq21AJcCgoKdgrRin7-Ia6xEI6W1tO--SD3b25_saLrRUc70GkvVs572roC6HwtLZCTNvQ-a-9USAClXb2sgvSERw2TQRwLMAcYABADFAr0FIxNzYCSxqaWQFGckbNmjYKhocLLZdOA_nu_ZxbEGbpAh7xYtf9Zw3KQE7p7gcEJsnzWi3Vdj5tnA2WAQQUUfrp2AtBFro9mrlUAhhRQWAGYgBSAEhBnvFg759mKmS8X9jztXA9kvFi15NmS3udNux439CAZtBpi0OMGkK4nu6Y83z4LpBFs6bMZfc8X7QLqBeoCmQ12Y8-jmSv1FCDpFu7ap607nk2e9bR914uZU8FOhUc3JH5BIdcOtJnYqO8xtDQ0UYBE--OGpmebVzxr6X82Z82z2ZuARgF98HTOhucTmh83rn-yY8fjxunP5m583NTxuKkL7I9OYLA9bd34fHbX06ltz5fsA9kLS8fAOADFD5D1dMdqoHUKT7fvBqYwoK3POhte9rQomOibgMLwcQPQOJT8-rgB6Huw3cDAXrr_2Zbux43rHjcCyVWPG-c_blwNdA3EemBwPZ3Q83RC7_OpG4AuBnoAHFKwNAZKAw2NwNwP5kN8AjK5ceHjxt7HjcDM3AnxGFhw3-MmkJkQT4JFNj1u7AFyQYJgP0PMAToJLAt0BliqcQemyOPGFc_2TAULTgaL9L1YCIqbx00QSyc-btwAMQ2LXSDPrn_cuAxoyJP9C8Gy0x83QcyZAQqBpm6oj3o3PN21DKygBajgceNKJO3Tge552TgFLAsMtCVgqdlgZSugVjfMBct2PW5qAstuerpuFlhk6uPGBWBfN4KcgRo70EDoWPVi-3qwYmC8tEGDrmkS0CKQ78C2PNnTCFbQD3YP2ECQp9ZgRNOuHqRoejaz6cnuxWCNQM8uAHoNGk27u6A-bdwHj5Gns2c_n7kPnHzBoQQMxiagAqCNayEhBjVzBjgcmhrAroUG8pNdoKIPGEFAp4JFgNEHdF4TKHGDvABU2QPR_rhxLlD9i1VrwOohivuBqRjCBZkA8_6LVRugAd4EjG6gSNPzWaA643HjfmDqhbsHI1rnPG4Ehi3QXlCsPe1fBUy5T3btgsUdMBCAyWMFUAHchMdNS0A5pXni4-bux81Lns6B-6Uf4rvns9qfTuiDhn8TMEDaHjdOgad5aPqZAc5owJBsBCZgUMoHhsCLTbvBNRk4TYKkwFqAXutoBws2AZ0ES-RAbwILAvRMB8zjiEzXDdEFjBRgdgDqAobDanRBYLxgS2Ng3wHjcSfQO892QBIbKBihUdA06ek-cJ4COQkegyAvQAN55wxgUQhWsA4ctpAUOPPFhDUv2yEaN4ASKjhUQVZsXgQWBJoPCY11T3ZAkhww6IBFBDTkX0JKRlCognMNJB0uAdYrQMHdwAQGCeFn8-aARUAZGZISwCZPhxjyfPY6cMgDMwhQ8TSgq17O3AEsoMCCQKcC4wuYQsDJfu_UZ9N2woJrKTgBQ8J_HjRtb9jydMlqsIKZj5smPG7cCvVOwySYrm6oH4EhtqwJaCBcHBZo4GIBLR6BWQspHkFlQhOwgFoJ9MjTjcAGCCRfw0qVxlnghDoDmBHA5Ri0fn2yoxnYZnm5ZMaz6UthORRY9gLz9VZw0gJaDfEmsMgCZbEnO9bCAhwivhoa5jgC52knMN-Bi25wBIENBOZfkBTYtWuQ8-_TaeAYAcUX0JHAnLIZHCbAcAAHETB2wBkQpgWYMIAmzHvaO_1pD7DEACcMULG2B5rFmhY9bgY24YCCQEvXwfw77flUSNIChgnQTEjZtfr5fKj3wRqBCFTUP10OybPAFDIDVtgCTeuGRgTl7S4oUNDS5-Lyzi_Kz0sqLS61CshMzMt3qDGoqQbZomBjoQWOcgVsLT5QkwFYFAHrLgUNYCthQ__z9Q06CsBWmDmoFaaJRQPQLpBhNQqGwOaKsYIpmKxRMAPSZnCeCZg2ApKGQB6I1lUwjQcSBgo1YO0-hjXA3N8IFHnctBaIl4FYzf1AxY-b54GVAwsGsOx2sNgkMHsNmA-SWwEWXQVWCYLxMHONgOKNM0BqGhcAcQuYtR6kGsreBzSjA2xaF1h0OlgUVKsAqX4wZy1IomkypuHGIPElYM1bgdbPBzulG6waJAoRB4ktAItthnoDWOqBWdPAojsxzTUBOWQqWH8PkLUSzGoCOw_ioiVAPBvMmgUWBdsM9CYwoYNZPWDRWSgm44_zXT30iHOQetQo74aGEyQaZ4CjESQGEgHxQaIdiNBrWgfkgxNH00aw2gnYo7ypARwO3fAIXQcOEVAcAqsOIF4NZi0DizZBox_YCACzwDEIDEOs8d0MVgOKRXDMPQZ29kCikLgHmgF0LYi1CezmRVD3I_wEUtuGI8YhLl0IT7BbwWaAzQO6FySD8MlcKBtYdEJ1gURBviI2xnd0khXjcaBojFMwB8d1DTi2UePcBCoGkQOJo8c5euaFhCAoZYN4YP9A4xwivxnI2gHWsx-sEtWXiGyOCJMVYBa4-ICyJ8PyRtMkRI4B5S5gvgLJg01uxFKAgOO8D-yOVUAMTlfAmIelPbDrwAUPzB9dYPZ8mC5gUQYSBcUoljgHpjqIS2GxCyma9kHCohHsa2CsIlJpJ1gNxO0g0TXExziwfqdNjENyOYgHyt9YcjmkjASHVCdmjENjGVJu7gezgWVv026oHpBKUB7AFuPgHAMsmYHtaXBIQUpUUJiCeJD8BAk9SAkJqgI2gVngCgOqErNMB4dw8yJwxQKJeZArQCUuyD5w2QGtnMDlMTDNglRDSgBYusWWw-EpFFrl9MJLJZA4pIRrQaqcQOUXOG0hVU5El-hTMGMbPJaCN7bNQLWyeTw4DoFsYHSDBIAEpKiHFOSG8AiHZHEQiRrhkIwECxRwloNWhQ1ADE7qwEAjqVIERzgkWGYC8UZE5AKDDJrFodUjpIgE9YLAXGDsNE6BskASoNjFlstBzgKF9TYwCcnjkNBfD2SBGyeQWIem51ZYWoCUS02QXIsZ69D4BeZYkBvmwUsaSMrdAxaFlFWQPN4ILxcgNdE64mMdONxDVqyDIxFEAjM6JFZNwQU3rOo2AfOM8GRxSEAsA8clKHDAFSAwI4NEN8JjF1KsQ7IXsNCDFKeQlNCMpcIFV-WQCnA_PENDKm1wNgbKQStAaLEOKcyBhS-06JyPN5tDKvANQAxubEGKJWiDDljhQot1SFWOEIVU5bvBbgb5CluUQxpnoOwLSZuQQghSXAGLcGhSmA5PjpDGGziJAZMGyD5Iwwhmci0Xl66dArxNH-1jGKuAKmCELmCMLmACFlDmAgA)]
+- [主旋律 TMD 檔案](koronbusu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5kiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfQaQr0YWBBpel5qCLlieWpBZhUZpXXAC0UolLS0vhcdPmx81rHzcDyWmPm3YqaGlxKdoqGBqYcNnbKrjqcNmY6VvYgUwABZmVwrNpG55vX6HwdEP_07U7ni1Y-Lh599PWNRC2wtMpG5-t7Xk2deazuRNezm57v6fj5eoZz9d2Pl8-8cmOBqDSJ7t6gEqf7tzyfMqK93s6wS4DyjxbNPdZa9-THZ0vm_sUgMY_bugixZ7HDd1Aq54uWf5s7eKnvY0gS3ZugTCezel4v6fn-ZZFz2bveDFzvoKBuZGprokhzO5n09pfNq94PqcRaOPTDd1Pd-yAWAixQOH5mjVPW9fCXYxsD9CxQEGwOVz6Wgq21AJcCgoKdgrRin7-Ia6xEI6W1tO--SD3b25_saLrRUc70GkvVs572roC6HwtLZCTNvQ-a-9USAClXb2sgvSERw2TQRwLMAcYABADFAr0FIxNzYCSxqaWQFGckbNmjYKhocLLZdOA_nu_ZxbEGbpAh7xYtf9Zw3KQE7p7gcEJsnzWi3Vdj5tnA2WAQQUUfrp2AtBFro9mrlUAhhRQWAGYgBSAEhBnvFg759mKmS8X9jztXA9kvFi15NmS3udNux439CAZtBpi0OMGkK4nu6Y83z4LpBFs6bMZfc8X7QLqBeoCmQ12Y8-jmSv1FCDpFu7ap607nk2e9bR914uZU8FOhUc3JH5BIdcOtJnYqO8xtDQ0UYBE--OGpmebVzxr6X82Z82z2ZuARgF98HTOhucTmh83rn-yY8fjxunP5m583NTxuKkL7I9OYLA9bd34fHbX06ltz5fsA9kLS8fAOADFD5D1dMdqoHUKT7fvBqYwoK3POhte9rQomOibgMLwcQPQOJT8-rgB6Huw3cDAXrr_2Zbux43rHjcCyVWPG-c_blwNdA3EemBwPZ3Q83RC7_OpG4AuBnoAHFKwNAZKAw2NwNwP5kN8AjK5ceHjxt7HjcDM3AnxGFhw3-MmkJkQT4JFNj1u7AFyQYJgP0PMAToJLAt0BliqcQemyOPGFc_2TAULTgaL9L1YCIqbx00QSyc-btwAMQ2LXSDPrn_cuAxoyJP9C8Gy0x83QcyZAQqBpm6oj3o3PN21DKygBajgceNKJO3Tge552TgFLAsMtCVgqdlgZSugVjfMBct2PW5qAstuerpuFlhk6uPGBWBfN4KcgRo70EDoWPVi-3qwYmC8tEGDrmkS0CKQ78C2PNnTCFbQD3YP2ECQp9ZgRNOuHqRoejaz6cnuxWCNQM8uAHoNGk27u6A-bdwHj5Gns2c_n7kPnHzBoQQMxiagAqCNayEhBjVzBjgcmhrAroUG8pNdoKIPGEFAp4JFgNEHdF4TKHGDvABU2QPR_rhxLlD9i1VrwOohivuBqRjCBZkA8_6LVRugAd4EjG6gSNPzWaA643HjfmDqhbsHI1rnPG4Ehi3QXlCsPe1fBUy5T3btgsUdMBCAyWMFUAHchMdNS0A5pXni4-bux81Lns6B-6Uf4rvns9qfTuiDhn8TMEDaHjdOgad5aPqZAc5owJBsBCZgUMoHhsCLTbvBNRk4TYKkwFqAXutoBws2AZ0ES-RAbwILAvRMB8zjiEzXDdEFjBRgdgDqAobDanRBYLxgS2Ng3wHjcSfQO892QBIbKBihUdA06ek-cJ4COQkegyAvQAN55wxgUQhWsA4ctpAUOPPFhDUv2yEaN4ASKjhUQVZsXgQWBJoPCY11T3ZAkhww6IBFBDTkX0JKRlCognMNJB0uAdYrQMHdwAQGCeFn8-aARUAZGZISwCZPhxjyfPY6cMgDMwhQ8TSgq17O3AEsoMCCQKcC4wuYQsDJfu_UZ9N2woJrKTgBQ8J_HjRtb9jydMlqsIKZj5smPG7cCvVOwySYrm6oH4EhtqwJaCBcHBZo4GIBLR6BWQspHkFlQhOwgFoJ9MjTjcAGCCRfw0qVxlnghDoDmBHA5Ri0fn2yoxnYZnm5ZMaz6UthORRY9gLz9VZw0gJaDfEmsMgCZbEnO9bCAhwivhoa5jgC52knMN-Bi25wBIENBOZfkBTYtWuQ8-_TaeAYAcUX0JHAnLIZHCbAcAAHETB2wBkQpgWYMIAmzHvaO_1pD7DEACcMULG2B5rFmhY9bgY24YCCQEvXwfw77flUSNIChgnQTEjZtfr5fKj3wRqBCFTUP10OybPAFDIDVtgCTeuGRgTl7S4oUNDS5-Lyzi_Kz0sqLS61CshMzMt3qDGoqQbZomBjoQWOcgVsLT5QkwFYFAHrLgUNYCthQ__z9Q06CsBWmDmoFaaJRQPQLpBhNQqGwOaKsYIpmKxRMAPSZnCeCZg2ApKGQB6I1lUwjQcSBgo1YO0-hjXA3N8IFHnctBaIl4FYzf1AxY-b54GVAwsGsOx2sNgkMHsNmA-SWwEWXQVWCYLxMHONgOKNM0BqGhcAcQuYtR6kGsreBzSjA2xaF1h0OlgUVKsAqX4wZy1IomkypuHGIPElYM1bgdbPBzulG6waJAoRB4ktAItthnoDWOqBWdPAojsxzTUBOWQqWH8PkLUSzGoCOw_ioiVAPBvMmgUWBdsM9CYwoYNZPWDRWSgm44_zXT30iHOQetQo74aGEyQaZ4CjESQGEgHxQaIdiNBrWgfkgxNH00aw2gnYo7ypARwO3fAIXQcOEVAcAqsOIF4NZi0DizZBox_YCACzwDEIDEOs8d0MVgOKRXDMPQZ29kCikLgHmgF0LYi1CezmRVD3I_wEUtuGI8YhLl0IT7BbwWaAzQO6FySD8MlcKBtYdEJ1gURBviI2xnd0khXjcaBojFMwB8d1DTi2UePcBCoGkQOJo8c5euaFhCAoZYN4YP9A4xwivxnI2gHWsx-sEtWXiGyOCJMVYBa4-ICyJ8PyRtMkRI4B5S5gvgLJg01uxFKAgOO8D-yOVUAMTlfAmIelPbDrwAUPzB9dYPZ8mC5gUQYSBcUoljgHpjqIS2GxCyma9kHCohHsa2CsIlJpJ1gNxO0g0TXExziwfqdNjENyOYgHyt9YcjmkjASHVCdmjENjGVJu7gezgWVv026oHpBKUB7AFuPgHAMsmYHtaXBIQUpUUJiCeJD8BAk9SAkJqgI2gVngCgOqErNMB4dw8yJwxQKJeZArQCUuyD5w2QGtnMDlMTDNglRDSgBYusWWw-EpFFrl9MJLJZA4pIRrQaqcQOUXOG0hVU5El-hTMGMbPJaCN7bNQLWyeTw4DoFsYHSDBIAEpKiHFOSG8AiHZHEQiRrhkIwECxRwloNWhQ1ADE7qwEAjqVIERzgkWGYC8UZE5AKDDJrFodUjpIgE9YLAXGDsNE6BskASoNjFlstBzgKF9TYwCcnjkNBfD2SBGyeQWIem51ZYWoCUS02QXIsZ69D4BeZYkBvmwUsaSMrdAxaFlFWQPN4ILxcgNdE64mMdONxDVqyDIxFEAjM6JFZNwQU3rOo2AfOM8GRxSEAsA8clKHDAFSAwI4NEN8JjF1KsQ7IXsNCDFKeQlNCMpcIFV-WQCnA_PENDKm1wNgbKQStAaLEOKcyBhS-06JyPN5tDKvANQAxubEGKJWiDDljhQot1SFWOEIVU5bvBbgb5CluUQxpnoOwLSZuQQghSXAGLcGhSmA5PjpDGGziJAZMGyD5Iwwhmci0Xl66dArxNr4DOUeYCAA)]
 - [鋼琴伴奏 TMD 檔案](koronbusu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5kiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKoOZXowkAXlKXmoIuWJ5akFmFRmldcAHSbEpeWlsLjps2Pm9c-bgaS0x437Xy_p-Pl7JnPOrtfdu95PmHLkz1bni7tf7-nU0FLi0vRVsHQwITL3lbBVYfLxkzfwg5kMijMrRSeTdvwfPsKhacb-p-u3fFswcLHzbuftq6BsBWeTtn4bG3Ps6kzn82d8HJ2G8iO1TOer-18vnzikx0NQKVPdvUAlT7dueX5lBVAy8AuBso8WzT3WWvfkx2dL5v7FIDGP27oIsWexw3dQKueLln-bO3ip72NIEt2boEwns3peL-n5_mWRc9m73gxc76CgbmRqa6JIczuZ9PaXzaveD6nEWjj0w3dT3fsgFgIsUDh-Zo1T1vXwl2MbA_QsUBBsDlc3vlF-XlJpcWlVgGgeA3ycKgxqKnmUgACGwstOzBDX0vBFh2AzAf6_sXCHgUNE5BXn69v0FEApmBzvayCdE0sGrT0wYbVKBgq6CoYK5iCyRoFMyBtBueZgGkjIGkI5IFoXQXTeCBhoFAD1u5jWKPwuLkRKPK4aS0QLwOxmvuBih83zwMrB6YUsOx2sNgkMHsNmA-SWwEWXQVWCYLxMHONgOKNM0BqGhcAcQuYtR6kGsreBzSjA2xaF1h0Olh00-OmFiDVD-asBUk0TcY03BgkvgSseSvQ-vlgp3SDVYNEIeIgsQVgsc1QbwBTPJg1DSy6E9NcE5BDpoL19wBZK8GsJrDzIC5aAsSzwaxZYFGwzUBvPm7qBbN6wKKzUEzGH-e7eugR5yD1qFHeDQ0nSDTOAEcjSAwkAuKDRDsQode0DsgHJ46mjWC1E7BHeVMDOBy64RG6DhwioDh83LgCiFeDWcvAok3Q6H_cOBHMAscgMAyxxnczWA0oFsEx9xhYPIBEIXEPNAPoWhBrE9jNi6DuR_gJpLYNR4xDXLoQnmC3gs0Amwd0L0gG4ZO5UPbjRpBpIDmQKMhXxMb4jk6yYjwOFI1xCubguK4BxzZqnJtAxSByIHH0OEfPvJAQBKVsEA_sH2icQ-Q3A1k7wHr2g1Wi-hKRzRFhsgLMAhcfUPZkWN5omoTIMaDcBcxXIHmwyY1YChBwnPeB3bEKiMHpChjzsLQHdh244IH5owvMng_TBSzKQKKgGMUS58BUB3EpLHYhRdM-SFg0gn0NjFVEKu0Eq4G4HSS6hvgYfzp7Nm1iHJLLQTxQ_saSyyFlJDikOjFjHBrLkHJzP5gNLHubdkP1gFSC8gC2GAfnGGDJ_LhxDjikICUqKExBPEh-goQepIQEVQGbwCxwhQFViVmmg0O4eRG4YoHEPMgVoBIXZB-47IBWTuDyGJhmQaohJQAs3WLL4fAUCq1yeuGlEkgcUsK1IFVOoPILnLaQKieiS_QpmLFtQTC2zUC1snk8OA6BbGB0gwSABKSohxTkhvAIh2RxEIka4ZCMBAsUcJaDVoUNQAxO6sBAI6lSBEc4JFhmAvFGROQCgwyaxaHVI6SI7H_cBOECY6dxCpQFkgDFLrZcDnIWKKy3gUlIHoeE_nogC9w4gcQ6ND23wtICpFxqguRazFiHxi8wx4LcMA9e0kBS7h6wKKSsguTxRni5AKmJ1hEf68C2IVmxDo5EEAnM6JBYNQUX3LCq2wTMM8KTxSEBsQwcl6DAAVeAwIwMEt0Ij11IsQ7JXsBCD1KcQlJCM5YKF1yVQyrA_fAMDam0wdkYKAetAKHFOqQwBxa-0KJzPt5sDqnANwAxuLEFKZagDTpghQst1iFVOUIUUpXvBrsZ5CtsUQ5pnIGyLyRtQgohSHEFLMKhSWE6PDlCGm_gJAZMGiD7IA0jmMm1GE16H2xNemD0gLJrtGEsggEso8FMExQxIzDTKDcWmLfBTNN4kDASB8KERTLxJsPFcBkMVovFXBT1eG3Do5Icc3GEBS6D4c6AM7AbixGW6OaihzCxBhPtXmCq0bVTgCecaB-gJKqAEbqAMboA0BVAAWUuAA)]
 
 ## 分析
@@ -138,14 +150,14 @@ w: せ か い に | し ら れ し | は じ め な | る _
 ================================================================================
 📊 TMD Song Profile: [ コロンブス ]
 ================================================================================
-⏱  Duration:       2:46 (166.2s), 96 measures total
+⏱  Duration:       1:23 (83.1s), 48 measures total
 🎼 Key & Tempo:    首調基準 E,, != 104.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A#3 (MIDI 58) – D#5 (MIDI 75) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  A#3 in [Koronbusu[L1] #1 @ m.4, 0:06]
-   - 最高音: D#5 in [Koronbusu[L1] #1 @ m.9, 0:13]
+   - 最低音:  A#3 in [Koronbusu #1 @ m.4, 0:06]
+   - 最高音: D#5 in [Koronbusu #1 @ m.9, 0:13]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Koronbusu[L1] (41.5s) -> Koronbusu[L2] (41.5s) -> Koronbusu[L3] (41.5s) -> Koronbusu[L4] (41.5s)
+🏛  結構:      Koronbusu (41.5s) -> Koronbusu (41.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -153,12 +165,10 @@ w: せ か い に | し ら れ し | は じ め な | る _
    - 核心骨幹音:  A#, D#, G, F, C
    - 調性數值:    D# 大調 [相關度: 0.93, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): D# 大調 (0.93), A# 大調 (0.79), C 小調 (0.62)
-   - 五度圈歷程:   -3 -> -3 -> -3 -> -3
+   - 五度圈歷程:   -3 -> -3
    - 各段落調性細節:
-     • [Koronbusu[L1] #1]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
-     • [Koronbusu[L2] #1]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
-     • [Koronbusu[L3] #1]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
-     • [Koronbusu[L4] #1]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
+     • [Koronbusu #1]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
+     • [Koronbusu #2]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -185,7 +195,7 @@ w: せ か い に | し ら れ し | は じ め な | る _
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A#3 – D#5 (17 個半音 / 1.4 個八度, 336 個音符)
+  - Piano         : A#3 – D#5 (17 個半音 / 1.4 個八度, 168 個音符)
 ================================================================================
 ```
 

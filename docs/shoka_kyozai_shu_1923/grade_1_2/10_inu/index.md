@@ -52,22 +52,28 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A8 A4 F4 | E6 E2 D4 D4 | E6 E2 F4 F4 | A12 z4 |
-w: そ と へ | で る と き | と ん で き | て
+w: 1.~そ と へ | で る と き | と ん で き | て
+w: 2.~う ち へ | か へ る と | を を ふ っ | て
 B6 B2 B4 A4 | d6 d2 d4 A4 | B4 A4 F4 D4 | E12 z4 |
-w: お っ て も | お っ て も | つ い て く | る
+w: 1.~お っ て も | お っ て も | つ い て く | る
+w: 2.~た も と に | す が っ て | う れ し が | る
 F6 E2 D4 z4 | d6 d2 B4 z4 | A4 A4 F4 E4 | D12 z4 |
-w: ポ チ は | ほん と に | か は い い | な
+w: 1.~ポ チ は | ほん と に | か は い い | な
+w: 2.~ポ チ は | ほん と に | か は い い | な
 A8 A4 F4 | E6 E2 D4 D4 | E6 E2 F4 F4 | A12 z4 |
-w: う ち へ | か へ る と | を を ふ っ | て
+w: 1.~そ と へ | で る と き | と ん で き | て
+w: 2.~う ち へ | か へ る と | を を ふ っ | て
 B6 B2 B4 A4 | d6 d2 d4 A4 | B4 A4 F4 D4 | E12 z4 |
-w: た も と に | す が っ て | う れ し が | る
+w: 1.~お っ て も | お っ て も | つ い て く | る
+w: 2.~た も と に | す が っ て | う れ し が | る
 F6 E2 D4 z4 | d6 d2 B4 z4 | A4 A4 F4 E4 | D12 z4 |
-w: ポ チ は | ほん と に | か は い い | な
+w: 1.~ポ チ は | ほん と に | か は い い | な
+w: 2.~ポ チ は | ほん と に | か は い い | な
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](inu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYo8SlpaXwvGuNgpYWl6KtgqGRAZe9rYILl42JvokdSMeTHQ3PFs191tr3ZEfny-Y-hefbVzxu6Ho2bQOQofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnvc0P1-T8fTJcufrV38tLfxya6epzu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18Tw_Z5OsGtfrJz3fs-sZ9PaXzaveD6nESz2bPYmDLEX7bueNy5-vmPv87mLn-6aA3Qf3DEQt6C7YvZsoBOAHsJmv4KRGdh-Ln0tBVtqAS4FBYWnffNB1mxuf7Gi60VHO9BZQP89bV0B9AvIZRt6n7V3KoBSjV5WQfqjhslApiWICXQhRKtCgZ6CkQFQxggYQj1PN3Q_3bHj-fKJz9esAUbS4wZwyK7dAfQZUETB0EDh5bJpQJ8AQwtk-4tV-581LAfZ290L9CpQ9HFzN1AQGBZAkadrJwDd4KIADB-gmAIw8hWAomDdPY9mrrQFpgug_LO-hS_aV8HDHhTOYEdAkgEkqIHhDHEQxCmPGzqAqetxA9CgTi6QOyBOfboE6LSOx41zHzeuAMo8btzxtH0XWGQ5iNvU_WxmE5i74nEjyBkgRtNkoOyTfW1gcYjgMrDP9u8FC3WBhZYARR83ATX3v9-z5-XMFrDUErBUC1AKph8oC7IGpP9x89zHzY2PG9c_btwNtgRo5-qn_euftcwGK-0GSwENghix6nFDE8Qnu4CebXzaCnQxUFXb48aFEJ88W7sDpg_IANkCNPLphn0gwaZJYJFJz3rWg9VshbsZ7JNFEE_PB3oAFjCrHzfOfNzYA1H0dA0wHMGWNfWAZaeDpMj3BlAb5WkbChS09Lm4PPNKrQIyE_PyHWoMaqpB5ivYWGjZgRnY8pMCJK28WNijoGECKk6er2_QAWUCcMrXxKIBaAvIsBoFUwVdMATRxkBco2AE5hspGAJJEEaIgOQhamC6QNAAJAI2zcewRgGYGKHiwKADkzvAOoCJDiLa1A2X6YXKgHggmclQVQiZZUj2xCPsMQLJtcHtWYhiTzdUdAfYLpg7gDJNk6D2TAKKbQXLLMZpD_6w3tVDTlibgc03A9OgEKxRMIwDCwEpMAsiCJMGBTVyBGAP7i6odxdDvQFM9FBP4ZZZAhZvAZNgmcZ-aBBBAg97gM-HBl8TPAJXQ82bCbWpBxqkEFNhkQTMZWCx6VA1uGwikLw7yQlyUBjCEjM45JCCHBTOEDFQaMNCHBTWQFW4Q7wZksCBpQTQN-thrgeyQeUFNCBWQAMHJgVJhyDFsGAHkSCZVbgDnNYW1XJx6dopAMuaaB_DWAUY0wjMVOYCAA)]
+- [主旋律 TMD 檔案](inu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYo8SlpaXwvGuNgpYWl6KtgqGRAZe9rYILl42JvokdSMeTHQ3PFs191tr3ZEfny-Y-hefbVzxu6Ho2bQOQofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnvc0P1-T8fTJcufrV38tLfxya6epzu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18Tw_Z5OsGtfrJz3fs-sZ9PaXzaveD6nESz2bPYmDLEX7bueNy5-vmPv87mLn-6aA3Qf3DEQt6C7YvZsoBOAHsJmv4KRGdh-Ln0tBVtqAS4FBYWnffNB1mxuf7Gi60VHO9BZQP89bV0B9AvIZRt6n7V3KoBSjV5WQfqjhslApiWICXQhRKtCgZ6CkQFQxggYQj1PN3Q_3bHj-fKJz9esAUbS4wZwyK7dAfQZUETB0EDh5bJpQJ8AQwtk-4tV-581LAfZ290L9CpQ9HFzN1AQGBZAkadrJwDd4KIADB-gmAIw8hWAomDdPY9mrrQFpgug_LO-hS_aV8HDHhTOYEdAkgEkqIHhDHEQxCmPGzqAqetxA9CgTi6QOyBOfboE6LSOx41zHzeuAMo8btzxtH0XWGQ5iNvU_WxmE5i74nEjyBkgRtNkoOyTfW1gcYjgMrDP9u8FC3WBhZYARR83ATX3v9-z5-XMFrDUErBUC1AKph8oC7IGpP9x89zHzY2PG9c_btwNtgRo5-qn_euftcwGK-0GSwENghix6nFDE8Qnu4CebXzaCnQxUFXb48aFEJ88W7sDpg_IANkCNPLphn0gwaZJYJFJz3rWg9VshbsZ7JNFEE_PB3oAFjCrHzfOfNzYA1H0dA0wHMGWNfWAZaeDpMj3BlAb5WkbChS09Lm4PPNKrQIyE_PyHWoMaqpB5ivYWGjZgRnY8pMCJK28WNijoGECKk6er2_QAWUCcMrXxKIBaAvIsBoFUwVdMATRxkBco2AE5hspGAJJEEaIgOQhamC6QNAAJAI2zcewRgGYGKHiwKADkzvAOoCJDiLa1A2X6YXKgHggmclQVQiZZUj2xCPsMQLJtcHtWYhiTzdUdAfYLpg7gDJNk6D2TAKKbQXLLMZpD_6w3tVDTlibgc03A9OgEKxRMIwDCwEpMAsiCJMGBTVyBGAP7i6odxdDvQFM9FBP4ZZZAhZvAZNgmcZ-aBBBAg97gM-HBl8TPAJXQ82bCbWpBxqkEFNhkQTMZWCx6VA1uGwikLw7yQlyUBjCEjM45JCCHBTOEDFQaMNCHBTWQFW4Q7wZksCBpQTQN-thrgeyQeUFNCBWQAMHJgVJhyDFsGAHkSCZVbgDnNYW1XJx6dopAMsaBQSlzAUA)]
 - [鋼琴伴奏 TMD 檔案](inu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQ0pcWloKz7vWvN_T8XL2zGed3S-79zyfsOXJni1Pl_a_39OpoKXFpWirYGhkwGVvq-DCZWOib2IHMvnJjoZni-Y-a-17sqPzZXOfwvPtKx43dD2btgHIUHi6of_p2h3PFix83Lz7aesaCFvh6ZSNz9b2PJs689ncCS9ntz1u6Aba-nTJ8mdrFz_tbXyyq-fpzi0QxrM5He_39DzfsujZ7B0vZs5XMDA3MtU1MQS6B-yrFyvnvd8z69m09pfNK57PaQSLPZu9CUPsRfuu542Ln-_Y-3zu4qe75gDdB3cMxC3orpg9G-gEoIew2a9gZAa2n8szr9QqIDMxLz_Iw6HGoKaaSwEIbCy07MAMfS0FW3Sg8HzNGmB4vVjYo6BhAgqc5-sbdBSAsWypl1WQrolFg5Y-2LAaBVMFXTAE0cZAXKNgBOYbKRgCSRBGiIDkIWpgukDQACQCNs3HsEbhceNcqPjjxhVgcgdYx-PG5RDRpm64TC9UBsQDyUyGqkLILEOyJx5hjxFIrg1uz0IUe7qhojvAdsHcAZRpmgS1ZxJQbCtYZjFOe_CH9a4ecsLaDGy-GZgGhWCNgmEcWAhIgVkQQZg0KKiRIwB7cHdBvbsY6o3HTU1QT-GWWQIWbwGTYJnGfmgQQQIPe4DPhwZfEzwCV0PNmwm1qQcapBBTYZH0uKkHLDYdqgaXTQSSdyc5QQ4KQ1hiBoccUpCDwhkiBgptWIiDwhqoCneIN0MS-OPmRqBv1sNcD2TvBqVgWMqHBA5MCpIOQYphwQ4iQTKrcAc4rS2qRSpqfJCLGhNoUQMMhniFaMNYGAUMqHggyzSeOBEQwwDqoRoFE6CoCZIyQnwcxoDkodYBBWG6gBSIB9UM14rsAZARQB_r2ikAPR3tAxSEMY3ATGUuAA)]
 
 ## 分析
@@ -80,10 +86,10 @@ w: ポ チ は | ほん と に | か は い い | な
 🎼 Key & Tempo:    首調基準 D, != 120.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Inu[L1] #1 @ m.2, 0:03]
-   - 最高音: D5 in [Inu[L1] #1 @ m.6, 0:10]
+   - 最低音:  D4 in [Inu #1 @ m.2, 0:03]
+   - 最高音: D5 in [Inu #1 @ m.6, 0:10]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Inu[L1] (24.0s) -> Inu[L2] (24.0s)
+🏛  結構:      Inu (24.0s) -> Inu (24.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -93,8 +99,8 @@ w: ポ チ は | ほん と に | か は い い | な
    - 候選調性 (K-S): D 大調 (0.86), A 大調 (0.79), F# 小調 (0.55)
    - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Inu[L1] #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
-     • [Inu[L2] #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Inu #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Inu #2]: D 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

@@ -50,4 +50,4 @@ HanauriShojo:Piano@|0|{
     L3| は な う り | を と め の | こ こ ろ の | は - な _ |
 }
 
--> HanauriShojo[L1] -> HanauriShojo[L2] -> HanauriShojo[L3] -> #
+-> HanauriShojo -> HanauriShojo -> #

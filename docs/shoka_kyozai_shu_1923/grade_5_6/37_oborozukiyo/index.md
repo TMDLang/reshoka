@@ -14,7 +14,9 @@ audio: "oborozukiyo.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="oborozukiyo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="oborozukiyo_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="oborozukiyo.mp3"></audio>
+
 
 - book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
@@ -58,30 +60,39 @@ Q:1/4=88
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-z4 z4 F2 F2 | D6 E2 F2 A2 | A2 B2 A4 E4 | F6 D2 E2 A,2 |
-w: ナ ノ | ハ ナ バ タ | ケ _ _ イ | リ ヒ ウ ス
+z8 F2 F2 | D6 E2 F2 A2 | A2 B2 A4 E4 | F6 D2 E2 A,2 |
+w: 1.~ナ ノ | ハ ナ バ タ | ケ _ _ イ | リ ヒ ウ ス
+w: 2.~さ と | わ の ほ か | げ _ _ も | り の い ろ
 F8 A,2 A,2 | F6 G2 A2 d2 | d2 e2 d4 A4 | B6 F2 E2 E2 |
-w: レ ミ ワ | タ ス ヤ マ | ノ _ _ カ | ス ミ フ カ
+w: 1.~レ ミ ワ | タ ス ヤ マ | ノ _ _ カ | ス ミ フ カ
+w: 2.~も た な | か の を み | ち _ _ た | ど る ひ と
 D8 A,2 A,2 | d6 d2 d2 e2 | d2 B2 A4 A2 F2 | A6 B2 F2 F2 |
-w: シ ハ ル | カ ゼ ソ ヨ | フ _ _ ソ _ | ラ ヲ ミ レ
+w: 1.~シ ハ ル | カ ゼ ソ ヨ | フ _ _ ソ _ | ラ ヲ ミ レ
+w: 2.~も か は | づ の な く | ね _ _ か _ | ね の お と
 E8 D2 E2 | F6 D2 F2 G2 | A2 d2 B4 A4 | B6 F2 E2 E2 |
-w: バ ユ フ | ヅ キ カ カ | リ _ _ ニ | ホ ヒ ア ハ
-D8 z4 | z4 z4 F2 F2 | D6 E2 F2 A2 | A2 B2 A4 E4 |
-w: シ | さ と | わ の ほ か | げ _ _ も
+w: 1.~バ ユ フ | ヅ キ カ カ | リ _ _ ニ | ホ ヒ ア ハ
+w: 2.~も さ な | が ら か す | め _ _ お | ぼ ろ づ き
+D8 z4 | z8 F2 F2 | D6 E2 F2 A2 | A2 B2 A4 E4 |
+w: 1.~シ | ナ ノ | ハ ナ バ タ | ケ _ _ イ
+w: 2.~よ | さ と | わ の ほ か | げ _ _ も
 F6 D2 E2 A,2 | F8 A,2 A,2 | F6 G2 A2 d2 | d2 e2 d4 A4 |
-w: り の い ろ | も た な | か の を み | ち _ _ た
+w: 1.~リ ヒ ウ ス | レ ミ ワ | タ ス ヤ マ | ノ _ _ カ
+w: 2.~り の い ろ | も た な | か の を み | ち _ _ た
 B6 F2 E2 E2 | D8 A,2 A,2 | d6 d2 d2 e2 | d2 B2 A4 A2 F2 |
-w: ど る ひ と | も か は | づ の な く | ね _ _ か _
+w: 1.~ス ミ フ カ | シ ハ ル | カ ゼ ソ ヨ | フ _ _ ソ _
+w: 2.~ど る ひ と | も か は | づ の な く | ね _ _ か _
 A6 B2 F2 F2 | E8 D2 E2 | F6 D2 F2 G2 | A2 d2 B4 A4 |
-w: ね の お と | も さ な | が ら か す | め _ _ お
+w: 1.~ラ ヲ ミ レ | バ ユ フ | ヅ キ カ カ | リ _ _ ニ
+w: 2.~ね の お と | も さ な | が ら か す | め _ _ お
 B6 F2 E2 E2 | D8 z4 |
-w: ぼ ろ づ き | よ
+w: 1.~ホ ヒ ア ハ | シ
+w: 2.~ぼ ろ づ き | よ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](oborozukiyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5KZmxqfnxafkliJLlWcmlicn1esxKWlpfBszvJnczqeLpmjoKXFpWirYGHBZW-r4MJlY6xvYgfSBwoBK4Vn0zY8375C4emG_qdrdzxbsPBx8-6nrWsgbIWnUzY-W9vzbOrMZ3MnvJzd9n5Px9MN3U937Hi-fOKTXVPAStcClT7dueX5lBXv93SC3fNkR8OzRXOftfY92dH5srlPAWj844YuUux53NANsmrJ8mdrFz_tbXyyqwdoA4QB9NL7PT3Ptyx6NnvHi5nzFQzMjUx1TQxhdudUAsMNGHxWCi9Xz3jZ3vdi34YnO0GGPZvW_rJ5xfM5jRAPQJwBsRasl0tfS8GWWoBLQUHBTiFa0c8_xDUWwtHSeto3H-Tmze0vVnS96GgHWvxi5bynrSuALtPSAods77P2ToUEUPLTyypIT3jUMBnEMQZzgJ6GGKBQoKdgbGAClDQ2MAWJ4oqQNWsUjM0VXi6bBvTf-z2zIM7QBTrk2exNTyf0guycBTFLAeKWlwsaXy7sed6063FDz-PGrseNex439UKS0OOGXqBVYNWmCs9WNL1YOwdZNTypAdUh7Hmxav-zhuUgr3b3AqMKbOHj5m6gMDBhAMWerp0A9LaLAjCegWIKwGSpABQFeWnPxhdbtysYQrhAx_c8mrlKAZyC4YY_n7oB7A-ww9t7XyxrfD5zz_P-fWBbns1ZA5SE-mr2NJATYNEPTInYUkAHMNyAVgET3uOGDgzPA53QgZyenuydAzT5cUPj000LQYKb5gHTPFAQaCnQkKfreoDR-nz2DqDrgG5_1jwf5B6kPIQcq53POhtetvZCwvTJjmUv585DMXRn94uJ04HR9Wx699N9oIScYKhgpFCjYKynYKJgqmAMZJoomAFZhiDDgNa9AEbHjPVP-5cBdQMjHxjgL6duRwrfpx1Lwc7sSDAG6zbUA5qnYaxgqgnkaJgqmGkCDYPaYKigYaRgGg-SMVbQhVjQ-LS_A5i2QFlx3VZg3D-fsuHJjrWPG9cBA_TF9vXAFPBs2h5oIlV41rP-aWM70PlP-7sgYqYKYH92P5_VBgwwUEprmvS4cf_jxoVAnY8bmsAxDMsyQC8AAxlYfIH5L_rnAJ39uHEVKKIa173o2vh86gKwyHqg4OPGDY8b5z9unAiWXf20demz6UvBsi2Pm4DxCYqZF9NawCJtjxtngpQ19UBNXtb9bMdCsNT-x039QHPAhsx8unEjSLCp5XHjPoilz1evh9gITiwNL-fMA3O7gYqBekHRuR2spXErUBCsZTrEimczlr5cBCwiwa5tAqoHIqB3gArmPm6CqO8HGvh85S6wGqAgMKyBLpwEdBvEYRAHA70JMfDpkqngshDoPKB3gNqXPm4E5Rawyd1gLy972tME1rv6ceNusNSmZ9sh3myCeqFxOkaY7-pBCvOX7aDM8bhx6uNGUPkODpx1z4HBuxfizd1g6yaBpZqeLV4Hdk8T0HZoHHWCUho4CsBua4LYpQBJNGApYJQB4w4SVtA0BDYEmiqggbAP6H2I4pVgke4nuyABtQnmMKjJL2YDYxYSI8BUAUwAIGNfbt6ClHL6X87fDOaCczzQtcB4nDADpgssCNQCVQMMRhTzwUEBdDAw3XYixz5YTSPQYfCyEKYdVJBAYgcY0eBkAzaK8loGChS09Lm4_JPyi_KrSrMzK_OtAjIT8_IdagxqFKpBFinYWGiBY1cBWxWnAMrLOxpeLOxR0ICWu9rAEgUYEc_XN-gowEoqTSw6gfaCTK1RMACWyCAMLVCALF1gCQIsUoA8YIECxCC-LqQUAUJQCWYaD-fqgjggPtg4H8MahXigGAg_bu4C4j6gysfN_WCVEJEJCo-b9oNEmzZCRbuB7CVgKx43r4KKTQKKLQPinWDRNVC7HjfPB-L1MNuMkGxrnArEK8DmQm1rXAfEu4G4GyTaOAki2tQExmDbmrqQVLYA-b1gUZAsRBxoW-MqoG34Y2BXDzgGSAx4SPiB6gHDOFDIxykYxYFIYIiCXWcGljcGBjeoQIdEDGZog8IS4q-dwJBZAsTzwCHWBw2vfqDMaqhvdyKFITC0gOIg0e3wsAWqbQaKwcMWFHLw8GkCxkgjON4aF0JtBInMh5jduBIqBozLxk3wmECEJEgcFG8E0nInOSEJDjRgygQHHzAQwSKQlAupZEEsXaAIJI2DUjMsJSMHJCiYQF7YA8R7gUEB9gIwoCCi68GikEQK9Wwz0KPgwFwDFp0AD0hgwgXqQw7IpUgJbRUQ94MDbS0iSYKDGkkMrBKYXTACEpTMCSbJp7Nnk58kDYG0CTjUwMGIPz2Cig6kQGxuhXppLThAoWkMnqvbwLkdEoizoWKgnL4InPqQUyMoTyMHYA_U3E5oWpoJVt2IlOpAeRmkcg9UrBcc7MCSG6yyA8XcWi4uXTsFpHI32scwVgFdyAgspMwFAA)]
-- [鋼琴伴奏 TMD 檔案](oborozukiyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqsSoCi8flp8SmJlehSxamJxfl5xUpcWloKz-Ysfzan4-mSOe_3dLycPfNZZ_fL7j3PJ2x5smfL06X97_d0KmhpcSnaKlhYcNnbKrhw2Rjrm9iBzAMFoZXCs2kbnm9fofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17ObgPa8HRD99MdO54vn_hk1xSw0rVApU93bnk-ZQXQKrA7n-xoeLZo7rPWvic7Ol829ykAjX_c0EWKPY8bukFWLVn-bO3ip72NT3b1AG2AMIBefb-n5_mWRc9m73gxc76CgbmRqa6JIczunEpgwAPD30rh5eoZL9v7Xuzb8GQnyLBn09pfNq94PqcR4gGIMyDWgvVy-SflF-VXlWZnVuZbBYAiJ8jDocagRqGaSwEIbCy07MAMfS0FW3Sg8HzNGqCnXyzsUdB4umfji63bFbQVTEBefb6-QUcBmCCN9bIK0jWx6NTSB5tao2CgoAvGxkBYo2AIZOkqGAHZpkCeqYIZEIP4ukCeMVjOEMgzjYdzdUEcEB9snI9hjUI8UAyEHzd3AXEfUOXj5n6wSojIBIXHTftBok0boaLdQPYSsBWPm1dBxSYBxZYB8U6w6BqoXY-b5wPxephtRki2NU4F4hVgc6G2Na4D4t1A3A0SbZwEEW1qAmOwbU1dSCpbgPxesChIFiIOtK1xFdA2_DGwqwccAyQGPCT8TIABbBgHCvk4BaM4EAkMUbDrzMDyxsDgNoJHDGZog8IS4q-dwJBZAsTzwCHWBw2vfqDMaqhvdyKFITC0gOIg0e3wsAWqbQaKwcMWFHLw8GkCxkgjON4aF0JtBInMh5jduBIqBozLxk3wmECEJEgcFG8E0nInOSEJDjRgygQHHzAQwSKQlGsKTtUgli5QBJLGQakZlpKRAxIUTCAv7AHivcCgAHsBGFAQ0fVgUUgihXq2GehRcGCuAYtOgAckMOEC9SEH5FKkhLYKiPvBgbYWkSTBQY0kBlYJzC4YAQlK5gST5NPZs8lPkoZA2gQcauBgxJ8eQUUHUiA2t0K9tBYcoNA0Bs_VbeDcDgnE2VAxUE5fBE59yKkRlKeRA7AHam4nNC3NBKtuREp1oLwMUrkHKtYLDvbHjZA83YFibi2WYtcHpdg1gRa7oAISBIE-jleINowF4xoFEyDHBMgxjQfxYFIoPKAeWPrEphO3McRoRJExjQfyQEZQZCUwTHTtFJCCJdoHKIMuZAQWUuYCAA)]
+- [主旋律 TMD 檔案](oborozukiyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5KZmxqfnxafkliJLlWcmlicn1esxKWlpfBszvJnczqeLpmjoKXFpWirYGHBZW-r4MJlY6xvYgfSBwoBK4Vn0zY8375C4emG_qdrdzxbsPBx8-6nrWsgbIWnUzY-W9vzbOrMZ3MnvJzd9n5Px9MN3U937Hi-fOKTXVPAStcClT7dueX5lBXv93SC3fNkR8OzRXOftfY92dH5srlPAWj844YuUux53NANsmrJ8mdrFz_tbXyyqwdoA4QB9NL7PT3Ptyx6NnvHi5nzFQzMjUx1TQxhdudUAsMNGHxWCi9Xz3jZ3vdi34YnO0GGPZvW_rJ5xfM5jRAPQJwBsRasl0tfS8GWWoBLQUHBTiFa0c8_xDUWwtHSeto3H-Tmze0vVnS96GgHWvxi5bynrSuALtPSAods77P2ToUEUPLTyypIT3jUMBnEMQZzgJ6GGKBQoKdgbGAClDQ2MAWJ4oqQNWsUjM0VXi6bBvTf-z2zIM7QBTrk2exNTyf0guycBTFLAeKWlwsaXy7sed6063FDz-PGrseNex439UKS0OOGXqBVYNWmCs9WNL1YOwdZNTypAdUh7Hmxav-zhuUgr3b3AqMKbOHj5m6gMDBhAMWerp0A9LaLAjCegWIKwGSpABQFeWnPxhdbtysYQrhAx_c8mrlKAZyC4YY_n7oB7A-ww9t7XyxrfD5zz_P-fWBbns1ZA5SE-mr2NJATYNEPTInYUkAHMNyAVgET3uOGDgzPA53QgZyenuydAzT5cUPj000LQYKb5gHTPFAQaCnQkKfreoDR-nz2DqDrgG5_1jwf5B6kPIQcq53POhtetvZCwvTJjmUv585DMXRn94uJ04HR9Wx699N9oIScYKhgpFCjYKynYKJgqmAMZJoomAFZhiDDgNa9AEbHjPVP-5cBdQMjHxjgL6duRwrfpx1Lwc7sSDAG6zbUA5qnYaxgqgnkaJgqmGkCDYPaYKigYaRgGg-SMVbQhVjQ-LS_A5i2QFlx3VZg3D-fsuHJjrWPG9cBA_TF9vXAFPBs2h5oIlV41rP-aWM70PlP-7sgYqYKYH92P5_VBgwwUEprmvS4cf_jxoVAnY8bmsAxDMsyQC8AAxlYfIH5L_rnAJ39uHEVKKIa173o2vh86gKwyHqg4OPGDY8b5z9unAiWXf20demz6UvBsi2Pm4DxCYqZF9NawCJtjxtngpQ19UBNXtb9bMdCsNT-x039QHPAhsx8unEjSLCp5XHjPoilz1evh9gITiwNL-fMA3O7gYqBekHRuR2spXErUBCsZTrEimczlr5cBCwiwa5tAqoHIqB3gArmPm6CqO8HGvh85S6wGqAgMKyBLpwEdBvEYRAHA70JMfDpkqngshDoPKB3gNqXPm4E5Rawyd1gLy972tME1rv6ceNusNSmZ9sh3myCeqFxOkaY7-pBCvOX7aDM8bhx6uNGUPkODpx1z4HBuxfizd1g6yaBpZqeLV4Hdk8T0HZoHHWCUho4CsBua4LYpQBJNGApYJQB4w4SVtA0BDYEmiqggbAP6H2I4pVgke4nuyABtQnmMKjJL2YDYxYSI8BUAUwAIGNfbt6ClHL6X87fDOaCczzQtcB4nDADpgssCNQCVQMMRhTzwUEBdDAw3XYixz5YTSPQYfCyEKYdVJBAYgcY0eBkAzaK8loGChS09Lm4_JPyi_KrSrMzK_OtAjIT8_IdagxqqkH2KNhYaIEjVwFbDacAyso7Gl4s7FHQgBa72sACBRgPz9c36CjACipNLDqB1oJMrVEwABbIIAgtT8BsIyDbFMgDlidADOLrQgoRIAQVYKbxcK4uiAPig43zMaxRiAeKgfDj5i4g7gOqfNzcD1YJEZmg8LhpP0i0aSNUtBvIXgK24nHzKqjYJKDYMiDeCRZdA7XrcfN8IF4Ps80IybbGqUC8Amwu1LbGdUC8G4i7QaKNkyCiTU1gDLatqQtJZQuQ3wsWBclCxIG2Na4C2oY_Bnb1gGOAxICHhB-oGjCMA4V8nIJRHIgEhijYdWbQaDECl-eQiMEMbVBYQvy1ExgyS4B4HjjE-qDh1Q-UWQ317U6kMASGFlAcJLodHrZAtc1AMXjYgkIOHj5NwBhpBMdb40KojSCR-RCzG1dCxYBx2bgJHhOIkASJg-KNQFruJCckwYEGTJng4AMGIlgEknIhdSyIpQsUgaRxUGqGpWTkgAQFE8gLe4B4LzAowF4ABhREdD1YFJJIoZ5tBnoUHJhrwKIT4AEJTLhAfcgBuRQpoa0C4n5woK1FJElwUCOJgVUCswtGQIKSOcEk-XT2bPKTpCGQNgGHGjgY8adHUPGBFIjNrVAvrQUHKDSNwXN1Gzi3QwJxNlQMlNMXgVMfcmoE5WnkAOyBmtsJTUszwaobkVIdKC-DVO6BivWCgx1YcINVdqCYW8vFpWungFTsKmBylbkA)]
+- [鋼琴伴奏 TMD 檔案](oborozukiyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqsSoCi8flp8SmJlehSxamJxfl5xUpcWloKz-Ysfzan4-mSOe_3dLycPfNZZ_fL7j3PJ2x5smfL06X97_d0KmhpcSnaKlhYcNnbKrhw2Rjrm9iBzAMFoZXCs2kbnm9fofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17ObgPa8HRD99MdO54vn_hk1xSw0rVApU93bnk-ZQXQKrA7n-xoeLZo7rPWvic7Ol829ykAjX_c0EWKPY8bukFWLVn-bO3ip72NT3b1AG2AMIBefb-n5_mWRc9m73gxc76CgbmRqa6JIczunEpgwAPD30rh5eoZL9v7Xuzb8GQnyLBn09pfNq94PqcR4gGIMyDWgvVy-SflF-VXlWZnVuZbBYAiJ8jDoUbXsKaaSwEIbCy07MAMfS0FW3Sg8HzNGqCnXyzsUdB4umfji63bFbQVTEBefb6-QUcBmCCN9bIK0jWx6NTSB5tao2CgoAuGxkBYo2AIZhsB2aZAnqmCGRCD-LpAnjFYzhDIM42Hc3VBHBAfbJyPYY1CPFAMhB83dwFxH1Dl4-Z-sEqIyASFx037QaJNG6Gi3UD2ErAVj5tXQcUmAcWWAfFOsOgaqF2Pm-cD8XqYbUZItjVOBeIVYHOhtjWuA-LdQNwNEm2cBBFtagJjsG1NXUgqW4D8XrAoSBYiDrStcRXQNvwxsKsHHAMkBjwk_EyAAWwYBwr5OAWjOBAJDFGw68yg0WIEhLCIwQxtUFhC_LUTGDJLgHgeOMT6oOHVD5RZDfXtTqQwBIYWUBwkuh0etkC1zUAxeNiCQg4ePk3AGGkEx1vjQqiNIJH5ELMbV0LFgHHZuAkeE4iQBImD4o1AWu4kJyTBgQZMmeDgAwYiWASSck3BqRrE0gWKQNI4KDXDUjJyQIKCCeSFPUC8FxgUYC8AAwoiuh4sCkmkUM82Az0KDsw1YNEJ8IAEJlygPuSAXIqU0FYBcT840NYikiQ4qJHEwCqB2QUjIEHJnGCSfDp7NvlJ0hBIm4BDDRyM-NMjqPhACsTmVqiX1oIDFJrG4Lm6DZzbIYE4GyoGyumLwKkPOTWC8jRyAPZAze2EpqWZYNWNSKkOlJdBKvdAxXrBwf64EZKnO1DMrcVS7PqgFLsm0GIXVECCINDH8QrRhrFgXKNgAuSYADmm8SAeTAqFB9QDS5_YdOI2hhiNKDKm8UAeyAiKrASGia6dAlKwRPsAZdCFjMBCylwA)]
 
 ## 分析
 
@@ -93,10 +104,10 @@ w: ぼ ろ づ き | よ
 🎼 Key & Tempo:    首調基準 D, != 88.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    A3 (MIDI 57) – E5 (MIDI 76) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
-   - 最低音:  A3 in [Oborozukiyo[L1] #1 @ m.4, 0:07]
-   - 最高音: E5 in [Oborozukiyo[L1] #1 @ m.7, 0:12]
+   - 最低音:  A3 in [Oborozukiyo #1 @ m.4, 0:07]
+   - 最高音: E5 in [Oborozukiyo #1 @ m.7, 0:12]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Oborozukiyo[L1] (34.8s) -> Oborozukiyo[L2] (34.8s)
+🏛  結構:      Oborozukiyo (34.8s) -> Oborozukiyo (34.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -106,8 +117,8 @@ w: ぼ ろ づ き | よ
    - 候選調性 (K-S): D 大調 (0.89), A 大調 (0.70), F# 小調 (0.67)
    - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Oborozukiyo[L1] #1]: D 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [Oborozukiyo[L2] #1]: D 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Oborozukiyo #1]: D 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Oborozukiyo #2]: D 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
