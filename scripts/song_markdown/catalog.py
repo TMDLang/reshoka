@@ -16,8 +16,8 @@ COLLECTIONS_ORDER: list[tuple[str, str]] = [
     ("taiwan_shuyu_shoka", "臺灣周遊唱歌（明治四十三年／1910）"),
     ("kogakko_shokashu_1915", "公學校唱歌集（大正四年／1915）"),
     ("shokacho", "楊金土手抄唱歌帖（大正十二年至昭和二年／1923–1927）"),
-    ("shintei_jido_shoka", "新定兒童唱歌（昭和五年／1930）"),
     ("taiwan_no_uta", "臺灣の歌（昭和四年／1929）"),
+    ("shintei_jido_shoka", "新定兒童唱歌（昭和五年／1930）"),
     ("kogakko_shoka", "公學校唱歌（昭和九年至昭和十七年／1934–1942）"),
     ("utanohon", "うたのほん（唱歌課本）（昭和十八年／1943）"),
 ]
@@ -42,6 +42,7 @@ VOLUME_TITLES: dict[str, str] = {
     "grade_3": "尋常科 第三學年用（臺史博 2020.006.0855）",
     "grade_4": "尋常科 第四學年用（國臺圖 0729 73）",
     "grade_5": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "grade_6": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
     "grade_1_2020.006.0847.0001": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
     "grade_2_2020.006.0847.0002": "尋常科 第二學年用（臺史博 2020.006.0847.0002）",
     "grade_3_2020.006.0847.0003": "尋常科 第三學年用（臺史博 2020.006.0847.0003）",
@@ -73,6 +74,7 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "grade_3": "第三學年用",
     "grade_4": "第四學年用",
     "grade_5": "第五學年用",
+    "grade_6": "第六學年用",
     "grade_1_2020.006.0847.0001": "尋常科 第一學年",
     "grade_2_2020.006.0847.0002": "尋常科 第二學年",
     "grade_3_2020.006.0847.0003": "尋常科 第三學年",
@@ -242,6 +244,16 @@ BOOK_INFO_IMAGE_DESCRIPTIONS: dict[str, dict[str, str]] = {
         "P005.jpg": "目次頁（「もくろく」，原書第 1 頁）：列出「一　金剛石・水はうつは」至「二〇　忍耐」共 20 首曲名與頁碼。",
         "P054.jpg": "卷末襯頁（原書缺封底版權頁），上貼國立臺灣圖書館條碼籤「3 1111 019458098」，右下蓋有原持有者「張氏素瑩」紅印及「中華民國壹佰零陸年拾壹月叁拾日採購 1366」館藏採購章。",
     },
+    "grade_6": {
+        "P001.jpg": "本冊封面（右頁），題「公學校唱歌　第六學年用　臺灣總督府」，下方繪有臺灣鳳梨與烏秋（大卷尾）飛翔圖案，左貼國立臺灣圖書館條碼籤「3 1111 019458106」，書脊下方貼索書號籤「TJ 523.37」。",
+        "P002.jpg": "封面裏（見返頁），右側有原持有者毛筆署名「六仁 劉継耀」。",
+        "P003.jpg": "扉頁，題「公學校唱歌　第六學年用　臺灣總督府」，左上鉛筆標註索書號「TJ 523.37 4322-4 1940 v.6」，右下蓋有「國立臺灣圖書館藏書章」。",
+        "P004.jpg": "扉頁裏留白頁。",
+        "P005.jpg": "目次頁（「もくろく」，原書第 1 頁）：列出「一　明治天皇御製」至「二〇　別れ」共 20 首曲名與頁碼。",
+        "P068.jpg": "卷末襯頁，上欄有原持有者手抄〈鐵道唱歌〉東海道篇名古屋至琵琶湖五節歌詞，下方貼國立臺灣圖書館條碼籤「3 1111 019458106」，右側蓋有「中華民國壹佰零陸年拾壹月叁拾日採購 1420」館藏採購章。",
+        "P069.jpg": "封底裏版權頁：標明「昭和十年三月五日第一版發行、昭和十五年一月十二日第七版印刷、昭和十五年一月十五日第七版發行」、「公學校唱歌 第六學年用 定價金八錢」、「著作權所有　著作兼發行者 臺灣總督府」、「印刷者 臺北市福住町二番地 鑓水索衞」、「印刷所 臺北市福住町五番地 印刷工場」，左上印有臺灣總督府檢定證印。",
+        "P070.jpg": "封底外頁，右下有原持有者毛筆署名「六ノ一 劉継耀」及索書號籤「1940 v.6」。",
+    },
 }
 
 TAIWAN_SHUYU_SHOKA_NOTE = (
@@ -356,6 +368,15 @@ KOGAKKO_SHOKA_GRADE_5_NOTE = (
     "以及四部輪唱**〈一七　船子〉**、**〈一六　敵は幾萬〉**（山田美妙作詞・小山作之助作曲）等曲。"
 )
 
+KOGAKKO_SHOKA_GRADE_6_NOTE = (
+    "國立臺灣圖書館「日治時期圖書影像系統」典藏號 **`jpli2026-bk-ccl_523_37_4322_4_1940_v6_1940`**（索書號 **`523.37 4322-4`** v.6，原持有者署名：「六仁／六ノ一 劉継耀」）。"
+    "昭和 10 年（1935 年）3 月 5 日第一版發行、昭和 15 年（1940 年）1 月 15 日第七版發行，臺灣總督府著作兼發行、臺北市福住町鑓水索衞印刷工場印行。"
+    "全冊共收錄 20 首曲目，包含詠唱臺灣深山白花蝴蝶蘭之**〈三　胡蝶蘭〉**、描寫村莊外圍苦楝樹（栴檀）四季景色與盛夏捕蟬學童之**〈一八　せんだん並木〉**等臺灣地方風物教材，"
+    "並收錄二部合唱曲**〈五　雨上り〉**、**〈八　航海〉**、**〈九　軍艦〉**（鳥山啓作詞・山田源一郎作曲）、**〈一三　埴生の宿〉**（里見義作詞・Bishop 作曲）、"
+    "**〈一五　樂しき我が家〉**、**〈一七　曉景〉**、**〈一九　我等の村〉**（文部省唱歌，同《新定兒童唱歌》〈平和なる村〉）與畢業惜別曲**〈二〇　別れ〉**，"
+    "以及**〈一一　にぎみたま〉**（芝葛鎮作曲）、**〈一二　水師營の會見〉**（佐佐木信綱作詞・岡野貞一作曲）、**〈六　婦人從軍歌〉**（加藤義清作詞・奧好義作曲）等曲。"
+)
+
 UTANOHON_GE_NOTE = (
     "國立臺灣歷史博物館典藏號 **`2006.006.0878`**（原持有者署名：「新化國民學校 二年忠組 蔡氏美月」）。"
     "昭和 18 年（1943 年）3 月 28 日翻刻發行、4 月 1 日發行，臺灣總督府著作兼發行、臺灣書籍株式會社印行，"
@@ -432,9 +453,7 @@ BOOK_INFO_EXTRA_SECTIONS: dict[str, str] = {
         + "\n---\n\n## 卷首原書掃描頁（P001–P007）\n"
     ),
     "taiwan_shuyu_shoka": (
-        "\n"
-        + TAIWAN_SHUYU_SHOKA_BOOK_INFO_EXTRA
-        + "\n---\n\n## 卷首與卷末原書掃描頁\n"
+        "\n" + TAIWAN_SHUYU_SHOKA_BOOK_INFO_EXTRA + "\n---\n\n## 卷首與卷末原書掃描頁\n"
     ),
     "taiwan_no_uta": (
         "\n"
@@ -451,6 +470,7 @@ VOLUME_BLOCKQUOTES: dict[tuple[str, str], str] = {
     ("kogakko_shoka", "grade_2"): KOGAKKO_SHOKA_GRADE_2_NOTE,
     ("kogakko_shoka", "grade_4"): KOGAKKO_SHOKA_GRADE_4_NOTE,
     ("kogakko_shoka", "grade_5"): KOGAKKO_SHOKA_GRADE_5_NOTE,
+    ("kogakko_shoka", "grade_6"): KOGAKKO_SHOKA_GRADE_6_NOTE,
     ("utanohon", "ge_2006.006.0878"): UTANOHON_GE_NOTE,
 }
 for _vol, _note in SHOKACHO_VOL_NOTES.items():
@@ -483,6 +503,7 @@ VOLUME_EXTRA_LINKS: dict[tuple[str, str], list[tuple[str, str]]] = {
     ("kogakko_shoka", "grade_3"): [_KOGAKKO_LYRICS_CONTEST_LINK],
     ("kogakko_shoka", "grade_4"): [_KOGAKKO_LYRICS_CONTEST_LINK],
     ("kogakko_shoka", "grade_5"): [_KOGAKKO_LYRICS_CONTEST_LINK],
+    ("kogakko_shoka", "grade_6"): [_KOGAKKO_LYRICS_CONTEST_LINK],
     ("utanohon", "ge_2006.006.0878"): [_UTANOHON_LYRICS_CONTEST_LINK],
     **{
         ("shokacho", _vol): (
@@ -558,9 +579,15 @@ KOTO_SPECIAL_SECTIONS: dict[tuple[str, str], str] = {
 }
 
 FLAT_NUMBER_FORMATTERS: dict[str, Callable[[str, list[str]], str]] = {
-    "kogakko_shoka": lambda _, parts: f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0],
-    "utanohon": lambda _, parts: f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0],
-    "kyoeki_shoka": lambda _, parts: f"第 {int(parts[0])} 曲" if parts[0].isdigit() else parts[0],
+    "kogakko_shoka": lambda _, parts: (
+        f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
+    ),
+    "utanohon": lambda _, parts: (
+        f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
+    ),
+    "kyoeki_shoka": lambda _, parts: (
+        f"第 {int(parts[0])} 曲" if parts[0].isdigit() else parts[0]
+    ),
     "taiwan_shuyu_shoka": lambda _, parts: (
         "簡單版（第 1–4 節）"
         if parts[0] == "1"

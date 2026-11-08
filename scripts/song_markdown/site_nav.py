@@ -17,7 +17,7 @@ from .utils import AmbiguousMainTmdError, choose_main_tmd, natural_sort_key
 from .volume_page import generate_volume_index
 
 MKDOCS_CONFIG_HEADER: list[str] = [
-    "site_name: Re:shoka — 日治時期臺灣公學校與小學校唱歌教材數位重建計畫",
+    "site_name: Re:shoka — 日治時期唱歌教材數位重建計畫",
     "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 23 冊、795 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
     "site_author: TMD Contributors",
     "site_url: https://tmdlang.github.io/reshoka/",
@@ -118,10 +118,14 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
 def _format_song_nav_prefix(col_slug: str, folder_name: str) -> str:
     parts = folder_name.split("_")
     if col_slug == "shokacho":
-        return parts[1].upper() if folder_name.startswith("0844_p") else parts[0].upper()
+        return (
+            parts[1].upper() if folder_name.startswith("0844_p") else parts[0].upper()
+        )
     digit_parts = [p for p in parts[:3] if p.isdigit()]
     if len(digit_parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
-        return "-".join(parts[:3] if len(parts) >= 4 and parts[2].isdigit() else parts[:2])
+        return "-".join(
+            parts[:3] if len(parts) >= 4 and parts[2].isdigit() else parts[:2]
+        )
     return parts[0]
 
 
@@ -209,7 +213,9 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             )
             nav_lines.append(f"      - 總覽: {col_slug}/index.md")
             if (col_dir / "0_book_info" / "index.md").exists():
-                nav_lines.append(f"      - 書訊與掃描頁: {col_slug}/0_book_info/index.md")
+                nav_lines.append(
+                    f"      - 書訊與掃描頁: {col_slug}/0_book_info/index.md"
+                )
             for sdir in song_dirs:
                 main_tmd = choose_main_tmd(sdir)
                 title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
@@ -220,11 +226,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             continue
 
         vol_dirs = sorted(
-            (
-                d
-                for d in col_dir.iterdir()
-                if d.is_dir() and d.name in VOLUME_TITLES
-            ),
+            (d for d in col_dir.iterdir() if d.is_dir() and d.name in VOLUME_TITLES),
             key=lambda d: natural_sort_key(d.name),
         )
         for vol_dir in vol_dirs:
@@ -263,9 +265,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                 )
         home_lines.append("")
 
-    if (
-        docs_dir / "recreations" / "kogakko_shoka_grade3_suite" / "index.md"
-    ).exists():
+    if (docs_dir / "recreations" / "kogakko_shoka_grade3_suite" / "index.md").exists():
         nav_lines.extend(
             [
                 '  - "重新創作":',
