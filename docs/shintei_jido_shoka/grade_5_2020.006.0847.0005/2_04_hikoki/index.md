@@ -14,7 +14,9 @@ audio: "hikoki.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="hikoki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hikoki_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="hikoki.mp3"></audio>
+
 
 - 松岸寬一 作詞
 - 永井幸次 作曲
@@ -26,16 +28,6 @@ audio: "hikoki.mp3"
 調性與拍號：と長調二分之二拍子（G 大調 2/4 拍），早ク（步調ニ合セテ）
 作詞：松岸寬一　作曲：永井幸次
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第一學年〈ヒカウキ〉為同曲；《うたのほん》下卷〈ひかうき〉與《新定兒童唱歌》第五學年〈飛行機〉為同名異曲）
-
-- **[同名異曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈ヒカウキ（飛機）〉**](../../../kogakko_shoka/grade_1/12_hikoki/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_1/12_hikoki/hikoki.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ヒカウキ（飛機）〉**](../../grade_1_2020.006.0847.0001/3_04_hikoki/index.md)（`F` / `2/4` — [原始 TMD](../../grade_1_2020.006.0847.0001/3_04_hikoki/hikoki.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈飛行機〉**](../../../shoka_kyozai_shu_1923/grade_3_4/50_hikoki/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/50_hikoki/hikoki.tmd)）
-- **[同名異曲]** 《うたのほん》（唱歌課本）下卷（2006.006.0878）：[**〈ひかうき（飛機）〉**](../../../utanohon/ge_2006.006.0878/10_hikoki/index.md)（`C` / `2/4` — [原始 TMD](../../../utanohon/ge_2006.006.0878/10_hikoki/hikoki.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

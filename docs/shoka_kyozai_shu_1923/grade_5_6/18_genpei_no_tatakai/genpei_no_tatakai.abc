@@ -2,9 +2,49 @@ X:1
 T:源平の戰
 M:2/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=114
+K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+A,3 D D4 | D3 F F2 F2 | A3 A A2 B2 | A6 z2 |
+w: ゲ ン ジ | ヘ イ ケ ノ | タ タ カ ヒ | ハ
+d3 d A2 A2 | F3 F D2 D2 | E3 E E2 E2 | A,6 z2 |
+w: マ ヅ テ ハ | ジ メ ハ _ | フ ジ ガ ハ | ヨ
+D3 D D2 D2 | D3 C A,2 A,2 | E3 E E2 E2 | E6 z2 |
+w: ヘ イ ケ ノ | グ ン ゼ イ | ゴ マ ン ヨ | キ
+F3 F F2 F2 | F3 E D2 D2 | A3 A A2 A2 | A6 z2 |
+w: ヨ ハ ノ _ | ネ ザ メ ノ | ミ ヅ ト リ | ノ
+F3 A d2 d2 | c3 B A2 A2 | B3 B B2 B2 | A6 z2 |
+w: ト ビ タ ツ | オ ト ニ _ | オ ド ロ キ | テ
+B3 B A2 A2 | F3 F A2 A2 | D3 D F2 E2 | D6 z2 |
+w: エ モ ノ ヲ | ス テ テ _ | ニ ゲ カ ヘ | ル
+d3 d A2 A2 | F3 F D2 D2 | E3 E E2 E2 | A,6 z2 |
+w: つ ぎ は _ | ゑ つ ちゆ う | と な み や | ま
+D3 D D2 D2 | D3 C A,2 A,2 | E3 E E2 E2 | E6 z2 |
+w: よ し な か | う し を _ | か り あ つ | め
+F3 F F2 F2 | F3 E D2 D2 | A3 A A2 A2 | A6 z2 |
+w: た い ま つ | つ の に _ | む す び つ | け
+F3 A d2 d2 | c3 B A2 A2 | B3 B B2 B2 | A6 z2 |
+w: へ い け の | ぐ ん に _ | け し か け | て
+B3 B A2 A2 | F3 F A2 A2 | D3 D F2 E2 | D6 z2 |
+w: く り か ら | だ に に _ | お ひ お と | す
+d3 d A2 A2 | F3 F D2 D2 | E3 E E2 E2 | A,6 z2 |
+w: ツ ギ ハ _ | セ ツ ツ ノ | イ チ ノ タ | ニ
+D3 D D2 D2 | D3 C A,2 A,2 | E3 E E2 E2 | E6 z2 |
+w: ヒ ヨ ド リ | ゴ ヱ ノ _ | サ カ オ ト | シ
+F3 F F2 F2 | F3 E D2 D2 | A3 A A2 A2 | A6 z2 |
+w: ヘ イ ケ ハ | ニ シ ニ _ | ノ ガ レ ユ | ク
+F3 A d2 d2 | c3 B A2 A2 | B3 B B2 B2 | A6 z2 |
+w: ク マ ガ ヤ | ジ ラ ウ _ | ナ ホ ザ ネ | ガ
+B3 B A2 A2 | F3 F A2 A2 | D3 D F2 E2 | D6 z2 |
+w: ア ツ モ リ | ウ チ シ ハ | コ ノ ト キ | ゾ
+d3 d A2 A2 | F3 F D2 D2 | E3 E E2 E2 | A,6 z2 |
+w: つ ぎ は _ | さ ぬ き の | や し ま う | ら
+D3 D D2 D2 | D3 C A,2 A,2 | E3 E E2 E2 | E6 z2 |
+w: り く と _ | う み と の | た た か ひ | に
+F3 F F2 F2 | F3 E D2 D2 | A3 A A2 A2 | A6 z2 |
+w: か げ き よ | し こ ろ を | ひ き ち ぎ | り
+F3 A d2 d2 | c3 B A2 A2 | B3 B B2 B2 | A6 z2 |
+w: な す の _ | よ い ち _ | む ね た か | は
+B3 B A2 A2 | F3 F A2 A2 | D3 D F2 E2 | D6 z2 |
+w: あ ふ ぎ の | ま と を _ | い た り け | り

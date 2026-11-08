@@ -25,13 +25,6 @@ audio: "tansuigawa.mp3"
 調性與拍號：變ホ長調（3 降記號）、6/8 拍（♪=126，折合附點四分音符 ♩.=63）
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
-
-- **[同曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈淡水河〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/2_2_09_tansuigawa/index.md)（`E,` / `6/8` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/2_2_09_tansuigawa/tansuigawa.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

@@ -4,26 +4,37 @@
 ~ "tag: source:school_textbook"
 ~ "tag: source_page:P160"
 ~ "tag: provenance:printed_text"
-~ "tag: evidence:editorial"
+~ "tag: evidence:scan_verified"
 ~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
 ~ "tag: arrangement:piano_accompaniment"
 ** 花賣少女（雙手鋼琴伴奏） **
 != 96
-?= C
+?= B,
 <2/4>
+~ "book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）"
 ~ "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+~ "尋常科第三、四學年用（第 152–153 頁）"
 
-/* 待對照 P160.jpg–P161.jpg（原書 p. 152–153）轉錄校對 */
+HanauriShojo:PianoRH@|0|{
+    <8*>
+    /* ================= 第一行 (4 小節, P161.jpg) ================= */
+    | 1^ 1^ 2^ 3^ | 1^ 1^ 7 5 | 1^ 1^ 2^ 3^ | 1^ 1^ 7 5 |
+    L1| は な う り | を と め の | か は い い | う り ご ゑ |
+    L2| か ほ り も | す ぐ れ た | き れ い な | く さ ば な |
+    L3| は な よ り | き れ い な | ち ら な い | か れ な い |
 
-RightHand:Piano@|0| {
-    <4*>
-    | 1+3 2+4 | 3+5 5+1^ | 5+1^ 3+5 | 2+4 1+3 | 2+4 3+5 | 5+1^ 3+5 | 2+4 7_+2 | 1+3 0 |
+    /* ================= 第二行 (4 小節, P161.jpg) ================= */
+    | 1^ 1^ 2^ 3^ | 4^ 3^ 2^ 1^ | 7 5 6 7 | 1^ - 1^ 0 |
+    L1| あ れ ま た | や さ し く | な が れ て | く - る _ |
+    L2| あ れ あ れ | こ て ふ も | し た つ て | ゐ - る _ |
+    L3| は な う り | を と め の | こ こ ろ の | は - な _ |
 }
 
-LeftHand:Piano@|0| {
+HanauriShojo:PianoLH@|0|{
     <4*>
-    | 1_ 5_ | 1_ 3_ | 5_ 1_ | 5_ 1_ | 5_ 1_ | 3_ 1_ | 5_ 5__ | 1_ 0 |
+    | 1 [1] | 1 [5_] | 1 [1] | 1 [5_] |
+    | 1 [1] | 2 [4] | 5_ [5_] | 1 0 |
 }
 
--> RightHand -> #
--> LeftHand -> #
+-> HanauriShojo[L1] -> HanauriShojo[L2] -> HanauriShojo[L3] -> #

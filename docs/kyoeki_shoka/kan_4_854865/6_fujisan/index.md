@@ -30,16 +30,6 @@ audio: "fujisan.mp3"
 原典語釋：けだかき（上品な）。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》第三學年、《公學校唱歌集》與《新定兒童唱歌》第二學年為文部省『尋常小學唱歌』「あたまを雲の上に出し…」同曲；《公學校唱歌》第二學年〈フヂサン〉為低學年別曲）
-
-- **[同名異曲]** 《公學校唱歌》第二學年用（昭和11年／1936）：[**〈フジサン（富士山）〉**](../../../kogakko_shoka/grade_2/8_fujisan/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_2/8_fujisan/fujisan.tmd)）
-- **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈富士山〉**](../../../kogakko_shokashu_1915/5_02_fujisan/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_02_fujisan/fujisan.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈ふじ山〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_14_fujisan/index.md)（`D` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/4_14_fujisan/fujisan.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈富士山〉**](../../../shoka_kyozai_shu_1923/grade_3_4/07_fujisan/index.md)（`D` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/07_fujisan/fujisan.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

@@ -27,13 +27,6 @@ Marginal notes: 14. / 三年 / 富原義徳詩 / 蓬 49頁
 Key: ヘ調 (F major / D minor), Time: 3/4
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（〈初鶯〉；收錄於《新定兒童唱歌》五年級與《唱歌帖》P241《蓬萊唱歌集》抄譜）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈初鶯〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md)（`F` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/hatsu_uguisu.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

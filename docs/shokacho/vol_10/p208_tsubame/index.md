@@ -25,16 +25,6 @@ Source: 唱歌帖 (2020.006.0843), P208.jpg
 Marginalia: 302頁. 2.1.29. (昭和2年1月29日)
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》第三學年與《公學校唱歌集》為文部省『尋常小學唱歌』〈燕〉同曲；《新定兒童唱歌》六年級、高女用及《唱歌帖》P208、P245 為同名異曲）
-
-- **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈つばめ〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_05_tsubame/index.md)（`E,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_05_tsubame/tsubame.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈燕〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_5_02_tsubame/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_5_02_tsubame/tsubame.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈燕〉**](../../../shoka_kyozai_shu_1923/grade_5_6/36_tsubame/index.md)（`F` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/36_tsubame/tsubame.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈つばめ（燕子）〉**](../../vol_07/p245_tsubame/index.md)（`G` / `4/4` — [原始 TMD](../../vol_07/p245_tsubame/tsubame.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

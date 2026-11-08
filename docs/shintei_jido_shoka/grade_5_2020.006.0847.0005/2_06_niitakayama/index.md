@@ -14,7 +14,9 @@ audio: "niitakayama.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="niitakayama.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="niitakayama_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="niitakayama.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -23,15 +25,6 @@ audio: "niitakayama.mp3"
 原書資訊與歌詞全文（對應 P043.jpg，書頁 p. 20，第二學期第 6 首）：
 調性與拍號：は長調四分之四拍子（C 大調 4/4 拍），♩= 120
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第五學年〈新高山〉為同曲；《唱歌帖》P202 為 1915 年《小公學校唱歌教材集》3/4 拍同名異曲）
-
-- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈新高山〉**](../../../kogakko_shoka/grade_5/14_niitakayama/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/14_niitakayama/niitakayama.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈新高山〉**](../../../shoka_kyozai_shu_1923/koto_1_2/17_niitakayama/index.md)（`C` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/17_niitakayama/niitakayama.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈新高山 (新高山／玉山)〉**](../../../shokacho/vol_10/p202_niitakayama/index.md)（`C` / `3/4` — [原始 TMD](../../../shokacho/vol_10/p202_niitakayama/niitakayama.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

@@ -28,15 +28,6 @@ audio: "hanasaka_jijii.mp3"
 調性與拍號：ト調二拍子（G 大調 2/4 拍），「オモシロク」
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌集》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》跨冊對照曲目）
-
-- **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈花咲爺〉**](../../../kogakko_shokashu_1915/3_07_hanasaka_jijii/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/3_07_hanasaka_jijii/hanasaka_jijii.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈花咲爺〉**](../../../shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii/index.md)（`G` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii/hanasaka_jijii.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈花咲爺〉**](../../../shoka_kyozai_shu_1923/grade_3_4/09_hanasaka_jijii/index.md)（`D` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/09_hanasaka_jijii/hanasaka_jijii.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

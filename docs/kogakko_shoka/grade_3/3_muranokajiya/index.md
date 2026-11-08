@@ -40,14 +40,6 @@ audio: "muranokajiya.mp3"
 左手 (PianoLH) 採用八分音符規律交替之低音與和弦（`1_ [1] 5_ [1]`），宛如鐵砧上不曾停歇的打鐵聲響。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（文部省『尋常小學唱歌』〈村の鍛冶屋〉；《公學校唱歌》與《新定兒童唱歌》第三學年共用教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈村のかぢや〉**](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/1_04_mura_no_kajiya/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/1_04_mura_no_kajiya/mura_no_kajiya.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈村の鍛冶屋〉**](../../../shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/mura_no_kajiya.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

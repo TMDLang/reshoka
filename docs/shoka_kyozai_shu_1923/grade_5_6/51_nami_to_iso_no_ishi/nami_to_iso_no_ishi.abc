@@ -4,11 +4,29 @@ M:3/4
 L:1/16
 Q:1/4=100
 K:Bb
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-F3 G F8 | d3 e f8 | B3 c d2 g6 | f8 z4 |
-G3 A b8 | f3 g f8 | d3 e d2 c6 | B8 z4 |
-c2 c2 c8 | f2 f2 f8 | A2 A2 A8 | c'2 c'2 c'4 ^c'4 |
-d'3 e' d'8 | b3 c' b8 | g3 a g2 g6 | d8 z4 |
-G3 A G8 | d3 e d8 | b3 b a2 c'6 | b8 a4 |
-G3 A b8 | f3 g f8 | d3 e d2 c6 | B8 z4 |
+!mf! f6 g2 f4 | d6 e2 d4 | B6 c2 d2 g2 | f8 z4 |
+w: ウ ネ リ | ウ ネ リ | ア ラ イ ソ | ニ
+g6 a2 b4 | f6 g2 f4 | d6 e2 d2 c2 | B8 z4 |
+w: タ カ キ | ナ ミ ノ | コ ヱ ヲ キ | ケ
+c2 c2 c8 | f2 f2 f8 | a2 a2 a8 | c'2 c'2 c'4 ^c'4 |
+w: ダ ウ _ | ダ ウ _ | ダ ウ _ | ダ ウ _ _
+d'6 e'2 d'4 | b6 c'2 b4 | g6 a2 g2 g2 | d8 z4 |
+w: ヨ セ テ | ヨ セ テ | タ ダ ク ダ | ケ
+g6 a2 g4 | d6 e2 d4 | b6 b2 a2 c'2 | b8 a4 |
+w: ナ ミ ハ | チ リ テ | カ へ ル カ | ナ _
+g6 a2 b4 | f6 g2 f4 | d6 e2 d2 c2 | B8 z4 |
+w: サ レ ド | ナ ミ ハ | イ キ テ ア | リ
+!mf! f6 g2 f4 | d6 e2 d4 | B6 c2 d2 g2 | f8 z4 |
+w: か へ る | な み に | ひ か れ ゆ | く
+g6 a2 b4 | f6 g2 f4 | d6 e2 d2 c2 | B8 z4 |
+w: ま る き | い し の | う た を き | け
+c2 c2 c8 | f2 f2 f8 | a2 a2 a8 | c'2 c'2 c'4 ^c'4 |
+w: か ら ら | か ら ら | こ ろ ろ | こ ろ ろ _
+d'6 e'2 d'4 | b6 c'2 b4 | g6 a2 g2 g2 | d8 z4 |
+w: い し と | い し は | あ ひ う ち | て
+g6 a2 g4 | d6 e2 d4 | b6 b2 a2 c'2 | b8 a4 |
+w: な に の | う た を | う た ふ か | や _
+g6 a2 b4 | f6 g2 f4 | d6 e2 d2 c2 | B8 z4 |
+w: い そ の | い し は | い き て あ | り

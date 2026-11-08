@@ -28,13 +28,6 @@ audio: "yasukuni_jinja.mp3"
 註記：單聲部，二節分節歌，共十二小節。開頭 mf，第二段（第四小節第六拍弱起）mf，第六小節第六拍弱起 mp。第一、九小節第五拍出現升 G4（#5，TMD 記為 5'）。原譜於第二、六、十小節第五拍後印有換氣記號「V」。右頁僅印歌詞，未附演奏注意與語釋。
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈靖國神社〉**](../../../kogakko_shoka/grade_4/1_yasukuni_jinja/index.md)（`G` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_4/1_yasukuni_jinja/yasukuni_jinja.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

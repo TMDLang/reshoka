@@ -28,13 +28,6 @@ audio: "gakutai_asobi.mp3"
 中文解釋：孩子模仿樂隊演奏，在遊戲中吹奏、行進與歡唱。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
-
-- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈樂隊遊び〉**](../../../shoka_kyozai_shu_1923/grade_1_2/15_gakutai_asobi/index.md)（`D` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/15_gakutai_asobi/gakutai_asobi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

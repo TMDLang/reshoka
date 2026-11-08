@@ -2,9 +2,23 @@ X:1
 T:かくれんぼ
 M:2/4
 L:1/16
-Q:1/4=96
+Q:1/4=88
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+C4 D2 E2 | C3 C D2 E2 | G2 A G E2 G2 | c6 z2 |
+w: カ ホ ニ | リヤ ウ テ ヲ | ア テ _ ナ ガ | ラ
+d4 c2 d2 | c2 G2 E2 G2 | A2 G2 E2 C2 | C6 z2 |
+w: エ ン ニ | ウ ツ ブ シ | モ ウ イ イ | カ
+C4 D2 E2 | C3 C D2 E2 | D3 D G2 G2 | A2 A A G2 z2 |
+w: ワ ラ ヒ | シ ノ ン デ | ヌ キ ア シ | サ シ ア シ
+F3 F E4 | G3 G c2 c2 | d2 d2 e3 d | c6 z2 |
+w: ソ ツ ト | カ ク レ テ | モ ウ イ イ | ヨ
+C4 D2 E2 | C3 C D2 E2 | G2 A G E2 G2 | c6 z2 |
+w: こ ゑ の | あ た り へ | は し _ り よ | り
+d4 c2 d2 | c2 G2 E2 G2 | A2 G2 E2 C2 | C6 z2 |
+w: こ こ か | そ こ か と | さ が せ ど | も
+C4 D2 E2 | C3 C D2 E2 | D3 D G2 G2 | A2 A A G2 z2 |
+w: ど こ に | ゐ る の か | あ り か が | し れ ね ば
+F3 F E4 | G3 G c2 c2 | d2 d2 e3 d | c6 z2 |
+w: あ た り | み ま わ し | も う い い | か

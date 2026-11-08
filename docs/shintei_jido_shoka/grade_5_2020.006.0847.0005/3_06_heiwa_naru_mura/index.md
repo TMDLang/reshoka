@@ -14,7 +14,9 @@ audio: "heiwa_naru_mura.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="heiwa_naru_mura.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="heiwa_naru_mura_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="heiwa_naru_mura.mp3"></audio>
+
 
 - 三木露風 作詞
 - 山田耕作 作曲

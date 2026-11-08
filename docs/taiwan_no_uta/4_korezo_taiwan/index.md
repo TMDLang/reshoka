@@ -34,13 +34,6 @@ audio: "korezo_taiwan.mp3"
 - 依原譜 3/4 拍莊重開闊之三樂句結構編配 4 小節前奏與雙手鋼琴伴奏。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《新定兒童唱歌》、《臺灣の歌》共同收錄教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈これぞ臺灣〉**](../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan/index.md)（`G` / `3/4` — [原始 TMD](../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan/korezo_taiwan.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

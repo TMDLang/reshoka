@@ -14,7 +14,9 @@ audio: "teiseiko.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="teiseiko.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="teiseiko_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="teiseiko.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -23,15 +25,6 @@ audio: "teiseiko.mp3"
 原書資訊與歌詞全文（對應 P062.jpg – P063.jpg，書頁 pp. 39–40，參考教材第 6 首）：
 調性與拍號：と長調四分之二拍子（G 大調 2/4 拍），♩= 108
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（〈鄭成功〉；收錄於《公學校唱歌》第五學年、《新定兒童唱歌》第五學年與《唱歌帖》P217《小公學校唱歌教材集》簡譜草稿）
-
-- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈鄭成功〉**](../../../kogakko_shoka/grade_5/10_teiseiko/index.md)（`G` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_5/10_teiseiko/teiseiko.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈鄭成功〉**](../../../shoka_kyozai_shu_1923/grade_5_6/09_teiseiko/index.md)（`G` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/09_teiseiko/teiseiko.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈鄭成功 (鄭成功 - 未完成草稿)〉**](../../../shokacho/vol_10/p217_teiseiko/index.md)（`G` / `2/4` — [原始 TMD](../../../shokacho/vol_10/p217_teiseiko/teiseiko.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

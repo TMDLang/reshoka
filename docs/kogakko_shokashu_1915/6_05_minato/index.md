@@ -14,7 +14,9 @@ audio: "minato.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="minato.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="minato_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="minato.mp3"></audio>
+
 
 - 文部省《尋常小學唱歌》
 - 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）
@@ -24,14 +26,6 @@ audio: "minato.mp3"
 原書資訊與歌詞全文（對應 P100.jpg–P101.jpg，第六學年 pp. 94–95）：
 調性與拍號：ニ調（D 大調）2/4 拍，速度 ♩=66
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌集》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》跨冊對照曲目）
-
-- **[同名異曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈港〉**](../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/index.md)（`C` / `3/4` — [原始 TMD](../../shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/minato.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈港〉**](../../shoka_kyozai_shu_1923/grade_5_6/15_minato/index.md)（`C` / `3/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_5_6/15_minato/minato.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 
 ## 歌詞
 

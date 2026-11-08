@@ -27,13 +27,6 @@ audio: "shoka_no_yoru.mp3"
 調性與拍號：ロ變長調（Bb 大調）4/4 拍，速度 ♩=76
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》、《新定兒童唱歌》共同收錄教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈初夏の夜〉**](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/1_05_shoka_no_yoru/index.md)（`B,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/1_05_shoka_no_yoru/shoka_no_yoru.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

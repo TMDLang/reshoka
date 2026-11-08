@@ -1,12 +1,25 @@
 X:1
 T:妙義山
+C:曲：文部省《尋常小學唱歌》
 M:3/4
 L:1/16
 Q:1/4=132
 K:D
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-A4 A4 A3 F | B2 A2 A4 F4 | D4 E4 F3 A | E8 z4 |
-A4 A4 A3 F | A2 d2 d4 c4 | B4 c4 B3 A | A8 z4 |
-D4 D4 E2 F2 | E2 D2 E4 A,4 | D4 E4 F3 A | E8 z4 |
-D2 E2 F4 B4 | A2 G2 A4 D4 | G2 F2 E4 A4 | D8 z4 |
+!mf! A2 A2 A6 F2 | B2 A2 A4 F4 | D2 E2 F6 A2 | E8 z4 |
+w: が が た る | い _ は ほ | つ ら な り | て
+A2 A2 A6 F2 | A2 d2 d4 c4 | B2 c2 B6 A2 | A8 z4 |
+w: こ く う に | そ ば だ つ | め う ぎ さ | ん
+!mp! D2 D2 E4 F4 | E2 D2 E4 A,4 | D2 E2 F6 A2 | E8 z4 |
+w: な つ き て | き _ け ば | ホ ト ト ギ | ス
+!mf! D2 E2 F4 B4 | A2 G2 A4 D4 | G2 F2 E4 A4 | D8 z4 |
+w: ふ も と の | わ か ば の | か げ に な | く
+!mf! A2 A2 A6 F2 | B2 A2 A4 F4 | D2 E2 F6 A2 | E8 z4 |
+w: せ き も ん | た _ か く | し ら く も | の
+A2 A2 A6 F2 | A2 d2 d4 c4 | B2 c2 B6 A2 | A8 z4 |
+w: た え ま に | ひ ら く る | め う ぎ さ | ん
+!mp! D2 D2 E4 F4 | E2 D2 E4 A,4 | D2 E2 F6 A2 | E8 z4 |
+w: ふ ゆ き て | み _ れ ば | ふ る ゆ き | に
+!mf! D2 E2 F4 B4 | A2 G2 A4 D4 | G2 F2 E4 A4 | D8 z4 |
+w: い は ほ も | か れ き も | は な ぞ さ | く

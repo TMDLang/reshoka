@@ -1,7 +1,7 @@
 ---
 title: "朝顔 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
 song_title: "朝顔"
-description: "〈朝顔〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：マイアサ　マイアサ サク　アサガホハ…"
+description: "〈朝顔〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、毎朝（まいあさ）毎朝（まいあさ） 咲（さ）くあさがほは…"
 keywords: "朝顔, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
@@ -26,35 +26,22 @@ audio: "asagao.mp3"
 曲目說明
 中文解釋：描寫清晨盛開的牽牛花與夏日庭院景色。
 
-原書資訊與歌詞全文（對應 P022.jpg，書頁 p. 7，第一學期第 7 首）：
-調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「キレイニ」♩=84
+原書資訊與歌詞全文（對應 P056.jpg–P057.jpg，原書 p. 48–49）：
+調性與拍號：ヘ調 二拍子，♩=84
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（文部省『尋常小學唱歌』第一學年〈朝顔〉；《公學校唱歌集》與《新定兒童唱歌》第一學年共用教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈アサガホ（牽牛花）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao/asagao.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-一
-マイアサ　マイアサ
-サク　アサガホハ
-ヲトトヒ　キノフト
-ダンダン　フエテ
-ケサハ　シロ四ツ
-ムラサキ　五ツ
+一、毎朝（まいあさ）毎朝（まいあさ）
+咲（さ）くあさがほは
+をととひきのふとだん／＼ふえて
+今朝（けさ）はしろ四つむらさき五つ。
 
-二
-オホキナ　ツボミハ
-アスサク　ハナカ
-チヒサナ　ツボミハ
-アサツテ　サクカ
-ハヤク　サケサケ
-シボリヤ　アカモ
+二、大（おほ）きな蕾（つぼみ）は
+あす咲（さ）く花（はな）か
+ちひさなつぼみはあさつて咲（さ）くか
+早（はや）く咲（さ）け咲（さ）け絞（しぼ）りや赤（あか）も。
 ```
 
 ## ABC
@@ -71,19 +58,19 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 c2 c2 A2 A2 | c2 c2 A2 A2 | c2 c2 d2 d2 | c2 c2 A4 |
 w: 1.~マ イ ア サ | マ イ ア サ | サ ク ア サ | ガ ホ ハ
-w: 2.~オ ホ キ ナ | ツ ボ ミ ハ | ア ス サ ク | ハ ナ カ
+w: 2.~お ほ き な | つ ぼ み は | あ す さ く | は な か
 c2 c2 d2 d2 | c2 c2 A2 A2 | G2 G2 G2 G2 | A2 F2 G4 |
 w: 1.~ヲ ト ト ヒ | キ ノ フ ト | ダ ン ダ ン | フ エ テ
-w: 2.~チ ヒ サ ナ | ツ ボ ミ ハ | ア サ ッ テ | サ ク カ
+w: 2.~ち ひ さ な | つ ぼ み は | あ さ つ て | さ く か
 c4 A2 c2 | d2 d2 c2 c2 | A2 c2 A2 F2 | G2 A2 F4 |
 w: 1.~ケ サ ハ | シ ロ ヨ ツ | ム ラ サ キ | イ ツ ツ
-w: 2.~ハ ヤ ク | サ ケ サ ケ | シ ボ リ ヤ | ア カ モ
+w: 2.~は や く | さ け さ け | し ぼ り や | あ か も
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](asagao.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFUlGalAVxfkJOYBjdXSUng2Z-7LhVMUtLS4FG0VLEy47G0V3LhsjPRN7EBanuxoeLZo7rPWvic7Ol829yk8377icUPXs2kbgAyFpxv6n67d8WzBwsfNu5-2roGwFZ5O2fhsbc-zqTOfzZ3wcnbb44bu93s6ni5Z_mzt4qe9jU929TzduQXCeDan4_2enudbFj2bvePFzPkKBuZGpromhu_3dIKd-2LlvPd7Zj2b1v6yecXzOY1gsWezN2GIvWjf9bxxMdDCF02bns1pBrrkxapeiCufrpv1tHXS89VLIY4CuuXphu6nO3Y8Xz7x-Zo1QM8B3Qx0zvMpK4BuNDIwMtAzMDDTM7AwMQcyDCAu0QeG0exNz2eve7Fq1bMZfVwKCgpPdqwFOuHF8sUv24Gem_Wsv__p-tXPdrQ-m7ni-ezZL6d1P5_V8rxz7_PO2S-6Nr7oaH-6pP_Z9KVPd619OXPRs5nrX3RuetzQxKWlzwUy3JZaAOSyp33zQYG5uf3Fii6gxUA_A0PxaesKoHNBsbCh91l7p0KAgZGRXlZBOjDwgYpfLmhUKNBTMAdFBSxMns2ZD2QrmCu8XDYNGAhAP4IMf7Fq_7OG5SBju3uB8QUUfdw8AygIisru3qdrJwCtcFMARjVQTAGYghSAomDdwIDvedy09nHzmsdNSx43dz9u6H00c6UtMLVBQrMBRD1ungeSbVr0uGnr44YGZC5YGijatB4kAVHRtOZx8-zHzf0QrZseN3eA0SSwCqBVfY-bpwJFINJA0zZDSZDJUx83rXjc3AYxdiPItOZ-sL7tj5vXPp0NNLYFom_B4-aVYMvWAqWf7JoCkgA7eVcPRPMqkCNA1nWBDW553DzncfN8mLNALt2JcDjQEqC6ptUQsxtBjgVZjVMrUA4oCsxBQJeBzYBpBZoDDBlIYAAlwD5o2gjRB_QC0Bygu5bAwmr14-ZFIDnKUxgUKIBSrmNxYnpivlVAZmJevkONQU01yAoFGwstOzADW8JWgKSvFwt7FDRMQKXH8_UNOvDUqIlFA9AikGE1CqZAaAyE6CwzIISJ6SrUgFX7GNaAEhMwLJaAwhGUcoBqsIgASWAoooisAaqbDQphhGlGIPFVEPGmtUC6C2xaCxDPAeL5YNUgNSBTdsJNBanpB6sGxgDYNPzhsquH3HBBDgNQuBhBYQ2QZwikUcNlExB3QPEksLtBfuoD4qlgUZCaBiDeDKdBIkC5phVAug01XJobwaaA_Yw3XEDyzWD9yOFOTLjs6CQvXHSBvjcFskChAwobUGiAQsgQHEIgGiVcmjYC-RB3Qly9HcgChQzI1y1gny0A4pVQ168FqwGmJrB_W9BCBZR6gBkQlg7AOjbCaZjpoFACpasl8FBaDeQtAptVy8Wla6cAyWPRsQpAtjIXAA)]
-- [鋼琴伴奏 TMD 檔案](asagao_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgrP5sx9uXDK-z0dL2fPfNbZ_bJ7z_MJW57s2fJ0af_7PZ0KWlpcirYKFiZc9rYKblw2RvomdiCzn-xoeLZo7rPWvic7Ol829yk8377icUPXs2kbgAyFpxv6n67d8WzBwsfNu5-2roGwFZ5O2fhsbc-zqTOfzZ3wcnbb44ZuoKVPlyx_tnbx097GJ7t6nu7cAmE8m9Pxfk_P8y2Lns3e8WLmfAUDcyNTXRNDoHPA_nqxct77PbOeTWt_2bzi-ZxGsNiz2ZswxF6073reuBho4YumTc_mNANd8mJVL8SVT9fNeto66fnqpRBHAd3ydEP30x07ni-f-HzNGqDngG4GOuf5lBVANxoZGBnoGRiY6RlYmJgDGQYQl3A5FiemJ-ZbBWQm5uUHeTjUGNRUcykAgY2Flh2Yoa-lYIsOFCDmv1jYo6BhAgqp5-sbdBQCDIyM9LIK0jWxaNDSBxtWo2AKhMZAiM4yA0KYmK5CDVi1j2GNwuPmeQqPm5YA8SIg3gpUg0UESD5uWo8isgaobjYQ9yNMMwKJr4KIN60F0l1g01qAeA4QzwerBqkBmbITbipITT9Y9eOm1WDT8IfLrh5ywwU5DEDhYgSFNUCeIZBGDZdNQNwBxZPA7gb5qQ-Ip4JFQWoagHgznAaJAOWaVgDpNtRwaW4EmwL2M95wAck3g_Ujhzsx4bKjk7xw0QX63hTIAoUOKGxAoQEKIUNwCIFolHBp2gjkQ9wJcfV2IAsUMiBft4B9tgCIV0JdvxasBpiawP5tQQsVUOp53AxKa-B0ANaxEU7DTAeFEihdLYGH0mogbxHYrFrULOaDnMVMoFmsRsEwXiHaMBadYYIsgqQSRVzBNB7IMo2HiYFZ6MaaYJgP1mUIVgt0oq6dAsSV0T5AWSSeEZinzAUA)]
+- [主旋律 TMD 檔案](asagao.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5CTmAe0X0tL4dmcuS8XTlHQ0uJStFWwMOGyt1Vw47Ix0jexA2l5sqPh2aK5z1r7nuzofNncp_B8-4rHDV3Ppm0AMhSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W2PG7rf7-l4umT5s7WLn_Y2PtnV83TnFgjj2ZyO93t6nm9Z9Gz2jhcz5ysYmBuZ6poYvt_TCXbui5Xz3u-Z9Wxa-8vmFc_nNILFns3ehCH2on3X88bFQAtfNG16NqcZ6JIXq3ohrny6btbT1knPVy-FOArolqcbup_u2PF8-cTna9YAPQd0M9A5z6esALrRyMDIQM_AwEzPwMLEHMgwgLhEHxhGszc9n73uxapVz2b0cSkoKDzZsRbohBfLF79sB3pu1rP-_qfrVz_b0fps5orns2e_nNb9fFbL8869zztnv-ja-KKj_emS_mfTlz7dtfblzEXPZq5_0bnpcUMTl5Y-F8hwW2oBkMue9s0HBebm9hcruoAWA_0MDMWnrSuAzgXFwobeZ-2dCqDEqZdVkP6oYTKQaQ5iAuMBolWhQE_BxAIoY2IJ9D3QcyBTX6za_6xhOci87l5gRAFFHzfPAAoqgCKxu_fp2glA_Y9mrrQFph9I-DQ8bmh8tr4PmLiA1j5u3Pe4seVxY9PjxqlAQ3GJg90_CRi_QAkQ_3FjP0TucWPP48bdjxvXg1Q8bpr0uHEFGG163Nj7uHHd48atYO6Cx02T3-_pf79nD1gEaMoysGN2d8GsmwgzeP3jxumPm3qfzp79uHHJ46aGx01AQaA9vU92TQGJAGMHrHUXMMk0AtMuWHcX0BFg3UBLV72Yug8suORxI9C6_RBTwe4DOXkmmj-AyQDMBdq7CizSDVG6EOwJoMWr4CaBFUF8DRRZhhEgYJ3Ppq-EmtfUApFAVTcRjft8KzArAbnTgXaARJq6gBpfbF0CFgRaBkzFQMEmkL-BplOeFKFAAZTEHYsT0xPzrQIyE_PyHWoMaqpBVijYWGjZgRk1CqZAaAyE6CwzIISJ6SrUgFX7GNYoPG6eB0wFS4B4ERBvBarBIgIkHzetRxFZA1Q3G4j7EaYZAcUbu4B4NxD3AvEqkMpGoEmNe4B4PxCvB4s0AfFMIJ4KxP1gEaDZQNXAoAObhuQVZGeDvGIEhTVAniGQRvXKJiDugOJJYGeuBbL6gBhoFVAUpKYBiDfDaZAIUK5pBZBuQ_PKQiAGmgh2Jj6vgORBMsvAIhBPYXhFF-hgUyAL5CGQd0AeAHnKEOwpEI3ilaaNQD443IEhDOJvB7JAngE5tAXs7AVAvBIaN2vBaoCOAMqBMKpH1oPNAspAQxvkxIlwGiQyHeKxJmDsAdXBPNYN5DWBzarl4tK1U4AkPgUgS5kLAA)]
+- [鋼琴伴奏 TMD 檔案](asagao_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUqcWlpKTybM_flwinv93S8nD3zWWf3y-49zydsebJny9Ol_e_3dCpoaXEp2ipYmHDZ2yq4cdkY6ZvYgYx-sqPh2aK5z1r7nuzofNncp_B8-4rHDV3Ppm0AMhSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W2PG7qBlj5dsvzZ2sVPexuf7Op5unMLhPFsTsf7PT3Ptyx6NnvHi5nzFQzMjUx1TQyBzgF768XKee_3zHo2rf1l84rncxrBYs9mb8IQe9G-63njYqCFL5o2PZvTDHTJi1W9EFc-XTfraeuk56uXQhwFdMvTDd1Pd-x4vnzi8zVrgJ4DuhnonOdTVgDdaGRgZKBnYGCmZ2BhYg5kGEBcwuVYnJiemG8VkJmYlx_k4VBjUFPNpQAENhZadmBGjYIpEBoDITrLDAhhYroKNWDVPoY1Co-b5yk8bloCxIuAeCtQDRYRIPm4aT2KyBqgutlA3I8wzQgo3tgFxLuBuBeIV4FUNgJNatwDxPuBeD1YpAmIZwLxVCDuB4sAzQaqftzYDTYNySvIzgZ5xQgKa4A8QyCN6pVNQNwBxZPAzlwLZPUBMdAqoChITQMQb4bTIBGgXNMKIN2G5pWFQAw0EexMfF4ByYNkloFFIJ7C8Iou0MGmQBbIQyDvgDwA8pQh2FMgGsUrTRuBfHC4A0MYxN8OZIE8A3JoC9jZC4B4JTRu1oLVAB0BlANhVI-sB5sFlIGGNsiJE-E0SGQ6xGNNwNgDqoN5rBvIawKbVYua9nyQ054JPO0ZxitEG8aiM0yQRZBUoogrmMYDWabxMDEwC91YEwzzwboMwWqBTtS1U4C4MtoHKIvEMwLzlLkA)]
 
 ## 分析
 
@@ -95,10 +82,10 @@ w: 2.~ハ ヤ ク | サ ケ サ ケ | シ ボ リ ヤ | ア カ モ
 🎼 Key & Tempo:    首調基準 F, != 84.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [Asagao[] #1 @ m.8, 0:10]
-   - 最高音: D5 in [Asagao[] #1 @ m.3, 0:03]
+   - 最低音:  F4 in [Asagao #1 @ m.8, 0:10]
+   - 最高音: D5 in [Asagao #1 @ m.3, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Asagao[] (17.1s)
+🏛  結構:      Asagao (17.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -108,7 +95,7 @@ w: 2.~ハ ヤ ク | サ ケ サ ケ | シ ボ リ ヤ | ア カ モ
    - 候選調性 (K-S): C 大調 (0.78), A 小調 (0.77), F 大調 (0.63)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Asagao[] #1]: C 調性不明確 (r: 0.78, 自然音純度: 100.0%)
+     • [Asagao #1]: C 調性不明確 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*

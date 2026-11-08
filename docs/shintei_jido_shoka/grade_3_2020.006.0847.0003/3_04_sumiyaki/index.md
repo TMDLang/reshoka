@@ -41,13 +41,6 @@ audio: "sumiyaki.mp3"
 左手先一步在正拍敲響低音 `1_`，給予歌者清晰的拍點引導與穩健支撐。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》與《新定兒童唱歌》第三學年共用教材）
-
-- **[同曲]** 《公學校唱歌》第三學年（昭和10年／1935）：[**〈すみやき（燒炭）〉**](../../../kogakko_shoka/grade_3/14_sumiyaki/index.md)（`Bb` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_3/14_sumiyaki/sumiyaki.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

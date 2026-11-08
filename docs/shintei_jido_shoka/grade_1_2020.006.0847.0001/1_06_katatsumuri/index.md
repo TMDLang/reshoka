@@ -31,15 +31,6 @@ audio: "katatsumuri.mp3"
 調性與拍號：ニ調二拍子（D 大調 2/4 拍），「ゲンキヨク」♩=92
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》第一學年與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈かたつむり〉同曲；《唱歌帖》P079 為《大正幼年唱歌》同名異曲）
-
-- **[同曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈カタツムリ（蝸牛）〉**](../../../kogakko_shoka/grade_1/6_katatsumuri/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_1/6_katatsumuri/katatsumuri.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈かたつむり〉**](../../../shoka_kyozai_shu_1923/grade_1_2/09_katatsumuri/index.md)（`D` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/09_katatsumuri/katatsumuri.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈カタツムリ〉**](../../../shokacho/vol_02/p079_katatsumuri/index.md)（`C` / `2/4` — [原始 TMD](../../../shokacho/vol_02/p079_katatsumuri/katatsumuri.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

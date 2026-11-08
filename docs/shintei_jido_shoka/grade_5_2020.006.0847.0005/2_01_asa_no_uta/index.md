@@ -14,7 +14,9 @@ audio: "asa_no_uta.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="asa_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="asa_no_uta_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="asa_no_uta.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -23,14 +25,6 @@ audio: "asa_no_uta.mp3"
 原書資訊與歌詞全文（對應 P036.jpg，書頁 p. 13，第二學期第 1 首）：
 調性與拍號：原曲イ長調二分之二拍子（譜面移調為ト長調 G 大調 2/4 拍），♩= 96，（文部省）
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》跨冊對照曲目）
-
-- **[同名異曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈朝の歌〉**](../../../kogakko_shoka/grade_5/11_asa_no_uta/index.md)（`A` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/11_asa_no_uta/asa_no_uta.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈朝の歌〉**](../../../shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta/index.md)（`G` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta/asa_no_uta.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

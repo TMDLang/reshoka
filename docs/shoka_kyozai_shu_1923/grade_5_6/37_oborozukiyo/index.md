@@ -1,8 +1,8 @@
 ---
-title: "おぼろ月夜 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
-song_title: "おぼろ月夜"
-description: "〈おぼろ月夜〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：D 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　菜（な）の花畠（はなばたけ）に　入日薄（いりひうす）れ 見わたす山の端（は）霞（かすみ）ふかし…"
-keywords: "おぼろ月夜, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+title: "朧月夜 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
+song_title: "朧月夜"
+description: "〈朧月夜〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：D 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "朧月夜, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
 musical_key: "D"
@@ -10,102 +10,104 @@ image: "P312.jpg"
 audio: "oborozukiyo.mp3"
 ---
 
-# おぼろ月夜
+# 朧月夜
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 <audio controls src="oborozukiyo.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 文部省
-- 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）
+- lyricist: 高野辰之（文部省尋常小學唱歌）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P024.jpg，書頁 p. 1，第一學期第 1 首）：
-調性與拍號：に長調四分之三拍子（D 大調 3/4 拍，弱起 1 拍），「優美ニ」（♩=72）
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P312.jpg`–`P313.jpg`，原書 p. 304–305，尋常科五・六學年第 37 首）：
+> - **曲名**：p. 304 歌詞頁題為「おぼろ月夜」，p. 305 樂譜頁題為「朧月夜」
+> - **調性與拍號**：ニ調三拍子（D 大調 3/4 拍，弱起 1 拍），♪ = 88
+> - **異曲同詞重要發現**：本曲歌詞雖與文部省《尋常小學唱歌（六）》〈おぼろ月夜〉（高野辰之作詞、岡野貞一作曲）完全相同，惟本教材集（`P313.jpg`）所配樂譜並非岡野貞一之著名旋律（`1 2 | 3. 4 5 3 | 4 6 5 1`），而是另一首ニ長調 3/4 拍別曲（`3 3 | 1. 2 (3 5) | (5 6) 5 2 | 3. 1 (2 5_) | 3 -`）！又第二段「田中の小路」於 p. 304 振假名及 p. 305 譜下皆作「をみち」。
+>
+> **一、**
+> 菜（な）の花畠（はなばたけ）に入日（いりひ）薄（うす）れ
+> 見渡（みわた）す山（やま）の端（は）　霞（かすみ）深（ふか）し
+> 春風（はるかぜ）そよふく　空（そら）を見（み）れば
+> 夕月（ゆふづき）かかりて匂（にほ）ひ淡（あは）し。
+>
+> **二、**
+> 里（さと）わの火影（ほかげ）も森（もり）の色（いろ）も
+> 田中（たなか）の小路（をみち）を辿（たど）る人（ひと）も
+> 蛙（かはづ）の鳴（な）く音（ね）も　鐘（かね）の音（おと）も
+> さながら霞（かす）める朧月夜（おぼろづきよ）。
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（高野辰之作詞、岡野貞一作曲〈朧月夜〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P195）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈朧月夜〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/oborozukiyo.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈朧月夜〉**](../../koto_1_2/01_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../koto_1_2/01_oborozukiyo/oborozukiyo.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈朧月夜 (朦朧月夜)〉**](../../../shokacho/vol_10/p195a_oborozukiyo/index.md)（`D` / `3/4` — [原始 TMD](../../../shokacho/vol_10/p195a_oborozukiyo/oborozukiyo.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-一　菜（な）の花畠（はなばたけ）に　入日薄（いりひうす）れ
-見わたす山の端（は）霞（かすみ）ふかし
-春風そよふく空を見れば
-夕月かゝりてにほひ淡（あは）し
-
-二　里わの火影（ほかげ）も　森の色も
-田中の小路（こみち）をたどる人も
-蛙（かはづ）のなくねもかねの音（おと）も
-さながら霞める　朧月夜
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
 
 ```abc
 X:1
-T:おぼろ月夜
+T:朧月夜
 M:3/4
 L:1/16
-Q:1/4=72
+Q:1/4=88
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!p! z4 z4 D2 E2 | F6 G2 A2 F2 | G2 B2 A4 D4 | F6 E2 F2 A2 |
-w: 1.~な の | は な ば た | け _ に い | り ひ う す
-w: 2.~さ と | わ の ほ か | げ _ も も | り の い ろ
-E8 D2 E2 | F6 G2 A2 F2 | G2 B2 A4 A4 | B6 A2 F2 E2 |
-w: 1.~れ み わ | た す や ま | の _ は か | す み ふ か
-w: 2.~も た な | か の こ み | ち _ を た | ど る ひ と
-!mf! D8 E2 E2 | B4 B2 c2 d4 | d2 B2 A4 B2 A2 | F6 A2 F2 E2 |
-w: 1.~し は る | か ぜ そ よ | ふ _ く そ _ | ら を み れ
-w: 2.~も か は | づ の な く | ね _ も か _ | ね の お と
-!p! D8 D2 E2 | F6 G2 A2 F2 | G2 B2 A4 A4 | B6 A2 F2 E2 |
-w: 1.~ば ゆ ふ | づ き か か | り _ て に | ほ ひ あ は
-w: 2.~も さ な | が ら か す | め _ る お | ぼ ろ づ き
-D8 z4 |
-w: 1.~し
-w: 2.~よ
+z4 z4 F2 F2 | D6 E2 F2 A2 | A2 B2 A4 E4 | F6 D2 E2 A,2 |
+w: ナ ノ | ハ ナ バ タ | ケ _ _ イ | リ ヒ ウ ス
+F8 A,2 A,2 | F6 G2 A2 d2 | d2 e2 d4 A4 | B6 F2 E2 E2 |
+w: レ ミ ワ | タ ス ヤ マ | ノ _ _ カ | ス ミ フ カ
+D8 A,2 A,2 | d6 d2 d2 e2 | d2 B2 A4 A2 F2 | A6 B2 F2 F2 |
+w: シ ハ ル | カ ゼ ソ ヨ | フ _ _ ソ _ | ラ ヲ ミ レ
+E8 D2 E2 | F6 D2 F2 G2 | A2 d2 B4 A4 | B6 F2 E2 E2 |
+w: バ ユ フ | ヅ キ カ カ | リ _ _ ニ | ホ ヒ ア ハ
+D8 z4 | z4 z4 F2 F2 | D6 E2 F2 A2 | A2 B2 A4 E4 |
+w: シ | さ と | わ の ほ か | げ _ _ も
+F6 D2 E2 A,2 | F8 A,2 A,2 | F6 G2 A2 d2 | d2 e2 d4 A4 |
+w: り の い ろ | も た な | か の を み | ち _ _ た
+B6 F2 E2 E2 | D8 A,2 A,2 | d6 d2 d2 e2 | d2 B2 A4 A2 F2 |
+w: ど る ひ と | も か は | づ の な く | ね _ _ か _
+A6 B2 F2 F2 | E8 D2 E2 | F6 D2 F2 G2 | A2 d2 B4 A4 |
+w: ね の お と | も さ な | が ら か す | め _ _ お
+B6 F2 E2 E2 | D8 z4 |
+w: ぼ ろ づ き | よ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](oborozukiyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFUlGalAV5dk5qbG56fFpyRWoksVpyYW5-cVK3FpaSk8bux63LjncVPvszkdT5fMUdDS4lK0VTA34rK3VXDhsjHWN7ED6X6yo-HZornPWvue7Oh82dyn8Hz7iscNXc-mbQAyFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbY8but_vAVqx_NnaxU97G5_s6nm6cwuEAbT6_Z6e51sWPZu948XM-QoG5kamuiaG7_d0gl3-bFr7y-YVz-c0gnkv2nc9b1wMNPZF06Znc5qB9r1Y1Qtxy9N1s562Tnq-einEaqCNTzd0P92x4_nyic_XrHnauhboMqClz6esALrEyMDIQM_AwEzPwMLEHMgwMAPbx6WvpWBLLcCloKDwtG8-yFub21-s6HrR0Q5014uV8562rgD6ChQeG3qftXcqBBgYmehlFaQDgwGo-OWCRoUCPQVgAPQA3Q0MelCIzpkPZCsYKrxcNg3o0Pd7ZoEMf7Fq_7OG5SBju3uBIQcUfdy4-uXU7UDxp7NnP-1oe7KzGxhjQNmnaycArXNRAEYAUFIBGK8KQFGgDU_3bHyxdTvQYDAXaDAw3Hqetqx6vq_vcXP34wagYMejmSttzY2AslwgS4EOetzQ8KJ_DlDmceMqoPDjxnUvujY-n7oALLIeKPi4ccPjxvmPGyeCZVcD1T9tXfps-tIX01rAaloeNwHT3abHjW2PG2eC1DT1gP2zrPtxUz9Y58ynGzcCzX2-ej3EUKCil3PmgdndQNnHjfvBRm8Fc6eDND-bsfTlohWPG-c-bgIqAkr0P1-563HTJLChPUAXgaNjyVRgcgNpagKqA7phGch5jbuBjnm2fSHY-CaIbSBTwd7dBQyRhpftPWCXrXveuPrp3o1ghUBNQLsngZ3fBFTzbPE6UEh0bgJyQTqfT9nwZMdaoBAwg7zYDvHHZKDDHzcCLQLqmQT26MrHTd1PdgEdCtbzYjYwOCB-BIbjUkjgggMUaPlakD0gKZChL-dvBqsE-gGYnkFOAOl_3DgVrBroWlB4PW5qBBoPctuc5ZAcDlJEecqGAgUtfS4u_6T8ovyq0uzMynyrgMzEvHyHGoOaapA9CjYWWnZgBrZcpQBJ3C8W9ihoQFOhtoIJqDR5vr5BB54nNLHoBFoLMrVGwUBBF4yrC2qBSdgIKGIM5OkCjTEFsmqAtBmQpQuU04XLGQFpUyDPCMwDyQH1gc3zMaxRiAeKgDAwFIF4HVAdMCbA6iAiG4B4Plh0IlhsNZhsAZsPTFBQlZuAuA2IZ4JFe6A2AeMeyOuH2WaEbNtUIF4BVt0PVbsOiHcDcTfYtkkgsaYmOIlsG0hlC5DfCxYFyULE54PdXANOxrijYFcPOApIDHns4QzCNUA2SA4kA4oRUNiDYHVuWi1QADmwQU6EOHUm0OFALzTuA3t2HVgMFOwg74M9C1QBD8LGrfBgmQ737HqgCUAxeNBCdMKCZzJYJ0h0ITgIwcEJth0kthKiEqgfEnWQiEAEJEh8PcGA3NFJTkCCAstMwVzBMA7sGCAFCUoQCQtmjKCEJXekkAT59nHjHCCeC3R7B9RnW8GioCQFEockm06obydBE2QPWOUGmG-bQAl3K0pILoWHIygLgEwDia5FJEl4LIHEYGq7sIQkKJkTTJLAuos-SRJUdCCHIcifIFf2QuMcnMbA2QxYUYBJUHYHqdwNVQlKLU2Q1IGUGkFZGjn8IAUAKOQh5kKKhUZomgOZA7IDpHIPVCXIBUvBLgGpBMUmwtxaLi5dOwWkYlcByFXmAgA)]
-- [鋼琴伴奏 TMD 檔案](oborozukiyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgqPG7seN-553NT7bE7H0yVz3u_peDl75rPO7pfde55P2PJkz5anS_vf7-lU0NLiUrRVMDfisrdVcOGyMdY3sQNZ8mRHw7NFc5-19j3Z0fmyuU_h-fYVjxu6nk3bAGQoPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7PbHjd0Ay19umT5s7WLn_Y2PtnV83TnFggD6KT3e3qeb1n0bPaOFzPnKxiYG5nqmhgCnQP24LNp7S-bVzyf0wjmvWjf9bxxMdDYF02bns1pBtr3YlUvxC1P18162jrp-eqlEKuBNj7d0P10x47nyyc-X7PmaetaoMuAlj6fsgLoEiMDIwM9AwMzPQMLE3Mgw8AMbB-Xf1J-UX5VaXZmZb5VQGZiXn6Qh0ONQU01lwIQ2Fho2YEZ-loKtuhAAWgJMJxeLOxR0AgwMDLRyypI18SiTEsfbESNgoGCLhhXF9QqGCoYAUWMgTxdBRMFUyCrBkibAVm6QDlduJwRkDYF8ozAPJAcUB_YPB_DGoV4oAgIP25cBcTrgOoeN64Hq4OIbADi-WDRiWCx1WCyBWz-46YuqMpNQNwGxDPBoj1Qmx437gfy-mG2GSHbNhWIV4BV90PVrgPi3UDcDbZtEkisqQlOItsGUtkC5PeCRUGyEPH5YDfXcOEP7109xIc39tAF4RogGyQHkgHFAyjEQbA6N60WKIAcxCCHQRw4E-hcoMMb94G9uA4sBgpskKfBXgSqgAdc41Z4YEyHe3E90ASgGDxAITphgTIZrBMkuhAccOBABNsOElsJUQnUD4kwSPAjgg8kvp5g8O3oJD74QEFkpmCuYBgHdgKQggQgiIQFLkYAwpI2UviB_Pi4cQ4QzwW6uAPqn61gUVDyAYlDkkgn1I-ToImvB6xyA8yPTaBEuhUl_JbCQw-U3EGmgUTXIpIfPG5AYjC1XVjCD5SkCSa_p7Nn0zL5gQoH5JAD-Q7ktl5o_ILTEzgjPW5cBiZBGRqkcjdUJShlNEFSAlLKA2Va5FCDZHFQeEPMhWT8Rmj6ApkDsgOkcg9UJcgFS8EuAakExSHC3FoshagPciFqAi1EQSWgATiJGIA8Ha8QbRgLxsDQAXJMYBwUGdN4IM80PhakB2oKbp0wDkg9XB04UyN0w9QAMZpRMA6qbohzybMapBEYPLp2CkghFO0DlEEXMgILKXMBAA)]
+- [主旋律 TMD 檔案](oborozukiyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V5KZmxqfnxafkliJLlWcmlicn1esxKWlpfBszvJnczqeLpmjoKXFpWirYGHBZW-r4MJlY6xvYgfSBwoBK4Vn0zY8375C4emG_qdrdzxbsPBx8-6nrWsgbIWnUzY-W9vzbOrMZ3MnvJzd9n5Px9MN3U937Hi-fOKTXVPAStcClT7dueX5lBXv93SC3fNkR8OzRXOftfY92dH5srlPAWj844YuUux53NANsmrJ8mdrFz_tbXyyqwdoA4QB9NL7PT3Ptyx6NnvHi5nzFQzMjUx1TQxhdudUAsMNGHxWCi9Xz3jZ3vdi34YnO0GGPZvW_rJ5xfM5jRAPQJwBsRasl0tfS8GWWoBLQUHBTiFa0c8_xDUWwtHSeto3H-Tmze0vVnS96GgHWvxi5bynrSuALtPSAods77P2ToUEUPLTyypIT3jUMBnEMQZzgJ6GGKBQoKdgbGAClDQ2MAWJ4oqQNWsUjM0VXi6bBvTf-z2zIM7QBTrk2exNTyf0guycBTFLAeKWlwsaXy7sed6063FDz-PGrseNex439UKS0OOGXqBVYNWmCs9WNL1YOwdZNTypAdUh7Hmxav-zhuUgr3b3AqMKbOHj5m6gMDBhAMWerp0A9LaLAjCegWIKwGSpABQFeWnPxhdbtysYQrhAx_c8mrlKAZyC4YY_n7oB7A-ww9t7XyxrfD5zz_P-fWBbns1ZA5SE-mr2NJATYNEPTInYUkAHMNyAVgET3uOGDgzPA53QgZyenuydAzT5cUPj000LQYKb5gHTPFAQaCnQkKfreoDR-nz2DqDrgG5_1jwf5B6kPIQcq53POhtetvZCwvTJjmUv585DMXRn94uJ04HR9Wx699N9oIScYKhgpFCjYKynYKJgqmAMZJoomAFZhiDDgNa9AEbHjPVP-5cBdQMjHxjgL6duRwrfpx1Lwc7sSDAG6zbUA5qnYaxgqgnkaJgqmGkCDYPaYKigYaRgGg-SMVbQhVjQ-LS_A5i2QFlx3VZg3D-fsuHJjrWPG9cBA_TF9vXAFPBs2h5oIlV41rP-aWM70PlP-7sgYqYKYH92P5_VBgwwUEprmvS4cf_jxoVAnY8bmsAxDMsyQC8AAxlYfIH5L_rnAJ39uHEVKKIa173o2vh86gKwyHqg4OPGDY8b5z9unAiWXf20demz6UvBsi2Pm4DxCYqZF9NawCJtjxtngpQ19UBNXtb9bMdCsNT-x039QHPAhsx8unEjSLCp5XHjPoilz1evh9gITiwNL-fMA3O7gYqBekHRuR2spXErUBCsZTrEimczlr5cBCwiwa5tAqoHIqB3gArmPm6CqO8HGvh85S6wGqAgMKyBLpwEdBvEYRAHA70JMfDpkqngshDoPKB3gNqXPm4E5Rawyd1gLy972tME1rv6ceNusNSmZ9sh3myCeqFxOkaY7-pBCvOX7aDM8bhx6uNGUPkODpx1z4HBuxfizd1g6yaBpZqeLV4Hdk8T0HZoHHWCUho4CsBua4LYpQBJNGApYJQB4w4SVtA0BDYEmiqggbAP6H2I4pVgke4nuyABtQnmMKjJL2YDYxYSI8BUAUwAIGNfbt6ClHL6X87fDOaCczzQtcB4nDADpgssCNQCVQMMRhTzwUEBdDAw3XYixz5YTSPQYfCyEKYdVJBAYgcY0eBkAzaK8loGChS09Lm4_JPyi_KrSrMzK_OtAjIT8_IdagxqFKpBFinYWGiBY1cBWxWnAMrLOxpeLOxR0ICWu9rAEgUYEc_XN-gowEoqTSw6gfaCTK1RMACWyCAMLVCALF1gCQIsUoA8YIECxCC-LqQUAUJQCWYaD-fqgjggPtg4H8MahXigGAg_bu4C4j6gysfN_WCVEJEJCo-b9oNEmzZCRbuB7CVgKx43r4KKTQKKLQPinWDRNVC7HjfPB-L1MNuMkGxrnArEK8DmQm1rXAfEu4G4GyTaOAki2tQExmDbmrqQVLYA-b1gUZAsRBxoW-MqoG34Y2BXDzgGSAx4SPiB6gHDOFDIxykYxYFIYIiCXWcGljcGBjeoQIdEDGZog8IS4q-dwJBZAsTzwCHWBw2vfqDMaqhvdyKFITC0gOIg0e3wsAWqbQaKwcMWFHLw8GkCxkgjON4aF0JtBInMh5jduBIqBozLxk3wmECEJEgcFG8E0nInOSEJDjRgygQHHzAQwSKQlAupZEEsXaAIJI2DUjMsJSMHJCiYQF7YA8R7gUEB9gIwoCCi68GikEQK9Wwz0KPgwFwDFp0AD0hgwgXqQw7IpUgJbRUQ94MDbS0iSYKDGkkMrBKYXTACEpTMCSbJp7Nnk58kDYG0CTjUwMGIPz2Cig6kQGxuhXppLThAoWkMnqvbwLkdEoizoWKgnL4InPqQUyMoTyMHYA_U3E5oWpoJVt2IlOpAeRmkcg9UrBcc7MCSG6yyA8XcWi4uXTsFpHI32scwVgFdyAgspMwFAA)]
+- [鋼琴伴奏 TMD 檔案](oborozukiyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqsSoCi8flp8SmJlehSxamJxfl5xUpcWloKz-Ysfzan4-mSOe_3dLycPfNZZ_fL7j3PJ2x5smfL06X97_d0KmhpcSnaKlhYcNnbKrhw2Rjrm9iBzAMFoZXCs2kbnm9fofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17ObgPa8HRD99MdO54vn_hk1xSw0rVApU93bnk-ZQXQKrA7n-xoeLZo7rPWvic7Ol829ykAjX_c0EWKPY8bukFWLVn-bO3ip72NT3b1AG2AMIBefb-n5_mWRc9m73gxc76CgbmRqa6JIczunEpgwAPD30rh5eoZL9v7Xuzb8GQnyLBn09pfNq94PqcR4gGIMyDWgvVy-SflF-VXlWZnVuZbBYAiJ8jDocagRqGaSwEIbCy07MAMfS0FW3Sg8HzNGqCnXyzsUdB4umfji63bFbQVTEBefb6-QUcBmCCN9bIK0jWx6NTSB5tao2CgoAvGxkBYo2AIZOkqGAHZpkCeqYIZEIP4ukCeMVjOEMgzjYdzdUEcEB9snI9hjUI8UAyEHzd3AXEfUOXj5n6wSojIBIXHTftBok0boaLdQPYSsBWPm1dBxSYBxZYB8U6w6BqoXY-b5wPxephtRki2NU4F4hVgc6G2Na4D4t1A3A0SbZwEEW1qAmOwbU1dSCpbgPxesChIFiIOtK1xFdA2_DGwqwccAyQGPCT8TIABbBgHCvk4BaM4EAkMUbDrzMDyxsDgNoJHDGZog8IS4q-dwJBZAsTzwCHWBw2vfqDMaqhvdyKFITC0gOIg0e3wsAWqbQaKwcMWFHLw8GkCxkgjON4aF0JtBInMh5jduBIqBozLxk3wmECEJEgcFG8E0nInOSEJDjRgygQHHzAQwSKQlGsKTtUgli5QBJLGQakZlpKRAxIUTCAv7AHivcCgAHsBGFAQ0fVgUUgihXq2GehRcGCuAYtOgAckMOEC9SEH5FKkhLYKiPvBgbYWkSTBQY0kBlYJzC4YAQlK5gST5NPZs8lPkoZA2gQcauBgxJ8eQUUHUiA2t0K9tBYcoNA0Bs_VbeDcDgnE2VAxUE5fBE59yKkRlKeRA7AHam4nNC3NBKtuREp1oLwMUrkHKtYLDvbHjZA83YFibi2WYtcHpdg1gRa7oAISBIE-jleINowF4xoFEyDHBMgxjQfxYFIoPKAeWPrEphO3McRoRJExjQfyQEZQZCUwTHTtFJCCJdoHKIMuZAQWUuYCAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ おぼろ月夜 ]
+📊 TMD Song Profile: [ 朧月夜 ]
 ================================================================================
-⏱  Duration:       0:42 (42.5s), 17 measures total
-🎼 Key & Tempo:    首調基準 D, != 72.0 BPM, <3/4>
+⏱  Duration:       1:09 (69.5s), 34 measures total
+🎼 Key & Tempo:    首調基準 D, != 88.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Oborozukiyo #1 @ m.1, 0:01]
-   - 最高音: D5 in [Oborozukiyo #1 @ m.10, 0:24]
+🎤 人聲音域:    A3 (MIDI 57) – E5 (MIDI 76) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
+   - 最低音:  A3 in [Oborozukiyo[L1] #1 @ m.4, 0:07]
+   - 最高音: E5 in [Oborozukiyo[L1] #1 @ m.7, 0:12]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Oborozukiyo (42.5s)
+🏛  結構:      Oborozukiyo[L1] (34.8s) -> Oborozukiyo[L2] (34.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  F#, D, A, B, E
-   - 調性數值:    D 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.88), B 小調 (0.70), F# 小調 (0.69)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  D, F#, A, E, B
+   - 調性數值:    D 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.89), A 大調 (0.70), F# 小調 (0.67)
+   - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Oborozukiyo #1]: D 大調 (r: 0.88, 自然音純度: 100.0%)
+     • [Oborozukiyo[L1] #1]: D 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Oborozukiyo[L2] #1]: D 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -119,28 +121,28 @@ w: 2.~よ
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : █                          1.0%
-     D  : ██████████████████████    20.8%
+     C# :                            0.0%
+     D  : ████████████████████████  26.0%
      D# :                            0.0%
-     E  : ██████████████            13.5%
+     E  : ██████████████            15.6%
      F  :                            0.0%
-     F# : ████████████████████████  22.9%
-     G  : ███████                    6.2%
+     F# : █████████████████████     22.9%
+     G  : ██                         2.1%
      G# :                            0.0%
-     A  : ██████████████████████    20.8%
+     A  : ████████████████████      21.9%
      A# :                            0.0%
-     B  : ███████████████           14.6%
+     B  : ███████████               11.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 61 個音符)
+  - Piano         : A3 – E5 (19 個半音 / 1.6 個八度, 122 個音符)
 ================================================================================
 ```
 
 
 ## 原書掃描頁
 
-![おぼろ月夜 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年 原書掃描頁 P312.jpg](P312.jpg)
+![朧月夜 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年 原書掃描頁 P312.jpg](P312.jpg)
 
-![おぼろ月夜 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年 原書掃描頁 P313.jpg](P313.jpg)
+![朧月夜 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年 原書掃描頁 P313.jpg](P313.jpg)
 
 

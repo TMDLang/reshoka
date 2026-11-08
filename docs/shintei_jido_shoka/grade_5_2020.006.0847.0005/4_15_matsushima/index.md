@@ -14,7 +14,9 @@ audio: "matsushima.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="matsushima.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="matsushima_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="matsushima.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -24,14 +26,6 @@ audio: "matsushima.mp3"
 調性與拍號：ト長調四分之四拍子（G 大調 4/4 拍），♩= 96
 出處：（檢定唱歌集）
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（〈松島〉；收錄於《新定兒童唱歌》五年級與《唱歌帖》P215《小公學校唱歌教材集》抄譜）
-
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈松島〉**](../../../shoka_kyozai_shu_1923/grade_5_6/17_matsushima/index.md)（`G` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/17_matsushima/matsushima.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈松島 (松島)〉**](../../../shokacho/vol_10/p215_matsushima/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_10/p215_matsushima/matsushima.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

@@ -4,10 +4,25 @@ M:2/4
 L:1/16
 Q:1/4=92
 K:G
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-B3 A G2 E2 | D2 E2 D4 | d2 c2 A4 | D2 B2 G4 |
-B3 A G2 E2 | D2 E2 D4 | d2 c2 A2 F2 | G4 z4 |
-A2 F2 D2 d2 | B2 G2 d4 | c2 B2 A2 G2 | F2 E2 D4 |
-D2 D2 G2 G2 | B2 B2 d4 | c2 d2 A4 | B2 D2 G4 |
-D2 D2 G2 G2 | B2 B2 d4 | c2 d2 A2 B2 | G4 z4 |
+!f! B3 A G2 E2 | D2 E2 D4 | D2 c2 A4 | D2 B2 G4 |
+w: マ ツ フ ク | カ ゼ ノ | オ ト モ | タ エ テ
+!p! B3 A G2 E2 | D2 E2 D4 | D2 c2 A2 F2 | G4 z4 |
+w: ノ ド カ ニ | カ ス ム | ハ ル ノ ヤ | マ
+!f! A3 F D2 D2 | B2 G2 D4 | c2 B2 A2 G2 | F2 E2 D4 |
+w: ヤ マ ヂ ハ | ナ ガ シ | フ モ ト ハ | ト ホ シ
+!p! D2 D2 G2 G2 | B2 B2 d4 | !f! c2 D2 A4 | B2 D2 G4 |
+w: ネ グ ラ ニ | カ ヘ ル | モ リ ノ | コ ト リ
+!p! D2 D2 G2 G2 | B2 B2 d4 | C2 D2 A2 B2 | G4 z4 |
+w: イ ソ ガ ヌ | ウ タ ハ | マ ダ ア レ | ニ
+!f! B3 A G2 E2 | D2 E2 D4 | D2 c2 A4 | D2 B2 G4 |
+w: ゆ ふ ひ の | か げ は | み ね に | か く れ
+!p! B3 A G2 E2 | D2 E2 D4 | D2 c2 A2 F2 | G4 z4 |
+w: し づ か に | く る る | た に の そ | ら
+!f! A3 F D2 D2 | B2 G2 D4 | c2 B2 A2 G2 | F2 E2 D4 |
+w: わ が や は | い づ こ | こ きや う は | い づ こ
+!p! D2 D2 G2 G2 | B2 B2 d4 | !f! c2 D2 A4 | B2 D2 G4 |
+w: う ら や ま | し き は | も り の | こ と り
+!p! D2 D2 G2 G2 | B2 B2 d4 | C2 D2 A2 B2 | G4 z4 |
+w: わ か れ ぬ | と も と | う ち つ れ | て

@@ -14,7 +14,9 @@ audio: "taiwan_no_fukei.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="taiwan_no_fukei.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taiwan_no_fukei_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="taiwan_no_fukei.mp3"></audio>
+
 
 - 曲：宮島慎三郎（臺灣總督府國語學校助教授）
 - 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）
@@ -24,14 +26,6 @@ audio: "taiwan_no_fukei.mp3"
 原書資訊與歌詞全文（對應 P104.jpg–P107.jpg，第六學年 pp. 98–101）：
 調性與拍號：變ホ長調（Eb 大調）4/4 拍，速度 ♩=120
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌集》與《新定兒童唱歌》第六學年共用教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈臺灣の風景〉**](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md)（`E,` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/taiwan_no_fukei.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈臺灣の風景〉**](../../shoka_kyozai_shu_1923/grade_5_6/34_taiwan_no_fukei/index.md)（`E,` / `4/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_5_6/34_taiwan_no_fukei/taiwan_no_fukei.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 
 ## 歌詞
 

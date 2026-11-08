@@ -28,15 +28,6 @@ audio: "ichigatsu_ichijitsu.mp3"
 調性與拍號：ニ長調 4/4 拍子，♩= 96
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（儀式歌〈一月一日〉；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P123）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈一月一日〉**](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md)（`D` / `4/4` — [原始 TMD](../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈一月一日〉**](../../shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu/index.md)（`D` / `4/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈一月一日〉**](../../shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md)（`D` / `4/4` — [原始 TMD](../../shokacho/vol_01/p123_ichigatsu_ichijitsu/ichigatsu_ichijitsu.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

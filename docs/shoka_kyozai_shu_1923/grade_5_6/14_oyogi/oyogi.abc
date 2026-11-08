@@ -2,9 +2,23 @@ X:1
 T:およぎ
 M:2/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=130
+K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+F3 F F2 C2 | F3 G A4 | B3 A G2 F2 | G4 C4 |
+w: オ ヨ ギ ハ | ナ ツ ノ | タ ノ シ キ | ユウ ギ
+F3 G A2 B2 | c3 d c4 | d3 c B2 A2 | G3 A G4 |
+w: ト ビ コ メ | カ ハ ニ | ク グ レ ヤ | ウ ミ ニ
+c3 c d2 d2 | c3 c F2 F2 | A3 G F2 G2 | A3 A A4 |
+w: ウ カ ブ モ | シ ヅ ム モ | コ コ ロ ノ | マ マ ニ
+F3 F F2 C2 | F3 G A2 A2 | B3 A G2 G2 | C2 C2 F4 |
+w: ウ ミ ニ ハ | オ ソ レ ヌ | ヲ ノ コ ト | ナ ラ ム
+F3 F F2 C2 | F3 G A4 | B3 A G2 F2 | G4 C4 |
+w: お よ ぎ は | な つ の | た の し き | うん どう
+F3 G A2 B2 | c3 d c4 | d3 c B2 A2 | G3 A G4 |
+w: み _ を ば | ふ ね に | な み を ば | ま く らに
+c3 c d2 d2 | c3 c F2 F2 | A3 G F2 G2 | A3 A A4 |
+w: ゆ _ く も | か へ る も | お も ひ の | ま ま に
+F3 F F2 C2 | F3 G A2 A2 | B3 A G2 G2 | C2 C2 F4 |
+w: な み か ぜ | お そ れ ぬ | を の こ と | な ら む

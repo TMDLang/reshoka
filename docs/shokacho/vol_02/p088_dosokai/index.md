@@ -25,14 +25,6 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P088.jpg (Notebook 2, p.2
 Notation: Handwritten 5-line staff (1 flat = F major, 4/4 time, 16 bars, 2-part chorus)
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
-
-- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈同窓會〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_09_dosokai/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_09_dosokai/dosokai.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈同窓會（二部）〉**](../../../shoka_kyozai_shu_1923/koto_1_2/20_dosokai/index.md)（`F` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/20_dosokai/dosokai.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

@@ -14,7 +14,9 @@ audio: "kokai.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kokai.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kokai_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kokai.mp3"></audio>
+
 
 - 葛原齒 作詞
 - 小松耕輔 作曲
@@ -26,15 +28,6 @@ audio: "kokai.mp3"
 調性與拍號：へ長調四分之三拍子（F 大調 3/4 拍）
 作詞：葛原齒　作曲：小松耕輔
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》第六學年與《新定兒童唱歌》第四學年〈航海〉「今日船出して…」為同曲；《新定兒童唱歌》第五學年與《共益商社唱歌教科書》卷一為同名異曲）
-
-- **[同名異曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈航海〉**](../../../kogakko_shoka/grade_6/8_kokai/index.md)（`C` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_6/8_kokai/kokai.tmd)）
-- **[同名異曲]** 《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）：[**〈航海〉**](../../../kyoeki_shoka/kan_1_854862/18_kokai/index.md)（`G` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_1_854862/18_kokai/kokai.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈航海〉**](../../grade_4_2020.006.0847.0004/4_10_kokai/index.md)（`C` / `2/4` — [原始 TMD](../../grade_4_2020.006.0847.0004/4_10_kokai/kokai.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

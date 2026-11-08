@@ -26,13 +26,6 @@ audio: "nihon_sankei.mp3"
 調性與拍號：變ホ長調（Eb 大調，3 降記號）4/4 拍（弱起 1 拍），速度 ♩=88
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）：[**〈日本三景〉**](../../../kyoeki_shoka/kan_1_854862/9_nihon_sankei/index.md)（`C` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_1_854862/9_nihon_sankei/nihon_sankei.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

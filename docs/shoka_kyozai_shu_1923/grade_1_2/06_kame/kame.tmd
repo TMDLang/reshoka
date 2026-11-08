@@ -4,7 +4,7 @@
 ~ "tag: source:school_textbook"
 ~ "tag: source_page:P020"
 ~ "tag: provenance:printed_text"
-~ "tag: evidence:editorial"
+~ "tag: evidence:scan_verified"
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:animal"
@@ -18,8 +18,8 @@
 ~ "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 
 /* =========================================================================
-   原書資訊與歌詞全文（對應 P010.jpg–P011.jpg，原書 p. 4–5，第一學年第 2 首）：
-   調性與拍號：ヘ長調 4/4 拍子，♩=120
+   原書資訊與歌詞全文（對應 P020.jpg–P021.jpg，原書 p. 12–13，尋常科第一、二學年第 6 首）：
+   調性與拍號：ヘ調四拍子（F 大調 4/4 拍），♩=120
    作曲：臺灣總督府國語學校助教授 宮島慎三郎
 
    一、かめさんかめさん　こちらへおいで。
@@ -49,4 +49,4 @@ Kame:Piano@|0|{
     L2| す - - - き - な - | お - くゎ - し - を - | い - ま - あ - げ - | ま - せ - う - _ - |
 }
 
--> Kame -> #
+-> Kame[L1] -> Kame[L2] -> #

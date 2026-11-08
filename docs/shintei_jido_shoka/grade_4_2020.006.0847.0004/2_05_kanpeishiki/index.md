@@ -29,13 +29,6 @@ audio: "kanpeishiki.mp3"
 速度指示：元氣ヨク（♩=100）
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈觀兵式〉**](../../../kogakko_shoka/grade_4/16_kanpeishiki/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_4/16_kanpeishiki/kanpeishiki.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

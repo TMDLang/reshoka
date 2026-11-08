@@ -12,35 +12,35 @@ image: "0_book_info/P344.jpg"
 
 | 曲次 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
 | :--- | :--- | :--- | :--- | :--- |
-| (1) | [**朧月夜**](01_oborozukiyo/index.md) | — | `?=D` `<3/4>` `!=72` | P345.jpg, P346.jpg |
-| (2) | [**二宮尊徳**](02_ninomiya_sontoku/index.md) | 詞：桑田春風 / 曲：田村虎藏 | `?=B,` `<3/4>` `!=100` | P347.jpg, P348.jpg |
-| (3) | [**螢狩**](03_hotarugari/index.md) | — | `?=C` `<2/4>` `!=96` | P349.jpg, P350.jpg |
-| (4) | [**秋曉**](04_shugyo/index.md) | — | `?=C` `<2/4>` `!=96` | P351.jpg, P352.jpg |
+| (1) | [**朧月夜**](01_oborozukiyo/index.md) | 詞：高野辰之（文部省《尋常小學唱歌》第六學年） / 曲：岡野貞一（文部省《尋常小學唱歌》第六學年） | `?=D` `<3/4>` `!=72` | P345.jpg, P346.jpg |
+| (2) | [**二宮尊徳**](02_ninomiya_sontoku/index.md) | 詞：桑田春風 / 曲：田村虎藏 | `?=B,` `<3/4>` `!=96` | P347.jpg, P348.jpg |
+| (3) | [**螢狩**](03_hotarugari/index.md) | — | `?=C` `<4/4>` `!=104` | P349.jpg, P350.jpg |
+| (4) | [**秋曉**](04_shugyo/index.md) | — | `?=G` `<4/4>` `!=116` | P351.jpg, P352.jpg |
 | (5) | [**秋の實（二部輪唱）**](05_aki_no_mi/index.md) | — | `?=C` `<2/4>` `!=80` | P353.jpg, P354.jpg |
-| (6) | [**胡蝶**](06_kocho/index.md) | — | `?=G` `<6/8>` `!=60` | P355.jpg, P356.jpg |
-| (7) | [**村祭（二部）**](07_muramatsuri/index.md) | — | `?=G` `<4/4>` `!=112` | P357.jpg, P358.jpg |
+| (6) | [**胡蝶**](06_kocho/index.md) | — | `?=G` `<6/8>` `!=120` | P355.jpg, P356.jpg |
+| (7) | [**村祭（二部）**](07_muramatsuri/index.md) | — | `?=G` `<4/4>` `!=108` | P357.jpg, P358.jpg |
 | (8) | [**送別の歌**](08_sobetsu_no_uta/index.md) | — | `?=F` `<2/4>` `!=66` | P359.jpg, P360.jpg |
-| (9) | [**時は金**](09_toki_wa_kane/index.md) | — | `?=C` `<2/4>` `!=96` | P361.jpg, P362.jpg |
+| (9) | [**時は金**](09_toki_wa_kane/index.md) | — | `?=G` `<4/4>` `!=132` | P361.jpg, P362.jpg |
 | (10) | [**歸雁**](10_kigan/index.md) | — | `?=F` `<4/4>` `!=80` | P363.jpg, P364.jpg |
-| (11) | [**コロンブス**](11_koronbusu/index.md) | — | `?=C` `<4/4>` `!=104` | P365.jpg, P366.jpg, P367.jpg, P368.jpg |
-| (12) | [**芝山巖**](12_shizangan/index.md) | — | `?=C` `<2/4>` `!=96` | P369.jpg, P370.jpg |
-| (13) | [**兄弟（二部輪唱）**](13_kyodai/index.md) | — | `?=C` `<2/4>` `!=96` | P371.jpg, P372.jpg |
+| (11) | [**コロンブス**](11_koronbusu/index.md) | — | `?=E,` `<6/8>` `!=104` | P365.jpg, P366.jpg, P367.jpg, P368.jpg |
+| (12) | [**芝山巖**](12_shizangan/index.md) | 詞：加部嚴夫 / 曲：高橋二三四 | `?=C` `<4/4>` `!=69` | P369.jpg, P370.jpg |
+| (13) | [**兄弟（二部輪唱）**](13_kyodai/index.md) | — | `?=G` `<4/4>` `!=92` | P371.jpg, P372.jpg |
 | (14) | [**陣營の月**](14_jinei_no_tsuki/index.md) | — | `?=F` `<4/4>` `!=88` | P373.jpg, P374.jpg |
-| (15) | [**樂の響（二部）**](15_gaku_no_hibiki/index.md) | — | `?=C` `<2/4>` `!=96` | P375.jpg, P376.jpg |
-| (16) | [**にぎみたま**](16_nigimitama/index.md) | 曲：芝葛鎮 | `?=G` `<4/4>` `!=104` | P377.jpg, P378.jpg |
-| (17) | [**新高山**](17_niitakayama/index.md) | — | `?=C` `<3/4>` `!=100` | P379.jpg, P380.jpg |
-| (18) | [**花の曉（二部）**](18_hana_no_akatsuki/index.md) | — | `?=C` `<2/4>` `!=96` | P381.jpg, P382.jpg |
-| (19) | [**乃木大將**](19_nogi_taisho/index.md) | 曲：小松耕輔 | `?=G` `<2/4>` `!=84` | P383.jpg, P384.jpg, P385.jpg, P386.jpg |
-| (20) | [**同窓會（二部）**](20_dosokai/index.md) | 詞：旗野士良 / 曲：モツアルト（獨）（Wolfgang Amadeus Mozart） | `?=F` `<4/4>` `!=104` | P387.jpg, P388.jpg |
-| (21) | [**春の野**](21_haru_no_no/index.md) | — | `?=G` `<4/4>` `!=108` | P389.jpg, P390.jpg |
+| (15) | [**樂の響（二部）**](15_gaku_no_hibiki/index.md) | — | `?=C` `<2/2>` `!=126` | P375.jpg, P376.jpg |
+| (16) | [**にぎみたま**](16_nigimitama/index.md) | — | `?=G` `<4/4>` `!=104` | P377.jpg, P378.jpg |
+| (17) | [**新高山**](17_niitakayama/index.md) | 詞：加部嚴夫 / 曲：岡野貞一 | `?=C` `<3/4>` `!=100` | P379.jpg, P380.jpg |
+| (18) | [**花の曉（二部）**](18_hana_no_akatsuki/index.md) | — | `?=F` `<4/4>` `!=126` | P381.jpg, P382.jpg |
+| (19) | [**乃木大將**](19_nogi_taisho/index.md) | 詞：武島羽衣 / 曲：田中穗積 | `?=B,` `<6/8>` `!=63` | P383.jpg, P384.jpg, P385.jpg, P386.jpg |
+| (20) | [**同窓會（二部）**](20_dosokai/index.md) | — | `?=F` `<4/4>` `!=108` | P387.jpg, P388.jpg |
+| (21) | [**春の野**](21_haru_no_no/index.md) | — | `?=G` `<4/4>` `!=116` | P389.jpg, P390.jpg |
 | (22) | [**四季の散歩**](22_shiki_no_sanpo/index.md) | — | `?=G` `<4/4>` `!=126` | P391.jpg, P392.jpg |
 | (23) | [**樂しき我家**](23_tanoshiki_wagaya/index.md) | — | `?=E` `<6/8>` `!=80` | P393.jpg, P394.jpg, P395.jpg, P396.jpg |
-| (24) | [**曉景（二部輪唱）**](24_gyokei/index.md) | — | `?=E,` `<4/4>` `!=96` | P397.jpg, P398.jpg |
-| (25) | [**夏のたのしみ（二部）**](25_natsu_no_tanoshimi/index.md) | — | `?=C` `<2/4>` `!=96` | P399.jpg, P400.jpg |
-| (26) | [**月**](26_tsuki/index.md) | — | `?=C` `<2/4>` `!=96` | P401.jpg, P402.jpg |
-| (27) | [**秋の野（二部）**](27_aki_no_no/index.md) | 詞：佐々木信綱 / 曲：内田粂太郎 | `?=C` `<4/4>` `!=88` | P403.jpg, P404.jpg |
-| (28) | [**岩間清水**](28_iwama_shimizu/index.md) | — | `?=C` `<2/4>` `!=96` | P405.jpg, P406.jpg |
-| (29) | [**君が代の初春（二部）**](29_kimigayo_no_hatsuharu/index.md) | — | `?=F` `<2/2>` `!=72` | P407.jpg, P408.jpg |
+| (24) | [**曉景（二部輪唱）**](24_gyokei/index.md) | — | `?=E,` `<4/4>` `!=116` | P397.jpg, P398.jpg |
+| (25) | [**夏の樂み（二部）**](25_natsu_no_tanoshimi/index.md) | — | `?=D` `<4/4>` `!=108` | P399.jpg, P400.jpg |
+| (26) | [**月**](26_tsuki/index.md) | — | `?=B,` `<4/4>` `!=86` | P401.jpg, P402.jpg |
+| (27) | [**秋の野（二部）**](27_aki_no_no/index.md) | — | `?=F` `<6/8>` `!=108` | P403.jpg, P404.jpg |
+| (28) | [**岩間の清水**](28_iwama_shimizu/index.md) | — | `?=G` `<4/4>` `!=100` | P405.jpg, P406.jpg |
+| (29) | [**君が代の初春（二部）**](29_kimigayo_no_hatsuharu/index.md) | — | `?=F` `<4/4>` `!=100` | P407.jpg, P408.jpg |
 | (30) | [**遠別離**](30_enbetsuri/index.md) | — | `?=A,` `<4/4>` `!=100` | P409.jpg, P410.jpg |
 | (31) | [**時は生命**](31_toki_wa_inochi/index.md) | — | `?=C` `<2/4>` `!=96` | P411.jpg, P412.jpg |
 | (32) | [**我國兵士**](32_wagakuni_heishi/index.md) | — | `?=B,` `<2/4>` `!=132` | P413.jpg, P414.jpg, P415.jpg, P416.jpg |

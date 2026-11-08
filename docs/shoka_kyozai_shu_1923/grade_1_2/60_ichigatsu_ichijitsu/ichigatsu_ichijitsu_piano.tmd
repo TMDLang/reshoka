@@ -4,16 +4,17 @@
 ~ "tag: source:school_textbook"
 ~ "tag: source_page:P128"
 ~ "tag: provenance:printed_text"
-~ "tag: evidence:editorial"
+~ "tag: evidence:scan_verified"
 ~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
 ** 一月一日（雙手鋼琴伴奏） **
 != 96
 ?= D
 <4/4>
 ~ "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+~ "尋常科第一、二學年用（第 120–121 頁）"
 ~ "詞：千家尊福"
 ~ "曲：上真行"
-~ "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 
 IchigatsuIchijitsu:PianoRH@|0|{
     <8*>

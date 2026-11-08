@@ -39,14 +39,6 @@ audio: "wagakuni_heishi.mp3"
 2. 主歌伴奏 (Song, 37 小節 × 2 段)：左手採用軍歌進行曲標準的低音與和絃交替律動。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（〈我國兵士〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P159《小公學校唱歌教材集》抄譜）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈我國兵士〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/index.md)（`B,` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/wagakuni_heishi.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈我國兵士〉**](../../../shokacho/vol_01/p159_wagakuni_heishi/index.md)（`B,` / `2/4` — [原始 TMD](../../../shokacho/vol_01/p159_wagakuni_heishi/wagakuni_heishi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

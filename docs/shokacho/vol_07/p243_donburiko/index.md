@@ -27,13 +27,6 @@ Marginal notes: 16 / 三年 / 西郷景詩 / 蓬 51頁
 Key: ハ調 (C major), Time: 2/4
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（〈どんぶりこ〉；收錄於《新定兒童唱歌》四年級與《唱歌帖》P243《蓬萊唱歌集》抄譜）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈どんぶりこ〉**](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko/index.md)（`C` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko/donburiko.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

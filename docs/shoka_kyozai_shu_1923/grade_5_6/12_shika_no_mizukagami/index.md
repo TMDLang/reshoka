@@ -1,7 +1,7 @@
 ---
 title: "鹿の水鏡 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
 song_title: "鹿の水鏡"
-description: "〈鹿の水鏡〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：待對照 P254.jpg–P255.jpg（原書 p. 246–247）轉錄校對…"
+description: "〈鹿の水鏡〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "鹿の水鏡, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
@@ -16,19 +16,37 @@ audio: "shika_no_mizukagami.mp3"
 
 <audio controls src="shika_no_mizukagami.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
 
 ## 說明
 
-
-- 出處：一條慎三郎 編《新編 小學校- 公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 調性與拍號：調號 ?= C，拍號 <2/4>，速度 != 96
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P254.jpg`–`P255.jpg`，原書 p. 246–247，尋常科五・六學年第 12 首）：
+> - **調性與拍號**：ハ調二拍子（C 大調 2/4 拍），速度 ♩= 96，弱起拍（第 2 拍後半兩個十六分音符起唱）。
+> - **版面校勘**：五線譜與簡譜逐音核對一致，僅兩處排版細微差異：
+>   1. 第 15 小節（第四行第 3 小節）簡譜作 `5.5 5 5`（第 1 拍附點八分加十六分），五線譜第 1 拍無附點，依歌詞「のだとみ／すがにあ」與簡譜記為 `5 - - 5 5 - 5 -`。
+>   2. 第 18 小節（第五行第 2 小節）簡譜作 `1^ 6_ 3^`（五線譜第 2 拍前半為八分休止符加八分音符 `3^`），第一節唱 2 音（「イ　ウ」）、第二節唱 2 音（「い　う」），依五線譜記為 `1^ - - - 0 - 3^ -`。
+>
+> **一、**
+> 山（やま）の奧（おく）から水飲（みづの）みに
+> 鹿（しか）が谷（たに）へと出（で）て來（き）たが
+> たまたま自分（じぶん）の影（かげ）をながめ
+> きれいな角（つの）だとみとれてゐる
+> きれいきれい　うれし　うれし。
+>
+> **二、**
+> 犬（いぬ）は見（み）るよりよろこんで
+> 鹿（しか）をめがけて吠（ほ）えつけば
+> あわてて逃（に）げる姿（さま）をかし
+> されどもさすがに足（あし）の早（はや）さ
+> 早（はや）い早（はや）い　うれし　うれし。
 
 
 ## 歌詞
 
 ```text
-待對照 P254.jpg–P255.jpg（原書 p. 246–247）轉錄校對
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -42,14 +60,34 @@ Q:1/4=96
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+z4 z2 G A | G4 z2 F2 | E D C z z2 C2 | C4 c3 A |
+w: や ま | の お | く か ら み | づ の み
+G6 G A | G4 z2 E2 | A B c z z2 A2 | G z z C E4 |
+w: に し か | が た | に へ と で | て き た
+D6 E E | E4 E2 E2 | E4 E2 A2 | E2 E2 A2 B2 |
+w: が た ま | た ま じ | ぶん の か | げ を な が
+c6 G G | G4 G2 G2 | G3 G G2 G2 | G2 F2 E2 D2 |
+w: め き れ | い な つ | の だ と み | と れ て ゐ
+C6 G2 | A2 G2 A2 B2 | c4 z2 e2 | d2 c2 A2 B2 |
+w: る き | れ い き れ | い う | れ し う れ
+c6 z2 | z4 z2 G A | G4 z2 F2 | E D C z z2 C2 |
+w: し | い ぬ | は み | る よ り よ
+C4 c3 A | G6 G A | G4 z2 E2 | A B c z z2 A2 |
+w: ろ こ ん | で し か | を め | が け て ほ
+G z z C E4 | D6 E E | E4 E2 E2 | E4 E2 A2 |
+w: え つ け | ば あ わ | て て に | げ る さ
+E2 E2 A2 B2 | c6 G G | G4 G2 G2 | G3 G G2 G2 |
+w: ま を か し | _ さ れ | ど も さ | す が に あ
+G2 F2 E2 D2 | C6 G2 | A2 G2 A2 B2 | c4 z2 e2 |
+w: し の は や | さ は | や い は や | い う
+d2 c2 A2 B2 | c6 z2 |
+w: れ し う れ | し
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shika_no_mizukagami.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJmaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgovd-5_3Lju2YYtL_sXKmhpcSnaKliacdnbKjhz2Rjpm9iBTHqyo-HZornPWvue7Oh82dyn8Hz7iscNXc-mbQAyFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbY8but_v6Xi6ZPmztYuf9jY-2dXzdOcWCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhi-39OpxMWlr6XwdF_r0w29z1uXK4CCRS-rIP1Rw2Qg0xTEBBnaNx-oU6FAT8HIxAwoZWRiDtT7Ym_ny54WoEuAehW09Lm4fBMz86wCMhPz8h1qDGoUqrkUgMDGRMsOzKhRMFQwApLGCqZA0hRI1wD5hmASxIaJgNQYKhgo1HDVcnHp2imATFUA0spcAA)]
-- [鋼琴伴奏 TMD 檔案](shika_no_mizukagami_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJmaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFWJRUDx9NTc1LwSq4LMxLz8-MTk5PzcgsS8TJCYEpeWlsLLnfsfN657tmHLy_6F7_d0vJw981ln98vuPc8nbHmyZ8vTpf3v93QqaGlxKdoqWJpx2dsqOHPZGOmb2IEsebKj4dmiuc9a-57s6HzZ3KfwfPuKxw1dz6ZtADIUnm7of7p2x7MFCx83737augbCVng6ZeOztT3Pps58NnfCy9ltjxu6gZY-XbL82drFT3sbn-zqebpzC4TxbE7H-z09z7csejZ7x4uZ8xUMzI1MdU0Mgc5R4uLS11J4uq_16Ybe563LFUDhqpdVkP6oYTKQaQpiggztmw_UqVCgp2BkYgaUMjIxB-p9sbfzZU8L0CVAvQpa-lxcQZnpGSUeiXkpVgGgEHKoMahRqOZSAAIbEy07MKNGwVDbWMFI2wTIMtY2VTDVNowDMsEUiF8DlgOpgbAgYmjS5vHaRlCTDBRquGq5uHxS0whbHK9gGg-hjUE0kANkYtJASRjfNB6qAWqNrp0C3I8KQI4ySARmN0QAAA)]
+- [主旋律 TMD 檔案](shika_no_mizukagami.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJmaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYgy6alpiUk6rEpaWl8HLn_seN655t2PKyf6GClhaXoq2CpRmXva2CM5eNkb6JHUgjyPdWCs-mbXi-fYXC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54Obvt_Z6Opxu6n-7Y8Xz5xCe7poCVrgUqfbpzy_MpK97v6QQ76MmOhmeL5j5r7Xuyo_Nlc58C0PjHDV2k2PO4oRtk1ZLlz9Yuftrb-GRXD9AGCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhiC7ebS11KwpRbgUlBQsFOIVvTzD3GNhXC0tJ72zQfZu7n9xYquFx3tQDe_WDnvaeuKZ9PatbTAodP7rL1TIQGUfPSyCtITHjVMBnFMwRygwyEGKBToKRiZmAEljUzMQaK4AnXNGgVDI4WXy6YB_fd-zyyIM3SBDnmxav-zhuUgJ3T3AoMBZPmsx839QGFQGHX3Pl07AegcZwVgGALFFIBRrgAUBZvS87Jh_tNdyxQezVwJShQg6_dsfLF1O1i-A2SlEUjt0309T3u7nraufNrQDQx6kJs62l7O3_x8zTKgYmCEAQ173NCEcNLzzo6XcxcBY_Np9wywe4Ceeb591ou1c4DOfL5hIZDxsmEC0IRnC3YAwwmYSl60bwHZ3twKtOXFzKnP-iYBzXi-ZcPTfeuebl_3fOoGuJcVFAz1FMChYQpKQc_XN0Cc-nT27BcLe0ASxnDxTohdT_bOUUgw1TNVAEJgyIM9Zgjy2MuZLS93AyNtNdA_T7sWwP0GCRy4o-Hqn7cshGgBye6bC4nzxw09wPz1uHHB48YVjxv3v9_T_7hx5uNGoODqx41Njxt64X5-sWLG86ZdQKcAA0kX5BgwqZsADzsFBSOo3yxQ_AZ0CdRvRlj9ZhinYBavYBwH8hyKqyHR19kLjD6gzRCPPtkz8dnaRcC4A_kYLAKJSoUEsAEgn4Os3NEAtAYYt0AzgPJAg0H-bFryuKHhcdMyoK_Acd4IdlwPFpWNLSCVjcD8C01qwPBCpAJoQADdDQoJXQUDIDYGcuBBActlQGcAbQGWWmD-043ApNbxuKnlceM-kP2N654uXQ4Saex63NgPFul-3NQJKusWbwKLA4u-pUBlYCkgezXEHGCRCJadDlQPlup5sWE7WGQ-UA1YZAcwNp-27wILAq0Aiix7sg9U6j1uBHsdpLIHYhqYvQ9CvmhfBU4_QGUzHjdue9w0GerOvWCXA53XOAkk0jTpceMqUCJpaoQZ0vu4CRxsjateLAeqASpeAnM5NGmBSJCaZY-bJjxu6sbQCGNAAh7Eno7KRgvbXT1IYfu8aw3YUqA5QAbQ0vUvloGKXnCSBjoYGLDAkO8Ck72PGycDvQYMGezhCfRdUyM4C0wEuvbphAVg2d1gYyH-AopvgLm_6XETMMssA6KXDc1glZAoABrS_XQ5xOSp0BgHhRswDKfD9E4Fe23l46YmsBpovnuxDZwMgSY3ToeE_7PpK8Ei64GJBywyFWIChngLpgiB8KS8foECBS19Lq7gjMzsRL9838yq0uzE9MTcTKuAzMS8fIcag5pqkG0KNoZmWuAoVMBWxSlACnBQkQPOw8BiQ0EDVutoYlEPtBNkVg04C8KyoqmCGVAEUkxBREyAuAZYshoBC0IDsIghWAREgiA0JyNrg5RxQBGwBT6GNQrxUFEQDQxdYPTtA6oHxg6yeGMX2GBgfgbibqC6TqA4RGY_VGYpVD1MJ0gGJL4ayWZg_ID1Q203QrO9EWT7GrCu9SjiUDuaQDZ3AHEXzHYgDyLTC7dhMoRumgw2ZzlW23HHFKToBEeQCbRU11EgKqqQI8YY7CozBXNQFEBixgwsZArmGYIVgGANMO4QDjQGQkTEAHMNSiDMhwb0aiDeAcQr4FEA8iRIZhlYBFjkQFVDbECYAwmE-ZAohkcBMPsi29PUCNcFLBHgpoJ07obKdEDtWQJWgbBnA4o9TUCz-gkG9o5OcgIbFn4gGhLYyCKQsIbJgXjmYBF4zQbJBaYogQ0LMFDggMgZUE-Bqgu4FChpg5IQRAoUbpDQA9YPYBIU0qAQBYUhIiSA8dHUgxziwDCFyYFYkEwCMxGSfEF2AAtEqDjYSVCbIDLTwTIIWyCqIfbgDXFIk4zs5A1tHsFF4A0mqAioTAKFOihdI0oimE7kAG-BuxsSdkugfoUVHwvAaRy5iAHzgD6Eh1vTBGh4g8IEObzhNoFDeyU8VJtQQnUmVD0opYNiAJRmITKg0IXFNqgoAhWMEBmQXoRNIDmCxQmomUhyeINSLSjEsKReWLsMVHqAKLAEjlQOUosU6NDAA3kGEkwQEeTogGT1NmjAQtRDggMkhlAPEoNBkB7kAgViPoREDT7Kbanl4tK1U8CokaN9DGMVsEsYgSWUuQA)]
+- [鋼琴伴奏 TMD 檔案](shika_no_mizukagami_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJmaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqsQMKJOeiiaYlJOalKXFpaCi937n_cuO7Zhi0v-xe-39PxcvbMZ53dL7v3PJ-w5cmeLU-X9r_f06mgpcWlaKtgacZlb6vgzGVjpG9iBzIQFHxWCs-mbXi-fYXC0w39T9fueLZg4ePm3U9b10DYCk-nbHy2tufZ1JnP5k54ObsNaMPTDd1Pd-x4vnzik11TwErXApU-3bnl-ZQVQKvADn2yo-HZornPWvue7Oh82dynADT-cUMXKfY8bugGWbVk-bO1i5_2Nj7Z1QO0AcJ4Nqfj_Z6e51sWPZu948XM-QoG5kamuiaGYLu5PPNKivKtAkDBGuThUGNQU82lAAQ2hmZadmBWjYKZgq6CKRCDaHMgrlEwjANSIGgAxMYgTo2CEYgCS2BRB1Nbw1WLYqUPspUWcBtN4hWiTWIVTOOBtGl8LMgkIMswFkbhV2EAsSY4IzM70S_fN7OqNDsxPTE3E58v9bUUbNGBwtM9G19s3f6io_35mjXAGHqxsEdBA5hNTPWyCtI1sajX0oe6H-RVmJdNgeFRAw4_mIgJOGyMFYwUDIF8kIghJLSgaqChhqwNBMEGgS3wMaxRiIeKgujHTS0Kjxv3AdUDEzayeGMX2ODHjf1A3A1U1wkUh8jsh8oshaqH6QTJgMRXI9n8uHE6WD_UdiM02xtBtq8B61qPIg61owlkcwcQd8FsB_IgMr1wGyZD6KbJYHOWY7Udd0yBImhXDziCTED55fn6Bh0FoqIKOWKMwa4yAyZeYBRAYgaUlkGKQDxDsAIQBKZ2JAcaAyEiYh439qAEwnxoQK8G4h1AvAIeBSBPgmSWgUUeN_ZCVUNsQJgDCYT5kCiGR8HjpknI9jQ1wnU9bpwINxWkczdUpgNqzxKwCoQ9G1DsaQKa1U8wsHd0khPYsPAD0ZDARhaBhDVMDkcpYgqEyIENCzBQ4IDIGVBPbQMlJeSkDUpCEClQuEFC73HjKjAJCmlQiILCEBESwPho6kEOcWCYwuRALEgmgZkISb4gOx43ToWKg50EtQkiMx0sg7AFohpiD94Qfzp7NiXJG0SDMEwEFIzIIqAyCRTqoHSNKIlgOpEDvAXubkjYLYH6FVZ8LACnceQiBswD-hAebk0ToOENChPk8IbbBA7tlfBQbUIJ1ZlQ9aCUDooBUJqFyIBCFxbboKIIVDBCZEB6ETaB5AgWJ1PICW-q1pXwQIcGHsgzkGCCiCBHBySrt0EDFqIeEhwgMYR6kBgMgvQgFygQ8yEkavBRbgvuChlHGwBWh8JrdsKtASiF3haAmEe8Hog83DoQA2GMGUjYLD43FomFS9QYxDaGi4JZ6GpxOxCvg7A2eqjYeNK1UwA30xSADIx4i_YBqsUuYQSWUOYCAA)]
 
 ## 分析
 
@@ -57,28 +95,29 @@ D4 E4 | G4 E4 | D4 D4 | C4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 鹿の水鏡 ]
 ================================================================================
-⏱  Duration:       0:10 (10.0s), 8 measures total
+⏱  Duration:       0:52 (52.5s), 42 measures total
 🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – G4 (MIDI 67) [跨度: 7 個半音 / 0.6 個八度, 難度: easy]
-   - 最低音:  C4 in [Main #1 @ m.1, 0:00]
-   - 最高音: G4 in [Main #1 @ m.2, 0:01]
+🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  C4 in [ShikaNoMizukagami[L1] #1 @ m.3, 0:02]
+   - 最高音: E5 in [ShikaNoMizukagami[L1] #1 @ m.19, 0:23]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (10.0s)
+🏛  結構:      ShikaNoMizukagami[L1] (26.2s) -> ShikaNoMizukagami[L2] (26.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, E, C, G
-   - 調性數值:    G 大調 [相關度: 0.71, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.71), C 大調 (0.62), E 小調 (0.57)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  G, C, E, A, D
+   - 調性數值:    C 大調 [相關度: 0.91, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.91), E 小調 (0.76), G 大調 (0.74)
+   - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.71, 自然音純度: 100.0%)
+     • [ShikaNoMizukagami[L1] #1]: C 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [ShikaNoMizukagami[L2] #1]: C 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-               C  
-         F           [G ]*
+              [C ]*
+         F            G  
       Bb               D  
       Eb               A  
          Ab           E  
@@ -87,21 +126,21 @@ D4 E4 | G4 E4 | D4 D4 | C4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████            20.0%
+     C  : █████████████████████     24.7%
      C# :                            0.0%
-     D  : ████████████████████████  33.3%
+     D  : ██████                     7.5%
      D# :                            0.0%
-     E  : ███████████████████       26.7%
-     F  :                            0.0%
+     E  : ██████████████████        21.2%
+     F  : ██                         2.7%
      F# :                            0.0%
-     G  : ██████████████            20.0%
+     G  : ████████████████████████  28.1%
      G# :                            0.0%
-     A  :                            0.0%
+     A  : █████████                 11.0%
      A# :                            0.0%
-     B  :                            0.0%
+     B  : ████                       4.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – G4 (7 個半音 / 0.6 個八度, 15 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 126 個音符)
 ================================================================================
 ```
 

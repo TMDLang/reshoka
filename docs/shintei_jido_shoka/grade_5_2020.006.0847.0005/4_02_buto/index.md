@@ -14,7 +14,9 @@ audio: "buto.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="buto.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="buto_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="buto.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -24,16 +26,6 @@ audio: "buto.mp3"
 調性與拍號：と長調四分之三拍子（G 大調 3/4 拍），愉快ニ（♩= 126）
 出處與作歌：（獨逸民歌）、桑田春風
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《唱歌帖》P040〈無題・三拍子曲〉與 P171〈舞踏〉為同曲；《新定兒童唱歌》五年級、高女用及《唱歌帖》P230b 為同名異曲）
-
-- **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈舞踏〉**](../../koto_girls_2020.006.0849/1_3_05_buto/index.md)（`G` / `4/4` — [原始 TMD](../../koto_girls_2020.006.0849/1_3_05_buto/buto.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈舞踏〉**](../../../shokacho/vol_01/p171_buto/index.md)（`F` / `3/4` — [原始 TMD](../../../shokacho/vol_01/p171_buto/buto.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）：[**〈無題・三拍子曲〉**](../../../shokacho/vol_03/p040_mudai/index.md)（`F` / `3/4` — [原始 TMD](../../../shokacho/vol_03/p040_mudai/mudai.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈舞踏（舞蹈）〉**](../../../shokacho/vol_07/p230b_buto/index.md)（`B,` / `3/4` — [原始 TMD](../../../shokacho/vol_07/p230b_buto/buto.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

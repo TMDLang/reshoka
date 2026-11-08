@@ -14,7 +14,9 @@ audio: "hirose_chusa.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="hirose_chusa.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hirose_chusa_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="hirose_chusa.mp3"></audio>
+
 
 - 詞：文部省
 - 曲：文部省
@@ -25,13 +27,6 @@ audio: "hirose_chusa.mp3"
 原書資訊與歌詞全文（對應 P056.jpg，書頁 p. 33，第三學期第 7 首）：
 調性與拍號：と長調四分之四拍子（G 大調 4/4 拍），♩= 112，（文部省）
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（文部省『尋常小學唱歌』第四學年〈廣瀨中佐〉；《公學校唱歌》與《新定兒童唱歌》第五學年共同收錄）
-
-- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈廣瀨中佐〉**](../../../kogakko_shoka/grade_5/19_hirose_chusa/index.md)（`G` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/19_hirose_chusa/hirose_chusa.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

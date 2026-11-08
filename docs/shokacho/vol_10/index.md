@@ -44,5 +44,5 @@ image: "0_book_info/P188.jpg"
 | P215 | [**松島 (松島)**](p215_matsushima/index.md) | — | `?=G` `<4/4>` `!=126` | P215.jpg |
 | P216 | [**妙義山 (妙義山)**](p216_myogisan/index.md) | — | `?=D` `<3/4>` `!=132` | P216.jpg |
 | P217 | [**鄭成功 (鄭成功 - 未完成草稿)**](p217_teiseiko/index.md) | — | `?=G` `<2/4>` `!=108` | P217.jpg |
-| P220 | [**琵琶湖 (琵琶湖)**](p220_biwako/index.md) | — | `?=C` `<4/4>` `!=88` | P220.jpg |
+| P220 | [**琵琶湖**](p220_biwako/index.md) | — | `?=C` `<4/4>` `!=88` | P220.jpg |
 | P221 | [**螢狩（捕螢）**](p221_hotarugari/index.md) | — | `?=F` `<2/4>` `!=112` | P221.jpg |

@@ -31,14 +31,6 @@ audio: "asakaze.mp3"
 原典附註：豫習曲として前學年に出でたる「一月の遊び」及び「眞の勇士」を復習すべし。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《新定兒童唱歌》高等科男、女用為同曲；《共益商社唱歌教科書》卷三〈朝風〉為同名異曲）
-
-- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈朝風〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/1_5_01_asakaze/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/1_5_01_asakaze/asakaze.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈朝風〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_5_01_asakaze/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_5_01_asakaze/asakaze.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

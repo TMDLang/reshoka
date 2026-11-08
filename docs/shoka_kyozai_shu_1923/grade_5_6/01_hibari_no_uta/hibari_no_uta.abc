@@ -1,5 +1,6 @@
 X:1
 T:雲雀の歌
+C:曲：Felix Mendelssohn（《無言歌》或合唱曲〈Lerchengesang〉Op. 48 No. 4 改編）
 M:4/4
 L:1/16
 Q:1/4=100
@@ -7,7 +8,28 @@ K:A
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 z4 z4 z4 E4 | A2 G2 A2 B2 c4 E4 | A2 G2 A2 B2 c4 c4 | B6 c2 B2 A2 G2 F2 |
+w: あ | け _ ゆ _ く み | そ _ ら _ に と | く お き _ い _
 E6 G F E4 E4 | A2 G2 A2 B2 c4 E4 | A2 G2 A2 B2 c4 c4 | B6 c2 B2 A2 G2 F2 |
+w: で _ _ て く | も _ ま _ に あ | そ _ べ _ る わ | れ は あ _ さ _
 E6 G F E4 z4 | A8 c8 | e8 c8 | B3 B B3 B B4 c2 B2 |
+w: ひ ば _ り | た の | し き | の ぞ み _ も ち _
 A8 E4 z4 | A8 c8 | e8 c8 | B3 A G3 A B4 c4 |
-A8 z8 |
+w: て _ | と び | ゆ く | す が た を み よ
+A8 z8 | z4 z4 z4 E4 | A2 G2 A2 B2 c4 E4 | A2 G2 A2 B2 c4 c4 |
+w: や | か | す _ み _ を へ | だ _ て _ て げ
+B6 c2 B2 A2 G2 F2 | E6 G F E4 E4 | A2 G2 A2 B2 c4 E4 | A2 G2 A2 B2 c4 c4 |
+w: か い を _ み _ | れ _ _ ば か | す _ み _ に さ | へ _ づ _ る こ
+B6 c2 B2 A2 G2 F2 | E6 G F E4 z4 | A8 c8 | e8 c8 |
+w: の ま の _ も _ | も ど _ り | あ あ | わ れ
+B3 B B3 B B4 c2 B2 | A8 E4 z4 | A8 c8 | e8 c8 |
+w: み そ ら に た か _ | く _ | ひ ね | も す
+B3 A G3 A B4 c4 | A8 z8 | z4 z4 z4 E4 | A2 G2 A2 B2 c4 E4 |
+w: た の し く う た | はむ | く | れ _ ゆ _ く ひ
+A2 G2 A2 B2 c4 c4 | B6 c2 B2 A2 G2 F2 | E6 G F E4 E4 | A2 G2 A2 B2 c4 E4 |
+w: か _ げ _ に わ | か れ を _ つ _ | げ _ _ て ね | ぐ _ ら _ に い
+A2 G2 A2 B2 c4 c4 | B6 c2 B2 A2 G2 F2 | E6 G F E4 z4 | A8 c8 |
+w: そ _ げ _ る わ | れ は ゆ _ ふ _ | ひ ば _ り | あ す
+e8 c8 | B3 B B3 B B4 c2 B2 | A8 E4 z4 | A8 c8 |
+w: ま た | あ さ と く ゆ き _ | て _ | き か
+e8 c8 | B3 A G3 A B4 c4 | A8 z8 |
+w: ま し | あ め の ひ め ご | と

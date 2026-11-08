@@ -14,7 +14,9 @@ audio: "shukei.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="shukei.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="shukei_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shukei.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -23,13 +25,6 @@ audio: "shukei.mp3"
 原書資訊與歌詞全文（對應 P037.jpg，書頁 p. 14，第二學期第 2 首）：
 調性與拍號：へ長調四分之四拍子（F 大調 4/4 拍），（伊澤小學唱歌）
 
-
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《共益商社唱歌教科書》卷三・教師用（明治33年／1900）：[**〈秋景〉**](../../../kyoeki_shoka/kan_3_854864/10_shukei/index.md)（`G` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_3_854864/10_shukei/shukei.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

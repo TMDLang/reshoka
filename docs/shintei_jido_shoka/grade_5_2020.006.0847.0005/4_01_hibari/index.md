@@ -14,7 +14,9 @@ audio: "hibari.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="hibari.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hibari_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="hibari.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -24,16 +26,6 @@ audio: "hibari.mp3"
 調性與拍號：は長調四分之三拍子（C 大調 3/4 拍），優美ニ（♩= 84）
 出處與作歌：民歌（獨）、桑田春風
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第二學年〈ヒバリ〉為同曲；《新定兒童唱歌》五年級與《共益商社唱歌教科書》卷一〈雲雀〉為同名異曲）
-
-- **[同名異曲]** 《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）：[**〈雲雀〉**](../../../kyoeki_shoka/kan_1_854862/6_hibari/index.md)（`C` / `2/4` — [原始 TMD](../../../kyoeki_shoka/kan_1_854862/6_hibari/hibari.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈ヒバリ（雲雀）〉**](../../grade_2_2020.006.0847.0002/4_01_hibari/index.md)（`F` / `2/4` — [原始 TMD](../../grade_2_2020.006.0847.0002/4_01_hibari/hibari.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈雲雀〉**](../../../shoka_kyozai_shu_1923/grade_1_2/32_hibari/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/32_hibari/hibari.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈雲雀〉**](../../../shoka_kyozai_shu_1923/grade_3_4/36_hibari/index.md)（`C` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/36_hibari/hibari.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

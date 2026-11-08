@@ -2,9 +2,19 @@ X:1
 T:進め
 M:2/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=88
+K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+D3 D G3 G | B3 B A3 G | d3 d B3 G | A3 B A2 z2 |
+w: あ し な み | そ ろ へ て | へ い し に | ま け ず
+B3 B A3 G | E3 E D4 | B2 z2 B2 z2 | G2 z2 G2 z2 |
+w: す す め や | す す め | いち に | さん し
+D3 D G3 G | B3 B A3 G | d3 d B3 G | A3 B A2 z2 |
+w: れ つ を _ | そ ろ へ て | わ き め も | ふ ら ず
+B3 B A3 G | E3 E D4 | B2 z2 B2 z2 | G2 z2 G2 z2 |
+w: す す め や | す す め | いち に | さん し
+D3 D G3 G | B3 B A3 G | d3 d B3 G | A3 B A2 z2 |
+w: し せ い を | た だ し て | が う れ い | ま も り
+B3 B A3 G | E3 E D4 | B2 z2 B2 z2 | G2 z2 G2 z2 |
+w: す す め や | す す め | いち に | さん し

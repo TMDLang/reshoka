@@ -26,14 +26,6 @@ Marginalia: 319頁. 2.1.29 (昭和2年1月29日)
 Lyrics (10 Verses):
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（〈南洋の歌〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P207《小公學校唱歌教材集》抄譜）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈南洋の歌〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/index.md)（`C` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/nanyo_no_uta.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈南洋の歌〉**](../../../shoka_kyozai_shu_1923/grade_5_6/43_nanyo_no_uta/index.md)（`C` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/43_nanyo_no_uta/nanyo_no_uta.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

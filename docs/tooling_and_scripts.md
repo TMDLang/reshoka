@@ -253,7 +253,7 @@ python3 scripts/audit_piano_harmony.py docs/shintei_jido_shoka/grade_4_2020.006.
 
 ### 4. 音樂學統計與旋律動機檢索腳本
 
-以下腳本共用 [`scripts/shoka_data.py`](../scripts/shoka_data.py) 資料載入與音高特徵萃取模組，用於分析全庫 734 首曲目的音樂學特徵：
+以下腳本共用 [`scripts/shoka_data.py`](../scripts/shoka_data.py) 資料載入與音高特徵萃取模組，用於分析全庫 1,087 首曲目的音樂學特徵：
 
 #### (1) [`scripts/stats_tonality.py`](../scripts/stats_tonality.py) — 調性分布統計
 依叢書、冊別／學年、學期統計各調號（C、G、D、A、E、F、Bb、Eb、Ab 等）之曲數與百分比。

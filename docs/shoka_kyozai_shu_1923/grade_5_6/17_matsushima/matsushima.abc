@@ -4,10 +4,23 @@ M:4/4
 L:1/16
 Q:1/4=126
 K:G
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-z12 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G3 A | B4 B3 B d4 d3 B |
-A8 z4 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G2 A2 | B4 A2 G2 A4 G3 =F |
-G8 z4 B3 c | d8 z4 d3 B | A8 z4 A3 B | c4 c3 c c4 B3 A |
-B8 z4 G3 B | d8 z4 B3 A | G8 z4 =F3 E | D4 G3 B A4 G3 =F |
-G12 z4 |
+z4 z4 z4 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G3 A | B4 B3 B d4 d3 B |
+w: タ チ | ナ ラ ブ マ ツ ノ | キ セ ン | ネ ン ノ コ ミ ド
+A8 z4 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G3 A | B4 A3 G A4 G3 F |
+w: リ ワ ダ | カ マ ル オ イ マ | ツ ソ ノ | ス ガ タ オ モ シ
+G8 z4 B3 c | d12 d3 B | A12 A3 B | c4 c3 c c4 B3 A |
+w: ロ ナ ミ | ハ シ ロ | ク マ サ | ゴ ヂ ハ キ ヨ ラ
+B8 z4 G3 B | d12 B3 A | G12 G3 F | D4 G3 B A4 G3 F |
+w: カ マ ホ | ヤ カ タ | ホ オ キ | ト ホ ク コ ギ ユ
+G8 z4 z4 | z4 z4 z4 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G3 A |
+w: ク | こ れ | ぞ か の り く ぜ | ん ま つ
+B4 B3 B d4 d3 B | A8 z4 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G3 A |
+w: し ま の な が め | ぞ ひ の | も と に な だ か | き さ ん
+B4 A3 G A4 G3 F | G8 z4 B3 c | d12 d3 B | A12 A3 B |
+w: け い の ひ と つ | よ ひ と | よ ゆ け | よ た ぐ
+c4 c3 c c4 B3 A | B8 z4 G3 B | d12 B3 A | G12 G3 F |
+w: ひ な き こ の ち | に ゆ き | て あ そ | べ た ぐ
+D4 G3 B A4 G3 F | G8 z4 z4 |
+w: ひ な き ら く ゑ | ん

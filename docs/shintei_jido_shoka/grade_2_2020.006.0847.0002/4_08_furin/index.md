@@ -31,13 +31,6 @@ audio: "furin.mp3"
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「カハヒゲニ」
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈風鈴〉**](../../../kogakko_shoka/grade_5/8_furin/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_5/8_furin/furin.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

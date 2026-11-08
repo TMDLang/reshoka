@@ -1,10 +1,50 @@
 X:1
 T:兄弟（二部輪唱）
-M:2/4
+M:4/4
 L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
+Q:1/4=92
+K:G
+V:V1 name="Alto" snm="Alt"
+V:V2 name="Soprano" snm="Sop"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+z16 | z16 | z16 | z16 |
+G6 A2 B4 B4 | c2 B2 A2 G2 A4 G4 | F6 G2 A4 A4 | B2 A2 G2 F2 G4 D4 |
+w: ワ ガ チ チ | ハ _ ハ _ ガ ム | ク ロ ヲ ワ | カ _ チ _ シ ワ
+B6 c2 d4 d4 | e2 d2 c2 B2 c4 B4 | A6 B2 c4 c4 | d2 c2 B2 A2 B4 z4 |
+w: ガ ミ ハ ヤ | ガ _ テ _ モ ワ | ガ ハ ラ カ | ラ _ ノ _ ミ
+z16 | z16 | z16 | z16 |
+G6 A2 B4 B4 | c2 B2 A2 G2 A4 G4 | F6 G2 A4 A4 | B2 A2 G2 F2 G4 D4 |
+w: わ が は ら | か _ ら _ も ま | た ち ち は | は _ よ _ り む
+B6 c2 d4 d4 | e2 d2 c2 B2 c4 B4 | A6 B2 c4 c4 | d2 c2 B2 A2 B4 z4 |
+w: く ろ を わ | か _ ち _ て う | ま れ し み | な _ れ _ ば
+z16 | z16 | z16 | z16 |
+G6 A2 B4 B4 | c2 B2 A2 G2 A4 G4 | F6 G2 A4 A4 | B2 A2 G2 F2 G4 D4 |
+w: サ テ コ ソ | ワ _ レ _ ハ ヤ | ガ テ モ ハ | ラ _ カ _ ラ ハ
+B6 c2 d4 d4 | e2 d2 c2 B2 c4 B4 | A6 B2 c4 c4 | d2 c2 B2 A2 B4 z4 |
+w: ラ カ ラ ヤ | ガ _ テ _ モ チ | チ ハ ハ ナ | リ _ ケ _ レ
+z16 | z16 | z16 | z16 |
+G6 A2 B4 B4 | c2 B2 A2 G2 A4 G4 | F6 G2 A4 A4 | B2 A2 G2 F2 G4 D4 |
+w: た ふ と き | も _ の _ は は | ら か ら な | る _ か _ な し
+B6 c2 d4 d4 | e2 d2 c2 B2 c4 B4 | A6 B2 c4 c4 | d2 c2 B2 A2 B4 z4 |
+w: た し き も | の _ こ _ そ は | ら か ら な | り _ け _ れ
+[V:V2]
+G6 A2 B4 B4 | c2 B2 A2 G2 A4 G4 | F6 G2 A4 A4 | B2 A2 G2 F2 G4 D4 |
+w: ワ ガ チ チ | ハ _ ハ _ ガ ム | ク ロ ヲ ワ | カ _ チ _ シ ワ
+B6 c2 d4 d4 | e2 d2 c2 B2 c4 B4 | A6 B2 c4 c4 | d2 c2 B2 A2 B4 z4 |
+w: ガ ミ ハ ヤ | ガ _ テ _ モ ワ | ガ ハ ラ カ | ラ _ ノ _ ミ
+z16 | z16 | z16 | z16 |
+G6 A2 B4 B4 | c2 B2 A2 G2 A4 G4 | F6 G2 A4 A4 | B2 A2 G2 F2 G4 D4 |
+w: わ が は ら | か _ ら _ も ま | た ち ち は | は _ よ _ り む
+B6 c2 d4 d4 | e2 d2 c2 B2 c4 B4 | A6 B2 c4 c4 | d2 c2 B2 A2 B4 z4 |
+w: く ろ を わ | か _ ち _ て う | ま れ し み | な _ れ _ ば
+z16 | z16 | z16 | z16 |
+G6 A2 B4 B4 | c2 B2 A2 G2 A4 G4 | F6 G2 A4 A4 | B2 A2 G2 F2 G4 D4 |
+w: サ テ コ ソ | ワ _ レ _ ハ ヤ | ガ テ モ ハ | ラ _ カ _ ラ ハ
+B6 c2 d4 d4 | e2 d2 c2 B2 c4 B4 | A6 B2 c4 c4 | d2 c2 B2 A2 B4 z4 |
+w: ラ カ ラ ヤ | ガ _ テ _ モ チ | チ ハ ハ ナ | リ _ ケ _ レ
+z16 | z16 | z16 | z16 |
+G6 A2 B4 B4 | c2 B2 A2 G2 A4 G4 | F6 G2 A4 A4 | B2 A2 G2 F2 G4 D4 |
+w: た ふ と き | も _ の _ は は | ら か ら な | る _ か _ な し
+B6 c2 d4 d4 | e2 d2 c2 B2 c4 B4 | A6 B2 c4 c4 | d2 c2 B2 A2 B4 z4 |
+w: た し き も | の _ こ _ そ は | ら か ら な | り _ け _ れ
+z16 | z16 | z16 | z16 |

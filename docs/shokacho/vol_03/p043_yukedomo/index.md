@@ -25,14 +25,6 @@ audio: "yukedomo.mp3"
 調性與拍號：ハ調 4/4 拍（C 大調 4/4 拍）
 
 
-## 跨冊／重複收錄參照
-
-> 同曲異詞＋同名異曲（《新定兒童唱歌》六年級〈故郷の空〉與《唱歌帖》P043〈行けども〉同採蘇格蘭民謠 *Comin' Thro' the Rye* 旋律；高等科男子用〈故郷の空〉為同名異曲）
-
-- **[同曲異詞]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈故郷の空〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_01_kokyo_no_sora/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_01_kokyo_no_sora/kokyo_no_sora.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈故郷の空〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_1_07_kokyo_no_sora/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_1_07_kokyo_no_sora/kokyo_no_sora.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

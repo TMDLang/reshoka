@@ -869,8 +869,6 @@ def load_all_song_entries(docs_dir: Path) -> list[SongEntry]:
         p
         for p in docs_dir.rglob("*.tmd")
         if not p.name.endswith("_piano.tmd")
-        and "recreations" not in p.parts
-        and "2_taiwan_shuyu_shoka_full" not in p.parts
     )
     for tmd_path in tmd_files:
         rel_tmd = tmd_path.relative_to(docs_dir).as_posix()
@@ -1111,113 +1109,97 @@ def build_clusters(entries: list[SongEntry]) -> list[dict]:
 # 5. Markdown Index Generation
 # =============================================================================
 
-CATEGORY_SECTIONS: list[tuple[str, str, str, str]] = [
-    (
-        "same_song_g3",
-        "一、臺灣總督府唱歌教材（《公學校唱歌集》、《公學校唱歌》、《うたのほん》）↔《新定兒童唱歌》同曲",
-        "臺灣總督府唱歌教材 ↔《新定兒童唱歌》同曲",
-        "臺灣總督府頒行之《公學校唱歌集》（1915）、《公學校唱歌》第一至六學年（1935–1940）、國民學校《うたのほん》（唱歌課本）下卷（1943）與臺灣教育會《新定兒童唱歌》（1934）共同收錄之相同曲目（不含卷首儀式歌與手抄本重見曲目）",
-    ),
-    (
-        "same_song_koto",
-        "二、《新定兒童唱歌》高等科男子用（0848）↔ 高等科女子用（0849）同曲",
-        "《新定兒童唱歌》高等科男子用 ↔ 高等科女子用同曲",
-        "高等科一、二年級男女生課本共同收錄之相同曲目（部分曲目依男女音域移調，如〈ヲーターロー〉）",
-    ),
-    (
-        "same_song_shokacho",
-        "三、官方／坊間印刷課本 ↔ 楊金土手抄《唱歌帖》（2020.006.0843）及《共益商社唱歌教科書》同曲",
-        "官方／坊間印刷課本 ↔ 楊金土手抄《唱歌帖》及《共益商社》同曲",
-        "跨官方印刷課本（《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》、《共益商社唱歌教科書》）與 1923–1928 年楊金土手抄本（第 1～10 冊）之相同歌曲（含四大節慶儀式歌、文部省唱歌、《大正幼年唱歌》及 1915 年《小公學校唱歌教材集》傳承曲目）",
-    ),
-    (
-        "same_song_internal",
-        "四、楊金土手抄《唱歌帖》（2020.006.0843）冊內／跨冊重抄同曲",
-        "楊金土手抄《唱歌帖》冊內／跨冊重抄同曲",
-        "《唱歌帖》不同冊次或夾頁間重複抄錄／貼入之相同樂曲（如謄寫版 vs 印刷伴奏譜）",
-    ),
-    (
-        "mixed_or_variant",
-        "五、兼具「同曲／同詞異曲／同曲異詞」與「同名異曲」之跨冊曲組",
-        "兼具「同曲／同詞異曲／同曲異詞」與「同名異曲」之跨冊曲組",
-        "同一曲名群組中，部分課本為完全同曲（或同詞異曲、同曲異詞），部分課本則為同名異曲",
-    ),
-    (
-        "same_title_different_song",
-        "六、跨冊同名異曲（相同曲名、不同詞曲版本）",
-        "跨冊同名異曲（相同曲名、不同詞曲版本）",
-        "不同學年或不同歌集（如《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》、《うたのほん》vs《蓬萊唱歌集》／《小公學校唱歌教材集》／《共益商社唱歌教科書》）以相同題材命名之不同創作曲",
-    ),
-]
+def build_duplicate_groups(clusters: list[dict]) -> list[dict]:
+    """Build groups using only exact `同曲` relationships."""
+    parent: dict[str, str] = {}
+    entry_by_path: dict[str, dict] = {}
+
+    def find(value: str) -> str:
+        parent.setdefault(value, value)
+        if parent[value] != value:
+            parent[value] = find(parent[value])
+        return parent[value]
+
+    def union(left: str, right: str) -> None:
+        left_root, right_root = find(left), find(right)
+        if left_root != right_root:
+            parent[right_root] = left_root
+
+    for cluster in clusters:
+        for entry in cluster["entries"]:
+            entry_by_path[entry["rel_dir"]] = entry
+            for peer in entry["peers"]:
+                if peer["relation"] == "同曲":
+                    union(entry["rel_dir"], peer["rel_dir"])
+
+    components: dict[str, list[str]] = {}
+    for path in parent:
+        components.setdefault(find(path), []).append(path)
+
+    groups: list[dict] = []
+    for paths in components.values():
+        if len(paths) < 2:
+            continue
+        source_entries = [entry_by_path[path] for path in sorted(paths)]
+        titles: list[str] = []
+        for entry in source_entries:
+            if entry["jp_title"] not in titles:
+                titles.append(entry["jp_title"])
+        entries = [
+            {
+                "rel_dir": entry["rel_dir"],
+                "md_file": entry["md_file"],
+                "book_label": entry["book_label"],
+                "raw_title": entry["raw_title"],
+            }
+            for entry in source_entries
+        ]
+        groups.append(
+            {"id": source_entries[0]["norm_slug"], "title": "／".join(titles), "entries": entries}
+        )
+
+    return sorted(groups, key=lambda group: (group["title"], group["id"]))
 
 
 def render_duplicate_songs_markdown(
-    clusters: list[dict], total_corpus_songs: int, total_volumes: int
+    duplicate_groups: list[dict], total_corpus_songs: int, total_volumes: int
 ) -> str:
-    total_clusters = len(clusters)
-    total_entries = sum(len(c["entries"]) for c in clusters)
-
-    by_cat: dict[str, list[dict]] = {key: [] for key, *_ in CATEGORY_SECTIONS}
-    for c in clusters:
-        by_cat.setdefault(c["category"], []).append(c)
-
+    duplicate_occurrences = sum(len(group["entries"]) for group in duplicate_groups)
+    duplicate_extras = sum(len(group["entries"]) - 1 for group in duplicate_groups)
+    unique_song_count = total_corpus_songs - duplicate_extras
     lines: list[str] = [
         "---",
-        f"title: 跨冊重複與同名歌曲總索引（共 {total_clusters} 組、{total_entries} 首對照）—《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》、《うたのほん》、《臺灣の歌》、《楊金土手抄唱歌帖》與《共益商社唱歌教科書》比較",
-        f"description: 交叉比對日治時期《公學校唱歌》（第一至六學年）、《公學校唱歌集》（1915）、《新定兒童唱歌》（尋常科一至六年級、高等科男女）、《うたのほん》（唱歌課本下卷，1943）、《臺灣の歌》（1929）、《楊金土手抄唱歌帖》（1923–1928）與《共益商社唱歌教科書》全 {total_volumes} 冊 {total_corpus_songs} 首曲目中跨冊重複收錄、移調改編、同詞異曲與同名異曲之 {total_clusters} 組完整索引對照表。",
-        "keywords: 公學校唱歌, 公學校唱歌集, 新定兒童唱歌, うたのほん, 唱歌課本, 臺灣の歌, 楊金土手抄唱歌帖, 蓬萊唱歌集, 小公學校唱歌教材集, 共益商社唱歌教科書, 日治時期唱歌教材比較, 同名異曲, 跨冊重複歌曲",
+        f"title: 全站歌曲去重統計（{unique_song_count} 首不重複歌曲、{len(duplicate_groups)} 組重複歌曲）",
+        f"description: 全站 {total_volumes} 冊、{total_corpus_songs} 首曲目中，不重複歌曲數與同一首歌曲的出現位置。",
+        "keywords: 歷史歌曲, 跨冊重複歌曲, 公學校唱歌, 新定兒童唱歌, 唱歌帖",
         "---",
         "",
-        "# 跨冊重複與同名歌曲總索引",
+        "# 全站歌曲去重統計",
         "",
-        f"本索引透過 macOS `Foundation` / `CoreFoundation`（`CFStringTransform` 與 `CFStringTokenizer`）將各冊曲名與歌詞統一轉換為平假名／片假名進行比對，整理本網站收錄之所有歷史課本與手抄本（《公學校唱歌》第一至六學年、《公學校唱歌集》1915 年版、《新定兒童唱歌》全 8 冊、《うたのほん》（唱歌課本）下卷、《臺灣の歌》、《臺灣周遊唱歌》、《楊金土手抄唱歌帖》現存 7 冊、《共益商社唱歌教科書》4 卷，共 **{total_volumes} 冊、{total_corpus_songs} 首** 數位化曲目）之間**重複出現、同詞異曲、同曲異詞或同名對照**的歌曲，共計 **{total_clusters} 組、{total_entries} 首（次）**。",
+        f"全站目前掃描 **{total_volumes} 冊、{total_corpus_songs} 首曲目**，去除跨冊重複後共有 **{unique_song_count} 首不重複歌曲**。",
         "",
         "## 統計總覽",
         "",
-        "| 類別 | 組數 | 涵蓋曲目數（次） | 說明 |",
-        "| :--- | :---: | :---: | :--- |",
+        "| 項目 | 數量 |",
+        "| :--- | ---: |",
+        f"| 全站曲目（含再創作） | **{total_corpus_songs}** |",
+        f"| 去重後歌曲 | **{unique_song_count}** |",
+        f"| 重複歌曲組 | **{len(duplicate_groups)}** |",
+        f"| 重複出現次數 | **{duplicate_occurrences}** |",
+        "",
+        "## 重複歌曲出處",
+        "",
+        "以下每一列是一首歌曲；同列的連結是它在全站出現的地方。相同曲名但詞曲不同者不列入。",
+        "",
+        "| # | 歌曲 | 出現處 |",
+        "| :---: | :--- | :--- |",
     ]
-
-    for cat_key, _sec_title, short_title, desc in CATEGORY_SECTIONS:
-        cat_clusters = by_cat.get(cat_key, [])
-        cat_entries = sum(len(c["entries"]) for c in cat_clusters)
-        lines.append(
-            f"| **{short_title}** | {len(cat_clusters)} 組 | {cat_entries} 首 | {desc} |"
+    for idx, group in enumerate(duplicate_groups, 1):
+        locations = "<br>".join(
+            f"**{entry['book_label']}**：[〈{entry['raw_title']}〉]({entry['md_file']})"
+            for entry in group["entries"]
         )
-
-    lines.extend(
-        [
-            f"| **合計** | **{total_clusters} 組** | **{total_entries} 首** | 涵蓋全庫 {total_corpus_songs} 首曲目中之跨冊重見與同名曲目 |",
-            "",
-            "---",
-            "",
-        ]
-    )
-
-    for cat_key, sec_title, _short_title, desc in CATEGORY_SECTIONS:
-        cat_clusters = by_cat.get(cat_key, [])
-        lines.extend(
-            [
-                f"## {sec_title}",
-                "",
-                f"> {desc}",
-                "",
-                "| # | 曲名 | 關係說明 | 收錄課本／抄本與樂譜連結 |",
-                "| :---: | :--- | :--- | :--- |",
-            ]
-        )
-        for idx, c in enumerate(cat_clusters, 1):
-            bullet_parts: list[str] = []
-            for e in c["entries"]:
-                bullet_parts.append(
-                    f"• **{e['book_label']}**：[**〈{e['raw_title']}〉**]({e['md_file']})（`{e['key']}` / `{e['meter']}` — [原始 `.tmd`]({e['tmd_file']})）"
-                )
-            joined_entries = "<br>".join(bullet_parts)
-            lines.append(
-                f"| {idx} | **{c['display_title']}** | {c['description']} | {joined_entries} |"
-            )
-        lines.append("")
-
+        lines.append(f"| {idx} | **{group['title']}** | {locations} |")
     return "\n".join(lines).rstrip() + "\n"
 
 
@@ -1227,14 +1209,18 @@ def main() -> None:
 
     entries = load_all_song_entries(docs_dir)
     clusters = build_clusters(entries)
+    duplicate_groups = build_duplicate_groups(clusters)
 
     total_volumes = len({f"{e.collection}/{e.volume}".rstrip("/") for e in entries})
-    total_songs_in_clusters = sum(len(c["entries"]) for c in clusters)
+    duplicate_occurrences = sum(len(group["entries"]) for group in duplicate_groups)
+    duplicate_extras = sum(len(group["entries"]) - 1 for group in duplicate_groups)
 
     payload = {
-        "total_clusters": len(clusters),
-        "total_songs_in_clusters": total_songs_in_clusters,
-        "clusters": clusters,
+        "total_corpus_songs": len(entries),
+        "unique_song_count": len(entries) - duplicate_extras,
+        "duplicate_group_count": len(duplicate_groups),
+        "duplicate_occurrence_count": duplicate_occurrences,
+        "duplicate_groups": duplicate_groups,
     }
 
     json_path = docs_dir / "duplicate_songs.json"
@@ -1245,13 +1231,14 @@ def main() -> None:
         encoding="utf-8",
     )
     md_path.write_text(
-        render_duplicate_songs_markdown(clusters, len(entries), total_volumes),
+        render_duplicate_songs_markdown(duplicate_groups, len(entries), total_volumes),
         encoding="utf-8",
     )
 
     print(
         f"Scanned {len(entries)} songs across {total_volumes} volumes -> "
-        f"{len(clusters)} clusters ({total_songs_in_clusters} song occurrences)."
+        f"{len(entries) - duplicate_extras} unique songs, "
+        f"{len(duplicate_groups)} duplicate groups ({duplicate_occurrences} occurrences)."
     )
     print(f"Updated {json_path.relative_to(repo_root)} and {md_path.relative_to(repo_root)}.")
 

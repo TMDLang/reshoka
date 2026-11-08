@@ -29,13 +29,6 @@ audio: "waga_teikoku.mp3"
 速度指示：誠ヲ込メテ（♩=108）
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》、《新定兒童唱歌》共同收錄教材）
-
-- **[同曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈我が帝國〉**](../../../kogakko_shoka/grade_4/20_waga_teikoku/index.md)（`F` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_4/20_waga_teikoku/waga_teikoku.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

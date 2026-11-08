@@ -26,15 +26,6 @@ Notation: Handwritten numbered notation (Jianpu)
 Annotations: 変ロ調 二拍子, 大正幼年唱歌 第五集 廿三頁
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第一學年〈ヒヨコ〉為同曲；《新定兒童唱歌》第二學年與《唱歌帖》P070b 為同名異曲）
-
-- **[同名異曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈ヒヨコ（小雞）〉**](../../../kogakko_shoka/grade_1/5_hiyoko/index.md)（`F` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_1/5_hiyoko/hiyoko.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ヒヨコ（小雞）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_03_hiyoko/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/1_03_hiyoko/hiyoko.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈ヒヨコ（小雞）〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_07_hiyoko/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_07_hiyoko/hiyoko.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

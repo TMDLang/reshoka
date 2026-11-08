@@ -26,13 +26,6 @@ Marginalia: 423頁 2.1.28 (昭和2年1月28日)
 Dynamics: Line 1: mf, Line 3: mp
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》共同收錄教材）
-
-- **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈夜の歸雁 （二部） (夜之歸雁（二部合唱）)〉**](../../../shokacho/vol_10/p200_yoru_no_kigan/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_10/p200_yoru_no_kigan/yoru_no_kigan.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

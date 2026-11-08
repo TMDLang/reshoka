@@ -2,9 +2,19 @@ X:1
 T:小さな花つくり
 M:2/4
 L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
+Q:1/4=92
+K:D
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+A2 A2 d2 d2 | F2 F2 A4 | G2 G2 B2 B2 | A2 A2 F2 z2 |
+w: あ れ あ れ | う れ し | お は な が | さ い た
+A2 A2 d2 d2 | F2 F2 A4 | B3 A G2 E2 | E2 E2 D4 |
+w: み な よ く | さ い た | わ た し の | は な が
+A2 A2 d2 d2 | F2 F2 A4 | G2 G2 B2 B2 | A2 A2 F2 z2 |
+w: わ た し が | う ゑ て | さ か せ た | は な よ
+A2 A2 d2 d2 | F2 F2 A4 | B3 A G2 E2 | E2 E2 D4 |
+w: お み づ を | や つ て | そ だ て た | は な よ
+A2 A2 d2 d2 | F2 F2 A4 | G2 G2 B2 B2 | A2 A2 F2 z2 |
+w: お い で よ | て ふ てふ | ひ ら ひ ら | と ん で
+A2 A2 d2 d2 | F2 F2 A4 | B3 A G2 E2 | E2 E2 D4 |
+w: お は な に | と ま れ | し づ か に | と ま れ

@@ -26,14 +26,6 @@ audio: "mizuguruma.mp3"
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），♩＝126
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同詞異曲（《公學校唱歌》與《新定兒童唱歌》第二學年〈水グルマ〉為同曲；《唱歌帖》P231 同採「お米つかうよ…」歌詞而旋律不同）
-
-- **[同曲]** 《公學校唱歌》第二學年用（昭和11年／1936）：[**〈ミヅグルマ（水車）〉**](../../../kogakko_shoka/grade_2/1_mizuguruma/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_2/1_mizuguruma/mizuguruma.tmd)）
-- **[同詞異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈水グルマ（水車）〉**](../../../shokacho/vol_07/p231_mizuguruma/index.md)（`D` / `2/4` — [原始 TMD](../../../shokacho/vol_07/p231_mizuguruma/mizuguruma.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

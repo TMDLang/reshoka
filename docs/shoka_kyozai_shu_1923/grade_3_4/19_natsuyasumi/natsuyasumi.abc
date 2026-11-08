@@ -2,9 +2,31 @@ X:1
 T:夏休
 M:2/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=108
+K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+C3 C A3 A | G3 G F3 F | G3 G F3 G | A4 z4 |
+w: あ め の _ | ふ る ひ も | か ぜ の ひ | も
+d3 d c3 c | A3 A F3 F | G3 G A3 G | F4 z4 |
+w: や す む _ | こ と な く | べ ん きや う | し
+C3 C A3 A | G3 G F3 F | G3 G F3 A | c4 z4 |
+w: う れ し や | け ふ よ り | な つ や す | み
+d3 d c3 d | c3 c A3 F | G3 G c3 c | F4 z4 |
+w: う れ し や | け ふ よ り | な つ や す | み
+C3 C A3 A | G3 G F3 F | G3 G F3 G | A4 z4 |
+w: か い す ゐ | よ く や _ | や ま の ぼ | り
+d3 d c3 c | A3 A F3 F | G3 G A3 G | F4 z4 |
+w: お も ひ _ | お も ひ に | お も し ろ | く
+C3 C A3 A | G3 G F3 F | G3 G F3 A | c4 z4 |
+w: あ そ び _ | く ら さ ん | な つ や す | み
+d3 d c3 d | c3 c A3 F | G3 G c3 c | F4 z4 |
+w: あ そ び _ | く ら さ ん | な つ や す | み
+C3 C A3 A | G3 G F3 F | G3 G F3 G | A4 z4 |
+w: そ の ひ _ | そ の ひ の | で き ご と | を
+d3 d c3 c | A3 A F3 F | G3 G A3 G | F4 z4 |
+w: く は し く | て ちや _ に | か き つ け | て
+C3 C A3 A | G3 G F3 F | G3 G F3 A | c4 z4 |
+w: た の し み | く ら さ ん | な つ や す | み
+d3 d c3 d | c3 c A3 F | G3 G c3 c | F4 z4 |
+w: た の し み | く ら さ ん | な つ や す | み

@@ -27,15 +27,6 @@ audio: "nigimitama.mp3"
 調性與拍號：ト長調（G 大調，1 升記號，陽音階／律旋法）4/4 拍，速度 ♩=104
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（芝葛鎮作曲〈にぎみたま〉；收錄於《公學校唱歌》六年級、《公學校唱歌集》與《新定兒童唱歌》六年級）
-
-- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈にぎみたま〉**](../../../kogakko_shokashu_1915/5_06_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_06_nigimitama/nigimitama.tmd)）
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈にぎみたま〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/nigimitama.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈にぎみたま〉**](../../../shoka_kyozai_shu_1923/koto_1_2/16_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/16_nigimitama/nigimitama.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

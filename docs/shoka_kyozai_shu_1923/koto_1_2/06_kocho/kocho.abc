@@ -2,11 +2,23 @@ X:1
 T:胡蝶
 M:6/8
 L:1/16
-Q:3/8=40
+Q:3/8=80
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-d2 e2 d2 B2 G2 d2 | d2 e2 d2 B2 G2 G2 | A4 D2 A4 D2 | d4 G2 B6 |
-d2 e2 d2 B2 G2 d2 | d2 e2 d2 B2 G2 G2 | A4 D2 A4 D2 | d2 A2 B2 G6 |
-!f! g2 g2 g2 e2 d2 B2 | !p! A2 D2 D2 d2 B4 | !f! g2 g2 g2 e2 d2 B2 | !mf! A2 D2 D2 G6 |
-!p! A2 D2 D2 B2 B4- | B12 | !p! A2 D2 D2 G6- | [Q:3/8=67] G10 z2 |
+D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d4 G2 B6 |
+w: ハ _ ル ヒ カ ゲ | ウ _ ラ ウ ラ ト | ノ ド ケ キ | ヒ ヨ リ
+D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d2 A2 B2 G6 |
+w: ナ _ ノ ハ ナ ノ | イ _ ロ ハ エ テ | サ キ タ ル | ア _ タ リ
+!f! G G G2 e2 d4 B2 | !p! A2 D2 D2 d4 B2 | !f! G G G2 e2 d4 B2 | !mf! A2 D2 d2 G6 |
+w: ア レ ヨ コ テフ _ | ヒ _ ラ ヒ ラ | ア レ ヨ コ テフ _ | ト _ ブ ヨ
+!p! A2 D2 d2 B4 B2 | A2 D2 d2 B4 B2 | !p! A2 D2 d2 G6- | [Q:3/8=67] G12 |
+w: ヒ _ ラ ヒ ラ | ヒ _ ラ ヒ ラ | ト _ ブ ヨ | _
+D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d4 G2 B6 |
+w: は _ な が た み | て _ に も ち て | つ れ だ つ | わ ら は
+D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d2 A2 B2 G6 |
+w: か _ に にほ ふ _ | つ _ ぼ す み れ | つ み を る | と _ こ ろ
+!f! G G G2 e2 d4 B2 | !p! A2 D2 D2 d4 B2 | !f! G G G2 e2 d4 B2 | !mf! A2 D2 d2 G6 |
+w: あ れ よ こ てふ _ | ひ _ ら ひ ら | あ れ よ こ てふ _ | と _ ぶ よ
+!p! A2 D2 d2 B4 B2 | A2 D2 d2 B4 B2 | !p! A2 D2 d2 G6- | [Q:3/8=67] G12 |
+w: ひ _ ら ひ ら | ひ _ ら ひ ら | と _ ぶ よ | _

@@ -35,13 +35,6 @@ audio: "tokonatsu_no_shima.mp3"
 - 依原譜 G 大調五聲音階（2/4 拍，♩= 104）編配 4 小節前奏與雙手鋼琴伴奏。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《新定兒童唱歌》、《臺灣の歌》共同收錄教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈常夏の島〉**](../../shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/index.md)（`G` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/tokonatsu_no_shima.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

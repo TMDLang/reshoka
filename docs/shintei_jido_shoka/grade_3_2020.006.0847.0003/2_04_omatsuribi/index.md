@@ -46,14 +46,6 @@ audio: "omatsuribi.mp3"
 3. 尾奏 (Coda, 4 小節)：三段歌詞唱畢後，依原譜轉為 3/4 拍（!= 112），以寬廣莊重的三拍子和聲收束全曲。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同詞異曲（田村富士雄作詞；《公學校唱歌》與《新定兒童唱歌》第三學年為同曲，《臺灣の歌》為昭和4年御大典記念陳華提原創譜曲版）
-
-- **[同曲]** 《公學校唱歌》第三學年（昭和10年／1935）：[**〈おまつり日（祭典之日）〉**](../../../kogakko_shoka/grade_3/8_omatsuribi/index.md)（`Eb` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_3/8_omatsuribi/omatsuribi.tmd)）
-- **[同詞異曲]** 《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）：[**〈お祭日〉**](../../../taiwan_no_uta/2_omatsuribi/index.md)（`E,` / `2/4` — [原始 TMD](../../../taiwan_no_uta/2_omatsuribi/omatsuribi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

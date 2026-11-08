@@ -1,10 +1,18 @@
 X:1
 T:めくら鬼
-M:2/4
+M:4/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=108
+K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+A3 A B2 B2 A4 z4 | F3 F A2 A2 F4 z4 | F3 E D2 E2 F4 z4 | D2 D2 D2 D2 E2 E2 F2 F2 |
+w: あ か お に さ | あ を お に さ | ど こ へ ゆ く | う ろ う ろ た づ ね て
+B3 B A2 F2 A4 z4 | d3 d A3 A B2 B2 A4 | F3 F E3 F B2 B2 A4 | d3 d A3 A B2 B2 A2 F2 |
+w: ど こ へ ゆ く | こつ ち に _ お い で | こつ ち に _ お い で | そつ ち に _ あ る け ば
+E2 E2 F3 E D4 z4 | A3 A B2 B2 A4 z4 | F3 F A2 A2 F4 z4 | F3 E D2 E2 F4 z4 |
+w: い ぬ が ゐ る | あ か お に さ | あ を お に さ | な に を す る
+D2 D2 D2 D2 E2 E2 F2 F2 | B3 B A2 F2 A4 z4 | d3 d A3 A B2 B2 A4 | F3 F E3 F B2 B2 A4 |
+w: ま ご ま ご あ る い て | な に を す る | て の な る は う へ | て の な る は う へ
+d3 d A3 A B2 B2 A2 F2 | E2 E2 F3 E D4 z4 |
+w: て の な る は う へ は | ひ と が ゐ る

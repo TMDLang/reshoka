@@ -31,14 +31,6 @@ audio: "meiji_tenno_gyosei.mp3"
 《新定兒童唱歌》第六學年之〈明治天皇御製〉。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（明治天皇御製和歌吟唱譜；《公學校唱歌集》收錄二首，《新定兒童唱歌》六年級收錄二首，《公學校唱歌》六年級擴充收錄五首並包含臺灣新高山御製「新高の山のふもとの民草も…」）
-
-- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈明治天皇御製〉**](../../../kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/index.md)（`G` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd)）
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈明治天皇御製〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md)（`G` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

@@ -31,13 +31,6 @@ audio: "ohoshisama.mp3"
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「キレイニ」
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈お星様〉**](../../../shokacho/vol_02/p077_ohoshisama/index.md)（`F` / `2/4` — [原始 TMD](../../../shokacho/vol_02/p077_ohoshisama/ohoshisama.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

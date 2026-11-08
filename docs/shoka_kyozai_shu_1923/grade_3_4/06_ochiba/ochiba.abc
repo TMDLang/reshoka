@@ -1,12 +1,29 @@
 X:1
 T:落葉
-M:3/4
+M:2/4
 L:1/16
 Q:1/4=88
-K:Bb
-V:V1 name="Vocal" snm="Voc"
+K:C
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! d2 d2 d4 B4 | B6 A2 G2 z2 | c2 d2 e4 e4 | e4 e4 d2 z2 |
-d2 d2 d4 B4 | B4 A4 G2 z2 | !mp! D2 G2 B4 B4 | B4 A4 G2 z2 |
-d2 e2 d4 g4 | A4 B2 A2 d4 | !f! e2 d2 c4 c4 | d8 z4 |
-!p! B2 A2 G4 d4 | !pp! B2 A2 G4 d4 | B2 A2 G4 ^F4 | G8 z4 |
+!mf! e z a z g z z2 | !p! E z A z G z z2 | G A F G E F D E | !p! C4 z4 |
+!mf! E A G2 z4 | !p! E A G2 z4 | !mf! E G3 D E3 | !p! C D3 z4 |
+w: ヒ ラ リ | ヒ ラ リ | ひ ら ひ ら | ひ ら
+!mp! C4 D2 E2 | G3 G A2 A2 | G2 E2 D2 E2 | C4 z4 |
+w: カ ゼ ト | イツ シヨ ニ _ | ハ ガ オ チ | ル
+!f! c3 c d2 c2 | A2 c2 G4 | A4 c2 G2 | G2 E2 G2 z2 |
+w: キ イ ロ イ | イ ロ ヤ | ア ヲ _ | イ ノ ガ
+!mf! A3 A c2 c2 | G3 G E4 | D3 D E2 G2 | D4 z4 |
+w: ハ ナ マ ウ | セ ン ヲ | シ イ タ ヤウ | ニ
+!p! C3 D E2 F2 | G3 G A4 | G3 G D2 E2 | C4 z4 |
+w: ニ ハ イ チ | メ ン ニ | チ ツ テ ヰ | ル
+!mf! E A G2 z4 | !p! E A G2 z4 | !mf! E G3 D E3 | !p! C D3 z4 |
+w: く る り | く る り | ク ル ク ル | ク ル
+!mp! C4 D2 E2 | G3 G A2 A2 | G2 E2 D2 E2 | C4 z4 |
+w: か ぜ に | ふ か れ て | は が お ち | る
+!f! c3 c d2 c2 | A2 c2 G4 | A4 c2 G2 | G2 E2 G2 z2 |
+w: き い ろ い | い ろ や | あ か _ | い の が
+!mf! A3 A c2 c2 | G3 G E4 | D3 D E2 G2 | D4 z4 |
+w: ご し き の | な み の | う ね る やう | に
+!p! C3 D E2 F2 | G3 G A4 | G3 G D2 E2 | C4 z4 |
+w: も り い ち | め ん に | と ん で ゐ | る

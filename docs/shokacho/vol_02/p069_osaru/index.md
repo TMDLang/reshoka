@@ -26,13 +26,6 @@ Notation: Handwritten numbered notation (Jianpu)
 Annotations: ハ調 二拍子, 大正幼年唱歌 第六集 十五頁
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《大正幼年唱歌》第六集〈オサル〉；收錄於《新定兒童唱歌》一年級與《唱歌帖》P069）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈オサル（猴子）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/index.md)（`C` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/osaru.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

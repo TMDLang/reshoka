@@ -27,14 +27,6 @@ audio: "inaka_no_yugure.mp3"
 註記：(中等音楽教科書) / 蓬莱集ヨリ / 昭2.2.25
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《新定兒童唱歌》高等科男子用與《唱歌帖》P022 為北村季晴作曲同曲；《共益商社唱歌教科書》卷四為同名異曲）
-
-- **[同名異曲]** 《共益商社唱歌教科書》卷四・教師用（明治33年／1900）：[**〈田舍の夕ぐれ〉**](../../../kyoeki_shoka/kan_4_854865/7_inaka_no_yugure/index.md)（`E,` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_4_854865/7_inaka_no_yugure/inaka_no_yugure.tmd)）
-- **[同曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈田舍の夕暮〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md)（`E,` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/inaka_no_yugure.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

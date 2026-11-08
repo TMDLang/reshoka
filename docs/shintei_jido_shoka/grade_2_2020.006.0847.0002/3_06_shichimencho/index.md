@@ -28,13 +28,6 @@ audio: "shichimencho.mp3"
 調性與拍號：ハ調二拍子（C 大調 2/4 拍）
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》、《新定兒童唱歌》共同收錄教材）
-
-- **[同曲]** 《公學校唱歌》第二學年用（昭和11年／1936）：[**〈しちめんてう（七面鳥）〉**](../../../kogakko_shoka/grade_2/13_shichimencho/index.md)（`C` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_2/13_shichimencho/shichimencho.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

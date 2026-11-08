@@ -27,15 +27,6 @@ audio: "hanyu_no_yado.mp3"
 出處註記：（中等唱歌集）
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（里見義詞・Bishop 曲〈埴生の宿〉*Home! Sweet Home!*；收錄於《公學校唱歌》六年級、《新定兒童唱歌》六年級與高等科女子用，以及《唱歌帖》P097）
-
-- **[同曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈埴生の宿〉**](../../../kogakko_shoka/grade_6/13_hanyu_no_yado/index.md)（`E,` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_6/13_hanyu_no_yado/hanyu_no_yado.tmd)）
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈埴生の宿〉**](../../grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/index.md)（`E,` / `4/4` — [原始 TMD](../../grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/hanyu_no_yado.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈埴生の宿〉**](../../../shokacho/vol_02/p097_hanyu_no_yado/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_02/p097_hanyu_no_yado/hanyu_no_yado.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

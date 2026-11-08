@@ -25,13 +25,6 @@ Source: 唱歌帖 (2020.006.0843), P205.jpg
 Marginalia: 335頁. 2.1.28. (昭和2年1月28日)
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》共同收錄教材）
-
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈波と磯の石〉**](../../../shoka_kyozai_shu_1923/grade_5_6/51_nami_to_iso_no_ishi/index.md)（`B,` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/51_nami_to_iso_no_ishi/nami_to_iso_no_ishi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

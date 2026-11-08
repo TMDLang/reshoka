@@ -28,13 +28,6 @@ audio: "yasukuni_jinja.mp3"
 調性與拍號：ト長調（G 大調，四七抜き長音階）2/4 拍，速度 ♩=66
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《共益商社唱歌教科書》卷四・教師用（明治33年／1900）：[**〈靖國神社〉**](../../../kyoeki_shoka/kan_4_854865/9_yasukuni_jinja/index.md)（`C` / `6/8` — [原始 TMD](../../../kyoeki_shoka/kan_4_854865/9_yasukuni_jinja/yasukuni_jinja.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

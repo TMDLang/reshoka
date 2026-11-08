@@ -14,7 +14,9 @@ audio: "kaiko_kinenbi.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kaiko_kinenbi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kaiko_kinenbi_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kaiko_kinenbi.mp3"></audio>
+
 
 - 文部省《尋常小學唱歌》
 - 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）
@@ -24,14 +26,6 @@ audio: "kaiko_kinenbi.mp3"
 原書資訊與歌詞全文（對應 P108.jpg–P109.jpg，第六學年 pp. 102–103）：
 調性與拍號：ニ調（D 大調）4/4 拍，速度 ♩=100
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌集》、《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
-
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈開校記念日〉**](../../shoka_kyozai_shu_1923/grade_5_6/23_kaiko_kinenbi/index.md)（`D` / `4/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_5_6/23_kaiko_kinenbi/kaiko_kinenbi.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈開校記念日〉**](../../shokacho/vol_02/p100_kaiko_kinenbi/index.md)（`D` / `4/4` — [原始 TMD](../../shokacho/vol_02/p100_kaiko_kinenbi/kaiko_kinenbi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
 
 ## 歌詞
 

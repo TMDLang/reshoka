@@ -1,7 +1,7 @@
 ---
 title: "螢狩 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年"
 song_title: "螢狩"
-description: "〈螢狩〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ミナミナ アツマレ ヨウイハ ヨキカ コレカラ タンボノ ホタルガリ…"
+description: "〈螢狩〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "螢狩, 新編 小學校・公學校 唱歌教材集, 尋常科 第三、四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）"
@@ -16,43 +16,50 @@ audio: "hotarugari.mp3"
 
 <audio controls src="hotarugari.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 唱歌帖 P221 (195頁 / 昭2.7.28)
+- 對照：唱歌帖 P221（195頁 / 昭2.7.28）
 
 ## 說明
 
-螢狩（捕螢）
-Source: 唱歌帖 (2020.006.0843), P221.jpg
-Marginal notes: 195頁 / 2.7.28. / （一九回以下未済）
-Key: ヘ調 (F major), Time: 2/4, Tempo: ♩=112
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P202.jpg`–`P203.jpg`，原書 p. 194–195，尋常科三・四學年第 37 首）：
+> - **調性與拍號**：ヘ調二拍子（F 大調 2/4 拍），速度 ♩= 112
+> - **與《唱歌帖》P221（`docs/shokacho/vol_10/p221_hotarugari`）比較校勘**：
+>   1. 《唱歌帖》P221 頁邊註記「195頁」，即對應本集第 195 頁（`P203.jpg`）。
+>   2. 本集（`P202.jpg`–`P203.jpg`）第一段首句為「皆みなあつまれ　用意せよ」（`ヨ ウ イ セ | ヨ`），而《唱歌帖》手抄作「ヨウイハ ヨキカ」；第三段首句本集為「あれあれピカピカ　舞つてくる」（`マ ツ テ ク ル`），《唱歌帖》誤抄為「マツラクル」；各段副歌本集均為「あらうれし　面白や」。
+>   3. 節奏方面，本集（`P203.jpg`）第 1–3、5–7、17 小節兩拍均為附點八分加十六分音符（如 `5_. 5_ 5_. 3_`），第 8 小節為 `1_. 5_`，第 10–13 小節為 `2. 3 5 | 5 0 0 5 | 6. 5 | 6. 5 3`。均依本集圖檔忠實轉錄。
+>
+> **一、**
+> 皆（みな）みなあつまれ　用意（ようい）せよ
+> これから田圃（たんぼ）のほたるがり
+> あらうれし　面白（おもしろ）や　あらうれし　面白（おもしろ）や。
+>
+> **二、**
+> むしとり網（あみ）や　竹箒（たかばうき）
+> われらが今夜（こんや）の武器（ぶき）なるぞ
+> あらうれし　面白（おもしろ）や　あらうれし　おもしろや。
+>
+> **三、**
+> あれあれピカピカ　舞（ま）つてくる
+> それぞれのがすな討取（うちと）れよ
+> あらうれし　面白（おもしろ）や　あらうれし　おもしろや。
+>
+> **四、**
+> 捕虜（とりこ）のほたるの　光（ひか）りにて
+> 明（あか）るくてらすかへりみち
+> あらうれし　面白（おもしろ）や　あらうれし　おもしろや。
+>
+> **五、**
+> 聲（こゑ）をそろへて　いさましく
+> うたへや凱歌（がいか）の螢狩（ほたるがり）
+> あらうれし　面白（おもしろ）や　あらうれし　面白（おもしろ）や。
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
-
-- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈螢狩〉**](../../koto_1_2/03_hotarugari/index.md)（`C` / `2/4` — [原始 TMD](../../koto_1_2/03_hotarugari/hotarugari.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈螢狩（捕螢）〉**](../../../shokacho/vol_10/p221_hotarugari/index.md)（`F` / `2/4` — [原始 TMD](../../../shokacho/vol_10/p221_hotarugari/hotarugari.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-1. ミナミナ アツマレ ヨウイハ ヨキカ
-コレカラ タンボノ ホタルガリ
-アラ ウレシ オモシロヤ アラウレシ オモシロヤ
-2. むしとり あみや たかばうき
-われらが こんやの ぶきなるぞ
-ああ うれし おもしろや ああうれし おもしろや
-3. アレアレ ピカピカ マツラクル
-ソレソレ ノガスナ ウチトレヨ
-アア ウレシ オモシロヤ アアウレシ オモシロヤ
-4. とりこの ほたるの 光にて
-あかるくてらす かへりみち
-ああ うれし おもしろや ああうれし おもしろや
-5. こゑをそろへて いさましく
-うたへや凱歌の 螢狩
-ああ うれし おもしろや ああうれし おもしろや
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -64,19 +71,60 @@ M:2/4
 L:1/16
 Q:1/4=112
 K:F
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-C3 C C2 A,2 | G,3 G, F,2 F,2 | G,3 G, A,2 C2 | D6 z2 |
-D3 D D2 C2 | A,3 A, F,2 F,2 | G,3 G, A,2 G,2 | F,4 C4 |
-F8 | G2 A2 c4 | c4 z2 c2 | d4 c4 |
-d2 c2 A4 | A4 z4 | F2 F2 G2 A2 | c4 d4 |
-G3 F A2 G2 | F6 z2 |
+C3 C C3 A, | G,3 G, F,3 F, | G,3 G, A,3 C | D6 z2 |
+w: み な み な | あ つ ま れ | よ う い せ | よ
+D3 D D3 C | A,3 A, F,3 F, | G,3 G, A,3 G, | F,6 C2 |
+w: こ れ か ら | た ん ぼ の | ほ た る が | り あ
+F8 | G3 A c4 | c2 z2 z2 c2 | d6 c2 |
+w: ら | う れ し | _ お | も _
+d3 c A4 | A4 z4 | F3 F G2 A2 | c4 d4 |
+w: し ろ や | _ | あ ら う れ | し _
+G3 F A3 G | F6 z2 | C3 C C3 A, | G,3 G, F,3 F, |
+w: お も し ろ | や | む し と り | あ み や _
+G,3 G, A,3 C | D6 z2 | D3 D D3 C | A,3 A, F,3 F, |
+w: た か ば う | き | わ れ ら が | こ ん や の
+G,3 G, A,3 G, | F,6 C2 | F8 | G3 A c4 |
+w: ぶ き な る | ぞ あ | ら | う れ し
+c2 z2 z2 c2 | d6 c2 | d3 c A4 | A4 z4 |
+w: _ お | も _ | し ろ や | _
+F3 F G2 A2 | c4 d4 | G3 F A3 G | F6 z2 |
+w: あ ら う れ | し _ | お も し ろ | や
+C3 C C3 A, | G,3 G, F,3 F, | G,3 G, A,3 C | D6 z2 |
+w: あ れ あ れ | ピ カ ピ カ | ま っ て く | る
+D3 D D3 C | A,3 A, F,3 F, | G,3 G, A,3 G, | F,6 C2 |
+w: そ れ そ れ | の が す な | う ち と れ | よ あ
+F8 | G3 A c4 | c2 z2 z2 c2 | d6 c2 |
+w: ら | う れ し | _ お | も _
+d3 c A4 | A4 z4 | F3 F G2 A2 | c4 d4 |
+w: し ろ や | _ | あ ら う れ | し _
+G3 F A3 G | F6 z2 | C3 C C3 A, | G,3 G, F,3 F, |
+w: お も し ろ | や | と り こ の | ほ た る の
+G,3 G, A,3 C | D6 z2 | D3 D D3 C | A,3 A, F,3 F, |
+w: ひ か り に | て | あ か る く | て ら す _
+G,3 G, A,3 G, | F,6 C2 | F8 | G3 A c4 |
+w: か へ り み | ち あ | ら | う れ し
+c2 z2 z2 c2 | d6 c2 | d3 c A4 | A4 z4 |
+w: _ お | も _ | し ろ や | _
+F3 F G2 A2 | c4 d4 | G3 F A3 G | F6 z2 |
+w: あ ら う れ | し _ | お も し ろ | や
+C3 C C3 A, | G,3 G, F,3 F, | G,3 G, A,3 C | D6 z2 |
+w: こ ゑ を そ | ろ へ て _ | い さ ま し | く
+D3 D D3 C | A,3 A, F,3 F, | G,3 G, A,3 G, | F,6 C2 |
+w: う た へ や | が い か の | ほ た る が | り あ
+F8 | G3 A c4 | c2 z2 z2 c2 | d6 c2 |
+w: ら | う れ し | _ お | も _
+d3 c A4 | A4 z4 | F3 F G2 A2 | c4 d4 |
+w: し ろ や | _ | あ ら う れ | し _
+G3 F A3 G | F6 z2 |
+w: お も し ろ | や
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hotarugari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgov5i163r1SQUuLS9FWwdDQiMveVsGNy8ZI38QOZMiTHQ3PFs191tr3ZEfny-Y-hefbVzxu6Ho2bQOQofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnvc0P1-T8fTJcufrV38tLfxya6epzu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18Tw_Z5OsAcgBj3dMU0hwMjIUEHD0NL05YJGBX2FZzPWGumZ6xlZaCpxcelrKdhSC3ApKEADBOjkZ71TgWygY0CiwZDog3oO5CYNYCQZ6BkYmOkZWJgYa-qAHamXVZAOUu6bWJSemZeYo5CXX5JabKUAdzrE3XpAFtAGYOA-2Tn36ex5T3YvfbKj-9mcVc92AEMEbKF3aqWVwuPmGS9W7VfQcFPITczKLwJaEpIJTF4KwNgBMlNzC_KtFB7NXGkLijegHp_KoszkYisQ01APqHn-4-YuCKnwuGnR4-aWx83zHjevAcqseNy07HHTksfN_RDO2sdNq0HaHjdtBioAch43rwRy9j9uBvLnPAZG_OPm2WD-6sdNax43r4IoBpoJUrYMrGc7kLXqcfMiIOtx89rHzUugCnDKg8wwArqzqeFx4_THjUBnAN3Z2PS4cf_jphYga_7jxu7HjRseN7Y9buyFWNj_uKnncVPn48YeoPzkx01A1PK4cR2Qsw2o5nHjqsdNQC3zwIpBJjUBqTaQnsbpQFbX4yag2PTHTb0QC0AKcMqDzDAGuQ7oB6DrQSQwEKaAwwZEAjnAwAQGKdCD64HhAnHgXrBiEAmU7wOFVdNOSPgDA6HxcXMHSL55BSz4mhYRCD4QwhN8JkAHggMOFBrgcNgNCjdQIKxTeNoKDKjVjxuXwYOjGyzTDxQCB-JMoCiQvwOsf__jxoXUCjdTkLOAcTPxcdOkx41zQRJAWxqXAUWB0TX1ceM-cIz3Q-wDRi8wqoGuaHnaDspdILdDciG13EN5yQAFClr6XFwe-SWJRaXpiUWZVmH5yYk5DjUGNQrVIHsUbAzNtOzArBoF03gFXSAEUmCWMYioUTCCiAIpQxALTCCLgpWBNdQomEFEIdAAJAQ2GljiOeSAs7qtghIwfwNTGjCBwWhQkmoGhkrzPCAG53VQEgNiYIKCZHcgey0Qr1YC-QbVwHgjkJFNDcBABAUkSCk4TwLxfiAbZOweUM4EJRwg3gCKFiDuhYg378FmpDHYSJCrgK6B0c1TQC5AokGuBRkPKk_WA2mQGE4jTUBGwl03GYjBSR_isiaQy0D8TRBXgtUAjQMlP9xGmoKNBBrVNBGIJwGVzwXSQI817kBobQSltqlAvA8aQKDwRDUSHmtACsyCxiU4XsGpAE-8g7k1EElo2oEwsEV802ZokIKCClxaA2mQ2BxQ0QMqsKFiQPkmUJCvAgU_7kgH-qUJWKw2dQL9BS5egWwQBvkZXMJCIroRZAwoiIEx1tiEO8L3Ql0HpUEuArmiaSc0mYKCtBGIO5CSKVbXQSIblARBkQmyGehSUIyAXQosw8AxAxIHxhQ4soGeblyIy3WQiAalWlAqBmkBeRDkYRANSzvIaQkUKOBcgBTJhkg5ExxBCkag2AXFGVwExgLlXBAbmDRg8YonWiE1KjTwgIU-yHdNwDBvBlUV23FGH6SIhEQhKGmCAwUUziDx6cjJE2o_yK0Qd8JYIHfidBWwxACndFApgjUDQRIRtCSAlBRo4QXCsFBChA4sTCAhCFIFkgexUUMZV_kHLlHQwgwRXkAa5PIl-MMNLewQ4QYpAppawNprubh07RQQpb8CkKfMBQA)]
-- [鋼琴伴奏 TMD 檔案](hotarugari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgov5i163r3y_Z6Ol7NnPuvsftm95_mELU_2bHm6tP_9nk4FLS0uRVsFQ0MjLntbBTcuGyN9EzuQ4U92NDxbNPdZa9-THZ0vm_sUnm9f8bih69m0DUCGwtMN_U_X7ni2YOHj5t1PW9dA2ApPp2x8trbn2dSZz-ZOeDm77XFDN9DWp0uWP1u7-Glv45NdPU93boEwns3peL-n5_mWRc9m73gxc76CgbmRqa6JIdA9YI9BDHq6Y5pCgJGRoYKGoaXpywWNCvoKz2asNdIz1zOy0FTi4tLXUrClFuBSUEAE1LPeqUA2KHAeNUxRCMhMzMtXcExOzs8tSMzLzE3NKwGpDoZEN9TTILdqACPVQM_AwEzPwMLEWFMH7Hi9rIJ0kHLfxKL0zLzEHIW8_JLUYisFuJcg_tEDsoA2AwP9yc65T2fPe7J76ZMd3c_mrHq2AxhSnSATKPckFCho6XNxeeSXJBaVpicWZVqF5Scn5jjUGNQoVIPsUbAxNNOyA7NqFEzjFXSBEEiBWcYgokbBCCIKpAxBLDCBLApWBtZQo2AGEYVAA5AQ2Ghg5DnkVBZlJhfbKig9bp6v8Li5C4ihdNMiIN0CxPOAeA0QrwCKLQPiJUB2P5S_FohXK4F8g2pgvBHIyKYGhceN04EYpBRoZGMTEO8HskHG7gGygVY1dgPxBiBuA-JeiHjzHriRcMcDKTAL6iWw98CBgcf7YG4NRBIahBAGNv83bYb4s2k1kF4JpIEObQaJzQHiPiCeDRUDyjeBwmMVKIxw-x0YRE09QNwJ9BeQbpwMZIMw0O-N64B4G8S_jSBjQGEADObGJiR_GyLFGdjNCkYgD4O8AReBsUBxCmIDQwvmVTw-BfsOGJNg326HBHkT0BnNwBhv2o7TR-DYA8YSyFegWAXHICihgMSnI8cY1H6QWyHuhLFA7sTpKmBaAkc-KH0hEgBGuELTCCQNoYUXCMNCCRE6sDCBhCBIFUgexEYNZVw5A5wT0MIMEV5AGuTyJfjDDS3sEOEGpIE-amoBa69FKRTApV6QB45ioTo3rZaaZYNxvDaYjQgFWuY9kCnaoMA3hVCoPKS0Hq9tpI2U4OO1jeFcRKo31IbFsSFCMSxdgOUg4iDtKGYhrERNmnDnIdwFchFUC8hQmDUIq2sUTCCqQCkMYTgknUHNQU1qWKLbByW6LeCxDQxH03hwgIMokONxCwDDHxR1YAaIMoB7ygSiAKYGqhmkBshEmAHDyNYiDAGLQUlw7YTEg8sBlQNtg1oGNgvuBGRB3BbAxcF8oHMhGgk7EhiounYKiHBVoICnzAUA)]
+- [主旋律 TMD 檔案](hotarugari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYgy5akJNYqcSlpaXwYt6i590rFbS0uBRtFQwNjbjsbRXcuGyM9E3sQFpA_rZSeDZtw_PtKxSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W3v93Q83dD9dMeO58snPtnRCVI6ezZQ6dOdW55PWfF-TyfYKU92NDxbNPdZax9QycvmPgWg8Y8bukix53FDN8iqJcufrV38tLfxya4eoA0QxrM5He_39DzfsujZ7B0vZs5XMDA3MtU1MYTZ_XRD7_PW5e_3zIKY-HTHNIUAIyOgdIehpenLBY0K-grPZqw10jPXM7IA6-HS11KwpRbgUlBQsFOIVvTzD3GNhXC0tJ72zQe5dXP7ixVdLzraga56sXLe09YVz6a1a2mBQ7T3WXunQgIosellFaQnPGqYDOIYgzlAz0IMUCjQUzC0NAFKAn0CEsUVEWvWKBibK7xcNg3oP2BAQJyhC3TIi1X7nzUsBzmhuxcYdCDLZz1ungEUBoVrd-_TtROAznFTAIY7UEwBmEwUgKJgU3peNsx_umuZwqOZKyEpCWFoRzswcuGhDYw5aHgnpOQnF-uDsykwq-kDM2S8oYF-AVAyPiO_JLGoND2xKBPovc5n66e82NMMTAVPu2eA3QQxXEHBUE8Bi9EKwFh82dT1YsXuFytmPG7ogcTr4wagQ3ue9m6GhOazOWuAyQgUFEBpkA6Qg5DCtPNxQxPMGiM9BYhyqBqskdAJNAuUrtdtBQbs0_6lz5t2Ae1-PqvtceP-x42rHjc2PW5c8rhx3-OmnscNDcDM8Kyl_3Hj7MdNHWCXdSQ8bl6h8LhpGRAvAeLdCjUKQBGQwUBnv2gAakLx6LPO7mddLU_2zgFaAlQH1AjU97i5H6TpcdPax02rwcbOBruqE-4qqLfBbgM5CegYCNk8BaQFQjY0vOiYB3btsseN_Y-buuEunAc0vgWI24AuXA-kV0Pdh-a4F6uWAB0HtaV5HlDP4-aVQB1ADRBXPZ3QAnTS0871oDwNdtLTue1Irup83NgGdtt0oGNezl30fObex00tQL1IsWKsp_B8fcPTpf3Ppu0EKgG6AiWSkONFwRAYWcaPGxpNgbQ5kDY0BxUzIO2tK0HpGmz5y5ktL3cD893qpx1tT7sWAEuTp61rgeyX8zc_X7MMlA-XNSkkmMbrKZjGA5GegnE81PsgKyygJgINUkgwBCsCZU2w7QagPGmMrACYpIwVTIFxbKpgAIQglhlQC4wyTgB6FOiqJ_vmQoNnzrRnq6Y83b_g6fplL_Z2vuwBBgYkJGCFCDDtAT0GLMnBfGC6AzoYkvRAiRl3GgQpA6ZBYHg3toBVgpIkxJDHjZPBkdANjJDnUzY8ndMMNnP-46bJjxv3gBWve9y4GyzS_bix53FTF0wj9jgEa-963AR0xvTHTaCCAxyrDSSqR_P4LqBn4B5_3AQ0bfrjRmAm6Hq-bRPYBKD2_XC7nq_e-XzdJKhHgF5r3AD2O8hwmAnAJA_0C9A9PU92dz1dMgesGBgUQAQJonXP1i57OhNYnQHFt0H0goIXFAjzqBUCyMqw-RpYpiP5Gm9WBlu6D-xIRJ6GaZwL1jgPTAJjE0jOBPrlxYq-p_3A-gGSMBYCwxPsVGCwwNMGjT0IrK6QPPisd-qLmZCIAMUsMDowkt86oJlPW4HZEahmEzBmwVYDVa4GehlqyIw-WHqAyAJ1ActgYMkJNAroayB3B1gLMLMspFc87pqC5M0XjZAUC0xpE8FmTgJHUC_IYUB3gkxredw4FZSFQYm8H-ZIYBwBEzPQ8S1P20HFMNgQoAOAisE-bVwHaemBxVEyLCLZ0yHPUt5-ggIFLX0uLg94I8EqIDMxL9-hxqBGoRpkj4KNoZkWOIgVsDXeFCBV9YuFPQoaJtBSWQfYCoTUGZpYNACtAxkGLK7jgW0aXUgFAGYZxwNFjSBsIGUIYQEpZFGgIqguYPkOYUOgARDXgI32MQTW9437waLA_IfCBsk0QXnAtkHjPgi7qQck09QBlQHWyY0tUPZsJBkIBNkKtckIJNcAVTkdiFdAzetCsWk_UARiHlAnkD8fKt4NxBvgdoJkerHbY4xkGtCtyGxQ22YKlLcahQ3SA_Vf42IgXgZl94N91I3dJhOQLoQvgPkHqmsd2LzdUN58uAkwmU0IPwH1QdgQN0DsxbDJFCQHNb1pIhBPguqaC3YfJCSAORHJBJAOWLxMRfLddLBMP4Y9-JPtrh5yki000QEpKAucFKHJEkjhTbZAVg1MBQSC0z5yuoWFCCiWoSHc1ImcapomA9l7CMYKJEVDYgICIakGOeVCQgxsF9AOJH1wVwDtgqZcmF3boLxecH6CqOoGy8zDZRc49c5F8heCDZJZB7cZWHVA2ZCc2gblLURKk8g5FYtd4PQLy3egtAgLD3Cqh-UBoG9hdkFSFUwVMLXBU-9-sMxCXDaB0y_MhcCQB-qFmN0C1tcDlQG28eGmkxNbBIreTnAaNiMtDRsi2QMJASMwDWpHw0RALFCZCsIgNjDlI-lAFgG2seG6YCyQLrAIImVDUxiyrfDwA6eK6XBxEAnKFyAMrAEhapsgsYqqH6IHVFogl7AwFbCMhpzmB9wVoNww8K4A5ZOBdwUoDw2oK_DmLmC7mZwaApK7DMF5CpQfIHkJBGE5CJbfDKH5xQgtT6K3ZWC1PajUAoUMKFyQ_Ynqd2j5BQwX5HAAhRQsJGBhgJQvaG0HSguGRnYgl_20sgNc6tPOjlouLl07BURzPNrHMFYBTcQIQ8QYQ8QEQ8QULKLMBQA)]
+- [鋼琴伴奏 TMD 檔案](hotarugari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkYIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUqcWlpKbyYt-h598r3ezpezp75rLP7Zfee5xO2PNmz5enS_vd7OhW0tLgUbRUMDY247G0V3LhsjPRN7EBmg3xppfBs2obn21coPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7PbgFY83dD9dMeO58snPtnRCVI6ezZQ6dOdW55PWQG0C-zmJzsani2a-6y1D6jkZXOfAtD4xw1dpNjzuKEbZNWS5c_WLn7a2_hkVw_QBgjj2ZyO93t6nm9Z9Gz2jhcz5ysYmBuZ6poYwux-uqH3eevy93tmQUx8umOaQoCREVC6w9DS9OWCRgV9hWcz1hrpmesZWYD1cHnklyQWlaYnFmVaBWQm5uUHeTjUGNQoVHMpAIGNoZmWHZilr6Vgiw4Unq9ZA_Tsi4U9ChomIJ89X9-gA7TPwFgvqyBdE4sGLX2wYUDjc9NqFUzjFXSBEEhBWcbxQCkjCBtIGUJYQApZFKgIqqtGwQzChkADIK4Bm-9jWKPwuHE_WPRx4yoUNkimCcpbAsT7IOymHpBMUwdUpg2IW6Ds2UgyEAiyFWqTEUiuAapyOhCvgJrXhWLTfqAIxDygTiB_PlS8G4g3wO0EyfRit8cYyTSgW5HZQJnmKVDeahQ2SA_Uf42LgXgZlN0P9lE3dptMQLoQvnjcOBmqax3YvN1Q3ny4CTCZTQg_AfVB2BA3QOzFsMkUJAc1vWkiEE-C6poLdh8kJB437kAyAaQDFi9TkXw3HSzTj2EP_rS7q4ectAtNdEAKygInRWiyBFJ4ky2QVQNTAYHgtI-cbmEhAoplaAg3dSKnmqbJQPYegrECSdGQmIBASKpBTrmQEAPbBbQDSR_cFUC7oCkXZtc2KK8XnJ8gqrrBMvNw2QVOvXOR_IVgg2TWwW1-3DgTyobk1DYobyFSmkTOqVjsAqdfWL4DpUVYeIBTPSwPAH0LswuSqmCqgKkNnnr3g2UW4rIJnH5hLgSGPFAvxOwWsL4eqEwLkunkxBaB8rcTnIbNSEvDhkj2QELACEwbK5jCRUAsUJkKwiA2MOUj6UAWMQXqg-mCsUC6wCKIlA1NYci2wsMPnCqmw8VBJChfgPDjRlCogPRDYhVVP0QPqLRALmFhKmAZDTnND7grQLlh4F0ByicD7wpQHhpQV-DNXcDmHTk1BCR3GYLzFCg_QPISCMJyECy_GULzixFankRvy8Bqe1CpBQoZULgg-xPV79DyCxguyOEACilYSMDCAClf0NoOlBYMjexALvtpZQe41KedHbWYTXIflCa5BbRFDm5GmMaD2xsgCpjIgCQuAXDT2gzIBjJAlAHUOzUKJhAFMDVQzSA14BYMzAwYRrYWYQhYDEqC9CDzwApBEGQX1CqISWhcnAbDxcF8oDMhGgk7DhiYunYKiPCM9jGMVUATMcIQMcYQMcEQMQWLKHMBAA)]
 
 ## 分析
 
@@ -84,24 +132,28 @@ G3 F A2 G2 | F6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 螢狩 ]
 ================================================================================
-⏱  Duration:       0:19 (19.3s), 18 measures total
+⏱  Duration:       1:36 (96.4s), 90 measures total
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F3 (MIDI 53) – D5 (MIDI 74) [跨度: 21 個半音 / 1.8 個八度, 難度: difficult]
-   - 最低音:  F3 in [Hotarugari #1 @ m.2, 0:01]
-   - 最高音: D5 in [Hotarugari #1 @ m.12, 0:11]
+   - 最低音:  F3 in [Hotarugari[L1] #1 @ m.2, 0:01]
+   - 最高音: D5 in [Hotarugari[L1] #1 @ m.12, 0:11]
    - 適合: mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Hotarugari (19.3s)
+🏛  結構:      Hotarugari[L1] (19.3s) -> Hotarugari[L2] (19.3s) -> Hotarugari[L3] (19.3s) -> Hotarugari[L4] (19.3s) -> Hotarugari[L5] (19.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, F, A, G, D
-   - 調性數值:    F 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.84), C 大調 (0.78), D 小調 (0.63)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  F, C, D, A, G
+   - 調性數值:    F 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.83), D 小調 (0.74), C 大調 (0.68)
+   - 五度圈歷程:   -1 -> -1 -> -1 -> -1 -> -1
    - 各段落調性細節:
-     • [Hotarugari #1]: F 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Hotarugari[L1] #1]: F 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [Hotarugari[L2] #1]: F 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [Hotarugari[L3] #1]: F 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [Hotarugari[L4] #1]: F 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [Hotarugari[L5] #1]: F 大調 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -114,21 +166,21 @@ G3 F A2 G2 | F6 z2 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  25.4%
+     C  : ███████████████████       19.7%
      C# :                            0.0%
-     D  : ████████████████          16.4%
+     D  : ███████████████████       19.7%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ██████████████████████    23.1%
+     F  : ████████████████████████  25.0%
      F# :                            0.0%
-     G  : ████████████████          17.2%
+     G  : ████████████████          16.7%
      G# :                            0.0%
-     A  : █████████████████         17.9%
+     A  : ██████████████████        18.9%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : F3 – D5 (21 個半音 / 1.8 個八度, 50 個音符)
+  - Piano         : F3 – D5 (21 個半音 / 1.8 個八度, 250 個音符)
 ================================================================================
 ```
 

@@ -1,12 +1,32 @@
 X:1
-T:琵琶湖 琵琶湖
+T:琵琶湖
 M:4/4
 L:1/16
 Q:1/4=88
 K:C
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Voice" snm="Voi"
 [V:V1]
 C4 C2 E2 G6 G2 | A4 c4 G8 | A4 A4 c4 B2 A2 | G4 E2 C2 D8 |
+w: ウ タ _ ヘ ヤ | ウ タ ヘ | ヨ ニ ナ モ _ | タ カ _ キ
 A6 G2 E4 C4 | E2 D2 D2 C2 G8 | G4 E2 C2 D6 D2 | C12 z4 |
-c6 c2 d2 c2 c2 A2 | G6 A2 G8 | A6 A2 c4 B2 A2 | G4 E2 G2 D8 |
-A4 A4 A6 G2 | c4 d4 e4 c4 | G4 A2 G2 E4 D4 | C12 z4 |
+w: ア フ ミ ノ | ウ _ ミ _ ノ | ヤ ツ _ ノ ケ | イ
+c6 c2 d2 c2 c2 A2 | G6 A2 G8 | A6 A2 c4 B2 A2 | G4 ^F4 G8 |
+w: み ゐ ニ _ ツ _ | キ ダ ス | カ _ ノ ネ _ | ク レ テ
+A4 A4 A6 G2 | A4 c4 G8 | G4 E2 C2 D6 D2 | C12 z4 |
+w: セ タ ノ ユ | フ ヒ ハ | カ ゲ _ モ ナ | シ
+C4 C2 E2 G6 G2 | A4 c4 G8 | A4 A4 c4 B2 A2 | G4 E2 C2 D8 |
+w: ひ ら _ の ぼ | せ つ の | あ は れ は _ | あ れ _ ど
+A6 G2 E4 C4 | E2 D2 D2 C2 G8 | G4 E2 C2 D6 D2 | C12 z4 |
+w: な ほ い し | や _ ま _ の | あ き _ の つ | き
+c6 c2 d2 c2 c2 A2 | G6 A2 G8 | A6 A2 c4 B2 A2 | G4 ^F4 G8 |
+w: や ば せ _ の _ | き は ん | ゆ _ へ も _ | き え て
+A4 A4 A6 G2 | A4 c4 G8 | G4 E2 C2 D6 D2 | C12 z4 |
+w: か り や か | た だ に | お ち _ ぬ ら | む
+C4 C2 E2 G6 G2 | A4 c4 G8 | A4 A4 c4 B2 A2 | G4 E2 C2 D8 |
+w: ア ハ _ ヅ ノ | セ イ ラン | ゲ ニ オ モ _ | シ ロ _ ク
+A6 G2 E4 C4 | E2 D2 D2 C2 G8 | G4 E2 C2 D6 D2 | C12 z4 |
+w: カ ラ サ キ | サ _ ム _ キ | ア メ _ ノ ヨ | ハ
+c6 c2 d2 c2 c2 A2 | G6 A2 G8 | A6 A2 c4 B2 A2 | G4 ^F4 G8 |
+w: キ ク サ _ ヱ _ | コ コ ロ | ウ _ ル ル _ | モ ノ ヲ
+A4 A4 A6 G2 | A4 c4 G8 | G4 E2 C2 D6 D2 | C12 z4 |
+w: ミ ル ヒ ト | イ カ ニ | タ ビ _ ヲ シ | テ

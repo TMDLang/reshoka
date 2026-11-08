@@ -29,17 +29,6 @@ audio: "sakurai_no_ketsubetsu.mp3"
 調性與拍號：ハ長調（C 大調）2/4 拍，速度 ♩=114
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》第四學年〈櫻井の訣別〉、《新定兒童唱歌》六年級〈小楠公〉與《唱歌帖》P089 皆為落合直文詞・奧山朝恭曲同曲；《公學校唱歌集》〈櫻井のわかれ〉為文部省『尋常小學唱歌』同名異曲）
-
-- **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈櫻井のわかれ〉**](../../../kogakko_shokashu_1915/5_03_sakurai_no_wakare/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_03_sakurai_no_wakare/sakurai_no_wakare.tmd)）
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈小楠公〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko/index.md)（`A` / `6/8` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko/sho_nanko.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈櫻井の別〉**](../../../shoka_kyozai_shu_1923/grade_5_6/06_sakurai_no_wakare/index.md)（`D` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/06_sakurai_no_wakare/sakurai_no_wakare.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈小楠公〉**](../../../shoka_kyozai_shu_1923/koto_1_2/34_sho_nanko/index.md)（`A` / `6/8` — [原始 TMD](../../../shoka_kyozai_shu_1923/koto_1_2/34_sho_nanko/sho_nanko.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈小楠公〉**](../../../shokacho/vol_02/p089_sho_nanko/index.md)（`A` / `6/8` — [原始 TMD](../../../shokacho/vol_02/p089_sho_nanko/sho_nanko.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

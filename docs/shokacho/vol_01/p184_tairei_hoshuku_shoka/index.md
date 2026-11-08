@@ -26,13 +26,6 @@ audio: "tairei_hoshuku_shoka.mp3"
 調性與拍號：ニ長調 4/4 拍子，M.M. ♩= 96
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（高田耕一作詞、平岡均之作曲〈大禮奉祝唱歌〉；《唱歌帖》P181 謄寫版與 P184 印刷伴奏譜）
-
-- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈大禮奉祝歌〉**](../p181_tairei_hoshukuka/index.md)（`D` / `4/4` — [原始 TMD](../p181_tairei_hoshukuka/tairei_hoshukuka.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

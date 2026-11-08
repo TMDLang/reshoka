@@ -29,13 +29,6 @@ audio: "kodama.mp3"
 作曲：臺灣總督府國語學校助教授 宮島慎三郎
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈木靈〉**](../../shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama/index.md)（`F` / `4/4` — [原始 TMD](../../shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama/kodama.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

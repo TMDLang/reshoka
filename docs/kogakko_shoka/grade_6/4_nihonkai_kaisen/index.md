@@ -30,13 +30,6 @@ audio: "nihonkai_kaisen.mp3"
 與「III.」（第三節結於高八度 D5 二分音符加延長記號，唱「ザイ」）。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（文部省『尋常小學唱歌』第六學年〈日本海海戰〉；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈日本海海戰〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/index.md)（`D` / `3/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/nihonkai_kaisen.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

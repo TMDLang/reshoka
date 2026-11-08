@@ -26,13 +26,6 @@ Notation: Handwritten numbered notation (Jianpu) on pasted grid sheet
 Annotations: イ調, (大正十三年二月十一日) (邱氏より抄)
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（滑稽唱歌〈近眼のしくじり〉；《唱歌帖》P080 與 P257）
-
-- **[同曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈近眼のしくじり (近視眼的失誤)〉**](../../vol_07/p257_chikame_no_shikujiri/index.md)（`C` / `4/4` — [原始 TMD](../../vol_07/p257_chikame_no_shikujiri/chikame_no_shikujiri.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

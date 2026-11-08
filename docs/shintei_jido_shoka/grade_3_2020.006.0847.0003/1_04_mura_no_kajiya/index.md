@@ -29,14 +29,6 @@ audio: "mura_no_kajiya.mp3"
 調性與拍號：へ調二拍子（F 大調 2/4 拍），速度 != 84
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（文部省『尋常小學唱歌』〈村の鍛冶屋〉；《公學校唱歌》與《新定兒童唱歌》第三學年共用教材）
-
-- **[同曲]** 《公學校唱歌》第三學年（昭和10年／1935）：[**〈村のかぢや（村之鍛冶屋）〉**](../../../kogakko_shoka/grade_3/3_muranokajiya/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_3/3_muranokajiya/muranokajiya.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈村の鍛冶屋〉**](../../../shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/mura_no_kajiya.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

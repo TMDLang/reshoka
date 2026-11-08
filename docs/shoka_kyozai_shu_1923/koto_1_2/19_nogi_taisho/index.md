@@ -1,11 +1,11 @@
 ---
 title: "乃木大將 — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年"
 song_title: "乃木大將"
-description: "〈乃木大將〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423））（曲：小松耕輔），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夢（ゆめ）より淡（あは）き三日月（みかづき）の 大内山（おほうちやま）にかぐろひて…"
-keywords: "乃木大將, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小松耕輔"
+description: "〈乃木大將〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423））（詞：武島羽衣、曲：田中穗積），調號拍號：B, 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "乃木大將, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 武島羽衣, 田中穗積"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）"
-musical_key: "G"
+musical_key: "B,"
 image: "P383.jpg"
 audio: "nogi_taisho.mp3"
 ---
@@ -16,54 +16,44 @@ audio: "nogi_taisho.mp3"
 
 <audio controls src="nogi_taisho.mp3"></audio>
 
-- 曲：小松耕輔
+- 詞：武島羽衣
+- 曲：田中穗積
+- book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P040.jpg–P041.jpg，書頁 pp. 17–18，第二學期第 4 首）：
-調性與拍號：ほ短調四分之二拍子（E 小調 2/4 拍，關係調 G 大調），♩=84
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P383.jpg`–`P386.jpg`，原書 p. 374–377，高等科一・二學年第 19 首）：
+> - **調性與拍號**：變ロ調六拍子（關係小調 G 小調 6/8 拍，含導音 `#5` 即 F♯4），♩. = 63
+> - **詞曲作者與版本辨析**：武島羽衣 作詞、田中穗積 作曲（大正元年發表之〈乃木大將の歌〉，「神さりましし大君の」）。注意本曲與臺灣教育會《新定兒童唱歌》所錄小松耕輔作曲之 E 小調 2/4 拍〈乃木大將〉（「夢より淡き三日月の」）為同名異曲。
+> - **音高與字音註記**：原書簡譜以 B♭3 為 `1`，故 B♭4 標為高音點 `1^`；TMD 於 `?= B,` 下以 B♭4 為中音 `1`，故依五線譜實際音高（C4–E♭5）記為 `2_`–`4`。第 22 小節原譜記為 `3 6 7.`，第一、三、四章於附點四分音符 `7.` 唱一字（「ヌー」「ニー」「つー」），第二章則唱二字（「まことの」），轉錄時細分為 `3_ - 6_ 7_ - 7_` 以對齊四章字音。
+>
+> **一、**
+> 神（かみ）さりましし大君（おほぎみ）の　御後慕（みあとした）ひて行（ゆ）くなりと
+> 赤（あか）き心（こころ）を言（こと）の葉（は）に　留（とど）めもあへず潔（いさ）ぎよく
+> つひの御幸（みゆき）をおひがみや　雄々（をを）しく散（ち）りぬ乃木（のぎ）の花（はな）。
+>
+> **二、**
+> 昔（むかし）の罪（つみ）に身（み）を責（せ）めて　まなご二人（ふたり）を先（ま）づ君（きみ）に
+> 捧（ささ）げて尚（なほ）も武夫（もののふ）の　死時（しじ）をもとめし胸（むね）の内（うち）
+> 嗚呼（ああ）これ眞（まこと）の大和魂（やまとだま）　ああこれまことの大和（やまと）ぶし。
+>
+> **三、**
+> 明治（めいぢ）の御代（みよ）を飾（かざ）りつつ　散（ち）り盡（つく）したる山櫻（やまざくら）
+> 大和島根（やまとしまね）の國民（くにたみ）の　心（こころ）にふかく根（ね）をとめて
+> 千載遠（せんざいとほ）く老（お）ひ榮（さか）え　天地（あめつち）もせににほふらん。
+>
+> **四、**
+> 忠君不朽長（ちゆうくんふきうとこ）しへに　明治帝（めいぢみかど）の御靈（おんたま）の
+> みそばに侍（はべ）りあまかけり　御代（みよ）の限（かぎり）や護（まも）るらん
+> 悲絶壯絶（ひぜつさうぜつ）あなあはれ　忠勇義烈（ちゆうゆうぎれつ）あなあはれ。
 
 
 ## 歌詞
 
 ```text
-一、
-夢（ゆめ）より淡（あは）き三日月（みかづき）の
-大内山（おほうちやま）にかぐろひて
-先（さき）の帝（みかど）の御車（みくるま）は
-果（はて）のいでましあらせらる
-
-二、
-火砲（ほづつ）のひゞき轟（とゞろ）きて
-宵闇（よひやみ）やぶる一刹那（せつな）
-乃木大將（のぎたいしやう）は御後（おんあと）を
-慕（した）ひまつりて逝（ゆ）きにけり
-
-三、
-日頃捧（ひごろさゝ）げし誠心（まごゝろ）は
-また魂（たましひ）になりかはり
-天（あま）つ御國（みくに）の大君（おほぎみ）に
-天地（あめつち）の共（むた）仕（つか）ふらん
-
-四、
-六十四年（ねん）の生涯（しやうがい）は
-日本（にほん）の武士（ぶし）の鑑（かゞみ）にて
-をはる最後（さいご）のかゞやきは
-純美崇高（じゆんびすうかう）極（きは）みなし
-
-五、
-起（た）てよ武夫（ものゝふ）武士道（ぶしだう）の
-權化（ごんげ）を前（まへ）に認（みと）めずや
-今（いま）し鋭心（えいしん）起（おこ）らずば
-腰（こし）のつるぎに恥（はぢ）あらん
-
-六、
-わが帝國（ていこく）の同胞（どうはう）よ
-鬼神涙（きしんなみだ）に咽（むせ）ぶべき
-この壯烈（さうれつ）に勇（いさ）まずば
-汝（なんぢ）の胸（むね）に血汐（ちしほ）なし
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -71,47 +61,67 @@ audio: "nogi_taisho.mp3"
 ```abc
 X:1
 T:乃木大將
-C:曲：小松耕輔
-M:2/4
+C:曲：田中穗積
+M:6/8
 L:1/16
-Q:1/4=84
-K:G
+Q:3/8=42
+K:Gm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! E3 B, E3 F | G3 F E3 F | G3 A B3 G | F6 z2 |
-w: 1.~ゆ め よ り | あ _ は き | み か づ き | の
-w: 2.~ほ づ つ の | ひ _ び き | と ど ろ き | て
-w: 3.~ひ ご ろ _ | さ さ げ し | ま ご こ ろ | は
-w: 4.~ろ く じゅ う | よ ね ん の | しゃ う が い | は
-w: 5.~た て よ _ | も の の ふ | ぶ し だ う | の
-w: 6.~わ が て い | こ _ く の | ど う は う | よ
-G3 G F3 F | E3 F E3 B, | G3 G F3 F | E6 z2 |
-w: 1.~お ほ う ち | や ま に _ | か ぐ ろ ひ | て
-w: 2.~よ ひ や み | や ぶ る _ | い つ せ つ | な
-w: 3.~ま た た ま | し ひ に _ | な り か は | り
-w: 4.~に ほ ん の | ぶ し の _ | か が み に | て
-w: 5.~ご ん げ を | ま へ に _ | み と め ず | や
-w: 6.~き し ん な | み だ に _ | む せ ぶ べ | き
-!f! e3 B B3 B | c3 B A3 A | G3 A G3 F | B6 z2 |
-w: 1.~さ _ き の | み か ど の | み く る ま | は
-w: 2.~の ぎ た い | し や う は | お ん あ と | を
-w: 3.~あ _ ま つ | み く に の | お ほ ぎ み | に
-w: 4.~を _ は る | さ い ご の | か が や き | は
-w: 5.~い _ ま し | え い し ん | お こ ら ず | ば
-w: 6.~こ _ の さ | う れ つ に | い さ ま ず | ば
-!mf! B3 e B3 A | G3 F E3 F | B,3 E G3 F | E6 z2 |
-w: 1.~は て の _ | い で ま し | あ ら せ ら | る
-w: 2.~し た ひ _ | ま つ り て | ゆ き に け | り
-w: 3.~あ め つ ち | の む た _ | つ か ふ ら | ん
-w: 4.~じゅ ん び _ | す う か う | き は み な | し
-w: 5.~こ し の _ | つ る ぎ に | は ぢ あ ら | ん
-w: 6.~な ん ぢ の | む ね に _ | ち し ほ な | し
+D4 D2 G4 ^F2 | G4 A2 B6 | A4 A2 A4 A2 | D6 D4 z2 |
+w: カ ミ サ リ | マ シ シ | オ ホ ギ ミ | ノ _
+E4 E2 G4 E2 | D4 D2 G4 A2 | B4 B2 A4 A2 | G6 G4 z2 |
+w: ミ _ ア ト | シ タ ヒ テ | ユ ク ナ リ | ト _
+B4 B2 A4 G2 | d4 d2 d4 d2 | e4 d2 B4 B2 | A6 A4 z2 |
+w: ア _ カ キ | コ コ ロ ヲ | コ ト ノ ハ | ニ _
+B4 B2 d4 d2 | A4 A2 A6 | D4 G2 B4 B2 | A6 A4 z2 |
+w: ト ド メ モ | ア ヘ ズ | イ サ ギ ヨ | ク _
+G4 G2 A4 G2 | E4 G2 E4 D2 | C4 D2 E4 E2 | D6 D4 z2 |
+w: ツ _ ヒ ノ | ミ ユ キ ヲ | オ ヒ ガ ミ | ヤ _
+E4 E2 G4 E2 | D4 G2 A4 A2 | B4 B2 A4 A2 | G6 G4 z2 |
+w: ヲ ヲ シ ク | チ リ ヌ _ | ノ ギ ノ ハ | ナ _
+D4 D2 G4 ^F2 | G4 A2 B6 | A4 A2 A4 A2 | D6 D4 z2 |
+w: む か し の | つ み に | み を せ め | て _
+E4 E2 G4 E2 | D4 D2 G4 A2 | B4 B2 A4 A2 | G6 G4 z2 |
+w: ま _ な ご | ふ た り を | ま づ き み | に _
+B4 B2 A4 G2 | d4 d2 d4 d2 | e4 d2 B4 B2 | A6 A4 z2 |
+w: さ さ げ て | な ほ も _ | も の の ふ | の _
+B4 B2 d4 d2 | A4 A2 A6 | D4 G2 B4 B2 | A6 A4 z2 |
+w: し じ を も | と め し | む ね の う | ち _
+G4 G2 A4 G2 | E4 G2 E4 D2 | C4 D2 E4 E2 | D6 D4 z2 |
+w: あ あ こ れ | ま こ と の | や ま と だ | ま _
+E4 E2 G4 E2 | D4 G2 A4 A2 | B4 B2 A4 A2 | G6 G4 z2 |
+w: あ あ こ れ | ま こ と の | や ま と ぶ | し _
+D4 D2 G4 ^F2 | G4 A2 B6 | A4 A2 A4 A2 | D6 D4 z2 |
+w: メ イ ヂ ノ | ミ ヨ ヲ | カ ザ リ ツ | ツ _
+E4 E2 G4 E2 | D4 D2 G4 A2 | B4 B2 A4 A2 | G6 G4 z2 |
+w: チ _ リ ツ | ク シ タ ル | ヤ マ ザ ク | ラ _
+B4 B2 A4 G2 | d4 d2 d4 d2 | e4 d2 B4 B2 | A6 A4 z2 |
+w: ヤ _ マ ト | シ マ ネ ノ | ク ニ タ ミ | ノ _
+B4 B2 d4 d2 | A4 A2 A6 | D4 G2 B4 B2 | A6 A4 z2 |
+w: コ コ ロ ニ | フ カ ク | ネ ヲ ト メ | テ _
+G4 G2 A4 G2 | E4 G2 E4 D2 | C4 D2 E4 E2 | D6 D4 z2 |
+w: セ ン ザ イ | ト _ ホ ク | オ ヒ サ カ | エ _
+E4 E2 G4 E2 | D4 G2 A4 A2 | B4 B2 A4 A2 | G6 G4 z2 |
+w: ア メ ツ チ | モ セ ニ _ | ニ ホ フ ラ | ン _
+D4 D2 G4 ^F2 | G4 A2 B6 | A4 A2 A4 A2 | D6 D4 z2 |
+w: ち ゆう く ん | ふ き う | と こ し へ | に _
+E4 E2 G4 E2 | D4 D2 G4 A2 | B4 B2 A4 A2 | G6 G4 z2 |
+w: め _ い ぢ | み か ど の | お ん た ま | の _
+B4 B2 A4 G2 | d4 d2 d4 d2 | e4 d2 B4 B2 | A6 A4 z2 |
+w: み そ ば に | は べ り _ | あ ま か け | り _
+B4 B2 d4 d2 | A4 A2 A6 | D4 G2 B4 B2 | A6 A4 z2 |
+w: み よ の か | ぎ り や | ま も る ら | ん _
+G4 G2 A4 G2 | E4 G2 E4 D2 | C4 D2 E4 E2 | D6 D4 z2 |
+w: ひ _ ぜ つ | さ う ぜ つ | あ な あ は | れ _
+E4 E2 G4 E2 | D4 G2 A4 A2 | B4 B2 A4 A2 | G6 G4 z2 |
+w: ちゆ う ゆ う | ぎ れ つ _ | あ な あ は | れ _
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nogi_taisho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYWyAZWVCUX5aal5gH1F1QlJlXkpoC1o5QkFqWmZIKkk5NySzJL8pMzEFyT2pRMdjZEONLihLzipOLMgtAfkGoKslIBTo6NzMnsySxqFKJS0tL4cnO5mdzVjxdsvzphnYFLS0uRVsFCxMue1sFdy4bI30TO5DeJzsani2a-6y178mOzpfNfQrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKH7_Z4OoC3P1i5-2tv4ZFfP051bIIxnczre7-l5vmXRs9k7Xsycr2BgbmSqa2L4fk8n2N3PZm96v2cW0JJnc_e9aJj6Ys8UsPCL9l3PGxcDzX_RtOnZnGagxS9W9UIc9XTdrKetk56vXgpxA9Dqpxu6n-7Y8Xz5xOdr1jxtXQt0ItD251NWAJ1kZGBkoGdgYKZnYGFiDmQYmIEt5tLXUrClFuBSUFB42jcf5L_N7S9WdL3oaAe668XKeU9bVzyb1g4KmA29z9o7FQIMTAz0sgrSHzVMBjINQUxg0AD1vVzQqFBQoKdgaA6UMrQAhdeaNaBABAb2nPlAtoKJwstl04BOB4YVyLoXq_Y_a1gOsqi7FxioQNHHjbufz18LFH86e_bTjrYnO7tBYd_d-3TtBKADXEHRCJRUAEa5AlAUaMPL6XOe7G8CibkrACMOyAAb3_No5kpbYAoB2QJMF48bGsHeW7IIaMrjprbHTY1AZY-bgOyuZ9sXggQbmx43rgcJNvYC08-z6UvBMQ4U3_-4sftx41KgOFh2HcSg5U_bWp9u3AhW0QV09ePGtseNCx83tTxu3AdWtxqsbcLjpt7HjZseNy4Da2uFGDkVbtjTHXORLFkJFdy38MXuLph4_-MmoBTE0PUgU57NmwOWWw80FaLhcSPQ2uVARY8bp4M80gQUnA0im7ohIbALmL7AIfC8cfXzBcCkCtQOdDLQU0tgJmx63DQP6KwXe4HRAJRdAeI2QVwJ9AHE-eu2vpwOSgiggANpANoKCm4wYxvQMmBIP-3Y-bJpMdiI2UDTHzeuAioAuwEpB4OlgXb2PW6cD3b7dLARbRA_Ar3_dF8PNGSbJoNjBpgJgNZMAnu_dSpYDuhToFOBGoChC_T4EmBUAt35sgEcoE0Qs4AuB8bDRKAUNCV0QsMBGL8vFzQ_610ONgpowhRwRE193ATUDtQ4CWj-i1ULnu5vBisAmg9UMBcWIOBoAIvOf7m2CawC6A9I6AMDFxL7q8AOAkbdepD14EQDjF9IQoPE5hKQT-eAihxoRDeuhiYAYChNmI2UtoABBQ7oxtVQg57O2QA1q6kRHMzANAzW2QpOkk0NkMB5shsSVkAFQGuACraCU8VkcGgAsxgsXwBLm95GUJbbuQWsfi1QDcTA51PmP9sGzBfgAAdH0uPGHmCcISVHUFZZA1YB9PVuuM5na5c9XQz0EFB8G1AzRPDlxIlgkW5waoP6CZq8gPELDqzuZ3MaYAkAmFOAdk6BJVKwNpArgHEFtvz5linP9_U93dL-cvUMsIYZ4NwNTDSbHzfOBLsWGAOgxPBs6VawApBOsHHAEF8FdBc0g0yBBsWLrdsh8QlWswyY0kH-WAL2RxMw5taBkkEj0KhOiP9eNgK9C_Xi48YFsEQMLiWerel62gMs7oDSwNQDdNMkSCp-2glMRpBUtQMSAsBaAZYKICkdGKmzgB4Fuw1aFMBLlukvu9fCEiZEHBgzoECHuR2YZsBxACoGgCXqBrC_WiEJBugKaFSAswwwcIBpa_WzxqWwIgVYQgJlwWUILJ20roUGzuMmYBrtAZZZsFS7DGw90Mx-aPKb0POieR5YaiU48IEGggOkqQOk_-WaPc-Xznu2bSYsJkAOB0cD0OMLIEHxdNJeWAoG5gCgCDBkdwIVQ7IcUPW6p4vXP2-GF6TA2AamR0gxtvppN6RsAToKmPCBIsAghoXAs42QohaYL4GmQLy57kUzMAYgtq2FRsXChmcbQZUNqDgHxelusDg4qQBNobyehQIFLX0uLr_89MyQxExgK84vP7Qk0SogMzEv36HGoKYaZJeCjaGZlh2Yha2iVwDVrjsaXizsUdAwAdWMz9c36MBrZ00sGoBWggyrUajOTatVMItX0AVC43gYyzweKGUIY2IKGikYg2lDoAhQGMSEQAMgrgEb7WNYA0wlbWBRYCoG4g4ouwuoCZiuoDqAKQNK94LF90N53UC8FEVmHZI9IDuh9hiB5HZDVS4F4iVQ9jqwrk1wezajmLYCylsJdFEviswy7PYYI0wD5mK4LqA8kD8VKj4ViCdB2dPBMvsQOhonQ0MAYg_E3xj2mIDCDeaifiAGFmStUG4bSCMsIBvXAtlQI6GeBeaiZrhSYAaFslvw2WcKkpsPVbkMbjzYX02QWAIZDwt_YJEHNm0b3JfADIvsPFzxZAYyrx-qsgcezjDXQTwC8TOyl1Yi-QeWUpCDAdke_BlkVw85GQSS4A1hyRycCRAZApFz8KqEQLTM0dgF9c5usJcg7IVgr7VAefuAeDUiOoCZAiI-ASmJbMKXaEGZA55eNiGZvB_Fnm1ANsRsiD0w8SVAPBvOBsmswm4POHPAkvp8pAS1D5IuES5A8Q_ENFCRgPDberDLIGGDYQ8oc0BNAIcbWvpHTpSwZIgcbqBkBytgVuMLN3CmmAJ13WQgG5qpmyahZOodaP6Bmb0CXORB2LOQQhrDHlCmABY7cFfD_bMKxbwFqPY0NUDFZyP5eSdYB8QsZHsI1BqdZNUaoEoDbIcxtCYwBoqaQFlGYNoIqbaAVyU1UOUQiJ4hIKUopCRGjlbkOgFWHqDKAMtJaAKGJTkcpR24toCVZH1ICRVSCkETKjC6EFkSnCBhmRWcGGCl4gpwZECSBoZN4CyBqOVgSQaSjZDcDU_OEB8hFwp9UDY4s8ITAJo94PoC5gZ4GQkMDeR6CeQfaHKG2oOUJeDFAN56CZwlYMkY4R9ILQcrYkD2wMJwMop_gOHW1Allg7NE4wbs9oCzBKI2gMXVVLAeWHsClJFh9TwkI8P8AKqBYW7DZQ_eLAHs_JDdkIIkbjMojcgBaI0oYHUBVhePnDHwVhWwmg9YP6MUbDBfL8eIEWgaBYY5vAgHskFpBVbQo4U7OGfACmpQEQ5rOSEXeMAKAVo0g9wCMg2WS3qRUvJEfEU4Ur4Atwvh8Qiu-mDxDSziYHkT4gKYKlAZsBXFP7C0gmYPuKpAtJ3AGRfSBIQYOBNqIKhhAcsMkAZML5S3HohhGRVSHkOCB8MqcNaAldzodQ_U4cBgR2RoSJKFReoilOjC4yVw1oDVmSD_LIKaAM7S8FphLTwqIC5YiOQyWEMZl39qubh07RTQeiMKQCFlLgA)]
-- [鋼琴伴奏 TMD 檔案](nogi_taisho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYWyAZWVCUX5aal5gH1F1QlJlXkpoC1o5QkFqWmZIKkk5NySzJL8pMzEFyT2pRMdjZEONLihLzipOLMgtAflHi0tJSeLKz-dmcFU-XLH-6of39no6Xs2c-6-x-2b3n-YQtT_Zsebq0__2eTgUtLS5FWwULEy57WwV3LhsjfRM7kA1PdjQ8WzT3WWvfkx2dL5v7FJ5vX_G4oevZtA1AhsLTDf1P1-54tmDh4-bdT1vXQNgKT6dsfLa259nUmc_mTng5u-1xQzfQUqDtz9Yuftrb-GRXz9OdWyCMZ3M63u_peb5l0bPZO17MnK9gYG5kqmtiCHQO2HfPZm96v2cW0JJnc_e9aJj6Ys8UsPCL9l3PGxcDzX_RtOnZnGagxS9W9UIc9XTdrKetk56vXgpxA9Dqpxu6n-7Y8Xz5xOdr1jxtXQt0ItD251NWAJ1kZGBkoGdgYKZnYGFiDmQYmIEt5vLLT88MScwEpgK__NCSRKuAzMS8_CAPhxqDmmouBSCwMTTTsgOz9LUUbNGBAtAmYKi9WNijoBFgYGKgl1WQrolFmZY-2IgaherctFoFs3gFXSA0joexzOOBUoYwJqagkYIxmDYEigCFQUwINADiGrDRPoY1Co-b2sCij5sagbgDyu4Canrc2ATV8bhxPZTuBYvvh_K6gXgpisw6JHtAdkLtMQLJ7YaqXArES6DsdWBdm-D2bEYxbQWUtxLool4UmWXY7TFGmPa4cQpcF1AeyJ8KFZ8KxJOg7OlgmX0IHY2ToSEAsQfibwx7TEDhBnNRPxDPeNzUCuW2gTTCArJxLZANNRLq2emPm5rhSh839kDZLfjsMwXJzYeqXAY3HuyvJkgsgYyHhf_jxq1g07bBffm4cQGy83DFkxnIvH6oyh54OMNcB_EIxM_IXlqJ5B9YSkEOBmR78GeLXT3EZwtIMjeEJW5w0kdkA0R-wasSAtGyRGMX1BO7wR6BsBeCPdQC5e0D4tWISABmBYj4BKSEsQlfUgVlCXgq2YRk8n4Ue7YB2RCzIfbAxJcA8Ww4GySzCrs94CwBS-DzkZLRPkhqRLgAxT8Q00AFAcJv68Eug4QNhj2gLAE1ARxuaKkeOSnCEh9yuIESG6xYWY0v3MBZYQrUdZOBbGhWbpqEkpV3oPkHZvYKcEEHYc9CCmkMe0BZAVjYwF0N988qFPMWoNrT1AAVn43k551gHRCzkO0hUEN0klBDgCoIsMnG0FLfGChqAmUZgWkjpJoBXm3UQJVDIHo2gJSYkFIXOTKRy39Y3keVAZaJ0GQLS2g4SjZwzQArtfqQkiekxIEmT2AkITIiOBnCsig4CcBKwBXgKIAkCAybwBkBUaPBEgok8yC5G56IIT5CLgr6oGxwFoVHO5o94LoB5gZ4eQgMDeQ6COQfaCKG2oOUEeCZH28dBM4IsMSL8A-kRoMVLCB7YGE4GcU_wHBr6oSywRmhcQN2e8AZAVHyw-JqKlgPrO0Ayr6wOh2SfWF-ANW2MLfhsgdvRng6ezaJTSVIkjaD0oh0j9ZMAlYNYHXxyNkBb7UAq9uANTBKIQbz63KMeICmTGBIw4trIBuUQmCFOlpog_MDrFAGFdewthFy4QYs_KHFMMgtINNgeaMXKf1OxFdcI-UGcMsPHnvgag4Wy8DiDJYjIS6AqQLl_K0o_oGlEDR7wNUConUEzq6QRh7EwJlQA0FNB1gWgDRReqG89UAMy56QshcSPBhWgTMErJRGr2egDgcGOyIbQxIqLFIXoUQXHi-BMwSsfgT5ZxHUBHBGhtcAa-FRAXHBQiSXwZrCuPxTi6OT4YPcyTCB9jHgHYR4hWiz-FhwIsbGNAYyDaCegEoYY1ODJIpQDq5hEOqMgCxTMMsQyDLCYj7CTRB1Jijq0OwA-lfXTgHNy9E-hrEK2ISNsAsbYxc2wS5sil3YDCyszAUA)]
+- [主旋律 TMD 檔案](nogi_taisho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYWyAZWVCUX5aal5gH1F1QlJlXkpoC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BclNqUTHY6RArSooS84qTizILQP5BqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MS0QoKslIBfouNzMnsySxqBJdHKINQzg3NRdoWGKOEpeWlsKTnc3P5qx4umT50w3tClpaXIq2CmbGXPa2Ck46XNmplbYK7rlcNmb6FnYgQ0BBZKXwbNqG59tXKDzd0P907Y5nCxY-bt79tHUNhK3wdMrGZ2t7nk2d-WzuhJez297v6Xi5esbztZ3Pl098sqMBqPTJrh6g0qc7tzyfsuL9nk6w44AyzxbNfdba92RH58vmPgWg8Y8bukix53FDN9AqoDeerV38tLcRZMnOLRDGszkd7_f0PN-y6NnsHS9mzlcwMDcy1TUxhNn9YuW893tmPVu77Onmbc_37X2xcDFY-NnsTUDh51M2PNmx9vnK6c9X9ipxcelrKdhSC3ApKCjYKUQr-vmHuMZCOFpaT_vmg1y5uf3Fiq4XHe1AHwKd97R1xbNp7VpaIA9u6H3W3qmQAEqRelkF6QmPGiaDOGZgDtCbEAMUCvQUjM1NgJLG5uZAUZxRsGaNgqGlwstl04ChAfQuxBm6QIe8WLX_WcNykBO6e4GBBrJ81ot1XY-b1wJlnrauBQo_XTsBFLvT5zzZ3wSMI6C4gjsoskAMYIJRACoBOWjC6qcb-l7O36yQoGyaoPC0d7OC26OZ603AFvY8mrlSTwGc4hA2r5wHDPsne-e8aGgF2v-8s-PZnDUv9q14Nm8C2BXIMaUAUrZy3uOGRuSIAomCow-WHlqbQX6duefFwhVPdnY_buhATvSPG9cBg_lxA8g5jxt6ni-d97hx6uOmrseN-x43TgcikLIJs4HKHjcAPdT5uKHp2eYVz1r6gc4C2gJ04ov2Xc8bFwOT4oumTc_mNENS7tN1s562Tnq-eikkoQLT57POhpc9LcAAejZ334uGqS_2TIG4E-gkBVdYwBnpm4ACDt2NINd1AF33dMmix00dQNc9277wcWMvMLs8m74UmMDhrnvetOvpBGCg9z6fugFoNtCxiJAFRgIwIQAd_HTtdCD7xYrdL1bMAIcpJNU837Dwxdo5T3YvVXB6NHOtsQLQLIUEQ1Cqeja1FSwGdNuKmUBhoDEgw3bPA8rHARXMDvF1ARYLexQSwAVHgsKTHd0wc0xA5gDjBpwEYKY92Tf3ya4pz7fPAlr4dP2yl7NmQxwH9KUzKNm6AjWaAr0DdCDYFUbx4JRukgD0ECjRGhmBAuz5-gagy4FGwJQZK5gpmOuB7AAqAqX1hkZgEAHJp7NnP1-9AOjClzNbgM4Gcp92tAGtfL5mmUICUAeoOAGqBwYMJJwfNwPRHmCQgtndCHbjEggbknxBtuzqAZr8tLMdZAIoX8FMACWfyY8bV8CjBqj-xd5OYBJ4NrPp-ZYNQAdA3BwPjByzeAVzEG0eDwy73UuB2fzl3i6IoyGRBYtIWEEB8RywvAbzgYkWZGtj9-PG_aAkii0BgxUABXc_buyDKQO6rOHpvoVP9_U8a50KVrD_cWMT2NFAjfPBajY9blz2YmEPSLYJWJwDRfofN64Cm78CYvuLrUvAeoEagYUwUEHv0_3NYBGg_yc_bgLnmqZJL1Y0wARBBT_Q9hcTwcm6cT2YuxromOdTZ4JFgA5YCdbV-LgJaCwQ7XjcOOvZ3ilg2RagB8Fa-kCZobEf4gxQ3IBcuw7ko507oN5pagO6B-IAsPeBCoBxAxRvAVr3cjaQbAV7bRIQgc0Eerz_2dTFYO0LwRqButZAciNYcB3QXqj7uzZC3A8MEEjJgBpHu4DZHh5Hz2aAHd_UAI4mYCoBmfB8L1Aj0ASgyyExsvrFrtUQl0MDbdMaMBcYfeDQaFwGdDY4Zlc9bpwCtOHJrl1gBVuB8QV0KkTX01ZglQcU3Ac2cyks9nvhtkCd1LscLD4VFp7AIFr2dMMssCDQ_N1g05pAJe4SsKtAcQH0PhBthaefZ2t3AxM0WAsw6IA5GBzUIJUrwA6e_qIZHBcgj6-F6HraBg7zRmDUgEIY4pin02c9nbgHlpCABgJVAhNPz_M5kLQNzU5QE4BJelLPy7Vge4FRCZIFppkFUC-DggiSbEAmIGdFiEZkXWADt4Ecj5HFQCUHIvr6nm0CBghQI9BTQL2LoC7Zt_DJbkhqASYqYLCDvP9yMdAZkPwIqlnBSQgYxUtAwYWatJ7PBjIgCaAflvyA8dj9dOPGZ6sh1kHcOQ2U75qA-QUWXGCPAGvCZwt2ogYC0AQgAxbUc7qfbZgItgKYbVeDDEfO-5j5FKQGmJaALu-HmgwxCpR9IBG6DOqA3uYXezpfNi6ApM_HTUBDgI4EOgPoBnDKaex_0dAIKXYgJcmzZetg6Q1SUAALyoanS1Y-nbMBGu8g84FBAQkcYPQBq12ge4AIWGptBXofZAtaNAFLSaRoerp_ATC1P9nR-2zO3pdTt0OCGlwIABEwAIGOBPoOmBGAXKA7J8PCHFi8gMofSCw_3TEXOaLBpSIwQMAlEjjGX86F5K8usIHAIIVktHWwggiofu7jxg1AM5_sA4YqpIgABiYkJQD9BYwgoIETQVxwCYyehBrXvZwJal2BlQFLOUi-bnmxFuKjfcDAAYt0Q8IEmkSbNj3fuu3p4vVAEqwMWNbNAYcnMMCB_gWxwYYDHQDM3UByPSh3gJLBgqfd7c_3rXzeDPEXLMSg4QZ0AKjmw6YXHBeUN4ahQEFLn4vLLz89MyQxE9ixswrITMzLd6gxqKkGWaNgY6EFjnYFbO1wBUiVD6yqFDRMoK0DHQVg29gU1DbWxKIBaBnIsBoFcBUMJIC1sK6CqXo8UAjMBFbJhkBKF8iH1s5wGqoJrE1XwUChBmyUj2GNwuOm1UCRx83zgaytYNYqoOrHzfNA7KbtYAwx83HTKrD8bCBrHVQPSGUfWB4EgfZAzDUCqW4AqWnsBuLpYNY6kOrGJWD2fiAG2Qs2F8gD2TUJyJoNZjWCRZdhmmsMsm8hWM0SIKsJ7Io-sCvmg9krgHgT3L1gnzVtA_sJJNsCVtmCaa4JyD6IuaAkBOT0gzmTwQ4BB0tjLxC3wZ28Aiw2Ge65HWBRiJdgRuOP-1095MS9CSj-gAQ4woE0WmoARzUoERgiRT1YBtxoQ4t6cKCB_LkIHDwd4EADRffjJmAENU8Ci7aBAw0UGY-b1gNZXUiJpAN71Dfug5jbCA72xilIoQhKZmATgNENUwms8sHhC0kYmOGIiPpGiLnI0Ql0EyyhgpNR82qwy8DJDJiIQdEPcTlIdCX2qAcmOIh7QUkDWIIiEiU4-YJ0wZIvxO2geAcnOKD7QaKg7EBsvO_oJCfekeIUGI_AWAdFOpQEpgowDVEDzfzguEfP6qB4BrkfkjHWgsNvM5i9GRg6a8FhtgkhCoxfSPZ-3NwPDr9uHPE9FRwWU4EYnGaAWRckCon93UDTQBkVkiXBWRYYXpAwA6UKzPBDxDcoFiHxiJY-QTHbDE4xkOwPSQVA98FSAc6iCZzVIXE7F4g3gFngNNMINqNxJzSFQvI5xL37wCkBxJoItg0iT1R8A-t78uMbFr8oxTnIYbBeGMEoB2fRx82dsHKzGZy4oRl-BpC1Cx414CwDrANgpfsKeMBii3JIsQcyARzlwIiFF4vA7ASRh5gLqQfWwqMcXKCAS1ssUY6RHLvBEQlOYMBkC3MPSAwS_ZvgflwIFoUU0TiivAmYoKGuAJvbCE7cwOgENlbgUQ4ukoD-ATZXwKxOsC8mEx_lwKECzCgHD3nhjXJw-QzrWYMzObiwB7LANDDKaxSMoCxYNYCnXofWc7BiHLmWXAbO_IjMDilOgfVv0xowC5J5IJkPM-YhWQIYPsDqDxQ-PUgFOahghFSN4OISHKqQ7AMRXQBXiy3ud4NtB8Y9tNBeglTJgNodIDFwQY7kYnC1AkwZIFGQHdjiHtIiALYowSTYVGiRBarqkUUhflsFZ0Fs6yE-7oFjjeTEPY5qHTHOQlK1DvIvOGdAK3NI5Qeq5EBVJ3CwCKwRVkCC8jtqMY9avFEn5reB1UJKBcyYh5RHC6GpFuRWkDvAosBUAat4YFUQuA0KKROAVTpIFFRqYIt5UM8AFtFwFiLj94AjHrWsxx_5tVxcunYKiDZ_tI9hrAKaiBGGiDGGiAlYRJkLAA)]
+- [鋼琴伴奏 TMD 檔案](nogi_taisho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYWyAZWVCUX5aal5gH1F1QlJlXkpoC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BclNqUTHY6RArSooS84qTizILQP5BqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MS0QoSiwCak5PzU3NK7EqyEzMy49PTE7Ozy1IzMsEiSEUlmQAFVnlZuZkliQWVaKLQ8zHEM5NzQXampijxKWlpfBkZ_OzOSueLln-dEP7-z0dL2fPfNbZ_bJ7z_MJW57s2fJ0af_7PZ0KWlpcirYKZsZc9rYKTjpc2amVtgruuVw2ZvoWdiDDQWFspfBs2obn21coPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7PbQFatnvF8befz5ROf7GgAKn2yqweo9OnOLc-nrADaCXY0UObZornPWvue7Oh82dynADT-cUMXKfY8bugGWgX03rO1i5_2NoIs2bkFwng2p-P9np7nWxY9m73jxcz5CgbmRqa6JoYwu1-snPd-z6xna5c93bzt-b69LxYuBgs_m70JKPx8yoYnO9Y-Xzn9-cpeJS4uv_z0zJDETGCitQoARVeQh0ONQU01lwIQ2Fho2YEZ-loKtuhA4fmaNUBPvljYo6BhAvLR8_UNOgrAhGmql1WQrolFg5Y-2LAaBeN4BV0QYQaiTdXjgUJgpnm8giGQ0gXygUwwH0ZDNYG16SoYKNSAjfIxrFF43LQaKPK4eT6QtRXMWgVU_bh5HojdtB2MIWY-bloFlp8NZK2D6gGp7APLgyDQHoi5RiDVDSA1jd1APB3MWgdS3bgEzN4PxCB7weYCeSC7JgFZs8GsRrDoMkxzjUH2LQSrWQJkNYFd0Qd2xXwwewUQb4K7F-yzpm1gP4FkW8AqWzDNNQHZBzG37XFjG5DTD-ZMBjsEHCyNvUDcBnfyCrDYZLjndoBFIV6CGY0_7nf1kBP3JqD4AxLgCAfSaKkBHNWgRGCIFPVgGV0IhRL14EAD-XMROHg6wIEGiu7HTcAIap4EFm0DBxooMh43rQeyupASSQf2qG_cBzG3ERzsjVOQQhGUzMAmAKMbpvJx41Jw-EISBmY4IqK-EWIucnQC3QRLqOBk1Lwa7DJwMgMmYlD0Q1wOEl2JPeqBCQ7iXlDSeNy4CJEowckXpAuWfCFuB8U7OMEB3Q8SBWUHYuN9Ryc58Y4Up8B4BMY6KNKhJDBVgGmIGmjmB8c9elYHxTPI_ZCMsRYcfpvB7M3A0FkLDrNNCFFg_EKy9-PmfnD4deOI76ngsJgKxOA0A8y6IFFI7O8GmgbKqJAsCc6ywPCChBkoVWCGHyK-QbEIiUe09AmK2WZwioFkf0gqALoPlgpwFk3grA6J27lAvAHMAqeZRrAZjTuhKRSSzyHu3QdOCSDWRLBtEHmi4vvp7NnkxzcsflGKc5DDwJkemBAIRjk4iz5u7oSVm83gxA3N8DOArF3wqAFnGWAdACvdV8ADFluUQ4o9kAngKAdGLLxYBGYniDzEXEg9sBYe5eACBVzaYolyjOTYDY5IcAIDJluYe0BikOjfBPfjQrAopIjGEeVNwAQNdQXY3EZw4gZG5-MmSK0AL5KA_nncBI7ypk6wLyYTH-VPdk3BjHIzglEOLp-BBCKTgwt7IAtMA6O8RsEIyoJVA3jqdWg9ByvGkWvJZeDMj8jskOIUWP82rQGzIJkHkvkwYx6SJYDhA6z-QOHTg1SQgwpGSNUILi7BoQrJPhDRBXC12OJ-N9h2YNxDC-0lSJUMqN0BEgMX5EguBlcrwJQBEgXZgS3uIS2Cx41zwCTYVGiRBarqkUUhflsFZ0Fs6yE-7p-2riUn7nFU67DUQGK1DvIvOGdAK3NI5Qeq5EBV5-NmiH9gBSQov6MW86jFG3VifhtYLaRUwIx5SHm0EJpqQW4FuQMsCkwVsIoHVgWB26CQMgFYpYNEQaUGtphfCGzQwSIazkJk_B5wxKOW9fgjvxazye-DrckPih5QxESbxefGorDxyRhDeMYgHjIbmwwsykGFAljOCCSHzCbKJiSLsOtA2IPbNEMwxzAWwQAlaTDbBGgsAaux24BkFPGOJdEOVE24wxG3DB6LiIsWnB4iIlqAiVHXTgGRHqN9gMGFJmKEIWKMIWICFlHmAgA)]
 
 ## 分析
 
@@ -119,51 +129,54 @@ w: 6.~な ん ぢ の | む ね に _ | ち し ほ な | し
 ================================================================================
 📊 TMD Song Profile: [ 乃木大將 ]
 ================================================================================
-⏱  Duration:       0:22 (22.9s), 16 measures total
-🎼 Key & Tempo:    首調基準 G, != 84.0 BPM, <2/4>
+⏱  Duration:       4:34 (274.3s), 96 measures total
+🎼 Key & Tempo:    首調基準 B,, != 63.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    B3 (MIDI 59) – E5 (MIDI 76) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  B3 in [NogiTaishoNoUta #1 @ m.1, 0:00]
-   - 最高音: E5 in [NogiTaishoNoUta #1 @ m.9, 0:11]
+🎤 人聲音域:    C4 (MIDI 60) – D#5 (MIDI 75) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [NogiTaisho[L1] #1 @ m.19, 0:51]
+   - 最高音: D#5 in [NogiTaisho[L1] #1 @ m.11, 0:28]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      NogiTaishoNoUta (22.9s)
+🏛  結構:      NogiTaisho[L1] (68.6s) -> NogiTaisho[L2] (68.6s) -> NogiTaisho[L3] (68.6s) -> NogiTaisho[L4] (68.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       E 小調（純淨自然小調，未偵測到可信轉調）
+🗝  調性診斷：       G 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  E, G, B, F#, A
-   - 調性數值:    E 小調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): E 小調 (0.90), E 大調 (0.59), G 大調 (0.49)
-   - 五度圈歷程:   +4
+   - 核心骨幹音:  A, D, G, A#, D#
+   - 調性數值:    G 小調 [相關度: 0.72, 穩定度: Moderate, 自然音純度: 99.3%]
+   - 候選調性 (K-S): G 小調 (0.72), D 大調 (0.60), D 小調 (0.54)
+   - 五度圈歷程:   +1 -> +1 -> +1 -> +1
    - 各段落調性細節:
-     • [NogiTaishoNoUta #1]: E 小調 (r: 0.90, 自然音純度: 100.0%)
+     • [NogiTaisho[L1] #1]: G 小調 (r: 0.72, 自然音純度: 99.3%, 調外音: F#)
+     • [NogiTaisho[L2] #1]: G 小調 (r: 0.72, 自然音純度: 99.3%, 調外音: F#)
+     • [NogiTaisho[L3] #1]: G 小調 (r: 0.72, 自然音純度: 99.3%, 調外音: F#)
+     • [NogiTaisho[L4] #1]: G 小調 (r: 0.72, 自然音純度: 99.3%, 調外音: F#)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
+         F           [G ]*
       Bb               D  
       Eb               A  
-         Ab          [E ]*
+         Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██                         2.5%
+     C  : █                          1.4%
      C# :                            0.0%
-     D  :                            0.0%
-     D# :                            0.0%
-     E  : ████████████████████████  29.2%
+     D  : █████████████████████     23.2%
+     D# : ███████████               12.3%
+     E  :                            0.0%
      F  :                            0.0%
-     F# : ███████████████           18.3%
-     G  : ███████████████████       22.5%
+     F# : █                          0.7%
+     G  : ██████████████████        20.3%
      G# :                            0.0%
-     A  : █████                      5.8%
-     A# :                            0.0%
-     B  : ██████████████████        21.7%
+     A  : ████████████████████████  26.8%
+     A# : ██████████████            15.2%
+     B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – E5 (17 個半音 / 1.4 個八度, 52 個音符)
+  - Piano         : C4 – D#5 (15 個半音 / 1.2 個八度, 328 個音符)
 ================================================================================
 ```
 

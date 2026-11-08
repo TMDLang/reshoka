@@ -1,8 +1,8 @@
 ---
 title: "同窓會（二部） — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年"
 song_title: "同窓會（二部）"
-description: "〈同窓會（二部）〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423））（詞：旗野士良、曲：モツアルト（獨）（Wolfgang Amadeus Mozart）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：窓の戶の曙に、同じ花護りし友、 其花の露だにも、背きたる心はなく、…"
-keywords: "同窓會（二部）, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 旗野士良"
+description: "〈同窓會（二部）〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "同窓會（二部）, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）"
 musical_key: "F"
@@ -16,40 +16,41 @@ audio: "dosokai.mp3"
 
 <audio controls src="dosokai.mp3"></audio>
 
-- 詞：旗野士良
-- 曲：モツアルト（獨）（Wolfgang Amadeus Mozart）
+- book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
+- 文部省《尋常小學唱歌 第六學年用》（大正三年）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P104.jpg，書頁 p. 27，高二第二學期第 9 首）：
-調性與拍號：ヘ長調（F Major，1 降記號）、4/4 拍（快活ニ ♩=104，弱起後半小節進入）
-出處註記：（松邑三松堂發行檢定唱歌集）
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P387.jpg`–`P388.jpg`，原書 p. 378–379，高等科一・二學年第 20 首）：
+> - **調性與拍號**：ヘ調四拍子（F 大調 4/4 拍，二部合唱），♩ = 108
+> - **典據出處與版本辨析**：文部省唱歌（出《尋常小學唱歌 第六學年用》，1914 年，「學びの窓のあけくれに」）。注意本曲與臺灣教育會《新定兒童唱歌》高等科男子用所錄莫札特作曲之〈同窓會〉（「窓の戶の曙に」）為同名異曲。
+> - **二部合唱細節**：全曲 16 小節均為二部合唱，第 5 小節第 1 拍兩部同唱 `5`（C5），第 11 小節第 4 拍高聲部引入 `#4`（B♮4，屬調導音）半音上行解決至第 12 小節屬音 `5`（C5），低聲部則配以 `7_`（E4）構成大六度。
+>
+> **一、**
+> 學（まな）びの窓（まど）のあけくれに
+> 机（つくゑ）ならべて文（ふみ）を讀（よ）み
+> 花（はな）に紅葉（もみぢ）にあそびしも
+> あああの山（やま）よこの川（かは）よ。
+>
+> **二、**
+> 追懷多（おもひでおほ）きこの庭（には）の
+> その友垣（ともがき）のへだてなく
+> 心（こころ）ひとつに手（て）をとりて
+> 共（とも）にはげまん人（ひと）の道（みち）。
+>
+> **三、**
+> 燃（も）ゆるが如（ごと）き喜悦（よろこび）に
+> 高（たか）き師（し）の恩感謝（おんかんしや）して
+> 母校（ぼかう）の榮（さか）え祈（いの）らまし
+> 樂（たの）しやたのし此（こ）の團欒（まどゐ）。
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
-
-- **[同曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈同窓會〉**](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_09_dosokai/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_boys_2020.006.0848/2_2_09_dosokai/dosokai.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈同窓會（二部合唱）〉**](../../../shokacho/vol_02/p088_dosokai/index.md)（`F` / `4/4` — [原始 TMD](../../../shokacho/vol_02/p088_dosokai/dosokai.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-一
-窓の戶の曙に、同じ花護りし友、
-其花の露だにも、背きたる心はなく、
-のどかなる風の共、お互にかをらひ來し
-「年頃の親しさ重ねる、圓居なれ今日こそは。」復唱
-
-二
-學校の夕暮に、同じ月眺めし友、
-其月の影だにも　違ひたる思はなく、
-清らなる光着て、共々に照合來し、
-「年頃の親しさ重ねる、圓居なれ今日こそは。」復唱
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -57,25 +58,68 @@ audio: "dosokai.mp3"
 ```abc
 X:1
 T:同窓會（二部）
-C:曲：モツアルト（獨）（Wolfgang Amadeus Mozart）
 M:4/4
 L:1/16
-Q:1/4=104
+Q:1/4=108
 K:F
-V:V1 name="Piano" snm="Pia"
+V:V1 name="Alto" snm="Alt"
+V:V2 name="Soprano" snm="Sop"
 [V:V1]
-!mf! z4 z4 z2 C2 C2 C2 | F4 F4 G2 A2 B2 G2 | A8 z2 A2 B2 c2 | d4 f4 c2 A2 B2 G2 |
-A2 F2 C4 z2 C2 D2 E,2 | F6 G2 A2 B2 c2 d2 | c4 G4 z2 G2 A2 B2 | A4 F4 B2 A2 G2 F2 |
-!p! G4 F4 z2 A2 A2 A2 | c4 B4 G2 A2 B2 G2 | F8 z2 G2 G2 G2 | B4 A4 F2 G2 A2 F2 |
-!f! A2 G2 G4 z2 c2 c2 c2 | D2 E,2 F2 G2 A2 B2 c2 d2 | c3 B A4 z2 d2 d2 d2 | c4 F4 B2 A2 G2 A2 |
-!f! F8 z2 c2 c2 c2 | D2 E,2 F2 G2 A2 B2 c2 d2 | c3 B A4 z2 d2 d2 d2 | c4 F4 B2 A2 G2 A2 |
-F8 z4 z4 |
+A4 F3 G A4 A4 | B4 B4 A8 | F4 F3 F F4 E4 | F12 z4 |
+w: マ ナ _ ビ ノ | マ ド ノ | ア ケ _ ク レ | ニ
+c4 F3 G A4 A4 | B4 B4 A8 | F4 F4 F4 E4 | F12 z4 |
+w: ツ ク ヱ ナ ラ | ベ _ テ | フ ミ ヲ ヨ | ミ
+E4 E3 E E4 F4 | G6 F2 E8 | F4 F4 F4 F4 | E12 z4 |
+w: ハ ナ ニ モ ミ | ヂ _ ニ | ア ソ ビ シ | モ
+A4 F3 G A4 A4 | B4 B4 A8 | F4 F4 F4 E4 | F12 z4 |
+w: ア ア _ ア ノ | ヤ マ ヨ | コ ノ カ ハ | ヨ
+A4 F3 G A4 A4 | B4 B4 A8 | F4 F3 F F4 E4 | F12 z4 |
+w: お も _ ひ で | お ほ き | こ の _ に は | の
+c4 F3 G A4 A4 | B4 B4 A8 | F4 F4 F4 E4 | F12 z4 |
+w: そ の と も が | き _ の | へ だ て な | く
+E4 E3 E E4 F4 | G6 F2 E8 | F4 F4 F4 F4 | E12 z4 |
+w: こ こ ろ ひ と | つ _ に | て を と り | て
+A4 F3 G A4 A4 | B4 B4 A8 | F4 F4 F4 E4 | F12 z4 |
+w: と も に は げ | ま _ ん | ひ と の み | ち
+A4 F3 G A4 A4 | B4 B4 A8 | F4 F3 F F4 E4 | F12 z4 |
+w: モ ユ _ ル ガ | ゴ ト キ | ヨ ロ _ コ ビ | ニ
+c4 F3 G A4 A4 | B4 B4 A8 | F4 F4 F4 E4 | F12 z4 |
+w: タ カ キ シ ノ | オ _ ン | カ ン シヤ シ | テ
+E4 E3 E E4 F4 | G6 F2 E8 | F4 F4 F4 F4 | E12 z4 |
+w: ボ カ ウ ノ サ | カ _ エ | イ ノ ラ マ | シ
+A4 F3 G A4 A4 | B4 B4 A8 | F4 F4 F4 E4 | F12 z4 |
+w: タ ノ _ シ ヤ | タ ノ シ | コ ノ マ ド | ヰ
+[V:V2]
+c4 A3 B c4 c4 | d4 d4 c8 | F4 F3 F F4 G4 | A12 z4 |
+w: マ ナ _ ビ ノ | マ ド ノ | ア ケ _ ク レ | ニ
+c4 A3 B c4 c4 | d4 d4 c8 | F4 G4 A4 G4 | F12 z4 |
+w: ツ ク ヱ ナ ラ | ベ _ テ | フ ミ ヲ ヨ | ミ
+G4 G3 G G4 A4 | B6 A2 G8 | A4 A4 A4 =B4 | c12 z4 |
+w: ハ ナ ニ モ ミ | ヂ _ ニ | ア ソ ビ シ | モ
+c4 A3 B c4 c4 | d4 d4 c8 | F4 G4 A4 G4 | F12 z4 |
+w: ア ア _ ア ノ | ヤ マ ヨ | コ ノ カ ハ | ヨ
+c4 A3 B c4 c4 | d4 d4 c8 | F4 F3 F F4 G4 | A12 z4 |
+w: お も _ ひ で | お ほ き | こ の _ に は | の
+c4 A3 B c4 c4 | d4 d4 c8 | F4 G4 A4 G4 | F12 z4 |
+w: そ の と も が | き _ の | へ だ て な | く
+G4 G3 G G4 A4 | B6 A2 G8 | A4 A4 A4 =B4 | c12 z4 |
+w: こ こ ろ ひ と | つ _ に | て を と り | て
+c4 A3 B c4 c4 | d4 d4 c8 | F4 G4 A4 G4 | F12 z4 |
+w: と も に は げ | ま _ ん | ひ と の み | ち
+c4 A3 B c4 c4 | d4 d4 c8 | F4 F3 F F4 G4 | A12 z4 |
+w: モ ユ _ ル ガ | ゴ ト キ | ヨ ロ _ コ ビ | ニ
+c4 A3 B c4 c4 | d4 d4 c8 | F4 G4 A4 G4 | F12 z4 |
+w: タ カ キ シ ノ | オ _ ン | カ ン シヤ シ | テ
+G4 G3 G G4 A4 | B6 A2 G8 | A4 A4 A4 =B4 | c12 z4 |
+w: ボ カ ウ ノ サ | カ _ エ | イ ノ ラ マ | シ
+c4 A3 B c4 c4 | d4 d4 c8 | F4 G4 A4 G4 | F12 z4 |
+w: タ ノ _ シ ヤ | タ ノ シ | コ ノ マ ド | ヰ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](dosokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYW5gjZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdKpKZkl-UWZiTlI7kktKgY7G2J8SVFiXnFyUWYByC8IVSUZqUBHQ92Wk5mWii6VVpSZmpdSnJFZoMSlpaXwdELP81WTn81pfr-n48munpfNK97v6VTQ0uJStFUwNDDhsrdVcOOyMdE3sQOZ82RHw7NFc5-19j3Z0fmyuU_h-fYVjxu6nk3bAGQoPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7PbHjd0A216umT5s7WLn_Y2Aq18unMLhPFsTsf7PT3Ptyx6NnvHi5nzFQzMjUx1TQyB7gH74cXKee_3zHo2ffrL9r6ni1e_6FwPFn42exNQ-HHzosfNLY-bgOTqx81Aczqe94J8AmSE5-ekpSfmpSs45iampJYWK_gCI7yoBG5s-67njYuB7nvRtAkYDECHv1jVC_HU03WznrZOer56KcQPQKe_XD3j-drO58snPp-y_enaCc-nAO3oMDIwMtAzMDDTM7AwsQAby6WvpWBLLcCloKDwtG8-KFA2t79Y0fWiox3oGGBoPG1d8WxaOyg0N_Q-a-9UCADGl15WQTowEIGKXy5oVCjQUzAyB3KBzgaG7_M1a0DBDYyWOfOBbAVLhZfLpoHDaBbIjher9j9rWA4yvbsXGPzgQJ3xcup2oDjQDjcF38Ss_CKgYYYKL2f2vlgxA6ym83FDIzBxKAD1gByyf_WzLbsfN3crPJq50hboHKDyp3s2vti6_em-nqe9XcAU8nx9w8uGTU9blwL1gn3WvuvFzKkvVuwGmgi0EmjIs7n7XjZNBCYwIOPpgqbnM_e8WNjzbNUiUGyA4wGYikCaQbqB6RFEAVPw48Z1zzq2gcjZMx83rgY6C5iyHzfOeNG18cXa7Y-buh43Tn_a3w0UB9vaug0oAVT9cs6mx40LQBqamoByL5qBenofN85_3NT9dH_z48b1jxtXPW7sh2oDanjcuPJxYzdItKn75aIVQJGnrRuB0o8bu57smgQyCCjbNOlxU-fjxk1P9rUBrQXrbACl85cLgEaue7EMaOT0x41TX7YDrVoLNAjk2jmTn25sBZvb82R317PpSx83Aj01F-SEBqDTep_uWwn0PsTXu3rAnoBkNqALlkx9NgvoMoSvgVnp-Zxdj5uAzkL1NVACpGEv0O9wXze8bJwKdCzE188awFYi-_rZjlawd0Beftra-Xxuw-PGZSCrQB4HOnn189blTyd0QDwLCylq-RdoFuVZCAoUtPS5uMKAxSiwXM5MzMt3qDGoUagGWaFgY2imZQdmAbMuNMmCEysoVXf2KhiBUjgwBT_ZM_HZ2kXAZP24eZ7C4-ZOIO4DpsLOpw3AoFn9tKPt5fzNz9csgydxkJUgU2sUDBR0wRCZrs5Nq1UwjQeyEEQNOIpBzgDl1x0NwMQPdIMxqHQFOwduJFAFsKQDOwBY7gHxRiB7DphfAyS7gSKrgHQXkN4BFumH8MAOB6pvBso2bUc40BDqMBhtBMTGQGwCZdeAecgQ5AWYClOwCjOYGXFQBkgYxRAU3-3qIey7PRDXNu2F-BToC5BfQP4A8VqAeBkQN8D8DFe7AEivRfgO5AiQz8BhDHM8mGMGIszjwWEP9zx6AID8AfJcDZgFk4WZg6wSLf468fqwaT_QpauB9GYIbl6L7MOm9VBfApNZ02q4v0HqQRgUMiDZBai-RI5DkINAYiAHgsRq4M6GqQAnw4JasCoYRngSpB9rWkD25NPZswl6EpQUwfQasDcmQRMoyBugIFgJFgPKgAMB6DFgwgRHP4hu2oKZSJGTIMhBMFwDdzJyUMCcDwkCWIAgx2A1KCMCaRhGS6dTIB40gXuw5-mE1ZAS6ml_74tlbaCG0ZqFIPHWjQoWOJIzKHJBmRXkJ1BYgOit0FDYCg6XHmiCB4qAsykoA2yAR_waaCafCk0we-HZGktIISVr5CDAlphN4IEFCgqQDAwjUgK2FAVJK9iiBDM4YUUrOMzAbQtahcbgCAFkuoarlotL104BXPUoABnKXFwA)]
-- [鋼琴伴奏 TMD 檔案](dosokai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYW5gjZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdKpKZkl-UWZiTlI7kktKgY7G2J8SVFiXnFyUWYByC9KXFpaCk8n9DxfNfnZnOb3ezqe7Op52bzi_Z5OIPvl7JnPOrtfdu95PmHLkz1bni7tB4oraGlxKdoqGBqYcNnbKrhx2Zjom9iB7Hqyo-HZornPWvue7Oh82dyn8Hz7iscNXc-mbQAyFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbY8buoG2Pl2y_NnaxU97G4FOebpzC4TxbE7H-z09z7csejZ7x4uZ8xUMzI1MdU0Mge4B-_PFynnv98x6Nn36y_a-p4tXv-hcDxZ-NnsTUPhx86LHzS2Pm4Dk6sfNQHM6nvdCfRien5OWnpiXruCYm5iSWlqs4AuM06ISuLHtu543Lga670XTJmDwAB3-YlUvxFNP18162jrp-eqlED8Anf5y9YznazufL5_4fMr2p2snPJ8CtKPDyMDIQM_AwEzPwMLEAmwsVxgwOoDxm5mYlx_k4VBjUKNQzaUABDaGZlp2YJY-MEr2bHyxdTsw1J6vb1DQ0gcL1ygYKOiCITJdnZtWq2AaD2QhiBoumDnP16wBxsuLhT0IQwyhmmG0ERAbA7EJlF0D5iFDkDUwFaZgFWYwM-KgDJAwiiEoLtjVg-ICkEKQ7WC3wiwAc8xAhHk82A9wB6I7EmQXyAE1YBZMFmYOskq0cOjEcAVyOIA0gMRABoDEauDGwlSAg7ugFqwKhhGOAOnHGp7Ijng6ezbWyEAOapAmGK6BG4vsXJgVEGfCHI0cCtWgRAGkYRgtPqYAHQHKahNWP923EpiCn_b3vljWBs7dMJchRQWyldgiwATuOJDVIBkYRoQOtlCGhB-2IMB0_iBwFDJdw1WLkpN9UHKyCeGMDIF4Myo4ZxvGK0QbxgJzB5A2jY8FOQ0iAqSA-hVMgDwToDhIFCyPL-MhGQbSC-XCjACGC8gWhAJ8uQe7XpALoA4DZRS4GML5eDMDis-QDQQJI4lgcx8xaRqUrJADDNVUqL0EQhxqFHnG6ILFQKYAk4-unQI4BSkAGcpcXAA)]
+- [主旋律 TMD 檔案](dosokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYW5gjZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfQT2Rk5mWii6VVpSZmpdSnJFZoMSlpaXwdELP81WTn81pfr-n48munpfNK97v6VTQ0uJStFUwNLDgsrdVcOOyMdE3sQOZAwoRK4Vn0zY8375C4emG_qdrdzxbsPBx8-6nrWsgbIWnUzY-W9vzbOrMZ3MnvJzdBjT25eoZz9d2Pl8-8cmOBqBSoC1ApU93bnk-BWQX2H1AmWeL5j5r7Xuyo_Nlc58C0PjHDV2k2PO4oRto1dMly5-tXfy0txFkyc4tEMazOR3v9_Q837Lo2ewdL2bOVzAwNzLVNTGE2f1sWjvQ18_nNAJtfLqh--mOHRALIRYoPF-z5mnrWriLke0BOhYoCDaHS19LwZZagEtBQcFOIVrRzz_ENRbC0dJ62jcf5P7N7S9WdL3oaAc67cXKeU9bVwCdr6UFctKG3mftnQoJoKSpl1WQnvCoYTKIYwHmAAMAYoBCgZ6CsbkFUNLY3BIoijNy1qxRMDJQeLlsGtB_7_fMgjhDF-iQF6v2P2tYDnJCdy8wOEGWz3rcPAMo_HT2bKDY07UTgM5xUwCGEVBMAZh0FICiQKsgyevphA5gyIIN7Xk0c6UCJJnBTX_auuPZ5FlP23e9mDkVaMfzzo5nc9a82Lfi2bwJYJvgsQWJHpDH23cRH3M9hpaGJgrgWOt53ADy6-PGzY8b1wHzAJB83Nj0uHHi48b-x009jxtXP24AOrvzcUPTs80rnrX0Ax3ybPYmoKNetO963rgYmPReNG0C5hxISn26btbT1knPVy-F2A60DR60z6dsBwYK0AnPOhte9rS86Fv9bM7a5507n-ydAzTwyc7uxw0d8Hz4uAEYMh1At0Gc9KxjG4icPRPunudNu4CKn07ofT51A1A70HmI0EMO4udbNjxf3wAONFAymb1JwdAMlJeAgk_ntgNNQY2PHlCMm0IVgNiGoGh72roSrKYHqEYhwRSYjjqcTSGRB1ZjiKQBHM9AT79o3ATSs2fq09alCgnKJiBNTo9mrjMBJcKNa0AJZUPfy_mbgcY87e0CMp7s6HqxsOfF8sXPNu560b4ZbLARzKkb1wBVoFn9ZG8f1JLO9petvU92A-0xjwepcAVa0vlsefezjgnA9AeK_l3LYCEEy0mglN7QCCziwHxgEgCFd-O-x42rQLENSw4wwZVgQfSkAdH7bM4usLIlYPGJYJWrHjcByZ2PG5cBkypYduvjxv0gqaZJL9Y1gESagOURUM1-iCEvuoChD1S2HuaA1c-3tL6YCE4FTUBL9z9uXAQRB7thLtiF04FSEO1gQQha93Qj2KimFqDLwTYCjQUloqfb54Kt6AbaAhVHD5NdwBQLD5MX-_c-a9_-dMkssK4usDM2PW5cDmI37gY7phdq8q61YDVAt4FNblwHcxXQneue9nc_nbcYrGAF2BBg0IGzFCg8gTlvATCUQCHW2A-Ni_2gaghs8uTHTRCVQHtXgEN49bNOUNEL1AIJTLCZQPcsg-pthQQjyCJYcAGDFKhs3-OmyU92QWIKZBrEAS8bIVEMDN6FkFyOlkiAQvAAed4OdhjE5Ka2x03AkOx5ugzIBZowBWZm79Npc541AZ0HimKg-8EeASVzeIIB5g6wlvnAuIBq2bEaLDId4qpnjSuftcx_sQYSX8CQB5rQDSaBMd4CVjMd7uVn63uBNSFY5R5w5AJrW7Ahy9aBBafCbOl4vhSY5IAiwIQBlAJ6ASgITNvToeasgHgE6CqwLNguCBfIfrZ2CSRSIIY_nTPj2ZpJ8NzxuAlY2sNCj_KqDwoUtPS5uFzyi4EtuUyr4PwCYIMo36HGoEahGmSNgo2hmRY4phSwVbuggh-Yx4FFioIGsKwHFyM6CrCqUBOLBqBtIMNqgOWfLhgag0kTOB9G1yiYQVkwGiYDgzXAchPCgtCGcL4RXAXEdExoAFMBdo2PYY3C4-Z5ULHHzV1w1mQ4qw9uJrLKTgx5hOseNy2CyTZthLPWw3WsQTKxG4c741HdaQRU2wh3XVMTjNW4Cc5ajjAVobJxN5zVi-nORrgvG9fBWavhLJiLQSph8gTcaQzyE9z3zcvgLLipTUi-b9oCl--Ay6_FdGfzCrg6mOzjps1wMZgviAtP_Gl6V89Ap2lYGoalYESahqlAh9jSdAtUDJbuHjdvREnfK-GmPm6eiWbe4-Y2DNc9bp4Kl50PZ8FTHzyGQCph8ugQW5qeCzMBmsKA5TxK-u5BmIuRgjFTJUjVDrjsAjgLng4bVyGp7CfOnaA03bQfZkITJCWD0unjpu0wUeRSoglmB9ydzbC0iuROqDnIskDzHjcvQXAQijEiBNOpBIrqTnKSNSzpQWgjjKRZA0zqCLeARGEqEB6FqUWnTdThStDzAgxiS9ewOIOlZVCORy5xYGkPpBaWimAQs3RALav3wtXBy0WUSICpRIfY0jWiZIWwgE0VlNIaKb80wqIc7k54GYzkTkQabpqEYQqwkYZFJQF3gsvqOXATYOl6GVJqfty0FWEuPMXC3dkEsx_JnU3wBIwwBV7aIGpQkEpY2OJ2J95EDewKD4uyGikFYmGhtD8QYYtoiWCLA0TdiIhJRHkDy0PINSs6xJamEakNkrNA6RTRSgD2AxDmNu5DMw_YvsZ0J5b8gNwSgZW5IJULiXMnalmN5HtESQ0LQ0IqkdyJLTyxtAVB4bmBoDtrEa1ux5wSujS5YckTkiiNMMpiRDkOo9Gbz7ib3OZwn5HUPhltc4-2uWGJmrI2N_USNYImM1GPNrpHG93IhTVZjW542oMygBRcCJYYEU1zmChcCcK3uBI3whAMTTA42vJGcudoyxs9ZZPZ8qZ-M4TSEnu06T3Smt66dgrQ1ne0j2GsAjLXCJVrDOYqcwEA)]
+- [鋼琴伴奏 TMD 檔案](dosokai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYW5gjZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKYb3My01LRpdKKMlPzUoozMguUuLS0FJ5O6Hm-avKzOc3v93Q82dXzsnnF-z2dQPbL2TOfdXa_7N7zfMKWJ3u2PF3aDxRX0NLiUrRVMDSw4LK3VXDjsjHRN7EDmQ8KUiuFZ9M2PN--QuHphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3QayYvWM52s7ny-f-GRHA1Ap0Hag0qc7tzyfAnID2N1AmWeL5j5r7Xuyo_Nlc58C0PjHDV2k2PO4oRto1dMly5-tXfy0txFkyc4tEMazOR3v9_Q837Lo2ewdL2bOVzAwNzLVNTGE2f1sWjswNJ7PaQTa-HRD99MdOyAWQixQeL5mzdPWtXAXI9sDdCxQEGwOl0t-MTDdZloF5xcAYzDfocagRqGaSwEIbAzNtOzArBoFUwVdMDQGkyZwPoyuUTCDsmA0TAYGaxQMoSwIbQjnG8FVQEzHhAYwFWDX-BjWKDxungcVe9zcBWdNhrP64GYiq-zEkEe47nHTIphs00Y4az1cxxokE7txuDMe1Z1GQLWNcNc1NcFYjZvgrOUIUxEqG3fDWb2Y7myE-7JxHZy1Gs6CuRikEiZPwJ3GID_Bfd-8DM6Cm9qE5PumLXD5Drj8Wkx3Nq-Aq4PJPm7aDBeD-YK48KRBMoQlO1iiQyRDmAp0iC0ZtkDFYEnlcfNGlCS5Em7q4-aZaOY9bm7DcN3j5qlw2flwFjzBwAMVpBImjw6xJcO5MBOgieJx4wqUJNmDMBcj0WEmJJCqHXDZBXAWPOk0rkJS2U-cO0HJsGk_zIQmSOIDJa3HTdthosgZuwlmB9ydzbDkheROqDnIskDzHjcvQXAQijEiBNOp0JQISy0Q2ggjNdUAUydCO0gUpgLhNphadNpEHa4EPfnCILakCAtmWPID5SvkfA1LLiC1sIiHQcw8iFoi7oWrg5c-KOEGU4kOsSVFRPkFYT1u6kUpE5GSeCMsluDuhJd0SO5EJLumSRimPG6CZUZklQTcCS4R58BNgCXFZUgJ8HHTVoS58EQGd2cTzH4kdzbB0xzCFHgBgainQCphYYvbnYO1RERKNFhYKBUzIjgQVTS2YENUGojAR-RqWLJHrnLQIbZkiEggkMwASlqI6vNxIywpgdTuQzPvcRMsESO5E0sSRq6iYSUbSOVC4tyJWiIi-R5RHsLCkJBKJHdiC08sjSRQeG4g6M5aRAvSMacEV_MRlqIg6cgIo8RDlJYwGr0piLv5aA53DEkV92j7cQS3H6mXDhE0melwtAE5MhuQ8OQCZQApuBAs_SCamTBRuBKEA3GlR4QhGJpgcLQVieTOkdyKpH79TGm5ONqMHKnNyADQ6HGQB66WpDa8DteGpEEjbRMkUQQLmGa1YX0eBAshj_AK7palNlIXCGodJkRNvUiNDOo7EO4ehGtQHUmkE5E0wZlgBpIEwgpgNQT0AsI0iAySUiSXwjVhZyENbQD1Eze6QeNIpzxM0ROvD0riNYGnXcN4hWjDWBgFdCqQYYLJB1Gm8SABhAYDeFgQY4hRbqyCaTxeY-DSYAZYJ6oQilYzkIgRhiIqugoYhrp2CtBgjPYBSiBzgVYjc43BXGUuAA)]
 
 ## 分析
 
@@ -83,24 +127,26 @@ F8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 同窓會（二部） ]
 ================================================================================
-⏱  Duration:       0:48 (48.5s), 21 measures total
-🎼 Key & Tempo:    首調基準 F, != 104.0 BPM, <4/4>
+⏱  Duration:       1:46 (106.7s), 48 measures total
+🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    E3 (MIDI 52) – F5 (MIDI 77) [跨度: 25 個半音 / 2.1 個八度, 難度: difficult]
-   - 最低音:  E3 in [Verse #1 @ m.5, 0:11]
-   - 最高音: F5 in [Verse #1 @ m.4, 0:07]
-   - 適合: contralto, bass
-🏛  結構:      Verse (48.5s)
-⚡ 編曲密度:        Peak 1 軌道同時演奏
+🎤 人聲音域:    E4 (MIDI 64) – C5 (MIDI 72) [跨度: 8 個半音 / 0.7 個八度, 難度: easy]
+   - 最低音:  E4 in [Dosokai[L1] #1 @ m.3, 0:06]
+   - 最高音: C5 in [Dosokai[L1] #1 @ m.5, 0:08]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Dosokai[L1] (35.6s) -> Dosokai[L2] (35.6s) -> Dosokai[L3] (35.6s)
+⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  F, A, C, G, A#
-   - 調性數值:    F 大調 [相關度: 0.93, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.93), C 大調 (0.65), D 小調 (0.64)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  F, A, C, G, E
+   - 調性數值:    F 大調 [相關度: 0.93, 穩定度: High, 自然音純度: 99.2%]
+   - 候選調性 (K-S): F 大調 (0.93), A 小調 (0.68), D 小調 (0.60)
+   - 五度圈歷程:   -1 -> -1 -> -1
    - 各段落調性細節:
-     • [Verse #1]: F 大調 (r: 0.93, 自然音純度: 100.0%)
+     • [Dosokai[L1] #1]: F 大調 (r: 0.93, 自然音純度: 99.2%, 調外音: B)
+     • [Dosokai[L2] #1]: F 大調 (r: 0.93, 自然音純度: 99.2%, 調外音: B)
+     • [Dosokai[L3] #1]: F 大調 (r: 0.93, 自然音純度: 99.2%, 調外音: B)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -113,21 +159,22 @@ F8 z4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ███████████████████       18.7%
+     C  : ████████████              15.8%
      C# :                            0.0%
-     D  : ██████████                 9.3%
+     D  : ████                       5.0%
      D# :                            0.0%
-     E  : ██                         2.0%
-     F  : ████████████████████████  23.3%
+     E  : ███████                    9.2%
+     F  : ████████████████████████  30.6%
      F# :                            0.0%
-     G  : ████████████████          15.3%
+     G  : ████████                  10.2%
      G# :                            0.0%
-     A  : █████████████████████     20.7%
-     A# : ███████████               10.7%
-     B  :                            0.0%
+     A  : █████████████████         21.5%
+     A# : █████                      6.9%
+     B  : █                          0.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E3 – F5 (25 個半音 / 2.1 個八度, 114 個音符)
+  - Alto          : E4 – C5 (8 個半音 / 0.7 個八度, 159 個音符)
+  - Soprano       : F4 – D5 (9 個半音 / 0.8 個八度, 159 個音符)
 ================================================================================
 ```
 

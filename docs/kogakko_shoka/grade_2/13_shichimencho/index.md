@@ -39,13 +39,6 @@ audio: "shichimencho.mp3"
 2. 主歌伴奏 (Shichimencho, 20 小節 × 2 段)：右手演奏原曲歌唱旋律；左手以詼諧輕快的斷奏與二拍子和聲伴奏。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》、《新定兒童唱歌》共同收錄教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈七面鳥〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/index.md)（`C` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/shichimencho.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

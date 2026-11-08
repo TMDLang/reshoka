@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期唱歌教材數位重建計畫
-site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 23 冊、795 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 33 冊、1,087 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -80,6 +80,8 @@ extra_javascript:
 nav:
   - 首頁: index.md
   - 跨冊重複與同名歌曲索引: duplicate_songs.md
+  - 同一歌名的多個版本: same_title_songs.md
+  - 同詞異曲歌曲: same_lyrics_songs.md
   - 共益商社唱歌教科書（明治三十五年／1902）:
       - 專題統計: kyoeki_shoka/index.md
       - 巻一（生徒用）:
@@ -246,7 +248,7 @@ nav:
           - "16 一年生": shoka_kyozai_shu_1923/grade_1_2/16_ichinensei/index.md
           - "17 ひらいた ひらいた": shoka_kyozai_shu_1923/grade_1_2/17_hiraita_hiraita/index.md
           - "18 鵞鳥さん": shoka_kyozai_shu_1923/grade_1_2/18_gachosan/index.md
-          - "19 つるつるみかん": shoka_kyozai_shu_1923/grade_1_2/19_tsurutsuru_mikan/index.md
+          - "19 つるつる 密柑": shoka_kyozai_shu_1923/grade_1_2/19_tsurutsuru_mikan/index.md
           - "20 カーレンさん": shoka_kyozai_shu_1923/grade_1_2/20_karensan/index.md
           - "21 さるかに": shoka_kyozai_shu_1923/grade_1_2/21_sarukani/index.md
           - "22 兵隊": shoka_kyozai_shu_1923/grade_1_2/22_heitai/index.md
@@ -306,7 +308,7 @@ nav:
           - "14 めくら鬼": shoka_kyozai_shu_1923/grade_3_4/14_mekura_oni/index.md
           - "15 お人形やく家": shoka_kyozai_shu_1923/grade_3_4/15_oningyo_yaku_ie/index.md
           - "16 花賣少女": shoka_kyozai_shu_1923/grade_3_4/16_hanauri_shojo/index.md
-          - "17 兎のもちつき": shoka_kyozai_shu_1923/grade_3_4/17_usagi_no_mochitsuki/index.md
+          - "17 兎の餅つき": shoka_kyozai_shu_1923/grade_3_4/17_usagi_no_mochitsuki/index.md
           - "18 夕立": shoka_kyozai_shu_1923/grade_3_4/18_yudachi/index.md
           - "19 夏休": shoka_kyozai_shu_1923/grade_3_4/19_natsuyasumi/index.md
           - "20 木の葉": shoka_kyozai_shu_1923/grade_3_4/20_ki_no_ha/index.md
@@ -324,10 +326,10 @@ nav:
           - "32 六氏先生": shoka_kyozai_shu_1923/grade_3_4/32_rokushi_sensei/index.md
           - "33 數へ歌": shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta/index.md
           - "34 村の鍛冶屋": shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/index.md
-          - "35 送別の歌": shoka_kyozai_shu_1923/grade_3_4/35_sobetsu_no_uta/index.md
+          - "35 送別の歌（卒業式の歌）": shoka_kyozai_shu_1923/grade_3_4/35_sobetsu_no_uta/index.md
           - "36 雲雀": shoka_kyozai_shu_1923/grade_3_4/36_hibari/index.md
           - "37 螢狩": shoka_kyozai_shu_1923/grade_3_4/37_hotarugari/index.md
-          - "38 木船泥船": shoka_kyozai_shu_1923/grade_3_4/38_kibune_dorobune/index.md
+          - "38 木舟泥舟": shoka_kyozai_shu_1923/grade_3_4/38_kibune_dorobune/index.md
           - "39 蟬": shoka_kyozai_shu_1923/grade_3_4/39_semi/index.md
           - "40 綱引き": shoka_kyozai_shu_1923/grade_3_4/40_tsunahiki/index.md
           - "41 飛行機の夢": shoka_kyozai_shu_1923/grade_3_4/41_hikoki_no_yume/index.md
@@ -347,28 +349,28 @@ nav:
           - "03 忍耐": shoka_kyozai_shu_1923/grade_5_6/03_nintai/index.md
           - "04 停車場の鈴": shoka_kyozai_shu_1923/grade_5_6/04_teishaba_no_suzu/index.md
           - "05 朝の歌": shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta/index.md
-          - "06 櫻井の別": shoka_kyozai_shu_1923/grade_5_6/06_sakurai_no_wakare/index.md
-          - "07 日本國": shoka_kyozai_shu_1923/grade_5_6/07_nihon_koku/index.md
+          - "06 櫻井のわかれ": shoka_kyozai_shu_1923/grade_5_6/06_sakurai_no_wakare/index.md
+          - "07 日本の國": shoka_kyozai_shu_1923/grade_5_6/07_nihon_koku/index.md
           - "08 海": shoka_kyozai_shu_1923/grade_5_6/08_umi/index.md
           - "09 鄭成功": shoka_kyozai_shu_1923/grade_5_6/09_teiseiko/index.md
           - "10 漁業の歌": shoka_kyozai_shu_1923/grade_5_6/10_gyogyo_no_uta/index.md
           - "11 妙義山": shoka_kyozai_shu_1923/grade_5_6/11_myogisan/index.md
           - "12 鹿の水鏡": shoka_kyozai_shu_1923/grade_5_6/12_shika_no_mizukagami/index.md
-          - "13 大國民": shoka_kyozai_shu_1923/grade_5_6/13_daikokumin/index.md
+          - "13 大國民唱歌": shoka_kyozai_shu_1923/grade_5_6/13_daikokumin/index.md
           - "14 およぎ": shoka_kyozai_shu_1923/grade_5_6/14_oyogi/index.md
           - "15 港": shoka_kyozai_shu_1923/grade_5_6/15_minato/index.md
           - "16 十五夜お月さん": shoka_kyozai_shu_1923/grade_5_6/16_jugoya_otsukisan/index.md
           - "17 松島": shoka_kyozai_shu_1923/grade_5_6/17_matsushima/index.md
           - "18 源平の戰": shoka_kyozai_shu_1923/grade_5_6/18_genpei_no_tatakai/index.md
           - "19 漁船": shoka_kyozai_shu_1923/grade_5_6/19_gyosen/index.md
-          - "20 鏡": shoka_kyozai_shu_1923/grade_5_6/20_kagami/index.md
+          - "20 鐘": shoka_kyozai_shu_1923/grade_5_6/20_kane/index.md
           - "21 菊": shoka_kyozai_shu_1923/grade_5_6/21_kiku/index.md
           - "22 學友": shoka_kyozai_shu_1923/grade_5_6/22_gakuyu/index.md
           - "23 開校記念日": shoka_kyozai_shu_1923/grade_5_6/23_kaiko_kinenbi/index.md
           - "24 星": shoka_kyozai_shu_1923/grade_5_6/24_hoshi/index.md
           - "25 赤いポスト": shoka_kyozai_shu_1923/grade_5_6/25_akai_posuto/index.md
           - "26 森の小鳥": shoka_kyozai_shu_1923/grade_5_6/26_mori_no_kotori/index.md
-          - "27 金剛石": shoka_kyozai_shu_1923/grade_5_6/27_kongoseki/index.md
+          - "27 金剛石、水は器": shoka_kyozai_shu_1923/grade_5_6/27_kongoseki/index.md
           - "28 みがかずば": shoka_kyozai_shu_1923/grade_5_6/28_migakazuba/index.md
           - "29 朝": shoka_kyozai_shu_1923/grade_5_6/29_asa/index.md
           - "30 農商工": shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko/index.md
@@ -376,10 +378,10 @@ nav:
           - "32 汽車の旅": shoka_kyozai_shu_1923/grade_5_6/32_kisha_no_tabi/index.md
           - "33 燈臺": shoka_kyozai_shu_1923/grade_5_6/33_todai/index.md
           - "34 臺灣の風景": shoka_kyozai_shu_1923/grade_5_6/34_taiwan_no_fukei/index.md
-          - "35 助け船": shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/index.md
+          - "35 助け舟": shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/index.md
           - "36 燕": shoka_kyozai_shu_1923/grade_5_6/36_tsubame/index.md
-          - "37 おぼろ月夜": shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo/index.md
-          - "38 テニスの歌": shoka_kyozai_shu_1923/grade_5_6/38_tenisu_no_uta/index.md
+          - "37 朧月夜": shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo/index.md
+          - "38 庭球": shoka_kyozai_shu_1923/grade_5_6/38_tenisu_no_uta/index.md
           - "39 月": shoka_kyozai_shu_1923/grade_5_6/39_tsuki/index.md
           - "40 招魂祭": shoka_kyozai_shu_1923/grade_5_6/40_shokonsai/index.md
           - "41 太陽": shoka_kyozai_shu_1923/grade_5_6/41_taiyo/index.md
@@ -420,10 +422,10 @@ nav:
           - "22 四季の散歩": shoka_kyozai_shu_1923/koto_1_2/22_shiki_no_sanpo/index.md
           - "23 樂しき我家": shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya/index.md
           - "24 曉景（二部輪唱）": shoka_kyozai_shu_1923/koto_1_2/24_gyokei/index.md
-          - "25 夏のたのしみ（二部）": shoka_kyozai_shu_1923/koto_1_2/25_natsu_no_tanoshimi/index.md
+          - "25 夏の樂み（二部）": shoka_kyozai_shu_1923/koto_1_2/25_natsu_no_tanoshimi/index.md
           - "26 月": shoka_kyozai_shu_1923/koto_1_2/26_tsuki/index.md
           - "27 秋の野（二部）": shoka_kyozai_shu_1923/koto_1_2/27_aki_no_no/index.md
-          - "28 岩間清水": shoka_kyozai_shu_1923/koto_1_2/28_iwama_shimizu/index.md
+          - "28 岩間の清水": shoka_kyozai_shu_1923/koto_1_2/28_iwama_shimizu/index.md
           - "29 君が代の初春（二部）": shoka_kyozai_shu_1923/koto_1_2/29_kimigayo_no_hatsuharu/index.md
           - "30 遠別離": shoka_kyozai_shu_1923/koto_1_2/30_enbetsuri/index.md
           - "31 時は生命": shoka_kyozai_shu_1923/koto_1_2/31_toki_wa_inochi/index.md
@@ -658,7 +660,7 @@ nav:
           - "P215 松島 (松島)": shokacho/vol_10/p215_matsushima/index.md
           - "P216 妙義山 (妙義山)": shokacho/vol_10/p216_myogisan/index.md
           - "P217 鄭成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
-          - "P220 琵琶湖 (琵琶湖)": shokacho/vol_10/p220_biwako/index.md
+          - "P220 琵琶湖": shokacho/vol_10/p220_biwako/index.md
           - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
   - 臺灣の歌（昭和四年／1929）:
       - 總覽: taiwan_no_uta/index.md

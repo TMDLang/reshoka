@@ -1,10 +1,30 @@
 X:1
 T:招魂祭
-M:2/4
+M:4/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=100
+K:Gm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+z4 z4 z4 D4 | G3 G G4 G4 A3 A | A4 B4 A3 A G4 | G4 ^F8 z4 |
+w: イ | ク サ ノ ニ ハ _ | ニ ア メ _ ト | チ リ
+z4 z4 z4 D4 | G3 G G4 G4 A3 A | A4 D4 B3 B A3 A | G8 z4 B4 |
+w: カ | ゼ _ ト ク ダ ケ | シ ミ タ _ マ ヲ | バ ナ
+B3 B A4 A4 d3 d | d4 d4 d3 d ^c3 c | d8 z4 c4 | B3 B A4 G4 A3 A |
+w: グ サ メ マ ツ _ | ル コ ノ _ ニ ハ | ニ ア | マ カ ケ リ ツ _
+A4 D4 B3 B A3 B | G8 z8 | z4 z4 z4 D4 | G3 G G4 G4 A3 A |
+w: ツ ウ ケ _ ヨ キ | ミ | と | も _ に ほ こ と
+A4 B4 A3 A G4 | G4 ^F8 z4 | z4 z4 z4 D4 | G3 G G4 G4 A3 A |
+w: り の に _ や | ま に | ち | し ほ の は な _
+A4 D4 B3 B A3 A | G8 z4 B4 | B3 B A4 A4 d3 d | d4 d4 d3 d ^c3 c |
+w: に か た _ ら ひ | て ろ | え い の つ き _ | に う た _ ひ て
+d8 z4 c4 | B3 B A4 G4 A3 A | A4 D4 B3 B A3 B | G8 z8 |
+w: し む | か _ し し の ぶ | も あ あ _ な み | だ
+z4 z4 z4 D4 | G3 G G4 G4 A3 A | A4 B4 A3 A G4 | G4 ^F8 z4 |
+w: イ | キ テ ハ ク ニ _ | ノ タ テ _ ト | ナ リ
+z4 z4 z4 D4 | G3 G G4 G4 A3 A | A4 D4 B3 B A3 A | G8 z4 B4 |
+w: シ | シ テ ハ フ ミ _ | ノ ハ ナ _ ト ナ | ル タ
+B3 B A4 A4 d3 d | d4 d4 d3 d ^c3 c | d8 z4 c4 | B3 B A4 G4 A3 A |
+w: カ _ キ イ サ ヲ | ハ ノ チ _ ノ ヨ | ノ カ | ガ ミ ト ナ リ _
+A4 D4 B3 B A3 B | G8 z8 |
+w: テ カ ガ _ ヤ カ | ム

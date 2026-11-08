@@ -36,15 +36,6 @@ audio: "otsukisan.mp3"
 2. 主歌伴奏 (Song, 16 小節 × 2 段)：右手演奏主旋律，左手配以柔和的小調和弦伴奏。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
-
-- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈オツキサマ（月亮先生）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_15_otsukisama/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_15_otsukisama/otsukisama.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈お月さん〉**](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/4_13_otsukisan/index.md)（`G` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/4_13_otsukisan/otsukisan.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈お月さん〉**](../../../shoka_kyozai_shu_1923/grade_3_4/42_otsukisan/index.md)（`A,` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/42_otsukisan/otsukisan.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text
@@ -72,16 +63,28 @@ Q:1/4=96
 K:Fm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 C4 D4 C4 | F,2 G,2 F,2 G,2 C8 | A4 c4 A4 G2 F2 | G12 z4 |
-A4 c4 A4 G4 | F4 A4 G2 F2 G2 c2 | d6 d2 c6 e2 | F12 z4 |
-C4 C4 D4 C4 | F,2 G,2 F,2 G,2 C4 C4 | A4 c4 A4 G2 F2 | G12 z4 |
+C4 C4 D4 C4 | F2 G2 F2 G2 C8 | A4 c4 A4 G2 F2 | G12 z4 |
+w: ワ タ シ ノ | ス _ キ _ ナ | オ ツ キ サ _ | ン
+A4 c4 A4 G4 | F4 A4 G2 F2 G2 C2 | D6 D2 C6 D =E | F12 z4 |
+w: ヒ ガ シ ノ | ヤ マ カ _ ラ _ | ニ ッ コ ニ コ | ー
+C4 C4 D4 C4 | F2 G2 F2 G2 C4 C4 | A4 c4 A4 G2 F2 | G12 z4 |
+w: ホ ン ト ニ | カ _ ワ _ イ イ | マ ン マ ル _ | ナ
 B4 B4 d2 B2 c4 | A4 c4 A2 G2 F4 | C4 F4 A4 G4 | F12 z4 |
+w: オ カ ホ _ デ | イ _ ツ _ モ | ニ ッ コ ニ | コ
+C4 C4 D4 C4 | F2 G2 F2 G2 C8 | A4 c4 A4 G2 F2 | G12 z4 |
+w: ク サ バ ノ | ム _ シ _ モ | ヨ ロ コ ン _ | デ
+A4 c4 A4 G4 | F4 A4 G2 F2 G2 C2 | D6 D2 C6 D =E | F12 z4 |
+w: チ ン チ ロ | チ ン チ _ ロ _ | チ ン チ ロ リ | ン
+C4 C4 D4 C4 | F2 G2 F2 G2 C4 C4 | A4 c4 A4 G2 F2 | G12 z4 |
+w: ツ _ ユ ニ | ヤ _ ド _ カ ル | オ ツ キ サ _ | ン
+B4 B4 d2 B2 c4 | A4 c4 A2 G2 F4 | C4 F4 A4 G4 | F12 z4 |
+w: ド チ ラ _ ヘ | イ ッ テ _ モ | ニ ッ コ ニ | コ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](otsukisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGJOboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoKASl5aWwuPGrmdzOh43Tn3cNFlBS4tL0VbB0ozL3lbBUYcrO7XSVsEtl8vGRN_EDmTks-lLn23a_Wxm07M585-2rnm6dsezBQsfN3Q9nbLx2dqepzs2P27ofr-n42nrjhfT-1_MnK9gZGBkoGdgYKZnYGFi_Lh5N8j77_d0gt33tG_-iz2dIN0b-oGGAU16NnXms7kTXs5uAxrzfM0aoG5ThZcLGkEmLln-bO1iBUNjhac7tygYGikA3QymgA7qagGbyKWvpWBLLcCloKDwuGHCs9mbns9e92LVqmcz-h43TASLNu9-2r7rxcyp7_fMwuLzOd3PV3e_aN_1vHHxs7Xbn_Zveto763nnypdLVuAIFKDbQV4FBYxeVkE61L_POrufrl8NZD9ftEfB0AKo6HFDE9T6ZytmvlixG2g9yD6MoIMF2uPmFY-bVwE1GhrrGRqBEMFgfNkDCkmERS9W7X_WsPxFR_uz7l6gu4E2vljX9bhpCVAcKPu4ecbz-WuBbKC5jkkKQKOB7JfT5zzZ3wR0FZCt4KaQm5mXXwQ08_2eHmASUgCaA2S9bJj_dNcyBXBCQ7KsuefZzPUgy2ZverloBdCyZ_39wDB4um_es7kbn27c-HTfuudrJj7tbX-xdfvzWS1P50wGOv7JrnVAE1_0dj7tX_Ri8UKg-LO5-17M3_Rk5_xnaxc-nTbn6ZwNjxt6HjcDw2MzmFwLDBUQu6H35eYtT_tXA7U_b1n4YvW0F1s3PO3Y8HTyKqA5EJOf79j7bMZ6kKWTVoHQnA3PZ-94OWsFwtHPOzuezVkDSR8gF89Z82zVlGcLO5437QKmbmAsPJ227kXjppfNK55vWPhi7ZwnO7uf7l_wdP2yZ1N3PNnb-7RnGsQEkInQJAfRB0xTL1bOe9q64tm0dmCYPNmxFsRYNe_F2vXAdAiO-N5n7Z3wZAMMY7ABQJknOxpAsdi8_nHT_sdN2x839z1u2vm4ec_jJqDXux43NDxuAgZAC4jbtBUk3rwZYnUDFDVPety0Bqqzecnj5nmPm1Y_bl4JUgqS7X7c3Py4CRiY3UASTedscCh3gOWAeoBmA12xBIRAsvPAskASItWFqhnoKpAeoBHtIA1AF4IULcJuJ9CfkNAAhXrHxGdzGoBxDYxxUAIAx93TicBQ6IEknpdNXaAEs3HjywVrkWMTkpbe75kNMlFB4fmc-cDoftq__lnLbKj2OZOBCKj3RXvny30T0NIDMNKQg31XDyjYm4AeBobqBHDgLQAHOzAgIb4AZkhgmAN9AURAr7WjBR5yEkVmQ4IdPQGjaYaE1jJwUAEDD8gGJgGg5cAQXU1MnANVA80GR3LzDHD4Nz9ubiM2CoAZ8MXEzpfTQGH1fHk3JAO-XD3jRQewRNwALCNfTJyOng0bgCRuLiyTwmPn6ZwVL-dset6_4MmOrqfAEmTdfrS4xszF2OMLaBbl9QMUKGjpc3EF5-elWwVkJublO9QY1ChUg91rY6FlB2YAayUNYJbUBBYX6xWAWRKItwPZfQo1QNZOIGsPkF4LoZu7wKKrgKwWiCg4tkCCzZtBdsEN3NUDNLAJZOBWoNwEmIHNC6AGgqwAGbgILLoCiEGGbQabAzOxHWZijYJxvIIuhDCBs2oUzOLjFcyBGEaDhUGwRsEQpAqIQbQ5SAVQDEhDpEHQAKQMnDeQQ2AS0BFrkEOgeQkQzwOKgIoEIBOUAMHi3UDcDHVyNzhUsARAcyPUQyB6LVgfXARiHij7oIrDVYISGCIE0DwE8T6KB4GkMVDUBOw9E7BiXQVTmDr8_p4Ntb0D7huof9dDogsYCkAMchUwLMAqQTRYDUiwC4vXgQkEbMIymJHgbA-kQPkeZAHIACKSE0mRD5UjL_ZBDgE7C1jEgxzaDnYdKAGAeKACDJ5giYv9Tmh8ghMNsNiCmwfUCi67iDGvRsEI6FgQNgGSIF8h-w_iO5AY2OvISQKeRFA9XcvFpWunACoTFIC0MhcA)]
-- [鋼琴伴奏 TMD 檔案](otsukisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PVsTsfjxqmPmya_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRUcdbiyUyttFdxyuWxM9E3suOoUlJ5NX_ps0-5nM5uezZn_tHXN07U7ni1Y-Lih6-mUjc_W9jzdsflxQzfQ5KetO15M738xc76CkYGRgZ6BgZmegYWJ8ePm3QGGJuZAi5RAhj3tm_9iTydI94Z-oGFAk55Nnfls7oSXs9uAxjxfswao21Th5YJGJS4ufS0FW2oBLgUFhccNE57N3vR89roXq1Y9m9H3uGEiWLR599P2XS9mTn2_ZxYWX83pfr66-0X7rueNi5-t3f60f9PT3lnPO1e-XLICh4eBPgV5A-RpvayCdJBfHjc0QW16sWr_s4blLzran3X3AnUCrXyxrutx0xKgOFD2cfOM5_PXAtlAix2TFHITs_KLFPQV3BRyM_Pyi4AGv9_TA4wVBaBmIOtlw_ynu5YpgOMOYcPz7SuAnoT4EGt8A-0EKVVQMNRTeNrZCxRX0PDMKynK11EwUQDGyvP1DZpANU_3TH0-ZcXzrROebtj3bEXT0_6ljxt6Hjetety0-nHz7MfN7UBXP25uedy853HzIqDF3Y-bmx83bQYxgGQDyIHP-vuf71wFTH1Pl8x5Nn_K01ZgvIOdqaBgpKfwZMduYEBDXKagEZyfl66jYGgGdYHC4ekKRgrP1m0FO6V_87PO7md7pgBVgnRN7366Dxg3PU-3LwOKv2ztfbJ7Kcj8ST3PZ7UA9QMDEMh-umcZxHCopZSnIShQ0NLn4gKHmFVAZmJefpCHQ41BjUI12Gc2Flp2YEYN0P26YGwCJI2BdI2CIZAEsQwVzOMVzOLBYsYgCswGyQLFQYJgPgwagIS4alHs9EGx0wRhZ7xCtFFuLMjUaGMgDTIKyDQDMuEMsJ1gWRyqDCDWgaIEvw_BbgcTJnAWxCxzIIbRYGEQRA4AsFeB3qyBeBnVrxDT0RTDwwWhGUgaA0VNwFpNwIp1FUyxhx_JLobKkeRkqkc5Ig5wxTi2-IUziU4GoChHMw-LXoQQMPSiTfAmINq4jprpW9dOAZyjFIAMUDgj08pcAA)]
+- [主旋律 TMD 檔案](otsukisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGJOboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKCgEpeWlsLjxq5nczoeN0593DRZQUuLS9FWwdKMy95WwVGHKzu10lbBLZfLxkTfxA5k5LPpS59t2v1sZtOzOfOftq55unbHswULHzd0PZ2y8dnanqc7Nj9u6H6_p-Np644X0_tfzJyvYGRgZKBnYGCmZ2BhYvy4eTcoCN7v6QS772nf_Bd7OkG6N_QDDQOa9GzqzGdzJ7yc3QY05vmaNUDdpgovFzSCTFyy_NnaxQqGxgpPd25RMDRSALoZTAEd1NUCNpFLX0vBllqAS0FB4XHDhGezNz2fve7FqlXPZvQ9bpgIFm3e_bR914uZU9_vmYXF53O6n6_uftG-63nj4mdrtz_t3_S0d9bzzpUvl6zAEShAt4O8CgoYvayCdKh_n3V2P12_Gsh-vmiPgqEFUNHjhiao9c9WzHyxYjfQepB9GEEHC7THzSseN68CajQ01jM0AiGCwfiyBxSSCIterNr_rGH5i472Z929QHcDbXyxrutx0xKgOFD2cfOM5_PXAtlAcx2TFIBGA9kvp895sr8J6CogW8FNITczL78IaOb7PT3AJKQANAfIetkw_-muZQrghIZkWXPPs5nrQZbN3vRy0QqgZc_6-4Fh8HTfvGdzNz7duPHpvnXP10x82tv-Yuv257Nans6ZDHT8k13rgCa-6O182r_oxeKFQPFnc_e9mL_pyc75z9YufDptztM5Gx439DxuBobHZjC5FhgqIHZD78vNW572rwZqf96y8MXqaS-2bnjaseHp5FVAcyAmP9-x99mM9SBLJ60CoTkbns_e8XLWCoSjn3d2PJuzBpI-QC6es-bZqinPFnY8b9oFTN3AWHg6bd2Lxk0vm1c837Dwxdo5T3Z2P92_4On6Zc-m7niyt_dpzzSICSAToUkOog-Ypl6snPe0dcWzae3AMHmyYy2IsWrei7XrgekQHPG9z9o74ckGGMZgA4AyT3Y0gGKxef3jpv2Pm7Y_bu573LTzcfOex01Ar3c9bmh43AQMgBYQt2krSLx5M8TqBihqnvS4aQ1UZ_OSx83zHjetfty8EqQUJNv9uLn5cRMwMLuBJJrO2eBQ7gDLAfUAzQa6YgkIgWTngWWBJESqC1Uz0FUgPUAj2kEagC4EKVqE3U6gPyGhAQr1jonP5jQA4xoY46AEAI67pxOBodADSTwvm7pACWbjxpcL1iLHJiQtvd8zG2SigsLzOfOB0f20f_2zltlQ7XMmAxFQ74v2zpf7JqClB2CkIQf7rh5QsDcBPQwM1QngwFsADnZgQEJ8AcyQwDAH-gKIgF5rRws85CSKzIYEO3oCRtMMCa1l4KACBh6QDUwCQMuBIbqamDgHqgaaDY7k5hng8G9-3NxGbBQAM-CLiZ0vp4HC6vnybkgGfLl6xosOYIm4AVhGvpg4HT0bNgBJ3FxYJoXHztM5K17O2fS8f8GTHV1PgSXIuv1ocY2Zi7HHF9AsyusHKFDQ0ufiCs7PS7cKyEzMy3eoMahRqAa718bQTMsOzAJWSxrAPKkJLC_WKwDzJBBvB7L7FGqArJ1A1h4gvRZCN3eBRVcBWS0QUXB0gQSbN4Msgxu4qwdoYBPIwK1AuQkwA5sXQA0EWQEycBFYdAUQgwzbDDYHZmI7zMQaBeN4BV0whDNMMERqFMxATHMQgWDBpWGwRsEQphNKw_gInTUQNjZoADMG7DIfQ5BD10PFQKEHY22HsYAeh1kMCk-Y_Fq4fBeGA0EhDJNtwdQBDFK4SmBwEeVOI5CpCHfCTABFDRZ3AqMJ0x-LMN0JjDiYLMJ1MBch3AaJTELuRE-Nk4BmrUFOjc1LgHgeUARUPgOZoNIALN4NxM3Q5NMNDj8sibG5EZq4QPRasD64CMQ8UFmGKg5XCcrtiNSINwFBPAxORhhyaMmyBpGKQRDMQUmvQBFT9Xhk43AHHyI5ToKKgYIPxsKaHIEBChOdB1e5Gi62EkllN5KdoMBGjmiIGDASgCIgtXuIcysoSQKDGKYfkWwQYmuRXEC6SoRqdDFQcbaKyOyDnixnQxNHBzyxQZPjekjJBkykQAwyG5hUwSpBNFgNSLALS8oElqVgE5bBjARXkUAKVEeCowRoABElL1XKSSR1VC8oZ8NjABGHHXAWLI2BwxQuiii04KkVzoKEMqaZCDGYOZCgJ8ql4HQJK3ZhEBQ5WNyJlIM64a5DuB3JdqoW6WhpEpQswIkE2DgFJZt2sIWg0hLEAzW9gBSkpiWuqOwE5xhoCQtscMHNA2oFt7qIMa9GwQjqYBhtAmXD0hP2FIZIXRA18ASJvUyFKCKlgEREBVJUIZImrKaC-BnVNKTIg9eHyMUjKDBgZiOSI3LCJqG-RiQppIIOViiDYgXTnUj2N7fR3KW1XFy6dgqg9mW0j2GsApxtBGYrcwEA)]
+- [鋼琴伴奏 TMD 檔案](otsukisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PVsTsfjxqmPmya_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRUcdbiyUyttFdxyuWxM9E3suOoUlJ5NX_ps0-5nM5uezZn_tHXN07U7ni1Y-Lih6-mUjc_W9jzdsflxQzfQ5KetO15M738xc76CkYGRgZ6BgZmegYWJ8ePm3QGGJuZAi5RAhj3tm_9iTydI94Z-oGFAk55Nnfls7oSXs9uAxjxfswao21Th5YJGJS4ufS0FW2oBLgUFhccNE57N3vR89roXq1Y9m9H3uGEiWLR599P2XS9mTn2_ZxYWX83pfr66-0X7rueNi5-t3f60f9PT3lnPO1e-XLICh4eBPgV5A-RpvayCdJBfHjc0QW16sWr_s4blLzran3X3AnUCrXyxrutx0xKgOFD2cfOM5_PXAtlAix2TFHITs_KLFPQV3BRyM_Pyi4AGv9_TA4wVBaBmIOtlw_ynu5YpgOMOYcPz7SuAnoT4EGt8A-0EKVVQMNRTeNrZCxRX0PDMKynK11EwUQDGyvP1DZpANU_3TH0-ZcXzrROebtj3bEXT0_6ljxt6Hjetety0-nHz7MfN7UBXP25uedy853HzIqDF3Y-bmx83bQYxgGQDyIHP-vuf71wFTH1Pl8x5Nn_K01ZgvIOdqaBgpKfwZMduYEBDXKagEZyfl66jYGgGdYHC4ekKRgrP1m0FO6V_87PO7md7pgBVgnRN7366Dxg3PU-3LwOKv2ztfbJ7Kcj8ST3PZ7UA9QMDEMh-umcZxHCopZSnIShQ0NLn4gKHmFVAZmJefpCHQ41BjUI12Gc2Flp2YEYN0P26YGwCJI2BdI2CIZAEsQwVzOMVzOLBYsYgCswGyQLFQYJgPgwagIS4alHs9EGx0wRhZ7xCtFFuLMjUaGMgDTIKyDQDMuEMsJ1gWRyqDCDWgaIEmw8NzeDWgR0PgnCGCYYI1DdgnyFYcGkYhIQOWCeUhvEROmsgbGwQFEhgY6Auw2sYkrOwW4RwYg3CR3DvobgdKGKqHo8eZ_icRoVAQ1JH1VADJVcQhNEmUDbMcOzWIayCqIG7DnsII_kPv5tQ0iCuFI8tfcOZRGcDUJJHMw-LXoQQMMaiTfBmINq4jpr5W9dOAVyiKAAZoHBGppW5AA)]
 
 ## 分析
 
@@ -89,24 +92,25 @@ B4 B4 d2 B2 c4 | A4 c4 A2 G2 F4 | C4 F4 A4 G4 | F12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ お月さん ]
 ================================================================================
-⏱  Duration:       0:40 (40.0s), 16 measures total
+⏱  Duration:       1:20 (80.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 A,, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F3 (MIDI 53) – D#5 (MIDI 75) [跨度: 22 個半音 / 1.8 個八度, 難度: difficult]
-   - 最低音:  F3 in [Song #1 @ m.2, 0:02]
-   - 最高音: D#5 in [Song #1 @ m.7, 0:17]
-   - 適合: mezzo-soprano, contralto, baritone, bass
-🏛  結構:      Song (40.0s)
+🎤 人聲音域:    C4 (MIDI 60) – C#5 (MIDI 73) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
+   - 最低音:  C4 in [Song[L1] #1 @ m.1, 0:00]
+   - 最高音: C#5 in [Song[L1] #1 @ m.13, 0:31]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Song[L1] (40.0s) -> Song[L2] (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  C, F, G, G#, C#
-   - 調性數值:    F 小調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 小調 (0.77), C 小調 (0.65), C 大調 (0.65)
-   - 五度圈歷程:   -1
+   - 調性數值:    F 小調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 99.6%]
+   - 候選調性 (K-S): F 小調 (0.77), C 大調 (0.66), C 小調 (0.64)
+   - 五度圈歷程:   -1 -> -1
    - 各段落調性細節:
-     • [Song #1]: F 小調 (r: 0.77, 自然音純度: 100.0%)
+     • [Song[L1] #1]: F 小調 (r: 0.77, 自然音純度: 99.6%, 調外音: E)
+     • [Song[L2] #1]: F 小調 (r: 0.77, 自然音純度: 99.6%, 調外音: E)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -120,10 +124,10 @@ B4 B4 d2 B2 c4 | A4 c4 A2 G2 F4 | C4 F4 A4 G4 | F12 z4 |
 
   [ 十二半音累積音高分佈 ]
      C  : ████████████████████████  30.0%
-     C# : ██████                     7.5%
+     C# : ██████                     7.9%
      D  :                            0.0%
-     D# : █                          0.8%
-     E  :                            0.0%
+     D# :                            0.0%
+     E  :                            0.4%
      F  : █████████████████         20.8%
      F# :                            0.0%
      G  : █████████████████         20.8%
@@ -133,7 +137,7 @@ B4 B4 d2 B2 c4 | A4 c4 A2 G2 F4 | C4 F4 A4 G4 | F12 z4 |
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F3 – D#5 (22 個半音 / 1.8 個八度, 61 個音符)
+  - Piano         : C4 – C#5 (13 個半音 / 1.1 個八度, 124 個音符)
 ================================================================================
 ```
 

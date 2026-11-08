@@ -4,9 +4,29 @@ M:4/4
 L:1/16
 Q:1/4=120
 K:D
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-D4 D2 F2 A4 F4 | B4 A4 F4 z4 | B2 A2 B2 A2 F4 D4 | E12 z4 |
+D4 D2 F2 A4 F4 | B4 A4 F4 z4 | B4 A2 B2 A4 F2 D2 | E12 z4 |
+w: ク サ _ バ ノ | ツ ユ ヲ | フ ミ _ ワ ケ _ | テ
 D4 D2 F2 A4 F4 | B4 A4 F4 z4 | d4 c2 B2 A4 B2 c2 | d8 A4 z4 |
+w: キ コ _ リ ハ | ヤ マ ニ | ノ ボ _ リ ユ _ | ク _
 D2 E2 F2 D2 E2 F2 A4 | B4 A2 F2 A4 z4 | d4 c2 B2 A4 A2 B2 | A4 F2 D2 E4 z4 |
+w: ウ _ レ _ シ _ キ | ア サ _ ヨ | タ ノ _ シ キ _ | ア サ _ ヨ
 D2 E2 F2 G2 A4 A4 | B4 B4 A4 A4 | B6 B2 A4 B2 c2 | d12 z4 |
+w: ク _ モ _ ラ ヌ | ヒ カ ゲ ハ | タ カ ネ ヨ _ | リ
+D4 D2 F2 A4 F4 | B4 A4 F4 z4 | B4 A2 B2 A4 F2 D2 | E12 z4 |
+w: こ う _ し を | ひ い て | く さ _ か り _ | に
+D4 D2 F2 A4 F4 | B4 A4 F4 z4 | d4 c2 B2 A4 B2 c2 | d8 A4 z4 |
+w: の う _ ふ は | の べ に | い そ _ ぎ ゆ _ | く _
+D2 E2 F2 D2 E2 F2 A4 | B4 A2 F2 A4 z4 | d4 c2 B2 A4 A2 B2 | A4 F2 D2 E4 z4 |
+w: う _ れ _ し _ き | あ さ _ よ | た の _ し き _ | あ さ _ よ
+D2 E2 F2 G2 A4 A4 | B4 B4 A4 A4 | B6 B2 A4 B2 c2 | d12 z4 |
+w: す _ ず _ め の | う た は _ | を ち こ ち _ | に
+D4 D2 F2 A4 F4 | B4 A4 F4 z4 | B4 A2 B2 A4 F2 D2 | E12 z4 |
+w: ワ レ _ ラ モ | イ ザ ヤ | ガ _ ク カ ウ _ | ニ
+D4 D2 F2 A4 F4 | B4 A4 F4 z4 | d4 c2 B2 A4 B2 c2 | d8 A4 z4 |
+w: イ タ _ リ テ | ケ フ ノ | ケ イ _ コ セ _ | ム _
+D2 E2 F2 D2 E2 F2 A4 | B4 A2 F2 A4 z4 | d4 c2 B2 A4 A2 B2 | A4 F2 D2 E4 z4 |
+w: ウ _ レ _ シ _ キ | ア サ _ ヨ | タ ノ _ シ キ _ | ア サ _ ヨ
+D2 E2 F2 G2 A4 A4 | B4 B4 A4 A4 | B6 B2 A4 B2 c2 | d12 z4 |
+w: シヤ _ ウ _ カ ノ | コ エ ハ _ | ハ ヤ ア レ _ | ニ

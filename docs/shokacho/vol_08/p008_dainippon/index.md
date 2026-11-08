@@ -27,14 +27,6 @@ audio: "dainippon.mp3"
 註記：山本壽曲 / 蓬唱ヨリ 79頁 / 昭2.3.25
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（山本壽作曲；《公學校唱歌》第三學年、《新定兒童唱歌》第三學年與楊金土《唱歌帖》P008 皆收錄同曲）
-
-- **[同曲]** 《公學校唱歌》第三學年（昭和10年／1935）：[**〈大日本〉**](../../../kogakko_shoka/grade_3/12_dainippon/index.md)（`G` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_3/12_dainippon/dainippon.tmd)）
-- **[同曲]** 《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）：[**〈大日本〉**](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon/dainippon.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

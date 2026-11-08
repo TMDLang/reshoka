@@ -25,13 +25,6 @@ audio: "funako.mp3"
 出處註記：（文部省編小學唱歌集）
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》、《新定兒童唱歌》共同收錄教材）
-
-- **[同曲]** 《公學校唱歌》第五學年用（昭和13年／1938）：[**〈船子〉**](../../../kogakko_shoka/grade_5/17_funako/index.md)（`D` / `6/8` — [原始 TMD](../../../kogakko_shoka/grade_5/17_funako/funako.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

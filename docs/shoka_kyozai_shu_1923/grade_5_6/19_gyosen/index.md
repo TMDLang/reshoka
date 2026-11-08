@@ -1,11 +1,11 @@
 ---
 title: "漁船 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
 song_title: "漁船"
-description: "〈漁船〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、えんやら〳〵　艪拍子（ろびゃうし）そろへて、 朝日（あさひ）の港（みなと）を　漕（こ）ぎ出（だ）すれふ船（せん）。…"
+description: "〈漁船〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：F 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "漁船, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
-musical_key: "D"
+musical_key: "F"
 image: "P270.jpg"
 audio: "gyosen.mp3"
 ---
@@ -16,43 +16,36 @@ audio: "gyosen.mp3"
 
 <audio controls src="gyosen.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 文部省《尋常小學唱歌》
-- 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P084.jpg–P085.jpg，第五學年 pp. 78–79）：
-調性與拍號：ニ長調（D 大調）2/4 拍，速度 ♩=76
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P270.jpg`–`P271.jpg`，原書 p. 262–263〔P271 頁碼誤印為 163〕，尋常科五・六學年第 19 首）：
+> - **調性與拍號**：ヘ調六拍子（F 大調 6/8 拍），附點四分音符 ♩. = 70（相當於八分音符 ♪ = 210，TMD 四分音符基準 `!= 140`）
+> - **樂曲結構**：弱起小節（第 6 拍八分音符起唱）加 16 小節完整樂句。注意本曲（「朝なぎ廣き海の上に」）與文部省《尋常小學唱歌》2/4 拍〈漁船〉（「えんやらえんやら艪拍子そろへて」）為同名異曲。
+> - **原譜印刷勘誤**：
+>   1. 第 5 小節（第二行第 1 完整小節）第 2 組拍子「ヨツ／くる」，五線譜 jelas 印為四分音符 C5（`5`）接八分音符 F5（`1^`），下方簡譜漏印 `5`，此處依五線譜與字數補回 `5`。
+>   2. 第 11 小節（第三行第 3 完整小節）第 5 個八分音符處，五線譜為升記號 ♯F4（`4'`），下方簡譜誤將升記號印作八分休止符，此處依五線譜校正為 `4'`。
+>
+> **一、**
+> 朝（あさ）なぎ廣（ひろ）き　海（うみ）の上（うへ）に
+> 三つ四つ浮（うか）ぶ　海士（あま）の小船（をぶね）
+> 釣（つ）れたる魚（うを）は　何（なに）となにぞ
+> 鰹（かつを）か鯛（たひ）か　鰺（あぢ）か鯖（さば）か。
+>
+> **二、**
+> 夕風（ゆふかぜ）さむき　波（なみ）の上（うへ）を
+> こぎくる船（ふね）に　親子二人（おやこふたり）
+> 艪（ろ）の音高（おとたか）し　獲物（えもの）いかに
+> 入日（いりひ）の雲（くも）は　明日（あす）も日和（ひより）。
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》、《公學校唱歌集》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
-
-- **[同曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈漁船〉**](../../../kogakko_shoka/grade_4/8_gyosen/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_4/8_gyosen/gyosen.tmd)）
-- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈漁船〉**](../../../kogakko_shokashu_1915/5_07_gyosen/index.md)（`D` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_07_gyosen/gyosen.tmd)）
-- **[同曲]** 《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）：[**〈漁船〉**](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_02_gyosen/index.md)（`D` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_4_2020.006.0847.0004/2_02_gyosen/gyosen.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈漁船〉**](../../grade_3_4/29_gyosen/index.md)（`D` / `2/4` — [原始 TMD](../../grade_3_4/29_gyosen/gyosen.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-一、えんやら〳〵　艪拍子（ろびゃうし）そろへて、
-朝日（あさひ）の港（みなと）を　漕（こ）ぎ出（だ）すれふ船（せん）。
-見（み）よ〳〵あの雲（くも）　今日（けふ）こそ大（たい）れふ。
-それ漕（こ）げ〳〵　おも舵（かぢ）とりかぢ。
-
-二、ゆらりやゆらりと　浪間（なみま）に搖（ゆ）られて、
-磯（いそ）には網船（あみぶね）　沖（おき）には釣船（つりぶね）。
-見（み）よ〳〵あれ見（み）よ　かゝるわ、捕（と）れるわ。
-網（あみ）にも絲（いと）にも　魚（さかな）のかず〳〵。
-
-三、えんやら〳〵　獲物（えもの）に勇（いさ）んで、
-入日（いりひ）の沖（おき）をば　急（いそ）いで漕（こ）ぐ船（ふね）。
-見（み）よ〳〵、濱邊（はまべ）に　妻子（つまこ）が迎（むか）へる。
-それ漕（こ）げ漕（こ）げよや　艪拍子（ろびゃうし）早（はや）めて。
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -60,34 +53,36 @@ audio: "gyosen.mp3"
 ```abc
 X:1
 T:漁船
-M:2/4
+M:6/8
 L:1/16
-Q:1/4=76
-K:D
+Q:3/8=93
+K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A3 A F2 A2 | d3 d c2 B2 | A3 A F2 D2 | E2 E F E2 z2 |
-w: 1.~え ん や ら | え ん や ら | ろ びゃう _ _ | そ ろ へ て
-w: 2.~ゆ ら り や | ゆ ら り と | な み ま に | ゆ ら れ て
-w: 3.~え ん や ら | え ん や ら | え も の に | い さ ん で
-A3 A F2 A2 | d3 d c2 B2 | A3 A F2 D2 | E2 E E D2 z2 |
-w: 1.~あ さ ひ の | み な と を | こ ぎ だ す | れ ふ せ ん
-w: 2.~い そ に は | あ み ぶ ね | お き に は | つ り ぶ ね
-w: 3.~い り ひ の | お き を ば | い そ い で | こ ぐ ふ ね
-B3 A G2 F2 | D2 E E D2 z2 | B3 A G2 F2 | D2 E E D2 z2 |
-w: 1.~み よ み よ | あ の く も | け ふ こ そ | た い れ ふ
-w: 2.~み よ み よ | あ れ み よ | か か る わ | と れ る わ
-w: 3.~み よ み よ | は ま べ に | つ ま こ が | む か へ る
-A3 A d2 c2 | B3 B A2 F2 | A3 A F2 D2 | E2 F F D2 z2 |
-w: 1.~そ れ こ げ | そ れ こ げ | お も か ぢ | と り か ぢ
-w: 2.~あ み に も | い と に も | さ か な の | か ず か ず
-w: 3.~そ れ こ げ | こ げ よ や | ろ びゃう _ _ | は や め て
+z2 z2 z2 z2 z2 F2 | F4 A2 c4 f2 | c6 A4 F2 | B4 B2 B2 c2 B2 |
+w: ア | サ ナ ギ ヒ | ロ キ ウ | ミ ノ ウ _ ヘ
+A10 F2 | F4 A2 c4 f2 | c6 A4 F2 | G4 G2 G2 A2 G2 |
+w: ニ ミ | ツ ヨ ツ ウ | カ ブ ア | マ ノ ヲ _ ブ
+F10 A2 | B4 A2 G2 A2 B2 | c6 A4 f2 | f2 e2 d2 d2 =B2 _B2 |
+w: ネ ツ | レ タ ル _ ウ | ヲ ハ ナ | ニ _ ト ナ _ ニ
+c10 F2 | F4 A2 c4 f2 | f2 d4 B4 d2 | c2 d2 c2 B2 A2 G2 |
+w: ゾ カ | ツ ヲ カ タ | ヒ _ カ ア | ヂ _ カ サ _ バ
+F10 z2 | z2 z2 z2 z2 z2 F2 | F4 A2 c4 f2 | c6 A4 F2 |
+w: カ | ゆ | ふ か ぜ さ | む き な
+B4 B2 B2 c2 B2 | A10 F2 | F4 A2 c4 f2 | c6 A4 F2 |
+w: み の う _ へ | を こ | ぎ く る ふ | ね に お
+G4 G2 G2 A2 G2 | F10 A2 | B4 A2 G2 A2 B2 | c6 A4 f2 |
+w: や こ ふ _ た | り ろ | の お と _ た | か し え
+f2 e2 d2 d2 =B2 _B2 | c10 F2 | F4 A2 c4 f2 | f2 d4 B4 d2 |
+w: も _ の い _ か | に い | り ひ の く | も _ は あ
+c2 d2 c2 B2 A2 G2 | F10 z2 |
+w: す _ も ひ _ よ | り
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gyosen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFX5RSUZ-UBHF2RUWmVkFoMMSU7Mic9OzEtEKCrJSAV6DWxCAVCDEpeWlsKzPY0vOnYqaGlxKdoqmJtx2dsquHDZGOmb2IG0PdnR8GzR3GetfU92dL5s7lN4vn3F44auZ9M2ABkKTzf0P12749mChY-bdz9tXQNhKzydsvHZ2p5nU2c-mzvh5ey2xw3d7_d0PF2y_NnaxU97G5_s6nm6cwuE8WxOx_s9Pc-3LHo2e8eLmfMVDMyNTHVNDN_v6QQ7-dm09pfNK57PaQTa-HRD99MdOyAWQiwAmgtW9aJ91_PGxc937H0-d_HTXXNAamFOgShEd8Ps2UAHAL2DzXYFIzOw7Vz6Wgq21AJcCgoKT_vmg6zZ3P5iRdeLjnags16snPe0dQXQjyCXbeh91t6pEGBgYaKXVZD-qGEykGkKYoJcuGbNk11TQP7euUWhoEBPwdwCqMDcEujQ93tmgQx_sWr_s4blIGO7e4E-AYo-bu5-OXU7UBxouIsC0ONgZicwVhWAaoCGvmyY_3TXMoVHM1faAuMcZAgwph83ND5u7HjcNPlxU8vjps7HDZsfN2x93NDwonMVUNfTtROApj1u6n3cuPlxU_PjxrbHjdOBhj5unAsW3PG4cRnQBJBZz-bMfTZ9KUh1Y9PjxqmPGzeB1a17tmM9WHD_48ZVjxtXgASbJgEteLZnKlh8MlhZ39P2XWDuAjB35uOmnseNW4GJFCw4G-g-kHhDE9jry0AxCzQRbFYH1MkgW9e9nA20FSjV_7ipCayh4cnuLpizJgJNBJs-Geh8YPiABec_bmwBmwOyD2oB2Hc9qA4EOhkaMo8bu4Cmv-gAmgWU7X7cuAisYMXjpi4IF2QKOHR3ARNs4-OmNlC4AiVBAQxjA5UDg2DrqpfTgMYDjQEGDTCA9oFNWv1swjRwqLeBHQZxGyyYny-GBGcL0JEQ1Y8b1z_ftgkWVMBQABq07XHjWoj_n20CmwV0cyMwDUDVv2xfDFO_BOwauHr8AdzUgyEFDI7ux03A8AKS_UA3PuuFhBokontg4mBzgc6EuxHqlqam51shgkAPgfWABYHmvlw7CywOTEnAQF0FSUxg9ixYVECDeQfQ3dgT8fPeTc87V4KNAcqCEgjEhqfdoBwIthPoWqA7gSliOTSAn7YuhSUYoFnAsIGlY7SABCbixg2gAG6AKYZGCJCxHDXtTIAFNjAQCQYzMAj3b3zZ1AWWWg9ME48bgZrB4dLQ8HTZbmiWBEYcSApiQc-L_X3gFAOKDbDIDlDA40nN6IkbaD0w6Ahl-2fTIYG5HqgY7GhgsAMTJtgaystMKFDQ0uficq_ML07NswrITMzLd6gxqKkGWaFgY2imZQdmYSurFUCl5o6GFwt7FDRMQBXV8_UNOvACVhOLBqBNIMNqFEwVdIHQVMEYTOoCRQzjwEJAyhxImYHFkFUZgkWMgKQRkA-iDUAiYPN8DGuAod4BVg1MW0DcAmZ1gvXgkWnqhcjAQh3Mng4WA-mbC1bbC2TtAOJlQF48wk4jkH6QDoh5wKQLZoHMxyrTuAJq6iqonfuBeB-YtRpJD0RHD6Z9xmT6ES7TBGSvQ7avEayucSpEV-NyuH34Y3xXD_1j3AjMQ4_xJmhIAn3QuAnMAvkPJLMfKrMKGu7A0gMqMxkq0wfEC8CsmdDQ7wHztgLxbHCIYMQ2OLxAauZCwxCYMaGmwlwCitNtYNZaqAwo7kF8UCpC1bME7K4usA6IevTYhtoHVoPqPyRTwT4DFo1IcQpzIyR-QfEK8zmwbIT6EWEfgfzdSU5sg2ITFI8mQBIUl8DYRo9HYtQgxTU0Rps6oGwQCxH2oJABtkLAqRzqLyB_IjQsQP6F-B6Uo0Ey88G8FmhO24olrgnYB9YHjG2wKMy-bqh93UBxEBtYE0NlIGkQqAcoDhFFj2vc9oHSC6ikANZL0DQEsw-UgmByEP-B0jAoLTfA3AEqucBuISKuga12SnI2OD-DsjIsas3AUpCoxZ6xjYEQW2SDogkWyBCPwbIvbhlolgAXc-DAb1yEEvigTAQKEJAoemQjZ19wJgUnI-TstAJDZioissFFOiJzQmyfBZWbhSWycfsCVjxNgiYARIWCv6oCJxKgWmATAchDVB21XFy6dgqQ2l0ByFLmAgA)]
-- [鋼琴伴奏 TMD 檔案](gyosen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgrP9jS-6Nj5fk_Hy9kzn3V2v-ze83zClid7tjxd2v9-T6eClhaXoq2CuRmXva2CC5eNkb6JHcjsJzsani2a-6y178mOzpfNfQrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKEbaOnTJcufrV38tLfxya6epzu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18QQ6Bywv55Na3_ZvOL5nEagjU83dD_dsQNiIcQCoLlgVS_adz1vXPx8x97ncxc_3TUHpBbmFIhCdDfMng10ANA72GxXMDID287lXplfnJpnFZCZmJcf5OFQY1BTzaUABDaGZlp2YJa-loItOlB4vmYNMMReLOxR0DABBc_z9Q06CgEGFiZ6WQXpmlg0aOmDDatRMFXQBUJTBWMwqQsUMYwDCwEpcyBlBhZDVmUIFjECkkZAPog2AImAzfMxrFF43NgBVv24aTIQt4BZnWA9eGSaeiEyjZsfNzU_bmwDs6eDxUD65oLV9gJZO4B4GZAXj7DTCKQfpANi3uOmLjALZD5WmcYVUFNXQe3cD8T7wKzVSHogOnow7TMm049wmSYgex2yfY1gdY1TIboal8Ptwx_ju3roH-NGYB56jDdBQxLog8ZNYBbIfyCZ_VCZVdBwf9w0CSozGSrTB8QLwKyZ0NDvAfO2AvFscIhgxDY4vEBq5kLD8HHjeqipMJeA4nQbmLUWKgOKexAflIpQ9SwBu6sLrAOiHj22ofaB1aD6D8lUsM8eN25AilOYGyHxC4pXmM8fN06A-hFhH4H83UlObINiExSPJkASFJfA2EaPR2LUIMU1NEabOqBsEAsR9qCQedzYD07lUH8B-ROhYQHyL8T3oBwNkpkP5rVAc9pWLHFNwD6wPmBsg0Vh9nVD7esGioPYj5v6oTKQNAjUAxSHiKLHNW77QOkFVFI8btwJTUMw-0ApCCYH8R8oDYPScgPMHaCSC-wWIuIaWFdQkrPB-RmUlWFRawaWgkQt9oxtDITYIhsUTbBAhngMln1xy0CzBLiYAwd-4yKUwAdlIlCAgETRIxs5-4IzKTgZIWenFRgyUxGRDS7SEZkTYvssqNwsLJGN2xew4mkSNAEgKhT8VRU4kQDVPm5qBPIQVUctauXug7VyB-Y8kGoQjDaMhbKQBU3jsYkiKTWNh4mCpRHxSVOjTfCbglCPQyUxrjaFMZANweoTQm4GRoWunQIkNqJ9DGPBNiGJGGGIGMNFlLkA)]
+- [主旋律 TMD 檔案](gyosen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9BzahAKgBXSIzL6W0uKSoUolLS0vh2Z7GFx07FbS0uBRtFQxNDLjsbRXcuGzM9C3sQNpA3rdSeDZtw_PtKxSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W3v93Q83dD9dMeO58snPtk1Bax0LVDp051bnk9Z8X5PJ9g5T3Y0PFs091lr35MdnS-b-xSAxj9u6CLFnscN3SCrlix_tnbx097GJ7t6gDZAGM_mdLzf0_N8y6Jns3e8mDlfwcDcyFTXxBBsN5e-loIttQCXgoKCnUK0op9_iGsshKOl9bRvPsjeze0vVnS96GgHuvnFynlPW1c8m9aupQUOnd5n7Z0KCaD0o5dVkJ7wqGEyiGMI5gAdDjFAoUBPwcjMCChpZGb8uGEKSIXCywWNzxftebFqydPeDc-bdikYgqSmgvTgCvI1axQMLRVeLpsG9P37PbMgjtQFOvPFqv3PGpaDHNjdCwwkkNNmPW6eARQGagaKPV07AehYNwVgCAPFFIAJQgEoCjal5-XMlpe75z2dPftpR9vL-Zufr1mm8GjmSj0FWwVzA6Cm57N3PJ-67dm0PU9bVyOrWAVUYGQIVNET4uuigKz96fxdz3ZNU0iApEFgIHQiHPpsRdOz2Zueb53wbHk32JVP92x8sXU7MJE8X98Asg3oRTOQ25BtAymYshFoztOuBcBQAiUpoOqn64DpZwvQwKf9Sx83ND3bvOJZS_-zOWuA5gMNetwATDlzHzeuetzY93T34seNvc-2bn_cuO7Jjq7HjasfN4A8Dwqvae0vm1c8n9MITLCQYIekV0j6BCZLI30TkHMeN3RAMtfjBmCYgUx_3NjxuGny46aWx02dyOwXnasgAf64ce7jpt7HjTseNy6D2AeM5KcTep5O6H0-dQPQlUBHIwIGmE5erJ0DTAlPO7Y_7QbG3BJw8EAUKCgY6imAgsYU6ndISAFzx4uFPeBUoQAJDZhsJ0jQSOH51haoW4DubV7xuLnl_Z7-x439j5u6wS7qASaw59tnAS1WyErNSSxWgKRElLTgbAq0LMEUFI3P-paiJAI3sJRhHEgOZNiO7mfTdj7fsBBo3rM9_UCzFMD6ep6tXfJi5tQn--bCrQOG_NO1059N3fFi8Zyns-eB1MFDQ0HBCOJZQ6CvkH27oxPqW2NsvgUGTUM3SqqZCcpLcCtB_uoFZuMZoELk0cz1biYgx5uoY3E8KEtuaIerBnrkyd45EKOf7Jn4bO0ioOlYvQUs2YAFGCgvgwyG-QhWlgCLyccNjcDCGcwHpk5QQmpsetwIdCcwCUFTKlhwEzDlgAWBCa8BmHDBgm2PG_eDBUGJGCayAyyyGmImMIgeNy4BRh-QfLZ1HUwNsGwFim-DGPV08WqYvfsgpgGDEZiwQYJNk0DKGtfCs-zLdoh7loBUNgHT_Hxg0nm5dhbU5KZJYBPWA01-shfoC6Ag0BdA84GCKyDsx43zoEZtAFvR2A00Daax--X62WDB-UAvQ0SARr3csAvmwkUwZcASDygy9XHjBpgytLDdBcys8LB9umTqy0XA6gnoI6D3t4ItnQPWOPVxUwM0VDcDDYc4GEeoNk2CmPa4cTIwaiDZBhpQIDNBoQQuShpeLFsFzGNAJzzZBXF5F6goAOkCKgOGGNBYaHgCCwewqyCRuw6YUF-ungHVAgoxYDhAIms60NjnvZued64EywK1AEMDGKFAKaDJQO9AY_xp69Jn05eC1QALH6AhkGBc9xJSCILc3ASPo2cz-mCKgabNBPuxCSjydFIPLNUBLQK5Fhq8lFeqUKCgpc_F5V6ZX5yaZxWQmZiX71BjUKNQDbJDwcZCCxyNCtgqcwVI_QAsL8AlQAOwBFDQMIGWCzoKsJpWE4tOoJUgU2sUDODQEMgzBBa3xsDSQlfBMA7IBTFAAkAukGcCpE2A0BSIa8CiEAiUAxvmY1ijEA-Hj5sWAVU9btoKVPG4uQvIWgdmTQKJNq8F63zcBKIfNy0Di80Hy_eB-SDWDLBoN9wekAqoTUaoNrWBVDaCbWrsBuI5YNZUsP0NEL2NvWByFVjlfjB7HRC3gVk7wConIWxqnAy0CXe4w6sXkoMbbwAbAWkjIDQGYohSCDRGCmBgNQUOihUwFiTwmlZDg2gaWAwc9M3zYAHavAkqBxIFBQQsQFuQAhSYjcFe7wfqBwU6KEBBotCoagTZAMyKYNvANgMDCRbowIgBinYhTG7qJRiA4BqL5AAEJUJQ-BiDEyFS-IGCE0iYA1tIZgom6kjS6Gn0cfMasBP3A1lgT0HTHyiQQIHSDybBHgWnvsfNHWA-iNUN9ug-JI-uRglCcBoHBhKwwEIEDDBNQoJwOpjsAJvRBE-DkMAEmwwOZFgaBEUO3iAE1mVUSINAwgzIBgWsGTjMzMA5HD0RGmBJhJugCQ8UliBRSA6CiUESIdifQBFYSTABKbmCYDxy-IGTELCshYdkPzysQLz1YLIJHFIzweY2gVWDWJBQRSRBkLm1XFy6dgqQojXaxzBWAYlnBOYpcwEA)]
+- [鋼琴伴奏 TMD 檔案](gyosen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJkbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqswFYVAE1Gl8jMSyktLimqVOLS0lJ4tqfxRcfO93s6Xs6e-ayz-2X3nucTtjzZs-Xp0v73ezoVtLS4FG0VDE0MuOxtFdy4bMz0LexAxoHCz0rh2bQNz7evUHi6of_p2h3PFix83Lz7aesaCFvh6ZSNz9b2PJs689ncCS9ntwGteLqh--mOHc-XT3yyawpY6Vqg0qc7tzyfsgJoF9iZT3Y0PFs091lr35MdnS-b-xSAxj9u6CLFnscN3SCrlix_tnbx097GJ7t6gDZAGM_mdLzf0_N8y6Jns3e8mDlfwcDcyFTXxBBsN5d7ZX5xap5VAChggzwcagxqFKq5FIDAxkLLDszQ11KwRQcKT_dsfLF1-4uO9udr1gAd_2Jhj4KGCcilz9c36CgAE5OhXlZBuiYWnVr6YFNrFAzg0BDIM1TQVTBWMAWShnFALogBEgBygTwTIG0ChKZAXAMWhUCgHNgwH8MahXg4fNy0CKjqcdNWoIrHzV1A1jowaxJItHktWOfjJhD9uGkZWGw-WL4PzAexZoBFu-H2gFRAbTJCtakNpLIRbFNjNxDPAbOmgu1vgOht7AWTq8Aq94PZ64C4DczaAVY5CWFT42SgTbjDHRTcu3rICW68AWwEpI2A0BiIIUoh0BgpgB83t4CDYgWMBQm8ptXQIJoGFgMHffM8WIA2b4LKgURBAQEL0BakAH3c2Af2ej9QPyjQQQEKEoVGVSPIhseNXWDbwDYDAwkW6MCIAYp2IUxu6iUYgDs6yQlAUCIEhY8xOBEihR8oOIGEuYIZEJqoI0mjp9HHzWvATtwPZIE9BU1_oEACBUo_mAR7FJz6Hjd3gPkgVjfYo_uQPLoaJQjBaRwYSI8bVyACBpgmIUE4HUx2gM1ogqdBSGCCTQYHMiwNgiIHbxA-nT2bCmkQSJgB2aCANQOHmRk4h6MnQgMsiXATNOGBwhIkCslBMDFIIgT7EygCKwkmICVXEIxHDj9wEnrcCDQXGpL98LAC8daDySZwSM0Em9sEVg1iQUIVkQRB5tailqw-WEtW5DIQ6EkFw3ig7mjDWAQDu5gJmGkSi2Cgq4MFGfFmmsaD2abxschM3OYSpx5ithGYaRSLYGDRj9_J2LxMvJOBsaFrpwCJkGgfoAwSD-gaIE-ZCwA)]
 
 ## 分析
 
@@ -95,29 +90,30 @@ w: 3.~そ れ こ げ | こ げ よ や | ろ びゃう _ _ | は や め て
 ================================================================================
 📊 TMD Song Profile: [ 漁船 ]
 ================================================================================
-⏱  Duration:       0:25 (25.3s), 16 measures total
-🎼 Key & Tempo:    首調基準 D, != 76.0 BPM, <2/4>
+⏱  Duration:       0:43 (43.7s), 34 measures total
+🎼 Key & Tempo:    首調基準 F, != 140.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Gyosen #1 @ m.3, 0:04]
-   - 最高音: D5 in [Gyosen #1 @ m.2, 0:01]
+🎤 人聲音域:    F4 (MIDI 65) – F5 (MIDI 77) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  F4 in [Gyosen[L1] #1 @ m.1, 0:01]
+   - 最高音: F5 in [Gyosen[L1] #1 @ m.2, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Gyosen (25.3s)
+🏛  結構:      Gyosen[L1] (21.9s) -> Gyosen[L2] (21.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, F#, E, B
-   - 調性數值:    D 大調 [相關度: 0.91, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.91), A 大調 (0.82), F# 小調 (0.68)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  F, C, A, A#, G
+   - 調性數值:    F 大調 [相關度: 0.98, 穩定度: High, 自然音純度: 99.0%]
+   - 候選調性 (K-S): F 大調 (0.98), A 小調 (0.61), C 大調 (0.58)
+   - 五度圈歷程:   -1 -> -1
    - 各段落調性細節:
-     • [Gyosen #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [Gyosen[L1] #1]: F 大調 (r: 0.98, 自然音純度: 99.0%, 調外音: B)
+     • [Gyosen[L2] #1]: F 大調 (r: 0.98, 自然音純度: 99.0%, 調外音: B)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
-      Bb              [D ]*
+        [F ]*          G  
+      Bb               D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -125,21 +121,21 @@ w: 3.~そ れ こ げ | こ げ よ や | ろ びゃう _ _ | は や め て
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  :                            0.0%
-     C# : █████                      5.1%
-     D  : █████████████████████     23.7%
+     C  : ████████████████████      24.0%
+     C# :                            0.0%
+     D  : █████                      6.2%
      D# :                            0.0%
-     E  : ███████████               12.7%
-     F  :                            0.0%
-     F# : ██████████████            16.1%
-     G  : ███                        3.4%
+     E  : █                          1.0%
+     F  : ████████████████████████  28.1%
+     F# :                            0.0%
+     G  : ██████                     7.3%
      G# :                            0.0%
-     A  : ████████████████████████  27.1%
-     A# :                            0.0%
-     B  : ███████████               11.9%
+     A  : █████████████████         19.8%
+     A# : ███████████               12.5%
+     B  : █                          1.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 64 個音符)
+  - Piano         : F4 – F5 (12 個半音 / 1.0 個八度, 120 個音符)
 ================================================================================
 ```
 

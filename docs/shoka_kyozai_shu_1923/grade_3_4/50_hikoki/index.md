@@ -1,11 +1,11 @@
 ---
 title: "飛行機 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年"
 song_title: "飛行機"
-description: "〈飛行機〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　アレアレ アガル、ヒカウキ ガ。 オホキナ トビ ガ トブ ヤウダ。…"
+description: "〈飛行機〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：A 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "飛行機, 新編 小學校・公學校 唱歌教材集, 尋常科 第三、四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）"
-musical_key: "F"
+musical_key: "A"
 image: "P228.jpg"
 audio: "hikoki.mp3"
 ---
@@ -16,40 +16,32 @@ audio: "hikoki.mp3"
 
 <audio controls src="hikoki.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 臺灣總督府《公學校唱歌》第一學年用（昭和九年三月第一版、昭和十一年二月第四版，索書號 0729 73）
 
 ## 說明
 
+> [!NOTE]
+> **原書資訊與歌詞全文（對應 P228.jpg–P229.jpg，原書第 220–221 頁）**
+> - **調性與拍號**：イ調二拍子（A 大調 2/4 拍，五線譜記三個升記號），♩= 92。
+> - **曲風與構造**：全曲共 16 小節（單段歌詞），以五聲音階（`3_ 5_ 6_ 1 2 3`）急促流暢的八分音符進行，生動捕捉飛機在天空中高速飛來、轉瞬又飛向遠方，催促同伴「若不馬上抬頭看就要躲進雲裡去了」的臨場驚奇感。
+>
+> **歌詞全文**
+> あれ　飛行機（ひかうき）が飛（と）んで來（く）る
+> あんなに早（はや）くとんで來（く）る
+> もう　あれ　あそこに　飛（と）んできた
+> 今（いま）すぐ見（み）ないと　かくれます。
 
+### 編曲說明（鋼琴伴奏版）：
 
-- 出處：臺灣總督府編《公學校唱歌》第一學年用，第十二課〈ヒカウキ〉（飛機），原書第 24–25 頁（掃描檔 P028.jpg–P029.jpg）。
-- 調性與拍號：ヘ長調（F 大調五聲音階），2/4 拍，速度 != 120。
-- 背景與曲風：與《新定兒童唱歌》第一學年用第三學期第四首〈ヒカウキ〉同曲同詞（本書第 5 小節第一拍記為兩個八分音符「オホ／チイ」）。描寫飛機如大老鷹（トビ）、小蜻蜓（トンボ）般飛上雲端與太陽旁，展現學童渴望搭乘飛機翱翔天際的嚮往。
+1. 前奏 (Intro, 4 小節)：引用結尾樂句「今すぐ見ないと かくれます」，以輕快緊湊的節奏描繪飛機掠過天際。
+2. 主歌伴奏 (Hikoki, 16 小節)：右手演奏主旋律，左手配以輕快推進的二拍子和弦伴奏。
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第一學年〈ヒカウキ〉為同曲；《うたのほん》下卷〈ひかうき〉與《新定兒童唱歌》第五學年〈飛行機〉為同名異曲）
-
-- **[同曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈ヒカウキ（飛機）〉**](../../../kogakko_shoka/grade_1/12_hikoki/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_1/12_hikoki/hikoki.tmd)）
-- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ヒカウキ（飛機）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/hikoki.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）：[**〈飛行機〉**](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md)（`G` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/hikoki.tmd)）
-- **[同名異曲]** 《うたのほん》（唱歌課本）下卷（2006.006.0878）：[**〈ひかうき（飛機）〉**](../../../utanohon/ge_2006.006.0878/10_hikoki/index.md)（`C` / `2/4` — [原始 TMD](../../../utanohon/ge_2006.006.0878/10_hikoki/hikoki.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-一　アレアレ アガル、ヒカウキ ガ。
-オホキナ トビ ガ トブ ヤウダ。
-ズンズン アガル、クモ ノ ウヘ。
-ノッテ ミタイ ナ ヒカウキ ニ。
-
-二　アレアレ アンナ ニ ヒカウキ ガ。
-チヒサナ トンボ ガ トブ ヤウダ。
-ダンダン チカヨル オヒサマ ニ。
-アンナ ニ トンダラ ユクワイダラウ。
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -59,28 +51,24 @@ X:1
 T:飛行機
 M:2/4
 L:1/16
-Q:1/4=120
-K:F
+Q:1/4=92
+K:A
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-c3 A c3 A | F2 G2 A2 A2 | c3 d c2 A2 | G6 z2 |
-w: 1.~ア レ ア レ | ア ガ ル _ | ヒ カ ウ キ | ガ
-w: 2.~ア レ ア レ | ア ン ナ ニ | ヒ カ ウ キ | ガ
-c2 c2 A2 G2 | F2 G2 A2 A2 | G3 A F2 D2 | C6 z2 |
-w: 1.~オ ホ キ ナ | ト ビ ガ _ | ト ブ ヤ ウ | ダ
-w: 2.~チ イ サ ナ | ト ン ボ ガ | ト ブ ヤ ウ | ダ
-D3 C F2 D2 | G3 G G2 G2 | F2 A2 c3 d | c6 z2 |
-w: 1.~ズ ン ズ ン | ア ガ ル _ | ク モ ノ ウ | ヘ
-w: 2.~ダ ン ダ ン | チ カ ヨ ル | オ ヒ サ マ | ニ
-d3 d c2 A2 | c3 c A2 F2 | G3 G A2 G2 | F6 z2 |
-w: 1.~ノ _ ッ テ | ミ タ イ ナ | ヒ カ ウ キ | ニ
-w: 2.~ア ン ナ ニ | ト ン ダ ラ | ユ クワ イ ダ | ラウ
+c2 B2 A2 B2 | A2 F2 E2 z2 | C2 E2 F2 A2 | E6 z2 |
+w: あ れ ひ か | う き が | と ん で く | る
+C2 E2 F2 E2 | A2 c4 A2 | B2 B2 B2 c2 | B6 z2 |
+w: あ ん な に | は や く | と ん で く | る
+c2 B2 A2 F2 | A2 B2 A2 F2 | E4 E2 C2 | E6 z2 |
+w: も う あ れ | あ そ こ に | とん で き | た
+F2 E2 A2 F2 | A2 c2 c2 A2 | B2 B2 B2 c2 | A6 z2 |
+w: い ま す ぐ | み な い と | か く れ ま | す
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hikoki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBlZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFX5RSUZ-UBHF2RUWmVkFoMMSU7Mic9OzEtEKCrJSAV6DWxCAVCDEpeWlsLLxbNfLOx5tnK-gpYWl6KtgqGRAZe9rYIbl42RvokdSOuTHQ3PFs191tr3ZEfny-Y-hefbVzxu6Ho2bQOQofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnvc0P1-T8fTJcufrV38tLfxya6epzu3QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18Tw_Z5OsLNftO963rj4-Y69z-cufrprDtBeuCUQO4BGP1-zBuhEoCDQ0OdTVgBtejZj7dNJPU92zgWKAB0NtAOi5nlnx-OGRogsyHqgLqACsCOACp7Ong1UgO4aSwVzY7BruPS1FGypBbgUFBQeN0x4NnvT89nrXqxa9WxG3-OGiWBRYDi273oxc-r7PbPQfA8JeCICoAfkG3Dwvli16XFDx-PmSY-bVj9uWva4ae3jhk5gCAFjHRjlQH8BFT_tmw_0LlCLgpHJo4bJRqYKLxc0gkKxr_lZf_-zVVMUAgyMLPSyCtKBskCmJYgJ1Pq4oQnq4Ber9j9rWP6io_1Zdy8w2IAuf9w84-XU7UBxoDluCsCYBzKf7JryonHTy_mbX87qg9gMTGEKQC1A1suG-U93LVOApD8kg5t7ns1cDzJ49qaXi4A-mwVkQxLf03WznrZOer56Ka5gAHM7QUE1Zz4kdl8um4YZGE8n9AANB5IvVs4DeXrOGmhgmILS9vP1DRBjQT5bMeN5066nrSufNnQ_bV39tKMN6Jfna5Y9buh53LTqcfPs93v6Hzc3Pm5a8rgB6CdQ-ADD7-n61ZDAfrqsCRQODY0vt-8EWvS4GYgmg5U1Ai16MWf3izlALkR88-PmOUCpFx1rgHqf7Oh6CUwnq0Hh8HTJqpcz9z6bDoyfnqcbpz7v3wf0IDAQnu3Y8mzO7GcT1j7ZOQNi3fP9G5_vn_J0ycqXs2Y_n9XydNa6p_saQCELTXqQWAeGHNDfT1tXPJvWDjT-yY61IMaqeS_WrgemR1Cm3dD7rL0TlAKg0Q5NLgoFegpGpkA3gs0DBtDjhobHTYseN6-BkAogqmnN4-bVQP8hBzlQYg0sgsGhBoqG5i5gbIPCAyQLYU4DUktAWprBrgYr3wUKGTCJanzT-sfNi4Dq-4DCQA0z4Amo73Fz8-PmNiBr_uOm_cCYAbJAViE7p7kbqhzoW4jPgcns-ZzupxMbICQkCp727X6yqw2UVMHBiywI1P90w8anzf1Pt68ARjEwtCGx_HTOCqAyYCyA0s-KxUBlT3b0Ppu2_emcDcC4AGnvbQcFaG_7044NwCh-unHJk53dQHGgyudz5j9r3vx07gQggjgDpHLuBFBiaFr8bN42iDOAKuFxsAuYCTDjAJSWQF7uRvM2IhaASRYksxUeC6DUhzcigCyQIhAJ1g40tXkFMC4gMQoxax5SyKK7A2IHUPtKIAfoHGD0rQdlG7AQyCqCEfJ033RgMLzctedl4wJQnKAGCTQ2gFUTMAcDYwOctzBj49meHUAEjI2Xcxe82D8RkrdAxWvrGmisLmt6Nm_Oi-a9IPNXLIZoBxm4ciPQUlBhAyyE9nU8a-l8un_10wnLobEBdDrlNQQUKGjpc3F5ZGbnZ2daBWQm5uU71BjUVIOsULAxNNOyA7Ow1UwKkHILWLcraJhAizIdeEmuiUUD0CaQYTXAkk8XCI3hdI2CIZA2ArMhGKbGDExDREDyMGgAEgGb5mNYA4p-sCg0ScLZMBlQUgOJrIbqBoo3T4KoagKlqWVg1lqIDFgtDMYj7DEiwh5gcgWRXWCymwyb8Ic2sLolM7RhoQgKQ2yhDQlbY7CMGdgpCqYgCld4rwL7cDbcNxA_g3zbAeZNhoc6LLxB4iAZcG4Hy4LCAiTTgDu8mxvBKiHqt2KxBxLec-C2kWoTgdTdSU54g8MPGOTxyKEJCWAjMI2IBFDgwxI6LMljD_BdUE-BKiYQG-J1pCQJLk2REnjTerAqSLLsg6pZBg6GGXgCHBJEkHIXxIbbA44KaDJuXgGWAdmGSAygZA6JJBBvHlgPKAuQEODAJhRZAQ4NQURRAQlJUzAPFM6I8EfNBDhCGxpeIH80g8k2aBjMh4bBfliihCdHnJkcSxhgFieg0EYtNGCJGBEPK6EyINNB5oPqNLgzQEpAkqDKDcO-Wi4uXTsFSBmvAGQpcwEA)]
-- [鋼琴伴奏 TMD 檔案](hikoki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBlZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgovF89-sbDn2cr57_d0vJw981ln98vuPc8nbHmyZ8vTpf3v93QqaGlxKdoqGBoZcNnbKrhx2Rjpm9iBzH-yo-HZornPWvue7Oh82dyn8Hz7iscNXc-mbQAyFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbY8buoG2Pl2y_NnaxU97G5_s6nm6cwuE8WxOx_s9Pc-3LHo2e8eLmfMVDMyNTHVNDIHuAfvtRfuu542Ln-_Y-3zu4qe75gDthVsCsQNo9PM1a4BOBAoCDX0-ZQXQpmcz1j6d1PNk51ygCNDRQDsgap53djxuaITIgqwH6gIqADsCqODp7NlABeiusVQwNwa7hssjMzs_O9MqIDMxLz_Iw6HGoKaaSwEIbAzNtOzALH0tBVt0oACxGhj2ChomoOB6vr5BRyHAwMhCL6sgXROLBi19sGE1CqYKukBoDKdrFAyBtBGYDcEwNWZgGiICkodBA5AI2DQfwxqFx02LwKKPm9egsGEyj5vWgEVWQ3UDxZsnQVQ1rQbiZWDWWogMWC0MxiPsMSLCnubNYLILTHaTYRP-0N7VQ25ow0IRFIbYQhsStsZgGTOwUxRMQRSu8F4F9uFsuG8gfgb5tgPMmwwPdVh4g8RBMtOAeAlYFhQWIJkG3OHd3AhWCVG_FYs9kPCeA7eNVJsIpO5OcsIbHH7AII9HDk1IABuBaUQkgAIfltBhSR57gO-CemozlA3xOlKSBHofJYE3rQergiTLPqiaZeBgmIEnwCFBBLYHzIbbA44KaDJuXgGWAdmGSAygZA6JJBBvHlgPKAuQEODAgoqsAIeGIKKogISkKZgHCmdE-KNmAhyhDQ0vkD-awWQbNAzmQ8NgPyxRwpMjzkyOJQwwixNQaKMWGrBEjIiHlVAZkOkg89c_bl4PdwZICUhyJcR2VPtqUYt4H-Qi3gJawtcoRBvGAlVDSAI803gQAxRsEM_AFUAkcKiPNoHJYtEPkUNXgm6gCTIPVT9B56KZBdENDBpdOwVI6ET7gCQQPCMwT5kLAA)]
+- [主旋律 TMD 檔案](hikoki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBlZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9BzahAKgBLAHyh5XCs2kbnm9fofB0Q__TtTueLVj4uHn309Y1ELbC0ykbn63teTZ15rO5E17Obnu_p-Pphu6nO3Y8Xz7xyY5OkNLZs4FKn-7c8nzKivd7OpW4tLQUXi6e_WJhz7OV8xW0tLgUbRUsjbjsbRUcuWyM9E3sQBY_2dHwbNHcZ619QDNeNvcpAO1_3NBFikMeN3SD3LJk-bO1i5_2Nj7Z1QN0AoTxbE7H-z09z7csejZ7x4uZ8xUMzI1MdU0MwY7j0tdSsKUW4FJQULBTiFb08w9xjYVwtLSe9s0H2bu5_cWKrhcd7UA3v1g572nrimfT2sGB1_usvVMBlEz0sgrSHzVMBjItQUygkyFan69Zo2BkZACUMjIyVHi5oBHocGAwgo3XBVrwYtX-Zw3LQUZ39wK9p6X1fs-sx01LgMIgv3f3Pl07AWiRowIwbIBiCsAgVwCKAo1_smvK8-2zXqyd82LFDGC4P23oftoLdOUMoCFAK4AKHs1cCYqrxw1NCNuezd70ctEKkG3Lu182LADbBvLN7E1PWzcqGJqBYuv5-gaQ16ate7ZuK8S_EPOe7F4KtPNF46aX8ze_nNUHVJNgHK9gGq9gFq9gqGCkYJwAVPesYemT_c3PtjY-m7Xo-ayWp62rn3a0ATU8X7PsZcMmYDICxeWU-U-7pz7rBaJOYNoCJqync1Y8XbLy-cpdT3asfbl6xsuG-UDxJ_uAyaLxxd7O5_PWPO3vAIo8nTDxZeOCZ9N2gkK3aQ3QoqcTep7s2fK4oedF99InO3pfLlvzZEfXs641LxesfT6n--mGjS-WNb7YtQlo9cvZm14sXvi0b_eTXUBje4Fue9G-4umCLS9Xznq6tP1Zy3xYOMFiHjmqYRH2uLHpcVPP44YGeJYAhsLjxk2PG7sfN7Y9bgTGS-fjxh6gLFgclIMeN01-3Lgc6BewSD9YpBvJNKDsqseNq59NXwlWsP5xUwvYkH6gdnx6m5pANjY0wJ0EYjTOfdwI1LIa4kI0NwCd97hxPkT7k91dYNmWx437wNbNfNw44cUyUCZ83LgfLAJ0FVAWmJGBJgN91w-ypXEfSCUkoCjPcFCgoKXPxeWRmZ2fnWkVkJmYl-9QY1BTDbJCwcZCCxwfCtjyuQIwawFLHmA8KGiAcpkhMI-ZQBOwDihPgjOiJhaNQAtBhtYoGAOTLSjp1gBJYCoGpmUDkCgiVdeAWLpACBQH6_GpAUUbMPh7gPQmIO4GqgHGBBD3AnGPQjyYvwKoYjKQXg7E_SCRpm6wMUBZLvwe2tUD95Ap0EMWJHoI5nQgCfKUMdBOkC-MwNAYzMLqHZBjVwHxarDz1wNFWoDKoI6nwDs7OuHesQR6x9CInAgC-gfkGTgTHCdAAuhbrBHUBPQROEogEQX1Y-NcIAb5AuJHUO4CexHkqV6w0HziPAWsIxGJzhjkK1i5SaSvIPED95cxEKJGkiFmJLUA8T4gngnEE8Cu3Q-NMpDMCrBINzh6IGlzH1hkJtxHtVxcunYKkGymAGQpcwEA)]
+- [鋼琴伴奏 TMD 檔案](hikoki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBlZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsTACkH-slJ4Nm3D8-0rFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbe_3dDzd0P10x47nyyc-2dEJUjp7NlDp051bnk9Z8X5PpxKXlpbCy8WzXyzsebZyPlD5y9kzn3V2v-ze83zClid7tjxd2g9UpaClxaVoq2BpxGVvq-DIZWOkb2IHctCTHQ3PFs191toHNPtlc58C0F2PG7pIceDjhm6QG5csf7Z28dPexie7eoBOgzCezel4v6fn-ZZFz2bveDFzvoKBuZGprokh2NFc-loKttQCXAoKCo8bJjybven57HUvVq16NqPvccNEsCjQ5e27Xsyc-n7PLKr4FW9k9Dxfs0bB1EDh5bJpjxs64JHyuKETKPe0bz4wHEAqjIwMHjVMNjIyVHi5oBEYeKA0rZdVkA4UBDItQUxgGD1uaIL64MWq_c8alr_oaH_W3QsMR6BXHjctAQqCgri79-naCUAzHBWAUQAUUwDGrAJQFGgA0M6XDfOf7lqmAI55hHlA_wKDChJOoASDlFSedwKjDKhzFkipgoKhnsLTzl6guIKGZ15JUb6OggkopJ6vb9AEqnm6ZyrQ28-3Tni6Yd-zFU1P-5c-buh5srvrcePMx40TXizrfty46nFjy-PGFQqPG4Gc_sdNPY8b94GkG4AOBCpd-mLP1Kf7Vz_f3vVsZ9fzWS1Ag4GWPevvf75zFTD4gGH3rG_By8a-p0tWvpw1G-oDBQUjPYUnO3YDYwbiaAUNj8zs_OxMHQVDM2Tn9W8GZoRne6YAlYCUT-9-ug-YVnuebl8GyiCtvXD7n_WteNmwCWg_PESfTup5umcZxHiotZQnUyhQ0NLn4gIHp1UAqJwI8nCoMaipBnvNxkLLDsyoUTCLVzCNVzAE0TVAyhgIDYEsIzA0BovpAqGBQg1XLYp5PtjNM4mPV4g2iY9VMATShrEgAyAMON8UpMIUqALOQFYDtQgS1Hhcji1jKwCTPTD7AbODggYoBxgCkzosJekowBK9JhaNwLCCON8Y6GtDIAb5GxI0QAcpGINZQD4oaIAsWIiA9PjUAJNdkwIw0QHpTaAkCFTzuLENiHuBuEcBFLDgxNk0GUgvB-J-kEhTN9gYoCwXfg_t6oF7yBToIQsSPQRzOpCERLAuWgQbYfcOyLGrgHg12PnrgSItQGVQx1PgnR2dcO9YAr1jaEROBEFTK5wJjhMgAfQt1ghqAvoIHCWQiIL6sXEuEIN8AfHjCpCXQF4EeaoXLDSfOE8By2dEojMG-QpWQhDpKxJyITySWoB4HxDPBOIJYNfuh0YZSGYFWKQbHD2QtLkPLDIT7iO0XIYjP0NzJmZeBYmA8gaUawZSYBafi5HDYW6Gq4SXEMQVDfgNQ7YWtxB2CxCGUanQ0rVTABeQCkAGJGhBLGUuAA)]
 
 ## 分析
 
@@ -88,51 +76,51 @@ w: 2.~ア ン ナ ニ | ト ン ダ ラ | ユ クワ イ ダ | ラウ
 ================================================================================
 📊 TMD Song Profile: [ 飛行機 ]
 ================================================================================
-⏱  Duration:       0:16 (16.0s), 16 measures total
-🎼 Key & Tempo:    首調基準 F, != 120.0 BPM, <2/4>
+⏱  Duration:       0:20 (20.9s), 16 measures total
+🎼 Key & Tempo:    首調基準 A, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Hikoki #1 @ m.8, 0:07]
-   - 最高音: D5 in [Hikoki #1 @ m.3, 0:02]
+🎤 人聲音域:    C#4 (MIDI 61) – C#5 (MIDI 73) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  C#4 in [Hikoki #1 @ m.3, 0:02]
+   - 最高音: C#5 in [Hikoki #1 @ m.1, 0:00]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Hikoki (16.0s)
+🏛  結構:      Hikoki (20.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, G, A, F, D
-   - 調性數值:    C 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.86), F 大調 (0.70), A 小調 (0.63)
-   - 五度圈歷程:   +0
+   - 核心骨幹音:  E, A, B, C#, F#
+   - 調性數值:    A 調性不明確 [相關度: 0.82, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 大調 (0.82), E 大調 (0.79), C# 小調 (0.59)
+   - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [Hikoki #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Hikoki #1]: A 調性不明確 (r: 0.82, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-              [C ]*
+               C  
          F            G  
       Bb               D  
-      Eb               A  
+      Eb              [A ]*
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  30.8%
-     C# :                            0.0%
-     D  : ████████                  10.8%
+     C  :                            0.0%
+     C# : ███████████████████       18.6%
+     D  :                            0.0%
      D# :                            0.0%
-     E  :                            0.0%
-     F  : ████████████              15.0%
-     F# :                            0.0%
-     G  : ███████████████████       24.2%
+     E  : ████████████████████████  23.7%
+     F  :                            0.0%
+     F# : ████████████              11.9%
+     G  :                            0.0%
      G# :                            0.0%
-     A  : ███████████████           19.2%
+     A  : ████████████████████████  23.7%
      A# :                            0.0%
-     B  :                            0.0%
+     B  : ██████████████████████    22.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 52 個音符)
+  - Piano         : C#4 – C#5 (12 個半音 / 1.0 個八度, 49 個音符)
 ================================================================================
 ```
 

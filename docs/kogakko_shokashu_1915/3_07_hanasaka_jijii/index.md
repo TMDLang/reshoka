@@ -28,15 +28,6 @@ audio: "hanasaka_jijii.mp3"
 調性與拍號：ニ長調 2/4 拍子，♩= 84
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌集》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》跨冊對照曲目）
-
-- **[同名異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈花さかぢぢい〉**](../../shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md)（`G` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/hanasaka_jijii.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈花咲爺〉**](../../shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii/index.md)（`G` / `2/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii/hanasaka_jijii.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈花咲爺〉**](../../shoka_kyozai_shu_1923/grade_3_4/09_hanasaka_jijii/index.md)（`D` / `2/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_3_4/09_hanasaka_jijii/hanasaka_jijii.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

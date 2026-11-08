@@ -1,7 +1,7 @@
 ---
 title: "一年生 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
 song_title: "一年生"
-description: "〈一年生〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ボクハ　ジンジヤウ 一ネンセイ…"
+description: "〈一年生〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、僕（ぼく）は尋常（じんじやう）一年生（ねんせい） ことし　はいつた一年生（ねんせい）…"
 keywords: "一年生, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
@@ -23,37 +23,22 @@ audio: "ichinensei.mp3"
 
 曲目說明
 中文解釋：描寫剛成為一年級學生的孩子，帶著期待開始學校生活。
+原書資訊（對應 P040.jpg–P041.jpg，原書 p. 32–33）：
+調性與拍號：ヘ調 二拍子，♩=100
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈一ネンセイ（一年級生）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_02_ichinensei/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/4_02_ichinensei/ichinensei.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-一
-ボクハ　ジンジヤウ
-一ネンセイ
-コトシ　ハイツタ
-一ネンセイ
-アメガ　フツテモ
-ボク　ハ　イ　ク
-カゼガ　フイテモ
-ボク　ハ　イ　ク
+一、僕（ぼく）は尋常（じんじやう）一年生（ねんせい）
+ことし　はいつた一年生（ねんせい）
+雨（あめ）が降（ふ）つてもぼくはいく
+風（かぜ）が吹（ふ）いても僕（ぼく）はいく。
 
-二
-キノフ　イツタヨ
-ガク　カ　ウ　ヘ
-アスモ　イカウヨ
-ガク　カ　ウ　ヘ
-アラシ　フイテモ
-ボク　ハ　イ　ク
-ボクハ　チサイガ
-ゲ　ン　キ　ダ　ヨ
+二、きのふいつたよ學校（がくかう）へ
+あすも　いかふよがくかうへ
+嵐（あらし）ふいてもぼくはいく
+ぼくはちさいが元氣（げんき）だよ。
 ```
 
 ## ABC
@@ -69,22 +54,22 @@ V:V1 name="Piano" snm="Pia"
 [V:V1]
 A3 G G4 | F3 F C2 C2 | F2 G2 A2 F2 | G6 z2 |
 w: 1.~ボ ク ハ | ジ ン ジャ ウ | イ チ ネ ン | セイ
-w: 2.~キ ノ フ | イ ツ タ ヨ | ガ ク カ ウ | ヘ
+w: 2.~き の ふ | い つ た よ | が く か う | へ
 A3 c c4 | A3 A F2 F2 | G3 A G2 G2 | F6 z2 |
 w: 1.~コ ト シ | ハ イ ツ タ | イ チ ネ ン | セイ
-w: 2.~ア ス モ | イ カ ウ ヨ | ガ ク カ ウ | ヘ
+w: 2.~あ す も | い か ふ よ | が く か う | へ
 c2 c2 c2 z2 | d3 d c2 c2 | B3 A G2 c2 | c6 z2 |
 w: 1.~ア メ ガ | フ ツ テ モ | ボ ク ハ イ | ク
-w: 2.~ア ラ シ | フ イ テ モ | ボ ク ハ イ | ク
+w: 2.~あ ら し | ふ い て も | ぼ く は い | く
 A2 A2 A2 z2 | c3 c A2 A2 | B2 A2 G3 G | F6 z2 |
 w: 1.~カ ゼ ガ | フ イ テ モ | ボ ク ハ イ | ク
-w: 2.~ボ ク ハ | チ サ イ ガ | ゲ ン キ ダ | ヨ
+w: 2.~ぼ く は | ち さ い が | げ ん き だ | よ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ichinensei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFUlGalAV0PdlpOZlqrEpaWl8GRHw9OdW55Pma-gpcWlaKtgaGDAZW-r4MZlY6RvYgfSDFTxbNHcZ619T3Z0vmzuU3i-fcXjhq5n0zYAGQpPN_Q_Xbvj2YKFj5t3P21dA2ErPJ2y8dnanmdTZz6bO-Hl7LbHDd3v93Q8XbL82drFT3sbn-zqAVoJYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE8P3ezrBDn_Rvut542KgQS-aNj2b0wy04cWqXojtT9fNeto66fnqpRDLgHY83dD9dMeO58snPl-zBuSttTvAPlsBtNvIwMhAz8DATM_AwsQcyDCA2KCvpfBs9qbns9e9WLXq2Yw-LgUFYHisfTat_cXyxS_bgY6e9ay__-n61U87Zz_rmPC8aRc0tLbMAhoODLPns1qerl35dO0EoB-e7tj2YuL0Z3PmP93X-nJa99Pl3ZDAACp7tmX344YmLi19LqCNXEAzuB43z3nctP5xc__jhobHTTseN28Gk0seNy0DyT9u7gUL7X7ctITrcdPmx80dj5u2g9QCdTQtedzc8rhpPxaFix43L3zctAascCpIVXPb4-ZFMNsg2kEWLgGT64E6Vj9u2oPQATIavw4uYJwBta193NwH0gCRAjvncfMKoMQaqDagwSByGdiIGWCnNe0EmgzVAbJ3GUEdzSthvibGaShh2tz4uGkr2KY1QKM2gYU2gxWuBbMbwOQKcJz4JmbmWQVkJublO9QY1FSDUoGCjaGZlh2YVaNgrKALhEZACKJ1gSKGYNpQwTQeSIEJiBhIBUg1iF0DVw-CBiARsHk-hjUKQKeCRYHuBbL74eYCEwFEvHkziP24eTFY0TKo5BKwVCOY7IUqg8iA4h-7bUYg6bVQU_uAeCqSbRA9wPgDsveDWSugMmugrgORq5Ed0TwDwx6UYDIFQpgFEBFjcHAgB4kxmAZhWFBiDaQmkO9AjuoAsrcjnA0NMJDzQU4HsUCOR_ZQI6khtAhq5E6gFggbxUBgGEBCADWEoDFIbAiBQgaGwRIKZmBFZnDRGgUTpBCCiMDCE1sIgZwKzPNg60EOgpgKi2RwxDa3gVkgldgSHsSLILNAkY0veIDZEaweFBNo9oBjgnx7kBIQDEMsgHjdFC4KCR4QC5KQjAgkIEi87MEVPDicDU33SMmMQPBg6ILZA8qqIJmtsMwLdgXItE1gtaDEicidDWA9oPSFak8tF5eunQKolFIA0spcAA)]
-- [鋼琴伴奏 TMD 檔案](ichinensei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgpPdjQ83bnl-ZT57_d0vJw981ln98vuPc8nbHmyZ8vTpf3v93QqaGlxKdoqGBoYcNnbKrhx2Rjpm9iBzAfqfLZo7rPWvic7Ol829yk8377icUPXs2kbgAyFpxv6n67d8WzBwsfNu5-2roGwFZ5O2fhsbc-zqTOfzZ3wcnbb44ZuoK1Plyx_tnbx097GJ7t6gE6BMJ7N6Xi_p-f5lkXPZu94MXO-goG5kamuiSHQPWC_vWjf9bxxMdCgF02bns1pBtrwYlUvxPan62Y9bZ30fPVSiGVAO55u6H66Y8fz5ROfr1kD8u7aHWAfrwDabWRgZKBnYGCmZ2BhYg5kGEBs4PJNzMyzCshMzMsP8nCoMaip5lIAAhtDMy07MKtGwVhBFwiNgBBE6wJFDMG0oYJpPJACExAxkAqQahC7Bq4eBA1AImDzfAxrFB43zwGLPm5aD2T3w8193LQDIt68GcR-3LwYrGgZVHIJWKoRTPZClUFkdkMksdhmBJJeCzW1D4inItkG0fO4uQXI3g9mrYDKrIG6DkSuRnZE8wwMe1CCyRQIYRZARIzBwYEcJMZgGoRhQYk1kJpAvgM5qgPI3o5wNjTAQM4HOR3EAjke2UONpIbQIqiRO4FaIGwUA4FhAAkB1BCCxiCxIQQKGRgGSyiYgRWZwUVrFEyQQggiAgtPbCEEcurj5oVg60EOgpgKi2RwxDa3gVkgldgSHsSLILNAkY0veB43rwSrB8UEmj3gmCDfHqQEBMMQCyBeN4WLQoIHxIIkJCMCCQgSL3twBQ8OZ0PTPVIyIxA8GLpg9oCyKkhmKyzzgl0BMm0TWC0ocSJyZwNYDyh9odpTi1xI-SAXUhbwMiraMBaoNto0HkTBuWASgwdRBDId4geilKMZjV03UEwh2gRFN4RHtGZUq3FrBoaJrp0CKFiifUDCMLYRmK3MBQA)]
+- [主旋律 TMD 檔案](ichinensei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9B_VETmZaqhKXlpbCkx0NT3dueT5lvoKWFpeirYKhgQGXva2CG5eNkb6JHUgzUMWzRXOftfY92dH5srlP4fn2FY8bup5N2wBkKDzd0P907Y5nCxY-bt79tHUNhK3wdMrGZ2t7nk2d-WzuhJez2x43dL_f0_F0yfJnaxc_7W18sqsHaCWE8WxOx_s9Pc-3LHo2e8eLmfMVDMyNTHVNDN_v6QQ7_EX7rueNi4EGvWja9GxOM9CGF6t6IbY_XTfraeuk56uXQiwD2vF0Q_fTHTueL5_4fM0akLfW7gD7bAXQbiMDIwM9AwMzPQMLE3MgwwBig76WwrPZm57PXvdi1apnM_q4FBSA4bH22bT2F8sXv2wHOnrWs_7-p-tXP-2c_axjwvOmXdDQ2jILaDgwzJ7Panm6duXTtROAfni6Y9uLidOfzZn_dF_ry2ndT5d3QwIDqOzZlt2PG5pApj_tmw_y6Ob2Fyu6QEGyofdZe6cCKM3oZRWkP2qYDGQagpggA8FqFQr0FIyNgDLGxkAnA10EMubFqv3PGpa_6Gh_1t0LDDWg6OPmGUBBBVCIdvdCHPRo5kpbUGxq6XMBPcoFdPrjhsanzVOB9j5u3PO4sR9o3uPG9ZBQAwvOeNw0GUy2PG5sA8rC0wZYdi1YdvbjxhagFNfjRiBnxePG6Y8bGoCmAEUfNy553Dgfn56Xs0Fx8bix6XFTI9jynpcze8EiW8FcoP5lj5uaIK6DGdrP9XIRRFv348Y5EG1PJ-xE0gZUBNKG6TWIflDQcwEDBuj7x429jxvXAfXBnfu4qQMSTWCtPWB7gfaAfP-4cQfQl0DXzAS5CeRLoB6g3FagHmSlIHVPtwJDHOIzoL7pYN0QS7B5CIm_8HHjVLBoz9PW5mcbFoNNmQQONWDIAE1ZALIN6ANQLPomZuZZBWQm5uU71BjUVINSgoKNoZmWHZhVo2CsoAuERkAIonWBIoZg2lDBNB5IgQmIGEgFSDWIXQNXD4IGIBGweT6GNQqPm-eARR83rQey--HmPm7aARFv3gxiP25eDFa0DCq5BCzVCCZ7ocogMrshklhsMwJKN4IUA5U3rgPirQjbGlug4kuAeD7Yqg6oTA9YHOQyYGyAyTaoDMSFyPagBJMpEMIsgIgYg4MDOUiMwTQIw4ISayA1gXwH8mUHkL0d4WxogIG8_LgZ5IXHTfuRQggSRiSGUBM0JGYClULYqCHUDQ051BCChBHRIQQKGRgGSyiYgRWZwUVrFEyQQggiAgtPbCG0COzHhWCHrYGb-rh5KjQcWoAY5KzHzSCV2BIeJFhAZq0nEDzAPAj25nSEPdDEBAomYJYEqwGpBMnsQQoekMmQoATJwJI71gQEwxALIF43hYtCggfEgiQkIwIJaDXYSSCnYA0ecALCDB5IUCAnM0LBA7YBmltA6mDBA4oYkNhUqPchqQYkMwls8mSwGCihgugFYHtA6QvVnlouLl07BVAppQCklbkA)]
+- [鋼琴伴奏 TMD 檔案](ichinensei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUqcWlpKTzZ0fB055bnU-a_39PxcvbMZ53dL7v3PJ-w5cmeLU-X9r_f06mgpcWlaKtgaGDAZW-r4MZlY6RvYgcyHqjz2aK5z1r7nuzofNncp_B8-4rHDV3Ppm0AMhSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W2PG7qBtj5dsvzZ2sVPexuf7OoBOgXCeDan4_2enudbFj2bvePFzPkKBuZGpromhkD3gL32on3X88bFQINeNG16NqcZaMOLVb0Q25-um_W0ddLz1UshlgHteLqh--mOHc-XT3y-Zg3Iu2t3gH28Ami3kYGRgZ6BgZmegYWJOZBhALGByzcxM88qIDMxLz_Iw6HGoKaaSwEIbAzNtOzArBoFYwVdIDQCQhCtCxQxBNOGCqbxQApMQMRAKkCqQewauHoQNACJgM3zMaxReNw8Byz6uGk9kN0PN_dx0w6IePNmEPtx82KwomVQySVgqUYw2QtVBpHZDZHEYpsRULoRpBiovHEdEG9F2NbYAhVfAsTzwVZ1QGV6wOIglz1u7AaTbVAZiAuR7UEJJlMghFkAETEGBwdykBiDaRCGBSXWQGoC-Q7kyw4gezvC2dAAA3n5cTPIC4-b9iOFECSMSAyhJmhIzAQqhbBRQ6gbGnKoIQQJI6JDCBQyMAyWUDADKzKDi9YomCCFEEQEFp7YQmgR2I8LwQ5bAzf1cfNUaDi0ADHIWY-bQSqxJTxIsIDMWk8geB43dYK9OR1hDzQxgYLpcSMolUICDySzByl4QCZDghIkA0vuWBMQDEMsgHjdFC4KCR4QC5KQjAgkoNVgJ4GcgjV4wAkIM3ggQYGczAgFD9gGaG4BqYMFDyhiQGJTod6HpBqQzCSwyZPBYqCECqIXgO0BpS9Ue2qRCykf5ELKAl5GRRvGAtVGm8aDKDgXTGLwIIpApkP8QJRyNKOx6waKKUSboOiG8IjWjGo1bs3AMNG1UwAFS7QPSBjGNgKzlbkA)]
 
 ## 分析
 

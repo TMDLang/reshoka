@@ -29,13 +29,6 @@ audio: "ensoku.mp3"
 速度指示：愉快ニ
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》、《新定兒童唱歌》共同收錄教材）
-
-- **[同曲]** 《公學校唱歌》第四學年用（昭和12年／1937）：[**〈遠足〉**](../../../kogakko_shoka/grade_4/10_ensoku/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_4/10_ensoku/ensoku.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

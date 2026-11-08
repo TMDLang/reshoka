@@ -25,13 +25,6 @@ Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P085.jpg (Notebook 2, p.1
 Notation: Handwritten 5-line staff (3 flats = Eb major, 4/4 time, 24 bars)
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈鶯〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_05_uguisu/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/3_05_uguisu/uguisu.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

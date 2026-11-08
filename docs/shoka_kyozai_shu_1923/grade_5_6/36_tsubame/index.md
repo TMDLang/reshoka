@@ -1,7 +1,7 @@
 ---
 title: "燕 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
 song_title: "燕"
-description: "〈燕〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：コヨヤツバメ コヨヤツバメ ナレガフルス ワスレズ ヒモウララカノ ハルノヤマニ ハナモサカリテ ナレヲマテリ…"
+description: "〈燕〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "燕, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
@@ -16,37 +16,38 @@ audio: "tsubame.mp3"
 
 <audio controls src="tsubame.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
+- 公學校唱歌帳 (P208, 302頁, 昭和2年1月29日)
 
 ## 說明
 
-燕 (燕子)
-Source: 唱歌帖 (2020.006.0843), P208.jpg
-Marginalia: 302頁. 2.1.29. (昭和2年1月29日)
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P310.jpg`–`P311.jpg`，原書 p. 302–303，尋常科五・六學年第 36 首）：
+> - **調性與拍號**：ヘ調四拍子（F 大調 4/4 拍，弱起 3 八分音符），♩ = 96
+> - **版本校勘**：對照原書掃描（`P311.jpg`），全曲共 16 小節（含不完全小節首尾相合）；各行行首之 `5_`（第 2、3 行）及 `3 2 1`（第 4 行）為跨行弱起拍，第 5、9 小節前兩拍為兩個四分音符 `5_ 5_`（無底線），第 3、5、8、11、15 小節之導音皆為自然 `7_`（E4，手抄《唱歌帳》舊轉錄誤作 `7,_`）。又 p. 302 第二段末行首句印為「來よま燕」（「ま」為「や」之活字誤植），p. 303 譜下印為「こよやつばめ」。
+>
+> **一、**
+> 來（こ）よや燕（つばめ）　來（こ）よや燕（つばめ）
+> 汝（なれ）が古巢（ふるす）忘（わす）れず
+> 日（ひ）もうららかの　春（はる）の野山（のやま）に
+> 花（はな）もさかりて　汝（なれ）を待（ま）てり
+> 來（こ）よやつばめ　來（こ）よやつばめ
+> 汝（なれ）が古巢（ふるす）忘（わす）れず。
+>
+> **二、**
+> 來（こ）よや燕（つばめ）　來（こ）よやつばめ
+> 汝（なれ）が友（とも）も誘（さそ）ひて
+> 淸（きよ）き小川（をがは）の　岸邊（きしべ）に青（あを）く
+> 草（くさ）も萌（も）え出（い）で　汝（なれ）をまてり
+> 來（こ）よや燕（つばめ）　こよや燕（つばめ）
+> 汝（なれ）が古巢（ふるす）忘（わす）れず。
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》第三學年與《公學校唱歌集》為文部省『尋常小學唱歌』〈燕〉同曲；《新定兒童唱歌》六年級、高女用及《唱歌帖》P208、P245 為同名異曲）
-
-- **[同名異曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈つばめ〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_05_tsubame/index.md)（`E,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/4_05_tsubame/tsubame.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》高等科女子用（2020.006.0849）：[**〈燕〉**](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_5_02_tsubame/index.md)（`F` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/koto_girls_2020.006.0849/1_5_02_tsubame/tsubame.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈つばめ（燕子）〉**](../../../shokacho/vol_07/p245_tsubame/index.md)（`G` / `4/4` — [原始 TMD](../../../shokacho/vol_07/p245_tsubame/tsubame.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈燕 (燕子)〉**](../../../shokacho/vol_10/p208_tsubame/index.md)（`F` / `4/4` — [原始 TMD](../../../shokacho/vol_10/p208_tsubame/tsubame.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-1.
-コヨヤツバメ コヨヤツバメ ナレガフルス ワスレズ
-ヒモウララカノ ハルノヤマニ ハナモサカリテ ナレヲマテリ
-コヨヤツバメ コヨヤツバメ ナレガフルス ワスレズ
-
-2.
-(こよやつばめ こよやつばめ) なれがともも さそひて
-きよきをがはの きしべにあをく くさもえいで (なれをまてり)
-(こよやつばめ こよやつばめ なれがふるす わすれず)
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -58,19 +59,32 @@ M:4/4
 L:1/16
 Q:1/4=96
 K:F
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-z10 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 C2 D2 C4 | F3 F F2 z2 F2 _E2 G4 |
-F8 z8 | C16 | C2 C2 D2 C2 D2 _E6 | F4 G4 A2 z2 A4 |
-A3 G d2 c2 B2 A6 | B4 G4 c8 | C16 | C2 C2 D2 C2 D2 _E6 |
-F4 G4 A2 z2 A4 | A3 G F2 _E2 F2 G6 | F8 z8 | A2 G2 F12 |
-C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 | G3 G G2 z2 C2 _E2 G4 | F8 z8 |
+z10 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 C2 D2 C4 | F3 F F2 z2 F2 E2 G4 |
+w: コ ヨ ヤ | ツ バ メ コ ヨ ヤ | ツ バ メ ナ レ ガ | フ ル ス ワ ス レ
+F8 z6 C2 | C4 C4 D2 C2 D2 E2 | F4 G4 A4 z2 A2 | A6 G2 d2 c2 B2 A2 |
+w: ズ ヒ | モ ウ ラ _ ラ _ | カ _ ノ ハ | ル ノ ノ _ ヤ _
+B4 G4 c4 z2 C2 | C4 C4 D2 C2 D2 E2 | F4 G4 A4 z2 A2 | A6 G2 F2 E2 F2 G2 |
+w: マ _ ニ ハ | ナ モ サ _ カ _ | リ _ テ ナ | レ ヲ マ _ テ _
+F8 z2 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 | G3 G G2 z2 C2 E2 G4 |
+w: リ コ ヨ ヤ | ツ バ メ コ ヨ ヤ | ツ バ メ ナ レ ガ | フ ル ス ワ ス レ
+F8 z8 | z10 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 C2 D2 C4 |
+w: ズ | こ よ や | つ ば め こ よ や | つ ば め な れ が
+F3 F F2 z2 F2 E2 G4 | F8 z6 C2 | C4 C4 D2 C2 D2 E2 | F4 G4 A4 z2 A2 |
+w: と も も さ そ ひ | て き | よ き を _ が _ | は _ の き
+A6 G2 d2 c2 B2 A2 | B4 G4 c4 z2 C2 | C4 C4 D2 C2 D2 E2 | F4 G4 A4 z2 A2 |
+w: し べ に _ あ _ | を _ く く | さ も も _ え _ | い _ で な
+A6 G2 F2 E2 F2 G2 | F8 z2 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 |
+w: れ を ま _ て _ | り こ よ や | つ ば め こ よ や | つ ば め な れ が
+G3 G G2 z2 C2 E2 G4 | F8 z8 |
+w: ふ る す わ す れ | ず
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsubame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFUlGalAVyfmZeaC9GppKTxvn6qgpcWlaKtgacZlb6vgxmVjom9ixwXS8WRHw7NFc5-19j3Z0fmyuU_h-fYVjxu6nk3bAGQoPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7PbHjd0v9_T8XTJ8mdrFz_tbXyyq-fpzi0QxrM5He_39DzfsujZ7B0vZs5XMDA3MtU1MXy_p1OJS1-LS0EB7DQNIPF07QRNED8YErBQO57umKagYWRgZKBnYGCmZ2BhYqypoxBgZGChl1WQDlLum1iUnpmXmJOZaKVgbGD0ckGjnoKRnqGekaWegsazGWufTuoxArrGEOgQI8tn05dqcoF0-VQWZSYXW4GYhnog8nHT5sfNKx43L3nc3PK4ecLj5oVYhZq7Hjevedy05nHz1MfNqx837QQKrQdSYNFdYIOaJz1uXvS4adnj5pUg1LT6MTBMHzf3g9Q394GNm_e4uRsiBDQOqHYrWNWqx81tMBuaN4FVtQFFqec6kElGYN9qPG6c_Lip43FTy-PGJY8bNzxualTAFNIEiq163NTzuBGIVjxuagIioNDUx41zHzduety4DOy0xl6QNhA5Caxw_ePGdWDRxumPG3c-blz9uBGoESjXDxTtB2kHGtQI1AG0aDnIJWArQAr2AY183NQFTgXEuRDZgcBA7H7cOBMYMEBLZoJFZ2lyaelzcfkmZuZZheUnJ-Y41BjUKFSDzFewMTTTsgOzahQMFHQxoDEQGwGxIRDXKJjGgwWBFJgF0mCCpAgEaxTMIIqAFJgFUgRWDeZBTQCpAxkJMhhEgxSBaHMdkDzcLKjDICoREN2hcIfhhlAlaA4BsyB2IhTCbIO5AuQ7kI0gGtlVEL6RghnINCCGhQTCJJAIskkgVTRzN1pY4XQ93N2I8AaxYOpRwwAGMUMcOWFgdTjUPWQnGSSFEEUQ5UZgGp6o0BIMYYdz1XJx6doBy8vMPAUgrcwFAA)]
-- [鋼琴伴奏 TMD 檔案](tsubame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgrP26e-39PxcvbMZ53dL7v3PJ-w5cmeLU-X9r_f06mgpcWlaKtgacZlb6vgxmVjom9ixwUy-cmOhmeL5j5r7Xuyo_Nlc5_C8-0rHjd0PZu2AchQeLqh_-naHc8WLHzcvPtp6xoIW-HplI3P1vY8mzrz2dwJL2e3PW7oBtr6dMnyZ2sXP-1tfLKr5-nOLRDGszkd7_f0PN-y6NnsHS9mzlcwMDcy1TUxBLpHiUtfi0tBAeRkBQ0g8XTtBE2FRw1TFAIyE_PyFRyTk_NzCxLzMnNT80pA6oIhQQ61--mOaQoaRgZGBnoGBmZ6BhYmxpo6CgFGBhZ6WQXpIOW-iUXpmXmJOZmJVgrGBkYvFzTqKRjpGeoZWeopaDybsfbppB4joCsNgQ40snw2fakml5Y-F5dvYmaeVVh-cmKOQ41BjUI1yCQFG0MzLTswq0bBQEEXAxoDsREQGwJxjYJpPFgQSIFZIA0gbIKksEbBDKIISIFZMEVgHWARMKsGbCTIYBANUwRim-uA5MFmQR0GUYmAMIfCaLjDcEMkJXAGwjFgFsRehG0gF8CCAGYbiA1zFUTcSMEMZAoQg0IBWX0NXARmEkgVzdyNFlY4XQ93N0wlRD-IB9ODO8QRzkJOGFgdDnUPRUkGSWEN1HVGYBolUSElGMJJhasWmhPAWTHIg-y8YByvjfAbjIPde0BZhA9hHJz5AmyWNix3IHj48wiyLjzeJybFIXwG9AQSG0d-QbIWyASKasPTO1BGG1f2QZIEpkVtE21YPjIDGqANyzooRoASCqocsm1gtjZZeYw0HyN5gBR_o_oYQzeQARJAM4pQxCL5AWws4QxJtXSLpBwSMVCfQZk4syiRKRU1o_qQklGRxYBFAiw2wQy4s8AuQqgygfMhLHhuQ1VGlGGwohg94WHmRmyuR4boFoIgwjIEC0kdQhAuhAhTNIchPG2EoQlY4OKzkQZ-QHcdPp-QHi4wiJlzCHoA3WHUSEjwwAUzcBlGOAmBsomuHbBJmJmngEQrcwEA)]
+- [主旋律 TMD 檔案](tsubame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYo8SlpaXwvH2qgpYWl6KtgqUZl72tghuXjYm-iR1IA8h_VgrPpm14vn2FwtMN_U_X7ni2YOHj5t1PW9dA2ApPp2x8trbn2dSZz-ZOeDm77f2ejqcbup_u2PF8-cQnu6aAla4FKn26c8vzKSve7-kEO-TJjoZni-Y-a-17sqPzZXOfAtD4xw1dpNjzuKEbZNWS5c_WLn7a2_hkVw_QBgjj2ZyO93t6nm9Z9Gz2jhcz5ysYmBuZ6poYwuyGGwkx8emOzQoaAUYGFjoKxgZGLxc06ig8m7H26aQeI6CBhkCzjCyfTV-qqcTFpa-lYEstwKWgoGCnEK3o5x_iGgvhaGk97ZsPcvLm9hcrul50tAMd92LlvKetK55Na9fSAgds77P2ToUEUNrSyypIT3jUMBnEMQRzgH6GGKBQoAfyClDS2MAYJIorPtasUTA2U3i5bBowaN7vmQVxhi7QIS9W7X_WsBzkhO5eYAiCLJ_1uHkGUPjp7NlAsadrJwCd46YADH6gmAIwtSgARUFW7dn4Yut2BWOFp62rn3a0vZy_-fmaZWDTex7NXKkATmFwW553djybswYUEd0zwFYA_fe8dTnEE8_6mp_19wNtQfYgyBxQeMze9LR1o4KhGSipPF_fAAqaCauf7Oh9ug4kDREEeuvphn3PZ-94OgGYHIA6Zz-d0PJiYQ8QAaWe7OxWSDCNB5rZAQoGo8cNjcYKQCmgyqf9XQoJxgpGCoYwWROozPOmXS-2rwCyId6EeBmkwBSo3RLqmKedvU9bVwLlgKqBjKcN3cAwg4cFyFIFqL0tC5_umvp8-yyIv8CxATQHZJYFEBsagghTqKlA9z7d0AcyY1YbyBntq563bFNIMAeb5GoC1P-ss_tZVwswF8GTNTCLvOjoerG382VPy4tVS57snQPUoAPS0fm4oelpfwc0oSgArQZlm3Vbn81ZDQmep_1Ln_ZuAFr0uKHnyb62x00djxv3AcuJxw1AL3cABYFcIBui4HET0NpeoAufbdn9dO10oFXPlgCVgTwFtgAYsGvnPNnRDTfxceNkkIlAbY1LHjdueNzUCNQPdBI4acAyA7CIAAYAsFwC84GOAFncOBnkeLBeoGvAIlATwJ5qIEYZxMBnG-eCxVc9bgJF7ePGnqf9S55uXwQW3Pq4qftx40xQYtg_AyTS1A_hAhU_boRmFGCpAFa8CSze9LgRGExABtAooN51QMc8mwFRsB5oGtiKdS_b-55u3AgWXAf2_j6w-GqIgS-6IFLrga6CmTkVZFpT1-PGZSAD0dzcNOnpvlawCMScZUCVuIILKaixhBJclvLAwYjHXT3UiEciXAiqEB43rgCGGyT0XqwCOw8UhkDFQDWbgEEE1b59B1iqF2g4WKoXVOlsB5vZNAloGjAWIFEGdMzTTTteNnVB1TdOf9y4ExJrL-dOAgs2AbWARfqh8dgLTPpAcWCwAL0GdskEoCOBJoMd1tjxtH0XWEELmLsca8yCMhjeCMUabvCcRYtkD41Zyis_KFDQ0ufiCikuTUoEtkcCMhPz8h1qDGoUqkGWKNgYmmmB05ACtmoXXGTtaAAWVgoa0DpHG1hMQ8pKHQVYlaGJRSfQUpCpNQoGwEoIHRoDsREQGwJxDbCcBguCS2wgDdJggqQIBGsUzCCKgBSYBVIEVg3mQU0AqQMZCTIYRIMUgWhzkDTCKIgSBER2IdikGrDTfQxrFGDmIsPHTZtBZPMKMLkEbOTj5haIXPMEIF4IZIF0YqqEOACH6uYuMLkGrBNEwlRPhapeDRTfCVe9HqwOxIfogapu2oXmXmQ_PG6ehPCfEQ7_NU4Gm9wBJkEuBZraCHE9MJkDxRphbsBQCXUDDtWrwOp6wGwQCVMNCh-QTBMYw1SDfA0sUsDkJiTVy_D5r7EX7D_8KXoXqHWioEFiQoYnMjgDkfbALHAyQyQvWIIDpWMQBCUzELsGLgJTZQYyBohhqb4GzEI2AyQLMwMtiT5uXgTzfBMsaB43r8RggZLGaiSLIbJ9UBYkSfVD1AETGroahErUhDwPw8RuTBPhyQ2SVBARBXE1KElCxJATBSh5o5jcuA7ZZEhEA-npKGrA2aER5n5gpYEwEW4PQjXIdQgTIW4lUBh2Dq6kAy_eQAyQAPbiDaXARUo6oBIHEm2IRLQVzoIFI0glKO-iBF5zG5SFKLtA6mAlEUQNKN8iEglCDzYTsZeYSIkHXCJAXAaLViRWIyxpgVTCyiK4SxqXI9sCLolASQKW4CBmgRIIsEEA1wPLTiCVsJBCcS1mSYk_-QC7KBQkH9IrSCSFEEUQ5UZgGl6WkFA9glUgpZ-hUeshuRqcjmhZl0FyD7CFB2TPhIcIqGiB8BFpDqR6FkFX13Jx6dopQJtv0T6GsQrIXCMwV5kLAA)]
+- [鋼琴伴奏 TMD 檔案](tsubame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBsaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqsQMKJOUpcWloKz9unvt_T8XL2zGed3S-79zyfsOXJni1Pl_a_39OpoKXFpWirYGnGZW-r4MZlY6JvYgcyCBRAVgrPpm14vn2FwtMN_U_X7ni2YOHj5t1PW9dA2ApPp2x8trbn2dSZz-ZOeDm7DWjD0w3dT3fseL584pNdU8BK1wKVPt255fmUFUCrwA58sqPh2aK5z1r7nuzofNncpwA0_nFDFyn2PG7oBlm1ZPmztYuf9jY-2dUDtAHCeDan4_2enudbFj2bvePFzPkKBuZGpromhjC74UZCTHy6Y7OCRoCRgYWOgrGB0csFjToKz2asfTqpxwhooCHQLCPLZ9OXaipxcYUUlyYlAoM0ABTqQR4ONQY1CtVcCkBgY2imZQdm6Wsp2KIDhedr1gA9_GJhj4LG0z0bX2zdrqCtYALy5vP1DToKwKRmqJdVkK6JRaeWPtjUGgUDBV0MaAzERkBsCMQ1CqbxYEEgBWaBNJggKQLBGgUziCIgBWaBFIFVg3lQE0DqQEaCDAbRIEUg2hwkjTAKogQBkV0INqkG7HQfwxoFmLnI8HHTZhDZvAJMLgEb-bi5BSLXPAGIFwJZIJ2YKiEOwKG6uQtMrgHrBJEw1VOhqlcDxXfCVa8HqwPxIXqgqpt2obkX2Q-Pmych_GeEw3-Nk8Emd4BJkEuBpjZCXP-4cQNQrBHmBgyVUDfgUL0KrK4HzAaRMNWg8AHJNIExTDXI148b54LJTUiql-HzX2Mv2H_4U_SuHnCKJjEhwxMZnIFIe2AWOJkhkhcswYHSMQiCkhmIXQMXgakyAxkDxLBUXwNmIZsBkoWZgZZEHzcvgnm-CRY0j5tXYrBASWM1ksUQ2T4oC5Kk-iHqgAkNXQ1CJWpCnodhYjemifDkBkkqiIiCuBqUJCFiyIkClLxRTG5ch2wyJKKB9HQUNeDs0Ahz_-NGUHKC-R5mD0I1yHUIEyFuJVAYdg6upAMv3kAMkAD24g2lwEVKOqASBxJtiES0Fc6CBSNIJSjvogRecxuUhSi7QOpgJRFEDSjfIhIJQg82E7GXmEiJB1wiQFwGi1YkViMsaYFUwsoiuEsalyPbAi6JQEkCluAgZoESyOPGfXA9sOwEUgkLKRTXYpaU-JPP09mzKUg-pFeQSAohiiDKjcA0vCwhoXoEq0BKP0Oj1kNyNTgd0bIug-Sex03dQPZMeIiAihYIH5HmQKpnEXR1LVrrzQel9WYCbbyBmlkQCIy_eIVow1hg1AJp0_hYUG0CYpoAmVApbGqgIkAKaAbUTOyqQCyIMpgCsPlgc41gSskyh2TnYHoM7ACj-Fw8hgFDVNdOARqo0T5ACWSuEZirzAUA)]
 
 ## 分析
 
@@ -78,24 +92,25 @@ C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 | G3 G G2 z2 C2 _E2 G4 | F8 z8 |
 ================================================================================
 📊 TMD Song Profile: [ 燕 ]
 ================================================================================
-⏱  Duration:       0:50 (50.0s), 20 measures total
+⏱  Duration:       1:25 (85.0s), 34 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main #1 @ m.2, 0:02]
-   - 最高音: D5 in [Main #1 @ m.9, 0:20]
+   - 最低音:  C4 in [Tsubame[L1] #1 @ m.2, 0:02]
+   - 最高音: D5 in [Tsubame[L1] #1 @ m.8, 0:18]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (50.0s)
+🏛  結構:      Tsubame[L1] (42.5s) -> Tsubame[L2] (42.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 大調（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  C, F, G, A, D
-   - 調性數值:    F 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 93.3%]
-   - 候選調性 (K-S): F 大調 (0.84), C 大調 (0.80), C 小調 (0.64)
-   - 五度圈歷程:   -1
+   - 調性數值:    F 大調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.87), C 大調 (0.83), A 小調 (0.63)
+   - 五度圈歷程:   -1 -> -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.84, 自然音純度: 93.3%, 調外音: D#)
+     • [Tsubame[L1] #1]: F 大調 (r: 0.87, 自然音純度: 100.0%)
+     • [Tsubame[L2] #1]: F 大調 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -108,21 +123,21 @@ C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 | G3 G G2 z2 C2 _E2 G4 | F8 z8 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  28.1%
+     C  : ████████████████████████  22.8%
      C# :                            0.0%
-     D  : ████████                   8.9%
-     D# : ██████                     6.7%
-     E  :                            0.0%
-     F  : ██████████████████        21.5%
+     D  : ███████████               10.5%
+     D# :                            0.0%
+     E  : █████                      4.4%
+     F  : ██████████████████████    21.1%
      F# :                            0.0%
-     G  : ███████████████           17.0%
+     G  : ████████████████████      19.3%
      G# :                            0.0%
-     A  : ███████████               13.3%
-     A# : ████                       4.4%
+     A  : ██████████████████        16.7%
+     A# : ██████                     5.3%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – D5 (14 個半音 / 1.2 個八度, 82 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 164 個音符)
 ================================================================================
 ```
 

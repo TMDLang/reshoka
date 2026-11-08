@@ -1,16 +1,74 @@
 X:1
-T:テニスの歌
+T:庭球
 M:2/4
 L:1/16
 Q:1/4=132
 K:G
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
 D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
+w: タ ダ コ レ | ヒ ト ツ ノ | タ マ ナ レ | ド
 B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |
+w: ヨ ロ ヅ ノ | ヘ ン クワ _ | ア ラ ハ レ | テ
 D3 D D3 D | E3 E D3 D | D3 B A3 G | A6 z2 |
-B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 B2 |
-d6 e2 | d3 B G2 ^A B | A3 A D3 D | G6 z2 |
-G2 A2 G2 F2 | E3 F E3 D | E3 E D3 F | A6 G2 |
-A6 B2 | A3 G A3 B | d3 d d3 e | d6 B2 |
-d6 e2 | d3 B G2 ^A B | A3 A B3 A | G6 z2 |
+w: シ ホ ン ノ | ウ デ ノ ハ | タ ラ キ ニ | _
+B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 z2 |
+w: ム ゲ ン ノ | シユ ミ ハ コ | モ ル ナ リ | _
+D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
+w: う ち こ む | た ま を や | の ご と く | _
+B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |
+w: こ ー と の | す み に い | お と せ ば | _
+D3 D D3 D | E3 E D3 D | D3 B A3 G | A6 z2 |
+w: さ え た る | み ぎ て の | い な づ ま | に
+B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 z2 |
+w: お も は ぬ | か た へ う | ち か へ す | _
+D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
+w: テ キ ユ ミ | ナ リ ニ ウ | チ コ メ バ | _
+B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |
+w: ミ カ タ ハ | ハ ス ニ キ | リ オ ト シ | _
+D3 D D3 D | E3 E D3 D | D3 B A3 G | A6 z2 |
+w: シ ノ ツ ク | ア メ ト セ | メ ク レ バ | _
+B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 z2 |
+w: カ ゼ ニ ヤ | ナ ギ ト ウ | ケ ナ ガ ス | _
+D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
+w: く さ ば の | い な ば と | ぶ ご と く | _
+B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |
+w: ら い ん の | そ と に に | ぐ る た ま | _
+D3 D D3 D | E3 E D3 D | D3 B A3 G | A6 z2 |
+w: こ か げ の | き ぎ す た | つ ご と く | _
+B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 z2 |
+w: あ し を か | す め て あ | が る た ま | _
+D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
+w: ヒ ゴ ヒ ノ | タ キ ニ ヲ | ド ル ゴ ト | _
+B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |
+w: ア ミ ニ ア | タ リ テ カ | ヘ ル タ マ | _
+D3 D D3 D | E3 E D3 D | D3 B A3 G | A6 z2 |
+w: ネ ヅ ミ ノ | ハ リ ヲ ツ | タ フ ゴ ト | _
+B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 z2 |
+w: ツ チ ニ ス | ベ リ テ ハ | シ ル タ マ | _
+D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
+w: そ れ て は | そ ら の な | が れ ぼ し | _
+B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |
+w: き ゆ る が | ご と く お | つ る た ま | _
+D3 D D3 D | E3 E D3 D | D3 B A3 G | A6 z2 |
+w: い は う つ | な み の せ | か れ て は | _
+B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 z2 |
+w: く る ふ が | ご と く は | づ む た ま | _
+D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
+w: た だ こ れ | ひ と つ の | た ま な れ | ど
+B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |
+w: よ ろ づ の | へ ん くわ _ | あ ら は れ | て
+D3 D D3 D | E3 E D3 D | D3 B A3 G | A6 z2 |
+w: し ほ ん の | う で の は | た ら き に | _
+B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 z2 |
+w: む げ ん の | しゆ み は こ | も る な り | _
+z6 B2 | d6 e2 | d3 B G3 B | A3 A D3 D |
+w: た | と へ | ま け て も | つ か れ て
+G6 z2 | G3 A G3 F | E3 F E3 D | E3 E D3 F |
+w: も | あ か ぬ は | て に す _ | い ざ や と
+A6 G2 | A6 B2 | A3 G A3 B | d3 d d3 e |
+w: も う | は ぎ | と く と く | お り た ち
+d6 B2 | d6 e2 | d3 B G3 B | A3 A A3 A |
+w: て ま | た も | て な み を | く ら べ み
+G6 z2 |
+w: む

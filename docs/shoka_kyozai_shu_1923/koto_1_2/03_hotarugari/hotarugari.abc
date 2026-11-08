@@ -1,10 +1,24 @@
 X:1
 T:螢狩
-M:2/4
+M:4/4
 L:1/16
-Q:1/4=96
+Q:1/4=104
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+!mf! G6 A2 G2 E2 D2 C2 | c8 A4 z4 | G4 E4 E6 C2 | D12 z4 |
+w: ホ タ ル ホ タ ル | ヤ ヨ | コ コ ニ キ | テ
+G6 A2 G2 E2 D2 C2 | c8 A4 z4 | A2 G2 E2 C2 E4 D4 | C12 z4 |
+w: ホ タ ル ホ タ ル | ヤ ヨ | テ ラ セ ヤ マ ド | ヲ
+!f! c8 B4 A4 | G8 E4 z4 | A4 G4 E4 C4 | D12 z4 |
+w: タ マ ト | ナ リ | ホ シ ト ナ | リ
+!mf! G6 A2 G2 E2 D2 C2 | c8 A4 z4 | A2 G2 E2 C2 E4 D4 | C12 z4 |
+w: テ ラ セ テ ラ セ | イ ザ | フ ミ ヨ ム マ ド | ヲ
+!mf! G6 A2 G2 E2 D2 C2 | c8 A4 z4 | G4 E4 E6 C2 | D12 z4 |
+w: て ら せ て ら せ | や よ | い け み づ | を
+G6 A2 G2 E2 D2 C2 | c8 A4 z4 | A2 G2 E2 C2 E4 D4 | C12 z4 |
+w: て ら せ て ら せ | や よ | あ や め の は な | を
+!f! c8 B4 A4 | G8 E4 z4 | A4 G4 E4 C4 | D12 z4 |
+w: は な よ | り も | う つ く し | く
+!mf! G6 A2 G2 E2 D2 C2 | c8 A4 z4 | A2 G2 E2 C2 E4 D4 | C12 z4 |
+w: か ぜ に き え ぬ | そ の | ちや う ち ん つ け | て

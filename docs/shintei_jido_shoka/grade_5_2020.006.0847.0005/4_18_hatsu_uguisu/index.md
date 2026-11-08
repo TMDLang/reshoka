@@ -14,7 +14,9 @@ audio: "hatsu_uguisu.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="hatsu_uguisu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hatsu_uguisu_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="hatsu_uguisu.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -24,13 +26,6 @@ audio: "hatsu_uguisu.mp3"
 調性與拍號：に短調四分之三拍子（D 小調 3/4 拍）
 作曲：佐々木英
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（〈初鶯〉；收錄於《新定兒童唱歌》五年級與《唱歌帖》P241《蓬萊唱歌集》抄譜）
-
-- **[同曲]** 楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）：[**〈初鶯（初鶯）〉**](../../../shokacho/vol_07/p241_hatsu_uguisu/index.md)（`F` / `3/4` — [原始 TMD](../../../shokacho/vol_07/p241_hatsu_uguisu/hatsu_uguisu.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

@@ -28,14 +28,6 @@ audio: "nihon_danji.mp3"
 速度指示：活潑ニ（♩=104）
 
 
-## 跨冊／重複收錄參照
-
-> 同名異曲（各冊收錄之不同詞曲版本）
-
-- **[同名異曲]** 《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）：[**〈日本男兒〉**](../../../kyoeki_shoka/kan_1_854862/12_nihon_danji/index.md)（`G` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_1_854862/12_nihon_danji/nihon_danji.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》高等科男子用（2020.006.0848）：[**〈日本男兒〉**](../../koto_boys_2020.006.0848/1_2_08_nihon_danji/index.md)（`G` / `4/4` — [原始 TMD](../../koto_boys_2020.006.0848/1_2_08_nihon_danji/nihon_danji.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

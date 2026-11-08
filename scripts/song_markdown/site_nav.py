@@ -18,7 +18,7 @@ from .volume_page import generate_volume_index
 
 MKDOCS_CONFIG_HEADER: list[str] = [
     "site_name: Re:shoka — 日治時期唱歌教材數位重建計畫",
-    "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 23 冊、795 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
+    "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 33 冊、1,087 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
     "site_author: TMD Contributors",
     "site_url: https://tmdlang.github.io/reshoka/",
     "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
@@ -99,6 +99,8 @@ MKDOCS_CONFIG_HEADER: list[str] = [
     "nav:",
     "  - 首頁: index.md",
     "  - 跨冊重複與同名歌曲索引: duplicate_songs.md",
+    "  - 同一歌名的多個版本: same_title_songs.md",
+    "  - 同詞異曲歌曲: same_lyrics_songs.md",
 ]
 
 COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
@@ -177,7 +179,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "    <strong>隨機聽見一段歷史</strong>",
         '    <button type="button" data-lucky-song-button>讓命運選一首</button>',
         "  </div>",
-        "  <p data-lucky-song-result>從 788 首歷史曲目中隨機探索。</p>",
+        "  <p data-lucky-song-result>從 1,087 首歷史曲目中隨機探索。</p>",
         "</div>",
         "",
     ]

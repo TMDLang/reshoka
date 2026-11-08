@@ -1,7 +1,7 @@
 ---
 title: "秋の風 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年"
 song_title: "秋の風"
-description: "〈秋の風〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）カキノキノエダノサキ アカイキノハガヒトツ…"
+description: "〈秋の風〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "秋の風, 新編 小學校・公學校 唱歌教材集, 尋常科 第三、四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）"
@@ -16,48 +16,41 @@ audio: "aki_no_kaze.mp3"
 
 <audio controls src="aki_no_kaze.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P148）
-- 原載《小公唱材集》第 213 頁（大正 13 年 12 月 12 日抄）
+- 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P148）同曲底本
 
 ## 說明
 
-
-
-- 出處：《唱歌帳》（國立臺灣歷史博物館典藏號 2020.006.0843）第 P148.jpg 頁（手寫頁碼 19）。
-- 標註：（小公唱材集 213 頁ヨリ）13.12.12.（大正 13 年 12 月 12 日抄錄）。
-- 調性與拍號：ニ調（D 大調），2/4 拍，速度 != 92。
-- 背景與曲風：描寫柿子樹枝頭僅剩的一片紅樹葉被秋風吹得搖搖欲墜，以及從葉隙間望見彎彎新月的秋日景致。
-- 版本說明：本檔案為原頁單聲部簡譜之忠實數位化版本。
-【原頁歌詞全文與中文語譯】（對應 P148.jpg）
+> [!NOTE]
+> **原書資訊與歌詞全文（對應 P220.jpg–P221.jpg，原書第 212–213 頁）**
+> - **調性與拍號**：ニ調二拍子（D 大調 2/4 拍），♩= 92。
+> - **版本對照**：本曲即國立臺灣歷史博物館典藏《唱歌帳》第一冊 `p148_aki_no_kaze`（標註「小公唱材集 213 頁ヨリ 13.12.12.」）所抄錄之原底本。對照本書印刷原譜：
+>   1. 第二節首句本書作「風のふく枝の先」（手抄本省略為點號後誤補「ソノ」）。
+>   2. 第 15 小節本書五線譜與數字譜均為兩拍四分音符 `2 5`（E4–A4），而非手抄本所記之附點四分音符加低音八分音符 `2. 5_̲`。
+>
+> **一、**
+> 柿（かき）の木（き）の枝（えだ）の先（さき）
+> 赤（あか）い木（き）の葉（は）が一（ひと）つ
+> 風（かぜ）になぶられて
+> ひらひらと危（あぶな）い。
+>
+> **二、**
+> 風（かぜ）のふく枝（えだ）の先（さき）
+> 三日月（みかづき）さまが見（み）える
+> 危（あぶな）い所（ところ）で
+> 散（ちら）されはしないか。
 
 ### 編曲說明（鋼琴伴奏版）：
 
-1. 前奏 (Intro, 4 小節)：取末樂句「ヒラヒラトアブナイ」，描繪秋風吹拂紅葉飄搖。
+1. 前奏 (Intro, 4 小節)：取末樂句「ひらひらと危い」，描繪秋風吹拂紅葉飄搖。
 2. 主歌伴奏 (Song, 16 小節 × 2 段)：右手演奏主旋律，左手配以輕巧和弦伴奏。
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》共同收錄教材）
-
-- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈秋の風〉**](../../../shokacho/vol_01/p148_aki_no_kaze/index.md)（`D` / `2/4` — [原始 TMD](../../../shokacho/vol_01/p148_aki_no_kaze/aki_no_kaze.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-（一）カキノキノエダノサキ
-アカイキノハガヒトツ
-カゼニナブルレテ
-ヒラヒラトアブナイ
-被秋風吹拂戲弄著，翩翩搖晃好危險呀。）
-
-（二）カゼノフクソノエダノサキ
-ミカヅキサマガミエル
-アブナイトコロデ
-チラサレハシナイカ
-在那麼危險的地方，不會被風吹落下來嗎？）
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -72,15 +65,27 @@ K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A6 F2 | D4 E4 | F2 E2 F2 G2 | A4 d4 |
+w: か き | の き | の え だ の | さ き
 B4 d2 B2 | A6 G2 | F2 E2 F2 G2 | E8 |
+w: あ か い | き の | は が ひ と | つ
 B6 B2 | A4 F4 | G4 E4 | F4 B4 |
-A2 G2 F2 E2 | D4 F4 | E6 A,2 | D8 |
+w: か ぜ | に な | ぶ ら | れ て
+A2 G2 F2 E2 | D4 F4 | E4 A4 | D8 |
+w: ひ ら ひ ら | と あ | ぶ な | い
+A6 F2 | D4 E4 | F2 E2 F2 G2 | A4 d4 |
+w: か ぜ | の ふ | く え だ の | さ き
+B4 d2 B2 | A6 G2 | F2 E2 F2 G2 | E8 |
+w: み か づ | き さ | ま が み え | る
+B6 B2 | A4 F4 | G4 E4 | F4 B4 |
+w: あ ぶ | な い | と こ | ろ で
+A2 G2 F2 E2 | D4 F4 | E4 A4 | D8 |
+w: ち ら さ れ | は し | な い | か
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](aki_no_kaze.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFUlGalAV5enJgIZRejCxamJxfl5xUpcWloKz5d3P25c93LRCgUtLS5FWwVLIy57WwUXLhsjfRM7kL4nOxqeLZr7rLXvyY7Ol819Cs-3r3jc0PVs2gYgQ-Hphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fa4ofv9no6nS5Y_W7v4aW_jk109T3dugTCezel4v6fn-ZZFz2bveDFzvoKBuZGpronh-z2dYDc_m7702abdz2Y2PZszH2480HaIBU93bIYa3brjxfR-kH4jAyMDPQMDMz0DCxNjoJsCDE0sYIY97Zv_Yk8nSDfQ0UDDgGbAnPd8zRoFI0NjhZcLGuEuVQDyge5UMDRSALoSTAFd09UCNo5LX0vBllqAS0FB4XHDhGezNz2fve7FqlXPZvQ9bpgIFgWGavuuFzOnvt8zC4u353Q_X939on3X88bFz9Zuf9q_6WnvrOedK18uWYEjRIBuB3kVFCp6WQXpUP8-6-x-un41kP180R4FQ0ugoscNTVDrn62Y-WLFbqD1IPtQww0WYo-bVzxuXgXUZWisZ2gEQgTD8GUPKBgRtrxYtf9Zw_IXHe3PunuBjgb5trkbKAg0yEUBaBSY2QlMKcBEqQBUA2S9bJj_dNcyBXCKRTKouefZzPUgg2ZvAqZpoEHP-vuBnns2f__TtROerdj5bN7clwvWPm1ufdq58vmsFmDift7Z_nxLK1DqxcTOF4tWA_MDUOPTCTuf7pv-bMI0EFqz6emiOUArn-xe-rS_6-m-eUCVL2fNfDlt8rM5s18s6366tw-IgDkC6EegmUATQL4EOqN9C8Jlzzs7ns1ZA4ldkLPmrHm2asqzhR3Pm3YBEyYwGJ9OW_eicdPL5hXPNyx8sXbOk53dT_cveLp-2bOpO57s7X3aMw1iAshEaIKB6AOmiBcr5z1tXfFsWjvQ4092rAUxVs17sXY9MBWBo633WXsnPNKBAQk2ACgD9D0oGppWP25a-7i5D0YCo7MBzNgKFIHY1QBFTYvAqpdAlTb3P25a87h50uPmjsfNLWhKger2AKPxcXPX4-Zpj5tXP24GKm1DVQTSuhJGdoCMByntAtoAdSLEI8AAezpnBTwSgYEMjccN056vBsr2PJ8688XE6fDYfNG5CaQGHKfv98wGmaWggBy5z7qbnnVserqnBagLpH3_SiACxfXM5qdL9z7t3fhy1qqnE4FObEIOrl09sOACegzo-6mPm9Y_btpLKNCa54P0NLeCAg0o3TwPHGhAQaCe1RjhCwsAcHhsftwMDOh2NPOAWW4l2CSgMcAY2A7V0AQ2DC3QkL0MDJOXTYvRgu5p_3pgwn4-pxuekkFpeE4nuGiGBh3QHKDGl7v2QEIGqODpnA3Ppu0EZYodvc_mNAPDFmLLiwl7n-zofrKv7el0YDIH5uROkAmUl5FQoKClz8UVnJ-XbhWQmZiX71BjUKNQDXajjYWWHZgBLJk1gAlBUwEYHkC8VqEGmP36UFgrgHQDmA0UadoKlgMaDNe9qwemew9MT_NUsNr1QLwXbgpIDmIOVHeNgqmCLhAaA1mGQNoIiGuAPCMgNoHKGsaBBMFpCtmti6A2LgHbsxbmuuZ-IG8NkJ4ExB1gkRZMtzbPh-huboXpBvoKpHYeVDdIHuLe1Qi3mkFcYwZ3NsiJCMeCHA-CmG5FhEw3EHeBWdOAeCWYBbKvDUt4An0IVAVS0QXzJ9BHwDQOZoF83I7qNl2404zB4WiCFKIgOSxOAwfTSjgNs2IR3IlgxwItxwzCRohOUHIAegEW9NtRHQz0OlJUm4BDCxLVECdCwsw0HioICb5aLi5dOwVQqlUA0spcAA)]
-- [鋼琴伴奏 TMD 檔案](aki_no_kaze_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgrPl3c_blz3ctGK93s6Xs6e-ayz-2X3nucTtjzZs-Xp0v73ezoVtLS4FG0VLI247G0VXLhsjPRN7EDGP9nR8GzR3GetfU92dL5s7lN4vn3F44auZ9M2ABkKTzf0P12749mChY-bdz9tXQNhKzydsvHZ2p5nU2c-mzvh5ey2xw3dQEufLln-bO3ip72NT3b1PN25BcJ4Nqfj_Z6e51sWPZu948XM-QoG5kamuiaGQOeAvfZs-tJnm3Y_m9n0bM58uPFA2yEWPN2xGWp0644X0_tB-o0MjAz0DAzM9AwsTIyBbgowNLGAGfa0b_6LPZ0g3UBHAw0DmgFz3vM1axSMDI0VXi5oVOLi0tdSsKUW4FJQUHjcMOHZ7E3PZ697sWrVsxl9jxsmgkWBIda-68XMqe_3zMLipTndz1d3v2jf9bxx8bO125_2b3raO-t558qXS1bg8C3QmyBvgHysl1WQDvLL44YmqE0vVu1_1rD8RUf7s-5eoE6Qlc3dQEGgTS4KwJgBMzuBUQGMdQWgGiDrZcP8p7uWKYCTBMIgYKQD_QLxCCglIaWh553AuASaMQukVEHBUE_haWcvUFxBwzOvpChfR8EElFyer2_QBKp52j_t2ZzVz1Y0Pe1f-rih53HzpMfNK2Fkx-OmRY-bpz1u7nrctORxA8g1z_r7n-9cBUzEwBT8dMLOZ91Nz7e0vpjY-XJxy7MJ06DuU1Aw0lN4smM3MCAhTlLQCM7PS9dRMDSDWq1weLqCkcKzdVshbtgMzAbP9kwBqgTpmt79dB8w7Huebl8Gyh6tvU92L32xZ-rT7cufTup5umcZxEyoXZQnDShQ0NLn4gKHkFVAZmJefpCHQ41BjUI12EM2Flp2YEaNgikw_IyBjq9RMFTQBbJ0gSwjIKmrYBoPFQTBGq5aFON8cBkXH68QbRoLp4EmABmGsTAKvwoDiD2g0CXkapCjjKEOBLm3BuwLY6BvILKGcWBXQ5SbQQTM4DpBqhDqIf5FVa4LVw0JExMke0ByCNWkhCDCZ7gCEBoY4NABhxeyAHJw4QxhqEEmQK5JLIzCbTDWiAFFBF5jCEenGUjALBfhIKokDV07BXAqVAAyQIGJTCtzAQA)]
+- [主旋律 TMD 檔案](aki_no_kaze.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9V56aCGQUoQsXpyYW5-cVg4VBnrNSeDZtw_PtKxSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W3v93Q83dD9dMeO58snPtnRCVI6ezZQ6dOdW55PWfF-T6cSl5aWwvPl3Y8b171ctEJBS4tL0VbB0ojL3lbBhcvGSN_EDmTxkx0NzxbNfdbaBzTjZXOfAtD-xw1dpDjkcUM3yC1Llj9bu_hpb-OTXT1AJ0AYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfEEOw4oN3Ppi99tmn3s5lNz-bMhxsPtB1iwdMdm6FGt-54Mb0fpN_IwMhAz8DATM_AwsQY6KYAQxMLoGFPJ_Q8m73p6a6pz-asUeLi0tdSsKUW4FJQULBTiFb08w9xjYVwtLSe9s0HeWhz-4sVXS862oFufbFy3tPWFc-mtYNjpfdZe6cCKFHqZRWkP2qYDGQagpjAsIBofb5mjYKRoRFQysjQWOHlgkagJ4DxAzZeF2jBi1X7nzUsBxnd3Qv0t5bW-z2zHjd3A4VBgdrd-3TtBKBFLgrAQAeKKQDjUgEoCjQEaMOjmStB0fy4oQlh3vPODmDQAB32vHU52DAgDxRivZufzul-vrr7Rfuu542Ln63d_rQfKDjreefKl0tWQIIdLTqALgemmKdtXQoJBcDAj0_MzozPywem-qrUBKCTnq2Y-WLF7scNPaCUA4xRoE5wGgH6FuzPx80rHjevUjA01jM0AqHHDSBXP-tseNbV8rKn5cnObmAAQSIS6AGIg8Fu3fG0d8PTju1A2Rdr5wA9APGbgoKhngLISbt6nq9veLls2tP-pRDlT_bOAboCmO6Bqf9x49bHjf3P5s0Fsp-2doDt7HjW2Q20E6j4-ZzG51OXPm_a9XL3PGBYP93X82LVkheLQdofN-193NwHcSM8PBUUjMB2KhiagvIH0F6ojbumPN8-C-g6ULRN3fF07XQg--ncdqDJT1tXgiINmD072l7O3_x8zTKFBCMFU1CAuZoAE4GjCSTqXgBdPHce3GXAYHmxYgYwTF7ObAE6Dln_064FT_b2AdlPW1cjG6qnYBp_ZlMCzLGwBAuMsscNjbAU9mz-fqDNjxuBJQPYZ43rns0BFhhAERh33lwwF4gWQESAwQYWmQpRAzHnxdYlYMEmoFFgZUBHo5jzYiLQV0DuejC3B-gKMHfT40ZQ-fS4cQnEHGAswdwDjFqg-OrHjaseN2573NT5uKnnceMyiDKQRqAIlFzxtHcjzPZtQPUQB2B4fFcPkscxLEIkDWL8CywhQSUWqEwDSu0Hm7MU5lmgyn1AP75YBiqxgLJgwY7HTd0QvVhdC4xgsCAwkU5-3AQxZzk0jqYuBkstBHoWaj4oKNY_bpwODpwWkO0Qz1JeyEGBgpY-F1dwfl66VUBmYl6-Q41BjUI1yAYFGwstcJAqYCtawRlwR8OLhT0KGuB8AUzRJtCsoQMqBsFlnyYWjUD7QIbWKJgCSyldBWMgyxBIGwFxDZBnBMQmUFnDOJAgWLmPYQ0wLXSDtQBDH6gAGGFQNkgjiAcMeiBeAGaDRKYi5CFmGCGbMQfJjK1QM_rxmoE_MHb1wAPDFBgYFqQFhhnEu2bwcAGFASI0QKEDgsiB0QR2WjcQt4CdCnIkSATi8PVA3APKPkC8AiyyBNUMcGDsh5uxFMWMqWDePqgZ-8HBAhRpggQe4cDY0QkPDEtgYBgakR4auvDAMAbHjglSIgHJYU8ZkFhdDWavgsbqNhCvqRPCa-oByy1DCwhQYILEt4F1gHSCghWifwWYNxmqHxREwBxLOBCARTciexiDQsGM1AxiAk4CkAwCCQVQCIDCBCKGniSAkQ30J4xGuB3kO3hIwMMF5D_0BLEQasJUcEhBEhJIz3SoHtSQQSSHWi4uXTsFUDkS7WMYqwBnG4HZylwA)]
+- [鋼琴伴奏 TMD 檔案](aki_no_kaze_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBkZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsTACkH-slJ4Nm3D8-0rFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbe_3dDzd0P10x47nyyc-2dEJUjp7NlDp051bnk9Z8X5PpxKXlpbC8-XdjxvXvVwEFOh4OXvms87ul917nk_Y8mTPlqdL-4GqFLS0uBRtFSyNuOxtFVy4bIz0TexADnqyo-HZornPWvuAZr9s7lMAuutxQxcpDnzc0A1y45Llz9Yuftrb-GRXD9BpEMazOR3v9_Q837Lo2ewdL2bOVzAwNzLVNTEEOxpo97PpS59t2v1sZtOzOfPhxgNth1jwdMdmqNGtO15M7wfpNzIwMtAzMDDTM7AwMQa6KcDQxAJo2NMJPc9mb3q6a-qzOWuUuLj0tRRsqQW4FBQUHjdMABr_fPa6F6tWPZvR97hhIlgUGCTtu17MnPp-zyyqBCLeWO55vmaNgomZwstl0x43dMBj-3FDJ1Duad98YACDVBgZGj1qmGxkaKzwckEjMOhAmUUvqyAdKAhkGoKYwPB63NAE9cGLVfufNSx_0dH-rLsXGMBArzxu7gYKguKuu_fp2glAM1wUgHELFFMAJhkFoCjQAKCdLxvmP921TAGcpBDmAf0LDCpIOIFSIlIafN4JTAtAnbNAShUUDPUUnnb2AsUVNDzzSorydRRMQCH1fH2DJlDN0_5pz-asfrai6Wn_0scNPY8bNz1u6oSRK572bnzc2PK4AeiUnmf9_c93rgIGCDA0nk7Y-ay76fmW1hcTO18ubnk2ARhWYJcpKBjpKTzZsRsY4hDHKGgE5-el6ygYmkEtVTg8XcFI4dm6rRDbNwMz0LM9U4AqQbqmdz_dB0yIPU-3LwNlrNbeJ7uXvtgz9en25U8n9TzdswxiJtQuytMcFCho6XNxgcPGKgBUmgR5ONQY1ChUgz1kY6FlB2bUKJgCQ84Y6PgaBUMFXSBLF8gyApKmYBZIDARruGpRTPPBZVp8vEK0aSycBpoAZBjGwij8Kgwg9oACF5-jseVQBWD6BeajFwt7FDRASdkQmGZhSUJHAZZ6NbFoBIYTLCRAPjWG-hoUBjXgkDEGhhBE1jAOHBQg5T6GNQqPG7vBWh439gIVALMUlA3SCOI9buwA4gVgNkhkKkIeYoYRshlzkMzYCjWjH68Z-ANjVw88MEyBgWFBWmCYQbxrBg8XUBggQgMUOpB0gQiMJrDTuoG4BexUkCNBIhCHrwfiHiDeBMQrwCJLUM0AB8Z-uBlLUcyYCubtg5qxHxwsQJEmSOARDowdnfDAsAQGhqER6aGhCw8MSCYxQUokIDnsKQMSq6vB7FXQWN0G4jV1QnhNPWC5ZWgBAQpMkPg2sA6QTlCwQvSvAPMmQ_WDguhx43LCgQCsEhDZwxgUCrDii-gMQlxRgQgFYGQD_QmjEW4H-Q4eEvBwAfkPPUEshJowFRxSkIQE0jMdqgc1ZBDJAaUYwVVaQUsecFEELpyQBZDLJpzFGdQgEyDXJBZG4TYYaykIKvXwGkO47DQDCZjlIhxElXJY104BXOQrABmgwIz2AUrD2UZgtjIXAA)]
 
 ## 分析
 
@@ -88,24 +93,25 @@ A2 G2 F2 E2 | D4 F4 | E6 A,2 | D8 |
 ================================================================================
 📊 TMD Song Profile: [ 秋の風 ]
 ================================================================================
-⏱  Duration:       0:20 (20.9s), 16 measures total
+⏱  Duration:       0:41 (41.7s), 32 measures total
 🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  A3 in [Song #1 @ m.15, 0:19]
-   - 最高音: D5 in [Song #1 @ m.4, 0:04]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Song[L1] #1 @ m.2, 0:01]
+   - 最高音: D5 in [Song[L1] #1 @ m.4, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song (20.9s)
+🏛  結構:      Song[L1] (20.9s) -> Song[L2] (20.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  E, F#, A, D, B
-   - 調性數值:    D 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.80), A 大調 (0.70), B 小調 (0.63)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  E, A, F#, D, B
+   - 調性數值:    D 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.82), A 大調 (0.72), B 小調 (0.63)
+   - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Song #1]: D 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [Song[L1] #1]: D 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [Song[L2] #1]: D 大調 (r: 0.82, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -120,19 +126,19 @@ A2 G2 F2 E2 | D4 F4 | E6 A,2 | D8 |
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : ███████████████████       17.2%
+     D  : ████████████████████      17.2%
      D# :                            0.0%
-     E  : ████████████████████████  21.9%
+     E  : ████████████████████████  20.3%
      F  :                            0.0%
-     F# : █████████████████████     18.7%
-     G  : ██████████                 9.4%
+     F# : ██████████████████████    18.7%
+     G  : ███████████                9.4%
      G# :                            0.0%
-     A  : █████████████████████     18.7%
+     A  : ████████████████████████  20.3%
      A# :                            0.0%
-     B  : ███████████████           14.1%
+     B  : █████████████████         14.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A3 – D5 (17 個半音 / 1.4 個八度, 37 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 74 個音符)
 ================================================================================
 ```
 

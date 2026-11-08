@@ -14,7 +14,9 @@ audio: "myogisan.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="myogisan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="myogisan_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="myogisan.mp3"></audio>
+
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
@@ -24,14 +26,6 @@ audio: "myogisan.mp3"
 調性與拍號：原曲に長調四分之三拍子（譜面記為は長調／C 大調 3/4 拍），♩= 92
 作曲與作歌：田村虎藏、大和田建樹
 
-
-## 跨冊／重複收錄參照
-
-> 同曲（〈妙義山〉；收錄於《新定兒童唱歌》五年級與《唱歌帖》P216《小公學校唱歌教材集》抄譜）
-
-- **[同曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈妙義山〉**](../../../shoka_kyozai_shu_1923/grade_5_6/11_myogisan/index.md)（`D` / `3/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_5_6/11_myogisan/myogisan.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）：[**〈妙義山 (妙義山)〉**](../../../shokacho/vol_10/p216_myogisan/index.md)（`D` / `3/4` — [原始 TMD](../../../shokacho/vol_10/p216_myogisan/myogisan.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 

@@ -24,16 +24,6 @@ audio: "shisei_kinembi.mp3"
 - 調性與拍號：調號 ?= C，拍號 <4/4>，速度 != 100
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（6月17日臺灣始政紀念日唱歌；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首及《唱歌帖》P047、P125）
-
-- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈始政紀念日〉**](../../../kogakko_shokashu_1915/5_01_shisei_kinenbi/index.md)（`C` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_01_shisei_kinenbi/shisei_kinenbi.tmd)）
-- **[同曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈始政記念日〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/index.md)（`C` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/shisei_kinenbi.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈始政紀念日〉**](../../../shoka_kyozai_shu_1923/grade_3_4/27_shisei_kinenbi/index.md)（`C` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_3_4/27_shisei_kinenbi/shisei_kinenbi.tmd)）
-- **[同曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈始政紀念日〉**](../../vol_01/p125_shisei_kinenbi/index.md)（`C` / `4/4` — [原始 TMD](../../vol_01/p125_shisei_kinenbi/shisei_kinenbi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

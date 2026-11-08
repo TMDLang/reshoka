@@ -1,10 +1,24 @@
 X:1
-T:兎のもちつき
+T:兎の餅つき
 M:2/4
 L:1/16
 Q:1/4=96
-K:C
+K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+A3 A G2 G2 | F3 F C4 | F3 E F2 G2 | A4 z4 |
+w: ゆ ふ べ の | ゆ め は | お も し ろ | い
+c4 c3 A | G3 G G2 F2 | C3 C C2 D2 | C4 z4 |
+w: つ き の | せ か い に | いつ た れ ば | _
+F3 G A2 d2 | c2 c c G2 z2 | B3 B A2 F2 | G4 z4 |
+w: ね ぢ は ち | ま _ き の | し ろ う さ | ぎ
+F3 G A2 z2 | d2 d d c2 z2 | A3 A G2 G2 | F4 z4 |
+w: も ち を | ぺ た ん こ | つ い て ゐ | た
+A3 A G2 G2 | F3 F C4 | F3 E F2 G2 | A4 z4 |
+w: だ い ふ く | も ち の | つ き た て | を
+c4 c3 A | G3 G G2 F2 | C3 C C2 D2 | C4 z4 |
+w: あ と は | お う ち の | お み あ げ | と
+F3 G A2 d2 | c2 c c G2 z2 | B3 B A2 F2 | G4 z4 |
+w: く _ れ た | じ ふ ば こ | え ん や ら | や
+F3 G A2 z2 | d2 d d c2 z2 | A3 A G2 G2 | F4 z4 |
+w: か つ ぐ | ひや う し に | め が さ め | た

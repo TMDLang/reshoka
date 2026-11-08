@@ -26,13 +26,6 @@ audio: "chikame_no_shikujiri.mp3"
 - 調性與拍號：調號 ?= C，拍號 <4/4>，速度 != 108
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（滑稽唱歌〈近眼のしくじり〉；《唱歌帖》P080 與 P257）
-
-- **[同曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈近眼のしくじり〉**](../../vol_02/p080_kingan_no_shikujiri/index.md)（`A` / `4/4` — [原始 TMD](../../vol_02/p080_kingan_no_shikujiri/kingan_no_shikujiri.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

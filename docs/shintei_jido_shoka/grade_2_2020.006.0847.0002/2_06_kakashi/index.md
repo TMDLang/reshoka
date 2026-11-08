@@ -30,14 +30,6 @@ audio: "kakashi.mp3"
 調性與拍號：ヘ調四拍子（F 大調 4/4 拍），「ゲンキヨク（♩＝112）」
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《公學校唱歌》、《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
-
-- **[同曲]** 《公學校唱歌》第二學年用（昭和11年／1936）：[**〈カカシ（案山子）〉**](../../../kogakko_shoka/grade_2/9_kakashi/index.md)（`F` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_2/9_kakashi/kakashi.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈案山子〉**](../../../shoka_kyozai_shu_1923/grade_1_2/46_kakashi/index.md)（`F` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/46_kakashi/kakashi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

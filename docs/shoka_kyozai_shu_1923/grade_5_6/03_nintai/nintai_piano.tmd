@@ -4,12 +4,17 @@
 ~ "tag: source:school_textbook"
 ~ "tag: source_page:P234"
 ~ "tag: provenance:printed_text"
-~ "tag: evidence:editorial"
+~ "tag: evidence:scan_verified"
 ~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+~ "tag: arrangement:piano_accompaniment"
+~ "tag: theme:moral"
+~ "tag: theme:emotion"
 ** 忍耐（雙手鋼琴伴奏） **
 != 84
 ?= D
 <4/4>
+~ "book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）"
 ~ "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
 ~ "詞：文部省"
 ~ "曲：文部省"

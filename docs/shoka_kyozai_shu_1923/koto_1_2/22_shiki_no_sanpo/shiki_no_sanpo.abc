@@ -6,7 +6,35 @@ Q:1/4=126
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-d4 e4 d2 c2 B2 c2 | d2 z2 A2 z2 A8 | d4 e4 d2 c2 B2 c2 | d2 z2 G2 z2 G8 |
-A4 A4 A2 d2 d2 g2 | A2 z2 A2 z2 d8 | A4 A4 A2 d2 d2 g2 | A2 z2 A2 z2 D8 |
-G4 D4 E2 D2 E2 G2 | B2 z2 A2 z2 A8 | d4 A4 B2 A2 B2 d2 | e2 z2 d2 z2 d8 |
-G4 D4 E2 D2 E2 G2 | B2 z2 A2 z2 A8 | d4 A4 B2 A2 B2 d2 | e2 z2 d2 z2 G8 |
+!mf! d4 e4 d3 c B3 c | d2 z2 A2 z2 A8 | d4 e4 d3 c B3 c | d2 z2 G2 z2 G8 |
+w: た の し _ き _ | よ に も | た の し _ や _ | は る は
+A4 A4 A3 d d3 g | A2 z2 A2 z2 d8 | A4 A4 A3 d d3 g | A2 z2 A2 z2 D8 |
+w: う め さ _ く _ | そ の に | さ く ら _ が _ | を か に
+G4 D4 E3 D E3 G | B2 z2 A2 z2 A8 | d4 A4 B3 A B3 d | e2 z2 d2 z2 d8 |
+w: を ぐ さ _ の _ | の み ち | ぶ ら ぶ _ ら _ | ゆ け ば
+G4 D4 E3 D E3 G | B2 z2 A2 z2 A8 | d4 A4 B3 A B3 d | e2 z2 d2 z2 G8 |
+w: は な よ _ り _ | さ き に | こ こ ろ _ は _ | の ど か
+!mf! d4 e4 d3 c B3 c | d2 z2 A2 z2 A8 | d4 e4 d3 c B3 c | d2 z2 G2 z2 G8 |
+w: た の し _ き _ | よ に も | た の し _ や _ | な つ は
+A4 A4 A3 d d3 g | A2 z2 A2 z2 d8 | A4 A4 A3 d d3 g | A2 z2 A2 z2 D8 |
+w: な み き _ の _ | こ か げ | つ つ み _ の _ | ほ と り
+G4 D4 E3 D E3 G | B2 z2 A2 z2 A8 | d4 A4 B3 A B3 d | e2 z2 d2 z2 d8 |
+w: あ を だ _ の _ | こ み ち | ぶ ら ぶ _ ら _ | ゆ け ば
+G4 D4 E3 D E3 G | B2 z2 A2 z2 A8 | d4 A4 B3 A B3 d | e2 z2 d2 z2 G8 |
+w: か ぜ よ _ り _ | さ き に | こ こ ろ _ は _ | す ず し
+!mf! d4 e4 d3 c B3 c | d2 z2 A2 z2 A8 | d4 e4 d3 c B3 c | d2 z2 G2 z2 G8 |
+w: た の し _ き _ | よ に も | た の し _ や _ | あ き は
+A4 A4 A3 d d3 g | A2 z2 A2 z2 d8 | A4 A4 A3 d d3 g | A2 z2 A2 z2 D8 |
+w: は ぎ ち _ る _ | に は に | む し な _ く _ | ゆ ふ べ
+G4 D4 E3 D E3 G | B2 z2 A2 z2 A8 | d4 A4 B3 A B3 d | e2 z2 d2 z2 d8 |
+w: く も ま _ を _ | な が め | ぶ ら ぶ _ ら _ | ゆ け ば
+G4 D4 E3 D E3 G | B2 z2 A2 z2 A8 | d4 A4 B3 A B3 d | e2 z2 d2 z2 G8 |
+w: つ き よ _ り _ | さ き に | こ こ ろ _ ぞ _ | は る る
+!mf! d4 e4 d3 c B3 c | d2 z2 A2 z2 A8 | d4 e4 d3 c B3 c | d2 z2 G2 z2 G8 |
+w: た の し _ き _ | よ に も | た の し _ や _ | ふ ゆ は
+A4 A4 A3 d d3 g | A2 z2 A2 z2 d8 | A4 A4 A3 d d3 g | A2 z2 A2 z2 D8 |
+w: す が れ _ の _ | さ と わ | か ど た _ の _ | な は て
+G4 D4 E3 D E3 G | B2 z2 A2 z2 A8 | d4 A4 B3 A B3 d | e2 z2 d2 z2 d8 |
+w: を が は _ の _ | こ ば し | ぶ ら ぶ _ ら _ | ゆ け ば
+G4 D4 E3 D E3 G | B2 z2 A2 z2 A8 | d4 A4 B3 A B3 d | e2 z2 d2 z2 G8 |
+w: ゆ き よ _ り _ | さ き に | こ こ ろ _ ぞ _ | き よ き

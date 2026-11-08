@@ -1,10 +1,32 @@
 X:1
 T:二つの里
-M:2/4
+M:6/8
 L:1/16
-Q:1/4=96
+Q:3/8=44
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+e4 e2 d4 c2 | A4 G2 c6 | C4 D2 E4 G2 | A4 c2 G6 |
+w: ハ ナ サ ク | サ ト ト | ト リ ナ ク | サ ト ト
+e4 e2 d4 c2 | A4 G2 c6 | A4 G c E4 D2 | C10 z2 |
+w: カ ハ ヲ へ | ダ テ シ | カ ナ _ シ サ | ヨ
+D4 D2 E4 E2 | G4 E G A6 | E4 E2 G4 G2 | A4 G A c6 |
+w: ハ ナ サ ク | サ ト _ ハ | ト リ ニ ア | コ ガ _ レ
+D4 D2 E4 E2 | G4 E G A6 | E4 E2 G4 G2 | A4 G A c6 |
+w: ト リ ナ ク | サ ト _ ニ | ハ ナ ゾ コ | ヒ シ _ キ
+e4 e2 d4 c2 | A4 G2 c6 | A4 G c E4 D2 | G10 z2 |
+w: フ タ ツ ノ | サ ト ノ | カ ナ _ シ サ | ヨ
+e4 e2 d4 c2 | A4 G2 c6 | A4 G c E4 D2 | C10 z2 |
+w: カ ハ ヲ へ | ダ テ シ | カ ナ _ シ サ | ヨ
+e4 e2 d4 c2 | A4 G2 c6 | C4 D2 E4 G2 | A4 c2 G6 |
+w: は な さ く | さ と と | と り な く | さ と に
+e4 e2 d4 c2 | A4 G2 c6 | A4 G c E4 D2 | C10 z2 |
+w: は し を か | け た る | か な _ し さ | よ
+D4 D2 E4 E2 | G4 E G A6 | E4 E2 G4 G2 | A4 G A c6 |
+w: と ほ め の | は な _ に | ま さ る は | な な _ く
+D4 D2 E4 E2 | G4 E G A6 | E4 E2 G4 G2 | A4 G A c6 |
+w: と ほ な く | と り _ ぞ | ゆ か し か | り け _ る
+e4 e2 d4 c2 | A4 G2 c6 | A4 G c E4 D2 | G10 z2 |
+w: ふ た つ の | さ と の | か な _ し さ | よ
+e4 e2 d4 c2 | A4 G2 c6 | A4 G c E4 D2 | C10 z2 |
+w: は し を か | け た る | か な _ し さ | よ

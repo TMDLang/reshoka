@@ -2,9 +2,17 @@ X:1
 T:鶏
 M:2/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=92
+K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+A2 D2 D2 z2 | A2 D2 D2 z2 | D3 D F2 F2 | A2 A2 A2 z2 |
+w: こけっ こっ こ | こけっ こっ こ | に は と り | お い で
+B3 B B2 A2 | d2 d2 d2 z2 | d3 d d2 B2 | A2 F2 A2 z2 |
+w: み ん な で | お い で | お こ め を | あ げ よう
+B3 A F2 D2 | E2 E F D2 z2 | A2 D2 D2 z2 | A2 D2 D2 z2 |
+w: な の は も | み づ _ も | こけっ こっ こ | こけっ こっ こ
+D3 D F2 F2 | A2 A2 A2 z2 | B3 B B2 A2 | d2 d2 d2 z2 |
+w: に は と り | お い で | み ん な で | お い で
+d3 d d2 B2 | A2 F2 A2 z2 | B3 A F2 D2 | E2 E F D2 z2 |
+w: い っ しょ に | あ そ ばう | い っ しょ に | う た _ はう

@@ -2,9 +2,23 @@ X:1
 T:飛行機の夢
 M:2/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=108
+K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+G3 G D4 | G3 G B2 B2 | A2 A2 G3 B | D6 z2 |
+w: ぼ く が | つ く つ た | ひ か う き | の
+E3 E D2 D2 | B3 B G4 | A2 A2 A3 B | A6 z2 |
+w: は ん ど る | と つ て | ま ひ あ が | り
+D3 D D2 D2 | B3 B G2 G2 | B2 B2 A3 G | E6 z2 |
+w: に つ ぽ ん | こ く ぢ う | と ん で み | た
+D4 E2 D2 | G3 G B2 B2 | A2 A2 D2 E F | G6 z2 |
+w: こ れ は | ゆ ふ べ の | ゆ め で そ _ | ろ
+G3 G D4 | G3 G B2 B2 | A2 A2 G3 B | D6 z2 |
+w: と く しよ | さ ん じゆ つ | た い さ う | と
+E3 E D2 D2 | B3 B G4 | A2 A2 A3 B | A6 z2 |
+w: な ん で も | か う を | も ら つ た | ら
+D3 D D2 D2 | B3 B G2 G2 | B2 B2 A3 G | E6 z2 |
+w: こ の こ は | よ い こ と | ほ め ら れ | た
+D4 E2 D2 | G3 G B2 B2 | A2 A2 D2 E F | G6 z2 |
+w: こ れ は | ほ ん と の | こ と で そ _ | ろ

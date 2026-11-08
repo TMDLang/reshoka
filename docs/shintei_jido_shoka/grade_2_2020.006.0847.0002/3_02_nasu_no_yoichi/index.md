@@ -30,13 +30,6 @@ audio: "nasu_no_yoichi.mp3"
 調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「ゲンキヨク（♩＝88）」
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（《新定兒童唱歌》、《新編 小學校・公學校 唱歌教材集》共同收錄教材）
-
-- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈那須與一〉**](../../../shoka_kyozai_shu_1923/grade_1_2/49_nasu_no_yoichi/index.md)（`F` / `2/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/49_nasu_no_yoichi/nasu_no_yoichi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

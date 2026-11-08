@@ -28,15 +28,6 @@ audio: "tokei.mp3"
 調性與拍號：ト長調 2/4 拍子，♩=92
 
 
-## 跨冊／重複收錄參照
-
-> 同曲（文部省『尋常小學唱歌』〈時計の歌〉；《公學校唱歌集》題為〈時計〉，《新定兒童唱歌》第二學年題為〈とけいのうた〉）
-
-- **[同曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈とけいのうた（時鐘之歌）〉**](../../shintei_jido_shoka/grade_2_2020.006.0847.0002/2_03_tokei_no_uta/index.md)（`G` / `2/4` — [原始 TMD](../../shintei_jido_shoka/grade_2_2020.006.0847.0002/2_03_tokei_no_uta/tokei_no_uta.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈時計の歌〉**](../../shoka_kyozai_shu_1923/grade_1_2/39_tokei_no_uta/index.md)（`G` / `2/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_1_2/39_tokei_no_uta/tokei_no_uta.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）：[**〈時計〉**](../../shoka_kyozai_shu_1923/grade_3_4/22_tokei/index.md)（`C` / `2/4` — [原始 TMD](../../shoka_kyozai_shu_1923/grade_3_4/22_tokei/tokei.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

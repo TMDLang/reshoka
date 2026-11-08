@@ -1,11 +1,11 @@
 ---
 title: "月 — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年"
 song_title: "月"
-description: "〈月〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：待對照 P401.jpg–P402.jpg（原書 p. 392–393）轉錄校對…"
+description: "〈月〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "月, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）"
-musical_key: "C"
+musical_key: "B,"
 image: "P401.jpg"
 audio: "tsuki.mp3"
 ---
@@ -16,32 +16,38 @@ audio: "tsuki.mp3"
 
 <audio controls src="tsuki.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
 
 ## 說明
 
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P401.jpg`–`P402.jpg`，原書 pp. 392–393，高等科一・二學年第 26 首）：
+> - **曲名**：月（つき）
+> - **調性與拍號**：變ロ調四拍子（關係小調為ト短調／G 小調，2 降記號，4/4 拍，弱起 1 拍），速度 ♩= 86
+> - **調式特徵**：以關係大調（B♭ 大調）記簡譜（`3_ 6_ 7_ 1` 對應 D4–G4–A4–B♭4），第 12 小節出現和聲小音階升七級導音 `#5`（F♯4），終止於主音 `6_`（G4）。
+>
+> **一、**
+> 千草（ちぐさ）にすだく　蟲（むし）の音（ね）を　きゝつゝたどる　野路（のぢ）のすゑ
+> 尾花（をばな）の袖（そで）に　まねかれて　のぼりし月（つき）の　さやけさよ。
+>
+> **二、**
+> をかの下道（したみち）　すぎくれば　土橋（どばし）かゝれる　いさゝがは
+> ながるゝ音（おと）は　かすかにて　そこに宿（やど）れる　月（つき）のかげ。
+>
+> **三、**
+> このかは上（かみ）に　寺（てら）やある　鐘（かね）の音（ね）さへも　ひびくなり
+> このかはしもに　誰（たれ）かすむ　ふえの音（ね）さへも　きこゆなり。
+>
+> **四、**
+> かなしき蟲（むし）の　ねにそへて　鐘（かね）のひびきに　笛（ふえ）のこゑ
+> おもはずしぼる　わがそでの　なみだにつきも　やどれるか
 
-- 出處：一條慎三郎 編《新編 小學校- 公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
-- 調性與拍號：調號 ?= C，拍號 <2/4>，速度 != 96
-
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》第一學年、《公學校唱歌集》與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈月〉「出た出た月が…」同曲；《共益商社唱歌教科書》卷二與《唱歌帖》P155 為同名異曲）
-
-- **[同名異曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈ツキ（月亮）〉**](../../../kogakko_shoka/grade_1/7_tsuki/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_1/7_tsuki/tsuki.tmd)）
-- **[同名異曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈月〉**](../../../kogakko_shokashu_1915/2_04_tsuki/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shokashu_1915/2_04_tsuki/tsuki.tmd)）
-- **[同名異曲]** 《共益商社唱歌教科書》卷二・教師用（明治33年／1900）：[**〈月〉**](../../../kyoeki_shoka/kan_2_854863/11_tsuki/index.md)（`C` / `2/4` — [原始 TMD](../../../kyoeki_shoka/kan_2_854863/11_tsuki/tsuki.tmd)）
-- **[同名異曲]** 《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）：[**〈ツキ（月亮）〉**](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki/tsuki.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈月〉**](../../grade_1_2/37_tsuki/index.md)（`F` / `2/4` — [原始 TMD](../../grade_1_2/37_tsuki/tsuki.tmd)）
-- **[同名異曲]** 《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）：[**〈月〉**](../../grade_5_6/39_tsuki/index.md)（`C` / `2/2` — [原始 TMD](../../grade_5_6/39_tsuki/tsuki.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）：[**〈月〉**](../../../shokacho/vol_01/p155_tsuki/index.md)（`C` / `2/2` — [原始 TMD](../../../shokacho/vol_01/p155_tsuki/tsuki.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-待對照 P401.jpg–P402.jpg（原書 p. 392–393）轉錄校對
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -49,20 +55,52 @@ audio: "tsuki.mp3"
 ```abc
 X:1
 T:月
-M:2/4
+M:4/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=86
+K:Gm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+!p! z4 z4 z4 D4 | G8 A4 B4 | G6 E2 D4 D4 | d8 B4 G4 |
+w: ち | ぐ さ に | す だ く む | し の ね
+A8 z4 A4 | B6 A2 G4 D4 | A8 G4 D4 | E6 D2 G4 A4 |
+w: を き | き つ つ た | ど る の | ぢ _ の す
+!pp! G8 z4 c4 | c6 d2 d4 e4 | e8 d4 d4 | c6 B2 A4 G4 |
+w: ゑ を | ば な の そ | で に ま | ね _ か れ
+!p! ^F8 z4 D4 | G8 A4 B4 | G6 E2 D4 D4 | d8 B4 A4 |
+w: て の | ぼ り し | つ き の さ | や け さ
+!p! G8 z4 D4 | G8 A4 B4 | G6 E2 D4 D4 | d8 B4 G4 |
+w: よ を | か の し | た み ち す | ぎ く れ
+A8 z4 A4 | B6 A2 G4 D4 | A8 G4 D4 | E6 D2 G4 A4 |
+w: ば ど | ば し か か | れ る い | さ _ さ が
+!pp! G8 z4 c4 | c6 d2 d4 e4 | e8 d4 d4 | c6 B2 A4 G4 |
+w: は な | が る る お | と は か | す _ か に
+!p! ^F8 z4 D4 | G8 A4 B4 | G6 E2 D4 D4 | d8 B4 A4 |
+w: て そ | こ に や | ど れ る つ | き の か
+!p! G8 z4 D4 | G8 A4 B4 | G6 E2 D4 D4 | d8 B4 G4 |
+w: げ こ | の か は | か み に て | ら や あ
+A8 z4 A4 | B6 A2 G4 D4 | A8 G4 D4 | E6 D2 G4 A4 |
+w: る か | ね の ね さ | へ も ひ | び _ く な
+!pp! G8 z4 c4 | c6 d2 d4 e4 | e8 d4 d4 | c6 B2 A4 G4 |
+w: り こ | の か は し | も に た | れ _ か す
+!p! ^F8 z4 D4 | G8 A4 B4 | G6 E2 D4 D4 | d8 B4 A4 |
+w: む ふ | え の ね | さ へ も き | こ ゆ な
+!p! G8 z4 D4 | G8 A4 B4 | G6 E2 D4 D4 | d8 B4 G4 |
+w: り か | な し き | む し の ね | に そ へ
+A8 z4 A4 | B6 A2 G4 D4 | A8 G4 D4 | E6 D2 G4 A4 |
+w: て か | ね の ひ び | き に ふ | え _ の こ
+!pp! G8 z4 c4 | c6 d2 d4 e4 | e8 d4 d4 | c6 B2 A4 G4 |
+w: ゑ お | も は ず し | ぼ る わ | が _ そ で
+!p! ^F8 z4 D4 | G8 A4 B4 | G6 E2 D4 D4 | d8 B4 A4 |
+w: の な | み だ に | つ き も や | ど れ る
+G8 z4 z4 |
+w: か
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBgiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdKpKZkl-UWZiTlI7kktKgY7G2J8SVFiXnFyUWYByC9KXFpaCs_mdChoaXEp2ipYmnHZ2yo4c9kY6ZvYgQx4sqPh2aK5z1r7nuzofNncp_B8-4rHDV3Ppm0AMhSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W2PG7rf7-l4umT5s7WLn_Y2PtnV83TnFggDaO_7PT3Ptyx6NnvHi5nzFQzMjUx1TQzf7-lU4uLS11J4uq_16Ybe563LFUChoZdVkP6oYTKQaQRiggztmw_UqVCgp2BsaQSUMrY0Bup9sbfzZU8L0CVAvQpa-lxcvomZeVYBmYl5-Q41BjUK1VwKQGBjomUHZtQoGCoYAUljBVMgaQqka4B8QzAJYsNEQGoMFQwUarhqubh07RRApioAaWUuAA)]
-- [鋼琴伴奏 TMD 檔案](tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBgiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdKpKZkl-UWZiTlI7kktKgY7G2J8SVFiXnFyUWYByC8IVYlFQPH01NzUvBKrgszEvPz4xOTk_NyCxLxMkJgSl5aWwrM5He_3dLycPfNZZ_fL7j3PJ2x5smfL06X97_d0KmhpcSnaKliacdnbKjhz2Rjpm9iBzH6yo-HZornPWvue7Oh82dyn8Hz7iscNXc-mbQAyFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbY8buoGWPl2y_NnaxU97G5_s6nm6cwuEAXZPz_Mti57N3vFi5nwFA3MjU10TQ6BzlLi49LUUnu5rfbqh93nrcgVQcOplFaQ_apgMZBqBmCBD--YDdSoU6CkYWxoBpYwtjYF6X-ztfNnTAnQJUK-Clj4XV1BmekaJR2JeilUAKGAcagxqFKq5FIDAxkTLDsyoUTDUNlYw0jYBsoy1TRVMtQ3jgEwwBeLXgOVAaiAsiBiatHm8thHUJAOFGq5aLi6f1DTCFscrmMZDaGMQDeQAmZg0UBLGN42HaoBao2unAPejApCjDBKB2Q0RAAA)]
+- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBgiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5SWWlBaloosWpyYW5-cVK3FpaSk8m9OhoKXFpWirYGHGZW-r4KTDlZ1aaavgnstlY6JvYgfSCvK_lcKzaRueb1-h8HRD_9O1O54tWPi4effT1jUQtsLTKRufre15NnXms7kTXs5ue7-n4-XqGc_Xdj5fPvHJjgag0ie7eoBKn-7c8nzKivd7OsFOAso8WzT3WWvfkx2dL5v7FIDGP27oIsWexw3dQKueLln-bO3ip72NIEt2boEwgB57v6fn-ZZFz2bveDFzvoKBuZGprokh2G4ufS0FW2oBLgUFBTuFaEU__xDXWAhHS-tp33yQvZvbX6zoetHRDnTzi5XznraueDatXUsL5OQNvc_aOxUSQAlIL6sgPeFRw2QQxwjMATocYoBCQYGegrGlEVDW2NIYKIwzVNesUTAyU3i5bBrQg-_3zIK4QxfokmezNz2d0AuydBY4SDoeNy553NgLVIZQ82LV_mcNy0Hu7O4FhhVY8Yt1XY-b1wJlns6eDRR-unYCKFKnz3myvwkYNUDx5027Hjd3PJ8PUvN-T787KMbAzB4jhZcze1-smAE0CsgDpiIFoAEgP-3Z-GLrdgVDCBfozJ6XDfOf7lqm8GjmSnD6Q3bQ0z39zzt3Pt23FeyaJ7uXQu1eshxsSYfTo5lrFWC8TqBtzzcsfLF2DlAmwThewSxewTxewTAB6ChwQLuYAIPQHUQ4ggiQZhOIE0AhZ2gEcvzz9Q1P23c979_3dFLPi8ZNQJGX8ze_nNX3tLf9yY7m51tmPd3QBxRRSFA2BcZQh9ujmethZmxterZ20bNpe57s2A1WYRYPUuEOkn7c0AT2FyxlgCKuoRGY5cD8p73NL3qBRgBjZeHjxgmPG6eCtDSuftw483HjgseN_Y8bGl7M3wRS0NTwuHE6WHYd0A6wlrUgbtMkoBpgjD5umguKWhA5_3HjysdN3UDxl-19L7avByte97hxEUQ7yPCmiVAHbNj3omsj2PxJjxs3PG5cBVHzYhEwJQF1AU1bDnUSyJZ9QEsfN3Y_bup53LgMLAI0bc_jpi6g29CSF0gKpGDq46aWx40TwYwOjNDY1YMUGmA3dAM1PtnR_bJxMti06WDv7AeGDzgwgQYCQ6YPFDIgN2wAijydM__ZSlA5API1yAuQUAI6ci5IDTgcHjcC3QB0ANA7QF3rodY1rgJxgQqa5sKCFOgRUPkEVAPWBXQM0DogCYwRiH-BJkwGcp-uAyVCsNdWgmMBahGWQABpB8YRejIAegbhcZCZEJXrn-zoApsAZINSNiTkn67fBRZc9rgJmFqA1gHtbYJG8YQZMPXg9ICWPIC-btzxuKkJ7PhNjxs3g4IO6PGmLkyrQaENVAm28cWqDWBD5gO9Bg1PULIBJl6gOVsfN4JSFG6LekHGNrVBLEL3O7BEQfE70GRgRAAjuhczqYNNAyY5YPgDQ34HJBYwvQzzGtBekOOfr5kNVgByJ0wB0D3QNA-KZZA3gf6dBbYXmIDBiaQJGDLA5AFK8zCrgQ4Dpj1gTgQ6ABSnUA-C4x0a6Y3dIGMpr0igQEFLn4srpLg0O9MqIDMxL9-hRtewphpkhYKNhRY4EBWw1V8KkOIVWIoDizRgKfNiYY-CBqxK0cSiHmgPyKwaBQNgmQvD1QW1CsDyU1ehBizpY4gqDcyGCDkjNLmmSQg5Y3R9kxFyJuhy3WA5qGuARbcuGAILcF1gZQGUgomZxEPcBnGggjFUIUgNWEUNRA8IggwGcxD-AJavUElgWgWTq8F6gOkaKroAiPvBPmmAykyH61gHJtdCxME-hVkDTBUoYQLxD7IukCkg8flQ0f3QcITYDJLpg-uA2N8DFd-AYs9KhD3A8IWYDtEFshGYoKG6IPZD7AH5EZhroO7uhOloagGLN0HFYS5Gjg9YXAEzAdwekE-g_oWGEkQULXzAtkLk5oLJHVBxkDvQ7cGdokEJeVcP8QkZlBDA0Q5ODdBUAk8SyILAlAQSgrQUYCkFkfQgOQGYFYwQIQFOQSCfg1y-BIxBLFCcgmRAcQMJWUhcgMIDJL4IHhKQEILGeNNE5JBAzjngFASJd0jIQswDhxU0ZSDbA4pHkA5QikZO27AUBEoTiBAHxSRyCgLFF8RtEDZEN0gGFGMQe0BpBFi-QsU3w-0Bp1SIiUBVXSj2oOZ2VHtAJkHMQYQoLDcCi2yoeAdauIFNRA-3RpCthFLQjk7iUxAovoHJAly0mIBtBJEQMQiGqTGEJBpouWOqjpp0MApRRJSugnsJlDVAMsvRgmAfVBwSaPDsDS8UUDMROKEhJR1IAgElD1gSAQcSkF4BNw-UKOBJClr8IYoRWLGIag_YtRiFD0gPzDxoMQdOMMj-gWYRRNKF2gPLCpBiBGYPOAEgkg7UNJAdwOoa2Z7GPTDzIP5sAiVIRAggCh9Q-CIXl8hZAW_SATZUiE865NVb2EoeEEZOOQh_gmIS4X9QAQQpjmEpCpp5wYU7RA6UXRDisEyFZgs43YAyGFKsgc1AFGyg2IOlJ5C9qFkXYjssPSFXjki2gFMNerYGpXFE8QUqdmAFDsh0FHc1tYHFsRU4SLaAi5v9cFsWwH2EFmIQW9B8CctlEJ8iV-UIW2q5uHTtFMANtGgfw1gFBMcImWOMzDEBc5S5AA)]
+- [鋼琴伴奏 TMD 檔案](tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBgiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKrvMSS0qJUdNHi1MTi_LxiJS4tLYVnczre7-l4OXvms87ul917nk_Y8mTPlqdL-9_v6VTQ0uJStFWwMOOyt1Vw0uHKTq20VXDP5bIx0TexAxkJCkArhWfTNjzfvkLh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN0Gsmr1jOdrO58vn_hkRwNQ6ZNdPUClT3dueT5lBdBOsFOBMs8WzX3W2vdkR-fL5j4FoPGPG7pIsedxQzfQqqdLlj9bu_hpbyPIkp1bIAywh3ueb1n0bPaOFzPnKxiYG5nqmhiC7eYKKS7NzrQKAAVskIdDja5hTTWXAhDYWGjZgRn6Wgq26EDh6Z6NL7Zuf9HR_nzNGqDbXyzsUdAAJiEjvayCdE0s6rX0wWbVKBgo6MJxdUGtgnE8kFEDlvQxRJV-3LgQIWeEJtc0CSFnjK5vMkLOBF2uGywHdY0ZyHYQNAcxDEFSMDGTeIjbIA5UMIYqBKkBq6iB6AFBkMFgDsIfjxsnQCUfN04Fk6vBeh43zoSKLgDifrBPGqAy0-E61oHJtRBxsE9h1jxu7EUJE4h_kHWBTAGJz4eK7oeGI8RmkEwfXAfE_h6o-AYUe1Yi7AGGL8R0iC6QjY8b10N1QeyH2APy4-PGZVB3d8J0NLWAxZug4jAXI8cHLK4eN66C2wPyCdS_0FCCiKKFD9hWiNxcMLkDKg5yB7o9uFM0KCHv6iE-IYMSAjjawakBmkrgSQJZEJiSQEJAHlgUklIQSQ-SE4BZwQgREuAUBPI5yOVLwBjEAsUpSAYUN5CQhcQFKDxA4ovgIQEJIWiMN01EDgnknANOQZB4h4QsxDxwWEFTBrI9oHgE6QClaOS0DUtBoDSBCHFQTCKnIFB8QdwGYUN0g2RAMQaxB5RGHjdugopvhtsDTqkQE4GqulDsQc3tqPaATIKYgwhRWG583LgVKt6BFm5gE9HDrRFkK6EUtKOT-BQEim9gsgAXLSZgG0EkRAyCYWoMIYkGWu6YqqMmHYxCFBGlq-BeAmUNkMxytCDYBxWHBBo8e8MLBdRMBE5oSEkHkkBAyQOWRMCBBKRXwM0DJQp4koIWf4hiBFYsotoDdi1G4QPSAzMPWsyBEwyyf6BZBJF0ofbAsgKkGIHZA04AiKQDNQ1kx-PGWcj2NO6BmQfxZxMoQSJCAFH4gMIXubhEzgp4k87T2bOJTzrk1VvYSh4QRk45CH-CYhLhf1ABBCmOYSkKmnnBhTtEDpRdEOKwTIVmCzjdgDIYUqyBzUAUbKDYg6UnkL2oWRdiOyw9IVeOSLaAUw16tgalcUTxBSp2YAUOyHQUdzW1gcWxFThItoCLm_1wWxbAfYQWYhBb0HwJy2UQnyJX5QhbalHaZz4o7TMTaPsM1MABQVBBYAB1GSiS4xWizeJzY4EJAcbCEDVGF0WwgCkHoiIWbDimsViVIgsagdhGSHahWgVyMIqLTUFSpkBVhkDaEKTYBCRigiyCMBOHS6kRCDicCzIWGB-6dgrgKIn2AboIwTFC5hgjc0zAHGUuAA)]
 
 ## 分析
 
@@ -70,24 +108,27 @@ D4 E4 | G4 E4 | D4 D4 | C4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 月 ]
 ================================================================================
-⏱  Duration:       0:10 (10.0s), 8 measures total
-🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <2/4>
+⏱  Duration:       2:58 (178.6s), 64 measures total
+🎼 Key & Tempo:    首調基準 B,, != 86.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – G4 (MIDI 67) [跨度: 7 個半音 / 0.6 個八度, 難度: easy]
-   - 最低音:  C4 in [Main #1 @ m.1, 0:00]
-   - 最高音: G4 in [Main #1 @ m.2, 0:01]
+🎤 人聲音域:    D4 (MIDI 62) – D#5 (MIDI 75) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
+   - 最低音:  D4 in [Tsuki[L1] #1 @ m.1, 0:02]
+   - 最高音: D#5 in [Tsuki[L1] #1 @ m.10, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (10.0s)
+🏛  結構:      Tsuki[L1] (44.7s) -> Tsuki[L2] (44.7s) -> Tsuki[L3] (44.7s) -> Tsuki[L4] (44.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+🗝  調性診斷：       G 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, E, C, G
-   - 調性數值:    G 大調 [相關度: 0.71, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.71), C 大調 (0.62), E 小調 (0.57)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  D, G, A, A#, D#
+   - 調性數值:    G 小調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 96.7%]
+   - 候選調性 (K-S): G 小調 (0.82), G 大調 (0.70), D 大調 (0.65)
+   - 五度圈歷程:   +1 -> +1 -> +1 -> +1
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.71, 自然音純度: 100.0%)
+     • [Tsuki[L1] #1]: G 小調 (r: 0.80, 自然音純度: 96.6%, 調外音: F#)
+     • [Tsuki[L2] #1]: G 小調 (r: 0.82, 自然音純度: 96.7%, 調外音: F#)
+     • [Tsuki[L3] #1]: G 小調 (r: 0.82, 自然音純度: 96.7%, 調外音: F#)
+     • [Tsuki[L4] #1]: G 小調 (r: 0.82, 自然音純度: 96.7%, 調外音: F#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -100,21 +141,21 @@ D4 E4 | G4 E4 | D4 D4 | C4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████            20.0%
+     C  : ██████                     6.7%
      C# :                            0.0%
-     D  : ████████████████████████  33.3%
-     D# :                            0.0%
-     E  : ███████████████████       26.7%
+     D  : ████████████████████████  26.7%
+     D# : ████████                   9.2%
+     E  :                            0.0%
      F  :                            0.0%
-     F# :                            0.0%
-     G  : ██████████████            20.0%
+     F# : ███                        3.3%
+     G  : ████████████████████████  26.7%
      G# :                            0.0%
-     A  :                            0.0%
-     A# :                            0.0%
+     A  : ████████████████          17.5%
+     A# : █████████                 10.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – G4 (7 個半音 / 0.6 個八度, 15 個音符)
+  - Piano         : D4 – D#5 (13 個半音 / 1.1 個八度, 200 個音符)
 ================================================================================
 ```
 

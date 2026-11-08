@@ -27,14 +27,6 @@ Marginal notes: 4 / 二年 / 蓬萊唱 24頁 / 郭水返曲 / 優美ニ？
 Key: ニ調 (D major), Time: 2/4, Tempo: 優美ニ？
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同詞異曲（《公學校唱歌》與《新定兒童唱歌》第二學年〈水グルマ〉為同曲；《唱歌帖》P231 同採「お米つかうよ…」歌詞而旋律不同）
-
-- **[同詞異曲]** 《公學校唱歌》第二學年用（昭和11年／1936）：[**〈ミヅグルマ（水車）〉**](../../../kogakko_shoka/grade_2/1_mizuguruma/index.md)（`F` / `2/4` — [原始 TMD](../../../kogakko_shoka/grade_2/1_mizuguruma/mizuguruma.tmd)）
-- **[同詞異曲]** 《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）：[**〈水グルマ〉**](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md)（`F` / `2/4` — [原始 TMD](../../../shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/mizuguruma.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

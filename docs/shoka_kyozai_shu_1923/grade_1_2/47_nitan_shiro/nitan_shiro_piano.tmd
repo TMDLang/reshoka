@@ -5,14 +5,15 @@
 ~ "tag: source:school_textbook"
 ~ "tag: source_page:P102"
 ~ "tag: provenance:printed_text"
-~ "tag: evidence:editorial"
+~ "tag: evidence:scan_verified"
 ~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
 ** 仁田四郎（雙手鋼琴伴奏） **
 != 100
 ?= D
 <2/4>
 ~ "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
-~ "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
+~ "尋常科第一、二學年用（第 94–95 頁）"
 ~ "文部省"
 
 Main:PianoRH@|0|{

@@ -1,7 +1,7 @@
 ---
 title: "開校記念日 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
 song_title: "開校記念日"
-description: "〈開校記念日〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、日（ひ）每（ごと）に通（かよ）ふ學（がく）校（かう）の ひらけし年（とし）の今（け）日（ふ）の日（ひ）を、…"
+description: "〈開校記念日〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "開校記念日, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
@@ -16,41 +16,35 @@ audio: "kaiko_kinenbi.mp3"
 
 <audio controls src="kaiko_kinenbi.mp3"></audio>
 
+- book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
 - 文部省《尋常小學唱歌》
-- 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P108.jpg–P109.jpg，第六學年 pp. 102–103）：
-調性與拍號：ニ調（D 大調）4/4 拍，速度 ♩=100
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P278.jpg`–`P279.jpg`，原書 p. 270–271，尋常科五・六學年第 23 首）：
+> - **出處**：原載文部省《尋常小學唱歌》第六學年（亦收錄於大正四年臺灣總督府《公學校唱歌集》）
+> - **調性與拍號**：ニ調四拍子（D 大調 4/4 拍），♩= 86
+> - **假名表記**：第 3 段第 9 小節「礎」，歌詞頁振假名印為「いしづゑ」（歷史假名遣），樂譜頁簡譜下方標為「イシズエ」。
+>
+> **一、**
+> 日每（ひごと）に通（かよ）ふ學校（がくかう）の　ひらけし年（とし）の今日（けふ）の日（ひ）を
+> 來（く）る年每（としごと）にかへりみて　祝（いは）ふまどゐの樂（たの）しさよ。
+>
+> **二、**
+> 記念（きねん）のその日祝（ひいは）ふとて　年々（としどし）ここに集（つど）ひ來（く）る
+> 同（おな）じき窓（まど）の友（とも）だちの　いよよ數（かず）ますうれしさよ。
+>
+> **三、**
+> めでたき今日（けふ）の記念日（きねんび）の　百度千度（ももたびちたび）かへるまで
+> 礎（いしづゑ）かたくゆるぎなく　とはにさかゆけ學校（がくかう）よ。
 
-
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌集》、《新編 小學校・公學校 唱歌教材集》、《楊金土手抄唱歌帖》跨冊對照曲目）
-
-- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈開校記念日〉**](../../../kogakko_shokashu_1915/6_08_kaiko_kinenbi/index.md)（`D` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/6_08_kaiko_kinenbi/kaiko_kinenbi.tmd)）
-- **[同名異曲]** 楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）：[**〈開校記念日〉**](../../../shokacho/vol_02/p100_kaiko_kinenbi/index.md)（`D` / `4/4` — [原始 TMD](../../../shokacho/vol_02/p100_kaiko_kinenbi/kaiko_kinenbi.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞
 
 ```text
-一、日（ひ）每（ごと）に通（かよ）ふ學（がく）校（かう）の
-ひらけし年（とし）の今（け）日（ふ）の日（ひ）を、
-來（く）る年（とし）ごとにかへりみて、
-祝（いは）ふまとゐの樂（たの）しさよ。
-
-二、記（き）念（ねん）のその日（ひ）祝（いは）ふとて、
-年（とし）々（どし）こゝに集（つど）ひ來（く）る
-同（おな）じき窓（まど）の友（とも）だちの、
-いよ〳〵數（かず）ますうれしさよ。
-
-三、めでたき今（け）日（ふ）の記（き）念（ねん）日（び）の
-百（もゝ）度（たび）千（ち）度（たび）かへるまで、
-礎（いしずゑ）かたくゆるぎなく、
-とはにさかゆけ、學（がく）校（かう）よ。
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -60,32 +54,40 @@ X:1
 T:開校記念日
 M:4/4
 L:1/16
-Q:1/4=100
+Q:1/4=86
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 F6 F2 E4 D4 | A6 B2 A4 F4 | E6 E2 E4 D2 E2 | F12 z4 |
-w: 1.~ひ ご と に | か _ よ ふ | が く か う _ | の
-w: 2.~き ね ん の | そ _ の ひ | い は ふ と _ | て
-w: 3.~め で た き | け _ ふ の | き ね ん び _ | の
+w: ヒ ゴ ト ニ | カ _ ヨ フ | ガ ク カ ウ _ | ノ
 F6 F2 E4 D4 | A6 B2 A4 F4 | E6 E2 E4 F2 E2 | D12 z4 |
-w: 1.~ひ ら け し | と _ し の | け ふ の ひ _ | を
-w: 2.~と し ど し | こ _ こ に | つ ど ひ く _ | る
-w: 3.~も も た び | ち _ た び | か へ る ま _ | で
+w: ヒ ラ ケ シ | ト _ シ ノ | ケ フ ノ ヒ _ | ヲ
 E6 E2 E4 E4 | D6 F2 A4 A4 | B6 B2 B4 c2 B2 | A12 z4 |
-w: 1.~く る と し | ご _ と に | か へ り み _ | て
-w: 2.~お な じ き | ま _ ど の | と も だ ち _ | の
-w: 3.~い し ず ゑ | か _ た く | ゆ る ぎ な _ | く
+w: ク ル ト シ | ゴ _ ト ニ | カ ヘ リ ミ _ | テ
 B8 d4 A4 | F6 F2 B4 B4 | A6 A2 B4 A4 | d12 z4 |
-w: 1.~い は ふ | ま と ゐ の | た の し さ | よ
-w: 2.~い よ よ | か ず ま す | う れ し さ | よ
-w: 3.~と は に | さ か ゆ け | が く か う | よ
+w: イ ハ フ | マ ド ヰ ノ | タ ノ シ サ | ヨ
+F6 F2 E4 D4 | A6 B2 A4 F4 | E6 E2 E4 D2 E2 | F12 z4 |
+w: き ね ん の | そ _ の ひ | い は ふ と _ | て
+F6 F2 E4 D4 | A6 B2 A4 F4 | E6 E2 E4 F2 E2 | D12 z4 |
+w: と し ど し | こ _ こ に | つ ど ひ く _ | る
+E6 E2 E4 E4 | D6 F2 A4 A4 | B6 B2 B4 c2 B2 | A12 z4 |
+w: お な じ き | ま _ ど の | と も だ ち _ | の
+B8 d4 A4 | F6 F2 B4 B4 | A6 A2 B4 A4 | d12 z4 |
+w: い よ よ | か ず ま す | う れ し さ | よ
+F6 F2 E4 D4 | A6 B2 A4 F4 | E6 E2 E4 D2 E2 | F12 z4 |
+w: メ デ タ キ | ケ _ フ ノ | キ ネ ン ビ _ | ノ
+F6 F2 E4 D4 | A6 B2 A4 F4 | E6 E2 E4 F2 E2 | D12 z4 |
+w: モ モ タ ビ | チ _ タ ビ | カ ヘ ル マ _ | デ
+E6 E2 E4 E4 | D6 F2 A4 A4 | B6 B2 B4 c2 B2 | A12 z4 |
+w: イ シ ズ エ | カ _ タ ク | ユ ル ギ ナ _ | ク
+B8 d4 A4 | F6 F2 B4 B4 | A6 A2 B4 A4 | d12 z4 |
+w: ト ハ ニ | サ カ ユ ケ | ガ ク カ ウ | ヨ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kaiko_kinenbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJlbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzCFX5RSUZ-UBHF2RUWmVkFoMMSU7Mic9OzEtEKCrJSAV6DeqBnMy0VHSptNTikswyZNsh4smpRam5-Xlgd2lpKbyc1v1swcIXK2Y83b_12fSlClpaXIq2CoYGBlz2tgouXDYm-iZ2IBOe7Gh4tmjus9a-Jzs6Xzb3KTzfvuJxQ9ezaRuADIWnG_qfrt0BNOdx8-6nrWsgbIWnUzY-W9vzbOrMZ3MnvJzd9rih-_2ejqdLlj9bu_hpb-OTXT1Pd26BMJ7N6Xi_p-f5lkXPZu94MXO-goG5kamuieH7PZ1g1z-b1v6yecXzOY1AG59u6H66YwfEQogFQHPBql6073reuPj5jr3P5y5-umsOSC3MKRCF6G6YPRvoAKB3sNmuYGQGtp1LX0vBllqAS0FB4WnffJA1m9tfrOh60dEOdNaLlfOetq4A-hHksg29z9o7FQIMDSz0sgrSHzVMBjItQUyQC9esedq6FuTvnVsUCgr0gLFkBFRhaGAMdOr7PbNAxr9Ytf9Zw3KQwd29QL8ARR83dwMFgWa7KAD9DWZ2AiNVAagAaObLhvlPdy1TeDRzpS0ozkFGAGP6cUMjMC0A9Txu3ARU_mx9P5g95XHjCiD3cePqlw2zwCLdj5uAYQcU2Qp0Flik53EjUHEnMNChChrbwArWgYwGGve4CciZ-LhxOtATYBUrgGyIiie7u8AiE0H6odZvhUghu-Zx0ySg-8Au3Qc0GygKsvBxUzeGiSD3Ah0LdsWOx01djxv3P25cBtX8fOlcsOqWx43rIV543LgPpKFpAsjCFU1g2flANlh2-uPGqUDPPm5oggTSLmC6awRmG7AqYEh2AvMPmL32cdNkiKMfN85Fczo2O4EuhDkJ3QMNrWDuSph_Jj9uApq4GpiOweJLgFJg8U1oAQE2a0IPWAjo6VVgRTOAzny-Cug0oCDQnxCd6572gzIE2NtADwNFFjxuXAhyO8RFIKeCPL35ccPWZ1MhMQwMTGDkA5UCTZkJjN7HTcA4Rw-eHUDXNz5uanzcuBwciL14IhdPKMJUbkakoecz94GEmpqAgQHSsGsZLKJAip72NoO5wNSHLgVLBkAS6PLlsGSwpA8WJUA_zHrcBHIgWClQW__jJqD3gOw-YCiCuLBQAcbQenDKmgrOA22gJN3QSCAPQIIHqJ_ykgQKFLT0ubi8EzOz870z81LzkjKtAjIT8_IdagxqqkEWKdhYaNmBGdiKMQVggQLM7C8W9ihomIDK8OfrG3TgZY8mFg1A60CG1SgYK-gCobGCEZA0BOIaBVOwiBmYBsnWgOV0gSREjRFcFwQagNSATfMxrAEVDGBRYJ4FhS6YtRpsCjD4oDqA4QcW3woV74Hq6IeqAYYyVGYdkj3xCHuMQHK9UF1rgeZNBrNAqkEyc2H2gEUgLgKJt0BF10PthrgPJLMMuz3GQLmmRqiu5UA8H8wC2QzSNRFuD8Q0mP2YLtuM0z_443RXDz3iFKSyBqySQJw2dUJ9DcxiUB-BQhDiW5AIIgwgYQMKGbRYaJqEPazBcQoxDWQWsFxDsQcUjhA5SIjC0tQSqOhKqA2gVASxB5basMVpE9Q_TfA4hcXQQrg9qOIQ04DFDtRkYNEDlVmOYQ-BfNpJTpwixxcIw-LLGBynIFwDjF9ILINocyAJi3fscQoKJ1AYdMPzKSysp8DDAFv-hYRBF5i1HyqDI_-A4xSkEqR2FRDPALNg-QcUgrDYQ0470FQAjp0FYBlQrOApD0BxCs_doLQzC6wflAZRyh1onMJSCKiUgYVAH9SNEB2QsCE6ToENUHLiFBJfwDwaByQgUQjLuiApEIZFoSmYB1EDVo4rViGhACnlkMtYSFiDwhbYLEIJbVCYQPiwPDwVGj6gUhpXrMLtgZTlYBI5jcyC2glsWUBlYKHdQ6w94FhFlC8Q_8DSIkgviA-MO3A8QkocvLUJFntqubh07RSQ610FIF-ZCwA)]
-- [鋼琴伴奏 TMD 檔案](kaiko_kinenbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJlbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSqSmZJflFmYk5SA5KLSoGuxtifElRYl5xclFmAcgzSlxaWgovp3U_W7DwxYoZT_dvfTZ96fs9HS9nz3zW2f2ye8_zCVue7NnydGn_-z2dClpaXIq2CoYGBlz2tgouXDYm-iZ2IFue7Gh4tmjus9a-Jzs6Xzb3KTzfvuJxQ9ezaRuADIWnG_qfrt0BNP9x8-6nrWsgbIWnUzY-W9vzbOrMZ3MnvJzd9rihG2jr0yXLn61d_LS38cmunqc7t0AYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfEEOgesA-fTWt_2bzi-ZxGoI1PN3Q_3bEDYiHEAqC5YFUv2nc9b1z8fMfe53MXP901B6QW5hSIQnQ3zJ4NdADQO9hsVzAyA9vO5Z2YmZ3vnZmXmpeUaRWQmZiXH-ThUGNQU82lAAQ2Flp2YIa-loItOlB4vmYNMNheLOxR0DABhdHz9Q06CgGGBhZ6WQXpmlg0aOmDDatRMFbQBUJjBSMgaQjENQqmYBEzMA2SrQHL6QJJiBojuC4INACpAZvmY1ij8LhxE1j0ceMUIF4BZq0Gm_K4sRuq43FTB1h8K1S8B6qjH6rmcWMbVGYdkj3xCHuMQHK9UF1rgeZNBrNAqkEyc2H2gEUgLgKJt0BF10PthrgPJLMMuz3GQLmmRqiu5UA8H8wC2QzSNRFuD8Q0mP2YLtuM0z_443RXDz3iFKSyBqySQJw2dUJ9_bhxOtRHoBCE-BYkgggDSNiAQgYtFpomYQ9rcJxCTAOZ9bhxJYo9oHCEyEFCFJamlkBFV0JtAKUiiD2w1IYtTpug_mmCxykshhbC7UEVh5j2uHEH1OTHjfugMssx7CGQTzvJiVPk-AJhWHwZg-MUhGuA8QuJZRBtDiRh8Y49TkHhBAqDbng-hYX1FHgYYMu_kDDoArP2Q2Vw5B9wnIJUgtSuAuIZYBYs_4BCEBZ7yGkHmgrAsbMALAOKFTzlAShO4bkblHZmgfWD0iBKuQONU1gKAZUysBDog7oRogMSNkTHKbCAJydOIfEFzKNxQAIShbCsC5ICYVgUmoJ5EDVg5bhiFRIKkFIOuYyFhDUobB83TUAJbVCYQPiwPDwVGj6gUhpXrMLtgZTlYBI5jcyC2vm4cSZUBhbaPcTaA45VRPkC8Q8sLYL0gvjAuAPHI6TEwVubYLGnFlu164Nc7Zogqt0XfV0v23uftW572rrj5aIVwEh_1t37dO2Ep9uXAZs3kIYNInIN4xWiDWMVTOMhNETAJBYmDoxYkIxpPEQJCMP1ACkDaCCQag6Ygd0g_OogZplAzAZSQIRiN8IchBqEe4AMqDAKH5tjgEGua6eAHOrRPoaxYLMxxI1wiBvDxZW5AA)]
+- [主旋律 TMD 檔案](kaiko_kinenbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJlbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9B_VETmZaKrpUWmpxSWZZYg66eHJqUWpufl4mSEZLS-HltO5nCxa-WDHj6f6tz6YvVdDS4lK0VbAw47K3VXDhsjHRN7EDGQAKIiuFZ9M2PN--QuHphv6na3cAtT1u3v20dQ2ErfB0ysZna3ueTZ35bO6El7Pb3u_peLqh--mOHc-XT3yyawpY6Vqg0qc7tzyfsuL9nk6ww57saHi2aO6z1r4nOzpfNvcpAI1_3NBFij2PG7pBVi1Z_mzt4qe9jU929QBtgDCezel4v6fn-ZZFz2bveDFzvoKBuZGprokhzO5n09pfNq94PqcRaCPEqRALIRYAzVXi4tLXUrClFuBSUFCwU4hW9PMPcY2FcLS0nvbNB7luc_uLFV0vOtqBFr9YOe9p6wqg47S0wGHY-6y9UyEBlBL1sgrSEx41TAZxLMEcoPcgBigU6CkYmRsAJY3MgR7swRn0a9YoGBkrvFw2DRgK7_fMgjhDF-SQ9l0vZk4F2TkLaOSLPZ0EgwdoFtxcoEuf7Fr2bMq2lz0tz6btgUbH7NlAqRftu543Ln6-Y-_zuYuf7poDMg0WlxCjYJHYiXDMi1X7nzUsB4VHdy8w5sCuetzcDRQGmgkUe7p2AtBGFwWgPUAxBWAqVQCKgr3U82jmSnACRvissf3phN4XC1cAUznYJFAgGCs8W7cVxLAEJbPn6xseN_Q8X9L3uAFoSg8kFl4uaHzWsx6i-2nvhudNu4BqHje2PG6c_rhx6eOmiWDFHc_Wbn_avwmi7GXjYogjnq1oerF2DtCE5xsWAhlPdnQ_m7bz2YqZUEOaljxu2v4YyG4CJvfexw1NYNfC0gQwUzxuaATmRDAfmCufre8HWvS4cdPjximPG0GZ53Hj6pcNs8CC3Y-bgMkcKLIVEqhgQaA7-0FSjcB8CJRa97ihAaS9CcieCHQ_JMaARgHZEAVPdncBLQILAhVshQjCRDaBuE2TIO55sg-Ut4HmgwW7gUbBnAcyDdmFYAfseNzU9bhx_-PGZUA3PF86F6wSGIbrIW5-3LjvcePKx00TQNataALLzgeywbJA06YCfYcRPruAyQ8ePpCyC6yx93Hj2sdNk6FebpwL8QLMUmDoIdsLdC3ISUD3P25oRXL_SliYTAaj1ZCy7HHjEqAUWHwTWghAnPF0Qg9YEOjZVWBlM4Dueb4K6BigIMiPEFc97QcVVyC7moCeBYoseNy4EBZBLSDPNnU8m7oDGrONwCgGqgFqnwmMysdNwGjFFSY7OpHC5HFT4-PG5eCQ7MUas_ACHzncHjduhqeW5zP3Pd217GlvM5AEqWlqAiGQgZvBDgYxwIohUQwkgY5cDrEdmI9gsQzNKTCVQF39j5uAHgGy-4ABBeKCPA4M-fXgBDMVnJ7bgE7FmZjhfqe8RIYCBS19Li7vxMzsfO_MvNS8pEyrgMzEvHyHGoMahWqQTQo2FlrgkFbAVh8oAIsRYJZ9sbBHQcMEWproKMDKaE0sGoD2gQyrAZZCukBorGAEJA2BuEbBFCxiBqZBsjVgOV0gCVFjBNcFgQYgNWDTfAxrFB43TwKLPm7aAmR3gFjN3WBTHjethup43LwCTE6Fiq-B6lgPVfO4aRlEBlgdI-yJR9hjBJRr7IXoalwLVD8ZzFoH0dU4F2YPWASYXaDiLVBRoD2NW8EskDtAMiD7sNhjDHLDQqib24H27Ae7bi3U3Rvh_gH5BOJakDhIHsTvBeLNYBbIfdj9gz9Od_XQI05BKmvAKgnEafNKqK-BdQfUR6AYhsQeSAQRBpCwAYUMRAxiBkgHKDZwxSkoPkDxMh2IV0JZkBgChSBEDhLXoHQCEl8CFQW6DBzPwIwKdQEo1eGK00VQ1y2CxSk8hhrh_kERh6bdx80zgBicRpvnQXW0Y9hDIJ92khOnyPEFwrD4MgbHKQjXAOMXEssg2hxIwuIda5wCcxvER6th-RQWp8CcC0vX2PIvJAxWgVnzoWHQhj2swXHaBdHVuAqIZ4BZvRBdjftg9kDjGpZ_oamgqQnIXgCWAeVBkAxIBY44bYKmBKAvgM0aMAuauxHlDjT_gnwOcjUk14NDoAlcUjSD3IoIG6LjFNgkJCdOIfEFzKNxQAIShbCsC5ICYVgUmoJ5EDVg5bhiFRIKIL-A8gG8jAWnVhC_E4g3gFmwnAoKEwgfmoebQGUjSA8kHrDHKqQsBamGpB0QCRKH5DpgswEav8B2A1QGkkaALQhorgZWtVAXwMoQbDkVXr5A_QNLiyA3gkwDpV5QPEJKHPy1CaZ_arm4dO0UkCveaB_DWAUMMSMsYsZgMWUuAA)]
+- [鋼琴伴奏 TMD 檔案](kaiko_kinenbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJlbIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIpgvs3JTEtFl0pLLS7JLEvMQRdPTi1Kzc3PywTJaGkpvJzW_WzBwhcrZjzdv_XZ9KXv93S8nD3zWWf3y-49zydsebJny9Ol_e_3dCpoaXEp2ipYmHHZ2yq4cNmY6JvYgQwGhbGVwrNpG55vX6HwdEP_07U7gMY9bt79tHUNhK3wdMrGZ2t7nk2d-WzuhJez24A2PN3Q_XTHjufLJz7ZNQWsdC1Q6dOdW55PWQG0CuzgJzsani2a-6y178mOzpfNfQpA4x83dJFiz-OGbpBVS5Y_W7v4aW_jk109QBsgjGdzOt7v6Xm-ZdGz2TtezJyvYGBuZKprYgiz-9m09pfNK57PaQTaCHEqxEKIBUBzlbi4vBMzs_O9M_NS85IyrQJAERXk4VBjUKNQzaUABDYWWnZghr6Wgi06UHi-Zg3Qfy8W9ihomIA883x9g44CME1a6mUVpGti0aClDzasRsFYQRcIjRWMgKQhENcomIJFzMA0SLYGLKcLJCFqjOC6INAApAZsmo9hjcLj5klg0cdNW4DsDhCruRtsyuOm1VAdj5tXgMmpUPE1UB3roWoeNy2DyACjCWFPPMIeI6BcYy9EV-NaoPrJYNY6iK7GuTB7wCKPGzdBxVugokB7GreCWSB3gGRA9mGxxxjkhoVQN7cD7dkPdt1aqLs3wv0D8gnEtSBxkDyI3wvEm8EskPuw-wd_nO7qoUecglTWgFUSiNPmlVBfP27aDvURKIYhsQcSQYQBJGxAIQMRg5gB0gGKDVxxCooPULxMB-KVUBYkhkAhCJGDxDUonYDEl0BFgS4Dx_Pjxn6oC0CpDlecLoK6bhEsTuEx1Aj3D4o4NO0-bp4BxOA02jwPqqMdwx4C-bSTnDhFji8QhsWXMThOQbgGGL-QWAbR5kASFu9Y4xSY2yA-Wg3Lp7A4BeZcWLrGln8hYbAKzJoPDYM27GENjtMuiK7GVUA8A8zqhehq3AezBxrXsPwLTQVNTUD2ArAMKA-CZEAqcMRpEzQlAH3xuGkXmAXN3YhyB5p_QT4HuRqS68Eh0AQuKZpBbkWEDdFx-nT2bHLiFBJfwDwaByQgUQjLuiApEIZFoSmYB1EDVo4rViGhAPILKB_Ay1hwagXxO4F4A5gFy6mgMIHwoXm4CVQ2gvRA4gF7rELKUpBqSNoBkSBxSK573DgLGr-PG2dCZSBp5HFTDzRXP26Elf-wMgRbToWXL1D_wNIiyI0g00CpFxSPkBIHf22C6Z9abPWuD0q9awKtd4HhHq8QbRirYBoPoSECJrEwcWBUgWRM4yFKQBiuB0gZQL1FqjlgBnaD8KuDmGUCMRtIARGK3QhzEGoQ7gEyoMIofGyOAQairp0CcjhG-wBlMcSMsIgZg8WUuQA)]
 
 ## 分析
 
@@ -93,14 +95,14 @@ w: 3.~と は に | さ か ゆ け | が く か う | よ
 ================================================================================
 📊 TMD Song Profile: [ 開校記念日 ]
 ================================================================================
-⏱  Duration:       0:38 (38.4s), 16 measures total
-🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <4/4>
+⏱  Duration:       2:13 (134.0s), 48 measures total
+🎼 Key & Tempo:    首調基準 D, != 86.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [KaikoKinenbi #1 @ m.1, 0:01]
-   - 最高音: D5 in [KaikoKinenbi #1 @ m.13, 0:30]
+   - 最低音:  D4 in [KaikoKinenbi[L1] #1 @ m.1, 0:02]
+   - 最高音: D5 in [KaikoKinenbi[L1] #1 @ m.13, 0:34]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      KaikoKinenbi (38.4s)
+🏛  結構:      KaikoKinenbi[L1] (44.7s) -> KaikoKinenbi[L2] (44.7s) -> KaikoKinenbi[L3] (44.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -108,9 +110,11 @@ w: 3.~と は に | さ か ゆ け | が く か う | よ
    - 核心骨幹音:  A, E, F#, D, B
    - 調性數值:    A 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): A 大調 (0.80), D 大調 (0.75), F# 小調 (0.63)
-   - 五度圈歷程:   +3
+   - 五度圈歷程:   +3 -> +3 -> +3
    - 各段落調性細節:
-     • [KaikoKinenbi #1]: A 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [KaikoKinenbi[L1] #1]: A 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [KaikoKinenbi[L2] #1]: A 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [KaikoKinenbi[L3] #1]: A 大調 (r: 0.80, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -137,7 +141,7 @@ w: 3.~と は に | さ か ゆ け | が く か う | よ
      B  : ████████████████          15.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 54 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 162 個音符)
 ================================================================================
 ```
 

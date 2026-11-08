@@ -1,10 +1,48 @@
 X:1
-T:大國民
+T:大國民唱歌
 M:2/4
 L:1/16
-Q:1/4=96
-K:C
+Q:1/4=120
+K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+!f! C3 C F3 F | D3 D C3 C | F3 F A3 F | G6 z2 |
+w: に ひ た か | や ま は _ | た か け れ | ど
+A3 A F3 F | D3 D C3 C | F3 F A3 G | F6 z2 |
+w: く に の _ | み い つ は | な ほ た か | し
+C3 C C3 C | D3 D C3 C | A3 G F3 G | A6 z2 |
+w: だ く す ゐ | け い は _ | ひ ろ け れ | ど
+B3 B A3 A | G3 F G3 A | C3 C C3 C | F6 z2 |
+w: き _ み の | み め ぐ み | な ほ ひ ろ | し
+!f! C3 C F3 F | D3 D C3 C | F3 F A3 F | G6 z2 |
+w: だ い こ く | み ん は _ | と ち ひ ろ | く
+A3 A F3 F | D3 D C3 C | F3 F A3 G | F6 z2 |
+w: た み お ほ | き を ば _ | い ふ べ し | や
+C3 C C3 C | D3 D C3 C | A3 G F3 G | A6 z2 |
+w: じ だ い _ | し さ う を | さ ら ず ん | ば
+B3 B A3 A | G3 F G3 A | C3 C C3 C | F6 z2 |
+w: こ く う ん | い か で _ | す す む べ | き
+!f! C3 C F3 F | D3 D C3 C | F3 F A3 F | G6 z2 |
+w: わ が て い | こ く の _ | た ふ と き | は
+A3 A F3 F | D3 D C3 C | F3 F A3 G | F6 z2 |
+w: き み じん _ | あ い に _ | た み ちゆ う | に
+C3 C C3 C | D3 D C3 C | A3 G F3 G | A6 z2 |
+w: じん _ だ う | しゆ ぎ を _ | む ね と し | て
+B3 B A3 A | G3 F G3 A | C3 C C3 C | F6 z2 |
+w: さ ん ぜ ん | ね ん の _ | れ き し あ | り
+!f! C3 C F3 F | D3 D C3 C | F3 F A3 F | G6 z2 |
+w: あ へ て た | こ く を _ | お か さ ね | ど
+A3 A F3 F | D3 D C3 C | F3 F A3 G | F6 z2 |
+w: ひ ら く る | み よ の _ | あ た ら し | き
+C3 C C3 C | D3 D C3 C | A3 G F3 G | A6 z2 |
+w: りや う ど の | た み を _ | あ い す る | は
+B3 B A3 A | G3 F G3 A | C3 C C3 C | F6 z2 |
+w: そ こ く の | た み に _ | こ と な ら | ず
+!f! C3 C F3 F | D3 D C3 C | F3 F A3 F | G6 z2 |
+w: そ こ く の | た み と _ | も ろ と も | に
+A3 A F3 F | D3 D C3 C | F3 F A3 G | F6 z2 |
+w: わ が こ く | た い と _ | わ が れ き | し
+C3 C C3 C | D3 D C3 C | A3 G F3 G | A6 z2 |
+w: こ こ ろ に | し る し _ | つ と め つ | つ
+B3 B A3 A | G3 F G3 A | C3 C C3 C | F6 z2 |
+w: だ い こ く | み ん の _ | な を あ げ | よ

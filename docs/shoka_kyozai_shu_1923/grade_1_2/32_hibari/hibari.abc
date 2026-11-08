@@ -1,10 +1,24 @@
 X:1
 T:雲雀
-M:2/4
+M:4/4
 L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
+Q:1/4=144
+K:F
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
-C4 D4 | E4 G4 | G4 E4 | D4 C4 |
-D4 E4 | G4 E4 | D4 D4 | C4 z4 |
+A6 G2 A6 G2 | A4 G4 F8 | A4 c4 c4 A4 | F4 G4 A8 |
+w: ぴ い ぴ い | ぴ い と | さ へ づ る | ひ ば り
+F4 A4 A4 G4 | F4 F4 C8 | F6 E2 F4 G4 | A4 A4 G8 |
+w: さ へ づ り | な が ら | ど こ ま で | あ が る
+A4 d4 c8 | G4 c4 A8 | d4 c4 A8 | G4 A4 F8 |
+w: た か い | た か い | く も の | う へ か
+A6 G2 A4 B4 | c6 c2 A4 F4 | A6 A2 G4 F4 | G4 A4 F8 |
+w: こ _ ゑ は | き こ え て | み え な い | ひ ば り
+A6 G2 A6 G2 | A4 G4 F8 | A4 c4 c4 A4 | F4 G4 A8 |
+w: ぴ い ぴ い | ぴ い と | さ へ づ る | ひ ば り
+F4 A4 A4 G4 | F4 F4 C8 | F6 E2 F4 G4 | A4 A4 G8 |
+w: さ へ づ り | や ん で | ど こ ら へ | お ち た
+A4 d4 c8 | G4 c4 A8 | d4 c4 A8 | G4 A4 F8 |
+w: あ を い | あ を い | む ぎ の | な か か
+A6 G2 A4 B4 | c6 c2 A4 F4 | A6 A2 G4 F4 | G4 A4 F8 |
+w: す _ が た | か く れ て | み え な い | ひ ば り

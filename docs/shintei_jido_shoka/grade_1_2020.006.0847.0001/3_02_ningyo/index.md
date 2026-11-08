@@ -28,16 +28,6 @@ audio: "ningyo.mp3"
 中文解釋：描寫可愛的人偶，以及孩子與人偶遊玩的情景。
 
 
-## 跨冊／重複收錄參照
-
-> 同曲＋同名異曲（《公學校唱歌》第一學年、《公學校唱歌集》與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈人形〉同曲；《共益商社唱歌教科書》卷三〈人形〉為同名異曲）
-
-- **[同曲]** 《公學校唱歌》第一學年用（昭和10年／1935）：[**〈ニンギヤウ（人偶）〉**](../../../kogakko_shoka/grade_1/10_ningyo/index.md)（`F` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_1/10_ningyo/ningyo.tmd)）
-- **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈人形〉**](../../../kogakko_shokashu_1915/1_07_ningyo/index.md)（`F` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/1_07_ningyo/ningyo.tmd)）
-- **[同名異曲]** 《共益商社唱歌教科書》卷三・教師用（明治33年／1900）：[**〈人形〉**](../../../kyoeki_shoka/kan_3_854864/18_ningyo/index.md)（`B,` / `4/4` — [原始 TMD](../../../kyoeki_shoka/kan_3_854864/18_ningyo/ningyo.tmd)）
-- **[同曲]** 《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）：[**〈人形〉**](../../../shoka_kyozai_shu_1923/grade_1_2/14_ningyo/index.md)（`F` / `4/4` — [原始 TMD](../../../shoka_kyozai_shu_1923/grade_1_2/14_ningyo/ningyo.tmd)）
-- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
-
 ## 歌詞
 
 ```text

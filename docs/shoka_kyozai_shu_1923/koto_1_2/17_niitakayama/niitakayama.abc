@@ -1,15 +1,35 @@
 X:1
 T:新高山
+C:曲：岡野貞一
 M:3/4
 L:1/16
 Q:1/4=100
 K:C
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-G,3 G, G,4 c4 | c3 B B4 z4 | G,3 G, G,4 d4 | d3 c c4 z4 |
-e3 e d4 d4 | d3 c B4 A4 | A8 ^F4 | G8 z4 |
-B,3 B, B,4 B,4 | c3 B A4 G4 | G8 G4 | G8 z4 |
-B,3 B, B,4 B,4 | c3 d e4 d4 | d8 c4 | B8 z4 |
-G,3 G, G,4 c4 | _B,3 A, A,4 z4 | A,3 A, A,4 d4 | C3 ^F B,4 B,2 z2 |
-e3 e f4 d4 | c8 B4 | c8 z4 | e3 e f4 d4 |
-c8 B4 | c8 z4 |
+!p! G3 G G4 c4 | c3 B B4 z4 | G3 G G4 d4 | d3 c c4 z4 |
+w: ア ラ タ ニ | キ ミ ニ | マ ツ ロ ヒ | キ ニ シ
+!f! e3 e d4 d4 | d6 c2 B4 | A8 ^F4 | G8 z4 |
+w: ト ホ キ シ | マ ノ ミ | ナ カ | ニ
+B3 B B4 B4 | c6 B2 A2 G2 | G8 G4 | G8 z4 |
+w: ト ハ ニ タ | フ ト キ シ | ヅ メ | ト
+B3 B B4 B4 | c6 d2 e4 | d8 c4 | B8 z4 |
+w: ソ ビ エ タ | テ ル カ | ミ ヤ | マ
+!p! G3 G G4 c4 | _B3 A A4 z4 | !mf! A3 A A4 d4 | c3 ^F B6 z2 |
+w: コ ゴ シ ク | タ カ ク | ヲ ヲ シ ク | タ テ ル
+!f! e6 e2 f2 d2 | c8 B4 | c8 z4 | !ff! e6 e2 f2 d2 |
+w: ス ガ タ タ | フ ト | ヤ | ス ガ タ タ
+c8 B4 | c8 z4 | !p! G3 G G4 c4 | c3 B B4 z4 |
+w: フ ト | ヤ | め い ぢ の | み か ど
+G3 G G4 d4 | d3 c c4 z4 | !f! e3 e d4 d4 | d6 c2 B4 |
+w: か し こ き | き み の | お ほ せ ま | し し よ
+A8 ^F4 | G8 z4 | B3 B B4 B4 | c6 B2 A2 G2 |
+w: き な | や | た れ か し | ま び と わ
+G8 G4 | G8 z4 | B3 B B4 B4 | c6 d2 e4 |
+w: す れ | ん | ふ か き き | み の み
+d8 c4 | B8 z4 | !p! G3 G G4 c4 | _B3 A A4 z4 |
+w: め ぐ | み | に ひ た か | や ま と
+!mf! A3 A A4 d4 | c3 ^F B6 z2 | !f! e6 e2 f2 d2 | c8 B4 |
+w: め で た く | お ひ し | よ き な か | し こ
+c8 z4 | !ff! e6 e2 f2 d2 | c8 B4 | c8 z4 |
+w: や | よ き な か | し こ | や
