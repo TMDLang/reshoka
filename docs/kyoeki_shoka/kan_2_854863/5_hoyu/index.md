@@ -25,11 +25,8 @@ audio: "hoyu.mp3"
 
 
 - 出處：出處：共益商社樂器店《唱歌教科書 教師用 巻二》第十～十一頁（第五曲）
-
 - 出處：NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P011.jpg
-
 - 調性與拍號：調號 ?= C，拍號 <4/4>，速度 != 138
-
 
 
 ## 歌詞

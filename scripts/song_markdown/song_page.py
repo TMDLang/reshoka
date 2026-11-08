@@ -228,7 +228,7 @@ def generate_song_folder(
                 line = line.replace("・", "- ")
                 if lines.endswith("\n") == False:
                     lines += "\n"
-                lines += line + "\n\n"
+                lines += line + "\n"
             elif line.startswith("【曲目說明】"):
                 lines += "\n\n"
             else:

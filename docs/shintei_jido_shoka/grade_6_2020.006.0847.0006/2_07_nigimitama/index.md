@@ -26,8 +26,9 @@ audio: "nigimitama.mp3"
 
 ## 跨冊／重複收錄參照
 
-> 同曲（《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）
+> 同曲（芝葛鎮作曲〈にぎみたま〉；收錄於《公學校唱歌》六年級、《公學校唱歌集》與《新定兒童唱歌》六年級）
 
+- **[同曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈にぎみたま〉**](../../../kogakko_shoka/grade_6/11_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_6/11_nigimitama/nigimitama.tmd)）
 - **[同曲]** 《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）：[**〈にぎみたま〉**](../../../kogakko_shokashu_1915/5_06_nigimitama/index.md)（`G` / `4/4` — [原始 TMD](../../../kogakko_shokashu_1915/5_06_nigimitama/nigimitama.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 

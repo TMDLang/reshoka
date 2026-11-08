@@ -510,16 +510,124 @@
     "url": "kogakko_shoka/grade_5/20_nintai/"
   },
   {
+    "title": "明治天皇御製",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/"
+  },
+  {
+    "title": "瀨戶內海",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/2_seto_naikai/"
+  },
+  {
+    "title": "胡蝶蘭",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/3_kochoran/"
+  },
+  {
+    "title": "日本海海戰",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/4_nihonkai_kaisen/"
+  },
+  {
+    "title": "雨上り",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/5_ameagari/"
+  },
+  {
+    "title": "婦人從軍歌",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/6_fujin_jugunka/"
+  },
+  {
+    "title": "我は海の子",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/7_ware_wa_umi_no_ko/"
+  },
+  {
+    "title": "航海",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/8_kokai/"
+  },
+  {
+    "title": "軍艦",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/9_gunkan/"
+  },
+  {
+    "title": "日本三景",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/10_nihon_sankei/"
+  },
+  {
     "title": "にぎみたま",
     "collection": "《公學校唱歌》",
     "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
     "url": "kogakko_shoka/grade_6/11_nigimitama/"
   },
   {
+    "title": "水師營の會見",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/12_suishiei_no_kaiken/"
+  },
+  {
+    "title": "埴生の宿",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/13_hanyu_no_yado/"
+  },
+  {
+    "title": "何事も精神",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/14_nanigoto_mo_seishin/"
+  },
+  {
+    "title": "樂しき我が家",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/"
+  },
+  {
     "title": "天照大神",
     "collection": "《公學校唱歌》",
     "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
     "url": "kogakko_shoka/grade_6/16_amaterasu_omikami/"
+  },
+  {
+    "title": "曉景",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/17_gyokei/"
+  },
+  {
+    "title": "せんだん並木",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/18_sendan_namiki/"
+  },
+  {
+    "title": "我等の村",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/19_warera_no_mura/"
+  },
+  {
+    "title": "別れ",
+    "collection": "《公學校唱歌》",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "kogakko_shoka/grade_6/20_wakare/"
   },
   {
     "title": "君が代",

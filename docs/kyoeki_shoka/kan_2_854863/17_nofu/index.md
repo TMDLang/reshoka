@@ -25,11 +25,8 @@ audio: "nofu.mp3"
 
 
 - 出處：出處：共益商社樂器店《唱歌教科書 教師用 巻二》第三十六～三十七頁（第十七曲）
-
 - 出處：NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P024.jpg
-
 - 調性與拍號：調號 ?= F，拍號 <4/4>，速度 != 120
-
 
 
 ## 歌詞

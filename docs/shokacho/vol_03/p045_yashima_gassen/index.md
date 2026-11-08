@@ -24,7 +24,6 @@ audio: "yashima_gassen.mp3"
 - 調性與拍號：調號 ?= F，拍號 <4/4>，速度 != 96
 
 
-
 ## 歌詞
 
 ```text

@@ -14,7 +14,9 @@ audio: "kagerou.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kagerou.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kagerou_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kagerou.mp3"></audio>
+
 
 - 詞：吉村守（昭和八年臺灣總督府文教局懸賞募集入選）
 - 臺灣總督府《公學校唱歌》第四學年用（昭和十一年，索書號 0729 73）

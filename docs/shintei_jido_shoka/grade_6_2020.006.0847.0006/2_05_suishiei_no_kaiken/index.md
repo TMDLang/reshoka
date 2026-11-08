@@ -25,6 +25,13 @@ audio: "suishiei_no_kaiken.mp3"
 調性與拍號：と短調四分之四拍子（G 小調 4/4 拍，關係調 Bb 大調），「感ヲコメテ」（♩=120）
 
 
+## 跨冊／重複收錄參照
+
+> 同曲（佐佐木信綱詞・岡野貞一曲『尋常小學唱歌』〈水師營の會見〉；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）
+
+- **[同曲]** 《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）：[**〈水師營の會見〉**](../../../kogakko_shoka/grade_6/12_suishiei_no_kaiken/index.md)（`B,` / `4/4` — [原始 TMD](../../../kogakko_shoka/grade_6/12_suishiei_no_kaiken/suishiei_no_kaiken.tmd)）
+- 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
+
 ## 歌詞
 
 ```text

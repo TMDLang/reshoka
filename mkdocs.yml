@@ -1018,8 +1018,26 @@ nav:
       - 第六學年用:
           - 總覽: kogakko_shoka/grade_6/index.md
           - 書訊與掃描頁: kogakko_shoka/grade_6/0_book_info/index.md
+          - "1 明治天皇御製": kogakko_shoka/grade_6/1_meiji_tenno_gyosei/index.md
+          - "2 瀨戶內海": kogakko_shoka/grade_6/2_seto_naikai/index.md
+          - "3 胡蝶蘭": kogakko_shoka/grade_6/3_kochoran/index.md
+          - "4 日本海海戰": kogakko_shoka/grade_6/4_nihonkai_kaisen/index.md
+          - "5 雨上り": kogakko_shoka/grade_6/5_ameagari/index.md
+          - "6 婦人從軍歌": kogakko_shoka/grade_6/6_fujin_jugunka/index.md
+          - "7 我は海の子": kogakko_shoka/grade_6/7_ware_wa_umi_no_ko/index.md
+          - "8 航海": kogakko_shoka/grade_6/8_kokai/index.md
+          - "9 軍艦": kogakko_shoka/grade_6/9_gunkan/index.md
+          - "10 日本三景": kogakko_shoka/grade_6/10_nihon_sankei/index.md
           - "11 にぎみたま": kogakko_shoka/grade_6/11_nigimitama/index.md
+          - "12 水師營の會見": kogakko_shoka/grade_6/12_suishiei_no_kaiken/index.md
+          - "13 埴生の宿": kogakko_shoka/grade_6/13_hanyu_no_yado/index.md
+          - "14 何事も精神": kogakko_shoka/grade_6/14_nanigoto_mo_seishin/index.md
+          - "15 樂しき我が家": kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md
           - "16 天照大神": kogakko_shoka/grade_6/16_amaterasu_omikami/index.md
+          - "17 曉景": kogakko_shoka/grade_6/17_gyokei/index.md
+          - "18 せんだん並木": kogakko_shoka/grade_6/18_sendan_namiki/index.md
+          - "19 我等の村": kogakko_shoka/grade_6/19_warera_no_mura/index.md
+          - "20 別れ": kogakko_shoka/grade_6/20_wakare/index.md
   - うたのほん（唱歌課本）（昭和十八年／1943）:
       - 下卷（初等科第二學年）:
           - 總覽: utanohon/ge_2006.006.0878/index.md

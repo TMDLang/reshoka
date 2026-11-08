@@ -1,6 +1,6 @@
 {
-  "total_clusters": 158,
-  "total_songs_in_clusters": 409,
+  "total_clusters": 163,
+  "total_songs_in_clusters": 427,
   "clusters": [
     {
       "id": "ahiru",
@@ -411,6 +411,73 @@
               "key": "F",
               "meter": "2/4",
               "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ameagari",
+      "display_title": "雨上り",
+      "category": "same_song_g3",
+      "relation_type": "同曲",
+      "description": "同曲（二部合唱曲〈雨上り〉；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/5_ameagari",
+          "stem": "ameagari",
+          "tmd_file": "kogakko_shoka/grade_6/5_ameagari/ameagari.tmd",
+          "md_file": "kogakko_shoka/grade_6/5_ameagari/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "雨上り",
+          "jp_title": "雨上り",
+          "hira_title": "雨上り",
+          "kata_title": "雨上リ",
+          "norm_slug": "ameagari",
+          "key": "G",
+          "meter": "3/4",
+          "tempo": "100",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari/ameagari.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "雨上り",
+              "jp_title": "雨上り",
+              "key": "G",
+              "meter": "3/4",
+              "relation": "同曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari",
+          "stem": "ameagari",
+          "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari/ameagari.tmd",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_6_2020.006.0847.0006",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "雨上り",
+          "jp_title": "雨上り",
+          "hira_title": "雨上り",
+          "kata_title": "雨上リ",
+          "norm_slug": "ameagari",
+          "key": "G",
+          "meter": "3/4",
+          "tempo": "108",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/5_ameagari",
+              "md_file": "kogakko_shoka/grade_6/5_ameagari/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/5_ameagari/ameagari.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "雨上り",
+              "jp_title": "雨上り",
+              "key": "G",
+              "meter": "3/4",
+              "relation": "同曲"
             }
           ]
         }
@@ -2627,11 +2694,84 @@
     },
     {
       "id": "gunkan",
-      "display_title": "軍艦／ぐんかん",
-      "category": "same_title_different_song",
-      "relation_type": "同名異曲",
-      "description": "同名異曲（各冊收錄之不同詞曲版本）",
+      "display_title": "軍艦／軍艦マーチ／ぐんかん",
+      "category": "mixed_or_variant",
+      "relation_type": "同曲＋同詞異曲＋同名異曲",
+      "description": "同曲＋同詞異曲＋同名異曲（《新定兒童唱歌》五年級與《唱歌帖》P012 為加藤義清詞・Carey 曲同曲；《公學校唱歌》六年級〈軍艦〉為山田源一郎曲，與《新定兒童唱歌》高男用瀨戶口藤吉曲〈軍艦マーチ〉同採鳥山啓「守るも攻むるも…」歌詞；《うたのほん》下卷與《唱歌帖》P074 為同名異曲）",
       "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/9_gunkan",
+          "stem": "gunkan",
+          "tmd_file": "kogakko_shoka/grade_6/9_gunkan/gunkan.tmd",
+          "md_file": "kogakko_shoka/grade_6/9_gunkan/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "軍艦",
+          "jp_title": "軍艦",
+          "hira_title": "軍艦",
+          "kata_title": "軍艦",
+          "norm_slug": "gunkan",
+          "key": "E",
+          "meter": "2/4",
+          "tempo": "120",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "3/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi",
+              "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md",
+              "tmd_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/gunkan_machi.tmd",
+              "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+              "raw_title": "軍艦マーチ",
+              "jp_title": "軍艦マーチ",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同詞異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_02/p074_gunkan",
+              "md_file": "shokacho/vol_02/p074_gunkan/index.md",
+              "tmd_file": "shokacho/vol_02/p074_gunkan/gunkan.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_08/p012_gunkan",
+              "md_file": "shokacho/vol_08/p012_gunkan/index.md",
+              "tmd_file": "shokacho/vol_08/p012_gunkan/gunkan.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+              "raw_title": "軍艦（軍艦）",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "3/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/4_gunkan",
+              "md_file": "utanohon/ge_2006.006.0878/4_gunkan/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "ぐんかん（軍艦）",
+              "jp_title": "ぐんかん",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
         {
           "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
           "stem": "gunkan",
@@ -2648,6 +2788,101 @@
           "meter": "3/4",
           "tempo": "88",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/9_gunkan",
+              "md_file": "kogakko_shoka/grade_6/9_gunkan/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/9_gunkan/gunkan.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "E",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi",
+              "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md",
+              "tmd_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/gunkan_machi.tmd",
+              "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+              "raw_title": "軍艦マーチ",
+              "jp_title": "軍艦マーチ",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_02/p074_gunkan",
+              "md_file": "shokacho/vol_02/p074_gunkan/index.md",
+              "tmd_file": "shokacho/vol_02/p074_gunkan/gunkan.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_08/p012_gunkan",
+              "md_file": "shokacho/vol_08/p012_gunkan/index.md",
+              "tmd_file": "shokacho/vol_08/p012_gunkan/gunkan.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+              "raw_title": "軍艦（軍艦）",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "3/4",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/4_gunkan",
+              "md_file": "utanohon/ge_2006.006.0878/4_gunkan/index.md",
+              "tmd_file": "utanohon/ge_2006.006.0878/4_gunkan/gunkan.tmd",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "ぐんかん（軍艦）",
+              "jp_title": "ぐんかん",
+              "key": "G",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi",
+          "stem": "gunkan_machi",
+          "tmd_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/gunkan_machi.tmd",
+          "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md",
+          "book_key": "shintei_jido_shoka/scores/koto_boys_2020.006.0848",
+          "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+          "raw_title": "軍艦マーチ",
+          "jp_title": "軍艦マーチ",
+          "hira_title": "軍艦まあち",
+          "kata_title": "軍艦マーチ",
+          "norm_slug": "gunkan",
+          "key": "G",
+          "meter": "2/4",
+          "tempo": "116",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/9_gunkan",
+              "md_file": "kogakko_shoka/grade_6/9_gunkan/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/9_gunkan/gunkan.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "E",
+              "meter": "2/4",
+              "relation": "同詞異曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "G",
+              "meter": "3/4",
+              "relation": "同名異曲"
+            },
             {
               "rel_dir": "shokacho/vol_02/p074_gunkan",
               "md_file": "shokacho/vol_02/p074_gunkan/index.md",
@@ -2700,6 +2935,17 @@
           "tempo": "108",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/9_gunkan",
+              "md_file": "kogakko_shoka/grade_6/9_gunkan/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/9_gunkan/gunkan.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "E",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
+            {
               "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
               "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
               "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd",
@@ -2708,6 +2954,17 @@
               "jp_title": "軍艦",
               "key": "G",
               "meter": "3/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi",
+              "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md",
+              "tmd_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/gunkan_machi.tmd",
+              "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+              "raw_title": "軍艦マーチ",
+              "jp_title": "軍艦マーチ",
+              "key": "G",
+              "meter": "2/4",
               "relation": "同名異曲"
             },
             {
@@ -2751,6 +3008,17 @@
           "tempo": "88",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/9_gunkan",
+              "md_file": "kogakko_shoka/grade_6/9_gunkan/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/9_gunkan/gunkan.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "E",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
+            {
               "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
               "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
               "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd",
@@ -2759,6 +3027,17 @@
               "jp_title": "軍艦",
               "key": "G",
               "meter": "3/4",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi",
+              "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md",
+              "tmd_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/gunkan_machi.tmd",
+              "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+              "raw_title": "軍艦マーチ",
+              "jp_title": "軍艦マーチ",
+              "key": "G",
+              "meter": "2/4",
               "relation": "同名異曲"
             },
             {
@@ -2802,6 +3081,17 @@
           "tempo": "108",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/9_gunkan",
+              "md_file": "kogakko_shoka/grade_6/9_gunkan/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/9_gunkan/gunkan.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "軍艦",
+              "jp_title": "軍艦",
+              "key": "E",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
+            {
               "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
               "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
               "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/gunkan.tmd",
@@ -2810,6 +3100,17 @@
               "jp_title": "軍艦",
               "key": "G",
               "meter": "3/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi",
+              "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md",
+              "tmd_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/gunkan_machi.tmd",
+              "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+              "raw_title": "軍艦マーチ",
+              "jp_title": "軍艦マーチ",
+              "key": "G",
+              "meter": "2/4",
               "relation": "同名異曲"
             },
             {
@@ -2843,8 +3144,48 @@
       "display_title": "曉景／曉景（二部輪唱）",
       "category": "same_song_shokacho",
       "relation_type": "同曲",
-      "description": "同曲（〈曉景〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P090）",
+      "description": "同曲（二部輪唱曲〈曉景〉；收錄於《公學校唱歌》六年級、《新定兒童唱歌》六年級與《唱歌帖》P090）",
       "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/17_gyokei",
+          "stem": "gyokei",
+          "tmd_file": "kogakko_shoka/grade_6/17_gyokei/gyokei.tmd",
+          "md_file": "kogakko_shoka/grade_6/17_gyokei/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "曉景",
+          "jp_title": "曉景",
+          "hira_title": "曉景",
+          "kata_title": "曉景",
+          "norm_slug": "gyokei",
+          "key": "E,",
+          "meter": "4/4",
+          "tempo": "96",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/gyokei.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "曉景",
+              "jp_title": "曉景",
+              "key": "B,",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_02/p090_gyokei",
+              "md_file": "shokacho/vol_02/p090_gyokei/index.md",
+              "tmd_file": "shokacho/vol_02/p090_gyokei/gyokei.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+              "raw_title": "曉景（二部輪唱）",
+              "jp_title": "曉景（二部輪唱）",
+              "key": "E,",
+              "meter": "4/4",
+              "relation": "同曲"
+            }
+          ]
+        },
         {
           "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei",
           "stem": "gyokei",
@@ -2861,6 +3202,17 @@
           "meter": "4/4",
           "tempo": "96",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/17_gyokei",
+              "md_file": "kogakko_shoka/grade_6/17_gyokei/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/17_gyokei/gyokei.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "曉景",
+              "jp_title": "曉景",
+              "key": "E,",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
             {
               "rel_dir": "shokacho/vol_02/p090_gyokei",
               "md_file": "shokacho/vol_02/p090_gyokei/index.md",
@@ -2890,6 +3242,17 @@
           "meter": "4/4",
           "tempo": "116",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/17_gyokei",
+              "md_file": "kogakko_shoka/grade_6/17_gyokei/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/17_gyokei/gyokei.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "曉景",
+              "jp_title": "曉景",
+              "key": "E,",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
             {
               "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei",
               "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md",
@@ -3302,8 +3665,59 @@
       "display_title": "埴生の宿",
       "category": "same_song_shokacho",
       "relation_type": "同曲",
-      "description": "同曲（英國名曲 *Home! Sweet Home!*〈埴生の宿〉；收錄於《新定兒童唱歌》六年級、高等科女子用與《唱歌帖》P097）",
+      "description": "同曲（里見義詞・Bishop 曲〈埴生の宿〉*Home! Sweet Home!*；收錄於《公學校唱歌》六年級、《新定兒童唱歌》六年級與高等科女子用，以及《唱歌帖》P097）",
       "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/13_hanyu_no_yado",
+          "stem": "hanyu_no_yado",
+          "tmd_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/hanyu_no_yado.tmd",
+          "md_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "埴生の宿",
+          "jp_title": "埴生の宿",
+          "hira_title": "埴生の宿",
+          "kata_title": "埴生ノ宿",
+          "norm_slug": "hanyunoyado",
+          "key": "E,",
+          "meter": "4/4",
+          "tempo": "88",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/hanyu_no_yado.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "埴生の宿",
+              "jp_title": "埴生の宿",
+              "key": "E,",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado",
+              "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md",
+              "tmd_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/hanyu_no_yado.tmd",
+              "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+              "raw_title": "埴生の宿",
+              "jp_title": "埴生の宿",
+              "key": "E,",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_02/p097_hanyu_no_yado",
+              "md_file": "shokacho/vol_02/p097_hanyu_no_yado/index.md",
+              "tmd_file": "shokacho/vol_02/p097_hanyu_no_yado/hanyu_no_yado.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+              "raw_title": "埴生の宿",
+              "jp_title": "埴生の宿",
+              "key": "D",
+              "meter": "4/4",
+              "relation": "同曲"
+            }
+          ]
+        },
         {
           "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado",
           "stem": "hanyu_no_yado",
@@ -3320,6 +3734,17 @@
           "meter": "4/4",
           "tempo": "88",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/13_hanyu_no_yado",
+              "md_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/hanyu_no_yado.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "埴生の宿",
+              "jp_title": "埴生の宿",
+              "key": "E,",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
             {
               "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado",
               "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md",
@@ -3361,6 +3786,17 @@
           "tempo": "88",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/13_hanyu_no_yado",
+              "md_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/hanyu_no_yado.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "埴生の宿",
+              "jp_title": "埴生の宿",
+              "key": "E,",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
+            {
               "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado",
               "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/index.md",
               "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/hanyu_no_yado.tmd",
@@ -3400,6 +3836,17 @@
           "meter": "4/4",
           "tempo": "84",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/13_hanyu_no_yado",
+              "md_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/hanyu_no_yado.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "埴生の宿",
+              "jp_title": "埴生の宿",
+              "key": "E,",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
             {
               "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado",
               "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/index.md",
@@ -7521,10 +7968,61 @@
     {
       "id": "kokai",
       "display_title": "航海",
-      "category": "same_title_different_song",
-      "relation_type": "同名異曲",
-      "description": "同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第五學年〈航海〉為同曲；《新定兒童唱歌》四年級與《共益商社唱歌教科書》卷一為同名異曲）",
+      "category": "mixed_or_variant",
+      "relation_type": "同曲＋同名異曲",
+      "description": "同曲＋同名異曲（《公學校唱歌》第六學年與《新定兒童唱歌》第四學年〈航海〉「今日船出して…」為同曲；《新定兒童唱歌》第五學年與《共益商社唱歌教科書》卷一為同名異曲）",
       "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/8_kokai",
+          "stem": "kokai",
+          "tmd_file": "kogakko_shoka/grade_6/8_kokai/kokai.tmd",
+          "md_file": "kogakko_shoka/grade_6/8_kokai/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "航海",
+          "jp_title": "航海",
+          "hira_title": "航海",
+          "kata_title": "航海",
+          "norm_slug": "kokai",
+          "key": "C",
+          "meter": "2/4",
+          "tempo": "96",
+          "peers": [
+            {
+              "rel_dir": "kyoeki_shoka/kan_1_854862/18_kokai",
+              "md_file": "kyoeki_shoka/kan_1_854862/18_kokai/index.md",
+              "tmd_file": "kyoeki_shoka/kan_1_854862/18_kokai/kokai.tmd",
+              "book_label": "《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）",
+              "raw_title": "航海",
+              "jp_title": "航海",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai",
+              "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai/kokai.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+              "raw_title": "航海",
+              "jp_title": "航海",
+              "key": "C",
+              "meter": "2/4",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_05_kokai",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_05_kokai/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_05_kokai/kokai.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "航海",
+              "jp_title": "航海",
+              "key": "F",
+              "meter": "3/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
         {
           "rel_dir": "kyoeki_shoka/kan_1_854862/18_kokai",
           "stem": "kokai",
@@ -7541,6 +8039,17 @@
           "meter": "4/4",
           "tempo": "152",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/8_kokai",
+              "md_file": "kogakko_shoka/grade_6/8_kokai/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/8_kokai/kokai.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "航海",
+              "jp_title": "航海",
+              "key": "C",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
             {
               "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai",
               "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai/index.md",
@@ -7582,6 +8091,17 @@
           "tempo": "96",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/8_kokai",
+              "md_file": "kogakko_shoka/grade_6/8_kokai/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/8_kokai/kokai.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "航海",
+              "jp_title": "航海",
+              "key": "C",
+              "meter": "2/4",
+              "relation": "同曲"
+            },
+            {
               "rel_dir": "kyoeki_shoka/kan_1_854862/18_kokai",
               "md_file": "kyoeki_shoka/kan_1_854862/18_kokai/index.md",
               "tmd_file": "kyoeki_shoka/kan_1_854862/18_kokai/kokai.tmd",
@@ -7621,6 +8141,17 @@
           "meter": "3/4",
           "tempo": "108",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/8_kokai",
+              "md_file": "kogakko_shoka/grade_6/8_kokai/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/8_kokai/kokai.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "航海",
+              "jp_title": "航海",
+              "key": "C",
+              "meter": "2/4",
+              "relation": "同名異曲"
+            },
             {
               "rel_dir": "kyoeki_shoka/kan_1_854862/18_kokai",
               "md_file": "kyoeki_shoka/kan_1_854862/18_kokai/index.md",
@@ -8988,10 +9519,50 @@
     {
       "id": "meijitennogyosei",
       "display_title": "明治天皇御製",
-      "category": "same_title_different_song",
-      "relation_type": "同名異曲",
-      "description": "同名異曲（各冊收錄之不同詞曲版本）",
+      "category": "same_song_g3",
+      "relation_type": "同曲",
+      "description": "同曲（明治天皇御製和歌吟唱譜；《公學校唱歌集》收錄二首，《新定兒童唱歌》六年級收錄二首，《公學校唱歌》六年級擴充收錄五首並包含臺灣新高山御製「新高の山のふもとの民草も…」）",
       "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei",
+          "stem": "meiji_tenno_gyosei",
+          "tmd_file": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd",
+          "md_file": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "明治天皇御製",
+          "jp_title": "明治天皇御製",
+          "hira_title": "明治天皇御製",
+          "kata_title": "明治天皇御製",
+          "norm_slug": "meijitennogyosei",
+          "key": "G",
+          "meter": "4/4",
+          "tempo": "92",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei",
+              "md_file": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/index.md",
+              "tmd_file": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd",
+              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+              "raw_title": "明治天皇御製",
+              "jp_title": "明治天皇御製",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "明治天皇御製",
+              "jp_title": "明治天皇御製",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同曲"
+            }
+          ]
+        },
         {
           "rel_dir": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei",
           "stem": "meiji_tenno_gyosei",
@@ -9009,6 +9580,17 @@
           "tempo": "92",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei",
+              "md_file": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "明治天皇御製",
+              "jp_title": "明治天皇御製",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
+            {
               "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei",
               "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md",
               "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd",
@@ -9017,7 +9599,7 @@
               "jp_title": "明治天皇御製",
               "key": "G",
               "meter": "4/4",
-              "relation": "同名異曲"
+              "relation": "同曲"
             }
           ]
         },
@@ -9038,6 +9620,17 @@
           "tempo": "92",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei",
+              "md_file": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "明治天皇御製",
+              "jp_title": "明治天皇御製",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
+            {
               "rel_dir": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei",
               "md_file": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/index.md",
               "tmd_file": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/meiji_tenno_gyosei.tmd",
@@ -9046,7 +9639,7 @@
               "jp_title": "明治天皇御製",
               "key": "G",
               "meter": "4/4",
-              "relation": "同名異曲"
+              "relation": "同曲"
             }
           ]
         }
@@ -9784,8 +10377,48 @@
       "display_title": "にぎみたま",
       "category": "same_song_g3",
       "relation_type": "同曲",
-      "description": "同曲（《公學校唱歌集》、《新定兒童唱歌》共同收錄教材）",
+      "description": "同曲（芝葛鎮作曲〈にぎみたま〉；收錄於《公學校唱歌》六年級、《公學校唱歌集》與《新定兒童唱歌》六年級）",
       "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/11_nigimitama",
+          "stem": "nigimitama",
+          "tmd_file": "kogakko_shoka/grade_6/11_nigimitama/nigimitama.tmd",
+          "md_file": "kogakko_shoka/grade_6/11_nigimitama/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "にぎみたま",
+          "jp_title": "にぎみたま",
+          "hira_title": "にぎみたま",
+          "kata_title": "ニギミタマ",
+          "norm_slug": "nigimitama",
+          "key": "G",
+          "meter": "4/4",
+          "tempo": "104",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shokashu_1915/5_06_nigimitama",
+              "md_file": "kogakko_shokashu_1915/5_06_nigimitama/index.md",
+              "tmd_file": "kogakko_shokashu_1915/5_06_nigimitama/nigimitama.tmd",
+              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+              "raw_title": "にぎみたま",
+              "jp_title": "にぎみたま",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/nigimitama.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "にぎみたま",
+              "jp_title": "にぎみたま",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同曲"
+            }
+          ]
+        },
         {
           "rel_dir": "kogakko_shokashu_1915/5_06_nigimitama",
           "stem": "nigimitama",
@@ -9802,6 +10435,17 @@
           "meter": "4/4",
           "tempo": "104",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/11_nigimitama",
+              "md_file": "kogakko_shoka/grade_6/11_nigimitama/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/11_nigimitama/nigimitama.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "にぎみたま",
+              "jp_title": "にぎみたま",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
             {
               "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama",
               "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/index.md",
@@ -9831,6 +10475,17 @@
           "meter": "4/4",
           "tempo": "104",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/11_nigimitama",
+              "md_file": "kogakko_shoka/grade_6/11_nigimitama/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/11_nigimitama/nigimitama.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "にぎみたま",
+              "jp_title": "にぎみたま",
+              "key": "G",
+              "meter": "4/4",
+              "relation": "同曲"
+            },
             {
               "rel_dir": "kogakko_shokashu_1915/5_06_nigimitama",
               "md_file": "kogakko_shokashu_1915/5_06_nigimitama/index.md",
@@ -9968,6 +10623,140 @@
               "raw_title": "日本男兒",
               "jp_title": "日本男兒",
               "key": "F",
+              "meter": "4/4",
+              "relation": "同名異曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nihonkaikaisen",
+      "display_title": "日本海海戰",
+      "category": "same_song_g3",
+      "relation_type": "同曲",
+      "description": "同曲（文部省『尋常小學唱歌』第六學年〈日本海海戰〉；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/4_nihonkai_kaisen",
+          "stem": "nihonkai_kaisen",
+          "tmd_file": "kogakko_shoka/grade_6/4_nihonkai_kaisen/nihonkai_kaisen.tmd",
+          "md_file": "kogakko_shoka/grade_6/4_nihonkai_kaisen/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "日本海海戰",
+          "jp_title": "日本海海戰",
+          "hira_title": "日本海海戰",
+          "kata_title": "日本海海戰",
+          "norm_slug": "nihonkaikaisen",
+          "key": "D",
+          "meter": "3/4",
+          "tempo": "92",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/nihonkai_kaisen.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "日本海海戰",
+              "jp_title": "日本海海戰",
+              "key": "D",
+              "meter": "3/4",
+              "relation": "同曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen",
+          "stem": "nihonkai_kaisen",
+          "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/nihonkai_kaisen.tmd",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_6_2020.006.0847.0006",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "日本海海戰",
+          "jp_title": "日本海海戰",
+          "hira_title": "日本海海戰",
+          "kata_title": "日本海海戰",
+          "norm_slug": "nihonkaikaisen",
+          "key": "D",
+          "meter": "3/4",
+          "tempo": "92",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/4_nihonkai_kaisen",
+              "md_file": "kogakko_shoka/grade_6/4_nihonkai_kaisen/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/4_nihonkai_kaisen/nihonkai_kaisen.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "日本海海戰",
+              "jp_title": "日本海海戰",
+              "key": "D",
+              "meter": "3/4",
+              "relation": "同曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nihonsankei",
+      "display_title": "日本三景",
+      "category": "same_title_different_song",
+      "relation_type": "同名異曲",
+      "description": "同名異曲（各冊收錄之不同詞曲版本）",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/10_nihon_sankei",
+          "stem": "nihon_sankei",
+          "tmd_file": "kogakko_shoka/grade_6/10_nihon_sankei/nihon_sankei.tmd",
+          "md_file": "kogakko_shoka/grade_6/10_nihon_sankei/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "日本三景",
+          "jp_title": "日本三景",
+          "hira_title": "日本三景",
+          "kata_title": "日本三景",
+          "norm_slug": "nihonsankei",
+          "key": "E,",
+          "meter": "4/4",
+          "tempo": "88",
+          "peers": [
+            {
+              "rel_dir": "kyoeki_shoka/kan_1_854862/9_nihon_sankei",
+              "md_file": "kyoeki_shoka/kan_1_854862/9_nihon_sankei/index.md",
+              "tmd_file": "kyoeki_shoka/kan_1_854862/9_nihon_sankei/nihon_sankei.tmd",
+              "book_label": "《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）",
+              "raw_title": "日本三景",
+              "jp_title": "日本三景",
+              "key": "C",
+              "meter": "4/4",
+              "relation": "同名異曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "kyoeki_shoka/kan_1_854862/9_nihon_sankei",
+          "stem": "nihon_sankei",
+          "tmd_file": "kyoeki_shoka/kan_1_854862/9_nihon_sankei/nihon_sankei.tmd",
+          "md_file": "kyoeki_shoka/kan_1_854862/9_nihon_sankei/index.md",
+          "book_key": "kyoeki_shoka/kan_1_854862",
+          "book_label": "《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）",
+          "raw_title": "日本三景",
+          "jp_title": "日本三景",
+          "hira_title": "日本三景",
+          "kata_title": "日本三景",
+          "norm_slug": "nihonsankei",
+          "key": "C",
+          "meter": "4/4",
+          "tempo": "104",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/10_nihon_sankei",
+              "md_file": "kogakko_shoka/grade_6/10_nihon_sankei/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/10_nihon_sankei/nihon_sankei.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "日本三景",
+              "jp_title": "日本三景",
+              "key": "E,",
               "meter": "4/4",
               "relation": "同名異曲"
             }
@@ -13286,6 +14075,73 @@
       ]
     },
     {
+      "id": "suishieinokaiken",
+      "display_title": "水師營の會見",
+      "category": "same_song_g3",
+      "relation_type": "同曲",
+      "description": "同曲（佐佐木信綱詞・岡野貞一曲『尋常小學唱歌』〈水師營の會見〉；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/12_suishiei_no_kaiken",
+          "stem": "suishiei_no_kaiken",
+          "tmd_file": "kogakko_shoka/grade_6/12_suishiei_no_kaiken/suishiei_no_kaiken.tmd",
+          "md_file": "kogakko_shoka/grade_6/12_suishiei_no_kaiken/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "水師營の會見",
+          "jp_title": "水師營の會見",
+          "hira_title": "水師營の會見",
+          "kata_title": "水師營ノ會見",
+          "norm_slug": "suishieinokaiken",
+          "key": "B,",
+          "meter": "4/4",
+          "tempo": "120",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/suishiei_no_kaiken.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "水師營の會見",
+              "jp_title": "水師營の會見",
+              "key": "Bb",
+              "meter": "4/4",
+              "relation": "同曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken",
+          "stem": "suishiei_no_kaiken",
+          "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/suishiei_no_kaiken.tmd",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_6_2020.006.0847.0006",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "水師營の會見",
+          "jp_title": "水師營の會見",
+          "hira_title": "水師營の會見",
+          "kata_title": "水師營ノ會見",
+          "norm_slug": "suishieinokaiken",
+          "key": "Bb",
+          "meter": "4/4",
+          "tempo": "120",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/12_suishiei_no_kaiken",
+              "md_file": "kogakko_shoka/grade_6/12_suishiei_no_kaiken/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/12_suishiei_no_kaiken/suishiei_no_kaiken.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "水師營の會見",
+              "jp_title": "水師營の會見",
+              "key": "B,",
+              "meter": "4/4",
+              "relation": "同曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "sumiyaki",
       "display_title": "すみやき／炭やき",
       "category": "same_song_g3",
@@ -13751,11 +14607,73 @@
     },
     {
       "id": "tanoshikiwagaya",
-      "display_title": "樂しき我家／樂シキ我家",
+      "display_title": "樂しき我が家／樂しき我家／樂シキ我家",
       "category": "mixed_or_variant",
       "relation_type": "同曲＋同詞異曲＋同名異曲",
-      "description": "同曲＋同詞異曲＋同名異曲（《新定兒童唱歌》六年級與《共益商社唱歌教科書》卷四為同曲；《唱歌帖》P027 同採「花こそ薫らね…」歌詞而譜曲不同；《唱歌帖》P102 則採 *Home! Sweet Home!* 旋律）",
+      "description": "同曲＋同詞異曲＋同名異曲（《公學校唱歌》六年級、《新定兒童唱歌》六年級與《共益商社唱歌教科書》卷四為同曲；《唱歌帖》P027 同採「花こそ薫らね…」歌詞而譜曲不同；《唱歌帖》P102 則採 *Home! Sweet Home!* 旋律）",
       "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
+          "stem": "tanoshiki_wagaya",
+          "tmd_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
+          "md_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "樂しき我が家",
+          "jp_title": "樂しき我が家",
+          "hira_title": "樂しき我が家",
+          "kata_title": "樂シキ我ガ家",
+          "norm_slug": "tanoshikiwagaya",
+          "key": "E",
+          "meter": "6/8",
+          "tempo": "80",
+          "peers": [
+            {
+              "rel_dir": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
+              "md_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md",
+              "tmd_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
+              "book_label": "《共益商社唱歌教科書》卷四・教師用（明治33年／1900）",
+              "raw_title": "樂しき我家",
+              "jp_title": "樂しき我家",
+              "key": "E",
+              "meter": "6/8",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "樂しき我家",
+              "jp_title": "樂しき我家",
+              "key": "E",
+              "meter": "6/8",
+              "relation": "同曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_02/p102_tanoshiki_wagaya",
+              "md_file": "shokacho/vol_02/p102_tanoshiki_wagaya/index.md",
+              "tmd_file": "shokacho/vol_02/p102_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+              "raw_title": "樂しき我家",
+              "jp_title": "樂しき我家",
+              "key": "B,",
+              "meter": "4/4",
+              "relation": "同名異曲"
+            },
+            {
+              "rel_dir": "shokacho/vol_08/p027_tanoshiki_waga_ie",
+              "md_file": "shokacho/vol_08/p027_tanoshiki_waga_ie/index.md",
+              "tmd_file": "shokacho/vol_08/p027_tanoshiki_waga_ie/tanoshiki_waga_ie.tmd",
+              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+              "raw_title": "樂シキ我家（快樂的我家）",
+              "jp_title": "樂シキ我家",
+              "key": "B,",
+              "meter": "4/4",
+              "relation": "同詞異曲"
+            }
+          ]
+        },
         {
           "rel_dir": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
           "stem": "tanoshiki_wagaya",
@@ -13772,6 +14690,17 @@
           "meter": "6/8",
           "tempo": "80",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
+              "md_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "樂しき我が家",
+              "jp_title": "樂しき我が家",
+              "key": "E",
+              "meter": "6/8",
+              "relation": "同曲"
+            },
             {
               "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya",
               "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md",
@@ -13824,6 +14753,17 @@
           "tempo": "80",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
+              "md_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "樂しき我が家",
+              "jp_title": "樂しき我が家",
+              "key": "E",
+              "meter": "6/8",
+              "relation": "同曲"
+            },
+            {
               "rel_dir": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
               "md_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md",
               "tmd_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
@@ -13875,6 +14815,17 @@
           "tempo": "84",
           "peers": [
             {
+              "rel_dir": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
+              "md_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "樂しき我が家",
+              "jp_title": "樂しき我が家",
+              "key": "E",
+              "meter": "6/8",
+              "relation": "同名異曲"
+            },
+            {
               "rel_dir": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
               "md_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md",
               "tmd_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
@@ -13925,6 +14876,17 @@
           "meter": "4/4",
           "tempo": "88",
           "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
+              "md_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/tanoshiki_wagaya.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "樂しき我が家",
+              "jp_title": "樂しき我が家",
+              "key": "E",
+              "meter": "6/8",
+              "relation": "同詞異曲"
+            },
             {
               "rel_dir": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
               "md_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md",
@@ -16702,6 +17664,73 @@
               "raw_title": "我が帝國",
               "jp_title": "我が帝國",
               "key": "F",
+              "meter": "4/4",
+              "relation": "同曲"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wakare",
+      "display_title": "別れ",
+      "category": "same_song_g3",
+      "relation_type": "同曲",
+      "description": "同曲（畢業惜別歌〈別れ〉「春のあしたの花の陰…」；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shoka/grade_6/20_wakare",
+          "stem": "wakare",
+          "tmd_file": "kogakko_shoka/grade_6/20_wakare/wakare.tmd",
+          "md_file": "kogakko_shoka/grade_6/20_wakare/index.md",
+          "book_key": "kogakko_shoka/grade_6",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "別れ",
+          "jp_title": "別れ",
+          "hira_title": "別れ",
+          "kata_title": "別レ",
+          "norm_slug": "wakare",
+          "key": "C",
+          "meter": "4/4",
+          "tempo": "100",
+          "peers": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/index.md",
+              "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/wakare.tmd",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "別れ",
+              "jp_title": "別れ",
+              "key": "C",
+              "meter": "4/4",
+              "relation": "同曲"
+            }
+          ]
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare",
+          "stem": "wakare",
+          "tmd_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/wakare.tmd",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/index.md",
+          "book_key": "shintei_jido_shoka/scores/grade_6_2020.006.0847.0006",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "別れ",
+          "jp_title": "別れ",
+          "hira_title": "別れ",
+          "kata_title": "別レ",
+          "norm_slug": "wakare",
+          "key": "C",
+          "meter": "4/4",
+          "tempo": "100",
+          "peers": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/20_wakare",
+              "md_file": "kogakko_shoka/grade_6/20_wakare/index.md",
+              "tmd_file": "kogakko_shoka/grade_6/20_wakare/wakare.tmd",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "別れ",
+              "jp_title": "別れ",
+              "key": "C",
               "meter": "4/4",
               "relation": "同曲"
             }
