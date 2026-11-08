@@ -1,8 +1,8 @@
 ---
 title: "埴生の宿 — 《新定兒童唱歌》 高等科 女子一二年"
 song_title: "埴生の宿"
-description: "〈埴生の宿〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：里見義、曲：Bishop），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：埴生（はにふ）の宿もわが宿 玉のよそひうらやまじ…"
-keywords: "埴生の宿, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 里見義, Bishop"
+description: "〈埴生の宿〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：里見義、曲：Henry Rowley Bishop），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：埴生（はにふ）の宿もわが宿 玉のよそひうらやまじ…"
+keywords: "埴生の宿, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 里見義, Henry Rowley Bishop"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
 musical_key: "E,"
@@ -17,7 +17,7 @@ audio: "hanyu_no_yado.mp3"
 <audio controls src="hanyu_no_yado.mp3"></audio>
 
 - 詞：里見義
-- 曲：Bishop
+- 曲：Henry Rowley Bishop
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）
 
 ## 說明
@@ -61,7 +61,7 @@ audio: "hanyu_no_yado.mp3"
 ```abc
 X:1
 T:埴生の宿
-C:曲：Bishop
+C:曲：Henry Rowley Bishop
 M:4/4
 L:1/16
 Q:1/4=88
@@ -70,35 +70,49 @@ V:V1 name="Part1" snm="Par"
 V:V2 name="Part2" snm="Par"
 V:V3 name="Part3" snm="Par"
 [V:V1]
-!p! z4 z4 z4 E2 F2 | G6 A2 A6 B2 | B4 G4 z4 G2 F2 | A6 G2 A4 F4 |
-G8 z4 E2 F2 | G6 A2 A6 B2 | B4 G4 z4 G2 F2 | A6 G2 A4 F4 |
-!f! E8 z4 B4 | e6 d2 c6 B2 | B4 G4 z4 G2 F2 | A6 G2 A4 F4 |
-!f! G8 z4 B4 | e6 d2 c6 B2 | B4 G4 z4 B4 | c4 A4 G4 F4 |
-E8 z4 z4 | !pp! B12 z4 | !p! e8 d8 | !mf! c8 B8 |
-!f! !ff! B8 z4 B4 | e6 d2 c6 B2 | B4 G4 z4 B4 | c2 A2 G2 A2 G4 F4 |
-E12 z4 |
+!p! z4 z4 z4 E4 | G6 A2 A6 B2 | B8 G4 G4 | A6 G2 A4 F4 |
+w: 1.~ハ | ニ フ ノ ヤ | ド モ ワ | ガ ー ヤ ー
+w: 2.~ふ | み よ む ま | ど も わ | が ー ま ー
+!mp! G8 z4 E4 | G6 A2 A6 B2 | B8 G4 B4 | A6 G2 A4 F4 |
+w: 1.~ド タ | マ ー ノ ヨ | ソ ヒ ウ | ラ ー ヤ マ
+w: 2.~ど る | り ー の ゆ | か も う | ら ー や ま
+!f! E8 z4 B4 | e6 d2 c6 B2 | B8 G4 B4 | A6 G2 A4 F4 |
+w: 1.~ジ ノ | ド ー カ ナ | リ ヤ ハ | ル ー ノ ソ
+w: 2.~じ き | よ ー ら な | り や あ | き ー の よ
+!f! G8 z4 B4 | e6 d2 c6 B2 | B8 G4 B4 | B8 A4 F4 |
+w: 1.~ラ ハ | ナ ー ハ ア | ル ジ ト | リ ハ ト
+w: 2.~は つ | き ー は あ | る じ む | し は と
+E8 z8 | !pp! B12 z4 | !p! A8 F8 | !mf! E8 F8 |
+w: 1.~モ | オ | ワ ガ | ヤ ド
+w: 2.~も | お | わ が | ま ど
+!f! !ff! G8 z4 B4 | e6 d2 c6 B2 | B8 G4 B4 | B4 c4 A4 F4 |
+w: 1.~ヨ タ | ノ ー シ ト | モ ー タ | ノ ー モ シ
+w: 2.~よ た | の ー し と | も ー た | の ー も し
+E8 z4 z4 |
+w: 1.~ヤ
+w: 2.~や
 [V:V2]
-!p! z4 z4 z4 E2 E2 | E6 F2 F6 G2 | G4 E4 z4 E2 D2 | F6 E2 F4 D4 |
-E8 z4 E2 E2 | E6 F2 F6 G2 | G4 E4 z4 E2 D2 | F6 E2 F4 D4 |
-!f! E8 z4 G4 | G6 B2 A6 G2 | G4 E4 z4 E2 D2 | F6 E2 F4 D4 |
-!f! E8 z4 G4 | G6 B2 A6 G2 | G4 E4 z4 G4 | A4 F4 E4 D4 |
-E8 z4 z4 | !pp! F12 z4 | !p! G8 F8 | !mf! E8 G8 |
-!f! !ff! F8 z4 G4 | G6 B2 A6 G2 | G4 E4 z4 G4 | A2 F2 E2 F2 E4 D4 |
-E12 z4 |
+!p! z4 z4 z4 E4 | E6 F2 F6 G2 | G8 E4 E4 | F6 E2 F4 D4 |
+!mp! E8 z4 E4 | E6 F2 F6 G2 | G8 E4 G4 | F6 E2 F4 D4 |
+!f! E8 z4 G4 | G6 B2 A6 G2 | G8 E4 G4 | F6 E2 F4 D4 |
+!f! E8 z4 G4 | G6 B2 A6 G2 | G8 E4 G4 | G8 F4 D4 |
+E8 z8 | !pp! F12 z4 | !p! F8 D8 | !mf! C8 D8 |
+!f! !ff! E8 z4 G4 | G6 B2 A6 G2 | G8 E4 G4 | G4 A4 F4 D4 |
+E8 z4 z4 |
 [V:V3]
-!p! z4 z4 z4 E2 E2 | E8 E6 E2 | E8 z4 E2 E2 | B,8 B,4 B,4 |
-E8 z4 E2 E2 | E8 E6 E2 | E8 z4 E2 E2 | B,8 B,4 B,4 |
-!f! E8 z4 E4 | E8 E6 E2 | E8 z4 E2 E2 | B,8 B,4 B,4 |
-!f! E8 z4 E4 | E8 E6 E2 | E8 z4 E4 | B,8 B,4 B,4 |
-E8 z4 z4 | !pp! D12 z4 | !p! E8 B,8 | !mf! A,8 B,8 |
-!f! !ff! D8 z4 E4 | E8 E6 E2 | E8 z4 E4 | A,6 A,2 B,4 B,4 |
-E12 z4 |
+!p! z4 z4 z4 E4 | E8 E6 E2 | E8 E4 E4 | B,8 B,4 B,4 |
+!mp! E8 z4 E4 | E8 E6 E2 | E8 E4 E4 | B,8 B,4 B,4 |
+!f! E8 z4 E4 | E8 E6 E2 | E8 E4 E4 | B,8 B,4 B,4 |
+!f! E8 z4 E4 | E8 E6 E2 | E8 E4 E4 | B,8 B,4 B,4 |
+E8 z8 | !pp! D12 z4 | !p! C8 B,8 | !mf! A,8 B,8 |
+!f! !ff! E8 z4 E4 | E8 E6 E2 | E8 E4 E4 | E4 A,4 B,4 B,4 |
+E8 z4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hanyu_no_yado.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdmpaYm5lTqcSlpaXwdP6W51PmP25c93TdfgUtLS5FWwULCy57WwVXHS4bE30TO5DWFyvnvd8z62V7z4tl3c_3rQQb92z2JqCYUyYwMArAAi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7pfrp7xfG3n8-UTny7d_HTthOdTVrzf0wEKNj1gsOmBgu39nk4lLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oGOAfrtaeuKZ9PagQ54uqH3WXunQoChodmjhslAylwvqyD9_Z4eoJ6XCxoVCgr0FIwtgVImBkBBoB-e7Op52d77cv7m52vWKJgqvFw2DehsYLCArHqxav-zhuUgS7p7X8ycDxR9sa7rcfPsl1O3A6WAthkrvJzZ-2LFDLBk5-OGRmBwKwAVA6We7Vr9dFLP4-ZuhUczV9paWABte7Kj82XzCohtTyd0AEMSKPh0z8YXW7eDLAfrfNmw6WnrUqBhYK-273oxc-qLFbuBVgAtB5r6ZMdaYKBD4uDl7DaQOpDCJzsawOrBKQGo7HHj-seNqx83bgW5CpwwHjc1PW7qf9zYA2SDlD7vA0k8bgIqnfu4cdPjxrbHTZ2Pm1oeN-573DgDpAIk3bjycWP348ZVj5u6QHINDc9mLAWLzwWqBodQ10awXUDDgepmAFW83AxUsf5pfzfYjKZVj5v3QCwGG74SaCPEcFCCfdw4_XHjCpDTIFwQYzpQHcRPu3ogKrc-bgQ6v-NxU8PzVZNBahoaICYCuWCvTFzwfFIzyJu7gK4ES2PzTS_YDKCvEb55vhzo6HVPl8x52tsFUvRsDiTkEL55MR8YNNh8A3YKVq-ArEf1DVAR5UkfChS09Lm4fBMz86wCEotKDB1qDGoUqkE2KNgYmmnZgVnAHAdJVU839D9f3wDSAhKuUTBQ0AVDdLq6oFbBEEgbAXENOPBBZgDTJDBdvVjYgzDAGKoBBE2gGAZNQZrBJAjCVMKsAPHBxqPoAYnC-CBZEES1BdkM7E7c1TMATgQ5BZsTq9Nq4eajhWQnijMN45B0mwOxGU3ciSsocbrz6ezZ1HIn3Hy4Hpj7YCoJhyeMRovyKUA3Aos5cKlpoAAs14HlHMLN1QXA9AyzHR3CTYSkemTvwbyIDIHKcoFhhexrZL8hKUMKUXS7qtNwBnfrWtoENyioYUmCcHCjO7iGqxaplDGibikDwnhLGWTXgdwMczfM14hkDVOJXEKYx4OVIGuCFRzgQAVJYw8FZFMwHYlWzgy0I0HpDWYD3pIGuQgApRH0QmPAHIpe1JDvULjxGCUgTCUR7sRT1KAVLciBgc0kSNGCXvSi64KWLOjOQdcGKVnQNaOULNhDF61koVboglwCSwFEhC66g1FLFuMBLFmQvQpjE1EmKJjCPAsPTZgAnEHFomVAXAlKcTA5_K2YQetSjHYMRS6FOIIilxJfvMBzEzpEa7rgcgwMQgsYE5yuRlIIVIdhLUoZgz2Q0VsvaCaQE8gozgVziAlldPPAxYyunQKopFEA0spcXAA)]
-- [鋼琴伴奏 TMD 檔案](hanyu_no_yado_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6f8vzKfMfN657um7_-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbBwoLL3lbBVYfLxkTfxI6rTkHpxcp57_fMetne82JZ9_N9K5VAYs9mbwKKOWUWZ-QXgAVetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0v1w94_nazufLJz5duvnp2gnPp6wAusjIwMhAz8DATM_AwsQS6B4lLi7fxMw8q4DMxLz8IA-HGoMahWouBSCwMTTTsgOz9IH-2rPxxdbtTzf0P1_foKClDxauUTBQ0AVDdLq6oFbBEEgbAXENF8yM52vWPNnR8GJhD8IAY6gGEDSBYhg0BWkGkyAIUwmzAsQHG4-iByQK44NkQRDVFmQzsDtxV88AOBHkFGxOrE6rhZuPFpKdKM40jEPSbQ7EZjRxJ66gxOnOp7NnU8udcPPhemDug6kkHJ4wGi3Kp6C4sboAmH5htqFDuAmQVI7sHZiXkCFQWS4wbJB9iewXJGVIIYhuV3UazuBtXUub4AUFLSwJEA5edAfXcNUilys-VC5XQBhvuYLsPpCrYS6H-RuRkGEqkcsE83iwEmRNsKICHKwgaezhgGwKpiPRSpaBdiQoxcFswFu2IGd6UCpBLyYGzKHohQv5DoUbj1HmwVQS4U7iCxe4YegQrXRBkzVF1wYtXUzQxbEpBKrDsBalgIHZhreAoVYQg4IXlgyICGJ0B4MLGF07BVAZowCklbm4AA)]
+- [主旋律 TMD 檔案](hanyu_no_yado.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDQ0Q8gUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuSUYq0LdpibmZOZVKXFpaCk_nb3k-Zf7jxnVP1-1X0NLiUrRVsLDgsrdVcNXhsjHRN7EDaX2xct77PbNetve8WNb9fN9KsHHPZm8Cinmk5hVVKgTll-ekVio4ZQIDtwAs-6J91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvl6hnP13Y-Xz7x6dLNT9dOeD5lxfs9HaBo0ANGgx4oGt7v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHegYoEeftq54Nq0d6ICnG3qftXcqgOLyUcNkIGWul1WQ_n5PD1DPywWNCgUFegrGlkApEwOgINAPT3b1vGzvfTl_8_M1axRMFV4umwZ0NjCMQFa9WLX_WcNykCXdvS9mzgeKvljX9bh59sup24FSQNuMFV7O7H2xYgZYsvNxQyMw7BWAioFSz3atfjqp53Fzt8KjmSttLSyAtj3Z0fmyeQXEtqcTOoAhCRR8umfji63bQZaDdb5s2PS0dSnQMLBX23e9mDn1xYrdQCuAlgNNfbJjLTDQIXHwcnYbSB1I4ZMdDWD14GQBVPa4cf3jxtWPG7eCXAVOJY-bmh439T9u7AGyQUqf94EkHjcBlc593LjpcWPb46bOx00tjxv3PW6cAVIBkm5c-bix-3HjqsdNXSC5hoZnM5aCxecCVYNDqGsj2C6g4UB1M4AqXm4Gqlj_tL8bbEbTqsfNeyAWgw1fCbQRYjgo9T5unP64cQXIaRAuiDEdqA7ip109EJVbHzcCnd_xuKnh-arJIDUNDRATgVywVyYueD6pGeTNXUBXgqWx-aYXbAbQ1wjfPF8OdPS6p0vmPO3tAil6NgcScgjfvJgPDBpsvgE7BatXQNaj-gaoiPKkDwUKWvpcXL6JmXlWAYlFJYYONQY11SALFGwstOzADGz5TQGYvoBp5MXCHgUNSIJT0Aamt6cb-p-vb9AB5xZQNtHEohNoH8jUGgUDBV04ri6oVTAE0jUKxkBSF2iUCZg2BYqYglm6YBkQroHKGYNpIyRdULNyYYaBLfIxrFGIB_Jg-HFzP1gLKCeBtDxungrEfVD2ErBMJ9S4x82LwOR6iI6mNVDRPWCVEBbELJgOsA1N-xG2G6HZ3rgVoqMRpAaktgOIGyDsxn1gmZUw25uawCTUvY09CNuBKpFsh-uA2A7yVw04yeOOu1094LgjMcrwRw6IjS1yQHEBj5y0Wog6eNw8bp6HFKqweFgBDu-98HiYBPbZMmhoQ_yLHA8gM0A6diCHBNg0RDwAsylSCK6DhnEbOAQhaQEe5o1tUPMg8QrW0dQCjSNImM9Atqmxl4gw39FJTpgbxoGtMVcwIynQUXIElkBH9thqKLsLHLir4IEOCVpYdoGpgkUTJHoQ0YGSvZACvQPJJqitjavAgQuJDpBJkKAFBT0oaEGBiRxNEDNAMqCMiAh0kPsIBPrT2bNpFugwEewpHQSRAxwp7YGDCOStRUgBC-KDUu_jZqhnkSICpB4hDiqTYIGAZAsosFGCDhJYoGAFBTY8hYNTLqTMAemYDhcHqQfWORBxcD5AtYVAiTIFM6DBbSW8AV1dACysYQEJCzqQcC00TUOCFuwAYMkOTMiwMEYSBoqiJnfM9N4EC0yYl0ABCUtNsIIdIgpKVZBAhBXqIFFQsMBTHloB_7gRlpKRTAcX25CAhRTckOAGFR8QUViuQeQRWLqeDzYdf7puXUtOcBOdrkHy2NM1OIKQ0jWsxAZl7-1QdgdKOoXUU9BAgxUeEDFI_QrWhxz0sNoSOYih5TU4ZUPSLCitIqdUqJmQ4IMVHVC7IaU6SB9IB6i4QbWnFqkRZDTgjSBIeBtB07gxUnEOkoGogcgZgmlzSJpDqWgRrSBatATwuxDSTCPkQmi2pU21CXGOKbxmpJ0DyaxiiHEgTASHA8GlB-2KZVgJC7MOUizDRMHugZRf4HLZDMZHlkAqr-ElMzFBSl7pRmyQwgo2LEEKKd2QSwPjQVIaQDwBIlFFIGpMYYEOZoCJASgPKHUjNLnQqCFNRyeS2-ykhhNpXCrAszdqsQDP_nD3QcsFE2wS2MoFYoKVzFYPEcEKIsFOxRWs8JJB104BVDgoAGllLgA)]
+- [鋼琴伴奏 TMD 檔案](hanyu_no_yado_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDQ0Q8gUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHIHwWZiXn58YnJyfm5BYl5mbmpeUiG5BeVZOSnFyUWZFRaZWQWl-QXZSYn5sRnJ-Yh-bYkIxXo2bTE3MycSiUuLS2Fp_O3PJ8y_3Hjuqfr9r_f0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFSwsuOxtFVx1uGxM9E3sQOa9WDnv_Z5ZL9t7Xizrfr5vJdiOZ7M3AcU8UvOKKhWC8stzUisVnDKBAV4Aln3Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9cvWM52s7ny-f-HTp5qdrJzyfsgLoPFDU6AGjRg8UNUDHKXFxeeaVFOVbBYBCJsjDocagpppLAQhsLLTswIwaherctFoFwzgFXSA0VzAD06ZAcVMwS1fBGMzXhYqA5E2A2AgsYghVYwCla7hqUaz0QbbSBM3KeAXjeAWT-HgFMyAGmhWvEG0YC6MgfJP4WAVToGy0KZABV2IAhGCbPBLzKkv98iMTU_B7EeQ8GK4uAFoNdjzIYyDPgLyD6WUQroHKGSN5GaILalYuzDCwRT6GNQrxQB4MP27uB2t53NwN1vK4eSoQ90HZS8AynVDjHjcvApPrITqa1kBF94BVQlgQs2A6wDY07UfYboRme-NWiI5GkBqQ2g4gboCwG_eBZVbCbG9qApNQ9zb2IGwHqkSyHa4DYjvIXzVc0FDGH56QJIQZnshJqBqYLMDq4MH5uHkeUkDAgm4FOIj2woNuEtgxy6ABBHEictCBzADp2IHseLBpiKB73NSF5Ol10GBpA3saEn3wYGpsg5oHiQqwjqYWaLBCgmkGsk2NvcjBRFRWI5DusIQTsltWQ9ld4PBYBQ8nSGjAEiVMFSxkISGKCEGURIwUTh1INkFtbVwFDg9ICIJMgoQGKLRAoQHyP3LIQswAyYCSOyKcQO4jLZxgIviKJEQYIcUw2FcglyxCCgsQH5RGHjdD3YcUdiD1CHFQZoW5G8kWUPig-BbiP1BIgMIHno7A6QOSGUE6psPFQeofN66AiINTG6otsAK0AFjwwPwO8y1IuBaaciChAdYDLW0xhYGiqIkKM1U1wfwPcwXI77A4gxVSEFFQ3EH8DSugQKIgn8DjF62wetwISy9IpoOLIEhYQAohSAiB8hVEFJY2ESkRlnrmg00nNfXgrtDAYYqUemClDyjdb4eyO1BSA6SYhPoTlqsgYpDiHawPObRghTVyqEDLHnD6gaQMUIpATg9QMyE-huUpqN2QEgqkD6QDlA9R7cFWbeKopkH1rAE4UQHrW1DlC0Sg-toIW3UNqqZhGL26BteToDobGjcUmARMoygG4W1CUM8kKANXWwQ5V8KUgBigcAOFH4gN9CuSdlgTCM1UkKuQnEiyGwk0mHTtFMCtMwUgAykVRPsAFaELGYGFlLkA)]
 
 ## 分析
 
@@ -119,11 +133,11 @@ E12 z4 |
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  D#, A#, G, F, G#
-   - 調性數值:    D# 大調 [相關度: 0.95, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D# 大調 (0.95), D# 小調 (0.60), C 小調 (0.54)
+   - 調性數值:    D# 大調 [相關度: 0.96, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D# 大調 (0.96), D# 小調 (0.59), A# 大調 (0.56)
    - 五度圈歷程:   -3
    - 各段落調性細節:
-     • [Main #1]: D# 大調 (r: 0.95, 自然音純度: 100.0%)
+     • [Main #1]: D# 大調 (r: 0.96, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -136,22 +150,22 @@ E12 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██                         3.2%
+     C  : ██                         3.6%
      C# :                            0.0%
-     D  : ████                       6.0%
-     D# : ████████████████████████  38.1%
+     D  : ███                        5.1%
+     D# : ████████████████████████  36.7%
      E  :                            0.0%
-     F  : ███████                   11.1%
+     F  : ███████                   10.4%
      F# :                            0.0%
-     G  : ██████████                15.3%
-     G# : ██████                     9.3%
+     G  : ███████████               16.5%
+     G# : ██████                     9.1%
      A  :                            0.0%
-     A# : ███████████               17.1%
+     A# : ████████████              18.6%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Part1         : D#4 – D#5 (12 個半音 / 1.0 個八度, 78 個音符)
-  - Part2         : D4 – A#4 (8 個半音 / 0.7 個八度, 78 個音符)
+  - Part1         : D#4 – D#5 (12 個半音 / 1.0 個八度, 70 個音符)
+  - Part2         : C4 – A#4 (10 個半音 / 0.8 個八度, 70 個音符)
   - Part3         : G#3 – D#4 (7 個半音 / 0.6 個八度, 62 個音符)
 ================================================================================
 ```

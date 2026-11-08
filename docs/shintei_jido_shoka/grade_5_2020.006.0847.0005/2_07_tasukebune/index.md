@@ -23,7 +23,7 @@ audio: "tasukebune.mp3"
 ## 說明
 
 原書資訊與歌詞全文（對應 P044.jpg，書頁 p. 21，第二學期第 7 首）：
-調性與拍號：變ろ長調八分之六拍子（Bb 大調 6/8 拍），情ヲ込メテ ♪= 120
+調性與拍號：變ろ長調八分之六拍子（B♭ 大調 6/8 拍），情ヲ込メテ ♪= 120
 作詞：佐々木信綱　曲：（英國風曲）
 
 
@@ -60,27 +60,27 @@ Q:3/8=40
 K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z10 F2 | d4 d2 c4 c2 | B2 c2 d4 c2 F2 | e4 e2 d2 c2 B2 |
-w: 1.~ハ | ゲ シ キ ア | メ _ カ ゼ テ | ン チ ク _ ラ
-w: 2.~す | く ひ を も | と _ む る こ | ゑ は す _ れ
-c10 F2 | d4 d2 c4 c2 | B2 c2 d2 c4 F2 | e4 e2 A2 B2 c2 |
-w: 1.~ク ヤ | マ ナ ス ア | ラ _ ナ ミ タ | ケ リ ク _ ル
-w: 2.~ど こ | の か ぜ こ | の _ な み た | れ も ゆ _ か
-!mp! B10 B2 | A4 A2 B4 B2 | !mf! c4 c2 A4 F2 | f4 e2 d2 c2 B2 |
-w: 1.~フ ミ | ヨ ミ ヨ カ | シ コ ニ ア | ハ レ ヲ _ ブ
-w: 2.~ず み | よ み よ こ | ぎ づ る す | く ひ を _ ぶ
-!mf! c10 F2 | d4 d2 c4 c2 | B2 c2 d2 c4 F2 | e4 e2 A2 B2 c2 |
-w: 1.~ネ シヨ | _ シ ノ サ | カ _ ヒ ト ス | ク ヒ モ _ ト
-w: 2.~ね け | な げ の を | の _ こ ら ま | も れ か _ み
-B10 z2 |
-w: 1.~ム
-w: 2.~よ
+!mf! z10 F2 | B4 B2 B4 A2 | B2 A2 G2 F4 F2 | A4 A2 A2 B2 c2 |
+w: 1.~ハ | ゲ シ キ ア | メ ー カ ゼ テ | ン チ ク ー ラ
+w: 2.~す | く ひ を も | と ー む る こ | ゑ は す ー れ
+B6 B4 F2 | B4 B2 B4 A2 | B2 A2 G2 F4 F2 | A4 A2 G2 A2 B2 |
+w: 1.~ク ー ヤ | マ ナ ス ア | ラ ー ナ ミ タ | ケ リ ク ー ル
+w: 2.~ど ー こ | の か ぜ こ | の ー な み た | れ も ゆ ー か
+!mp! B6 B4 B2 | c4 c2 c4 c2 | !mf! d4 d2 d4 d2 | e4 d2 d2 c2 B2 |
+w: 1.~フ ー ミ | ヨ ミ ヨ カ | シ コ ニ ア | ハ レ ヲ ー ブ
+w: 2.~ず ー み | よ み よ こ | ぎ づ る す | く ひ を ー ぶ
+!mf! c6 c4 F2 | B4 B2 B4 A2 | B2 A2 G2 F4 F2 | A4 A2 G2 A2 B2 |
+w: 1.~ネ ー ショ | ー シ ノ サ | カ ー ヒ ト ス | ク ヒ モ ー ト
+w: 2.~ね ー け | な げ の を | の ー こ ら ま | も れ か ー み
+B6 B4 z2 |
+w: 1.~ム ー
+w: 2.~よ ー
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tasukebune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk87Vr5omOngpYWl6KtgpkBl72tgpMOl42ZvoUdSN-L9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZNeXp2h1Pd255PmXF-z0doJDRA4aMHihkgAwD0_d7OsEue7J3wuOG1mdzVjzZv_D5to0KT_bOebFyHljqRffGp3O6Xy5a8Wz2JiUuLn0tBVtqAS4FBYWnffOfzd7xYnP7ixVdLzragX4AWvy0dcWzae1AFz_d0PusvVMhwMDERC-rIP39nh6g4pcLGhUK9BSMDIFcsCd7gJ58Nmc-kK1grvBy2TSgr97vmQUy_cWq_c8aloPM7e59MXM-UPTFuq7HTb0vp24HSj1tXf20o-3Jzu6nrWuBCp6unQC00ilJ4emS5UBZBWDwKwCFwab1PGtufdy86cW-PY-bFz5ublN4NHOVrYKhkQHIFkhoAQ1HC8bHDQ3AQAOKA41FDkagiVxgfTsagEoeN65_3DjpceP0x429L2evACoBCj5dsvLpnA2PG_sfN3UCSXBIbdz4uHHV48aZjxubgKLPNi963Dj_cePEx01dz7ubHjduBXt4Wffjpg4I-bixG2zq5MeNq0F6gPY09Tzd0P-iYz5I6fMp85-t3f24cd3jxqlgpZseN654NhVoHlDpisdNDRA37gImqgaw8KRnG4EWNzxu6gaKvAApBzp8JtDMx40rQUrBNq0DuR_MADrwxaoNINOa2sDmQ2IExYFAdX2PG5eCjAT5qx_oCIQDQX4DeRgYNuuAtoNdOhno86frOoCWPl86D2gESB3lCREKFLT0ubhCEotLs1OTSvNSrQIyE_PyHWoMaqpB1ijYWGjZgRnY8oDC0z0bX2zdDkxqoCS5o-HFwh4FDVi61cSiHmgX1CxkUJ2bVqvwuLlfoUbhcdMmkMjjpu1AvBbCXAQSb14IZDbvAXJXQ0SBTGCKBMlsBgs0NwIF10MVNa8EmwXkQgBIEEwtgTmhRsFAQRcKwfabxgPFjIE8YwUjIGkE5BkCSZCIEUTSBMg0AUsbAnkgRRAIkgSb6WNYoxAPF0Z4CMiG-gfEgnkHxF4NJpG9AtIH8QmIBfMGwswlMLuMUOxqnAlS2dgPZm8C6pkENrkJLLoCzG4Ak92gFAs2dSJY7XqwXpBMD1jtSiQzgerA2QF73ENKIXCUmygAE_Dz9Q068EILf-Q_bp4HiY4uoL07kWN5JSwCgTLN8yEy-8HO3QjRsQo5lleD9UxFjuXq3AJQWpqPiGdscQriIcWpeTxYHCSLSBNAc4DxDI9YkJtBEQBxMiIiQQEGcy5IFOZakCjEsSAWzKWIiJyPFJHAXA4OcFDkzIEFPVwUaErjfjALqAccUZCoBRYxUF0gtbOQIg7oBgIRt6OTzIhbAQno-XAmMA2DHLUdwtkMFO-GZmhoAPVDdKwBYmDehkTcNLBML2rEgfVsB5kLjztgxOhCYkcXnumMIKKITGsKjkPMfAlXgRSH4KwAdT0kA0IcD2JD3I6IWXBmgrobxII5Gh7OEMciRWNTBzT4YSxINPaB2UvBuQ9nXm3cBhYFlRGwaJxIKBqfzp5NZjRCikNQqdTcB2FuBYcEsHCFxNAkIO6AyOxElKUQ8UUwRR3gEFmAHI1AQGHOM0CKMGgwg10JYsEcCYoOiAtBojAHwkQXgVkwx8HMhScEcIZbBQ5hoGpIJgPGASLDTQbyO8GsfWCTm8AqesBZDZq9oDGMMLmWi0vXTgFRjyoAecpcAA)]
-- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjatfJFx873ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKZAZe9rYKTDpeNmb6FHVedgtKL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bupxu6n-7Y8Xz5xOdr1jzZNeXp2h1Pd255PmUF0EojAyMDPQMDMz0DCxNzIMPAFGirEsiGJ3snPG5ofTZnxZP9C59v26jwZO-cFyvngaVedG98Oqf75aIVz2ZvUuLiCkksLs1OTSrNS7UKyEzMyw_ycKgxqKnmUgACGwstOzBDX0vBFh0oPN2z8cXW7S862kEO29HwYmGPgkaAgYmJXlZBuiYW9Vr6YLNqFAwUdKGwOjetVsE0HihmDOQZKxgBSSMgzxBIgkSMIJImQKYJWNoQyAMpgkCQJNhMH8MahXi48OPmfqCyx02bQOym7UC8FsxaBBJtXghmrwaTe4D8NrDoZrC-RqDYejBrJdgEEBtm5hKYXUYodjXOBKls7AezNwH1TAKb3AQWXQFmN4DJbiB_MtjUiWC168F6QTI9YLUrkcwEquPCHfDghNADDm8Thacb-p-vb9BRICrksYUyiIcUyubxYHGQLCKWCmpBIQ8P6sfN88BB0gV0_E6koAV5ASzaPB8suh_s3Y1g0VXwoF0NVjsVKWjnIwXt48Z14CAABdccWGDARYGmNO4Hs4B6wEEHCezHTW1QXSC1s5CCEugGAkG5o5OcoASGky4ksHThqdIIIopI1abgIMVMuHAVSEEKTivAoICygCkU5MHtYPZmoGg3UkCDU1vzGiAGp_HmaWDRXoS3m7aDjEEK1aYOaGjAWJBQ7QOzl4KTJ87E3LgNLArKRLBQnUgoVJ_Onk2_BGqAFJBQ7wODA-y3pq3gYARn9-ZJQAz2PTDVwrI3RHQRmNUBDsYFcHPhEQROl6vAPgeqhqRFYNgg0uVkIL8TzNoHNrkJrKIHnCKhqRAa8giTazELXx8che-zLdue7Vz-bPOiZ_uXPNnZrQCsSBSedfc-3b7sWWc3pMrBVrwCwwWS1AzjQSFoDCLBLCNQcKILglSbgALXDEjA5IBpGCgLVA_kgliIwMY0gKCpWNUBGciGggsbhJ34HYLmO5g9-BxNXnjgdzkwJnXtFBCRGe1jGKuAJmIEFlHmAgA)]
+- [主旋律 TMD 檔案](tasukebune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgxMTBAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM9gnEipKixLzi5KLMApD3EKryi0oy8oE-KciotMrILC7JL8pMTsyJz07MQ_JwSUYq0L9gEwqAGpS4tLQUnnatfNGxU0FLi0vRVsHMgMveVsFJh8vGTN_CDqTvRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7JrydO2Opzu3PJ-y4v2eDlDg6gEDVw8UuECGgen7PZ1glz3ZO-FxQ-uzOSue7F_4fNtGhSd757xYOQ8s9aJ749M53S8XrXg2e5MSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UA_AC1-2rri2bR2oIufbuh91t6pAIpNvayC9Pd7eoCKXy5oVCjQUzAyBHLBnuwBevLZnPlAtoK5wstl04C-er9nFsj0F6v2P2tYDjK3u_fFzPlA0Rfruh439b6cuh0o9bR19dOOtic7u5-2rgUqeLp2AtBKp0cz1yo8XbIcKK8AjAAFoATYvJ5nza2Pmze92LfncfPCx81tCo9mrrJVMDQyANkDCS-g8WgB-bihARhsQHGgwcgBCTSRC6xvRwNQyePG9Y8bJz1unP64sffl7BVAJUDBp0tWPp2z4XFj_-OmTiAJDquNGx83rnrcOPNxYxNQ9NnmRY8b5z9unPi4qet5d9Pjxq1gLy_rftzUASEfN3aDTZ38uHE1SA_Qnqaepxv6X3TMByl9PmX-s7W7Hzeue9w4Fax00-PGFc-mAs0DKl3xuKkB4sZdwGTVABae9Gwj0OKGx03dQJEXIOVAh88Emvm4cSVIKdimdSD3gxlAB75YtQFkWlMb2HxInKA4EKiu73HjUpCRIH_1Ax2BcCDIbyAPA8NmHdB2sEsnA33-dF0H0NLnS-cBjQCpozwpQoGClj4XV0hicWl2alJpHrAYyUzMy3eoMaipBlmjYGOhZQdmYMsFCk_3bHyxdTswsYES5Y6GFwt7FDRgKVcTi3qgXSCzahQMFHShsDo3rVbBNB4oZgjkGYJJcwgXSJnFg-R0IQqAfLAcEBkqGEF1gPRA5MFG-xjWKICUQeDj5n6gssdNm0Dspu1AvBbMWgQSbV4IxHuAvNVAvAesug0svhnMbgSKroeoaF4JNmU91EyI2iUwG41QbGycCVLb2A9mbwLqmgS2sQksugJqYwMQd4NVTAabPBHMBtoG1A1R0QNWvxLZRpBacPLEHheQcgEcBSYKwAT1fH2DDrwYwRsZRAc8UBAc9sghX51bUAsSgof-4-Z5YDd3AX2xEym0V0LDEijePB8svh_s941g1auQQns1WP1UlNCejxTawEwBDo9uIJ6DCEWgKFh_I9Csxv1gcaAucFhCYgCYJ6EqusHqZ6GELtA1BEJ3Ryc5oWsENN0IStYoGANpYzAJTvjGQCETqJAROGRBCkFKkXIGUtCugAYGlAVMuiAPbgezNwNFwYkKGuDgJNi8BoiByRAcsNPA4r3I3m7a_rh5OXLYNnVAQwPGgoRtH5i9FJ5uMVM5JGS3gcVBuQwRshMJhezT2bPpnm4NUMIVGhZAFtijTVvB4QosGMDhBvIcODCACRpWEEBEF0FVdIBDdgGSt-HxBk6wq8ABAdQBSbrA4EJOsJOBIp1gFfvA5jeB1fRAkjhYBSSrgNyAbH4tF5eunQKi8FYA8pS5AA)]
+- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgxMTBAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM8klBZmJefnxicnJ-bkFiXmZuah6SIflFJRn5QI8UZFRaZWQWl-QXZSYn5sRnJ-Yh-bckIxXo3ZKixLziAqAGJS4tLYWnXStfdOx8v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2iqYGXDZ2yo46XDZmOlb2IEMe9G-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2aJ7umPF274-nOLc-nrABaCQpwPWCA64ECHMgwMAXaCnbuk70THje0Ppuz4sn-hc-3bVR4snfOi5XzwFIvujc-ndP9ctGKZ7M3KXFxeeaVFOVbBYDCJsjDocagpppLAQhsLLTswIwaherctFoFQwVdIAaR5vFAMUMQZRavYBoPFAESNSA-WA4oCCQNwWp0wZp0FQwUarhqUazywWcVyCSQqRAaaBDInngFEyBGCMJYKMrAFoIoqI0hicWl2alJpXnARIXHhwZgjSAIdgDYP0R7GOxbIxT_guTBRvsY1ihAXAWCj5v7gcoeN20CsZu2A_FaMGsRSLR5IRDvAfJWA_EesOo2sPhmMLsRKLoeoqJ5JdiU9VAzIWqXwGw0QrGxcSZIbWM_mL0JqGsS2MYmsOgKqI0NQNwNVjEZbPJEMBtoG1A3REUPWP1KZBtBarmg4UdR4qjOLQAlL0SAPW6eB7amC2jxTqQAWgn1PlC8eT5YfD_YuRvBqlchBdBqsPqpKAE0HymAHjeuA3uhG4jnIDwOFAXrbwSa1bgfLA7UBfY-JNAeN7VBVXSD1c9CCRCga2ABYgQUMIKSNQrGQNoYTIKTlzFQyAQqZAQODJBCkFKk9IcUGiug7oeygAkE5KbtYPZmoCg46qBhBI7o5jVADIxscFhMA4v3Iru0afvj5uXIwdHUAfUAjAUJjj4weyk8dWCmJUhgbAOLg9IyIjAmUil1gDIyIiigzgeywG5r2goOCmCOAXsV5B6w-4HJBpZDIKKLoCo6wIGxAMml8KAGJ4tVYLcDdUASCNCHyMliMlCkE6xiH9j8JrCaHkhCAquAJEiQG5DNx1IQ4Sj_EAUR0N9UKwih0UBV0_CrA_FB5oK5ECVABrou6rsNGNK6dgrgekYByECEerSPYSy6iBFYRJkLAA)]
 
 ## 分析
 
@@ -91,26 +91,26 @@ w: 2.~よ
 ⏱  Duration:       0:51 (51.0s), 17 measures total
 🎼 Key & Tempo:    首調基準 B,, != 60.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F4 (MIDI 65) – F5 (MIDI 77) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+🎤 人聲音域:    F4 (MIDI 65) – D#5 (MIDI 75) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
    - 最低音:  F4 in [Tasukebune #1 @ m.1, 0:02]
-   - 最高音: F5 in [Tasukebune #1 @ m.12, 0:33]
+   - 最高音: D#5 in [Tasukebune #1 @ m.12, 0:33]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Tasukebune (51.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       C 調性不明確（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, A#, D, D#, F
-   - 調性數值:    C 調性不明確 [相關度: 0.60, 穩定度: Ambiguous, 自然音純度: 92.7%]
-   - 候選調性 (K-S): C 小調 (0.60), F 大調 (0.60), A# 大調 (0.58)
-   - 五度圈歷程:   +0
+   - 核心骨幹音:  A#, A, C, F, D
+   - 調性數值:    A# 大調 [相關度: 0.78, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.78), F 大調 (0.58), A# 小調 (0.57)
+   - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [Tasukebune #1]: C 調性不明確 (r: 0.60, 自然音純度: 92.7%, 調外音: A)
+     • [Tasukebune #1]: A# 大調 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-              [C ]*
+               C  
          F            G  
-      Bb               D  
+     [Bb]*              D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -118,21 +118,21 @@ w: 2.~よ
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  35.4%
+     C  : ████████                  13.5%
      C# :                            0.0%
-     D  : ███████████               15.6%
-     D# : ███████                   10.4%
+     D  : █████                      8.3%
+     D# : █                          2.1%
      E  :                            0.0%
-     F  : ██████                     9.4%
+     F  : ████████                  12.5%
      F# :                            0.0%
-     G  :                            0.0%
+     G  : ███                        5.2%
      G# :                            0.0%
-     A  : █████                      7.3%
-     A# : ███████████████           21.9%
+     A  : ███████████               18.7%
+     A# : ████████████████████████  39.6%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – F5 (12 個半音 / 1.0 個八度, 63 個音符)
+  - Piano         : F4 – D#5 (10 個半音 / 0.8 個八度, 67 個音符)
 ================================================================================
 ```
 

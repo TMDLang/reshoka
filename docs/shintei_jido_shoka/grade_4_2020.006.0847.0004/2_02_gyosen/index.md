@@ -71,15 +71,15 @@ Q:1/4=76
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A3 A F2 A2 | d3 d c2 B2 | A3 A F2 D2 | E2 E F E2 z2 |
+A3 A F2 A2 | d3 d c2 B2 | A3 A F2 D2 | E2 F F E2 z2 |
 w: 1.~エ ン ヤ ラ | エ ン ヤ ラ | ロ ビャウ _ _ | ソ ロ ヘ テ
 w: 2.~ゆ ら り や | ゆ ら り と | な み ま に | ゆ ら れ て
 w: 3.~え ん や ら | え ん や ら | え も の に | い さ ん で
 A3 A F2 A2 | d3 d c2 B2 | A3 A F2 D2 | E2 E E D2 z2 |
-w: 1.~ア サ ヒ ノ | ミ ナ ト ヲ | コ ギ ダ ス | フ ネ フ ネ
+w: 1.~ア サ ヒ ノ | ミ ナ ト ヲ | コ ギ ダ ス | レ フ セ ン
 w: 2.~い そ に は | あ み ぶ ね | お き に は | つ り ぶ ね
 w: 3.~い り ひ の | お き を ば | い そ い で | こ ぐ ふ ね
-B3 A G2 F2 | D2 E E D2 z2 | B3 A G2 F2 | D2 E E D2 z2 |
+B3 A G2 F2 | E2 F F E2 z2 | B3 A G2 F2 | E2 F F E2 z2 |
 w: 1.~ミ ヨ ミ ヨ | ア ノ ク モ | ケ フ コ ソ | タ イ レ ウ
 w: 2.~み よ み よ | あ れ み よ | か か る わ | と れ る わ
 w: 3.~み よ み よ | は ま べ に | つ ま こ が | む か へ る
@@ -91,8 +91,8 @@ w: 3.~そ れ こ げ | こ げ よ や | ろ びゃう _ _ | は や め て
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gyosen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLgEZraSk829P4omOngpYWl6KtgrkZl72tgguXjZG-iR1I24uV897vmfVsWvvL5hXP5zSCjXo2exOG2Iv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6nG7qf7tjxfPnE52vWPJ09--naHU93bnk-ZcX7PR2gANQDBqAeKACBDAOT93s6lbi49LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHugvo06etK4C-Arri6YbeZ-2dCgEGxmZ6WQXp7_f0ABW_XNCoUKCnYGgM5AId_mRXD9Dhz-bMB7IVjBReLpsGdCkwXECmv1i1_1nDcpC53b0vZs4Hij5uXA0UBOoBijxdOwFoh4vC0yXLgWIKwKBWAIoCdYO0vmyY_3TXsmc97c-X7ALqe96x9-n-1Y-bu4E6Hs1caWtuBlIHUvhkRwOIetzY8bhp8uOmlsdNnSjshoYXnavgtj1u6n3cuPlxU_PjxrbHjdOBhjxunAsW3PG4cRnIoGdz5j6bvhSktLHpcePUx43ASAYqWvdsx3qw4P7HjaseNwLjqPNx0ySg6c_2TAWLTwYr63vavutx48wXHUDPAgW3Pm5cCxQHcsHBsaz7cVMHhASbvu4lKAkB2f2Pm5pA-hsanuzuglk_EagfbOhkoBuBgQRMoWDx-Y8bgT7rAfoAGlZgL_QAHfK4cRIKu6HhcWMX0OgXHUCDgDq7HzcuApu44nETMLq3QgJwVw_YkKY2UHA1AdUDTYexgSqBXty66uU0oP-AJgC9DgyAfWBDVsOUAZ0CDrrniyFB1AJ0BFRF4_rn2zYB8xUsPIGat0HCBGTuJmBaAYoDrQFFO0T9y_bFMPVLwC6AqscWgE09UDbIo0AG0OtAsv9ZLyRKIJHUAxEEO3AbJLhBDoF5oen5Vogg0NVgDWBBoIkv184CiwNDEhhuqyCpAMwGpmIQCU1-0CjAmfye92563rkSbBRQHBTrEFuedoOyGNheoHOBDgVG83JwnmxdCksCQCOAIQBLgZumgZJc4wZQ0DXAFECDGsgAJhCgWycAQw89rJ7t3_iyqQusYT0w9h43AsMX7NGGhqfLdkNzBjC4QVKQdNzzYn8fOLuAAhYssgMYjOiJDZrMgBEA9CxSRns2HeLf9UBxsNcaoSmE8kILChS09Lm43Cvzi1PzrAIyE_PyHWoMaqpBVijYGJpp2YFZ2ApLBVCRtaPhxcIeBQ0Thacb-p-vb9CBl3CaWDQAbYIapgHUqGkFzCkrQOHQvBmIl4BZKxVqcIk2rwWzJz9uXvy4aRlQ1Xaw2r1gUYjcDDDZBiSRrdrVA7YKJAxMR0DcBWa1gLWjiTauAIk2rgKz9wPxPjBrNYpaENkDFl-GsKpGwVRBFwhNFYzBpC5QxDAOLASkzIGUGVgMWZUhWMQISBoB-SDaACQCNs_HEBISINWwsACxVoL14JEBhgVEBhZSQDYwrEBikPACya0FhxYorHQV4hF2GkG8CdYPDRQQqwWqF0MGGFxgGWCAgWWgQQZirUbSA9HRAw4wFPuMQXo7oKZOhtoEUg0xlbBME5C9Dtm-RrC6xqkQXY3L4fbhT8e7eihLx4vAiWIrMEQngdNgHzgm5oPZXUDcAWZtAofIZrDadUB-A5i1E6x2KlhFL5hEsDHTMdCD4KID7GUQaz3Y203wFLsNzFoLFoWk6V40teBMBU3vMNVUS8dGYB56Ol4EjS9ICIFSYB80tc6HplZIKIFYm6ApZzNUDySkQKydUD1TweqA3gKyQDRGGganAlA6gAQTiLUemj6akFLqNjALlF8ggQWRgQQXsh5w_gIGGEgHRD16GobaB1YDcj8kVaKZ2gT2eeMGpJQKcyMk1YJSK0hmMpg3AYiB4YVkH4GyuJOiNAxNrSuQWJCYg6RnUJJZD2YvAotvhKZUWHreCxbdD2ZDSu01YDZSEYmciiEKO5BY8FQMLVuRxbvBIt1APoQFScfgagKiGi6OlI5B6RSUQk2AJCiVAtMxegolRg0iFcPTKiSMICxIWgWlb1AogcIIFELQGAOHE0QPJKRAaQRUAkPCCsRbAg4pSDmNnopBKkBqIMEEYSFSMaREBaZjsCjUPmAgQVIVJLBAqvqhMiC3gvUAxSGi6KkYt32gnAAq2YENHmjugNkHyhswOUi67YH6D5xnQe5o3AF1CxGpGNh7o6wkhrQHQCEKSZeQMhe7KLiaB8bW4yZw8djcBC5dIGU1WA4ujjUNI8pcsDJgZQTJ1pB2BKoouEgHBwakbbEOKV3PgsrB2BglMbj8BRW9sARrBpaCJFjsBbExEGIriEGJD5QcIUEBimJYcYtbBlq5QwMKxAIlP0hQgXirwOIQUfQkjFzcgvUCwwO1-IOEFLIMqHiHJR2Q3YjCFJyggWEEkZuFJQnPhSZhUNaAJEdQoQsrVCF8SLJGNGtAFQhIBtqbBbOng8XgSR-oFtj2BvIQ2bSWi0vXTgHSclYAspS5AA)]
-- [鋼琴伴奏 TMD 檔案](gyosen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2p_FFx873ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYK5GZe9rYILl42RvokdV52C0ouV897vmfVsWvvL5hXP5zQqgcSezd6EIfaifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU9nz366dsfTnVueT1kBdJmRgZGBnoGBmZ6BhYk5kGFgAnScEheXe2V-cWqeVUBmYl5-kIdDjUFNNZcCENgYmmnZgVn6Wgq26EABaMGTHQ0vFvYoaJgoPN3Q_3x9g45CgIGxmV5WQbomFg1a-jDDNIAaNa0UHjetAPIfN28G4iVg1kqFGlyizWvB7MmPmxc_bloGVLUdrHYvWBQiNwNMtgFJZKt29YCtAgk_buoE4i4wqwWsHU20cQVItHEVmL0fiPeBWatR1ILIHrD4MoRVNQqmCrpAaKpgDCZ1gSKGcWAhIGUOpMzAYsiqDMEiRkDSCMgH0QYgEbB5PoaQkACphoUFiLUSrAePDDAsIDKwkAKygWEFEoOEF0huLTi0QGGlqxCPsNMI4k2wfmiggFgtUL0YMsDgAssAAwwsAw0yEGs1kh6Ijh5wgKHYZwzS2wE1dTLUJpBqiKmEZZqA7HXI9jWC1TVOhehqXA63D3863tVDWTpeBE4UW4EhOgmcBvvAMTEfzO4C4g4waxM4RDaD1a4D8hvArJ1gtVPBKnrBJIKNmY6BHgSlvLlgL4NY68HeboKn2G1g1lqwKCRN96KpBWcqaHqHqaZaOjYC89DT8SJofEFCCJQC-6CpdT40tUJCCcTaBE05m6F6ICEFYu2E6pkKVgf0FpAFojHSMDgVgNIBJJhArPXQ9NGElFK3gVmg_AIJLIgMJLiQ9YDzFzDAQDog6tHTMNQ-sBqQ-yGpEs3UJrDPGzcgpVSYGyGpFpRaQTKTwbwJQAwMLyT7CJTFnRSlYWhqXYHEgsQcJD2Dksx6MHsRWHwjNKXC0vNesOh-MBtSaq8Bs5GKSORUDFHYgcSCp2Jo2Yos3g0W6QbyISxIOgZXExDVcHGkdAxKp6AUagIkQakUmI7RUygxahCpGJ5WIWEEYUHSKih9g0IJFEagEILGGDicIHogIQVKI6ASGBJWIN4ScEhBymn0VAxSAVIDCSYIC5GKISUqMB2DRaH2AQMJkqoggQVS1Q-VAbkVrAcoDhFFT8W47QPlBFDJ_rhxJzR3wOwD5Q2YHCTd9kD9B86zIHc07oC6hYhUDGyyUFYSQ9oDoBCFpEtImYtdFFzNA2PrcRO4eGxuApcukLIaLAcXx5qGEWUuWBmwMoJka0g7AlUUXKSDAwPStliHlK5nQeVgbIySGFz-gopeWII1A0tBEiz2gtgYCLEVxKDEB0qOkKAARTGsuMUtA63coQEFYoGSHySoQLxVYHGIKHoSRi5uwXqB4YFa_EFCClkGVLzDkg7IbkRhCk7QwDCCyM3CkoTnQpMwKGtAkiOo0IUVqhA-JFkjmjWgCgQks_lxU_PjRnCDpXE6WAye9IFqHzc1AnmIbFqL2nD2wdpwBpYnINUgGG0YC2UhC5pgE0RSaRoPEwVLI6KTliab4DUEoRxJIQVOxmoI8U4GxoOunQIkKqJ9QKoRPCMUnjGYp8wFAA)]
+- [主旋律 TMD 檔案](gyosen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgyMzRAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM9gnEipKixLzi5KLMApD3EKryi0oy8oE-KciotMrILC7JL8pMTsyJz07MQ_JwSUYq0L9gEwqAGpS4tLQUnu1pfNGxU0FLi0vRVsHcjMveVsGFy8ZI38QOpO3Fynnv98x6Nq39ZfOK53MawUY9m70JQ-xF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57Onv107Y6nO7c8n7Li_Z4OUBzoAeNADxQHQIaByfs9nUpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0A90F9OnT1hVAXwFd8XRD77P2TgVQROplFaS_39MDVPxyQaNCgZ6CoTGQC3T4k109QIc_mzMfyFYwUni5bBrQpcBwAZn-YtX-Zw3LQeZ2976YOR8o-rhxNVAQqAco8nTtBKAdLgpPlywHiikAg1oBKArUDdL6smH-013LnvW0P1-yC6jvecfep_tXP27uBup4NHOlrbkZSB1I4ZMdDSDqcWPH46bJj5taHjd1orAbGl50roLb9rip93Hj5sdNzY8b2x43Tgca8rhxLlhwx-PGZSCDns2Z-2z6UpDSxqbHjVMfNwIjGaho3bMd68GC-x83rnrcCIyjzsdNk4CmP9szFSw-Gays72n7rseNM190AD0LFNz6uHEtUBzIBQfHsu7HTR0QEmz6upegJARk9z9uagLpb2h4srsLZv1EoH6woZOBbgQGEjCFgsXnP24E-qwH6ANoWIG90AN0yOPGSSjshobHjV1Ao190AA0C6ux-3LgIbOKKx03A6N4KCcBdPWBDmtpAwdUEVA80HcYGqgR6ceuql9OA_gOaAPQ6MAD2gQ1ZDVMGdAo46J4vhgRRC9ARUBWN659v2wTMV7DwBGreBgkTkLmbgGkFKA60BhTtEPUv2xfD1C8BuwCqHlsANvVA2SCPAhlArwPJ_me9kCiBRFIPRBDswG2Q4AY5BOaFpudbIYJAV4M1gAWBJr5cOwssDgxJYLitgqQCMBuYikEkNPlBowBn8nveu-l550qwUUBxUKxDbHnaDcpiYHuBzgU6FBjNy8F5snUpLAkAjQCGACwFbpoGSnKNG0BB1wBTAA1qIAOYQIBunQAMPfSwerZ_48umLrCG9cDYe9wIDF-wRxsani7bDc0ZwOAGSUHScc-L_X3g7AIKWLDIDmAwoic2aDIDRgDQs0gZ7dl0iH_XA8XBXmuEphDKCy0oUNDS5-Jyr8wvTs2zCshMzMt3qDGoqQZZoWBjaKZlB2ZhKywVQEXWjoYXC3sUNEwUnm7of76-QQdewmli0QC0CWqYBlCjphUwp6wAhUPzZiBeAmatVKjBJdq8Fsye_Lh58eOmZUBV28Fq94JFIXIzwGQbkES2alcP2CqQMDAdAXEXmNUC1o4m2rgCJNq4CszeD8T7wKzVKGpBZA9YfBnCqhoFUwVdIDRVMAaTukARwziwEJAyB1JmYDFkVYZgESMgaQyEINoAJAI2z8cQEhIg1bCwALFWgvXgkQGGBUQGFlJANjCsQGKQ8ALJrQWHFiisdBXiEXYaQbwJ1g8NFBCrBaoXQwYYXGAZYICBZaBBBmKtRtID0dEDDjAU-4xBejugpk6G2gRSDTGVsEwTkL0O2b5GsLrGqRBdjcvh9uFPx7t6KEvHi8CJYiswRCeB02AfOCbmg9ldQNwBZm0Ch8hmsNp1QH4DmLUTrHYNWMVUsMhuaPrHlo6BHgQXHWAvg1jrwd5ugqfYbWDWWrAoJE33oqkFZypoeoepplI6NgJCEA89HS-CxhckhEApsA-aWudDUysklECsTdCUsxmqBxJSINZOqJ41YHWgON4NDieMNAxOBaB0AAkmEGs9NH00IaXUbWAWKL9AAgsiAwkuZD3g_AUMMJAOiHr0NAy1D6wG5H5IqkQztQns88YNSCkV5kZIqgWlVpDMZDBvAhADwwvJPgJlcSdFaRiaWlcgsSAxB0nPoCSzHsxeBBbfCE2vsPS8Fyy6H8yGlNrgFA0sf7CmYojCDiQWPBVDy1Zk8W6wSDeQD2FB0jG4moCohosjpWNQOgWlUBMgCUqlWEpaYtQgUjE8rULCCMKCpFVQ-gaFEiiMQCEEjTFwOEH0QEIKlEZAJTAkrEC8JeCQgpTT6KkYpAKkBhJMEBYiFUNKVGA6BotC7QMGEiRVQQILpKofKgNyK1gPUBwiip6KcdsHygmgkh3Y4IHmDph9oLwBk4Ok2x6o_8B5FuSOxh1QtxCRioG9N8pKYkh7ABSikHQJKXOxi4KreWBsPW4CF4_NTeDSBVJWg-Xg4ljTMKLMBSsDVkaQbA1pR6CKggt2cGBA2hbrkNL1LKgcjI1REoPLX1DRC0uwZmApSILF3aDAVhCDEh8oOUKCAhTFsOIWtwy0cocGFIgFSn6QoALxVoHFIaLoSRi5uAXrBYYHavEHCSlkmamIJAxuWCAKU3CCBoYRRG4WliQ8F5qEQVkDkhxBhS6sUIXwIcka0azphcpAe7Ng9nSwGDzpA9UC295AHiKb1nJx6dopQFrOCkCWMhcA)]
+- [鋼琴伴奏 TMD 檔案](gyosen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2p_FFx873ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYK5GZe9rYILl42RvokdV52C0ouV897vmfVsWvvL5hXP5zQqgcSezd6EIfaifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU9nz366dsfTnVueT1kBdJmRgZGBnoGBmZ6BhYk5kGFgAnScEheXe2V-cWqeVUBmYl5-kIdDjUFNNZcCENgYmmnZgVn6Wgq26EABaMGTHQ0vFvYoaJgoPN3Q_3x9g45CgIGxmV5WQbomFg1a-jDDNIAaNa0UHjetAPIfN28G4iVg1kqFGlyizWvB7MmPmxc_bloGVLUdrHYvWBQiNwNMtgFJZKt29YCtAgk_buoE4i4wqwWsHU20cQVItHEVmL0fiPeBWatR1ILIHrD4MoRVNQqmCrpAaKpgDCZ1gSKGcWAhIGUOpMzAYsiqDMEiRkDSGAhBtAFIBGyejyEkJECqYWEBYq0E68EjAwwLiAwspIBsYFiBxCDhBZJbCw4tUFjpKsQj7DSCeBOsHxooIFYLVC-GDDC4wDLAAAPLQIMMxFqNpAeiowccYCj2GYP0dkBNnQy1CaQaYiphmSYgex2yfY1gdY1TIboal8Ptw5-Od_VQlo4XgRPFVmCITgKnwT5wTMwHs7uAuAPM2gQOkc1gteuA_AYwaydY7Rqwiqlgkd3Q9I8tHQM9CEp5c8FeBrHWg73dBE-x28CstWBRSJruRVMLzlTQ9A5TTaV0bASEIB56Ol4EjS9ICIFSYB80tc6HplZIKIFYm6ApZzNUDySkQKydUD1rwOpAcbwbHE4YaRicCkDpABJMINZ6aPpoQkqp28AsUH6BBBZEBhJcyHrA-QsYYCAdEPXoaRhqH1gNyP2QVIlmahPY540bkFIqzI2QVAtKrSCZyWDeBCAGhheSfQTK4k6K0jA0ta5AYkFiDpKeQUlmPZi9CCy-EZpeYel5L1h0P5gNKbXBKRpY_mBNxRCFHUgseCqGlq3I4t1gkW4gH8KCpGNwNQFRDRdHSsegdApKoSZAEpRKsZS0xKhBpGJ4WoWEEYQFSaug9A0KJVAYgUIIGmPgcILogYQUKI2ASmBIWIF4S8AhBSmn0VMxSAVIDSSYICxEKoaUqMB0DBaF2gcMJEiqggQWSFU_VAbkVrAeoDhEFD0V47YPlBNAJfvjxp3Q3AGzD5Q3YHKQdNsD9R84z4Lc0bgD6hYiUjGwyUJZSQxpD4BCFJIuIWUudlFwNQ-MrcdN4OKxuQlcukDKarAcXBxrGkaUuWBlwMoIkq0h7QhUUXDBDg4MSNtiHVK6ngWVg7ExSmJw-QsqemEJ1gwsBUmwuBsU2ApiUOIDJUdIUICiGFbc4paBVu7QgAKxQMkPElQg3iqwOEQUPQkjF7dgvcDwQC3-ICGFLDMVkYTBDQtEYQpO0MAwgsjNwpKE50KTMChrQJIjqNCFFaoQPiRZI5o1vVCZzY-bmh83ghssjdPBYvCkD1T7uKkRyENk01rUhrMPcsPZAtpuBlad8QrRhrEwCs43AVImSHy4vGk8kGUaHwtmGEC9RoExQBGEKVDlOC0jqADTNSBJTH2EnAMMO107BUjwRfsAlSDxjFB4xmCeMhcA)]
 
 ## 分析
 
@@ -109,21 +109,21 @@ w: 3.~そ れ こ げ | こ げ よ や | ろ びゃう _ _ | は や め て
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Gyosen (25.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, F#, E, B
-   - 調性數值:    D 大調 [相關度: 0.91, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.91), A 大調 (0.82), F# 小調 (0.68)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  A, F#, D, E, B
+   - 調性數值:    A 調性不明確 [相關度: 0.85, 穩定度: Ambiguous, 自然音純度: 96.6%]
+   - 候選調性 (K-S): A 大調 (0.85), D 大調 (0.82), F# 小調 (0.76)
+   - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [Gyosen #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [Gyosen #1]: A 調性不明確 (r: 0.85, 自然音純度: 96.6%, 調外音: G)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
-      Bb              [D ]*
-      Eb               A  
+      Bb               D  
+      Eb              [A ]*
          Ab           E  
             Db       B  
                F# 
@@ -132,11 +132,11 @@ w: 3.~そ れ こ げ | こ げ よ や | ろ びゃう _ _ | は や め て
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# : █████                      5.1%
-     D  : █████████████████████     23.7%
+     D  : ███████████████           16.9%
      D# :                            0.0%
-     E  : ███████████               12.7%
+     E  : ██████████████            15.3%
      F  :                            0.0%
-     F# : ██████████████            16.1%
+     F# : ██████████████████        20.3%
      G  : ███                        3.4%
      G# :                            0.0%
      A  : ████████████████████████  27.1%

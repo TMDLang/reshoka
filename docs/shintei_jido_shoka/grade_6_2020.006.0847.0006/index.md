@@ -33,7 +33,7 @@ image: "0_book_info/P001.jpg"
 | (2) | [**秋**](2_02_aki/index.md) | — | `?=F` `<6/8>` `!=96` | P037.jpg |
 | (3) | [**汽車の旅**](2_03_kisha_no_tabi/index.md) | — | `?=G` `<2/4>` `!=84` | P038.jpg, P039.jpg |
 | (4) | [**乃木大將の歌**](2_04_nogi_taisho_no_uta/index.md) | 曲：小松耕輔 | `?=G` `<2/4>` `!=84` | P040.jpg, P041.jpg |
-| (5) | [**水師營の會見**](2_05_suishiei_no_kaiken/index.md) | — | `?=Bb` `<4/4>` `!=120` | P042.jpg, P043.jpg |
+| (5) | [**水師營の會見**](2_05_suishiei_no_kaiken/index.md) | — | `?=B,` `<4/4>` `!=120` | P042.jpg, P043.jpg |
 | (6) | [**ナイチンゲール**](2_06_naichingeru/index.md) | 詞：石原和三郎 / 曲：納所辨次郎 | `?=C` `<2/4>` `!=96` | P044.jpg |
 | (7) | [**にぎみたま**](2_07_nigimitama/index.md) | — | `?=G` `<4/4>` `!=104` | P045.jpg |
 | (8) | [**霧**](2_08_kiri/index.md) | 曲：山本壽 | `?=G` `<4/4>` `!=76` | P046.jpg, P047.jpg |
@@ -62,10 +62,10 @@ image: "0_book_info/P001.jpg"
 | (5) | [**つばめ**](4_05_tsubame/index.md) | — | `?=E,` `<4/4>` `!=116` | P066.jpg |
 | (6) | [**森の小川**](4_06_mori_no_ogawa/index.md) | — | `?=D` `<3/4>` `!=120` | P067.jpg |
 | (7) | [**臺灣の風景**](4_07_taiwan_no_fukei/index.md) | — | `?=E,` `<4/4>` `!=120` | P068.jpg, P069.jpg |
-| (8) | [**曉景**](4_08_gyokei/index.md) | — | `?=B,` `<4/4>` `!=96` | P070.jpg, P071.jpg |
+| (8) | [**曉景**](4_08_gyokei/index.md) | — | `?=E,` `<4/4>` `!=96` | P070.jpg, P071.jpg |
 | (9) | [**朝**](4_09_asa/index.md) | — | `?=D` `<4/4>` `!=120` | P072.jpg |
 | (10) | [**荒城の月**](4_10_kojo_no_tsuki/index.md) | — | `?=D` `<4/4>` `!=76` | P073.jpg |
-| (11) | [**埴生の宿**](4_11_hanyu_no_yado/index.md) | — | `?=E,` `<4/4>` `!=88` | P074.jpg, P075.jpg |
+| (11) | [**埴生の宿**](4_11_hanyu_no_yado/index.md) | 詞：里見義 / 曲：Henry Rowley Bishop | `?=E,` `<4/4>` `!=88` | P074.jpg, P075.jpg |
 | (12) | [**小菊**](4_12_kogiku/index.md) | — | `?=F` `<4/4>` `!=92` | P076.jpg |
 | (13) | [**勇氣**](4_13_yuki/index.md) | — | `?=F` `<3/4>` `!=108` | P077.jpg |
 | (14) | [**子守唄**](4_14_komoriuta/index.md) | — | `?=E,` `<4/4>` `!=74` | P078.jpg, P079.jpg |
@@ -73,4 +73,4 @@ image: "0_book_info/P001.jpg"
 | (16) | [**軍港**](4_16_gunko/index.md) | — | `?=G` `<2/4>` `!=100` | P081.jpg |
 | (17) | [**御稜威の光**](4_17_miitsu_no_hikari/index.md) | — | `?=G` `<4/4>` `!=104` | P082.jpg |
 | (18) | [**富士と新高**](4_18_fuji_to_niitaka/index.md) | 詞：桑田春風 / 曲：獨國風歌 | `?=F` `<4/4>` `!=88` | P083.jpg |
-| (19) | [**別れ**](4_19_wakare/index.md) | — | `?=C` `<4/4>` `!=100` | P084.jpg |
+| (19) | [**別れ**](4_19_wakare/index.md) | 詞：文部省 / 曲：文部省 | `?=C` `<4/4>` `!=100` | P084.jpg |

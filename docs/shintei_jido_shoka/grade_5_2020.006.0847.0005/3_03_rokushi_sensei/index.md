@@ -57,24 +57,24 @@ Q:1/4=96
 K:Gm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-d8 d4 d4 | g8 g8 | a4 a4 b4 a4 | g12 z4 |
+!mp! D8 D4 D4 | G8 G8 | !p! G4 A4 B4 A4 | G12 z4 |
 w: 1.~ヤ ヨ ヤ | コ ラ | ハ ゲ メ ヤ | ヨ
 w: 2.~う た へ | こ ら | お も へ や | よ
-b8 b4 b4 | g8 g8 | a4 g4 f4 g4 | d12 z4 |
+!mp! d8 d4 d4 | A8 A8 | !p! B4 A4 G4 A4 | D12 z4 |
 w: 1.~マ ナ ベ | コ ラ | コ ド モ ラ | ヨ
 w: 2.~す す め | こ ら | く に の た | め
-d12 g4 | g12 z4 | d'12 b4 | g12 z4 |
+!mf! D12 G4 | A12 z4 | !f! d12 B4 | G12 z4 |
 w: 1.~シ タ | ヘ | シ タ | ヘ
 w: 2.~お も | へ | お も | へ
-g6 a2 b4 g4 | a4 a4 b8 | d4 g4 a6 a2 | g12 z4 |
+!mf! D6 D2 E4 D4 | G4 G4 A8 | D4 B4 A6 A2 | G12 z4 |
 w: 1.~タ フ レ テ | ヤ ミ シ | セ ン セ イ | ヲ
 w: 2.~さ う な ん | ろ く しの | せ ん せ い | を
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](rokushi_sensei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2ZkFgO1V6ILQx2Wk5mWqsSlpaXwtHXtsw39T1s7nk-Zr6ClxaVoq2BpxmVvq-Ckw5WdWmmr4J7LZWOib2IHMudF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP30w3dT3fseL584vM1a57smvJ07Y6nO7c8n7Li_Z4OUADqAQNQDxSAQIaB6fs9nUpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0A931YuW8p60rnk1rB7ri6YbeZ-2dCgEGpkZ6WQXp7_f0ABW_XNCoUKCnYGQJ5IIcvqMT6PBnc-YD2QrGCi-XTQO69P2eWSDTX6za_6xhOcjc7t4XM-cDRR83rng-fy1Q_Ons2U872p7s7AYygLJP104A2ueu8HRDP1BSARicCkBRsEk9j2auBAc5yMQnOxoeNzQ8bmp53NQBJEEBurYTJNK4_nHjpMdNjRApsNfW7njcuPNx4-THTRAVkx83rnzc1ATiQlQ8bpz-uHH-40agOigDIgpkbX3c1PO4cRnItMb9QGlI9D9umgRxxS5g9AFNbIPogrviWcNckGlwJ7xs2ARyEswJT-d0P25cB9LT1AixqQvkHpD9UAZYU-Pal7MXQ1IdUDnCZqAc5ZEOBQpa-lxcQfnZpcBMHZyaV5yaaRWQmZiX71BjUFMNsknBxkLLDszAluQUwBHf8GJhj4KGCSjSnq9v0IGnE00sGoD2QQ3TAGrUtFJ43LwEJAAMheYVIALIq1F43LQZJrgSwgCKNfcD-U2bQIILESpBumAAangNMP3pgiGIBuEaBTOoCIyuUTAHkiBsGAdlIBSBoAFIBGycjyHImiVQcZCFIBLEhzgUJr4SbjTIqUARoFtB4guR1YN1w2A8wg4joFxjG8ysxvlgcgdET-NkmHhTJ8KOxi6wSBNcJTC9Qd3UgWEH_hjc1UNZDM6DRVYXiJiJMwZBYo-bO0HEIqgMrhgExwoIghlgAlckgnimUBoR9djicB48rsBhB3QpnjgEi4JcCyIXwWUJxSHITEgcgljAHI43DsHppHE1mFwHJkExD7IdpI-UONzRSVEcNm1HRMLjpv2QiJmBEAM5iYASjNwHiyosGUvBGBa_8DjGm_2AdiPkQJZDImIGeiARrxIpykCJAaEDlKFAoqAshWY2sSrxRxWwpqMsqoBBD8o9U4F4DYjRBokKYHn4uHk-KG6gEQUKjd0gQVC2A7FA1BKwWmApihFtkOA3h8QGJN5QykhImgVFLkgSJAwi8UcbKPhBOQfiVhALVMbBylOQc0EBCYsyiINB4uC8B2aDaJibcUfhVIhKYAn6uHEVWA8ov4HM6wWLQ_IZsHYHZTKoVY2z4QohbBDdAtY0CcOqWi4uXTsFlJpSASigzAUA)]
-- [鋼琴伴奏 TMD 檔案](rokushi_sensei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjauvbZhv6nrR3Pp8x_v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yo46XBlp1baKrjnctmY6JvYcdUpKL1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzZNdU56u3fF055bnU1YArTYyMDLQMzAw0zOwMDEHMgxMgbYrcXEF5WeXFmdkBqfmFadmWgVkJublB3k41BjUVHMpAIGNhZYdmKGvpWCLDhRA1uxoeLGwR0HDROHphv7n6xt0FAIMTI30sgrSNbFo0NIHG1ajYKygC4YgGoRrFMygIjC6RsEcSIKwYRyUgVAEggYgEbBxPoY1Co-bl0DFHzevAJMgPlC8aTNcfCXc6MfN_SCRpk1g8YXI6sG6YTAeYYcRUK6xDWZW43wwuQOip3EyTLypE2FHYxdYpAmu8nFTC9RNHRh24A_kXT3kBDI44EAQzAATuMIZxDOF0ojYwRbM8-DBCfZe80x8wQwWfdwMCpTHzYvgsoSCGWQmJJhBrMdNjXiDGRyVjavB5DowCYockO0gfaQE845OStIyLFSxJFMFY1hUwKMDb2Ju2o4k97hpPzTMZqD7h3iVSKELijeEDlDyBImCEiia2cSqxB-qT2fPJidUIaFjDgksSLCiFAiQ2AeFPUgSJAwi8YcqKHRAaXAqEK8Bs0AZGlZ4PG4GZ2p4iIJ07AaLg1MxmA2il4B1gIoOXCE8FaISWFw8blwF1gNKuSDzesHikBQ7HZJcoVY1zoYrhLBBdAtY0yQMq2qxFtw-yAW3CaLgftHU-nxl24v9e581zH2yE1hL9L9YtR8YLc-6e5-unfB0-7Jnnd2QSun9np7nWxqe7t_6omvu040bn26fhlyDISX5eIVo49xYOA0M9ngg0yweyEawoOqgyjBVGUADDVhSAYUNY2EULtOMgEwjnDYgTCNoK9zdOCxEGIXXW1h04_EpMM507RRQoi3aB6gdU9AILKjMBQA)]
+- [主旋律 TMD 檔案](rokushi_sensei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgxMjRAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM9gnEipKixLzi5KLMApD3EKryi0oy8oE-KciotMrILC7JL8pMTsyJz07MQ_JwSUYq0L8Q6Up0YajfcjLTUpW4tLQUnraufbah_2lrx_Mp8xW0tLgUbRUszbjsbRWcdLiyUyttFdxzuWxM9E3sQOa8aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrqh--mOHc-XT3y-Zs2TXVOert3xdOeW51NWvN_TAYoDPWAc6IHiAMgwMH2_p1OJi0tfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqC7Xqyc97R1xbNp7UBXPN3Q-6y9UwEUkXpZBenv9_QAFb9c0KhQoKdgZAnkghy-oxPo8Gdz5gPZCsYKL5dNA7r0_Z5ZINNfrNr_rGE5yNzu3hcz5wNFHzeueD5_LVD86ezZTzvanuzsBjKAsk_XTgDa567wdEM_UFIBGJwKQFGwST2PZq4EBznIxCc7Gh43NDxuannc1AEkQQG6thMk0rj-ceOkx02NECmw19bueNy483Hj5MdNEBWTHzeufNzUBOJCVDxunP64cf7jRqA6KAMiCmRtfdzU87hxGci0xv1AaUj0P26aBHHFLmD0AU1sg-iCu-JZw1yQaXAnvGzYBHISzAlP53Q_blwH0tPUCLGpC-QekP1QBlhT49qXsxdDUh1QOcJmoBzlkQ4FClr6XFxB-dmlwHIhODWvODXTKiAzMS_focagphpkk4KNhZYdmIEtySmAI77hxcIeBQ0TUKQ9X9-gA08nmlg0AO0DGVajUJ1bUKtgHK-gC4ZgBpioUTCDCcIZQNVAxWCuOYgwhDGQFIOgAUgIbL6PYY3C4-YlUPHHzSvAJIgPFG_aDBdfCbfhcXM_SKRpE1h8IbJ6sG4YBFsLscMIKNfYBjOrcT6Y3AHR0zgZJt7UibCjsQss0gRXCUwjUDd1YNiBP9R39ZAf6rBAh-IaSGCCIJwBCXJ4QCPCvgYRadiCfB48aMFebZ6JL8jBoo-bQQH0uHkRXJZQkIPMhAQ5iAXMRHiDHBytjavB5DowCYookO0gfaQE-Y5O8oI8DSmhw9M1UqDDw1GhGqQUSRQU_vjTeNN2JLnHTfuhwTcD3WvEq0QKaFAUInSAUi1IFJRu0cwmViX-AAZWAZQGMJAyQS9KEGkXkiTAcvCUDaYIhDEorECJcyoQrwGzQLkeVsI8bgbnfHj4gnTsBouDkzeYDaKXgHWAyhdc4T0VohJYpjxuXAXWA0rSIPN6weKQpAyso0DpGGpV42y4QggbRLeANU3CsKqWi0vXTgGlvFcACihzAQA)]
+- [鋼琴伴奏 TMD 檔案](rokushi_sensei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgxMjRAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM8klBZmJefnxicnJ-bkFiXmZuah6SIflFJRn5QI8UZFRaZWQWl-QXZSYn5sRnJ-Yh-bckIxXoXYh0Jbow1Gs5mWmpSlxaWgpPW9c-29D_tLXj-ZT57_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFSzMue1sFJx2u7NRKWwX3XC4bE30TO5DhL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZNeUp2t3PN255fmUFUCrQfGiB4wXPVC8ABkGpkDblbi4PPNKivKtAkDBEuThUGNQU82lAAQ2Flp2YEaNQnVuQa2CcbyCLhACKRMQC8ytUTADUWDCHCIPEgTLGSLEgBRUJQwagNRx1aJY7oNsuQm65fEK0cbxubEKRkAWiAcyEChmBhKDysaCrQYyDVGEEOpALAOIvUH52aXANB2cmlecmkm056HeRvY7CMIZQNVAxYjggIcBVu-DzPcxrFF43LwEKv64eQWYBPGB4k2b4eIr4TY8bu4HiTRtAosvRFYP1g2DYGshdhgB5RrbYGY1zgeTOyB6GifDxJs6EXY0doFFmuAqHze1QN3UgWEHSkDBwgmKaxDpAimBgEIJHjaI4IKmHFyhNA8eGmDXNc_EF0pg0cfNID89bl4ElyUUSiAzIaEEYj1uasQbSuCYaFwNJteBSVDYgmwH6cMRSmlIyQmeepDCCe51hWqQUiRRUJDhT0lN25HkHjfth_p4BrpriFeJFDagUEfoAKUNkCgodaCZTaxKbGFCzfIFESwg74GSwFQgXgNmgbIDLOs9bgZnCXiQgHTsBouDExGYDaKXgHWAMh6uIJoKUQnMbI8bV4H1gBIOyLxesDgkwUyHpBaoVY2z4QohbBDdAtY0CcMq7EUXjqITUWoiWOjlIYQFEQWpMsQsXmHFJsRQ7Nrh5S1SwQs1CmYymiKEiQjH4TQRqBhJEmgwqIzH7UaqVxe6dgrgmkoByEAJ_2gfoG5MQSOwoDIXAA)]
 
 ## 分析
 
@@ -85,26 +85,26 @@ w: 2.~さ う な ん | ろ く しの | せ ん せ い | を
 ⏱  Duration:       0:40 (40.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D5 (MIDI 74) – D6 (MIDI 86) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D5 in [RokushiSensei #1 @ m.1, 0:00]
-   - 最高音: D6 in [RokushiSensei #1 @ m.11, 0:25]
-   - 適合: soprano, tenor
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [RokushiSensei #1 @ m.1, 0:00]
+   - 最高音: D5 in [RokushiSensei #1 @ m.5, 0:10]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      RokushiSensei (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 小調（純淨自然小調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+🗝  調性診斷：       D 大調（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D, A#, A, F
-   - 調性數值:    G 小調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 小調 (0.88), G 大調 (0.73), D 大調 (0.49)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  D, G, A, A#, D#
+   - 調性數值:    D 大調 [相關度: 0.78, 穩定度: Moderate, 自然音純度: 91.5%]
+   - 候選調性 (K-S): D 大調 (0.78), G 大調 (0.70), G 小調 (0.68)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [RokushiSensei #1]: G 小調 (r: 0.88, 自然音純度: 100.0%)
+     • [RokushiSensei #1]: D 大調 (r: 0.78, 自然音純度: 91.5%, 調外音: D#, A#)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+      Bb              [D ]*
       Eb               A  
          Ab           E  
             Db       B  
@@ -114,19 +114,19 @@ w: 2.~さ う な ん | ろ く しの | せ ん せ い | を
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : █████████████             23.7%
-     D# :                            0.0%
+     D  : ████████████████████████  35.6%
+     D# : █                          1.7%
      E  :                            0.0%
-     F  : █                          1.7%
+     F  :                            0.0%
      F# :                            0.0%
-     G  : ████████████████████████  44.9%
+     G  : █████████████████████     30.5%
      G# :                            0.0%
-     A  : ████████                  14.4%
-     A# : ████████                  15.3%
+     A  : █████████████████         25.4%
+     A# : █████                      6.8%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D5 – D6 (12 個半音 / 1.0 個八度, 38 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 38 個音符)
 ================================================================================
 ```
 

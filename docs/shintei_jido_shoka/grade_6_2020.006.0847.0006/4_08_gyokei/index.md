@@ -1,11 +1,11 @@
 ---
 title: "曉景 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "曉景"
-description: "〈曉景〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：東の空ほゝゑみて さゞめき出づる朝あらし…"
+description: "〈曉景〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：東の空ほゝゑみて さゞめき出づる朝あらし…"
 keywords: "曉景, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
-musical_key: "B,"
+musical_key: "E,"
 image: "P070.jpg"
 audio: "gyokei.mp3"
 ---
@@ -16,13 +16,14 @@ audio: "gyokei.mp3"
 
 <audio controls src="gyokei.mp3"></audio>
 
+- 北村氏中等音樂教科書
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P070.jpg – P071.jpg，書頁 pp. 47–48，參考教材第 8 首）：
+原書資訊與歌詞全文（對應 P070.jpg–P071.jpg，書頁 pp. 47–48，參考教材第 8 首）：
 速度與表情：スガスガシク（♩=96）
-調性與拍號：變ほ長調四分之四拍子（原譜標示「變ほ長調」，調號記為降B、降E二降記號之 B♭ 大調 4/4 拍，二部輪唱）
+調性與拍號：變ほ長調四分之四拍子（Eb 大調，3 降記號，4/4 拍，二部輪唱）
 出處：（北村氏中等音樂教科書）
 
 
@@ -40,7 +41,7 @@ audio: "gyokei.mp3"
 一
 東の空ほゝゑみて
 さゞめき出づる朝あらし
-そよ／＼吹き渡る
+そよ〳〵〳〵吹き渡る
 森のあなた川のきし
 
 二
@@ -58,27 +59,47 @@ T:曉景
 M:4/4
 L:1/16
 Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
+K:Eb
+V:V1 name="Piano1" snm="Pia"
+V:V2 name="Piano2" snm="Pia"
 [V:V1]
-F4 B3 c d4 B4 | G8 F4 z4 | F4 B3 c d4 e4 | c8 F4 z4 |
-w: 1.~ひ が _ し の | そ ら | ほ ほ _ ゑ み | て _
-w: 2.~さ と _ わ の | も り | き り _ は れ | て _
-c4 c3 d e4 c4 | d3 e f4 d4 z4 | e4 e3 d c7 d | B8 z4 z4 |
-w: 1.~さ ざ _ め き | い _ づ る | あさ あ _ ら _ | し
-w: 2.~う つ _ つ に | か _ へ る | あさ ぼ _ ら _ | け
-f4 e4 d4 c4 | B4 z4 e2 e2 d2 c2 | d8 B4 z4 | g3 g f3 f e3 e d3 d |
-w: 1.~そよ そ よ そ | よ ふ き わ た | る _ | も り _ の _ あ _ _
-w: 2.~とり の こ ゑ | は は な や か | に _ | け ふ _ を _ つ _ _
-c8 f4 z4 | B4 e2 e2 d4 c4 | B8 z4 F4 | B8 z4 z4 |
-w: 1.~な た | か は _ _ の | きし き | し
-w: 2.~げ て | た か _ _ く | なく な | く
+!mf! E4 G3 F E4 G4 | B8 A4 z4 | !mp! G4 F3 G A4 F4 | E8 D4 z4 |
+w: 1.~ヒ ガ ー シ ノ | ソ ラ | ホ ホ ー エ ミ | テ ー
+w: 2.~さ と ー わ の | も り | き り ー は れ | て ー
+!f! E4 G3 A B4 e4 | B6 A2 F4 z4 | B4 e4 d3 c B3 =A | B8 z4 z4 |
+w: 1.~サ ザ ー メ キ | イ ヅ ル | ア サ ア ー ラ ー | シ
+w: 2.~う つ ー つ に | か へ る | あ さ ぼ ー ら ー | け
+!mp! B4 B4 A4 G4 | F8 E4 z4 | A4 B4 G6 B2 | F8 G4 z4 |
+w: 1.~ソ ヨ ソ ヨ | ソ ヨ | フ キ ワ タ | ル ー
+w: 2.~と り の こ | ゑ は | は な や か | に ー
+!f! B4 e3 d c3 B A3 G | F8 c4 z4 | !mf! B4 A3 G F4 B,4 | E8 z4 F4 |
+w: 1.~モ リ ー ノ ー ア ー | ナ タ | カ ハ ー ノ キ | シ キ
+w: 2.~け ふ ー を ー つ ー | げ て | た か ー く な | く な
+E8 z4 z4 |
+w: 1.~シ
+w: 2.~く
+[V:V2]
+z16 | E4 G3 F E4 G4 | B8 A4 z4 | G4 F3 G A4 F4 |
+w: 1.~ヒ ガ ー シ ノ | ソ ラ | ホ ホ ー エ ミ
+w: 2.~さ と ー わ の | も り | き り ー は れ
+E8 D4 z4 | E4 G3 A B4 e4 | B6 A2 F4 z4 | B4 e4 d3 c B3 =A |
+w: 1.~テ ー | サ ザ ー メ キ | イ ヅ ル | ア サ ア ー ラ ー
+w: 2.~て ー | う つ ー つ に | か へ る | あ さ ぼ ー ら ー
+B8 z4 z4 | B4 B4 A4 G4 | F8 E4 z4 | A4 B4 G6 B2 |
+w: 1.~シ | ソ ヨ ソ ヨ | ソ ヨ | フ キ ワ タ
+w: 2.~け | と り の こ | ゑ は | は な や か
+F8 G4 z4 | B4 e3 d c3 B A3 G | F8 c4 z4 | B4 A3 G F4 B,4 |
+w: 1.~ル ー | モ リ ー ノ ー ア ー | ナ タ | カ ハ ー ノ キ
+w: 2.~に ー | け ふ ー を ー つ ー | げ て | た か ー く な
+E8 z4 z4 |
+w: 1.~シ
+w: 2.~く
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gyokei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSpxaWkpPJvd-WzmegUtLS5FWwVLMy57WwUnHS4bE30TO5CmF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x52rr26dodT3dueT5lxfs9HaBg0QMGhh4oWIAMA7P3ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAe668XKeU9bVzyb1g50xdMNvc_aOxUCDMwN9LIK0hUeNUwGcQxBnPd7eoA6Xy5oVCgo0FMwMQfKmVgABZ_2N79oaAaGwLO5E4D-UrBQeLlsGtDx7_fMAln4smH-013LgFa9WLjiWXMrUPRx087HTWtg5PbHTeuBNj-audLWEuRnkJ4Xq_Y_a1gOcl5374uZ84F6Xqzrety4--XU7UCpp7NnP-1oe7KzG8gAKni6dgLI5X3zX6yd82zFzOdLdj1u6EFW_7ihF-hMIANo1IsVM5437Xo5s9fpcUMjkHJ9sqsHSAGFgZJAIxWcHs1cq_B0yXKgcgVgHCsALQBqBqlqXvFizypgVELd-LR914uZU4FOA1neM_3Z3InPNvQ_2bH2-drOl_M3P1vRBAwRYEwDgwykAaTjyY4GEPVs7sbHjeuer9wFdODjprmPmyY-btz_uHEZSO5x49THTfMeNzU-buwFWvC4cenjpu5nc-Y-bmx63NT5uHE6RBFQU8f7Pf3v9-x5OmEnUOmzHQuB6sCGL14HNBykvHHV48b5T7cDtQK5vSCtYDfs6gFHSnvP46Z-oBRQ_cs5yx83rn_c1AN3Q9vjxiUglzWuftzY_bhxB8wNe8BumAg2YPY8oO4XjZtAWkFo1eOmFrDq1WBrdnc9mw50-6SnE4HxMAlo8svVMx439r_cvAVIglRQnpqhQEFLn4vLvTI_OzXTKiAzMS_focagphpkhYKNoZmWHZiFLRcpABMrMEpeLOxR0DBReLqh__n6Bh140tfEogFoE9QwDaBGTSuFx82TFICJGEjvAdLbgXSfQg2QtRfIWgliNc-GYpD8CiA9HyzaBhZBNm5XD8i4xqlADFIGUt4PZK8DG9cExF0gVmMvmAWWb1wPZPeARZchG1ejYBqvoAuGhmDSSMEYha8LVGIGUwKDcD0GcDU4jTGBKzEiaArYST6GIFdugoo9buyBs6bDWevghgKTN5qxwGQHZcHMB6naDdcLZzVNhIvtR1K5DM08GISbBnGlEUjtVLgJK-Cm9mNzJTBW0F3ZhcWVvRiyoJiDicFCgjhX4k_Ku3ooSspNW4F4GyRtNS8EsteCfbkEyGsF4tVg3iKoOiANVrcSTINktmNLzsB03ggyAJRcgXQj2JDGbiDeAdTSDeYBEzc42YOMAyX7TpiRjRMRSRqW0CC0MTwJwsRroInTRMEUKgJLrIj0DNMDoY3REq8xUAUsf8AgTC-21IxIJ9NgrKZGuBgs1kEqW-CiS-Equ6Es5JQCLLIRhsISFyLpwyBIKSzbwCDMGGwJug1u5hIsrNVIpsIcBYodoh26B69DYfkRt0MJFM-dlKVpUEEMLE-RaFDxCyphgUkOmMIfN4NK0f1g0dWwhNcMSt2roCm8D5osISkeSxoHGQsskoFFw-PGyeAiCORxoLFgDDSmqQUctiBRuBXAgHncCMxIYKOBdQgsh6AU49AwgqVbWIpGpHlYeoWlT5BKEAapBKmC5QoERNcBrAnAtBnUNlOobSZQncBcgZTmQc0OqEZEIY1NDFQgwERhUQ3yLyxrQIpUYPsEqhaWytAhUqqDFrfIxSisMEbkFtSUvwK74slwh8NSJyTC0J0LEgFFIEglKA9DMggkGgk6F5ryIZ6G2DYJbjIs-xFM_8AGLmb6BzfGiWyeABMmJHU3gZIesEUBTdMgEWDqB5baCBaWtA1MmcBqCeSd-ZByG5xO-8EiwJSNwsIoq2EQlo4RaQ6WCpHTKwhipmwYhOmFNzBIK6xBkYgMISkPPcoQ5R8sMSDUIzdPQI1pNAWIVNOLpJCUYhqWOhBWwtoDyE6EORvhWIR6WCsF7GEEF9OJsNAAKcSlCuHEWi4uXTsFSANbAchS5gIA)]
-- [鋼琴伴奏 TMD 檔案](gyokei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2u_PZzPXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLMy57WwUnHS4bE30TO646BaUX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHnauvbp2h1Pd255PmUF0EojAyMDPQMDMz0DCxNzIMPADGirEheXe2V-dmqmVUBmYl5-kIdDjUFNNZcCENgYmmnZgVn6Wgq26EABaMGTHQ0vFvYoaJgoPN3Q_3x9g45CgIG5gV5WQbomFg1a-mDDahRM4xV0wdAQTBopGKPwdYFKzGBKYBCuxwCuBqcxJnAlRgRNATvJx7BG4XHjJqjY48YeOGs6nLUObujjxrloxj5u6oSyYOaDVO2G64WzmibCxfYjqVyGZh4Mwk2DuNIIpHYq3IQVcFP7sbmyqQnDlV1YXNmLIfu4cT1cDBYSxLkSf2LZ1UNOYoFFIYQ2hkcuTLwGGu0mCqZQEVgyQKQUmB4IbYyWLIyBKmApDwZherGlE0QMTIOxmhrhYrDwBKlsgYsuhavshrKQ46AJ2VBYtCESFQyClMISJAzCjMGWVNrgZi7BwlqNZCrMUY8bdxDv0D14HQpL6bgdSqBo6SSraIGaDotxWFpApBZYTMNiFqQShEEqQapg6QkB0XUASycwbQa1zRRqmwlUJzA9IaWWuY-bOqAaEQUHNjFQloWJwgLpceNWMNkL1gPK5o8b50PVwuIHHSLFF7QIQM7asAICkc5Q08wK7Ionwx0Oi1eQYlg5gXAuSORx4yqwSlDqhyQtkFpYcsPjXGiagXgaYtskuMmwhEsw5TydPRsz5RgSXc7AICwlIWIdlg6QUwwIYqYtGITphVc7pBU0oGBEhpC4Rw80RN6FRQdCPXKl1Yu78EAttUgpYmDxg7ASVksgOxHmbIRjEephdRfYwwguphNhoQFSiEsVwom1qO0aH1ztGmjF1LjpZfMKYHPmWXcvsKVkCE06wPbR0309Lxs2PW1d-mLPKmAj6_2enudbJzzdsO_l3i5Qm2vKtmdz5yMSESwWcUFI0IGaLvC2C4RhFK9gjCYEaQZhtoOwNYTwmGaCGm3AhE6MkXBFUAbQOLhBcDlgUQlhAqXgSRxuMVL1i-YWoBI0RwBFYM6D-x4GMXIIwi64wXBLkdwGNwhe0oMEwARYOVgp3AsIiKEP5jJomxRIQR0ApKAuAFJQc0A-wRbEGJ6AW4PmLIhyLN7AGR6gtK5rpwBJ7tE-hrEKSDwjME-ZCwA)]
+- [主旋律 TMD 檔案](gyokei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgzMDRAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM9gnEipKixLzi5KLMApD3EKryi0oy8oE-KciotMrILC7JL8pMTsyJz07MQ_JwSUYq0L95iSWlRalKXFpaCs9mdz6buV5BS4tL0VbB0ozL3lbBVYfLxkTfxA6k6WnP9GdzJz7b0P9kx9rnaztfzt_8bEXTs6kzny-f-Gz2DrC5L9p3PW9cDBR70bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2AHU_X7Pmaevap2t3PN255fmUFe_3dIACXw8Y5HqgwAcyDMze7-lU4uLS11KwpRbgUlBQeNo3H-j0F5vbX6zoetHRDnTXi5XznraueDatHeiKpxt6n7V3KoBiUC-rIP1Rw2Qg0xDEfL-nB6jv5YJGhYICPQUTc6CUiQVQ8Gl_84uGZqD_n82dAPSVgoXCy2XTgE5_v2cWyLqXDfOf7loGtOjFwhXPmluBoo-bdj5uWgMjtz9uWg-099HMlbaWIB-D9LxYtf9Zw3KQ47p7X8ycD9TzYl3X48bdL6duB0o9nT37aUfbk53dQAZQwdO1E4D6XZMUni5ZDpQFushY4eXM3hcrZoC19gCjUgGoDMh6sqvnZfOKF3tWAaMDatPT9l0vZk4FWgDyOt64BmkA6XiyowFEPZu78XHjuucrdwGd9bhp7uOmiY8b9z9uXAaSe9w49XHTvMdNjY8be4EWPG5c-rip-9mcuY8bmx43dT5unA5RBNTU8bhh8-OGrRDy6YSdQA3PdiwEqgZbsXgd0AqQpsZVjxvnP90ONADI7QUZAHbJrh5wALf3PG7qB0oB1b-cs_xx4_rHTT1wl7Q9blwCcl_j6seN3Y8bd8BcsgfskolgA2bPA-p-0bgJpBWEVj1uagGrXg22ZnfXs-lAH0x6OhEYB5OAJr9cPeNxY__LzVuAJEgF5ekSChS09Lm43Cvzs1MzrQIyE_PyDR1qDGqqQXYo2BiaadmBWdgyhAIw5QFj5sXCnic7uoBeAcazgoaJwtMN_c_XN-jAk7MmFp1AO0Gm1ihU56bVKhgq6IKhMZg0QuPrApWZQlkwaAKlDeAqqnMLauEajKDaYcogfJAymNEwaB6PbhLYYT6GNQqPmydBxYB5BkI37wGyt8NEm_vgxj5u2otm8OPmlVAWzAaQibPhshAWxMQVcNH5SGrbMEzcg24ixK1GQNWNU2GqGiGmQUzuh4uuQ3JrE7rJTV2Ybm3sRZMFm9i4Hi7ag6R2GRFuxZ-OdvVQlo4wkpEJPNEYxsFdipyOQIkDljAQ6QhDkzmYNINKmKhjSY0w3VjSUNNWWIg0bYOHzOPmhXDRtXCbHzctQTLzcXMrmFwN5SPFTNMiuG6E6RAxiOmQlAdig1TD0isMwkzClopgaQ5YgCHMg7JBojDXgNR2I7u2cQfYFTAx5HQES23IaRSSOiBptBPZtY0TCbqWQHnUiZqOTEktj4DFCCx-YTSsGEGUR7B0A4OwpIdIRzA9MDNgemFimGbAVCCVacBEjZYezYEpEWIExAJjlMQGK4QeA30OZWERw15cwWSRiyt4hMGT6eNmWAEAEd8PVQlLGAjzMAoAoBg84TavgquCFaOQxIBIxsjJEuEbWEGFKNAeN05G8hd68kEUWMhJEl6INULcATK5BUUXKCGDVBLlL3iifdwIyZAQv0CqD-QsBPEX3gQMbF_hKQjBjUK8CRg9VUGSC2pNiZSsYKkIps0U4S30qhJmAu7KFE852AyLOHhAgpMOWkA2wYL7cTOk5kJOIOilJa5yjThV2Eo_WH0PdyO8XkOObFgdDSsBIRGMqGlhSQqkFiaK4UaiVCHcWIvaRDMip4nWTWbVCotNXBCRDihpvxFsusHTEixUcLtnQFtu8PREhDsHstVGXHuM3ERDuJ1Nt-YaUiFERJN64JtsSAUSEc3qgW-0EdcggyckEhtkBNvag6W1htQMI1jnDPamGlISJNgeH-zNM-KaW9jLOcLNLcLNcyJaZBQ0xrA1tUhqZdO1aYYvgRHVdqZrIw2l-aVrpwBpgSkAWcpcAA)]
+- [鋼琴伴奏 TMD 檔案](gyokei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2u_PZzPXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLMy57WwVXHS4bE30TO646BaWnPdOfzZ34bEP_kx1rn6_tfDl_87MVTc-mzny-fOKz2TuUQEpetO963rgYKPaiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-wA6n6-Zs3T1rVP1-54unPL8ykrgK4yMjAy0DMwMNMzsDAxBzIMzIAOU-Li8swrKcq3CshMzMsP8nCoMaip5lIAAhtDMy07MKtGoTo3rVbBSEEXBZpBaQMoXaNgCmWZgEljuA7TeLgSQzRDYJphSnGrgFvDVYviZh9kN5ugOtk0Pl4h2jQ-VsEkHqgf6EAYH84A2gdkGcYCpUFiSFygepBN7pX52amZRAQPzN3GUP-g8pGDBwYhwYQcgNW5BbVwDZAgMYYrwx1E5rDwRYQRyGE-hjUKj5snQcUeN62B0M17gOztMNHmPrixj5v2ohn8uHkllIWIwcfNs-GyEBbExBVw0flIatswTNyDbiLErUZA1Y1TYaoaIaZBTO6Hi65DcmsTuslNXZhubexFkwWb2LgeLtqDpHYZEW6FxThGhJvAo9cwDm4mcoyDohEWhZhZBq7JHEyaQSVM1LGkG8wcAY_tpq0wtzdtg_vhcfNCuOhauM2Pm5Ygmfm4uRVMrobykcKwaRFcN8J0iBjEdEgaAbFBqmEpCwZhJmGLb1jqeNwIcQskdmDuetwIcw1IbTeyaxt3gF0BE0OOcVi6QE5NkHiEpKZOZNc2TiToWngeB2ZNWEygFnTIeRy9kIQlEkSMw_TAzIDphYlhmgFTgVROgMo2mA2QlGMOLY9N4aUvcrKAZezHzfBsikUMexEAk0UuAuBBC09Qj5thmQoivh-qEhaFCPMwMhVQDJ7EmlfBVcGKJki0IRIccgJC-AaW-RGFxOPGyUj-Qo9oRCGAnHjgBUMjxB0gk1tQdIGSHEglUf6CJ6_HjZCsA_ELpEhGTuwQf0GTGuGKFlK5Qbk0rm0RNQksiOFeBkcympebYAHzuBlSbiNHJXoJhKusIE4VthIFVtvB3Qgv1ZGjBVZDwUoVSFQg6hlY5IPUwkQx3EiUKoQb0doSKM0WeFtCX0sB2HB7sqvnReOml80rnu7e9rJxEzCSnm7of76-4WXDpqetS1_sWQVs7ilo6UOTCyyqcEFI8IBbNhABYwjDKB5DCN4GgachGAQ2oCAMRCKE6wEaBDUDrgoqhLAcXGGiG2oObHGhm4ruJKCRcMfAEiuoIYfuNriNSHUruj5oO8kMbqSJOrDJh1LAozsRIz8glMAZcF8jhSLcOTAI9xdSTYBhEtwAuCgk5DBMgytEzacYfgb6GOhbqGlQ-4B6YS16dGOharF6F6Ebrg3UYoapw4hcrO12XTsFcNNdAciA5IZoH2BrG4lnBOYpcwEA)]
 
 ## 分析
 
@@ -86,51 +107,52 @@ w: 2.~げ て | た か _ _ く | なく な | く
 ================================================================================
 📊 TMD Song Profile: [ 曉景 ]
 ================================================================================
-⏱  Duration:       0:40 (40.0s), 16 measures total
-🎼 Key & Tempo:    首調基準 B,, != 96.0 BPM, <4/4>
+⏱  Duration:       0:42 (42.5s), 17 measures total
+🎼 Key & Tempo:    首調基準 E,, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F4 (MIDI 65) – G5 (MIDI 79) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  F4 in [Gyokei #1 @ m.1, 0:00]
-   - 最高音: G5 in [Gyokei #1 @ m.12, 0:27]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Gyokei (40.0s)
-⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
+🎤 人聲音域:    A#3 (MIDI 58) – D#5 (MIDI 75) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  A#3 in [Gyokei #1 @ m.15, 0:36]
+   - 最高音: D#5 in [Gyokei #1 @ m.5, 0:11]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Gyokei (42.5s)
+⚡ 編曲密度:        Peak 2 軌道同時演奏
+🗝  調性診斷：       D# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, A#, D, F, D#
-   - 調性數值:    A# 大調 [相關度: 0.85, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A# 大調 (0.85), F 大調 (0.61), C 小調 (0.58)
-   - 五度圈歷程:   -2
+   - 核心骨幹音:  A#, D#, F, G, G#
+   - 調性數值:    D# 大調 [相關度: 0.88, 穩定度: Moderate, 自然音純度: 99.5%]
+   - 候選調性 (K-S): D# 大調 (0.88), A# 大調 (0.81), G 小調 (0.55)
+   - 五度圈歷程:   -3
    - 各段落調性細節:
-     • [Gyokei #1]: A# 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Gyokei #1]: D# 大調 (r: 0.88, 自然音純度: 99.5%, 調外音: A)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
-     [Bb]*              D  
-      Eb               A  
+      Bb               D  
+     [Eb]*              A  
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  21.7%
+     C  : ███                        3.6%
      C# :                            0.0%
-     D  : █████████████████████     18.9%
-     D# : █████████████████         15.1%
+     D  : ███                        3.6%
+     D# : ███████████████████       21.2%
      E  :                            0.0%
-     F  : ███████████████████       17.0%
+     F  : █████████████████         18.9%
      F# :                            0.0%
-     G  : ██████                     5.7%
-     G# :                            0.0%
-     A  :                            0.0%
-     A# : ████████████████████████  21.7%
+     G  : ████████████              14.0%
+     G# : ██████████                11.3%
+     A  :                            0.5%
+     A# : ████████████████████████  27.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – G5 (14 個半音 / 1.2 個八度, 58 個音符)
+  - Piano1        : A#3 – D#5 (17 個半音 / 1.4 個八度, 58 個音符)
+  - Piano2        : A#3 – D#5 (17 個半音 / 1.4 個八度, 56 個音符)
 ================================================================================
 ```
 

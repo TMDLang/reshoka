@@ -30,7 +30,7 @@ audio: "suishiei_no_kaiken.mp3"
 
 > 同曲（佐佐木信綱詞・岡野貞一曲『尋常小學唱歌』〈水師營の會見〉；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）
 
-- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈水師營の會見〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/index.md)（`Bb` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/suishiei_no_kaiken.tmd)）
+- **[同曲]** 《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）：[**〈水師營の會見〉**](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/index.md)（`B,` / `4/4` — [原始 TMD](../../../shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/suishiei_no_kaiken.tmd)）
 - 總表：[跨冊重複與同名歌曲總索引](../../../duplicate_songs.md)
 
 ## 歌詞

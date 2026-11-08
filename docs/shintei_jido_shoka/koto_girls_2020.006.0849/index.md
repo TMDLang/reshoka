@@ -117,6 +117,6 @@ image: "0_book_info/P001.jpg"
 | (2) | [**牧童**](2_4_02_bokudo/index.md) | — | `?=G` `<3/4>` `!=108` | P112.jpg |
 | (3) | [**月夜泛舟**](2_4_03_tsukiyo_hanshu/index.md) | 詞：天谷秀 / 曲：ウエーベル（獨）（Weber） | `?=B,` `<6/8>` `!=69` | P113.jpg |
 | (4) | [**花**](2_4_04_hana/index.md) | 詞：武島又次郎 / 曲：瀧廉太郎 | `?=A` `<2/4>` `!=92` | P114.jpg, P115.jpg |
-| (5) | [**埴生の宿**](2_4_05_hanyu_no_yado/index.md) | 詞：里見義 / 曲：Bishop | `?=E,` `<4/4>` `!=88` | P116.jpg, P117.jpg |
+| (5) | [**埴生の宿**](2_4_05_hanyu_no_yado/index.md) | 詞：里見義 / 曲：Henry Rowley Bishop | `?=E,` `<4/4>` `!=88` | P116.jpg, P117.jpg |
 | (6) | [**高嶺**](2_4_06_takane/index.md) | — | `?=G` `<4/4>` `!=160` | P118.jpg, P119.jpg |
 | (7) | [**浦のあけくれ**](2_4_07_ura_no_akekure/index.md) | 曲：モッツインギ（伊）（Joseph Mazzinghi） | `?=G` `<4/4>` `!=160` | P120.jpg, P121.jpg, P122.jpg, P123.jpg |

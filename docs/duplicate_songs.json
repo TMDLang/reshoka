@@ -2541,7 +2541,7 @@
           "norm_slug": "funako",
           "key": "D",
           "meter": "6/8",
-          "tempo": "100",
+          "tempo": "68",
           "peers": [
             {
               "rel_dir": "kogakko_shoka/grade_5/17_funako",
@@ -3169,7 +3169,7 @@
               "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
               "raw_title": "曉景",
               "jp_title": "曉景",
-              "key": "B,",
+              "key": "E,",
               "meter": "4/4",
               "relation": "同曲"
             },
@@ -3198,7 +3198,7 @@
           "hira_title": "曉景",
           "kata_title": "曉景",
           "norm_slug": "gyokei",
-          "key": "B,",
+          "key": "E,",
           "meter": "4/4",
           "tempo": "96",
           "peers": [
@@ -3260,7 +3260,7 @@
               "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
               "raw_title": "曉景",
               "jp_title": "曉景",
-              "key": "B,",
+              "key": "E,",
               "meter": "4/4",
               "relation": "同曲"
             }
@@ -14104,7 +14104,7 @@
               "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
               "raw_title": "水師營の會見",
               "jp_title": "水師營の會見",
-              "key": "Bb",
+              "key": "B,",
               "meter": "4/4",
               "relation": "同曲"
             }
@@ -14122,7 +14122,7 @@
           "hira_title": "水師營の會見",
           "kata_title": "水師營ノ會見",
           "norm_slug": "suishieinokaiken",
-          "key": "Bb",
+          "key": "B,",
           "meter": "4/4",
           "tempo": "120",
           "peers": [

@@ -1,8 +1,8 @@
 ---
 title: "廣瀨中佐 — 《新定兒童唱歌》 尋常科 第五學年"
 song_title: "廣瀨中佐"
-description: "〈廣瀨中佐〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　轟（とゞろ）く砲音（つゝおと）　飛び來る彈丸（だんぐわん） 荒波（あらなみ）洗（あら）ふ　「デッキ」の上（うへ）に…"
-keywords: "廣瀨中佐, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈廣瀨中佐〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005））（詞：文部省、曲：文部省），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　轟（とゞろ）く砲音（つゝおと）　飛び來る彈丸（だんぐわん） 荒波（あらなみ）洗（あら）ふ　「デッキ」の上（うへ）に…"
+keywords: "廣瀨中佐, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（臺史博 2020.006.0847.0005）"
 musical_key: "G"
@@ -16,6 +16,8 @@ audio: "hirose_chusa.mp3"
 
 <audio controls src="hirose_chusa.mp3"></audio>
 
+- 詞：文部省
+- 曲：文部省
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
 ## 說明
@@ -55,28 +57,29 @@ audio: "hirose_chusa.mp3"
 ```abc
 X:1
 T:廣瀨中佐
+C:曲：文部省
 M:4/4
 L:1/16
 Q:1/4=112
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 D3 D | G8 G4 A3 G | E8 D4 B3 A | G3 A B3 d e3 d B3 G |
-w: 1.~ト ド | ロ ク ツ ツ | オ ト ト ビ | ク _ ル _ ダ _ ン _
-w: 2.~せ ん | な い く ま | な く た づ | ぬ _ る _ み _ た _
-w: 3.~い ま | は と ボ _ | ト に う つ | れ _ る _ ちゅう _ _ _
-A8 z4 D3 D | G8 G4 A3 B | d8 B4 d3 d | e3 d B3 d A3 D F3 E |
-w: 1.~グワン ア ラ | ナ ミ ア _ | ラ フ デ ツ | キ _ ノ _ ウ _ ヘ _
-w: 2.~び よ _ | べ ど こ た | へ ず さ が | せ _ ど _ み _ え _
-w: 3.~さ と び | く る た ま | に た ち ま | ち _ う _ せ _ _ _
-!p! D8 z4 A3 A | A4 F4 D4 G3 A | B8 G4 B3 d | e3 e d3 B G3 A B3 B |
-w: 1.~ニ ヤ _ | ミ ヲ ツ ラ _ | ヌ ク チュ ウ | サ _ ノ _ サ _ ケ _
-w: 2.~ず ふ _ | ね は し だ _ | い に な み | ま _ に _ し _ づ _
-w: 3.~て りょ じゅん | か う ぐわ い _ | う ら み ぞ | ふ _ か _ _ _ _ _
-!mf! A8 z4 d3 B | G4 B3 d e4 d3 B | d4 B8 d3 e | d3 B G3 E D3 G B3 A |
-w: 1.~ビ ス ギ | ノ ハ イ ヅ コ _ | _ _ ス ギ | ノ _ ハ _ ヰ _ ズ _
-w: 2.~み て き | だ ん い よ い _ | よ _ あ た | り _ に _ し _ げ _
-w: 3.~き ぐ ん | し ん ひ ろ せ と | _ _ そ の | な _ の _ こ _ れ _
+!mf! z12 D2 D2 | G8 D4 G2 A2 | B8 B4 G2 B2 | d6 B2 A4 G4 |
+w: 1.~ト ド | ロ ク ツ ツ | オ ト ト ビ | ク ル ダ ン
+w: 2.~せ ん | な い く ま | な く た づ | ぬ る み た
+w: 3.~い ま | は と ボ ー | ト に う つ | れ る ちゅ う
+A8 z4 G2 A2 | B8 A4 G2 A2 | B8 d4 c2 c2 | B6 G2 A4 B4 |
+w: 1.~グワン ア ラ | ナ ミ ア ー | ラ フ デ ッ | キ ノ ウ ヘ
+w: 2.~び よ ー | べ ど こ た | へ ず さ が | せ ど み え
+w: 3.~さ と び | く る た ま | に ー た ち | ま ち う せ
+!p! G8 z4 F2 G2 | A8 A4 G2 A2 | B8 B4 A2 B2 | c6 c2 B4 A4 |
+w: 1.~ニ ヤ ー | ミ ヲ ツ ラ | ヌ ク チュ ウ | サ ノ サ ケ
+w: 2.~ず ふ ー | ね は し だ | い に な み | ま に し づ
+w: 3.~て りょ じゅん | か う ぐわ い | ー ー う ら | み ぞ ふ か
+!mf! d8 z4 e2 e2 | d6 B2 G4 A4 | B8 B4 d2 d2 | B6 G2 B4 A4 |
+w: 1.~ビ ス ギ | ノ ハ イ ヅ | コ ー ス ギ | ノ ハ ヰ ズ
+w: 2.~み て き | だ ん い よ | い よ あ た | り に し げ
+w: 3.~き ぐ ん | し ん ひ ろ | せ と そ の | な の こ れ
 G8 z4 z4 |
 w: 1.~ヤ
 w: 2.~し
@@ -85,8 +88,8 @@ w: 3.~ど
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hirose_chusa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2ZkFgO1V6IL52bmZJYkgsS1tBSe7l78vGHFkx1rn-ydoKClxaVoq2BoaMRlb6vgzmVjom9iB9L8on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPdk15unbH051bnk9Z8X5PByjU9IChpgcKNSDDwPT9nk4lLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oHuerFy3tPWFc-mtQNd8XRD77P2ToUAA1MzvayC9Pd7eoCKXy5oVCjQUzA2BnJBDt_RCXT4sznzgWwFc4WXy6YBXfp-zyyQ6S9W7X_WsBxkbnfvi5nzgaKPG1e8nLodKP509uynHW1PdnYDGUDZp2snAO1zV3i6ZDlQUgEYnApAUbBJPY9mrgQHNZAJVAN02cvmFc_nNAIluUCWPNnR8Lih4cVeoPEdQOMfN8173ATS-bix__mCTS_nbwaLL3ncNPdxYxdQAUiqoeHl4tmPGzc_2df2uKn76d6OJzt2gJUteNw0-XHjhMdN_UAGyAaQL3onPdu8CCzd9LgJaO6qx437gXLPtkyHC4Lt2wo093FDz-Pm9sfNzY-b1j5u6H3cuO7Jji6wsrbHjUA7gMpWgwx9OR0UwI-bWiBmPW6a9GLTaphLgYrWQHwANBGS4oAGPe2HKJj6uHEi0O1Q1z2b2_myvQ8sMfNxYx9QHVjn-id7p76YORUsDrRj6eNGkHeAxkHUAxU83dj6uHEW0AWQUNwFTJENLzp2Pm1rfTmrA6xvNjgwgL4FGtD_uHEf2GAgF-QqYNoFq5kPNBssvgYYkKC0sGsZWHw_WArmyKcT9zxu3Pm4ceXztVOAwQCyFxhUIJ_0gKxpXPliWffjRqA2SLLp2Ak2Y-vjxrUQzzxbsxCYvMCC00GR1NgCCUmQfzYvejkN6DegFCheYM5c_WwTxBNA9RAH7geH1tStwNgGSyx73AiMHlCEg6VbHjcBxfvf79kDdloTyP1NwPSy-vlOYFKDGDQJrHI6NNmBQvPJbqCS9aBk1zzncfOex81AhSBXgaMbGJM94FABRSA40hfPxkhxwFCCuhgUqvv3wgQXwsQXPl2yEZKAwFxgaC0D-2R668sFbc92rH-6BJjjgCmp63FT--PGGY-bWsHRBgxPoBPAKRkSWsCgAiV-cEoEpTBwsmuc92w7xHRgYANjFCjSC46C3b3Pl86DFHlgaaBBQEOng8lNwAwGdAhY9QqQq1u3PZ3Q-2wd0G5gdK4E6ae8dIICBS19Li6PzKL84lTnjNLiRKuAzMS8fIcag5pqkD0KNoZmWnZgFraiUeHpno0vtm4HlkDgkqrhxcIeBQ1YcaaJRT3QNqhZuEB1blqtAjCeFYBEp0INkFyLkHzctB7KaG6BEEAFTauQFIA0whmPmyeDFQA1PW5eDSIaQMRmsOCGx83rQWwU8LhpEUjFSphDaxQMFHTBEJ0Gu9M0HswGUjUKhlAJGITxjaC8GgUziGoEhGrXVTCGqoSZYgQVMVUwg9IQPsgUiHkICHMQklvATvcxrFGAmY9Og0IHQsOCGNVMUJDBVLbAaUhYo6mEmoRsJizQYeKr4awGOGszlIUcE6gmw90KjBKInpUwnxnh8VnjbKgusCsaMdzbCPEPiNUPpffhUAmRB7HmQ-mlYJVr4C7rhqvYj6YW7LNG3H6ChRrUR8b4fASNAag7YeGKcOcKGKt5DsJueLwg1MHjobENSi8Bh38PFv8sBJVzUHUICLJ_Ki4_Qd0B8nUNuAjHXmSAG2M94JLCROHphv7n6xt04E0g_GXG4-Yu5Kw-HyXP7gH7eiWygqkwRjuisACWJo-b-0C6loFYM8C6ulFLgeoCUBG0BGIqvCTAn8GNgSpM0VRAMi0o-0JIYBEAZcGyN0QvMM-aQ4IRWEQAjUEvJ-BlDtBdEB3AogKeyUGhghbVwKCBRSkk80CSxEoMdbDIBAURhIaFEky8D27SMrjYDCQzYUkGBhFFzBKYKnimBbZR0F3QCHMTsAEFpeeDk9kODJWz4CyIq4GNG7BKSIZHNQuRHeEZDckEDLc2bkV1KzA7IrI_3AVI2QNWIECyJCxjIdwKD__GhSgqITxEFkQUWAgIUgcLawyXgpshUI3QtgjB3Lajk8zcBstgzZtgDGCtC2EA8xko9nuQshuibm4EEctAKQaUlrbCcxyI1bQRrHEyWo4D1_pNO0EK1iGyHKyug-YOpBoTVk_WwDMZDMKyJSyLwTKdGTQbGqPVsaCMi6tOhVTyMGVIOQ4ev8CggbHgFQs8n0FCCNVo5Iqx8XHzUqggLKhgUohsBxcDhhzCWEhmwZZAIFkMFIzIGW8tTB5efwBbm3DWAoTJ8PoR7mCkegNSR4KyF0jlPiwqEGZCfAYxE5YdMVwLTejAVjFK1kNkNEQ2ATW14RyYI0GK0SspYOsbrg5iMbAZDlYJD0q4BegQpKoXp2MnQM0nmOWAnW4ysxwwn0DyUD8oK4CroFZY_gK2VUFRvwfEhuYUsAAob4HVN28Aie4CCwK14gMYtRpqgxNWZyHXaugZDSJuBlcBy1jAOgyaTQ0xGrYIiN6eRs5d8MQP9BUkxJeAwwEWv4jGI_ZYRMsGWEwEsTbA1e6Cm4eotWAQvTmGnKlg2QaUIsA0MF0imnYoqRQuiuHSxiYoDa73mmB1OfZMNQlhIlyUgEvBGQpuAtylm4DsXri50EYzsAmHJ0wb50JpcJjCG8wgPowFK5YQjUqQSvR2B6ZLa7m4dO0UkPqhCkCuMhcA)]
-- [鋼琴伴奏 TMD 檔案](hirose_chusa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6e_HzhhVPdqx9snfC-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0NCIy95WwZ3LxkTfxI6rTkHpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7JrydO2Opzu3PJ-yAmilkYGRgZ6BgZmegYWJOZBhYAq0VYmLyyOzKL841TmjtDjRKiAzMS8_yMOhxqCmmksBCGwMzbTswCx9LQVbdKDwdM_GF1u3v-hoB1m3o-HFwh4FjQADUzO9rIJ0TSzqtfTBZtUoGCjogiE6XZ2bVqtgGg9mA6kaBUOoBAzC-EZQXo2CGUQ1AkK16yoYQ1XCTDGCipgqmEFpCB9kCsQ8BIQ5CMktYKf7GNYowMxHpx83d0DpTqCJj5vXopn5uGk9XGULnAaqbFqFrhJqErKZk8EqESashrMa4KzNUBZI5YbHzesRIjAId2vTIqielTCfGeHxWeNsqC6wKxox3NsI8Q-I1Q-l9-FQCZEHseZD6aVglWvgLuuGq9iPphbss0bcfoKFGtRHxvh8BI0BqDth4Ypw5woYq3kOwm54vCDUweOhsQ1KLwGHfw8W_yx83NQKU4eAIPun4vIT1B0gX9dw4c6J4PzeA86AJgpPN_Q_X9-go0BUVsSfw4yBKkzRVEByDSj_QEhgHoSyYPkLoheYacwh_gDmUaAx6BkVnukLaqE6gHkVnsseN3ehqX_cDEsFsNQLiZOVGOpgofm4uR1KQ_LZWrh4H9ykZXCxGUhmwuIMBhF5fAlMFTzXPG7cie6CRpibHjdOhtLzwfG8A0PlLDgL4urHjT1glZAch2oWIj_AUzqSCRhubdyK6lZgfkDkP7gLkNInLEdC8gQsZSPcCg__xoUoKiE8RB5AlBgICFIHC2sMlzZ1PW6CRlXjDFAmARU0BJL7jk5ykjusoIemTKTqAlZJ1MATOAzCsgQsecMSvBk0CxijVTCgTIOrQoHUcDBlSKkdHrbNm-AseKkKT-MglbCSBQaRa4XGx81LoYLLwEkelgSQkzxcrGkjkrGQhIotciDJ-3HTOpREvxYmDy88HzdOh7MWIEyGVw5wByMVmpAKApS0QSr3YVGBMBPiM4iZsKyA4VpoInvc2IuS7BGJHJFEJzxuQtRGMEeCFKOX0I-bOuHqIBY_bpwHVgkPSrgF6BCkqhenYydAzSeY3J_Onk1J6Y7a8oGV3cilO3qih4ibwVXAEjmwLIdmGUOMFhYCojfskFM6PCE2Q9sKTUuA7FaYaBOiFYM9RNGSJBYTQawNcLW74OYhSm8YRG8XICdwWBIGxQ6YBqYRRBsDJcXARTFc2tgEpcHlfxOsTsOewCchTISLEnApOHHDTYC7dBOQ3Qs3F9p6A7Yl8IRp41woDQ5TeMsNxIexYEUEonUDUole_2K6tBZLN8MHuZthguhlPGva9HTx-mf7G57NaHqys_tlwyZgun82exMwAzzr7n26dsLT7cuedXZD-k7IPQoIrIGUsIbxCtGGsTCqRsEEyDBB4kMZUGFQ4wTIMo2PBTOApsCyD5oxOIw1AlJGeIwBtXBQpMAMnMbB-biMQ_Ih3Ac4nIppGziUQFGia6eAFCvRPkA5dCGgp9CFjMFCylwA)]
+- [主旋律 TMD 檔案](hirose_chusa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgxMzRAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM9gnEipKixLzi5KLMApD3EKryi0oy8oE-KciotMrILC7JL8pMTsyJz07MQ_JwSUYq0L8Q6Up04dzMnMySRJC4lpbC092LnzeseLJj7ZO9ExS0tLgUbRUMDY247G0V3LlsTPRN7ECaX6yc937PrGfT2l82r3g-pxFs4LPZmzDEXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dD_d0P10x47nyyc-X7Pmya4pT9fueLpzy_MpK97v6QBFkB4wgvRAEQRkGJi-39OpxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQXUCfPm1dAfQV0BVPN_Q-a-9UAMWyXlZB-vs9PUDFLxc0KhToKRgbA7kgh-_oBDr82Zz5QLaCucLLZdOALgWGC8j0F6v2P2tYDjK3u_fFzPlA0ceNK15O3Q4Ufzp79tOOtic7u4EMoOzTtROA9rkrPF2yHCipAAx2BaAo2KSeRzNXgqMEyASqgYc3UJILZMmTHQ2PGxpe7AUa3wE0_nHTvMdNIJ2PG_ufL9j0cv5msPiSx01zHzd2ARWApBoaXi6e_bhx85N9bY-bup_u7XiyYwdY2YLHTZMfN0543NQPZIBsAPmid9KzzYvA0k2Pm4DmrnrcuB8o92zLdLgg2L6tQHMfN_Q8bm5_3Nz8uGnt44bex43rnuzoAitre9wItAOobDXI0JfTQQH8uKkFYtbjpkkvNq2GuRSoaA3EB0ATISkTaNDTfoiCqY8bJwLdDnXds7mdL9v7wBIzHzf2AdWBda5_snfqi5lTweJAO5Y-bgR5B2gcRD1QwdONrY8bZwFdAAnFXcAU2fCiY-fTttaXszrA-maDAwPoW6AB_Y8b94ENBnJBrgKmXbCa-UCzweJrgAEJSgu7loHF94OlYI58OnHP48adjxtXPl87BRgMIHuBQQXySQ_ImsaVL5Z1P24EaoMkm46dYDO2Pm5cC_HMszULgckLLDgdFEmNLZCQBPln86KX04B-A0qB4gXmzNXPNkE8AVQPceB-cGhN3QqMbbDEsseNwOgBRThYuuVxE1C8__2ePWCnNYHc3wRML6uf7wQmNYhBk8Aqp0OTHSg0n-wGKlkPSnbNcx4373ncDFQIchU4uoEx2QMOFVAEgiN98WyMFAcMJaiLQaG6fy9McCFMfOHTJRshCQjMBYbWMrBPpre-XND2bMf6p0uAOQ6YkroeN7U_bpzxuKkVHG3A8AQ6AZySIaEFDCpQ4genRFAKAye7xnnPtkNMBwY2MEaBIr3gKNjd-3zpPEjRCJYGGgQ0dDqY3ATMYECHgFWvALm6ddvTCb3P1gHtBkbnSpB-yksnKFDQ0ufi8sgsyi9Odc4oLU60CshMzMt3qDGoqQbZo2BjoWUHZmArGRWe7tn4Yut2YAEELqgaXizsUdCAlWaaWNQDLQOZVaNgoKALh9W5abUKpvEgVKNgCBUEcnSBHCOgkDFUCEQbAskaBVMo3wgsogsUAbFAEGQuWBfYHh_DGgWQOTAITD5A3AlU_7h5LUysaT1YpgWMgTJNq5BUw_RMBsuAVIJEVgNxA5i1GWz746YNj5vXQ3ggCLLzcdMioPxKmEuM0FzSOBuoAmxqI9y-xhYw2Q_E-9Bk-sHkfCBeCpZZA3V7N5C9HyoHdkkjqhtAbt8Dc4MxuhuAfobaBPEZSGwF2F9zIPqgYQCRWQ0m24B4CdjPPUhuWAjMFlBpiDOmIjsDaCjIYTXgjI09JYGr6B5wAjJReLqh__n6Bh14xYg3KcGSByQxICcYUDIxAUKYCEgWkowQ6QyUYKoLahXM44FCiFTzuLkL5u9mUMhCYhMSIivhMiBPAmsjIG4GhwgkTT1u7gOyl4FZMyDB0dyNHBzNS5BjBZgygGU3PJRBpgMrE3CMgmR2wGVmgcmpQNwDlpkN1wFLA6C4AsmAVCICfytaGoCkJljcwdIVJB2A4hjihz1wmYVgmX1Q2xZCIxliP0gG5FNEigMVk0BBaDlJMM53dJIT57DsjhnnINoIXEiYgPkmUBGQUyHFBjTOQYWOGRAixzkopiG-3wQmQWUCMAcDSUhaR5QWjY-bl4IjGRTtW5GiHcR-3LQRGu2TUYJmJxCvQ4l2SIIBBSbY2MbpQLwAHKigogA5260CRzJyRAALIaB6EGspNCJAiQAR7cuAuBcl2mGJEBaBoMoLbBXIqaD4Ro55YD5vApeUUGOBVRk4LYFYIINAMr0oFk6AlGj4IxzYHCUnwmElPijbQiITOcJNgRCRyRERjpzJQRg5rvugvgWGQNMSMAtUgIGiE1aCQkMCFm2oepo3gOV2QfQAczQiJEAYOZIXQHQBwwZawgNLZUj4wSMZLAJsFMFyfROk9EGO5ElQPSAeFpvAEQyRg9gETsFNoBhClBXw8r1xLhCD_QStY0A8UKkD0gNK6yAZWDmHsKmWi0vXTgGptaAA5CpzAQA)]
+- [鋼琴伴奏 TMD 檔案](hirose_chusa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgxMzRAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM8klBZmJefnxicnJ-bkFiXmZuah6SIflFJRn5QI8UZFRaZWQWl-QXZSYn5sRnJ-Yh-bckIxXoXYh0JbpwbmZOZkkiSFxLS-Hp7sXPG1Y82bH2yd4J7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQ0MjLntbBXcuGxN9EzuQiS9Wznu_Z9azae0vm1c8n9MItuXZ7E0YYi_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z82TXlKdrdzzdueX5lBVAp4EiTQ8YaXqgSAMyDEyBrlPi4vLMKynKtwoAhVmQh0ONQU01lwIQ2Fho2YEZNQrVuWm1CqYKukBorGAIJI2AuAbIBomAxHSBsqZwEUMwDVEDUg2CBlBcw1WLYqMPso0mqDYaxitEG8aCKNP4eJBZcD6IgvNBktGm8UgiBkAItsgjsyi_ONU5o7Q4Ea8HQS6DQYhnQXYiOR_IAfnLCM3XIJ_WwEMG5GOQhhowC-ZrsC6wPT6GNQogc2DwcXMHEHcC1T9uXgsTa1oPlmkBY6BM0yok1TA9k8EyIJUgkdVA3ABmbQbb_rhpw-Pm9RAeCILsfNy0CCi_EuYSIzSXNM4GqgCb2gi3r7EFTPYD8T40mX4wOR-Il4Jl1kDd3g1k74fKgV3SiOoGkNv3wNxgjO4GoJ-hNkF8BhJbAfbXHIg-aBhAZFaDyTYgXgL2cw-SGxY-bmqFSkOcMRXZGUBDQQ6r4YLGPixGIfGHHMegmDUBQkTKBqkBsVFTdnVBrYJ5PFAIEdGPm7tgTm0GBQYkAiCeWAmXAbnrcXM7EDeDPQFJBo-b-4DsZWDWDIgPmruRfdC8BDkggZH5uHEnPGBApj9unAyOBJDMDrjMLDA5FYh7wDKz4Tpg0QYKXpAMSCUivLaiRRskAcCCG5YUIFEHihaIH_bAZRaCZfZBbVsIjReI_SAZkE8RiaTrcRMwQBpnAOMQnCZh0QTLVJjRBCluQFnRBMw3QSqAIJkTGk2grG0GhMjRBIociIM3gUlQzgPmEyAJSVGIPNn4uHkpOF5AMbUVKaZA7MdNG6ExNRnFNzuBeB1KTEHiGOR_sLGN04F4ATgcQBkOOXGvAscLctgBszpQPYi1FBp2oHhDxNQyIO5FiSlYuoGF-YTHTaAcDS5bwFGEHFnA3NQELo-gxj5unAeOfhALZBBIphfFwgmQcgMWR9SqJBDR0wd1INDRTUvALFDOBsUArGiBOh4W0qh6mjeA5XZB9ADzDcLxIIwcLwsguoDegRZ9wOIK4mV4vIBFHjc2wfJWEySPI8fLJKgeEA-LTeA4gchBbAInuiZQoCJyJLzga5wLxGA_QQtfEA-Ut0F6QMkTJAMrTRA2Yav5cFS0oKoSXF3iql2x1bZAJjCqYdUupLaFGIezSgZSJkh1OK46G5qKYLJYzYE4B2hatAlm4wCLYyhoP-jaKYDbKgpABlKIRvsAFaELGWEKGYOFlLkA)]
 
 ## 分析
 
@@ -99,46 +102,46 @@ w: 3.~ど
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [HiroseChusa #1 @ m.1, 0:01]
-   - 最高音: E5 in [HiroseChusa #1 @ m.4, 0:07]
+   - 最高音: E5 in [HiroseChusa #1 @ m.13, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      HiroseChusa (36.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       B 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, G, B, A, E
-   - 調性數值:    G 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.85), D 大調 (0.81), B 小調 (0.72)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  B, A, G, D, C
+   - 調性數值:    B 調性不明確 [相關度: 0.69, 穩定度: Ambiguous, 自然音純度: 95.0%]
+   - 候選調性 (K-S): B 小調 (0.69), G 大調 (0.68), D 大調 (0.55)
+   - 五度圈歷程:   +5
    - 各段落調性細節:
-     • [HiroseChusa #1]: G 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [HiroseChusa #1]: B 調性不明確 (r: 0.69, 自然音純度: 95.0%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
+         F            G  
       Bb               D  
       Eb               A  
          Ab           E  
-            Db       B  
+            Db      [B ]*
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  :                            0.0%
+     C  : ███                        5.0%
      C# :                            0.0%
-     D  : ████████████████████████  27.1%
+     D  : ██████████                15.0%
      D# :                            0.0%
-     E  : █████████                 10.4%
+     E  : █                          1.7%
      F  :                            0.0%
-     F# : ███                        2.9%
-     G  : ████████████████████      22.9%
+     F# : █                          0.8%
+     G  : ██████████████            20.0%
      G# :                            0.0%
-     A  : ██████████████            15.8%
+     A  : ███████████████           22.5%
      A# :                            0.0%
-     B  : ██████████████████        20.8%
+     B  : ████████████████████████  35.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 79 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 60 個音符)
 ================================================================================
 ```
 
