@@ -80,7 +80,7 @@ extra_javascript:
 nav:
   - 首頁: index.md
   - 跨冊重複與同名歌曲索引: duplicate_songs.md
-  - 共益商社唱歌教科書:
+  - 共益商社唱歌教科書（明治三十五年／1902）:
       - 專題統計: kyoeki_shoka/index.md
       - 巻一（生徒用）:
           - 總覽: kyoeki_shoka/kan_1_854862/index.md
@@ -170,12 +170,12 @@ nav:
           - "17 赤十字": kyoeki_shoka/kan_4_854865/17_sekijuji/index.md
           - "18 亡き友": kyoeki_shoka/kan_4_854865/18_naki_tomo/index.md
           - "19 水鳥": kyoeki_shoka/kan_4_854865/19_mizutori/index.md
-  - 臺灣周遊唱歌（明治四十三年）:
+  - 臺灣周遊唱歌（明治四十三年／1910）:
       - 總覽: taiwan_shuyu_shoka/index.md
       - 書訊與掃描頁: taiwan_shuyu_shoka/0_book_info/index.md
       - "1 臺灣周遊唱歌（簡單版・第一～四節）": taiwan_shuyu_shoka/1_taiwan_shuyu_shoka/index.md
       - "2 臺灣周遊唱歌（完整版・全九〇節）": taiwan_shuyu_shoka/2_taiwan_shuyu_shoka_full/index.md
-  - 公學校唱歌集（大正四年）:
+  - 公學校唱歌集（大正四年／1915）:
       - 總覽: kogakko_shokashu_1915/index.md
       - 書訊與掃描頁: kogakko_shokashu_1915/0_book_info/index.md
       - "1-01 君が代": kogakko_shokashu_1915/1_01_kimigayo/index.md
@@ -224,7 +224,7 @@ nav:
       - "6-07 臺灣の風景": kogakko_shokashu_1915/6_07_taiwan_no_fukei/index.md
       - "6-08 開校記念日": kogakko_shokashu_1915/6_08_kaiko_kinenbi/index.md
       - "6-09 卒業の歌": kogakko_shokashu_1915/6_09_sotsugyo_no_uta/index.md
-  - 楊金土手抄唱歌帖:
+  - 楊金土手抄唱歌帖（大正十二年至昭和二年／1923–1927）:
       - 考證與研究筆記: shokacho/research_notes.md
       - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
       - 延伸館藏與日本國會圖書館調查: archives/index.md
@@ -448,7 +448,7 @@ nav:
           - "P217 鄭成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
           - "P220 琵琶湖 (琵琶湖)": shokacho/vol_10/p220_biwako/index.md
           - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
-  - 新定兒童唱歌:
+  - 新定兒童唱歌（昭和五年／1930）:
       - 專題統計: shintei_jido_shoka/index.md
       - 尋常科 第一學年:
           - 總覽: shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md
@@ -898,7 +898,7 @@ nav:
           - "2-4-05 埴生の宿": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md
           - "2-4-06 高嶺": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/index.md
           - "2-4-07 浦のあけくれ": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/index.md
-  - 臺灣の歌（昭和四年）:
+  - 臺灣の歌（昭和四年／1929）:
       - 總覽: taiwan_no_uta/index.md
       - 書訊與掃描頁: taiwan_no_uta/0_book_info/index.md
       - "1 臺灣の歌": taiwan_no_uta/1_taiwan_no_uta/index.md
@@ -913,7 +913,7 @@ nav:
       - "10 島の唄": taiwan_no_uta/10_shima_no_uta/index.md
       - "11 蓬萊小唄": taiwan_no_uta/11_horai_kouta/index.md
       - "12 蕃山の唄": taiwan_no_uta/12_banzan_no_uta/index.md
-  - 公學校唱歌:
+  - 公學校唱歌（昭和九年至昭和十七年／1934–1942）:
       - 懸賞募集入選歌詞與作詞者名單: kogakko_shoka/lyrics_contest/index.md
       - 第一學年用:
           - 總覽: kogakko_shoka/grade_1/index.md
@@ -1015,7 +1015,7 @@ nav:
           - "18 六氏先生": kogakko_shoka/grade_5/18_rokushi_sensei/index.md
           - "19 廣瀨中佐": kogakko_shoka/grade_5/19_hirose_chusa/index.md
           - "20 忍耐": kogakko_shoka/grade_5/20_nintai/index.md
-  - うたのほん（唱歌課本）:
+  - うたのほん（唱歌課本）（昭和十八年／1943）:
       - 下卷（初等科第二學年）:
           - 總覽: utanohon/ge_2006.006.0878/index.md
           - 書訊與掃描頁: utanohon/ge_2006.006.0878/0_book_info/index.md
