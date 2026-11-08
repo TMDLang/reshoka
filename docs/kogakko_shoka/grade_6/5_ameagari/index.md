@@ -14,7 +14,9 @@ audio: "ameagari.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="ameagari.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ameagari_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="ameagari.mp3"></audio>
+
 
 - 詞：白上貞利（小學唱歌五十曲集）
 - 臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）

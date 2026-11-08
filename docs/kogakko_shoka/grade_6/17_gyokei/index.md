@@ -14,7 +14,9 @@ audio: "gyokei.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="gyokei.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="gyokei_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="gyokei.mp3"></audio>
+
 
 - 臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）
 
