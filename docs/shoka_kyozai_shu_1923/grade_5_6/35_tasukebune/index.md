@@ -14,7 +14,9 @@ audio: "tasukebune.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tasukebune.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tasukebune_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tasukebune.mp3"></audio>
+
 
 - book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
@@ -68,27 +70,27 @@ w: 2.~ず み | よ み よ こ | ぎ つ る す | く ひ を _ ぶ
 c10 F2 | d4 d2 d4 B2 | c2 B2 G2 F4 F2 | B4 B2 A2 B2 c2 |
 w: 1.~ネ シヤ | ウ シ ノ サ | カ _ ヒ ト ス | ク ヒ モ _ ト
 w: 2.~ね け | な げ の を | の _ こ ら ま | も れ か _ み
-B10 z2 | z10 F2 | d4 d2 d4 B2 | c2 B2 G2 F4 F2 |
-w: 1.~ム | ハ | ゲ シ キ ア | メ _ カ ゼ テ
-w: 2.~よ | す | く ひ を も | と _ む る こ
-B4 B2 B2 c2 d2 | c10 F2 | d4 d2 d4 B2 | c2 B2 G2 F4 F2 |
-w: 1.~ン チ ク _ ラ | ク ヤ | マ ナ ス ア | ラ _ ナ ミ タ
-w: 2.~ゑ は す _ れ | ど こ | の か ぜ こ | の _ な み た
-B4 B2 A2 B2 c2 | B10 B2 | c4 c2 c4 c2 | d4 d2 d4 d2 |
-w: 1.~ケ リ ク _ ル | フ ミ | ヨ ミ ヨ カ | シ コ ニ ア
-w: 2.~れ も ゆ _ か | ず み | よ み よ こ | ぎ つ る す
-e4 d2 d2 c2 B2 | c10 F2 | d4 d2 d4 B2 | c2 B2 G2 F4 F2 |
-w: 1.~ハ レ ヲ _ ブ | ネ シヤ | ウ シ ノ サ | カ _ ヒ ト ス
-w: 2.~く ひ を _ ぶ | ね け | な げ の を | の _ こ ら ま
-B4 B2 A2 B2 c2 | B10 z2 |
-w: 1.~ク ヒ モ _ ト | ム
-w: 2.~も れ か _ み | よ
+B10 F2 | d4 d2 d4 B2 | c2 B2 G2 F4 F2 | B4 B2 B2 c2 d2 |
+w: 1.~ム ハ | ゲ シ キ ア | メ _ カ ゼ テ | ン チ ク _ ラ
+w: 2.~よ す | く ひ を も | と _ む る こ | ゑ は す _ れ
+c10 F2 | d4 d2 d4 B2 | c2 B2 G2 F4 F2 | B4 B2 A2 B2 c2 |
+w: 1.~ク ヤ | マ ナ ス ア | ラ _ ナ ミ タ | ケ リ ク _ ル
+w: 2.~ど こ | の か ぜ こ | の _ な み た | れ も ゆ _ か
+B10 B2 | c4 c2 c4 c2 | d4 d2 d4 d2 | e4 d2 d2 c2 B2 |
+w: 1.~フ ミ | ヨ ミ ヨ カ | シ コ ニ ア | ハ レ ヲ _ ブ
+w: 2.~ず み | よ み よ こ | ぎ つ る す | く ひ を _ ぶ
+c10 F2 | d4 d2 d4 B2 | c2 B2 G2 F4 F2 | B4 B2 A2 B2 c2 |
+w: 1.~ネ シヤ | ウ シ ノ サ | カ _ ヒ ト ス | ク ヒ モ _ ト
+w: 2.~ね け | な げ の を | の _ こ ら ま | も れ か _ み
+B10 z2 |
+w: 1.~ム
+w: 2.~よ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tasukebune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBtYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5tYlFmSmZuKIZ5flJijxKWlpfC0a-XjxokvOuYraGlxKdoqmBtx2dsqOOlw2ZjpW9iBtIF8b6XwbNqG59tXKDzd0P907Y5nCxY-bt79tHUNhK3wdMrGZ2t7nk2d-WzuhJez297v6Xi6ofvpjh3Pl098smsKWOlaoNKnO7c8n7Li_Z5OsHOe7Gh4tmjus9a-Jzs6Xzb3KQCNf9zQRYo9jxu6QVYtWf5s7eKnvY1PdvUAbYAwns3peL-n5_mWRc9m73gxc76CgbmRqa6JIdhuLn0tBVtqAS4FBQU7hWhFP_8Q11gIR0vrad98kL2b21-s6HrR0Q5084uV8562rng2rV1LCxw6vc_aOxUSQMlHL6sgPeFRw2QQxxLMATocYoBCgZ6CsYEBUNLYAOj0HpyBumaNgrGpwstl04D-e79nFsQZukCHvFi1_1nDcpATunuBwQCyfNaLdV2Pm9cCZYD6gcJP104Ausjp0cy1CsCQBAq_nD7nyf4mYAQA2QrpoJgAMl50bnq6dyXQDcBUoQDUBXLNno0vtm5XMFR42rr6aUfby_mbn69ZBnZAz6OZqxRsFQxNTIAmv5zZ8nL3vKezZ8PVKDyauVIPKG9iAVT6bO2SFzOnPtm9FFnFs_7Zz9dNf7Zi5vOmXQoJ4FQJDJVOhL-ed3Y8m7MGmCSeds8AewrEm73p5cIeoI7HDR3wVP24AeQeUABMa3_ZvOL5nEZgGoOEIySJQZIUNCX1dz2bsfbppB5QGtrRAAzZF-27njcufr5j7_O5i5_umgPSC0uMSBo7n3U2PJuyDcnenWB7Ox439DxuXP-4cdLjxumPG3tfzl7xchEwkTc-XbLy6ZwNjxv7Hzd1gsiGpie7u0BqmprAKpc-btz3uGnys03THjeuA0VAx85HDcuA6HFDb4JpvEINMNR1gRhEmseDgubphJ6nG9fAo1YBGk3Ptm5_OXvxs6kTgQ4DBg4w24CCvHk-KLhguQjo-BdAL4DTKDj0ep43dyA7GOLaZ7OAIkCnNjzduPFx46rHjTNf9E56tnnR48b5QC8_bup63g10_Fa4O4EWPdkxBZQ0DYE-NgViQ2NQYnq-vuHZ9O6n-7qfLu9-Nm3Py9UzgHGukGAM9IoxEAK9BfRPh4spMNWDEiUwCYFiEGSOCdAMC5A5RlBzXk7dDtT7dMe2lw2Ln2-d8Hz7LGBIghMJLCMCYxGoAViygflAf4EiBRwjQGOR_QgWb3rc1Pi4sftx4xxQiIJ9DRZfBoyLx40LQRE9azpYBBRxYBP6ISYDwwQk3tQCjDiwOCJ8YCZDBPeDZREhBjMNlIqAoQcx7cUyUGqEKm4CMcAk0GFABwNdshpkINAXTcASAZQ2wFYD09i2x41r4dnk-ZT5z9buBpsDTFdAh7UBGWBb1j2f2gMWnwo2cxNYcAUwkYAFZ4LcAxZ8thHsPFCaBBXaj5uAYYkWvLuAGQAevJgmgFwF1g7S29T9AiQIVDD5cRNQJdBSYETMBPriceNKqAlrl0AUQNwJixdojID9vu7Z1lVgQWhgvlgFiaP5QHPANja9WAj2XROwGgJqAeqFlodooYrGfbZnKpLVfY8blwAdjOwjsPgmPAEOilOQq4Di655P2Q5RA_EIpIyFGt7U-XQdJB0C8zgwhIEiPc-XzoP5FBbpkKCmvIKCAgUtfS6ukMTi0uzUpNI8YMslMzEv36HGoEahGmSPgo2FFjhaFbBVjgrA7AfMSsCQVdCAFvvaCibQXKijAKu5NLHoBFoLMrVGwQCYtSEQXIAh5XcgzwhImsWDZKDSsPLNCKgEJI2sF2ygj2GNAkg1BD5u7gcqe9y0CcRu2g7Ea8GsRSDR5oVg9mog3gNW2wYW3QxmNwJF14NZK8EmgNgwM5fA7DJCsatxJkhlYz-YvQmoZxLY_Caw6AowuwGIu8Hyk8GmTgSz14P1guR7wGpXIpkJVMeFP_x39YDDn8RgJyqczePBQQ3hQiBQNTycHzfPA4dHF9DlO5HCFeR-sGjzfLDofrBfN4JFV8HDdTVY7VSkcJ2PFK7A3AH2fzcQz0GEGFQUaErjfjALqAccbpCQBuZuqC6Q2llI4Qh0A4Fw3NFJTjiCkqARlEQOVVDyNIHyQKGLM7E-bgYnDaDnoSxgggR5aTuYvRkoCk4w0KAFJ67mNUAMTtLN08CivQiPNm1HTZ_AIgPqfxgLEo59YPYSeHrEmnYbt4FFQXkGFo4TCYUjsL1Gz_RogByUTcsgQQAMErD_mraCg3I1OKgmATE4BIBpFZajIaKLwKwOcFAugJsMjyRwalwF9j1QNSQFAsMHkRonA_mdYNY-sMlNYBU94HQITXvQ0EeYXMvFpWungCh4FTB4ylwA)]
-- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBtYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqschOLMkuAMhji-UWJOUpcWloKT7tWPm6c-KJj_vs9HS9nz3zW2f2ye8_zCVue7NnydGn_-z2dClpaXIq2CuZGXPa2Ck46XDZm-hZ2IONAwWel8GzahufbVyg83dD_dO2OZwsWPm7e_bR1DYSt8HTKxmdre55Nnfls7oSXs9uAVjzd0P10x47nyyc-2TUFrHQtUOnTnVueT1kBtAvszCc7Gp4tmvuste_Jjs6XzX0KQOMfN3SRYs_jhm6QVUuWP1u7-Glv45NdPUAbIIxnczre7-l5vmXRs9k7Xsycr2BgbmSqa2IItpsrJLG4NDs1qTQPmAJAYRvk4VBjUKNQzaUABDYWWnZghr6Wgi06UHi-Zg3Q3S8W9ihoPN2z8cXW7QraCiYg1z5f36CjAExPlnpZBemaWHRq6YNNrVEwUNCFQtN4INcYyDAGk4ZAnhGQNIsHyUClDcEShkAJY7A0sl6wgT6GNQog1RD4uLkfqOxx0yYQu2k7EK8FsxaBRJsXgtmrgXgPWG0bWHQzmN0IFF0PZq0EmwBiw8xcArPLCMWuxpkglY39YPYmoJ5JYPObwKIrwOwGIO4Gy08GmzoRzF4P1guS7wGrXYlkJlAdF_7w39UDDn8Sg52ocDaPBwc1hAuBQNXwcH7cPA8cHl1Al-9ECleQ-8GizfPBovvBft0IFl0FD9fVYLVTkcJ1PlK4Pm5cB_Z_NxDPQYQYVBRoSuN-MAuoBxxukJB-3NQG1QVSOwspHIFuIBCOOzrJCUdQEjSCksihCkqeJlAeKHRxJtbHzeCkAfQ8lAVMkCAvbQezNwNFwQkGGrTgxNW8BojBSbp5Gli0F-HRpu2o6fNxUwfU_zAWJBz7wOwl8PSINe02bgOLgvIMLBwnEgrHp7Nn0zM9GiAHZdMySBAAgwTsv6at4KBcDQ6qSUAMDgFgWoXlaIjoIjCrAxyUC-AmwyMJnBpXgX0PVA1JgcDwQaTGyUB-J5i1D2xyE1hFDzgdQtMeNPQRJtdilrs-WMtd5BIS6FkFQ0iJA6WAiSwewjKF0pgqYDIQGhZgJJiE3WiEQagWYHMCzGh6uAkYsrp2CojAjfYxjFVAEzECiyhzAQA)]
+- [主旋律 TMD 檔案](tasukebune.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBtYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5tYlFmSmZuKIZ5flJijxKWlpfC0a-XjxokvOuYraGlxKdoqmBtx2dsqOOlw2ZjpW9iBtIF8b6XwbNqG59tXKDzd0P907Y5nCxY-bt79tHUNhK3wdMrGZ2t7nk2d-WzuhJez297v6Xi6ofvpjh3Pl098smsKWOlaoNKnO7c8n7Li_Z5OsHOe7Gh4tmjus9a-Jzs6Xzb3KQCNf9zQRYo9jxu6QVYtWf5s7eKnvY1PdvUAbYAwns3peL-n5_mWRc9m73gxc76CgbmRqa6JIdhuLn0tBVtqAS4FBQU7hWhFP_8Q11gIR0vrad98kL2b21-s6HrR0Q5084uV8562rng2rV1LCxw6vc_aOxUSQMlHL6sgPeFRw2QQxxLMATocYoBCgZ6CsYEBUNLYAOj0HpyBumaNgrGpwstl04D-e79nFsQZukCHvFi1_1nDcpATunuBwQCyfNaLdV2Pm9cCZYD6gcJP104Ausjp0cy1CsCQBAq_nD7nyf4mYAQA2QrpoJgAMl50bnq6dyXQDcBUoQDUBXLNno0vtm5XMFR42rr6aUfby_mbn69ZBnZAz6OZqxRsFQxNTIAmv5zZ8nL3vKezZ8PVKDyauVIPKG9iAVT6bO2SFzOnPtm9FFnFs_7Zz9dNf7Zi5vOmXQoJ4FQJDJVOhL-ed3Y8m7MGmCSeds8AewrEm73p5cIeoI7HDR3wVP24AeQeUABMa3_ZvOL5nEZgGoOEIySJQZIUNCX1dz2bsfbppB5QGtrRAAzZF-27njcufr5j7_O5i5_umgPSC0uMSBo7n3U2PJuyDcnenWB7Ox439DxuXP-4cdLjxumPG3tfzl7xchEwkTc-XbLy6ZwNjxv7Hzd1gsiGpie7u0BqmprAKpc-btz3uGnys03THjeuA0VAx85HDcuA6HFDb4JpvEINMNR1gRhEmseDgubphJ6nG9fAo1YBGk3Ptm5_OXvxs6kTgQ4DBg4w24CCvHk-KLhguQjo-BdAL4DTKDj0ep43dyA7GOLaZ7OAIkCnNjzduPFx46rHjTNf9E56tnnR48b5QC8_bup63g10_Fa4O4EWPdkxBZQ0DYE-NgViQ2NQYnq-vuHZ9O6n-7qfLu9-Nm3Py9UzgHGukGAM9IoxEAK9BfRPh4spMNWDEiUwCYFiEGSOCdAMC5A5RlBzXk7dDtT7dMe2lw2Ln2-d8Hz7LGBIghMJLCMCYxGoAViygflAf4EiBRwjQGOR_QgWb3rc1Pi4sftx4xxQiIJ9DRZfBoyLx40LQRE9azpYBBRxYBP6ISYDwwQk3tQCjDiwOCJ8YCZDBPeDZREhBjMNlIqAoQcx7cUyUGqEKm4CMcAk0GFABwNdshpkINAXTcASAZQ2wFYD09i2x41r4dnk-ZT5z9buBpsDTFdAh7UBGWBb1j2f2gMWnwo2cxNYcAUwkYAFZ4LcAxZ8thHsPFCaBBXaj5uAYYkWvLuAGQAevJgmgFwF1g7S29T9AiQIVDD5cRNQJdBSYETMBPriceNKqAlrl0AUQNwJixdojID9vu7Z1lVgQWhgvlgFiaP5QHPANja9WAj2XROwGgJqAeqFlodooYrGfbZnKpLVfY8blwAdjOwjsPgmPAEOilOQq4Di655P2Q5RA_EIpIyFGt7U-XQdJB0C8zgwhIEiPc-XzoP5FBbpkKCmvIKCAgUtfS6ukMTi0uzUpNI8YMslMzEv36FG17BGoRpkkYKNhRY4XhWw1Y4KwPwHzEvAoFXQgJb72gom0GyoowCrujSx6ATaCzK1RsEAmLchEFyCIWV4IM8ISJrFg2Sg0rACzgioBCSNrBdsoA_Q5SDVEPi4uR-o7HHTJhC7aTsQrwWzFoFEmxeC2auBeA9YbRtYdDOY3QgUXQ9mrQSbAGLDzFwCs8sIxa7GmSCVjf1g9iagnklg85vAoivA7AYg7gbLTwabOhHMXg_WC5LvAatdiWQmUB0X_vDf1QMOfxKDnahwNo8HBzWEC4FA1fBwftw8DxweXUCX70QKV5D7waLN88Gi-8F-3QgWXQUP19VgtVORwnU-UrgCswfY_91APAcRYlBRoCmN-8EsoB5wuEFCGpi9obpAamchhSPQDQTCcUcnOeEISoJGUBI5VEHJ0wTKA4UuzsT6uBmcNICeh7KACRLkpe1g9magKDjBQIMWnLia1wAxOEk3TwOL9iI82rQdNX0Cywyo_2EsSDj2gdlL4OkRa9pt3AYWBeUZWDhOJBSOwAYbPdOjAXJQNi2DBAEwSMD-a9oKDsrV4KCaBMTgEACmVViOhoguArM6wEG5AG4yPJLAqXEV2PdA1ZAUCAwfRGqcDOR3gln7wCY3gVX0gNMhNO1BQx9hci0Xl66dAqLkVcDgKXMBAA)]
+- [鋼琴伴奏 TMD 檔案](tasukebune_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN403Q8gU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBtYIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqschOLMkuAMhji-UWJOUpcWloKT7tWPm6c-KJj_vs9HS9nz3zW2f2ye8_zCVue7NnydGn_-z2dClpaXIq2CuZGXPa2Ck46XDZm-hZ2IONAwWel8GzahufbVyg83dD_dO2OZwsWPm7e_bR1DYSt8HTKxmdre55Nnfls7oSXs9uAVjzd0P10x47nyyc-2TUFrHQtUOnTnVueT1kBtAvszCc7Gp4tmvuste_Jjs6XzX0KQOMfN3SRYs_jhm6QVUuWP1u7-Glv45NdPUAbIIxnczre7-l5vmXRs9k7Xsycr2BgbmSqa2IItpsrJLG4NDs1qTQPmAJAYRvk4VCja1ijUM2lAAQ2Flp2YIa-loItOlB4vmYN0OEvFvYoaDzds_HF1u0K2gomIOc-X9-gowBMUJZ6WQXpmlh0aumDTa1RMFDQhULTeCDXGMgwBpOGQJ4RkDSLB8lApQ3BEoZACWOwNLJesIE-QJeDVEPg4-Z-oLLHTZtA7KbtQLwWzFoEEm1eCGavBuI9YLVtYNHNYHYjUHQ9mLUSbAKIDTNzCcwuIxS7GmeCVDb2g9mbgHomgc1vAouuALMbgLgbLD8ZbOpEMHs9WC9IvgesdiWSmUB1XPjDf1cPOPxJDHaiwtk8HhzUEC4EAlXDw_lx8zxweHQBXb4TKVxB7geLNs8Hi-4H-3UjWHQVPFxXg9VORQrX-Ujh-rhxHdj_3UA8BxFiUFGgKY37wSygHnC4QUL6cVMbVBdI7SykcAS6gUA47ugkJxxBSdAISiKHKih5mkB5oNDFmVgfN4OTBtDzUBYwQYK8tB3M3gwUBScYaNCCE1fzGiAGJ-nmaWDRXoRHm7ajps_HTR1Q_8NYkHDsA7OXwNMj1rTbuA0sCsozsHCcSCgcn86eTc_0aIAclE3LIEEADBKw_5q2goNyNTioJgExOASAaRWWoyGii8CsDnBQLoCbDI8kcGpcBfY9UDUkBQLDB5EaJwP5nWDWPrDJTWAVPeB0CE170NBHmFyLWfD6YC94kYtIoG8VDCFFDpQCprJ4CMsUSmOqgMlAaFiIkWASdqMRBqFagM0JMKPp4SZg0OraKSBCN9rHMFYBTcQILKLMBQA)]
 
 ## 分析
 
@@ -96,14 +98,14 @@ w: 2.~も れ か _ み | よ
 ================================================================================
 📊 TMD Song Profile: [ 助け舟 ]
 ================================================================================
-⏱  Duration:       1:25 (85.0s), 34 measures total
+⏱  Duration:       1:20 (80.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 B,, != 72.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D#5 (MIDI 75) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
    - 最低音:  F4 in [Tasukebune #1 @ m.1, 0:02]
    - 最高音: D#5 in [Tasukebune #1 @ m.12, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Tasukebune (42.5s) -> Tasukebune (42.5s)
+🏛  結構:      Tasukebune (40.0s) -> Tasukebune (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -113,7 +115,7 @@ w: 2.~も れ か _ み | よ
    - 候選調性 (K-S): A# 大調 (0.79), F 大調 (0.58), D 小調 (0.55)
    - 五度圈歷程:   -2 -> -2
    - 各段落調性細節:
-     • [Tasukebune #1]: A# 大調 (r: 0.79, 自然音純度: 100.0%)
+     • [Tasukebune #1]: A# 大調 (r: 0.75, 自然音純度: 100.0%)
      • [Tasukebune #2]: A# 大調 (r: 0.79, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]

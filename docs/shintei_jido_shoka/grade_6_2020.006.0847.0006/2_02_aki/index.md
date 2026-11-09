@@ -14,7 +14,9 @@ audio: "aki.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="aki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="aki_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="aki.mp3"></audio>
+
 
 - 文部省
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）
@@ -71,8 +73,8 @@ w: 2.~や
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](aki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xXjFNbSUni-vFtBS4tL0VbB0ozL3lbBjcvGTN_CDqTj2bT2l80rns9pBOt_0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWvN_TAQo4PWBw6YECDsgwMHu_p1OJi0tfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqC7Xqyc97R1BdBXQFc83dD7rL1TIcDA2FwvqyD9_Z4eoOKXCxoVCvQUDE2AXKDDn-zqATr82Zz5QLaCkcLLZdOALn2_ZxbI9Ber9j9rWA4yt7v3xcz5QNHHjTteTt0OFH_auvppR9uTnd1AjwNln66dALTPTeHpkuVASQVg4CoARYE2PN2z8cXW7QqGEC7QYGDA9bycu-j5zL2PmzY9bu5-3NDLBbLryY6Gxw2NYFvn7H4xG6iy43HjisdNkx837gFqBLEbNz9u7H7cuPVx47rHjSsfN0583Nj7bPrSp5N6wIo3PW7qeNzUBVQMMuVxU__jJqC2RS9aZj3f2gZW0fu4qeVx43qgoWATV7_YvfdxY__jRqDg8seN8x83LgTpfNne97hxJ1D66caNEMbjxqmPG6c9bmoEGvGysetx4zawDY1Nj5vmPm4EunAdMIE93d_8dM4GsBtaID7aBfQr2EfP5k0HOQfo4KY2oBEvJux9tmA62MFAV2wC-3nD9sdNk8CK5gP98Lhx2YueHVA3g3wLcXA3SApsBMR-oBzQfmB4AO1sAqtbDXQF0IdPu9sfNzVgcSQs5FtAcpQnQShQ0NLn4nLMzrQKyEzMy3eoMaipBpmvYGOhZQdmYEv2CqDEt6PhxcIeBQ1oKtFWMFF4uqH_-foGHXii1cSiE2gdyNQaBQM4NI0Hcg0VdIHYGEgaYeUZAXmmQFwDZIF4IBKkEWyaj2GNQjwcAtMbUBkwpQCVAFMgmA9ibQaJNnaD2VuBeB2YtRIsOhHM7gWSIHoTWH8HiN3UBRFr6ofZZYRq13qw2hawvulgdSDWRLBoG9TUx40gU4BpFGzXBGRzoXaBbAaxIWLzgXbhD_xdPeDAJzHMcQUyLFiNwcFsCOSZxwO5ZvGgINYFRhEimIHpHuzEReA03NQM5kDCABLeq6FhrAsWg7CAORWIQWEE8v9yqB9B4aELDENEuIJ0g8JmEjwcgSEBDStgvoLHEEglKPZAopOh9sHVAUMdog5kMoEk3ElOKILDBBY2oMACBaEJmDQFSUMD0hAcyCBRUHCD5RChCE18O-FebgF7ah-qaONUsOg0sIpGqLeAxQJYdC40ALbBxJCCEaJuLjihg1gd4OBpArPXwU2fDDYHHG3ABAiKRpAoxCVTocm-AW463qB8Ons2WUGJkSARIYtIkpBQhsiCIEp6BLoNlgwgSQImBst6IP_B_QlMcpCMDUkwoCQJgajJkJCZoIQGC1FIxoeEIaaZtVxcunYKwAJWAUgpcwEA)]
-- [鋼琴伴奏 TMD 檔案](aki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPv9no6X3XueT9jyZM-Wp0v7n3d2vN_TqaClxaVoq2BpxmVvq-DGZWOmb2HHVaeg9Gxa-8vmFc_nNCqBeC_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z87R17dO1O57u3PJ8ygqg_UYGRgZ6BgZmegYWJuZAhoEZ0AlKXFyO2ZlWAZmJeflBHg41BjXVXApAYGOhZQdm6Gsp2KIDBaDhT3Y0vFjYo6ARYGBsrpdVkK6JRZmWPtiIGgUDODSNB3INFXSB2BhIGmHlGQF5pkBcA2SBeCASpBFsmo9hjUI8HD5uXAFU9rhpMlDJ48Y9YD6ItRkk2tgNZm8F4nVg1kqw6EQwuxdIguhNYP0dIHZTF0SsqR9mlxGqXevBalvA-qaD1YFYE8GibVBTHzeCTHncuBBs1wRkc6F2gWwGsSFi84F24Q_pXT3EhzSuoIUFpjE4cA2BPPN4INcsHhSwusCIQQTu46ZOsMMWgbzzuKkZzIH4HBLKq6EhqwsWg7AeN_YDMShkQL5eDvUZKBR0gSGHCE2QblCITIKHHtD_0BB63LgMHi8glaA4A4lOhtoHVwcMa4g6kMkEUmkn8WEHDglYiICCCBRwJmDSFCQNDT5DcNCCREGBDJZDhB00oe2Ee7QF7JV9qKKNU8Gi08AqGqGeedzYBBadC_X2NpgYUuBB1M0FJ2oQqwMcKE1g9jq46ZPB5oAjC5jYQJEHEoW4ZCo0iTfATccbgE9nzyYhADESHyI8EckPErYQWRBESXtAF8GiHBL9MDFY5gL5Cu47YPKCZF1I4gAlPwhETXKEzAQlKlg4QrI2JOQwzaxFKi59sBWXyGUd0GMKhvEK0YaxYGwaD2SbxgM5IIJYKSQmKIUiqwPxEMFHloFGQI4RkAPE-LXgsAfFMCLECYQBkb4xA_HNQHwQAXYdKAJNgKImQEEgJsYzwLjUtVMARme0D1AYxgSGBJCpzAUA)]
+- [主旋律 TMD 檔案](aki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxanJhbn5xXjFNbSUni-vFtBS4tL0VbB0ozL3lbBjcvGTN_CDqTj2bT2l80rns9pBOt_0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWvN_TAQo4PWBw6YECDsgwMHu_p1OJi0tfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqC7Xqyc97R1BdBXQFc83dD7rL1TIcDA2FwvqyD9_Z4eoOKXCxoVCvQUDE2AXKDDn-zqATr82Zz5QLaCkcLLZdOALn2_ZxbI9Ber9j9rWA4yt7v3xcz5QNHHjTteTt0OFH_auvppR9uTnd1AjwNln66dALTPTeHpkuVASQVg4CoARYE2PN2z8cXW7QqGEC7QYGDA9bycu-j5zL2PmzY9bu5-3NDLBbLryY6Gxw2NYFvn7H4xG6iy43HjisdNkx837gFqBLEbNz9u7H7cuPVx47rHjSsfN0583Nj7bPrSp5N6wIo3PW7qeNzUBVQMMuVxU__jJqC2RS9aZj3f2gZW0fu4qeVx43qgoWATV7_YvfdxY__jRqDg8seN8x83LgTpfNne97hxJ1D66caNEMbjxqmPG6c9bmoEGvGysetx4zawDY1Nj5vmPm4EunAdMIE93d_8dM4GsBtaID7aBfQr2EfP5k0HOQfo4KY2oBEvJux9tmA62MFAV2wC-3nD9sdNk8CK5gP98Lhx2YueHVA3g3wLcXA3SApsBMR-oBzQfmB4AO1sAqtbDXQF0IdPu9sfNzVgcSQs5FtAcpQnQShQ0NLn4nLMzrQKyEzMy3eo0TWsqQZZoGBjoWUHZmBL9wqg1Lej4cXCHgUNaDLRVjBReLqh__n6Bh14qtXEohNoH8jUGgUDODSNB3INFXSB2BhIGmHlGQF5pkBcA2SBeCASpBFsmo9hjUI8HAITHFAZMKkAlQCTIJgPYm0GiTZ2g9lbgXgdmLUSLDoRzO4FkiB6E1h_B4jd1AURa-qH2WWEatd6sNoWsL7pYHUg1kSwaBvU1MeNIFOAiRRs1wRkc6F2gWwGsSFi84F24Q_8XT3gwCcxzHEFMixYjcHBbAjkmccDuWbxoCDWBUYRIpiBCR_sxEXgRNzUDOZAwgAS3quhYawLFoOwgFkViEFhBPL_cqgfQeGhCwxDRLiCdIPCZhI8HIEhAQ0rYMaCxxBIJSj2QKKTofbB1QFDHaIOZDKBJNxJTiiCwwQWNqDAAgWhCZg0BUlDA9IQHMggUVBwg-UQoQhNfDvhXm4Be2ofqmjjVLDoNLCKRqi3gOUCWHQuNAC2wcSQghGibi44oYNYHeDgaQKz18FNnww2BxxtwAQIikaQKMQlU6HJvgFuOt6gfDp7NllBiZEgESGLSJKQUIbIgiBKegS6DZYMIEkCJgbLeiD_wf0JTHKQjA1JMKAkCYGoyZCQmaCEBgtRSMaHhCGmmbVcXLp2CsASVgFIKXMBAA)]
+- [鋼琴伴奏 TMD 檔案](aki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPv9no6X3XueT9jyZM-Wp0v7n3d2vN_TqaClxaVoq2BpxmVvq-DGZWOmb2HHVaeg9Gxa-8vmFc_nNCqBeC_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7qfbuh-umPH8-UTn69Z87R17dO1O57u3PJ8ygqg_UYGRgZ6BgZmegYWJuZAhoEZ0AlKXFyO2ZlWAZmJeflBHg41uoY11VwKQGBjoWUHZuhrKdiiAwWg6U92NLxY2KOgEWBgbK6XVZCuiUWZlj7YiBoFAzg0jQdyDRV0gdgYSBph5RkBeaZAXANkgXggEqQRbJqPYY1CPBw-blwBVPa4aTJQyePGPWA-iLUZJNrYDWZvBeJ1YNZKsOhEMLsXSILoTWD9HSB2UxdErKkfZpcRql3rwWpbwPqmg9WBWBPBom1QUx83gkx53LgQbNcEZHOhdoFsBrEhYvOBduEP6V09xIc0rqCFBaYxOHANgTzzeCDXLB4UsLrAiEEE7uOmTrDDFoG887ipGcyB-BwSyquhIasLFoOwHjf2AzEoZEC-Xg71GSgUdIEhhwhNkG5QiEyChx7Q_9AQety4DB4vIJWgOAOJTobaB1cHDGuIOpDJBFJpJ_FhBw4JWIiAgggUcCZg0hQkDQ0-Q3DQgkRBgQyWQ4QdNKHthHu0BeyVfaiijVPBotPAKhqhnnnc2AQWnQv19jaYGFLgQdTNBSdqEKsDHChNYPY6uOmTweaAIwuY2ECRBxKFuGQqNIk3wE3HG4BPZ88mIQAxEh8iPBHJDxK2EFkQREl7QBfBohwS_TAxWOYC-QruO2DygmRdSOIAJT8IRE1yhMwEJSpYOEKyNiTkMM2sRSovfbCWl8iFHdBnCobxCtGGsWBsGg9km8YDOSCCWCkkJiiJIqsD8RDhR5aBRkCOEZADxPi14LAHxTAixAmEAZG-MQPxzUB8EAF2HSgGTYCiJkBBICbGM8DI1LVTAMZntA9QGMYEhgSQqcwFAA)]
 
 ## 分析
 
@@ -80,14 +82,14 @@ w: 2.~や
 ================================================================================
 📊 TMD Song Profile: [ 秋 ]
 ================================================================================
-⏱  Duration:       0:31 (31.9s), 17 measures total
+⏱  Duration:       0:30 (30.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  C4 in [Aki #1 @ m.1, 0:01]
    - 最高音: C5 in [Aki #1 @ m.4, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Aki (31.9s)
+🏛  結構:      Aki (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -97,7 +99,7 @@ w: 2.~や
    - 候選調性 (K-S): F 大調 (0.81), C 大調 (0.67), A 小調 (0.63)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Aki #1]: F 大調 (r: 0.81, 自然音純度: 100.0%)
+     • [Aki #1]: F 大調 (r: 0.77, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

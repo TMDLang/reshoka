@@ -69,8 +69,8 @@ B,,8 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](bokuteki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2aW1qcmazEpaWl8Lxz-fM1sxW0tLgUbRUsjbjsbRXcuWyM9U3sQFperJz3fs-sZ3M7X2zY_mT34mcbtoBNejZ7E1D4cdOGx81rHzfvedy08_2ejue9K97v6QQy3Ivy84uBTLDSF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3S9Xz3i-tvP58onPp2x_unbC8ylAEztAYakHDEs9UFiCjeXS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oGKDHn7aueDatHeiApxt6n7V3KgQYAt2RVZCu8KhhMohjCOK839MD1PlyQaNCQYGegokxUM7EBCgI9MmTXT0v23tfzt_8fM0aBWOFl8umgYNnFsjCF6v2P2tYDrKqu_fFzPmgwGzueDl1O1AcaKGhwtNeoFNmgGU6Hzc0AqNDAagSKPWsZf7j5k0v9u153LzwcXObwqOZK20tjYAWgmxrXgGx8OmEDmCQAgWf7tn4Yut2iP1A_S8bNj1tXQo0Euzn9l0vZk59sWI30CKg_SCz5-572TTxyY5OIOPpgqbnM_e8WNjzbNUiUDyBY-jl7DaQZpDuJzsaHjc0vOjoerFtH1Dr48bex01tjxuBaDrIyU2Tnu6ZAhZf8bip4XET0N-djxu3Ar3yfHn3y0Urnm3vBss2gTQ2dj9unPO4cerjxs1gZdMfN_YDVYKseTYDbArQCJAisNGN6yCBBFLXBOQCkx6Q7AYZ3Tn7xf69YCmQOx43dkFsBaYwsCH9aOpBFgDTPljD1seNHRDTgeEHFlkL5gIduP5xEzBtNj1u6IX4fBeQ1wAMx2fTwcY2tjxu6nrcCMwQQOXrn7cuBwsuA4cCUGT248aVYLetBLsBaN46sMpVQJ-_6O0Epjyw-n6w_4FWgUMK4jZwiG59unfji2ktYEXAIJgE9ttMsOk9QGuASp-tA8YfUHbd48bJYHGgsvUE_AWx4On0WU8n7oFFRBNY3VygUkKawWEB1E955oMCBS19Li7fxMw8q4DEohJDhxqDGoVqkA0KNiZadmAGMMtDUvPTDf3P1zeAix9g2bNUQR8YTktABoBU1SgYAGF1blqtgmm8Qg04wkBagVkAmGKByVlBw0QBYoIm2IhlQN3bgdqAmQqIO8CsBUC8EsyaqqDxuGmRJsJ0QwVdYFaqUTBFo42ANIaFu3qwWLgWaOFqkOFNwCy8B0htBds0GcIBO6VpPdDa5gVYrDUBkkZga0EsHNbu6MRi7Wok85v74KyVYOHmmWBrV4N8uwzJWpBlhii-NFQwB1oHdg-6vU9nz8Zi73aIvaugwfm4eT12e5unEmMvSKAaW9zumoLF7hVgr4Ks64W4YhGY0w8m1-AOXVCo6kLFDYAW1SKlTSMi0ibxiRHFCSAfG0NpkBPAIRCPO2FhaIYHEzz8sOqGpA8k3UA9ZrBYBWmD8I0IRDRxBoCdgCfKcHsCrBMUDcbxIBY0InTtFEBxoQCklbm4AA)]
-- [鋼琴伴奏 TMD 檔案](bokuteki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjeufz5mtnv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLIy57WwV3LhtjfRM7rjoFpRcr573fM-vZ3M4XG7Y_2b342YYtSiDhZ7M3AYUfN2143Lz2cfOex007gaY-710BNAnIcC_Kzy8GMsFKX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dL9cPeP52s7nyyc-n7L96doJz6cATewwMjAy0DMwMNMzsDCxABvL5ZuYmWcVkJmYlx_k4VBjUKNQzaUABDYmWnZghr6WwtM9G19s3f50Q__z9Q0KWvpg4RoFAyCszk2rVTCNV6jhgql9vmbNkx0NLxb2IBQaKugqGANpUzTaCEhj6N3Vg1WvCZA0AusFsXDo3dGJohekwxDFPkMFc6AesKHomp_Onk2cZpBANTZf75qC1-UgF-tCxQ2AWmuRg96HhkEP8oUxlAY5AuyreCLDHqIJ6nV4mGDVjRb6YD1msOAGaYPwjYiNAbwGgJ1AbDSgeAKsExQRxvEgFjQqdO0UQLGhAKSVubgA)]
+- [主旋律 TMD 檔案](bokuteki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2aW1qcmazEpaWl8Lxz-fM1sxW0tLgUbRUsjbjsbRXcuWyM9U3sQFperJz3fs-sZ3M7X2zY_mT34mcbtoBNejZ7E1D4cdOGx81rHzfvedy08_2ejue9K97v6QQy3Ivy84uBTLDSF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3S9Xz3i-tvP58onPp2x_unbC8ylAEztAYakHDEs9UFiCjeXS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oGKDHn7aueDatHeiApxt6n7V3KgQYAt2RVZCu8KhhMohjCOK839MD1PlyQaNCQYGegokxUM7EBCgI9MmTXT0v23tfzt_8fM0aBWOFl8umgYNnFsjCF6v2P2tYDrKqu_fFzPmgwGzueDl1O1AcaKGhwtNeoFNmgGU6Hzc0AqNDAagSKPWsZf7j5k0v9u153LzwcXObwqOZK20tjYAWgmxrXgGx8OmEDmCQAgWf7tn4Yut2iP1A_S8bNj1tXQo0Euzn9l0vZk59sWI30CKg_SCz5-572TTxyY5OIOPpgqbnM_e8WNjzbNUiUDyBY-jl7DaQZpDuJzsaHjc0vOjoerFtH1Dr48bex01tjxuBaDrIyU2Tnu6ZAhZf8bip4XET0N-djxu3Ar3yfHn3y0Urnm3vBss2gTQ2dj9unPO4cerjxs1gZdMfN_YDVYKseTYDbArQCJAisNGN6yCBBFLXBOQCkx6Q7AYZ3Tn7xf69YCmQOx43dkFsBaYwsCH9aOpBFgDTPljD1seNHRDTgeEHFlkL5gIduP5xEzBtNj1u6IX4fBeQ1wAMx2fTwcY2tjxu6nrcCMwQQOXrn7cuBwsuA4cCUGT248aVYLetBLsBaN46sMpVQJ-_6O0Epjyw-n6w_4FWgUMK4jZwiG59unfji2ktYEXAIJgE9ttMsOk9QGuASp-tA8YfUHbd48bJYHGgsvUE_AWx4On0WU8n7oFFRBNY3VygUkKawWEB1E955oMCBS19Li7fxMw8q4DEohJDhxpdwxqFapAVCjYmWnZgBjDPQ5Lz0w39z9c3gMsfYOGzVEEfGFBLQCaAVNUoGABhdW5arYJpvEINOMZAWoF5AJhkgelZQcNEAWKCJtiIZUDd24HagLkKiDvArAVAvBLMmqqg8bhpkSbCdEMFXWBeqlEwRaONgDSGhbt6sFi4FmjhapDhTcA8vAdIbQXbNBnCATulaT3Q2uYFWKw1AZJGYGtBLBzW7ujEYu1qJPOb--CslWDh5plga1eDfLsMyVqQZYYovjRUMAdaB3YPur1PZ8_GYu92iL2roMH5uHk9dnubpxJjL0igGlvc7pqCxe4VYK-CrOuFuGIRmNMPJtfgDl1QqOpCxQ2AFtUiJU4jYhIn8akRxQ0gLxtDaZAbwEEQjztlYWiGhxM8ALHqhiQQJN1APWawaAVpg_CNCMQ0cQaAnYAnznB7AqwTFA_G8SAWNCZ07RRAkaEApJW5uAA)]
+- [鋼琴伴奏 TMD 檔案](bokuteki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjeufz5mtnv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLIy57WwV3LhtjfRM7rjoFpRcr573fM-vZ3M4XG7Y_2b342YYtSiDhZ7M3AYUfN2143Lz2cfOex007gaY-710BNAnIcC_Kzy8GMsFKX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dL9cPeP52s7nyyc-n7L96doJz6cATewwMjAy0DMwMNMzsDCxABvL5ZuYmWcVkJmYlx_k4VCja1ijUM2lAAQ2Jlp2YIa-lsLTPRtfbN3-dEP_8_UNClr6YOEaBQMgrM5Nq1UwjVeo4YKpfb5mzZMdDS8W9iAUGiroKhgDaVM02ghIY-jd1YNVrwmQNALrBbFw6N3RiaIXpMMQxT5DBXOgHrCh6Jqfzp5NnGaQQDU2X--agtflIBfrQsUNgFprkcPeh5ZhD_KGMZQGuQLsrXgiAx-iCep3eKBg1Y0W_GA9ZrDwBmmD8I2IjQK8BoCdQGw8oHgCrBMUE8bxIBY0LnTtFEDRoQCklbm4AA)]
 
 ## 分析
 
@@ -78,14 +78,14 @@ B,,8 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 牧笛 ]
 ================================================================================
-⏱  Duration:       0:41 (41.1s), 21 measures total
+⏱  Duration:       0:39 (39.1s), 20 measures total
 🎼 Key & Tempo:    首調基準 G, != 92.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Main #1 @ m.1, 0:01]
    - 最高音: D5 in [Main #1 @ m.3, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (41.1s)
+🏛  結構:      Main (39.1s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -95,7 +95,7 @@ B,,8 z4 |
    - 候選調性 (K-S): G 大調 (0.90), D 大調 (0.78), B 小調 (0.58)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [Main #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

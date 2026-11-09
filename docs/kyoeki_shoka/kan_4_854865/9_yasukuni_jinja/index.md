@@ -69,8 +69,8 @@ w: 2.~き
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yasukuni_jinja.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SU4tSc_PzMhNzEDJp-UW5VsUlRfkFGZnJCOGSjFSgb4tSczLTUQyCiOdm5mSWJBZVoosX5CQmpypxaWkpvJw77emc7udL5z1fsk9BS4tL0VbB0NCIy95WwZkrO7XSVsExl8vGTN_CDmTC0_ZdL2ZOfb9n1tPWjc9ndz2d2gbU9WxF09OZK57umv64oevplI3P1vY8mzrz-fKJz2bvUACynu5Y_XzKCoWn23c_nT37cUP38zVrnuzqedrb-H7vPAjjyY6Glwsa3-_pgEqt3fFsznwgG6j-2exN7_d0gl3v5-Kj4AL0ZElijoIzPBEUKwR4uihAohloQkZJSUGxlb5-So5eHhCn5-tlFegXZKbow1R0PutrftbfrwCKXKBcuhIXl76Wgi21AJeCgsLTvvlAr7_Y3P5iRdeLjnZgeLxYOe9p64pn09qBLgR5A-FkSoOsB807QA8CYwfkiher9j9rWA6yv7v3xcz5QNHHjeuBgk9bVz_taHvc3Pe0dS1Q6unaCUBHvZw-58n-pqcb-oEKFBwVoAxgrCsAlYDN7Hk0c6UtMGEAWY8bep61zH_cvOnJ7qWPm9seNwBV9Dzds_HF1u1AZ4E1dEBseTl_8_M1y4D6wQ5asfvFihmgtDNt3YvGTS-bVwC1AX3zfH0DUCmQBIYCyKDWjSD_AX25oR8o-Lih6eW07pcL1irkpgFlISHxbN1WSGoBBg9EGYgN8Q_YHUArYcqBwliVKOQWAM0GmbcDaEnjk51z4cqe7JoCUta-63n_vqe97QruJkDblIGJpyfE1wXojxnPm3YpmKoDLQGaAIztF2vnPJu2B-I0oFFAW0BkbyO6gfuAMbfh2ZzOZ_2zn21YDDQHGC_AwAwDhiDIoP7NwCh92twKUgROM6DonbPq5cyWZ3umPF3a_2zzimct_cAYfbFq3sv2bqAWLlC4QtwPYj2fv-h5X-fjxnVPdqx93Lj6ceMyoMSLXasfN016Nq35ceN0EIIq3bfyaXc7UOnLtU0gx87pBrLBKpY-bmqEKnrcOP9x49bHjSvAEi2PG6c-btwHMeNx42Swhv2Pm4Di0x83gXwAcQ44DMD5YM6k51OAJqx7tno3MO2BdQEV73s-Z95zULIGK3o5e9OTXVOBLnzc2AS2DMjYAHLR-p6ni4FeWPdy9YxnC3bCXdT2uHHJ48Z-XC4ClmNP5y0GuQWomvLsDAUKWvpcXJGJxaXZpXmZXpl5WYlWYfmZyakONQY11SCbFGwstOzAjOrctFowA1iqaEBSmqYCMJAUaoCOXwDE-4B4ncLj5j1AehVYtBuIVwPxMiDeDxJpmgQKeiDeCsTTwWqmQ3X0gZwCMr5GwQAOjYE8MwVdIDYDJksgUaNgDuSag0mQpGEckAEkIKIQxRAIci5ICdhMH8MahXg4RDhaF-5sEAvmaBAb4mwQC-ZwEBvidBAL5niYdSAPQO0yQrGrcS5YJcQGkLchrKlg0X4Qu6kTyFoPFoW4ax_cXVPBrG6wC7qQ7OqH2gWMisdNbdAQBIY90IEQA8Dh2rgJohTqHZA8SHQp2LhGqK75iHA3BgWmURw8UGGBDQrU6tyCWrTwB4W3MdxRyEENchPImUCXQb0Lcxck6EAug3oD7DYQG-I6EAvmPoR3gbrhQfu4qQkcaBPgkdIENgUSLaD0tQEa1CDRGXCz5yOCsnEtktltSEEJjp8VSIkSEh9TkYJ0MjQ2QekClI6gKaGpF6wDHpRkJloD5ECEegniHkTqgKQJiHtALJiLIGkV5CZ4-gS6CmZyPHIQNi6BBj_xJoOy8n4wqwcsimpyLReXrp0CSjmiABRQ5gIA)]
-- [鋼琴伴奏 TMD 檔案](yasukuni_jinja_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5d9rTOd3Pl857vmTf-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0NCIy95WwZnLxkzfwo6rTkHpafuuFzOnvt8z62nrxuezu55ObQMa8WxF09OZK57umv64oevplI3P1vY8mzrz-fKJz2bvUACynu5Y_XzKCoWn23c_nT37cUP38zVrnuzqedrb-H7vPAjjyY6GlwsagS6BSq3d8WzOfCAbqP7Z7E1A9yiB7PZz8VFwyUzPLEnMUXDOz8lJTS7JzM8rVgjwdFGwMDWxMDMFmpBRUlJQbKWvn5KjlwfE6fl6WQX6BZkp-jAVnc_6mp_19ysEGBiaAeXSlbi4IhOLS7NL8zK9MvOyEq0CMhPz8oM8HGoMaqq5FIDAxkLLDsyozk2rBTP0tRQ0nu7Z-GLrdk2Fx00tCjUKjxsXAPE-IF6n8Lh5D5BeBRbtBuLVQLwMiPeDRJomAVnzgXgrEE8Hq5kO1dGnoKUPNr5GwQAOjYE8MwVdIDZTMFUHEjUK5kCuOZgESRrGARlAAiIKUQyBIOeClIDN9DGsUYiHQ4SjdeHOBrFgjgaxIc4GsWAOB7EhTgexYI6HWQfyANQuIxS7GueCVUJsAHkbwpoKFu0HsZs6gaz1YFGIu_bB3TUVzOoGu6ALya5-qF3AqHjc1AYNQWDYAx0IMQAcro2bIEqh3gHJg0SXgo1rhOqajwh3Y1BgGsXBAxUW2KBArc4tqEULf1B4G8MdhRzUIDeBnAl0GdS7MHdBgg7kMqg3wG4DsSGuA7Fg7kN4F6gbHrSPm5rAgTYBHilNYFMg0QJKXxugQQ0SnQE3ez4iKBvXIpndhhSU4PhZgZQoIfExFSlIJ0NjE5QuQOkImhKaesE64EFJZqI1QA5EqJcg7kGkDkiagLgHxIK5CJJWQW6Cp0-gq2AmxyMHYeMSaPATbzIoK-8Hs3rAoqgm12ItRnywFSPAcH7R1_Wyvfdp646Xs1sh5S4i4AzjFUzjFaINY5FYNUBoEq9gqBBtgiIM1WIaH69gBBQyjUVmgjThkIHqw2YkQU3kWkZHf6FYZQCMIXD86NopoERRtA9QAaagEVhQmQsA)]
+- [主旋律 TMD 檔案](yasukuni_jinja.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SU4tSc_PzMhNzEDJp-UW5VsUlRfkFGZnJCOGSjFSgb4tSczLTUQyCiOdm5mSWJBZVoosX5CQmpypxaWkpvJw77emc7udL5z1fsk9BS4tL0VbB0NCIy95WwZkrO7XSVsExl8vGTN_CDmTC0_ZdL2ZOfb9n1tPWjc9ndz2d2gbU9WxF09OZK57umv64oevplI3P1vY8mzrz-fKJz2bvUACynu5Y_XzKCoWn23c_nT37cUP38zVrnuzqedrb-H7vPAjjyY6Glwsa3-_pgEqt3fFsznwgG6j-2exN7_d0gl3v5-Kj4AL0ZElijoIzPBEUKwR4uihAohloQkZJSUGxlb5-So5eHhCn5-tlFegXZKbow1R0PutrftbfrwCKXKBcuhIXl76Wgi21AJeCgsLTvvlAr7_Y3P5iRdeLjnZgeLxYOe9p64pn09qBLgR5A-FkSoOsB807QA8CYwfkiher9j9rWA6yv7v3xcz5QNHHjeuBgk9bVz_taHvc3Pe0dS1Q6unaCUBHvZw-58n-pqcb-oEKFBwVoAxgrCsAlYDN7Hk0c6UtMGEAWY8bep61zH_cvOnJ7qWPm9seNwBV9Dzds_HF1u1AZ4E1dEBseTl_8_M1y4D6wQ5asfvFihmgtDNt3YvGTS-bVwC1AX3zfH0DUCmQBIYCyKDWjSD_AX25oR8o-Lih6eW07pcL1irkpgFlISHxbN1WSGoBBg9EGYgN8Q_YHUArYcqBwliVKOQWAM0GmbcDaEnjk51z4cqe7JoCUta-63n_vqe97QruJkDblIGJpyfE1wXojxnPm3YpmKoDLQGaAIztF2vnPJu2B-I0oFFAW0BkbyO6gfuAMbfh2ZzOZ_2zn21YDDQHGC_AwAwDhiDIoP7NwCh92twKUgROM6DonbPq5cyWZ3umPF3a_2zzimct_cAYfbFq3sv2bqAWLlC4QtwPYj2fv-h5X-fjxnVPdqx93Lj6ceMyoMSLXasfN016Nq35ceN0EIIq3bfyaXc7UOnLtU0gx87pBrLBKpY-bmqEKnrcOP9x49bHjSvAEi2PG6c-btwHMeNx42Swhv2Pm4Di0x83gXwAcQ44DMD5YM6k51OAJqx7tno3MO2BdQEV73s-Z95zULIGK3o5e9OTXVOBLnzc2AS2DMjYAHLR-p6ni4FeWPdy9YxnC3bCXdT2uHHJ48Z-XC4ClmNP5y0GuQWomvLsDAUKWvpcXJGJxaXZpXmZXpl5WYlWYfmZyakONbqGNdUgqxRsLLTswIzq3LRaMANYrGhAkpqmAjCUFGqArl8AxPuAeJ3C4-Y9QHoVWLQbiFcD8TIg3g8SaZoECnsg3grE08FqpkN19IHcAjK-RsEADo2BPDMFXSA2A6ZLIFGjYA7kmoNJkKRhHJABJCCiEMUQCHIuSAnYTB_DGoV4OEQ4WhfubBAL5mgQG-JsEAvmcBAb4nQQC-Z4mHUgD0DtMkKxq3EuWCXEBpC3IaypYNF-ELupE8haDxaFuGsf3F1TwaxusAu6kOzqh9oFjIrHTW3QEASGPdCBEAPA4dq4CaIU6h2QPEh0Kdi4Rqiu-YhwNwYFplEcPFBhgQ0K1Orcglq08AeFtzHcUchBDXITyJlAl0G9C3MXJOhALoN6A-w2EBviOhAL5j6Ed4G64UH7uKkJHGgT4JHSBDYFEi2g9LUBGtQg0Rlws-cjgrJxLZLZbUhBCY6fFUiJEhIfU5GCdDI0NkHpApSOoCmhqResAx6UZCZaA-RAhHoJ4h5E6oCkCYh7QCyYiyBpFeQmePoEugpmcjxyEDYugQY_8SaDsvJ-MKsHLIpqci0Xl66dAkpBogAUUOYCAA)]
+- [鋼琴伴奏 TMD 檔案](yasukuni_jinja_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5d9rTOd3Pl857vmTf-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0NCIy95WwZnLxkzfwo6rTkHpafuuFzOnvt8z62nrxuezu55ObQMa8WxF09OZK57umv64oevplI3P1vY8mzrz-fKJz2bvUACynu5Y_XzKCoWn23c_nT37cUP38zVrnuzqedrb-H7vPAjjyY6GlwsagS6BSq3d8WzOfCAbqP7Z7E1A9yiB7PZz8VFwyUzPLEnMUXDOz8lJTS7JzM8rVgjwdFGwMDWxMDMFmpBRUlJQbKWvn5KjlwfE6fl6WQX6BZkp-jAVnc_6mp_19ysEGBiaAeXSlbi4IhOLS7NL8zK9MvOyEq0CMhPz8oM8HGp0DWuquRSAwMZCyw7MqM5NqwUz9LUUNJ7u2fhi63ZNhcdNLQo1Co8bFwDxPiBep_C4eQ-QXgUW7Qbi1UC8DIj3g0SaJgFZ84F4KxBPB6uZDtXRp6ClDza-RsEADo2BPDMFXSA2UzBVBxI1CuZArjmYBEkaxgEZQAIiClEMgSDngpSAzfQxrFGIh0OEo3XhzgaxYI4GsSHOBrFgDgexIU4HsWCOh1kH8gDULiMUuxrnglVCbAB5G8KaChbtB7GbOoGs9WBRiLv2wd01FczqBrugC8mufqhdwKh43NQGDUFg2AMdCDEAHK6NmyBKod4ByYNEl4KNa4Tqmo8Id2NQYBrFwQMVFtigQK3OLahFC39QeBvDHYUc1CA3gZwJdBnUuzB3QYIO5DKoN8BuA7EhrgOxYO5DeBeoGx60j5uawIE2AR4pTWBTINECSl8boEENEp0BN3s-Iigb1yKZ3YYUlOD4WYGUKCHxMRUpSCdDYxOULkDpCJoSmnrBOuBBSWaiNUAORKiXIO5BpA5ImoC4B8SCuQiSVkFugqdPoKtgJscjB2HjEmjwE28yKCvvB7N6wKKoJtdiLUd8sJYjwIB-0df1sr33aeuOl7NbISUvIuQM4xVM4xWiDWORWDVAaBKvYKgQbYIiDNViGh-vYAQUMo1FZoI04ZCB6sNmJEFN5FpGR3-hWGUAjCJwBOnaKaDEUbQPUAGmoBFYUJkLAA)]
 
 ## 分析
 
@@ -78,14 +78,14 @@ w: 2.~き
 ================================================================================
 📊 TMD Song Profile: [ 靖國神社 ]
 ================================================================================
-⏱  Duration:       0:20 (20.9s), 13 measures total
+⏱  Duration:       0:19 (19.3s), 12 measures total
 🎼 Key & Tempo:    首調基準 C, != 112.0 BPM, <6/8>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    E4 (MIDI 64) – E5 (MIDI 76) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  E4 in [YasukuniJinja #1 @ m.1, 0:01]
    - 最高音: E5 in [YasukuniJinja #1 @ m.6, 0:08]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      YasukuniJinja (20.9s)
+🏛  結構:      YasukuniJinja (19.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
@@ -93,16 +93,16 @@ w: 2.~き
    - 核心骨幹音:  B, A, E, C, G#
    - 調性數值:    A 小調 [相關度: 0.66, 穩定度: Moderate, 自然音純度: 97.2%]
    - 候選調性 (K-S): A 小調 (0.66), E 大調 (0.61), A 大調 (0.56)
-   - 五度圈歷程:   +3
+   - 五度圈歷程:   +4
    - 各段落調性細節:
-     • [YasukuniJinja #1]: A 小調 (r: 0.66, 自然音純度: 97.2%, 調外音: G#)
+     • [YasukuniJinja #1]: E 調性不明確 (r: 0.63, 自然音純度: 85.1%, 調外音: C, D)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
       Bb               D  
-      Eb              [A ]*
-         Ab           E  
+      Eb               A  
+         Ab          [E ]*
             Db       B  
                F# 
      (* = active key center)
