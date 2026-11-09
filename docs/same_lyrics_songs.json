@@ -1,13 +1,11 @@
 {
   "total_corpus_songs": 1087,
-  "same_lyrics_different_melody_group_count": 29,
+
+  "same_lyrics_different_melody_group_count": 28,
   "groups": [
     {
       "lyrics": "あさかぜさつとふいてきておおはたひらひらこはたひらひろうんどうくゎいがいまはじまつたあかぼうしろぼうみどりのぼうしならぶせいとはげんきにみちてかけだすあしなみい",
-      "titles": [
-        "うんどうくわい",
-        "運動會"
-      ],
+      "titles": ["うんどうくわい", "運動會"],
       "versions": [
         {
           "id": "kogakko_shokashu_1915/3_05_undokai",
@@ -53,9 +51,7 @@
     },
     {
       "lyrics": "あさひはのぼりぬひはいでぬうみにはほずなおたぐりあげおひてにほあげちょうなでするあまびといまやいさむらん",
-      "titles": [
-        "朝の歌"
-      ],
+      "titles": ["朝の歌"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta",
@@ -87,9 +83,7 @@
     },
     {
       "lyrics": "あちらのやまにくろくもおこりひらめくいなずまぴかぴかぴかなりだすかみなりごろごろごろみるまにそらはくらくなる",
-      "titles": [
-        "夕立"
-      ],
+      "titles": ["夕立"],
       "versions": [
         {
           "id": "kogakko_shoka/grade_4/7_yudachi",
@@ -142,9 +136,7 @@
     },
     {
       "lyrics": "いかだかずらがさきだしたみどりのたなおいちめんにあかむらさきのいろにそめいかだかずらがさきだした",
-      "titles": [
-        "いかだかづら"
-      ],
+      "titles": ["いかだかづら"],
       "versions": [
         {
           "id": "shintei_jido_shoka/grade_4_2020.006.0847.0004/3_03_ikadakazura",
@@ -175,44 +167,8 @@
       ]
     },
     {
-      "lyrics": "いちげはなもいつしかさんちりかすぎてあおばあおばすずしきよよとなればたちばなたちばなかおるしたしたかげににかきねかきねのほとりゅううのはなはなのにおひにほふゆう",
-      "titles": [
-        "夏げしき"
-      ],
-      "versions": [
-        {
-          "id": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_07_natsugeshiki",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_07_natsugeshiki",
-              "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_07_natsugeshiki/index.md",
-              "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
-              "raw_title": "夏げしき",
-              "year": 1934
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/koto_girls_2020.006.0849/1_1_05_natsugeshiki",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_1_05_natsugeshiki",
-              "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_1_05_natsugeshiki/index.md",
-              "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
-              "raw_title": "夏げしき",
-              "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
       "lyrics": "おおみこころおこころとしわがたかさごのたみぐさおそだてつちかひおしなべてかいくゎのつゆにゅうるほはせ",
-      "titles": [
-        "にぎみたま"
-      ],
+      "titles": ["にぎみたま"],
       "versions": [
         {
           "id": "kogakko_shokashu_1915/5_06_nigimitama",
@@ -258,10 +214,7 @@
     },
     {
       "lyrics": "おふろのすきなすいぎゅうはのはらのおふろでいいきもちかたまでとつぷりいいきもち",
-      "titles": [
-        "スヰギウ",
-        "水牛"
-      ],
+      "titles": ["スヰギウ", "水牛"],
       "versions": [
         {
           "id": "taiwan_no_uta/3_suigyu",
@@ -300,9 +253,7 @@
     },
     {
       "lyrics": "かすむそらにあがるひばりおもしろたかくのしてすがたみえぬうたのみおちくる",
-      "titles": [
-        "雲雀"
-      ],
+      "titles": ["雲雀"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_3_4/36_hibari",
@@ -334,9 +285,7 @@
     },
     {
       "lyrics": "ががたるいいはほつらなりてこそらあにそばだつめうぎさんなつきてきいけばほととぎすふもとのわかばのかげになく",
-      "titles": [
-        "妙義山"
-      ],
+      "titles": ["妙義山"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/11_myogisan",
@@ -375,9 +324,7 @@
     },
     {
       "lyrics": "きょうのよきひはおおきみのうまれたまひしよきひなりひかりあまねききみがよおいはへもろびともろともに",
-      "titles": [
-        "天長節"
-      ],
+      "titles": ["天長節"],
       "versions": [
         {
           "id": "kogakko_shokashu_1915/2_01_tenchosetsu",
@@ -423,9 +370,7 @@
     },
     {
       "lyrics": "くさあばのつゆおふみいわけえてきこおりはやまにのぼおりゆうくううれえしきあさあよたのおしきあさあよくうもおらぬひかげはたかねよおり",
-      "titles": [
-        "朝"
-      ],
+      "titles": ["朝"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/29_asa",
@@ -464,11 +409,7 @@
     },
     {
       "lyrics": "こんごうせきもみがかずばたまのひかりはそはざらんひともまなびてのちにこそまことのとくはあらはるれとけいのはりのたえまなくめぐるがごとくときのまのひかげおしみては",
-      "titles": [
-        "金剛石・水はうつは",
-        "金剛石・水は器",
-        "金剛石、水は器"
-      ],
+      "titles": ["金剛石・水はうつは", "金剛石・水は器", "金剛石、水は器"],
       "versions": [
         {
           "id": "kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa",
@@ -514,9 +455,7 @@
     },
     {
       "lyrics": "ぜんしんどろにまみれつつゆよりもあつきみずかきわけてたぐさとるなりのうふらはとれやとれとれたゆみなくつとめてこそはそのできあきにほにほさかゆるみもむすべ",
-      "titles": [
-        "農商工"
-      ],
+      "titles": ["農商工"],
       "versions": [
         {
           "id": "kogakko_shoka/grade_5/9_no_sho_ko",
@@ -562,9 +501,7 @@
     },
     {
       "lyrics": "そらにつきなくほしさへなくていっすんさきすらみえざるよるにおきのきせんやぐんかんなどはなにおめあてにこうろおきむる",
-      "titles": [
-        "燈臺"
-      ],
+      "titles": ["燈臺"],
       "versions": [
         {
           "id": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_08_todai",
@@ -596,10 +533,7 @@
     },
     {
       "lyrics": "たいわんじんじゃのおまつりびたいこはどんどんなつていることしはほうねんよいとしだほうらいまいおそなへませうみこしかついでえっさっさたいこかついでえっさっさたいわ",
-      "titles": [
-        "おまつり日",
-        "お祭日"
-      ],
+      "titles": ["おまつり日", "お祭日"],
       "versions": [
         {
           "id": "taiwan_no_uta/2_omatsuribi",
@@ -638,9 +572,7 @@
     },
     {
       "lyrics": "たちならぶまつのきせんねんのこみどりわだかまるおおいはそのすがたおもしろなみはしろくまさごじはきよらかまほやかたほおきとおくこぎゆく",
-      "titles": [
-        "松島"
-      ],
+      "titles": ["松島"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/17_matsushima",
@@ -679,9 +611,7 @@
     },
     {
       "lyrics": "ちさとのやまさかひたばしりくるまはけぶりおあとにしてたのしののぞみおのせゆくときゅうれしのたびじおかけゆくときひびくやわだちのとどろきにこころもそらにぞいさむな",
-      "titles": [
-        "汽車の旅"
-      ],
+      "titles": ["汽車の旅"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/32_kisha_no_tabi",
@@ -720,9 +650,7 @@
     },
     {
       "lyrics": "つゆがちるつゆがちるつきのひかりのてるにはにきらきらきらとつゆがちるさやさやゆれるはかげではつゆのちるのごうれしいかころろころろとむしがなく",
-      "titles": [
-        "つゆと虫"
-      ],
+      "titles": ["つゆと虫"],
       "versions": [
         {
           "id": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_06_tsuyu_to_mushi",
@@ -754,10 +682,7 @@
     },
     {
       "lyrics": "ながいおやすみなにしてくらそうあさはおさらへそれからはせみおとつたりまりなげしたりたまにゅうおつりみずあそび",
-      "titles": [
-        "ながいお休",
-        "長いお休"
-      ],
+      "titles": ["ながいお休", "長いお休"],
       "versions": [
         {
           "id": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi",
@@ -789,9 +714,7 @@
     },
     {
       "lyrics": "なのはなばたけにいりひゅうすれみわたすやまのはかすみふかしはるかぜそよふくそらおみればゆうずきかかりてにほひあはし",
-      "titles": [
-        "朧月夜"
-      ],
+      "titles": ["朧月夜"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo",
@@ -830,10 +753,7 @@
     },
     {
       "lyrics": "はげしきあめかぜてんちくらくやまなすあらなみたけりくるふみよみよかしこにあはれおぶねしようしのさかひとすくひもとむ",
-      "titles": [
-        "助船",
-        "助け舟"
-      ],
+      "titles": ["助船", "助け舟"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/35_tasukebune",
@@ -865,11 +785,7 @@
     },
     {
       "lyrics": "はなこそかおらねわがこのそのつきこそにほはねわがこののきかすみはときはにまがきおこめはるかぜのどかにそでにふけり",
-      "titles": [
-        "樂しき我が家",
-        "樂しき我家",
-        "樂シキ我家"
-      ],
+      "titles": ["樂しき我が家", "樂しき我家", "樂シキ我家"],
       "versions": [
         {
           "id": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
@@ -922,9 +838,7 @@
     },
     {
       "lyrics": "ばんりのはとうおひらけとはめいじのみかどのおおみこといまやかいがいはつてんのきゅうんはじゆくせりときはきぬ",
-      "titles": [
-        "南洋の歌"
-      ],
+      "titles": ["南洋の歌"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/43_nanyo_no_uta",
@@ -956,9 +870,7 @@
     },
     {
       "lyrics": "ひとつとやひとびとちゅうぎおだいいちにだいいちにあふげやたかききみのおんくにのおん",
-      "titles": [
-        "數へ歌"
-      ],
+      "titles": ["數へ歌"],
       "versions": [
         {
           "id": "kogakko_shokashu_1915/4_07_kazoeuta",
@@ -990,10 +902,7 @@
     },
     {
       "lyrics": "まつばらとおくきゆるところしらほのかげほうかぶほしあみはまにたかくしてかもめはひくくなみにとぶみよひるのうみみよひるのうみ",
-      "titles": [
-        "海",
-        "海（其二）"
-      ],
+      "titles": ["海", "海（其二）"],
       "versions": [
         {
           "id": "kogakko_shoka/grade_5/7_umi",
@@ -1039,9 +948,7 @@
     },
     {
       "lyrics": "まるはまきばおそよがせてあさかぜわたるいけのおもたつやさざなみゅうきはおこえてまろびまろびつゆのたまああすずしすずしあけぼの",
-      "titles": [
-        "蓮池"
-      ],
+      "titles": ["蓮池"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/grade_5_6/48_hasuike",
@@ -1073,9 +980,7 @@
     },
     {
       "lyrics": "やままたやまとかさなれるむしゃのあたりのはるびよりくもかかすみかとこなつのしまにもかくぞとばかりにあさひおうけてさくはなのそのいろかこそゆかしけれ",
-      "titles": [
-        "臺灣の風景"
-      ],
+      "titles": ["臺灣の風景"],
       "versions": [
         {
           "id": "kogakko_shokashu_1915/6_07_taiwan_no_fukei",
@@ -1114,9 +1019,7 @@
     },
     {
       "lyrics": "わがくにへいしのゆうきおみよやゆうきおみよやくんしゅにほうずるちゅうぎはたかしひまらやさんのけんそもなにぞこっかにつくすこうぎはふかしたいへいようのふうはもなに",
-      "titles": [
-        "我國兵士"
-      ],
+      "titles": ["我國兵士"],
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/koto_1_2/32_wagakuni_heishi",
@@ -1155,9 +1058,7 @@
     },
     {
       "lyrics": "わだのはらにしまのごとくみゆるはよするあたおふせぐふねよあおおしたけしいくさぶねよ",
-      "titles": [
-        "軍艦"
-      ],
+      "titles": ["軍艦"],
       "versions": [
         {
           "id": "shokacho/vol_08/p012_gunkan",

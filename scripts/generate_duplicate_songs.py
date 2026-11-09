@@ -829,13 +829,13 @@ def extract_lyrics_hiragana(tmd_text: str) -> str:
             lines = m.group(0).splitlines()
             for index, line in enumerate(lines):
                 s = line.strip()
-                if not re.match(r"^[一二三四五六七八九十百]+[、．.]", s):
+                if not re.match(r"^[一二三四五六七八九十百]+(?:[、．.]|$)", s):
                     continue
                 for lyric_line in lines[index + 1 :]:
                     lyric = lyric_line.strip()
                     if not lyric:
                         continue
-                    if re.match(r"^[一二三四五六七八九十百]+[、．.]", lyric):
+                    if re.match(r"^[一二三四五六七八九十百]+(?:[、．.]|$)", lyric):
                         break
                     if len(re.findall(r"[ぁ-んァ-ヶ]", lyric)) >= 3 and not any(
                         k in lyric for k in ("Source", "調", "拍", "速度", "原書", "詞", "曲", "語釋")
@@ -860,6 +860,9 @@ def extract_lyrics_hiragana(tmd_text: str) -> str:
         # historical kana reading.  These readings are intentionally limited
         # to common lyric vocabulary rather than treating every kanji reading
         # as certain.
+        # Remove furigana in parentheses first; otherwise a line such as
+        # `足柄山（あしがらやま）` is counted twice.
+        raw = re.sub(r"[（(][^）)]*[）)]", "", raw)
         for kanji, reading in (
             ("海國兒", "かいこくじ"),
             ("海國", "かいこく"),
