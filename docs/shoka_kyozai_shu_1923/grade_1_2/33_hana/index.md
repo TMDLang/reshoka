@@ -14,7 +14,9 @@ audio: "hana.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="hana.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hana_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="hana.mp3"></audio>
+
 
 - 詞：文部省（臺灣總督府改作）
 - 曲：文部省

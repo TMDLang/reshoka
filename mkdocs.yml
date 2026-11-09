@@ -179,6 +179,7 @@ nav:
       - "1 臺灣周遊唱歌（簡單版・第一～四節）": taiwan_shuyu_shoka/1_taiwan_shuyu_shoka/index.md
       - "2 臺灣周遊唱歌（完整版・全九〇節）": taiwan_shuyu_shoka/2_taiwan_shuyu_shoka_full/index.md
   - 公學校唱歌集（大正四年／1915）:
+      - 專題統計: kogakko_shokashu_1915/analysis.md
       - 總覽: kogakko_shokashu_1915/index.md
       - 書訊與掃描頁: kogakko_shokashu_1915/0_book_info/index.md
       - "1-01 君が代": kogakko_shokashu_1915/1_01_kimigayo/index.md
@@ -228,6 +229,7 @@ nav:
       - "6-08 開校記念日": kogakko_shokashu_1915/6_08_kaiko_kinenbi/index.md
       - "6-09 卒業の歌": kogakko_shokashu_1915/6_09_sotsugyo_no_uta/index.md
   - 新編小學校・公學校唱歌教材集（大正十二年／1923）:
+      - 專題統計: shoka_kyozai_shu_1923/analysis.md
       - 尋常科 第一、二學年:
           - 總覽: shoka_kyozai_shu_1923/grade_1_2/index.md
           - 書訊與掃描頁: shoka_kyozai_shu_1923/grade_1_2/0_book_info/index.md

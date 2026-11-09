@@ -14,7 +14,9 @@ audio: "nawatobi.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="nawatobi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nawatobi_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="nawatobi.mp3"></audio>
+
 
 - 詞：臺灣總督府
 - 曲：宮島慎三郎

@@ -107,6 +107,8 @@ MKDOCS_CONFIG_HEADER: list[str] = [
 COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
     "shintei_jido_shoka": [("專題統計", "shintei_jido_shoka/index.md")],
     "kyoeki_shoka": [("專題統計", "kyoeki_shoka/index.md")],
+    "kogakko_shokashu_1915": [("專題統計", "kogakko_shokashu_1915/analysis.md")],
+    "shoka_kyozai_shu_1923": [("專題統計", "shoka_kyozai_shu_1923/analysis.md")],
     "kogakko_shoka": [
         ("懸賞募集入選歌詞與作詞者名單", "kogakko_shoka/lyrics_contest/index.md"),
     ],

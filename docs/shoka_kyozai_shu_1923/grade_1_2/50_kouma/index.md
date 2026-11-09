@@ -14,7 +14,9 @@ audio: "kouma.mp3"
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kouma.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kouma_neutrino.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kouma.mp3"></audio>
+
 
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
 - 尋常科第一、二學年用（第 100–101 頁）
