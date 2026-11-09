@@ -400,6 +400,7 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
         "同曲": [
             {
                 "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
+                "shoka_kyozai_shu_1923/koto_1_2/37_gunkan",
                 "shokacho/vol_08/p012_gunkan",
             }
         ],
@@ -430,14 +431,22 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
         "同曲": [
             {
                 "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu",
+                "shoka_kyozai_shu_1923/grade_5_6/45_kaiyu",
                 "shokacho/vol_10/p206_kaiyu",
             }
         ],
     },
     "kokubetsu": {
+        "同曲": [
+            {
+                "shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta",
+                "shokacho/vol_10/p197_sobetsu_no_uta",
+            }
+        ],
         "同曲異詞": [
             {
                 "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_19_kokubetsu",
+                "shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta",
                 "shokacho/vol_03/p042_hotaru_no_hikari",
                 "shokacho/vol_10/p197_sobetsu_no_uta",
             }
@@ -471,7 +480,11 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             {
                 "kogakko_shoka/grade_5/14_niitakayama",
                 "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_06_niitakayama",
-            }
+            },
+            {
+                "shoka_kyozai_shu_1923/koto_1_2/17_niitakayama",
+                "shokacho/vol_10/p202_niitakayama",
+            },
         ],
     },
     "niji": {
@@ -482,7 +495,14 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             }
         ],
     },
-    "ninomiyasontoku": {},  # all pairs 同名異曲
+    "ninomiyasontoku": {
+        "同曲": [
+            {
+                "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku",
+                "shoka_kyozai_shu_1923/koto_1_2/02_ninomiya_sontoku",
+            }
+        ],
+    },
     "omatsuribi": {
         "同曲": [
             {
@@ -503,14 +523,20 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             {
                 "kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu",
                 "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko",
+                "shoka_kyozai_shu_1923/koto_1_2/34_sho_nanko",
                 "shokacho/vol_02/p089_sho_nanko",
-            }
+            },
+            {
+                "kogakko_shokashu_1915/5_03_sakurai_no_wakare",
+                "shoka_kyozai_shu_1923/grade_5_6/06_sakurai_no_wakare",
+            },
         ],
     },
     "sotsugyonouta": {
         "同曲": [
             {
                 "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta",
+                "shoka_kyozai_shu_1923/koto_1_2/38_sotsugyo_no_uta",
                 "shokacho/vol_10/p201_sotsugyo_no_uta",
             }
         ],
@@ -520,7 +546,11 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             {
                 "kogakko_shoka/grade_2/6_suigyu",
                 "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu",
-            }
+            },
+            {
+                "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu",
+                "shoka_kyozai_shu_1923/grade_3_4/44_suigyu",
+            },
         ],
         "同詞異曲": [
             {
@@ -536,6 +566,7 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
                 "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
                 "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya",
                 "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
+                "shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya",
             }
         ],
         "同詞異曲": [
@@ -543,6 +574,7 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
                 "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
                 "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya",
                 "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
+                "shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya",
                 "shokacho/vol_08/p027_tanoshiki_waga_ie",
             }
         ],
@@ -568,6 +600,7 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             {
                 "kogakko_shoka/grade_5/7_umi",
                 "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi",
+                "shoka_kyozai_shu_1923/grade_5_6/08_umi",
                 "shokacho/vol_03/p039_umi",
             },
             {
@@ -581,21 +614,29 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             {
                 "kogakko_shoka/grade_3/10_undokai",
                 "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai",
-            }
+            },
+            {
+                "kogakko_shokashu_1915/3_05_undokai",
+                "shoka_kyozai_shu_1923/grade_3_4/05_undokai",
+            },
         ],
         "同詞異曲": [
             {
                 "kogakko_shoka/grade_3/10_undokai",
                 "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai",
                 "kogakko_shokashu_1915/3_05_undokai",
+                "shoka_kyozai_shu_1923/grade_3_4/05_undokai",
             }
         ],
     },
     "urashimataro": {
         "同曲": [
             {
+                "kogakko_shoka/grade_2/12_urashimataro",
                 "kogakko_shokashu_1915/2_07_urashima_taro",
                 "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro",
+                "shoka_kyozai_shu_1923/grade_1_2/51_urashima_taro",
+                "utanohon/ge_2006.006.0878/14_urashimataro",
             }
         ],
     },
