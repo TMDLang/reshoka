@@ -27,7 +27,7 @@ FurusatoNoOgawa:PianoRH@|-1|{
     L2| ご - と の - - | ゆ - め に - な | が - - れ - ゆ | く - - - - _ |
 }
 
-FurusatoNoOgawa:PianoLH@|0|{
+FurusatoNoOgawa:PianoLH@|-1|{
     <8*>
     /* 莊重典雅伴奏 */
     | 1_ 5_ [1] 1_ 5_ [1] | | 5__ 2_ [5] 5__ 2_ [5] |

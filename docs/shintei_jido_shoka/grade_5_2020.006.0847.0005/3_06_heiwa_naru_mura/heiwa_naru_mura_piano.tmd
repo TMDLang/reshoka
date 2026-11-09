@@ -30,7 +30,7 @@ HeiwaNaruMura:PianoRH@|-1|{
     L2| れ ら の - - む | ら - は - _ い | や さ か - ゆ な | り - - - _ - |
 }
 
-HeiwaNaruMura:PianoLH@|0|{
+HeiwaNaruMura:PianoLH@|-1|{
     <4*>
     /* 溫馨祥和之田園三拍子左手伴奏 */
     | 0 0 0 | {p} 1_ [1] 5__ | 1_ [1] 0 | 5__ [5_] 1_ | 5__ [5_] 0 |

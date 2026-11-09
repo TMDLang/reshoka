@@ -27,7 +27,7 @@ MatsuNoMisao:PianoRH@|-1|{
     L2| る - も み - ぢ | ば - - に - な | ら - - は - ん | や - - - - _ |
 }
 
-MatsuNoMisao:PianoLH@|0|{
+MatsuNoMisao:PianoLH@|-1|{
     <8*>
     /* 莊重典雅伴奏 */
     | 1_ 5_ [1] 1_ 5_ [1] | | 5__ 2_ [5] 5__ 2_ [5] |
