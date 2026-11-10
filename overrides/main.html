@@ -1,65 +1,65 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
-  {{ super() }}
-  {% set page_title = config.site_name %}
-  {% if page and page.meta and page.meta.title %}
-    {% set page_title = page.meta.title ~ " | " ~ config.site_name %}
-  {% elif page and page.title and not page.is_homepage %}
-    {% set page_title = page.title ~ " | " ~ config.site_name %}
-  {% endif %}
+{{ super() }}
+{% set page_title = config.site_name %}
+{% if page and page.meta and page.meta.title %}
+{% set page_title = page.meta.title ~ " | " ~ config.site_name %}
+{% elif page and page.title and not page.is_homepage %}
+{% set page_title = page.title ~ " | " ~ config.site_name %}
+{% endif %}
 
-  {% set page_desc = config.site_description %}
-  {% if page and page.meta and page.meta.description %}
-    {% set page_desc = page.meta.description %}
-  {% endif %}
+{% set page_desc = config.site_description %}
+{% if page and page.meta and page.meta.description %}
+{% set page_desc = page.meta.description %}
+{% endif %}
 
-  {% set page_url = page.canonical_url if page and page.canonical_url else config.site_url %}
+{% set page_url = page.canonical_url if page and page.canonical_url else config.site_url %}
 
-  {% set page_image = "" %}
-  {% if page and page.meta and page.meta.image %}
-    {% if page.meta.image.startswith("http") %}
-      {% set page_image = page.meta.image %}
-    {% elif page.canonical_url %}
-      {% set page_image = page.canonical_url ~ page.meta.image %}
-    {% endif %}
-  {% else %}
-    {% set page_image = config.site_url ~ "shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg" %}
-  {% endif %}
+{% set page_image = "" %}
+{% if page and page.meta and page.meta.image %}
+{% if page.meta.image.startswith("http") %}
+{% set page_image = page.meta.image %}
+{% elif page.canonical_url %}
+{% set page_image = page.canonical_url ~ page.meta.image %}
+{% endif %}
+{% else %}
+{% set page_image = config.site_url ~ "shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg" %}
+{% endif %}
 
-  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
-  {% if page and page.meta and page.meta.keywords %}
-  <meta name="keywords" content="{{ page.meta.keywords | e }}">
-  {% endif %}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+{% if page and page.meta and page.meta.keywords %}
+<meta name="keywords" content="{{ page.meta.keywords | e }}">
+{% endif %}
 
-  <!-- Open Graph / Facebook / LINE -->
-  <meta property="og:type" content="{{ page.meta.og_type if page and page.meta and page.meta.og_type else 'article' }}">
-  <meta property="og:site_name" content="{{ config.site_name | e }}">
-  <meta property="og:locale" content="zh_TW">
-  <meta property="og:locale:alternate" content="ja_JP">
-  <meta property="og:title" content="{{ page_title | e }}">
-  <meta property="og:description" content="{{ page_desc | e }}">
-  <meta property="og:url" content="{{ page_url | e }}">
-  {% if page_image %}
-  <meta property="og:image" content="{{ page_image | e }}">
-  <meta property="og:image:alt" content="{{ page_title | e }}">
-  {% endif %}
-  {% if page and page.meta and page.meta.audio and page.canonical_url %}
-  <meta property="og:audio" content="{{ (page.canonical_url ~ page.meta.audio) | e }}">
-  <meta property="og:audio:type" content="audio/mpeg">
-  {% endif %}
+<!-- Open Graph / Facebook / LINE -->
+<meta property="og:type" content="{{ page.meta.og_type if page and page.meta and page.meta.og_type else 'article' }}">
+<meta property="og:site_name" content="{{ config.site_name | e }}">
+<meta property="og:locale" content="zh_TW">
+<meta property="og:locale:alternate" content="ja_JP">
+<meta property="og:title" content="{{ page_title | e }}">
+<meta property="og:description" content="{{ page_desc | e }}">
+<meta property="og:url" content="{{ page_url | e }}">
+{% if page_image %}
+<meta property="og:image" content="{{ page_image | e }}">
+<meta property="og:image:alt" content="{{ page_title | e }}">
+{% endif %}
+{% if page and page.meta and page.meta.audio and page.canonical_url %}
+<meta property="og:audio" content="{{ (page.canonical_url ~ page.meta.audio) | e }}">
+<meta property="og:audio:type" content="audio/mpeg">
+{% endif %}
 
-  <!-- Twitter / X Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page_title | e }}">
-  <meta name="twitter:description" content="{{ page_desc | e }}">
-  {% if page_image %}
-  <meta name="twitter:image" content="{{ page_image | e }}">
-  {% endif %}
+<!-- Twitter / X Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page_title | e }}">
+<meta name="twitter:description" content="{{ page_desc | e }}">
+{% if page_image %}
+<meta name="twitter:image" content="{{ page_image | e }}">
+{% endif %}
 
-  <!-- Schema.org JSON-LD Structured Data -->
-  {% if page and page.is_homepage %}
-  <script type="application/ld+json">
+<!-- Schema.org JSON-LD Structured Data -->
+{% if page and page.is_homepage %}
+<script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@graph": [
@@ -79,8 +79,26 @@
         "isAccessibleForFree": true,
         "creator": {
           "@type": "Organization",
-          "name": "Re:shoka（TMD 電腦音樂語言非官方子計畫）",
+          "name": "Re:shoka",
+          "description": "由個人維護的 TMD 電腦音樂語言子計畫",
+          "founder": {
+            "@type": "Person",
+            "name": "Weizhong Yang",
+            "alternateName": "zonble"
+          },
+          "sameAs": "https://github.com/tmdlang/reshoka",
+          "knowsAbout": [
+            "TMD",
+            "歷史樂譜數位化",
+            "臺灣音樂史",
+            "日治時期唱歌教材"
+          ],
           "url": {{ config.site_url | tojson }}
+        },
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Weizhong Yang",
+          "alternateName": "zonble"
         },
         "inLanguage": ["zh-Hant", "ja"],
         "keywords": [
@@ -96,8 +114,8 @@
     ]
   }
   </script>
-  {% elif page and page.meta and page.meta.schema_type == "MusicComposition" %}
-  <script type="application/ld+json">
+{% elif page and page.meta and page.meta.schema_type == "MusicComposition" %}
+<script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "MusicComposition",
@@ -119,13 +137,26 @@
     },{% endif %}
     "publisher": {
       "@type": "Organization",
-      "name": "Re:shoka（TMD 電腦音樂語言非官方子計畫）",
+      "name": "Re:shoka",
+      "description": "由個人維護的 TMD 電腦音樂語言子計畫",
+      "founder": {
+        "@type": "Person",
+        "name": "Weizhong Yang",
+        "alternateName": "zonble"
+      },
+      "sameAs": "https://github.com/tmdlang/reshoka",
+      "knowsAbout": [
+        "TMD",
+        "歷史樂譜數位化",
+        "臺灣音樂史",
+        "日治時期唱歌教材"
+      ],
       "url": {{ config.site_url | tojson }}
     }
   }
   </script>
-  {% elif page and page.meta and page.meta.schema_type == "ScholarlyArticle" %}
-  <script type="application/ld+json">
+{% elif page and page.meta and page.meta.schema_type == "ScholarlyArticle" %}
+<script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "ScholarlyArticle",
@@ -141,16 +172,16 @@
     }
   }
   </script>
-  {% endif %}
+{% endif %}
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7XECRF6SXK"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7XECRF6SXK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
 
-    gtag('config', 'G-7XECRF6SXK');
-  </script>
+  gtag('config', 'G-7XECRF6SXK');
+</script>
 
 {% endblock %}

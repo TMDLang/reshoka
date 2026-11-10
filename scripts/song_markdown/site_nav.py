@@ -22,7 +22,7 @@ MKDOCS_CONFIG_HEADER: list[str] = [
     "site_author: TMD Contributors",
     "site_url: https://tmdlang.github.io/reshoka/",
     "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
-    "# repo_url: https://github.com/tmdlang/reshoka",
+    "repo_url: https://github.com/tmdlang/reshoka",
     "",
     "theme:",
     "  name: material",
