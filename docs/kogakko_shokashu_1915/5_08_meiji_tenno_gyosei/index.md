@@ -66,8 +66,8 @@ w: 2.~て
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](meiji_tenno_gyosei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OLM4ojTe0NDRVgqssy88pzU21Si9KTEmNRxIvzi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMLAwQ8gUFOWXpeYl5gF1FxRl5pWkpoC1IxSklmWmpIKki5MT8-LLUosy0zJTU5CclFpUDHI51IqSosS84uSizAKQdxCq8otKMvKBzi7IqLTKyCwuyS_KTE7Mic9OzEtEKCrJSAV6DiJdiS6cmVsAtDsxB9nMzPTMPKvc_LykUmB4YUiUJGaWA52cn5aWmQzWqKWl8GxG37NNu58uWfl8VvvTfQtfLN6roKXFpWirYGnEZW-r4M5lY6JvYgcy6cXKee_3zMJUD7bmRfuu542Ln-_Y-3zu4qe75jxu6Hrauubp2h3PFix8OmXjs7U9L2e3PW7ofr-n4-mS5c_WLn46e_bTnVue7Oh8Nqfj_Z6e51sWPZu948XM-QoG5kamCkZm7_d0KnFx6Wsp2FILcCkoKDztmw-yZnP7ixVdLzragc4Ceupp64pn09pBLtvQ-6y9UwGUHPSyCtIfNUwGMs1BTJAL16x5smsK0EdAZysUFOgpWBgAFVgYAh0KDBWQ4S9W7X_WsBxkbHcv0CdA0cfNHS-nbgeKAw13VwB6HMzsBAaoAlANyMY9G19s3a5gCOECDep52TD_6a5lCo9mrrQFRgDQ1OedHc_mrHnR0PxiLcgiIBvog2edDc-mbHvc0IEZG48bOp837Xrc0PO4ccXjxsmPG6c_btzxuHH1sw0Tn67rfNzY_bgJJPWoYdn7Pf3Ppm14umjf48Z1z6dOfNzU9HzKBiD75dxFQDZQweOG3ie7el4umwYxGeg6sDc72oGxC9K5btbT1knPVy-FRDAwdoFh9LR1LSSM8DsR6HegE593rgQqfty47SXIoaufr-5-3Ljk6doJj5s6oNbv6ARaDwwZYDQ9m73pyY7epxOAFjVxgRzyZEfD44ZGrN4EGd84_3Hj_sdNLY8bZwINgHv8cSNQZN3jJqBVq0BkQyPIrGcdE0F6mvrBSnue7ABaCuQCk2bn46ZJjxv3AUMEqP_Jnq6n3YvApgNNmQ1WvA4Yr8-XArMGULDrceNukE2NoGiGu3MX0MmNkKAGq1r9uHHT48YNj5u6IAYAAx8svh7oZrCFoIiAeAGiABgjYOc0QWSfLpkFtw2sABh3QK-thPoFbPoqkCcbgW4G6QcbDRQBum3T46bex4394PAChnATSAPleQsKFLT0ubh8UzOzMkNS8_Ly3Svzi1MzrQIyE_PyHWoMaqpBlinYWGjZgRnYMrcCKJvtaHixsEdBAzlzKGgrGCs83dD_fH2DDjyDamLRD3QByOwaBQMFXTg2jQcSNUATdMHQCErXAM2GsMxBCqCqYGIgVSBcAzbQx7BGASQPw8CUBFYNTHtQ9cAghZsLTItw0dVgcj5UfD9MvKkFLD4TYYMRug0gnSA9m-BmbUDY0NQFF10HJtdDVYNsgtjQhLAZnBBxh_iuHnCIm5AWxJDwNAaHEohdo2ACtRvEA4VjDTysYaIwXUZgGbAaePgCcw7U5T3Q8AVmM6ivQH6EyIHUAFMzNBQgOmBy_VDVPVB-BxBPAqvfhxLOMPNAYQQLJ1B4gmR2w8N1ItQtEPGVyDaB4wQkCnIHciyAzCIU2js6waFtSlpog9OoroJZPCShYkmtkJQBS-WIEIfFCkSNEZIuEARlEKQ4AIcGLBaQY2A2kh5YKofFCiQEMEMQFjvIKR8EwW5HxEZTJzwMIekYHr9wsxC2IvPg8dDUCxcBpQFIbgTpX4Zhay0Xl66dAnoppQAUU-YCAA)]
-- [鋼琴伴奏 TMD 檔案](meiji_tenno_gyosei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2o-_Zpt1Pl6x8Pqv96b6FLxbvfb-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqWBpx2dsquHPZmOib2HHVKSi9WDnv_Z5ZmIYogSXbdz1vXPx8x97ncxc_3TXncUPX09Y1T9fueLZg4dMpG5-t7Xk5u-1xQzfQwqdLlj9bu_jp7NlPd255sqPz2RygnT3Ptyx6NnvHi5nzFQzMjUwVjMyA7lDi4vJNzczKDEnNy8t3r8wvTs20CshMzMsP8nCoMaip5lIAAhsLLTswQ19LwRYdKDxfs-bJjoYXC3sUNJ7u2fhi63YFQ4Vn3b0K2grGCk839D9f36CjEGBgYaaXVZCuiUW_lj7Y7BoFAwVdODaNBxI1QBN0wdAIStcAzYawzEEKoKpgYiBVIFwDNtDHsEYBJA_DjxtXgFU_bpwMVf-4cTrc3MeNO-Ciq8HkfKj4fph4UwtYfCbCBiN0G0A6QXo2wc3agLChqQsuug5MroeqBtkEsaEJYTMX_hDf1QMOcRPSghgSnsbgUAKxaxRMoHaDeKBwrIGHNUwUpssILANWAw_fx43dUJf3QMP3cSMolEAyID9C5EBqHjeugoYCRAdMrh-qugfK7wDiSWD1-1DCGWYeKIxg4QQKT5DMbni4ToS6BSK-EtkmcJyAREHuQI4FkFmEQntHJzi0TUkLbXAa1VUwi4ckVCypFZIyYKkcEeKwWIGoMULSBYKgDIIUB-DQgMUCcgzMRtIDS-WwWIGEAGYIwmIHOeWDINjtiNho6oSHISQdw-MXbhbCVmQePB6aeuEioDQAyY0g_cswbK3FVUj5IBdSJtBCClSQQCAw1OIVog1jgSEPpE3jY_GJmMAEoIYgKwTSwDgBMkxiYeI1CCMQSjCFoIahShBwCdwGqI1YVQB9BwoXXTsF9KCJ9jGMBVuLVc4ILqfMBQA)]
+- [主旋律 TMD 檔案](meiji_tenno_gyosei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OLM4ojTe0NDRVgqssy88pzU21Si9KTEmNRxIvzi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMLAwQ8gUFOWXpeYl5gF1FxRl5pWkpoC1IxSklmWmpIKki5MT8-LLUosy0zJTU5CclFpUDHI51IqSosS84uSizAKQdxCq8otKMvKBzi7IqLTKyCwuyS_KTE7Mic9OzEtEKCrJSAV6DiJdiS6cmVsAtDsxB9nMzPTMPKvc_LykUmB4YUiUJGaWA52cn5aWmQzWqKWl8GxG37NNu58uWfl8VvvTfQtfLN6roKXFpWirYGnEZW-r4M5lY6JvYgcy6cXKee_3zMJUD7bmRfuu542Ln-_Y-3zu4qe75jxu6Hrauubp2h3PFix8OmXjs7U9L2e3PW7ofr-n4-mS5c_WLn46e_bTnVue7Oh8Nqfj_Z6e51sWPZu948XM-QoG5kamCkZm7_d0KnFx6Wsp2FILcCkoKDztmw-yZnP7ixVdLzragc4Ceupp64pn09pBLtvQ-6y9UwGUHPSyCtIfNUwGMs1BTJAL16x5smsK0EdAZysUFOgpWBgAFVgYAh0KDBWQ4S9W7X_WsBxkbHcv0CdA0cfNHS-nbgeKAw13VwB6HMzsBAaoAlANyMY9G19s3a5gCOECDep52TD_6a5lCo9mrrQFRgDQ1OedHc_mrHnR0PxiLcgiIBvog2edDc-mbHvc0IEZG48bOp837Xrc0PO4ccXjxsmPG6c_btzxuHH1sw0Tn67rfNzY_bgJJPWoYdn7Pf3Ppm14umjf48Z1z6dOfNzU9HzKBiD75dxFQDZQweOG3ie7el4umwYxGeg6sDc72oGxC9K5btbT1knPVy-FRDAwdoFh9LR1LSSM8DsR6HegE593rgQqfty47SXIoaufr-5-3Ljk6doJj5s6oNbv6ARaDwwZYDQ9m73pyY7epxOAFjVxgRzyZEfD44ZGrN4EGd84_3Hj_sdNLY8bZwINgHv8cSNQZN3jJqBVq0BkQyPIrGcdE0F6mvrBSnue7ABaCuQCk2bn46ZJjxv3AUMEqP_Jnq6n3YvApgNNmQ1WvA4Yr8-XArMGULDrceNukE2NoGiGu3MX0MmNkKAGq1r9uHHT48YNj5u6IAYAAx8svh7oZrCFoIiAeAGiABgjYOc0QWSfLpkFtw2sABh3QK-thPoFbPoqkCcbgW4G6QcbDRQBum3T46bex4394PAChnATSAPleQsKFLT0ubh8UzOzMkNS8_Ly3Svzi1MzrQIyE_PyHWp0DWuqQbYp2Fho2YEZ2HK3Aiif7Wh4sbBHQQM5dyhoKxgrPN3Q_3x9gw48h2pi0Q90AsjsGgUDBV04No0HEjVAE3TB0AhK1wDNhrDMQQqgqmBiIFUgXAM20MewRgEkD8PApARWDUx8UPXAMIWbC0yMcNHVYHI-VHw_TLypBSw-E2GDEboNIJ0gPZvgZm1A2NDUBRddBybXQ1WDbILY0ISwGZwScYf4rh5wiJuQFsSQ8DQGhxKIXaNgArUbxAOFYw08rGGiMF1GYBmwGnj4ArMO1OU90PAF5jOor0B-hMiB1ACTMzQUIDpgcv1Q1T1QfgcQTwKr34cSzjDzQGEECydQeIJkdsPDdSLULRDxlcg2geMEJApyB3IsgMwiFNo7OsGhbUpaaIPTqK6CWTwkoWJJrZCUAUvliBCHxQpEjRGSLhAEZRCkOACHBiwWkGNgNpIeWCqHxQokBDBDEBY7yCkfBMFuR8RGUyc8DCHpGB6_cLMQtiLz4PHQ1AsXAaUBSG4E6V-GYWstF5eunQJ6MaUAFFPmAgA)]
+- [鋼琴伴奏 TMD 檔案](meiji_tenno_gyosei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2o-_Zpt1Pl6x8Pqv96b6FLxbvfb-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqWBpx2dsquHPZmOib2HHVKSi9WDnv_Z5ZmIYogSXbdz1vXPx8x97ncxc_3TXncUPX09Y1T9fueLZg4dMpG5-t7Xk5u-1xQzfQwqdLlj9bu_jp7NlPd255sqPz2RygnT3Ptyx6NnvHi5nzFQzMjUwVjMyA7lDi4vJNzczKDEnNy8t3r8wvTs20CshMzMsP8nCo0TWsqeZSAAIbCy07MENfS8EWHSg8X7PmyY6GFwt7FDSe7tn4Yut2BUOFZ929CtoKxgpPN_Q_X9-goxBgYGGml1WQrolFv5Y-2OwaBQMFXTg2jQcSNUATdMHQCErXAM2GsMxBCqCqYGIgVSBcAzbQx7BGASQPw48bV4BVP26cDFX_uHE63NzHjTvgoqvB5Hyo-H6YeFMLWHwmwgYjdBtAOkF6NsHN2oCwoakLLroOTK6HqgbZBLGhCWEzF_4Q39UDDnET0oIYEp7G4FACsWsUTKB2g3igcKyBhzVMFKbLCCwDVgMP38eN3VCX90DD93EjKJRAMiA_QuRAah43roKGAkQHTK4fqroHyu8A4klg9ftQwhlmHiiMYOEECk-QzG54uE6EugUivhLZJnCcgERB7kCOBZBZhEJ7Ryc4tE1JC21wGtVVMIuHJFQsqRWSMmCpHBHisFiBqDFC0gWCoAyCFAfg0IDFAnIMzEbSA0vlsFiBhABmCMJiBznlgyDY7YjYaOqEhyEkHcPjF24WwlZkHjwemnrhIqA0AMmNIP3LMGytxVVK-aCUUibQUgpUkkAgMNjiFaINY4FBD6RN42PxiZjABKCGICsE0sBIATJMYmHiNQgjEEowhaCGoUoQcAncBqiNWFUAfQcKGF07BfSwifYxjAVbi1XOCC6nzAUA)]
 
 ## 分析
 
@@ -75,14 +75,14 @@ w: 2.~て
 ================================================================================
 📊 TMD Song Profile: [ 明治天皇御製 ]
 ================================================================================
-⏱  Duration:       0:33 (33.9s), 13 measures total
+⏱  Duration:       0:31 (31.3s), 12 measures total
 🎼 Key & Tempo:    首調基準 G, != 92.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – C5 (MIDI 72) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
    - 最低音:  D4 in [MeijiTennoGyosei #1 @ m.1, 0:01]
    - 最高音: C5 in [MeijiTennoGyosei #1 @ m.6, 0:13]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      MeijiTennoGyosei (33.9s)
+🏛  結構:      MeijiTennoGyosei (31.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -92,7 +92,7 @@ w: 2.~て
    - 候選調性 (K-S): G 大調 (0.66), D 大調 (0.53), B 小調 (0.51)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [MeijiTennoGyosei #1]: G 大調 (r: 0.66, 自然音純度: 100.0%)
+     • [MeijiTennoGyosei #1]: G 調性不明確 (r: 0.58, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
