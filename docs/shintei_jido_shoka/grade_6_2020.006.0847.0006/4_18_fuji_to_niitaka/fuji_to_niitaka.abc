@@ -9,33 +9,23 @@ V:V1 name="Piano" snm="Pia"
 V:V2 name="Piano2" snm="Pia"
 [V:V1]
 !mf! z4 z4 z4 C4 | A8 G4 A4 | F8 C4 C4 | c8 B4 c4 |
-w: あ | は れ あ | は れ ふ | じ の や
+w: 1.~あ | は れ あ | は れ ふ | じ の や
+w: 2.~あ | は れ あ | は れ い | や た か
+w: 3.~あ | は れ あ | は れ あ | ふ ぎ み
 !f! A8 z4 F4 | d4 d4 d4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: ま か | か る よ き | や ま ま | た と _ あ ら
+w: 1.~ま か | か る よ き | や ま ま | た と _ あ ら
+w: 2.~き や | ま は に ひ | た か く | も に _ そ び
+w: 3.~よ を | を し う つ | く し た | み の _ ぎ ひょ
 !f! A8 z4 F4 | d4 d4 f4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: じ や | ま と ご こ | ろ の こ | り し _ す が
-!mf! A8 z4 C4 | A8 G4 A4 | F8 C4 C4 | c8 B4 c4 |
-w: た あ | は れ あ | は れ い | や た か
-!f! A8 z4 F4 | d4 d4 d4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: き や | ま は に ひ | た か く | も に _ そ び
-!f! A8 z4 F4 | d4 d4 f4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: え を | を し け だ | か し く | に の _ ほ ま
-!mf! A8 z4 C4 | A8 G4 A4 | F8 C4 C4 | c8 B4 c4 |
-w: れ あ | は れ あ | は れ あ | ふ ぎ み
-!f! A8 z4 F4 | d4 d4 d4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: よ を | を し う つ | く し た | み の _ ぎ ひょ
-!f! A8 z4 F4 | d4 d4 f4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: う ふ | じ と に ひ | た か た | た へ _ あ ふ
+w: 1.~じ や | ま と ご こ | ろ の こ | り し _ す が
+w: 2.~え を | を し け だ | か し く | に の _ ほ ま
+w: 3.~う ふ | じ と に ひ | た か た | た へ _ あ ふ
 A8 z4 z4 |
-w: げ
+w: 1.~た
+w: 2.~れ
+w: 3.~げ
 [V:V2]
 !mf! z4 z4 z4 C4 | F8 C4 C4 | A,8 A,4 C4 | A8 G4 E4 |
-!f! F8 z4 F4 | B4 B4 B4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
-!f! F8 z4 F4 | B4 B4 d4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
-!mf! F8 z4 C4 | F8 C4 C4 | A,8 A,4 C4 | A8 G4 E4 |
-!f! F8 z4 F4 | B4 B4 B4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
-!f! F8 z4 F4 | B4 B4 d4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
-!mf! F8 z4 C4 | F8 C4 C4 | A,8 A,4 C4 | A8 G4 E4 |
 !f! F8 z4 F4 | B4 B4 B4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
 !f! F8 z4 F4 | B4 B4 d4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
 F8 z4 z4 |
