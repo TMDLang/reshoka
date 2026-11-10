@@ -1,22 +1,39 @@
 ---
 title: "靖國神社 — 《共益商社唱歌教科書》 巻四（教師用）"
 song_title: "靖國神社"
-description: "〈靖國神社〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：C 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：矢玉の中にて、身を斃しし、 義勇の魂、國のしづめ、…"
+song_id: "kyoeki_shoka_kan_4_854865_9_yasukuni_jinja"
+collection: "kyoeki_shoka"
+volume: "kan_4_854865"
+description: "〈靖國神社〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：C 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：矢玉の中にて、身を斃しし、 義勇の魂、國のしづめ、…"
 keywords: "靖國神社, 共益商社唱歌教科書, 巻四（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻四・教師用（NDL PID 854865）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻四》第二十～二十一頁（第二學期第四曲）"
+  - "NDL Digital Collections PID 854865（https://dl.ndl.go.jp/pid/854865）掃描 P016.jpg"
 musical_key: "C"
-image: "P017.jpg"
-audio: "yasukuni_jinja.mp3"
+meter: "6/8"
+tempo: "112"
+image:
+  - file: "P017.jpg"
+audio:
+  - id: "yasukuni_jinja"
+    label: "鋼琴伴奏版"
+    file: "yasukuni_jinja.mp3"
+  - id: "yasukuni_jinja_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yasukuni_jinja_neutrino.mp3"
+tmd_source:
+  - "yasukuni_jinja.tmd"
+  - "yasukuni_jinja_piano.tmd"
 ---
 
 # 靖國神社
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="yasukuni_jinja_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="yasukuni_jinja.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yasukuni_jinja_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第二十～二十一頁（第二學期第四曲）
 - NDL Digital Collections PID 854865（https://dl.ndl.go.jp/pid/854865）掃描 P016.jpg

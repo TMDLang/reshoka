@@ -1,20 +1,37 @@
 ---
 title: "雪の花 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "雪の花"
-description: "〈雪の花〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：牧星、曲：山口季次郎），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、朝おきて　庭見れば いつのまにか　白い花…"
+song_id: "shokacho_vol_01_p137_yuki_no_hana"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈雪の花〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：牧星、曲：山口季次郎），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、朝おきて　庭見れば いつのまにか　白い花…"
 keywords: "雪の花, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 牧星, 山口季次郎"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+credits:
+  - "詞：牧星"
+  - "曲：山口季次郎"
+sources:
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P137）"
 musical_key: "G"
-image: "P137.jpg"
-audio: "yuki_no_hana.mp3"
+meter: "2/4"
+tempo: "96"
+image:
+  - file: "P137.jpg"
+audio:
+  - id: "yuki_no_hana"
+    label: "鋼琴伴奏版"
+    file: "yuki_no_hana.mp3"
+tmd_source:
+  - "yuki_no_hana.tmd"
+  - "yuki_no_hana_piano.tmd"
 ---
 
 # 雪の花
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="yuki_no_hana.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="yuki_no_hana.mp3"></audio>
 
 - 詞：牧星
 - 曲：山口季次郎

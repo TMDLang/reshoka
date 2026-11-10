@@ -1,20 +1,37 @@
 ---
 title: "大和魂 — 《新定兒童唱歌》 高等科 女子一二年"
 song_title: "大和魂"
-description: "〈大和魂〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：佐々木信綱（女子音樂教科書）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大君（おほぎみ）のみ民（たみ）と生（うま）れしからは 砲（つつ）こそは肩（かた）にせね太刀（たち）こそ佩（は）かね…"
+song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_2_05_yamato_damashii"
+collection: "shintei_jido_shoka"
+volume: "koto_girls_2020.006.0849"
+description: "〈大和魂〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：佐々木信綱（女子音樂教科書）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大君（おほぎみ）のみ民（たみ）と生（うま）れしからは 砲（つつ）こそは肩（かた）にせね太刀（たち）こそ佩（は）かね…"
 keywords: "大和魂, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 佐々木信綱（女子音樂教科書）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
+credits:
+  - "詞：佐々木信綱（女子音樂教科書）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
 musical_key: "C"
-image: "P050.jpg"
-audio: "yamato_damashii.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P050.jpg"
+  - file: "P051.jpg"
+audio:
+  - id: "yamato_damashii"
+    label: "鋼琴伴奏版"
+    file: "yamato_damashii.mp3"
+tmd_source:
+  - "yamato_damashii.tmd"
+  - "yamato_damashii_piano.tmd"
 ---
 
 # 大和魂
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="yamato_damashii.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="yamato_damashii.mp3"></audio>
 
 - 詞：佐々木信綱（女子音樂教科書）
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

@@ -1,22 +1,41 @@
 ---
 title: "日本三景 — 《公學校唱歌》 第六學年用"
 song_title: "日本三景"
-description: "〈日本三景〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：綠したゝる山をうしろに、 波にたゞよふ朱（あけ）の廻廊（くゎいらう）、…"
+song_id: "kogakko_shoka_grade_6_10_nihon_sankei"
+collection: "kogakko_shoka"
+volume: "grade_6"
+description: "〈日本三景〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：綠したゝる山をうしろに、 波にたゞよふ朱（あけ）の廻廊（くゎいらう）、…"
 keywords: "日本三景, 公學校唱歌, 第六學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+sources:
+  - "臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）"
 musical_key: "E,"
-image: "P032.jpg"
-audio: "nihon_sankei.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P032.jpg"
+  - file: "P033.jpg"
+  - file: "P034.jpg"
+  - file: "P035.jpg"
+audio:
+  - id: "nihon_sankei"
+    label: "鋼琴伴奏版"
+    file: "nihon_sankei.mp3"
+  - id: "nihon_sankei_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nihon_sankei_neutrino.mp3"
+tmd_source:
+  - "nihon_sankei.tmd"
+  - "nihon_sankei_piano.tmd"
 ---
 
 # 日本三景
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_sankei_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nihon_sankei.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_sankei_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）
 

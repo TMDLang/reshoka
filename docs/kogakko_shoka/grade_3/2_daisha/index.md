@@ -1,22 +1,42 @@
 ---
 title: "だいしゃ（台車） — 《公學校唱歌》 第三學年用"
 song_title: "だいしゃ（台車）"
-description: "〈だいしゃ（台車）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用（臺史博 2020.006.0855））（山本奈良男 作詞（懸賞募集入選原題〈臺車〉）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　ごうごうだいしや、のぼるよだいしや。 みちは山みち、ぐんぐんのぼる。…"
+song_id: "kogakko_shoka_grade_3_2_daisha"
+collection: "kogakko_shoka"
+volume: "grade_3"
+description: "〈だいしゃ（台車）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用（臺史博 2020.006.0855））（山本奈良男 作詞（懸賞募集入選原題〈臺車〉）），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　ごうごうだいしや、のぼるよだいしや。 みちは山みち、ぐんぐんのぼる。…"
 keywords: "だいしゃ（台車）, 公學校唱歌, 第三學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第三學年用（臺史博 2020.006.0855）"
+credits:
+  - "山本奈良男 作詞（懸賞募集入選原題〈臺車〉）"
+sources:
+  - "日治時期公學校唱歌（第三學年・第二課）"
+  - "國立臺灣歷史博物館典藏"
 musical_key: "F"
-image: "image.jpeg"
-audio: "daisha.mp3"
+meter: "2/4"
+tempo: "96"
+image:
+  - file: "image.jpeg"
+  - file: "image2.jpeg"
+audio:
+  - id: "daisha"
+    label: "鋼琴伴奏版"
+    file: "daisha.mp3"
+  - id: "daisha_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "daisha_neutrino.mp3"
+tmd_source:
+  - "daisha.tmd"
+  - "daisha_piano.tmd"
 ---
 
 # だいしゃ（台車）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="daisha_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="daisha.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="daisha_neutrino.mp3"></audio>
 
 - 山本奈良男 作詞（懸賞募集入選原題〈臺車〉）
 - 日治時期公學校唱歌（第三學年・第二課）

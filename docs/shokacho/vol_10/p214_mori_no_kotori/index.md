@@ -1,20 +1,34 @@
 ---
 title: "森の小鳥 (森林的小鳥) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "森の小鳥 (森林的小鳥)"
-description: "〈森の小鳥 (森林的小鳥)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞： マツフク カゼノ オトモ タエテ…"
+song_id: "shokacho_vol_10_p214_mori_no_kotori"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈森の小鳥 (森林的小鳥)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞： マツフク カゼノ オトモ タエテ…"
 keywords: "森の小鳥 (森林的小鳥), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
+sources:
+  - "公學校唱歌帳 (P214, 277頁, 昭和2年1月29日)"
 musical_key: "G"
-image: "P214.jpg"
-audio: "mori_no_kotori.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P214.jpg"
+audio:
+  - id: "mori_no_kotori"
+    label: "鋼琴伴奏版"
+    file: "mori_no_kotori.mp3"
+tmd_source:
+  - "mori_no_kotori.tmd"
+  - "mori_no_kotori_piano.tmd"
 ---
 
 # 森の小鳥 (森林的小鳥)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="mori_no_kotori.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="mori_no_kotori.mp3"></audio>
 
 - 公學校唱歌帳 (P214, 277頁, 昭和2年1月29日)
 

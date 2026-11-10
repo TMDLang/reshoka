@@ -1,22 +1,40 @@
 ---
 title: "歸雁 — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年"
 song_title: "歸雁"
-description: "〈歸雁〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shoka_kyozai_shu_1923_koto_1_2_10_kigan"
+collection: "shoka_kyozai_shu_1923"
+volume: "koto_1_2"
+description: "〈歸雁〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "歸雁, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
 musical_key: "F"
-image: "P363.jpg"
-audio: "kigan.mp3"
+meter: "4/4"
+tempo: "80"
+image:
+  - file: "P363.jpg"
+  - file: "P364.jpg"
+audio:
+  - id: "kigan"
+    label: "鋼琴伴奏版"
+    file: "kigan.mp3"
+  - id: "kigan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kigan_neutrino.mp3"
+tmd_source:
+  - "kigan.tmd"
+  - "kigan_piano.tmd"
 ---
 
 # 歸雁
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kigan_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kigan.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kigan_neutrino.mp3"></audio>
 
 - book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）

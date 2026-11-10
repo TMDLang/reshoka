@@ -1,20 +1,36 @@
 ---
 title: "社會奉仕 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "社會奉仕"
-description: "〈社會奉仕〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：A 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）鳥（とり）の群（むれ）　魚（うを）の集（あつま）り　夫々（それぞれ）に 自（おのづか）らなる　規律（きまり）あり…"
+song_id: "shokacho_vol_01_p175_shakai_hoshi"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈社會奉仕〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：A 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）鳥（とり）の群（むれ）　魚（うを）の集（あつま）り　夫々（それぞれ）に 自（おのづか）らなる　規律（きまり）あり…"
 keywords: "社會奉仕, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+sources:
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P175–P176）"
+  - "大正 14 年 12 月 2 日抄（署名 K）"
 musical_key: "A"
-image: "P175.jpg"
-audio: "shakai_hoshi.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P175.jpg"
+  - file: "P176.jpg"
+audio:
+  - id: "shakai_hoshi"
+    label: "鋼琴伴奏版"
+    file: "shakai_hoshi.mp3"
+tmd_source:
+  - "shakai_hoshi.tmd"
+  - "shakai_hoshi_piano.tmd"
 ---
 
 # 社會奉仕
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="shakai_hoshi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shakai_hoshi.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P175–P176）
 - 大正 14 年 12 月 2 日抄（署名 K）

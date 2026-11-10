@@ -1,22 +1,41 @@
 ---
 title: "我は海の子 — 《公學校唱歌》 第六學年用"
 song_title: "我は海の子"
-description: "〈我は海の子〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：我は海の子、白浪（しらなみ）の さわぐいそべの松原（まつばら）に、…"
+song_id: "kogakko_shoka_grade_6_7_ware_wa_umi_no_ko"
+collection: "kogakko_shoka"
+volume: "grade_6"
+description: "〈我は海の子〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：我は海の子、白浪（しらなみ）の さわぐいそべの松原（まつばら）に、…"
 keywords: "我は海の子, 公學校唱歌, 第六學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+sources:
+  - "臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）"
 musical_key: "E,"
-image: "P022.jpg"
-audio: "ware_wa_umi_no_ko.mp3"
+meter: "4/4"
+tempo: "126"
+image:
+  - file: "P022.jpg"
+  - file: "P023.jpg"
+  - file: "P024.jpg"
+  - file: "P025.jpg"
+audio:
+  - id: "ware_wa_umi_no_ko"
+    label: "鋼琴伴奏版"
+    file: "ware_wa_umi_no_ko.mp3"
+  - id: "ware_wa_umi_no_ko_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ware_wa_umi_no_ko_neutrino.mp3"
+tmd_source:
+  - "ware_wa_umi_no_ko.tmd"
+  - "ware_wa_umi_no_ko_piano.tmd"
 ---
 
 # 我は海の子
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="ware_wa_umi_no_ko_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="ware_wa_umi_no_ko.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ware_wa_umi_no_ko_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）
 

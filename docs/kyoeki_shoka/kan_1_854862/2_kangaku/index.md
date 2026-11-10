@@ -1,22 +1,39 @@
 ---
 title: "勸學 — 《共益商社唱歌教科書》 巻一（生徒用）"
 song_title: "勸學"
-description: "〈勸學〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雪や霰を、しのぎ來て、 斯くも櫻は、花さくものを、…"
+song_id: "kyoeki_shoka_kan_1_854862_2_kangaku"
+collection: "kyoeki_shoka"
+volume: "kan_1_854862"
+description: "〈勸學〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雪や霰を、しのぎ來て、 斯くも櫻は、花さくものを、…"
 keywords: "勸學, 共益商社唱歌教科書, 巻一（生徒用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻一・生徒用（NDL PID 854862）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第四～五頁（第二曲）"
+  - "NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P004.jpg"
 musical_key: "F"
-image: "P004.jpg"
-audio: "kangaku.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P004.jpg"
+audio:
+  - id: "kangaku"
+    label: "鋼琴伴奏版"
+    file: "kangaku.mp3"
+  - id: "kangaku_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kangaku_neutrino.mp3"
+tmd_source:
+  - "kangaku.tmd"
+  - "kangaku_piano.tmd"
 ---
 
 # 勸學
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kangaku_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kangaku.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kangaku_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第四～五頁（第二曲）
 - NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P004.jpg

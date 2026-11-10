@@ -1,22 +1,41 @@
 ---
 title: "お二人さん — 《臺灣の歌》 昭和四年（全一冊）"
 song_title: "お二人さん"
-description: "〈お二人さん〉收錄於日治時期臺灣《臺灣の歌》（臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8））（作詞：西村忠三、作曲：中美春治），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雨（あめ）が降（ふ）りやササ雨（あめ）が降（ふ）りや さつと茶（ちや）の木（き）の新芽（しんめ）がのぞく…"
+song_id: "taiwan_no_uta_taiwan_no_uta_8_ofutarisan"
+collection: "taiwan_no_uta"
+volume: "taiwan_no_uta"
+description: "〈お二人さん〉收錄於日治時期臺灣《臺灣の歌》（臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8））（作詞：西村忠三、作曲：中美春治），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雨（あめ）が降（ふ）りやササ雨（あめ）が降（ふ）りや さつと茶（ちや）の木（き）の新芽（しんめ）がのぞく…"
 keywords: "お二人さん, 臺灣の歌, 昭和四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 西村忠三, 中美春治"
 schema_type: "MusicComposition"
 is_part_of: "《臺灣の歌》 臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8）"
+credits:
+  - "作詞：西村忠三"
+  - "作曲：中美春治"
+sources:
+  - "臺灣教育會《臺灣の歌》（御大典記念事業，昭和四年五月一日發行，國臺圖 0786 8）第 13 頁（民謡第二曲）"
 musical_key: "C"
-image: "P014.jpg"
-audio: "ofutarisan.mp3"
+meter: "4/4"
+tempo: "76"
+image:
+  - file: "P014.jpg"
+audio:
+  - id: "ofutarisan"
+    label: "鋼琴伴奏版"
+    file: "ofutarisan.mp3"
+  - id: "ofutarisan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ofutarisan_neutrino.mp3"
+tmd_source:
+  - "ofutarisan.tmd"
+  - "ofutarisan_piano.tmd"
 ---
 
 # お二人さん
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="ofutarisan_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="ofutarisan.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ofutarisan_neutrino.mp3"></audio>
 
 - 作詞：西村忠三
 - 作曲：中美春治

@@ -1,22 +1,40 @@
 ---
 title: "一ツボシ（一顆星） — 《新定兒童唱歌》 尋常科 第二學年"
 song_title: "一ツボシ（一顆星）"
-description: "〈一ツボシ（一顆星）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（曲：室崎琴月），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ザンザザンブリコト　ヨセテハカヘス 海ノオキベノ　アノ一ツボシ　一ツボシ…"
+song_id: "shintei_jido_shoka_grade_2_2020.006.0847.0002_4_11_hitotsuboshi"
+collection: "shintei_jido_shoka"
+volume: "grade_2_2020.006.0847.0002"
+description: "〈一ツボシ（一顆星）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（曲：室崎琴月），調號拍號：B, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ザンザザンブリコト　ヨセテハカヘス 海ノオキベノ　アノ一ツボシ　一ツボシ…"
 keywords: "一ツボシ（一顆星）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 室崎琴月"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（臺史博 2020.006.0847.0002）"
+credits:
+  - "曲：室崎琴月"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
 musical_key: "B,"
-image: "P064.jpg"
-audio: "hitotsuboshi.mp3"
+meter: "2/4"
+tempo: "88"
+image:
+  - file: "P064.jpg"
+audio:
+  - id: "hitotsuboshi"
+    label: "鋼琴伴奏版"
+    file: "hitotsuboshi.mp3"
+  - id: "hitotsuboshi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hitotsuboshi_neutrino.mp3"
+tmd_source:
+  - "hitotsuboshi.tmd"
+  - "hitotsuboshi_piano.tmd"
 ---
 
 # 一ツボシ（一顆星）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hitotsuboshi_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hitotsuboshi.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hitotsuboshi_neutrino.mp3"></audio>
 
 - 曲：室崎琴月
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）

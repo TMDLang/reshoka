@@ -1,22 +1,39 @@
 ---
 title: "春の小川 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "春の小川"
-description: "〈春の小川〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：春（はる）の小川（をがは）はさら／＼流（なが）る 岸（きし）のすみれやれんげの花（はな）に…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_1_01_haru_no_ogawa"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈春の小川〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：春（はる）の小川（をがは）はさら／＼流（なが）る 岸（きし）のすみれやれんげの花（はな）に…"
 keywords: "春の小川, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+sources:
+  - "文部省唱歌"
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "C"
-image: "P024.jpg"
-audio: "haru_no_ogawa.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P024.jpg"
+audio:
+  - id: "haru_no_ogawa"
+    label: "鋼琴伴奏版"
+    file: "haru_no_ogawa.mp3"
+  - id: "haru_no_ogawa_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "haru_no_ogawa_neutrino.mp3"
+tmd_source:
+  - "haru_no_ogawa.tmd"
+  - "haru_no_ogawa_piano.tmd"
 ---
 
 # 春の小川
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="haru_no_ogawa_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="haru_no_ogawa.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="haru_no_ogawa_neutrino.mp3"></audio>
 
 - 文部省唱歌
 - 臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）

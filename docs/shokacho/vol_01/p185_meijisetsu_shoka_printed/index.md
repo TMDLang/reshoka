@@ -1,20 +1,38 @@
 ---
 title: "明治節唱歌（印刷譜） — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "明治節唱歌（印刷譜）"
-description: "〈明治節唱歌（印刷譜）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：堀澤周安（文部省選定）、曲：杉江秀（文部省選定）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、亜細亜の東　日出づる處 聖の君の　現れまして…"
+song_id: "shokacho_vol_01_p185_meijisetsu_shoka_printed"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈明治節唱歌（印刷譜）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：堀澤周安（文部省選定）、曲：杉江秀（文部省選定）），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、亜細亜の東　日出づる處 聖の君の　現れまして…"
 keywords: "明治節唱歌（印刷譜）, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 堀澤周安（文部省選定）, 杉江秀（文部省選定）"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+credits:
+  - "詞：堀澤周安（文部省選定）"
+  - "曲：杉江秀（文部省選定）"
+sources:
+  - "唱歌筆記帖（臺灣子供世界社發行，2020.006.0843）P185.jpg（印刷伴奏譜）"
 musical_key: "D"
-image: "P183.jpg"
-audio: "meijisetsu_shoka_printed.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P183.jpg"
+  - file: "P185.jpg"
+audio:
+  - id: "meijisetsu_shoka_printed"
+    label: "鋼琴伴奏版"
+    file: "meijisetsu_shoka_printed.mp3"
+tmd_source:
+  - "meijisetsu_shoka_printed.tmd"
+  - "meijisetsu_shoka_printed_piano.tmd"
 ---
 
 # 明治節唱歌（印刷譜）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="meijisetsu_shoka_printed.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="meijisetsu_shoka_printed.mp3"></audio>
 
 - 詞：堀澤周安（文部省選定）
 - 曲：杉江秀（文部省選定）

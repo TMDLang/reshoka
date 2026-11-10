@@ -1,22 +1,39 @@
 ---
 title: "小さな花つくり — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
 song_title: "小さな花つくり"
-description: "〈小さな花つくり〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれあれ嬉（うれ）し　お花（はな）が咲（さ）いた 皆（みな）よく咲（さ）いた　私（わたし）の花（はな）が。…"
+song_id: "shoka_kyozai_shu_1923_grade_1_2_45_chiisana_hanatsukuri"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_1_2"
+description: "〈小さな花つくり〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれあれ嬉（うれ）し　お花（はな）が咲（さ）いた 皆（みな）よく咲（さ）いた　私（わたし）の花（はな）が。…"
 keywords: "小さな花つくり, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
+sources:
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
 musical_key: "D"
-image: "P098.jpg"
-audio: "chiisana_hanatsukuri.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P098.jpg"
+  - file: "P099.jpg"
+audio:
+  - id: "chiisana_hanatsukuri"
+    label: "鋼琴伴奏版"
+    file: "chiisana_hanatsukuri.mp3"
+  - id: "chiisana_hanatsukuri_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "chiisana_hanatsukuri_neutrino.mp3"
+tmd_source:
+  - "chiisana_hanatsukuri.tmd"
+  - "chiisana_hanatsukuri_piano.tmd"
 ---
 
 # 小さな花つくり
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="chiisana_hanatsukuri_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="chiisana_hanatsukuri.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="chiisana_hanatsukuri_neutrino.mp3"></audio>
 
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
 

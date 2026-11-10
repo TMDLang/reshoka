@@ -1,22 +1,42 @@
 ---
 title: "蘭の花 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "蘭の花"
-description: "〈蘭の花〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：臺灣總督府、曲：宮島慎三郎），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、ねえさん如露（じょろ）で　水（みづ）をまけば 妹（いもうと）ばけつに　水（みづ）くんで來（く）る…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_1_06_ran_no_hana"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈蘭の花〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：臺灣總督府、曲：宮島慎三郎），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、ねえさん如露（じょろ）で　水（みづ）をまけば 妹（いもうと）ばけつに　水（みづ）くんで來（く）る…"
 keywords: "蘭の花, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 臺灣總督府, 宮島慎三郎"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+credits:
+  - "詞：臺灣總督府"
+  - "曲：宮島慎三郎"
+sources:
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "F"
-image: "P018.jpg"
-audio: "ran_no_hana.mp3"
+meter: "4/4"
+tempo: "120"
+image:
+  - file: "P018.jpg"
+  - file: "P019.jpg"
+audio:
+  - id: "ran_no_hana"
+    label: "鋼琴伴奏版"
+    file: "ran_no_hana.mp3"
+  - id: "ran_no_hana_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ran_no_hana_neutrino.mp3"
+tmd_source:
+  - "ran_no_hana.tmd"
+  - "ran_no_hana_piano.tmd"
 ---
 
 # 蘭の花
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="ran_no_hana_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="ran_no_hana.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ran_no_hana_neutrino.mp3"></audio>
 
 - 詞：臺灣總督府
 - 曲：宮島慎三郎

@@ -1,22 +1,41 @@
 ---
 title: "スズメ（麻雀） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "スズメ（麻雀）"
-description: "〈スズメ（麻雀）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アチラノヤネデ チユンチユンチユンチユンナクヨ…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_4_22_suzume"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈スズメ（麻雀）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アチラノヤネデ チユンチユンチユンチユンナクヨ…"
 keywords: "スズメ（麻雀）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：葛原𦱳"
+  - "曲：小松耕輔"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "F"
-image: "P072.jpg"
-audio: "suzume.mp3"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P072.jpg"
+audio:
+  - id: "suzume"
+    label: "鋼琴伴奏版"
+    file: "suzume.mp3"
+  - id: "suzume_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "suzume_neutrino.mp3"
+tmd_source:
+  - "suzume.tmd"
+  - "suzume_piano.tmd"
 ---
 
 # スズメ（麻雀）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="suzume_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="suzume.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="suzume_neutrino.mp3"></audio>
 
 - 詞：葛原𦱳
 - 曲：小松耕輔

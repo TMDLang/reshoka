@@ -1,20 +1,32 @@
 ---
 title: "送別の歌 (送別之歌) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "送別の歌 (送別之歌)"
-description: "〈送別の歌 (送別之歌)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アサナユフナニ オコタラズ ツトーメハゲミシ ソノーイサヲ ケフアラハレーテ ツキノカツラ タヲリエマシシ メーデータサ…"
+song_id: "shokacho_vol_10_p197_sobetsu_no_uta"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈送別の歌 (送別之歌)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アサナユフナニ オコタラズ ツトーメハゲミシ ソノーイサヲ ケフアラハレーテ ツキノカツラ タヲリエマシシ メーデータサ…"
 keywords: "送別の歌 (送別之歌), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
 musical_key: "F"
-image: "P197.jpg"
-audio: "sobetsu_no_uta.mp3"
+meter: "2/4"
+tempo: "66"
+image:
+  - file: "P197.jpg"
+audio:
+  - id: "sobetsu_no_uta"
+    label: "鋼琴伴奏版"
+    file: "sobetsu_no_uta.mp3"
+tmd_source:
+  - "sobetsu_no_uta.tmd"
+  - "sobetsu_no_uta_piano.tmd"
 ---
 
 # 送別の歌 (送別之歌)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="sobetsu_no_uta.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="sobetsu_no_uta.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供
 

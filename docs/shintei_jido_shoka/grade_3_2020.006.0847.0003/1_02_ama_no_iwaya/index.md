@@ -1,22 +1,41 @@
 ---
 title: "天の岩屋 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "天の岩屋"
-description: "〈天の岩屋〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：葛原しげる、曲：小松耕輔），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：天（てん）も地（ち）も眞（しん）の闇（やみ） 物（もの）すごき闇（やみ）…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_1_02_ama_no_iwaya"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈天の岩屋〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：葛原しげる、曲：小松耕輔），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：天（てん）も地（ち）も眞（しん）の闇（やみ） 物（もの）すごき闇（やみ）…"
 keywords: "天の岩屋, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "詞：葛原しげる"
+  - "曲：小松耕輔"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "G"
-image: "P026.jpg"
-audio: "ama_no_iwaya.mp3"
+meter: "4/4"
+tempo: "80"
+image:
+  - file: "P026.jpg"
+audio:
+  - id: "ama_no_iwaya"
+    label: "鋼琴伴奏版"
+    file: "ama_no_iwaya.mp3"
+  - id: "ama_no_iwaya_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ama_no_iwaya_neutrino.mp3"
+tmd_source:
+  - "ama_no_iwaya.tmd"
+  - "ama_no_iwaya_piano.tmd"
 ---
 
 # 天の岩屋
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="ama_no_iwaya_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="ama_no_iwaya.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ama_no_iwaya_neutrino.mp3"></audio>
 
 - 詞：葛原しげる
 - 曲：小松耕輔

@@ -1,22 +1,41 @@
 ---
 title: "梅に鶯 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "梅に鶯"
-description: "〈梅に鶯〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（葛原齒 作詞 / 小松耕輔 作曲），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：梅の木の枝に　梅の花が咲いた いくつもいくつも　知らぬ間に咲いた…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_4_16_ume_ni_uguisu"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈梅に鶯〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（葛原齒 作詞 / 小松耕輔 作曲），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：梅の木の枝に　梅の花が咲いた いくつもいくつも　知らぬ間に咲いた…"
 keywords: "梅に鶯, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒 作詞 / 小松耕輔 作曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "葛原齒 作詞 / 小松耕輔 作曲"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "D"
-image: "P078.jpg"
-audio: "ume_ni_uguisu.mp3"
+meter: "2/4"
+tempo: "76"
+image:
+  - file: "P078.jpg"
+  - file: "P079.jpg"
+audio:
+  - id: "ume_ni_uguisu"
+    label: "鋼琴伴奏版"
+    file: "ume_ni_uguisu.mp3"
+  - id: "ume_ni_uguisu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ume_ni_uguisu_neutrino.mp3"
+tmd_source:
+  - "ume_ni_uguisu.tmd"
+  - "ume_ni_uguisu_piano.tmd"
 ---
 
 # 梅に鶯
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="ume_ni_uguisu_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="ume_ni_uguisu.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ume_ni_uguisu_neutrino.mp3"></audio>
 
 - 葛原齒 作詞 / 小松耕輔 作曲
 - 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）

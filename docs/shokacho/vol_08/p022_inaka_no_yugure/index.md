@@ -1,20 +1,37 @@
 ---
 title: "田舎の夕暮（鄉村的黃昏） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
 song_title: "田舎の夕暮（鄉村的黃昏）"
-description: "〈田舎の夕暮（鄉村的黃昏）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：北村季晴），調號拍號：E, 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハヤマ ノ ミソラ ノ クモ ノ ハタテ コガネ ノ イロ ニゾ カハリ ユキテ…"
+song_id: "shokacho_vol_08_p022_inaka_no_yugure"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈田舎の夕暮（鄉村的黃昏）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：北村季晴），調號拍號：E, 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハヤマ ノ ミソラ ノ クモ ノ ハタテ コガネ ノ イロ ニゾ カハリ ユキテ…"
 keywords: "田舎の夕暮（鄉村的黃昏）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 北村季晴"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+credits:
+  - "曲：北村季晴"
+sources:
+  - "出處：中等音楽教科書 / 蓬莱集ヨリ（昭2.2.25）"
+  - "《唱歌帖》（2020.006.0843）P022.jpg"
 musical_key: "E,"
-image: "P022.jpg"
-audio: "inaka_no_yugure.mp3"
+meter: "3/4"
+tempo: "66"
+image:
+  - file: "P022.jpg"
+audio:
+  - id: "inaka_no_yugure"
+    label: "鋼琴伴奏版"
+    file: "inaka_no_yugure.mp3"
+tmd_source:
+  - "inaka_no_yugure.tmd"
+  - "inaka_no_yugure_piano.tmd"
 ---
 
 # 田舎の夕暮（鄉村的黃昏）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="inaka_no_yugure.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="inaka_no_yugure.mp3"></audio>
 
 - 曲：北村季晴
 - 出處：中等音楽教科書 / 蓬莱集ヨリ（昭2.2.25）

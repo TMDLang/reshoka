@@ -1,20 +1,36 @@
 ---
 title: "曉景 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "曉景"
-description: "〈曉景〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：東の空ほゝゑみて さゞめき出づる朝あらし…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_4_08_gyokei"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈曉景〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：東の空ほゝゑみて さゞめき出づる朝あらし…"
 keywords: "曉景, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+sources:
+  - "北村氏中等音樂教科書"
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "E,"
-image: "P070.jpg"
-audio: "gyokei.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P070.jpg"
+  - file: "P071.jpg"
+audio:
+  - id: "gyokei"
+    label: "鋼琴伴奏版"
+    file: "gyokei.mp3"
+tmd_source:
+  - "gyokei.tmd"
+  - "gyokei_piano.tmd"
 ---
 
 # 曉景
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="gyokei.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="gyokei.mp3"></audio>
 
 - 北村氏中等音樂教科書
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）

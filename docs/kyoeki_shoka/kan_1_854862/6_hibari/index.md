@@ -1,22 +1,39 @@
 ---
 title: "雲雀 — 《共益商社唱歌教科書》 巻一（生徒用）"
 song_title: "雲雀"
-description: "〈雲雀〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：霞をしのぎて、雲井のそらに、 ここまで來よとか、よぶひばり、…"
+song_id: "kyoeki_shoka_kan_1_854862_6_hibari"
+collection: "kyoeki_shoka"
+volume: "kan_1_854862"
+description: "〈雲雀〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：霞をしのぎて、雲井のそらに、 ここまで來よとか、よぶひばり、…"
 keywords: "雲雀, 共益商社唱歌教科書, 巻一（生徒用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻一・生徒用（NDL PID 854862）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第十二～十三頁（第六曲）"
+  - "NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P008.jpg"
 musical_key: "C"
-image: "P008.jpg"
-audio: "hibari.mp3"
+meter: "2/4"
+tempo: "126"
+image:
+  - file: "P008.jpg"
+audio:
+  - id: "hibari"
+    label: "鋼琴伴奏版"
+    file: "hibari.mp3"
+  - id: "hibari_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hibari_neutrino.mp3"
+tmd_source:
+  - "hibari.tmd"
+  - "hibari_piano.tmd"
 ---
 
 # 雲雀
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hibari_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hibari.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hibari_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第十二～十三頁（第六曲）
 - NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P008.jpg

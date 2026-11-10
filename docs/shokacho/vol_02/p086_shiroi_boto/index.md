@@ -1,20 +1,34 @@
 ---
 title: "白いボート — 《楊金土手抄唱歌帖》 第 2 冊（II）"
 song_title: "白いボート"
-description: "〈白いボート〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：不詳），調號拍號：G 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_02_p086_shiroi_boto"
+collection: "shokacho"
+volume: "vol_02"
+description: "〈白いボート〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：不詳），調號拍號：G 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "白いボート, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 不詳"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+credits:
+  - "曲：不詳"
 musical_key: "G"
-image: "P086.jpg"
-audio: "shiroi_boto.mp3"
+meter: "6/8"
+tempo: "96"
+image:
+  - file: "P086.jpg"
+audio:
+  - id: "shiroi_boto"
+    label: "鋼琴伴奏版"
+    file: "shiroi_boto.mp3"
+tmd_source:
+  - "shiroi_boto.tmd"
+  - "shiroi_boto_piano.tmd"
 ---
 
 # 白いボート
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="shiroi_boto.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shiroi_boto.mp3"></audio>
 
 - 曲：不詳
 

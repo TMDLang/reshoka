@@ -1,22 +1,39 @@
 ---
 title: "蓮池 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "蓮池"
-description: "〈蓮池〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：G 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　丸葉卷葉（まるはまきば）をそよがせて 朝風わたる池のおも…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_1_09_hasuike"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈蓮池〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：G 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　丸葉卷葉（まるはまきば）をそよがせて 朝風わたる池のおも…"
 keywords: "蓮池, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+sources:
+  - "文部省"
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "G"
-image: "P033.jpg"
-audio: "hasuike.mp3"
+meter: "6/8"
+tempo: "60"
+image:
+  - file: "P033.jpg"
+audio:
+  - id: "hasuike"
+    label: "鋼琴伴奏版"
+    file: "hasuike.mp3"
+  - id: "hasuike_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hasuike_neutrino.mp3"
+tmd_source:
+  - "hasuike.tmd"
+  - "hasuike_piano.tmd"
 ---
 
 # 蓮池
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hasuike_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hasuike.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hasuike_neutrino.mp3"></audio>
 
 - 文部省
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）

@@ -1,20 +1,36 @@
 ---
 title: "近眼のしくじり (近視眼的失誤) — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
 song_title: "近眼のしくじり (近視眼的失誤)"
-description: "〈近眼のしくじり (近視眼的失誤)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（曲：梁田貞），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_07_p257_chikame_no_shikujiri"
+collection: "shokacho"
+volume: "vol_07"
+description: "〈近眼のしくじり (近視眼的失誤)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（曲：梁田貞），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "近眼のしくじり (近視眼的失誤), 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+credits:
+  - "曲：梁田貞"
+sources:
+  - "公學校唱歌帳 補遺 — 蓬 76頁ヨリ"
 musical_key: "C"
-image: "P257.jpg"
-audio: "chikame_no_shikujiri.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P257.jpg"
+audio:
+  - id: "chikame_no_shikujiri"
+    label: "鋼琴伴奏版"
+    file: "chikame_no_shikujiri.mp3"
+tmd_source:
+  - "chikame_no_shikujiri.tmd"
+  - "chikame_no_shikujiri_piano.tmd"
 ---
 
 # 近眼のしくじり (近視眼的失誤)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="chikame_no_shikujiri.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="chikame_no_shikujiri.mp3"></audio>
 
 - 曲：梁田貞
 - 公學校唱歌帳 補遺 — 蓬 76頁ヨリ

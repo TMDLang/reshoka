@@ -1,22 +1,40 @@
 ---
 title: "樂しき我家 — 《共益商社唱歌教科書》 巻四（教師用）"
 song_title: "樂しき我家"
-description: "〈樂しき我家〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：E 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花こそ薫らね、わがこの園、 月こそ匂はね、わがこの軒、…"
+song_id: "kyoeki_shoka_kan_4_854865_12_tanoshiki_wagaya"
+collection: "kyoeki_shoka"
+volume: "kan_4_854865"
+description: "〈樂しき我家〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：E 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花こそ薫らね、わがこの園、 月こそ匂はね、わがこの軒、…"
 keywords: "樂しき我家, 共益商社唱歌教科書, 巻四（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻四・教師用（NDL PID 854865）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻四》第二十八～三十一頁（第三學期第一曲）"
+  - "NDL Digital Collections PID 854865（https://dl.ndl.go.jp/pid/854865）掃描 P020.jpg、P021.jpg"
 musical_key: "E"
-image: "P020.jpg"
-audio: "tanoshiki_wagaya.mp3"
+meter: "6/8"
+tempo: "80"
+image:
+  - file: "P020.jpg"
+  - file: "P021.jpg"
+audio:
+  - id: "tanoshiki_wagaya"
+    label: "鋼琴伴奏版"
+    file: "tanoshiki_wagaya.mp3"
+  - id: "tanoshiki_wagaya_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tanoshiki_wagaya_neutrino.mp3"
+tmd_source:
+  - "tanoshiki_wagaya.tmd"
+  - "tanoshiki_wagaya_piano.tmd"
 ---
 
 # 樂しき我家
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="tanoshiki_wagaya_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="tanoshiki_wagaya.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tanoshiki_wagaya_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第二十八～三十一頁（第三學期第一曲）
 - NDL Digital Collections PID 854865（https://dl.ndl.go.jp/pid/854865）掃描 P020.jpg、P021.jpg

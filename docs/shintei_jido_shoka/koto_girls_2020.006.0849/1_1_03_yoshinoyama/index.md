@@ -1,20 +1,36 @@
 ---
 title: "吉野山 — 《新定兒童唱歌》 高等科 女子一二年"
 song_title: "吉野山"
-description: "〈吉野山〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：空（そら）にすみゆく　琴（こと）の音（ね）に ひかれてあそぶ　少女子（をとめご）が…"
+song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_1_03_yoshinoyama"
+collection: "shintei_jido_shoka"
+volume: "koto_girls_2020.006.0849"
+description: "〈吉野山〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：空（そら）にすみゆく　琴（こと）の音（ね）に ひかれてあそぶ　少女子（をとめご）が…"
 keywords: "吉野山, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
+sources:
+  - "（教育唱歌集）"
+  - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
 musical_key: "F"
-image: "P038.jpg"
-audio: "yoshinoyama.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P038.jpg"
+  - file: "P039.jpg"
+audio:
+  - id: "yoshinoyama"
+    label: "鋼琴伴奏版"
+    file: "yoshinoyama.mp3"
+tmd_source:
+  - "yoshinoyama.tmd"
+  - "yoshinoyama_piano.tmd"
 ---
 
 # 吉野山
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="yoshinoyama.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="yoshinoyama.mp3"></audio>
 
 - （教育唱歌集）
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

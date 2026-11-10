@@ -1,20 +1,37 @@
 ---
 title: "お山の大將 — 《楊金土手抄唱歌帖》 第 2 冊（II）"
 song_title: "お山の大將"
-description: "〈お山の大將〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（詞：西條八十、曲：本居長世），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：おやまの大將　おれひとり あとからくるもの　つきおとせ…"
+song_id: "shokacho_vol_02_p092_oyama_no_taisho"
+collection: "shokacho"
+volume: "vol_02"
+description: "〈お山の大將〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（詞：西條八十、曲：本居長世），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：おやまの大將　おれひとり あとからくるもの　つきおとせ…"
 keywords: "お山の大將, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 西條八十, 本居長世"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+credits:
+  - "詞：西條八十"
+  - "曲：本居長世"
+sources:
+  - "唱歌帳（2020.006.0843）P092.jpg（第 24 頁，結尾小節補於 P093.jpg 左下）"
 musical_key: "C"
-image: "P092.jpg"
-audio: "oyama_no_taisho.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P092.jpg"
+audio:
+  - id: "oyama_no_taisho"
+    label: "鋼琴伴奏版"
+    file: "oyama_no_taisho.mp3"
+tmd_source:
+  - "oyama_no_taisho.tmd"
+  - "oyama_no_taisho_piano.tmd"
 ---
 
 # お山の大將
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="oyama_no_taisho.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="oyama_no_taisho.mp3"></audio>
 
 - 詞：西條八十
 - 曲：本居長世

@@ -1,20 +1,35 @@
 ---
 title: "もしもしばあさん — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "もしもしばあさん"
-description: "〈もしもしばあさん〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：【原頁歌詞全文與中文語譯】（對應 P133.jpg） もしもしばあさん　うめぼしばあさん…"
+song_id: "shokacho_vol_01_p133_moshimoshi_baasan"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈もしもしばあさん〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：【原頁歌詞全文與中文語譯】（對應 P133.jpg） もしもしばあさん　うめぼしばあさん…"
 keywords: "もしもしばあさん, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+sources:
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P133）"
+  - "國立臺灣歷史博物館典藏"
 musical_key: "G"
-image: "P133.jpg"
-audio: "moshimoshi_baasan.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P133.jpg"
+audio:
+  - id: "moshimoshi_baasan"
+    label: "鋼琴伴奏版"
+    file: "moshimoshi_baasan.mp3"
+tmd_source:
+  - "moshimoshi_baasan.tmd"
+  - "moshimoshi_baasan_piano.tmd"
 ---
 
 # もしもしばあさん
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="moshimoshi_baasan.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="moshimoshi_baasan.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P133）
 - 國立臺灣歷史博物館典藏

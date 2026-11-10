@@ -1,22 +1,41 @@
 ---
 title: "何事も精神 — 《公學校唱歌》 第六學年用"
 song_title: "何事も精神"
-description: "〈何事も精神〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：軒より落つる雨だれの 絶えず休まず打つ時は、…"
+song_id: "kogakko_shoka_grade_6_14_nanigoto_mo_seishin"
+collection: "kogakko_shoka"
+volume: "grade_6"
+description: "〈何事も精神〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：軒より落つる雨だれの 絶えず休まず打つ時は、…"
 keywords: "何事も精神, 公學校唱歌, 第六學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+sources:
+  - "臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）"
 musical_key: "G"
-image: "P046.jpg"
-audio: "nanigoto_mo_seishin.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P046.jpg"
+  - file: "P047.jpg"
+  - file: "P048.jpg"
+  - file: "P049.jpg"
+audio:
+  - id: "nanigoto_mo_seishin"
+    label: "鋼琴伴奏版"
+    file: "nanigoto_mo_seishin.mp3"
+  - id: "nanigoto_mo_seishin_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nanigoto_mo_seishin_neutrino.mp3"
+tmd_source:
+  - "nanigoto_mo_seishin.tmd"
+  - "nanigoto_mo_seishin_piano.tmd"
 ---
 
 # 何事も精神
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nanigoto_mo_seishin_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nanigoto_mo_seishin.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nanigoto_mo_seishin_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）
 

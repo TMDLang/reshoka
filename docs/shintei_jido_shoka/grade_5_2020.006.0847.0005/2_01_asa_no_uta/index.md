@@ -1,22 +1,38 @@
 ---
 title: "朝の歌 — 《新定兒童唱歌》 尋常科 第五學年"
 song_title: "朝の歌"
-description: "〈朝の歌〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　朝日は昇（のぼ）りぬ日は出でぬ 海には帆綱（ほづな）をたぐり上げ…"
+song_id: "shintei_jido_shoka_grade_5_2020.006.0847.0005_2_01_asa_no_uta"
+collection: "shintei_jido_shoka"
+volume: "grade_5_2020.006.0847.0005"
+description: "〈朝の歌〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　朝日は昇（のぼ）りぬ日は出でぬ 海には帆綱（ほづな）をたぐり上げ…"
 keywords: "朝の歌, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（臺史博 2020.006.0847.0005）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）"
 musical_key: "G"
-image: "P036.jpg"
-audio: "asa_no_uta.mp3"
+meter: "2/4"
+tempo: "96"
+image:
+  - file: "P036.jpg"
+audio:
+  - id: "asa_no_uta"
+    label: "鋼琴伴奏版"
+    file: "asa_no_uta.mp3"
+  - id: "asa_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "asa_no_uta_neutrino.mp3"
+tmd_source:
+  - "asa_no_uta.tmd"
+  - "asa_no_uta_piano.tmd"
 ---
 
 # 朝の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="asa_no_uta_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="asa_no_uta.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="asa_no_uta_neutrino.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 

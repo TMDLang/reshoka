@@ -1,22 +1,41 @@
 ---
 title: "六氏先生 — 《公學校唱歌》 第五學年用"
 song_title: "六氏先生"
-description: "〈六氏先生〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第五學年用（國臺圖 523.37 4322-4））（曲：宮島慎三郎），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：やよや子等（こら）、はげめやよ。 學べ子等、子供等よ。…"
+song_id: "kogakko_shoka_grade_5_18_rokushi_sensei"
+collection: "kogakko_shoka"
+volume: "grade_5"
+description: "〈六氏先生〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第五學年用（國臺圖 523.37 4322-4））（曲：宮島慎三郎），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：やよや子等（こら）、はげめやよ。 學べ子等、子供等よ。…"
 keywords: "六氏先生, 公學校唱歌, 第五學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 宮島慎三郎"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第五學年用（國臺圖 523.37 4322-4）"
+credits:
+  - "曲：宮島慎三郎"
+sources:
+  - "臺灣總督府《公學校唱歌》第五學年用（昭和十一年一月，索書號 523.37 4322-4）"
 musical_key: "B,"
-image: "P048.jpg"
-audio: "rokushi_sensei.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P048.jpg"
+  - file: "P049.jpg"
+audio:
+  - id: "rokushi_sensei"
+    label: "鋼琴伴奏版"
+    file: "rokushi_sensei.mp3"
+  - id: "rokushi_sensei_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "rokushi_sensei_neutrino.mp3"
+tmd_source:
+  - "rokushi_sensei.tmd"
+  - "rokushi_sensei_piano.tmd"
 ---
 
 # 六氏先生
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="rokushi_sensei_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="rokushi_sensei.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="rokushi_sensei_neutrino.mp3"></audio>
 
 - 曲：宮島慎三郎
 - 臺灣總督府《公學校唱歌》第五學年用（昭和十一年一月，索書號 523.37 4322-4）

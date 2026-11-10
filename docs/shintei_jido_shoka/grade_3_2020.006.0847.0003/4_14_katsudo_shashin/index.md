@@ -1,22 +1,40 @@
 ---
 title: "活動寫眞 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "活動寫眞"
-description: "〈活動寫眞〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（葛原齒 作詞 / 小松耕輔 作曲），調號拍號：D 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、出て來る出て來る　いろんな人が あれあれ小さな　犬まで來るよ…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_4_14_katsudo_shashin"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈活動寫眞〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（葛原齒 作詞 / 小松耕輔 作曲），調號拍號：D 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、出て來る出て來る　いろんな人が あれあれ小さな　犬まで來るよ…"
 keywords: "活動寫眞, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒 作詞 / 小松耕輔 作曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "葛原齒 作詞 / 小松耕輔 作曲"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "D"
-image: "P075.jpg"
-audio: "katsudo_shashin.mp3"
+meter: "6/8"
+tempo: "112"
+image:
+  - file: "P075.jpg"
+audio:
+  - id: "katsudo_shashin"
+    label: "鋼琴伴奏版"
+    file: "katsudo_shashin.mp3"
+  - id: "katsudo_shashin_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "katsudo_shashin_neutrino.mp3"
+tmd_source:
+  - "katsudo_shashin.tmd"
+  - "katsudo_shashin_piano.tmd"
 ---
 
 # 活動寫眞
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="katsudo_shashin_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="katsudo_shashin.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="katsudo_shashin_neutrino.mp3"></audio>
 
 - 葛原齒 作詞 / 小松耕輔 作曲
 - 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）

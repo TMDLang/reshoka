@@ -1,22 +1,38 @@
 ---
 title: "六氏先生 — 《新定兒童唱歌》 尋常科 第五學年"
 song_title: "六氏先生"
-description: "〈六氏先生〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　やよや兒等　はげめやよ 學べこら　こどもらよ…"
+song_id: "shintei_jido_shoka_grade_5_2020.006.0847.0005_3_03_rokushi_sensei"
+collection: "shintei_jido_shoka"
+volume: "grade_5_2020.006.0847.0005"
+description: "〈六氏先生〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　やよや兒等　はげめやよ 學べこら　こどもらよ…"
 keywords: "六氏先生, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（臺史博 2020.006.0847.0005）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）"
 musical_key: "B,"
-image: "P052.jpg"
-audio: "rokushi_sensei.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P052.jpg"
+audio:
+  - id: "rokushi_sensei"
+    label: "鋼琴伴奏版"
+    file: "rokushi_sensei.mp3"
+  - id: "rokushi_sensei_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "rokushi_sensei_neutrino.mp3"
+tmd_source:
+  - "rokushi_sensei.tmd"
+  - "rokushi_sensei_piano.tmd"
 ---
 
 # 六氏先生
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="rokushi_sensei_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="rokushi_sensei.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="rokushi_sensei_neutrino.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 

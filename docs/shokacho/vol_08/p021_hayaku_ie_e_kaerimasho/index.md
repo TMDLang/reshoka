@@ -1,20 +1,35 @@
 ---
 title: "早く家へ帰りませう（快回家吧） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
 song_title: "早く家へ帰りませう（快回家吧）"
-description: "〈早く家へ帰りませう（快回家吧）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：モウユフガタニ ナリマシタ アカリガ イヘニ ツキマシタ…"
+song_id: "shokacho_vol_08_p021_hayaku_ie_e_kaerimasho"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈早く家へ帰りませう（快回家吧）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：モウユフガタニ ナリマシタ アカリガ イヘニ ツキマシタ…"
 keywords: "早く家へ帰りませう（快回家吧）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+sources:
+  - "出處：一年 / 刊りすより（昭2.11.30）"
+  - "《唱歌帖》（2020.006.0843）P021.jpg (bottom)"
 musical_key: "C"
-image: "P021.jpg"
-audio: "hayaku_ie_e_kaerimasho.mp3"
+meter: "4/4"
+tempo: "100"
+image:
+  - file: "P021.jpg"
+audio:
+  - id: "hayaku_ie_e_kaerimasho"
+    label: "鋼琴伴奏版"
+    file: "hayaku_ie_e_kaerimasho.mp3"
+tmd_source:
+  - "hayaku_ie_e_kaerimasho.tmd"
+  - "hayaku_ie_e_kaerimasho_piano.tmd"
 ---
 
 # 早く家へ帰りませう（快回家吧）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="hayaku_ie_e_kaerimasho.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="hayaku_ie_e_kaerimasho.mp3"></audio>
 
 - 出處：一年 / 刊りすより（昭2.11.30）
 - 《唱歌帖》（2020.006.0843）P021.jpg (bottom)

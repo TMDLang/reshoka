@@ -1,20 +1,37 @@
 ---
 title: "雨上り — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "雨上り"
-description: "〈雨上り〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：白上貞利），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　虹（にじ）の影（かげ）も　消（き）えぬ空（そら）に　早（はや）くも 高（たか）く歌（うた）ふ　聲（こゑ）は雲雀（ひば…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_1_08_ameagari"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈雨上り〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：白上貞利），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　虹（にじ）の影（かげ）も　消（き）えぬ空（そら）に　早（はや）くも 高（たか）く歌（うた）ふ　聲（こゑ）は雲雀（ひば…"
 keywords: "雨上り, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 白上貞利"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+credits:
+  - "詞：白上貞利"
+sources:
+  - "小學唱歌五十曲集"
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "G"
-image: "P032.jpg"
-audio: "ameagari.mp3"
+meter: "3/4"
+tempo: "108"
+image:
+  - file: "P032.jpg"
+audio:
+  - id: "ameagari"
+    label: "鋼琴伴奏版"
+    file: "ameagari.mp3"
+tmd_source:
+  - "ameagari.tmd"
+  - "ameagari_piano.tmd"
 ---
 
 # 雨上り
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="ameagari.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="ameagari.mp3"></audio>
 
 - 詞：白上貞利
 - 小學唱歌五十曲集

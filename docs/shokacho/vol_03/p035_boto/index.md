@@ -1,20 +1,36 @@
 ---
 title: "ボート — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "ボート"
-description: "〈ボート〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：潮みちぬ こぎだせよ いざともに こげやこげ…"
+song_id: "shokacho_vol_03_p035_boto"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈ボート〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：潮みちぬ こぎだせよ いざともに こげやこげ…"
 keywords: "ボート, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+sources:
+  - "出處：共益商社唱歌教科書教師用巻二 第五頁（1.）"
+  - "《唱歌帖》（2020.006.0843）P035.jpg"
+  - "原典：共益商社樂器店《唱歌教科書 教師用 巻二》第四～五頁（NDL PID 854863，https://dl.ndl.go.jp/pid/854863）"
 musical_key: "G"
-image: "P035.jpg"
-audio: "boto.mp3"
+meter: "2/4"
+tempo: "126"
+image:
+  - file: "P035.jpg"
+audio:
+  - id: "boto"
+    label: "鋼琴伴奏版"
+    file: "boto.mp3"
+tmd_source:
+  - "boto.tmd"
+  - "boto_piano.tmd"
 ---
 
 # ボート
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="boto.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="boto.mp3"></audio>
 
 - 出處：共益商社唱歌教科書教師用巻二 第五頁（1.）
 - 《唱歌帖》（2020.006.0843）P035.jpg

@@ -1,20 +1,35 @@
 ---
 title: "鬼が島 — 《楊金土手抄唱歌帖》 第 2 冊（II）"
 song_title: "鬼が島"
-description: "〈鬼が島〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：第一節： ムカシムカシ　オホムカシ　オニガシマヲバ　セイバツニ…"
+song_id: "shokacho_vol_02_p108_onigashima"
+collection: "shokacho"
+volume: "vol_02"
+description: "〈鬼が島〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：第一節： ムカシムカシ　オホムカシ　オニガシマヲバ　セイバツニ…"
 keywords: "鬼が島, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+sources:
+  - "大正幼年唱歌 第五集 20頁ヨリ"
+  - "唱歌帳（2020.006.0843）P108.jpg（大正十四年一月十五日抄）"
 musical_key: "F"
-image: "P108.jpg"
-audio: "onigashima.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P108.jpg"
+audio:
+  - id: "onigashima"
+    label: "鋼琴伴奏版"
+    file: "onigashima.mp3"
+tmd_source:
+  - "onigashima.tmd"
+  - "onigashima_piano.tmd"
 ---
 
 # 鬼が島
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="onigashima.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="onigashima.mp3"></audio>
 
 - 大正幼年唱歌 第五集 20頁ヨリ
 - 唱歌帳（2020.006.0843）P108.jpg（大正十四年一月十五日抄）

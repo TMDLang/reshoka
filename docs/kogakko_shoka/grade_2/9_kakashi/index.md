@@ -1,22 +1,43 @@
 ---
 title: "カカシ（案山子） — 《公學校唱歌》 第二學年用"
 song_title: "カカシ（案山子）"
-description: "〈カカシ（案山子）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第二學年用（國臺圖 523.37 4322-4））（作詞：武笠三（文部省尋常小學唱歌）、作曲：山田源一郎（文部省尋常小學唱歌）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ヤマダ ノ 中 ノ 一ポン アシ ノ カカシ、 テンキ ノ ヨイ ノ ニ ミノ カサ ツケテ、…"
+song_id: "kogakko_shoka_grade_2_9_kakashi"
+collection: "kogakko_shoka"
+volume: "grade_2"
+description: "〈カカシ（案山子）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第二學年用（國臺圖 523.37 4322-4））（作詞：武笠三（文部省尋常小學唱歌）、作曲：山田源一郎（文部省尋常小學唱歌）），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ヤマダ ノ 中 ノ 一ポン アシ ノ カカシ、 テンキ ノ ヨイ ノ ニ ミノ カサ ツケテ、…"
 keywords: "カカシ（案山子）, 公學校唱歌, 第二學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 武笠三（文部省尋常小學唱歌）, 山田源一郎（文部省尋常小學唱歌）"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第二學年用（國臺圖 523.37 4322-4）"
+credits:
+  - "作詞：武笠三（文部省尋常小學唱歌）"
+  - "作曲：山田源一郎（文部省尋常小學唱歌）"
+sources:
+  - "日治時期公學校唱歌（第二學年・第九課）"
+  - "國立臺灣圖書館典藏"
 musical_key: "F"
-image: "P020.jpg"
-audio: "kakashi.mp3"
+meter: "4/4"
+tempo: "112"
+image:
+  - file: "P020.jpg"
+  - file: "P021.jpg"
+audio:
+  - id: "kakashi"
+    label: "鋼琴伴奏版"
+    file: "kakashi.mp3"
+  - id: "kakashi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kakashi_neutrino.mp3"
+tmd_source:
+  - "kakashi.tmd"
+  - "kakashi_piano.tmd"
 ---
 
 # カカシ（案山子）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kakashi_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kakashi.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kakashi_neutrino.mp3"></audio>
 
 - 作詞：武笠三（文部省尋常小學唱歌）
 - 作曲：山田源一郎（文部省尋常小學唱歌）

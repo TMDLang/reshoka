@@ -1,20 +1,34 @@
 ---
 title: "鄭成功 (鄭成功 - 未完成草稿) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "鄭成功 (鄭成功 - 未完成草稿)"
-description: "〈鄭成功 (鄭成功 - 未完成草稿)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：原稿僅記音高數字，未記節奏底線與歌詞，依 2/4 拍每小節四個八分音符（句尾延長）轉錄…"
+song_id: "shokacho_vol_10_p217_teiseiko"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈鄭成功 (鄭成功 - 未完成草稿)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：原稿僅記音高數字，未記節奏底線與歌詞，依 2/4 拍每小節四個八分音符（句尾延長）轉錄…"
 keywords: "鄭成功 (鄭成功 - 未完成草稿), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
+sources:
+  - "公學校唱歌帳 (P217, 241頁)"
 musical_key: "G"
-image: "P217.jpg"
-audio: "teiseiko.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P217.jpg"
+audio:
+  - id: "teiseiko"
+    label: "鋼琴伴奏版"
+    file: "teiseiko.mp3"
+tmd_source:
+  - "teiseiko.tmd"
+  - "teiseiko_piano.tmd"
 ---
 
 # 鄭成功 (鄭成功 - 未完成草稿)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="teiseiko.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="teiseiko.mp3"></audio>
 
 - 公學校唱歌帳 (P217, 241頁)
 

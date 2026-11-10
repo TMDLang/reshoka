@@ -1,20 +1,37 @@
 ---
 title: "如意輪堂 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "如意輪堂"
-description: "〈如意輪堂〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：松谷代水（杉谷代水）、曲：田村虎藏），調號拍號：C 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　かしこき御聲　耳にはあれど 生きて歸らぬ　こたびの軍（いくさ）…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_05_nyoirindo"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈如意輪堂〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：松谷代水（杉谷代水）、曲：田村虎藏），調號拍號：C 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　かしこき御聲　耳にはあれど 生きて歸らぬ　こたびの軍（いくさ）…"
 keywords: "如意輪堂, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 松谷代水（杉谷代水）, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：松谷代水（杉谷代水）"
+  - "曲：田村虎藏"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "C"
-image: "P112.jpg"
-audio: "nyoirindo.mp3"
+meter: "3/4"
+tempo: "84"
+image:
+  - file: "P112.jpg"
+audio:
+  - id: "nyoirindo"
+    label: "鋼琴伴奏版"
+    file: "nyoirindo.mp3"
+tmd_source:
+  - "nyoirindo.tmd"
+  - "nyoirindo_piano.tmd"
 ---
 
 # 如意輪堂
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="nyoirindo.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="nyoirindo.mp3"></audio>
 
 - 詞：松谷代水（杉谷代水）
 - 曲：田村虎藏

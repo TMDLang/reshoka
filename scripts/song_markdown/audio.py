@@ -2,12 +2,38 @@
 
 from __future__ import annotations
 
+from dataclasses import dataclass
 import html
 from pathlib import Path
 import re
 import subprocess
 
-from .utils import is_up_to_date, run
+from .utils import is_up_to_date, natural_sort_key, run
+
+
+@dataclass(frozen=True)
+class AudioAsset:
+    """An exported audio file discovered beside a song's TMD source files."""
+
+    path: Path
+    label: str
+
+
+def discover_audio_assets(
+    folder: Path, stem: str, *, audio_is_piano: bool
+) -> list[AudioAsset]:
+    """Discover MP3 exports without adding audio metadata to the TMD source."""
+    paths = sorted(folder.glob("*.mp3"), key=lambda path: natural_sort_key(path.name))
+    assets: list[AudioAsset] = []
+    for path in paths:
+        if path.name == f"{stem}.mp3":
+            label = "鋼琴伴奏版" if audio_is_piano else "原曲伴奏版"
+        elif path.name.endswith("_neutrino.mp3"):
+            label = "NEUTRINO 歌聲合成版"
+        else:
+            label = path.stem
+        assets.append(AudioAsset(path=path, label=label))
+    return assets
 
 
 def render_analysis(main_tmd: Path, folder: Path) -> str:
@@ -40,8 +66,8 @@ def render_song_audio(
     soundfont: Path | None = None,
     force: bool = False,
     no_audio: bool = False,
-) -> tuple[Path | None, bool, str]:
-    """Render MP3 audio if needed and return (audio_path, audio_is_piano, audio_html)."""
+) -> tuple[list[AudioAsset], str]:
+    """Render audio and discover all MP3 exports beside the TMD sources."""
     mp3_path = folder / f"{stem}.mp3"
     wav_path = folder / f"{stem}.wav"
     audio_html = "*尚未產生音訊。*"
@@ -101,28 +127,17 @@ def render_song_audio(
     # same-stem MP3 when no accompaniment TMD is available (or rendering was
     # skipped/failed).  The latter is the original audio supplied with the song.
     audio_path = mp3_path if mp3_path.exists() else None
-    neutrino_mp3_path = folder / f"{stem}_neutrino.mp3"
-    if not neutrino_mp3_path.exists():
-        neutrino_candidates = sorted(folder.glob("*_neutrino.mp3"))
-        if neutrino_candidates:
-            neutrino_mp3_path = neutrino_candidates[0]
-    has_neutrino_audio = neutrino_mp3_path.exists()
-
     audio_is_piano = piano_tmd is not None and audio_path is not None
-    if audio_path and has_neutrino_audio:
-        piano_label = "鋼琴伴奏版" if audio_is_piano else "原曲伴奏版"
-        audio_html = (
-            f'- **NEUTRINO 歌聲合成版**：<br><audio controls src="{html.escape(neutrino_mp3_path.name)}"></audio>\n'
-            f'- **{piano_label}**：<br><audio controls src="{html.escape(audio_path.name)}"></audio>\n'
+    audio_assets = discover_audio_assets(
+        folder, stem, audio_is_piano=audio_is_piano
+    )
+    if audio_assets:
+        audio_html = "\n".join(
+            f'- **{html.escape(asset.label)}**：<br>'
+            f'<audio controls src="{html.escape(asset.path.name)}"></audio>'
+            for asset in audio_assets
         )
-    elif has_neutrino_audio:
-        audio_path = neutrino_mp3_path
-        audio_html = (
-            f'<audio controls src="{html.escape(neutrino_mp3_path.name)}"></audio>'
-        )
-    elif audio_path:
-        audio_html = f'<audio controls src="{html.escape(audio_path.name)}"></audio>'
     elif piano_tmd:
         audio_html = "*已略過音訊渲染（尚未產生 MP3）。*"
 
-    return audio_path, audio_is_piano, audio_html
+    return audio_assets, audio_html

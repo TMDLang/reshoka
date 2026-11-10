@@ -1,22 +1,44 @@
 ---
 title: "天照大神 — 《公學校唱歌》 第六學年用"
 song_title: "天照大神"
-description: "〈天照大神〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4））（詞：文部省、曲：文部省），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：「豐葦原（とよあしはら）の中つ國、 皇孫（すめみま）行きて知ろしめせ。…"
+song_id: "kogakko_shoka_grade_6_16_amaterasu_omikami"
+collection: "kogakko_shoka"
+volume: "grade_6"
+description: "〈天照大神〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4））（詞：文部省、曲：文部省），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：「豐葦原（とよあしはら）の中つ國、 皇孫（すめみま）行きて知ろしめせ。…"
 keywords: "天照大神, 公學校唱歌, 第六學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+credits:
+  - "詞：文部省"
+  - "曲：文部省"
+sources:
+  - "臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）"
 musical_key: "F"
-image: "P052.jpg"
-audio: "amaterasu_omikami.mp3"
+meter: "4/4"
+tempo: "100"
+image:
+  - file: "P052.jpg"
+  - file: "P053.jpg"
+  - file: "P054.jpg"
+  - file: "P055.jpg"
+audio:
+  - id: "amaterasu_omikami"
+    label: "鋼琴伴奏版"
+    file: "amaterasu_omikami.mp3"
+  - id: "amaterasu_omikami_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "amaterasu_omikami_neutrino.mp3"
+tmd_source:
+  - "amaterasu_omikami.tmd"
+  - "amaterasu_omikami_piano.tmd"
 ---
 
 # 天照大神
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="amaterasu_omikami_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="amaterasu_omikami.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="amaterasu_omikami_neutrino.mp3"></audio>
 
 - 詞：文部省
 - 曲：文部省

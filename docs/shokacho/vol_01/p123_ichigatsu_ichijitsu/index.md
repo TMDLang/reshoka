@@ -1,20 +1,37 @@
 ---
 title: "一月一日 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "一月一日"
-description: "〈一月一日〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：千家尊福、曲：上眞行），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、年のはじめの例（ためし）とて 終りなき世のめでたさを…"
+song_id: "shokacho_vol_01_p123_ichigatsu_ichijitsu"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈一月一日〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：千家尊福、曲：上眞行），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、年のはじめの例（ためし）とて 終りなき世のめでたさを…"
 keywords: "一月一日, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 千家尊福, 上眞行"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+credits:
+  - "詞：千家尊福"
+  - "曲：上眞行"
+sources:
+  - "唱歌筆記帖（臺灣子供世界社發行，2020.006.0843）P123.jpg（第 7 頁）"
 musical_key: "D"
-image: "P123.jpg"
-audio: "ichigatsu_ichijitsu.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P123.jpg"
+audio:
+  - id: "ichigatsu_ichijitsu"
+    label: "鋼琴伴奏版"
+    file: "ichigatsu_ichijitsu.mp3"
+tmd_source:
+  - "ichigatsu_ichijitsu.tmd"
+  - "ichigatsu_ichijitsu_piano.tmd"
 ---
 
 # 一月一日
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="ichigatsu_ichijitsu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="ichigatsu_ichijitsu.mp3"></audio>
 
 - 詞：千家尊福
 - 曲：上眞行

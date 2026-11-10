@@ -1,22 +1,42 @@
 ---
 title: "おきやくさま（客人） — 《新定兒童唱歌》 尋常科 第二學年"
 song_title: "おきやくさま（客人）"
-description: "〈おきやくさま（客人）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（詞：葛原齒、曲：梁田貞），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（甲）『ごめんください花子さん 大へんおさむくなりました…"
+song_id: "shintei_jido_shoka_grade_2_2020.006.0847.0002_4_16_okyaku_sama"
+collection: "shintei_jido_shoka"
+volume: "grade_2_2020.006.0847.0002"
+description: "〈おきやくさま（客人）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（詞：葛原齒、曲：梁田貞），調號拍號：B, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（甲）『ごめんください花子さん 大へんおさむくなりました…"
 keywords: "おきやくさま（客人）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（臺史博 2020.006.0847.0002）"
+credits:
+  - "詞：葛原齒"
+  - "曲：梁田貞"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
 musical_key: "B,"
-image: "P070.jpg"
-audio: "okyaku_sama.mp3"
+meter: "2/4"
+tempo: "96"
+image:
+  - file: "P070.jpg"
+  - file: "P071.jpg"
+audio:
+  - id: "okyaku_sama"
+    label: "鋼琴伴奏版"
+    file: "okyaku_sama.mp3"
+  - id: "okyaku_sama_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "okyaku_sama_neutrino.mp3"
+tmd_source:
+  - "okyaku_sama.tmd"
+  - "okyaku_sama_piano.tmd"
 ---
 
 # おきやくさま（客人）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="okyaku_sama_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="okyaku_sama.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="okyaku_sama_neutrino.mp3"></audio>
 
 - 詞：葛原齒
 - 曲：梁田貞

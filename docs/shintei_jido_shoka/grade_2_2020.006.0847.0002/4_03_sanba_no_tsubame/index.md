@@ -1,22 +1,40 @@
 ---
 title: "三バノツバメ（三隻燕子） — 《新定兒童唱歌》 尋常科 第二學年"
 song_title: "三バノツバメ（三隻燕子）"
-description: "〈三バノツバメ（三隻燕子）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（曲：永井幸次），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イツノマニキタ三バノツバメ モトノフルスガコヒシイカ…"
+song_id: "shintei_jido_shoka_grade_2_2020.006.0847.0002_4_03_sanba_no_tsubame"
+collection: "shintei_jido_shoka"
+volume: "grade_2_2020.006.0847.0002"
+description: "〈三バノツバメ（三隻燕子）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（曲：永井幸次），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イツノマニキタ三バノツバメ モトノフルスガコヒシイカ…"
 keywords: "三バノツバメ（三隻燕子）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 永井幸次"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（臺史博 2020.006.0847.0002）"
+credits:
+  - "曲：永井幸次"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
 musical_key: "G"
-image: "P055.jpg"
-audio: "sanba_no_tsubame.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P055.jpg"
+audio:
+  - id: "sanba_no_tsubame"
+    label: "鋼琴伴奏版"
+    file: "sanba_no_tsubame.mp3"
+  - id: "sanba_no_tsubame_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sanba_no_tsubame_neutrino.mp3"
+tmd_source:
+  - "sanba_no_tsubame.tmd"
+  - "sanba_no_tsubame_piano.tmd"
 ---
 
 # 三バノツバメ（三隻燕子）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="sanba_no_tsubame_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="sanba_no_tsubame.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sanba_no_tsubame_neutrino.mp3"></audio>
 
 - 曲：永井幸次
 - 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）

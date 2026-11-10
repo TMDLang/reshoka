@@ -1,20 +1,37 @@
 ---
 title: "川中島 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "川中島"
-description: "〈川中島〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹（松邑三松堂發行檢定唱歌集）、曲：歐洲曲），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雨（あめ）呼（よ）ぶ龍（たつ）か、風（かぜ）呼（よ）ぶ虎（とら）か、 上杉勢（うへすぎぜい）と、武田（たけだ）の兵（へい…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_2_06_kawanakajima"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈川中島〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹（松邑三松堂發行檢定唱歌集）、曲：歐洲曲），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雨（あめ）呼（よ）ぶ龍（たつ）か、風（かぜ）呼（よ）ぶ虎（とら）か、 上杉勢（うへすぎぜい）と、武田（たけだ）の兵（へい…"
 keywords: "川中島, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹（松邑三松堂發行檢定唱歌集）, 歐洲曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：大和田建樹（松邑三松堂發行檢定唱歌集）"
+  - "曲：歐洲曲"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "F"
-image: "P053.jpg"
-audio: "kawanakajima.mp3"
+meter: "2/4"
+tempo: "80"
+image:
+  - file: "P053.jpg"
+audio:
+  - id: "kawanakajima"
+    label: "鋼琴伴奏版"
+    file: "kawanakajima.mp3"
+tmd_source:
+  - "kawanakajima.tmd"
+  - "kawanakajima_piano.tmd"
 ---
 
 # 川中島
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kawanakajima.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kawanakajima.mp3"></audio>
 
 - 詞：大和田建樹（松邑三松堂發行檢定唱歌集）
 - 曲：歐洲曲

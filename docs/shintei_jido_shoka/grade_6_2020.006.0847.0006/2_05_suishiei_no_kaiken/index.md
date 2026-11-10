@@ -1,20 +1,36 @@
 ---
 title: "水師營の會見 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "水師營の會見"
-description: "〈水師營の會見〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：旅順開城約成りて 敵の將軍ステッセル…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_2_05_suishiei_no_kaiken"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈水師營の會見〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：旅順開城約成りて 敵の將軍ステッセル…"
 keywords: "水師營の會見, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+sources:
+  - "文部省"
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "B,"
-image: "P042.jpg"
-audio: "suishiei_no_kaiken.mp3"
+meter: "4/4"
+tempo: "120"
+image:
+  - file: "P042.jpg"
+  - file: "P043.jpg"
+audio:
+  - id: "suishiei_no_kaiken"
+    label: "鋼琴伴奏版"
+    file: "suishiei_no_kaiken.mp3"
+tmd_source:
+  - "suishiei_no_kaiken.tmd"
+  - "suishiei_no_kaiken_piano.tmd"
 ---
 
 # 水師營の會見
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="suishiei_no_kaiken.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="suishiei_no_kaiken.mp3"></audio>
 
 - 文部省
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）

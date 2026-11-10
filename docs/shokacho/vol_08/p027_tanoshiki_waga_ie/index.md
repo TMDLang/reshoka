@@ -1,20 +1,35 @@
 ---
 title: "樂シキ我家（快樂的我家） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
 song_title: "樂シキ我家（快樂的我家）"
-description: "〈樂シキ我家（快樂的我家）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハナ コソ カヲラネ ワガ コノ ソノ ツキ コソ ニホハネ ワガ コノ ノキ…"
+song_id: "shokacho_vol_08_p027_tanoshiki_waga_ie"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈樂シキ我家（快樂的我家）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハナ コソ カヲラネ ワガ コノ ソノ ツキ コソ ニホハネ ワガ コノ ノキ…"
 keywords: "樂シキ我家（快樂的我家）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+sources:
+  - "出處：蓬集（昭2.2.21）"
+  - "《唱歌帖》（2020.006.0843）P027.jpg"
 musical_key: "B,"
-image: "P027.jpg"
-audio: "tanoshiki_waga_ie.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P027.jpg"
+audio:
+  - id: "tanoshiki_waga_ie"
+    label: "鋼琴伴奏版"
+    file: "tanoshiki_waga_ie.mp3"
+tmd_source:
+  - "tanoshiki_waga_ie.tmd"
+  - "tanoshiki_waga_ie_piano.tmd"
 ---
 
 # 樂シキ我家（快樂的我家）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tanoshiki_waga_ie.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tanoshiki_waga_ie.mp3"></audio>
 
 - 出處：蓬集（昭2.2.21）
 - 《唱歌帖》（2020.006.0843）P027.jpg

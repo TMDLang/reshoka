@@ -1,20 +1,37 @@
 ---
 title: "誠實 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "誠實"
-description: "〈誠實〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：犬童球溪、曲：Lowell Mason（メーソン）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　眞心（まごころ）こもる頭（かしら）にこそ、 守護（まもり）の神（かみ）は宿（やど）るなれ、…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_02_seijitsu"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈誠實〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：犬童球溪、曲：Lowell Mason（メーソン）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　眞心（まごころ）こもる頭（かしら）にこそ、 守護（まもり）の神（かみ）は宿（やど）るなれ、…"
 keywords: "誠實, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 犬童球溪, Lowell Mason（メーソン）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：犬童球溪"
+  - "曲：Lowell Mason（メーソン）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "F"
-image: "P037.jpg"
-audio: "seijitsu.mp3"
+meter: "4/4"
+tempo: "112"
+image:
+  - file: "P037.jpg"
+audio:
+  - id: "seijitsu"
+    label: "鋼琴伴奏版"
+    file: "seijitsu.mp3"
+tmd_source:
+  - "seijitsu.tmd"
+  - "seijitsu_piano.tmd"
 ---
 
 # 誠實
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="seijitsu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="seijitsu.mp3"></audio>
 
 - 詞：犬童球溪
 - 曲：Lowell Mason（メーソン）

@@ -1,22 +1,42 @@
 ---
 title: "ウサギトカメ（兔子與烏龜） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "ウサギトカメ（兔子與烏龜）"
-description: "〈ウサギトカメ（兔子與烏龜）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：石原和三郎、曲：納所辨次郎），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一（ウサギ） モシモシ　カメヨ　カメサンヨ…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_2_01_usagi_to_kame"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈ウサギトカメ（兔子與烏龜）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：石原和三郎、曲：納所辨次郎），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一（ウサギ） モシモシ　カメヨ　カメサンヨ…"
 keywords: "ウサギトカメ（兔子與烏龜）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 納所辨次郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：石原和三郎"
+  - "曲：納所辨次郎"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "D"
-image: "P030.jpg"
-audio: "usagi_to_kame.mp3"
+meter: "2/4"
+tempo: "104"
+image:
+  - file: "P030.jpg"
+  - file: "P031.jpg"
+audio:
+  - id: "usagi_to_kame"
+    label: "鋼琴伴奏版"
+    file: "usagi_to_kame.mp3"
+  - id: "usagi_to_kame_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "usagi_to_kame_neutrino.mp3"
+tmd_source:
+  - "usagi_to_kame.tmd"
+  - "usagi_to_kame_piano.tmd"
 ---
 
 # ウサギトカメ（兔子與烏龜）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="usagi_to_kame_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="usagi_to_kame.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="usagi_to_kame_neutrino.mp3"></audio>
 
 - 詞：石原和三郎
 - 曲：納所辨次郎

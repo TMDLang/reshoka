@@ -1,22 +1,43 @@
 ---
 title: "臺灣の歌 — 《臺灣の歌》 昭和四年（全一冊）"
 song_title: "臺灣の歌"
-description: "〈臺灣の歌〉收錄於日治時期臺灣《臺灣の歌》（臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8））（作詞：内田隆、作曲：信時潔），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：瓊矛（ぬぼこ）の露（つゆ）の一（ひと）しづく 八洲（やしま）のかなた南（みんなみ）の…"
+song_id: "taiwan_no_uta_taiwan_no_uta_1_taiwan_no_uta"
+collection: "taiwan_no_uta"
+volume: "taiwan_no_uta"
+description: "〈臺灣の歌〉收錄於日治時期臺灣《臺灣の歌》（臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8））（作詞：内田隆、作曲：信時潔），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：瓊矛（ぬぼこ）の露（つゆ）の一（ひと）しづく 八洲（やしま）のかなた南（みんなみ）の…"
 keywords: "臺灣の歌, 昭和四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 内田隆, 信時潔"
 schema_type: "MusicComposition"
 is_part_of: "《臺灣の歌》 臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8）"
+credits:
+  - "作詞：内田隆"
+  - "作曲：信時潔"
+sources:
+  - "臺灣教育會《臺灣の歌》（御大典記念事業，昭和四年五月一日發行，國臺圖 0786 8）第 2–4 頁（唱歌第一曲）"
 musical_key: "E,"
-image: "P004.jpg"
-audio: "taiwan_no_uta.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P004.jpg"
+  - file: "P005.jpg"
+  - file: "P006.jpg"
+audio:
+  - id: "taiwan_no_uta"
+    label: "鋼琴伴奏版"
+    file: "taiwan_no_uta.mp3"
+  - id: "taiwan_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taiwan_no_uta_neutrino.mp3"
+tmd_source:
+  - "taiwan_no_uta.tmd"
+  - "taiwan_no_uta_piano.tmd"
 ---
 
 # 臺灣の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="taiwan_no_uta_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="taiwan_no_uta.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taiwan_no_uta_neutrino.mp3"></audio>
 
 - 作詞：内田隆
 - 作曲：信時潔

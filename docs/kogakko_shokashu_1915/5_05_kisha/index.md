@@ -1,22 +1,40 @@
 ---
 title: "汽車 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "汽車"
-description: "〈汽車〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、今（いま）は山中（やまなか）、今（いま）は濱（はま）、 今（いま）は鐵橋（てつけう）渡（わた）るぞと…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_5_05_kisha"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈汽車〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、今（いま）は山中（やまなか）、今（いま）は濱（はま）、 今（いま）は鐵橋（てつけう）渡（わた）るぞと…"
 keywords: "汽車, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+sources:
+  - "文部省《尋常小學唱歌》"
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "G"
-image: "P080.jpg"
-audio: "kisha.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P080.jpg"
+  - file: "P081.jpg"
+audio:
+  - id: "kisha"
+    label: "鋼琴伴奏版"
+    file: "kisha.mp3"
+  - id: "kisha_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kisha_neutrino.mp3"
+tmd_source:
+  - "kisha.tmd"
+  - "kisha_piano.tmd"
 ---
 
 # 汽車
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kisha_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kisha.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kisha_neutrino.mp3"></audio>
 
 - 文部省《尋常小學唱歌》
 - 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）

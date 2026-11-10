@@ -1,22 +1,42 @@
 ---
 title: "港 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "港"
-description: "〈港〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：吉田信太、曲：吉田信太），調號拍號：C 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　空も港も　夜ははれて 月にかずます　船のかげ…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_2_09_minato"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈港〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：吉田信太、曲：吉田信太），調號拍號：C 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　空も港も　夜ははれて 月にかずます　船のかげ…"
 keywords: "港, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 吉田信太"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "詞：吉田信太"
+  - "曲：吉田信太"
+sources:
+  - "臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第二學期・第9首）"
+  - "國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）"
 musical_key: "C"
-image: "P048.jpg"
-audio: "minato.mp3"
+meter: "3/4"
+tempo: "92"
+image:
+  - file: "P048.jpg"
+audio:
+  - id: "minato"
+    label: "鋼琴伴奏版"
+    file: "minato.mp3"
+  - id: "minato_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "minato_neutrino.mp3"
+tmd_source:
+  - "minato.tmd"
+  - "minato_piano.tmd"
 ---
 
 # 港
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="minato_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="minato.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="minato_neutrino.mp3"></audio>
 
 - 詞：吉田信太
 - 曲：吉田信太

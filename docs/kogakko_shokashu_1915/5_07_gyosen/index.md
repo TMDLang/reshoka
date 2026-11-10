@@ -1,22 +1,40 @@
 ---
 title: "漁船 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "漁船"
-description: "〈漁船〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、えんやら〳〵　艪拍子（ろびゃうし）そろへて、 朝日（あさひ）の港（みなと）を　漕（こ）ぎ出（だ）すれふ船（せん）。…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_5_07_gyosen"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈漁船〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、えんやら〳〵　艪拍子（ろびゃうし）そろへて、 朝日（あさひ）の港（みなと）を　漕（こ）ぎ出（だ）すれふ船（せん）。…"
 keywords: "漁船, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+sources:
+  - "文部省《尋常小學唱歌》"
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "D"
-image: "P084.jpg"
-audio: "gyosen.mp3"
+meter: "2/4"
+tempo: "76"
+image:
+  - file: "P084.jpg"
+  - file: "P085.jpg"
+audio:
+  - id: "gyosen"
+    label: "鋼琴伴奏版"
+    file: "gyosen.mp3"
+  - id: "gyosen_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "gyosen_neutrino.mp3"
+tmd_source:
+  - "gyosen.tmd"
+  - "gyosen_piano.tmd"
 ---
 
 # 漁船
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="gyosen_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="gyosen.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="gyosen_neutrino.mp3"></audio>
 
 - 文部省《尋常小學唱歌》
 - 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）

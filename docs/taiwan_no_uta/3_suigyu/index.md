@@ -1,22 +1,41 @@
 ---
 title: "水牛 — 《臺灣の歌》 昭和四年（全一冊）"
 song_title: "水牛"
-description: "〈水牛〉收錄於日治時期臺灣《臺灣の歌》（臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8））（作詞：御船武、作曲：郭明峯），調號拍號：E, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） お風呂（ふろ）の好（す）きな水牛（すゐぎう）は…"
+song_id: "taiwan_no_uta_taiwan_no_uta_3_suigyu"
+collection: "taiwan_no_uta"
+volume: "taiwan_no_uta"
+description: "〈水牛〉收錄於日治時期臺灣《臺灣の歌》（臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8））（作詞：御船武、作曲：郭明峯），調號拍號：E, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） お風呂（ふろ）の好（す）きな水牛（すゐぎう）は…"
 keywords: "水牛, 臺灣の歌, 昭和四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 御船武, 郭明峯"
 schema_type: "MusicComposition"
 is_part_of: "《臺灣の歌》 臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8）"
+credits:
+  - "作詞：御船武"
+  - "作曲：郭明峯"
+sources:
+  - "臺灣教育會《臺灣の歌》（御大典記念事業，昭和四年五月一日發行，國臺圖 0786 8）第 6 頁（唱歌第三曲）"
 musical_key: "E,"
-image: "P008.jpg"
-audio: "suigyu.mp3"
+meter: "2/4"
+tempo: "88"
+image:
+  - file: "P008.jpg"
+audio:
+  - id: "suigyu"
+    label: "鋼琴伴奏版"
+    file: "suigyu.mp3"
+  - id: "suigyu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "suigyu_neutrino.mp3"
+tmd_source:
+  - "suigyu.tmd"
+  - "suigyu_piano.tmd"
 ---
 
 # 水牛
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="suigyu_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="suigyu.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="suigyu_neutrino.mp3"></audio>
 
 - 作詞：御船武
 - 作曲：郭明峯

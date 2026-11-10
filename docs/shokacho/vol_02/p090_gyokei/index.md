@@ -1,20 +1,35 @@
 ---
 title: "曉景（二部輪唱） — 《楊金土手抄唱歌帖》 第 2 冊（II）"
 song_title: "曉景（二部輪唱）"
-description: "〈曉景（二部輪唱）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112）），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：第一節（片假名）： ヒガーシノソラ　ホホーエミテーー…"
+song_id: "shokacho_vol_02_p090_gyokei"
+collection: "shokacho"
+volume: "vol_02"
+description: "〈曉景（二部輪唱）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112）），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：第一節（片假名）： ヒガーシノソラ　ホホーエミテーー…"
 keywords: "曉景（二部輪唱）, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+sources:
+  - "唱歌帳（2020.006.0843）P090.jpg–P091.jpg（第 22–23 頁）"
 musical_key: "E,"
-image: "P090.jpg"
-audio: "gyokei.mp3"
+meter: "4/4"
+tempo: "116"
+image:
+  - file: "P090.jpg"
+  - file: "P091.jpg"
+audio:
+  - id: "gyokei"
+    label: "鋼琴伴奏版"
+    file: "gyokei.mp3"
+tmd_source:
+  - "gyokei.tmd"
+  - "gyokei_piano.tmd"
 ---
 
 # 曉景（二部輪唱）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="gyokei.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="gyokei.mp3"></audio>
 
 - 唱歌帳（2020.006.0843）P090.jpg–P091.jpg（第 22–23 頁）
 

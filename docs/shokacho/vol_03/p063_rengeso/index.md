@@ -1,20 +1,34 @@
 ---
 title: "れんげさう — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "れんげさう"
-description: "〈れんげさう〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：正聴会編 唱歌学習帳 四年），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_03_p063_rengeso"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈れんげさう〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：正聴会編 唱歌学習帳 四年），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "れんげさう, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 正聴会編 唱歌学習帳 四年"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+credits:
+  - "曲：正聴会編 唱歌学習帳 四年"
 musical_key: "F"
-image: "P063.jpg"
-audio: "rengeso.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P063.jpg"
+audio:
+  - id: "rengeso"
+    label: "鋼琴伴奏版"
+    file: "rengeso.mp3"
+tmd_source:
+  - "rengeso.tmd"
+  - "rengeso_piano.tmd"
 ---
 
 # れんげさう
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="rengeso.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="rengeso.mp3"></audio>
 
 - 曲：正聴会編 唱歌学習帳 四年
 

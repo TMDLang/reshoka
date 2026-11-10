@@ -1,20 +1,34 @@
 ---
 title: "オフネ（小船） — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
 song_title: "オフネ（小船）"
-description: "〈オフネ（小船）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ヒーロイ ナーガイ ガハノウヘ オフネガ タクサン トホリマス…"
+song_id: "shokacho_vol_07_p228_ofune"
+collection: "shokacho"
+volume: "vol_07"
+description: "〈オフネ（小船）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）），調號拍號：D 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ヒーロイ ナーガイ ガハノウヘ オフネガ タクサン トホリマス…"
 keywords: "オフネ（小船）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+sources:
+  - "唱歌帖 P228 (一年 / 蓬萊唱歌 14頁)"
 musical_key: "D"
-image: "P228.jpg"
-audio: "ofune.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P228.jpg"
+audio:
+  - id: "ofune"
+    label: "鋼琴伴奏版"
+    file: "ofune.mp3"
+tmd_source:
+  - "ofune.tmd"
+  - "ofune_piano.tmd"
 ---
 
 # オフネ（小船）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="ofune.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="ofune.mp3"></audio>
 
 - 唱歌帖 P228 (一年 / 蓬萊唱歌 14頁)
 

@@ -1,22 +1,42 @@
 ---
 title: "犬 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "犬"
-description: "〈犬〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：文部省、曲：文部省），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、外（そと）へ出（で）る時（とき）とんで來（き）て、 追（お）っても追っても附（つ）いて來（く）る。…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_1_04_inu"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈犬〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：文部省、曲：文部省），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、外（そと）へ出（で）る時（とき）とんで來（き）て、 追（お）っても追っても附（つ）いて來（く）る。…"
 keywords: "犬, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+credits:
+  - "詞：文部省"
+  - "曲：文部省"
+sources:
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "D"
-image: "P014.jpg"
-audio: "inu.mp3"
+meter: "4/4"
+tempo: "120"
+image:
+  - file: "P014.jpg"
+  - file: "P015.jpg"
+audio:
+  - id: "inu"
+    label: "鋼琴伴奏版"
+    file: "inu.mp3"
+  - id: "inu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "inu_neutrino.mp3"
+tmd_source:
+  - "inu.tmd"
+  - "inu_piano.tmd"
 ---
 
 # 犬
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="inu_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="inu.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="inu_neutrino.mp3"></audio>
 
 - 詞：文部省
 - 曲：文部省

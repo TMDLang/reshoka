@@ -1,20 +1,35 @@
 ---
 title: "無題・三拍子曲 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "無題・三拍子曲"
-description: "〈無題・三拍子曲〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：F 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_03_p040_mudai"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈無題・三拍子曲〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "無題・三拍子曲, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+sources:
+  - "出處：《唱歌帖》（2020.006.0843）P040.jpg–P041.jpg (top)（6.–7.）"
 musical_key: "F"
-image: "P040.jpg"
-audio: "mudai.mp3"
+meter: "3/4"
+tempo: "120"
+image:
+  - file: "P040.jpg"
+  - file: "P041.jpg"
+audio:
+  - id: "mudai"
+    label: "鋼琴伴奏版"
+    file: "mudai.mp3"
+tmd_source:
+  - "mudai.tmd"
+  - "mudai_piano.tmd"
 ---
 
 # 無題・三拍子曲
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="mudai.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="mudai.mp3"></audio>
 
 - 出處：《唱歌帖》（2020.006.0843）P040.jpg–P041.jpg (top)（6.–7.）
 

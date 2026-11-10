@@ -1,22 +1,39 @@
 ---
 title: "農家の秋 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "農家の秋"
-description: "〈農家の秋〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：庭一面（にはいちめん）に　ほしたもみ みぎは竹（たけ）やぶ　前ひしう…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_2_09_noka_no_aki"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈農家の秋〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004）），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：庭一面（にはいちめん）に　ほしたもみ みぎは竹（たけ）やぶ　前ひしう…"
 keywords: "農家の秋, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "F"
-image: "P044.jpg"
-audio: "noka_no_aki.mp3"
+meter: "4/4"
+tempo: "120"
+image:
+  - file: "P044.jpg"
+  - file: "P045.jpg"
+audio:
+  - id: "noka_no_aki"
+    label: "鋼琴伴奏版"
+    file: "noka_no_aki.mp3"
+  - id: "noka_no_aki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "noka_no_aki_neutrino.mp3"
+tmd_source:
+  - "noka_no_aki.tmd"
+  - "noka_no_aki_piano.tmd"
 ---
 
 # 農家の秋
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="noka_no_aki_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="noka_no_aki.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="noka_no_aki_neutrino.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）
 

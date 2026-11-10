@@ -1,22 +1,41 @@
 ---
 title: "停車場の鈴 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
 song_title: "停車場の鈴"
-description: "〈停車場の鈴〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shoka_kyozai_shu_1923_grade_5_6_04_teishaba_no_suzu"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_5_6"
+description: "〈停車場の鈴〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "停車場の鈴, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P151，原載《小公唱材集》第 229 頁）"
 musical_key: "G"
-image: "P236.jpg"
-audio: "teishaba_no_suzu.mp3"
+meter: "4/4"
+tempo: "112"
+image:
+  - file: "P236.jpg"
+  - file: "P237.jpg"
+audio:
+  - id: "teishaba_no_suzu"
+    label: "鋼琴伴奏版"
+    file: "teishaba_no_suzu.mp3"
+  - id: "teishaba_no_suzu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "teishaba_no_suzu_neutrino.mp3"
+tmd_source:
+  - "teishaba_no_suzu.tmd"
+  - "teishaba_no_suzu_piano.tmd"
 ---
 
 # 停車場の鈴
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="teishaba_no_suzu_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="teishaba_no_suzu.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="teishaba_no_suzu_neutrino.mp3"></audio>
 
 - book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）

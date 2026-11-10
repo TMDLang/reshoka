@@ -1,22 +1,40 @@
 ---
 title: "天皇陛下 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "天皇陛下"
-description: "〈天皇陛下〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：神（かみ）と仰（あふ）ぎ奉（たてまつ）り、 親（おや）とも仰（あふ）ぎ奉（たてまつ）る、…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_4_01_tenno_heika"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈天皇陛下〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：神（かみ）と仰（あふ）ぎ奉（たてまつ）り、 親（おや）とも仰（あふ）ぎ奉（たてまつ）る、…"
 keywords: "天皇陛下, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+sources:
+  - "文部省《尋常小學唱歌》"
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "D"
-image: "P054.jpg"
-audio: "tenno_heika.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P054.jpg"
+  - file: "P055.jpg"
+audio:
+  - id: "tenno_heika"
+    label: "鋼琴伴奏版"
+    file: "tenno_heika.mp3"
+  - id: "tenno_heika_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tenno_heika_neutrino.mp3"
+tmd_source:
+  - "tenno_heika.tmd"
+  - "tenno_heika_piano.tmd"
 ---
 
 # 天皇陛下
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="tenno_heika_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="tenno_heika.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tenno_heika_neutrino.mp3"></audio>
 
 - 文部省《尋常小學唱歌》
 - 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）

@@ -1,20 +1,37 @@
 ---
 title: "青年の歌 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "青年の歌"
-description: "〈青年の歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（曲：山田耕作），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　明けゆく空よ　いざ　いざ　いざ 胸は躍る　雲の光…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_06_seinen_no_uta"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈青年の歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（曲：山田耕作），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　明けゆく空よ　いざ　いざ　いざ 胸は躍る　雲の光…"
 keywords: "青年の歌, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山田耕作"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "曲：山田耕作"
+sources:
+  - "（東京日々新聞社懸賞一等當選）"
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "D"
-image: "P113.jpg"
-audio: "seinen_no_uta.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P113.jpg"
+audio:
+  - id: "seinen_no_uta"
+    label: "鋼琴伴奏版"
+    file: "seinen_no_uta.mp3"
+tmd_source:
+  - "seinen_no_uta.tmd"
+  - "seinen_no_uta_piano.tmd"
 ---
 
 # 青年の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="seinen_no_uta.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="seinen_no_uta.mp3"></audio>
 
 - 曲：山田耕作
 - （東京日々新聞社懸賞一等當選）

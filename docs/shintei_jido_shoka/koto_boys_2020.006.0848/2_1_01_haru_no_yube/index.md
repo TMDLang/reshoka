@@ -1,20 +1,38 @@
 ---
 title: "春の夕べ — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "春の夕べ"
-description: "〈春の夕べ〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：蘆田惠之助、曲：スコツト（W. Scott，英國）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：春の夕べ　陸（をか）に海（うみ）に、 飽（あ）かぬ眺（なが）め　面白（おもしろ）や、…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_1_01_haru_no_yube"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈春の夕べ〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：蘆田惠之助、曲：スコツト（W. Scott，英國）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：春の夕べ　陸（をか）に海（うみ）に、 飽（あ）かぬ眺（なが）め　面白（おもしろ）や、…"
 keywords: "春の夕べ, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 蘆田惠之助, スコツト（W. Scott，英國）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：蘆田惠之助"
+  - "曲：スコツト（W. Scott，英國）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "F"
-image: "P078.jpg"
-audio: "haru_no_yube.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P078.jpg"
+  - file: "P079.jpg"
+audio:
+  - id: "haru_no_yube"
+    label: "鋼琴伴奏版"
+    file: "haru_no_yube.mp3"
+tmd_source:
+  - "haru_no_yube.tmd"
+  - "haru_no_yube_piano.tmd"
 ---
 
 # 春の夕べ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="haru_no_yube.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="haru_no_yube.mp3"></audio>
 
 - 詞：蘆田惠之助
 - 曲：スコツト（W. Scott，英國）

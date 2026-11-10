@@ -1,22 +1,41 @@
 ---
 title: "半カケオ月サン — 《新定兒童唱歌》 尋常科 第二學年"
 song_title: "半カケオ月サン"
-description: "〈半カケオ月サン〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（詞：西條八十、曲：草川信），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：半カケオ月サン　ドコヘユク 半分サガシニ　山ヘユク…"
+song_id: "shintei_jido_shoka_grade_2_2020.006.0847.0002_4_12_hankake_otsukisan"
+collection: "shintei_jido_shoka"
+volume: "grade_2_2020.006.0847.0002"
+description: "〈半カケオ月サン〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（詞：西條八十、曲：草川信），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：半カケオ月サン　ドコヘユク 半分サガシニ　山ヘユク…"
 keywords: "半カケオ月サン, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 西條八十, 草川信"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（臺史博 2020.006.0847.0002）"
+credits:
+  - "詞：西條八十"
+  - "曲：草川信"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
 musical_key: "F"
-image: "P065.jpg"
-audio: "hankake_otsukisan.mp3"
+meter: "2/4"
+tempo: "96"
+image:
+  - file: "P065.jpg"
+audio:
+  - id: "hankake_otsukisan"
+    label: "鋼琴伴奏版"
+    file: "hankake_otsukisan.mp3"
+  - id: "hankake_otsukisan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hankake_otsukisan_neutrino.mp3"
+tmd_source:
+  - "hankake_otsukisan.tmd"
+  - "hankake_otsukisan_piano.tmd"
 ---
 
 # 半カケオ月サン
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hankake_otsukisan_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hankake_otsukisan.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hankake_otsukisan_neutrino.mp3"></audio>
 
 - 詞：西條八十
 - 曲：草川信

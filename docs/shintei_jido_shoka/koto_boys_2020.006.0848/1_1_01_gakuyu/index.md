@@ -1,20 +1,37 @@
 ---
 title: "學友 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "學友"
-description: "〈學友〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹、曲：Lewis（リユーイス）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　同（おな）じき窓（まど）にて、書（しょ）を學（まな）び、 一つの庭（には）にて、毬（まり）を遊（あそ）ぶ、…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_01_gakuyu"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈學友〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹、曲：Lewis（リユーイス）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　同（おな）じき窓（まど）にて、書（しょ）を學（まな）び、 一つの庭（には）にて、毬（まり）を遊（あそ）ぶ、…"
 keywords: "學友, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹, Lewis（リユーイス）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：大和田建樹"
+  - "曲：Lewis（リユーイス）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "C"
-image: "P036.jpg"
-audio: "gakuyu.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P036.jpg"
+audio:
+  - id: "gakuyu"
+    label: "鋼琴伴奏版"
+    file: "gakuyu.mp3"
+tmd_source:
+  - "gakuyu.tmd"
+  - "gakuyu_piano.tmd"
 ---
 
 # 學友
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="gakuyu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="gakuyu.mp3"></audio>
 
 - 詞：大和田建樹
 - 曲：Lewis（リユーイス）

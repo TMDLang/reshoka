@@ -1,20 +1,38 @@
 ---
 title: "鶯 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "鶯"
-description: "〈鶯〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：鳥居忱、曲：フラー（英）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花鳥ゆかし、春としなれば 梅が香かをり、鶯來鳴く…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_3_05_uguisu"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈鶯〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：鳥居忱、曲：フラー（英）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花鳥ゆかし、春としなれば 梅が香かをり、鶯來鳴く…"
 keywords: "鶯, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 鳥居忱, フラー（英）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+credits:
+  - "詞：鳥居忱"
+  - "曲：フラー（英）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "C"
-image: "P056.jpg"
-audio: "uguisu.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P056.jpg"
+  - file: "P057.jpg"
+audio:
+  - id: "uguisu"
+    label: "鋼琴伴奏版"
+    file: "uguisu.mp3"
+tmd_source:
+  - "uguisu.tmd"
+  - "uguisu_piano.tmd"
 ---
 
 # 鶯
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="uguisu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="uguisu.mp3"></audio>
 
 - 詞：鳥居忱
 - 曲：フラー（英）

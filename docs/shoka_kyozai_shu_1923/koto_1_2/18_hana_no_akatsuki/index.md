@@ -1,22 +1,40 @@
 ---
 title: "花の曉（二部） — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年"
 song_title: "花の曉（二部）"
-description: "〈花の曉（二部）〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shoka_kyozai_shu_1923_koto_1_2_18_hana_no_akatsuki"
+collection: "shoka_kyozai_shu_1923"
+volume: "koto_1_2"
+description: "〈花の曉（二部）〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "花の曉（二部）, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
 musical_key: "F"
-image: "P381.jpg"
-audio: "hana_no_akatsuki.mp3"
+meter: "4/4"
+tempo: "126"
+image:
+  - file: "P381.jpg"
+  - file: "P382.jpg"
+audio:
+  - id: "hana_no_akatsuki"
+    label: "鋼琴伴奏版"
+    file: "hana_no_akatsuki.mp3"
+  - id: "hana_no_akatsuki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hana_no_akatsuki_neutrino.mp3"
+tmd_source:
+  - "hana_no_akatsuki.tmd"
+  - "hana_no_akatsuki_piano.tmd"
 ---
 
 # 花の曉（二部）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hana_no_akatsuki_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hana_no_akatsuki.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hana_no_akatsuki_neutrino.mp3"></audio>
 
 - book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）

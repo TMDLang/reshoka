@@ -1,20 +1,34 @@
 ---
 title: "嘆烟花 — 《楊金土手抄唱歌帖》 第 2 冊（II）"
 song_title: "嘆烟花"
-description: "〈嘆烟花〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：台湾伝統曲 (歌仔調)），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_02_p081_tan_yenhua"
+collection: "shokacho"
+volume: "vol_02"
+description: "〈嘆烟花〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：台湾伝統曲 (歌仔調)），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "嘆烟花, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 台湾伝統曲 (歌仔調)"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+credits:
+  - "曲：台湾伝統曲 (歌仔調)"
 musical_key: "G"
-image: "P081.jpg"
-audio: "tan_yenhua.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P081.jpg"
+audio:
+  - id: "tan_yenhua"
+    label: "鋼琴伴奏版"
+    file: "tan_yenhua.mp3"
+tmd_source:
+  - "tan_yenhua.tmd"
+  - "tan_yenhua_piano.tmd"
 ---
 
 # 嘆烟花
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tan_yenhua.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tan_yenhua.mp3"></audio>
 
 - 曲：台湾伝統曲 (歌仔調)
 

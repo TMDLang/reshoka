@@ -1,20 +1,38 @@
 ---
 title: "八洲の民 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "八洲の民"
-description: "〈八洲の民〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：稻垣千頴、曲：小山作之助），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　我が君守れ　八洲（やしま）の人　我が國まもれ　八洲の民 家業（なりはひ）はげみ　身を立てて　人をも富まし　世をとまし…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_07_yashima_no_tami"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈八洲の民〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：稻垣千頴、曲：小山作之助），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　我が君守れ　八洲（やしま）の人　我が國まもれ　八洲の民 家業（なりはひ）はげみ　身を立てて　人をも富まし　世をとまし…"
 keywords: "八洲の民, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 稻垣千頴, 小山作之助"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：稻垣千頴"
+  - "曲：小山作之助"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "G"
-image: "P114.jpg"
-audio: "yashima_no_tami.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P114.jpg"
+  - file: "P115.jpg"
+audio:
+  - id: "yashima_no_tami"
+    label: "鋼琴伴奏版"
+    file: "yashima_no_tami.mp3"
+tmd_source:
+  - "yashima_no_tami.tmd"
+  - "yashima_no_tami_piano.tmd"
 ---
 
 # 八洲の民
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="yashima_no_tami.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="yashima_no_tami.mp3"></audio>
 
 - 詞：稻垣千頴
 - 曲：小山作之助

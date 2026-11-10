@@ -1,22 +1,41 @@
 ---
 title: "菊の花 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "菊の花"
-description: "〈菊の花〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（曲：宮島慎三郎），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、高砂（たかさご）の　島（しま）にも菊（きく）の　花咲（はなさ）きぬ。 いざ／＼歌（うた）へ　君（きみ）が代（よ）を。…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_4_05_kiku_no_hana"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈菊の花〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（曲：宮島慎三郎），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、高砂（たかさご）の　島（しま）にも菊（きく）の　花咲（はなさ）きぬ。 いざ／＼歌（うた）へ　君（きみ）が代（よ）を。…"
 keywords: "菊の花, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 宮島慎三郎"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+credits:
+  - "曲：宮島慎三郎"
+sources:
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "C"
-image: "P062.jpg"
-audio: "kiku_no_hana.mp3"
+meter: "4/4"
+tempo: "100"
+image:
+  - file: "P062.jpg"
+  - file: "P063.jpg"
+audio:
+  - id: "kiku_no_hana"
+    label: "鋼琴伴奏版"
+    file: "kiku_no_hana.mp3"
+  - id: "kiku_no_hana_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kiku_no_hana_neutrino.mp3"
+tmd_source:
+  - "kiku_no_hana.tmd"
+  - "kiku_no_hana_piano.tmd"
 ---
 
 # 菊の花
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kiku_no_hana_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kiku_no_hana.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kiku_no_hana_neutrino.mp3"></audio>
 
 - 曲：宮島慎三郎
 - 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）

@@ -1,20 +1,37 @@
 ---
 title: "軍艦旗 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "軍艦旗"
-description: "〈軍艦旗〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野士良、曲：Henry Clay Work（ウオーク）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　マストに煌（ひら）めく旗（はた）こそは、 いとども畏（かしこ）き　天皇（すめらぎ）の、…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_06_gunkanki"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈軍艦旗〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野士良、曲：Henry Clay Work（ウオーク）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　マストに煌（ひら）めく旗（はた）こそは、 いとども畏（かしこ）き　天皇（すめらぎ）の、…"
 keywords: "軍艦旗, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 旗野士良"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：旗野士良"
+  - "曲：Henry Clay Work（ウオーク）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "G"
-image: "P041.jpg"
-audio: "gunkanki.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P041.jpg"
+audio:
+  - id: "gunkanki"
+    label: "鋼琴伴奏版"
+    file: "gunkanki.mp3"
+tmd_source:
+  - "gunkanki.tmd"
+  - "gunkanki_piano.tmd"
 ---
 
 # 軍艦旗
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="gunkanki.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="gunkanki.mp3"></audio>
 
 - 詞：旗野士良
 - 曲：Henry Clay Work（ウオーク）

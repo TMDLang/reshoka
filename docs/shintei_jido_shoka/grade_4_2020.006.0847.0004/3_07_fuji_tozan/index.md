@@ -1,22 +1,41 @@
 ---
 title: "富士登山 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "富士登山"
-description: "〈富士登山〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（詞：巖谷小波、曲：田村虎藏），調號拍號：G 2/2。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：汽車の窓より仰（あふ）ぎ見る 富士の姿（すがた）の氣高（けだか）さよ…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_3_07_fuji_tozan"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈富士登山〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（詞：巖谷小波、曲：田村虎藏），調號拍號：G 2/2。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：汽車の窓より仰（あふ）ぎ見る 富士の姿（すがた）の氣高（けだか）さよ…"
 keywords: "富士登山, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 巖谷小波, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+credits:
+  - "詞：巖谷小波"
+  - "曲：田村虎藏"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "G"
-image: "P056.jpg"
-audio: "fuji_tozan.mp3"
+meter: "2/2"
+tempo: "144"
+image:
+  - file: "P056.jpg"
+audio:
+  - id: "fuji_tozan"
+    label: "鋼琴伴奏版"
+    file: "fuji_tozan.mp3"
+  - id: "fuji_tozan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "fuji_tozan_neutrino.mp3"
+tmd_source:
+  - "fuji_tozan.tmd"
+  - "fuji_tozan_piano.tmd"
 ---
 
 # 富士登山
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="fuji_tozan_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="fuji_tozan.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="fuji_tozan_neutrino.mp3"></audio>
 
 - 詞：巖谷小波
 - 曲：田村虎藏

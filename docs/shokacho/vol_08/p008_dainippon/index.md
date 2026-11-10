@@ -1,20 +1,37 @@
 ---
 title: "大日本（日本） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
 song_title: "大日本（日本）"
-description: "〈大日本（日本）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：山本壽），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大ニッ本 カミノ ミスエノ テンノウ 陛下 ワレラ コクミン…"
+song_id: "shokacho_vol_08_p008_dainippon"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈大日本（日本）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：山本壽），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大ニッ本 カミノ ミスエノ テンノウ 陛下 ワレラ コクミン…"
 keywords: "大日本（日本）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 山本壽"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+credits:
+  - "曲：山本壽"
+sources:
+  - "出處：蓬唱ヨリ 79頁（昭2.3.25）"
+  - "《唱歌帖》（2020.006.0843）P008.jpg"
 musical_key: "G"
-image: "P008.jpg"
-audio: "dainippon.mp3"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P008.jpg"
+audio:
+  - id: "dainippon"
+    label: "鋼琴伴奏版"
+    file: "dainippon.mp3"
+tmd_source:
+  - "dainippon.tmd"
+  - "dainippon_piano.tmd"
 ---
 
 # 大日本（日本）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="dainippon.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="dainippon.mp3"></audio>
 
 - 曲：山本壽
 - 出處：蓬唱ヨリ 79頁（昭2.3.25）

@@ -1,20 +1,36 @@
 ---
 title: "凱旋 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "凱旋"
-description: "〈凱旋〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 4/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　戰鬪（たたかひ）かちて　我軍（わがぐん）かへる 今日（けふ）萬歲（ばんざい）の　かちどきあげて…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_09_gaisen"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈凱旋〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 4/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　戰鬪（たたかひ）かちて　我軍（わがぐん）かへる 今日（けふ）萬歲（ばんざい）の　かちどきあげて…"
 keywords: "凱旋, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+sources:
+  - "出處：弘樂社發行《中等音樂教科書》"
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "G"
-image: "P044.jpg"
-audio: "gaisen.mp3"
+meter: "4/8"
+tempo: "84"
+image:
+  - file: "P044.jpg"
+  - file: "P045.jpg"
+audio:
+  - id: "gaisen"
+    label: "鋼琴伴奏版"
+    file: "gaisen.mp3"
+tmd_source:
+  - "gaisen.tmd"
+  - "gaisen_piano.tmd"
 ---
 
 # 凱旋
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="gaisen.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="gaisen.mp3"></audio>
 
 - 出處：弘樂社發行《中等音樂教科書》
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

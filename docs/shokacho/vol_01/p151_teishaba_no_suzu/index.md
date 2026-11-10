@@ -1,20 +1,35 @@
 ---
 title: "停車場の鈴 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "停車場の鈴"
-description: "〈停車場の鈴〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）カラン　カラン　カラン　カラン ドナタモイリデト　カラン　カラン…"
+song_id: "shokacho_vol_01_p151_teishaba_no_suzu"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈停車場の鈴〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）カラン　カラン　カラン　カラン ドナタモイリデト　カラン　カラン…"
 keywords: "停車場の鈴, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+sources:
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P151）"
+  - "原載《小公唱材集》第 229 頁（大正 13 年 12 月 12 日抄）"
 musical_key: "G"
-image: "P151.jpg"
-audio: "teishaba_no_suzu.mp3"
+meter: "4/4"
+tempo: "118"
+image:
+  - file: "P151.jpg"
+audio:
+  - id: "teishaba_no_suzu"
+    label: "鋼琴伴奏版"
+    file: "teishaba_no_suzu.mp3"
+tmd_source:
+  - "teishaba_no_suzu.tmd"
+  - "teishaba_no_suzu_piano.tmd"
 ---
 
 # 停車場の鈴
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="teishaba_no_suzu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="teishaba_no_suzu.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P151）
 - 原載《小公唱材集》第 229 頁（大正 13 年 12 月 12 日抄）

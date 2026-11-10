@@ -1,22 +1,40 @@
 ---
 title: "雀のお宿 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
 song_title: "雀のお宿"
-description: "〈雀のお宿〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：糊をば舐めた子雀は　舌を切られてチユウ／＼／＼ 山から歸つた爺さんは　いとし／＼とあひに行く。…"
+song_id: "shoka_kyozai_shu_1923_grade_1_2_56_suzume_no_oyado"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_1_2"
+description: "〈雀のお宿〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：糊をば舐めた子雀は　舌を切られてチユウ／＼／＼ 山から歸つた爺さんは　いとし／＼とあひに行く。…"
 keywords: "雀のお宿, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
+sources:
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "尋常科第一、二學年用（第 112–113 頁）"
 musical_key: "C"
-image: "P120.jpg"
-audio: "suzume_no_oyado.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P120.jpg"
+  - file: "P121.jpg"
+audio:
+  - id: "suzume_no_oyado"
+    label: "鋼琴伴奏版"
+    file: "suzume_no_oyado.mp3"
+  - id: "suzume_no_oyado_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "suzume_no_oyado_neutrino.mp3"
+tmd_source:
+  - "suzume_no_oyado.tmd"
+  - "suzume_no_oyado_piano.tmd"
 ---
 
 # 雀のお宿
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="suzume_no_oyado_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="suzume_no_oyado.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="suzume_no_oyado_neutrino.mp3"></audio>
 
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
 - 尋常科第一、二學年用（第 112–113 頁）

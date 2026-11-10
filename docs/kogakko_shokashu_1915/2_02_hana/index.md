@@ -1,22 +1,42 @@
 ---
 title: "花 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "花"
-description: "〈花〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：文部省（臺灣總督府改作）、曲：文部省），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、見事（みごと）に咲（さ）いた　おにはの佛桑花（ぶっさうげ）、 一（ひと）つ取（と）りたい　眞赤（まっか）な花（はな）…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_2_02_hana"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈花〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：文部省（臺灣總督府改作）、曲：文部省），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、見事（みごと）に咲（さ）いた　おにはの佛桑花（ぶっさうげ）、 一（ひと）つ取（と）りたい　眞赤（まっか）な花（はな）…"
 keywords: "花, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省（臺灣總督府改作）, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+credits:
+  - "詞：文部省（臺灣總督府改作）"
+  - "曲：文部省"
+sources:
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "G"
-image: "P024.jpg"
-audio: "hana.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P024.jpg"
+  - file: "P025.jpg"
+audio:
+  - id: "hana"
+    label: "鋼琴伴奏版"
+    file: "hana.mp3"
+  - id: "hana_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hana_neutrino.mp3"
+tmd_source:
+  - "hana.tmd"
+  - "hana_piano.tmd"
 ---
 
 # 花
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hana_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hana.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hana_neutrino.mp3"></audio>
 
 - 詞：文部省（臺灣總督府改作）
 - 曲：文部省

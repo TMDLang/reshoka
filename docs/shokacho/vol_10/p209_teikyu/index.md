@@ -1,20 +1,35 @@
 ---
 title: "庭球 (網球) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "庭球 (網球)"
-description: "〈庭球 (網球)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：第一至七段主歌（原譜帶反覆記號，第八段接尾聲） 第八段（尾聲段）…"
+song_id: "shokacho_vol_10_p209_teikyu"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈庭球 (網球)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：第一至七段主歌（原譜帶反覆記號，第八段接尾聲） 第八段（尾聲段）…"
 keywords: "庭球 (網球), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
+sources:
+  - "公學校唱歌帳 (P209-P210, 308頁, 昭和2年1月29日)"
 musical_key: "G"
-image: "P209.jpg"
-audio: "teikyu.mp3"
+meter: "2/4"
+tempo: "132"
+image:
+  - file: "P209.jpg"
+  - file: "P210.jpg"
+audio:
+  - id: "teikyu"
+    label: "鋼琴伴奏版"
+    file: "teikyu.mp3"
+tmd_source:
+  - "teikyu.tmd"
+  - "teikyu_piano.tmd"
 ---
 
 # 庭球 (網球)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="teikyu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="teikyu.mp3"></audio>
 
 - 公學校唱歌帳 (P209-P210, 308頁, 昭和2年1月29日)
 

@@ -1,22 +1,38 @@
 ---
 title: "春の野 — 《新定兒童唱歌》 尋常科 第五學年"
 song_title: "春の野"
-description: "〈春の野〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　菜種の花に　飛ぶ胡蝶 青空高く　啼く雲雀…"
+song_id: "shintei_jido_shoka_grade_5_2020.006.0847.0005_1_01_haru_no_no"
+collection: "shintei_jido_shoka"
+volume: "grade_5_2020.006.0847.0005"
+description: "〈春の野〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　菜種の花に　飛ぶ胡蝶 青空高く　啼く雲雀…"
 keywords: "春の野, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（臺史博 2020.006.0847.0005）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）"
 musical_key: "G"
-image: "P024.jpg"
-audio: "haru_no_no.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P024.jpg"
+audio:
+  - id: "haru_no_no"
+    label: "鋼琴伴奏版"
+    file: "haru_no_no.mp3"
+  - id: "haru_no_no_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "haru_no_no_neutrino.mp3"
+tmd_source:
+  - "haru_no_no.tmd"
+  - "haru_no_no_piano.tmd"
 ---
 
 # 春の野
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="haru_no_no_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="haru_no_no.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="haru_no_no_neutrino.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 

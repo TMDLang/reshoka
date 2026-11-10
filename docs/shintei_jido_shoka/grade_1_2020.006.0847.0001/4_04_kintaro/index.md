@@ -1,22 +1,41 @@
 ---
 title: "キンタラウ（金太郎） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "キンタラウ（金太郎）"
-description: "〈キンタラウ（金太郎）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：マサカリカツイデ キンタラウ…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_4_04_kintaro"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈キンタラウ（金太郎）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：マサカリカツイデ キンタラウ…"
 keywords: "キンタラウ（金太郎）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：石原和三郎"
+  - "曲：田村虎藏"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "F"
-image: "P051.jpg"
-audio: "kintaro.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P051.jpg"
+audio:
+  - id: "kintaro"
+    label: "鋼琴伴奏版"
+    file: "kintaro.mp3"
+  - id: "kintaro_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kintaro_neutrino.mp3"
+tmd_source:
+  - "kintaro.tmd"
+  - "kintaro_piano.tmd"
 ---
 
 # キンタラウ（金太郎）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kintaro_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kintaro.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kintaro_neutrino.mp3"></audio>
 
 - 詞：石原和三郎
 - 曲：田村虎藏

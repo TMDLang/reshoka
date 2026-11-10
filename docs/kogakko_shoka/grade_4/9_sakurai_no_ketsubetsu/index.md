@@ -1,22 +1,44 @@
 ---
 title: "櫻井の訣別 — 《公學校唱歌》 第四學年用"
 song_title: "櫻井の訣別"
-description: "〈櫻井の訣別〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第四學年用（國臺圖 0729 73））（詞：落合直文、曲：奧山朝恭），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：青葉しげれる櫻井（さくらゐ）の さとのわたりの夕まぐれ、…"
+song_id: "kogakko_shoka_grade_4_9_sakurai_no_ketsubetsu"
+collection: "kogakko_shoka"
+volume: "grade_4"
+description: "〈櫻井の訣別〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第四學年用（國臺圖 0729 73））（詞：落合直文、曲：奧山朝恭），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：青葉しげれる櫻井（さくらゐ）の さとのわたりの夕まぐれ、…"
 keywords: "櫻井の訣別, 公學校唱歌, 第四學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 落合直文, 奧山朝恭"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第四學年用（國臺圖 0729 73）"
+credits:
+  - "詞：落合直文"
+  - "曲：奧山朝恭"
+sources:
+  - "臺灣總督府《公學校唱歌》第四學年用（昭和十一年，索書號 0729 73）"
 musical_key: "C"
-image: "P027.jpg"
-audio: "sakurai_no_ketsubetsu.mp3"
+meter: "2/4"
+tempo: "114"
+image:
+  - file: "P027.jpg"
+  - file: "P028.jpg"
+  - file: "P029.jpg"
+  - file: "P030.jpg"
+audio:
+  - id: "sakurai_no_ketsubetsu"
+    label: "鋼琴伴奏版"
+    file: "sakurai_no_ketsubetsu.mp3"
+  - id: "sakurai_no_ketsubetsu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sakurai_no_ketsubetsu_neutrino.mp3"
+tmd_source:
+  - "sakurai_no_ketsubetsu.tmd"
+  - "sakurai_no_ketsubetsu_piano.tmd"
 ---
 
 # 櫻井の訣別
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="sakurai_no_ketsubetsu_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="sakurai_no_ketsubetsu.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sakurai_no_ketsubetsu_neutrino.mp3"></audio>
 
 - 詞：落合直文
 - 曲：奧山朝恭

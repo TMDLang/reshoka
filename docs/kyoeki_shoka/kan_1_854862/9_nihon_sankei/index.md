@@ -1,22 +1,39 @@
 ---
 title: "日本三景 — 《共益商社唱歌教科書》 巻一（生徒用）"
 song_title: "日本三景"
-description: "〈日本三景〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：○松島 富の山より、ながむれば、…"
+song_id: "kyoeki_shoka_kan_1_854862_9_nihon_sankei"
+collection: "kyoeki_shoka"
+volume: "kan_1_854862"
+description: "〈日本三景〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：○松島 富の山より、ながむれば、…"
 keywords: "日本三景, 共益商社唱歌教科書, 巻一（生徒用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻一・生徒用（NDL PID 854862）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第十八～十九頁（第九曲）"
+  - "NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P011.jpg"
 musical_key: "C"
-image: "P011.jpg"
-audio: "nihon_sankei.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P011.jpg"
+audio:
+  - id: "nihon_sankei"
+    label: "鋼琴伴奏版"
+    file: "nihon_sankei.mp3"
+  - id: "nihon_sankei_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nihon_sankei_neutrino.mp3"
+tmd_source:
+  - "nihon_sankei.tmd"
+  - "nihon_sankei_piano.tmd"
 ---
 
 # 日本三景
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_sankei_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nihon_sankei.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_sankei_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第十八～十九頁（第九曲）
 - NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P011.jpg

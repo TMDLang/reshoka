@@ -1,20 +1,35 @@
 ---
 title: "菅公（菅原道真） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
 song_title: "菅公（菅原道真）"
-description: "〈菅公（菅原道真）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ガクシヤノ イヘニ ミハイデテ タチマチ ノボル クモノウヘ…"
+song_id: "shokacho_vol_08_p011_kanko"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈菅公（菅原道真）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ガクシヤノ イヘニ ミハイデテ タチマチ ノボル クモノウヘ…"
 keywords: "菅公（菅原道真）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+sources:
+  - "出處：刊りすより（昭2.11.30）"
+  - "《唱歌帖》（2020.006.0843）P011.jpg"
 musical_key: "F"
-image: "P011.jpg"
-audio: "kanko.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P011.jpg"
+audio:
+  - id: "kanko"
+    label: "鋼琴伴奏版"
+    file: "kanko.mp3"
+tmd_source:
+  - "kanko.tmd"
+  - "kanko_piano.tmd"
 ---
 
 # 菅公（菅原道真）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kanko.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kanko.mp3"></audio>
 
 - 出處：刊りすより（昭2.11.30）
 - 《唱歌帖》（2020.006.0843）P011.jpg

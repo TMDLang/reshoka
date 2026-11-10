@@ -1,22 +1,41 @@
 ---
 title: "島の唄 — 《臺灣の歌》 昭和四年（全一冊）"
 song_title: "島の唄"
-description: "〈島の唄〉收錄於日治時期臺灣《臺灣の歌》（臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8））（作詞：佐野文吾、作曲：中美春治），調號拍號：E, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：野良（のら）のこみちを 水牛（うし）の脊（せ）で…"
+song_id: "taiwan_no_uta_taiwan_no_uta_10_shima_no_uta"
+collection: "taiwan_no_uta"
+volume: "taiwan_no_uta"
+description: "〈島の唄〉收錄於日治時期臺灣《臺灣の歌》（臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8））（作詞：佐野文吾、作曲：中美春治），調號拍號：E, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：野良（のら）のこみちを 水牛（うし）の脊（せ）で…"
 keywords: "島の唄, 臺灣の歌, 昭和四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 佐野文吾, 中美春治"
 schema_type: "MusicComposition"
 is_part_of: "《臺灣の歌》 臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8）"
+credits:
+  - "作詞：佐野文吾"
+  - "作曲：中美春治"
+sources:
+  - "臺灣教育會《臺灣の歌》（御大典記念事業，昭和四年五月一日發行，國臺圖 0786 8）第 15 頁（民謡第四曲）"
 musical_key: "E,"
-image: "P016.jpg"
-audio: "shima_no_uta.mp3"
+meter: "2/4"
+tempo: "72"
+image:
+  - file: "P016.jpg"
+audio:
+  - id: "shima_no_uta"
+    label: "鋼琴伴奏版"
+    file: "shima_no_uta.mp3"
+  - id: "shima_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "shima_no_uta_neutrino.mp3"
+tmd_source:
+  - "shima_no_uta.tmd"
+  - "shima_no_uta_piano.tmd"
 ---
 
 # 島の唄
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="shima_no_uta_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="shima_no_uta.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="shima_no_uta_neutrino.mp3"></audio>
 
 - 作詞：佐野文吾
 - 作曲：中美春治

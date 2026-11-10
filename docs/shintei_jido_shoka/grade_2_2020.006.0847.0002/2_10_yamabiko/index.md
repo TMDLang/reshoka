@@ -1,22 +1,42 @@
 ---
 title: "山びこ — 《新定兒童唱歌》 尋常科 第二學年"
 song_title: "山びこ"
-description: "〈山びこ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（詞：松岸寬一、曲：永井幸次），調號拍號：B, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：おうい（山彥）おうい　おうい（山彥）おうい ふしぎにおなじ　ことばをかへし…"
+song_id: "shintei_jido_shoka_grade_2_2020.006.0847.0002_2_10_yamabiko"
+collection: "shintei_jido_shoka"
+volume: "grade_2_2020.006.0847.0002"
+description: "〈山びこ〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（詞：松岸寬一、曲：永井幸次），調號拍號：B, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：おうい（山彥）おうい　おうい（山彥）おうい ふしぎにおなじ　ことばをかへし…"
 keywords: "山びこ, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 松岸寬一, 永井幸次"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（臺史博 2020.006.0847.0002）"
+credits:
+  - "詞：松岸寬一"
+  - "曲：永井幸次"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
 musical_key: "B,"
-image: "P040.jpg"
-audio: "yamabiko.mp3"
+meter: "2/4"
+tempo: "80"
+image:
+  - file: "P040.jpg"
+  - file: "P041.jpg"
+audio:
+  - id: "yamabiko"
+    label: "鋼琴伴奏版"
+    file: "yamabiko.mp3"
+  - id: "yamabiko_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yamabiko_neutrino.mp3"
+tmd_source:
+  - "yamabiko.tmd"
+  - "yamabiko_piano.tmd"
 ---
 
 # 山びこ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="yamabiko_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="yamabiko.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yamabiko_neutrino.mp3"></audio>
 
 - 詞：松岸寬一
 - 曲：永井幸次

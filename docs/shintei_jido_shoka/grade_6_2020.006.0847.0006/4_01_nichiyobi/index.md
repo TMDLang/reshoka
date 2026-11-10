@@ -1,20 +1,34 @@
 ---
 title: "日曜日 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "日曜日"
-description: "〈日曜日〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：野邊（のべ）にゃ行かん花を取りに 濱（はま）にゃ行かん貝（かひ）を掘（ほ）りに…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_4_01_nichiyobi"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈日曜日〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：野邊（のべ）にゃ行かん花を取りに 濱（はま）にゃ行かん貝（かひ）を掘（ほ）りに…"
 keywords: "日曜日, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "F"
-image: "P059.jpg"
-audio: "nichiyobi.mp3"
+meter: "4/4"
+tempo: "112"
+image:
+  - file: "P059.jpg"
+audio:
+  - id: "nichiyobi"
+    label: "鋼琴伴奏版"
+    file: "nichiyobi.mp3"
+tmd_source:
+  - "nichiyobi.tmd"
+  - "nichiyobi_piano.tmd"
 ---
 
 # 日曜日
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="nichiyobi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="nichiyobi.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）
 

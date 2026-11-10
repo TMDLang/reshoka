@@ -1,20 +1,37 @@
 ---
 title: "ヲーターロー — 《新定兒童唱歌》 高等科 女子一二年"
 song_title: "ヲーターロー"
-description: "〈ヲーターロー〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：土井林吉、曲：山田源一郎），調號拍號：Bb 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：渦（うづ）卷く硝煙　飛び散る彈雨 萬兵（ばんぺい）齊（ひと）しく大地を蹴つて…"
+song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_3_03_waterloo"
+collection: "shintei_jido_shoka"
+volume: "koto_girls_2020.006.0849"
+description: "〈ヲーターロー〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：土井林吉、曲：山田源一郎），調號拍號：Bb 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：渦（うづ）卷く硝煙　飛び散る彈雨 萬兵（ばんぺい）齊（ひと）しく大地を蹴つて…"
 keywords: "ヲーターロー, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 土井林吉, 山田源一郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
+credits:
+  - "詞：土井林吉"
+  - "曲：山田源一郎"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
 musical_key: "Bb"
-image: "P062.jpg"
-audio: "waterloo.mp3"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P062.jpg"
+audio:
+  - id: "waterloo"
+    label: "鋼琴伴奏版"
+    file: "waterloo.mp3"
+tmd_source:
+  - "waterloo.tmd"
+  - "waterloo_piano.tmd"
 ---
 
 # ヲーターロー
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="waterloo.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="waterloo.mp3"></audio>
 
 - 詞：土井林吉
 - 曲：山田源一郎

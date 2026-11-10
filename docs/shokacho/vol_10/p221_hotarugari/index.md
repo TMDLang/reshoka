@@ -1,20 +1,35 @@
 ---
 title: "螢狩（捕螢） — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "螢狩（捕螢）"
-description: "〈螢狩（捕螢）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_10_p221_hotarugari"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈螢狩（捕螢）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "螢狩（捕螢）, 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
+sources:
+  - "日治時期公學校《唱歌帳》第十冊（P221・195頁・昭和2年1月28日抄）"
+  - "原載：一條慎三郎 編《新編 小學校・公學校 唱歌教材集》第 195 頁"
 musical_key: "F"
-image: "P221.jpg"
-audio: "hotarugari.mp3"
+meter: "2/4"
+tempo: "112"
+image:
+  - file: "P221.jpg"
+audio:
+  - id: "hotarugari"
+    label: "鋼琴伴奏版"
+    file: "hotarugari.mp3"
+tmd_source:
+  - "hotarugari.tmd"
+  - "hotarugari_piano.tmd"
 ---
 
 # 螢狩（捕螢）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="hotarugari.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="hotarugari.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》第十冊（P221・195頁・昭和2年1月28日抄）
 - 原載：一條慎三郎 編《新編 小學校・公學校 唱歌教材集》第 195 頁

@@ -1,22 +1,43 @@
 ---
 title: "猫と蛙 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
 song_title: "猫と蛙"
-description: "〈猫と蛙〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121））（詞：臺灣總督府、曲：宮島慎三郎），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、猫（ねこ）がとびつく　かへるの上（うへ）に かへるはかくれる　茂（しげ）つた草（くさ）に…"
+song_id: "shoka_kyozai_shu_1923_grade_1_2_11_neko_to_kaeru"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_1_2"
+description: "〈猫と蛙〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121））（詞：臺灣總督府、曲：宮島慎三郎），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、猫（ねこ）がとびつく　かへるの上（うへ）に かへるはかくれる　茂（しげ）つた草（くさ）に…"
 keywords: "猫と蛙, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 臺灣總督府, 宮島慎三郎"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
+credits:
+  - "詞：臺灣總督府"
+  - "曲：宮島慎三郎"
+sources:
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "F"
-image: "P030.jpg"
-audio: "neko_to_kaeru.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P030.jpg"
+  - file: "P031.jpg"
+audio:
+  - id: "neko_to_kaeru"
+    label: "鋼琴伴奏版"
+    file: "neko_to_kaeru.mp3"
+  - id: "neko_to_kaeru_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "neko_to_kaeru_neutrino.mp3"
+tmd_source:
+  - "neko_to_kaeru.tmd"
+  - "neko_to_kaeru_piano.tmd"
 ---
 
 # 猫と蛙
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="neko_to_kaeru_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="neko_to_kaeru.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="neko_to_kaeru_neutrino.mp3"></audio>
 
 - 詞：臺灣總督府
 - 曲：宮島慎三郎

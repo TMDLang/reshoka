@@ -1,22 +1,41 @@
 ---
 title: "蛙とくも — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
 song_title: "蛙とくも"
-description: "〈蛙とくも〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：しだれ　柳に　飛びつく蛙 飛んでは落ち　おちてはとび…"
+song_id: "shoka_kyozai_shu_1923_grade_1_2_57_kaeru_to_kumo"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_1_2"
+description: "〈蛙とくも〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：しだれ　柳に　飛びつく蛙 飛んでは落ち　おちてはとび…"
 keywords: "蛙とくも, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
+sources:
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "尋常科第一、二學年用（第 114–115 頁）"
+  - "文部省《尋常小學唱歌》"
 musical_key: "G"
-image: "P122.jpg"
-audio: "kaeru_to_kumo.mp3"
+meter: "2/4"
+tempo: "80"
+image:
+  - file: "P122.jpg"
+  - file: "P123.jpg"
+audio:
+  - id: "kaeru_to_kumo"
+    label: "鋼琴伴奏版"
+    file: "kaeru_to_kumo.mp3"
+  - id: "kaeru_to_kumo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kaeru_to_kumo_neutrino.mp3"
+tmd_source:
+  - "kaeru_to_kumo.tmd"
+  - "kaeru_to_kumo_piano.tmd"
 ---
 
 # 蛙とくも
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kaeru_to_kumo_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kaeru_to_kumo.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kaeru_to_kumo_neutrino.mp3"></audio>
 
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
 - 尋常科第一、二學年用（第 114–115 頁）

@@ -1,20 +1,35 @@
 ---
 title: "陣營の月（軍營之月） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
 song_title: "陣營の月（軍營之月）"
-description: "〈陣營の月（軍營之月）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_08_p019_jinei_no_tsuki"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈陣營の月（軍營之月）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "陣營の月（軍營之月）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+sources:
+  - "出處：一條歌集 365頁（昭2.3.8）"
+  - "《唱歌帖》（2020.006.0843）P019.jpg"
 musical_key: "F"
-image: "P019.jpg"
-audio: "jinei_no_tsuki.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P019.jpg"
+audio:
+  - id: "jinei_no_tsuki"
+    label: "鋼琴伴奏版"
+    file: "jinei_no_tsuki.mp3"
+tmd_source:
+  - "jinei_no_tsuki.tmd"
+  - "jinei_no_tsuki_piano.tmd"
 ---
 
 # 陣營の月（軍營之月）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="jinei_no_tsuki.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="jinei_no_tsuki.mp3"></audio>
 
 - 出處：一條歌集 365頁（昭2.3.8）
 - 《唱歌帖》（2020.006.0843）P019.jpg

@@ -1,22 +1,39 @@
 ---
 title: "親のめぐみ — 《共益商社唱歌教科書》 巻二（教師用）"
 song_title: "親のめぐみ"
-description: "〈親のめぐみ〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あつくふかきは、御親のめぐみ、 山も及ばず、海なにならず、…"
+song_id: "kyoeki_shoka_kan_2_854863_18_oya_no_megumi"
+collection: "kyoeki_shoka"
+volume: "kan_2_854863"
+description: "〈親のめぐみ〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あつくふかきは、御親のめぐみ、 山も及ばず、海なにならず、…"
 keywords: "親のめぐみ, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻二》第三十八～三十九頁（第十八曲）"
+  - "NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P025.jpg"
 musical_key: "G"
-image: "P025.jpg"
-audio: "oya_no_megumi.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P025.jpg"
+audio:
+  - id: "oya_no_megumi"
+    label: "鋼琴伴奏版"
+    file: "oya_no_megumi.mp3"
+  - id: "oya_no_megumi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "oya_no_megumi_neutrino.mp3"
+tmd_source:
+  - "oya_no_megumi.tmd"
+  - "oya_no_megumi_piano.tmd"
 ---
 
 # 親のめぐみ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="oya_no_megumi_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="oya_no_megumi.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="oya_no_megumi_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第三十八～三十九頁（第十八曲）
 - NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P025.jpg

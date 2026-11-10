@@ -1,20 +1,37 @@
 ---
 title: "天兵無敵 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "天兵無敵"
-description: "〈天兵無敵〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：吉丸一昌、曲：北村季晴（編）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　虎狼（こらう）の慾（よく）あきたらぬ　惡魔（あくま）の軍勢（ぐんせい）叛亂（はんらん）す 振天動地（しんてんどうち）…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_04_tenpei_muteki"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈天兵無敵〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：吉丸一昌、曲：北村季晴（編）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　虎狼（こらう）の慾（よく）あきたらぬ　惡魔（あくま）の軍勢（ぐんせい）叛亂（はんらん）す 振天動地（しんてんどうち）…"
 keywords: "天兵無敵, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 吉丸一昌, 北村季晴（編）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：吉丸一昌"
+  - "曲：北村季晴（編）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "C"
-image: "P039.jpg"
-audio: "tenpei_muteki.mp3"
+meter: "4/4"
+tempo: "112"
+image:
+  - file: "P039.jpg"
+audio:
+  - id: "tenpei_muteki"
+    label: "鋼琴伴奏版"
+    file: "tenpei_muteki.mp3"
+tmd_source:
+  - "tenpei_muteki.tmd"
+  - "tenpei_muteki_piano.tmd"
 ---
 
 # 天兵無敵
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tenpei_muteki.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tenpei_muteki.mp3"></audio>
 
 - 詞：吉丸一昌
 - 曲：北村季晴（編）

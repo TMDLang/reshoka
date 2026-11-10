@@ -1,20 +1,39 @@
 ---
 title: "健兒よ來れ — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "健兒よ來れ"
-description: "〈健兒よ來れ〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：久保田宵二、曲：原田比古士良），調號拍號：F 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　朝日に匂（にほ）ふ敷島の　大和島根は美（うま）し國 五十鈴（いすゞ）の川のいや清く　歷史はこゝに三千年…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_4_04_kenji_yo_kitare"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈健兒よ來れ〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：久保田宵二、曲：原田比古士良），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　朝日に匂（にほ）ふ敷島の　大和島根は美（うま）し國 五十鈴（いすゞ）の川のいや清く　歷史はこゝに三千年…"
 keywords: "健兒よ來れ, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 久保田宵二, 原田比古士良"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：久保田宵二"
+  - "曲：原田比古士良"
+sources:
+  - "（日本男兒の歌）"
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "F"
-image: "P122.jpg"
-audio: "kenji_yo_kitare.mp3"
+meter: "3/4"
+tempo: "112"
+image:
+  - file: "P122.jpg"
+  - file: "P123.jpg"
+audio:
+  - id: "kenji_yo_kitare"
+    label: "鋼琴伴奏版"
+    file: "kenji_yo_kitare.mp3"
+tmd_source:
+  - "kenji_yo_kitare.tmd"
+  - "kenji_yo_kitare_piano.tmd"
 ---
 
 # 健兒よ來れ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kenji_yo_kitare.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kenji_yo_kitare.mp3"></audio>
 
 - 詞：久保田宵二
 - 曲：原田比古士良

@@ -1,20 +1,34 @@
 ---
 title: "虹の橋（彩虹橋） — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
 song_title: "虹の橋（彩虹橋）"
-description: "〈虹の橋（彩虹橋）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アッチノ マチト コッチノ マチート タイコバシー カケタ…"
+song_id: "shokacho_vol_07_p239_niji_no_hashi"
+collection: "shokacho"
+volume: "vol_07"
+description: "〈虹の橋（彩虹橋）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アッチノ マチト コッチノ マチート タイコバシー カケタ…"
 keywords: "虹の橋（彩虹橋）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+sources:
+  - "唱歌帖 P239 (三年 / 新特選楽譜 / 蓬萊唱集 45頁)"
 musical_key: "G"
-image: "P239.jpg"
-audio: "niji_no_hashi.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P239.jpg"
+audio:
+  - id: "niji_no_hashi"
+    label: "鋼琴伴奏版"
+    file: "niji_no_hashi.mp3"
+tmd_source:
+  - "niji_no_hashi.tmd"
+  - "niji_no_hashi_piano.tmd"
 ---
 
 # 虹の橋（彩虹橋）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="niji_no_hashi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="niji_no_hashi.mp3"></audio>
 
 - 唱歌帖 P239 (三年 / 新特選楽譜 / 蓬萊唱集 45頁)
 

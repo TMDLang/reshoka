@@ -1,20 +1,35 @@
 ---
 title: "わたしのしゃしん（我的照片） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
 song_title: "わたしのしゃしん（我的照片）"
-description: "〈わたしのしゃしん（我的照片）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ソックリ ウツツタ ワタシノ シャシン クロイ イロマデ アリノママ…"
+song_id: "shokacho_vol_08_p010_watashi_no_shashin"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈わたしのしゃしん（我的照片）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ソックリ ウツツタ ワタシノ シャシン クロイ イロマデ アリノママ…"
 keywords: "わたしのしゃしん（我的照片）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+sources:
+  - "出處：2.3年 / 刊りすより（昭2.11.30）"
+  - "《唱歌帖》（2020.006.0843）P010.jpg"
 musical_key: "C"
-image: "P010.jpg"
-audio: "watashi_no_shashin.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P010.jpg"
+audio:
+  - id: "watashi_no_shashin"
+    label: "鋼琴伴奏版"
+    file: "watashi_no_shashin.mp3"
+tmd_source:
+  - "watashi_no_shashin.tmd"
+  - "watashi_no_shashin_piano.tmd"
 ---
 
 # わたしのしゃしん（我的照片）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="watashi_no_shashin.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="watashi_no_shashin.mp3"></audio>
 
 - 出處：2.3年 / 刊りすより（昭2.11.30）
 - 《唱歌帖》（2020.006.0843）P010.jpg

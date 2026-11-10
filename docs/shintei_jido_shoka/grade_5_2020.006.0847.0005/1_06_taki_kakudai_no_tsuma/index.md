@@ -1,22 +1,41 @@
 ---
 title: "瀧鶴臺の妻 — 《新定兒童唱歌》 尋常科 第五學年"
 song_title: "瀧鶴臺の妻"
-description: "〈瀧鶴臺の妻〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005））（詞：小野竹三、曲：山本正夫），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　白と赤との毬二つ 常に袂（たもと）に入れおきて…"
+song_id: "shintei_jido_shoka_grade_5_2020.006.0847.0005_1_06_taki_kakudai_no_tsuma"
+collection: "shintei_jido_shoka"
+volume: "grade_5_2020.006.0847.0005"
+description: "〈瀧鶴臺の妻〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005））（詞：小野竹三、曲：山本正夫），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　白と赤との毬二つ 常に袂（たもと）に入れおきて…"
 keywords: "瀧鶴臺の妻, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小野竹三, 山本正夫"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（臺史博 2020.006.0847.0005）"
+credits:
+  - "詞：小野竹三"
+  - "曲：山本正夫"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）"
 musical_key: "C"
-image: "P029.jpg"
-audio: "taki_kakudai_no_tsuma.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P029.jpg"
+audio:
+  - id: "taki_kakudai_no_tsuma"
+    label: "鋼琴伴奏版"
+    file: "taki_kakudai_no_tsuma.mp3"
+  - id: "taki_kakudai_no_tsuma_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taki_kakudai_no_tsuma_neutrino.mp3"
+tmd_source:
+  - "taki_kakudai_no_tsuma.tmd"
+  - "taki_kakudai_no_tsuma_piano.tmd"
 ---
 
 # 瀧鶴臺の妻
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="taki_kakudai_no_tsuma_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="taki_kakudai_no_tsuma.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taki_kakudai_no_tsuma_neutrino.mp3"></audio>
 
 - 詞：小野竹三
 - 曲：山本正夫

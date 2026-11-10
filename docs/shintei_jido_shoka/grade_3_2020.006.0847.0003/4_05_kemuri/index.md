@@ -1,22 +1,41 @@
 ---
 title: "けむり — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "けむり"
-description: "〈けむり〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：三木露風、曲：山田耕作），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：もく〳〵けむり どこへゆく…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_4_05_kemuri"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈けむり〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：三木露風、曲：山田耕作），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：もく〳〵けむり どこへゆく…"
 keywords: "けむり, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風, 山田耕作"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "詞：三木露風"
+  - "曲：山田耕作"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "F"
-image: "P064.jpg"
-audio: "kemuri.mp3"
+meter: "4/4"
+tempo: "138"
+image:
+  - file: "P064.jpg"
+audio:
+  - id: "kemuri"
+    label: "鋼琴伴奏版"
+    file: "kemuri.mp3"
+  - id: "kemuri_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kemuri_neutrino.mp3"
+tmd_source:
+  - "kemuri.tmd"
+  - "kemuri_piano.tmd"
 ---
 
 # けむり
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kemuri_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kemuri.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kemuri_neutrino.mp3"></audio>
 
 - 詞：三木露風
 - 曲：山田耕作

@@ -1,22 +1,42 @@
 ---
 title: "イヌノシバヰ（狗的戲劇） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "イヌノシバヰ（狗的戲劇）"
-description: "〈イヌノシバヰ（狗的戲劇）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：北原白秋、曲：成田爲三），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チヤツポンチヤツポンチヤツポンポン チチンガチリチリチヤツポンポン…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_4_12_inu_no_shibai"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈イヌノシバヰ（狗的戲劇）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：北原白秋、曲：成田爲三），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：チヤツポンチヤツポンチヤツポンポン チチンガチリチリチヤツポンポン…"
 keywords: "イヌノシバヰ（狗的戲劇）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北原白秋, 成田爲三"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：北原白秋"
+  - "曲：成田爲三"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "G"
-image: "P060.jpg"
-audio: "inu_no_shibai.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P060.jpg"
+  - file: "P061.jpg"
+audio:
+  - id: "inu_no_shibai"
+    label: "鋼琴伴奏版"
+    file: "inu_no_shibai.mp3"
+  - id: "inu_no_shibai_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "inu_no_shibai_neutrino.mp3"
+tmd_source:
+  - "inu_no_shibai.tmd"
+  - "inu_no_shibai_piano.tmd"
 ---
 
 # イヌノシバヰ（狗的戲劇）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="inu_no_shibai_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="inu_no_shibai.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="inu_no_shibai_neutrino.mp3"></audio>
 
 - 詞：北原白秋
 - 曲：成田爲三

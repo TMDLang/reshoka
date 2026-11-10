@@ -1,20 +1,35 @@
 ---
 title: "ウ・マ (馬) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "ウ・マ (馬)"
-description: "〈ウ・マ (馬)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223））（詞：澄宮崇仁親王、曲：本居長世），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ウマノセナカヘ マタガッテ パカパカハシッテ ユキタイナ…"
+song_id: "shokacho_vol_10_p194a_uma"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈ウ・マ (馬)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223））（詞：澄宮崇仁親王、曲：本居長世），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ウマノセナカヘ マタガッテ パカパカハシッテ ユキタイナ…"
 keywords: "ウ・マ (馬), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 澄宮崇仁親王, 本居長世"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
+credits:
+  - "詞：澄宮崇仁親王"
+  - "曲：本居長世"
 musical_key: "G"
-image: "P194.jpg"
-audio: "uma.mp3"
+meter: "4/4"
+tempo: "120"
+image:
+  - file: "P194.jpg"
+audio:
+  - id: "uma"
+    label: "鋼琴伴奏版"
+    file: "uma.mp3"
+tmd_source:
+  - "uma.tmd"
+  - "uma_piano.tmd"
 ---
 
 # ウ・マ (馬)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="uma.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="uma.mp3"></audio>
 
 - 詞：澄宮崇仁親王
 - 曲：本居長世

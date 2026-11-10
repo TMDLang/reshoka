@@ -1,22 +1,44 @@
 ---
 title: "埴生の宿 — 《公學校唱歌》 第六學年用"
 song_title: "埴生の宿"
-description: "〈埴生の宿〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4））（詞：里見義、曲：Henry Rowley Bishop），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：埴生（はにふ）の宿もわが宿、 玉のよそひうらやまじ。…"
+song_id: "kogakko_shoka_grade_6_13_hanyu_no_yado"
+collection: "kogakko_shoka"
+volume: "grade_6"
+description: "〈埴生の宿〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4））（詞：里見義、曲：Henry Rowley Bishop），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：埴生（はにふ）の宿もわが宿、 玉のよそひうらやまじ。…"
 keywords: "埴生の宿, 公學校唱歌, 第六學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 里見義, Henry Rowley Bishop"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+credits:
+  - "詞：里見義"
+  - "曲：Henry Rowley Bishop"
+sources:
+  - "臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）"
 musical_key: "E,"
-image: "P042.jpg"
-audio: "hanyu_no_yado.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P042.jpg"
+  - file: "P043.jpg"
+  - file: "P044.jpg"
+  - file: "P045.jpg"
+audio:
+  - id: "hanyu_no_yado"
+    label: "鋼琴伴奏版"
+    file: "hanyu_no_yado.mp3"
+  - id: "hanyu_no_yado_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hanyu_no_yado_neutrino.mp3"
+tmd_source:
+  - "hanyu_no_yado.tmd"
+  - "hanyu_no_yado_piano.tmd"
 ---
 
 # 埴生の宿
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hanyu_no_yado_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hanyu_no_yado.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hanyu_no_yado_neutrino.mp3"></audio>
 
 - 詞：里見義
 - 曲：Henry Rowley Bishop

@@ -1,22 +1,41 @@
 ---
 title: "サル・カニ（猴子與螃蟹） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "サル・カニ（猴子與螃蟹）"
-description: "〈サル・カニ（猴子與螃蟹）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：石原和三郎、曲：納所辨次郎），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハヤク　メヲダセ カキノタネ…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_3_06_sarukani"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈サル・カニ（猴子與螃蟹）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：石原和三郎、曲：納所辨次郎），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ハヤク　メヲダセ カキノタネ…"
 keywords: "サル・カニ（猴子與螃蟹）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 納所辨次郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：石原和三郎"
+  - "曲：納所辨次郎"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "D"
-image: "P045.jpg"
-audio: "sarukani.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P045.jpg"
+audio:
+  - id: "sarukani"
+    label: "鋼琴伴奏版"
+    file: "sarukani.mp3"
+  - id: "sarukani_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sarukani_neutrino.mp3"
+tmd_source:
+  - "sarukani.tmd"
+  - "sarukani_piano.tmd"
 ---
 
 # サル・カニ（猴子與螃蟹）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="sarukani_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="sarukani.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sarukani_neutrino.mp3"></audio>
 
 - 詞：石原和三郎
 - 曲：納所辨次郎

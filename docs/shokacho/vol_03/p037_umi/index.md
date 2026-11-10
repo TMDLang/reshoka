@@ -1,20 +1,36 @@
 ---
 title: "海（其一） — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "海（其一）"
-description: "〈海（其一）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雲の波 はてもなく 空低く 山見えず…"
+song_id: "shokacho_vol_03_p037_umi"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈海（其一）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雲の波 はてもなく 空低く 山見えず…"
 keywords: "海（其一）, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+sources:
+  - "出處：共益商社唱歌教科書教師用巻二 第十九頁（3.）"
+  - "《唱歌帖》（2020.006.0843）P037.jpg"
+  - "原典：共益商社樂器店《唱歌教科書 教師用 巻二》第十八～十九頁（NDL PID 854863，https://dl.ndl.go.jp/pid/854863）"
 musical_key: "D"
-image: "P037.jpg"
-audio: "umi.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P037.jpg"
+audio:
+  - id: "umi"
+    label: "鋼琴伴奏版"
+    file: "umi.mp3"
+tmd_source:
+  - "umi.tmd"
+  - "umi_piano.tmd"
 ---
 
 # 海（其一）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="umi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="umi.mp3"></audio>
 
 - 出處：共益商社唱歌教科書教師用巻二 第十九頁（3.）
 - 《唱歌帖》（2020.006.0843）P037.jpg

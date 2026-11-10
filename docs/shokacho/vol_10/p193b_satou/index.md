@@ -1,20 +1,35 @@
 ---
 title: "サトウ (砂糖) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "サトウ (砂糖)"
-description: "〈サトウ (砂糖)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223））（詞：澄宮崇仁親王、曲：永井幸次），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シロイサトウハ アマイナ ユキモサトウナラ ヨイニナ…"
+song_id: "shokacho_vol_10_p193b_satou"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈サトウ (砂糖)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223））（詞：澄宮崇仁親王、曲：永井幸次），調號拍號：D 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シロイサトウハ アマイナ ユキモサトウナラ ヨイニナ…"
 keywords: "サトウ (砂糖), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 澄宮崇仁親王, 永井幸次"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
+credits:
+  - "詞：澄宮崇仁親王"
+  - "曲：永井幸次"
 musical_key: "D"
-image: "P193.jpg"
-audio: "satou.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P193.jpg"
+audio:
+  - id: "satou"
+    label: "鋼琴伴奏版"
+    file: "satou.mp3"
+tmd_source:
+  - "satou.tmd"
+  - "satou_piano.tmd"
 ---
 
 # サトウ (砂糖)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="satou.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="satou.mp3"></audio>
 
 - 詞：澄宮崇仁親王
 - 曲：永井幸次

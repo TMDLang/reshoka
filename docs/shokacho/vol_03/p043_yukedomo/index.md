@@ -1,20 +1,36 @@
 ---
 title: "行けども — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "行けども"
-description: "〈行けども〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：蘇格蘭民謠（Comin' Thro' the Rye / 故郷の空）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ユケドモ ユケドモ ミヅマタミヅ カギリモ シラナミ ソラヒタセル…"
+song_id: "shokacho_vol_03_p043_yukedomo"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈行けども〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：蘇格蘭民謠（Comin' Thro' the Rye / 故郷の空）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ユケドモ ユケドモ ミヅマタミヅ カギリモ シラナミ ソラヒタセル…"
 keywords: "行けども, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+credits:
+  - "曲：蘇格蘭民謠（Comin' Thro' the Rye / 故郷の空）"
+sources:
+  - "《唱歌帖》（2020.006.0843）P043.jpg（9）"
 musical_key: "C"
-image: "P043.jpg"
-audio: "yukedomo.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P043.jpg"
+audio:
+  - id: "yukedomo"
+    label: "鋼琴伴奏版"
+    file: "yukedomo.mp3"
+tmd_source:
+  - "yukedomo.tmd"
+  - "yukedomo_piano.tmd"
 ---
 
 # 行けども
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="yukedomo.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="yukedomo.mp3"></audio>
 
 - 曲：蘇格蘭民謠（Comin' Thro' the Rye / 故郷の空）
 - 《唱歌帖》（2020.006.0843）P043.jpg（9）

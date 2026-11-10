@@ -1,20 +1,36 @@
 ---
 title: "雨 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "雨"
-description: "〈雨〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、（小兒） いづこを 出でゝ…"
+song_id: "shokacho_vol_03_p036_ame"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈雨〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、（小兒） いづこを 出でゝ…"
 keywords: "雨, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+sources:
+  - "出處：共益商社唱歌教科書教師用巻二 第七頁（2.）"
+  - "《唱歌帖》（2020.006.0843）P036.jpg"
+  - "原典：共益商社樂器店《唱歌教科書 教師用 巻二》第六～七頁（NDL PID 854863，https://dl.ndl.go.jp/pid/854863）"
 musical_key: "F"
-image: "P036.jpg"
-audio: "ame.mp3"
+meter: "2/4"
+tempo: "116"
+image:
+  - file: "P036.jpg"
+audio:
+  - id: "ame"
+    label: "鋼琴伴奏版"
+    file: "ame.mp3"
+tmd_source:
+  - "ame.tmd"
+  - "ame_piano.tmd"
 ---
 
 # 雨
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="ame.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="ame.mp3"></audio>
 
 - 出處：共益商社唱歌教科書教師用巻二 第七頁（2.）
 - 《唱歌帖》（2020.006.0843）P036.jpg

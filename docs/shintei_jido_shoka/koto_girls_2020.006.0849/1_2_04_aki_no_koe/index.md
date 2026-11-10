@@ -1,20 +1,35 @@
 ---
 title: "秋の聲 — 《新定兒童唱歌》 高等科 女子一二年"
 song_title: "秋の聲"
-description: "〈秋の聲〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：G 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月（つき）の軒端（のきば）に　書（ふみ）讀（よ）む夜半（よは） 机（つくゑ）の上（うへ）に　落（お）ちて來（く）るは…"
+song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_2_04_aki_no_koe"
+collection: "shintei_jido_shoka"
+volume: "koto_girls_2020.006.0849"
+description: "〈秋の聲〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：G 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月（つき）の軒端（のきば）に　書（ふみ）讀（よ）む夜半（よは） 机（つくゑ）の上（うへ）に　落（お）ちて來（く）るは…"
 keywords: "秋の聲, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
+sources:
+  - "編：北村季晴（北村中等音樂教科書）"
+  - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
 musical_key: "G"
-image: "P049.jpg"
-audio: "aki_no_koe.mp3"
+meter: "6/8"
+tempo: "100"
+image:
+  - file: "P049.jpg"
+audio:
+  - id: "aki_no_koe"
+    label: "鋼琴伴奏版"
+    file: "aki_no_koe.mp3"
+tmd_source:
+  - "aki_no_koe.tmd"
+  - "aki_no_koe_piano.tmd"
 ---
 
 # 秋の聲
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="aki_no_koe.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="aki_no_koe.mp3"></audio>
 
 - 編：北村季晴（北村中等音樂教科書）
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

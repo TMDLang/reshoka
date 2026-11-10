@@ -7,7 +7,7 @@ import os
 from pathlib import Path
 import re
 
-from .audio import render_abc, render_analysis, render_song_audio, render_studio_url
+from .audio import AudioAsset, render_abc, render_analysis, render_song_audio, render_studio_url
 from .catalog import (
     COLLECTION_TITLES,
     DOCS_ROOT,
@@ -73,17 +73,19 @@ def render_cross_references(folder: Path) -> str:
 def build_song_frontmatter(
     *,
     title: str,
+    song_id: str,
     col_name: str,
     vol_name: str,
     col_title: str,
     vol_title: str,
     vol_nav_title: str,
     credits: list[str],
+    sources: list[str],
     score_info: dict[str, str],
     lyrics: str,
     images: list[Path],
-    audio_path: Path | None,
-    audio_is_piano: bool,
+    audio_assets: list[AudioAsset],
+    tmd_sources: list[str],
 ) -> str:
     seo_title = f"{title} — {col_title} {vol_nav_title}"
     credit_summary = "、".join(credits) if credits else ""
@@ -111,11 +113,11 @@ def build_song_frontmatter(
         desc_parts.append(f"（{credit_summary}）")
     if key_meter_summary:
         desc_parts.append(f"，調號拍號：{key_meter_summary}")
-    if audio_path:
-        audio_description = "雙手鋼琴伴奏 MP3" if audio_is_piano else "原始 MP3"
+    if audio_assets:
+        audio_description = "、".join(asset.label for asset in audio_assets)
         desc_str = (
             "".join(desc_parts)
-            + f"。提供{audio_description} 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+            + f"。提供{audio_description}等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
         )
     else:
         desc_str = "".join(desc_parts) + "。提供五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
@@ -158,21 +160,60 @@ def build_song_frontmatter(
         "---",
         f"title: {json.dumps(seo_title, ensure_ascii=False)}",
         f"song_title: {json.dumps(title, ensure_ascii=False)}",
+        f"song_id: {json.dumps(song_id, ensure_ascii=False)}",
+        f"collection: {json.dumps(col_name, ensure_ascii=False)}",
+        f"volume: {json.dumps(vol_name, ensure_ascii=False)}",
         f"description: {json.dumps(desc_str, ensure_ascii=False)}",
         f"keywords: {json.dumps(kw_str, ensure_ascii=False)}",
         'schema_type: "MusicComposition"',
         f"is_part_of: {json.dumps(f'{col_title} {vol_title}', ensure_ascii=False)}",
     ]
+    fm_lines.extend(_yaml_string_list("credits", credits))
+    fm_lines.extend(_yaml_string_list("sources", sources))
     if score_info.get("key"):
         fm_lines.append(
             f"musical_key: {json.dumps(score_info['key'], ensure_ascii=False)}"
         )
+    if score_info.get("meter"):
+        fm_lines.append(f"meter: {json.dumps(score_info['meter'], ensure_ascii=False)}")
+    if score_info.get("tempo"):
+        fm_lines.append(f"tempo: {json.dumps(score_info['tempo'], ensure_ascii=False)}")
     if images:
-        fm_lines.append(f"image: {json.dumps(images[0].name, ensure_ascii=False)}")
-    if audio_path:
-        fm_lines.append(f"audio: {json.dumps(audio_path.name, ensure_ascii=False)}")
+        fm_lines.append("image:")
+        fm_lines.extend(
+            f"  - file: {json.dumps(image.name, ensure_ascii=False)}"
+            for image in images
+        )
+    audio_frontmatter = build_audio_frontmatter(audio_assets)
+    if audio_frontmatter:
+        fm_lines.extend(audio_frontmatter.splitlines())
+    fm_lines.extend(_yaml_string_list("tmd_source", tmd_sources))
     fm_lines.append("---")
     return "\n".join(fm_lines)
+
+
+def _yaml_string_list(name: str, values: list[str]) -> list[str]:
+    if not values:
+        return []
+    lines = [f"{name}:"]
+    lines.extend(f"  - {json.dumps(value, ensure_ascii=False)}" for value in values)
+    return lines
+
+
+def build_audio_frontmatter(audio_assets: list[AudioAsset]) -> str:
+    """Serialize discovered export files for MkDocs page metadata."""
+    if not audio_assets:
+        return ""
+    lines = ["audio:"]
+    for asset in audio_assets:
+        lines.extend(
+            [
+                f"  - id: {json.dumps(asset.path.stem, ensure_ascii=False)}",
+                f"    label: {json.dumps(asset.label, ensure_ascii=False)}",
+                f"    file: {json.dumps(asset.path.name, ensure_ascii=False)}",
+            ]
+        )
+    return "\n".join(lines)
 
 
 def generate_song_folder(
@@ -199,7 +240,7 @@ def generate_song_folder(
 
     abc = render_abc(main_tmd, abc_path, folder, force=force)
     analysis = render_analysis(main_tmd, folder)
-    audio_path, audio_is_piano, audio_html = render_song_audio(
+    audio_assets, audio_html = render_song_audio(
         folder,
         stem,
         main_tmd,
@@ -266,17 +307,19 @@ def generate_song_folder(
 
     frontmatter = build_song_frontmatter(
         title=title,
+        song_id=f"{col_name}_{vol_name}_{folder.name}",
         col_name=col_name,
         vol_name=vol_name,
         col_title=col_title,
         vol_title=vol_title,
         vol_nav_title=vol_nav_title,
         credits=credits,
+        sources=sources,
         score_info=score_info,
         lyrics=lyrics,
         images=images,
-        audio_path=audio_path,
-        audio_is_piano=audio_is_piano,
+        audio_assets=audio_assets,
+        tmd_sources=[p.name for p in [main_tmd, piano_tmd] if p],
     )
 
     markdown = f"""{frontmatter}

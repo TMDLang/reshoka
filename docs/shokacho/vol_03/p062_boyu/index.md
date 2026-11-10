@@ -1,20 +1,34 @@
 ---
 title: "亡友 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "亡友"
-description: "〈亡友〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：不詳），調號拍號：E, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_03_p062_boyu"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈亡友〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064））（曲：不詳），調號拍號：E, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "亡友, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 不詳"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+credits:
+  - "曲：不詳"
 musical_key: "E,"
-image: "P062.jpg"
-audio: "boyu.mp3"
+meter: "2/4"
+tempo: "76"
+image:
+  - file: "P062.jpg"
+audio:
+  - id: "boyu"
+    label: "鋼琴伴奏版"
+    file: "boyu.mp3"
+tmd_source:
+  - "boyu.tmd"
+  - "boyu_piano.tmd"
 ---
 
 # 亡友
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="boyu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="boyu.mp3"></audio>
 
 - 曲：不詳
 

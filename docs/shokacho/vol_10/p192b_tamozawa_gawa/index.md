@@ -1,20 +1,35 @@
 ---
 title: "タモザハガハ (田母澤川) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "タモザハガハ (田母澤川)"
-description: "〈タモザハガハ (田母澤川)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223））（詞：澄宮崇仁親王、曲：本居長世），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タモザハガハハ ザーザーザー アメノフルヨウニ ナガレテル…"
+song_id: "shokacho_vol_10_p192b_tamozawa_gawa"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈タモザハガハ (田母澤川)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223））（詞：澄宮崇仁親王、曲：本居長世），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タモザハガハハ ザーザーザー アメノフルヨウニ ナガレテル…"
 keywords: "タモザハガハ (田母澤川), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 澄宮崇仁親王, 本居長世"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
+credits:
+  - "詞：澄宮崇仁親王"
+  - "曲：本居長世"
 musical_key: "D"
-image: "P192.jpg"
-audio: "tamozawa_gawa.mp3"
+meter: "4/4"
+tempo: "84"
+image:
+  - file: "P192.jpg"
+audio:
+  - id: "tamozawa_gawa"
+    label: "鋼琴伴奏版"
+    file: "tamozawa_gawa.mp3"
+tmd_source:
+  - "tamozawa_gawa.tmd"
+  - "tamozawa_gawa_piano.tmd"
 ---
 
 # タモザハガハ (田母澤川)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tamozawa_gawa.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tamozawa_gawa.mp3"></audio>
 
 - 詞：澄宮崇仁親王
 - 曲：本居長世

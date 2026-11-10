@@ -1,20 +1,38 @@
 ---
 title: "カナリヤ — 《楊金土手抄唱歌帖》 第 2 冊（II）"
 song_title: "カナリヤ"
-description: "〈カナリヤ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（詞：西條八十、曲：成田為三），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ウシロノヤマニ　ステマセウカ 2. セドノコヤブニ　ウメマセウカ…"
+song_id: "shokacho_vol_02_p106_kanariya"
+collection: "shokacho"
+volume: "vol_02"
+description: "〈カナリヤ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（詞：西條八十、曲：成田為三），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ウシロノヤマニ　ステマセウカ 2. セドノコヤブニ　ウメマセウカ…"
 keywords: "カナリヤ, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 西條八十, 成田為三"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+credits:
+  - "詞：西條八十"
+  - "曲：成田為三"
+sources:
+  - "唱歌帳（2020.006.0843）P106.jpg–P107.jpg（第 38–39 頁，大正十三年十月二日抄）"
 musical_key: "C"
-image: "P106.jpg"
-audio: "kanariya.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P106.jpg"
+  - file: "P107.jpg"
+audio:
+  - id: "kanariya"
+    label: "鋼琴伴奏版"
+    file: "kanariya.mp3"
+tmd_source:
+  - "kanariya.tmd"
+  - "kanariya_piano.tmd"
 ---
 
 # カナリヤ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kanariya.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kanariya.mp3"></audio>
 
 - 詞：西條八十
 - 曲：成田為三

@@ -12,7 +12,11 @@ from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 MEDIA_EXTENSIONS = {".jpg", ".jpeg", ".png", ".mp3", ".wav", ".mid"}
 ATTRIBUTE_RE = re.compile(
-    r"(?P<prefix>\b(?:src|href)\s*=\s*[\"'])(?P<url>[^\"']+)(?P<suffix>[\"'])",
+    r"(?P<prefix>\b(?:src|href|content)\s*=\s*[\"'])(?P<url>[^\"']+)(?P<suffix>[\"'])",
+    re.IGNORECASE,
+)
+JSON_MEDIA_RE = re.compile(
+    r'(?P<prefix>"(?:contentUrl|image)"\s*:\s*")(?P<url>[^"]+)(?P<suffix>")',
     re.IGNORECASE,
 )
 
@@ -56,6 +60,7 @@ def rewrite_html(html_path: Path, site_root: Path, media_root: Path, base_url: s
 
     original = html_path.read_text(encoding="utf-8")
     rewritten = ATTRIBUTE_RE.sub(replace, original)
+    rewritten = JSON_MEDIA_RE.sub(replace, rewritten)
     if changed:
         html_path.write_text(rewritten, encoding="utf-8")
     return changed

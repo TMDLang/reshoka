@@ -1,20 +1,37 @@
 ---
 title: "シャボン玉（肥皂泡） — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
 song_title: "シャボン玉（肥皂泡）"
-description: "〈シャボン玉（肥皂泡）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：野口雨情、曲：中山晋平），調號拍號：E, 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. シャボンタマ トンダ ヤネマデ トンダ…"
+song_id: "shokacho_vol_07_p233_shabondama"
+collection: "shokacho"
+volume: "vol_07"
+description: "〈シャボン玉（肥皂泡）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：野口雨情、曲：中山晋平），調號拍號：E, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. シャボンタマ トンダ ヤネマデ トンダ…"
 keywords: "シャボン玉（肥皂泡）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 野口雨情, 中山晋平"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+credits:
+  - "詞：野口雨情"
+  - "曲：中山晋平"
+sources:
+  - "唱歌帖 P233 (二年 / 蓬萊唱集 29頁)"
 musical_key: "E,"
-image: "P233.jpg"
-audio: "shabondama.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P233.jpg"
+audio:
+  - id: "shabondama"
+    label: "鋼琴伴奏版"
+    file: "shabondama.mp3"
+tmd_source:
+  - "shabondama.tmd"
+  - "shabondama_piano.tmd"
 ---
 
 # シャボン玉（肥皂泡）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="shabondama.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shabondama.mp3"></audio>
 
 - 詞：野口雨情
 - 曲：中山晋平

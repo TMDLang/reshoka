@@ -1,22 +1,39 @@
 ---
 title: "樂しき我が家 — 《公學校唱歌》 第六學年用"
 song_title: "樂しき我が家"
-description: "〈樂しき我が家〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：E 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花こそかをらね我がこの園（その）、 月こそにほはね我がこの軒、…"
+song_id: "kogakko_shoka_grade_6_15_tanoshiki_wagaya"
+collection: "kogakko_shoka"
+volume: "grade_6"
+description: "〈樂しき我が家〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：E 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花こそかをらね我がこの園（その）、 月こそにほはね我がこの軒、…"
 keywords: "樂しき我が家, 公學校唱歌, 第六學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+sources:
+  - "臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）"
 musical_key: "E"
-image: "P050.jpg"
-audio: "tanoshiki_wagaya.mp3"
+meter: "6/8"
+tempo: "80"
+image:
+  - file: "P050.jpg"
+  - file: "P051.jpg"
+audio:
+  - id: "tanoshiki_wagaya"
+    label: "鋼琴伴奏版"
+    file: "tanoshiki_wagaya.mp3"
+  - id: "tanoshiki_wagaya_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tanoshiki_wagaya_neutrino.mp3"
+tmd_source:
+  - "tanoshiki_wagaya.tmd"
+  - "tanoshiki_wagaya_piano.tmd"
 ---
 
 # 樂しき我が家
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="tanoshiki_wagaya_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="tanoshiki_wagaya.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tanoshiki_wagaya_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）
 

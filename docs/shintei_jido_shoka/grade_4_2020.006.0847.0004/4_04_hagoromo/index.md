@@ -1,22 +1,41 @@
 ---
 title: "羽衣 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "羽衣"
-description: "〈羽衣〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（詞：葛原しげる、曲：梁田貞），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれ　天人（てんにん）は羽衣（はごろも）の 舞（まひ）を舞ひ舞ひ　歸（かへ）り行（ゆ）く…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_4_04_hagoromo"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈羽衣〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（詞：葛原しげる、曲：梁田貞），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれ　天人（てんにん）は羽衣（はごろも）の 舞（まひ）を舞ひ舞ひ　歸（かへ）り行（ゆ）く…"
 keywords: "羽衣, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+credits:
+  - "詞：葛原しげる"
+  - "曲：梁田貞"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "E,"
-image: "P061.jpg"
-audio: "hagoromo.mp3"
+meter: "4/4"
+tempo: "76"
+image:
+  - file: "P061.jpg"
+audio:
+  - id: "hagoromo"
+    label: "鋼琴伴奏版"
+    file: "hagoromo.mp3"
+  - id: "hagoromo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hagoromo_neutrino.mp3"
+tmd_source:
+  - "hagoromo.tmd"
+  - "hagoromo_piano.tmd"
 ---
 
 # 羽衣
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hagoromo_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hagoromo.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hagoromo_neutrino.mp3"></audio>
 
 - 詞：葛原しげる
 - 曲：梁田貞

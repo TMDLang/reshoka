@@ -1,22 +1,44 @@
 ---
 title: "こだま — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "こだま"
-description: "〈こだま〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：公學校用國民讀本、曲：宮島慎三郎），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、太郎（たらう）はある日（ひ）お使（つかひ）に、 となり村（むら）まで行（い）きました。…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_3_03_kodama"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈こだま〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：公學校用國民讀本、曲：宮島慎三郎），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、太郎（たらう）はある日（ひ）お使（つかひ）に、 となり村（むら）まで行（い）きました。…"
 keywords: "こだま, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 公學校用國民讀本, 宮島慎三郎"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+credits:
+  - "詞：公學校用國民讀本"
+  - "曲：宮島慎三郎"
+sources:
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "C"
-image: "P040.jpg"
-audio: "kodama.mp3"
+meter: "2/4"
+tempo: "120"
+image:
+  - file: "P040.jpg"
+  - file: "P041.jpg"
+  - file: "P042.jpg"
+  - file: "P043.jpg"
+audio:
+  - id: "kodama"
+    label: "鋼琴伴奏版"
+    file: "kodama.mp3"
+  - id: "kodama_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kodama_neutrino.mp3"
+tmd_source:
+  - "kodama.tmd"
+  - "kodama_piano.tmd"
 ---
 
 # こだま
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kodama_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kodama.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kodama_neutrino.mp3"></audio>
 
 - 詞：公學校用國民讀本
 - 曲：宮島慎三郎

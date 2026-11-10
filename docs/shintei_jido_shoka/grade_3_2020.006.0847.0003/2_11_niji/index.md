@@ -1,22 +1,40 @@
 ---
 title: "にじ（彩虹） — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "にじ（彩虹）"
-description: "〈にじ（彩虹）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：Eb 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　あれあれにじが　立つてゐる 森も小山も　下に見て…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_2_11_niji"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈にじ（彩虹）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：Eb 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　あれあれにじが　立つてゐる 森も小山も　下に見て…"
 keywords: "にじ（彩虹）, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+sources:
+  - "臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第二學期・第11首）"
+  - "國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）"
 musical_key: "Eb"
-image: "P050.jpg"
-audio: "niji.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P050.jpg"
+  - file: "P051.jpg"
+audio:
+  - id: "niji"
+    label: "鋼琴伴奏版"
+    file: "niji.mp3"
+  - id: "niji_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "niji_neutrino.mp3"
+tmd_source:
+  - "niji.tmd"
+  - "niji_piano.tmd"
 ---
 
 # にじ（彩虹）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="niji_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="niji.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="niji_neutrino.mp3"></audio>
 
 - 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第二學期・第11首）
 - 國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）

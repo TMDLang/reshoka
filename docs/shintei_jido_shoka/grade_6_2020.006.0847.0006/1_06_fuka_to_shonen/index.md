@@ -1,20 +1,37 @@
 ---
 title: "鱶と少年 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "鱶と少年"
-description: "〈鱶と少年〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：石原和三郎、曲：田村虎藏），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　鱶（ふか）！鱶（ふか）！絕叫（ぜつきやう）の 聲（こゑ）甲板（かんぱん）に滿（み）ち渡る…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_1_06_fuka_to_shonen"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈鱶と少年〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：石原和三郎、曲：田村虎藏），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　鱶（ふか）！鱶（ふか）！絕叫（ぜつきやう）の 聲（こゑ）甲板（かんぱん）に滿（み）ち渡る…"
 keywords: "鱶と少年, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+credits:
+  - "詞：石原和三郎"
+  - "曲：田村虎藏"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "G"
-image: "P030.jpg"
-audio: "fuka_to_shonen.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P030.jpg"
+audio:
+  - id: "fuka_to_shonen"
+    label: "鋼琴伴奏版"
+    file: "fuka_to_shonen.mp3"
+tmd_source:
+  - "fuka_to_shonen.tmd"
+  - "fuka_to_shonen_piano.tmd"
 ---
 
 # 鱶と少年
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="fuka_to_shonen.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="fuka_to_shonen.mp3"></audio>
 
 - 詞：石原和三郎
 - 曲：田村虎藏

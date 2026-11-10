@@ -1,20 +1,37 @@
 ---
 title: "天長節 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "天長節"
-description: "〈天長節〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：黒川真頼、曲：奥好義），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、今日の吉き日は大君の　生れ給ひし吉き日なり 二、今日の吉き日は御光の　さしでたまひし吉き日なり…"
+song_id: "shokacho_vol_01_p126_tenchosetsu"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈天長節〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：黒川真頼、曲：奥好義），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、今日の吉き日は大君の　生れ給ひし吉き日なり 二、今日の吉き日は御光の　さしでたまひし吉き日なり…"
 keywords: "天長節, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 黒川真頼, 奥好義"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+credits:
+  - "詞：黒川真頼"
+  - "曲：奥好義"
+sources:
+  - "唱歌筆記帖（臺灣子供世界社發行，2020.006.0843）P126.jpg（第 10 頁）"
 musical_key: "D"
-image: "P126.jpg"
-audio: "tenchosetsu.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P126.jpg"
+audio:
+  - id: "tenchosetsu"
+    label: "鋼琴伴奏版"
+    file: "tenchosetsu.mp3"
+tmd_source:
+  - "tenchosetsu.tmd"
+  - "tenchosetsu_piano.tmd"
 ---
 
 # 天長節
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tenchosetsu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tenchosetsu.mp3"></audio>
 
 - 詞：黒川真頼
 - 曲：奥好義

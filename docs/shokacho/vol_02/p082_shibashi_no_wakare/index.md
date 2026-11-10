@@ -1,20 +1,35 @@
 ---
 title: "暫の別 — 《楊金土手抄唱歌帖》 第 2 冊（II）"
 song_title: "暫の別"
-description: "〈暫の別〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：不詳），調號拍號：F 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_02_p082_shibashi_no_wakare"
+collection: "shokacho"
+volume: "vol_02"
+description: "〈暫の別〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：不詳），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "暫の別, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 不詳"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+credits:
+  - "曲：不詳"
 musical_key: "F"
-image: "P082.jpg"
-audio: "shibashi_no_wakare.mp3"
+meter: "3/4"
+tempo: "160"
+image:
+  - file: "P082.jpg"
+  - file: "P083.jpg"
+audio:
+  - id: "shibashi_no_wakare"
+    label: "鋼琴伴奏版"
+    file: "shibashi_no_wakare.mp3"
+tmd_source:
+  - "shibashi_no_wakare.tmd"
+  - "shibashi_no_wakare_piano.tmd"
 ---
 
 # 暫の別
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="shibashi_no_wakare.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shibashi_no_wakare.mp3"></audio>
 
 - 曲：不詳
 

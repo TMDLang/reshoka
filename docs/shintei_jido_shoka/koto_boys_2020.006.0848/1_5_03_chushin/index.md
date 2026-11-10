@@ -1,20 +1,35 @@
 ---
 title: "忠臣 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "忠臣"
-description: "〈忠臣〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：D 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：嗚呼香ぐはし　楠の二本　あゝ絶えせじ みなと川　浪の音も　身にぞしむなる…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_5_03_chushin"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈忠臣〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：D 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：嗚呼香ぐはし　楠の二本　あゝ絶えせじ みなと川　浪の音も　身にぞしむなる…"
 keywords: "忠臣, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "D"
-image: "P074.jpg"
-audio: "chushin.mp3"
+meter: "3/4"
+tempo: "100"
+image:
+  - file: "P074.jpg"
+  - file: "P075.jpg"
+audio:
+  - id: "chushin"
+    label: "鋼琴伴奏版"
+    file: "chushin.mp3"
+tmd_source:
+  - "chushin.tmd"
+  - "chushin_piano.tmd"
 ---
 
 # 忠臣
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="chushin.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="chushin.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 

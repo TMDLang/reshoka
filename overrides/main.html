@@ -18,10 +18,15 @@
 
 {% set page_image = "" %}
 {% if page and page.meta and page.meta.image %}
-{% if page.meta.image.startswith("http") %}
-{% set page_image = page.meta.image %}
-{% elif page.canonical_url %}
-{% set page_image = page.canonical_url ~ page.meta.image %}
+{% if page.meta.image is string %}
+{% set page_image_file = page.meta.image %}
+{% else %}
+{% set page_image_file = page.meta.image[0].file %}
+{% endif %}
+{% if page_image_file.startswith("http") %}
+{% set page_image = page_image_file %}
+{% else %}
+{% set page_image = page_image_file %}
 {% endif %}
 {% else %}
 {% set page_image = config.site_url ~ "shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg" %}
@@ -44,8 +49,13 @@
 <meta property="og:image" content="{{ page_image | e }}">
 <meta property="og:image:alt" content="{{ page_title | e }}">
 {% endif %}
-{% if page and page.meta and page.meta.audio and page.canonical_url %}
-<meta property="og:audio" content="{{ (page.canonical_url ~ page.meta.audio) | e }}">
+{% if page and page.meta and page.meta.audio %}
+{% if page.meta.audio is string %}
+{% set og_audio_file = page.meta.audio %}
+{% else %}
+{% set og_audio_file = page.meta.audio[0].file %}
+{% endif %}
+<meta property="og:audio" content="{{ og_audio_file | e }}">
 <meta property="og:audio:type" content="audio/mpeg">
 {% endif %}
 
@@ -129,12 +139,25 @@
       "name": {{ page.meta.is_part_of | tojson }}
     },{% endif %}
     {% if page_image %}"image": {{ page_image | tojson }},{% endif %}
-    {% if page.meta.audio and page.canonical_url %}"audio": {
-      "@type": "AudioObject",
-      "contentUrl": {{ (page.canonical_url ~ page.meta.audio) | tojson }},
-      "encodingFormat": "audio/mpeg",
-      "name": {{ (page.meta.song_title or page.title) | tojson }}
-    },{% endif %}
+    {% if page.meta.audio %}"audio": [
+      {% if page.meta.audio is string %}
+      {
+        "@type": "AudioObject",
+        "contentUrl": {{ page.meta.audio | tojson }},
+        "encodingFormat": "audio/mpeg",
+        "name": {{ (page.meta.song_title or page.title) | tojson }}
+      }
+      {% else %}
+      {% for audio in page.meta.audio %}
+      {
+        "@type": "AudioObject",
+        "contentUrl": {{ audio.file | tojson }},
+        "encodingFormat": "audio/mpeg",
+        "name": {{ audio.label | tojson }}
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+      {% endif %}
+    ],{% endif %}
     "publisher": {
       "@type": "Organization",
       "name": "Re:shoka",

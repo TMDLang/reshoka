@@ -1,22 +1,38 @@
 ---
 title: "蝶 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "蝶"
-description: "〈蝶〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ちつた花（はな）びら　ひら／＼／＼と 蝶（てふ）をおつかけ　まひあがる…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_1_05_cho"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈蝶〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ちつた花（はな）びら　ひら／＼／＼と 蝶（てふ）をおつかけ　まひあがる…"
 keywords: "蝶, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "F"
-image: "P029.jpg"
-audio: "cho.mp3"
+meter: "2/4"
+tempo: "116"
+image:
+  - file: "P029.jpg"
+audio:
+  - id: "cho"
+    label: "鋼琴伴奏版"
+    file: "cho.mp3"
+  - id: "cho_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "cho_neutrino.mp3"
+tmd_source:
+  - "cho.tmd"
+  - "cho_piano.tmd"
 ---
 
 # 蝶
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="cho_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="cho.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="cho_neutrino.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）
 

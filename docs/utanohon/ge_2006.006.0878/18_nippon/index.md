@@ -1,22 +1,40 @@
 ---
 title: "日本 — 《うたのほん》（唱歌課本） 下卷（初等科第二學年）"
 song_title: "日本"
-description: "〈日本〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　日本　よい　國、きよい　國。 せかいに　一つの　神の　國。…"
+song_id: "utanohon_ge_2006.006.0878_18_nippon"
+collection: "utanohon"
+volume: "ge_2006.006.0878"
+description: "〈日本〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　日本　よい　國、きよい　國。 せかいに　一つの　神の　國。…"
 keywords: "日本, うたのほん》（唱歌課本）, 下卷（初等科第二學年）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《うたのほん》（唱歌課本） 下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）"
+sources:
+  - "日治時期國民學校唱歌（うたのほん 下・第十八課）"
+  - "國立臺灣歷史博物館典藏"
 musical_key: "C"
-image: "P047.jpg"
-audio: "nippon.mp3"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P047.jpg"
+  - file: "P048.jpg"
+audio:
+  - id: "nippon"
+    label: "鋼琴伴奏版"
+    file: "nippon.mp3"
+  - id: "nippon_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nippon_neutrino.mp3"
+tmd_source:
+  - "nippon.tmd"
+  - "nippon_piano.tmd"
 ---
 
 # 日本
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nippon_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nippon.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nippon_neutrino.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第十八課）
 - 國立臺灣歷史博物館典藏

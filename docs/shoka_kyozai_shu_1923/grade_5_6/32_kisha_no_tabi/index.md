@@ -1,22 +1,41 @@
 ---
 title: "汽車の旅 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
 song_title: "汽車の旅"
-description: "〈汽車の旅〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：A 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shoka_kyozai_shu_1923_grade_5_6_32_kisha_no_tabi"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_5_6"
+description: "〈汽車の旅〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：A 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "汽車の旅, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "公學校唱歌帳 (P212, 293頁, 昭和2年1月29日)"
 musical_key: "A"
-image: "P300.jpg"
-audio: "kisha_no_tabi.mp3"
+meter: "2/4"
+tempo: "84"
+image:
+  - file: "P300.jpg"
+  - file: "P301.jpg"
+audio:
+  - id: "kisha_no_tabi"
+    label: "鋼琴伴奏版"
+    file: "kisha_no_tabi.mp3"
+  - id: "kisha_no_tabi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kisha_no_tabi_neutrino.mp3"
+tmd_source:
+  - "kisha_no_tabi.tmd"
+  - "kisha_no_tabi_piano.tmd"
 ---
 
 # 汽車の旅
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kisha_no_tabi_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kisha_no_tabi.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kisha_no_tabi_neutrino.mp3"></audio>
 
 - book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）

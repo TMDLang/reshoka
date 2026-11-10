@@ -1,22 +1,42 @@
 ---
 title: "なはとび — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "なはとび"
-description: "〈なはとび〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：臺灣總督府、曲：宮島慎三郎），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、阿義（あぎ）さんおいで　阿仁（あじん）さんおいで、 これから一（いっ）しょに　なはとびしませう。…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_1_03_nawatobi"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈なはとび〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：臺灣總督府、曲：宮島慎三郎），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、阿義（あぎ）さんおいで　阿仁（あじん）さんおいで、 これから一（いっ）しょに　なはとびしませう。…"
 keywords: "なはとび, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 臺灣總督府, 宮島慎三郎"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+credits:
+  - "詞：臺灣總督府"
+  - "曲：宮島慎三郎"
+sources:
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "F"
-image: "P012.jpg"
-audio: "nawatobi.mp3"
+meter: "2/4"
+tempo: "88"
+image:
+  - file: "P012.jpg"
+  - file: "P013.jpg"
+audio:
+  - id: "nawatobi"
+    label: "鋼琴伴奏版"
+    file: "nawatobi.mp3"
+  - id: "nawatobi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nawatobi_neutrino.mp3"
+tmd_source:
+  - "nawatobi.tmd"
+  - "nawatobi_piano.tmd"
 ---
 
 # なはとび
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nawatobi_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nawatobi.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nawatobi_neutrino.mp3"></audio>
 
 - 詞：臺灣總督府
 - 曲：宮島慎三郎

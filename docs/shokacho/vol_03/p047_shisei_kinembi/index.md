@@ -1,20 +1,32 @@
 ---
 title: "始政紀念日 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "始政紀念日"
-description: "〈始政紀念日〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：title = 始政紀念日 ?= C…"
+song_id: "shokacho_vol_03_p047_shisei_kinembi"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈始政紀念日〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：title = 始政紀念日 ?= C…"
 keywords: "始政紀念日, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
 musical_key: "C"
-image: "P047.jpg"
-audio: "shisei_kinembi.mp3"
+meter: "4/4"
+tempo: "100"
+image:
+  - file: "P047.jpg"
+audio:
+  - id: "shisei_kinembi"
+    label: "鋼琴伴奏版"
+    file: "shisei_kinembi.mp3"
+tmd_source:
+  - "shisei_kinembi.tmd"
+  - "shisei_kinembi_piano.tmd"
 ---
 
 # 始政紀念日
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="shisei_kinembi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shisei_kinembi.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供
 

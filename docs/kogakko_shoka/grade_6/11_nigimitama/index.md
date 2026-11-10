@@ -1,22 +1,41 @@
 ---
 title: "にぎみたま — 《公學校唱歌》 第六學年用"
 song_title: "にぎみたま"
-description: "〈にぎみたま〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4））（曲：芝葛鎮），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大御心（おほみこゝろ）を心とし、 我がたかさごの民草を…"
+song_id: "kogakko_shoka_grade_6_11_nigimitama"
+collection: "kogakko_shoka"
+volume: "grade_6"
+description: "〈にぎみたま〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4））（曲：芝葛鎮），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大御心（おほみこゝろ）を心とし、 我がたかさごの民草を…"
 keywords: "にぎみたま, 公學校唱歌, 第六學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 芝葛鎮"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+credits:
+  - "曲：芝葛鎮"
+sources:
+  - "臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）"
 musical_key: "G"
-image: "P036.jpg"
-audio: "nigimitama.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P036.jpg"
+  - file: "P037.jpg"
+audio:
+  - id: "nigimitama"
+    label: "鋼琴伴奏版"
+    file: "nigimitama.mp3"
+  - id: "nigimitama_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nigimitama_neutrino.mp3"
+tmd_source:
+  - "nigimitama.tmd"
+  - "nigimitama_piano.tmd"
 ---
 
 # にぎみたま
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nigimitama_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nigimitama.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nigimitama_neutrino.mp3"></audio>
 
 - 曲：芝葛鎮
 - 臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）

@@ -1,20 +1,38 @@
 ---
 title: "文部省選定 大禮奉祝唱歌 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "文部省選定 大禮奉祝唱歌"
-description: "〈文部省選定 大禮奉祝唱歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：高田耕一（文部省選定）、曲：平岡均之（文部省選定）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） 三種（ミクサ）の神器（タカラ）　受けつぎて…"
+song_id: "shokacho_vol_01_p184_tairei_hoshuku_shoka"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈文部省選定 大禮奉祝唱歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：高田耕一（文部省選定）、曲：平岡均之（文部省選定）），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） 三種（ミクサ）の神器（タカラ）　受けつぎて…"
 keywords: "文部省選定 大禮奉祝唱歌, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 高田耕一（文部省選定）, 平岡均之（文部省選定）"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+credits:
+  - "詞：高田耕一（文部省選定）"
+  - "曲：平岡均之（文部省選定）"
+sources:
+  - "唱歌筆記帖（臺灣子供世界社發行，2020.006.0843）P184.jpg（大阪朝日新聞社寄贈印刷伴奏譜）"
 musical_key: "D"
-image: "P183.jpg"
-audio: "tairei_hoshuku_shoka.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P183.jpg"
+  - file: "P184.jpg"
+audio:
+  - id: "tairei_hoshuku_shoka"
+    label: "鋼琴伴奏版"
+    file: "tairei_hoshuku_shoka.mp3"
+tmd_source:
+  - "tairei_hoshuku_shoka.tmd"
+  - "tairei_hoshuku_shoka_piano.tmd"
 ---
 
 # 文部省選定 大禮奉祝唱歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tairei_hoshuku_shoka.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tairei_hoshuku_shoka.mp3"></audio>
 
 - 詞：高田耕一（文部省選定）
 - 曲：平岡均之（文部省選定）

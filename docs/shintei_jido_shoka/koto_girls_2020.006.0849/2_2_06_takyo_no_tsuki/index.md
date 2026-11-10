@@ -1,20 +1,36 @@
 ---
 title: "他郷の月 — 《新定兒童唱歌》 高等科 女子一二年"
 song_title: "他郷の月"
-description: "〈他郷の月〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：中村秋香），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：よくと悅ぶ　父母のきみ あれ姉上と　かけ來る妹（いもと）…"
+song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_2_06_takyo_no_tsuki"
+collection: "shintei_jido_shoka"
+volume: "koto_girls_2020.006.0849"
+description: "〈他郷の月〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：中村秋香），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：よくと悅ぶ　父母のきみ あれ姉上と　かけ來る妹（いもと）…"
 keywords: "他郷の月, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 中村秋香"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
+credits:
+  - "詞：中村秋香"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
 musical_key: "E,"
-image: "P096.jpg"
-audio: "takyo_no_tsuki.mp3"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P096.jpg"
+audio:
+  - id: "takyo_no_tsuki"
+    label: "鋼琴伴奏版"
+    file: "takyo_no_tsuki.mp3"
+tmd_source:
+  - "takyo_no_tsuki.tmd"
+  - "takyo_no_tsuki_piano.tmd"
 ---
 
 # 他郷の月
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="takyo_no_tsuki.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="takyo_no_tsuki.mp3"></audio>
 
 - 詞：中村秋香
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

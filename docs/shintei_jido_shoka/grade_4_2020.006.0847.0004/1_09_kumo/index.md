@@ -1,22 +1,39 @@
 ---
 title: "雲 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "雲"
-description: "〈雲〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：朝日（あさひ）に燃（も）ゆればもみの絹（きぬ） 夕日（ゆふひ）に映（は）ゆれば錦（にしき）にて…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_1_09_kumo"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈雲〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：朝日（あさひ）に燃（も）ゆればもみの絹（きぬ） 夕日（ゆふひ）に映（は）ゆれば錦（にしき）にて…"
 keywords: "雲, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+sources:
+  - "文部省唱歌"
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "G"
-image: "P032.jpg"
-audio: "kumo.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P032.jpg"
+audio:
+  - id: "kumo"
+    label: "鋼琴伴奏版"
+    file: "kumo.mp3"
+  - id: "kumo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kumo_neutrino.mp3"
+tmd_source:
+  - "kumo.tmd"
+  - "kumo_piano.tmd"
 ---
 
 # 雲
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kumo_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kumo.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kumo_neutrino.mp3"></audio>
 
 - 文部省唱歌
 - 臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）

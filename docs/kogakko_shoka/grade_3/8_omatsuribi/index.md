@@ -1,22 +1,42 @@
 ---
 title: "おまつり日（祭典之日） — 《公學校唱歌》 第三學年用"
 song_title: "おまつり日（祭典之日）"
-description: "〈おまつり日（祭典之日）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用（臺史博 2020.006.0855）），調號拍號：Eb 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　たいわんじんじやのおまつり日、 たいこはどんどんなつてゐる。…"
+song_id: "kogakko_shoka_grade_3_8_omatsuribi"
+collection: "kogakko_shoka"
+volume: "grade_3"
+description: "〈おまつり日（祭典之日）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用（臺史博 2020.006.0855）），調號拍號：Eb 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　たいわんじんじやのおまつり日、 たいこはどんどんなつてゐる。…"
 keywords: "おまつり日（祭典之日）, 公學校唱歌, 第三學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第三學年用（臺史博 2020.006.0855）"
+sources:
+  - "日治時期公學校唱歌（第三學年・第八課）"
+  - "國立臺灣歷史博物館典藏"
 musical_key: "Eb"
-image: "image.jpeg"
-audio: "omatsuribi.mp3"
+meter: "2/4"
+tempo: "132"
+image:
+  - file: "image.jpeg"
+  - file: "image2.jpeg"
+  - file: "image3.jpeg"
+  - file: "image4.jpeg"
+audio:
+  - id: "omatsuribi"
+    label: "鋼琴伴奏版"
+    file: "omatsuribi.mp3"
+  - id: "omatsuribi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "omatsuribi_neutrino.mp3"
+tmd_source:
+  - "omatsuribi.tmd"
+  - "omatsuribi_piano.tmd"
 ---
 
 # おまつり日（祭典之日）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="omatsuribi_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="omatsuribi.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="omatsuribi_neutrino.mp3"></audio>
 
 - 日治時期公學校唱歌（第三學年・第八課）
 - 國立臺灣歷史博物館典藏

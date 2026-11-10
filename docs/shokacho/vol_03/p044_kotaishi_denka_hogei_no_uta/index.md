@@ -1,20 +1,35 @@
 ---
 title: "皇太子殿下奉迎の歌 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "皇太子殿下奉迎の歌"
-description: "〈皇太子殿下奉迎の歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シンリョク カヲル ハルノクニ ココノヘノ タカキ クモヰヨリ…"
+song_id: "shokacho_vol_03_p044_kotaishi_denka_hogei_no_uta"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈皇太子殿下奉迎の歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シンリョク カヲル ハルノクニ ココノヘノ タカキ クモヰヨリ…"
 keywords: "皇太子殿下奉迎の歌, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+sources:
+  - "出處：《唱歌帖》（2020.006.0843）P044.jpg（10. 貼附印刷五線譜）"
+  - "註記：第三歌萬歲ノ句ハ七段目ヲ用フ"
 musical_key: "G"
-image: "P044.jpg"
-audio: "kotaishi_denka_hogei_no_uta.mp3"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P044.jpg"
+audio:
+  - id: "kotaishi_denka_hogei_no_uta"
+    label: "鋼琴伴奏版"
+    file: "kotaishi_denka_hogei_no_uta.mp3"
+tmd_source:
+  - "kotaishi_denka_hogei_no_uta.tmd"
+  - "kotaishi_denka_hogei_no_uta_piano.tmd"
 ---
 
 # 皇太子殿下奉迎の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kotaishi_denka_hogei_no_uta.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kotaishi_denka_hogei_no_uta.mp3"></audio>
 
 - 出處：《唱歌帖》（2020.006.0843）P044.jpg（10. 貼附印刷五線譜）
 - 註記：第三歌萬歲ノ句ハ七段目ヲ用フ

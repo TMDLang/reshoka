@@ -1,22 +1,42 @@
 ---
 title: "紙鳶 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "紙鳶"
-description: "〈紙鳶〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：文部省《尋常小學唱歌》、曲：文部省《尋常小學唱歌》），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、紙鳶（たこ）紙鳶（たこ）揚（あが）れ。 風（かぜ）よくうけて、…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_2_05_tako"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈紙鳶〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26））（詞：文部省《尋常小學唱歌》、曲：文部省《尋常小學唱歌》），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、紙鳶（たこ）紙鳶（たこ）揚（あが）れ。 風（かぜ）よくうけて、…"
 keywords: "紙鳶, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省《尋常小學唱歌》"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+credits:
+  - "詞：文部省《尋常小學唱歌》"
+  - "曲：文部省《尋常小學唱歌》"
+sources:
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "F"
-image: "P030.jpg"
-audio: "tako.mp3"
+meter: "2/4"
+tempo: "112"
+image:
+  - file: "P030.jpg"
+  - file: "P031.jpg"
+audio:
+  - id: "tako"
+    label: "鋼琴伴奏版"
+    file: "tako.mp3"
+  - id: "tako_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tako_neutrino.mp3"
+tmd_source:
+  - "tako.tmd"
+  - "tako_piano.tmd"
 ---
 
 # 紙鳶
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="tako_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="tako.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tako_neutrino.mp3"></audio>
 
 - 詞：文部省《尋常小學唱歌》
 - 曲：文部省《尋常小學唱歌》

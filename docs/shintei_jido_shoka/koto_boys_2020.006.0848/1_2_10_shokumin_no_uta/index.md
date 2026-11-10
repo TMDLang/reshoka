@@ -1,20 +1,36 @@
 ---
 title: "殖民の歌 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "殖民の歌"
-description: "〈殖民の歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：わが行（ゆ）く空（そら）やがて　わが國（くに）なれば 照（て）る日（ひ）の燒山（やけやま）　み雪（ゆき）の荒野（あらの）…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_2_10_shokumin_no_uta"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈殖民の歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：わが行（ゆ）く空（そら）やがて　わが國（くに）なれば 照（て）る日（ひ）の燒山（やけやま）　み雪（ゆき）の荒野（あらの）…"
 keywords: "殖民の歌, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+sources:
+  - "編：北村季晴（弘樂社發行中等音樂教科書）"
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "F"
-image: "P059.jpg"
-audio: "shokumin_no_uta.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P059.jpg"
+  - file: "P060.jpg"
+audio:
+  - id: "shokumin_no_uta"
+    label: "鋼琴伴奏版"
+    file: "shokumin_no_uta.mp3"
+tmd_source:
+  - "shokumin_no_uta.tmd"
+  - "shokumin_no_uta_piano.tmd"
 ---
 
 # 殖民の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="shokumin_no_uta.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shokumin_no_uta.mp3"></audio>
 
 - 編：北村季晴（弘樂社發行中等音樂教科書）
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

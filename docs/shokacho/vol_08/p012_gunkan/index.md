@@ -1,20 +1,37 @@
 ---
 title: "軍艦（軍艦） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
 song_title: "軍艦（軍艦）"
-description: "〈軍艦（軍艦）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：カレー（英 / Henry Carey）），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワダノ ハラニ シマノ ゴトク ミユルハ ヨスル アダヲ フセグ フネヨ…"
+song_id: "shokacho_vol_08_p012_gunkan"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈軍艦（軍艦）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：カレー（英 / Henry Carey）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワダノ ハラニ シマノ ゴトク ミユルハ ヨスル アダヲ フセグ フネヨ…"
 keywords: "軍艦（軍艦）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, カレー（英 / Henry Carey）"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+credits:
+  - "曲：カレー（英 / Henry Carey）"
+sources:
+  - "出處：田村檢定唱歌集 145頁ヨリ（四年）"
+  - "《唱歌帖》（2020.006.0843）P012.jpg"
 musical_key: "G"
-image: "P012.jpg"
-audio: "gunkan.mp3"
+meter: "3/4"
+tempo: "88"
+image:
+  - file: "P012.jpg"
+audio:
+  - id: "gunkan"
+    label: "鋼琴伴奏版"
+    file: "gunkan.mp3"
+tmd_source:
+  - "gunkan.tmd"
+  - "gunkan_piano.tmd"
 ---
 
 # 軍艦（軍艦）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="gunkan.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="gunkan.mp3"></audio>
 
 - 曲：カレー（英 / Henry Carey）
 - 出處：田村檢定唱歌集 145頁ヨリ（四年）

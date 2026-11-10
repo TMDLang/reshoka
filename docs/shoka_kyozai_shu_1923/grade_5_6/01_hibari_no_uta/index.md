@@ -1,22 +1,44 @@
 ---
 title: "雲雀の歌 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
 song_title: "雲雀の歌"
-description: "〈雲雀の歌〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335））（詞：文部省《中學唱歌》／《教育音楽講習曲集》、曲：Felix Mendelssohn（《無言歌》或合唱曲〈Lerchengesang〉Op. 48 No. 4 改編）），調號拍號：A 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shoka_kyozai_shu_1923_grade_5_6_01_hibari_no_uta"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_5_6"
+description: "〈雲雀の歌〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335））（詞：文部省《中學唱歌》／《教育音楽講習曲集》、曲：Felix Mendelssohn（《無言歌》或合唱曲〈Lerchengesang〉Op. 48 No. 4 改編）），調號拍號：A 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "雲雀の歌, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省《中學唱歌》／《教育音楽講習曲集》"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
+credits:
+  - "詞：文部省《中學唱歌》／《教育音楽講習曲集》"
+  - "曲：Felix Mendelssohn（《無言歌》或合唱曲〈Lerchengesang〉Op. 48 No. 4 改編）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P150，原載《小公校唱材集》第 223 頁）"
 musical_key: "A"
-image: "P230.jpg"
-audio: "hibari_no_uta.mp3"
+meter: "4/4"
+tempo: "100"
+image:
+  - file: "P230.jpg"
+  - file: "P231.jpg"
+audio:
+  - id: "hibari_no_uta"
+    label: "鋼琴伴奏版"
+    file: "hibari_no_uta.mp3"
+  - id: "hibari_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hibari_no_uta_neutrino.mp3"
+tmd_source:
+  - "hibari_no_uta.tmd"
+  - "hibari_no_uta_piano.tmd"
 ---
 
 # 雲雀の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hibari_no_uta_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hibari_no_uta.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hibari_no_uta_neutrino.mp3"></audio>
 
 - 詞：文部省《中學唱歌》／《教育音楽講習曲集》
 - 曲：Felix Mendelssohn（《無言歌》或合唱曲〈Lerchengesang〉Op. 48 No. 4 改編）

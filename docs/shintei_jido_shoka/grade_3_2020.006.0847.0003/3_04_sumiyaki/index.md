@@ -1,22 +1,39 @@
 ---
 title: "炭やき（燒炭） — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "炭やき（燒炭）"
-description: "〈炭やき（燒炭）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：Bb 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　親も炭やき　子も炭やきで、 同じ仕事に　せいを出す。…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_3_04_sumiyaki"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈炭やき（燒炭）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：Bb 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　親も炭やき　子も炭やきで、 同じ仕事に　せいを出す。…"
 keywords: "炭やき（燒炭）, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+sources:
+  - "臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第三學期・第4首）"
+  - "國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）"
 musical_key: "Bb"
-image: "P055.jpg"
-audio: "sumiyaki.mp3"
+meter: "2/4"
+tempo: "112"
+image:
+  - file: "P055.jpg"
+audio:
+  - id: "sumiyaki"
+    label: "鋼琴伴奏版"
+    file: "sumiyaki.mp3"
+  - id: "sumiyaki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sumiyaki_neutrino.mp3"
+tmd_source:
+  - "sumiyaki.tmd"
+  - "sumiyaki_piano.tmd"
 ---
 
 # 炭やき（燒炭）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="sumiyaki_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="sumiyaki.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sumiyaki_neutrino.mp3"></audio>
 
 - 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第三學期・第4首）
 - 國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）

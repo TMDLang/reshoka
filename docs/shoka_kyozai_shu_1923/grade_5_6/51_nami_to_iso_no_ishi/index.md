@@ -1,22 +1,42 @@
 ---
 title: "波と磯の石 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年"
 song_title: "波と磯の石"
-description: "〈波と磯の石〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：B, 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shoka_kyozai_shu_1923_grade_5_6_51_nami_to_iso_no_ishi"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_5_6"
+description: "〈波と磯の石〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）），調號拍號：B, 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "波と磯の石, 新編 小學校・公學校 唱歌教材集, 尋常科 第五、六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P205）"
+  - "原載《小公唱材集》第 335 頁（昭和 2 年 1 月 28 日抄）"
 musical_key: "B,"
-image: "P342.jpg"
-audio: "nami_to_iso_no_ishi.mp3"
+meter: "3/4"
+tempo: "100"
+image:
+  - file: "P342.jpg"
+  - file: "P343.jpg"
+audio:
+  - id: "nami_to_iso_no_ishi"
+    label: "鋼琴伴奏版"
+    file: "nami_to_iso_no_ishi.mp3"
+  - id: "nami_to_iso_no_ishi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nami_to_iso_no_ishi_neutrino.mp3"
+tmd_source:
+  - "nami_to_iso_no_ishi.tmd"
+  - "nami_to_iso_no_ishi_piano.tmd"
 ---
 
 # 波と磯の石
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nami_to_iso_no_ishi_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nami_to_iso_no_ishi.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nami_to_iso_no_ishi_neutrino.mp3"></audio>
 
 - book: 新編 小學校・公學校 唱歌教材集（尋常科五・六學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）

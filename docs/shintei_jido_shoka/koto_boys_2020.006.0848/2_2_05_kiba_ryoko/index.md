@@ -1,20 +1,35 @@
 ---
 title: "騎馬旅行 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "騎馬旅行"
-description: "〈騎馬旅行〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：肥えたるわが馬　手なれしわが鞭 千里の旅行も　おもへばやすし…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_2_05_kiba_ryoko"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈騎馬旅行〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：肥えたるわが馬　手なれしわが鞭 千里の旅行も　おもへばやすし…"
 keywords: "騎馬旅行, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "F"
-image: "P096.jpg"
-audio: "kiba_ryoko.mp3"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P096.jpg"
+  - file: "P097.jpg"
+audio:
+  - id: "kiba_ryoko"
+    label: "鋼琴伴奏版"
+    file: "kiba_ryoko.mp3"
+tmd_source:
+  - "kiba_ryoko.tmd"
+  - "kiba_ryoko_piano.tmd"
 ---
 
 # 騎馬旅行
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kiba_ryoko.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kiba_ryoko.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 

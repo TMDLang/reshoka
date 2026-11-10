@@ -1,22 +1,41 @@
 ---
 title: "カラス（烏鴉） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "カラス（烏鴉）"
-description: "〈カラス（烏鴉）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カアカア　カラスガ　ナイテイク カラス　カラス　ドコヘイク…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_2_03_karasu"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈カラス（烏鴉）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：カアカア　カラスガ　ナイテイク カラス　カラス　ドコヘイク…"
 keywords: "カラス（烏鴉）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：文部省"
+  - "曲：文部省"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "F"
-image: "P033.jpg"
-audio: "karasu.mp3"
+meter: "2/4"
+tempo: "96"
+image:
+  - file: "P033.jpg"
+audio:
+  - id: "karasu"
+    label: "鋼琴伴奏版"
+    file: "karasu.mp3"
+  - id: "karasu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "karasu_neutrino.mp3"
+tmd_source:
+  - "karasu.tmd"
+  - "karasu_piano.tmd"
 ---
 
 # カラス（烏鴉）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="karasu_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="karasu.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="karasu_neutrino.mp3"></audio>
 
 - 詞：文部省
 - 曲：文部省

@@ -1,20 +1,35 @@
 ---
 title: "夏げしき — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "夏げしき"
-description: "〈夏げしき〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　花（はな）もいつしか散（ち）り過（す）ぎて、 青葉（あをば）すずしき世（よ）となれば、…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_07_natsugeshiki"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈夏げしき〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　花（はな）もいつしか散（ち）り過（す）ぎて、 青葉（あをば）すずしき世（よ）となれば、…"
 keywords: "夏げしき, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+sources:
+  - "出處：金港堂發行《大正女學唱歌》"
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "D"
-image: "P042.jpg"
-audio: "natsugeshiki.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P042.jpg"
+audio:
+  - id: "natsugeshiki"
+    label: "鋼琴伴奏版"
+    file: "natsugeshiki.mp3"
+tmd_source:
+  - "natsugeshiki.tmd"
+  - "natsugeshiki_piano.tmd"
 ---
 
 # 夏げしき
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="natsugeshiki.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="natsugeshiki.mp3"></audio>
 
 - 出處：金港堂發行《大正女學唱歌》
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

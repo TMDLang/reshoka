@@ -1,22 +1,41 @@
 ---
 title: "千里の山河 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "千里の山河"
-description: "〈千里の山河〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（詞：文部省國語讀本、曲：山本壽），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：千里（せんり）の山河（さんか）　忽（たちま）ち行く汽車 波濤萬里（はたうばんり）　物ともせぬ船…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_2_10_senri_no_sanga"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈千里の山河〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（詞：文部省國語讀本、曲：山本壽），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：千里（せんり）の山河（さんか）　忽（たちま）ち行く汽車 波濤萬里（はたうばんり）　物ともせぬ船…"
 keywords: "千里の山河, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省國語讀本, 山本壽"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+credits:
+  - "詞：文部省國語讀本"
+  - "曲：山本壽"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "G"
-image: "P046.jpg"
-audio: "senri_no_sanga.mp3"
+meter: "2/4"
+tempo: "84"
+image:
+  - file: "P046.jpg"
+audio:
+  - id: "senri_no_sanga"
+    label: "鋼琴伴奏版"
+    file: "senri_no_sanga.mp3"
+  - id: "senri_no_sanga_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "senri_no_sanga_neutrino.mp3"
+tmd_source:
+  - "senri_no_sanga.tmd"
+  - "senri_no_sanga_piano.tmd"
 ---
 
 # 千里の山河
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="senri_no_sanga_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="senri_no_sanga.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="senri_no_sanga_neutrino.mp3"></audio>
 
 - 詞：文部省國語讀本
 - 曲：山本壽

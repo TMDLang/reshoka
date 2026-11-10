@@ -1,22 +1,41 @@
 ---
 title: "シヤボンダマ（肥皂泡） — 《新定兒童唱歌》 尋常科 第二學年"
 song_title: "シヤボンダマ（肥皂泡）"
-description: "〈シヤボンダマ（肥皂泡）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（詞：濱岡泰夫、曲：井上武士），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤボンダマ　アガレ クモマデ　アガレ…"
+song_id: "shintei_jido_shoka_grade_2_2020.006.0847.0002_1_08_shabondama"
+collection: "shintei_jido_shoka"
+volume: "grade_2_2020.006.0847.0002"
+description: "〈シヤボンダマ（肥皂泡）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002））（詞：濱岡泰夫、曲：井上武士），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤボンダマ　アガレ クモマデ　アガレ…"
 keywords: "シヤボンダマ（肥皂泡）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 濱岡泰夫, 井上武士"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（臺史博 2020.006.0847.0002）"
+credits:
+  - "詞：濱岡泰夫"
+  - "曲：井上武士"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
 musical_key: "C"
-image: "P026.jpg"
-audio: "shabondama.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P026.jpg"
+audio:
+  - id: "shabondama"
+    label: "鋼琴伴奏版"
+    file: "shabondama.mp3"
+  - id: "shabondama_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "shabondama_neutrino.mp3"
+tmd_source:
+  - "shabondama.tmd"
+  - "shabondama_piano.tmd"
 ---
 
 # シヤボンダマ（肥皂泡）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="shabondama_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="shabondama.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="shabondama_neutrino.mp3"></audio>
 
 - 詞：濱岡泰夫
 - 曲：井上武士

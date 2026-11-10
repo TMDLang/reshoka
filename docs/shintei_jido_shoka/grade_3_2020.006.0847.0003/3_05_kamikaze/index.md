@@ -1,22 +1,39 @@
 ---
 title: "神風 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "神風"
-description: "〈神風〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：C 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　吹（ふ）けや神風（かみかぜ）博多（はかた）の沖（おき）に 元（げん）の大軍（たいぐん）十餘萬（じふよまん）…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_3_05_kamikaze"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈神風〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：C 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　吹（ふ）けや神風（かみかぜ）博多（はかた）の沖（おき）に 元（げん）の大軍（たいぐん）十餘萬（じふよまん）…"
 keywords: "神風, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+sources:
+  - "臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第三學期・第5首）"
+  - "國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）"
 musical_key: "C"
-image: "P056.jpg"
-audio: "kamikaze.mp3"
+meter: "3/4"
+tempo: "108"
+image:
+  - file: "P056.jpg"
+audio:
+  - id: "kamikaze"
+    label: "鋼琴伴奏版"
+    file: "kamikaze.mp3"
+  - id: "kamikaze_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kamikaze_neutrino.mp3"
+tmd_source:
+  - "kamikaze.tmd"
+  - "kamikaze_piano.tmd"
 ---
 
 # 神風
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kamikaze_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kamikaze.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kamikaze_neutrino.mp3"></audio>
 
 - 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第三學期・第5首）
 - 國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）

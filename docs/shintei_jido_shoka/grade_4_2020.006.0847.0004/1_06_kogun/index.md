@@ -1,22 +1,40 @@
 ---
 title: "行軍 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "行軍"
-description: "〈行軍〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（曲：獨國風曲），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：見（み）よ／＼兵士（へいし）の行軍（かうぐん） 足並（あしなみ）揃（そろ）へて來（く）る…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_1_06_kogun"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈行軍〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（曲：獨國風曲），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：見（み）よ／＼兵士（へいし）の行軍（かうぐん） 足並（あしなみ）揃（そろ）へて來（く）る…"
 keywords: "行軍, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 獨國風曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+credits:
+  - "曲：獨國風曲"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "G"
-image: "P029.jpg"
-audio: "kogun.mp3"
+meter: "2/4"
+tempo: "112"
+image:
+  - file: "P029.jpg"
+audio:
+  - id: "kogun"
+    label: "鋼琴伴奏版"
+    file: "kogun.mp3"
+  - id: "kogun_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kogun_neutrino.mp3"
+tmd_source:
+  - "kogun.tmd"
+  - "kogun_piano.tmd"
 ---
 
 # 行軍
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kogun_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kogun.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kogun_neutrino.mp3"></audio>
 
 - 曲：獨國風曲
 - 臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）

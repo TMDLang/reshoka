@@ -1,20 +1,36 @@
 ---
 title: "小鳥 — 《新定兒童唱歌》 高等科 女子一二年"
 song_title: "小鳥"
-description: "〈小鳥〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：今中楓溪（現代女子音樂）），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：朝（あさ）の小鳥（ことり）歌（うた）ふよ 暮（くれ）の小鳥歌ふよ…"
+song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_2_02_kotori"
+collection: "shintei_jido_shoka"
+volume: "koto_girls_2020.006.0849"
+description: "〈小鳥〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：今中楓溪（現代女子音樂）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：朝（あさ）の小鳥（ことり）歌（うた）ふよ 暮（くれ）の小鳥歌ふよ…"
 keywords: "小鳥, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 今中楓溪（現代女子音樂）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
+credits:
+  - "詞：今中楓溪（現代女子音樂）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
 musical_key: "G"
-image: "P047.jpg"
-audio: "kotori.mp3"
+meter: "3/4"
+tempo: "96"
+image:
+  - file: "P047.jpg"
+audio:
+  - id: "kotori"
+    label: "鋼琴伴奏版"
+    file: "kotori.mp3"
+tmd_source:
+  - "kotori.tmd"
+  - "kotori_piano.tmd"
 ---
 
 # 小鳥
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kotori.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kotori.mp3"></audio>
 
 - 詞：今中楓溪（現代女子音樂）
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

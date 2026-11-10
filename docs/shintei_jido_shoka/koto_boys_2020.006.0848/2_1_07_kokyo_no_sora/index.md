@@ -1,20 +1,38 @@
 ---
 title: "故郷の空 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "故郷の空"
-description: "〈故郷の空〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野士良、曲：ルート（G. F. Root，米國）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　おぼろにかすむ　櫻（さくら）のあした　道（みち）の友（とも）と杖（つえ）をひき 川風（かはかぜ）青（あを）き　柳（や…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_1_07_kokyo_no_sora"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈故郷の空〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野士良、曲：ルート（G. F. Root，米國）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　おぼろにかすむ　櫻（さくら）のあした　道（みち）の友（とも）と杖（つえ）をひき 川風（かはかぜ）青（あを）き　柳（や…"
 keywords: "故郷の空, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 旗野士良, ルート（G. F. Root，米國）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "詞：旗野士良"
+  - "曲：ルート（G. F. Root，米國）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "C"
-image: "P086.jpg"
-audio: "kokyo_no_sora.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P086.jpg"
+  - file: "P087.jpg"
+audio:
+  - id: "kokyo_no_sora"
+    label: "鋼琴伴奏版"
+    file: "kokyo_no_sora.mp3"
+tmd_source:
+  - "kokyo_no_sora.tmd"
+  - "kokyo_no_sora_piano.tmd"
 ---
 
 # 故郷の空
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kokyo_no_sora.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kokyo_no_sora.mp3"></audio>
 
 - 詞：旗野士良
 - 曲：ルート（G. F. Root，米國）

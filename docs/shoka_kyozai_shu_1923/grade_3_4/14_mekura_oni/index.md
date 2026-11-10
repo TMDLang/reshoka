@@ -1,22 +1,41 @@
 ---
 title: "めくら鬼 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年"
 song_title: "めくら鬼"
-description: "〈めくら鬼〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁歌詞全文（P156.jpg，原書 p. 148）**…"
+song_id: "shoka_kyozai_shu_1923_grade_3_4_14_mekura_oni"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_3_4"
+description: "〈めくら鬼〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁歌詞全文（P156.jpg，原書 p. 148）**…"
 keywords: "めくら鬼, 新編 小學校・公學校 唱歌教材集, 尋常科 第三、四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "尋常科第三、四學年用（第 148–149 頁）"
 musical_key: "D"
-image: "P156.jpg"
-audio: "mekura_oni.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P156.jpg"
+  - file: "P157.jpg"
+audio:
+  - id: "mekura_oni"
+    label: "鋼琴伴奏版"
+    file: "mekura_oni.mp3"
+  - id: "mekura_oni_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "mekura_oni_neutrino.mp3"
+tmd_source:
+  - "mekura_oni.tmd"
+  - "mekura_oni_piano.tmd"
 ---
 
 # めくら鬼
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="mekura_oni_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="mekura_oni.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="mekura_oni_neutrino.mp3"></audio>
 
 - book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）

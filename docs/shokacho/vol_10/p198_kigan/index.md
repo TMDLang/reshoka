@@ -1,20 +1,32 @@
 ---
 title: "歸雁 (歸雁) — 《楊金土手抄唱歌帖》 第 10 冊（X）"
 song_title: "歸雁 (歸雁)"
-description: "〈歸雁 (歸雁)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イソヤマザクラ サキソメーテ ナミマーデカスム ハルノヨーヤ トワタリカヘル カリガネーモ ナゴリヤイトド ヲシカラーム…"
+song_id: "shokacho_vol_10_p198_kigan"
+collection: "shokacho"
+volume: "vol_10"
+description: "〈歸雁 (歸雁)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イソヤマザクラ サキソメーテ ナミマーデカスム ハルノヨーヤ トワタリカヘル カリガネーモ ナゴリヤイトド ヲシカラーム…"
 keywords: "歸雁 (歸雁), 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
 musical_key: "F"
-image: "P198.jpg"
-audio: "kigan.mp3"
+meter: "4/4"
+tempo: "80"
+image:
+  - file: "P198.jpg"
+audio:
+  - id: "kigan"
+    label: "鋼琴伴奏版"
+    file: "kigan.mp3"
+tmd_source:
+  - "kigan.tmd"
+  - "kigan_piano.tmd"
 ---
 
 # 歸雁 (歸雁)
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kigan.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kigan.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供
 

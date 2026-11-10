@@ -1,22 +1,39 @@
 ---
 title: "蒙古襲來 — 《共益商社唱歌教科書》 巻二（教師用）"
 song_title: "蒙古襲來"
-description: "〈蒙古襲來〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：四百餘州の、武威をたのみ、 蒙古の大王、忽必烈、…"
+song_id: "kyoeki_shoka_kan_2_854863_7_moko_shurai"
+collection: "kyoeki_shoka"
+volume: "kan_2_854863"
+description: "〈蒙古襲來〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：四百餘州の、武威をたのみ、 蒙古の大王、忽必烈、…"
 keywords: "蒙古襲來, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻二》第十四～十五頁（第七曲）"
+  - "NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P013.jpg"
 musical_key: "G"
-image: "P013.jpg"
-audio: "moko_shurai.mp3"
+meter: "2/4"
+tempo: "132"
+image:
+  - file: "P013.jpg"
+audio:
+  - id: "moko_shurai"
+    label: "鋼琴伴奏版"
+    file: "moko_shurai.mp3"
+  - id: "moko_shurai_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "moko_shurai_neutrino.mp3"
+tmd_source:
+  - "moko_shurai.tmd"
+  - "moko_shurai_piano.tmd"
 ---
 
 # 蒙古襲來
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="moko_shurai_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="moko_shurai.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="moko_shurai_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第十四～十五頁（第七曲）
 - NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P013.jpg

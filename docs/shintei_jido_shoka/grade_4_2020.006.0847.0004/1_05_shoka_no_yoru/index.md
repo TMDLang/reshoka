@@ -1,22 +1,40 @@
 ---
 title: "初夏の夜 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "初夏の夜"
-description: "〈初夏の夜〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（曲：山本壽），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：畷（なはて）づたひに　吹（ふ）く風（かぜ）も 若葉（わかば）のにほひ　かんばしく…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_1_05_shoka_no_yoru"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈初夏の夜〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（曲：山本壽），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：畷（なはて）づたひに　吹（ふ）く風（かぜ）も 若葉（わかば）のにほひ　かんばしく…"
 keywords: "初夏の夜, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山本壽"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+credits:
+  - "曲：山本壽"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "B,"
-image: "P028.jpg"
-audio: "shoka_no_yoru.mp3"
+meter: "4/4"
+tempo: "76"
+image:
+  - file: "P028.jpg"
+audio:
+  - id: "shoka_no_yoru"
+    label: "鋼琴伴奏版"
+    file: "shoka_no_yoru.mp3"
+  - id: "shoka_no_yoru_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "shoka_no_yoru_neutrino.mp3"
+tmd_source:
+  - "shoka_no_yoru.tmd"
+  - "shoka_no_yoru_piano.tmd"
 ---
 
 # 初夏の夜
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="shoka_no_yoru_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="shoka_no_yoru.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="shoka_no_yoru_neutrino.mp3"></audio>
 
 - 曲：山本壽
 - 臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）

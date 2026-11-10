@@ -1,22 +1,41 @@
 ---
 title: "助船 — 《新定兒童唱歌》 尋常科 第五學年"
 song_title: "助船"
-description: "〈助船〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005））（佐々木信綱 作詞），調號拍號：B, 6/8。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　はげしき雨風　天地くらく 山なすあら波たけり狂ふ…"
+song_id: "shintei_jido_shoka_grade_5_2020.006.0847.0005_2_07_tasukebune"
+collection: "shintei_jido_shoka"
+volume: "grade_5_2020.006.0847.0005"
+description: "〈助船〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005））（佐々木信綱 作詞），調號拍號：B, 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　はげしき雨風　天地くらく 山なすあら波たけり狂ふ…"
 keywords: "助船, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 佐々木信綱 作詞"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（臺史博 2020.006.0847.0005）"
+credits:
+  - "佐々木信綱 作詞"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）"
+  - "英國風曲"
 musical_key: "B,"
-image: "P044.jpg"
-audio: "tasukebune.mp3"
+meter: "6/8"
+tempo: "60"
+image:
+  - file: "P044.jpg"
+audio:
+  - id: "tasukebune"
+    label: "鋼琴伴奏版"
+    file: "tasukebune.mp3"
+  - id: "tasukebune_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tasukebune_neutrino.mp3"
+tmd_source:
+  - "tasukebune.tmd"
+  - "tasukebune_piano.tmd"
 ---
 
 # 助船
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="tasukebune_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="tasukebune.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tasukebune_neutrino.mp3"></audio>
 
 - 佐々木信綱 作詞
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）

@@ -1,20 +1,37 @@
 ---
 title: "天然の美 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "天然の美"
-description: "〈天然の美〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：武島羽衣、曲：田中穗積），調號拍號：F 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 空ニ囀ヅル鳥ノ声、峰ヨリ落ツル瀧ノ音、 大波小波ドードート、響キ絶エセヌ海ノ音、…"
+song_id: "shokacho_vol_01_p131_tennen_no_bi"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈天然の美〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：武島羽衣、曲：田中穗積），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 空ニ囀ヅル鳥ノ声、峰ヨリ落ツル瀧ノ音、 大波小波ドードート、響キ絶エセヌ海ノ音、…"
 keywords: "天然の美, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 武島羽衣, 田中穗積"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+credits:
+  - "詞：武島羽衣"
+  - "曲：田中穗積"
+sources:
+  - "唱歌帳（2020.006.0843）P131.jpg（大正十三年五月十五日抄）"
 musical_key: "F"
-image: "P131.jpg"
-audio: "tennen_no_bi.mp3"
+meter: "3/4"
+tempo: "96"
+image:
+  - file: "P131.jpg"
+audio:
+  - id: "tennen_no_bi"
+    label: "鋼琴伴奏版"
+    file: "tennen_no_bi.mp3"
+tmd_source:
+  - "tennen_no_bi.tmd"
+  - "tennen_no_bi_piano.tmd"
 ---
 
 # 天然の美
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tennen_no_bi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tennen_no_bi.mp3"></audio>
 
 - 詞：武島羽衣
 - 曲：田中穗積

@@ -1,22 +1,40 @@
 ---
 title: "青い小鳥 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "青い小鳥"
-description: "〈青い小鳥〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（福田董 作詞 / 大和田愛羅 作曲），調號拍號：Bb 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：青い小鳥は　かはいい鳥よ 枝にとまつて　チッ　チッ　チッ…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_4_19_aoi_kotori"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈青い小鳥〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（福田董 作詞 / 大和田愛羅 作曲），調號拍號：Bb 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：青い小鳥は　かはいい鳥よ 枝にとまつて　チッ　チッ　チッ…"
 keywords: "青い小鳥, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 福田董 作詞 / 大和田愛羅 作曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "福田董 作詞 / 大和田愛羅 作曲"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "Bb"
-image: "P084.jpg"
-audio: "aoi_kotori.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P084.jpg"
+audio:
+  - id: "aoi_kotori"
+    label: "鋼琴伴奏版"
+    file: "aoi_kotori.mp3"
+  - id: "aoi_kotori_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "aoi_kotori_neutrino.mp3"
+tmd_source:
+  - "aoi_kotori.tmd"
+  - "aoi_kotori_piano.tmd"
 ---
 
 # 青い小鳥
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="aoi_kotori_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="aoi_kotori.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="aoi_kotori_neutrino.mp3"></audio>
 
 - 福田董 作詞 / 大和田愛羅 作曲
 - 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）

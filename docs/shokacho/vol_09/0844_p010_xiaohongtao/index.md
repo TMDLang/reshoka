@@ -1,20 +1,35 @@
 ---
 title: "小紅桃 — 《楊金土手抄唱歌帖》 第 9 冊（IX・支那曲）"
 song_title: "小紅桃"
-description: "〈小紅桃〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 9 冊・IX — 支那曲（2020.006.0844，P001–P014））（曲：伝統曲 (合調・昭2.7.13.抄)），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_09_0844_p010_xiaohongtao"
+collection: "shokacho"
+volume: "vol_09"
+description: "〈小紅桃〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 9 冊・IX — 支那曲（2020.006.0844，P001–P014））（曲：伝統曲 (合調・昭2.7.13.抄)），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "小紅桃, 楊金土手抄唱歌帖, 第 9 冊（IX・支那曲）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 伝統曲 (合調・昭2.7.13.抄)"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 9 冊・IX — 支那曲（2020.006.0844，P001–P014）"
+credits:
+  - "曲：伝統曲 (合調・昭2.7.13.抄)"
 musical_key: "D"
-image: "P010.jpg"
-audio: "xiaohongtao.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P010.jpg"
+  - file: "P011.jpg"
+audio:
+  - id: "xiaohongtao"
+    label: "鋼琴伴奏版"
+    file: "xiaohongtao.mp3"
+tmd_source:
+  - "xiaohongtao.tmd"
+  - "xiaohongtao_piano.tmd"
 ---
 
 # 小紅桃
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="xiaohongtao.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="xiaohongtao.mp3"></audio>
 
 - 曲：伝統曲 (合調・昭2.7.13.抄)
 

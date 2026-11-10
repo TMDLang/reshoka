@@ -1,20 +1,36 @@
 ---
 title: "誠の道 — 《新定兒童唱歌》 高等科 男子一二年"
 song_title: "誠の道"
-description: "〈誠の道〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（曲：歐洲曲），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：晴天白日 俯仰天地…"
+song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_4_01_makoto_no_michi"
+collection: "shintei_jido_shoka"
+volume: "koto_boys_2020.006.0848"
+description: "〈誠の道〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（曲：歐洲曲），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：晴天白日 俯仰天地…"
 keywords: "誠の道, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 歐洲曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
+credits:
+  - "曲：歐洲曲"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "C"
-image: "P070.jpg"
-audio: "makoto_no_michi.mp3"
+meter: "4/4"
+tempo: "84"
+image:
+  - file: "P070.jpg"
+audio:
+  - id: "makoto_no_michi"
+    label: "鋼琴伴奏版"
+    file: "makoto_no_michi.mp3"
+tmd_source:
+  - "makoto_no_michi.tmd"
+  - "makoto_no_michi_piano.tmd"
 ---
 
 # 誠の道
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="makoto_no_michi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="makoto_no_michi.mp3"></audio>
 
 - 曲：歐洲曲
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

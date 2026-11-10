@@ -1,22 +1,41 @@
 ---
 title: "ウシワカマル（牛若丸） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "ウシワカマル（牛若丸）"
-description: "〈ウシワカマル（牛若丸）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：キヤウノゴデウノハシノウヘ ダイノヲトコノベンケイハ…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_2_04_ushiwakamaru"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈ウシワカマル（牛若丸）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：キヤウノゴデウノハシノウヘ ダイノヲトコノベンケイハ…"
 keywords: "ウシワカマル（牛若丸）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：文部省"
+  - "曲：文部省"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "G"
-image: "P034.jpg"
-audio: "ushiwakamaru.mp3"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P034.jpg"
+audio:
+  - id: "ushiwakamaru"
+    label: "鋼琴伴奏版"
+    file: "ushiwakamaru.mp3"
+  - id: "ushiwakamaru_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ushiwakamaru_neutrino.mp3"
+tmd_source:
+  - "ushiwakamaru.tmd"
+  - "ushiwakamaru_piano.tmd"
 ---
 
 # ウシワカマル（牛若丸）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="ushiwakamaru_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="ushiwakamaru.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ushiwakamaru_neutrino.mp3"></audio>
 
 - 詞：文部省
 - 曲：文部省

@@ -1,22 +1,64 @@
 ---
 title: "臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊）"
 song_title: "臺灣周遊唱歌（完整版・全九〇節）"
-description: "〈臺灣周遊唱歌（完整版・全九〇節）〉收錄於日治時期臺灣《臺灣周遊唱歌》（明治四十三年初版／大正元年八版（國臺圖 0786 10））（作詞：宇井英、作曲：高橋二三四），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一（1） 國光（こくこう）四海（しかい）にかゞやきて…"
+song_id: "taiwan_shuyu_shoka_taiwan_shuyu_shoka_2_taiwan_shuyu_shoka_full"
+collection: "taiwan_shuyu_shoka"
+volume: "taiwan_shuyu_shoka"
+description: "〈臺灣周遊唱歌（完整版・全九〇節）〉收錄於日治時期臺灣《臺灣周遊唱歌》（明治四十三年初版／大正元年八版（國臺圖 0786 10））（作詞：宇井英、作曲：高橋二三四），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一（1） 國光（こくこう）四海（しかい）にかゞやきて…"
 keywords: "臺灣周遊唱歌（完整版・全九〇節）, 臺灣周遊唱歌, 明治四十三年／大正元年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 宇井英, 高橋二三四"
 schema_type: "MusicComposition"
 is_part_of: "《臺灣周遊唱歌》 明治四十三年初版／大正元年八版（國臺圖 0786 10）"
+credits:
+  - "作詞：宇井英"
+  - "作曲：高橋二三四"
+sources:
+  - "臺北新高堂書店《臺灣周遊唱歌》（明治四十三年二月廿日初版／大正元年十二月十八日八版，國臺圖 0786 10）"
 musical_key: "F"
-image: "P004.jpg"
-audio: "taiwan_shuyu_shoka_full.mp3"
+meter: "2/4"
+tempo: "120"
+image:
+  - file: "P004.jpg"
+  - file: "P005.jpg"
+  - file: "P006.jpg"
+  - file: "P007.jpg"
+  - file: "P008.jpg"
+  - file: "P009.jpg"
+  - file: "P010.jpg"
+  - file: "P011.jpg"
+  - file: "P012.jpg"
+  - file: "P013.jpg"
+  - file: "P014.jpg"
+  - file: "P015.jpg"
+  - file: "P016.jpg"
+  - file: "P017.jpg"
+  - file: "P018.jpg"
+  - file: "P019.jpg"
+  - file: "P020.jpg"
+  - file: "P021.jpg"
+  - file: "P022.jpg"
+  - file: "P023.jpg"
+  - file: "P024.jpg"
+  - file: "P025.jpg"
+  - file: "P026.jpg"
+  - file: "P027.jpg"
+audio:
+  - id: "taiwan_shuyu_shoka_full"
+    label: "鋼琴伴奏版"
+    file: "taiwan_shuyu_shoka_full.mp3"
+  - id: "taiwan_shuyu_shoka_full_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taiwan_shuyu_shoka_full_neutrino.mp3"
+tmd_source:
+  - "taiwan_shuyu_shoka_full.tmd"
+  - "taiwan_shuyu_shoka_full_piano.tmd"
 ---
 
 # 臺灣周遊唱歌（完整版・全九〇節）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="taiwan_shuyu_shoka_full_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="taiwan_shuyu_shoka_full.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taiwan_shuyu_shoka_full_neutrino.mp3"></audio>
 
 - 作詞：宇井英
 - 作曲：高橋二三四

@@ -1,20 +1,37 @@
 ---
 title: "霧 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "霧"
-description: "〈霧〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（曲：山本壽），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：しら〲と朝霧、野山をこめて 月のごと日輪（にちりん）、ほのかに浮ぶ…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_2_08_kiri"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈霧〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（曲：山本壽），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：しら〲と朝霧、野山をこめて 月のごと日輪（にちりん）、ほのかに浮ぶ…"
 keywords: "霧, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山本壽"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+credits:
+  - "曲：山本壽"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "G"
-image: "P046.jpg"
-audio: "kiri.mp3"
+meter: "4/4"
+tempo: "76"
+image:
+  - file: "P046.jpg"
+  - file: "P047.jpg"
+audio:
+  - id: "kiri"
+    label: "鋼琴伴奏版"
+    file: "kiri.mp3"
+tmd_source:
+  - "kiri.tmd"
+  - "kiri_piano.tmd"
 ---
 
 # 霧
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kiri.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kiri.mp3"></audio>
 
 - 曲：山本壽
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）

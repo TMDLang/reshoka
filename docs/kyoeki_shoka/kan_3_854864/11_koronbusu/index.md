@@ -1,22 +1,39 @@
 ---
 title: "コロンブス — 《共益商社唱歌教科書》 巻三（教師用）"
 song_title: "コロンブス"
-description: "〈コロンブス〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大西洋の、かなたには、 陸ありとしも、知らぬ世に、…"
+song_id: "kyoeki_shoka_kan_3_854864_11_koronbusu"
+collection: "kyoeki_shoka"
+volume: "kan_3_854864"
+description: "〈コロンブス〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大西洋の、かなたには、 陸ありとしも、知らぬ世に、…"
 keywords: "コロンブス, 共益商社唱歌教科書, 巻三（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻三・教師用（NDL PID 854864）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻三》第二十四～二十五頁（第二學期第六曲）"
+  - "NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P018.jpg"
 musical_key: "C"
-image: "P018.jpg"
-audio: "koronbusu.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P018.jpg"
+audio:
+  - id: "koronbusu"
+    label: "鋼琴伴奏版"
+    file: "koronbusu.mp3"
+  - id: "koronbusu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "koronbusu_neutrino.mp3"
+tmd_source:
+  - "koronbusu.tmd"
+  - "koronbusu_piano.tmd"
 ---
 
 # コロンブス
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="koronbusu_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="koronbusu.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="koronbusu_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第二十四～二十五頁（第二學期第六曲）
 - NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P018.jpg

@@ -1,22 +1,39 @@
 ---
 title: "田植 — 《共益商社唱歌教科書》 巻二（教師用）"
 song_title: "田植"
-description: "〈田植〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：もろ聲に、いざ賑しく、 歌ひて植ゑよや、門田の早苗、…"
+song_id: "kyoeki_shoka_kan_2_854863_4_taue"
+collection: "kyoeki_shoka"
+volume: "kan_2_854863"
+description: "〈田植〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：もろ聲に、いざ賑しく、 歌ひて植ゑよや、門田の早苗、…"
 keywords: "田植, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻二》第八～九頁（第四曲）"
+  - "NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P010.jpg"
 musical_key: "G"
-image: "P010.jpg"
-audio: "taue.mp3"
+meter: "4/4"
+tempo: "112"
+image:
+  - file: "P010.jpg"
+audio:
+  - id: "taue"
+    label: "鋼琴伴奏版"
+    file: "taue.mp3"
+  - id: "taue_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taue_neutrino.mp3"
+tmd_source:
+  - "taue.tmd"
+  - "taue_piano.tmd"
 ---
 
 # 田植
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="taue_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="taue.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taue_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第八～九頁（第四曲）
 - NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P010.jpg

@@ -1,22 +1,40 @@
 ---
 title: "スヰギウ（水牛） — 《公學校唱歌》 第二學年用"
 song_title: "スヰギウ（水牛）"
-description: "〈スヰギウ（水牛）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第二學年用（國臺圖 523.37 4322-4）），調號拍號：Eb 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オフロ ノ スキナ スヰギウ ハ、 ノハラ ノ オフロ デ イイ キモチ。…"
+song_id: "kogakko_shoka_grade_2_6_suigyu"
+collection: "kogakko_shoka"
+volume: "grade_2"
+description: "〈スヰギウ（水牛）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第二學年用（國臺圖 523.37 4322-4）），調號拍號：Eb 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オフロ ノ スキナ スヰギウ ハ、 ノハラ ノ オフロ デ イイ キモチ。…"
 keywords: "スヰギウ（水牛）, 公學校唱歌, 第二學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第二學年用（國臺圖 523.37 4322-4）"
+sources:
+  - "日治時期公學校唱歌（第二學年・第六課）"
+  - "國立臺灣圖書館典藏"
 musical_key: "Eb"
-image: "P014.jpg"
-audio: "suigyu.mp3"
+meter: "2/4"
+tempo: "88"
+image:
+  - file: "P014.jpg"
+  - file: "P015.jpg"
+audio:
+  - id: "suigyu"
+    label: "鋼琴伴奏版"
+    file: "suigyu.mp3"
+  - id: "suigyu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "suigyu_neutrino.mp3"
+tmd_source:
+  - "suigyu.tmd"
+  - "suigyu_piano.tmd"
 ---
 
 # スヰギウ（水牛）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="suigyu_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="suigyu.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="suigyu_neutrino.mp3"></audio>
 
 - 日治時期公學校唱歌（第二學年・第六課）
 - 國立臺灣圖書館典藏

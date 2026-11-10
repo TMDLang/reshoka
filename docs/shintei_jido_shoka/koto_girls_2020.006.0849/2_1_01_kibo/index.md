@@ -1,20 +1,35 @@
 ---
 title: "希望 — 《新定兒童唱歌》 高等科 女子一二年"
 song_title: "希望"
-description: "〈希望〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：鐘の音さやかに空をわたり 照る月うるはしく…"
+song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_1_01_kibo"
+collection: "shintei_jido_shoka"
+volume: "koto_girls_2020.006.0849"
+description: "〈希望〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：鐘の音さやかに空をわたり 照る月うるはしく…"
 keywords: "希望, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
+sources:
+  - "出處：實科女學唱歌"
+  - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
 musical_key: "G"
-image: "P078.jpg"
-audio: "kibo.mp3"
+meter: "2/4"
+tempo: "96"
+image:
+  - file: "P078.jpg"
+audio:
+  - id: "kibo"
+    label: "鋼琴伴奏版"
+    file: "kibo.mp3"
+tmd_source:
+  - "kibo.tmd"
+  - "kibo_piano.tmd"
 ---
 
 # 希望
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kibo.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kibo.mp3"></audio>
 
 - 出處：實科女學唱歌
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

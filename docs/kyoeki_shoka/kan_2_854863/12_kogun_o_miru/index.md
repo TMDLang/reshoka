@@ -1,22 +1,40 @@
 ---
 title: "行軍を觀る — 《共益商社唱歌教科書》 巻二（教師用）"
 song_title: "行軍を觀る"
-description: "〈行軍を觀る〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれ聞け聞ゆる、喇叭の音、 トテトテトテトテ、テッテテテ、テトテトテ、…"
+song_id: "kyoeki_shoka_kan_2_854863_12_kogun_o_miru"
+collection: "kyoeki_shoka"
+volume: "kan_2_854863"
+description: "〈行軍を觀る〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれ聞け聞ゆる、喇叭の音、 トテトテトテトテ、テッテテテ、テトテトテ、…"
 keywords: "行軍を觀る, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻二》第二十四～二十七頁（第十二曲）"
+  - "NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P018.jpg、P019.jpg"
 musical_key: "G"
-image: "P018.jpg"
-audio: "kogun_o_miru.mp3"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P018.jpg"
+  - file: "P019.jpg"
+audio:
+  - id: "kogun_o_miru"
+    label: "鋼琴伴奏版"
+    file: "kogun_o_miru.mp3"
+  - id: "kogun_o_miru_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kogun_o_miru_neutrino.mp3"
+tmd_source:
+  - "kogun_o_miru.tmd"
+  - "kogun_o_miru_piano.tmd"
 ---
 
 # 行軍を觀る
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kogun_o_miru_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kogun_o_miru.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kogun_o_miru_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第二十四～二十七頁（第十二曲）
 - NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P018.jpg、P019.jpg

@@ -1,20 +1,35 @@
 ---
 title: "明治天皇御製 — 《新定兒童唱歌》 尋常科 第六學年"
 song_title: "明治天皇御製"
-description: "〈明治天皇御製〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：物學（ものまな）ぶ道（みち）に立つ子よ おこたりにまされる仇（あた）は…"
+song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_2_10_meiji_tenno_gyosei"
+collection: "shintei_jido_shoka"
+volume: "grade_6_2020.006.0847.0006"
+description: "〈明治天皇御製〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：物學（ものまな）ぶ道（みち）に立つ子よ おこたりにまされる仇（あた）は…"
 keywords: "明治天皇御製, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
+sources:
+  - "文部省"
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
 musical_key: "G"
-image: "P050.jpg"
-audio: "meiji_tenno_gyosei.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P050.jpg"
+audio:
+  - id: "meiji_tenno_gyosei"
+    label: "鋼琴伴奏版"
+    file: "meiji_tenno_gyosei.mp3"
+tmd_source:
+  - "meiji_tenno_gyosei.tmd"
+  - "meiji_tenno_gyosei_piano.tmd"
 ---
 
 # 明治天皇御製
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="meiji_tenno_gyosei.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="meiji_tenno_gyosei.mp3"></audio>
 
 - 文部省
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）

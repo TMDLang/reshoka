@@ -1,22 +1,39 @@
 ---
 title: "運動會 — 《共益商社唱歌教科書》 巻一（生徒用）"
 song_title: "運動會"
-description: "〈運動會〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：G 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：うれしき、たのしき、運動會の、 こゝろは、とびたつ、そらの球、…"
+song_id: "kyoeki_shoka_kan_1_854862_11_undokai"
+collection: "kyoeki_shoka"
+volume: "kan_1_854862"
+description: "〈運動會〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：うれしき、たのしき、運動會の、 こゝろは、とびたつ、そらの球、…"
 keywords: "運動會, 共益商社唱歌教科書, 巻一（生徒用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻一・生徒用（NDL PID 854862）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第二十二～二十三頁（第十一曲）"
+  - "NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P013.jpg"
 musical_key: "G"
-image: "P013.jpg"
-audio: "undokai.mp3"
+meter: "2/4"
+tempo: "120"
+image:
+  - file: "P013.jpg"
+audio:
+  - id: "undokai"
+    label: "鋼琴伴奏版"
+    file: "undokai.mp3"
+  - id: "undokai_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "undokai_neutrino.mp3"
+tmd_source:
+  - "undokai.tmd"
+  - "undokai_piano.tmd"
 ---
 
 # 運動會
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="undokai_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="undokai.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="undokai_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第二十二～二十三頁（第十一曲）
 - NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P013.jpg

@@ -1,22 +1,41 @@
 ---
 title: "こんこん小雉子 — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "こんこん小雉子"
-description: "〈こんこん小雉子〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：福田正夫、曲：杉江秀），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：こんこん小やぶに　卵が三つ ひよつこりかへつた　小鳥が三羽…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_4_03_konkon_kokiji"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈こんこん小雉子〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：福田正夫、曲：杉江秀），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：こんこん小やぶに　卵が三つ ひよつこりかへつた　小鳥が三羽…"
 keywords: "こんこん小雉子, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 福田正夫, 杉江秀"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "詞：福田正夫"
+  - "曲：杉江秀"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "D"
-image: "P061.jpg"
-audio: "konkon_kokiji.mp3"
+meter: "4/4"
+tempo: "100"
+image:
+  - file: "P061.jpg"
+audio:
+  - id: "konkon_kokiji"
+    label: "鋼琴伴奏版"
+    file: "konkon_kokiji.mp3"
+  - id: "konkon_kokiji_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "konkon_kokiji_neutrino.mp3"
+tmd_source:
+  - "konkon_kokiji.tmd"
+  - "konkon_kokiji_piano.tmd"
 ---
 
 # こんこん小雉子
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="konkon_kokiji_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="konkon_kokiji.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="konkon_kokiji_neutrino.mp3"></audio>
 
 - 詞：福田正夫
 - 曲：杉江秀

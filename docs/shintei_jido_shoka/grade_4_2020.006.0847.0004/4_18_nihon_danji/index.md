@@ -1,22 +1,40 @@
 ---
 title: "日本男兒 — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "日本男兒"
-description: "〈日本男兒〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（曲：小山作之助／詞：東宮鐵眞呂），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：我が君（きみ）の爲（ため）には 身（み）をも捨（す）てゝ勉（つと）め…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_4_18_nihon_danji"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈日本男兒〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（曲：小山作之助／詞：東宮鐵眞呂），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：我が君（きみ）の爲（ため）には 身（み）をも捨（す）てゝ勉（つと）め…"
 keywords: "日本男兒, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小山作之助／詞：東宮鐵眞呂"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+credits:
+  - "曲：小山作之助／詞：東宮鐵眞呂"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "F"
-image: "P077.jpg"
-audio: "nihon_danji.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P077.jpg"
+audio:
+  - id: "nihon_danji"
+    label: "鋼琴伴奏版"
+    file: "nihon_danji.mp3"
+  - id: "nihon_danji_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nihon_danji_neutrino.mp3"
+tmd_source:
+  - "nihon_danji.tmd"
+  - "nihon_danji_piano.tmd"
 ---
 
 # 日本男兒
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_danji_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nihon_danji.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_danji_neutrino.mp3"></audio>
 
 - 曲：小山作之助／詞：東宮鐵眞呂
 - 臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）

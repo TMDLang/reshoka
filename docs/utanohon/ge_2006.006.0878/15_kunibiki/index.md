@@ -1,22 +1,40 @@
 ---
 title: "國引き（國引） — 《うたのほん》（唱歌課本） 下卷（初等科第二學年）"
 song_title: "國引き（國引）"
-description: "〈國引き（國引）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）），調號拍號：C 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　國　來い、 國　來い、…"
+song_id: "utanohon_ge_2006.006.0878_15_kunibiki"
+collection: "utanohon"
+volume: "ge_2006.006.0878"
+description: "〈國引き（國引）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　國　來い、 國　來い、…"
 keywords: "國引き（國引）, うたのほん》（唱歌課本）, 下卷（初等科第二學年）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《うたのほん》（唱歌課本） 下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）"
+sources:
+  - "日治時期國民學校唱歌（うたのほん 下・第十五課）"
+  - "國立臺灣歷史博物館典藏"
 musical_key: "C"
-image: "P041.jpg"
-audio: "kunibiki.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P041.jpg"
+  - file: "P042.jpg"
+audio:
+  - id: "kunibiki"
+    label: "鋼琴伴奏版"
+    file: "kunibiki.mp3"
+  - id: "kunibiki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kunibiki_neutrino.mp3"
+tmd_source:
+  - "kunibiki.tmd"
+  - "kunibiki_piano.tmd"
 ---
 
 # 國引き（國引）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kunibiki_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kunibiki.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kunibiki_neutrino.mp3"></audio>
 
 - 日治時期國民學校唱歌（うたのほん 下・第十五課）
 - 國立臺灣歷史博物館典藏

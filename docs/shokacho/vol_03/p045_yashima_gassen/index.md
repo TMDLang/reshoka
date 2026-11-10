@@ -1,20 +1,32 @@
 ---
 title: "屋島合戰 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "屋島合戰"
-description: "〈屋島合戰〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：title = 屋島合戰 ?= F…"
+song_id: "shokacho_vol_03_p045_yashima_gassen"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈屋島合戰〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：title = 屋島合戰 ?= F…"
 keywords: "屋島合戰, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
 musical_key: "F"
-image: "P045.jpg"
-audio: "yashima_gassen.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P045.jpg"
+audio:
+  - id: "yashima_gassen"
+    label: "鋼琴伴奏版"
+    file: "yashima_gassen.mp3"
+tmd_source:
+  - "yashima_gassen.tmd"
+  - "yashima_gassen_piano.tmd"
 ---
 
 # 屋島合戰
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="yashima_gassen.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="yashima_gassen.mp3"></audio>
 
 - 詞曲作者：未在 TMD metadata 中提供
 

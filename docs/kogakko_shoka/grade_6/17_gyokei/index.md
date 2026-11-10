@@ -1,22 +1,41 @@
 ---
 title: "曉景 — 《公學校唱歌》 第六學年用"
 song_title: "曉景"
-description: "〈曉景〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：E, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：東の空ほゝゑみて さゞめき出づる、朝あらし。…"
+song_id: "kogakko_shoka_grade_6_17_gyokei"
+collection: "kogakko_shoka"
+volume: "grade_6"
+description: "〈曉景〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：東の空ほゝゑみて さゞめき出づる、朝あらし。…"
 keywords: "曉景, 公學校唱歌, 第六學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+sources:
+  - "臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）"
 musical_key: "E,"
-image: "P056.jpg"
-audio: "gyokei.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P056.jpg"
+  - file: "P057.jpg"
+  - file: "P058.jpg"
+  - file: "P059.jpg"
+audio:
+  - id: "gyokei"
+    label: "鋼琴伴奏版"
+    file: "gyokei.mp3"
+  - id: "gyokei_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "gyokei_neutrino.mp3"
+tmd_source:
+  - "gyokei.tmd"
+  - "gyokei_piano.tmd"
 ---
 
 # 曉景
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="gyokei_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="gyokei.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="gyokei_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校唱歌》第六學年用（昭和十五年，索書號 523.37 4322-4）
 

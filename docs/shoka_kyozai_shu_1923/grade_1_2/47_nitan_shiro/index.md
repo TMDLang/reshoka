@@ -1,22 +1,41 @@
 ---
 title: "仁田四郎 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
 song_title: "仁田四郎"
-description: "〈仁田四郎〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：手負の猪牙くひそらし 地を蹴り木を折り草靡かせて…"
+song_id: "shoka_kyozai_shu_1923_grade_1_2_47_nitan_shiro"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_1_2"
+description: "〈仁田四郎〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：手負の猪牙くひそらし 地を蹴り木を折り草靡かせて…"
 keywords: "仁田四郎, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
+sources:
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "尋常科第一、二學年用（第 94–95 頁）"
+  - "文部省"
 musical_key: "D"
-image: "P102.jpg"
-audio: "nitan_shiro.mp3"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P102.jpg"
+  - file: "P103.jpg"
+audio:
+  - id: "nitan_shiro"
+    label: "鋼琴伴奏版"
+    file: "nitan_shiro.mp3"
+  - id: "nitan_shiro_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nitan_shiro_neutrino.mp3"
+tmd_source:
+  - "nitan_shiro.tmd"
+  - "nitan_shiro_piano.tmd"
 ---
 
 # 仁田四郎
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nitan_shiro_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nitan_shiro.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nitan_shiro_neutrino.mp3"></audio>
 
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
 - 尋常科第一、二學年用（第 94–95 頁）

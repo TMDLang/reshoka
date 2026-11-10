@@ -1,22 +1,40 @@
 ---
 title: "富士山 — 《公學校唱歌集》 大正四年（全一冊）"
 song_title: "富士山"
-description: "〈富士山〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：D 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、あたまを雲（くも）の上（うへ）に出（だ）し、 四方（しはう）の山（やま）を見（み）おろして、…"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_5_02_fujisan"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈富士山〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、あたまを雲（くも）の上（うへ）に出（だ）し、 四方（しはう）の山（やま）を見（み）おろして、…"
 keywords: "富士山, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+sources:
+  - "文部省《尋常小學唱歌》"
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
 musical_key: "D"
-image: "P072.jpg"
-audio: "fujisan.mp3"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P072.jpg"
+  - file: "P073.jpg"
+audio:
+  - id: "fujisan"
+    label: "鋼琴伴奏版"
+    file: "fujisan.mp3"
+  - id: "fujisan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "fujisan_neutrino.mp3"
+tmd_source:
+  - "fujisan.tmd"
+  - "fujisan_piano.tmd"
 ---
 
 # 富士山
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="fujisan_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="fujisan.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="fujisan_neutrino.mp3"></audio>
 
 - 文部省《尋常小學唱歌》
 - 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）

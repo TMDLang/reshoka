@@ -1,22 +1,39 @@
 ---
 title: "とりいれの歌 — 《公學校唱歌》 第四學年用"
 song_title: "とりいれの歌"
-description: "〈とりいれの歌〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第四學年用（國臺圖 0729 73）），調號拍號：G 3/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：今日はとりいれ、よい日和（ひより）、 見わたすかぎり田もくろも、…"
+song_id: "kogakko_shoka_grade_4_14_toriire_no_uta"
+collection: "kogakko_shoka"
+volume: "grade_4"
+description: "〈とりいれの歌〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第四學年用（國臺圖 0729 73）），調號拍號：G 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：今日はとりいれ、よい日和（ひより）、 見わたすかぎり田もくろも、…"
 keywords: "とりいれの歌, 公學校唱歌, 第四學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第四學年用（國臺圖 0729 73）"
+sources:
+  - "臺灣總督府《公學校唱歌》第四學年用（昭和十一年，索書號 0729 73）"
 musical_key: "G"
-image: "P043.jpg"
-audio: "toriire_no_uta.mp3"
+meter: "3/4"
+tempo: "112"
+image:
+  - file: "P043.jpg"
+  - file: "P044.jpg"
+audio:
+  - id: "toriire_no_uta"
+    label: "鋼琴伴奏版"
+    file: "toriire_no_uta.mp3"
+  - id: "toriire_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "toriire_no_uta_neutrino.mp3"
+tmd_source:
+  - "toriire_no_uta.tmd"
+  - "toriire_no_uta_piano.tmd"
 ---
 
 # とりいれの歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="toriire_no_uta_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="toriire_no_uta.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="toriire_no_uta_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校唱歌》第四學年用（昭和十一年，索書號 0729 73）
 

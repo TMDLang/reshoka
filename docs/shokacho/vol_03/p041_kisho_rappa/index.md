@@ -1,20 +1,34 @@
 ---
 title: "起床喇叭・點呼喇叭・消燈喇叭 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
 song_title: "起床喇叭・點呼喇叭・消燈喇叭"
-description: "〈起床喇叭・點呼喇叭・消燈喇叭〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 起床喇叭（Reveille） 2. 點呼喇叭（Roll Call）…"
+song_id: "shokacho_vol_03_p041_kisho_rappa"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈起床喇叭・點呼喇叭・消燈喇叭〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 起床喇叭（Reveille） 2. 點呼喇叭（Roll Call）…"
 keywords: "起床喇叭・點呼喇叭・消燈喇叭, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+sources:
+  - "出處：《唱歌帖》（2020.006.0843）P041.jpg (bottom)（7. 貼附喇叭譜）"
 musical_key: "C"
-image: "P041.jpg"
-audio: "kisho_rappa.mp3"
+meter: "2/4"
+tempo: "112"
+image:
+  - file: "P041.jpg"
+audio:
+  - id: "kisho_rappa"
+    label: "鋼琴伴奏版"
+    file: "kisho_rappa.mp3"
+tmd_source:
+  - "kisho_rappa.tmd"
+  - "kisho_rappa_piano.tmd"
 ---
 
 # 起床喇叭・點呼喇叭・消燈喇叭
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="kisho_rappa.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kisho_rappa.mp3"></audio>
 
 - 出處：《唱歌帖》（2020.006.0843）P041.jpg (bottom)（7. 貼附喇叭譜）
 

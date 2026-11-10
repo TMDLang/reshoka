@@ -1,22 +1,42 @@
 ---
 title: "ヒノマル ノ ハタ（日之丸旗） — 《公學校唱歌》 第一學年用"
 song_title: "ヒノマル ノ ハタ（日之丸旗）"
-description: "〈ヒノマル ノ ハタ（日之丸旗）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第一學年用（國臺圖 0729 73））（詞：文部省《尋常小學唱歌》、曲：文部省《尋常小學唱歌》），調號拍號：F 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　シロヂ ニ アカク ヒ ノ マル ソメテ、…"
+song_id: "kogakko_shoka_grade_1_1_hinomaru_no_hata"
+collection: "kogakko_shoka"
+volume: "grade_1"
+description: "〈ヒノマル ノ ハタ（日之丸旗）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第一學年用（國臺圖 0729 73））（詞：文部省《尋常小學唱歌》、曲：文部省《尋常小學唱歌》），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　シロヂ ニ アカク ヒ ノ マル ソメテ、…"
 keywords: "ヒノマル ノ ハタ（日之丸旗）, 公學校唱歌, 第一學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 文部省《尋常小學唱歌》"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第一學年用（國臺圖 0729 73）"
+credits:
+  - "詞：文部省《尋常小學唱歌》"
+  - "曲：文部省《尋常小學唱歌》"
+sources:
+  - "臺灣總督府《公學校唱歌》第一學年用（昭和九年三月第一版、昭和十一年二月第四版，索書號 0729 73）"
 musical_key: "F"
-image: "P006.jpg"
-audio: "hinomaru_no_hata.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P006.jpg"
+  - file: "P007.jpg"
+audio:
+  - id: "hinomaru_no_hata"
+    label: "鋼琴伴奏版"
+    file: "hinomaru_no_hata.mp3"
+  - id: "hinomaru_no_hata_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hinomaru_no_hata_neutrino.mp3"
+tmd_source:
+  - "hinomaru_no_hata.tmd"
+  - "hinomaru_no_hata_piano.tmd"
 ---
 
 # ヒノマル ノ ハタ（日之丸旗）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="hinomaru_no_hata_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="hinomaru_no_hata.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hinomaru_no_hata_neutrino.mp3"></audio>
 
 - 詞：文部省《尋常小學唱歌》
 - 曲：文部省《尋常小學唱歌》

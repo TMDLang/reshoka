@@ -1,22 +1,41 @@
 ---
 title: "かなりや — 《新定兒童唱歌》 尋常科 第四學年"
 song_title: "かなりや"
-description: "〈かなりや〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（曲：成田爲三／詞：西條八十），調號拍號：C 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：唄（うた）を忘（わす）れた金絲鳥（かなりや）は 後（うしろ）の山に棄（す）てましよか…"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_4_19_kanariya"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈かなりや〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004））（曲：成田爲三／詞：西條八十），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：唄（うた）を忘（わす）れた金絲鳥（かなりや）は 後（うしろ）の山に棄（す）てましよか…"
 keywords: "かなりや, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 成田爲三／詞：西條八十"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+credits:
+  - "曲：成田爲三／詞：西條八十"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
 musical_key: "C"
-image: "P078.jpg"
-audio: "kanariya.mp3"
+meter: "2/4"
+tempo: "80"
+image:
+  - file: "P078.jpg"
+  - file: "P079.jpg"
+audio:
+  - id: "kanariya"
+    label: "鋼琴伴奏版"
+    file: "kanariya.mp3"
+  - id: "kanariya_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kanariya_neutrino.mp3"
+tmd_source:
+  - "kanariya.tmd"
+  - "kanariya_piano.tmd"
 ---
 
 # かなりや
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="kanariya_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="kanariya.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kanariya_neutrino.mp3"></audio>
 
 - 曲：成田爲三／詞：西條八十
 - 臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）

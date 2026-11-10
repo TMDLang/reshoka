@@ -1,22 +1,42 @@
 ---
 title: "鯉のぼり — 《新定兒童唱歌》 尋常科 第三學年"
 song_title: "鯉のぼり"
-description: "〈鯉のぼり〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：葛原しげる、曲：小松耕輔），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：黒（くろ）い鯉（こひ）やら赤（あか）い鯉（こひ） 大（おほ）きな鯉（こひ）が　幾（いく）ひきも…"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_1_06_koinobori"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈鯉のぼり〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：葛原しげる、曲：小松耕輔），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：黒（くろ）い鯉（こひ）やら赤（あか）い鯉（こひ） 大（おほ）きな鯉（こひ）が　幾（いく）ひきも…"
 keywords: "鯉のぼり, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "詞：葛原しげる"
+  - "曲：小松耕輔"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "D"
-image: "P030.jpg"
-audio: "koinobori.mp3"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P030.jpg"
+  - file: "P031.jpg"
+audio:
+  - id: "koinobori"
+    label: "鋼琴伴奏版"
+    file: "koinobori.mp3"
+  - id: "koinobori_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "koinobori_neutrino.mp3"
+tmd_source:
+  - "koinobori.tmd"
+  - "koinobori_piano.tmd"
 ---
 
 # 鯉のぼり
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="koinobori_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="koinobori.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="koinobori_neutrino.mp3"></audio>
 
 - 詞：葛原しげる
 - 曲：小松耕輔

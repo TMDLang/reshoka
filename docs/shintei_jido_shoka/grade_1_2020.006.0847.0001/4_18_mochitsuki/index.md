@@ -1,22 +1,41 @@
 ---
 title: "モチツキ（搗麻糬） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "モチツキ（搗麻糬）"
-description: "〈モチツキ（搗麻糬）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：D 2/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ペツタンコ　ペツタンコ ウントツケヨ　ペツタンコ…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_4_18_mochitsuki"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈モチツキ（搗麻糬）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ペツタンコ　ペツタンコ ウントツケヨ　ペツタンコ…"
 keywords: "モチツキ（搗麻糬）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：葛原𦱳"
+  - "曲：小松耕輔"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "D"
-image: "P068.jpg"
-audio: "mochitsuki.mp3"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P068.jpg"
+audio:
+  - id: "mochitsuki"
+    label: "鋼琴伴奏版"
+    file: "mochitsuki.mp3"
+  - id: "mochitsuki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "mochitsuki_neutrino.mp3"
+tmd_source:
+  - "mochitsuki.tmd"
+  - "mochitsuki_piano.tmd"
 ---
 
 # モチツキ（搗麻糬）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="mochitsuki_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="mochitsuki.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="mochitsuki_neutrino.mp3"></audio>
 
 - 詞：葛原𦱳
 - 曲：小松耕輔

@@ -1,22 +1,40 @@
 ---
 title: "時は金 — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年"
 song_title: "時は金"
-description: "〈時は金〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shoka_kyozai_shu_1923_koto_1_2_09_toki_wa_kane"
+collection: "shoka_kyozai_shu_1923"
+volume: "koto_1_2"
+description: "〈時は金〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "時は金, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
 musical_key: "G"
-image: "P361.jpg"
-audio: "toki_wa_kane.mp3"
+meter: "4/4"
+tempo: "132"
+image:
+  - file: "P361.jpg"
+  - file: "P362.jpg"
+audio:
+  - id: "toki_wa_kane"
+    label: "鋼琴伴奏版"
+    file: "toki_wa_kane.mp3"
+  - id: "toki_wa_kane_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "toki_wa_kane_neutrino.mp3"
+tmd_source:
+  - "toki_wa_kane.tmd"
+  - "toki_wa_kane_piano.tmd"
 ---
 
 # 時は金
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="toki_wa_kane_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="toki_wa_kane.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="toki_wa_kane_neutrino.mp3"></audio>
 
 - book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）
 - 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）

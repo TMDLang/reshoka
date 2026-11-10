@@ -1,22 +1,41 @@
 ---
 title: "ニンギヤウ（人偶） — 《新定兒童唱歌》 尋常科 第一學年"
 song_title: "ニンギヤウ（人偶）"
-description: "〈ニンギヤウ（人偶）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワタシノニンギヤウハ ヨイニンギヤウ…"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_3_02_ningyo"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈ニンギヤウ（人偶）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：文部省、曲：文部省），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ワタシノニンギヤウハ ヨイニンギヤウ…"
 keywords: "ニンギヤウ（人偶）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：文部省"
+  - "曲：文部省"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
 musical_key: "F"
-image: "P041.jpg"
-audio: "ningyo.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P041.jpg"
+audio:
+  - id: "ningyo"
+    label: "鋼琴伴奏版"
+    file: "ningyo.mp3"
+  - id: "ningyo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ningyo_neutrino.mp3"
+tmd_source:
+  - "ningyo.tmd"
+  - "ningyo_piano.tmd"
 ---
 
 # ニンギヤウ（人偶）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="ningyo_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="ningyo.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ningyo_neutrino.mp3"></audio>
 
 - 詞：文部省
 - 曲：文部省

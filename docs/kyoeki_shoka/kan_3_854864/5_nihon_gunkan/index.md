@@ -1,22 +1,39 @@
 ---
 title: "日本軍艦 — 《共益商社唱歌教科書》 巻三（教師用）"
 song_title: "日本軍艦"
-description: "〈日本軍艦〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：G 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大なること、山の如き、 鋼鉄の、軍艦、…"
+song_id: "kyoeki_shoka_kan_3_854864_5_nihon_gunkan"
+collection: "kyoeki_shoka"
+volume: "kan_3_854864"
+description: "〈日本軍艦〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大なること、山の如き、 鋼鉄の、軍艦、…"
 keywords: "日本軍艦, 共益商社唱歌教科書, 巻三（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《共益商社唱歌教科書》 巻三・教師用（NDL PID 854864）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻三》第十～十一頁（第一學期第五曲）"
+  - "NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P011.jpg"
 musical_key: "G"
-image: "P011.jpg"
-audio: "nihon_gunkan.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P011.jpg"
+audio:
+  - id: "nihon_gunkan"
+    label: "鋼琴伴奏版"
+    file: "nihon_gunkan.mp3"
+  - id: "nihon_gunkan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nihon_gunkan_neutrino.mp3"
+tmd_source:
+  - "nihon_gunkan.tmd"
+  - "nihon_gunkan_piano.tmd"
 ---
 
 # 日本軍艦
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_gunkan_neutrino.mp3"></audio>
 - **鋼琴伴奏版**：<br><audio controls src="nihon_gunkan.mp3"></audio>
-
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_gunkan_neutrino.mp3"></audio>
 
 - 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第十～十一頁（第一學期第五曲）
 - NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P011.jpg

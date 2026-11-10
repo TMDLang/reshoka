@@ -3,7 +3,7 @@ site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
-# repo_url: https://github.com/tmdlang/reshoka
+repo_url: https://github.com/tmdlang/reshoka
 
 theme:
   name: material

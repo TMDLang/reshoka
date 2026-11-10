@@ -1,20 +1,35 @@
 ---
 title: "月 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
 song_title: "月"
-description: "〈月〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：C 2/2。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）ヤナギナミキノ　ドテノミチーーー スズカゼコカゼノ　ユフマグレーーー…"
+song_id: "shokacho_vol_01_p155_tsuki"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈月〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：C 2/2。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）ヤナギナミキノ　ドテノミチーーー スズカゼコカゼノ　ユフマグレーーー…"
 keywords: "月, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+sources:
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P155）"
+  - "原載《小公唱材集》第 311 頁（大正 13 年 12 月 23 日抄）"
 musical_key: "C"
-image: "P155.jpg"
-audio: "tsuki.mp3"
+meter: "2/2"
+tempo: "128"
+image:
+  - file: "P155.jpg"
+audio:
+  - id: "tsuki"
+    label: "鋼琴伴奏版"
+    file: "tsuki.mp3"
+tmd_source:
+  - "tsuki.tmd"
+  - "tsuki_piano.tmd"
 ---
 
 # 月
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tsuki.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tsuki.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P155）
 - 原載《小公唱材集》第 311 頁（大正 13 年 12 月 23 日抄）

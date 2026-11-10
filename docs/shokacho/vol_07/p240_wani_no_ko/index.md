@@ -1,20 +1,36 @@
 ---
 title: "ワニの子（小鱷魚） — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
 song_title: "ワニの子（小鱷魚）"
-description: "〈ワニの子（小鱷魚）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：真田梅村），調號拍號：A 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ドウブツ エンノ ハナサカリ ヒトリ ポーツチデ ワニノコハ サムイ コイシノ トコニネテ メヲトヂ タママ ウゴ…"
+song_id: "shokacho_vol_07_p240_wani_no_ko"
+collection: "shokacho"
+volume: "vol_07"
+description: "〈ワニの子（小鱷魚）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：真田梅村），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ドウブツ エンノ ハナサカリ ヒトリ ポーツチデ ワニノコハ サムイ コイシノ トコニネテ メヲトヂ タママ ウゴ…"
 keywords: "ワニの子（小鱷魚）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 真田梅村"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+credits:
+  - "詞：真田梅村"
+sources:
+  - "唱歌帖 P240 (三年 / 蓬萊唱集 47頁)"
 musical_key: "A"
-image: "P240.jpg"
-audio: "wani_no_ko.mp3"
+meter: "4/4"
+tempo: "92"
+image:
+  - file: "P240.jpg"
+audio:
+  - id: "wani_no_ko"
+    label: "鋼琴伴奏版"
+    file: "wani_no_ko.mp3"
+tmd_source:
+  - "wani_no_ko.tmd"
+  - "wani_no_ko_piano.tmd"
 ---
 
 # ワニの子（小鱷魚）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="wani_no_ko.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="wani_no_ko.mp3"></audio>
 
 - 詞：真田梅村
 - 唱歌帖 P240 (三年 / 蓬萊唱集 47頁)

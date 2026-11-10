@@ -1,20 +1,34 @@
 ---
 title: "トンボ — 《楊金土手抄唱歌帖》 第 2 冊（II）"
 song_title: "トンボ"
-description: "〈トンボ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：大正幼年唱歌 第六集），調號拍號：B, 4/4。提供雙手鋼琴伴奏 MP3 線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+song_id: "shokacho_vol_02_p070a_tonbo"
+collection: "shokacho"
+volume: "vol_02"
+description: "〈トンボ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：大正幼年唱歌 第六集），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "トンボ, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 大正幼年唱歌 第六集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
+credits:
+  - "曲：大正幼年唱歌 第六集"
 musical_key: "B,"
-image: "P070.jpg"
-audio: "tonbo.mp3"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P070.jpg"
+audio:
+  - id: "tonbo"
+    label: "鋼琴伴奏版"
+    file: "tonbo.mp3"
+tmd_source:
+  - "tonbo.tmd"
+  - "tonbo_piano.tmd"
 ---
 
 # トンボ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-<audio controls src="tonbo.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="tonbo.mp3"></audio>
 
 - 曲：大正幼年唱歌 第六集
 
