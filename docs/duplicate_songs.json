@@ -1,96 +1,86 @@
 {
   "total_corpus_songs": 1087,
-  "unique_song_count": 826,
-  "duplicate_group_count": 172,
-  "duplicate_occurrence_count": 433,
+  "unique_song_count": 825,
+  "duplicate_group_count": 173,
+  "duplicate_occurrence_count": 435,
+  "theme_categories": [
+    {
+      "id": "ritual_and_commemoration",
+      "label": "儀式與紀念",
+      "duplicate_group_count": 12
+    },
+    {
+      "id": "national_military",
+      "label": "國家、軍事與忠烈",
+      "duplicate_group_count": 10
+    },
+    {
+      "id": "taiwan_and_south_seas",
+      "label": "臺灣與南洋",
+      "duplicate_group_count": 9
+    },
+    {
+      "id": "history_and_legend",
+      "label": "歷史人物與傳說",
+      "duplicate_group_count": 12
+    },
+    {
+      "id": "school_and_collective_life",
+      "label": "學校生活與集體活動",
+      "duplicate_group_count": 6
+    },
+    {
+      "id": "nature_and_seasons",
+      "label": "自然、季節與風景",
+      "duplicate_group_count": 17
+    },
+    {
+      "id": "animals_and_plants",
+      "label": "動物與植物",
+      "duplicate_group_count": 25
+    },
+    {
+      "id": "daily_life_and_play",
+      "label": "日常生活與遊戲",
+      "duplicate_group_count": 24
+    },
+    {
+      "id": "arts_and_entertainment",
+      "label": "藝術與娛樂",
+      "duplicate_group_count": 6
+    },
+    {
+      "id": "other",
+      "label": "其他",
+      "duplicate_group_count": 52
+    }
+  ],
   "duplicate_groups": [
     {
-      "id": "urashimataro",
-      "title": "うらしまたらう／うらしま太郎／浦島太郎",
+      "id": "ahiru",
+      "title": "あひる／アヒル",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_2/12_urashimataro",
-          "md_file": "kogakko_shoka/grade_2/12_urashimataro/index.md",
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_07_ahiru",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_07_ahiru/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "あひる（鴨子）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/10_ahiru",
+          "md_file": "kogakko_shoka/grade_2/10_ahiru/index.md",
           "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "うらしまたらう（浦島太郎）"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "うらしま太郎"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/51_urashima_taro",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/51_urashima_taro/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "浦島太郎"
-        },
-        {
-          "rel_dir": "utanohon/ge_2006.006.0878/14_urashimataro",
-          "md_file": "utanohon/ge_2006.006.0878/14_urashimataro/index.md",
-          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
-          "raw_title": "うらしま太郎（浦島太郎）"
-        }
-      ]
-    },
-    {
-      "id": "undokai",
-      "title": "うんどうくわい／運動會",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_3/10_undokai",
-          "md_file": "kogakko_shoka/grade_3/10_undokai/index.md",
-          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-          "raw_title": "うんどうくわい（運動會）"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "運動會"
-        }
-      ]
-    },
-    {
-      "id": "okyakusama",
-      "title": "おきやくさま／お客様",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "おきやくさま（客人）"
-        },
-        {
-          "rel_dir": "shokacho/vol_01/p161_okyakusama",
-          "md_file": "shokacho/vol_01/p161_okyakusama/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-          "raw_title": "お客様"
-        }
-      ]
-    },
-    {
-      "id": "omatsuribi",
-      "title": "おまつり日／お祭日",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_3/8_omatsuribi",
-          "md_file": "kogakko_shoka/grade_3/8_omatsuribi/index.md",
-          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-          "raw_title": "おまつり日（祭典之日）"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "お祭日（祭典之日）"
+          "raw_title": "アヒル（家鴨）"
         }
       ]
     },
     {
       "id": "oningyosan",
       "title": "お人形さん",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/26_oningyosan",
@@ -107,8 +97,30 @@
       ]
     },
     {
+      "id": "okyakusama",
+      "title": "お客様／おきやくさま",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
+      "entries": [
+        {
+          "rel_dir": "shokacho/vol_01/p161_okyakusama",
+          "md_file": "shokacho/vol_01/p161_okyakusama/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
+          "raw_title": "お客様"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "おきやくさま（客人）"
+        }
+      ]
+    },
+    {
       "id": "otsukisan",
       "title": "お月さん",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/42_otsukisan",
@@ -125,26 +137,56 @@
       ]
     },
     {
-      "id": "kanariya",
-      "title": "かなりや／カナリヤ",
+      "id": "omatsuribi",
+      "title": "お祭日／おまつり日",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
-          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya",
-          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-          "raw_title": "かなりや"
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "お祭日（祭典之日）"
         },
         {
-          "rel_dir": "shokacho/vol_02/p106_kanariya",
-          "md_file": "shokacho/vol_02/p106_kanariya/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
-          "raw_title": "カナリヤ"
+          "rel_dir": "kogakko_shoka/grade_3/8_omatsuribi",
+          "md_file": "kogakko_shoka/grade_3/8_omatsuribi/index.md",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "おまつり日（祭典之日）"
+        }
+      ]
+    },
+    {
+      "id": "katatsumuri",
+      "title": "かたつむり／カタツムリ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/09_katatsumuri",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/09_katatsumuri/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "かたつむり"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "カタツムリ（蝸牛）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_1/6_katatsumuri",
+          "md_file": "kogakko_shoka/grade_1/6_katatsumuri/index.md",
+          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
+          "raw_title": "カタツムリ（蝸牛）"
         }
       ]
     },
     {
       "id": "kame",
       "title": "かめ／龜",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/1_02_kame",
@@ -161,49 +203,21 @@
       ]
     },
     {
-      "id": "kisha",
-      "title": "きしゃ／汽車",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_3/11_kisha",
-          "md_file": "kogakko_shoka/grade_3/11_kisha/index.md",
-          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-          "raw_title": "きしゃ（火車）"
-        },
-        {
-          "rel_dir": "kogakko_shokashu_1915/5_05_kisha",
-          "md_file": "kogakko_shokashu_1915/5_05_kisha/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "汽車"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_10_kisha",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_10_kisha/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "汽車（火車）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/08_kisha",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/08_kisha/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "汽車"
-        }
-      ]
-    },
-    {
       "id": "korezotaiwan",
       "title": "これぞ臺灣",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan",
-          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-          "raw_title": "これぞ臺灣"
-        },
         {
           "rel_dir": "taiwan_no_uta/4_korezo_taiwan",
           "md_file": "taiwan_no_uta/4_korezo_taiwan/index.md",
           "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
+          "raw_title": "これぞ臺灣"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan",
+          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_11_korezo_taiwan/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
           "raw_title": "これぞ臺灣"
         }
       ]
@@ -211,6 +225,8 @@
     {
       "id": "saaasobimasho",
       "title": "さあ遊びませう",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/2_07_saa_asobimasho",
@@ -227,44 +243,30 @@
       ]
     },
     {
-      "id": "shichimencho",
-      "title": "しちめんてう／七面鳥",
+      "id": "sarukani",
+      "title": "さるかに／サル・カニ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_2/13_shichimencho",
-          "md_file": "kogakko_shoka/grade_2/13_shichimencho/index.md",
-          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "しちめんてう（七面鳥）"
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/21_sarukani",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/21_sarukani/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "さるかに"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "七面鳥"
-        }
-      ]
-    },
-    {
-      "id": "sumiyaki",
-      "title": "すみやき／炭やき",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_3/14_sumiyaki",
-          "md_file": "kogakko_shoka/grade_3/14_sumiyaki/index.md",
-          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-          "raw_title": "すみやき（燒炭）"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_04_sumiyaki",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_04_sumiyaki/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "炭やき（燒炭）"
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_06_sarukani",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_06_sarukani/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "サル・カニ（猴子與螃蟹）"
         }
       ]
     },
     {
       "id": "sentaku",
       "title": "せんたく",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/2_03_sentaku",
@@ -283,17 +285,19 @@
     {
       "id": "tonbi",
       "title": "とんび",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi",
-          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-          "raw_title": "とんび"
-        },
         {
           "rel_dir": "shokacho/vol_02/p109_tonbi",
           "md_file": "shokacho/vol_02/p109_tonbi/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+          "raw_title": "とんび"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi",
+          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
           "raw_title": "とんび"
         }
       ]
@@ -301,60 +305,28 @@
     {
       "id": "donburiko",
       "title": "どんぶりこ",
+      "theme_category": "arts_and_entertainment",
+      "theme_category_label": "藝術與娛樂",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko",
-          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-          "raw_title": "どんぶりこ"
-        },
         {
           "rel_dir": "shokacho/vol_07/p243_donburiko",
           "md_file": "shokacho/vol_07/p243_donburiko/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）",
           "raw_title": "どんぶりこ（漂呀漂）"
-        }
-      ]
-    },
-    {
-      "id": "nagaioyasumi",
-      "title": "ながいお休／長いお休",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_3/5_nagaioyasumi",
-          "md_file": "kogakko_shoka/grade_3/5_nagaioyasumi/index.md",
-          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-          "raw_title": "ながいお休（長假）"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "長いお休"
-        }
-      ]
-    },
-    {
-      "id": "nasunoyoichi",
-      "title": "なすのよいち／那須與一",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_02_nasu_no_yoichi",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_02_nasu_no_yoichi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "なすのよいち（那須與一）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/49_nasu_no_yoichi",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/49_nasu_no_yoichi/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "那須與一"
+          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko",
+          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+          "raw_title": "どんぶりこ"
         }
       ]
     },
     {
       "id": "nawatobi",
       "title": "なはとび／繩飛び",
+      "theme_category": "school_and_collective_life",
+      "theme_category_label": "學校生活與集體活動",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/1_03_nawatobi",
@@ -373,17 +345,19 @@
     {
       "id": "nigimitama",
       "title": "にぎみたま",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_6/11_nigimitama",
-          "md_file": "kogakko_shoka/grade_6/11_nigimitama/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-          "raw_title": "にぎみたま"
-        },
         {
           "rel_dir": "kogakko_shokashu_1915/5_06_nigimitama",
           "md_file": "kogakko_shokashu_1915/5_06_nigimitama/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "にぎみたま"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/16_nigimitama",
+          "md_file": "shoka_kyozai_shu_1923/koto_1_2/16_nigimitama/index.md",
+          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "にぎみたま"
         },
         {
@@ -393,70 +367,38 @@
           "raw_title": "にぎみたま"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/16_nigimitama",
-          "md_file": "shoka_kyozai_shu_1923/koto_1_2/16_nigimitama/index.md",
-          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "rel_dir": "kogakko_shoka/grade_6/11_nigimitama",
+          "md_file": "kogakko_shoka/grade_6/11_nigimitama/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
           "raw_title": "にぎみたま"
-        }
-      ]
-    },
-    {
-      "id": "niguruma",
-      "title": "にぐるま／荷車",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "にぐるま（人力車／運貨車）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/12_niguruma",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/12_niguruma/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "荷車"
         }
       ]
     },
     {
       "id": "niji",
       "title": "にじ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_3/9_niji",
-          "md_file": "kogakko_shoka/grade_3/9_niji/index.md",
-          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-          "raw_title": "にじ（彩虹）"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_11_niji",
           "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_11_niji/index.md",
           "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
           "raw_title": "にじ（彩虹）"
-        }
-      ]
-    },
-    {
-      "id": "harugakita",
-      "title": "はる が きた／春が來た",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_2/15_haru_ga_kita",
-          "md_file": "kogakko_shoka/grade_2/15_haru_ga_kita/index.md",
-          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "はる が きた（春が來た）"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_08_haru_ga_kita",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_08_haru_ga_kita/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "春が來た"
+          "rel_dir": "kogakko_shoka/grade_3/9_niji",
+          "md_file": "kogakko_shoka/grade_3/9_niji/index.md",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "にじ（彩虹）"
         }
       ]
     },
     {
       "id": "misoranokagami",
       "title": "みそらの鏡",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/47_misora_no_kagami",
@@ -473,110 +415,30 @@
       ]
     },
     {
-      "id": "asagao",
-      "title": "アサガホ／朝顔",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "アサガホ（牽牛花）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/24_asagao",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/24_asagao/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "朝顔"
-        }
-      ]
-    },
-    {
-      "id": "ahiru",
-      "title": "アヒル／あひる",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_2/10_ahiru",
-          "md_file": "kogakko_shoka/grade_2/10_ahiru/index.md",
-          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "アヒル（家鴨）"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_07_ahiru",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_07_ahiru/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "あひる（鴨子）"
-        }
-      ]
-    },
-    {
-      "id": "inu",
-      "title": "イヌ／犬",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_1/14_inu",
-          "md_file": "kogakko_shoka/grade_1/14_inu/index.md",
-          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "イヌ（小狗）"
-        },
-        {
-          "rel_dir": "kogakko_shokashu_1915/1_04_inu",
-          "md_file": "kogakko_shokashu_1915/1_04_inu/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "犬"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_04_inu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_04_inu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "イヌ（小狗）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/10_inu",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/10_inu/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "犬"
-        }
-      ]
-    },
-    {
-      "id": "usagitokame",
-      "title": "ウサギトカメ／兎と龜",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_01_usagi_to_kame",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_01_usagi_to_kame/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "ウサギトカメ（兔子與烏龜）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/34_usagi_to_kame",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/34_usagi_to_kame/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "兎と龜"
-        }
-      ]
-    },
-    {
       "id": "osaru",
       "title": "オサル",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "オサル（猴子）"
-        },
         {
           "rel_dir": "shokacho/vol_02/p069_osaru",
           "md_file": "shokacho/vol_02/p069_osaru/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
           "raw_title": "オサル"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_21_osaru/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "オサル（猴子）"
         }
       ]
     },
     {
       "id": "kaaren",
       "title": "カアレン／かあれん",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "kogakko_shoka/grade_1/11_karen",
@@ -593,109 +455,61 @@
       ]
     },
     {
-      "id": "kakashi",
-      "title": "カカシ／かかし／案山子",
+      "id": "kanariya",
+      "title": "カナリヤ／かなりや",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_2/9_kakashi",
-          "md_file": "kogakko_shoka/grade_2/9_kakashi/index.md",
-          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "カカシ（案山子）"
+          "rel_dir": "shokacho/vol_02/p106_kanariya",
+          "md_file": "shokacho/vol_02/p106_kanariya/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+          "raw_title": "カナリヤ"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_06_kakashi",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_06_kakashi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "かかし（稻草人）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/46_kakashi",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/46_kakashi/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "案山子"
-        }
-      ]
-    },
-    {
-      "id": "katatsumuri",
-      "title": "カタツムリ／かたつむり",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_1/6_katatsumuri",
-          "md_file": "kogakko_shoka/grade_1/6_katatsumuri/index.md",
-          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "カタツムリ（蝸牛）"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_06_katatsumuri/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "カタツムリ（蝸牛）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/09_katatsumuri",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/09_katatsumuri/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "かたつむり"
+          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya",
+          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+          "raw_title": "かなりや"
         }
       ]
     },
     {
       "id": "kaaren",
-      "title": "カーレンサン／カーレンさん",
+      "title": "カーレンさん／カーレンサン",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "カーレンサン（花蓮港）"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/20_karensan",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/20_karensan/index.md",
           "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "カーレンさん"
-        }
-      ]
-    },
-    {
-      "id": "kinoha",
-      "title": "キ ノ ハ／木のは／木の葉",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_1/8_ki_no_ha",
-          "md_file": "kogakko_shoka/grade_1/8_ki_no_ha/index.md",
-          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "キ ノ ハ（樹葉）"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_11_ki_no_ha",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_11_ki_no_ha/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "木のは"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/40_ki_no_ha",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/40_ki_no_ha/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "木の葉"
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_03_karensan/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "カーレンサン（花蓮港）"
         }
       ]
     },
     {
       "id": "kyabetsu",
       "title": "キャベツ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_21_kyabetsu",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_21_kyabetsu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "キャベツ"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/49_kyabetsu",
           "md_file": "shoka_kyozai_shu_1923/grade_3_4/49_kyabetsu/index.md",
           "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "キャベツ"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_21_kyabetsu",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_21_kyabetsu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
           "raw_title": "キャベツ"
         }
       ]
@@ -703,6 +517,8 @@
     {
       "id": "koronbusu",
       "title": "コロンブス",
+      "theme_category": "arts_and_entertainment",
+      "theme_category_label": "藝術與娛樂",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/11_koronbusu",
@@ -719,151 +535,21 @@
       ]
     },
     {
-      "id": "sarukani",
-      "title": "サル・カニ／さるかに",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_06_sarukani",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_06_sarukani/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "サル・カニ（猴子與螃蟹）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/21_sarukani",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/21_sarukani/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "さるかに"
-        }
-      ]
-    },
-    {
-      "id": "suigyu",
-      "title": "スヰギウ／水牛",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_2/6_suigyu",
-          "md_file": "kogakko_shoka/grade_2/6_suigyu/index.md",
-          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "スヰギウ（水牛）"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "水牛"
-        }
-      ]
-    },
-    {
-      "id": "suigyu",
-      "title": "スヰギウ／水牛",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "スヰギウ（水牛）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/44_suigyu",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/44_suigyu/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "水牛"
-        }
-      ]
-    },
-    {
-      "id": "tsuki",
-      "title": "ツキ／月",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_1/7_tsuki",
-          "md_file": "kogakko_shoka/grade_1/7_tsuki/index.md",
-          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "ツキ（月亮）"
-        },
-        {
-          "rel_dir": "kogakko_shokashu_1915/2_04_tsuki",
-          "md_file": "kogakko_shokashu_1915/2_04_tsuki/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "月"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "ツキ（月亮）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/37_tsuki",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/37_tsuki/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "月"
-        }
-      ]
-    },
-    {
-      "id": "ningyo",
-      "title": "ニンギヤウ／人形",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_1/10_ningyo",
-          "md_file": "kogakko_shoka/grade_1/10_ningyo/index.md",
-          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "ニンギヤウ（人偶）"
-        },
-        {
-          "rel_dir": "kogakko_shokashu_1915/1_07_ningyo",
-          "md_file": "kogakko_shokashu_1915/1_07_ningyo/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "人形"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_ningyo",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_ningyo/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "ニンギヤウ（人偶）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/14_ningyo",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/14_ningyo/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "人形"
-        }
-      ]
-    },
-    {
-      "id": "hakoniwa",
-      "title": "ハコニハ／箱庭",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "ハコニハ（箱庭）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "箱庭"
-        }
-      ]
-    },
-    {
       "id": "hato",
       "title": "ハト",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_1/2_hato",
-          "md_file": "kogakko_shoka/grade_1/2_hato/index.md",
-          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "ハト（鴿子）"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_02_hato",
           "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_02_hato/index.md",
           "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "ハト（鴿子）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_1/2_hato",
+          "md_file": "kogakko_shoka/grade_1/2_hato/index.md",
+          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
           "raw_title": "ハト（鴿子）"
         }
       ]
@@ -871,120 +557,68 @@
     {
       "id": "hikoki",
       "title": "ヒカウキ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_1/12_hikoki",
-          "md_file": "kogakko_shoka/grade_1/12_hikoki/index.md",
-          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "ヒカウキ（飛機）"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki",
           "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/index.md",
           "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "ヒカウキ（飛機）"
-        }
-      ]
-    },
-    {
-      "id": "hinomarunohata",
-      "title": "ヒノマル ノ ハタ／日の丸の旗／ヒノマルノハタ",
-      "entries": [
+        },
         {
-          "rel_dir": "kogakko_shoka/grade_1/1_hinomaru_no_hata",
-          "md_file": "kogakko_shoka/grade_1/1_hinomaru_no_hata/index.md",
+          "rel_dir": "kogakko_shoka/grade_1/12_hikoki",
+          "md_file": "kogakko_shoka/grade_1/12_hikoki/index.md",
           "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "ヒノマル ノ ハタ（日之丸旗）"
-        },
-        {
-          "rel_dir": "kogakko_shokashu_1915/3_02_hinomaru_no_hata",
-          "md_file": "kogakko_shokashu_1915/3_02_hinomaru_no_hata/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "日の丸の旗"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "ヒノマルノハタ（日之丸旗）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/01_hinomaru_no_hata",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/01_hinomaru_no_hata/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "日の丸の旗"
+          "raw_title": "ヒカウキ（飛機）"
         }
       ]
     },
     {
       "id": "hiyoko",
       "title": "ヒヨコ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_1/5_hiyoko",
-          "md_file": "kogakko_shoka/grade_1/5_hiyoko/index.md",
-          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-          "raw_title": "ヒヨコ（小雞）"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_03_hiyoko",
           "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_03_hiyoko/index.md",
           "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "ヒヨコ（小雞）"
-        }
-      ]
-    },
-    {
-      "id": "fujisan",
-      "title": "フジサン／富士山／ふじ山",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_2/8_fujisan",
-          "md_file": "kogakko_shoka/grade_2/8_fujisan/index.md",
-          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "フジサン（富士山）"
         },
         {
-          "rel_dir": "kogakko_shokashu_1915/5_02_fujisan",
-          "md_file": "kogakko_shokashu_1915/5_02_fujisan/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "富士山"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_14_fujisan",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_14_fujisan/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "ふじ山"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/07_fujisan",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/07_fujisan/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "富士山"
+          "rel_dir": "kogakko_shoka/grade_1/5_hiyoko",
+          "md_file": "kogakko_shoka/grade_1/5_hiyoko/index.md",
+          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
+          "raw_title": "ヒヨコ（小雞）"
         }
       ]
     },
     {
       "id": "funsui",
       "title": "フンスヰ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_2/7_funsui",
-          "md_file": "kogakko_shoka/grade_2/7_funsui/index.md",
-          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "フンスヰ（噴水）"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_02_funsui",
           "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_02_funsui/index.md",
           "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "フンスヰ（噴泉）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/7_funsui",
+          "md_file": "kogakko_shoka/grade_2/7_funsui/index.md",
+          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+          "raw_title": "フンスヰ（噴水）"
         }
       ]
     },
     {
       "id": "boto",
       "title": "ボート",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_2_854863/2_boto",
@@ -1001,44 +635,10 @@
       ]
     },
     {
-      "id": "mizuguruma",
-      "title": "ミヅグルマ／水グルマ",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_2/1_mizuguruma",
-          "md_file": "kogakko_shoka/grade_2/1_mizuguruma/index.md",
-          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-          "raw_title": "ミヅグルマ（水車）"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "水グルマ"
-        }
-      ]
-    },
-    {
-      "id": "mochitsuki",
-      "title": "モチツキ／餅搗",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_18_mochitsuki",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_18_mochitsuki/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "モチツキ（搗麻糬）"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/58_mochitsuki",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/58_mochitsuki/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "餅搗"
-        }
-      ]
-    },
-    {
       "id": "momotaro",
       "title": "モモタラウ",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
       "entries": [
         {
           "rel_dir": "kogakko_shoka/grade_1/15_momotaro",
@@ -1055,26 +655,10 @@
       ]
     },
     {
-      "id": "yuhi",
-      "title": "ユフヒ／夕日",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_10_yuhi",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_10_yuhi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "ユフヒ（夕陽）"
-        },
-        {
-          "rel_dir": "shokacho/vol_07/p236_yuhi",
-          "md_file": "shokacho/vol_07/p236_yuhi/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）",
-          "raw_title": "夕日（夕陽）"
-        }
-      ]
-    },
-    {
       "id": "waterloo",
       "title": "ヲーターロー",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_03_waterloo",
@@ -1092,54 +676,54 @@
     },
     {
       "id": "issunboshi",
-      "title": "一スンボウシ／一寸法師",
+      "title": "一寸法師／一スンボウシ",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_10_issunboshi",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_10_issunboshi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "一スンボウシ（一寸法師）"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/48_issunboshi",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/48_issunboshi/index.md",
           "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "一寸法師"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_10_issunboshi",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_10_issunboshi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "一スンボウシ（一寸法師）"
         }
       ]
     },
     {
       "id": "ichinensei",
-      "title": "一ネンセイ／一年生",
+      "title": "一年生／一ネンセイ",
+      "theme_category": "school_and_collective_life",
+      "theme_category_label": "學校生活與集體活動",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_02_ichinensei",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_02_ichinensei/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "一ネンセイ（一年級生）"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/16_ichinensei",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/16_ichinensei/index.md",
           "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "一年生"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_02_ichinensei",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_02_ichinensei/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "一ネンセイ（一年級生）"
         }
       ]
     },
     {
       "id": "ichigatsuichijitsu",
       "title": "一月一日",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu",
           "md_file": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "一月一日"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "一月一日"
         },
         {
@@ -1153,30 +737,92 @@
           "md_file": "shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "一月一日"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "一月一日"
+        }
+      ]
+    },
+    {
+      "id": "shichimencho",
+      "title": "七面鳥／しちめんてう",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "七面鳥"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/13_shichimencho",
+          "md_file": "kogakko_shoka/grade_2/13_shichimencho/index.md",
+          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+          "raw_title": "しちめんてう（七面鳥）"
         }
       ]
     },
     {
       "id": "ninomiyasontoku",
       "title": "二宮尊徳",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku",
-          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-          "raw_title": "二宮尊徳"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/02_ninomiya_sontoku",
           "md_file": "shoka_kyozai_shu_1923/koto_1_2/02_ninomiya_sontoku/index.md",
           "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "二宮尊徳"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku",
+          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+          "raw_title": "二宮尊徳"
+        }
+      ]
+    },
+    {
+      "id": "ningyo",
+      "title": "人形／ニンギヤウ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shokashu_1915/1_07_ningyo",
+          "md_file": "kogakko_shokashu_1915/1_07_ningyo/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "人形"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/14_ningyo",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/14_ningyo/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "人形"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_ningyo",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_ningyo/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "ニンギヤウ（人偶）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_1/10_ningyo",
+          "md_file": "kogakko_shoka/grade_1/10_ningyo/index.md",
+          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
+          "raw_title": "ニンギヤウ（人偶）"
         }
       ]
     },
     {
       "id": "teishabanosuzu",
       "title": "停車場の鈴",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/04_teishaba_no_suzu",
@@ -1193,19 +839,41 @@
       ]
     },
     {
-      "id": "rokushisensei",
-      "title": "六氏先生",
+      "id": "usagitokame",
+      "title": "兎と龜／ウサギトカメ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_5/18_rokushi_sensei",
-          "md_file": "kogakko_shoka/grade_5/18_rokushi_sensei/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "六氏先生"
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/34_usagi_to_kame",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/34_usagi_to_kame/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "兎と龜"
         },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_01_usagi_to_kame",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_01_usagi_to_kame/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "ウサギトカメ（兔子與烏龜）"
+        }
+      ]
+    },
+    {
+      "id": "rokushisensei",
+      "title": "六氏先生",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
+      "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/4_02_rokushi_sensei",
           "md_file": "kogakko_shokashu_1915/4_02_rokushi_sensei/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "六氏先生"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/32_rokushi_sensei",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/32_rokushi_sensei/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "六氏先生"
         },
         {
@@ -1215,9 +883,9 @@
           "raw_title": "六氏先生"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/32_rokushi_sensei",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/32_rokushi_sensei/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "rel_dir": "kogakko_shoka/grade_5/18_rokushi_sensei",
+          "md_file": "kogakko_shoka/grade_5/18_rokushi_sensei/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
           "raw_title": "六氏先生"
         }
       ]
@@ -1225,17 +893,19 @@
     {
       "id": "shokanoyoru",
       "title": "初夏の夜",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_4/4_shoka_no_yoru",
-          "md_file": "kogakko_shoka/grade_4/4_shoka_no_yoru/index.md",
-          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
-          "raw_title": "初夏の夜"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/1_05_shoka_no_yoru",
           "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/1_05_shoka_no_yoru/index.md",
           "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+          "raw_title": "初夏の夜"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_4/4_shoka_no_yoru",
+          "md_file": "kogakko_shoka/grade_4/4_shoka_no_yoru/index.md",
+          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
           "raw_title": "初夏の夜"
         }
       ]
@@ -1243,29 +913,33 @@
     {
       "id": "hatsuuguisu",
       "title": "初鶯",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu",
-          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-          "raw_title": "初鶯"
-        },
         {
           "rel_dir": "shokacho/vol_07/p241_hatsu_uguisu",
           "md_file": "shokacho/vol_07/p241_hatsu_uguisu/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）",
           "raw_title": "初鶯（初鶯）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu",
+          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+          "raw_title": "初鶯"
         }
       ]
     },
     {
       "id": "wakare",
       "title": "別れ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_6/20_wakare",
-          "md_file": "kogakko_shoka/grade_6/20_wakare/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/46_wakare",
+          "md_file": "shoka_kyozai_shu_1923/grade_5_6/46_wakare/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "別れ"
         },
         {
@@ -1275,29 +949,19 @@
           "raw_title": "別れ"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/46_wakare",
-          "md_file": "shoka_kyozai_shu_1923/grade_5_6/46_wakare/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+          "rel_dir": "kogakko_shoka/grade_6/20_wakare",
+          "md_file": "kogakko_shoka/grade_6/20_wakare/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
           "raw_title": "別れ"
         }
       ]
     },
     {
       "id": "tasukebune",
-      "title": "助船／助け舟／助け船",
+      "title": "助け舟／助け船／助船",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/15_tasukebune",
-          "md_file": "kogakko_shoka/grade_5/15_tasukebune/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "助船"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune",
-          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-          "raw_title": "助船"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/35_tasukebune",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/index.md",
@@ -1309,23 +973,31 @@
           "md_file": "shokacho/vol_10/p211_tasukebune/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "助け船 (救生船)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune",
+          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+          "raw_title": "助船"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_5/15_tasukebune",
+          "md_file": "kogakko_shoka/grade_5/15_tasukebune/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
+          "raw_title": "助船"
         }
       ]
     },
     {
       "id": "chokugohoto",
       "title": "勅語奉答／勅語奉答（あな尊しや）",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/3_01_chokugo_hoto",
           "md_file": "kogakko_shokashu_1915/3_01_chokugo_hoto/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "勅語奉答"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "勅語奉答"
         },
         {
@@ -1339,12 +1011,20 @@
           "md_file": "shokacho/vol_01/p122_chokugo_hoto_2/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "勅語奉答（あな尊しや）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "勅語奉答"
         }
       ]
     },
     {
       "id": "jugoya",
       "title": "十五夜お月さん",
+      "theme_category": "arts_and_entertainment",
+      "theme_category_label": "藝術與娛樂",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/16_jugoya_otsukisan",
@@ -1363,6 +1043,8 @@
     {
       "id": "chiyodanomiya",
       "title": "千代田の宮",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_01_chiyoda_no_miya",
@@ -1381,13 +1063,9 @@
     {
       "id": "sotsugyonouta",
       "title": "卒業の歌",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta",
-          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta/index.md",
-          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
-          "raw_title": "卒業の歌"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/38_sotsugyo_no_uta",
           "md_file": "shoka_kyozai_shu_1923/koto_1_2/38_sotsugyo_no_uta/index.md",
@@ -1399,19 +1077,21 @@
           "md_file": "shokacho/vol_10/p201_sotsugyo_no_uta/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "卒業の歌 (畢業之歌)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_07_sotsugyo_no_uta/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "卒業の歌"
         }
       ]
     },
     {
       "id": "sotsugyoshiki",
-      "title": "卒業式歌／卒業式",
+      "title": "卒業式／卒業式歌",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "卒業式歌"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/59_sotsugyoshiki",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/59_sotsugyoshiki/index.md",
@@ -1429,19 +1109,21 @@
           "md_file": "shokacho/vol_01/p179_sotsugyoshiki/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "卒業式"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "卒業式歌"
         }
       ]
     },
     {
       "id": "nanyonouta",
       "title": "南洋の歌",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "南洋の歌"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/43_nanyo_no_uta",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/43_nanyo_no_uta/index.md",
@@ -1453,30 +1135,40 @@
           "md_file": "shokacho/vol_10/p207_nanyo_no_uta/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "南洋の歌 (南洋之歌)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_03_nanyo_no_uta/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "南洋の歌"
         }
       ]
     },
     {
       "id": "toriire",
       "title": "取入れ",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "取入れ（秋收）"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/31_toriire",
           "md_file": "shoka_kyozai_shu_1923/grade_3_4/31_toriire/index.md",
           "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "取入れ"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_06_toriire/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "取入れ（秋收）"
         }
       ]
     },
     {
       "id": "dojo",
       "title": "同情／おもひやり",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/4_03_dojo",
@@ -1495,6 +1187,8 @@
     {
       "id": "dosokai",
       "title": "同窓會／同窓會（二部合唱）",
+      "theme_category": "school_and_collective_life",
+      "theme_category_label": "學校生活與集體活動",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/20_dosokai",
@@ -1513,17 +1207,13 @@
     {
       "id": "kimigayo",
       "title": "君が代",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/1_01_kimigayo",
           "md_file": "kogakko_shokashu_1915/1_01_kimigayo/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "君が代"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "君が代"
         },
         {
@@ -1543,30 +1233,40 @@
           "md_file": "shokacho/vol_03/p048a_kimi_ga_yo/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
           "raw_title": "君が代"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "君が代"
         }
       ]
     },
     {
       "id": "kimigayonohatsuharu",
       "title": "君が代の初春",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "君が代の初春"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/29_kimigayo_no_hatsuharu",
           "md_file": "shoka_kyozai_shu_1923/koto_1_2/29_kimigayo_no_hatsuharu/index.md",
           "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "君が代の初春（二部）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "君が代の初春"
         }
       ]
     },
     {
       "id": "shikinosanpo",
       "title": "四季の散歩",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/22_shiki_no_sanpo",
@@ -1585,11 +1285,13 @@
     {
       "id": "hanyunoyado",
       "title": "埴生の宿",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_6/13_hanyu_no_yado",
-          "md_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "rel_dir": "shokacho/vol_02/p097_hanyu_no_yado",
+          "md_file": "shokacho/vol_02/p097_hanyu_no_yado/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
           "raw_title": "埴生の宿"
         },
         {
@@ -1605,9 +1307,9 @@
           "raw_title": "埴生の宿"
         },
         {
-          "rel_dir": "shokacho/vol_02/p097_hanyu_no_yado",
-          "md_file": "shokacho/vol_02/p097_hanyu_no_yado/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+          "rel_dir": "kogakko_shoka/grade_6/13_hanyu_no_yado",
+          "md_file": "kogakko_shoka/grade_6/13_hanyu_no_yado/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
           "raw_title": "埴生の宿"
         }
       ]
@@ -1615,6 +1317,8 @@
     {
       "id": "natsugeshiki",
       "title": "夏げしき",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_07_natsugeshiki",
@@ -1631,25 +1335,35 @@
       ]
     },
     {
-      "id": "yudachi",
-      "title": "夕立",
+      "id": "yuhi",
+      "title": "夕日／ユフヒ",
+      "theme_category": "arts_and_entertainment",
+      "theme_category_label": "藝術與娛樂",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_4/7_yudachi",
-          "md_file": "kogakko_shoka/grade_4/7_yudachi/index.md",
-          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
-          "raw_title": "夕立"
+          "rel_dir": "shokacho/vol_07/p236_yuhi",
+          "md_file": "shokacho/vol_07/p236_yuhi/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）",
+          "raw_title": "夕日（夕陽）"
         },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_10_yuhi",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_10_yuhi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "ユフヒ（夕陽）"
+        }
+      ]
+    },
+    {
+      "id": "yudachi",
+      "title": "夕立",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
+      "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/4_04_yudachi",
           "md_file": "kogakko_shokashu_1915/4_04_yudachi/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "夕立"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi",
-          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
           "raw_title": "夕立"
         },
         {
@@ -1669,18 +1383,32 @@
           "md_file": "shokacho/vol_01/p128_yudachi/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "夕立"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi",
+          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+          "raw_title": "夕立"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_4/7_yudachi",
+          "md_file": "kogakko_shoka/grade_4/7_yudachi/index.md",
+          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
+          "raw_title": "夕立"
         }
       ]
     },
     {
       "id": "dainippon",
       "title": "大日本",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_3/12_dainippon",
-          "md_file": "kogakko_shoka/grade_3/12_dainippon/index.md",
-          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-          "raw_title": "大日本"
+          "rel_dir": "shokacho/vol_08/p008_dainippon",
+          "md_file": "shokacho/vol_08/p008_dainippon/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+          "raw_title": "大日本（日本）"
         },
         {
           "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon",
@@ -1689,16 +1417,18 @@
           "raw_title": "大日本"
         },
         {
-          "rel_dir": "shokacho/vol_08/p008_dainippon",
-          "md_file": "shokacho/vol_08/p008_dainippon/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
-          "raw_title": "大日本（日本）"
+          "rel_dir": "kogakko_shoka/grade_3/12_dainippon",
+          "md_file": "kogakko_shoka/grade_3/12_dainippon/index.md",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "大日本"
         }
       ]
     },
     {
       "id": "taireihoshukushoka",
       "title": "大禮奉祝歌／文部省選定 大禮奉祝唱歌",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
         {
           "rel_dir": "shokacho/vol_01/p181_tairei_hoshukuka",
@@ -1717,6 +1447,8 @@
     {
       "id": "utsukushikitennen",
       "title": "天然の美／美しき天然",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shokacho/vol_01/p131_tennen_no_bi",
@@ -1735,17 +1467,13 @@
     {
       "id": "tenchosetsu",
       "title": "天長節",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/2_01_tenchosetsu",
           "md_file": "kogakko_shokashu_1915/2_01_tenchosetsu/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "天長節"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "天長節"
         },
         {
@@ -1759,19 +1487,21 @@
           "md_file": "shokacho/vol_01/p126_tenchosetsu/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "天長節"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "天長節"
         }
       ]
     },
     {
       "id": "myogisan",
       "title": "妙義山",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan",
-          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-          "raw_title": "妙義山"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/11_myogisan",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/11_myogisan/index.md",
@@ -1783,24 +1513,26 @@
           "md_file": "shokacho/vol_10/p216_myogisan/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "妙義山 (妙義山)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan",
+          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+          "raw_title": "妙義山"
         }
       ]
     },
     {
       "id": "shiseikinenbi",
       "title": "始政紀念日／始政記念日",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/5_01_shisei_kinenbi",
           "md_file": "kogakko_shokashu_1915/5_01_shisei_kinenbi/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
           "raw_title": "始政紀念日"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "始政記念日"
         },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/27_shisei_kinenbi",
@@ -1819,41 +1551,115 @@
           "md_file": "shokacho/vol_03/p047_shisei_kinembi/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
           "raw_title": "始政紀念日"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "始政記念日"
+        }
+      ]
+    },
+    {
+      "id": "fujisan",
+      "title": "富士山／ふじ山／フジサン",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shokashu_1915/5_02_fujisan",
+          "md_file": "kogakko_shokashu_1915/5_02_fujisan/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "富士山"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/07_fujisan",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/07_fujisan/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "富士山"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_14_fujisan",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_14_fujisan/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "ふじ山"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/8_fujisan",
+          "md_file": "kogakko_shoka/grade_2/8_fujisan/index.md",
+          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+          "raw_title": "フジサン（富士山）"
+        }
+      ]
+    },
+    {
+      "id": "shonanko",
+      "title": "小楠公／櫻井の訣別",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/34_sho_nanko",
+          "md_file": "shoka_kyozai_shu_1923/koto_1_2/34_sho_nanko/index.md",
+          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "小楠公"
+        },
+        {
+          "rel_dir": "shokacho/vol_02/p089_sho_nanko",
+          "md_file": "shokacho/vol_02/p089_sho_nanko/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+          "raw_title": "小楠公"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "小楠公"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu",
+          "md_file": "kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/index.md",
+          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
+          "raw_title": "櫻井の訣別"
         }
       ]
     },
     {
       "id": "kouma",
-      "title": "小ウマ／小馬",
+      "title": "小馬／小ウマ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "小ウマ"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/50_kouma",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/50_kouma/index.md",
           "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "小馬"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "小ウマ"
         }
       ]
     },
     {
       "id": "tokonatsunoshima",
       "title": "常夏の島",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "常夏の島"
-        },
         {
           "rel_dir": "taiwan_no_uta/5_tokonatsu_no_shima",
           "md_file": "taiwan_no_uta/5_tokonatsu_no_shima/index.md",
           "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
+          "raw_title": "常夏の島"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
           "raw_title": "常夏の島"
         }
       ]
@@ -1861,17 +1667,19 @@
     {
       "id": "hirosechusa",
       "title": "廣瀨中佐",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/19_hirose_chusa",
-          "md_file": "kogakko_shoka/grade_5/19_hirose_chusa/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "廣瀨中佐"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_07_hirose_chusa",
           "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_07_hirose_chusa/index.md",
           "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+          "raw_title": "廣瀨中佐"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_5/19_hirose_chusa",
+          "md_file": "kogakko_shoka/grade_5/19_hirose_chusa/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
           "raw_title": "廣瀨中佐"
         }
       ]
@@ -1879,11 +1687,13 @@
     {
       "id": "nintai",
       "title": "忍耐",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_5/20_nintai",
-          "md_file": "kogakko_shoka/grade_5/20_nintai/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
+          "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/03_nintai",
+          "md_file": "shoka_kyozai_shu_1923/grade_5_6/03_nintai/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "忍耐"
         },
         {
@@ -1893,9 +1703,9 @@
           "raw_title": "忍耐"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/03_nintai",
-          "md_file": "shoka_kyozai_shu_1923/grade_5_6/03_nintai/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+          "rel_dir": "kogakko_shoka/grade_5/20_nintai",
+          "md_file": "kogakko_shoka/grade_5/20_nintai/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
           "raw_title": "忍耐"
         }
       ]
@@ -1903,6 +1713,8 @@
     {
       "id": "chushin",
       "title": "忠臣",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_5_03_chushin",
@@ -1921,6 +1733,8 @@
     {
       "id": "kyuryu",
       "title": "急流",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/2_2_03_kyuryu",
@@ -1939,13 +1753,9 @@
     {
       "id": "kaiyu",
       "title": "懷友／懐友",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu",
-          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu/index.md",
-          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
-          "raw_title": "懷友"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/45_kaiyu",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/45_kaiyu/index.md",
@@ -1957,23 +1767,31 @@
           "md_file": "shokacho/vol_10/p206_kaiyu/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "懐友 (懷友)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "懷友"
         }
       ]
     },
     {
       "id": "wagateikoku",
       "title": "我が帝國",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_4/20_waga_teikoku",
-          "md_file": "kogakko_shoka/grade_4/20_waga_teikoku/index.md",
-          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
-          "raw_title": "我が帝國"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/3_04_waga_teikoku",
           "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/3_04_waga_teikoku/index.md",
           "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+          "raw_title": "我が帝國"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_4/20_waga_teikoku",
+          "md_file": "kogakko_shoka/grade_4/20_waga_teikoku/index.md",
+          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
           "raw_title": "我が帝國"
         }
       ]
@@ -1981,13 +1799,9 @@
     {
       "id": "wagakuniheishi",
       "title": "我國兵士",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "我國兵士"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/32_wagakuni_heishi",
           "md_file": "shoka_kyozai_shu_1923/koto_1_2/32_wagakuni_heishi/index.md",
@@ -1999,30 +1813,40 @@
           "md_file": "shokacho/vol_01/p159_wagakuni_heishi/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "我國兵士"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "我國兵士"
         }
       ]
     },
     {
       "id": "niitakayama",
       "title": "新高山",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/14_niitakayama",
-          "md_file": "kogakko_shoka/grade_5/14_niitakayama/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "新高山"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_06_niitakayama",
           "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_06_niitakayama/index.md",
           "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
           "raw_title": "新高山"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_5/14_niitakayama",
+          "md_file": "kogakko_shoka/grade_5/14_niitakayama/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
+          "raw_title": "新高山"
         }
       ]
     },
     {
       "id": "niitakayama",
       "title": "新高山",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/17_niitakayama",
@@ -2039,19 +1863,53 @@
       ]
     },
     {
-      "id": "nihonkaikaisen",
-      "title": "日本海海戰",
+      "id": "hinomarunohata",
+      "title": "日の丸の旗／ヒノマルノハタ／ヒノマル ノ ハタ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_6/4_nihonkai_kaisen",
-          "md_file": "kogakko_shoka/grade_6/4_nihonkai_kaisen/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-          "raw_title": "日本海海戰"
+          "rel_dir": "kogakko_shokashu_1915/3_02_hinomaru_no_hata",
+          "md_file": "kogakko_shokashu_1915/3_02_hinomaru_no_hata/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "日の丸の旗"
         },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/01_hinomaru_no_hata",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/01_hinomaru_no_hata/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "日の丸の旗"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "ヒノマルノハタ（日之丸旗）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_1/1_hinomaru_no_hata",
+          "md_file": "kogakko_shoka/grade_1/1_hinomaru_no_hata/index.md",
+          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
+          "raw_title": "ヒノマル ノ ハタ（日之丸旗）"
+        }
+      ]
+    },
+    {
+      "id": "nihonkaikaisen",
+      "title": "日本海海戰",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
+      "entries": [
         {
           "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen",
           "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_05_nihonkai_kaisen/index.md",
           "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "日本海海戰"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_6/4_nihonkai_kaisen",
+          "md_file": "kogakko_shoka/grade_6/4_nihonkai_kaisen/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
           "raw_title": "日本海海戰"
         }
       ]
@@ -2059,13 +1917,9 @@
     {
       "id": "meijitennogyosei",
       "title": "明治天皇御製",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei",
-          "md_file": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-          "raw_title": "明治天皇御製"
-        },
         {
           "rel_dir": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei",
           "md_file": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/index.md",
@@ -2077,19 +1931,21 @@
           "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md",
           "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
           "raw_title": "明治天皇御製"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei",
+          "md_file": "kogakko_shoka/grade_6/1_meiji_tenno_gyosei/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "明治天皇御製"
         }
       ]
     },
     {
       "id": "meijisetsu",
-      "title": "明治節／明治節唱歌",
+      "title": "明治節唱歌／明治節",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_06_meijisetsu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_06_meijisetsu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "明治節"
-        },
         {
           "rel_dir": "shokacho/vol_01/p182_meijisetsu_shoka",
           "md_file": "shokacho/vol_01/p182_meijisetsu_shoka/index.md",
@@ -2101,30 +1957,60 @@
           "md_file": "shokacho/vol_01/p185_meijisetsu_shoka_printed/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "明治節唱歌（印刷譜）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_06_meijisetsu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_06_meijisetsu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "明治節"
+        }
+      ]
+    },
+    {
+      "id": "harugakita",
+      "title": "春が來た／はる が きた",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_08_haru_ga_kita",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_08_haru_ga_kita/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "春が來た"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/15_haru_ga_kita",
+          "md_file": "kogakko_shoka/grade_2/15_haru_ga_kita/index.md",
+          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+          "raw_title": "はる が きた（春が來た）"
         }
       ]
     },
     {
       "id": "harunono",
       "title": "春の野",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no",
-          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-          "raw_title": "春の野"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/21_haru_no_no",
           "md_file": "shoka_kyozai_shu_1923/koto_1_2/21_haru_no_no/index.md",
           "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "春の野"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no",
+          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
           "raw_title": "春の野"
         }
       ]
     },
     {
       "id": "tokeinouta",
-      "title": "時計／とけいのうた／時計の歌",
+      "title": "時計／時計の歌／とけいのうた",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/2_06_tokei",
@@ -2133,35 +2019,25 @@
           "raw_title": "時計"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_03_tokei_no_uta",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_03_tokei_no_uta/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "とけいのうた（時鐘之歌）"
-        },
-        {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/39_tokei_no_uta",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/39_tokei_no_uta/index.md",
           "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "時計の歌"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_03_tokei_no_uta",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_03_tokei_no_uta/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "とけいのうた（時鐘之歌）"
         }
       ]
     },
     {
       "id": "gyokei",
-      "title": "曉景／曉景（二部輪唱）",
+      "title": "曉景（二部輪唱）／曉景",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_6/17_gyokei",
-          "md_file": "kogakko_shoka/grade_6/17_gyokei/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-          "raw_title": "曉景"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "曉景"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/24_gyokei",
           "md_file": "shoka_kyozai_shu_1923/koto_1_2/24_gyokei/index.md",
@@ -2173,12 +2049,26 @@
           "md_file": "shokacho/vol_02/p090_gyokei/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
           "raw_title": "曉景（二部輪唱）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "曉景"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_6/17_gyokei",
+          "md_file": "kogakko_shoka/grade_6/17_gyokei/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "曉景"
         }
       ]
     },
     {
       "id": "tsuki",
       "title": "月",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/39_tsuki",
@@ -2197,6 +2087,8 @@
     {
       "id": "tsukinose",
       "title": "月の瀨",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_06_tsuki_no_se",
@@ -2213,8 +2105,42 @@
       ]
     },
     {
+      "id": "tsuki",
+      "title": "月／ツキ",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shokashu_1915/2_04_tsuki",
+          "md_file": "kogakko_shokashu_1915/2_04_tsuki/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "月"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/37_tsuki",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/37_tsuki/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "月"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_08_tsuki/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "ツキ（月亮）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_1/7_tsuki",
+          "md_file": "kogakko_shoka/grade_1/7_tsuki/index.md",
+          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
+          "raw_title": "ツキ（月亮）"
+        }
+      ]
+    },
+    {
       "id": "hoyu",
       "title": "朋友",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_2_854863/5_hoyu",
@@ -2233,13 +2159,9 @@
     {
       "id": "asa",
       "title": "朝",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_09_asa",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_09_asa/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "朝"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/29_asa",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/29_asa/index.md",
@@ -2251,12 +2173,20 @@
           "md_file": "shokacho/vol_10/p213_asa/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "朝 (早晨)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_09_asa",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_09_asa/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "朝"
         }
       ]
     },
     {
       "id": "asaoki",
       "title": "朝起",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_1_854862/5_asaoki",
@@ -2279,8 +2209,30 @@
       ]
     },
     {
+      "id": "asagao",
+      "title": "朝顔／アサガホ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/24_asagao",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/24_asagao/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "朝顔"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "アサガホ（牽牛花）"
+        }
+      ]
+    },
+    {
       "id": "asakaze",
       "title": "朝風",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_5_01_asakaze",
@@ -2299,13 +2251,9 @@
     {
       "id": "oborozukiyo",
       "title": "朧月夜",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "朧月夜"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo/index.md",
@@ -2323,18 +2271,52 @@
           "md_file": "shokacho/vol_10/p195a_oborozukiyo/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "朧月夜 (朦朧月夜)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "朧月夜"
+        }
+      ]
+    },
+    {
+      "id": "kinoha",
+      "title": "木の葉／木のは／キ ノ ハ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/40_ki_no_ha",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/40_ki_no_ha/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "木の葉"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_11_ki_no_ha",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_11_ki_no_ha/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "木のは"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_1/8_ki_no_ha",
+          "md_file": "kogakko_shoka/grade_1/8_ki_no_ha/index.md",
+          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
+          "raw_title": "キ ノ ハ（樹葉）"
         }
       ]
     },
     {
       "id": "muranokajiya",
-      "title": "村のかぢや／村の鍛冶屋",
+      "title": "村の鍛冶屋／村のかぢや",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_3/3_muranokajiya",
-          "md_file": "kogakko_shoka/grade_3/3_muranokajiya/index.md",
-          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-          "raw_title": "村のかぢや（村之鍛冶屋）"
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "村の鍛冶屋"
         },
         {
           "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_04_mura_no_kajiya",
@@ -2343,23 +2325,19 @@
           "raw_title": "村のかぢや"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "村の鍛冶屋"
+          "rel_dir": "kogakko_shoka/grade_3/3_muranokajiya",
+          "md_file": "kogakko_shoka/grade_3/3_muranokajiya/index.md",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "村のかぢや（村之鍛冶屋）"
         }
       ]
     },
     {
       "id": "matsushima",
       "title": "松島",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima",
-          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-          "raw_title": "松島"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/17_matsushima",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/17_matsushima/index.md",
@@ -2371,12 +2349,46 @@
           "md_file": "shokacho/vol_10/p215_matsushima/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "松島 (松島)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima",
+          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+          "raw_title": "松島"
+        }
+      ]
+    },
+    {
+      "id": "kakashi",
+      "title": "案山子／かかし／カカシ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/46_kakashi",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/46_kakashi/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "案山子"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_06_kakashi",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_06_kakashi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "かかし（稻草人）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/9_kakashi",
+          "md_file": "kogakko_shoka/grade_2/9_kakashi/index.md",
+          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+          "raw_title": "カカシ（案山子）"
         }
       ]
     },
     {
       "id": "morinokotori",
       "title": "森の小鳥",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/26_mori_no_kotori",
@@ -2394,18 +2406,20 @@
     },
     {
       "id": "tanoshikiwagaya",
-      "title": "樂しき我が家／樂しき我家",
+      "title": "樂しき我家／樂しき我が家",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
-          "md_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-          "raw_title": "樂しき我が家"
-        },
         {
           "rel_dir": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
           "md_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md",
           "book_label": "《共益商社唱歌教科書》卷四・教師用（明治33年／1900）",
+          "raw_title": "樂しき我家"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya",
+          "md_file": "shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya/index.md",
+          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "樂しき我家"
         },
         {
@@ -2415,16 +2429,18 @@
           "raw_title": "樂しき我家"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya",
-          "md_file": "shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya/index.md",
-          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "樂しき我家"
+          "rel_dir": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
+          "md_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "樂しき我が家"
         }
       ]
     },
     {
       "id": "shonanko",
       "title": "櫻井のわかれ",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/5_03_sakurai_no_wakare",
@@ -2441,38 +2457,10 @@
       ]
     },
     {
-      "id": "shonanko",
-      "title": "櫻井の訣別／小楠公",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu",
-          "md_file": "kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/index.md",
-          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
-          "raw_title": "櫻井の訣別"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "小楠公"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/34_sho_nanko",
-          "md_file": "shoka_kyozai_shu_1923/koto_1_2/34_sho_nanko/index.md",
-          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "小楠公"
-        },
-        {
-          "rel_dir": "shokacho/vol_02/p089_sho_nanko",
-          "md_file": "shokacho/vol_02/p089_sho_nanko/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
-          "raw_title": "小楠公"
-        }
-      ]
-    },
-    {
       "id": "kigan",
       "title": "歸雁",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/10_kigan",
@@ -2489,26 +2477,90 @@
       ]
     },
     {
-      "id": "suishieinokaiken",
-      "title": "水師營の會見",
+      "id": "mizuguruma",
+      "title": "水グルマ／ミヅグルマ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
-          "rel_dir": "kogakko_shoka/grade_6/12_suishiei_no_kaiken",
-          "md_file": "kogakko_shoka/grade_6/12_suishiei_no_kaiken/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-          "raw_title": "水師營の會見"
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "水グルマ"
         },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/1_mizuguruma",
+          "md_file": "kogakko_shoka/grade_2/1_mizuguruma/index.md",
+          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+          "raw_title": "ミヅグルマ（水車）"
+        }
+      ]
+    },
+    {
+      "id": "suishieinokaiken",
+      "title": "水師營の會見",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
+      "entries": [
         {
           "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken",
           "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_05_suishiei_no_kaiken/index.md",
           "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
           "raw_title": "水師營の會見"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_6/12_suishiei_no_kaiken",
+          "md_file": "kogakko_shoka/grade_6/12_suishiei_no_kaiken/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+          "raw_title": "水師營の會見"
+        }
+      ]
+    },
+    {
+      "id": "suigyu",
+      "title": "水牛／スヰギウ",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "水牛"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/6_suigyu",
+          "md_file": "kogakko_shoka/grade_2/6_suigyu/index.md",
+          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+          "raw_title": "スヰギウ（水牛）"
+        }
+      ]
+    },
+    {
+      "id": "suigyu",
+      "title": "水牛／スヰギウ",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/44_suigyu",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/44_suigyu/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "水牛"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "スヰギウ（水牛）"
         }
       ]
     },
     {
       "id": "kishatokisen",
       "title": "汽車と汽船",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/01_kisha_to_kisen",
@@ -2527,13 +2579,9 @@
     {
       "id": "kishanotabi",
       "title": "汽車の旅",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_03_kisha_no_tabi",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_03_kisha_no_tabi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "汽車の旅"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/32_kisha_no_tabi",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/32_kisha_no_tabi/index.md",
@@ -2551,12 +2599,52 @@
           "md_file": "shokacho/vol_10/p212_kisha_no_tabi/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "汽車の旅 (火車之旅)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_03_kisha_no_tabi",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_03_kisha_no_tabi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "汽車の旅"
+        }
+      ]
+    },
+    {
+      "id": "kisha",
+      "title": "汽車／きしゃ",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shokashu_1915/5_05_kisha",
+          "md_file": "kogakko_shokashu_1915/5_05_kisha/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "汽車"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/08_kisha",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/08_kisha/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "汽車"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_10_kisha",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_10_kisha/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "汽車（火車）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_3/11_kisha",
+          "md_file": "kogakko_shoka/grade_3/11_kisha/index.md",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "きしゃ（火車）"
         }
       ]
     },
     {
       "id": "izumi",
       "title": "泉",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_2_854863/13_izumi",
@@ -2575,6 +2663,8 @@
     {
       "id": "namitoisonoishi",
       "title": "波と磯の石",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/51_nami_to_iso_no_ishi",
@@ -2591,8 +2681,42 @@
       ]
     },
     {
+      "id": "urashimataro",
+      "title": "浦島太郎／うらしま太郎／うらしまたらう",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/51_urashima_taro",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/51_urashima_taro/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "浦島太郎"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_09_urashima_taro/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "うらしま太郎"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_2/12_urashimataro",
+          "md_file": "kogakko_shoka/grade_2/12_urashimataro/index.md",
+          "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+          "raw_title": "うらしまたらう（浦島太郎）"
+        },
+        {
+          "rel_dir": "utanohon/ge_2006.006.0878/14_urashimataro",
+          "md_file": "utanohon/ge_2006.006.0878/14_urashimataro/index.md",
+          "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+          "raw_title": "うらしま太郎（浦島太郎）"
+        }
+      ]
+    },
+    {
       "id": "unabara",
       "title": "海原",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_01_unabara",
@@ -2611,6 +2735,8 @@
     {
       "id": "umi",
       "title": "海／海（其一）",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_2_854863/9_umi",
@@ -2629,19 +2755,9 @@
     {
       "id": "umi",
       "title": "海／海（其二）",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/7_umi",
-          "md_file": "kogakko_shoka/grade_5/7_umi/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "海"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi",
-          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-          "raw_title": "海"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/08_umi",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/08_umi/index.md",
@@ -2653,23 +2769,37 @@
           "md_file": "shokacho/vol_03/p039_umi/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
           "raw_title": "海（其二）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi",
+          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+          "raw_title": "海"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_5/7_umi",
+          "md_file": "kogakko_shoka/grade_5/7_umi/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
+          "raw_title": "海"
         }
       ]
     },
     {
       "id": "minato",
       "title": "港",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "港"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/15_minato",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/15_minato/index.md",
           "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "港"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_09_minato/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
           "raw_title": "港"
         }
       ]
@@ -2677,17 +2807,19 @@
     {
       "id": "gyosen",
       "title": "漁船",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_4/8_gyosen",
-          "md_file": "kogakko_shoka/grade_4/8_gyosen/index.md",
-          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
-          "raw_title": "漁船"
-        },
         {
           "rel_dir": "kogakko_shokashu_1915/5_07_gyosen",
           "md_file": "kogakko_shokashu_1915/5_07_gyosen/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "漁船"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/29_gyosen",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/29_gyosen/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "漁船"
         },
         {
@@ -2697,16 +2829,38 @@
           "raw_title": "漁船"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/29_gyosen",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/29_gyosen/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "rel_dir": "kogakko_shoka/grade_4/8_gyosen",
+          "md_file": "kogakko_shoka/grade_4/8_gyosen/index.md",
+          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
           "raw_title": "漁船"
+        }
+      ]
+    },
+    {
+      "id": "sumiyaki",
+      "title": "炭やき／すみやき",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_04_sumiyaki",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_04_sumiyaki/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "炭やき（燒炭）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_3/14_sumiyaki",
+          "md_file": "kogakko_shoka/grade_3/14_sumiyaki/index.md",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "すみやき（燒炭）"
         }
       ]
     },
     {
       "id": "tsubame",
       "title": "燕",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/36_tsubame",
@@ -2723,8 +2877,42 @@
       ]
     },
     {
+      "id": "inu",
+      "title": "犬／イヌ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
+      "entries": [
+        {
+          "rel_dir": "kogakko_shokashu_1915/1_04_inu",
+          "md_file": "kogakko_shokashu_1915/1_04_inu/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "犬"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/10_inu",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/10_inu/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "犬"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_04_inu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_04_inu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "イヌ（小狗）"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_1/14_inu",
+          "md_file": "kogakko_shoka/grade_1/14_inu/index.md",
+          "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
+          "raw_title": "イヌ（小狗）"
+        }
+      ]
+    },
+    {
       "id": "nekotokaeru",
       "title": "猫と蛙／ネコトカヘル",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/1_05_neko_to_kaeru",
@@ -2733,22 +2921,24 @@
           "raw_title": "猫と蛙"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_07_neko_to_kaeru",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_07_neko_to_kaeru/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "ネコトカヘル（貓與青蛙）"
-        },
-        {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/11_neko_to_kaeru",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/11_neko_to_kaeru/index.md",
           "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "猫と蛙"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_07_neko_to_kaeru",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_07_neko_to_kaeru/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "ネコトカヘル（貓與青蛙）"
         }
       ]
     },
     {
       "id": "arahitogami",
       "title": "現人神",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/2_3_03_arahitogami",
@@ -2767,6 +2957,8 @@
     {
       "id": "biwako",
       "title": "琵琶湖",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_3_854864/7_biwako",
@@ -2790,25 +2982,29 @@
     },
     {
       "id": "inakanoyugure",
-      "title": "田舍の夕暮／田舎の夕暮",
+      "title": "田舎の夕暮／田舍の夕暮",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure",
-          "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md",
-          "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
-          "raw_title": "田舍の夕暮"
-        },
         {
           "rel_dir": "shokacho/vol_08/p022_inaka_no_yugure",
           "md_file": "shokacho/vol_08/p022_inaka_no_yugure/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
           "raw_title": "田舎の夕暮（鄉村的黃昏）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure",
+          "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md",
+          "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+          "raw_title": "田舍の夕暮"
         }
       ]
     },
     {
       "id": "iwaibi",
       "title": "祝ひ日／いはひ日",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_1_854862/3_iwaibi",
@@ -2827,42 +3023,28 @@
     {
       "id": "shinboku",
       "title": "神木",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/4_shinboku",
-          "md_file": "kogakko_shoka/grade_5/4_shinboku/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "神木"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku",
           "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku/index.md",
           "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
           "raw_title": "神木"
-        }
-      ]
-    },
-    {
-      "id": "akinokojo",
-      "title": "秋の湖上／秋ノ湖上",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo",
-          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo/index.md",
-          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
-          "raw_title": "秋の湖上"
         },
         {
-          "rel_dir": "shokacho/vol_08/p026_aki_no_kojo",
-          "md_file": "shokacho/vol_08/p026_aki_no_kojo/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
-          "raw_title": "秋ノ湖上（秋日湖上）"
+          "rel_dir": "kogakko_shoka/grade_5/4_shinboku",
+          "md_file": "kogakko_shoka/grade_5/4_shinboku/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
+          "raw_title": "神木"
         }
       ]
     },
     {
       "id": "akinokoe",
       "title": "秋の聲",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_05_aki_no_koe",
@@ -2881,6 +3063,8 @@
     {
       "id": "akinokaze",
       "title": "秋の風",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/46_aki_no_kaze",
@@ -2897,19 +3081,55 @@
       ]
     },
     {
+      "id": "akinokojo",
+      "title": "秋ノ湖上／秋の湖上",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
+      "entries": [
+        {
+          "rel_dir": "shokacho/vol_08/p026_aki_no_kojo",
+          "md_file": "shokacho/vol_08/p026_aki_no_kojo/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+          "raw_title": "秋ノ湖上（秋日湖上）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "秋の湖上"
+        }
+      ]
+    },
+    {
+      "id": "hakoniwa",
+      "title": "箱庭／ハコニハ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "箱庭"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "ハコニハ（箱庭）"
+        }
+      ]
+    },
+    {
       "id": "kigensetsu",
       "title": "紀元節",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/3_06_kigensetsu",
           "md_file": "kogakko_shokashu_1915/3_06_kigensetsu/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "紀元節"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "紀元節"
         },
         {
@@ -2923,12 +3143,20 @@
           "md_file": "shokacho/vol_01/p124_kigensetsu/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "紀元節"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "紀元節"
         }
       ]
     },
     {
       "id": "noryo",
       "title": "納涼",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/2_2_01_noryo",
@@ -2947,6 +3175,8 @@
     {
       "id": "takonouta",
       "title": "紙鳶／たこのうた",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/2_05_tako",
@@ -2964,32 +3194,30 @@
     },
     {
       "id": "tsunahiki",
-      "title": "綱ひき／綱引き",
+      "title": "綱引き／綱ひき",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_01_tsunahiki",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_01_tsunahiki/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "綱ひき"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/40_tsunahiki",
           "md_file": "shoka_kyozai_shu_1923/grade_3_4/40_tsunahiki/index.md",
           "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "綱引き"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_01_tsunahiki",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_01_tsunahiki/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "綱ひき"
         }
       ]
     },
     {
       "id": "hagoromo",
       "title": "羽衣",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo",
-          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-          "raw_title": "羽衣"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/47_hagoromo",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/47_hagoromo/index.md",
@@ -3001,12 +3229,20 @@
           "md_file": "shokacho/vol_01/p157_hagoromo/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "羽衣"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo",
+          "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+          "raw_title": "羽衣"
         }
       ]
     },
     {
       "id": "kocho",
       "title": "胡蝶",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/06_kocho",
@@ -3025,6 +3261,8 @@
     {
       "id": "taiwannouta",
       "title": "臺灣の歌",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta",
@@ -3043,6 +3281,8 @@
     {
       "id": "taiwannofukei",
       "title": "臺灣の風景",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/6_07_taiwan_no_fukei",
@@ -3051,15 +3291,15 @@
           "raw_title": "臺灣の風景"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei",
-          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-          "raw_title": "臺灣の風景"
-        },
-        {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/34_taiwan_no_fukei",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/34_taiwan_no_fukei/index.md",
           "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "臺灣の風景"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
           "raw_title": "臺灣の風景"
         }
       ]
@@ -3067,17 +3307,19 @@
     {
       "id": "taiwankoshinka",
       "title": "臺灣行進歌",
+      "theme_category": "taiwan_and_south_seas",
+      "theme_category_label": "臺灣與南洋",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "臺灣行進歌"
-        },
         {
           "rel_dir": "taiwan_no_uta/6_taiwan_koshinka",
           "md_file": "taiwan_no_uta/6_taiwan_koshinka/index.md",
           "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
+          "raw_title": "臺灣行進歌"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
           "raw_title": "臺灣行進歌"
         }
       ]
@@ -3085,6 +3327,8 @@
     {
       "id": "buto",
       "title": "舞踏／無題・三拍子曲",
+      "theme_category": "arts_and_entertainment",
+      "theme_category_label": "藝術與娛樂",
       "entries": [
         {
           "rel_dir": "shokacho/vol_01/p171_buto",
@@ -3103,17 +3347,19 @@
     {
       "id": "kokai",
       "title": "航海",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_6/8_kokai",
-          "md_file": "kogakko_shoka/grade_6/8_kokai/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-          "raw_title": "航海"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai",
           "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai/index.md",
           "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+          "raw_title": "航海"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_6/8_kokai",
+          "md_file": "kogakko_shoka/grade_6/8_kokai/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
           "raw_title": "航海"
         }
       ]
@@ -3121,42 +3367,28 @@
     {
       "id": "funako",
       "title": "船子",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/17_funako",
-          "md_file": "kogakko_shoka/grade_5/17_funako/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "船子"
-        },
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_4_02_funako",
           "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_4_02_funako/index.md",
           "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
           "raw_title": "船子"
-        }
-      ]
-    },
-    {
-      "id": "hanasakajijii",
-      "title": "花さかぢぢい／花咲爺",
-      "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "花さかぢぢい"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "花咲爺"
+          "rel_dir": "kogakko_shoka/grade_5/17_funako",
+          "md_file": "kogakko_shoka/grade_5/17_funako/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
+          "raw_title": "船子"
         }
       ]
     },
     {
       "id": "hanasakajijii",
       "title": "花咲爺",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/3_07_hanasaka_jijii",
@@ -3173,8 +3405,30 @@
       ]
     },
     {
+      "id": "hanasakajijii",
+      "title": "花咲爺／花さかぢぢい",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "花咲爺"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "花さかぢぢい"
+        }
+      ]
+    },
+    {
       "id": "hana",
       "title": "花／ハナ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/2_02_hana",
@@ -3183,40 +3437,84 @@
           "raw_title": "花"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "ハナ（花）"
-        },
-        {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/33_hana",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/33_hana/index.md",
           "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "花"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "ハナ（花）"
+        }
+      ]
+    },
+    {
+      "id": "niguruma",
+      "title": "荷車／にぐるま",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/12_niguruma",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/12_niguruma/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "荷車"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_18_niguruma/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "にぐるま（人力車／運貨車）"
         }
       ]
     },
     {
       "id": "chikuonki",
       "title": "蓄音機",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki",
-          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-          "raw_title": "蓄音機（留聲機）"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/45_chikuonki",
           "md_file": "shoka_kyozai_shu_1923/grade_3_4/45_chikuonki/index.md",
           "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "蓄音機"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "蓄音機（留聲機）"
+        }
+      ]
+    },
+    {
+      "id": "hasuike",
+      "title": "蓮池",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/48_hasuike",
+          "md_file": "shoka_kyozai_shu_1923/grade_5_6/48_hasuike/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "蓮池"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_09_hasuike",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_09_hasuike/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "蓮池"
         }
       ]
     },
     {
       "id": "rannohana",
       "title": "蘭の花",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/1_06_ran_no_hana",
@@ -3234,7 +3532,9 @@
     },
     {
       "id": "kaerutokumo",
-      "title": "蛙と蜘蛛／カヘル ト クモ／蛙とくも／かへると くも",
+      "title": "蛙と蜘蛛／蛙とくも／カヘル ト クモ／かへると くも",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/6_02_kaeru_to_kumo",
@@ -3243,16 +3543,16 @@
           "raw_title": "蛙と蜘蛛"
         },
         {
-          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo",
-          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-          "raw_title": "カヘル ト クモ（青蛙與雲）"
-        },
-        {
           "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/57_kaeru_to_kumo",
           "md_file": "shoka_kyozai_shu_1923/grade_1_2/57_kaeru_to_kumo/index.md",
           "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "蛙とくも"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_05_kaeru_to_kumo/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "カヘル ト クモ（青蛙與雲）"
         },
         {
           "rel_dir": "utanohon/ge_2006.006.0878/8_kaeru_to_kumo",
@@ -3265,6 +3565,8 @@
     {
       "id": "hotarugari",
       "title": "螢狩",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/37_hotarugari",
@@ -3283,6 +3585,8 @@
     {
       "id": "mushinakunobe",
       "title": "蟲なく野邊／虫なく野辺",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/23_mushi_naku_nobe",
@@ -3301,6 +3605,8 @@
     {
       "id": "ashigarayama",
       "title": "足柄山",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_03_ashigarayama",
@@ -3319,13 +3625,9 @@
     {
       "id": "gunkan",
       "title": "軍艦",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
       "entries": [
-        {
-          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
-          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-          "raw_title": "軍艦"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/37_gunkan",
           "md_file": "shoka_kyozai_shu_1923/koto_1_2/37_gunkan/index.md",
@@ -3337,23 +3639,31 @@
           "md_file": "shokacho/vol_08/p012_gunkan/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
           "raw_title": "軍艦（軍艦）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
+          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+          "raw_title": "軍艦"
         }
       ]
     },
     {
       "id": "noshoko",
       "title": "農商工",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/9_no_sho_ko",
-          "md_file": "kogakko_shoka/grade_5/9_no_sho_ko/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "農商工"
-        },
         {
           "rel_dir": "kogakko_shokashu_1915/6_03_no_sho_ko",
           "md_file": "kogakko_shokashu_1915/6_03_no_sho_ko/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "農商工"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko",
+          "md_file": "shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "農商工"
         },
         {
@@ -3363,9 +3673,9 @@
           "raw_title": "農商工"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko",
-          "md_file": "shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+          "rel_dir": "kogakko_shoka/grade_5/9_no_sho_ko",
+          "md_file": "kogakko_shoka/grade_5/9_no_sho_ko/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
           "raw_title": "農商工"
         }
       ]
@@ -3373,6 +3683,8 @@
     {
       "id": "kingannoshikujiri",
       "title": "近眼のしくじり",
+      "theme_category": "arts_and_entertainment",
+      "theme_category_label": "藝術與娛樂",
       "entries": [
         {
           "rel_dir": "shokacho/vol_02/p080_kingan_no_shikujiri",
@@ -3391,6 +3703,8 @@
     {
       "id": "kokubetsu",
       "title": "送別の歌",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta",
@@ -3409,6 +3723,8 @@
     {
       "id": "shingun",
       "title": "進軍",
+      "theme_category": "national_military",
+      "theme_category_label": "國家、軍事與忠烈",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_1_854862/20_shingun",
@@ -3427,6 +3743,8 @@
     {
       "id": "undokai",
       "title": "運動會",
+      "theme_category": "school_and_collective_life",
+      "theme_category_label": "學校生活與集體活動",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/3_05_undokai",
@@ -3443,8 +3761,30 @@
       ]
     },
     {
+      "id": "undokai",
+      "title": "運動會／うんどうくわい",
+      "theme_category": "school_and_collective_life",
+      "theme_category_label": "學校生活與集體活動",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_08_undokai/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "運動會"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_3/10_undokai",
+          "md_file": "kogakko_shoka/grade_3/10_undokai/index.md",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "うんどうくわい（運動會）"
+        }
+      ]
+    },
+    {
       "id": "enbetsuri",
       "title": "遠別離",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/30_enbetsuri",
@@ -3463,37 +3803,49 @@
     {
       "id": "ensoku",
       "title": "遠足",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_4/10_ensoku",
-          "md_file": "kogakko_shoka/grade_4/10_ensoku/index.md",
-          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
-          "raw_title": "遠足"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_04_ensoku",
           "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_04_ensoku/index.md",
           "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
           "raw_title": "遠足"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_4/10_ensoku",
+          "md_file": "kogakko_shoka/grade_4/10_ensoku/index.md",
+          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
+          "raw_title": "遠足"
+        }
+      ]
+    },
+    {
+      "id": "nasunoyoichi",
+      "title": "那須與一／なすのよいち",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/49_nasu_no_yoichi",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/49_nasu_no_yoichi/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "那須與一"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_02_nasu_no_yoichi",
+          "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_02_nasu_no_yoichi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+          "raw_title": "なすのよいち（那須與一）"
         }
       ]
     },
     {
       "id": "teiseiko",
       "title": "鄭成功",
+      "theme_category": "history_and_legend",
+      "theme_category_label": "歷史人物與傳說",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/10_teiseiko",
-          "md_file": "kogakko_shoka/grade_5/10_teiseiko/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "鄭成功"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_06_teiseiko",
-          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_06_teiseiko/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-          "raw_title": "鄭成功"
-        },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/09_teiseiko",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/09_teiseiko/index.md",
@@ -3505,30 +3857,32 @@
           "md_file": "shokacho/vol_10/p217_teiseiko/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
           "raw_title": "鄭成功 (鄭成功 - 未完成草稿)"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_06_teiseiko",
+          "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_06_teiseiko/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+          "raw_title": "鄭成功"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_5/10_teiseiko",
+          "md_file": "kogakko_shoka/grade_5/10_teiseiko/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
+          "raw_title": "鄭成功"
         }
       ]
     },
     {
       "id": "kongoseki",
-      "title": "金剛石・水はうつは／金剛石・水は器／金剛石／金剛石、水は器",
+      "title": "金剛石・水は器／金剛石、水は器／金剛石／金剛石・水はうつは",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa",
-          "md_file": "kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa/index.md",
-          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-          "raw_title": "金剛石・水はうつは"
-        },
         {
           "rel_dir": "kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa",
           "md_file": "kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
           "raw_title": "金剛石・水は器"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "金剛石"
         },
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/27_kongoseki",
@@ -3541,12 +3895,46 @@
           "md_file": "shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
           "raw_title": "金剛石・水は器"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "金剛石"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa",
+          "md_file": "kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa/index.md",
+          "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
+          "raw_title": "金剛石・水はうつは"
+        }
+      ]
+    },
+    {
+      "id": "nagaioyasumi",
+      "title": "長いお休／ながいお休",
+      "theme_category": "school_and_collective_life",
+      "theme_category_label": "學校生活與集體活動",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi",
+          "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+          "raw_title": "長いお休"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_3/5_nagaioyasumi",
+          "md_file": "kogakko_shoka/grade_3/5_nagaioyasumi/index.md",
+          "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+          "raw_title": "ながいお休（長假）"
         }
       ]
     },
     {
       "id": "kaikokinenbi",
       "title": "開校記念日",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
       "entries": [
         {
           "rel_dir": "kogakko_shokashu_1915/6_08_kaiko_kinenbi",
@@ -3565,6 +3953,8 @@
     {
       "id": "jineinotsuki",
       "title": "陣營の月",
+      "theme_category": "other",
+      "theme_category_label": "其他",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/14_jinei_no_tsuki",
@@ -3583,6 +3973,8 @@
     {
       "id": "ame",
       "title": "雨",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
         {
           "rel_dir": "kyoeki_shoka/kan_2_854863/3_ame",
@@ -3601,17 +3993,19 @@
     {
       "id": "ameagari",
       "title": "雨上り",
+      "theme_category": "nature_and_seasons",
+      "theme_category_label": "自然、季節與風景",
       "entries": [
-        {
-          "rel_dir": "kogakko_shoka/grade_6/5_ameagari",
-          "md_file": "kogakko_shoka/grade_6/5_ameagari/index.md",
-          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-          "raw_title": "雨上り"
-        },
         {
           "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari",
           "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_08_ameagari/index.md",
           "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "雨上り"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_6/5_ameagari",
+          "md_file": "kogakko_shoka/grade_6/5_ameagari/index.md",
+          "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
           "raw_title": "雨上り"
         }
       ]
@@ -3619,6 +4013,8 @@
     {
       "id": "hibarinouta",
       "title": "雲雀の歌",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
       "entries": [
         {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/01_hibari_no_uta",
@@ -3631,6 +4027,26 @@
           "md_file": "shokacho/vol_01/p150_hibari_no_uta/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "雲雀の歌"
+        }
+      ]
+    },
+    {
+      "id": "mochitsuki",
+      "title": "餅搗／モチツキ",
+      "theme_category": "daily_life_and_play",
+      "theme_category_label": "日常生活與遊戲",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/58_mochitsuki",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/58_mochitsuki/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "餅搗"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_18_mochitsuki",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_18_mochitsuki/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "モチツキ（搗麻糬）"
         }
       ]
     }

@@ -300,6 +300,45 @@ BOOK_LABELS: dict[str, str] = {
     "shokacho/vol_10": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
 }
 
+# Publication chronology used by the duplicate index.  The order of the
+# corpus on disk is not chronological, so the display layer must not sort by
+# `rel_dir` when showing where a song appears.
+PUBLICATION_YEAR_BY_BOOK: dict[str, int] = {
+    "kyoeki_shoka": 1902,
+    "taiwan_shuyu_shoka": 1910,
+    "kogakko_shokashu_1915": 1915,
+    "shoka_kyozai_shu": 1923,
+    "shokacho": 1923,
+    "taiwan_no_uta": 1929,
+    "shintei_jido_shoka": 1930,
+    "utanohon": 1943,
+}
+
+PUBLICATION_YEAR_BY_KOGAKKO_VOLUME: dict[str, int] = {
+    "grade_1": 1935,
+    "grade_2": 1936,
+    "grade_3": 1935,
+    "grade_4": 1937,
+    "grade_5": 1938,
+    "grade_6": 1940,
+}
+
+
+def publication_sort_key(rel_dir: str) -> tuple[int, str, str]:
+    """Sort a score by source-book publication chronology, then stable path."""
+    parts = Path(rel_dir).parts
+    collection = parts[0]
+    volume = parts[1] if len(parts) >= 3 else ""
+    if collection == "kogakko_shoka":
+        year = PUBLICATION_YEAR_BY_KOGAKKO_VOLUME.get(volume, 1934)
+    elif collection.startswith("shoka_kyozai_shu"):
+        # The on-disk collection name includes `_1923`, while the chronology
+        # table uses the human-facing collection name.
+        year = 1923
+    else:
+        year = PUBLICATION_YEAR_BY_BOOK.get(collection, 9999)
+    return year, rel_dir, volume
+
 # Cross-title or variant-stem aliases discovered via melody + Foundation Hiragana lyrics matching
 SLUG_ALIASES: dict[str, str] = {
     "karen": "kaaren",
@@ -793,6 +832,185 @@ CURATED_DESCRIPTIONS: dict[str, str] = {
     "yuki": "同曲＋同名異曲（《公學校唱歌集》與《新定兒童唱歌》第二學年為文部省『尋常小學唱歌』〈雪〉「雪やこんこ…」同曲；《共益商社唱歌教科書》卷二〈雪〉為同名異曲）",
 }
 
+# A deliberately broad, editorial subject classification for the duplicate-song
+# index.  This is separate from musical relations such as `同曲` and
+# `同詞異曲`: a song may be musically identical across books while its subject
+# remains, for example, a school ceremony or a Taiwan-related topic.
+THEME_CATEGORY_LABELS: dict[str, str] = {
+    "ritual_and_commemoration": "儀式與紀念",
+    "national_military": "國家、軍事與忠烈",
+    "taiwan_and_south_seas": "臺灣與南洋",
+    "history_and_legend": "歷史人物與傳說",
+    "school_and_collective_life": "學校生活與集體活動",
+    "nature_and_seasons": "自然、季節與風景",
+    "animals_and_plants": "動物與植物",
+    "daily_life_and_play": "日常生活與遊戲",
+    "arts_and_entertainment": "藝術與娛樂",
+    "other": "其他",
+}
+
+THEME_CATEGORY_ORDER: tuple[str, ...] = tuple(THEME_CATEGORY_LABELS)
+
+# These are intentionally title-level editorial rules, not claims about the
+# historical classification used by the original editors.  Keep the sets
+# explicit so a future researcher can audit or revise every assignment.
+THEME_CATEGORY_BY_ID: dict[str, set[str]] = {
+    "ritual_and_commemoration": {
+        "ichigatsuichijitsu",
+        "chokugohoto",
+        "kimigayo",
+        "kigensetsu",
+        "tenchosetsu",
+        "shiseikinenbi",
+        "meijisetsu",
+        "taireihoshukushoka",
+        "kongoseki",
+        "sotsugyoshiki",
+        "sotsugyonouta",
+        "kaikokinenbi",
+    },
+    "national_military": {
+        "dainippon",
+        "gunkan",
+        "hirosechusa",
+        "nihonkaikaisen",
+        "shingun",
+        "wagakuniheishi",
+        "wagateikoku",
+        "chushin",
+        "suishieinokaiken",
+        "nintai",
+    },
+    "taiwan_and_south_seas": {
+        "korezotaiwan",
+        "taiwannouta",
+        "taiwannofukei",
+        "taiwankoshinka",
+        "suigyu",
+        "shinboku",
+        "nanyonouta",
+        "tokonatsunoshima",
+        "ikadakazura",
+    },
+    "history_and_legend": {
+        "urashimataro",
+        "nasunoyoichi",
+        "momotaro",
+        "issunboshi",
+        "ushiwakamaru",
+        "ninomiyasontoku",
+        "teiseiko",
+        "meijitennogyosei",
+        "shonanko",
+        "rokushisensei",
+        "niitakayama",
+    },
+    "school_and_collective_life": {
+        "undokai",
+        "nagaioyasumi",
+        "ichinensei",
+        "dosokai",
+        "nawatobi",
+        "sotsugyonouta",
+    },
+    "nature_and_seasons": {
+        "fujisan",
+        "umi",
+        "ame",
+        "ameagari",
+        "fujisan",
+        "harugakita",
+        "natsugeshiki",
+        "oborozukiyo",
+        "akinokojo",
+        "akinokoe",
+        "akinokaze",
+        "fuyunoyoru",
+        "yudachi",
+        "tsuki",
+        "tsukinose",
+        "matsushima",
+        "biwako",
+        "nanyonouta",
+        "taiwannofukei",
+    },
+    "animals_and_plants": {
+        "asagao",
+        "ahiru",
+        "inu",
+        "osaru",
+        "kakashi",
+        "katatsumuri",
+        "kinoha",
+        "kyabetsu",
+        "sarukani",
+        "hato",
+        "hiyoko",
+        "funsui",
+        "hatsuuguisu",
+        "hibarinouta",
+        "hikoki",
+        "kaerutokumo",
+        "kocho",
+        "morinokotori",
+        "rannohana",
+        "tsubame",
+        "nekotokaeru",
+        "hotarugari",
+        "mushinakunobe",
+        "kame",
+        "shichimencho",
+        "suigyu",
+    },
+    "daily_life_and_play": {
+        "okyakusama",
+        "oningyosan",
+        "otsukisan",
+        "saaasobimasho",
+        "sentaku",
+        "niguruma",
+        "kisha",
+        "kakashi",
+        "mochitsuki",
+        "tokeinouta",
+        "asaoki",
+        "asa",
+        "asakaze",
+        "muranokajiya",
+        "kishatokisen",
+        "kishanotabi",
+        "izumi",
+        "namitoisonoishi",
+        "unabara",
+        "minato",
+        "gyosen",
+        "toriire",
+        "noryo",
+        "takonouta",
+        "natsugeshiki",
+        "tokeinouta",
+        "waterloo",
+    },
+    "arts_and_entertainment": {
+        "buto",
+        "donburiko",
+        "jugoya",
+        "kingannoshikujiri",
+        "koronbusu",
+        "noryo",
+        "yudachi",
+        "yuhi",
+    },
+}
+
+
+def classify_theme_category(cid: str) -> str:
+    """Return one auditable, broad subject category for a duplicate cluster."""
+    for category in THEME_CATEGORY_ORDER:
+        if cid in THEME_CATEGORY_BY_ID.get(category, set()):
+            return category
+    return "other"
+
 
 # =============================================================================
 # 3. Song Parsing & Feature Extraction
@@ -1179,6 +1397,7 @@ def build_clusters(entries: list[SongEntry]) -> list[dict]:
         ]
         relation_type = "＋".join(ordered_rels)
         category = classify_cluster_category(cid, items, pair_relations)
+        theme_category = classify_theme_category(cid)
         display_title = build_display_title(items)
         description = auto_describe_cluster(
             cid, display_title, category, relation_type, items
@@ -1189,6 +1408,8 @@ def build_clusters(entries: list[SongEntry]) -> list[dict]:
                 "id": cid,
                 "display_title": display_title,
                 "category": category,
+                "theme_category": theme_category,
+                "theme_category_label": THEME_CATEGORY_LABELS[theme_category],
                 "relation_type": relation_type,
                 "description": description,
                 "entries": entry_dicts,
@@ -1233,7 +1454,10 @@ def build_duplicate_groups(clusters: list[dict]) -> list[dict]:
     for paths in components.values():
         if len(paths) < 2:
             continue
-        source_entries = [entry_by_path[path] for path in sorted(paths)]
+        source_entries = sorted(
+            (entry_by_path[path] for path in paths),
+            key=lambda entry: publication_sort_key(entry["rel_dir"]),
+        )
         titles: list[str] = []
         for entry in source_entries:
             if entry["jp_title"] not in titles:
@@ -1247,8 +1471,23 @@ def build_duplicate_groups(clusters: list[dict]) -> list[dict]:
             }
             for entry in source_entries
         ]
+        cluster = next(
+            cluster
+            for cluster in clusters
+            if cluster["id"] == source_entries[0]["norm_slug"]
+            and any(
+                item["rel_dir"] == source_entries[0]["rel_dir"]
+                for item in cluster["entries"]
+            )
+        )
         groups.append(
-            {"id": source_entries[0]["norm_slug"], "title": "／".join(titles), "entries": entries}
+            {
+                "id": source_entries[0]["norm_slug"],
+                "title": "／".join(titles),
+                "theme_category": cluster["theme_category"],
+                "theme_category_label": cluster["theme_category_label"],
+                "entries": entries,
+            }
         )
 
     return sorted(groups, key=lambda group: (group["title"], group["id"]))
@@ -1280,19 +1519,54 @@ def render_duplicate_songs_markdown(
         f"| 重複歌曲組 | **{len(duplicate_groups)}** |",
         f"| 重複出現次數 | **{duplicate_occurrences}** |",
         "",
-        "## 重複歌曲出處",
+        "## 題材分類",
         "",
-        "以下每一列是一首歌曲；同列的連結是它在全站出現的地方。相同曲名但詞曲不同者不列入。",
+        "這是依歌曲標題與目前研究脈絡建立的暫定主題分類；它不是原始歌本的正式分類，且每組歌曲目前只列入一個主分類。",
         "",
-        "| # | 歌曲 | 出現處 |",
-        "| :---: | :--- | :--- |",
+        "| 類型 | 重複歌曲組 | 歌曲出現次數 |",
+        "| :--- | ---: | ---: |",
     ]
-    for idx, group in enumerate(duplicate_groups, 1):
-        locations = "<br>".join(
-            f"**{entry['book_label']}**：[〈{entry['raw_title']}〉]({entry['md_file']})"
-            for entry in group["entries"]
+    category_counts = {
+        category: [
+            group for group in duplicate_groups if group["theme_category"] == category
+        ]
+        for category in THEME_CATEGORY_ORDER
+    }
+    for category in THEME_CATEGORY_ORDER:
+        groups = category_counts[category]
+        if not groups:
+            continue
+        lines.append(
+            f"| **{THEME_CATEGORY_LABELS[category]}** | **{len(groups)}** | **{sum(len(group['entries']) for group in groups)}** |"
         )
-        lines.append(f"| {idx} | **{group['title']}** | {locations} |")
+    lines.extend(
+        [
+            "",
+            "## 重複歌曲出處",
+            "",
+            "以下每一列是一首歌曲；同列的連結是它在全站出現的地方。相同曲名但詞曲不同者不列入。",
+            "",
+        ]
+    )
+    for category in THEME_CATEGORY_ORDER:
+        groups = category_counts[category]
+        if not groups:
+            continue
+        lines.extend(
+            [
+                f"### {THEME_CATEGORY_LABELS[category]}",
+                "",
+                "| # | 歌曲 | 出現處 |",
+                "| :---: | :--- | :--- |",
+            ]
+        )
+        for idx, group in enumerate(groups, 1):
+            locations = "<br>".join(
+                f"**{entry['book_label']}**：[〈{entry['raw_title']}〉]({entry['md_file']})"
+                for entry in group["entries"]
+            )
+            lines.append(f"| {idx} | **{group['title']}** | {locations} |")
+        lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
 
@@ -1307,12 +1581,27 @@ def main() -> None:
     total_volumes = len({f"{e.collection}/{e.volume}".rstrip("/") for e in entries})
     duplicate_occurrences = sum(len(group["entries"]) for group in duplicate_groups)
     duplicate_extras = sum(len(group["entries"]) - 1 for group in duplicate_groups)
+    category_counts = {
+        category: sum(
+            1 for group in duplicate_groups if group["theme_category"] == category
+        )
+        for category in THEME_CATEGORY_ORDER
+    }
 
     payload = {
         "total_corpus_songs": len(entries),
         "unique_song_count": len(entries) - duplicate_extras,
         "duplicate_group_count": len(duplicate_groups),
         "duplicate_occurrence_count": duplicate_occurrences,
+        "theme_categories": [
+            {
+                "id": category,
+                "label": THEME_CATEGORY_LABELS[category],
+                "duplicate_group_count": category_counts[category],
+            }
+            for category in THEME_CATEGORY_ORDER
+            if category_counts[category]
+        ],
         "duplicate_groups": duplicate_groups,
     }
 
