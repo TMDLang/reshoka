@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:school_life"
+~ "tag: origin:taiwan_official"
 ** 一年生 **
 != 100
 ?= F

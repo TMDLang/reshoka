@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:time_of_day"
 ~ "tag: theme:seasons"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:western_melody"
 ** 春の夕べ **
 != 96
 ?= F

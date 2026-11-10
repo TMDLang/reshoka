@@ -11,6 +11,8 @@
 ~ "tag: theme:travel"
 ~ "tag: theme:water"
 ~ "tag: theme:transport"
+~ "tag: origin:monbusho"
+~ "tag: origin:western_melody"
 ** コロンブス **
 != 104
 ?= E,

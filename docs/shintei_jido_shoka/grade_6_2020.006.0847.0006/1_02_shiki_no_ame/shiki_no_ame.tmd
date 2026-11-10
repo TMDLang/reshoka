@@ -7,6 +7,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:weather"
 ~ "tag: theme:seasons"
+~ "tag: origin:monbusho"
 ** 四季の雨 **
 != 69
 ?= G

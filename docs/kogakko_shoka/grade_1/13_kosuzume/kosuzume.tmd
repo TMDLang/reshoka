@@ -8,6 +8,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:animal"
+~ "tag: origin:taiwan_official"
+~ "tag: origin:taiwan_contest_1933"
 ** コスズメ（小麻雀） **
 != 100
 ?= F

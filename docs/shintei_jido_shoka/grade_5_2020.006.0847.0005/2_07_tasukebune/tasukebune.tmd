@@ -8,6 +8,9 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:transport"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:western_melody"
 ** 助船 **
 != 60
 ?= B,

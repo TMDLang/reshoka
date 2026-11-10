@@ -8,6 +8,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:imperial"
 ~ "tag: theme:ceremonial"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
 ** 紀元節 **
 != 92
 ?= C

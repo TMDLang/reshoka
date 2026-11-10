@@ -12,6 +12,7 @@
 ~ "tag: theme:military"
 ~ "tag: theme:water"
 ~ "tag: theme:transport"
+~ "tag: origin:meiji_textbook"
 ** 日本海軍 **
 != 120
 ?= G

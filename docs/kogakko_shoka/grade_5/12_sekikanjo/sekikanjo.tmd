@@ -10,6 +10,8 @@
 ~ "tag: theme:history"
 ~ "tag: theme:geography"
 ~ "tag: region:taiwan"
+~ "tag: origin:taiwan_official"
+~ "tag: origin:taiwan_contest_1933"
 ** 赤嵌城 **
 != 112
 ?= B,

@@ -8,6 +8,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:weather"
 ~ "tag: theme:seasons"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
 ** 朧月夜 (朦朧月夜) **
 != 72
 ?= D

@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:animal"
+~ "tag: origin:western_melody"
+~ "tag: origin:taisho_showa_mainland"
 ** 雞 **
 != 112
 ?= C

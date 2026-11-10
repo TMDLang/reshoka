@@ -10,6 +10,7 @@
 ~ "tag: theme:imperial"
 ~ "tag: theme:ceremonial"
 ~ "tag: location:taiwan"
+~ "tag: origin:taiwan_official"
 ** 始政紀念日 **
 != 100
 ?= C

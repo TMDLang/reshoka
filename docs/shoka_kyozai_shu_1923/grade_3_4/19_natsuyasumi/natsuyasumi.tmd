@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:school_life"
+~ "tag: origin:monbusho"
 ** 夏休 **
 != 108
 ?= F

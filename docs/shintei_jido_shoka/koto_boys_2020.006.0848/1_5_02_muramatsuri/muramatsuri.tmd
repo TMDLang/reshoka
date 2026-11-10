@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:festival"
 ~ "tag: theme:community"
+~ "tag: origin:monbusho"
+~ "tag: origin:taisho_showa_mainland"
 ** 村祭 **
 != 112
 ?= G

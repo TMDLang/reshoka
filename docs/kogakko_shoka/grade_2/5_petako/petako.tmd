@@ -5,6 +5,8 @@
 ~ "tag: provenance:printed_text"
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
+~ "tag: origin:taiwan_official"
+~ "tag: origin:taiwan_contest_1933"
 ** ペタコ（白頭翁） **
 != 100
 ?= C

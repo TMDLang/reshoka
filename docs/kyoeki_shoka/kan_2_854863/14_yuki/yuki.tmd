@@ -11,6 +11,7 @@
 ~ "tag: theme:weather"
 ~ "tag: theme:seasons"
 ~ "tag: theme:landscape"
+~ "tag: origin:meiji_textbook"
 ** 雪 **
 != 160
 ?= G

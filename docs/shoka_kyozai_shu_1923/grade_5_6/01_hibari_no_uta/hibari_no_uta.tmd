@@ -8,6 +8,9 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:animal"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:western_melody"
 ** 雲雀の歌 **
 != 100
 ?= A

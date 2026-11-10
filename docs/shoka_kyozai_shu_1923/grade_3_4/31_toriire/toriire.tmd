@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:work"
+~ "tag: origin:monbusho"
 ** 取入れ **
 != 116
 ?= F

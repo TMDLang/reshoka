@@ -6,6 +6,8 @@
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
 ~ "tag: theme:imperial"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:western_melody"
 ** 憲法發布 **
 != 80
 ?= E,

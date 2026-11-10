@@ -10,6 +10,8 @@
 ~ "tag: theme:nature"
 ~ "tag: theme:taiwan"
 ~ "tag: theme:mountain"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:taiwan_official"
 ** 新高山 **
 != 100
 ?= C

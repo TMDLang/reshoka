@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:daily_life"
+~ "tag: origin:monbusho"
 ** 時計 **
 != 108
 ?= D
