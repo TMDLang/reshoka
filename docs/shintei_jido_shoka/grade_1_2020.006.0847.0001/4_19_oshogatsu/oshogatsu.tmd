@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:seasons"
 ~ "tag: theme:festival"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:taisho_showa_mainland"
 ** オシヤウグワツ（新年） **
 != 100
 ?= F

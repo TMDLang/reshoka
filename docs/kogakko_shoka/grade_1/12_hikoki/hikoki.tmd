@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:transport"
+~ "tag: origin:taiwan_official"
 ** ヒカウキ（飛機） **
 != 120
 ?= F

@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:daily_life"
+~ "tag: origin:taiwan_official"
 ** せんたく **
 != 100
 ?= F

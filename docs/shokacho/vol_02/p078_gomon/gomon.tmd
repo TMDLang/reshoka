@@ -6,6 +6,8 @@
 ~ "tag: provenance:manuscript_copy"
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:taisho_showa_mainland"
 ** ゴモン **
 != 112
 ?= D

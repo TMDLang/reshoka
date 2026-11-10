@@ -9,6 +9,9 @@
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:maritime"
 ~ "tag: theme:moral"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:western_melody"
 ** 助船 **
 != 60
 ?= B,

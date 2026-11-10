@@ -48,8 +48,9 @@ def year_from_entry(entry) -> int:
 def build_same_title_groups(entries, duplicate_groups: list[dict]) -> list[dict]:
     version_by_path: dict[str, str] = {}
     for group in duplicate_groups:
+        root_dir = group["entries"][0]["rel_dir"]
         for occurrence in group["entries"]:
-            version_by_path[occurrence["rel_dir"]] = f"same-song:{group['id']}"
+            version_by_path[occurrence["rel_dir"]] = f"same-song:{group['id']}:{root_dir}"
 
     groups: dict[str, list] = {}
     for entry in entries:

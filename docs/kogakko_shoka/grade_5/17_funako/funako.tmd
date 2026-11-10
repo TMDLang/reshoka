@@ -8,6 +8,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:maritime"
+~ "tag: origin:monbusho"
+~ "tag: origin:taiwan_official"
 ** 船子 **
 != 68
 ?= D

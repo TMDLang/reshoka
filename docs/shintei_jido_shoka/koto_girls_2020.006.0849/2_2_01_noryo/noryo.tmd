@@ -7,6 +7,9 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:seasons"
 ~ "tag: theme:seasons"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:western_melody"
+~ "tag: origin:taisho_showa_mainland"
 ** 納涼 **
 != 88
 ?= A

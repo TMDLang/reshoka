@@ -9,6 +9,7 @@
 ~ "tag: theme:imperial"
 ~ "tag: theme:festival"
 ~ "tag: theme:ceremonial"
+~ "tag: origin:taiwan_official"
 ** 始政紀念日 **
 != 100
 ?= C

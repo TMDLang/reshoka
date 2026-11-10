@@ -7,6 +7,8 @@
 ~ "tag: evidence:scan_verified"
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
 ** 案山子 **
 != 112
 ?= F

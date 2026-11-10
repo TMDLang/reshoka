@@ -7,6 +7,7 @@
 ~ "tag: evidence:scan_verified"
 ~ "tag: version:source_transcription"
 ~ "tag: theme:transport"
+~ "tag: origin:unidentified"
 ** 汽車と汽船 **
 != 96
 ?= D

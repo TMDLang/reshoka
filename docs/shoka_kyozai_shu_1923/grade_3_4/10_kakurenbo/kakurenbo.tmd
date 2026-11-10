@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:play"
+~ "tag: origin:monbusho"
 ** かくれんぼ **
 != 88
 ?= C

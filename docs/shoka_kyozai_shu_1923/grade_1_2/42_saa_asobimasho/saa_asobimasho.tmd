@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:play"
+~ "tag: origin:taiwan_official"
 ** さあ遊びませう **
 != 120
 ?= F

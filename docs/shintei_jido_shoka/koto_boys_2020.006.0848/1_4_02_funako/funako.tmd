@@ -10,6 +10,8 @@
 ~ "tag: theme:transport"
 ~ "tag: theme:water"
 ~ "tag: theme:travel"
+~ "tag: origin:monbusho"
+~ "tag: origin:taiwan_official"
 ** 船子 **
 != 68
 ?= D

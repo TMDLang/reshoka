@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:friendship"
+~ "tag: origin:meiji_textbook"
 ** 朋友 **
 != 138
 ?= C

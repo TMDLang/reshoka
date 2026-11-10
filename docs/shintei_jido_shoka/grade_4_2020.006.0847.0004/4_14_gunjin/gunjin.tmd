@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:military"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
 ** 軍人 **
 != 116
 ?= F

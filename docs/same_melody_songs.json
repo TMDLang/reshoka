@@ -1,6 +1,6 @@
 {
   "total_corpus_songs": 1087,
-  "same_melody_different_lyrics_group_count": 15,
+  "same_melody_different_lyrics_group_count": 13,
   "groups": [
     {
       "versions": [
@@ -40,60 +40,6 @@
         }
       ],
       "id": "001_3_ame"
-    },
-    {
-      "versions": [
-        {
-          "id": "kogakko_shokashu_1915/5_01_shisei_kinenbi",
-          "lyrics": "ふそうのそらにたかひかるわがひのみこのまつりごとはじめてここにしきまししよきひおいはへばんざいに",
-          "titles": [
-            "始政紀念日",
-            "始政記念日"
-          ],
-          "year": 1915,
-          "occurrences": [
-            {
-              "rel_dir": "kogakko_shokashu_1915/5_01_shisei_kinenbi",
-              "md_file": "kogakko_shokashu_1915/5_01_shisei_kinenbi/index.md",
-              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-              "raw_title": "始政紀念日",
-              "year": 1915
-            },
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/27_shisei_kinenbi",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/27_shisei_kinenbi/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "始政紀念日",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi",
-              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-              "raw_title": "始政記念日",
-              "year": 1934
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_01/p125_shisei_kinenbi",
-          "lyrics": "たかさごじまのたみくさがあまねきめぐみのつゆうけてよみがへりたるよろこびおうたふきょうこそめでたけれ",
-          "titles": [
-            "始政紀念日"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_01/p125_shisei_kinenbi",
-              "md_file": "shokacho/vol_01/p125_shisei_kinenbi/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-              "raw_title": "始政紀念日",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "002_5_01_shisei_kinenbi"
     },
     {
       "versions": [
@@ -149,7 +95,7 @@
           ]
         }
       ],
-      "id": "003_5_08_meiji_tenno_gyosei"
+      "id": "002_5_08_meiji_tenno_gyosei"
     },
     {
       "versions": [
@@ -188,7 +134,7 @@
           ]
         }
       ],
-      "id": "004_01_kisha_to_kisen"
+      "id": "003_01_kisha_to_kisen"
     },
     {
       "versions": [
@@ -227,7 +173,7 @@
           ]
         }
       ],
-      "id": "005_46_aki_no_kaze"
+      "id": "004_46_aki_no_kaze"
     },
     {
       "versions": [
@@ -266,7 +212,7 @@
           ]
         }
       ],
-      "id": "006_47_misora_no_kagami"
+      "id": "005_47_misora_no_kagami"
     },
     {
       "versions": [
@@ -305,7 +251,7 @@
           ]
         }
       ],
-      "id": "007_04_teishaba_no_suzu"
+      "id": "006_04_teishaba_no_suzu"
     },
     {
       "versions": [
@@ -368,7 +314,7 @@
           ]
         }
       ],
-      "id": "008_08_sobetsu_no_uta"
+      "id": "007_08_sobetsu_no_uta"
     },
     {
       "versions": [
@@ -407,46 +353,7 @@
           ]
         }
       ],
-      "id": "009_11_koronbusu"
-    },
-    {
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/koto_1_2/14_jinei_no_tsuki",
-          "lyrics": "たたかひかちたりてきぐんにげつとどろくつつおとがいかのひびきゅうしほのごとくにみちくるわがぐんはやしのしたかげあなたにこなたにひらめくひのはた",
-          "titles": [
-            "陣營の月"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/14_jinei_no_tsuki",
-              "md_file": "shoka_kyozai_shu_1923/koto_1_2/14_jinei_no_tsuki/index.md",
-              "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "陣營の月",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_08/p019_jinei_no_tsuki",
-          "lyrics": "あれみよたかねにてるつきのかげもさやかにふけわたるつわものねむるじんえいのかがりびすごくもえのこりこまのいななきさびしくてしもおくじんやにかぜさむし",
-          "titles": [
-            "陣營の月"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_08/p019_jinei_no_tsuki",
-              "md_file": "shokacho/vol_08/p019_jinei_no_tsuki/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
-              "raw_title": "陣營の月（軍營之月）",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "010_14_jinei_no_tsuki"
+      "id": "008_11_koronbusu"
     },
     {
       "versions": [
@@ -485,7 +392,7 @@
           ]
         }
       ],
-      "id": "011_22_shiki_no_sanpo"
+      "id": "009_22_shiki_no_sanpo"
     },
     {
       "versions": [
@@ -524,7 +431,7 @@
           ]
         }
       ],
-      "id": "012_p131_tennen_no_bi"
+      "id": "010_p131_tennen_no_bi"
     },
     {
       "versions": [
@@ -563,7 +470,7 @@
           ]
         }
       ],
-      "id": "013_p109_tonbi"
+      "id": "011_p109_tonbi"
     },
     {
       "versions": [
@@ -602,7 +509,7 @@
           ]
         }
       ],
-      "id": "014_p026_aki_no_kojo"
+      "id": "012_p026_aki_no_kojo"
     },
     {
       "versions": [
@@ -641,7 +548,7 @@
           ]
         }
       ],
-      "id": "015_2_07_tasukebune"
+      "id": "013_2_07_tasukebune"
     }
   ]
 }

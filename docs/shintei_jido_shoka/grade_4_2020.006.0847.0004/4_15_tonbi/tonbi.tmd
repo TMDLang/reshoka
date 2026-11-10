@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:animal"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:taisho_showa_mainland"
 ** とんび **
 != 96
 ?= C

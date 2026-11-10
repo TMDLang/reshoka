@@ -1,6 +1,6 @@
 # 人工校對進度紀錄（Proofreading Checklist）
 
-本頁追蹤全站 **31 冊、1,071 首**歷史曲目之人工校對進度（目前已校對 **705 / 1,071** 首，完成率 **65.8%**）。
+本頁追蹤全站 **31 冊、1,071 首**歷史曲目之人工校對進度（目前已校對 **706 / 1,071** 首，完成率 **65.9%**）。
 
 ## 校對檢核要點
 
@@ -40,14 +40,14 @@
 | 《楊金土手抄唱歌帖》       | [第 2 冊（II）](#shokacho_vol_02)                                 |       0 |      35 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 3 冊（I）](#shokacho_vol_03)                                  |       3 |      22 |       14% |
 | 《楊金土手抄唱歌帖》       | [第 7 冊（VII・蓬萊唱歌集上）](#shokacho_vol_07)                  |       4 |      32 |       12% |
-| 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       0 |      22 |        0% |
+| 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       1 |      22 |        5% |
 | 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |       4 |        0% |
 | 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |       2 |      31 |        6% |
 | 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第一、二學年](#shoka_kyozai_shu_1923_grade_1_2)           |      60 |      60 |      100% |
 | 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第三、四學年](#shoka_kyozai_shu_1923_grade_3_4)           |      50 |      50 |      100% |
 | 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第五、六學年](#shoka_kyozai_shu_1923_grade_5_6)           |      51 |      51 |      100% |
 | 《新編 小學校・公學校 唱歌教材集》 | [高等科 第一、二學年](#shoka_kyozai_shu_1923_koto_1_2)            |      40 |      40 |      100% |
-| **合計**                   | **全 31 冊**                                                      | **705** | **1,071** | **65.8%** |
+| **合計**                   | **全 31 冊**                                                      | **706** | **1,071** | **65.9%** |
 
 ---
 
@@ -948,7 +948,7 @@
 - [ ] **P256 落葉 (落葉)**（`B,` / `3/4`）— [單曲頁](shokacho/vol_07/p256_ochiba/index.md) · [主譜 TMD](shokacho/vol_07/p256_ochiba/ochiba.tmd) · [伴奏 TMD](shokacho/vol_07/p256_ochiba/ochiba_piano.tmd)
 - [ ] **P257 近眼のしくじり (近視眼的失誤)**（`C` / `4/4`）— [單曲頁](shokacho/vol_07/p257_chikame_no_shikujiri/index.md) · [主譜 TMD](shokacho/vol_07/p257_chikame_no_shikujiri/chikame_no_shikujiri.tmd) · [伴奏 TMD](shokacho/vol_07/p257_chikame_no_shikujiri/chikame_no_shikujiri_piano.tmd)
 
-### 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）（0 / 22 首） {#shokacho_vol_08}
+### 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）（1 / 22 首） {#shokacho_vol_08}
 
 - [ ] **P005 銀杏の樹（銀杏樹）**（`C` / `6/8`）— [單曲頁](shokacho/vol_08/p005_icho_no_ki/index.md) · [主譜 TMD](shokacho/vol_08/p005_icho_no_ki/icho_no_ki.tmd) · [伴奏 TMD](shokacho/vol_08/p005_icho_no_ki/icho_no_ki_piano.tmd)
 - [ ] **P006 繪本（圖畫書）**（`C` / `4/4`）— [單曲頁](shokacho/vol_08/p006_ehon/index.md) · [主譜 TMD](shokacho/vol_08/p006_ehon/ehon.tmd) · [伴奏 TMD](shokacho/vol_08/p006_ehon/ehon_piano.tmd)
@@ -962,7 +962,7 @@
 - [ ] **P016 霧（霧）**（`A` / `3/8`）— [單曲頁](shokacho/vol_08/p016_kiri/index.md) · [主譜 TMD](shokacho/vol_08/p016_kiri/kiri.tmd) · [伴奏 TMD](shokacho/vol_08/p016_kiri/kiri_piano.tmd)
 - [ ] **P017 怒るな働け（不要發怒，努力工作）**（`G` / `4/4`）— [單曲頁](shokacho/vol_08/p017_ikaruna_hatarake/index.md) · [主譜 TMD](shokacho/vol_08/p017_ikaruna_hatarake/ikaruna_hatarake.tmd) · [伴奏 TMD](shokacho/vol_08/p017_ikaruna_hatarake/ikaruna_hatarake_piano.tmd)
 - [ ] **P018 朝の祈り（早晨的祈禱）**（`D,` / `4/4`）— [單曲頁](shokacho/vol_08/p018_asa_no_inori/index.md) · [主譜 TMD](shokacho/vol_08/p018_asa_no_inori/asa_no_inori.tmd) · [伴奏 TMD](shokacho/vol_08/p018_asa_no_inori/asa_no_inori_piano.tmd)
-- [ ] **P019 陣營の月（軍營之月）**（`F` / `4/4`）— [單曲頁](shokacho/vol_08/p019_jinei_no_tsuki/index.md) · [主譜 TMD](shokacho/vol_08/p019_jinei_no_tsuki/jinei_no_tsuki.tmd) · [伴奏 TMD](shokacho/vol_08/p019_jinei_no_tsuki/jinei_no_tsuki_piano.tmd)
+- [x] **P019 陣營の月（軍營之月）**（`F` / `4/4`）— [單曲頁](shokacho/vol_08/p019_jinei_no_tsuki/index.md) · [主譜 TMD](shokacho/vol_08/p019_jinei_no_tsuki/jinei_no_tsuki.tmd) · [伴奏 TMD](shokacho/vol_08/p019_jinei_no_tsuki/jinei_no_tsuki_piano.tmd) — 已依序檢視（對照 `P019.jpg` 與一條慎三郎編《唱歌教材集》高等科第 14 首）
 - [ ] **P020 深林逍遥（漫步深林）**（`A,` / `6/8`）— [單曲頁](shokacho/vol_08/p020_shinrin_shoyo/index.md) · [主譜 TMD](shokacho/vol_08/p020_shinrin_shoyo/shinrin_shoyo.tmd) · [伴奏 TMD](shokacho/vol_08/p020_shinrin_shoyo/shinrin_shoyo_piano.tmd)
 - [ ] **P021 早く家へ帰りませう（快回家吧）**（`C` / `4/4`）— [單曲頁](shokacho/vol_08/p021_hayaku_ie_e_kaerimasho/index.md) · [主譜 TMD](shokacho/vol_08/p021_hayaku_ie_e_kaerimasho/hayaku_ie_e_kaerimasho.tmd) · [伴奏 TMD](shokacho/vol_08/p021_hayaku_ie_e_kaerimasho/hayaku_ie_e_kaerimasho_piano.tmd)
 - [ ] **P022 田舎の夕暮（鄉村的黃昏）**（`E,` / `3/4`）— [單曲頁](shokacho/vol_08/p022_inaka_no_yugure/index.md) · [主譜 TMD](shokacho/vol_08/p022_inaka_no_yugure/inaka_no_yugure.tmd) · [伴奏 TMD](shokacho/vol_08/p022_inaka_no_yugure/inaka_no_yugure_piano.tmd)

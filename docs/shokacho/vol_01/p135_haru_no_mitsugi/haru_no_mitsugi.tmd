@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:weather"
 ~ "tag: theme:seasons"
+~ "tag: origin:taisho_showa_mainland"
 ** 春のみつぎ **
 != 104
 ?= C

@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:animal"
+~ "tag: origin:monbusho"
 ** 雀 **
 != 100
 ?= F

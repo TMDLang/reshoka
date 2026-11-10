@@ -7,6 +7,9 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:work"
 ~ "tag: theme:travel"
+~ "tag: origin:meiji_textbook"
+~ "tag: origin:western_melody"
+~ "tag: origin:taisho_showa_mainland"
 ** 海國男子 **
 != 96
 ?= F

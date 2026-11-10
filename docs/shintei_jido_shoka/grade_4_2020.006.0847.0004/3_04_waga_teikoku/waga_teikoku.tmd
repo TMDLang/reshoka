@@ -8,6 +8,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:imperial"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
 ** 我が帝國 **
 != 108
 ?= F

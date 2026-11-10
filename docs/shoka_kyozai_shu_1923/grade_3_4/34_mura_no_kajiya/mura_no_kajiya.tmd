@@ -8,6 +8,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:work"
+~ "tag: origin:monbusho"
+~ "tag: origin:meiji_textbook"
 ** 村の鍛冶屋 **
 != 84
 ?= F

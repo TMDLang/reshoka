@@ -8,6 +8,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: orthography:historical_kana"
 ~ "tag: theme:seasons"
+~ "tag: origin:monbusho"
+~ "tag: origin:taiwan_official"
 ** 春の野 **
 != 116
 ?= G

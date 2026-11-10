@@ -76,7 +76,11 @@ python3 .agents/skills/shoka-score-grounding/scripts/slice_score.py path/to/song
 ### 步驟 3：撰寫或修改 TMD 檔案
 
 編輯主旋律 `.tmd`：
-* Metadata 標籤：若採用歷史假名遣，加入 `~ "tag: orthography:historical_kana"`。
+* Metadata 標籤（詳見 [Metadata 標籤與「歌曲來源系譜」分類規範](./references/metadata_tags.md)）：
+  * 基本書目：`collection:`、`volume:`、`source:`、`source_page:`、`provenance:`、`evidence:`、`version:`。
+  * 若採用歷史假名遣，加入 `~ "tag: orthography:historical_kana"`。
+  * **歌曲來源系譜（`~ "tag: origin:<類別>"`，支援多重來源複選）**：依文獻考證標註 `monbusho`、`meiji_textbook`、`western_melody`、`taisho_showa_mainland`、`taiwan_official`、`taiwan_teacher`、`taiwan_contest_1933`、`traditional_east_asian` 或 `unidentified`。
+  * **主題標籤（`~ "tag: theme:<主題>"`，支援複選）**。
 * 調號（`?=`）與明確調性標註（`key=`）
 * 拍號（`<4/4>`、`<2/4>`、`<3/4>`）
 * 每小節以 `| ... |` 嚴格包覆，時值總和精確相符。
@@ -107,6 +111,7 @@ python3 scripts/generate_song_markdown.py --force path/to/song_dir
 
 ## 參考文獻與專題手冊
 
+* [Re:shōka `.tmd` Metadata 標籤與「歌曲來源系譜」分類規範（`tag: origin:` 多重來源體系與 `tag: theme:` 主題代碼）](./references/metadata_tags.md)
 * [歷史假名遣轉錄指南與常見對照手冊（ハ行轉呼音、合拗音、濁點省略、舊字體）](./references/historical_kana.md)
 * [日治時期學校唱歌音階與旋法手冊（都節音階、律音階、四七拔）](./references/scales_and_modes.md)
 * [歷史活字鉛版印刷缺陷與排版陷阱手冊（肥符頭、墨暈、斷線、雙層歌詞）](./references/notation_defects.md)

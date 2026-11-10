@@ -296,6 +296,8 @@ def main() -> None:
     groups = build_melody_groups(entries)
     detail_dir = docs_dir / "same_melody_songs"
     detail_dir.mkdir(exist_ok=True)
+    for old_md in detail_dir.glob("*.md"):
+        old_md.unlink()
     for index, group in enumerate(groups, 1):
         group["id"] = safe_file_id(group, index)
         (detail_dir / f"{group['id']}.md").write_text(

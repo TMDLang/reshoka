@@ -98,6 +98,7 @@ MKDOCS_CONFIG_HEADER: list[str] = [
     "",
     "nav:",
     "  - 首頁: index.md",
+    "  - 唱歌教材的流動與變化: shoka_genealogy.md",
     "  - 跨冊重複與同名歌曲索引: duplicate_songs.md",
     "  - 同一歌名的多個版本: same_title_songs.md",
     "  - 同詞異曲歌曲: same_lyrics_songs.md",

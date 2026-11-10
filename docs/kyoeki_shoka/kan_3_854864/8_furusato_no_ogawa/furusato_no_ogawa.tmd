@@ -12,6 +12,7 @@
 ~ "tag: theme:family"
 ~ "tag: theme:emotion"
 ~ "tag: theme:travel"
+~ "tag: origin:meiji_textbook"
 ** 故郷の小川 **
 != 42
 ?= F
