@@ -72,27 +72,30 @@ Q:1/4=100
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-z4 z2 D2 | D2 B,2 D2 G2 | G4 D2 D2 | E2 E2 F2 F2 |
-w: 1.~い | く さ の ふ | ね を あ | つ め う か
-w: 2.~し | め ん は う | み の わ | が て い こ
-G6 G2 | A2 A2 A2 A2 | B4 G2 G2 | A2 A2 E2 F2 |
-w: 1.~べ わ | が ひ の も | と の う | み を ま も
-w: 2.~く あ | だ な み い | か に よ | す る と て
-D6 D2 | F2 F2 A2 A2 | c4 F2 F2 | G2 G2 B2 B2 |
-w: 1.~る ま | ひ づ る さ | せ ほ く | れ よ こ す
-w: 2.~も み | な と に か | た き ま | も り あ り
-d6 B2 | c2 B2 A2 B2 | c4 E2 E2 | D2 B2 A2 F2 |
-w: 1.~か み | な と は か | た し ふ | ね は つ よ
-w: 2.~て み | よ は し づ | か に く | に は や す
-G6 z2 |
-w: 1.~し
-w: 2.~し
+z4 z2 D2 | G3 D G2 B2 | G4 G2 D2 | A3 D A2 c2 |
+w: い | く さ の ふ | ね を あ | つ め う か
+B6 c2 | B3 c B2 c2 | B4 G2 D2 | D3 c B2 A2 |
+w: べ わ | が ひ の も | と の う | み を ま も
+G6 D2 | F3 F A2 D2 | G4 B2 D2 | F2 A2 c2 e2 |
+w: る ま | ひ づ る さ | せ ほ く | れ よ こ す
+d6 B2 | B3 c B2 c2 | B4 G2 D2 | D3 c B2 A2 |
+w: か み | な と は か | た し ふ | ね は つ よ
+G6 z2 | z4 z2 D2 | G3 D G2 B2 | G4 G2 D2 |
+w: し | し | め ん は う | み の わ
+A3 D A2 c2 | B6 c2 | B3 c B2 c2 | B4 G2 D2 |
+w: が て い こ | く あ | だ な み い | か に よ
+D3 c B2 A2 | G6 D2 | F3 F A2 D2 | G4 B2 D2 |
+w: す る と て | も み | な と に か | た き ま
+F2 A2 c2 e2 | d6 B2 | B3 c B2 c2 | B4 G2 D2 |
+w: も り あ り | て み | よ は し づ | か に く
+D3 c B2 A2 | G6 z2 |
+w: に は や す | し
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gunko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-Zm5mSWJBZVIsSBhqVn5lnlpmZmZWJxGVS6PLW4JLUoLz43NSc_BahbS0vhxe7eZzvWK2hpcSnaKhgaGHDZ2yq4c9kY6ZvYgXTnVBZlJhdbKTxdsvzppJ7nUzY83b3r2YqdYJOT83ML8otTi6wUnveueDqn--WiFc_W9oClXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKRqDyxw3dTzd0P92x4_nyic_XrHnauvbp2h1Pd255PmXF-z0doNjQA8aBHig2gAwDs_d7OpW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7rrxcp5T1tXPJvWDnTF0w29z9o7FQIMLAz1sgrS3-_pASp-uaBRoUBPwdQCyH3a3_yioRno3WdzJwA9oWBopvBy2TSgU9_vmQUy_mXD_Ke7lgENfrFwxbPmVqDosy27n-2d-Li5G2j8o5krbYEhD1QOUvti1f5nDctBjujufTFzPlDt48YVL6duB4o_nT37aUfbk53dT3b1AGWfrp0A1O0OihugpAIwyhSAolBjnuydA_QCUDdazIF9277rxcypQDnkeOMC69rRAHbDbqAxHY8bWx439j9uBKrsfNy47kXHzsdNk17Obnvc1Phs67rHjWCznnVMfNzY82z6UqCKZ3PWgMit24Hqnq7reNzUDTasY97LbVseNzQ-2TvhyY5pT_bPBbKfTuwEks9WrHq5oOPFZrClwGT4uHH90wXA4AFa3f24Eeh3oL3TQfYCxfdsB7IhjtzVA_bF7Nkv5y4CK54OdNLjpslg9etB9gNdAXbX0x1zgR4Ea9rd_mwzRHXT48YFjxtXPW7cD9YA9CTQstVP1wMZM4FuBgb348Zlj5ua4I5aDXTU48ZesJe6QPpB5DKwG_YtfLJ7MdDSl3PnQF3SCAwJYKwCDV4NtBrk8nXAZADUCTIe4iOQTsrTLRQoaOlzcbmX5mXnWwVkJublO9QY1FSDbFCwMTTTsgOzsGUXBWBCBUb3i4U9ChomCk839D9f36ADT-OaWDQALYIapgHUqGml8LhpiUINkFwPxFsVHjf3AfFUkEhzLxBvAoouAvNagHghkLcMiFeDRWYCMbDQQTJwVw_IwMbpYAMbgXgykAc0uLENJNK4H4jXAUX7wbweIAYa1gg0uHEyWKQfiJtgBtYoGCjogiGINo0HEjUQyhhEgFmGYEEQCYJgIahCMxAFJszhBEIlCIL1gm3yMaxRAMmDIIgGOQmkGuQgEG8qmFwHJrdCZdZC1QMzCVi8CSq-BCzWCBZrA5PdUJmdSHaDggBuuxG67dMhOiCmAIMQJLYebiIkIKHmQFwFMQ0cpCCxZXA_gAIW4RO47RDXgrMh7lS1q4eyVLUGmDomQdMTJAV1QHjAFATizYekruZ5cPnVYB6W9LQAiFdB008L2DvdQAxU3tQB5gETYhNIZAXY86CgawKrhqckI6B_kXGNgjFSKoCkIpgcItFAkxsMQlIWPMXAQnsTUjzAUsEK1PhBiTdYitmHrAPofOT4AckhUgcoAECiq8Ak2Ax4CoXpAwUHyLwOqPhMMA8kC3ENJFVAggbZJpBphFLCjk6KUgI4FbRC4hdYwoDcsBvImw0uc0DxDkopwKhr2gzEO8HyoJQwH1tKAKUCUCwDFQC9DvIoMBk1AgsqYJBB472pC5zAQTRIHlTCIKUERGmASAsm0NBALylAGJROQBiYFpDCDSyClBIgaWApUpiDygyQzGx4SO8Gk9Cc2gROO-DYguRRSIwhxyhy_CBSAiQNQGIUHOPw8mU-XE8vmASnIWh8gwIDlu8hbEjQkJgSgJU1ZSkBGDXgUgBY0EPqkCZglm7ajlLjAOXAdc0KsPx2LKkAGGyQWmU6ONCRygNg8IJ4IBaoOgPVLDPBItMRKQAU26D4A8U9JGZh8Y-oM2AVDVQZltoDVCchpwDkeIGU1ZjxAirXUWsQmFpIrQHLuyB1MIhU5oDiH5piILog5oFSHZaSAJbSoDywDmCAIKc0THtqubh07RTA7RAFIEOZCwA)]
-- [鋼琴伴奏 TMD 檔案](gunko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_fZjvXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwMue1sFdy4bI30TO646BaWcyqLM5GIrhadLlj-d1PN8yoanu3c9W7FTCSSXnJ9bkF-cWmSl8Lx3xdM53S8XrXi2tgcs9aJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNgKVP27ofrqh--mOHc-XT3y-Zs3T1rVP1-54unPL8ykrgC41MjAy0DMwMNMzsDAxBzIMzICOVeLici_Ny863CshMzMsP8nCoMaip5lIAAhtDMy07MEtfS8EWHSgAzX-yo-HFwh4FDROFpxv6n69v0FEIMLAw1MsqSNfEokFLH2xYjYKBgi4YgmjTeCBRA6GMQQSYZQgWBJEgCBaCKjQDUWDCHE4gVIIgWC_YJh_DGgWQPAiC6MeNLWDVjxv7wbypYHIdmNwKlVkLVf-4aRJYvAkqvgQs1ggWawOT3VCZnUh2P24CmQy13Qjd9ukQHRBTmiaDxdbDTQSZtR9mDsRVENOAvB6w2DK4Hx43gnTDfAK3HeJaLvxxtquHnDgzApqMjGsUjJHCGxJfMDlE9EAjFgYhcQiPG5i_NiH5GBbeK1BDAiWEYHGzD1lHEyg-ECEBkkPEw-PGBWDRVWASbAY8LcD0PW5cDTavAyo-E8wDyUJcAwl_kE0gGxE2gUwjFOY7OskJc0QKR4S6CdRe9NQPwqAYAWFgqCO5ECyCFOaQ0F6K5DtQPgDJzIb7aTeYhKa-JnAsgcMFku4gYYMcdsghgQhzSGhDwg4ctvA8Mx-upxdMgmMLGrKPm7rAYgg2SAco7EkK86ezZ5MT5qDwBYUYKLQhYQkLcUTJAyuuoMqwlEGgkg05zJFDApLjMUMCVDqglkMwtZCyB5YuQepgECk_gUIcGkcQXRDzQPGMJZXD4hbKA-togpQssLjFtKcWparwQa4qTKA1BahwNwAFRrxCtGEsMsMkPh4YbPEQIaASqHKQULRpPIpSI5CYEVgMJI1VMTZ9uAwGWR1tgkUbSDXQU7p2CmB_RfsAjUFwjMAcZS4A)]
+- [主旋律 TMD 檔案](gunko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIrQDYgvSExPtQowsDBAyKSWZaakgjQWJyfmxZelFmWmZaamIOTzi0oy8oFuLMiotMrILC7JL8pMTsyJz07MQ_ZKalEx2LsQa0qKEvOKk4syC0BhgFBVkpEK9G9uZk5mSWJRJbIVmemZeVa5qZlZmVg8B5UuTy0uSS3Ki89NzclPAerW0lJ4sbv32Y71ClpaXIq2CoYGBlz2tgruXDZG-iZ2IN05lUC3FlspPF2y_OmknudTNjzdvevZip1gk5Pzcwvyi1OLrBSe9654Oqf75aIVz9b2gKVetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMpGoPLHDd1PN3Q_3bHj-fKJz9esedq69unaHU93bnk-ZcX7PR2gCNUDRqMeKEKBDAOz93s6lbi49LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHuuvFynlPW1c8m9YOdMXTDb3P2jsVgJFuqJdVkP5-Tw9Q8csFjQoFegqmFkDu0_7mFw3NQO8-mzsB6AkFQzOFl8umAZ36fs8skPEvG-Y_3bUMaPCLhSueNbcCRZ9t2f1s78THzd1A4x_NXGkLDHmgcpDaF6v2P2tYDnJEd--LmfOBah83rng5dTtQ_Ons2U872p7s7H6yqwco-3TtBKBud1DcACUVgFGmABSFGvNk7xygF4C60WIO7Nv2XS9mTgXKIccbF1jXjgawG3YDjel43NjyuLH_cSNQZefjxnUvOnY-bpr0cnbb46bGZ1vXPW4Em_WsY-Ljxp5n05cCVTybswZEbt0OVPd0Xcfjpm6wYR3zXm7b8rih8cneCU92THuyfy6Q_XRiJ5B8tmLVywUdLzaDLQUmw8eN658uAAYP0Orux41AvwPtnQ6yFyi-ZzuQDXHkrh6wL2bPfjl3EVjxdKCTHjdNBqtfD7If6Aqwu57umAv0IFjT7vZnmyGqmx43LnjcuOpx436wBqAngZatfroeyJgJdDMwuB83Lnvc1AR31Gqgox439oK91AXSDyKXgd2wb-GT3YuBlr6cOwfqkkZgSABjFWjwaqDVIJevAyYDoE6Q8RAfgXRSnm6hQEFLn4vLvTQvO98qIDMxL9-hxqCmGmSDgo2hmZYdmIUtuygAEyowul8s7FHQeLpn44ut2xW0FUwUnm7of76-QQeU2A1AiV0Ti06gjSBTaxQMFHTBEESbxgOJGgVDsACQA2IYIwnpgmmoKiOYKhDDBCwEUguDYBGwHT6GNQogLSAIooHRBVYNTJhgMWDqBOJ1YNZWqMxaqHpgKgSLN0HFl0BFG4HsNrBMN1RmJ5Ldj5tAJkNtN0K3fTpEB9AMiNrJQLH1YBmQiSCz9sPMgbgKYhqQ1wMVXQb1w-PGySg-gekCuxacznFH264ecLSRGFuQEDYB06hhjhQzYAqmChQ7iPiDRhly1CC8tQnuYVhwr0ANCLQAAkXO48Z9yDqaQNGBCAiQHCIagHkWKr4KagYiKcD0AbMc2LwOqPhMqE3dUNeAAh9iE8hGhE0g0wgF-Y5OcoLcHBKaQAoUlChZBJI7oEJgdbC8YAaJCCQngvMRUqBvgjp8KTTQQLkA4uXZcE_tBpPQ1NcEiiZIwEDSHSRwkAMPOSgQgb4KKr4CFrjwPDMfrqcXTIKjCxq0wAISLIZgg3SAAp-kQAeW8AOVzkElGnKII4cDJL9jhgOobEAvhUCqISUPIlmC1MEgUnYChTdYDUwXxLylUF1oiRwWs2AeVEcTpFyBxSymPbVcXLp2CuDKItrHMFYBwTECc5S5AA)]
+- [鋼琴伴奏 TMD 檔案](gunko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_fZjvXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDAwMue1sFdy4bI30TO646BaWcyqLM5GIrhadLlj-d1PN8yoanu3c9W7FTCSSXnJ9bkF-cWmSl8Lx3xdM53S8XrXi2tgcs9aJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNgKVP27ofrqh--mOHc-XT3y-Zs3T1rVP1-54unPL8ykrgC41MjAy0DMwMNMzsDAxBzIMzICOVeLici_Ny863CshMzMsP8nCoMaip5lIAAhtDMy07MEtfS8EWHSgAzX-yo-HFwh4Fjad7Nr7Yul1BW8FE4emG_ufrG3QUAgwsDPSyCtI1sejU0gebWqNgoKALhiDaNB5I1CgYggWAHBDDGElIF0xDVRnBVIEYJmAhkFoYBIuA7fAxrFEAaQFBEP24sQWs-nFjP1jsceNUIF4HZm2FyqyFqn_cNAks3gQVXwIVbQSy28Ay3VCZnUh2P24CmQy13Qjd9ukQHUAzIGonA8XWg2VAJoLM2g8zB-IqiGlAXg9UdBnUD48bJ6P4BKYL7Fou_NG2qwccbSTGFiSETcA0apgjxQyYgqkCxQ4i_qBRhhw1CG9tgnsYFtwrUAMCLYBAkfO4cR-yjiZQdCACAiSHiIbHjQug4qugZiCSAkzf48bVYPM6oOIzoTZ1Q10DCnyITSAbETaBTCMU5Ds6yQlyc0hoAilQUKJkEUjugAqB1cHyghkkIpCcCM5HSIG-CerwpdBAA-UCiJdnwz21G0xCU18TKJogAQNJd5DAQQ485KBABPoqqPgKWODC88x8uJ5eMAmOLmjQPm7qAosh2CAdoMAnKdCfzp49UOkcVKIhhzhyOEDyO2Y4gMoG9FIIpBpS8iCSJUgdDCJlJ1B4g9XAdEHMWwrVhZbIYTEL5kF1NEHKFVjMYtpTi1JX-CDXFSbQqgJUqBuAAiNeIdowFplhEh8PDLV4iBBQCVQ5SCjaNB5FqRFIzAgsBpLGqhibPlwGg6yONsGiDaQa6CldOwWwv6J9gMYgOEZgjjIXAA)]
 
 ## 分析
 
@@ -100,24 +103,25 @@ w: 2.~し
 ================================================================================
 📊 TMD Song Profile: [ 軍港 ]
 ================================================================================
-⏱  Duration:       0:20 (20.4s), 17 measures total
+⏱  Duration:       0:40 (40.8s), 34 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  B3 in [Gunko #1 @ m.2, 0:01]
-   - 最高音: D5 in [Gunko #1 @ m.13, 0:14]
+🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  D4 in [Gunko[L1] #1 @ m.1, 0:00]
+   - 最高音: E5 in [Gunko[L1] #1 @ m.12, 0:14]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Gunko (20.4s)
+🏛  結構:      Gunko[L1] (20.4s) -> Gunko[L2] (20.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D, A, B, F#
-   - 調性數值:    G 大調 [相關度: 0.89, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.89), D 大調 (0.84), B 小調 (0.67)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  B, G, D, C, A
+   - 調性數值:    G 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.89), B 小調 (0.74), D 大調 (0.60)
+   - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Gunko #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Gunko[L1] #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Gunko[L2] #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -130,21 +134,21 @@ w: 2.~し
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████                  7.8%
+     C  : ██████████                10.9%
      C# :                            0.0%
-     D  : ██████████████████████    20.3%
+     D  : ████████████████████      21.9%
      D# :                            0.0%
-     E  : █████████                  7.8%
+     E  : █                          1.6%
      F  :                            0.0%
-     F# : ██████████████            12.5%
-     G  : ████████████████████████  21.9%
+     F# : ████                       4.7%
+     G  : ██████████████████████    24.2%
      G# :                            0.0%
-     A  : █████████████████         15.6%
+     A  : █████████                 10.2%
      A# :                            0.0%
-     B  : ███████████████           14.1%
+     B  : ████████████████████████  26.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 52 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 104 個音符)
 ================================================================================
 ```
 

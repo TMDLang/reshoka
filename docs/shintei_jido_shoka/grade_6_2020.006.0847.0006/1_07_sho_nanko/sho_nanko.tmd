@@ -2,9 +2,11 @@
 ~ "tag: collection:shintei_jido_shoka"
 ~ "tag: volume:grade_6_2020_006_0847_0006"
 ~ "tag: source:school_textbook"
+~ "tag: source_page:P031"
 ~ "tag: provenance:printed_text"
-~ "tag: evidence:editorial"
+~ "tag: evidence:scan_verified"
 ~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
 ~ "tag: theme:history"
 ~ "tag: theme:military"
 ~ "tag: origin:monbusho"
@@ -30,16 +32,16 @@ key= F#m
 ShoNanko:Piano@|0|{
     <8*>
     /* ================= 第一行 (弱起 + 4 小節, P031.jpg) ================= */
-    | 0 0 0 0 0 {p} 3_ | 6_ - 6_ 7_ - 7_ | 1 - - 6_ - 6_ | 7_ - 7_ 1 - 2 | 7_ - - - - {mf} 3_ |
+    | 0 0 0 0 0 {p} 3_ | 6_ - 6_ 7_ - 7_ | 7_ - - - - 7_ | 1 - 1 7_ - 7_ | 6_ - - - - {mf} 3_ |
     L| _ _ _ _ _ こ | と - - の - は | を - - - - こ | と - - の - は | を - - - - よ |
 
     /* ================= 第二行 (4 小節, P031.jpg) ================= */
-    | 6_ - 7_ 1 - 2 | 3 - 4 3 - 2 | 3 - 4 3 - 6_ | 1 - 7_ 6_ - {mf} 3 |
-    L| し - - の - - | の - や ま - に | の - こ - - し | お - き て - な |
+    | 1 - 7_ 7_ 6_ 7_ | 1 - 2 3 - 3 | 4 - 3 1 - 7_ | 1 - 3 7_ - {mf} 2 |
+    L| し - - の - の | や - ま に - の | こ - - し - - | お - き て - な |
 
     /* ================= 第三行 (4 小節, P031.jpg) ================= */
-    | 4 - 4 3 - 1 | 2 - 7_ 6_ - {p} 3_ | 6_ - 1 7_ - 2 | {pp} 1 - 7_ 6_ - 0 |
-    L| は - て の - か | ぜ - - に - ち | - - る さ - く | ら - か な - _ |
+    | 2 - 3 3 - 1 | 1 - 7_ 6_ - - | {p} 3_ 6_ 7_ 1 3 1 | {pp} 7_ - 7_ 6_ - 0 |
+    L| は - て の - か | ぜ - - に - - | ち - る さ - く | ら - か な - _ |
 }
 
 -> ShoNanko -> #

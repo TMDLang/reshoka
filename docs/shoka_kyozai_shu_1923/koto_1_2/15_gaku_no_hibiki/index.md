@@ -85,31 +85,7 @@ w: 2.~ド | シ | ラ | ソ
 F16 | E16 | D16 | C16 |
 w: 1.~フアー | ミ | レ | ド
 w: 2.~フアー | ミ | レ | ド
-C16 | D16 | E16 | F16 |
-w: 1.~ド | レ | ミ | フアー
-w: 2.~ド | レ | ミ | フアー
-G16 | A16 | B16 | c16 |
-w: 1.~ソ | ラ | シ | ド
-w: 2.~ソ | ラ | シ | ド
-c16 | B16 | A16 | G16 |
-w: 1.~ド | シ | ラ | ソ
-w: 2.~ド | シ | ラ | ソ
-F16 | E16 | D16 | C16 |
-w: 1.~フアー | ミ | レ | ド
-w: 2.~フアー | ミ | レ | ド
 [V:V2]
-c8 G8 | G8 c8 | G8 c4 B4 | A8 d8 |
-w: 1.~ミ ヤ | マ ニ | ア ソ _ | ベ バ
-w: 2.~は ま | べ に | や ど _ | れ ば
-B8 e8 | c8 f8 | d8 e4 f4 | e16 |
-w: 1.~コ ト | ノ ネ | キ コ _ | ユ
-w: 2.~た い | こ ぞ | ひ び _ | く
-e8 f4 e4 | d8 e8 | c8 d8 | B8 c8 |
-w: 1.~ユ カ _ | シ ヤ | タ ガ | テ ゾ
-w: 2.~あ や _ | し や | な に | ご と
-c8 B4 A4 | F8 A8 | c8 B8 | c16 |
-w: 1.~マ ツ _ | フ ク | カ ゼ | ヨ
-w: 2.~い そ _ | う つ | な み | よ
 c8 G8 | G8 c8 | G8 c4 B4 | A8 d8 |
 w: 1.~ミ ヤ | マ ニ | ア ソ _ | ベ バ
 w: 2.~は ま | べ に | や ど _ | れ ば
@@ -126,7 +102,7 @@ w: 2.~い そ _ | う つ | な み | よ
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gaku_no_hibiki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5siZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5SWWlBaloovmlhZnJiObl5memWdVmgdyXAnUSVpaCs9WND1uXPdy_v73ezqe7Op52bzi_Z5OBS0tLkVbBUMjMy57WwVnLhsjfSM7kFGgQLJSeDZtw_PtKxSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W1AY1-unvF8befz5ROf7GgAKgXaAlT6dOeW51NAdoGdCJR5tmjus9a-Jzs6Xzb3KQCNf9zQRYo9jxu6gVY9XbL82drFT3sbQZbs3AJhPJvT8X5Pz_Mti57N3vFi5nwFA3MjU10TQ7DdXPpaCrbUAlwKCgp2CtGKfv4hrrEQjpbW0775IHs3t79Y0fWiox3o5hcr5z1tXfFsWruWFsjJG3qftXcqJIBSmV5WQXrCo4bJII4ZmAN0OMQAhQI9BWMzM6CksZk5UBRnoK5Zo2BoqvBy2TSg_97vmQVxhi7QIS9W7X_WsBzkhO5eYDCALJ_1uLkfKAwKo-7ep2snAJ3jrAAMQ6CYAjDKFYCiCgmHFgFdATSq58Pc1nkKtgpmxiBXz579tKPt5fzNz9cse9Y_-_m66c-bdik8mrkSqACYbIAaEBZDktXTCR3AKHuxYu2LFR1gu5_NWfNs9iagtmdLtz5t3f50-_JnDXOf7OwGGvpyVh8wWJ7s7UXWConqRw1TgOjJ3r4XjZvAibXDMackH2jfk91LgaEKcdHzKRuf7Oh-0dDzZEcXUOfT9l1PW1cDk9Hz9Q0Q3wHFXyzsgdgENCLBEBzqhnFAn8563NDzuLkTGKaPm9eAyflgcurjpkWPm_eA2E17wSIrweztYHbn44ZeSCg93deDsKytF-yULrBTuqFOgbqgG9UFcRAnoLoAajrEJoitSO6AugziSoQLnuydAwzVp7N3PV03C2jT-z39wNQAZEADdt2sZ9O7n-4DZRfnxLyS0mKFtMwiYGkB1jwbmK7gIRucXwAsnECB-7Sz_dm0PU9btwH98mzazie7ljzfOeVpy6rn-6ARBTESmLherFz5rKUfksofNzSBUwEsK4CSakMjsGwB859t3_h040agNY8b9z9uanncuA9o0ePG1S8bu8CCwHJpLlhk5-PGDY8bGp5P2AIWn_y4EVRugEutzWCRtUDui8Z5YHYvUAFItqkNYguQ8bix-3HjdKAVL1ZtAKuZD9be86wTFAaPG5eBuUDXNjybu-_phJ1gwX2PG5c8btwKlup_uQgUHGBz5oAN78Dw2q4eZK_t3_iyCeKL9WCjgGaCvPZ0HaiYBXt2JdicHojXni5Z9XIP0Nkgtz1uBMqCvdA4D1IsP27c9LgR6FOQS6CeAgYOyBCQp57snfpkF8Qjq4BWPG6cAg0fYIgtXg8WB6qEhCQwKJY8278EphhoOJJfKC__oEBBS5-Lyz0xu9Qv3yMzKTM70wqakBxqDGoUqkF2KdiYaIHDTgFb-asALMSAaQWYPxQ0TEDFPzAr6SjAykRNLBqANoIMq1EwjAMWOaZAXAMmwVw40xzINAMyjcCiYB0-hjUKwHwE5D9uXgJW-7h5HpjXDeE1LQLxmvZC5WaC5SYg9BsBRRvXg0Qb90HUNO4E81ZD9beAeSuhvB4wbwNYP37_7-ohx__mQJONIZ4G-90Ewgb7GCgO5NZA5EEQKQiaNoM91gH1Zh-Y1wt19FpwEIBUgOSWoeoGBwA4ABtBXgXxJoN5oGAE8TaBeVDdjf1w3QSiv5Mc74O9BvQkkEZ4Gh4YkHgHhxEkYSAlAZCvHjfBIm07coJo2g-WWwP1fxuYB45spBBoAovCQmA6Cm8VcoJonALmrSAcBsA6luwsYA5M6DUKJkAWKMHDBeFMtOiHpnmog5ungp0PStUg74Mc_rhpD1QO5HD06Iek8blQD4IDqBEaeFDPg4IQZBYogUF016KVEaBqnPQCAlhbItflTzt7n63bSnqQwVylYARnGcNZoFBED69OuCyw_kVigzICjA2tqTHDiyzdRJQW6IGxr4ecwAAVlhBHgJIOhAVKORAWttQDLh1h7gaVdFA2OBvBxOF-RoQDifqIKDDAIYBoWJGbHOB-RPI4IjDgAYQ9PaC4HtlXcN9iTwlE6COiuEAPAfLSADzJI2UDRNaAZxekAEBLrmiJGTmRY0kIZOkGFiC6dgrIZYgCFr4yFwA)]
+- [主旋律 TMD 檔案](gaku_no_hibiki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5siZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5SWWlBaloovmlhZnJiObl5memWdVmgdyXAnUSVpaCs9WND1uXPdy_v73ezqe7Op52bzi_Z5OBS0tLkVbBUMjMy57WwVnLhsjfSM7kFGgQLJSeDZtw_PtKxSebuh_unbHswULHzfvftq6BsJWeDpl47O1Pc-mznw2d8LL2W1AY1-unvF8befz5ROf7GgAKgXaAlT6dOeW51NAdoGdCJR5tmjus9a-Jzs6Xzb3KQCNf9zQRYo9jxu6gVY9XbL82drFT3sbQZbs3AJhPJvT8X5Pz_Mti57N3vFi5nwFA3MjU10TQ7DdXPpaCrbUAlwKCgp2CtGKfv4hrrEQjpbW0775IHs3t79Y0fWiox3o5hcr5z1tXfFsWruWFsjJG3qftXcqJIBSmV5WQXrCo4bJII4ZmAN0OMQAhQI9BWMzM6CksZk5UBRnoK5Zo2BoqvBy2TSg_97vmQVxhi7QIS9W7X_WsBzkhO5eYDCALJ_1uLkfKAwKo-7ep2snAJ3jrAAMQ6CYAjDKFYCiCgmHFgFdATSq58Pc1nkKtgpmxiBXz579tKPt5fzNz9cse9Y_-_m66c-bdik8mrkSqACYbIAaEBZDktXTCR3AKHuxYu2LFR1gu5_NWfNs9iagtmdLtz5t3f50-_JnDXOf7OwGGvpyVh8wWJ7s7UXWConqRw1TgOjJ3r4XjZvAibXDMackH2jfk91LgaEKcdHzKRuf7Oh-0dDzZEcXUOfT9l1PW1cDk9Hz9Q0Q3wHFXyzsgdgENCLBEBzqhnFAn8563NDzuLkTGKaPm9eAyflgcurjpkWPm_eA2E17wSIrweztYHbn44ZeSCg93deDsKytF-yULrBTuqFOgbqgG9UFcRAnoLoAajrEJoitSO6AugziSoQLnuydAwzVp7N3PV03C2jT-z39wNQAZEADdt2sZ9O7n-4DZRfnxLyS0mKFtMwiYGkB1jwbmK7gIRucXwAsnECB-7Sz_dm0PU9btwH98mzazie7ljzfOeVpy6rn-6ARBTESmLherFz5rKUfksofNzSBUwEsK4CSakMjsGwB859t3_h040agNY8b9z9uanncuA9o0ePG1S8bu8CCwHJpLlhk5-PGDY8bGp5P2AIWn_y4EVRugEutzWCRtUDui8Z5YHYvUAFItqkNYguQ8bix-3HjdKAVL1ZtAKuZD9be86wTFAaPG5eBuUDXNjybu-_phJ1gwX2PG5c8btwKlup_uQgUHGBz5oAN78Dw2q4eZK_t3_iyCeKL9WCjgGaCvPZ0HaiYBXt2JdicHojXni5Z9XIP0Nkgtz1uBMqCvdA4D1IsP27c9LgR6FOQS6CeAgYOyBCQp57snfpkF8Qjq4BWPG6cAg0fYIgtXg8WB6qEhCQwKJY8278EphhoOJJfKC__oEBBS5-Lyz0xu9Qv3yMzKTM70wqakBxqDGqqQVYp2JhogYNOAVvxqwAsw4BJBZg9FDRMQKU_MCfpKMCKRE0sGoAWggyrUTCMA5Y4pkBcAybBXDjTHMg0AzKNwKJgHT6GNQrAbATkP25eAlb7uHkemNcN4TUtAvGa9kLlZoLlJiD0GwFFG9eDRBv3QdQ07gTzVkP1t4B5K6G8HjBvA1g_fv_v6iHH_-ZAk40hngb73QTCBvsYKA7k1kDkQRApCJo2gz3WAfVmH5jXC3X0WnAQgFSA5Jah6gYHADgAG0FeBfEmg3mgYATxNoF5UN2N_XDdBKK_kxzvg70G9CSQRngaHhiQeAeHESRhICUBkK8eN8EibTtygmjaD5ZbA_V_G5gHjmykEGgCi8JCYDoKbxVygmicAuatIBwGwCqW7CxgDkzoNQomQBYowcMF4Uy06IemeaiDm6eCnQ9K1SDvgxz-uGkPVA7kcPToh6TxuVAPggOoERp4UM-DghBkFiiBQXTXohURoFqc5PIBWFci1-RPO3ufrdtKeojBHKVgBGcZw1mgQEQPrk64LLD2RWKD8gGMDa2nMYOLLN1EFBbogbGvh5zAAJWVEEeAUg6EBUo4EBa2xAMuHGHuBhV0UDY4F8HE4X5GhAOJ-ogoL8AhgGhWkZsc4H5E8jgiMOABhD09oLge2Vdw32JPCUToI6K0QA8B8tIAPMkjZQNE1oBnF6QAQEuuaIkZOZFjSQhk6QaWH7p2CshFiAKQr8wFAA)]
 - [鋼琴伴奏 TMD 檔案](gaku_no_hibiki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm5siZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKrvMSS0qJUdNHc0uLMZCUuLS2FZyuaHjeuezl___s9HU929bxsXvF-TyeQ_XL2zGed3S-79zyfsOXJni1Pl_YDxRW0tLgUbRUMjcy47G0VnLlsjPSN7EBGgwLSSuHZtA3Pt69QeLqh_-naHc8WLHzcvPtp6xoIW-HplI3P1vY8mzrz2dwJL2e3gaxYPeP52s7nyyc-2dEAVAq0Haj06c4tz6eA3AB2MlDm2aK5z1r7nuzofNncpwA0_nFDFyn2PG7oBlr1dMnyZ2sXP-1tBFmycwuE8WxOx_s9Pc-3LHo2e8eLmfMVDMyNTHVNDMF2c7knZpf65XtkJmVmZ1oF5xcAAz3focagRqGaSwEIbEy07MCMGgXDOAVdBVMgrgGTYC6caQ5kmgGZRmBRsA4fwxqFx83zgfzHzUvAah83zwPzuiG8pkUgXtNeqNxMsNwEhH4joGjjepBo4z6ImsadYN5qqP4WMG8llNcD5m0A64c62RzIMYa4E-xcEwgb7EigOJBbA5EHQSRXN20Gu6UD6rI-MK8Xas9asKtBKkByy1B1g90M9nMjyHUg3mQwD-RzEG8TmAfV3dgP1w11Mdg1QHcBaYQ74e6HhC7YW5DgRwpokEMeN8GCZjtysDftB8utgTq5DcwDBymSo5vAojBHT0fhrUIO9sYpYN4KZGeDXWMOTAE1CiZAFiglwAXhTLRAhiYGqB3NU8E2gqIb5GKQXY-b9kDlQHahBzIk8udC3QT2UyPUv1D3gnwNMgsUjRDdtWjp3TGnBFdih-lRMIKzjOEskB_RfdMJl33cDAppGBuUGGDsqcA0_7gZ5Cs035ClG-pUUA6EKAEFO4QFCnUIC1vIg7MczFRQ9oGywakGJg53EcKVJOpDThvozkI4Fe587GGJYjaynXC3YA9FIvRB3QePTKQIRkQ6PCEgOQ8tItCiCTn6sAQiWbrRE24AqEIM8sCRdrXBQW6oDSmsjcC0EUQQ6Ekw1xjENdYGFdsm2qDIMNFGKrqBsQKUApb22tDSxwyi20wbWoKaQ1Sbg-TNQYKgaIYoRngXIQakgWogPFTNKIZDizeY3UhFHMiVkBIcKAdyMMgfoIgzBjse5ElIAQnWCg8CPIHngyvw4hWiDWNhFNAx8UCWaXwsggFXYwykjHNBAiZAlkmsghGQMgIJwApzqAIMhVAKr-lAygARkES4Ct0RCDmYNlhQojkCKk3IUbpgVSA3AQNU104BOUyjfYBSGGJGYDFlLgA)]
 
 ## 分析
@@ -135,14 +111,14 @@ w: 2.~い そ _ | う つ | な み | よ
 ================================================================================
 📊 TMD Song Profile: [ 樂の響（二部） ]
 ================================================================================
-⏱  Duration:       1:00 (61.0s), 32 measures total
+⏱  Duration:       0:30 (30.5s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 126.0 BPM, <2/2>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  C4 in [GakuNoHibiki #1 @ m.1, 0:00]
    - 最高音: C5 in [GakuNoHibiki #1 @ m.8, 0:13]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      GakuNoHibiki (30.5s) -> GakuNoHibiki (30.5s)
+🏛  結構:      GakuNoHibiki (30.5s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -150,10 +126,9 @@ w: 2.~い そ _ | う つ | な み | よ
    - 核心骨幹音:  C, E, D, B, F
    - 調性數值:    C 大調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.90), A 小調 (0.73), G 大調 (0.56)
-   - 五度圈歷程:   +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
      • [GakuNoHibiki #1]: C 大調 (r: 0.90, 自然音純度: 100.0%)
-     • [GakuNoHibiki #2]: C 大調 (r: 0.90, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -180,8 +155,8 @@ w: 2.~い そ _ | う つ | な み | よ
      B  : ███████████               12.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Alto          : C4 – C5 (12 個半音 / 1.0 個八度, 32 個音符)
-  - Soprano       : F4 – F5 (12 個半音 / 1.0 個八度, 68 個音符)
+  - Alto          : C4 – C5 (12 個半音 / 1.0 個八度, 16 個音符)
+  - Soprano       : F4 – F5 (12 個半音 / 1.0 個八度, 34 個音符)
 ================================================================================
 ```
 

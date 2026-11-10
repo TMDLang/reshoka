@@ -4,7 +4,7 @@ song_title: "富士と新高"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_4_18_fuji_to_niitaka"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈富士と新高〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：桑田春風、曲：獨國風歌），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　あはれ　あはれ、富士（ふじ）の山 斯（か）かる好（よ）き山、又とあらじ…"
+description: "〈富士と新高〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：桑田春風、曲：獨國風歌），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　あはれ　あはれ、富士（ふじ）の山 斯（か）かる好（よ）き山、又とあらじ…"
 keywords: "富士と新高, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 桑田春風, 獨國風歌"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -22,6 +22,9 @@ audio:
   - id: "fuji_to_niitaka"
     label: "鋼琴伴奏版"
     file: "fuji_to_niitaka.mp3"
+  - id: "fuji_to_niitaka_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "fuji_to_niitaka_neutrino.mp3"
 tmd_source:
   - "fuji_to_niitaka.tmd"
   - "fuji_to_niitaka_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="fuji_to_niitaka.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="fuji_to_niitaka_neutrino.mp3"></audio>
 
 - 詞：桑田春風
 - 曲：獨國風歌
@@ -69,36 +73,46 @@ M:4/4
 L:1/16
 Q:1/4=88
 K:F
-V:V1 name="Piano1" snm="Pia"
+V:V1 name="Piano" snm="Pia"
 V:V2 name="Piano2" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 C4 | A8 G4 F4 | G8 E4 F4 | d8 c4 B4 |
-w: 1.~あ | は れ あ | は れ ふ | じ の や
-w: 2.~あ | は れ あ | は れ い | や た か
-w: 3.~あ | は れ あ | は れ あ | ふ ぎ み
-!f! A8 z4 c4 | c4 A4 d4 c4 | !mf! c8 B4 G4 | A4 B2 A2 G4 A4 |
-w: 1.~ま か | か る よ き | や ま ま | た と _ あ ら
-w: 2.~き や | ま は に ひ | た か く | も に _ そ び
-w: 3.~よ を | を し う つ | く し た | み の _ ぎ ひょ
-!f! G8 z4 c4 | c4 A4 d4 c4 | !mf! c8 B4 A4 | G4 A2 B2 A4 G4 |
-w: 1.~じ や | ま と ご こ | ろ の こ | り し _ す が
-w: 2.~え を | を し け だ | か し く | に の _ ほ ま
-w: 3.~う ふ | じ と に ひ | た か た | た へ _ あ ふ
-F8 z4 z4 |
-w: 1.~た
-w: 2.~れ
-w: 3.~げ
+!mf! z4 z4 z4 C4 | A8 G4 A4 | F8 C4 C4 | c8 B4 c4 |
+w: あ | は れ あ | は れ ふ | じ の や
+!f! A8 z4 F4 | d4 d4 d4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
+w: ま か | か る よ き | や ま ま | た と _ あ ら
+!f! A8 z4 F4 | d4 d4 f4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
+w: じ や | ま と ご こ | ろ の こ | り し _ す が
+!mf! A8 z4 C4 | A8 G4 A4 | F8 C4 C4 | c8 B4 c4 |
+w: た あ | は れ あ | は れ い | や た か
+!f! A8 z4 F4 | d4 d4 d4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
+w: き や | ま は に ひ | た か く | も に _ そ び
+!f! A8 z4 F4 | d4 d4 f4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
+w: え を | を し け だ | か し く | に の _ ほ ま
+!mf! A8 z4 C4 | A8 G4 A4 | F8 C4 C4 | c8 B4 c4 |
+w: れ あ | は れ あ | は れ あ | ふ ぎ み
+!f! A8 z4 F4 | d4 d4 d4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
+w: よ を | を し う つ | く し た | み の _ ぎ ひょ
+!f! A8 z4 F4 | d4 d4 f4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
+w: う ふ | じ と に ひ | た か た | た へ _ あ ふ
+A8 z4 z4 |
+w: げ
 [V:V2]
-!mf! z4 z4 z4 C4 | F8 C4 C4 | C8 C4 C4 | B8 A4 G4 |
-!f! F8 z4 F4 | A4 F4 F4 A4 | !mf! G8 E4 E4 | F4 G2 F2 E4 F4 |
-!f! E8 z4 F4 | A4 F4 F4 A4 | !mf! G8 E4 F4 | E4 F2 D2 F4 E4 |
+!mf! z4 z4 z4 C4 | F8 C4 C4 | A,8 A,4 C4 | A8 G4 E4 |
+!f! F8 z4 F4 | B4 B4 B4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
+!f! F8 z4 F4 | B4 B4 d4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
+!mf! F8 z4 C4 | F8 C4 C4 | A,8 A,4 C4 | A8 G4 E4 |
+!f! F8 z4 F4 | B4 B4 B4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
+!f! F8 z4 F4 | B4 B4 d4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
+!mf! F8 z4 C4 | F8 C4 C4 | A,8 A,4 C4 | A8 G4 E4 |
+!f! F8 z4 F4 | B4 B4 B4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
+!f! F8 z4 F4 | B4 B4 d4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
 F8 z4 z4 |
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](fuji_to_niitaka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpSJEgUalZ-ZZlacWl6QW5cXnpubkp1RiSJckZgL9DvJ_eWJ8bmJmXk5iXooSl5aWwtP1PU8Xr37cuOLZtA0vV89Q0NLiUrRVsLDgsrdVcOOyMdE3sQMZ9mLlvPd7Zj1bOPH5lA3PZix9uWgF2I5nszcBhZ_3rng6pxso9mxtD1j4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oQtox9N1s562Tnq-eunTKRuByh83dD_d0P10x47nyyc-X7Pmaevap2t3PN255fmUFe_3dIBiRA8YD3qgGAEyDMze7-lU4uLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oLqB_n7YCw6Qd6IqnG3qftXcqBBhYGOtlFaS_39MDVPxyQaNCgZ6CmQGQ-7S_-UVDM9C7z-ZOAHpCwdBC4eWyaUCJJ7t6XjaveDqhA-hZoMuBQQWy7cWq_c8aloPs6e59MXM-UPRx446XU7cDxZ_Onv20o-3Jzm4gAyj7dO0EoP1uCk-XLAdKKgAjQwEoCrJxz8YXW7crGEK4QIOBAdnzdP_qZ1t2P27uftwAFOx4NHOlrYUFUJYLZOmTHQ2PGxoeNzY9blz_uAmoHJndCEkFQE2PG7c-bpwB1PS4cd3TjRtBOp9NWw-W6AaLdj9u6n66dC9IpKkDLNILVAcyoh-oZgXI0Cag4AxwsC5Z_nQS0FnNYNUtjxv3gVVMedw4-XETyN1AS0A62-eCLZgMEmnqetw4_eny_WCRmY8bex43AkMI6oddaO5G9cPeHrCmFqBVQB3AxAx0G9gZQPc1roekb7AKYHLfBDQW6qWGxpezgdzVLxo3g2XnPgYxgG7rAGl-ObvlcUMr2AOTgAgsMf3ZhsUwsyY-blwAC5vpIFfM6Qb66sVacAg17gb5uQnoLlgkAK3D6YEnuzc8bux7sQwYxLitfr6vD2xy2-PGJY8b--H2PtswESwO9BUw7MDR19LwYiEoFwENBXkYFAFtIJeAggQ11wP1g3UC0Q6wKyaBFFGet6BAQUufi8utNCszJN8vM7MkMTvRKiAzMS_f0KHGoKYaZJWCjYWWHZiBLWsrADMVMP2-WNijoAFN-doKJgpPN_Q_X9-gA8-Ymlh0Am2GmqoBNEHTSuFx0yKFGoXHzf2Pm_cAqTVYBJqnPm5aDBJr2vG4eTGQ3wfES8CK5gGN2TNREyi1GsXoXT0goxubQIqA0QkyqakHm0AL2NwWIGs-EHeDpXvhhragureTSEMhAluBGOjSxv1gKzrghk6CGVqjYKCgC8fVuWm1CqbxQFaNgjGQBEEjIDYEi4BYIGgOUgARMoMKmQKxCYo2sHEg00CiYKt8DGsUQDphGORGkA6gs6F6QC7HJ74VKj4DJt64DizbAhXfBxWHmN6NsNmIUpuhNoBtgtg8H2EHOLqQbIa4B2KzMaU2w8RBfofY3Acm90Nd1IFi8ySwzfgzza4ecKYhO6-sBqZ5EF4BZK8F54Al4FwAwiAX7QeyOiAJcRGQuRKSa2BJD6gYSybZB_Y5sMAF4k1g_0KyArA0A2tvAsmBzWycC8SbwUqwJGekPAIUBJaCQNwGxOCcCjQLIjIfzAO6E1jVgM0EZRFgYdgOFm-DGQsMc3guASVjUNIGJXhwkgaTIAhK9uB8A8oekPRvAiRBPBAbkW2w5whIGgJWoGASFJuQ1ISa2kApG0JCwgbEWwFPH8DaFSoDyxkY6RCYA2CmgFIYKKRB5CYkEyE2gd0BDCmIC8CmQ9XOBZOboTqwpTtYiofwQWENItvA5BKoPpDJEJsgsiCbIbEBz8_QFA6OEIgkyAhExgYXAwQS-Y5OihI5ODl3AD2yBYjBqa15LaTQh_JWAVnbIYl8JxCvgaZ8zKQNT4YTgXgB2DegZA0SASdtcJKHJsPd4DgCmdSDrdCfAY50bJkEkqBBPGDtBDIJlF-2ggWRSnoi0jAixRqDUzGk-K8Bl_awNAzCyOkXkqogqXEKmJwMTT2wUhEWrzDxLqT4nwkmQWUdcjqElZdIqRclTU0EkwugukBpFjlNQVMvNN1C7N4NJqE5CFy2YrEHlHbBeQjmH_y5BJZ2IflxB5iE5BhYTQVyM6o9tVhbPUZktHogHYknO7pfNG4CMohK4rire1gMg7lQMTCFLghKKyCIPXGACjhw04C4Sog8P4CsBlkCwqhlLLhpAvYWmAVxmxGQRGqzgJmkuhdantDOvUhuM1QwiwfzkfyAmvmAiUjXTgElHSkABZS5AA)]
-- [鋼琴伴奏 TMD 檔案](fuji_to_niitaka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vufp4tWPG1c8m7bh5eoZ7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFCwsue1sFNy4bE30TO646BaUXK-e93zPr2cKJz6dseDZj6ctFK5RAws9mbwIKP-9d8XRON1Ds2doesPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FDF9Dip-tmPW2d9Hz10qdTNgKVP27ofrqh--mOHc-XT3y-Zs3T1rVP1-54unPL8ykrgO4zMjAy0DMwMNMzsDAxBzIMzIBOVOLicivNygzJ98vMLEnMTrQKyEzMyw_ycKgxqKnmUgACGwstOzBDX0vBFh0oAK15sqPhxcIeBQ0Thacb-p-vb9BRCDCwMNbLKkjXxKJBSx9sWI2CgYIuHFfnptUqmMYDWTUKxkASBI2A2BAsAmKBoDlIAUTIDCpkCsQmKNrAxoFMA4mCrfIxrFEA6YThx41NYB2PG9dD9Txu6sErvhUqPgMm3rgOLNsCFd8HFYeY3o2w2YhSm6E2gG2C2DwfYQeQ7kW2GeIeiM3GlNoMEwf5HWJzH5jcD3VRB4rNk8A2408mu3rISSageATFLSjGwXEKJkEQFO_ghANKH5AEYAIkQTwQG5FusCcJSCA-boKQIO9AghM1uEFRCyFBOiCBvwIeQI-bOqEysKSBERHAJAAzBRTEjxtXg8lNSCZCbAK7o7Ef6gKw6VC1c8HkZqgObAEPi3II_3HjdDDZBiaXQPWBTIbYBJEF2QwSB0UoNEFDo3jT46Z2qCTICETKBucDArG8o5NGsYyIU2NwPENKiBpwgQCLZRBGjmFIuEPiawqYnAwNX1jGgfkcJt6FFEIzwSQoOyDHFCxLIcUvSqhPBJMLoLpAsYoc6tD4hcYsxO7dYBKaxsDZD4s9oNgFpzKYf_CnI1jsQlLsDjAJSVOwwgzkZlR7arHWBT7IdYEJtC4AFd8gCC2440HxEK8QbRgLo4ARCBSNNo2PhTDAQiZAhglUACQD1wQ0CGgOkAPxLFwcpAHTMLClqAYg7ICrJMdMLA5Hc6cBJJx07RRQgiraByiLKWiETdAYLKjMBQA)]
+- [主旋律 TMD 檔案](fuji_to_niitaka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIrQDYgvSExPtQowsDBCyKSWZaakgjQWJyfmxZelFmWmZaamIOTzi0oy8oFuLMiotMrILC7JL8pMTsyJz07MQ_ZKalEx2LsQa0qKEvOKk4syC0BhgFBVkpEK9G9eYklpUSqyBZnpmXlW5anFJalFefG5qTn5KZUY0iWJmcDgAwVheWJ8bmJmXk5iHtCVWloKT9f3PF28-nHjimfTNrxcPUNBS4tL0VbBwoLL3lbBjcvGRN_EDmTYi5Xz3u-Z9WzhxOdTNjybsfTlohVgO57N3gQUft674umcbqDYs7U9YOEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGLqAdT9fNeto66fnqpU-nbAQqf9zQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWvN_TAYpUPWBU6oEiFcgwMHu_p1OJi0tfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqC7gP592goMk3agK55u6H3W3qkAjHhjvayC9Pd7eoCKXy5oVCjQUzAzAHKf9je_aGgGevfZ3AlATygYWii8XDYNKPFkV8_L5hVPJ3QAPQt0OTCoQLa9WLX_WcNykD3dvS9mzgeKPm7c8XLqdqD409mzn3a0PdnZDWQAZZ-unQC0303h6ZLlQEkFYGQoAEVBNu7Z-GLrdgVDCBdoMDAge57uX_1sy-7Hzd2PG4CCHY9mrrS1sADKcoEsfbKj4XFDw-PGpseN6x83AZUjsxshqQCo6XHj1seNM4CaHjeue7pxI0jns2nrwRLdYNHux03dT5fuBYk0dYBFeoHqQEb0A9WsABnaBBScAQ7WJcufTgI6qxmsuuVx4z6wiimPGyc_bgK5G2gJSGf7XLAFk0EiTV2PG6c_Xb4fLDLzcWPP40ZgCEH9sAvN3ah-2NsD1tQCtAqoA5iYgW4DOwPovsb1kPQNVgFM7puAxkK91ND4cjaQu_pF42aw7NzHIAbQbR0gzS9ntzxuaAV7YBIQgSWmP9uwGGbWxMeNC2BhMx3kijndQF-9WAsOocbdID83Ad0FiwSgdTg98GT3hseNfS-WAYMYt9XP9_WBTW573LjkcWM_3N5nGyaCxYG-AoYdOPpaGl4sBOUioKEgD4MioA3kElCQoOZ6oH6wTiDaAXbFJJAiyvMWFCho6XNxuZVmZYbk-2VmliRmJ1oFZCbm5TvU6BrWVIOsUrCx0LIDM7BlbQVgpgKm3xcLexQ0oClfW8FE4emG_ufrG3RAGdMIlDE1segE2gwytUbBQEEXjqtz02oVTOOBrBoFYyAJgkZADGLXADMVRASsAKrKFCpmAhJC0Qc2D2gcSFcN2C4fwxoFkC4YBkYxWAcwnqF6gNGNV3wrVHwGTLxxHVi2BSq-DyoOMb0bYbMRpTZDbQDbBLF5PsIOIN2LbDPEPRCbjSm1GSYO8jvE5j4wuR_qog4UmyeBbcafYHb1gBMMienEDGgyMkbEPSjGISkHLmwCFCQ2SUACEVh6gkmQdyDBiRrcoKiFkCAdkMBfAQ8gYNEKlYElDYyIACYBmCmgIAaWa2ByE5KJEJvA7mjsh7oAbDpU7VwwuRmqA1vAw6IcwgcWQGCyDUwugeoDmQyxCSILshkkDopQaIKGRjGwaGqHSoKMQKRscD4gEMs7OimJZcM4KIPMaAZh5CiGBDwkwqaAycnQAIblHJjXYeJdSEE0E0yC8gNyVMHyFFIEowT7RDC5AKoLFK3IwQ6NYGjUQuzeDSahiQyc_7DYA4pecDKD-Qd_QoJFLyTJ7gCTkEQFK81Abka1pxZrrWBETrUAaWk92dH9onETkEFhpYCtCjAGUeAEgiwIFQPVHuaoelFLAaKKKvI8AUqZyBjhKpDVYG9BKjYQaQQUpNCx0BxHmWNBeY4Sx0IyHjAB6dopoKShaB_DWAVMQSNsgsZgQWUuAA)]
+- [鋼琴伴奏 TMD 檔案](fuji_to_niitaka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vufp4tWPG1c8m7bh5eoZ7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFCwsue1sFNy4bE30TO646BaUXK-e93zPr2cKJz6dseDZj6ctFK5RAws9mbwIKP-9d8XRON1Ds2doesPCL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FDF9Dip-tmPW2d9Hz10qdTNgKVP27ofrqh--mOHc-XT3y-Zs3T1rVP1-54unPL8ykrgO4zMjAy0DMwMNMzsDAxBzIMzIBOVOLicivNygzJ98vMLEnMTrQKyEzMyw_ycKjRNayp5lIAAhsLLTswQ19LwRYdKADtebKj4cXCHgUNE4WnG_qfr2_QUQgwsDDSyypI18SiQUsfbFiNgoGCLhxX56bVKpjGA1k1CsZAEgSNgBjErlEwhIqAFUBVmULFTEBCKPrA5gGNA-mqAdvlY1ijANIFw48bm8A6Hjeuh-p53NSDV3wrVHwGTLxxHVi2BSq-DyoOMb0bYbMRpTZDbQDbBLF5PsIOIN2LbDPEPRCbjSm1GSYO8jvE5j4wuR_qog4UmyeBbcafTnb1kJNOzIAmI2NE3INiHJJy4MImQEFikwQkEB83QUiQdyDBiRrcoKiFkCAdkMBfAQ-gx02dUBlY0sCICGASgJkCCuLHjavB5CYkEyE2gd3R2A91Adh0qNq5YHIzVAe2gIdFOYT_uHE6mGwDk0ug-kAmQ2yCyIJsBomDIhSaoKFRvOlxUztUEmQEImWD8wGBWN7RSUksG8ZBGWRGMwgjRzEk4CERNgVMToYGMCznwLwOE-9CCqKZYBKUH5CjCpankCIYJdgngskFUF2gaEUOdmgEQ6MWYvduMAlNZOD8h8UeUPSCkxnMP_gTEix6IUl2B5iEJCpYaQZyM6o9tVirAyNyagNgbn_ZvOLJju4XjZuADAorBWxVgDGIAicQZEGoGKj2MEfVi1oKEFVUkecJUMpExghXgawGewtSsYFII6AghY6F5jjKHAvKc5Q4FpLxsCcgH5T2hAk0BYFiGwSh8RwPMjBeIdowFkYB8zpQNNo0PhbCAAuZABkmUAGQDFwT0CBQeAGNgZoOFQdpwDQMbCmqAQg74CrJMROLw9HcaQAJKF07BZSwivYBymIKGmETNAYLKnMBAA)]
 
 ## 分析
 
@@ -106,24 +120,26 @@ F8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 富士と新高 ]
 ================================================================================
-⏱  Duration:       0:35 (35.5s), 13 measures total
+⏱  Duration:       1:38 (98.2s), 36 measures total
 🎼 Key & Tempo:    首調基準 F, != 88.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [FujiToNiitaka #1 @ m.1, 0:02]
-   - 最高音: D5 in [FujiToNiitaka #1 @ m.4, 0:08]
+🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  C4 in [FujiToNiitaka[L1] #1 @ m.1, 0:02]
+   - 最高音: F5 in [FujiToNiitaka[L1] #1 @ m.10, 0:25]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      FujiToNiitaka (35.5s)
+🏛  結構:      FujiToNiitaka[L1] (32.7s) -> FujiToNiitaka[L2] (32.7s) -> FujiToNiitaka[L3] (32.7s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  F, C, A, G, E
-   - 調性數值:    F 大調 [相關度: 0.90, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.90), C 大調 (0.81), A 小調 (0.71)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  A, C, F, A#, D
+   - 調性數值:    F 大調 [相關度: 0.88, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.88), A 小調 (0.77), D 小調 (0.60)
+   - 五度圈歷程:   -1 -> -1 -> -1
    - 各段落調性細節:
-     • [FujiToNiitaka #1]: F 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [FujiToNiitaka[L1] #1]: F 大調 (r: 0.87, 自然音純度: 100.0%)
+     • [FujiToNiitaka[L2] #1]: F 大調 (r: 0.88, 自然音純度: 100.0%)
+     • [FujiToNiitaka[L3] #1]: F 大調 (r: 0.88, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -136,22 +152,22 @@ F8 z4 z4 |
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████████████    21.1%
+     C  : ███████████████████       22.2%
      C# :                            0.0%
-     D  : █████                      5.0%
+     D  : ████████                   8.9%
      D# :                            0.0%
-     E  : ██████████                10.0%
-     F  : ████████████████████████  23.3%
+     E  : ███                        3.3%
+     F  : █████████████████         20.0%
      F# :                            0.0%
-     G  : █████████████████         16.1%
+     G  : █████                      5.6%
      G# :                            0.0%
-     A  : ██████████████████        17.8%
-     A# : ███████                    6.7%
+     A  : ████████████████████████  27.8%
+     A# : ███████████               12.2%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano1        : C4 – D5 (14 個半音 / 1.2 個八度, 39 個音符)
-  - Piano2        : C4 – A#4 (10 個半音 / 0.8 個八度, 39 個音符)
+  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 117 個音符)
+  - Piano2        : A3 – D5 (17 個半音 / 1.4 個八度, 117 個音符)
 ================================================================================
 ```
 

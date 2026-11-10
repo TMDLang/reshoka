@@ -83,8 +83,8 @@ F4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kawanakajima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkunpFZDDQWSRhoR3pmnlVuamZWJhYHQ6XLU4tLUovy4nNTc_JTgLq1tBSebp_7ZMfap5u3KWhpcSnaKlgYcNnbKrhx2Rjpm9iB9L9YOe_9nllPlyx_Oqnn-ZQNT3fverZi5_s9Hc_m7nvZNPHJjk4g4-mCpucz97xY2PNs1aKn62Y9nbLx2dqel7Pb3u_pBLvh2exNQDOerZ3wbMsmIBss9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNoGkBGtk56vXgox6HFD98vVM56v7Xy-fOLzKdufrp3wfMoKoAtAkacHjDw9UOSBreLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oGGBwPG1d8WxaO9ABTzf0PmvvVAgwMDXWyypIf7-nB6j45YJGhQI9BUOgi3qAzn6yo-H5mjVPdvU8Xbvj2Zz5QLaCmcLLZdOA7gUGCciOF6v2P2tYDjK9u_fFzPlA0cfNM15O3Q4UB9phqPByZu-LFTPAMp2PGxqB8aIAVAmyvrv96eL1j5u7FR7NXGlrYQC08OmejS-2bn-6r-dpbxdQ0cuGTU9blwL1cYEsAjoFRL2cDQq8x41Nj5sagVJPJ-4BcZs6QMY3bnu5D2T048b5jxuXgEW6gXa-XATR0v24cQ6mlhcz-8CyKx43Af0E1QKxsOvZ3M6n3YvA0m2PG3c8bpz5uLEPaMrjxhaw0hVApc_WLgMmLJitEx83LgBLrXvauhUsCNSFUAyOlQkTwfY3AK0CS2x63Ljs5czFYNWLHjdNBgvOBKqGp26Y89c_blwFZsx43LgPHKBNYBO7577YBLQWomghUA7oELApLWCR1UCzXiwDWgZUAIyVTqDfHze1YIrAPL5rEsw7PUDXgQ1a_Wzjrmdrd4PFgX5c_LhxOsSbIGeCYnI12E_AUAIiiBQwhrqADnzc0AuJv109YLdun_tyznIkD_UBlQHVP5u5BSy4HuwaoL3LQGE7devTTkiMLnvc2AsKeWjwrIaZD3YxjjhY_2RXE8SLUBGguQ2NkHhFi1Sg7JOdM8CCMx43tQOlwCbMglrwuHEq2FErHzc1vWyEGLoEHjZUiCqUyGgEm97QCPZjDyhu4AyIc16smflk_0JoZDRNBoY4JFye9gCDHigIDClwfoPE_FZIyABdBI4YYKgBQwkeN0DjKC9toEBBS5-LyzcRWFYHZCbm5TvUGNQoVINsULAxNNOyA7OAhRw0n2_of76-AaQFJFyjYKCgC8fVuWm1CqbxQFYNOPGAdIEKoh0NwGJaQcNEAaJZB156aSLMMQTq0lUwUjAGkiYKpkARMyDLFIhBIiDTa6AqjcDqIBgkXwNWAdIPEqkGOsEM0wm7egg7AawNZBLIHBO4yUZQEWQ3gMSNwe6EuA_iKmOwWjzh0ElOOIDsALkGJALyHdg-qGqQOEgeFFYgFppq7O54Ons2YXeA_APxI8RfEJfB4gQ5LEBiMAwWB6uAYyxxMYW85GAK9xh6coCpBNEwvRBVIFjDVcvFpWunAEriCkBamYsLAA)]
-- [鋼琴伴奏 TMD 檔案](kawanakajima_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6fe6THWufbt72fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwMOCyt1Vw47Ix0jex46pTUHqxct77PbOeLln-dFLP8ykbnu7e9WzFTqAJz-bue9k08cmOTiDj6YKm5zP3vFjY82zVoqfrZj2dsvHZ2p6Xs9uAxiqBzHg2exPQjGdrJzzbsgnIBou9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btgFkROuk56uXQgx63ND9cvWM52s7ny-f-HzK9qdrJzyfsgLoAiMDIwM9AwMzPQMLEwuwVVy-iZl5VgGZiXn5QR4ONQY1CtVcCkBgY2imZQdm6QODYc_GF1u3P93Q_3x9g4KWPli4RsFAQReOq3PTahVM44GsGi6Yrudr1jzZ0QD0IkKLIVCBroKRgjGQNFEwBYqYAVmmQAwSARlUA1VpBFYHwSD5GrAKkH6QSDXQNjNM23b1oNgGVgHSBNJiAjfECCqCbB1I3BjsJIhTIA4wBqvF47tOAr4DGQeyGCQCcjPYaKhqkDhIHhQCIBaaauxWPp09G8VKkCshLoe4FuIIWKAi-xAkBsNgcbAKOMYSmFMIRp0p3LnoUQdTCaJheiGqQLCGqxY54fmgJDwTwunOgEAqi1eINowFBTGUARU3jQfyTeNBMiAlYBa-9GMEVGQUnwtSj9CKbgdYBmwJvpSBqRqaCIBcE7CLsJqDHt1oPsBtEBa_oUUnUWEECmhgVOnaKYBiSwGJVubiAgA)]
+- [主旋律 TMD 檔案](kawanakajima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkunpFZDDQWSRhoR3pmnlVuamZWJhYHQ6XLU4tLUovy4nNTc_JTgLq1tBSebp_7ZMfap5u3KWhpcSnaKlgYcNnbKrhx2Rjpm9iB9L9YOe_9nllPlyx_Oqnn-ZQNT3fverZi5_s9Hc_m7nvZNPHJjk4g4-mCpucz97xY2PNs1aKn62Y9nbLx2dqel7Pb3u_pBLvh2exNQDOerZ3wbMsmIBss9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNoGkBGtk56vXgox6HFD98vVM56v7Xy-fOLzKdufrp3wfMoKoAtAkacHjDw9UOSBreLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oGGBwPG1d8WxaO9ABTzf0PmvvVAgwMDXWyypIf7-nB6j45YJGhQI9BUOgi3qAzn6yo-H5mjVPdvU8Xbvj2Zz5QLaCmcLLZdOA7gUGCciOF6v2P2tYDjK9u_fFzPlA0cfNM15O3Q4UB9phqPByZu-LFTPAMp2PGxqB8aIAVAmyvrv96eL1j5u7FR7NXGlrYQC08OmejS-2bn-6r-dpbxdQ0cuGTU9blwL1cYEsAjoFRL2cDQq8x41Nj5sagVJPJ-4BcZs6QMY3bnu5D2T048b5jxuXgEW6gXa-XATR0v24cQ6mlhcz-8CyKx43Af0E1QKxsOvZ3M6n3YvA0m2PG3c8bpz5uLEPaMrjxhaw0hVApc_WLgMmLJitEx83LgBLrXvauhUsCNSFUAyOlQkTwfY3AK0CS2x63Ljs5czFYNWLHjdNBgvOBKqGp26Y89c_blwFZsx43LgPHKBNYBO7577YBLQWomghUA7oELApLWCR1UCzXiwDWgZUAIyVTqDfHze1YIrAPL5rEsw7PUDXgQ1a_Wzjrmdrd4PFgX5c_LhxOsSbIGeCYnI12E_AUAIiiBQwhrqADnzc0AuJv109YLdun_tyznIkD_UBlQHVP5u5BSy4HuwaoL3LQGE7devTTkiMLnvc2AsKeWjwrIaZD3YxjjhY_2RXE8SLUBGguQ2NkHhFi1Sg7JOdM8CCMx43tQOlwCbMglrwuHEq2FErHzc1vWyEGLoEHjZUiCqUyGgEm97QCPZjDyhu4AyIc16smflk_0JoZDRNBoY4JFye9gCDHigIDClwfoPE_FZIyABdBI4YYKgBQwkeN0DjKC9toEBBS5-LyzcRWFYHZCbm5TvU6BrWVINsULAxNNOyA7OAhRw0n2_of76-AaQFJFyjYKCgC8fVuWm1CqbxQFYNOPGAdIEKoh0NwGJaQcNEAaJZB156aSLMMQTq0lUwUjAGkiYKpkARMyDLFIhBIiDTa6AqjcDqIBgkXwNWAdIPEqkGOsEM0wm7egg7AawNZBLIHBO4yUZQEWQ3gMSNwe6EuA_iKmOwWjzh0ElOOIDsALkGJALyHdg-qGqQOEgeFFYgFppq7O54Ons2YXeA_APxI8RfEJfB4gQ5LEBiMAwWB6uAYyxxMYW85GAK9xh6coCpBNEwvRBVIFjDVcvFpWunAEriCkBamQsA)]
+- [鋼琴伴奏 TMD 檔案](kawanakajima_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6fe6THWufbt72fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwMOCyt1Vw47Ix0jex46pTUHqxct77PbOeLln-dFLP8ykbnu7e9WzFTqAJz-bue9k08cmOTiDj6YKm5zP3vFjY82zVoqfrZj2dsvHZ2p6Xs9uAxiqBzHg2exPQjGdrJzzbsgnIBou9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btgFkROuk56uXQgx63ND9cvWM52s7ny-f-HzK9qdrJzyfsgLoAiMDIwM9AwMzPQMLEwuwVVy-iZl5VgGZiXn5QR4ONbqGNdVcCkBgY2imZQdm6QODYc_GF1u3P93Q_3x9g4KWPli4RsFAQReOq3PTahVM44GsGi6Yrudr1jzZ0QD0IkKLIVCBroKRgjGQNFEwBYqYAVmmQAwSARlUA1VpBFYHwSD5GrAKkH6QSDXQNjNM23b1oNgGVgHSBNJiAjfECCqCbB1I3BjsJIhTIA4wBqvF47tOAr4DGQeyGCQCcjPYaKhqkDhIHhQCIBaaauxWPp09G8VKkCshLoe4FuIIWKAi-xAkBsNgcbAKOMYSmFMIRp0p3LnoUQdTCaJheiGqQLCGqxY54fmgJDwTwunOgEAqi1eINowFBTGUARU3jQfyTeNBMiAlYBa-9GMEVGQUnwtSj9CKbgdYBmwJvpSBqRqaCIBcE7CLsJqDHt1oPsBtEBa_oUUnUWEECmhgVOnaKYBiSwGJVuYCAA)]
 
 ## 分析
 
@@ -92,14 +92,14 @@ F4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 川中島 ]
 ================================================================================
-⏱  Duration:       0:31 (31.5s), 21 measures total
+⏱  Duration:       0:30 (30.0s), 20 measures total
 🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  C4 in [Main #1 @ m.1, 0:01]
    - 最高音: D5 in [Main #1 @ m.3, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (31.5s)
+🏛  結構:      Main (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -109,7 +109,7 @@ F4 z4 |
    - 候選調性 (K-S): F 大調 (0.79), C 大調 (0.71), A 小調 (0.62)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.79, 自然音純度: 100.0%)
+     • [Main #1]: F 大調 (r: 0.74, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

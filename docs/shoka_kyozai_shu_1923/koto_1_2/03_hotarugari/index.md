@@ -90,23 +90,11 @@ w: 2.~は な よ | り も | う つ く し | く
 !mf! G6 A2 G2 E2 D2 C2 | c8 A4 z4 | A2 G2 E2 C2 E4 D4 | C12 z4 |
 w: 1.~テ ラ セ テ ラ セ | イ ザ | フ ミ ヨ ム マ ド | ヲ
 w: 2.~か ぜ に き え ぬ | そ の | ちや う ち ん つ け | て
-!mf! G6 A2 G2 E2 D2 C2 | c8 A4 z4 | G4 E4 E6 C2 | D12 z4 |
-w: 1.~ホ タ ル ホ タ ル | ヤ ヨ | コ コ ニ キ | テ
-w: 2.~て ら せ て ら せ | や よ | い け み づ | を
-G6 A2 G2 E2 D2 C2 | c8 A4 z4 | A2 G2 E2 C2 E4 D4 | C12 z4 |
-w: 1.~ホ タ ル ホ タ ル | ヤ ヨ | テ ラ セ ヤ マ ド | ヲ
-w: 2.~て ら せ て ら せ | や よ | あ や め の は な | を
-!f! c8 B4 A4 | G8 E4 z4 | A4 G4 E4 C4 | D12 z4 |
-w: 1.~タ マ ト | ナ リ | ホ シ ト ナ | リ
-w: 2.~は な よ | り も | う つ く し | く
-!mf! G6 A2 G2 E2 D2 C2 | c8 A4 z4 | A2 G2 E2 C2 E4 D4 | C12 z4 |
-w: 1.~テ ラ セ テ ラ セ | イ ザ | フ ミ ヨ ム マ ド | ヲ
-w: 2.~か ぜ に き え ぬ | そ の | ちや う ち ん つ け | て
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hotarugari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1giZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5SWWlBaloosWpyYW5-cVI5uYmZ6ZZ5Wbn5dUCgw2JS4tLYUX8xY9716poKXFpWirYGhgwmVvq-DMZWOib2IH0gcKEyuFZ9M2PN--QuHphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fZ-T8fL1TOer-18vnzikx0NQKVPdvUAlT7dueX5lBXv93SC3QOUebZo7rPWvic7Ol829ykAjX_c0EWKPY8buoFWPV2y_NnaxU97G0GW7NwCYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE0OY3c-mtb9sXvF8TiPQxqcbup_u2AGxEGIB0Nzna9Y8nT0b4mYlLi59LQVbagEuBQUFO4VoRT__ENdYCEdL62nffJBLN7e_WNH1oqMd6IgXK-c9bV0BdKiWFsiTG3qftXcqJICSoV5WQXrCo4bJQI6pAZgD9CrEAIUCPQVjEwOgpDHIsz04o2HNGgVjhZfLpgED5P2eWRBX6ALd8WLV_mcNy0Eu6O4FhhvI7lmPm_uBwsDgAIo9XTsB6BpnBWCgA8UUgGlEASgKNqXnZcP8p7uWKTyauRKcjB43NCHMfTZ70_PZ61409zybuR5s6NP2XS_aV5EUD48bOiBJ9XEDyLpnc9Y8WzXlyb65EK8_2TXl-fZZL9bOATl-6o6na6cD2U_XAVPLlhd7O1_2tIBCccJqhYTctITHDY0JaQkKT_dsf7pn44sVM4A-Bep6OXvms3VbIUEP9BHM_bAoAgVhQyMwl4D5jxt3P26c_7ipG8Foannc1PG4oeFx42QwWv1kHygrPG4Ehc_jxmUENT5vXQ5Wv-xxE9CDQC2zgVLPV00GC-573LgSJNg0CWLO8z6gGqD4fKAUWPGKx42rHjd1Ac15NmM-WApo_nRkKahGmC1g00C2vN_T_37PnseNLY8bp4G0z94BVrD1ceN-sJqOx00NmM7ACJ9dwAiDhw9OW2CefbZxwbMNW8BqgPZOBNr1uHEpigcJmfCif9qLSZvAaprAgo1gz6570bURLLge6GtkAzHEgf7qetzUBI6ytseNSx439gNDDEhC1L9cBCyrgOqBMTUHbPLqZ9uApQo8QoGMNY8b5wJtBHmnf8LzxvVg2YUgx4AMBDKAgQZUCTQZ6MFl0BCjvAiBAgUtfS4u30RgeR6QmZiX71BjUKNQDbJBwcZCCxwvCtgKLgVgpgIm5hcLexQ0TEAl7fP1DToKsMJEE4sGoD0gw4Cm56bVKpgCc7SughmQNlYwUjAEChvGgYVAgroKBkBcA1ZkDMW6YEVGUDUgCFYDNtPHsEbhcfNssOjjpv1A9mowH8YGyS6B6nrcvAJIxoPNf9y0GawDTDZ3Q_WvBatvQ7IJrBpikxFQrnEZVGUnkA20BciHsUFmtsBsaupA2NQIEgXGIJjcD5FvXApWPwnDJvyhvquHnFAnKsAh0obgAAcFNVARdQMcGKyPm1cC1e0Gq3jcPA-sohMqu4nKgd4ElgFmaiB7HRCvBwf7KogsyQG_o5Os5A5M7fCgNocGNyw-IGkbFvi68BQPCna8qR0Y0LDghQQhyNugIOyCi4O8CQt2UFQ9btoOVwlRB5IBqcIV5KDggqRUkCpI0ILshtvR1IQU2KAcAyymwGQ_mJwOlQHxSAhoYGVN23KFtGQOKQkQyRaRhEFhAU_mTduQwnsqEM8HJ_3HzQtISubQUqhxDhADM1VjLxB3APEacEjOhcfIOqSQB1UW4AgAMoEOmQyPBlBxg8g7yBbWcnHp2imAyn0FJFqZCwA)]
+- [主旋律 TMD 檔案](hotarugari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1giZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5SWWlBaloosWpyYW5-cVI5uYmZ6ZZ5Wbn5dUCgw2JS4tLYUX8xY9716poKXFpWirYGhgwmVvq-DMZWOib2IH0gcKEyuFZ9M2PN--QuHphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fZ-T8fL1TOer-18vnzikx0NQKVPdvUAlT7dueX5lBXv93SC3QOUebZo7rPWvic7Ol829ykAjX_c0EWKPY8buoFWPV2y_NnaxU97G0GW7NwCYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE0OY3c-mtb9sXvF8TiPQxqcbup_u2AGxEGIB0Nzna9Y8nT0b4mYlLi59LQVbagEuBQUFO4VoRT__ENdYCEdL62nffJBLN7e_WNH1oqMd6IgXK-c9bV0BdKiWFsiTG3qftXcqJICSoV5WQXrCo4bJQI6pAZgD9CrEAIUCPQVjEwOgpDHIsz04o2HNGgVjhZfLpgED5P2eWRBX6ALd8WLV_mcNy0Eu6O4FhhvI7lmPm_uBwsDgAIo9XTsB6BpnBWCgA8UUgGlEASgKNqXnZcP8p7uWKTyauRKcjB43NCHMfTZ70_PZ61409zybuR5s6NP2XS_aV5EUD48bOiBJ9XEDyLpnc9Y8WzXlyb65EK8_2TXl-fZZL9bOATl-6o6na6cD2U_XAVPLlhd7O1_2tIBCccJqhYTctITHDY0JaQkKT_dsf7pn44sVM4A-Bep6OXvms3VbIUEP9BHM_bAoAgVhQyMwl4D5jxt3P26c_7ipG8Foannc1PG4oeFx42QwWv1kHygrPG4Ehc_jxmUENT5vXQ5Wv-xxE9CDQC2zgVLPV00GC-573LgSJNg0CWLO8z6gGqD4fKAUWPGKx42rHjd1Ac15NmM-WApo_nRkKahGmC1g00C2vN_T_37PnseNLY8bp4G0z94BVrD1ceN-sJqOx00NmM7ACJ9dwAiDhw9OW2CefbZxwbMNW8BqgPZOBNr1uHEpigcJmfCif9qLSZvAaprAgo1gz6570bURLLge6GtkAzHEgf7qetzUBI6ytseNSx439gNDDEhC1L9cBCyrgOqBMTUHbPLqZ9uApQo8QoGMNY8b5wJtBHmnf8LzxvVg2YUgx4AMBDKAgQZUCTQZ6MFl0BCjvAiBAgUtfS4u30RgeR6QmZiX71BjUFMNskDBxkILHC0K2MotBWCeAqblFwt7FDRMQAXt8_UNOgqwskQTiwagNSDDahSqc9NqFUyBGVpXwQxIGysYKRgChQ3jwEIgQV0FAyCuASsyhmJdsCIjqBoQBKsBm-ljWKPwuHk2WPRx034gezWYD2ODZJdAdT1uXgEk48HmP27aDNYBJpu7ofrXgtW3IdkEVg2xyQgo17gMqrITyAbaAuTD2CAzW2A2NXUgbGoEiQIjEEzuh8g3LgWrn4RhE_5Q39VDTqgTFeAQaUNwgIOCGqiIugEODNbHzSuB6naDVTxungdW0QmV3UTlQG8CywDzNJC9DojXg4N9FUSW5IDf0UlWcgemdnhQm0ODGxYfkLQNC3xdeIoHBTve1A4MaFjwQoIQ5G1QEHbBxUHehAU7KKoeN22Hq4SoA8mAVOEKclBwQVIqSBUkaEF2w-1oakIKbFCOAZZSYLIfTE6HyoB4JAQ0sK6mbblCWjKHlASIZItIwqCwgCfzpm1I4T0ViOeDk_7j5gUkJXNoKdQ4B4iBmaqxF4g7gHgNOCTnwmNkHVLIg-oKcAQAmUCHTIZHA6i4QeQdZAtrubh07RRAxb4CkFbmAgA)]
 - [鋼琴伴奏 TMD 檔案](hotarugari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYm1giZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYlKXFpaCi_mLXrevfL9no6Xs2c-6-x-2b3n-YQtT_Zsebq0__2eTgUtLS5FWwVDAxMue1sFZy4bE30TO5DZIF9aKTybtuH59hUKTzf0P12749mChY-bdz9tXQNhKzydsvHZ2p5nU2c-mzvh5ew2kBWrZzxf2_l8-cQnOxqASp_s6gEqfbpzy_MpK4B2gd0MlHm2aO6z1r4nOzpfNvcpAI1_3NBFij2PG7qBVj1dsvzZ2sVPextBluzcAmE8m9Pxfk_P8y2Lns3e8WLmfAUDcyNTXRNDmN3PprW_bF7xfE4j0ManG7qf7tgBsRBiAdDc52vWPJ09G-JmJS4u38TMPKuAzMS8_CAPhxqDGoVqLgUgsLHQsgMzgAK5abUKpgq6QGgGpI0VjBQMgcKGcWAhkKCuggEQ14AVGUOxLliREVQNCILVgM30MaxReNw8Gyz6uGk_kL0azIexQbJLoLoeN68AkvFg8x83bQbrAJPN3VD9a8Hq25BsAquG2GQElGtcBlXZCWQDbQHyYWyQmS0wm5o6EDY1gkQfN04Ek_sh8o1LweonYdgEDSiiwggibQgOI1DoABVRN4yAIfG4eSVQ3W6wisfN88AqOqGym6gcTk1gmcdNjUD2OiBeDw6pVRBZ3GFVDUxT8NAxh4YQLAghKQgWXrrwdAUKKbxpChg2sBCB-BrkUpCvu-DiIJfBQgoUuo-btsNVQtSBZECqcIUSyIeQ9ABSBQkNkN1wO5qakMIHlC4fN4Ji6nFjP5icDpUB8bCHDdEZjrTEBMkiiMSBSCgg58MTU9M2pCCaCsTzwQnscfMCkhITNHs2zgFiYNJt7AXiDiBeA_b8XHggrkMKrIXgtAQMMyAT6JDJ8JAD5UNECkW2sBa5CPNBKcJM4EWYYbxCtGEsjKpRMAEyTGJBlAEWWdN4IMs0PhbMACogxRC4XmT1GGbgUgUzk7ZOAQaZrp0CKNSifYCicLYRmK3MBQA)]
 
 ## 分析
@@ -115,14 +103,14 @@ w: 2.~か ぜ に き え ぬ | そ の | ちや う ち ん つ け | て
 ================================================================================
 📊 TMD Song Profile: [ 螢狩 ]
 ================================================================================
-⏱  Duration:       1:13 (73.8s), 32 measures total
+⏱  Duration:       0:36 (36.9s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  C4 in [Main #1 @ m.1, 0:02]
    - 最高音: C5 in [Main #1 @ m.2, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (36.9s) -> Main (36.9s)
+🏛  結構:      Main (36.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -130,10 +118,9 @@ w: 2.~か ぜ に き え ぬ | そ の | ちや う ち ん つ け | て
    - 核心骨幹音:  C, G, D, E, A
    - 調性數值:    C 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.89), G 大調 (0.69), A 小調 (0.65)
-   - 五度圈歷程:   +0 -> +0
+   - 五度圈歷程:   +0
    - 各段落調性細節:
      • [Main #1]: C 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [Main #2]: C 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -160,7 +147,7 @@ w: 2.~か ぜ に き え ぬ | そ の | ちや う ち ん つ け | て
      B  : █                          1.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 106 個音符)
+  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 53 個音符)
 ================================================================================
 ```
 

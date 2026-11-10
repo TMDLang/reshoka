@@ -4,13 +4,13 @@ song_title: "鵞鑾鼻"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_1_03_garanbi"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈鵞鑾鼻〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　一波かうべをもたげては 萬波（ばんぱ）したがふ南洋の…"
+description: "〈鵞鑾鼻〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　一波かうべをもたげては 萬波（ばんぱ）したがふ南洋の…"
 keywords: "鵞鑾鼻, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）"
-musical_key: "D"
+musical_key: "G"
 meter: "4/4"
 tempo: "100"
 image:
@@ -35,7 +35,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P026.jpg，書頁 p. 3，第一學期第 3 首）：
-調性與拍號：に長調四分之四拍子（D 大調 4/4 拍），♩=100
+調性與拍號：原書標題誤植「に長調」與兩升記號，但旋律終止於第二線 G4，原書藏書者亦以鉛筆塗銷 C♯ 並批註「ト長調」；實為 G 大調 4/4 拍（弱起 1 拍），♩=100
 
 
 ## 歌詞
@@ -60,27 +60,30 @@ T:鵞鑾鼻
 M:4/4
 L:1/16
 Q:1/4=100
-K:D
+K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A3 A A8 B3 A | d8 B4 B3 A | F6 E2 F4 A4 | B12 z4 |
-w: 1.~い つ ぱ か う | べ を も _ | た _ げ て | は
-w: 2.~て ん ちゆう ほ _ | し を い _ | た _ だ き | て
-d3 d B8 A2 F2 | E6 F2 E4 A3 A | F6 E2 F4 A4 | A12 z4 |
-w: 1.~ば ん ぱ し た | が _ ふ な _ | ん _ や う | の
-w: 2.~た て るに に _ | た _ り あ _ | ら _ い そ | の
-F6 F2 F4 A3 F | A8 B4 d4 | e4 B6 d2 A3 ^G | A12 z4 |
-w: 1.~う し ほ よ _ | せ き て | う ち _ け ぶ | る
-w: 2.~な み を つ _ | ら ぬ く | は く _ ね つ | の
-d3 e f8 A3 A | B6 d2 A4 F4 | A8 E6 F2 | D12 z4 |
-w: 1.~ば _ し か い | けふ _ の ゆ | ふ ま ぐ | れ
-w: 2.~ひ か りは ひ _ | る _ を あ | ざ む き | て
+z4 z4 z4 D3 D | G8 G4 B3 A | d8 c4 B2 A2 | G6 E2 G4 G4 |
+w: 1.~い つ | ぱ か う べ | を も た げ | て _ は _
+w: 2.~て ん | ちゅう ほ し を | い た だ き | て _ _ _
+B8 z4 d3 d | B4 G4 E4 G3 G | A6 A2 A4 B2 A2 | G6 E2 G4 B4 |
+w: 1.~_ ば ん | ぱ _ し た が | ふ _ な ん や | う _ の _
+w: 2.~_ た て | る に に た り | あ _ ら い そ | の _ _ _
+G8 z4 E4 | E6 D2 E2 G2 A2 B2 | d8 c4 E4 | G6 E2 G4 ^G4 |
+w: 1.~_ う | し ほ よ _ せ き | て う ち | け _ ぶ る
+w: 2.~_ な | み を つ _ ら ぬ | く は く | ね _ つ の
+A8 z4 d3 d | B4 G4 E4 G3 G | A6 A2 A4 B4 | A8 G6 E2 |
+w: 1.~_ ば _ | し _ か い けふ | の _ ゆ ふ | ま ぐ _
+w: 2.~_ ひ か | り は ひ る を | あ _ ざ む | き て _
+G8 z4 z4 |
+w: 1.~れ
+w: 2.~_
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](garanbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLFuQkJiMJAs1Pz8yzKknMLE_Mi89PS8tMBluopaXwcuu8lxP3vdyzW0FLi0vRVsHQwIDL3lbBhcvGRN_EDmTCi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7qcbup_u2PF8-cTna9Y8bV37dO2Opzu3PJ-y4v2eDlBw6gEDUQ8UnECGgdn7PZ1KXFz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAPd9WLlvKetK55Nawe64umG3mftnQoBBkZmelkF6e_39AAVv1zQqFCgp2AM5AHd_WRHA9Ddz-bMB7IVjBVeLpsGdOj7PbNAhr9Ytf9Zw3KQsd29L2bOB4o-blz9cup2oPjT2bOfdrQ92dkNZABln66dALTOReHpkuVASQVgaCoARcEm9TyaudIWFNAgE4G2PW5oAJLPNi963Nj9uLHtcePOx02THjc1PW6c_7hx0uPGZY8b14Mtn7AGqAho6uPGDY-bJj9u3Ag07nHjdLC6nseNW5_2Tn-2BWjEOpBqsElAud1P17c8bpz9ZB-QCzQJSC583gx0OdCUiY8bt4GMaOoGa2ie8Lhp-7Ot259u3guWBpoE1AlUtBVsz7qnS6Y-btz3uBGorAfi9l3AOG94umTls_kbn82AmLkM7LKFj5tawXbtAboBbAXQH0DD5j9umve4sReoDKT_-WqgFUANQHL1kz1ApUDprseNTY-bgNYBVc-Fe2XV48b9YDOWgOXWPG7sfz5z7_M2YAgA7VwP5D5uXAuUhTgUomcTyAcg89Y_mzkXrBkYotMeNzUgHEB5ioMCBS19Li73RGBOTcq0CshMzMt3qDGoqQbZoWBjaKZlB2ZhS-oKkBT3YmGPgoaJwtMN_c_XN-jA06cmFg1Aq6CGaQA1alopPG5a8ri5GRh_Ex837wHyVj9uWqZQA-TPBOJNQLwIJA4UaNoPUQASawOr6EcxbVcPyDRwFCoAoxSsuHE3VHPjdKDOSUC6BSYwH6JgARD3ggWWwUyrUTBV0AVCUyiNgGZQ8RoFwzisUshKjJFkjYAYxocZWgPXgw4NYCrAzvExBLmuBSwCTCRAvBFNPTCpQGlwuDTuRJcH-hzGaoLbDgwCDHPg6oChgVC3Hoc741HdaQQJRYg9k4FsYD4CZqI2DFt2I5k9HbdboX7G5dYFcFYvkjqYu3G7FX9i3tVDUWIGlkLNmxGJeTsw1YLT7howv3kqEHdBU2DzZogYMEahKb4PW3oGlo7LgCpApQyQtxo1-TZ1AZlNsAzSCUnSLUA8F6xoHSJJQxMskEJPdaD0CEqbNeBUCoMgERgflh2ISdPoWQYGsaXpDWARSFrBTNOglAGJd5DaHgz5rXDWKrjtILPQ1DXBUhEiJUKCBrs7saVpSNpDigd0p8BEsCZUYBzB1CFlvqZODFMQDp1LkkMJlM6dlJXOwPJ0OzBtzgbiFbCEBi5VHzethZXEwPT7uLkRIggseKeBU_NqbKkZVBVCS2JgsY-SbNcAcT-0vAFViWBBULWInpSREyGIjZoIjbEkQliSh5fawLQOYyJnB7A8RLOJOomJGbmYgyVeWEH3uKkDbjGwNYNmGqIAQy12YSYCC1IMHROh9DZwCEKKf0yILTHDMgtE_36w6xBF7hKE_VhS6Bo4qx_JnbDqASGK0LEWbi4V0jKwbUpx4QwplWEtDZCzgA1GSEHcB8SQghhUTM8DqtgA5q3BlpBB7TNQ3oak1k2wtNwNMRqUvpvAXp4G5DWAoxitjQFNi8B0aIzelkCUtzgSJyLNY6ZR9EIcaBOOUMddJMNSMGpcwhoZLWCvgFrWGEpgEQys-OEOxKZuHwpvAkRdE3oZD4PYkvEmuKOgkYBuBUQBxGD0_IGc4pEbRNMw1DWgmNkLVUe4kVHLxaVrpwBtUysAmcpcAA)]
-- [鋼琴伴奏 TMD 檔案](garanbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5dd7Lifte7tn9fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDDgsrdVcOGyMdE3seOqU1B60b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWAK00MjAy0DMwMNMzsDAxBzIMzIC2KnFxuScWJeYlZVoFZCbm5Qd5ONQY1FRzKQCBjaGZlh2Ypa-lYIsOFIA2PNnR8GJhj4KGicLTDf3P1zfoKAQYGJnpZRWka2LRoKUPNqxGwVRBFwhNoTQCmkHFaxQM47BKISsxRpI1AmIYH2ZoDVwPOjSAqQA7x8ewRuFxYwtY5HHjEiDeiKb-cWM3lG4Dmvq4cSe6fNMkOKsJbvvjxvkY5sDVNS5DUrcehzvjUd1pBFIL0fe4aTKQvfBxUxvITei27EYyezput0L9jMutC-CsXiR1MHfjdiv-BLOrh5wEA00OQAo9TkGxDYr5GnAagEGQCIwPS2zEpBj0BAmD2FLMBrAIJCYwUwwo3CGhClLbgyG_Fc5aBbcdZBaauiZYHCHiGWTeOhzuxJZiIDELirnHTd2PG1djOAUmgjUZNHXB1SEl7aZODFMQDp1LkkMJlC-d5CQX5IgGsVEj2hhLRMOSFbzcAaYnGBM5yYHlIZpN1ElMMMgZFZZAYFn1cVMH3OLHjbPRTENkQdSCA2YisCjA0DERSm8DxxekAMOE2BIMLEFC9O8Huw5RaCxB2I8lFayBs_qR3Akr4BCiCB1r4eZSIb08nT2bguIFGOPG6PUOovTAkQwQqQszNaAXSUCbcPgPdwEDSyuooQarkFrAoTYRUZ4glMCCElhJwB2ITd0-FN4EiLom9BILBrElmE1wRwGLC8zqDKYAYjB6SkROW8iV5zQMdQ0oZvZC1RGukGrRmjg-yE0cE2gLBxg18QrRhrEwqkbBBMgwiYVRmPJm8UCWWXxuLJhlAA0RTH2mIHWm8bEIBtwshBFoyhCmodsKZcBNNwIyjIAGGANpY1Rn4TcIagKcj8eZQApkDjAcde0UoEEZ7QOUQOYagbnKXAA)]
+- [主旋律 TMD 檔案](garanbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdLFyYl58WWpRZlpmakpSG5JLSoGuxdsUXxJUWJecXJRZgHIEwhV-UUlGflA9xZkVFplZBaX5BdlJifmxGcn5iF5qyQjFeirvMSS0qJUdNGCnMRkJEGg_vTMPKuSxMxyoKvy09IykzMTc5S4tLQUXm6d93Livpd7ditoaXEp2ioYGhhw2dsquHPZmOib2IFMeNG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2ap61rn67d8XTnludTVrzf0wEKdz1gaOuBwh3IMDB7v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu16snPe0dcWzae1AVzzd0PusvVMhwMDITC-rIP39nh6g4pcLGhUK9BSMgTygu5_saAC6-9mc-UC2grHCy2XTgA59v2cWyPAXq_Y_a1gOMra798XM-UBRiHXPVsx8ubDnxaolz5YAw6bncePql1O3AxU_bugFKn7auvJpL9A9M8Baep7sbXs2vfvpvu7nW5uerV30bNoekK27ep5vn6XgbgJUAPXC9H4Q2dD6ZNeyJ7uXvuyc_Xxt29OF0192bVdwfjRzvcKTHcuede58sWI3yMbmDriN7_fMfrp-2fOmXQruCk-XLAcKKgAjUwHoZFAA7Nn4Yut2BUMIF-ivnkczV9qCoh3kP6DfHzc0AMlnmxc9bux-3Nj2uHHn46ZJj5uaHjfOf9w46XHjsseN68FBMWENUBHQxMeNGx43TX7cuBFo3OPG6WB1wBDY-rR3-rMtQCPWgVSDTQLK7X66vuVx4-wn-4BcoElAcuHzZmCgAE2Z-LhxG8iIpm6whuYJj5u2P9u6_enmvWBpoElAnUBFW8H2rHu6ZOrjxn2PG4HKeiBu3wVMgQ1Pl6x8Nn_jsxkQM5eBXbbwcVMr2K49QDeArQD6A2jY_MdN8x439gKVgfQ_Xw20AqgBSK5-sgeoFCjd9bix6XET0Dqg6rlwr6x63LgfbMYSsNyax439z2fufd4GDAGgneuB3MeNa4GyEIdC9GwC-QBk3vpnM-eCNQNDdNrjpgaEAyhP_1CgoKXPxeWeCCxckjKtAjIT8_IdagxqqkF2KNgYmmnZgVnYMp4CJP2_WNijoAFNKdoKJgpPN_Q_X9-gA882mlh0Au0EmVqjYKCgC4botGk8jKoBJj-IGAzC-MZg0giowhRNhQmSCiMgRjXDDGQ2TABG10CNQ0C4U6BkDdjJPoY1ChC36WLQwJiH0kuA5gETOZqJwFiFs9qg9E6QyqZJ6CqbmuAq54NJkAqQmcswzFyPJlKDxkd23wao6ZNhvjHC5xuIXWDVQB40Y2DYvxvOmg5VPwmsHhIWyCpBPoGwFoDJXhx-Qof4fAQxE2RGDThj406pu3rAKZXEBApLFbB0Ak48CAFDoBJQCoNBEBvGJyL1wUzHTOSw1Ae3D5H8sCUsSNAjB0gPOGi3YqhcBWMBoxVEgqIJpBIzYtehieCLBphuRLIClo1w2dVYWFB3NnWBbYcld7jtTZ1wlSAXAktUqDvRXYUO8bkS5ndCSWVHJzlJBR5VIAguwOBxDUoGoLjGXVQh4hlPWaUOV4Oc5kAQd2GFSBuQMABl18dNHXD-bDDZCzYVW_ECi1lgAQC3HVi1YqjbBmPB451wQYSSXhr3I5sHLhJBBSmMD0oPwOoTan8_hv2wYhAhB1K3FkMd3ER4SsLnzk1QuptQmnk6e_YAFC8Q56MnBowEhLt4gdG40gvM9zAWrIIDNa2wZsfHTYgEAyt8QOr2YRg6AU0EVGT0oImh10nIxUsX3CRE1EOiC5EIYXURRvHSOA2usgHJlb0Y6tAzBO7EgnBjLReXrp0CtE2lAGQqcwEA)]
+- [鋼琴伴奏 TMD 檔案](garanbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5dd7Lifte7tn9fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDDgsrdVcOeyMdE3seOqU1B60b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWAK00MjAy0DMwMNMzsDAxBzIMzIC2KnFxuScWJeYlZVoFZCbm5Qd5ONToGtZUcykAgY2hmZYdmKWvpWCLDhSAVjzZ0fBiYY-CxtM9G19s3a6grWCi8HRD__P1DToKAQZGZnpZBemaWHRq6YNNrVEwUNAFQ3TaNB5G1SgYQsVgEMY3BpNGQBWmaCpMkFQYATGqGWYgs2ECMLoGahwCwp0CJWvATvYxrFGAuE0Xg37c2AKllwDNe9y4Ec3Ex43dcFYblN4JUtk0CV1lUxNc5XwwCVIBMnMZhpnr0URq0PjI7tsANX0yzDdG-HwDsQusGshb-LipFeZuZPt3w1nToeongdVDwgJZJcgnENYCMNmLw0_oEJ-PIGaCzKjhwp9Sd_WAUyqJCRSWKmDpBJx4EAKGQCWgFAaDIDaMT0Tqg5mOmchhqQ9uHyL5YUtYkKBHDpAecNBuxVC5CsYCRiuIBEUTSCVmxK5DE8EXDTDdiGT1uAmR2FdjYUHd2dQFth2W3OG2N3XCVYJc-LhxLtSd6K5Ch_hcCfM7oaSyo5OcpAKPKhAEF2DwuAYlA1Bc4y6qEPGMp6xSh6tBTnMgiLuwQqQNSBiAsuvjpg44fzaY7AWbiq14gcUssACA2_64cSKGum0wFjzeCRdEKOmlcT-yeeAiEVSQwvig9PC4cQ3U_n4M-2HFIEIOpG4thjq4ifCUhM-dm6B0N6E083T27AEoXiDOR08MGAkId_ECo3GlF5jvYSxYBTcRVLRgy46PmxAJBlb4gNTtwzB0ApoIqMjoQRNDr5OQi5cuuEmIqIdEFyIRwuoijOKlcRpcZQOSK3sx1KFnCNyJBeHGWrQ2lQ9Km8oE2qQCNX4gEBg98QrRhrEwCs43AVKm8TABs_hcTCVg_VDz4LqAtAlYmymICTIBziDSKLgZYAZCI6rxKEaZodpIisPAroALgVQjzIc7DBiqunYK0ICN9gGKI3ONwFxlLgA)]
 
 ## 分析
 
@@ -88,51 +91,51 @@ w: 2.~ひ か りは ひ _ | る _ を あ | ざ む き | て
 ================================================================================
 📊 TMD Song Profile: [ 鵞鑾鼻 ]
 ================================================================================
-⏱  Duration:       0:38 (38.4s), 16 measures total
-🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <4/4>
+⏱  Duration:       0:40 (40.8s), 17 measures total
+🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – F#5 (MIDI 78) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  D4 in [Garanbi #1 @ m.16, 0:36]
-   - 最高音: F#5 in [Garanbi #1 @ m.13, 0:29]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Garanbi (38.4s)
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Garanbi #1 @ m.1, 0:01]
+   - 最高音: D5 in [Garanbi #1 @ m.3, 0:04]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Garanbi (40.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, F#, B, D, E
-   - 調性數值:    A 大調 [相關度: 0.76, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A 大調 (0.76), D 大調 (0.73), F# 小調 (0.71)
-   - 五度圈歷程:   +3
+   - 核心骨幹音:  G, A, B, E, D
+   - 調性數值:    G 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 98.3%]
+   - 候選調性 (K-S): G 大調 (0.86), E 小調 (0.68), D 大調 (0.54)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Garanbi #1]: A 大調 (r: 0.76, 自然音純度: 100.0%)
+     • [Garanbi #1]: G 大調 (r: 0.86, 自然音純度: 98.3%, 調外音: G#)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
+         F           [G ]*
       Bb               D  
-      Eb              [A ]*
+      Eb               A  
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  :                            0.0%
+     C  : ██                         3.3%
      C# :                            0.0%
-     D  : ██████████                14.6%
+     D  : ████████                  12.5%
      D# :                            0.0%
-     E  : ███████                   10.4%
+     E  : █████████                 13.3%
      F  :                            0.0%
-     F# : ███████████████           21.2%
-     G  :                            0.0%
-     G# :                            0.4%
-     A  : ████████████████████████  34.2%
+     F# :                            0.0%
+     G  : ████████████████████████  35.8%
+     G# : █                          1.7%
+     A  : █████████████             19.6%
      A# :                            0.0%
-     B  : █████████████             19.2%
+     B  : █████████                 13.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – F#5 (16 個半音 / 1.3 個八度, 56 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 62 個音符)
 ================================================================================
 ```
 

@@ -7,7 +7,7 @@
 ~ "曲：信時潔"
 ~ "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
 
-VerseBody:PianoRH@|0| {
+VerseBody:PianoRH@|-1|{
     <8*>
     /* 弱起小節 */
     | 0 - 0 - 0 - {mf} 5_ - |
@@ -37,7 +37,7 @@ VerseBody:PianoRH@|0| {
     | 2 - - 3 2 - 1 - |
 }
 
-VerseBody:PianoLH@|0| {
+VerseBody:PianoLH@|-1|{
     <4*>
     /* 弱起小節 */
     | 0 0 0 0 |
@@ -59,22 +59,22 @@ VerseBody:PianoLH@|0| {
     | 2_ - [5_] - |
 }
 
-Ending123:PianoRH@|0| {
+Ending123:PianoRH@|0|{
     <8*>
     | 2 - - - 3 - 1 - | 6_ - - - - 0 0 - |
 }
 
-Ending123:PianoLH@|0| {
+Ending123:PianoLH@|0|{
     <4*>
     | 2_ - [5_] - | 6__ - [6_m] 0 |
 }
 
-Ending4:PianoRH@|0| {
+Ending4:PianoRH@|0|{
     <8*>
     | 2 - - - 1 - 2 - | 3 - - - - - 0 - |
 }
 
-Ending4:PianoLH@|0| {
+Ending4:PianoLH@|0|{
     <4*>
     | 2_ - [5_] - | 1_ - [1] 0 |
 }

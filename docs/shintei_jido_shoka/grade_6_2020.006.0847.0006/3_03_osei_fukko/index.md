@@ -73,30 +73,30 @@ Q:1/4=96
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! D2 D2 E2 E2 | D2 E2 G2 A2 | B2 B2 A2 D2 | B2 A2 A2 z2 |
+!mf! D3 D G2 D2 | B,3 C D2 E2 | F3 G A2 F2 | D3 D B,2 z2 |
 w: 1.~よ せ こ し | く ろ ふ ね | と ど ろ く | ほ づ つ
 w: 2.~か が や く | あ ま つ ひ | に し き の | み は た
-B2 B2 A2 A2 | G2 A2 B4 | !mp! A3 A G2 E2 | D4 G4 |
-w: 1.~ち よ だ の | し ろ の | の ど か な | る ゆ
-w: 2.~し ち ひや く | ね ん の | く も き り | も あ
-F4 A4 | e4 d4 | ^c4 e4 | d4 z4 |
-w: 1.~め を | や ぶ | り て | _
-w: 2.~と な | く き | え て | _
-!mf! B3 B A2 G2 | F2 G2 A2 F2 | G2 G2 A2 A2 | B2 c2 d4 |
-w: 1.~わ た る ひ | び き に つ | つ う ら う | ら も _
-w: 2.~あ ふ ぐ た | み く さ つ | つ う ら う | ら も _
-e2 e2 d2 B2 | G2 A2 B2 G2 | A2 A2 G2 E2 | D2 G2 B4 |
-w: 1.~そ ん の う | じや う い _ | そ ん の う | じや う い
-w: 2.~わ う せ い | い し ん _ | わ う せ い | い し ん
-!f! e4 d4 | B4 G4 | A4 d4 | G4 z4 |
-w: 1.~そ ん | の う | じや う | い
+B3 B B2 B2 | A3 A A4 | !mp! G4 A2 G2 | E4 D4 |
+w: 1.~ち よ だ の | し ろ の | の ど か | な る
+w: 2.~し ち ひゃ く | ね ん の | く も き | り も
+D4 G4 | B6 G2 | A6 A2 | G6 z2 |
+w: 1.~ゆ め | を や | ぶ り | て
+w: 2.~あ と | な く | き え | て
+!mf! B4 B3 B | c2 B2 A2 G2 | A3 A d2 d2 | B3 B A2 z2 |
+w: 1.~わ た る | ひ び き に | つ つ う ら | う ら も
+w: 2.~あ ふ ぐ | た み く さ | つ つ う ら | う ら も
+G3 G G2 G2 | D3 D D4 | B3 B B2 B2 | G3 G G4 |
+w: 1.~そ ん の う | じゃ う い | そ ん の う | じゃ う い
+w: 2.~わ う せ い | い し ん | わ う せ い | い し ん
+!f! d6 d2 | d4 d4 | d6 d2 | G6 z2 |
+w: 1.~そ ん | の う | じゃ う | い
 w: 2.~わ う | せ い | い し | ん
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](osei_fukko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2ZkFgO1V6ILZ-YWpKIaCrQjPTPPKjc1MysTi4Oh0iWJmcBAAQVMeWJ8bmJmXk5iXooSl5aWwvO-7mdT9j_dt_Jp_xIFLS0uRVsFSzMue1sFdy4bI30TO5BJL1bOe79n1tMly5-t7H7Z1fqyYQHYgmezNwGFn0_Z8GzuxBcz-15M7wcLv2jf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbN09a1T9fueLpzy_MpK97v6QDFkx4wdvRA8QRkGJi939OpxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQXUD_Pm1d8WxaO9AVTzf0PmvvVAgwMDXWyypIf7-nB6j45YJGhQI9BWMDIBfo8Cc7OoEOfzZnPpCtYKzwctk0oEuBQQMy_cWq_c8aloPM7e59MXM-UPRx44qXU7cDxZ_Onv20o-3Jzu4nu3qAsk_XTgDa564ADGegpAIw8BWAomCTgCHV83T_6mdbdj9u7n7cABTseDRzpa0lKES4QLY82dHwuKER7Jv1LUDZx00dQKnHjbOf7GsDcRsng7nTX-6e9KJjJ1ik_3FT7-PGrY8b14KkGhpf7AU6Dii-4nHjSqAUWH3_88bVzxcAYxkovvtx49LHTXMhisE29TY_2b0YGP1g6YVAKx83LgBrW_d0fh9YcDrMoHUgDUBfv5w2ESyxDmRJYzdYbtXjJqCfGp8uWQR2eNvjpkaQeNOk5wu2gEVaHjduA4t0PW5cBjLo2Y6FYIn-x41ANwMlul_O3w82d9Pjxs2PGyF2AoNr6eOGVrD4ErjLn21dBhME2gRUBiLBhjSBPbWhC5wjZjxdsh2saO7jpslg97Y9bpwBdguQAQxikFnIitG4kFjZBYw4cFi92AO0Hmha9-PGHqAhkMB9umQlWLDpceM-sMiSZ9OXQrwBMf9lzzIwdzUoJKG-Wvd038Jn06eDxfc_blwPCQJIGmh-PnMfMPvAghuUPSER3QTS2rz75ZzlYJFeYFBCvPxi-0JQBDT2P9sGFAcicPg-2Q2JU6DDtoItnfBsw8QXvcBgAgrOB9sLDPqpQCksQdy8m0AQQ0qc59vWAgsEWDQCw3Q2MFjBCJhowKm1eTeySmBwIHNBBlGe_aFAQUufi8u_ODXTrTQ7O98qIDMxL9-hxqCmGmSLgo2hmZYdmIWt5FEA5_-GFwt7FDTMgMmn__n6Bh14caGJRQPQMpBhNQrVuWm1CqbxCroQwgxO1CAJGAKxEVjMGEiCMIgHlocIgbggbIChCKINZgBIFARrwLb7GNYoAHMskA8MeTA5GUxOB-sBxi-I19QLFtsKJtdCZVaAeSuR5EFqQTK7wbylYHIJkIS4EVg0gNVC7FoAJtdBZUC2wUwBiSG5zwgk3w2W6QGrakGxqwnM2we3C5hnoDKr4f4AJnQU2_aDeevB5Hwk90HUgl0JLEDQLAJ5G5gg0ZyIPzns6iEvORTUgmMKFF-gWENOCyAIEgNbr2AOE4IoBwmZQVmmcBETdSgTJgU0CsoCpRW0tAD1HChmYeG-ChIETSAeWK6pDW4SsJCGi05CEgUFHsScbUiiXXDRZXBRCA2JBfR4BwU-yOQmWByCTQCZBIp3iEkwFixNQkRBboaJQkyBpQOYKCgdEnYLgfzeSXZ-h2RDY3DMgSIUGpmwXArmQDItTAiR-02AGBG_oGgFYZAISBY1q4PNRsrq0CAFJnxIhCIyzGZ4EMEyDyhDgWQgGQsU6cACHM4GmQbmwSMDFrRzwaKIvAJXD645EYY1wlIJcpxDDAOVNsD6BupU5HwLLpEap1LiQHAgwNwAKfVALgGZBHEdpDwCeYCIVABsvpGTCmBRip7DQXx4Ga1QDUwqmFkaJo8oCWAFAEINTA5bHic9gqCaINkRHjBIZSFEB0wUagymBEwUS24nNVbgiRndDpBeiCiy8xHuAZkDMwFmGsI9tVxcunYK8FaAApCjzAUA)]
-- [鋼琴伴奏 TMD 檔案](osei_fukko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnje1_1syv6n-1Y-7V_yfk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOOyt1Vw57Ix0jex46pTUHqxct77PbOeLln-bGX3y67Wlw0LlEDCz2ZvAgo_n7Lh2dyJL2b2vZjeDxZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWAN1nZGBkoGdgYKZnYGFiDmQYmAGdqMTF5V-cmulWmp2dbxWQmZiXH-ThUGNQU82lAAQ2hmZadmCWvpaCLTpQANrxZEfDi4U9ChoBBqbGelkF6ZpYlGnpg42oUajOTatVMI1X0IUQZnCiBknAEIiNwGLGQBKEQTywPEQIxAVhAwxFEG0wA0CiIFgDtt3HsEbhcVMHkP-4cTaYnAwmp4P1PG7sB_GaesFiW8HkWqjMCjBvJZI8SC1IZjeYtxRMLgGSEDc-blwIVguxawGYXAeVAdkGMwUkhuQ-I5B8N1imB6yqBcWuJjBvH9yux42boDKr4f543IgwGSSzH8xbDybnI7kPohbsysZN6BaBvP24CRI4CCfiTwS7ekhJBAW14PgBxRIorpBTAAiCxMCWKpjDhCDKQUJmUJYpXMREHcqESQGNgrJAKQQtBUC9BIpPWGivgni8CcQDyzW1wU163NQIF52EJAoKMog525BEu-Ciy-CiEBoS9uixDQpykMlNsJgDmwAyCRTbEJNgLFhKhIiC3AwThZgCi32YKCj1EXYLgbzdSWLehmQ5Y3B8gaIRGoWwHAnmQDIoTAiR002AGBGroMgEYZAISBY1W4PNRsrW0IAEJnJINCIyx2Z4wMAyCijzgGQgmQgU1Y-bOuFskGlgHjwKYAE6FyyKyBdw9Y0zYFkIbFgjLG0gxzTEMFDJ8rhxAtSpyHkUXPo0TqXEgeBAgLkBUsKBXAIyCeI6SNkD8gARcf909mzi4x4Wkei5GcSHl8IK1cAEgpl9YfKIXA_L7Ag1MDls-Zn0aIFqgmQ9eHAglXYQHTBRqDGYEjBRLDmb1LiAJ2F0O0B6IaLIzke4B2QOzASYaQj31GJU7j7IlbsJtG6HZl7DeIVo0_hYUHgDWYYwBkTIND4eGPzIIjBFyMU6SBW6GUhiRjAxEMMIyVh0Z6BrxOI0E2Q3IrkDmxNAKQ9DPZpKkCuA4aVrpwAPsmgfoDpUAaCjgQLKXAA)]
+- [主旋律 TMD 檔案](osei_fukko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdLFyYl58WWpRZlpmakpSG5JLSoGuxdsUXxJUWJecXJRZgHIEwhV-UUlGflA9xZkVFplZBaX5BdlJifmxGcn5iF5qyQjFegriHQlunBmbgHQ7sQcZDMz0zPzrHJTM7MysfgMKl2SmAkMPVAIlifG5yZm5uUk5gGdr6Wl8Lyv-9mU_U_3rXzav0RBS4tL0VbB0ozL3lbBncvGSN_EDmTSi5Xz3u-Z9XTJ8mcru192tb5sWAC24NnsTUDh51M2PJs78cXMvhfT-8HCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nztHXt07U7nu7c8nzKivd7OkARqgeMRj1QhAIZBmbv93QqcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50F9C_T1tXPJvWDnTF0w29z9o7FQIMTI31sgrS3-_pASp-uaBRoUBPwdgAyAU6_MmOTqDDn82ZD2QrGCu8XDYN6FJg0IBMf7Fq_7OG5SBzu3tfzJwPFH3cuOLl1O1A8aezZz_taHuys_vJrh6g7NO1E4D2uSsAwxkoqQAMfAWgKNgkYEj1PN2_-tmW3Y-bux83AAU7Hs1caWsJChEukC1PdjQ8bmgE-2Z9C1D2cVMHUOpx4-wn-9pA3MbJYO70l7snvejYCRbpf9zU-7hx6-PGtSCphsYXe4GOA4qveNy4EigFVt__vHH18wXAWAaK737cuPRx01yIYrBNvc1Pdi8GRj9YeiHQyseNC8Da1j2d3wcWnA4zaB1IA9DXL6dNBEusA1nS2A2WW_W4CeinxqdLFoEd3va4qREk3jTp-YItYJGWx43bwCJdjxuXgQx6tmMhWKL_cSPQzUCJ7pfz94PN3fS4cfPjRoidwOBa-rihFSy-BO7yZ1uXwQSBNgGVgUiwIU1gT23oAueIGU-XbAcrmvu4aTLYvW2PG2eA3QJkAIMYZBayYjQuJFZ2ASMOHFYv9gCtB5rW_bixB2gIJHCfLlkJFmx63LgPLLLk2fSlEG9AzH_ZswzMXQ0KSaiv1j3dt_DZ9Olg8f2PG9dDggCSBpqfz9wHzD6w4AZlT0hEN4G0Nu9-OWc5WKQXGJQQL7_YvhAUAY39z7YBxYEIHL5PdkPiFOiwrWBLJzzbMPFFLzCYgILzwfYCg34qUApLEDfvJhDEkBLn-ba1wAIBFo3AMJ0NDFYwAiYacGpt3o2sEhgcyFyQQZRnfyhQ0NLn4vIvTs10K83OzrcKyEzMy3eoMaipBtmiYGNopmUHZmEreRTA-b_hxcIeBQ0zYPLpf76-QQdeXGhi0QC0DGRYjUJ1blqtgmm8gi4QAilDCKULlDGGCJrEQwTMIKLmEFFDBSMgCebUIGkH6zGAaAeLGYNpEK4B69AFkhAaKAJ2go9hjQIw24JFgBEAxJPBrOlgPcBIhsg09QLZW8Eya6EyK6B6VoJlQSyQWpDMbqjMUiBeAmRBnAksH6BmdQDZC8Aq1kFlQLbBbAGJIbnPCCTfDTWxB6imBcWuJqjMPqhdwIwDlVkNlZkOxBD3wWzbD5VZD8TzkdwHdQXQnaBSpKkZxSKQt0FOnIziRPxpYlcPeWmioBacEiDxBYptkBPAKQAa0VDrEUyYcljEI0RhEY8wrgauGgTByQWRFOB-A0UsiAQFPUh8FUy8CRIZYNGmNrhoI5LoJCTzIREGMmEbimgXVHQZkig4IpCiHZL4QKpB0QyJRpD5IL0Icait0KQAUgdJmqjuhsjAYhNkEkIUlPyxu4VAnu8kO8_DogmWT2sUTKA8RIzDcqwpkARhRK4GyUDyOSQqDcE0RBeiOEAkFKSsDg9TcNKHxCfI76BsA6w54eEMyUAgGVC2AvGXADEovoElOVQGEvsgPiQmYBlpLlQcllcgKkEywOoTlK0gQsCiHtWB4EhHRCOovAHRE8BaQc6F5F1INAJrH3IdCA0EiBtmg1mwRApxEbjUADof5jq8yQDYhiMnGWCW0MhxCUm-1aDaAcoDRypYFCYCoxEiCDX4sjjp0QPXBI0acNCglhawkgDFGGRJROhCIFpmJzVOkJIyqh0gvRARZOcj2wyv3eCmIdxTy8Wla6cAbwgoADnKXAA)]
+- [鋼琴伴奏 TMD 檔案](osei_fukko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnje1_1syv6n-1Y-7V_yfk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOOyt1Vw57Ix0jex46pTUHqxct77PbOeLln-bGX3y67Wlw0LlEDCz2ZvAgo_n7Lh2dyJL2b2vZjeDxZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWAN1nZGBkoGdgYKZnYGFiDmQYmAGdqMTF5V-cmulWmp2dbxWQmZiXH-ThUGNQU82lAAQ2hmZadmCWvpaCLTpQANrxZEfDi4U9ChoBBqbGelkF6ZpYlGnpg42oUajOTatVMI1X0AVCIGUIoXSBMsYQQZN4iIAZRNQcImqoYAQkwZwaJO1gPQYQ7WAxYzANwjVgHbpAEkIDRcBO8DGsUXjc1AEWedw4G4gng1nTwXoeN_ZDZJp6geytYJm1UJkVUD0rwbIgFkgtSGY3VGYpEC8BsiDOfNy4EGpWB5C9AKxiHVQGZBvMFpAYkvuMQPLdUBN7gGpaUOxqgsrsg9r1uHETVGY1VGY6EEPcB7NtP1RmPRDPR3If1BVAdwJNedzUjGIRyNsgJ05GcSL-lLCrh5SUUFALjn9ILIHiGGQxON6h0Qu1FMGEKYdFN0IUFt0I42rgqkEQnEgQCQDuI1B0gkhQgIPEV8HEmyBRABZtaoOLNiKJTkIyHxJNIBO2oYh2QUWXIYmCgx8psiFJDqQaFLmQyAOZD9KLEIfaCk0AIHWQBInqbogMLA5BJiFEQYkeu1sI5O9OEvM3LHJgebJGwQTKQ8QzLHeaAkkQRuRgkAwkT0Mi0BBMQ3Qhsj4ieSBla3hIgpM5JBZBPgZlkceNm-GhC8ksIBlQFgLxlwAxKJYfN3VCZSBxDuJDwh-WaeZCxWH5AqISJDMDkoUgQo8bQQkCyYHgqEZEHqhsAdETwFpBzoXkU0jkPW6cSq4DoYEAccNsMAuWNCEuApcQQOfDXIc38p_Onk185GOWwcgxCEmq1aDyH8oDRyVYFCYCoxEiCDX4sjPpkQLXBI0QcICglgywXI9iDLIkIkwhEC1jkxoTSAkY1Q6QXogIsvORbYbXX3DTEO6pxajffZDrdxNo9Q7Nu4bxCtGGsaDghjFM44Es03iomAF2KZRCHSZtApJGKCRgLFZXAJsD2JQjsbA7BNMb4ISHMAQ7E-oSYJDp2inAQy3aB2gCqoARWECZCwA)]
 
 ## 分析
 
@@ -107,26 +107,26 @@ w: 2.~わ う | せ い | い し | ん
 ⏱  Duration:       0:30 (30.0s), 24 measures total
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [OseiFukko #1 @ m.1, 0:00]
-   - 最高音: E5 in [OseiFukko #1 @ m.10, 0:11]
+🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  B3 in [OseiFukko #1 @ m.2, 0:01]
+   - 最高音: D5 in [OseiFukko #1 @ m.15, 0:18]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      OseiFukko (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, G, B, E
-   - 調性數值:    D 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 98.9%]
-   - 候選調性 (K-S): D 大調 (0.82), G 大調 (0.76), B 小調 (0.63)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  D, G, B, A, E
+   - 調性數值:    G 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.86), D 大調 (0.80), B 小調 (0.73)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [OseiFukko #1]: D 大調 (r: 0.82, 自然音純度: 98.9%, 調外音: C)
+     • [OseiFukko #1]: G 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
-      Bb              [D ]*
+         F           [G ]*
+      Bb               D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -134,21 +134,21 @@ w: 2.~わ う | せ い | い し | ん
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █                          1.1%
-     C# : ██                         2.2%
-     D  : ██████████████████████    19.8%
+     C  : █                          1.6%
+     C# :                            0.0%
+     D  : ████████████████████████  30.4%
      D# :                            0.0%
-     E  : ████████████████          14.3%
+     E  : ███                        3.3%
      F  :                            0.0%
-     F# : █████                      4.4%
-     G  : ████████████████████      18.7%
+     F# : ██                         2.7%
+     G  : ███████████████████       24.5%
      G# :                            0.0%
-     A  : ████████████████████████  22.0%
+     A  : ████████████              15.2%
      A# :                            0.0%
-     B  : ███████████████████       17.6%
+     B  : ██████████████████        22.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 72 個音符)
+  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 69 個音符)
 ================================================================================
 ```
 

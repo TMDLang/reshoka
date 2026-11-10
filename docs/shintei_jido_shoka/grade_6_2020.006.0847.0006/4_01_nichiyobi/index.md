@@ -67,27 +67,27 @@ Q:1/4=112
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mp! C4 D4 F6 G2 | A4 c4 G4 F4 | D8 C4 F2 G2 | A6 A2 G4 G2 A2 |
-w: 1.~の べ に や | ゆ _ か ん | は な を _ | と _ り _ _
-w: 2.~き の ふ ま | な _ び し | く さ を _ | た _ ず _ _
-F12 z4 | C4 D4 F6 G2 | A4 c4 G4 F4 | D8 C4 F2 G2 |
-w: 1.~に | は ま に や | ゆ _ か ん | か ひ を _
-w: 2.~ね | ち づ に て | み _ た る | う み べ _
-A6 A2 G4 c2 G2 | F12 z4 | !mf! G8 G4 A4 | B8 G8 |
-w: 1.~ほ _ り _ _ | に | ま ち に | ぞ ま
-w: 2.~た _ ど _ _ | る | う れ し | や ま
-c8 A4 B2 c2 | d4 c4 A4 B4 | G12 z4 | !f! c8 A4 c4 |
-w: 1.~ち し け _ | ふ の や す | み | う れ し
-w: 2.~ち し け _ | ふ の や す | み | た の し
-f8 A8 | !mp! G8 c4 F4 | D4 G2 B2 A4 G4 | F12 z4 |
-w: 1.~や か | ぜ も く | も も _ い で | ず
-w: 2.~や ま | ち し け | ふ の _ あ そ | び
+!mp! z8 z4 F2 G2 | A6 A2 A2 G2 F2 G2 | F8 C4 F2 A2 | c6 c2 c2 B2 A2 B2 |
+w: 1.~の _ | べ に ゃ _ ゆ _ | か _ は _ | な を と _ り _
+w: 2.~き _ | の ふ ま _ な _ | び _ く _ | さ を た _ づ _
+A8 z4 F2 G2 | A6 A2 A2 G2 F2 G2 | F8 C4 F2 A2 | c6 c2 c2 B2 A2 B2 |
+w: 1.~に は _ | ま に ゃ _ ゆ _ | か _ か _ | ひ を ほ _ り _
+w: 2.~ね ち _ | づ に て _ み _ | た _ う _ | み べ た _ ど _
+!mf! A8 z4 c4 | d6 d2 d4 d4 | c8 A4 c4 | c4 B2 A2 B4 c4 |
+w: 1.~に ま | ち に ぞ ま | ち し け | ふ の _ や す
+w: 2.~る う | れ し や ま | ち し け | ふ の _ や す
+!f! A8 z4 c4 | d6 d2 f4 d4 | !mp! c8 A4 c4 | c4 B2 A2 B4 G4 |
+w: 1.~み う | れ し や か | ぜ も く | も も _ い で
+w: 2.~み た | の し や ま | ち し け | ふ の _ あ そ
+F8 z4 z4 |
+w: 1.~ず
+w: 2.~び
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nichiyobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybn5-aW5mWWVCIkgKalZ-ZZlSRmAv0H8mN5YnxuYmZeTmJeihKXlpbCs-lLn82eAyQVtLS4FG0VDA2NuOxtFdy4bEz0TexA5rxo3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzdPWtU_X7ni6c8vzKSve7-kABaEeMOD0QEEIZBiYvd_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572rri2bR2oCuebuh91t6pEGBgaqmXVZD-fk8PUPHLBY0KBXoKxkAX9Tztb37R0Az07rO5E4CeUDBUeLlsGtCl7_fMApn-smH-013LgOa-WLjiWXMrUPTZiqbHTdsfN2163Nyt8GjmSltQEAJVvli1_1nDcpALuntfzJwPVPm4ccfLqduB4k9nz37a0fZkZzeQAZR9unYC0GVuCk-XLAdKKgADXgEoCrQT7J32XS9mTgXqBjl-6Wag2pfzNwPtBLoQGMxAx4PUgRQ-2dEAdmB738umLqDix43rHjfuBMo-blz9uKn5xcKex43dj5smv-ja-Lhp0tP-aY-buoBSID3P9m8Ea1j_uHEfFg2b5oJlux83bgLJNk161jcDLLIbzIWZ8nRf6-PGhSDNjfNg7OlPdncBExfQLU_2TAQpetzY9rgJaPD0x00tLxeteNzU9HL2JiAJ9ObjxuWPG2dB_LKrB6K4F-yLrUB3PW5c9bhxM1Dji16QE4AJDeyE-Y8bl4KdvBbshDkbns4BxhZQAmg5RALonGUvlgEdP_9xU_ezrdthodP2uHE_LICApqwEyoKNWAPkg1wHthO7F4DKga7CruhlIzA8NoPUUZ6coUBBS5-Lyy8zOSOzMj8p0yogMzEv36HGoKYaZIuCjYWWHZiBLSMpAJMwMGEA41JBw0Th6Yb-5-sbdOCpXxOLBqBdUMM0gBo1rRQeN_cB8R4gngnE3Qo1QHIJVGQZmAaKNK0GsjYDcT9YvguINwFxB1TdKpg6oH5kC3b1gCxo7IUoa1wHxFtByhr3QUXgGhuBhjdOB-J-uMhUoLWTQLEBVTsLLrMWZkmNQnVuQa2CabyCroIZiDAEYl0FI6CEMZA2BbMhojUQBSAIVm4IV6ULJEGqjIB0DdQECDQA6QNb5GMIsncdkA9MUmByNVgFMImAg6cNqgOYi8Cik8E2AnMcXHwVWHwSVHwFTLypC8oCiULMhECQG6F2G4HkesGmQFywFWrmPrAukMkQ_mYwOR1qWj9cfCqK3fPh4rOQ7F6LYTf-RLerh7JEB4nnx83zsCQ6pAQHpiFJC5gWwIluNnGJbiE02SwFByzIi5DUDCwW4AkJmLSaukFlFlwEKAeMYESiWwnPAXBLaqiU3kzBIvjSGyj1gGKZ-PQG4kHEN6HE-W6YONHpbSHYlKXIdgMDEBJEMDtAKQkUMBDTEG4CqYDkE9T0thJhN1gXKeltRydl6Q2UzhrBaeVxEzjfwESatoPdsxHIA5Y40MIQmh6bgEmheT621AVMMU09kCILEiWgIg2U5oAiIN5EcDYFF3nQ9NMC5AFLWGDgIBVeabXgpABJRKCEAQocEyQRSHCBEhYk4egCZU1BiQvIAolCREBqYKqxJSRQEoJEASRaQREKEp8HF4epgEU9RBRUlID8AhEHFTvQIgjoGxB7JlQGliSwJSR4sgCGF1LxBDaBNnbjTUjAJhlFCakJVIqsAScbUBKBFlVNoAJpEZi3HsyCYEjMgwq2diC9C1tCAhY04HqR6ITU2ATEc4F4M1JCAqYj5DQCYgOLljgkIUgAwxIJpNoEMpCKKiNgQgKpBKnBXy4RjlJY7gapngNX3QSWA9VLINVgHlQMEqXLoTpg9RK25IQoTSB1IcXJCRieIHIuVAZUh6LaXcvFpWunAG-fKQA5ylwA)]
-- [鋼琴伴奏 TMD 檔案](nichiyobi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2femz2XOA5Ps9HS-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwdDQiMveVsGNy8ZE38SOq05B6UX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnraufbp2x9OdW55PWQG00sjAyEDPwMBMz8DCxBzIMDAD2qrExeWXmZyRWZmflGkVkJmYlx_k4VBjUFPNpQAENhZadmCGvpaCLTpQAFrxZEfDi4U9ChomCk839D9f36CjEGBgaqmXVZCuiUWDlj7YsBqF6tyCWgXTeAVdBTMQYQjEugpGQAljIG0KZkNEayAKQBCs3BCuShdIglQZAekaqAkQaADSB7bIx7BG4XHjOiD_ceNOMLkarOJxUwtQz-OmNqiOx43dYNHJYBsfN66Hi68Ci0-Ciq-AiTd1QVkgUYiZEAhyI9RuI5BcL9gUiAu2Qs3cB9YFMhnC3wwmp0NN64eLT0Wxez5cfBaS3Wsx7MYfXbt6yIku6sSUKVgEX0yBwh0UPsTHFIgHEd-EElq7YeJEx9RCsClLke1uXAbWtR9uBygOHjeB7ASJI9wEUgFJYagxtRJhN1gXKTG1o5O8jJVWCw5sSDSBgh5kvQmSCMRBoKiDRI0uUNYUFH1AFkgUIgJSA1ONLapAkQTxJCTgQEEGEp8HF4epgAUuRBSUzB83ToSKg7IENHsAIxrEngmVgQU6tqiCB3xTD9xMUBCDTKCN3Xij6uns2WRFFTCmkGMBxAZmjzgkIYgXYNEAKTSBDKTsZgSMKpBKkBr8eYtwoMFSKEj1HLjqJrAcqFQCqQbzoGKQQFsO1QErlbBFGCJHQEpCiiOsEeKCuVAZUAmKanctRrXmg1ytmUCrNWCQxStEG8bCKFBRB2SZxsciGMDcA2KaAJlwVVAGkhqEOQZQr9PWbGxmYRNDdwOmfSi6cDsep2cwjcbpdGCs6NopwCMm2gcohSpgBBZQ5gIA)]
+- [主旋律 TMD 檔案](nichiyobi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdLFyYl58WWpRZlpmakpSG5JLSoGuxdsUXxJUWJecXJRZgHIEwhV-UUlGflA9xZkVFplZBaX5BdlJifmxGcn5iF5qyQjFeir5Pzc3NK8zJJKZN2Z6Zl5ViWJmcCAAAVGeWJ8bmJmXk5iHtAlWloKz6YvfTZ7DpBU0NLiUrRVMDQ04rK3VXDjsjHRN7EDmfOifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU9b1z5du-Ppzi3Pp6x4v6cDFNZ6wBDWA4U1kGFg9n5PpxIXl76Wgi21AJeCgsLTvvnPZu94sbn9xYquFx3tQHe9WDnvaeuKZ9Paga54uqH3WXunQoCBqaVeVkH6-z09QMUvFzQqFOgpGANd1PO0v_lFQzPQu8_mTgB6QsFQ4eWyaUCXvt8zC2T6y4b5T3ctA5r7YuGKZ82tQNFnK5oeN21_3LTpcXO3wqOZK21BQQhU-WLV_mcNy0Eu6O59MXM-UOXjxh0vp24Hij-dPftpR9uTnd1ABlD26doJQJe5KTxdshwoqQAMeAWgKNBOsHfad72YORWoG-T4pZuBal_O3wy0E-hCYDADHQ9SB1L4ZEcD2IHtfS-buoCKHzeue9y4Eyj7uHH146bmFwt7Hjd2P26a_KJr4-OmSU_7pz1u6gJKgfQ8278RrGH948Z9WDRsmguW7X7cuAkk2zTpWd8MsMhuMBdmytN9rY8bF4I0N86Dsac_2d0FTFxAtzzZMxGk6HFj2-MmoMHTHze1vFy04nFT08vZm4Ak0JuPG5c_bpwF8cuuHojiXrAvtgLd9bhx1ePGzUCNL3pBTgAmNLAT5j9uXAp28lqwE-ZseDoHGFtACaDlEAmgc5a9WAZ0_PzHTd3Ptm6HhU7b48b9sAACmrISKAs2Yg2QD3Id2E7sXgAqB7oKu6KXjcDw2AxSR3lyhgIFLX0uLr_M5IzMyvykTKuAzMS8fIcag5pqkC0KNhZadmAGtoykAEzCwIQBjEsFjad7Nr7Yul1BW8FE4emG_ufrG3Tg2UATi06gpSBTaxQMFHTBEERX5xbUArOEEVDYGCxoDIRGUBFDqELTeCBhCJSoUTCFCAChCZBvAtcGMQ2sDWyLj2GNAkgXCIJoYEACyRogvRMsBoxGBWCaBLGa2qAy3RCZpslQFeuh4qug4pOA7BVgVhdUZjWKDWD1ENuN0G3vheoAuQLE3wrE-8AskOkgmc1QmelQuh8qPhXJ9vlgmaVQmbUoNiwE244_4nb1gCOOxPiiQsRU56bVgpUgYgfif-JiAsQHiW9CCovdeGICZDIiJiAhBrWpcRmYtR-qDxSiIHOgNjbCXACSB_F3wkN9JUQGqhJmE1g9gVDf0UlOqJuBbTED0yAMC2JQTIACGiYCCW6YCEqgYwlzUCqBhcQ8RFjBZWAp8HHjRKj4VjAPlG6BxROYPRMljFBDAh7mTT1w02D6qGUTKD4IhDmwHqQkzA3jsAY6uLDCDHkjsAgsT4BCHoSRQh1LWMBS9BxYWDQ1gcWhuR7Cg4pBdCyH6piFFBYgjJzOYaULWWHeCLFtLlQGUh4h21PLxaVrpwCvNxSAHGUuAA)]
+- [鋼琴伴奏 TMD 檔案](nichiyobi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2femz2XOA5Ps9HS-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwdDQiMveVsGNy8ZE38SOq05B6UX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fTDd1Pd-x4vnzi8zVrnraufbp2x9OdW55PWQG00sjAyEDPwMBMz8DCxBzIMDAD2qrExeWXmZyRWZmflGkVkJmYlx_k4VCja1hTzaUABDYWWnZghr6Wgi06UADa8WRHw4uFPQoaT_dsfLF1u4K2gonC0w39z9c36CgEGJha6mUVpGti0amlDza1RsFAQRcMQXR1bkGtgqGCEVDYGCxoDIRGUBFDqELTeCBhCJSoUTCFCAChCZBvAtcGMQ2sDWyLj2GNAkgXCILox43rgGQNkN4JFnvcuFrhcVMziNXUBpXphsg0TYaqWA8VXwUVnwRkrwCzuqAyq1FsAKuH2G6EbnsvVAfIFSD-ViDeB2aBTAfJbIbKTIfS_VDxqUi2zwfLLIXKrEWxYSHYdvwRt6sHHHEkxhcVIqY6N60WrAQROxD_ExcTID5IfBNSWOzGExMgkxExAQkxqE2Ny8Cs_VB9oBAFmQO1sRHmApA8iL8THuorITJQlTCbwOoJhPqOTnJC3QxsixmYBmFYEINiAhTQMBFIcMNEUAIdS5iDUgksJOYhwgouA0uBjxsnQsW3gnmgdPu4qQXMnokSRqghAQ_zph64aTB91LIJFB8Ewvzp7NmUhLlhHNZABxdWmCFvBBaB5QlQyIMwUqhjCQtYip4DC4umJrA4NNdDeFAxiI7lUB2zkMIChJHTOax0ISvMGyG2zYXKQMojZHtqMeoNH5R6wwRab4BKeAgEhkq8QrRhLJgyjY9FFQBScL5pPLoKsH6oedQxxQQoZBILozANgeumsTHAcNS1U4AHZbQPUAZVwAgsoMwFAA)]
 
 ## 分析
 
@@ -95,21 +95,21 @@ w: 2.~や ま | ち し け | ふ の _ あ そ | び
 ================================================================================
 📊 TMD Song Profile: [ 日曜日 ]
 ================================================================================
-⏱  Duration:       0:42 (42.9s), 20 measures total
+⏱  Duration:       0:36 (36.4s), 17 measures total
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  C4 in [Nichiyobi #1 @ m.1, 0:00]
-   - 最高音: F5 in [Nichiyobi #1 @ m.17, 0:34]
+   - 最低音:  C4 in [Nichiyobi #1 @ m.3, 0:05]
+   - 最高音: F5 in [Nichiyobi #1 @ m.14, 0:28]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Nichiyobi (42.9s)
+🏛  結構:      Nichiyobi (36.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, F, C, A, D
+   - 核心骨幹音:  C, A, F, D, A#
    - 調性數值:    F 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.82), C 大調 (0.72), D 小調 (0.57)
+   - 候選調性 (K-S): F 大調 (0.82), A 小調 (0.77), C 大調 (0.65)
    - 五度圈歷程:   -1
    - 各段落調性細節:
      • [Nichiyobi #1]: F 大調 (r: 0.82, 自然音純度: 100.0%)
@@ -125,21 +125,21 @@ w: 2.~や ま | ち し け | ふ の _ あ そ | び
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████████        18.4%
+     C  : ████████████████████████  30.0%
      C# :                            0.0%
-     D  : ██████████                10.5%
+     D  : █████████                 11.7%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ███████████████████████   23.7%
+     F  : █████████████             16.7%
      F# :                            0.0%
-     G  : ████████████████████████  24.3%
+     G  : █████                      6.7%
      G# :                            0.0%
-     A  : ██████████████████        17.8%
-     A# : █████                      5.3%
+     A  : █████████████████████     26.7%
+     A# : ███████                    8.3%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 64 個音符)
+  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 66 個音符)
 ================================================================================
 ```
 

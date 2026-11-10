@@ -84,8 +84,8 @@ C12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](makoto_no_michi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2ampuPKgw0Kz0zzyo3NTMrE4vDoNLlqcUlqUV58bmpOfkplUpcWloKL1YteNy47mXjZAUtLS5FWwULEy57WwVnLhsTfRM7kP5nsze93zPr2doJz7ZsArLBZr5o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uXrG87Wdz5dPfD5l-9O1E55PWfF-TwcogPWAAawHCuD3ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAc65sXKeU9bVzyb1g50wNMNvc_aOxUCDMwN9LIK0t_v6QEqfrmgUaFAT8HYFMgFOvvJjoYXe1YBPfJ8zRoFQ4WXy6YBXQoMDJDpL1btf9awHGRud--LmfOBoo-b-19O3Q4UB5r-vGXh0972lzN7X6yYAZbtfNzQCAxRBaBqoPSTXT0vm1dAzAZaBYqD5k0v9u153LzwcXObwqOZK20tTIAST_dsfLF1O8h2sM6XDZueti4FGgb2XvuuFzOnvlixG2gF0Hagqc_m7nvZNPHJjk4g4-mCpucz97xY2PNs1SJQlIAj4-XsNpBmkG6g10DUs5lbni5Z-Xzm3mfTl4KF969_snsDUOjpnA1gXzbsfty46HHjtMdN3U_3Nz9unAdWtWsXMM28aN8MdDjEtF09YNPWLn7c0Aq0GkhCLOl92tgPJF_uXgHiv1yz5_nSeY-bmp5tXvy4cebjxvUYpgH5lMc-FCho6XNx-SYC031AYlGJoUONQY1CNcgGBRsLLTswA5jmIGH8dEP_8_UNIB0g4RoFAwVdOK7OTasFRr-uQg3YsyBNwCgBJY6FPQoanpoIXcZARboKRmDaBKRBwRRImgExiAaJ1oANMoLyEGpgsDq3AJtdu3ogdiFbBlKlq2AeDzcRYj_ITBANNgTMAsmBeEClMAfAIMh7SDat7Xy6rxViHzB9Pt864dnc-QoaJgqQ0EGyG6QPGZIpwlWLFEFGDjXaJoRiCJRzd2972bgJ6E-ICDxTjNDIAwahrp0CKBQVgLQyFxcA)]
-- [鋼琴伴奏 TMD 檔案](makoto_no_michi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixasHjxnUvGye_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUsTLjsbRWcuWxM9E3suOoUlJ7N3vR-z6xnayc827IJyFYCib1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uXrG87Wdz5dPfD5l-9O1E55PWQG038jAyEDPwMBMz8DCxAJouxIXl29iZp5VQGJRiaFDjUGNQjWXAhDYWGjZgRk1CgYKunBcnZtWq2AIZNRAJY2BbF0FIzBtAhJXMAWSZkAMokGiNWD1RlAeQg0MVucWoBoJYusqmMfD9UFsAekE0WClYBZIDsQDKoVZA4Mgt8LMA7GRIZkiXLVIQWXkUKNtMqzCCu67zMS8fB8P5KRgguQ9CIRbDzIt2jAWYma8QrRJLArXNB7CB4kDfRIPVg4SRPIBsUaAGKjKKTQB5A2gr3XtFEAeVwDSylxcAA)]
+- [主旋律 TMD 檔案](makoto_no_michi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2ampuPKgw0Kz0zzyo3NTMrE4vDoNLlqcUlqUV58bmpOfkplUpcWloKL1YteNy47mXjZAUtLS5FWwULEy57WwVnLhsTfRM7kP5nsze93zPr2doJz7ZsArLBZr5o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uXrG87Wdz5dPfD5l-9O1E55PWfF-TwcogPWAAawHCuD3ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAc65sXKeU9bVzyb1g50wNMNvc_aOxUCDMwN9LIK0t_v6QEqfrmgUaFAT8HYFMgFOvvJjoYXe1YBPfJ8zRoFQ4WXy6YBXQoMDJDpL1btf9awHGRud--LmfOBoo-b-19O3Q4UB5r-vGXh0972lzN7X6yYAZbtfNzQCAxRBaBqoPSTXT0vm1dAzAZaBYqD5k0v9u153LzwcXObwqOZK20tTIAST_dsfLF1O8h2sM6XDZueti4FGgb2XvuuFzOnvlixG2gF0Hagqc_m7nvZNPHJjk4g4-mCpucz97xY2PNs1SJQlIAj4-XsNpBmkG6g10DUs5lbni5Z-Xzm3mfTl4KF969_snsDUOjpnA1gXzbsfty46HHjtMdN3U_3Nz9unAdWtWsXMM28aN8MdDjEtF09YNPWLn7c0Aq0GkhCLOl92tgPJF_uXgHiv1yz5_nSeY-bmp5tXvy4cebjxvUYpgH5lMc-FCho6XNx-SYC031AYlGJoUONrmFNNcgGBRsLLTswA5jmIGH8dEP_8_UNIB0g4RoFAwVdOK7OTasFRr-uQg3YsyBNwCgBJY6FPQoanpoIXcZARboKRmDaBKRBwRRImgExiAaJ1oANMoLyEGpgsDq3AJtdu3ogdiFbBlKlq2AeDzcRYj_ITBANNgTMAsmBeEClMAfAIMh7SDat7Xy6rxViHzB9Pt864dnc-QoaJgqQ0EGyG6QPGZIpwlWLFEFGDjXaxgQiCJRxd2972bgJ6E2ICDxPjNC4A4agrp0CKBAVgLQyFwA)]
+- [鋼琴伴奏 TMD 檔案](makoto_no_michi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixasHjxnUvGye_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUsTLjsbRWcuWxM9E3suOoUlJ7N3vR-z6xnayc827IJyFYCib1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uXrG87Wdz5dPfD5l-9O1E55PWQG038jAyEDPwMBMz8DCxAJouxIXl29iZp5VQGJRiaFDja5hTTWXAhDYWGjZgRk1CgYKunBcnZtWq2AIZNRAJY2BbF0FIzBtAhJXMAWSZkAMokGiNWD1RlAeQg0MVucWoBoJYusqmMfD9UFsAekE0WClYBZIDsQDKoVZA4Mgt8LMA7GRIZkiXLVIQWXkUKNtPJyCCu65zMS8fB8P5JRgguQ9CIRbDzIt2jAWYma8QrRJLArXNB7CB4kDfRIPVg4SRPIBsUaAGKjKKTQB5A2gr3XtFEAeVwDSylwA)]
 
 ## 分析
 
@@ -93,14 +93,14 @@ C12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 誠の道 ]
 ================================================================================
-⏱  Duration:       0:37 (37.1s), 13 measures total
+⏱  Duration:       0:34 (34.3s), 12 measures total
 🎼 Key & Tempo:    首調基準 C, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    B3 (MIDI 59) – A4 (MIDI 69) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
    - 最低音:  B3 in [Main #1 @ m.6, 0:15]
    - 最高音: A4 in [Main #1 @ m.3, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (37.1s)
+🏛  結構:      Main (34.3s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -110,7 +110,7 @@ C12 z4 |
    - 候選調性 (K-S): C 大調 (0.93), E 小調 (0.61), A 小調 (0.57)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main #1]: C 大調 (r: 0.93, 自然音純度: 100.0%)
+     • [Main #1]: C 大調 (r: 0.92, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*

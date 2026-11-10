@@ -82,7 +82,7 @@ F8 z4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](dosokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl0KdUFOZloqulRaUWZqXgrQtwUIGaBN6Zl5VrmpmVmZWJwNlS5PLS5JLcqLz03NyU-pVOLS0lJ4OqHn-arJz-Y0K2hpcSnaKhgamHDZ2yq4cdmY6JvYgQx4sXLe-z2znk2f_rK97-ni1S8614PNfTZ7E1D4cfOix80tj5uA5OrHzR3v93Q8713xfk8nkBGen5OWnpiXruCYm5iSWlqs4JtflVhUApQE63_Rvut54-JnU2e-aNoEtP5p65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H65esbztZ3Pl098PmX707UTnk8B2tEBikI9YBTqgaIQbCyXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AxwBD42nrimfT2oEOeLqh91l7p0IAMMz0sgrS3-_pASp-uaBRoUBPwcgcyAU6-8munudr1gDJp2t3PJszH8hWsFR4uWwaOIxmgex4sWr_s4blINO7e1_MnA8O1Bkvp24HigPtcFPwTczKLwIaZqjwcmbvixUzwGo6Hzc0AiNIAagH5JD9q59t2f24uVvh0cyVtkDnAJU_3bPxxdbtT_f1PO3terqh__n6hpcNm562LgXqBfusfdeLmVNfrNgNNBFoJdCQZ3P3vWya-GRHJ5DxdEHT85l7XizsebZqESg2wPHwcnYbSDNI95MdDSAKmHIeN6571rENRM6e-bhxNdBZwBT1uHHGi66NL9Zuf9zU9bhx-tP-bqA42NbWbUAJoOqXczY9blwA0tDUBJR70QzU0_u4cf7jpu6n-5sfN65_3LjqcWM_VBtQw-PGlY8bu0GiTd0vF60Aijxt3QiUftzY9WTXJJBBQNmmSY-bOh83bnqyrw1oLVhnQ8_TnVteLgAaue7FMqCR0x83Tn3ZDrRqLdAgkGvnTH66sRVsbs-T3V3Ppi993Aj01FyQExqATut9um8l0PsQX-_qAXsCGJMLFoJcsGTqs1lAlyF8_WxOx_M5ux43AZ2F6mugBEjDXqDf4b5ueNk4FehYiK-fNYCtRPb1sx2tYO-AvPy0tfP53IbHjctAVoE8DnTy6uety59O6IB4FhZS1PIv0CzKsxAUKGjpc3GFAQu_VKuAzMS8fIcagxqFapAVCjaGZlp2YBYw60KTLDixglJ1Z6-CESiFA1Pwkz0Tn61dBEzWj5vnKTxu7gTiPmAq7HzaAAya1U872l7O3_x8zTJ4EgdZCTK1RsFAQRcMkenq3LRaBdN4IAtB1ICjGOQMUH7d0QBM_EA3GCvAnAM3EqgCWNKBHQAs94B4I5A9B8yvAZLdQJFVQLoLSO8Ai_RDeGCHA9U3A2WbtiMcaAh1GIw2AmJjIDaBsmvAPGQI8gJMhSlYhRnMjDgoAySMYgiK73b1EPbdHohrm_ZCfAr0BcgvIH-AeC1AvAyIG2B-hqtdAKTXInwHcgTIZ-AwhjkezDEDEebx4LCHex49AED-AHmuBsyCycLMQVaJFn-deH3YtB_o0tVAejMEN69F9mHTeqgvgcmsaTXc3yD1IAwKGZDsAlRfIschyEEgMZADQWI1cGfDVICTYUEtWBUMIzwJ0o81LSB78uns2QQ9CUqKYHoN2BuToAkU5A1QEKwEiwFlwIEA9BgwYYKjH0Q3bcFMpMhJEOQgGK6BOxk5KGDOhwQBLECQY7AalBGBNAyjpdMpEA-awD3Y83TCakgJ9bS_98WyNmBGfbZmIUi8daOCBY7kDIpcUGYF-QkUFiB6KzQUtoLDpQea4IEi4GwKygAb4BG_BprJp0ITzF54tsYSUkjJGjkIsCVmE3hggYICJAPDiJSALUVB0gq2KMEMTljRCg4zcNuCVqExOEIAma7hquXi0rVTAFc9CkCGMhcXAA)]
+- [主旋律 TMD 檔案](dosokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl0KdUFOZloqulRaUWZqXgrQtwUIGaBN6Zl5VrmpmVmZWJwNlS5PLS5JLcqLz03NyU-pVOLS0lJ4OqHn-arJz-Y0K2hpcSnaKhgamHDZ2yq4cdmY6JvYgQx4sXLe-z2znk2f_rK97-ni1S8614PNfTZ7E1D4cfOix80tj5uA5OrHzR3v93Q8713xfk8nkBGen5OWnpiXruCYm5iSWlqs4JtflVhUApQE63_Rvut54-JnU2e-aNoEtP5p65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H65esbztZ3Pl098PmX707UTnk8B2tEBikI9YBTqgaIQbCyXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AxwBD42nrimfT2oEOeLqh91l7p0IAMMz0sgrS3-_pASp-uaBRoUBPwcgcyAU6-8munudr1gDJp2t3PJszH8hWsFR4uWwaOIxmgex4sWr_s4blINO7e1_MnA8O1Bkvp24HigPtcFPwTczKLwIaZqjwcmbvixUzwGo6Hzc0AiNIAagH5JD9q59t2f24uVvh0cyVtkDnAJU_3bPxxdbtT_f1PO3terqh__n6hpcNm562LgXqBfusfdeLmVNfrNgNNBFoJdCQZ3P3vWya-GRHJ5DxdEHT85l7XizsebZqESg2wPHwcnYbSDNI95MdDSAKmHIeN6571rENRM6e-bhxNdBZwBT1uHHGi66NL9Zuf9zU9bhx-tP-bqA42NbWbUAJoOqXczY9blwA0tDUBJR70QzU0_u4cf7jpu6n-5sfN65_3LjqcWM_VBtQw-PGlY8bu0GiTd0vF60Aijxt3QiUftzY9WTXJJBBQNmmSY-bOh83bnqyrw1oLVhnQ8_TnVteLgAaue7FMqCR0x83Tn3ZDrRqLdAgkGvnTH66sRVsbs-T3V3Ppi993Aj01FyQExqATut9um8l0PsQX-_qAXsCGJMLFoJcsGTqs1lAlyF8_WxOx_M5ux43AZ2F6mugBEjDXqDf4b5ueNk4FehYiK-fNYCtRPb1sx2tYO-AvPy0tfP53IbHjctAVoE8DnTy6uety59O6IB4FhZS1PIv0CzKsxAUKGjpc3GFAQu_VKuAzMS8fIcaXcOaapAVCjaGZlp2YBYw60KTLDixglJ1Z6-CESiFA1Pwkz0Tn61dBEzWj5vnKTxu7gTiPmAq7HzaAAya1U872l7O3_x8zTJ4EgdZCTK1RsFAQRcMkenq3LRaBdN4IAtB1ICjGOQMUH7d0QBM_EA3GCvAnAM3EqgCWNKBHQAs94B4I5A9B8yvAZLdQJFVQLoLSO8Ai_RDeGCHA9U3A2WbtiMcaAh1GIw2AmJjIDaBsmvAPGQI8gJMhSlYhRnMjDgoAySMYgiK73b1EPbdHohrm_ZCfAr0BcgvIH-AeC1AvAyIG2B-hqtdAKTXInwHcgTIZ-AwhjkezDEDEebx4LCHex49AED-AHmuBsyCycLMQVaJFn-deH3YtB_o0tVAejMEN69F9mHTeqgvgcmsaTXc3yD1IAwKGZDsAlRfIschyEEgMZADQWI1cGfDVICTYUEtWBUMIzwJ0o81LSB78uns2QQ9CUqKYHoN2BuToAkU5A1QEKwEiwFlwIEA9BgwYYKjH0Q3bcFMpMhJEOQgGK6BOxk5KGDOhwQBLECQY7AalBGBNAyjpdMpEA-awD3Y83TCakgJ9bS_98WyNmBGfbZmIUi8daOCBY7kDIpcUGYF-QkUFiB6KzQUtoLDpQea4IEi4GwKygAb4BG_BprJp0ITzF54tsYSUkjJGjkIsCVmE3hggYICJAPDiJSALUVB0gq2KMEMTljRCg4zcNuCVqExOEIAma7hquXi0rVTAFc9CkCGMhcA)]
 - [鋼琴伴奏 TMD 檔案](dosokai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6oef5qsnP5jS_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDUy47G0V3LhsTPRN7LjqFJRerJz3fs-sZ9Onv2zve7p49YvO9Uog4WezNwGFHzcvetzc8rgJSK5-3Aw0p-N57wqgaUBGeH5OWnpiXrqCY25iSmppsYJvflViUQlQEqz_Rfuu542Ln02d-aJpE9BNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP3y9Uznq_tfL584vMp25-unfB8CtCODiMDIwM9AwMzPQMLEwuwsVxhqUXFqVYBmYl5-UEeDjUGNQrVXApAYGNopmUHZukDw2HPxhdbtz_d0P98fYOClj5YuEbBQEEXDJHp6ty0WgXTeCALQdRwwcx5vmbNkx0NLxb2IAwxhGqG0UZAbAzEJlB2DZiHDEHWwFSYglWYwcyIgzJAwiiGoLhgVw-KC0AKQbaD3QqzAMwxAxHm8WA_wB2I7kiQXSAH1IBZMFmYOcgq0cKhE8MVyOEA0gASAxkAEquBGwtTAQ7uglqwKhhGOAKkH2t4Ijvi6ezZWCMDOahBmmC4Bm4ssnNhVkCcCXM0cihUgxIFkIZhtPiYAnQEMHU-nbD66b6VwBT8tL_3xbI2cA6DuQwpKpCtxBYBJnDHgawGycAwInSwhTIk_LAFAabzB4GjkOkarlqUnOyDkpNNCGdkCMSbUcE52zBeIdowFpg7gLRpfCzIaRARIAXUr2AC5JkAxUGiYHl8GQ_JMJBeKBdmBDBcQLYgFODLPdj1glwAdRgoo8DFEM7HmxlQfIZsIEgYSQSb-4hJ06BkhRxgqKZC7SUQ4lCjyDNGFywGMgWYfHTtFMApSAHIUObiAgA)]
 
 ## 分析
@@ -91,14 +91,14 @@ F8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 同窓會 ]
 ================================================================================
-⏱  Duration:       0:48 (48.5s), 21 measures total
+⏱  Duration:       0:46 (46.2s), 20 measures total
 🎼 Key & Tempo:    首調基準 F, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    E3 (MIDI 52) – F5 (MIDI 77) [跨度: 25 個半音 / 2.1 個八度, 難度: difficult]
    - 最低音:  E3 in [Verse #1 @ m.5, 0:11]
    - 最高音: F5 in [Verse #1 @ m.4, 0:07]
    - 適合: contralto, bass
-🏛  結構:      Verse (48.5s)
+🏛  結構:      Verse (46.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -108,7 +108,7 @@ F8 z4 z4 |
    - 候選調性 (K-S): F 大調 (0.93), C 大調 (0.65), D 小調 (0.64)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Verse #1]: F 大調 (r: 0.93, 自然音純度: 100.0%)
+     • [Verse #1]: F 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

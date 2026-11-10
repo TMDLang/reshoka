@@ -92,27 +92,32 @@ Q:1/4=112
 K:A
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! e3 f e2 c2 f3 a f2 e2 | c4 f3 f e2 e2 z4 | a3 b a2 f2 e3 f e2 c2 | B2 c2 e3 c B4 z4 |
-w: 1.~あ ら れ の ご と く _ | み だ れ く る | て _ き の だ ん ぐわ ん | ひ き う け て
+!mf! E3 E A3 B c3 c c3 c | c3 c d3 c B4 z4 | E3 E A3 B c3 c B3 A | F3 F F3 A E4 z4 |
+w: 1.~あ ら れ の ご と く _ | み だ れ く る | て _ き の だ ん が ん | ひ き う け て
 w: 2.~み _ か た す く な く | て き お ほ く | ひ は く れ は て て _ | あ め く ら し
 w: 3.~の こ る は わ づ か に | じ ふ ろ く し | い ち ど あ と に _ _ | た ち か へ り
 w: 4.~し ん し の つ と め は | こ れ ま で ぞ | い で い さ ぎ よ く _ | し す べ し と
-A3 B c2 e2 f3 e c2 A2 | B3 c B2 A2 B4 z4 | A3 B c2 c2 e3 f e2 c2 | !mf! f3 e f2 a2 b4 z4 |
-w: 1.~い の ち を ち り と _ | た た か ひ し | さ ん じ う し ち の _ | ゆ う しよ う ねん
-w: 2.~は や る _ ゆ う き は | た ゆ ま ね ど | つ か れ し み を ば _ | い か に せ ん
-w: 3.~しゆ く ん の さ い ご に | あ は ば や と | い ひ も り や ま に _ | よ ぢ の ぼ り
-w: 4.~ま く ら _ な ら べ て | こ こ ろ よ く | や い ば に ふ し し _ | も の が た り
-c'3 b a2 z2 f3 a f2 e2 | c2 e2 a3 b c'6 z2 | e'3 c' b2 a2 f3 a f2 e2 | a3 a b3 b a6 z2 |
-w: 1.~こ れ ぞ あ ひ _ づ | の ら く じよう に | そ の な _ き こ _ え | し びやつ こ た い
-w: 2.~た ふ る か ば _ ね | な が る る ち | た の む _ や だ _ ま | も つ き は てぬ
-w: 3.~み れ ば は や _ く | も し ろ おち て | ほ の ほ は て ん _ を | こ が し た り
-w: 4.~つ た へ い ま _ に | び だ ん と す | ち り た る は な _ の | か ん ば し さ
+C3 C C3 C E3 C B,3 A, | B,3 B, B,3 B, B,4 z4 | C3 C E3 E F3 F E4 | !mf! A3 c B3 c A4 z4 |
+w: 1.~い の ち を ち り と _ | た た か ひ し | さ ん じ う し ち の | ゆ う しょ う ねん
+w: 2.~は や る _ ゆ う き は | た ゆ ま ね ど | つ か れ し み を ば | い か に せ ん
+w: 3.~しゅ く ん の さ い ご に | あ は ば や と | い ひ も り や ま に | よ ぢ の ぼ り
+w: 4.~ま く ら _ な ら べ て | こ こ ろ よ く | や い ば に ふ し し | も の が た り
+e6 e2 c4 c4 | B2 A2 F2 A2 B4 B4 | E6 A2 B4 c4 | B12 z4 |
+w: 1.~こ れ ぞ _ | あ _ ひ _ づ の | ら く じょ う | に
+w: 2.~た ふ る る | か _ ば _ ね _ | な が る る | ち
+w: 3.~み れ ば _ | は _ や _ く も | し ろ お ち | て
+w: 4.~つ た へ て | い _ ま _ に _ | び だ ん と | す
+c6 c2 A8 | e2 d2 c2 B2 c4 A4 | B6 B2 E4 E4 | A12 z4 |
+w: 1.~そ の な | き _ こ _ え し | びゃっ こ た _ | い
+w: 2.~た の む | や _ だ _ ま も | つ き は て | ぬ
+w: 3.~ほ の ほ | て _ ん _ を _ | こ が し た | り
+w: 4.~ち り た | は _ な _ の _ | か ん ば し | さ
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](byakkotai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-Zm5mSWJBZVIsSBhqVn5lnl5ucllQI9iCmRmpmVieRkLS2F5zP3vpjZ93JWl4KWFpeirYKhoRGXva2CI5eNib6JHciAFyvnvd8z69m09pfNK57PaXyxruHZnDVgo5_N3gSUeT5lw7O5E4GGvJjeDxZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWvN_TAYoEPWDQ64EiAcgwMHu_p1OJi0tfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqC7gF5-2roC6GWgK55u6H3W3qkQYGBioZdVkP6oYTKQaQlivt_TA9T3ckGjQkGBnoKRKVDKCOjEHqBPnuzqAfrk2Zz5QLaCpcLLZdOATgeGFci6F6v2P2tYDrKou_fFzPlA0ceNLS-nbgeKP509-2lH25Od3UAGUPbp2glABzgqPF2yHCipAIwQBaAo2CRg0PU8X9H7rGnT08XrHzd3P24Ainc8mrnSFhiBQBVcIJue7Gh43NAIYr2cs-Fx47qny5oeN_Y_2dX0uKnnyb62x03dILlnU7eC5PZ2PNmxA2jG48YFj5smP26c8LipH8gAmvV0z9THjb2PG9seN0583LgMHGQT9z5umvR04VawhoWPm7qA6h43rnjcOB-Muh83bnrcOB3iiM6nvY1PdjSDlU4HqgYrXfe0u_3phonAyAYpetw4Geimx43zgOnl2ZalYKVAt7Y8bgSyQapfTNj7dH7f48bVYNtbt4EMmND7onHe40aQqfBUDPH3LmDwgP39dOLmZ9N2Au153LgK6HWgV58uAQZ3P9jf05c-blz_bNY6sM3rgT4DopezgX4A-htoJ9j1IImmFmBIAZ37bMNisLr5j5uAQbHvcePax40rQYqeTwPmA6AzlgA9DnIuyLzpL3atBgbR48YNwFB_shcYgqsfN84GBijYWQ2TwBqAIQUMQaCG7sdNc59uBEUhOOyAkbUW7G-go3sgsi8WNoAjcsGex00Nz-cvet4H1AYMIqCdwKiBuH4NNNY7ob5_tm4GSHPj-qfNrUD7gdEAymGLwWEITBtPdwH1AI0A-nj189VAdQufrd0BjEqI9O6nE2YDQ_nZnIan-4D-Wf10AtBtQHs2gMKjcQXYMYvXPwem2I0bwe4Gim4COampC6xiH9gDwDAASi0CGvS4EehysNkvlgE9BDRyw7PpK8GB3QSO2i5QQoIkr-ctU8BG7gbr2w02af3TJSvBAQpMm6DwBccDJL6BuQXq4xfti4GZBpy6ZoJdC0lWwLhaDkxckAgFum35s70QC4BsYMz0AR0JtqP_2VqglUCdO8EWgD35bB5QxSpwigCKLnu6vxnsJXASetrRDPTikz39YOXTn3eufLFqHtSXT5s2P27cAdTxZDfQZ6uf7-t7sbodHNgzIbluMSikQJ7oftG1EexRYLAAPQeMfKBhU0GKKC_foEBBS5-Ly6kyMTs7vyQx0yogMzEv36HGoKYaZIuCjaGZlh2Yha1oVQCVZzsaXizsUdCAlYKaWJQBrQAZUaNQnZtWq2CqoAuEZmDaGMwC8Q3jwAyQYA1YGKIIoRSEDaDiNWDzfAxrgJHWBBYBxgIQ94BYjevA5BSIeOMKIO6H6QOy90PZwNIMqrMHqgIY3kAyHtUOI1Q9IBXAqAGTM6Fi_UC8CsqC2LEMrr4XSncB8W64GjQ7jEF6QK4GyU-GugOYSMFugrgdWNzBbV8NtWUG3JatUJ_0wnzSOB3TFhOQHpA4SCXQFjAbFlpLEKHV1Ai3HaRjMswWcOiCZPYB8XIwax6KLfjTya4e4tMJMDGAjDSKg7BgCQM51dQoGEFZEBljMB8EsSUS1AiBeRqWAECBAarUoByIvzchKW-Dap6IZBS2dALSAwk7WIqCpEhQWILoZUj6YWkXFt7QeAalY2gsYU8nLVCzFgLxSjALbAow5iDioNSBsAGSUheCSVDqAdE7gLZ0YbcBnEZgNiyHsoFFDpjsg7qwA-5aiB2QdATKDcCCEKp3OtxFxKeQHZ0kpBCwiUbwBAApKUzBfJAcJHnAkgVIBF_ygPl4HSysmibBww3EA-VemG9goQopB2B5EpJacMQbOG1A00BTCzR_Q3iwlNUGT2uwfAe1A6gClONAMmvBJCjOcaWN6QgDgYUSOCnD0jooCkE00Hpw0YgoRqAFKDjRboA6EZGgsCcRkINgtnTCPAMuBGFJGJQQIIkdUYhACjewN4GJCJHoiU4iwOqcvCSCKCeQSxBwdQRLOSAaXNoASx3cKQUajOAiA1T-QsoGeLkKzpWQkhzscZT4BcYOxNcQLWshEYQrvcBK5G54KQLJZ5C6CJRCIdEFS5OwNAxUD45aYJsS6lLc6QWmZxNQHaQsApULkAQAEgeV9LDyBOQbkPNB4ovgyWoPXBeOpAI3C5TwwMkL6jponQUuKWD5BqQelhxBeRHib3AZhsUOAvXNFOKTijFqfQOKeBytEhALUTtB9SGSC3JSgaZ5cPMCVlEichusqlgK8TYkOMF5CV4VNALb6MD2JCjpIAp1iDnICQVWGG2FNRygzQdYcQ9JJJDiA6Qe0lQBBy20IALRsMIOww5wQoElOpBfQOZB_IIo0iA2QJs_kKQESa7g3A7igdrw0AIBiyXgQgWW4kGl6g4wC6QakUphhQ6s4NoM5oEqcVgqh7T2IO0yZDvwFyqta4lPKaaQGAdGPLiYgDdP0JIKNIkAKWhpAktauBLLXKj7QakeUoyCeLDAg_kOlP-QWnGNm8H9qSVIKkBhBwkv_IkFaE9TA8weeARCG0TgkEbOiyAbYG4BVROgHiV2S8CpBdTQhXkG0ugFN2WhkQ-PLHAli1w7gFIXzGtAj8CzPLbEglw1QwoIRKMZREPrInC-AqmHpXRQwQ3LEaCiB1KgI9tRy8Wla6cA7xIpADnKXAA)]
-- [鋼琴伴奏 TMD 檔案](byakkotai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng-c--LmX0vZ3W939PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDY247G0VHLlsTPRN7LjqFJRerJz3fs-sZ9PaXzaveD6n8cW6hmdz1iiBZJ7N3gSUeT5lw7O5E4Emv5jeDxZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWAN1oZGBkoGdgYKZnYGFiDmQYmAGdqcTF5VSZmJ2dX5KYaRWQmZiXH-ThUGNQU82lAAQ2hmZadmCWvpaCLTpQANrxZEfDi4U9ChoBBiYWelkF6ZpYlGnpg42oUajOTatVMFXQBUIzMG0MZoH4hnFgBkiwBiwMUYRQCsIGUPEasHk-hjUKjxubwCKPmzqBuAfEalwHJqdAxBtXAHE_TB-QvR_Kfty4AKqzB6ricVM3kIxHtcMIVQ9IxePG-WByJlSsH4hXQVkQO5bB1fdC6S4g3g1Xg2aHMUgPyNUg-clQdzxuXA92E8TtjxuXwm1fDbVlBtyWrVCf9MJ80jgd0xYTkB6QOEgl0BYwGxZaSxCh1dQItx2kYzLMFnDogmT2AfFyMGseii3408muHuLTCTAxgIw0ioOwYAkDOdXUKBhBWRAZYzAfBLElEtQIgXkalgBAgTEBEtIgDsTfm5CUt0E1T0QyCls6AemBhB0sRUFSJCgsQfQyJP2wtAsLb2g8g9IxNJawp5MWqFkLgXglmAU2BRhzEHFQ6kDYAEmpC8EkKPWA6B1AW7qw2wBOIzAblkPZjxungsk-qAs74K6F2AFJR6Dc8LhxJ1TvdLiLiE8hOzpJSCFgE43gCQBSUpiC-SA5SPKAJQuQCL7kAfPxOlhYNU2ChxuIB8q9MN_AQhVSDsDyJCS14Ig3cNqApoGmFmj-hvBgKasNntZg-Q5qB1AFKMeBZNaCSVCc40ob0xEGAgslcFKGpXVQFIJooPXgohFRjEALUHCi3QB1IiJBYU8iIAfBbOmEeQZcCMKSMCghQBI7ohCBFG5gbwITESLRE51Ens6eTV4SQZQTyCUIuDqCpRwQDS5tgKUO7pQCDUZwkQEqfyFlA7xcBedKSEkO9jhK_AJjB-JriJa1kAjClV5gJXI3vBSB5DNIXQRKoZDogqVJWBoGqgdH7ePG2VCX4k4vMD2bgOogZRGoXIAkAJA4qKSHlScg34CcDxJfBE9We-C6cCQVuFmghAdOXlDXQesscEkByzcg9bDkCMqLEH-DyzAsdhCob6YQn1SMUesbUMTjaJWAWIjaCaoPkVyQkwo0zYObF7CKEpHbYFXFUoi3IcEJzkvwqqBxBjDEIUkHUahDzEFOKLDCaCus4QBtPsCKe0gigRQfIPWQpgo4aKEFEYiGFXYYdoATCizRgfwCMg_iF0SRBrEB2vyBJCVIcgXndhCvC5I3YLUfmiXgQgWW4kGl6g4wC6QakUphhQ6s4NoM5oEqcVgqh7T2IO0yZDvwFyqta4lPKaaQGAdGPLiYgDdP0JIKNIkAKWhpAktauBLLXKj7QakeUoyCeLDAg_kOlP-QWnGNm4FhDwo3hApQ2EHCC39iAdrT1ACzBx6B0AYROKSR8yLIBphbQNXEsseNa7BbAk4toIYuzDOQRi-4KQuNfHhkgStZ5NoBlLpgXgN6BJ7lsSUW5KoZUkAgGs0gGloXgfMVSD0spYMKbliOABU9kAId2Y5ajB6RD3KPyATaIYJWH4bxCtGGsQomEAoY80CGSSyIMoC6twYsCRGDqDGNh7BANEIVukl4VcHNAjsCaoEpPuMQGvGrMY2HKwKGhK6dAjwwon2AilAFjNAFjNEFgM4CCihzAQA)]
+- [主旋律 TMD 檔案](byakkotai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdLFyYl58WWpRZlpmakpSG5JLSoGuxdsUXxJUWJecXJRZgHIEwhV-UUlGflA9xZkVFplZBaX5BdlJifmxGcn5iF5qyQjFeir3MyczJLEokpkzZnpmXlWufl5SaXAkMCUSM3MykTym5aWwvOZe1_M7Hs5q0tBS4tL0VbB0NCIy95WwZHLxkTfxA5kwIuV897vmfVsWvvL5hXP5zS-WNfwbM4asNHPZm8CyjyfsuHZ3IlAQ15M7wcLv2jf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbN09a1T9fueLpzy_MpK97v6QDFlh4wjvRAsQVkGJi939OpxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQXUAvP21dAfQy0BVPN_Q-a-9UCDAwsdDLKkh_1DAZyLQEMd_v6QHqe7mgUaGgQE_ByBQoZQR0Yg_QJ0929QB98mzOfCBbwVLh5bJpQKcDwwpk3YtV-581LAdZ1N37YuZ8oOjjxpaXU7cDxZ_Onv20o-3Jzm4gAyj7dO0EoAMcFZ4uWQ6UVABGiAJQFGwSMOh6nq_ofda06eni9Y-bux83AMU7Hs1caQuMQKAKLpBNT3Y0PG5oBLFeztnwuHHd02VNjxv7n-xqetzU82Rf2-OmbpDcs6lbQXJ7O57s2AE043HjgsdNkx83Tnjc1A9kAM16umfq48bex41tjxsnPm5cBg6yiXsfN016unArWMPCx01dQHWPG1c8bpwPRt2PGzc9bpwOcUTn097GJzuawUqnA1WDla572t3-dMNEYGSDFD1unAx00-PGecD08mzLUrBSoFtbHjcC2SDVLybsfTq_73HjarDtrdtABkzofdE473EjyFR4Kob4excweMD-fjpx87NpO4H2PG5cBfQ60KtPlwCDux_s7-lLHzeufzZrHdjm9UCfAdHL2UA_AP0NtBPsepBEUwswpIDOfbZhMVjd_MdNwKDY97hx7ePGlSBFz6cB8wHQGUuAHgc5F2Te9Be7VgOD6HHjBmCoP9kLDMHVjxtnAwMU7KyGSWANwJAChiBQQ_fjprlPN4KiEBx2wMhaC_Y30NE9ENkXCxvAEblgz-OmhufzFz3vA2oDBhHQTmDUQFy_BhrrnVDfP1s3A6S5cf3T5lag_cBoAOWwxeAwBKaNp7uAeoBGAH28-vlqoLqFz9buAEYlRHr30wmzgaH8bE7D031A_6x-OgHoNqA9G0Dh0bgC7JjF658DU-zGjWB3A0U3gZzU1AVWsQ_sAWAYAKUWAQ163Ah0OdjsF8uAHgIaueHZ9JXgwG4CR20XKCFBktfzlilgI3eD9e0Gm7T-6ZKV4AAFpk1Q-ILjARLfwNwC9fGL9sXATANOXTPBroUkK2BcLQcmLkiEAt22_NleiAVANjBm-oCOBNvR_2wt0Eqgzp1gC8CefDYPqGIVOEUARZc93d8M9hI4CT3taAZ68cmefrDy6c87V75YNQ_qy6dNmx837gDqeLIb6LPVz_f1vVjdDg7smZBctxgUUiBPdL_o2gj2KDBYgJ4DRj7QsKkgRZSXb1CgoKXPxeVUmZidnV-SmGkVkJmYl-9QY1BTDbJFwcbQTMsOzMJWtCqAyrMdDS8W9ihoGCk83dD_fH2DDrw81MSiAWgZyLAaherctFoF03gFXSAEUoZghpGCMZg2htM1cJYJlDYC07oKBlC6Bmygj2ENMP6awCLACAHiHgi7cR0QT4GyVwBxP0wfkL0fKr4ASX0_kN0NVQNxHtwOI4QekEqIKmA8AfFMhO7GVXA2SP0yKK8XiLug7N1I7kCzwxikZx1U3WS4W4ApFsiG6AGWfEi2rwbbMgPK2wpU1YvklunYbTEB6YHIARMWgg0OrSWI0GpqhNsO0jEZqqMHyN4HlVkOxPMwbMGfZHb1kJNkcKcWSJowBKoxg6gBUlCWIUwb9hQDiR1I_CBCYAFSyEDTBZANUr8JrhpY6UHZE5HMwZZiYHqAMQiNdUgIroeKL0PSj5yKG5HUA1M0rrgEp5gWqFkLgXgllN0EjkNYKoHogdgwH0k1LB3tANoCSZ_YUwvMBlB8w9hTgbgP6sIOpDSNlLqAOQNYOkLZ0-EuIj6t7OgkJ60YQ4wHUggWNCEAWUbQtBEPVAllAykMFvYkA_M8KKEshHp-EhK7C8mTyIENKiZggb0Jd3SCkww0aTS1IBVGwKYFVHcbUnKFZEyoHUAViIy5Fp4UsCeZ6Y-bWqFKQWUeNG-DvTUVygZaDy87IeUMNG2C0_IGhCOxxCoi5cAcBLKlE-YZWCkJTtmw9LEMuZQBl35Qb6KkLiJTDrDqpyzlIMobRKkCL0ygNRikJIKVQMZQPvaEAw1VcKkCK69BEQbLKaDcCCn5wQkHJbqBkdWOxF0Liy_syQdWgncj1WugvAet78DJFRJ7kCQKS9JA9dCSAtgghacJ_CUOMCk3wUosYNIHpgaI-D64WRDfdEDFF8F9CWz24S9z4GaBUhg0tQHNBNVyCD_BshFIPSx1gtIwzN_AbIfFDgL10xRwyjEhsX6Cmg5ONEAMqZ0QNLCsAZKgFAJOTyAGrDEDo-GVHAQiK0E1BRvEluZgMQiJH1CYIGprGETka0h8wlhL4SzkVAnLwRAZUJ4EpmZY6oSkT4SxiGoHFWJLtJAyDGYKKIqRyz4YC6QSLgpPxKDSDtNTkCIGpgLseRwmQspugu4EJ3xYAxBiCiRIYe5Ath1ShkMKSJgbYEUYLKkiV5UwmV6wSliSRbgNublCwJ3gYhdSCMBMAYUuqJKH8ZEbHAj3QYpqSDbD9NFmFBNBjSREEYFa50Gaw_jcib_obl1LTgaEZREQBLFhhTHCD6BsCepIgGRB2QimA6YSNXOB2PD8iFTyo5sLg9gy4FwkeUhGQk2XsBDrhatBhCikyIQUdAiVmx83AbuWi1HMBelBzUEw1bC4RYeEcyDYrU0NmGYipWdIQxkl5aCkbNQ0CPIjUr5ASYNriHMnOAfuxnQnXAxhPkrzHpFOgZUfho9Qi0lISQEPc0S4gPwOy5cE3AnOgcilCkQnwizU8gcRJrC0gSh0kd0J04PwE3IZiJxKII0NfO6s5eLStVOA9_wVgBxlLgA)]
+- [鋼琴伴奏 TMD 檔案](byakkotai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng-c--LmX0vZ3W939PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDY247G0VHLlsTPRN7LjqFJRerJz3fs-sZ9PaXzaveD6n8cW6hmdz1iiBZJ7N3gSUeT5lw7O5E4Emv5jeDxZ-0b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWAN1oZGBkoGdgYKZnYGFiDmQYmAGdqcTF5VSZmJ2dX5KYaRWQmZiXH-ThUGNQU82lAAQ2hmZadmCWvpaCLTpQANrxZEfDi4U9ChoBBiYWelkF6ZpYlGnpg42oUajOTatVMI1X0AVCIGUIZhgpGINpYzhdA2eZQGkjMK2rYACla8AG-hjWKDxubAKLPG7qBOIeCLtxHRBPgbJXAHE_TB-QvR8qvgBJfT-Q3Q1VA3Ee3A4jhB6QSoiqx43zgXgmQnfjKjgbpH4ZlNcLxF1Q9m4kd6DZYQzSsw6qbjLcLY8b1wPZED2PG5ci2b4abMsMKG8rUFUvklumY7fFBKQHIve4CWgLjA0OrSWI0GpqhNsO0jEZqqMHyN4HlVkOxPMwbMGfUHb1EJ9QcKcRSEowBKoxg6gBUlCWIUwb9nQCiRNIrCD8vQApPKCpAcgGqd8EV_24sQ3KnohkDrZ0AtMDjDdoXEPCbT1UfBmSfuS024ikHpiOccUgOJ20QM1aCMQroewmcMzB0gZED8SG-UiqYalnB9AWSKrEnkZgNoBiGcaeCsR9UBd2IKVkpDQFzA-PG3dC2dPhLiI-hezoJD6FGEMMBVIIFjT6gSwjaIqIB6qEsoEUBgt7QoF5GZQ8FkK9PAmJ3YXkNeQgBhUJsCDehDsSwQkFmiCaWpAKnsdNsGTWhpRIIZkQagdQBSITroUnAOwJZfrjplaoUlD5Bs3HYG9NhbKB1sPLSUiZAk2R4BS8AeFILHGJSC8wB4Fs6YR5BlYigtMzLFUsQy5RwCUd1JsoaYrI9PJ09mxy0guibEGUIPCCA1pHQUodWGljDOVjTy7QsASXILASGRRNsFwBynmQsh2cXFAiGRhF7UjctbBYwp5oYGV0N1LNBcpn0BoNnEghcQZJmLCEDFQPLRUeN86GpwT8pQswATfBSidgggemAYj4PrhZEN90QMUXwX35uHEP_vIFbhYoXUHTGNBMUD2G8BMs84DUw9IkKOXC_A3MbFjsIFADTSGhBoKaCU4qQAypfxA0sFwBkqB0AU5FIAaskQKj4dUYBCIrQTUFG8SW0mDxBokVUEggamEYRORhSCzCWEvhLOS0CMutEBlQ_gOmYViahKRKhLGIigUVYkuqkPIKZgooYpHLORgLpBIuCk-6oJIN01OQ4gSmAux5HCZCymmC7gQnd1jDDmIKJEhh7kC2HVJeQwpDmBtgxRUsgSJXhjCZXrBKWEJFuA25QULAneAiFpL1YaaAQhdUjcP4yE0KhPsgxTIkc2H6aDOKiaBmEKJgQK3fIM1cfO7EX0y3riWhmEYyH8SGFbwIl4MyI6hbAJIFZR6YDphK1CwFYsNzIVIpj24uDGLLdnOR5CHZBzU1wsKpF64GEY6Q4hFSqCFUbn7c1Py4cTGKuSA9qPkGphoWo-iQcL4Du7WpAdNMpFQMaQCjpBeU9Iya8kB-RMoNKClvDXHuBOe73ZjuhIshzEdptiNSJ7Ciw_ARauEIKR_gYY4IF5DfYbmRgDvB-Q65LIHoRJiFWuogwgSWNhBFLbI7YXoQfkIu-ZBTCaRhgc-dtRiddx_kzrsJtO8Oa9TEK0QbxsIoYB4AMkxigbkiHpjsIZ6GCCIrMgHKRpvE41FmFp8LUgiSjzbFpRBsDNhAsFPMYIqB0rjtBrbSYQ4EK4arAIuAleC3FW4SXBmK2UbYzIa6CBi0unYK8NCN9gFKoQoAdaMKGKMLAN0OFFDmAgA)]
 
 ## 分析
 
@@ -120,50 +125,51 @@ w: 4.~つ た へ い ま _ に | び だ ん と す | ち り た る は な 
 ================================================================================
 📊 TMD Song Profile: [ 白虎隊 ]
 ================================================================================
-⏱  Duration:       0:25 (25.7s), 12 measures total
+⏱  Duration:       0:34 (34.3s), 16 measures total
 🎼 Key & Tempo:    首調基準 A, != 112.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A4 (MIDI 69) – E6 (MIDI 88) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
-   - 最低音:  A4 in [Byakkotai #1 @ m.5, 0:08]
-   - 最高音: E6 in [Byakkotai #1 @ m.11, 0:21]
-🏛  結構:      Byakkotai (25.7s)
+🎤 人聲音域:    A3 (MIDI 57) – E5 (MIDI 76) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
+   - 最低音:  A3 in [Byakkotai #1 @ m.5, 0:10]
+   - 最高音: E5 in [Byakkotai #1 @ m.9, 0:17]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Byakkotai (34.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       E 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  E, A, C#, F#, B
-   - 調性數值:    A 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A 大調 (0.80), E 大調 (0.73), F# 小調 (0.69)
-   - 五度圈歷程:   +3
+   - 核心骨幹音:  B, C#, E, A, F#
+   - 調性數值:    E 調性不明確 [相關度: 0.73, 穩定度: Ambiguous, 自然音純度: 97.8%]
+   - 候選調性 (K-S): E 大調 (0.73), A 大調 (0.72), C# 小調 (0.62)
+   - 五度圈歷程:   +4
    - 各段落調性細節:
-     • [Byakkotai #1]: A 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [Byakkotai #1]: E 調性不明確 (r: 0.73, 自然音純度: 97.8%, 調外音: D)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
       Bb               D  
-      Eb              [A ]*
-         Ab           E  
+      Eb               A  
+         Ab          [E ]*
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : ██████████████████████    20.0%
-     D  :                            0.0%
+     C# : ██████████████████████    25.0%
+     D  : ██                         2.2%
      D# :                            0.0%
-     E  : ████████████████████████  21.8%
+     E  : ██████████████████        20.3%
      F  :                            0.0%
-     F# : █████████████████████     18.8%
+     F# : █████                      5.6%
      G  :                            0.0%
      G# :                            0.0%
-     A  : ████████████████████████  21.8%
+     A  : ██████████████████        19.8%
      A# :                            0.0%
-     B  : ███████████████████       17.6%
+     B  : ████████████████████████  27.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A4 – E6 (19 個半音 / 1.6 個八度, 77 個音符)
+  - Piano         : A3 – E5 (19 個半音 / 1.6 個八度, 80 個音符)
 ================================================================================
 ```
 

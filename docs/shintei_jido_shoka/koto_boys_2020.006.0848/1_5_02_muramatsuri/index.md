@@ -78,8 +78,8 @@ E4 F4 G4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](muramatsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2allpcklmGrBsinpyfm1ual1lSiZAA2pKemWeVm5-XVAr0NoZESWImUBgUIuWJ8bmJmXk5iXkpSlxaWgrP5k58vnStgpYWl6KtgqGhEZe9rYI7l42JvokdyJAX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dL1fPeL628_nyic-nbH-6dsLzKSve7-kAhbIeMJT1QKH8fk-nEheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1Ax7xYOe9p64pn09qBDni6ofdZe6dCgIG5sV5WQfr7PT1AxS8XNCoU6CkYA13UA3T2kx0NL9t7X87f_HzNGgUjhZfLpgFd-n7PLJDpL1btf9awHGRud--LmfOBoo-bO15O3Q4UB5puqPC0F2jvDLBM5-OGRmDIKQBVAqUcgckyvSi1pCRf4dHMlbbAwAVa9nTPxhdbt4OsASt72bDpaetSoE6wP9p3vZg59cWK3UDzgNaA3L5nxrMVTc-X7Hs-c8-LhT1PdqwFBjDQmUBBYJwAQxroFZBmkG6gH8CGTJj4uHHT48Z1TzctBJIv-9Y9XdcBZDxbvO5x42qQCmB8g_jTpz9uXA9S2tT5uLH__R4g2gPlNjUCRSCG7uqBaJkHtBJk6JJVL_dMfty44nFjG0zLfLCWLpA6OAeo4vma2UANYLdsftzY-7ip6UXjvMeNQLcsg7oX7OlnXTOA6mFmrXzc1PG4qeHlGqAF6140boIYOvNx477HjVuBRjzZ3fW4qeVl6-LHjaseN3WDLZsMUkR5SoICBS19Li5fYBaxCkgsKjF0qDGoUagG2aBgY6FlB2YA0y8kGp9u6H--vgGkAyRco2CgoAvH1blptQqm8UBWDdi7IF3AaAfGEjAiEVoMgQp0gUkORBuBFCsYA0kTIAniQfSDhSDCQCGwiBlYG4QHFkGxY1cPih0QxeYKhnFw_SCTQFagWgtigWiEGpAISA3IRzVctUghY0SfkAGqAzGgAQFxrqGCOYiLJAbzBsjxEIeDIIgHVok3dGAxAFINYgPDC2q6SbyCMYgJ5kMUgo2DM6BK4YLwUNK1UwAFlAKQVubiAgA)]
-- [鋼琴伴奏 TMD 檔案](muramatsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2d-LzpWvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGhkZc9rYK7lw2Jvomdlx1Ckov2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6X66e8Xxt5_PlE59P2f507YTnU1YALTMyMDLQMzAw0zOwMLEAWqXExeWbmJlnFZCZmJcf5OFQY1CjUM2lAAQ2Flp2YIa-lsLTPRtfbN3-dEP_8_UNClr6YOEaBQMFXTiuzk2rVTCNB7JquGC6nq9Z82RHw4uFPQgthkAFugpGYNoIpFjBGEiaAEkQD6IfLAQRBgqBRczA2iA8sAiKHbt6UOyAKDZXMIyD6weZBLIC1VoQC0Qj1IBEQGpAPqrhqkUOGx-UsDGBhg0oECCwBuZDkB-iDWPBZkI4pvHIPJNYiAjQRphSCB9qAFwU7Ci4EqP4XJAeoBlg1QhtIDVwIZA7gM7WtVMAuVwBSCtzcQEA)]
+- [主旋律 TMD 檔案](muramatsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2allpcklmGrBsinpyfm1ual1lSiZAA2pKemWeVm5-XVAr0NoZESWImUBgUIuWJ8bmJmXk5iXkpSlxaWgrP5k58vnStgpYWl6KtgqGhEZe9rYI7l42JvokdyJAX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dL1fPeL628_nyic-nbH-6dsLzKSve7-kAhbIeMJT1QKH8fk-nEheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1Ax7xYOe9p64pn09qBDni6ofdZe6dCgIG5sV5WQfr7PT1AxS8XNCoU6CkYA13UA3T2kx0NL9t7X87f_HzNGgUjhZfLpgFd-n7PLJDpL1btf9awHGRud--LmfOBoo-bO15O3Q4UB5puqPC0F2jvDLBM5-OGRmDIKQBVAqUcgckyvSi1pCRf4dHMlbbAwAVa9nTPxhdbt4OsASt72bDpaetSoE6wP9p3vZg59cWK3UDzgNaA3L5nxrMVTc-X7Hs-c8-LhT1PdqwFBjDQmUBBYJwAQxroFZBmkG6gH8CGTJj4uHHT48Z1TzctBJIv-9Y9XdcBZDxbvO5x42qQCmB8g_jTpz9uXA9S2tT5uLH__R4g2gPlNjUCRSCG7uqBaJkHtBJk6JJVL_dMfty44nFjG0zLfLCWLpA6OAeo4vma2UANYLdsftzY-7ip6UXjvMeNQLcsg7oX7OlnXTOA6mFmrXzc1PG4qeHlGqAF6140boIYOvNx477HjVuBRjzZ3fW4qeVl6-LHjaseN3WDLZsMUkR5SoICBS19Li5fYBaxCkgsKjF0qNE1rKkG2aBgY6FlB2YA0y8kGp9u6H--vgGkAyRco2CgoAvH1blptQqm8UBWDdi7IF3AaAfGEjAiEVoMgQp0gUkORBuBFCsYA0kTIAniQfSDhSDCQCGwiBlYG4QHFkGxY1cPih0QxeYKhnFw_SCTQFagWgtigWiEGpAISA3IRzVctUghY0SfkAGqAzGgAQFxrqGCOYiLJAbzBsjxEIeDIIgHVok3dGAxAFINYgPDC2q6SbyCMYgJ5kMUgo2DM6BK4YLwUNK1UwAFlAKQVuYCAA)]
+- [鋼琴伴奏 TMD 檔案](muramatsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2d-LzpWvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGhkZc9rYK7lw2Jvomdlx1Ckov2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6X66e8Xxt5_PlE59P2f507YTnU1YALTMyMDLQMzAw0zOwMLEAWqXExeWbmJlnFZCZmJcf5OFQo2tYU82lAAQ2Flp2YIa-lsLTPRtfbN3-dEP_8_UNClr6YOEaBQMFXTiuzk2rVTCNB7JquGC6nq9Z82RHw4uFPQgthkAFugpGYNoIpFjBGEiaAEkQD6IfLAQRBgqBRczA2iA8sAiKHbt6UOyAKDZXMIyD6weZBLIC1VoQC0Qj1IBEQGpAPqrhqkUOGx-UsDGBhg0oECCwBuZDkB-iDWPBZkI4pvHIPJNYiAjQRphSCB9qAFwU7Ci4EqP4XJAeoBlg1QhtIDVwIZA7gM7WtVMAuVwBSCtzAQA)]
 
 ## 分析
 
@@ -87,14 +87,14 @@ E4 F4 G4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 村祭 ]
 ================================================================================
-⏱  Duration:       0:19 (19.3s), 9 measures total
+⏱  Duration:       0:17 (17.1s), 8 measures total
 🎼 Key & Tempo:    首調基準 G, != 112.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – G5 (MIDI 79) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  D4 in [Main #1 @ m.1, 0:01]
    - 最高音: G5 in [Main #1 @ m.6, 0:11]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (19.3s)
+🏛  結構:      Main (17.1s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -104,7 +104,7 @@ E4 F4 G4 z4 |
    - 候選調性 (K-S): G 大調 (0.96), E 小調 (0.69), D 大調 (0.68)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.96, 自然音純度: 100.0%)
+     • [Main #1]: G 大調 (r: 0.97, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

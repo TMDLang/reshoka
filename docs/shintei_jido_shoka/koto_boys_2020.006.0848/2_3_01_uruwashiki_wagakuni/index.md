@@ -87,8 +87,8 @@ A8 z4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](uruwashiki_wagakuni.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2amVuQiqobaFh6Zp5VbmpmViYWl0Gly1OLS1KL8uJzU3PyUyqVuLS0FF7umv64cf3jRiDZ-6xj4tM53QpaWlyKtgqGBhZc9rYKjlw2JvomdiCTns3e9H7PrOe9K4CKXi5aAeSCLXjRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9cvWM52s7ny-f-HzK9qdrJzyfsuL9ng5QcOsBg1sPFNzv93QqcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50zIuV8562rng2rR3ogKcbep-1dyoEGBqY6mUVpL_f0wNU_HJBo0KBnoKRhUI0UPfT3g0vVi15tqT3edMuBSPjWKAaoF-e7Op5vmbNkx2dT9fueDZnPpCtYKjwctk0oCeAQQWy-MWq_c8aloOs7O59MXM-UPRx05KXU7cDxYEWGys87QU6aQZYpvNxQyMwrBWAKkFualn1fF_f4-bup_tXP9uyG8hQeDRzpS0wWoBWP92z8cXW7U_39Tzt7QIqBzrgZcPip62rn3a0vZy_-fmaZS8bNj1tXQo0E-z59l0vZk59sWI30CagA4CGP5u772XTRKA2IOPpgqbnM_e8WNjzbNUiUISBo-rl7DaQZpDuJzsaHjc0ANMJUN_jxrbHTd0gp0LSTFPL48YmELsJGLkNT5csfzqp5-nmbc8W7AQpBsnue9y4Apy6gIy1UPc82b0BbBZQ51awWX0vlnU_bgJrgJCoZoH9sHEj0J7n2xaAde5_3LjycVMXWPPqx43LgBqe7WgFS_UCjQCJNwGlJgK5zxc0gcWBbpn6uHEK1AnwZI9I_0Ajpm4HWghWDcoOEGeD7VgHcQ6yp-DBswvkdYQxuIME6nWivPuiC-zdLRA_9YMMa1z1uGkC1McNDcCQeLa_GSw7GSzY-2z-Zpj7VgHtIOxRuLeg0QxMf9T3x_TGpxuBCQYoDfQEMFZagO4CBVnjEpCFjUtAdq4FJUlw0poElH3Z2PW4cdvTDf1Pt88Fa5z0uBGofj2pHno6ezYNPPR89rrHTRBjuoH2Pdu6HRIfL-fMA3sCKDgTHB_7gTkKGHNPd7Q93bsRLLUbLAvyItH-AKqjvPyDAgUtfS4u30RgNRCQmZiX71BjUKNQDbJBwcbQTMsOzAIWu9CiZUP_8_UN4NJqmcLj5tVA3A8yAKSoRsFAQRcMkenq3LRaBdN4IMsMRJiDiBpwRIBMBZeSDcAgARu5HWjcEoXHTYseN-8BmQyiaoCMNWBxEGseRKYDTDVth_DAgiDZXgUNoGYgYypQcp0mwmGGUAeBoDEQG4FZhhDXgBg1ENchQ5gn4BI1UG3GCiZg2kRdwRQqADHfDKgE7FN0YxDeBwcAqvd39UC93zwf6PIVIK9CvLUC5i1gkIDxPJDPQSLggJoH93LzEn1gYFHBu2BBqAyQgnkYASH-RcAasPHYQg0eDmhx3QnzLMgz_UAM8nQnEK8C4m6wl9qAHlwLDYqVYO9uhIg0QQKmaSskfMCB07QFFOfwtEggEEBixAcCmIAEAsgAUmO9GpbwjUEEmIUSGMCCCCnhI-UnaAyDMcjb2yFJH4j7EKkDnug7sHsZ5gqQGNhuEAN7fIHEQLIgGpj300DuxhJ4iJRvhMMuZLqGq5aLS9dOAVSyKABpZS4uAA)]
-- [鋼琴伴奏 TMD 檔案](uruwashiki_wagakuni_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5a_rjxvWPG4Fk77OOiU_ndL_f0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFQwNLLjsbRUcuWxM9E3suOoUlJ7N3vR-z6znvSuAOl8uWgHkKoGEX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dL9cPeP52s7nyyc-n7L96doJz6esALrByMDIQM_AwEzPwMLEAugCJS4u38TMPKuAzMS8_CAPhxqDGoVqLgUgsDE007IDs_S1FJ7u2fhi6_anG_qfr29Q0NIHC9coGCjogiEyXZ2bVqtgGg9kmYEIcxBRwwUz5_maNU92NLxY2IMwxBCqGQSNgdgIzDKE6AQxaiAmIUOYhXCJGqg2YwUTMG2irmAKFYCYbwZUAnYVujEIp4Idi-rUXT1UcSpYECoDpGCORUCIWxGwBmw8Nh_D_YAWpp0EHQoSI96hYALiUJABpIZqNSwRGIMIMAvFwU9nz8bpYJgZIDGwThADe4iAxECyIBqYbtNAtmLxOiJdGOGwC5mu4apFzhQ-KJnChHCegMAafEk-XiHaMBboOSBtGh8LFDEBMU2ATJN4kF4FIyDXKD43FsoAKYGrBjHQzEdPp8Sbj6QGqgtIobseLXFR2fUYaQHZHWg8YHJCsxsqDwlyYMTp2imA4k4BSCtzcQEA)]
+- [主旋律 TMD 檔案](uruwashiki_wagakuni.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2amVuQiqobaFh6Zp5VbmpmViYWl0Gly1OLS1KL8uJzU3PyUyqVuLS0FF7umv64cf3jRiDZ-6xj4tM53QpaWlyKtgqGBhZc9rYKjlw2JvomdiCTns3e9H7PrOe9K4CKXi5aAeSCLXjRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9cvWM52s7ny-f-HzK9qdrJzyfsuL9ng5QcOsBg1sPFNzv93QqcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50zIuV8562rng2rR3ogKcbep-1dyoEGBqY6mUVpL_f0wNU_HJBo0KBnoKRhUI0UPfT3g0vVi15tqT3edMuBSPjWKAaoF-e7Op5vmbNkx2dT9fueDZnPpCtYKjwctk0oCeAQQWy-MWq_c8aloOs7O59MXM-UPRx05KXU7cDxYEWGys87QU6aQZYpvNxQyMwrBWAKkFualn1fF_f4-bup_tXP9uyG8hQeDRzpS0wWoBWP92z8cXW7U_39Tzt7QIqBzrgZcPip62rn3a0vZy_-fmaZS8bNj1tXQo0E-z59l0vZk59sWI30CagA4CGP5u772XTRKA2IOPpgqbnM_e8WNjzbNUiUISBo-rl7DaQZpDuJzsaHjc0ANMJUN_jxrbHTd0gp0LSTFPL48YmELsJGLkNT5csfzqp5-nmbc8W7AQpBsnue9y4Apy6gIy1UPc82b0BbBZQ51awWX0vlnU_bgJrgJCoZoH9sHEj0J7n2xaAde5_3LjycVMXWPPqx43LgBqe7WgFS_UCjQCJNwGlJgK5zxc0gcWBbpn6uHEK1AnwZI9I_0Ajpm4HWghWDcoOEGeD7VgHcQ6yp-DBswvkdYQxuIME6nWivPuiC-zdLRA_9YMMa1z1uGkC1McNDcCQeLa_GSw7GSzY-2z-Zpj7VgHtIOxRuLeg0QxMf9T3x_TGpxuBCQYoDfQEMFZagO4CBVnjEpCFjUtAdq4FJUlw0poElH3Z2PW4cdvTDf1Pt88Fa5z0uBGofj2pHno6ezYNPPR89rrHTRBjuoH2Pdu6HRIfL-fMA3sCKDgTHB_7gTkKGHNPd7Q93bsRLLUbLAvyItH-AKqjvPyDAgUtfS4u30RgNRCQmZiX71Cja1hTDbJBwcbQTMsOzAIWu9CiZUP_8_UN4NJqmcLj5tVA3A8yAKSoRsFAQRcMkenq3LRaBdN4IMsMRJiDiBpwRIBMBZeSDcAgARu5HWjcEoXHTYseN-8BmQyiaoCMNWBxEGseRKYDTDVth_DAgiDZXgUNoGYgYypQcp0mwmGGUAeBoDEQG4FZhhDXgBg1ENchQ5gn4BI1UG3GCiZg2kRdwRQqADHfDKgE7FN0YxDeBwcAqvd39UC93zwf6PIVIK9CvLUC5i1gkIDxPJDPQSLggJoH93LzEn1gYFHBu2BBqAyQgnkYASH-RcAasPHYQg0eDmhx3QnzLMgz_UAM8nQnEK8C4m6wl9qAHlwLDYqVYO9uhIg0QQKmaSskfMCB07QFFOfwtEggEEBixAcCmIAEAsgAUmO9GpbwjUEEmIUSGMCCCCnhI-UnaAyDMcjb2yFJH4j7EKkDnug7sHsZ5gqQGNhuEAN7fIHEQLIgugbobJC7sQQeIuUb4bALma7hquXi0rVTAJUsCkBamQsA)]
+- [鋼琴伴奏 TMD 檔案](uruwashiki_wagakuni_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5a_rjxvWPG4Fk77OOiU_ndL_f0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFQwNLLjsbRUcuWxM9E3suOoUlJ7N3vR-z6znvSuAOl8uWgHkKoGEX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dL9cPeP52s7nyyc-n7L96doJz6esALrByMDIQM_AwEzPwMLEAugCJS4u38TMPKuAzMS8_CAPhxpdw5pqLgUgsDE007IDs_S1FJ7u2fhi6_anG_qfr29Q0NIHC9coGCjogiEyXZ2bVqtgGg9kmYEIcxBRwwUz5_maNU92NLxY2IMwxBCqGQSNgdgIzDKE6AQxaiAmIUOYhXCJGqg2YwUTMG2irmAKFYCYbwZUAnYVujEIp4Idi-rUXT1UcSpYECoDpGCORUCIWxGwBmw8Nh_D_YAWpp0EHQoSI96hYALiUJABpIZqNSwRGIMIMAvFwU9nz8bpYJgZIDGwThADe4iAxECyILoGaCnIVixeR6QLIxx2IdM1XLXImcIHJVOYEM4TEFiDL8nHK0QbxgI9B6RN42OBIiYgpgmQaRIP0qtgBOQaxefGQhkgJXDVIAaa-ejplHjzkdRAdQEpdNejJS4qux4jLSC7A40HTE5odkPlIUEOjDhdOwVQ3CkAaWUuAA)]
 
 ## 分析
 
@@ -96,14 +96,14 @@ A8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 麗はしき我國 ]
 ================================================================================
-⏱  Duration:       0:37 (37.8s), 17 measures total
+⏱  Duration:       0:35 (35.6s), 16 measures total
 🎼 Key & Tempo:    首調基準 A, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C#4 (MIDI 61) – F#5 (MIDI 78) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  C#4 in [Main #1 @ m.13, 0:28]
    - 最高音: F#5 in [Main #1 @ m.4, 0:08]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (37.8s)
+🏛  結構:      Main (35.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -113,7 +113,7 @@ A8 z4 z4 |
    - 候選調性 (K-S): A 大調 (0.88), F# 小調 (0.78), E 大調 (0.71)
    - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [Main #1]: A 大調 (r: 0.88, 自然音純度: 99.1%, 調外音: D#)
+     • [Main #1]: A 大調 (r: 0.84, 自然音純度: 99.1%, 調外音: D#)
 
   [ 五度圈游移軌跡 ]
                C  

@@ -89,8 +89,8 @@ D8 z4 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sakuradamon_gai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2akVkM1F6JEAaalZ6ZZ5WbmpmVicVhUOny1OKS1KK8-NzUnPwUoG4tLYVnq3c_n7Lh5bSGp0umKWhpcSnaKlgacdnbKrhxZadW2iq45HLZmOib2IGMerFy3vs9s54uWf50Ug9Q09Pdu56t2Am25NnsTUCZJ3tnP53T_XLRCiAXLPyifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH75eoZz9d2Pl8-8fmU7U_XTng-ZcX7PR2giNADRoQeKCLe7-lU4uLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oGKA_n7aueDatHeiApxt6n7V3KgQYmJnqZRWkv9_TA1T8ckGjQoGegrEBkAt09pMdDc_XrHmyo_Pp2h3P5swHshVMFV4umwZ0LzBUQHa8WLX_WcNykOndvS9mzgeKPm7ufj5_LVAcaIehwsuZvS9WzADLdD5uaAQGuAJQJVDqWdOmp4vXAxUrPJq50tbSCGjh0z0bX2zdDrIErOhlw6anrUuB-sB-ad_1YubUFyt2A00DWgIyYO6-l00TgW4DMp4uaHo-c8-LhT3PVi0ChT845F_ObgNpBukG-gNEISeJx43rgO4Bib6cvepx06Qn-7Y-bpz-uHEZ0NrHjftBbIg0MFU82dHxdMnqp72NT1tXP128GirxuHHJ40ag2tXP-ppfNq8AmvG0YxfYjDWPG5rA9m3Y_rhx1ePG2Y-bup92NEP1AV3xuKnjcVPX46amF1uBZvS-WNjwbC_MOS-WdYOlW57smPa4oRVk_roZjxtnQqWfb1sLTGTP1m5_2g-0e93TvYtAGoD2gf25qwdsQ8fEx409wHh6Nm3N46ZOoO2PG4Hua4I7vOVxI1Bo-Yt1XY8bgd7eCXQDRM-LVTC3Q9IqyIb526EGNE5-3ARM5JBQWQB0We_T7aBwfLqsCRxcEH07NgLd_rR124tdq5_NWIoazI0rnrZuBPloW8fjRiBaAzZ2GcJpMIlZz-bsfdy4EKji6YRekMWNc6EqoKHSNOl563KQ3xpnPm0Fpiyw3ZRnGyhQ0NLn4vJNBBYsAZmJefkONQY1CtUgGxRsDM207MAsYG6FJNinG_qfr28ApkjMlAsyB6S2RsFAQRcrrk6rVTCLBzLARA04FkFGg7NdAzBFI4wwBioAQRBtAqVB0AiIDUGaFcxBZoAgyGQwByQOkoeoNQJaADELJA6CYEVgq2GmwWyogQgjQ5CpIIjLvbt6UNwLshfmPpCJMD7IbrC9CGeATEZ2Ksh7IBbMuRhaTZGcBWIjQgfdsdW5wBCGSILMQwnfThT3miGZhz18Yc4AmY3sVIhrTODORdeJCGVTdUigAjlI0YXuZqzOfTp7NopzYWGHGmYQPjR4Ye4AmQtiw3wIDzWoUaBECNMOiykS0gOMruGq5eLStVMAZRwFIK3MxQUA)]
-- [鋼琴伴奏 TMD 檔案](sakuradamon_gai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2evfzKRteTmt4umTa-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0ojL3lbBjSs7tdJWwSWXy8ZE38SOq05B6cXKee_3zHq6ZPnTST1Ak57u3vVsxU4lkMyz2ZuAMk_2zn46p_vlohVALlj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD98vVM56v7Xy-fOLzKdufrp3wfMoKoCONDIwM9AwMzPQMLEwsgE5U4uLyTczMswrITMzLD_JwqDGoUajmUgACG0MzLTswS19L4emejS-2bn-6of_5-gYFLX2wcI2CgYIuVlydVqtgFg9kgIkaLpgpz9esebKj4cXCHoQRxkAFIAiiTaA0CBoBsSFIs4I5yAwQBJkM5oDEQfIQtUZACyBmgcRBEKwIbDXMNJgNNRBhZAgyFQRxuXdXD4p7QfbC3AcyEcYH2Q22F-EMkMnITgV5D8SCORdDqymSs0BsROigO7Y6FxjCEEmQeSjh24niXjMk87CHL8wZILORnQpxjQncueg6EaFsqg4JVCAHKbrQ3YzVuU9nz0ZxLizsUMMMwocGL8wdIHNBbJgP4aEGNQqUCGHaYTFFQnqA0TVctchZxAcli5hAcwgoK0AgzHazeJDB0WbxubEQV0P4xvEQLlQamQtRi2yGEViNEcwIdCMh0viNQNdjCuEbYnUFyI1gDhYT4K6AeoRIVwDDTtdOARR8CkBamYsLAA)]
+- [主旋律 TMD 檔案](sakuradamon_gai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2akVkM1F6JEAaalZ6ZZ5WbmpmVicVhUOny1OKS1KK8-NzUnPwUoG4tLYVnq3c_n7Lh5bSGp0umKWhpcSnaKlgacdnbKrhxZadW2iq45HLZmOib2IGMerFy3vs9s54uWf50Ug9Q09Pdu56t2Am25NnsTUCZJ3tnP53T_XLRCiAXLPyifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH75eoZz9d2Pl8-8fmU7U_XTng-ZcX7PR2giNADRoQeKCLe7-lU4uLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oGKA_n7aueDatHeiApxt6n7V3KgQYmJnqZRWkv9_TA1T8ckGjQoGegrEBkAt09pMdDc_XrHmyo_Pp2h3P5swHshVMFV4umwZ0LzBUQHa8WLX_WcNykOndvS9mzgeKPm7ufj5_LVAcaIehwsuZvS9WzADLdD5uaAQGuAJQJVDqWdOmp4vXAxUrPJq50tbSCGjh0z0bX2zdDrIErOhlw6anrUuB-sB-ad_1YubUFyt2A00DWgIyYO6-l00TgW4DMp4uaHo-c8-LhT3PVi0ChT845F_ObgNpBukG-gNEISeJx43rgO4Bib6cvepx06Qn-7Y-bpz-uHEZ0NrHjftBbIg0MFU82dHxdMnqp72NT1tXP128GirxuHHJ40ag2tXP-ppfNq8AmvG0YxfYjDWPG5rA9m3Y_rhx1ePG2Y-bup92NEP1AV3xuKnjcVPX46amF1uBZvS-WNjwbC_MOS-WdYOlW57smPa4oRVk_roZjxtnQqWfb1sLTGTP1m5_2g-0e93TvYtAGoD2gf25qwdsQ8fEx409wHh6Nm3N46ZOoO2PG4Hua4I7vOVxI1Bo-Yt1XY8bgd7eCXQDRM-LVTC3Q9IqyIb526EGNE5-3ARM5JBQWQB0We_T7aBwfLqsCRxcEH07NgLd_rR124tdq5_NWIoazI0rnrZuBPloW8fjRiBaAzZ2GcJpMIlZz-bsfdy4EKji6YRekMWNc6EqoKHSNOl563KQ3xpnPm0Fpiyw3ZRnGyhQ0NLn4vJNBBYsAZmJefkONbqGNdUgGxRsDM207MAsYG6FJNinG_qfr28ApkjMlAsyB6S2RsFAQRcrrk6rVTCLBzLARA04FkFGg7NdAzBFI4wwBioAQRBtAqVB0AiIDUGaFcxBZoAgyGQwByQOkoeoNQJaADELJA6CYEVgq2GmwWyogQgjQ5CpIIjLvbt6UNwLshfmPpCJMD7IbrC9CGeATEZ2Ksh7IBbMuRhaTZGcBWIjQgfdsdW5wBCGSILMQwnfThT3miGZhz18Yc4AmY3sVIhrTODORdeJCGVTdUigAjlI0YXuZqzOfTp7NopzYWGHGmYQPjR4Ye4AmQtiw3wIDzWoUaBECNMOiykS0gOMruGq5eLStVMAZRwFIK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](sakuradamon_gai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2evfzKRteTmt4umTa-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0ojL3lbBjSs7tdJWwSWXy8ZE38SOq05B6cXKee_3zHq6ZPnTST1Ak57u3vVsxU4lkMyz2ZuAMk_2zn46p_vlohVALlj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD98vVM56v7Xy-fOLzKdufrp3wfMoKoCONDIwM9AwMzPQMLEwsgE5U4uLyTczMswrITMzLD_JwqNE1rKnmUgACG0MzLTswS19L4emejS-2bn-6of_5-gYFLX2wcI2CgYIuVlydVqtgFg9kgIkaLpgpz9esebKj4cXCHoQRxkAFIAiiTaA0CBoBsSFIs4I5yAwQBJkM5oDEQfIQtUZACyBmgcRBEKwIbDXMNJgNNRBhZAgyFQRxuXdXD4p7QfbC3AcyEcYH2Q22F-EMkMnITgV5D8SCORdDqymSs0BsROigO7Y6FxjCEEmQeSjh24niXjMk87CHL8wZILORnQpxjQncueg6EaFsqg4JVCAHKbrQ3YzVuU9nz0ZxLizsUMMMwocGL8wdIHNBbJgP4aEGNQqUCGHaYTFFQnqA0TVctchZxAcli5hAcwgoK0AgzHazeJDB0WbxubEQV0P4xvEQLlQamQtRi2yGEViNEcwIdCMh0viNQNdjCuEbYnUFyI1gDhYT4K6AeoRIVwDDTtdOARR8CkBamQsA)]
 
 ## 分析
 
@@ -98,14 +98,14 @@ D8 z4 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 櫻田門外 ]
 ================================================================================
-⏱  Duration:       0:44 (44.3s), 17 measures total
+⏱  Duration:       0:41 (41.7s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 92.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C#4 (MIDI 61) – D5 (MIDI 74) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
    - 最低音:  C#4 in [Main #1 @ m.12, 0:30]
    - 最高音: D5 in [Main #1 @ m.10, 0:23]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (44.3s)
+🏛  結構:      Main (41.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -113,15 +113,15 @@ D8 z4 z4 |
    - 核心骨幹音:  A, D, G, F, E
    - 調性數值:    D 調性不明確 [相關度: 0.72, 穩定度: Ambiguous, 自然音純度: 98.7%]
    - 候選調性 (K-S): D 小調 (0.72), A 小調 (0.69), D 大調 (0.59)
-   - 五度圈歷程:   +2
+   - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [Main #1]: D 調性不明確 (r: 0.72, 自然音純度: 98.7%, 調外音: C#)
+     • [Main #1]: A 小調 (r: 0.72, 自然音純度: 90.6%, 調外音: C#, A#)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
-      Bb              [D ]*
-      Eb               A  
+      Bb               D  
+      Eb              [A ]*
          Ab           E  
             Db       B  
                F# 

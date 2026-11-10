@@ -84,8 +84,8 @@ F6 z2 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](bajo_no_shonen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl0KlizIL0IyGmhaemaeVW5qZlYmktO0tBReLlvzZEfX48Z1TzdMfLpzi4KWFpeirYKFBZe9rYIbl42RvokdyJQXK-e93zPr6ZLlTyf1PJ-y4enuXc9W7ASb_2z2JpDMhv6nGzc-2Tvnyc7up10rwTJP23e9mDkVKPls7sYnu9a8nL_52Yqmp2t3PFuw8Pn2FY8bup7sWAvkPp2y8dnanscN3WBNL9p3PW9c_GzqzBdNm57NaX7auubFql6g2mfTNjxdN-tp66Tnq5fCdbxcPeP52s7nyyc-n7L96doJz6eseL-nAxQ9esDo0QNFz_s9nUpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0Ax0DDJ-nrSueTWsHOuDpht5n7Z0KAQYmBnpZBenv9_QAFb9c0KhQoKdgCuQBXf1kR8PzNcCAbwAFx5z5QLaCKTAqpgGdCwwvkBUvVu1_1rAcZHh374uZ84Gij5tnvJy6HSgOtMJQ4eXM3hcrZoBlOh83NALjSQGoEij1Ys_Up_tXP27uVng0c6WtBTAEep7u2fhi6_an-3qe9nYBFb1s2PS0dSlQH9gr4Eh6sWI30DSgJUADkGMF7J5-oCDWKERTyQUyD-inxw0NzxZMf7Z-NlDf48b-x03A5DUJ5MzGdcDUBhZse9y4Dyyy-uW8tSCRpobHjQtBIk2THjc2AdU_blwG9BbYxJ1AhwH1rANLA81a8rip53Fj7-PG-Y-bup_s6nmyaxdYwVawSBfEpqf93WDBFY-bmiBBBA7VZRBRYBgCzQJa2wKyDWTc6pezWx43tILdMgmIwKZMf9oIDCeg-vmPGydCRKAGPdu2Bywx83EjMMzAEo29T3YsezYHlAQfN64C2gEUgfq6cTLEViQ_AjX2IfwItmEhMFDAZDc41ICOWvNyDjDbAXUCRYAawK5uXAfWv_BxQxMkwHcBc0LDi71Ak8GhDQoeYIyBFTZuety4GeiMFztbwLJA7tLHTY0wWWBYArMh2AFPt04AqwAGBsgzYBXdzzYvgnsGIvK4ERhgQC4Q9b9oBGZ8oOzkx03gsIH5BBgxQNcD4xDoJaAloBADeb2pG00QpBpS-oCN2fC4ccbjpmZg2oBGILg8AkvNBieYtY-bgMEIDD0gG-jNHWC3LAXZD43bCWtetgPTIdisJqCroCnh2fTWF9vXw6IRGBxATwFNAboFqAYYyPMeN64H290IClKgQZSXEVCgoKXPxeWbCCx4AzIT8_IdagxqFKpBNijYWGjZgRnAkgmaOzf0P1_fAHQlqCwwUXjauvppRxswvz1fswyeX0HmgTTVKBiAoaFCDTgJgEyBFCcvFoICwCmxqFjB8FHDZBMUTYYKxgpGIE3AskYXiE2BLDMFwzggwxgqqIth5q4eJDNNgWaCilRsZhoBNRuBzTQG8o0UzOPB0tjM3NGJZKYl0ExDIxRDjYBGmABJmJtAhiLEjGFiyGY-nT0b2e_GIEPNUAw1A2oxAXsU5F4QrwbMR4QIhqFPdk1BNtQcaKiRAUFDMbxvADS1lotL104BlBYUgLQyFxcA)]
-- [鋼琴伴奏 TMD 檔案](bajo_no_shonen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5bM2THV2PG9c93TDx6c4t7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFCwsue1sFNy4bI30TO646BaUXK-e93zPr6ZLlTyf1PJ-y4enuXc9W7FQCyTybvQkks6H_6caNT_bOebKz-2nXSrDM0_ZdL2ZOBUo-m7vxya41L-dvfrai6enaHc8WLHy-fcXjhq4nO9YCuU-nbHy2tudxQzdY04v2Xc8bFz-bOvNF06Znc5qftq55saoXqPbZtA1P18162jrp-eqlcB0vV894vrbz-fKJz6dsf7p2wvMpK4CeMjIwMtAzMDDTM7AwsQB6SYmLyzcxM88qIDMxLz_Iw6HGoEahmksBCGwstOzADH0thad7Nr7Yuh3ojefrGxS09MHCNQoGYGioUMMFU_d8DTAQG14s7EEoMlQwVjACKVIwVdAFYlMgy0zBMA7IMIYK6mKYsasHhxlGQMVGYDOMgXwjBfN4sDQ2M3Z0ophhBNRhAiRhVoLMQIgZw8SQjXg6ezaKEWZABSZgV4McA-LVgPkI72EY8WTXFIJGYPjEAGhGLXK8-JATLyBT8MVLvEK0YSyMgvONYXwTIMMkHkmBaTyQZQoUATHQDUePMDTDUfSCGXA1mCJACsPtqHGJxzi4-_GowbQAPaZhnofRcK0IASMgyyg-NxbBIBREqCmBCCsIhRAwjejaKYCSiQKQVubiAgA)]
+- [主旋律 TMD 檔案](bajo_no_shonen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl0KlizIL0IyGmhaemaeVW5qZlYmktO0tBReLlvzZEfX48Z1TzdMfLpzi4KWFpeirYKFBZe9rYIbl42RvokdyJQXK-e93zPr6ZLlTyf1PJ-y4enuXc9W7ASb_2z2JpDMhv6nGzc-2Tvnyc7up10rwTJP23e9mDkVKPls7sYnu9a8nL_52Yqmp2t3PFuw8Pn2FY8bup7sWAvkPp2y8dnanscN3WBNL9p3PW9c_GzqzBdNm57NaX7auubFql6g2mfTNjxdN-tp66Tnq5fCdbxcPeP52s7nyyc-n7L96doJz6eseL-nAxQ9esDo0QNFz_s9nUpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0Ax0DDJ-nrSueTWsHOuDpht5n7Z0KAQYmBnpZBenv9_QAFb9c0KhQoKdgCuQBXf1kR8PzNcCAbwAFx5z5QLaCKTAqpgGdCwwvkBUvVu1_1rAcZHh374uZ84Gij5tnvJy6HSgOtMJQ4eXM3hcrZoBlOh83NALjSQGoEij1Ys_Up_tXP27uVng0c6WtBTAEep7u2fhi6_an-3qe9nYBFb1s2PS0dSlQH9gr4Eh6sWI30DSgJUADkGMF7J5-oCDWKERTyQUyD-inxw0NzxZMf7Z-NlDf48b-x03A5DUJ5MzGdcDUBhZse9y4Dyyy-uW8tSCRpobHjQtBIk2THjc2AdU_blwG9BbYxJ1AhwH1rANLA81a8rip53Fj7-PG-Y-bup_s6nmyaxdYwVawSBfEpqf93WDBFY-bmiBBBA7VZRBRYBgCzQJa2wKyDWTc6pezWx43tILdMgmIwKZMf9oIDCeg-vmPGydCRKAGPdu2Bywx83EjMMzAEo29T3YsezYHlAQfN64C2gEUgfq6cTLEViQ_AjX2IfwItmEhMFDAZDc41ICOWvNyDjDbAXUCRYAawK5uXAfWv_BxQxMkwHcBc0LDi71Ak8GhDQoeYIyBFTZuety4GeiMFztbwLJA7tLHTY0wWWBYArMh2AFPt04AqwAGBsgzYBXdzzYvgnsGIvK4ERhgQC4Q9b9oBGZ8oOzkx03gsIH5BBgxQNcD4xDoJaAloBADeb2pG00QpBpS-oCN2fC4ccbjpmZg2oBGILg8AkvNBieYtY-bgMEIDD0gG-jNHWC3LAXZD43bCWtetgPTIdisJqCroCnh2fTWF9vXw6IRGBxATwFNAboFqAYYyPMeN64H290IClKgQZSXEVCgoKXPxeWbCCx4AzIT8_IdanQNa6pBNijYWGjZgRnAkgmaOzf0P1_fAHQlqCwwUXjauvppRxswvz1fswyeX0HmgTTVKBiAoaFCDTgJgEyBFCcvFoICwCmxqFjB8FHDZBMUTYYKxgpGIE3AskYXiE2BLDMFwzggwxgqqIth5q4eJDNNgWaCilRsZhoBNRuBzTQG8o0UzOPB0tjM3NGJZKYl0ExDIxRDjYBGmABJmJtAhiLEjGFiyGY-nT0b2e_GIEPNUAw1A2oxAXsU5F4QrwbMR4QIhqFPdk1BNtQcaKiRAUFDMbxvADS1lotL104BlBYUgLQyFwA)]
+- [鋼琴伴奏 TMD 檔案](bajo_no_shonen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5bM2THV2PG9c93TDx6c4t7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFCwsue1sFNy4bI30TO646BaUXK-e93zPr6ZLlTyf1PJ-y4enuXc9W7FQCyTybvQkks6H_6caNT_bOebKz-2nXSrDM0_ZdL2ZOBUo-m7vxya41L-dvfrai6enaHc8WLHy-fcXjhq4nO9YCuU-nbHy2tudxQzdY04v2Xc8bFz-bOvNF06Znc5qftq55saoXqPbZtA1P18162jrp-eqlcB0vV894vrbz-fKJz6dsf7p2wvMpK4CeMjIwMtAzMDDTM7AwsQB6SYmLyzcxM88qIDMxLz_Iw6FG17CmmksBCGwstOzADH0thad7Nr7Yuh3ojefrGxS09MHCNQoGYGioUMMFU_d8DTAQG14s7EEoMlQwVjACKVIwVdAFYlMgy0zBMA7IMIYK6mKYsasHhxlGQMVGYDOMgXwjBfN4sDQ2M3Z0ophhBNRhAiRhVoLMQIgZw8SQjXg6ezaKEWZABSZgV4McA-LVgPkI72EY8WTXFIJGYPjEAGhGLXK8-JATLyBT8MVLvEK0YSyMgvONYXwTIMMkHkmBaTyQZQoUATHQDUePMDTDUfSCGXA1mCJACsPtqHGJxzi4-_GowbQAPaZhnofRcK0IASMgyyg-NxbBIBREqCmBCCsIhRAwjejaKYCSiQKQVuYCAA)]
 
 ## 分析
 
@@ -93,14 +93,14 @@ F6 z2 |
 ================================================================================
 📊 TMD Song Profile: [ 馬上の少年 ]
 ================================================================================
-⏱  Duration:       0:28 (28.6s), 21 measures total
+⏱  Duration:       0:27 (27.3s), 20 measures total
 🎼 Key & Tempo:    首調基準 F, != 88.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    E4 (MIDI 64) – F5 (MIDI 77) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
    - 最低音:  E4 in [Main #1 @ m.8, 0:10]
    - 最高音: F5 in [Main #1 @ m.4, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (28.6s)
+🏛  結構:      Main (27.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -110,7 +110,7 @@ F6 z2 |
    - 候選調性 (K-S): F 大調 (0.90), C 大調 (0.82), A 小調 (0.62)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [Main #1]: F 調性不明確 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

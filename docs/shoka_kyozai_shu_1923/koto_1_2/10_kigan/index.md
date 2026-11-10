@@ -90,23 +90,11 @@ w: 2.~な み よ な | ぎ さ よ | さ ら ば _ と _ | て
 !mf! A6 G2 F2 G2 A2 B2 | c6 d2 c8 | !f! d6 f2 c2 A2 B2 G2 | F12 z4 |
 w: 1.~ナ ゴ リ _ ヤ _ | イ ト ド | ヲ シ カ _ ラ _ | ム
 w: 2.~か す み _ に _ | き ゆ る | こ ゑ ご _ ゑ _ | や
-!mf! F6 A2 c4 A4 | d6 c2 c8 | B6 A2 B2 c2 d2 f2 | c12 z4 |
-w: 1.~イ ソ ヤ マ | ザ ク ラ | サ キ ソ _ メ _ | テ
-w: 2.~お ぼ ろ の | つ き に | か げ み _ せ _ | て
-A6 G2 F2 A2 d2 c2 | c6 B2 G4 z4 | A6 G2 F2 A2 d2 c2 | c12 z4 |
-w: 1.~ナ ミ マ _ デ _ | カ ス ム | ハ ル ノ _ ヨ _ | ヤ
-w: 2.~わ か れ _ ぢ _ | を し む | か り が _ ね _ | や
-f6 e2 f4 B4 | _d6 d2 c8 | !mp! _A6 A2 A2 G2 F2 =A2 | c12 z4 |
-w: 1.~ト ワ タ リ | カ ヘ ル | カ リ ガ _ ネ _ | モ
-w: 2.~な み よ な | ぎ さ よ | さ ら ば _ と _ | て
-!mf! A6 G2 F2 G2 A2 B2 | c6 d2 c8 | !f! d6 f2 c2 A2 B2 G2 | F12 z4 |
-w: 1.~ナ ゴ リ _ ヤ _ | イ ト ド | ヲ シ カ _ ラ _ | ム
-w: 2.~か す み _ に _ | き ゆ る | こ ゑ ご _ ゑ _ | や
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kigan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYmyEZWVCUX5aal5gH1F1QlJlXkpoC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BclNqUTHY6RArSooS84qTizILQP5BqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MS0QoKslIBfouMS8zNzEHXbQ4NbE4P68Y2cTM9Mw8q9z8vKRSYLBhSqRmZmUiBYWWlsKztTtezm5U0NLiUrRVsDDgsrdVcOOyMdE3seMC6Qaps1J4Nm3D8-0rFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbe_3dLxcPeP52s7nyyc-2dEAVPpkVw9Q6dOdW55PWfF-TyfYVUCZZ4vmPmvte7Kj82VznwLQ-McNXaTY87ihG2jV0yXLn61d_LS3EWTJzi0QxrM5He_39DzfsujZ7B0vZs5XMDA3MtU1MQTbzaWvpWBLLcCloKBgpxCt6Ocf4hoL4WhpPe2bD7J3c_uLFV0vOtqBbn6xct7T1hXPprVraYGcvKH3WXunQgIozellFaQnPGqYDOKYgDlAh0MMUCjQUzA2NQFKGpuaAkVxBuqaNQqGBgovl00D-u_9nlkQZ-gCHfJi1f5nDctBTujuBQYDyPJZj5tnAIWfzp4NFHu6dgLQOW4KwDAEiikA41wBKAo2pedlw_ynu5YpPJq5EpQqHjc0IYx9tn7Kiz3NwBh52j0DbObT1o6nnb3PVk15trDjxd7OZ0t6X7SvetbZ_ayrBRinkGh7umMaJMISAgwtLaA-BVn0dPaC59s2PVuw59nMpqcNe55t3w5MJU839L1o3_JsfT8wJTxf3wA0_WlvF9BtL2e2vNw9D-j6px1tL-dvfr5m2fs93U9bV8O5LxatfrFqyfMd65437YIqRpIFKe5tfNq6Fkmk58mOKeAgNAQlO6BlIA44IF42tQBj4sWKGaAklKBhCAyMdcaaCQrAAAVrMIJqUEgwBQqCLQZ6HWixQoKxDljZk719IOuB4ZhgGp8ADMRnc9YAg-nJvrmQKH6ya8rz7bNerJ0DiqOpO56unQ5kP13XA0wsL9t7gSEMj04FBUM9BWhMQ50JsqdGIclMT8FMwRQYMTXAAO2Am_i0dSXQh0_ntgPVAfUBgwworuDyaOZaUFp62rtZIcFMB6hLVwFIgbQDIShG4DGtoGAEtREWMKDIyy0AKYLZbQxMoQoaxgpGmgqw4IE4AxhhwHz9tKEbGBQJCiDljkCbTcABA7T-2ZyGp_uAAd8AdCIklKFK1oGUgFX0LUUJYyAHVFBMm6zgbAoMTKBr9RQMkN0Ly3ygzNHQCCzNwPzni9c_3bjx2erdQDc9bmx53Dj3cROQ3Pe4cdrjxv7HTcAE2Pm4cerjxl6wVOPjxmUQjc-2rgJrWfW4cT9YDVDL8pdz5oEFux83zgQJNjU8m7EULLL-cRMwbQOVrXu6ZA5IpAlYAAEVtEBMe9y44nFT_-PG-Y-buoDlLcwQIAOoBsjoBoo_bux53Lj2cRM0-MFWTwGJgxwMREAT5j1rhhg-CWzXdLBGkDMwAmFXD1IgPG4EGr7ncRPQj-vAJSPQ9iVAL4MNWf1078YXy0AZE-ykSTD_zoYHxdMOsB9B7gf7sannxfb1YPWLwFyglulANwArEaghTV1gEyDegYYAeng2Qdh9oMAHsYEkUMsGkDdh9iKHNsxVq59tg7gf7PimNmDovWjc9LihFSw4-XHTxPd7-t_v2QMJfGiwUF7MQ4GClj4Xl28isB4NyEzMy3eoMahRqAbZoGBjoQUOfAVslQsoFwGT5YuFPQoaJtD0rKMAK_A1sWgA2gMyDGh6blqtgiE4dxqDc6kxKKMDMzxIxBSWb4EiJlA1JkAxMwXDOKAQTBIEDUCKwGb6GNYoPG5aAhZ93LRX4XEziP24eR7YmMdN26Ay64FiK-HGP27aChVfC9YF0rEQItPchmRPPMIeI6BcYxdEV-MeoK5eMGsdRFcj1AWNvUC8GmFPYzdUfBIQ7wezZkNllmHYgz_Ed_WQE-KgANZVMAIGujG4XIWFowlQDBqOONVgDetmaBg0z4eG8uPmdmiYQvz9uGknUGwBzFdAdj9Ux2og7gOzVkBlIKGGNayboLqAIQjMomDWIqg9k6Ay04HsBoQ9sLBu6gKyITrWQnW0kBjWOzrJCWtgMgVZYA5hgJIwMGmjV0rgXFBQq2AMkQBSQAQJe_zh3gENRWBKbgKnpOZVqOHePAMcxog0DhNfBWSvAbNAaRZkFigkcaVxkKmgsNsP1AWyEyICkgHFHYg_FSoDS-NToeHeCWRvAKuAxi-paRxYq5NdqiASsRG43IAFJqQxAQ14oDpIWQOMIVOwMiNQvOEJdWhqb9oCDW9ImkUqc4Dx8ri5ExEazZugOrZDYwBS7oBkQHkCV6jDyomZ8HICpBckA4ozkHltQAxRBRGfDBWfCGRPgbJwpfZaLi5dOwVQUa-ARCtzAQA)]
+- [主旋律 TMD 檔案](kigan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYmyEZWVCUX5aal5gH1F1QlJlXkpoC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BclNqUTHY6RArSooS84qTizILQP5BqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MS0QoKslIBfouMS8zNzEHXbQ4NbE4P68Y2cTM9Mw8q9z8vKRSYLBhSqRmZmUiBYWWlsKztTtezm5U0NLiUrRVsDDgsrdVcOOyMdE3seMC6Qaps1J4Nm3D8-0rFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbe_3dLxcPeP52s7nyyc-2dEAVPpkVw9Q6dOdW55PWfF-TyfYVUCZZ4vmPmvte7Kj82VznwLQ-McNXaTY87ihG2jV0yXLn61d_LS3EWTJzi0QxrM5He_39DzfsujZ7B0vZs5XMDA3MtU1MQTbzaWvpWBLLcCloKBgpxCt6Ocf4hoL4WhpPe2bD7J3c_uLFV0vOtqBbn6xct7T1hXPprVraYGcvKH3WXunQgIozellFaQnPGqYDOKYgDlAh0MMUCjQUzA2NQFKGpuaAkVxBuqaNQqGBgovl00D-u_9nlkQZ-gCHfJi1f5nDctBTujuBQYDyPJZj5tnAIWfzp4NFHu6dgLQOW4KwDAEiikA41wBKAo2pedlw_ynu5YpPJq5EpQqHjc0IYx9tn7Kiz3NwBh52j0DbObT1o6nnb3PVk15trDjxd7OZ0t6X7SvetbZ_ayrBRinkGh7umMaJMISAgwtLaA-BVn0dPaC59s2PVuw59nMpqcNe55t3w5MJU839L1o3_JsfT8wJTxf3wA0_WlvF9BtL2e2vNw9D-j6px1tL-dvfr5m2fs93U9bV8O5LxatfrFqyfMd65437YIqRpIFKe5tfNq6Fkmk58mOKeAgNAQlO6BlIA44IF42tQBj4sWKGaAklKBhCAyMdcaaCQrAAAVrMIJqUEgwBQqCLQZ6HWixQoKxDljZk719IOuB4ZhgGp8ADMRnc9YAg-nJvrmQKH6ya8rz7bNerJ0DiqOpO56unQ5kP13XA0wsL9t7gSEMj04FBUM9BWhMQ50JsqdGIclMT8FMwRQYMTXAAO2Am_i0dSXQh0_ntgPVAfUBgwworuDyaOZaUFp62rtZIcFMB6hLVwFIgbQDIShG4DGtoGAEtREWMKDIyy0AKYLZbQxMoQoaxgpGmgqw4IE4AxhhwHz9tKEbGBQJCiDljkCbTcABA7T-2ZyGp_uAAd8AdCIklKFK1oGUgFX0LUUJYyAHVFBMm6zgbAoMTKBr9RQMkN0Ly3ygzNHQCCzNwPzni9c_3bjx2erdQDc9bmx53Dj3cROQ3Pe4cdrjxv7HTcAE2Pm4cerjxl6wVOPjxmUQjc-2rgJrWfW4cT9YDVDL8pdz5oEFux83zgQJNjU8m7EULLL-cRMwbQOVrXu6ZA5IpAlYAAEVtEBMe9y44nFT_-PG-Y-buoDlLcwQIAOoBsjoBoo_bux53Lj2cRM0-MFWTwGJgxwMREAT5j1rhhg-CWzXdLBGkDMwAmFXD1IgPG4EGr7ncRPQj-vAJSPQ9iVAL4MNWf1078YXy0AZE-ykSTD_zoYHxdMOsB9B7gf7sannxfb1YPWLwFyglulANwArEaghTV1gEyDegYYAeng2Qdh9oMAHsYEkUMsGkDdh9iKHNsxVq59tg7gf7PimNmDovWjc9LihFSw4-XHTxPd7-t_v2QMJfGiwUF7MQ4GClj4Xl28isB4NyEzMy3eoMaipBlmgYGOhBQ57BWx1CygTAVPli4U9Chom0OSsowAr7zWxaABaAzKsRqE6N61WwRCcOY3BmdQYlM-B-R0kYgrLtkARE6gaE6CYmYJhHFAIJgmCBiBFYDN9DGsUHjctAYs-btqr8LgZxH7cPA9szOOmbVCZ9UCxlXDjHzdthYqvBesC6VgIkWluQ7InHmGPEVCusQuiq3EPUFcvmLUOoqsR6oLGXiBejbCnsRsqPgmI94NZs6EyyzDswR_iu3rICXFQAOsqGAED3RhcrMLC0QQoBg1HnGqwhnUzNAya50ND-XFzOzRMIf5-3LQTKLYA5isgux-qYzUQ94FZK6AykFDDGtZNUF3AEATmUDBrEdSeSVCZ6UB2A8IeWFg3dQHZEB1roTpaSAzrHZ3khDUwmYIsMIcwQEkYmLTR6yRwLiioVTCGSAApIIKEPf5w74CGIjAlN4FTUvMq1HBvngEOY0Qah4mvArLXgFmgNAsyCxSSuNI4yFRQ2O0H6gLZCREByYDiDsSfCpWBpfGp0HDvBLI3gFVA45fUNA6s1MkuVRCJ2AhcbsACE9KWgAY8UB2krAHGkClYmREo3vCEOjS1N22BhjckzSKVOcB4edzciQiN5k1QHduhMQApd0AyoDyBK9Rh5cRMeDkB0guSAcUZyLw2IIaogohPhopPBLKnQFm4UnstF5eunQKopFcA0spcAA)]
 - [鋼琴伴奏 TMD 檔案](kigan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYmyEZWVCUX5aal5gH1F1QlJlXkpoC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BclNqUTHY6RArSooS84qTizILQP5BqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MS1Ti0tJSeLZ2x8vZje_3dLycPfNZZ_fL7j3PJ2x5smfL06X97_d0KmhpcSnaKlgYcNnbKrhx2Zjom9hxgcwG-dJK4dm0Dc-3r1B4uqH_6dodzxYsfNy8-2nrGghb4emUjc_W9jybOvPZ3AkvZ7eBrFg94_nazufLJz7Z0QBU-mRXD1Dp051bnk9ZAbQL7GagzLNFc5-19j3Z0fmyuU8BaPzjhi5S7Hnc0A206umS5c_WLn7a2wiyZOcWCOPZnI73e3qeb1n0bPaOFzPnKxiYG5nqmhiC7ebyTczMswrITMzLD_JwqDGoUajmUgACGwstOzADKJCbVqtgqKALhMYKpmBSFyhsBhYxBYuAYI2CCVSNCVDMTMEwDigEkwRBA5AisJk-hjUKj5uWgEUfN-1VeNwMYj9ungc25nHTNqjMeqDYSrjxj5u2QsXXgnWBdCyEyDS3IdkTj7DHCCjX2AXR1bgHqKsXzFoH0dUIdUFjLxCvRtjT2A0VnwTE-8Gs2VCZZRj2QAMJFCa6CkbAcDIG-t0U7nUToBjU6zjVYA2eZqizm-dDA-Zxczs0GCBOfdy0Eyi2AOYQILsfqmM1EPeBWSugMhCPYg2eJqguoKcfN_WAWYug9kyCykwHshsQ9sCCp6kLyIboWAvV0YIreICJASRmDmGAEgowAemAxYAUIglV5xbUKhhDJIAUEEGCC39QdUA9DkwvTeD4al6FGlTNM8DBgkhJMPFVQPYaMAuUMkBmgTyPKyWBTAV5dz9QF8hOiAhIBhTcIP5UqAwsJU2FBlUnkL0BrAIaJbhTEji7IZKKEThDwfwPSjbwsAKqg2RCYKCagpUZgYIaT0BB01TTFmgQQVIGUmYEBuXj5k6EB5o3QXVshwYaJEOCZEApD1dAwTLQTHgGAukFyYCCGWReGxBDVEHEJ0PFJwLZU6AsXGmqFrnU8kEptUzgpZZhvEK0YSyMAhZO8UCWSTy6CJAFlwEGMohpCmSCGAZQL2Gaha4MQwGCj2oISA-IhtgGtTgXqhHEgGqFixHnKIhxeH0M0o_uLmA46topgIIy2gcoCmcbgdnKXAA)]
 
 ## 分析
@@ -115,14 +103,14 @@ w: 2.~か す み _ に _ | き ゆ る | こ ゑ ご _ ゑ _ | や
 ================================================================================
 📊 TMD Song Profile: [ 歸雁 ]
 ================================================================================
-⏱  Duration:       1:36 (96.0s), 32 measures total
+⏱  Duration:       0:48 (48.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – F5 (MIDI 77) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  F4 in [Main #1 @ m.1, 0:00]
    - 最高音: F5 in [Main #1 @ m.3, 0:08]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (48.0s) -> Main (48.0s)
+🏛  結構:      Main (48.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（流行色彩大調，未偵測到可信轉調）
    - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
@@ -130,10 +118,9 @@ w: 2.~か す み _ に _ | き ゆ る | こ ゑ ご _ ゑ _ | や
    - 核心骨幹音:  C, F, A, D, A#
    - 調性數值:    F 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 92.4%]
    - 候選調性 (K-S): F 大調 (0.80), C 大調 (0.73), A 小調 (0.63)
-   - 五度圈歷程:   -1 -> -1
+   - 五度圈歷程:   -1
    - 各段落調性細節:
      • [Main #1]: F 大調 (r: 0.80, 自然音純度: 92.4%, 調外音: C#, G#)
-     • [Main #2]: F 大調 (r: 0.80, 自然音純度: 92.4%, 調外音: C#, G#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -160,7 +147,7 @@ w: 2.~か す み _ に _ | き ゆ る | こ ゑ ご _ ゑ _ | や
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – F5 (12 個半音 / 1.0 個八度, 120 個音符)
+  - Piano         : F4 – F5 (12 個半音 / 1.0 個八度, 60 個音符)
 ================================================================================
 ```
 

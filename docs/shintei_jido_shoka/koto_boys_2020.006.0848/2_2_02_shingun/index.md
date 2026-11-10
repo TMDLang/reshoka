@@ -75,8 +75,8 @@ G12 z4 |
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shingun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkQBxqWnplnVZKYCfQbyH_lifG5iZl5OYl5KUpcWloKLxs2vdjdq6ClxaVoq2BoZsFlb6vgzmVjom9iBzLkRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD98vVM56v7Xy-fOLzKdufrp3wfMqK93s6QGGmBwwzPVCYvd_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DEvVs572rri2bR2oAOebuh91t6pEGBgaaiXVZD-fk8PUPHLBY0KBXoKhiZALtDZT3b1PF-zBkg-Xbvj2Zz5QLaCkcLLZdOA7n2_ZxbIjher9j9rWA4yvbv3xcz5QNHHzR0vp24HigPtcFfwTczKLwIaZqjwtBfojhlgNZ2PGxqBIakA1ANySHf708XrHzd3KzyaudIWGNZA5U_3bHyxdTvIPrAqYGw8bV0K1Aj2VvuuFzOnvlixG2gc0D6QCXumPlvR9HzJvucz97xY2PNkx1pgeL-cvxkoCIwiYMADfQbSDNL9ZEcD1JDHjcuBih839gMj-uWsrmdrlwId_bhx7uOm3seNOx43LgOpg6SDp9Pan_avfdy4_umSlU_nbHjcuPpx46bHjZuBmkGKnk0Hyq173AjUvf5x43yQXBMwgPrf79nzdMLOx40tUMOez2p_OqcbqPTlohUgw3qbX7YDHbD6aX_X48ZtEOft6gFRQIMfNwEFFzxunPm0dSvIeVO3PG5ofbqgCUgiPPC4qQ2o9NmKxUBDn3YverGs-3ET0MQNEJ9Oez4VZPyzHqCrtsItBxr5uBEoPh9i0SSwbyYDPQ7W3QYyoKEBqzhIA-VJEwoUtPS5uMKAuTjVKiAzMS_focagRqEaZIWCjaGZlh2YBcwSkKTwdEP_8_UNoLju7FUwBqWJJ3smPlu7CJhWMFMJyGiQ7hoFAwVdMESnq9NqFUzjwUxDhRpwyIPsAiX2HQ3AVAG0yEQBZifcPKCKx83tCo-bVgDxegVQAVGjAIwbIG8RUGYPkPe4aTuQBRRpng9k7wWJNK8Fyz1ungGl26Cq9iDcaQx1Fy66RsEUykKHEBVATyiYQ_wD4kBoIwxDYCIwCNYCUg6RAIYIaljs6sEfFpuBPtkAoZtXAnEL2L8Tgbgf4k9ImIDlG4G4G4gnwUUnQ8IDGJKw8IOHB8wLuGhEiMEgTAYSTsZAFWaw8MDBAHseYRUMwhVBwsQIPXl0ogcJOAEaGkH58NT4YvsKoMqnvRueTdsDFHw6ezaQ-3Ja98sFa9GCsWkrNFj6wMkGFDSg4AMFzX6UAAMFMYgHoqeCE9sSRJICJTjkIITFNToNCjgTdbDX0dMUTAlE3AQplGEyhiCNyALIyQ5dDnsGgwQEWghunfB0wz5IvgbWJZAsD8rjuya9WDwHPbiA6QWckoDB1bQaHAygIAAFGSiNQXIhKEg7IOqaVkEDCZhroQE5jZSchyulmWGEEjjpgKRBAqBQgIQEMIQwkxkMwkqkGq5aLi5dOwVwiagAZChzcQEA)]
-- [鋼琴伴奏 TMD 檔案](shingun_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZsOnF7t73ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKhmQWXva2CO5eNib6JHVedgtKL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bul6tnPF_b-Xz5xOdTtj9dO-H5lBVAy4wMjAz0DAzM9AwsTCyAVilxcYWlFhWnWgVkJublB3k41BjUKFRzKQCBjaGZlh2Ypa-l8HTPxhdbtz_d0P98fYOClj5YuEbBQEEXDNHp6rRaBdN4MNNQoYYLZsjzNWue7Gh4sbAHYYIxVAcuukbBFMpChxAVQOMVzCE2gTgQ2gjDEJgIDIK1gJRDJIBuRXXlrh4UV8IMxkUj_AGDMBmI642BKsxgrsTBADsJYRUMwhVBXGqEHpydKA6F-ROdBjnPRB1sAXp4wpRAxE2Q_AKTMQRpRBZADnJ0OezR_nT2bBKjHVeAmmE4ExxCIGmQAMgZEKcAnYgZmjAIS6g1XLUoGcAHJQOYEE7_EIg3iYMyg2G8QrRhLDBwIDTQYegCYJZpPFQIxADGJpIQuiXoKZSgBWYglll8bqyCMYwBVwWSw_AFWsoCqjSCqATRWARAxhpDBaDGg9QAhYAUmuno6QGX802AlAk8eGAqIKEDVKILFgOZDYxGXTsFcEwqABnKXFwA)]
+- [主旋律 TMD 檔案](shingun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkQBxqWnplnVZKYCfQbyH_lifG5iZl5OYl5KUpcWloKLxs2vdjdq6ClxaVoq2BoZsFlb6vgzmVjom9iBzLkRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD98vVM56v7Xy-fOLzKdufrp3wfMqK93s6QGGmBwwzPVCYvd_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DEvVs572rri2bR2oAOebuh91t6pEGBgaaiXVZD-fk8PUPHLBY0KBXoKhiZALtDZT3b1PF-zBkg-Xbvj2Zz5QLaCkcLLZdOA7n2_ZxbIjher9j9rWA4yvbv3xcz5QNHHzR0vp24HigPtcFfwTczKLwIaZqjwtBfojhlgNZ2PGxqBIakA1ANySHf708XrHzd3KzyaudIWGNZA5U_3bHyxdTvIPrAqYGw8bV0K1Aj2VvuuFzOnvlixG2gc0D6QCXumPlvR9HzJvucz97xY2PNkx1pgeL-cvxkoCIwiYMADfQbSDNL9ZEcD1JDHjcuBih839gMj-uWsrmdrlwId_bhx7uOm3seNOx43LgOpg6SDp9Pan_avfdy4_umSlU_nbHjcuPpx46bHjZuBmkGKnk0Hyq173AjUvf5x43yQXBMwgPrf79nzdMLOx40tUMOez2p_OqcbqPTlohUgw3qbX7YDHbD6aX_X48ZtEOft6gFRQIMfNwEFFzxunPm0dSvIeVO3PG5ofbqgCUgiPPC4qQ2o9NmKxUBDn3YverGs-3ET0MQNEJ9Oez4VZPyzHqCrtsItBxr5uBEoPh9i0SSwbyYDPQ7W3QYyoKEBqzhIA-VJEwoUtPS5uMKAuTjVKiAzMS_foUbXsKYaZIWCjaGZlh2YBcwSkKTwdEP_8_UNoLju7FUwBqWJJ3smPlu7CJhWMFMJyGiQ7hoFAwVdMESnq9NqFUzjwUxDhRpwyIPsAiX2HQ3AVAG0yEQBZifcPKCKx83tCo-bVgDxegVQAVGjAIwbIG8RUGYPkPe4aTuQBRRpng9k7wWJNK8Fyz1ungGl26Cq9iDcaQx1Fy66RsEUykKHEBVATyiYQ_wD4kBoIwxDYCIwCNYCUg6RAIYIaljs6sEfFpuBPtkAoZtXAnEL2L8Tgbgf4k9ImIDlG4G4G4gnwUUnQ8IDGJKw8IOHB8wLuGhEiMEgTAYSTsZAFWaw8MDBAHseYRUMwhVBwsQIPXl0ogcJOAEaGkH58NT4YvsKoMqnvRueTdsDFHw6ezaQ-3Ja98sFa9GCsWkrNFj6wMkGFDSg4AMFzX6UAAMFMYgHoqeCE9sSRJICJTjkIITFNToNCjgTdbDX0dMUTAlE3AQplGEyhiCNyALIyQ5dDnsGgwQEWghunfB0wz5IvgbWJZAsD8rjuya9WDwHPbiA6QWckoDB1bQaHAygIAAFGSiNQXIhKEg7IOqaVkEDCZhroQE5jZSchyulmWGEEjjpgKRBAqBQgIQEMIQwkxkMwkqkGq5aLi5dOwVwiagAZChzAQA)]
+- [鋼琴伴奏 TMD 檔案](shingun_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZsOnF7t73ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKhmQWXva2CO5eNib6JHVedgtKL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bul6tnPF_b-Xz5xOdTtj9dO-H5lBVAy4wMjAz0DAzM9AwsTCyAVilxcYWlFhWnWgVkJublB3k41Oga1lRzKQCBjaGZlh2Ypa-l8HTPxhdbtz_d0P98fYOClj5YuEbBQEEXDNHp6rRaBdN4MNNQoYYLZsjzNWue7Gh4sbAHYYIxVAcuukbBFMpChxAVQOMVzCE2gTgQ2gjDEJgIDIK1gJRDJIBuRXXlrh4UV8IMxkUj_AGDMBmI642BKsxgrsTBADsJYRUMwhVBXGqEHpydKA6F-ROdBjnPRB1sAXp4wpRAxE2Q_AKTMQRpRBZADnJ0OezR_nT2bBKjHVeAmmE4ExxCIGmQAMgZEKcAnYgZmjAIS6g1XLUoGcAHJQOYEE7_EIg3iYMyg2G8QrRhLDBwIDTQYegCYJZpPFQIxADGJpIQuiXoKZSgBWYglll8bqyCMYwBVwWSw_AFWsoCqjSCqATRWARAxhpDBaDGg9QAhYAUmuno6QGX802AlAk8eGAqIKEDVKILFgOZDYxGXTsFcEwqABnKXAA)]
 
 ## 分析
 
@@ -84,14 +84,14 @@ G12 z4 |
 ================================================================================
 📊 TMD Song Profile: [ 進軍 ]
 ================================================================================
-⏱  Duration:       0:24 (24.3s), 17 measures total
+⏱  Duration:       0:22 (22.9s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 168.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [Verse #1 @ m.1, 0:01]
    - 最高音: E5 in [Verse #1 @ m.15, 0:21]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Verse (24.3s)
+🏛  結構:      Verse (22.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -99,17 +99,17 @@ G12 z4 |
    - 核心骨幹音:  B, G, A, D, E
    - 調性數值:    G 調性不明確 [相關度: 0.72, 穩定度: Ambiguous, 自然音純度: 96.1%]
    - 候選調性 (K-S): G 大調 (0.72), B 小調 (0.69), D 大調 (0.64)
-   - 五度圈歷程:   +1
+   - 五度圈歷程:   +5
    - 各段落調性細節:
-     • [Verse #1]: G 調性不明確 (r: 0.72, 自然音純度: 96.1%, 調外音: C#, G#)
+     • [Verse #1]: B 小調 (r: 0.72, 自然音純度: 95.9%, 調外音: C, G#)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
+         F            G  
       Bb               D  
       Eb               A  
          Ab           E  
-            Db       B  
+            Db      [B ]*
                F# 
      (* = active key center)
 

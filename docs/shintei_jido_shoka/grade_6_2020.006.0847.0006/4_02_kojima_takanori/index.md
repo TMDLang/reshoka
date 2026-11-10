@@ -72,30 +72,36 @@ Q:1/4=80
 K:Cm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! C6 C2 C6 G,2 | C6 D2 E8 | G6 G2 F6 G2 | C12 z4 |
-w: 1.~ふ な さ か | や ま や | す ぎ さ か | と
-w: 2.~み こ こ ろ | な ら ぬ | い で ま し | の
-D8 E4 D4 | C6 D2 E4 G4 | F6 F2 G4 F4 | G12 z4 |
-w: 1.~み あ と | し た ひ て | ゐ ん の しや | う
-w: 2.~み そ で | つ ゆ け き | あ さ と で | に
-!p! F6 F2 D6 =B,2 | C8 E8 | G,6 G,2 C6 D2 | C12 z4 |
-w: 1.~び ちゆ う を | いか で | き こ え ん | と
-w: 2.~ず ん じ て | ゑま す | か し こ さ | よ
-G,6 G,2 =B,6 C2 | D6 E2 F8 | C6 C2 C6 =B,2 | G,12 z4 |
-w: 1.~さ く ら の | み き に | じ ふ じ の | し
-w: 2.~さ く ら の | み き の | じ ふ じ の | し
-!mf! C6 C2 C6 D2 | E6 F2 G4 z2 G2 | A6 G2 F4 E2 D2 | C6 F2 E8 |
-w: 1.~て ん こ う | せ ん を む | な し う す る | な か れ
-w: 2.~て ん こ う | せ ん を む | な し う す る | な か れ
-G,8 =B,8 | C6 D2 E4 F4 | G6 E2 D4 C4 | D6 =B,2 C8 |
-w: 1.~と き | は ん れ い | な き にし も | あ ら ず
-w: 2.~と き | は ん れ い | な き にし も | あ ら ず
+!mf! G6 G2 E4 F4 | G6 G2 G8 | c6 c2 B4 A4 | G12 z4 |
+w: ふ な さ か | や ま や | す ぎ さ か | と
+G8 c4 c4 | e6 e2 d4 d4 | c6 c2 =B4 B4 | c12 z4 |
+w: み あ と | し た ひ て | ゐ ん の しや | う
+!p! c6 c2 G4 G4 | A8 G4 E4 | C6 C2 D4 E4 | D12 z4 |
+w: び ちゆ う を | い か で | き こ え ん | と
+C6 C2 D4 E4 | A6 A2 G8 | F6 F2 G4 G4 | C12 z4 |
+w: さ く ら の | み き に | じ ふ じ の | し
+!mf! G6 G2 c4 c4 | d6 d2 d4 z2 G2 | e6 d2 c4 A2 c2 | G6 G2 E8 |
+w: て ん こ う | せ ん を む | な し う す る | な か れ
+C8 D8 | A6 A2 G4 G4 | c2 A4 G2 E4 C4 | D6 D2 C8 |
+w: と き | は ん れ い | な き に し も | あ ら ず
+!mf! G6 G2 E4 F4 | G6 G2 G8 | c6 c2 B4 A4 | G12 z4 |
+w: み こ こ ろ | な ら ぬ | い で ま し | の
+G8 c4 c4 | e6 e2 d4 d4 | c6 c2 =B4 B4 | c12 z4 |
+w: み そ で | つ ゆ け き | あ さ と で | に
+!p! c6 c2 G4 G4 | A8 G4 E4 | C6 C2 D4 E4 | D12 z4 |
+w: ず ん じ て | ゑ ま す | か し こ さ | よ
+C6 C2 D4 E4 | A6 A2 G8 | F6 F2 G4 G4 | C12 z4 |
+w: さ く ら の | み き の | じ ふ じ の | し
+!mf! G6 G2 c4 c4 | d6 d2 d4 z2 G2 | e6 d2 c4 A2 c2 | G6 G2 E8 |
+w: て ん こ う | せ ん を む | な し う す る | な か れ
+C8 D8 | A6 A2 G4 G4 | c2 A4 G2 E4 C4 | D6 D2 C8 |
+w: と き | は ん れ い | な き に し も | あ ら ず
 ```
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kojima_takanori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2ZkFgO1VyKEgWalZ-ZZ5ebnJZUC_afEpaWl8LR10tPN216unvF032YFLS0uRVsFCwMue1sFVx2u7NRKWwXnXC4bE30TO5ApL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um4W0Kjnq5c-nbLx2dqexw3dTzd0P92x4_nyic_XrHnauvbp2h1Pd255PmXF-z0doODTAwaaHij4gAwDs_d7OpW4uPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB7rrxcp5T1tXPJvWDnTF0w29z9o7FQIMzAz0sgrSFR41TAZxDEGc93t6gDpfLmhUKCjQUzA2B8oZWwAFn_Y3v2hoBobAs7kTgP5SMFJ4uWwa0PHv98wCWfiyYf7TXcuAVr1YuOJZcytQ9FnTpqeL1z9u7lZ4NHOlLTBogaperNr_rGE5yEHdvS9mzgeqety4_vn8tUDxp7NnP-1oe7KzG8gAyj5dOwHoUGeFpxv6gZIKwHhQAIoC3fFy-pwn-5tAYq6PZq5VeLpkOZANdAfY1-27XsycCjQVqBXo05fNK57PaQTJgSSf7GgAO6Fj59O5TU83bgSqedy49XHjqseNUx83dj9uanncuA-oGMh4NrcTqAasYObjxj6IApBU4wqwNfsWguVA1j5ubAKKPmsF2goUmf64EegpoOCmx43LXs5cBBJsmvC4aTJYcN3TXS1QZSDL2mCu3rfuxcLtYInNjxsXPm5qg8g9bpr0uBGorvtx4_IXjfMeNwLNmgx1wrPVu8EagA7rf9wEjASw8Tt3Qtz1uBEYUkCR1U97G5-uBTpq3YuVK8FWLVkJVrEM4qSn3fte7ACF8-NGoMFAa2dDndo06fnKXWDHNwADCGwW0BSggpmPm7pf9K0GawEGHDhQmnrALpoJCbAVEMtf9DS_WAAJpvUgZzf1AP0CFH_eAhGEGNoLdCM4OJpezp0HFm-C-WYWJNJ2gQ0HhvjT_c0wzwFNm_u4CeLFVUD1jxvXgANqOTACwQ5dB9XzYhEwhUL0zAVKAzW8nLMJLLIEGMpg_ROBjng2Z-6zjh3AxAN1AShUgd4AqQe6D5Jul4HlZsGicgYwDJ-vmQgOIiAJFAHaDEwrwLgC2g8MzKmPmzqgEYUtZtZhiRlIbEDCHi28EWEMCVdw4KMEHijAgCooLz2gQEFLn4vLOz8rMzcxJDE7MQ9YgloFZAJphxqDmmqQVQo2Flp2YAa2wksBWEYAc9yLhT0KGiagXPx8fYMOvMTRxKIBaCHUMA2gRk0rhcfNU4G4S-Fx01YgXq1QA-QtAeJ5UHoPSKRpJxCvQ1HTgWLUrh6QUY37gXgyBDf1gpQ1rgKyOoH0GphRjS1AvByI9wHxdLDIOphRNQrVuWm1CmbxCrpACKSgLON4oBSUbR6vYAhm6ALFjCHSwGISQsNVQaABSBHYZB9DkEVbwaJgRzVOhbK7wf5rgfKAjoKyQcYDUwZUvA9dR-MKJHtAdkLtMQLJ7YeqhAQFmA0PDggPEiQIe2D2QwIGwoYFDro9-FPDrh7KUsN8oOsWgeMXFC7bgRgYqc2TgLgNHO8bgHgzEANDpGn74-bFYGXLcCWGuWA_gfwBTEtNbUB6IhBDwqIJHKagkISpWY1ICMBohvgZFNlgDnoKAMV9DTTmjcA8EBuWJrAnAEjEgAK3CUyCIhEkPh0qCvR84yYwaxlEpmkCNMJAUQmKCki1AtXWRjANgDTMhcYsRM8SqIGQsADJ9EJlQE4C8SFhgqxnNYlpYEcnZWkA6NnmxsfNS8Ex-7h5EzgkQBG4GshrB_PWAjEwGTQBIw-YHHAWCLOgQTcDHKQgjaD4B2X9mWCfdYMDH5JTpoLl4cYAC4OCWnj8QtODqTpSUQBJHNCSAF5SIFIJgdJgMzS8QW0BeGQCKwZIhgS5DRaDoHiA5VRQbMHydgc8cRAqEWbBVYLCAmICNDxgGR4kBCluIBZBrIcFDyxpQIKIpOQAbOpRlBzAhf56YAyvBGd7UFyDCglgCgC2OkHu2QGpRMA0WB5YbGBJC6B03Q8t-9aBvQgqIXrhPFAaAVoFpiEi0xFpARG_oCQAYgLjFl5MGELTCVIpgag9IGkGagD2pAAr2iHOg7BhToTwQM6EZUOIYyHiEAcj64CUJdiTAXH2wIp8Uu0hUDFMoaxQAOYRUMEPzvWQpLsbWhVsAuIF4HQBakaAqgxgqQFqMjRDmgogUVDJsQZbqgAphTYZgFkQ5LHZEBFgRgQ2jKG1JiQbgLLpTKAopAYGiQLLj6YeQs0HcFEAKSogFYUBuKlgAklR4KRjiFJeGCEKFqREAqoSYHkYliFhLobLAF0Nig6EyxGZGFTAoLofIgfxA4p94MRCH_vwFx2tazETDbgDS2Si6QAXFKBEAEzy4MQCbAgCqxJYsoAUIuBE07wInKhAbQ9gQdO0C1tiATUVII0HYHkE9n4PkN0CTw6QXAr2flMTtFKFFDizMIoSSMGAVmpA2xbILQlw0gAnJ5AYUj0Er1yQEwmsEoBVFJBcvB4pwkBBD2nwIUcK2OWQTA1yOkqLAOoBzBRCB8tqubh07RRQuygKQBFlLgA)]
-- [鋼琴伴奏 TMD 檔案](kojima_takanori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjaOunp5m0vV894um_z-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbBwoDL3lbBVYcrO7XSVsE5l8vGRN_EjqtOQelF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzQKa_3z10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T1vXPl274-nOLc-nrABabWRgZKBnYGCmZ2BhYg5kGJgBbVfi4vLOz8rMTQxJzE7Myy_KtArIBNJBHg41BjXVXApAYGOhZQdm6Gsp2KIDBaA9T3Y0vFjYo6BhovB0Q__z9Q06CgEGZgZ6WQXpmlg0aOmDDatRqM5Nq1Uwi1fQBUIgBWUZxwOloGzzeAVDMEMXKGYMkVYwgtJwVRBoAFIENtnHsEbhceNWsOjjxlVAPBXK7gZqetzUAuXtg7NBxj9unAkV70PX0bgCyR6QnVB7jEBy-6EqJ4MxmN3UC9a1CsrrBLLXINkDs3852A0Q9nSwzDoMe_CH-64ecsIdGKoQK0BhC-agBzgoqGugAW0E5oHYsCjAHt6QcAD5pQlMgsIMJD4dKjofiDeBWcsgMk0ToOEDCjmQz4FqIREC0tZGMMhBGuZCAxKiZwnUwDYgeyJYphcqA3ISiD8V6jCEntUkBvmOTrKSekEtPDihwW-qjpTQIXEBTefwfICIFAJpfTPUewshfoeE3eOmSZDkBkrFsAADeRuWDkGBA0u5HfC4IJTeZ8FVPm6cATVhGTg-J8KSM0gIkpkgFkGsByUFeBYBxgRIC8RaokP_6ezZ5IQ-IkRBgQ5iAkMTng8MoTGDlA0QpREklqAGYA98WFHRD87qEPY6sL9hRUMvUjoDicOCbSsSG6IDklmwBzxx9sCKEFLtIVDQTKFeAQ9OzpDkDilbDMCFuQkkjsCRYYiS5o0QmQMp2EGlCCwdwhJVG9hzsxEywCwA8uDjpgbkEhmcEEGZBJRMHzdByniYXDdQpAfVPnDw08c-_Mm_dS1mNBgSm_whiRktpUMLfOTiHRz44AgDiSGVVvAiCDkaYEUFrDiBpLz1SEEC8hyk0kP2NjhPQBLi4yZQ8YxUTINrTEg5gxoHdLCsFnt7yAe5PWQCbQ-BQjFeIdosPjcWiUVY1BjEMo7HVGoA9S0ozqBKcKqFGWsEZBqhiaHoJsdQwirxmwpnwlyHw_s4HEpKsMJsIOQnosIAm3NNQCwTVOeCZKGpRddOATXBRPsYxipgETUCiypzAQA)]
+- [主旋律 TMD 檔案](kojima_takanori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIrQDYgvSExPtQowMDPQBRKGCOnUssyUVJDu4uTEvPiy1KLMtMzUFIR8flFJRj7QoQUZlVYZmcUl-UWZyYk58dmJecj-SS0qBvsZYldJUWJecXJRZgEoIBCqSjJSgZ6GGFKJbENmemaeVW5-XlIpMJyUuLS0FJ62Tnq6edvL1TOe7tusoKXFpWirYGHAZW-r4KrDlZ1aaavgnMtlY6JvYgcy5UX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNAhr1fPXSp1M2Plvb87ih--mG7qc7djxfPvH5mjVPW9c-Xbvj6c4tz6eseL-nAxQNesDA1wNFA5BhYPZ-T6cSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UB3vVg572nrimfT2oGueLqh91l7pwIoqvSyCtIVHjVMBnEMQZz3e3qAOl8uaFQoKNBTMDYHyhlbAAWf9je_aGgGhsCzuROA_lIwUni5bBrQ8e_3zAJZ-LJh_tNdy4BWvVi44llzK1D0WdOmp4vXP27uVng0c6UtMGiBql6s2v-sYTnIQd29L2bOB6p63Lj--fy1QPGns2c_7Wh7srMbyADKPl07AehQZ4WnG_qBkgrAeFAAigLd8XL6nCf7m0Biro9mrlV4umQ5kA10B9jX7btezJwKNBWoFejTl80rns9pBMmBJJ_saAA7oWPn07lNTzduBKp53Lj1ceOqx41THzd2P25qedy4D6gYyHg2txOoBqxg5uPGPogCkFTjCrA1-xaC5UDWPm5sAoo-awXaChSZ_rgR6Cmg4KbHjctezlwEEmya8LhpMlhw3dNdLVBlIMvaYK7et-7Fwu1gic2PGxc-bmqDyD1umvS4Eaiu-3Hj8heN8x43As2aDHXCs9W7wRqADut_3ASMBLDxO3dC3PW4ERhSQJHVT3sbn64FOmrdi5UrwVYtWQlWsQzipKfd-17sAIXz40agwUBrZ0Od2jTp-cpdYMc3AAMIbBbQFKCCmY-bul_0rQZrAQYcOFCaesAumgkJsBUQy1_0NL9YAAmm9SBnN_UA_QIUf94CEYQY2gt0Izg4ml7OnQcWb4L5ZhYk0naBDQeG-NP9zTDPAU2b-7gJ4sVVQPWPG9eAA2o5MALBDl0H1fNiETCFQvTMBUoDNbycswkssgQYymD9E4GOeDZn7rOOHcDEA3UBKFSB3gCpB7oPkm6XgeVmwaJyBjAMn6-ZCA4iIAkUAdoMTCvAuALaDwzMqY-bOqARhS1m1mGJGUhsQMIeLbwRYQwJV3DgowQeKMCAKigvPaBAQUufi8s7PyszNzEkEVgSA0tQq4BMIO1QY1BTDbJKwcZCyw7MwFZ4KQDLCGCOe7GwR0HDBJSLn69v0IGXOJpYNAAthBqmAdSoaaXwuHkqEHcpPG7aCsSrFWqAvCVAPA9K7wGJNO0E4nUoajpQjNrVAzKqcT8QT4bgpl6QssZVQFYnkF4DM6qxBYiXA_E-IJ4OFlkHM6pGoTo3rVbBWEEXCI0VDIGkERDXwEUgNEjEDEybKZgCSRMkNRBoABIBG-ljCLJhK1gU7JrGqWBWN1gPsISAygBdA2WDxRtnQsX70HU0rkCyJx5hjxFIbj9UFyQMgCxgKEB0rYLIQMMCYQ_MfkiIgFjToTLrMOzBnwx29VCWDOYDXbcIHLGgcNkOxMDYbJ4ExG3gCN8AxJuBGBgiTdsfNy8GK1uGKxXMBfsJ5A9gImpqA9ITgRiSJprAYQoKSZia1YgUAItGUASDcI2CYRxYAEiZAykQRop-dSAFJmBi2BMAJGJAwdsEJkGRCBIHBTaID_R84yYwaxk0YUyARhgoKkFRAalPoNraCKYBkIa50JiF6FkCNRASFiAZWNoAOQnEh4QJsp7VJKaBHZ2UpQGgZ5sbHzcvBcfs4-ZN4JAAReBqIK8dzFsLxMBk0ASMPGBywFkSzIIG3QxwkII0guIflOdngn3WDQ58SE6ZCpaHGwMsBQpq4TEMSg8gXAPO5pBiAJgYIDEOChOgongFcxALIghm4koHm6FBDar_ofEIrAqgoQ3L_5C8jogFUDzBcnUHNFEQLgtmQeMbEgrISQsU-7BSB0SCyhpImEBEIeECSREQHSBbSUgHwMYdRekAXMyvB0btSnB-B0UyqHQARj2wnQlyzw5ItQGmwfLA8gJLIgAl6H5oobcO7EVQ0dAL54ESB9AqMA0RmY5IBFgjF5IGTJAqAlAFAaomEOkEqhF7AgCFKChkIc4CsUCZG7nsBjkPlu8gjoSIQxyKrANSeGCPfeLsgZXxpNpDoCaYQlkpAMwZoJIenM0heXc3tOzfBMQLwOkB1GAA1RHAYgLUOGiGNApAoqCiYg221ABSCm0cADMeyGOzISLADAhsAkOrSUjyB2XOmUBRcHIDiwILjKYeHA0FRF0Bqh1AdQSINgDKwGsPc7ACEyCJaE2AkhQ49JHSByiPwnItJA-CygiIY-Ey4BIjHsnRiHwLLlFQnA4rUUDOR7EPnE7oYx_-0qJ1LWZ6AfdSiUwvHeCyART_wNQOTifA1h6w2oClCEi5AU4vzYvA6QnUzgCWLU27sKUTULMA0lAAFkFg7_cA2S3wlADJoGDvNzVBK1BIGTMLo_QARjyMgVp4QIsKsBgkJYB1wKsPIAU3Ajl9wEp8WK0Aiav1SHEFCnVIXYJwMEgE4mSQKlB9j1TvQ52OmTZob1ctF5eunQJqByTaxzBWAYuoEVhUmQsA)]
+- [鋼琴伴奏 TMD 檔案](kojima_takanori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjaOunp5m0vV894um_z-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbBwoDL3lbBVYcrO7XSVsE5l8vGRN_EjqtOQelF-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzQKa_3z10qdTNj5b2_O4ofvphu6nO3Y8Xz7x-Zo1T1vXPl274-nOLc-nrABabWRgZKBnYGCmZ2BhYg5kGJgBbVfi4vLOz8rMTQxJzE7Myy_KtArIBNJBHg41BjXVXApAYGOhZQdm6Gsp2KIDBaA9T3Y0vFjYo6BhovB0Q__z9Q06CgEGZgZ6WQXpmlg0aOmDDatRqM5Nq1UwVtAFQmMFQyBpBMQ1cBEIDRIxA9NmCqZA0gRJDQQagETARvoY1ig8btwKFn3cuAqIp4JZ3WA9j5taoDL74GyweONMqHgfuo7GFUj2xCPsMQLJ7YfqmgzGQFZTL1TXKohMUyeQvQbJHpj9y8FuALGmQ2XWYdiDP8B39ZAT4LBQA4UnCNcoGMaBBYCUOZACYaTQVgdSYAImhj28IeEA8k0TmASFGUgc5DcQfz4QbwKzlkHjYQI0fEAhB_I5UC0kQkDa2ggGOUjDXGhAQvQsgRrYBmRPBMvAogLkJBB_KtRhCD2rSQzyHZ1kpfGCWniAgoIfhGvAiRiSyIFhDwlgkBOAiuIVzEEsiCCYiSvYN0N9thDibVCwPW6aBPUcLHVDUjLC06BggaXZDmgcEE7ps6DBC9I1A6wfFpOgwIblKRAJykkgHSBbIekbmjfA-QqkA2QrCcH-dPZscoIda3BCQt0EqWABFTigYgcRM1CN2IMc5AeQX_rBeRvEAqVe5LKgFylhgcRBoQUS3woPOZgOSO7AHt7E2QMrM0i1h0DJMoXiohxRvIAKFFCxAqINgDLwAsccrMAESCLKe1Akgf2DFOKgdAZLeZB0BErnIJnZCBlwqo8H0g3IpS847YFzBTBVPm7qRpHrBor0oNoHDnn62Ic_xbeuxYwBQ2JTPDBoYQzUBA9N3mAxSFiDdcALGSAFNwI5BmDlAqzsgITGeqTQAPkLUuJAfAxRCcoHkNT3uAlUCCMVxuB6EVKmoIY-7e2qxd7a8UFu7ZhAWzugMI1XiDaLz41FYhEWNQaxjOMxlRpAPQtM8jAlONXCjDUCMo3QxFB0k2MoYZX4TYUzYa7D4X0cDiUlWGE2EPITUWGAzbkmIJYJqnNBstDUomungJpgon0MYxWwiBqBRZW5AA)]
 
 ## 分析
 
@@ -103,24 +109,25 @@ w: 2.~と き | は ん れ い | な き にし も | あ ら ず
 ================================================================================
 📊 TMD Song Profile: [ 兒島高徳 ]
 ================================================================================
-⏱  Duration:       1:12 (72.0s), 24 measures total
+⏱  Duration:       2:24 (144.0s), 48 measures total
 🎼 Key & Tempo:    首調基準 E,, != 80.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    G3 (MIDI 55) – G#4 (MIDI 68) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
-   - 最低音:  G3 in [KojimaTakanori #1 @ m.1, 0:02]
-   - 最高音: G#4 in [KojimaTakanori #1 @ m.19, 0:54]
-   - 適合: mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      KojimaTakanori (72.0s)
+🎤 人聲音域:    C4 (MIDI 60) – D#5 (MIDI 75) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [KojimaTakanori[L1] #1 @ m.11, 0:30]
+   - 最高音: D#5 in [KojimaTakanori[L1] #1 @ m.6, 0:15]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      KojimaTakanori[L1] (72.0s) -> KojimaTakanori[L2] (72.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       C 小調（流行色彩小調，未偵測到可信轉調）
-   - 風格氣質:    流行小調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       C 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, G, D#, D, F
-   - 調性數值:    C 小調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 94.5%]
-   - 候選調性 (K-S): C 小調 (0.87), C 大調 (0.77), G 大調 (0.51)
-   - 五度圈歷程:   +0
+   - 核心骨幹音:  C, G, D, D#, G#
+   - 調性數值:    C 小調 [相關度: 0.86, 穩定度: High, 自然音純度: 97.8%]
+   - 候選調性 (K-S): C 小調 (0.86), C 大調 (0.69), G 大調 (0.62)
+   - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [KojimaTakanori #1]: C 小調 (r: 0.87, 自然音純度: 94.5%, 調外音: B)
+     • [KojimaTakanori[L1] #1]: C 小調 (r: 0.86, 自然音純度: 97.8%, 調外音: B)
+     • [KojimaTakanori[L2] #1]: C 小調 (r: 0.86, 自然音純度: 97.8%, 調外音: B)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -133,21 +140,21 @@ w: 2.~と き | は ん れ い | な き にし も | あ ら ず
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  32.2%
+     C  : ████████████████████████  29.5%
      C# :                            0.0%
-     D  : █████████                 12.6%
-     D# : ██████████                13.1%
+     D  : █████████████             15.8%
+     D# : █████████                 11.5%
      E  :                            0.0%
-     F  : █████████                 12.6%
+     F  : ███                        3.3%
      F# :                            0.0%
-     G  : █████████████████         22.4%
-     G# : █                          1.6%
+     G  : ██████████████████████    27.3%
+     G# : ████████                   9.3%
      A  :                            0.0%
-     A# :                            0.0%
-     B  : ████                       5.5%
+     A# : █                          1.1%
+     B  : ██                         2.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : G3 – G#4 (13 個半音 / 1.1 個八度, 76 個音符)
+  - Piano         : C4 – D#5 (15 個半音 / 1.2 個八度, 156 個音符)
 ================================================================================
 ```
 
