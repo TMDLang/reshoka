@@ -7,8 +7,8 @@ render_neutrino_mix.py: 使用 NEUTRINO 將 TMD 樂譜中的歌詞軌合成為�
   - 單一 *_piano.tmd 或主旋律 .tmd 檔案路徑
 
 核心特性：
-  1. 直接從完整 TMD 匯出 MusicXML，自動鎖定含歌詞之聲部（如 PianoRH），確保前奏 (Intro)、間奏、尾奏
-     與多段反覆 (L1/L2) 的小節數與伴奏 WAV 100% 同步。
+  1. 直接從完整 TMD 匯出 MusicXML，自動找出所有含歌詞之聲部（如 Soprano、Alto 或 PianoRH），確保前奏
+     (Intro)、間奏、尾奏與多段反覆 (L1/L2) 的小節數與伴奏 WAV 100% 同步。
   2. 自動將無歌詞的器樂音符（如前奏 Intro 的右手旋律）在送入 NEUTRINO 前轉為同長度的休止符 (<rest/>)，
      避免 NEUTRINO 因空白歌詞報錯崩潰，同時保留精確的前奏/間奏等待秒數。
   3. 自動根據 NEUTRINO 產出的 timing.lab 對齊第一拍子音先行發聲 (Pre-utterance) 與伴奏正拍。
@@ -17,6 +17,7 @@ render_neutrino_mix.py: 使用 NEUTRINO 將 TMD 樂譜中的歌詞軌合成為�
 from __future__ import annotations
 
 import argparse
+from dataclasses import dataclass
 import os
 import re
 import subprocess
@@ -37,6 +38,13 @@ METER_RE = re.compile(r"^\s*<(\d+)\s*/\s*(\d+)>\s*$", re.MULTILINE)
 PLAYBACK_RE = re.compile(r"^\s*->.*->\s*#\s*$", re.MULTILINE)
 
 
+@dataclass(frozen=True)
+class PreparedVocalPart:
+    path: Path
+    part_name: str
+    converted_rests: int
+
+
 def parse_tempo_and_meter(tmd_text: str) -> tuple[float, int, int]:
     """從 TMD 內容解析 BPM 與拍號 (beats, beat_type)。"""
     bpm = 120.0
@@ -54,18 +62,42 @@ def parse_tempo_and_meter(tmd_text: str) -> tuple[float, int, int]:
     return bpm, beats, beat_type
 
 
-def find_lyric_instrument(tmd_text: str) -> tuple[str | None, list[int]]:
-    """找出含有 L| 或 L1|..L64| 歌詞行的樂器軌道名稱，以及出現的段落編號清單。"""
+def find_lyric_instruments(tmd_text: str) -> tuple[list[str], list[int]]:
+    """找出所有含有歌詞的樂器軌道，以及共用的段落編號清單。"""
     stanzas_found: set[int] = set()
-    lyric_inst: str | None = None
+    lyric_instruments: list[str] = []
     for match in ENTRY_HEADER_RE.finditer(tmd_text):
         _section, instrument, body = match.group(1), match.group(2), match.group(3)
         lyric_matches = LYRIC_LINE_RE.findall(body)
         if lyric_matches:
-            if lyric_inst is None:
-                lyric_inst = instrument
+            if instrument not in lyric_instruments:
+                lyric_instruments.append(instrument)
             stanzas_found.update(int(num) for num in lyric_matches if num.isdigit())
-    return lyric_inst, sorted(stanzas_found)
+    return lyric_instruments, sorted(stanzas_found)
+
+
+def find_lyric_instrument(tmd_text: str) -> tuple[str | None, list[int]]:
+    """Backward-compatible single-part view of :func:`find_lyric_instruments`."""
+    instruments, stanzas = find_lyric_instruments(tmd_text)
+    return (instruments[0] if instruments else None), stanzas
+
+
+def resolve_part_model(
+    part_name: str, default_model: str, overrides: dict[str, str]
+) -> str:
+    """Resolve a NEUTRINO model by part name, falling back to the default model."""
+    return overrides.get(part_name.casefold(), default_model)
+
+
+def parse_part_model_overrides(values: list[str]) -> dict[str, str]:
+    """Parse repeated ``PART=MODEL`` CLI options into a case-insensitive map."""
+    overrides: dict[str, str] = {}
+    for value in values:
+        part_name, separator, model_name = value.partition("=")
+        if not separator or not part_name.strip() or not model_name.strip():
+            raise ValueError(f"聲部 voice 設定格式錯誤：{value}（應為 PART=MODEL）")
+        overrides[part_name.strip().casefold()] = model_name.strip()
+    return overrides
 
 
 def ensure_stanza_playback_selectors(tmd_text: str, stanzas: list[int], target_repeats: int | None = None) -> str:
@@ -108,10 +140,14 @@ def ensure_stanza_playback_selectors(tmd_text: str, stanzas: list[int], target_r
     return tmd_text[: m_play.start()] + new_play + tmd_text[m_play.end() :]
 
 
-def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> tuple[str, int]:
+def prepare_vocal_musicxml(
+    raw_musicxml_path: Path,
+    out_musicxml_path: Path,
+    target_part_id: str | None = None,
+) -> tuple[str, int]:
     """
     處理 TMD 匯出的 MusicXML 以供 NEUTRINO 使用：
-    1. 僅保留含有 `<lyric>` 的 `<part>`（例如 PianoRH），移除純伴奏聲部（如 PianoLH）。
+    1. 僅保留指定的含有 `<lyric>` 的 `<part>`（例如 PianoRH），移除純伴奏聲部（如 PianoLH）。
     2. 將該聲部中所有「無歌詞且非連音線延續 (`<tie type="stop"/>`)」的純器樂音符（如 Intro 前奏、間奏）
        轉為同等時值的 `<rest/>`，確保時間軸與伴奏 100% 對齊且不觸發 NEUTRINO 空白歌詞錯誤。
     回傳 (保留的 part 名稱, 轉為休止符的器樂音符數量)。
@@ -124,21 +160,29 @@ def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> 
     if not parts:
         raise RuntimeError(f"MusicXML 中找不到任何 <part>：{raw_musicxml_path}")
 
-    # 找出含有最多有效歌詞的 part
-    best_part = None
-    best_lyric_count = -1
+    # 找出所有含有有效歌詞的 part；未指定目標時維持舊的單聲部行為。
+    lyric_parts: list[tuple[ET.Element, int]] = []
     for p in parts:
         texts = [
             (lyr.findtext("text") or "").strip()
             for lyr in p.iter("lyric")
         ]
         valid_count = sum(1 for t in texts if t and t != "_")
-        if valid_count > best_lyric_count:
-            best_lyric_count = valid_count
-            best_part = p
+        if valid_count > 0:
+            lyric_parts.append((p, valid_count))
 
-    if best_part is None or best_lyric_count <= 0:
+    if not lyric_parts:
         raise RuntimeError("MusicXML 中找不到任何含有日文歌詞的聲部")
+
+    if target_part_id is None:
+        best_part, _ = max(lyric_parts, key=lambda item: item[1])
+    else:
+        best_part = next(
+            (part for part, _ in lyric_parts if part.attrib.get("id") == target_part_id),
+            None,
+        )
+        if best_part is None:
+            raise RuntimeError(f"MusicXML 中找不到指定歌詞聲部：{target_part_id}")
 
     target_part_id = best_part.attrib.get("id", "P1")
     target_part_name = target_part_id
@@ -273,6 +317,60 @@ def prepare_vocal_musicxml(raw_musicxml_path: Path, out_musicxml_path: Path) -> 
     return target_part_name, converted_notes
 
 
+def prepare_vocal_musicxml_parts(
+    raw_musicxml_path: Path, output_dir: Path
+) -> list[PreparedVocalPart]:
+    """Split every lyric-bearing MusicXML part into an independent NEUTRINO input."""
+    tree = ET.parse(raw_musicxml_path)
+    root = tree.getroot()
+    parts = root.findall("part")
+    part_list = root.find("part-list")
+    if not parts:
+        raise RuntimeError(f"MusicXML 中找不到任何 <part>：{raw_musicxml_path}")
+
+    lyric_part_ids: list[tuple[str, str]] = []
+    for part in parts:
+        valid_count = sum(
+            1
+            for lyric in part.iter("lyric")
+            if (lyric.findtext("text") or "").strip() not in ("", "_")
+        )
+        if valid_count <= 0:
+            continue
+        part_id = part.attrib.get("id", "P1")
+        part_name = part_id
+        if part_list is not None:
+            score_part = next(
+                (item for item in part_list.findall("score-part") if item.attrib.get("id") == part_id),
+                None,
+            )
+            if score_part is not None:
+                part_name = (score_part.findtext("part-name") or part_id).strip()
+        lyric_part_ids.append((part_id, part_name))
+
+    if not lyric_part_ids:
+        raise RuntimeError("MusicXML 中找不到任何含有日文歌詞的聲部")
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    prepared: list[PreparedVocalPart] = []
+    for index, (part_id, part_name) in enumerate(lyric_part_ids, start=1):
+        safe_name = re.sub(r"[^a-z0-9]+", "_", part_name.lower()).strip("_") or f"part_{index}"
+        output_path = output_dir / f"vocal_{index:02d}_{safe_name}.musicxml"
+        prepared_name, converted_rests = prepare_vocal_musicxml(
+            raw_musicxml_path,
+            output_path,
+            target_part_id=part_id,
+        )
+        prepared.append(
+            PreparedVocalPart(
+                path=output_path,
+                part_name=prepared_name,
+                converted_rests=converted_rests,
+            )
+        )
+    return prepared
+
+
 def resolve_song_tmds(target: Path) -> tuple[Path, Path, str]:
     """
     回傳 (vocal_source_tmd, accompaniment_tmd, base_stem)。
@@ -337,7 +435,13 @@ def detect_max_volume_db(audio_path: Path) -> float | None:
     return float(m.group(1)) if m else None
 
 
-def render_single_song(target: Path, args: argparse.Namespace, neutrino_dir: Path, model_dir: Path) -> Path:
+def render_single_song(
+    target: Path,
+    args: argparse.Namespace,
+    neutrino_dir: Path,
+    model_dir: Path,
+    model_dirs: dict[str, Path] | None = None,
+) -> Path:
     vocal_src_tmd, accomp_tmd, base_stem = resolve_song_tmds(target)
     song_dir = accomp_tmd.parent
 
@@ -355,15 +459,15 @@ def render_single_song(target: Path, args: argparse.Namespace, neutrino_dir: Pat
     vocal_tmd_text = vocal_src_tmd.read_text(encoding="utf-8")
     accomp_tmd_text = accomp_tmd.read_text(encoding="utf-8")
 
-    vocal_inst, stanzas = find_lyric_instrument(vocal_tmd_text)
-    if not vocal_inst:
+    vocal_instruments, stanzas = find_lyric_instruments(vocal_tmd_text)
+    if not vocal_instruments:
         raise RuntimeError(f"在 {vocal_src_tmd} 找不到含有歌詞 (L| / L1|) 的軌道")
 
     bpm, beats, beat_type = parse_tempo_and_meter(accomp_tmd_text)
     measure_duration_sec = beats * (4.0 / beat_type) * (60.0 / bpm)
 
     print(f"🎵 歌曲：{base_stem} ({song_dir.name})")
-    print(f"   - 人聲來源：{vocal_src_tmd.name} (軌道: {vocal_inst}, 段落: {stanzas or ['L']})")
+    print(f"   - 人聲來源：{vocal_src_tmd.name} (軌道: {', '.join(vocal_instruments)}, 段落: {stanzas or ['L']})")
     print(f"   - 伴奏來源：{accomp_tmd.name} ({'僅 PianoLH' if args.lh_only else '完整伴奏'})")
     print(f"   - 歌手模型：{args.model} | 速度：{bpm} BPM (<{beats}/{beat_type}>, 單小節 {measure_duration_sec:.4f}s)")
 
@@ -383,10 +487,13 @@ def render_single_song(target: Path, args: argparse.Namespace, neutrino_dir: Pat
         raw_musicxml = work_dir / "raw.musicxml"
         run_cmd(["tmd", str(temp_vocal_source), "-x", str(raw_musicxml)])
 
-        vocal_musicxml = work_dir / "vocal.musicxml"
-        part_name, converted_rests = prepare_vocal_musicxml(raw_musicxml, vocal_musicxml)
-        if converted_rests > 0:
-            print(f"   ℹ️  已將 {part_name} 軌中 {converted_rests} 個無歌詞器樂音符（前奏/間奏）轉為休止符以對齊時間軸")
+        vocal_musicxml_dir = work_dir / "vocal_parts"
+        prepared_parts = prepare_vocal_musicxml_parts(raw_musicxml, vocal_musicxml_dir)
+        for prepared_part in prepared_parts:
+            if prepared_part.converted_rests > 0:
+                print(
+                    f"   ℹ️  已將 {prepared_part.part_name} 軌中 {prepared_part.converted_rests} 個無歌詞器樂音符（前奏/間奏）轉為休止符以對齊時間軸"
+                )
 
         # 2. 渲染鋼琴伴奏 WAV
         piano_wav = work_dir / "piano.wav"
@@ -415,109 +522,130 @@ def render_single_song(target: Path, args: argparse.Namespace, neutrino_dir: Pat
             f"{dyld_path}:{env['DYLD_LIBRARY_PATH']}" if env.get("DYLD_LIBRARY_PATH") else dyld_path
         )
 
-        full_lab = work_dir / "full.lab"
-        mono_lab = work_dir / "mono.lab"
-        timing_lab = work_dir / "timing.lab"
-        out_f0 = work_dir / "output.f0"
-        out_melspec = work_dir / "output.melspec"
-        vocal_wav = work_dir / "vocal.wav"
+        vocal_tracks: list[dict[str, float | Path | str]] = []
+        for index, prepared_part in enumerate(prepared_parts, start=1):
+            prefix = work_dir / f"vocal_{index:02d}"
+            full_lab = prefix.with_suffix(".lab")
+            mono_lab = work_dir / f"vocal_{index:02d}.mono.lab"
+            timing_lab = work_dir / f"vocal_{index:02d}.timing.lab"
+            out_f0 = work_dir / f"vocal_{index:02d}.f0"
+            out_melspec = work_dir / f"vocal_{index:02d}.melspec"
+            vocal_wav = work_dir / f"vocal_{index:02d}.wav"
 
-        print("🔤 [1/3] 執行 musicXMLtoLabel 轉換音素與標籤...")
-        label_res = run_cmd(
-            [
-                str(neutrino_dir / "bin" / "musicXMLtoLabel"),
-                str(vocal_musicxml),
-                str(full_lab),
-                str(mono_lab),
-            ],
-            cwd=neutrino_dir,
-            env=env,
-        )
-
-        combined_label_out = (label_res.stdout or "") + "\n" + (label_res.stderr or "")
-        for line in combined_label_out.splitlines():
-            if "warning:" in line and "Undefined lyric" in line:
-                print(f"   ⚠️  {line.strip()}")
-
-        # 檢查 musicXMLtoLabel 是否自動在開頭插入了 1 小節休止符
-        prepended_rest_sec = 0.0
-        if (
-            "Added a rest to the first measure" in combined_label_out
-            or "最初の小節に休符を追加しました" in combined_label_out
-        ):
-            prepended_rest_sec = measure_duration_sec
-            print(f"   ℹ️  偵測到 NEUTRINO 自動插入前導 1 小節休止符 ({prepended_rest_sec:.4f}s)")
-
-        print(f"🎤 [2/3] 執行 NEUTRINO ({args.model}) 合成人聲...")
-        neutrino_cmd = [
-            str(neutrino_dir / "bin" / "neutrino"),
-            str(full_lab),
-            str(timing_lab),
-            str(out_f0),
-            str(out_melspec),
-            str(vocal_wav),
-            f"{model_dir}/",
-            "-k",
-            str(args.style_shift),
-            "-f",
-            str(args.transpose),
-            "-s",
-            "48000",
-            "-b",
-            "16",
-            "-t",
-        ]
-        if args.threads > 0:
-            neutrino_cmd.extend(["-n", str(args.threads)])
-
-        # 即時串流輸出 NEUTRINO 各階段進度 (timing / pitch / melspec / vocoder)
-        proc = subprocess.Popen(
-            neutrino_cmd,
-            cwd=neutrino_dir,
-            env=env,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.STDOUT,
-            text=True,
-            bufsize=1,
-        )
-        neutrino_out_lines: list[str] = []
-        assert proc.stdout is not None
-        for line in proc.stdout:
-            neutrino_out_lines.append(line)
-            stripped = line.rstrip()
-            if stripped:
-                print(f"   {stripped}", flush=True)
-        proc.wait()
-        if proc.returncode != 0:
-            raise RuntimeError(
-                f"NEUTRINO 執行失敗 ({' '.join(neutrino_cmd)}):\n{''.join(neutrino_out_lines)}"
+            print(f"🔤 [1/3] {prepared_part.part_name}：執行 musicXMLtoLabel...")
+            label_res = run_cmd(
+                [
+                    str(neutrino_dir / "bin" / "musicXMLtoLabel"),
+                    str(prepared_part.path),
+                    str(full_lab),
+                    str(mono_lab),
+                ],
+                cwd=neutrino_dir,
+                env=env,
             )
 
-        # 4. 根據 timing.lab 計算精確對齊（保留第一拍前的子音先行發聲 Pre-utterance）
-        vocal_trim_sec = 0.0
-        piano_delay_ms = 0.0
-        if prepended_rest_sec > 0:
-            first_phoneme_sec = prepended_rest_sec
-            if timing_lab.exists():
-                first_line = timing_lab.read_text(encoding="utf-8").splitlines()[0].split()
-                if len(first_line) >= 3 and first_line[2] == "pau":
-                    first_phoneme_sec = int(first_line[1]) / 10_000_000.0
-            vocal_trim_sec = max(0.0, min(prepended_rest_sec, first_phoneme_sec - 0.030))
-            piano_delay_ms = max(0.0, (prepended_rest_sec - vocal_trim_sec) * 1000.0)
+            combined_label_out = (label_res.stdout or "") + "\n" + (label_res.stderr or "")
+            for line in combined_label_out.splitlines():
+                if "warning:" in line and "Undefined lyric" in line:
+                    print(f"   ⚠️  {line.strip()}")
+
+            prepended_rest_sec = 0.0
+            if (
+                "Added a rest to the first measure" in combined_label_out
+                or "最初の小節に休符を追加しました" in combined_label_out
+            ):
+                prepended_rest_sec = measure_duration_sec
+                print(
+                    f"   ℹ️  {prepared_part.part_name} 偵測到 NEUTRINO 自動插入前導 1 小節休止符 ({prepended_rest_sec:.4f}s)"
+                )
+
+            part_model_name = resolve_part_model(
+                prepared_part.part_name,
+                args.model,
+                getattr(args, "part_model_overrides", {}),
+            )
+            part_model_dir = (model_dirs or {}).get(part_model_name, model_dir)
             print(
-                f"   🎯 對齊校正：人聲首子音於 {first_phoneme_sec:.4f}s 發聲（第一拍母音落點 {prepended_rest_sec:.4f}s），"
-                f"裁切人聲前導空白 {vocal_trim_sec:.4f}s 並延遲伴奏 {piano_delay_ms:.1f}ms"
+                f"🎤 [2/3] {prepared_part.part_name}：執行 NEUTRINO ({part_model_name})..."
+            )
+            neutrino_cmd = [
+                str(neutrino_dir / "bin" / "neutrino"),
+                str(full_lab),
+                str(timing_lab),
+                str(out_f0),
+                str(out_melspec),
+                str(vocal_wav),
+                f"{part_model_dir}/",
+                "-k",
+                str(args.style_shift),
+                "-f",
+                str(args.transpose),
+                "-s",
+                "48000",
+                "-b",
+                "16",
+                "-t",
+            ]
+            if args.threads > 0:
+                neutrino_cmd.extend(["-n", str(args.threads)])
+
+            proc = subprocess.Popen(
+                neutrino_cmd,
+                cwd=neutrino_dir,
+                env=env,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.STDOUT,
+                text=True,
+                bufsize=1,
+            )
+            neutrino_out_lines: list[str] = []
+            assert proc.stdout is not None
+            for line in proc.stdout:
+                neutrino_out_lines.append(line)
+                stripped = line.rstrip()
+                if stripped:
+                    print(f"   {stripped}", flush=True)
+            proc.wait()
+            if proc.returncode != 0:
+                raise RuntimeError(
+                    f"NEUTRINO 執行失敗 ({' '.join(neutrino_cmd)}):\n{''.join(neutrino_out_lines)}"
+                )
+
+            vocal_trim_sec = 0.0
+            piano_delay_ms = 0.0
+            if prepended_rest_sec > 0:
+                first_phoneme_sec = prepended_rest_sec
+                if timing_lab.exists():
+                    timing_lines = timing_lab.read_text(encoding="utf-8").splitlines()
+                    if timing_lines:
+                        first_line = timing_lines[0].split()
+                        if len(first_line) >= 3 and first_line[2] == "pau":
+                            first_phoneme_sec = int(first_line[1]) / 10_000_000.0
+                vocal_trim_sec = max(0.0, min(prepended_rest_sec, first_phoneme_sec - 0.030))
+                piano_delay_ms = max(0.0, (prepended_rest_sec - vocal_trim_sec) * 1000.0)
+                print(
+                    f"   🎯 {prepared_part.part_name} 對齊校正：裁切前導空白 {vocal_trim_sec:.4f}s，伴奏基準延遲 {piano_delay_ms:.1f}ms"
+                )
+
+            vocal_max_db = detect_max_volume_db(vocal_wav)
+            vocal_gain_db = (-2.0 - vocal_max_db) if vocal_max_db is not None else 0.0
+            vocal_tracks.append(
+                {
+                    "path": vocal_wav,
+                    "part_name": prepared_part.part_name,
+                    "trim_sec": vocal_trim_sec,
+                    "delay_ms": piano_delay_ms,
+                    "gain_db": vocal_gain_db,
+                }
             )
 
-        # 5. 自動偵測人聲與伴奏峰值，先把 tmd -w 偏小的伴奏拉回基準峰值 (-4.5 dB)，人聲對齊至 (-2.0 dB)
-        vocal_max_db = detect_max_volume_db(vocal_wav)
+        # 5. 自動偵測各聲部與伴奏峰值，並以最晚的伴奏校正點統一對齊。
         piano_max_db = detect_max_volume_db(piano_wav)
-        vocal_gain_db = (-2.0 - vocal_max_db) if vocal_max_db is not None else 0.0
         piano_gain_db = min(20.0, -4.5 - piano_max_db) if piano_max_db is not None else 10.0
         print(
-            f"   🔊 音量平衡：人聲原始峰值 {vocal_max_db:.1f}dB (補償 {vocal_gain_db:+.1f}dB) | "
+            f"   🔊 音量平衡：{len(vocal_tracks)} 個人聲聲部 | "
             f"伴奏原始峰值 {piano_max_db:.1f}dB (補償 {piano_gain_db:+.1f}dB)"
-            if (vocal_max_db is not None and piano_max_db is not None)
+            if piano_max_db is not None
             else "   🔊 音量平衡：套用預設增益"
         )
 
@@ -526,28 +654,35 @@ def render_single_song(target: Path, args: argparse.Namespace, neutrino_dir: Pat
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
         ffmpeg_cmd = ["ffmpeg", "-y"]
-        if vocal_trim_sec > 0:
-            ffmpeg_cmd += ["-ss", f"{vocal_trim_sec:.6f}"]
-        vocal_filter = f"[0:a]volume={vocal_gain_db:.2f}dB,volume={args.vocal_volume}[v];"
-        piano_filter = f"[1:a]volume={piano_gain_db:.2f}dB,volume={args.piano_volume}"
-        if piano_delay_ms > 0.5:
-            delay_int = int(round(piano_delay_ms))
-            piano_filter += f",adelay={delay_int}:all=1"
-        piano_filter += "[p];"
+        for track in vocal_tracks:
+            trim_sec = float(track["trim_sec"])
+            if trim_sec > 0:
+                ffmpeg_cmd += ["-ss", f"{trim_sec:.6f}"]
+            ffmpeg_cmd += ["-i", str(track["path"])]
+        ffmpeg_cmd += ["-i", str(piano_wav)]
 
-        ffmpeg_cmd += [
-            "-i",
-            str(vocal_wav),
-            "-i",
-            str(piano_wav),
-            "-filter_complex",
-            (
-                f"{vocal_filter}"
-                f"{piano_filter}"
-                f"[v][p]amix=inputs=2:duration=longest:dropout_transition=0:normalize=0,"
-                f"alimiter=limit=0.95"
-            ),
-        ]
+        max_delay_ms = max(float(track["delay_ms"]) for track in vocal_tracks)
+        filter_parts: list[str] = []
+        for index, track in enumerate(vocal_tracks):
+            delay_ms = max_delay_ms - float(track["delay_ms"])
+            vocal_filter = f"[{index}:a]volume={float(track['gain_db']):.2f}dB,volume={args.vocal_volume}"
+            if delay_ms > 0.5:
+                vocal_filter += f",adelay={int(round(delay_ms))}:all=1"
+            vocal_filter += f"[v{index}];"
+            filter_parts.append(vocal_filter)
+
+        piano_index = len(vocal_tracks)
+        piano_filter = f"[{piano_index}:a]volume={piano_gain_db:.2f}dB,volume={args.piano_volume}"
+        if max_delay_ms > 0.5:
+            piano_filter += f",adelay={int(round(max_delay_ms))}:all=1"
+        piano_filter += "[p];"
+        filter_parts.append(piano_filter)
+        mix_inputs = "".join(f"[v{index}]" for index in range(len(vocal_tracks))) + "[p]"
+        filter_parts.append(
+            f"{mix_inputs}amix=inputs={len(vocal_tracks) + 1}:duration=longest:"
+            "dropout_transition=0:normalize=0,alimiter=limit=0.95"
+        )
+        ffmpeg_cmd += ["-filter_complex", "".join(filter_parts)]
         if output_path.suffix.lower() == ".mp3":
             ffmpeg_cmd += ["-c:a", "libmp3lame", "-q:a", "2"]
         ffmpeg_cmd.append(str(output_path))
@@ -571,6 +706,13 @@ def main() -> None:
         "--model",
         default="MERROW",
         help="NEUTRINO 歌手模型目錄名稱（例如 MERROW, NAKUMO, REINA, RUNO, SOMA，預設：MERROW）",
+    )
+    parser.add_argument(
+        "--part-model",
+        action="append",
+        default=[],
+        metavar="PART=MODEL",
+        help="指定聲部使用的 NEUTRINO 模型，可重複使用（例如 --part-model Piano2=NAKUMO）",
     )
     parser.add_argument(
         "-o",
@@ -639,10 +781,20 @@ def main() -> None:
     if not (neutrino_dir / "bin" / "neutrino").exists():
         sys.exit(f"❌ 找不到 NEUTRINO 執行檔：{neutrino_dir / 'bin' / 'neutrino'}")
 
-    model_dir = neutrino_dir / "model" / args.model
-    if not model_dir.exists():
-        available = [p.name for p in sorted((neutrino_dir / "model").iterdir()) if p.is_dir()]
-        sys.exit(f"❌ 找不到歌手模型 '{args.model}'（可用模型：{', '.join(available)}）")
+    try:
+        args.part_model_overrides = parse_part_model_overrides(args.part_model)
+    except ValueError as exc:
+        sys.exit(f"❌ {exc}")
+
+    model_names = {args.model, *args.part_model_overrides.values()}
+    model_dirs: dict[str, Path] = {}
+    available = [p.name for p in sorted((neutrino_dir / "model").iterdir()) if p.is_dir()]
+    for model_name in model_names:
+        candidate = neutrino_dir / "model" / model_name
+        if not candidate.exists():
+            sys.exit(f"❌ 找不到歌手模型 '{model_name}'（可用模型：{', '.join(available)}）")
+        model_dirs[model_name] = candidate
+    model_dir = model_dirs[args.model]
 
     target_path = Path(args.target).resolve()
     if target_path.is_dir() and not list(target_path.glob("*.tmd")):
@@ -653,9 +805,9 @@ def main() -> None:
         print(f"📚 批次處理目錄：{target_path}（共 {len(song_dirs)} 首曲目）\n")
         for idx, s_dir in enumerate(song_dirs, start=1):
             print(f"==================== [{idx}/{len(song_dirs)}] {s_dir.name} ====================", flush=True)
-            render_single_song(s_dir, args, neutrino_dir, model_dir)
+            render_single_song(s_dir, args, neutrino_dir, model_dir, model_dirs)
     else:
-        render_single_song(target_path, args, neutrino_dir, model_dir)
+        render_single_song(target_path, args, neutrino_dir, model_dir, model_dirs)
 
 
 if __name__ == "__main__":
