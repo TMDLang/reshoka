@@ -11,6 +11,17 @@ from scripts.render_neutrino_mix import (
 
 
 class NeutrinoRendererTests(unittest.TestCase):
+    def test_totoi_takara_contains_two_lyric_parts(self):
+        score = (
+            Path(__file__).parents[1]
+            / "docs/shintei_jido_shoka/grade_6_2020.006.0847.0006/4_04_totoi_takara"
+            / "totoi_takara_piano.tmd"
+        )
+
+        instruments, _ = find_lyric_instruments(score.read_text(encoding="utf-8"))
+
+        self.assertEqual(instruments, ["PianoRH", "PianoLH"])
+
     def test_part_model_override_is_selected_by_voice_name(self):
         overrides = parse_part_model_overrides(["Piano2=NAKUMO", "Soprano=MERROW"])
 
