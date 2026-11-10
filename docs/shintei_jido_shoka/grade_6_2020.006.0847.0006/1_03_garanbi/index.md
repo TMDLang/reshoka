@@ -82,7 +82,7 @@ w: 2.~_
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](garanbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdLFyYl58WWpRZlpmakpSG5JLSoGuxdsUXxJUWJecXJRZgHIEwhV-UUlGflA9xZkVFplZBaX5BdlJifmxGcn5iF5qyQjFeirvMSS0qJUdNGCnMRkJEGg_vTMPKuSxMxyoKvy09IykzMTc5S4tLQUXm6d93Livpd7ditoaXEp2ioYGhhw2dsquHPZmOib2IFMeNG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2ap61rn67d8XTnludTVrzf0wEKdz1gaOuBwh3IMDB7v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu16snPe0dcWzae1AVzzd0PusvVMhwMDITC-rIP39nh6g4pcLGhUK9BSMgTygu5_saAC6-9mc-UC2grHCy2XTgA59v2cWyPAXq_Y_a1gOMra798XM-UBRiHXPVsx8ubDnxaolz5YAw6bncePql1O3AxU_bugFKn7auvJpL9A9M8Baep7sbXs2vfvpvu7nW5uerV30bNoekK27ep5vn6XgbgJUAPXC9H4Q2dD6ZNeyJ7uXvuyc_Xxt29OF0192bVdwfjRzvcKTHcuede58sWI3yMbmDriN7_fMfrp-2fOmXQruCk-XLAcKKgAjUwHoZFAA7Nn4Yut2BUMIF-ivnkczV9qCoh3kP6DfHzc0AMlnmxc9bux-3Nj2uHHn46ZJj5uaHjfOf9w46XHjsseN68FBMWENUBHQxMeNGx43TX7cuBFo3OPG6WB1wBDY-rR3-rMtQCPWgVSDTQLK7X66vuVx4-wn-4BcoElAcuHzZmCgAE2Z-LhxG8iIpm6whuYJj5u2P9u6_enmvWBpoElAnUBFW8H2rHu6ZOrjxn2PG4HKeiBu3wVMgQ1Pl6x8Nn_jsxkQM5eBXbbwcVMr2K49QDeArQD6A2jY_MdN8x439gKVgfQ_Xw20AqgBSK5-sgeoFCjd9bix6XET0Dqg6rlwr6x63LgfbMYSsNyax439z2fufd4GDAGgneuB3MeNa4GyEIdC9GwC-QBk3vpnM-eCNQNDdNrjpgaEAyhP_1CgoKXPxeWeCCxckjKtAjIT8_IdagxqqkF2KNgYmmnZgVnYMp4CJP2_WNijoAFNKdoKJgpPN_Q_X9-gA882mlh0Au0EmVqjYKCgC4botGk8jKoBJj-IGAzC-MZg0giowhRNhQmSCiMgRjXDDGQ2TABG10CNQ0C4U6BkDdjJPoY1ChC36WLQwJiH0kuA5gETOZqJwFiFs9qg9E6QyqZJ6CqbmuAq54NJkAqQmcswzFyPJlKDxkd23wao6ZNhvjHC5xuIXWDVQB40Y2DYvxvOmg5VPwmsHhIWyCpBPoGwFoDJXhx-Qof4fAQxE2RGDThj406pu3rAKZXEBApLFbB0Ak48CAFDoBJQCoNBEBvGJyL1wUzHTOSw1Ae3D5H8sCUsSNAjB0gPOGi3YqhcBWMBoxVEgqIJpBIzYtehieCLBphuRLIClo1w2dVYWFB3NnWBbYcld7jtTZ1wlSAXAktUqDvRXYUO8bkS5ndCSWVHJzlJBR5VIAguwOBxDUoGoLjGXVQh4hlPWaUOV4Oc5kAQd2GFSBuQMABl18dNHXD-bDDZCzYVW_ECi1lgAQC3HVi1YqjbBmPB451wQYSSXhr3I5sHLhJBBSmMD0oPwOoTan8_hv2wYhAhB1K3FkMd3ER4SsLnzk1QuptQmnk6e_YAFC8Q56MnBowEhLt4gdG40gvM9zAWrIIDNa2wZsfHTYgEAyt8QOr2YRg6AU0EVGT0oImh10nIxUsX3CRE1EOiC5EIYXURRvHSOA2usgHJlb0Y6tAzBO7EgnBjLReXrp0CtE2lAGQqcwEA)]
+- [主旋律 TMD 檔案](garanbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4s3MjAyiDcwMIs3sDAxBzIMzBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdLFyYl58WWpRZlpmakpSG5JLSoGuxdsUXxJUWJecXJRZgHIEwhV-UUlGflA9xZkVFplZBaX5BdlJifmxGcn5iF5qyQjFeirvMSS0qJUdNGCnMRkJEGg_vTMPKuSxMxyoKvy09IykzMTc5S4tLQUXm6d93Livpd7ditoaXEp2ioYGhhw2dsquHPZmOib2IFMeNG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM2ap61rn67d8XTnludTVrzf0wEKdz1gaOuBwh3IMDB7v6dTiYtLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagu16snPe0dcWzae1AVzzd0PusvVMhwMDITC-rIP39nh6g4pcLGhUK9BSMgTygu5_saAC6-9mc-UC2grHCy2XTgA59v2cWyPAXq_Y_a1gOMra798XM-UBRiHXPVsx8ubDnxaolz5YAw6bncePql1O3AxU_bugFKn7auvJpL9A9M8Baep7sbXs2vfvpvu7nW5uerV30bNoekK27ep5vn6XgbgJUAPXC9H4Q2dD6ZNeyJ7uXvuyc_Xxt29OF0192bVdwfjRzvcKTHcuede58sWI3yMbmDriN7_fMfrp-2fOmXQruCk-XLAcKKgAjUwHoZFAA7Nn4Yut2BUMIF-ivnkczV9qCoh3kP6DfHzc0AMlnmxc9bux-3Nj2uHHn46ZJj5uaHjfOf9w46XHjsseN68FBMWENUBHQxMeNGx43TX7cuBFo3OPG6WB1wBDY-rR3-rMtQCPWgVSDTQLK7X66vuVx4-wn-4BcoElAcuHzZmCgAE2Z-LhxG8iIpm6whuYJj5u2P9u6_enmvWBpoElAnUBFW8H2rHu6ZOrjxn2PG4HKeiBu3wVMgQ1Pl6x8Nn_jsxkQM5eBXbbwcVMr2K49QDeArQD6A2jY_MdN8x439gKVgfQ_Xw20AqgBSK5-sgeoFCjd9bix6XET0Dqg6rlwr6x63LgfbMYSsNyax439z2fufd4GDAGgneuB3MeNa4GyEIdC9GwC-QBk3vpnM-eCNQNDdNrjpgaEAyhP_1CgoKXPxeWeCCxckjKtAjIT8_IdanQNa6pBlijYGJpp2YFZ2HKeAiQDvFjYo6ABTSraCiYKTzf0P1_foAPPN5pYdAItBZlao2CgoAuG6LRpPIyqAaY_iBgMwvjGYNIIqMIUTYUJkgojIEY1wwxkNkwARtdAjUNAuFOgZA3YyT6GNQoQt-li0MCoh9JLgOYBUzmaicBohbPaoPROkMqmSegqm5rgKueDSZAKkJnLMMxcjyZSg8ZHdt8GqOmTYb4xwucbiF1g1UAeNGdg2L8bzpoOVT8JrB4SFsgqQT6BsBaAyV4cfkKH-HwEMRNkRg04Z-NOqbt6wCmVxAQKSxWwdAJOPAgBQ6ASUAqDQRAbxici9cFMx0zksNQHtw-R_LAlLEjQIwdIDzhot2KoXAVjAaMVRIKiCaQSM2LXoYngiwaYbkSyAhaOcNnVWFhQdzZ1gW2HJXe47U2dcJUgFwKLVKg70V2FDvG5EuZ3QkllRyc5SQUeVSAILsDgcQ1KBqC4xl1UIeIZT1mlDleDnOZAEHdhhUgbkDAAZdfHTR1w_mww2Qs2FVvxAotZYAEAtx1Yt2Ko2wZjweOdcEGEkl4a9yObBy4SQQUpjA9KD8D6E2p_P4b9sGIQIQdStxZDHdxEeErC585NULqbUJp5Onv2ABQvEOejJwaMBIS7eIHRuNILzPcwFqyCA7WtsGbHx02IBAMrfEDq9mEYOgFNBFRk9KCJoddJyMVLF9wkRNRDoguRCGF1EUbx0jgNrrIByZW9GOrQMwTuxIJwYy0Xl66dArRRpQBkKnMBAA)]
 - [鋼琴伴奏 TMD 檔案](garanbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5dd7Lifte7tn9fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDDgsrdVcOeyMdE3seOqU1B60b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZqnrWufrt3xdOeW51NWAK00MjAy0DMwMNMzsDAxBzIMzIC2KnFxuScWJeYlZVoFZCbm5Qd5ONToGtZUcykAgY2hmZYdmKWvpWCLDhSAVjzZ0fBiYY-CxtM9G19s3a6grWCi8HRD__P1DToKAQZGZnpZBemaWHRq6YNNrVEwUNAFQ3TaNB5G1SgYQsVgEMY3BpNGQBWmaCpMkFQYATGqGWYgs2ECMLoGahwCwp0CJWvATvYxrFGAuE0Xg37c2AKllwDNe9y4Ec3Ex43dcFYblN4JUtk0CV1lUxNc5XwwCVIBMnMZhpnr0URq0PjI7tsANX0yzDdG-HwDsQusGshb-LipFeZuZPt3w1nToeongdVDwgJZJcgnENYCMNmLw0_oEJ-PIGaCzKjhwp9Sd_WAUyqJCRSWKmDpBJx4EAKGQCWgFAaDIDaMT0Tqg5mOmchhqQ9uHyL5YUtYkKBHDpAecNBuxVC5CsYCRiuIBEUTSCVmxK5DE8EXDTDdiGT1uAmR2FdjYUHd2dQFth2W3OG2N3XCVYJc-LhxLtSd6K5Ch_hcCfM7oaSyo5OcpAKPKhAEF2DwuAYlA1Bc4y6qEPGMp6xSh6tBTnMgiLuwQqQNSBiAsuvjpg44fzaY7AWbiq14gcUssACA2_64cSKGum0wFjzeCRdEKOmlcT-yeeAiEVSQwvig9PC4cQ3U_n4M-2HFIEIOpG4thjq4ifCUhM-dm6B0N6E083T27AEoXiDOR08MGAkId_ECo3GlF5jvYSxYBTcRVLRgy46PmxAJBlb4gNTtwzB0ApoIqMjoQRNDr5OQi5cuuEmIqIdEFyIRwuoijOKlcRpcZQOSK3sx1KFnCNyJBeHGWrQ2lQ9Km8oE2qQCNX4gEBg98QrRhrEwCs43AVKm8TABs_hcTCVg_VDz4LqAtAlYmymICTIBziDSKLgZYAZCI6rxKEaZodpIisPAroALgVQjzIc7DBiqunYK0ICN9gGKI3ONwFxlLgA)]
 
 ## 分析
@@ -91,14 +91,14 @@ w: 2.~_
 ================================================================================
 📊 TMD Song Profile: [ 鵞鑾鼻 ]
 ================================================================================
-⏱  Duration:       0:40 (40.8s), 17 measures total
+⏱  Duration:       0:38 (38.4s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [Garanbi #1 @ m.1, 0:01]
    - 最高音: D5 in [Garanbi #1 @ m.3, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Garanbi (40.8s)
+🏛  結構:      Garanbi (38.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -108,7 +108,7 @@ w: 2.~_
    - 候選調性 (K-S): G 大調 (0.86), E 小調 (0.68), D 大調 (0.54)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Garanbi #1]: G 大調 (r: 0.86, 自然音純度: 98.3%, 調外音: G#)
+     • [Garanbi #1]: G 大調 (r: 0.85, 自然音純度: 98.3%, 調外音: G#)
 
   [ 五度圈游移軌跡 ]
                C  

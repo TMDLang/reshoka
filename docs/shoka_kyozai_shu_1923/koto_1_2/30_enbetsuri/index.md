@@ -85,18 +85,6 @@ w: 2.~ど い | ざ _ い さ | ま し く ゆ | け _ や き
 !f! c8 z4 e4 | e6 d2 c4 A4 | F6 G2 A4 E4 | A8 c2 B2 A2 G2 |
 w: 1.~き け | ふ _ の わ | か れ を い | か に _ せ _
 w: 2.~み ゆ | き _ て つ | と め よ く | に の _ た _
-!mf! A8 z4 E4 | A6 F2 E4 A4 | B6 c2 B4 A4 | B8 c2 B2 A2 B2 |
-w: 1.~ん ほ | ど _ と ほ | か ら ぬ た | び だ _ に _
-w: 2.~め わ | れ _ も ま | す ら を い | た づ _ ら _
-!f! c8 z4 e4 | e6 d2 c4 A4 | !p! F6 G2 A4 E4 | A8 c2 B2 A2 B2 |
-w: 1.~も た | も _ と わ | か つ は う | き も _ の _
-w: 2.~に そ | で は ぬ ら | さ _ じ さ | は い _ へ _
-!mf! A8 z4 E4 | A6 F2 E4 A4 | c6 B2 A4 A4 | B6 c2 d4 e4 |
-w: 1.~を ち | へ _ の な | み ぢ を へ | だ _ つ べ
-w: 2.~ど い | ざ _ い さ | ま し く ゆ | け _ や き
-!f! c8 z4 e4 | e6 d2 c4 A4 | F6 G2 A4 E4 | A8 c2 B2 A2 G2 |
-w: 1.~き け | ふ _ の わ | か れ を い | か に _ せ _
-w: 2.~み ゆ | き _ て つ | と め よ く | に の _ た _
 A8 z4 z4 |
 w: 1.~ん
 w: 2.~め
@@ -104,7 +92,7 @@ w: 2.~め
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](enbetsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGFgiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfJacWpebm52Um5qDLFCSWFGXml2QW5yIbnJmemWeVm5qZlYnkcS0thZeNC552LH05e5GClhaXoq2CoYEBl72tgqMOl42JvokdyASQWiuFZ9M2PN--QuHphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fZ-T8fL1TOer-18vnzikx0NQKVPdvUAlT7dueX5lBXv93SCXQaUebZo7rPWvic7Ol829ykAjX_c0EWKPY8buoFWPV2y_NnaxU97G0GW7NwCYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE0Ow3Vz6Wgq21AJcCgoKdgrRin7-Ia6xEI6W1tO--SB7N7e_WNH1oqMd6OYXK-c9bV3xbFq7lhbIyRt6n7V3KiSAUpleVkF6wqOGyUCOoQGYA3Q4xACFggI9BRMDA6CsiQHQ7T04Q3XNGgVjA4WXy6YBPfh-zyyIO3SBLnk2e9PTCb0gS2fBoxrogMdNEx83TX7cuPNx45LHTV1AXQgtL1btf9awHOTs7l5g0IH1vljX9bhpCVDm6ezZQOGnaycADXF8NHOtAjD0gcIKwMSiAJQAOX3PxhdbtysYQrhA1_S8bJj_dNcyhUczV4LTF8j_rSsUDM1Akfx8fQOK5c87O57NWQMMn-ety8E2P23teNrZCxF-sm_us87uZ10twHQCSQpPd2yGJAIjAyMDPQMDMz0DCxNjYNAEGFpaAg1-sbfzZU8LyFUb2p-t73-2oulp_1JwaIHCFOqAF6uWPNm79XnTLgVjuJNATgSFXXOrgqERwqHv98yGuA3oGmAEAaPpae-GJ7umPN8-68XaOcAwe75hIZAB1I8cnaBAANr-YmHP07ntQHteLOt_NnXLk53dCjAnwC1EDhb0oHzc0ARJSS8XNEJsgKYeoBzQT8A0AdT2bM7qJ3vnPG7oedzY8rix-3Hj6seNsx83NTxuAEUO0G0v5y6C60e4EKqnaYnC46bVCo-b9wBxN4Ru2g3lA4MaaMZsuBmgcIQHDtBeUMIAuxjkmF09kJB9tqQX7JhusOYOuAcgFgKDBJwagUVG5-PG3seNy8DKQF4FpwlYhgKl94ZGYBEF5j9f0Q1MzCCNjbsfN6583LgCyACb0P24CUiueTa9FSw7_3HjZrD4AlA4NDU9bmh4sajpaQeohALJAkWAepv6oXqBeaFx_ePGNpBLQFLrHjdNgtj4tLf5ZTvI_Y8bFz5u3AFWv-7Z1lUvtq8HC6563Lj_cSMwZ3UCtbycNQUsuANoL1gl0FhgRgOGQ8OT3V3Ppi8Fy0583LgVYg4wV4IDoR_sfmCAgAzBiD60ANnVgxQgzzomQk2Aam96PrvrRe-k51O2g-3a97hxJihkmiaBbQSaDAyZpeCwWg0OE2C5AVQ293HjcrACYCCsActOfdw4A0yuf7EClEiBesEKgF5bCbEabNq0p93tEFmgYrACoI3THzeCkjxS_ALLnJanE2aDVQLjej84ohsw08DTbmCOAaoBhhuotnjc1Pi4qePpHFA-B5oJdDMk3MAx2AgNGcpLcihQ0NLn4nLNS0otKS4tyrQKyEzMy3eo0TWsqQZZo2BjoQWOBAVslYgCJP2DygFwfgR6TUEDls00sagH2gUyq0bBAFj6wXB1blqtgmk8kFUDlvUxRJUHJnaEnBGaXFM_WA5qrCGQo6tgFg8xDsSrUTACixmDaWQRiJghENcAWRARsHNArkFxDDDyofLACEI4CEh3Q0SbOoHsNWCZ-VCZzXAdC8Dkaoh4UxOSTVDVcI8BUzNMF1gdMFlBTZuJsKdpElimBSoDMgFiz1KoCog4yD6EPXMRgYQ1HiElGPHRBwofXWBpDgo3SJgCwxwkZB4P5lcXwGIUGiXIgQ0TwRX3iECCBjckjhHB3QgstRvXg1ltUJletIBbBw1uUGAhgmEhanA3Loeatx4WffDgmwp3wQwwCeKDxEG2QsRBEQAsGKDisAQCsQccOQSCe0cn8cGNLVlDkiwoTNETugmQBCdggska5HqIb0DhBSzWob7ZDxVdBE9uMH-CEjMsDkDkTrTwh_h_Ilo4T0MLNVhogpI3iD8diEFxDCwUoTIgEyDxCdEBMh_hMljeB6vGH87ABhz1kjXWJA2UQ03TIIwcyltRQxk9NQMzPXqmhsjAig1gjQgRb5qM3RZwGMNzQOMyMAmKH5A4KAeBbGkE4g6wDMx-WBEBi31o0QVUiW5LLReXrp0CvJJQQOcocwEA)]
+- [主旋律 TMD 檔案](enbetsuri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGFgiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDfJacWpebm52Um5qDLFCSWFGXml2QW5yIbnJmemWeVm5qZlYnkcS0thZeNC552LH05e5GClhaXoq2CoYEBl72tgqMOl42JvokdyASQWiuFZ9M2PN--QuHphv6na3c8W7DwcfPup61rIGyFp1M2Plvb82zqzGdzJ7yc3fZ-T8fL1TOer-18vnzikx0NQKVPdvUAlT7dueX5lBXv93SCXQaUebZo7rPWvic7Ol829ykAjX_c0EWKPY8buoFWPV2y_NnaxU97G0GW7NwCYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE0Ow3Vz6Wgq21AJcCgoKdgrRin7-Ia6xEI6W1tO--SB7N7e_WNH1oqMd6OYXK-c9bV3xbFq7lhbIyRt6n7V3KiSAUpleVkF6wqOGyUCOoQGYA3Q4xACFggI9BRMDA6CsiQHQ7T04Q3XNGgVjA4WXy6YBPfh-zyyIO3SBLnk2e9PTCb0gS2fBoxrogMdNEx83TX7cuPNx45LHTV1AXQgtL1btf9awHOTs7l5g0IH1vljX9bhpCVDm6ezZQOGnaycADXF8NHOtAjD0gcIKwMSiAJQAOX3PxhdbtysYQrhA1_S8bJj_dNcyhUczV4LTF8j_rSsUDM1Akfx8fQOK5c87O57NWQMMn-ety8E2P23teNrZCxF-sm_us87uZ10twHQCSQpPd2yGJAIjAyMDPQMDMz0DCxNjYNAEGFpaAg1-sbfzZU8LyFUb2p-t73-2oulp_1JwaIHCFOqAF6uWPNm79XnTLgVjuJNATgSFXXOrgqERwqHv98yGuA3oGmAEAaPpae-GJ7umPN8-68XaOcAwe75hIZAB1I8cnaBAANr-YmHP07ntQHteLOt_NnXLk53dCjAnwC1EDhb0oHzc0ARJSS8XNEJsgKYeoBzQT8A0AdT2bM7qJ3vnPG7oedzY8rix-3Hj6seNsx83NTxuAEUO0G0v5y6C60e4EKqnaYnC46bVCo-b9wBxN4Ru2g3lA4MaaMZsuBmgcIQHDtBeUMIAuxjkmF09kJB9tqQX7JhusOYOuAcgFgKDBJwagUVG5-PG3seNy8DKQF4FpwlYhgKl94ZGYBEF5j9f0Q1MzCCNjbsfN6583LgCyACb0P24CUiueTa9FSw7_3HjZrD4AlA4NDU9bmh4sajpaQeohALJAkWAepv6oXqBeaFx_ePGNpBLQFLrHjdNgtj4tLf5ZTvI_Y8bFz5u3AFWv-7Z1lUvtq8HC6563Lj_cSMwZ3UCtbycNQUsuANoL1gl0FhgRgOGQ8OT3V3Ppi8Fy0583LgVYg4wV4IDoR_sfmCAgAzBiD60ANnVgxQgzzomQk2Aam96PrvrRe-k51O2g-3a97hxJihkmiaBbQSaDAyZpeCwWg0OE2C5AVQ293HjcrACYCCsActOfdw4A0yuf7EClEiBesEKgF5bCbEabNq0p93tEFmgYrACoI3THzeCkjxS_ALLnJanE2aDVQLjej84ohsw08DTbmCOAaoBhhuotnjc1Pi4qePpHFA-B5oJdDMk3MAx2AgNGcpLcihQ0NLn4nLNS0otKS4tyrQKyEzMy3eo0TWsqQZZo2BjoQWOBAVslYgCJP2DygFwfgR6TUEDls00sagH2gUyq0bBAFj6wXB1blqtgmk8kFUDlvUxRJUHJnaEnBGaXFM_WA5qrCGQo6tgFg8xDsSrUTACixmDaWQRiJghENcAWRARsHNArkFxDDDyofLACEI4CEh3Q0SbOoHsNWCZ-VCZzXAdC8Dkaoh4UxOSTVDVcI8BUzNMF1gdMFlBTZuJsKdpElimBSoDMgFiz1KoCog4yD6EPXMRgYQ1HiElGPHRBwofXWBpDgo3SJgCwxwkZB4P5lcXwGIUGiXIgQ0TwRX3iECCBjckjhHB3QgstRvXg1ltUJletIBbBw1uUGAhgmEhanA3Loeatx4WffDgmwp3wQwwCeKDxEG2QsRBEQAsGKDisAQCsQccOQSCe0cn8cGNLVlDkiwoTNETugmQBCdggska5HqIb0DhBSzWob7ZDxVdBE9uMH-CEjMsDkDkTrTwh_h_Ilo4T0MLNVhogpI3iD8diEFxDCwUoTIgEyDxCdEBMh_hMljeB6vGH87ABhz1kjXWJA2UQ03TIIwcyltRQxk9NQMzPXqmhsjAig1gjQgRb5qM3RZwGMNzQOMyMAmKH5A4KAeBbGkE4g6wDMx-WBEBi31o0QVUiW5LLReXrp0CvJJQAHKUuQA)]
 - [鋼琴伴奏 TMD 檔案](enbetsuri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGFgiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKr5NSi1Nz8vMzEHHSZgsSSosz8ksziXCUuLS2Fl40LnnYsfTl70fs9HS9nz3zW2f2ye8_zCVue7NnydGn_-z2dClpaXIq2CoYGBlz2tgqOOlw2JvomdiBDQcFopfBs2obn21coPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7PbQHasnvF8befz5ROf7GgAKn2yqweo9OnOLc-nrABaBnYsUObZornPWvue7Oh82dynADT-cUMXKfY8bugGWvV0yfJnaxc_7W0EWbJzC4TxbE7H-z09z7csejZ7x4uZ8xUMzI1MdU0MwXZzueYlpZYUlxZlWgWAgjjIw6FG17CmmksBCGwstOzADH0tBVt0oPB0z8YXW7e_6Gh_vmYN0P0vFvYoaASYGBroZRWka2JRr6UPNqtGwUBBF46rc9NqFUzjgawasKyPIar848bdCDkjNLmmfrAc1FhDIEdXwSweYhyIV6NgBBYzBtPIIhAxQyCuAbIgImDngFyD4pjHjSuh8o8bVyAcBKS7IaJNnUD2GrDMfKjMZriOBWByNUS8qQnJJqhquMceN_XAdIHVPW7cBzVtJsKepklgmRaoDMgEiD1LoSog4iD7EPbMRQQS1ngERd-uHuKjDxQ-ugom4HCDhCkwzEFC5vFgfnUBLEahUYIc2DARXHGPCCRocEPiGBHcjUuAeD2Y1QaV6UULuHXQ4AYFFiIYFqIGd-NyqHnrYdEHD76pcBfMAJMgPkgcZCtEHBQBjxt3QMVhCQRiDzhyCAT3jk7igxtbsoYkWVCYoid0EyAJTsAEkzXI9RDfgMLrceMqqG_2Q0UXwZMbzJ-gxAyLAxC5Ey38If6fiBbO09BCDRaaoOQN4k8HYlAcP26CxSfIBEh8QnSAzEe4DJb3warxh_PT2bOpl6yxJmmgHGqaBmHkUN6KGsroqRmY6dEzNUQGVmw8bpwNEW-ajN0WcBjDc0DjMjAJih-QOCgHgWxpBOIOsAzMflgRAYt9aNEFVIluSy1GHeGDUkeYQOsIUNkMguBcbQB1HjBw4uMVog3jYxEMYFCDmKZAJpiBTQzEQNILNJWgoSYgpglUDFQGQcXhSnAYTNi5cKZZPIgFJHOp72LiXAsyEBghunYK8DiJ9jGMVUAVMAILKHMBAA)]
 
 ## 分析
@@ -113,14 +101,14 @@ w: 2.~め
 ================================================================================
 📊 TMD Song Profile: [ 遠別離 ]
 ================================================================================
-⏱  Duration:       1:16 (76.8s), 32 measures total
+⏱  Duration:       0:38 (38.4s), 16 measures total
 🎼 Key & Tempo:    首調基準 A,, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D#4 (MIDI 63) – D#5 (MIDI 75) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D#4 in [Enbetsuri #1 @ m.1, 0:01]
    - 最高音: D#5 in [Enbetsuri #1 @ m.5, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Enbetsuri (38.4s) -> Enbetsuri (38.4s)
+🏛  結構:      Enbetsuri (38.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -128,10 +116,9 @@ w: 2.~め
    - 核心骨幹音:  G#, D#, C, A#, F
    - 調性數值:    G# 大調 [相關度: 0.93, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): G# 大調 (0.93), D# 大調 (0.64), F 小調 (0.57)
-   - 五度圈歷程:   -4 -> -4
+   - 五度圈歷程:   -4
    - 各段落調性細節:
      • [Enbetsuri #1]: G# 大調 (r: 0.93, 自然音純度: 100.0%)
-     • [Enbetsuri #2]: G# 大調 (r: 0.93, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -158,7 +145,7 @@ w: 2.~め
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D#4 – D#5 (12 個半音 / 1.0 個八度, 118 個音符)
+  - Piano         : D#4 – D#5 (12 個半音 / 1.0 個八度, 59 個音符)
 ================================================================================
 ```
 

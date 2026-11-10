@@ -17,7 +17,7 @@
 ~ "book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）"
 ~ "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
 
-ShinnyuseiOMukau:Soprano@|0| {
+ShinnyuseiOMukau:Piano1@|0|{
     <8*>
     | {mf} 5 - 5 - 5 - 5 - | 6 7 1^ 6 6 - 5 - |
     L1| ケ - フ - シ - モ - | ム - カ - ヘ - ム - |
@@ -40,7 +40,7 @@ ShinnyuseiOMukau:Soprano@|0| {
     L3| ク - モ - リ - モ - | ア - ラ - ズ - _ - |
 }
 
-ShinnyuseiOMukau:Alto@|0| {
+ShinnyuseiOMukau:Piano2@|0|{
     <8*>
     | {mf} 5 4 3 2 1 2 3 1 | 4 5 6 4 4 - 3 - |
     L1| ケ - フ - シ - モ - | ム - カ - ヘ - ム - |
@@ -63,7 +63,7 @@ ShinnyuseiOMukau:Alto@|0| {
     L3| ク - モ - リ - モ - | ア - ラ - ズ - _ - |
 }
 
-ShinnyuseiOMukau:PianoRH@|0| {
+ShinnyuseiOMukau:PianoRH@|0|{
     <8*>
     | 5 - 3+5 2+5 1+5 2+5 3+5 1+5 | 4+6 5+7 6+1^ 4+6 4+6 - 3+5 - |
     | 1+3 7_+2 1+3 2+4 3+5 1+5 2+5 3+5 | 4+6 3+5 2+4 1+3 7_+2 - 0 - |
@@ -71,7 +71,7 @@ ShinnyuseiOMukau:PianoRH@|0| {
     | 1+1^ - 2+7 3+7 4+6 5+6 6+1^ 4+1^ | 3+5 1+5 2+4 7_+2 1 - 0 - |
 }
 
-ShinnyuseiOMukau:PianoLH@|0| {
+ShinnyuseiOMukau:PianoLH@|0|{
     <4*>
     | 1_ 5__ 1_ 1_ | 4_ 4_ 1_ 1_ |
     | 1_ 5__ 1_ 5__ | 4__ 1_ 5__ 0 |

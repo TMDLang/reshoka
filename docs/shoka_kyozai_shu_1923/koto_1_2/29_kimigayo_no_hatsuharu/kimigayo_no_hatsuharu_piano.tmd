@@ -27,7 +27,7 @@ Intro:PianoLH@|0|{
     | {mf} 1_ [1] 4_ [1] | 1_ [1] 1_ [1] | 4__ [2_m] 5__ [5_] | 1_ [1] 1_ 0 |
 }
 
-KimigayoNoHatsuharu:Vocal@|0|{
+KimigayoNoHatsuharu:Piano1@|0|{
     <8*>
     | {mf} 5 - - - 6 - 5 - | 5 - - - 3 - - - | 1 - 1 - 2 - 2 - | 3 - - - - - 0 - |
     L1| き - - - み - が - | よ - - - の - - - | は - つ - は - る - | の - - - - - 0 - |
@@ -46,7 +46,7 @@ KimigayoNoHatsuharu:Vocal@|0|{
     L2| さ - へ - づ - る - | も - - - の - を - | よ - の - ひ - と - | よ - - - - - 0 - |
 }
 
-KimigayoNoHatsuharu:Alto@|0|{
+KimigayoNoHatsuharu:Piano2@|0|{
     <8*>
     | {mf} 3 - - - 4 - 3 - | 3 - - - 1 - - - | 6_ - 6_ - 5_ - 5_ - | 1 - - - - - 0 - |
     L1| き - - - み - が - | よ - - - の - - - | は - つ - は - る - | の - - - - - 0 - |
