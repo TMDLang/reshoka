@@ -4,7 +4,7 @@ song_title: "伊勢神宮"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_3_01_ise_jingu"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈伊勢神宮〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：佐々木の信綱、曲：ゲルスバハ（獨）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：五十鈴（いすゞ）の川水流（なが）れさやに 神路（かみぢ）の御山（みやま）は老杉（ろうさん）深し…"
+description: "〈伊勢神宮〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：佐々木の信綱、曲：ゲルスバハ（獨）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：五十鈴（いすゞ）の川水流（なが）れさやに 神路（かみぢ）の御山（みやま）は老杉（ろうさん）深し…"
 keywords: "伊勢神宮, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 佐々木の信綱, ゲルスバハ（獨）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -22,6 +22,9 @@ audio:
   - id: "ise_jingu"
     label: "鋼琴伴奏版"
     file: "ise_jingu.mp3"
+  - id: "ise_jingu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ise_jingu_neutrino.mp3"
 tmd_source:
   - "ise_jingu.tmd"
   - "ise_jingu_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="ise_jingu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ise_jingu_neutrino.mp3"></audio>
 
 - 詞：佐々木の信綱
 - 曲：ゲルスバハ（獨）

@@ -4,7 +4,7 @@ song_title: "乃木大將の歌"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_2_04_nogi_taisho_no_uta"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈乃木大將の歌〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（曲：小松耕輔），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夢（ゆめ）より淡（あは）き三日月（みかづき）の 大内山（おほうちやま）にかぐろひて…"
+description: "〈乃木大將の歌〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（曲：小松耕輔），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夢（ゆめ）より淡（あは）き三日月（みかづき）の 大内山（おほうちやま）にかぐろひて…"
 keywords: "乃木大將の歌, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -22,6 +22,9 @@ audio:
   - id: "nogi_taisho_no_uta"
     label: "鋼琴伴奏版"
     file: "nogi_taisho_no_uta.mp3"
+  - id: "nogi_taisho_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nogi_taisho_no_uta_neutrino.mp3"
 tmd_source:
   - "nogi_taisho_no_uta.tmd"
   - "nogi_taisho_no_uta_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="nogi_taisho_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nogi_taisho_no_uta_neutrino.mp3"></audio>
 
 - 曲：小松耕輔
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）

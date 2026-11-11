@@ -4,7 +4,7 @@ song_title: "織田信長"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_1_04_oda_nobunaga"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈織田信長〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　嵐（あらし）を犯（をか）し雨を突き 決死（けつし）の勢凄（すさま）じく…"
+description: "〈織田信長〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　嵐（あらし）を犯（をか）し雨を突き 決死（けつし）の勢凄（すさま）じく…"
 keywords: "織田信長, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -22,6 +22,9 @@ audio:
   - id: "oda_nobunaga"
     label: "鋼琴伴奏版"
     file: "oda_nobunaga.mp3"
+  - id: "oda_nobunaga_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "oda_nobunaga_neutrino.mp3"
 tmd_source:
   - "oda_nobunaga.tmd"
   - "oda_nobunaga_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="oda_nobunaga.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="oda_nobunaga_neutrino.mp3"></audio>
 
 - 詞：石原和三郎
 - 曲：田村虎藏

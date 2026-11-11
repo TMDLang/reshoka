@@ -4,7 +4,7 @@ song_title: "君が代の初春"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_3_02_kimigayo_no_hatsuharu"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈君が代の初春〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：F 2/2。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：君が代の初春の さかりににほふ梅の花…"
+description: "〈君が代の初春〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：F 2/2。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：君が代の初春の さかりににほふ梅の花…"
 keywords: "君が代の初春, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -20,6 +20,9 @@ audio:
   - id: "kimigayo_no_hatsuharu"
     label: "鋼琴伴奏版"
     file: "kimigayo_no_hatsuharu.mp3"
+  - id: "kimigayo_no_hatsuharu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kimigayo_no_hatsuharu_neutrino.mp3"
 tmd_source:
   - "kimigayo_no_hatsuharu.tmd"
   - "kimigayo_no_hatsuharu_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kimigayo_no_hatsuharu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kimigayo_no_hatsuharu_neutrino.mp3"></audio>
 
 - 中等唱歌集
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）

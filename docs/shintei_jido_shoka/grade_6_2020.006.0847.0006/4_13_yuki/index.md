@@ -4,7 +4,7 @@ song_title: "勇氣"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_4_13_yuki"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈勇氣〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：惑（まど）はず遲疑（ちぎ）せず　英斷（えいだん）果決（くわけつ） 事をば行（おこな）ふ　こはこれ勇氣…"
+description: "〈勇氣〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：F 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：惑（まど）はず遲疑（ちぎ）せず　英斷（えいだん）果決（くわけつ） 事をば行（おこな）ふ　こはこれ勇氣…"
 keywords: "勇氣, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -21,6 +21,9 @@ audio:
   - id: "yuki"
     label: "鋼琴伴奏版"
     file: "yuki.mp3"
+  - id: "yuki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yuki_neutrino.mp3"
 tmd_source:
   - "yuki.tmd"
   - "yuki_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="yuki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yuki_neutrino.mp3"></audio>
 
 - lyrics: 桑田春風
 - composer: ブリス（米）

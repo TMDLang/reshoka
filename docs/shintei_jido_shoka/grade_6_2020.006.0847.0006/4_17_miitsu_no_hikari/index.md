@@ -4,7 +4,7 @@ song_title: "御稜威の光"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_4_17_miitsu_no_hikari"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈御稜威の光〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：國民（くにたみ）おぼす、大君の 御心（みこゝろ）深く、ましまさば…"
+description: "〈御稜威の光〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：國民（くにたみ）おぼす、大君の 御心（みこゝろ）深く、ましまさば…"
 keywords: "御稜威の光, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -21,6 +21,9 @@ audio:
   - id: "miitsu_no_hikari"
     label: "鋼琴伴奏版"
     file: "miitsu_no_hikari.mp3"
+  - id: "miitsu_no_hikari_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "miitsu_no_hikari_neutrino.mp3"
 tmd_source:
   - "miitsu_no_hikari.tmd"
   - "miitsu_no_hikari_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="miitsu_no_hikari.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="miitsu_no_hikari_neutrino.mp3"></audio>
 
 - lyrics: 佐々木信綱
 - composer: マクノートン

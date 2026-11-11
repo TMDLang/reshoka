@@ -4,7 +4,7 @@ song_title: "小楠公"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_1_07_sho_nanko"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈小楠公〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：A 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：言の葉を 吉野の山に…"
+description: "〈小楠公〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：A 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：言の葉を 吉野の山に…"
 keywords: "小楠公, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -19,6 +19,9 @@ audio:
   - id: "sho_nanko"
     label: "鋼琴伴奏版"
     file: "sho_nanko.mp3"
+  - id: "sho_nanko_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sho_nanko_neutrino.mp3"
 tmd_source:
   - "sho_nanko.tmd"
   - "sho_nanko_piano.tmd"
@@ -29,6 +32,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="sho_nanko.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sho_nanko_neutrino.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）
 

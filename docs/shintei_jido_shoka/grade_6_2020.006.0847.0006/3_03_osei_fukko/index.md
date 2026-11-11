@@ -4,7 +4,7 @@ song_title: "王政復古"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_3_03_osei_fukko"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈王政復古〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：大橋銅造、曲：田村虎藏），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：寄（よ）せ來（こ）し黒船（くろふね）、轟（とどろ）く火砲（ほづゝ）、 千代田（ちよだ）の城（しろ）の…"
+description: "〈王政復古〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006））（詞：大橋銅造、曲：田村虎藏），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：寄（よ）せ來（こ）し黒船（くろふね）、轟（とどろ）く火砲（ほづゝ）、 千代田（ちよだ）の城（しろ）の…"
 keywords: "王政復古, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大橋銅造, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -22,6 +22,9 @@ audio:
   - id: "osei_fukko"
     label: "鋼琴伴奏版"
     file: "osei_fukko.mp3"
+  - id: "osei_fukko_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "osei_fukko_neutrino.mp3"
 tmd_source:
   - "osei_fukko.tmd"
   - "osei_fukko_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="osei_fukko.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="osei_fukko_neutrino.mp3"></audio>
 
 - 詞：大橋銅造
 - 曲：田村虎藏

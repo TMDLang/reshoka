@@ -4,7 +4,7 @@ song_title: "子守唄"
 song_id: "shintei_jido_shoka_grade_6_2020.006.0847.0006_4_14_komoriuta"
 collection: "shintei_jido_shoka"
 volume: "grade_6_2020.006.0847.0006"
-description: "〈子守唄〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：この山こえてあの山こえて 坊（ぼ）やのお守（も）りはどこへどこへ…"
+description: "〈子守唄〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第六學年用（臺史博 2020.006.0847.0006）），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：この山こえてあの山こえて 坊（ぼ）やのお守（も）りはどこへどこへ…"
 keywords: "子守唄, 新定兒童唱歌, 尋常科 第六學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第六學年用（臺史博 2020.006.0847.0006）"
@@ -22,6 +22,9 @@ audio:
   - id: "komoriuta"
     label: "鋼琴伴奏版"
     file: "komoriuta.mp3"
+  - id: "komoriuta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "komoriuta_neutrino.mp3"
 tmd_source:
   - "komoriuta.tmd"
   - "komoriuta_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="komoriuta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="komoriuta_neutrino.mp3"></audio>
 
 - lyrics: 大桑いよ子
 - composer: 田中銀之助
