@@ -20,7 +20,7 @@
    Notation: Handwritten 5-line staff (3 flats = Eb major, 4/4 time, 24 bars)
    ========================================================================= */
 
-Uguisu:Vocal@|0| {
+Uguisu:Vocal@|0|{
     <16*>
     /* 歌詞: */
     /* ホホケキョ ホホケキョ ひなたの むらの */

@@ -20,12 +20,12 @@
    Notation: Handwritten 5-line staff (1 flat = F major, 3/4 time, 30 bars)
    ========================================================================= */
 
-ShibashiNoWakare_Intro:Vocal@|0| {
-    <16*>
-    | 0 - - - 0 - - - 0 - - - | 0 - - - 0 - - - 0 - - - | 0 - - - 0 - - - 0 - - - | 0 - - - 0 - - - 0 - - - |
+ShibashiNoWakare_Intro:Vocal@|0|{
+    <4*>
+    | 0 0 0 | 0 0 0 | 0 0 0 | 0 0 0 |
 }
 
-ShibashiNoWakare_A:Vocal@|0| {
+ShibashiNoWakare_A:Vocal@|0|{
     <16*>
     /* 歌詞: */
     /* (A) しばし 今より わかれまつる / 師の君 さらば 心安く / さきくいませ */

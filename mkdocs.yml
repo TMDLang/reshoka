@@ -30,7 +30,6 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.top
-    - navigation.prune
     - search.suggest
     - search.highlight
     - content.code.copy

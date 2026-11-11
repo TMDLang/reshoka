@@ -20,7 +20,7 @@
 ~ "詞：加部嚴夫"
 ~ "曲：高橋二三四"
 
-Shizangan:PianoRH@|0| {
+Shizangan:PianoRH@|0|{
     <4*>
     /* ================= 第一行 (4 小節, P370.jpg) ================= */
     | {p} 2 1 2 2 | 2 - - 0 | 2 2 2 3 | 5 5 3 2 |
@@ -39,7 +39,7 @@ Shizangan:PianoRH@|0| {
     L1| ニ - - _ | シ ヅ マ リ | タ - マ - |
 }
 
-Shizangan:PianoLH@|0| {
+Shizangan:PianoLH@|0|{
     <4*>
     | {p} 2_ [2m] 2_ [2m] | 2_ [2m] 2_ 0 | 2_ [2m] 2_ [1] | 1_ [1] 6__ [2m] |
     | {p} 1_ [1] 6__ [2m] | 2_ [2m] 2_ 0 | {ff} 2_ [2m] 2_ [4] | 1_ [1] 4_ [4] |
@@ -47,24 +47,24 @@ Shizangan:PianoLH@|0| {
     | 2_ [2m] 2_ 0 | {pp} 4_ [4] 4_ [1] | 5__ [5_] 6__ [6_m] |
 }
 
-Ending1:PianoRH@|0| {
+Ending1:PianoRH@|0|{
     <4*>
     | 2 - - 0 |
     L1| ヘ - - _ |
 }
 
-Ending1:PianoLH@|0| {
+Ending1:PianoLH@|0|{
     <4*>
     | 2_ [2m] 2_ 0 |
 }
 
-Ending2:PianoRH@|0| {
+Ending2:PianoRH@|0|{
     <4*>
     | {pp} 2 - - - |
     L1| ヘ - - - |
 }
 
-Ending2:PianoLH@|0| {
+Ending2:PianoLH@|0|{
     <4*>
     | {pp} 2_ - [2m] - |
 }

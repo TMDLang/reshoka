@@ -58,8 +58,8 @@ Ending:PianoRH@|0|{
 }
 
 Ending:PianoLH@|0|{
-    <4*>
-    | 2_ - 5_ - | 1_ - - - |
+    <2*>
+    | 2_ 5_ | 1_ - |
 }
 
 -> Intro -> Komoriuta -> Ending -> #

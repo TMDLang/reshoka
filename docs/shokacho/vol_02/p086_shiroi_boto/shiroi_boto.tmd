@@ -20,7 +20,7 @@
    Notation: Handwritten 5-line staff (1 sharp = G major, 6/8 time, 24 bars)
    ========================================================================= */
 
-ShiroiBoto:Vocal@|0| {
+ShiroiBoto:Vocal@|0|{
     <16*>
     /* 歌詞: */
     /* 1. しろい ボートが ゆらゆーら と / とほい なぎさに つきました */

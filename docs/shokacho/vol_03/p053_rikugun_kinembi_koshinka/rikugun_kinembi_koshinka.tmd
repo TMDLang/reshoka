@@ -22,7 +22,7 @@
    Notation: Handwritten 5-line staff (C major, 2/4 time, 24 bars) + 4-verse lyrics
    ========================================================================= */
 
-RikugunKinembiKoshinka:Vocal@|0| {
+RikugunKinembiKoshinka:Vocal@|0|{
     <16*>
     /* 歌詞: */
     /* 一、明治三十八年の / 春なほ寒ききのふけふ / 殺氣東亜の空を蔽ひ / 貔貅百萬満州の / 野に對峙せしそのかみを / 思へば血湧き肉躍る。 */

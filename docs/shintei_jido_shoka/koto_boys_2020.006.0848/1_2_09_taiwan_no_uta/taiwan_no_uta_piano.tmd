@@ -70,8 +70,8 @@ Ending123:PianoLH@|0|{
 }
 
 Ending4:PianoRH@|0|{
-    <8*>
-    | 2 - - - 1 - 2 - | 3 - - - - - 0 - |
+    <4*>
+    | 2 - 1 2 | 3 - - 0 |
 }
 
 Ending4:PianoLH@|0|{

@@ -74,8 +74,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanoshiki_wagaya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgCGmDNyk-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJCelFhWDHQtxQ0lRYh7EDKAgQlVJRirQ3WmJuZk5SOYCjUrPzLMqTy0uSS3Ki89NzclPAUpraSk8W9H0uHH648beZx0Tn67bpqClxaVoq2BhwmVvq-Ckw2Vjom9iBzLm2exN7_fM8kjNK6pUCMovz0mtVHDKBPq24P2eDo_83FRFheDy1NQSBQj7ya6el80rnk7oeDpl4_s9nWCHAJnP1vY83bEZqMPIwMhAz8DATM_AwsQYqAAUlnpZBemPGiYDmcYgJlDV8zVrFIxNgGLGpgovFzSCDeLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oxBcr5z1tXfFsWjvQCU839D5r71TA4j6FF9tXAB31rLP7WVfLk11Tnm-f9WLtnPd7ejBdDQw4kE0vVu1_1rAcZEd374uZ84GiL9Z1PW5eCxR_Onv20462Jzu7gQyg7NO1E4B2OyUpPF2yHCirAIwEBaAw0HC0gOUCmWuop_C4af3j5j2PmxeByb7HzfMfNy953LQCxG5oeNy0_3HT6sfNnWCpRSA9QPC4eQJIdRNQz5LHzV2Pm7Y_bl72uHkh1AiQNqBUx-OmvTANTWvBNqwGK20FG7b-cdMasAagbZuRlDb3g9QBSZAZqx43bXzc3AwyDGTqZrC1QCNmAI2Aa0AyCUhC1U2CKYXILoF6BmgzkiA4EIyAgdDYBFbeAyIb1z1umvS4qe1x48THjRvA-oAJfd3jxpmPG6cAkzvM3kZwwDUue9zUDSOBKjaBBbtB2hqXPm7qfNw4GR4IHSBpkGGzHzeuBEo8bgL6Emwn0MLGfY8blwDtQTIepAIoAcxjQNt3Qh3TOPVxIzB2gJZMBhnXOB1ufP_jRohhLdBwgKgAKZ0OlQVKgcTng01ECILDwVgPmHLgafRp_-anjVue7Vn0dO10SMoGJRqIVU9bOx83dT1fuQvstn6gkS_2zAWGDDAYoCqebW18sgsove5pZy_IDw0NQBGgX18s7AFqgCp6uXnp48ZVQP7TjRtB3gUa09P6YiJIG8yi_c0gM9btf9w4D-xwoGpgGAFDGlTuwOzqAMZTD7AEAtkCY8PlgJqmo6gAl1oo6igvDaBAQUufiyskMS-_OCMzOzM8MT2xMtEqOL8AWN7mO9QY1ChUg51lY2imZQdmYSuRFJ7u2fhi63ZgZgcWB092NDxbt1VBw0Lh6Yb-5-sbdMDlCbQs0cSiGegCkME1CgYKumCIThvGAwkjEFEDVWkM4ugqmMSDEIhlGg9CEOVgSTCvBiYNFAKzwIZANUPMB5oNFKSKuWBnwsyFqAMnUuxBBgqpXT3gkDIhOaQMwfaYxyuYUeh9qDMpNxXF8yCIz-9PO9cD8yc5Hoe7BwYhboY6DWwvzHlQh8EdTw8v12LmJcecEuwZiUB6N49HcSfELqC9UE8BXQL3FVgSzKuBSUOSNcwUFJcCOSBRGpgMUYialYDhhwi7QWYuJM5QjEVAuACcATcSZhjcRvo4FJi4dO0U0NKXAlBImQsA)]
-- [鋼琴伴奏 TMD 檔案](tanoshiki_wagaya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx4_THjb3POiY-Xbft_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcJlb6vgpMNlY6JvYsdVp6D0bPam93tmeaTmFVUqBOWX56RWKjhlFmfkFwCN8cjPTVVUCC5PTS1RgLCf7Op52bzi6YSOp1M2Ak1VApkAZD5b2_N0x2agDiMDIwM9AwMzPQMLE2OgggBDAyO9rIL0Rw2TgUxjEBOo6vmaNQrGJkAxY1OFlwsawQZxhSTm5RdnZGZnhiemJ1YmWgXnFxQBhRxqDGoUqrkUgMDG0EzLDsyqUTBQ0AVDdNowHkgYgYgaqEpjEEdXwSQehEAs03gQgigHS4J5NTBpoBCYBTYEqhliPtBsoCBVzAU7E2YuRB3UWEOwsHm8ghmFrqWaqShuBUGYoXATYBBiC9QwsEqYgVCj4NbRw5G1mGnKMaeErARlHo_iTohdQHuhngK6BO4rsCSYVwOThqQbmCkoLgVyQKI0MBmiEDWtAsMPEXaDzFzkhAU3AgbhAnAG3EiYYXAb6eNQLIkrIBMoEORBcvrSBqV7oEXaKMUWUBzqQKN4baCjISTE6dpAf0BIuBlgtTAxkDdgqiFyMD7cGoTxsIQIdAZUdoCcANcKjzNwyIBiTRtYKJjEa0PLhWFoO3LqByrGKFnhrkHYAssFMJuQTEd21GDyH65M44OSaUyQ8gwEIhIkqEYAEiAGCIPqIGQxspWaUFklqjhFpmoDSx-QYmDg6dopoIWfAtFCylwA)]
+- [主旋律 TMD 檔案](tanoshiki_wagaya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgCGmDNyk-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJCelFhWDHQtxQ0lRYh7EDKAgQlVJRirQ3WmJuZk5SOYCjUrPzLMqTy0uSS3Ki89NzclPAUpraSk8W9H0uHH648beZx0Tn67bpqClxaVoq2BhwmVvq-Ckw2Vjom9iBzLm2exN7_fM8kjNK6pUCMovz0mtVHDKBPq24P2eDo_83FRFheDy1NQSBQj7ya6el80rnk7oeDpl4_s9nWCHAJnP1vY83bEZqMPIwMhAz8DATM_AwsQYqAAUlnpZBemPGiYDmcYgJlDV8zVrFIxNgGLGpgovFzSCDeLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oxBcr5z1tXfFsWjvQCU839D5r71TA4j6FF9tXAB31rLP7WVfLk11Tnm-f9WLtnPd7ejBdDQw4kE0vVu1_1rAcZEd374uZ84GiL9Z1PW5eCxR_Onv20462Jzu7gQyg7NO1E4B2OyUpPF2yHCirAIwEBaAw0HC0gOUCmWuop_C4af3j5j2PmxeByb7HzfMfNy953LQCxG5oeNy0_3HT6sfNnWCpRSA9QPC4eQJIdRNQz5LHzV2Pm7Y_bl72uHkh1AiQNqBUx-OmvTANTWvBNqwGK20FG7b-cdMasAagbZuRlDb3g9QBSZAZqx43bXzc3AwyDGTqZrC1QCNmAI2Aa0AyCUhC1U2CKYXILoF6BmgzkiA4EIyAgdDYBFbeAyIb1z1umvS4qe1x48THjRvA-oAJfd3jxpmPG6cAkzvM3kZwwDUue9zUDSOBKjaBBbtB2hqXPm7qfNw4GR4IHSBpkGGzHzeuBEo8bgL6Emwn0MLGfY8blwDtQTIepAIoAcxjQNt3Qh3TOPVxIzB2gJZMBhnXOB1ufP_jRohhLdBwgKgAKZ0OlQVKgcTng01ECILDwVgPmHLgafRp_-anjVue7Vn0dO10SMoGJRqIVU9bOx83dT1fuQvstn6gkS_2zAWGDDAYoCqebW18sgsove5pZy_IDw0NQBGgX18s7AFqgCp6uXnp48ZVQP7TjRtB3gUa09P6YiJIG8yi_c0gM9btf9w4D-xwoGpgGAFDGlTuwOzqAMZTD7AEAtkCY8PlgJqmo6gAl1oo6igvDaBAQUufiyskMS-_OCMzOzM8MT2xMtEqIBMoYOhQY1BTDXaUjaGZlh2Yha08Uni6Z-OLrduBWR1YGDzZ0fBs3VYFDQuFpxv6n69v0AGXJtCSRBOLZqD9IINrFAwUdMEQnTaMBxJGIKIGqtIYxNFVMIkHIRDLNB6EIMrBkmBeDUwaKARmgQ2BaoaYDzQbKEgVc8HOhJkLUQdOotiDDBRSu3rAIWVCckgZgu0xj1cwo9D7UGdSbiqK50EQn9-fdq4H5k5yPA53DwxC3Ax1GthemPOgDoM7nh5ersWRk4yw5SQCCd48HsWhEMuAFkN9BXQK3FtgSTCvBiYNSdcwU1CcCuSARGlgMkQhal4CBiAi8AaZuZBIQzEWAeECcAbcSJhhcBvp41Bg6tK1U0BLYApAIWUuAA)]
+- [鋼琴伴奏 TMD 檔案](tanoshiki_wagaya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx4_THjb3POiY-Xbft_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcJlb6vgpMNlY6JvYsdVp6D0bPam93tmeaTmFVUqBOWX56RWKjhlFmfkFwCN8cjPTVVUCC5PTS1RgLCf7Op52bzi6YSOp1M2Ak1VApkAZD5b2_N0x2agDiMDIwM9AwMzPQMLE2OgggBDAyO9rIL0Rw2TgUxjEBOo6vmaNQrGJkAxY1OFlwsawQZxhSTm5RdnZGZnhiemJ1YmWgXnFxQBhRxqdA1rqrkUgMDG0EzLDsyqUTBQ0AVDdNowHkgYgYgaqEpjEEdXwSQehEAs03gQgigHS4J5NTBpoBCYBTYEqhliPtBsoCBVzAU7E2YuRB3UWEOwsHm8ghmFrqWaqShuBUGYoXATYBBiC9QwsEqYgVCj4NbRw5G1mGnKMaeErARlHo_iTohdQHuhngK6BO4rsCSYVwOThqQbmCkoLgVyQKI0MBmiEDWtAsMPEXaDzFzkhAU3AgbhAnAG3EiYYXAb6eNQLIkrIBMoEORBcvrSBqV7oEXaKMUWUBzqQKN4baCjISTE6dpAf0BIuBlgtTAxkDdgqiFyMD7cGoTxsIQIdAZUdoCcANcKjzNwyIBiTRtYKJjEa0PLhWFoO3LqByrGKFnhrkHYAssFMJuQTEd21GDyH65M44OSaUyQ8gwEIhIkqEYAEiAGCIPqIGQxspWaUFklqjhFpmoDSx-QYmDg6dopoIWfAtFCylwA)]
 
 ## 分析
 
@@ -86,9 +86,9 @@ tmd_source:
 ⏱  Duration:       0:37 (37.1s), 13 measures total
 🎼 Key & Tempo:    首調基準 B,, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A3 (MIDI 57) – F4 (MIDI 65) [跨度: 8 個半音 / 0.7 個八度, 難度: easy]
-   - 最低音:  A3 in [TanoshikiWagaya #1 @ m.1, 0:02]
-   - 最高音: F4 in [TanoshikiWagaya #1 @ m.6, 0:14]
+🎤 人聲音域:    A#3 (MIDI 58) – A#4 (MIDI 70) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  A#3 in [TanoshikiWagaya #1 @ m.1, 0:02]
+   - 最高音: A#4 in [TanoshikiWagaya #1 @ m.6, 0:14]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      TanoshikiWagaya (37.1s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
@@ -127,8 +127,8 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Alto          : A3 – F4 (8 個半音 / 0.7 個八度, 73 個音符)
-  - Soprano       : A#3 – A#4 (12 個半音 / 1.0 個八度, 73 個音符)
+  - Piano1        : A#3 – A#4 (12 個半音 / 1.0 個八度, 73 個音符)
+  - Piano2        : A3 – F4 (8 個半音 / 0.7 個八度, 73 個音符)
 ================================================================================
 ```
 

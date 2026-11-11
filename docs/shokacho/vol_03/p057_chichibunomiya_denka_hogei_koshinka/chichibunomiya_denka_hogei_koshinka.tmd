@@ -23,7 +23,7 @@
    Annotations: (♭ロ調ニテモ可), (大正十四年五月), 松井實氏作歌
    ========================================================================= */
 
-ChichibunomiyaDenkaHogeiKoshinka_A:Vocal@|0| {
+ChichibunomiyaDenkaHogeiKoshinka_A:Vocal@|0|{
     <16*>
     /* 歌詞: */
     /* 一、鵬程萬里恙なく / 太平洋をのりこえて / 英米見學にむかはるる / 秩父の宮を迎へませ */
@@ -47,7 +47,7 @@ ChichibunomiyaDenkaHogeiKoshinka_A:Vocal@|0| {
     /* @Vocal: た ー か き す が た を み そ な は れ */
 }
 
-ChichibunomiyaDenkaHogeiKoshinka_B1:Vocal@|0| {
+ChichibunomiyaDenkaHogeiKoshinka_B1:Vocal@|0|{
     <16*>
     /* 第一〜三番結尾 (Staff 4): */
     | 6 - - 1^ 5 - 3 - | 2 - - - 5 - - - | 3 - 2 - 3 - 2 - | 1 - - - 0 - - - |
@@ -56,7 +56,7 @@ ChichibunomiyaDenkaHogeiKoshinka_B1:Vocal@|0| {
     /* @Vocal: か が や き わ た る か し こ さ よ */
 }
 
-ChichibunomiyaDenkaHogeiKoshinka_B2:Vocal@|0| {
+ChichibunomiyaDenkaHogeiKoshinka_B2:Vocal@|0|{
     <16*>
     /* 第四番結尾 (Staff 5): */
     | {f} 1 - - - 0 - 5_ - | 1 - - - 0 - 3 - | 5 - - - 5 - - - | 1^ - - - - - - - |
