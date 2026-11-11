@@ -65,23 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:卒業の歌
-C:曲：Schulz
-M:4/4
-L:1/16
-Q:1/4=84
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z4 z4 z4 B,4 | E4 F4 G4 A4 | B8 c2 B2 A2 G2 | F4 G4 A4 F4 |
-!mf! G8 z4 B,4 | E4 F4 G4 A4 | B8 c2 B2 =A2 G2 | F4 G2 =A2 B4 A4 |
-!p! B8 z4 B,4 | F4 F4 A4 A4 | A8 G4 B4 | B4 A4 G4 F4 |
-!mf! F4 E8 B,4 | E4 G4 B4 c2 d2 | !mp! e6 d2 e4 B4 | c4 B4 A4 G4 |
-E8 F8 | !f! G4 z4 B8 | G4 B4 c4 d2 e2 | d8 f8 |
-!mf! e12 B,4 | E4 F4 G4 A4 | B8 B,8 | E12 z4 |
-```
+<div class="abc-score" data-abc-src="sotsugyo_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sotsugyo_no_uta.abc)
 
 ## TMD 檔案連結
 

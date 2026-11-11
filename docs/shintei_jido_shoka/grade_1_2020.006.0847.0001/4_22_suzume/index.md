@@ -69,26 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:スズメ（麻雀）
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F2 A2 G2 F2 | c2 c2 c2 z2 | d2 c2 d2 c2 | A2 A2 G2 z2 |
-w: 1.~ア チ ラ ノ | ヤ ネ デ | チュン チュン チュン チュン | ナ ク ヨ
-w: 2.~コ チ ラ ノ | ヤ ネ デ | チュン チュン チュン チュン | ナ ク ヨ
-F2 A2 G2 F2 | c2 c2 c2 z2 | d2 c2 A2 G2 | F6 z2 |
-w: 1.~ク チ バ シ | ア ケ テ | ゲ ン キ ヨ | ク
-w: 2.~マ ケ ズ ニ | ナ ク ヨ | ゲ ン キ ヨ | ク
-C4 C4 | F F F C F2 z2 | A2 A2 G2 G2 | F6 z2 |
-w: 1.~チュン チュン | チュ チュ チュ チュ チュン | サ ヘ ヅ ル | ヨ
-w: 2.~チュン チュン | チュ チュ チュ チュ チュン | サ ヘ ヅ ル | ヨ
-```
+<div class="abc-score" data-abc-src="suzume.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](suzume.abc)
 
 ## TMD 檔案連結
 

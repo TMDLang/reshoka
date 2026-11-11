@@ -61,23 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:朝風
-C:曲：F. Silcher（シルヘル）
-M:4/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! F4 A6 B2 A4 | G8 F4 G4 | A4 B4 c4 A4 | G8 z8 |
-F4 G4 A4 B4 | !f! !mf! c8 B4 G4 | F4 A4 G4 B4 | F8 z8 |
-[V:V2]
-!mf! F4 F6 G2 F4 | E8 C4 E4 | F4 G4 A4 F4 | E8 z8 |
-D4 E4 F4 G4 | !f! !mf! A8 G4 E4 | D4 F4 E4 C4 | F8 z8 |
-```
+<div class="abc-score" data-abc-src="asakaze.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](asakaze.abc)
 
 ## TMD 檔案連結
 

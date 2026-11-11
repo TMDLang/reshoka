@@ -66,25 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:寧樂の都
-M:6/8
-L:1/16
-Q:3/8=44
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 z2 z2 z2 z2 B2 | B4 G2 B2 A2 F2 | !p! E6 E4 E2 | F4 F2 F2 G2 A2 |
-!mf! B6 B4 B2 | B4 G2 B2 A2 F2 | !p! E6 E4 E2 | F2 G2 A2 B4 D2 |
-!f! E6 E4 E2 | c4 c2 B4 e2 | !mf! d6 c4 c2 | B4 G2 G2 A2 F2 |
-!f! E6 B,4 B2 | c6 e6 | e6 B4 c2 | B4 G2 G2 A2 F2 |
-E4 G2 B4 c2 | !p! B6 B4 B2 | A4 F2 B4 A2 | G6 E6 |
-!f! c6 c4 B2 | A6 F6 | B6 B,2 C2 D2 | E6 F4 G2 |
-A2 G2 F2 E2 D2 C2 | B,6 B4 B2 | A4 F2 B4 A2 | !p! G6 B4 B2 |
-B4 E2 E2 F2 G2 | F6 B,4 B,2 | E2 F2 G2 A4 c2 | B4 G2 E2 F3 G |
-E6 E4 z2 |
-```
+<div class="abc-score" data-abc-src="nara_no_miyako.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nara_no_miyako.abc)
 
 ## TMD 檔案連結
 

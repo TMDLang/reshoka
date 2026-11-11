@@ -74,32 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:荒城の月
-M:4/4
-L:1/16
-Q:1/4=76
-K:Bm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! F2 F2 B2 c2 d2 c2 B4 | G2 G2 F2 ^E2 F4 z4 | F2 F2 B2 c2 d2 c2 B4 | G2 E2 F3 F B,4 z4 |
-w: は る か う ろ う の | は な の え ん | め ぐ る さ か づ き | か げ さ し て
-D2 D2 C2 B,2 G3 G F4 | E2 F2 G3 G F4 z4 | F2 F2 B2 c2 d2 c2 B4 | G2 E2 F3 F B,4 z4 |
-w: ち よ の ま つ が え | わ け い で し | む か し の ひ か り | い ま い づ こ
-!mf! F2 F2 B2 c2 d2 c2 B4 | G2 G2 F2 ^E2 F4 z4 | F2 F2 B2 c2 d2 c2 B4 | G2 E2 F3 F B,4 z4 |
-w: あ き ぢ ん え い の | し も の い ろ | な き ゆ く か り の | か づ み せ て
-D2 D2 C2 B,2 G3 G F4 | E2 F2 G3 G F4 z4 | F2 F2 B2 c2 d2 c2 B4 | G2 E2 F3 F B,4 z4 |
-w: う う る つ る ぎ に | て り そ ひ し | む か し の ひ か り | い ま い づ こ
-!mf! F2 F2 B2 c2 d2 c2 B4 | G2 G2 F2 ^E2 F4 z4 | F2 F2 B2 c2 d2 c2 B4 | G2 E2 F3 F B,4 z4 |
-w: い ま くわ う じや う の | よ は の つ き | か は ら ぬ ひ か り | た が た め ぞ
-D2 D2 C2 B,2 G3 G F4 | E2 F2 G3 G F4 z4 | F2 F2 B2 c2 d2 c2 B4 | G2 E2 F3 F B,4 z4 |
-w: か き に の こ る は | た だ か づ ら | ま つ に う た ふ は | た だ あ ら し
-!mf! F2 F2 B2 c2 d2 c2 B4 | G2 G2 F2 ^E2 F4 z4 | F2 F2 B2 c2 d2 c2 B4 | G2 E2 F3 F B,4 z4 |
-w: て ん じや う か げ は | か は ら ね ど | え い こ は う つ る | よ の す が た
-D2 D2 C2 B,2 G3 G F4 | E2 F2 G3 G F4 z4 | F2 F2 B2 c2 d2 c2 B4 | G2 E2 F3 F B,4 z4 |
-w: う つ さ ん と て か | い ま も な ほ | あ あ くわ う じや う の | よ は の つ き
-```
+<div class="abc-score" data-abc-src="kojo_no_tsuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kojo_no_tsuki.abc)
 
 ## TMD 檔案連結
 

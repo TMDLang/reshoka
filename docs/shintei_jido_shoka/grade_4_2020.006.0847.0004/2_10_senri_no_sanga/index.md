@@ -72,25 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:千里の山河
-C:曲：山本壽
-M:2/4
-L:1/16
-Q:1/4=84
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B3 B A2 G2 | G2 E G D4 | D3 d B2 G2 | A G A B A4 |
-w: セ ン リ ノ | サ ン _ カ | タ チ マ チ | ユ ク キ _ シャ
-B3 B A2 G2 | G2 E G D4 | D3 d B2 G2 | A G A B G4 |
-w: ハ ト ウ _ | バ ン _ リ | モ ノ ト モ | セ ヌ フ _ ネ
-B3 d d2 B2 | c2 c2 c4 | A3 c c2 A2 | B2 B2 B4 |
-w: キ カ イ ノ | チ カ ラ | セ カ イ ヲ | チ ヂ メ
-G3 G G2 A2 | B2 G A D4 | D3 d G2 B2 | A G A B G4 |
-w: ト ホ キ ク | ニ グ _ ニ | ト ナ リ ノ | ゴ _ ト _ シ
-```
+<div class="abc-score" data-abc-src="senri_no_sanga.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](senri_no_sanga.abc)
 
 ## TMD 檔案連結
 

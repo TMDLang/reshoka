@@ -57,21 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:進軍
-M:4/4
-L:1/16
-Q:1/4=168
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z4 D3 G | B4 B4 B4 B4 | d12 B3 G | F4 G4 A4 B4 |
-A8 F2 G2 A3 D | G4 G4 G4 G4 | B8 G4 d3 B | E4 E4 E4 E2 F2 |
-G8 E4 A3 A | A4 A4 A4 B2 ^c2 | d8 A4 d3 c | B4 A4 ^G4 A4 |
-F4 ^G4 A4 D3 =G | B4 B4 B4 B4 | B8 G4 e3 c | B4 E2 G2 B2 A2 A3 F |
-G12 z4 |
-```
+<div class="abc-score" data-abc-src="shingun.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shingun.abc)
 
 ## TMD 檔案連結
 

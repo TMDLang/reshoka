@@ -63,26 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:蘭の花
-C:曲：宮島慎三郎
-M:4/4
-L:1/16
-Q:1/4=120
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 c4 A4 F4 | G4 F2 G2 A4 z4 | c4 c2 c2 A4 d4 | c12 z4 |
-w: 1.~ね え さ ん | じょ _ ろ で | み づ を ま け | ば
-w: 2.~は ち に は | ら _ ん の | は な が さ い | た
-c4 c4 A4 F4 | G4 F2 G2 A4 A4 | c4 c4 A4 d4 | c4 c4 A4 z4 |
-w: 1.~い も う と | ば け _ つ に | み づ く ん | で く る
-w: 2.~に ほ ひ も | よ く _ て _ | い _ ろ も | き れ い
-c4 d4 c6 A2 | F4 A4 G4 F4 | c4 c4 A4 F4 | G4 A4 F4 z4 |
-w: 1.~ふ た り は | ま い あ さ | は ち う ゑ | の せ わ
-w: 2.~て ふ て ふ | ひ ら ひ ら | そ の う へ | に と ぶ
-```
+<div class="abc-score" data-abc-src="ran_no_hana.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ran_no_hana.abc)
 
 ## TMD 檔案連結
 

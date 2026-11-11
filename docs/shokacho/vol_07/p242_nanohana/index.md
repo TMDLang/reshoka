@@ -56,20 +56,9 @@ Key: ニ調 (D major), Time: 3/4
 
 ## ABC
 
-```abc
-X:1
-T:菜の花（油菜花）
-M:3/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-F2 G2 A4 F4 | B2 c2 d4 B4 | A2 B2 A4 E4 | F8 z4 |
-F2 G2 A4 F4 | B2 c2 d4 B4 | A2 B2 F4 E4 | D8 z4 |
-E2 F2 E4 A4 | E2 F2 E4 A4 | B2 c2 B4 B4 | A8 z4 |
-A2 B2 d4 A4 | A2 B2 A4 F4 | A2 A2 F4 E4 | D8 z4 |
-```
+<div class="abc-score" data-abc-src="nanohana.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nanohana.abc)
 
 ## TMD 檔案連結
 

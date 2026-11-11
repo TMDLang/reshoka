@@ -68,22 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:麗はしき我國
-C:曲：獨國風曲
-M:4/4
-L:1/16
-Q:1/4=108
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z2 E2 F2 G2 | A6 c2 B3 A G3 A | F8 z4 F4 | B3 c d3 ^d e3 c A3 f |
-E8 z2 E2 F3 G | A6 c2 B3 A G3 A | F8 z2 F2 F3 F | B8 e8 |
-c8 z4 E4 | A6 c2 B2 A2 G3 A | F8 z2 F2 F2 F2 | B2 c2 d3 ^d e3 c A3 f |
-!f! E8 z2 E2 C2 E2 | A8 z2 A2 E2 A2 | c8 z2 c2 A2 c2 | !ff! e6 c2 B3 c d3 B |
-A8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="uruwashiki_wagakuni.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](uruwashiki_wagakuni.abc)
 
 ## TMD 檔案連結
 

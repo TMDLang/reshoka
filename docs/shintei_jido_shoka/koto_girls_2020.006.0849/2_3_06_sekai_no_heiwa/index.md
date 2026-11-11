@@ -61,24 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:世界の平和
-C:曲：成田爲三
-M:4/4
-L:1/16
-Q:1/4=108
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 F2 B2 | c4 F2 c2 d4 F2 d2 | e4 z4 z4 d2 c2 | B3 c d2 f2 c4 d4 |
-f12 F2 B2 | c4 F2 c2 d4 c2 d2 | e4 z4 z4 c2 d2 | e3 e e2 A2 d4 c4 |
-B8 F4 F2 f2 | f4 d4 B4 c2 d2 | c12 z4 | G4 A4 B4 G4 |
-c4 B4 G4 E4 | F4 B4 A3 B c4 | _d3 c B2 A2 B4 G4 | F8 z4 G2 F2 |
-D8 =E4 C4 | F4 F2 G2 A4 A2 B2 | c8 F4 c2 c2 | !f! g3 f e2 c2 B4 A4 |
-B12 z4 | z4 F2 B2 c8 | z4 G2 c2 d8 | z4 f2 d2 B4 c2 A2 |
-B12 z4 |
-```
+<div class="abc-score" data-abc-src="sekai_no_heiwa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sekai_no_heiwa.abc)
 
 ## TMD 檔案連結
 

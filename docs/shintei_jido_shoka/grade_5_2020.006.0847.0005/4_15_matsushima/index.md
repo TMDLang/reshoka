@@ -67,28 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:松島
-M:4/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d3 B A3 G A3 B G2 E2 | D8 z4 G3 A | B3 d e3 e d3 e d2 B2 | A12 z4 |
-w: 1.~タ チ ナ ラ ブ マ ツ ノ | キ セ ン | ネ ン ノ _ コ ミ ド _ | リ
-w: 2.~こ れ ぞ か の り く ぜ | ん ま つ | し ま の _ な が め _ | ぞ
-B3 B A3 G A3 B G2 E2 | D8 z4 A3 B | G3 G E3 G A3 B A2 F2 | G12 z4 |
-w: 1.~ワ ダ カ マ ル オ ホ イ | ハ ソ ノ | ス ガ タ _ オ モ シ _ | ロ
-w: 2.~ひ の も と に な だ か | き さ ん | け い の _ ひ と つ _ | よ
-B3 d e8 e3 d | B12 B3 A | G3 A B3 d e3 d B2 A2 | B12 z4 |
-w: 1.~ナ ミ ハ シ ロ | ク マ サ | ゴ ヂ ハ _ キ ヨ ラ _ | カ
-w: 2.~ひ と よ ゆ け | よ た ぐ | ひ な き _ こ の ち _ | に
-B3 d e8 e3 d | B12 B3 A | G3 G E3 G A3 B A2 F2 | G12 z4 |
-w: 1.~マ ホ ヤ カ タ | ホ オ キ | ト ホ ク _ コ ギ ユ _ | ク
-w: 2.~ゆ き て あ そ | べ た ぐ | ひ な き _ ら く ゑ _ | ん
-```
+<div class="abc-score" data-abc-src="matsushima.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](matsushima.abc)
 
 ## TMD 檔案連結
 

@@ -74,38 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:埴生の宿
-C:曲：Henry Rowley Bishop
-M:4/4
-L:1/16
-Q:1/4=88
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 z4 E4 | G6 A2 A6 B2 | B8 G4 G4 | A6 G2 A4 F4 |
-w: 1.~ハ | ニ フ ノ ヤ | ド モ ワ | ガ ー ヤ ー
-w: 2.~ふ | み よ む ま | ど も わ | が ー ま ー
-G8 z4 E4 | G6 A2 A6 B2 | B8 G4 B4 | A6 G2 A4 F4 |
-w: 1.~ド タ | マ ー ノ ヨ | ソ ヒ ウ | ラ ー ヤ マ
-w: 2.~ど る | り ー の ゆ | か も う | ら ー や ま
-!f! E8 z4 B4 | e6 d2 c6 B2 | B8 G4 B4 | A6 G2 A4 F4 |
-w: 1.~ジ ノ | ド ー カ ナ | リ ヤ ハ | ル ー ノ ソ
-w: 2.~じ き | よ ー ら な | り や あ | き ー の よ
-G8 z4 B4 | e6 d2 c6 B2 | B8 G4 B4 | B8 A4 F4 |
-w: 1.~ラ ハ | ナ ー ハ ア | ル ジ ト | リ ハ ト
-w: 2.~は つ | き ー は あ | る じ む | し は と
-E8 z8 | !pp! B12 z4 | !p! A8 F8 | !mf! E8 F8 |
-w: 1.~モ | オ | ワ ガ | ヤ ド
-w: 2.~も | お | わ が | ま ど
-!f! !ff! G8 z4 B4 | e6 d2 c6 B2 | B8 G4 B4 | B4 c4 A4 F4 |
-w: 1.~ヨ タ | ノ ー シ ト | モ ー タ | ノ ー モ シ
-w: 2.~よ た | の ー し と | も ー た | の ー も し
-E8 z4 z4 |
-w: 1.~ヤ
-w: 2.~や
-```
+<div class="abc-score" data-abc-src="hanyu_no_yado.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hanyu_no_yado.abc)
 
 ## TMD 檔案連結
 

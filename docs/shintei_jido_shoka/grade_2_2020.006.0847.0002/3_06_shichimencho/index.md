@@ -68,32 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:七面鳥
-C:曲：梁田貞
-M:2/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 G2 G2 z2 | c2 G2 G2 z2 | C2 z2 C2 z2 | C6 z2 |
-w: 1.~きよろつ _ _ | きよろつ _ _ | くつ くつ | くつ
-w: 2.~きよろつ _ _ | きよろつ _ _ | くつ くつ | くつ
-E2 G2 A2 G2 | E2 G2 c4 | E2 G A G2 E2 | G6 z2 |
-w: 1.~あ か い か | ほ し て | お こ り ま は | る
-w: 2.~あ を い か | ほ し て | に げ _ だ し | た
-A2 c d c2 A2 | c2 G6 | E2 G A G2 E2 | D6 z2 |
-w: 1.~し ち _ め ん | てう は | を か _ し い | な
-w: 2.~し ち _ め ん | てう は | を か _ し い | な
-E2 G2 A2 G2 | E2 G2 c4 | E2 G2 A2 G2 | E2 G4 z2 |
-w: 1.~は ね を ひ | ろ げ て | お こ り な | が ら
-w: 2.~は ね を す | ば め て | に げ _ て | い く
-c2 G2 G2 G2 | c2 G2 G2 G2 | C2 z2 C2 z2 | C6 z2 |
-w: 1.~きよろつ _ _ _ | きよろつ _ _ _ | くつ くつ | くつ
-w: 2.~きよろつ _ _ _ | きよろつ _ _ _ | くつ くつ | くつ
-```
+<div class="abc-score" data-abc-src="shichimencho.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shichimencho.abc)
 
 ## TMD 檔案連結
 

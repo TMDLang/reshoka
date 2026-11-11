@@ -65,22 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:かちどき
-M:4/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-!f! c4 F4/3 G4/3 A4/3 G4 G4 | F4 E4/3 F4/3 G4/3 B4 A4 | c4 d4/3 c4/3 B4/3 A4 G4 | F2 D2 D3 C C6 z2 |
-w: 1.~い さ _ ま し や | と き _ の こ ゑ | わ が _ へ い は | か ち た る ぞ
-w: 2.~う み _ や ま も | く づ _ れ よ と | ふ き _ た つ る | ら っ ぱ の ね
-C4 C4/3 D4/3 E4/3 F4 F4 | G4 G4/3 A4/3 B4/3 A4 G4 | c4 d4/3 c4/3 =B4/3 c4 A4 | A4/3 G4/3 F4/3 G4/3 F4/3 E4/3 F6 z2 |
-w: 1.~つ け _ や い ざ | て き _ え い を | た て _ よ い ざ | わ _ が は _ た を
-w: 2.~あ れ _ み よ や | に げ _ て ゆ く | て き _ へ い の | か _ よ わ _ さ よ
-```
+<div class="abc-score" data-abc-src="kachidoki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kachidoki.abc)
 
 ## TMD 檔案連結
 

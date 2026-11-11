@@ -65,23 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:海邊眺望
-M:6/8
-L:1/16
-Q:3/8=53
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z2 z4 C2 | F4 F2 F4 G2 | A6 F4 F2 | G4 G2 C4 C2 |
-F10 F2 | D4 D2 E4 E2 | !mp! F6 C4 C2 | D4 G2 E2 D2 E2 |
-!mf! C10 C2 | C4 F2 F4 G2 | A6 F4 A2 | G4 B2 A4 G2 |
-F10 F2 | B4 B2 A4 A2 | !mp! G4 G2 F4 F2 | E4 G2 C4 E2 |
-F10 z2 | !f! C2 F2 G2 A4 z2 | !p! C2 F2 G2 A4 z2 | !f! B2 A2 B2 G2 F2 E2 |
-F10 z2 | !f! C2 F2 G2 A4 z2 | !p! F2 G2 A2 B4 z2 | A2 G2 F2 G2 A2 G2 |
-F10 z2 |
-```
+<div class="abc-score" data-abc-src="kaihen_chobo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaihen_chobo.abc)
 
 ## TMD 檔案連結
 

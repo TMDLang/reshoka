@@ -66,34 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:別れ
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 z4 c3 c | !mp! c4 z4 c3 c d4 | c3 d c4 A4 F3 G | A4 F4 D3 E G4 |
-w: 1.~ハ ル | ノ ハ ル ノ | ア _ シ タ ハ _ | ナ ノ モ _ ト
-w: 2.~あ き | の あ き の | ゆ _ ふ べ つ _ | き の か _ げ
-!mf! C8 c3 c c4 | z4 c3 c d4 c3 d | c4 A4 d3 d c4 | B4 A3 G A2 B2 c4 |
-w: 1.~ニ ト モ ニ | ト モ ニ タ ノ | シ ク シ タ シ | ミ ア _ ヒ _ シ
-w: 2.~に と も に | と も に う れ | し く か た ら | ひ あ _ ひ _ し
-!p! z4 z4 z4 c3 c | !mp! c4 z4 c3 c d4 | c3 d c4 A4 F3 G | A4 F4 D3 E G4 |
-w: 1.~ハ ル | ノ ハ ル ノ | ア _ シ タ ハ _ | ナ ノ モ _ ト
-w: 2.~あ き | の あ き の | ゆ _ ふ べ つ _ | き の か _ げ
-!mf! C8 c3 c c4 | z4 c3 c d4 c3 d | c4 A4 d3 d c4 | B4 A3 G A2 B2 c4 |
-w: 1.~ニ ト モ ニ | ト モ ニ タ ノ | シ ク シ タ シ | ミ ア _ ヒ _ シ
-w: 2.~に と も に | と も に う れ | し く か た ら | ひ あ _ ひ _ し
-!p! z4 z4 z4 G4 | G6 G2 G4 E4 | D6 D2 D4 C4 | D6 C2 D4 E4 |
-w: ひ | ご ろ の ま | じ は り わ | す れ ぬ ほ
-G4 A8 c4 | !mf! d6 A2 A4 G4 | !p! E4 G8 C2 C2 | D6 C2 E4 D4 |
-w: ど に を | し き わ か | れ を つ げ | な ん さ ら
-C8 z4 z4 |
-w: ば
-```
+<div class="abc-score" data-abc-src="wakare.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](wakare.abc)
 
 ## TMD 檔案連結
 

@@ -69,27 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:こんこん小雉子
-C:曲：杉江秀
-M:4/4
-L:1/16
-Q:1/4=100
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! A6 B2 d4 B4 | d4 B2 A2 F4 E2 D2 | E6 D2 E4 F4 | A6 B2 A4 z4 |
-w: 1.~こ ん こ ん | こ や _ ぶ に _ | た ま ご が | み _ つ
-w: 2.~こ ん こ ん | こ と _ り の _ | を ば ね は | あ を い
-w: 3.~こ ん こ ん | こ き _ じ に _ | や ま くゎ じ | だ す な
-w: 4.~ゆ う ら り | お ひ _ さ ま _ | ざ わ ざ わ | こ や ぶ
-!mf! B6 B2 B4 d4 | e4 e2 d2 B4 A4 | B2 B2 A2 D2 E6 F2 | D12 z4 |
-w: 1.~ひょ つ こ り | か へ _ つ た | こ と り が さ ん | ば
-w: 2.~け ん け ん | な _ _ い て | ちょ ろ ちょ ろ あ る | く
-w: 3.~け ん け ん | ほ ろ _ ほ ろ | お や き じ な か | う
-w: 4.~け ん け ん | お や _ ま に | ひ _ が _ く れ | る
-```
+<div class="abc-score" data-abc-src="konkon_kokiji.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](konkon_kokiji.abc)
 
 ## TMD 檔案連結
 

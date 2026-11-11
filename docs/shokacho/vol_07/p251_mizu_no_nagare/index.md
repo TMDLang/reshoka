@@ -47,20 +47,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:水の流 水流
-M:3/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! F2 E2 F4 C4 | A2 ^G2 A4 F4 | c2 =B2 c4 c2 d2 | c8 z4 |
-F2 E2 F4 C4 | A2 ^G2 A4 F4 | c2 =B2 c4 G2 A2 | F8 z4 |
-!f! c4 f4 e4 | d2 d2 d4 c4 | !mf! B2 A2 G2 G2 F2 A2 | c8 z4 |
-F2 E2 F4 C4 | A2 ^G2 A4 F4 | !p! c2 =B2 c4 G2 A2 | F8 z4 |
-```
+<div class="abc-score" data-abc-src="mizu_no_nagare.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mizu_no_nagare.abc)
 
 ## TMD 檔案連結
 

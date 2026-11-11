@@ -71,28 +71,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:たなばたさま（七夕樣）
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D4 D4 | G4 A4 | B4 B2 B2 | B4 z4 |
-w: 1.~サ サ | ノ ハ | サ ラ サ | ラ
-w: 2.~ご し | き の | た ん ざ | く
-B4 d4 | d4 B4 | G4 B4 | A4 z4 |
-w: 1.~ノ キ | バ ニ | ユ レ | ル
-w: 2.~わ た | し が | か い | た
-d4 B2 B2 | e4 d4 | A4 G2 G2 | E4 z4 |
-w: 1.~オ ホ シ | サ マ | キ ラ キ | ラ
-w: 2.~お ほ し | さ ま | き ら き | ら
-G4 E4 | D4 G4 | A4 B4 | G4 z4 |
-w: 1.~キ ン | ギ ン | ス ナ | ゴ
-w: 2.~そ ら | か ら | み て | る
-```
+<div class="abc-score" data-abc-src="tanabatasama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tanabatasama.abc)
 
 ## TMD 檔案連結
 

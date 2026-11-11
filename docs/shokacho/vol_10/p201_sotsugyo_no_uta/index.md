@@ -53,23 +53,9 @@ Marginalia: 419頁. 2.1.28 (昭和2年1月28日)
 
 ## ABC
 
-```abc
-X:1
-T:卒業の歌 畢業之歌
-M:4/4
-L:1/16
-Q:1/4=126
-K:Eb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z4 z4 z4 B,4 | E4 G4 B4 B4 | B8 A2 G2 F2 E2 | F4 F4 F4 B,4 |
-F8 z8 | E16 | G4 B4 e4 e4 | e8 d2 c2 B2 =A2 |
-B4 B2 c2 d4 c4 | B8 z8 | F16 | B4 c4 _d4 d4 |
-_d8 c4 B4 | A4 G4 F4 E4 | G8 F8 | B,16 |
-E4 G4 B4 G2 B2 | e6 e2 e4 E4 | F4 G4 A4 G4 | C8 _D8 |
-E8 z8 | E16 | G4 E4 B4 G2 B2 | e6 e2 e4 E4 |
-F4 G4 A4 G4 | C8 _D8 | E8 z8 |
-```
+<div class="abc-score" data-abc-src="sotsugyo_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sotsugyo_no_uta.abc)
 
 ## TMD 檔案連結
 

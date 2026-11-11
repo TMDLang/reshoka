@@ -62,28 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋
-M:6/8
-L:1/16
-Q:3/8=64
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C4 C2 F4 G2 | A4 G2 F4 G2 | A4 G2 A2 B2 c2 | d6 c4 z2 |
-w: 1.~とん ぼ と び | か ふ の ど | け き ひ よ り | _ _
-w: 2.~はや し わ け | ゆ き お ち | ぐ り ひ ら ひ | _ _
-A4 B2 c4 A2 | F4 G2 A4 F2 | D4 F2 C4 F2 | G4 A2 F4 z2 |
-w: 1.~わ ら ぢ きゃ | は ん に か | る く い で | た _ ち
-w: 2.~た に を わ | た り て き | の こ か り | ゆ _ き
-c4 A2 F4 D2 | G4 A2 G4 A2 | c4 d2 c2 A2 F2 | G4 A2 G4 C2 |
-w: 1.~の べ に や | ま べ に さ | ざ め き _ あ | そ _ ぶ あ
-w: 2.~き そ ふ え | も の に こ | こ ろ は _ い | さ _ む あ
-F4 G2 A4 B2 | c6 A4 F2 | G4 G2 A4 G2 | F6 F4 z2 |
-w: 1.~あ こ の _ | あ き こ | こ ち よ _ | や _
-w: 2.~あ こ の _ | あ き お | も し ろ _ | や _
-```
+<div class="abc-score" data-abc-src="aki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](aki.abc)
 
 ## TMD 檔案連結
 

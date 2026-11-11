@@ -58,28 +58,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:六氏先生
-M:4/4
-L:1/16
-Q:1/4=96
-K:Gm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! D8 D4 D4 | G8 G8 | !p! G4 A4 B4 A4 | G12 z4 |
-w: 1.~ヤ ヨ ヤ | コ ラ | ハ ゲ メ ヤ | ヨ
-w: 2.~う た へ | こ ら | お も へ や | よ
-!mp! d8 d4 d4 | A8 A8 | !p! B4 A4 G4 A4 | D12 z4 |
-w: 1.~マ ナ ベ | コ ラ | コ ド モ ラ | ヨ
-w: 2.~す す め | こ ら | く に の た | め
-!mf! D12 G4 | A12 z4 | !f! d12 B4 | G12 z4 |
-w: 1.~シ タ | ヘ | シ タ | ヘ
-w: 2.~お も | へ | お も | へ
-!mf! D6 D2 E4 D4 | G4 G4 A8 | D4 B4 A6 A2 | G12 z4 |
-w: 1.~タ フ レ テ | ヤ ミ シ | セ ン セ イ | ヲ
-w: 2.~さ う な ん | ろ く しの | せ ん せ い | を
-```
+<div class="abc-score" data-abc-src="rokushi_sensei.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](rokushi_sensei.abc)
 
 ## TMD 檔案連結
 

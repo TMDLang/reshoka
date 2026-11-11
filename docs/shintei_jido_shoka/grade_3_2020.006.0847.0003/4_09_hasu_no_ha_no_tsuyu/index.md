@@ -65,29 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:蓮の葉の露
-C:曲：梁田貞
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C6 D2 E3 G E4 | G6 A2 G8 | c6 c2 c4 A4 | G12 z4 |
-w: 1.~オ ニ ハ _ ノ | イ ケ ニ | ウ イ テ ヰ | ル
-w: 2.~お い け _ に | か ぜ が | ふ い て き | て
-E6 G2 A2 c2 G4 | E6 E2 D8 | C6 C2 D4 E4 | E12 z4 |
-w: 1.~マ ン マ _ ル | マ ル イ | ハ ス ノ ハ | ニ
-w: 2.~さ ざ な _ み | た て ば | は す の は | の
-G6 E2 A8 | c4 c8 c4 | d4 c2 z2 c4 A2 z2 | G12 z4 |
-w: 1.~ツ ユ ガ | タ マツ テ | キ ラ キ ラ | ト
-w: 2.~な か で | こ ろが る | つ ゆ の た | ま
-C6 D2 E2 G2 E4 | G6 E2 C8 | A4 G2 z2 E4 D2 z2 | C12 z4 |
-w: 1.~シ ン ジ ユ ノ | ヤ ウ ニ | キ ラ キ ラ | ト
-w: 2.~し ん じ ゆ の | や う な | つ ゆ の た | ま
-```
+<div class="abc-score" data-abc-src="hasu_no_ha_no_tsuyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hasu_no_ha_no_tsuyu.abc)
 
 ## TMD 檔案連結
 

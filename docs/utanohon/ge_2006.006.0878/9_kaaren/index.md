@@ -72,25 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:かあれん（加令／八哥）
-M:2/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A4 F4 | D4 F4 | G2 A2 A2 F2 | G4 z4 |
-w: 1.~カア レン | サン ハ | カ ハ イ イ | ナ
-w: 2.~かあ れん | さん は | を か し い | な
-A2 c2 A2 G2 | F4 F4 | G2 G2 G2 A2 | c4 z4 |
-w: 1.~ハ ヤ オ キ | シ タ | ワ タ ク シ | ニ
-w: 2.~あ さ ね ばう | し た | お と う と | に
-d2 d2 c2 A2 | G4 c4 | A2 A2 A2 G2 | F4 z4 |
-w: 1.~オ ハ ヤウ ト | イッ テ | ワ ラ ッ テ | ル
-w: 2.~お は やう と | いっ て | す ま し て | る
-```
+<div class="abc-score" data-abc-src="kaaren.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaaren.abc)
 
 ## TMD 檔案連結
 

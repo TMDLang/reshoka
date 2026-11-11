@@ -74,40 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:子守唄
-M:4/4
-L:1/16
-Q:1/4=74
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 B2 F4 z4 |
-w: こ の や ま | こ _ え て | あ の や _ ま _ | こ え て
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 F2 E4 z4 |
-w: ば う や の | お も り は | ど _ こ _ へ _ | ど こ へ
-z2 e4 f2 e2 d2 c2 B2 | z2 G4 B2 c2 B2 G2 E2 | z2 F4 G2 B4 c3 G | B6 c2 B4 G2 F2 |
-w: お め め _ は _ | さ め て _ も _ | お と な し _ | く _ _ _ _
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 F2 E4 z4 |
-w: よ い こ よ | よ い こ よ | ね む れ _ よ _ | ね む れ
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 B2 F4 z4 |
-w: こ の の を | す _ ぎ て | あ の か _ は _ | こ え て
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 F2 E4 z4 |
-w: ば う や の | お も り は | ど _ こ _ へ _ | ど こ へ
-z2 e4 f2 e2 d2 c2 B2 | z2 G4 B2 c2 B2 G2 E2 | z2 F4 G2 B4 c3 G | B6 c2 B4 G2 F2 |
-w: お う ま _ に _ | た い こ _ に _ | しゃ う の ふ _ | え _ _ _ _
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 F2 E4 z4 |
-w: い つ しょ に | な か よ く | あ そ べ _ よ _ | ば う や
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 B2 F4 z4 |
-w: ば う や よ | ね _ む れ | お ち ち _ を _ | は な し
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 F2 E4 z4 |
-w: い ま こ そ | ば う や は | お _ ね _ ね _ | し _ な
-z2 e4 f2 e2 d2 c2 B2 | z2 G4 B2 c2 B2 G2 E2 | z2 F4 G2 B4 c3 G | B6 c2 B4 G2 F2 |
-w: さ へ づ _ る _ | す ず め _ も _ | こ え や め _ | て _ _ _ _
-z2 E4 F2 G4 B4 | z2 A4 B2 c4 e4 | z2 B4 c2 B2 G2 E2 F2 | z2 G4 F2 E4 z4 |
-w: し づ か に | し づ か に | ば う や _ よ _ | ね む れ
-```
+<div class="abc-score" data-abc-src="komoriuta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](komoriuta.abc)
 
 ## TMD 檔案連結
 

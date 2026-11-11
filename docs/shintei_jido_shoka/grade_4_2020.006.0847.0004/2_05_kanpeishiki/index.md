@@ -62,33 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:觀兵式
-C:曲：小山作之助
-M:2/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D2 G2 G2 G2 | B2 G2 G2 G2 | D2 G2 A2 B2 | A6 z2 |
-w: な ら べ る | ほ づ つ は | は や し な | し
-G2 B2 B2 B2 | d2 B2 B2 B2 | G2 B2 B2 A2 | G6 z2 |
-w: つ ら な る | つ る ぎ は | し も さ む | し
-!f! d4 d3 d | d2 d2 B2 G2 | d2 d2 B2 G2 | D6 z2 |
-w: た い ご | た だ し き | あ な た よ | り
-!p! D2 G2 D2 A2 | G2 G2 G4 | A2 A2 G2 A2 | B6 z2 |
-w: ふ り さ け | み れ ば | お ほ ぎ み | の
-!f! d3 d d3 d | d4 B2 G2 | d2 d2 B2 G2 | E6 z2 |
-w: に し き の | み は た | ま ば ゆ く | も
-E2 D2 E2 A2 | G2 G2 G4 | A2 A2 G2 A2 | B6 z2 |
-w: ふ き ひ る | が へ す | あ さ か ぜ | に
-B2 d2 d2 B2 | G2 A2 B4 | d6 G A | B6 A2 |
-w: い な な く | う ま ぞ | い さ _ | ま し
-G6 z2 |
-w: き
-```
+<div class="abc-score" data-abc-src="kanpeishiki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kanpeishiki.abc)
 
 ## TMD 檔案連結
 

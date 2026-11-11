@@ -62,20 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:朝 早晨
-M:4/4
-L:1/16
-Q:1/4=120
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-D4 D2 F2 A4 F4 | B4 A4 F4 z4 | B2 A2 B2 A2 F4 D4 | E12 z4 |
-D4 D2 F2 A4 F4 | B4 A4 F4 z4 | d4 c2 B2 A4 B2 c2 | d8 A4 z4 |
-D2 E2 F2 D2 E2 F2 A4 | B4 A2 F2 A4 z4 | d4 c2 B2 A4 A2 B2 | A4 F2 D2 E4 z4 |
-D2 E2 F2 G2 A4 A4 | B4 B4 A4 A4 | B6 B2 A4 B2 c2 | d12 z4 |
-```
+<div class="abc-score" data-abc-src="asa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](asa.abc)
 
 ## TMD 檔案連結
 

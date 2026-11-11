@@ -73,29 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ユフヤケコヤケ（晚霞）
-C:曲：草川信
-M:2/4
-L:1/16
-Q:1/4=92
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 G2 G2 A2 | G2 G2 G2 E2 | C2 C2 D2 E2 | D6 z2 |
-w: 1.~ユ フ ヤ ケ | コ ヤ ケ デ | ヒ ガ ク レ | テ
-w: 2.~コ ド モ ガ | カ ヘ ッ タ | ア ト カ ラ | ハ
-E4 E2 G2 | A2 c2 c2 A2 | G2 G2 A2 G2 | c6 z2 |
-w: 1.~ヤ マ ノ | オ テ ラ ノ | カ ネ ガ ナ | ル
-w: 2.~マ ル イ | オ ホ キ ナ | オ ツ キ サ | ン
-c3 d c2 A2 | c2 c2 G2 G2 | A2 G2 A2 G2 | E6 z2 |
-w: 1.~オ _ テ テ | ツ ナ イ デ | ミ ナ カ ヘ | ラウ
-w: 2.~コ ト リ ガ | ユ メ ヲ _ | ミ ル コ ロ | ハ
-G2 E2 D2 C2 | D2 D2 C2 D2 | E2 G2 A2 G2 | c6 z2 |
-w: 1.~カ ラ ス ト | イ ッ ショ ニ | カ ヘ リ マ | セウ
-w: 2.~ソ ラ ニ ハ | キ ラ キ ラ | キ ン ノ ホ | シ
-```
+<div class="abc-score" data-abc-src="yuyake_koyake.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yuyake_koyake.abc)
 
 ## TMD 檔案連結
 

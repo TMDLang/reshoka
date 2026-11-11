@@ -57,21 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:助け船 救生船
-M:6/8
-L:1/16
-Q:3/8=48
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z2 z2 z2 z2 z2 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 | B4 B2 B2 c2 d2 |
-c6 c4 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 | B4 B2 A2 B2 c2 |
-B6 B4 B2 | c4 c2 c4 c2 | d4 d2 d4 d2 | e2 d2 d2 c4 B2 |
-c6 c4 F2 | d4 d2 d4 B2 | c4 B2 G2 F2 F2 | B4 B2 A2 B2 c2 |
-B6 B4 z2 |
-```
+<div class="abc-score" data-abc-src="tasukebune.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tasukebune.abc)
 
 ## TMD 檔案連結
 

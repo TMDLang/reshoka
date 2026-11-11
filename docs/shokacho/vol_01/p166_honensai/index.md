@@ -75,21 +75,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:豊年祭
-M:4/4
-L:1/16
-Q:1/4=120
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! E4 G3 F E4 B,4 | E4 G3 F E4 B,4 | E2 D2 E2 F2 G2 F2 G2 A2 | B4 A3 G F4 z4 |
-E4 G3 F E4 B,4 | E4 G3 F E4 B,4 | E2 D2 E2 F2 G2 F2 G2 A2 | B4 F3 G E4 z4 |
-!f! c12 e3 c | B12 c3 B | A12 B3 A | G8 F4 z4 |
-c12 e3 c | B12 c3 B | A12 B3 A | G8 E4 z4 |
-!mf! E4 G3 F E4 B,4 | E4 G3 F E4 B,4 | E2 D2 E2 F2 G2 F2 G2 A2 | B4 F3 G E4 z4 |
-```
+<div class="abc-score" data-abc-src="honensai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](honensai.abc)
 
 ## TMD 檔案連結
 

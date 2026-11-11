@@ -79,28 +79,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ひかうき（飛機）
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 G2 E2 C2 | G2 G2 E2 C2 | D3 E F2 A2 | G4 z4 |
-w: 1.~ヒ カ ウ キ | ヒ カ ウ キ | ア ヲ イ ソ | ラ
-w: 2.~ひ か う き | ひ か う き | ちゅ う が へ | り
-c3 c A2 A2 | G3 G E2 E2 | D3 D E2 E2 | D4 z4 |
-w: 1.~ポ ッ カ リ | ウ カ ン ダ | シ ロ イ ク | モ
-w: 2.~そ ら ま た | い っ き _ | ちゅ う が へ | り
-C3 D F2 G2 | A3 A G4 | c3 d c2 A2 | G4 z4 |
-w: 1.~ヒ ノ マ ル | ツ ケ タ | セ ン ト ウ | キ
-w: 2.~ば く お ん | ひ び く | あ を い そ | ら
-E4 G2 A2 | c3 c A2 G2 | A3 A G2 d2 | c4 z4 |
-w: 1.~ニ キ ガ | ワ ヲ カ ク | モ リ ノ ウ | ヘ
-w: 2.~ひ か る | プ ロ ペ ラ | ぎ ん の は | ね
-```
+<div class="abc-score" data-abc-src="hikoki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hikoki.abc)
 
 ## TMD 檔案連結
 

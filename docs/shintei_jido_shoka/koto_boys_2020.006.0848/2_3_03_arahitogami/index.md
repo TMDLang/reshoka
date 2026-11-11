@@ -59,21 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:現人神
-C:曲：アーン（英）（Arne）
-M:4/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 z2 D2 | G4 G4 G A B c d2 G2 | A6 c d B4 z2 D2 | G A B c G A B c d2 g2 f2 e2 |
-d2 e f g2 A2 d4 z2 A2 | !f! d2 B2 g2 e2 d2 ^c d e d c B | A4 E3 E D4 z4 | !mf! G4 D3 D G2 D2 z2 G2 |
-c3 c B2 G2 A4 z2 A2 | !f! d4 d3 d B d g c B2 A2 | G4 F4 G8 | !mf! d4 z2 d2 c2 B2 z2 c2 |
-d3 c B2 A2 G8 | !f! d4 g4 B d g c B2 A2 | G4 F4 G6 z2 |
-```
+<div class="abc-score" data-abc-src="arahitogami.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](arahitogami.abc)
 
 ## TMD 檔案連結
 

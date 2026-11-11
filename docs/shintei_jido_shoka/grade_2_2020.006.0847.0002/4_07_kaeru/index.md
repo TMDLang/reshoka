@@ -68,29 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:カヘル（青蛙）
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G4 A2 G2 | E2 D2 C2 C2 | D2 E D C4 | D2 E2 G2 z2 |
-w: 1.~ヒ ト ツ | ト ン デ ハ | リヤウ テ _ ヲ | ツ イ テ
-w: 2.~イ ケ ヘ | カ ヘ ツ テ | オ ヨ イ デ | ア ソ ブ
-A4 c2 A2 | G2 A2 G2 E2 | D2 C2 D2 G2 | E2 C2 C2 z2 |
-w: 1.~ナ ニ カ | カ ン ガ ヘ | カ ン ガ ヘ | ナ ガ ラ
-w: 2.~イ ケ ハ | ワ タ シ ノ | ウ マ レ タ | ト コ ロ
-c4 A2 G2 | c2 c2 A2 G2 | E4 E2 D2 | C2 D2 E2 G2 |
-w: 1.~カ ヘ ル | ド コ マ デ | カ ヘ ツ | テ ユ ク カ
-w: 2.~イ ケ ノ | ト モ ダ チ | オ ヨ ギ | ガ ジヤウ _ ヅ
-A4 c2 A2 | G2 A2 G2 E2 | D2 C2 D2 G2 | E2 C2 C2 z2 |
-w: 1.~カ ヘ ル | カ ヘ ツ テ | ナ ニ シ テ | ア ソ ブ
-w: 2.~イ ケ ヘ | カ ヘ ツ テ | ミ ン ナ ト | ア ソ ブ
-```
+<div class="abc-score" data-abc-src="kaeru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaeru.abc)
 
 ## TMD 檔案連結
 

@@ -76,26 +76,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:せみ（蟬）
-M:2/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F2 z2 C2 z2 | G2 z2 F2 z2 | c2 c2 c2 d2 | c2 c2 A2 z2 |
-w: 1.~ミン ミン | ミン ミン | ナ イ テ ル | セ ミ ハ
-w: 2.~ゐた ゐた | ゐた ゐた | お ほ ぜ み | こ ぜ み
-F3 A G2 F2 | D2 D2 D2 z2 | C3 D C2 F2 | G2 A2 F2 z2 |
-w: 1.~ア ノ キ ノ | ミ キ カ | コ ノ キ ノ | エ ダ カ
-w: 2.~こ の き の | え だ に | あ の き の | み き に
-A3 A G2 F2 | A2 G2 F2 D2 | C3 D C2 F2 | G2 A2 G2 z2 |
-w: ト ラ ウ ト | オ モッ タ ラ | ヒ ト コ エ | タ カ ク
-c4 c2 A2 | d2 d2 c2 z2 | A3 G c2 A2 | G2 G2 F2 z2 |
-w: ミ ン ト | ナ イ テ | ミ ナ ニ ゲ | テ ッ タ
-```
+<div class="abc-score" data-abc-src="semi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](semi.abc)
 
 ## TMD 檔案連結
 

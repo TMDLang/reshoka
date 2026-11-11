@@ -62,36 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:金魚屋さん
-M:4/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-V:V2 name="Vocal" snm="Voc"
-[V:V1]
-C8 D4 F4 | G6 G2 F4 G4 | A2 B2 A2 G2 c4 E4 | F12 z4 |
-z16 | z16 | z16 | z16 |
-z16 | z16 | z16 | z16 |
-z16 | z16 | z16 | z16 |
-z16 | z16 | z16 | z16 |
-[V:V2]
-z16 | z16 | z16 | z16 |
-C4 C4 D4 F4 | G6 G2 F4 G4 | A6 B2 A4 G4 | F4 G4 A4 z4 |
-w: 1.~な _ つ の | ひ ざ か り | あ つ さ の | さ か り
-w: 2.~だ る ま に | よ く に た | あ か ら ん | ちゆ う や
-c6 d2 c4 A4 | G4 G4 F4 D4 | C6 C2 D4 F4 | G12 z4 |
-w: 1.~す ず し い | こ ゑ し て | き ん ぎよ や | さん
-w: 2.~お か し い | お か ほ の | で め き ん | ぎよ
-A6 B2 A4 G4 | F4 F4 D4 D4 | C4 F4 G6 A2 | F12 z4 |
-w: 1.~だ ん だ ん | こ ち ら へ | よ ん で く | る
-w: 2.~め だ か も | な ら ん で | う い て ゐ | る
-C8 C8 | F8 F8 | C8 C8 | F8 F8 |
-w: 1.~きん ぎよや | きん ぎよ | きん ぎよや | きん ぎよ
-w: 2.~きん ぎよや | きん ぎよ | きん ぎよや | きん ぎよ
-```
+<div class="abc-score" data-abc-src="kingyoyasan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kingyoyasan.abc)
 
 ## TMD 檔案連結
 

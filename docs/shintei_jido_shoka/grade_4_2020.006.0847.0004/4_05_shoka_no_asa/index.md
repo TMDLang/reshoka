@@ -65,29 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:初夏の朝
-C:曲：佐々木英
-M:3/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G4 c4 d4 | e6 d2 c4 | A4 c4 A4 | G8 z4 |
-w: 1.~ユ メ ノ | ゴ ト ク | ア _ ハ | ク
-w: 2.~き _ ぎ | の は の | み _ ど | り
-G4 c4 d4 | e6 d2 c4 | d4 c4 B4 | c8 z4 |
-w: 1.~サ _ _ | ギ リ ニ | ネ ム レ | ル
-w: 2.~ひ _ _ | と し ほ | さ や け | き
-E4 G4 c4 | G6 A2 G4 | D4 E4 D4 | G8 z4 |
-w: 1.~ハ ツ ナ | ツ _ ノ | ア シ タ | ノ
-w: 2.~は つ な | つ _ の | あ し た | の
-G4 c4 d4 | e6 d2 c4 | d4 c4 B4 | c8 z4 |
-w: 1.~ケ _ _ | ハ ヒ ゾ | シ ヅ ケ | キ
-w: 2.~け _ _ | し き ぞ | ゆ か し | き
-```
+<div class="abc-score" data-abc-src="shoka_no_asa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shoka_no_asa.abc)
 
 ## TMD 檔案連結
 

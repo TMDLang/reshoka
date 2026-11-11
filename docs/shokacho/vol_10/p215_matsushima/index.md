@@ -57,21 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:松島 松島
-M:4/4
-L:1/16
-Q:1/4=126
-K:G
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z12 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G3 A | B4 B3 B d4 d3 B |
-A8 z4 G3 A | B4 A2 G2 A4 G3 E | D8 z4 G2 A2 | B4 A2 G2 A4 G3 =F |
-G8 z4 B3 c | d8 z4 d3 B | A8 z4 A3 B | c4 c3 c c4 B3 A |
-B8 z4 G3 B | d8 z4 B3 A | G8 z4 =F3 E | D4 G3 B A4 G3 =F |
-G12 z4 |
-```
+<div class="abc-score" data-abc-src="matsushima.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](matsushima.abc)
 
 ## TMD 檔案連結
 

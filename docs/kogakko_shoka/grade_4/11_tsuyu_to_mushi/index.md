@@ -67,34 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:つゆと虫
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 C2 F2 G2 | A2 z2 A2 z2 | z2 c2 A2 F2 | G2 z2 G2 z2 |
-w: 1.~ツ ユ ガ | チ ル | ツ ユ ガ | チ ル
-w: 2.~む し が | な く | む し が | な く
-z2 F2 G2 A2 | c2 c2 A2 c2 | d2 c2 A2 F2 | G6 z2 |
-w: 1.~ツ キ ノ | ヒ カ リ ノ | テ ル ニ ハ | ニ
-w: 2.~つ き の | ひ か り の | て る に は | に
-!f! c2 A2 G2 F2 | A2 G2 F2 D2 | C2 C2 D2 F2 | G6 z2 |
-w: 1.~キ ラ キ ラ | キ _ ラ ト | ツ ユ ガ チ | ル
-w: 2.~こ _ ろ ろ | こ ろ ろ と | む し が な | く
-A2 G2 c2 A2 | d2 c2 A4 | G2 G2 A2 F2 | D6 z2 |
-w: 1.~サ ヤ サ ヤ | ユ レ ル | ハ カ ゲ デ | ハ
-w: 2.~さ や さ や | ゆ れ る | は ず ゑ か | ら
-!mp! C4 D2 C2 | F2 F2 D2 F2 | G2 G2 F2 A2 | G6 z2 |
-w: 1.~ツ ユ ノ | チ ル ノ ガ | ウ レ シ イ | カ
-w: 2.~む し の | な く の が | う れ し い | か
-!mf! c2 A2 G2 F2 | A2 G2 F2 D2 | C2 C2 D2 G2 | F6 z2 |
-w: 1.~コ _ ロ ロ | コ ロ ロ ト | ム シ ガ ナ | ク
-w: 2.~き ら き ら | き _ ら と | つ ゆ が ち | る
-```
+<div class="abc-score" data-abc-src="tsuyu_to_mushi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsuyu_to_mushi.abc)
 
 ## TMD 檔案連結
 

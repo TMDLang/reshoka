@@ -59,24 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:星と花（星與花）
-M:3/4
-L:1/16
-Q:1/4=80
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! G8 A4 | B4 A4 G4 | E8 G4 | d8 d4 |
-G8 A4 | B8 d4 | A12 | A8 z4 |
-G8 A4 | B4 A4 G4 | E8 G4 | d8 d4 |
-G4 A4 B4 | d8 A2 B2 | G12 | G8 z4 |
-c8 c4 | e8 e4 | d4 ^c4 d4 | A12 |
-G8 A4 | B4 A4 G4 | d12 | d8 z4 |
-e8 e4 | c8 c4 | d4 ^c4 d4 | A12 |
-G4 A4 B4 | d8 A2 B2 | G12 | G8 z4 |
-```
+<div class="abc-score" data-abc-src="hoshi_to_hana.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hoshi_to_hana.abc)
 
 ## TMD 檔案連結
 

@@ -86,22 +86,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:アハテ床屋
-M:2/4
-L:1/16
-Q:1/4=112
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A4 A2 A2 | A B A2 G2 F2 | E E D D E2 F2 | A6 z2 |
-A4 A2 A2 | A B A2 G2 F2 | A A F E D2 E2 | D6 z2 |
-d2 A A d2 A A | d2 A2 d2 z2 | !p! d2 A2 A2 F2 | A2 E F D4 |
-!mf! A4 A2 A2 | A B A2 G2 F2 | E E D D E2 F2 | A6 z2 |
-A4 A2 A2 | A B A2 G2 F2 | A A F E D2 E2 | D6 z2 |
-d2 A A d2 A A | d2 A2 d2 z2 | !p! d2 A2 A2 F2 | A2 E F D4 |
-```
+<div class="abc-score" data-abc-src="awate_tokoya.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](awate_tokoya.abc)
 
 ## TMD 檔案連結
 

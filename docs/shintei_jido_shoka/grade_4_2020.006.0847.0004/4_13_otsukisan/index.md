@@ -60,27 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:お月さん
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=108
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-e4 B2 B2 B8 | B4 A2 G2 B4 z4 | E4 F2 G2 F4 E4 | B,12 z4 |
-w: お つ き さん | そ ら _ の | ひ と _ り た | び
-!mf! B,4 E4 F4 G4 | E4 F4 G4 A4 | B4 c4 c4 A4 | B12 z4 |
-w: お な か が | す い て は | あ る け ま | い
-e4 B2 B2 B8 | B4 A2 G2 B4 z4 | !p! E4 F2 G2 F4 E4 | B,12 z4 |
-w: お つ き さん | ま へ _ に | い わ _ し ぐ | も
-!mf! E4 B,2 B,2 B,8 | E4 F4 G4 A4 | B4 c4 c4 A4 | B12 z4 |
-w: お つ き さん | よ _ こ に | と び の う | を
-B,4 E4 F4 G4 | E4 F4 G4 A4 | B4 c4 c4 B4 | e12 z4 |
-w: お な か が | す い た ら | め し あ が | れ
-```
+<div class="abc-score" data-abc-src="otsukisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](otsukisan.abc)
 
 ## TMD 檔案連結
 

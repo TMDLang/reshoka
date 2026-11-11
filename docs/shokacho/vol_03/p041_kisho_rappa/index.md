@@ -47,24 +47,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:起床喇叭・點呼喇叭・消燈喇叭
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z2 G2 | c G c2 c G c2 | e c e c c G c2 | G c c2 c e c2 |
-c3 e c2 e2 | e e e2 e e e2 | g e g e g e g e | c e c2 G G G2 |
-c6 z2 | z4 z2 G G | c2 G G c2 G G | c2 c2 c2 e2 |
-g g g2 g2 g2 | e e e2 g2 e2 | c4 z2 c e | c4 z2 G G |
-c2 G G c2 G G | c2 c2 c2 e2 | g g g2 g2 g2 | e e e2 g2 e2 |
-c4 z2 c e | c4 z4 | !mf! c2 c2 c2 c2 | c2 e2 c2 e2 |
-g8 | !p! g4 z4 | !mf! g e g e g2 e2 | c2 e2 c2 G2 |
-c8 | !pp! c4 z4 |
-```
+<div class="abc-score" data-abc-src="kisho_rappa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kisho_rappa.abc)
 
 ## TMD 檔案連結
 

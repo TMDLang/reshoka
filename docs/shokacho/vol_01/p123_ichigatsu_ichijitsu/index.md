@@ -59,29 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:一月一日
-C:曲：上眞行
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-A8 B4 A4 | F6 E2 D4 D4 | E4 E4 A6 G2 | F12 z4 |
-w: 1.~ト シ ノ | ハ ジ メ ノ | タ メ シ ト | テ
-w: 2.~は ひ の | ひ _ か り | さ し い で | て
-A8 B4 A4 | F6 E2 D4 D4 | E4 E4 F6 E2 | D12 z4 |
-w: 1.~ヲ ハ リ | ナ キ ヨ ノ | メ デ タ サ | ヲ
-w: 2.~よ も に | か が や く | け さ の そ | ら
-d4 d4 d4 B4 | d8 A4 A4 | B4 B4 A6 G2 | F12 z4 |
-w: 1.~マ ツ タ ケ | タ テ テ | カ ド ゴ ト | ニ
-w: 2.~き _ み が | み げ に | た ぐ へ つ | つ
-A8 B4 A4 | d6 B2 A4 G4 | F4 A4 G6 E2 | D12 z4 |
-w: 1.~イ ハ フ | ケ フ コ ソ | タ ノ シ ケ | レ
-w: 2.~あ ふ ぎ | み る こ そ | た ふ と け | れ
-```
+<div class="abc-score" data-abc-src="ichigatsu_ichijitsu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ichigatsu_ichijitsu.abc)
 
 ## TMD 檔案連結
 

@@ -65,29 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:夏の歌
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! G2 B2 A2 G2 | E2 G2 D4 | G2 A2 B2 G2 | A6 z2 |
-w: 1.~あ か き は | の べ の | ゆ り の は | な
-w: 2.~あ を た に | つ づ く | は す い け | の
-B2 d2 c2 B2 | A2 G2 A4 | B3 c B2 A2 | G6 z2 |
-w: 1.~き な る は | は た の | う り の は | な
-w: 2.~は な ふ く | か ぜ も | か ん ば し | く
-!f! d2 e2 d2 B2 | d2 e2 d2 z2 | !mf! B4 c2 B2 | A2 G2 A2 z2 |
-w: 1.~ほ た る の | じ せ つ | や や _ | す ぎ て
-w: 2.~ゆ ふ べ に | な れ ば | ひ ぐ _ | ら し の
-B2 B2 A2 G2 | E2 G2 D4 | G4 A2 D2 | B2 A2 G2 z2 |
-w: 1.~な く せ み | も り に | こ ゑ _ | た か し
-w: 2.~す ず し き | こ ゑ は | を ち _ | こ ち に
-```
+<div class="abc-score" data-abc-src="natsu_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](natsu_no_uta.abc)
 
 ## TMD 檔案連結
 

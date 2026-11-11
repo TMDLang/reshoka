@@ -73,28 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:水牛
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 C2 F2 G2 | A2 A2 G2 F2 | A2 A2 G2 F2 | G2 G2 G2 z2 |
-w: 1.~や ま の | ふ も と の | あ を く さ | は ら に
-w: 2.~も り の | し げ つ た | お ほ き な | い け に
-c4 A2 G2 | c3 c A2 G2 | F2 F2 G2 G2 | A6 z2 |
-w: 1.~の そ り | の そ り と | す ゐ ぎ う | が
-w: 2.~つ の を | う か べ て | す ゐ ぎ う | が
-z2 A2 c2 c2 | d2 d2 c2 c2 | A2 A2 c2 c2 | A2 G2 F2 z2 |
-w: 1.~く さ を | た べ て る | せ な か の | う へ を
-w: 2.~そ ら を | み て ゐ る | あ た ま の | う へ を
-G2 G2 A2 A2 | F2 F2 D2 D2 | C2 z2 G3 A | F6 z2 |
-w: 1.~お お ち う | に さ ん ば | バツ バ ツ | バ
-w: 2.~し ら さ ぎ | に さ ん ば | ばつ ば つ | ば
-```
+<div class="abc-score" data-abc-src="suigyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](suigyu.abc)
 
 ## TMD 檔案連結
 

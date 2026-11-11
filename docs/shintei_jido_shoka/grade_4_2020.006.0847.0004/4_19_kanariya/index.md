@@ -75,45 +75,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:かなりや
-C:曲：成田爲三／詞：西條八十
-M:2/4
-L:1/16
-Q:1/4=80
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! E3 G A2 G2 | C3 C C2 C2 | D2 D2 E2 G2 | E4 z4 |
-w: ウ _ タ ヲ | ワ ス レ タ | カ ナ リ ヤ | ハ
-A2 A2 G2 A2 | c2 d2 e2 e2 | G2 G2 A2 c2 | A4 z4 |
-w: ウ シ ロ ノ | ヤ _ マ ニ | ス テ マ ショ | カ
-c2 e2 d2 e2 | G2 G2 G4 | E2 E2 G2 A2 | G4 z4 |
-w: イ エ イ エ | ソ レ ハ | ナ リ マ セ | ヌ
-E3 G A2 G2 | C3 C C2 C2 | D2 D2 E2 G2 | E4 z4 |
-w: う _ た を | わ す れ た | か な り や | は
-A2 A2 G2 A2 | c2 d2 e2 e2 | G2 G2 A2 c2 | A4 z4 |
-w: せ _ ど の | こ や ぶ に | う め ま しょ | か
-c2 e2 d2 e2 | G2 G2 G4 | E2 E2 G2 A2 | G4 z4 |
-w: い え い え | そ れ も | な り ま せ | ぬ
-E3 G A2 G2 | C3 C C2 C2 | D2 D2 E2 G2 | E4 z4 |
-w: ウ _ タ ヲ | ワ ス レ タ | カ ナ リ ヤ | ハ
-A2 A2 G2 A2 | c2 d2 e2 e2 | G2 G2 A2 c2 | A4 z4 |
-w: ヤ ナ ギ ノ | ム _ チ デ | ブ チ マ ショ | カ
-c2 e2 d2 e2 | G2 G2 G4 | E2 E2 D2 G2 | [M:3/8] [Q:1/8=240] C4 z2 |
-w: イ エ イ エ | ソ レ ハ | カ ハ イ サ | ウ
-z6 | A G c2 A2 | A G E2 G2 | A c d2 e2 |
-w: ウ _ タ ヲ | ワ ス レ タ | カ ナ リ ヤ
-G4 z2 | C D E2 G2 | A G c2 E2 | G G E2 E2 |
-w: ハ | ザ ウ ゲ ノ | フ _ ネ ニ | ギ ン ノ カ
-C4 z2 | c d e2 e2 | A2 G2 G2 | [Q:1/8=200] A A c2 d2 |
-w: イ | ツ キ ヨ ノ | ウ ミ ニ | ウ カ ベ レ
-[Q:1/8=170] e2 e2 z2 | [Q:1/8=240] A A G2 A2 | c A G2 E2 | G G E2 E2 |
-w: バ _ | ワ ス レ タ | ウ _ タ ヲ | オ モ ヒ ダ
-C4 z2 |
-w: ス
-```
+<div class="abc-score" data-abc-src="kanariya.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kanariya.abc)
 
 ## TMD 檔案連結
 

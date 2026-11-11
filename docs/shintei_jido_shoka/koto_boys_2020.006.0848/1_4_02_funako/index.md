@@ -59,22 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:船子
-M:6/8
-L:1/16
-Q:3/8=45
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! D6 D6 | D4 E2 F6 | !mf! F4 F2 F4 G2 | A6 A6 |
-w: 1.~ヤ ヨ | フ ナ コ | コ ゲ フ ネ | ヲ ー
-w: 2.~シ ホ | ミ チ テ | カ ゼ ナ ギ | ヌ ー
-!f! d2 d2 d2 A2 A2 A2 | F2 F2 F2 D2 D2 D2 | !mf! A4 G2 F4 E2 | D6 D6 |
-w: 1.~コ ゲ ヨ コ ゲ ヨ | コ ゲ ヨ コ ゲ ヨ | ヤ ヨ フ ナ | コ ー
-w: 2.~コ ゲ ヨ コ ゲ ヨ | コ ゲ ヨ コ ゲ ヨ | ヤ ヨ フ ナ | コ ー
-```
+<div class="abc-score" data-abc-src="funako.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](funako.abc)
 
 ## TMD 檔案連結
 

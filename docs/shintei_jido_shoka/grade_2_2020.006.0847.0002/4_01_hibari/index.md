@@ -74,25 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ヒバリ（雲雀）
-C:曲：山田耕作
-M:2/4
-L:1/16
-Q:1/4=88
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c2 A A c2 A A | F2 D D F2 D D | C2 F F A2 F F | G4 c2 z2 |
-w: 1.~チイ チ ク チイ チ ク | ピイ グ ル ピイ グ ル | チイ チ ク チイ チ ク | チイ チ
-w: 2.~チイ チ ク チイ チ ク | ピイ グ ル ピイ グ ル | チイ チ ク チイ チ ク | チイ チ
-w: 3.~チイ チ ク チイ チ ク | ピイ グ ル ピイ グ ル | チイ チ ク チイ チ ク | チイ チ
-!f! c3 c d3 d | c2 c2 A2 F2 | !p! G2 F F A2 G2 | F6 z2 |
-w: 1.~ヒ バ リ ハ | ナ キ ダ ス | ム ギ _ バ タ | ケ
-w: 2.~タ カ ク ノ | ボ ツ タ _ | ア ヲ _ テ ン | ジヤウ
-w: 3.~ハ タ ケ ニ | オ リ テ _ | ヒ ガ _ ク レ | ル
-```
+<div class="abc-score" data-abc-src="hibari.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hibari.abc)
 
 ## TMD 檔案連結
 

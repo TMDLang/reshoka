@@ -76,29 +76,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:航海
-C:曲：山田耕作
-M:2/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! G3 G G2 E2 | D3 D D2 z2 | C3 D E2 G2 | A4 z4 |
-w: 1.~イ カ リ ヲ | ア ゲ テ | フ ナ デ ス | ル
-w: 2.~ひ _ す ゐ | へ い に | あ る と き | は
-!f! c3 d c2 A2 | G3 G E2 z2 | G2 A G E2 D2 | C4 z4 |
-w: 1.~ア ア カ ウ | カ イ ノ | タ ノ _ シ サ | ヨ
-w: 2.~た ち ま ち | う み は | き ん _ と な | り
-!mp! D3 D D2 D2 | E2 F2 G2 z2 | A6 A2 | G2 A2 c2 z2 |
-w: 1.~ミ ナ ト ハ | ア ト ニ | キ エ | ユ キ テ
-w: 2.~つ き て ん | し ん に | か が | や け ば
-!f! d3 c A2 G F | G4 c2 A2 | G2 A c d2 A G | c4 z4 |
-w: 1.~タ ダ ミ ル _ | ア ヲ イ | ミ ヅ _ バ カ _ | リ
-w: 2.~た ち ま ち _ | う み は | ぎ ん _ と な _ | る
-```
+<div class="abc-score" data-abc-src="kokai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kokai.abc)
 
 ## TMD 檔案連結
 

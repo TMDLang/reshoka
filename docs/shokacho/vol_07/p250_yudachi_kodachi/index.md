@@ -50,20 +50,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:夕立小立 陣雨
-M:2/4
-L:1/16
-Q:1/4=112
-K:E
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z4 z2 E E | E3 B, E2 F2 | G4 B2 B2 | e3 c c4 |
-c4 z2 B B | e3 d c3 B | G4 F2 G2 | B2 G F E4 |
-E4 z2 B B | E2 G2 B2 e2 | c4 B4 | z2 F G B,3 B, |
-E4 z4 |
-```
+<div class="abc-score" data-abc-src="yudachi_kodachi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yudachi_kodachi.abc)
 
 ## TMD 檔案連結
 

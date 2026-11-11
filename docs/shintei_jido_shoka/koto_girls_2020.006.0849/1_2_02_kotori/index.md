@@ -63,20 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:小鳥
-M:3/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D3 D D4 D4 | G3 A B4 A4 | G3 E D4 G4 | D3 D D3 D G2 A2 |
-B3 A G4 A4 | B3 B A4 d4 | B3 A G4 E4 | D3 G A4 z4 |
-B3 B A4 d4 | B3 A G4 E4 | D3 G F3 E D3 z | !p! D3 D E3 E F2 F2 |
-G3 G A4 B4 | A3 B c4 A4 | !f! d3 B G4 E2 A2 | G3 F A3 G G3 z |
-```
+<div class="abc-score" data-abc-src="kotori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kotori.abc)
 
 ## TMD 檔案連結
 

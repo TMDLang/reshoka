@@ -73,32 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:岩戸開きの曲
-M:1/4
-L:1/16
-Q:1/4=96
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! A4 | A4 | A4 | c3 B |
-A2 B2 | c4 | B2 c2 | e4 |
-B4 | B2 ^A2 | B2 c2- | c2 z2 |
-A4 | A4 | A4 | c3 B |
-A2 B2 | F4 | A2 B2 | c4- |
-c2 B2 | A2 F2 | E2 F2- | F2 z2 |
-E4 | E4 | F4 | A4- |
-A2 B2 | A4 | F4 | B4- |
-B2 c2 | c2 B2 | A4 | e4 |
-c4 | e4 | c2 B2 | A4- |
-A4- | A4 | A4 | c4 |
-G4 | A4 | F4- | F4 |
-F2 F2 | E2 F2 | A4- | A4 |
-A2 A2 | B2 A2 | F4 | D4 |
-E4 | A2 B2 | A4- | A4- |
-A4 | A4 |
-```
+<div class="abc-score" data-abc-src="iwato_biraki_no_kyoku.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](iwato_biraki_no_kyoku.abc)
 
 ## TMD 檔案連結
 

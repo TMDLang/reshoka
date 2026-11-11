@@ -56,28 +56,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:朝起
-M:4/4
-L:1/16
-Q:1/4=144
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! c4 d2 c2 c4 A4 | A4 G2 F2 G4 z4 | F4 G2 F2 C4 A,4 | C4 F2 G2 G4 z4 |
-w: 1.~オ キ _ ヨ ト | ヒ ト _ ニ | ヨ バ _ レ ヌ | サ キ _ ニ
-w: 2.~あ さ _ ひ の | ひ か _ り | さ し _ で ぬ | さ き _ に
-c4 d2 c2 c4 A4 | A4 G2 F2 G4 z4 | C4 F2 G2 A4 G4 | F12 z4 |
-w: 1.~ト ク _ ト ク | オ キ _ ヨ | ハ ネ _ オ キ | ヨ
-w: 2.~と く _ と く | お き _ よ | は ね _ お き | よ
-!f! c4 A2 B2 c4 A2 B2 | c4 d4 c4 z4 | !mf! c4 d2 c2 c4 A4 | A4 G2 F2 G4 z4 |
-w: 1.~ア サ _ カ ゼ _ | キ ヨ ク | ワ タ _ レ ル | エ ダ _ ニ
-w: 2.~ひ た _ く る _ | ま で も | お き _ で ぬ | も の _ は
-F4 G2 F2 C4 A,4 | F4 G2 A2 G4 z4 | c4 F2 G2 A4 G4 | F12 z4 |
-w: 1.~ナ ク _ ト リ | ノ ネ _ モ | オ モ _ シ ロ | シ
-w: 2.~と り _ に も | お と _ る | ひ と _ な ら | む
-```
+<div class="abc-score" data-abc-src="asaoki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](asaoki.abc)
 
 ## TMD 檔案連結
 

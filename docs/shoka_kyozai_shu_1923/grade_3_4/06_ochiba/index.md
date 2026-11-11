@@ -70,32 +70,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:落葉
-M:2/4
-L:1/16
-Q:1/4=88
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! e z a z g z z2 | !p! E z A z G z z2 | G A F G E F D E | !p! C4 z4 |
-!mf! E A G2 z4 | !p! E A G2 z4 | !mf! E G3 D E3 | !p! C D3 z4 |
-w: 1.~ヒ ラ リ | ヒ ラ リ | ひ ら ひ ら | ひ ら
-w: 2.~く る り | く る り | ク ル ク ル | ク ル
-!mp! C4 D2 E2 | G3 G A2 A2 | G2 E2 D2 E2 | C4 z4 |
-w: 1.~カ ゼ ト | イツ シヨ ニ _ | ハ ガ オ チ | ル
-w: 2.~か ぜ に | ふ か れ て | は が お ち | る
-!f! c3 c d2 c2 | A2 c2 G4 | A4 c2 G2 | G2 E2 G2 z2 |
-w: 1.~キ イ ロ イ | イ ロ ヤ | ア ヲ _ | イ ノ ガ
-w: 2.~き い ろ い | い ろ や | あ か _ | い の が
-!mf! A3 A c2 c2 | G3 G E4 | D3 D E2 G2 | D4 z4 |
-w: 1.~ハ ナ マ ウ | セ ン ヲ | シ イ タ ヤウ | ニ
-w: 2.~ご し き の | な み の | う ね る やう | に
-!p! C3 D E2 F2 | G3 G A4 | G3 G D2 E2 | C4 z4 |
-w: 1.~ニ ハ イ チ | メ ン ニ | チ ツ テ ヰ | ル
-w: 2.~も り い ち | め ん に | と ん で ゐ | る
-```
+<div class="abc-score" data-abc-src="ochiba.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ochiba.abc)
 
 ## TMD 檔案連結
 

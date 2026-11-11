@@ -62,22 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:凱旋
-M:4/8
-L:1/16
-Q:1/8=168
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D2 D3 E F2 | G2 A2 B2 z2 | d3 e d2 B2 | c2 B2 A2 z2 |
-B3 A G2 B2 | A4 F2 D2 | E2 F G A2 G F | d4 z4 |
-F2 G A B2 A G | A2 B c d2 z2 | G2 A B c2 B A | G2 F E D2 z2 |
-d3 e d c B A | G3 A B2 c2 | d2 B2 G2 E2 | D G B A G2 z2 |
-d3 e d c B A | G3 A B2 c2 | d2 B2 G2 E2 | D G B A G2 D2 |
-G3 A B2 c B | G6 z2 |
-```
+<div class="abc-score" data-abc-src="gaisen.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gaisen.abc)
 
 ## TMD 檔案連結
 

@@ -66,25 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:軍艦マーチ
-C:曲：瀨戶口藤吉
-M:2/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! D2 D D G2 A2 | B2 G G d2 B2 | A2 B A G2 E2 | D4 z4 |
-D2 G A B2 d2 | e2 d2 B2 G2 | A2 D2 A2 B2 | G4 z4 |
-D2 G A B2 d2 | e2 d2 B2 G2 | A3 B A2 E2 | A4 z4 |
-f3 e f2 d2 | e3 d B2 G2 | A3 B c2 A2 | B2 z D D2 D2 |
-B8 | B2 E2 F2 G2 | A8 | A2 D2 E2 F2 |
-G6 A2 | B8 | B2 z B B2 ^c2 | d4 e3 d |
-c4 B4 | B2 z D A3 G | E8 | d6 F2 |
-G8 | G2 z2 z4 |
-```
+<div class="abc-score" data-abc-src="gunkan_machi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gunkan_machi.abc)
 
 ## TMD 檔案連結
 

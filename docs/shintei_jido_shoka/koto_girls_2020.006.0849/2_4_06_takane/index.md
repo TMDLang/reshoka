@@ -56,35 +56,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:高嶺
-M:4/4
-L:1/16
-Q:1/4=160
-K:G
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-V:V3 name="Part3" snm="Par"
-[V:V1]
-!mf! B8 B8 | E4 D4 E4 F4 | G8 F8 | E16 |
-F8 F8 | G4 F4 G4 A4 | F8 E4 F4 | G16 |
-A8 A8 | G8 F4 G4 | A8 F8 | G8 E8 |
-A8 A8 | B8 A8 | G4 F4 E4 G4 | A8 F8 |
-E8 F8 | G8 A4 G4 | F8 E8 | E16 |
-[V:V2]
-!mf! B8 B8 | E4 D4 E4 F4 | E8 D8 | C16 |
-D8 D8 | E8 E8 | D8 C8 | G16 |
-F8 F8 | E8 D8 | E8 D8 | E8 C8 |
-F8 F8 | E8 F8 | E8 E8 | F8 ^D8 |
-E8 D8 | E8 C8 | D8 C8 | E16 |
-[V:V3]
-!mf! E8 E8 | E4 D4 E4 F4 | B,8 B,8 | E16 |
-E8 D8 | C8 C8 | D8 D8 | E16 |
-D8 D8 | B,8 B,8 | C8 D8 | E16 |
-D8 D8 | C8 D8 | B,8 C8 | B,16 |
-E8 B,8 | E8 C8 | B,8 B,8 | E16 |
-```
+<div class="abc-score" data-abc-src="takane.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](takane.abc)
 
 ## TMD 檔案連結
 

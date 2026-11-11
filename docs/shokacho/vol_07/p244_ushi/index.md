@@ -53,20 +53,9 @@ Key: ヘ調 (F major), Time: 2/4, Tempo: 爽快ニ
 
 ## ABC
 
-```abc
-X:1
-T:牛（牛）
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-C3 F F2 F2 | A3 G F4 | !mf! C3 D C3 A, | F2 G2 A4 |
-c3 c c3 A | G3 G F4 | G3 F G2 A2 | c3 c F4 |
-c4 c3 c | d3 d d4 | c3 A G2 F2 | G3 G G4 |
-!mf! A4 A3 A | F3 F F4 | G2 G2 G3 G | C2 C2 C2 z2 |
-```
+<div class="abc-score" data-abc-src="ushi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ushi.abc)
 
 ## TMD 檔案連結
 

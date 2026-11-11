@@ -68,31 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:めくら鬼
-M:4/4
-L:1/16
-Q:1/4=108
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A3 A B2 B2 A4 z4 | F3 F A2 A2 F4 z4 | F3 E D2 E2 F4 z4 | D2 D2 D2 D2 E2 E2 F2 F2 |
-w: 1.~あ か お に さ | あ を お に さ | ど こ へ ゆ く | う ろ う ろ た づ ね て
-w: 2.~あ か お に さ | あ を お に さ | な に を す る | ま ご ま ご あ る い て
-B3 B A2 F2 A4 z4 | d3 d A3 A B2 B2 A4 | F3 F E3 F B2 B2 A4 | d3 d A3 A B2 B2 A2 F2 |
-w: 1.~ど こ へ ゆ く | こつ ち に _ お い で | こつ ち に _ お い で | そつ ち に _ あ る け ば
-w: 2.~な に を す る | て の な る は う へ | て の な る は う へ | て の な る は う へ は
-E2 E2 F3 E D4 z4 | A3 A B2 B2 A4 z4 | F3 F A2 A2 F4 z4 | F3 E D2 E2 F4 z4 |
-w: 1.~い ぬ が ゐ る | あ か お に さ | あ を お に さ | ど こ へ ゆ く
-w: 2.~ひ と が ゐ る | あ か お に さ | あ を お に さ | な に を す る
-D2 D2 D2 D2 E2 E2 F2 F2 | B3 B A2 F2 A4 z4 | d3 d A3 A B2 B2 A4 | F3 F E3 F B2 B2 A4 |
-w: 1.~う ろ う ろ た づ ね て | ど こ へ ゆ く | こつ ち に _ お い で | こつ ち に _ お い で
-w: 2.~ま ご ま ご あ る い て | な に を す る | て の な る は う へ | て の な る は う へ
-d3 d A3 A B2 B2 A2 F2 | E2 E2 F3 E D4 z4 |
-w: 1.~そつ ち に _ あ る け ば | い ぬ が ゐ る
-w: 2.~て の な る は う へ は | ひ と が ゐ る
-```
+<div class="abc-score" data-abc-src="mekura_oni.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mekura_oni.abc)
 
 ## TMD 檔案連結
 

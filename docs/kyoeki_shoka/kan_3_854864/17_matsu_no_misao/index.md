@@ -67,31 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:松の操
-M:6/8
-L:1/16
-Q:3/8=38
-K:G
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-!mp! z2 z2 z2 z2 z2 D2 | B4 A2 G2 F2 G2 | A6 D4 D2 | G4 G2 A4 A2 |
-w: 1.~き | し の ひ _ め | ま つ よ | わ _ く と
-w: 2.~み | ね の わ _ か | ま つ ひ | く _ く と
-!mf! B10 D2 | B4 A2 G2 F2 E2 | D6 G4 G2 | A4 A2 B4 A2 |
-w: 1.~も か | は ら ぬ _ い | ろ は ち | よ _ に み
-w: 2.~も し | ら べ は _ た | か し ち | り _ の そ
-!mf! G10 D2 | d4 c2 B2 A2 B2 | !p! c6 e4 d2 | d4 e2 d4 ^c2 |
-w: 1.~ん あ | ら し は _ げ | し く ふ | か _ ば ふ
-w: 2.~と み | ゆ き は _ げ | し く ふ | ら _ ば ふ
-!mf! d10 D2 | B4 A2 G2 F2 G2 | !mp! A6 D4 D2 | A4 A2 A4 B2 |
-w: 1.~け あ | だ な る _ は | な に な | ら _ は ん
-w: 2.~れ ち | る も み _ ぢ | ば に な | ら _ は ん
-G10 z2 |
-w: 1.~や
-w: 2.~や
-```
+<div class="abc-score" data-abc-src="matsu_no_misao.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](matsu_no_misao.abc)
 
 ## TMD 檔案連結
 

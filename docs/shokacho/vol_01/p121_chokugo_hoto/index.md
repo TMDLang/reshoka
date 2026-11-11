@@ -57,41 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:勅語奉答
-C:曲：小山作之助
-M:4/4
-L:1/16
-Q:1/4=84
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!p! D8 E4 F4 | B6 B2 A4 E4 | F4 G4 G4 F4 | F8 E4 z4 |
-w: ア ヤ ニ | カ シ コ キ | ス メ ラ ギ | ノ _
-D8 E4 F4 | B6 B2 A4 E4 | F4 A4 c4 B4 | A12 z4 |
-w: ア ヤ ニ | タ フ ト キ | ス メ ラ ギ | ノ
-!f! d8 c4 B4 | A4 A4 G4 F4 | E4 F4 G4 A4 | G8 F4 z4 |
-w: ア ヤ ニ | タ フ ト ク | カ シ コ ク | モ _
-d8 c4 B4 | A4 A4 G4 F4 | B4 G4 F4 E4 | D12 z4 |
-w: ク ダ シ | タ マ ヘ リ | オ ホ ミ コ | ト
-!p! E8 E4 E4 | A4 G4 F4 E4 | G4 F4 E4 D4 | F8 E4 z4 |
-w: コ レ ゾ | メ デ タ キ | ヒ ノ モ ト | ノ _
-!mp! A8 A4 A4 | B4 A4 G4 F4 | A4 A4 G4 F4 | E12 z4 |
-w: ク ニ ノ | ヲ シ ヘ ノ | モ ト ヰ ナ | ル
-!p! E8 E4 E4 | A4 G4 F4 E4 | G4 F4 E4 D4 | F8 E4 z4 |
-w: コ レ ゾ | メ デ タ キ | ヒ ノ モ ト | ノ _
-!mp! A8 A4 A4 | B4 A4 G4 F4 | A4 A4 G4 F4 | E12 z4 |
-w: ヒ ト ノ | ヲ シ ヘ ノ | カ ガ ミ ナ | ル
-!mf! D8 E4 F4 | B6 B2 A4 E4 | F4 G4 G4 F4 | F8 E4 z4 |
-w: ア ヤ ニ | カ シ コ キ | ス メ ラ ギ | ノ _
-D8 E4 F4 | B6 B2 A4 E4 | F4 A4 c4 B4 | A12 z4 |
-w: ミ コ ト | ノ マ マ ニ | イ ソ シ ミ | テ
-!ff! d8 c4 B4 | A4 A4 G4 F4 | E4 F4 G4 A4 | G8 F4 z4 |
-w: ア ヤ ニ | タ フ ト キ | ス メ ラ ギ | ノ _
-d8 c4 B4 | A4 A4 G4 F4 | E2 F2 G4 A2 B2 c4 | d12 z4 |
-w: オ ホ ミ | コ コ ロ ニ | コ _ タ ヘ マ ツ | ラ
-```
+<div class="abc-score" data-abc-src="chokugo_hoto.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](chokugo_hoto.abc)
 
 ## TMD 檔案連結
 

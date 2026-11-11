@@ -62,20 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:集會
-M:4/4
-L:1/16
-Q:1/4=138
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! G4 A2 B2 G4 A2 B2 | c4 B2 A2 G4 z4 | B4 c2 d2 e4 z4 | A4 B2 A2 G4 z4 |
-D4 E2 F2 G4 A2 B2 | c4 B2 A2 B4 z4 | c4 B2 A2 G4 F2 E2 | D12 z4 |
-!f! d2 B2 G2 B2 d4 B2 G2 | E2 G2 A4 B2 A2 z4 | D2 E2 F2 G2 A4 B2 c2 | B2 A2 G4 A2 F2 z4 |
-!mf! G4 A2 B2 G4 A2 B2 | c4 d2 c2 B4 z4 | c4 B2 A2 G4 F2 A2 | G12 z4 |
-```
+<div class="abc-score" data-abc-src="shukai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shukai.abc)
 
 ## TMD 檔案連結
 

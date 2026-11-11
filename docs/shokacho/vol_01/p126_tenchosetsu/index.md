@@ -54,29 +54,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:天長節
-C:曲：奥好義
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-F8 E4 D4 | G6 G2 F4 E4 | A6 A2 B4 G4 | F8 E4 z4 |
-w: 1.~ケ フ ノ | ヨ キ ヒ ハ | オ ホ ギ ミ | ノ _
-w: 2.~け ふ の | よ き ひ は | み ひ か り | の _
-G8 F4 B4 | A4 A4 D4 G4 | F4 F4 E6 D2 | D12 z4 |
-w: 1.~ウ マ レ | タ マ ヒ シ | ヨ キ ヒ ナ | リ
-w: 2.~さ し で | た ま ひ し | よ き ひ な | り
-G8 F4 E4 | F6 F2 F4 A4 | B6 d2 c4 B4 | A12 z4 |
-w: 1.~ヒ カ リ | ア マ ネ キ | キ ミ ガ ヨ | ヲ
-w: 2.~め ぐ み | あ ま ね き | き み が よ | を
-d8 c4 B4 | A4 A4 B4 G4 | F4 A4 G6 E2 | D12 z4 |
-w: 1.~イ ハ ヘ | モ ロ ビ ト | モ ロ ト モ | ニ
-w: 2.~い は へ | も ろ び と | も ろ と も | に
-```
+<div class="abc-score" data-abc-src="tenchosetsu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tenchosetsu.abc)
 
 ## TMD 檔案連結
 

@@ -72,24 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:オヤウシコウシ（母牛與小牛）
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 d4 c4 A4 | d4 c4 c4 z4 | d4 d2 d2 c4 A4 | G4 D2 F2 G4 z4 |
-w: 1.~オ ヤ ウ シ | コ ウ シ | モ ウ _ ヒ ガ | ク レ _ ル
-w: 2.~オ ヤ ウ シ | コ ウ シ | ユ フ _ ヒ ヲ | ア ビ _ テ
-w: 3.~サ カ コ エ | ノ コ エ | ク サ バ カ ラ | カ ヘ _ レ
-A6 A2 A4 c4 | d4 d4 c4 z4 | d6 c2 A4 G2 F2 | G4 A2 G2 F4 z4 |
-w: 1.~タ ン ボ ノ | ミ チ ヲ | ナ カ ヨ ク _ | カ ヘ _ レ
-w: 2.~シッ _ ポ ガ | ヒ カ ル | フ リ フ リ _ | カ ヘ _ レ
-w: 3.~ユフ _ ヒ ガ | シ ヅ ム | ウ シ ウ シ _ | カ ヘ _ レ
-```
+<div class="abc-score" data-abc-src="oyaushi_koushi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oyaushi_koushi.abc)
 
 ## TMD 檔案連結
 

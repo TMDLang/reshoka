@@ -74,29 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:アリ（螞蟻）
-C:曲：梁田貞
-M:2/4
-L:1/16
-Q:1/4=108
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d d d d d4 | A A A A A4 | B2 A2 F2 D2 | A2 A2 F2 z2 |
-w: 1.~チョ ロ チョ ロ チョロ | チョ ロ チョ ロ チョロ | オ ホ ア リ | コ ア リ
-w: 2.~エ ン ヤ ラ ヤ | エ ン ヤ ラ ヤ | マ ヘ カ ラ | ヒ ケ バ
-d d d d d4 | A A A A A4 | B2 A2 F2 D2 | E2 E2 D2 z2 |
-w: 1.~チョ ロ チョ ロ チョロ | チョ ロ チョ ロ チョロ | ゾ ロ ゾ ロ | ゾ ロ リ
-w: 2.~エ ン ヤ ラ ヤ | エ ン ヤ ラ ヤ | ア ト カ ラ | オ ス ヨ
-E2 D2 E2 F2 | G2 F2 E2 z2 | F2 E2 F2 G2 | B2 A2 A2 z2 |
-w: 1.~マ イ ア サ | ハ ヤ ク | マ イ バ ン | オ ソ ク
-w: 2.~チ カ ラ ヲ | ア ハ セ | ブ ン ド リ | モ ノ ヲ
-d d d d d4 | A A A A A4 | B2 A2 F2 D2 | E2 E2 D2 z2 |
-w: 1.~チョ ロ チョ ロ チョロ | チョ ロ チョ ロ チョロ | ゾ ロ ゾ ロ | ゾ ロ リ
-w: 2.~エ ン ヤ ラ ヤ | エ ン ヤ ラ ヤ | ド コ マ デ | ヒ ク カ
-```
+<div class="abc-score" data-abc-src="ari.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ari.abc)
 
 ## TMD 檔案連結
 

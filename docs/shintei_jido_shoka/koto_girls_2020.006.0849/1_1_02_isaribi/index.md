@@ -61,22 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:漁火
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=80
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! A,4 A,4 | B,2 A,2 B,3 z | A,4 A,2 G,2 | E,2 G,2 A,3 z |
-A,4 A,2 B,2 | A,2 B,2 C4 | B,2 A,2 B,2 A,2 | E,6 z2 |
-C2 D2 E4 | A2 G2 A2 E2 | G2 E2 G2 E2 | A,6 z2 |
-C2 D2 C2 A,2 | G6 z2 | A4 G2 A2 | E4 G2 E2 |
-A,6 z2 |
-```
+<div class="abc-score" data-abc-src="isaribi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](isaribi.abc)
 
 ## TMD 檔案連結
 

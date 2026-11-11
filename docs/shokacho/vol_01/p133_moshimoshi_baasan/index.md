@@ -68,20 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:もしもしばあさん
-M:4/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 A2 B2 c2 d2 d2 d2 d2 | g2 g2 g2 g2 e4 z4 | d8 B8 | A2 G2 A2 B2 G4 z4 |
-G2 A2 B2 c2 d2 d2 d2 d2 | g2 g2 g2 g2 e4 z4 | d8 B8 | A2 G2 A2 B2 G4 z4 |
-g2 g2 g3 g g2 g2 g3 g | g2 g2 g3 g g4 z4 | g2 g2 g2 g2 f2 f2 f2 f2 | e2 d2 e2 f2 d4 z4 |
-G2 A2 B2 c2 d4 d4 | g4 g4 e4 z4 | d8 B8 | A2 G2 A2 B2 G4 z4 |
-```
+<div class="abc-score" data-abc-src="moshimoshi_baasan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](moshimoshi_baasan.abc)
 
 ## TMD 檔案連結
 

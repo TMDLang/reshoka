@@ -77,38 +77,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:新高山
-C:曲：岡野貞一
-M:3/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! G3 G G4 c4 | c3 B B4 z4 | G3 G G4 d4 | d3 c c4 z4 |
-w: 1.~ア ラ タ ニ | キ ミ ニ | マ ツ ロ ヒ | キ ニ シ
-w: 2.~め い ぢ の | み か ど | か し こ き | き み の
-!f! e3 e d4 d4 | d6 c2 B4 | A8 ^F4 | G8 z4 |
-w: 1.~ト ホ キ シ | マ ノ ミ | ナ カ | ニ
-w: 2.~お ほ せ ま | し し よ | き な | や
-B3 B B4 B4 | c6 B2 A2 G2 | G8 G4 | G8 z4 |
-w: 1.~ト ハ ニ タ | フ ト キ シ | ヅ メ | ト
-w: 2.~た れ か し | ま び と わ | す れ | ん
-B3 B B4 B4 | c6 d2 e4 | d8 c4 | B8 z4 |
-w: 1.~ソ ビ エ タ | テ ル カ | ミ ヤ | マ
-w: 2.~ふ か き き | み の み | め ぐ | み
-!p! G3 G G4 c4 | _B3 A A4 z4 | !mf! A3 A A4 d4 | c3 ^F B6 z2 |
-w: 1.~コ ゴ シ ク | タ カ ク | ヲ ヲ シ ク | タ テ ル
-w: 2.~に ひ た か | や ま と | め で た く | お ひ し
-!f! e6 e2 f2 d2 | c8 B4 | c8 z4 | !ff! e6 e2 f2 d2 |
-w: 1.~ス ガ タ タ | フ ト | ヤ | ス ガ タ タ
-w: 2.~よ き な か | し こ | や | よ き な か
-c8 B4 | c8 z4 |
-w: 1.~フ ト | ヤ
-w: 2.~し こ | や
-```
+<div class="abc-score" data-abc-src="niitakayama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](niitakayama.abc)
 
 ## TMD 檔案連結
 

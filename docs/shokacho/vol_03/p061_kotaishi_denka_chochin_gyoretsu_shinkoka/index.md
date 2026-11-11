@@ -47,22 +47,9 @@ Notation: Handwritten 5-line staff (1 sharp = G major, 2/4 time, 20 bars)
 
 ## ABC
 
-```abc
-X:1
-T:皇太子殿下御成婚奉祝提燈行列進行歌
-C:曲：不詳 (大正十三年)
-M:2/4
-L:1/16
-Q:1/4=112
-K:G
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! d2 d2 d2 d2 | B2 d2 G2 B2 | A2 G2 E2 G2 | D6 z2 |
-G2 G2 G2 A2 | B2 B2 d4 | e2 e2 d2 B2 | d6 z2 |
-B2 A2 G2 A2 | B2 B2 A2 G2 | E2 G2 A2 A2 | A6 z2 |
-G2 G2 A2 A2 | B2 B2 d3 e | d2 B2 A2 d2 | B6 z2 |
-!f! e2 e2 d2 B2 | A2 G2 E2 G2 | A2 A2 B2 A2 | G6 z2 |
-```
+<div class="abc-score" data-abc-src="kotaishi_denka_chochin_gyoretsu_shinkoka.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kotaishi_denka_chochin_gyoretsu_shinkoka.abc)
 
 ## TMD 檔案連結
 

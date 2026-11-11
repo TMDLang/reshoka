@@ -64,23 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:吉田松陰
-C:曲：小山作之助
-M:3/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z4 z4 E3 E | A6 B2 c2 A2 | B2 A2 E4 A3 B | c6 d2 B4 |
-!mf! A6 z2 e3 e | E4 A2 B2 c2 B2 | A4 E4 A3 B | c4 d2 c2 B4 |
-!f! A6 z2 e3 e | e4 d4 c3 B | A4 B2 c2 d4 | ^G3 A B8 |
-E6 z2 A3 A | c2 B2 A4 ^G4 | A4 E4 A3 B | c6 B2 A2 ^G2 |
-!p! A4 z4 E4 | A4 z4 B3 B | !f! c4 z4 d3 d | e4 A4 c3 B |
-A8 z4 |
-```
+<div class="abc-score" data-abc-src="yoshida_shoin.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yoshida_shoin.abc)
 
 ## TMD 檔案連結
 

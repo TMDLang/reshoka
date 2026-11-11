@@ -63,29 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:星の界
-C:曲：田村虎藏（編）
-M:4/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c6 c2 d2 c2 A2 F2 | F8 D4 z4 | C6 F2 A2 F2 c4 | A12 z4 |
-w: 1.~ツ キ ナ キ ミ ソ | ラ ニ | キ ラ メ ク ヒ | リ
-w: 2.~く も な き み そ | ら に | よ こ た ふ ひ | り
-c6 c2 d2 c2 A2 F2 | F8 D4 z4 | C6 F2 A2 G2 F2 E2 | F12 z4 |
-w: 1.~ア ア ソ ノ ホ シ | カ ゲ | キ バウ _ ノ ス ガ | タ
-w: 2.~あ あ や う や う | た る | ぎ ん が の な が | れ
-G6 ^F2 G2 A2 B2 G2 | A8 c4 z4 | d6 d2 c2 A2 B2 A2 | G12 z4 |
-w: 1.~ジ ン チ ハ ハ テ | ナ シ | ム キ ウ ノ ヲ チ | ニ
-w: 2.~あ ふ ぎ て な が | む る | ば ん り の あ な | た
-c6 c2 d2 c2 A2 F2 | F8 D4 z4 | C6 F2 A2 G2 F2 E2 | F12 z4 |
-w: 1.~イ ザ ソ ノ ホ シ | ノ ヨ | キ ハ メ モ ユ カ | ン
-w: 2.~い ざ さ を さ せ | よ や | き う り の ふ ね | に
-```
+<div class="abc-score" data-abc-src="hoshi_no_yo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hoshi_no_yo.abc)
 
 ## TMD 檔案連結
 

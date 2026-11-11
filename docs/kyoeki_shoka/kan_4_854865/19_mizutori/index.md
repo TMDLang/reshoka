@@ -63,31 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:水鳥
-M:4/4
-L:1/16
-Q:1/4=88
-K:Eb
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-z4 F4 G8 | A4 G4 C4 D4 | G12 G4 | d8 e4 d4 |
-w: 1.~こ け | の _ ひ _ | げ あ | らふ _ _
-w: 2.~か う | ほ _ ね _ | の は | な と _
-c4 A4 A4 e4 | d4 c4 A8 | z4 G4 A8 | G4 d8 G4 |
-w: 1.~_ ば か _ | り _ に | な み | _ _ た
-w: 2.~_ は な _ | と _ を | ま ほ | _ _ か
-G8 D8 | z4 E4 E8- | E4 F4 F4 F4 | F8 F4 A4 |
-w: 1.~て て | お よ | _ _ ぎ ま | は _ _
-w: 2.~け し | ふ ね | _ _ と は | し _ _
-A8 G4 F4 | G12 C4 | D12 e4 | d4 c4 A4 G4 |
-w: 1.~る _ _ | か い | け _ | の _ _ み
-w: 2.~る _ _ | か い | け _ | の _ _ み
-A8 c4 d4 | G8 C4 D4 | G12 z4 |
-w: 1.~づ _ _ | と _ _ | り
-w: 2.~づ _ _ | と _ _ | り
-```
+<div class="abc-score" data-abc-src="mizutori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mizutori.abc)
 
 ## TMD 檔案連結
 

@@ -58,23 +58,9 @@ Key: ニ調 (D major), Time: 2/4, Tempo: 優美ニ？
 
 ## ABC
 
-```abc
-X:1
-T:水グルマ（水車）
-C:曲：郭水返
-M:2/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-D3 D E2 F2 | A3 A G3 E | D2 F A d2 A2 | F2 E2 D2 z2 |
-D3 D E2 F2 | A3 A A2 F2 | E3 E D2 E2 | F6 z2 |
-D3 D E2 F2 | A3 A F2 D2 | E3 E F2 E2 | D6 z2 |
-F4 E2 F2 | A3 A F2 A2 | B3 B d2 d2 | A6 z2 |
-B3 B d2 d2 | A3 A F2 A2 | B2 A2 F3 E | D6 z2 |
-B3 B d2 d2 | A3 A F2 D2 | E F G A B2 c2 | d4 z4 |
-```
+<div class="abc-score" data-abc-src="mizuguruma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mizuguruma.abc)
 
 ## TMD 檔案連結
 

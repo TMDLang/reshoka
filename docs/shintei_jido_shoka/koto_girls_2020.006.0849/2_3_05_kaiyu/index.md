@@ -62,21 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:懷友
-C:曲：Tomer
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! E4 E2 E2 E2 E2 E2 E2 | G3 A G4 E4 z4 | C4 C2 C2 C2 C2 C2 C2 | !mf! E8 D4 z4 |
-!mp! E4 E2 E2 E2 E2 E2 E2 | G8 E4 z4 | C4 E2 G2 c3 B c2 A2 | G4 E4 C6 z2 |
-!f! E3 F G2 c2 d3 c B2 A2 | G4 c4 c6 z2 | B3 A G2 G2 G4 F2 D2 | E14 z2 |
-!f! E3 D C2 D2 E4 c3 A | G4 E4 D6 z2 | !mf! F3 G A2 F2 E2 C2 D3 C | C12 z4 |
-```
+<div class="abc-score" data-abc-src="kaiyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaiyu.abc)
 
 ## TMD 檔案連結
 

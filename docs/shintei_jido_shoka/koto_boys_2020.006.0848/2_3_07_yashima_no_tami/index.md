@@ -59,24 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:八洲の民
-C:曲：小山作之助
-M:4/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z2 D2 D2 D2 | G8 A2 B2 c2 B2 | d12 B2 G2 | A4 A2 B2 c4 A4 |
-B8 z2 D2 D2 D2 | G8 A2 B2 c2 B2 | d12 B2 G2 | A4 G2 A2 B4 A4 |
-G8 z4 A4 | A6 B2 c2 d2 c2 B2 | A4 d8 A4 | d8 c4 B4 |
-A12 A4 | A6 B2 c2 d2 c2 B2 | A4 d8 c4 | B8 A4 G4 |
-!f! D8 z2 D2 D2 D2 | G8 A2 B2 c2 B2 | d12 B2 G2 | A4 A2 B2 c4 A4 |
-B8 z2 D2 D2 D2 | G8 A2 B2 c2 B2 | d12 B2 G2 | A4 G2 A2 B4 A4 |
-G8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="yashima_no_tami.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yashima_no_tami.abc)
 
 ## TMD 檔案連結
 

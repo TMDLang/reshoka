@@ -56,20 +56,9 @@ title = 始政紀念日
 
 ## ABC
 
-```abc
-X:1
-T:始政紀念日
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-E6 F2 G4 G4 | A6 A2 G8 | E6 D2 C4 C4 | D12 z4 |
-E6 F2 G4 G4 | A6 G2 E8 | D6 E2 D4 C4 | G,12 z4 |
-D6 D2 E4 G4 | E4 G4 A8 | G6 A2 E4 ^D4 | E12 z4 |
-A6 A2 G4 E4 | D6 D2 E8 | D4 E4 G6 G2 | C12 z4 |
-```
+<div class="abc-score" data-abc-src="shisei_kinembi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shisei_kinembi.abc)
 
 ## TMD 檔案連結
 

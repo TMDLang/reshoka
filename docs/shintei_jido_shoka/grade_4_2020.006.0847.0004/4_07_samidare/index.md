@@ -67,29 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:さみだれ
-C:曲：小松耕輔
-M:4/4
-L:1/16
-Q:1/4=76
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B,6 D2 E4 D4 | G6 E2 A4 G4 | D6 E2 E2 D2 E2 G2 | A12 z4 |
-w: 1.~ア _ ヲ イ | タ ン ボ ノ | サ ミ ダ _ レ _ | ハ
-w: 2.~せ _ ど の | せ ん に ち | は な しゃ う _ _ | ぶ
-!mf! B6 d2 B2 A2 G4 | A6 B2 A2 G2 E4 | D6 E2 E2 D2 G2 E2 | D12 z4 |
-w: 1.~ヒャ ク ニ _ チ | コ コ ノ _ カ | フ リ マ _ シ _ | タ
-w: 2.~あ _ め _ の | ふ る ひ _ に | さ き ま _ し _ | た
-E6 E2 G2 E2 A2 G2 | B6 d2 d4 B4 | G6 G2 E2 D2 E2 G2 | A12 z4 |
-w: 1.~ノ キ バ _ ノ _ | ア マ ダ レ | ノ キ ス _ ズ _ | メ
-w: 2.~う み か _ ら _ | や ま か ら | さ み だ _ れ _ | の
-B,6 D2 E4 D4 | G6 G2 B4 A4 | B6 d2 B4 A4 | G12 z4 |
-w: 1.~デ ン シ ン | バ シ ラ モ | ヌ レ マ シ | タ
-w: 2.~あ _ め が | さ ん さ ん | ふ り ま し | た
-```
+<div class="abc-score" data-abc-src="samidare.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](samidare.abc)
 
 ## TMD 檔案連結
 

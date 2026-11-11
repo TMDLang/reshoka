@@ -72,29 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:新井白石
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A3 A A2 G2 F3 F F2 D2 | C3 C C2 A,2 C6 z2 | A3 A A2 G2 F3 F F2 D2 | F3 F G2 A2 G6 z2 |
-w: 1.~ふ た ば に こ も る _ | せ ん だ ん の | か を り は い ま も _ | か た り ぐ さ
-w: 2.~ひ る ま _ み じ か き | ふ ゆ の よ の | ふ _ け て ね む け の | さ す こ ろ は
-w: 3.~い _ き て ほ う こ う | え ら れ ず ば | し し て _ え ん ま の | わ う た ら ん
-!f! c6 c2 c4 A2 B2 | c4 d4 c8 | B4 A2 G2 F4 G2 A2 | G8 C4 z4 |
-w: 1.~み と せ の _ | こ ろ に | ふ で _ を と _ | り て
-w: 2.~は だ へ を _ | つん ざ く | み づ _ を あ _ | び て
-w: 3.~ち か ひ は _ | はた し て | ち く _ ご の _ | か み
-!mf! A3 B A2 G2 F2 G2 F2 E2 | D3 A A2 G2 F6 z2 |
-w: 1.~か い た る も じ は _ | て ん が い ち
-w: 2.~か き こ そ を は れ _ | し せ ん も じ
-w: 3.~あ あ だ い ぢゃ う ふ _ | だ い ぢゃ う ふ
-```
+<div class="abc-score" data-abc-src="arai_hakuseki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](arai_hakuseki.abc)
 
 ## TMD 檔案連結
 

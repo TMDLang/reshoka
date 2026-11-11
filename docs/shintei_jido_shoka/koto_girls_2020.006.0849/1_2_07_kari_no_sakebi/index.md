@@ -60,23 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:雁の叫び
-C:曲：露國民歌
-M:4/4
-L:1/16
-Q:1/4=72
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!pp! A,4 E4 E4 z4 | A,4 D4 D4 z4 | E4 F2 E2 D4 C4 | B,4 A,4 B,4 z4 |
-!pp! A,4 E4 E4 z4 | A,4 D4 D4 z4 | E4 F2 E2 D4 C4 | B,4 A,4 B,4 z4 |
-!mf! C6 C2 B,4 G,4 | A,4 B,4 C4 z4 | !f! E6 E2 D4 B,4 | C4 D4 E4 z4 |
-F4 E4 D4 C4 | B,4 A,4 B,4 E4 | F4 E2 D2 C4 B,4 | A,4 A,4 A,4 z4 |
-!pp! A,4 E4 E4 z4 | A,4 D4 D4 z4 | E4 F2 E2 D4 B,4 | A,4 A,4 A,4 z4 |
-!pp! A,4 A,4 A,4 z4 | A,4 A,4 A,4 z4 |
-```
+<div class="abc-score" data-abc-src="kari_no_sakebi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kari_no_sakebi.abc)
 
 ## TMD 檔案連結
 

@@ -47,22 +47,9 @@ Notation: Handwritten 5-line staff (4 sharps = E major, 4/4 time, 20 bars)
 
 ## ABC
 
-```abc
-X:1
-T:フリージア
-C:曲：不詳
-M:4/4
-L:1/16
-Q:1/4=96
-K:E
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z16 | z16 | !mf! G4 B4 G4 B4 | G16 |
-F4 A2 F2 F4 D4 | E2 F2 G2 A2 G2 F2 G4 | F4 A2 F2 E4 E4 | C2 D2 E4 C2 C2 C2 B,2 |
-E4 F2 G2 A2 A2 A2 A2 | !f! G2 B2 c2 c2 c2 c2 c2 c2 | B8 G4 F4 | E2 E2 D2 E2 F2 G2 F2 E2 |
-D4 F4 B4 G4 | !p! C2 E2 F2 A2 G2 F2 E4 | C4 D4 E4 F4 | !mf! G4 B4 G4 B4 |
-G16 | F4 A2 F2 F4 D4 | E2 F2 G2 A2 G2 F2 G4 | F4 A2 F2 E4 E4 |
-```
+<div class="abc-score" data-abc-src="furijia.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](furijia.abc)
 
 ## TMD 檔案連結
 

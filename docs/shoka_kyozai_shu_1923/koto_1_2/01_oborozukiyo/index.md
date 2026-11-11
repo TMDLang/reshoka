@@ -72,32 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:朧月夜
-C:曲：岡野貞一（文部省《尋常小學唱歌》第六學年）
-M:3/4
-L:1/16
-Q:1/4=72
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 F2 F2 | D6 E2 F2 A2 | A2 B2 A4 E4 | F6 D2 E2 A2 |
-w: 1.~ナ ノ | ハ ナ バ タ | ケ _ ニ イ | リ ヒ ウ ス
-w: 2.~さ と | わ の ほ か | げ _ も も | り の い ろ
-F8 A2 A2 | F6 G2 A2 d2 | d2 e2 d4 A4 | B6 F2 E2 E2 |
-w: 1.~レ ミ ワ | タ ス ヤ マ | ノ _ ハ カ | ス ミ フ カ
-w: 2.~も た な | か の こ み | ち _ を た | ど る ひ と
-!mf! D8 A2 A2 | d6 d2 d2 e2 | d2 B2 A4 A2 F2 | A6 B2 F2 F2 |
-w: 1.~シ ハ ル | カ セ ソ ヨ | フ _ ク ソ _ | ラ ヲ ミ レ
-w: 2.~も か は | づ の な く | ね _ も か _ | ね の お と
-!p! E8 D2 E2 | F6 D2 F2 G2 | A2 d2 B4 A4 | B6 F2 E2 E2 |
-w: 1.~バ ユ フ | ヅ キ カ カ | リ _ テ ニ | ホ ヒ ア ハ
-w: 2.~も さ な | が ら か す | め _ る お | ぼ ろ づ き
-D8 z4 |
-w: 1.~シ
-w: 2.~よ
-```
+<div class="abc-score" data-abc-src="oborozukiyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oborozukiyo.abc)
 
 ## TMD 檔案連結
 

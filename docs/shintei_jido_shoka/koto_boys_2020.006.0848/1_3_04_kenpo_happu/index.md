@@ -68,21 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:憲法發布
-C:曲：F. J. Haydn（ハイドン）
-M:4/4
-L:1/16
-Q:1/4=80
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! E6 F2 G4 F4 | A4 G4 F2 D2 E4 | c4 B4 A4 G4 | F4 G2 E2 B8 |
-E6 F2 G4 F4 | A4 G4 F2 D2 E4 | c4 B4 A4 G4 | F4 G2 E2 B8 |
-!p! F4 G4 F2 D2 B,4 | !mp! A4 G4 F2 D2 B,4 | !mf! B4 A4 G6 G2 | =A4 A2 B2 B8 |
-!f! e6 d2 c2 B2 A4 | B6 A2 G2 F2 E4 | !mf! D4 E2 F2 G2 A2 B2 c2 | !p! F6 G F E8 |
-```
+<div class="abc-score" data-abc-src="kenpo_happu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kenpo_happu.abc)
 
 ## TMD 檔案連結
 

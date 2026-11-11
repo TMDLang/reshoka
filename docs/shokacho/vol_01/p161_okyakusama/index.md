@@ -74,24 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:お客様
-M:2/4
-L:1/16
-Q:1/4=100
-K:Gm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 D2 G4 | A2 A2 B2 A2 | d2 B2 A2 G2 | A6 z2 |
-B2 B2 B2 A2 | B2 d2 B2 A2 | G2 A2 G2 E2 | D6 z2 |
-E2 E2 E2 D2 | C2 C2 C2 D2 | E2 G2 E2 C2 | D6 z2 |
-z2 B2 A4 | B2 d2 B2 A2 | G2 A2 G2 E2 | D6 z2 |
-E2 E2 E2 D2 | C2 C2 C2 D2 | E2 E2 G2 G2 | A6 z2 |
-B2 B2 B2 A2 | B2 B2 B2 A2 | d2 d2 d2 B2 | d6 z2 |
-d2 c2 d2 B2 | d2 d2 B2 G2 | A2 A2 A2 B2 | A6 z2 |
-B2 B2 B2 A2 | B2 d2 B2 G2 | A2 A2 A2 B2 | G6 z2 |
-```
+<div class="abc-score" data-abc-src="okyakusama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](okyakusama.abc)
 
 ## TMD 檔案連結
 

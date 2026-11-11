@@ -70,41 +70,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:春の丘
-C:曲：草川信
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 A2 F2 C2 | c2 A2 F2 C2 | G2 G2 G2 A2 | G6 z2 |
-w: 出 テ キ タ | 出 テ キ タ | フ キ ノ ト | ウ
-c2 A2 F2 C2 | c2 A2 F2 C2 | G2 G2 G2 A2 | F6 z2 |
-w: 出 テ キ タ | 出 テ キ タ | ヨ モ ギ ノ | ハ
-c2 A2 F2 C2 | c2 A2 F2 C2 | G2 G2 G2 A2 | G6 z2 |
-w: す ず め も | ちょ ん ちょ ん | を ど ーっ て | る
-c2 A2 F2 C2 | c2 A2 F2 C2 | G2 G2 G2 A2 | F6 z2 |
-w: う ぐ ひ す | こ や ぶ で | ふ え を ふ | く
-!mp! C3 C D2 E2 | F3 F G2 G2 | !mf! A3 G F2 A2 | G6 z2 |
-w: オ ヤ マ ヘ | ユ キ マ シヨ | 野 ニ 出 マ | シヨ
-!f! c3 c d2 c2 | A3 A G2 F2 | G3 G A2 F2 | c6 z2 |
-w: オ ヤ マ ノ | ウ ヘ カ ラ | マ チ ミ レ | バ
-!mp! C3 C D2 E2 | F3 F G2 G2 | !mf! A3 G F2 A2 | G6 z2 |
-w: お て ら も | がー く かう も | 汽 車 み ち | も
-!f! c3 c d2 c2 | A3 A G2 F2 | G3 G A2 F2 | c6 z2 |
-w: う _ す い | か す み が | ひ い て ゐ | る
-C3 C D2 E2 | F3 F G2 G2 | !mf! A3 G F2 A2 | G6 z2 |
-w: コ ウ バ ノ | ケ ム リ ハ | マー ツ ス グ | ニ
-!f! c3 c d2 c2 | A3 G F2 D2 | C3 C D2 E2 | F6 z2 |
-w: キ ラ キ ラ | ソ ラ ヘ ト | キ エ テ ユ | ク
-c2 A2 F2 C2 | c2 A2 F2 C2 | G2 G2 G2 A2 | G6 z2 |
-w: 出 テ キ タ | 出 テ キ タ | コ ド モ ダ | チ
-c2 A2 F2 C2 | c2 A2 F2 C2 | G2 G2 G2 A2 | F6 z2 |
-w: 出 テ キ タ | 出 テ キ タ | ア リ ノ ヤ | ウ
-```
+<div class="abc-score" data-abc-src="haru_no_oka.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](haru_no_oka.abc)
 
 ## TMD 檔案連結
 

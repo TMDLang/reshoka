@@ -60,20 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:他郷の月
-M:4/4
-L:1/16
-Q:1/4=88
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! E6 F2 G2 B2 A2 G2 | G4 F4 z4 z4 | E6 G2 B2 G2 F2 E2 | D12 z4 |
-!mp! E6 F2 G2 B2 A2 G2 | c4 B4 z4 z4 | !f! e6 d2 c2 e2 B2 G2 | A8 B8 |
-!mf! c6 c2 B2 G2 A2 B2 | A4 G4 z4 z4 | !mp! e6 d2 c2 B2 A2 G2 | F12 z4 |
-E6 F2 G2 B2 A2 G2 | c4 F4 z4 z4 | B6 c2 B2 G2 E2 F2 | E12 z4 |
-```
+<div class="abc-score" data-abc-src="takyo_no_tsuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](takyo_no_tsuki.abc)
 
 ## TMD 檔案連結
 

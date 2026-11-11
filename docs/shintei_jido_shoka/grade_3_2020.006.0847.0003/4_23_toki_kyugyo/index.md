@@ -58,31 +58,9 @@ Key: G major (?= G), 4/4 (<4/4>), Quarter = 100 (!= 100)
 
 ## ABC
 
-```abc
-X:1
-T:冬季休業
-M:4/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 D4 | G6 D2 D4 G4 | B6 B2 G4 G4 | A6 A2 G4 E4 |
-w: 1.~き | の ふ と く | ら _ し け | ふ _ と す
-w: 2.~あ | な こ こ ち | よ _ き け | ふ _ の ひ
-D8 z4 D4 | E6 E2 E4 D4 | G6 G2 B4 A4 | A6 G2 B4 G4 |
-w: 1.~ぎ こ | と し も い | つ _ か ふ | ゆ _ や す
-w: 2.~や い | ま し も と | ざ _ す ま | ど _ の う
-A8 z4 d4 | e6 e2 d4 d4 | B6 A2 G4 A4 | B6 A2 B4 ^c4 |
-w: 1.~み げ | に _ も い | ひ け り と | し _ つ き
-w: 2.~ち あ | け な ん と | し _ の あ | ら _ ま し
-d8 z4 D4 | G6 D2 D4 G4 | B6 A2 G4 E4 | D4 G4 A6 G2 |
-w: 1.~は ひ | と _ ま た | ず て ふ こ | と _ の は
-w: 2.~を か | た _ り あ | ひ つ つ ち | ぎ _ り つ
-G8 z4 z4 |
-w: 1.~を
-w: 2.~つ
-```
+<div class="abc-score" data-abc-src="toki_kyugyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](toki_kyugyo.abc)
 
 ## TMD 檔案連結
 

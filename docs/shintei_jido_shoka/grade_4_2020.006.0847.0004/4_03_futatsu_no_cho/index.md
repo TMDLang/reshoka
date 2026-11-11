@@ -68,33 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:二つの蝶
-C:曲：室崎琴月
-M:2/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 c2 d2 c2 | d4 c2 A2 | d4 c2 A2 | c6 z2 |
-w: ヒ ト ツ | テフ テフ ガ | トン デ キ | タ
-A2 c2 A2 F2 | G2 A2 G2 F2 | D4 C2 C2 | F6 z2 |
-w: ア カイ ハ ナ | サ ガ シ ニ | トン デ キ | タ
-z2 c2 d2 c2 | d4 c2 A2 | d4 c2 A2 | c6 z2 |
-w: ふ た つ | てふ てふ が | とん で き | た
-A2 c2 A2 F2 | G2 A2 G2 F2 | D4 C2 C2 | F6 z2 |
-w: あ をい は な | さ が し に | とん で き | た
-z2 G2 G2 G2 | G4 F2 G2 | c2 A2 G4 | G6 z2 |
-w: ヒ ト ツ | テフ テフ ガ | ト ン デツ | タ
-F2 A2 G2 F2 | D2 F2 D2 C2 | c4 G4 | F6 z2 |
-w: ア カイ ハ ナ | ナ イ カ ラ | トン デツ | タ
-z2 G2 G2 G2 | G4 F2 G2 | c2 B2 A4 | G6 z2 |
-w: ふ た つ | てふ てふ が | と ん でつ | た
-F2 A2 G2 F2 | D2 F2 D2 C2 | c4 G4 | F6 z2 |
-w: あ をい は な | な い か ら | とん でつ | た
-```
+<div class="abc-score" data-abc-src="futatsu_no_cho.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](futatsu_no_cho.abc)
 
 ## TMD 檔案連結
 

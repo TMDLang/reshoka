@@ -62,28 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ヒカウキ（飛機）
-M:2/4
-L:1/16
-Q:1/4=120
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 A c3 A | F2 G2 A2 A2 | c3 d c2 A2 | G6 z2 |
-w: 1.~ア レ ア レ | ア ガ ル _ | ヒ カ ウ キ | ガ
-w: 2.~ア レ ア レ | ア ン ナ ニ | ヒ カ ウ キ | ガ
-c2 c2 A2 G2 | F2 G2 A2 A2 | G3 A F2 D2 | C6 z2 |
-w: 1.~オ ホ キ ナ | ト ビ ガ _ | ト ブ ヤ ウ | ダ
-w: 2.~チ イ サ ナ | ト ン ボ ガ | ト ブ ヤ ウ | ダ
-D3 C F2 D2 | G3 G G2 G2 | F2 A2 c3 d | c6 z2 |
-w: 1.~ズ ン ズ ン | ア ガ ル _ | ク モ ノ ウ | ヘ
-w: 2.~ダ ン ダ ン | チ カ ヨ ル | オ ヒ サ マ | ニ
-d3 d c2 A2 | c3 c A2 F2 | G3 G A2 G2 | F6 z2 |
-w: 1.~ノ _ ッ テ | ミ タ イ ナ | ヒ カ ウ キ | ニ
-w: 2.~ア ン ナ ニ | ト ン ダ ラ | ユ クワ イ ダ | ラウ
-```
+<div class="abc-score" data-abc-src="hikoki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hikoki.abc)
 
 ## TMD 檔案連結
 

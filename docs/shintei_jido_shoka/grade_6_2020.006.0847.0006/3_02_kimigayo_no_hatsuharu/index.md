@@ -62,28 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:君が代の初春
-M:2/2
-L:1/16
-Q:1/2=36
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! c8 d4 c4 | c8 A8 | F4 F4 G4 G4 | A12 z4 |
-w: 1.~き み が | よ の | は つ は る | の
-w: 2.~き み が | よ の | は る く れ | ば
-!mf! c4 c4 d4 c4 | c8 A4 A4 | G4 c4 e4 d4 | c12 z4 |
-w: 1.~さ か り に | に ほ ふ | う め の は | な
-w: 2.~こ ず ゑ に | う つ る | う ぐ ひ す | も
-!f! B4 A4 G4 F4 | d8 c4 c4 | B4 A4 G4 F4 | c12 z4 |
-w: 1.~い つ し か | い ろ に | あ ら は れ | て
-w: 2.~い つ し か | こ ゑ に | う ち い で | て
-!mf! c4 c4 d4 c4 | c8 A4 A4 | B4 G4 F4 E4 | F12 z4 |
-w: 1.~か を れ る | も の を | よ の ひ と | よ
-w: 2.~さ へ づ る | も の を | よ の ひ と | よ
-```
+<div class="abc-score" data-abc-src="kimigayo_no_hatsuharu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kimigayo_no_hatsuharu.abc)
 
 ## TMD 檔案連結
 

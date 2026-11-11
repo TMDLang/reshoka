@@ -56,21 +56,9 @@ Dynamics: Line 1: p, Line 2: mf, Line 3: f, Line 4: f
 
 ## ABC
 
-```abc
-X:1
-T:送別の歌 送別之歌
-M:2/4
-L:1/16
-Q:1/4=66
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z6 C2 | F4 F2 A2 | G3 F G2 A G | F4 A2 c2 |
-d8 | f8 | c3 A A2 F2 | G3 F G2 A G |
-F3 D D2 C2 | F8 | d8 | c3 A A2 F2 |
-G3 F G2 A2 | c3 A A2 c2 | d8 | f8 |
-c3 A A2 F2 | G3 F G2 A G | F3 D D2 C2 | F6 z2 |
-```
+<div class="abc-score" data-abc-src="sobetsu_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sobetsu_no_uta.abc)
 
 ## TMD 檔案連結
 

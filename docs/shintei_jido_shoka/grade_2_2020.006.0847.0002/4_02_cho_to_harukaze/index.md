@@ -68,29 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:テフトハルカゼ（蝴蝶與春風）
-C:曲：梁田貞
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G4 E4 G4 E4 | A4 c4 c4 z4 | c4 A4 A4 A4 | c4 G4 G4 z4 |
-w: 1.~ヒ ラ ヒ ラ | マ フ ヨ | キ レ イ ナ | テフ テ フ
-w: 2.~ソ ヨ ソ ヨ | カ ゼ ガ | ノ ド カ ニ | フ ク ヨ
-G4 E4 G4 E4 | A4 c4 c4 z4 | c4 A4 G4 F4 | E4 D4 C4 z4 |
-w: 1.~テ フ テフ ガ | マ ヘ バ | ナ ノ ハ ナ | ユ ラ グ
-w: 2.~ノ ド カ ナ | カ ゼ ニ | ナ ノ ハ ナ | ユ ラ グ
-D4 E4 F4 D4 | E4 F4 G4 z4 | D4 E4 F4 D4 | E4 F4 G4 z4 |
-w: 1.~ユ ラ グ ナ | ハ ナ ヨ | ト マ レ ヨ | テ フ テフ
-w: 2.~ユ ラ グ ナ | ハ ナ ヨ | ト マ レ ヨ | テ フ テフ
-G4 E4 G4 E4 | A4 c4 c4 z4 | c4 A4 G4 F4 | E4 D4 C4 z4 |
-w: 1.~シ ヅ カ ニ | ト マ レ | キ レ イ ナ | テ フ テフ
-w: 2.~ノ ド カ ナ | カ ゼ モ | フ ク ナ ヨ | フ ク ナ
-```
+<div class="abc-score" data-abc-src="cho_to_harukaze.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](cho_to_harukaze.abc)
 
 ## TMD 檔案連結
 

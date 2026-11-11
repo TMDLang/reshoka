@@ -60,25 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:燕
-C:曲：（獨國風歌）
-M:4/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!f! c8 c8 | B4 A2 G2 A4 F4 | B4 B4 c4 e4 | !mf! c8 z4 A2 B2 |
-c4 c4 c4 d4 | c4 B4 A4 G2 A2 | B4 B4 B4 c2 B2 | A4 G4 A4 C4 |
-F4 G4 A4 B4 | !f! c8 f4 d4 | A8 F4 z4 |
-[V:V2]
-!f! A8 F8 | D4 C2 C2 F4 F4 | F4 F4 E4 C4 | !mf! A8 z4 F2 G2 |
-A4 A4 A4 B4 | A4 G4 F4 E2 F2 | G4 G4 G4 A2 G2 | F4 E4 F4 C4 |
-F4 E4 F4 D4 | !f! A8 A4 B4 | C8 F4 z4 |
-```
+<div class="abc-score" data-abc-src="tsubame.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsubame.abc)
 
 ## TMD 檔案連結
 

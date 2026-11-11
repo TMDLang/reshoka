@@ -65,37 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:木舟泥舟
-M:2/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A3 A G2 F2 | D3 D C2 z2 | D2 C2 F3 G | A6 z2 |
-w: 1.~う さ ぎ の | ふ ね は | き の ふ ね | で
-w: 2.~た ぬ き の | ふ ね は | ど ろ ぶ ね | で
-c4 A2 G2 | F3 F D2 F2 | G3 A G2 F2 | G2 G2 F2 z2 |
-w: 1.~ま へ の | ほ う へ と | い さ ん で | す す む
-w: 2.~と ろ り | と ろ り と | み る ま に | と け る
-A3 A G2 F2 | D3 D C2 z2 | D2 C2 F3 G | A6 z2 |
-w: 1.~う さ ぎ の | ふ ね は | き の ふ ね | で
-w: 2.~た ぬ き の | ふ ね は | ど ろ ぶ ね | で
-c4 A2 G2 | F3 F D2 F2 | G3 A G2 F2 | G2 G2 F2 z2 |
-w: 1.~ま へ の | ほ う へ と | い さ ん で | す す む
-w: 2.~と ろ り | と ろ り と | み る ま に | と け る
-D4 D2 C2 | F3 G A2 A2 | c4 c2 A2 | G2 F2 G2 z2 |
-w: 1.~す る と | う さ ぎ は | つっ た ち | あ が り
-w: 2.~そ こ で | た ぬ き は | かひ を ば | す て て
-A4 G2 F2 | D3 D C2 D2 | F2 A2 G3 F | G2 A2 A2 z2 |
-w: 1.~も っ た | か ひ を ば | う ち ふ り | あ げ て
-w: 2.~をろ を ろ | ご _ ゑ に | りゃ う て を | あ は せ
-c4 c2 A2 | d3 d d2 c2 | A3 A G2 G2 | F6 z2 |
-w: 1.~「お も ひ | し っ た か | た ぬ き ど | も」
-w: 2.~「い の ち | ば か り は | う さ ぎ さ | ま」
-```
+<div class="abc-score" data-abc-src="kibune_dorobune.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kibune_dorobune.abc)
 
 ## TMD 檔案連結
 

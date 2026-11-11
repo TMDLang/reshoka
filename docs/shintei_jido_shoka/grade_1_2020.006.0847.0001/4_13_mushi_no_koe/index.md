@@ -56,25 +56,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ムシノコヱ（蟲的聲音）
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 d c2 A2 | c3 d c2 A2 | G3 A G2 E2 | G6 z2 |
-w: リ ン リ ン | チ リ リ ン | ム シ ガ ナ | ク
-A3 A c2 A2 | G3 A G2 E2 | D3 D C2 D2 | E2 E2 D2 z2 |
-w: マ ツ ム シ | ス ズ ム シ | ス ズ シ イ | コ エ デ
-E3 E G2 G2 | A2 A2 G4 | E3 E D2 C2 | G6 z2 |
-w: オ ニ ハ ノ | ク サ ノ | ツ ユ ス ツ | テ
-A3 A c2 A2 | G3 G E4 | c4 A2 G2 | c6 z2 |
-w: ス ズ シ イ | コ エ デ | リン チ リ | リン
-```
+<div class="abc-score" data-abc-src="mushi_no_koe.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mushi_no_koe.abc)
 
 ## TMD 檔案連結
 

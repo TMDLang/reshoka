@@ -97,21 +97,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:七里が濱（女子大学校歌）
-C:曲：J. P. Webster（日本化旋律）
-M:4/4
-L:1/16
-Q:1/4=92
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-E2 A6 A2 B6 | c2 e6 e2 c6 | A2 c6 c2 B6 | A2 B2 A2 F2 E8 |
-E2 A6 A2 B6 | c2 e6 e2 c6 | A2 c6 c2 B6 | c2 B2 A8 z4 |
-e2 f6 f2 e6 | f2 a6 f2 e6 | c2 e6 e2 c6 | A2 B2 A2 F2 E8 |
-E2 A6 A2 B6 | c2 e6 e2 c6 | A2 c6 c2 B6 | c2 B2 A8 z4 |
-```
+<div class="abc-score" data-abc-src="shichirigahama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shichirigahama.abc)
 
 ## TMD 檔案連結
 

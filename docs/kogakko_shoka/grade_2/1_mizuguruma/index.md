@@ -74,28 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ミヅグルマ（水車）
-M:2/4
-L:1/16
-Q:1/4=126
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A2 c2 d2 c2 | A2 c2 d2 c2 | A2 c2 d3 d | c6 z2 |
-w: 1.~コ ガ ハ ニ | カ カ ル ミ | ヅ グ ル マ | ア
-w: 2.~コ ガ ハ ニ | カ カ ル ミ | ヅ グ ル マ | ア
-A3 A c2 A2 | G3 G G2 F2 | G3 G G2 A2 | G6 z2 |
-w: 1.~ミ ヅ ノ ナ | ガ レ デ ヨ | ク マ ハ ル | ウ
-w: 2.~ミ ヅ ノ ナ | ガ レ デ ヨ | ク マ ハ ル | ウ
-A3 A B2 A2 | D3 D D2 C2 | D3 D F2 F2 | G6 z2 |
-w: 1.~マ ハ ル チ | カ ラ デ ミ | ヅ ヲ ア ゲ | エ
-w: 2.~マ ハ ル チ | カ ラ デ キ | ネ ヲ ア ゲ | エ
-c3 A c2 A2 | c3 A F2 F2 | G3 G A2 G2 | F6 z2 |
-w: 1.~ザ ブ ザ ブ | ザ ブ ト タ | ニ イ レ ル | ウ
-w: 2.~コ ト ン コ | ト ン ト コ | メ ヲ ツ ク | ウ
-```
+<div class="abc-score" data-abc-src="mizuguruma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mizuguruma.abc)
 
 ## TMD 檔案連結
 

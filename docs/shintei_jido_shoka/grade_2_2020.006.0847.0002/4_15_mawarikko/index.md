@@ -65,29 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:まはりつこ（轉圈遊戲）
-C:曲：永井幸次
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z3 D D3 F | G3 G A3 F | G3 G G3 G | G6 z2 |
-w: 1.~ぼ く は | ち か み ち | み ぎ ま は | り
-w: 2.~ち か み | ち ゆ け ば | わ る い み | ち
-z3 A A3 c | d3 d d3 c | A3 c A3 G | F6 z2 |
-w: 1.~ぼ く は | ひ だ り へ | と ほ ま は | り
-w: 2.~と ほ み | ち ほ ん どう | み ち が よ | い
-G3 A A3 F | G3 A A3 F | G3 G G3 F | D6 z2 |
-w: 1.~ふ た り は | か け あ し | ま は り つ | こ
-w: 2.~ど ち ら が | さ _ き に | つ い た の | か
-D3 F D3 F | G3 A A3 F | G3 G C3 C | F6 z2 |
-w: 1.~ど ち ら が | は や い か | ま は り つ | こ
-w: 2.~ほ ん ど う | い つ た が | は や か つ | た
-```
+<div class="abc-score" data-abc-src="mawarikko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mawarikko.abc)
 
 ## TMD 檔案連結
 

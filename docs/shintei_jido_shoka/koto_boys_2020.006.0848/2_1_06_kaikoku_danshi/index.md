@@ -60,22 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:海國男子
-C:曲：國風歌（獨）
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 C2 F2 | A6 F2 F4 D4 | C12 F2 G2 | A4 B4 c4 d4 |
-c12 C2 F2 | A6 F2 F4 D4 | C12 A2 F2 | G4 C4 A4 G4 |
-F8 z4 z4 | !f! D6 E2 F8 | G8 A4 A2 B2 | c8 d8 |
-e16 | !ff! f6 c2 A8 | d6 c2 B8 | G4 c4 A4 d4 |
-c8 E8 | F8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="kaikoku_danshi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaikoku_danshi.abc)
 
 ## TMD 檔案連結
 

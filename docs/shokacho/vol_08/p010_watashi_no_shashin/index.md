@@ -59,20 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:わたしのしゃしん（我的照片）
-M:2/4
-L:1/16
-Q:1/4=92
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c4 A2 G2 | E2 E2 D2 C2 | D2 D2 E2 D2 | G2 A2 G2 z2 |
-A4 c2 A2 | e2 e2 d2 c2 | d3 c e2 d2 | c6 z2 |
-C2 C2 D2 z2 | C2 D2 E2 G2 | A2 A2 G2 A2 | G6 z2 |
-c3 d c2 A2 | G2 A2 G2 z2 | E2 G2 D2 E2 | C2 C2 z4 |
-```
+<div class="abc-score" data-abc-src="watashi_no_shashin.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](watashi_no_shashin.abc)
 
 ## TMD 檔案連結
 

@@ -56,21 +56,9 @@ Dynamics: mf, f
 
 ## ABC
 
-```abc
-X:1
-T:懐友 懷友
-M:4/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-A3 A A2 A2 A2 A6 | c4 G4 A4 z4 | d3 d d2 d2 d2 d6 | d8 c4 z4 |
-c3 c c2 c2 c2 c6 | c8 A4 z4 | A3 A d2 c2 F2 G6 | A4 G4 F8 |
-A3 B13 | c4 F4 A4 G3 F | D4 F8 _E2 D2 | C3 D C2 A,2 F2 A6 |
-G16 | A3 B13 | c4 F4 A4 G3 F | D4 F8 F3 d |
-c2 A2 F2 G2 A2 G6 | F8 z8 |
-```
+<div class="abc-score" data-abc-src="kaiyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaiyu.abc)
 
 ## TMD 檔案連結
 

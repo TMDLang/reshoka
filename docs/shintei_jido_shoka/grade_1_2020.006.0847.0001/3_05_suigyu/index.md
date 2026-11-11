@@ -69,28 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:スヰギウ（水牛）
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 C2 F2 G2 | A2 A2 G2 F2 | A2 A2 G2 F2 | G2 G2 G2 z2 |
-w: 1.~ヤ マ ノ | フ モ ト ノ | ア ヲ ク サ | バ ラ ニ
-w: 2.~モ リ ノ | シ ゲ ツ タ | オ ホ キ ナ | イ ケ ニ
-c4 A2 G2 | c3 c A2 G2 | F2 F2 G2 G2 | A6 z2 |
-w: 1.~ノ ソ リ | ノ ソ リ ト | ス ヰ ギ ウ | ガ
-w: 2.~ツ ノ ヲ | ウ カ ベ テ | ス ヰ ギ ウ | ガ
-z2 A2 c2 c2 | d2 d2 c2 c2 | A2 A2 c2 c2 | A2 G2 F2 z2 |
-w: 1.~ク サ ヲ | タ ベ テ ル | セ ナ カ ノ | ウ ヘ ヲ
-w: 2.~ソ ラ ヲ | ミ テ ヰ ル | ア タ マ ノ | ウ ヘ ヲ
-G2 G2 A2 A2 | F2 F2 D2 D2 | c2 z2 G2 A2 | F6 z2 |
-w: 1.~オ ヽ チ ウ | ニ サ ン バ | パッ パ ツ | パ
-w: 2.~シ ラ サ ギ | ニ サ ン バ | パッ パ ツ | パ
-```
+<div class="abc-score" data-abc-src="suigyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](suigyu.abc)
 
 ## TMD 檔案連結
 

@@ -76,29 +76,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:フンスヰ（噴泉）
-C:曲：梁田貞
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C3 C F2 A2 | c4 d4 | c3 d c2 A2 | F6 z2 |
-w: 1.~オ イ ケ ノ | フン スヰ | オ モ シ ロ | イ
-w: 2.~オ イ ケ ノ | フン スヰ | ス ズ シ イ | ナ
-A4 A2 G2 | c4 A2 F2 | G3 A F2 D2 | C6 z2 |
-w: 1.~ヒッ キ リ | ナ シ ニ | ミ ヅ バ シ | ラ
-w: 2.~カ ゼ ニ | フカ レ テ | キ リ ノ ア | メ
-D6 C2 | F6 C2 | A6 F2 | c6 z2 |
-w: 1.~シュ ウ | シュ ウ | シュ ウ | シュウ
-w: 2.~サ ラ | サ ラ | サ ラ | リ
-d2 d4 c2 | A2 A4 F2 | c3 A A2 G2 | F6 z2 |
-w: 1.~タ カ ク | ア ガッ テ | オ モ シ ロ | イ
-w: 2.~カ ホ ニ | ア タッ テ | ス ズ シ イ | ナ
-```
+<div class="abc-score" data-abc-src="funsui.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](funsui.abc)
 
 ## TMD 檔案連結
 

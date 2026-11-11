@@ -68,29 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:十五ヤ（十五夜）
-C:曲：山田耕作
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D4 G2 A2 | B2 d2 B2 G2 | A2 A2 G2 A2 | B2 G2 D2 z2 |
-w: 1.~ジュウ ゴ ヤ | オ ツキ サ ン | カ ガ ミ ノ | ヤ ウ ニ
-w: 2.~ジュウ ゴ ヤ | オ ツキ サ ン | ゴ キ ゲ ン | ヨ ロ シウ
-D2 D2 G2 A2 | B2 d2 B2 G2 | A2 B2 A2 D2 | G6 z2 |
-w: 1.~ア カ ル イ | ア カ ル イ | オ ツ キ サ | ン
-w: 2.~マ _ ル イ | マ _ ル イ | オ ツ キ サ | ン
-D4 D2 D2 | G4 D2 D2 | A2 D2 D2 D2 | B2 G2 G4 |
-w: 1.~ツ ユ ガ | ヒ カ ル | ク サ バ ガ | ヒ カ ル
-w: 2.~イ モ ヲ | ア ゲ ヨウ | ダ ン ゴ ヲ | ア ゲ ヨウ
-D2 D2 G2 A2 | B2 d2 B2 G2 | A2 B2 A2 D2 | G6 z2 |
-w: 1.~オ イ ケ ノ | ミ _ ヅ モ | マ タ ヒ カ | ル
-w: 2.~ス ス キ モ | ハ _ ギ モ | ア ゲ マ セ | ウ
-```
+<div class="abc-score" data-abc-src="jugoya.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](jugoya.abc)
 
 ## TMD 檔案連結
 

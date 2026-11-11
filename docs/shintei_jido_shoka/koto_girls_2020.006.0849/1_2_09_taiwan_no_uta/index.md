@@ -87,26 +87,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:臺灣の歌
-C:曲：信時潔
-M:4/4
-L:1/16
-Q:1/4=120
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 F4 | D6 F2 B4 c4 | d8 c4 B4 | G8 F4 G4 |
-!f! F10 z2 F4 | D6 F2 B4 d4 | f8 d4 B4 | c8 d4 B4 |
-!mf! G10 z2 D4 | E6 F2 G4 A2 B2 | G6 G2 F4 G4 | e8 d4 G4 |
-c10 z2 F4 | D6 F2 B4 d4 | f8 d4 B4 | c8 G4 E4 |
-!mp! F10 z2 D4 | D8 G4 F4 | G6 A2 B4 G4 | F8 c4 B4 |
-!mf! G10 z2 E4 | E6 E2 B4 G4 | !f! d8 c4 d4 | e8 d4 B4 |
-!mf! c10 z2 D4 | D6 F2 G4 F2 E2 | D6 F2 G4 A2 B2 | !f! c4 B4 c4 d4 |
-f8 d4 B4 | c6 d2 c4 B4 | c8 d4 B4 | G10 z2 z4 |
-c8 B4 c4 | d12 z4 |
-```
+<div class="abc-score" data-abc-src="taiwan_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](taiwan_no_uta.abc)
 
 ## TMD 檔案連結
 

@@ -54,21 +54,9 @@ Key: イ調 (A major), Time: 2/4, Tempo: 可愛ラシク
 
 ## ABC
 
-```abc
-X:1
-T:南京玉（琉璃珠／南京玉）
-C:曲：中山晋平
-M:2/4
-L:1/16
-Q:1/4=104
-K:A
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-A2 E2 C2 C2 | E2 F2 E2 z2 | F2 A2 B2 c2 | B2 B2 B2 z2 |
-E2 A2 F2 E2 | F2 F2 A4 | B2 B2 A2 F2 | E2 E2 E2 z2 |
-C2 C2 C2 E2 | F4 F2 E2 | F3 A B2 A2 | c2 A2 B2 z2 |
-C2 C2 C2 E2 | c4 B2 A2 | F3 F F2 E2 | A6 z2 |
-```
+<div class="abc-score" data-abc-src="nankin_dama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nankin_dama.abc)
 
 ## TMD 檔案連結
 

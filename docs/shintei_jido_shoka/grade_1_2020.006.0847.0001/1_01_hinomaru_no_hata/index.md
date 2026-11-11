@@ -68,29 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ヒノマルノハタ（日之丸旗）
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F4 F4 | G4 G4 | A4 A4 | G4 z4 |
-w: 1.~シ ロ | ヂ ニ | ア カ | ク
-w: 2.~ア サ | ヒ ノ | ノ ボ | ル
-A4 A4 | c4 c4 | d4 d4 | c4 z4 |
-w: 1.~ヒ ノ | マ ル | ソ メ | テ
-w: 2.~イ キ | ホ ヒ | ミ セ | テ
-d4 d4 | c4 c4 | A4 F4 | G4 z4 |
-w: 1.~ア ア | ウ ツ | ク シ | ヤ
-w: 2.~ア ア | イ サ | マ シ | ヤ
-c4 c4 | A4 F4 | G4 A4 | F4 z4 |
-w: 1.~ニ ホ | ン ノ | ハ タ | ハ
-w: 2.~ニ ホ | ン ノ | ハ タ | ハ
-```
+<div class="abc-score" data-abc-src="hinomaru_no_hata.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hinomaru_no_hata.abc)
 
 ## TMD 檔案連結
 

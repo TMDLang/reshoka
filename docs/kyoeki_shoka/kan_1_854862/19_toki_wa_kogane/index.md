@@ -63,25 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:時はこがね
-M:4/4
-L:1/16
-Q:1/4=132
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d4 d4 d6 B2 | B4 G2 A2 B4 z4 | G4 G4 B6 A2 | G4 F2 E2 D4 z4 |
-w: 1.~い ち びょ _ | じ を _ も | を し ま む | ひ と _ の
-w: 2.~た だ と き | の ま _ も | あ だ に す | ご さ _ ぬ
-B,3 C D2 B,2 E3 E D2 G2 | A3 A G2 B2 d4 z4 | d3 e d3 d B3 d B3 B | A3 B G2 E2 D2 D2 D2 z2 |
-w: 1.~み _ に ぞ こ が ね は | つ も る べ き | や _ よ や ひ と び と | も ち ゐ て つ き ぬ
-w: 2.~ひ と に ぞ ほ ま れ は | や ど る べ き | や _ よ や ひ と び と | も ち ゐ て つ き ぬ
-d6 d2 e2 d2 c2 B2 | A2 G2 A2 B2 G4 D4 | d8 B6 G2 | B4 A4 G4 z4 |
-w: 1.~と _ き _ は _ | こ _ が _ ね の | は は _ | な る ぞ
-w: 2.~と _ き _ は _ | ほ _ ま _ れ の | ち ち _ | な る ぞ
-```
+<div class="abc-score" data-abc-src="toki_wa_kogane.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](toki_wa_kogane.abc)
 
 ## TMD 檔案連結
 

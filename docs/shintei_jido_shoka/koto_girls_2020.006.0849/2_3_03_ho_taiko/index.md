@@ -72,23 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:豐太閤
-C:曲：Campbell
-M:6/8
-L:1/16
-Q:3/8=46
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 z2 z2 z2 z2 G,2 | C4 B,2 C6 | D4 E2 F4 G2 | A2 G2 F2 E2 D2 C2 |
-B,2 C2 D2 E2 F2 D2 | E6 E2 z2 E F | G2 E2 A2 G2 c3 B | B2 A2 G2 A2 B2 G2 |
-c2 G2 E2 C2 F2 D2 | C6 C4 G, G, | C6 C4 D E | F2 D2 E2 F2 G2 A2 |
-B2 G2 E2 C2 D2 E2 | D6 D2 z2 G,2 | C4 C2 E2 E2 G G | G2 E2 G2 C4 E E |
-F2 E2 F2 G2 A2 B2 | c6 c4 A F | E6 D4 G F | C6 C2 E2 G2 |
-c3 B A2 G2 E2 D2 | C6 C4 z2 |
-```
+<div class="abc-score" data-abc-src="ho_taiko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ho_taiko.abc)
 
 ## TMD 檔案連結
 

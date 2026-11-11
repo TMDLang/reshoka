@@ -69,32 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:お人形さん
-M:4/4
-L:1/16
-Q:1/4=92
-K:Dm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B6 B2 B4 A4 | B4 d4 B4 A4 | G6 G2 B4 B4 | A12 z4 |
-w: ネ ン ネ ン | オ コ ロ リ | オ ニ ン ギャウ | サン
-F6 F2 E4 D4 | F6 F2 E4 D4 | A6 A2 G4 G4 | A12 z4 |
-w: カ ハ イ イ | カ ハ イ イ | オ ニ ン ギャウ | サン
-B6 B2 B4 A4 | B4 d4 B4 A4 | G6 G2 B4 B4 | A12 z4 |
-w: イ _ ツ モ | ナ カ ズ ニ | ネ ン ネ ス | ル
-F6 F2 E4 D4 | F6 F2 E4 D4 | A6 A2 F4 E4 | D12 z4 |
-w: ワ タ シ ノ | ス _ キ ナ | オ ニ ン ギャウ | サン
-B6 B2 B4 A4 | B4 d4 B4 A4 | G6 G2 B4 B4 | A12 z4 |
-w: ネ ン ネ ン | オ コ ロ リ | オ ニ ン ギャウ | サン
-F6 F2 E4 D4 | F6 F2 E4 D4 | A6 A2 G4 G4 | A12 z4 |
-w: オ キ タ ラ | キ レ イ ナ | ベ ベ キ セ | テ
-B6 B2 B4 A4 | B4 d4 B4 A4 | G6 G2 B4 B4 | A12 z4 |
-w: オ ザ シ キ | エ ン ガ ハ | オ ニ ハ サ | キ
-F6 F2 E4 D4 | F6 F2 E4 D4 | A6 A2 F4 E4 | D12 z4 |
-w: オ テ テ ヲ | ヒ _ イ テ | ア ル キ マ | セウ
-```
+<div class="abc-score" data-abc-src="oningyosan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oningyosan.abc)
 
 ## TMD 檔案連結
 

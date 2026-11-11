@@ -69,21 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:行軍
-C:曲：シューマン（獨）（Schumann）
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! B4 B2 B2 A4 A4 | G4 A2 B2 c2 A2 B2 G2 | F2 G2 A2 F2 G4 B4 | d4 A6 B2 G2 D2 |
-E6 G2 F2 D2 G4 | A6 c2 B2 G2 A2 B2 | c6 A2 d2 c2 B4 | A4 B4 c3 A F2 D2 |
-E6 G2 F4 A4 | d2 c2 B4 A4 d4 | G6 B2 A2 c2 B4 | d4 c2 B2 A4 G4 |
-E6 F2 G3 A B4 | A4 d4 B2 G2 D3 D | G6 A2 B2 c4 B2 | A4 D3 D G8 |
-```
+<div class="abc-score" data-abc-src="kogun.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kogun.abc)
 
 ## TMD 檔案連結
 

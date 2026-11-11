@@ -61,32 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:小さな花つくり
-M:2/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-A2 A2 d2 d2 | F2 F2 A4 | G2 G2 B2 B2 | A2 A2 F2 z2 |
-w: 1.~あ れ あ れ | う れ し | お は な が | さ い た
-w: 2.~わ た し が | う ゑ て | さ か せ た | は な よ
-w: 3.~お い で よ | て ふ てふ | ひ ら ひ ら | と ん で
-A2 A2 d2 d2 | F2 F2 A4 | B3 A G2 E2 | E2 E2 D4 |
-w: 1.~み な よ く | さ い た | わ た し の | は な が
-w: 2.~お み づ を | や つ て | そ だ て た | は な よ
-w: 3.~お は な に | と ま れ | し づ か に | と ま れ
-A2 A2 d2 d2 | F2 F2 A4 | G2 G2 B2 B2 | A2 A2 F2 z2 |
-w: 1.~あ れ あ れ | う れ し | お は な が | さ い た
-w: 2.~わ た し が | う ゑ て | さ か せ た | は な よ
-w: 3.~お い で よ | て ふ てふ | ひ ら ひ ら | と ん で
-A2 A2 d2 d2 | F2 F2 A4 | B3 A G2 E2 | E2 E2 D4 |
-w: 1.~み な よ く | さ い た | わ た し の | は な が
-w: 2.~お み づ を | や つ て | そ だ て た | は な よ
-w: 3.~お は な に | と ま れ | し づ か に | と ま れ
-```
+<div class="abc-score" data-abc-src="chiisana_hanatsukuri.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](chiisana_hanatsukuri.abc)
 
 ## TMD 檔案連結
 

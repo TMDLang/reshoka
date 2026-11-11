@@ -75,22 +75,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:國引き（國引）
-M:4/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C6 D2 E4 D4 | E2 G2 A4 G4 z4 | c6 c2 A4 G4 | A12 z4 |
-w: 1.~く に こ い | く に こ い | え ん や ら | や
-w: 2.~し ま こ い | し ま こ い | え ん や ら | や
-G6 G2 G4 E4 | G2 A4 E2 G4 z4 | G6 A2 d4 d4 | c12 z4 |
-w: 1.~か み さ ま | つ な び き | お く に び | き
-w: 2.~は っ ぱ う | の こ ら ず | よ っ て こ | い
-```
+<div class="abc-score" data-abc-src="kunibiki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kunibiki.abc)
 
 ## TMD 檔案連結
 

@@ -63,26 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:かめ
-C:曲：宮島慎三郎
-M:4/4
-L:1/16
-Q:1/4=120
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F4 F4 G4 G4 | F4 G4 A4 A4 | c4 d4 c4 A4 | F2 F2 G4 A4 z4 |
-w: 1.~か め さ ん | か め さ ん | こ ち ら へ | お _ い で
-w: 2.~か め さ ん | か め さ ん | お _ くゎ し | あ げ ま せう
-c4 c4 d4 d4 | c4 c4 A4 A4 | c4 c4 d4 d4 | c12 z4 |
-w: 1.~そ ち ら の | は う は _ | あ ぶ な い | よ
-w: 2.~か _ ほ を | だ せ だ せ | あ し を だ | せ
-F8 G4 G4 | F4 G4 A4 A4 | c4 d4 c4 A4 | G4 A4 F4 z4 |
-w: 1.~は や く | こ ち ら へ | お よ い で | お い で
-w: 2.~す き な | お くゎ し を | い ま あ げ | ま せ う
-```
+<div class="abc-score" data-abc-src="kame.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kame.abc)
 
 ## TMD 檔案連結
 

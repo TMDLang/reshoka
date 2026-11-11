@@ -47,27 +47,9 @@ Notation: Handwritten 5-line staff (1 flat = F major, 4/4 time, 16 bars, 2-part 
 
 ## ABC
 
-```abc
-X:1
-T:同窓會（二部合唱）
-C:曲：不詳
-M:4/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Vocal1" snm="Voc"
-V:V2 name="Vocal2" snm="Voc"
-[V:V1]
-!mf! A4 A3 B c4 c4 | d4 d4 c8 | G4 G3 A B4 G4 | A12 z4 |
-c4 A3 B c4 c4 | d4 d4 c8 | G4 A4 B4 A4 | G12 z4 |
-G4 G3 A B4 G4 | A4 B4 c8 | d4 d4 c4 =B4 | c12 z4 |
-!f! d4 d3 d c4 A4 | B4 B4 A8 | G4 G4 A4 G4 | F12 z4 |
-[V:V2]
-!mf! F4 F3 G A4 A4 | B4 B4 A8 | C4 C3 C C4 C4 | F12 z4 |
-F4 F3 G A4 A4 | B4 G4 F8 | C4 F4 E4 F4 | C12 z4 |
-E4 E3 F G4 E4 | F4 G4 A8 | F4 F4 G4 G4 | E12 z4 |
-!f! F4 F3 F F4 F4 | G4 E4 F8 | D4 D4 C4 C4 | F12 z4 |
-```
+<div class="abc-score" data-abc-src="dosokai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](dosokai.abc)
 
 ## TMD 檔案連結
 

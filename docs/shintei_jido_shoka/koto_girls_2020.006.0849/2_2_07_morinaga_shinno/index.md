@@ -69,21 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:護良親王
-M:4/4
-L:1/16
-Q:1/4=144
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 z4 C4 | C4 D2 E2 F4 C4 | G8 z4 G4 | A4 G2 F2 G4 c4 |
-G8 z4 C4 | C4 D2 E2 F4 C4 | G8 z4 G4 | c4 B2 c2 d4 =B4 |
-c8 z4 G4 | !f! c4 c4 d4 =B4 | c6 d2 e4 c4 | B4 G4 F4 E4 |
-G8 z4 G2 G2 | c6 __B2 A4 F4 | G6 A2 F4 =B4 | !pp! c8 z4 G4 |
-G6 A2 F4 D4 | C8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="morinaga_shinno.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](morinaga_shinno.abc)
 
 ## TMD 檔案連結
 

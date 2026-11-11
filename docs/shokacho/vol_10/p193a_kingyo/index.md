@@ -48,19 +48,9 @@ Tempo / Expression: 軽快ニ.
 
 ## ABC
 
-```abc
-X:1
-T:キンギョ 金魚
-M:2/4
-L:1/16
-Q:1/4=108
-K:Eb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z8 | z8 | B3 G E2 D2 | C2 F2 F4 |
-F2 G2 A2 F2 | G6 z2 | F2 G2 A2 B2 | c2 d2 e2 d c |
-B3 B B2 B2 | e2 z6 | z8 | z8 |
-```
+<div class="abc-score" data-abc-src="kingyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kingyo.abc)
 
 ## TMD 檔案連結
 

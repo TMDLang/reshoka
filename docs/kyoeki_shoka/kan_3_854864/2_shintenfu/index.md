@@ -66,31 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:振天府
-M:4/4
-L:1/16
-Q:1/4=192
-K:G
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-[Q:1/4=192] !f! G8 G8 | D8 D8 | G6 F2 G4 A4 | B12 z4 |
-w: 1.~だん がん | じゅ ほ | ほ こ つ る | ぎ
-w: 2.~しょ こ | し かん | か し ほ そ | つ
-d8 d8 | B4 B4 d4 d4 | c6 c2 B4 B4 | A12 z4 |
-w: 1.~にっ しん | せん ー り の | し な じ な | を
-w: 2.~せん びょ | し しゃ の ー | お も か げ | を
-G8 G4 G4 | D6 D2 D4 D4 | A8 A6 B2 | [Q:1/4=96] !mf! G12 G4 |
-w: 1.~つ ら ね | た ま ひ し | しん て ん | ふ か
-w: 2.~か か げ | た ま ひ し | しん て ん | ふ か
-d8 d6 d2 | B12 G4 | A8 B4 B4 | !f! c4 e4 d4 d4 |
-w: 1.~し こ し | や お | ほ う ち | や ま の う
-w: 2.~し こ し | や てん | の へ ー | い か の お
-e8 d8 | d6 d2 G8 |
-w: 1.~へ に | た て り
-w: 2.~ほ み | し わ ざ
-```
+<div class="abc-score" data-abc-src="shintenfu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shintenfu.abc)
 
 ## TMD 檔案連結
 

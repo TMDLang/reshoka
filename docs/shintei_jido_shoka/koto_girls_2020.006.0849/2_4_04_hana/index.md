@@ -65,43 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:花
-C:曲：瀧廉太郎
-M:2/4
-L:1/16
-Q:1/4=92
-K:A
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! E3 E C2 z E | A G F E E4 | C E A c B3 G | A4 A2 z2 |
-E3 E C2 z E | A c B F G4 | c A F d c A F D | E4 E2 z2 |
-!f! B3 B c2 z A | B3 B c2 z A | c4 B3 A | E4 E2 z2 |
-!mf! E3 E A3 B | c A F D E4 | F2 A F E2 B2 | A4 A2 z2 |
-!p! E3 E E2 z E | A G F E E4 | C E F A G3 E | F4 F2 z2 |
-C3 C D2 z D | F E D C C4 | F2 F F F3 F | ^E4 E2 z2 |
-!f! F3 F z ^E z E | F2 F F z ^E z E | F4 F2 A2 | C4 C2 z2 |
-!mf! C3 C F3 G | A F C D C4 | D2 D F E2 E2 | E4 E2 z2 |
-!f! E3 E C2 z E | A G F E E4 | C E A c B3 G | A4 A2 z2 |
-!mf! E3 E C2 z E | A c B F G4 | !p! c A F d c A F D | E4 E2 z2 |
-!f! B3 B c2 z A | B3 B c2 z A | c4 B3 A | E4 E2 z2 |
-!mf! E3 E A3 B | !f! c e f d B2 z2 | c A B G A2 B2 | A4 A2 z2 |
-[V:V2]
-!mf! C3 C A,2 z C | C E D C C4 | A, C C E E3 E | C4 C2 z2 |
-C3 C A,2 z C | C E F D E4 | C2 F F E C ^D B, | G,4 G,2 z2 |
-!f! E3 E E2 z E | E3 E E2 z E | A,4 F,2 ^B,2 | G,4 G,2 z2 |
-!mf! C3 C C3 E | A C D B, C4 | D2 D D C2 E2 | C4 C2 z2 |
-!p! E3 E E2 z E | A G F E E4 | C E F A G3 E | F4 F2 z2 |
-C3 C D2 z D | F E D C C4 | F2 F F F3 F | ^E4 E2 z2 |
-!f! F3 F z ^E z E | F2 F F z ^E z E | F4 F2 A2 | C4 C2 z2 |
-!mf! C3 C F3 G | A F C D C4 | D2 D F E2 E2 | E4 E2 z2 |
-!f! C3 C A,2 z C | C E D C C4 | A, C C E E3 E | C4 C2 z2 |
-!mf! C3 C A,2 z C | C E F D E4 | !p! C2 F F E C ^D B, | G,4 G,2 z2 |
-!f! E3 E E2 z E | E3 E E2 z E | A,4 F,2 ^B,2 | G,4 G,2 z2 |
-!mf! C3 C C3 E | !f! A3 F D2 z2 | E C E E C F E D | C4 C2 z2 |
-```
+<div class="abc-score" data-abc-src="hana.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hana.abc)
 
 ## TMD 檔案連結
 

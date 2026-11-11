@@ -73,35 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:荷車
-C:曲：大和田愛羅
-M:2/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G3 G E2 D2 | G3 G E2 D2 | G F G A B2 G2 | A6 z2 |
-w: 1.~ア _ メ ニ | ク ヅ レ タ | サ _ カ _ ミ チ | ヲ
-w: 2.~み _ ち が | わ る く て | き _ の _ ど く | だ
-d3 d e2 d2 | B3 B d2 B2 | A3 A B2 G2 | A6 z2 |
-w: 1.~ヤ _ マ ノ | ヤ _ ウ ナ | ニ グ ル マ | ガ
-w: 2.~ま _ て よ | お ぢ さ ん | ぼ く が い | ま
-G3 G E2 D2 | G3 G E2 D2 | G2 G A B2 A2 | G6 z2 |
-w: 1.~エ ン ヤ ラ | ヤ ツ ト _ | ノ ボ _ リ ユ | ク
-w: 2.~え ん さ か | ほ い と _ | お し _ て や | ろ
-G3 G E2 D2 | G3 G E2 D2 | G F G A B2 G2 | A6 z2 |
-w: 1.~ア _ メ ニ | ク ヅ レ タ | サ _ カ _ ミ チ | ヲ
-w: 2.~み _ ち が | わ る く て | き _ の _ ど く | だ
-d3 d e2 d2 | B3 B d2 B2 | A3 A B2 G2 | A6 z2 |
-w: 1.~ヤ _ マ ノ | ヤ _ ウ ナ | ニ グ ル マ | ガ
-w: 2.~ま _ て よ | お ぢ さ ん | ぼ く が い | ま
-G3 G E2 D2 | G3 G E2 D2 | G2 G A B2 A2 | G6 z2 |
-w: 1.~エ ン ヤ ラ | ヤ ツ ト _ | ノ ボ _ リ ユ | ク
-w: 2.~え ん さ か | ほ い と _ | お し _ て や | ろ
-```
+<div class="abc-score" data-abc-src="niguruma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](niguruma.abc)
 
 ## TMD 檔案連結
 

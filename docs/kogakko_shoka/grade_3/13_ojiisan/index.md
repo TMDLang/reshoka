@@ -79,28 +79,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:おぢいさん（老爺爺）
-M:2/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F3 F A2 A2 | G4 A2 G2 | F3 G F2 D2 | C6 z2 |
-w: 1.~ワ タ シ ノ | ス キ ナ | オ ヂ イ サ | ン
-w: 2.~わ た し の | す き な | お ぢ い さ | ん
-w: 3.~ワ タ シ ノ | ス キ ナ | オ ヂ イ サ | ン
-F4 F2 G2 | A3 A d2 d2 | c3 c A2 F2 | G6 z2 |
-w: 1.~スウ ツ パ | タ バ コ ノ | シ ロ イ ケ | ム
-w: 2.~ぽ つ と | す ひ が ら | ふ い て す | て
-w: 3.~ポ イ ト | キ セ ル ヲ | カ タ ニ カ | ケ
-C4 D2 C2 | F3 G A2 A2 | c2 d2 A3 G | F6 z2 |
-w: 1.~ナ ガ イ | キ セ ル デ | オ イ シ サ | ウ
-w: 2.~ぽ つ り | ぽ つ り と | お は な し | を
-w: 3.~コ ヤ ニ | ブ タ ノ コ | ミ ニ イ ツ | タ
-```
+<div class="abc-score" data-abc-src="ojiisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ojiisan.abc)
 
 ## TMD 檔案連結
 

@@ -71,40 +71,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:御稜威の光
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D4 B4 B4 A4 | G4 E4 G8 | D6 E2 D4 B4 | A12 z4 |
-w: く に た み | お ぼ す | お ほ ぎ み | の
-B6 c2 d4 B4 | G4 E4 G8 | D4 B4 A6 B2 | G12 z4 |
-w: み こ こ ろ | ふ か く | ま し ま さ | ば
-!mp! F4 A4 A4 A4 | G6 A2 B8 | E4 G4 G4 G4 | F6 G2 A8 |
-w: ぶ ん きょ う | お こ り | ぶ び ま た | ふ る ふ
-!mf! B6 c2 d4 B4 | G4 E4 G8 | D4 B4 A6 B2 | G12 z4 |
-w: み い つ は | う ち に | あ ふ れ た | り
-!f! E8 c8 | B12 z4 | B8 G8 | d12 z4 |
-w: う れ | し | う れ | し
-!mf! B6 c2 d4 B4 | G4 E4 G8 | D4 d4 c4 F4 | G12 z4 |
-w: こ の お ほ | み よ に | あ ひ た る | は
-!mf! D4 B4 B4 A4 | G4 E4 G8 | D6 E2 D4 B4 | A12 z4 |
-w: よ わ き を | た す け | じゃ を こ ら | し
-B6 c2 d4 B4 | G4 E4 G8 | D4 B4 A6 B2 | G12 z4 |
-w: じ ん ぎ の | み ち を | ふ み ま せ | ば
-!mp! F4 A4 A4 A4 | G6 A2 B8 | E4 G4 G4 G4 | F6 G2 A8 |
-w: と う ざ い | な つ き | な ん ぼ く | ふ く す
-!mf! B6 c2 d4 B4 | G4 E4 G8 | D4 B4 A6 B2 | G12 z4 |
-w: み い つ は | そ と に | あ ふ れ た | り
-!f! E8 c8 | B12 z4 | B8 G8 | d12 z4 |
-w: う れ | し | う れ | し
-!mf! B6 c2 d4 B4 | G4 E4 G8 | D4 d4 c4 F4 | G12 z4 |
-w: こ の お ほ | み よ に | あ ひ た る | は
-```
+<div class="abc-score" data-abc-src="miitsu_no_hikari.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](miitsu_no_hikari.abc)
 
 ## TMD 檔案連結
 

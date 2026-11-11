@@ -48,27 +48,9 @@ Notation: Handwritten 5-line staff (1 flat = F major, 3/4 time, 30 bars)
 
 ## ABC
 
-```abc
-X:1
-T:暫の別
-C:曲：不詳
-M:3/4
-L:1/16
-Q:1/4=160
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z4 z4 z4 | z4 z4 z4 | z4 z4 z4 | z4 z4 z4 |
-!mp! c4 c4 c4 | d8 c4 | A12 | F4 z4 z4 |
-G4 G4 G4 | C8 C4 | F12 | c4 z4 A4 |
-G4 F4 E4 | F4 G4 A4 | G12 | G4 z4 z4 |
-G4 G4 G4 | c8 G4 | B12 | A4 z4 z4 |
-G4 A4 B4 | D8 E4 | F12 | F4 z4 C4 |
-c4 c4 c4 | d8 c4 | A8 F4 | G4 A4 G4 |
-F12 | F4 z4 z4 | A4 A4 A4 | G4 F4 E4 |
-f4 f4 z4 | G4 A4 G4 | F12 | F12 |
-F12 | F4 z4 z4 |
-```
+<div class="abc-score" data-abc-src="shibashi_no_wakare.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shibashi_no_wakare.abc)
 
 ## TMD 檔案連結
 

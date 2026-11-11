@@ -52,19 +52,9 @@ title = 君が代
 
 ## ABC
 
-```abc
-X:1
-T:君が代
-M:4/4
-L:1/16
-Q:1/4=69
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!p! D4 C4 D4 E4 | G4 E4 D8 | !mf! E4 G4 A4 G2 A2 | d4 B4 A4 G4 |
-E4 G4 A8 | !f! c4 d4 c8 | !mf! E4 G4 A4 G4 | E6 D2 G,8 |
-A4 c4 d8 | c4 d4 A4 G4 | A4 G2 E2 D8 |
-```
+<div class="abc-score" data-abc-src="kimi_ga_yo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kimi_ga_yo.abc)
 
 ## TMD 檔案連結
 

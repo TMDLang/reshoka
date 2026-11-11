@@ -64,21 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:海（其一）
-M:4/4
-L:1/16
-Q:1/4=104
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 A4 | d8 c4 B4 | A12 G4 | F6 E2 D4 E4 |
-F12 A4 | d8 c4 B4 | A12 G4 | F6 F2 E4 A4 |
-D12 D4 | !mp! E8 E4 E4 | F8 E4 F4 | G6 F2 E4 F4 |
-B8 A4 A4 | !mf! d8 c4 B4 | A12 G4 | F6 A2 G4 E4 |
-D12 z4 |
-```
+<div class="abc-score" data-abc-src="umi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](umi.abc)
 
 ## TMD 檔案連結
 

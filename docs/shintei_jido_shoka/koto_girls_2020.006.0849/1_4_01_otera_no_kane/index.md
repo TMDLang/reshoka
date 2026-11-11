@@ -62,35 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:御寺の鐘の音
-M:4/4
-L:1/16
-Q:1/4=92
-K:C
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-V:V3 name="Part3" snm="Par"
-[V:V1]
-C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
-E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
-C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
-z16 | z16 | z16 | z16 |
-z16 | z16 | z16 | z16 |
-[V:V2]
-z16 | z16 | z16 | z16 |
-C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
-E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
-C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
-z16 | z16 | z16 | z16 |
-[V:V3]
-z16 | z16 | z16 | z16 |
-z16 | z16 | z16 | z16 |
-C4 B,2 A,2 G,8 | G,4 F,2 E,2 D,4 G,4 | z4 G,2 G,2 A,4 G,4 | F,4 E,2 D,2 E,8 |
-E,4 D,2 C,2 G,8 | E,4 D,4 G,4 G,4 | z4 E,2 E,2 F,4 E,4 | D,4 C,2 B,,2 C,8 |
-C,8 C,8 | C,8 C,8 | C,8 C,8 | C,8 C,8 |
-```
+<div class="abc-score" data-abc-src="otera_no_kane.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](otera_no_kane.abc)
 
 ## TMD 檔案連結
 

@@ -52,20 +52,9 @@ Tempo / Expression: 活潑ニ
 
 ## ABC
 
-```abc
-X:1
-T:ウ・マ 馬
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=120
-K:G
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z16 | z16 | G4 A4 B4 A4 | G4 E4 D4 D4 |
-G4 A4 B4 G4 | A12 z4 | d4 e2 d2 B6 A2 | G4 A2 G2 E4 D4 |
-z4 G8 B4 | z4 A8 d4 | G8 G8 | G4 z12 |
-```
+<div class="abc-score" data-abc-src="uma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](uma.abc)
 
 ## TMD 檔案連結
 

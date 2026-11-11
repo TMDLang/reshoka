@@ -52,20 +52,9 @@ Dynamics: Line 1: mf, Line 2: f, Line 3: mf, Line 4: f
 
 ## ABC
 
-```abc
-X:1
-T:遠別離 遠別離
-M:4/4
-L:1/16
-Q:1/4=100
-K:Ab
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z12 E4 | A3 F E4 A4 B3 c | B4 A4 B6 c B | A4 B4 c4 z4 |
-E4 e3 d c4 A4 | F3 G A4 E4 A4 | c2 B2 A2 B2 A4 z4 | E4 A3 F E4 A4 |
-c3 B A4 A4 B3 c | d4 e4 c4 z4 | E4 e3 d c4 A4 | F3 G A4 E4 A4 |
-c2 B2 A2 G2 A4 z4 |
-```
+<div class="abc-score" data-abc-src="enbetsuri.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](enbetsuri.abc)
 
 ## TMD 檔案連結
 

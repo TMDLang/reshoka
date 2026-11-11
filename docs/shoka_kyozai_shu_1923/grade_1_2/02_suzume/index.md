@@ -64,29 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:雀
-C:曲：文部省《尋常小學唱歌》
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F2 G2 A4 | F2 G2 A4 | c4 A2 c2 | d4 z4 |
-w: 1.~す ず め | す ず め | けふ も ま | た
-w: 2.~い い え | み な さん | あそ こ に | は
-c2 c2 A2 A2 | G2 G2 F2 F2 | G2 G2 F2 G2 | A4 z4 |
-w: 1.~く ら い _ | み ち を _ | た だ ひ と | り
-w: 2.~と う さ ま | か あ さ ま | ま つ て ゐ | て
-D2 D2 F2 F2 | G2 G2 F2 G2 | A2 A2 G2 A2 | c4 z4 |
-w: 1.~は や し の | お _ く の | た け や ぶ | の
-w: 2.~た の し い | お う ち が | あ り ま す | る
-d2 d2 d2 c2 | d2 d2 c2 F2 | A2 A2 G2 G2 | F4 z4 |
-w: 1.~さ び し い | お う ち へ | か へ る の | か
-w: 2.~さ よ な ら | み な さ ん | ちゆう _ ちゆう _ | ちゆう
-```
+<div class="abc-score" data-abc-src="suzume.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](suzume.abc)
 
 ## TMD 檔案連結
 

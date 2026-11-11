@@ -68,29 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:デンシンバシラ（電線桿）
-C:曲：草川信
-M:2/4
-L:1/16
-Q:1/4=104
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c4 G4 | A2 A2 G2 G2 | c2 c2 G2 G2 | A2 G2 E2 z2 |
-w: 1.~イツ ポン | ニ ホ ン ト | カ ゾ ヘ テ | ミ テ モ
-w: 2.~ホ ソイ | セ ン ニ ハ | ス ズ メ ガ | ト マ ル
-G4 c2 c2 | d2 d2 e2 c2 | d2 d2 d2 d2 | e2 d2 c2 z2 |
-w: 1.~カ ゾ ヘ | キ レ ナ イ | デ ン シ ン | バ シ ラ
-w: 2.~フ ト イ | セ ン ニ ハ | ツ バ メ ガ | ト マ ル
-!mp! C4 E2 E2 | G2 G2 E2 C2 | c2 A2 c2 A2 | G2 E2 G2 z2 |
-w: 1.~デン シ ン | バ シ ラ ハ | ド コ マ デ | ツ ヅ ク
-w: 2.~ト ホ ル | デ ン セ ン | ナ ラ ン ダ | ハ シ ラ
-!mf! A4 c2 A2 | G2 G A E2 G2 | A2 c2 G E D C | E2 D2 C2 z2 |
-w: 1.~ト ホ イ | オ ヤ _ マ ノ | ヤ マ ギ _ ハ _ | マ デ モ
-w: 2.~ミ チ ハ | ナ ガ _ イ ヨ | メ ニ ミ _ エ _ | ナ イ ヨ
-```
+<div class="abc-score" data-abc-src="denshin_bashira.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](denshin_bashira.abc)
 
 ## TMD 檔案連結
 

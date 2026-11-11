@@ -65,39 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:富士と新高
-C:曲：獨國風歌
-M:4/4
-L:1/16
-Q:1/4=88
-K:F
-V:V1 name="Piano" snm="Pia"
-V:V2 name="Piano2" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 C4 | A8 G4 A4 | F8 C4 C4 | c8 B4 c4 |
-w: 1.~あ | は れ あ | は れ ふ | じ の や
-w: 2.~あ | は れ あ | は れ い | や た か
-w: 3.~あ | は れ あ | は れ あ | ふ ぎ み
-!f! A8 z4 F4 | d4 d4 d4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: 1.~ま か | か る よ き | や ま ま | た と _ あ ら
-w: 2.~き や | ま は に ひ | た か く | も に _ そ び
-w: 3.~よ を | を し う つ | く し た | み の _ ぎ ひょ
-!f! A8 z4 F4 | d4 d4 f4 d4 | !mf! c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: 1.~じ や | ま と ご こ | ろ の こ | り し _ す が
-w: 2.~え を | を し け だ | か し く | に の _ ほ ま
-w: 3.~う ふ | じ と に ひ | た か た | た へ _ あ ふ
-A8 z4 z4 |
-w: 1.~た
-w: 2.~れ
-w: 3.~げ
-[V:V2]
-!mf! z4 z4 z4 C4 | F8 C4 C4 | A,8 A,4 C4 | A8 G4 E4 |
-!f! F8 z4 F4 | B4 B4 B4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
-!f! F8 z4 F4 | B4 B4 d4 B4 | !mf! A8 F4 A4 | A4 G2 F2 G4 E4 |
-F8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="fuji_to_niitaka.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](fuji_to_niitaka.abc)
 
 ## TMD 檔案連結
 

@@ -63,26 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:スズフルオウマ（鈴鐺響的小馬）
-C:曲：山本壽
-M:2/4
-L:1/16
-Q:1/4=108
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A2 E E F2 E2 | A2 E E F2 E2 | C2 E2 F2 A B | c2 c e c B A2 |
-w: 1.~シャン コ ロ シャン コ | シャン コ ロ シャン コ | ス ズ フ リ _ | フ リ _ フ _ リ
-w: 2.~シャン コ ロ シャン コ | シャン コ ロ シャン コ | ワ タ シ モ _ | フ リ _ タ _ イ
-B2 A B c2 B A | F2 F2 E2 z2 | C2 E2 F2 A B | c2 c e c B A2 |
-w: 1.~ヨ ア _ ケ ノ _ | マ チ ヲ | ク リ ゲ ノ _ | オ ウ _ マ _ ガ
-w: 2.~ギ _ _ ン ノ _ | ス _ ズ | ク リ ゲ ノ _ | オ ウ _ マ _ ガ
-B2 A B c2 B2 | A6 z2 |
-w: 1.~ト ホ _ リ マ | ス
-w: 2.~ウラ ヤ マ シ _ | ナ
-```
+<div class="abc-score" data-abc-src="suzu_furu_ouma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](suzu_furu_ouma.abc)
 
 ## TMD 檔案連結
 

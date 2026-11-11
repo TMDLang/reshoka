@@ -48,22 +48,9 @@ Annotations: ハ調 二拍子, 大正幼年唱歌 第六集 十五頁
 
 ## ABC
 
-```abc
-X:1
-T:オサル
-C:曲：大正幼年唱歌 第六集
-M:2/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! G2 A G G2 z2 | G2 A G G2 z2 | E2 z2 D2 z2 | G,4 z4 |
-A2 c d c2 z2 | A2 c d c2 z2 | A2 z2 G2 z2 | E4 z4 |
-G3 G G2 G2 | G2 c2 G4 | E3 E E2 E2 | E2 G2 D4 |
-G2 A G G2 z2 | G2 A G G2 z2 | E2 z2 D2 z2 | G,4 z4 |
-A2 c d c2 z2 | A2 c d c2 z2 | A2 z2 G2 z2 | C4 z4 |
-```
+<div class="abc-score" data-abc-src="osaru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](osaru.abc)
 
 ## TMD 檔案連結
 

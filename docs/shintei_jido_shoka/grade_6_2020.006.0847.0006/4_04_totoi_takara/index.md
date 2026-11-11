@@ -79,66 +79,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:尊い寶
-M:4/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-V:V2 name="PianoLH" snm="Pia"
-[V:V1]
-C2 D2 E2 F2 G4 A2 G2 | c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 |
-w: か ね よ り た ふ と | い | た か ら は じ _ か _ | ん
-E2 D2 C2 D2 E2 F2 G2 A2 | G12 z4 | A2 G2 A2 G2 A4 d4 | c12 z4 |
-w: ふ た た び か へ ら _ | ぬ | だ い じ な じ か | ん
-d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 | E2 D2 C2 D2 E4 G4 | D12 z4 |
-w: せ い くわ つ か い ぞ う | の | い の い ち ば ん | に
-C2 D2 E2 F2 G4 A2 G2 | c12 z4 | G4 e4 d6 c2 | c12 z4 |
-w: じ か ん を そ ん _ | ちよう | い た し ま | せう
-C2 D2 E2 F2 G4 A2 G2 | c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 |
-w: か ね よ り た ふ と | い | た か ら は じ _ か _ | ん
-E2 D2 C2 D2 E2 F2 G2 A2 | G12 z4 | A2 G2 A2 G2 A4 d4 | c12 z4 |
-w: に ど と は え ら れ _ | ぬ | せ つ な い じ か | ん
-d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 | E2 D2 C2 D2 E4 G4 | D12 z4 |
-w: しや く わ い か い ぜ ん | の | い の い ち ば ん | に
-C2 D2 E2 F2 G4 A2 G2 | c12 z4 | G4 e4 d6 c2 | c12 z4 |
-w: じ か ん を た だ し | く | い た し ま | せう
-C2 D2 E2 F2 G4 A2 G2 | c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 |
-w: か ね よ り た ふ と | い | た か ら は じ _ か _ | ん
-E2 D2 C2 D2 E2 F2 G2 A2 | G12 z4 | A2 G2 A2 G2 A4 d4 | c12 z4 |
-w: い ち ど _ す ぎ た _ | ら | か へ ら ぬ じ か | ん
-d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 | E2 D2 C2 D2 E4 G4 | D12 z4 |
-w: の う り つ ぞ う し ん | の | そ の て は じ め | に
-C2 D2 E2 F2 G4 A2 G2 | c12 z4 | G4 e4 d6 c2 | c12 z4 |
-w: じ か ん は う ま _ | く | つ か ひ ま | せう
-C2 D2 E2 F2 G4 A2 G2 | c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 |
-w: か ね よ り た ふ と | い | た か ら は じ _ か _ | ん
-E2 D2 C2 D2 E2 F2 G2 A2 | G12 z4 | A2 G2 A2 G2 A4 d4 | c12 z4 |
-w: ふ た た び か へ ら _ | ぬ | だ い じ な じ か | ん
-d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 | E2 D2 C2 D2 E4 G4 | D12 z4 |
-w: ぶ ん か _ ぞ う しよ く | の | そ の て は じ め | に
-C2 D2 E2 F2 G4 A2 G2 | c12 z4 | G4 e4 d6 c2 | c12 z4 |
-w: じ か ん を た だ し | く | ま も り ま | せう
-[V:V2]
-z8 z8 | C2 D2 E2 F2 G4 A2 G2 | c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 |
-G12 z4 | E2 D2 C2 D2 E2 F2 G2 A2 | G12 z4 | A2 G2 A2 G2 A4 d4 |
-c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 | E2 D2 E2 F2 E2 D2 C2 E2 |
-G12 z4 | C2 D2 E2 F2 G2 G2 A2 G2 | E4 G4 F6 D2 | E12 z4 |
-z8 z8 | C2 D2 E2 F2 G4 A2 G2 | c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 |
-G12 z4 | E2 D2 C2 D2 E2 F2 G2 A2 | G12 z4 | A2 G2 A2 G2 A4 d4 |
-c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 | E2 D2 E2 F2 E2 D2 C2 E2 |
-G12 z4 | C2 D2 E2 F2 G2 G2 A2 G2 | E4 G4 F6 D2 | E12 z4 |
-z8 z8 | C2 D2 E2 F2 G4 A2 G2 | c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 |
-G12 z4 | E2 D2 C2 D2 E2 F2 G2 A2 | G12 z4 | A2 G2 A2 G2 A4 d4 |
-c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 | E2 D2 E2 F2 E2 D2 C2 E2 |
-G12 z4 | C2 D2 E2 F2 G2 G2 A2 G2 | E4 G4 F6 D2 | E12 z4 |
-z8 z8 | C2 D2 E2 F2 G4 A2 G2 | c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 |
-G12 z4 | E2 D2 C2 D2 E2 F2 G2 A2 | G12 z4 | A2 G2 A2 G2 A4 d4 |
-c12 z4 | d2 c2 d2 e2 d2 c2 A2 c2 | G12 z4 | E2 D2 E2 F2 E2 D2 C2 E2 |
-G12 z4 | C2 D2 E2 F2 G2 G2 A2 G2 | E4 G4 F6 D2 | E12 z4 |
-```
+<div class="abc-score" data-abc-src="totoi_takara.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](totoi_takara.abc)
 
 ## TMD 檔案連結
 

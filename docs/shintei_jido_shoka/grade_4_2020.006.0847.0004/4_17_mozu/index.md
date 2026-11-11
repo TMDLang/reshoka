@@ -66,29 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:百舌鳥
-C:曲：小松耕輔
-M:4/4
-L:1/16
-Q:1/4=112
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G4 B2 A2 G4 D4 | E4 G2 E2 D8 | G6 A2 B4 G2 B2 | A12 z4 |
-w: 1.~ク レ _ ユ ク | サ ト _ ノ | ヲ カ ノ ウ _ | ヘ
-w: 2.~か ぜ _ さ へ | お ち _ て | し づ け き _ | に
-B6 e2 d4 B4 | A4 G2 A2 B4 G4 | A4 G2 A2 B4 A4 | G12 z4 |
-w: 1.~ヒ ト モ ト | タ カ _ キ ハ | ナ ニ _ ノ キ | ゾ
-w: 2.~い か れ る | ご _ _ と き | こ ゑ _ つ よ | く
-d6 B2 e4 d4 | G4 B4 A8 | B6 G2 F4 E4 | D12 z4 |
-w: 1.~キ ノ イ タ | ダ キ ニ | コ エ ア ゲ | テ
-w: 2.~し づ み ゆ | く ひ に | て ら さ れ | て
-D6 D2 G2 A2 B4 | d8 B4 e4 | d6 B2 A4 B2 A2 | G12 z4 |
-w: 1.~シ キ リ _ ニ | ナ ケ ル | モ ズ イ チ _ | ハ
-w: 2.~し き り _ に | な け る | も ず い ち _ | は
-```
+<div class="abc-score" data-abc-src="mozu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mozu.abc)
 
 ## TMD 檔案連結
 

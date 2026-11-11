@@ -63,22 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋ノ湖上（秋日湖上）
-M:3/8
-L:1/16
-Q:1/8=216
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! D2 G2 A2 | B2 d2 z2 | d2 A2 d2 | B4 z2 |
-D2 G2 A2 | B2 d2 z2 | d2 A2 B2 | G4 z2 |
-!mf! B2 B2 B2 | e3 B B2 | B2 B2 A2 | G4 z2 |
-!f! A2 A2 A2 | d2 A2 z A | A2 G2 E2 | D4 z2 |
-!mp! D2 G2 A2 | B2 d2 z d | d2 A2 d2 | B4 z2 |
-!p! D2 G2 A2 | B2 d2 z2 | !pp! d2 A2 B2 | G4 z2 |
-```
+<div class="abc-score" data-abc-src="aki_no_kojo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](aki_no_kojo.abc)
 
 ## TMD 檔案連結
 

@@ -66,40 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:兎の餅つき
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A3 A G2 G2 | F3 F C4 | F3 E F2 G2 | A4 z4 |
-w: 1.~ゆ ふ べ の | ゆ め は | お も し ろ | い
-w: 2.~だ い ふ く | も ち の | つ き た て | を
-c4 c3 A | G3 G G2 F2 | C3 C C2 D2 | C4 z4 |
-w: 1.~つ き の | せ か い に | いつ た れ ば | _
-w: 2.~あ と は | お う ち の | お み あ げ | と
-F3 G A2 d2 | c2 c c G2 z2 | B3 B A2 F2 | G4 z4 |
-w: 1.~ね ぢ は ち | ま _ き の | し ろ う さ | ぎ
-w: 2.~く _ れ た | じ ふ ば こ | え ん や ら | や
-F3 G A2 z2 | d2 d d c2 z2 | A3 A G2 G2 | F4 z4 |
-w: 1.~も ち を | ぺ た ん こ | つ い て ゐ | た
-w: 2.~か つ ぐ | ひや う し に | め が さ め | た
-A3 A G2 G2 | F3 F C4 | F3 E F2 G2 | A4 z4 |
-w: 1.~ゆ ふ べ の | ゆ め は | お も し ろ | い
-w: 2.~だ い ふ く | も ち の | つ き た て | を
-c4 c3 A | G3 G G2 F2 | C3 C C2 D2 | C4 z4 |
-w: 1.~つ き の | せ か い に | いつ た れ ば | _
-w: 2.~あ と は | お う ち の | お み あ げ | と
-F3 G A2 d2 | c2 c c G2 z2 | B3 B A2 F2 | G4 z4 |
-w: 1.~ね ぢ は ち | ま _ き の | し ろ う さ | ぎ
-w: 2.~く _ れ た | じ ふ ば こ | え ん や ら | や
-F3 G A2 z2 | d2 d d c2 z2 | A3 A G2 G2 | F4 z4 |
-w: 1.~も ち を | ぺ た ん こ | つ い て ゐ | た
-w: 2.~か つ ぐ | ひや う し に | め が さ め | た
-```
+<div class="abc-score" data-abc-src="usagi_no_mochitsuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](usagi_no_mochitsuki.abc)
 
 ## TMD 檔案連結
 

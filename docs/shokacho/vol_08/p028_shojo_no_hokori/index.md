@@ -59,20 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:少女のほこり（少女的驕傲）
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! G8 A4 G4 | c4 d2 e2 G4 G4 | A4 c4 A2 G2 E2 G2 | A12 z4 |
-!mf! c8 e4 d4 | c4 d2 c2 A4 G2 G2 | d6 d2 e4 d4 | c12 z4 |
-!p! E8 G4 G4 | A4 c4 c2 A2 G4 | C6 D2 E4 G2 A2 | G12 z4 |
-!f! e6 e2 e4 e4 | d4 d4 c4 c4 | E4 G4 A2 c2 e2 d2 | c12 z4 |
-```
+<div class="abc-score" data-abc-src="shojo_no_hokori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shojo_no_hokori.abc)
 
 ## TMD 檔案連結
 

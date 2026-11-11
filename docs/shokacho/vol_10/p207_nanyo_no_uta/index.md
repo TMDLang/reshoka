@@ -76,20 +76,9 @@ Lyrics (10 Verses):
 
 ## ABC
 
-```abc
-X:1
-T:南洋の歌 南洋之歌
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-c3 c c3 c | A3 A c3 c | d3 c A3 c | d4 z4 |
-c3 d e3 e | d3 c A3 A | G3 A G3 E | G4 z4 |
-A3 G E3 G | A3 A A3 G | A3 c d3 e | d4 z4 |
-c3 d e3 e | d3 c A3 A | G3 c e3 d | c4 z4 |
-```
+<div class="abc-score" data-abc-src="nanyo_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nanyo_no_uta.abc)
 
 ## TMD 檔案連結
 

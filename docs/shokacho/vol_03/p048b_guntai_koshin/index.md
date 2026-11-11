@@ -49,24 +49,9 @@ title = 軍隊行進
 
 ## ABC
 
-```abc
-X:1
-T:軍隊行進
-M:2/4
-L:1/16
-Q:1/4=116
-K:C
-V:V1 name="Melody" snm="Mel"
-[V:V1]
-G2 c3 e c2 | e2 c2 e4 | g2 g g e2 g2 | e4 c4 |
-G2 c3 e c2 | e2 c2 e4 | g2 g g e2 e2 | c4 z4 |
-g2 e3 g e2 | c2 G2 c4 | e2 e e c2 e2 | c4 G4 |
-g2 e3 g e2 | c2 G2 c4 | e2 e e c2 e2 | c4 z4 |
-c4 c3 c | e3 c G4 | c2 c2 e2 c2 | g4 G4 |
-c4 c3 c | e3 c G4 | c2 c2 c2 e2 | c4 z4 |
-G4 G3 c | e3 c G4 | g2 g2 g2 g2 | e4 c4 |
-G4 G3 c | e3 c G4 | g2 g2 g2 e2 | c4 z4 |
-```
+<div class="abc-score" data-abc-src="guntai_koshin.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](guntai_koshin.abc)
 
 ## TMD 檔案連結
 

@@ -63,26 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:さあ遊びませう
-C:曲：宮島慎三郎
-M:2/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 c2 z2 | A2 A2 F2 z2 | G2 A2 G2 F2 | G2 G2 c2 z2 |
-w: 1.~に ん ぎゃう | に ん ぎゃう | か は い い | に ん ぎゃう
-w: 2.~な く な | な く な | か は い い | に ん ぎゃう
-c2 c2 d2 d2 | c2 c2 A2 A2 | G2 G2 F2 G2 | A2 A2 A2 z2 |
-w: 1.~ばう _ _ し | か ぶ せ て | き も の も | き せ て
-w: 2.~ひ も じ い | な ら ば _ | お くゎ し も | あ げ よう
-F2 F2 D2 D2 | C4 F2 F2 | A2 A2 G2 G2 | A2 G2 F2 z2 |
-w: 1.~こ れ か ら | いっ しょ に | さ あ あ そ | び ま せう
-w: 2.~な か ず に | いっ しょ に | さ あ あ そ | び ま せう
-```
+<div class="abc-score" data-abc-src="saa_asobimasho.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](saa_asobimasho.abc)
 
 ## TMD 檔案連結
 

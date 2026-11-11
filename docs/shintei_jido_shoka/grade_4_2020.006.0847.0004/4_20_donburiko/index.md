@@ -72,29 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:どんぶりこ
-C:曲：佐々木英／詞：西郷果
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 c2 c2 d2 | c2 A G G2 z2 | !mp! z2 G2 G2 A2 | G2 E D C2 z2 |
-w: 1.~コ ナ ミ | ドン ブ リ コ | コ ナ ミ | ドン ブ リ コ
-w: 2.~こ な み | どん ぶ り こ | こ な み | どん ぶ り こ
-!mf! C3 C D2 E2 | G3 G A2 G2 | G3 G E2 D2 | C6 z2 |
-w: 1.~シ ロ ス ナ | ハ _ マ ノ | ホ シ ヅ キ | ヨ
-w: 2.~な _ み の | せ な か に | の せ ら れ | て
-!f! F4 F2 F2 | F2 E F G2 z2 | A3 G C2 D2 | E6 z2 |
-w: 1.~ト ホ イ | オ キ カ ラ | カ ズ シ レ | ズ
-w: 2.~ゆ め の | し ま か ら | う た ご ゑ | が
-!mf! C3 C D2 E2 | G3 G A2 G2 | G3 G E2 D2 | C6 z2 |
-w: 1.~ナ _ ミ ハ | ドン ブ リコ ト | ヨ セ テ ク | ル
-w: 2.~どん ぶ り こ | どん ぶ りこ と | き し を う | つ
-```
+<div class="abc-score" data-abc-src="donburiko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](donburiko.abc)
 
 ## TMD 檔案連結
 

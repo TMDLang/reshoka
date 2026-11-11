@@ -67,34 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:つばめ
-M:4/4
-L:1/16
-Q:1/4=116
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 G2 B c | B8 B2 F2 G3 A | G8 z4 E2 F2 | G4 B4 z2 e2 c4 |
-w: ひ ら _ | り _ す い す | い た の | も の つ ば
-B8 z4 G2 B c | B8 B2 F2 G3 A | G8 z4 E2 F2 | G2 B4 c2 G4 F4 |
-w: め さ な _ | へ _ な び き | て つ ゆ | の た ま ほ ろ
-!f! E8 z4 c2 c d | c8 c2 B2 A2 c2 | !mp! G8 z4 G2 B2 | A4 c4 z2 G2 F3 E |
-w: り か へ _ | す _ つ ば さ | に あ さ | ひ が ひ か _
-!mf! G8 z4 B2 c d | c8 c2 G2 A3 B | c12 c2 A2 | B2 G2 E2 A2 G4 F4 |
-w: る あ さ _ | ひ _ う れ し | や た う | え _ の _ こ う
-E8 z4 z4 | !mf! z4 z4 z4 G2 B c | B8 B2 F2 G3 A | G8 z4 E2 F2 |
-w: た | ひ ら _ | り _ す い す | い か は
-G4 B4 z2 e2 c4 | B8 z4 G2 B c | B8 B2 F2 G3 A | G8 z4 E2 F2 |
-w: も の つ ば | め や な _ | ぎ _ か す め | て か れ
-G2 B4 c2 G4 F4 | !f! E8 z4 c2 c d | c8 c2 B2 A2 c2 | !mp! G8 z4 G2 B2 |
-w: は が _ は ら | り か へ _ | す _ つ ば さ | に ゆ ふ
-A4 c4 z2 G2 F3 E | !mf! G8 z4 B2 c d | c8 c2 G2 A3 B | c12 c2 A2 |
-w: ひ が ひ か _ | る ゆ ふ _ | ひ _ さ び し | や せ ん
-B2 G2 E2 A2 G4 F4 | E8 z4 z4 |
-w: ど う の _ こ う | た
-```
+<div class="abc-score" data-abc-src="tsubame.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsubame.abc)
 
 ## TMD 檔案連結
 

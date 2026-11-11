@@ -61,25 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:カラス（烏鴉）
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c3 A c3 A | c2 A2 G2 F2 | A3 A G2 F2 | G4 z4 |
-w: カ ア カ ア | カ ラ ス ガ | ナ イ テ イ | ク
-c4 A2 G2 | A2 G2 F4 | A3 G F2 G2 | A4 z4 |
-w: カ ラ ス | カ ラ ス | ド コ ヘ イ | ク
-c2 c2 d2 d2 | c2 c2 A4 | c2 c2 d2 d2 | c2 c2 A4 |
-w: オ ミ ヤ ノ | モ リ ヘ | オ テ ラ ノ | ヤ ネ ヘ
-c3 A c3 A | c2 A2 G2 F2 | A3 A G2 G2 | F4 z4 |
-w: カ ア カ ア | カ ラ ス ガ | ナ イ テ イ | ク
-```
+<div class="abc-score" data-abc-src="karasu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](karasu.abc)
 
 ## TMD 檔案連結
 

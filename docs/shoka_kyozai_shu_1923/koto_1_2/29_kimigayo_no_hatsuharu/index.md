@@ -68,42 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:君が代の初春（二部）
-M:4/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Alto" snm="Alt"
-V:V2 name="Vocal" snm="Voc"
-[V:V1]
-!mf! A8 B4 A4 | A8 F8 | D4 D4 C4 C4 | F12 z4 |
-w: 1.~き み が | よ の | は つ は る | の
-w: 2.~き み が | よ の | は る く れ | ば
-A4 A4 B4 A4 | A8 F4 F4 | E4 E4 G4 F4 | E12 z4 |
-w: 1.~さ か り に | に ほ ふ | う め の は | な
-w: 2.~こ ず ゑ に | う つ る | う ぐ ひ す | も
-!f! E4 F4 E4 D4 | F8 A4 A4 | E4 F4 E4 D4 | E12 z4 |
-w: 1.~い つ し か | い ろ に | あ ら は れ | て
-w: 2.~い つ し か | こ ゑ に | う ち い で | て
-!mf! A4 A4 B4 A4 | A8 F4 F4 | D4 B,4 A,2 B,2 C2 B,2 | A,12 z4 |
-w: 1.~か を れ る | も の を | よ の ひ _ と _ | よ
-w: 2.~さ へ づ る | も の を | よ の ひ _ と _ | よ
-[V:V2]
-!mf! c8 d4 c4 | c8 A8 | F4 F4 G4 G4 | A12 z4 |
-w: 1.~き み が | よ の | は つ は る | の
-w: 2.~き み が | よ の | は る く れ | ば
-c4 c4 d4 c4 | c8 A4 A4 | G4 c4 e4 d4 | c12 z4 |
-w: 1.~さ か り に | に ほ ふ | う め の は | な
-w: 2.~こ ず ゑ に | う つ る | う ぐ ひ す | も
-!f! B4 A4 G4 F4 | d8 c4 c4 | B4 A4 G4 F4 | c12 z4 |
-w: 1.~い つ し か | い ろ に | あ ら は れ | て
-w: 2.~い つ し か | こ ゑ に | う ち い で | て
-!mf! c4 c4 d4 c4 | c8 A4 A4 | B4 G4 F4 E4 | F12 z4 |
-w: 1.~か を れ る | も の を | よ の ひ と | よ
-w: 2.~さ へ づ る | も の を | よ の ひ と | よ
-```
+<div class="abc-score" data-abc-src="kimigayo_no_hatsuharu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kimigayo_no_hatsuharu.abc)
 
 ## TMD 檔案連結
 

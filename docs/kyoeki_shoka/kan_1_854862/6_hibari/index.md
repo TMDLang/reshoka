@@ -65,31 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:雲雀
-M:2/4
-L:1/16
-Q:1/4=126
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! G3 G G2 G2 | A2 G2 G2 G2 | A3 G A2 B2 | c2 G2 G4 |
-w: 1.~か す み を | し の ぎ て | く も ゐ の | そ ら に
-w: 2.~つ ば さ を | を さ め て | た だ ひ と | お ち に
-G3 G G2 G2 | c2 G2 G2 G2 | A3 G A2 B2 | c8 |
-w: 1.~こ こ ま で | こ よ と か | よ ぶ ひ ば | り
-w: 2.~お ち て は | の ぼ る よ | あ の ひ ば | り
-d2 d2 G2 G2 | c2 c2 G2 G2 | d2 d2 G2 G2 | c2 c2 G2 G2 |
-w: 1.~ぴ よ ぴ よ | ぴ よ ぴ よ | ひ ら ひ ら | ひ ら ひ ら
-w: 2.~ひ ら ひ ら | ひ ら ひ ら | ぴ よ ぴ よ | ぴ よ ぴ よ
-E3 F G2 G2 | A3 G A2 B2 | c3 B c2 d2 | G8 |
-w: 1.~た か し や | た か し や | あ の ひ ば | り
-w: 2.~お も し ろ | お も し ろ | や よ ひ ば | り
-c3 c c2 c2 | d2 G2 G2 G2 | A3 G A2 B2 | c8 |
-w: 1.~す が た は | か く れ て | こ え ば か | り
-w: 2.~ま て ま て | わ れ ら も | い ま の ぼ | る
-```
+<div class="abc-score" data-abc-src="hibari.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hibari.abc)
 
 ## TMD 檔案連結
 

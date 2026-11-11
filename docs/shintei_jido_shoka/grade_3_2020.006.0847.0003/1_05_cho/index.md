@@ -53,24 +53,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:蝶
-M:2/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 C2 F2 G2 | A2 A2 G2 F2 | B2 A2 G2 F2 | G2 G2 G2 z2 |
-w: ち つ た | は な び ら | ひ ら ひ ら | ひ ら と
-z2 c2 A2 c2 | d2 d2 c2 A2 | c2 A2 G2 A2 | F6 z2 |
-w: てふ _ を | お つ か け | ま ひ あ が | る
-z2 C2 F2 G2 | A2 A2 G2 F2 | B2 A2 G2 F2 | G2 G2 G2 z2 |
-w: お ふ は | てふ _ てふ か | に げ る は | は な か
-z2 c2 A2 c2 | d2 d2 c2 A2 | G2 G2 c3 c | F6 z2 |
-w: は な と | てふ _ てふ が | お に ご つ | こ
-```
+<div class="abc-score" data-abc-src="cho.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](cho.abc)
 
 ## TMD 檔案連結
 

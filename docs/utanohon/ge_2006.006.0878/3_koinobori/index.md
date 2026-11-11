@@ -73,28 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:コヒノボリ（鯉魚旗）
-M:2/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 c2 c2 | d2 d2 d2 d2 | A2 A2 G2 F2 | G4 z4 |
-w: 1.~ア ガ ッ タ | ア ガ ッ タ | コ ヒ ノ ボ | リ
-w: 2.~ハ _ レ タ | ゴ グヮ ツ ノ | ア ヲ イ ソ | ラ
-w: 3.~コ ト シ ハ | フ エ タ ゾ | コ ヒ ノ カ | ズ
-E2 E2 D2 C2 | D2 F2 G2 G2 | A2 A2 G2 E2 | G4 z4 |
-w: 1.~カ ラ カ ラ | マ ハ ル _ | ヤ グ ル マ | ノ
-w: 2.~ウ _ カ ブ | ア ノ ク モ | シ ロ イ ク | モ
-w: 3.~ボ _ ク ノ | マ ゴ ヒ ニ | マ ケ ヌ ヤ | ウ
-c2 c2 d2 c2 | A2 G2 E2 G2 | A2 A2 G2 G2 | c4 z4 |
-w: 1.~ウ _ ヘ ニ | キ ラ キ ラ | カ ゴ ノ タ | マ
-w: 2.~タ ダ ヒ ト | ノ _ ミ ト | コ ヒ ノ ボ | リ
-w: 3.~ヲ _ ド ル | バ ウ ヤ ノ | ア カ イ コ | ヒ
-```
+<div class="abc-score" data-abc-src="koinobori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](koinobori.abc)
 
 ## TMD 檔案連結
 

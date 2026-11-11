@@ -63,26 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:にぐるま（人力車／運貨車）
-C:曲：大和田愛羅
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G4 E2 D2 | G3 G E2 D2 | G F G A B2 G2 | A6 z2 |
-w: 1.~あ め に | く づ れ た | さ _ か _ み ち | を
-w: 2.~み ち が | わ る く て | き _ の _ ど く | だ
-d4 e2 d2 | B3 B d2 B2 | A3 A B2 G2 | A6 z2 |
-w: 1.~や ま の | や _ う な | に ぐ る ま | が
-w: 2.~ま て よ | お ぢ さ ん | ぼ く が い | ま
-G3 G E2 D2 | G3 G E3 D | G2 G A B2 A2 | G6 z2 |
-w: 1.~エ ン ヤ ラ | ヤ ツ と _ | の ぼ _ り ゆ | く
-w: 2.~エ ン サ カ | ホ _ イ と | お し _ て や | ろ
-```
+<div class="abc-score" data-abc-src="niguruma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](niguruma.abc)
 
 ## TMD 檔案連結
 

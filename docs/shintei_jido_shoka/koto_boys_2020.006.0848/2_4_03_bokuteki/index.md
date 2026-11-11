@@ -59,31 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:牧笛
-C:曲：グロース（獨）（Groos）
-M:3/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! z4 z4 D4 | G8 B4 | d8 B4 | d8 B4 |
-A8 D4 | G8 B4 | c4 B4 A4 | d4 c4 B4 |
-A8 D4 | B4 A4 G4 | d8 B4 | A4 G4 F4 |
-G8 D4 | B4 A4 G4 | d8 B4 | A4 G4 F4 |
-!f! d8 D4 | G8 B4 | c4 B4 A4 | A12 |
-G8 z4 |
-[V:V2]
-!mf! z4 z4 D4 | G8 G4 | B8 G4 | A8 G4 |
-D8 D4 | G8 G4 | A4 G4 F4 | B4 A4 G4 |
-D8 D4 | G4 F4 E4 | G8 G4 | F4 E4 A,4 |
-G8 D4 | G4 F4 E4 | G8 G4 | F4 E4 A,4 |
-!f! D8 D4 | G8 G4 | A4 G4 F4 | D12 |
-B,,8 z4 |
-```
+<div class="abc-score" data-abc-src="bokuteki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](bokuteki.abc)
 
 ## TMD 檔案連結
 

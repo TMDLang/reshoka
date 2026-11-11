@@ -48,21 +48,9 @@ Annotations: ト調 四拍子, 大正幼年唱歌 第二集 廿九頁
 
 ## ABC
 
-```abc
-X:1
-T:軍艦
-C:曲：大正幼年唱歌 第二集
-M:4/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!f! D4 D4 D8 | D4 B,4 G,8 | A,4 B,4 D8 | B,4 D4 A,8 |
-D4 D4 D8 | D4 B,4 G,8 | A,4 B,4 D4 A,4 | G,12 z4 |
-A,4 B,4 D8 | B,4 D4 A,8 | A,4 B,4 D8 | B,4 D4 A,8 |
-D4 D4 D8 | D4 B,4 G,8 | A,4 B,4 D4 A,4 | G,12 z4 |
-```
+<div class="abc-score" data-abc-src="gunkan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gunkan.abc)
 
 ## TMD 檔案連結
 

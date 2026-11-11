@@ -55,20 +55,9 @@ Key: 変ロ調 (Bb major), Time: 2/4, Tempo: 楽シク
 
 ## ABC
 
-```abc
-X:1
-T:オ友達（好朋友）
-M:2/4
-L:1/16
-Q:1/4=108
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z2 F2 G2 F2 | B4 d2 c2 | B2 c2 B2 F2 | G4 B2 z2 |
-z2 G2 G2 F2 | B2 c2 B2 G2 | F2 G2 F2 d2 | c6 z2 |
-d2 d2 d2 f2 | G2 G2 B4 | c2 d2 c2 B2 | c6 z2 |
-d6 c2 | B2 c2 B2 G2 | B2 c2 B2 G2 | B6 z2 |
-```
+<div class="abc-score" data-abc-src="otomodachi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](otomodachi.abc)
 
 ## TMD 檔案連結
 

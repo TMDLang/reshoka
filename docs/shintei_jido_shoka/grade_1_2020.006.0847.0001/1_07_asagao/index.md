@@ -72,26 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:アサガホ（牽牛花）
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 A2 A2 | c2 c2 A2 A2 | c2 c2 d2 d2 | c2 c2 A4 |
-w: 1.~マ イ ア サ | マ イ ア サ | サ ク ア サ | ガ ホ ハ
-w: 2.~オ ホ キ ナ | ツ ボ ミ ハ | ア ス サ ク | ハ ナ カ
-c2 c2 d2 d2 | c2 c2 A2 A2 | G2 G2 G2 G2 | A2 F2 G4 |
-w: 1.~ヲ ト ト ヒ | キ ノ フ ト | ダ ン ダ ン | フ エ テ
-w: 2.~チ ヒ サ ナ | ツ ボ ミ ハ | ア サ ッ テ | サ ク カ
-c4 A2 c2 | d2 d2 c2 c2 | A2 c2 A2 F2 | G2 A2 F4 |
-w: 1.~ケ サ ハ | シ ロ ヨ ツ | ム ラ サ キ | イ ツ ツ
-w: 2.~ハ ヤ ク | サ ケ サ ケ | シ ボ リ ヤ | ア カ モ
-```
+<div class="abc-score" data-abc-src="asagao.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](asagao.abc)
 
 ## TMD 檔案連結
 

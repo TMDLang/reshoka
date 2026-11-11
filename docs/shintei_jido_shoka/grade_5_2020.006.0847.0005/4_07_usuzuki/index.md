@@ -59,28 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:うすづき
-M:3/4
-L:1/16
-Q:1/4=58
-K:E
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z2 B,2 | C2 C2 E2 F2 G2 B2 | c4 c6 B2 | G2 B2 c4 c2 B2 |
-w: 1.~ツ | キ ハ ウ _ ス _ | ヅ キ ヨ | ヒ _ ノ ツ _
-w: 2.~つ | き は う _ す _ | づ き よ | ひ _ の つ _
-E8 z2 B2 | B4 G2 F4 E2 | F2 G2 B6 G2 | F2 G2 F4 G4 |
-w: 1.~キ ソ | ヨ ソ ヨ ソ | ヨ カ ゼ ヨ | ビ _ ナ ガ
-w: 2.~き ち | ら ち ら あ | か り を ゆ | り _ な が
-E12 | E8 z4 | c2 B2 c6 B2 | G2 A2 G2 F2 E4 |
-w: 1.~ラ | _ | ポ _ カ リ | ホ グ レ _ ル
-w: 2.~ら | _ | い り え は | す ず し _ い
-F2 G2 A4 F4 | E2 F2 E8 | E4 z4 z4 |
-w: 1.~ツ _ キ _ | ミ グ サ | _
-w: 2.~と _ ま _ | り ぶ ね | _
-```
+<div class="abc-score" data-abc-src="usuzuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](usuzuki.abc)
 
 ## TMD 檔案連結
 

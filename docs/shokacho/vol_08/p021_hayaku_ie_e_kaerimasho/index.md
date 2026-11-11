@@ -57,19 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:早く家へ帰りませう（快回家吧）
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! C8 D4 E4 | F4 F4 E8 | D4 C4 B,4 D4 | C12 z4 |
-E6 F2 G4 C4 | A6 G2 F8 | E4 D4 C4 B,4 | A,12 z4 |
-D8 B,4 G,4 | E4 F4 G4 E4 | F6 E2 D4 G4 | C12 z4 |
-```
+<div class="abc-score" data-abc-src="hayaku_ie_e_kaerimasho.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hayaku_ie_e_kaerimasho.abc)
 
 ## TMD 檔案連結
 

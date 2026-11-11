@@ -62,22 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:郵便車
-C:曲：獨國風曲
-M:2/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! G2 G2 F2 G2 | A2 F2 D4 | G2 B2 d4 | A2 B2 A4 |
-G2 G2 F2 G2 | A2 F2 D4 | G2 B2 d2 A2 | G4 z4 |
-!mf! A2 A2 B2 A2 | G2 B2 d4 | A2 A2 G2 ^c2 | d2 A2 F4 |
-D2 F2 A2 c2 | B2 d2 g4 | !mp! e2 c2 A4 | d2 B2 G4 |
-!mf! D2 F2 A2 c2 | B2 d2 g4 | !mp! e2 c2 A2 d2 | G4 z4 |
-```
+<div class="abc-score" data-abc-src="yubinsha.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yubinsha.abc)
 
 ## TMD 檔案連結
 

@@ -73,42 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:揚子江
-M:3/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 G3 A | B6 A2 G2 E2 | D4 B,4 G3 A | B6 A2 B2 d2 |
-w: す ゐ | げ ん は る | か に す い | りゃ う お ほ
-!mf! A8 G3 A | B6 A2 G2 E2 | !f! D4 B,4 G2 e2 | d6 B2 A2 B2 |
-w: く せ か | い に くゎ ん | た る た い | が の な が
-G8 B3 c | d6 e2 d2 c2 | !mf! d4 B4 G3 A | B4 c2 B2 B2 A2 |
-w: れ れ き | し は い く | た び へ ん | せ ん _ す と
-A4 G4 G3 A | B6 A2 G2 E2 | !f! D4 B,4 G2 e2 | d6 B2 A3 B |
-w: も _ だ い | な る な が | れ は む か | し の ま ま
-G8 z4 | !mf! z4 z4 G3 A | B6 A2 G2 E2 | D4 B,4 G3 A |
-w: に | な が | さ は さ ん | ぜ ん さ ん
-B6 A2 B2 d2 | !mf! A8 G3 A | B6 A2 G2 E2 | !f! D4 B,4 G2 e2 |
-w: びゃ く ま い | る ど う | て い は や | う の み づ
-d6 B2 A2 B2 | G8 B3 c | d6 e2 d2 c2 | !mf! d4 B4 G3 A |
-w: を も あ は | せ ちょ う | け い か ん | こ う こ う
-B4 c2 B2 B2 A2 | A4 G4 G3 A | B6 A2 G2 E2 | !f! D4 B,4 G2 e2 |
-w: ね い _ な ど | も _ み な | こ の な が | れ に そ ひ
-d6 B2 A3 B | G8 z4 | !mf! z4 z4 G3 A | B6 A2 G2 E2 |
-w: た る と くゎ | い | な ん | ぼ く ふ た
-D4 B,4 G3 A | B6 A2 B2 d2 | !mf! A8 G3 A | B6 A2 G2 E2 |
-w: つ に し な | を ば わ か | ち し ひゃ | く よ しゅ う
-!f! D4 B,4 G2 e2 | d6 B2 A2 B2 | G8 B3 c | d6 e2 d2 c2 |
-w: の _ し くゎ | つ を せ い | す れ き | し は い く
-!mf! d4 B4 G3 A | B4 c2 B2 B2 A2 | A4 G4 G3 A | B6 A2 G2 E2 |
-w: た び へ ん | せ ん _ す と | も _ な ん | ぢ は か は
-!f! D4 B,4 G2 e2 | d6 B2 A3 B | G8 z4 |
-w: ら じ だ い | な る な が | れ
-```
+<div class="abc-score" data-abc-src="yosuko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yosuko.abc)
 
 ## TMD 檔案連結
 

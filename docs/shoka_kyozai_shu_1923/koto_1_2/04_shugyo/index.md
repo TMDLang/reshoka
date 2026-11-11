@@ -69,31 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋曉
-M:4/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 D4 | G4 B4 B4 A4 | G8 D4 D4 | d8 B4 G4 |
-w: 1.~サ | ギ リ ヲ ク | ダ ル フ | ナ ビ ト
-w: 2.~ろ | ご ゑ す ず | し く よ | は あ け
-A12 B2 A2 | G6 F2 E4 G4 | D8 B,4 D4 | A6 G2 A4 B4 |
-w: 1.~ハ コ _ | エ バ カ リ | ナ ル ア | サ _ ボ ラ
-w: 2.~て あ _ | さ と り な | く や か | は _ や し
-G12 B2 c2 | d6 B2 B4 c4 | e8 d4 G2 A2 | B6 A2 B4 d4 |
-w: 1.~ケ キ _ | シ ム ラ イ | マ ダ ユ _ | メ _ ニ シ
-w: 2.~ろ あ _ | け の と り | ゐ も ほ _ | の _ ぼ の
-A12 B2 A2 | G6 F2 G4 A4 | B8 G4 E4 | D6 G2 B4 A4 |
-w: 1.~テ ト _ | モ シ ビ シ | ロ シ ア | キ _ ノ カ
-w: 2.~と さ _ | ぎ り の ひ | ま に み | え _ そ め
-G12 z4 |
-w: 1.~ハ
-w: 2.~ぬ
-```
+<div class="abc-score" data-abc-src="shugyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shugyo.abc)
 
 ## TMD 檔案連結
 

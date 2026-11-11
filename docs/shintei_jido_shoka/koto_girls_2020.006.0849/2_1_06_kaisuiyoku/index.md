@@ -61,22 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:海水浴
-M:4/4
-L:1/16
-Q:1/4=96
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 E4 | c6 B2 c3 B A2 B2 | A8 F4 F4 | F6 G2 c2 B2 A2 F2 |
-E8 z4 E4 | e6 c2 A3 G B2 ^A2 | B8 B4 B4 | B2 e2 c3 B A4 G4 |
-E8 z4 E4 | F4 G4 A4 F4 | E8 A4 A4 | G4 B4 A4 c4 |
-B8 z4 E2 E2 | e4 d4 c4 B4 | A6 G2 F4 d2 B2 | A8 G8 |
-F8 z4 E2 E2 | c4 d4 c4 B4 | A6 G2 F4 d2 B2 | e8 G8 |
-A8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="kaisuiyoku.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaisuiyoku.abc)
 
 ## TMD 檔案連結
 

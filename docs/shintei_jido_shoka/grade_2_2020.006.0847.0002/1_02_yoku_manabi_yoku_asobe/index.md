@@ -70,31 +70,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ヨクマナビ ヨクアソベ（好好學習，好好遊玩）
-M:4/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C6 C2 F4 G4 | A6 G2 F4 F4 | G6 G2 A6 G2 | G12 z4 |
-w: 1.~ツ ク エ ノ | マ ヘ デ ハ | イ ツ シ ン | ニ
-w: 2.~クヮ ゲ フ ガ | ス ン ダ ラ | イ ツ シ ン | ニ
-c8 A4 G4 | F6 G2 A4 A4 | c4 A4 G6 A2 | F12 z4 |
-w: 1.~ナ ニ モ | オ モ ハ ズ | ヨ ク マ ナ | ベ
-w: 2.~ナ ニ モ | ワ ス レ テ | ヨ ク ア ソ | ベ
-G8 G4 G4 | A6 F2 D4 D4 | C6 C2 F4 G4 | A12 z4 |
-w: 1.~ア ソ ビ | ナ ガ ラ ノ | ベ ン キャ ウ | ハ
-w: 2.~タダ オ モ | シ ロ ク _ | ア ソ ブ ノ | ガ
-c6 c2 A4 G4 | F6 G2 A8 | C6 C2 A6 G2 | F12 z4 |
-w: 1.~ジ カ ン ヲ | ム ダ ニ | ス ル バ カ | リ
-w: 2.~ゲ ン キ ヲ | ツ ケ ル | ヨ イ ク ス | リ
-C3 C F4 G3 G A4 | c3 c d3 c c4 z4 | B3 B A4 G3 G C4 | G3 G A3 G F4 z4 |
-w: 1.~マ ナ ベ マ ナ ベ | イ ツ シ ン ニ | マ ナ ベ マ ナ ベ | イ ツ シ ン ニ
-w: 2.~ア ソ ベ ア ソ ベ | イ ツ シ ン ニ | ア ソ ベ ア ソ ベ | イ ツ シ ン ニ
-```
+<div class="abc-score" data-abc-src="yoku_manabi_yoku_asobe.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yoku_manabi_yoku_asobe.abc)
 
 ## TMD 檔案連結
 

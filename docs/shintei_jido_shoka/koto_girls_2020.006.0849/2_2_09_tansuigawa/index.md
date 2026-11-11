@@ -51,22 +51,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:淡水河
-M:6/8
-L:1/16
-Q:3/8=42
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! B,4 E2 E4 F2 | G6 G4 G2 | G4 F2 G4 A2 | B4 c2 B6 |
-z4 z2 E2 F2 G2 | A6 G4 G2 | F4 E2 D4 E2 | C10 z2 |
-z4 z2 =A2 B2 c2 | G4 F2 E6 | G2 A2 B2 c2 d2 e2 | d12 |
-z4 z2 d2 c2 B2 | A4 G2 ^F2 G2 A2 | E6 G2 A2 B2 | F6 E2 F2 G2 |
-!ff! c12 | z4 z2 =A2 B2 c2 | B4 E2 c4 A2 | G6 B2 c2 d2 |
-E2 F2 G2 A2 G2 F2 | E4 G2 F4 E2 | C6 C4 D2 | E12 |
-```
+<div class="abc-score" data-abc-src="tansuigawa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tansuigawa.abc)
 
 ## TMD 檔案連結
 

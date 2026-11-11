@@ -67,21 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:青年の歌
-C:曲：山田耕作
-M:4/4
-L:1/16
-Q:1/4=108
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! D,2 D,2 E,2 F,2 G,2 A,2 B,2 z2 | !ff! D4 A,2 z2 B,2 F,2 z2 A,2 | D,12 F,3 G, | A,4 D2 z2 B,2 z2 G,2 z2 |
-F,4 D,4 E,4 F,4 | G,4 E,8 A,4 | B,4 C4 D2 z2 A,4 | B,6 A,2 F,6 z2 |
-G,4 F,2 E,2 D,2 E,2 F,2 G,2 | A,4 D8 A,,4 | B,,4 C,4 D,4 E,4 | F,4 D,2 E,2 F,4 A,4 |
-A,,2 B,,2 C,2 D,2 E,2 F,2 G,2 A,2 | D4 A,2 z2 B,2 F,2 z2 A,2 | !mf! D8 A,,4 D,2 E,2 | F,2 G,2 A,4 B,2 C2 D4 |
-```
+<div class="abc-score" data-abc-src="seinen_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](seinen_no_uta.abc)
 
 ## TMD 檔案連結
 

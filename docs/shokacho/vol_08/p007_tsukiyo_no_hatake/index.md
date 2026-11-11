@@ -62,20 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:月夜の畑（月夜的田野）
-M:4/4
-L:1/16
-Q:1/4=88
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! E4 G2 E2 A4 G4 | F4 E2 D2 C4 G,4 | A,4 B,4 C2 D2 E2 D2 | C12 z4 |
-G6 A2 G4 E2 D2 | C6 D2 E4 G4 | A6 A2 c4 A2 c2 | G12 z4 |
-E6 E2 E4 D2 C2 | D6 E2 G4 G4 | A3 c G2 E2 D2 E2 D4 | C12 z4 |
-c6 d2 e4 c4 | d4 c2 A2 G4 E4 | C3 D E2 G2 A4 G4 | C12 z4 |
-```
+<div class="abc-score" data-abc-src="tsukiyo_no_hatake.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsukiyo_no_hatake.abc)
 
 ## TMD 檔案連結
 

@@ -64,27 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:オサル（猴子）
-C:曲：梁田貞
-M:2/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 A G G2 z2 | G2 A G G2 z2 | E2 z2 D2 z2 | G6 z2 |
-w: オ サ _ ル | オ サ _ ル | キャッ キャッ | キャ
-A2 c d c2 z2 | A2 c d c2 z2 | A2 z2 G2 z2 | E6 z2 |
-w: オッ カ ケ テ | コ ロ ン デ | キャッ キャッ | キャ
-G2 G2 G2 G2 | G2 c2 G4 | E2 E E E2 E2 | E2 G2 D4 |
-w: オ ヤ ザ ル | コ ザ ル | イ ツ _ ショ ニ | ア ソ ブ
-G2 A G G2 z2 | G2 A G G2 z2 | E2 z2 D2 z2 | G6 z2 |
-w: アッ チ デ モ | コッ チ デ モ | キャッ キャッ | キャ
-A2 c d c2 z2 | A2 c d c2 z2 | A2 z2 G2 z2 | C6 z2 |
-w: オ サ _ ル | オ サ _ ル | キャッ キャッ | キャ
-```
+<div class="abc-score" data-abc-src="osaru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](osaru.abc)
 
 ## TMD 檔案連結
 

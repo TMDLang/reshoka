@@ -78,26 +78,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:これぞ臺灣
-C:曲：中山常雄
-M:3/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 A2 G4 E4 | D2 E2 D4 B4 | D2 E2 G4 B4 | A2 B2 A4 z4 |
-w: 1.~カ ガ ヤ ク | ワ レ ラ ノ | ミ ク ニ ノ | ハ テ ニ
-w: 2.~ま う へ に | ひ を う け | しゃ く ね つ | の ゐ は
-d2 d2 d4 B4 | A2 B2 G4 E4 | D2 E2 D4 B,4 | D2 E2 D4 z4 |
-w: 1.~ウ シ ホ ノ | ヲ ド レ ル | ウ ナ バ ラ | コ エ テ
-w: 2.~を を し き | ち か ら を | ち じゃ う に | も り て
-G2 A2 G4 E4 | D2 E2 D4 E2 D2 | A8 A2 B2 | G8 z4 |
-w: 1.~ウ ゴ カ ヌ | シ _ マ コ レ | ゾ タ イ | ワン
-w: 2.~わ _ か き | い の ち こ れ | ぞ た い | わん
-```
+<div class="abc-score" data-abc-src="korezo_taiwan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](korezo_taiwan.abc)
 
 ## TMD 檔案連結
 

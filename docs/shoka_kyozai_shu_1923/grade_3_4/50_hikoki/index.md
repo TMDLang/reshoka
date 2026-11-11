@@ -66,24 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:飛行機
-M:2/4
-L:1/16
-Q:1/4=92
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 B2 A2 B2 | A2 F2 E2 z2 | C2 E2 F2 A2 | E6 z2 |
-w: あ れ ひ か | う き が | と ん で く | る
-C2 E2 F2 E2 | A2 c4 A2 | B2 B2 B2 c2 | B6 z2 |
-w: あ ん な に | は や く | と ん で く | る
-c2 B2 A2 F2 | A2 B2 A2 F2 | E4 E2 C2 | E6 z2 |
-w: も う あ れ | あ そ こ に | とん で き | た
-F2 E2 A2 F2 | A2 c2 c2 A2 | B2 B2 B2 c2 | A6 z2 |
-w: い ま す ぐ | み な い と | か く れ ま | す
-```
+<div class="abc-score" data-abc-src="hikoki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hikoki.abc)
 
 ## TMD 檔案連結
 

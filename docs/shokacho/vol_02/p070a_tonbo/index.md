@@ -48,19 +48,9 @@ Annotations: 変ロ調 四拍子, 大正幼年唱歌 第六集 廿三頁
 
 ## ABC
 
-```abc
-X:1
-T:トンボ
-C:曲：大正幼年唱歌 第六集
-M:4/4
-L:1/16
-Q:1/4=104
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! F4 d2 b2 f6 z2 | g4 f2 d'2 c'6 z2 | d'4 b2 g2 f6 z2 | b4 f2 d2 c6 z2 |
-F4 d2 b2 f6 z2 | g4 f2 d'2 c'6 z2 | d'4 b2 g2 f6 z2 | g4 a2 c'2 b6 z2 |
-```
+<div class="abc-score" data-abc-src="tonbo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tonbo.abc)
 
 ## TMD 檔案連結
 

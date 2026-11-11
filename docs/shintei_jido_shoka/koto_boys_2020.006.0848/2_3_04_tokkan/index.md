@@ -57,24 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:突貫
-C:曲：リール（佛）（Lisle，佛國國歌）
-M:4/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z2 D2 D3 D | G4 G4 A4 A4 | d6 B2 G3 G B3 G | E4 c8 A3 F |
-!mf! G8 z4 G3 A | B6 B2 B4 c3 B | B4 A4 z4 A3 B | c6 c2 c4 d3 c |
-!f! B8 z4 d3 d | d4 B3 G d4 B3 G | !mf! D8 z D D D G4 | B4 d3 B G2 A2 B2 G2 |
-A6 A2 c4 B3 A | !p! G8 z4 z2 G2 | _B6 B2 B2 B2 c2 d2 | A12 _B3 A |
-G6 _B2 A3 G B3 A | !f! G4 F4 z4 z2 d2 | d10 B2 G3 A | B8 z4 z2 d2 |
-d10 B2 G3 A | A8 z4 D4 | G8 z4 A4 | B12 z4 |
-c8 d4 e4 | !ff! A12 f4 | g10 e2 c3 A | G8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="tokkan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tokkan.abc)
 
 ## TMD 檔案連結
 

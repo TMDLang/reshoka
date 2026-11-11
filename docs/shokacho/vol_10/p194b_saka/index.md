@@ -52,19 +52,9 @@ Tempo / Expression: 緩徐ニ
 
 ## ABC
 
-```abc
-X:1
-T:サカ 坂
-C:曲：永井幸次
-M:4/4
-L:1/16
-Q:1/4=76
-K:G
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-G4 F2 A2 G4 D2 E2 | D3 E D8 z4 | G2 G2 F2 G2 A2 A2 G2 A2 | B2 z2 A2 z2 G2 z6 |
-A3 G A2 d2 B4 z4 | z12 D2 G2 | B3 A G4 A4 d4 | G12 z4 |
-```
+<div class="abc-score" data-abc-src="saka.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](saka.abc)
 
 ## TMD 檔案連結
 

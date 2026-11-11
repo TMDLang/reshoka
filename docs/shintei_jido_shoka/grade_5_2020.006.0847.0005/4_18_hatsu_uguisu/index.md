@@ -61,28 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:初鶯
-M:3/4
-L:1/16
-Q:1/4=96
-K:Dm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 A2 G4 G4 | D2 D2 A4 A4 | A6 A2 c2 d2 | A8 z4 |
-w: 1.~ケ キョ ケ キョ | ウ グ ヒ ス | ホ _ ホ ケ | キョ
-w: 2.~け きょ け きょ | う ぐ ひ す | ほ _ ほ け | きょ
-d2 A2 G4 G4 | D2 D2 A4 A4 | A4 G2 F2 E2 A,2 | D8 z4 |
-w: 1.~ホ ウ ホ ウ | ウ グ ヒ ス | ミ ツ ケ マ _ | セウ
-w: 2.~ほ う ほ う | う ぐ ひ す | み つ け ま _ | せう
-A4 c2 A2 G4 | G4 A2 c2 d4 | c2 A2 G2 A2 c2 d2 | A8 z4 |
-w: 1.~ヤ ブ _ ハ | サ ラ サ ラ | カ ゼ フ ク バ カ | リ
-w: 2.~や ま _ の | し ら ゆ き | か が や く ば か | り
-D4 D2 F2 G4 | A4 A2 c2 A4 | G2 G2 F2 F2 E2 A,2 | D8 z4 |
-w: 1.~ア カ _ イ | ツ バ キ ガ | カ ゲ ロ ウ バ カ | リ
-w: 2.~み づ _ は | さ ら さ ら | な が れ る ば か | り
-```
+<div class="abc-score" data-abc-src="hatsu_uguisu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hatsu_uguisu.abc)
 
 ## TMD 檔案連結
 

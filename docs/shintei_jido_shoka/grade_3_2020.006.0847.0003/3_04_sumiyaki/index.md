@@ -76,28 +76,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:炭やき（燒炭）
-M:2/4
-L:1/16
-Q:1/4=112
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 F2 D2 F2 | G2 G2 F2 G2 | B2 B2 c2 d2 | c2 c2 c2 z2 |
-w: 1.~お や も | す み や き | こ も す み | や き で
-w: 2.~た ち き | を た ふ し | ま る た に | き つ て
-w: 3.~そ ら を | ゆ く く も | き に を ど | る と り
-z2 d2 c2 B2 | G2 G2 B2 G2 | F2 F2 B2 G2 | F6 z2 |
-w: 1.~お な じ | し ご と に | せ い を だ | す
-w: 2.~か ま に | な ら べ て | す み に や | く
-w: 3.~あ を い | け む り を | み て く ら | す
-F2 F2 D2 F2 | G2 G2 F2 G2 | c2 B2 G2 F2 | B6 z2 |
-w: 1.~す み や き | を と こ は | や ま の ひ | と
-w: 2.~す み や き | を と こ は | や ま の ひ | と
-w: 3.~す み や き | を と こ は | や ま の ひ | と
-```
+<div class="abc-score" data-abc-src="sumiyaki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sumiyaki.abc)
 
 ## TMD 檔案連結
 

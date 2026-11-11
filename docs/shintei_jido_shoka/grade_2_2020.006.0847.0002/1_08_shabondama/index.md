@@ -70,26 +70,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:シヤボンダマ（肥皂泡）
-C:曲：井上武士
-M:2/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 e2 z2 e2 | z2 e2 e2 z2 | !p! G2 G2 G2 A2 | G2 G2 G2 z2 |
-w: 1.~_ _ | _ _ | シャ ボン ダ マ | ア ガ レ
-w: 2.~_ _ | _ _ | シャ ボン ダ マ | ト ン ダ
-!mp! A3 A G2 E2 | C2 D2 E2 z2 | !mf! c3 c A2 G2 | c2 c2 d2 z2 |
-w: 1.~ク モ マ デ | ア ガ レ | テ ン マ デ | ア ガ レ
-w: 2.~ク モ マ デ | ト ン ダ | テ ン マ デ | ト ン ダ
-!mf! c2 e d c2 A2 | G2 G2 c2 z2 | !p! A2 c A G2 E2 | G2 E D C2 z2 |
-w: 1.~オホ キ イ ノ ハ | サ キ ニ | チイ サ イ ノ ハ | ア ト _ ニ
-w: 2.~オホ キ イ ノ ハ | サ キ ニ | チイ サ イ ノ ハ | ア ト _ ニ
-```
+<div class="abc-score" data-abc-src="shabondama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shabondama.abc)
 
 ## TMD 檔案連結
 

@@ -54,18 +54,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:太陽
-M:2/4
-L:1/16
-Q:1/4=96
-K:Gm
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-d'2 d'2 a4 | d'2 b2 a4 | d'2 d'2 a2 a2 | d'2 b2 a4 |
-g2 b2 a4 | g2 g2 g4 | g2 b2 a2 a2 | g2 g2 g4 |
-```
+<div class="abc-score" data-abc-src="taiyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](taiyo.abc)
 
 ## TMD 檔案連結
 

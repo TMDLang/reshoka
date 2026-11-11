@@ -65,28 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋の山路
-M:4/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B4 d3 B A4 B2 d2 | e4 d2 B2 A4 B4 | B4 A2 B2 G4 A2 G2 | E4 F2 ^G2 A8 |
-w: 1.~ア キ ノ ヤ マ ヂ | キ テ ミ レ バ | ハ タ ノ ソ バ ハ | イ マ サ カリ
-w: 2.~あ き の や ま ぢ | き て み れ ば | お ち ば か く こ | う ち つ れて
-B4 d3 B A4 B2 d2 | e4 d2 B2 A4 B4 | B4 A2 B2 G4 A2 G2 | E4 F2 ^G2 A8 |
-w: 1.~ユ キ ノ ゴ ト ク | ハ ナ シ ロ シ | チ ル ハ モ ミ ヂ | カ ゼ ナ キニ
-w: 2.~う た ひ か は す | ふ し を か し | も ず も う た ふ | き の え だに
-G2 z2 F2 z2 G8 | A2 A2 G2 A2 B8 | d4 e2 d2 B2 A2 G4 | A4 B2 d2 e4 d4 |
-w: 1.~ア ハ レ | オ モ シ ロ ヤ | ウ ツ ク シ _ ヤ | コ ノ ナ ガ メ
-w: 2.~あ は れ | お も し ろ や | う つ く し _ や | こ の な が め
-B2 A2 G2 E2 D2 B2 A4 | d2 B2 A3 B G8 |
-w: 1.~ミ レ ド ア _ カ ヌ | コ ノ ケ シ キ
-w: 2.~み れ ど あ _ か ぬ | こ の け し き
-```
+<div class="abc-score" data-abc-src="aki_no_yamaji.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](aki_no_yamaji.abc)
 
 ## TMD 檔案連結
 

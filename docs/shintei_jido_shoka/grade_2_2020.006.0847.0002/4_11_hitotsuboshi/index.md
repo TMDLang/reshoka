@@ -63,29 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:一ツボシ（一顆星）
-C:曲：室崎琴月
-M:2/4
-L:1/16
-Q:1/4=88
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B4 F3 G | F2 D C B,2 C2 | D2 G2 F2 D2 | F2 F2 F2 z2 |
-w: 1.~ザ ン ザ | ザン ブ リ コ ト | ヨ セ テ ハ | カ ヘ ス
-w: 2.~ヒ ト ツ | ボ シ _ サ マ | オ キ ベ ニ | テ レ バ
-w: 3.~カ モ メ | ヨ ウ _ ナ キヤ | ユ ラ ユ ラ | ホ ブ ネ
-G4 F3 B | c2 d e d2 c2 | B F G2 c4 | B2 B2 B2 z2 |
-w: 1.~ウ ミ ノ | オ キ _ ベ ノ | ア ノ ヒ ト | ツ ボ シ
-w: 2.~イ ソ ノ | カ モ _ メ ハ | ナ _ キ _ | カ ハ ス
-w: 3.~ア カ イ | ヒ ヲ _ ツ ケ | ミ サ キ ヲ | メ グ ル
-E2 F2 G2 A2 | B6 z2 |
-w: 1.~ヒ ト ツ ボ | シ
-w: 2.~ナ キ カ ハ | ス
-w: 3.~レ メ グ _ | ル
-```
+<div class="abc-score" data-abc-src="hitotsuboshi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hitotsuboshi.abc)
 
 ## TMD 檔案連結
 

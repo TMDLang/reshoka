@@ -65,22 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:笛の音
-M:3/4
-L:1/16
-Q:1/4=72
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! F12 | B8 F4 | G6 A2 B2 c2 | d8 B4 |
-F8 F4 | d8 e4 | c4 F2 G2 A2 B2 | !f! c8 F4 |
-f8 e4 | d8 d4 | c6 c2 d3 e | !p! f6 z2 F4 |
-G8 A4 | B8 f4 | d6 c2 d2 e2 | !f! c8 F4 |
-f8 d4 | c8 A4 | B6 c2 d3 =e | !p! f6 z2 F4 |
-G8 A4 | d8 g4 | c6 B2 c2 d2 | B8 z4 |
-```
+<div class="abc-score" data-abc-src="fue_no_ne.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](fue_no_ne.abc)
 
 ## TMD 檔案連結
 

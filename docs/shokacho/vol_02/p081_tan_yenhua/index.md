@@ -47,22 +47,9 @@ Notation: Handwritten 5-line staff (1 sharp = G major, 4/4 time, 17 bars)
 
 ## ABC
 
-```abc
-X:1
-T:嘆烟花
-C:曲：台湾伝統曲 (歌仔調)
-M:4/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Melody" snm="Mel"
-[V:V1]
-!mp! A6 B2 A4 D2 E2 | G6 A2 D4 z4 | d6 e2 d4 B2 A2 | G12 z4 |
-B6 A2 B4 d2 e2 | d4 B4 A6 B2 | G4 A2 G2 E4 D2 E2 | D12 z4 |
-D4 D4 G4 G4 | A4 G4 A4 z4 | B6 d2 B2 A2 G2 A2 | B2 A2 G4 E6 z2 |
-B4 A2 B2 d4 B2 d2 | A4 B4 A6 B2 | G4 E4 D4 G4 | A2 B2 A2 G2 E4 D4 |
-D12 z4 |
-```
+<div class="abc-score" data-abc-src="tan_yenhua.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tan_yenhua.abc)
 
 ## TMD 檔案連結
 

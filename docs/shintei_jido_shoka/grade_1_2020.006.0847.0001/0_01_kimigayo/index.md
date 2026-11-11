@@ -59,23 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:君が代
-C:曲：林廣守
-M:4/4
-L:1/16
-Q:1/4=69
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D4 C4 D4 E4 | G4 E4 D8 | E4 G4 A4 G2 A2 | d4 B4 A4 G4 |
-w: キ ミ ガ _ | ヨ _ ハ | チ ヨ ニ _ _ | ヤ チ ヨ ニ
-E4 G4 A8 | c4 d4 c8 | E4 G4 A4 G4 | E6 D2 D8 |
-w: サ ザ レ | イ シ ノ | イ ハ ホ ト | ナ リ テ
-A4 c4 d8 | c4 d4 A4 G4 | A4 G2 E2 D8 |
-w: コ ケ ノ | ム _ ス _ | マ _ _ デ
-```
+<div class="abc-score" data-abc-src="kimigayo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kimigayo.abc)
 
 ## TMD 檔案連結
 

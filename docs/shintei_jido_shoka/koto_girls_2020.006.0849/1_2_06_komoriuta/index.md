@@ -67,19 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:子守歌
-C:曲：Franz Schubert（女子音樂教科書）
-M:4/4
-L:1/16
-Q:1/4=69
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!pp! B3 c B2 A2 B3 B A4 | G A B c d2 c B B2 A4 z2 | !p! B3 c B2 A2 B3 B A4 | G2 B d g2 e c B2 A2 G2 z2 |
-A4 A2 B c d2 B2 G4 | c2 A2 F2 D2 A2 B c B4 | !pp! B3 c B2 A2 B3 B A4 | G2 B d g2 e c B2 A2 G2 z2 |
-```
+<div class="abc-score" data-abc-src="komoriuta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](komoriuta.abc)
 
 ## TMD 檔案連結
 

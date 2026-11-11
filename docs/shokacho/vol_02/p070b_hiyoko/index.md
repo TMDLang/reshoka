@@ -48,20 +48,9 @@ Annotations: 変ロ調 二拍子, 大正幼年唱歌 第五集 廿三頁
 
 ## ABC
 
-```abc
-X:1
-T:ヒヨコ
-C:曲：大正幼年唱歌 第五集
-M:2/4
-L:1/16
-Q:1/4=104
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! c'2 c'2 c'4 | c'2 c'2 c'4 | d'2 c'2 b2 g2 | f2 f2 f2 z2 |
-g4 b2 g2 | f3 f g2 f2 | d3 d f2 d2 | c2 c2 c2 z2 |
-d6 c2 | d4 f4 | g6 f2 | g2 z2 b4 |
-```
+<div class="abc-score" data-abc-src="hiyoko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hiyoko.abc)
 
 ## TMD 檔案連結
 

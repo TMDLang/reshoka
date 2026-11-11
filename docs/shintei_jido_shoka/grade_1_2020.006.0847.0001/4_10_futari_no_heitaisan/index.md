@@ -65,25 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:フタリノヘイタイサン（兩個小兵）
-C:曲：成田爲三
-M:2/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F3 C D2 F2 | G3 F G2 A2 | c3 A G2 F2 | G4 z2 z2 |
-w: 1.~フ ー タ リ | ナ ラ ン デ | ヘ イ タ イ | サン
-w: 2.~マ ー ル デ | ヒ ト リ デ | ア ル ク ヨ | ダ
-w: 3.~ポ プ ラ モ | イ チ レ ツ | ナ ラ ン デ | ル
-d3 c A2 c2 | d3 c A2 F2 | G3 A C2 D2 | F4 z2 z2 |
-w: 1.~ア ー カ イ | ボ ウ シ デ | オ サ ン ポ | ダ
-w: 2.~ア ー シ ガ | ア ッ テ ル | ム カ ウ ド | テ
-w: 3.~ク ー モ ガ | ポ ッ カ リ | シ ロ イ ク | モ
-```
+<div class="abc-score" data-abc-src="futari_no_heitaisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](futari_no_heitaisan.abc)
 
 ## TMD 檔案連結
 

@@ -69,26 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:オツキサマ（月亮先生）
-C:曲：納所辨次郎
-M:2/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C2 F2 F2 F2 | A2 F2 F4 | c2 c2 A2 c2 | f2 g2 a4 |
-w: 1.~オ ツキ サ マ | エ ライ ナ | オ ヒ サマ ノ | キョウ ダイ デ
-w: 2.~オ ツキ サ マ | ワ カイ ナ | イ ツモ トシ ヲ | トラ ナイ デ
-c2 c2 A2 F2 | G2 A2 G4 | A2 A2 G2 F2 | D2 F2 G4 |
-w: 1.~ミ カ ヅ キニ | ナッ タ リ | マン マ ル ニ | ナッ タ リ
-w: 2.~ク シノ ヤウ ニ | ナッ タ リ | カガ ミノ ヤウ ニ | ナッ タ リ
-c2 d2 c2 A2 | G2 A2 G2 F2 | D2 C2 F2 G2 | A2 G2 F4 |
-w: 1.~ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
-w: 2.~ハ ル ナ ツ | ア キ フ ユ | ニッ ポン ヂュウ ヲ | テ ラ ス
-```
+<div class="abc-score" data-abc-src="otsukisama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](otsukisama.abc)
 
 ## TMD 檔案連結
 

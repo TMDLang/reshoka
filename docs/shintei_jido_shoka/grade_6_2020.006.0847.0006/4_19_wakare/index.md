@@ -63,32 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:別れ
-C:曲：文部省
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 z4 c3 c | !mp! c8 z4 c3 c | d4 c3 d c4 A4 | F3 G A4 F4 D3 E |
-w: 1.~ハ ル | ノ ハ ル | ノ ア ー シ タ | ハ ー ナ ノ モ ー
-w: 2.~あ き | の あ き | の ゆ ー ふ べ | つ ー き の か ー
-!mf! G4 C8 c3 c | c8 z4 c3 c | d4 c3 d c4 A4 | d3 d c4 B4 A3 G |
-w: 1.~ト ニ ト モ | ニ ト モ | ニ タ ノ シ ク | シ タ シ ミ ア ー
-w: 2.~げ に と も | に と も | に う れ し く | か た ら ひ あ ー
-!p! A2 B2 c8 G4 | G6 G2 G4 E4 | D6 D2 D4 C4 | D6 C2 D4 E4 |
-w: 1.~ヒ ー シ ひ | ご ろ の ま | じ は り わ | す れ ぬ ほ
-w: 2.~ひ ー し ひ | ご ろ の ま | じ は り わ | す れ ぬ ほ
-!mf! G4 A8 c4 | d6 A2 A4 G4 | !p! E4 G8 C2 C2 | D6 C2 E4 D4 |
-w: 1.~ど に を | し き わ か | れ を つ げ | な ん さ ら
-w: 2.~ど に を | し き わ か | れ を つ げ | な ん さ ら
-C8 z4 z4 |
-w: 1.~ば
-w: 2.~ば
-```
+<div class="abc-score" data-abc-src="wakare.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](wakare.abc)
 
 ## TMD 檔案連結
 

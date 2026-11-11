@@ -67,35 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:王政復古
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D3 D G2 D2 | B,3 C D2 E2 | F3 G A2 F2 | D3 D B,2 z2 |
-w: 1.~よ せ こ し | く ろ ふ ね | と ど ろ く | ほ づ つ
-w: 2.~か が や く | あ ま つ ひ | に し き の | み は た
-B3 B B2 B2 | A3 A A4 | !mp! G4 A2 G2 | E4 D4 |
-w: 1.~ち よ だ の | し ろ の | の ど か | な る
-w: 2.~し ち ひゃ く | ね ん の | く も き | り も
-D4 G4 | B6 G2 | A6 A2 | G6 z2 |
-w: 1.~ゆ め | を や | ぶ り | て
-w: 2.~あ と | な く | き え | て
-!mf! B4 B3 B | c2 B2 A2 G2 | A3 A d2 d2 | B3 B A2 z2 |
-w: 1.~わ た る | ひ び き に | つ つ う ら | う ら も
-w: 2.~あ ふ ぐ | た み く さ | つ つ う ら | う ら も
-G3 G G2 G2 | D3 D D4 | B3 B B2 B2 | G3 G G4 |
-w: 1.~そ ん の う | じゃ う い | そ ん の う | じゃ う い
-w: 2.~わ う せ い | い し ん | わ う せ い | い し ん
-!f! d6 d2 | d4 d4 | d6 d2 | G6 z2 |
-w: 1.~そ ん | の う | じゃ う | い
-w: 2.~わ う | せ い | い し | ん
-```
+<div class="abc-score" data-abc-src="osei_fukko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](osei_fukko.abc)
 
 ## TMD 檔案連結
 

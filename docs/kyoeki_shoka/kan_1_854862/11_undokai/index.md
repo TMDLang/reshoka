@@ -67,31 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:運動會
-M:2/4
-L:1/16
-Q:1/4=120
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D2 G2 G2 G2 | F2 A2 A2 A2 | B2 d2 d2 e2 | d2 B2 A2 z2 |
-w: 1.~う れ し き | た の し き | う ん ど _ | か い の
-w: 2.~う れ し き | た の し き | う ん ど _ | か い の
-B c d2 d2 d2 | G A B2 B2 B2 | d4 B2 A2 | B2 A2 G2 z2 |
-w: 1.~こ _ こ ろ は | と _ び た つ | そ ら の | ま _ り
-w: 2.~こ _ こ ろ は | う _ き た つ | そ ら の | は _ た
-D2 D2 G2 B2 | d2 B2 G2 D2 | E3 G B2 A2 | G3 G E2 E2 |
-w: 1.~ぽん ぽん ぽん ぽん | ぽん ぽん ぽん ぽん | た が ひ に | な げ あ ふ
-w: 2.~ひら ひら ひら ひら | ひら ひら ひら ひら | た が ひ に | あ ら そ ふ
-D2 G2 A3 B | A6 z2 | B3 B A2 d2 | B3 B A2 G2 |
-w: 1.~か け ご ゑ | の | は げ し き | か _ た ぞ
-w: 2.~ま け か ち | は | は た い ろ | よ _ り ぞ
-A2 d2 B3 A | G6 z2 |
-w: 1.~か ち と し | る
-w: 2.~あ ら は る | る
-```
+<div class="abc-score" data-abc-src="undokai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](undokai.abc)
 
 ## TMD 檔案連結
 

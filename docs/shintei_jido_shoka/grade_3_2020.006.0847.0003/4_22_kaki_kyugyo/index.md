@@ -58,31 +58,9 @@ Key: A major (?= A), 4/4 (<4/4>), Quarter = 100 (!= 100)
 
 ## ABC
 
-```abc
-X:1
-T:夏季休業
-M:4/4
-L:1/16
-Q:1/4=100
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 E4 | A6 A2 c4 B4 | A6 A2 F4 E4 | F6 F2 c4 A4 |
-w: 1.~う | め や さ く | ら _ を を | し _ む ま
-w: 2.~は | る の こ な | た _ の ま | な _ び や
-B8 z4 A4 | B6 A2 B4 c4 | A6 A2 F4 E4 | F6 F2 c4 B4 |
-w: 1.~に な | く う つ せ | み _ の な | つ _ ご ろ
-w: 2.~を け | ふ し も と | ざ _ す ま | ど _ の う
-A8 z4 c2 d2 | e6 e2 c4 c2 B2 | A6 B2 A4 F4 | E6 A2 c4 A4 |
-w: 1.~も き _ | ぬ _ る つ _ | き ひ は げ | に _ も よ
-w: 2.~ち な _ | つ _ の や _ | す み の あ | ら _ ま し
-B8 z4 E4 | A6 A2 c4 B4 | A6 A2 F4 E4 | A6 A2 c4 B4 |
-w: 1.~の ひ | と の す す | み _ に そ | は _ ぬ な
-w: 2.~を か | た り あ ふ | こ _ そ た | の _ し け
-A8 z4 z4 |
-w: 1.~り
-w: 2.~れ
-```
+<div class="abc-score" data-abc-src="kaki_kyugyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaki_kyugyo.abc)
 
 ## TMD 檔案連結
 

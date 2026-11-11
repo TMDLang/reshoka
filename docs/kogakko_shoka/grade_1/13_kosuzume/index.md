@@ -65,28 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:コスズメ（小麻雀）
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c4 c4 | c2 A2 c2 A2 | G2 G2 F2 G2 | A6 z2 |
-w: 1.~チユン チユン | チユ ク チユ ク | コ ス ズ メ | サン
-w: 2.~チユン チユン | チユ ク チユ ク | コ ス ズ メ | サン
-A2 A2 G2 F2 | D2 D2 F2 G2 | A2 A2 A2 G2 | c6 z2 |
-w: 1.~オ ニ ハ ノ | ヨ ウ ジユ ニ | ヨ ガ ア ケ | リヤ
-w: 2.~ヨ ウ ジユ ノ | コ カ ゲ ニ | ヒ ガ ク レ | リヤ
-d2 d2 d2 c2 | A2 A2 G2 F2 | G2 G2 A2 F2 | G6 z2 |
-w: 1.~ウ レ シ イ | ア _ サ ノ | ヨ ロ コ ビ | ヲ
-w: 2.~ケ フ _ モ | タ ノ シ ク | ア ソ ン ダ | ト
-c4 c4 | d2 c2 d2 c2 | A2 A2 G2 A2 | F6 z2 |
-w: 1.~チユン チユン | チユ ク チユ ク | ウ タ ヒ マ | ス
-w: 2.~チユン チユン | チユ ク チユ ク | ウ タ ヒ マ | ス
-```
+<div class="abc-score" data-abc-src="kosuzume.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kosuzume.abc)
 
 ## TMD 檔案連結
 

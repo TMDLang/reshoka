@@ -73,29 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ガクカウ（學校）
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=80
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F2 F2 G2 G2 | A2 A2 G2 G2 | c2 A2 G2 F2 | G2 A2 G2 z2 |
-w: 1.~ワ タ シ ノ | ガ ク カ ウ | ヨ イ ガ ク | カ ウ ヨ
-w: 2.~ワ タ シ ノ | ト モ ダ チ | ヨ イ ト モ | ダ チ ヨ
-c2 c2 c2 A2 | d2 d2 c2 c2 | A2 A2 G2 G2 | F6 z2 |
-w: 1.~キョ ウ ジョ ウ | ヒ ロ イ _ | ニ ハ ヒ ロ | イ
-w: 2.~マ イ ニ チ | ナ カ ヨ ク | ゲ ン キ ヨ | ク
-D2 D2 C2 D2 | F2 A2 G2 F2 | G2 G2 F2 G2 | A6 z2 |
-w: 1.~カ ケ ヅ ヤ | ゴ ホ ン ヤ | イ ロ イ ロ | ナ
-w: 2.~ユ ウ ギ ヤ | ナ ニ カ _ | イ ロ イ ロ | ナ
-c2 c2 A2 c2 | d2 d2 c2 A2 | G2 G2 G2 A2 | G2 G2 F2 z2 |
-w: 1.~メ _ ヅ ラ | シ イ モ ノ | タ ク サ ン | ア ツ テ
-w: 2.~オ _ モ シ | ロ イ コ ト | イ ツ ショ ニ | ヤ ツ テ
-```
+<div class="abc-score" data-abc-src="gakko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gakko.abc)
 
 ## TMD 檔案連結
 

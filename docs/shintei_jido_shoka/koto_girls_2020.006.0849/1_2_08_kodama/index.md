@@ -72,22 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:木靈
-C:曲：Carl Maria von Weber（北村中等音樂教科書）
-M:4/4
-L:1/16
-Q:1/4=80
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z4 F4 | !pp! !f! F4 F4 F4 A4 | !pp! c4 A4 c4 A4 | !f! F2 F2 G2 G2 A2 F2 G2 E2 |
-F8 z4 A4 | !pp! !f! G6 A2 G4 z2 F2 | !pp! B4 B2 B2 A4 z2 F2 | !f! B4 B2 B2 A4 z2 c2 |
-B3 B A2 A2 G2 G2 C4 | !pp! z4 c4 B3 B A2 A2 | G2 G2 C4 z4 z4 | !f! F2 E2 F2 G2 A2 G2 A2 B2 |
-!f! c4 C4 F2 E2 F2 G2 | A2 G2 A2 B2 c4 C4 | !f! !p! d4 B4 d4 B4 | !f! !p! c4 A4 c4 A4 |
-!ff! G4 c4 c2 c2 c2 c2 | !pp! c4 C2 C2 C2 C2 C4 |
-```
+<div class="abc-score" data-abc-src="kodama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kodama.abc)
 
 ## TMD 檔案連結
 

@@ -64,23 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:春の夕べ
-C:曲：スコツト（W. Scott，英國）
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! F3 G A4 F4 d2 c2 | B2 A2 G2 F2 E4 C4 | G2 A2 B4 d4 c2 B2 | A2 G2 A2 c2 A4 z4 |
-F3 G A4 F4 d2 c2 | B2 A2 G2 F2 E4 C4 | G2 A2 B4 d2 c2 B2 A2 | F4 A2 G2 F4 z4 |
-!f! d2 d2 d4 d4 c2 B2 | A2 G2 A2 c2 B4 A4 | d2 d2 d4 d4 c2 B2 | A2 G2 F4 G4 z4 |
-F3 G A4 F4 A2 F2 | G2 A2 B2 c2 d4 c4 | G2 A2 B4 B2 d2 c2 A2 | F4 A2 G2 F4 z4 |
-!mf! C4 A3 G F2 E2 D4 | C4 c3 B A2 G2 F4 | F2 F2 G2 A2 B4 B2 A2 | G2 A2 G2 E2 C8 |
-C4 A3 G F2 E2 D4 | C2 A2 B2 c2 B2 A2 G4 | F2 F2 G2 A2 B2 B2 A2 G2 | F4 E2 G2 F8 |
-```
+<div class="abc-score" data-abc-src="haru_no_yube.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](haru_no_yube.abc)
 
 ## TMD 檔案連結
 

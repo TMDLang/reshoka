@@ -69,28 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:歸雁
-M:4/4
-L:1/16
-Q:1/4=80
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! F6 A2 c4 A4 | d6 c2 c8 | B6 A2 B2 c2 d2 f2 | c12 z4 |
-w: 1.~イ ソ ヤ マ | ザ ク ラ | サ キ ソ _ メ _ | テ
-w: 2.~お ぼ ろ の | つ き に | か げ み _ せ _ | て
-A6 G2 F2 A2 d2 c2 | c6 B2 G4 z4 | A6 G2 F2 A2 d2 c2 | c12 z4 |
-w: 1.~ナ ミ マ _ デ _ | カ ス ム | ハ ル ノ _ ヨ _ | ヤ
-w: 2.~わ か れ _ ぢ _ | を し む | か り が _ ね _ | や
-f6 e2 f4 B4 | _d6 d2 c8 | !mp! _A6 A2 A2 G2 F2 =A2 | c12 z4 |
-w: 1.~ト ワ タ リ | カ ヘ ル | カ リ ガ _ ネ _ | モ
-w: 2.~な み よ な | ぎ さ よ | さ ら ば _ と _ | て
-!mf! A6 G2 F2 G2 A2 B2 | c6 d2 c8 | !f! d6 f2 c2 A2 B2 G2 | F12 z4 |
-w: 1.~ナ ゴ リ _ ヤ _ | イ ト ド | ヲ シ カ _ ラ _ | ム
-w: 2.~か す み _ に _ | き ゆ る | こ ゑ ご _ ゑ _ | や
-```
+<div class="abc-score" data-abc-src="kigan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kigan.abc)
 
 ## TMD 檔案連結
 

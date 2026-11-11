@@ -63,23 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:川中島
-C:曲：歐洲曲
-M:2/4
-L:1/16
-Q:1/4=80
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 z2 z2 C2 | F3 G A2 B c | d2 c2 A2 z2 | G2 G2 G2 c2 |
-!f! A2 F2 G2 D2 | D3 F G2 B2 | A2 G F G2 z2 | A2 A B c2 A2 |
-!mf! G2 A G F2 C2 | F3 G A2 B c | !f! c2 B2 A2 A2 | B2 c2 d3 c |
-!mf! c2 B2 A2 C2 | G3 A B2 A G | F2 d2 c2 z2 | d2 d2 d2 z2 |
-c2 c2 c2 C2 | F3 G A2 B c | d c B2 A2 z2 | G3 G A3 G |
-F4 z4 |
-```
+<div class="abc-score" data-abc-src="kawanakajima.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kawanakajima.abc)
 
 ## TMD 檔案連結
 

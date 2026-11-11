@@ -73,26 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:キンタラウ（金太郎）
-C:曲：田村虎藏
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F3 C F2 G2 | A3 G F2 F2 | G3 F G2 A2 | c6 z2 |
-w: 1.~マ サ カ リ | カ ツ イ デ | キ ン タ ラ | ウ
-w: 2.~ア シ ガ ラ | ヤ _ マ ノ | ヤ マ オ ク | デ
-A3 A G2 A2 | c3 d c2 A2 | c3 c A2 G2 | A2 G2 F2 z2 |
-w: 1.~ク マ ニ マ | タ ガ リ _ | オ ウ マ ノ | ケ イ コ
-w: 2.~ケ ダ モ ノ | ア ツ メ テ | ス マ ウ ノ | ケ イ コ
-C3 F F2 F2 | A2 F2 F2 z2 | c2 d2 c2 A2 | G2 F2 F2 z2 |
-w: 1.~ハイ シイ ドウ ドウ | ハイ ドウ ドウ | ハイ シイ ドウ ドウ | ハイ ドウ ドウ
-w: 2.~ハッ ケ ヨイ ヤ | ノ コッ タ | ハッ ケ ヨイ ヤ | ノ コッ タ
-```
+<div class="abc-score" data-abc-src="kintaro.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kintaro.abc)
 
 ## TMD 檔案連結
 

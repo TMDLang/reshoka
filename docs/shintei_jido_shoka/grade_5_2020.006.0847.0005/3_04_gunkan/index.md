@@ -62,28 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:軍艦
-M:3/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D2 D2 D2 E2 D2 B,2 | D4 G4 E4 | D4 B,4 D4 | E4 D4 D4 |
-w: 1.~ワ ダ ノ ハ ラ ニ | シ マ ノ | ゴ ト ク | ミ ユ ル
-w: 2.~わ だ の は ら に | や ま の | ご と く | み ゆ る
-D8 z4 | !f! B4 B4 B4 | A4 G4 E4 | D4 G4 A4 |
-w: 1.~ハ | ヨ ス ル | ア タ ヲ | フ セ グ
-w: 2.~は | す め ら | み く に | ま も る
-B6 A2 A4 | !mf! A4 A2 G2 E2 D2 | G4 A4 B4 | [BcBA]4 G4 A4 |
-w: 1.~フ ネ ヨ | ア ヲ ヲ シ _ | タ ケ シ | イクサ ブ ネ
-w: 2.~ふ ね よ | あ を を し _ | た け し | いくさ ぶ ね
-G8 z4 |
-w: 1.~ヨ
-w: 2.~よ
-```
+<div class="abc-score" data-abc-src="gunkan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gunkan.abc)
 
 ## TMD 檔案連結
 

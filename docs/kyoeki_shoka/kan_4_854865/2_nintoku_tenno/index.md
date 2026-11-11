@@ -68,31 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:仁德天皇
-M:4/4
-L:1/16
-Q:1/4=88
-K:A
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-!mf! E4 E4 A4 E4 | F4 F4 E8 | c4 A4 E4 c4 | B12 z4 |
-w: 1.~た ま の み | や ゐ は | な の み に | て
-w: 2.~あ め ふ り | し き る | あ し た に | も
-E4 E4 A4 E4 | F4 F4 E8 | c4 A4 E4 B4 | A12 z4 |
-w: 1.~あ れ に ぞ | あ れ し | お ほ と の | に
-w: 2.~か ぜ ふ き | す さ ぶ | ゆ ふ べ に | も
-!mp! c4 c4 d4 c4 | B4 B4 E8 | F4 F4 E4 A4 | B12 z4 |
-w: 1.~み と せ の | つ き ひ | し の ぎ つ | つ
-w: 2.~お ほ み の | う へ は | わ す ら れ | て
-c4 c4 d4 c4 | B4 B4 E4 z4 | F4 F4 E4 A4 | !f! B4 c4 A6 E2 |
-w: 1.~た み の か | ま ど を | に ぎ は し | た ま ふ そ
-w: 2.~た み の う | へ の み | お も ほ し | た ま ふ そ
-[Q:1/4=44] e6 d2 c6 c2 | B6 B2 A8 |
-w: 1.~の お ほ み | め ぐ み
-w: 2.~の お ほ み | こ こ ろ
-```
+<div class="abc-score" data-abc-src="nintoku_tenno.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nintoku_tenno.abc)
 
 ## TMD 檔案連結
 

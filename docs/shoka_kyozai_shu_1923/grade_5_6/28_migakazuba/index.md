@@ -65,22 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:みがかずば
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! C8 E4 G4 | G8 E4 z4 | E8 G4 c4 | e6 e2 d4 c4 |
-w: ミ ガ カ | ズ バ | タ マ モ | カ ガ ミ モ
-B6 B2 c4 A4 | G12 z4 | A6 A2 G4 G4 | E6 F2 G4 G4 |
-w: ナ ニ カ セ | ン | マ ナ ビ ノ | ミ _ チ モ
-c8 G8 | A8 E8 | F4 E4 D6 C2 | C12 z4 |
-w: カ ク | コ ソ | ア _ リ ケ | レ
-```
+<div class="abc-score" data-abc-src="migakazuba.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](migakazuba.abc)
 
 ## TMD 檔案連結
 

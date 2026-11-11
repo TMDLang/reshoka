@@ -61,21 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:孝女
-C:曲：獨國風曲
-M:3/4
-L:1/16
-Q:1/4=80
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! E,4 A,6 E,2 | A,4 B,4 C4 | B,6 E,2 B,2 A,2 | ^G,2 A,2 B,4 E,4 |
-C6 A,2 F,2 E,2 | D,2 F,2 E,8 | A,6 B,2 C2 D2 | E,2 ^G,2 A,4 z4 |
-E,4 A,6 E,2 | A,4 B,4 C4 | B,6 E,2 B,2 A,2 | ^G,2 A,2 B,4 E,4 |
-C6 A,2 F,2 E,2 | D,2 F,2 E,8 | A,6 B,2 C2 D2 | E,6 ^G,2 A,4 |
-```
+<div class="abc-score" data-abc-src="kojo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kojo.abc)
 
 ## TMD 檔案連結
 

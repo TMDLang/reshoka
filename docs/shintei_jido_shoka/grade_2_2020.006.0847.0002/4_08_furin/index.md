@@ -63,29 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:フウリン（風鈴）
-C:曲：草川信
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F2 G2 A2 z2 | c2 c c c2 z2 | A2 A2 G2 F2 | C6 z2 |
-w: フ ウ リン | チ リ チ リ | ナ リ マ シ | タ
-D3 D C2 C2 | F2 G2 G2 A2 | c3 c G2 A2 | F6 z2 |
-w: ア カ チヤ ン | ス ヤ ス ヤ | ネ マ シ タ | ヨ
-F2 G2 A2 z2 | c2 c c c2 z2 | A2 A2 G2 F2 | C6 z2 |
-w: フ ウ リン | チ リ チ リ | ナ リ マ シ | タ
-D3 D C2 C2 | F2 G2 G2 A2 | c3 c G2 A2 | F6 z2 |
-w: ニ ツ コ ト | ア カ チヤ ン | ワ ラ ヒ マ | ス
-c4 c2 c2 | d2 c2 c2 A2 | c2 d2 c2 A2 | c6 z2 |
-w: ユ メ ノ | ナ カ デ モ | カ ゼ フ イ | テ
-F2 G2 A2 z2 | c2 c c c2 z2 | G4 A2 G2 | F6 z2 |
-w: フ ウ リン | チ リ チ リ | ナツ タ デ | セウ
-```
+<div class="abc-score" data-abc-src="furin.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](furin.abc)
 
 ## TMD 檔案連結
 

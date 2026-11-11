@@ -61,32 +61,9 @@ Key: G minor (relative major ?= Bb), 2/4 (<2/4>), ヤハラカニ Quarter = 96 (
 
 ## ABC
 
-```abc
-X:1
-T:雛菊
-M:2/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 G2 G2 G2 | A2 A2 A4 | B2 A2 G2 G2 | A6 z2 |
-w: お に は に | う ゑ た | ひ な ぎ く | が
-d4 B2 A2 | G2 B2 A2 G2 | A2 A2 D2 D2 | G6 z2 |
-w: にっ こ り | わ ら っ て | さ き だ し | た
-G8 | A8 | B8 | G8 |
-w: ひい | ふう | みい | よう
-d4 B2 A2 | B4 G4 | A8 | A4 z4 |
-w: い つ つ | む _ | つ | _
-d4 B2 B2 | d2 d2 B2 B2 | A2 G2 A2 B2 | A6 z2 |
-w: あ た ま | そ ろ へ て | あ か や し | ろ
-D6 E2 | D4 z4 | G6 B2 | A4 z4 |
-w: た の | しい | う れ | しい
-G4 A4 | B4 c4 | d8 | d4 z4 |
-w: う つ | く し | い | _
-G2 G2 G2 G2 | A2 B2 A2 G2 | A2 A2 D2 D2 | G6 z2 |
-w: お に は の | ひ な ぎ く | さ き だ し | た
-```
+<div class="abc-score" data-abc-src="hinagiku.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hinagiku.abc)
 
 ## TMD 檔案連結
 

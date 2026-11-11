@@ -80,28 +80,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:白さぎ（白鷺鷥）
-M:3/4
-L:1/16
-Q:1/4=112
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 F2 E4 F4 | G2 B2 c4 B4 | G2 B2 e4 c4 | B8 z4 |
-w: 1.~ト ン ダ ヨ | ト _ ン ダ | シ ラ サ ギ | ガ
-w: 2.~と ん だ よ | と _ ん だ | し ら さ ぎ | が
-w: 3.~ト ン ダ ヨ | ト _ ン ダ | シ ラ サ ギ | ガ
-c2 c2 c4 B4 | e2 e2 c4 c4 | B2 c2 G4 F4 | E8 z4 |
-w: 1.~ヤ ツ パ リ | ム カ フ ノ | タ ニ オ リ | タ
-w: 2.~や つ ぱ り | む か ふ の | た に お り | た
-w: 3.~ヤ ツ パ リ | ム カ フ ノ | タ ニ オ リ | タ
-G4 F4 E4 | c2 B2 e4 c4 | G2 B2 c6 B2 | e8 z4 |
-w: 1.~タ ニ ハ | キ ラ キ ラ | ミ ヅ バ カ | リ
-w: 2.~た に は | す い す い | い ね ば か | り
-w: 3.~タ ニ ハ | タ ニ シ ガ | カ ク レ テ | ル
-```
+<div class="abc-score" data-abc-src="shirasagi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shirasagi.abc)
 
 ## TMD 檔案連結
 

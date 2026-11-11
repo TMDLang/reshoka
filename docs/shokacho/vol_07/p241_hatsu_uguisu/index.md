@@ -58,20 +58,9 @@ Key: ヘ調 (F major / D minor), Time: 3/4
 
 ## ABC
 
-```abc
-X:1
-T:初鶯（初鶯）
-M:3/4
-L:1/16
-Q:1/4=96
-K:Dm
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-D2 A2 B4 A4 | F2 A2 F4 D4 | A6 B2 d2 e2 | A8 z4 |
-D2 A2 B4 A4 | F2 A2 F4 D4 | E6 A2 F2 E2 | D8 z4 |
-A4 d4 e4 | f2 e2 d4 A4 | B2 d2 B2 A2 G2 G2 | A8 z4 |
-D4 E4 F4 | B2 A2 F4 E4 | D2 E2 F2 A2 F2 E2 | D8 z4 |
-```
+<div class="abc-score" data-abc-src="hatsu_uguisu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hatsu_uguisu.abc)
 
 ## TMD 檔案連結
 

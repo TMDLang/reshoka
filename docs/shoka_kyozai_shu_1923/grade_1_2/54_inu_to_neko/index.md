@@ -63,28 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:犬と猫
-M:2/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F3 G A2 A2 | c4 c2 A2 | d3 d c2 A2 | G6 z2 |
-w: 1.~ボ ク ラ ハ | イ ヌ ガ | ダ イ ス キ | ダ
-w: 2.~わ た し は | ね こ が | か は い い | な
-F3 F c2 A2 | G3 F G2 A2 | c3 d c3/2 d/2 c3/2 d/2 | c6 z2 |
-w: 1.~ク チ ブ エ | ナ ラ シ テ | ナ ヲ ヨ _ ブ _ | ト
-w: 2.~お い で よ | タ _ マ と | な を よ _ ぶ _ | と
-c3 c c2 A2 | G3 G F2 G2 | c3/2 B/2 A3/2 G/2 F2 G2 | A6 z2 |
-w: 1.~ト ホ ク ニ | オ ツ テ モ | ト _ ン _ デ キ | テ
-w: 2.~あ た ま を | か し げ て | す _ り _ よ つ | て
-C4 F2 G2 | A3 A G2 F2 | G2 c2 A2 G2 | F6 z2 |
-w: 1.~ソ デ ニ | ス ガ ツ テ | ワウ ワウ ワン ワン | ワン
-w: 2.~ひ ざ に | あ が つ て | ニヤン ニヤン ニヤン ニヤン | ニヤン
-```
+<div class="abc-score" data-abc-src="inu_to_neko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](inu_to_neko.abc)
 
 ## TMD 檔案連結
 

@@ -67,37 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:一月の遊び
-M:2/4
-L:1/16
-Q:1/4=120
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-[Q:1/4=120] !f! z2 z2 z2 A2 | d4 A2 F G | B4 A2 D2 | E4 z2 E2 |
-w: 1.~あ | げ よ か み | だ こ み | な き
-w: 2.~つ | け よ や り | は ご み | な き
-F4 z2 B2 | A6 A2 | !p! D2 A2 A2 B2 | A8 |
-w: 1.~て あ | げ _ | よ た こ あ | げ
-w: 2.~て つ | け _ | よ は ご つ | き
-A2 A2 F2 D2 | !mf! E2 z2 A2 A2 | B2 A2 z2 G G | F2 E2 z2 E2 |
-w: 1.~_ あ そ び | は お も | し ろ お も | し ろ お
-w: 2.~_ あ そ び | は お も | し ろ お も | し ろ お
-A6 B2 | A4 A4 | D4 z4 | [M:4/4] !mf! A4 A4 B6 A2 |
-w: 1.~も _ | し _ | ろ | か し こ の
-w: 2.~も _ | し _ | ろ | か し こ の
-A4 F2 D2 E4 z4 | B6 B2 d4 B4 | !mp! B4 A2 D2 E2 A2 A2 B2 | [M:2/4] A8 |
-w: 1.~は ら _ よ | こ _ こ の | の べ _ よ み な き | て
-w: 2.~に は _ よ | こ _ こ の | そ の _ よ み な き | て
-A2 B2 d2 B2 | A8 | A2 F2 D2 E2 | F8 |
-w: 1.~_ あ げ よ | や | _ こ ち ふ | く
-w: 2.~_ つ け よ | や | _ は つ ひ | の
-!p! F4 E2 F2 | D4 z2 z2 |
-w: 1.~_ そ ら | に
-w: 2.~_ か げ | に
-```
+<div class="abc-score" data-abc-src="ichigatsu_no_asobi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ichigatsu_no_asobi.abc)
 
 ## TMD 檔案連結
 

@@ -63,24 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:傳書鳩
-M:4/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D3 E D3 E D2 B,2 A,2 G,2 | E3 F G2 E2 D4 z4 | D2 G2 G3 A B3 B A2 G2 | A3 B A2 E2 D4 z4 |
-w: 1.~セ ン リ ノ ホ _ カ ニ | ア ソ ビ テ ハ | ナ _ レ シ フ ル ス ノ | ワ ガ ヤ ド ニ
-w: 2.~む か し は か _ り に | ふ み つ け し | は な し は あ _ れ ど | い ま の よ は
-w: 3.~シ メ ン ヲ テ _ キ ニ | カ コ マ レ シ | ワ ガ ヂ ン チュ ウ ノ _ | オ ト ヅ レ ヲ
-A3 B A3 E G2 F2 E2 D2 | B3 A G2 E2 D4 z4 | d3 B G4 A2 B2 A2 F2 | G12 z4 |
-w: 1.~ワ ス レ ヌ ミ _ チ ヲ | カ ヘ リ ク ル | ハ ト ノ カ シ コ サ | ヨ
-w: 2.~い く さ の な _ か の | つ か ひ す る | は と の か し こ さ | よ
-w: 3.~ミ カ タ ニ ツ _ タ ヘ | シ ラ セ タ ル | ハ ト ノ カ シ コ サ | ヨ
-```
+<div class="abc-score" data-abc-src="denshobato.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](denshobato.abc)
 
 ## TMD 檔案連結
 

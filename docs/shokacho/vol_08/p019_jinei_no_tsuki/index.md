@@ -67,34 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:陣營の月（軍營之月）
-M:4/4
-L:1/16
-Q:1/4=88
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D4 A3 A A4 B3 A | A4 G2 F2 E8 | D4 F3 F G4 ^G3 G | A8 E4 z4 |
-w: タ タ カ ヒ カ チ | タ _ _ リ | テ キ グ ン ニ ゲ | ツ _
-D4 A3 A A4 B3 A | A4 G2 F2 E8 | D4 F3 F E4 A3 A | D12 z4 |
-w: ト ド ロ ク ツ ツ | オ _ _ ト | ガ イ カ ノ ヒ ビ | キ
-F4 A3 G F4 D3 C | C4 B2 A2 G4 z4 | A4 G3 A c2 B2 A2 G2 | F4 G2 F2 E4 z4 |
-w: ウ シ ホ ノ ゴ ト | ク _ _ ニ | ミ チ ク ル _ ワ ガ | グ _ _ ン
-D4 A3 A A4 B3 A | A4 G2 F2 E4 z2 E2 | D4 F3 F E4 A3 A | D8 B8 |
-w: ハ ヤ シ ノ シ タ | カ _ _ ゲ ア | ナ タ ニ コ ナ タ | ニ ヒ
-A4 F3 D A4 F3 E | D12 z4 | !mf! D4 A3 A A4 B3 A | A4 G2 F2 E8 |
-w: ラ メ ク ヒ ノ ハ | タ | ぜん ぐ _ ん ね む | り _ _ て
-D4 F3 F G4 ^G3 G | A8 E4 z4 | D4 A3 A A4 B3 A | A4 G2 F2 E8 |
-w: ふ け ゆ く よ は | を _ | お ほ ぞ ら あ ふ | ぎ _ _ て
-D4 F3 F E4 A3 A | D12 z4 | F4 A3 G F4 D3 C | C4 B2 A2 G4 z4 |
-w: つ つ と り た て | ば | つ き か げ さ び | し _ _ く
-A4 G3 A c2 B2 A2 G2 | F4 G2 F2 E4 z4 | D4 A3 A A4 B3 A | A4 G2 F2 E4 z2 E2 |
-w: お も ひ ぞ _ わ き | く _ _ る | は る け き ふ る | さ _ _ と う
-D4 F3 F E4 A3 A | D8 B8 | A4 F3 D A4 F3 E | D12 z4 |
-w: せ に し せ ん い | う う | か ぶ は お も か | げ
-```
+<div class="abc-score" data-abc-src="jinei_no_tsuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](jinei_no_tsuki.abc)
 
 ## TMD 檔案連結
 

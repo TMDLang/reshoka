@@ -64,28 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:和氣清麿
-M:6/8
-L:1/16
-Q:3/8=39
-K:F
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-!mf! z2 z2 z2 z2 z2 C2 | F4 F2 A2 G2 F2 | c6 c4 c2 | d4 d2 d2 c2 B2 |
-w: 1.~お | も き み こ と | を _ み | に _ お _ ひ
-w: 2.~き | み の み む ね | に _ な | ど _ そ _ む
-B4 B2 A4 F2 | F4 C2 C4 C2 | A4 G2 F4 F2 | G4 G2 A4 d2 |
-w: 1.~も ち て う | す _ き こ | ほ り を ふ | む お も _
-w: 2.~く べ き か | み _ の み | つ げ を な | ど た む _
-c4 =B2 c4 C2 | F4 F2 A2 G2 F2 | c6 c4 c2 | d4 d2 d4 c2 |
-w: 1.~ひ に も た | わ ま ぬ _ こ | こ ろ を | を し や き
-w: 2.~べ き と ま | げ ざ る _ こ | こ ろ き | よ し や を
-c4 c2 F4 z2 |
-w: 1.~よ _ し
-w: 2.~を _ し
-```
+<div class="abc-score" data-abc-src="wake_no_kiyomaro.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](wake_no_kiyomaro.abc)
 
 ## TMD 檔案連結
 

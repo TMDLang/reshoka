@@ -69,36 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:南の風
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! F6 F2 F4 G4 | A6 B2 c4 c4 | d6 c2 d2 c2 A2 F2 | G12 z4 |
-w: ミ ナ ミ ノ | カ _ ゼ ノ | フ ク コ _ ロ _ | ハ
-A6 B2 A4 G4 | F6 G2 A4 B4 | c4 d2 c2 A6 G2 | F12 z4 |
-w: ザ ボ ン ノ | ハ _ ナ ガ | ニ ホ _ ヒ マ | ス
-!mf! F6 F2 F4 G4 | A6 B2 c4 c4 | d6 c2 d2 c2 A2 F2 | G12 z4 |
-w: ザ ボ ン ノ | ハ _ ナ ノ | サ ク ヨ _ サ _ | ハ
-A6 B2 A4 G4 | F6 G2 A4 B4 | c4 d2 c2 A6 G2 | F12 z4 |
-w: ソ ラ ニ ハ | シ _ ロ イ | ア マ _ ノ ガ | ハ
-!p! G4 G2 A2 G4 z4 | !mp! A4 A2 B2 A4 z4 | !mf! c6 d2 c4 A2 B2 | c12 z4 |
-w: ミ ツ ボ シ | ヨ ツ ボ シ | ナ ナ ツ ボ _ | シ
-d6 d2 d4 c4 | d6 d2 c4 A4 | !mp! G4 F2 G2 A4 B4 | c12 z4 |
-w: カ ゾ ヘ テ | キ タ レ バ | ツ イ _ ネ ム | テ
-!p! A6 A2 G4 F4 | D6 F2 D4 C4 | F6 G2 A4 F4 | G12 z4 |
-w: ツ イ ツ イ | ト ロ リ ト | ネ ン ネ シ | タ
-!mf! A6 B2 c4 c4 | d6 d2 c4 A4 | G4 F2 G2 A6 G2 | F12 z4 |
-w: ソ ノ マ マ | ア サ マ デ | ネ ン _ ネ シ | タ
-!mf! F6 F2 F4 G4 | A6 B2 c4 c4 | d6 c2 d2 c2 A2 F2 | G12 z4 |
-w: ミ ナ ミ ノ | カ _ ゼ ノ | フ ク コ _ ロ _ | ハ
-A6 B2 A4 G4 | F6 G2 A4 B4 | c4 d2 c2 A6 G2 | F12 z4 |
-w: ザ ボ ン ノ | ハ _ ナ ガ | ニ ホ _ ヒ マ | ス
-```
+<div class="abc-score" data-abc-src="minami_no_kaze.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](minami_no_kaze.abc)
 
 ## TMD 檔案連結
 

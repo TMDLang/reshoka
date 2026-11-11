@@ -62,28 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:故郷の空
-M:2/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D3 D D3 B | A3 G A3 B | D3 D E3 D | G4 z4 |
-w: 1.~ゆ ふ ぞ ら | は れ て あ | き か ぜ ふ | き
-w: 2.~す み ゆ く | み づ に あ | き は ぎ た | れ
-D3 D d3 B | A3 G A3 B | D3 D E3 D | G4 z4 |
-w: 1.~つ き か げ | お ち て す | ず む し な | く
-w: 2.~た ま な す | つ ゆ は す | す き に み | つ
-d3 B A3 B | A3 G A3 B | d3 B A3 d | e4 z3 e |
-w: 1.~お も へ ば | と ほ し こ | きょ う の そ | ら あ
-w: 2.~お も へ ば | に た り こ | きょ う の の | べ あ
-d3 B c3 A | B3 G A3 B | D3 D E3 D | G4 z4 |
-w: 1.~あ わ が ち | ち は は い | か に お は | す
-w: 2.~あ わ が は | ら か ら た | れ と あ そ | ぶ
-```
+<div class="abc-score" data-abc-src="kokyo_no_sora.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kokyo_no_sora.abc)
 
 ## TMD 檔案連結
 

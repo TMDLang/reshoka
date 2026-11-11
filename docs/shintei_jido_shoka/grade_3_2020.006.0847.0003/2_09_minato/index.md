@@ -78,29 +78,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:港
-C:曲：吉田信太
-M:3/4
-L:1/16
-Q:1/4=92
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C2 D2 E4 E4 | G2 A2 G4 G4 | E2 D2 C4 D4 | E8 z4 |
-w: 1.~そ _ ら も | み な と も | よ は は れ | て
-w: 2.~は _ や し | な し た る | ほ ば し ら | に
-G2 A2 G4 G4 | c2 d2 c4 A4 | G2 A2 G4 E4 | D8 z4 |
-w: 1.~つ _ き に | か ず ま す | ふ ね の か | げ
-w: 2.~は _ な と | み ま が ふ | ふ な じ る | し
-D2 D2 C4 C4 | D2 D2 G4 G4 | F2 E2 D4 C4 | G8 z4 |
-w: 1.~は し け の | か _ よ ひ | に ぎ や か | に
-w: 2.~つ み に の | う _ た の | に ぎ は ひ | て
-c2 d2 c4 c4 | G2 A2 G4 G4 | E2 F2 E4 D4 | C8 z4 |
-w: 1.~よ せ く る | な _ み も | こ が ね な | り
-w: 2.~み な と は | い _ つ も | は る な れ | や
-```
+<div class="abc-score" data-abc-src="minato.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](minato.abc)
 
 ## TMD 檔案連結
 

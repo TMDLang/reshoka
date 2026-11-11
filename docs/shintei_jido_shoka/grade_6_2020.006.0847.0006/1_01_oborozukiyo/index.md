@@ -60,31 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:朧月夜
-M:3/4
-L:1/16
-Q:1/4=72
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z8 F2 F2 | D6 E2 F2 A2 | A2 B2 A4 E4 | F6 D2 E2 A,2 |
-w: 1.~な の | は な ば た | け _ _ い | り ひ う す
-w: 2.~さ と | わ の ほ か | げ _ _ も | り の い ろ
-F8 A,2 A,2 | F6 G2 A2 d2 | d2 e2 d4 A4 | B6 F2 E2 E2 |
-w: 1.~れ み わ | た す や ま | の _ _ か | す み ふ か
-w: 2.~も た な | か の こ み | ち _ _ た | ど る ひ と
-!mf! D8 A,2 A,2 | d6 d2 d2 e2 | d2 B2 A4 A2 F2 | A6 B2 F2 F2 |
-w: 1.~し は る | か ぜ そ よ | ふ _ _ そ _ | ら を み れ
-w: 2.~も か は | づ の な く | ね _ _ か _ | ね の お と
-!p! E8 D2 E2 | F6 D2 F2 G2 | A2 d2 B4 A4 | B6 F2 E2 E2 |
-w: 1.~ば ゆ ふ | づ き か か | り _ _ に | ほ ひ あ は
-w: 2.~も さ な | が ら か す | め _ _ お | ぼ ろ づ き
-D8 z4 |
-w: 1.~し
-w: 2.~よ
-```
+<div class="abc-score" data-abc-src="oborozukiyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oborozukiyo.abc)
 
 ## TMD 檔案連結
 

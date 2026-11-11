@@ -48,21 +48,9 @@ Annotations: ハ調 二拍子, 大正幼年唱歌 第二集 十九頁
 
 ## ABC
 
-```abc
-X:1
-T:汽車
-C:曲：大正幼年唱歌 第二集
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! E4 D2 C2 | E2 G2 G2 z2 | A2 c4 A2 | G2 E2 G2 z2 |
-E3 E D2 C2 | E2 G2 A2 G2 | E2 G4 E2 | D2 D2 C2 z2 |
-c2 c4 A2 | c2 c2 G2 z2 | A2 c4 A2 | G2 E2 G2 z2 |
-E3 E D2 C2 | E2 G2 A2 G2 | E2 G4 E2 | D2 D2 C2 z2 |
-```
+<div class="abc-score" data-abc-src="kisha.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kisha.abc)
 
 ## TMD 檔案連結
 

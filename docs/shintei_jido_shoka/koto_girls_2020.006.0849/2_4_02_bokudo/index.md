@@ -57,28 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:牧童
-M:3/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!p! z4 z4 D4 | G4 G4 A4 | B3 c B4 A4 | d4 G4 A2 B2 |
-E8 D4 | G4 G4 A4 | B3 c B4 A4 | d4 B4 A2 B2 |
-!mf! G8 G2 A2 | B4 A4 c4 | B2 A2 G4 F4 | G6 A2 G2 F2 |
-A8 D4 | G4 G4 A4 | B3 c B4 A4 | d4 B4 A2 B2 |
-G8 z4 |
-[V:V2]
-!p! z4 z4 D4 | B,4 B,4 C4 | D3 E D4 D4 | F4 E4 C4 |
-D8 D4 | B,4 B,4 C4 | D3 E D4 D4 | F4 G4 E4 |
-!mf! G8 B,2 C2 | D4 D4 E4 | D2 C2 B,4 D4 | B,6 C2 B,2 A,2 |
-D8 D4 | B,4 B,4 C4 | D3 E D4 D4 | F4 G4 E4 |
-B,8 z4 |
-```
+<div class="abc-score" data-abc-src="bokudo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](bokudo.abc)
 
 ## TMD 檔案連結
 

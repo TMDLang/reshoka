@@ -64,31 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:助船
-M:6/8
-L:1/16
-Q:3/8=40
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z10 F2 | B4 B2 B4 A2 | B2 A2 G2 F4 F2 | A4 A2 A2 B2 c2 |
-w: 1.~ハ | ゲ シ キ ア | メ ー カ ゼ テ | ン チ ク ー ラ
-w: 2.~す | く ひ を も | と ー む る こ | ゑ は す ー れ
-B6 B4 F2 | B4 B2 B4 A2 | B2 A2 G2 F4 F2 | A4 A2 G2 A2 B2 |
-w: 1.~ク ー ヤ | マ ナ ス ア | ラ ー ナ ミ タ | ケ リ ク ー ル
-w: 2.~ど ー こ | の か ぜ こ | の ー な み た | れ も ゆ ー か
-!mp! B6 B4 B2 | c4 c2 c4 c2 | !mf! d4 d2 d4 d2 | e4 d2 d2 c2 B2 |
-w: 1.~フ ー ミ | ヨ ミ ヨ カ | シ コ ニ ア | ハ レ ヲ ー ブ
-w: 2.~ず ー み | よ み よ こ | ぎ づ る す | く ひ を ー ぶ
-!mf! c6 c4 F2 | B4 B2 B4 A2 | B2 A2 G2 F4 F2 | A4 A2 G2 A2 B2 |
-w: 1.~ネ ー ショ | ー シ ノ サ | カ ー ヒ ト ス | ク ヒ モ ー ト
-w: 2.~ね ー け | な げ の を | の ー こ ら ま | も れ か ー み
-B6 B4 z2 |
-w: 1.~ム ー
-w: 2.~よ ー
-```
+<div class="abc-score" data-abc-src="tasukebune.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tasukebune.abc)
 
 ## TMD 檔案連結
 

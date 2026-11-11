@@ -61,28 +61,9 @@ Key: D major (?= D), 2/4 (<2/4>), 愛ラシク Quarter = 76 (!= 76)
 
 ## ABC
 
-```abc
-X:1
-T:梅に鶯
-M:2/4
-L:1/16
-Q:1/4=76
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A2 A B A2 F2 | E2 E2 E2 z2 | D2 D D E2 E2 | F2 A2 A2 z2 |
-w: う め の き の | え だ に | う め の は なが | さ い た
-B2 B2 d2 B2 | A2 A2 F2 D2 | F2 F F E2 D2 | E2 E2 D2 z2 |
-w: い く つ も | い く つ も | し ら ぬ ま に | さ い た
-E2 E E F2 F2 | A2 B2 A2 z2 | B3 B d2 B2 | A2 A A F2 z2 |
-w: う め の は な | さ け ば | う ぐ ひ す | よ ろ こ び
-A3 B A2 F2 | A3 B A2 F2 | E3 E E2 D2 | F2 E E D2 z2 |
-w: お や ま の | お く か ら | う た ひ に | で て く る
-B3 A B3 A | d2 B A F2 z2 | A3 B A2 F2 | d2 B A F2 z2 |
-w: ケ キヨ ケ キヨ | ホ ホ ケ キヨ | う ぐ ひ す | ホ ホ ケ キヨ
-B3 A B3 A | d2 B A F2 z2 | A3 B A2 F2 | E2 E2 F D z2 |
-w: ケ キヨ ケ キヨ | ホ ホ ケ キヨ | う れ し や | ホ ホ ケ キヨ
-```
+<div class="abc-score" data-abc-src="ume_ni_uguisu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ume_ni_uguisu.abc)
 
 ## TMD 檔案連結
 

@@ -70,19 +70,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:羽衣
-M:4/4
-L:1/16
-Q:1/4=88
-K:Cm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 E2 G4 E2 D2 C4 | D2 C2 D2 E2 G8 | z2 G2 A2 G2 c2 c2 A2 c2 | G4 E2 C2 D8 |
-z2 C2 D2 E2 G2 B2 G2 G2 | z2 E2 D2 E2 G4 G4 | z2 G2 A2 G2 c d c2 A2 G2 | z2 c2 d2 c2 d4 d4 |
-e2 e2 d2 c2 A2 G A c2 A G | E2 E2 G2 E2 G4 G4 | G2 G2 E2 D2 C2 D2 E4- | E2 G2 E2 D2 C4 C4 |
-```
+<div class="abc-score" data-abc-src="hagoromo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hagoromo.abc)
 
 ## TMD 檔案連結
 

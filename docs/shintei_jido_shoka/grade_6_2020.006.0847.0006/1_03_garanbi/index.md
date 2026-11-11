@@ -58,31 +58,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:鵞鑾鼻
-M:4/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 D3 D | G8 G4 B3 A | d8 c4 B2 A2 | G6 E2 G4 G4 |
-w: 1.~い つ | ぱ か う べ | を も た げ | て _ は _
-w: 2.~て ん | ちゅう ほ し を | い た だ き | て _ _ _
-B8 z4 d3 d | B4 G4 E4 G3 G | A6 A2 A4 B2 A2 | G6 E2 G4 B4 |
-w: 1.~_ ば ん | ぱ _ し た が | ふ _ な ん や | う _ の _
-w: 2.~_ た て | る に に た り | あ _ ら い そ | の _ _ _
-G8 z4 E4 | E6 D2 E2 G2 A2 B2 | d8 c4 E4 | G6 E2 G4 ^G4 |
-w: 1.~_ う | し ほ よ _ せ き | て う ち | け _ ぶ る
-w: 2.~_ な | み を つ _ ら ぬ | く は く | ね _ つ の
-A8 z4 d3 d | B4 G4 E4 G3 G | A6 A2 A4 B4 | A8 G6 E2 |
-w: 1.~_ ば _ | し _ か い けふ | の _ ゆ ふ | ま ぐ _
-w: 2.~_ ひ か | り は ひ る を | あ _ ざ む | き て _
-G8 z4 z4 |
-w: 1.~れ
-w: 2.~_
-```
+<div class="abc-score" data-abc-src="garanbi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](garanbi.abc)
 
 ## TMD 檔案連結
 

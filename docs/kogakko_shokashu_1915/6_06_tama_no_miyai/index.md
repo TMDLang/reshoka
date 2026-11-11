@@ -61,28 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:玉の宮居
-M:4/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D8 D4 B,4 | D4 G4 G4 F4 | E4 E4 E4 D4 | E8 G4 A4 |
-w: 1.~た ま の | み や ゐ は | あ れ は て | て あ め
-w: 2.~ふ ゆ の | よ さ む の | つ き さ え | て ひ ま
-B4 B4 A4 G4 | G4 A4 B4 A4 | G4 G4 E4 D4 | D12 z4 |
-w: 1.~さ へ つ ゆ | さ へ い と | し げ け れ | ど
-w: 2.~も る か ぜ | さ へ み を | き る ば か | り
-B8 B4 A4 | B4 d4 d4 B4 | A4 A4 A4 G4 | A8 B4 e4 |
-w: 1.~た み の | か ま ど の | に ぎ は ひ | は た つ
-w: 2.~た み を | お も ほ す | み こ こ ろ | に お ほ
-d4 B4 B4 A4 | G4 A4 B4 A4 | G4 G4 E4 D4 | D12 z4 |
-w: 1.~け ぶ り に | ぞ _ あ ら | は れ に け | る
-w: 2.~み こ ろ も | や _ ぬ が | せ た ま ひ | し
-```
+<div class="abc-score" data-abc-src="tama_no_miyai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tama_no_miyai.abc)
 
 ## TMD 檔案連結
 

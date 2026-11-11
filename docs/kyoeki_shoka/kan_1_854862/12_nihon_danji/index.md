@@ -65,30 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:日本男兒
-M:4/4
-L:1/16
-Q:1/4=126
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! d6 d2 B4 G4 | A2 G2 A2 B2 A4 z4 | G6 G2 E4 D4 | G12 z4 |
-w: よ _ し や | ひゃ く ま ん の | た い ぐ ん | も
-!mf! G3 G G2 A2 G2 F2 E2 D2 | G3 G A2 B2 A4 z4 | B3 B B2 G2 d3 d d2 B2 | A3 A B2 A2 G4 z4 |
-w: う ば ふ に よ し な き | や ま と だ ま | お の お の み に こ そ | そ な へ た れ
-G3 G G2 B2 A2 G2 F2 E2 | D3 G B2 G2 A4 z4 | !f! d6 d2 B4 G4 | A2 G2 A2 B2 A4 G4 |
-w: や ま な す あ だ な み | よ せ く と も | な _ ど か | お _ そ _ れ ん
-D4 G2 A2 B6 G2 | A4 d4 G4 z4 | !f! d6 d2 B4 G4 | A2 G2 A2 B2 A4 A4 |
-w: に _ つ ぽ ん | だ ん じ | き た へ に | き _ た _ へ し
-G6 G2 E4 D4 | G12 z4 | !mf! G3 G G2 A2 G2 F2 E2 D2 | G3 G A2 B2 A4 z4 |
-w: に ほ ん と | _ | こ ほ り の や _ い ば | な つ さ む し
-B3 B B2 G2 d3 d d2 B2 | A3 A B2 A2 G4 z4 | G3 G G2 B2 A2 G2 F2 E2 | D3 G B2 G2 A4 z4 |
-w: こ の ひ と ふ り こ そ | そ な へ た れ | あ だ な す え み し ら | お ほ く と も
-!f! d6 d2 B4 G4 | A2 G2 A2 B2 A4 G4 | D4 G2 A2 B6 G2 | A4 d4 G4 z4 |
-w: な _ ど か | ひ _ る _ ま ん | に _ つ ぽ ん | だ ん じ
-```
+<div class="abc-score" data-abc-src="nihon_danji.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nihon_danji.abc)
 
 ## TMD 檔案連結
 

@@ -66,37 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:お庭のラヂオ
-C:曲：草川信
-M:2/4
-L:1/16
-Q:1/4=116
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-[Q:1/4=116] C6 z2 | C6 z2 | C6 z2 | C6 z2 |
-w: 1.~ジェー | オー | エー | ケー
-w: 2.~ジェー | オー | エー | ケー
-G2 E2 F2 D2 | E2 C2 D2 B,2 | C2 D2 E2 F2 | G6 z2 |
-w: 1.~_ _ _ _ | _ _ _ _ | ド レ ミ ファ | ソ
-w: 2.~_ _ _ _ | _ _ _ _ | ド レ ミ ファ | ソ
-!mf! G2 G2 G2 A2 | G2 G2 E2 C2 | D2 E2 D2 D2 | C6 z2 |
-w: 1.~お に は の | ラ ヂ オ は | ゆ り の は | な
-w: 2.~ま ま ご と | お う ち の | お な か よ | し
-!f! c2 c2 A2 A2 | G2 G2 E2 D2 | C2 D2 E2 F2 | G6 z2 |
-w: 1.~く _ も の | ア ン テ ナ | ド レ ミ ファ | ソ
-w: 2.~ク リ _ ム | な め な め | ド レ ミ ファ | ソ
-[Q:1/4=100] !mf! G3 A G2 E2 | G2 A A G2 z2 | E2 F E D2 C D | E6 z2 |
-w: ま ま ご と | お う ち は | は な _ の か _ | げ
-G3 A G2 E2 | G2 A A G2 z2 | E2 F E D2 E D | C6 z2 |
-w: な か よ く | ラ ヂ オ を | き き _ ま せ _ | う
-!f! c2 A G c2 z2 | A c A c G2 z2 | E2 E G A2 c A | G6 z2 |
-w: さ あ _ さ | ク リ _ _ ム | め し _ あ が _ | れ
-!mf! G3 A G2 E2 | G2 A A G2 z2 | E2 F E D2 E D | C6 z2 |
-w: い ち ご に | ミ ル ク も | か け _ ま し _ | た
-```
+<div class="abc-score" data-abc-src="oniwa_no_rajio.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oniwa_no_rajio.abc)
 
 ## TMD 檔案連結
 

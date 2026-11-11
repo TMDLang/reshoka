@@ -62,38 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:蓮池
-M:6/8
-L:1/16
-Q:3/8=40
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z2 z2 z2 z2 z2 B2 | B4 A2 G4 d2 | d4 c2 B4 B2 | B4 A2 G4 A2 |
-w: ま | る _ は ま | き ば を そ | よ _ が せ
-B6 B2 z2 B2 | c4 B2 A4 G2 | A4 F2 D4 D2 | G4 B2 A4 F2 |
-w: て _ あ | さ か ぜ わ | た _ る い | け _ の お
-G6 G2 z2 D2 | D4 E2 D4 D2 | G4 B2 A4 D2 | G4 A2 B4 c2 |
-w: も _ た | つ _ や さ | ざ な み う | き は を こ
-d4 e2 d4 B2 | c4 B2 A4 G2 | A4 F2 D4 D2 | G4 B2 A4 F2 |
-w: え _ て ま | ろ _ び ま | ろ _ ぶ つ | ゆ _ の た
-G6 G2 z2 D2 | d6 d4 G2 | G4 A2 B4 c2 | d4 e2 d4 B2 |
-w: ま _ あ | あ _ す | ず _ し す | ず _ し あ
-c6 A6 | G6 G2 z2 z2 | z2 z2 z2 z2 z2 B2 | B4 A2 G4 d2 |
-w: け ぼ | の _ | い | け _ の ほ
-d4 c2 B4 B2 | B4 A2 G4 A2 | B6 B2 z2 B2 | c4 B2 A4 G2 |
-w: と り に た | た _ ず め | ば _ は | な の か を
-A4 F2 D4 D2 | G4 B2 A4 F2 | G6 G2 z2 D2 | D4 E2 D4 D2 |
-w: そ _ ふ そ | で _ た も | と _ そ | ら _ に つ
-G4 B2 A4 D2 | G4 A2 B4 c2 | d4 e2 d4 B2 | c4 B2 A4 G2 |
-w: き し ろ ほ | の か に み | え _ て み | づ _ に し
-A4 F2 D4 D2 | G4 B2 A4 F2 | G6 G2 z2 D2 | d6 d4 G2 |
-w: ろ _ し は | な _ は ち | す _ あ | あ _ す
-G4 A2 B4 c2 | d4 e2 d4 B2 | c6 A6 | G6 G2 z2 z2 |
-w: ず _ し す | ず _ し ゆ | ふ ぐ | れ _
-```
+<div class="abc-score" data-abc-src="hasuike.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hasuike.abc)
 
 ## TMD 檔案連結
 

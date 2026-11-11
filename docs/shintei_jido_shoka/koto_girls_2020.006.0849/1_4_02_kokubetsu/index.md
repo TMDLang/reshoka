@@ -62,51 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:告別
-C:曲：F. Silcher
-M:3/4
-L:1/16
-Q:1/4=100
-K:D
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-V:V3 name="Part3" snm="Par"
-[V:V1]
-!mf! A,6 B,2 A,4 | F,8 z4 | A,6 B,2 A,4 | F,8 z4 |
-B,8 B,4 | A,8 A,4 | G,4 C4 C4 | D8 z4 |
-F,6 G,2 F,4 | D,8 z4 | F,6 G,2 F,4 | D,8 z4 |
-G,8 G,4 | F,8 F,4 | E,6 D,2 E,2 G,2 | F,8 z4 |
-D,8 D,4 | D,8 z4 | D,8 D,4 | D,8 z4 |
-D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-[V:V2]
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-!mf! A,6 B,2 A,4 | F,8 z4 | A,6 B,2 A,4 | F,8 z4 |
-B,8 B,4 | A,8 A,4 | G,4 C4 C4 | D8 z4 |
-F,6 G,2 F,4 | D,8 z4 | F,6 G,2 F,4 | D,8 z4 |
-G,8 G,4 | F,8 F,4 | E,6 D,2 E,2 G,2 | F,8 z4 |
-D,8 D,4 | D,8 z4 | D,8 D,4 | D,8 z4 |
-D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-[V:V3]
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-z12 | z12 | z12 | z12 |
-!mf! A,6 B,2 A,4 | F,8 z4 | A,6 B,2 A,4 | F,8 z4 |
-B,8 B,4 | A,8 A,4 | G,4 C4 C4 | D8 z4 |
-F,6 G,2 F,4 | D,8 z4 | F,6 G,2 F,4 | D,8 z4 |
-G,8 G,4 | F,8 F,4 | E,6 D,2 E,2 G,2 | F,8 z4 |
-D,8 D,4 | D,8 z4 | D,8 D,4 | D,8 z4 |
-D,8 D,4 | D,8 D,4 | A,8 A,,4 | D,8 z4 |
-```
+<div class="abc-score" data-abc-src="kokubetsu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kokubetsu.abc)
 
 ## TMD 檔案連結
 

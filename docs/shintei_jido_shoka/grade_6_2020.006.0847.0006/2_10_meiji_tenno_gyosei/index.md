@@ -65,32 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:明治天皇御製
-M:4/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 D4 | B8 A8 | G8 F4 D4 | G8 A4 A4 |
-w: 1.~モ | ノ マ | ナ ブ ミ | チ ニ タ
-w: 2.~あ | や ま | ち を い | さ め か
-w: 3.~オ | ノ ガ | ミ ハ カ | ヘ リ ミ
-B6 B2 A4 B4 | d8 B4 G4 | A12 B4 | B6 B2 A4 G4 |
-w: 1.~ツ コ ヨ オ | コ タ リ | ニ マ | サ レ ル ア
-w: 2.~は し て し | た し む | が ま | こ と の と
-w: 3.~ズ シ テ ヒ | ト ノ タ | メ ツ | ク ス ヤ ヒ
-F6 E2 D4 D4 | G8 A8 | B12 B4 | c8 A8 |
-w: 1.~タ ー ハ ナ | シ ー | ト シ | ラ ナ
-w: 2.~も ー の こ | こ ー | ろ な | る ら
-w: 3.~ト ー ノ ツ | ト ー | メ ナ | ル ラ
-G12 z4 |
-w: 1.~ム
-w: 2.~む
-w: 3.~ム
-```
+<div class="abc-score" data-abc-src="meiji_tenno_gyosei.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](meiji_tenno_gyosei.abc)
 
 ## TMD 檔案連結
 

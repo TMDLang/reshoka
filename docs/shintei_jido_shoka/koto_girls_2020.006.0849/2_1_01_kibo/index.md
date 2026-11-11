@@ -64,22 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:希望
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! B4 B2 A2 | G6 E2 | D4 D4 | D6 G2 |
-B4 B2 A2 | G8 | A8 | B6 G2 |
-G2 A2 B2 c2 | d4 B4 | G6 G2 | G2 A2 B2 c2 |
-d4 B4 | D6 D2 | E2 F2 G2 A B | B6 G F |
-E2 F2 G2 A B | A6 F E | D4 G4 | B2 A4 G2 |
-B4 A4 | G8 |
-```
+<div class="abc-score" data-abc-src="kibo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kibo.abc)
 
 ## TMD 檔案連結
 

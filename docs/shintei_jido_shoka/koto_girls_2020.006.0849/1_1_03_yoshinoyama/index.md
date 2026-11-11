@@ -63,23 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:吉野山
-M:4/4
-L:1/16
-Q:1/4=92
-K:Dm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D8 D4 D4 | G6 A2 G4 F4 | D4 D4 C6 D2 | D12 z4 |
-F4 F4 D4 F4 | c8 A4 c4 | G4 G4 F6 G2 | A12 z4 |
-c8 d4 c4 | A4 A4 G4 F4 | G4 G4 F6 G2 | A12 z4 |
-D4 D4 C4 D4 | F8 G4 A4 | D4 D4 G6 A2 | G12 z4 |
-[M:2/4] D6 D2 | G6 A2 | c4 A4 | G4 F4 |
-D4 C4 | z4 D2 D2 | G6 A2 | G4 F4 |
-G4 A4 | c8 | D8 |
-```
+<div class="abc-score" data-abc-src="yoshinoyama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yoshinoyama.abc)
 
 ## TMD 檔案連結
 

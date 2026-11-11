@@ -68,28 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:來れ遊べ
-M:4/4
-L:1/16
-Q:1/4=120
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D3 D D3 E F3 F F4 | D3 E F3 G A3 B A4 | d3 d c3 B A3 B A4 | B3 B A3 A D8 |
-w: 1.~き _ た れ あ そ べ | わ れ ら が と も よ | の ど け き は る の | こ の の べ に
-w: 2.~き _ た れ あ そ べ | わ れ ら が と も よ | た の し き は る の | こ の の べ に
-d6 d2 c4 B4 | A4 B4 A8 | B6 B2 A2 G2 F2 E2 | D4 E4 F8 |
-w: 1.~し き つ め | た _ る | は _ な _ の _ | も _ ふ
-w: 2.~は _ な に | あ そ ぶ | も も ち _ の _ | は _ ち
-d6 d2 c4 B4 | A4 B4 A8 | B6 B2 A2 G2 F2 E2 | D4 F4 E8 |
-w: 1.~お り い だ | せ _ る | く _ さ _ の _ | も よ _
-w: 2.~は _ な に | く る ふ | つ が ひ _ の _ | こ て ふ
-!f! D3 F E3 E F3 G A4 | B3 B A3 A B6 A2 | d12 z4 |
-w: 1.~しょ く ぶ つ さ い しゅ | こ こ ろ の ま _ | ま
-w: 2.~ど _ ぶ つ さ い しゅ | お も ひ の ま _ | ま
-```
+<div class="abc-score" data-abc-src="kitare_asobe.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kitare_asobe.abc)
 
 ## TMD 檔案連結
 

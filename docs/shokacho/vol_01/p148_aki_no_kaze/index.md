@@ -69,20 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋の風
-M:2/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A6 F2 | D4 E4 | F2 E2 F2 G2 | A4 d4 |
-B4 d2 B2 | A6 G2 | F2 E2 F2 G2 | E8 |
-B6 B2 | A4 F4 | G4 E4 | F4 B4 |
-A2 G2 F2 E2 | D4 F4 | E6 A,2 | D8 |
-```
+<div class="abc-score" data-abc-src="aki_no_kaze.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](aki_no_kaze.abc)
 
 ## TMD 檔案連結
 

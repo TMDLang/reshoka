@@ -74,29 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:十五夜お月さん
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=98
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A4 B4 c4 e4 | B4 A2 A2 F8 | A4 B4 c4 A4 | B12 z4 |
-w: ジ ウ ゴ ヤ | オ ツ キ サン | ゴ キ ゲ ン | サン
-c4 e4 c4 c4 | B4 A4 F4 E4 | D4 E4 F4 D4 | E12 z4 |
-w: バ _ ヤ ハ | オ イ ト マ | ト リ マ シ | タ
-A4 B4 c4 e4 | B4 A2 A2 F8 | A4 B4 c4 A4 | B12 z4 |
-w: ジ ウ ゴ ヤ | オ ツ キ サン | イ モ ウ ト | ハ
-c4 e4 c4 c4 | B4 A4 F4 E4 | D4 E4 F4 D4 | E12 z4 |
-w: イ ナ カ ヘ | モ ラ レ テ | イ キ マ シ | タ
-A4 B4 c4 e4 | B4 A2 A2 F8 | A4 B4 c4 A4 | B12 z4 |
-w: ジ ウ ゴ ヤ | オ ツ キ サン | カ ア サ ン | ニ
-c4 e4 c4 c4 | B4 A4 F4 E4 | A4 B4 c4 B4 | A12 z4 |
-w: モ イ チ ド | ワ タ シ ハ | ア イ タ イ | ナ
-```
+<div class="abc-score" data-abc-src="jugoya_otsukisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](jugoya_otsukisan.abc)
 
 ## TMD 檔案連結
 

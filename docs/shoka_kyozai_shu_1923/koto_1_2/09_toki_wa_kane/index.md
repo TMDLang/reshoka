@@ -69,34 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:時は金
-M:4/4
-L:1/16
-Q:1/4=132
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 z2 D2 | G4 z2 D2 G4 z2 A2 | B4 z2 G2 A4 z2 B2 | d8 B4 G4 |
-w: 1.~ト | キ ト キ カ | ネ カ ネ ト | キ ハ カ
-w: 2.~と | き と き か | ね か ね と | き は か
-A12 z4 | B8 d4 d4 | e6 d2 B4 G4 | A4 d4 B6 A2 |
-w: 1.~ネ | カ ネ ハ | チ カ ラ デ | ウ ゴ イ テ
-w: 2.~ね | か ね は | ふ た た び | え ら れ て
-A12 z4 | B8 d4 d4 | e6 d2 B4 G4 | A4 d4 B6 A2 |
-w: 1.~モ | ト キ ハ | カ ツ テ ニ | ウ ツ セ ナ
-w: 2.~も | と き は | け つ し て | か へ ら な
-G12 z2 D2 | G4 z2 D2 G4 z2 A2 | B4 z2 G2 A4 z2 B2 | d8 B4 G4 |
-w: 1.~イ ト | キ ト キ カ | ネ カ ネ ト | キ ハ カ
-w: 2.~い と | き と き か | ね か ね と | き は か
-A12 z4 | B8 d4 d4 | e6 d2 B4 G4 | A4 d4 B6 A2 |
-w: 1.~ネ | ト キ ハ | カ ネ ヨ リ | オ モ タ イ
-w: 2.~ね | と き は | か ね よ り | た ふ と い
-G12 z4 |
-w: 1.~ゾ
-w: 2.~ぞ
-```
+<div class="abc-score" data-abc-src="toki_wa_kane.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](toki_wa_kane.abc)
 
 ## TMD 檔案連結
 

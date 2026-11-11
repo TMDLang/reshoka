@@ -77,28 +77,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:フジサン（富士山）
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A6 A2 B4 A4 | F4 D2 E2 F8 | E6 A2 A4 G2 F2 | E12 z4 |
-w: 1.~ア タ マ ヲ | ク モ ノ ウ | ニ ダ シ ー _ | イ
-w: 2.~ア ヲ ゾ ラ | タ カ ク ソ | エ タ チ ー _ | イ
-A6 A2 F4 D4 | B6 c2 d4 B4 | A6 B2 A2 G2 F2 E2 | D12 z4 |
-w: 1.~シ ハ ウ ノ | ヤ マ ヲ ミ | オ ロ シ _ テ _ | エ
-w: 2.~カ ラ ダ ニ | ユ キ ノ キ | モ ノ キ _ テ _ | エ
-E6 E2 E4 E4 | D2 E2 F2 G2 A8 | B6 c2 d4 B4 | A12 z4 |
-w: 1.~カ ミ ナ リ | サ マ ヲ ー シ | ニ キ ク ウ | ウ
-w: 2.~カ ス ミ ノ | ス ソ ヲ ー ト | ク ヒ ク ウ | ウ
-d8 B4 G4 | F6 F2 B4 A4 | G4 F4 E6 D2 | D12 z4 |
-w: 1.~フ ジ ハ | ニ ッ ポ ン | イ チ ノ ヤ | マ
-w: 2.~フ ジ ハ | ニ ッ ポ ン | イ チ ノ ヤ | マ
-```
+<div class="abc-score" data-abc-src="fujisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](fujisan.abc)
 
 ## TMD 檔案連結
 

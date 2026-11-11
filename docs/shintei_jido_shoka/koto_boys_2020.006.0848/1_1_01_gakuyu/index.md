@@ -58,21 +58,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:學友
-C:曲：Lewis（リユーイス）
-M:4/4
-L:1/16
-Q:1/4=92
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 C4 | E8 D2 C2 C4 | E6 F2 G4 C4 | D8 C4 D4 |
-!f! E8 z4 G4 | c8 B2 A2 G4 | !mf! F4 E4 D4 G4 | A8 F4 G4 |
-E8 D4 C4 | E8 D2 C2 C4 | E4 F3 G G4 C4 | D8 E4 D4 |
-C12 z4 |
-```
+<div class="abc-score" data-abc-src="gakuyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gakuyu.abc)
 
 ## TMD 檔案連結
 

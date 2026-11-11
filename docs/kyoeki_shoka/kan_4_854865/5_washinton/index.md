@@ -68,40 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ワシントン
-M:2/2
-L:1/16
-Q:1/2=52
-K:E
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-!f! B8 B8 | G6 G2 B4 B4 | c8 c8 | B12 z4 |
-w: てん は | ゆ る さ じ | りょう みん | の
-G6 G2 G4 G4 | B4 B4 G4 E4 | F8 F8 | B,12 z4 |
-w: じ ゆ _ を | な み す る | ぎゃく せい | を
-B,8 C4 D4 | E6 E2 E8 | F4 F4 G4 c4 | B6 B2 B8 |
-w: じゅう さ ん | しゅ _ の | ち は ほ と | ば し り
-E8 F4 G4 | c6 c2 c4 c4 | B6 B2 B4 B4 | E12 z4 |
-w: こ こ に | た ち た る | わ し ん と | ん
-B8 B8 | G6 G2 B8 | c6 c2 c4 c4 | B12 z4 |
-w: ろっ きい | お ろ し | ふ き あ れ | て
-G6 G2 G8 | B8 G4 E4 | F6 F2 F4 F4 | B,12 z4 |
-w: は ど そん | わん に _ | な み さ は | ぎ
-B,8 C4 D4 | E6 E2 E8 | F4 F4 G6 A2 | B6 B2 B8 |
-w: けん げ き | ひ び き | ぐ ん ば い | な な く
-e6 e2 B6 B2 | G6 G2 E8 | F6 F2 B6 B2 | E12 z4 |
-w: す は た た | か ひ の | と き の こ | ゑ
-B8 B6 B2 | G6 G2 B8 | c8 c6 c2 | B12 z4 |
-w: しょう り を | つ ぐ る | らっ ぱ の | ね
-G6 G2 G8 | B6 B2 G4 E4 | F6 F2 F4 F4 | B,12 z4 |
-w: く に の | ち ち ぞ と | あ ふ が れ | て
-B,6 B,2 C4 D4 | E6 E2 E8 | F8 G4 c4 | B6 B2 B8 |
-w: み し が ん | こ じょ _ | しゅう げ つ | た か く
-B6 B2 e6 e2 | B6 B2 G4 E4 | F6 F2 B6 B2 | E12 z4 |
-w: か が や く | き み が _ | そ の い さ | を
-```
+<div class="abc-score" data-abc-src="washinton.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](washinton.abc)
 
 ## TMD 檔案連結
 

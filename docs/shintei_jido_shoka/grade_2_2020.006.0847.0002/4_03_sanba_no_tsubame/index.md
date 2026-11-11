@@ -72,29 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:三バノツバメ（三隻燕子）
-C:曲：永井幸次
-M:4/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D4 G2 G2 A4 B4 | A8 d4 z4 | B4 d4 B4 G4 | A2 B2 A2 G2 D4 z4 |
-w: 1.~イ ツ ノ マ ニ | キ タ | サン バ ノ _ | ツ _ バ _ メ
-w: 2.~キヨ ネ ン ワ カ | レ タ | サン バ ノ _ | ツ _ バ _ メ
-w: 3.~コ ト シ モ _ | シヤ デ | サン バ ノ _ | ツ _ バ _ メ
-E2 E2 G4 D2 D2 E2 G2 | A2 A2 A2 B2 A4 z4 | B2 B2 d4 B2 d2 B2 A2 | G2 B2 A2 G2 D4 z4 |
-w: 1.~モ ト ノ フ ル ス ガ | コ ヒ シ イ カ | ノ キ ノ フ ル ス ガ | コ ヒ シ イ カ
-w: 2.~ト ホ イ ウ ミ ヤ マ | ナ ガ イ タ ビ | ベ ツ ニ ツ カ レ ハ | ナ カ ツ タ カ
-w: 3.~トウ サン _ カア サン _ _ | ソ ノ コ ド モ | ミ ン ナ タ ノ シ イ | オ モ シ ロ イ
-D2 D2 G2 G2 A4 B4 | A4 d4 G4 z4 |
-w: 1.~チ チ チ チ チ チ | チ チ チ
-w: 2.~チ チ チ チ チ チ | チ チ チ
-w: 3.~チ チ チ チ チ チ | チ チ チ
-```
+<div class="abc-score" data-abc-src="sanba_no_tsubame.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sanba_no_tsubame.abc)
 
 ## TMD 檔案連結
 

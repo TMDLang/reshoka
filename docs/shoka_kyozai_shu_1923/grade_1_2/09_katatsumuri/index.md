@@ -65,35 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:かたつむり
-C:曲：文部省《尋常小學唱歌》
-M:2/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A3 A A2 F2 | D3 D D2 E2 | F3 F E2 D2 | E4 z4 |
-w: 1.~で ん で ん | む し む し | か た つ む | り
-w: 2.~で ん で ん | む し む し | か た つ む | り
-F3 G A2 B2 | A3 A A2 F2 | E3 E D2 E2 | F4 z4 |
-w: 1.~お ま へ の | あ た ま は | ど こ に あ | る
-w: 2.~お ま へ の | め だ ま は | ど こ に あ | る
-A2 d2 d2 A2 | F2 A2 A2 F2 | D2 F2 F3 E | D4 z4 |
-w: 1.~つ の だ せ | や り だ せ | あ た ま だ | せ
-w: 2.~つ の だ せ | や り だ せ | め だ ま だ | せ
-A3 A A2 F2 | D3 D D2 E2 | F3 F E2 D2 | E4 z4 |
-w: 1.~で ん で ん | む し む し | か た つ む | り
-w: 2.~で ん で ん | む し む し | か た つ む | り
-F3 G A2 B2 | A3 A A2 F2 | E3 E D2 E2 | F4 z4 |
-w: 1.~お ま へ の | あ た ま は | ど こ に あ | る
-w: 2.~お ま へ の | め だ ま は | ど こ に あ | る
-A2 d2 d2 A2 | F2 A2 A2 F2 | D2 F2 F3 E | D4 z4 |
-w: 1.~つ の だ せ | や り だ せ | あ た ま だ | せ
-w: 2.~つ の だ せ | や り だ せ | め だ ま だ | せ
-```
+<div class="abc-score" data-abc-src="katatsumuri.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](katatsumuri.abc)
 
 ## TMD 檔案連結
 

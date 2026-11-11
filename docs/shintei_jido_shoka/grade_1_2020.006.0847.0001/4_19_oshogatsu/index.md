@@ -65,26 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:オシヤウグワツ（新年）
-C:曲：瀧廉太郎
-M:4/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F8 G4 F2 G2 | A4 c4 A8 | G4 G4 F4 G4 | A12 z4 |
-w: 1.~モウ イ ク ツ | ネ ル ト | オ シャ ウ グヮ | ツ
-w: 2.~モウ イ ク ツ | ネ ル ト | オ シャ ウ グヮ | ツ
-F2 F2 D2 D2 C2 C2 C2 F2 | F2 F2 G2 G2 A4 z4 | A2 A2 G2 G2 F2 F2 F2 F2 | G2 G2 A2 A2 c4 z4 |
-w: 1.~オ シャ ウ グヮ ツ ニ ハ _ | タ コ ア ゲ テ | コ マ ヲ _ マ ハ シ テ | ア ソ ビ マ セウ
-w: 2.~オ シャ ウ グヮ ツ ニ ハ _ | マ リ ツ イ テ | オ ヒ バ ネ ツ イ テ _ | ア ソ ビ マ セウ
-F8 G4 F2 G2 | A4 c4 A4 A4 | G4 G4 A4 G4 | F12 z4 |
-w: 1.~ハ ヤ ク _ | コ イ コ イ | オ シャ ウ グヮ | ツ
-w: 2.~ハ ヤ ク _ | コ イ コ イ | オ シャ ウ グヮ | ツ
-```
+<div class="abc-score" data-abc-src="oshogatsu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oshogatsu.abc)
 
 ## TMD 檔案連結
 

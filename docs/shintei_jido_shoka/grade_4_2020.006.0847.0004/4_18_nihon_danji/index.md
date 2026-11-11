@@ -65,29 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:日本男兒
-C:曲：小山作之助／詞：東宮鐵眞呂
-M:4/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! C4 F3 F F4 G4 | A4 G3 F c8 | A4 c3 c G4 A3 A | F4 G4 C8 |
-w: ワ ガ キ ミ ノ | タ メ ニ ハ | ミ ヲ モ ス テ テ | ツ ト メ
-C4 F3 F F4 G4 | A4 G3 F c8 | A4 c3 c G4 A3 A | F4 G4 A8 |
-w: ワ ガ ク ニ ノ | タ メ ニ ハ | イ ヘ モ ス テ テ | ハ ゲ ミ
-c8 A4 G4/3 A4/3 G4/3 | F4 G3 G C8 | C4 F3 G F4 G3 A | G4 c4 A8 |
-w: ア メ ア ラ レ | フ リ ク ル | タ マ ノ ナ カ ヲ | オ カ シ
-c4 c3 c A4 G4 | F4 G3 G C8 | C4 F3 G F4 G3 A | G4 C4 F8 |
-w: イ ナ ヅ マ ノ | キ ラ メ ク | タ チ ノ モ ト モ | オ ヂ ズ
-!f! F3 A c4 F3 A c4 | d6 d2 c8 | c3 c c4 A3 A A4 | G4 c4 A8 |
-w: マ ス ラ タ ケ ヲ | コ レ ゾ | コ レ ゾ マ ス ラ | タ ケ ヲ
-F3 A c4 F3 A c4 | d6 d2 c8 | c3 c c4 A3 A A4 | G4 C4 F8 |
-w: ニ ツ ポン ダ ン ジ | コ レ ゾ | コ レ ゾ ニ ツ ポン | ダ ン ジ
-```
+<div class="abc-score" data-abc-src="nihon_danji.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nihon_danji.abc)
 
 ## TMD 檔案連結
 

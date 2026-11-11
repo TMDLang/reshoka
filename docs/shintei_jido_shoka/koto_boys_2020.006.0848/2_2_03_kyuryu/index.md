@@ -67,25 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:急流
-C:曲：獨國風歌
-M:2/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z2 d2 | B2 B2 B2 B2 | d2 B2 z2 d2 | A3 B c2 A2 |
-B4 z2 B2 | B2 B2 B2 B2 | G2 B2 d2 B2 | A3 B A2 G2 |
-F2 E2 F2 G2 | D2 d4 c2 | D2 d4 c2 | B2 A2 B2 c2 |
-d4 z2 d2 | d2 c2 B2 d2 | e2 d2 c2 B2 | A2 G2 A2 B2 |
-G2 z2 G2 z2 | [K:C] !f! E,2 E,2 F, E, F, G, | A,8 | z4 G,2 G,2 |
-C6 B,2 | A,2 G,2 F,2 E,2 | D,8 | z2 G,2 G,2 G,2 |
-C4 G,4 | D4 G,4 | E8 | z2 G,2 G,2 G,2 |
-A,4 D4 | C4 B,4 | C8 | C4 z4 |
-```
+<div class="abc-score" data-abc-src="kyuryu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kyuryu.abc)
 
 ## TMD 檔案連結
 

@@ -62,28 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:學校記念日
-M:4/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D6 D2 E4 D4 | G8 A4 B4 | d6 d2 B4 G4 | A12 z4 |
-w: 1.~ミ ヲ ム ス | ブ ベ キ | ナ デ シ コ | ノ
-w: 2.~わ が な つ | か し き | ま な び や | の
-d6 d2 e4 d4 | B6 B2 A4 G4 | A6 A2 B4 A4 | G12 z4 |
-w: 1.~イ ロ サ マ | ザ _ マ ニ | ハ ナ サ キ | テ
-w: 2.~ち _ よ の | さ か え を | い の り つ | つ
-E6 E2 G4 E4 | D6 D2 G4 B4 | A6 A2 G4 A4 | B12 z4 |
-w: 1.~ヲ シ ヘ ノ | ニ _ ハ ハ | ニ ギ ハ ヒ | ヌ
-w: 2.~い _ ざ や | い は は ん | も ろ と も | に
-d6 d2 e4 d4 | B6 B2 A4 G4 | D4 G4 B6 A2 | G12 z4 |
-w: 1.~ツ チ カ フ | ネ ザ シ モ | イ ヤ フ カ | ク
-w: 2.~ひ _ ら け | そ め に し | け ふ の ひ | を
-```
+<div class="abc-score" data-abc-src="gakko_kinenbi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gakko_kinenbi.abc)
 
 ## TMD 檔案連結
 

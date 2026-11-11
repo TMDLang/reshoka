@@ -52,19 +52,9 @@ Tempo / Expression: 軽快ニ
 
 ## ABC
 
-```abc
-X:1
-T:サトウ 砂糖
-C:曲：永井幸次
-M:2/4
-L:1/16
-Q:1/4=108
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-F3 A A2 A2 | F2 A2 A4 | B3 B G2 B2 | A4 z4 |
-F3 F F2 F2 | A3 F E2 D2 | E3 F F2 E2 | D4 z4 |
-```
+<div class="abc-score" data-abc-src="satou.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](satou.abc)
 
 ## TMD 檔案連結
 

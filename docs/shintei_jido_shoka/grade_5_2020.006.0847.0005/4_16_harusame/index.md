@@ -59,28 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:春雨
-M:4/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G4 G2 A2 B4 G4 | A4 B4 A8 | D4 E4 G4 A4 | B12 z4 |
-w: 1.~ノ ド _ カ ニ | ソ ソ グ | ハ ル サ メ | ハ
-w: 2.~わ れ _ ら も | お な じ | ち ち は は | の
-G4 G2 A2 B4 G4 | A4 G4 E8 | D4 E4 G4 F4 | G12 z4 |
-w: 1.~ク サ _ キ ノ | ハ ナ ノ | チ チ ハ ハ | ゾ
-w: 2.~め ぐ _ み の | つ ゆ に | う る ほ ひ | て
-B4 B2 d2 e4 e4 | d4 e4 B8 | A4 A2 B2 d4 e4 | d12 z4 |
-w: 1.~チ チ _ ハ ハ | ト モ ニ | カ ギ _ リ ナ | キ
-w: 2.~ま な _ び の | ま ど に | ま な _ び え | て
-A4 A2 B2 d4 B4 | A4 G4 E8 | D4 G4 B4 A4 | G12 z4 |
-w: 1.~メ グ _ ミ ヲ | フ カ ク | カ ケ ヌ ラ | ン
-w: 2.~は な _ さ き | み の る | み と な ら | ん
-```
+<div class="abc-score" data-abc-src="harusame.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](harusame.abc)
 
 ## TMD 檔案連結
 

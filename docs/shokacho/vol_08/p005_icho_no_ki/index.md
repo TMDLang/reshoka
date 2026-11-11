@@ -62,21 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:銀杏の樹（銀杏樹）
-M:6/8
-L:1/16
-Q:3/8=40
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z2 z2 z2 z2 z2 E2 | G2 z2 A2 G2 z2 c2 | A2 z2 E2 G6 | C2 D2 E2 A6 |
-G6 G4 E2 | G2 z2 A2 G2 z2 c2 | A2 z2 E2 G6 | E2 A2 G2 C2 D4 |
-E6 E4 z2 | !mf! c2 e2 d2 c2 A4 | E2 G2 A2 G6 | C2 D2 E2 G4 G2 |
-E6 E4 z2 | !mp! C2 D2 E2 G4 E2 | G2 A4 c6 | G2 A,2 G2 G6 |
-C6 C4 z2 |
-```
+<div class="abc-score" data-abc-src="icho_no_ki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](icho_no_ki.abc)
 
 ## TMD 檔案連結
 

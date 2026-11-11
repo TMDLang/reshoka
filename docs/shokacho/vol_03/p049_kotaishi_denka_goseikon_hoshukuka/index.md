@@ -48,22 +48,9 @@ Annotations: ニ調 4/4, ♩= 100, 大正十三年正月 文部省
 
 ## ABC
 
-```abc
-X:1
-T:皇太子殿下御成婚奉祝歌
-C:曲：文部省 (大正十三年正月)
-M:4/4
-L:1/16
-Q:1/4=100
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! D6 D2 E4 F4 | G6 G2 F4 E4 | F6 F2 G4 A4 | B4 B4 A4 z4 |
-B6 B2 B4 c4 | d6 d2 c4 B4 | A6 E2 E4 G4 | F4 D4 E4 z4 |
-F6 F2 E4 D4 | A6 A2 A4 A4 | B6 c2 d4 B4 | A4 F4 A4 z4 |
-!f! d6 d2 c4 B4 | A6 A2 F4 A4 | B6 B2 A4 F4 | E4 E4 D4 z4 |
-!f! A6 A2 d8 | B6 B2 A8 | B8 A4 D4 | F6 E2 D4 z4 |
-```
+<div class="abc-score" data-abc-src="kotaishi_denka_goseikon_hoshukuka.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kotaishi_denka_goseikon_hoshukuka.abc)
 
 ## TMD 檔案連結
 

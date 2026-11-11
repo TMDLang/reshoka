@@ -66,24 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋夜懷友
-C:曲：Wrighton（美國曲）
-M:3/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z4 z4 D2 D2 | B6 c B A2 G2 | D8 G2 A2 | B6 B2 B2 c2 |
-A8 D2 D2 | B6 c B A2 G2 | E8 E2 F2 | G6 E2 G2 A2 |
-!mf! G8 B2 c2 | d6 B2 d2 c2 | B8 G2 G2 | A6 A2 F2 G2 |
-A8 B2 c2 | d6 B2 e2 d2 | c8 A2 A2 | B6 B2 A2 ^G2 |
-A8 d2 c2 | B6 c B A2 G2 | D8 G2 A2 | B6 B2 B2 c2 |
-A8 B2 c2 | d6 c2 B2 A2 | e8 G2 A2 | B6 D2 B2 A2 |
-G8 z4 |
-```
+<div class="abc-score" data-abc-src="shuya_kaiyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shuya_kaiyu.abc)
 
 ## TMD 檔案連結
 

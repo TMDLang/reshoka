@@ -53,21 +53,9 @@ Marginalia: 302頁. 2.1.29. (昭和2年1月29日)
 
 ## ABC
 
-```abc
-X:1
-T:燕 燕子
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z10 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 C2 D2 C4 | F3 F F2 z2 F2 _E2 G4 |
-F8 z8 | C16 | C2 C2 D2 C2 D2 _E6 | F4 G4 A2 z2 A4 |
-A3 G d2 c2 B2 A6 | B4 G4 c8 | C16 | C2 C2 D2 C2 D2 _E6 |
-F4 G4 A2 z2 A4 | A3 G F2 _E2 F2 G6 | F8 z8 | A2 G2 F12 |
-C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 | G3 G G2 z2 C2 _E2 G4 | F8 z8 |
-```
+<div class="abc-score" data-abc-src="tsubame.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsubame.abc)
 
 ## TMD 檔案連結
 

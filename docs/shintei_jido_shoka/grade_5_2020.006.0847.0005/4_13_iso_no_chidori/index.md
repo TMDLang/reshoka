@@ -59,28 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:磯の千鳥
-M:6/8
-L:1/16
-Q:3/8=64
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F2 F2 E2 D4 D2 | E4 B2 A6 | F4 F2 E2 F2 A2 | D6 D4 z2 |
-w: 1.~イ ソ ガ カ レ | タ _ ト | ナ ク チ _ ド | リ _
-w: 2.~い そ が か れ | た _ と | な く ち _ ど | り _
-E2 E2 F2 E4 D2 | B,4 D2 E6 | F4 F2 A2 F2 E2 | D6 D4 z2 |
-w: 1.~ス ナ ノ カ ズ | ホ _ ド | ウ ツ ナ _ ミ | ハ _
-w: 2.~ど ん ど ど ん | ど _ と | う つ な _ み | は _
-B2 B2 A2 B4 B2 | A4 B2 A6 | F4 F2 E4 F2 | A6 A4 z2 |
-w: 1.~キ ノ フ イ チ | ニ _ チ | ケ フ フ ツ | カ _
-w: 2.~お や の ち ど | り _ も | こ ち ど り | も _
-B2 B2 A2 F4 A2 | E4 A2 B6 | F3 F E2 F2 E2 B,2 | D6 D4 z2 |
-w: 1.~イ ソ ガ カ レ | タ _ ト | イッ _ テ ナ _ _ | ク _
-w: 2.~い そ が か れ | た _ と | いっ _ て な _ _ | く _
-```
+<div class="abc-score" data-abc-src="iso_no_chidori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](iso_no_chidori.abc)
 
 ## TMD 檔案連結
 

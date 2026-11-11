@@ -47,22 +47,9 @@ Notation: Handwritten 5-line staff (3 flats = Eb major, 2/4 time, 19 bars)
 
 ## ABC
 
-```abc
-X:1
-T:亡友
-C:曲：不詳
-M:2/4
-L:1/16
-Q:1/4=76
-K:Eb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mp! E4 F2 G2 | B4 c4 | B4 e4 | c2 B2 c2 B2 |
-c4 c2 c2 | B4 e4 | B2 G2 F2 G2 | E6 z2 |
-z2 c2 c2 c2 | B4 G4 | B4 c4 | B2 G2 F2 z2 |
-E6 F2 | G2 B2 c2 B2 | G4 F2 z2 | B4 c2 B2 |
-G4 B4 | F2 E2 F4 | E8 |
-```
+<div class="abc-score" data-abc-src="boyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](boyu.abc)
 
 ## TMD 檔案連結
 

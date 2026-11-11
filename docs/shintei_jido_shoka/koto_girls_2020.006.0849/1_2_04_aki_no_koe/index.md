@@ -58,20 +58,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋の聲
-M:6/8
-L:1/16
-Q:3/8=67
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! E2 G2 B2 B4 B2 | c6 B6 | A2 G2 A2 B4 c2 | B10 z2 |
-E2 G2 B2 B4 E2 | F6 B,6 | E2 F2 G2 A4 G2 | F10 z2 |
-!f! B2 A2 B2 c4 B2 | e6 d4 B2 | A2 G2 A2 B4 e2 | B10 z2 |
-!mf! E2 F2 G2 A4 B2 | c6 B4 E2 | B2 A2 G2 F4 G2 | E10 z2 |
-```
+<div class="abc-score" data-abc-src="aki_no_koe.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](aki_no_koe.abc)
 
 ## TMD 檔案連結
 

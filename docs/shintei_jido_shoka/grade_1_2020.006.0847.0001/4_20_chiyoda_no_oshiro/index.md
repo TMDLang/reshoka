@@ -64,29 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:チヨダノオシロ（千代田城）
-C:曲：藤井清水
-M:2/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c2 d2 c2 A2 | G2 F2 D2 F2 | G3 G F4 | G4 z4 |
-w: チ ヨ ダ ノ | オ シ ロ ノ | ハ ト ポツ | ポ
-!mp! G3 G F2 F2 | G4 d2 d2 | c4 c2 B2 | c8 |
-w: ハ ト ポツ ポ | ポツ ポ ト | ナイ テ タ | ヨ
-c4 z4 | !mf! c2 d2 c2 A2 | G2 F2 D2 F2 | G2 G2 F2 F2 |
-w: _ | チ ヨ ダ ノ | ゴ モ ン ノ | シ ロ イ カ
-G4 z2 z2 | !mf! c2 d2 c2 A2 | G2 F2 D2 F2 | G2 G2 F2 F2 |
-w: ベ | チ ヨ ダ ノ | オ ホ リ ノ | ア ヲ イ ミ
-G4 z2 z2 | !mp! G3 G F2 F2 | G4 d2 d2 | c4 c2 B2 |
-w: ヅ | ハ ト ポツ ポ | ポツ ポ ト | ナイ テ タ
-c8- | c4 z4 |
-w: ヨ | _
-```
+<div class="abc-score" data-abc-src="chiyoda_no_oshiro.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](chiyoda_no_oshiro.abc)
 
 ## TMD 檔案連結
 

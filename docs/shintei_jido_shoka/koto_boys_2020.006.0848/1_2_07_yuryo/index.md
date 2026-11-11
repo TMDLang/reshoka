@@ -58,21 +58,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:遊獵
-M:6/8
-L:1/16
-Q:3/8=40
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z2 z2 z2 z2 z2 D2 | G4 G2 A3 G F2 | E4 C2 D4 G2 | B4 B2 c4 B2 |
-A10 D2 | A4 A2 B4 c2 | d4 B2 G4 B2 | d4 d2 e3 d c2 |
-B6 A4 D2 | G4 G2 A4 A2 | B4 G2 E4 A2 | B4 B2 c3 B A2 |
-d6 c4 B2 | B4 B2 c3 B A2 | G4 D2 E4 G2 | B4 d2 A4 F2 |
-G6 G4 z2 |
-```
+<div class="abc-score" data-abc-src="yuryo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yuryo.abc)
 
 ## TMD 檔案連結
 

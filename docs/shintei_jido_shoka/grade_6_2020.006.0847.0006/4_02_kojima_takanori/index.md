@@ -67,40 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:兒島高徳
-M:4/4
-L:1/16
-Q:1/4=80
-K:Cm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! G6 G2 E4 F4 | G6 G2 G8 | c6 c2 B4 A4 | G12 z4 |
-w: ふ な さ か | や ま や | す ぎ さ か | と
-G8 c4 c4 | e6 e2 d4 d4 | c6 c2 =B4 B4 | c12 z4 |
-w: み あ と | し た ひ て | ゐ ん の しや | う
-!p! c6 c2 G4 G4 | A8 G4 E4 | C6 C2 D4 E4 | D12 z4 |
-w: び ちゆ う を | い か で | き こ え ん | と
-C6 C2 D4 E4 | A6 A2 G8 | F6 F2 G4 G4 | C12 z4 |
-w: さ く ら の | み き に | じ ふ じ の | し
-!mf! G6 G2 c4 c4 | d6 d2 d4 z2 G2 | e6 d2 c4 A2 c2 | G6 G2 E8 |
-w: て ん こ う | せ ん を む | な し う す る | な か れ
-C8 D8 | A6 A2 G4 G4 | c2 A4 G2 E4 C4 | D6 D2 C8 |
-w: と き | は ん れ い | な き に し も | あ ら ず
-!mf! G6 G2 E4 F4 | G6 G2 G8 | c6 c2 B4 A4 | G12 z4 |
-w: み こ こ ろ | な ら ぬ | い で ま し | の
-G8 c4 c4 | e6 e2 d4 d4 | c6 c2 =B4 B4 | c12 z4 |
-w: み そ で | つ ゆ け き | あ さ と で | に
-!p! c6 c2 G4 G4 | A8 G4 E4 | C6 C2 D4 E4 | D12 z4 |
-w: ず ん じ て | ゑ ま す | か し こ さ | よ
-C6 C2 D4 E4 | A6 A2 G8 | F6 F2 G4 G4 | C12 z4 |
-w: さ く ら の | み き の | じ ふ じ の | し
-!mf! G6 G2 c4 c4 | d6 d2 d4 z2 G2 | e6 d2 c4 A2 c2 | G6 G2 E8 |
-w: て ん こ う | せ ん を む | な し う す る | な か れ
-C8 D8 | A6 A2 G4 G4 | c2 A4 G2 E4 C4 | D6 D2 C8 |
-w: と き | は ん れ い | な き に し も | あ ら ず
-```
+<div class="abc-score" data-abc-src="kojima_takanori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kojima_takanori.abc)
 
 ## TMD 檔案連結
 

@@ -76,28 +76,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:胡蝶
-M:6/8
-L:1/16
-Q:3/8=80
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d4 G2 B6 |
-w: 1.~ハ _ ル ヒ カ ゲ | ウ _ ラ ウ ラ ト | ノ ド ケ キ | ヒ ヨ リ
-w: 2.~は _ な が た み | て _ に も ち て | つ れ だ つ | わ ら は
-D E D2 B2 G4 D2 | D E D2 B2 G4 G2 | A4 D2 A4 d2 | d2 A2 B2 G6 |
-w: 1.~ナ _ ノ ハ ナ ノ | イ _ ロ ハ エ テ | サ キ タ ル | ア _ タ リ
-w: 2.~か _ に にほ ふ _ | つ _ ぼ す み れ | つ み を る | と _ こ ろ
-!f! G G G2 e2 d4 B2 | !p! A2 D2 D2 d4 B2 | !f! G G G2 e2 d4 B2 | !mf! A2 D2 d2 G6 |
-w: 1.~ア レ ヨ コ テフ _ | ヒ _ ラ ヒ ラ | ア レ ヨ コ テフ _ | ト _ ブ ヨ
-w: 2.~あ れ よ こ てふ _ | ひ _ ら ひ ら | あ れ よ こ てふ _ | と _ ぶ よ
-!p! A2 D2 d2 B4 B2 | A2 D2 d2 B4 B2 | !p! A2 D2 d2 G6- | [Q:3/8=67] G12 |
-w: 1.~ヒ _ ラ ヒ ラ | ヒ _ ラ ヒ ラ | ト _ ブ ヨ | _
-w: 2.~ひ _ ら ひ ら | ひ _ ら ひ ら | と _ ぶ よ | _
-```
+<div class="abc-score" data-abc-src="kocho.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kocho.abc)
 
 ## TMD 檔案連結
 

@@ -59,23 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:豐太閤
-C:曲：ドニツェッチイ（伊）（Gaetano Donizetti）
-M:4/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! C3 F A3 F c8 | d3 B G3 c A8 | G3 A B3 E, F4 A4 | A8 G8 |
-C3 F A3 F c8 | d3 B G3 c A8 | G4 ^F3 G d3 c E,4 | G8 F8 |
-!mf! G3 G c3 G B4 A4 | G6 F2 E,3 F G4 | !f! A3 A d3 c B3 A G4 | F6 A2 C8 |
-!mf! G3 G c3 G B4 A4 | G6 F2 E,3 F G4 | !f! A3 d c3 B A3 G F4 | G8 c8 |
-C3 F A3 F c8 | d3 B G3 c A8 | G3 A B3 E, F4 A4 | A8 G8 |
-!ff! C3 F A3 F c4 f4 | !mf! e3 d c3 B A4 d3 c | B4 A3 F G3 A G4 | F8 F8 |
-```
+<div class="abc-score" data-abc-src="ho_taiko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ho_taiko.abc)
 
 ## TMD 檔案連結
 

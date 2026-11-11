@@ -65,29 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:僕等は少年だ
-C:曲：原田比古士良
-M:2/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 c2 c2 | G2 G2 G2 G2 | A2 A2 G2 G2 | G4 z4 |
-w: 1.~ウ レ シ イ | ウ レ シ イ | ウ レ シ イ | ナ
-w: 2.~う れ し い | う れ し い | う れ し い | な
-[M:4/4] E6 D2 C4 C4 | D6 E2 G4 G4 | c6 c2 d4 c4 | c12 z4 |
-w: 1.~ボ ク ラ ハ | イ マ コ ソ | セ ウ ネ ン | ダ
-w: 2.~ぼ く ら は | い ま こ そ | せ う ね ん | だ
-d2 d2 d2 d2 c2 c2 c2 c2 | G2 G2 G2 G2 A2 A2 G2 G2 | C6 D2 E4 z4 | G4 A2 A2 G2 G2 G2 G2 |
-w: 1.~ベ ン キャ ウ シ ダ イ デ | ベ ン キャ ウ シ ダ イ デ | ド ン ナ | エ ラ イ ヒ ト ニ モ
-w: 2.~か ら だ _ し だ い で | か ら だ _ し だ い で | ど ん な | え ら い こ と で も
-c4 d4 c4 B4 | c12 z4 |
-w: 1.~ナ レ ル ノ | ダ
-w: 2.~な せ る の | だ
-```
+<div class="abc-score" data-abc-src="bokura_wa_shonen_da.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](bokura_wa_shonen_da.abc)
 
 ## TMD 檔案連結
 

@@ -68,21 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:軍艦旗
-C:曲：Henry Clay Work（ウオーク）
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B3 c B2 G2 E3 F G2 E2 | D2 G2 G2 A2 B8 | D3 E F2 G2 A2 A2 G2 A2 | B3 c B2 A2 d8 |
-!mf! B3 c B2 G2 E3 F G2 E2 | D2 G2 G2 A2 B8 | A3 B c4 B3 G A4 | G8 G4 z4 |
-G4 B4 d4 d3 B | c2 e2 d2 c2 B8 | G4 B4 d4 d3 B | A2 B2 c2 B2 A8 |
-!mf! B3 c B2 G2 E3 F G2 E2 | D2 G2 G2 A2 B8 | A3 B c4 B3 G A4 | G8 G4 z4 |
-```
+<div class="abc-score" data-abc-src="gunkanki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gunkanki.abc)
 
 ## TMD 檔案連結
 

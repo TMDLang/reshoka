@@ -59,20 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:夜の貝（夜之貝）
-M:4/4
-L:1/16
-Q:1/4=84
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! f8 g4 f4 | d4 d2 c2 B4 c4 | d4 f2 g2 f4 d2 f2 | g4 b2 f2 g4 z4 |
-b8 g4 f4 | b4 b4 g4 f4 | b4 b2 c'2 d'4 b4 | c'6 d'2 c'4 z4 |
-d'6 d'2 d'4 c'4 | b6 b2 g4 g4 | b6 b2 f4 d2 f2 | g8 b4 z4 |
-g8 b4 g4 | z2 f2 g2 f2 d4 c2 B2 | c2 B2 c2 d2 f6 c2 | B12 z4 |
-```
+<div class="abc-score" data-abc-src="yoru_no_kai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yoru_no_kai.abc)
 
 ## TMD 檔案連結
 

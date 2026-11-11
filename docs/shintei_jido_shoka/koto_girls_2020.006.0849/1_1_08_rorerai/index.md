@@ -67,22 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ローレライ
-C:曲：Friedrich Silcher（大正女學唱歌）
-M:6/8
-L:1/16
-Q:3/8=40
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 z2 z2 z2 z2 G,2 | E3 F E2 G3 F E2 | D4 C2 A,4 A,2 | G,4 G,2 A,2 G,2 A,2 |
-D10 G,2 | E3 F E2 G3 F E2 | D4 C2 A,4 A,2 | G,4 C2 D3 E D2 |
-C10 C2 | D4 D2 B,3 B, D2 | G4 F2 E4 E2 | B,4 B,2 D3 C A,2 |
-G,10 G,2 | E3 F E2 G3 F E2 | A4 A2 G4 E2 | G4 F2 D3 E D2 |
-C10 z2 |
-```
+<div class="abc-score" data-abc-src="rorerai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](rorerai.abc)
 
 ## TMD 檔案連結
 

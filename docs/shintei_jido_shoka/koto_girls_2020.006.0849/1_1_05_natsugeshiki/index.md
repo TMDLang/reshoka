@@ -58,20 +58,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:夏げしき
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! A,4 A,4 B,2 A,2 B,4 | D8 B,8 | A,4 B,4 D2 E2 D4 | B,12 z4 |
-A,4 A,4 B,2 A,2 B,4 | D8 B,8 | E4 E4 F2 A2 F4 | E12 z4 |
-F4 F4 A2 B2 A4 | F4 E4 D4 z4 | E4 E4 D2 E2 F4 | B,12 z4 |
-D4 D4 E2 D2 B,2 A,2 | D4 E4 F8 | E4 E4 F2 E2 D2 B,2 | A,12 z4 |
-```
+<div class="abc-score" data-abc-src="natsugeshiki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](natsugeshiki.abc)
 
 ## TMD 檔案連結
 

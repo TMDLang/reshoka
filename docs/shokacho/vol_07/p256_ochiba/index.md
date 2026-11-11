@@ -47,20 +47,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:落葉 落葉
-M:3/4
-L:1/16
-Q:1/4=88
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! d2 d2 d4 B4 | B6 A2 G2 z2 | c2 d2 e4 e4 | e4 e4 d2 z2 |
-d2 d2 d4 B4 | B4 A4 G2 z2 | !mp! D2 G2 B4 B4 | B4 A4 G2 z2 |
-d2 e2 d4 g4 | A4 B2 A2 d4 | !f! e2 d2 c4 c4 | d8 z4 |
-!p! B2 A2 G4 d4 | !pp! B2 A2 G4 d4 | B2 A2 G4 ^F4 | G8 z4 |
-```
+<div class="abc-score" data-abc-src="ochiba.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ochiba.abc)
 
 ## TMD 檔案連結
 

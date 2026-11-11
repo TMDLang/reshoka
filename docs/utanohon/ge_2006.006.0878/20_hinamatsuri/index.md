@@ -73,28 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ひな祭（女兒節／雛祭）
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F4 C3 C | A3 A G2 F2 | G3 G A2 F2 | G4 z4 |
-w: 1.~あ か い | ま う せ ん | し き つ め | て
-w: 2.~ご に ん | ば や し や | くゎ ん ぢょ た | ち
-w: 3.~あ ら れ | ひ し も ち | お し ろ ざ | け
-A3 c c2 d2 | c4 A2 G2 | G3 A G2 F2 | D4 z4 |
-w: 1.~お だ い り | さ ま は | う へ の だ | ん
-w: 2.~そ ろ っ て | な ら ぶ | し た の だ | ん
-w: 3.~ぼ ん ぼ り | か ざ る | お も し ろ | さ
-C4 F2 D2 | C3 C F2 G2 | A2 c2 A2 G2 | F4 z4 |
-w: 1.~き ん の | びゃ う ぶ に | ぎ ん の だ | い
-w: 2.~ど れ も | き れ い な | お ひ な さ | ま
-w: 3.~け ふ は | さ ん グヮ ツ | ひ な ま つ | り
-```
+<div class="abc-score" data-abc-src="hinamatsuri.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hinamatsuri.abc)
 
 ## TMD 檔案連結
 

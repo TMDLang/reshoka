@@ -64,22 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:繪本（圖畫書）
-C:曲：原田氏
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! G6 G2 G4 G4 | A4 A4 G4 z4 | C2 C2 C2 C2 C4 D4 | E12 z4 |
-G6 G2 G4 G4 | A4 A4 G4 z4 | c2 c2 G2 G2 E2 E2 D2 D2 | C12 z4 |
-D4 D2 E2 G4 z4 | A4 A4 G4 z4 | c2 c2 c2 c2 d2 d2 A2 A2 | G12 z4 |
-E4 E2 D2 C4 z4 | D4 D2 E2 G4 z4 | c4 c4 G4 G4 | E4 D4 C4 z4 |
-c6 c2 c4 c4 | c4 c4 c4 z4 | E6 E2 G4 G4 | c4 d4 c4 z4 |
-```
+<div class="abc-score" data-abc-src="ehon.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ehon.abc)
 
 ## TMD 檔案連結
 

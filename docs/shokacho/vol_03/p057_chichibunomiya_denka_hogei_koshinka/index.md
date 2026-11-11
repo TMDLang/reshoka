@@ -51,22 +51,9 @@ Annotations: (♭ロ調ニテモ可), (大正十四年五月), 松井實氏作�
 
 ## ABC
 
-```abc
-X:1
-T:秩父宮殿下奉迎行進歌
-C:曲：不詳 (大正十四年五月)
-M:2/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! F3 G A2 F2 | c4 A4 | G2 F2 G2 A2 | F4 z4 |
-d2 d2 c2 A2 | c4 f4 | d2 c2 A2 c2 | G4 z4 |
-G3 A G2 F2 | D2 F2 G2 A2 | c2 d2 c2 A2 | f4 z4 |
-d3 f c2 A2 | G4 c4 | A2 G2 A2 G2 | F4 z4 |
-!f! F4 z2 C2 | F4 z2 A2 | c4 c4 | f8 |
-```
+<div class="abc-score" data-abc-src="chichibunomiya_denka_hogei_koshinka.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](chichibunomiya_denka_hogei_koshinka.abc)
 
 ## TMD 檔案連結
 

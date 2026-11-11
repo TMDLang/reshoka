@@ -65,23 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:歸帆
-C:曲：Berg（德國曲）
-M:3/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! G4 B6 D2 | G8 z4 | !mp! G4 c6 e2 | d8 z4 |
-!mp! d4 B6 G2 | A8 z4 | d4 B6 G2 | F8 =F4 |
-E4 A6 G2 | F6 D4 G2 | A4 G6 c2 | B8 z4 |
-!f! d4 B4 e4 | d4 G4 z4 | !mp! D4 G6 A2 | F8 =F4 |
-E4 A6 G2 | F6 D4 G2 | A4 G6 c2 | B8 z4 |
-!f! d4 B4 e4 | d4 G4 z4 | !p! D4 G6 F2 | G8 z4 |
-```
+<div class="abc-score" data-abc-src="kihan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kihan.abc)
 
 ## TMD 檔案連結
 

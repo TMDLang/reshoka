@@ -58,28 +58,9 @@ Key: D major (?= D), 4/4 (<4/4>), 少シ早ク Quarter = 108 (!= 108)
 
 ## ABC
 
-```abc
-X:1
-T:始業式
-M:4/4
-L:1/16
-Q:1/4=108
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A6 A2 F4 D4 | E6 E2 D4 E4 | A6 A2 B4 A4 | F8 z8 |
-w: 1.~け ふ よ り | ひ _ ら く | ま な び や | の
-w: 2.~あ さ ゆ ふ | み が か ん | わ が こ こ | ろ
-d6 d2 A4 A4 | B8 A4 F4 | E6 E2 F4 E4 | D12 z4 |
-w: 1.~わ が し の | き み の | み ち び き | に
-w: 2.~ひ _ と の | かが み と | な る ま で | に
-A6 A2 F4 D4 | E6 E2 D4 E4 | F6 F2 E4 F4 | A12 z4 |
-w: 1.~ふ _ み の | は や し の | お く わ け | て
-w: 2.~い ざ も ろ | と _ も に | い そ し ま | ん
-B6 B2 d4 B4 | A6 A2 F4 D4 | E6 A2 F4 E4 | D12 z4 |
-w: 1.~は _ な の | い ろ か や | た づ ね ま | し
-w: 2.~た だ し き | み _ ち を | ひ と す ぢ | に
-```
+<div class="abc-score" data-abc-src="shigyoshiki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shigyoshiki.abc)
 
 ## TMD 檔案連結
 

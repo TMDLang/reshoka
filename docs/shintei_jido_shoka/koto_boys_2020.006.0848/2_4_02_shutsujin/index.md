@@ -66,25 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:出陣
-C:曲：シルヘル（獨）（Silcher）
-M:3/4
-L:1/16
-Q:1/4=80
-K:F
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!p! z4 z4 z2 C2 | F2 G2 A2 B2 c4 | !mp! d3 c B2 A2 z2 c2 | c2 B2 A2 G2 F4 |
-!mf! A2 G3 A G2 z2 C2 | G2 G2 A2 B2 B2 A2 | A3 G G2 c2 z2 c2 | B2 G2 F2 E2 F2 B2 |
-!f! A2 G3 G F2 z2 C2 | A2 B2 c2 d2 c2 B2 | A2 G3 A F2 z4 |
-[V:V2]
-!p! z4 z4 z2 C2 | F2 E2 F2 G2 A4 | !mp! B3 A G2 F2 z2 A2 | A2 G2 F2 E2 F4 |
-!mf! F2 E3 F E2 z2 C2 | E2 E2 F2 G2 G2 F2 | F3 E E2 A2 z2 A2 | G2 E2 D2 C2 D2 G2 |
-!f! F2 E3 E F2 z2 C2 | F2 G2 A2 B2 A2 G2 | F2 E3 F F2 z4 |
-```
+<div class="abc-score" data-abc-src="shutsujin.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shutsujin.abc)
 
 ## TMD 檔案連結
 

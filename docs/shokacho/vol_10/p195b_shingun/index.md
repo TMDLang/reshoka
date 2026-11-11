@@ -52,19 +52,9 @@ Marginalia: 15.2.13. 171頁 (大正15年2月13日)
 
 ## ABC
 
-```abc
-X:1
-T:進軍 進軍
-M:4/4
-L:1/16
-Q:1/4=130
-K:G
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z14 D2 | G2 G2 A2 A2 d2 B2 G2 G2 | A3 F D4 z6 D2 | G2 G2 A2 A2 B4 z2 B2 |
-A2 G2 A2 B2 G4 z2 G2 | d2 d2 d2 B G A4 z2 A2 | B2 B2 B2 d B A4 z2 D2 | G3 A B3 c d4 z2 G2 |
-B4 A4 G4 z4 |
-```
+<div class="abc-score" data-abc-src="shingun.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shingun.abc)
 
 ## TMD 檔案連結
 

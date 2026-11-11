@@ -62,31 +62,9 @@ Key: C major (?= C), 2/4 (<2/4>), 面白ゲニ Quarter = 88 (!= 88)
 
 ## ABC
 
-```abc
-X:1
-T:冬の朝
-M:2/4
-L:1/16
-Q:1/4=88
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-E2 G2 G2 z2 | A3 A G2 E2 | D6 E2 | C2 D2 E2 z2 |
-w: 1.~す ず め | こ ぼ れ た | こ め | ひ ろ ふ
-w: 2.~す ず め | と び た つ | き の | え だ に
-A2 z2 G4 | A2 z2 G4 | A8- | A z z2 z4 |
-w: 1.~チュッ チョン | チュッ チョン | チュ | _
-w: 2.~チュッ チョン | チュッ チョン | チュ | _
-c4 d2 c2 | A3 A G2 G2 | A4 G4 | E2 D C D2 z2 |
-w: 1.~や ま は | む ら さ き | そ ら | は れ _ て
-w: 2.~てぬ ぐ ひ | さ げ て _ | さ く | さ く _ と
-C4 D2 E2 | G3 G A2 G2 | c6 c2 | A4 G2 A2 |
-w: 1.~か ほ を | あ ら へ ば | す が | す が _
-w: 2.~ふ め ば | く だ け る | し も | ば し _
-c8- | c4 z4 |
-w: 1.~し | _
-w: 2.~ら | _
-```
+<div class="abc-score" data-abc-src="fuyu_no_asa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](fuyu_no_asa.abc)
 
 ## TMD 檔案連結
 

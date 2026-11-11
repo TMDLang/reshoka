@@ -71,26 +71,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ハト（鴿子）
-C:曲：文部省《尋常小學唱歌》
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F4 G4 | A8 | c2 A2 F4 | G8 |
-w: 1.~ポッ ポッ | ポ | ハ ト ポッ | ポ
-w: 2.~ポッ ポッ | ポ | ハ ト ポッ | ポ
-F4 G2 A2 | c2 c2 A2 A2 | c2 A2 F2 G2 | A8 |
-w: 1.~マ メ ガ | ホ シ イ カ | ソ ラ ヤ ル | ゾ
-w: 2.~マ メ ハ | ウ マ イ カ | タ ベ タ ナ | ラ
-c2 c2 c2 A2 | d2 d2 d2 c2 | A2 A2 A2 G2 | F8 |
-w: 1.~ミ ン ナ デ | ナ カ ヨ ク | タ ベ ニ コ | イ
-w: 2.~イ チ ド ニ | ソ ロ ッ テ | ト ン デ イ | ケ
-```
+<div class="abc-score" data-abc-src="hato.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hato.abc)
 
 ## TMD 檔案連結
 

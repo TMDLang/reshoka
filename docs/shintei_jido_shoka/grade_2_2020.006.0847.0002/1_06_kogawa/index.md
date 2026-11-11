@@ -68,29 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:コガハ（小河）
-C:曲：納所辨次郎
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A2 A2 A4 | F2 F2 G2 G2 | D2 D2 F2 F2 | C2 C2 C4 |
-w: 1.~イ ヘ ノ | マ ヘ ヲ バ | ナ ガ レ ル | コ ガ ハ
-w: 2.~カ ハ ノ | ソ コ ヲ バ | コ ロ ゲ ル | コ イ シ
-C2 F2 F4 | G2 A2 G2 F2 | A2 A2 G2 G2 | F6 z2 |
-w: 1.~コ ガ ハ | ナ ガ レ テ | ド コ ヘ イ | ク
-w: 2.~コ イ シ | コ ロ ゲ テ | ド コ ヘ イ | ク
-A2 c2 c4 | c2 d2 c2 A2 | G2 G2 F2 G2 | A2 c2 c4 |
-w: 1.~メ ダ カ | ウ カ セ テ | タ ノ ソ バ | ト ホ リ
-w: 2.~ツ レ ト | イ ツ ショ ニ | タ ニ カ ハ | ト ホ リ
-d2 d2 d4 | c2 c2 A2 F2 | G2 G2 A2 G2 | F6 z2 |
-w: 1.~ナ カ マ | ア ツ メ テ | オ ホ ガ ハ | ヘ
-w: 2.~ス エ ハ | ハ テ ナ キ | オ ホ ウ ミ | ヘ
-```
+<div class="abc-score" data-abc-src="kogawa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kogawa.abc)
 
 ## TMD 檔案連結
 

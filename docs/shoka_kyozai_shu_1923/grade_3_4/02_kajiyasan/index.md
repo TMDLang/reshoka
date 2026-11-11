@@ -67,32 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:鍛冶屋さん
-M:2/4
-L:1/16
-Q:1/4=92
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c4 G2 E2 | c3 c G2 E2 | C2 D E F G A B | c4 z4 |
-!mf! c4 G2 E2 | c3 c G2 E2 | C2 D2 E2 F2 | G4 z4 |
-w: 1.~ボ ク ノ | ト ナ リ ノ | カ ヂ ヤ サ | ン
-w: 2.~ゆふ だ ち | あ め で も | ふ る や う | に
-c3 c G2 E2 | c3 c G2 E2 | !p! C2 c2 G2 E2 | C4 z4 |
-w: 1.~ア サ カ ラ | バ ン マ デ | トツ テン カン カン | カン
-w: 2.~あ せ を ば | な が し て | とつ てん かん かん | かん
-!mf! C2 D2 E2 F2 | G2 A2 G2 G2 | F2 E2 D2 C2 | D4 z4 |
-w: 1.~ナ ツ デ モ | フ ユ デ モ | ヤ ス マ ズ | ニ
-w: 2.~ぼ く に も | も て な い | あ の つ ち | を
-C2 D2 E2 F2 | G2 A2 G2 G2 | C2 c2 G2 E2 | C2 c2 G2 E2 |
-w: 1.~ク _ ロ イ | オ カ ホ デ | トッ テン カン カン | トッ テン カン カン
-w: 2.~か た て で | あ ん な に | とっ てん かん かん | とっ てん かん かん
-C2 c2 G2 E2 | C4 z4 |
-w: 1.~トッ テン カン カン | カン
-w: 2.~とっ てん かん かん | かん
-```
+<div class="abc-score" data-abc-src="kajiyasan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kajiyasan.abc)
 
 ## TMD 檔案連結
 

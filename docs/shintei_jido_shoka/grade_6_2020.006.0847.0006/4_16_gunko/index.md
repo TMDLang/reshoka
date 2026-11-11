@@ -67,34 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:軍港
-M:2/4
-L:1/16
-Q:1/4=100
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z2 D2 | G3 D G2 B2 | G4 G2 D2 | A3 D A2 c2 |
-w: い | く さ の ふ | ね を あ | つ め う か
-B6 c2 | B3 c B2 c2 | B4 G2 D2 | D3 c B2 A2 |
-w: べ わ | が ひ の も | と の う | み を ま も
-G6 D2 | F3 F A2 D2 | G4 B2 D2 | F2 A2 c2 e2 |
-w: る ま | ひ づ る さ | せ ほ く | れ よ こ す
-d6 B2 | B3 c B2 c2 | B4 G2 D2 | D3 c B2 A2 |
-w: か み | な と は か | た し ふ | ね は つ よ
-G6 z2 | z4 z2 D2 | G3 D G2 B2 | G4 G2 D2 |
-w: し | し | め ん は う | み の わ
-A3 D A2 c2 | B6 c2 | B3 c B2 c2 | B4 G2 D2 |
-w: が て い こ | く あ | だ な み い | か に よ
-D3 c B2 A2 | G6 D2 | F3 F A2 D2 | G4 B2 D2 |
-w: す る と て | も み | な と に か | た き ま
-F2 A2 c2 e2 | d6 B2 | B3 c B2 c2 | B4 G2 D2 |
-w: も り あ り | て み | よ は し づ | か に く
-D3 c B2 A2 | G6 z2 |
-w: に は や す | し
-```
+<div class="abc-score" data-abc-src="gunko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gunko.abc)
 
 ## TMD 檔案連結
 

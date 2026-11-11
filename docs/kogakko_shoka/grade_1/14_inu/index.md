@@ -65,26 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:イヌ（小狗）
-C:曲：文部省《尋常小學唱歌》
-M:4/4
-L:1/16
-Q:1/4=120
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A8 A4 F4 | E6 E2 D4 D4 | E6 E2 F4 F4 | A12 z4 |
-w: 1.~ソ ト ヘ | デ ル ト キ | ト ン デ キ | テ
-w: 2.~ウ チ ヘ | カ ヘ ル ト | ヲ ヲ フ ッ | テ
-B6 B2 B4 A4 | d6 d2 d4 A4 | B4 A4 F4 D4 | E12 z4 |
-w: 1.~オ ッ テ モ | オ ッ テ モ | ツ イ テ ク | ル
-w: 2.~タ モ ト ニ | ス ガ ッ テ | ウ レ シ ガ | ル
-F6 E2 D4 z4 | d6 d2 B4 z4 | A4 A4 F4 E4 | D12 z4 |
-w: 1.~ポ チ ハ | ホン ト ニ | カ ハ イ イ | ナ
-w: 2.~ポ チ ハ | ホン ト ニ | カ ハ イ イ | ナ
-```
+<div class="abc-score" data-abc-src="inu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](inu.abc)
 
 ## TMD 檔案連結
 

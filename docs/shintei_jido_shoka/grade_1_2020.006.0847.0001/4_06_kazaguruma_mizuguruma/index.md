@@ -55,20 +55,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:カザグルマ・ミヅグルマ（風車與水車）
-M:2/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A4 c2 c2 | A3 c A2 G2 | F2 F2 G2 G2 | A6 z2 |
-w: カ ゼ ニ | ク ル ク ル | カ ザ グ ル | マ
-c4 d2 d2 | c3 d c2 A2 | G2 G2 A2 G2 | F6 z2 |
-w: ミ ヅ ニ | グ ル グ ル | ミ ヅ グ ル | マ
-```
+<div class="abc-score" data-abc-src="kazaguruma_mizuguruma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kazaguruma_mizuguruma.abc)
 
 ## TMD 檔案連結
 

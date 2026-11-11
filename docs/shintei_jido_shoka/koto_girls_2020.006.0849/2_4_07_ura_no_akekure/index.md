@@ -77,45 +77,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:浦のあけくれ
-C:曲：モッツインギ（伊）（Joseph Mazzinghi）
-M:4/4
-L:1/16
-Q:1/4=160
-K:G
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-V:V3 name="Part3" snm="Par"
-[V:V1]
-!mf! z4 z4 z4 D4 | G8 A8 | B6 A2 G4 z4 | c6 c2 c3 d e2 c2 |
-A8 z4 z4 | d6 c B A4 G4 | F4 z4 G8 | A6 A2 A2 B A G2 F2 |
-E8 z4 z4 | d8 e4 ^c4 | A2 B2 ^c4 z4 z4 | d6 e d ^c4 B4 |
-A8 d8 | ^c4 A4 d4 z4 | B4 G4 ^c8 | d4 A4 B2 d ^c B2 A2 |
-D8 z4 z4 | !f! B6 B2 A2 B2 c2 d2 | e4 c4 z4 A2 B2 | c2 d2 e2 f2 g4 z4 |
-f8 e8 | d4 z4 e2 f2 g2 e2 | d4 c4 B4 z4 | !p! A6 A2 A4 d4 |
-B4 G4 A6 A2 | A4 B4 c4 A4 | !f! B8 z4 d4 | d6 d2 d4 d4 |
-d8 B4 d2 B2 | G4 A4 G8 |
-[V:V2]
-z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | !f! G6 G2 F2 G2 A2 B2 | c4 A4 z4 F2 G2 | A2 A2 A2 A2 G4 z4 |
-D6 D2 E2 F2 G2 A2 | B4 z4 c2 c2 c2 c2 | B4 A4 G4 z4 | !p! z4 z4 F4 D2 B2 |
-G4 G4 F6 F2 | F4 G4 A4 F4 | !f! G8 z4 G4 | F6 F2 G4 F4 |
-G8 G4 G2 G2 | E4 F4 G8 |
-[V:V3]
-z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | !f! G6 G2 D4 D4 | C4 D4 z4 D4 | D4 D4 E4 z4 |
-B8 A8 | B2 A2 G2 F2 E2 D2 C2 E2 | G4 D4 G,4 z4 | !p! F6 F2 F4 z4 |
-G4 E4 D6 D2 | D4 G4 D4 D4 | !f! G8 z4 G4 | A6 A2 B4 A4 |
-G8 E4 B,2 B,2 | C4 D4 G,8 |
-```
+<div class="abc-score" data-abc-src="ura_no_akekure.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ura_no_akekure.abc)
 
 ## TMD 檔案連結
 

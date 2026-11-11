@@ -62,20 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:千代田の宮
-C:曲：R. Groos（グロース）
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! F4 F4 G4 A4 | G8 F4 z4 | A4 B4 c4 d2 c2 | c12 z4 |
-B4 A4 G4 F4 | c8 c4 A2 c2 | !f! f8 d8 | c12 z4 |
-d4 c4 B4 A4 | G6 F2 c4 A4 | !mf! G8 G8 | F12 z4 |
-```
+<div class="abc-score" data-abc-src="chiyoda_no_miya.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](chiyoda_no_miya.abc)
 
 ## TMD 檔案連結
 

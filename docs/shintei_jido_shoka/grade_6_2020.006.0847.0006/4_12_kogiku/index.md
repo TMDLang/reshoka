@@ -67,36 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:小菊
-M:4/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Piano" snm="Pia"
-V:V2 name="PianoLH" snm="Pia"
-[V:V1]
-!p! F4 F2 G2 A4 A4 | G2 F2 G2 A2 F4 C4 | !mp! A4 A2 B2 c4 c4 | B2 A2 B2 d2 A4 F4 |
-w: ま が _ き に | み _ だ _ る る | こ ぎ _ く は | あ _ い _ ら し
-!mf! c4 c4 d4 d4 | B4 B2 d2 c8 | !p! A4 A4 B4 B4 | G4 G2 c2 F8 |
-w: あ か し ろ | き い _ ろ | と り ど り | さ き _ ぬ
-!p! F4 F2 G2 A4 A4 | G2 F2 G2 A2 F4 C4 | !mp! A4 A2 B2 c4 c4 | B2 A2 B2 d2 A4 F4 |
-w: ひ と _ も と | う _ ゑ _ た る | こ ぎ _ く も | し _ ほ _ ら し
-!mf! c4 c4 d4 d4 | B4 B2 d2 c8 | !p! A4 A4 B4 B4 | G4 G2 c2 F8 |
-w: あ き し り | が ほ _ に | け さ さ き | い で _ ぬ
-!p! F4 F2 G2 A4 A4 | G2 F2 G2 A2 F4 C4 | !mp! A4 A2 B2 c4 c4 | B2 A2 B2 d2 A4 F4 |
-w: こ に _ は も | こ _ れ _ よ り | し ば _ し ば | に _ ぎ _ は ふ
-!mf! c4 c4 d4 d4 | B4 B2 d2 c8 | !p! A4 A4 B4 B4 | G4 G2 c2 F8 |
-w: こ ぎ く の | さ か _ り | あ は れ ぞ | ふ か _ き
-[V:V2]
-!p! F4 F2 G2 A4 A4 | G2 F2 G2 A2 F4 C4 | !mp! F4 F2 G2 A4 A4 | G2 F2 G2 E2 F4 F4 |
-!mf! A4 A4 B4 B4 | G4 G2 B2 A8 | !p! F4 F4 G4 G4 | E4 E2 c2 F8 |
-!p! F4 F2 G2 A4 A4 | G2 F2 G2 A2 F4 C4 | !mp! F4 F2 G2 A4 A4 | G2 F2 G2 E2 F4 F4 |
-!mf! A4 A4 B4 B4 | G4 G2 B2 A8 | !p! F4 F4 G4 G4 | E4 E2 c2 F8 |
-!p! F4 F2 G2 A4 A4 | G2 F2 G2 A2 F4 C4 | !mp! F4 F2 G2 A4 A4 | G2 F2 G2 E2 F4 F4 |
-!mf! A4 A4 B4 B4 | G4 G2 B2 A8 | !p! F4 F4 G4 G4 | E4 E2 c2 F8 |
-```
+<div class="abc-score" data-abc-src="kogiku.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kogiku.abc)
 
 ## TMD 檔案連結
 

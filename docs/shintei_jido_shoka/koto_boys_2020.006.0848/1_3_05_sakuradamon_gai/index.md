@@ -70,22 +70,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:櫻田門外
-C:曲：佛國風曲
-M:4/4
-L:1/16
-Q:1/4=92
-K:Dm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z2 z2 z2 z2 z2 z2 D2 D2 | A4 A2 B2 A4 G2 F2 | E4 z2 E2 F2 G2 A3 G | F4 E2 D2 A6 A2 |
-D8 z4 D2 D2 | G4 G2 A2 G4 F2 E2 | F4 z2 F2 G2 A2 B3 A | G4 F2 E2 c6 c2 |
-!mf! A8 z4 A3 A | d4 c2 B2 A4 G2 F2 | G4 z2 G2 A2 B2 c3 B | A4 G2 F2 E2 D2 ^C3 D |
-E8 z4 A3 A | F4 G2 A2 B4 G2 E2 | A4 z2 A2 d6 c2 | !f! B4 A2 G2 A6 A2 |
-D8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="sakuradamon_gai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sakuradamon_gai.abc)
 
 ## TMD 檔案連結
 

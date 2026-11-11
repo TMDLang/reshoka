@@ -58,31 +58,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋景
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z8 z4 C4 | F6 F2 G4 G4 | A8 F4 A4 | c6 c2 B4 A4 |
-w: 1.~ミ | ワ タ ス ノ | ベ _ ノ | ア キ _ ゲ
-w: 2.~み | わ た す や | ま _ の | あ き _ げ
-G8 z4 A4 | d6 d2 c4 c4 | f8 c4 B2 A2 | G6 A2 B4 G4 |
-w: 1.~シ ナ | ナ ク サ チ | グ サ ハ ナ | サ キ ミ ダ
-w: 2.~し た | か ね は か | ぜ に も み | ぢ を ち ら
-A8 z4 G4 | F6 G2 A4 B4 | G6 A2 B4 c2 d2 | c6 B2 A4 G4 |
-w: 1.~レ フ | ク カ ゼ カ | ヲ リ テ オ ク | シ モ ニ ホ
-w: 2.~し ふ | も と は て | る ひ に こ の | み を さ ら
-c8 z4 C4 | F6 F2 G4 G4 | A8 F4 A4 | c6 c2 B4 G4 |
-w: 1.~フ ミ | ワ タ ス ノ | ベ _ ノ | ア キ _ ゲ
-w: 2.~し み | わ た す や | ま _ の | あ き _ げ
-F8 z8 |
-w: 1.~シ
-w: 2.~し
-```
+<div class="abc-score" data-abc-src="shukei.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shukei.abc)
 
 ## TMD 檔案連結
 

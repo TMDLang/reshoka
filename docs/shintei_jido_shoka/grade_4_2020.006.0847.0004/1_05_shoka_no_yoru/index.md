@@ -63,29 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:初夏の夜
-C:曲：山本壽
-M:4/4
-L:1/16
-Q:1/4=76
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F6 F2 F4 D2 F2 | G6 G2 F8 | D6 E2 D4 C2 B,2 | F12 z4 |
-w: 1.~ナ ハ テ ヅ _ | タ ヒ ニ | フ ク カ ゼ _ | モ
-w: 2.~た の も は _ | み づ の | ひ ろ び ろ _ | と
-G6 G2 G4 F2 G2 | B6 B2 G8 | F6 d2 d4 c2 B2 | c12 z4 |
-w: 1.~ワ カ バ ノ ニ | ホ ヒ _ | カ ン バ シ _ | ク
-w: 2.~か は づ の こ | ゑ も _ | に ぎ は し _ | く
-d6 d2 B4 G4 | F6 G2 F4 F4 | D6 E2 D4 C2 B,2 | F12 z4 |
-w: 1.~ソ ラ イ ッ | パ _ イ ノ | ホ シ ハ ミ _ | ナ
-w: 2.~た に あ ひ | の _ い へ | ま ど あ け _ | て
-G6 G2 G4 F2 G2 | B6 B2 G8 | F6 d2 d4 c4 | B12 z4 |
-w: 1.~ス ズ シ ク キ | ン ニ _ | マ タ タ ケ | リ
-w: 2.~よ る に し た | し む _ | と き は き | ぬ
-```
+<div class="abc-score" data-abc-src="shoka_no_yoru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shoka_no_yoru.abc)
 
 ## TMD 檔案連結
 

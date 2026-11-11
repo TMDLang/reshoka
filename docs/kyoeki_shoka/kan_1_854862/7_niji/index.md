@@ -63,28 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:虹
-M:4/4
-L:1/16
-Q:1/4=120
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! F6 G2 A4 F4 | c12 z4 | c6 d2 c4 A4 | G12 z4 |
-w: 1.~あ ふ ぎ み | よ | や よ と も | よ
-w: 2.~あ ふ ぎ み | よ | や よ と も | よ
-F8 G4 F4 | D8 C8 | F4 G4 A4 F4 | c12 z4 |
-w: 1.~お ほ ぞ | ら の | に じ の か | げ
-w: 2.~お ほ ぞ | ら の | に じ の か | げ
-c6 c2 d4 c4 | c12 z4 | A6 A2 G4 F4 | G12 z4 |
-w: 1.~しょ _ て ん | の | は し の ご | と
-w: 2.~き ん しゅ _ | の | は た の ご | と
-F8 G4 A4 | d6 d2 c4 d4 | c4 A4 G6 A2 | F12 z4 |
-w: 1.~か か る | さ _ ま _ | う つ く し | や
-w: 2.~な び く | さ _ ま _ | う る は し | や
-```
+<div class="abc-score" data-abc-src="niji.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](niji.abc)
 
 ## TMD 檔案連結
 

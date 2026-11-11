@@ -62,22 +62,9 @@ Marginalia: 358頁 2.1.28 (昭和2年1月28日)
 
 ## ABC
 
-```abc
-X:1
-T:コロンブス 哥倫布
-M:6/8
-L:1/16
-Q:3/8=69
-K:Eb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 B,4 z2 |
-E4 G2 B4 G2 | c4 c2 B4 G2 | A4 G2 F4 E2 | F6 E4 z2 |
-e4 e2 d4 c2 | B4 c2 B4 G2 | A4 A2 B4 c2 | B6 G4 z2 |
-e4 e2 d4 c2 | B4 c2 B4 G2 | A4 G2 F4 G2 | E6 E4 z2 |
-C4 _D2 E4 C2 | B,4 B,2 E4 G2 | F4 E2 F4 G2 | B,6 B,4 z2 |
-C4 B,2 C4 E2 | B,4 B,2 G4 E2 | F4 A2 G4 F2 | E6 E4 z2 |
-```
+<div class="abc-score" data-abc-src="koronbusu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](koronbusu.abc)
 
 ## TMD 檔案連結
 

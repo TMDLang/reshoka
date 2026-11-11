@@ -61,22 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:春は行く（春將離去）
-M:2/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D2 E2 A,2 A,2 | E2 A,2 A,2 z2 | F2 F2 D2 D2 | E2 A,2 A,2 z2 |
-F4 F3 G | A2 A2 d3 B | A2 A2 B2 F E | A6 z2 |
-F2 F G F2 E2 | D2 E2 A,2 A,2 | D3 E F2 B2 | A6 z2 |
-F3 F F2 G2 | B3 A d2 B2 | A2 A2 B2 F E | A6 z2 |
-F2 F G F2 E2 | D2 E2 A,4 | D3 E F2 E2 | D6 z2 |
-D2 E2 F2 A2 | d2 B2 A4 | B3 B A2 F E | D6 z2 |
-```
+<div class="abc-score" data-abc-src="haru_wa_yuku.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](haru_wa_yuku.abc)
 
 ## TMD 檔案連結
 

@@ -52,21 +52,9 @@ Composer: 岡野貞一 / Lyricist: 高野辰之 (尋常小學唱歌 第六學年
 
 ## ABC
 
-```abc
-X:1
-T:朧月夜 朦朧月夜
-M:3/4
-L:1/16
-Q:1/4=72
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z8 D4 | D4 E4 F4 | A6 B2 A2 F2 | D8 E4 |
-E8 D4 | F6 A2 F2 E2 | D8 B4 | A6 F2 E2 F2 |
-D8 D4 | E4 E4 A4 | F4 E4 D4 | E6 E2 F2 A2 |
-B4 A4 A4 | d4 B4 A2 F2 | A6 B2 A2 F2 | D6 B,2 D2 E2 |
-F4 E4 F2 E2 | D12 |
-```
+<div class="abc-score" data-abc-src="oborozukiyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oborozukiyo.abc)
 
 ## TMD 檔案連結
 

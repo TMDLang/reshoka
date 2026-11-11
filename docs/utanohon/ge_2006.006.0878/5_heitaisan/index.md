@@ -71,28 +71,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:兵たいさん（士兵先生）
-M:2/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F4 A4 | c2 c2 A2 A2 | F4 c2 c2 | c4 z4 |
-w: 1.~テッ パウ | カ ヅ イ ダ | ヘイ タ イ | サン
-w: 2.~おう まに | の っ た _ | へい た い | さん
-d2 d2 d2 c2 | A2 A2 G2 F2 | G2 G2 G2 G2 | G4 z4 |
-w: 1.~ア シ ナ ミ | ソ ロ ヘ テ | ア ル イ テ | ル
-w: 2.~す _ な を | け た て て | か け て く | る
-A4 G2 G2 | A4 G2 G2 | A2 A2 G2 A2 | c4 z4 |
-w: 1.~トッ ト コ | トッ ト コ | ア ル イ テ | ル
-w: 2.~ぱっ ぱ か | ぱっ ぱ か | か け て く | る
-A4 d2 d2 | c4 A4 | c2 c2 A2 G2 | F4 z4 |
-w: 1.~ヘイ タ イ | サン ハ | イ サ マ シ | イ
-w: 2.~へい た い | さん は | い さ ま し | い
-```
+<div class="abc-score" data-abc-src="heitaisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](heitaisan.abc)
 
 ## TMD 檔案連結
 

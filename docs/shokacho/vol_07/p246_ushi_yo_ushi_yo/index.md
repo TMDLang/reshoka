@@ -59,21 +59,9 @@ Key: 変ホ調 (Eb major), Time: 4/4, Tempo: 同情の態度で
 
 ## ABC
 
-```abc
-X:1
-T:牛よ牛よ（牛呀牛呀）
-C:曲：陳英聲
-M:4/4
-L:1/16
-Q:1/4=84
-K:Eb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! B6 B2 B4 G4 | G4 F2 E2 F4 z4 | G6 A2 B4 c4 | B8 G4 G4 |
-F6 A2 G4 F4 | E4 F4 G4 z4 | e6 B2 c4 c4 | B4 G4 F4 z4 |
-B2 B2 G2 E2 F4 A4 | G12 z4 | !f! B8 G4 B4 | !p! e8 c4 e4 |
-!mp! B6 E2 G4 F4 | E12 z4 |
-```
+<div class="abc-score" data-abc-src="ushi_yo_ushi_yo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ushi_yo_ushi_yo.abc)
 
 ## TMD 檔案連結
 

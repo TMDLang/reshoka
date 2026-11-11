@@ -68,41 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:流れ星
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=112
-K:Cm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c8 G4 G4 | F4 F4 E4 F4 | G4 F8 C4 | D12 z4 |
-w: ヨ ル ノ | ミ ソ ラ ノ | ハ ラツ パ | ニ
-E8 E4 D4 | C4 D4 E4 F4 | G4 A4 A4 A4 | G12 z4 |
-w: ホ シ ノ | コ ド モ ガ | デ ソ ロ ツ | テ
-G4 G4 G4 F4 | E4 F4 G4 c4 | F4 e4 e4 e4 | d12 z4 |
-w: ミ ン ナ デ | イ ツ シヨ ニ | ジ ヤン ケ ン | ポン
-c4 c4 G4 G4 | F4 F4 E4 F4 | G4 F4 C4 C4 | D12 z4 |
-w: コ ン ヤ ノ | オ ツ カ ヒ | タ レ ダ ロ | ウ
-c8 G4 G4 | F4 F4 E4 F4 | G4 F8 C4 | D12 z4 |
-w: みん な で | か つ て に | ひ かつ て | は
-E8 E4 D4 | C4 D4 E4 F4 | G4 A4 A4 A4 | G12 z4 |
-w: ぢやん け ん | ぽ ぽ ん で | そ ろ は な | い
-G4 G4 G4 F4 | E4 F4 G4 c4 | F4 e4 e4 e4 | d12 z4 |
-w: も い ち ど | し な ほ し | ぢ やん け ん | ぽん
-c4 c4 G4 G4 | F4 F4 E4 F4 | G4 F4 C4 C4 | D12 z4 |
-w: つ き ひ め | さ ま へ の | お つ か ひ | ばん
-c8 G4 G4 | F4 F4 E4 F4 | G4 F8 C4 | D12 z4 |
-w: ヤ ツ ト | キ マ ツ タ | オ ツカ ヒ | ハ
-E8 E4 D4 | C4 D4 E4 F4 | G4 A4 A4 A4 | G12 z4 |
-w: オホ ヨ ロ | コ _ ビ デ | ト ビ ダ シ | テ
-G4 G4 G4 F4 | E4 F4 G4 c4 | F4 e4 e4 e4 | d12 z4 |
-w: ア レ モ ウ | ミ エ ナ イ | セ ン マ ン | リ
-c4 c4 G4 G4 | F8 c4 G4 | F4 F4 e4 d4 | c12 z4 |
-w: ア ノ ナ ガ | レ ボ シ | ツ カ ヒ ボ | シ
-```
+<div class="abc-score" data-abc-src="nagareboshi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nagareboshi.abc)
 
 ## TMD 檔案連結
 

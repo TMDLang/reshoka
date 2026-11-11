@@ -59,20 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:水は流るゝ
-M:3/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! E3 E D3 D C4 | A,3 A, G,4 z4 | C3 D E4 E4 | D2 G2 D4 z4 |
-E3 E D3 D C4 | A,3 A, G,4 z4 | C3 D E4 D4 | C2 A,2 C4 z4 |
-D3 D E3 E G4 | A3 A G4 E4 | D3 D E3 G G4 | A3 A G4 G4 |
-A3 A G4 A2 G2 | E4 D4 C3 z | D3 D C4 A,2 C2 | D4 E4 C3 z |
-```
+<div class="abc-score" data-abc-src="mizu_wa_nagaruru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mizu_wa_nagaruru.abc)
 
 ## TMD 檔案連結
 

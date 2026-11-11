@@ -66,24 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:御國の民
-C:曲：東京音樂學校編《中等唱歌》
-M:4/4
-L:1/16
-Q:1/4=116
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z4 z4 z4 D4 | G4 A3 B c4 B4 | A4 z4 B3 c d3 d | d4 B4 d4 z4 |
-d4 B3 G e4 d4 | c2 A2 B2 G2 A4 D4 | G4 A3 B c8 | B2 G2 A2 F2 G8 |
-B4 B3 B B4 G4 | e4 d4 ^c4 d4 | d4/3 ^c4/3 d4/3 e4/3 d4/3 c4/3 d4 A4 | B4 G4 A4 z2 D2 |
-G4 B4 d4 B4 | A2 B2 c4 B4 z4 | A3 B c2 A2 B2 G2 A2 z2 | !mf! d4 B4 G4 B4 |
-A2 B2 c4 B4 z4 | A3 B c2 A2 B2 G2 A2 z2 | !mf! d8 B3 G G4 | E2 F2 G2 E2 D8 |
-G3 A B3 c d8 | e2 d2 c2 B2 A4 d4 | !ff! g4 d4 B4 G3 B | A3 G E2 G2 d8 |
-e4/3 d4/3 c4/3 B4/3 A4/3 G4/3 d4 F4 | G4 G4 G4 z4 |
-```
+<div class="abc-score" data-abc-src="mikuni_no_tami.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mikuni_no_tami.abc)
 
 ## TMD 檔案連結
 

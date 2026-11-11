@@ -67,29 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:忍耐
-C:曲：文部省
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-E6 D2 C2 D2 E2 F2 | G6 A2 G8 | C6 D2 E2 D2 E2 F2 | D12 z4 |
-w: 1.~ノ ヲ ナ _ ガ _ | レ テ ノ | ス エ ツ _ ヒ _ | ニ
-w: 2.~み に ふ _ り _ | か か る | う き こ _ と _ | の
-E6 D2 C2 D2 E2 F2 | G6 A2 G8 | C6 D2 E2 D2 E2 F2 | G12 z4 |
-w: 1.~ウ ミ ト _ ナ _ | ル ベ キ | ヤ マ ミ _ ヅ _ | モ
-w: 2.~な ほ こ _ の _ | う へ に | つ も れ _ か _ | し
-c8 B4 B4 | A6 A2 G4 F4 | E6 E2 D2 C2 D2 E2 | D6 D2 E4 z4 |
-w: 1.~シ バ シ | コ ノ ハ ノ | シ タ ク _ グ _ | ル ナ リ
-w: 2.~か ぎ り | あ る み の | ち か ら _ た _ | め さ ん
-A8 G8 | A2 c2 B2 A2 G8 | C2 D2 E2 F2 E6 D2 | C12 z4 |
-w: 1.~ミ ヨ | シ ノ ブ ナ リ | ヤ _ マ _ ミ ヅ | モ
-w: 2.~い ざ | こ こ ろ み ん | み _ の _ ち か | ら
-```
+<div class="abc-score" data-abc-src="nintai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nintai.abc)
 
 ## TMD 檔案連結
 

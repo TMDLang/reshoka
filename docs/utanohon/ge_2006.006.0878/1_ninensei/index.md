@@ -73,25 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:二年生
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F3 F C2 C2 | A3 A F4 | G3 G G2 A2 | G4 z4 |
-w: 1.~クヮ ダ ン ノ | ハ ナ ガ | マ ッ サ カ | リ
-w: 2.~コ ト リ ガ | モ リ デ | ウ タ ッ テ | ル
-A3 A F2 A2 | c4 d2 c2 | A3 A G2 A2 | c4 z4 |
-w: 1.~ワ タ ク シ | タ チ ハ | ニ ネ ン セ | イ
-w: 2.~ワ タ ク シ | タ チ ハ | ニ ネ ン セ | イ
-d3 d c2 A2 | F3 G A2 c2 | A3 A G2 G2 | F4 z4 |
-w: 1.~ウ レ シ イ | ウ レ シ イ | ニ ネ ン セ | イ
-w: 2.~ウ レ シ イ | ウ レ シ イ | ニ ネ ン セ | イ
-```
+<div class="abc-score" data-abc-src="ninensei.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ninensei.abc)
 
 ## TMD 檔案連結
 

@@ -66,29 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:カゴノムシ（籠中蟲）
-C:曲：園山民平
-M:2/4
-L:1/16
-Q:1/4=92
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 E2 F4 | G2 B2 B2 B2 | c2 c2 B2 c2 | B6 z2 |
-w: 1.~ア キ ノ | ヨ ナ ガ ヲ | ナ キ ア カ | ス
-w: 2.~ツ ユ ノ | タ マ チ ル | ツ キ ノ ヨ | ル
-c2 c2 B2 e2 | c2 c2 B2 G2 | F2 G2 F2 G2 | E6 z2 |
-w: 1.~カ ハ ユ イ | ス ズ ム シ | カ ゴ ノ ム | シ
-w: 2.~ヤ サ シ イ | ア _ キ ノ | カ ミ サ マ | ニ
-F2 F2 F2 G2 | B2 G2 B4 | c2 c2 B2 G2 | B6 z2 |
-w: 1.~フ シ オ モ | シ ロ イ | ソ ノ ウ タ | ハ
-w: 2.~ヲ ソ ハ リ | マ シ タ | コ ノ ウ タ | ハ
-E4 F2 G2 | B2 G2 B4 | G4 F4 | E6 z2 |
-w: 1.~タ レ ニ | ナ ラ ッタ | ヲソ ハッ | タ
-w: 2.~リン リ ン | リ ン リン | リン リン | リン
-```
+<div class="abc-score" data-abc-src="kago_no_mushi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kago_no_mushi.abc)
 
 ## TMD 檔案連結
 

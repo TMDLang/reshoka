@@ -69,34 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:コスモスボート
-M:4/4
-L:1/16
-Q:1/4=104
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F4 F4 G4 F4 | E4 F2 E2 D8 | D2 D2 E2 F2 G4 F4 | E4 A6 A2 A4 |
-w: 1.~カ キ ネ ノ | ソ ト _ マ | ス _ ラ _ ス ラ | ノ ビ デ テ
-w: 2.~と ん ぼ が | と ま _ れ | ふ _ ら _ ふ ら | ゆ ら い で
-B4 B4 d4 B4 | A4 F4 E8 | G2 G2 F2 F2 E2 E2 F2 G2 | A2 A2 B2 A2 F4 z4 |
-w: 1.~マ ウ ヘ ヲ | ム イ テ | イ チ リ ン サ イ テ ル | コ ス モ ス ニ
-w: 2.~あ ぶ な い | は な を | か _ ぜ が ふ い て は | な ほ ゆ す る
-d8 B4 B4 | A4 A4 F4 E4 | D6 D2 E4 F4 | A6 A2 A4 A4 |
-w: 1.~ト ボ ガ | イ ツ ピ キ | ス ト キ テ | シ ヅ カ ニ
-w: 2.~ど な に | ゆ れ て も | じ と し て | へ い き で
-E2 E2 F2 G2 A2 G2 F2 E2 | D12 z4 | D4 E4 F4 G4 | A4 A4 B4 A4 |
-w: 1.~ト マ ツ テ ウ ゴ カ ナ | イ | セ ナ カ ニ | オ ヒ ガ _
-w: 2.~ゆ ら れ て う れ し げ | な | と ん ぼ は | ボ ー ト に
-d6 B2 d4 B4 | A12 z4 | d3 B B2 A2 F3 G F2 E2 | D2 D2 E2 F2 G4 E4 |
-w: 1.~ポ カ ポ カ | ト | ホ ン ト ニ キ モ チ ガ | ヨ _ サ _ サ ウ
-w: 2.~の つ た き | か | ひ ろ げ た は ね _ に | ひ _ が _ あ た
-D12 z4 |
-w: 1.~ニ
-w: 2.~る
-```
+<div class="abc-score" data-abc-src="kosumosu_boto.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kosumosu_boto.abc)
 
 ## TMD 檔案連結
 

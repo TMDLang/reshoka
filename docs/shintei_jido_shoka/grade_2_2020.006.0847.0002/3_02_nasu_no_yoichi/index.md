@@ -65,28 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:なすのよいち（那須與一）
-M:2/4
-L:1/16
-Q:1/4=88
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F3 F A2 A2 | c3 c c2 c2 | d3 d d2 d2 | c4 z4 |
-w: 1.~げ ん ぺ い | しよ う ぶ の | は れ の ば | しよ
-w: 2.~あ ふ ぎ は | ゆ ふ ひ に | き ら め き | て
-B3 B A2 A2 | G3 G F2 F2 | G3 G G2 G2 | C4 z4 |
-w: 1.~ぶ う ん は | こ の や に | さ だ ま る | と
-w: 2.~ひ ら ひ ら | お ち ゆ く | な み の う | へ
-D3 D F2 F2 | G3 G F2 F2 | G3 G A2 A2 | c3 c c2 z2 |
-w: 1.~な す の _ | よ い ち は | い つ し ん | ふ ら ん
-w: 2.~な す の _ | よ い ち の | ほ ま れ は | い ま も
-d3 d c2 B2 | B3 B A2 A2 | G3 G C2 C2 | F4 z4 |
-w: 1.~ね ら ひ さ | だ め て _ | ひよ う と い | る
-w: 2.~や し まの う | ら に _ _ | な り ひ び | く
-```
+<div class="abc-score" data-abc-src="nasu_no_yoichi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nasu_no_yoichi.abc)
 
 ## TMD 檔案連結
 

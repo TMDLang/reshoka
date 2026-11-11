@@ -59,20 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:才女
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D,4 E,3 G, A,8 | G,4 E,4 z4 E,4 | G,6 A,2 G,4 E,2 D,2 | D,12 C2 A,2 |
-E,4 G,3 A, C6 D2 | C4 A,4 z4 A,4 | G,6 E,2 G,4 E,2 D,2 | !f! C,8 z4 D4 |
-E6 D2 C4 A,4 | !p! D8 z4 C4 | C6 C2 D6 C2 | !f! A,12 E4 |
-D4 C4 A,4 C3 A, | !p! G,4 E,8 G,3 A, | G,4 E,4 G,6 E,2 | D,12 z4 |
-```
+<div class="abc-score" data-abc-src="saijo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](saijo.abc)
 
 ## TMD 檔案連結
 

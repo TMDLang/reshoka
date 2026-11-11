@@ -61,27 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:健兒よ來れ
-C:曲：原田比古士良
-M:3/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!f! F3 C F4 A4 | B3 A G6 z2 | c3 c d4 c4 | A8 z4 |
-F3 C F4 A4 | G3 F E6 z2 | G3 A B4 E4 | F8 z4 |
-d3 d d4 c4 | d3 d d6 z2 | E3 F G4 A4 | c8 z4 |
-F3 C F4 A4 | B3 A G6 z2 | c3 A F4 G4 | F8 z4 |
-[V:V2]
-!mp! C3 C C4 F4 | E3 F E6 z2 | C3 C D4 C4 | C8 C4 |
-C3 C C4 F4 | D3 D C6 z2 | C3 C C4 C4 | F8 F4 |
-F3 F F4 F4 | F3 F F6 z2 | C3 C C4 C4 | F8 F4 |
-D3 D D4 D4 | D3 D E6 z2 | F3 F C4 C4 | F8 z4 |
-```
+<div class="abc-score" data-abc-src="kenji_yo_kitare.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kenji_yo_kitare.abc)
 
 ## TMD 檔案連結
 

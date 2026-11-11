@@ -65,29 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:秋夕
-C:曲：獨國民謠
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G3 G c2 G2 | E2 G2 C2 z2 | G2 c2 c2 e2 | d2 B2 G2 z2 |
-w: 1.~キ ラ メ ク | ホ シ ハ | イ マ シ モ | ミ エ ツ
-w: 2.~さ を な す | か り は | い ま し も | わ た る
-G3 G c2 G2 | E2 G2 C2 z2 | G2 c2 c2 e2 | d2 B2 G2 z2 |
-w: 1.~ソ ラ ウ チ | ア フ ギ | ア ソ ベ ル | コ ラ ガ
-w: 2.~そ ら う ち | あ ふ ぎ | あ そ べ る | こ ら が
-e2 c2 c2 d e | f2 d2 d2 z2 | d2 B2 B2 c d | e2 c2 G2 z2 |
-w: 1.~ヒ ト ツ マ タ | フ タ ツ | フ タ ツ マ タ | ミ ツ ト
-w: 2.~あ と の が ん | さ き に | さ き の が ん | あ と に
-c3 B c2 E F | G4 C2 z2 |
-w: 1.~カ ゾ フ ル _ | コ エ
-w: 2.~よ ば は る _ | こ ゑ
-```
+<div class="abc-score" data-abc-src="shuseki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shuseki.abc)
 
 ## TMD 檔案連結
 

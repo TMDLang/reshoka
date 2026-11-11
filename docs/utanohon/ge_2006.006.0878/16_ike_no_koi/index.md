@@ -69,25 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:池の 鯉（池中的鯉魚）
-M:2/4
-L:1/16
-Q:1/4=104
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C3 D C2 F2 | A3 G F2 F2 | G3 G c2 c2 | G4 z4 |
-w: 1.~お い け の | こ ひ が _ | よ っ て き | て
-w: 2.~に れ つ _ | さ ん れ つ | わ を か い | た
-c4 c2 A2 | d2 d3 c A2 | G3 A G2 F2 | D4 z4 |
-w: 1.~ぱ く り | ぱ く り と | く ち を あ | け
-w: 2.~ひ ご ひ | ま ご ひ が | あ ら そ っ | て
-C3 D C2 F2 | A3 G F4 | d2 c2 G2 A2 | F4 z4 |
-w: 1.~ぼ く ら の | ま い た | え を た べ | る
-w: 2.~ぼ く ら の | な げ る | ゑ を た べ | る
-```
+<div class="abc-score" data-abc-src="ike_no_koi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ike_no_koi.abc)
 
 ## TMD 檔案連結
 

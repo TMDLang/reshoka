@@ -63,25 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:進軍
-M:4/4
-L:1/16
-Q:1/4=132
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! z2 z2 z2 z2 z2 z2 z2 D2 | D3 D G2 B2 d4 z2 B2 | G3 G B3 G A4 z2 E2 | E3 E A2 E2 E4 z2 D2 |
-w: 1.~い | さ む へ い し か | ず を し ら ず な | ら び な ら ぶ あ
-w: 2.~い | さ む へ い し せ | ん か ま ん か そ | ろ ひ そ ろ ふ あ
-G3 G A3 B G4 z2 B2 | B3 B e3 B d4 z2 B2 | d3 d B3 G A4 z2 d2 | d3 d B3 D G4 z2 B2 |
-w: 1.~の つ つ さ き らっ | ぱ の ひ び き き | く も ゆ か い た | た た た た た た
-w: 2.~の く つ お と け | だ つ る ち り み | る も かっ ぱ つ と | と と と と と と
-A3 A G3 F G4 z2 z2 |
-w: 1.~た た た た た
-w: 2.~と と と と と
-```
+<div class="abc-score" data-abc-src="shingun.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shingun.abc)
 
 ## TMD 檔案連結
 

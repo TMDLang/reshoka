@@ -51,21 +51,9 @@ Marginalia: 15.2.13 (大正15年2月13日)
 
 ## ABC
 
-```abc
-X:1
-T:二宮尊徳 二宮尊德
-M:3/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z4 z4 F2 F2 | B6 c2 B2 G2 | F8 B2 c2 | d6 f2 d2 c2 |
-B8 c2 c2 | d6 c2 B2 G2 | F8 G2 B2 | F4 c6 B2 |
-B8 d2 c2 | B6 B2 c2 d2 | f8 g2 f2 | d6 f2 c2 B2 |
-G8 F2 F2 | B8 c4 | d6 f2 g2 f2 | d4 c6 B2 |
-B8 z4 |
-```
+<div class="abc-score" data-abc-src="ninomiya_sontoku.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ninomiya_sontoku.abc)
 
 ## TMD 檔案連結
 

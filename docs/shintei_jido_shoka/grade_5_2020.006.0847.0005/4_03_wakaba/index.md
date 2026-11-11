@@ -65,31 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:若葉
-M:4/4
-L:1/16
-Q:1/4=104
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F8 F4 G4 | B4 d4 B6 z2 | c4 c2 d2 c2 d2 c2 A2 | F2 G2 A2 F2 B6 z2 |
-w: 1.~キ ノ フ | マ _ デ | サ イ タ サ イ タ ト | ヨ ロ コ ン ダ
-w: 2.~き の ふ | ま _ で | き れ い き れ い と | ほ め て ゐ た
-G4 G4 G2 A2 B2 c2 | d4 B8 z2 d2 | d4 z2 c2 c4 z2 B2 | d12 z4 |
-w: 1.~ノ ヤ マ _ ノ ハ | ナ ガ ア | レ ミ ヨ チ | ル
-w: 2.~の や ま _ の は | る が あ | れ み よ ゆ | く
-c6 A2 F4 z4 | d6 B2 G2 F2 G2 A2 | F12 z4 | F4 G4 A2 B2 c2 d2 |
-w: 1.~チ ル ヨ | チ ル ヨ ア エ カ | ニ | ハ ナ ヤ _ カ _
-w: 2.~ゆ く よ | ゆ く よ あ え か | に | は な や _ か _
-d12 z4 | F2 F4 F8 G2 | G2 A2 B2 c2 d4 z2 d2 | d4 z2 c2 c4 z2 A2 |
-w: 1.~ニ | ワ カ バ ニ | オ _ ハ レ テ チ | ル チ ル チ
-w: 2.~に | わ か ば に | お _ は れ て あ | れ み よ ゆ
-B12 z4 |
-w: 1.~ル
-w: 2.~く
-```
+<div class="abc-score" data-abc-src="wakaba.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](wakaba.abc)
 
 ## TMD 檔案連結
 

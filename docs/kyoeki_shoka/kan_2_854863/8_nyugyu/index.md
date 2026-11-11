@@ -65,28 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:乳牛
-M:4/4
-L:1/16
-Q:1/4=120
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z2 z2 z2 z2 z2 D2 E2 F2 | G10 A2 B2 G2 | d6 B2 A4 D4 | B6 G2 A2 G2 A2 B2 |
-w: 1.~あ さ つ | ゆ の こ る | を ぐ さ つ | の に わ け つ _
-w: 2.~あ と よ | り を ふ り | を ふ り は | は を お ひ く _
-w: 3.~け さ わ | が の み し | ち ち も そ | れ と お も へ _
-G8 z2 E2 E2 E2 | D4 G4 B6 G2 | A4 d4 e6 d2 | d2 B2 B2 G2 A4 D4 |
-w: 1.~つ か な た | こ な た _ | に こ こ ち | よ _ げ _ に な
-w: 2.~る わ が こ | み か へ _ | り う れ し | げ _ に _ も あ
-w: 3.~ば わ き て | な つ か _ | し こ こ ろ | な _ げ _ に あ
-d6 B2 A2 G2 A2 B2 | G8 z2 z2 z2 z2 |
-w: 1.~に を あ _ さ _ | る
-w: 2.~ゆ む さ _ ま _ | よ
-w: 3.~そ ぶ う _ し _ | も
-```
+<div class="abc-score" data-abc-src="nyugyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nyugyu.abc)
 
 ## TMD 檔案連結
 

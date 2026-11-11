@@ -63,28 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:雪達磨
-M:2/4
-L:1/16
-Q:1/4=120
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! D3 D G2 G2 | B3 A G2 A2 | B3 A B2 c2 | d4 z4 |
-w: 1.~を を ふ り | う ご か し | こ い ぬ ま | で
-w: 2.~た ど ん の | ま な こ は | ま ん ま ろ | く
-d3 d B2 e2 | d2 d2 B2 G2 | A2 A2 B3 A | G4 z4 |
-w: 1.~よ ろ こ び | い さ め る | け さ の ゆ | き
-w: 2.~た き ぎ の | く ち び る | へ の じ な | り
-!f! d2 d d d2 z2 | B2 B B B2 z2 | A3 G A3 B | A4 z4 |
-w: 1.~こ よ こ よ | み な こ よ | い ざ と も | に
-w: 2.~み よ み よ | あ れ み よ | い ざ と も | よ
-!mf! G3 E D2 E2 | G2 G2 B2 B2 | A2 A2 d3 d | G4 z4 |
-w: 1.~の き ば に | つ く ら ん | お ほ だ る | ま
-w: 2.~お ど ろ く | ば か り の | お ほ だ る | ま
-```
+<div class="abc-score" data-abc-src="yukidaruma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yukidaruma.abc)
 
 ## TMD 檔案連結
 

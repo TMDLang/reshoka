@@ -59,34 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:風車
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F3 G A4 | A3 B c4 | c3 c c2 d2 | c4 z4 |
-w: 1.~マ ハ ル | マ ハ ル | カ ザ グ ル | マ
-w: 2.~あ が る | あ が る | や つ こ だ | こ
-c4 d3 c | A3 A G3 F | G3 G C3 C | F3 G A2 z2 |
-w: 1.~カ ゼ ヨ | フ ケ フ ケ | ク ル マ ガ | マ ハ ル
-w: 2.~か ぜ よ | ふ け ふ け | や つ こ が | あ が る
-G3 G G4 | A3 A C3 C | A3 A G3 A | F4 z4 |
-w: 1.~ア マ リ | マ ハ ル ト | メ ガ マ ハ | ル
-w: 2.~あ ま り | あ が る と | め が ま は | る
-F3 G A4 | A3 B c4 | c3 c c2 d2 | c4 z4 |
-w: 1.~マ ハ ル | マ ハ ル | カ ザ グ ル | マ
-w: 2.~あ が る | あ が る | や つ こ だ | こ
-c4 d3 c | A3 A G3 F | G3 G C3 C | F3 G A2 z2 |
-w: 1.~カ ゼ ヨ | フ ケ フ ケ | ク ル マ ガ | マ ハ ル
-w: 2.~か ぜ よ | ふ け ふ け | や つ こ が | あ が る
-G3 G G4 | A3 A C3 C | A3 A G3 A | F4 z4 |
-w: 1.~ア マ リ | マ ハ ル ト | メ ガ マ ハ | ル
-w: 2.~あ ま り | あ が る と | め が ま は | る
-```
+<div class="abc-score" data-abc-src="kazaguruma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kazaguruma.abc)
 
 ## TMD 檔案連結
 

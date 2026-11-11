@@ -48,21 +48,9 @@ Annotations: ヘ調 4/4, (小学生ノ歌), 正聴会編 唱歌学習帳 四年
 
 ## ABC
 
-```abc
-X:1
-T:れんげさう
-C:曲：正聴会編 唱歌学習帳 四年
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mp! C4 A,4 C4 F4 | G4 A4 c4 A4 | G4 A2 G2 F4 D4 | C12 z4 |
-!mf! F4 A,4 C4 F4 | G2 A2 c4 c4 A4 | G6 A2 G2 F2 D4 | F12 z4 |
-!mf! G6 A2 c4 G4 | F4 D4 C4 F4 | G4 A2 G2 A4 c4 | !f! d8 c4 f4 |
-d2 c2 A4 c4 c4 | !p! d2 c2 A4 G2 A2 c4 | F4 G2 A2 G6 F2 | F12 z4 |
-```
+<div class="abc-score" data-abc-src="rengeso.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](rengeso.abc)
 
 ## TMD 檔案連結
 

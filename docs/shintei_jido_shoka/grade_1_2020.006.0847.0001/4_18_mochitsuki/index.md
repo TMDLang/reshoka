@@ -69,29 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:モチツキ（搗麻糬）
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=108
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-d2 A2 F2 z2 | A2 F2 D2 z2 | B2 A2 F F D2 | d2 A2 F2 z2 |
-w: 1.~ペッ タン コ | ペッ タン コ | ウン ト ツ ケ ヨ | ペッ タン コ
-w: 2.~ペッ タン コ | ペッ タン コ | シッ カリ ツ ケ ヨ | ペッ タン コ
-A A A2 B B A2 | d2 A2 F2 z2 | A3 A E2 F2 | A2 A2 B2 A2 |
-w: 1.~チ カ ラ ヲ イ レテ | ペッ タン コ | オ ホ キ ナ | オ モ チ ヲ
-w: 2.~カ ケ ゴ エ ア ハセテ | ペッ タン コ | シャ ウ グヮ ツ | モ _ チ ヲ
-d2 A2 F2 z2 | B2 A2 B2 A2 | d2 B2 B4 | d4 B2 d2 |
-w: 1.~ペッ タン コ | ペッ タン ペッ タン | ツ ケ ヨ | ハ ヤ ク
-w: 2.~ペッ タン コ | ペッ タン ペッ タン | ツ ケ ヨ | ハ ヤ ク
-A4 A2 F2 | D4 F4 | F2 E2 E4 | D6 z2 |
-w: 1.~シャ ウ グヮ | ツ ク | ル ヤ ウ | ニ
-w: 2.~シャ ウ グヮ | ツ ク | ル ヤ ウ | ニ
-```
+<div class="abc-score" data-abc-src="mochitsuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mochitsuki.abc)
 
 ## TMD 檔案連結
 

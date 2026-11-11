@@ -62,31 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:日曜日
-M:4/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z8 z4 F2 G2 | A6 A2 A2 G2 F2 G2 | F8 C4 F2 A2 | c6 c2 c2 B2 A2 B2 |
-w: 1.~の _ | べ に ゃ _ ゆ _ | か _ は _ | な を と _ り _
-w: 2.~き _ | の ふ ま _ な _ | び _ く _ | さ を た _ づ _
-A8 z4 F2 G2 | A6 A2 A2 G2 F2 G2 | F8 C4 F2 A2 | c6 c2 c2 B2 A2 B2 |
-w: 1.~に は _ | ま に ゃ _ ゆ _ | か _ か _ | ひ を ほ _ り _
-w: 2.~ね ち _ | づ に て _ み _ | た _ う _ | み べ た _ ど _
-!mf! A8 z4 c4 | d6 d2 d4 d4 | c8 A4 c4 | c4 B2 A2 B4 c4 |
-w: 1.~に ま | ち に ぞ ま | ち し け | ふ の _ や す
-w: 2.~る う | れ し や ま | ち し け | ふ の _ や す
-!f! A8 z4 c4 | d6 d2 f4 d4 | !mp! c8 A4 c4 | c4 B2 A2 B4 G4 |
-w: 1.~み う | れ し や か | ぜ も く | も も _ い で
-w: 2.~み た | の し や ま | ち し け | ふ の _ あ そ
-F8 z4 z4 |
-w: 1.~ず
-w: 2.~び
-```
+<div class="abc-score" data-abc-src="nichiyobi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nichiyobi.abc)
 
 ## TMD 檔案連結
 

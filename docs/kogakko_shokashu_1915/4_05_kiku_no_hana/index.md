@@ -62,29 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:菊の花
-C:曲：宮島慎三郎
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-E4 E4 G4 G4 | A12 z4 | d4 d4 B4 B4 | A4 A4 G4 G4 |
-w: 1.~た か さ ご | の | し ま に も | き _ く の
-w: 2.~こ ら が み | な | う _ た ふ | す が た の
-E4 E4 G4 E4 | A12 z4 | E6 E2 G4 G4 | A4 A4 G4 G4 |
-w: 1.~は な さ き | ぬ | い ざ い ざ | う た へ _
-w: 2.~た ふ と し | や | に _ ほ ふ | き ぎ く を
-c6 c2 c4 c4 | d12 z4 | c6 c2 c4 c4 | d4 d4 B4 B4 |
-w: 1.~き み が よ | を | い ざ い ざ | い は へ _
-w: 2.~か ざ し に | て | に _ ほ ふ | し ら ぎ く
-A6 A2 G4 E4 | D12 z4 |
-w: 1.~ち よ や ち | よ
-w: 2.~て に も ち | て
-```
+<div class="abc-score" data-abc-src="kiku_no_hana.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kiku_no_hana.abc)
 
 ## TMD 檔案連結
 

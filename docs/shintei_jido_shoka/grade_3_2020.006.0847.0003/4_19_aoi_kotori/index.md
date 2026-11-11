@@ -59,26 +59,9 @@ Key: G minor (relative major ?= Bb), 4/4 (<4/4>), Quarter = 96 (!= 96)
 
 ## ABC
 
-```abc
-X:1
-T:青い小鳥
-M:4/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! D8 E4 D4 | G4 B4 A4 G4 | E4 E4 E4 G4 | D4 D4 D4 z4 |
-w: あ を い | こ と り は | か は い い | と り よ
-!mf! D8 E4 D4 | G4 B4 A4 G4 | D4 z4 G4 z4 | A12 z4 |
-w: え だ に | と ま っ て | チッ チッ | チッ
-B8 A4 A4 | G8 E4 D4 | C4 C4 C4 E4 | D12 z4 |
-w: あ を い | そ ら を | み あ げ て | は
-!mf! G4 G4 A4 A4 | B8 A4 A4 | D4 d4 B4 G4 | A12 z4 |
-w: じ ぶ ん の | い ろ と | み く ら べ | て
-!f! d4 e4 d4 B4 | A4 G4 E4 D4 | B4 z4 A4 z4 | G12 z4 |
-w: か は い い | こ _ ゑ で | チッ チッ | チッ
-```
+<div class="abc-score" data-abc-src="aoi_kotori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](aoi_kotori.abc)
 
 ## TMD 檔案連結
 

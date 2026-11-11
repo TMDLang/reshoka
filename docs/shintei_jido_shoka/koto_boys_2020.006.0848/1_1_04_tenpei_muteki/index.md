@@ -65,21 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:天兵無敵
-C:曲：北村季晴（編）
-M:4/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C2 D2 E2 F2 G4 E4 | F2 G2 A2 F2 G4 z4 | A2 A2 G2 G2 F2 F2 E2 E2 | D2 E2 F2 E2 D4 z4 |
-G8 c8 | B8 G4 z4 | A2 A2 G2 G2 ^F2 F2 G2 A2 | d8 G4 z4 |
-G2 G2 G2 G2 G2 F2 E2 F2 | G2 A2 G2 F2 E4 z4 | D2 D2 E2 F2 G4 G4 | A2 B2 c2 A2 G4 z4 |
-c4 G4 E2 F2 G2 E2 | F2 G2 A2 B2 c4 z4 | d2 d2 c2 A2 G4 B4 | c12 z4 |
-```
+<div class="abc-score" data-abc-src="tenpei_muteki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tenpei_muteki.abc)
 
 ## TMD 檔案連結
 

@@ -60,25 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:かゞやく光
-M:4/4
-L:1/16
-Q:1/4=108
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B6 c2 B4 A4 | G4 G4 D4 z4 | G4 A2 A2 G4 B4 | d8 B4 z4 |
-w: 1.~み ゆ み の | は ず に | きん い ろ の と | び _
-w: 2.~む か し の | ひ か り | い ま も そ の | ま ま
-d6 d2 B4 G4 | E4 A4 A8 | B4 G2 A2 B4 z4 | d4 B2 G2 A4 z4 |
-w: 1.~か が や く | ひ か り | き ら き ら | ぴ か ぴ か
-w: 2.~む ね の く | ん しや う | き ら き ら | ぴ か ぴ か
-B6 c2 B4 A4 | G4 G4 D4 G4 | A4 d4 B6 G2 | A4 B2 A2 G4 z4 |
-w: 1.~ま _ な こ | く ら ん で | に げ ゆ く | わ る も の
-w: 2.~ほ ま れ か | が や く に | ほ ん ぐ ん | じ _ _ ん
-```
+<div class="abc-score" data-abc-src="kagayaku_hikari.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kagayaku_hikari.abc)
 
 ## TMD 檔案連結
 

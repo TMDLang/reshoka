@@ -60,29 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:勅語奉答
-C:曲：宮島慎三郎
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-A6 A2 A4 A4 | B8 A4 A4 | F6 F2 E4 D4 | E12 z4 |
-w: あ な た ふ | と し や | あ き ら け | く
-A6 A2 F4 D4 | B8 A4 A4 | F6 F2 E4 E4 | D12 z4 |
-w: を さ ま る | み よ の | す め ら ぎ | の
-[Q:1/4=104] E8 E4 E4 | F4 E4 D4 D4 | E4 E4 D4 E4 | F12 z4 |
-w: く だ し | た ま ひ し | お ほ み こ | と
-E6 E2 E4 E4 | F4 E4 D4 D4 | F4 F4 E4 E4 | D12 z4 |
-w: み こ と の | む _ ね を | み に し め | て
-[Q:1/4=96] A8 A4 A4 | d4 d4 A4 A4 | F6 F2 E4 D4 | A12 z4 |
-w: あ さ な | ゆ ふ な に | ま も ら な | む
-d6 d2 A4 A4 | B8 A4 F4 | E4 E4 A6 A2 | D12 z4 |
-w: あ な た ふ | と し や | お ほ み こ | と
-```
+<div class="abc-score" data-abc-src="chokugo_hoto.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](chokugo_hoto.abc)
 
 ## TMD 檔案連結
 

@@ -55,28 +55,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:淡水河
-M:6/8
-L:1/16
-Q:3/8=42
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z2 z2 z2 B,2 E2 F2 | G6 G4 A2 | G4 F2 E4 G2 | F4 B2 G6 |
-w: オ ホ ゾ | ラ ハ ア | ケ ノ ヒ カ | リ _ ニ
-z4 z2 B,2 E2 F2 | G6 G4 A2 | G4 F2 E4 G2 | F6 B4 z2 |
-w: カ ガ ヤ | キ テ カ | ハ モ フ カ | ク _
-z4 z2 =A2 B2 c2 | B4 A2 G6 | G2 A2 B2 c2 e2 d2 | B12 |
-w: キ リ タ | チ コ メ | ミ ヅ ハ シ ヅ カ | ニ
-z4 z2 _d2 c2 =B2 | c6 B2 c2 A2 | G6 B2 B2 B2 | E6 E2 D2 E2 |
-w: ナ ガ ル | ル カ ナ _ | タ ア サ カ | セ ス ズ シ
-!ff! c12 | z4 z2 B2 =A2 B2 | f4 B2 c4 _d2 | c6 d2 e2 c2 |
-w: ク | ホ ニ ハ | ラ マ セ _ | テ ヂヤ ン ク
-A2 B2 c2 F2 G2 A2 | G4 F2 E4 D2 | C4 D2 E6 | E6 z6 |
-w: ユ ク ナ リ _ ヨ | ツ マ タ イ | ツ _ ツ | _
-```
+<div class="abc-score" data-abc-src="tansuigawa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tansuigawa.abc)
 
 ## TMD 檔案連結
 

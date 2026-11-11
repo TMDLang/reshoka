@@ -74,26 +74,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:イケノコヒ（池中鯉魚）
-C:曲：文部省
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B3 A G2 D2 | B3 A G2 D2 | G2 A2 B3 c | A6 z2 |
-w: 1.~デ テ コ イ | デ テ コ イ | イ ケ ノ コ | ヒ
-w: 2.~デ テ コ イ | デ テ コ イ | イ ケ ノ コ | ヒ
-G3 A B4 | A2 A2 G2 E2 | D3 D D2 D2 | E2 E2 D4 |
-w: 1.~ソ コ ノ | マ ツ モ ノ | シ ゲ ツ タ | ナ カ デ
-w: 2.~キ シ ノ | ヤ ナ ギ ノ | シ ダ レ タ | カ ゲ ヘ
-d3 d d2 B,2 | G3 G G2 A2 | B B B B d2 z2 | A A A A G2 z2 |
-w: 1.~テ ノ ナ ル | オ _ ト ヲ | キ イ タ ラ コイ | キ イ タ ラ コイ
-w: 2.~ナ _ ゲ タ | ヤ キ フ ガ | ミ エ タ ラ コイ | ミ エ タ ラ コイ
-```
+<div class="abc-score" data-abc-src="ike_no_koi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ike_no_koi.abc)
 
 ## TMD 檔案連結
 

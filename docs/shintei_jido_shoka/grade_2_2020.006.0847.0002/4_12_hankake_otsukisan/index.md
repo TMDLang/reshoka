@@ -66,29 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:半カケオ月サン
-C:曲：草川信
-M:2/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! c2 c2 c2 d2 | c2 c c c2 z2 | c2 A2 G2 F2 | G4 z4 |
-w: 1.~ハ ン カ ケ | オ ツ キ サン | ド コ ヘ ユ | ク
-w: 2.~ハ ン カ ケ | オ ツ キ サン | ド コ ヘ ユ | ク
-!mp! D2 D2 D2 C2 | D2 D2 D2 C2 | F2 G2 F2 G2 | A4 z4 |
-w: 1.~ハ ン ブ ン | サ ガ シ ニ | ヤ マ ヘ ユ | ク
-w: 2.~オ ヤ マ ニ | ナ イ カ ラ | ウ ミ ヘ ユ | ク
-!f! c2 d2 c2 A2 | c2 d2 c2 A2 | c2 d2 c2 A2 | d4 z4 |
-w: 1.~ヤ マ ニ ハ | グ ミ ノ キ | サ ン シヨ ノ | キ
-w: 2.~ウ ミ ニ ハ | イ ロ ガ ヒ | コ ヤ ス ガ | ヒ
-c2 d2 c2 A2 | G2 F2 D2 C2 | !mp! G2 A2 G2 G2 | F4 z4 |
-w: 1.~ツ _ キ ノ | カ ケ ラ ハ | ミ ア タ ラ | ヌ
-w: 2.~ツ _ キ ノ | カ ケ ラ ハ | ミ ア タ ラ | ヌ
-```
+<div class="abc-score" data-abc-src="hankake_otsukisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hankake_otsukisan.abc)
 
 ## TMD 檔案連結
 

@@ -66,32 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:我が帝國
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z12 C3 C | F8 F4 F3 G | A8 F4 A3 c | c6 A2 F4 A4 |
-w: 1.~せ か | い に ま た | な き わ が | く に が ら
-w: 2.~の は | ら を な が | る る か は | の ご と く
-!f! G8 z4 c3 c | c8 A4 d3 c | !mf! c12 F3 G | A6 B2 G4 G4 |
-w: 1.~よ た め | し も あ ら | ぬ こ の | お ほ み よ
-w: 2.~に す す | み て や ま | ぬ こ の | お ほ み よ
-!mp! F8 z4 E3 F | G8 G4 F3 G | !mf! A8 A4 c3 c | d6 c2 c4 A4 |
-w: 1.~よ く も | ま に そ び | ゆ る や ま | の ご と く
-w: 2.~よ あ あ | わ が く _ | に は よ き | く に が ら
-!f! G8 z4 c3 c | c8 A4 d3 c | !mf! c8 A4 F3 G | A6 B2 G4 G4 |
-w: 1.~に う ご | か ず か は | ら ぬ わ が | く に が ら
-w: 2.~よ こ の | お ほ み _ | よ は さ か | ゆ る み よ
-F8 z8 |
-w: 1.~よ
-w: 2.~よ
-```
+<div class="abc-score" data-abc-src="waga_teikoku.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](waga_teikoku.abc)
 
 ## TMD 檔案連結
 

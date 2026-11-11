@@ -66,31 +66,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:螢
-M:4/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G6 G2 G4 G4 | A4 G4 E4 C4 | c6 d2 e4 d2 c2 | d12 z4 |
-w: 1.~イ ザ コ ヨ | ホ _ タ ル | コ コ ニ キ _ | テ
-w: 2.~い ざ こ よ | ほ _ た る | こ こ に き _ | て
-A6 A2 G4 A4 | G4 G4 E4 E4 | D6 D2 D4 C2 E2 | G12 z4 |
-w: 1.~テ _ ラ セ | フ ミ ヨ ム | ワ ガ マ ド _ | ヲ
-w: 2.~と _ も せ | や み よ の | と も し び _ | を
-c4 c4 G4 c4 | d8 c4 d4 | A8 c4 A4 | G4 A4 E4 z4 |
-w: 1.~ミ ツ ヨ ツ | フ タ ツ | ツ ユ ト | チ _ リ
-w: 2.~あ つ め し | ひ と の | む か し | ま _ で
-A4 A4 G4 G4 | E4 E4 C4 C4 | D8 G4 A4 | G4 c4 d4 z4 |
-w: 1.~タ マ ト ゾ | カ ガ ヤ ク | オ モ シ | ロ _ ノ
-w: 2.~お も ひ ぞ | や ら る る | な つ か | し _ の
-e12 d4 | c12 z4 |
-w: 1.~ム シ | ヨ
-w: 2.~む し | よ
-```
+<div class="abc-score" data-abc-src="hotaru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hotaru.abc)
 
 ## TMD 檔案連結
 

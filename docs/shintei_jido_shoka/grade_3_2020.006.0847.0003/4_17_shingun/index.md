@@ -63,32 +63,9 @@ Key: F major (?= F), 2/4 (<2/4>), ゲンキニ Quarter = 116 (!= 116)
 
 ## ABC
 
-```abc
-X:1
-T:進軍
-M:2/4
-L:1/16
-Q:1/4=116
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C2 C C C2 C2 | F2 F2 F4 | A2 F2 A2 F2 | c6 z2 |
-w: ト ト ト ト ト | タ タ タ | テ ト テ ト | タ
-c2 c c c2 c2 | A c A2 F4 | c2 c c c2 c2 | c6 z2 |
-w: タ タ タ タ タ | ト テ ト ト | タ タ タ タ タ | タ
-C4 C2 C2 | F4 F2 F2 | A2 A2 A2 A2 | c6 z2 |
-w: ラッ パ の | お と は | い さ ま し | い
-c3 c c2 c2 | A4 A4 | F2 A2 G2 F2 | C2 C2 C4 |
-w: む ね に は | くん しゃう | ピ カ ピ カ | さ せ て
-D2 D2 D2 D2 | F4 C4 | F2 A2 G2 F2 | c2 c2 c4 |
-w: お て て に | サー ベル | ギ ラ ギ ラ | さ せ て
-d3 d c2 c2 | A4 F4 | c3 c c2 c2 | c4 A2 F2 |
-w: あ と か ら | たい しゃう | お う ま で | く る よ
-C2 C C C2 C2 | F2 F2 F4 | A2 F2 A2 F2 | c6 z2 |
-w: ト ト ト ト ト | タ タ タ | テ ト テ ト | タ
-c2 c c c2 c2 | A c A2 F4 | c2 A2 F2 C2 | F6 z2 |
-w: タ タ タ タ タ | ト テ ト ト | テ ト タ ト | タ
-```
+<div class="abc-score" data-abc-src="shingun.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shingun.abc)
 
 ## TMD 檔案連結
 

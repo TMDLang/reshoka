@@ -53,19 +53,9 @@ Key: ヘ調 (F major), Time: 2/4, Tempo: 軽快ニ
 
 ## ABC
 
-```abc
-X:1
-T:山の飴屋（山上的糖果店）
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-c4 c4 | A2 A2 A2 A2 | d4 G2 G2 | G4 z4 |
-F4 D2 F2 | G2 A2 G2 F2 | G2 G2 G2 A2 | G4 z4 |
-c4 d2 c2 | A2 c2 A2 F2 | A2 A2 G2 G2 | F4 z4 |
-```
+<div class="abc-score" data-abc-src="yama_no_ameya.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yama_no_ameya.abc)
 
 ## TMD 檔案連結
 

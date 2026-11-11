@@ -58,31 +58,9 @@ Key: D major (?= D), 4/4 (<4/4>), Quarter = 96 (!= 96)
 
 ## ABC
 
-```abc
-X:1
-T:終業式
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 D4 | F6 E2 F4 G4 | A8 A4 A4 | G6 F2 G4 A4 |
-w: 1.~ま | な び の に | は よ し | の _ き み
-w: 2.~あ | あ わ が と | も よ に | し _ ひ が
-F12 D4 | F6 E2 F4 G4 | A8 A4 A4 | G6 F2 G4 A4 |
-w: 1.~よ け | ふ し も と | ざ す ま | ど _ の う
-w: 2.~し し | ば し た も | と を わ | か _ つ と
-F12 D4 | D4 B4 B4 B4 | B4 B4 B4 B4 | B4 d4 c4 B4 |
-w: 1.~ち ゆ | くゎ い に わ | か れ ん い | ざ _ さ ら
-w: 2.~も わ | が し の を | し へ を ま | も _ り つ
-A12 A4 | d6 F2 F4 F4 | A8 A4 A4 | G6 F2 G4 E4 |
-w: 1.~ば ま | た こ ん は | る も さ | ち _ あ れ
-w: 2.~つ ま | な び の わ | ざ を お | こ _ た る
-D12 z4 |
-w: 1.~と
-w: 2.~な
-```
+<div class="abc-score" data-abc-src="shugyoshiki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shugyoshiki.abc)
 
 ## TMD 檔案連結
 

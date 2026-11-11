@@ -54,23 +54,9 @@ Dynamics: p, f, mf, ff
 
 ## ABC
 
-```abc
-X:1
-T:新高山 新高山／玉山
-M:3/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-G,3 G, G,4 c4 | c3 B B4 z4 | G,3 G, G,4 d4 | d3 c c4 z4 |
-e3 e d4 d4 | d3 c B4 A4 | A8 ^F4 | G8 z4 |
-B,3 B, B,4 B,4 | c3 B A4 G4 | G8 G4 | G8 z4 |
-B,3 B, B,4 B,4 | c3 d e4 d4 | d8 c4 | B8 z4 |
-G,3 G, G,4 c4 | _B,3 A, A,4 z4 | A,3 A, A,4 d4 | C3 ^F B,4 B,2 z2 |
-e3 e f4 d4 | c8 B4 | c8 z4 | e3 e f4 d4 |
-c8 B4 | c8 z4 |
-```
+<div class="abc-score" data-abc-src="niitakayama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](niitakayama.abc)
 
 ## TMD 檔案連結
 

@@ -65,28 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:とけいのうた（時鐘之歌）
-M:2/4
-L:1/16
-Q:1/4=92
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G2 G2 G2 A2 | B2 B2 A2 G2 | B4 A4 | A4 G4 |
-w: 1.~と け い は | あ さ か ら | かつ ちん | かつ ちん
-w: 2.~と け い は | ば ん で も | かつ ちん | かつ ちん
-A2 A2 d2 d2 | B2 A2 G2 G2 | A2 A2 d2 d2 | B2 A2 G2 D2 |
-w: 1.~お ん な じ | ひ び き で | う ご い て | を れ ど も
-w: 2.~わ れ ら が | ね ど こ で | や す ん で | を る ま も
-E2 E2 E2 D2 | E2 E2 E2 D2 | G2 G2 A2 A2 | B2 B2 A2 G2 |
-w: 1.~ち つ と も | お ん な じ | と こ ろ を | さ さ ず に
-w: 2.~ち つ と も | や す ま ず | い き を も | つ か ず に
-A2 A2 d2 d2 | B2 B2 A2 G2 | B4 A4 | A4 G4 |
-w: 1.~ば ん ま で | か う し て | かつ ちん | かつ ちん
-w: 2.~あ さ ま で | か う し て | かつ ちん | かつ ちん
-```
+<div class="abc-score" data-abc-src="tokei_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tokei_no_uta.abc)
 
 ## TMD 檔案連結
 

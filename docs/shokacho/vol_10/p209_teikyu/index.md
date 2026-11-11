@@ -90,24 +90,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:庭球 網球
-M:2/4
-L:1/16
-Q:1/4=132
-K:G
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
-B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |
-D3 D D3 D | E3 E D3 D | D3 B A3 G | A6 z2 |
-B3 A G3 G | A3 G E3 E | D3 G B3 A | G6 B2 |
-d6 e2 | d3 B G2 ^A B | A3 A D3 D | G6 z2 |
-G2 A2 G2 F2 | E3 F E3 D | E3 E D3 F | A6 G2 |
-A6 B2 | A3 G A3 B | d3 d d3 e | d6 B2 |
-d6 e2 | d3 B G2 ^A B | A3 A B3 A | G6 z2 |
-```
+<div class="abc-score" data-abc-src="teikyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](teikyu.abc)
 
 ## TMD 檔案連結
 

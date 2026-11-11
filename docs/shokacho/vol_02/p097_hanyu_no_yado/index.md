@@ -65,21 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:埴生の宿
-C:曲：Henry Rowley Bishop（Home! Sweet Home!）
-M:4/4
-L:1/16
-Q:1/4=84
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z4 z4 z4 D4 | E3 F F3 A G4 F2 G2 | F3 E F2 E2 D4 z2 D2 | E3 F F3 A G4 F2 G2 |
-F3 E F2 E2 D4 z2 A2 | d3 c B3 A A4 F2 A2 | G3 F G2 E2 F4 z2 A2 | d3 c B3 A A4 F2 A2 |
-G3 F G2 E2 D4 z4 | A8 z4 z4 | d4 A4 G4 E4 | F8 z4 A4 |
-d3 c B3 A A4 F2 A2 | G3 F G2 E2 D4 z4 |
-```
+<div class="abc-score" data-abc-src="hanyu_no_yado.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hanyu_no_yado.abc)
 
 ## TMD 檔案連結
 

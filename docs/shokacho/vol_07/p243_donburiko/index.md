@@ -58,20 +58,9 @@ Key: ハ調 (C major), Time: 2/4
 
 ## ABC
 
-```abc
-X:1
-T:どんぶりこ（漂呀漂）
-M:2/4
-L:1/16
-Q:1/4=104
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! z2 c2 c2 d2 | c2 B A G2 z2 | !p! z2 G2 G2 A2 | G2 F E D2 z2 |
-!mf! C3 C D2 E2 | G3 G A2 G2 | G3 G E2 D2 | C6 z2 |
-!f! F4 F2 F2 | F2 E F G2 z2 | A3 G c2 d2 | e6 z2 |
-!mf! C3 C D2 E2 | G G G2 A2 G2 | G3 G E2 D2 | C6 z2 |
-```
+<div class="abc-score" data-abc-src="donburiko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](donburiko.abc)
 
 ## TMD 檔案連結
 

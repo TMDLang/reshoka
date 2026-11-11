@@ -61,22 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:殖民の歌
-M:4/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! c3 =B c2 d2 c4 A4 | G4 A4 F4 G3 A | G4 F4 E4 F4 | D8 z4 G4 |
-G3 ^F G2 A2 c4 c4 | c4 z2 G2 G3 A G2 E2 | D4 G,4 C4 z2 C2 | F4 F3 D F4 G4 |
-A4 A4 A4 A3 B | c4 A4 F4 A3 c | F3 D E3 ^F G4 G3 A | A4 z4 z4 A3 G |
-F4 z4 z4 F3 G | A4 A4 A4 A3 G | F3 E D3 C D4 G3 G | c8 z4 =B3 c |
-d8 z4 G3 A | [Q:1/4=96] c3 A F3 A G4 c3 d | c4 G4 F4 C3 C | F3 G A3 B c4 F4- |
-F8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="shokumin_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shokumin_no_uta.abc)
 
 ## TMD 檔案連結
 

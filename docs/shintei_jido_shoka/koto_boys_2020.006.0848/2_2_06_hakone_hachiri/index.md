@@ -71,25 +71,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:箱根八里
-C:曲：瀧廉太郎
-M:4/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! C,3 D, E,3 F, G,3 A, G,4 | C3 G, A,2 G,2 E,4 z4 | D,3 D, E,3 G, A,4 G,4 | E,3 G, D,3 E, C,4 z4 |
-!ff! C4 C4 E3 D C2 z2 | A,4 A,4 C3 A, G,2 z2 | !f! A,3 A, G,3 E, G,3 G, A,2 C2 | G,3 A, G,3 E, D,3 C, D,4 |
-C,4/3 D,4/3 E,4/3 G,4/3 A,4/3 G,4/3 E,3 D, C,4 | E,4/3 G,4/3 A,4/3 C4/3 D4/3 C4/3 A,3 G, A,4 | !ff! C6 D2 E4 C4 | A,4 G,4 A,4 z4 |
-E,3 G, A,3 C G,3 A, G,4 | !mf! E,4 z4 D3 E D4 | C4 A,4 G,4 z4 | E,8 G,8 |
-E,4 G,3 E, D,4 z4 | G,6 E,2 D,3 C, D,4 | G,6 A,2 G,4 E,4 | D8 G,4 G,4 |
-E,3 D, C,3 D, E,4 z4 | !f! C3 G, E,3 G, C3 G, E,2 G,2 | A,3 A, A,3 B, C3 C C3 D | E4 D3 C D3 C A,4 |
-C4 A,3 G, E,2 D,2 C,4 | !f! D3 D C3 A, G,3 A, C4 | A,4 G,3 E, D,4 G,4 | E8 D3 C A,4 |
-C3 D E4 D8 | C8 A,4 G,4 | E,3 G, D,2 E,2 C,4 z4 |
-```
+<div class="abc-score" data-abc-src="hakone_hachiri.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hakone_hachiri.abc)
 
 ## TMD 檔案連結
 

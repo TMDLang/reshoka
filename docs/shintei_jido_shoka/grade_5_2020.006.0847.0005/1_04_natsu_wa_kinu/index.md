@@ -73,25 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:夏は來ぬ
-C:曲：小山作之助
-M:4/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C6 D2 E4 G4 | A2 A2 G2 A2 c2 A2 G4 | A4 c2 A2 G4 E4 | D2 D2 E2 G2 E2 D2 C4 |
-w: 1.~う の は なの | に ほ ふ か き ね に | ほ と と ぎ す | は や も き な き て
-w: 2.~さ み だ れの | そ そ ぐ や ま だ に | し づ の め が | も す そ ぬ ら し て
-w: 3.~た ち ば なの | か を る の き ば の | ま ど ち か く | ほ た る と び か ひ
-G4 E4 G4 c4 | A2 c2 d2 c2 A8 | G6 E2 D4 E2 D2 | C12 z4 |
-w: 1.~し の び ね | も _ ら _ す | な つ _ は き | ぬ
-w: 2.~た ま な へ | う _ う _ る | な つ _ は き | ぬ
-w: 3.~お こ た り | い _ さ _ むる | な つ _ は き | ぬ
-```
+<div class="abc-score" data-abc-src="natsu_wa_kinu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](natsu_wa_kinu.abc)
 
 ## TMD 檔案連結
 

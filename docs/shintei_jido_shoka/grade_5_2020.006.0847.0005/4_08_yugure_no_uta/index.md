@@ -67,34 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:夕暮の唄
-M:4/4
-L:1/16
-Q:1/4=72
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B2 A2 F2 E10 | B2 A2 F2 E10 | E2 E2 F2 F2 G4 B4 | A4 G2 E2 B,8 |
-w: コ バ _ ト | コ バ _ ト | シ ロ イ ケ ノ _ | コ バ _ ト
-E2 E2 F2 F2 G4 B4 | A4 G2 E2 B,8 | E4 G4 F3 F E4 | F4 A4 E8 |
-w: ク ロ イ ケ ノ _ | コ バ _ ト | モ リ カ ラ _ | ト ン デ
-B3 B A3 A G2 B2 F4 | E4 G2 F2 E8 | B2 A2 F2 E2 F3 F E2 F2 | G2 F2 E2 E10 |
-w: オ テ ラ ノ ノ キ ニ | ネ ム _ レ | ネ ム _ レ カ ア イ イ | コ ト _ リ
-B2 A2 F2 E10 | B2 A2 F2 E10 | E2 E2 F2 F2 G4 B4 | A4 G2 E2 B,8 |
-w: こ ど _ も | こ ど _ も | は す を も つ _ | こ ど _ も
-E2 E2 F2 F2 G4 B4 | A4 G2 E2 B,8 | E4 G4 F3 F E4 | F4 A4 E8 |
-w: ゆ り を も つ _ | こ ど _ も | ま _ ん _ _ | ご _ の
-B3 B A3 A G2 B2 F4 | E4 G2 F2 E8 | B2 A2 F2 E2 F3 F E2 F2 | G2 F2 E2 E10 |
-w: も _ り の し た に | あ そ _ べ | あ そ _ べ わ た し の | こ ど _ も
-z2 E2 E2 E2 F2 E2 F2 A2 | G2 G2 F2 E2 F2 F2 B4 | E2 E2 F2 F2 G2 F2 E2 B,2 | E4 G4 F2 F2 E2 F2 |
-w: コ サ メ ム ラ サ メ | メ グ ミ ノ コ サ メ | メ グ ミ ノ ム ラ サ メ | ノ ニ ソ ソ ギ _
-E2 E2 G2 G2 F2 A2 B4 | A4 G2 E2 G8 | A4 G2 E2 B,8 | E6 E2 F4 A4 |
-w: モ リ ニ ソ ソ イ デ | フ _ _ レ | フ _ _ レ | ム ラ サ メ
-G2 F2 E2 E10 |
-w: コ サ _ メ
-```
+<div class="abc-score" data-abc-src="yugure_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yugure_no_uta.abc)
 
 ## TMD 檔案連結
 

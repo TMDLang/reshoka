@@ -69,19 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:蜜蜂
-M:2/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F2 C2 C2 C2 | A2 F2 F4 | c2 A2 G2 F2 | G2 C2 C4 |
-D2 F2 E2 D2 | C2 B2 A4 | G2 A2 G2 F2 | E2 D2 C4 |
-c4 c4 | c2 A2 c4 | D2 F2 E2 G2 | F6 z2 |
-```
+<div class="abc-score" data-abc-src="mitsubachi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mitsubachi.abc)
 
 ## TMD 檔案連結
 

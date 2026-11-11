@@ -60,27 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:誠の道
-C:曲：歐洲曲
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! z4 z4 z4 C4 | E6 D2 E4 F4 | G4 A4 G4 E4 | C4 D4 E4 F4 |
-!mp! G12 C4 | C6 B,2 C4 D4 | E4 F4 E4 C4 | E4 D4 C4 B,4 |
-C12 z4 | z16 | z16 | z16 |
-z16 |
-[V:V2]
-z16 | z16 | z16 | z16 |
-!mf! z4 z4 z4 C4 | E6 D2 E4 F4 | G4 A4 G4 E4 | C4 D4 E4 F4 |
-!mp! G12 C4 | C6 B,2 C4 D4 | E4 F4 E4 C4 | E4 D4 C4 B,4 |
-C12 z4 |
-```
+<div class="abc-score" data-abc-src="makoto_no_michi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](makoto_no_michi.abc)
 
 ## TMD 檔案連結
 

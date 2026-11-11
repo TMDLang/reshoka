@@ -68,28 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ネコトカヘル（貓與青蛙）
-M:2/4
-L:1/16
-Q:1/4=92
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-c2 c2 A2 A2 | c2 c2 A2 A2 | c2 c2 d2 d2 | c2 c2 A4 |
-w: 1.~ネ _ コ ガ | ト ビ ツ ク | カ ヘ ル ノ | ウ ヘ ニ
-w: 2.~ト ガ ツ タ | ツ _ メ ニ | オ ホ キ イ | メ ダ マ
-c2 c2 d2 d2 | c2 c2 A2 A2 | G2 G2 G2 G2 | A2 F2 G4 |
-w: 1.~カ ヘ ル ハ | カ ク レ ル | シ ゲ ツ タ | ク サ ニ
-w: 2.~ネ _ コ ガ | ア ト カ ラ | オ ツ カ ケ | テ ク ル
-F4 G2 G2 | A4 F2 G2 | A2 A2 c2 c2 | d2 d2 c4 |
-w: 1.~ネ コ ヨ | ネ コ ヨ | シ ヅ カ ニ | サ ガ セ
-w: 2.~カ ヘ ル | カ ヘ ル | ソ コ カ ラ | ニ ゲ テ
-c2 c2 c2 A2 | d2 d d c2 z2 | A2 c2 A2 F2 | G2 A2 F4 |
-w: 1.~ア _ _ レ | ト ビ ダ ス | チ イ サ イ | カ ヘ ル
-w: 2.~ド ブ ン ト | ト ビ コ メ | オ イ ケ ノ | ミ ヅ ニ
-```
+<div class="abc-score" data-abc-src="neko_to_kaeru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](neko_to_kaeru.abc)
 
 ## TMD 檔案連結
 

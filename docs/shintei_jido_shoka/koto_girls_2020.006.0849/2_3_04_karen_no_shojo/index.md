@@ -60,21 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:可憐の少女
-M:6/8
-L:1/16
-Q:3/8=48
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! z2 z2 z2 z2 z2 E,2 | A,4 B,2 C4 D2 | E2 D2 C2 B,2 A,2 B,2 | C4 B,2 A,2 B,2 C2 |
-B,6 E,4 E,2 | A,4 B,2 C4 D2 | E2 D2 C2 B,2 A,2 B,2 | C4 B,2 A,4 B,2 |
-A,6 A,4 z2 | !mf! E2 F2 E2 D4 B,2 | C4 A,2 E4 E2 | D2 C2 B,2 C2 D2 E2 |
-A,6 A,4 z2 | !mp! C2 B,2 A,2 G,4 A,2 | B,4 C2 D4 B,2 | C2 B,2 A,2 ^G,2 A,2 B,2 |
-A,6 A,4 z2 |
-```
+<div class="abc-score" data-abc-src="karen_no_shojo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](karen_no_shojo.abc)
 
 ## TMD 檔案連結
 

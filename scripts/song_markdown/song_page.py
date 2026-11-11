@@ -344,9 +344,9 @@ def generate_song_folder(
 
 ## ABC
 
-```abc
-{abc.rstrip()}
-```
+<div class="abc-score" data-abc-src="{abc_path.name}" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔]({abc_path.name})
 
 ## TMD 檔案連結
 

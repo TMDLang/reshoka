@@ -69,31 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:月
-M:2/4
-L:1/16
-Q:1/4=44
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-[Q:1/4=44] !mp! E2 A2 B2 c2 | B2 B2 A4 | E2 A2 B2 c2 | B6 z2 |
-w: 1.~う さ ぎ が | も ち を | つ く と い | ふ
-w: 2.~か つ ら の | は な が | さ く と い | ふ
-!mf! e2 e2 c2 e2 | B2 B2 A4 | B2 B2 B2 B2 | E6 z2 |
-w: 1.~い に し へ | び と の | か た り つ | ぎ
-w: 2.~ふ る う た | び と の | い ひ つ た | へ
-!mp! D4 E2 E2 | D2 E2 F2 A2 | B2 B2 B2 B2 | B6 z2 |
-w: 1.~つ き の | せ か い の | あ の く ま | は
-w: 2.~つ き の | せ か い の | あ の く ま | は
-!mp! e4 e2 e2 | A2 B2 c2 c2 | E2 A2 B2 c2 | A6 z2 |
-w: 1.~い ま も | そ び ゆ る | や ま の か | げ
-w: 2.~む か し | た た へ し | う み の あ | と
-[Q:1/4=58] A2 B2 c2 c2 | B2 A2 F2 E2 | A2 F2 E2 D2 | E6 z2 |
-w: 1.~じゅ _ ご や | お つき さ ま | み て は ね | る
-w: 2.~も _ み ぢ | す れ ば や | て り ま さ | る
-```
+<div class="abc-score" data-abc-src="tsuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsuki.abc)
 
 ## TMD 檔案連結
 

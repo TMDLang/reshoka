@@ -85,24 +85,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:お二人さん
-M:4/4
-L:1/16
-Q:1/4=76
-K:C
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-z2 c c A2 c2 d4 e3 e | d2 e2 c2 A2 G6 z2 | G4 G2 E2 D3 D E2 G2 | z2 E G E2 G2 A4 c2 c2 |
-w: 1.~あ め が ふ りゃ さ さ | あ め が ふ りゃ | さ っ と ちゃ の き の | し ん め が の ぞ く
-w: 2.~あ き が く りゃ さ さ | あ き が く りゃ | ほ に ほ つ な い だ | う れ し い み の り
-w: 3.~つ き が で りゃ さ さ | つ き が で りゃ | かん しゃ ば た け の しら | ほ _ が う い て _
-z2 c d e2 e2 d2 e2 c2 A2 | z2 G G A2 c c d6 z2 | z2 E2 G2 A2 c2 d2 A2 G2 | z2 E G A2 E2 A6 z2 |
-w: 1.~し ま の ほ く ぶ は _ | ほ ほ お ふた り さ | あ ぢ な い ち や に | ね む ら れ ぬ
-w: 2.~し ま の ちゅ う ぶ は _ | ほ ほ お ふた り さ | ひゃ く ま ん ご く も | よ い わ い な
-w: 3.~し ま の な ん ぶ は _ | ほ ほ お ふた り さ | あ ま い こ ひ か や | さ た う か や
-```
+<div class="abc-score" data-abc-src="ofutarisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ofutarisan.abc)
 
 ## TMD 檔案連結
 

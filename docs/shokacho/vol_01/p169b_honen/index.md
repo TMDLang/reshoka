@@ -61,28 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:豊年 輪唱歌
-M:3/4
-L:1/16
-Q:1/4=108
-K:A
-V:V1 name="Voice1" snm="Voi"
-V:V2 name="Voice2" snm="Voi"
-[V:V1]
-E4 E4 E4 | A4 A4 A4 | B6 c2 d4 | c4 c4 c4 |
-e4 e4 e4 | e4 c4 A4 | G6 A2 B4 | A8 z4 |
-E4 E4 E4 | A4 A4 A4 | B6 c2 d4 | c4 c4 c4 |
-e4 e4 e4 | e4 c4 A4 | G6 A2 B4 | A8 z4 |
-z12 | z12 | z12 | z12 |
-[V:V2]
-z12 | z12 | z12 | z12 |
-E4 E4 E4 | A4 A4 A4 | B6 c2 d4 | c4 c4 c4 |
-e4 e4 e4 | e4 c4 A4 | G6 A2 B4 | A8 z4 |
-E4 E4 E4 | A4 A4 A4 | B6 c2 d4 | c4 c4 c4 |
-e4 e4 e4 | e4 c4 A4 | G6 A2 B4 | A8 z4 |
-```
+<div class="abc-score" data-abc-src="honen.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](honen.abc)
 
 ## TMD 檔案連結
 

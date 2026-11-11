@@ -71,22 +71,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ヲーターロー
-C:曲：山田源一郎
-M:2/4
-L:1/16
-Q:1/4=100
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! E2 E2 E2 E2 | G6 F2 | G2 F2 G2 A2 | B6 B2 |
-B4 B4 | e2 d2 c2 B2 | F2 E2 ^A,2 E2 | F2 F2 B,4 |
-!mp! E4 D4 | C4 B,4 | A,2 A,2 B,2 C2 | B,3 A, B,4 |
-!f! E4 A4 | c3 B A4 | G4 A3 G | F2 E2 B,2 z2 |
-!mf! B,4 E4 | G3 F E4 | !f! B4 F3 G | !p! A3 F E4 |
-```
+<div class="abc-score" data-abc-src="waterloo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](waterloo.abc)
 
 ## TMD 檔案連結
 

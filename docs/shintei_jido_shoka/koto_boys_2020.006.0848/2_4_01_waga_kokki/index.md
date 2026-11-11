@@ -57,29 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:我國旗
-C:曲：歐洲曲
-M:4/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! z4 z4 z4 F4 | B6 B2 c4 d4 | e8 d4 c4 | B4 c4 d4 c4 |
-B8 z4 F4 | B6 B2 c4 d4 | e8 d4 c4 | B4 c4 d4 c4 |
-B8 z4 F4 | c6 c2 d4 B4 | c8 d4 e4 | d4 c4 B4 d4 |
-c8 F4 F4 | B6 B2 c4 d4 | e8 d4 c4 | B4 c4 d4 c4 |
-B8 z4 z4 |
-[V:V2]
-!mf! z4 z4 z4 F4 | D6 D2 F4 F4 | G8 B4 A4 | G4 A4 B4 A4 |
-D8 z4 F4 | D6 D2 F4 F4 | G8 B4 A4 | G4 F4 F4 F4 |
-D8 z4 F4 | F6 F2 F4 F4 | F8 B4 c4 | B4 A4 G4 F4 |
-F8 C4 F4 | D6 D2 F4 F4 | G8 B4 A4 | G4 F4 F4 F4 |
-D8 z4 z4 |
-```
+<div class="abc-score" data-abc-src="waga_kokki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](waga_kokki.abc)
 
 ## TMD 檔案連結
 

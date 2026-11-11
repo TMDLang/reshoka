@@ -60,21 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:軍艦（軍艦）
-C:曲：カレー（英 / Henry Carey）
-M:3/4
-L:1/16
-Q:1/4=88
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! G4 G4 A4 | F6 G2 A4 | B4 B4 c4 | B6 A2 G4 |
-A4 G4 F4 | G8 z4 | !f! d4 d4 d4 | d6 c2 B4 |
-c4 c4 c4 | c6 B2 A4 | !mf! B4 c2 B2 A2 G2 | B6 c2 d4 |
-e4/3 d4/3 c4/3 B4 A4 | G8 z4 |
-```
+<div class="abc-score" data-abc-src="gunkan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gunkan.abc)
 
 ## TMD 檔案連結
 

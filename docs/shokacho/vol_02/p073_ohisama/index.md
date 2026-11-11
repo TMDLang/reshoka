@@ -49,23 +49,9 @@ Note: Score has Segno on bar 1, Fine at bar 8, and D.S. at bar 16 (total 24 bars
 
 ## ABC
 
-```abc
-X:1
-T:オ日様
-C:曲：大正幼年唱歌 第八集
-M:2/4
-L:1/16
-Q:1/4=104
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! E2 C2 G2 E2 | c2 G4 z2 | A2 c2 G3 C | E2 D4 z2 |
-E2 C2 G2 E2 | c2 G4 z2 | A2 c2 G3 E | D2 C4 z2 |
-c2 d2 c3 G | A2 E4 z2 | c2 d2 c3 G | A2 D4 z2 |
-c2 d2 c3 G | A2 E4 z2 | c2 d2 c3 G | A2 c4 z2 |
-E2 C2 G2 E2 | c2 G4 z2 | A2 c2 G3 C | E2 D4 z2 |
-E2 C2 G2 E2 | c2 G4 z2 | A2 c2 G3 E | D2 C4 z2 |
-```
+<div class="abc-score" data-abc-src="ohisama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ohisama.abc)
 
 ## TMD 檔案連結
 

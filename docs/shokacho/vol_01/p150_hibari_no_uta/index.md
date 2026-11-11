@@ -72,21 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:雲雀の歌
-M:4/4
-L:1/16
-Q:1/4=100
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z4 z4 z4 E4 | A2 G2 A2 B2 c4 E4 | A2 G2 A2 B2 c4 c4 | B6 c2 B2 A2 G2 F2 |
-E6 G F E4 E4 | A2 G2 A2 B2 c4 E4 | A2 G2 A2 B2 c4 c4 | B6 c2 B2 A2 G2 F2 |
-E6 G F E4 z4 | A8 c8 | e8 c8 | B3 B B3 B B4 c2 B2 |
-A8 E4 z4 | A8 c8 | e8 c8 | B3 A G3 A B4 c4 |
-A8 z8 |
-```
+<div class="abc-score" data-abc-src="hibari_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hibari_no_uta.abc)
 
 ## TMD 檔案連結
 

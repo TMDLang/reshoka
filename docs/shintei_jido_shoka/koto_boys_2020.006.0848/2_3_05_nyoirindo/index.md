@@ -60,22 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:如意輪堂
-C:曲：田村虎藏
-M:3/4
-L:1/16
-Q:1/4=84
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! E,4 A,6 A,2 | B,6 A,2 B,4 | !mp! C8 B,2 A,2 | C6 B,2 A,4 |
-E8 E2 D2 | C4 B,2 A,2 ^G,4 | A,4 B,4 C2 A,2 | B,6 E,2 E,4 |
-!mf! C6 B,2 A,2 A,2 | D6 C2 B,2 A,2 | ^G,4 A,4 B,2 C2 | !f! D6 F2 E4 |
-!mp! E,4 A,2 A,2 B,4 | C6 B,2 A,2 ^G,2 | A,2 B,2 C4 D4 | !mf! E8 B,4 |
-A,12 |
-```
+<div class="abc-score" data-abc-src="nyoirindo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nyoirindo.abc)
 
 ## TMD 檔案連結
 

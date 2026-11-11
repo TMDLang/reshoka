@@ -64,29 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:日の丸の旗
-C:曲：文部省《尋常小學唱歌》
-M:2/4
-L:1/16
-Q:1/4=108
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F4 F4 | G4 G4 | A4 A4 | G4 z4 |
-w: 1.~し ろ | ぢ に | あ か | く
-w: 2.~あ さ | ひ の | の ぼ | る
-A4 A4 | c4 c4 | d4 d4 | c4 z4 |
-w: 1.~ひ の | ま る | そ め | て
-w: 2.~い き | ほ ひ | み せ | て
-d4 d4 | c4 c4 | A4 F4 | G4 z4 |
-w: 1.~あ あ | う つ | く し | や
-w: 2.~あ あ | い さ | ま し | や
-c4 c4 | A4 F4 | G4 A4 | F4 z4 |
-w: 1.~に ほ | ん の | は た | は
-w: 2.~に ほ | ん の | は た | は
-```
+<div class="abc-score" data-abc-src="hinomaru_no_hata.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hinomaru_no_hata.abc)
 
 ## TMD 檔案連結
 

@@ -67,22 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:日本
-M:2/4
-L:1/16
-Q:1/4=100
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-E4 G2 E2 | D3 C D2 E2 | G3 c A2 A2 | G4 z4 |
-w: 1.~にっ ぽ ん | よ い く に | き よ い く | に
-w: 2.~にっ ぽ ん | よ い く に | つ よ い く | に
-C3 E D2 E2 | G3 G E2 G2 | c3 c A2 G2 | c4 z4 |
-w: 1.~せ か い に | ひ と つ の | か み の く | に
-w: 2.~せ か い に | か が や く | え ら い く | に
-```
+<div class="abc-score" data-abc-src="nippon.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nippon.abc)
 
 ## TMD 檔案連結
 

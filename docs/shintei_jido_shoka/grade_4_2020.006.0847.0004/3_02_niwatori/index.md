@@ -69,32 +69,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:雞
-C:曲：西洋曲
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! C4 E4 | G4 z4 | !f! G2 e2 c4 | E2 A2 G4 |
-w: 1.~コケ ココ | ココ | コッ ケッ コ | コッ ケッ コ
-w: 2.~こけ ここ | ここ | こっ けっ こ | こっ けっ こ
-D3 E F2 F2 | A2 G2 G4 | !f! G2 e2 c4 | E2 A2 G4 |
-w: 1.~ヒ ガ シ ガ | シ ラ ム | コッ ケッ コ | コッ ケッ コ
-w: 2.~あ さ ひ が | の ぼ る | こっ けっ こ | こっ けっ こ
-!mf! A3 G F2 D2 | C4 z4 | !mf! D3 E F2 F2 | E2 G2 c4 |
-w: 1.~ヨ ガ ア ケ | タ | ネ グ ラ ヲ | イ デ テ
-w: 2.~み な お き | た | た ろ さ ん | じ ろ さん
-d3 c B2 A2 | A2 G2 G4 | !f! G2 e2 c4 | E2 A2 G4 |
-w: 1.~ア サ ゲ ノ | シ タ ク | コッ ケッ コ | コッ ケッ コ
-w: 2.~が つ こ の | し た く | こっ けっ こ | こっ けっ こ
-!mf! A3 G F2 D2 | C4 z4 |
-w: 1.~イ ソ ガ シ | ヤ
-w: 2.~お く れ る | な
-```
+<div class="abc-score" data-abc-src="niwatori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](niwatori.abc)
 
 ## TMD 檔案連結
 

@@ -65,25 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:花瓶の花
-C:曲：佛蘭西
-M:4/4
-L:1/16
-Q:1/4=96
-K:Bb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F6 E2 D2 F2 B2 c2 | d8 B4 z4 | c2 B2 A2 c2 B4 G4 | F12 z4 |
-w: 1.~こ れ ご ら ん な | さ い | き れ い な い ろ | よ
-w: 2.~い ろ ん な お は | な よ | あ か し ろ き い | ろ
-w: 3.~う れ し や う れ | し や | お へ や も き れ | い
-F6 E2 D2 F2 B2 d2 | c8 G4 z4 | A6 G2 F2 A2 B2 c2 | B12 z4 |
-w: 1.~お う ち の お に | は に | そ だ て た お は | な
-w: 2.~お へ や の くゎ び | ん に | す ぐ い け ま せ | う
-w: 3.~き れ い な お へ | や で | お あ そ び し ま | せう
-```
+<div class="abc-score" data-abc-src="kabin_no_hana.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kabin_no_hana.abc)
 
 ## TMD 檔案連結
 

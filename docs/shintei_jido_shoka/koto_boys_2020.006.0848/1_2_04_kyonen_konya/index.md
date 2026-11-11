@@ -70,20 +70,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:去年今夜
-M:4/4
-L:1/16
-Q:1/4=76
-K:Dm
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! D4 F4 E4 ^C4 | G6 A2 F8 | A4 A4 G4 F4 | A12 z4 |
-D4 F4 E4 ^C4 | G6 F2 E8 | B4 A4 G4 ^G4 | A12 z4 |
-!mf! A4 A4 d4 c4 | B6 A2 G8 | G4 G4 c4 B4 | A12 z4 |
-!mp! D4 F4 E4 ^C4 | G6 A2 B8 | A4 D4 F6 E2 | D12 z4 |
-```
+<div class="abc-score" data-abc-src="kyonen_konya.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kyonen_konya.abc)
 
 ## TMD 檔案連結
 

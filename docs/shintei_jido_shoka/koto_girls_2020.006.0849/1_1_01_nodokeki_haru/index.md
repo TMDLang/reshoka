@@ -61,22 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:のどけき春
-M:2/4
-L:1/16
-Q:1/4=88
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! F2 G A c2 A2 | G2 c2 A2 z2 | F2 G A G2 F G | A2 G2 F2 z2 |
-F2 G A c2 A2 | G2 c2 A2 z2 | d2 c2 A2 c2 | d2 d2 c2 z2 |
-d2 A c d2 d2 | c2 d2 c4 | A3 G A2 c2 | G2 A2 G2 z2 |
-F2 G A c2 c2 | d2 d2 c4 | A2 c2 G2 A2 | F6 z2 |
-c2 d2 c4 | d2 c2 A4 | F2 G A c2 c2 | d2 c2 A4 |
-G2 c2 A2 G2 | F6 z2 |
-```
+<div class="abc-score" data-abc-src="nodokeki_haru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nodokeki_haru.abc)
 
 ## TMD 檔案連結
 

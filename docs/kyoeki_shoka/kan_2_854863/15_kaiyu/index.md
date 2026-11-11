@@ -64,28 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:懐友
-M:4/4
-L:1/16
-Q:1/4=138
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A4 A4 A2 G2 F2 E2 | D6 B2 A8 | F4 A4 A6 B2 | A2 G2 F2 E2 D8 |
-w: 1.~わ ら ぢ _ を _ | あ し に | べ ん と _ | こ _ し _ に
-w: 2.~しょ も つ _ を _ | ひ ざ に | え ん ぴ つ | み _ み _ に
-E8 E6 E2 | D2 F2 A2 B2 A4 A4 | B4 B4 d4 c2 B2 | A6 B2 A8 |
-w: 1.~と も に | の _ や _ ま を | か け り し _ | と _ も
-w: 2.~と も に | つ _ き _ み て | か た り し _ | と _ も
-B4 A4 G2 F2 E2 D2 | E6 B2 A8 | F4 A4 d6 c2 | c4 B4 B8 |
-w: 1.~あ あ そ _ の _ | と も は | し ら ぬ た | こ く に
-w: 2.~あ あ そ _ の _ | と も は | た こ く の | そ ら に
-d4 B4 A2 G2 F2 E2 | D4 B4 A6 A2 | B4 B4 A6 A2 | d12 z4 |
-w: 1.~た れ と _ の _ | や ま を い | ま か か け | る
-w: 2.~た れ と _ つ _ | き み て い | ま か か た | る
-```
+<div class="abc-score" data-abc-src="kaiyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaiyu.abc)
 
 ## TMD 檔案連結
 

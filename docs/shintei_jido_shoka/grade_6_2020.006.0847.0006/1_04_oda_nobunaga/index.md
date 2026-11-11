@@ -67,32 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:織田信長
-C:曲：田村虎藏
-M:4/4
-L:1/16
-Q:1/4=96
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! F6 F2 C4 F4 | G2 F2 G2 A2 G8 | A6 G2 F4 A4 | c12 z4 |
-w: 1.~あ ら し を | を か し _ _ | あ め を つ | き
-w: 2.~ひ が し を | な _ び _ け | に し を う | ち
-!f! c6 c2 c4 c4 | d4 c4 B4 A4 | G4 F4 G6 A2 | F12 z4 |
-w: 1.~け つ し の | い き ほ ひ | す さ ま じ | く
-w: 2.~み や こ に | の ぼ る _ | い さ ま し | さ
-!mf! C2 C2 C4 F3 F F3 F | G3 G F2 G2 A4 z4 | G2 G2 G4 A3 A F3 F | D3 D G3 G C6 z2 |
-w: 1.~ま い ち も ん じ に | つ き す す む | て き の ほ ん ぢ ん | を け は ざ ま
-w: 2.~い く さ す が た に | よ そ ほ ふ は | こ れ ぞ お ん し の | ぢ ん ば を り
-!f! c6 c2 c4 c4 | d4 d4 c8 | B4 A4 G6 F2 | G12 z4 |
-w: 1.~た だ い つ | せ ん に | う ち か ち | て
-w: 2.~き み の み | こ こ ろ | や す め た | る
-!mf! A6 G2 F4 D4 | C4 F2 A2 G8 | c4 c4 G6 A2 | F12 z4 |
-w: 1.~ぶ め い は | た か _ く | あ が り け | り
-w: 2.~い さ ほ は | く ち _ じ | ち よ ま で | も
-```
+<div class="abc-score" data-abc-src="oda_nobunaga.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oda_nobunaga.abc)
 
 ## TMD 檔案連結
 

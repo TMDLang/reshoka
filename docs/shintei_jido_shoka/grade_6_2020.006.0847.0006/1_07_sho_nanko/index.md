@@ -54,24 +54,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:小楠公
-M:6/8
-L:1/16
-Q:3/8=39
-K:F#m
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z2 z2 z2 z2 z2 C2 | F4 F2 G4 G2 | G10 G2 | A4 A2 G4 G2 |
-w: こ | と _ の は | を こ | と _ の は
-!mf! F10 C2 | A4 G2 G2 F2 G2 | A4 B2 c4 c2 | d4 c2 A4 G2 |
-w: を よ | し _ の _ の | や ま に の | こ _ し _
-!mf! A4 c2 G4 B2 | B4 c2 c4 A2 | A4 G2 F6 | !p! C2 F2 G2 A2 c2 A2 |
-w: お き て な | は て の か | ぜ _ に | ち _ る さ _ く
-!pp! G4 G2 F4 z2 |
-w: ら か な
-```
+<div class="abc-score" data-abc-src="sho_nanko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sho_nanko.abc)
 
 ## TMD 檔案連結
 

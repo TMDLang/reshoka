@@ -61,29 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:月夜泛舟
-C:曲：ウエーベル（獨）（Weber）
-M:6/8
-L:1/16
-Q:3/8=46
-K:Bb
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!p! z2 z2 z2 z2 z2 F2 | d4 d2 c4 c2 | B4 B2 F4 F2 | c4 d2 e4 c2 |
-B4 c2 d4 F2 | d4 d2 c4 c2 | B4 B2 F4 F2 | c4 d2 e4 c2 |
-!mf! B6 B2 z2 B2 | g4 g2 f4 f2 | e4 e2 d4 d2 | c4 c2 d4 c2 |
-B4 A2 B4 B2 | g4 g2 f4 f2 | e4 e2 d4 d2 | c4 c2 d4 c2 |
-B6 B4 z2 |
-[V:V2]
-!p! z2 z2 z2 z2 z2 F2 | B4 B2 F4 F2 | D4 D2 F4 F2 | F4 F2 F4 F2 |
-D4 E2 F4 F2 | B4 B2 F4 F2 | D4 D2 F4 F2 | F4 F2 F4 F2 |
-!mf! D6 D2 z2 B2 | e4 e2 d4 d2 | c4 c2 B4 B2 | F4 F2 F4 F2 |
-D4 C2 D4 B2 | e4 e2 d4 d2 | c4 c2 B4 B2 | F4 F2 F4 F2 |
-D6 D4 z2 |
-```
+<div class="abc-score" data-abc-src="tsukiyo_hanshu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsukiyo_hanshu.abc)
 
 ## TMD 檔案連結
 

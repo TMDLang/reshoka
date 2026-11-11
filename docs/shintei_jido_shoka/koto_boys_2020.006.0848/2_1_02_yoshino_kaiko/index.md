@@ -63,22 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:吉野懷古
-C:曲：シユーベルト（F. Schubert，獨國）
-M:3/4
-L:1/16
-Q:1/4=80
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! z4 z4 B2 G2 | G8 E2 E2 | E4 G4 z2 B B | B3 G A3 G F4/3 A4/3 F4/3 |
-G6 z2 B2 G2 | G2 G2 E2 E2 E4 | E4 G4 z2 B2 | B3 G A3 G F4/3 A4/3 F4/3 |
-!mp! E6 z2 B2 B2 | A2 G2 F2 E2 D3 F | !mf! B2 B2 c4 A3 F | G6 z2 F2 F2 |
-G4 F2 E2 D2 E2 | !mf! A3 F D2 z2 z2 B B | G4 A4 F2 B2 | !f! G6 z2 z2 B B |
-B3 G A3 G F4/3 A4/3 F4/3 | E6 z2 z4 |
-```
+<div class="abc-score" data-abc-src="yoshino_kaiko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yoshino_kaiko.abc)
 
 ## TMD 檔案連結
 

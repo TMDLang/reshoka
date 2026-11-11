@@ -76,24 +76,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ぺたこ（白頭殼仔／白頭翁）
-M:3/4
-L:1/16
-Q:1/4=108
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-E2 E2 G4 G4 | A2 c2 c2 c2 G4 | E4 D4 C4 | D2 E2 A4 G4 |
-w: 1.~せ ん だん の | み を た べ る | ぺ た こ | ぺ た こ よ
-w: 2.~せ ん だん の | み を つ つ く | ぺ た こ | ぺ た こ よ
-w: 3.~せ ん だん の | み を こ ぼ す | ぺ た こ | ぺ た こ よ
-E2 G2 A4 c4 | d2 e2 d4 c4 | A4 G4 d4 | c8 z4 |
-w: 1.~し ろ い _ | ば う し が | ひ か る | ね
-w: 2.~あ き の _ | そ ら は _ | た か い | ね
-w: 3.~た の し _ | さ う に _ | う た ふ | ね
-```
+<div class="abc-score" data-abc-src="petako.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](petako.abc)
 
 ## TMD 檔案連結
 

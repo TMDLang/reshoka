@@ -63,29 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:伊勢神宮
-C:曲：ゲルスバハ（獨）
-M:4/4
-L:1/16
-Q:1/4=84
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-z8 C4 E4 | G6 E2 D2 E2 F2 G2 | F2 E2 E4 G4 G4 | !mp! c6 B2 A2 G2 F2 E2 |
-w: 1.~い す | ず の か _ は _ | み _ づ な が | れ さ や _ か _
-w: 2.~さ や | け き な _ が _ | れ _ に こ こ | ろ を き _ よ _
-!mf! D8 G4 B4 | d6 B2 A2 B2 c2 d2 | c2 B2 B4 D4 G4 | E4 c4 B4 A2 B2 |
-w: 1.~に か み | ぢ の み _ や _ | ま _ は ろ う | さん ふ か _ _
-w: 2.~め ろ う | さ ん し _ げ _ | れ _ る こ か | げを ゆ け _ _
-!f! G8 G4 G4 | c4 E4 A4 A4 | G8 E4 G4 | c4 e4 d6 B2 |
-w: 1.~し み く | に を ま も | る た ふ | と き み や
-w: 2.~ば み ゆ | る も た ふ | と た ふ | と き み や
-c8 z8 |
-w: 1.~ゐ
-w: 2.~ゐ
-```
+<div class="abc-score" data-abc-src="ise_jingu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ise_jingu.abc)
 
 ## TMD 檔案連結
 

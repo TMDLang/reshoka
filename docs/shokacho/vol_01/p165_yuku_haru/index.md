@@ -73,20 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:行く春
-M:4/4
-L:1/16
-Q:1/4=84
-K:Am
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-E4 C2 D2 E4 z2 E2 | A3 B c3 A E4 z2 E2 | A,6 B,2 C4 B,2 A,2 | E12 z4 |
-E4 C2 D2 E4 z2 E2 | A3 B c3 B A4 z2 c2 | d6 B2 c4 B4 | A12 z4 |
-A6 B2 c3 d c2 B2 | A4 B3 A E4 z2 E2 | A,6 B,2 C4 B,2 A,2 | E12 z4 |
-E4 C2 D2 E4 z2 E2 | A3 B c3 A E4 z2 c2 | d6 B2 c4 B4 | A12 z4 |
-```
+<div class="abc-score" data-abc-src="yuku_haru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yuku_haru.abc)
 
 ## TMD 檔案連結
 

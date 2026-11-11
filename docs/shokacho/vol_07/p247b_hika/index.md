@@ -55,23 +55,9 @@ Key: ホ短調 (E minor / 1 sharp), Time: 4/4
 
 ## ABC
 
-```abc
-X:1
-T:悲歌（かちかち山の兎）
-M:4/4
-L:1/16
-Q:1/4=76
-K:Em
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!p! E4 B8 G2 F2 | G4 E3 F E8 | !mf! A4 B3 E F8 | !p! B4 A3 ^D E4 F3 D |
-!f! E2 F2 z4 e4 B2 G2 | G4 F3 E F8 | !mf! B4 B3 F G8 | !p! B4 A3 ^D G4 F3 D |
-E4 z4 B4 ^c3 d | e4 A3 B F8 | G8 z8 | E8 F3 G A3 B |
-B4 A3 B c3 B A3 c | !f! B2 z6 B4 B3 A | !p! G3 A B3 G F3 G A3 F | !f! E2 z2 e4 B4 G2 F2 |
-G4 E3 F G8 | !mf! B4 B3 F G8 | !p! B4 A3 ^D G4 F3 D | !ff! E2 z2 ^d4 e6 B2 |
-e4 =f3 G e4 B3 G | !p! F2 G2 z4 A4 G3 F | E8 E4 z4 | !p! F8 B6 d2 |
-e16 | e4 z4 z8 |
-```
+<div class="abc-score" data-abc-src="hika.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hika.abc)
 
 ## TMD 檔案連結
 

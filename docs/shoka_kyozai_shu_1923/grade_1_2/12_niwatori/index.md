@@ -59,31 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:鶏
-M:2/4
-L:1/16
-Q:1/4=92
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A2 D2 D2 z2 | A2 D2 D2 z2 | D3 D F2 F2 | A2 A2 A2 z2 |
-w: 1.~こけっ こっ こ | こけっ こっ こ | に は と り | お い で
-w: 2.~こけっ こっ こ | こけっ こっ こ | に は と り | お い で
-B3 B B2 A2 | d2 d2 d2 z2 | d3 d d2 B2 | A2 F2 A2 z2 |
-w: 1.~み ん な で | お い で | お こ め を | あ げ よう
-w: 2.~み ん な で | お い で | い っ しょ に | あ そ ばう
-B3 A F2 D2 | E2 E F D2 z2 | A2 D2 D2 z2 | A2 D2 D2 z2 |
-w: 1.~な の は も | み づ _ も | こけっ こっ こ | こけっ こっ こ
-w: 2.~い っ しょ に | う た _ はう | こけっ こっ こ | こけっ こっ こ
-D3 D F2 F2 | A2 A2 A2 z2 | B3 B B2 A2 | d2 d2 d2 z2 |
-w: 1.~に は と り | お い で | み ん な で | お い で
-w: 2.~に は と り | お い で | み ん な で | お い で
-d3 d d2 B2 | A2 F2 A2 z2 | B3 A F2 D2 | E2 E F D2 z2 |
-w: 1.~お こ め を | あ げ よう | な の は も | み づ _ も
-w: 2.~い っ しょ に | あ そ ばう | い っ しょ に | う た _ はう
-```
+<div class="abc-score" data-abc-src="niwatori.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](niwatori.abc)
 
 ## TMD 檔案連結
 

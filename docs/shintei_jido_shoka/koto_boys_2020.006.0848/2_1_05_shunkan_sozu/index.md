@@ -60,21 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:俊寛僧都
-C:曲：民歌（瑞典）
-M:2/4
-L:1/16
-Q:1/4=132
-K:Em
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! E2 E2 E2 B2 | G3 F E4 | A2 A2 A2 c2 | B3 A B4 |
-!mf! c2 A2 B3 G | F2 ^D2 E3 F | G2 B2 A3 G | F2 ^D2 E4 |
-!f! B3 c d2 B2 | e3 d c4 | A3 B c2 A2 | B3 A B4 |
-!mf! c2 A2 B3 G | F2 ^D2 E3 F | !mp! G2 B2 A3 G | F2 ^D2 E4 |
-```
+<div class="abc-score" data-abc-src="shunkan_sozu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shunkan_sozu.abc)
 
 ## TMD 檔案連結
 

@@ -62,27 +62,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:けむり
-C:曲：山田耕作
-M:4/4
-L:1/16
-Q:1/4=138
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C6 F2 C6 F2 | G6 G2 G4 z4 | A6 F2 G4 A4 | c12 z4 |
-w: も く も く | け む り | ど こ へ ゆ | く
-F4 F2 F2 G4 z4 | A4 G4 F4 z4 | F2 F2 D2 F2 G4 A4 | G6 A2 G4 z4 |
-w: えん と つ の | せ ま い | く ち か ら ぬ け | だ し て
-c8 A4 F4 | d8 c4 A4 | F4 A4 G4 F4 | c12 z4 |
-w: ひ ろ い | おほ き な | そ ら へ ゆ | く
-F8 C4 F4 | G8 G4 z4 | A8 B4 A4 | c12 z4 |
-w: く も に | な る | け む _ | り
-!f! d8 c4 z4 | !p! C8 F4 z4 |
-w: も く | も く
-```
+<div class="abc-score" data-abc-src="kemuri.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kemuri.abc)
 
 ## TMD 檔案連結
 

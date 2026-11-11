@@ -63,33 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:金剛石
-C:曲：奥好義
-M:4/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C4 C4 C4 E4 | D8 D4 C4 | D4 D4 E4 E4 | G12 z4 |
-w: コ ン ガ ウ | セ キ モ | ミ ガ カ ズ | バ
-A8 A4 G4 | D4 D4 B4 B4 | G4 G4 G4 E4 | D12 z4 |
-w: タ マ ノ | ヒ カ リ ハ | ソ ハ ザ ラ | ン
-C4 C4 C8 | D4 D4 G4 G4 | E4 E4 G4 G4 | A12 z4 |
-w: ヒ _ ト | マ ナ ビ テ | ノ チ ニ コ | ソ
-c4 c4 d4 d4 | A8 G4 G4 | A4 A4 A4 d4 | c12 z4 |
-w: マ コ ト ノ | ト ク ハ | ア ラ ハ ル | レ
-c4 c4 c4 c4 | d8 c4 A4 | G4 G4 E4 C4 | D12 z4 |
-w: ト ケ イ ノ | ハ リ ノ | タ エ マ ナ | ク
-E4 E4 D4 C4 | E8 G4 G4 | A4 A4 A4 c4 | G12 z4 |
-w: メ グ ル ガ | ゴ ト ク | ト キ ノ マ | ノ
-c8 c4 c4 | A4 A4 G4 G4 | E4 E4 D4 E4 | G12 z4 |
-w: ヒ カ ゲ | ヲ シ ミ テ | ハ ゲ ミ ナ | バ
-d4 d4 d4 c4 | A8 G4 E4 | D4 D4 E4 D4 | C12 z4 |
-w: イ カ ナ ル | ワ ザ カ | ナ ラ ザ ラ | ン
-```
+<div class="abc-score" data-abc-src="kongoseki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kongoseki.abc)
 
 ## TMD 檔案連結
 

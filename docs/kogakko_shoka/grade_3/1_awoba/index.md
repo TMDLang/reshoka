@@ -73,28 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:あをば（青葉）
-M:4/4
-L:1/16
-Q:1/4=100
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-F4 F4 E6 D2 | E12 z4 | A4 F4 D6 E2 | F12 z4 |
-w: 1.~ア メ ガ ヤ | ム | ク モ ガ チ | ル
-w: 2.~か ぜ が ふ | く | き が ゆ れ | る
-G8 E4 D4 | F4 E4 D8 | F4 B4 A4 F4 | E12 z4 |
-w: 1.~ク モ ノ | ア ト ニ | ウ ネ ウ ネ | ト
-w: 2.~き ぎ の | か げ は | ゆ ら ゆ ら | と
-F8 A4 A4 | d4 d4 c4 B4 | A4 A4 F4 B4 | A12 z4 |
-w: 1.~ア ヲ バ | ワ カ バ ノ | ヤ マ ヤ マ | ガ
-w: 2.~み づ の | お も て に | ち の う へ | に
-D6 E2 F8 | B6 B2 A8 | E12 F4 | D12 z4 |
-w: 1.~ト ホ ク | チ カ ク | ノ コ | ル
-w: 2.~あ を く | く ろ く | う つ | る
-```
+<div class="abc-score" data-abc-src="awoba.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](awoba.abc)
 
 ## TMD 檔案連結
 

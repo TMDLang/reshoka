@@ -68,33 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:芝山巖
-C:曲：高橋二三四
-M:4/4
-L:1/16
-Q:1/4=69
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!p! D4 C4 D4 D4 | D12 z4 | D4 D4 D4 E4 | G4 G4 E4 D4 |
-w: ナ キ カ ラ | ハ | イ ヅ コ ノ | ツ チ ト _
-!p! G4 G4 E4 D4 | D12 z4 | !ff! d4 d4 d4 A4 | G4 G4 A8 |
-w: ナ リ ヌ ト | モ | ミ タ マ ハ | コ コ ニ
-!p! A4 A4 A4 G4 | !ff! A4 A4 A8 | !f! A4 A4 A4 G4 | D8 D8 |
-w: ト ド マ リ | タ マ ヘ | エ イ エ ン | コ コ
-D12 z4 | !pp! A4 A4 A4 G4 | D8 D8 | D12 z4 |
-w: ニ | シ ヅ マ リ | タ マ | ヘ
-!p! D4 C4 D4 D4 | D12 z4 | D4 D4 D4 E4 | G4 G4 E4 D4 |
-w: ナ キ カ ラ | ハ | イ ヅ コ ノ | ツ チ ト _
-!p! G4 G4 E4 D4 | D12 z4 | !ff! d4 d4 d4 A4 | G4 G4 A8 |
-w: ナ リ ヌ ト | モ | ミ タ マ ハ | コ コ ニ
-!p! A4 A4 A4 G4 | !ff! A4 A4 A8 | !f! A4 A4 A4 G4 | D8 D8 |
-w: ト ド マ リ | タ マ ヘ | エ イ エ ン | コ コ
-D12 z4 | !pp! A4 A4 A4 G4 | D8 D8 | !pp! D16 |
-w: ニ | シ ヅ マ リ | タ マ | ヘ
-```
+<div class="abc-score" data-abc-src="shizangan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shizangan.abc)
 
 ## TMD 檔案連結
 

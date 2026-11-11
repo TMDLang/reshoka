@@ -51,20 +51,9 @@ Key: 変ロ調 (Bb major), Time: 3/4, Tempo: 軽快
 
 ## ABC
 
-```abc
-X:1
-T:舞踏（舞蹈）
-M:3/4
-L:1/16
-Q:1/4=120
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! B4 f2 g2 d4 | f4 f2 e2 c4 | B4 c2 d2 B4 | f8 z4 |
-B4 f2 g2 d4 | f4 f2 e2 c4 | f4 g4 a4 | b8 z4 |
-!f! d'2 c'2 b4 z4 | !mf! b2 a2 g4 z4 | f4 g2 f2 e4 | d2 c2 d4 z4 |
-!p! d'2 c'2 b4 z4 | b2 a2 g4 z4 | !f! f4 g2 e2 a2 f2 | b8 z4 |
-```
+<div class="abc-score" data-abc-src="buto.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](buto.abc)
 
 ## TMD 檔案連結
 

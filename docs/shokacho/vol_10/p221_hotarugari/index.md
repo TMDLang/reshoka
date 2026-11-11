@@ -76,62 +76,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:螢狩（捕螢）
-M:2/4
-L:1/16
-Q:1/4=112
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-C3 C C3 A, | G,3 G, F,3 F, | G,3 G, A,3 C | D6 z2 |
-w: ミ ナ ミ ナ | ア ツ マ レ | ヨ ウ イ セ | ヨ
-D3 D D3 C | A,3 A, F,3 F, | G,3 G, A,3 G, | F,6 C2 |
-w: コ レ カ ラ | タ ン ボ ノ | ホ タ ル ガ | リ ア
-F8 | G3 A c4 | c2 z2 z2 c2 | d6 c2 |
-w: ラ | ウ レ シ | _ オ | モ _
-d3 c A4 | A4 z4 | F3 F G3 A | c4 d4 |
-w: シ ロ ヤ | _ | ア ラ ウ レ | シ _
-G3 F A3 G | F6 z2 | C3 C C3 A, | G,3 G, F,3 F, |
-w: オ モ シ ロ | ヤ | む し と り | あ み や _
-G,3 G, A,3 C | D6 z2 | D3 D D3 C | A,3 A, F,3 F, |
-w: た か ば う | き | わ れ ら が | こ ん や の
-G,3 G, A,3 G, | F,6 C2 | F8 | G3 A c4 |
-w: ぶ き な る | ぞ あ | あ | う れ し
-c2 z2 z2 c2 | d6 c2 | d3 c A4 | A4 z4 |
-w: _ お | も _ | し ろ や | _
-F3 F G3 A | c4 d4 | G3 F A3 G | F6 z2 |
-w: あ あ う れ | し _ | お も し ろ | や
-C3 C C3 A, | G,3 G, F,3 F, | G,3 G, A,3 C | D6 z2 |
-w: ア レ ア レ | ピ カ ピ カ | マ ツ ラ ク | ル
-D3 D D3 C | A,3 A, F,3 F, | G,3 G, A,3 G, | F,6 C2 |
-w: ソ レ ソ レ | ノ ガ ス ナ | ウ チ ト レ | ヨ ア
-F8 | G3 A c4 | c2 z2 z2 c2 | d6 c2 |
-w: ア | ウ レ シ | _ オ | モ _
-d3 c A4 | A4 z4 | F3 F G3 A | c4 d4 |
-w: シ ロ ヤ | _ | ア ア ウ レ | シ _
-G3 F A3 G | F6 z2 | C3 C C3 A, | G,3 G, F,3 F, |
-w: オ モ シ ロ | ヤ | と り こ の | ほ た る の
-G,3 G, A,3 C | D6 z2 | D3 D D3 C | A,3 A, F,3 F, |
-w: ひ か り に | て | あ か る く | て ら す _
-G,3 G, A,3 G, | F,6 C2 | F8 | G3 A c4 |
-w: か へ り み | ち あ | あ | う れ し
-c2 z2 z2 c2 | d6 c2 | d3 c A4 | A4 z4 |
-w: _ お | も _ | し ろ や | _
-F3 F G3 A | c4 d4 | G3 F A3 G | F6 z2 |
-w: あ あ う れ | し _ | お も し ろ | や
-C3 C C3 A, | G,3 G, F,3 F, | G,3 G, A,3 C | D6 z2 |
-w: こ ゑ を そ | ろ へ て _ | い さ ま し | く
-D3 D D3 C | A,3 A, F,3 F, | G,3 G, A,3 G, | F,6 C2 |
-w: う た へ や | が い か の | ほ た る が | り あ
-F8 | G3 A c4 | c2 z2 z2 c2 | d6 c2 |
-w: あ | う れ し | _ お | も _
-d3 c A4 | A4 z4 | F3 F G3 A | c4 d4 |
-w: し ろ や | _ | あ あ う れ | し _
-G3 F A3 G | F6 z2 |
-w: お も し ろ | や
-```
+<div class="abc-score" data-abc-src="hotarugari.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hotarugari.abc)
 
 ## TMD 檔案連結
 

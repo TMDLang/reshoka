@@ -64,32 +64,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:森の小川
-M:3/4
-L:1/16
-Q:1/4=120
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! D2 E2 F4 F4 | A2 A2 d4 A4 | A2 B2 A4 E2 E2 | F8 z4 |
-w: か _ す み | た な び く | は な の あ し | た
-D2 E2 F4 F4 | A2 A2 d4 A4 | A2 B2 A4 E2 F2 | D8 z4 |
-w: か り が ね | さ _ け ぶ | つ き の ゆ ふ | べ
-!mf! d2 d2 d4 A4 | F2 G2 A4 A4 | G2 F2 E8 | c2 B2 A8 |
-w: な が る る | み づ の _ | き よ き | し ら べ
-D2 E2 F4 F4 | A2 A2 d4 A4 | !f! B2 c2 d8 | !mp! E2 F2 D4 z4 |
-w: さ _ や に | ひ び く よ | も り の | を が は
-!mp! D2 E2 F4 F4 | A2 A2 d4 A4 | A2 B2 A4 E2 E2 | F8 z4 |
-w: き の ふ も | よ は よ り | あ し た ま で | も
-D2 E2 F4 F4 | A2 A2 d4 A4 | A2 B2 A4 E2 F2 | D8 z4 |
-w: け ふ _ も | あ さ よ り | ひ ぐ れ ま で | も
-!mf! d2 d2 d4 A4 | F2 G2 A4 A4 | G2 F2 E8 | c2 B2 A8 |
-w: わ _ れ は | や す め ど | や す む | ま な く
-D2 E2 F4 F4 | A2 A2 d4 A4 | !f! B2 c2 d8 | !mp! E2 F2 D4 z4 |
-w: た が た め | う た ふ か | も り の | を が は
-```
+<div class="abc-score" data-abc-src="mori_no_ogawa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mori_no_ogawa.abc)
 
 ## TMD 檔案連結
 

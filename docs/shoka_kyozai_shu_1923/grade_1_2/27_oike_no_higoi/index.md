@@ -61,40 +61,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:お池のひごひ
-M:2/4
-L:1/16
-Q:1/4=96
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-B3 B A2 G2 | A2 d2 d2 d2 | B3 B A2 G2 | B2 A2 A2 z2 |
-w: 1.~ウ キ モ ノ | カ ゲ カ ラ | ア タ マ ヲ | ダ シ テ
-w: 2.~お ほ き な | お く ち に | お ひ か け | ら れ て
-G3 G E4 | D3 D G2 A2 | B3 B A2 G2 | A2 B2 G2 z D |
-w: 1.~ナ ゲ タ | フ ヲ ク フ | オ イ ケ ノ | ヒ ゴ ヒ ヒ
-w: 2.~な み の | ま に ま に | や き ふ が | に げ る ゆ
-D4 D2 z G | G4 G2 z A | A4 A2 z2 | B3 A B2 c2 |
-w: 1.~ト ツ フ | タ ツ ミ | _ ツ | ミ ツ ノ オ
-w: 2.~ら り ゆ | ら り ゆ | ら り | ゆ ら め く
-d2 d2 B2 G2 | B B z2 A A z2 | G G z2 z4 | B3 B A2 G2 |
-w: 1.~ク チ デ _ | バ ク バ ク | バ ク | ウ キ モ ノ
-w: 2.~あ と か ら | ば く ば く | ば く | お ほ き な
-A2 d2 d2 d2 | B3 B A2 G2 | B2 A2 A2 z2 | G3 G E4 |
-w: 1.~カ ゲ カ ラ | ア タ マ ヲ | ダ シ テ | ナ ゲ タ
-w: 2.~お く ち に | お ひ か け | ら れ て | な み の
-D3 D G2 A2 | B3 B A2 G2 | A2 B2 G2 z D | D4 D2 z G |
-w: 1.~フ ヲ ク フ | オ イ ケ ノ | ヒ ゴ ヒ ヒ | ト ツ フ
-w: 2.~ま に ま に | や き ふ が | に げ る ゆ | ら り ゆ
-G4 G2 z A | A4 A2 z2 | B3 A B2 c2 | d2 d2 B2 G2 |
-w: 1.~タ ツ ミ | _ ツ | ミ ツ ノ オ | ク チ デ _
-w: 2.~ら り ゆ | ら り | ゆ ら め く | あ と か ら
-B B z2 A A z2 | G G z2 z4 |
-w: 1.~バ ク バ ク | バ ク
-w: 2.~ば く ば く | ば く
-```
+<div class="abc-score" data-abc-src="oike_no_higoi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](oike_no_higoi.abc)
 
 ## TMD 檔案連結
 

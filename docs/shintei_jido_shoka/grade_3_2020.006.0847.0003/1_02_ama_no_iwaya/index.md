@@ -67,32 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:天の岩屋
-C:曲：小松耕輔
-M:4/4
-L:1/16
-Q:1/4=80
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D6 D2 G4 B4 | d12 z4 | c6 B2 A4 G4 | A12 z4 |
-w: 1.~て ん も ち | も | し ん の や | み
-w: 2.~お ほ か み | が | い は や よ | り
-E6 E2 G3 G D4 | E4 E4 z8 | D6 D2 B4 d4 | c8 B8 |
-w: 1.~も の す ご き | や み | た だ ひ か | る _
-w: 2.~い で ま し た | れ ば | も の み な | は _
-B6 B2 A4 D4 | G12 z4 | d6 d2 d4 B4 | e8 d8 |
-w: 1.~い は の か | げ | あ ま の い | は や
-w: 2.~み ひ か り | を | あ び て ひ | か り
-c6 B2 A4 G4 | B8 A8 | D6 D2 G4 B4 | d12 z4 |
-w: 1.~も れ て い | づ る | そ の ひ か | り
-w: 2.~こ の よ は | ま た | よ ろ こ び | に
-D4 D4 D4 B4 | A4 A4 G8 |
-w: 1.~た ふ と き | ひ か り
-w: 2.~み ち わ た | り _ ぬ
-```
+<div class="abc-score" data-abc-src="ama_no_iwaya.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ama_no_iwaya.abc)
 
 ## TMD 檔案連結
 

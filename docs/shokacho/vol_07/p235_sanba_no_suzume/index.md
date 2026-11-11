@@ -55,18 +55,9 @@ Key: 変ロ調 (Bb major), Time: 4/4, Tempo: 無邪気ニ可愛ラシク
 
 ## ABC
 
-```abc
-X:1
-T:三羽ノ雀（三隻麻雀）
-M:4/4
-L:1/16
-Q:1/4=108
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-F4 B4 F6 F2 | F4 c4 F8 | d4 B4 B4 A2 G2 | F4 c4 B8 |
-F4 B4 F6 F2 | F4 c4 F8 | d4 B4 B4 A2 G2 | F4 c4 B8 |
-```
+<div class="abc-score" data-abc-src="sanba_no_suzume.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sanba_no_suzume.abc)
 
 ## TMD 檔案連結
 

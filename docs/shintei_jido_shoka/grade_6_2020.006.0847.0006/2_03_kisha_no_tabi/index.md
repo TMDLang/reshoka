@@ -67,34 +67,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:汽車の旅
-M:2/4
-L:1/16
-Q:1/4=84
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! G3 D G2 D2 | G2 B2 A2 G2 | E2 G2 D2 B,2 | D4 z4 |
-w: 1.~ち さ と の | や ま さ か | ひ た ば し | り
-w: 2.~ち さ と の | の や ま を | つ か の ま | に
-G3 D G2 A2 | B2 A B A2 D2 | G A B c d2 D2 | !f! G4 z2 G B |
-w: 1.~く る ま は | け ぶ _ り を | あ _ と _ に し | て た _
-w: 2.~す ぎ ゆ く | た び _ ぢ の | お _ も _ し ろ | や は _
-d z d z d z B A | G z G z G z F G | A2 G A B2 G B | d4 z2 d c |
-w: 1.~の し の の _ | ぞ み を の _ | せ ゆ _ く と _ | き う _
-w: 2.~る か の み _ | そ ら に み _ | え た _ る や _ | ま た _
-B z B z B z A G | A z A z A z G A | B z B c d z e z | d4 z4 |
-w: 1.~れ し の た _ | び ぢ を か _ | け ゆ _ く と | き
-w: 2.~ち ま ち き _ | た り て や _ | が て _ は ゆ | く
-!mf! G3 D G2 D2 | G2 B2 A2 G2 | E2 G2 D2 B,2 | D4 z4 |
-w: 1.~ひ び く や | わ だ ち の | と ど ろ き | に
-w: 2.~お く り て | む か へ て | い く た び | か
-B3 c B c B A | G2 B A G2 D2 | G A B A B2 d2 | G4 z4 |
-w: 1.~こ こ ろ _ も _ | そ ら _ に ぞ | い _ さ _ む な | る
-w: 2.~あ ま た _ の _ | の や _ ま は | ま _ ど _ に い | る
-```
+<div class="abc-score" data-abc-src="kisha_no_tabi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kisha_no_tabi.abc)
 
 ## TMD 檔案連結
 

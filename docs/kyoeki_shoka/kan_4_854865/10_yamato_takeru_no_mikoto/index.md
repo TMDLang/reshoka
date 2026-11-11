@@ -68,39 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:日本武尊
-M:6/8
-L:1/16
-Q:3/8=69
-K:C
-V:V1 name="Voice" snm="Voi"
-[V:V1]
-z2 z2 z2 z2 z2 C2 | E4 E2 G4 G2 | c4 c2 G4 G2 | A6 G4 E2 |
-w: 1.~を | と め の す | が た に み | を や つ
-w: 2.~さ | が む の の | な か に も | ゆ る ひ
-G8 z2 G2 | c6 d6 | e6 d6 | c2 B2 A2 G4 c2 |
-w: 1.~し ま | ぎ れ | い る | ぞ _ く の に
-w: 2.~を つ | る ぎ | も て | な _ び け か
-d4 e2 c4 c2 | c4 A2 F4 A2 | G4 E2 C4 C2 | D4 E2 F4 G2 |
-w: 1.~ひ む ろ い | は ひ の さ | か づ き と | り _ ぐ り
-w: 2.~へ し つ あ | ら な み い | か れ る う | み の う へ
-A8 z2 A2 | c6 _B6 | A6 G6 | F2 E2 D2 G4 A2 |
-w: 1.~に ゑ | ひ ふ | せ る | く _ ま そ た
-w: 2.~を を | ぶ ね | も て | お _ し わけ わ
-G6 C2 z2 C2 | E4 E2 G4 G2 | c4 c2 G4 G2 | A6 G4 E2 |
-w: 1.~け る と | き こ そ よ | け れ と ふ | と こ ろ
-w: 2.~た る ひ | が し の え | み し ら こ | と ご と
-G8 z2 G2 | c6 d6 | e6 d6 | c2 B2 A2 G4 c2 |
-w: 1.~の つ | る ぎ | も て | あ _ は や ひ
-w: 2.~く ま | つ ろ | ひ ぬ | た _ だ ひ と
-d4 e2 c4 z2 | c2 c2 c2 G2 G2 G2 | E4 E2 C4 C2 | E4 F2 G4 G2 |
-w: 1.~と さ し | う べ な う べ な | や ま と だ | け る の み
-w: 2.~う ち に | * * * * * * | * * * * | * * * *
-c4 e2 c6 |
-w: な _ や
-```
+<div class="abc-score" data-abc-src="yamato_takeru_no_mikoto.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yamato_takeru_no_mikoto.abc)
 
 ## TMD 檔案連結
 

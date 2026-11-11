@@ -73,52 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:汽車の旅
-M:2/4
-L:1/16
-Q:1/4=84
-K:A
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! A3 E A2 E2 | A2 c2 B2 A2 | F2 A2 E2 C2 | E4 z4 |
-w: 1.~チ サ ト ノ | ヤ マ サ カ | ヒ タ ハ シ | リ
-w: 2.~ち さ と の | の や ま を | つ か の ま | に
-A3 E A2 B2 | c2 B c B2 E2 | A B c d e2 E2 | A4 z2 A c |
-w: 1.~ク ル マ ハ | ケ ブ _ リ ヲ | ア _ ト _ ニ シ | テ タ _
-w: 2.~す ぎ ゆ く | た び _ ぢ の | お _ も _ し ろ | や は _
-e z e z e z c B | A z A z A z G A | B2 A B c2 A c | e4 z2 e d |
-w: 1.~ノ シ ノ ノ _ | ゾ ミ ヲ ノ _ | セ ユ _ ク ト _ | キ ウ _
-w: 2.~る か の み _ | そ ら に み _ | え た _ る や _ | ま た _
-c z c z c z B A | B z B z B z A B | c z c d e z f z | e4 z4 |
-w: 1.~レ シ ノ タ _ | ビ ヂ ヲ カ _ | ケ ユ _ ク ト | キ
-w: 2.~ち ま ち き _ | た り て や _ | が て _ は ゆ | く
-!mf! A3 E A2 E2 | A2 c2 B2 A2 | F2 A2 E2 C2 | E4 z4 |
-w: 1.~ヒ ビ ク ヤ | ワ ダ チ ノ | ト ド ロ キ | ニ
-w: 2.~お く り て | む か へ て | い く た び | か
-c3 d c d c B | A2 c B A2 E2 | A B c B c2 e2 | A4 z4 |
-w: 1.~コ コ ロ _ モ _ | ソ ラ _ ニ ゾ | イ _ サ _ ム ナ | ル
-w: 2.~あ ま た _ の _ | の や _ ま は | ま _ ど _ に い | る
-!mf! A3 E A2 E2 | A2 c2 B2 A2 | F2 A2 E2 C2 | E4 z4 |
-w: 1.~チ サ ト ノ | ヤ マ サ カ | ヒ タ ハ シ | リ
-w: 2.~ち さ と の | の や ま を | つ か の ま | に
-A3 E A2 B2 | c2 B c B2 E2 | A B c d e2 E2 | A4 z2 A c |
-w: 1.~ク ル マ ハ | ケ ブ _ リ ヲ | ア _ ト _ ニ シ | テ タ _
-w: 2.~す ぎ ゆ く | た び _ ぢ の | お _ も _ し ろ | や は _
-e z e z e z c B | A z A z A z G A | B2 A B c2 A c | e4 z2 e d |
-w: 1.~ノ シ ノ ノ _ | ゾ ミ ヲ ノ _ | セ ユ _ ク ト _ | キ ウ _
-w: 2.~る か の み _ | そ ら に み _ | え た _ る や _ | ま た _
-c z c z c z B A | B z B z B z A B | c z c d e z f z | e4 z4 |
-w: 1.~レ シ ノ タ _ | ビ ヂ ヲ カ _ | ケ ユ _ ク ト | キ
-w: 2.~ち ま ち き _ | た り て や _ | が て _ は ゆ | く
-!mf! A3 E A2 E2 | A2 c2 B2 A2 | F2 A2 E2 C2 | E4 z4 |
-w: 1.~ヒ ビ ク ヤ | ワ ダ チ ノ | ト ド ロ キ | ニ
-w: 2.~お く り て | む か へ て | い く た び | か
-c3 d c d c B | A2 c B A2 E2 | A B c B c2 e2 | A4 z4 |
-w: 1.~コ コ ロ _ モ _ | ソ ラ _ ニ ゾ | イ _ サ _ ム ナ | ル
-w: 2.~あ ま た _ の _ | の や _ ま は | ま _ ど _ に い | る
-```
+<div class="abc-score" data-abc-src="kisha_no_tabi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kisha_no_tabi.abc)
 
 ## TMD 檔案連結
 

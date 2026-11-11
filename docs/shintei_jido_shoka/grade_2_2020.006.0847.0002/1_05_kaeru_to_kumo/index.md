@@ -65,28 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:カヘル ト クモ（青蛙與雲）
-M:2/4
-L:1/16
-Q:1/4=80
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-G3 G G2 E2 | E2 D2 D2 G2 | A2 B2 G2 A2 | B2 B2 A4 |
-w: 1.~シ _ ダ レ | ヤ ナ ギ ニ | ト ビ ツ ク | カ ヘ ル
-w: 2.~カ ゼ フ ク | コ エ ダ ニ | ス ヲ ハ ル | コ グ モ
-B3 B d2 d2 | A4 G4 | A2 G2 A2 B2 | A4 d4 |
-w: 1.~ト ン デ ハ | オ チ | オ チ テ ハ | ト ビ
-w: 2.~ハ ツ テ ハ | キ レ | キ レ テ ハ | ハ リ
-d2 d2 B2 A2 | B2 B2 A2 G2 | A2 A2 d2 d2 | B2 B2 A4 |
-w: 1.~オ チ テ モ | オ チ テ モ | マ タ ト ブ | ホ ド ニ
-w: 2.~キ レ テ モ | キ レ テ モ | マ タ ハ ル | ホ ド ニ
-G2 G2 F2 E2 | d2 G2 G2 A2 | B2 B2 A2 A2 | G4 z4 |
-w: 1.~ト ウ ト ウ | ヤ ナ ギ ニ | ト ビ ツ イ | タ
-w: 2.~ト ウ ト ウ | コ エ ダ ニ | ス ヲ ハ ツ | タ
-```
+<div class="abc-score" data-abc-src="kaeru_to_kumo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kaeru_to_kumo.abc)
 
 ## TMD 檔案連結
 

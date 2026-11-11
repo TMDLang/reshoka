@@ -60,21 +60,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:汐干狩
-C:曲：英國風曲
-M:4/4
-L:1/16
-Q:1/4=92
-K:Eb
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 B,4 | E4 E3 F G3 A B2 G2 | F4 B3 c B8 | G4 F3 G A3 F G4 |
-G4 F8 B,4 | E4 E3 F G3 A B2 G2 | F8 B3 A G4 | F4 G3 A G3 F E4 |
-E8 z4 F2 F2 | F2 z2 G3 A B2 G2 E2 z2 | B6 G2 e3 d c3 B | c8 B4 B,4 |
-E4 E3 F G3 A B2 c2 | !f! G4 e6 B2 G4 | F4 E3 F G3 A G4 | F4 E4 z4 z4 |
-```
+<div class="abc-score" data-abc-src="shiohigari.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shiohigari.abc)
 
 ## TMD 檔案連結
 

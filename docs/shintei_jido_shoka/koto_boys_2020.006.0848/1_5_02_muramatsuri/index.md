@@ -57,24 +57,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:村祭
-M:4/4
-L:1/16
-Q:1/4=112
-K:G
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-[V:V1]
-!mf! z4 z4 z4 D4 | G6 A2 G4 A4 | B4 c2 B2 A4 D4 | B4 B4 c4 d4 |
-e8 d4 d4 | e6 f2 g4 d4 | c4 B2 A2 G4 A4 | B4 A4 B4 d4 |
-c4 A4 G4 z4 |
-[V:V2]
-!mf! z4 z4 z4 D4 | G6 D2 G4 D4 | G4 A2 G2 F4 D4 | G4 G4 A4 B4 |
-c8 B4 F4 | G6 A2 B4 G4 | E4 D2 C2 B,4 E4 | G4 F4 G4 F4 |
-E4 F4 G4 z4 |
-```
+<div class="abc-score" data-abc-src="muramatsuri.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](muramatsuri.abc)
 
 ## TMD 檔案連結
 

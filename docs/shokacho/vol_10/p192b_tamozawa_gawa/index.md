@@ -52,20 +52,9 @@ Tempo / Expression: 優美ニ
 
 ## ABC
 
-```abc
-X:1
-T:タモザハガハ 田母澤川
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=84
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-z8 z8 | z8 z8 | F4 G2 B2 F4 G2 B2 | F4 C2 E2 F8 |
-G4 B2 c2 G4 B2 c2 | F4 C2 B,2 C8 | C6 B,2 ^G4 F4 | ^G8 B4 c4 |
-C6 C2 E4 E2 F2 | F8 F8 | F4 z12 |
-```
+<div class="abc-score" data-abc-src="tamozawa_gawa.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tamozawa_gawa.abc)
 
 ## TMD 檔案連結
 

@@ -63,28 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:母のおもひ
-M:4/4
-L:1/16
-Q:1/4=88
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! G6 G2 c4 B4 | A6 G2 G8 | E6 E2 D4 C4 | G12 z4 |
-w: 1.~な で て そ | だ て て | を し へ た | て
-w: 2.~ち ゑ も き | りょ _ も | よ に こ え | よ
-G6 G2 c4 B4 | A6 G2 G8 | E6 E2 D4 E4 | C12 z4 |
-w: 1.~ひ と と な | り て の | の ち も な | ほ
-w: 2.~あ し き み | ち に な | ま よ ひ そ | と
-!mf! E4 E4 E4 D4 | C4 E4 G8 | A6 A2 G4 E2 G2 | c12 z4 |
-w: 1.~こ こ ろ の | や み に | み を く だ _ | く
-w: 2.~こ こ ろ の | や み に | よ る も ね _ | ぬ
-c8 B4 A4 | G6 G2 E4 E4 | G6 E2 D4 E4 | C12 z4 |
-w: 1.~は は の | め ぐ み は | た ふ と し | や
-w: 2.~は は の | な さ け は | た ふ と し | や
-```
+<div class="abc-score" data-abc-src="haha_no_omoi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](haha_no_omoi.abc)
 
 ## TMD 檔案連結
 

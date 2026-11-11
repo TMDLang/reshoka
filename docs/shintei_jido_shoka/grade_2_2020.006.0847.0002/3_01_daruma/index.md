@@ -68,29 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:だるま（達摩）
-C:曲：小松耕輔
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C2 F2 A2 F2 | G A G A G4 | C2 A2 F2 D2 | C D C D C2 z2 |
-w: 1.~こ ろ こ ろ | こ _ ろ _ び | こ ろん で は | お _ き _ る
-w: 2.~そ ん な に | い _ つ _ も | こ ろ こ ろ | せ _ ず _ に
-C2 F2 A2 F2 | G A G A c4 | d2 c2 A2 F2 | G A G A F2 z2 |
-w: 1.~こ ろ ん で | こ _ ろん _ で | や う や く | お _ き _ る
-w: 2.~て あ し を | だ _ し _ て | し つ か り | す _ わ _ れ
-C2 D2 C2 A2 | F4 C2 z2 | C2 D2 C2 A2 | F4 C2 z2 |
-w: 1.~こ ろ こ ろ | こ ろ | こ ろ こ ろ | こ ろ
-w: 2.~こ ろ こ ろ | こ ろ | こ ろ こ ろ | こ ろ
-D2 C2 D2 E2 | F2 B2 A2 G2 | A4 G4 | F6 z2 |
-w: 1.~こ ろ こ ろ | こ ろ こ ろ | だ る | ま
-w: 2.~こ ろ こ ろ | こ ろ こ ろ | だ る | ま
-```
+<div class="abc-score" data-abc-src="daruma.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](daruma.abc)
 
 ## TMD 檔案連結
 

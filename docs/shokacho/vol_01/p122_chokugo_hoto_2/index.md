@@ -52,28 +52,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:勅語奉答（あな尊しや）
-M:4/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!mf! A6 A2 A4 A4 | B8 A4 A4 | F6 F2 E4 D4 | E12 z4 |
-w: ア ナ タ フ | ト シ ヤ | ア キ ラ ケ | ク
-!p! A6 A2 F4 D4 | B8 A4 A4 | F6 F2 E4 E4 | D12 z4 |
-w: ヲ サ マ ル | ミ ヨ ノ | ス メ ラ ギ | ノ
-!f! E8 E4 E4 | F4 E4 D4 D4 | E4 E4 D4 E4 | F12 z4 |
-w: ク ダ シ | タ マ ヒ シ | オ ホ ミ コ | ト
-!mf! E6 E2 E4 E4 | F4 E4 D4 D4 | F4 F4 E4 E4 | D12 z4 |
-w: ミ コ ト ノ | ム _ ネ ヲ | ミ ニ シ メ | テ
-!f! A8 A4 A4 | d4 d4 A4 A4 | F6 F2 E4 D4 | A,12 z4 |
-w: ア サ ナ | ユ フ ナ ニ | マ モ ラ ナ | ム
-d6 d2 A4 A4 | B8 A4 F4 | E4 E4 A6 A,2 | D12 z4 |
-w: ア ナ タ フ | ト シ ヤ | オ ホ ミ コ | ト
-```
+<div class="abc-score" data-abc-src="chokugo_hoto_2.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](chokugo_hoto_2.abc)
 
 ## TMD 檔案連結
 

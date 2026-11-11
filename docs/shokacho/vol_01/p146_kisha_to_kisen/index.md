@@ -72,21 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:汽車と汽船
-M:2/4
-L:1/16
-Q:1/4=96
-K:D
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! d8 | A A F2 A2 F2 | A2 F2 A2 F2 | D3 D E2 F2 |
-A3 A A2 A2 | B3 B d2 d2 | A3 A F2 z2 | B4 d2 d2 |
-A3 A F2 D2 | E2 G2 F2 E2 | D4 z4 | !f! d3 A5 |
-d3 A5 | !mf! d2 A2 d2 A2 | d2 A2 d2 A2 | D3 E F2 G2 |
-A2 B2 A4 | D2 F2 E3 F | D4 z4 |
-```
+<div class="abc-score" data-abc-src="kisha_to_kisen.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kisha_to_kisen.abc)
 
 ## TMD 檔案連結
 

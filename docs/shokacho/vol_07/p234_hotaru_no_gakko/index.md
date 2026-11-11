@@ -52,21 +52,9 @@ Key: 変ロ調 (Bb major), Time: 2/4, Tempo: 可愛ラシク
 
 ## ABC
 
-```abc
-X:1
-T:螢の學校（螢火蟲的學校）
-M:2/4
-L:1/16
-Q:1/4=104
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-B2 B2 B2 G2 | F4 F3 D | F2 G2 B4 | B6 z2 |
-c4 c2 B2 | G4 G2 F2 | D2 F2 G2 G2 | G6 z2 |
-B2 B2 B2 c2 | d2 d2 c2 B2 | G2 F2 B2 c2 | d6 z2 |
-c2 d2 c2 B2 | G2 B2 G2 F2 | D2 F2 G2 G2 | G6 z2 |
-B2 B2 F2 F2 | G4 B4 | c2 d2 c2 c2 | B6 z2 |
-```
+<div class="abc-score" data-abc-src="hotaru_no_gakko.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hotaru_no_gakko.abc)
 
 ## TMD 檔案連結
 

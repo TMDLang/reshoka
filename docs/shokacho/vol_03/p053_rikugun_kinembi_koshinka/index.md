@@ -48,23 +48,9 @@ Notation: Handwritten 5-line staff (C major, 2/4 time, 24 bars) + 4-verse lyrics
 
 ## ABC
 
-```abc
-X:1
-T:陸軍記念日行進歌
-C:曲：不詳
-M:2/4
-L:1/16
-Q:1/4=112
-K:C
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-!f! G3 A G3 E | G3 A G3 c | e3 d c3 A | G4 z4 |
-A3 c A3 G | c3 d c3 c | d3 c A3 c | d4 z4 |
-e3 d c3 A | G3 A G3 E | D3 E D3 C | D4 z4 |
-G3 A G3 E | C3 D E3 G | A3 A G3 c | G4 z4 |
-d3 e d3 c | A3 G A3 c | e3 d c3 A | G4 z4 |
-C3 D E3 G | A3 A G3 c | d3 e d3 B | c4 z4 |
-```
+<div class="abc-score" data-abc-src="rikugun_kinembi_koshinka.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](rikugun_kinembi_koshinka.abc)
 
 ## TMD 檔案連結
 

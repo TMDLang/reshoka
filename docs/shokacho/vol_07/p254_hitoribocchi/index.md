@@ -50,20 +50,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:ひとりぼっち 孤零零
-M:2/4
-L:1/16
-Q:1/4=76
-K:G
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-B4/3 B4/3 B4/3 B4 | A4/3 B4/3 c4/3 B4 | G4/3 B,8/3 G4/3 G4/3 E4/3 | F4 z4 |
-B8/3 B,4/3 B4 | A4/3 B4/3 c4/3 B4 | G8/3 B4/3 G8/3 F4/3 | E4 z4/3 z4/3 B,4/3 |
-E8/3 B,4/3 E4/3 F4/3 G4/3 | G4 z4 | G8/3 B4/3 G4/3 F4/3 E4/3 | F4 z4/3 z4/3 B4/3 |
-e8/3 c4/3 c4/3 B4/3 A4/3 | B4 z4 | G8/3 B4/3 G8/3 F4/3 | E4 z4 |
-```
+<div class="abc-score" data-abc-src="hitoribocchi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hitoribocchi.abc)
 
 ## TMD 檔案連結
 

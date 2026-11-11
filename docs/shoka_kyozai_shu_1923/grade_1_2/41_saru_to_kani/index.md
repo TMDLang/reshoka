@@ -65,35 +65,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:猿と蟹
-M:2/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-V:V2 name="Vocal" snm="Voc"
-[V:V1]
-C z D z E z F z | G z A z A z G z | z2 D F E2 D2 | C4 z4 |
-z8 | z8 | z8 | z8 |
-z8 | z8 | z8 | z8 |
-z8 | z8 | z8 | z8 |
-[V:V2]
-z8 | z8 | z8 | z8 |
-C3 D E2 F2 | G2 A2 A2 G2 | A2 c2 c2 A2 | G3 A G2 z2 |
-w: 1.~お さ る が | ひ ば ち へ | あ た ろ と | す る と
-w: 2.~あ は て て | に げ こ む | と だ な の | な か にや
-w: 3.~む ちゆ う で | か け で て | こ ろ ん だ | う へ へ
-A3 A c2 c2 | G2 G2 E2 C2 | D2 F2 F2 E2 | D3 C D2 z2 |
-w: 1.~た ま ご の | ぢ ら い くわ | ど ど ん と | は ね て
-w: 2.~お ほ き な | く ま ば ち | ま ち ぶ せ | て ゐ て
-w: 3.~お ほ き な | い し う す | ず し ん と | お ち て
-C3 D E2 F2 | G2 G2 E2 C2 | z2 G G A2 B2 | c2 z2 z4 |
-w: 1.~お か ほ や | お て て を | あ つ つ つ | つ
-w: 2.~ち く り と | お は な を | あ い た た | た
-w: 3.~た う と う | さ る め は | つ か ま つ | た
-```
+<div class="abc-score" data-abc-src="saru_to_kani.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](saru_to_kani.abc)
 
 ## TMD 檔案連結
 

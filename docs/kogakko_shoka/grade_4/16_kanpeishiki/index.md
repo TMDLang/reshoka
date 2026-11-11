@@ -72,35 +72,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:觀兵式
-C:曲：文部省（新訂尋常小學唱歌）
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!f! C4 F3 G | A3 G F3 A | c3 c c3 d | c6 z2 |
-w: 1.~ア フ ゲ | カ ガ ヤ ク | テ ン ノ ウ | キ
-w: 2.~き け や | を を し き | ら っ ぱ の | ね
-!mf! d3 d d3 d | c4 A3 F | G3 G A3 G | G6 z2 |
-w: 1.~ア サ ヒ ニ | ハ エ テ | ヒ ル ガ ヘ | ル
-w: 2.~れ ん ぺ い | ぢゃ う に | な り わ た | る
-C4 F3 G | A3 G F3 A | c3 c c3 d | c6 z2 |
-w: 1.~イ マ ゾ | オ ホ キ ミ | カ シ コ ク | モ
-w: 2.~い ま ぞ | お ほ き み | か し こ く | も
-d3 d d3 d | c4 A3 F | G3 c A3 G | F6 z2 |
-w: 1.~ワ ガ ツ ハ | モ ノ ヲ | ミ ソ ナ ハ | ス
-w: 2.~わ が つ は | も の を | み そ な は | す
-G4 G3 G | G3 A G3 F | G3 G A3 B | c6 z2 |
-w: 1.~ナ ラ ブ | ジュ ウ ケ ン | タ ツ グ ン | キ
-w: 2.~そ ら の | ひ か う き | ち の は う | しゃ
-!f! C3 C F3 F | A3 F c4 | d3 d c3 c | F6 z2 |
-w: 1.~ア ア イ サ | マ シ ヤ | イ サ マ シ | ヤ
-w: 2.~あ あ た の | も し や | た の も し | や
-```
+<div class="abc-score" data-abc-src="kanpeishiki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kanpeishiki.abc)
 
 ## TMD 檔案連結
 

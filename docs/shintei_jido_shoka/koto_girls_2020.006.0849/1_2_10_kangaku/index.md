@@ -63,20 +63,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:勸學
-C:曲：Düringer
-M:4/4
-L:1/16
-Q:1/4=84
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mp! D2 D2 G2 G2 A3 B A2 z2 | !mf! B2 B2 c2 d2 d2 c2 B2 z2 | !mp! z2 G2 F2 E2 D2 G2 B2 z2 | z2 A2 F2 D2 G2 E2 A4 |
-!mf! z2 F2 G2 A2 B2 ^c2 d2 A2 | d4 A4 z4 z4 | !mf! z2 B2 ^A2 B2 c3 B =A2 z2 | !mp! z2 A2 ^G2 A2 B3 A =G2 z2 |
-z2 G2 F2 E2 D3 G B2 z2 | z2 A2 D2 F2 A4 G2 z2 |
-```
+<div class="abc-score" data-abc-src="kangaku.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kangaku.abc)
 
 ## TMD 檔案連結
 

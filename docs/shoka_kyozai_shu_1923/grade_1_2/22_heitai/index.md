@@ -59,30 +59,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:兵隊
-M:2/4
-L:1/16
-Q:1/4=126
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-D2 G2 B2 G2 | B4 G2 B2 | d d d2 B2 d2 | B4 G4 |
-w: _ _ _ _ | _ _ _ | _ _ _ _ _ | _ _
-D2 G2 B2 G2 | B4 G2 B2 | d d d2 B2 B2 | G4 z4 |
-w: _ _ _ _ | _ _ _ | _ _ _ _ _ | _
-G3 G D2 D2 | E3 E D2 D2 | G3 G A2 B2 | A4 z4 |
-w: カ タ ニ ハ | テ ツ パ ウ | コ シ ニ ケ | ン
-B3 B G2 G2 | A4 G A B2 | d3 d B2 d2 | e4 z4 |
-w: ラ ツ パ シュ | サ キ _ ニ | ヘ イ タ イ | ガ
-d2 d2 B2 B2 | A4 B A G G | A3 A G2 A2 | B4 z2 B2 |
-w: ア シ ナ ミ | ソ ロ _ ヘ テ | ス ス ミ ユ | ク ア
-d4 z2 B2 | d4 z4 | B3 B G2 G2 | A4 G A B2 |
-w: レ ミ | ヨ | ヒ ラ ヒ ラ | ヒ ラ ヒ ラ
-d3 d B2 A2 | G4 z4 |
-w: レ ン タ イ | キ
-```
+<div class="abc-score" data-abc-src="heitai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](heitai.abc)
 
 ## TMD 檔案連結
 

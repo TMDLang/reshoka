@@ -73,22 +73,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:足柄山
-C:曲：西洋曲
-M:4/4
-L:1/16
-Q:1/4=104
-K:G
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-!mf! z4 z4 z4 D3 G | B4 B8 G3 A | B4 G8 B3 G | E6 D2 E4 A3 d |
-A12 A3 B | d4 d6 B2 A3 G | A12 B3 G | E6 D2 E4 G3 B |
-G12 D3 G | B4 B6 G2 B3 G | A12 F3 G | A6 F2 D4 E3 F |
-G12 A3 B | d4 d6 B2 G3 E | G12 B3 d | e6 d2 B4 E3 F |
-G12 z4 |
-```
+<div class="abc-score" data-abc-src="ashigarayama.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ashigarayama.abc)
 
 ## TMD 檔案連結
 

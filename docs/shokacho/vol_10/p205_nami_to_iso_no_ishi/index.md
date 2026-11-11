@@ -53,22 +53,9 @@ Marginalia: 335頁. 2.1.28. (昭和2年1月28日)
 
 ## ABC
 
-```abc
-X:1
-T:波と磯の石 波浪與岸邊的石頭
-M:3/4
-L:1/16
-Q:1/4=100
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-F3 G F8 | d3 e f8 | B3 c d2 g6 | f8 z4 |
-G3 A b8 | f3 g f8 | d3 e d2 c6 | B8 z4 |
-c2 c2 c8 | f2 f2 f8 | A2 A2 A8 | c'2 c'2 c'4 ^c'4 |
-d'3 e' d'8 | b3 c' b8 | g3 a g2 g6 | d8 z4 |
-G3 A G8 | d3 e d8 | b3 b a2 c'6 | b8 a4 |
-G3 A b8 | f3 g f8 | d3 e d2 c6 | B8 z4 |
-```
+<div class="abc-score" data-abc-src="nami_to_iso_no_ishi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nami_to_iso_no_ishi.abc)
 
 ## TMD 檔案連結
 

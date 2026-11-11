@@ -51,24 +51,9 @@ Key: 変ロ調 (Bb major), Time: 4/4, Tempo: 可憐
 
 ## ABC
 
-```abc
-X:1
-T:子守唄（搖籃曲）
-M:4/4
-L:1/16
-Q:1/4=76
-K:Bb
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-d4 f4 g4 g4 | z2 f2 g2 f2 d4 c4 | z2 B2 c2 B2 G4 B4 | c12 z4 |
-w: ネ ン ネ ヤ | コ ロ ー コ ロ | ネ ン _ ネ ン | ナ
-B4 B4 c4 d4 | z2 f2 g2 f2 d4 f4 | z2 f2 g2 b2 c'4 d'4 | b12 z4 |
-w: ネ ン ネ ノ | モ _ _ リ ハ | ド コ _ ヘ イッ | タ
-d'4 d'4 d'4 c'4 | z2 b2 c'2 b2 g4 f4 | z2 d2 f2 g2 f4 B4 | c12 z4 |
-w: ア ノ ヤ マ | コ _ _ エ テ | カ ハ _ コ エ | テ
-d4 f4 g4 f4 | z2 d2 f2 g2 b4 f4 | z2 f2 g2 b2 d4 c4 | B12 z4 |
-w: ト ホ イ イ | ト ホ _ イ イ | サ ト _ ヘ イッ | タ
-```
+<div class="abc-score" data-abc-src="komoriuta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](komoriuta.abc)
 
 ## TMD 檔案連結
 

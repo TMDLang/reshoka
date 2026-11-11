@@ -68,29 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:とんび
-C:曲：梁田貞
-M:4/4
-L:1/16
-Q:1/4=96
-K:C
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-C6 D2 E2 G2 A2 G2 | c8 A8 | G6 E2 A2 G2 E2 C2 | D12 z4 |
-w: 1.~ト ベ ト _ ベ _ | トン ビ | ソ ラ タ _ カ _ | ク
-w: 2.~と ぶ と _ ぶ _ | とん び | そ ら た _ か _ | く
-C6 D2 E2 G2 A2 G2 | c8 A8 | G6 E2 A2 G2 D2 E2 | C12 z4 |
-w: 1.~ナ ケ ナ _ ケ _ | トン ビ | ア ヲ ゾ _ ラ _ | ニ
-w: 2.~な く な _ く _ | とん び | あ を ぞ _ ら _ | に
-c7 G G8 | A7 E E8 | c7 G G8 | A7 E E8 |
-w: 1.~ピン ヨ ロ | ピン ヨ ロ | ピン ヨ ロ | ピン ヨ ロ
-w: 2.~ピン ヨ ロ | ピン ヨ ロ | ピン ヨ ロ | ピン ヨ ロ
-C6 D2 E2 G2 A2 G2 | c12 z4 | c6 A2 G2 E2 D2 E2 | C12 z4 |
-w: 1.~タ ノ シ _ ゲ _ | ニ | ワ ヲ カ _ イ _ | テ
-w: 2.~た の し _ げ _ | に | わ を か _ い _ | て
-```
+<div class="abc-score" data-abc-src="tonbi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tonbi.abc)
 
 ## TMD 檔案連結
 

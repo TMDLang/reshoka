@@ -55,19 +55,9 @@ Tempo / Expression: 優美ニ
 
 ## ABC
 
-```abc
-X:1
-T:ツキトガン 月與雁
-C:曲：本居長世
-M:4/4
-L:1/16
-Q:1/4=84
-K:F
-V:V1 name="Vocal" snm="Voc"
-[V:V1]
-A4 c4 G4 G4 | F4 A4 D4 D4 | B4 A4 G4 ^G4 | A12 z4 |
-A6 A2 A4 A4 | d4 B4 A4 G4 | F4 G2 A2 B4 D2 _E2 | F12 z4 |
-```
+<div class="abc-score" data-abc-src="tsuki_to_gan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsuki_to_gan.abc)
 
 ## TMD 檔案連結
 

@@ -68,28 +68,9 @@ tmd_source:
 
 ## ABC
 
-```abc
-X:1
-T:一ネンセイ（一年級生）
-M:2/4
-L:1/16
-Q:1/4=100
-K:F
-V:V1 name="Piano" snm="Pia"
-[V:V1]
-A3 G G4 | F3 F C2 C2 | F2 G2 A2 F2 | G6 z2 |
-w: 1.~ボ ク ハ | ジ ン ジャ ウ | イ チ ネ ン | セイ
-w: 2.~キ ノ フ | イ ツ タ ヨ | ガ ク カ ウ | ヘ
-A3 c c4 | A3 A F2 F2 | G3 A G2 G2 | F6 z2 |
-w: 1.~コ ト シ | ハ イ ツ タ | イ チ ネ ン | セイ
-w: 2.~ア ス モ | イ カ ウ ヨ | ガ ク カ ウ | ヘ
-c2 c2 c2 z2 | d3 d c2 c2 | B3 A G2 c2 | c6 z2 |
-w: 1.~ア メ ガ | フ ツ テ モ | ボ ク ハ イ | ク
-w: 2.~ア ラ シ | フ イ テ モ | ボ ク ハ イ | ク
-A2 A2 A2 z2 | c3 c A2 A2 | B2 A2 G3 G | F6 z2 |
-w: 1.~カ ゼ ガ | フ イ テ モ | ボ ク ハ イ | ク
-w: 2.~ボ ク ハ | チ サ イ ガ | ゲ ン キ ダ | ヨ
-```
+<div class="abc-score" data-abc-src="ichinensei.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ichinensei.abc)
 
 ## TMD 檔案連結
 
