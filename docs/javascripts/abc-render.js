@@ -79,15 +79,23 @@
     renderFetchedAbcBlocks(scope);
   }
 
+  function renderCurrentDocument() {
+    renderAllAbcBlocks(document);
+  }
+
   // Material for MkDocs uses document$ for instant-navigation page changes.
-  // Fall back to DOMContentLoaded when instant navigation is unavailable.
+  // Also render on the normal DOM lifecycle: on an initial page load,
+  // document$ may already have emitted its first event before this script
+  // subscribes.
   if (typeof document$ !== "undefined" && document$.subscribe) {
     document$.subscribe(function (body) {
       renderAllAbcBlocks(body);
     });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", renderCurrentDocument);
   } else {
-    document.addEventListener("DOMContentLoaded", function () {
-      renderAllAbcBlocks(document);
-    });
+    renderCurrentDocument();
   }
 })();
