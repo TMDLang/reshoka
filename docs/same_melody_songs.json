@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1087,
-  "same_melody_different_lyrics_group_count": 13,
+  "total_corpus_songs": 1112,
+  "same_melody_different_lyrics_group_count": 14,
   "groups": [
     {
       "versions": [
@@ -358,6 +358,45 @@
     {
       "versions": [
         {
+          "id": "shoka_kyozai_shu_1923/koto_1_2/20_dosokai",
+          "lyrics": "まなびのまどのあけくれにつくえならべちょうみおよみはなにもみじにあそびしもあああのやまよこのかはよまなびのまどのあけくれにつくえならべちょうみおよみはなにもみじ",
+          "titles": [
+            "同窓會"
+          ],
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/20_dosokai",
+              "md_file": "shoka_kyozai_shu_1923/koto_1_2/20_dosokai/index.md",
+              "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "同窓會（二部）",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_02_seijitsu",
+          "lyrics": "まごころこもるかしらにこそまもりのかみはやどるなれまがれるこころはつゆもおかずただしきみちおふめよかし",
+          "titles": [
+            "誠實"
+          ],
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_02_seijitsu",
+              "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_02_seijitsu/index.md",
+              "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+              "raw_title": "誠實",
+              "year": 1934
+            }
+          ]
+        }
+      ],
+      "id": "009_20_dosokai"
+    },
+    {
+      "versions": [
+        {
           "id": "shoka_kyozai_shu_1923/koto_1_2/22_shiki_no_sanpo",
           "lyrics": "たのしきよにもたのしやはるほうめさくそのにさくらがおかにおぐさののみちぶらぶらゆけばはなよりさきにこころはのどか",
           "titles": [
@@ -392,7 +431,7 @@
           ]
         }
       ],
-      "id": "009_22_shiki_no_sanpo"
+      "id": "010_22_shiki_no_sanpo"
     },
     {
       "versions": [
@@ -431,7 +470,7 @@
           ]
         }
       ],
-      "id": "010_p131_tennen_no_bi"
+      "id": "011_p131_tennen_no_bi"
     },
     {
       "versions": [
@@ -470,46 +509,53 @@
           ]
         }
       ],
-      "id": "011_p109_tonbi"
+      "id": "012_p109_tonbi"
     },
     {
       "versions": [
         {
-          "id": "shokacho/vol_08/p026_aki_no_kojo",
-          "lyrics": "しらほゆくしずかにしらほゆくしずかにべにもえぬるゆうぐもながれゆくみずうみおうたおもふひとのせてしらほゆくしずかに",
+          "id": "kogakko_shoka/koto_1/21_yamato_damashii",
+          "lyrics": "おおきみのみたみとうまれしからはつつこそかたにせねたちこそはかねくにおもふこころますらおにおとらじなはげめはげめまこともてたゆみなくはげめはげめくにのためひとす",
           "titles": [
-            "秋ノ湖上"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_08/p026_aki_no_kojo",
-              "md_file": "shokacho/vol_08/p026_aki_no_kojo/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
-              "raw_title": "秋ノ湖上（秋日湖上）",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo",
-          "lyrics": "べにもえぬるゆうぐもながれゆくすいじょうおうたおもふにんのせて",
-          "titles": [
-            "秋の湖上"
+            "大和魂"
           ],
           "year": 1934,
           "occurrences": [
             {
-              "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo",
-              "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_03_aki_no_kojo/index.md",
+              "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_05_yamato_damashii",
+              "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_05_yamato_damashii/index.md",
               "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
-              "raw_title": "秋の湖上",
+              "raw_title": "大和魂",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kogakko_shoka/koto_1/21_yamato_damashii",
+              "md_file": "kogakko_shoka/koto_1/21_yamato_damashii/index.md",
+              "book_label": "《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）",
+              "raw_title": "大和魂",
+              "year": 1936
+            }
+          ]
+        },
+        {
+          "id": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_10_shokumin_no_uta",
+          "lyrics": "わがゆくそらやがてわがくになればてるひのやけやまみゆきのあらのもふみひらきふみたてわがくにおつくらずやゆけよゆけよいざやゆけもろともにすすめすすめいざすすめもろ",
+          "titles": [
+            "殖民の歌"
+          ],
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_10_shokumin_no_uta",
+              "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_10_shokumin_no_uta/index.md",
+              "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+              "raw_title": "殖民の歌",
               "year": 1934
             }
           ]
         }
       ],
-      "id": "012_p026_aki_no_kojo"
+      "id": "013_1_2_05_yamato_damashii"
     },
     {
       "versions": [
@@ -548,7 +594,7 @@
           ]
         }
       ],
-      "id": "013_2_07_tasukebune"
+      "id": "014_2_07_tasukebune"
     }
   ]
 }

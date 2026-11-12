@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期唱歌教材數位重建計畫
-site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 33 冊、1,087 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 35 冊、1,112 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -1270,8 +1270,14 @@ nav:
           - "9 秋近し": kogakko_shoka/koto_1/9_aki_chikashi/index.md
           - "10 高嶺の月": kogakko_shoka/koto_1/10_takane_no_tsuki/index.md
           - "11 蜻蛉": kogakko_shoka/koto_1/11_akitsu/index.md
+          - "12 農夫": kogakko_shoka/koto_1/12_nofu/index.md
           - "13 臺灣神社": kogakko_shoka/koto_1/13_taiwan_jinja/index.md
           - "14 去年今夜": kogakko_shoka/koto_1/14_kyonen_konya/index.md
+          - "15 紫式部": kogakko_shoka/koto_1/15_murasaki_shikibu/index.md
+          - "16 駒の蹄": kogakko_shoka/koto_1/16_koma_no_hizume/index.md
+          - "17 滿洲の野": kogakko_shoka/koto_1/17_manshu_no_no/index.md
+          - "18 御代の榮": kogakko_shoka/koto_1/18_miyo_no_sakae/index.md
+          - "19 たゝへよ日の本": kogakko_shoka/koto_1/19_tataeyo_hinomoto/index.md
           - "20 子守歌": kogakko_shoka/koto_1/20_komoriuta/index.md
           - "21 大和魂": kogakko_shoka/koto_1/21_yamato_damashii/index.md
           - "22 明るい心": kogakko_shoka/koto_1/22_akarui_kokoro/index.md

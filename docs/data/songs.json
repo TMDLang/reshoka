@@ -696,6 +696,12 @@
     "url": "kogakko_shoka/koto_1/11_akitsu/"
   },
   {
+    "title": "農夫",
+    "collection": "《公學校唱歌》",
+    "volume": "高等科 第一學年用（國臺圖 0729 74）",
+    "url": "kogakko_shoka/koto_1/12_nofu/"
+  },
+  {
     "title": "臺灣神社",
     "collection": "《公學校唱歌》",
     "volume": "高等科 第一學年用（國臺圖 0729 74）",
@@ -706,6 +712,36 @@
     "collection": "《公學校唱歌》",
     "volume": "高等科 第一學年用（國臺圖 0729 74）",
     "url": "kogakko_shoka/koto_1/14_kyonen_konya/"
+  },
+  {
+    "title": "紫式部",
+    "collection": "《公學校唱歌》",
+    "volume": "高等科 第一學年用（國臺圖 0729 74）",
+    "url": "kogakko_shoka/koto_1/15_murasaki_shikibu/"
+  },
+  {
+    "title": "駒の蹄",
+    "collection": "《公學校唱歌》",
+    "volume": "高等科 第一學年用（國臺圖 0729 74）",
+    "url": "kogakko_shoka/koto_1/16_koma_no_hizume/"
+  },
+  {
+    "title": "滿洲の野",
+    "collection": "《公學校唱歌》",
+    "volume": "高等科 第一學年用（國臺圖 0729 74）",
+    "url": "kogakko_shoka/koto_1/17_manshu_no_no/"
+  },
+  {
+    "title": "御代の榮",
+    "collection": "《公學校唱歌》",
+    "volume": "高等科 第一學年用（國臺圖 0729 74）",
+    "url": "kogakko_shoka/koto_1/18_miyo_no_sakae/"
+  },
+  {
+    "title": "たゝへよ日の本",
+    "collection": "《公學校唱歌》",
+    "volume": "高等科 第一學年用（國臺圖 0729 74）",
+    "url": "kogakko_shoka/koto_1/19_tataeyo_hinomoto/"
   },
   {
     "title": "子守歌",
