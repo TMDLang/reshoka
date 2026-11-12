@@ -114,7 +114,7 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
         ("懸賞募集入選歌詞與作詞者名單", "kogakko_shoka/lyrics_contest/index.md"),
     ],
     "shokacho": [
-        ("考證與研究筆記", "shokacho/research_notes.md"),
+        ("史料整理筆記", "shokacho/research_notes.md"),
         ("《蓬萊唱歌集》目次重建", "shokacho/horai_shokashu.md"),
         ("延伸館藏與日本國會圖書館調查", "archives/index.md"),
     ],
@@ -176,7 +176,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "",
         "TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，並提供 TMD 樂譜、MP3 與調性分析。",
         "",
-        "> **專案定位**：Re:shoka 是 **TMD 電腦音樂語言的子計畫**，由個人／社群維護，並非政府機關、博物館或任何官方計畫。資料主要整理自公開典藏與公版史料，供研究、教育與欣賞使用。",
+        "> **專案定位**：Re:shoka 是 **TMD 電腦音樂語言的民間子計畫**，由個人／社群維護，並非政府機關、博物館或任何官方計畫。資料主要整理自公開典藏與公版史料，供查閱、教育與欣賞使用。",
         "",
         '<div class="lucky-song" data-lucky-song>',
         "  <div>",

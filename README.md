@@ -2,7 +2,7 @@
 
 **Reshōka** 是一項將日治時期（1910–1940 年代）臺灣校園音樂教材重新數位化與有聲化的計畫。本專案整理了當時學童實際傳唱的《公學校唱歌》、《新定兒童唱歌》、《うたのほん》（唱歌課本）與《楊金土手抄唱歌帖》等教材與抄本，將原本僅存於博物館典藏庫中的靜態掃描圖檔，轉化為**可以在網頁上直接聆聽伴奏、閱讀五線譜、檢索歌詞與瀏覽統計資料**的開放資料庫。
 
-> **專案定位**：Reshōka 是 **TMD 電腦音樂語言的子計畫**，由個人／社群維護，並非政府機關、博物館或任何官方計畫。資料主要整理自公開典藏與公版史料，供研究、教育與欣賞使用。
+> **專案定位**：Reshōka 是 **TMD 電腦音樂語言的民間子計畫**，由個人／社群維護，並非政府機關、博物館或任何官方計畫。資料主要整理自公開典藏與公版史料，供查閱、教育與欣賞使用。
 
 ---
 
@@ -20,7 +20,7 @@
 
 - 🔍 **全站歌曲去重統計**：[`docs/duplicate_songs.md`](docs/duplicate_songs.md)（841 首不重複歌曲、165 組重複歌曲）
 - 📊 **《新定兒童唱歌》專題統計（主題分布、調性、節拍、五聲音階與歌唱音域）**：[`docs/shintei_jido_shoka/index.md`](docs/shintei_jido_shoka/index.md)
-- 📄 **《楊金土手抄唱歌帖》專題考證與研究筆記**：[`docs/shokacho/research_notes.md`](docs/shokacho/research_notes.md)
+- 📄 **《楊金土手抄唱歌帖》史料整理筆記**：[`docs/shokacho/research_notes.md`](docs/shokacho/research_notes.md)
 - 📑 **《蓬萊唱歌集》存見曲目目次重建**：[`docs/shokacho/horai_shokashu.md`](docs/shokacho/horai_shokashu.md)（共 45+3 首完整對照表）
 
 | 教材／抄本叢書                 | 冊別                              | 發行／公認／抄錄資訊與年代                                      | 臺史博典藏號                    | 收錄曲數 | 目錄路徑                                                                                                     |

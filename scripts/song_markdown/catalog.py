@@ -508,7 +508,7 @@ for _vol, _pid in KYOEKI_PID_BY_VOL.items():
     )
 
 _SHOKACHO_RESEARCH_LINK = (
-    "- 📄 **[《楊金土手抄唱歌帖》考證與研究筆記（含全 10 冊結構與 `P115.jpg` 第 1–6 冊親筆總目錄）](../research_notes.md)**",
+    "- 📄 **[《楊金土手抄唱歌帖》史料整理筆記（含全 10 冊結構與 `P115.jpg` 第 1–6 冊親筆總目錄）](../research_notes.md)**",
     "../research_notes.md",
 )
 _SHOKACHO_HORAI_LINK = (
