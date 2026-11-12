@@ -4,7 +4,7 @@ song_title: "滿洲の野"
 song_id: "kogakko_shoka_koto_1_17_manshu_no_no"
 collection: "kogakko_shoka"
 volume: "koto_1"
-description: "〈滿洲の野〉收錄於日治時期臺灣《公學校唱歌》（高等科 第一學年用（國臺圖 0729 74）），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：わが幾萬のますらをが、 正義のために戰ひし…"
+description: "〈滿洲の野〉收錄於日治時期臺灣《公學校唱歌》（高等科 第一學年用（國臺圖 0729 74）），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：わが幾萬のますらをが、 正義のために戰ひし…"
 keywords: "滿洲の野, 公學校唱歌, 高等科 第一學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 高等科 第一學年用（國臺圖 0729 74）"
@@ -22,6 +22,9 @@ audio:
   - id: "manshu_no_no"
     label: "鋼琴伴奏版"
     file: "manshu_no_no.mp3"
+  - id: "manshu_no_no_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "manshu_no_no_neutrino.mp3"
 tmd_source:
   - "manshu_no_no.tmd"
   - "manshu_no_no_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="manshu_no_no.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="manshu_no_no_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校高等科唱歌》第一學年用（昭和十一年，索書號 0729 74）
 

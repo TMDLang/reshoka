@@ -49,6 +49,7 @@ MKDOCS_CONFIG_HEADER: list[str] = [
     "    - navigation.instant",
     "    - navigation.tracking",
     "    - navigation.top",
+    "    - navigation.prune",
     "    - search.suggest",
     "    - search.highlight",
     "    - content.code.copy",
@@ -98,11 +99,15 @@ MKDOCS_CONFIG_HEADER: list[str] = [
     "",
     "nav:",
     "  - 首頁: index.md",
-    "  - 唱歌教材的流動與變化: shoka_genealogy.md",
-    "  - 跨冊重複與同名歌曲索引: duplicate_songs.md",
-    "  - 同一歌名的多個版本: same_title_songs.md",
-    "  - 同詞異曲歌曲: same_lyrics_songs.md",
-    "  - 同曲異詞歌曲: same_melody_songs.md",
+    "  - 資料與說明:",
+    "      - 資料來源與各冊導覽: sources.md",
+    "      - 內容產生過程: workflow.md",
+    "      - 唱歌教材的流動與變化: shoka_genealogy.md",
+    "      - 跨冊重複與同名歌曲索引: duplicate_songs.md",
+    "      - 同一歌名的多個版本: same_title_songs.md",
+    "      - 同詞異曲歌曲: same_lyrics_songs.md",
+    "      - 同曲異詞歌曲: same_melody_songs.md",
+    "      - 《小學校唱歌教授書》: archives/kogakko_shoka_kyoju/index.md",
 ]
 
 COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {

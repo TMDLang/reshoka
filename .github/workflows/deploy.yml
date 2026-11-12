@@ -55,6 +55,7 @@ jobs:
             --include "*.mp3" \
             --include "*.wav" \
             --include "*.mid" \
+            --include "*.pdf" \
             --cache-control "public,max-age=31536000,immutable"
 
       - name: Externalize media references
@@ -70,7 +71,8 @@ jobs:
         run: |
           find site -type f \
             \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' \
-            -o -iname '*.mp3' -o -iname '*.wav' -o -iname '*.mid' \) \
+            -o -iname '*.mp3' -o -iname '*.wav' -o -iname '*.mid' \
+            -o -iname '*.pdf' \) \
             -delete
 
       - name: Setup Pages

@@ -4,7 +4,7 @@ song_title: "高嶺の月"
 song_id: "kogakko_shoka_koto_1_10_takane_no_tsuki"
 collection: "kogakko_shoka"
 volume: "koto_1"
-description: "〈高嶺の月〉收錄於日治時期臺灣《公學校唱歌》（高等科 第一學年用（國臺圖 0729 74）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：分けゆく山の登口（のぼりぐち） 幾つかあれど、やがて見る…"
+description: "〈高嶺の月〉收錄於日治時期臺灣《公學校唱歌》（高等科 第一學年用（國臺圖 0729 74）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：分けゆく山の登口（のぼりぐち） 幾つかあれど、やがて見る…"
 keywords: "高嶺の月, 公學校唱歌, 高等科 第一學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 高等科 第一學年用（國臺圖 0729 74）"
@@ -20,6 +20,9 @@ audio:
   - id: "takane_no_tsuki"
     label: "鋼琴伴奏版"
     file: "takane_no_tsuki.mp3"
+  - id: "takane_no_tsuki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "takane_no_tsuki_neutrino.mp3"
 tmd_source:
   - "takane_no_tsuki.tmd"
   - "takane_no_tsuki_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="takane_no_tsuki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="takane_no_tsuki_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校高等科唱歌》第一學年用（昭和十一年，索書號 0729 74）
 

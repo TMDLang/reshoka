@@ -10,7 +10,7 @@ from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 
-MEDIA_EXTENSIONS = {".jpg", ".jpeg", ".png", ".mp3", ".wav", ".mid"}
+MEDIA_EXTENSIONS = {".jpg", ".jpeg", ".png", ".mp3", ".wav", ".mid", ".pdf"}
 ATTRIBUTE_RE = re.compile(
     r"(?P<prefix>\b(?:src|href|content)\s*=\s*[\"'])(?P<url>[^\"']+)(?P<suffix>[\"'])",
     re.IGNORECASE,

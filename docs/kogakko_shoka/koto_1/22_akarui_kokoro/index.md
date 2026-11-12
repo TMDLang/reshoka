@@ -4,7 +4,7 @@ song_title: "明るい心"
 song_id: "kogakko_shoka_koto_1_22_akarui_kokoro"
 collection: "kogakko_shoka"
 volume: "koto_1"
-description: "〈明るい心〉收錄於日治時期臺灣《公學校唱歌》（高等科 第一學年用（國臺圖 0729 74）），調號拍號：C 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：藻（も）の花の陰にうかむ 空のやうな明るい心。…"
+description: "〈明るい心〉收錄於日治時期臺灣《公學校唱歌》（高等科 第一學年用（國臺圖 0729 74）），調號拍號：C 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：藻（も）の花の陰にうかむ 空のやうな明るい心。…"
 keywords: "明るい心, 公學校唱歌, 高等科 第一學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 高等科 第一學年用（國臺圖 0729 74）"
@@ -20,6 +20,9 @@ audio:
   - id: "akarui_kokoro"
     label: "鋼琴伴奏版"
     file: "akarui_kokoro.mp3"
+  - id: "akarui_kokoro_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "akarui_kokoro_neutrino.mp3"
 tmd_source:
   - "akarui_kokoro.tmd"
   - "akarui_kokoro_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="akarui_kokoro.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="akarui_kokoro_neutrino.mp3"></audio>
 
 - 臺灣總督府《公學校高等科唱歌》第一學年用（昭和十一年，索書號 0729 74）
 
