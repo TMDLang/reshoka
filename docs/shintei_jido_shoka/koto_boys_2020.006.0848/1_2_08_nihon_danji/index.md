@@ -4,13 +4,13 @@ song_title: "日本男兒"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_2_08_nihon_danji"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈日本男兒〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：蘆田惠之助（松邑三松堂發行檢定唱歌集）、曲：K. H. Neithardt（ナイハルト）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山（やま）の樣（さま）海（うみ）の姿（すがた）、 美（び）なる國（くに）よ日（ひ）の本（もと）は、…"
-keywords: "日本男兒, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 蘆田惠之助（松邑三松堂發行檢定唱歌集）"
+description: "〈日本男兒〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：蘆田惠之助（松邑三松堂發行檢定唱歌集）、曲：A. Neithardt（ナイハルト）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山（やま）の樣（さま）海（うみ）の姿（すがた）、 美（び）なる國（くに）よ日（ひ）の本（もと）は、…"
+keywords: "日本男兒, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 蘆田惠之助（松邑三松堂發行檢定唱歌集）, A. Neithardt（ナイハルト）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
 credits:
   - "詞：蘆田惠之助（松邑三松堂發行檢定唱歌集）"
-  - "曲：K. H. Neithardt（ナイハルト）"
+  - "曲：A. Neithardt（ナイハルト）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "G"
@@ -34,13 +34,13 @@ tmd_source:
 - **鋼琴伴奏版**：<br><audio controls src="nihon_danji.mp3"></audio>
 
 - 詞：蘆田惠之助（松邑三松堂發行檢定唱歌集）
-- 曲：K. H. Neithardt（ナイハルト）
+- 曲：A. Neithardt（ナイハルト）
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 
 ## 說明
 
 原書資訊與歌詞全文（對應 P055.jpg，書頁 p. 20，高一第二學期第 8 首）：
-調性與拍號：ト長調（1 升記號）、4/4 拍（勇壯・活潑ニ ♩=108）
+調性與拍號：ト長調（1 升記號）、4/4 拍（勇壯・活潑ニ ♩=108，弱起 3 個八分音符進入，末行復唱）
 
 
 ## 歌詞
@@ -73,8 +73,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nihon_danji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkQBxqWnplnlZuamZWJxWVQ6fLU4pLUorz43NSc_BSgbi0thWfTlz6bs-b5lO1PWycpaGlxKdoqGBpYcNnbKrhz2Zjom9iBzHixct77PbNezGh7PmXDs-YFT3Z2P-1a-X5Px7O5-142TXyyoxPIeLqg6fnMPS8W9jxbtejpullPp2x8trbn5ey293s6we54NnsT0AxvPQUPPQW_1MySjMSilBKgGY-bux43LXnc3P-4efXj5g6Y8hftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2gExvnfR89VKIHY8bul-unvF8befz5RNB_lg74fmUFUCDQZGoB4xEPVAkgo3l0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6BhgSD1tXfFsWjvQAU839D5r71QIMDA11csqSH-_pweo-OWCRoUCPQUjAyAX6OwnOxqer1nzZFfP07U7ns2ZD2QrWCi8XDYN6F5gaIHseLFq_7OG5SDTu3tfzJwPFAWG0sup24HiQDsMFZ72Am2fAZbpfNzQCIwyBaBKkPXd7U8Xr3_cvPvZlt3P9k583Nyt8GjmSltg7AJVcoGMBloO9sXGjaB4aGp53LgPZEjjumcrFoNEGqdCRJ5t3Q7mtj1uBNoJUvB0Ocjyx40zHzf2PG6EWg0y6_m-PrDEZrC6VY-bup_O6QaL9D9uXA0SbOoAJjmwCDA9gC2bswZsfdPjRmC0AUXWw8xaOu_JbohDuoE2A3VC9D9u6nraBLQAKL4EannjjseNy57s7gILwv2xGmrQi3UQCaAp68FGdIGc1tj_tHsqzF9TwBp6weLTHzc0gbQ9bgQ6af3jpp6nGyD65z9u3ApzJDAtNqJ7DRgu83fB_fK4aQIiXB43AMNpMnYVIAcvebG_BWzWvseNy8FubILqfLoO6G2wRFMTWKIHOcuCpVY_blz8uHHv4yagBQvA5AywzUAjwAlh30pgToFH-q4esLH7F4D1Lnzc1AoMAYjzXzZOBgvuB4oDRZ6unQvmAg2EKni6vxkmMvlxE9BwkuK9YyLY6_1gNT0YoUe3eH82G5Q9QTZDgxQiTly8P9kFjsDGTTAR3IGCiHRMFfgj_cl-SMjPh7qwcRn5kQ40jvLSDgoUtPS5uMKANVWqVUBmYl6-Q41BTTXIBgUbQzMtOzALWMiCirQdDcC6QEHDROHphv7n6xt04OWgJsgQkMIaherctFoF03gFXSAEUmYgFphrCBYyUjAGkiZAXKNgChbRBYuAZA1ASqGyIJU1UCMhOnUVzGHGGEG1gRSC2DVgI5AhjA8yEgRrwPkE5o9dPYT9AXY40D3qUD_ALUf1A8QpUGmwP0FWgkQN1dG8AXMTWBKmRRdkOkIzMFAgoggIF8Dulx2dxMRJQS3cpTAaEsrGcD5qIIJkYfEDshjkYJhHoA6HBQfCSFjII6IMjydqubiCUtOKEoFtGALp7uns2Tj8qKMAyRPIfgUmP4hHjBChDI1MIBuWfFCjA9mXID7YE3ADgSYiBxZIESxo4P7C9DIMovhY104BnNUUgAyo70FMZS4A)]
-- [鋼琴伴奏 TMD 檔案](nihon_danji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2femzOWueT9n-tHXS-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MCCy95WwZ3LxkTfxI6rTkHpxcp57_fMejGj7fmUDc-aFzzZ2f20ayXQiGdz971smvhkRyeQ8XRB0_OZe14s7Hm2atHTdbOeTtn4bG3Py9ltQHOVQGY8m70JaIa3noKHnoJfamZJRmJRSgnQjMfNXY-bljxu7n_cvPpxM8gZYOUv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbQCZ3jrp-eqlEDseN3S_XD3j-drO58sngjy3dsLzKSuABhsZGBnoGRiY6RlYmFiAjeUKSy0qTrUKyEzMyw_ycKgxqKnmUgACG0MzLTswS19L4fmaNU92NAD9oaClDxarUajOTatVMI1X0AVCIGUGYoG5hmAhIwVjIGkCxDUKpmARXbAISNYApBQqC1JZAzUSolNXwRxmjBFUG0ghiF0DNgIZwvggI0GwhgvZybt6UJwMdiPQanWoc-H2oDoXYitUGuwlkOkgUUN1NBfDrAdLwrTogkxHaAb6HyKKgHAB7M7e0YkW0gW1cEfBaEjYGcP5qEEDkoWFOsgOkNtgboa6EeZzhJGw8EREBB731qIkHB_khGOCN90YxitEG8bCKDjfNB5Im8YDRVDVIcSRdBoQimegSrP4XCRb4MaA5YyQ7IHLGMEkEEIgBrpdaJGDoharQ5HUYfUPzBJgiAalphUlZuYRzoxPZ88GuULj6b6VwPyuiZRWgJkSkhCMEAkSmu6BbFimQk25yKkExAcnAriBQBORExtIESxpwdMFZpKBQZQUg-I_PGkGp_egQWYCpEzgYQgKTVhEQ9XBFOCMFKBjdO0UwClYAciAOgyNSUBamQsA)]
+- [主旋律 TMD 檔案](nihon_danji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDVFyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs7mZOZkliUWVyJoz0zPzrHJTM7MysXgOKl2eWlySWpQXn5uak58C1K2lpfBs-tJnc9Y8n7L9aeskBS0tLkVbBUMDCy57WwV3LhsTfRM7kBkvVs57v2fWixltz6dseNa84MnO7qddK9_v6Xg2d9_LpolPdnQCGU8XND2fuefFwp5nqxY9XTfr6ZSNz9b2vJzd9n5PJ9gdz2ZvAprhqKfgl5pZkpFYlFICNOBxc9fjpiWPm_sfN69-3NwBU_uifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzaBpDRrZOer14KseBxQ_fL1TOer-18vnwiyBNrJzyfsgJoMCgR6AETgR4oEYCN5dLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHegYYDA9bV3xbFo70AFPN_Q-a-9UAKUkvayC9Pd7eoCKXy5oVCjQUzAyAHKBzn6yo-H5mjVPdvU8Xbvj2Zz5QLaChcLLZdOA7gUGFciOF6v2P2tYDjK9u_fFzPlAUWAovZy6HSgOtMNQ4Wkv0PYZYJnOxw2NwPhSAKoEWd_d_nTx-sfNu59t2f1s78THzd0Kj2autAVGLdDqp3s2vti6XcFY4WlD99PW1U872l7O3_x8zbKXDZueti4FOXXOamBEPt23EhjIQJO5QE4BOhbs641AkY7HTS2PG_eBLG1c92zFYpBI41SIyLOt28HctseNQDeCFDxdDnLs48aZjxt7HjdCnQoy6_m-PrDEZrC6VY-bup_O6QaL9D9uXA0SbOoApk-wCDDxgC2bswZsfdPjRmA0A0XWw8xaOu_JbohDuoE2A3VC9D9u6nraBLQAKL4EannjjseNy57s7gILwv2xGmrQi3UQCaAp68FGdIGc1tj_tHsqzF9TwBp6weLTHzc0gbQ9bgQ6af3jpp6nGyD65z9u3ApzJDDtNqJ7DRgu83fB_fK4aQIiXB43AMNpMnYVIAcvebG_BWzWvseNy8FubILqfLoO6G2wRFMTWKIHOX-DpVY_blz8uHHv4yagBQvA5AywzUAjwAkHNdJ39YCN3b8ArHfh46ZWYAhAnP-ycTJYcD9QHCjydO1cMBdoIFTB0_3NMJHJj5uAhpMU7x0TwV7vB6vpwQg9usX7s9mg7AyyGRqkEHHi4v3JLnAENm6CieAOFESkY6rAH-lP9kNCfj7UhY3LyI90oHGUl45QoKClz8Xll5mRn-eSmJeVaRWQmZiX71Cja1hTDbJHwcbQTMsOzMJWNCuAisYdDcBySEEDWmBpK5goPN3Q_3x9gw68YNXEohNoL8jUGgUDBV0MXJ2bVqtgGg9kIYgaYFmoC4eGQGwOEgYxjcA0kFsDFgdBsBYQBBkH5pghmQSmTKAqQLoh2oAmgBgge2qghiIgyCCwUnUoowbsAR_DGgWQaej4cfMSMDkPTPaBjXzctBXJQKhc0zIobz5UHUhsJ1j1GpjKpv1QFsTkyWCyC0yuhpq8Hszrhpu9AkxOgvL6gHgRmNUBUd_cj-Y9sMlNINNALoGZAPWjES4_Nj5uXgr3BNybYAMQ3mwEq9gM9coyJG9uBjsdIgNSuZZMb4JEQeatQVFBijfxJ_FdPeAkTmLKRk6voAQDSVGGsHQLTJA1SKkSJcWClSCnWFhihSZToKgRRL0xinFwQ5BTLQhW5xZAcxQIIpIuxP-IuFoFJlug4bkfyJ4BlWkDhz9yoobFAnKYgsIbYgrIbFDcwc0Gxszj5j2IBN-0BYghMQ5SCTJ9O5rrYe593ARKvEguBybIgXA5NJ0BsxJEJWkuJ1CMdpKTxpBLKXBCgBWAIIgoyMBSKCkMBBHpgVhzUHSBS2osBTVS4kLOfo-bQeUZoiyDiE0Fmw0pl0CBDFKxFiqLCERIwENUwiIPoh9UlEDKNoQYyBSYmRCRDUgmQgocZJ3IiYpKLoaWvKjuQHIxvNBDcTGuohDZxWA2gcT0dPZsYGKCVM4vG3tJTlXIkQ-rEUHlF0TcCK1sA0FQWgCJgXB1GjBRQNKMKVjSBMwDpR-YNlhaQrUKZhCBRIUanKCoheRuSP6H5HEQux0c-MhJAx6g0HIAUiWCIhmRsB43NwPxXDALEuwNcLtg0QOKqh3YzMWXtNCiHBTBJLsbnBRh7m6jjbuJT2CQJimkghyCyQwZD430hYyHRspCdXEtF5eunQKiu6EA5ClzAQA)]
+- [鋼琴伴奏 TMD 檔案](nihon_danji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDVFyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKjczJ7MksagS2ZbM9Mw8q9zUzKxMLKEAlS5PLS5JLcqLz03NyU8B6tbSUng2femzOWueT9n-tHXS-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MCCy95WwZ3LxkTfxA5k8IuV897vmfViRtvzKRueNS94srP7addKoBHP5u572TTxyY5OIOPpgqbnM_e8WNjzbNWip-tmPZ2y8dnanpez24Dmgh33bPYmoBmOegp-qZklGYlFKSVAAx43dz1uWvK4uf9x8-rHzSA3gNW-aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btgFkdOuk56uXQix43ND9cvWM52s7ny-fCPLZ2gnPp6wAGgxKQnrAJKQHSkJgY7n8MjPy81wS87IyrQJA4R7k4VCja1hTzaUABDaGZlp2YJa-lsLzNWue7GgAekVBSx8sVqNgoKCLgatz02oVTOOBLARRo2AMJGHQEIjNQcIgphGYBnJrwOIgCNYCgiDjwBwzJJPAlAlUBUg3RBvQBBADZE8N1FAEBBkEVqoOZdSAPeBjWKMAMg0dP25eAibngck-sJGPm7YiGQiVa1oG5c2HqgOJ7QSrXgNT2bQfyoKYPBlMdoHJ1VCT14N53XCzV4DJSVBeHxAvArM6IOqb-9G8Bza5CWQayCUwE6B-NMLlx8bHzUvhnoB7E2wAwpuNYBWboV5ZhuTNzWCnQ2RAKteS6U2QKMi8NSgqSPEmcgLd1YOSQJGTHSjeIQnDEJb8gOmqBilxoSQ8sBLkhAdLc9DUBhQ1gqg3RjEObghy4gPB6twCaMYAQUQKhHgDEeSrwGQLNFj2A9kzoDJt4GBETpuwwEQOGlCwQUwBmQ2KArjZwAB-3LwHkW6btgAxJOJAKkGmb0dzPcy9j5tAaRDJ5cB0NRAuhyYXYI6AqCTN5ShlWSdKUkEuM8DxCSuOQBBRrIClUBIKCCKilVhzUHSBy00sxSZSGkHODI-bQaULomSBiE0Fmw0pJUBhBVKxFiqLCAtI-EFUwuIAoh-UsSElDUIMZArMTIjIBiQTIdkfWSdy2qCSi6HlIKo7kFwML4JQXIyrYEJ2MZiNkiaezp4NTBPAihJS171s7AXX_7AkghyTsMoGVKZAxI3QyhsQBEUsSAyEq9OAMQxJAKZgSRMwD5QYYNpgCQPVKphBBFIIatiA4gmS4yB5EpLvQOx2cEgixzM8dKB5E1LbgGIMkUoeNzcD8VwwCxKGDXC7YGENCvcd2MzFl07Q4g8UWyS7G5yuYO5uo4278aSWp_tWAttdkOpnkKUZZDw0EgsyHhrJBNXFtZhtah-UNrUJokn9dM_GF1u3K2hjb1tDIDBe4xWiDWOBGR5Im8bHIkSgFLBpAmSYAGXgAnC1YBPwtZDMQCqNgSqBjZloI7DpcM1INsJkwcrRlGHagVa1wlXicB9BBaSU0WhBgy2osAYmbovwZm_KrAMmFl07BUR6ifYBSqGJGIFFlLkA)]
 
 ## 分析
 
@@ -82,29 +82,28 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 日本男兒 ]
 ================================================================================
-⏱  Duration:       0:35 (35.6s), 16 measures total
+⏱  Duration:       0:44 (44.4s), 20 measures total
 🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Verse #1 @ m.1, 0:00]
-   - 最高音: D5 in [Verse #1 @ m.2, 0:02]
+🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  A3 in [NihonDanji #1 @ m.8, 0:16]
+   - 最高音: D5 in [NihonDanji #1 @ m.16, 0:33]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Verse (26.7s) -> Refrain (8.9s)
+🏛  結構:      NihonDanji (44.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（推測轉調經歷 1 次）
+🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
-   - 轉調歷程:    G 大調起奏 ➔ [Refrain] 轉至 G 大調 (+5 半音 / 五度圈 -1 步)
-   - 核心骨幹音:  G, A, D, B, F#
-   - 調性數值:    G 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 98.3%]
-   - 候選調性 (K-S): G 大調 (0.85), D 大調 (0.79), B 小調 (0.65)
-   - 五度圈歷程:   +2 -> +1
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  D, B, G, A, F#
+   - 調性數值:    G 調性不明確 [相關度: 0.82, 穩定度: Ambiguous, 自然音純度: 99.3%]
+   - 候選調性 (K-S): G 大調 (0.82), D 大調 (0.81), B 小調 (0.73)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Verse #1]: D 大調 (r: 0.83, 自然音純度: 89.7%, 調外音: C, D#, G#)
-     • [Refrain #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [NihonDanji #1]: D 大調 (r: 0.82, 自然音純度: 95.1%, 調外音: C, G#)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
+         F            G  
       Bb              [D ]*
       Eb               A  
          Ab           E  
@@ -113,21 +112,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████                   7.3%
+     C  : ████                       4.1%
      C# :                            0.0%
-     D  : █████████████████████     19.0%
-     D# :                            0.4%
-     E  : █████                      4.7%
+     D  : ████████████████████████  22.6%
+     D# :                            0.0%
+     E  : ███                        2.7%
      F  :                            0.0%
-     F# : █████████                  7.8%
-     G  : ████████████████████████  21.6%
-     G# : █                          1.3%
-     A  : ██████████████████████    19.8%
+     F# : ███████                    6.8%
+     G  : ███████████████████████   21.3%
+     G# : █                          0.7%
+     A  : █████████████████████     19.9%
      A# :                            0.0%
-     B  : ████████████████████      18.1%
+     B  : ███████████████████████   22.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 81 個音符)
+  - Piano         : A3 – D5 (17 個半音 / 1.4 個八度, 100 個音符)
 ================================================================================
 ```
 

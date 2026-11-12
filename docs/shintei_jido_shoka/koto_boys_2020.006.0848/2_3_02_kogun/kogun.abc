@@ -1,13 +1,27 @@
 X:1
 T:行軍
-C:曲：シューマン（獨）（Schumann）
+C:曲：シューマン（獨）（Robert Schumann）
 M:4/4
 L:1/16
 Q:1/4=104
-K:G
+K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! B4 B2 B2 A4 A4 | G4 A2 B2 c2 A2 B2 G2 | F2 G2 A2 F2 G4 B4 | d4 A6 B2 G2 D2 |
-E6 G2 F2 D2 G4 | A6 c2 B2 G2 A2 B2 | c6 A2 d2 c2 B4 | A4 B4 c3 A F2 D2 |
-E6 G2 F4 A4 | d2 c2 B4 A4 d4 | G6 B2 A2 c2 B4 | d4 c2 B2 A4 G4 |
-E6 F2 G3 A B4 | A4 d4 B2 G2 D3 D | G6 A2 B2 c4 B2 | A4 D3 D G8 |
+!mf! z4 z4 z4 G4 | c4 c3 c c4 d2 e2 | d4 G3 G G4 G2 G2 | d4 d2 d2 d4 e2 f2 |
+w: ミ | ヨ カ シ コ ヒ ー | ト ム レ ノ ヘ イ | シ キ タ ル レ ー
+e4 c3 c c4 c4 | c4 B3 A G4 c4 | c4 B3 A G4 c3 c | c4 B3 A d4 d4 |
+w: ツ ソ ロ ヘ ス | ナ ケ ブ リ ケ | リ タ テ テ シ ン | グン ラ ツ パ イ
+d4 A3 B G4 G4 | G4 A2 B2 c4 c4 | d4 c2 d2 e4 G4 | G4 A2 B2 c4 c4 |
+w: サ マ シ ヤ ジュウ | ハ カ タ ニ ケン | ハ コ シ ニ ク | ツ オ ト ヲ ヒ
+d4 c2 d2 e4 c4 | G4 G3 G G4 c4 | A4 A3 A A4 A3 A | A4 B3 c d4 B4 |
+w: ビ カ シ テ タ | ノ モ シ ノ ツ | ハ モ ノ ヨ ア ハ | レ ア ハ レ ワ
+!mf! c4 C3 C C4 G4 | c4 c3 c c4 d2 e2 | d4 G3 G G4 G2 G2 | d4 d2 d2 d4 e2 f2 |
+w: ガ ヘ イ シ ギ | ニ イ サ ム ヒ ー | ノ モ ト ノ ヨ ニ | モ ヒ ナ キ ク ー
+e4 c3 c c4 c4 | c4 B3 A G4 c4 | c4 B3 A G4 c3 c | c4 B3 A d4 d4 |
+w: ニ タ ミ ゾ コ | ト ア ラ バ コ | ノ イ ノ チ キ ミ | ノ タ メ ニ ヲ
+d4 A3 B G4 G4 | G4 A2 B2 c4 c4 | d4 c2 d2 e4 G4 | G4 A2 B2 c4 c4 |
+w: シ マ ジ ナ モ | ロ ゴ ヱ ニ グン | カ ウ タ ヒ ウ | チ ツ レ テ ユ
+d4 c2 d2 e4 c4 | G4 G3 G G4 c4 | A4 A3 A A4 A3 A | A4 B3 c d4 B4 |
+w: キ ス グ ル タ | ノ モ シ ノ マ | ス ラ ヲ ヨ ア ハ | レ ア ハ レ ワ
+c4 C3 C C8 |
+w: ガ ヘ イ シ

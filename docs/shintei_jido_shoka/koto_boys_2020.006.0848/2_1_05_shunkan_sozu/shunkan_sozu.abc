@@ -7,7 +7,15 @@ Q:1/4=132
 K:Em
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!f! E2 E2 E2 B2 | G3 F E4 | A2 A2 A2 c2 | B3 A B4 |
-!mf! c2 A2 B3 G | F2 ^D2 E3 F | G2 B2 A3 G | F2 ^D2 E4 |
-!f! B3 c d2 B2 | e3 d c4 | A3 B c2 A2 | B3 A B4 |
-!mf! c2 A2 B3 G | F2 ^D2 E3 F | !mp! G2 B2 A3 G | F2 ^D2 E4 |
+!f! B2 B2 e2 e2 | d c B c B4 | e2 d2 d2 B2 | B2 A2 A4 |
+w: 1.~ム カ ヘ ノ | フ _ ネ _ ハ | フ タ リ ヲ | ノ セ テ
+w: 2.~キ カ イ ガ | シ _ マ _ ノ | イ ソ ヤ マ | カ ゼ ニ
+!mf! G3 A G F E ^D | E F G A B4 | G3 A G F E ^D | E2 E2 E4 |
+w: 1.~カ ナ シ _ ヤ _ | ナ _ ミ _ ノ | ア ナ タ _ ニ _ | キ エ ヌ
+w: 2.~フ カ レ _ テ _ | ヒ _ ト _ リ | ミ ギ ハ _ ニ _ | タ テ バ
+!f! d B G B d4 | c A F A c4 | e3 d d2 B2 | B2 A2 A4 |
+w: 1.~ナ _ キ _ テ | ノ _ コ _ ル | ト モ ナ シ | チ ド リ
+w: 2.~ツ _ キ _ モ | ハ _ ナ _ モ | カ ハ レ バ | カ ハ ル
+!mf! G3 A G F E ^D | E F G A B4 | !mp! G3 A G F E ^D | E2 E2 E4 |
+w: 1.~カ ゼ ダ _ ニ _ | ツ _ ゲ _ ヨ | ミ ヤ コ _ ノ _ | ソ ラ ニ
+w: 2.~キ ノ フ _ ノ _ | ナ _ ガ _ メ | コ ヨ ヒ _ ノ _ | コ コ ロ

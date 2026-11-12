@@ -74,8 +74,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gunkanki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkQBxqWnplnlZuamZWJxWVQ6fLU4pLUorz43NSc_BSgbi0thRe7e190Lns2fbqClhaXoq2CoYEJl72tgjuXjYm-iR3IgBcr573fMwuo4mV739PFq190rgeb-2z2JqCwR2peUaWCc05ipUJ4flH2-z0dj5uWPW5a9bh5z-Om9e_3dILVvmjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H65esbztZ3Pl098PmX707UTnk9ZATQVFCN6wBjRA8UI2FgufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBjgH6_GnrimfT2oEOeLqh91l7p0KAgYmhXlZB-vs9PUDFLxc0KhToKZgBeUBXP9nR8HzNGiD5dO2OZ3PmA9kKZgovl00DOhcYUiArXqza_6xhOcjw7t4XM-cDRR83d7ycuh0oDrTCUOFpL9DyGWCZzscNjcAYUACqBNne2vxsw-LHzSuAgarwaOZKW2A0AdWAnd2-68XMqS9W7AbqBBoIVPxs7r6XTROf7OgEMp4uaHo-c8-LhT3PVi0CBTU4kF_ObgNpBukGuvZxQ8Pj5nmPm3YC3fK4cfXz1h5QLDZuetwEdHbn46bGx439wNgHC65_3Ah2W-Pkx41zQdyGRpApjxtbHjeueNy48nFT0_Op_WCl3Y8bpwPVgVUD47rh6ZKVz2eBQvJx40yQoU1A8T6w7DqoKS82zwFLz3_cuA8ssQloBFDweedKuDjQAqAGcPA0PJ_W93zqUrBU1-OmXrCLusEaV0NNfLpkEThFtgEtBEuserYRFEKPGyc-bgR6EygCdOPcx00djxuaQBqedUx8OmE2WE8_UAXI5Y3AqAE58um-hc9XzHm6AmgQUP9-sJeBlne-AMUuUATsqMbZUJtBBs0BOgZuEJBcDTVoXceLtdvBesDeaeoCmbJpAcQjYDVboc4BZk6wKNAqoP6pEP3A7AoW3Pq4cS1YZP7jpm5QAPdueL4aYsp0kEgjMMpAXn7cBMxVkGgCBwSBUACnil1ALUSliqd7N8ITBjjOJ4HNQySMqaDoBgXA6hd75sISRs_jphawun6gNc-mQ-IQWJyAvPdszhpwsAHjGZjxkZMHuKSChT7c9yteLAOHMySemrpfNLTC9EPTydPWDkhog9UvfdYAzJHgNNMIdBBIC9yxwMiY-7QbkkiBYQ4J8H3g8ARyV0Fj5eXcSc-2QiIQqGHS48Y2eCJ5vgsSTEsgaQMURvMgiRoYQEC3g3I1yIjnM_c-2wxOmyCzwbEEM-JlAyRuuoHxAUkM0IQET0IQI57snQrM9zCnLoVmtaampxtanrcuh4kDy2JwfDXOxJ08ukj0P-XFLRQoaOlzcfkmAiumgMzEvHyHGoOaapAFCjaGZlp2YBawkIeUqcAiDOgsp8SiYgXDRw2TQaUfSDtITY2CsYIuEJqAaUMgNosHC5jHI3g1UKWmIA5IFISNgBiiFwFRFII1A41BKAdhGBumFNl6kLgphpHIftnVg-QXU6BfQPUZwi_VuWm1NPEQSA4kawIVh6gzhIoj1IHMQYYwvgFW3-zoRPKNJdA3hkYo3oHphrkKFjYQ2hhuK8hVZlBxEBuXL4g1DxYSMLNgvsQaJ09nz0ZOX8YgbwAr9aEVK7VcXLp2CqDspACklbkA)]
-- [鋼琴伴奏 TMD 檔案](gunkanki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixu_dF57Jn06e_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDUy47G0V3LlsTPRN7LjqFJRerJz3fs8soLaX7X1PF69-0bleCST8bPYmoLBHal5RpYJzTmKlQnh-UTbQ5MdNyx43rXrcvOdx03qgsWC1L9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bul-unvF8befz5ROfT9n-dO2E51NWAE01MjAy0DMwMNMzsDCxABvL5ZuYmWcVkJmYlx_k4VBjUFPNpQAENoZmWnZglr6WwvM1a57saHixsEdBSx8sVqNgrKALhCZg2hCIzeLBAubxCF4NVKkpiAMSBWEjIIboRUAUhWDNQGMQykEYxoYpRbYeJG6KYSSy23f1oLi9OjetliYeAMmBZE2g4hB1hlBxhDqQOcgQxjfA6vodnSiuhymGOQLmdQhtDLcE5AgzqDiIjcvRxJoH8zjMLJinsAb509mzh1qQ1yJnBR_krGCCNycYxitEG8YCnQ-kzeJzY8GuB7JN42NhckgiRkDaCKLKGCIJl8KbZomyxQTIMAEKIIyEyQEpAwLJCqIQ6iiEWXDD0RWgeAnD_egJgDruB8aRrp0CKJoUgLQyFwA)]
+- [主旋律 TMD 檔案](gunkanki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDFEyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs7mZOZkliUWVyJoz0zPzrHJTM7MysXgOKl2eWlySWpQXn5uak58C1K2lpfBid--LzmXPpk9X0NLiUrRVMDQw4bK3VXDnsjHRN7EDGfBi5bz3e2YBVbxs73u6ePWLzvVgc5_N3gQU9kjNK6pUcM5JrFQIzy_Kfr-n43HTssdNqx4373nctP79nk6w2hftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd0vV894vrbz-fKJz6dsf7p2wvMpK4CmgiJVDxipeqBIBRvLpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DFAnz9tXfFsWjvQAU839D5r71QApQy9rIL093t6gIpfLmhUKNBTMAPygK5-sqPh-Zo1QPLp2h3P5swHshXMFF4umwZ0LjCkQFa8WLX_WcNykOHdvS9mzgeKPm7ueDl1O1AcaIWhwtNeoOUzwDKdjxsagTGgAFQJsr21-dmGxY-bVwADVeHRzJW2wGgCqgE7u33Xi5lTX6zYDdQJNBCo-NncfS-bJj7Z0QlkPF3Q9HzmnhcLe56tWgQKanAgv5zdBtIM0g107eOGhsfN8x437QS65XHj6uetPaBYbNz0uAno7M7HTY2PG_uBsQ8WXP-4Eey2xsmPG-eCuA2NIFMeN7Y8blzxuHHl46am51P7wUq7HzdOB6oDqwbGdcPTJSufzwKF5OPGmSBDm4DifWDZdVBTXmyeA5ae_7hxH1hiE9AIoODzzpVwcaAFQA3g4Gl4Pq3v-dSlYKmux029YBd1gzWuhpr4dMkicIpsA1oIllj1bCMohB43TnzcCPQmUAToxrmPmzoeNzSBNDzrmPh0wmywnn6gCpDLG4FRA3Lk030Ln6-Y83QF0CCg_v1gLwMt73wBil2gCNhRjbOhNoMMmgN0DNwgILkaatC6jhdrt4P1gL3T1AUyZdMCiEfAarZCnQPMnGBRoFVA_VMh-oHZFSy49XHjWrDI_MdN3aAA7t3wfDXElOkgkUZglIG8_LgJmKsg0QQOCAKhAE4Vu4BaiEoVT_duhCcMcJxPApuHSBhTQdENCoDVL_bMhSWMnsdNLWB1_UBrnk2HxCGwOAF579mcNeBgA8YzMOMjJw9wSQULfbjvV7xYBg5nSDw1db9oaIXph6aTp60dkNAGq1_6rAGYI8FpphHoIJAWuGOBkTH3aTckkQLDHBLg-8DhCeSugsbKy7mTnm2FRCBQw6THjW3wRPJ8FySYlkDSBiiM5kESNTCAgG4H5WqQEc9n7n22GZw2QWaDYwlmxMsGSNx0A-MDkhigCQmehCBGPNk7FZjvYU5dCs1qTU1PN7Q8b10OEweWxeD4apyJO3l0keh_yotbKFDQ0ufici_NA1Zx2ZlWAZmJefkONQY11SBLFGwMzbTswCxsBb0CpKQFFmwKGiYKTzf0P1_foAMvnTWxaADaBTKsRsFYQRcIjRQMwaQumG8aj0LUKJiBKF0F83i4MhCNDIEGQdSYxCPpBOtDsECaasDaQWyYbRA-klFgl_kY1igAsxxYBJjvgOwOEKu5G0xOApMrweRCsIr1YLMfN_dDdewH4s1g1l6wKog4soMfNy2BqAWa_Li5E8xaBNaxGkxuB5MQM9ZCdeyE6lgIs71pHZjfh90PRpT7AeKWTTj9sBVhetMahOlQfRARkD8RpoPshbgZ6l-oqzD9gD-97eohJ71V56bVQlMPIgmYADE4hSCIGlC6gamDJFFIUkX2PizpQGgjMA3DEBXo6RTGN4DajJTYgMENCZh5sMiBJgGQOCQaYQEGCiqQjlVANihpwJIZJOAhUYAWUc3LoGxIZIPoLqDqjWA94GgC2waLVohpCAhs7EBZoMB53AyOTKRENh-qaioQ94JZkEgFiT9uBicGVLeDfdkKdfMquB8gatETGUgnRAWEBco6kKQHDRdkt4OTG6rbu5DdDjaDUOLa0UlO4jJFshVckKHxYenBEEzDyyRUJYQNQU5uwDIRbxEGjlt4SIALElhswUIHFiPQOASFLThmIDKPm3ajqIZmYzRzQaKo6Q45piH8RUAMimlIfIPSClZXg9MTqMBBmA5Ku7hc3QLlt8JdASqmHje3oZgASh8g1aDiDmEGKF3gMBdcgEHSPcSl2PwIcTXelPR09uwhXkwhRQ04QUFrLWBwwLIgOJlAAgmS-aFFFigIQTq2w7M1LKOCC59m5CQEcQd1iykkl4MSFby-BSUVcL0KrW_B9RM4wcBqVVA9i8_lkAILxeVULaQgLq_l4tK1U4A1yRSAbGUuAA)]
+- [鋼琴伴奏 TMD 檔案](gunkanki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDFEyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKjczJ7MksagS2ZbM9Mw8q9zUzKxMLKEAlS5PLS5JLcqLz03NyU8B6tbSUnixu_dF57Jn06e_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDUy47G0V3LlsTPRN7ECmvlg57_2eWUBtL9v7ni5e_aJzPdiyZ7M3AYU9UvOKKhWccxIrFcLzi7KBJj9uWva4adXj5j2Pm9YDjQWrfdG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P1y9YznazufL5_4fMr2p2snPJ-yAmgqKEnoAZOEHihJgI3lci_NA4ZsdqZVACgUgzwcagxqqrkUgMDG0EzLDszS11J4vmbNkx0NLxb2KGjpg8VqFIwVdIHQSMEQTOqC-abxKESNghmI0lUwj4crA9HIEGgQRI1JPJJOsD4EC6SpBqwdxIbZBuEjGQV2mY9hjcLj5nlgkcdNO4HsDhCruRtMTgKTK8HkQrCK9WCzHzf3Q3XsB-LNYNZesCqIOLKDHzctgagFmvy4uRPMWgTWsRpMbgeTEDPWQnXshOpYCLO9aR2Y34fdD0aU-wHilk04_bAVYXrTGoTpUH0QEZA_EaaD7IW4GepfqKsw_YCcbHb1oCSb6ty0WmgiQMSkCRCDIxpB1ICiH6YOktIgKQ7ZF7AUAKGNwDQMQ1SgJzcY3wBqM1KaAYYaxH_zYGEMjUmQOCQ2YP4G-RikYxWQDYphWGqBhB8kJNHCu3kZlA2JMxDdBVS9EawHHNpg22CxAzENAR83r4CyQIHzuBkcJ0hpZT5U1VQg7gWzIHEDEn_cDI5TVLeDfdkKdfMquB8gatHTCkgnRAWEBcoBkBQEDRdkt4NTDarbu5DdDjYDNY3s6ERJI6ZImsHFChofFq2GYBpeQqAqIWwIcqoBllB4CxRwFME9BM7WsECHeRIWsNCoAAUROIAhMo-bdqOohmYqNHNBoqjJBznCIPxFQAyKMEi0gaIcq6vByQKU_RGmg5IgLle3QPmtcFeACo3HzW0oJoCiGaQaVPggzABFLw5zwcUJJPlCXIrNjxBXIyWIp7NnD9ZCAymEwekCWhUAfQXLEODYhvgVkhWhBQgoJEA6tsMzGSzbgIuCZuSUAHEHdQsNJJeD0ga8EgPFOLiyglZi4EIfHO-wqgpUeeFzOaT4QHE5VYsMiMtr0VsrPsitFRO8jRXDeIVow1gYVQNqbESbxCMJoCswjQeyTIEq4Ay8tRpUH8xYosxDUmOAvzyktuvRsxcVXA-MHF07BVj8RPsAZVD4RmC-MhcA)]
 
 ## 分析
 
@@ -86,21 +86,21 @@ tmd_source:
 ⏱  Duration:       0:36 (36.9s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Main #1 @ m.2, 0:02]
-   - 最高音: E5 in [Main #1 @ m.10, 0:21]
+🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  B3 in [Gunkanki #1 @ m.3, 0:04]
+   - 最高音: D5 in [Gunkanki #1 @ m.9, 0:18]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (36.9s)
+🏛  結構:      Gunkanki (36.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  B, G, A, D, C
-   - 調性數值:    G 大調 [相關度: 0.83, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.83), B 小調 (0.68), E 小調 (0.62)
+   - 核心骨幹音:  G, A, B, D, E
+   - 調性數值:    G 大調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.77), D 大調 (0.69), E 小調 (0.52)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [Gunkanki #1]: G 大調 (r: 0.77, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -113,21 +113,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████                     7.3%
+     C  : ██                         2.0%
      C# :                            0.0%
-     D  : ███████████               13.3%
+     D  : █████████████             15.2%
      D# :                            0.0%
-     E  : ██████                     7.3%
+     E  : ███████                    8.4%
      F  :                            0.0%
-     F# : ██                         2.0%
-     G  : ████████████████████      25.0%
+     F# : █                          1.2%
+     G  : ████████████████████████  28.4%
      G# :                            0.0%
-     A  : ████████████              15.3%
+     A  : ████████████████████████  28.0%
      A# :                            0.0%
-     B  : ████████████████████████  29.8%
+     B  : ██████████████            16.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 88 個音符)
+  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 88 個音符)
 ================================================================================
 ```
 

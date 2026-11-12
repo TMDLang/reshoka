@@ -4,13 +4,13 @@ song_title: "突貫"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_04_tokkan"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈突貫〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹、曲：リール（佛）（Lisle，佛國國歌）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山に充ち野にあふれ　滿目みな敵 對峙する我軍　士氣燃ゆる如し…"
-keywords: "突貫, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹, リール（佛）（Lisle，佛國國歌）"
+description: "〈突貫〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹、曲：リール（佛）（Claude Joseph Rouget de Lisle，佛國國歌）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山に充ち野にあふれ　滿目みな敵 對峙する我軍　士氣燃ゆる如し…"
+keywords: "突貫, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
 credits:
   - "詞：大和田建樹"
-  - "曲：リール（佛）（Lisle，佛國國歌）"
+  - "曲：リール（佛）（Claude Joseph Rouget de Lisle，佛國國歌）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "G"
@@ -35,13 +35,13 @@ tmd_source:
 - **鋼琴伴奏版**：<br><audio controls src="tokkan.mp3"></audio>
 
 - 詞：大和田建樹
-- 曲：リール（佛）（Lisle，佛國國歌）
+- 曲：リール（佛）（Claude Joseph Rouget de Lisle，佛國國歌）
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 
 ## 說明
 
 原書資訊與歌詞全文（對應 P110.jpg – P111.jpg，書頁 pp. 33–34，高二第三學期第 4 首）：
-調性與拍號：ト長調（1 升記號）、4/4 拍（威嚴ヲ以テ ♩=116 Maestoso.）
+調性與拍號：ト長調（1 升記號）、4/4 拍（威嚴ヲ以テ ♩=116 Maestoso.，弱起 1.5 拍進入）
 出處註記：（松邑三松堂發行檢定唱歌集）
 
 
@@ -53,6 +53,7 @@ tmd_source:
 進軍の號令は　待てども未だ下らず
 嵐すぎて天地ただ靜か　見よ／＼日の御旗
 高く揚ぐる時は今ぞ　突貫突貫進めや國のため
+（註：五線譜下第 27 小節印作「クニノミタメ」，歌詞頁印作「國のため」。）
 ```
 
 ## ABC
@@ -63,8 +64,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tokkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkQBxqWnplnlZuamZWJxWVQ6fLU4pLUorz43NSc_BSgbi0theerGl9sWq2gpcWlaKtgaGjGZW-r4M5lY6JvYgfS_WLlvPd7Zj1dsvzppJ7nUzY83b3r2YqdYHOfzd4ElHncvOpx857Hzavf7-l4snf2-z2dQIZPZnFO6vs9PUCBp3O6gejZ2h6gDFjbi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07ZCNTxuKH75eoZz9d2Pl8-8fmU7U_XTng-ZQXQdFDk6AEjRw8UOWBjufS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoBzoGGA5PW1c8m9YOdMDTDb3P2jsVAgwNDfSyCtIVHjVMBnEMQRygr4E6Xy5oVCgo0FMwNgbKGZsABYE-ebKr5_maNU92dD5du-PZnPlAtoKJwstl08BhNgtk7YtV-581LAdZ2N37YuZ8cPB2vJy6HSgOtNZQ4Wkv0EEzwDKdjxsagXGkAFQJctGKxqeztjxu3vRk99LHzW0Kj2autAXGpYJvIjDC84vz9YAawP5q3_Vi5tQXK3YDjQGaDtT5bO6-l00TgY4CMp4uaHo-c8-LhT3PVi0CxQU4Fl7ObgNpBuveuPFx4-qnra2PGxe-bO8Dsh83Nj1u3Pq4CRhXDc92738-e93jxv2PG1c9m7oVrGFD79PNMx83znzc1P2sY-KL3cCIbni6ePWzDYuftzc_bmoDij9dBjRiOkj1y4ZNIBWN64AefLJ7yePG9SDV-4C2LXvcuPJxU9OzOaseNy54sqP7cVPn40ZwiD3dOgFkfCPQMcueLln5dM6Gx43zgYpezp3zuLEbqP_FMqDqjvd7-t_v2fNs-lKg6U_3LXw2HWLh6hmPG_uf9c963DgB5MKZQJesf7K763HjPKBOSMaAkECnPW5qfNzUAkzLQCNAdjQ1goygPLlBgYKWPheXbyIwjwZkJublO9ToGtZUg2xQsDE007IDs4Cp_OmejS-2bn-6of_5-gZw8lii8Lh5HhB3gwwAKapRMFDQBUNkujqtVsE0HsgAE2CqBhynIEPBqbIBGO8KGibAOAOZrQk2fD7Q4EYg7gNbUKPwuGkRkDUViNeArH3cvBlIAYWa1oMkwcq7gLgNrHQtEO8H4iUIlxlCXQSjjdDoGgVTKAsEjeEqDcFsEF2jYAbxgC4w7yCUIgwxB3oMbj4MwkKiOhcYDBBJIzT_7-rB9H_TDqDzdwI9tBqI1wPZa8Ae2wDkAT3etB3sSZDHQaGyDKKuaQuQ7gCrA8kDMVAtPAAg3kB4D8aH-MUYSQUsSGBOh_BBKpD9DWLD-JCgM0GzBcX7oEQAVYsW-51YfA_1Jyj2m9Y8bgJ5EBjtwPgEebkfmu7agLgTHAQgL8NSYwM4TYDp5pVA9i544gHxQAEDDNamdYiAgcU7LJ7R-UAVsHiHQXBkGoDEIQgW6Qj_QwwxBsuAwg-WoGrgoQsLWVgYQnSipY2ns2eDQ8cUJW-APA5O6OAwAuYSUGIHexwU561gD4PSDShTrIBnjxVAPAmao0D8frA6UDbZj5lNMOKvAORhmB-MdZCUgDkIAuQfkO9RfYoMobqBXkWxDiwM0QPMdJhqgNkL1U3wwgVkG2qOmoIZak2rgY0FSNoApQZgEgMFDCiYIFlmLVgalLigSQkkuA8s_bi5BRKmkACHCGCkHxQvQoMK4gNcmQJEQ4KKsBnogQkzA542cccdvIhDSVmta7GH0WawV0F5BFT8LASHEjBAmtaDwgfE6YYEFDQZARMPSHAh9oIGm3NQixGwH6C0GVwFrqRTnQaMb3OEj-OwqAGZArEBPYUhuwLuGq5aLi5dO2BzJTNPAUgrcwEA)]
-- [鋼琴伴奏 TMD 檔案](tokkan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-qvHFptXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDQzMue1sFdy4bE30TO646BaUXK-e93zPr6ZLlTyf1PJ-y4enuXc9W7FQCyTybvQko87h51ePmPY-bQcY-2TsbaBSQ4ZNZnJP6fk8PUODpnG4gera2BygD1vaifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzYCdTxu6H65esbztZ3Pl098PmX707UTnk9ZATTdyMDIQM_AwEzPwMLEAmwsl29iZp5VQGZiXn6Qh0ONrmFNNZcCENgYmmnZgVn6WgpP92x8sXX70w39z9c3KGjpg4VrFAwUdMEQma5Oq1UwjQcywASYquGCGfN8zZonOxpeLOxBmGEI1QujjdDoGgVTKAsEjeEqDcFsEF2jYAaxSlfBBEkpwhBzoBPg5sMgzM3VuUAHQySN0Fy6qwfFpRD7EO6A8SGWGiOpgLkdZgeED1KB7EAQG8aH-NEEzRYUd4LCFaoWLUA7UZwJCy5Y8KDzgSpgwQWD4DAwAIlDECysEK6BGGIMlgH5BhYPNXC_wvwJ8xFEJ1qQPp09G2vkY3i2AOQemBXGOkhKwBwEAbIO5DhUhyBDqG6gS1CsAwtD9ACTEqYaYKJBdRM8cYNsQ00nU7BGAIojoJ6B2IErjkE0xDOEzUD3LswMeOTiDl141kKJmta1OFM7NkNQ0zLYZihtBleBK0qq04DhaI5wZxwWNSBTIDagxxyyK-Cu4apFLsh8UAoyE8LlGATW4Cun4hWiDWMVjICUaXwsKIAgAlBxUCEEZJnF5yKrgUoCKTTD0YoWhDqIWaYgs0BGgBhArXAjiTAarTiAqoO6FsloiE4MeQyb8GVfiCZw0EE4IO_DGTidjRpIcBdhRAFaxkJ3Kqb12PwJKtfAFQBMNdBmFE-hJ3zkgFUwAfJMgKZghA_cfLjJIKVGEH8juwyUMnXtFECJUwFIK3MBAA)]
+- [主旋律 TMD 檔案](tokkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNDTAKWOIkCkoyi9LzUvMA5pbUARyYgrYYISC1LLMlFSQdHFyYl58WWpRZlpmagqS41OLisEehFhRUpSYV5xclFkA8jVCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIeUjiUZKQCgyE3MyezJLGoEllzZnpmnlVuamZWJhZvQ6XLU4tLUovy4nNTc_JTgLq1tBSer2p8sWm1gpYWl6KtgqGhGZe9rYI7l42JvokdSPeLlfPe75n1dMnyp5N6nk_Z8HT3rmcrdoLNfTZ7E1DmcfOqx817Hjevfr-n48ne2e_3dAIZzjmJpSmpCl75xakFGQpB-aXpqSUKQAGfzOKc1Pd7eoAKn87pBqJna3uAOsDGvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjUAdjxu6X66e8Xxt5_PlE59P2f507YTnU1YAbQWlCD1gitADpQiwsVz6Wgq21AJcCgoKT_vmP5u948Xm9hcrul50tAMdAwyfp60rnk1rBzrg6YbeZ-2dCqBkpZdVkK7wqGEyiGMI4gB9DdT5ckGjQkGBnoKxMVDO2AQoCPTJk109z9esebKj8-naHc_mzAeyFUwUXi6bBg7LWSBrX6za_6xhOcjC7t4XM-eDg73j5dTtQHGgtYYKT3uBDpoBlul83NAIjDsFoEqQi1Y0Pp215XHzpie7lz5ublN4NHOlLTCOFXwTgQkhvzhfD-iCp3s2vti6XcFQzxSk6WXDpqetS4HmgL3bvuvFzKkvVuwGmg60FGjgs7n7XjZNBLoVyHi6oOn5zD0vFvY8W7UIFEXgyHk5uw2kGax748bHjauftrY-blz4sr0PyH7c2PS4cevjJmAUNjzbvf_57HWPG_c_blz1bOpWsIYNvU83z3zcOPNxU_ezjokvdgPjv-Hp4tXPNix-3t78uKkNKP50GdCI6SDVQJeCVDSuA_r7ye4ljxvXg1TvA9q27HHjysdNTc_mrHrcuODJju7HTZ2PG8EB-XTrBJDxjUDHLHu6ZOXTORseN84HKno5d87jxm6g_hfLgKo73u_pf79nz7PpS4GmP9238Nl0iIWrZzxu7H_WP-tx4wSQC2cCXbL-ye6ux43zgDoh-QhCAp32uKnxcVMLMIkDjQDZ0dQIMgIYgsDQBAblk11Tnm-f9WLtHKDzQBFuZA70ff_z9Q1Pezc82TvncUPP46b1j5u7Hzf3PW4G6t7_uHnh4wZglPZA0hwwIcFVIlsCVPO4oQkafZSneShQ0NLn4grJzwYWRVYBmYl5-Q41uoY11SA7FGwMzbTswCxsmU0BnLIbgIlEQQM1oSloA1M5xM868CyjicUEoN0g02sUDBR0wRCZrk6rVTCNBzLABJiqUTCEKoDRRmh0jYIplAWCxnCVhmA2iK5RMIOYpwt0JEIpwhBzZHtgEOaw6lygqyCSRgo1YNf7GNYowExEph83LwGT88AiwAgHGguMcKiKx82NcFYfnNUN98bjpkVI1j9ungom10B58x43bwZSECXA5IRmdBea60HlA4TeAzZ6LZo8zNnAxAillwA9hz_md_WAY57EiIbEAiJ2YHxIVBgjqYDFKCzkIXyQCuRoA7FhfEjMm6DZgmwGOElB1SIi73HTDuSwatoJDqnVMH7zeqj4GnDYbYCLb4ayEKG3HUqvBccHagQuQzW1aQtUvANsKkQnthiBmgm0jVCM7OgEx4gpaTECyy-w_IHOB6qAOQYGwZkAEqZAOWzZEzl6QBBLzgLRIAwURNWDlEGR1UENgDoKKfLQIwSUn4CR9bgJFOIQAWi2AaVqIK8fzUKIoaCMisgnnRgxCDMBZiYsWzeA4w-SRiB8ELkSrHoXhtfQszVEHSz2IWkPRK8jFNtPZ88mJ7ZhuQoG4TmjABKjIHlg_tFBUgLmIAhIlALzD4ZZKBrA5SNKegCx4VIQCZQEAU8IGJUAyE2ICIfGEQKiFrogWZAqWO6EhDOosIWUbtAYguerVnCswPIlOoSVqo-bV6CUsTAxEDkJygMmO7jqfrCpkNIUUu5icStYnmA5O4WSXI0WM4iqC2dKgOZrisyAlxi4K1J4hY2Uk7FHAihzwbINKLeDogFdJWr9CytU12I3Dxg5sIwMysYglftwmAc06XFzC9wzQCeiJizcagnk3ta15MQqer2GHqiodSMIwuLQDK4CV66tTgNmNYgyfJEPsQA9byM7Au4Y5JjFDDYYRCQVWOmHgAgRYBsZoQ7csMIGYeUwtJ0Db06hqULOqcA8CFIJMx3dVXDXcdVycenaKUBaygpAljIXAA)]
+- [鋼琴伴奏 TMD 檔案](tokkan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNDTAKWOIkCkoyi9LzUvMA5pbUARyYgrYYISC1LLMlFSQdHFyYl58WWpRZlpmagqS41OLisEehFhRUpSYV5xclFkA8jVCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIeUjgkFgE1p6fmpuaVWBVkJublxycmJ-fnFiTmZYLEEApLMoCKrHIzczJLEosqkW3JTM_Ms8pNzczKxBI-UOny1OKS1KK8-NzUnPwUoG4tLYXnqxpfbFr9fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDTjsrdVcOeyMdE3sQMZ-WLlvPd7Zj1dsvzppJ7nUzY83b3r2YqdYMuezd4ElHncvOpx857HzSBjn-ydDTQKyHDOSSxNSVXwyi9OLchQCMovTU8tUQAK-GQW56S-39MDVPh0TjcQPVvbA9QBNu5F-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2wE6njc0P1y9YznazufL5_4fMr2p2snPJ-yAmgrKD3pAdOTHig9gY3lCsnPBga-VQAomIM8HGp0DWuquRSAwMbQTMsOzNLXUrBFBwrP16x5sqPhxcIeBY2neza-2LpdwVDPVOFZd6-CtoKJwtMN_c_XN-gogFKfXlZBuiYWE7T0wabXKBgo6IIhMl2dVqtgGg9kgAkwVaNgCFUAo43Q6BoFUygLBI3hKg3BbBBdo2AGMU8X6EiEUoQh5sj2wCDMYdW5QFdBJI0UasCu9zGsUYCZiEw_bl4CJueBRR43dwONfdw8H6ricXMjnNUHZ3XDvfG4aRGS9Y-bp4LJNVDevMfNm4EURMnjpvVoRnehuf5xcxuU3gM2ei2aPMzZj5v2Q-klQM_hj_ldPeCYJzGiIbGAiB0YHxIVxkgqYDEKC3kIH6QCOdpAbBgfEvMmaLYgmwFOUlC1iMh73LQDOayadoJDajWM37weKr4GHHYb4OKboSxE6G2H0mvB8YEagctQTW3aAhXvAJsK0YktRqBmAm0jFCM7OsExYkpajMDyCyx_oPOBKmCOgUFwJoCEKVAOW_ZEjh4QxJKzQDQIAwVR9SBlUGR1UAOgjkKKPPQIAeUnYGQ9bgKFOEQAmm1AqRrI60ezEGIoKKMi8kknRgzCTICZCcvWDeD4g6QRCB9ErgSr3oXhNfRsDVEHi31I2gPR6wjF9tPZs8mJbViugkF4ziiAxChIHph_dJCUgDkIAhKlwPyDYRaKBnD5iJIeQGy4FEQCJUHAEwJGJQByEyLCoXGEgKiFLkgWpAqWOyHhDCpsIaUbNIbg-aoVHCuwfIkOYaXq4-YVKGUsTAxEToLygMkOrrofbCqkNIWUu1jcCpYnWM5OoSRXo8UMourCmRKg-ZoiM-AlBu6KFF5hI-Vk7JEAylywbAPK7aBoQFeJWv_CCtW12M0DRg4sI4OyMUjlPhzmAU163NwC9wzQiagJC7daArm3dS05sYper6EHKmrdCIKwODSDq8CVa6vTgFkNogxf5EMsQM_byI6AOwY5ZjGDDQYRSQVW-iEgQuRx80KEOnDDChuElcPQdg68OYWmCjmnAvMgSCXMdHRXwV3HVYvaUPZBaSibQNvJoJYsBALDJ14h2jAWmBeAtGl8LEIESgEjC8gwAcpgVQI0Amokuja4chADZBOKACUGQWVg7sLmBzMQ0yw-N1bBGCYGq1qgfCTfg5TBGQgVMBpJFUIIbhfYHEIuRwlqbNIgJlyBAcgemJkg98NDCO5nuBkgFxnBnAZmQM3FGqcQxwLTiK6dAiSZKABZylwA)]
 
 ## 分析
 
@@ -72,24 +73,24 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 突貫 ]
 ================================================================================
-⏱  Duration:       0:55 (55.9s), 27 measures total
+⏱  Duration:       0:57 (57.9s), 28 measures total
 🎼 Key & Tempo:    首調基準 G, != 116.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – G5 (MIDI 79) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  D4 in [Main #1 @ m.1, 0:01]
-   - 最高音: G5 in [Main #1 @ m.27, 0:53]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (55.9s)
+🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  D4 in [Tokkan #1 @ m.1, 0:01]
+   - 最高音: E5 in [Tokkan #1 @ m.26, 0:53]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Tokkan (57.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D, A, B, C
-   - 調性數值:    G 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 94.8%]
-   - 候選調性 (K-S): G 大調 (0.86), D 大調 (0.68), B 小調 (0.56)
+   - 核心骨幹音:  D, G, A, B, C
+   - 調性數值:    G 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 95.5%]
+   - 候選調性 (K-S): G 大調 (0.86), D 大調 (0.77), G 小調 (0.51)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.85, 自然音純度: 94.7%, 調外音: A#)
+     • [Tokkan #1]: G 大調 (r: 0.84, 自然音純度: 95.4%, 調外音: A#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -102,21 +103,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ███████████               10.6%
+     C  : ████████████              10.5%
      C# :                            0.0%
-     D  : █████████████████████     19.4%
+     D  : ████████████████████████  21.5%
      D# :                            0.0%
-     E  : ███                        2.6%
+     E  : █████                      4.2%
      F  :                            0.0%
-     F# : ██                         2.3%
-     G  : ████████████████████████  22.5%
+     F# : █████                      4.5%
+     G  : ████████████████████████  21.5%
      G# :                            0.0%
-     A  : ████████████████████      19.1%
-     A# : ██████                     5.2%
-     B  : ████████████████████      18.3%
+     A  : ███████████████████████   20.2%
+     A# : █████                      4.5%
+     B  : ███████████████           13.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – G5 (17 個半音 / 1.4 個八度, 105 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 106 個音符)
 ================================================================================
 ```
 

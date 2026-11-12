@@ -68,8 +68,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shukai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2anJ-bW5qXWVKJkACalp6ZZ1WSmAn0HMiD5YnxuYmZeTmJeSlKXFpaCi9ntz2b06ygpcWlaKtgaGzBZW-r4M5lY6JvYgcy5MXKee_3zHo6ofPJjh1PdjQ8m9EDNvtF-67njYufTZ35omkTUPvT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P1y9YznazufL5_4fMr2p2snPJ-y4v2eDlBY6gHDUg8Ulu_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnQM0DdPW1c8m9YOdMDTDb3P2jsVAgzMjPSyCtLf7-kBKn65oFGhQE_ByBzIBTob6OPna9Y82dH5dO2OZ3PmA9kKRgovl00DuhcYKiA7Xqza_6xhOcj07t4XM-cDRR83d7ycuh0oDrTDUOFpL9D2GWCZzscNjcBgVQCqBEo9a-l8un_14-ZuhUczV9oCAx6oAOzo9l0vZk59sWI3UBvQNJBD98x4tqLp-ZJ9z2fuebGw58mOtcDQfDl_M1AQGAHAYAW6G6QZpBvoYDC1u-vZ9KWPGyc_blz3uHHJ48aVjxs3PW6cD-ZOf9zY9ripB8gA27e_-XHTpOd7gRLdjxuXP25oeLFq3uOmzseN6x83gQ0DS8x_3AQkgeatAEk0NIDMABncDzNmEtD8iUBFL7o2Pm5cDVax73HjVJBFTV0QY4B8iAHrQJaCVAAdtBUsMv1xUwvEA7t6IIongqUgHgBqXPm4aQLc3XCfgJS-nDXlceOyx41rnvYDXbgObC7cx0Cly1D8ALH52Y5WsBdXQ-RmPm5qBMo9m9MBcfrT7rk43A2xognodyADaDjQfy0gRZQnWChQ0NLn4vIFZlCrgMzEvHyHGoOaapAFCjYWWnZgBjCXgNNkAzAtgFSDxGoUqnPTahUMFXSB6dMYTtcomABZxkA2SMQAiGuAPF2gqKmCGVzECF0NOCJg9uzqQbHHNB6owixewTweiy0gsyFmItsLVArUANUKg5gW7ehE9RDQP6ZgvxgDaZBphkBRoEGGcAdDrAIaC3MPRMIE7EuI3UYgCQy7ns6eTWzgmQJJnN4yAgqBmKiequXi0rVTAMWhApBW5gIA)]
-- [鋼琴伴奏 TMD 檔案](shukai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5u-3ZnOb3ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKhsQWXva2CO5eNib6JHVedgtKLlfPe75n1dELnkx07nuxoeDajRwks3L7reePiZ1NnvmjaBDTzaeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uXrG87Wdz5dPfD5l-9O1E55PWQF0g5GBkYGegYGZnoGFiQXQBUpcXL6JmXlWAZmJeflBHg41BjXVXApAYGOhZQdm6GspPF-zBuiIFwt7FLT0wWI1CtW5abUKhgq6CkYKxnC6RsEEyDIGskEiBkBcA-TpAkVNFczgIkboariQ7dnVg2KPaTxQhVm8gnk8FltAZkPMRLYXqBSoAaoVBjEt2tGJ6iGgf0zBfjEG0iDTDIGiQIMM4Q6GWAU0FuYeiIQJ2JcQu41AEhh2PZ09m9jAMwWSOL1lBBQCMVE9VYschT7IUWgCjUKgLlBYRBvGQkyFcQzgMiYQjmk8khQ8BnDqNQJzjOJzIXJQlabxyNpRbIZogCpAVg-ShKjEoxvFbggHVS_U3cAA0bVTAIWJApBW5gIA)]
+- [主旋律 TMD 檔案](shukai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDNCyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs8n5ubmleZkllci6M9Mz86xKEjOB4QMKo_LE-NzEzLycxDygS7S0FF7Obns2p1lBS4tL0VbB0NiCy95WwZ3LxkTfxA5kyIuV897vmfV0QueTHTue7Gh4NqMHbPaL9l3PGxc_mzrzRdMmoPanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvl6hnP13Y-Xz7x-ZTtT9dOeD5lxfs9HaDo0ANGhx4oOt7v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHegYoG-etq54Nq0d6ICnG3qftXcqgOJUL6sg_f2eHqDilwsaFQr0FIzMgVygs4E-fr5mzZMdnU_X7ng2Zz6QrWCk8HLZNKB7gaECsuPFqv3PGpaDTO_ufTFzPlD0cXPHy6nbgeJAOwwVnvYCbZ8Blul83NAIDFYFoEqg1LOWzqf7Vz9u7lZ4NHOlLTDggQrAjm7f9WLm1BcrdgO1AU0DOXTPjGcrmp4v2fd85p4XC3ue7FgLDM2X8zcDBYERAAxWoLtBmkG6gQ4GU7u7nk1f-rhx8uPGdY8blzxuXPm4cdPjxvlg7vTHjW2Pm3qADLB9-5sfN016vhco0f24cfnjhoYXq-Y9bup83Lj-cRPYMLDE_MdNQBJo3gqQREMDyAyQwf0wYyYBzZ8IVPSia-PjxtVgFfseN04FWdTUBTEGyIcYsA5kKUgF0EFbwSLTHze1QDywqweieCJYCuIBoMaVj5smwN0N9wlI6ctZUx43LnvcuOZpP9CF68Dmwn0MVLoMxQ8Qm5_taAV7cTVEbubjpkag3LM5HRCnP-2ei8PdECuagH4HMoCGA_3XAlJEeYKFAgUtfS4uX2AGtQrITMzLd6gxqKkGWaBgY6FlB2YAcwk4TTYA0wJINUisRsFQQReIjRSMgbSxgglQxBTIMgOSIBEDIIaImAD5RnARE7BqI7BusAjYNB_DGoXHTRuB_MfNU4F4D5C3GczrA_OAss0tYH4nRLZ5EpAXDzbxcdN-JJWPm7YjySwDy6xBl4HYaUTYznkodm4gbDJu14DTGiwod_VQFJQgEqILBtGDEuwRIAlx-FqwkzbBvNW0Ciy7GirbjuT41WCZ_VCZlWB9_fDgWIBkI1pANs8Aq22A6mwD83rgOjvA_EVQ2T6EjViiFRRoMH0gc1BtREmRnSjBaAoMIFgQmcWDECi9GaOmN-JUIQUlNJjAgQJkQ9NIBxBPgKYEiNNbgOz1aGlhK1TvRoheYFCC9HYBcTc0fUHkQepAaQkUMegpFKv94KhdC7ZjLdT-FeAIA5mMsH8nVG4h1H5wYIN1ELIfKZifzp5N29QKyWbw1ApJK_BMiCUto2Y1aOaF6ENKO0vwpFa8NuJJreBsD48SUFTDIhm7jbVcXLp2CqDSVQFIK3MBAA)]
+- [鋼琴伴奏 TMD 檔案](shukai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDNCyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jICiiVW5qXWVKJbE1memaeVUliJjAgQYFZnhifm5iZl5OYB3SylpbCy9ltz-Y0v9_T8bJ7z_MJW57s2fJ0af_zzo73ezoVtLS4FG0VDI0tuOxtFdy5bEz0TexAJr9YOe_9nllPJ3Q-2bHjyY6GZzN6wBa-aN_1vHHxs6kzXzRtApr5tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3S_XD3j-drO58snPp-y_enaCc-nrAC6ARSZesDI1ANFJtAFSlxcvkDHWgWA_B7k4VBjUFPNpQAENhZadmCGvpbC8zVrgI54sbBHQUsfLFajYKigC8RGCsZA2ljBBChiCmSZAUmQiAEQQ0RMgHwjuIgJWLURWDdYBGyaj2GNwuOmjUD-4-apQLwHyNsM5vWBeUDZ5hYwvxMi2zwJyIsHm_i4aT-SysdN25FkloFl1qDLQOw0ImznPBQ7NxA2GbdruJCDclcPRUEJIiG6YBA9KMEeAZIQh68FO2kTzFtNq8Cyq6Gy7UiOXw2W2Q-VWQnW1w8PjgVINqIFZPMMsNoGqM42MK8HrrMDzF8Ele1D2IglWkGBBtMHMgfVRpQU2YkSjKbAAIIFkVk8CIHSmzFqeiNOFVJQQoMJHChANjSNdADxBGhKgDi9Bchej5YWtkL1boToBQYlSG8XEHdD0xdEHqQOlJZAEYOeQrHaD47atWA71kLtXwGOMJDJCPt3QuUWQu0HBzZYByH7kYL56ezZtE2tkGwGT62QtALPhFjSMmpWg2ZeiD6ktLMET2rFayOe1ArO9vAoAUU1LJKx21iLXLj6IBeuJtDCFRgyIKXRhrFgK-AcA1AoxoN5pvEoXIgkKZrR5aB6jcBCRvG5EBUoxuOVpMhuYJDo2imAQkUBSCtzAQA)]
 
 ## 分析
 
@@ -80,9 +80,9 @@ tmd_source:
 ⏱  Duration:       0:27 (27.8s), 16 measures total
 🎼 Key & Tempo:    首調基準 G, != 138.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Main #1 @ m.5, 0:06]
-   - 最高音: E5 in [Main #1 @ m.3, 0:04]
+🎤 人聲音域:    E4 (MIDI 64) – E5 (MIDI 76) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  E4 in [Main #1 @ m.9, 0:15]
+   - 最高音: E5 in [Main #1 @ m.2, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (27.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
@@ -91,7 +91,7 @@ tmd_source:
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  G, B, A, D, C
    - 調性數值:    G 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.89), E 小調 (0.60), D 大調 (0.56)
+   - 候選調性 (K-S): G 大調 (0.89), E 小調 (0.59), B 小調 (0.58)
    - 五度圈歷程:   +1
    - 各段落調性細節:
      • [Main #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
@@ -107,21 +107,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████                11.8%
+     C  : ████████████              12.7%
      C# :                            0.0%
-     D  : ███████████               12.7%
+     D  : ███████████████           15.5%
      D# :                            0.0%
-     E  : █████                      5.5%
+     E  : ██████                     6.4%
      F  :                            0.0%
-     F# : ████                       4.5%
-     G  : ████████████████████████  27.3%
+     F# :                            0.0%
+     G  : ████████████████████████  24.5%
      G# :                            0.0%
-     A  : ████████████████          18.2%
+     A  : ████████████████          16.4%
      A# :                            0.0%
-     B  : ██████████████████        20.0%
+     B  : ████████████████████████  24.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 76 個音符)
+  - Piano         : E4 – E5 (12 個半音 / 1.0 個八度, 76 個音符)
 ================================================================================
 ```
 

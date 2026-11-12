@@ -66,8 +66,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](seijitsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2ampuPKgw0Kz0zzyo3NTMrE4vDoNLlqcUlqUV58bmpOfkplRjSJYmZwIABBU55YnxuYmZeTmJeihKXlpbCi1ULnq5fpqClxaVoq2BoaMRlb6vgxmVjom9iBzLkxcp57_fMet615vnqpc8nND_btQps9rPZm4DCPvnlqTk5Cr6Jxfl57_d0PG5e-Lh5z-OmvY-bN7_f0wlW-KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2dBDT36ZSNz9b2PG7ofrl6xvO1nc-XT3w-ZfvTtROeT1kBNBUUYXrACNMDRRjYWC59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oGOAXr7aeuKZ9PagQ54uqH3WXunQoCBsbleVkH6-z09QMUvFzQqFOgpGAF5QFc_2dHwfM0aIPl07Y5nc-YD2QpGCi-XTQM6FxhMICterNr_rGE5yPDu3hcz5wNFHzfPeDl1O1AcaIWhwsuZvS9WzADLdD5uaAQGvwJQJVDq-Zx5L-cuej573ePmboVHM1faAuMIqAbs7PZdL2ZOfbFiN1An0ECQ4v59T3Yvfrp0MzD0Xs7f_GxFEzDkgeEJdDBID0gT0JGPGxqApj7d3wyKs8Z9jxunPG6c_LgJaFsnmNH0uKn75YK1YNnux43THzcBfQGUWg2SbZwLdB7Y9nUdL9ZuhxoB0tMFVrTu-VJgioHoBHoNKLL-6TqQHx83tTxuXAkSaQJKrXrcBIxxsEHgtARxSA9YugeoAuY6oIVwp61_3LjkcVMbyLLGLrAFs2BGrF0MVj3_ceMCsNLpjxt7XzZOBgvuf9y4EGzupBc7-sEiW8HcxsdNMA82NEHCZhfQTQ3kGtb9YtdqiBpYaM2DO2_Jkx3AxADxzzqgvZCgerpzx_NlEFOmQs1tXP9kXxtYpBfoAlho7QRxoWbtbwRLA42fgje01r3YDjQRKAgMLWA-AjkZ7KeFjxuXQc160bkeHDEQ5_Q-2bULrGETVEPjCnDkA_WDYws5tICaKc96UKCgpc_F5Qssk6wCMhPz8h1qDGqqQRYo2BiaadmBWcAMD8lfLxYCk0iHU2JRsYLho4bJJkBngrSD1NQoGCrogiGENlIwRuHrKtRA1ZlC-TAIUweDMHVGUD6IhmFk9ejq0KEBXB2yJ3b1IHnCFOgJUKFGO0_AxGE0sqeQ1cHMJ84TOzqRPGEJ9AS4UEL4AtUWYwUTHLaiuxrGh_kOps4MygfRIDkTdagAnIErXPD64-ns2cgpyhjkEbMhEh21XFy6dsC6NzNPAUgrcwEA)]
-- [鋼琴伴奏 TMD 檔案](seijitsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixasHT9cve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGhkZc9rYKblw2Jvomdlx1CkovVs57v2fW8641z1cvfT6h-dmuVUog4WezNwGFffLLU3NyFHwTi_PzgMY-bl74uHnP46a9j5s3A80EK3zRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562TgKa-3TKxmdrex43dL9cPeP52s7nyyc-n7L96doJz6esAJpqZGBkoGdgYKZnYGFiATaWyzcxM88qIDMxLz_Iw6HGoKaaSwEIbAzNtOzALH0thedr1jzZ0fBiYY-Clj5YrEbBUEEXDCG0kYIxCl9XoQaqzhTKh0GYOhiEqTOC8kE0DCOrR1eHDg3g6pAdvauHpo6GicNoZE8gq4OZT5yjd3SiOBrVUGMFExyWoDsSxod5BqbODMoH0SA5E3WoAJyBKxjwOvvp7NlDJKxrkdO8D3KaN8Gf5OMVog1jYRScbxYPpM3ic0FCpiC2aXwshAFWhSJkQCB9YrfBBEiZAE2AC8DNRNaCbjZaMkJ1GrpmiH1GQIYRyCdgNUZwNTicjxHllDofGDO6dsASMDNPAUgrcwEA)]
+- [主旋律 TMD 檔案](seijitsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDZHyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs6m5-eh6M9Mz86xyUzOzMrH4DSpdnlpcklqUF5-bmpOfUokhXZKYCQxbUPiWJ8bnJmbm5STmAX2hpaXwYtWCp-uXKWhpcSnaKhgaGnHZ2yq4cdmY6JvYgQx5sXLe-z2znneteb566fMJzc92rQKb_Wz2JqCwT355ak6Ogm9icX7e-z0dj5sXPm7e87hp7-Pmze_3dIIVvmjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snAc19OmXjs7U9jxu6X66e8Xxt5_PlE59P2f507YTnU1YATQXFuR4wzvVAcQ42lktfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqBjgN5-2rri2bR2oAOebuh91t6pAEo4elkF6e_39AAVv1zQqFCgp2AE5AFd_WRHw_M1a4Dk07U7ns2ZD2QrGCm8XDYN6FxgMIGseLFq_7OG5SDDu3tfzJwPFH3cPOPl1O1AcaAVhgovZ_a-WDEDLNP5uKERGPwKQJVAqedz5r2cu-j57HWPm7sVHs1caQuMI6AasLPbd72YOfXFit1AnUADQYr79z3Zvfjp0s3A0Hs5f_OzFU3AkAeGJ9DBID0gTUBHPm5oAJr6dH8zKM4a9z1unPK4cfLjJqBtnWBG0-Om7pcL1oJlux83Tn_cBPQFUGo1SLZxLtB5YNvXdbxYux1qBEhPF1jRuudLgSkGohPoNaDI-qfrQH583NTyuHElSKQJKLXqcRMwxsEGgdMSxCE9YOkeoAqY64AWwp22_nHjksdNbSDLGrvAFsyCGbF2MVj1_MeNC8BKpz9u7H3ZOBksuP9x40KwuZNe7OgHi2wFcxsfN8E82NAECZtdQDc1kGtY94tdqyFqYKE1D-68JU92ABMDxD_rgPZCgurpzh3Pl0FMmQo1t3H9k31tYJFeoAtgobUTxIWatb8RLA00fgre0Fr3YjvQRKAgMLSA-QjkZLCfFj5uXAY160XnenDEQJzT-2TXLrCGTVANjSvAkQ_UD44t5NACaqY860GBgpY-F1cwqHgrKS61CshMzMt3qDGoqQZZomBjaKZlB2Zhy_QKkFz3YmGPgoaJwtMN_c_XN-jAc6omFg1Au0CG1SiYKuiCoTGYNIHzYXSNghmUBYMwGRisUTCEsiC0IZxvBFcBMR0TGsBUgF3jY1ij8Lh5HlTscdMWKL0ZKLoWLroZburj5kVo5j1uXo3husdNMLHHTduhqlYCcTc2E5v24nBpPKpLjUBq98NtbYCb_7gJ7tLm-UgubcRw6SZMlzZPhcsuhPsHYQ7CzSDb9xF0Kf70sqtnoNMLLH3AUgcivcBUoEO86QWaGh43rwLiPpgoPPZBamEhCYOPm_sxXPe4eQlcthPOgqeh5i4klWtwuBNbaoGlMpjbHjevQHHnViRzMVMLFnciUhpSSkS4cyYWlbjdSaBs6SQnrcDiE0IbYcR3DTD9INwCEoWpQPgSphZCG8P5JupwJegJDAbxFy6QqANFIVKgoRQFMDZEHSgIsSeXFriaZVB6EVD3KriZSAmwaRcOt2JJMEgFFLQgJNGtsKSF5NYmWIH5uLkDSm9CST6whAeyv42gW_EmmqezZw-LAoYOxTykMICyUNILpMLChNjSC8IEiNseN0-CxzMixrGbi1mVgkyEFXWIgo58d9ZycenaKcDaNwpAtjIXAA)]
+- [鋼琴伴奏 TMD 檔案](seijitsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDZHyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKjU3H92SzPTMPKvc1MysTCyBAJUuTy0uSS3Ki89NzclPqcSQLknMBEYCKCLKE-NzEzPzchLzgN7V0lJ4sWrB0_XL3u_peNm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKhoZGXPa2Cm5cNib6JnYgk1-snPd-z6znXWuer176fELzs12rwBY-m70JKOyTX56ak6Pgm1icnwc09nHzwsfNex437X3cvBloJljhi_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHUS0NynUzY-W9vzuKH75eoZz9d2Pl8-8fmU7U_XTng-ZQXQVFCK0QOmGD1QigEbyxUMCqCS4lKrAFAgB3k41BjUVHMpAIGNoZmWHZilr6XwfM2aJzsaXizsUdDSB4vVKJgq6IKhMZg0gfNhdI2CGZQFgzAZGKxRMISyILQhnG8EVwExHRMawFSAXeNjWKPwuHkeVOxx0xYovRkouhYuuhlu6uPmRWjmPW5ejeG6x00wscdN26GqVgJxNzYTm_bicGk8qkuNQGr3w21tgJv_uAnu0ub5SC5txHDpJkyXNk-Fyy6E-wdhDsLNINv3EXQpcrTv6qFZtMOiGRbJiGiHqUCHeKMdGqmPm1cBcR9MFB6JILWwAIHBx839GK573LwELtsJZ8GTQnMXkso1ONyJLdJhiQXmtsfNK1DcuRXJXMxIx-JORIJBSlAId87EohK3O1FyeidKlMOiBUIbYURbDTAZIIwEicJUIBwLUwuhjeF8E3W4EvR0AoP4szokBkAxgeR3lIwJY0PUgUICe6y3wNUsg9KLgLpXwc1ESkdNu3C4FUu8IxUX0GKJRLfCUgiSW5tgxdfj5g4ovQklFcDSD8j-NoJuRYr7p7NnD-7sToeyE5I1oSyUaIfUApgQW7QjTIC47XHzJHh0ISIOu7mY9RPIRFjBgyh2yHdnLXrV74Nc9ZvgrfkN4xWiDWNhFDD3AxkmSHwkedN4VAED_JULIZPBfKCRpvFEmI1WisH1gBlg41CFIOaZgZhm8bmxCkZAhhFYDEUdmjXoGYZiLwBjRtdOARY50T5AGRS-EZivzAUA)]
 
 ## 分析
 
@@ -79,20 +79,20 @@ tmd_source:
 🎼 Key & Tempo:    首調基準 F, != 112.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [Main #1 @ m.1, 0:00]
-   - 最高音: D5 in [Main #1 @ m.11, 0:21]
+   - 最低音:  F4 in [Seijitsu #1 @ m.3, 0:04]
+   - 最高音: D5 in [Seijitsu #1 @ m.2, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (34.3s)
+🏛  結構:      Seijitsu (34.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, F, G, C, B
-   - 調性數值:    F 大調 [相關度: 0.75, 穩定度: Moderate, 自然音純度: 96.7%]
-   - 候選調性 (K-S): F 大調 (0.75), A 小調 (0.67), C 大調 (0.64)
+   - 核心骨幹音:  C, A, F, G, D
+   - 調性數值:    F 調性不明確 [相關度: 0.82, 穩定度: Ambiguous, 自然音純度: 98.3%]
+   - 候選調性 (K-S): F 大調 (0.82), C 大調 (0.82), A 小調 (0.69)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.75, 自然音純度: 96.7%, 調外音: B)
+     • [Seijitsu #1]: F 調性不明確 (r: 0.82, 自然音純度: 98.3%, 調外音: B)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -105,18 +105,18 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ███████████████           17.5%
+     C  : ████████████████████████  30.0%
      C# :                            0.0%
-     D  : ██                         2.5%
+     D  : ████████                  10.0%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ████████████████████      23.7%
+     F  : ███████████████           18.3%
      F# :                            0.0%
-     G  : ███████████████████       22.5%
+     G  : █████████████             16.7%
      G# :                            0.0%
-     A  : ████████████████████████  28.7%
-     A# : █                          1.7%
-     B  : ███                        3.3%
+     A  : ████████████████          19.6%
+     A# : ███                        3.7%
+     B  : █                          1.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 51 個音符)

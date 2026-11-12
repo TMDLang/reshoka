@@ -6,8 +6,18 @@ Q:1/4=88
 K:D
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mp! z4 z4 F2 F2 | A6 F2 D4 | !mf! E4 z4 F2 A2 | d4 c3 B A4 |
-!mp! B8 A2 B2 | A6 F2 D2 F2 | !mf! E4 z4 F2 A2 | d2 F2 E6 c2 |
-d8 E2 E2 | !f! B8 G2 E2 | A8 F2 D2 | !mf! E4 F4 G4 |
-A8 E2 E2 | !f! c8 A2 G2 | F8 D2 D2 | !mf! !p! G4 E4 C4 |
-D8 z4 |
+!mp! z4 z4 E2 E2 | F6 E2 E4 | F4 z4 E2 F2 | !mf! B4 A6 G2 |
+w: 1.~ク サ | ノ ウ ヘ | ニ タ ー | マ ナ ス
+w: 2.~つ ゆ | の う へ | に の ー | こ れ る
+G8 F4 | !mp! D2 E2 F4 D4 | D2 E2 F4 z4 | !mf! D2 F2 A2 G2 F2 A2 |
+w: 1.~ツ ユ | コ ー コ チ | ヨ ー ノ | ア ー ケ ー ボ ノ
+w: 2.~つ き | お ー も し | ろ ー の | あ ー り ー あ け
+B8 D2 D2 | !f! B8 G2 E2 | F8 D2 B,2 | !mf! E4 F4 G4 |
+w: 1.~ヤ エ ガ | ホ ヌ レ | テ タ ツ | ヒ メ ユ
+w: 2.~や ね む | り さ め | て た つ | な で し
+F8 D2 D2 | !f! B8 G2 E2 | F8 D2 B,2 | !mf! !p! E4 D4 C4 |
+w: 1.~リ タ レ | ニ ニ タ | ル ソ ノ | オ モ カ
+w: 2.~こ は な | の な か | の そ の | を と め
+B,8 z4 |
+w: 1.~ゲ
+w: 2.~ご

@@ -4,7 +4,7 @@ song_title: "木靈"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_2_08_kodama"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈木靈〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（曲：Carl Maria von Weber（北村中等音樂教科書）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：やよやよ　おーいおーい 森（もり）のあなた　やよやよ…"
+description: "〈木靈〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（曲：Carl Maria von Weber（北村中等音樂教科書）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：やよやよ　おーいおーい 森（もり）のあなた　やよやよ…"
 keywords: "木靈, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -12,7 +12,7 @@ credits:
   - "曲：Carl Maria von Weber（北村中等音樂教科書）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
-musical_key: "F"
+musical_key: "C"
 meter: "4/4"
 tempo: "80"
 image:
@@ -39,7 +39,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P054.jpg – P055.jpg，書頁 pp. 19–20，高一第二學期第 8 首）：
-調性與拍號：ヘ長調（1 降記號）、4/4 拍（緩除ニ ♩=80，弱起第 4 拍進入，甲乙反響應答）
+調性與拍號：ハ長調（無升降記號）、4/4 拍（緩除ニ ♩=80，弱起第 4 拍進入，甲乙反響應答）
 
 
 ## 歌詞
@@ -78,8 +78,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kodama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdmpdYUlqUihAFGpWemWdVnlpcklqUF5-bmpOfUokhXZKYCfQ5yPflifG5iZl5OYl5KUpcWloKz-aseDm3Q0FLi0vRVsHCgMveVsGNy8ZE38QOZMaz2Zve75nlnFiUo-CbCHQ0MMDyFMJTk1KL3u_peNoz_dnciU92rH2-tvPl_M3PVjQ9mzrz-fKJz2bveL-nE-yGF-27njcuBgq_aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9cvUMoElAA54u3fx07YTnU1YALQHFhx4wPvRA8QE2lktfS8GWWoBLQUHhad98oJNfbG5_saLrRUc70DEvVs572rri2bR2kC839D5r71QIMDA10csqSFd41DAZxDEFcd7v6QHqfLmgUaGgQE_B0BIoZ2QAFAT65MmOhudr1jzZ1fN07Y5nc-YD2QoWCi-XTQN6ARiiIGtfrNr_rGE5yMLu3hcz5wNFHzfPeDl1O1AcaK2hwsuZvS9WzADLdD5uaARGiQJQJVDq-faVL2cuedzcrfBo5kpbC5CFT_dsfLF1O8gSsKKXDZueti4Fij-fsunJzplP-3tfzt8P9MXztVOAhnGBbAe6D0Q9bmp53NQBJRsaHjd2PW7e87ixBc4AKXq2eB3Q2sdNTY-bukCOaVz3uLHpceOqx43zQXqQjAAbCdI97XHjZJiRCC6GjXBFGIIQpf2PG3ueTtwDtr0DbPWGx41bwabue9y4-v2e_vd79kACcwNIEdBBTT1gdSBtcNUvGoHJGGLwRLDsPKBVELdC_AH0GdCV0581rAKrA3HB6qYD_QpOIkuXPt24ESzX9bixH6x6HyQoIBkIanzjAqg41HjU0H2yrw2iDqyiA8iFB9mmx03zQAbDzAB7EV0QEnG7esAUWDOEBPlwIdDbQJuAFgAdNRHIBZLggNmwHRowoOCCxN16cIRA7ABHACLE8ccdsqVP9zUg24hmGFAc6gB4JEJjAxwJjxunAEmQ9MvGBS_2AyMFqGPS48aFYL8uBBu5GphgYcEKzgONOx43LsMea4iYAvr3cUMr2JuwoIRFNZLrQCkO5EAkZ8JCGxKf2MMfqI7yIgcKFLT0ubh8gUWxVUBmYl6-Q41BTTXIAgUbQzMtOzALWNBBMvbTDf3P1zeAdICEaxQMFHTBEJ2uTqtVMISya8CpBWQGqBzaAUohCANgiqoLChA64IJAU4xhpiiYQlkwEbAWdMEaqLkwB4CwERSD1MD45vFgM2E2wSDM_QjjkN2-qwfF7SBzYBDsGJAumCDIJJgjaoCFIUQURIMwzHywKpjXYW7HqxhoJMjPaIHaieIwiAEmYI0wN4GwKcjTkMCERxRyIKLrgzkIQz96dKO45uns2ZBC4OmEDmCVCswwCJfBQgQc_LC4gDkRRIOcgIhquIVY9cGch64fQzdaLE5BCSyQ0WYoAQAKFUwxiErMRIgvDQI1wNID3FFoGOFZSFSA3IyNgBhcy8WlawdsAWXmKQBpZS4A)]
-- [鋼琴伴奏 TMD 檔案](kodama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z8XLuR3v93S87N7zfMKWJ3u2PF3a_7wTKNKpoKXFpWirYGHAZW-r4MZlY6JvYsdVp6D0bPam93tmOScW5Sj4JhZlJiqU5ecphKcmpRYBjXnaM_3Z3IlPdqx9vrbz5fzNz1Y0PZs68_nyic9m7wAaqQTS_6J91_PGxUDhF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6X66eATQJaMDTpZufrp3wfMoKoCVGBkYGegYGZnoGFiaWYGO5fBMz86wCMhPz8oM8HGoMaqq5FIDAxtBMyw7M0tdSeLpn44ut259u6H--vkFBSx8sXKNgoKALhuh0dVqtgiGUXcMFM-P5mjVPdjS8WNiDMACmqLqgAKEDLgg0xRhmioIplAUTAWtBF6yBmgtzAAgbQTFIDYxvHg82E2YTDMLcjzAO2e27elDcDjIHBsGOAemCCYJMgjmiRsEEKgqiQRhmPlgVzOswt-NVDDQS5Ge0QO1EcRjEABOwRpibQNgU5GlIYMIjCjkQ0fXBHIShHz26UVzzdPZsFNfAQgEc5LDwhzkLRIOsRUQv3BKs-mBOQtePoRst5qZgOMkMxdOgkMAUg6jETHj40h1QAywNwB2FhhGehQQ_yM3YCIjBtcj50wc5f5oQzp4QiD8LxitEG8aCMZAJ50MpmMdAXNN4iDCIRlaHbgFaPjGNh-oBMYBqFUyAfBOIWSCt0ESLKogneYPNA9oMNxfkUaA2EB_kAxzW4kujaH5G6MUSCig240tlMB_BaFxBi2EZJAxATGj869oBK4vMPAUkWpkLAA)]
+- [主旋律 TMD 檔案](kodama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDA1wSljipApKMovS81LzAOaW1AEcmMK2GCEgtSyzJRUkHRxcmJefFlqUWZaZmoKkutTi4rBPoRYUVKUmFecXJRZAPI2QlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiHlJAlGSkAsMhL7GktCgVWWtmemaeVXlqcUlqUV58bmpOfkolhnRJYiYwWEFBW54Yn5uYmZeTmAd0pZaWwrM5K17O7VDQ0uJStFWwMOCyt1Vw5rIx0TexA5nxbPam93tmOScW5Sj4JhZlJgJjI08hPDUptej9no6nPdOfzZ34ZMfa52s7X87f_GxF07OpM58vn_hs9o73ezrBbnjRvut542Kg8IumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3S9XzwCaBDTg6dLNT9dOeD5lBdASUGTrASNbDxTZYGO59LUUbKkFuBQUFJ72zQc6-cXm9hcrul50tAMd82LlvKetK55Nawf5ckPvs_ZOBVCK0csqSFd41DAZxDEFcd7v6QHqfLmgUaGgQE_B0BIoZ2QAFAT65MmOhudr1jzZ1fN07Y5nc-YD2QoWCi-XTQN6ARiiIGtfrNr_rGE5yMLu3hcz5wNFHzf3v5y6HSgOtPZ5y8Knve0vZ_a-WDEDLNv5uKERGC0KQNUg6e0rX85c8ri5W-HRzJW2FiBLn-7Z-GLrdpBFYEUvGzY9bV0KFH8-ZdOTnTOf9ve-nL8f6JPna6cADeMCuQDoRhD1uKnlcVMHlGxoeNzY9bh5z-PGFjgDpOjZ4nVAax83NT1u6gI5pnHd48amx42rHjfOB-lBMgJsJEj3tMeNk2FGIrgYNsIVYQhClPY_bux5OnEP2PYOsNUbHjduBZu673Hj6vd7-t_v2QMJ0A0gRUAHNfWA1YG0wVW_aAQmZYjBE8Gy84BWQdwK8QfQZ0BXTn_WsAqsDsQFq5sO9Cs4mSxd-nTjRrBc1-PGfrDqfZCggGQiqPGNC6DiUONRQ_fJvjaIOrCKDiAXHmSbHjfNAxkMMwPsRXRBSMTt6gFTYM0QEuTDhUBvA20CWgB01EQgF0iCA2bDdmjAgIILEnfrwRECsQMcAYgQxx93yJY-3deAbCOaYUBxqAPgkQiNDXAkPG6cAiRB0i8bF7zYD4wUoI5JjxsXgv26EGzkamCChQUrOA807njcuAx7rCFiCujfxw2tYG_CghIW1UiuA6U4kAORnAkLbUh8Yg9_oDrKix0oUNDS5-LyBRbHVgGZiXn5DjW6hjXVIBsUbAzNtOzALGBpB8nZTzf0P1_fANICEq5RMFDQBUN0ujqtVsEUyq4Bq_UxrFGIh4qg04-bl6CqNcKjtnEyXC3MbaBCbgco6SEcZhgHVYUOqwsKkJyGRx2yDxSMcCkjQgnIJLg1NQrmQNIMqtMEiI2hMiAxpCAABtfj5hU4jEQKMHyqmlYhVDWtetQw9XETTB9FapsXIdkO0ve4uQ9sBkj8cXMXmL0f063wyAUmfVxmI6IXn6qmNoSqxomUqWqcj6RqNVhkHZhcDyangcl9mO5DSX67elCSHyxZoENw6oPHNE5loGwES4AIVfBEBE9qYHWwBE1QIcxAqiUwUJ6EJBNQZG2D6W3aDDcFppNElWDbqZdcwGY2tkBUgSMUVS9CJ6kqQeJo5VAnMCE87ex92tuFURoBKVDuB0UCPIrQopCQSpxxCAozCBsSqlhDlGjVoKSPGf4g_0LYkKyFyFRIoUGs6qZ-HGG3rwcYdu_3zgOKPJ09Gx6aoGbwhA5gQx3YinyxrO3pxqkvp3UDq2PUTAfBIAhhw0IRNTchqwCHL4yDJXyb1sDD53HzBCCeCsTzwLxuMInEBhd6yHpgOhDhvBHMBhUnkDiBFJpIYd3YAxYFh1vjBiDeCg1ZYEMFLDYFwW6aBLGvcSEsvIEsWCEG1gMu3IAtFjC5DEw2IcKdamFmDBJATpSQOgBSHwCTWtN2JB5IZjuYDak1QDUIKNDA5S04Yc6Dy0ECrQEpoMH60QuIRnAtBPYasJkFZE1H4oFkpoNJSLkOChJEWb8AzILJQQJtAZgERxJUP0ZGhyZNcGLF0eyoBuZqeEjBBeGhRZRiWNsBuWRAsExQTYAZgV0xSkECgrgqAlgYo4iBYwJDJVrhAdENTZTNkEITFK-wgh4Uk5B4JF01rAGIq1qAZRIUMXDBg177oxdHEN2boCqhdjf2w4t9SBqBtQBIU41wdS0Xl64dcAQjM08BSCtzAQA)]
+- [鋼琴伴奏 TMD 檔案](kodama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDA1wSljipApKMovS81LzAOaW1AEcmMK2GCEgtSyzJRUkHRxcmJefFlqUWZaZmoKkutTi4rBPoRYUVKUmFecXJRZAPI2QlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiHlJAJBYBNaen5qbmlVgVZCbm5ccnJifn5xYk5mWCxBAKSzKAiqzyEktKi1KR7chMz8yzKk8tLkktyovPTc3JT6nEkC5JzASGPygOyhPjcxMz83IS84De0dJSeDZnxcu5He_3dLzs3vN8wpYne7Y8Xdr_vBMo0qmgpcWlaKtgYcBlb6vgzGVjom9iBzL42exN7_fMck4sylHwTSzKTATGZZ5CeGpSahHQmKc905_Nnfhkx9rnaztfzt_8bEXTs6kzny-f-Gz2DqCRYIe9aN_1vHExUPhF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6Xq2cATQIa8HTp5qdrJzyfsgJoCSip6AGTih4oqYCN5fIFesoqABR-QR4ONbqGNdVcCkBgY2imZQdm6WspPN2z8cXW7U839D9f36CgpQ8WrlEwUNAFQ3S6Oq1WwRTKrgGr9TGsUYiHiqDTj5uXoKo1wqO2cTJcLcxtz9esebKj4cXCHoTDDOOgqtBhdUEBktPwqEP2gYIRLmVEKAGZBLemRsEcSJpBdZoAsTFUBiSGFATA4HrcvAKHkUgBhk9V0yqEqqZVjxqmPm6C6aNIbfMiJNtB-h4394HNAIk_bu4Cs_djuhUeuY-bOnCZjYhefKqa2hCqGidSpqpxPpKq1WCRdWByPZicBib3YboPJfnt6kFJfrBkgQ7BqQ8e0ziVgbIRLAEiVMETETypgdXBEjRBhTADqZbAQHkSkkxAkbUNprdpM9wUmE4SVYJtp15yAZvZ2AJRBY5QVL0InaSqBImjlUOdwITwtLP3aW8XRmkEpEC5HxQJ8ChCi0JCKnHGISjMIGxIqGINUaJVg5I-ZviD_AthQ7IWIlMhhQaxqpv6cYTdvh5g2L3fOw8o8nT2bHhogurHCR3Auu1pf--LZW1PN059Oa0bXNMiZzoIBkEIGxaKqLkJWQU4fGEcLOHbtAYePo-bJwDxVCCeB-Z1g0kkNrjQQ9YD04EI541gNqg4gcQJpNBECuvGHrAoONwaNwDxVmjIPm4Chd_jxikIdtMkiH2NC2HhDWTBCjGwHnDh9rhxB5hcBiabEOFOtTAzBgkgJ0pIHQCpD4BJrWk7Eg8ksx3MhtQaoBoEFGjg8hacMOfB5SCB1oAU0GD96AVEI7gWAnvtcVMLkDUdiQeSmQ4mIeU6KEgQZf0CMAsmBwm0BWASHElQ_RgZHZo0wYkVR7OjGpir4SEFF4SHFlGKYW0H5JIBwTJBNQFmBHbFKAUJCOKqCGBhjCIGjgkMlWiFB0Q3NFE2QwpNULzCCnpQTELikXTVsAYgrmoBlklQxMAFD3rtj14cQXRvgqqE2t3YDy_2IWkE1gIgTTXC1bXI7WwflHa2CeFmNgTibfKCU1B8vIIxEJsCMVA5NE1gCALzNZBthBDCzgVpNAFivE0dZNPBijHsI8ZRhOtQmPdAGgzRDEKIEV-foJqMFABACikEwCyUAEKTR7MUR7kA9S2MRhUB-wWU06FioGA0A6tC8yHENmBK0rUDdh8z8xSAtDIXAA)]
 
 ## 分析
 
@@ -87,28 +87,28 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 木靈 ]
 ================================================================================
-⏱  Duration:       0:54 (54.0s), 18 measures total
-🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <4/4>
+⏱  Duration:       0:57 (57.0s), 19 measures total
+🎼 Key & Tempo:    首調基準 C, != 80.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main #1 @ m.9, 0:26]
-   - 最高音: D5 in [Main #1 @ m.15, 0:42]
+🎤 人聲音域:    E4 (MIDI 64) – F5 (MIDI 77) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
+   - 最低音:  E4 in [Main #1 @ m.6, 0:16]
+   - 最高音: F5 in [Main #1 @ m.19, 0:55]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (54.0s)
+🏛  結構:      Main (57.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, A, F, G, A#
-   - 調性數值:    F 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.84), C 大調 (0.73), A 小調 (0.66)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  G, C, D, A, B
+   - 調性數值:    C 調性不明確 [相關度: 0.81, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.81), G 大調 (0.78), C 小調 (0.62)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Main #1]: G 調性不明確 (r: 0.80, 自然音純度: 97.2%, 調外音: F)
 
   [ 五度圈游移軌跡 ]
                C  
-        [F ]*          G  
+         F           [G ]*
       Bb               D  
       Eb               A  
          Ab           E  
@@ -117,21 +117,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  29.1%
+     C  : ██████████████████        32.7%
      C# :                            0.0%
-     D  : ███                        3.1%
+     D  : ██████                    10.9%
      D# :                            0.0%
-     E  : ██                         2.4%
-     F  : ██████████████            16.5%
+     E  : █                          2.7%
+     F  : █                          2.7%
      F# :                            0.0%
-     G  : ████████████              14.2%
+     G  : ████████████████████████  44.2%
      G# :                            0.0%
-     A  : █████████████████         20.5%
-     A# : ████████████              14.2%
-     B  :                            0.0%
+     A  : ██                         3.4%
+     A# :                            0.0%
+     B  : ██                         3.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 88 個音符)
+  - Piano         : E4 – F5 (13 個半音 / 1.1 個八度, 94 個音符)
 ================================================================================
 ```
 

@@ -4,7 +4,7 @@ song_title: "世界の平和"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_3_06_sekai_no_heiwa"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈世界の平和〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（曲：成田爲三），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：祝へ祝へ祝へ　仇なす黑雲 今しも去りて　世界の平和を…"
+description: "〈世界の平和〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（曲：成田爲三），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 原譜將每行起首之第 4 拍弱起音獨立排於每行左端小節線前，並將上一行末尾記為 3 拍，合併後恰為完整 4/4 拍小…"
 keywords: "世界の平和, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 成田爲三"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -38,12 +38,16 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P108.jpg，書頁 p. 31，高二第三學期第 6 首）：
-調性與拍號：變ロ長調（2 降記號）、4/4 拍（弱起第 4 拍進入）
+調性與拍號：變ロ長調（2 降記號）、4/4 拍（每行皆以第 4 拍附點八分音符＋十六分音符弱起進入）
+校勘註記：
 
 
 ## 歌詞
 
 ```text
+1. 原譜將每行起首之第 4 拍弱起音獨立排於每行左端小節線前，並將上一行末尾記為 3 拍，合併後恰為完整 4/4 拍小節（全曲共弱起 + 22 小節）。
+2. 第一段「黃金のみ車」於譜下假名作「コガネノミクルマ」，下方歌詞欄漢字誤植作「黃金のみ軍」；第二段首句譜下假名直接印漢字「自由ーの」。
+
 一
 祝へ祝へ祝へ　仇なす黑雲
 今しも去りて　世界の平和を
@@ -67,8 +71,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sekai_no_heiwa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdmpqbjyoMNCs9M8-qJDET6DeQ_8oT43MTM_NyEvNSlLi0tBSe7Jj2fGrP48Z1T3dufjqpR0FLi0vRVsHQwILL3lbBSYfLxkTfxA5k3LPZm97vmfWsY8LzKRued2x6sqMTbMuL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bul6tnPF_b-Xz5xKdLNz9dCzRpxfs9HaAw1QOGqR4oTN_vARrLpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DEvVs572rri2bR2oAOebuh91t6pEAD0tF5WQfr7PT1AxS8XNCoU6CkYGwK5QGc_2dXzfM0aoKefrt3xbM58IFvBTOHlsmlA9wJDBWTHi1X7nzUsB5ne3fti5nyg6It1XY-b176cuh0oBfKnwsuZvS9WzABLdj5uaASGrAJQMcgFeza-2LodZChY5GXDpqetS4GKuEAGP9nRAKKeL537uHEHMvm4oeHJ7vbHjaseN858uXviy9mbwMp3dz1unP64qelp3-7HTUD2MpA61Fh-3DQJpBSo6HHj_MdNnUADgDHyfOk8oNKXu5tftk8EKn3cuP_F7i6QupfzNz9uXPG4ceXjpt7Hjd1A1UB1jxv3PW4EGrkEqA5m1WqgzeDwbgUaCTQAaMxWoF1A1cjufrJr1-OGVggb4sNdPSAKlEYadyCTQI0v2lc9n7IRbNqSx01Au_seN64H29E992kH0EWTQKhx6uOmRpA_d-16uXAe1JON68DhNqHtWTPQ_etAjmpoeLZ1O8idTU0vZ-6AMMCRtwfomN6nHXNBxjSuQQmxOd3PNkwEK2rcBLYLqAgYDEDdoJBFcS4ikFZDREDaKE_CUKCgpc_F5QvMvFYBmYl5-Q41BjXVIAsUbAzNtOzALGDGgaSlpxv6n69vAOkACdcoGCjogiE6XZ2bVqtgGg9kGQJxDTg6QKaAE3vDi4XAAgFmhBFUC1g1iGOMLADi1ACTL3ZrQLIgLTVga0BskIgpVBSmAgRrwKLYIA5X7uohzpUwNm5HoqswAdPmMN_BlEBcCfEHmuvgDJAf0AKzE8WZME_CDIYZh3ADzCp0CHNtjYIZzEqwE5FNgcsgjMGQMoGrQXbn09mzUd2JbjTULkOkoDDWgTodpAYsj8UdcIPQ_QFWA5YFmoSuyEQdJmKE1blPdk3B7lwwA2w0PHDgLsMMW7g2kAQknVYD84UZRBKcDECiaGGALRmg-w41cFvXorgWpgiestHdhVAC9gpycsZUAkpSIFnkpAR2KTGurOXi0rVTABUuCkBamQsA)]
-- [鋼琴伴奏 TMD 檔案](sekai_no_heiwa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyY9rzqT2PG9c93bn56aSe93s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoYEFl72tgpMOl42JvokdV52C0rPZm97vmfWsY8LzKRued2x6sqNTCST8on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--XqGc_Xdj5fPvHp0s1P1wJNWgF0hJGBkYGegYGZnoGFiSXQCUpcXL6JmXlWAZmJeflBHg41BjXVXApAYGNopmUHZulrKTzds_HF1u1PN_Q_X9-goKUPFq5RMFDQBUN0ujo3rVbBNB7IMgTiGi6YKc_XrHmyo-HFwh6EEUZQLWDVII4xsgCIU6NggsMakCxISw3YGhAbJGIKFYWpAMEasCg2iMOVu3qIcyWMjduR6CpMwLQ5zHcwJRBXQvyB5jo4A-QHtMDsRHEmzJMwg2HGIdwAswodwlxbo2AGsxLsRGRT4DIIYzCkTOBqkN35dPZsVHeiGw21yxApKIx1oE4HqQHLY3EH3CB0f4DVgGWBJqErMlGHiRhhde6TXVOwOxfMABsNDxy4yzDDFq4NJAFJp9XAfGEGkQQnA5AoWhhgSwbovkMN3Na1KK6FKYKnbHR3IZSAvYKcnDGVgJIUSBY5KYFdSowra5HLFh_kssWEcNECgXgLj-rcAlA5E68QbRofq2AIpA1jQRkNJGICFAExgEbAZICxHW0EFAbFKFQPiIFuCVreJ8J8uABcLdxOIIXhCdRMC1VoBtJqFp8L0gtxKJAJZIDMR8hhVQW3nkCmQ_Iz1JEI4-CGYQYOUvCB1BPIKpiWYJgHygUkBRl6EsfvFeQwAisAmonTFmAS1bVTAKVSBSCtzAUA)]
+- [主旋律 TMD 檔案](sekai_no_heiwa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDSwQMgUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuSUYq0LepufnoejPTM_OsShIzgcEDCqLyxPjcxMy8nMQ8oDu0tBSe7Jj2fGrP48Z1T3dufjqpR0FLi0vRVgHoTS57WwUnHS4bE30TO5Bxz2Zver9n1rOOCc-nbHjesenJjk6wLS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7pfrp7xfG3n8-UTny7d_HQt0KQV7_d0gKJFDxgteqBoeb8HaCyXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1Ax7xYOe9p64pn09qBDni6ofdZe6cCKG71sgrS3-_pASp-uaBRoUBPwdgQyAU6-8munudr1gA9_XTtjmdz5gPZCmYKL5dNA7oXGCogO16s2v-sYTnI9O7eFzPnA0VfrOt63Lz25dTtQCmQPxVezux9sWIGWLLzcUMjMGQVgIqBUs_W979Y2PN8VtuT3UtBRoPFX85sebkb6MrVTzvaXs7f_HzNsvd7up_2Nj5tXQsXebpn44ut2182bHrauhRoKMgdzxYsfNo948WK3UCroE4z1AOFwIu1c55uaIdYBdK0bNqTnd1w26AmAU3tXfF8dfezvknPpu2BKH66fdnz1eufbuh_vr7h-fZZTzuBTu55smMZ0LQnO7qe7GgAqnk2Z_XTDfuAVj5v2qVgDPFWz9MJHU_2bn26r-dZ4wag-NN1Pc-mblGAehtiHij4gfEwG-iBjRAnKGgrGBkpwGSB4dQE8oKRngI4_Buerdv6uKHn5e7ml-0Tgan2ceP-F7u7Hjf0Al0L9OCTHd1PG9ufTuh9sncOUNnjps2Pm9Y8bu593Nz3uHn-46b1j5tXP26eB1QP9kL3s2k7IYnh2ZqWZ3sWPV07_cWqJc-WQLWj2gJM1UBds0HO2NUDdAYwAJ_2L0W29PnsLc_6lj7t3QAxCmjCi_ZVz6dsfNy8B2RIA9CEJi6Qb4D-AFHPl8593LgDmXzc0PBkd_vjxlWPG2e-3D3x5exNYOVAHzZOf9zU9LRv9-MmIHsZSB1qxn3cNAmkFKjocSPQo51AA4CZ7PlSoF8b0EILpA4Y0Y8bVzxuXPm4qfdxYzdQNVDd48Z9jxuBRi4BqoNZtRpoMzgLtQKNBBoANGYr0C6gamR3P9m163FDK4QN8eGuHnBiBGb7xh3IJFAjNFBApi153AS0u-9x43qwHd1zn3YAXTQJhBqnPm5qBPlz166XC-dBPdm4DhxuE9qeNQPdvw7kqIaGZ1u3g9zZ1PRy5g4IA5wf9wAd0_u0Yy7ImMY1KCE2p_vZholgRY2bwHYBFQGDAagbFLIozkUE0mqICEgb5aUSFCho6XNxBadmJ2b65XukZpYnWgVkJublO9ToGtZUg2xSsDE007IDs7AVitBMAcyAChrw7GMCzT068CJNE4tOoM0gU2sUDBR0wRCdNo0HU4ZAJcZQIUMwaRYPZcDVGMcDFUHZCIhmEJCqAelFKABzIEaZQ8w0AmKEdTAIsw0kC3YQ2OU-hjUKMNPQ6cdNSyB0cz_QvMfNM7CIYxdFVg2DCFMXQdU1gNV1Ial53LQTTK6HqtgDxGuhLJCfYDJIOpohpiHbPw_mNyM8fmtsg9LzQeY27sAijl0UWTWG3xohvn7c1AZWB9EFk1sHJmGuBPqtqRvZb4196H5rhPkWXHC1w51SAy4dcKflXT3gtExiEoanKtSUAkyYUJrC1AlkgpUB0zmGWWBlcBGIeiOkJPq4aTssKJAifCtcbBXciY-bkQMdJXKadkPp1eCkBIkImAmgwIclWkjkgOThkdOMnPAgoo-bN6G56XHTfqSkByz54TZPwmQ1TkW4uakRl5vhCWoyWB0owcBd0dgCJiGJEexmiAg8s_RjuhmcCCEmQlwHcgeh9LSjk5z0hFreIZITPJpr4FIwCEtOEK3GxJRiqMkNxXykRIlISM0r4QEAKmsgQbMQLrYG7jZgUwfNYERC2gxXDVLXi6YOkpggLIgZoHILpHI1hsp5cDMhSfhxcwdyEoKXIEgR1whPdo2w5ICc2DBcCy-7gIkTSGK4oakJzoIlCXAJjk8l1GZgQ4dQ4nk6ezY48RiTlnhA8YwoFMBFBhrXEFKMGOEqkqASQAqYitAVgTWDIFQGVPcipZEOkN-gmbwTib0WwQYWIshZDZaWMEIfGsOwtALKoChhCk9lsOIMVJghFyKILA1siSGx5yK5BVR8IOoRWBrGcEvjbCjdDVaH4RakNAYpOkBpgGBlM4Wc-MWoSeBRhKUqAbKhLGgLByyEu6kDSwIQpchNncfNyCUoJNgRNQukbIbWD9A6BdIIgWRoSL2wEcqeCk8WsDoCljExAh65aYSUudELGFAWhbEmQ3VOBCcvqMvAZTwo4mFu6UUSB9UDiESwDJdbkJsyBLJu61pyyn1chTo8NuA1AboKiDiw3kdvCiDaIDCtuK2B0ciRjrstSmSbFZY0QKUzkIREDoSPahLELJgbcZsIrwORkgPuViWxrc8VUHolONH0wsVhJTlyfQJLfPhMRLiylotL104BuZOlAOQrcwEA)]
+- [鋼琴伴奏 TMD 檔案](sekai_no_heiwa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDSwQMgUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuYhFQc3pqbmpeiVVBZmJefnxicnJ-bkFiXiZIDKGwJAOoyCo1Nx_dksz0zDyrksRMYDiCwrI8MT43MTMvJzEP6GAtLYUnO6Y9n9rzuHHd052bn07qeb-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqAAOJy95WwUmHy8ZE38QOZMez2Zve75n1rGPC8ykbnndserKjE2z1i_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07Z-Gxtz-OG7perZzxf2_l8-cSnSzc_XQs0aQXQEaBI1QNGqh4oUoFOUOLiCk7NTsz0y_dIzSxPtAoAhUWQh0ONrmFNNZcCENgYmmnZgVn6Wgq26EDh-Zo1T3Y0vFjYo6DxdM_GF1u3K2grmCg83dD_fH2DjgIoAehlFaRrYtGppQ82tUbBQEEXDNFp03gwZQhUYgwVMgSTZvFQBlyNcTxQEZSNgGgGAakakF6EAjAHYpQ5xEwjIEZYB4Mw20CyYAeBXe5jWKMAMw2dfty0BEI39wPNe9w8A4s4dlFk1TCIMHURVF0DWF0XkprHTTvB5Hqoij1AvBbKAvkJJoOkoxliGrL982B-M8Ljt8Y2KD0fZG7jDizi2EWRVWP4rRHi68dNbWB1EF0wuXVgEuZKoN-aupH91tiH7rdGmG8fN05_3NQOd0oNF_60vKsHnJZJTMLwVIWaUoAJE0pTmDqBTLAyYDrHMAusDC4CUW-ElEQfN22HBQVShG-Fi62CO_FxM3Kgo0RO024ovRqclCARATMBFPiwRAuJHJA8PHKakRMeRPRx8yY0Nz1u2o-U9B43wZL246ZJmKzGqQg3NzXicjM8QU0GqwMlGLgrGlvAJCQxgt0MEYFnln5MN4MTIcREiOtA7iCUnnZ0kpOeUMs7RHKCR3MNXAoGYckJotWYmFIMNbmhmI-UKBEJqXklPABAZQ0kaBbCxdbA3fa4eT6awYiEtBmuGqSuF00dJDFBWBAzQOUWSOVqDJXz4GZCkvDj5g7kJAQvQZAirhGe7BphyQE5sWG4Fl52ARMnkMRwQ1MTnAVLEuASHJ9KqM2PG3sIJZ6ns2eDE48xaYkHFM-IQgFcZKBxDSHFiBGuIgkqAaSAqQhdEVgzCEJlQHUvUhrpAPkNmsk7kdhrEWxgIYKc1WBpCSP0oTEMSyugDIoSpvBUBivOQIUZciGCyNKPG3uR2HOR3AIqPhD1CCwNY7ilcTaU7garw3ALUhqDFB2gNECwsplCTvxi1CTwKMJSlQDZUBa0hQMWwt3UgSUBiFLkps7jZuQSFBLsiJoFUjZD6wdonQJphEAyNKRe2AhlT4UnC1gdAcuYGAGP3DRCytzoBQwoi8JYk6E6J4KTF9Rl4DIeFPEwt_QiiYPqAUQiWIbLLchNGQJZt3UtOeU-rkIdHhvwmgBdBUQcWO-jNwUQbRCYVtzWwGjkSMfdFiWyzQpLGqDSGUhCIgfCRzUJYhbMjbhNhNeBSMkBd6uS2NbnCii9EpxoeuHisJIcuT6BJT58JiJcWYutj-WD0scyIa6LhSflGEAhMHKB2RuGQKkhXiHaND4WKmkC4poAuSBxEAarjzaMBVFABUS1jvE4A2Q-0CSQyXitR3YeSBBEE7Ye0pjCYz3EWAy_wQMG6lGIJJJbCVoNrYoJWg01E8PjJAUyuFbAYxXcbIhxYEuRPIPqbaLKKfz-QgQhmq-g0YzdXmCy17VTQE750T5ASQwxI7CYMhcA)]
 
 ## 分析
 
@@ -76,29 +80,29 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 世界の平和 ]
 ================================================================================
-⏱  Duration:       0:55 (55.6s), 25 measures total
+⏱  Duration:       0:48 (48.9s), 22 measures total
 🎼 Key & Tempo:    首調基準 B,, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – G5 (MIDI 79) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
-   - 最低音:  C4 in [Main #1 @ m.17, 0:37]
-   - 最高音: G5 in [Main #1 @ m.20, 0:42]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (55.6s)
+🎤 人聲音域:    A#3 (MIDI 58) – D5 (MIDI 74) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#3 in [SekaiNoHeiwa #1 @ m.14, 0:30]
+   - 最高音: D5 in [SekaiNoHeiwa #1 @ m.2, 0:02]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      SekaiNoHeiwa (48.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 調性不明確（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, A#, F, D, G
-   - 調性數值:    F 調性不明確 [相關度: 0.83, 穩定度: Ambiguous, 自然音純度: 93.3%]
-   - 候選調性 (K-S): F 大調 (0.83), A# 大調 (0.82), D 小調 (0.56)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  A#, F, D, C, G
+   - 調性數值:    A# 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.88), F 大調 (0.73), D 小調 (0.66)
+   - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [Main #1]: F 調性不明確 (r: 0.83, 自然音純度: 93.3%, 調外音: C#, D#)
+     • [SekaiNoHeiwa #1]: A# 大調 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-        [F ]*          G  
-      Bb               D  
+         F            G  
+     [Bb]*              D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -106,21 +110,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  23.3%
-     C# : █                          0.9%
-     D  : ███████████████           14.5%
-     D# : ██████                     5.8%
-     E  : █                          1.2%
-     F  : ████████████████████      18.9%
+     C  : █████████████             14.7%
+     C# :                            0.0%
+     D  : ███████████████████       20.9%
+     D# :                            0.0%
+     E  :                            0.0%
+     F  : █████████████████████     23.7%
      F# :                            0.0%
-     G  : ████████                   7.3%
+     G  : ████████████              13.1%
      G# :                            0.0%
-     A  : ███████                    6.7%
-     A# : ██████████████████████    21.5%
+     A  : █                          0.6%
+     A# : ████████████████████████  26.9%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – G5 (19 個半音 / 1.6 個八度, 99 個音符)
+  - Piano         : A#3 – D5 (16 個半音 / 1.3 個八度, 95 個音符)
 ================================================================================
 ```
 

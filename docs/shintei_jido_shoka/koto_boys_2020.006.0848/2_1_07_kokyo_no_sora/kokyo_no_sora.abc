@@ -1,14 +1,24 @@
 X:1
 T:故郷の空
-C:曲：ルート（G. F. Root，米國）
+C:曲：ルート（G. F. Root，米）
 M:4/4
 L:1/16
 Q:1/4=96
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 G3 G | G3 e d3 c c4 B3 A | G3 A G3 E G4 G3 G | G3 e d3 c c3 B A3 B |
-c12 d3 d | d3 G B3 d d4 c3 B | c3 G e3 d c4 B3 c | d3 d d3 G B3 c d3 B |
-c12 z4 | c4 c4 c3 B A3 G | A12 c4 | B4 B4 B3 A B3 c |
-d8 z4 G3 G | G3 e d3 c c4 B3 A | G6 E2 G3 A G3 G | G3 e d3 c B3 c d3 B |
+z4 z4 z4 G3 F | E3 G c3 d c4 c3 B | A3 c c3 A G4 G3 F | E3 G c3 d e3 e d3 c |
+w: 1.~オ ボ | ロ ニ カ ス ム サ ク | ラ ノ ア シ タ ミ チ | ノ ト モ ト ツ エ ヲ ヒ
+w: 2.~サ ヤ | カ ニ ハ レ テ ツ キ | ス ム ヨ ゴ ロ ア ソ | ビ ガ テ ラ ウ タ ヲ ヨ
+d12 G3 F | E3 G c3 d c4 c3 B | A3 c c3 A G4 e3 d | c3 B c3 A B3 G B3 d |
+w: 1.~キ カ ハ | カ ゼ ア ヲ キ ヤ ナ | ギ ノ キ シ ニ ヲ ブ | ネ ト ド メ フ ミ ヲ ヨ
+w: 2.~ミ シ ラ | ユ キ ツ ミ シ マ ナ | ビ ノ マ ド ニ オ モ | ヒ コ メ テ フ デ ヲ ト
+c12 z4 | e4 e4 e3 d c3 A | G8 c8 | d4 d4 e3 d c3 e |
+w: 1.~ム | カ カ ル ヲ リ モ | ハ タ | ヒ ト コ ソ シ ラ
+w: 2.~ル | カ カ ル ト キ モ | マ タ | ワ レ ノ ミ コ ト
+d8 z4 G3 F | E3 G c3 d c4 c3 B | A3 c c3 A G4 e3 d | c3 B c3 A B3 G B3 d |
+w: 1.~ヌ タ ノ | シ ト オ モ フ コ コ | ロ ニ ソ ヘ テ コ キャウ | ノ ソ ラ ナ ガ メ ラ ー
+w: 2.~ニ ワ ビ | シ キ フ シ ノ ア ル | ニ モ ア ラ デ コ キャウ | ノ ソ ラ ナ ガ メ ラ ー
 c8 z4 z4 |
+w: 1.~ル
+w: 2.~ル

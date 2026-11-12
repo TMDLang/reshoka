@@ -4,7 +4,7 @@ song_title: "騎馬旅行"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_2_05_kiba_ryoko"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈騎馬旅行〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：肥えたるわが馬　手なれしわが鞭 千里の旅行も　おもへばやすし…"
+description: "〈騎馬旅行〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：肥えたるわが馬　手なれしわが鞭（むち） 千里（せんり）の旅行も　おもへばやすし…"
 keywords: "騎馬旅行, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -36,7 +36,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P096.jpg – P097.jpg，書頁 pp. 19–20，高二第二學期第 5 首）：
-調性與拍號：ヘ長調（F Major，1 降記號）、2/4 拍（輕快ニ ♩=100）
+調性與拍號：ヘ長調（1 降記號）、2/4 拍（輕快ニ ♩=100，弱起第 2 拍進入）
 出處註記：（開成館發行教育唱歌集）
 
 
@@ -44,11 +44,11 @@ tmd_source:
 
 ```text
 一
-肥えたるわが馬　手なれしわが鞭
-千里の旅行も　おもへばやすし
+肥えたるわが馬　手なれしわが鞭（むち）
+千里（せんり）の旅行も　おもへばやすし
 いざいざすゝまん　山こえて
 いざいざ進まん　河を渡りて
-花あり月ある　孤村の夕
+花あり月ある　孤村（こそん）の夕
 いづこに繋がん　栗毛のわが駒
 
 二
@@ -68,8 +68,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kiba_ryoko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl0KlizIL0IyGi5RlopkKNCO9Mw8q9zUzKxMJAdraSm8XNH3ctmaZ9NbXyzsUdDS4lK0VTA0MOCyt1Vw47Ix0jexA5nxon3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--XqGc_Xdj5fPvH5lO1P1054PmXF-z0doJDUA4akHigk3-_pVOLi0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6JgXK-c9bV3xbFo70AFPN_Q-a-9UCDCwNNPLKkhXeNQwGcQxB3He7-kB6ny5oFGhoEBPwdASKGdkABQE-uTJrp7na9YAyadrdzybMx_IVjBVeLlsGtAL7_fMAln7YtX-Zw3LQRZ2976YOR8o-rh5xsup24HiQGvdFHwTs_KLgIYZKryc2ftixQywms7HDY3AwFUA6gEqerFn6tP9qx83dys8mrnSFhj8QAVgH7XvejFz6osVu4HagOYCVb6c1v2sY8LLJSuez9wDjDBIjEBC_uXsNpA2kL4nOxrALmta-rix43Hj_MdN3Y-b-h839gBj-nFDw7PO7seNqx439TxunA4Vn7cWbF9v88t2oOg6SHJ43NQEVP24sQvEaNzxuHHD46aWx40zgdpAqh83AjnTYOTMx01zHzfue9w0Gajn6caNjxsngy1fhq70ZcMmuLpnmzY_bpr0bMfCx01dUKUvuoBam4D8Z3OAuoGMbpB5a5c8mzsR6LCnS6bCzQN6DmjF6uc7gb4BuhVs3oLpz9bPBqqDemv5JEh47OqB6AIasR7k6cZeoAtfbF8P8yFQcBkoSBp7X7b3AdMRUBzslp1Aa1Y_bgRaMBEUHo39INVgo4EhBApYoE0EAwMcpMBA6yMUGCuBsYQaGPBYe74a6AagE5eADG5oeLEMyAWiHaDgAQYSyOnzQRqez9z7cvamx01tjxu3Pm7cCXIfMPTW7Qca_LhxHjgSF4BN6QappjzfQYGClj4XVxiw4Eq1CshMzMt3qDGoqQbZoGBjaKZlB2YBszsoJ-1oAIYkMCWbKjzd0P98fQMwZ8DyJDD5ggyCKn7ctBmIVyjUAMn9ILJ5NRCvB_LWgMWWgcXmAXEbEHcB8RqY7hqF6ty0WmBG1QVDCG0GFIaJwGCNgiGUZQwmjZBEUNWYxgMJEAOksAacqmA-2tUD8ZEZYR9tB_sA5Po1QNYCIG4E-2IPUGQ3kN4M5q0Ck30KwDQGFF8N9S3cb0ZIjgO5qEbBPB7mOphcDVwFPs9DPA3RicPzKD7d0UmsT5sXAd28CkI3zwD7ZwIQLwH7ZSfYxyDWdrjvlwDxNrDYEoRPMQMexfMQERMoDxIIqLGK8CqMVQ1PF1iDBNm7T2fPJjpit0G8BcSQRAkigckX6GEoD5GYgckV1dNw72JGB2aUwVhmED-D_BqHpAAkjE8bODSByuLR0_AUonMlJA5xeBiYWh8394N5m8BpHe45qM3IjoILITwMCwJcHkaPNIzc-LR1LdE-2Q_Oa0gRAnQ5qCQB-W8RNCc-bm4B8tZCxVBSJsjFMPciJTBEyUNspsPwNGqma8bmIWi7BTXTAQMfnM72wouSPiCGFJRToV6ciZz6mluhaRPFYyCMKFJw5zkjlDwHU0Gkv562rsaWu7D6qxsSDdCoARf_4MQGrAxAUdS0Ce5XeOEKCgdostyDmcMg7jcFikCSFXL8gERAsQZSg1nmIBe4IF_CShqE_w3gvq3l4tK1UwBXiwpAhjIXAA)]
-- [鋼琴伴奏 TMD 檔案](kiba_ryoko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5ou_lsjXPpre-WNjzfk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDDgsrdVcOOyMdI3seOqU1B60b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XL1jOdrO58vn_h8yvanayc8n7ICaJmRgZGBnoGBmZ6BhYkF0ColLq6w1KLiVKuAzMS8_CAPhxqDmmouBSCwMTTTsgOz9LUUnq9Z82RHA9C9Clr6YLEaherctFoFUwVdMITQZkBhmAgM1igYQlnGYNIISQRVjWk8kAAxQApruJCt3tWDYrURkl6QhhoF83iYZphcDVwFPrdB3ATRicNtKA7Z0YniEExno7gNImIC5UHciBomCJfAWNXwUMXqYmTXPJ09G8U1mJ7B9DCMZQZxEsgpcUgKQML4tIE9C1QWjx5BU1BcAlWGbAJcCOE6mHtxuQ49ADDSxdPWtRjRATIaZjBSqCISK7EJAcN1qAmhGcNmEEakQ9wpwQglJcBUEGnx09bVWOMcYrQpUAQSdsh-A4mAfAxSg5lIkTMQyAGwpIlwmgHcIbUopYUPcmlhQbiwMIxXiDaMVTCGUMBAgzBMgVajCBBUAKXwlhFgTabxUN0gBgExmKE4bUXShK4EbxmB6masjjACsozic_HaARIwwO1KfAUDMeFqoGAC5JmArYax4M7CHXQGSAL4SwRygx7ZYWgewVcWwDQhm40n-AiGEd7cT2YUQwKQuChFy_fozkX2LmokYroKW7QiOwKS48G5XddOAZzhFYAMZS4A)]
+- [主旋律 TMD 檔案](kiba_ryoko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowsDTDKWOOkCkoyi9LzUvMA5pbUARyYgrYYISC1LLMlFSQdHFyYl58WWpRZlpmagqS41OLisEehFhRUpSYV5xclFkA8jVCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIeUjiUZKQCgwFsQgFQAxaJstQcZDMz0zPzrHJTM7MykUJDS0vh5Yq-l8vWPJve-mJhj4KWFpeirYKhgQGXva2CG5eNkb6JHciMF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3S9Xz3i-tvP58onPp2x_unbC8ykr3u_pAEWTHjCa9EDR9H5PpxIXl76Wgi21AJeCgsLTvvnPZu94sbn9xYquFx3tQMe8WDnvaeuKZ9PagQ54uqH3WXunAiiu9bIK0hUeNUwGccxBnPd7eoA6Xy5oVCgo0FMwtATKGRkABYE-ebKr5_maNUDy6dodz-bMB7IVTBVeLpsG9ML7PbNA1r5Ytf9Zw3KQhd29L2bOB4o-bp7xcup2oDjQWkOFlzN7X6yYAZbpfNzQCAxSBaBKoNSLPVOf7l_9uLlb4dHMlbbAQAfa-HTPxhdbt4NsMQKpetmw6WnrUqBGsP_ad72YOfXFit1A44C2AE14Oa37WceEl0tWPJ-5Bxh9kPiBxMPL2W0gbSB9T3Y0gN3ZtPRxY8fjxvmPm7ofN_U_buwBxvvjhoZnnd2PG1c9bup53DgdKj5vLdDwx00NjxsXwuzubX7Z3gMSbZz9uGny46YukG8a10HSzeOmJqBBjxu7QIzGHY8bNzxuanncOBNoIkjz40YgZxqMnPm4ae7jxn0gUxoanm7c-LhxMthdy9CVAj0PV_ds0-bHTZOe7VgItBmq9EUXUGsTkP9sDlA3kNENMm_tkmdzJ4LdCTR1LlAzxJ1Pl0yFGw8MBqDc6uc7gf4GOh1s_ILpz9bPBqqDBsDySZCQ29UD0TXxceN6UPA09gId_GL7epiHgYLLQIHX2PuyvQ-Y_oDiYKftBFqz-nEj0IKJoOBp7AepBhsNDDBQFABtIhg2wAAHh2EfobBZCYxP1LCBx-_z1UA3AJ24BGRwQ8OLZUAuEO0AhRYwzEBOnw_S8Hzm3pezNz1uanvcuPVx406Q-4CBuW4_0ODHjfPAcboAbEo3SDXl-RUKFLT0ubi8M5MSgyrzs_OtAjIT8_IdanQNa6pB1ijYGJpp2YFZ2MoKBVDG3NEAKrc0IPlGwRCUaRS0FUwUnm7of76-QQee3zWx6AdaDjK7RsFAQRcMTcGkGVAEwkLAGqDREJYxmDRCEkGoMY0HGQIiQHJgRg3YCh_DGgUQDwQfN22G0iuAWh437ccw5nHzapja5vVQtWvAapdhUTsPrK4NTHaByTUIe42Q7d0INbMfbNZ2TLOa1sLtXQKl54HtaMJi7yKoWai214AzDu742tUDji8z0iIIOahBEQATMYZHVA1cnsJIhMcXaghBYgIkCgpdEH8BEDdi2P64aTdUfjM4lFZhCbk-uJmrHjcvh2pbjT2C4dGIiByIVpAhIMNAEQDir4RGCZpzmidB6Vaw6oVYnNMNdzok2YESCkgc0y0EsmInOGpNSYta1OwCYtRAowcCkUWM4NGF8CFExgRbdCOiEpJYm0CRAUu4M6C-n4CkA5LsQWG9E8rfg5QMkCMZmj2atoFVQ3jYYw2UbCCJB5J0IBkeZPNkZJvhopDEQb7NeOPo6ezZ5GQ_WMhiD2szsAthIhDaFCgCEseuBu5aOAsc-WAKOQNug_saGh9AGlbkIeJsDzTkIMUqRuEFLW5hJq2AqgYVWdjdghLGSDFJpmuatkJlOpBSFkxuHYmuIVC4TiEnB5rBagiE5dDogOQ-EImaJyGKjKAsRIxj5FukuMRIqUSGKFQtUnhCSylINda8CUkdtJBGijOq2QorZ4F5Epet-HNe61py4gYSxsbwsEav5kChjpmrYPEAiT1QNYcRe0gxA2mAgKoqRDpErkFgNUwXOPRgdQxyKMEqucfNLdBQWotdLVLMELKVuIYPRA3MrDawOMQNyLYSqLeaMWMG3C0k2CQBxQqIBucgpFwDC3tYuBtiiT-i4gbcEISUYI-b9oL9CGIjNyIgPgeFD0h0KpQPrD2aZ2LYCS9LIK0BlJIRLX7Aofi4eT5YF9gV8BoT1jiFmAiKY5AoqPEHq7dgTVpkmyF1GaidAqsVSYijp62rMest4uIIEsog0hhnXsEXj5DmJswEzPYHrO-AHGvwFhUsP0DzDqTpiGw7JD5hrQRw-6QJVLZgxjBa8xMYd4gcgHANzOXIMQnLhbAWHSg3gcRh6QPZNSA7IfXn4-ZOMAl1TdM-FNfA0kID3J-IdIHNNbVcXLp2CvCengKQo8wFAA)]
+- [鋼琴伴奏 TMD 檔案](kiba_ryoko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowsDTDKWOOkCkoyi9LzUvMA5pbUARyYgrYYISC1LLMlFSQdHFyYl58WWpRZlpmagqS41OLisEehFhRUpSYV5xclFkA8jVCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIeUjgkFgE1p6fmpuaVWBVkJublxycmJ-fnFiTmZYLEEApLMoCKrMBWFQBNxiJRlpqDbHlmemaeVW5qZlYmUrBpaSm8XNH3ctmaZ9NbXyzseb-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqGBoYcNnbKrhx2Rjpm9iBDH7Rvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9cvWM52s7ny-f-HzK9qdrJzyfsgJoGSiS9YCRrAeKZKBVSlxc3plJiUGV-dn5VgEg7wd5ONToGtZUcykAgY2hmZYdmKWvpWCLDhSer1nzZEcD0BsKGk_3bHyxdbuCocKz7l4FbQUThacb-p-vb9BRAKUJvayCdE0s-rX0wWbXKBgo6IKhKZg0A4pAWAhYAzQawjIGk0ZIIgg1pvEgQ0AESA7MqAFb4WNYowDigeDjps1QegVQy-Om_RjGPG5eDVPbvB6qdg1Y7TIsaueB1bWByS4wuQZhrxGyvRuhZvaDzdqOaVbTWri9S6D0PLAdTVjsXQQ1C9X2Gi788bWrBxxfZqRFEHJQgyIAJmIMj6gauDyFkQiPL9QQgsQESBQUuiD-AiBuxLD9cdNuqPxmcCitwhJyfXAzVz1uXg7Vthp7BMOjERE5EK0gQ0CGgSIAxF8JjRI05zRPgtKtYNULsTinG-50SLIDJRSQOKZbCGTFTnDUmpIWtajZBcSogUYPBCKLGMGjC-FDiIwJtuhGRCUksTaBIgOWcGdAfT8BSQck2YPCeieUvwcpGSBHMjR7NG0Dq4bwsMcaKNlAEg8k6UAyPMjmycg2w0UhiYN8m_HG0dPZs8nJfrCQxR7WZmAXwkQgtClQBCSOXQ3ctXAWOPLBFHIG3Ab3NTQ-gDSsyEPE2R5oyEGKVYzCC1rcwkxaAVUNKrKwuwUljJFikkzXNG2FynQgpSyY3DoSXUOgcJ1CTg40g9UQCMuh0QHJfSASNU9CFBlBWYgYx8i3SHGJkVKJDFGoWqTwhJZSkGqseROSOmghjRRnVLMVVs4C8yQuW_HnvNa15MQNJIyN4WGNXs2BQh0zV8HiARJ7oGoOI_aQYgbSAAFVVYh0iFyDwGqYLnDoweoY5FCCVXKPm1ugobQWu1qkmCFkK3ENH4gamFltYHGIG5BtJVBvNWPGjDlRTRJQrIBocA5CyjWwsIeFuyGW-CMqbsANQUgJ9rhpL9iPIDZyIwLic1D4gESnQvnA2qN5Joad8LIE0hpAKRnR4gccio-b54N1gV0BrzFhjVOIiaA4BomCGn-wegvWpEW2GVKXgdopsFqRhDh62roas94iLo4goQwijXHmFXzxCGluwkzAbH_A-g7IsQZvUcHyAzTvQJqOyLZD4hPWSgC3T5pAZQtmDKM1P4Fxh8gBCNfAXI4ck7BcCGvRgXITSByWPpBdA7ITUn8-bu4Ek1DXNO1DcQ0sLTTA_YlIF9hcU4vR0fNB6eiZQPt5oL6YASjm4hWiDWPxMmBxjE0BfiNw6jSNx2EGIbtMgHyTeCwysGIcKGoUn4vdQyBbsVgGdowp2FB0FTi9hN0dOExB8hREAVwPFmPQgwYUo7p2CvBIjfYBSqIKGIEFlLkA)]
 
 ## 分析
 
@@ -77,24 +77,24 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 騎馬旅行 ]
 ================================================================================
-⏱  Duration:       0:52 (52.8s), 44 measures total
+⏱  Duration:       0:50 (50.4s), 42 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    E3 (MIDI 52) – F5 (MIDI 77) [跨度: 25 個半音 / 2.1 個八度, 難度: difficult]
-   - 最低音:  E3 in [Verse #1 @ m.7, 0:07]
-   - 最高音: F5 in [Verse #1 @ m.21, 0:24]
-   - 適合: contralto, bass
-🏛  結構:      Verse (52.8s)
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [KibaRyoko #1 @ m.5, 0:04]
+   - 最高音: D5 in [KibaRyoko #1 @ m.1, 0:01]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      KibaRyoko (50.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  C, F, A, G, D
-   - 調性數值:    F 大調 [相關度: 0.90, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.90), C 大調 (0.81), A 小調 (0.74)
+   - 調性數值:    F 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.85), C 大調 (0.79), A 小調 (0.70)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Verse #1]: F 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [KibaRyoko #1]: F 大調 (r: 0.84, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -107,21 +107,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  28.7%
+     C  : ████████████████████████  36.3%
      C# :                            0.0%
-     D  : ██████                     6.9%
+     D  : █████                      7.1%
      D# :                            0.0%
-     E  : █████                      5.7%
-     F  : ████████████████████      24.1%
+     E  :                            0.0%
+     F  : ████████████████          24.4%
      F# :                            0.0%
-     G  : ██████████                11.8%
+     G  : ███████                   11.3%
      G# :                            0.0%
-     A  : ████████████████          19.3%
-     A# : ███                        3.4%
+     A  : █████████████             20.2%
+     A# :                            0.6%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E3 – F5 (25 個半音 / 2.1 個八度, 91 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 93 個音符)
 ================================================================================
 ```
 

@@ -6,8 +6,18 @@ Q:1/4=96
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!f! z4 z4 z4 z3 D | B3 A G3 A B4 z3 D | B3 A G3 A B4 z3 D | d3 c B3 c d3 e d3 c |
-B3 c B3 A G4 z3 G | B3 A G3 A B4 z3 B | A3 G F3 G A4 z3 A | B3 A G3 A B3 c B3 ^A |
-!p! B3 E E3 F G4 z3 B | B3 B B3 B B4 d3 B | A3 G A3 G D4 z3 F | G3 F G3 A B4 B3 B |
-!f! A3 G A3 G D4 z3 D | B3 A G3 A B4 z3 D | B3 A G3 A B4 z3 B | d7 B G7 A |
+!f! z4 z4 z4 z3 D | G3 D B,3 D G4 z3 G | A3 D D3 D D4 z3 D | B3 G G3 G G4 d3 B |
+w: 1.~ナ | ビ カ ス ソ デ ユ | キ ヲ カ ヘ シ ク | ル リ ク ル リ ア ナ
+w: 2.~あ | し の ひゃ う し し | ら べ に あ ひ く | る り く る り あ な
+A3 G F3 E D4 z3 D | G3 D B,3 D G4 z3 G | A3 D D3 D D4 z3 D | B3 G G3 G G3 A B3 ^c |
+w: 1.~オ モ シ ロ ヤ カ | ヘ ス タ モ ト ニ | ホ ヒ コ ボ レ ヒ | ラ リ ヒ ラ リ ア ハ レ
+w: 2.~お も し ろ や か | ざ す た ま て う | ち ふ る ま て ひ | ら り ひ ら り あ は れ
+!p! d3 D D3 D D4 z3 d | c3 c c3 c c4 e3 c | B3 G G3 G G4 z3 F | E3 E E3 E E4 G3 E |
+w: 1.~オ モ シ ロ ヤ ミ | ホ ノ ウ ラ ノ カ ノ | ア マ ヲ ト メ コ | コ ニ オ リ テ イ マ
+w: 2.~お も し ろ や か | よ ふ く も の み ち | ふ き と ぢ て と | め し も の か こ の
+!f! D3 C B,3 C D4 z3 D | G3 D B,3 D G4 z3 G | A3 D D3 D D4 z3 D | B7 A G7 A |
+w: 1.~タ チ マ フ カ ク | ル リ ク ル リ ヒ | ラ リ ヒ ラ リ タ | ノ シ ノ マ
+w: 2.~ま ひ す が た く | る り く る り ひ | ら り ひ ら り た | の し の ま
 G8 z4 z4 |
+w: 1.~ヒ
+w: 2.~ひ

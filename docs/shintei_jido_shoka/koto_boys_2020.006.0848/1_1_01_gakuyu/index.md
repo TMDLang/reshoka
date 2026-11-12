@@ -4,13 +4,13 @@ song_title: "學友"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_01_gakuyu"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈學友〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹、曲：Lewis（リユーイス）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　同（おな）じき窓（まど）にて、書（しょ）を學（まな）び、 一つの庭（には）にて、毬（まり）を遊（あそ）ぶ、…"
-keywords: "學友, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹, Lewis（リユーイス）"
+description: "〈學友〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹、曲：リユーイス（米）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：同（おな）じき窓（まど）にて、書（しょ）を學（まな）び、 一つの庭（には）にて、毬（まり）を遊（あそ）ぶ、…"
+keywords: "學友, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹, リユーイス（米）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
 credits:
   - "詞：大和田建樹"
-  - "曲：Lewis（リユーイス）"
+  - "曲：リユーイス（米）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "C"
@@ -34,7 +34,7 @@ tmd_source:
 - **鋼琴伴奏版**：<br><audio controls src="gakuyu.mp3"></audio>
 
 - 詞：大和田建樹
-- 曲：Lewis（リユーイス）
+- 曲：リユーイス（米）
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 
 ## 說明
@@ -47,11 +47,13 @@ tmd_source:
 ## 歌詞
 
 ```text
-一　同（おな）じき窓（まど）にて、書（しょ）を學（まな）び、
+一
+同（おな）じき窓（まど）にて、書（しょ）を學（まな）び、
 一つの庭（には）にて、毬（まり）を遊（あそ）ぶ、
 へだてなき友（とも）こそ、嬉（うれ）しけれ。
 
-二　朝（あした）に夕（ゆふ）べに、善（よき）を責（せ）め、
+二
+朝（あした）に夕（ゆふ）べに、善（よき）を責（せ）め、
 惡（あ）しきは互（たがひ）に、諫（いさ）め懲（こら）す、
 誠（まこと）ある友（とも）こそ、持（も）つべけれ。
 ```
@@ -64,8 +66,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gakuyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl0KdUFOZloqulRaUWZqXgrQtwUIGaBN6Zl5VrmpmVmZWJwNlS5PLS5JLcqLz03NyU-pVOLS0lJ4unbH0_5uBS0tLkVbBUsjLntbBWcuGxN9EzuQ5hcr573fM-vpkuVPJ_U8n7Lh6e5dz1bsBBv7bPYmoIxPanlm8fs9HY-bVz1uXva4ec_jpiWPm3a-39MJVvSifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH75eoZz9d2Pl8-8fmU7U_XTng-ZQXQYFA06QGjSQ8UTWBjufS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoBzoG6OunrSueTWsHOuDpht5n7Z0KAQbGZnpZBenv9_QAFb9c0KhQoKdgCOQBXf1kR8PzNWuAJDAsn82ZD2QrGCq8XDYN6FxgEIGseLFq_7OG5SDDu3tfzJwPFH3c3P9y6nagONCK5y0Ln_a2v5zZ-2LFDLBs5-OGRmAMKABVA6Wf7VoNDP3Hzd0Kj2autLU0Alr6dM_GF1u3gywCK3rZsOlp61KgPrB32ne9mDn1xYrdQNOAFoEMmLvvZdPEJzs6gYynC5qez9zzYmHPs1WLQFEADvyXs9tAmkG6gb543NDwdEIPKFIbux43rgI5p3HG48be56smgwX3PW5cCRZc_bhxGdClwPAAi09_3AQMsM7HTZOA4QBTCdG-GagMZnrjkseN657uWgtWATRiPYpZ69dAdTZ1Qcx62QhkAEWaHjfOBavcBjXrceOOx40LQNoaVwFdB0zEYHUrHjc1gdVNBmoAKn26BhgJQPG2x01APwHFpz9unAhkP25ognh4F5DZ8GwO0HCILUB5cBQ0rn66ZCpIsKntceNWsMhOkDuBRk5rAYsD1QPjB-TIF5sgzp4N5jZCXfiseSHEUJi9vUDfPtk1CSw4_3Fjz-NGYB4Ce76h8cXq1WDxlseNQFtBpjxrB8oCRSY_bgJ6AahsJtTcF6sWwIIX6ElgLgHKNT1u6sYVBM96GsHuhQgCgx_oD1gQAI2jPBdBgYKWPheXbyKwnAnITMzLd6jRNaypBtmgYGNopmUHZgEzLyTxPt3Q_3x9Ayj1Y6RikDkgtTUKBgq6YIhOV-em1QLzGIRTA45HkMmQXAhM3EBjnRKLihUMHzVMNkEx0RiqCQaNgBhkEMIwTHUmQGwKZaOrA-lHhjB5mDg281B8AvQIzGxUj-zqQfKIKdAjoOIP4RHDODQTzYHYDMmlMJtBrgdBmAtgLgOHIbpikAHIEKYZXR22YEQNHpQ46UTyiiXQK4bAQoyCSIG4ypToSEH3OkwdTB86hEVODVctF5eunQIoTSsAaWUuAA)]
-- [鋼琴伴奏 TMD 檔案](gakuyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6dsfT_u73ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKlEZe9rYIzl42JvokdV52C0ouV897vmfV0yfKnk3qeT9nwdPeuZyt2KoFkns3eBJTxSS3PLAaa-Lh51ePmZY-b9zxuWvK4aSfQRLCiF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3S9Xz3i-tvP58onPp2x_unbC8ykrgAYbGRgZ6BkYmOkZWJhYgI3l8k3MzLMKyEzMyw_ycKjRNayp5lIAAhtDMy07MEsf6NU9G19s3f50Q__z9Q0KWvpg4RoFAwVdMESnq3PTahUMoZwaLpghz9esebKj4cXCHoQJxlBFMGgExCCNCM2Y6kyA2BTKRlcH0o8MYfIwcWzmobgc6HCY2agO39WD4nDDODQTzIHYDMllMJtArgVBmI0wl4DDCF0xyABkCNOMrg5bsKEGB0qYd1IU5hBHmBId5ug-hamD6UOHsLCv4apFTow-KInRhHBahEC8yc0wXiHaMFbBNB5CwwWMYXywjGk8VAmIAVcDpNBNR08TaIaZINkGMQokYgJkGaEbDlKD4XbUaMPqdpBhCBGQ8UbxuXhcDwxhXTsFUCArAGllLgA)]
+- [主旋律 TMD 檔案](gakuyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDZDyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs1BP5GSmpaJLpRVlpualAAOsANnkzPTMPKvc1MysTCw-h0qXpxaXpBblxeem5uSnVCpxaWkpPF2742l_t4KWFpeirYKlEZe9rYIzl42JvokdSPOLlfPe75n1dMnyp5N6nk_Z8HT3rmcrdoKNfTZ7E1DmcfOqx83LHjfvedy05HHTzvd7Op5v3Px-TydYyYv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6Xq2c8X9v5fPnE51O2P1074fmUFUDDQPGsB4xnPVA8g43l0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6Bign5-2rng2rR3ogKcbep-1dyqAEoteVkH6-z09QMUvFzQqFOgpGAJ5QFc_2dHwfM0aIAkMyWdz5gPZCoYKL5dNAzoXGEAgK16s2v-sYTnI8O7eFzPng4Ot_-XU7UBxUIC1LHza2_5yZu-LFTPAsp2PGxqB4a8AVA2UfrZrNTDsHzd3KzyaudLW0gho6dM9G19s3Q6yCKzoZcOmp61LgfrA3mnf9WLm1BcrdgNNA1oEMmDuvpdNE5_s6AQyni5oej5zz4uFPc9WLQJFATjwX85uA2kG6Qb6AmzIhB6gxseNXY8bV4Hc0zjjcWPv81WTwYL7HjeuBAuufty4DOhUYICAxac_bgKGWOfjpknAgICphGjfDFQGNf5x45LHjeue7loLVgE0Yj2KWevXQHU2dUHMetkIZABFmh43zgWr3AY163HjjseNC0DaGlcBXQdMw2B1Kx43NYHVTQZqACp9ugYYC0DxtsdNQD8Bxac_bpwIZD9uaIL4eFcPiHo2B2g6xBqgAnAkNK5-umQqSLCp7XHjVrDITpBDgWZOawGLA9UDYwjkyhebIO6eDeY2Qp34rHkhxFCYxb1A7z7ZNQksOP9xY8_jRmAeAvu-ofHF6tVg8ZbHjUBbQaY8awfKAkUmP24C-gGobCbU3BerFsDCF-hLYD4ByjU9burGFQbPehrB7oUIAsMf6A9YGACNozwfQYGClj4Xl3tidmllqVVAZmJevkONrmFNNcgOBRsLLTswA1v-VYBkIGC6VNCAJG5gFgKmbAVtYAp_uqH_-foGHXge1MSiH2gxyOwaBQMFXTiuzk2rBZqjCxQGkboKRgrGQNIELGIKFjED0xARkBxEFQTDdEENA5oFUlsDtsjHsEYhHsiD4cdNq8A6Hjd3gXU8btoBxGtBrOZ5UJlOiAwwIz9ubgOr2f64eTlUchPUKohyiDEg8clQcbAlzZMQDjBCd8AiiI6m7VAH7AdbBdK1DGrWVKgNM-EyK6B6QA6FyIHc8bhpN1THQmTbITaAMw3uSNzVA45EU9JizTAOahGYYQQikATNoBgWaUixC44RNO2oSkGxihpvj5s74N5tAZN9UO-CAgUi3g8mQXyQOCi2EJEAi09QjCMHGiwC9sLFp4HJGQjbgZEGiyCQDkj6ANkFEt8PF18DFgdHNpKrIJGwBKp6K9wWUCQ9btoMVb0SbspOhGsJRNqOTnIiDRTOIAgKXVAo14BzDTga4CLIuQySE3HnMljEIsdUA9yX4BwDyxZICRYUl8DmB9T3oDiAhAYkHh43wRI_KEwhcqDwf9y0EU0cFsLIMQUKUyRbYDHcvJpY28EiIBlQOoPomEnA9louLl07BUghqgBkKXMBAA)]
+- [鋼琴伴奏 TMD 檔案](gakuyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDZDyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6gI5tuczLRUdKm0oszUvBRgyBYgOyEzPTPPKjc1MysTSxBBpctTi0tSi_Lic1Nz8lMqlbi0tBSert3xtL_7_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgacRlb6vgzGVjom9iBzLxxcp57_fMerpk-dNJPc-nbHi6e9ezFTvBdj2bvQko87h51ePmZY-b9zxuWvK4aSfQ7OcbNwPNAyt50b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XL1jOdrO58vn_h8yvanayc8n7ICaBgolegBU4keKJWAjeXyzCspyrcKAIVqkIdDjUFNNZcCENhYaNmBGTUKBgq6cFydm1arYKhgDBQ2BXJ1FczAtCEQ1wBFQSK6CkZQXAMWB0GY9hquWhQbfZBtNEGyEQKBBsQrRBvGKhhDKKCl8UCWaXwsggFXA6SAOkAWuCdml1aWIvyka0iUpxAONgJ7xQQsguxNiAh-b1YDzQKprQFb5GNYoxAP5MHw46ZVYB2Pm7vAOh437QDitSBW8zyoTCdEprkbiNvAarY_bl4OldwEtQqiHGIMSHwyVBxsSfMkhAOM0B2wCKKjaTvUAfvBVoF0LYOaNRVqw0y4zAqoHpBDIXIgdzxu2g3VsRDZdogNXNCANoyDyoEZRiACSdAMimHhjBQh4EBE046qFBQRqEH9uLkD7sIWMNkHdSHIHxDxfjAJ4oPEQQGMCDdYFIAiCdmfsDDbCxefBiZnIGwHhjMsTEE6IFEKsgskvh8uvgYsDo4fJFdBwm0JVPVWuC2gcH3ctBmqeiXclJ0I18LCGRQ0IAgKEFDA1IDTJjjk4CKkZFlYXCAHbgPcYeB0CUt8SMkCFPzA0gvqYFCwQTwACbrHTbAkBgoGiBwoyB43bUQThwUKcuCCggHJFlikNK8m1nawCEgGlDQgOmYSsB2tNAGVV4jSBE-BBaJM0EonqAC45AKK4CzBoPkGoQ9FkQlIG5JJsMKQkOWg4hNqNNwImDjCJLgI1oIXn6uBIaVrpwAu2xWADEioRfsAFSDxjMA8ZS4A)]
 
 ## 分析
 
@@ -73,24 +75,24 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 學友 ]
 ================================================================================
-⏱  Duration:       0:31 (31.3s), 12 measures total
+⏱  Duration:       0:36 (36.5s), 14 measures total
 🎼 Key & Tempo:    首調基準 C, != 92.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  C4 in [Main #1 @ m.1, 0:01]
-   - 最高音: C5 in [Main #1 @ m.6, 0:13]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Gakuyu #1 @ m.1, 0:01]
+   - 最高音: D5 in [Gakuyu #1 @ m.6, 0:15]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (31.3s)
+🏛  結構:      Gakuyu (36.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, E, D, G, F
-   - 調性數值:    C 大調 [相關度: 0.84, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.84), E 小調 (0.60), A 小調 (0.57)
+   - 核心骨幹音:  C, G, E, D, A
+   - 調性數值:    C 大調 [相關度: 0.94, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.94), G 大調 (0.69), A 小調 (0.60)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main #1]: C 大調 (r: 0.79, 自然音純度: 100.0%)
+     • [Gakuyu #1]: C 大調 (r: 0.93, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -103,21 +105,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  27.7%
+     C  : ████████████████████████  32.4%
      C# :                            0.0%
-     D  : █████████████████         19.1%
+     D  : ██████████                13.9%
      D# :                            0.0%
-     E  : ███████████████████████   26.6%
-     F  : ██████                     6.9%
+     E  : ███████████               14.8%
+     F  : ███                        3.7%
      F# :                            0.0%
-     G  : ████████████              13.3%
+     G  : ██████████████████        24.1%
      G# :                            0.0%
-     A  : █████                      5.3%
+     A  : ████████                  11.1%
      A# :                            0.0%
-     B  : █                          1.1%
+     B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 41 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 42 個音符)
 ================================================================================
 ```
 

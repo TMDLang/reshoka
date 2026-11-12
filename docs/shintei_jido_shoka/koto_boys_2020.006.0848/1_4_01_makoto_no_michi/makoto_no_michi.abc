@@ -5,15 +5,27 @@ M:4/4
 L:1/16
 Q:1/4=84
 K:C
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
+V:V1 name="Piano1" snm="Pia"
+V:V2 name="Piano2" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 C4 | E6 D2 E4 F4 | G4 A4 G4 E4 | C4 D4 E4 F4 |
-!mp! G12 C4 | C6 B,2 C4 D4 | E4 F4 E4 C4 | E4 D4 C4 B,4 |
+!mf! z4 z4 z4 G4 | c6 c2 d4 d4 | e4 e4 c4 c4 | A4 A4 B4 B4 |
+w: 1.~セ | イ テ ン ハ | ク ジ ツ フ | ギョ ウ テ ン
+w: 2.~セ | イ セ イ ド | ウ ド ウ フ | ヘ ン フ ト
+!mp! c12 G4 | E6 E2 F4 F4 | G4 G4 A4 E4 | F4 F4 D4 G4 |
+w: 1.~チ ハ | ヂ ザ ル コ | コ ロ ゾ ヒ | ト ノ シ セ
+w: 2.~ウ キ | シ ン モ ナ | カ ス ハ ヒ | ト ノ シ セ
 C12 z4 | z16 | z16 | z16 |
+w: 1.~イ
+w: 2.~イ
 z16 |
 [V:V2]
-z16 | z16 | z16 | z16 |
-!mf! z4 z4 z4 C4 | E6 D2 E4 F4 | G4 A4 G4 E4 | C4 D4 E4 F4 |
-!mp! G12 C4 | C6 B,2 C4 D4 | E4 F4 E4 C4 | E4 D4 C4 B,4 |
+z4 z4 z4 z4 | z16 | z16 | z16 |
+!mf! z12 G4 | c6 c2 d4 d4 | e4 e4 c4 c4 | A4 A4 B4 B4 |
+w: 1.~セ | イ テ ン ハ | ク ジ ツ フ | ギョ ウ テ ン
+w: 2.~セ | イ セ イ ド | ウ ド ウ フ | ヘ ン フ ト
+!mp! c12 G4 | E6 E2 F4 F4 | G4 G4 A4 E4 | F4 F4 D4 G4 |
+w: 1.~チ ハ | ヂ ザ ル コ | コ ロ ゾ ヒ | ト ノ シ セ
+w: 2.~ウ キ | シ ン モ ナ | カ ス ハ ヒ | ト ノ シ セ
 C12 z4 |
+w: 1.~イ
+w: 2.~イ

@@ -4,16 +4,16 @@ song_title: "行軍"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_02_kogun"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈行軍〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：桑田春風、曲：シューマン（獨）（Schumann）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　見（み）よかしこ、一（ひと）むれの、 兵士（へいし）來（きた）る、列（れつ）揃（そろ）へ、…"
-keywords: "行軍, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 桑田春風, シューマン（獨）（Schumann）"
+description: "〈行軍〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：桑田春風、曲：シューマン（獨）（Robert Schumann）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　見（み）よかしこ、一（ひと）むれの、 兵士（へいし）來（きた）る、列（れつ）揃（そろ）へ、…"
+keywords: "行軍, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 桑田春風"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
 credits:
   - "詞：桑田春風"
-  - "曲：シューマン（獨）（Schumann）"
+  - "曲：シューマン（獨）（Robert Schumann）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
-musical_key: "G"
+musical_key: "C"
 meter: "4/4"
 tempo: "104"
 image:
@@ -35,13 +35,13 @@ tmd_source:
 - **鋼琴伴奏版**：<br><audio controls src="kogun.mp3"></audio>
 
 - 詞：桑田春風
-- 曲：シューマン（獨）（Schumann）
+- 曲：シューマン（獨）（Robert Schumann）
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 
 ## 說明
 
 原書資訊與歌詞全文（對應 P106.jpg – P107.jpg，書頁 pp. 29–30，高二第三學期第 2 首）：
-調性與拍號：ト長調（1 升記號）、4/4 拍（活潑ニ ♩=104）
+調性與拍號：ハ長調（無升降記號）、4/4 拍（活潑ニ ♩=104，弱起第 4 拍進入）
 出處註記：（松邑三松堂發行檢定唱歌集）
 
 
@@ -75,8 +75,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kogun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkQBxqWnplnlZuamZWJxWVQ6fLU4pLUorz43NSc_BRM3SWJmcCQAYVOeWJ8bmJmXk5iXooSl5aWwouFPS929ypoaXEp2ioYGphw2dsquHPZmOib2IEMebFy3vs9s54tnPh8yoZnM5a-XLQCbPaz2ZuAwo-btj9uXvq4ec_j5nmPmze_39PxvHfF-z2dQEZwckZpbmJeHpAH1vCifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH75eoZz9d2Pl8OtHT707UTnk8BGtoBijk9YMzpgWIObCyXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AxwC9_7R1xbNp7UAHPN3Q-6y9UyHAEOiGrIJ0hUcNk0EccxDn_Z4eoM6XCxoVCgr0FIwsgXLGBkBBoE-e7Op5vmbNkx2dT9fueDZnPpCtYKTwctk0cDjNAln7YtX-Zw3LQRZ2976YOR8UsM0dL6duB4oDrTVUeNoLdNAMsEzn44ZGYNQoAFUCpZ5t2f1s78THzd0Kj2autAVGHlAB2B_tu17MnPpixW6gNqBpIJVz971smgh0BJDxdEHT85l7gPH-bNUiUNiDQ_3l7DaQZpDuJzsaHjc0vFjWDdT3uBHohM7HTUBG9-PG6Y8bJwMdAFQAltr0uBEU24-bGh439TxuXAeUAtveuvXp4tVgFTseN7YAtQEVPdkHNB8o0vu4EeyNpm6g6qcdQKkOsOYlQMFn_c1gNXMfNwF91wnSDjHx-YImsMTMx42rwBITHzdue9zUBZR-sXMLWGoi2NCu56shrgbb0bgMhCBGvGzYBEzmT6e1P-1fC1Yx_XHT5MeNE0BkE1DpkseNGyHB-7QbFNlgh08Fm7IPrLjlcUMT2KAuiCNnPG5qe9wICrTHjetfNK0ECwLDCGLzapBBXaA4Ajm2aTJUWesGsAjQYlCYQJSBDZ275eV8UP553NgPdksXLGgnAVW8nA9KB-DwBqoBaoNEBcxrLzZDgmA-MArAeprA0qDoQIoKoKHrwVIQNR1QzY8bgUJAiZ73e_rf79kDFH3WAQxLYKQAuUCrerDGJjAsHjf0QlLLLmCObXi-DxIAfRBvoYchMIUADZ6-FOINsJp1z-asAdsDtB_sVXj6ebIDmDeAEh3QIGpqerZ-CpLOVaBUBPTbnO5nG8BOBYXZarD_wYm1cR40qp7sgiQGYHBDbGgCR_UGoGaw4LqnE_fCnLnuceNCSPyDk_CE2bDUCjFy3fMOoOXgQG5qhEfds-Y5YJdOgsUnMKnMADkQYv-L1TtegNwM9mQT0Kwpj5vA6RSsGZgcgfkObCg4FTYCHQuUAiYqoEc2QR3yrBOYdIAqIOls4cuGxZDIBAcqMNuA0gAwJ4PtgKjpfQmKBFBmAXOBRgNzGsQ5uNMJ2OUzQaED9At10gZQP-WFMhQoaOlzcfkCay2rgMzEvHyHGoOaapAFCjaGZlp2YBawKgCXsg3A0FDQMFZ4uqH_-foGTXBZOl_hcfMKhcdNq4F4OxBvVqgBikwC1ltAqgOIFwDxGiDuA-IZQAVLQArAStcC8X6gKFBr8xqQBqBLQNbVKFTnptUqGCvogiGIBmEjKB9G1ygYIomAVJggsUFyNQrm8VAmSBjOgZkKNgWc0WBe3NWDxYstQHfuBboR6F6wD3aCvdgFZG0E0tOAeBWYDRIFsUB-aoNgkD-bNyM8ZormB5hLQK4yBTmvRsEMRMEgSBzsbLAkzO01KPpBvoaZAfM9qq92dGL6qmkDyGGPm1cCMdCDzRPhUbMVyJsHdfoSIL0D1AxpWgbk9YPlQTEN8mI3yNMovgO5BAZBLgH5FuY6VHfDRCA6jJD8iCsAUGIe2XdPZ88G-84EJc76wUkR4gmQQ9eDYwcUk8AYAqfLTaBkChadjEi-4DjbDxYFpddFUFEQuwU1FpH9BXMXLHYRKRPmV5AK1JCAqYWJwsxAxDFKOCClXSNcaXcKlrQLDAeQL8A-AGVTEBscjaA8CeVB8ic4hJpALEguBfkc7mN0H6KkWTCF6mfkHAlTj2QKXBeyHoiParm4dO0UQOWRApBW5gIA)]
-- [鋼琴伴奏 TMD 檔案](kogun_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixsOfF7t73ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKhgQmXva2CO5eNib6JHVedgtKLlfPe75n1bOHE51M2PJux9OWiFUog4WezNwGFHzdtf9y89HHznsfN8x43bwaa_Lx3BdA0ICM4OaM0NzEvD8gDa3jRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9cvWM52s7ny8HWrr96doJz6cADe0wMjAy0DMwMNMzsDCxABvL5ZuYmWcVkJmYlx_k4VBjUFPNpQAENoZmWnZglr6WwvM1a57saAD6XEFLHyxWo1Cdm1arYKygC4YgGoSNoHwYXaNgiCQCUmGCxAbJ1SiYx0OZIGE4B2Yq2BQuZHfs6kFxhymalTCNIENMQabVKJiBKBgEiYNtAUvCrKpB0Q9yJMwMmGNRHbGjE8URIA0wCNIAchTMEFTjYSIQHUZITsHlTpTwRHbE09mzMUIC2VKYJlgIISID5hCQClRnwtTCRGFmIMIJxZFI0WWEK7qmoDgS3VEoUQWmUJ2JnG5g6pFMgetC1gNxRC1yyvZBTtkmeBO2YbxCtGGsghGQMo2PBQoYQwRMIBTQcqgMVGENvsQZj6YWbIoJUABkCEHT0FIZTCncVIQQwrVmIEmz-FwkMTxpBpdnkaxAUoLiA6hKVO-jRTa675GCEmQEFt8DY03XTgEUcQpAWpkLAA)]
+- [主旋律 TMD 檔案](kogun.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNDDDKWOOkCkoyi9LzUvMA5pbUARyYgrYYISC1LLMlFSQdHFyYl58WWpRZlpmagqS41OLisEehFhRUpSYV5xclFkA8jVCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIeUjiUZKQCgyE3MyezJLGoEllzZnpmnlVuamZWJhZvQ6XLU4tLUovy4nNTc_JTMHWXJGYCgx0U9OWJ8bmJmXk5iXlAb2hpKbxY2PNid6-ClhaXoq2CoYEJl72tgjOXjYm-iR3IkBcr573fM-vZwonPp2x4NmPpy0UrwGY_m70JKPy4afvj5qWPm_c8bp73uHnz-z0dz3tXvN_TCWQE5SelFpUoBCdnlOYm5uUBBcH6XrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dL9cPeP52s7ny4F2b3-6dsLzKUCzO0CpQw-YOvRAqQNsLJe-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UDHAEPhaeuKZ9PagQ54uqH3WXunAiiJ6WUVpCs8apgM4piDOO_39AB1vlzQqFBQoKdgZAmUMzYACgJ98mRXz_M1a57s6Hy6dsezOfOBbAUjhZfLpoGDaxbI2her9j9rWA6ysLv3xcz5oPBt7n85dTtQHBSyLQuf9ra_nNn7YsUMsGzn44ZGYCwpAFUDpZ9t2f1s78THzd0Kj2autAXGI9DWp3s2vti6HWQTWNXLhk1PW5cCNYL92L7rxcypL1bsBhoHtAlkwtx9L5smAh0IZDxd0PR85h5g0ni2ahEoXsAx8nJ2G0gzSPeTHQ2PGxpeLOsG6nvcCHRe5-MmIKP7ceP0x42TgQ4DKgBLbXrcCEoQj5saHjf1PG5cB5QC29669eni1WAVOx43tgC1ARU92Qc0HyjS-7gR7L2mbqDqpx1AqQ6w5iVAwWf9zWA1cx83AX3dCdIOMfH5giawxMzHjavAEhMfN2573NQFlH6xcwtYaiLY0K7nqyGuBtvRuAyEIEYAwweYE55Oa3_avxasYvrjpsmPGyeAyCag0iWPGzdCgv1pNyghgB0-FWzKPrDilscNTWCDuiCOnPG4qe1xIyjQHjeuf9G0EiwIDCOIzatBBnWB4g7k2KbJUGWtG8AiQItBYQJRBjZ07paX80FZ7HFjP9gtXbCgnQRU8XI-KI2AwxuoBqgNEhUwr73YDAmC-cAoAOtpAkuDogMpKoCGrgdLQdR0QDU_bgQKASV63u_pf79nD1D0WQcwLIGRAuQCrerBGpvAsHjc0AtJLbuAubnh-T5IAPRBvIUehsAUAjR4OjB9grwBVrPu2Zw1YHuA9oO9Ck8_T3YA8w1QogMaRE1Nz9ZPQdK5CpSKgH6b0_1sA9ipoDBbDfY_OLE2zoNG1ZNdkMQADG6IDU3gqN4A1AwWXPd04l6YM9c9blwIiX9wEp4wG5ZaIUaue94BtBwcyE2N8Kh71jwH7NJJsPgEJpUZIAdC7H-xescLkJvBnmwCmjXlcRM4nYI1A5MjMN-BDQWnwkagY4FSwEQF9MgmqEOedQKTDlAFJJ0tfNmwGBKZ4EAFZhtQGgDmZLAdEDW9L0GRAMosYC7QaGBOgzgHdzoBu3wmKHSAfqFO2gDqp7zAhgIFLX0uLu_89NI8q4DMxLx8hxpdw5pqkBUKNoZmWnZgFraKQgFcKjcAQ0hBA1JgKhiCSksFbQVjhacb-p-vb9CBF_aaWPQDLQaZXaNgoKALhuh0dW5arYIplFOjYBgHZUIZQAouZARiGIOIGggbBCFaTeFGgGgQRlICZiAIEASbYgI2Cuw-H8MahXioHDr9uHk-3HmPm1fARJtWQ-ntQLwZrnYSmNwDVd0BF18ApdcAcR9cdAbYhCUQ1UCTYGavBZP7wWog9kD0ws2GuNoIj6ub1iG5uhsuCrILRG-FuwnT1Qj3LYLSHSiioDCAmAlSDVGDMKUL7gOITeuRXI0_oe3qASc0ElMWOC5xJBk4AyllmYNJM3iKIUENkEKkl8fNLXA_7oWGwFponEJEd8INhoQKRHQjVO00IF6FJgpRixAFpQCQ2jYwholC0gmwTYmUDpDjGKZrPpC9Dy4KS6Mo6bIJFsMrgXgCVrXweIelHaDI4-ZGuCgkpkG2EYrfHZ3kxC9GpKBmbIgz4UwzqFLk8gCiBMYCqQAZhSWRIOK2aQMoeKFeBAYOhG4B4olowQHJulvhaudBZYHFQjNMxeOmHaCuQNMyhI7mfrgcKIPDMjsiEjciHIAcy4jYgMXyQmRtzZuQHAUvT-CO2oGcEuE5F2QuJBZBaraA5UDpEdk5SOFBIJqfzp4NjmYT0qIZHoPg6ECU9SRHIl6TkJShphBEDYItOSDFFigUIEGLHDygQg4WlIhiAZSRIZkNETGQYhKmdjJcLSQVQMxFZHVIJOMolsFpDCEKsxcpuUArKZBaUNqDpTKYC1BTJDxLg02CVTdwtzQjqUUq3kGFHDB5gFUgbCPF3ZDESUT1MIWc4gNSIMAKBjMMPkIFpHwBRj88AUFEUNslUBJCIyDWxAKvP0ElJqLlABPtBwcPKJjRxZFEm5GSVhNCFFLLgAohRD5Hcws4AcDqIEQhtonObqnl4tK1UwC3PqN9DGMVEBwjMEeZCwA)]
+- [鋼琴伴奏 TMD 檔案](kogun_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNDDDKWOOkCkoyi9LzUvMA5pbUARyYgrYYISC1LLMlFSQdHFyYl58WWpRZlpmagqS41OLisEehFhRUpSYV5xclFkA8jVCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIeUjgkFgE1p6fmpuaVWBVkJublxycmJ-fnFiTmZYLEEApLMoCKrHIzczJLEosqkW3JTM_Ms8pNzczKxBI-UOny1OKS1KK8-NzUnPwUTN0liZnA-AHFUXlifG5iZl5OYh7Qv1paCi8W9rzY3ft-T8fL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VTA0MOGyt1Vw5rIx0TexA5n8YuW893tmPVs48fmUDc9mLH25aAXYwmezNwGFHzdtf9y89HHznsfN8x43bwaa_Lx3BdA0ICMoPym1qEQhODmjNDcxLw8oCNb3on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--XqGc_Xdj5fDrR7-9O1E55PAZrdAUpbesC0pQdKW2Bjubzz00vzrAJAIR7k4VCja1hTzaUABDaGZlp2YJa-loItOlB4vmbNkx0NwEBR0Hi6Z-OLrdsVDBWedfcqaCsYKzzd0P98fYOOAigZ6mUVpGti0a-lDza7RsFAQRcM0enq3LRaBVMop0bBMA7KhDKAFFzICMQwBhE1EDYIQrSawo0A0SCMpATMQBAgCDbFBGwU2H0-hjUK8VA5dPpx83y48x43r4CJNq2G0tuBeDNc7SQwuQequgMuvgBKrwHiPrjoDLAJSyCqgSbBzF4LJveD1UDsgeiFmw1xtREeVzetQ3J1N1wUZBeI3gp3E6arEe5bBKU7UERBYQAxE6QaogZhShfcBxCb1iO5Gn9C29UDTmgkpixwXOJIMnAGUsoyB5Nm8BRDghoghUgvj5tb4H7cCw2BtdA4hYjuhBsMCRWI6Eao2mlAvApNFKIWIQpKASC1bWAME4WkE2BhgpQOkOMYpms-kL0PLgpLoyjpsgkWwyuBeAJWtfB4h6UdoMjj5ka4KCSmQbYRit8dneTEL0akoGZsiDPhTDOoUuTyAKIExgKpABmFJZEg4rZpAyh4oV4EBg6EbgHiiWjBAcm6W-Fq50FlgcVCM0zF46YdoDqgaRlCR3M_XA6UwWGZHRGJGxEOQI5lRGzAYnkhsrbmTUiOgpcncEftQE6J8JwLMhcSiyA1W8ByoPSI7Byk8CAQzU9nzwZHswlp0QyPQXB0IMp6kiMRr0lIylBTCKIGwZYckGILFAqQoEUOHlAhBwtKRLEAysiQzIaIGEgxCVM7Ga4Wkgog5iKyOiSScRTL4DSGEIXZi5RcoJUUSC0o7cFSGcwFqCkSnqXBJsGqG7hbmpHUIhXvoEIOmDzAKhC2keJuSOIkonqYQk7xASkQYAWDGQYfoQJSvgCjH56AICKo7RIoCaEREGtigdefoBIT0XKAifaDgwcUzOjiSKLNSEmrCSEKqWVAhRAin6O5BZwAYHUQohDbRGe31KI0Pn1QGp8m0LYnqH0IgcCgjleINoyFUcB8Gg9kmcbHIhhYxWC1BS7duEWgOrHZYwRkGeGwGpd2UqzGaZoJkGsCFIbRCBEkpyD8Cgw3UDjr2imAgzraByiM4BiBOcpcAA)]
 
 ## 分析
 
@@ -84,28 +84,29 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 行軍 ]
 ================================================================================
-⏱  Duration:       0:36 (36.9s), 16 measures total
-🎼 Key & Tempo:    首調基準 G, != 104.0 BPM, <4/4>
+⏱  Duration:       1:13 (73.8s), 32 measures total
+🎼 Key & Tempo:    首調基準 C, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Main #1 @ m.4, 0:08]
-   - 最高音: D5 in [Main #1 @ m.4, 0:06]
+🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  C4 in [Kogun[L2] #1 @ m.17, 0:37]
+   - 最高音: F5 in [Kogun[L1] #1 @ m.4, 0:08]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (36.9s)
+🏛  結構:      Kogun[L1] (36.9s) -> Kogun[L2] (36.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, G, B, D, C
-   - 調性數值:    G 大調 [相關度: 0.79, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.79), D 大調 (0.66), B 小調 (0.55)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  C, G, D, A, B
+   - 調性數值:    C 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.86), G 大調 (0.75), C 小調 (0.58)
+   - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
+     • [Kogun[L1] #1]: C 調性不明確 (r: 0.84, 自然音純度: 100.0%)
+     • [Kogun[L2] #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-               C  
-         F           [G ]*
+              [C ]*
+         F            G  
       Bb               D  
       Eb               A  
          Ab           E  
@@ -114,21 +115,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████                 9.8%
+     C  : ████████████████████████  34.2%
      C# :                            0.0%
-     D  : ██████████████            13.3%
+     D  : ████████████              17.7%
      D# :                            0.0%
-     E  : ███████                    7.0%
-     F  :                            0.0%
-     F# : ██████                     5.5%
-     G  : █████████████████████     20.7%
+     E  : ████                       6.2%
+     F  : █                          0.8%
+     F# :                            0.0%
+     G  : ███████████████           21.5%
      G# :                            0.0%
-     A  : ████████████████████████  23.4%
+     A  : ████████                  11.5%
      A# :                            0.0%
-     B  : █████████████████████     20.3%
+     B  : ██████                     8.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 84 個音符)
+  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 170 個音符)
 ================================================================================
 ```
 

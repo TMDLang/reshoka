@@ -4,16 +4,17 @@ song_title: "出陣"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_4_02_shutsujin"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈出陣〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（曲：シルヘル（獨）（Silcher）），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　（父）いざ行けや吾子等（わごこら） 大君のみいくさ…"
-keywords: "出陣, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, シルヘル（獨）（Silcher）"
+description: "〈出陣〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野十一郎、曲：ジルヘル（獨）（Friedrich Silcher）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　いざ行（ゆ）けや、わが子（こ）らよ、 大君（おほぎみ）の、御軍（みいくさ）に。…"
+keywords: "出陣, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 旗野十一郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
 credits:
-  - "曲：シルヘル（獨）（Silcher）"
+  - "詞：旗野十一郎"
+  - "曲：ジルヘル（獨）（Friedrich Silcher）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
 musical_key: "F"
-meter: "3/4"
+meter: "4/4"
 tempo: "80"
 image:
   - file: "P119.jpg"
@@ -32,36 +33,29 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="shutsujin.mp3"></audio>
 
-- 曲：シルヘル（獨）（Silcher）
+- 詞：旗野十一郎
+- 曲：ジルヘル（獨）（Friedrich Silcher）
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 
 ## 說明
 
 原書資訊與歌詞全文（對應 P119.jpg，書頁 p. 42，高二重音第 2 首）：
-調性與拍號：ヘ長調（1 降記號）、3/4 拍（原譜拍號誤植為 C，實為 Silcher 原曲之 3/4 拍；情ヲ込メテ ♩=80，二部重音合唱）
-出處註記：（松邑三松堂發行檢定唱歌集）
+調性與拍號：ヘ長調（1 降記號）、4/4 拍（C 拍號，情ヲ込メテ ♩=80，二部重音合唱，弱起後半拍進入）
+出處註記：（重音唱歌集）
 
 
 ## 歌詞
 
 ```text
-一　（父）いざ行けや吾子等（わごこら）
-大君のみいくさ
-義に勇む男（を）の子（こ）が
-立つべきは此時
-いざ行けやいざ／＼
+一　いざ行（ゆ）けや、わが子（こ）らよ、
+大君（おほぎみ）の、御軍（みいくさ）に。
+勇（いさ）むをのこの、門出（かどで）は今（いま）ぞ、
+いざ行けや、いざ、いざ。」
 
-二　（子）家思ふなみだは
-ますらをの名のはぢ
-いざさらば父上
-身は輕（かろ）し義重（ぎおも）し
-まちますな我等を
-
-三　（家族）勝ちほこる我軍
-めざましの功績（いさをし）
-世にひびく譽の
-其中（なか）に彼あり
-あなうれし彼あり
+二　いさぎよく、打（う）ち立たば、
+生（い）き死（し）には、事（こと）ならず。
+皇國（みくに）の爲（ため）に、盡（つく）すはこの時（とき）、
+いざ行けや、いざ、いざ。」
 ```
 
 ## ABC
@@ -72,8 +66,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shutsujin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkQBxqWnplnlZuamZWJxWVQ6fLU4pLUorz43NSc_BSgbi0thaftu17OXKygpcWlaKtgYcBlb6vgxmVjrG9iB9L8bPam93tmPW7a_rh59ePmGUDy_Z6O570r3u_pBDKCM3OSM1KLgBywTS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7pfrp7xfG3n8-UTn0_Z_nTthOdTgGZ2gMJdDxjueqBwBxvLpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DEvVs572rri2bR2oAOebuh91t6pEGBoaKmXVZD-fk8PUPHLBY0KBXoKJkZALtDZT3b1vGzvfTl_8_M1axSMFF4umwYOjVkg01-s2v-sYTnI3O7eFzPng8KuecbLqduB4kDTDRVezux9sWIGWKbzcUMjMJgVgCpBFvfNf7F2DkTXi1VLni3pfd60S8EZaOPT9ctATGhYQ9y_6cnObgW45tnPmlsfN296sW_P4-aFj5vbFB7NXGlrYQDUC3Jq8wqIa59O6AAGPtBecCi073oxc-qLFbuBrgE6EuiAZ3P3vWya-GRHJ5DxdEHT85l7XizsebZqESjmwHH2cnYbSDNI95MdDY8bGkApoWMbyCONLY8bpwGVP26c-Lip5emEfaAIXQtKIY-b-h83TnncOPlxE5ALsXrJ8qcTZj9uXPe4cT9YJ1DFVJDE830rHzeuftrd_ripAZgowLongY1fBzQPxG2cDOb2gFWv7n7cuORx487Hjb2PG9c_W7vk2cwmkASaayDc93v63-_ZA3H8LmDyAzkebGjn03XbnjXMfdy49XHjKrCLFgBNg5iz73HjTKC7ga4AOWEC0Bqgm9c_blyEsAbodJCKxg3AkHiyowucBHatBqp6sWcq2MXdj5uAMQRUMR3oPWBEgAX7Hjd2PW5qgojD7VoItbFx1bOOicDgA9oLDW1gUgE7GOjU6UB_dD7tBjoYqHw3OGC7gcpf7O4Fm9PUCHYU0JzpIDd3zX--Yx_YSqBjgS4FemQ6NBqe7ACqA7p00-PGzcA4eLF2L1ADOH5agT5ZC9YEDJBusCNXP92753Fj0-MmsA9BLJBc2-MmYCBPR5GjPJNCgYKWPheXbyKw0ApILCoxdKgxqKkGWaBgY2imZQdmAYuGp3s2vti6_emG_ufrgSEELKiWgPSBJGsUDBR0wRCZri6oVTCNBzJqwEELMgKYi4HpGZheFDRMFCAmaYKN2qbwuHkZMEg3AuklQLweaObjpjVAvPlx8x6gwEogcxVIsHk2kLUOSM8H4j4wDVIK1NS0Hqy0aauCBlCFJsJxhkA3GAGxMRCbALEp1JE1CmZg2hQsCpIFOzsX5G6wNIiESYEMABkE0QgTAcmBaIjGNKwe3tUD9rAxsoebu6Fu3gr0wQKIFzeBvdcH8QTE2-AQ2A8Wb4EomgkUWAth9iN8CHICsg9hjoY4FCQHkgV5B-RQiOdAamCeMge5GsQACaJFVyem65s2Q8O-A-LKtaAQX6IJjgi0mGxaAlIClYBwQEy4yxEBaQR2ADgg4eGIEmWgyILFCGoMwDSC44arFiktGxGRlilIxShJDB6IsJiAJBWQc2HJBO5DUBpDRBBGNEB0woVAgmAG4WQGdxFYPYqTYLZADAZLguVhCR_iHpAqsLAZiADbA2aBxLGlDMwgAFNY4hI9G8J8juZRjMjUtVMAxacCkFbmAgA)]
-- [鋼琴伴奏 TMD 檔案](shutsujin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjavuvlzMXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwULAy57WwU3LhtjfRM7rjoFpWezN73fM-tx0_bHzasfN88AkkDtz3tXALUAGcGZOckZqUVAjhJI8Yv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6Xq2c8X9v5fPnE51O2P1074fkUoJkdRgZGBnoGBmZ6BhYmFmBjuXwTM_OsAjIT8_KDPBxqDGqquRSAwMbQTMsOzNIH-mvPxhdbtz_d0P98fYOClj5YuEbBQEEXDJHp6oJaBdN4IKOGC6b5-Zo1T3Y0vFjYg9BpCFRgBMTGQGwCxKZQE2oUzMC0KVgUJAs2MxdkKFgaRMKkQAaADIJohImA5EA0RGMaVtfs6kFxDUg5smtgFkAMBcmBZEFWgwyFOASkBuYAc5ANIAZIEM3fnSg2IRxpBNYAdiTcjSjBAQoImG9RfQfTCPY3Vy1yBPrQMwLh3oaFHSQiQA6GRQLcj6AYRAQpRsBBdMKFQIJgBgmRCFaP4iSYLRCDwZJgeViygrgHpAosbAYiwPaAWSBxvHGJ5FoghSU20RM5zOdoHsWITl07BVCMKgBpZS4A)]
+- [主旋律 TMD 檔案](shutsujin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNLREyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs7mZOZkliUWVyJoz0zPzrHJTM7MysXgOKl2eWlySWpQXn5uak58C1K2lpfC0fdfLmYsVtLS4FG0VLAy47G0V3LhsTPRN7ECaX6yc937PrGfTp79s73va2_hkR8PL5j6wsc9mbwLKPG7a8bh59ePmGUDy_Z6O570r3u_pBDLcioABAHR_hkJwZk5yRmoRUBis7UX7rueNi59NnfmiadOzOc1PW9e8WNX7uKHr2bQNT9fNeto66fnqpU-nbHy2tudxQ_fL1TOer-18vnzi8ynbn66d8HwK0PQOUPTqAaNXDxS9YGO59LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHOgYYDk9bVzyb1g50wNMNvc_aOxVAaUQvqyD9_Z4eoOKXCxoVCvQUTIyAXKCzn-zqedne-3L-5udr1igYKbxcNg0cLrNApr9Ytf9Zw3KQud29L2bOB4Vi84yXU7cDxYGmGyq8nNn7YsUMsEzn44ZGYFQoAFUCpZxBNFi851lz6-PmTS_27XncvPBxc5vCo5krbS0MgBIgi5tXQOx-OqEDGJRAwad7Nr7Yuv3pvp6nvV1AI142bHrauhRoOtiv7btezJz6YsVuoJ1ApwCtgWoGR8LL2W0gdSCFwLh_3NDwuLHlceO0Fwt7gAofN4EkHzdOfNzUAnTo46b-x409wHgCSTVOBkk1AVEHUAps0ZLlTyfMBst1PW7c_bix73Ej0MNA_euAKp7uW_hiN8iTQEGwHUCzpoJlVz9uaALr7wYFPlgOLNHU8LhpEkhz42SIES-nNQA9A1bT_bhx5ePG5WD965_s7oJp3AcWmQd1EdwvCC-ARZAYTY8beiG-3wVMkBDfTwU5HegtoBMbGp91Aj0KZENCYuHz1UCr5z9u3AC14vkUYGyB7AZL9z5buxvMnQ71WeN6oLonu7ohIfa4EZR7HjeuAoVb4yyov5_Pan86B6ICGDLAYAFmNFCgPe8AZkCg4PzHTY2wgGp8PnshWHAJUCVYcCbIDnAIPZvZBJZaAXQHJGWREgZApZTnLShQ0NLn4grOKC0pLs0CFkoBmYl5-YYONbqGNdUgexRsDM207MAsYMaGpt0N_c_XN4A0goRrFAwUdMEQG11dUKtgGg9k1IAV-xjWKIB4IIiNBnoTodaIOLUwxwFzNzBbAENPQcNEAeJGTYQjwY4AQSjDLB4hZAilaxTMYUJQhiFCBOybXKB3QKpr4HogtCGcbwQ3CyYCNcEILgAxKQ0jYIARDFUBzMwQunEikA3yJkS0H244MHPDRBsnQ-jmPUAVnSgB1AVVuxuutg9K7wfidXDR_Ujmwm1rhNgGNrdxKoq5qxHuBkYSQhZuflMHXD9IFOIbiPkL4aLzkcyHsGHmb8BwSy-Ung61HcJbj2QuJBRAoiug9CqM8JgFdjdygtnVA04wxpgJxhiqE0SDsCmUbwLl10CjGppEQJELi3tQBIPYMCUQWbAykE6QIFwAOfoR3gUFKLBQBZOTYKLAgALJgaIN4WFI8IHEYPLdKF5eCVW9HM0UUNBBbISJ7AOT8xBuAkctLGlAohMS-EhJB6oXFH1A1U2NSG4Cq4TKL0FxE8gkkNkzsboJ5C9kv0IiFC2fd-KKNmC-hhiKIwcDsx0kamDxC4kiY5zxC-GBxGE6YOUb9qiD5GFIboSle4i3J0IDCaEWwgLpQTcBEgA4TYaXFDC_IUdZL7r5GDogLgOpBbkJrAbqKpAepHIIKYGglE84TYa4pRajSjEaYVUKnFGjYIJHGZGVCjxR47d0tGKBiA7uigU5kkEYuSCCJANoiQWLWnDso5RikJoDIQZWAVYLr1cQQqM1DLqbKKthCOZneBWDnp1xxjRMCWobEZwAR-sY3HWMrp0CvJqJ9jGMVUAVMAILKHMBAA)]
+- [鋼琴伴奏 TMD 檔案](shutsujin_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNLREyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKjczJ7MksagS2ZbM9Mw8q9zUzKxMLKEAlS5PLS5JLcqLz03NyU8B6tbSUnjavuvlzMXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwULAy57WwU3LhsTfRM7kIkvVs57v2fWs-nTX7b3Pe1tfLKj4WVzH9iuZ7M3AWUeN-143Lz6cfMMIAk0-HnvCqBhQIZbETD4gL7PUAjOzEnOSC0CCoO1vWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H65esbztZ3Pl098PmX707UTnk8Bmt4BShx6wMShB0ocYGO5gjNKS4pLs4C-DgAFqKFDja5hTTWXAhDYGJpp2YFZ-sAA2LPxxdbtTzf0P1_foKClDxauUTBQ0AVDbHR1Qa2CaTyQUQNW7GNYowDigSA2-nFjC0KtEXFqYY57vmYNMHhfLOxBuAxsMwhCGWbxCCFDKF2jYA4TgjIMESJgL-QC_QBSXQPXA6EN4XwjuFkwEagJRnABiElpGKHxuHEaVMXjpjYI3TgRyAb5DSLaDzf8cWMPTLRxMoRu3gNU0YkSKl1Qtbvhavug9H4gXgcX3Y9kLty2RohtYHMbp6KYuxrhbmDMIGTh5jd1wPWDRCG-gZi_EC46H8l8CBtm_gYMt_RC6elQ2yG89UjmQkIBJLoCSq_CCI9ZYHcjp5JdPSipxBiqHESDsCmUbwLl10DjF5ouQDEKi3BQrILYMCUQWbAykE6QIFwAOc4RfgSF4uOmBjA5CSYKDB2QHCiuEL6EhBlIDCbfjeLPlVDVy9FMAYUXxEaYyD4wOQ_hJnB8wtIDJA4hIY6UXqB6QXEGVN3UiOQmsEqo_BIUN4FMApk9E6ubQP5C9iskFtFydCdKXAFzMMQkHHkVmMEg8QGLVEi8GOOMVAgPJA7TASu-sMcXJLdC8h0shUP8OhEaMgi1EBZID7oJEF_jNBleJsD8hhxPvejmY-iAuAykFuQmsBqoq0B6kEocpFSBUhLhNBnillqMGsNoJNQYcEaNggkeZUTWGfCUjN_S0XoDIjoI6w3kmAVh5CIHEvfQsgkWn-AoRymvIBUDQgysAqwWXm0ghEYrEHQ3kVGBEMy58BoEPePijF6YEtTGHjipjVYhRFchPh7IdYgFtAqB1BUIDKkd4qG-AUYSOK-gEqACFZJpECRQJ7hIBupEV24CVgAVhqgGM0FawOUuObaBdaGIIemA1zWYNsIsJMIqqBZoaOraKcADNNrHMFYBVcAILKDMBQA)]
 
 ## 分析
 
@@ -81,24 +75,25 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 出陣 ]
 ================================================================================
-⏱  Duration:       0:24 (24.8s), 11 measures total
-🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <3/4>
+⏱  Duration:       1:00 (60.0s), 20 measures total
+🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main #1 @ m.1, 0:01]
-   - 最高音: D5 in [Main #1 @ m.3, 0:04]
+🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  C4 in [Shutsujin[L1] #1 @ m.1, 0:02]
+   - 最高音: C5 in [Shutsujin[L1] #1 @ m.6, 0:16]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (24.8s)
+🏛  結構:      Shutsujin[L1] (30.0s) -> Shutsujin[L2] (30.0s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  F, G, A, C, E
-   - 調性數值:    F 大調 [相關度: 0.81, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.81), C 大調 (0.71), A 小調 (0.62)
-   - 五度圈歷程:   -1
+   - 核心骨幹音:  F, C, E, G, A
+   - 調性數值:    F 大調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.87), C 大調 (0.84), A 小調 (0.66)
+   - 五度圈歷程:   -1 -> -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.81, 自然音純度: 100.0%)
+     • [Shutsujin[L1] #1]: F 調性不明確 (r: 0.86, 自然音純度: 100.0%)
+     • [Shutsujin[L2] #1]: F 大調 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -111,22 +106,22 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████          14.1%
+     C  : ██████████████████████    24.3%
      C# :                            0.0%
-     D  : █████                      4.1%
+     D  : ██████                     6.7%
      D# :                            0.0%
-     E  : ██████████████            12.3%
-     F  : ████████████████████████  21.4%
+     E  : ██████████████            15.3%
+     F  : ████████████████████████  26.0%
      F# :                            0.0%
-     G  : ██████████████████████    19.5%
+     G  : ███████████               12.0%
      G# :                            0.0%
-     A  : ████████████████████      18.2%
-     A# : ████████████              10.5%
+     A  : ██████████                11.3%
+     A# : ████                       4.3%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Part1         : C4 – D5 (14 個半音 / 1.2 個八度, 53 個音符)
-  - Part2         : C4 – A#4 (10 個半音 / 0.8 個八度, 53 個音符)
+  - Piano1        : C4 – C5 (12 個半音 / 1.0 個八度, 110 個音符)
+  - Piano2        : A#3 – A4 (11 個半音 / 0.9 個八度, 110 個音符)
 ================================================================================
 ```
 

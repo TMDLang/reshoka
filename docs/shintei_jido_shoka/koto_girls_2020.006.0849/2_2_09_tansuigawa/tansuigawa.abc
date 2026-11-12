@@ -6,9 +6,15 @@ Q:3/8=42
 K:Eb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!p! B,4 E2 E4 F2 | G6 G4 G2 | G4 F2 G4 A2 | B4 c2 B6 |
-z4 z2 E2 F2 G2 | A6 G4 G2 | F4 E2 D4 E2 | C10 z2 |
-z4 z2 =A2 B2 c2 | G4 F2 E6 | G2 A2 B2 c2 d2 e2 | d12 |
-z4 z2 d2 c2 B2 | A4 G2 ^F2 G2 A2 | E6 G2 A2 B2 | F6 E2 F2 G2 |
-!ff! c12 | z4 z2 =A2 B2 c2 | B4 E2 c4 A2 | G6 B2 c2 d2 |
-E2 F2 G2 A2 G2 F2 | E4 G2 F4 E2 | C6 C4 D2 | E12 |
+!p! z2 z2 z2 B,2 E2 F2 | G6 G4 A2 | G4 F2 E4 G2 | F4 B2 G6 |
+w: オ ホ ゾ | ラ ハ ア | ケ ノ ヒ カ | リ ー ニ
+z4 z2 B,2 E2 F2 | G6 G4 A2 | G4 F2 E4 G2 | F6 B4 z2 |
+w: カ ガ ヤ | キ テ カ | ハ モ フ カ | ク ー
+z4 z2 =A2 B2 c2 | B4 A2 G6 | G2 A2 B2 c2 e2 d2 | B12 |
+w: キ リ タ | チ コ メ | ミ ヅ ハ シ ヅ カ | ニ
+z4 z2 _d2 c2 =B2 | c6 B2 c2 A2 | G6 B2 B2 B2 | E6 E2 D2 E2 |
+w: ナ ガ ル | ル カ ナ ー | タ ア サ カ | ゼ ス ズ シ
+!ff! c12 | z4 z2 B2 =A2 B2 | f4 B2 c4 _d2 | c6 d2 e2 c2 |
+w: ク | ホ ニ ハ | ラ マ セ ー | テ ヂャ ン ク
+A2 B2 c2 F2 G2 A2 | G4 F2 E4 D2 | C4 D2 E6 | E6 z6 |
+w: ユ ク ナ リ ー ヨ | ツ マ タ イ | ツ ー ツ | _

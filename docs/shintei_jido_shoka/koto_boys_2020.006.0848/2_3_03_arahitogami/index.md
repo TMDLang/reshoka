@@ -65,8 +65,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](arahitogami.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2amVuQiqobaFh6Zp5VbmpmViYWl0Gly1OLS1KL8uJzU3PyUyqVuLS0FJ7373uya9fzpfMUtLS4FG0VLCy47G0V3LlsTPRN7ED6X6yc937PrJeblz7d2Pp0_0awmc9mbwKKPW5a9Lh5z-Pmze_3dLzo3vh-TyeQ4ViUlwpkgZW9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrl6xvO1nc-XT3w-ZfvTtROeT1kBNA0UEXrAiNADRQTYWC59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oGOAfr4aeuKZ9PagQ54uqH3WXunQoChgYVeVkG6wqOGySCOJYjzfk8PUOfLBY0KBQV6CsaGQDljI6Ag0CdPdvU8X7PmyY7Op2t3PJszH8hWMFZ4uWwaOIxmgax9sWr_s4blIAu7e1_MnA8KzuaOl1O3A8WB1hoqPO0FOmgGWKbzcUMjMDYUgCpBLlrR-HTWlsfNm57sXvq4uU3h0cyVthbAsOl5umfji63bn81peLqv52lvF1D1y4ZNT1uXAg0A-7N914uZU1-s2A00Fmgb0KRnc_e9bJoIdCSQ8XRB0_OZe14s7Hm2ahEobsCx8nJ2G0gzWPeSlc9mbgFqetzY9Lhx_eOmHpC7Guc_btz6uHEF0IFABc9ngULscePMx02Nj5uAsn0Qt4O9O2HNk92LQdJNQNT7uHEpkAGUfrGuC6ynG2goSDVI2xqIcTDL9oFtWvJs-tKn08EmNG4CcmGmN4Fd19v8bPrKZz1AI4DSC8EObHncuO1xUzdQETBxw-wAhi3QrHXA9AUWmQw2ogEsNR3IhRoHjMCn-xY-3bUcrAjoR5DOx439QNdBfPS0tfPZFKC7IG7pftzUBbKycRXEpVAvA414vmIOMLrA6oD6gS5aAlax_sWeuTAX9QBdChbsf7oDIghUCRQHeh_uu-nARAAKC4jlyKEOz73QwAIFH9BFK0Dmgj0L0T_r6cQ9sOAEmwK1GSiyFeh_nC5taHrc0AsygvKsBgUKWvpcXL6JwLIoIDMxL9-hRtewphpkg4KNoZmWHZgFzOGQtPx0Q__z9Q2QkgakESRZo2CgoAuG2Ojq3LRaBdN4IKsGnGxBZoEzYgMwaStoGClAjNQEZ7d-hcfNaxQeN-0HlmJA5lQI1QEU2Qm05nHzQiBeCRZsWgdkrkA4wRBqJYI2AuZvEwVTqFgNkA-RAUGQuDGSI7G4b1cPFvethTioFUKtgLhkNYQHcvtKIO4BCi0Cu3YeELdAJCeBmECJtUC6EdnVEFeiuDYOSJgDsRnY2SAhMyAfLAzyA0gA5m4QHy1YO3EE6xIgngbEq0EuBtLzIQ7rg_hhM4gCuhkk1bQdKoZwJ8hOUHiBHQFyVzUoUkEBqQ6kzIAYyDBGCmQzUICCKXDQIicKFPc-nT0b071N-2FuBNLrocE6Cea85lXQwO6ChClQFdyd4MQGSwJQm4EUSATMA7kBkhpMoOkA7CtoSOIO1V1TwK40RnElKERB9gPdAk0DTWsggQqUAboblARAPgC5uRPs-kWgpA1K19BEjZSFYAEKdjGUNAZiYIhDHAl2FNxv5rBQhQnAICSuUDMf2KOQCAQJgtiokdC6FtN70ECHOBSYJ4FegXkBhFE9vALsKZiHIQGDknhgQQ3yBaaTkT0PTmIgSKrvQV6r4arl4tK1UwAVZwpAWpkLAA)]
-- [鋼琴伴奏 TMD 檔案](arahitogami_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjev-_Jrl3Pl857v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYWHDZ2yq4c9mY6JvYcdUpKL1YCVQ_6-XmpU83tj7dv1EJJPZs9iag2OOmRY-b9zxu3gw070X3RqAZQIZjUV4qkAVW9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvl6hnP13Y-Xz7x-ZTtT9dOeD5lBdA0IwMjAz0DAzM9AwsTC7CxXL6JmXlWAZmJeflBHg41uoY11VwKQGBjaKZlB2bpayk83bPxxdbtTzf0P1_foKClDxauUTBQ0AVDbHR1blqtgmk8kFXDBTPl-Zo1T3Y0vFjYgzDCEKoFQRspGCuYKJhCxWqAfIgMCILEjZEswWL-rh408yHmoZgbByTMgdgMbAFIyAzIBwuDbAMJwGwA8dE80IliAUgxyElg3SADq0H-BrlVHUiZATGQYYzkDzOQm8EU2PXI4YZi0dPZs1EsAgcoLJigWoEUSATMAxkCCTETaFiBnQX1A27_7JqCag3U-WDjoaQxEAP9BzERbALcIeYwP8AEYBASMqipAewqSHCBBEFsVC-3rsUIW5hHQNZi2oHsWnAMgCCpzgW5pYarFjkn-KDkBBPCGQECa_Cl9HiFaMNYBWMIBYwlIMMoPjcWGHtAlmk8UAxfOoZoM4IphZkDF8CTRKF6zUD2mIFsBCZGsOU47EZPeVD9UArichOgHqx2oyUnuAVwf8N0wY3DUIInReDWDHIUuvmgCAFGq66dAihmFYC0MhcA)]
+- [主旋律 TMD 檔案](arahitogami.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNMDQCZexRMgUFOWXpeYl5gHNLSgCOTEFbDBCQWpZZkoqSLo4OTEvviy1KDMtMzUFyfGpRcVgD0KsKClKzCtOLsosAPkaoSq_qCQjP70osSCj0iojs7gkvygzOTEnPjsxDykcSjJSgcGQmVsAtCQxB1lzZnpmnlVuamZWJhZvQ6XLU4tLUovy4nNTc_JTKpW4tLQUnvfve7Jr1_Ol8xS0tLgUbRUsLLjsbRXcuWxM9E3sQPpfrJz3fs-sl5uXPt3Y-nT_RrCZz2ZvAoo9blr0uHnP4-bN7_d0vOje-H5PJ5DhWJSXCmSBlb1o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uXrG87Wdz5dPfD5l-9O1E55PWQE0DRTLesBY1gPFMthYLn0tBVtqAS4FBYWnffOfzd7xYnP7ixVdLzragY4B-vhp64pn09qBDni6ofdZe6cCKKnoZRWkKzxqmAziWII47_f0AHW-XNCoUFCgp2BsCJQzNgIKAn3yZFfP8zVrnuzofLp2x7M584FsBWOFl8umgcNoFsjaF6v2P2tYDrKwu_fFzPmg4GzueDl1O1AcaK2hwtNeoINmgGU6Hzc0AmNDAagS5KIVjU9nbXncvOnJ7qWPm9sUHs1caWsBDJuep3s2vti6_dmchqf7ep72dgFVv2zY9LR1KdAAsD_bd72YOfXFit1AY4G2AU16Nnffy6aJQEcCGU8XND2fuefFwp5nqxaB4gYcKy9nt4E0g3UvWfls5hagpseNTY8b1z9u6gG5q3H-48atjxtXAB0IVPB8FijEHjfOfNzU-LgJKNsHcTvYuxPWPNm9GCTdBES9jxuXAhlA6RfrusB6uoGGglSDtK2BGAezbB_YpiXPpi99Oh1sQuMmIBdmehPYdb3Nz6avfNYDNAIovRDswJbHjdseN3UDFQETN8wOYNgCzVoHTF9gkclgIxrAUtOBXKhxwAh8um_h013LwYqAfgTpfNzYD3QdxEdPWzufTQG6C-KW7sdNXSArG1dBXAr1MtCI5yvmAKMLrA6oH-iiJWAV61_smQtzUQ_QpWDB_qc7IIJAlUBxoPfhvpsOTASgsIBYjhzq8NwLDSxQ8AFdtAJkLtizEP2znk7cAwtOsClQm4EiW4H-x-nShqbHDb0gIyjPalCgoKXPxeVYlJiRWZKfnpibaRWQmZiX71Cja1hTDbJIwcbQTMsOzMKW0RXAuaoBmE4VNCDpXUFbwUjh6Yb-5-sbdODZVBOLTqDFIFNrFAwUdMEQG12dm1arYBoPZNUoGELFEbQRMBObKJhCxWqAfIgMCILEjZFMghgCttLHsEYBxANBbDSwHAUb97i5Hyr6uHkNjNW0H8yfCiY7wCI7oaoXIln_uHklWG4dsrnNK8BuwB-au3rAoUliIIICAxYgsEABBQcoCEA0JPhA8iAeiG0O8zKW0HncvBbs3la4qx83rQazQSEC9VtzD0pYzQOLtYDJSQh2E8gkRAg0EhECOzrJCQGwf8D-APkQzKsGJR4gbaIO9rchSNQsHqgWrAwEgTwQBeTDhWDJDzk0IL5eAiangUlwaEDDZD6Y7AOLbIaEBlgGkl62w1kgOeS0RiAcns6eTU44gLMMal4B-g3sURMQAfIfJLuYgCVxpAhwokEEATjZQ7wB8RrI24-b1oNZoOQAiV5QxCO8_7h5FTzwusAkKEkgEgMo4AhmhyngQDAmMRCgMQ8qB0AeBHoNxDAF-xlWLCAKDFhwwUMABhFK4KURLFeBMLaAAqUSiFdBXoemkaY1sPQDDjKE8ZBAQA5YkN5ODGdA8hk86DBKIaRyi0Cqal1LToDiTCsIJyLCHBTqENoYqNgEqAmcC8GqYIGPHvSwMEbOdqB0BUlVsKIWVAwjggxb8CCzYEEPL8TAAYYa6JDoQk6bsECu4arl4tK1U0CqHRWAXGUuAA)]
+- [鋼琴伴奏 TMD 檔案](arahitogami_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNMDQCZexRMgUFOWXpeYl5gHNLSgCOTEFbDBCQWpZZkoqSLo4OTEvviy1KDMtMzUFyfGpRcVgD0KsKClKzCtOLsosAPkaoSq_qCQjP70osSCj0iojs7gkvygzOTEnPjsxDykcEouAmtNTc1PzSqwKMhPz8uMTk5PzcwsS8zJBYgiFJRlARVaZuQVA1yTmINuSmZ6ZZ5WbmpmViSV8oNLlqcUlqUV58bmpOfkplUpcWloKz_v3Pdm16_nSee_3dLzs3vN8wpYne7Y8Xdr_vLPj_Z5OBS0tLkVbBQsLLntbBXcuGxN9EzuQoS9WAtXPerl56dONrU_3bwRb9Gz2JqDY46ZFj5v3PG7eDDTvRfdGoBlAhmNRXiqQBVb2on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--XqGc_Xdj5fPvH5lO1P1054PmUF0DRQGtEDphE9UBoBG8vlWJSYkVmSn56Ym2kVAAq_IA-HGl3DmmouBSCwMTTTsgOz9LUUbNGBwvM1a57saHixsEdB4-mejS-2blfQVjBSeLqh__n6Bh0FUHLSyypI18SiU0sfbGqNgoGCLhhio6tz02oVTOOBrBoFQ6g4gjZSMFYwUTCFitUA-RAZEASJGyOZBDEEbKWPYY0CiAeC2GhgNICNe9zcDxV93LwGxmraD-ZPBZMdYJGdUNULkax_3LwSLLcO2dzmFWA34A_NXT3g0CQxEEGBAQsQWKCAggMUBCAaEnwgeRAPxDaHeRlL6DxuXgt2byvc1Y-bVoPZoBCB-q25ByWs5oHFWsDkJAS7CWQSIgQaiQiBHZ3khADYP2B_gHwI5lWDEg-QNlEH-9sQJGoWD1QLVgaCQB6IAvLhQrDkhxwaEF8vAZPTwCQ4NKBhMh9M9oFFNkNCAywDSS_b4SyQHHJaIxAOT2fPJiccwFkGNa8A_Qb2qAmIAPkPkl1MwJI4UgQ40SCCAJzsId6AeA3k7cdN68EsUHKARC8o4hHef9y8Ch54XWASlCQQiQEUcASzwxRwIBiTGAjQmAeVAyAPAr0GYpiC_QwrFhAFBiy44CEAgwgl8NIIlqtAGFtAgVIJxKsgr0PTSNMaWPoBBxnCeEggIAcsSG8nhjMg-QwedBilEFK5RSBVta4lJ0BxphWEExFhDgp1CG0MVGwC1ATOhWBVsMBHD3pYGCNnO1C6gqQqWFELKoYRQYYteJBZsKCHF2LgAEMNdEh0IadNWCDXcNViqRx9UCpHE0TdCKn-IIGKXLlBIMRbQGWIChNRdscrRBvGKhhDKFDpBGSZxsfCJFD0QqoHdL1wLVhEUGwGF61w3XBFRkDaCKwdLARighio7oYWSOh2m4B0mIA1Q4zJxWU7JC9j2g7zJ1i_Gap-VFXoRkJTM9xIkAEgNWjhAXIdXDucBaRBHgTGsq6dAlJEKwC5ylwA)]
 
 ## 分析
 
@@ -77,26 +77,26 @@ tmd_source:
 ⏱  Duration:       0:38 (38.2s), 14 measures total
 🎼 Key & Tempo:    首調基準 G, != 88.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – G5 (MIDI 79) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  D4 in [Main #1 @ m.1, 0:02]
-   - 最高音: G5 in [Main #1 @ m.4, 0:09]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (38.2s)
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Arahitogami #1 @ m.8, 0:20]
+   - 最高音: D5 in [Arahitogami #1 @ m.2, 0:04]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Arahitogami (38.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+🗝  調性診斷：       D 調性不明確（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D, A, B, C
-   - 調性數值:    G 大調 [相關度: 0.94, 穩定度: High, 自然音純度: 99.0%]
-   - 候選調性 (K-S): G 大調 (0.94), D 大調 (0.75), G 小調 (0.60)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  A, G, D, F#, B
+   - 調性數值:    D 調性不明確 [相關度: 0.79, 穩定度: Ambiguous, 自然音純度: 88.9%]
+   - 候選調性 (K-S): D 大調 (0.79), G 大調 (0.78), B 小調 (0.57)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.93, 自然音純度: 99.0%, 調外音: C#)
+     • [Arahitogami #1]: D 大調 (r: 0.81, 自然音純度: 88.1%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+      Bb              [D ]*
       Eb               A  
          Ab           E  
             Db       B  
@@ -104,21 +104,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████                     7.2%
-     C# : █                          1.0%
-     D  : ████████████████████      26.0%
+     C  : █████████████             11.1%
+     C# : █                          0.5%
+     D  : ████████████████████      16.8%
      D# :                            0.0%
-     E  : ████                       4.8%
+     E  : ███                        2.9%
      F  :                            0.0%
-     F# : ████                       5.3%
-     G  : ████████████████████████  31.2%
+     F# : █████████████████         14.4%
+     G  : ███████████████████████   20.2%
      G# :                            0.0%
-     A  : ███████████               13.9%
+     A  : ████████████████████████  20.7%
      A# :                            0.0%
-     B  : ████████                  10.6%
+     B  : ████████████████          13.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – G5 (17 個半音 / 1.4 個八度, 93 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 94 個音符)
 ================================================================================
 ```
 

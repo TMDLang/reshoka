@@ -68,8 +68,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yubinsha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl0KlizIL0IyGiqRmpyRl5-Tn16JkAHak56ZZ5WbmpmVicXRUOny1OKS1KK8-NzUnPwUoG4tLYWXzVuf7Nv_YneXgpYWl6KtgqGBCZe9rYI7l42RvokdyIAXK-e93zPrxYy251M2PGte8GRn99OulWCjn83eBJR53rvi6Zzul4tWALlg4Rftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd0vV894vrbz-fKJz6dsf7p2wvMpK97v6QBFjR4wavRAUfN-T6cSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UDHAP35tHXFs2ntQAc83dD7rL1TIcDA2EIvqyD9_Z4eoOKXCxoVCvQUjIE8oKuf7Gh4vmYNkHy6dsezOfOBbAVjhZfLpgGdCwwUkBUvVu1_1rAcZHh374uZ84Gij5s7Xk7dDhQHWmGo8LQXaPkMsEzn44ZGYHgrAFWCbN-_-tmW3Y-buxUezVxpC4wRoAKwm9t3vZg59cWK3UBtQNOAKp_N3feyaeKTHZ1AxtMFTc9n7nmxsOfZqkWgcAaH8MvZbSDNIN1Apz5uaADa_3TBEqDWx40LHzc1P25se9y47HFjC1DV097Gl-09YKkZjxu3Pm7qgjjs5RxgAgAKdj9unPm4Eej2zseNkx83NYI0NjSCjH42fzNIRVPL48ZVjxv7wCpWv1jWDdYG1tDU9ripG6j62YylYMH1QC5Y2TpgwoGZPgdsXxPYxOlLn60HGgSU2PS4ccrjRqAikKEvG0DeBqlu6gCLbAU5EJaGwVJARwD9tPlx0-THjRNAtjbug_gDZC7Q-y-nTQSrW_e4cSXYiImPG3vR3dU0Cajh-XyI4HSwCFDlmpcL-2GO3Q1xENRcUGpY2_2ycTLMySvAgbUI6H1gQMNNfLkc6GqQfpjFy4DxBQ46UDQ9buwHeR9s3i5g5mgAmvpszmyYrxY-btwA9Bs4ppqfT50LFp8N9udeaEztAju4qQEWCeufL2-AuQgUxY8bl8OibMbSF73AlAry3uOmVrApUyGmv5gAcVITcsQBM_-Ljl6oB5smgCMaGAow30FijciIwBW5T_dMhQiCub2I9IUl1hvXv1i1ASwIzj6NPcDCA8wFOhBkB1z2cRPQN6CE9rwDaC5EpBEl7khKE0AXPG6cC9IMDDeQA8Eep7xMggIFLX0uLt9EYFkdkJmYl-9QY1BTDbJAwcZCyw7MABaEkHIHknKcEouKFQwfNUwGFRIg3SA1NQrVabUKhkBoHg8kahSMQAzTeAVdINsQWE6ZgllGQJYRiAVOcjCTd_UgmWwKNBlUAiNMxmuqEZilq2CAYeqOTiRTLYGmGhqhOjgX6GIjqJNQHWkE5JmoA5kg84E2ohn9dPZs5KAwBplthmI20IlAbUYKJkA2yFjDOLDJ1bkFtQpmQFFwGADFjcFuRwuNKciGmwMNNzLAdDhhG0xRQqaWi0vXTgEUzwpAWpkLAA)]
-- [鋼琴伴奏 TMD 檔案](yubinsha_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZvPXJvv0vdne939PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUMDUy47G0V3LlsjPRN7LjqFJRerJz3fs-sFzPank_Z8Kx5wZOd3U-7ViqBZJ7N3gSUed674umc7peLVgC5YOEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dL1fPeL628_nyic-nbH-6dsLzKSuArjMyMDLQMzAw0zOwMLEAuk2Ji8s3MTPPKiAzMS8_yMOhxqCmmksBCGwstOzADH0thedr1jzZ0fBiYY-Clj5YrEahOq1WwRAIzeOBRI2CEYhhGq-gC2QbKhgrmIJZRkCWEYjFhWzSrh4Uk_CaYgRm6SoYYJiyoxPVPblABxlBbUR1gxGQZ6IOZIKMA1qAZtLT2bNRTALaD1RkpGACZIMMMYwDm1OdW1CrYAYUBXsIKG4Mdhia16ZgOoqweaYonqxFjhEf4mPEMF4h2jAWaB2EBnkEyDKNhwqBGHBFxnjU4I0rEuzAFCEYicS42AwkZRSfGwthmYEVGYHFYuE0gQgmbIsJkGECNxBoGZI2qFq8MU-KHbgCCpgQdO0UQGlBAUgrcwEA)]
+- [主旋律 TMD 檔案](yubinsha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMEbSWVCUX5aal5gH1F1QBHJIClg7QkFqWWZKKki6ODkxL74stSgzLTM1BcmJqUXFYG9ArCgpSswrTi7KLAD5DaEqv6gkIz-9KLEgo9IqI7O4JL8oMzkxJz47MQ_JtyUZqUDPgk0oAGrAkEhNzsjLz8lPr0Q2NzM9M88qNzUzKxOLv6HS5anFJalFefG5qTn5KUDdWloKL5u3Ptm3_8XuLgUtLS5FWwVDAxMue1sFdy4bI30TO5ABL1bOe79n1osZbc-nbHjWvODJzu6nXSvBRj-bvQko87x3xdM53S8XrQBywcIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6X66e8Xxt5_PlE59P2f507YTnU1a839MBil09YOzqgWL3_Z5OJS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBjgH682nrimfT2oEOeLqh91l7pwIoiehlFaS_39MDVPxyQaNCgZ6CMZAHdPWTHQ3P16wBkk_X7ng2Zz6QrWCs8HLZNKBzgYECsuLFqv3PGpaDDO_ufTFzPlD0cXPHy6nbgeJAKwwVnvYCLZ8Blul83NAIDG8FoEqQ7ftXP9uy-3Fzt8KjmSttgTECVAB2c_uuFzOnvlixG6gNaBpQ5bO5-142TXyyoxPIeLqg6fnMPS8W9jxbtQgUzuAQfjm7DaQZpBvo1McNDUD7ny5YAtT6uHHh46bmx41tjxuXPW5sAap62tv4sr0HLDXjcePWx01dEIe9nANMAEDB7seNMx83At3e-bhx8uOmRpDGhkaQ0c_mbwapaGp53LjqcWMfWMXqF8u6wdrAGpraHjd1A1U_m7EULLgeyAUrWwdMODDT54DtawKbOH3ps_VAg4ASmx43TnncCFQEMvRlA8jbINVNHWCRrSAHwtIwWAroCKCfNj9umvy4cQLI1sZ9EH-AzAV6_-W0iWB16x43rgQbMfFxYy-6u5omATU8nw8RnA4WAapc83JhP8yxuyEOgpoLSg1ru182ToY5eQU4sBYBvQ8MaLiJL5cDXQ3SD7N4GTC-wEEHiqbHjf0g74PN2wXMHA1AU5_NmQ3z1cLHjRuAfgPHVPPzqXPB4rPB_twLjaldYAc3NcAiYf3z5Q0wF4Gi-HHjcliUzVj6oheYUkHee9zUCjZlKsT0FxMgTmpCjjhg5n_R0Qv1YNMEcEQDQwHmO0isERkRuCL36Z6pEEEwtxeRvrDEeuP6F6s2gAXB2aexB1h4gLlAB4LsgMs-bgL6BpTQnncAzYWINKLEHUlpAuiCx41zQZqB4QZyINjjlJdJUKCgpc_FFVmalJlXnJFoFZCZmJfvUGNQUw2yRMHG0EzLDszCVhoqQIojYIJS0DBReLqh__n6Bh14EaaJRQPQLpBhNQrVabXAwksXCI0UDIGkWTyQqFEwBVFgNpgFglBBE7BSFCGQfpBesBDYXB_DGoXHzY2Pm5eDBR83LQNy28CsJWB9j5t2PG5eCpUCks2r4EY-bloNFt8JFp-PJL4ZLLIQTIIMQ7LPCCQPMhok1wjEc-Bmg2R2g8Uh-uciTGxeAFa1DizejyQ-Ce7Ux83tcJvwh_-uHnLCn6ywN4cohIW5AZawh4VFF9x_3VC_gUL0cTMk1EEhDfMzyP8QkcfNfWD_g9ig0NsDVQV3DVKYb4dEIyR4HzftRQ725kU4rNoAdRrMEoijwEkGwyoCib6TrESfC0z1oIAEhT6MrkERgTgVxIKJmqhDIgJIgiMDETlIwQ5JOFvAfupADnaoP1eAyalIYQEOHWgmmAwNR4gOSChB9M3DDHpSdeJzHVRmLVgMkbXwhv3T2bPJCXtE2IGSLwhDMgEIg8IW4tbq3IJacHIHq0RECFgVTDN64INTbXMn2Csb4R5CT9ubEAHStB0sshJM9iCJQ1TOhgcReqpHj0yIDSCZ_WB714BJUHTATASLN4PFwe5EFYeUaQibCJQ0U8hO9OSGPiSD4CtwwCkIkqqgRXcTNPAhBQ4oZ6MGPqSYB0cUpG4Ap2iQzHqoKiwFDumRDIkmSMkEDmJItINkYCkdYU8tF5eunQKsFlYAspW5AA)]
+- [鋼琴伴奏 TMD 檔案](yubinsha_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMEbSWVCUX5aal5gH1F1QBHJIClg7QkFqWWZKKki6ODkxL74stSgzLTM1BcmJqUXFYG9ArCgpSswrTi7KLAD5DaEqv6gkIz-9KLEgo9IqI7O4JL8oMzkxJz47MQ_Jt4lFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCIrsFUFQJMxJFKTM_Lyc_LTK5EdkJmemWeVm5qZlYklgKDS5anFJalFefG5qTn5KUDdWloKL5u3Ptm3_8Xurvd7Ol5273k-YcuTPVueLu1_3tnxfk-ngpYWl6KtgqGBCZe9rYI7l42RvokdyNQXK-e93zPrxYy251M2PGte8GRn99OulWD7ns3eBJR53rvi6Zzul4tWALlg4Rftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd0vV894vrbz-fKJz6dsf7p2wvMpK4CuA6UNPWDa0AOlDaDblLi4IkuTMvOKMxKtAkDBGeThUGNQU82lAAQ2hmZadmCWvpbC8zVrnuxoeLGwR0FLHyxWo1CdVqtgrKALhEYKhkDSLB5I1CiYgigwG8wCQaigCVgpihBIP0gvWAhsro9hjcLj5sbHzcvBgo-blgG5bWDWErC-x007HjcvhUoByeZVcCMfN60Gi-8Ei89HEt8MFlkIJkGGIdlnBJIHGQ2SawTiOXCzQTK7weIQ_XMRJjYvAKtaBxbvRxKfBHfq4-Z2uE3IwbirByUYyQpCc4hCWNAZYAlCmJe64M7shjoRFDCPmyGBBwowmNNB3oCIPG7uA3sDxAYFwh6oKrhrkIJuOyQ2IKH0uGkvcug1L8Jh1Qao02CWQBwFjnkMq1CSYCdqEswFpkFQeIACEUbXoIhAbASxYKIm6pDwBJLgMEWEMVLoQaJxC9hpHcihB3XuCjA5FclLYE9Ck-RkaHBAdEA8C9E3DzMESdWJz3VQmbVgMURCRwrCp7NnowQhIghAiQmEIUkShEFBBLGyOregFpz4wCoR4QpWBdOMHobgNNTcCXbRRri70FPaJoS_mraDRVaCyR4kcYjK2XCfoqdB9DiB2ACS2Q-2dw2YBIUqzESweDNYHOxOVHFIQYGwCSX7TsFMguQGIiS54svF4PiExDG0WGuChiEkF4OyC2oYQopAcHhDyk1w-gLJrIeqwpKLSY8rSGhDsjs4pCCxB5KBpTuEPbXo9YwPcj1jgbeaMYxXiDaMhVGgBAtkmcbHIhjYxdD04SuCKbQCFG94iylizTMDMY2ATDDDDCxmBBVCKMOfm6Gq4H4hxm94gwo1uVNkASSggIlB104Blh6ifYASKHwjMF-ZCwA)]
 
 ## 分析
 
@@ -80,21 +80,21 @@ tmd_source:
 ⏱  Duration:       0:23 (23.1s), 20 measures total
 🎼 Key & Tempo:    首調基準 G, != 104.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – G5 (MIDI 79) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  D4 in [Main #1 @ m.2, 0:01]
-   - 最高音: G5 in [Main #1 @ m.14, 0:15]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (23.1s)
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Yubinsha #1 @ m.2, 0:01]
+   - 最高音: D5 in [Yubinsha #1 @ m.12, 0:12]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Yubinsha (23.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 調性不明確（流行色彩大調，未偵測到可信轉調）
+🗝  調性診斷：       D 大調（流行色彩大調，未偵測到可信轉調）
    - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, A, D, F#, B
-   - 調性數值:    D 調性不明確 [相關度: 0.83, 穩定度: Ambiguous, 自然音純度: 94.7%]
-   - 候選調性 (K-S): D 大調 (0.83), G 大調 (0.82), B 小調 (0.51)
+   - 核心骨幹音:  D, G, A, B, C
+   - 調性數值:    D 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 94.7%]
+   - 候選調性 (K-S): D 大調 (0.85), G 大調 (0.81), B 小調 (0.67)
    - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Main #1]: D 調性不明確 (r: 0.83, 自然音純度: 94.7%, 調外音: C)
+     • [Yubinsha #1]: D 大調 (r: 0.85, 自然音純度: 94.7%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -107,21 +107,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████                      5.3%
+     C  : ████                       5.3%
      C# : █                          1.3%
-     D  : ███████████████████       21.1%
+     D  : ████████████████████████  31.6%
      D# :                            0.0%
-     E  : ██                         2.6%
+     E  : ████                       5.3%
      F  :                            0.0%
-     F# : ██████████                10.5%
-     G  : ████████████████████████  26.3%
+     F# : █                          1.3%
+     G  : ██████████████            18.4%
      G# :                            0.0%
-     A  : ████████████████████      22.4%
+     A  : ██████████████            18.4%
      A# :                            0.0%
-     B  : ██████████                10.5%
+     B  : ██████████████            18.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – G5 (17 個半音 / 1.4 個八度, 64 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 64 個音符)
 ================================================================================
 ```
 

@@ -37,7 +37,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P081.jpg，書頁 p. 4，高二第一學期第 4 首）：
-調性與拍號：ニ長調（2 升記號）、3/4 拍（ゆうびに，弱起第 3 拍進入）
+調性與拍號：ニ長調（2 升記號）、3/4 拍（ゆうびに ♩=88，弱起第 3 拍進入）
 
 
 ## 歌詞
@@ -64,8 +64,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](airashiki_hana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdWpCTmIdkLNCk9Mw8q9zUzKxMJGdpaSk8a5n9uKnzceP0x429L7o2KmhpcSnaKlhYcNnbKrhw2Rjrm9iBTHnavuvFzKnv98x6tmrR03Wznk7Z-Gxtz8vZbWArXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdsAUts66fnqpRAdjxu6X66e8Xxt5_PlE58u3fx07YTnU1a839MBCk49YHDqgYLz_Z5OJS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBjnmxct7T1hXPprUDHfB0Q--z9k6FAAMLQ72sgvT3e3qAil8uaFQo0FMwAfKArn6yq-f5mjVPdjQ8Xbvj2Zz5QLaCicLLZdOAzgWGC8iKF6v2P2tYDjK8u_fFzPlA0cfN3S-nbgeKg_yo8LQXaPkMsEzn44ZGYNgqAFUCpR43tT1uBKLNjxtXAy17umfji63bQRYYgxS8bNj0tHUpUA8XyBKgA4B6wdb1AuNt3ZMdXUBdQKHnfUDuqseNM1_O2QT28P7mp3M2PG7qACp63Nj0uHHi48Y9IHZTC0j6-ZqJLxdOebZ_4eOmnseNy56v7n7cuOTp8tXPZ-57OqED4p0NQJOf7AFqmv-4CSg9F6j75dxFT_duhLhkFzA-wS4B2gh3ybN1M0AmNnU_mwM25XFj1-MmoO3THzf1AhU9m9P5bEYfzA1zFjxunPq4qRHugGeTVgMTBdj2ro1gM9cCyaet257snAlJMODgmvS4cQVY2xRQsABVU55GoEBBS5-LyzcRmFkCMhPz8h1qDGqqQRYo2BiaadmBWcCUCYmhpxv6n69vAEVz03qFx01bQXpBCmoUDBR0wRBGV-cW1AIjUxeMa8ChBzIGkp5eLOwBJ5U-oBnLFB43zwAaAEw4QN5-IL0HzJsHxF1AkZ1AugUsskxB43HTZpACTYS9plD7QBBklSGUXaNghOGiNIiLQFpqFAzjoOLmYNIMblINkI0wE-4XkDRIAtUvu3qgfgE7rBGIV8B9APLdIhivaSOY9bh5DlgGJL8E5B-g8qY1BPwDDkKi_APiwtTB_IbkVRgEKQFhtHjphMXLbKDreoB4DdidbdB4gcTCJCBeCI4NEG8VyA8gSWQ_VAMdhh6GJjArUXyI7EugPpCPYM4HCcM0QqIFXSNWXzydPRvmC2B6gqYpkEtXA1l7YWHftArIAsZN02owbxOq2yEpAgFBFoOcUQN3FAyC3I3kdphbYX6oBqYb83i4B2BpEwZhMVnDVcvFpWunAMqECkBamQsA)]
-- [鋼琴伴奏 TMD 檔案](airashiki_hana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMvtxU-fjxumPG3tfdG18v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYWHDZ2yq4cNkY65vYcdUpKD1t3_Vi5tT3e2Y9W7Xo6bpZT6dsfLa25-XsNiWQ5Iv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbQGpbJz1fvRSi43FD98vVM56v7Xy-fOLTpZufrp3wfMoKoEOMDIwM9AwMzPQMLEwsgc5Q4uLyTczMswrITMzLD_JwqNE1rKnmUgACG0MzLTswS19L4emejS-2bn-6of_5-gYFLX2wcI2CgYIuGMLo6tyCWgVjIAOEa7hgmp-vWfNkR8OLhT0InaZQHSAIUmwIZdcoGGGYmQYxE6SlRsEwDipuDibN4CbVANkIM-GuAUmDJFBds6uHoGvAXiDKNSAuTB3MZUgOhUGQEhBGC5dOFJdUA41H94cJTCOKO5HdCtQHchfMESBhmEZI0KBrxOqWp7NnY7gFEsoICDIIZGwN3BIYBLkDyS0wu2FuqgbGhXk83EGw-IZBWPjWcNUiJ0gflARpQUx6hGG8yQ-cNAzjFUzjFYyRSGBAxccrGMUDXQqmgCoMgIImQB5YMVjQDEgBlaOrBfGAivElMzIthFKo-iEq8SYlUDSgGg-lsJkEUwnkAYWBDBMk1wFVYfchRpIhzU4joBwoOKE6QGkEzbNAEhadwISha6cAShsKQFqZCwA)]
+- [主旋律 TMD 檔案](airashiki_hana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMLAwRMgUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuSUYq0LcFOYl5SPYDVaZn5lnlpmZmZSL5TEtL4VnL7MdNnY8bpz9u7H3RtVFBS4tL0VbBwoLL3lbBhcvGWN_EDmTK0_ZdL2ZOfb9n1rNVi56um_V0ysZna3tezm4DW_GifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzaBpDa1knPVy-F6Hjc0P1y9YznazufL5_4dOnmp2snPJ-y4v2eDlCM6AFjRA8UI-_3dCpxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTMi5XznraueDatHeiApxt6n7V3KoCiVS-rIP39nh6g4pcLGhUK9BRMgDygq5_s6nm-Zs2THQ1P1-54Nmc-kK1govBy2TSgc4HhArLixar9zxqWgwzv7n0xcz5Q9HFz98up24HiID8qPO0FWj4DLNP5uKERGLYKQJVAqcdNbY8bgWjz48bVCo9mrrS1sADa-XTPxhdbt4PsMQape9mw6WnrUqBWLpBdQHcAjQDb2guMvnVPdnQBNQOFnvcBuaseN858OWcT2N_7m5_O2fC4qQOo6HFj0-PGiY8b94DYTS0g6edrJr5cOOXZ_oWPm3oeNy57vrr7ceOSp8tXP5-57-mEDoivNgBNfrIHqGn-4yag9Fyg7pdzFz3duxHikl3AaAW7BGgj3CXP1s0AmdjU_WwO2JTHjV2Pm4C2T3_c1AtU9GxO57MZfTA3zFnwuHHq46ZGuAOeTVoNTBtg27s2gs1cCySftm57snMmJN2AQ23S48YVYG1TQMECVE15UoECBS19Li7HzKJEYMmSnekBzGFWAZmJefkONbqGNdUgqxRsLLTswAxsKRUYrqCk8mJhj4IGJB4VDEGRqKANTDRPN_Q_X9-gA09tmlj0A-0HmV2jYKCgC8bVuQW1CkZAWAOW8DGsUYgHCoPw46b1QLwVJmOEJNO4BCjTBpSBmmYMFNQFG6ML5YHMNgKyaoA2pNUqmAG5pmBFJkAhEzBLF6wQYe_j5j6w6OOmZUD2DLBRwJQOd81-IG8PWGweiN_cBVW9EyzWAjXzcfMyhKlANwMjGCLe2AbEOyCmAvMDzCfrYKY2Tgab1gM1tRsstgRmamMv2FT8MbOrBxwzJEYFOAoMwaGlC6RBDoTxQKEI4hlDQtEUGHLGQLIGHJ4gaAiESCHYtBnsGxANColGaBiugIiCwxfka5DKRVCVG6Fyc8DyINVwPzcB9TWtQQnLLqiuJnCYTIea1QsRBYc01PzGJqhKqA4Qv3EiWDU8phrXAnkNBEN1RydZoQpNdZA0B0zf0EQKCjOzeFi6BCVYkDgoRSKrQAnV5tnwtNUDxMAQAZJt8FACpcsWsNgksJqFiFQIpFehqEMJTWDYwEJiKpDXCA43kD6I2Hxw-gOJgcx43LgcOczBqRWiDphLgSoIhOLT2bNpG4qghFsNTMjmkAQAlISoAydhpLAE5WdIWHaDwwQkBsqNkDDaC0uFTWA_Ny8Ci4LkQWKboOrAVmDkcFBYrAJiSM5FiM0F80D6wfHTuAJsJjRvNE5BMbOWi0vXTgGlhFYACihzAQA)]
+- [鋼琴伴奏 TMD 檔案](airashiki_hana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMLAwRMgUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuYhFQc3pqbmpeiVVBZmJefnxicnJ-bkFiXiZIDKGwJAOoyKogJxFZEGhkemaeVW5qZlYmUhBoaSk8a5n9uKnzceP0x429L7o2vt_T8bJ7z_MJW57s2fJ0af_zzo73ezoVtLS4FG0VLCy47G0VXLhsjPVN7EBGP23f9WLm1Pd7Zj1btejpullPp2x8trbn5ew2sL0v2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbQCpbZ30fPVSiI7HDd0vV894vrbz-fKJT5dufrp2wvMpK4AOAcWnHjA-9UDxCXSGEheXY2ZRIjBRZGd6AAPHKgAUDkEeDjW6hjXVXApAYGOhZQdm6Gsp2KIDhedr1jzZ0fBiYY-CxtM9G19s3a5gqPCsu1dBW8FE4emG_ufrG3QUQClAL6sgXROLfi19sNk1CgYKumBcnVtQq2AEhDVgCR_DGoV4oDAIP25aD8RbYTJGSDKNS4AybUAZqGnGQEFdsDG6UB7IbCMgqwZoQ1qtghmQawpWZAIUMgGzdMEKEfY-bu4Diz5uWgZkzwAb9bi5G-6a_UDeHrDYPBC_uQuqeidYrAVq5uPmZQhTgW5-3LgOIt7YBsQ7IKY2rob7ZB3M1MbJYNN6oKZ2g8WWwExt7AWbij9mdvWAY4bEqABHgSE4tHSBNMiBMB4oFEE8Y0gomgJDzhhI1oDDEwQNgRApBJs2g30DokEh0QgNwxUQUXD4gnwNUrkIqnIjVG4OWB6kGu7nJqC-pjUoYdkF1dUEDpPpULN6IaLgkIaa39gEVQnVAeI3TgSrhsdU41ogr4FgqO7oJCtUoakOkuaA6RuaSEFhZhYPS5egBAsSB6VIZBUoodo8G562eoAYGCJAsg0eSqB02QIWmwRWsxCRCoH0KhR1KKEJDBtYSEwF8hrB4QbSBxGbD05_IDGQGY8blyOHOTi1QtQBcylQBYFQfDp7Nm1DEZRwq4EJ2RySAICSEHXgJIwUlqD8DAnLbnCYgMRAuRESRnthqbAJ7OfmRWBRkDxIbBNUHdgKjBwOCotVQAzJuQixuWAeSD84fhpXgM2E5o3GKShm1mItoH2wFtCIQhThR2huNouPVzCOVzAEk0ZADkgAFChIwiCOAVAQJg0UNUVWDGOZQCiocqgtGCYBKRzmIwSBxkNIAoZD4hRVBZGegEriV001a0DpzRjINEfWAaJgUQKMTl07BZQYjfYxjFXAFDQCCypzAQA)]
 
 ## 分析
 
@@ -73,51 +73,51 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 愛らしき花 ]
 ================================================================================
-⏱  Duration:       0:34 (34.8s), 17 measures total
+⏱  Duration:       0:32 (32.7s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 88.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C#4 (MIDI 61) – D5 (MIDI 74) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
-   - 最低音:  C#4 in [Main #1 @ m.16, 0:32]
-   - 最高音: D5 in [Main #1 @ m.4, 0:06]
+🎤 人聲音域:    B3 (MIDI 59) – B4 (MIDI 71) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  B3 in [AirashikiHana #1 @ m.11, 0:22]
+   - 最高音: B4 in [AirashikiHana #1 @ m.4, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (34.8s)
+🏛  結構:      AirashikiHana (32.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A 調性不明確（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       B 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, E, F#, B
-   - 調性數值:    A 調性不明確 [相關度: 0.87, 穩定度: Ambiguous, 自然音純度: 93.5%]
-   - 候選調性 (K-S): A 大調 (0.87), D 大調 (0.86), F# 小調 (0.70)
-   - 五度圈歷程:   +3
+   - 核心骨幹音:  F#, B, E, D, G
+   - 調性數值:    B 小調 [相關度: 0.81, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): B 小調 (0.81), B 大調 (0.60), D 大調 (0.58)
+   - 五度圈歷程:   +5
    - 各段落調性細節:
-     • [Main #1]: A 調性不明確 (r: 0.87, 自然音純度: 93.5%, 調外音: G)
+     • [AirashikiHana #1]: B 小調 (r: 0.76, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
       Bb               D  
-      Eb              [A ]*
+      Eb               A  
          Ab           E  
-            Db       B  
+            Db      [B ]*
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : ██████████                 9.2%
-     D  : ████████████████████      18.5%
+     C# : ██                         2.2%
+     D  : ███████████               14.1%
      D# :                            0.0%
-     E  : ███████████████████       17.4%
+     E  : ████████████              15.2%
      F  :                            0.0%
-     F# : ██████████████████        16.3%
-     G  : ███████                    6.5%
+     F# : ████████████████████████  30.4%
+     G  : █████████                 10.9%
      G# :                            0.0%
-     A  : ████████████████████████  21.7%
+     A  : ████                       5.4%
      A# :                            0.0%
-     B  : ███████████               10.3%
+     B  : █████████████████         21.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C#4 – D5 (13 個半音 / 1.1 個八度, 51 個音符)
+  - Piano         : B3 – B4 (12 個半音 / 1.0 個八度, 51 個音符)
 ================================================================================
 ```
 

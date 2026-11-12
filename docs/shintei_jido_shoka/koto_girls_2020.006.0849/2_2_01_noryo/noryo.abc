@@ -7,8 +7,18 @@ Q:1/4=88
 K:A
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! c4 c4 B4 A2 G2 | F4 G4 A4 z4 | B4 B4 e2 d2 c2 B2 | A8 E4 z4 |
-c4 c4 B4 A2 G2 | F4 G4 A4 z4 | B4 B4 e2 d2 c2 B2 | A8 E4 z4 |
-!p! G4 G4 A4 B4 | c8 A4 F4 | G4 G4 A4 B4 | G4 F4 E4 z4 |
-!mf! A4 d4 c2 B2 A2 G2 | F8 F4 z4 | G4 A4 B4 G4 | A4 F4 E4 z4 |
-!mf! A4 d4 c2 B2 A2 G2 | F4 G4 A4 c2 c2 | B2 A2 G2 F2 E4 e2 d2 | !p! c2 B2 A2 G2 A4 z4 |
+!mf! A4 A4 A4 c2 A2 | E4 E4 E4 z4 | A6 G2 F2 E2 D2 C2 | C8 B,4 z4 |
+w: 1.~ス ズ シ カ ー | ハ カ ゼ | ミ ヅ ノ ー ホ ー | ト リ
+w: 2.~ふ く よ ゆ ー | ふ か ぜ | を か の ー あ ー | な た
+A4 A4 A4 c2 A2 | E4 E4 E4 z4 | A6 G2 F2 E2 D2 C2 | C8 B,4 z4 |
+w: 1.~ホ タ ル ト ー | ビ ク ル | ハ シ ノ ー タ ー | モ ト
+w: 2.~つ き も や ー | ど る か | く さ の ー は ー | ず ゑ
+!p! B4 B4 B6 B2 | B6 G2 E4 z4 | B4 B4 B6 B2 | B6 G2 E4 z4 |
+w: 1.~テ ニ テ ヲ | ト リ テ | カ タ ラ ヒ | ユ ケ バ
+w: 2.~て に て を | と り て | つ ゆ わ け | く れ ば
+!mf! E6 e2 e2 d2 d2 c2 | c8 B4 z4 | A4 E4 F4 G4 | A4 B4 c4 z4 |
+w: 1.~ヒ ル ノ ー ア ー | ツ サ | ニ ハ カ ニ | キ エ テ
+w: 2.~ひ る の ー な ー | や み | と み に も | う せ て
+!mf! B6 c2 e2 d2 c2 B2 | A4 G4 A4 c2 c2 | d2 d2 B2 B2 c4 A2 A2 | !p! B2 B2 G2 G2 A4 z4 |
+w: 1.~タ ノ シ ー ヤ ー | コ ノ ミ ミ ヤ | マ ノ シ ミ ヅ シ ミ | イ ル コ コ チ
+w: 2.~す ず し ー や ー | こ の み あ し | た の あ き の す み | ゆ く お も ひ

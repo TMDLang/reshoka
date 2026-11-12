@@ -80,6 +80,8 @@ def parse_token_absolute_pitch(token: str, key_offset: int) -> int | None:
     token = token.strip()
     if not token or token == "0" or token.startswith("{"):
         return None
+    if "+" in token:
+        token = token.split("+")[-1]
     # 首調唱名
     m = re.match(r"^([1-7][',]?)([\^_]*)$", token)
     if m:
@@ -90,12 +92,21 @@ def parse_token_absolute_pitch(token: str, key_offset: int) -> int | None:
 
 def parse_chord_absolute_pitches(chord_token: str, key_offset: int) -> list[int] | None:
     token = chord_token.strip()
+    if "+" in token:
+        pcs = []
+        for part in token.split("+"):
+            pc = parse_token_absolute_pitch(part, key_offset)
+            if pc is not None:
+                pcs.append(pc)
+        return pcs if pcs else None
+    # 移除八度記號 ^ 與 _ 以統一比對首調與絕對和弦 (如 [4_] -> [4], [1_] -> [1])
+    norm_token = re.sub(r"[\^_]", "", token)
     # 1. 首調和弦
-    if token in MOVABLE_CHORDS:
-        return [(semi + key_offset) % 12 for semi in MOVABLE_CHORDS[token]]
+    if norm_token in MOVABLE_CHORDS:
+        return [(semi + key_offset) % 12 for semi in MOVABLE_CHORDS[norm_token]]
     
     # 2. 絕對音名和弦 [C], [D], [Gm], [D7], [Cm]
-    m = re.match(r"^\[([A-G][b#]?)(m|maj7|7|m7|dim|aug)?\]$", token)
+    m = re.match(r"^\[([A-G][b#]?)(m|maj7|7|m7|dim|aug)?\]$", norm_token)
     if m:
         root_name = m.group(1)
         suffix = m.group(2) or ""
@@ -152,14 +163,18 @@ def audit_piano_score(tmd_path: Path):
     text = tmd_path.read_text(encoding="utf-8")
     key_offset = parse_key_signature(text)
 
-    rh_match = re.search(r":PianoRH[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
-    lh_match = re.search(r":PianoLH[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
+    rh_blocks = re.findall(r":PianoRH[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
+    lh_blocks = re.findall(r":PianoLH[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
     
-    if not rh_match or not lh_match:
+    if not rh_blocks or not lh_blocks:
         return True, ["無法找到 PianoRH 或 PianoLH 音軌"]
 
-    rh_measures = expand_track_timeline(rh_match.group(1))
-    lh_measures = expand_track_timeline(lh_match.group(1))
+    rh_measures = []
+    for b in rh_blocks:
+        rh_measures.extend(expand_track_timeline(b))
+    lh_measures = []
+    for b in lh_blocks:
+        lh_measures.extend(expand_track_timeline(b))
 
     warnings = []
     num_m = min(len(rh_measures), len(lh_measures))
@@ -171,16 +186,16 @@ def audit_piano_score(tmd_path: Path):
 
         rh_grid = []
         for e in rh_events:
-            rh_grid.extend([e["token"]] * e["duration"])
+            rh_grid.extend([(e["token"], e["duration"])] * e["duration"])
 
         lh_grid = []
         for e in lh_events:
-            lh_grid.extend([e["token"]] * e["duration"])
+            lh_grid.extend([(e["token"], e["duration"])] * e["duration"])
 
         min_len = min(len(rh_grid), len(lh_grid))
         for tick in range(min_len):
-            rh_tok = rh_grid[tick]
-            lh_tok = lh_grid[tick]
+            rh_tok, rh_dur = rh_grid[tick]
+            lh_tok, lh_dur = lh_grid[tick]
 
             rh_pc = parse_token_absolute_pitch(rh_tok, key_offset)
             if rh_pc is None:
@@ -188,12 +203,15 @@ def audit_piano_score(tmd_path: Path):
 
             # 1. 檢查 LH 低音單音
             lh_pc = parse_token_absolute_pitch(lh_tok, key_offset)
-            if lh_pc is not None:
+            if lh_pc is not None and "+" not in lh_tok:
                 diff = abs(rh_pc - lh_pc) % 12
-                # 低音與旋律若形成小二度或大七度（相差 1 個半音）
-                if diff in (1, 11):
-                    # 避免重複警示同一小節同一衝突
-                    warn = f"第 {m_num} 小節: 旋律音 {rh_tok} 與伴奏低音 {lh_tok} 構成半音強烈衝突！"
+                # 若右手本身已是完整和弦（含 +），且與低音共同構成三和弦/七和弦/九和弦（低音上方含大三度4或小三度3，以及完全五度7），則旋律音為九音/六音屬正常和聲
+                rh_chord_pcs = parse_chord_absolute_pitches(rh_tok, key_offset) or [rh_pc]
+                rel_pcs = {(pc - lh_pc) % 12 for pc in rh_chord_pcs}
+                is_extended_tertian = 7 in rel_pcs and (3 in rel_pcs or 4 in rel_pcs)
+                # 低音與旋律若形成小二度/大七度（相差1半音），或一拍以上長音（>=4格）形成大二度/三全音（2, 6, 10）
+                if diff in (1, 11) or (rh_dur >= 4 and lh_dur >= 4 and diff in (2, 6, 10) and not is_extended_tertian):
+                    warn = f"第 {m_num} 小節: 旋律音 {rh_tok} 與伴奏低音 {lh_tok} 構成不協和音程 (半音差={diff})！"
                     if not warnings or warnings[-1] != warn:
                         warnings.append(warn)
 
@@ -201,9 +219,11 @@ def audit_piano_score(tmd_path: Path):
             chord_pcs = parse_chord_absolute_pitches(lh_tok, key_offset)
             if chord_pcs is not None:
                 chord_dists = [abs(rh_pc - c_pc) % 12 for c_pc in chord_pcs]
-                # 旋律不在和弦音內，且與和弦音相差 1 個半音
-                if 0 not in chord_dists and (1 in chord_dists or 11 in chord_dists):
-                    warn = f"第 {m_num} 小節: 旋律音 {rh_tok} 與伴奏和弦 {lh_tok} 構成外音半音摩擦！"
+                # 旋律不在和弦音內，且與和弦音相差 1 個半音，或長音（>=4格，即一拍以上）不在和弦音內構成強烈外音碰撞
+                if 0 not in chord_dists and (
+                    1 in chord_dists or 11 in chord_dists or (rh_dur >= 4 and (2 in chord_dists or 6 in chord_dists))
+                ):
+                    warn = f"第 {m_num} 小節: 旋律音 {rh_tok} 與伴奏和弦 {lh_tok} 構成外音碰撞！"
                     if not warnings or warnings[-1] != warn:
                         warnings.append(warn)
 

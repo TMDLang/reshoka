@@ -4,12 +4,21 @@ C:曲：歐洲曲
 M:2/4
 L:1/16
 Q:1/4=80
-K:F
+K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z2 z2 z2 C2 | F3 G A2 B c | d2 c2 A2 z2 | G2 G2 G2 c2 |
-!f! A2 F2 G2 D2 | D3 F G2 B2 | A2 G F G2 z2 | A2 A B c2 A2 |
-!mf! G2 A G F2 C2 | F3 G A2 B c | !f! c2 B2 A2 A2 | B2 c2 d3 c |
-!mf! c2 B2 A2 C2 | G3 A B2 A G | F2 d2 c2 z2 | d2 d2 d2 z2 |
-c2 c2 c2 C2 | F3 G A2 B c | d c B2 A2 z2 | G3 G A3 G |
-F4 z4 |
+!mf! F2 F G F2 F G | F2 B2 D2 z2 | E2 E2 D2 D2 | C2 F2 F2 z2 |
+w: 1.~ア メ ー ヨ ブ ー | タ ツ カ | カ ゼ ヨ ブ | ト ラ カ
+w: 2.~カ ハ ー ギ リ ー | ハ レ テ | テ キ マ ヘ | ニ ア リ
+!f! F2 d c B2 F2 | F2 e d c2 z2 | F2 d c B2 F2 | F2 e d c2 z2 |
+w: 1.~ウ ヘ ー ス ギ | ゼ イ ー ト | タ ケ ー ダ ノ | ヘ イ ー ト
+w: 2.~タ ケ ー ダ ハ | ミ ダ ー レ | ウ ヘ ー ス ギ | ジョ ウ ー ズ
+!mf! F2 F G F2 F G | !f! F2 B2 d2 z d | c2 c2 B G F G | B4 z4 |
+w: 1.~ム カ ー ヒ テ ー | ヂ ン ス カ | ハ ナ カ ー ジ ー | マ
+w: 2.~サ レ ー ド モ ー | ツ ヒ ニ カ | ハ ナ カ ー ジ ー | マ
+!mf! F2 F G F2 F G | F2 d2 B2 z2 | F2 e2 c2 z2 | F2 d2 B2 z2 |
+w: 1.~カ チ ー マ ケ ー | イ カ ニ | ミ ヨ ヤ | ミ ヨ ヤ
+w: 2.~カ チ ー マ ケ ー | ミ エ ツ | ア レ ヨ | ア レ ヨ
+F2 F G F2 F G | F2 d2 B2 z2 | F2 e2 c2 A2 | B4 z4 |
+w: 1.~タ ガ ー ヒ ニ ー | ケッ シ ノ | ユ ウ シ ア | リ
+w: 2.~ケ ン ー シ ン ー | キ タ ニ | ハ シ リ タ | リ

@@ -4,7 +4,7 @@ song_title: "我が駒"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_1_07_waga_koma"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈我が駒〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：安東正郎、曲：田中銀之助），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：鹿毛よ行け行け朝靄分けて 千里の道も何のその…"
+description: "〈我が駒〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：安東正郎、曲：田中銀之助），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：鹿毛よ行け行け朝靄分けて 千里の道も何のその…"
 keywords: "我が駒, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 安東正郎, 田中銀之助"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -13,7 +13,7 @@ credits:
   - "曲：田中銀之助"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）"
-musical_key: "F"
+musical_key: "B,"
 meter: "4/4"
 tempo: "104"
 image:
@@ -41,7 +41,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P086–P087.jpg，書頁 pp. 9–10，高二第一學期第 7 首）：
-調性與拍號：ヘ長調（1 降記號）、4/4 拍（弱起第 4 拍進入）
+調性與拍號：變ロ長調（2 降記號）、4/4 拍（弱起第 4 拍進入）
 
 
 ## 歌詞
@@ -74,8 +74,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](waga_koma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdmpiXmYusF2hUemaeVW5qZlYmkru0tBSedUx83NjzcvkkBS0tLkVbBUMDEy57WwU3LhsTfRM7kAEvVs57v2fW03Wdz-ZufLZ28cvmPrC5z2ZvAgo_n7LhyY61L7sanuzsftq1Eizzon3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1OAZvU8buh-uXrG87Wdz5dPfLp089O1E55PWfF-TwcoePWAwasHCt73ezqVuLj0tRRsqQW4FBQUnvbNfzZ7x4vN7S9WdL3oaAc6BujPp60rnk1rBzrg6YbeZ-2dCgEGFmaPGiYDKXO9rIL093t6gHpeLmhUKCjQU7AEyhgaAMWAXniyq-f5mjVPdjQ8Xbvj2Zz5QLaCucLLZdOAbgcGEsi-F6v2P2tYDrKpu_fFzPlA0cfNM15O3Q4UB9pnqPByZu-LFTPAMp2PGxqBga8AVAlyyp6NL7ZuB5kIFnnZsOlp61KgIi6QqUAbQdTLnfufrZ_9uKnjxcKex40TIeSzOXNfzm152tEGZD9uXAb2dG_zy3ag3LqXjZMfNzU92TsVyH7cOBdIgt24bfPjxvUv9gBFux83AaOs4eWEmUAnPG5sety47XEj0KWdQG0v54Hc9bix_3ET0HcgEbDZ_d1gw9Y_blz1uKkBaOnLji2gpLV5y-Ombohrd_WAqGdzge6BqFz6uAnsnL51T9cBTVz3bPE6mHHrtoIsaQKKAtNZ5-PG1SBHgewEalj2bA5QvOdp-y6Q0SAjZwH19Txu6nrc1PKyve_ZHKDq1S-WAMMJqG7648YVjxvXgk1Z96IX6OBJ4ECbswnIf9rY_nT9IrA6oJ-74OqeTW993LgP4kloUHdCwgioBhTU4EBZ93Ru09PNC8Da5z9u3Pq4cRI4RCY9bgQ6BYJaQNqeT5kBtO_ZjtZnG7bALANGQS_YdfuBAQG2tedxc-Pj5uWPm9ciGI0rEDH3bNJkqFVN_WANQAfOerpxI9hRHUCPQxhgd4LTwOPGDc9WAN0JtKQFGJ0vujaCQrsdHA2U5yMoUNDS5-LyTQSWLwGZiXn5DjUGNdUgCxRsDM207MAsYO6FpOOnG_qfr28Apn5IkgVpBcnXKBgo6IIhOl2dm1arYAhkGAFxDTgmQKZBchvQk-CMtELhcfMeIF6m8LhpI5iugbCaFgHxVhCvGchqXgLE66FqgRioAm6_MdQ-ZAiyEm41hgqYC0HiIFyjYIYkC9MHkoOZg-r8XT0w57eBolcBGC1gh_ZBHTgfiBvBbJjzu-C8zVA1QLVNexGeMIvH4UZwKIJlwe6AugwVgvxgAsSmeH1bnVtQC5U0RLcR4WcIGwTRoqwT5meQy0GRsx3sn35ohKwG0kAMpEGiayFqmqeBZRFRRdiXYKIG7gjckYo1xKphxoDUgKMW2RNPZ8-GeQIURSBPIKWp5pXw6OoA08hRCvImKBIXIDwDCnFkp4GsIy7dgVyJPe3BICgmQbLgGEVNe1OgXgBnkp1AvAuWtprWQB3bBXb6atxZBBxUsOQAT-OYQYocCxAvYYsXZK_VcNVycenaKYAKFQUgrcwFAA)]
-- [鋼琴伴奏 TMD 檔案](waga_koma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMfFxY8_L5ZPe7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBiZc9rYKblw2Jvomdlx1CkovVs57v2fW03Wdz-ZufLZ28cvmPiWQ8LPZm4DCz6dseLJj7cuuhic7u592rQTLvGjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OkUoFk9jxu6X66e8Xxt5_PlE58u3fx07YTnU1YAXWdkYGSgZ2BgpmdgYWIJdJsSF5dvYmaeVUBmYl5-kIdDjUFNNZcCENgYmmnZgVn6WgpP92x8sXX70w39z9c3KGjpg4VrFAwUdMEQna7OTatVMAQyjIC4hgtmyPM1a57saHixsAdhgjFUBzIEaYJrxlABswMkDsI1CmZIsjB9IDmYOagO2NWD4gCzeBzmg_0AlgWbATUVFYLsNwFiU7wurc4tqIVKGqLbiHAvhA2CaAHWiRpghN0LJmrgxuEOWqx-r4YZA1IDDmBk5zydPRvFOSDfIxsO0kBc_IHswR6HMAgKVZAsOHRR43AK3kQE9gYs0OGpANO7yCEEcSy2MEN2dA1XLXJ28UHOLhbE5BZkjDdjgN1vFh8PinBDMInCAfkGTQ5qqIIRkA3im0AoUyA2AlEgkkBWgJqFbiKKEajmkeoMqOvxp_B4BXOIqRAKYaYJkA00AWgkkERzCMw-IAdCwbXhS79QQ4AmQvWREcKo2vAlVIImQh0B9SfUccBkCfYmkESkRnBK1LVTACVGBSCtzAUA)]
+- [主旋律 TMD 檔案](waga_koma.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMLAwQ8gUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuSUYq0LeJeZm5iTnIWjPTM_OsclMzszKRvKalpfCsY-Ljxp6XyycpaGlxKdoqGBqYcNnbKjjpcNmY6JvYgUx4sXLe-z2znq7rfDZ347O1i18294ENfjZ7E1D4-ZQNT3asfdnV8GRn99OulWCZF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp0CNKvncUP3y9Uznq_tfL584tOlm5-unfB8yor3ezpAUaQHjCI9UBS939OpxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQMUB_Pm1d8WxaO9ABTzf0PmvvVADF86OGyUDKXC-rIP39nh6gnpcLGhUKCvQULIEyhgZAMaAXnuzqeb5mzZMdDU_X7ng2Zz6QrWCu8HLZNKDbgYEEsu_Fqv3PGpaDbOrufTFzPlD0xbqux81rX07dDpQC-Vnh5czeFytmgCU7Hzc0AsNfAagY5Jo9G19s3Q4yFCzysmHT09alQEVcIIOBloKolzv3P1s_-3FTx4uFPY8bJ0LIZ3Pmvpzb8rSjDch-3LgM7O_e5pftQLl1LxsnP25qerJ3KpD9uHEukAQ7c9vmx43rX-wBinY_bgLGWsPLCTOBTnjc2PS4cdvjRqBLO4HaXs4DuetxY__jJqAHQSJgs_u7wYatf9y46nFTA9DSlx1bQMlr85bHTd0Q1-7qAVHP5gLdA1G59HET2Dl9656uA5q47tnidTDj1m0FWdIEFAUmtc7HjatBjgLZCdSw7NkcoHjP0_ZdIKNBRs4C6ut53NT1uKnlZXvfszlA1atfLAGGE1Dd9MeNKx43rgWbsu5FL9DBk8CBNmcTkP-0sf3p-kVgdUA_d8HVPZve-rhxH8ST0KDuhIQRUA0oqMGBsu7p3KanmxeAtc9_3Lj1ceMkcIhMetwIdAoEtYC0PZ8yA2jfsx2tzzZsgVkGjIJesOv2AwMCbGvP4-bGx83LgSkDwWhcgYi5Z5MmQ61q6gdrADpw1tONG8GO6gB6HMIAuxOcBh43bni2AuhOoCUtwOh80bURFNrt4GigPCtBgYKWPhdXeGJ6ond-bqJVQGZiXr5Dja5hTTXIFgUbQzMtOzALWy5WgOQcoGsVNCApXcEQlMwVtBWMFZ5u6H--vkEHnBNBWVATi36g3SCzaxQMFHTBEJ2uzk2rVTCNB7LMQEQNWLmPYY0CiAeC6PTjptVgchNCtREe1c0LwORKhGpjfGZvBpO7waqhLjeESsIgiA92K9jVxmBXQ9jIEOY_JK-hmARiQ00yRDIO4f_HzSvQjHzcvAdMLgO7cSOcDVQL5iFDhI8WgcmtEHXNIB7CvCVgcj2S2WASbBoibB839-FwST-YbAWTa6A2oKtFxEQjmASFMMjFOx43L0UxEqQR4kAUxzSvQjgGGHU4gwXiUYgpMO-Ckwr2YNkPVj0Vqg6UmBDmgXiPm0D2YnMJ_syyqwecWUxIyx04kw969sCaGo2A2BhKY6pAGFVQC1YCUoyqDJH-wLIwBnJibEMzFRGSoMwCj1ZwGKHGDiReISE4H0yCEgJ6YkQxs7kLSu8BqwOZjTAPYhIsmT1u2ovqWnCCxW0yKPU8bp4EdUE3hmshaQlSxEAyBixh4wyB5hZk1zatxWIeyAwIvx3VteAUvepx82JchkOcAg9eZMORLdgOZkOCF5QfQQ6BWYrpYFDlhexmFGNhIQxXBOLAFBBK_js6wcmfxMrBEG_yB6dHXOUsIm-AEjSkDEWkYGTzqmFGYatt8JRb0BIUFMIgdaAyD1sMQOIJknBAJLbYApkJK6imwfUiJ1zcBRZqYsSSZJBzxuOmXWA2uCDHks4hDoEkmg50h4DTJEgUu0MI5XdIcEDKV4ij50HUgt2E4QpoJQRSA3MF3iT2dPZsspIYkr2wutcIVvWCODXQshEB4YkQmHBAcpDiFVTQIkNYwQtvFiAnKlCGRIQMJCFhVLeQxgneUgsSRyB5wtUxqOyENHuQE1YvinpIGsGs-GHNBOT6ENUloLIO3uzA5RJoZoDUoCCbkVIWuIkFV98EKY-R6wiICbBmAnptj3AJohkEcskEHC6BpEOIf8FZmFD9PYXS1AWC4PIGVt8iUgaO4gsGcVTxyIaCIFICw9rue9y0E0xCigBwlsJSG0BkEDxQssFWAqEHPL52IcR2SJBPRrYdnL3x2A5OiiB1oKxAhO3ghAQqODBsR8kEMNuxJ1OE7bBkj17oYdpey8Wla6cA601F-xjGKqDwjdD4xmC-MhcA)]
+- [鋼琴伴奏 TMD 檔案](waga_koma_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMLAwQ8gUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuYhFQc3pqbmpeiVVBZmJefnxicnJ-bkFiXiZIDKGwJAOoyAoknJiDbEdmemaeVW5qZlYmUhhoaSk865j4uLHn5fJJ7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMTLntbBScdLhsTfRM7kLEvVs57v2fW03Wdz-ZufLZ28cvmPrBtz2ZvAgo_n7LhyY61L7sanuzsftq1Eizzon3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1OAZvU8buh-uXrG87Wdz5dPfLp089O1E55PWQF0HiiC9YARrAeKYKDjlLi4whPTE73zcxOtAkBhEuThUKNrWFPNpQAENoZmWnZglr6Wgi06UHi-Zs2THQ0vFvYoaDzds_HF1u0KhgrPunsVtBWMFZ5u6H--vkFHAZQc9LIK0jWx6NfSB5tdo2CgoAuG6HR1blqtgmk8kGUGImrAyn0MaxRAPBBEpx83rQaTmxCqjfCobl4AJlciVBvjM3szmNwNVg11uSFUEgZBfLBbwa42BrsawkaGMP8heQ3FJBAbapIhknEI_z9uXoFm5OPmPWByGdiNG-FsoFowDxkifLQITG6FqGsG8RDmLQGT65HMBpNg0xBh-7i5D4dL-sFkK5hcA7UBXS0iJhrBJCiEQS7e8bh5KYqRII0QB6I4pnkVwjHAqMMZLBCPQkyBeRecVLAHy36w6qlQdaDEhDAPxHvcBLIXm0vwZ5ZdPeDMYkJa7sCZfNCzB9bUaATExlAaUwXCqIJasBKQYlRliPQHloUxkBNjG5qpiJAEZRZ4tILDCDV2IPEKCcH5YBKUENATI4qZzV1Qeg9YHchshHkQk2DJ7HHTXlTXghMsbpNBqedx8ySoC7oxXAtJS5AiBpIxYAkbZwg0tyC7tmktFvNAZkD47aiuBafoVY-bF-MyHOIUePAiG45swXYwGxK8oPwIcgjMUkwHNz5uXo7sZhRjYSEMVwTiwBQQSv47OsHJn8TKwRBv8genR1zlLCJvgBI0pAxFpGBk86phRmGrbfCUW9ASFBTCIHWgMg9bDEDiCZJwQCS22AKZCSuopsH1Iidc3AUWamLEkmSQc8bjpl1gNrggx5LOIQ6BJJoOdIeA0yRIFLtDCOV3SHBAyleIo-dB1ILdhOEKaCUEUgNzBd4k9nT2bLKSGJK9sLrXCFb1gjg10LIRAeGJEJhwQHKQ4hVU0CJDWMELbxYgJypQhkSEDCQhYVS3kMYJ3lILEkcgecLVMajshDR7kBNWL4p6SBrBrPhhzQTk-hDVJaCyDt7swOUSaGaA1KAgm5FSFriJBVffBCmPkesIiAmwZgJ6bY9wCaIZBHLJBBwugaRDiH_BWZhQ_T2F0tQFguDyBlbfIlIGjuILBnFU8ciGgiBSAsPa7nvctBNMQooAcJbCUhtAZBA8ULLBVgKhBzy-diHEdkiQT0a2HZy98dgOToogdaCsQITt4IQEKjgwbEfJBDDbsSdThO2wZI9e6GHaXovemfJB6UxZQPtSkP4OMoY4vAaSKoD1HTDigZURkERmgxJIvIIRmA0mQRaDdePWAm9BkqoRXYZYm3Bow3AAnINLC3bzqBEYZDsR3hCBOBAY27p2CrAIj_YxjFVA4Ruh8Y3BfGUuAA)]
 
 ## 分析
 
@@ -83,29 +83,31 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 我が駒 ]
 ================================================================================
-⏱  Duration:       0:39 (39.2s), 17 measures total
-🎼 Key & Tempo:    首調基準 F, != 104.0 BPM, <4/4>
+⏱  Duration:       1:50 (110.8s), 48 measures total
+🎼 Key & Tempo:    首調基準 B,, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  A3 in [Main #1 @ m.9, 0:18]
-   - 最高音: D5 in [Main #1 @ m.4, 0:06]
+🎤 人聲音域:    A#3 (MIDI 58) – D5 (MIDI 74) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#3 in [WagaKoma[L1] #1 @ m.9, 0:18]
+   - 最高音: D5 in [WagaKoma[L1] #1 @ m.6, 0:13]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (39.2s)
+🏛  結構:      WagaKoma[L1] (36.9s) -> WagaKoma[L2] (36.9s) -> WagaKoma[L3] (36.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 小調（純淨自然小調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, F, G, A#
-   - 調性數值:    D 小調 [相關度: 0.82, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 小調 (0.82), F 大調 (0.60), D 大調 (0.58)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  A#, F, D, G, C
+   - 調性數值:    A# 大調 [相關度: 0.92, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.92), F 大調 (0.63), A# 小調 (0.60)
+   - 五度圈歷程:   -2 -> -2 -> -2
    - 各段落調性細節:
-     • [Main #1]: D 小調 (r: 0.82, 自然音純度: 100.0%)
+     • [WagaKoma[L1] #1]: A# 大調 (r: 0.92, 自然音純度: 100.0%)
+     • [WagaKoma[L2] #1]: A# 大調 (r: 0.92, 自然音純度: 100.0%)
+     • [WagaKoma[L3] #1]: A# 大調 (r: 0.92, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
-      Bb              [D ]*
+     [Bb]*              D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -113,21 +115,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██                         2.6%
+     C  : ██████                    10.3%
      C# :                            0.0%
-     D  : ██████████████████        23.3%
+     D  : █████████                 14.2%
      D# :                            0.0%
      E  :                            0.0%
-     F  : █████████████████         22.0%
+     F  : ███████████████           25.0%
      F# :                            0.0%
-     G  : ██████████████            17.7%
+     G  : ███████                   10.8%
      G# :                            0.0%
-     A  : ████████████████████████  31.0%
-     A# : ███                        3.4%
+     A  :                            0.0%
+     A# : ████████████████████████  39.7%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A3 – D5 (17 個半音 / 1.4 個八度, 61 個音符)
+  - Piano         : A#3 – D5 (16 個半音 / 1.3 個八度, 201 個音符)
 ================================================================================
 ```
 

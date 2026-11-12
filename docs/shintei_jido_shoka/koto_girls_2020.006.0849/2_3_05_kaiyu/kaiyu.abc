@@ -7,7 +7,15 @@ Q:1/4=84
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mp! E4 E2 E2 E2 E2 E2 E2 | G3 A G4 E4 z4 | C4 C2 C2 C2 C2 C2 C2 | !mf! E8 D4 z4 |
-!mp! E4 E2 E2 E2 E2 E2 E2 | G8 E4 z4 | C4 E2 G2 c3 B c2 A2 | G4 E4 C6 z2 |
-!f! E3 F G2 c2 d3 c B2 A2 | G4 c4 c6 z2 | B3 A G2 G2 G4 F2 D2 | E14 z2 |
-!f! E3 D C2 D2 E4 c3 A | G4 E4 D6 z2 | !mf! F3 G A2 F2 E2 C2 D3 C | C12 z4 |
+!mp! E6 E2 E2 E2 E2 E2 | G4 D4 E4 z4 | A6 A2 A2 A2 A2 A2 | !mf! A8 G4 z4 |
+w: 1.~オ モ ヘ バ ナ ツ | カ シ ヤ | ユ カ シ ヤ ワ ガ | ト モ
+w: 2.~お も へ ば な つ | か し や | ゆ か し や わ が | と も
+!mp! G6 G2 G2 G2 G2 G2 | G8 E4 z4 | E6 E2 A2 G2 C2 D2 | E4 D4 C4 E3 F |
+w: 1.~マ ナ ビ ノ ソ ノ | フ ニ | ア ヒ ム ツ ビ シ | ム カ シ ト モ
+w: 2.~あ し た に ゆ ふ | べ に | あ ひ あ そ び し | む か し と も
+!f! G4 c4 e4 d3 c | A4 c8 B3 A | G6 A2 G2 E2 C2 E2 | D12 E3 F |
+w: 1.~ハ イ マ イ ヅ | コ ニ ヤ マ | カ ハ ヘ ー ダ ー | ツ カ サ
+w: 2.~は い ま い づ | こ に ゆ ふ | ぐ も と ー ほ ー | し て を
+!f! G4 c4 e4 d3 c | A4 c8 c3 A | !mf! G2 E2 C2 D2 E4 D4 | C12 z4 |
+w: 1.~ネ コ シ ハ ル | ア キ ア ア | ソ モ イ ク タ ビ | ゾ
+w: 2.~と り て か た | ら ふ あ あ | そ も い つ の ひ | ぞ

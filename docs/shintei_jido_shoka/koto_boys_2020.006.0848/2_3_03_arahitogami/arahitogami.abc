@@ -7,7 +7,11 @@ Q:1/4=88
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 z2 D2 | G4 G4 G A B c d2 G2 | A6 c d B4 z2 D2 | G A B c G A B c d2 g2 f2 e2 |
-d2 e f g2 A2 d4 z2 A2 | !f! d2 B2 g2 e2 d2 ^c d e d c B | A4 E3 E D4 z4 | !mf! G4 D3 D G2 D2 z2 G2 |
-c3 c B2 G2 A4 z2 A2 | !f! d4 d3 d B d g c B2 A2 | G4 F4 G8 | !mf! d4 z2 d2 c2 B2 z2 c2 |
-d3 c B2 A2 G8 | !f! d4 g4 B d g c B2 A2 | G4 F4 G6 z2 |
+!mf! z4 z4 z4 z2 D2 | G4 G4 G A B c d2 G2 | A6 c d B4 z2 D2 | G A G A B c B c d2 A2 B2 A2 |
+w: ア | ハ レ タ _ フ _ ト ス | メ ラ _ ギ ヨ | ロ _ ヅ _ ヨ _ カ _ ハ ラ ヌ ア
+G2 A B A2 G2 F4 z2 D2 | !f! F2 D2 A2 F2 d2 ^c B A G F E | D4 E3 D D4 z4 | !mf! G4 G3 D E2 C2 z2 G2 |
+w: マ ツ _ ヒ ツ キ チ | ハ ヤ ブ ル カ ミ _ ノ _ コ _ | カ シ _ コ | タ カ ミ ク ラ ヒ
+c3 B A2 G2 F4 z2 A2 | !f! d3 c B A F c B d c2 B4 | A4 G4 F8 | !mf! A4 z2 A2 B2 B2 z2 A2 |
+w: カ リ ハ ナ ツ ミ | イ ツ ハ カ _ ガ ヤ _ ク _ | ミ カ ド | ア タ フ ト ア
+c3 B A2 G2 F8 | !f! d4 c4 B G c A d2 c2 | B4 A4 G6 z2 |
+w: ラ ヒ ト ガ ミ | ア ア カ _ ガ _ ヨ フ | ミ イ ツ

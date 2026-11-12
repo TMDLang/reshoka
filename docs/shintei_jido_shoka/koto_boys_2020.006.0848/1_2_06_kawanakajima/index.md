@@ -4,7 +4,7 @@ song_title: "川中島"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_2_06_kawanakajima"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈川中島〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹（松邑三松堂發行檢定唱歌集）、曲：歐洲曲），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雨（あめ）呼（よ）ぶ龍（たつ）か、風（かぜ）呼（よ）ぶ虎（とら）か、 上杉勢（うへすぎぜい）と、武田（たけだ）の兵（へい…"
+description: "〈川中島〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹（松邑三松堂發行檢定唱歌集）、曲：歐洲曲），調號拍號：Bb 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：雨（あめ）呼（よ）ぶ龍（たつ）か、風（かぜ）呼（よ）ぶ虎（とら）か、 上杉勢（うへすぎぜい）と、武田（たけだ）の兵（へい…"
 keywords: "川中島, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹（松邑三松堂發行檢定唱歌集）, 歐洲曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -13,7 +13,7 @@ credits:
   - "曲：歐洲曲"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
-musical_key: "F"
+musical_key: "Bb"
 meter: "2/4"
 tempo: "80"
 image:
@@ -40,7 +40,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P053.jpg，書頁 p. 18，高一第二學期第 6 首）：
-調性與拍號：ヘ長調（1 降記號）、2/4 拍（勇壯ニ ♩=80，弱起後半拍進入）
+調性與拍號：變ロ長調（2 降記號）、2/4 拍（勇壯ニ ♩=80）
 
 
 ## 歌詞
@@ -54,7 +54,7 @@ tmd_source:
 互（たがひ）に決死（けっし）の、勇士（ゆうし）あり。」
 
 二
-川霧（かはぎり）晴（は）れて、敵前（てきぜん）にあり、
+川霧（かはぎり）晴（は）れて、敵前（てきまへ）にあり、
 武田（たけだ）は亂（みだ）れ、上杉（うへすぎ）乘（じょう）ず、
 されども遂（つひ）に、川中島（かはなかじま）。
 勝負（かちまけ）見（み）えつ、あれよあれよ、
@@ -69,8 +69,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kawanakajima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkunpFZDDQWSRhoR3pmnlVuamZWJhYHQ6XLU4tLUovy4nNTc_JTgLq1tBSebp_7ZMfap5u3KWhpcSnaKlgYcNnbKrhx2Rjpm9iB9L9YOe_9nllPlyx_Oqnn-ZQNT3fverZi5_s9Hc_m7nvZNPHJjk4g4-mCpucz97xY2PNs1aKn62Y9nbLx2dqel7Pb3u_pBLvh2exNQDOerZ3wbMsmIBss9qJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNoGkBGtk56vXgox6HFD98vVM56v7Xy-fOLzKdufrp3wfMoKoAtAkacHjDw9UOSBreLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oGGBwPG1d8WxaO9ABTzf0PmvvVAgwMDXWyypIf7-nB6j45YJGhQI9BUOgi3qAzn6yo-H5mjVPdvU8Xbvj2Zz5QLaCmcLLZdOA7gUGCciOF6v2P2tYDjK9u_fFzPlA0cfNM15O3Q4UB9phqPByZu-LFTPAMp2PGxqB8aIAVAmyvrv96eL1j5u7FR7NXGlrYQC08OmejS-2bn-6r-dpbxdQ0cuGTU9blwL1cYEsAjoFRL2cDQq8x41Nj5sagVJPJ-4BcZs6QMY3bnu5D2T048b5jxuXgEW6gXa-XATR0v24cQ6mlhcz-8CyKx43Af0E1QKxsOvZ3M6n3YvA0m2PG3c8bpz5uLEPaMrjxhaw0hVApc_WLgMmLJitEx83LgBLrXvauhUsCNSFUAyOlQkTwfY3AK0CS2x63Ljs5czFYNWLHjdNBgvOBKqGp26Y89c_blwFZsx43LgPHKBNYBO7577YBLQWomghUA7oELApLWCR1UCzXiwDWgZUAIyVTqDfHze1YIrAPL5rEsw7PUDXgQ1a_Wzjrmdrd4PFgX5c_LhxOsSbIGeCYnI12E_AUAIiiBQwhrqADnzc0AuJv109YLdun_tyznIkD_UBlQHVP5u5BSy4HuwaoL3LQGE7devTTkiMLnvc2AsKeWjwrIaZD3YxjjhY_2RXE8SLUBGguQ2NkHhFi1Sg7JOdM8CCMx43tQOlwCbMglrwuHEq2FErHzc1vWyEGLoEHjZUiCqUyGgEm97QCPZjDyhu4AyIc16smflk_0JoZDRNBoY4JFye9gCDHigIDClwfoPE_FZIyABdBI4YYKgBQwkeN0DjKC9toEBBS5-LyzcRWFYHZCbm5TvU6BrWVINsULAxNNOyA7OAhRw0n2_of76-AaQFJFyjYKCgC8fVuWm1CqbxQFYNOPGAdIEKoh0NwGJaQcNEAaJZB156aSLMMQTq0lUwUjAGkiYKpkARMyDLFIhBIiDTa6AqjcDqIBgkXwNWAdIPEqkGOsEM0wm7egg7AawNZBLIHBO4yUZQEWQ3gMSNwe6EuA_iKmOwWjzh0ElOOIDsALkGJALyHdg-qGqQOEgeFFYgFppq7O54Ons2YXeA_APxI8RfEJfB4gQ5LEBiMAwWB6uAYyxxMYW85GAK9xh6coCpBNEwvRBVIFjDVcvFpWunAEriCkBamQsA)]
-- [鋼琴伴奏 TMD 檔案](kawanakajima_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6fe6THWufbt72fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwMOCyt1Vw47Ix0jex46pTUHqxct77PbOeLln-dFLP8ykbnu7e9WzFTqAJz-bue9k08cmOTiDj6YKm5zP3vFjY82zVoqfrZj2dsvHZ2p6Xs9uAxiqBzHg2exPQjGdrJzzbsgnIBou9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btgFkROuk56uXQgx63ND9cvWM52s7ny-f-HzK9qdrJzyfsgLoAiMDIwM9AwMzPQMLEwuwVVy-iZl5VgGZiXn5QR4ONbqGNdVcCkBgY2imZQdm6QODYc_GF1u3P93Q_3x9g4KWPli4RsFAQReOq3PTahVM44GsGi6Yrudr1jzZ0QD0IkKLIVCBroKRgjGQNFEwBYqYAVmmQAwSARlUA1VpBFYHwSD5GrAKkH6QSDXQNjNM23b1oNgGVgHSBNJiAjfECCqCbB1I3BjsJIhTIA4wBqvF47tOAr4DGQeyGCQCcjPYaKhqkDhIHhQCIBaaauxWPp09G8VKkCshLoe4FuIIWKAi-xAkBsNgcbAKOMYSmFMIRp0p3LnoUQdTCaJheiGqQLCGqxY54fmgJDwTwunOgEAqi1eINowFBTGUARU3jQfyTeNBMiAlYBa-9GMEVGQUnwtSj9CKbgdYBmwJvpSBqRqaCIBcE7CLsJqDHt1oPsBtEBa_oUUnUWEECmhgVOnaKYBiSwGJVuYCAA)]
+- [主旋律 TMD 檔案](kawanakajima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDVGyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs7mZOZkliUWV6OIQbUjCQDPSM_OsclMzszKx-BkqXZ5aXJJalBefm5qTnwLUraWl8HT73Cc71j7dvE1BS4tL0VbBwoDL3lbBKYnLxkjfxA5kwIuV897vmfV0yfKnk3qeT9nwdPeuZyt2vt_T8WzuvpdNE5_s6AQyni5oej5zz4uFPc9WLXq6btbTKRufre15Obvt_Z5OsCOezd4ENOPZ2gnPtmwCssFiL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm0AGdE66fnqpRCDHjd0v1w94_nazufLJz6fsv3p2gnPp6wAugCUAPSACUAPlADAVnHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50DDA4nraueDatHeiApxt6n7V3KoBSkV5WQfr7PT1AxS8XNCoU6CkYAl3UA3T2kx0Nz9esebKr5-naHc_mzAeyFcwUXi6bBnQvMEhAdrxYtf9Zw3KQ6d29L2bOB4q-WNf1uHnty6nbgVIgfyq8nNn7YsUMsGTn44ZGYNQoABWDXNDd_nTx-sfN3QqPZq60tTAAynOBzATaCqJezgaF0-PGpsdNjUCppxP3gLhNHSBjGre93Acy4nHj_MeNS8Ai3UCzXy6CaOl-3DgHU8uLmX1g2RWPm4DOh2qBWNj1bG7n0-5FYOm2x407HjfOfNzYBzTlcWMLWOkKoNJna5cB0xDM1omPGxeApdY9bd0KFgTqQigGR8CEiWD7G4BWgSU2PW5c9nLmYrDqRY-bJoMFZwJVw1MyzPnrHzeuAjNmPG7cBw64JrCJ3XNfbAJaC1G0ECgHdAjYlBawyGqgWS-WAS0DKgCGfifQ74-bWjBFYB7fNQnmnR6g68AGrX62cdeztbvB4kA_Ln7cOB3iTZAzQTG2GuwnYCgBEUQKGENdQAc-buiFxN-uHrBbt899OWc5kof6gMqA6p_N3AIWXA92DdDeZaCwnbr1aSckRpc9buwFe2wHxD0w88EuxhEH65_saoJ4ESoCNLehERKvaJEKlH2ycwZYcMbjpnagFNiEWVALHjdOBTtq5eOmppeNEEOXwMOGClGFEhmNYNMbGsF-7AHFDZwBcc6LNTOf7F8IjYymycAQhySbpz3AoAcKAkMKnK8gMb8VEjJAF4EjBhhqwFCCxw3QOMoLFihQ0NLn4vJOLAeW-9mJWZm5iVYBmYl5-Q41BjXVIIsUbAzNtOzALGzFmgKoWNnRACx0FTRMFJ5u6H--vkEHXhZpYtEAtA9kWI1CdW5arYJpvIIuiDCLR2bWQDiGQGwMYhgAcY2CCYgJJsCCYKJGwQiqDUqAlYJt8DGsUXjctAjIf9y8EIj3APEKMG8amAeS3Q_mt4DIptVAEmIkhP24aQ9YFqYHLNPcAeatRNUBsc8IrrO5H2Jf0zowbxXMPqA4iL8GTLYh7AOzHzetBYvPA5MzoDLdYBmIL1bB7cMfH7t6yIoPWHQYKxiBgx7MgUaFCVgUFhPEKUOKhWVQP0FCZSfYT6CwAcmBQ7lpCTSGQOELiwVw7DRthMo0gM3og4YLKHyw6EKKCWy6QeEP0j0fzGuAyoHiA2YnPpfueNy8HCywDCq9i8gI2dFJwwwCDm5Q5BmDcgOQB8KGUA1gtSBlIAiKFRBEipnmBWAPrYaGxCRoyoSl1yYwfzNYDSgs4sFqESm5C1l30w64PlAaBkGQI5FsBMfLVrDONVAbO8G8RXCd4LwIdQco7ZNvI94oeTp7Nm2iBBQdoPBGyigm0DhByTtIqpDyCaT0aISGDbgkgKZgkOwSqN8RYYOcmiHlFEgNXnGMsgqHbRDdTRDdoFiB5RBIWQQpw0CyeMUJlVRTyIkFciPAHOJUPNkBWmjAEicsGcIiYOPj5mawgu1gCVBZBAtrcLkBKT0gsuDwAMmASm1ceWEj2JzN0NQMMRXCA8mC6wNoHYUc3-CcAFUNMh2iBrtdtVxcunYKyBW8ApCvzAUA)]
+- [鋼琴伴奏 TMD 檔案](kawanakajima_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDVGyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKjczJ7MksagSXRxiPpIw0LL0zDyr3NTMrEwsgQOVLk8tLkktyovPTc3JTwHq1tJSeLp97pMda59u3vZ-T8fL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VbAw4LK3VXBK4rIx0jexA5n6YuW893tmPV2y_OmknudTNjzdvevZip1AI57N3feyaeKTHZ1AxtMFTc9n7nmxsOfZqkVP1816OmXjs7U9L2e3Ac0Fu-zZ7E1AM56tnfBsyyYgGyz2on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2gaQEa2Tnq9eCjHocUP3y9Uznq_tfL584vMp25-unfB8ygqgC0DJRw-YfPRAyQdsFZd3YjkwErITszJzE60CQKEe5OFQY1BTzaUABDaGZlp2YJa-lsLzNWue7GgAullBSx8sVqNQnZtWq2Aar6ALIszikZk1EI4hEBuDGAZAXKNgAmKCCbAgmKhRMIJqgxJgpWAbfAxrFB43LQLyHzcvBOI9QLwCzJsG5oFk94P5LSCyaTWQhBgJYT9u2gOWhekByzR3gHkrUXVA7DOC62zuh9jXtA7MWwWzDygO4q8Bk20I-8Dsx01rweLzwOQMqEw3WAbii1Vw-5CDdVcParDCQtVYwQgcgmAONERNwKKwACVOGVJgLoM6DeK5nWCngbwIkgMHVtMSaECDggkWmOBAbtoIlWkAm9EH9R7Im1h0IQUoNt2gYATpng_mNUDlQMEKsxOfS3c8bl4OFlgGld6FNVx3dJKTXMGhBooDY1DaBPJA2BCqAawWpAwEQYELgkgB3LwA7K7VUA9NgqYTWOppAvM3g9WAvBQPVotIV13Iupt2wPWBUhQIghyJZCM4eLeCda6B2tgJ5i2C6wTnDKg7QCmRfBuRQvbp7NkkhiwoVEHBhpRsTaBBi5KSkVQhpVpIlmyEehGcvaDpCSS7BOoFhBeR0xYk84PU4BXHKABw2AbR3QTRDQpcWHqFZHBIwQCSxSuOmv2noAQmueFoDrERT-KE5kRYUoElClg4bnzc3AxWsB0sAcrgsCADZ0ZIloTIgr0FkgGVaLhS5kawOZuhaQtiKoQHkgWXldDyGznawOkSqhpkOkQNdrtqsVVhPshVmAneGswwXiHaMBaZAaydIAzTeCDLNB7IxFdWw_UhlGMTw1csYboB1SwD_HmPkHawGL70Roz9wHDWtVNADupoH6BSDDEjsJgyFwA)]
 
 ## 分析
 
@@ -79,23 +79,23 @@ tmd_source:
 📊 TMD Song Profile: [ 川中島 ]
 ================================================================================
 ⏱  Duration:       0:30 (30.0s), 20 measures total
-🎼 Key & Tempo:    首調基準 F, != 80.0 BPM, <2/4>
+🎼 Key & Tempo:    首調基準 B,, != 80.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main #1 @ m.1, 0:01]
-   - 最高音: D5 in [Main #1 @ m.3, 0:03]
+🎤 人聲音域:    C4 (MIDI 60) – D#5 (MIDI 75) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Kawanakajima #1 @ m.4, 0:04]
+   - 最高音: D#5 in [Kawanakajima #1 @ m.6, 0:07]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (30.0s)
+🏛  結構:      Kawanakajima (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+🗝  調性診斷：       F 大調（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, A, G, F, D
-   - 調性數值:    F 大調 [相關度: 0.79, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.79), C 大調 (0.71), A 小調 (0.62)
+   - 核心骨幹音:  F, A#, D, C, D#
+   - 調性數值:    F 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 92.6%]
+   - 候選調性 (K-S): F 大調 (0.82), A# 大調 (0.78), D 小調 (0.62)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.74, 自然音純度: 100.0%)
+     • [Kawanakajima #1]: F 大調 (r: 0.82, 自然音純度: 92.6%, 調外音: D#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -108,21 +108,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  22.3%
+     C  : ███████                   11.9%
      C# :                            0.0%
-     D  : ██████████████            12.8%
-     D# :                            0.0%
+     D  : ████████                  14.1%
+     D# : ████                       7.4%
      E  :                            0.0%
-     F  : ███████████████           14.2%
+     F  : ████████████████████████  40.7%
      F# :                            0.0%
-     G  : ████████████████████      18.9%
+     G  : ████                       7.4%
      G# :                            0.0%
-     A  : ███████████████████████   20.9%
-     A# : ████████████              10.8%
+     A  : █                          1.5%
+     A# : ██████████                17.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 81 個音符)
+  - Piano         : C4 – D#5 (15 個半音 / 1.2 個八度, 80 個音符)
 ================================================================================
 ```
 

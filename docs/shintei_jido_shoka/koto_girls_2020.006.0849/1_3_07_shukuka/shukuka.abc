@@ -7,11 +7,19 @@ Q:1/4=112
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!f! z4 z4 z4 G,3 G, | G,4 G,3 G, A,3 B, C3 D | E12 E3 E | D3 C B,3 A, G,3 F, E,3 D, |
-!mf! G,8 G,2 G,2 E,3 F, | G,4 G,4 A,3 B, C3 D | E6 D2 C4 C3 C | D3 D E3 D C3 B, A,3 B, |
-C8 z4 E,3 F, | G,4 G,4 A,3 B, C3 D | E8 G,2 z2 G,3 G, | F,3 E, F,3 G, A,3 B, C3 D |
-E8 D2 z2 E,3 F, | G,4 G,4 A,3 B, C3 D | E8 G,2 z2 G,3 G, | F,3 E, F,3 G, A,3 B, C3 D |
-!f! C8 z4 C3 C | C8 z4 C3 C | C8 z4 C3 C | D4 D4 D4 D4 |
-B,8 z4 G,3 G, | C8 z4 G,3 G, | E8 z4 E3 E | F4 E4 D4 C4 |
-B,4 z4 G,4 z4 | C4 z4 G,4 z4 | E4 z4 C4 z4 | !ff! G8 G,8 |
-C8 z4 z4 |
+!f! z4 z4 z4 G3 G | c4 G3 G e4 c3 c | g12 e3 e | f3 e d3 c B3 c d3 B |
+w: バ ン | ザイ バ ン ザイ バ ン | ザイ モ モ | ト リ ナ キ ハ ナ モ サ
+!mf! G6 E2 E2 z2 E3 E | F4 F4 F3 E F3 G | A8 E2 z2 F3 E | D3 C D3 E F3 G A3 B |
+w: キ イ デ ハ ル | ノ コ エ ソ ラ ニ | ミ チ ハ ル | ノ ー イ ロ ヨ モ ニ ミ
+G8 z4 E3 E | F4 F4 F3 ^D F3 G | A8 E2 z2 F3 E | D3 C D3 E F3 G A3 B |
+w: ツ オ モ | ヘ バ ウ ー レ ー | シ ヤ ケ フ | ノ ー ヒ ノ ト モ ノ ホ
+c8 G2 z2 E3 E | F4 F4 F3 ^D F3 G | A8 E2 z2 F3 E | D3 C D3 E F3 G A3 B |
+w: マ レ オ モ | ヘ バ タ ー ノ ー | シ ヤ ワ ザ | ヲ ー ヘ シ ト モ ノ サ
+!f! c8 z4 c3 c | c8 z4 c3 c | d8 z4 d3 d | e4 c4 d4 B4 |
+w: チ イ ハ | ヘ ツ キ | ノ カ ツ | ラ ノ カ ム
+c8 z4 c3 c | c8 z4 c3 c | d8 z4 d3 d | e4 c4 d4 B4 |
+w: リ ヒ カ | リ タ カ | ク イ タ | ダ ク キ ミ
+c4 z4 c4 z4 | c4 z4 B4 z4 | c4 z4 c4 z4 | !ff! g8 d8 |
+w: ヲ ア | ア ア | ア ア | バン バン
+c8 z4 z4 |
+w: ザイ

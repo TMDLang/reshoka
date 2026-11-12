@@ -7,10 +7,29 @@ Q:1/4=108
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z2 D2 D2 D2 | G8 A2 B2 c2 B2 | d12 B2 G2 | A4 A2 B2 c4 A4 |
-B8 z2 D2 D2 D2 | G8 A2 B2 c2 B2 | d12 B2 G2 | A4 G2 A2 B4 A4 |
-G8 z4 A4 | A6 B2 c2 d2 c2 B2 | A4 d8 A4 | d8 c4 B4 |
-A12 A4 | A6 B2 c2 d2 c2 B2 | A4 d8 c4 | B8 A4 G4 |
-!f! D8 z2 D2 D2 D2 | G8 A2 B2 c2 B2 | d12 B2 G2 | A4 A2 B2 c4 A4 |
-B8 z2 D2 D2 D2 | G8 A2 B2 c2 B2 | d12 B2 G2 | A4 G2 A2 B4 A4 |
+z4 z4 z2 D2 D3 D | G10 A2 B2 G2 | d12 c2 B2 | A4 G2 A2 B4 G4 |
+w: ワ ガ キ | ミ マ モ ー | レ ヤ ー | シ マ ー ノ ヒ
+A8 z2 D2 D3 D | G10 A2 B2 G2 | d12 c2 B2 | A4 G2 A2 B4 A4 |
+w: ト ワ ガ ク | ニ マ モ ー | レ ヤ ー | シ マ ー ノ タ
+G8 z4 A4 | A6 A2 G2 A2 B2 c2 | d8 B4 B4 | c8 B4 A4 |
+w: ミ ナ | リ ハ ヒ ー ハ ー | ゲ ミ ミ | ヲ タ テ
+B12 A4 | A6 A2 G2 A2 B2 c2 | d8 B4 B4 | c8 B4 A4 |
+w: テ ヒ | ト ヲ モ ー ト ー | マ シ ヨ | ヲ ト マ
+D8 z2 D2 D3 D | G10 A2 B2 G2 | d12 c2 B2 | A4 G2 A2 B4 G4 |
+w: シ ワ ガ キ | ミ マ モ ー | レ ヤ ー | シ マ ー ノ ヒ
+A8 z2 D2 D3 D | G10 A2 B2 G2 | d12 c2 B2 | A4 G2 A2 B4 A4 |
+w: ト ワ ガ ク | ニ マ モ ー | レ ヤ ー | シ マ ー ノ タ
+G8 z2 D2 D3 D | G10 A2 B2 G2 | d12 c2 B2 | A4 G2 A2 B4 G4 |
+w: ミ ト ル ベ | キ ワ ザ ー | ノ ナ ー | キ ク ー ニ ナ
+A8 z2 D2 D3 D | G10 A2 B2 G2 | d12 c2 B2 | A4 G2 A2 B4 A4 |
+w: ク ナ ス ベ | キ コ ト ー | ノ ナ ー | キ ト ー キ ナ
+G8 z4 A4 | A6 A2 G2 A2 B2 c2 | d8 B4 B4 | c8 B4 A4 |
+w: シ ミ | ノ ナ ホ ー ザ ー | リ ニ オ | コ タ リ
+B12 A4 | A6 A2 G2 A2 B2 c2 | d8 B4 B4 | c8 B4 A4 |
+w: テ ツ | キ ヒ ヲ ー ア ー | ダ ニ ス | ゴ ス ナ
+D8 z2 D2 D3 D | G10 A2 B2 G2 | d12 c2 B2 | A4 G2 A2 B4 G4 |
+w: ヨ ト ル ベ | キ ワ ザ ー | ノ ナ ー | キ ク ー ニ ナ
+A8 z2 D2 D3 D | G10 A2 B2 G2 | d12 c2 B2 | A4 G2 A2 B4 A4 |
+w: ク ナ ス ベ | キ コ ト ー | ノ ナ ー | キ ト ー キ ナ
 G8 z4 z4 |
+w: シ

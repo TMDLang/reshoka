@@ -4,7 +4,7 @@ song_title: "ヲーターロー"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_3_03_waterloo"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈ヲーターロー〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：土井林吉、曲：山田源一郎），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：渦卷く硝煙飛び散る彈雨 萬兵齊しく大地を蹴つて…"
+description: "〈ヲーターロー〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：土井林吉、曲：山田源一郎），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：渦（うづ）卷く硝煙飛び散る彈雨 萬兵（ばんぺい）齊（ひと）しく大地を蹴（け）つて…"
 keywords: "ヲーターロー, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 土井林吉, 山田源一郎"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -48,14 +48,14 @@ tmd_source:
 
 ```text
 一
-渦卷く硝煙飛び散る彈雨
-萬兵齊しく大地を蹴つて
-ヲーターローは屍の小山
+渦（うづ）卷く硝煙飛び散る彈雨
+萬兵（ばんぺい）齊（ひと）しく大地を蹴（け）つて
+ヲーターローは屍（かばね）の小山
 運命いかに　あゝ佛蘭西
 運命いかに　あゝ佛蘭西
 
 二
-閃めく劍光とゞろく馬蹄
+閃（きら）めく劍光とゞろく馬蹄（ばてい）
 大軍忽ちなだれを打つて
 ヲーターローは血汐の流れ
 運命非なり　あゝ佛蘭西
@@ -63,8 +63,8 @@ tmd_source:
 
 三
 追ひ來る敵兵倒るゝ勇士
-全歐靡けし昔に替へて
-ヲーターローのいまはの敗
+全歐靡（ぜんおうなび）けし昔に替へて
+ヲーターローのいまはの敗（やぶれ）
 運命盡きぬ　あゝ佛蘭西
 運命盡きぬ　あゝ佛蘭西
 ```
@@ -77,8 +77,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](waterloo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2am5mTWZJYVIkQBxqWnplnlZuamZWJ5DItLYXHzZseN-953LQfRDavBZIKWlpcirYKhgYGXPa2Cu5c2amVtgquuVw2RvomdiATX6yc937PrKdz5j_ZNfXZvOlPJ3SCLXo2exNIeOPG51M2PNs14cmOhpfNfWCZF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3S9Xz3i-tvP58onPp2x_unbC8ykr3u_pAIW4HjDE9UAh_n4P0EIufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBjgH682nrimfT2oEOeLqh91l7p0KAgZmxXlZB-vs9PUDFLxc0KhToKRgBXdQDdDbQx8_XrHmyo_Pp2h3P5swHshWMFV4umwZ0LzBgQHa8WLX_WcNykOndvS9mzgeKPm6e_Xz-WqA4yA6QC4Cx0QERUQCGtwJQITAQgOYbKjztBTptBlhb5-OGRqgsUN-zpk1PF69_3Nyt8GjmSltgvAEVgH3UvuvFzKkvVuwGagNaBVI5d-OTXWtezt_8bEUTyJELFj7fvuLJjrXAAIeEP0gnSCvQKyDq2Y5lT3u3P27sf75w7vPWmS8Xz37cuPnZ1MWPm7qf7u14OXsF2FMT1jxt3fpyb9fjxulApU-XLH86Z8Pjpkkvdm553LjkceMykCLMZPa4cf3Tjb2PG9c93dAPTDQgRS8bu59O3Pu4seVxY_fjxtWPGxoeNzY9bpr7ZO_sFzPWvli6nzhFYA_s6gErntb8uKkR5Kqu3qetnY8bVzxumve4CWht_8tla17sbAGH05LlL3b3Pt0PNHTh48ZVjxsXPG7qAXrgWedkAh54sbDh2cYJQD8829oI1INw3su580AmNXXh8wM-RZBIAEfjC5DDNj3Z1wYM9WdTtwLD-mnDJCAbqP5pd_vTxavBfgAm1LUTXs4FemAiMB6ezZgCDJtns_c_btyBxwPrwMG4D-gTkB-mTke47flsoEnAYFqDzwMEFFGeL6FAQUufi8s3EViABWQm5uU71BjUVIMsULAxNNOyA7OApQE47zW8WNijoGGqAExUz9c3aIJ0gqRrFKrTahXM4hV00YkaBUMgCYPmCCEwE8QwAgsZI6kCsREiMLoGHGkwl-zqweUSM6BaUyA2gZsEtgrsGiN1JIeBhcGEMYgA26FQnVsA9QgImiIkTGBMhGIUB-3oxOUgI7DNcHvABgG9BzEGKI5sOywUwVIIu6EBgRCBBSpExBDVLU9nz8blFkRQgG01gPoZaC3cFXD7YbYA9SCJgZwIixKwaWDrFaqBwQZxDIpyrlouLl07BVDiUgDSylwA)]
-- [鋼琴伴奏 TMD 檔案](waterloo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOlx857HTftBZPNaIPl-T8fL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VTA0MOCyt1Vw58pOrbRVcM3lsjHSN7HjqlNQerFy3vs9s57Omf9k19Rn86Y_ndCpBBJ-NnsTSHjjxudTNjzbNeHJjoaXzX1gmRftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd0vV894vrbz-fKJz6dsf7p2wvMpK4CuNDIwMtAzMDDTM7AwsQC6UYmLyzcxM88qIDMxLz_Iw6HGoKaaSwEIbAzNtOzALH0thedr1gBd8WJhj4KGqcLTDf3P1zdoKmjpg6VrFKrTahXM4hV00YkaBUMgCYPmCCEwE8QwAgsZI6kCsREiMLqGC9klu3pwucQMqNYUiE3gJoGtArvGSB3JYWBhMGEMIsB2KFTnFkA9AoKmCAkTGBOhGMVBOzpxOcgIbDPcHrBBQO9BjAGKI9sOC0WwFMJuaEAgRGCBChExRHXL09mzcbkFERRgWw2gfgZaC3cF3H6YLUA9SGIgJ8KiBGwa2HqFamCwQRyDopyrFjlt-SCnLRNo0gLGWHy8QrRZfG4sHjbQechM43ggCxG-0UbYdYCVoYiagNiouhHajeGSED1QYSQLDIFMQ4Rm7HZgdwXCB6BA0bVTAIWLApBW5gIA)]
+- [主旋律 TMD 檔案](waterloo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDNGyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs7mZOZkliUWVyJoz0zPzrHJTM7MykTynpaXwuHnT4-Y9j5v2g8jmtUBSQUuLS9FWwdDAgMveVsGdKzu10lbBNZfLxkjfxA5k4ouV897vmfV0zvwnu6Y-mzf96YROsEXPZm8CCW_c-HzKhme7JjzZ0fCyuQ8s86J91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvl6hnP13Y-Xz7x-ZTtT9dOeD5lxfs9HaBI0wNGmh4o0t7vAVrIpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DFAfz5tXfFsWjvQAU839D5r71QAxbxeVkH6-z09QMUvFzQqFOgpGAFd1AN0NtDHz9esebKj8-naHc_mzAeyFYwVXi6bBnQvMGBAdrxYtf9Zw3KQ6d29L2bOB4o-bp79fP5aoDjIDpALgLHRARFRAIa3AlAhMBCA5hsqPO0FOm0GWFvn44ZGqCxQ37OmTU8Xr3_c3K3waOZKW2C8ARWAfdS-68XMqS9W7AZqA1oFUjl345Nda17O3_xsRRPIkQsWPt--4smOtcAAh4Q_SCdIK9ArIOrZjmVAXY8b2x43LgVKPe3d_rix__nCuc9bZ75cPPtx4-ZnUxc_bup-urfj5ewVYA9OWPO0dStYz4bHTZMfN-563NgC1PlybxdYcNPjRmB0dj5unA406OmS5U_nAJVNerFzC1h2IlhqyePGZSCzMFPm48b1TzeCfPy4sRtkQeNasIZ1Tzf0A5MdSM_Lxu6nE_cC7QSrWP24oeFxY9PjprlP9s5-MWPti6X7iVMEDoJdPWDF05rBFvY-bgLGYufjpkaQy7t6n7YCbV7xuGne46ZeoMjLZWte7AT6FOzxxmUQX4MjYcnyF7t7n-4H2rfwceOqx40LHjf1AP38rBMYOni9-mJhw7ONE4Dee7a1EagH4fKXc-eBTGrqwuc9fIogMQx23guQwzY92dcGjMZnU7cCI-9pwyQgG6j-aXf708WrwX4A5oK1E17OXQj23xxwxHaBUwXQP5vBcTARGKXPZkwBBuez2fsfN-7A47F14JDfB_QhyG9Tp4MMbQKKbAN6EhpoEC88nw0MMWDgrsHnTwKKKC8boEBBS5-LyzcRWIgGZCbm5TvUGNRUgyxQsDE007IDs4AlEjj_N7xY2KOgYaoATJbP1zfowAsNTZAZIIU1CtVptQrG8Qq6QGgWD0K6EG6NgjlEFEiBRUGwRsEQTBtCJMHiNcCiBSRmjKzMCMqCSAFFwLb5GNYoPG5aBhZ53NwKxPNArKb1YD3A3AyV2aMAzNZws4DFEFR8MhA3glmrwTLA3A7XAcz2cB3AvA9lA1MRqguMQC5YC9W1EogXIrkAmJng5gFzFRYXdAIxSDdMx-PmCVCZNqDYErgOYF6DsoFZDtUFxiAXrILqmgQ1CeYjYMJHcgHc7UBV-6HiU6Fq4WHQ3Y7QsRgkBnVBKyw8gBkG7gLk1LGrh3DqQIluMFEDi2YgZaqOlAoQyQWanECC1bkFtQomMD6cAUwzMKYRXAyRRIDBAvFSB9Dj21GCuwEiAwzqx81NYDWboAG0EaqnBRwZiKgDyUP0QIIQIgpJAiD1_aj2gxMILLAbYUkUnOxA-rqgMg1ADEpkCPthyZpC-0HJA24LMMGD_QUJBZDMAqhZq2EhA6xrIfZDov5x8wwS7e-D249SdHQSThzQ6ARS4CQAKw0gokAKOR2AShkoD14mKJhA9COJoJYbwLSEXHDAfDgBiHvhbgfJbIbKgFIFKL4ghgGLZSgbWDoj_A7NpuAwBIceTHwRPKQgLFBmQ0oV4DQAiQtgWwnZflh8Na2Bpgp89gOrQ6jpXUAMKQgI2g8uNKDuBvoQkmoQ9sNkphFhPyiFQmxZC2T3ELQfKVU8nT0bnCrM8KUKaDkAKjV0FQzARlfnIioZaDqB2IlSvGCmFIg0UD1QGFiOwFVB0wZSYYSAyMXIysfNkJQB8tNOIAnRQ5V0ATIeyVqITSDVIHuwOAicgkhyEIkJhVQHgQsa0kKItJRDgoNqubh07RRAbRoFIK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](waterloo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDNGyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKjczJ7MksagS2ZbM9Mw8q9zUzKxMpFDQ0lJ43LzpcfOex037QWTzWiD5fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDDgsrdVcOfKTq20VXDN5bIx0jexA1nzYuW893tmPZ0z_8muqc_mTX86oRNs-7PZm0DCGzc-n7Lh2a4JT3Y0vGzuA8u8aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrl6xvO1nc-XT3w-ZfvTtROeT1kBdCUoyvWAUa4HinKgG5W4uHwTgb4MAIVQkIdDjUFNNZcCENgYmmnZgVn6WgrP16wBuuLFwh4FDVOFpxv6n69v0FTQ0gdL1yhUp9UqGMcr6AKhWTwI6UK4NQrmEFEgBRYFwRoFQzBtCJEEi9coGIPFjJGVGUFZECmgCNg2H8MahcdNy8Aij5tbgXgeiNW0Hqzn-cK5UJk9Cs9bZ8LNetzcARWfDMSNYNZqsMzTvTCZPQovZ6-A63gxYQ2U_bR1K6oLjEAuWAvVtRKIFyK54GlXL9y8p62dWFzQCcQg3TAdj5snQGXagGJL4DqeLlkOZb_YDTET7gJjkAtWQXVNgpoE89GzqRD3QlwAdztQ1X6o-FSoWngYdLcjdCwGiUFd0AoLj2drIW4EuQA5TezqwZUmUCIZTNTAIhdImaojxT0ikUATEUiwOregVsEExoczgCkFxjSCiyESBjAwIB7pAHp3O0ogN0BkgAH8uLkJrGYTNFg2QvW0gKMAEWEgeYgeSMBBRCERD1Lfj2o_OFnAgrgRljDBiQ2krwsq0wDEoKSFsB-WmCm0H5Qo4LYAkznYX5BQAMksgJq1GhYyzd1Q-yER_rh5Bon298HtRykmOnElCWgkAilwxMNyPkQUSCHHPqhEgfLg-V_BBKIfSQS1jACmIORCAuavCUDcC3cxSGYzVAaUFkCxBDHsZSMoREDw6cS9CB9DsyQ45MBhBhNfBA8fCAuUsZDSAjjmITHwuHk2sv2wWGpaA00L-Ox_ORfiQpCux82QTE_QfnABAXU30IeQtIKwHyYzjQj7QekSYstaILuHoP1IaeHp7NngtGCGmRageR5UQugqGIANrM5FVCPQ1AGxCaUowUwfEGmgeqAwsMyAq4KmCKSCBwGRi4yVj5sh6QHkk51AEqKHKqkBZDyStRCbQKpB9mBxEDjdkOQgEpMHqQ4CFyqkhRBp6YUEB9UiN1V8kJsqJtCWCiim4xWizeJzY8ElC4JtiCwMZwKrkGjjeCALVmnB-JjmQIRNQEwTMBPJdHj5hlUPyD6YbhgL3WKQcqDlqPYiXIPkZCSDQWqh4aJrpwAKGgUgrcwFAA)]
 
 ## 分析
 
@@ -86,24 +86,24 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ ヲーターロー ]
 ================================================================================
-⏱  Duration:       0:23 (24.0s), 20 measures total
+⏱  Duration:       0:25 (25.2s), 21 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A3 (MIDI 57) – E5 (MIDI 76) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
-   - 最低音:  A3 in [Main #1 @ m.11, 0:12]
-   - 最高音: E5 in [Main #1 @ m.6, 0:06]
+🎤 人聲音域:    A3 (MIDI 57) – C5 (MIDI 72) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  A3 in [Main #1 @ m.10, 0:11]
+   - 最高音: C5 in [Main #1 @ m.14, 0:15]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (24.0s)
+🏛  結構:      Main (25.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       E 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  B, E, A, G, F#
-   - 調性數值:    E 小調 [相關度: 0.81, 穩定度: High, 自然音純度: 98.7%]
-   - 候選調性 (K-S): E 小調 (0.81), E 大調 (0.68), B 小調 (0.62)
+   - 核心骨幹音:  B, E, F#, G, C
+   - 調性數值:    E 小調 [相關度: 0.74, 穩定度: Moderate, 自然音純度: 98.8%]
+   - 候選調性 (K-S): E 小調 (0.74), B 大調 (0.68), E 大調 (0.63)
    - 五度圈歷程:   +4
    - 各段落調性細節:
-     • [Main #1]: E 小調 (r: 0.81, 自然音純度: 98.7%, 調外音: A#)
+     • [Main #1]: E 小調 (r: 0.74, 自然音純度: 98.8%, 調外音: D#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -116,21 +116,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████                     7.0%
+     C  : ███████                    9.6%
      C# :                            0.0%
-     D  : ███                        3.8%
-     D# :                            0.0%
-     E  : ███████████████████       22.8%
+     D  :                            0.0%
+     D# : █                          1.2%
+     E  : █████████████████         21.7%
      F  :                            0.0%
-     F# : █████████                 10.8%
-     G  : ██████████                12.0%
+     F# : ██████████████            18.7%
+     G  : ████████                  10.2%
      G# :                            0.0%
-     A  : ███████████               13.3%
-     A# : █                          1.3%
-     B  : ████████████████████████  29.1%
+     A  : ██████                     7.2%
+     A# :                            0.0%
+     B  : ████████████████████████  31.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A3 – E5 (19 個半音 / 1.6 個八度, 58 個音符)
+  - Piano         : A3 – C5 (15 個半音 / 1.2 個八度, 59 個音符)
 ================================================================================
 ```
 

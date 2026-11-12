@@ -4,7 +4,7 @@ song_title: "漁火"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_1_02_isaribi"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈漁火〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：杉谷代水、曲：田村虎藏），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：天暗（てんくら）し　水（みづ）くらし 低（ひく）く高（たか）き　波（なみ）の音（おと）…"
+description: "〈漁火〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：杉谷代水、曲：田村虎藏），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：天暗し　水くらし 低く高き　波の音…"
 keywords: "漁火, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 杉谷代水, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -40,22 +40,22 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P037.jpg，書頁 p. 2，高一第一學期第 2 首）：
-調性與拍號：イ短調／都節音階（無升降記號）、2/4 拍
+調性與拍號：ハ長調（無升降記號）、2/4 拍
 
 
 ## 歌詞
 
 ```text
 一
-天暗（てんくら）し　水（みづ）くらし
-低（ひく）く高（たか）き　波（なみ）の音（おと）
-沖邊（おきべ）はるかに　漕（こ）ぎ出（い）づる
-船唄（ふなうた）の　聲（こゑ）のおもしろ
+天暗し　水くらし
+低く高き　波の音
+沖邊はるかに漕ぎ出づる
+船唄の　聲のおもしろ
 
 二
-船遠（ふねとほ）し　唄近（うたちか）し
-雲（くも）か波か　水か空（そら）
-星（ほし）かあらぬか　たき連（つ）るゝ
+船遠し　唄近し
+雲か波か　水か空
+星かあらぬかたき連るゝ
 漁火（いさりび）のかげの　さやけさ
 ```
 
@@ -67,8 +67,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](isaribi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdWp5YklqEIZhfhOQWoOnpmXlWuamZWZlITtXSUni2p_F542oFLS0uRVsFCwMue1sFZy4bI30TO5DmFyvnvd8z69nczhcbtj_ZvfjZhi1gM5_N3gQUfj5lw7O5E1_M7HsxvR8s_KJ91_PGxc-mznzRtOnZnOanrWterOp93ND1bNqGp-tmPW2d9Hz10qdTNj5b2_O4ofvl6hnP13Y-Xz7x6dLNT9dOeD5lxfs9HaCg1gMGtR4oqN_v6VTi4tLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHegYoCeftq54Nq0d6ICnG3qftXcqBBgYm-tlFaS_39MDVPxyQaNCgZ6CEZAHdPWTHQ3P16wBkk_X7ng2Zz6QrWCk8HLZNKBzgYECsuLFqv3PGpaDDO_ufTFzPlD0cdOS5_PXAsXf7-l_2bz3-fqGl_M3v5zVB7TxecvCp73tL2f2vlgxA6y483FDIzD8FYCauUCmAW0Cu3vJymezpgM1PG5c9rhp8uPG_sdNQAs7HzdOf9zQAIwZsNT-x41LwYIgWaAU2IC9IHseN24CikLkgL4Ai8x_3NgNFgHGUsOzzYvAgquApoAF1wHdCBbpetwIjJxOkFnPNk172dQFE-193LgTrHT946ZuoFmPG1eDDNozFaxgMliq72n7LjC3BcxdClQJDqOOnU-nAIWAElvBdrYBnQOxFmjEi0ZgAgMZ8bhpIlQQaF9TE8izTdBg2dUDNedl4wKYOWuBLn3cuBseLEArXuwHmgCUBZn_uHEhzMfgkHkJSsdAOWBgNYFFu4GBAPIHOECBjOcrIW6fCwlrcAjMADoTKLQbaAZEz-PGJnBgr4HoBNvT-7JhMVjZEpAaYOA0zQVrBuc2SHA8bpz6uAkYiMAwhngQaNAkiPfBUkAFE4EMkDbKUz4UKGjpc3H5JgKLgoDMxLx8hxqDmmqQBQo2hmZadmAWML9BkveLhT0g5SCxGoXq3LRaBbN4BV0whDNqFMxBTDAfzNJVMAAKoio0BRE1CsZwNlQaqBIckzArd_WgWIlqCNh0qCCYbYjLCWAW1DoYNAAJoVi2oxPFMpBpRkBsDDfVDORakHFQ0RowD8SC0UhOxGrH09mzsdoBoqGOBBmFoh9sHQjCrAZ6BEkEp7W1XFy6dgqgmFUA0spcAA)]
-- [鋼琴伴奏 TMD 檔案](isaribi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2p_F54-r3ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKFAZe9rYIzl42RvokdV52C0ouV897vmfVsbueLDduf7F78bMMWJZDws9mbgMLPp2x4Nnfii5l9L6b3g4VftO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0v1w94_nazufLJz5duvnp2gnPp6wAuszIwMhAz8DATM_AwsQS6C4lLi7fxMw8q4DMxLz8IA-HGoOaai4FILAxNNOyA7P0tRSer1nzZEfDi4U9Clr6YLEaherctFoFs3gFXTCEM2oUzEFMMB_M0lUwAAqiKjQFETUKxnA2VBqokgvZyl09KFaiGgI2HSoIZhvicgKYBbUOBg1AQiiW7ehEsQxkmhEQG8NNNQO5FmQcVLQGzAOxYDSSE7Ha8XT2bKx2gGioI0FGoegHWweCMKuBHkESwWltLXLE-iBHrAXeeDWLjweFFJQChVo8MBTBHEhEYpcGCRCMPlStuG2C0Oh244stdLNMgAxDvGYj6UAzGz2WCIQIyVYBY0bXTgEUOQpItDIXAA)]
+- [主旋律 TMD 檔案](isaribi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDA2R8gUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuSUYq0LfliSWpRRiC-UVI3gHqTs_Ms8pNzczKRPKtlpbCsz2NzxtXK2hpcSnaKlgYcNnbKjhz2Rjpm9iBNL9YOe_9nlnP5na-2LD9ye7FzzZsAZv5bPYmoPDzKRuezZ34Ymbfi-n9YOEX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dL1fPeL628_nyiU-Xbn66dsLzKSve7-kAxZYeMLb0QLH1fk-nEheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AxwA9-bR1xbNp7UAHPN3Q-6y9UwEU5XpZBenv9_QAFb9c0KhQoKdgBOQBXf1kR8PzNWuA5NO1O57NmQ9kKxgpvFw2DehcYKCArHixav-zhuUgw7t7X8ycDxR93Nz_cup2oDjQiuctC5_2tr-c2ftixQywbOfjhkZggCsAVXOBtAONBjt0ycpns6Y_bpz-uKEBGPCPG_sfN3UCuWAle_uAfKBjHjcCA7jh2eZFjxvXvZy_GST3bNO0l01djxvXP27qftwIRKuf7Zn6uLHvafuux41LgYJgJ3bsfDqlBagJqPtF4yYQo7HrcVMTyLomqDN29UBVvmxcAHEGUMuL_ROhbng5G6itG2x1N8yJ3c9X7gK7YcZ8sNVNYCevAbOBIr0vGxaDXNU0F6wInPSAIfK4EeiSqY9Bjt4MCg6QY4AaJkGcB5YCKgDaOxWkjfJkAAUKWvpcXJ7FiUWZSZlWAZmJefkONQY11SA7FGwstOzADGzJTwES_y8W9ihomCg83dD_fH2DDjzNaGLRALQJZFiNQnVuWq2CYZyCroIpENcomAGhqYIBmAUSMwayDIHpyRgkBtbjY1ij8Li5DSj7uHkzWM_jpvVA9kogvV0hHsRvng-WbQXiPZjyEFOMgOKNW0HqGtdCTGlcAcS7gXg6xJRGsB2N82GmNC4E4m6YPDhJ4A6NXT3khIYh0EaQX2uApBFKiJhCZXXRwmESyI0g_wExyKf7gXg1EEP91NwFDo3HzX1AsVVgkQ6wKajh0A82pQnsPxB_FRADTQLyICEDYi-F-n4u2J5OuCkEUkUnOeFgCkoS4FQBDAkwCxQGoLAwBWIgF6QEIzCAHgR5_HHzTKjn-4EYFBhA3Az2WNNmIF4HxEvAyQOkZjWW4IAkAoT3gQED9DAw38IDCBikjb1ADDSnCWIySC0RAfJ09mxwgJiSFiCQRGAGSgSgUAF7XMEYxAQGD5CGipspmKMoQUooUyGJoWkZOJGARPpgLgaHCygBADMAUBQSkqAMtAicZUBqQckJPZRagBhoahPQ1MbN4FBZhzARHHbAIgssCuJPBdsA0jMRzoeYWMvFpWunAC13FIBMZS4A)]
+- [鋼琴伴奏 TMD 檔案](isaribi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDA2R8gUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuYhFQc3pqbmpeiVVBZmJefnxicnJ-bkFiXiZIDKGwJAOoyKo8sSS1CEMwvwjJ30Br0jPzrHJTM7MykYJFS0vh2Z7G542r3-_peNm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKFgZc9rYKzlw2RvomdiATX6yc937PrGdzO19s2P5k9-JnG7aALXo2exNQ-PmUDc_mTnwxs-_F9H6w8Iv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6Xq2c8X9v5fPnEp0s3P1074fmUFUCXgeJaDxjXeqC4BrpLiYvLszixKDMp0yoAFDpBHg41BjXVXApAYGOhZQdm6Gsp2KIDhedr1jzZ0fBiYY-ChonC0w39z9c36CiA0oFeVkG6JhYNWvpgw2oUqnPTahUM4xR0FUyBuEbBDAhNFQzALJCYMZBlqGAEpIFiYD0-hjUKj5vbgLKPmzeD9TxuWg9krwTS2xXiQfzm-WDZViDegykPMcUIKN64FaSucS3ElMYVQLwbiKdDTGkE29E4H2ZK40Ig7obJc-EPjV095ISGIdBGkF9rgKQRSoiYQmV10cJhEsiNIP8BMcin-4F4NRBD_dTcBQ6Nx819QLFVYJEOsCmo4dAPNqUJ7D8QfxUQA00C8iAhA2Ivhfp-LtieTrgpBFJFJznhYApKEuBUAQwJMAsUBqCwMAViIBekBCMwgB4Eefxx80yo5_uBGBQYQNwM9ljTZiBeB8RLwMkDpGY1luCAJAKE94EBA_Tw48Y18AACBmljLxADzWmCmAxSS0SAPJ09GxwgpqQFCCQRmIESAShUwB5XMAYxgcEDpKHiZgrmKEqQEspUSGJoWgZOJCCRPpiLweECSgDADAAUhYQkKAMtAmcZkFpQckIPpRYgBpraBDS1cTM4VNYhTASH3ePGSWBREH8q2AaQnolwPsTEWrRixwdHsYMoZBD5JV7BND4eRtUomEA4QAQKHwQPIotQDQoaZGMhuRWnsSDSCMIBUnCD4XzcBkOSPyGDoebBDYbzkSxGMxmajuAmo-tEcRKMh-5gkGpsQQOMEV07BWikRPsYxiogc43AXGUuAA)]
 
 ## 分析
 
@@ -79,48 +79,48 @@ tmd_source:
 ⏱  Duration:       0:25 (25.5s), 17 measures total
 🎼 Key & Tempo:    首調基準 C, != 80.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    E3 (MIDI 52) – A4 (MIDI 69) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  E3 in [Main #1 @ m.4, 0:04]
-   - 最高音: A4 in [Main #1 @ m.10, 0:13]
-   - 適合: contralto, tenor, baritone, bass
-🏛  結構:      Main (25.5s)
+🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  C4 in [Isaribi #1 @ m.4, 0:04]
+   - 最高音: E5 in [Isaribi #1 @ m.15, 0:21]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Isaribi (25.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A 小調（純淨自然小調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, E, G, B, C
-   - 調性數值:    A 小調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A 小調 (0.80), A 大調 (0.70), E 小調 (0.46)
-   - 五度圈歷程:   +3
+   - 核心骨幹音:  C, G, A, D, E
+   - 調性數值:    C 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.88), A 小調 (0.71), G 大調 (0.64)
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main #1]: A 小調 (r: 0.80, 自然音純度: 100.0%)
+     • [Isaribi #1]: C 大調 (r: 0.88, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-               C  
+              [C ]*
          F            G  
       Bb               D  
-      Eb              [A ]*
+      Eb               A  
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████                       7.9%
+     C  : ████████████████████████  33.9%
      C# :                            0.0%
-     D  : ██                         3.2%
+     D  : ███████                    9.7%
      D# :                            0.0%
-     E  : ██████████                19.0%
+     E  : ███████                    9.7%
      F  :                            0.0%
      F# :                            0.0%
-     G  : █████████                 15.9%
+     G  : █████████████████         24.2%
      G# :                            0.0%
-     A  : ████████████████████████  43.7%
+     A  : ███████████████           21.0%
      A# :                            0.0%
-     B  : ██████                    10.3%
+     B  : █                          1.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E3 – A4 (17 個半音 / 1.4 個八度, 46 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 46 個音符)
 ================================================================================
 ```
 

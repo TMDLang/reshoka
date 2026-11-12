@@ -4,7 +4,7 @@ song_title: "吉野懷古"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_1_02_yoshino_kaiko"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈吉野懷古〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：杉谷代水、曲：シユーベルト（F. Schubert，獨國）），調號拍號：E, 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　花（はな）にかくれし　鎧（よろひ）姿（すがた） ありし武士（もののふ）　影（かげ）や何處（いづこ）…"
+description: "〈吉野懷古〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：杉谷代水、曲：シユーベルト（F. Schubert，獨國）），調號拍號：Eb 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花（はな）にかくれし　鎧（よろひ）姿（すがた） ありし武士（もののふ）　影（かげ）や何處（いづこ）…"
 keywords: "吉野懷古, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 杉谷代水"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -13,7 +13,7 @@ credits:
   - "曲：シユーベルト（F. Schubert，獨國）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
-musical_key: "E,"
+musical_key: "Eb"
 meter: "3/4"
 tempo: "80"
 image:
@@ -40,7 +40,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P080.jpg，書頁 p. 3，高二第一學期第 2 首）：
-調性與拍號：變ホ長調（3 降記號）、3/4 拍（想ヲ込メテ熱心ニ ♩=80，弱起第 3 拍進入）
+調性與拍號：變ホ長調（3 降記號）、3/4 拍（想ヲ込メテ熱心ニ ♩=80，弱起第 3 拍後半進入）
 原曲：舒伯特《冬之旅》〈菩提樹〉（Der Lindenbaum）
 出處註記：（松邑三松堂發行檢定唱歌集）
 
@@ -48,16 +48,18 @@ tmd_source:
 ## 歌詞
 
 ```text
-一　花（はな）にかくれし　鎧（よろひ）姿（すがた）
+一
+花（はな）にかくれし　鎧（よろひ）姿（すがた）
 ありし武士（もののふ）　影（かげ）や何處（いづこ）
 雲（くも）よ白雲（しらくも）　雪（ゆき）よ吹雪（ふぶき）
-跡（あと）は埋（うづ）めど　消（き）えぬ誠（まこと）
+跡（あと）は埋（うづ）めど　消（き）えぬ忠誠（まこと）
 消（き）えぬ懷（おも）ひ。
 
-二　君（きみ）が御衣（みけし）に　露（つゆ）ぞ重（おも）き
+二
+君（きみ）が御衣（みけし）に　露（つゆ）ぞ重（おも）き
 假（かり）の宮居（みやゐ）の　長（なが）き夢路（ゆめぢ）
 春（はる）は語（かた）らず　花（はな）は言（い）はず
-誰（たれ）が殘（のこ）りて　昔（むかし）つぐる
+誰（たれ）が殘（のこ）りて　昔（むかし）告ぐる
 昔（むかし）語（かた）る。
 ```
 
@@ -69,8 +71,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yoshino_kaiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2al1hSWpSKEAUalZ6ZZ5WbmpmVicVdUOny1OKS1KK8-NzUnPyUSiUuLS2FpxM6X7b3PWvf_rR_iYKWFpeirYKFAZe9rYKrDpeNsb6JHciMFyvnvd8z69nczhcbtj_ZvfjZhi1go5_N3gQUfty0_XHzssfNex43z3zcvPpxc8f7PR1uegrByRmlSalFJe_39DzvXfF0Tvf7PZ1gbS_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL306ZeOztT2PG7pfrp7xfG3n8-UTn0_Z_nTthOdTVgBNB8WOHjB29ECxAzaWS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oGOAgfC0dcWzae1ABzzd0PusvVMhwMDCQC-rIB3oRaDilwsaFQr0FIyBPKCrn-zqeb5mzZMdDU_X7ng2Zz6QrWCk8HLZNKBzgYEGsuLFqv3PGpaDDO_ufTFzPlD0xbqux82zX07dDpQC2mKs8HJm74sVM8CSnY8bGoHxoQBUDJR61rz5cfOmF_uAgb7wcXPb87aNT_c3P27uVng0c6WthQHQCU_3bHyxdTvIWmOQnpcNm562LgUaA_ccKO5edEx6smf9886dwOB_2rbmyc7uZ9NbgaH-uKHjRf_KZ_0Tnq0ASgEd3OGSWqTgk5kHTLxJiaW5MHPad72YOfXFit1ARwJNA7lr7r6XTROf7OgEMp4uaHo-c8-LhT3PVi0CRSw4Sl_ObgNpBukGhs3jhoYXXRuB-h43rn_cuArky8bVjxu7Hzf2P27qedw4HajgZd9ykIImIOp93Ah0defT5aDQedw483EjUA0obEDGPW5setzUBdTzbO2yp4tXg_U0PW5cB0ZbwQHY8HQvxDKgBZNAIk0tT_ZOBXoBLNjyuHHp48bJUONeggIIKAp0SBNYacfzmXthgtMfNwFdCpMCunE20O1A-9oeNwJjB6T46YSdUMHGrY8bt0HEwbG-fSFYFOg0YFIGmrL-6Xxg1gCKADWDIuhxU-PjxpVAQ59tA-UkqImNQAYwnywAi-wDOhOiHWQipjpgdgaLdEEd2LjpcUMTJMx3ATNVw9MJsyE6HjcCQxIo3_N038IXCxeDBfc_bpwI9CE0LoB-mwPx8xKg98CC8162g5IgkvG94MTQCMoZoLBt6gKLrnu6bt3Tja1QQ5taHjdNgIiDDJ0KceEqoN0QI54uWfRi-3poKIKCYBHMezOAoQJOIE2gIgTIeLEKWBxBYhGcMUBxMQtbUlr_YkUDJGohXKAySMbbABadD0xjEO8_WwdMv0ARYEoBxT84HS0DRcGMKWAXNYAtg4TJkseNE4BOgTgNXRrDacCs1ARSSnmpBAUKWvpcXL6JwNI8IDMxL9-hRtewphpkg4KNoZmWHZgFLAwh2f_phv7n60FBgFEOzHrc3P-4GRhRwES89nEzyLEgk0G6axQMFHTBEEZXF9QqmAJpYyCuAacjkBWQ4g2Yv8GmAaN99eOm9Y-b14AqhIaGx80rHjcDTZ70uGnn4yag4H6E-SBzkKEhFNeASRCEqQC5wBQIa6A6Qa4AyZpAaQ0jINNIU1VDFwg00YyGaMbm7F09UGc3LXrcvApcgwEZfWA0FeR4kF82PW4Gpvklj5tbHzdtRnU8CMMcDXMyLseD7CbS8TADYJqrc6EBDzEFJeA7YT4ABjnQ7SvAnlgJ5YKCfxk4YoGRMPVx8zQQG-QtoMoOUMw3ASvsVoSfQC4CudoI6h_zeLAbjIBS1blpCDeYQR0H8QFQGkuEghwOMgeEETIoJoPjGtk7T2fPhqUjYHUGrNRAhSrIzU1A9_c8bp4HjAGQy5EFm1aBPT4J1Rcgm8B2QMIP6HZ4EoK7BaIO4ibk-EH3RTWKbkKxBzUEPQ5heaiGq5aLS9dOAZR1FYC0MhcA)]
-- [鋼琴伴奏 TMD 檔案](yoshino_kaiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6ofNle9-z9u1P-5e839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUsDLjsbRVcdbhsjPVN7LjqFJRerJz3fs-sZ3M7X2zY_mT34mcbtiiBhJ_N3gQUfty0_XHzssfNex43z3zcvPpxM9CoDjc9heDkjNKk1KKS93t6nveueDqnG2gDWNuL9l3PGxc_mzrzRdOmZ3Oan7auebGq93FD17NpG56um_W0ddLz1UufTtn4bG3P44bul6tnPF_b-Xz5xOdTtj9dO-H5lBVA040MjAz0DAzM9AwsTCzAxnL5JmbmWQVkJublB3k41Oga1lRzKQCBjaGZlh2YpQ8MgD0bX2zd_nRD__P1DQpa-mDhGgUDBV0whNHVBbUKpkDaGIhruGB6n69Z82RHw4uFPQiNIAXI0BCKa8AkCMJUgIw2BcIaqE6Q8SBZEyitYQRkGmmqaugCgSaa0RDN2NyzqwfDPSAMcwfMFbjcAzKOSPfADIBprs6FBhLEFJRA6kRxFMhIkLVGUAeZx4MNMQJKVeemIQwxg5oOcQJQGksgg2wGmQPCCBkUk8Hhj-yep7NnY7gHpAesGuIVoCvgEQQ3FaIOYjpyUKG7pxpFN6GAhBqCHpywpFfDVYuckn1QUrIJ4YQMgniTrGG8QrRhLBijcmAJIR4oZhoPFAQRcCXopqIlPCqZipZysOkygXPRrEYxGKoCTyowghoNdAJec0HyYHfgUQCKM107BVC0KQBpZS4A)]
+- [主旋律 TMD 檔案](yoshino_kaiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowsDBAyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs3mJJaVFqchaM9Mz86xyUzOzMrF4DSpdnlpcklqUF5-bmpOfUqnEpaWl8HRC58v2vmft25_2L1HQ0uJStFWwMOCyt1VwTeKyMdY3sQOZ8WLlvPd7Zj2b2_liw_Ynuxc_27AFbPSz2ZuAwo-btj9uXva4ec_j5pmPm1c_bu54v6fDTU8hODmjNCm1qOT9np7nvSuezul-v6cTrO1F-67njYufTZ35omnTsznNT1vXvFjV-7ih69m0DU_XzXraOun56qVPp2x8trbncUP3y9Uznq_tfL584vMp25-unfB8ygqg6aAI1gNGsB4ogsHGculrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnQMMBCetq54Nq0d6ICnG3qftXcqgFKJXlZBOtCLQMUvFzQqFOgpGAN5QFc_2dXzfM2aJzsanq7d8WzOfCBbwUjh5bJpQOcCAw1kxYtV-581LAcZ3t37YuZ8oOiLdV2Pm2e_nLodKAW0xVjh5czeFytmgCU7Hzc0AuNDAagYKPWsefPj5k0v9gEDfeHj5rbnbRuf7m9-3Nyt8GjmSlsLA6ATnu7Z-GLrdpC1xiA9T_f1PO3tetmw6WnrUqBhcC-CYvBFx6Qne9Y_79wJjISnbWue7Ox-Nr0VGPaPGzpe9K981j_h2QqgFNDZHS6pRQo-mXnAtJ6UWJoLM6d914uZU1-s2A10KtA0kOvm7nvZNPHJjk4g4-mCpucz97xY2PNs1SJQ9IIj9uXsNpBmkG5gCIEDo2sjUOPjxvWPG1eBPNu4-nFj9-PG_sdNPY8bpz9uaHjZtxykoAmIeh83Ap3d-XQ5KJAeN8583AhUAwoikEGPG5seN3UB9Txbu-zp4tVgPU2PG9eB0VZwODY83QuxDGjBJJBIU8uTvVOBfgALtjxuXPq4cTLUuJegEAKKAh3SBFba8XzmXpjg9MdNQJfCpIBunA10O9C-tseNwEgCKX46YSdUsHHr48ZtEHGwf7cvBIsCnQZM0UBT1j-dD8whQBGgZlAMPW5qfNy4Emjos22gDAU1sRHIWPN0_4IXqxaABfcBXQoxAWQoplJgxgaLdEHd2LjpcUMTJNx39YAjb8JsiJbHjcDQBCroebpv4YuFi8GC-x83TgT6EhofQP_Ngfh7CdCLYMF5L9tBqRHJ_F6woY2gTAIK36YusOi6p-vWPd3YCjW0qeVx0wSIOMjQqRAnrgLaDTHi6ZJFL7avh4YkKBgWwfw3Axgy4ETSBCpNgIwXq4AlEyQmwXkEFB-zgIZiJKf1L1Y0QKIXwgUqg-TBDWDR-cB0BvH-s3XARAwUAaYWUBoAp6VloGiYMQXsogawZaAweToRKDUB6BSI09ClMZwGzE9NIKWUF1BQoKClz8Xlmwgs2AMyE_PyHWp0DWuqQTYo2BiaadmBWcByEVISPN3Q_3x9A0gLSLhGwUBBFwyR6eqCWgVTIF0DVuNjWKMQD5VFph839yPUGOFQ07QWrAbmBkhRCCwFEA4AWQSDxki4BkyCoCGS00BshLMeN3ch6QaVeyArV4PJ9WAzHjevgck2bUdx_AoUxz9uno9sUhNIF0TscdNGiElw_RB7ECa1ILxYAyzcUb1jqmACFkN4BwZB3kEN5cfNoNBCeGcS2PqdQNYeqJNAztiPZg4knBeheWcZinf2gclVEJOawWqhcYNpEij4UGNsVw8VY2wVisNAYQpx0OPmPoizwDQkAKZicRjCiygmgXVBY6x5CdSkDSiyiBgDpRoiYgzmDeQYq84FZg40PzVtQnEJyPbHTUuggd0KcUvTZjTDIH4Cp1KEn8CRjAgdUASBohJi0kKor5qwmQTNjCgZrRMl2pD9CWLDMCzaTFAitjo3Db0QgMQTwp-gHASLwZVQX4L8A-LDkhlCNShBIsceKDYRsiDXw3IuKIGDVIDMhJrVtAtDNTz-zJCkQA4G-QYcQSg-hsUf2MdIUQcKYjQvgZPd4-ZpUC8hq0BEHHp-Qy2IIN4BJwSIY9G8gDAH7FlsSRElipDioAOLRaCwhaY0JCehpiVIiQbOJeC0iJJWns6ejZJW0FMEODXACyx4kMOC2wSLO0GpFZYSOlG8DApQUICAAhumBkT2gMl5SC5Ez-sQ09qQTWteADUNlp6gpkHTJahsftwEKgfggYycymGpohqW2DG8Bi8NcEQBkd5CLXtxZAMiPQUUhWQKlLSDrbACYWSHgyoUdMtAmJCDIGpqubh07RRADQ0FIK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](yoshino_kaiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowsDBAyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKi-xpLQoFdmOzPTMPKvc1MysTCxhAJUuTy0uSS3Ki89NzclPqVTi0tJSeDqh82V737P27U_7l7zf0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFSwMuOxtFVyTuGyM9U3sQAa_WDnv_Z5Zz-Z2vtiw_cnuxc82bAHb92z2JqDw46btj5uXPW7e87h55uPm1Y-bgUZ1uOkpBCdnlCalFpW839PzvHfF0zndQBvA2l6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ysZna3seN3S_XD3j-drO58snPp-y_enaCc-nrACaDkoeesDkoQdKHmBjuXwTgZ4OAIVmkIdDja5hTTWXAhDYGJpp2YFZ-sAA2LPxxdbtTzf0P1_foKClDxauUTBQ0AVDZLq6oFbBFEjXgNX4GNYoxENlkenHzf0INUY41DStBauBueH5mjVPdjS8WNiDcADIIhg0RsI1YBIEDZGcBmIjnPW4uQtJ9-PmbrCVq8HkerAZj5vXwGSbtqM4fgWK4x83z0c2qQmkCyL2uGkjxCS4fog9CJNaEF6sUTBC846pgglYDOEdGAR5BzWUHzeDQgvhnUlg63cCWXugTgI5Yz-aOZBwXoTmnWUo3tkHJldBTGoGq4XGDaZJoOBDjbFdPVSMsVUoDgOFKcRBj5v7IM4C05AAmIrFYQgvopgE1gWNseYlUJM2oMgiYgyUaoiIMZg3kGOsOheYOdD81LQJxSUg2x83LYEGdivELU2b0QyD-AmcShF-AkcyInRAEQSKSohJC6G-asJmEjQzomS0TpRoQ_YniA3DsGgzQYnY6tw09EIAEk8If4JyECwGV0J9CfIPiA9LZgjVoASJHHug2ETIglwPy7mgBA5SATITalbTLgzV8PgzQ5ICORjkG3AEofgYFn9gHyNFHSiI0bwETnaPm6dBvYSsAhFx6PkNtSCCeAecECCORfMCwhywZ7ElRZQoQoqDDiwWgcIWmtKQnISaliAlGjiXgNMiSlp5Ons2SlpBTxHg1AAvsOBBDgtuEyzuBKVWWEroRPEyKEBBAQIKbJgaENkDJuchuRA9r0NMa0M2rXkB1DRYeoKaBk2XoLL5cROoHIAHMnIqh6WKalhix_AavDTAEQVEegu17MWRDYj0FFAUkilQ0g62wgqEkR0OqlDQLQNhQg6CqKlFbmf4oLQzTAg3M0AQb0PAMF4h2jAWjFE5sHiLB4qZxgMFQQRcCbqpaJUVlUxFK0tx6EI22AQoZAJSAbYZrgFkMFYz8GVHhKPAxoJsgughURoUhbp2CqBYVADSylwA)]
 
 ## 分析
 
@@ -78,51 +80,51 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 吉野懷古 ]
 ================================================================================
-⏱  Duration:       0:38 (38.2s), 17 measures total
+⏱  Duration:       0:40 (40.5s), 18 measures total
 🎼 Key & Tempo:    首調基準 E,, != 80.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – C5 (MIDI 72) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  D4 in [Main #1 @ m.10, 0:21]
-   - 最高音: C5 in [Main #1 @ m.11, 0:23]
+🎤 人聲音域:    D#4 (MIDI 63) – C5 (MIDI 72) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
+   - 最低音:  D#4 in [Main #1 @ m.3, 0:05]
+   - 最高音: C5 in [Main #1 @ m.12, 0:24]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (38.2s)
+🏛  結構:      Main (40.5s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D# 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D#, A#, G#, F
-   - 調性數值:    D# 大調 [相關度: 0.81, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D# 大調 (0.81), G 小調 (0.73), C 小調 (0.49)
-   - 五度圈歷程:   -3
+   - 核心骨幹音:  F, A#, G, D#, C
+   - 調性數值:    A# 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 96.5%]
+   - 候選調性 (K-S): A# 大調 (0.80), D# 大調 (0.70), G 小調 (0.61)
+   - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [Main #1]: D# 調性不明確 (r: 0.77, 自然音純度: 100.0%)
+     • [Main #1]: A# 大調 (r: 0.80, 自然音純度: 96.4%, 調外音: G#)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
-      Bb               D  
-     [Eb]*              A  
+     [Bb]*              D  
+      Eb               A  
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██                         2.2%
+     C  : ██████                     7.0%
      C# :                            0.0%
-     D  : ███                        3.8%
-     D# : ████████████████          20.7%
+     D  :                            0.0%
+     D# : ██████████████            16.0%
      E  :                            0.0%
-     F  : █████████                 11.4%
+     F  : ████████████████████████  27.0%
      F# :                            0.0%
-     G  : ████████████████████████  31.5%
-     G# : ██████████                13.6%
+     G  : ████████████████████      22.0%
+     G# : ███                        3.5%
      A  :                            0.0%
-     A# : █████████████             16.8%
+     A# : ██████████████████████    24.5%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – C5 (10 個半音 / 0.8 個八度, 76 個音符)
+  - Piano         : D#4 – C5 (9 個半音 / 0.8 個八度, 65 個音符)
 ================================================================================
 ```
 

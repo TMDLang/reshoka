@@ -68,8 +68,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](otera_no_kane.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRsgXFOWXpeYl5gHVFBSB7EsBK0IoSC3LTEkFSaemZJbkF2Um5iC5IrWoGOxSsCXxJUWJecXJRZkFIOcjVJVkpAKdmpafk52TX5SKLl6UmpOZjqIeaEl6Zp5Vbn5eUinQ20pcWloKT_ctfLp-1-PGdS8nzACR8zcraGlxKdoqWBpx2dsqOHPZmOib2IGMeNq-68XMqe_3zHq_p-Pphv6na3c8nbLx2dqel7Pb3u_pBNvyon3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPVSiKbHDd0vV894vrbz-fKJT5dufrp2wvMpK4AGgwJbDxjYeqDABhvLpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DEvVs572rri2bR2sM96n7V3KgQYmBvoZRWkv9_TA1T8ckGjQoGegrEpkAt09pMdDS_2rAJ65PmaNQqGCi-XTQO6FBgwINNfrNr_rGE5yNzu3hcz5wNFHzf3v5y6HSgONP15y8Knve0vZ_a-WDEDLNv5uKERGMAKQNVA6Sc7Ol82r4CYDbTq6f7Vz7bsftzcrfBo5kpbSyOgcrAHwBHxYsVuoCG4ooMLpBDoThD1uHH_48Zlj5s6kWP52ZyOx01A1PW4EYiWPG7qhijdClINkmh43t7xvHH148bux40zwSSQvQqsYRnU8Ce7eoAufjp79pNdU562rn2yAxjjqyE27-oBUUBLnu7dCNY8_3HjtseNvS_nzHncOPVxI9CCfpBgUxfE2rUgOxtXoLhwHlAd0M5Nj5vmPW7sJ2znDnDoPNvTCHb29MdNjRDXAu18umQl2CxgQCwEB-HyiS9mtD-d3_d0yTSwr7rB1nY_bmoCOvJx4-THTW14LQTKUZ4aoUBBS5-LyzcRmDMDEotKDB1qDGqqQRYo2Fho2YEZwCwATGqgZLewR0HDUBOkAyReA0x9ugrm8Qpm8Qqm8UAmCNZAmCbxCsbxCkYgJphfo2AAYQIRUDlcFKhOF6oSSEKNAAcozNpdPWBrjZCsBasE6jBEsRcmCjUbyVqgDBDBrAKJgpUBtZvHg03BZu-OTrC9xsjehalEaKFEDGHd2s6n-1ohngXmSEg-fL51wrO58xU0LBSA-ev5-gYkd4D8hAzJFKGyabVIycjIoUbbhFA6AhUdu7e9bNykYAL148uGTU9blwILkNEkRrMkhpK4YAFPg8SFnByMgcnBgvjkAEvyo8mB2skBGCm6dgqgeFEA0spcAA)]
-- [鋼琴伴奏 TMD 檔案](otera_no_kane_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6b-HT9bseN657OWEGiJy_-f2ejpfde55P2PJkz5anS_ufd3a839OpoKXFpWirYGnEZW-r4MxlY6JvYsdVp6D0tH3Xi5lT3--ZBdT1dEP_07U7nk7Z-Gxtz8vZbUBdSiAlL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvhWh63ND9cvWM52s7ny-f-HTp5qdrJzyfsgJosJGBkYGegYGZnoGFiSXYWC7fxMw8q4DEohJDhxqDmmouBSCwsdCyAzNqFAwVdBXM4xXM4hVM44FMEKyBME3iFYzjFYxATDC_RsEAwgQioHK4KFCdLlQlkIQaATUdLACUMEQxHiYKNQLJdKAMEMFMBImClQG1m8eDTUE1Hi6AkKFEDGoqyCHIkEwRKptWixSVRg412iajcYlPjIahbwwMfYvR0McnhgivzMS8fB8PpKLHBBFgIOXRhrHQgALzTOMhXIicSSxYHi4LUTtstIMJotig8NS1UwAFqQIWWpkLAA)]
+- [主旋律 TMD 檔案](otera_no_kane.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDA3QMgUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuSUYq0Ldp-TnZOflFqejiRak5melohgIF8qxy8_OSSoEhp8SlpaXwdN_Cp-t3PW5c93LCDBA5f7OClhaXoq2CpRGXva2CM5eNib6JHciIp-27Xsyc-n7PrPd7Op5u6H-6dsfTKRufre15Obvt_Z5OsC0v2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy-FaHrc0P1y9YznazufL5_4dOnmp2snPJ-yAmgwKL70gPGlB4ovsLFc-loKttQCXAoKCk_75j-bvePF5vYXK7pedLQDHfNi5bynrSueTWsH-6z3WXunAijS9bIK0t_v6QEqfrmgUaFAT8HYFMgFOvvJjoYXe1YBPfJ8zRoFQ4WXy6YBXQoMGJDpL1btf9awHGRud--LmfOBoo-b-19O3Q4UB5r-vGXh0972lzN7X6yYAZbtfNzQCAxgBaBqoPSTHZ0vm1dAzAZa9XT_6mdbdj9u7lZ4NHOlraURUDnYA-CIeLFiN9AQXNHBBVIIdCeIety4_3HjssdNncix_GxOx-MmIOp63AhESx43dUOUbgWpBkk0PG_veN64-nFj9-PGmWASyF4F1rAMaviTXT1AFz-dPfvJrilPW9c-2QGM8dUQm3f1gCigJU_3bgRrnv-4cdvjxt6Xc-Y8bpz6uBFoQT9IsKkLYu1akJ2NK1BcOA-oDmjnpsdN8x439hO2cwc4dJ7taQQ7e_rjpkaIa4F2Pl2yEmwWMCAWgoNw-cQXM9qfzu97umQa2FfdYGu7Hzc1AR35uHHy46Y2vBYC5ShPjVCgoKXPxeWbCMyZAZmJefmGDjUGNdUgGxRsLLTswAxgHgCmNVC6W9ijoGGoCdICEq9RMIxT0AVCcwUzIGkKxDVglhlQBCwFETIAs0yhUiARsCRIF0gBCNaADfQxrFF43DwfLPK4uQ2IV4JZfWBNj5tWg3m9QLwHKgrigeTiwewWoJq1QHoFmLcKqgtEg-XAukBmINloBFTRuARiYyPQ5MZuMGsSRC-UNx-it3EbVBXcxsbpQPObgPRUMK8DamM_sq6mLlQbjUHmtkBtnAqVf9y4GWrjdBCvqRFJLzARYbERJPa4aTJUFzhkGvdD3bkQbiNy_O3qAcefEVL8GYOVmSqYAEkQuwbMgvEgIqDYMwZCmAwkikF6ILpRIw8UEKDgBnkeEg0LIE5sBgXO4-ZFYGdvB7Mhjgd7Cxi1j5t2wqMYFOwgPWDvAyMSEnVtWKJuLcS-pg4gG2xf4zqUqAPJQ8QgbFgw7gPifqC-TjAPZCtIzyZoVECCERSN6BEHcjNIzVwgnvG4qRnMATkMJDnhcRM4UYKjF5izwS6D-AViazfYFVC3AaMRog2UoEAmQ6Ic4UuUzNcJjjxj5MwHVQijyRSBRx4wg0PFgEkFrh5oM5QNLIUQorumwERbIVEAUQsKD4goZj6jqfnAyKGV-fBoWNv5dF8rJCcBK05Idfl864Rnc-craFgoAKvB5-sbkOIHlHGQIZki8PgBJSFUtWSJwOODquYBw59a5o0GH0Xm1SJX50Y4qnN4Ut7RAEzEwLbb03U9SHW8yWhqpmpqHm1BjbagRltQoy2o0RYUrNpBbjuN1ja0qfyNCVf-oHbsrh5gXIy2YEdbsKNNptEm02iTabTJNNpkGvgmE7Ai17VTANXlCkBamQsA)]
+- [鋼琴伴奏 TMD 檔案](otera_no_kane_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9PzyzKKY43MjAyiDcwMIs3sDCxRCgszi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDA3QMgUFOWXpeYl5gF1FxSBXJIC1o5QkFqWmZIKki5OTsyLL0stykzLTE1BcmNqUTHYHxArSooS84qTizILQJ5DqMovKsnITy9KLMiotMrILC7JL8pMTsyJz07MQ_JuYhFQc3pqbmpeiVVBZmJefnxicnJ-bkFiXiZIDKGwJAOoyCotPyc7J78oFV28KDUnMx3NdqBAnlVufl5SKTCIlbi0tBSe7lv4dP2ux43rXk6YASLnb36_p-Nl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKlgacdnbKjhz2Zjom9iBzH3avuvFzKnv98wC6nq6of_p2h1Pp2x8trbn5ew2oC6w1S_adz1vXPxs6swXTZuezWl-2rrmxarexw1dz6ZteLpu1tPWSc9XL4VoetzQ_XL1jOdrO58vn_h06eanayc8n7ICaDAotvWAsa0Him2wsVy-iUCPBIACx9ChxqCmmksBCGwstOzADH0thedr1jzZ0fBiYY-ChqGmgpY-WLxGwTBOQRcIzRXMgKQpENeAWWZAEbAURMgAzDKFSoFEwJIgXSAFIFgDNtDHsEbhcfN8sMjj5jYgXglm9YE1PW5aDeb1AvEeqCiIB5KLB7NbgGrWAukVYN4qqC4QDZYD6wKZgWSjEVBF4xKIjY1Akxu7waxJEL1Q3nyI3sZtUFVwGxunA81vAtJTwbwOqI39yLqaulBtNAaZ2wK1cSpU_nHjZqiN00G8pkYkvY8bl2GxEST2uGkyVBc4ZBr3Q925EG4jcvzt6gHHnxFS_BmDlZkqmABJELsGzILxICKg2DMGQpgMJIpBeiC6USMPFBCg4AZ5HhINCyBObAYFzuPmRWBnbwezIY4HewsYtY-bdsKjGBTsID1g7wMjEhJ1bViibi3EvqYOIBtsX-M6lKgDyUPEIGxYMO4D4n6gvk4wD2QrSM8maFRAghEUjegRB3IzSM1cIJ7xuKkZzAE5DCQ54XETOFGCo_dxIzjhNUH8ArG1G-wKqNuA0QjRBkpQIJMhUY7wJUrm6wRHnjFy5oMqhNFkisAjD5jBoWLApAJXD7QZyn46ezZCdNcUmGgrJAogakHhARHFzGc0NR8YObQyHx4Nazuf7muF5KTHDY1Ag182r3i-dcKzufMVNCwUgOX18_UNSPEDyjjIkEwRePyAkhCqWrJE4PFBVfOA4U8t80aDjyLzapGrcyMc1Tk8Ke9oACZiYHvh6boepDreZDQ1UzU1j7agRltQoy2o0RbUaAsKVu0gt51GaxvaVP7GhCt_UDt2Vw8wLkZbsKMt2NEm02iTabTJNNpkGm0yDXyTCaUi9_FAqslNoDV5jUJ1Qa2CYTwokiEkMCOh8CA0RAzGg8rBYnOY6CaaBwpXXTsFUNAqAGllLgA)]
 
 ## 分析
 
@@ -80,21 +80,21 @@ tmd_source:
 ⏱  Duration:       0:52 (52.2s), 20 measures total
 🎼 Key & Tempo:    首調基準 C, != 92.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    B2 (MIDI 47) – C4 (MIDI 60) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
-   - 最低音:  B2 in [Main #1 @ m.8, 0:19]
-   - 最高音: C4 in [Main #1 @ m.1, 0:00]
-   - 適合: tenor, baritone, bass
+🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  C4 in [Main #1 @ m.9, 0:20]
+   - 最高音: C5 in [Main #1 @ m.1, 0:00]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (52.2s)
 ⚡ 編曲密度:        Peak 3 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, G, E, D, F
-   - 調性數值:    C 大調 [相關度: 0.94, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.94), C 小調 (0.65), G 大調 (0.54)
+   - 核心骨幹音:  C, E, G, A, F
+   - 調性數值:    C 大調 [相關度: 0.91, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.91), A 小調 (0.72), F 大調 (0.58)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main #1]: C 大調 (r: 0.94, 自然音純度: 100.0%)
+     • [Main #1]: C 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -107,23 +107,23 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  43.5%
+     C  : ████████████████████████  42.4%
      C# :                            0.0%
-     D  : █████                      8.7%
+     D  :                            0.0%
      D# :                            0.0%
-     E  : ████████                  15.2%
-     F  : ███                        5.4%
+     E  : █████████                 16.3%
+     F  : ███████                   12.0%
      F# :                            0.0%
-     G  : ████████████              21.7%
+     G  : ███████                   13.0%
      G# :                            0.0%
-     A  : ██                         3.3%
+     A  : ███████                   13.0%
      A# :                            0.0%
-     B  : █                          2.2%
+     B  : ██                         3.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Part1         : B2 – C4 (13 個半音 / 1.1 個八度, 41 個音符)
-  - Part2         : B2 – C4 (13 個半音 / 1.1 個八度, 41 個音符)
-  - Part3         : B2 – C4 (13 個半音 / 1.1 個八度, 41 個音符)
+  - Piano1        : C4 – C5 (12 個半音 / 1.0 個八度, 41 個音符)
+  - Piano2        : C4 – C5 (12 個半音 / 1.0 個八度, 41 個音符)
+  - Piano3        : C4 – C5 (12 個半音 / 1.0 個八度, 41 個音符)
 ================================================================================
 ```
 

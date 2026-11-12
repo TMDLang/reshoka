@@ -6,9 +6,27 @@ Q:1/4=104
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! G3 E D8 G4 | G4 B4 A4 G4 | e4 d4 B4 G4 | A4 A4 B4 A4 |
-G3 E D8 G4 | G4 B4 A4 G4 | e3 d B8 A4 | G12 z4 |
-B3 G E8 A4 | B4 e4 z8 | f3 d B8 d4 | e4 f4 z4 d3 e |
-f3 d B8 d4 | e3 d B8 B3 ^c | d3 e f3 d B3 ^c d3 e | d4 d4 z8 |
-!f! d4 B4 c4 d4 | B4 G4 A4 B4 | c4 A3 B c4 d4 | e4 d4 c4 B4 |
-G3 E D8 G4 | G4 B4 A4 G4 | e8 B3 d A4 | G12 z4 |
+G7 E D7 F | G4 A4 B4 G4 | c4 B4 A4 G4 | F4 E4 F4 D4 |
+w: コ ノ ヨ ニ | ウ マ レ テ | ム ナ シ ク | ハ テ ン ヤ
+G7 E D7 F | G4 A4 B4 e4 | d7 B A7 B | G12 z4 |
+w: テッ セ キ ノ | ハ ラ ワ タ | ワ レ ニ ア | リ
+A7 G F7 G | A4 A4 z4 z4 | d7 c B7 c | d4 d4 z4 z3 d |
+w: ク ル シ ミ | コ ヨ | ウ キ コ ト | コ ヨ ヒ
+d7 c B7 c | d7 c B7 c | d3 e d3 B ^A3 B B3 c | d4 d4 z4 z4 |
+w: ゴ ロ ノ カ | ク ゴ ヲ イ | ザ ー ヤ ー シ ー メ ー | サ ン
+e4 e4 d4 d4 | c4 c4 B4 B4 | A4 c2 B2 A4 G4 | F4 E4 F4 D4 |
+w: コ レ コ ソ | ワ レ ラ ノ | マ モ ー レ ル | シュ ギ ナ レ
+G7 E D7 F | G4 A4 B4 e4 | d4 B4 A7 B | G12 z4 |
+w: コ レ コ ソ | ワ レ ラ ノ | ネ ガ ヒ ナ | レ
+G7 E D7 F | G4 A4 B4 G4 | c4 B4 A4 G4 | F4 E4 F4 D4 |
+w: ク モ ラ ヌ | コ コ ロ ニ | ミ チ タ ル | チ カ ラ ハ
+G7 E D7 F | G4 A4 B4 e4 | d7 B A7 B | G12 z4 |
+w: ヤ マ ヲ モ | ユ ル ガ ス | ツ ヨ サ ア | リ
+A7 G F7 G | A4 A4 z4 z4 | d7 c B7 c | d4 d4 z4 z3 d |
+w: コ レ ヲ タ | ノ ミ | コ レ ニ タ | ヨ リ イ
+d7 c B7 c | d7 c B7 c | d3 e d3 B ^A3 B B3 c | d4 d4 z4 z4 |
+w: ノ チ ノ カ | ギ リ ヲ ワ | レ ー ハ ー フ ー ル ー | ハ ン
+e4 e4 d4 d4 | c4 c4 B4 B4 | A4 c2 B2 A4 G4 | F4 E4 F4 D4 |
+w: コ レ コ ソ | ワ レ ラ ノ | マ モ ー レ ル | シュ ギ ナ レ
+G7 E D7 F | G4 A4 B4 e4 | d4 B4 A7 B | G12 z4 |
+w: コ レ コ ソ | ワ レ ラ ノ | ネ ガ ヒ ナ | レ

@@ -1,14 +1,15 @@
 ---
-title: "我國旗 — 《新定兒童唱歌》 高等科 男子一二年"
-song_title: "我國旗"
+title: "我が國旗 — 《新定兒童唱歌》 高等科 男子一二年"
+song_title: "我が國旗"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_4_01_waga_kokki"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈我國旗〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（曲：歐洲曲），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　萬の國にたぐひも無き とよさかのぼる旭の旗…"
-keywords: "我國旗, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 歐洲曲"
+description: "〈我が國旗〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：不詳、曲：歐洲曲），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　萬（よろづ）の國（くに）に、たぐひもなき、 豐榮昇（とよさかのぼ）る、朝日（あさひ）の旗（はた）。…"
+keywords: "我が國旗, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 不詳, 歐洲曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
 credits:
+  - "詞：不詳"
   - "曲：歐洲曲"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
@@ -26,12 +27,13 @@ tmd_source:
   - "waga_kokki_piano.tmd"
 ---
 
-# 我國旗
+# 我が國旗
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="waga_kokki.mp3"></audio>
 
+- 詞：不詳
 - 曲：歐洲曲
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 
@@ -39,20 +41,21 @@ tmd_source:
 
 原書資訊與歌詞全文（對應 P118.jpg，書頁 p. 41，高二重音第 1 首）：
 調性與拍號：變ロ長調（2 降記號）、4/4 拍（眞面目ニ ♩=96，二部重音合唱，弱起第 4 拍進入）
+出處註記：（重音唱歌集）
 
 
 ## 歌詞
 
 ```text
-一　萬の國にたぐひも無き
-とよさかのぼる旭の旗
-むかふ所に敵はあらじ
-我國守る旭の旗
+一　萬（よろづ）の國（くに）に、たぐひもなき、
+豐榮昇（とよさかのぼ）る、朝日（あさひ）の旗（はた）。
+向（むか）ふところに、敵（てき）はあらじ、
+我が日の本の、國の御旗（みはた）。」
 
-二　雄々（をゝ）しく武き心もちて
-旭の御旗世にかざゝん
-やさしく清き心もちて
-旭の御旗世にかざゝん
+二　治（をさ）まる御代（みよ）の、天足（あまた）る日に、
+あふぐもうれし、朝日の旗。
+やまと心（ごころ）を、よそに示（しめ）し、
+あな尊（たふと）しと、いざかざさん。」
 ```
 
 ## ABC
@@ -63,33 +66,34 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](waga_kokki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2amVuQiqobaFh6Zp5VeWpxSWpRXnxuak5-SqUSl5aWwrOOiU_ndD-bPl1BS4tL0VbB0ozL3lbBSYfLxkTfxA5kwLPZm97vmfVs7YRnWzYB2WBDX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dL9cPeP52s7nyyc-n7L96doJz6eseL-nAxSGesAw1AOF4fs9nUpcXPpaCrbUAlwKCgpP--Y_m73jxeb2Fyu6XnS0Ax3zYuW8p60rnk1rBzrg6YbeZ-2dCgGGhhZ6WQXp7_f0ABW_XNCoUKCnYGII5AKd_WRXz8v23pfzNz9fs0bBUOHlsmlAlwIDA2T6i1X7nzUsB5nb3fti5nyg6It1XY-b176cuh0oBfKhwsuZvS9WzABLdj5uaAQGqAJQMVDq-Zx5L-cuej573ePmboVHM1faWpoBLQTZ1rwCYuHTCR3A8AMKPt2z8cXW7SD7wZpfNmx62roUaB4XyA1PdjQ8bmh4MWHN48Z1wFh83Lj6ceP8x40THjduetzU9Lxl4ePGXpC6x40rHjd1PG6c-rgRqGjd48Y9j5uAcb4WyAbGPFhFUwNYbuuzTiBj9bOpWx83rn_c2PS4qfNx4wyQCkhCebquA0Ur2BW7gLHc8HJ2y-OGVqDnHjdNetw0F-TlxumPG_ufrV0GdMXT_c1AFz1uBLpoGdg0sAlP9y0EGvJkxzSwy4HWTwPqfNw0GeKiFrCDwWbsaCXLDMrTERQoaOlzcfkmArNQQGJRiaFDjUFNNcgCBRsLLTswA5h4IVH1dEP_8_UNwOTwuHmFgr7C4-ZNIM0gJTUKBgq6cFydm1arYBoPZNWAQxFkAjCagVH6YmGPgoaJAsQgTbBJa4HmtAJxHzBY1gMNAqUbMG7aD-I1bQDyJgHxIiDuAousVdB43NwBckDTIk2ECwyB9ukCSSMgaQyyG5isQCIQHkgUogYmjxABQZC7sTh5Vw8WJ68A2rwViFeDnQ1y8hwgBvKaFoEdCJQDOxnopeZ-sMh-kJMXgMNsCa2dvKMT08lgp04F4g6gYzaDnQwKd1BIt0HDFORUkAceN68Ei-x43LwH5Or1GAENcgXILSAXgdwCE4G4EeSDGrhrQfIQn8HUgF2M6eyns2djcfYacKKAOHQe2NkgB-IPaSqGLgjXcNUi5Q8jwvmDnDwB12IMUgF0TjxyOCmYQUQhwWmOJAZmIwlCtRNIzuTahlAEVUnIOkhShFsHVgFWiGwIVBRiHSIOwBYjrEVSZ4Q3BdHGc_CUoGunAEoMCkBamQsA)]
-- [鋼琴伴奏 TMD 檔案](waga_kokki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjWMfHpnO5n06e_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRWcdLhsTPRN7LjqFJSezd70fs-sZ2snPNuyCchWAom9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrl6xvO1nc-XT3w-ZfvTtROeT1kBdICRgZGBnoGBmZ6BhYkF0HolLi7fxMw8q4DMxLz8IA-HGoOaai4FILCx0LIDM_S1FJ7u2fhi6_anG_qfr29Q0NIHC9coGCjownF1blqtgmk8kFXDBdP1fM2aJzsaXizsQWgxBCrQBZJGQNIYpFjBBCwC4YFEIWpg8ggREARZhMWOXT20t2NHJ4odID0gnSD9IJ0wEYiJIPtq4GaD5CHugKkBm49pydPZs6nsERCu4apFjmIfWkexMUgF0EHxyN5UMIOIQkLDHEkMzEYShGonNrJJtA2hCKqSkHVo8Q5WAVaIbAhUFGIdIhbAFiOsRVJnRFwCoKrn4GlB104BlBwUgLQyFwA)]
+- [主旋律 TMD 檔案](waga_kokki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNETSWVCUX5aal5gH1F1QBHJIClg7QkFqWWZKKki6ODkxL74stSgzLTM1BcmJqUXFYG9ArCgpSswrTi7KLAD5DaEqv6gkIz-9KLEgo9IqI7O4JL8oMzkxJz47MQ_JtyUZqUDPFiSWFGXml2QW5yJrz0zPzLPKTc3MysTiPah0eWpxSWpRXnxuak5-SqUSl5aWwrOOiY8be57O6X42fbqClhaXoq2CpRmXva2Ckw6XjYm-iR3IjBcr573fM-vJjt4XKzeDDX02exNQ4NnaCc-2bAKywWIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6X66e8Xxt5_PlE59P2f507YTnU1a839MBijs9YNzpgeLu_Z5OJS4ufS0FW2oBLgUFhad985_N3vFic_uLFV0vOtqBjgH67WnrimfT2oEOeLqh91l7pwIoAehlFaS_39MDVPxyQaNCgZ6CiSGQC3T2k109L9t7X87f_HzNGgVDhZfLpgFdCgwMkOkvVu1_1rAcZG5374uZ84GiL9Z1PW5e-3LqdqAUyIcKL2f2vlgxAyzZ-bihERjCCkDFQKnnc-a9nLvo-ex1j5u7FR7NXGlraQa0EGRb8wqIhU8ndADDDyj4dM_GF1u3g-wHa37ZsOlp61KgeWAPtu96MXPqixW7gbYA7QcaDNUMDvmXs9tA6kAKn-xoeNzQ8GLCGqCSx01A1Pu4EWTI48Z1wNQAEmzsf9y4GiyyGujSx43zHzdOeNy46XFT0-PGVY8bgXHbCPb0xgnPlq17NgMUgI8bV4DMapz6uLEbaNDjxj0g_U3dQKXP5sx9Nh1oAVAWqB-oAJiCQJYB0x1YcD3QAnCYNIG9MWEi2F0NQIPA6raCjG6cDHYmyDnPpm4Fa1sGdAhYAVB_0-MmIGMG1F2QlA20E2TJnDUg5zQ0Ar0G8uC-hTBr9yPb_LihFxI2u4BptOHZpt1gN0wCOhdsxT6gT4Ban-xeDNXa1AHxA8jgJStfbNsM894-qJFNwGwFtB_kYJC5YDmgTyaAw7DtcVPP48bp8LCBBAY0AB43tYCNWfF0fzPY1CkQ34NNnQSKD1A4zwWa_XzJLrCC6Y-bGsHOAZkIt23V0w1dYGlg7IHCEKoCGJigKAXaMQ0cVUBy6uOmydAwAGqmPLtBgYKWPhdXeGJ6ond-dnamVUBmYl6-oUONrmFNNcgeBRsLLTswA5jVIQn76Yb-5-sbQPpAwjUKBgq6cGwaDyRqwBI-hjUKIB4MAwMEIWeELjcJLAezCJh3gOn_xcIeBQ0TBYh9msDcAsyqCo-bW4G4D6hlPdBuUGYE46b9IF7TBiBvEhAvAuIusMhaBY3HzR0K-kDmIk2Eow2B9ukCSWMwCbQbKqKrYAZyEEQI7BsQ0wiIQSprwCwQxOJZYOyDpYD5FIjXgVn9YE3AVADVBmEBYxsqPgHM2wQOgiYwexVUBmIWNHgaV6AEHTAxQE3bB9TXDWbth-gDBzJEDuICkKkgHfvg9sJ0gGxFdhvEJrB6lIjY1YMlIlYAjdkKxKvBkQGKiDlADOQ1LQI7AygHjghgRDX3g0X2gyJiASgimpeQHREgVaAoQKjCGhGQQAAFEzD3wAMD5Nk9sOCBBgIseEABCo0IaMCth8qAggwePE0NaBGxFWrTBHgEtkEjogceEdPJsqkFIyJ2dGJGBDgCgN4EJvHHTZvBEQHKI6Bc0QZN_6AIAEXL4-aVYJEdQNYeUGSsx8gVkNRtBE_zNeAAB0EQDckBJlAWOHpQ48IcJIQeGeAIAHkTmCTA6RhYUEKDCJbGYbliGTQgQOKQYIEEG7DegMrMgOkA-gAkDs5fSNEBSuWQ_AIskbHbBS5qoIURUH4ukv3giGpqhMqAeEh2YeaMp7NnY4mQNUgpH5wXQFGDVmCB5OYj5Qyq5gYQRg5_SEIEJTloggMnVJAMKDaQywrk0gomBipXsCdRpHgGhz2o5IKUMZBsAS21kEMSGv_gpA2kp4F5kIwIYYMyByhIQLGGak8tRi1lNHhqKbgtxiB1wIiJh9gB5sJFdRVM0AXBBFgU4iYIG2e5BknEw7OCoSwMwUrBUkhKR1zdAA9DaDICUuByA1wwI0oJEA1Nb2BpROChh6DRiCzRaZQUh23BrGunAC-bo30MYxVQBYzAAspcAA)]
+- [鋼琴伴奏 TMD 檔案](waga_kokki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNETSWVCUX5aal5gH1F1QBHJIClg7QkFqWWZKKki6ODkxL74stSgzLTM1BcmJqUXFYG9ArCgpSswrTi7KLAD5DaEqv6gkIz-9KLEgo9IqI7O4JL8oMzkxJz47MQ_Jt4lFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKrgsSSosz8ksziXGR7MtMz86xyUzOzMrGEA1S6PLW4JLUoLz43NSc_pVKJS0tL4VnHxMeNPU_ndD-bPv39no6X3XueT9jyZM-Wp0v7n3d2vN_TqaClxaVoq2BpxmVvq-Ckw2Vjom9iBzL4xcp57_fMerKj98XKzWCbns3eBBR4tnbCsy2bgGyw2Iv2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6Xq2c8X9v5fPnE51O2P1074fmUFUAXgWJeDxjzeqCYB7pHiYsrPDE90Ts_OzvTKgAUWoYONbqGNdVcCkBgY6FlB2boayk83bPxxdbtTzf0P1_foKClDxauUTBQ0IVj03ggUQOW8DGsUQDxYPhxUwdCzghdbhJYDmbR8zVrnuxoeLGwB2GLIVCBLpA0BpNAxVARXQUzkAkQIbD1IKYREINU1oBZIIjFdY-besFSjxuXAvE6MKsfrOlx42qoNgjrceN8qPgEMG8T2M1NYPYqqAzELKh_Gleg-PVx41SoafuA-rrBrP0QfeBQgchBXAAyFaRjH9xemA6Qrchug9gEVo8Scrt6KAg5kCpQmCFUYQ05iKtB_nrcCHEdyPUg1-2B-Qfqaph_QCEADTmoT9dDZUB-hPunqQEt5LZCbZoAD_E2aMj1wENuOlk2tWCE3I5OlJCDpB0jeIqqAYcOCIJoSPoygbLAYYkacOYgIfSQA4cWyE1boankceNkqH9gKQiW5pZBXQ0Sh_gB4sfHTZ1QmRkwHc2gUH_cBE69SGEHSkOQ1Pi4cQp2u8A5D5o3gfJzkewHh2pTI1QGxEOyCzPdPZ09m-rpDoSRAw8S5aDIhUYtOEmAZEBBiZyNkDMyTAyU5bAnBqRIAgccKFNDsh8kAUIzNHIwQCMPnIiA9DQwD5LkIWxQMgQFNSjIUe2pxShxjQZhiWsMUgeMmHiIHWAuXFRXwQRdEEyARSFugrBxliCQFDjMy16ywhCsFCyFpHTklsLQZASkwOUGuFRFlBIgGprewNKIwEMPQaORXRxTNymOlILZxwO5ZDaBlsygIhgETePjoa4DJsh4YAhpAwMMzkASMwEqNInXBqZQNEEjqEqQSRA2paYiTEISRDUUqgQYrwgWdqsQNiDbhbACxKKJcw0gsaFrpwCPkGgfw1gFVAEjsIAyFwA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 我國旗 ]
+📊 TMD Song Profile: [ 我が國旗 ]
 ================================================================================
-⏱  Duration:       0:42 (42.5s), 17 measures total
+⏱  Duration:       1:20 (80.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 B,, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F4 (MIDI 65) – D#5 (MIDI 75) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [Main #1 @ m.1, 0:01]
-   - 最高音: D#5 in [Main #1 @ m.3, 0:05]
+   - 最低音:  F4 in [WagaKokki[L1] #1 @ m.1, 0:01]
+   - 最高音: D#5 in [WagaKokki[L1] #1 @ m.12, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (42.5s)
+🏛  結構:      WagaKokki[L1] (40.0s) -> WagaKokki[L2] (40.0s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
-🗝  調性診斷：       A# 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  F, D, A#, C, G
-   - 調性數值:    A# 調性不明確 [相關度: 0.86, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A# 大調 (0.86), F 大調 (0.83), D 小調 (0.73)
-   - 五度圈歷程:   -2
+   - 核心骨幹音:  D, A#, F, D#, C
+   - 調性數值:    A# 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.83), D 小調 (0.72), G 小調 (0.57)
+   - 五度圈歷程:   -2 -> -2
    - 各段落調性細節:
-     • [Main #1]: A# 調性不明確 (r: 0.86, 自然音純度: 100.0%)
+     • [WagaKokki[L1] #1]: A# 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [WagaKokki[L2] #1]: A# 大調 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -102,28 +106,28 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████████████         17.2%
+     C  : ██████                     8.2%
      C# :                            0.0%
-     D  : ████████████████████      20.5%
-     D# : ██████                     5.7%
+     D  : ████████████████████████  33.6%
+     D# : ████████                  10.7%
      E  :                            0.0%
-     F  : ████████████████████████  24.6%
+     F  : ███████████               15.6%
      F# :                            0.0%
-     G  : ████████                   8.2%
+     G  : ████                       4.9%
      G# :                            0.0%
-     A  : █████                      4.9%
-     A# : ██████████████████        18.9%
+     A  : █                          1.6%
+     A# : ██████████████████        25.4%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Part1         : F4 – D#5 (10 個半音 / 0.8 個八度, 53 個音符)
-  - Part2         : C4 – C5 (12 個半音 / 1.0 個八度, 53 個音符)
+  - Piano1        : F4 – D#5 (10 個半音 / 0.8 個八度, 106 個音符)
+  - Piano2        : C4 – A#4 (10 個半音 / 0.8 個八度, 106 個音符)
 ================================================================================
 ```
 
 
 ## 原書掃描頁
 
-![我國旗 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P118.jpg](P118.jpg)
+![我が國旗 — 《新定兒童唱歌》 高等科 男子一二年 原書掃描頁 P118.jpg](P118.jpg)
 
 

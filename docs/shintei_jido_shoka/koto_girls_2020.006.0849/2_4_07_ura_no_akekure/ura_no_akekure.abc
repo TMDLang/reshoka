@@ -3,35 +3,141 @@ T:浦のあけくれ
 C:曲：モッツインギ（伊）（Joseph Mazzinghi）
 M:4/4
 L:1/16
-Q:1/4=160
+Q:1/4=100
 K:G
-V:V1 name="Part1" snm="Par"
-V:V2 name="Part2" snm="Par"
-V:V3 name="Part3" snm="Par"
+V:V1 name="Piano1" snm="Pia"
+V:V2 name="Piano2" snm="Pia"
+V:V3 name="Piano3" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 D4 | G8 A8 | B6 A2 G4 z4 | c6 c2 c3 d e2 c2 |
-A8 z4 z4 | d6 c B A4 G4 | F4 z4 G8 | A6 A2 A2 B A G2 F2 |
-E8 z4 z4 | d8 e4 ^c4 | A2 B2 ^c4 z4 z4 | d6 e d ^c4 B4 |
-A8 d8 | ^c4 A4 d4 z4 | B4 G4 ^c8 | d4 A4 B2 d ^c B2 A2 |
-D8 z4 z4 | !f! B6 B2 A2 B2 c2 d2 | e4 c4 z4 A2 B2 | c2 d2 e2 f2 g4 z4 |
-f8 e8 | d4 z4 e2 f2 g2 e2 | d4 c4 B4 z4 | !p! A6 A2 A4 d4 |
-B4 G4 A6 A2 | A4 B4 c4 A4 | !f! B8 z4 d4 | d6 d2 d4 d4 |
-d8 B4 d2 B2 | G4 A4 G8 |
+!mf! z4 z4 z4 D4 | G8 G8 | A6 F2 G4 z4 | A6 A2 B3 A B3 c |
+w: ム | ラ サ | キ ー ノ | ヨ コ グ ー モ ー
+A8 z4 z4 | d8 d2 c2 A2 F2 | G8 z4 A4 | B6 B2 B2 A2 G2 A2 |
+w: ハ | ソ ー ー ラ ー | ニ タ | ナ ビ キ ー タ ー
+G8 z4 z4 | c8 e4 c4 | B2 d6 z4 z4 | A8 c2 A2 G2 F2 |
+w: リ | ウ ミ ハ | イ マ | サ ー ー メ ー
+G8 z4 z4 | c16 | c3 B B4 z4 B4 | A6 A2 c2 A2 G2 F2 |
+w: テ | ユ | メ ヂ ノ ヤ | ミ ヲ イ ー デ ー
+G8 z4 z4 | !f! B6 B2 B2 c2 c2 d2 | e8 B4 z4 | B4 c2 d2 e4 e4 |
+w: ヌ | ヨ リ ク ー ル ー | ナ ミ | カ ヘ ー ル ナ
+d8 z4 z4 | d8 c8 | B8 z4 B2 c2 | d4 c2 B2 A4 A4 |
+w: ミ | サ ラ | リ サ ー | ラ ト ー ヒ ビ
+G8 z4 z4 | !p! A6 A2 A8 | B8 A4 z4 | G6 G2 A4 A4 |
+w: キ | マ ツ ノ | カ ゼ | ソ ヨ ト フ
+B8 z4 z4 | !f! B6 B2 B4 B4 | B12 c4 | d4 c2 B2 A4 A4 |
+w: ク | ノ ド カ ナ | ル ケ | フ ノ ー ウ ミ
+!mf! G8 z4 D4 | G12 G4 | A6 F2 G4 z2 G2 | A6 A2 B3 A B3 c |
+w: ヤ ア | ミ ヲ | ツ ヅ ル オ | キ ナ ノ ー カ ー
+A8 z4 D4 | d8 d2 c2 A2 F2 | G8 A8 | B8 B2 A2 G2 A2 |
+w: ゲ ア | タ タ ー カ ー | ナ リ | キ ー ー シ ー
+G8 z4 G4 | c8 e4 c4 | B8 z4 B4 | A8 c2 A2 G2 F2 |
+w: ベ オ | キ ニ ハ | シ ラ | ー ー ー ホ ー
+G8 z4 G4 | c16 | B8 z4 G4 | A8 c2 A2 G2 F2 |
+w: ゾ ク | モ | ニ キ | エ ー ー ユ ー
+G8 z4 z4 | !f! B6 B2 B2 c2 c2 d2 | e8 B4 z4 | B4 c2 d2 e4 e4 |
+w: ク | ヨ リ ク ー ル ー | ナ ミ | カ ヘ ー ル ナ
+d8 z4 z4 | d8 c8 | B8 z4 B2 c2 | d4 c2 B2 A4 A4 |
+w: ミ | サ ラ | リ サ ー | ラ ト ー ヒ ビ
+G8 z4 z4 | !p! A6 A2 A8 | B8 A4 z4 | G6 G2 A4 A4 |
+w: キ | マ ツ ノ | カ ゼ | ソ ヨ ト フ
+B8 z4 z4 | !f! B6 B2 B4 B4 | B12 c4 | d4 c2 B2 A4 A4 |
+w: ク | ノ ド カ ナ | ル ケ | フ ノ ー ウ ミ
+!mf! G8 z4 D4 | G8 G4 G4 | A6 F2 G4 z2 G2 | A6 A2 B3 A B3 c |
+w: ヤ ア | マ ノ サ | ヘ ヅ リ タ | ソ ガ レ ー ツ ー
+A8 z4 z4 | D8 F6 A2 | G8 A8 | B6 B2 B2 A2 G2 A2 |
+w: ツ | ト モ シ | ビ ハ | ミ エ ソ ー メ ー
+G8 z4 z4 | c8 c6 c2 | B8 z4 z4 | D8 D6 D2 |
+w: ヌ | ホ ノ カ | ニ | ツ キ サ
+G8 z4 z4 | c12 c4 | B8 B8 | A8 c2 A2 G2 F2 |
+w: ヘ | ソ ナ | レ ノ | マ ー ー ツ ー
+G8 z4 z4 | !f! B6 B2 B2 c2 c2 d2 | e8 B4 z4 | B4 c2 d2 e4 e4 |
+w: ニ | ヨ リ ク ー ル ー | ナ ミ | カ ヘ ー ル ナ
+d8 z4 z4 | d8 c8 | B8 z4 B2 c2 | d4 c2 B2 A4 A4 |
+w: ミ | サ ラ | リ サ ー | ラ ト ー ヒ ビ
+G8 z4 z4 | !p! A6 A2 A8 | B8 A4 z4 | G6 G2 A4 A4 |
+w: キ | マ ツ ノ | カ ゼ | ソ ヨ ト フ
+B8 z4 z4 | !f! B6 B2 B4 B4 | B12 c4 | d4 c2 B2 A4 A4 |
+w: ク | ノ ド カ ナ | ル ケ | フ ノ ー ウ ミ
+G8 z4 z4 |
+w: ヤ
 [V:V2]
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | !f! G6 G2 F2 G2 A2 B2 | c4 A4 z4 F2 G2 | A2 A2 A2 A2 G4 z4 |
-D6 D2 E2 F2 G2 A2 | B4 z4 c2 c2 c2 c2 | B4 A4 G4 z4 | !p! z4 z4 F4 D2 B2 |
-G4 G4 F6 F2 | F4 G4 A4 F4 | !f! G8 z4 G4 | F6 F2 G4 F4 |
-G8 G4 G2 G2 | E4 F4 G8 |
+z4 z4 z4 z4 | !f! G6 G2 G2 A2 A2 B2 | c8 G4 z4 | G4 G4 G4 G4 |
+w: ヨ リ ク ー ル ー | ナ ミ | カ ヘ ル ナ
+G8 z4 z4 | D6 D2 E2 D2 E2 F2 | G8 z4 G4 | G4 G4 G4 F4 |
+w: ミ | サ ラ サ ー ラ ー | リ サ | ラ ト ヒ ビ
+G8 z4 z4 | z4 z4 z4 z4 | !p! d8 d2 c2 A2 F2 | G6 G2 F4 F4 |
+w: キ | カ ー ー ゼ ー | ソ ヨ ト フ
+G8 z4 z4 | !f! G6 G2 G4 G4 | G12 G4 | G4 G4 G4 F4 |
+w: ク | ノ ド カ ナ | ル ケ | フ ノ ウ ミ
+G8 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+w: ヤ
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | !f! G6 G2 G2 A2 A2 B2 | c8 G4 z4 | G4 G4 G4 G4 |
+w: ヨ リ ク ー ル ー | ナ ミ | カ ヘ ル ナ
+G8 z4 z4 | D6 D2 E2 D2 E2 F2 | G8 z4 G4 | G4 G4 G4 F4 |
+w: ミ | サ ラ サ ー ラ ー | リ サ | ラ ト ヒ ビ
+G8 z4 z4 | z4 z4 z4 z4 | !p! d8 d2 c2 A2 F2 | G6 G2 F4 F4 |
+w: キ | カ ー ー ゼ ー | ソ ヨ ト フ
+G8 z4 z4 | !f! G6 G2 G4 G4 | G12 G4 | G4 G4 G4 F4 |
+w: ク | ノ ド カ ナ | ル ケ | フ ノ ウ ミ
+G8 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+w: ヤ
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | !f! G6 G2 G2 A2 A2 B2 | c8 G4 z4 | G4 G4 G4 G4 |
+w: ヨ リ ク ー ル ー | ナ ミ | カ ヘ ル ナ
+G8 z4 z4 | D6 D2 E2 D2 E2 F2 | G8 z4 G4 | G4 G4 G4 F4 |
+w: ミ | サ ラ サ ー ラ ー | リ サ | ラ ト ヒ ビ
+G8 z4 z4 | z4 z4 z4 z4 | !p! d8 d2 c2 A2 F2 | G6 G2 F4 F4 |
+w: キ | カ ー ー ゼ ー | ソ ヨ ト フ
+G8 z4 z4 | !f! G6 G2 G4 G4 | G12 G4 | G4 G4 G4 F4 |
+w: ク | ノ ド カ ナ | ル ケ | フ ノ ウ ミ
+G8 z4 z4 |
+w: ヤ
 [V:V3]
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
 z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
-z4 z4 z4 z4 | !f! G6 G2 D4 D4 | C4 D4 z4 D4 | D4 D4 E4 z4 |
-B8 A8 | B2 A2 G2 F2 E2 D2 C2 E2 | G4 D4 G,4 z4 | !p! F6 F2 F4 z4 |
-G4 E4 D6 D2 | D4 G4 D4 D4 | !f! G8 z4 G4 | A6 A2 B4 A4 |
-G8 E4 B,2 B,2 | C4 D4 G,8 |
+z4 z4 z4 z4 | !f! G6 G2 G4 G4 | G8 G,4 z4 | G4 A2 B2 c4 c4 |
+w: ヨ リ ク ル | ナ ミ | カ ヘ ー ル ナ
+B8 z4 z4 | B8 A8 | G4 G2 F2 E4 D2 C2 | B,4 A,2 G,2 D4 D4 |
+w: ミ | サ ラ | サ ラ ー リ サ ー | ラ ト ー ヒ ビ
+G,8 z4 z4 | !p! D6 D2 D8 | G8 D4 z4 | B,6 B,2 D4 D4 |
+w: キ | マ ツ ノ | カ ゼ | ソ ヨ ト フ
+G8 z4 z4 | !f! G6 G2 G4 F2 E2 | D12 C4 | B,4 A,2 G,2 D4 D4 |
+w: ク | ノ ド カ ナ ー | ル ケ | フ ノ ー ウ ミ
+G8 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+w: ヤ
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | !f! G6 G2 G4 G4 | G8 G,4 z4 | G4 A2 B2 c4 c4 |
+w: ヨ リ ク ル | ナ ミ | カ ヘ ー ル ナ
+B8 z4 z4 | B8 A8 | G4 G2 F2 E4 D2 C2 | B,4 A,2 G,2 D4 D4 |
+w: ミ | サ ラ | サ ラ ー リ サ ー | ラ ト ー ヒ ビ
+G,8 z4 z4 | !p! D6 D2 D8 | G8 D4 z4 | B,6 B,2 D4 D4 |
+w: キ | マ ツ ノ | カ ゼ | ソ ヨ ト フ
+G8 z4 z4 | !f! G6 G2 G4 F2 E2 | D12 C4 | B,4 A,2 G,2 D4 D4 |
+w: ク | ノ ド カ ナ ー | ル ケ | フ ノ ー ウ ミ
+G8 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+w: ヤ
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 | z4 z4 z4 z4 |
+z4 z4 z4 z4 | !f! G6 G2 G4 G4 | G8 G,4 z4 | G4 A2 B2 c4 c4 |
+w: ヨ リ ク ル | ナ ミ | カ ヘ ー ル ナ
+B8 z4 z4 | B8 A8 | G4 G2 F2 E4 D2 C2 | B,4 A,2 G,2 D4 D4 |
+w: ミ | サ ラ | サ ラ ー リ サ ー | ラ ト ー ヒ ビ
+G,8 z4 z4 | !p! D6 D2 D8 | G8 D4 z4 | B,6 B,2 D4 D4 |
+w: キ | マ ツ ノ | カ ゼ | ソ ヨ ト フ
+G8 z4 z4 | !f! G6 G2 G4 F2 E2 | D12 C4 | B,4 A,2 G,2 D4 D4 |
+w: ク | ノ ド カ ナ ー | ル ケ | フ ノ ー ウ ミ
+G8 z4 z4 |
+w: ヤ

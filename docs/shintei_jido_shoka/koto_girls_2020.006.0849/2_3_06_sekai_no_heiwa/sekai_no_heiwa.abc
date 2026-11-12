@@ -7,10 +7,21 @@ Q:1/4=108
 K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z4 F2 B2 | c4 F2 c2 d4 F2 d2 | e4 z4 z4 d2 c2 | B3 c d2 f2 c4 d4 |
-f12 F2 B2 | c4 F2 c2 d4 c2 d2 | e4 z4 z4 c2 d2 | e3 e e2 A2 d4 c4 |
-B8 F4 F2 f2 | f4 d4 B4 c2 d2 | c12 z4 | G4 A4 B4 G4 |
-c4 B4 G4 E4 | F4 B4 A3 B c4 | _d3 c B2 A2 B4 G4 | F8 z4 G2 F2 |
-D8 =E4 C4 | F4 F2 G2 A4 A2 B2 | c8 F4 c2 c2 | !f! g3 f e2 c2 B4 A4 |
-B12 z4 | z4 F2 B2 c8 | z4 G2 c2 d8 | z4 f2 d2 B4 c2 A2 |
-B12 z4 |
+z4 z4 z4 F3 B | d4 B3 G B4 F3 D | F8 z4 F3 F | G6 G2 B3 A B2 c2 |
+w: 1.~イ ハ | ヘ イ ハ ヘ イ ハ | ヘ ア ダ | ナ ス ク ー ロ ー
+w: 2.~う た | へ う た へ う た | へ じ ゆ | う の つ ー る ー
+d8 B4 c3 B | G4 B4 c4 d4 | F8 z4 F3 F | G6 G2 B3 G F2 D2 |
+w: 1.~ク モ イ マ | シ モ サ リ | テ セ カ | イ ノ ヘ ー イ ー
+w: 2.~ぎ は しょ う | り を を さ | め じ ん | る い へ ー い ー
+F6 G2 F4 B3 c | d4 B4 c4 F4 | B8 z4 d3 d | d8 B4 c3 B |
+w: 1.~ワ ー ヲ モ タ | ラ ス メ ガ | ミ コ ガ | ネ ノ ミ ク
+w: 2.~わ ー の り さ | う の ひ か | り う み | に も り く
+G8 F4 F3 F | B2 G2 F2 D2 G2 F2 D2 B,2 | C8 z4 C3 C | D8 B,4 D3 D |
+w: 1.~ル マ オ ト | ト ー ド ー ロ ー カ ー | ス マ ガ | ツ ミ サ リ
+w: 2.~に も か が | や ー き ー そ ー め ー | ぬ せ か | い の く に
+F8 D4 F3 F | G3 F G3 A B3 F B2 c2 | d8 z4 B3 B | B8 z4 B3 B |
+w: 1.~ニ シ ヒ カ | リ ー ノ ー ケ フ ー ー | ヲ イ ハ | ヘ イ ハ
+w: 2.~た み こ ゑ | を ー そ ー ろ ー へ ー | て う た | へ う た
+c8 z4 c3 c | F4 B4 d4 c4 | B8 z4 z4 |
+w: 1.~ヘ ヒ ト | ビ ト イ ハ | ヘ
+w: 2.~へ と ど | ろ に う た | へ

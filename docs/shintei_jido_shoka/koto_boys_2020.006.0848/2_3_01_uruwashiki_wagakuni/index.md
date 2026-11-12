@@ -38,7 +38,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P105.jpg，書頁 p. 28 [原印誤植為 23]，高二第三學期第 1 首）：
-調性與拍號：イ長調（3 升記號）、4/4 拍（優美ニ快活ニ ♩=108，弱起後半拍三連八分音符進入）
+調性與拍號：イ長調（3 升記號）、4/4 拍（優美ニ快活ニ ♩=108，弱起 1.5 拍進入）
 出處註記：（松邑三松堂發行檢定唱歌集）
 
 
@@ -74,8 +74,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](uruwashiki_wagakuni.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2amVuQiqobaFh6Zp5VbmpmViYWl0Gly1OLS1KL8uJzU3PyUyqVuLS0FF7umv64cf3jRiDZ-6xj4tM53QpaWlyKtgqGBhZc9rYKjlw2JvomdiCTns3e9H7PrOe9K4CKXi5aAeSCLXjRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9cvWM52s7ny-f-HzK9qdrJzyfsuL9ng5QcOsBg1sPFNzv93QqcXHpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q50zIuV8562rng2rR3ogKcbep-1dyoEGBqY6mUVpL_f0wNU_HJBo0KBnoKRhUI0UPfT3g0vVi15tqT3edMuBSPjWKAaoF-e7Op5vmbNkx2dT9fueDZnPpCtYKjwctk0oCeAQQWy-MWq_c8aloOs7O59MXM-UPRx05KXU7cDxYEWGys87QU6aQZYpvNxQyMwrBWAKkFualn1fF_f4-bup_tXP9uyG8hQeDRzpS0wWoBWP92z8cXW7U_39Tzt7QIqBzrgZcPip62rn3a0vZy_-fmaZS8bNj1tXQo0E-z59l0vZk59sWI30CagA4CGP5u772XTRKA2IOPpgqbnM_e8WNjzbNUiUISBo-rl7DaQZpDuJzsaHjc0ANMJUN_jxrbHTd0gp0LSTFPL48YmELsJGLkNT5csfzqp5-nmbc8W7AQpBsnue9y4Apy6gIy1UPc82b0BbBZQ51awWX0vlnU_bgJrgJCoZoH9sHEj0J7n2xaAde5_3LjycVMXWPPqx43LgBqe7WgFS_UCjQCJNwGlJgK5zxc0gcWBbpn6uHEK1AnwZI9I_0Ajpm4HWghWDcoOEGeD7VgHcQ6yp-DBswvkdYQxuIME6nWivPuiC-zdLRA_9YMMa1z1uGkC1McNDcCQeLa_GSw7GSzY-2z-Zpj7VgHtIOxRuLeg0QxMf9T3x_TGpxuBCQYoDfQEMFZagO4CBVnjEpCFjUtAdq4FJUlw0poElH3Z2PW4cdvTDf1Pt88Fa5z0uBGofj2pHno6ezYNPPR89rrHTRBjuoH2Pdu6HRIfL-fMA3sCKDgTHB_7gTkKGHNPd7Q93bsRLLUbLAvyItH-AKqjvPyDAgUtfS4u30RgNRCQmZiX71Cja1hTDbJBwcbQTMsOzAIWu9CiZUP_8_UN4NJqmcLj5tVA3A8yAKSoRsFAQRcMkenq3LRaBdN4IMsMRJiDiBpwRIBMBZeSDcAgARu5HWjcEoXHTYseN-8BmQyiaoCMNWBxEGseRKYDTDVth_DAgiDZXgUNoGYgYypQcp0mwmGGUAeBoDEQG4FZhhDXgBg1ENchQ5gn4BI1UG3GCiZg2kRdwRQqADHfDKgE7FN0YxDeBwcAqvd39UC93zwf6PIVIK9CvLUC5i1gkIDxPJDPQSLggJoH93LzEn1gYFHBu2BBqAyQgnkYASH-RcAasPHYQg0eDmhx3QnzLMgz_UAM8nQnEK8C4m6wl9qAHlwLDYqVYO9uhIg0QQKmaSskfMCB07QFFOfwtEggEEBixAcCmIAEAsgAUmO9GpbwjUEEmIUSGMCCCCnhI-UnaAyDMcjb2yFJH4j7EKkDnug7sHsZ5gqQGNhuEAN7fIHEQLIgugbobJC7sQQeIuUb4bALma7hquXi0rVTAJUsCkBamQsA)]
-- [鋼琴伴奏 TMD 檔案](uruwashiki_wagakuni_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5a_rjxvWPG4Fk77OOiU_ndL_f0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFQwNLLjsbRUcuWxM9E3suOoUlJ7N3vR-z6znvSuAOl8uWgHkKoGEX7Tvet64-NnUmS-aNj2b0_y0dc2LVb2PG7qeTdvwdN2sp62Tnq9e-nTKxmdrex43dL9cPeP52s7nyyc-n7L96doJz6esALrByMDIQM_AwEzPwMLEAugCJS4u38TMPKuAzMS8_CAPhxpdw5pqLgUgsDE007IDs_S1FJ7u2fhi6_anG_qfr29Q0NIHC9coGCjogiEyXZ2bVqtgGg9kmYEIcxBRwwUz5_maNU92NLxY2IMwxBCqGQSNgdgIzDKE6AQxaiAmIUOYhXCJGqg2YwUTMG2irmAKFYCYbwZUAnYVujEIp4Idi-rUXT1UcSpYECoDpGCORUCIWxGwBmw8Nh_D_YAWpp0EHQoSI96hYALiUJABpIZqNSwRGIMIMAvFwU9nz8bpYJgZIDGwThADe4iAxECyILoGaCnIVixeR6QLIxx2IdM1XLXImcIHJVOYEM4TEFiDL8nHK0QbxgI9B6RN42OBIiYgpgmQaRIP0qtgBOQaxefGQhkgJXDVIAaa-ejplHjzkdRAdQEpdNejJS4qux4jLSC7A40HTE5odkPlIUEOjDhdOwVQ3CkAaWUuAA)]
+- [主旋律 TMD 檔案](uruwashiki_wagakuni.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNDBFyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs5m5BUBLEnOQNWemZ-ZZ5aZmZmVi8RxUujy1uCS1KC8-NzUnP6VSiUtLS-HlrumPG9c_bgSSvc86Jj6d062gpcWlaKtgaGDBZW-r4MhlY6JvYgcy6dnsTe_3zHreuwKo6OWiFUAu2IIX7bueNy5-NnXmi6ZNz-Y0P21d82JV7-OGrmfTNjxdN-tp66Tnq5c-nbLx2dqexw3dL1fPeL628_nyic-nbH-6dsLzKSve7-kAxZgeMMb0QDH2fk-nEheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1Ax7xYOe9p64pn09qBDni6ofdZe6cCKNr1sgrS3-_pASp-uaBRoUBPwchCIRqo-2nvhherljxb0vu8aZeCkXEsUA3QL0929Txfs-bJjs6na3c8mzMfyFYwVHi5bBrQE8CgAln8YtX-Zw3LQVZ2976YOR8o-rhpycup24HiQIuNFZ72Ap00AyzT-bihERjWCkCVIDe1rHq-r-9xc_fT_aufbdkNZCg8mrnSFhgtQKuf7tn4Yut2BUM9U5Dqlw2bnrYuBRoA9mn7rhczp75YsRtoLNA2oEnP5u572TQR6Egg4-mCpucz97xY2PNs1SJQ7IDj5eXsNpBmkO4nOxoeNzQAEwVQ3-PGtsdN3SB3QRJIU8vjxiYQuwkYkw1Plyx_Oqnn6eZtzxbsBCkGye573LgCnJSAjLVQ9zzZvQFsFlDnVrBZfS-WdT9uAmuAkKhmgf2wcSPQnufbFoB17n_cuPJxUxdY8-rHjcuAGp7taAVL9QKNAIk3AaUmArnPFzSBxYFumfq4cQrUCfA0jkjsQCOmbgdaCFYNSvsQZ4PtWAdxDrKn4MGzC-R1hDG4gwTqdaK8-6IL7N0tED_1gwxrXPW4aQLUxw0NwJB4tr8ZLDsZLNj7bP5mmPtWAe0g7FG4t6DRDExs1PfH9ManG4EJBigN9AQwVlqA7gIFWeMSkIWNS0B2rgUlSXDSmgSUfdnY9bhx29MN_U-3zwVrnPS4Eah-Pakeejp7Ng089Hz2usdNEGO6gfY927odEh8v58wDewIoOBMcH_uBOQoYc093tD3duxEstRssC_Ii0f4AqqO8sIMCBS19Lq7QotLyRGDdmZ0ZnpiemF2al2kVkJmYl-9Qo2tYUw2yT8HG0EzLDszCVuIqgAu3BqDnFDRQixwFbQVg2bWh__n6Bh14uamJxQSgO0Cm1ygYKOiCITJdnZtWq2AaD2QZgsWMgOqMofIgCGIbgVmGUNoYqAKiFgFhJsJ01kDVmiqYqEMlYIaYgezSVTCPV6gBO8vHsEYBIqSLQj9uWgYim1eDRR439wMNfdy0HcnSx81LwOoWQXl7wKpgbKDq5jVozoSZD9EJcejj5nlI-jsQbKhdEHGEGqirjYakq42HpKtNhpqr8efmXT3g3GxCWuYF51FkCMpz4MwEyVkmQDUmSNIgNiQ7GkFpkAqIWlRDkFViZm3kwgAcHvBc-7i5F00OEiug0H7cPBUSHk3rwCE4H0nV4-YVYBISwpDQA4kgYgUW9ijmQuISHs4dGLENEYfIY7gXmF-HlHuBOXVIuReYR4eKewnUtZ3k5E5s-QoE4bkWVQkokwFrQAgTUa0i51-YKeAsDq00gRRq7QzSCqu34ZmcQAaFBAtm8QaTARWQsAh63NwJxKug7G6w6jYsZj5uWgtWAYu2leDI2IhsLkRFE1IkN22FswllUoTLYG7uwnRz03oobw1c_nHzBrDqbmxuBvsR5EOIylVgN2_GdDNKwoSZi1yl4nMzxE0QN69EcTMk-cKyxX4guwUqMx-sGsJDD2dIlbcJqmsR2M17UcydhqwCHM6QSg61QsXn5oVIboZUnSjhDK9w-6DuQbgZazg3gdQ_btqJohKiDxbOoFB63Dwbyc0wOwhWp8BuBzjDmlKeYathTWFjSFgA2dibuiAxaM42RMuRMCVITWpQzq5OA5mNpAakB8I3wVP5orfYkfJ20xY0tcQ1ichRCRKF5AUID7PM6AOTyPkEqTkEJCGNJlRzkWmk_A-sIIadv8BlBKz0Gkb-ApUjTZCSZrj4q5aLS9dOAbPbHu1jGKuAQ8YIp4wxThkTsIwyFwA)]
+- [鋼琴伴奏 TMD 檔案](uruwashiki_wagakuni_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowNDBFyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKjO3AOiaxBxkWzLTM_OsclMzszKxhAJUujy1uCS1KC8-NzUnP6VSiUtLS-HlrumPG9c_bgSSvc86Jj6d0_1-T8fL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VTA0sOCyt1Vw5LIx0TexAxn_bPam93tmPe9dAdT5ctEKIBds64v2Xc8bFz-bOvNF06Znc5qftq55sar3cUPXs2kbnq6b9bR10vPVS59O2fhsbc_jhu6Xq2c8X9v5fPnE51O2P1074fmUFUA3gOJbDxjfeqD4BrpAiYsrtKi0PBGYaLIzwxPTE7NL8zKtAkCBFeThUKNrWFPNpQAENoZmWnZglr6Wgi06UHi-Zs2THQ0vFvYoaDzds_HF1u0KhnqmCs-6exW0FYwVnm7of76-QUcBlFL0sgrSNbGYoKUPNr1GwUBBFwyR6erctFoF03ggyxAsZgRUZwyVB0EQ2wjMMoTSxkAVELUICDMRprMGqtZUwUQdKgEzxAxkl66CebxCDdhZPoY1ChAhXRT6cdMyENm8GizyuLkfaOjjpu1Ilj5uXgJWtwjK2wNWBWMDVTevQXMmzHyITohDHzfPQ9LfgWBD7YKII9RAXW00JF1tPCRdbTLUXI0_N-_qAedmE9IyLziPIkNQngNnJkjOMgGqMUGSBrEh2dEISoNUQNSiGoKsEjNrIxcG4PCA59rHzb1ocpBYAYX24-apkPBoWgcOwflIqh43rwCTkBCGhB5IBBErsLBHMRcSl_Bw7sCIbYg4RB7DvcD8OqTcC8ypQ8q9wDw6VNxLoK7tJCd3YstXIAjPtahKQJkMWANCmIhqFTn_wkwBZ3FopQmkUGtnkFZYvQ3P5AQyKCRYMIs3mAyogIRF0OPmTiBeBWV3g1W3YTHzcdNasApYtK0ER8ZGZHMhKpqQIrlpK5xNKJMiXAZzcxemm5vWQ3lr4PKPmzeAVXdjczPYjyAfQlSuArt5M6abURImzFzkKhWfmyFugrh5JYqbIckXli32A9ktUJn5YNUQHno4Q6q8TVBdi8Bu3oti7jRkFeBwhlRyqBUqPjcvRHIzpOpECWd4hdsHdQ_CzVjDuQmk_nHTThSVEH2wcAaF0uPm2UhuhtlBsDp9Ons2OMOaUp5hq2FNYWNIWADZ2Ju6IDFozjZEy5EwJUhNalDOrk4DmY2kBqQHwjfBU_mit9iR8nbTFjS1xDWJyFEJEoXkBQgPs8zoA5PI-QSpOQQkIY0mVHORaaT8D6wghp2_wGUErPQaRv4ClSNNkJJmuPirFnev3Qel124C7bSDutUQCMy-8QrRhrHAvA-kTeNjESJACiQPlzAC0kYgBfDGPVQCxACpNAHyTYB8qH4sKhAmgxXgMghFAOoomOFAmgSTUL2ClYfpcXC4gAJV104BM1yjfYBKcMgY4ZQxxiljApZR5gIA)]
 
 ## 分析
 
@@ -83,24 +83,27 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 麗はしき我國 ]
 ================================================================================
-⏱  Duration:       0:35 (35.6s), 16 measures total
+⏱  Duration:       2:22 (142.2s), 64 measures total
 🎼 Key & Tempo:    首調基準 A, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C#4 (MIDI 61) – F#5 (MIDI 78) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  C#4 in [Main #1 @ m.13, 0:28]
-   - 最高音: F#5 in [Main #1 @ m.4, 0:08]
-   - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (35.6s)
+🎤 人聲音域:    C#4 (MIDI 61) – E5 (MIDI 76) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C#4 in [UruwashikiWagakuni[L1] #1 @ m.13, 0:28]
+   - 最高音: E5 in [UruwashikiWagakuni[L1] #1 @ m.4, 0:07]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      UruwashikiWagakuni[L1] (35.6s) -> UruwashikiWagakuni[L2] (35.6s) -> UruwashikiWagakuni[L3] (35.6s) -> UruwashikiWagakuni[L4] (35.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, E, F#, C#, B
-   - 調性數值:    A 大調 [相關度: 0.88, 穩定度: Moderate, 自然音純度: 99.1%]
-   - 候選調性 (K-S): A 大調 (0.88), F# 小調 (0.78), E 大調 (0.71)
-   - 五度圈歷程:   +3
+   - 核心骨幹音:  C#, B, A, E, D
+   - 調性數值:    A 大調 [相關度: 0.77, 穩定度: High, 自然音純度: 98.7%]
+   - 候選調性 (K-S): A 大調 (0.77), E 大調 (0.60), C# 小調 (0.58)
+   - 五度圈歷程:   +3 -> +3 -> +3 -> +3
    - 各段落調性細節:
-     • [Main #1]: A 大調 (r: 0.84, 自然音純度: 99.1%, 調外音: D#)
+     • [UruwashikiWagakuni[L1] #1]: A 大調 (r: 0.72, 自然音純度: 98.7%, 調外音: D#)
+     • [UruwashikiWagakuni[L2] #1]: A 大調 (r: 0.77, 自然音純度: 98.7%, 調外音: D#)
+     • [UruwashikiWagakuni[L3] #1]: A 大調 (r: 0.77, 自然音純度: 98.7%, 調外音: D#)
+     • [UruwashikiWagakuni[L4] #1]: A 大調 (r: 0.77, 自然音純度: 98.7%, 調外音: D#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -114,20 +117,20 @@ tmd_source:
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : ████████████████          15.4%
-     D  : ████                       3.8%
-     D# : █                          0.9%
-     E  : ███████████████████████   21.4%
+     C# : ████████████████████████  24.8%
+     D  : █████████                  9.4%
+     D# : █                          1.3%
+     E  : █████████████             13.7%
      F  :                            0.0%
-     F# : █████████████████████     20.1%
+     F# : █████                      4.7%
      G  :                            0.0%
-     G# : █████                      5.1%
-     A  : ████████████████████████  22.6%
+     G# : ██                         1.7%
+     A  : ████████████████████      20.9%
      A# :                            0.0%
-     B  : ███████████               10.7%
+     B  : ███████████████████████   23.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C#4 – F#5 (17 個半音 / 1.4 個八度, 74 個音符)
+  - Piano         : C#4 – E5 (15 個半音 / 1.2 個八度, 288 個音符)
 ================================================================================
 ```
 

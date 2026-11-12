@@ -4,7 +4,7 @@ song_title: "千代田の宮"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_3_01_chiyoda_no_miya"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈千代田の宮〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：桑田春風、曲：R. Groos（グロース）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：すめらみこと　知ろしめす 大御代こそ、めでたけれ。…"
+description: "〈千代田の宮〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：桑田春風、曲：R. Groos（グロース）），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：すめらみこと　知ろしめす 大御代こそ、めでたけれ。…"
 keywords: "千代田の宮, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 桑田春風, R. Groos（グロース）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -13,7 +13,7 @@ credits:
   - "曲：R. Groos（グロース）"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）"
-musical_key: "F"
+musical_key: "B,"
 meter: "4/4"
 tempo: "96"
 image:
@@ -40,7 +40,7 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P061.jpg，書頁 p. 26，高一第三學期第 1 首）：
-調性與拍號：ヘ長調（1 降記號）、4/4 拍（誠ヲ込メテ ♩=96）
+調性與拍號：變ロ長調（2 降記號）、4/4 拍（誠ヲ込メテ ♩=96，前 4 小節反覆）
 出處註記：（松邑三松堂發行檢定唱歌集）
 
 
@@ -51,13 +51,13 @@ tmd_source:
 すめらみこと　知ろしめす
 大御代こそ、めでたけれ。
 御垣の松、榮え行く、
-千代田の宮を、仰げや。
+千代田の宮を、仰げや。」
 
 二
 空ゆく日と、御稜威照る、
 大君こそ、尊とけれ。
 皇國の本、搖ぎなき、
-千代田の宮を、仰げや。
+千代田の宮を、仰げや。」
 ```
 
 ## ABC
@@ -68,8 +68,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](chiyoda_no_miya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89GyBcU5Zel5iXmAdUUFIGsSwErQihILctMSQVJp6ZkluQXZSbmIDkitagY7FCwJfElRYl5xclFmQUg1yNUlWSkAl2amVuQiqobaFh6Zp5VbmpmViYWl0Gly1OLS1KL8uJzU3PyUyoxpEsSM4EhAwqd8sT43MTMvJzEvBQlLi0thae9zU92L34-ZcPjxnVP161T0NLiUrRVsDTjsrdVcOOyMdE3sQMZ9mLlvPd7Zj1bOBGo8tmMpS8XrQDb8Wz2JqBwkJ6Ce1F-fvH7PR2PmzY8bl77uHnP46ad7_d0ghW9aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNz9b2PG7ofrl6xvO1nc-XAy3a_nTthOdTVgBNBcWaHjDW9ECxBjaWS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oGOAXn7auuLZtHagA55u6H3W3qkQYGBmqJdVkP5-Tw9Q8csFjQoFegpGZkAu0NlPdjQ8X7PmyY7Op2t3PJszH8hWMFR4uWwa0L3AMALZ8WLV_mcNy0Gmd_e-mDkfKPq4ecbLqduB4kA7gIpn9r5YMQMs0_m4oREY9gpAlUCpF6sWPG7e9GLfnsfNCx83tyk8mrnS1hJobSfY5e27Xsyc-mLFbqBeoJFA5c_m7nvZNBHoEiDj6YKm5zP3vFjY82zVIlBog8P55ew2kGaQbqCrQdTjxpmPmxofN3U-btz_uHHy48YVjxsans9f-rip93HjdJBU40ywZUuWP923EJhiwIrmAl0Jllv-uHH-48aJj5uAUdgEVrdv4dN5QEXrgE4AKnq2bN3jxg6gKx439gO5YBWoCe9x0ySgxJPdQO6kx00tIGPAztvVA6Ker9z1uKkNqPnZ9KVgtzUCLXi-Ys7TFY3PW5c_buqGGQp03oTZcLc93dAFUo3ssOez2p_O6QY5bM4akMMmTHvc2Pe4cdXjRmCSJNJhQEWUJzooUNDS5-JytArITMzLd6gxqKkGma5gY6FlB2YAkzk4UTUAww6UDvt7XyxrgyWSWRCpp_1LgWkKxN7VA2Q_ndDzbHr3033dwCgGmQ4ypkahOjetFpgedcHYCIiNgbgGzAJBkKgBWAQkbgLEpkBsBiRrwCwYBKvhquXiciLk5F09QCcj7AcZCTIaZCHIMoSxINoYbFE1yIlxUGEzKI3NfpSg6USxB6QNpAFmH8yLhlB7QCLgsID5HEbXgJ2F4U9dOwVHBSDhBCKUuQA)]
-- [鋼琴伴奏 TMD 檔案](chiyoda_no_miya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnja2_xk9-LnUzY8blz3dN2693s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CpRmXva2CG5eNib6JHVedgtKLlfPe75n1bOFEoPZnM5a-XLRCCST8bPYmoHCQnoJ7UX5-MdDEx00bHjevfdy853HTTqBxYEUv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6X66e8Xxt5_PlQIu2P1074fmUFUBTjQyMDPQMDMz0DCxMLMDGcjlaBWQm5uUHeTjUGNRUcykAgY2Flh2YUaNQnZtWq2CooAvGRkBsDMQ1YBYIgkQNwCIgcRMgNgViMyBZA2bBIFgNVy3cNh9k20zgthnGA9VFG8aCTTSNh_EMcEiZxoPlQOY64fUFyGEgB4KcDXIywnEg2hjs3GqQR-OgwmZQGpsvIEaCVIDkYEbDwsQQaiRIBBx4sKCC0UCvYAsYqAdwBIwJDt-DuBA5E6whg0W3ER6j4IEMDVVdOwVHBRjhBCKUuQA)]
+- [主旋律 TMD 檔案](chiyoda_no_miya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDNEyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1JRirQs5m5BUBLEnOQNWemZ-ZZ5aZmZmVi8RxUujy1uCS1KC8-NzUnP6USQ7okMRMYuKAALk-Mz03MzMtJzAN6Q0tL4Wlv85Pdi59P2fC4cd3TdesUtLS4FG0VLM247G0VnHS4bEz0TexApr1YOe_9nlnPFk4EKn02Y-nLRSvAljybvQkoHKSn4F6Un1_8fk_H46YNj5vXPm7e87hp5_s9nWBFL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bul-unvF8befz5UCLtj9dO-H5lBVAU0ExrweMeT1QzION5dLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHegYoJeftq54Nq0d6ICnG3qftXcqgJKPXlZB-vs9PUDFLxc0KhToKRiZAblAZz_Z0fB8zZonOzqfrt3xbM58IFvBUOHlsmlA9wLDCGTHi1X7nzUsB5ne3fti5nyg6It1XcDgejl1O1AK5E-FlzN7X6yYAZbsfNzQCAx-BaBioNSLVQseN296sW_P4-aFj5vbFB7NXGlrCbL5aWevgonC0w39z9c3PO3vfbGsDagV7KP2XS9mTn2xYjfQQKBVQDOezd33smki0IVAxtMFTc9n7nmxsOfZqkWgWACH_8vZYM0g3UDfgKjHjTMfNzU-bup83Lj_cePkx40rHjc0PJ-_9HFT7-PG6SCpxplgy5Ysf7pvITApgRXNBTodLLf8ceP8x40THzcBo7YJrG7fwqfzgIrWAZ0AVPRs2brHjR1AVzxu7AdywSpQU-TjpklAiSe7gdxJj5tagMY8buiFuHBXD4h6vnLX46Y2oP5n05eCndcItOP5ijlPVzQ-b13-uKkbZi7QhRNmw533dEMXSDWy257Pan86pxvktjlrQG6bMO1xY9_jxlWPG4GplXi3AdVRniShQEFLn4vLOSOzMj8l0S_fN7My0SogMzEv36HGoKYaZJOCjYWWHZiBLUMogBNkAzB8QSxQcmzsVdCApRYdeHrWxKIVaDPI2BqF6ty0WgXTeAVdBWMQYQjEYF6NghmIAkEw3wAsZgxVYg5RawwUMoKqAkGwIrDBPoY1CsBCAsgHpmgwuRJMzgcb87hpM1TH4-YOIAmx8HHTdrDIWhAJZYP0wkyCQbBqiC1GILm9SOYvA-tdD9HVPAmbLWA3PG5aAhZvAZNtUJnVGLYQG_jAvN3YC8mgJEcBrUJ_Fdhvs-Hh_rh5BXrog8MOFi6QeGoHi-8HkxuhMmvwhD6SLU3r4HbhtAVicvNUeKzgswV_6O_qAYU-qaENCTFDSCBCAxsUsBBRXaA8KFyrgbnCBCoKk8Ub2mBfg3yzGojBKbi5D-qvebBwgKS2pq1gVaCwAMUHRAaUbiF2QFIvjtCG27IeyO5GsWUR3CxwqAJNBKVnkHmgWIHIdCHZAnIjSWm9k5zQBoUdKNTgyRaaskFhC5IDFz8gBTVgJSAIVgZxJUwIW3g3gn0ECsHHzQ0oIQFJ65D8vQkcWqCwAcmAUh0k_EDi0JAAq8QV3rS0pZaLS9dOAaX8VwAKKHMBAA)]
+- [鋼琴伴奏 TMD 檔案](chiyoda_no_miya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21ys4vyY9Pyq8sjjcyMDKINzAwizewMLFAqCvOLy1KTrUqTs7Iz8-JL0mtKEnKz89Gl48vSExPtQowMDNEyBQU5Zel5iXmAXUXFIEckgLWjlCQWpaZkgqSLk5OzIsvSy3KTMtMTUFyYmpRMdgbECtKihLzipOLMgtAfkOoyi8qychPL0osyKi0ysgsLskvykxOzInPTsxD8m1iEVBzempual6JVUFmYl5-fGJycn5uQWJeJkgMobAkA6jIKjO3AOiaxBxkWzLTM_OsclMzszKxhAJUujy1uCS1KC8-NzUnP6USQ7okMRMYC6CYKE-Mz03MzMtJzAP6V0tL4Wlv85Pdi59P2fC4cd3Tdeve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqWZlz2tgpOOlw2JvomdiArXqyc937PrGcLJwL1P5ux9OWiFWCbn83eBBQO0lNwL8rPLwYa-bhpw-PmtY-b9zxu2gk0D6zoRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD98vVM56v7Xy-HGjR9qdrJzyfsgJoKijd6AHTjR4o3YCN5XLOyKzMT0n0y_fNrEy0CgCFd5CHQ41BTTWXAhDYWGjZgRn6Wgq26EDh-Zo1T3Y0vFjYA2IpGCq8bOxV0DBReLqh__n6Bh0FUBrTyypI18SiVUsfbGyNQnVuWq2CabyCroIxiDAEYjCvRsEMRIEgmG8AFjOGKjGHqDUGChlBVYEgWBHYYB_DGgVg2AH5j5sXgsmVYHI-2JjHTZuhOh43dwBJiIWPm7aDRdaCSCgbpBdmEgyCVUNsMQLJ7UUyfxlY73qIruZJ2GwBu-Fx0xKweAuYbIPKrMawhdjANwIF_tP-3hfL2kiOAlqF_iqw32bDw_1x8wr00AeHHSxcIPHUDhbfDyY3QmXW4Al9JFua1sHtwmkLxOTmqfBYwWcL_tDf1QMKfVJDGxJihpBAhAY2KGAhorpAeVC4VgNzhQlUFCaLN7TBvgb5ZjUQg1Nwcx_UX_Ng4QBJbU1bwapAYQGKD4gMKN1C7ICkXhyhDbdlPZDdjWLLIrhZ4FAFmghKzyDzQLECkelCsgXkRpLSeic5oQ0KO1CowZMtNGWDwhYkBy5-QApqwEpAEKwM4kqYELbwbgT7CBSCj5sbUEICktYh-XsTOLRAYQOSAaU6SPiBxKEhAVaJK7xpaUst1uLfB7n4N4EW_8CgiFeINoyFUTUKJvFAlkk8WMQAIW8KEgYrALNMgQpADKAKKpuDIgxm4DeboKNAomYgaeP4XAzNRhAxmKuw2gkyDhikunYKKKEa7QOUxhQ0AgsqcwEA)]
 
 ## 分析
 
@@ -77,30 +77,29 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 千代田の宮 ]
 ================================================================================
-⏱  Duration:       0:30 (30.0s), 12 measures total
-🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <4/4>
+⏱  Duration:       0:40 (40.0s), 16 measures total
+🎼 Key & Tempo:    首調基準 B,, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F4 (MIDI 65) – F5 (MIDI 77) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  F4 in [A #1 @ m.1, 0:00]
-   - 最高音: F5 in [B #1 @ m.7, 0:15]
+🎤 人聲音域:    D4 (MIDI 62) – D#5 (MIDI 75) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
+   - 最低音:  D4 in [ChiyodaNoMiya #1 @ m.1, 0:00]
+   - 最高音: D#5 in [ChiyodaNoMiya #1 @ m.11, 0:25]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      A (10.0s) -> B (20.0s)
+🏛  結構:      ChiyodaNoMiya (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, F, G, A, D
-   - 調性數值:    F 調性不明確 [相關度: 0.84, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.84), C 大調 (0.84), C 小調 (0.56)
-   - 五度圈歷程:   +0 -> -1
+   - 核心骨幹音:  C, A#, D, F, A
+   - 調性數值:    A# 大調 [相關度: 0.76, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.76), F 大調 (0.71), D 小調 (0.62)
+   - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [A #1]: C 調性不明確 (r: 0.83, 自然音純度: 92.9%, 調外音: A#)
-     • [B #1]: F 調性不明確 (r: 0.84, 自然音純度: 100.0%)
+     • [ChiyodaNoMiya #1]: A# 大調 (r: 0.76, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-              [C ]*
-        [F ]*          G  
-      Bb               D  
+               C  
+         F            G  
+     [Bb]*              D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -108,21 +107,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  29.5%
+     C  : ████████████████████████  22.4%
      C# :                            0.0%
-     D  : ██████                     8.0%
-     D# :                            0.0%
+     D  : █████████████████████     19.8%
+     D# : ██████                     5.2%
      E  :                            0.0%
-     F  : ██████████████████        21.6%
+     F  : █████████████             12.1%
      F# :                            0.0%
-     G  : ██████████████████        21.6%
+     G  : █████████                  8.6%
      G# :                            0.0%
-     A  : ██████████                12.5%
-     A# : ██████                     6.8%
+     A  : ███████████               10.3%
+     A# : ███████████████████████   21.6%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – F5 (12 個半音 / 1.0 個八度, 34 個音符)
+  - Piano         : D4 – D#5 (13 個半音 / 1.1 個八度, 46 個音符)
 ================================================================================
 ```
 

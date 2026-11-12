@@ -4,12 +4,26 @@ C:曲：露國民歌
 M:4/4
 L:1/16
 Q:1/4=72
-K:Am
+K:Dm
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!pp! A,4 E4 E4 z4 | A,4 D4 D4 z4 | E4 F2 E2 D4 C4 | B,4 A,4 B,4 z4 |
-!pp! A,4 E4 E4 z4 | A,4 D4 D4 z4 | E4 F2 E2 D4 C4 | B,4 A,4 B,4 z4 |
-!mf! C6 C2 B,4 G,4 | A,4 B,4 C4 z4 | !f! E6 E2 D4 B,4 | C4 D4 E4 z4 |
-F4 E4 D4 C4 | B,4 A,4 B,4 E4 | F4 E2 D2 C4 B,4 | A,4 A,4 A,4 z4 |
-!pp! A,4 E4 E4 z4 | A,4 D4 D4 z4 | E4 F2 E2 D4 B,4 | A,4 A,4 A,4 z4 |
-!pp! A,4 A,4 A,4 z4 | A,4 A,4 A,4 z4 |
+!pp! c2 A2 d4 A4 z4 | c2 A2 d4 A4 z4 | c4 f4 e2 f e d4 | c2 A2 d4 A4 z4 |
+w: カ ー リ ノ | サ ー ケ ビ | キ リ タ ー ー ツ | ソ ー ラ ノ
+c2 A2 d4 A4 z4 | c2 A2 d4 A4 z4 | c4 f4 e2 f e d4 | c2 A2 d4 A4 z4 |
+w: カ ー リ ノ | サ ー ケ ビ | イ ヅ コ ー ー ヲ | ア ー テ ノ
+!mf! c6 c2 c2 B2 A2 G2 | F4 c4 A4 z4 | !f! c6 c2 c2 B2 A2 G2 | F4 c4 A4 z4 |
+w: タ ビ ヨ ー リ ー | タ ビ ニ | マ ヨ ヒ ー ヤ ー | ス ラ ン
+d4 d2 d2 A4 A4 | f4 e2 d2 c4 A4 | c4 f4 e2 f e d4 | c2 A2 d4 A4 z4 |
+w: ア ハ レ ナ ル | ソ ノ コ エ ヨ | オ モ フ ー ー カ | チ ー チ ヲ
+!pp! c2 A2 d4 A4 z4 | c2 A2 d4 A4 z4 | c4 f4 e2 f e d4 | c2 A2 d4 A4 z4 |
+w: カ ー リ ノ | サ ー ケ ビ | シ ノ ブ ー ー カ | ハ ー ハ ヲ
+c2 A2 d4 A4 z4 | c2 A2 d4 A4 z4 | c4 f4 e2 f e d4 | c2 A2 d4 A4 z4 |
+w: カ ー リ ノ | サ ー ケ ビ | ト モ シ ー ー ビ | ク ー ラ キ
+!mf! c6 c2 c2 B2 A2 G2 | F4 c4 A4 z4 | !f! c6 c2 c2 B2 A2 G2 | F4 c4 A4 z4 |
+w: カ リ ネ ー ノ ー | マ ド ニ | ツ キ カ ー ゲ ー | サ シ テ
+d4 d2 d2 A4 A4 | f4 e2 d2 c4 A4 | c4 f4 e2 f e d4 | c2 A2 d4 A4 z4 |
+w: サ ナ キ ダ ニ | サ ビ シ キ ヲ | ワ ガ ユ ー ー メ | ヤ ー ブ ル
+!pp! c2 A2 d4 A4 z4 | c2 A2 d4 A4 z4 | c4 f4 e2 f e d4 | c2 A2 d4 A4 z4 |
+w: カ ー リ ノ | サ ー ケ ビ | ヒ ト ヤ ー ー モ | ネ ー ム ル
+!pp! c2 A2 d4 A4 z4 | c2 A2 d4 A4 z4 |
+w: カ ー リ ノ | サ ー ケ ビ

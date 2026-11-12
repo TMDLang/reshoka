@@ -7,8 +7,37 @@ Q:1/4=108
 K:A
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z4 z2 E2 F2 G2 | A6 c2 B3 A G3 A | F8 z4 F4 | B3 c d3 ^d e3 c A3 f |
-E8 z2 E2 F3 G | A6 c2 B3 A G3 A | F8 z2 F2 F3 F | B8 e8 |
-c8 z4 E4 | A6 c2 B2 A2 G3 A | F8 z2 F2 F2 F2 | B2 c2 d3 ^d e3 c A3 f |
-!f! E8 z2 E2 C2 E2 | A8 z2 A2 E2 A2 | c8 z2 c2 A2 c2 | !ff! e6 c2 B3 c d3 B |
+!mf! z4 z4 z2 E2 A3 B | c6 c2 B3 A B3 c | A8 z4 c4 | B3 e ^d3 c B3 A F3 G |
+w: ウ ル ハ | シ ヤ ア ー ハ ー | レ ヤ | マ ー ト ー シ ー マ ー
+E8 z2 F2 B3 d | d6 d2 c3 B c3 d | B8 z2 d2 c3 B | A8 c8 |
+w: ネ ア フ ギ | ミ ヨ ヤ ー ヨ ー | ヤ ヤ マ ト | シ マ
+B8 z4 E4 | B6 A2 G3 A B3 c | d8 z2 F2 F3 F | c6 B2 A3 B c3 d |
+w: ネ ヤ | マ ハ ミ ド リ ニ | テ キ ヨ ラ | ケ キ イ ー サ ー
+!f! B8 z2 E2 C3 E | A8 z2 A2 E3 A | c8 z2 E2 A3 c | !ff! e6 c2 e3 d c3 B |
+w: ゴ ウ ル ハ | シ ウ ル ハ | シ シ キ シ | マ ノ ヤ ー マ ー
+!mf! A8 z2 E2 A3 B | c6 c2 B3 A B3 c | A8 z4 c4 | B3 e ^d3 c B3 A F3 G |
+w: ト ウ ル ハ | シ ヤ ア ー ハ ー | レ ヤ | マ ー ト ー シ ー マ ー
+E8 z2 F2 B3 d | d6 d2 c3 B c3 d | B8 z2 d2 c3 B | A8 c8 |
+w: ネ ア フ ギ | ミ ヨ ヤ ー ヨ ー | ヤ ヤ マ ト | シ マ
+B8 z4 E4 | B6 A2 G3 A B3 c | d8 z2 F2 F3 F | c6 B2 A3 B c3 d |
+w: ネ ハ | ナ ハ ク レ ナ ヰ | ニ ミ ド リ | コ キ ヤ ー ナ ー
+!f! B8 z2 E2 C3 E | A8 z2 A2 E3 A | c8 z2 E2 A3 c | !ff! e6 c2 e3 d c3 B |
+w: ギ ウ ル ハ | シ ウ ル ハ | シ シ キ シ | マ ノ ヤ ー マ ー
+!mf! A8 z2 E2 A3 B | c6 c2 B3 A B3 c | A8 z4 c4 | B3 e ^d3 c B3 A F3 G |
+w: ト ウ ル ハ | シ ヤ ア ー ハ ー | レ ヤ | マ ー ト ー シ ー マ ー
+E8 z2 F2 B3 d | d6 d2 c3 B c3 d | B8 z2 d2 c3 B | A8 c8 |
+w: ネ ア フ ギ | ミ ヨ ヤ ー ヨ ー | ヤ ヤ マ ト | シ マ
+B8 z4 E4 | B6 A2 G3 A B3 c | d8 z2 F2 F3 F | c6 B2 A3 B c3 d |
+w: ネ ワ | ラ ヤ フ タ ツ ミ | ツ ウ ヲ ア | ソ ブ ヲ ー ガ ー
+!f! B8 z2 E2 C3 E | A8 z2 A2 E3 A | c8 z2 E2 A3 c | !ff! e6 c2 e3 d c3 B |
+w: ハ ウ ル ハ | シ ウ ル ハ | シ シ キ シ | マ ノ ヤ ー マ ー
+!mf! A8 z2 E2 A3 B | c6 c2 B3 A B3 c | A8 z4 c4 | B3 e ^d3 c B3 A F3 G |
+w: ト ウ ル ハ | シ ヤ ア ー ハ ー | レ ヤ | マ ー ト ー シ ー マ ー
+E8 z2 F2 B3 d | d6 d2 c3 B c3 d | B8 z2 d2 c3 B | A8 c8 |
+w: ネ ア フ ギ | ミ ヨ ヤ ー ヨ ー | ヤ ヤ マ ト | シ マ
+B8 z4 E4 | B6 A2 G3 A B3 c | d8 z2 F2 F3 F | c6 B2 A3 B c3 d |
+w: ネ メ | モ ハ ル ノ ウ ミ | ニ カ ス ミ | ユ ク ホ ー カ ー
+!f! B8 z2 E2 C3 E | A8 z2 A2 E3 A | c8 z2 E2 A3 c | !ff! e6 c2 e3 d c3 B |
+w: ゲ ウ ル ハ | シ ウ ル ハ | シ シ キ シ | マ ノ ヤ ー マ ー
 A8 z4 z4 |
+w: ト

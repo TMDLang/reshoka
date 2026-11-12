@@ -4,12 +4,18 @@ C:曲：スコツト（W. Scott，英國）
 M:4/4
 L:1/16
 Q:1/4=96
-K:F
+K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! F3 G A4 F4 d2 c2 | B2 A2 G2 F2 E4 C4 | G2 A2 B4 d4 c2 B2 | A2 G2 A2 c2 A4 z4 |
-F3 G A4 F4 d2 c2 | B2 A2 G2 F2 E4 C4 | G2 A2 B4 d2 c2 B2 A2 | F4 A2 G2 F4 z4 |
-!f! d2 d2 d4 d4 c2 B2 | A2 G2 A2 c2 B4 A4 | d2 d2 d4 d4 c2 B2 | A2 G2 F4 G4 z4 |
-F3 G A4 F4 A2 F2 | G2 A2 B2 c2 d4 c4 | G2 A2 B4 B2 d2 c2 A2 | F4 A2 G2 F4 z4 |
-!mf! C4 A3 G F2 E2 D4 | C4 c3 B A2 G2 F4 | F2 F2 G2 A2 B4 B2 A2 | G2 A2 G2 E2 C8 |
-C4 A3 G F2 E2 D4 | C2 A2 B2 c2 B2 A2 G4 | F2 F2 G2 A2 B2 B2 A2 G2 | F4 E2 G2 F8 |
+!mf! G4 A2 B2 c4 B2 A2 | G3 A G2 E2 D4 C4 | G4 c2 d2 e4 d2 c2 | d2 c2 d2 e2 d4 z4 |
+w: ハ ル ノ ユ フ ベ | ヲ カ ニ ウ ミ ニ | ア カ ヌ ナ ガ メ | オ モ シ ロ ヤ
+G4 A3 B c4 B2 A2 | G3 A G2 E2 D4 C4 | G4 c2 B2 A2 c2 G2 E2 | G4 c3 d c4 z4 |
+w: ヒ カ ゲ オ チ テ | ク ロ キ ヤ マ ハ | ケ ム リ ナ ビ キ テ | ノ ド ケ シ
+!f! e4 e2 e2 e4 f2 e2 | d3 c d2 e2 d4 G4 | e4 e3 e e4 d2 c2 | d2 G2 G4 G4 z4 |
+w: カ ス ミ コ メ テ | ア ヲ キ ミ ヅ ハ | カ ゼ モ ナ ギ テ | シ ヅ ケ シ
+c4 c3 B A4 c2 A2 | G2 c2 c2 d2 e4 c4 | A4 c2 A2 G3 A G2 E2 | G4 c3 d c4 z4 |
+w: ウ シ ホ ミ チ テ | カ ハ ニ サ セ バ | ナ ミ ハ セ イ ロ ヲ | コ エ ユ ク
+!mf! C4 c3 A G2 E2 C4 | D4 d3 e d2 D2 D4 | E2 G2 c2 d2 e4 d2 c2 | A2 c2 G2 E2 D8 |
+w: ホ シ ノ ヒ カ リ | ソ ラ ニ オ ボ ロ | ス ナ ド ル ホ カ ゲ | オ キ ニ ハ ユ
+C4 c3 A G2 E2 C4 | D2 d2 d2 e2 d2 c2 B4 | c2 G2 E2 C2 A2 B2 c2 A2 | G4 c2 d2 c8 |
+w: ユ メ ト ア ハ キ | ハ ル ノ ヒ ク レ テ | ミ ワ タ ス ア メ ツ チ | ウ ル ハ シ

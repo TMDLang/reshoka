@@ -36,12 +36,41 @@ NOTE_DEGREE_MAP = {
     "7": 11,
 }
 
+KEY_TONIC_MIDI_MAP = {
+    "C": 60,
+    "C'": 61,
+    "D,": 61,
+    "D": 62,
+    "D'": 63,
+    "E,": 63,
+    "E": 64,
+    "F": 65,
+    "F'": 66,
+    "G,": 66,
+    "G": 67,
+    "G'": 68,
+    "A,": 68,
+    "A": 69,
+    "A'": 70,
+    "B,": 70,
+    "B": 71,
+}
+
+NOTE_NAMES = ["C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"]
+
+
+def midi_to_note_name(midi: int) -> str:
+    octave = (midi // 12) - 1
+    return f"{NOTE_NAMES[midi % 12]}{octave}"
+
 
 def parse_semitones(token: str) -> int | None:
     """計算相對於 1 (Do) 的半音數。"""
     token = token.strip()
-    if not token or token == "0" or token.startswith("[") or token.startswith("{"):
+    if not token or token == "0" or token.startswith("{"):
         return None
+    token = re.sub(r"%(?:\([^\)]*\))?", "", token)
+    token = token.strip("()[]")
 
     m = re.match(r"^([1-7][',]?)([\^_]*)$", token)
     if not m:
@@ -73,8 +102,12 @@ def audit_tmd(tmd_path: Path) -> bool:
 
     has_warnings = False
 
+    key_match = re.search(r"^\s*\?=\s*([A-G][',]?)", text, re.MULTILINE)
+    key_str = key_match.group(1) if key_match else "C"
+    tonic_midi = KEY_TONIC_MIDI_MAP.get(key_str, 60)
+
     # 提取音軌小節
-    body_match = re.search(r":(?:Piano|Voice)[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
+    body_match = re.search(r":(?:Piano|PianoRH|Piano1|Voice)[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
     if not body_match:
         body_match = re.search(r"@[^\{\n]*\{(.*?)\n\s*\}", text, re.DOTALL)
 
@@ -91,6 +124,9 @@ def audit_tmd(tmd_path: Path) -> bool:
     for raw_line in track_content.splitlines():
         line = raw_line.strip()
         if not line:
+            continue
+        # 略過歌詞層 L1|, L2|, L3|
+        if re.match(r"^L\d*\|", line):
             continue
         # 尋找註解
         if "/*" in line and "*/" in line:
@@ -134,8 +170,25 @@ def audit_tmd(tmd_path: Path) -> bool:
     if all_pitches:
         min_p = min(p[2] for p in all_pitches)
         max_p = max(p[2] for p in all_pitches)
+        min_midi = tonic_midi + min_p
+        max_midi = tonic_midi + max_p
         span = max_p - min_p
-        print(f"  ℹ️ 全曲半音跨度：{span} 個半音 (最低: {min_p}, 最高: {max_p})")
+        print(
+            f"  ℹ️ 全曲音域 (?= {key_str})：{midi_to_note_name(min_midi)} (MIDI {min_midi}) 至 "
+            f"{midi_to_note_name(max_midi)} (MIDI {max_midi})，跨度 {span} 個半音"
+        )
+
+        if min_midi < 57 or max_midi <= 67:
+            print(
+                f"  ❌ [八度偏移警示] 主旋律絕對音域 ({midi_to_note_name(min_midi)}..{midi_to_note_name(max_midi)}) 偏低！"
+                f"在 TmdSwift 中 `1` 恆為第 4 八度 ({midi_to_note_name(tonic_midi)})，請確認是否誤將 C4..F5 寫成低八度 (`1_` 等)！"
+            )
+            has_warnings = True
+        elif max_midi > 79:
+            print(
+                f"  ⚠️ [高音域警示] 主旋律最高音達 {midi_to_note_name(max_midi)} (MIDI {max_midi})，超過一般兒童唱歌上限 (G5)，請確認是否誤寫高八度！"
+            )
+            has_warnings = True
 
         if span > 17:
             print(f"  ⚠️ [音域警示] 旋律跨度高達 {span} 個半音，請核對是否有高低八度看錯！")

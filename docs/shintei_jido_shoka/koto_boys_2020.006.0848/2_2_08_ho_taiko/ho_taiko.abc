@@ -7,9 +7,15 @@ Q:1/4=100
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!f! C3 F A3 F c8 | d3 B G3 c A8 | G3 A B3 E, F4 A4 | A8 G8 |
-C3 F A3 F c8 | d3 B G3 c A8 | G4 ^F3 G d3 c E,4 | G8 F8 |
-!mf! G3 G c3 G B4 A4 | G6 F2 E,3 F G4 | !f! A3 A d3 c B3 A G4 | F6 A2 C8 |
-!mf! G3 G c3 G B4 A4 | G6 F2 E,3 F G4 | !f! A3 d c3 B A3 G F4 | G8 c8 |
-C3 F A3 F c8 | d3 B G3 c A8 | G3 A B3 E, F4 A4 | A8 G8 |
-!ff! C3 F A3 F c4 f4 | !mf! e3 d c3 B A4 d3 c | B4 A3 F G3 A G4 | F8 F8 |
+!f! C4 F3 A c4 c4 | d4 c3 A F8 | A4 G3 E C4 C4 | D8 C8 |
+w: ヒ セ ン ヨ リ | オ コ リ テ | ヤ ガ テ ナ ヲ | ア ゲ
+C4 F3 A c4 c4 | d4 c3 A F8 | G4 ^F3 G A4 D4 | G8 F8 |
+w: リ タ ツ ヲ バ | キ ハ メ テ | カ ン パ ク ト | ナ ル
+!mf! G4 G3 A B4 B4 | F4 F3 G A8 | !f! c4 B3 G c4 A3 F | G4 c4 C8 |
+w: カ イ ガ イ ノ | セ イ バ ツ | コ ク イ ト ホ ク | フ ル ヒ
+!mf! G4 G3 A B4 B4 | F4 F3 G A8 | !f! c4 B3 G c4 A3 F | G8 c8 |
+w: イ チ ダ イ ノ | イ サ ヲ シ | コ ラ イ マ レ ニ | ミ ル
+C4 F3 A c6 c2 | d4 c3 A F8 | A4 G3 E C4 C4 | D8 C8 |
+w: ハ カ ナ シ ヤ | ジュ ラ ク ノ | エ イ ガ コ ソ | ユ メ
+!ff! F4 A3 c f4 f4 | !mf! f4 d2 e2 f4 F3 G | A4 A3 B G4 G3 A | F8 F8 |
+w: ミ ホ ロ ビ テ | ヨ ミ ダ ル サ レ | ド ア ハ レ マ ス | ラ ヲ
