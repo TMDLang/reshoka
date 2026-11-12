@@ -36,8 +36,3 @@ image: shokacho/vol_07/p246_ushi_yo_ushi_yo/P246.jpg
 - 🔍 [全站歌曲去重統計](duplicate_songs.md)
 - 🔍 [同一歌名的多個版本](same_title_songs.md)
 - 📊 [各套教材專題統計](shintei_jido_shoka/index.md)
-
-## 附註
-
-- **關於 TMD 格式**：本計畫使用 [TMD（Timebase Markdown / Textual Music Description）](https://tmdlang.github.io/) 作為底層的樂譜紀錄格式。TMD 是一種概念接近「純文字簡譜＋Markdown」的音樂記述語言，所有音符、節奏與和弦都以純文字檔案（`.tmd`）儲存，不僅容易閱讀與透過 Git 進行版本管理，也能隨時透過工具自動轉出成五線譜、MIDI 或音訊檔。
-- **AI 辨識與轉換工具**：本專案之原書掃描影像樂譜辨識、日文歌詞轉錄、TMD 格式轉換以及雙手鋼琴伴奏編曲，係使用 **Google Antigravity / Gemini** 輔助完成。

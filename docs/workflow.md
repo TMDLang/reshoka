@@ -37,3 +37,8 @@ flowchart LR
 TMD 是本計畫的底層樂譜來源格式。音符、節奏與和弦以純文字檔案儲存，方便閱讀、Git 版本管理，以及轉換成五線譜、MIDI 或音訊。網站使用的 metadata 與統計資料則由 TMD 和其他來源檔案重新產生。
 
 原書影像樂譜辨識、日文歌詞轉錄、TMD 轉換與雙手鋼琴伴奏編曲，使用 Google Antigravity／Gemini 輔助完成；AI 產生的結果仍須以原書掃描、節拍檢查與人工校對確認。
+
+## 附註
+
+- **關於 TMD 格式**：本計畫使用 [TMD（Timebase Markdown / Textual Music Description）](https://tmdlang.github.io/) 作為底層的樂譜紀錄格式。TMD 是一種概念接近「純文字簡譜＋Markdown」的音樂記述語言，所有音符、節奏與和弦都以純文字檔案（`.tmd`）儲存，不僅容易閱讀與透過 Git 進行版本管理，也能隨時透過工具自動轉出成五線譜、MIDI 或音訊檔。
+- **AI 辨識與轉換工具**：本專案之原書掃描影像樂譜辨識、日文歌詞轉錄、TMD 格式轉換以及雙手鋼琴伴奏編曲，係使用 **Google Antigravity / Gemini** 輔助完成。
