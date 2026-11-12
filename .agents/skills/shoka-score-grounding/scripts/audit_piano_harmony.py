@@ -164,29 +164,48 @@ def audit_piano_score(tmd_path: Path):
     key_offset = parse_key_signature(text)
 
     rh_blocks = re.findall(r":PianoRH[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
+    p2_blocks = re.findall(r":Piano2[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
     lh_blocks = re.findall(r":PianoLH[^\n\{]*\{(.*?)\n\s*\}", text, re.DOTALL)
     
     if not rh_blocks or not lh_blocks:
         return True, ["無法找到 PianoRH 或 PianoLH 音軌"]
 
+    warnings = []
+    # 檢查含歌詞軌道是否誤寫和弦 (+ 或 [...])
+    clean_no_comments = re.sub(r"/\*.*?\*/", "", text, flags=re.DOTALL)
+    for m_blk in re.finditer(r"([A-Za-z0-9_]+:[A-Za-z0-9_-]+)(?:\[[^\]]*\])?\s*@\|?[^\{]*\|?\s*\{(.*?)\n\s*\}", clean_no_comments, re.DOTALL):
+        hdr, body = m_blk.group(1), m_blk.group(2)
+        if re.search(r"^\s*L\d*\|", body, re.MULTILINE):
+            music_lines = [l for l in body.splitlines() if not re.match(r"^\s*L\d*\|", l)]
+            music_str = "\n".join(music_lines)
+            if "[" in music_str or "+" in music_str:
+                warnings.append(f"音軌 {hdr}: 含歌詞之旋律軌不應直接寫在和弦 (+ 或 [...]) 上，請將內聲部拆至獨立伴奏軌 (如 Piano2)！")
+
     rh_measures = []
     for b in rh_blocks:
         rh_measures.extend(expand_track_timeline(b))
+    p2_measures = []
+    for b in p2_blocks:
+        p2_measures.extend(expand_track_timeline(b))
     lh_measures = []
     for b in lh_blocks:
         lh_measures.extend(expand_track_timeline(b))
 
-    warnings = []
     num_m = min(len(rh_measures), len(lh_measures))
 
     for m_idx in range(num_m):
         m_num = m_idx + 1
         rh_events = rh_measures[m_idx]
+        p2_events = p2_measures[m_idx] if m_idx < len(p2_measures) else []
         lh_events = lh_measures[m_idx]
 
         rh_grid = []
         for e in rh_events:
             rh_grid.extend([(e["token"], e["duration"])] * e["duration"])
+
+        p2_grid = []
+        for e in p2_events:
+            p2_grid.extend([(e["token"], e["duration"])] * e["duration"])
 
         lh_grid = []
         for e in lh_events:
@@ -195,6 +214,7 @@ def audit_piano_score(tmd_path: Path):
         min_len = min(len(rh_grid), len(lh_grid))
         for tick in range(min_len):
             rh_tok, rh_dur = rh_grid[tick]
+            p2_tok = p2_grid[tick][0] if tick < len(p2_grid) else ""
             lh_tok, lh_dur = lh_grid[tick]
 
             rh_pc = parse_token_absolute_pitch(rh_tok, key_offset)
@@ -205,8 +225,16 @@ def audit_piano_score(tmd_path: Path):
             lh_pc = parse_token_absolute_pitch(lh_tok, key_offset)
             if lh_pc is not None and "+" not in lh_tok:
                 diff = abs(rh_pc - lh_pc) % 12
-                # 若右手本身已是完整和弦（含 +），且與低音共同構成三和弦/七和弦/九和弦（低音上方含大三度4或小三度3，以及完全五度7），則旋律音為九音/六音屬正常和聲
-                rh_chord_pcs = parse_chord_absolute_pitches(rh_tok, key_offset) or [rh_pc]
+                # 若右手（或加計 Piano2 內聲部）與低音共同構成三和弦/七和弦/九和弦（低音上方含大三度4或小三度3，以及完全五度7），則旋律音為九音/六音屬正常和聲
+                rh_chord_pcs = list(parse_chord_absolute_pitches(rh_tok, key_offset) or [rh_pc])
+                if p2_tok:
+                    p2_pcs = parse_chord_absolute_pitches(p2_tok, key_offset)
+                    if p2_pcs:
+                        rh_chord_pcs.extend(p2_pcs)
+                    else:
+                        p2_single = parse_token_absolute_pitch(p2_tok, key_offset)
+                        if p2_single is not None:
+                            rh_chord_pcs.append(p2_single)
                 rel_pcs = {(pc - lh_pc) % 12 for pc in rh_chord_pcs}
                 is_extended_tertian = 7 in rel_pcs and (3 in rel_pcs or 4 in rel_pcs)
                 # 低音與旋律若形成小二度/大七度（相差1半音），或一拍以上長音（>=4格）形成大二度/三全音（2, 6, 10）
