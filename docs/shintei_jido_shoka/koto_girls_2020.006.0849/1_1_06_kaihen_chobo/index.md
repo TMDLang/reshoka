@@ -4,7 +4,7 @@ song_title: "海邊眺望"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_1_06_kaihen_chobo"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈海邊眺望〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：佐々木信綱），調號拍號：C 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：空やおほへる廣き水を 水やひたせる高き空を…"
+description: "〈海邊眺望〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：佐々木信綱），調號拍號：C 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：空やおほへる廣き水を 水やひたせる高き空を…"
 keywords: "海邊眺望, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 佐々木信綱"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -23,6 +23,9 @@ audio:
   - id: "kaihen_chobo"
     label: "鋼琴伴奏版"
     file: "kaihen_chobo.mp3"
+  - id: "kaihen_chobo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kaihen_chobo_neutrino.mp3"
 tmd_source:
   - "kaihen_chobo.tmd"
   - "kaihen_chobo_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kaihen_chobo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kaihen_chobo_neutrino.mp3"></audio>
 
 - 詞：佐々木信綱
 - 出處：女子音樂教科書

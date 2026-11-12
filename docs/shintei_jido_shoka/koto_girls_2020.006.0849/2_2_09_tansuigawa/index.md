@@ -4,7 +4,7 @@ song_title: "淡水河"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_2_09_tansuigawa"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈淡水河〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：E, 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大空（おほぞら）は　明（あ）けの光（ひかり）に 輝（かが）やきて　河（かは）もふかく…"
+description: "〈淡水河〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：E, 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大空（おほぞら）は　明（あ）けの光（ひかり）に 輝（かが）やきて　河（かは）もふかく…"
 keywords: "淡水河, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -19,6 +19,9 @@ audio:
   - id: "tansuigawa"
     label: "鋼琴伴奏版"
     file: "tansuigawa.mp3"
+  - id: "tansuigawa_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tansuigawa_neutrino.mp3"
 tmd_source:
   - "tansuigawa.tmd"
   - "tansuigawa_piano.tmd"
@@ -29,6 +32,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="tansuigawa.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tansuigawa_neutrino.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）
 

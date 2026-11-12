@@ -4,7 +4,7 @@ song_title: "笛の音"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_2_04_fue_no_ne"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈笛の音〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：鳥居忱），調號拍號：B, 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：嗚呼（ああ）笛（ふえ）よあはれ 月影（つきかげ）かすむこよひ…"
+description: "〈笛の音〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：鳥居忱），調號拍號：B, 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：嗚呼（ああ）笛（ふえ）よあはれ 月影（つきかげ）かすむこよひ…"
 keywords: "笛の音, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 鳥居忱"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -22,6 +22,9 @@ audio:
   - id: "fue_no_ne"
     label: "鋼琴伴奏版"
     file: "fue_no_ne.mp3"
+  - id: "fue_no_ne_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "fue_no_ne_neutrino.mp3"
 tmd_source:
   - "fue_no_ne.tmd"
   - "fue_no_ne_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="fue_no_ne.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="fue_no_ne_neutrino.mp3"></audio>
 
 - 詞：鳥居忱
 - 出處：女子音樂教科書

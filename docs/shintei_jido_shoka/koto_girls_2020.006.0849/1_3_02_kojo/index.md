@@ -4,7 +4,7 @@ song_title: "孝女"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_3_02_kojo"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈孝女〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：杉谷代水、曲：獨國風曲），調號拍號：C 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月は冴（さ）えて　木枯（こがらし）すさぶ 社頭（しやとう）にひとり　ぬかづく乙女（をとめ）…"
+description: "〈孝女〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：杉谷代水、曲：獨國風曲），調號拍號：C 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月は冴（さ）えて　木枯（こがらし）すさぶ 社頭（しやとう）にひとり　ぬかづく乙女（をとめ）…"
 keywords: "孝女, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 杉谷代水, 獨國風曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -22,6 +22,9 @@ audio:
   - id: "kojo"
     label: "鋼琴伴奏版"
     file: "kojo.mp3"
+  - id: "kojo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kojo_neutrino.mp3"
 tmd_source:
   - "kojo.tmd"
   - "kojo_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kojo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kojo_neutrino.mp3"></audio>
 
 - 詞：杉谷代水
 - 曲：獨國風曲

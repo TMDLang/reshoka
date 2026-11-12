@@ -4,7 +4,7 @@ song_title: "野川のしらべ"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_1_02_nogawa_no_shirabe"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈野川のしらべ〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（曲：成田為三），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：野川の水のさゝやきに 春を喜ぶ調べあり…"
+description: "〈野川のしらべ〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（曲：成田為三），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：野川の水のさゝやきに 春を喜ぶ調べあり…"
 keywords: "野川のしらべ, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 成田為三"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -21,6 +21,9 @@ audio:
   - id: "nogawa_no_shirabe"
     label: "鋼琴伴奏版"
     file: "nogawa_no_shirabe.mp3"
+  - id: "nogawa_no_shirabe_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nogawa_no_shirabe_neutrino.mp3"
 tmd_source:
   - "nogawa_no_shirabe.tmd"
   - "nogawa_no_shirabe_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="nogawa_no_shirabe.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nogawa_no_shirabe_neutrino.mp3"></audio>
 
 - 曲：成田為三
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

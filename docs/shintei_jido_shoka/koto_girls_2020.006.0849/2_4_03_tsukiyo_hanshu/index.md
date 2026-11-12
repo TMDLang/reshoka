@@ -4,7 +4,7 @@ song_title: "月夜泛舟"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_4_03_tsukiyo_hanshu"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈月夜泛舟〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：天谷秀、曲：ウエーベル（獨）（Weber）），調號拍號：E, 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：光りうかぶ海原や、 月にうかれ遊ぶ舟…"
+description: "〈月夜泛舟〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：天谷秀、曲：ウエーベル（獨）（Weber）），調號拍號：E, 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：光りうかぶ海原や、 月にうかれ遊ぶ舟…"
 keywords: "月夜泛舟, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 天谷秀, ウエーベル（獨）（Weber）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -22,6 +22,9 @@ audio:
   - id: "tsukiyo_hanshu"
     label: "鋼琴伴奏版"
     file: "tsukiyo_hanshu.mp3"
+  - id: "tsukiyo_hanshu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tsukiyo_hanshu_neutrino.mp3"
 tmd_source:
   - "tsukiyo_hanshu.tmd"
   - "tsukiyo_hanshu_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="tsukiyo_hanshu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tsukiyo_hanshu_neutrino.mp3"></audio>
 
 - 詞：天谷秀
 - 曲：ウエーベル（獨）（Weber）

@@ -4,7 +4,7 @@ song_title: "世界の平和"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_3_06_sekai_no_heiwa"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈世界の平和〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（曲：成田爲三），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 原譜將每行起首之第 4 拍弱起音獨立排於每行左端小節線前，並將上一行末尾記為 3 拍，合併後恰為完整 4/4 拍小…"
+description: "〈世界の平和〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（曲：成田爲三），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 原譜將每行起首之第 4 拍弱起音獨立排於每行左端小節線前，並將上一行末尾記為 3 拍，合併後恰為完整 4/4 拍小…"
 keywords: "世界の平和, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 成田爲三"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -21,6 +21,9 @@ audio:
   - id: "sekai_no_heiwa"
     label: "鋼琴伴奏版"
     file: "sekai_no_heiwa.mp3"
+  - id: "sekai_no_heiwa_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sekai_no_heiwa_neutrino.mp3"
 tmd_source:
   - "sekai_no_heiwa.tmd"
   - "sekai_no_heiwa_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="sekai_no_heiwa.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sekai_no_heiwa_neutrino.mp3"></audio>
 
 - 曲：成田爲三
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

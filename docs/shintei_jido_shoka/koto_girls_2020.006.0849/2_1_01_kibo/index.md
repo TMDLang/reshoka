@@ -4,7 +4,7 @@ song_title: "希望"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_1_01_kibo"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈希望〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：D 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：鐘の音さやかに空をわたり 照る月うるはしく（復唱）…"
+description: "〈希望〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：鐘の音さやかに空をわたり 照る月うるはしく（復唱）…"
 keywords: "希望, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -20,6 +20,9 @@ audio:
   - id: "kibo"
     label: "鋼琴伴奏版"
     file: "kibo.mp3"
+  - id: "kibo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kibo_neutrino.mp3"
 tmd_source:
   - "kibo.tmd"
   - "kibo_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kibo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kibo_neutrino.mp3"></audio>
 
 - 出處：實科女學唱歌
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

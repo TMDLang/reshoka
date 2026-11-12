@@ -4,7 +4,7 @@ song_title: "岩戸開きの曲"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_3_02_iwato_biraki_no_kyoku"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈岩戸開きの曲〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：杉谷代水），調號拍號：A 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 原譜每行左端小節線前排 3 個八分音符弱起，並將上一行末尾記為不完全小節（前二行末尾為「四分音符＋八分休止符」共 …"
+description: "〈岩戸開きの曲〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：杉谷代水），調號拍號：A 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 原譜每行左端小節線前排 3 個八分音符弱起，並將上一行末尾記為不完全小節（前二行末尾為「四分音符＋八分休止符」共 …"
 keywords: "岩戸開きの曲, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 杉谷代水"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -22,6 +22,9 @@ audio:
   - id: "iwato_biraki_no_kyoku"
     label: "鋼琴伴奏版"
     file: "iwato_biraki_no_kyoku.mp3"
+  - id: "iwato_biraki_no_kyoku_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "iwato_biraki_no_kyoku_neutrino.mp3"
 tmd_source:
   - "iwato_biraki_no_kyoku.tmd"
   - "iwato_biraki_no_kyoku_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="iwato_biraki_no_kyoku.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="iwato_biraki_no_kyoku_neutrino.mp3"></audio>
 
 - 詞：杉谷代水
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

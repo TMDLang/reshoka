@@ -4,7 +4,7 @@ song_title: "愛らしき花"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_1_04_airashiki_hana"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈愛らしき花〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：D 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：草の上に、玉なす露 心地よのあけぼのや…"
+description: "〈愛らしき花〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：D 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：草の上に、玉なす露 心地よのあけぼのや…"
 keywords: "愛らしき花, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -20,6 +20,9 @@ audio:
   - id: "airashiki_hana"
     label: "鋼琴伴奏版"
     file: "airashiki_hana.mp3"
+  - id: "airashiki_hana_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "airashiki_hana_neutrino.mp3"
 tmd_source:
   - "airashiki_hana.tmd"
   - "airashiki_hana_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="airashiki_hana.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="airashiki_hana_neutrino.mp3"></audio>
 
 - 出處：檢定唱歌集
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

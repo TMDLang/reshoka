@@ -4,7 +4,7 @@ song_title: "告別"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_4_02_kokubetsu"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈告別〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：桑田春風、曲：F. Silcher），調號拍號：D 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夏の休み　待ちえし今日ぞ 明日（あす）は我が家（や）　父母（ちゝはゝ）いかに…"
+description: "〈告別〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：桑田春風、曲：F. Silcher），調號拍號：D 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夏の休み　待ちえし今日ぞ 明日（あす）は我が家（や）　父母（ちゝはゝ）いかに…"
 keywords: "告別, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 桑田春風, F. Silcher"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -23,6 +23,9 @@ audio:
   - id: "kokubetsu"
     label: "鋼琴伴奏版"
     file: "kokubetsu.mp3"
+  - id: "kokubetsu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kokubetsu_neutrino.mp3"
 tmd_source:
   - "kokubetsu.tmd"
   - "kokubetsu_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kokubetsu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kokubetsu_neutrino.mp3"></audio>
 
 - 詞：桑田春風
 - 曲：F. Silcher

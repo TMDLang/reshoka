@@ -4,7 +4,7 @@ song_title: "太田道灌"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_1_05_ota_dokan"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈太田道灌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：旗野十一郎、曲：小山作之助），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：敷島の　みちのかどでは 七重八重　花はさけども　山吹の…"
+description: "〈太田道灌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：旗野十一郎、曲：小山作之助），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：敷島の　みちのかどでは 七重八重　花はさけども　山吹の…"
 keywords: "太田道灌, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 旗野十一郎, 小山作之助"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -23,6 +23,9 @@ audio:
   - id: "ota_dokan"
     label: "鋼琴伴奏版"
     file: "ota_dokan.mp3"
+  - id: "ota_dokan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ota_dokan_neutrino.mp3"
 tmd_source:
   - "ota_dokan.tmd"
   - "ota_dokan_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="ota_dokan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ota_dokan_neutrino.mp3"></audio>
 
 - 詞：旗野十一郎
 - 曲：小山作之助

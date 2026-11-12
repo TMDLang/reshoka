@@ -4,7 +4,7 @@ song_title: "舞踏"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_3_05_buto"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈舞踏〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：吉丸一昌），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：靡（なび）かす袖雪を廻（かへ）し くるり〳〵あな面白や…"
+description: "〈舞踏〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：吉丸一昌），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：靡（なび）かす袖雪を廻（かへ）し くるり〳〵あな面白や…"
 keywords: "舞踏, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 吉丸一昌"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -23,6 +23,9 @@ audio:
   - id: "buto"
     label: "鋼琴伴奏版"
     file: "buto.mp3"
+  - id: "buto_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "buto_neutrino.mp3"
 tmd_source:
   - "buto.tmd"
   - "buto_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="buto.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="buto_neutrino.mp3"></audio>
 
 - 詞：吉丸一昌
 - 出處：（北村中等音樂教科書）

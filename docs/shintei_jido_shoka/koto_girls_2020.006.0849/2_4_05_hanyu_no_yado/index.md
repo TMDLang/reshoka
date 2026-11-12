@@ -4,7 +4,7 @@ song_title: "埴生の宿"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_4_05_hanyu_no_yado"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈埴生の宿〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：里見義、曲：Henry Rowley Bishop），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：埴生（はにふ）の宿もわが宿 玉のよそひうらやまじ…"
+description: "〈埴生の宿〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：里見義、曲：Henry Rowley Bishop），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：埴生（はにふ）の宿もわが宿 玉のよそひうらやまじ…"
 keywords: "埴生の宿, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 里見義, Henry Rowley Bishop"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -23,6 +23,9 @@ audio:
   - id: "hanyu_no_yado"
     label: "鋼琴伴奏版"
     file: "hanyu_no_yado.mp3"
+  - id: "hanyu_no_yado_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hanyu_no_yado_neutrino.mp3"
 tmd_source:
   - "hanyu_no_yado.tmd"
   - "hanyu_no_yado_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="hanyu_no_yado.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hanyu_no_yado_neutrino.mp3"></audio>
 
 - 詞：里見義
 - 曲：Henry Rowley Bishop

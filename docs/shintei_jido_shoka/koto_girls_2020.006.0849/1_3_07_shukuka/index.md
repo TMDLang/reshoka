@@ -4,7 +4,7 @@ song_title: "祝歌"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_3_07_shukuka"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈祝歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：大和田建樹、曲：V. Bellini（ベリニー）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：萬歲（バンザイ）　萬歲（バンザイ）　萬歲（バンザイ）。 百鳥（モモトリ）鳴（ナ）き花（ハナ）も咲（サ）き出（イ）で、…"
+description: "〈祝歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：大和田建樹、曲：V. Bellini（ベリニー）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：萬歲（バンザイ）　萬歲（バンザイ）　萬歲（バンザイ）。 百鳥（モモトリ）鳴（ナ）き花（ハナ）も咲（サ）き出（イ）で、…"
 keywords: "祝歌, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹, V. Bellini（ベリニー）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -23,6 +23,9 @@ audio:
   - id: "shukuka"
     label: "鋼琴伴奏版"
     file: "shukuka.mp3"
+  - id: "shukuka_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "shukuka_neutrino.mp3"
 tmd_source:
   - "shukuka.tmd"
   - "shukuka_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="shukuka.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="shukuka_neutrino.mp3"></audio>
 
 - 詞：大和田建樹
 - 曲：V. Bellini（ベリニー）

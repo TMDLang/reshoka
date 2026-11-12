@@ -4,7 +4,7 @@ song_title: "懷友"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_3_05_kaiyu"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈懷友〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：武島羽衣、曲：Tomer），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：思へば懷（なつか）しや　ゆかしや我が友 學（まなび）の園生（そのふ）に　相睦（あひむつ）びし昔…"
+description: "〈懷友〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：武島羽衣、曲：Tomer），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：思へば懷（なつか）しや　ゆかしや我が友 學（まなび）の園生（そのふ）に　相睦（あひむつ）びし昔…"
 keywords: "懷友, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 武島羽衣, Tomer"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -22,6 +22,9 @@ audio:
   - id: "kaiyu"
     label: "鋼琴伴奏版"
     file: "kaiyu.mp3"
+  - id: "kaiyu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kaiyu_neutrino.mp3"
 tmd_source:
   - "kaiyu.tmd"
   - "kaiyu_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kaiyu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kaiyu_neutrino.mp3"></audio>
 
 - 詞：武島羽衣
 - 曲：Tomer

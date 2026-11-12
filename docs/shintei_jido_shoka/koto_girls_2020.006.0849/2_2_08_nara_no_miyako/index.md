@@ -4,7 +4,7 @@ song_title: "寧樂の都"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_2_2_08_nara_no_miyako"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈寧樂の都〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：E, 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ならのみやこのそのむかし みやびつくして宮（みや）びとの…"
+description: "〈寧樂の都〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849）），調號拍號：E, 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ならのみやこのそのむかし みやびつくして宮（みや）びとの…"
 keywords: "寧樂の都, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -21,6 +21,9 @@ audio:
   - id: "nara_no_miyako"
     label: "鋼琴伴奏版"
     file: "nara_no_miyako.mp3"
+  - id: "nara_no_miyako_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nara_no_miyako_neutrino.mp3"
 tmd_source:
   - "nara_no_miyako.tmd"
   - "nara_no_miyako_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="nara_no_miyako.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nara_no_miyako_neutrino.mp3"></audio>
 
 - 出處：小學唱歌集
 - 臺灣教育會公認《新定兒童唱歌》高等科女子用（2020.006.0849）

@@ -4,7 +4,7 @@ song_title: "漁火"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_1_02_isaribi"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈漁火〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：杉谷代水、曲：田村虎藏），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：天暗し　水くらし 低く高き　波の音…"
+description: "〈漁火〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：杉谷代水、曲：田村虎藏），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：天暗し　水くらし 低く高き　波の音…"
 keywords: "漁火, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 杉谷代水, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -22,6 +22,9 @@ audio:
   - id: "isaribi"
     label: "鋼琴伴奏版"
     file: "isaribi.mp3"
+  - id: "isaribi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "isaribi_neutrino.mp3"
 tmd_source:
   - "isaribi.tmd"
   - "isaribi_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="isaribi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="isaribi_neutrino.mp3"></audio>
 
 - 詞：杉谷代水
 - 曲：田村虎藏

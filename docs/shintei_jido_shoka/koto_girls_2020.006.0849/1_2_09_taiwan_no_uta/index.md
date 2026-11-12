@@ -4,7 +4,7 @@ song_title: "臺灣の歌"
 song_id: "shintei_jido_shoka_koto_girls_2020.006.0849_1_2_09_taiwan_no_uta"
 collection: "shintei_jido_shoka"
 volume: "koto_girls_2020.006.0849"
-description: "〈臺灣の歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：內田隆（昭和4年臺灣教育會選歌）、曲：信時潔），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　瓊矛（ぬぼこ）の露（つゆ）の一（ひと）しづく 八洲（やしま）のかなた南（みんなみ）の…"
+description: "〈臺灣の歌〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 女子一二年用（臺史博 2020.006.0849））（詞：內田隆（昭和4年臺灣教育會選歌）、曲：信時潔），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　瓊矛（ぬぼこ）の露（つゆ）の一（ひと）しづく 八洲（やしま）のかなた南（みんなみ）の…"
 keywords: "臺灣の歌, 新定兒童唱歌, 高等科 女子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 內田隆（昭和4年臺灣教育會選歌）, 信時潔"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 女子一二年用（臺史博 2020.006.0849）"
@@ -24,6 +24,9 @@ audio:
   - id: "taiwan_no_uta"
     label: "鋼琴伴奏版"
     file: "taiwan_no_uta.mp3"
+  - id: "taiwan_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taiwan_no_uta_neutrino.mp3"
 tmd_source:
   - "taiwan_no_uta.tmd"
   - "taiwan_no_uta_piano.tmd"
@@ -34,6 +37,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="taiwan_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taiwan_no_uta_neutrino.mp3"></audio>
 
 - 詞：內田隆（昭和4年臺灣教育會選歌）
 - 曲：信時潔
