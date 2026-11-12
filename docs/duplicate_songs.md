@@ -1,21 +1,21 @@
 ---
-title: 全站歌曲去重統計（825 首不重複歌曲、173 組重複歌曲）
-description: 全站 34 冊、1087 首曲目中，不重複歌曲數與同一首歌曲的出現位置。
+title: 全站歌曲去重統計（835 首不重複歌曲、181 組重複歌曲）
+description: 全站 35 冊、1106 首曲目中，不重複歌曲數與同一首歌曲的出現位置。
 keywords: 歷史歌曲, 跨冊重複歌曲, 公學校唱歌, 新定兒童唱歌, 唱歌帖
 ---
 
 # 全站歌曲去重統計
 
-全站目前掃描 **34 冊、1087 首曲目**，去除跨冊重複後共有 **825 首不重複歌曲**。
+全站目前掃描 **35 冊、1106 首曲目**，去除跨冊重複後共有 **835 首不重複歌曲**。
 
 ## 統計總覽
 
 | 項目 | 數量 |
 | :--- | ---: |
-| 全站曲目（含再創作） | **1087** |
-| 去重後歌曲 | **825** |
-| 重複歌曲組 | **173** |
-| 重複出現次數 | **435** |
+| 全站曲目（含再創作） | **1106** |
+| 去重後歌曲 | **835** |
+| 重複歌曲組 | **181** |
+| 重複出現次數 | **452** |
 
 ## 題材分類
 
@@ -25,14 +25,14 @@ keywords: 歷史歌曲, 跨冊重複歌曲, 公學校唱歌, 新定兒童唱歌,
 | :--- | ---: | ---: |
 | **儀式與紀念** | **12** | **45** |
 | **國家、軍事與忠烈** | **10** | **24** |
-| **臺灣與南洋** | **9** | **20** |
+| **臺灣與南洋** | **9** | **21** |
 | **歷史人物與傳說** | **12** | **33** |
 | **學校生活與集體活動** | **6** | **12** |
 | **自然、季節與風景** | **17** | **48** |
 | **動物與植物** | **25** | **58** |
 | **日常生活與遊戲** | **24** | **58** |
 | **藝術與娛樂** | **6** | **12** |
-| **其他** | **52** | **125** |
+| **其他** | **60** | **141** |
 
 ## 重複歌曲出處
 
@@ -80,7 +80,7 @@ keywords: 歷史歌曲, 跨冊重複歌曲, 公學校唱歌, 新定兒童唱歌,
 | 4 | **水牛／スヰギウ** | **《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈水牛〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md)<br>**《公學校唱歌》第二學年用（昭和11年／1936）**：[〈スヰギウ（水牛）〉](kogakko_shoka/grade_2/6_suigyu/index.md) |
 | 5 | **水牛／スヰギウ** | **《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）**：[〈水牛〉](shoka_kyozai_shu_1923/grade_3_4/44_suigyu/index.md)<br>**《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）**：[〈スヰギウ（水牛）〉](shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu/index.md) |
 | 6 | **神木** | **《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）**：[〈神木〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_02_shinboku/index.md)<br>**《公學校唱歌》第五學年用（昭和13年／1938）**：[〈神木〉](kogakko_shoka/grade_5/4_shinboku/index.md) |
-| 7 | **臺灣の歌** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈臺灣の歌〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈臺灣の歌〉](shintei_jido_shoka/koto_girls_2020.006.0849/1_2_09_taiwan_no_uta/index.md) |
+| 7 | **臺灣の歌** | **《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）**：[〈臺灣の歌〉](taiwan_no_uta/1_taiwan_no_uta/index.md)<br>**《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈臺灣の歌〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈臺灣の歌〉](shintei_jido_shoka/koto_girls_2020.006.0849/1_2_09_taiwan_no_uta/index.md) |
 | 8 | **臺灣の風景** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈臺灣の風景〉](kogakko_shokashu_1915/6_07_taiwan_no_fukei/index.md)<br>**《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈臺灣の風景〉](shoka_kyozai_shu_1923/grade_5_6/34_taiwan_no_fukei/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈臺灣の風景〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_07_taiwan_no_fukei/index.md) |
 | 9 | **臺灣行進歌** | **《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）**：[〈臺灣行進歌〉](taiwan_no_uta/6_taiwan_koshinka/index.md)<br>**《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈臺灣行進歌〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/index.md) |
 
@@ -224,39 +224,47 @@ keywords: 歷史歌曲, 跨冊重複歌曲, 公學校唱歌, 新定兒童唱歌,
 | 14 | **別れ** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈別れ〉](shoka_kyozai_shu_1923/grade_5_6/46_wakare/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈別れ〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈別れ〉](kogakko_shoka/grade_6/20_wakare/index.md) |
 | 15 | **助け舟／助け船／助船** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈助け舟〉](shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈助け船 (救生船)〉](shokacho/vol_10/p211_tasukebune/index.md)<br>**《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）**：[〈助船〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md)<br>**《公學校唱歌》第五學年用（昭和13年／1938）**：[〈助船〉](kogakko_shoka/grade_5/15_tasukebune/index.md) |
 | 16 | **千代田の宮** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈千代田の宮〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_3_01_chiyoda_no_miya/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈千代田の宮〉](shintei_jido_shoka/koto_girls_2020.006.0849/1_3_01_chiyoda_no_miya/index.md) |
-| 17 | **同情／おもひやり** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈同情〉](kogakko_shokashu_1915/4_03_dojo/index.md)<br>**《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈おもひやり（體貼同理）〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/3_02_omoiyari/index.md) |
-| 18 | **君が代の初春** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈君が代の初春（二部）〉](shoka_kyozai_shu_1923/koto_1_2/29_kimigayo_no_hatsuharu/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈君が代の初春〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu/index.md) |
-| 19 | **四季の散歩** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈四季の散歩〉](shoka_kyozai_shu_1923/koto_1_2/22_shiki_no_sanpo/index.md)<br>**楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）**：[〈四季の散歩〉](shokacho/vol_01/p158_shiki_no_sanpo/index.md) |
-| 20 | **埴生の宿** | **楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）**：[〈埴生の宿〉](shokacho/vol_02/p097_hanyu_no_yado/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈埴生の宿〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈埴生の宿〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈埴生の宿〉](kogakko_shoka/grade_6/13_hanyu_no_yado/index.md) |
-| 21 | **天然の美／美しき天然** | **楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）**：[〈天然の美〉](shokacho/vol_01/p131_tennen_no_bi/index.md)<br>**楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）**：[〈美しき天然〉](shokacho/vol_02/p104_utsukushiki_tennen/index.md) |
-| 22 | **妙義山** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈妙義山〉](shoka_kyozai_shu_1923/grade_5_6/11_myogisan/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈妙義山 (妙義山)〉](shokacho/vol_10/p216_myogisan/index.md)<br>**《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）**：[〈妙義山〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan/index.md) |
-| 23 | **小馬／小ウマ** | **《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈小馬〉](shoka_kyozai_shu_1923/grade_1_2/50_kouma/index.md)<br>**《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈小ウマ〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/index.md) |
-| 24 | **急流** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈急流〉](shintei_jido_shoka/koto_boys_2020.006.0848/2_2_03_kyuryu/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈急流〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_2_02_kyuryu/index.md) |
-| 25 | **懷友／懐友** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈懷友〉](shoka_kyozai_shu_1923/grade_5_6/45_kaiyu/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈懐友 (懷友)〉](shokacho/vol_10/p206_kaiyu/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈懷友〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu/index.md) |
-| 26 | **日の丸の旗／ヒノマルノハタ／ヒノマル ノ ハタ** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈日の丸の旗〉](kogakko_shokashu_1915/3_02_hinomaru_no_hata/index.md)<br>**《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈日の丸の旗〉](shoka_kyozai_shu_1923/grade_1_2/01_hinomaru_no_hata/index.md)<br>**《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）**：[〈ヒノマルノハタ（日之丸旗）〉](shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata/index.md)<br>**《公學校唱歌》第一學年用（昭和10年／1935）**：[〈ヒノマル ノ ハタ（日之丸旗）〉](kogakko_shoka/grade_1/1_hinomaru_no_hata/index.md) |
-| 27 | **春の野** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈春の野〉](shoka_kyozai_shu_1923/koto_1_2/21_haru_no_no/index.md)<br>**《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）**：[〈春の野〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md) |
-| 28 | **曉景（二部輪唱）／曉景** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈曉景（二部輪唱）〉](shoka_kyozai_shu_1923/koto_1_2/24_gyokei/index.md)<br>**楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）**：[〈曉景（二部輪唱）〉](shokacho/vol_02/p090_gyokei/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈曉景〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈曉景〉](kogakko_shoka/grade_6/17_gyokei/index.md) |
-| 29 | **朋友** | **《共益商社唱歌教科書》卷二・教師用（明治33年／1900）**：[〈朋友〉](kyoeki_shoka/kan_2_854863/5_hoyu/index.md)<br>**《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈朋友〉](shoka_kyozai_shu_1923/grade_5_6/02_hoyu/index.md) |
-| 30 | **樂しき我家／樂しき我が家** | **《共益商社唱歌教科書》卷四・教師用（明治33年／1900）**：[〈樂しき我家〉](kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md)<br>**《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈樂しき我家〉](shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈樂しき我家〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈樂しき我が家〉](kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md) |
-| 31 | **歸雁** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈歸雁〉](shoka_kyozai_shu_1923/koto_1_2/10_kigan/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈歸雁 (歸雁)〉](shokacho/vol_10/p198_kigan/index.md) |
-| 32 | **水グルマ／ミヅグルマ** | **《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈水グルマ〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md)<br>**《公學校唱歌》第二學年用（昭和11年／1936）**：[〈ミヅグルマ（水車）〉](kogakko_shoka/grade_2/1_mizuguruma/index.md) |
-| 33 | **炭やき／すみやき** | **《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈炭やき（燒炭）〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/3_04_sumiyaki/index.md)<br>**《公學校唱歌》第三學年（昭和10年／1935）**：[〈すみやき（燒炭）〉](kogakko_shoka/grade_3/14_sumiyaki/index.md) |
-| 34 | **現人神** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈現人神〉](shintei_jido_shoka/koto_boys_2020.006.0848/2_3_03_arahitogami/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈現人神〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_3_01_arahitogami/index.md) |
-| 35 | **田舎の夕暮／田舍の夕暮** | **楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）**：[〈田舎の夕暮（鄉村的黃昏）〉](shokacho/vol_08/p022_inaka_no_yugure/index.md)<br>**《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈田舍の夕暮〉](shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md) |
-| 36 | **祝ひ日／いはひ日** | **《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）**：[〈祝ひ日〉](kyoeki_shoka/kan_1_854862/3_iwaibi/index.md)<br>**《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈いはひ日〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/3_05_iwaibi/index.md) |
-| 37 | **箱庭／ハコニハ** | **《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈箱庭〉](shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa/index.md)<br>**《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈ハコニハ（箱庭）〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa/index.md) |
-| 38 | **綱引き／綱ひき** | **《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）**：[〈綱引き〉](shoka_kyozai_shu_1923/grade_3_4/40_tsunahiki/index.md)<br>**《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈綱ひき〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_01_tsunahiki/index.md) |
-| 39 | **羽衣** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈羽衣〉](shoka_kyozai_shu_1923/grade_5_6/47_hagoromo/index.md)<br>**楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）**：[〈羽衣〉](shokacho/vol_01/p157_hagoromo/index.md)<br>**《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）**：[〈羽衣〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo/index.md) |
-| 40 | **航海** | **《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）**：[〈航海〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈航海〉](kogakko_shoka/grade_6/8_kokai/index.md) |
-| 41 | **船子** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈船子〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_4_02_funako/index.md)<br>**《公學校唱歌》第五學年用（昭和13年／1938）**：[〈船子〉](kogakko_shoka/grade_5/17_funako/index.md) |
-| 42 | **花咲爺** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈花咲爺〉](kogakko_shokashu_1915/3_07_hanasaka_jijii/index.md)<br>**《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）**：[〈花咲爺〉](shoka_kyozai_shu_1923/grade_3_4/09_hanasaka_jijii/index.md) |
-| 43 | **花咲爺／花さかぢぢい** | **《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈花咲爺〉](shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii/index.md)<br>**《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈花さかぢぢい〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md) |
-| 44 | **花／ハナ** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈花〉](kogakko_shokashu_1915/2_02_hana/index.md)<br>**《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈花〉](shoka_kyozai_shu_1923/grade_1_2/33_hana/index.md)<br>**《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）**：[〈ハナ（花）〉](shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/index.md) |
-| 45 | **蓄音機** | **《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）**：[〈蓄音機〉](shoka_kyozai_shu_1923/grade_3_4/45_chikuonki/index.md)<br>**《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈蓄音機（留聲機）〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki/index.md) |
-| 46 | **蓮池** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈蓮池〉](shoka_kyozai_shu_1923/grade_5_6/48_hasuike/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈蓮池〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/1_09_hasuike/index.md) |
-| 47 | **足柄山** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈足柄山〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_2_03_ashigarayama/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈足柄山〉](shintei_jido_shoka/koto_girls_2020.006.0849/1_2_03_ashigarayama/index.md) |
-| 48 | **農商工** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈農商工〉](kogakko_shokashu_1915/6_03_no_sho_ko/index.md)<br>**《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈農商工〉](shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko/index.md)<br>**《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）**：[〈農商工〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko/index.md)<br>**《公學校唱歌》第五學年用（昭和13年／1938）**：[〈農商工〉](kogakko_shoka/grade_5/9_no_sho_ko/index.md) |
-| 49 | **送別の歌** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈送別の歌〉](shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈送別の歌 (送別之歌)〉](shokacho/vol_10/p197_sobetsu_no_uta/index.md) |
-| 50 | **遠別離** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈遠別離〉](shoka_kyozai_shu_1923/koto_1_2/30_enbetsuri/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈遠別離 (遠別離)〉](shokacho/vol_10/p199_enbetsuri/index.md) |
-| 51 | **遠足** | **《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）**：[〈遠足〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/2_04_ensoku/index.md)<br>**《公學校唱歌》第四學年用（昭和12年／1937）**：[〈遠足〉](kogakko_shoka/grade_4/10_ensoku/index.md) |
-| 52 | **陣營の月** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈陣營の月〉](shoka_kyozai_shu_1923/koto_1_2/14_jinei_no_tsuki/index.md)<br>**楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）**：[〈陣營の月（軍營之月）〉](shokacho/vol_08/p019_jinei_no_tsuki/index.md) |
+| 17 | **去年今夜** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈去年今夜〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_2_04_kyonen_konya/index.md)<br>**《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）**：[〈去年今夜〉](kogakko_shoka/koto_1/14_kyonen_konya/index.md) |
+| 18 | **同情／おもひやり** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈同情〉](kogakko_shokashu_1915/4_03_dojo/index.md)<br>**《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈おもひやり（體貼同理）〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/3_02_omoiyari/index.md) |
+| 19 | **君が代の初春** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈君が代の初春（二部）〉](shoka_kyozai_shu_1923/koto_1_2/29_kimigayo_no_hatsuharu/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈君が代の初春〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu/index.md) |
+| 20 | **四季の散歩** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈四季の散歩〉](shoka_kyozai_shu_1923/koto_1_2/22_shiki_no_sanpo/index.md)<br>**楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）**：[〈四季の散歩〉](shokacho/vol_01/p158_shiki_no_sanpo/index.md) |
+| 21 | **埴生の宿** | **楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）**：[〈埴生の宿〉](shokacho/vol_02/p097_hanyu_no_yado/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈埴生の宿〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_11_hanyu_no_yado/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈埴生の宿〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_05_hanyu_no_yado/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈埴生の宿〉](kogakko_shoka/grade_6/13_hanyu_no_yado/index.md) |
+| 22 | **大和魂** | **《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈大和魂〉](shintei_jido_shoka/koto_girls_2020.006.0849/1_2_05_yamato_damashii/index.md)<br>**《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）**：[〈大和魂〉](kogakko_shoka/koto_1/21_yamato_damashii/index.md) |
+| 23 | **天然の美／美しき天然** | **楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）**：[〈天然の美〉](shokacho/vol_01/p131_tennen_no_bi/index.md)<br>**楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）**：[〈美しき天然〉](shokacho/vol_02/p104_utsukushiki_tennen/index.md) |
+| 24 | **太田道灌** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈太田道灌〉](shoka_kyozai_shu_1923/koto_1_2/36_ota_dokan/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈太田道灌〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_1_05_ota_dokan/index.md) |
+| 25 | **妙義山** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈妙義山〉](shoka_kyozai_shu_1923/grade_5_6/11_myogisan/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈妙義山 (妙義山)〉](shokacho/vol_10/p216_myogisan/index.md)<br>**《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）**：[〈妙義山〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan/index.md) |
+| 26 | **子守歌** | **《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈子守歌〉](shintei_jido_shoka/koto_girls_2020.006.0849/1_2_06_komoriuta/index.md)<br>**《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）**：[〈子守歌〉](kogakko_shoka/koto_1/20_komoriuta/index.md) |
+| 27 | **學友** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈學友〉](shoka_kyozai_shu_1923/grade_5_6/22_gakuyu/index.md)<br>**《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈學友〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_1_01_gakuyu/index.md) |
+| 28 | **小馬／小ウマ** | **《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈小馬〉](shoka_kyozai_shu_1923/grade_1_2/50_kouma/index.md)<br>**《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈小ウマ〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_04_kouma/index.md) |
+| 29 | **急流** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈急流〉](shintei_jido_shoka/koto_boys_2020.006.0848/2_2_03_kyuryu/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈急流〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_2_02_kyuryu/index.md) |
+| 30 | **懷友／懐友** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈懷友〉](shoka_kyozai_shu_1923/grade_5_6/45_kaiyu/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈懐友 (懷友)〉](shokacho/vol_10/p206_kaiyu/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈懷友〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_3_05_kaiyu/index.md) |
+| 31 | **日の丸の旗／ヒノマルノハタ／ヒノマル ノ ハタ** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈日の丸の旗〉](kogakko_shokashu_1915/3_02_hinomaru_no_hata/index.md)<br>**《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈日の丸の旗〉](shoka_kyozai_shu_1923/grade_1_2/01_hinomaru_no_hata/index.md)<br>**《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）**：[〈ヒノマルノハタ（日之丸旗）〉](shintei_jido_shoka/grade_1_2020.006.0847.0001/1_01_hinomaru_no_hata/index.md)<br>**《公學校唱歌》第一學年用（昭和10年／1935）**：[〈ヒノマル ノ ハタ（日之丸旗）〉](kogakko_shoka/grade_1/1_hinomaru_no_hata/index.md) |
+| 32 | **春の野** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈春の野〉](shoka_kyozai_shu_1923/koto_1_2/21_haru_no_no/index.md)<br>**《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）**：[〈春の野〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_01_haru_no_no/index.md) |
+| 33 | **曉景（二部輪唱）／曉景** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈曉景（二部輪唱）〉](shoka_kyozai_shu_1923/koto_1_2/24_gyokei/index.md)<br>**楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）**：[〈曉景（二部輪唱）〉](shokacho/vol_02/p090_gyokei/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈曉景〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/4_08_gyokei/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈曉景〉](kogakko_shoka/grade_6/17_gyokei/index.md) |
+| 34 | **朋友** | **《共益商社唱歌教科書》卷二・教師用（明治33年／1900）**：[〈朋友〉](kyoeki_shoka/kan_2_854863/5_hoyu/index.md)<br>**《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈朋友〉](shoka_kyozai_shu_1923/grade_5_6/02_hoyu/index.md) |
+| 35 | **村祭** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈村祭（二部）〉](shoka_kyozai_shu_1923/koto_1_2/07_muramatsuri/index.md)<br>**《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈村祭〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_5_02_muramatsuri/index.md) |
+| 36 | **樂しき我家／樂しき我が家** | **《共益商社唱歌教科書》卷四・教師用（明治33年／1900）**：[〈樂しき我家〉](kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md)<br>**《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈樂しき我家〉](shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈樂しき我家〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈樂しき我が家〉](kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md) |
+| 37 | **歸雁** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈歸雁〉](shoka_kyozai_shu_1923/koto_1_2/10_kigan/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈歸雁 (歸雁)〉](shokacho/vol_10/p198_kigan/index.md) |
+| 38 | **水グルマ／ミヅグルマ** | **《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈水グルマ〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md)<br>**《公學校唱歌》第二學年用（昭和11年／1936）**：[〈ミヅグルマ（水車）〉](kogakko_shoka/grade_2/1_mizuguruma/index.md) |
+| 39 | **淡水河** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈淡水河〉](shoka_kyozai_shu_1923/koto_1_2/39_tansuigawa/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈淡水河〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_2_09_tansuigawa/index.md) |
+| 40 | **炭やき／すみやき** | **《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈炭やき（燒炭）〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/3_04_sumiyaki/index.md)<br>**《公學校唱歌》第三學年（昭和10年／1935）**：[〈すみやき（燒炭）〉](kogakko_shoka/grade_3/14_sumiyaki/index.md) |
+| 41 | **現人神** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈現人神〉](shintei_jido_shoka/koto_boys_2020.006.0848/2_3_03_arahitogami/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈現人神〉](shintei_jido_shoka/koto_girls_2020.006.0849/2_3_01_arahitogami/index.md) |
+| 42 | **田舎の夕暮／田舍の夕暮** | **楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）**：[〈田舎の夕暮（鄉村的黃昏）〉](shokacho/vol_08/p022_inaka_no_yugure/index.md)<br>**《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈田舍の夕暮〉](shintei_jido_shoka/koto_boys_2020.006.0848/2_2_07_inaka_no_yugure/index.md) |
+| 43 | **祝ひ日／いはひ日** | **《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）**：[〈祝ひ日〉](kyoeki_shoka/kan_1_854862/3_iwaibi/index.md)<br>**《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈いはひ日〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/3_05_iwaibi/index.md) |
+| 44 | **箱庭／ハコニハ** | **《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈箱庭〉](shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa/index.md)<br>**《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈ハコニハ（箱庭）〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa/index.md) |
+| 45 | **綱引き／綱ひき** | **《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）**：[〈綱引き〉](shoka_kyozai_shu_1923/grade_3_4/40_tsunahiki/index.md)<br>**《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈綱ひき〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_01_tsunahiki/index.md) |
+| 46 | **羽衣** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈羽衣〉](shoka_kyozai_shu_1923/grade_5_6/47_hagoromo/index.md)<br>**楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）**：[〈羽衣〉](shokacho/vol_01/p157_hagoromo/index.md)<br>**《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）**：[〈羽衣〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_04_hagoromo/index.md) |
+| 47 | **航海** | **《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）**：[〈航海〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_10_kokai/index.md)<br>**《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）**：[〈航海〉](kogakko_shoka/grade_6/8_kokai/index.md) |
+| 48 | **船子** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈船子〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_4_02_funako/index.md)<br>**《公學校唱歌》第五學年用（昭和13年／1938）**：[〈船子〉](kogakko_shoka/grade_5/17_funako/index.md) |
+| 49 | **花咲爺** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈花咲爺〉](kogakko_shokashu_1915/3_07_hanasaka_jijii/index.md)<br>**《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）**：[〈花咲爺〉](shoka_kyozai_shu_1923/grade_3_4/09_hanasaka_jijii/index.md) |
+| 50 | **花咲爺／花さかぢぢい** | **《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈花咲爺〉](shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii/index.md)<br>**《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）**：[〈花さかぢぢい〉](shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md) |
+| 51 | **花／ハナ** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈花〉](kogakko_shokashu_1915/2_02_hana/index.md)<br>**《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈花〉](shoka_kyozai_shu_1923/grade_1_2/33_hana/index.md)<br>**《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）**：[〈ハナ（花）〉](shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/index.md) |
+| 52 | **蓄音機** | **《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）**：[〈蓄音機〉](shoka_kyozai_shu_1923/grade_3_4/45_chikuonki/index.md)<br>**《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）**：[〈蓄音機（留聲機）〉](shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki/index.md) |
+| 53 | **蓮池** | **《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈蓮池〉](shoka_kyozai_shu_1923/grade_5_6/48_hasuike/index.md)<br>**《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）**：[〈蓮池〉](shintei_jido_shoka/grade_6_2020.006.0847.0006/1_09_hasuike/index.md) |
+| 54 | **足柄山** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈足柄山〉](shintei_jido_shoka/koto_boys_2020.006.0848/1_2_03_ashigarayama/index.md)<br>**《新定兒童唱歌》高等科女子用（2020.006.0849）**：[〈足柄山〉](shintei_jido_shoka/koto_girls_2020.006.0849/1_2_03_ashigarayama/index.md) |
+| 55 | **農商工** | **《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）**：[〈農商工〉](kogakko_shokashu_1915/6_03_no_sho_ko/index.md)<br>**《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）**：[〈農商工〉](shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko/index.md)<br>**《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）**：[〈農商工〉](shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko/index.md)<br>**《公學校唱歌》第五學年用（昭和13年／1938）**：[〈農商工〉](kogakko_shoka/grade_5/9_no_sho_ko/index.md) |
+| 56 | **送別の歌** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈送別の歌〉](shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈送別の歌 (送別之歌)〉](shokacho/vol_10/p197_sobetsu_no_uta/index.md) |
+| 57 | **遠別離** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈遠別離〉](shoka_kyozai_shu_1923/koto_1_2/30_enbetsuri/index.md)<br>**楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）**：[〈遠別離 (遠別離)〉](shokacho/vol_10/p199_enbetsuri/index.md) |
+| 58 | **遠足** | **《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）**：[〈遠足〉](shintei_jido_shoka/grade_4_2020.006.0847.0004/2_04_ensoku/index.md)<br>**《公學校唱歌》第四學年用（昭和12年／1937）**：[〈遠足〉](kogakko_shoka/grade_4/10_ensoku/index.md) |
+| 59 | **陣營の月** | **《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）**：[〈陣營の月〉](shoka_kyozai_shu_1923/koto_1_2/14_jinei_no_tsuki/index.md)<br>**楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）**：[〈陣營の月（軍營之月）〉](shokacho/vol_08/p019_jinei_no_tsuki/index.md) |
+| 60 | **青年の歌** | **《新定兒童唱歌》高等科男子用（2020.006.0848）**：[〈青年の歌〉](shintei_jido_shoka/koto_boys_2020.006.0848/2_3_06_seinen_no_uta/index.md)<br>**《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）**：[〈青年の歌〉](kogakko_shoka/koto_1/23_seinen_no_uta/index.md) |

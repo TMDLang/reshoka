@@ -278,6 +278,7 @@ BOOK_LABELS: dict[str, str] = {
     "kogakko_shoka/grade_4": "《公學校唱歌》第四學年用（昭和12年／1937）",
     "kogakko_shoka/grade_5": "《公學校唱歌》第五學年用（昭和13年／1938）",
     "kogakko_shoka/grade_6": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+    "kogakko_shoka/koto_1": "《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）",
     "shintei_jido_shoka/grade_1_2020.006.0847.0001": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
     "shintei_jido_shoka/grade_2_2020.006.0847.0002": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
     "shintei_jido_shoka/grade_3_2020.006.0847.0003": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
@@ -321,6 +322,7 @@ PUBLICATION_YEAR_BY_KOGAKKO_VOLUME: dict[str, int] = {
     "grade_4": 1937,
     "grade_5": 1938,
     "grade_6": 1940,
+    "koto_1": 1936,
 }
 
 

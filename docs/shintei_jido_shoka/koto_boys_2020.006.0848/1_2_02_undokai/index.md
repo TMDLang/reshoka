@@ -4,7 +4,7 @@ song_title: "運動會"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_2_02_undokai"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈運動會〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹（松邑三松堂發行檢定唱歌集）、曲：R. Wagner（ワグナー）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：風（かぜ）なく、雲（くも）なく、たぐひ稀（まれ）の空色（そらいろ）、 鳥（とり）啼（な）き、花（はな）咲（さ）き、野邊（…"
+description: "〈運動會〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹（松邑三松堂發行檢定唱歌集）、曲：R. Wagner（ワグナー）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：風（かぜ）なく、雲（くも）なく、たぐひ稀（まれ）の空色（そらいろ）、 鳥（とり）啼（な）き、花（はな）咲（さ）き、野邊（…"
 keywords: "運動會, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹（松邑三松堂發行檢定唱歌集）, R. Wagner（ワグナー）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -23,6 +23,9 @@ audio:
   - id: "undokai"
     label: "鋼琴伴奏版"
     file: "undokai.mp3"
+  - id: "undokai_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "undokai_neutrino.mp3"
 tmd_source:
   - "undokai.tmd"
   - "undokai_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="undokai.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="undokai_neutrino.mp3"></audio>
 
 - 詞：大和田建樹（松邑三松堂發行檢定唱歌集）
 - 曲：R. Wagner（ワグナー）

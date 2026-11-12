@@ -803,9 +803,21 @@ def main() -> None:
         if not song_dirs:
             sys.exit(f"❌ 在目錄 {target_path} 下找不到任何 .tmd 檔案")
         print(f"📚 批次處理目錄：{target_path}（共 {len(song_dirs)} 首曲目）\n")
+        failures: list[tuple[Path, Exception]] = []
         for idx, s_dir in enumerate(song_dirs, start=1):
             print(f"==================== [{idx}/{len(song_dirs)}] {s_dir.name} ====================", flush=True)
-            render_single_song(s_dir, args, neutrino_dir, model_dir, model_dirs)
+            try:
+                render_single_song(s_dir, args, neutrino_dir, model_dir, model_dirs)
+            except Exception as exc:
+                failures.append((s_dir, exc))
+                print(f"⚠️ 失敗，略過並繼續：{s_dir}\n{exc}\n", file=sys.stderr, flush=True)
+
+        if failures:
+            print(f"⚠️ 批次處理完成，但有 {len(failures)} 首曲目失敗：", file=sys.stderr)
+            for song_dir, exc in failures:
+                print(f"   - {song_dir}: {exc}", file=sys.stderr)
+        else:
+            print("✅ 批次處理完成，所有曲目皆成功。")
     else:
         render_single_song(target_path, args, neutrino_dir, model_dir, model_dirs)
 

@@ -4,7 +4,7 @@ song_title: "日本男兒"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_2_08_nihon_danji"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈日本男兒〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：蘆田惠之助（松邑三松堂發行檢定唱歌集）、曲：A. Neithardt（ナイハルト）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山（やま）の樣（さま）海（うみ）の姿（すがた）、 美（び）なる國（くに）よ日（ひ）の本（もと）は、…"
+description: "〈日本男兒〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：蘆田惠之助（松邑三松堂發行檢定唱歌集）、曲：A. Neithardt（ナイハルト）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山（やま）の樣（さま）海（うみ）の姿（すがた）、 美（び）なる國（くに）よ日（ひ）の本（もと）は、…"
 keywords: "日本男兒, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 蘆田惠之助（松邑三松堂發行檢定唱歌集）, A. Neithardt（ナイハルト）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -22,6 +22,9 @@ audio:
   - id: "nihon_danji"
     label: "鋼琴伴奏版"
     file: "nihon_danji.mp3"
+  - id: "nihon_danji_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nihon_danji_neutrino.mp3"
 tmd_source:
   - "nihon_danji.tmd"
   - "nihon_danji_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="nihon_danji.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_danji_neutrino.mp3"></audio>
 
 - 詞：蘆田惠之助（松邑三松堂發行檢定唱歌集）
 - 曲：A. Neithardt（ナイハルト）

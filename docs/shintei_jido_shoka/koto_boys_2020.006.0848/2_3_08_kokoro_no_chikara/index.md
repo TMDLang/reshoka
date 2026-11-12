@@ -4,7 +4,7 @@ song_title: "心の力"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_08_kokoro_no_chikara"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈心の力〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　この世に生れて空しく果てんや 鐵石の腸（はらわた）われにあり…"
+description: "〈心の力〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　この世に生れて空しく果てんや 鐵石の腸（はらわた）われにあり…"
 keywords: "心の力, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -21,6 +21,9 @@ audio:
   - id: "kokoro_no_chikara"
     label: "鋼琴伴奏版"
     file: "kokoro_no_chikara.mp3"
+  - id: "kokoro_no_chikara_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kokoro_no_chikara_neutrino.mp3"
 tmd_source:
   - "kokoro_no_chikara.tmd"
   - "kokoro_no_chikara_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kokoro_no_chikara.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kokoro_no_chikara_neutrino.mp3"></audio>
 
 - 編：北村季晴
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

@@ -4,7 +4,7 @@ song_title: "憲法發布"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_3_04_kenpo_happu"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈憲法發布〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野士良、曲：F. J. Haydn（ハイドン）），調號拍號：Eb 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月日の影かも隈なく照るは 惠の露かも漏らさずおくは…"
+description: "〈憲法發布〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野士良、曲：F. J. Haydn（ハイドン）），調號拍號：Eb 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月日の影かも隈なく照るは 惠の露かも漏らさずおくは…"
 keywords: "憲法發布, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 旗野士良, F. J. Haydn（ハイドン）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -22,6 +22,9 @@ audio:
   - id: "kenpo_happu"
     label: "鋼琴伴奏版"
     file: "kenpo_happu.mp3"
+  - id: "kenpo_happu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kenpo_happu_neutrino.mp3"
 tmd_source:
   - "kenpo_happu.tmd"
   - "kenpo_happu_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kenpo_happu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kenpo_happu_neutrino.mp3"></audio>
 
 - 詞：旗野士良
 - 曲：F. J. Haydn（ハイドン）

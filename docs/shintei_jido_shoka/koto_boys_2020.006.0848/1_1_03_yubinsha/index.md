@@ -4,7 +4,7 @@ song_title: "郵便車"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_03_yubinsha"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈郵便車〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：蘆田惠之助、曲：獨國風曲），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　長堤（ちゃうてい）十里（じふり）、霞（かすみ）こめて、 柳（やなぎ）に見（み）ゆる、春（はる）の風（かぜ）。…"
+description: "〈郵便車〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：蘆田惠之助、曲：獨國風曲），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　長堤（ちゃうてい）十里（じふり）、霞（かすみ）こめて、 柳（やなぎ）に見（み）ゆる、春（はる）の風（かぜ）。…"
 keywords: "郵便車, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 蘆田惠之助, 獨國風曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -22,6 +22,9 @@ audio:
   - id: "yubinsha"
     label: "鋼琴伴奏版"
     file: "yubinsha.mp3"
+  - id: "yubinsha_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yubinsha_neutrino.mp3"
 tmd_source:
   - "yubinsha.tmd"
   - "yubinsha_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="yubinsha.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yubinsha_neutrino.mp3"></audio>
 
 - 詞：蘆田惠之助
 - 曲：獨國風曲

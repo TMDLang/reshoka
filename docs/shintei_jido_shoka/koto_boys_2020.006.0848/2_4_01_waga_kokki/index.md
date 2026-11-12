@@ -4,7 +4,7 @@ song_title: "我が國旗"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_4_01_waga_kokki"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈我が國旗〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：不詳、曲：歐洲曲），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　萬（よろづ）の國（くに）に、たぐひもなき、 豐榮昇（とよさかのぼ）る、朝日（あさひ）の旗（はた）。…"
+description: "〈我が國旗〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：不詳、曲：歐洲曲），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　萬（よろづ）の國（くに）に、たぐひもなき、 豐榮昇（とよさかのぼ）る、朝日（あさひ）の旗（はた）。…"
 keywords: "我が國旗, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 不詳, 歐洲曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -22,6 +22,9 @@ audio:
   - id: "waga_kokki"
     label: "鋼琴伴奏版"
     file: "waga_kokki.mp3"
+  - id: "waga_kokki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "waga_kokki_neutrino.mp3"
 tmd_source:
   - "waga_kokki.tmd"
   - "waga_kokki_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="waga_kokki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="waga_kokki_neutrino.mp3"></audio>
 
 - 詞：不詳
 - 曲：歐洲曲

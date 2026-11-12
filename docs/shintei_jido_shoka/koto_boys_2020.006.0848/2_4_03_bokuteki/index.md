@@ -4,7 +4,7 @@ song_title: "牧笛"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_4_03_bokuteki"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈牧笛〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：杉谷代水、曲：グロース（獨）（Groos）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　舊趾（きゆうし）を弔（とむら）ふ、秋風淋（あきかぜさび）しく、 昔（むかし）の調（しらべ）か、牛追（うしお）ふ童（わ…"
+description: "〈牧笛〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：杉谷代水、曲：グロース（獨）（Groos）），調號拍號：G 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　舊趾（きゆうし）を弔（とむら）ふ、秋風淋（あきかぜさび）しく、 昔（むかし）の調（しらべ）か、牛追（うしお）ふ童（わ…"
 keywords: "牧笛, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 杉谷代水, グロース（獨）（Groos）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -23,6 +23,9 @@ audio:
   - id: "bokuteki"
     label: "鋼琴伴奏版"
     file: "bokuteki.mp3"
+  - id: "bokuteki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "bokuteki_neutrino.mp3"
 tmd_source:
   - "bokuteki.tmd"
   - "bokuteki_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="bokuteki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="bokuteki_neutrino.mp3"></audio>
 
 - 詞：杉谷代水
 - 曲：グロース（獨）（Groos）

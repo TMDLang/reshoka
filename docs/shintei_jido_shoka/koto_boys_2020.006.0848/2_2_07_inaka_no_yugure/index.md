@@ -4,7 +4,7 @@ song_title: "田舍の夕暮"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_2_07_inaka_no_yugure"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈田舍の夕暮〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（曲：北村季晴氏編），調號拍號：E, 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：端山（はやま）のみ空の雲の旗手 黃金の色にぞかはり行きて…"
+description: "〈田舍の夕暮〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（曲：北村季晴氏編），調號拍號：E, 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：端山（はやま）のみ空の雲の旗手 黃金の色にぞかはり行きて…"
 keywords: "田舍の夕暮, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 北村季晴氏編"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -22,6 +22,9 @@ audio:
   - id: "inaka_no_yugure"
     label: "鋼琴伴奏版"
     file: "inaka_no_yugure.mp3"
+  - id: "inaka_no_yugure_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "inaka_no_yugure_neutrino.mp3"
 tmd_source:
   - "inaka_no_yugure.tmd"
   - "inaka_no_yugure_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="inaka_no_yugure.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="inaka_no_yugure_neutrino.mp3"></audio>
 
 - 曲：北村季晴氏編
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

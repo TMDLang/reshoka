@@ -4,7 +4,7 @@ song_title: "御國の民"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_1_08_mikuni_no_tami"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈御國の民〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：東京音樂學校編《中等唱歌》、曲：東京音樂學校編《中等唱歌》），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：御國（みくに）の民（たみ）よ、わが同胞（はらから）よ　國（くに）のため盡（つく）せ、君（きみ）のため盡（つく）せ 家（い…"
+description: "〈御國の民〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：東京音樂學校編《中等唱歌》、曲：東京音樂學校編《中等唱歌》），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：御國（みくに）の民（たみ）よ、わが同胞（はらから）よ　國（くに）のため盡（つく）せ、君（きみ）のため盡（つく）せ 家（い…"
 keywords: "御國の民, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 東京音樂學校編《中等唱歌》"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -23,6 +23,9 @@ audio:
   - id: "mikuni_no_tami"
     label: "鋼琴伴奏版"
     file: "mikuni_no_tami.mp3"
+  - id: "mikuni_no_tami_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "mikuni_no_tami_neutrino.mp3"
 tmd_source:
   - "mikuni_no_tami.tmd"
   - "mikuni_no_tami_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="mikuni_no_tami.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="mikuni_no_tami_neutrino.mp3"></audio>
 
 - 詞：東京音樂學校編《中等唱歌》
 - 曲：東京音樂學校編《中等唱歌》

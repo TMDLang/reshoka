@@ -4,7 +4,7 @@ song_title: "村祭"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_5_02_muramatsuri"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈村祭〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：向ひの岡の鎮守の森に 祭の旗はひら／＼ひらめく…"
+description: "〈村祭〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：向ひの岡の鎮守の森に 祭の旗はひら／＼ひらめく…"
 keywords: "村祭, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -19,6 +19,9 @@ audio:
   - id: "muramatsuri"
     label: "鋼琴伴奏版"
     file: "muramatsuri.mp3"
+  - id: "muramatsuri_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "muramatsuri_neutrino.mp3"
 tmd_source:
   - "muramatsuri.tmd"
   - "muramatsuri_piano.tmd"
@@ -29,6 +32,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="muramatsuri.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="muramatsuri_neutrino.mp3"></audio>
 
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）
 

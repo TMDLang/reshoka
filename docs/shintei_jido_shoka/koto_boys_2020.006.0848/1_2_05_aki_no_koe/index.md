@@ -4,7 +4,7 @@ song_title: "秋の聲"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_2_05_aki_no_koe"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈秋の聲〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月（つき）の軒端（のきば）に　書（ふみ）讀（よ）む夜半（よは） 机（つくゑ）の上（うへ）に　落（お）ちて來（く）るは…"
+description: "〈秋の聲〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月（つき）の軒端（のきば）に　書（ふみ）讀（よ）む夜半（よは） 机（つくゑ）の上（うへ）に　落（お）ちて來（く）るは…"
 keywords: "秋の聲, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -20,6 +20,9 @@ audio:
   - id: "aki_no_koe"
     label: "鋼琴伴奏版"
     file: "aki_no_koe.mp3"
+  - id: "aki_no_koe_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "aki_no_koe_neutrino.mp3"
 tmd_source:
   - "aki_no_koe.tmd"
   - "aki_no_koe_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="aki_no_koe.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="aki_no_koe_neutrino.mp3"></audio>
 
 - 編：北村季晴（弘樂社發行中等音樂教科書）
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

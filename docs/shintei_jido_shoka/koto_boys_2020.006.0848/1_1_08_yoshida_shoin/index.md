@@ -4,7 +4,7 @@ song_title: "吉田松陰"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_1_08_yoshida_shoin"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈吉田松陰〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：土井林吉（土井晩翠）、曲：小山作之助），調號拍號：C 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　四海（しかい）の鼎（かなへ）と　沸（わ）き立（た）つ中（なか）に、 尊王攘夷（そんわうじゃうい）の　雄叫（をたけび）…"
+description: "〈吉田松陰〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：土井林吉（土井晩翠）、曲：小山作之助），調號拍號：C 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　四海（しかい）の鼎（かなへ）と　沸（わ）き立（た）つ中（なか）に、 尊王攘夷（そんわうじゃうい）の　雄叫（をたけび）…"
 keywords: "吉田松陰, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 土井林吉（土井晩翠）, 小山作之助"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -23,6 +23,9 @@ audio:
   - id: "yoshida_shoin"
     label: "鋼琴伴奏版"
     file: "yoshida_shoin.mp3"
+  - id: "yoshida_shoin_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yoshida_shoin_neutrino.mp3"
 tmd_source:
   - "yoshida_shoin.tmd"
   - "yoshida_shoin_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="yoshida_shoin.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yoshida_shoin_neutrino.mp3"></audio>
 
 - 詞：土井林吉（土井晩翠）
 - 曲：小山作之助

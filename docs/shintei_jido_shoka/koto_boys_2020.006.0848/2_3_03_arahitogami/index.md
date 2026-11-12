@@ -4,7 +4,7 @@ song_title: "現人神"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_03_arahitogami"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈現人神〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：鳥居忱、曲：アーン（英）（Arne）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：天晴（あはれ）たふと、天皇（すめらぎ）、 萬代（よろづよ）變（かは）らぬ、天（あま）つ日嗣（ひつぎ）。…"
+description: "〈現人神〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：鳥居忱、曲：アーン（英）（Arne）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：天晴（あはれ）たふと、天皇（すめらぎ）、 萬代（よろづよ）變（かは）らぬ、天（あま）つ日嗣（ひつぎ）。…"
 keywords: "現人神, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 鳥居忱, アーン（英）（Arne）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -23,6 +23,9 @@ audio:
   - id: "arahitogami"
     label: "鋼琴伴奏版"
     file: "arahitogami.mp3"
+  - id: "arahitogami_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "arahitogami_neutrino.mp3"
 tmd_source:
   - "arahitogami.tmd"
   - "arahitogami_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="arahitogami.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="arahitogami_neutrino.mp3"></audio>
 
 - 詞：鳥居忱
 - 曲：アーン（英）（Arne）

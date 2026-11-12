@@ -4,7 +4,7 @@ song_title: "遊獵"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_2_07_yuryo"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈遊獵〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：さながら山も　くづるばかりに をのへにとよむ　矢玉のひゞき…"
+description: "〈遊獵〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848）），調號拍號：G 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：さながら山も　くづるばかりに をのへにとよむ　矢玉のひゞき…"
 keywords: "遊獵, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -20,6 +20,9 @@ audio:
   - id: "yuryo"
     label: "鋼琴伴奏版"
     file: "yuryo.mp3"
+  - id: "yuryo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yuryo_neutrino.mp3"
 tmd_source:
   - "yuryo.tmd"
   - "yuryo_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="yuryo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yuryo_neutrino.mp3"></audio>
 
 - 出處：文部省編《小學唱歌集》
 - 臺灣教育會公認《新定兒童唱歌》高等科男子用（2020.006.0848）

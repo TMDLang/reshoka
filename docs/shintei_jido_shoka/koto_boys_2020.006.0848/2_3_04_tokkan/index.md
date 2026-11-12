@@ -4,7 +4,7 @@ song_title: "突貫"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_04_tokkan"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈突貫〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹、曲：リール（佛）（Claude Joseph Rouget de Lisle，佛國國歌）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山に充ち野にあふれ　滿目みな敵 對峙する我軍　士氣燃ゆる如し…"
+description: "〈突貫〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：大和田建樹、曲：リール（佛）（Claude Joseph Rouget de Lisle，佛國國歌）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山に充ち野にあふれ　滿目みな敵 對峙する我軍　士氣燃ゆる如し…"
 keywords: "突貫, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大和田建樹"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -23,6 +23,9 @@ audio:
   - id: "tokkan"
     label: "鋼琴伴奏版"
     file: "tokkan.mp3"
+  - id: "tokkan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tokkan_neutrino.mp3"
 tmd_source:
   - "tokkan.tmd"
   - "tokkan_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="tokkan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tokkan_neutrino.mp3"></audio>
 
 - 詞：大和田建樹
 - 曲：リール（佛）（Claude Joseph Rouget de Lisle，佛國國歌）

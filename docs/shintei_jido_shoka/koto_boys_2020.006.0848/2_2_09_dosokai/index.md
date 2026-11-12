@@ -4,7 +4,7 @@ song_title: "同窓會"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_2_09_dosokai"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈同窓會〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野士良、曲：モツアルト（獨）（Wolfgang Amadeus Mozart）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：窓（まど）の戶（と）の曙（あけぼの）に、同（おな）じ花（はな）護（まも）りし友（とも）、 其花（そのはな）の露（つゆ）だ…"
+description: "〈同窓會〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：旗野士良、曲：モツアルト（獨）（Wolfgang Amadeus Mozart）），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：窓（まど）の戶（と）の曙（あけぼの）に、同（おな）じ花（はな）護（まも）りし友（とも）、 其花（そのはな）の露（つゆ）だ…"
 keywords: "同窓會, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 旗野士良"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -22,6 +22,9 @@ audio:
   - id: "dosokai"
     label: "鋼琴伴奏版"
     file: "dosokai.mp3"
+  - id: "dosokai_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "dosokai_neutrino.mp3"
 tmd_source:
   - "dosokai.tmd"
   - "dosokai_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="dosokai.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="dosokai_neutrino.mp3"></audio>
 
 - 詞：旗野士良
 - 曲：モツアルト（獨）（Wolfgang Amadeus Mozart）

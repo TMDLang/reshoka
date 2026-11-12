@@ -4,7 +4,7 @@ song_title: "如意輪堂"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_2_3_05_nyoirindo"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈如意輪堂〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：松谷代水（杉谷代水）、曲：田村虎藏），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　かしこき御聲　耳にはあれど 生きて歸らぬ　こたびの軍（いくさ）…"
+description: "〈如意輪堂〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：松谷代水（杉谷代水）、曲：田村虎藏），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　かしこき御聲　耳にはあれど 生きて歸らぬ　こたびの軍（いくさ）…"
 keywords: "如意輪堂, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 松谷代水（杉谷代水）, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -22,6 +22,9 @@ audio:
   - id: "nyoirindo"
     label: "鋼琴伴奏版"
     file: "nyoirindo.mp3"
+  - id: "nyoirindo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nyoirindo_neutrino.mp3"
 tmd_source:
   - "nyoirindo.tmd"
   - "nyoirindo_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="nyoirindo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nyoirindo_neutrino.mp3"></audio>
 
 - 詞：松谷代水（杉谷代水）
 - 曲：田村虎藏

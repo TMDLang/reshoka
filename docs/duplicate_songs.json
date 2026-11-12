@@ -1,8 +1,8 @@
 {
-  "total_corpus_songs": 1087,
-  "unique_song_count": 825,
-  "duplicate_group_count": 173,
-  "duplicate_occurrence_count": 435,
+  "total_corpus_songs": 1106,
+  "unique_song_count": 835,
+  "duplicate_group_count": 181,
+  "duplicate_occurrence_count": 452,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -52,7 +52,7 @@
     {
       "id": "other",
       "label": "其他",
-      "duplicate_group_count": 52
+      "duplicate_group_count": 60
     }
   ],
   "duplicate_groups": [
@@ -1145,6 +1145,26 @@
       ]
     },
     {
+      "id": "kyonenkonya",
+      "title": "去年今夜",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_04_kyonen_konya",
+          "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_04_kyonen_konya/index.md",
+          "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+          "raw_title": "去年今夜"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_1/14_kyonen_konya",
+          "md_file": "kogakko_shoka/koto_1/14_kyonen_konya/index.md",
+          "book_label": "《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）",
+          "raw_title": "去年今夜"
+        }
+      ]
+    },
+    {
       "id": "toriire",
       "title": "取入れ",
       "theme_category": "daily_life_and_play",
@@ -1399,6 +1419,26 @@
       ]
     },
     {
+      "id": "yamatodamashii",
+      "title": "大和魂",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_05_yamato_damashii",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_05_yamato_damashii/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "大和魂"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_1/21_yamato_damashii",
+          "md_file": "kogakko_shoka/koto_1/21_yamato_damashii/index.md",
+          "book_label": "《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）",
+          "raw_title": "大和魂"
+        }
+      ]
+    },
+    {
       "id": "dainippon",
       "title": "大日本",
       "theme_category": "national_military",
@@ -1497,6 +1537,26 @@
       ]
     },
     {
+      "id": "otadokan",
+      "title": "太田道灌",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/36_ota_dokan",
+          "md_file": "shoka_kyozai_shu_1923/koto_1_2/36_ota_dokan/index.md",
+          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "太田道灌"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_1_05_ota_dokan",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_1_05_ota_dokan/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "太田道灌"
+        }
+      ]
+    },
+    {
       "id": "myogisan",
       "title": "妙義山",
       "theme_category": "other",
@@ -1557,6 +1617,46 @@
           "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/index.md",
           "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "始政記念日"
+        }
+      ]
+    },
+    {
+      "id": "komoriuta",
+      "title": "子守歌",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_06_komoriuta",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_06_komoriuta/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "子守歌"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_1/20_komoriuta",
+          "md_file": "kogakko_shoka/koto_1/20_komoriuta/index.md",
+          "book_label": "《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）",
+          "raw_title": "子守歌"
+        }
+      ]
+    },
+    {
+      "id": "gakuyu",
+      "title": "學友",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/22_gakuyu",
+          "md_file": "shoka_kyozai_shu_1923/grade_5_6/22_gakuyu/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "學友"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_01_gakuyu",
+          "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_1_01_gakuyu/index.md",
+          "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+          "raw_title": "學友"
         }
       ]
     },
@@ -2333,6 +2433,26 @@
       ]
     },
     {
+      "id": "muramatsuri",
+      "title": "村祭",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/07_muramatsuri",
+          "md_file": "shoka_kyozai_shu_1923/koto_1_2/07_muramatsuri/index.md",
+          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "村祭（二部）"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_5_02_muramatsuri",
+          "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_5_02_muramatsuri/index.md",
+          "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+          "raw_title": "村祭"
+        }
+      ]
+    },
+    {
       "id": "matsushima",
       "title": "松島",
       "theme_category": "nature_and_seasons",
@@ -2781,6 +2901,26 @@
           "md_file": "kogakko_shoka/grade_5/7_umi/index.md",
           "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
           "raw_title": "海"
+        }
+      ]
+    },
+    {
+      "id": "tansuigawa",
+      "title": "淡水河",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/39_tansuigawa",
+          "md_file": "shoka_kyozai_shu_1923/koto_1_2/39_tansuigawa/index.md",
+          "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "淡水河"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_09_tansuigawa",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_09_tansuigawa/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "淡水河"
         }
       ]
     },
@@ -3264,6 +3404,12 @@
       "theme_category": "taiwan_and_south_seas",
       "theme_category_label": "臺灣與南洋",
       "entries": [
+        {
+          "rel_dir": "taiwan_no_uta/1_taiwan_no_uta",
+          "md_file": "taiwan_no_uta/1_taiwan_no_uta/index.md",
+          "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
+          "raw_title": "臺灣の歌"
+        },
         {
           "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta",
           "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_2_09_taiwan_no_uta/index.md",
@@ -4027,6 +4173,26 @@
           "md_file": "shokacho/vol_01/p150_hibari_no_uta/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
           "raw_title": "雲雀の歌"
+        }
+      ]
+    },
+    {
+      "id": "seinennouta",
+      "title": "青年の歌",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/2_3_06_seinen_no_uta",
+          "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/2_3_06_seinen_no_uta/index.md",
+          "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+          "raw_title": "青年の歌"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_1/23_seinen_no_uta",
+          "md_file": "kogakko_shoka/koto_1/23_seinen_no_uta/index.md",
+          "book_label": "《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）",
+          "raw_title": "青年の歌"
         }
       ]
     },

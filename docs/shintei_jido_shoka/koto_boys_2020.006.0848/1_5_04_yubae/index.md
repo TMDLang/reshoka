@@ -4,7 +4,7 @@ song_title: "夕映"
 song_id: "shintei_jido_shoka_koto_boys_2020.006.0848_1_5_04_yubae"
 collection: "shintei_jido_shoka"
 volume: "koto_boys_2020.006.0848"
-description: "〈夕映〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：佐々木信綱、曲：J. G. Nägeli（ネーゲリ）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夕日の山、もみぢ葉は、 紅ひとしほ、匂ふ。…"
+description: "〈夕映〉收錄於日治時期臺灣《新定兒童唱歌》（高等科 男子一二年用（臺史博 2020.006.0848））（詞：佐々木信綱、曲：J. G. Nägeli（ネーゲリ）），調號拍號：G 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夕日の山、もみぢ葉は、 紅ひとしほ、匂ふ。…"
 keywords: "夕映, 新定兒童唱歌, 高等科 男子一二年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 佐々木信綱, J. G. Nägeli（ネーゲリ）"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 高等科 男子一二年用（臺史博 2020.006.0848）"
@@ -22,6 +22,9 @@ audio:
   - id: "yubae"
     label: "鋼琴伴奏版"
     file: "yubae.mp3"
+  - id: "yubae_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yubae_neutrino.mp3"
 tmd_source:
   - "yubae.tmd"
   - "yubae_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="yubae.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yubae_neutrino.mp3"></audio>
 
 - 詞：佐々木信綱
 - 曲：J. G. Nägeli（ネーゲリ）
