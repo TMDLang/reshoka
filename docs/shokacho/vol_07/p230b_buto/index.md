@@ -57,8 +57,8 @@ Key: 変ロ調 (Bb major), Time: 3/4, Tempo: 軽快
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](buto.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxQRK6FNyo-Lz8ktSk_PxsDBUZ-UWJmfFgdcUZpQjpgqL8stS8xDygktzEvNLi5KLMgpL45PyCSoSa1LLMlFSQitSUzJL8oszEHCQnpxYVgz0DcWNJUWIexAygIEIVUFN6Zp5VaR7IoJLMtMzUFCUuLS2FFx3zXuzof7-nA8TY2fF-T6eClhaXoq2CoZEBl72tgpMOl42xvokdyKCnUzY-W9vzdMc0BWgYcOlrKdhSC3ApKGBxDUg0GBKACgj7NYwMjAz0DAzM9AwsTIw1dcAO0ssqSFfQSMovKcnPVShILC5JTVEozsks0ASZ4ZtYBPR_Yo4CKH6KgWYt6XzcvFYB6DWFF7v3Pt2_GqTIO7USJvNi1X4FDackhdzErPwioAUhmcBkAVIOZKbmFuRbIWnzqSzKTC62AjEfN0963LwSQsI5ex43rwJy5oH5fY-b9j5ubgcrblr_uHk1hIRxoIqbgKwZj5t2wlQ2tz1ungoUBbL6Hzd3gVlN-x83N4KNnQrkrHrc3PG4eSFENVwNQh9IwSKQ8U3bwZasBamkPNagQEFLn4vLqbQk3yosPzkxx6HGoKYaZIGCjYWWHZhRo1Cdm1arYKigq2CqYKZgDKRrgCwQz0TBCMwDyRkBZUA0RA4EDUA8sBHA1OaQAw5rWwUlYGACvQcOZDR6DxCDwxsq1gf0_F4g3a4EciXELficAeKZAbE5xFFxBNzRtB5oNjj-UGmYO8DRMANI70RzQzUwOIzjFIziIHaAzYcGUhzQcpATIGIQB4EcCOIZg8MIT7i0Ae0BpQhwYgHiLgi7aT-Q3QgNF3CKAdIdQLwQ2U0FWNyE5hyQuyFOMgGKmxITRsjuQHYf2A2LIGHVtB0aZmvB7qnl4tK1UwAlKQUgrcwFAA)]
-- [鋼琴伴奏 TMD 檔案](buto_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRMe_Fjv73ezpAjJ0d7_d0KmhpcSnaKhgaGXDZ2yo46XDZGOub2HHVKSg9nbLx2dqepzumKQQYGRskKXFx6Wsp2FILcCkoYHPNo4YpCgGZiXn5Co7Jyfm5BYl5mbmpeSUg1cH5pUXJqVYKCHdpGBkYGegZGJjpGViYGGvqgB2ql1WQrqCRlF9Skp-rUJBYXJKaolCck1mgCTLDN7EoPTMvMUchL78ktRho1pLOx81rFYBeVnixe-_T_atBiij3HBQoaOlzcTmVluRbheUnJ-Y41BjUVIMsULCx0LIDM2oUqnPTahUMFXQVTBXMFIyBdA2QBeKZKBiBeSA5I6AMiIbIgaABiAc2AhgpDjmVRZnJxbYKSo-bJyk8bl4JxOj0HiBeBcTzoGJ9Co-b9gLpdiWQKyFuwecMEM8MiM0hjooj4I6m9UCzVwPtQKNh7mgCsWcA6Z1obqgGBodxnIJRHMQOsPnQQIoDWg5yAkQM4iCQA0E8Y3AY4QmXNqA9U6H29gNxF4TdtB_IboSGC0geFEYdQLwQ2U0FWNyE5hyQuyFOMgGKmxITRsjuQHYf2A2LIGHVtB0aZmvB7qmFpidwFgnyIJyiDLUhkWkerw2LTyATW8oCCYPVwBkIdyOSBl7zwEJG2qBAMdKGJBRjbVNtLAGBHM_GEAXoMW0INgciCrUNFN1AJiLGIa5BMRYeVSjGYpgIsh7iXkSEYXErSnj7IIe3CTy8DeMVTMEImCbjEWyIsDFM2AjEBXLwawIqN0HWHw-iUPWABECKgDSQxGInkXqQ7AH5FuxXz7ySImyJC-FZcPxEG8YC9USbxAIFok3BbKAIugm4g0sX5gogC-xWoEbXvJTMvHT8doOsBloKshJsIdQh0IhCNgGH3RA_g0MD7AyoTl07BbC7FYAMUHSDaIhpIJYyFwA)]
+- [主旋律 TMD 檔案](buto.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxQRK6FNyo-Lz8ktSk_PxsDBUZ-UWJmfFgdcUZpQjpgqL8stS8xDygktzEvNLi5KLMgpL45PyCSoSa1LLMlFSQitSUzJL8oszEHCQnpxYVgz0DcWNJUWIexAygIEIVUFN6Zp5VaR7IoJLMtMzUFCUuLS2FFx3zXuzof7-nA8TY2fF-T6eClhaXoq2CoZEBl72tgpMOl42xvokdyKCnUzY-W9vzdMc0BWgYcOlrKdhSC3ApKGBxDUg0GBKACgj7NYwMjAz0DAzM9AwsTIw1dcAO0ssqSFfQSMovKcnPVShILC5JTVEozsks0ASZ4ZtYBPR_Yo4CKH6KgWYt6XzcvFYB6DWFF7v3Pt2_GqTIO7USJvNi1X4FDackhdzErPwioAUhmcBkAVIOZKbmFuRbIWnzqSzKTC62AjEfN0963LwSQsI5ex43rwJy5oH5fY-b9j5ubgcrblr_uHk1hIRxoIqbgKwZj5t2wlQ2tz1ungoUBbL6Hzd3gVlN-x83N4KNnQrkrHrc3PG4eSFENVwNQh9IwSKQ8U3bwZasBamkPNagQEFLn4vLqbQk3yosPzkxx6HGoKYaZIGCjYWWHZhRo1Cdm1arYKigq2CqYKZgDKRrgCwQz0TBCMwDyRkBZUA0RA4EDUA8sBE-NaAgBXKhgQumQUoRoiByFVRsHpgHUtUH9P5eqGg71Nh4uLEQi3E5CsQzA2JziBPjsLqqaT3YLnAsgmmwXXBRJFcBowLEmwEim3bicVM1MLCM4xSM4iB2gu2DBmEc0DEgJ0HEIA4EORjEMwaHIEaotQExKJWAbAfbAkokQNwFFYMYBUxSYNc1gkMPpAMiCkq9HUC8EMVgoHMKsLgRzXkgf0CcaAIUN8UdhijugbkRi7uBrgG5cRE4BLdD1a1FCcFaLi5dO4Vqe11Do1oFIAuUMEG0MhcA)]
+- [鋼琴伴奏 TMD 檔案](buto_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRMe_Fjv73ezpAjJ0d7_d0KmhpcSnaKhgaGXDZ2yo46XDZGOub2HHVKSg9nbLx2dqepzumKQQYGRskKXFx6Wsp2FILcCkoYHPNo4YpCgGZiXn5Co7Jyfm5BYl5mbmpeSUg1cH5pUXJqVYKCHdpGBkYGegZGJjpGViYGGvqgB2ql1WQrqCRlF9Skp-rUJBYXJKaolCck1mgCTLDN7EoPTMvMUchL78ktRho1pLOx81rFYBeVnixe-_T_atBiij3HBQoaOlzcTmVluRbgb3kUGNQUw2yQMHGQssOzKhRqM5Nq1UwVNBVMFUwUzAG0jVAFohnomAE5oHkjIAyIBoiB4IGIB7YCJ8ahcfNk4Dcx80rwSwQDVKKEAWRq6Bi88A8kKo-hcdNe6Gi7VBj4-HGQizG5SgQzwyIzSFOjMPqqqb1YLtWg1kgGmwXXBTJVU0Q3gwQ2bQTj5uqgYFlHKdgFAexE2wfNAjjgI4BOQkiBnEgyMEgnjE4BDFCrQ2Ip0JtB9sC5PcDcRdUDGLU46b9YNc1gkMPpAMiugrI7gDihSgGA51TgMWNaM4D-QPiRBOguCnuMERxD8yNWNwNdA3IjYvAIbgdqm4tSgjWIqfFIA_CqdFQGxL15vHasNgHMrGlSpAwWA2cgRwgRJkHFjLSBgWRkTYkWRlrm2pjCRbkVGAMUYCeDgzB5kBEobaBEgOQiUgPENdgjzgUYzFMBFkPcS8i-rC4FSW8fZDD2wQe3obxCqZgBEyx8Qg2RNgYJmwE4gI5-DUBlZsg648HUah6QAIgRUAaSGKxk0g9SPaAfAv2q2deSRG2xIXwLDh-og1jgXqiTWKBAtGmYDZQBN0E3MGlC3MFkAV2K1Cja15KZl46frtBVgMtBVkJthDqEGhEIZuAw26In8GhAXYGVKeunQLY3QpABii6QTTENBBLmQsA)]
 
 ## 分析
 
@@ -69,10 +69,10 @@ Key: 変ロ調 (Bb major), Time: 3/4, Tempo: 軽快
 ⏱  Duration:       0:24 (24.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 120.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A#4 (MIDI 70) – D6 (MIDI 86) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  A#4 in [Buto #1 @ m.1, 0:00]
-   - 最高音: D6 in [Buto #1 @ m.9, 0:12]
-   - 適合: soprano, tenor
+🎤 人聲音域:    A#3 (MIDI 58) – D5 (MIDI 74) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#3 in [Buto #1 @ m.1, 0:00]
+   - 最高音: D5 in [Buto #1 @ m.9, 0:12]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Buto (24.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
@@ -110,7 +110,7 @@ Key: 変ロ調 (Bb major), Time: 3/4, Tempo: 軽快
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : A#4 – D6 (16 個半音 / 1.3 個八度, 50 個音符)
+  - Vocal         : A#3 – D5 (16 個半音 / 1.3 個八度, 50 個音符)
 ================================================================================
 ```
 
