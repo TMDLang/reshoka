@@ -58,8 +58,8 @@ Key: 変ロ調 (Bb major), Time: 2/4, Tempo: 可愛ラシク
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hotaru_no_gakko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxCboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW4l5mbnIeiGixUB3A_2bk5mWipAC2pKemWdVkpgJdDLI2eWJ8bmJmXk5iXkpSlxaWgov5i163Lju6dodzxYsfL-nA8h93rj6xfxNz2e1wAQ7FbS0uBRtFQwNTLjsbRWcdLhsjPRN7EB2PJ2y8dnanqc7pimAglNB48munqc7tyjoK7yYvObFhC6g9MvZbQrGhi8XNGoqcXHpaynYUgtwKSgQ5XiQumBI3CkgnKthZGBkoGdgYKZnYGFirKkDdr9eVkE6SLlvYhEw0BJzFECpoNhKwRzoITw-Awo-7V__rGX24-aVj5u2P25aDzLEO7USaOGSzsfNa1-s2q-g4ZSkkJuYlV8EtCskExhdCsAwBDJTcwvygeow9ftUFmUmF1uBmI-bZz9u2v-4efXj5j6Fx01rgCoeN61-3LQMyAZK9j9u2vG4ed7j5hagKrB6kOLNj5vnPG5uB8o3Pm5eDFIMYmwG8jtAMkB7mtuARqKZ3w3UvAhkWNOSx83zHze3AvnrwYa1Ay0HS-yFWAFUtQmsCs14VLux2NUF8ibYRGLcRnlCgQIFLX0uLo_8ksSiUr9898Ts7HyrsPzkxByHGoOaapBNCjaGZlp2YFaNgqGCLhybxQOJGgVTEAWCUIZxPEwQrACkEgQhemHQACQCNhOY9h1ywHFqq6AEDHFQSAE9vBqIwZEKCmggBkUrhNvcD6R3AOl5QNwCUq4E8gPEfUZQ80E0yL4aiCNAEMwAu6sG5EYoGywK9QlcKT4Xgl0HipI5QIwUVSAWVKYDItu0HUi3gfyC5EDkAAQ5EugWUJhhOhnsOlRVJAUeOMVCQqlpCZCGJVqoG0EuB4YvWHovWgBicQ08vqkQgCBXbYK6CiOToAUuMUEJdgbUXXAXIJIdso8gYUlUQuwC2rYSKbCIjeZaLi5dOwWUDKUAFFDmAgA)]
-- [鋼琴伴奏 TMD 檔案](hotaru_no_gakko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxb9HjxnVP1-54tmDh-z0dQO7zxtUv5m96PqsFJtipoKXFpWirYGhgwmVvq-Ckw2VjpG9ix1WnoPR0ysZna3ue7pimEGBkbKKg8WRXz9OdWxT0FV5MXvNiQhdQ-uXsNgVjw5cLGjWVuLj0tRRsqQW4FBSIc_yjhikKAZmJefkKjsnJ-bkFiXmZual5JSD9wfmlRcmpVgoIb2gYGRgZ6BkYmOkZWJgYa-qA_aWXVZAOUu6bWJSemZeYo5CXX5JabKVgDvQoHh8DBZ_2r3_WMvtx88rHTdsfN60HGUK5z6FAQUufi8sjvySxqNQv3z0xOzvfKiw_OTHHocagphpkk4KNoZmWHZhVo2CooAvHZvFAokbBFESBIJRhHA8TBCsAqQRBiF4YNACJgM0ERqZDTmVRZnKxrYLS4-bZCo-b9is8bl4NxH1A9hogXg_Eqx83LYNwm_uB9A4gPQ-IW0DKlUB-gLjPCGo-iAbZVwNxBAiCGWB31YDcCGWDRaE-gSvF50Kw6zYD8RwgbgfixsfNi8GOa26EynRAZJu2A-k2kF-QHIgcgCBHAt0CCjNMJ4Ndh6qKpMDrBrIXQUKpaQmQnv-4uRUSlmA3glwODF-w9F60AMTiGnh8UyEAQa7aBHUVNPDADKCzMAKXmKAEOwPqLrgLEMkO2UeQsCQqIXYBbVuJFFjERnMtem4CFxpBHtjzU3VuQS3Q7doQfyBTyLnLMF4bEeAYOQxVH0gGzMD0IVgKFARQChHHJvHaYKNgNPaoNobKwmiQHISFwy5MX0FtBsaBNihOICTCVejpH7suPD7DYyDuJEyZvxAmwkIPUhjCIwHTceZw90FZYBuxxhv25OSDnJwsEKVzPNDMeBBlAqSQ-SAKzAdJIPOh8gZI3otXMIKLgzwFNxDMBxLGQLYZEINoUOAiRBDGYLEaxEA3lqBTEOJUcApEFcJqCB_JGmxuAcaAZ15JEbaMbIKaj6MNYxWiTWOB3GgTIAvIQ9eNEm8I3WALwS4DewykyTUvJTMvnYCdaUA7zXKBVgGtA1oKtBqaZJB147ATmFKB1kHLEbAmXTsFsFMVgAyUNAcSgJgIYilzAQA)]
+- [主旋律 TMD 檔案](hotaru_no_gakko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxCboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW4l5mbnIeiGixUB3A_2bk5mWipAC2pKemWdVkpgJdDLI2eWJ8bmJmXk5iXkpSlxaWgov5i163Lju6dodzxYsfL-nA8h93rj6xfxNz2e1wAQ7FbS0uBRtFQwNTLjsbRWcdLhsjPRN7EB2PJ2y8dnanqc7pimAglNB48munqc7tyjoK7yYvObFhC6g9MvZbQrGhi8XNGoqcXHpaynYUgtwKSgQ5XiQumBI3CkgnKthZGBkoGdgYKZnYGFirKkDdr9eVkE6SLlvYhEw0BJzFECpoNhKwRzoITw-Awo-7V__rGX24-aVj5u2P25aDzLEO7USaOGSzsfNa1-s2q-g4ZSkkJuYlV8EtCskExhdCsAwBDJTcwvygeow9ftUFmUmF1uBmI-bZz9u2v-4efXj5j6Fx01rgCoeN61-3LQMyAZK9j9u2vG4ed7j5hagKrB6kOLNj5vnPG5uB8o3Pm5eDFIMYmwG8jtAMkB7mtuARqKZ3w3UvAhkWNOSx83zHze3AvnrwYa1Ay0HS-yFWAFUtQmsCs14VLux2NUF8ibYRGLcRnlCgQIFLX0uLo_8ksSiUr9898Ts7HyrgMzEvHyHGoOaapBNCjYWWnZgRo2CIRiaxQOZpvEKuiDCGMoBChoCRUBqdIHQQKEGrMenBhSMIO8D6dVA3AdUAokroCpIdIH4INHmfiBrB5AGxRnYLJA2ZNNqFIyAPCOgHTUgC3VBBNDuGpArIG4Auw0sheoGcPCDbGyeA8TtYOuggQwWbQTizWDRDoiapu1Aug0sshrNDZBQMAJZC4Rw1wAdABPFGwLdYI8tAvkTSC8B0uAEBRIEJSmw88ApGigPEtyLEQRIloJjg8ggAFkJSptQrwNFYAkMEtIQyxHhQ1xIAC0F2w-2EZIEIC4EBQWWxNAFxCuhdmGJB0g0EbK-lotL104BJdkqAAWUuQA)]
+- [鋼琴伴奏 TMD 檔案](hotaru_no_gakko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxb9HjxnVP1-54tmDh-z0dQO7zxtUv5m96PqsFJtipoKXFpWirYGhgwmVvq-Ckw2VjpG9ix1WnoPR0ysZna3ue7pimEGBkbKKg8WRXz9OdWxT0FV5MXvNiQhdQ-uXsNgVjw5cLGjWVuLj0tRRsqQW4FBSIc_yjhikKAZmJefkKjsnJ-bkFiXmZual5JSD9wfmlRcmpVgoIb2gYGRgZ6BkYmOkZWJgYa-qA_aWXVZAOUu6bWJSemZeYo5CXX5JabKVgDvQoHh8DBZ_2r3_WMvtx88rHTdsfN60HGUK5z6FAQUufi8sjvySxqNQv3z0xOzvfKiw_OTHHocagphpkk4KNhZYdmFGjYAiGZvFApmm8gi6IMIZygIKGQBGQGl0gNFCoAevxqVF43Dxb4XHTfiC9Goj7gEoeN60BegOo6nHT6sdNy0B8kGhzP5C1A0jPe9zcAjYLpA3ZtBoFIyDPCGhHDchCXRABtLsG5AqIG8BuA0uhuqFp_-PmzSAbm-cAcTvYusbHzYtB1oNEG4F4M1i0A6KmaTuQbgOLrEZzAyQUjEDWAiHcNUAHwETxhkA32GOLQP4E0kuA9PzHza1gwfUgR4CcBwonkDxIcC9GECBZCo4NIoMAZOUmiI0grwNFloFZYH-DnQeyHBE-xIUE0FKw_WAbIUkA4kJQUGBJDF1AvBJqF5Z4gEQTIetr0dMsOGsGeSClWkMzeLKtzi2oBTpSG-QaVArsaGhiNozXBoYhOFGDrIElbKgiVH0gGTADBg1AglDrgFKgZAqlQBiixSReG2wUjIaaC5ZD2GwMlYXRIDkIC4ddmL6C2gwMfm1QWoSQCFdBXIOwHbsuPD7DYyA8UKnsL4SJsNADQaRIwHScOdx9UBbYRqzxhj05-SAnJ6RCEJTggTkvHugUUBpB8EEUmA-SQOZD5REZByRgBBcHeQpuIJgPJIyBbDMgBtGgwEWIIOU_TKtBDHRjCToFIU4Fp0BUIayG8JGsweYWYAx45pUUYcvIJqj5ONowViHaNBbIjTYBsoA8dN0o8YbQDbYQ7DKwx0CaXPNSMvPSCdiZBrTTLBdoFdA6oKVAq6FJBlk3DjuBKRVoHbQcAWvStVMAO1UByEBJcyABiIkgljIXAA)]
 
 ## 分析
 
@@ -79,12 +79,12 @@ Key: 変ロ調 (Bb major), Time: 2/4, Tempo: 可愛ラシク
 🗝  調性診斷：       G 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A#, G, F, C, D
-   - 調性數值:    G 小調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 小調 (0.83), A# 大調 (0.79), F 大調 (0.54)
+   - 核心骨幹音:  A#, G, C, F, D
+   - 調性數值:    G 小調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 小調 (0.84), A# 大調 (0.78), F 大調 (0.53)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [HotaruNoGakko #1]: G 小調 (r: 0.83, 自然音純度: 100.0%)
+     • [HotaruNoGakko #1]: G 小調 (r: 0.84, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -99,10 +99,10 @@ Key: 変ロ調 (Bb major), Time: 2/4, Tempo: 可愛ラシク
   [ 十二半音累積音高分佈 ]
      C  : ███████████               14.7%
      C# :                            0.0%
-     D  : ██████████                12.7%
+     D  : ██████████                13.3%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ████████████              15.3%
+     F  : ███████████               14.7%
      F# :                            0.0%
      G  : █████████████████████     26.7%
      G# :                            0.0%
@@ -111,7 +111,7 @@ Key: 変ロ調 (Bb major), Time: 2/4, Tempo: 可愛ラシク
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 59 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 59 個音符)
 ================================================================================
 ```
 
