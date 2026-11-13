@@ -4,7 +4,7 @@ song_title: "牛よ牛よ（牛呀牛呀）"
 song_id: "shokacho_vol_07_p246_ushi_yo_ushi_yo"
 collection: "shokacho"
 volume: "vol_07"
-description: "〈牛よ牛よ（牛呀牛呀）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（曲：陳英聲），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ギーコロ ギーコロ アサハヤク カラ オモニヲ ツンダ クルマヲ ヒイテ…"
+description: "〈牛よ牛よ（牛呀牛呀）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（曲：陳英聲），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ギーコロ ギーコロ アサハヤク カラ オモニヲ ツンダ クルマヲ ヒイテ…"
 keywords: "牛よ牛よ（牛呀牛呀）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 陳英聲"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
@@ -21,6 +21,9 @@ audio:
   - id: "ushi_yo_ushi_yo"
     label: "鋼琴伴奏版"
     file: "ushi_yo_ushi_yo.mp3"
+  - id: "ushi_yo_ushi_yo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ushi_yo_ushi_yo_neutrino.mp3"
 tmd_source:
   - "ushi_yo_ushi_yo.tmd"
   - "ushi_yo_ushi_yo_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="ushi_yo_ushi_yo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ushi_yo_ushi_yo_neutrino.mp3"></audio>
 
 - 曲：陳英聲
 - 唱歌帖 P246 (60頁)
@@ -65,8 +69,8 @@ Key: 変ホ調 (Eb major), Time: 4/4, Tempo: 同情の態度で
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ushi_yo_ushi_yo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGJGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW4l5mbnIeoFGpWfmWZUkZpYn5sWXpAJ9kFqkxKWlpfC8c_bjpg4I-X4PiPF0YgOEfL-nU0FLi0vRVsHChMveVsFVh8vGRN_EDmTq0ykbn63tebpjmgIolBQ0zAxeLmjUBFv4bPam93tmvZy5-UX3xheNm5S4uPS1FGypBbgUFPC7uR_EmNoFIYFeAGkIhsSMAsLVGkYGRgZ6BgZmegYWJsaaOmBv6GUVpIOU-yYWAUMrMUcBFMfFVgpwvwC9pqCvAPYrkH46oedZc-vjxnXPWruf7lr2uHE5SLN3aiXQoiWdj5tnv1i1X0HDNUkhNzErvwhoR0gmMGoUgEEIZKbmFuQD1WE1wqeyKDO52ArENNRTeNy07nHznsdNmx83r0XnLHrctPVxc__j5iWPm9YD-asfN68EaXvctOpx86LHzd2PmzcpPG5uedwM1NAAFF7_uBmoZh5EeNLjpiWPm9vAGpo7wYYCZdqBykDGPW7uA7KWPW7a_rh5BTILZNweoEVg69aCdBvhdWXj_MeNCx43Tn3cuAPIaXrcuORxYwvY0sZVYM66x41A5zROe9zY_bipC8jqetwEVLb6cdMkIGcTUPXjxmUQbzU8bup83LgeqAQosw-kG6SBOFca4w9LeNBAvA2S2Q4JGqAlQD6IRAtYEAdox1ogCeRsf9y0_3HTGoieSeBoAcYPSA_Q6DVASRSHArUCvQn04xogZyfYOqAN-6FupTyjQIGClj4XV2hxRmZkPoS0CstPTsxxqDGoqQZZpGBjoWUHZtQoVOem1SqYKugCoSmYNgbiGjBppGAIxLoKBnARXQUTsBozsAhEF0QHWBfYSGDGd8gBJ2ZbBSVgcAPDBRRQm4E0OPjR-IuAeCuQ3Q8Kc1CwgVI0kL1SCeQLVAPjjYgxsnE-EC8A4qlADE59QAw0urEFm5HGRLkS6KpmkKvmATE4qUDlt8ONrAEHFSiAIEEHCiBDKAskAglEwzhoSINCEBGKMC1gRdhCcRXQPmBINXcDMThzAzHIbeDsjeQ2cA4H5WUg3YYzBBuBxoFDBOhNSC4EYqDRkHwIpEEhBjQSkhVBIQfEy3CGHjjeQCECpdFdC-YDQwsUkpBQA2JQxliDFHqgxGcMTXAmSAkOAiGhVw1PqpAgA7GBogW1sHCFhCmYgy0YmzuhUQoKKnCRBw0-aJSCHAYpUGBs3IkQFPJA4xqB2iHlEiRIISUTsUZBgg8YyuDkD8oK4JIDyAYVEOCyA8koUDCCjAfFDHLQVecCQwASLoZoqQ8l_LCFCCghgaJmJTTbrcXpY-KUQrLTTmhEgwIE6Auo0louLl07BeRySQHIV-YCAA)]
-- [鋼琴伴奏 TMD 檔案](ushi_yo_ushi_yo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjeOftxUweEfL8HxHg6sQFCvt_TqaClxaVoq2BhwmVvq-Cqw2Vjom9ix1WnoPR0ysZna3ue7pimEGBkYqagYWbwckGjphJI6tnsTe_3zHo5c_OL7o1PF29Q4uLS11KwpRbgUlDA7-Z-EGNqF4QEeeFRwxSFgMzEvHwFx-Tk_NyCxLzM3NS8EpBBwfmlRcmpVgoI32gYGRgZ6BkYmOkZWJgYa-qAvaeXVZAOUu6bWJSemZeYo5CXX5JabKUA9yPQywr6CuAwANJPJ_Q8a2593LjuWWv3013LHjcuB2mm3OtQoKClz8UVWpyRGZkPIa3C8pMTcxxqDGqqQRYp2Fho2YEZNQrVuWm1CqYKukBoCqaNgbgGTBopGAKxroIBXERXwQSsxgwsAtEF0QHWBTYSGJUOOZVFmcnFtgpKj5vWKTxu3qPwuGkzkF4LpNH5i4B4K5DdD8RLgOz1QLwayF6pBPIFqoHxRsQY2TgfiBcA8VQg3gHETUAMNLqxBW5kDdhfIN9A_AnyjSGUBRKB-NgwDhosIO8ivAzTAlaEzcurgO4Aequ5G4g3AXELEIPc1gDxXjPIe_OgcpOAYkC3Nbfh9G4j0Diw84HebARqaZwGxECjm7qANBA3gbwHNLIJaBRYHmhd4zIkr4Ki1RgalSZIUQmBEK9WwxMBxH8gNlC0oBYWCJAAAHOw-bm5Exr-IH-1Q_wE9msfkF4GxNuB7BXIbNzRCwomoHGNQO0g_zXug_gf5F8CRoFSM9DJEI8YosUtioexeQEUTcBk1LwSmgLX4nQiDqW1aJkOXKQEeeDOdobasIwHYRlqQzIfhAZlP9N4bfN4bUQmhMiA4hGmA5IuYSbBzICaBEsBcFMgOsExDBEAS4KCB8qHSEJzvDY8B0DsQbUNbg6yC9HSnBlECkhBUh7IMqgXwFpBNiNSIFAKwx-IlAh3DswhUAGYneC4hwUEOOhQ3Qf0ULw21E7UxIA14nyQI84EHnGG8UAj42EUmG8MZIA4BijSJjBpZOXwCIlXMEI2xQxqBFAAagrIUJARQCa6JQiXgARB5qDbheoSkCqIFTBDQWxkt8Csh3sJYQ4ocDzzSoqwJWdEqIDDPtowFhic0Wa5IKpGIdoEzDUF89CMQQlcI-TANQO5wATkAogm17yUzLx0_JYDk060EdBWkF0gW0E00H6wc0AQwyAccWsEthZqOcgxSNp17RTA7lcAMpATCzF8iNUgljIXAA)]
+- [主旋律 TMD 檔案](ushi_yo_ushi_yo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGJGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW4l5mbnIeoFGpWfmWZUkZpYn5sWXpAJ9kFqkxKWlpfC8c_bjpg4I-X4PiPF0YgOEfL-nU0FLi0vRVsHChMveVsFVh8vGRN_EDmTq0ykbn63tebpjmgIolBQ0zAxeLmjUBFv4bPam93tmvZy5-UX3xheNm5S4uPS1FGypBbgUFPC7uR_EmNoFIYFeAGkIhsSMAsLVGkYGRgZ6BgZmegYWJsaaOmBv6GUVpIOU-yYWAUMrMUcBFMfFVgpwvwC9pqCvAPYrkH46oedZc-vjxnXPWruf7lr2uHE5SLN3aiXQoiWdj5tnv1i1X0HDNUkhNzErvwhoR0gmMGoUgEEIZKbmFuQD1WE1wqeyKDO52ArENNRTeNy07nHznsdNmx83r0XnLHrctPVxc__j5iWPm9YD-asfN68EaXvctOpx86LHzd2PmzcpPG5uedwM1NAAFF7_uBmoZh5EeNLjpiWPm9vAGpo7wYYCZdqBykDGPW7uA7KWPW7a_rh5BTILZNweoEVg69aCdBvhdWXj_MeNCx43Tn3cuAPIaXrcuORxYwvY0sZVYM66x41A5zROe9zY_bipC8jqetwEVLb6cdMkIGcTUPXjxmUQbzU8bup83LgeqAQosw-kG6SBOFca4w9LeNBAvA2S2Q4JGqAlQD6IRAtYEAdox1ogCeRsf9y0_3HTGoieSeBoAcYPSA_Q6DVASRSHArUCvQn04xogZyfYOqAN-6FupTyjQIGClj4XV2hxRmZkPoS0CstPTsxxqDGoqQZZpGBjoWUHZtQoVOem1SqYKugCoSmYNgbiGjBppGAIxLoKBnARXQUTsBozsAhEF0QHWBfYSB_DGlAoQ-WAIQ0igYEN0gERRxaLh4ovgqreChTvB8sugcqsh5u0Giy-EmGTERk2Nc6HqG5cAMRTwawdUJkmmEmNILuBKRBhkzE5foK4HJjCgHgemNUHlVkGNQli2nawPdD4AAU4KJghEQBSbghlgUQgUWEYB1ZkCo4HRFzAtIAVIcXFKqg7FgFxN5i1CeKOZpAPgcUEmGzA63KYjklgF4PDp7kNpgMRG41Qu4AhCMziYBZUZ-M0MA9sPzD7IuIDxAaJNQHZ4BgGFgAQGZBOSCwAiwJUu0DxAU4hIPXA3AZmQ8IV5mOQf0EkONcivAZxICyqQBAkCooCUGYFkWvgVkGjBJQvjKF5wQSsAZIXIBASJdXwXASJBxAbKFpQC4ssQ3BEgTlIcdPcCU45oFCGFsJgJ4DCHyQLSi8wCPMALO1AHQ0sV_CII-UTUE0AtK0RWGVAClJwuMJyGSQWKLYJHC_AAhyYh8HpDVISglWBghWkGxTIxNoES7mg4h6SNsCmwCKmOhcYvpBQN0TLMCixgxTeoNQEMRNUjkBMBYnDEgPcVYiQI1UPuKzYCfcRJEZBvsaup5aLS9dOAbm0VgDylbkA)]
+- [鋼琴伴奏 TMD 檔案](ushi_yo_ushi_yo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjeOftxUweEfL8HxHg6sQFCvt_TqaClxaVoq2BhwmVvq-Cqw2Vjom9ix1WnoPR0ysZna3ue7pimEGBkYqagYWbwckGjphJI6tnsTe_3zHo5c_OL7o1PF29Q4uLS11KwpRbgUlDA7-Z-EGNqF4QEeeFRwxSFgMzEvHwFx-Tk_NyCxLzM3NS8EpBBwfmlRcmpVgoI32gYGRgZ6BkYmOkZWJgYa-qAvaeXVZAOUu6bWJSemZeYo5CXX5JabKUA9yPQywr6CuAwANJPJ_Q8a2593LjuWWv3013LHjcuB2mm3OtQoKClz8UVWpyRGZkPIa3AvnOoMaipBlmkYGOhZQdm1ChU56bVKpgq6AKhKZg2BuIaMGmkYAjEugoGcBFdBROwGjOwCEQXRAdYF9hIH8MahcdN66Byj5s2g8jmtWAdEHFksXio-CKo6q1A8X6w7BKozHq4SavB4isRNhmRYVPjfIjqxgVAPBXM2gGVaYKZ1Aiy-3FjC8ImY3L8BHH54-bVQDwPzOqDyiyDmgQxbTvYHmh8gAIcFMyQCAApN4SyQCKQqDCMAysyBccDIi5gWsCKkOJiFdQdi4C4G8zaBHFHM8iHj5shLm_A63KYjklgF4PDp7kNpgMRG41Qu4AhCEzdYBZUZ-M0MA9sf1MXwq5GEBsk1gRkg2O4CWQHSAakExILjxtBIYZkFyg-wCkEpH4ZlA0JV5iPQf4Fkd0Qx8O8BnEgLKpAECQKioLHTfvB5Bq4VdAoAeULY2heMAFrgOQFCIRESTU8F0HiAcQGihbUwiLLEBxRYA5S3DR3glMOKJQfN7fDQhYc_iBZUHqBQZgHYGkH6ujmFfjEkfJJAxADbWtcDw7zx437wOEKy2WQWKDYJnC8TALnYXB6A8UN2DePm0HBCtINCmRibYKlXKB7IbkfHDnwiKnOBYYvJNQN0TIMSuwghTcoNUHMBJUjEFNB4rDEAHcVIuRI1QMuK3bCfQSJUZCvseupxVZUB3ngLqwNtWHFNYRlqA0psiE0qNA2jdc2j9dGFN0QGVDihemAFBowk2BmQE2CJXu4KRCd4GQNEQBLgoIZyodIQusJbXjxBLEH1Ta4OcguRMtoZhApIAXJbiDLoF4AawXZjMh2QCkMfyCyH9w5MIdABWB2gtMQLCDAQYfqPqCH4rWhdqImKqwR54MccSbwiDOMBxoZD6PAfGMgA8QxQJE2gUkjK4dHSLyCEbIpZlAjgAJQU0CGgowAMtEtQbgEJAgyB90uVJeAVEGsgBkKYiO7BWY93EsIc0CB45lXUoQtOSNCBRz20YaxwOCMNssFUTUK0SZgrimYh2YMSuAaIQeuGcgFJiAXQDS55qVk5qXjtxyYdKKNgLaC7ALZCqKB9oOdA4IYBuGIWyOwtVDLQY5B0q5rpwB2vwKQgZxYon1A1qCLGWERMwaLQZwBYilzAQA)]
 
 ## 分析
 
@@ -118,7 +122,7 @@ Key: 変ホ調 (Eb major), Time: 4/4, Tempo: 同情の態度で
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D#4 – D#5 (12 個半音 / 1.0 個八度, 47 個音符)
+  - Vocal         : D#4 – D#5 (12 個半音 / 1.0 個八度, 48 個音符)
 ================================================================================
 ```
 
