@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1112,
-  "same_lyrics_different_melody_group_count": 22,
+  "total_corpus_songs": 1230,
+  "same_lyrics_different_melody_group_count": 23,
   "groups": [
     {
       "lyrics": "あさかぜさつとふいてきておおはたひらひらこはたひらひろうんどうくゎいがいまはじまつたあかぼうしろぼうみどりのぼうしならぶせいとはげんきにみちてかけだすあしなみい",
@@ -58,9 +58,16 @@
       ],
       "versions": [
         {
-          "id": "shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta",
-          "year": 1923,
+          "id": "jinjo_shogaku_shoka/grade_5_4100/17_asa_no_uta",
+          "year": 1913,
           "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_5_4100/17_asa_no_uta",
+              "md_file": "jinjo_shogaku_shoka/grade_5_4100/17_asa_no_uta/index.md",
+              "book_label": "文部省《尋常小學唱歌》第五學年用（大正2年／1913）",
+              "raw_title": "朝の歌",
+              "year": 1913
+            },
             {
               "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta",
               "md_file": "shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta/index.md",
@@ -388,6 +395,48 @@
       ]
     },
     {
+      "lyrics": "こがはにかかるみずぐるまあみずのながれでよくまはるうまはるちからでみずおあげえざぶざぶざぶとたにいれるう",
+      "titles": [
+        "ミヅグルマ",
+        "水グルマ"
+      ],
+      "versions": [
+        {
+          "id": "shokacho/vol_07/p231_mizuguruma",
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shokacho/vol_07/p231_mizuguruma",
+              "md_file": "shokacho/vol_07/p231_mizuguruma/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）",
+              "raw_title": "水グルマ（水車）",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "kogakko_shoka/grade_2/1_mizuguruma",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_03_mizuguruma/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "水グルマ",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kogakko_shoka/grade_2/1_mizuguruma",
+              "md_file": "kogakko_shoka/grade_2/1_mizuguruma/index.md",
+              "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+              "raw_title": "ミヅグルマ（水車）",
+              "year": 1936
+            }
+          ]
+        }
+      ]
+    },
+    {
       "lyrics": "こんごうせきもみがかずばたまのひかりはそはざらんひともまなびてのちにこそまことのとくはあらはるれとけいのはりのたえまなくめぐるがごとくときのまのひかげおしみては",
       "titles": [
         "金剛石・水はうつは",
@@ -396,9 +445,16 @@
       ],
       "versions": [
         {
-          "id": "kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa",
-          "year": 1915,
+          "id": "jinjo_shogaku_shoka/grade_5_4100/0b_kongoseki_mizu_wa_utsuwa",
+          "year": 1913,
           "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_5_4100/0b_kongoseki_mizu_wa_utsuwa",
+              "md_file": "jinjo_shogaku_shoka/grade_5_4100/0b_kongoseki_mizu_wa_utsuwa/index.md",
+              "book_label": "文部省《尋常小學唱歌》第五學年用（大正2年／1913）",
+              "raw_title": "金剛石・水はうつは",
+              "year": 1913
+            },
             {
               "rel_dir": "kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa",
               "md_file": "kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/index.md",
@@ -764,15 +820,23 @@
       ]
     },
     {
-      "lyrics": "ひとつとやひとびとちゅうぎおだいいちにだいいちにあふげやたかききみのおんくにのおん",
+      "lyrics": "ひとつとやひとびとちゆうぎおだいいちにだいいちにあふげやたかききみのおんくにのおん",
       "titles": [
+        "かぞへ歌",
         "數へ歌"
       ],
       "versions": [
         {
-          "id": "kogakko_shokashu_1915/4_07_kazoeuta",
-          "year": 1915,
+          "id": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta",
+          "year": 1912,
           "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta",
+              "md_file": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta/index.md",
+              "book_label": "文部省《尋常小學唱歌》第三學年用（明治45年／1912）",
+              "raw_title": "かぞへ歌",
+              "year": 1912
+            },
             {
               "rel_dir": "kogakko_shokashu_1915/4_07_kazoeuta",
               "md_file": "kogakko_shokashu_1915/4_07_kazoeuta/index.md",
@@ -805,9 +869,16 @@
       ],
       "versions": [
         {
-          "id": "kogakko_shoka/grade_5/7_umi",
-          "year": 1923,
+          "id": "jinjo_shogaku_shoka/grade_5_4100/6_umi",
+          "year": 1913,
           "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_5_4100/6_umi",
+              "md_file": "jinjo_shogaku_shoka/grade_5_4100/6_umi/index.md",
+              "book_label": "文部省《尋常小學唱歌》第五學年用（大正2年／1913）",
+              "raw_title": "海",
+              "year": 1913
+            },
             {
               "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/08_umi",
               "md_file": "shoka_kyozai_shu_1923/grade_5_6/08_umi/index.md",

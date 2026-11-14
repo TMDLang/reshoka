@@ -1,0 +1,36 @@
+X:1
+T:舞へや歌へや
+M:4/4
+L:1/16
+Q:1/4=92
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! z14 C2 | F2 F2 D2 C2 F2 G2 A2 B2 | c4 c2 A2 G4 z2 C2 | F6 A2 G4 z2 G2 |
+w: ハ | ナ ニ ヤ ド レ ル テ フ | _ ハ イ マ ネ | ム _ リ サ
+!f! A6 c2 c4 z2 c2 | !mp! d4 A2 c2 d4 A2 C2 | F2 F2 G2 G2 A2 A2 c4 | !f! c6 A2 c4 z2 c2 |
+w: メ タ リ マ | ヘ ヤ マ ヘ ヤ ス | ガ タ ヤ サ シ ク マ | ヘ _ ヤ マ
+!mp! d4 A2 c2 d4 A2 G2 | F2 F2 G2 A2 c4 A4 | G6 F2 F4 z4 | !mf! D2 D2 D2 D2 D2 F2 G4 |
+w: ヘ ヤ マ ヘ ヤ タ | モ ト カ ロ ク マ | ヘ _ ヤ | ハ ル カ ゼ ワ タ ル
+A6 G2 F4 D2 z2 | D4 D2 D2 D2 F2 G4 | !f! A4 A4 A4 z2 D2 | G4 F12 |
+w: ヒ ロ ノ ハ | ナ ガ タ ノ シ キ | ニ ハ ゾ マ | ヘ ヤ
+!mf! A4 c4 d4 z2 C2 | F2 F2 D2 C2 F2 G2 A2 B2 | c2 c2 c2 A2 G4 z2 C2 | F6 A2 G4 z2 G2 |
+w: マ ヘ ヤ ハ | ナ~ _ ニ ク サ ニ テ~ _ | フ ノ ア ソ ブ ト | キ _ ハ イ
+!f! A6 c2 c4 z2 c2 | !mf! d4 A2 c2 d4 A2 C2 | F2 F2 G2 G2 A2 A2 c4 | !f! c6 A2 c4 z2 c2 |
+w: マ ナ リ マ | ヘ ヤ マ ヘ ヤ ス | ガ タ ヤ サ シ ク マ | ヘ _ ヤ マ
+d4 A2 c2 d4 A2 G2 | F2 F2 G2 A2 c4 A4 | G6 F2 F4 z4 | !mp! z14 C2 |
+w: ヘ ヤ マ ヘ ヤ タ | モ ト カ ロ ク マ | ヘ _ ヤ | は
+F2 F2 D2 C2 F2 G2 A2 B2 | c4 c2 A2 G4 z2 C2 | F6 A2 G4 z2 G2 | !f! A6 c2 c4 z2 c2 |
+w: か げ に い ね し と り | _ は は や ゆ | め _ も み | あ き つ う
+!mp! d4 A2 c2 d4 A2 C2 | F2 F2 G2 G2 A2 A2 c4 | !f! c6 A2 c4 z2 c2 | !mp! d4 A2 c2 d4 A2 G2 |
+w: た へ う た へ こ | こ ろ ゆ た か に う | た _ へ う | た へ う た へ し
+F2 F2 G2 A2 c4 A4 | G6 F2 F4 z4 | !mf! D2 D2 D2 D2 D2 F2 G4 | A6 G2 F4 D2 z2 |
+w: ら べ た か く う | た _ へ | み ど り~ _ い ろ そふ | は や し は
+D4 D2 D2 D2 F2 G4 | !f! A4 A4 A4 z2 D2 | G4 F12 | !mf! A4 c4 d4 z2 C2 |
+w: な が た の し き | に は ぞ う | た へ | う た へ え
+F2 F2 D2 C2 F2 G2 A2 B2 | c2 c2 c2 A2 G4 z2 C2 | F6 A2 G4 z2 G2 | !f! A6 c2 c4 z2 c2 |
+w: だ に こ ず ゑ に と~ _ | り の あ そ ぶ と | き _ は い | ま な り う
+!mf! d4 A2 c2 d4 A2 C2 | F2 F2 G2 G2 A2 A2 c4 | !f! c6 A2 c4 z2 c2 | d4 A2 c2 d4 A2 G2 |
+w: た へ う た へ こ | こ ろ ゆ た か に う | た _ へ う | た へ う た へ し
+F2 F2 G2 A2 c4 A4 | G6 F2 F4 z4 |
+w: ら べ た か く う | た _ へ

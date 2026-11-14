@@ -1,0 +1,98 @@
+X:1
+T:卒業の歌
+C:曲：文部省
+M:4/4
+L:1/16
+Q:1/4=104
+K:Eb
+V:V1 name="Alto" snm="Alt"
+V:V2 name="Soprano" snm="Sop"
+[V:V1]
+!mf! z4 z4 z4 B,4 | E8 E4 D2 E2 | D8 D4 B,4 | E8 E4 E4 |
+D8 z4 B,4 | E6 E2 E4 D2 E2 | D6 B,2 B,4 D4 | E4 G4 E4 D2 E2 |
+D8 z4 B,4 | E6 E2 E4 D2 E2 | D6 B,2 B,4 D4 | E4 E4 D4 D4 |
+!f! E8 z4 B4 | B4 A2 F2 G4 G2 A2 | G6 E2 G4 E2 D2 | E6 D2 E4 E4 |
+D8 z4 B4 | B4 A2 F2 G4 G2 A2 | G6 E2 G4 E2 D2 | E6 E2 C4 C4 |
+!mf! B,8 z4 B,4 | E6 E2 E4 D2 E2 | D8 D4 D4 | F4 G4 E4 F2 E2 |
+!f! D8 z4 B4 | G6 G2 G4 E4 | E8 E4 E4 | C4 E4 E6 D2 |
+!mf! E8 z4 B,4 | E8 E4 D2 E2 | D8 D4 B,4 | E8 E4 E4 |
+D8 z4 B,4 | E6 E2 E4 D2 E2 | D6 B,2 B,4 D4 | E4 G4 E4 D2 E2 |
+D8 z4 B,4 | E6 E2 E4 D2 E2 | D6 B,2 B,4 D4 | E4 E4 D4 D4 |
+!f! E8 z4 B4 | B4 A2 F2 G4 G2 A2 | G6 E2 G4 E2 D2 | E6 D2 E4 E4 |
+D8 z4 B4 | B4 A2 F2 G4 G2 A2 | G6 E2 G4 E2 D2 | E6 E2 C4 C4 |
+!mf! B,8 z4 B,4 | E6 E2 E4 D2 E2 | D8 D4 D4 | F4 G4 E4 F2 E2 |
+!f! D8 z4 B4 | G6 G2 G4 E4 | E8 E4 E4 | C4 E4 E6 D2 |
+!mf! E8 z4 B,4 | E8 E4 D2 E2 | D8 D4 B,4 | E8 E4 E4 |
+D8 z4 B,4 | E6 E2 E4 D2 E2 | D6 B,2 B,4 D4 | E4 G4 E4 D2 E2 |
+D8 z4 B,4 | E6 E2 E4 D2 E2 | D6 B,2 B,4 D4 | E4 E4 D4 D4 |
+!f! E8 z4 B4 | B4 A2 F2 G4 G2 A2 | G6 E2 G4 E2 D2 | E6 D2 E4 E4 |
+D8 z4 B4 | B4 A2 F2 G4 G2 A2 | G6 E2 G4 E2 D2 | E6 E2 C4 C4 |
+!mf! B,8 z4 B,4 | E6 E2 E4 D2 E2 | D8 D4 D4 | F4 G4 E4 F2 E2 |
+!f! D8 z4 B4 | G6 G2 G4 E4 | E8 E4 E4 | C4 E4 E6 D2 |
+!mf! E8 z4 B,4 | E8 E4 D2 E2 | D8 D4 B,4 | E8 E4 E4 |
+D8 z4 B,4 | E6 E2 E4 D2 E2 | D6 B,2 B,4 D4 | E4 G4 E4 D2 E2 |
+D8 z4 B,4 | E6 E2 E4 D2 E2 | D6 B,2 B,4 D4 | E4 E4 D4 D4 |
+!f! E8 z4 B4 | B4 A2 F2 G4 G2 A2 | G6 E2 G4 E2 D2 | E6 D2 E4 E4 |
+D8 z4 B4 | B4 A2 F2 G4 G2 A2 | G6 E2 G4 E2 D2 | E6 E2 C4 C4 |
+!mf! B,8 z4 B,4 | E6 E2 E4 D2 E2 | D8 D4 D4 | F4 G4 E4 F2 E2 |
+!f! D8 z4 B4 | G6 G2 G4 E4 | E8 E4 E4 | C4 E4 E6 D2 |
+E8 z4 z4 |
+[V:V2]
+!mf! z4 z4 z4 B,4 | E8 E4 F2 G2 | F8 F4 B4 | c8 c4 B2 =A2 |
+w: ウ | レ シ ウ レ | シ ヤ ウ | レ シ ヤ _
+B8 z4 B,4 | E6 E2 E4 F2 G2 | F6 D2 B,4 B4 | G4 B4 G4 F2 E2 |
+w: ナ ヒ | ト ノ コ ド _ | モ _ ノ オ | シ _ ナ ベ _
+F8 z4 G2 F2 | E6 E2 E4 F2 G2 | F6 D2 B,4 B4 | G4 B4 F4 G2 F2 |
+w: テ フ _ | ム ヲ ミ ク _ | ニ _ ノ オ | キ _ テ ナ _
+!f! E8 z4 B4 | B4 c2 d2 e4 d2 c2 | B6 G2 B4 G2 F2 | E6 F2 G4 c4 |
+w: ル マ | ナ ビ _ ノ ミ _ | チ ノ ム ト _ | セ _ ヲ ー
+B8 z4 B4 | B4 c2 d2 e4 d2 c2 | B6 G2 B4 G2 F2 | E6 G2 F4 F4 |
+w: バ ヲ | ヘ シ _ ケ フ _ | コ _ ソ ウ _ | レ _ シ ケ
+!mf! B,8 z4 B,4 | E6 E2 E4 F2 G2 | F8 F4 B4 | =A4 B4 c4 d2 c2 |
+w: レ ヤ | ナ ギ サ ク _ | ラ ノ ハ | ル _ ニ ホ _
+!f! B8 z4 B4 | e6 e2 B4 G4 | c8 B4 G4 | F4 A4 G6 F2 |
+w: フ ニ | シ キ ヲ ソ | ヘ テ ノ | モ _ ヤ マ
+!mf! E8 z4 B,4 | E8 E4 F2 G2 | F8 F4 B4 | c8 c4 B2 =A2 |
+w: モ う | れ し う れ | し や う | れ し や _
+B8 z4 B,4 | E6 E2 E4 F2 G2 | F6 D2 B,4 B4 | G4 B4 G4 F2 E2 |
+w: な い | ろ は の い _ | を _ も わ | き _ ま へ _
+F8 z4 G2 F2 | E6 E2 E4 F2 G2 | F6 D2 B,4 B4 | G4 B4 F4 G2 F2 |
+w: ぬ み _ | の い つ し _ | か に つ み | え _ た ー _
+!f! E8 z4 B4 | B4 c2 d2 e4 d2 c2 | B6 G2 B4 G2 F2 | E6 F2 G4 c4 |
+w: る に | し も _ ひ が _ | し _ も し _ | ら _ ざ り
+B8 z4 B4 | B4 c2 d2 e4 d2 c2 | B6 G2 B4 G2 F2 | E6 G2 F4 F4 |
+w: し み | の い _ つ し _ | か _ に わ _ | け _ え た
+!mf! B,8 z4 B,4 | E6 E2 E4 F2 G2 | F8 F4 B4 | =A4 B4 c4 d2 c2 |
+w: る よ | の ひ と な _ | み の も | じ _ の か _
+!f! B8 z4 B4 | e6 e2 B4 G4 | c8 B4 G4 | F4 A4 G6 F2 |
+w: ず よ | の ひ と な | み の み | ち _ の す
+!mf! E8 z4 B,4 | E8 E4 F2 G2 | F8 F4 B4 | c8 c4 B2 =A2 |
+w: ぢ ウ | レ シ ウ レ | シ ヤ ウ | レ シ ヤ _
+B8 z4 B,4 | E6 E2 E4 F2 G2 | F6 D2 B,4 B4 | G4 B4 G4 F2 E2 |
+w: ナ ム | ト セ ノ ツ _ | キ _ ヒ テ | ヲ _ ト リ _
+F8 z4 G2 F2 | E6 E2 E4 F2 G2 | F6 D2 B,4 B4 | G4 B4 F4 G2 F2 |
+w: テ ヲ _ | シ ヘ タ マ _ | ヒ シ シ ノ | キ _ ミ ー _
+!f! E8 z4 B4 | B4 c2 d2 e4 d2 c2 | B6 G2 B4 G2 F2 | E6 F2 G4 c4 |
+w: ノ ミ | チ び _ キ ナ _ | ク _ バ イ _ | カ _ デ ワ
+B8 z4 B4 | B4 c2 d2 e4 d2 c2 | B6 G2 B4 G2 F2 | E6 G2 F4 F4 |
+w: ガ コ | コ ロ _ ニ ヒ _ | ラ _ ク チ _ | ハ _ ト ク
+!mf! B,8 z4 B,4 | E6 E2 E4 F2 G2 | F8 F4 B4 | =A4 B4 c4 d2 c2 |
+w: ハ オ | モ ヘ バ ウ _ | レ シ シ | ノ _ ナ サ _
+!f! B8 z4 B4 | e6 e2 B4 G4 | c8 B4 G4 | F4 A4 G6 F2 |
+w: ケ オ | モ ヘ バ ウ | レ シ シ | ノ _ メ グ
+!mf! E8 z4 B,4 | E8 E4 F2 G2 | F8 F4 B4 | c8 c4 B2 =A2 |
+w: ミ う | れ し う れ | し や う | れ し や _
+B8 z4 B,4 | E6 E2 E4 F2 G2 | F6 D2 B,4 B4 | G4 B4 G4 F2 E2 |
+w: な し | の た ま も _ | の _ の ち | を _ と く _
+F8 z4 G2 F2 | E6 E2 E4 F2 G2 | F6 D2 B,4 B4 | G4 B4 F4 G2 F2 |
+w: を か _ | ぢ に し を _ | り に よ の | う _ み ー _
+!f! E8 z4 B4 | B4 c2 d2 e4 d2 c2 | B6 G2 B4 G2 F2 | E6 F2 G4 c4 |
+w: を わ | た り _ て ゆ _ | か _ ん な _ | ほ _ た か
+B8 z4 B4 | B4 c2 d2 e4 d2 c2 | B6 G2 B4 G2 F2 | E6 G2 F4 F4 |
+w: き ま | な び _ の た _ | か _ ね よ _ | ぢ _ て み
+!mf! B,8 z4 B,4 | E6 E2 E4 F2 G2 | F8 F4 B4 | =A4 B4 c4 d2 c2 |
+w: ん し | の き み さ _ | ら ば す | こ _ や か _
+!f! B8 z4 B4 | e6 e2 B4 G4 | c8 B4 G4 | F4 A4 G6 F2 |
+w: に わ | が と も さ | ら ば す | こ _ や か
+E8 z4 z4 |
+w: に

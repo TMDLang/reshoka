@@ -1,0 +1,34 @@
+X:1
+T:朝の歌
+M:2/4
+L:1/16
+Q:1/4=69
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 z2 E2 | A3 E C2 C2 | E3 F E2 E2 | c4 B3 E |
+w: ア | サ ヒ ハ ノ | ボ リ ヌ ヒ | ハ イ デ
+A4 z2 E2 | e3 c c2 e2 | e3 B B2 B2 | c4 B3 B |
+w: ヌ ウ | ミ ニ ハ ホ | ヅ ナ ヲ タ | グ リ ア
+E4 z2 A2 | A3 F F2 A2 | A3 E E2 E2 | B4 A3 B |
+w: ゲ オ | ヒ テ ニ ホ | ア ゲ テ フ | ナ デ ス
+c4 z2 E2 | A3 E C2 C2 | E3 F E2 E2 | c4 B3 E |
+w: ル ア | マ ビ ト イ | マ~ _ ヤ イ | サ ム ラ
+A4 z2 E2 | A3 E C2 C2 | E3 F E2 E2 | c4 B3 E |
+w: ン あ | さ ひ は の | ぼ り ぬ ひ | は い で
+A4 z2 E2 | e3 c c2 e2 | e3 B B2 B2 | c4 B3 B |
+w: ぬ や | ま に は こ | う し を お | ひ な が
+E4 z2 A2 | A3 F F2 A2 | A3 E E2 E2 | B4 A3 B |
+w: ら あ | さ つ ゆ ふ | み わ け の | ぼ り ゆ
+c4 z2 E2 | A3 E C2 C2 | E3 F E2 E2 | c4 B3 E |
+w: く を | と め の う | た~ _ や た | か か ら
+A4 z2 E2 | A3 E C2 C2 | E3 F E2 E2 | c4 B3 E |
+w: ん ア | サ ヒ ハ ノ | ボ リ ヌ ヒ | ハ イ デ
+A4 z2 E2 | e3 c c2 e2 | e3 B B2 B2 | c4 B3 B |
+w: ヌ マ | チ ニ ハ コ | ウ バ ノ フ | エ ナ リ
+E4 z2 A2 | A3 F F2 A2 | A3 E E2 E2 | B4 A3 B |
+w: テ イ | マ シ モ ウ | ス ラ グ ア | サ モ ヤ
+c4 z2 E2 | A3 E C2 C2 | E3 F E2 E2 | c4 B3 E |
+w: ニ キ | カ イ ノ オ | ト~ _ ヤ ヒ | ビ ク ラ
+A4 z4 |
+w: ン

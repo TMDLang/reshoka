@@ -14,40 +14,40 @@
 
 ## 各冊校對進度總表
 
-| 叢書                       | 冊別                                                              |  已校對 |  總曲數 |      進度 |
-| :------------------------- | :---------------------------------------------------------------- | ------: | ------: | --------: |
-| 《新定兒童唱歌》           | [尋常科 第一學年](#shintei_jido_shoka_grade_1_2020.006.0847.0001) |      59 |      59 |      100% |
-| 《新定兒童唱歌》           | [尋常科 第二學年](#shintei_jido_shoka_grade_2_2020.006.0847.0002) |      47 |      47 |      100% |
-| 《新定兒童唱歌》           | [尋常科 第三學年](#shintei_jido_shoka_grade_3_2020.006.0847.0003) |      53 |      53 |      100% |
-| 《新定兒童唱歌》           | [尋常科 第四學年](#shintei_jido_shoka_grade_4_2020.006.0847.0004) |      50 |      50 |      100% |
-| 《新定兒童唱歌》           | [尋常科 第五學年](#shintei_jido_shoka_grade_5_2020.006.0847.0005) |       6 |      46 |       13% |
-| 《新定兒童唱歌》           | [尋常科 第六學年](#shintei_jido_shoka_grade_6_2020.006.0847.0006) |       9 |      45 |       20% |
-| 《新定兒童唱歌》           | [高等科 男子一二年](#shintei_jido_shoka_koto_boys_2020.006.0848)  |       1 |      62 |        2% |
-| 《新定兒童唱歌》           | [高等科 女子一二年](#shintei_jido_shoka_koto_girls_2020.006.0849) |       1 |      62 |        2% |
-| 《公學校唱歌集》           | [大正四年版（國臺圖 0725 26）](#kogakko_shokashu_1915)            |      46 |      46 |      100% |
-| 《公學校唱歌》             | [第一學年用（國臺圖 0729 73）](#kogakko_shoka_grade_1)            |      15 |      15 |      100% |
-| 《公學校唱歌》             | [第二學年用（國臺圖 523.37 4322-4）](#kogakko_shoka_grade_2)      |      15 |      15 |      100% |
-| 《公學校唱歌》             | [第三學年用](#kogakko_shoka_grade_3)                              |      15 |      15 |      100% |
-| 《公學校唱歌》             | [第四學年用（國臺圖 0729 73）](#kogakko_shoka_grade_4)            |      20 |      20 |      100% |
-| 《公學校唱歌》             | [第五學年用（國臺圖 523.37 4322-4）](#kogakko_shoka_grade_5)      |      20 |      20 |      100% |
-| 《公學校唱歌》             | [第六學年用（國臺圖 523.37 4322-4）](#kogakko_shoka_grade_6)      |      20 |      20 |      100% |
-| 《うたのほん》（唱歌課本） | [下卷（初等科第二學年）](#utanohon_ge_2006.006.0878)              |      20 |      20 |      100% |
-| 《共益商社唱歌教科書》     | [巻一（生徒用）](#kyoeki_shoka_kan_1_854862)                      |      20 |      20 |      100% |
-| 《共益商社唱歌教科書》     | [巻二（教師用）](#kyoeki_shoka_kan_2_854863)                      |      18 |      18 |      100% |
-| 《共益商社唱歌教科書》     | [巻三（教師用）](#kyoeki_shoka_kan_3_854864)                      |      19 |      19 |      100% |
-| 《共益商社唱歌教科書》     | [巻四（教師用）](#kyoeki_shoka_kan_4_854865)                      |      19 |      19 |      100% |
-| 《楊金土手抄唱歌帖》       | [第 1 冊（選定唱歌筆記帳）](#shokacho_vol_01)                     |      22 |      53 |       42% |
-| 《楊金土手抄唱歌帖》       | [第 2 冊（II）](#shokacho_vol_02)                                 |       0 |      35 |        0% |
-| 《楊金土手抄唱歌帖》       | [第 3 冊（I）](#shokacho_vol_03)                                  |       3 |      22 |       14% |
-| 《楊金土手抄唱歌帖》       | [第 7 冊（VII・蓬萊唱歌集上）](#shokacho_vol_07)                  |       4 |      32 |       12% |
-| 《楊金土手抄唱歌帖》       | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       1 |      22 |        5% |
-| 《楊金土手抄唱歌帖》       | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |       4 |        0% |
-| 《楊金土手抄唱歌帖》       | [第 10 冊（X）](#shokacho_vol_10)                                 |       2 |      31 |        6% |
-| 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第一、二學年](#shoka_kyozai_shu_1923_grade_1_2)           |      60 |      60 |      100% |
-| 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第三、四學年](#shoka_kyozai_shu_1923_grade_3_4)           |      50 |      50 |      100% |
-| 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第五、六學年](#shoka_kyozai_shu_1923_grade_5_6)           |      51 |      51 |      100% |
-| 《新編 小學校・公學校 唱歌教材集》 | [高等科 第一、二學年](#shoka_kyozai_shu_1923_koto_1_2)            |      40 |      40 |      100% |
-| **合計**                   | **全 31 冊**                                                      | **706** | **1,071** | **65.9%** |
+| 叢書                               | 冊別                                                              |  已校對 |    總曲數 |      進度 |
+| :--------------------------------- | :---------------------------------------------------------------- | ------: | --------: | --------: |
+| 《新定兒童唱歌》                   | [尋常科 第一學年](#shintei_jido_shoka_grade_1_2020.006.0847.0001) |      59 |        59 |      100% |
+| 《新定兒童唱歌》                   | [尋常科 第二學年](#shintei_jido_shoka_grade_2_2020.006.0847.0002) |      47 |        47 |      100% |
+| 《新定兒童唱歌》                   | [尋常科 第三學年](#shintei_jido_shoka_grade_3_2020.006.0847.0003) |      53 |        53 |      100% |
+| 《新定兒童唱歌》                   | [尋常科 第四學年](#shintei_jido_shoka_grade_4_2020.006.0847.0004) |      50 |        50 |      100% |
+| 《新定兒童唱歌》                   | [尋常科 第五學年](#shintei_jido_shoka_grade_5_2020.006.0847.0005) |       6 |        46 |       13% |
+| 《新定兒童唱歌》                   | [尋常科 第六學年](#shintei_jido_shoka_grade_6_2020.006.0847.0006) |       9 |        45 |       20% |
+| 《新定兒童唱歌》                   | [高等科 男子一二年](#shintei_jido_shoka_koto_boys_2020.006.0848)  |       1 |        62 |        2% |
+| 《新定兒童唱歌》                   | [高等科 女子一二年](#shintei_jido_shoka_koto_girls_2020.006.0849) |       1 |        62 |        2% |
+| 《公學校唱歌集》                   | [大正四年版（國臺圖 0725 26）](#kogakko_shokashu_1915)            |      46 |        46 |      100% |
+| 《公學校唱歌》                     | [第一學年用（國臺圖 0729 73）](#kogakko_shoka_grade_1)            |      15 |        15 |      100% |
+| 《公學校唱歌》                     | [第二學年用（國臺圖 523.37 4322-4）](#kogakko_shoka_grade_2)      |      15 |        15 |      100% |
+| 《公學校唱歌》                     | [第三學年用](#kogakko_shoka_grade_3)                              |      15 |        15 |      100% |
+| 《公學校唱歌》                     | [第四學年用（國臺圖 0729 73）](#kogakko_shoka_grade_4)            |      20 |        20 |      100% |
+| 《公學校唱歌》                     | [第五學年用（國臺圖 523.37 4322-4）](#kogakko_shoka_grade_5)      |      20 |        20 |      100% |
+| 《公學校唱歌》                     | [第六學年用（國臺圖 523.37 4322-4）](#kogakko_shoka_grade_6)      |      20 |        20 |      100% |
+| 《うたのほん》（唱歌課本）         | [下卷（初等科第二學年）](#utanohon_ge_2006.006.0878)              |      20 |        20 |      100% |
+| 《共益商社唱歌教科書》             | [巻一（生徒用）](#kyoeki_shoka_kan_1_854862)                      |      20 |        20 |      100% |
+| 《共益商社唱歌教科書》             | [巻二（教師用）](#kyoeki_shoka_kan_2_854863)                      |      18 |        18 |      100% |
+| 《共益商社唱歌教科書》             | [巻三（教師用）](#kyoeki_shoka_kan_3_854864)                      |      19 |        19 |      100% |
+| 《共益商社唱歌教科書》             | [巻四（教師用）](#kyoeki_shoka_kan_4_854865)                      |      19 |        19 |      100% |
+| 《楊金土手抄唱歌帖》               | [第 1 冊（選定唱歌筆記帳）](#shokacho_vol_01)                     |      22 |        53 |       42% |
+| 《楊金土手抄唱歌帖》               | [第 2 冊（II）](#shokacho_vol_02)                                 |       0 |        35 |        0% |
+| 《楊金土手抄唱歌帖》               | [第 3 冊（I）](#shokacho_vol_03)                                  |       3 |        22 |       14% |
+| 《楊金土手抄唱歌帖》               | [第 7 冊（VII・蓬萊唱歌集上）](#shokacho_vol_07)                  |       4 |        32 |       12% |
+| 《楊金土手抄唱歌帖》               | [第 8 冊（VIII・蓬萊唱歌集下）](#shokacho_vol_08)                 |       1 |        22 |        5% |
+| 《楊金土手抄唱歌帖》               | [第 9 冊（IX・支那曲）](#shokacho_vol_09)                         |       0 |         4 |        0% |
+| 《楊金土手抄唱歌帖》               | [第 10 冊（X）](#shokacho_vol_10)                                 |       2 |        31 |        6% |
+| 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第一、二學年](#shoka_kyozai_shu_1923_grade_1_2)           |      60 |        60 |      100% |
+| 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第三、四學年](#shoka_kyozai_shu_1923_grade_3_4)           |      50 |        50 |      100% |
+| 《新編 小學校・公學校 唱歌教材集》 | [尋常科 第五、六學年](#shoka_kyozai_shu_1923_grade_5_6)           |      51 |        51 |      100% |
+| 《新編 小學校・公學校 唱歌教材集》 | [高等科 第一、二學年](#shoka_kyozai_shu_1923_koto_1_2)            |      40 |        40 |      100% |
+| **合計**                           | **全 31 冊**                                                      | **706** | **1,071** | **65.9%** |
 
 ---
 
@@ -918,12 +918,12 @@
 - [x] **P228 オフネ（小船）**（`D` / `2/4`）— [單曲頁](shokacho/vol_07/p228_ofune/index.md) · [主譜 TMD](shokacho/vol_07/p228_ofune/ofune.tmd) · [伴奏 TMD](shokacho/vol_07/p228_ofune/ofune_piano.tmd)
 - [x] **P229A 雨（雨）**（`A` / `2/4`）— [單曲頁](shokacho/vol_07/p229a_ame/index.md) · [主譜 TMD](shokacho/vol_07/p229a_ame/ame.tmd) · [伴奏 TMD](shokacho/vol_07/p229a_ame/ame_piano.tmd)
 - [x] **P229B 子守唄（搖籃曲）**（`B,` / `4/4`）— [單曲頁](shokacho/vol_07/p229b_komoriuta/index.md) · [主譜 TMD](shokacho/vol_07/p229b_komoriuta/komoriuta.tmd) · [伴奏 TMD](shokacho/vol_07/p229b_komoriuta/komoriuta_piano.tmd)
-- [ ] **P230A 山の飴屋（山上的糖果店）**（`F` / `2/4`）— [單曲頁](shokacho/vol_07/p230a_yama_no_ameya/index.md) · [主譜 TMD](shokacho/vol_07/p230a_yama_no_ameya/yama_no_ameya.tmd) · [伴奏 TMD](shokacho/vol_07/p230a_yama_no_ameya/yama_no_ameya_piano.tmd)
-- [ ] **P230B 舞踏（舞蹈）**（`B,` / `3/4`）— [單曲頁](shokacho/vol_07/p230b_buto/index.md) · [主譜 TMD](shokacho/vol_07/p230b_buto/buto.tmd) · [伴奏 TMD](shokacho/vol_07/p230b_buto/buto_piano.tmd)
-- [ ] **P231 水グルマ（水車）**（`D` / `2/4`）— [單曲頁](shokacho/vol_07/p231_mizuguruma/index.md) · [主譜 TMD](shokacho/vol_07/p231_mizuguruma/mizuguruma.tmd) · [伴奏 TMD](shokacho/vol_07/p231_mizuguruma/mizuguruma_piano.tmd)
-- [ ] **P232 オ友達（好朋友）**（`B,` / `2/4`）— [單曲頁](shokacho/vol_07/p232_otomodachi/index.md) · [主譜 TMD](shokacho/vol_07/p232_otomodachi/otomodachi.tmd) · [伴奏 TMD](shokacho/vol_07/p232_otomodachi/otomodachi_piano.tmd)
-- [ ] **P233 シャボン玉（肥皂泡）**（`E,` / `2/4`）— [單曲頁](shokacho/vol_07/p233_shabondama/index.md) · [主譜 TMD](shokacho/vol_07/p233_shabondama/shabondama.tmd) · [伴奏 TMD](shokacho/vol_07/p233_shabondama/shabondama_piano.tmd)
-- [ ] **P234 螢の學校（螢火蟲的學校）**（`B,` / `2/4`）— [單曲頁](shokacho/vol_07/p234_hotaru_no_gakko/index.md) · [主譜 TMD](shokacho/vol_07/p234_hotaru_no_gakko/hotaru_no_gakko.tmd) · [伴奏 TMD](shokacho/vol_07/p234_hotaru_no_gakko/hotaru_no_gakko_piano.tmd)
+- [x] **P230A 山の飴屋（山上的糖果店）**（`F` / `2/4`）— [單曲頁](shokacho/vol_07/p230a_yama_no_ameya/index.md) · [主譜 TMD](shokacho/vol_07/p230a_yama_no_ameya/yama_no_ameya.tmd) · [伴奏 TMD](shokacho/vol_07/p230a_yama_no_ameya/yama_no_ameya_piano.tmd)
+- [x] **P230B 舞踏（舞蹈）**（`B,` / `3/4`）— [單曲頁](shokacho/vol_07/p230b_buto/index.md) · [主譜 TMD](shokacho/vol_07/p230b_buto/buto.tmd) · [伴奏 TMD](shokacho/vol_07/p230b_buto/buto_piano.tmd)
+- [x] **P231 水グルマ（水車）**（`D` / `2/4`）— [單曲頁](shokacho/vol_07/p231_mizuguruma/index.md) · [主譜 TMD](shokacho/vol_07/p231_mizuguruma/mizuguruma.tmd) · [伴奏 TMD](shokacho/vol_07/p231_mizuguruma/mizuguruma_piano.tmd)
+- [x] **P232 オ友達（好朋友）**（`B,` / `2/4`）— [單曲頁](shokacho/vol_07/p232_otomodachi/index.md) · [主譜 TMD](shokacho/vol_07/p232_otomodachi/otomodachi.tmd) · [伴奏 TMD](shokacho/vol_07/p232_otomodachi/otomodachi_piano.tmd)
+- [x] **P233 シャボン玉（肥皂泡）**（`E,` / `2/4`）— [單曲頁](shokacho/vol_07/p233_shabondama/index.md) · [主譜 TMD](shokacho/vol_07/p233_shabondama/shabondama.tmd) · [伴奏 TMD](shokacho/vol_07/p233_shabondama/shabondama_piano.tmd)
+- [x] **P234 螢の學校（螢火蟲的學校）**（`B,` / `2/4`）— [單曲頁](shokacho/vol_07/p234_hotaru_no_gakko/index.md) · [主譜 TMD](shokacho/vol_07/p234_hotaru_no_gakko/hotaru_no_gakko.tmd) · [伴奏 TMD](shokacho/vol_07/p234_hotaru_no_gakko/hotaru_no_gakko_piano.tmd)
 - [ ] **P235 三羽ノ雀（三隻麻雀）**（`B,` / `4/4`）— [單曲頁](shokacho/vol_07/p235_sanba_no_suzume/index.md) · [主譜 TMD](shokacho/vol_07/p235_sanba_no_suzume/sanba_no_suzume.tmd) · [伴奏 TMD](shokacho/vol_07/p235_sanba_no_suzume/sanba_no_suzume_piano.tmd)
 - [ ] **P236 夕日（夕陽）**（`E` / `2/4`）— [單曲頁](shokacho/vol_07/p236_yuhi/index.md) · [主譜 TMD](shokacho/vol_07/p236_yuhi/yuhi.tmd) · [伴奏 TMD](shokacho/vol_07/p236_yuhi/yuhi_piano.tmd)
 - [ ] **P237 兎の電報（兔子的電報）**（`A` / `2/4`）— [單曲頁](shokacho/vol_07/p237_usagi_no_denpo/index.md) · [主譜 TMD](shokacho/vol_07/p237_usagi_no_denpo/usagi_no_denpo.tmd) · [伴奏 TMD](shokacho/vol_07/p237_usagi_no_denpo/usagi_no_denpo_piano.tmd)
@@ -942,7 +942,7 @@
 - [ ] **P250 夕立小立 (陣雨)**（`E` / `2/4`）— [單曲頁](shokacho/vol_07/p250_yudachi_kodachi/index.md) · [主譜 TMD](shokacho/vol_07/p250_yudachi_kodachi/yudachi_kodachi.tmd) · [伴奏 TMD](shokacho/vol_07/p250_yudachi_kodachi/yudachi_kodachi_piano.tmd)
 - [ ] **P251 水の流 (水流)**（`F` / `3/4`）— [單曲頁](shokacho/vol_07/p251_mizu_no_nagare/index.md) · [主譜 TMD](shokacho/vol_07/p251_mizu_no_nagare/mizu_no_nagare.tmd) · [伴奏 TMD](shokacho/vol_07/p251_mizu_no_nagare/mizu_no_nagare_piano.tmd)
 - [ ] **P252 しゃぼん玉 (肥皂泡)**（`E,` / `2/4`）— [單曲頁](shokacho/vol_07/p252_shabondama/index.md) · [主譜 TMD](shokacho/vol_07/p252_shabondama/shabondama.tmd) · [伴奏 TMD](shokacho/vol_07/p252_shabondama/shabondama_piano.tmd)
-- [ ] **P253 火事 (火災)**（`C` / `4/4`）— [單曲頁](shokacho/vol_07/p253_kaji/index.md) · [主譜 TMD](shokacho/vol_07/p253_kaji/kaji.tmd) · [伴奏 TMD](shokacho/vol_07/p253_kaji/kaji_piano.tmd)
+- [x] **P253 火事 (火災)**（`C` / `4/4`）— [單曲頁](shokacho/vol_07/p253_kaji/index.md) · [主譜 TMD](shokacho/vol_07/p253_kaji/kaji.tmd) · [伴奏 TMD](shokacho/vol_07/p253_kaji/kaji_piano.tmd)
 - [ ] **P254 ひとりぼっち (孤零零)**（`G` / `2/4`）— [單曲頁](shokacho/vol_07/p254_hitoribocchi/index.md) · [主譜 TMD](shokacho/vol_07/p254_hitoribocchi/hitoribocchi.tmd) · [伴奏 TMD](shokacho/vol_07/p254_hitoribocchi/hitoribocchi_piano.tmd)
 - [ ] **P255 富士の山 (富士山)**（`F` / `4/4`）— [單曲頁](shokacho/vol_07/p255_fuji_no_yama/index.md) · [主譜 TMD](shokacho/vol_07/p255_fuji_no_yama/fuji_no_yama.tmd) · [伴奏 TMD](shokacho/vol_07/p255_fuji_no_yama/fuji_no_yama_piano.tmd)
 - [ ] **P256 落葉 (落葉)**（`B,` / `3/4`）— [單曲頁](shokacho/vol_07/p256_ochiba/index.md) · [主譜 TMD](shokacho/vol_07/p256_ochiba/ochiba.tmd) · [伴奏 TMD](shokacho/vol_07/p256_ochiba/ochiba_piano.tmd)

@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1112,
-  "same_melody_different_lyrics_group_count": 14,
+  "total_corpus_songs": 1230,
+  "same_melody_different_lyrics_group_count": 16,
   "groups": [
     {
       "versions": [
@@ -44,6 +44,123 @@
     {
       "versions": [
         {
+          "id": "jinjo_shogaku_shoka/grade_1_4103/14_kiku_no_hana",
+          "lyrics": "みごとにさいたかきねのこぎくひとつとりたいきいろなはなおへいたいあそびのくんしゃうに",
+          "titles": [
+            "菊の花"
+          ],
+          "year": 1911,
+          "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_1_4103/14_kiku_no_hana",
+              "md_file": "jinjo_shogaku_shoka/grade_1_4103/14_kiku_no_hana/index.md",
+              "book_label": "文部省《尋常小學唱歌》第一學年用（明治44年／1911）",
+              "raw_title": "菊の花",
+              "year": 1911
+            }
+          ]
+        },
+        {
+          "id": "kogakko_shokashu_1915/2_02_hana",
+          "lyrics": "みごとにさいたおにはのぶっそうげひとつとりたいまっかなはなおきゃうそうあそびのしゃうひんに",
+          "titles": [
+            "花",
+            "ハナ"
+          ],
+          "year": 1915,
+          "occurrences": [
+            {
+              "rel_dir": "kogakko_shokashu_1915/2_02_hana",
+              "md_file": "kogakko_shokashu_1915/2_02_hana/index.md",
+              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+              "raw_title": "花",
+              "year": 1915
+            },
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/33_hana",
+              "md_file": "shoka_kyozai_shu_1923/grade_1_2/33_hana/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "花",
+              "year": 1923
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "ハナ（花）",
+              "year": 1934
+            }
+          ]
+        }
+      ],
+      "id": "002_14_kiku_no_hana"
+    },
+    {
+      "versions": [
+        {
+          "id": "jinjo_shogaku_shoka/grade_6_4078/19_sotsugyo_no_uta",
+          "lyrics": "うれしゅうれしようれしやなひとのこどものおしなべちょうむおみくにのおきてなるまなびのみちのむとせおばおへしきょうこそうれしけれやなぎさくらのはるにほふにしきおそ",
+          "titles": [
+            "卒業の歌"
+          ],
+          "year": 1914,
+          "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_6_4078/19_sotsugyo_no_uta",
+              "md_file": "jinjo_shogaku_shoka/grade_6_4078/19_sotsugyo_no_uta/index.md",
+              "book_label": "文部省《尋常小學唱歌》第六學年用（大正3年／1914）",
+              "raw_title": "卒業の歌",
+              "year": 1914
+            }
+          ]
+        },
+        {
+          "id": "kogakko_shokashu_1915/6_09_sotsugyo_no_uta",
+          "lyrics": "うれしゅうれしようれしやないろはのいおもわきまへぬみのいつしかにつみえたるにしもひがしもしらざりしみのいつしかにわけえたるよのひとなみのもじのかずよのひとなみの",
+          "titles": [
+            "卒業の歌"
+          ],
+          "year": 1915,
+          "occurrences": [
+            {
+              "rel_dir": "kogakko_shokashu_1915/6_09_sotsugyo_no_uta",
+              "md_file": "kogakko_shokashu_1915/6_09_sotsugyo_no_uta/index.md",
+              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+              "raw_title": "卒業の歌",
+              "year": 1915
+            }
+          ]
+        }
+      ],
+      "id": "003_19_sotsugyo_no_uta"
+    },
+    {
+      "versions": [
+        {
+          "id": "jinjo_shogaku_shoka/grade_6_4078/1_meiji_tenno_gyosei",
+          "lyrics": "ものまなぶみちにたつこよおこたりにまされるあだはなしとしらなむ",
+          "titles": [
+            "明治天皇御製"
+          ],
+          "year": 1914,
+          "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_6_4078/1_meiji_tenno_gyosei",
+              "md_file": "jinjo_shogaku_shoka/grade_6_4078/1_meiji_tenno_gyosei/index.md",
+              "book_label": "文部省《尋常小學唱歌》第六學年用（大正3年／1914）",
+              "raw_title": "明治天皇御製",
+              "year": 1914
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "明治天皇御製",
+              "year": 1934
+            }
+          ]
+        },
+        {
           "id": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei",
           "lyrics": "とこしへにたみやすかれといのるなるわがよおまもれいせのおおかみ",
           "titles": [
@@ -57,23 +174,6 @@
               "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
               "raw_title": "明治天皇御製",
               "year": 1915
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei",
-          "lyrics": "ものまなぶみちにたつこよおこたりにまされるあたはなしとしらなむ",
-          "titles": [
-            "明治天皇御製"
-          ],
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei",
-              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_10_meiji_tenno_gyosei/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-              "raw_title": "明治天皇御製",
-              "year": 1934
             }
           ]
         },
@@ -95,7 +195,7 @@
           ]
         }
       ],
-      "id": "002_5_08_meiji_tenno_gyosei"
+      "id": "004_1_meiji_tenno_gyosei"
     },
     {
       "versions": [
@@ -134,7 +234,7 @@
           ]
         }
       ],
-      "id": "003_01_kisha_to_kisen"
+      "id": "005_01_kisha_to_kisen"
     },
     {
       "versions": [
@@ -173,7 +273,7 @@
           ]
         }
       ],
-      "id": "004_46_aki_no_kaze"
+      "id": "006_46_aki_no_kaze"
     },
     {
       "versions": [
@@ -212,7 +312,7 @@
           ]
         }
       ],
-      "id": "005_47_misora_no_kagami"
+      "id": "007_47_misora_no_kagami"
     },
     {
       "versions": [
@@ -251,7 +351,7 @@
           ]
         }
       ],
-      "id": "006_04_teishaba_no_suzu"
+      "id": "008_04_teishaba_no_suzu"
     },
     {
       "versions": [
@@ -314,7 +414,7 @@
           ]
         }
       ],
-      "id": "007_08_sobetsu_no_uta"
+      "id": "009_08_sobetsu_no_uta"
     },
     {
       "versions": [
@@ -353,7 +453,7 @@
           ]
         }
       ],
-      "id": "008_11_koronbusu"
+      "id": "010_11_koronbusu"
     },
     {
       "versions": [
@@ -392,7 +492,7 @@
           ]
         }
       ],
-      "id": "009_20_dosokai"
+      "id": "011_20_dosokai"
     },
     {
       "versions": [
@@ -431,7 +531,7 @@
           ]
         }
       ],
-      "id": "010_22_shiki_no_sanpo"
+      "id": "012_22_shiki_no_sanpo"
     },
     {
       "versions": [
@@ -470,7 +570,7 @@
           ]
         }
       ],
-      "id": "011_p131_tennen_no_bi"
+      "id": "013_p131_tennen_no_bi"
     },
     {
       "versions": [
@@ -509,7 +609,7 @@
           ]
         }
       ],
-      "id": "012_p109_tonbi"
+      "id": "014_p109_tonbi"
     },
     {
       "versions": [
@@ -555,7 +655,7 @@
           ]
         }
       ],
-      "id": "013_1_2_05_yamato_damashii"
+      "id": "015_1_2_05_yamato_damashii"
     },
     {
       "versions": [
@@ -594,7 +694,7 @@
           ]
         }
       ],
-      "id": "014_2_07_tasukebune"
+      "id": "016_2_07_tasukebune"
     }
   ]
 }

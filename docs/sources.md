@@ -5,15 +5,15 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 
 # 資料來源與各冊導覽
 
-本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **35 冊、1,112 首（次）曲目**。
+本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **40 冊、1,230 首（次）曲目**。
 
 ## 資料索引與延伸閱讀
 
 - 🧭 [日治時期臺灣公學校唱歌教材的流動與變化](shoka_genealogy.md)
-- 🔍 [全站歌曲去重統計（841 首不重複歌曲、181 組重複歌曲）](duplicate_songs.md)
-- 🔍 [同一歌名的多個版本（215 組）](same_title_songs.md)
-- 🔍 [同詞異曲歌曲（22 組候選）](same_lyrics_songs.md)
-- 🔍 [同曲異詞歌曲（14 組候選）](same_melody_songs.md)
+- 🔍 [全站歌曲去重統計（887 首不重複歌曲、219 組重複歌曲）](duplicate_songs.md)
+- 🔍 [同一歌名的多個版本（243 組）](same_title_songs.md)
+- 🔍 [同詞異曲歌曲（23 組候選）](same_lyrics_songs.md)
+- 🔍 [同曲異詞歌曲（16 組候選）](same_melody_songs.md)
 - 📜 [〈懸賞募集 公學校唱歌教材入選歌詞〉與作詞者名單](kogakko_shoka/lyrics_contest/index.md)
 - 📊 [《新定兒童唱歌》專題統計](shintei_jido_shoka/index.md)
 - 📊 [《共益商社唱歌教科書》專題統計](kyoeki_shoka/index.md)
@@ -28,6 +28,12 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 | 教材／抄本叢書 | 冊別與線上總覽 | 發行／公認／抄錄資訊與年代 | 典藏號 | 收錄曲數 | 書訊與掃描頁 |
 | :--- | :--- | :--- | :--- | ---: | :--- |
 | 《臺灣周遊唱歌》 | [全一冊（明治四十三年初版／大正元年八版）](taiwan_shuyu_shoka/index.md) | 宇井英作歌、高橋二三四作曲、臺北新高堂書店發行（1910／1912） | 國臺圖 `0786 10` | 2 版 | [書訊與地圖掃描頁](taiwan_shuyu_shoka/0_book_info/index.md) |
+| 《尋常小學唱歌》 | [第一學年用](jinjo_shogaku_shoka/grade_1_4103/index.md) | 文部省編（1911） | 廣島大學圖書館 `4103` | 20 首 | [書訊與掃描頁](jinjo_shogaku_shoka/grade_1_4103/0_book_info/index.md) |
+| 《尋常小學唱歌》 | [第二學年用](jinjo_shogaku_shoka/grade_2_4102/index.md) | 文部省編（1911） | 廣島大學圖書館 `4102` | 20 首 | [書訊與掃描頁](jinjo_shogaku_shoka/grade_2_4102/0_book_info/index.md) |
+| 《尋常小學唱歌》 | [第三學年用](jinjo_shogaku_shoka/grade_3_4079/index.md) | 文部省編（1912） | 廣島大學圖書館 `4079` | 20 首 | [書訊與掃描頁](jinjo_shogaku_shoka/grade_3_4079/0_book_info/index.md) |
+| 《尋常小學唱歌》 | [第四學年用](jinjo_shogaku_shoka/grade_4_4080/index.md) | 文部省編（1912） | 廣島大學圖書館 `4080` | 20 首 | [書訊與掃描頁](jinjo_shogaku_shoka/grade_4_4080/0_book_info/index.md) |
+| 《尋常小學唱歌》 | [第五學年用](jinjo_shogaku_shoka/grade_5_4100/index.md) | 文部省編（1913） | 廣島大學圖書館 `4100` | 21 首 | [書訊與掃描頁](jinjo_shogaku_shoka/grade_5_4100/0_book_info/index.md) |
+| 《尋常小學唱歌》 | [第六學年用](jinjo_shogaku_shoka/grade_6_4078/index.md) | 文部省編（1914） | 廣島大學圖書館 `4078` | 19 首 | [書訊與掃描頁](jinjo_shogaku_shoka/grade_6_4078/0_book_info/index.md) |
 | 《公學校唱歌集》 | [全一冊（大正四年版）](kogakko_shokashu_1915/index.md) | 臺灣總督府編（1915） | 國臺圖 `0725 26` | 46 首 | [書訊與掃描頁](kogakko_shokashu_1915/0_book_info/index.md) |
 | 《公學校唱歌》 | [第一學年用](kogakko_shoka/grade_1/index.md) | 臺灣總督府編（1936） | 國臺圖 `0729 73` | 15 首 | [書訊與掃描頁](kogakko_shoka/grade_1/0_book_info/index.md) |
 | 《公學校唱歌》 | [第二學年用](kogakko_shoka/grade_2/index.md) | 臺灣總督府編（1937） | 國臺圖 `523.37 4322-4` | 15 首 | [書訊與掃描頁](kogakko_shoka/grade_2/0_book_info/index.md) |
