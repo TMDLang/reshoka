@@ -4,7 +4,7 @@ song_title: "朧月夜（朦朧月夜）"
 song_id: "shokacho_vol_10_p195a_oborozukiyo"
 collection: "shokacho"
 volume: "vol_10"
-description: "〈朧月夜（朦朧月夜）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223））（作詞：高野辰之／作曲：岡野貞一（《尋常小學唱歌》第六學年）），調號拍號：D 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈朧月夜（朦朧月夜）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 10 冊・X（2020.006.0843，P188–P223））（作詞：高野辰之／作曲：岡野貞一（《尋常小學唱歌》第六學年）），調號拍號：D 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "朧月夜（朦朧月夜）, 楊金土手抄唱歌帖, 第 10 冊（X）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 10 冊・X（2020.006.0843，P188–P223）"
@@ -21,6 +21,9 @@ audio:
   - id: "oborozukiyo"
     label: "鋼琴伴奏版"
     file: "oborozukiyo.mp3"
+  - id: "oborozukiyo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "oborozukiyo_neutrino.mp3"
 tmd_source:
   - "oborozukiyo.tmd"
   - "oborozukiyo_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="oborozukiyo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="oborozukiyo_neutrino.mp3"></audio>
 
 - 作詞：高野辰之／作曲：岡野貞一（《尋常小學唱歌》第六學年）
 - 日治時期公學校《唱歌帳》第十冊（2020.006.0843・P195 上半・大正15年2月13日抄）

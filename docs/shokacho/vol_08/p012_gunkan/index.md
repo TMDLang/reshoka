@@ -4,7 +4,7 @@ song_title: "軍艦（軍艦）"
 song_id: "shokacho_vol_08_p012_gunkan"
 collection: "shokacho"
 volume: "vol_08"
-description: "〈軍艦（軍艦）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（作詞：加藤義清／作曲：鳥居忱（原標：英国々歌 カレー）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁資訊與歌詞全文**（對應 `P012.jpg`）：…"
+description: "〈軍艦（軍艦）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（作詞：加藤義清／作曲：鳥居忱（原標：英国々歌 カレー）），調號拍號：G 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁資訊與歌詞全文**（對應 `P012.jpg`）：…"
 keywords: "軍艦（軍艦）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
@@ -22,6 +22,9 @@ audio:
   - id: "gunkan"
     label: "鋼琴伴奏版"
     file: "gunkan.mp3"
+  - id: "gunkan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "gunkan_neutrino.mp3"
 tmd_source:
   - "gunkan.tmd"
   - "gunkan_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="gunkan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="gunkan_neutrino.mp3"></audio>
 
 - 作詞：加藤義清／作曲：鳥居忱（原標：英国々歌 カレー）
 - 出處：田村檢定唱歌集 145頁ヨリ（四年）

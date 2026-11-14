@@ -4,7 +4,7 @@ song_title: "かぞへ歌"
 song_id: "jinjo_shogaku_shoka_grade_3_4079_20_kazoeuta"
 collection: "jinjo_shogaku_shoka"
 volume: "grade_3_4079"
-description: "〈かぞへ歌〉收錄於日治時期臺灣《尋常小學唱歌》（第三學年用（廣島大學圖書館 ID 4079，明治45年／1912）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一（ひと）つとや、人々忠義（ひと〳〵ちゆうぎ）を第一（だいいち）に、あふげや高（たか）き君（きみ）の恩（おん）、國（くに…"
+description: "〈かぞへ歌〉收錄於日治時期臺灣《尋常小學唱歌》（第三學年用（廣島大學圖書館 ID 4079，明治45年／1912）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一（ひと）つとや、人々忠義（ひと〳〵ちゆうぎ）を第一（だいいち）に、あふげや高（たか）き君（きみ）の恩（おん）、國（くに…"
 keywords: "かぞへ歌, 尋常小學唱歌, 第三學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《尋常小學唱歌》 第三學年用（廣島大學圖書館 ID 4079，明治45年／1912）"
@@ -19,6 +19,9 @@ audio:
   - id: "kazoeuta"
     label: "鋼琴伴奏版"
     file: "kazoeuta.mp3"
+  - id: "kazoeuta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kazoeuta_neutrino.mp3"
 tmd_source:
   - "kazoeuta.tmd"
   - "kazoeuta_piano.tmd"
@@ -29,6 +32,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kazoeuta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kazoeuta_neutrino.mp3"></audio>
 
 - 文部省《尋常小學唱歌 第三學年用》（明治四十五年五月，索書號 4079）
 

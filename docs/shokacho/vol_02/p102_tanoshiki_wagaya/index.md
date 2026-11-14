@@ -4,7 +4,7 @@ song_title: "樂しき我家（快樂的我家）"
 song_id: "shokacho_vol_02_p102_tanoshiki_wagaya"
 collection: "shokacho"
 volume: "vol_02"
-description: "〈樂しき我家（快樂的我家）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（作詞：大和田建樹／作曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈樂しき我家（快樂的我家）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（作詞：大和田建樹／作曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "樂しき我家（快樂的我家）, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
@@ -22,6 +22,9 @@ audio:
   - id: "tanoshiki_wagaya"
     label: "鋼琴伴奏版"
     file: "tanoshiki_wagaya.mp3"
+  - id: "tanoshiki_wagaya_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tanoshiki_wagaya_neutrino.mp3"
 tmd_source:
   - "tanoshiki_wagaya.tmd"
   - "tanoshiki_wagaya_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="tanoshiki_wagaya.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tanoshiki_wagaya_neutrino.mp3"></audio>
 
 - 作詞：大和田建樹／作曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）
 - 日治時期公學校《唱歌帳》第二冊（2020.006.0843）P102.jpg–P103.jpg（原冊第 34–35 頁）

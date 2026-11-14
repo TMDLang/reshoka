@@ -4,7 +4,7 @@ song_title: "樂シキ我家（快樂的我家）"
 song_id: "shokacho_vol_08_p027_tanoshiki_waga_ie"
 collection: "shokacho"
 volume: "vol_08"
-description: "〈樂シキ我家（快樂的我家）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（作詞：里見義（改作）／出處：《蓬萊唱歌集》（昭2.2.21抄）），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁資訊與歌詞全文**（對應 `P027.jpg`）：…"
+description: "〈樂シキ我家（快樂的我家）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（作詞：里見義（改作）／出處：《蓬萊唱歌集》（昭2.2.21抄）），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁資訊與歌詞全文**（對應 `P027.jpg`）：…"
 keywords: "樂シキ我家（快樂的我家）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
@@ -21,6 +21,9 @@ audio:
   - id: "tanoshiki_waga_ie"
     label: "鋼琴伴奏版"
     file: "tanoshiki_waga_ie.mp3"
+  - id: "tanoshiki_waga_ie_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tanoshiki_waga_ie_neutrino.mp3"
 tmd_source:
   - "tanoshiki_waga_ie.tmd"
   - "tanoshiki_waga_ie_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="tanoshiki_waga_ie.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tanoshiki_waga_ie_neutrino.mp3"></audio>
 
 - 作詞：里見義（改作）／出處：《蓬萊唱歌集》（昭2.2.21抄）
 - 《唱歌帖》第八冊（2020.006.0843）P027.jpg
