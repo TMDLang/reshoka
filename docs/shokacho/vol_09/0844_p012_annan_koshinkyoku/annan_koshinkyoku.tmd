@@ -19,7 +19,7 @@
    Notation: Handwritten 5-line staff (C major, 2/4 time, 95 bars)
    ========================================================================= */
 
-AnnanKoshinkyoku:Melody@|0|{
+AnnanKoshinkyoku:Piano@|0|{
     <16*>
     | {mf} 5 - 1^ - 6 - 1^ - | 6 1^ 6 5 0 - 5 - | 5 - - - 5 - - - | 5 - 2 - 2 - - - |
     | 5 - 3 - 5 - 3 - | 5 3 2 1 2 - - - | 6 - 5 - 5 - - - | 3 - 2 - 5 - 6 - |
