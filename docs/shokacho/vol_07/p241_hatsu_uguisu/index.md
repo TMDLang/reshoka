@@ -4,7 +4,7 @@ song_title: "初鶯（初鶯）"
 song_id: "shokacho_vol_07_p241_hatsu_uguisu"
 collection: "shokacho"
 volume: "vol_07"
-description: "〈初鶯（初鶯）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：富原義徳），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ケキョ ケキョ ウグヒス ホウホケキョ ホウ ホウ ウグヒス ミツケマセウ…"
+description: "〈初鶯（初鶯）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：富原義徳），調號拍號：F 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ケキョ ケキョ ウグヒス ホウホケキョ ホウ ホウ ウグヒス ミツケマセウ…"
 keywords: "初鶯（初鶯）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 富原義徳"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
@@ -21,6 +21,9 @@ audio:
   - id: "hatsu_uguisu"
     label: "鋼琴伴奏版"
     file: "hatsu_uguisu.mp3"
+  - id: "hatsu_uguisu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hatsu_uguisu_neutrino.mp3"
 tmd_source:
   - "hatsu_uguisu.tmd"
   - "hatsu_uguisu_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="hatsu_uguisu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hatsu_uguisu_neutrino.mp3"></audio>
 
 - 詞：富原義徳
 - 唱歌帖 P241 (三年 / 蓬萊唱集 49頁)
@@ -64,8 +68,8 @@ Key: ヘ調 (F major / D minor), Time: 3/4
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hatsu_uguisu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGJIboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW4l5mbnIeoFGpWfmWZUkZgLdBXJbeWJ8bmJmXk5iXooSl5aWwtOOuS-3rX-_pwPG6FTQ0uJStFWwNOOyt1Vw48pOrbRVcMnlsjHWN7EDmft0ysZna3ue7pimAAonBY0nOzqf7tyioK_wYvKaFxO6gNIvZ7cpmFi-XNCoCXbIi5Xz3u-Z9XR9z9O--c_3rXy6b7MSF5e-loIttQCXggIWf4BEgyExo4Bws4aRgZGBnoGBmZ6BhYmxpg7YE3pZBekg5b6JRcDQSsxRAMVxsZWCoYke0F9wDyJ74cXKlRAvQ3wK0u2dWmml8Lh5xotV-xU03BRyE7Pyi4BqXBRyM_Pyi4BWhWQCY0gBGI4g1T6VRZnJxVYgpqGewuOmjY-b1j5uXo7CWva4acPj5kmPm3YCzZ0N4oNIqDxIJ0QUTqFqmP-4uQWkunne46bdQDmIhiWPm6c9bu4HKt76uHklhARyVj9u2vO4eerjpvWPmyeAuM2rwOqbFoHllgB1toBl1j5uWgNRvwmkH6gFWb0RHb3S1PK4cd_jxnUKjxunP27qfNzU9rixF8jpftzYA5bsf9y4AcRt6gKrb9z_uHHp48b1QBbQn50QEshZBVYPRECNSOopT5dQoKClz8XlkVhSXBqaXppZXGoVlp-cmONQY1BTDbJHwcZCyw7MqFEwi1cwVjBR0AWSukCuIZA2BLKAwiAuSFAXKG2mYA7n6SoYgOTA-oF5yiEHnKxsFZSAwQUMIlg8IJigsN0ADNJJQBocFxAxMA1TpgRyMqqJ8UbUMpOQL81BFEjOEMQEq8bvURTrwEkHzTnzQYkX4pTmeUAalIJwepEy0yDRYgbE5hC_xQEZIC7Eq6C4MwGyjYCQcAw2g3LdNCAG51YgDcqoMHo1EO8BsqcCaWCSbp4AEWtehTvygK5u3AfE4BwDVA5M_E1tQDY40wBxDyhPAWmgdY1AH4PEmrpQ4w3oLxABii6QbyARBxYCSwNZkNgkLuaaFkE9Ai5eoJ5YC8TgEgaIN0E8C_IkER5s3A909FIgBmdxiAfh9CqoB0EY5FlUD9ZycenaKSBlUgUgV5kLAA)]
-- [鋼琴伴奏 TMD 檔案](hatsu_uguisu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjaMffltvXv93TAGJ0KWlpcirYKlmZc9rYKblzZqZW2Ci65XDbG-iZ2XHUKSk-nbHy2tufpjmkKAUYmhgoaT3Z0Pt25RUFf4cXkNS8mdAGlX85uUzCxfLmgUVMJpOHFynnv98x6ur7nad_85_tWPt23WYmLS19LwZZagEtBAZs_HjVMUQjITMzLV3BMTs7PLUjMy8xNzSsBqQ7OLy1KTrVSQPhFw8jAyEDPwMBMz8DCxFhTB-w5vayCdJBy38Si9My8xByFvPyS1GIrBUMTPaB_4R5H9tqLlSshQQEJAZBuyj0IBQpa-lxcHoklxaWh6aWZxaVWYfnJiTkONQY11SB7FGwstOzAjBoFs3gFYwUTBV0gqQvkGgJpQyALKAziggR1gdJmCuZwnq6CAUgOrB8YOQ45lUWZycW2CkqPmzYqPG5a-7h5OZBCYi4D4g0Kj5snAemdQHo2RAxMw5QpgZyMamK8EbXMJORLcxAFkjMEMcGq8XsUxTqQU9CdMx-IWyBOaZ4HpHcDleD0ImWmQaLFDIjNIX6LAzJAXIhXQXFnAmQbASHhGGxeArRiGhD3A63ZCqRXItGrgXgPkD0VSK8H0hMgYs2rcEce0NWN-4B4HRBPByrvBOI2ILsXiLuBuAfIB6kBWtcI9DFIrKkLNd6A_gIRoOgC-QYScWAhsDSQBYlN4mKuaRHUIyCPAm0Ge2ItEK-Bim-CeBbkSSI82Lgf6OilQAwMj0ZQuAA9CKdXQT0IwiDPonqwFjWHgsufIA-sebQ6t6AWkoTN4rVBqRhIIRKycbw2KEiAFDQ5m6pDpBEZFyGCHDLQbEGUmUAWei6BSWIaCjbIUBucCLWRUiVECG4RatLE5UaYNTAXQJ0GSQsmcHfiShGYrsQW8D7IAW-CVDgCAygeTKFxgAxzCB-FTYQ-MAdEwWSgUqhawQaj6DSCMIAUbhsRaiEsVGsQPFBQgAPCM6-kKB9L2kMEATjtRRvGAvVEm8QCBaKNcsEcUyAHzQgcoWgIstAE6gddBVOQq4EaXfNSMvPSCVieBrTcDGghyDqo_WC3QCMS2QyccQiyEWw92CFQnbp2CmCXKwAZSMkBxIUYCmIpcwEA)]
+- [主旋律 TMD 檔案](hatsu_uguisu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGJIboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW4l5mbnIeoFGpWfmWZUkZgLdBXJbeWJ8bmJmXk5iXooSl5aWwtOOuS-3rX-_pwPG6FTQ0uJStFWwNOOyt1Vw48pOrbRVcMnlsjHWN7EDmft0ysZna3ue7pimAAonBY0nOzqf7tyioK_wYvKaFxO6gNIvZ7cpmFi-XNCoCXbIi5Xz3u-Z9XR9z9O--c_3rXy6b7MSF5e-loIttQCXggIWf4BEgyExo4Bws4aRgZGBnoGBmZ6BhYmxpg7YE3pZBekg5b6JRcDQSsxRAMVxsZWCoYke0F9wDyJ74cXKlRAvQ3wK0u2dWmml8Lh5xotV-xU03BRyE7Pyi4BqXBRyM_Pyi4BWhWQCY0gBGI4g1T6VRZnJxVYgpqGewuOmjY-b1j5uXo7CWva4acPj5kmPm3YCzZ0N4oNIqDxIJ0QUTqFqmP-4uQWkunne46bdQDmIhiWPm6c9bu4HKt76uHklhARyVj9u2vO4eerjpvWPmyeAuM2rwOqbFoHllgB1toBl1j5uWgNRvwmkH6gFWb0RHb3S1PK4cd_jxnUKjxunP27qfNzU9rixF8jpftzYA5bsf9y4AcRt6gKrb9z_uHHp48b1QBbQn50QEshZBVYPRECNSOopT5dQoKClz8XlkVhSXBqaXppZXGoVkJmYl-9QY1BTDbJHwcZCyw7MqFEwi1cwVjBR0AWSukCuIZA2BLKAwiAuSFAXKG2mYA7n6SoYgOTA-n0Ma0BhDsSw4AdKQTkg_ZCA3QAMz0lgiZ0Q0ebZYHOgoQ_WBlIL1QaCYOshVhjR1AqigsEcRIHkDEFMsGqsIQG2CGIhxGp8DpwPcWBzC8R7zfPAakFpDXsY0MJwqO9BnjYDYnOI5-OADBAXEhag2DcBso2AEGcaaF4Ctm4amOyHOm0rkA3K6VvBoiuhoquBeA-QPxVIA3NG8wSwGMiMVTgivwWkv3EfmFwHMaVxOlAcmJWa2sCivVDRbiDuAesA5kUgBgYMUAxkRheOWAd6GkSAIhvkVUi0g4XA0kAWJC3gjfemReDAXw0mQSEB8g3QDWC_rQWLrkHy_SZIuIBCgLDvG_eDfbgUTK6H-hMUdqCCZCrY7E6o6Cqo70EYFBK4fF_LxaVrp4BUPigAucpcAA)]
+- [鋼琴伴奏 TMD 檔案](hatsu_uguisu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjaMffltvXv93TAGJ0KWlpcirYKlmZc9rYKblzZqZW2Ci65XDbG-iZ2XHUKSk-nbHy2tufpjmkKAUYmhgoaT3Z0Pt25RUFf4cXkNS8mdAGlX85uUzCxfLmgUVMJpOHFynnv98x6ur7nad_85_tWPt23WYmLS19LwZZagEtBAZs_HjVMUQjITMzLV3BMTs7PLUjMy8xNzSsBqQ7OLy1KTrVSQPhFw8jAyEDPwMBMz8DCxFhTB-w5vayCdJBy38Si9My8xByFvPyS1GIrBUMTPaB_4R5H9tqLlSshQQEJAZBuyj0IBQpa-lxcHoklxaWh6aWZxaVWYN851BjUVIPsUbCx0LIDM2oUzOIVjBVMFHSBpC6QawikDYEsoDCICxLUBUqbKZjDeboKBiA5sH4fwxqFx00bgXjt4-blYKYujAPS_7hpGRBvUHjcPAkssRMi2jwbbA5YFsgGaQOphWoDQbD1ECuMaGoFUcFgDqJAcoYgJlg11pAAWwSxEGI1PgfOhziwuQXiveZ5YLW7IdqwhAEtDIf6HuRpMyA2h3g-DsgAcSFhAYp9EyDbCAhxpoHmJWDrpoHJfqjTtgLZK8E0SHQlVHQ1EO8B8qcC6fVAegJYDGTGKhyR3wLS37gPTK6DmNI4HSjeCcRtYNFeqGg3EPeAdTxu7AdiYMAAxUBmdOGIdaCnQQQoskFehUQ7WAgsDWRB0gLeeG9aBA781WASFBIg3wDdAPbbWrDoGiTfb4KECygECPu-cT_Yh0vB5HqoP0FhB_Q9kAaZ3QkVXQX1PQiDQgKX72uxFA5BHliLh-rcglpI5jCL1wblDyCFyCLG8dqg4AJS0Ixiqg6RRpQZCBHkUINmOKLMBLLQ8x9MEtNQsEGG2uDUq42UnCFCcItQ0zQuN8KsgbkA6jRIOjGBuxNXasF0JbaA90EOeBOkchkYQPFgCo0DZJhD-ChsIvSBOSAKJgOVQtUKNhhFpxGEAaRw24hQC2GhWoPggYICHBCeeSVF-VjSHiIIwGkv2jAWqCfaJBYoEG2UC-aYAjloRuAIRUOQhSZQP-gqmIJcDdTompeSmZdOwPI0oOVmQAtB1kHtB7sFGpHIZuCMQ5CNYOvBDoHq1LVTALtcAchASg7RPiDj0YSMwEIQu0AsZS4A)]
 
 ## 分析
 
@@ -117,7 +121,7 @@ Key: ヘ調 (F major / D minor), Time: 3/4
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – F5 (15 個半音 / 1.2 個八度, 54 個音符)
+  - Piano         : D4 – F5 (15 個半音 / 1.2 個八度, 54 個音符)
 ================================================================================
 ```
 

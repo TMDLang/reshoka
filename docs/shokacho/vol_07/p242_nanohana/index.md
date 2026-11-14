@@ -4,7 +4,7 @@ song_title: "菜の花（油菜花）"
 song_id: "shokacho_vol_07_p242_nanohana"
 collection: "shokacho"
 volume: "vol_07"
-description: "〈菜の花（油菜花）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：三木露風），調號拍號：D 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ハルカニ クーニヲ ミワタス ト ナノハナ クーモニ ツヅキマス…"
+description: "〈菜の花（油菜花）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：三木露風），調號拍號：D 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ハルカニ クーニヲ ミワタス ト ナノハナ クーモニ ツヅキマス…"
 keywords: "菜の花（油菜花）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 三木露風"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
@@ -21,6 +21,9 @@ audio:
   - id: "nanohana"
     label: "鋼琴伴奏版"
     file: "nanohana.mp3"
+  - id: "nanohana_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nanohana_neutrino.mp3"
 tmd_source:
   - "nanohana.tmd"
   - "nanohana_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="nanohana.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nanohana_neutrino.mp3"></audio>
 
 - 詞：三木露風
 - 唱歌帖 P242 (三年 / 蓬萊唱集 50頁)
@@ -62,8 +66,8 @@ Key: ニ調 (D major), Time: 3/4
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nanohana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGJEboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQWwU5iXklCEGgSemZeVYliZlAZ4GcVp4Yn5uYmQdUlaLEpaWl8KJ_zuPGdS-6Nr7f0_Fs004gF8zuVNDS4lK0VbA047K3VXDhsjHWN7EDmfp0ysZna3ue7pimAAokBY0nOzqf7tyioK_wYvKaFxO6gNIvZ7cpmBq8XNCoCXbGi5Xz3u-ZBVT2bM6Kl3M2vVy0QomLS19LwZZagEtBAacvQHLBkMhRQLhcw8jAyEDPwMBMz8DCxFhTB-wVvayCdJBy38QiYIgl5iiAornYSsHQVA_oO7g3kT3yYuVKiMch_gXp9k6ttFJ43Nz9YtV-BQ0XhdzErPwioAUhmcCoUQCGIUiNT2VRZnKxFYhpqAdU3P-4efXjptVAXQqPm9Y_bt4DZD1u3gSUmf-4ef3jpv2Pm3YCOR0gDY-bux4394H1dMFVLwJrbW553Nz6uGnt4-Z5QA0QxcvA8kDT14N1Nq153AxE_UCdqx43zwbzgSb1QRQDbQMqbgXy0RQDZZpWgIWWAEXBiiH6m6c9bu4FcjaDdUI4QAOBLgYpBvpoE0Tx9sfNK8HqQSYvACkGORPoQ5CaGY-b28Amrwcppjw9QIGClj4Xl19iXn5GYl6iVVh-cmKOQ41BTTXIEgUbCy07MKNGwVjBRMFUQRdI6wJ5ZgrmCoZxQKYZmGsKpEGSRmAeSAkIGoB4YO3AdOyQA45OWwUlSFitBvkKlARA0QOk90DYkPgEYqBY034gBkepEsiVqAbFG4GMaloFlJ4NxNOAGBzEUKOgfHAcAo0BpwKQdZvgRhHhJZAExEuGhLwENB8cayCvgVMc1B2LoN5qAeJWoPhaID0P5C3cXtoOVLIS6i1wQoAYBdYKTgtAegYQtwHZS0BWIXnJCOhmkItB3kLngTwI8hvMfwR8tAzqA1BEgbMFkF4DpEEYnDMgTgSLgXzdh-QMUOCBwxJiMyx5QALaFAhJCFlQYgC5Axh6kByH6g6QfNMKqDgoONaA3VHLxaVrpwBL1wpAtjIXAA)]
-- [鋼琴伴奏 TMD 檔案](nanohana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRP-dx47oXXRvf7-l4tmknkAtmdypoaXEp2ipYmnHZ2yq4cNkY65vYcdUpKD2dsvHZ2p6nO6YpBBiZGCloPNnR-XTnFgV9hReT17yY0AWUfjm7TcHU4OWCRk0lkIYXK-e93zMLqOzZnBUv52x6uWiFEheXvpaCLbUAl4ICbl88apiiEJCZmJev4JicnJ9bkJiXmZuaVwLSE5xfWpScaqWA8JGGkYGRgZ6BgZmegYWJsaYO2It6WQXpIOW-iUXpmXmJOQp5-SWpxVYKhqZ6QF_DvY_swRcrV0ICBBIOIN2UexMKFLT0ubj8gB7KSMxLtArLT07McagxqKkGWaJgY6FlB2bUKBgrmCiYKugCaV0gz0zBXMEwDsg0A3NNgTRI0gjMAykBQQMQD6wdGD0OOZVFmcnFtgpKj5v7FR43r1Z43ATEzd1Aej2Q3gNhN28C4vlADBRr2g_EO4HsDiWQK1ENijcCGdW0Cig9G4inAXEvUPlmqFFQPsgqkDHNXVDrNsGNIsJLIAmIlwwJeQlofnMfxD6wXTAvLYJ6qwWIW4Hia4H0PJC3cHtpO1DJSqi3QEYugBgF1goMHbA3ZgBxG5C9BGQVkpeMgG4GuRjkLXQeyIMgv8H8R8BHy6A-AEUUyDcgX60B0iAMClVoyIPFQL7uQ3IGKPDAYQmxGZY8IAFtCoQkhCwoMYDcAQw9cHCguQMk37QCKg4KjjVgd9QiJWpwfg3ywJqsq3MLasEJwVAb5EJDbURiMNYGe8FQG5EgIIrM47WhbgerRnU9JFkRaRpIGm6aabw2ZmBAIhGqBkghIhZdDJx-waYbapuoQ60BKQLLo5sKTt4wJyFiCdXdoJgi5EiMgPZBDmgTeEAbxgP1glCNgkk8iAckwaLGIFEoGygNJGFuxK4FpBgsDNeDognENYLqQmYDaTMwDyQMEUW3CegSmE0gAzFsAnkZ7GHPvJKifCzJCuHbamCqijaMVYg2y40Fh1u0CZBjCmajmYA7vIDuBWkFugjoCqhG17yUzLx0_HaDknS0EdBikIUgi4HWA90CijMMM3DYDgk1WBTBderaKYBdrgBkwGIdxIaYCGIpcwEA)]
+- [主旋律 TMD 檔案](nanohana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGJEboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQWwU5iXklCEGgSemZeVYliZlAZ4GcVp4Yn5uYmQdUlaLEpaWl8KJ_zuPGdS-6Nr7f0_Fs004gF8zuVNDS4lK0VbA047K3VXDhsjHWN7EDmfp0ysZna3ue7pimAAokBY0nOzqf7tyioK_wYvKaFxO6gNIvZ7cpmBq8XNCoCXbGi5Xz3u-ZBVT2bM6Kl3M2vVy0QomLS19LwZZagEtBAacvQHLBkMhRQLhcw8jAyEDPwMBMz8DCxFhTB-wVvayCdJBy38QiYIgl5iiAornYSsHQVA_oO7g3kT3yYuVKiMch_gXp9k6ttFJ43Nz9YtV-BQ0XhdzErPwioAUhmcCoUQCGIUiNT2VRZnKxFYhpqAdU3P-4efXjptVAXQqPm9Y_bt4DZD1u3gSUmf-4ef3jpv2Pm3YCOR0gDY-bux4394H1dMFVLwJrbW553Nz6uGnt4-Z5QA0QxcvA8kDT14N1Nq153AxE_UCdqx43zwbzgSb1QRQDbQMqbgXy0RQDZZpWgIWWAEXBiiH6m6c9bu4FcjaDdUI4QAOBLgYpBvpoE0Tx9sfNK8HqQSYvACkGORPoQ5CaGY-b28Amrwcppjw9QIGClj4Xl19iXn5GYl6iVUAmkOVQY1BTDbJEwcZCyw7MqFEwVjBRMFXQBdK6QJ6ZgrmCYRyQaQbmmgJpkKQRmAdSAoIGIB5Yu49hDcjHQLwa5BmgOCgqQGpBQQ7jgbwKFmueD8TAqGjaDxIFxipEtANqbjzCXCOQCauAcrOBeBrYjF6ouZvBPBQxcIzuB8Ua2FyQO0CiIFsR5hLrX5AExL-GOPwLTHngmOwHuwFkJ8K_i5DDoLkFiFuBcmvBovOgKkH-xubf7UA1K8F-Bqnug5qxAOwniAnQcAT6EJhugLgNLLcEyQUY_jUCegjkHZCf0Xkg34M8DvM8du8uA1sNjlywFdAgaFoDpNeA5UABgRRhQBkkUbBHsHiXyuZCvQuKQXCEQnwIS8CQ2DYFQsLROx9sSytKJGB1Fyg5N62AJztYNIDUYPMvdc2t5eLStVOAZXAFIFuZCwA)]
+- [鋼琴伴奏 TMD 檔案](nanohana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRP-dx47oXXRvf7-l4tmknkAtmdypoaXEp2ipYmnHZ2yq4cNkY65vYcdUpKD2dsvHZ2p6nO6YpBBiZGCloPNnR-XTnFgV9hReT17yY0AWUfjm7TcHU4OWCRk0lkIYXK-e93zMLqOzZnBUv52x6uWiFEheXvpaCLbUAl4ICbl88apiiEJCZmJev4JicnJ9bkJiXmZuaVwLSE5xfWpScaqWA8JGGkYGRgZ6BgZmegYWJsaYO2It6WQXpIOW-iUXpmXmJOQp5-SWpxVYKhqZ6QF_DvY_swRcrV0ICBBIOIN2UexMKFLT0ubj8gB7KSMxLtAJ7zaHGoKYaZImCjYWWHZhRo2CsYKJgqqALpHWBPDMFcwXDOCDTDMw1BdIgSSMwD6QEBA1APLB2H8MahcfN_UC8WuFx02qg-OPmbrDax03r4bzHzZsgYs3zgXg9UG4_SLRpJ1S0A2puPMJcI5AJq4Bys4F4GtiMXqi5m8E8FDGQC4BmPm7uApsLcgdIFGQrwlxi_QuSgPjXEId_u4C4D2wryA0gOxH-XYQcBs0tQNwKlFsLFp0HVQnyNzb_bgeqWQn2M0h1H9SMBWA_QUyAhiPQh4-bZwBxG1huCZILMPxrBPQQyDsgP6PzQL4HeRzmeezeXQa2Ghy5YCugQdC0BkivAcuBAgIpwoAySKJgj2DxLpXNhXoXFIPgCIX4EJaAIbFtCoSEo3c-2JZWlEjA6i5Qcm5aAU92sGgAqcHmX-qaW4ueu4M8sObv6tyCWnCiN9QGBYShNiLhG2uDQ8pQG5H4IYrM47WhQQRWjRpIkCxEpGkgabhppvHamGEOSZNQNUAKkU7RxcB5FWy6obaJOtQakCKwPLqp4KwMcxIiMaC6G5QgCDkSI6B9kAPaBB7QhvFAvSBUo2ASD-IBSbCoMUgUygZKA0mYG7FrASkGC8P1oGgCcY2gupDZQNoMzAMJQ0TRbQK6BGYTyEAMm0BeBnvYM6-kKB9LskL4thqYqqINYxWizXJjweEWbQLkmILZaCbgDi-ge0FagS4CugKq0TUvJTMvHb_doCQdbQS0GGQhyGKg9UC3gOIMwwwctkNCDRZFcJ26dgpglysAGbBYj_YBmY3MNwLzIbaAWMpcAA)]
 
 ## 分析
 
@@ -115,7 +119,7 @@ Key: ニ調 (D major), Time: 3/4
      B  : ███████████████           17.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 52 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 52 個音符)
 ================================================================================
 ```
 
