@@ -1,6 +1,6 @@
 {
   "total_corpus_songs": 1255,
-  "same_title_group_count": 105,
+  "same_title_group_count": 104,
   "groups": [
     {
       "title_key": "いかだかずら",
@@ -139,38 +139,6 @@
               "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_13_otsukisan/index.md",
               "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
               "raw_title": "お月さん",
-              "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title_key": "おさいじつ",
-      "title": "お祭日",
-      "versions": [
-        {
-          "id": "single:taiwan_no_uta/2_omatsuribi",
-          "year": 1929,
-          "occurrences": [
-            {
-              "rel_dir": "taiwan_no_uta/2_omatsuribi",
-              "md_file": "taiwan_no_uta/2_omatsuribi/index.md",
-              "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
-              "raw_title": "お祭日",
-              "year": 1929
-            }
-          ]
-        },
-        {
-          "id": "same-song:omatsuribi:shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi",
-              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-              "raw_title": "お祭日（祭典之日）",
               "year": 1934
             }
           ]

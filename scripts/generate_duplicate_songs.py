@@ -414,6 +414,7 @@ PURE_SAME_SONG_IDS: set[str] = {
     "nigimitama",
     "nihonkaikaisen",
     "noshoko",
+    "omatsuribi",
     "rokushisensei",
     "shinboku",
     "shiseikinenbi",
@@ -615,21 +616,6 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
                 "kogakko_shokashu_1915/4_06_ninomiya_kinjiro",
                 "shoka_kyozai_shu_1923/grade_1_2/44_ninomiya_kinjiro",
             },
-        ],
-    },
-    "omatsuribi": {
-        "同曲": [
-            {
-                "kogakko_shoka/grade_3/8_omatsuribi",
-                "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi",
-            }
-        ],
-        "同詞異曲": [
-            {
-                "kogakko_shoka/grade_3/8_omatsuribi",
-                "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi",
-                "taiwan_no_uta/2_omatsuribi",
-            }
         ],
     },
     "shonanko": {
@@ -888,7 +874,7 @@ CURATED_DESCRIPTIONS: dict[str, str] = {
     "noryo": "同曲＋同名異曲（《新定兒童唱歌》高等科男、女用為同曲；尋常科五年級為同名異曲）",
     "oborozukiyo": "同曲＋同詞異曲（高野辰之作詞〈朧月夜〉；《尋常小學唱歌》六年級、《新定兒童唱歌》六年級與《唱歌帖》P195 為岡野貞一作曲版，《新編小公學校唱歌教材集》收錄另一簡譜旋律版）",
     "okyakusama": "同曲（《大正幼年唱歌》第七集〈お客様〉；收錄於《新定兒童唱歌》二年級與《唱歌帖》P161）",
-    "omatsuribi": "同曲＋同詞異曲（田村富士雄作詞；《公學校唱歌》與《新定兒童唱歌》第三學年為同曲，《臺灣の歌》為昭和4年御大典記念陳華提原創譜曲版）",
+    "omatsuribi": "同曲（田村富士雄作詞・陳華提作曲；《臺灣の歌》、《新定兒童唱歌》與《公學校唱歌》第三學年共同收錄之臺灣神社祭典教材）",
     "osaru": "同曲（《大正幼年唱歌》第六集〈オサル〉；收錄於《新定兒童唱歌》一年級與《唱歌帖》P069）",
     "oshogatsu": "同曲（東クメ詞・瀧廉太郎曲〈お正月〉；《公學校唱歌》第一學年、《新定兒童唱歌》第一學年與《うたのほん》下卷共同收錄）",
     "semi": "同曲＋同名異曲（《公學校唱歌》第一學年〈セミ〉與《うたのほん》下卷〈せみ〉為同曲；《公學校唱歌》第三學年〈せみ〉為另曲）",

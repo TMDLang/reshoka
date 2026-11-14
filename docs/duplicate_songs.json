@@ -1,8 +1,8 @@
 {
   "total_corpus_songs": 1255,
-  "unique_song_count": 908,
+  "unique_song_count": 907,
   "duplicate_group_count": 222,
-  "duplicate_occurrence_count": 569,
+  "duplicate_occurrence_count": 570,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -168,6 +168,12 @@
       "theme_category": "other",
       "theme_category_label": "其他",
       "entries": [
+        {
+          "rel_dir": "taiwan_no_uta/2_omatsuribi",
+          "md_file": "taiwan_no_uta/2_omatsuribi/index.md",
+          "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
+          "raw_title": "お祭日"
+        },
         {
           "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi",
           "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md",

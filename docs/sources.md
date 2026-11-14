@@ -12,7 +12,7 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 - 🧭 [日治時期臺灣公學校唱歌教材的流動與變化](shoka_genealogy.md)
 - 🔍 [全站歌曲去重統計（908 首不重複歌曲、222 組重複歌曲）](duplicate_songs.md)
 - 🔍 [同一歌名的多個版本（105 組）](same_title_songs.md)
-- 🔍 [同詞異曲歌曲（23 組候選）](same_lyrics_songs.md)
+- 🔍 [同詞異曲歌曲（22 組候選）](same_lyrics_songs.md)
 - 🔍 [同曲異詞歌曲（16 組候選）](same_melody_songs.md)
 - 📜 [〈懸賞募集 公學校唱歌教材入選歌詞〉與作詞者名單](kogakko_shoka/lyrics_contest/index.md)
 - 📊 [《新定兒童唱歌》專題統計](shintei_jido_shoka/index.md)

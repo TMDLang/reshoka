@@ -1,6 +1,6 @@
 {
   "total_corpus_songs": 1255,
-  "same_lyrics_different_melody_group_count": 23,
+  "same_lyrics_different_melody_group_count": 22,
   "groups": [
     {
       "lyrics": "あさかぜさつとふいてきておおはたひらひらこはたひらひろうんどうくゎいがいまはじまつたあかぼうしろぼうみどりのぼうしならぶせいとはげんきにみちてかけだすあしなみい",
@@ -549,48 +549,6 @@
               "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
               "raw_title": "燈臺",
               "year": 1937
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "たいわんじんじゃのおまつりびたいこはどんどんなつていることしはほうねんよいとしだほうらいまいおそなへませうみこしかついでえっさっさたいこかついでえっさっさたいわ",
-      "titles": [
-        "おまつり日",
-        "お祭日"
-      ],
-      "versions": [
-        {
-          "id": "taiwan_no_uta/2_omatsuribi",
-          "year": 1929,
-          "occurrences": [
-            {
-              "rel_dir": "taiwan_no_uta/2_omatsuribi",
-              "md_file": "taiwan_no_uta/2_omatsuribi/index.md",
-              "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
-              "raw_title": "お祭日",
-              "year": 1929
-            }
-          ]
-        },
-        {
-          "id": "kogakko_shoka/grade_3/8_omatsuribi",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi",
-              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_04_omatsuribi/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-              "raw_title": "お祭日（祭典之日）",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_3/8_omatsuribi",
-              "md_file": "kogakko_shoka/grade_3/8_omatsuribi/index.md",
-              "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-              "raw_title": "おまつり日（祭典之日）",
-              "year": 1935
             }
           ]
         }
