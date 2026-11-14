@@ -1,0 +1,26 @@
+X:1
+T:清き心
+M:4/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 G3 G | G4 A3 G G4 A2 B2 | c4 G3 F E2 C2 z2 G2 | c2 c2 B2 B2 A2 G2 ^F4 |
+w: ミ ヨ | ヤ ミ ヨ ヤ ア キ | ノ ス ミ タ ル ミ | ソ ラ ノ ケ シ キ ー
+!pp! G8 z4 G3 G | G4 A3 G G4 A2 B2 | c4 G3 F E2 C2 z2 G2 | c2 c2 B2 B2 A2 G2 ^F4 |
+w: _ ホ シ | ハ ヒ カ リ ツ キ | ハ カ ガ ヤ ク コ | レ コ ソ テン シン ラ ン
+G8 z4 G3 G | B4 G3 G c4 G3 G | !f! d4 G3 G e6 c2 | B2 A2 G2 F2 E2 F2 G2 A2 |
+w: マン イ ザ | ヤ ミ ガ ケ ヤ マ | ト ヲ ノ コ タ | マ ー ニ モ マ ー サ ル
+E4 D3 C C4 G3 G | B4 G3 G c4 G3 G | !f! d4 G3 G e6 c2 | B2 A2 G2 F2 E2 G2 c2 d2 |
+w: ト ゴ コ ロ ツ ネ | ニ タ モ テ タ カ | ク ス メ ル ア | キ ー ノ ー ミ ソ ラ ノ
+c4 B3 B c4 z4 | !mf! z4 z4 z4 G3 G | G4 A3 G G4 A2 B2 | c4 G3 F E2 C2 z2 G2 |
+w: ゴ ト ク ニ | み よ | や み よ や た え | ず な が る る い
+c2 c2 B2 B2 A2 G2 ^F4 | !pp! G8 z4 G3 G | G4 A3 G G4 A2 B2 | c4 G3 F E2 C2 z2 G2 |
+w: は ま の ま し み ー | _ い つ | か に ご り い つ | か け が れ し こ
+c2 c2 B2 B2 A2 G2 ^F4 | G8 z4 G3 G | B4 G3 G c4 G3 G | !f! d4 G3 G e6 c2 |
+w: れ こ そ てん しん ら ん | まん い ざ | や み が け や ま | と を の こ か
+B2 A2 G2 F2 E2 F2 G2 A2 | E4 D3 C C4 G3 G | B4 G3 G c4 G3 G | !f! d4 G3 G e6 c2 |
+w: が ー み に ま ー さ る | ま ご こ ろ つ ね | に あ れ な き よ | く す め る た
+B2 A2 G2 F2 E2 G2 c2 d2 | c4 B3 B c4 z4 |
+w: に ー の ー し み づ の | ご と く に

@@ -1,0 +1,30 @@
+X:1
+T:傳書鳩
+M:4/4
+L:1/16
+Q:1/4=120
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 D3 E | G8 G4 G3 A | E8 D4 G4 | A6 A2 G4 B3 B |
+w: ヤ マ | ナ ス ド タ | ウ モ ユ | キ ツ ム ミ ネ
+!mf! d8 z4 B3 d | e6 e2 d4 B4 | !mp! A6 A2 G4 E3 G | d6 d2 B4 B4 |
+w: モ ハ ー | ル カ ニ コ | エ ユ ク タ ー | カ キ ツ バ
+!p! A8 z4 A3 A | A8 A4 d3 c | !mp! B8 G4 e3 e | d6 B2 G4 B4 |
+w: サ タ フ | ト キ タ ヨ | リ ヲ ヲ チ | ヨ リ ハ コ
+!mf! A8 z4 d3 e | d8 B4 G3 G | !p! E8 D4 D4 | B8 A6 A2 |
+w: ブ ミ ソ | ラ ノ ツ カ | ヒ ヨ デ | ン シヨ バ
+!p! G12 z2 E2 | !mp! !mf! D4 z2 A2 G4 z2 e2 | d12 B3 c | d8 d6 d2 |
+w: ト ハ | ト ハ ト ハ | ト デ ー | ン シヨ バ
+G12 z4 | !mf! z4 z4 z4 D3 E | G8 G4 G3 A | E8 D4 G4 |
+w: ト | ほ う | え ん う づ | ま き てん
+A6 A2 G4 B3 B | !mf! d8 z4 B3 d | e6 e2 d4 B4 | !mp! A6 A2 G4 E3 G |
+w: ち は と ど ろ | く い ー | く さ の に | は に も お そ
+d6 d2 B4 B4 | !p! A8 z4 A3 A | A8 A4 d3 c | !mp! B8 G4 e3 e |
+w: れ ず と び | て か ろ | け き つ ば | さ に し め
+d6 B2 G4 B4 | !mf! A8 z4 d3 e | d8 B4 G3 G | !p! E8 D4 D4 |
+w: い を は た | す み そ | ら の て ん | れ い で
+B8 A6 A2 | !p! G12 z2 E2 | !mp! !mf! D4 z2 A2 G4 z2 e2 | d12 B3 c |
+w: ん しよ ば | と は | と は と は | と で ー
+d8 d6 d2 | G12 z4 |
+w: ん しよ ば | と

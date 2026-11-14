@@ -1,0 +1,49 @@
+::SCORE::
+~ "tag: collection:kogakko_shoka"
+~ "tag: volume:koto_2"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P004"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:piano_arrangement"
+~ "tag: arrangement:ai_accompaniment"
+~ "tag: orthography:historical_kana"
+~ "tag: theme:ceremony"
+~ "tag: theme:moral"
+~ "tag: origin:taiwan_official"
+** 昭憲皇太后御歌（鋼琴伴奏版） **
+!= 80
+?= C
+<4/4>
+~ "詞：昭憲皇太后"
+~ "臺灣總督府《公學校高等科唱歌》第二學年用（昭和十一年，索書號 0729 74）"
+
+ShokenKotaigoGyoka:PianoRH@|0|{
+    <8*>
+    | 0 - 0 - 0 - {mp} 2 - | 3 - - - 2 - 2 - | 2 - - - - - 3 - | 4 - - 4 4 - 5 - |
+    L1| _ - _ - _ - ヒ - | ト - - - シ - レ - | ズ - - - - - オ - | モ - - フ コ - コ - |
+    L2| _ - _ - _ - ひ - | の - - - も - と - | の - - - - - さ - | か - - ひ は - な - |
+    L3| _ - _ - _ - カ - | ミ - - - カ - ゼ - | ノ - - - - - イ - | セ - - ノ ウ - チ - |
+    L4| _ - _ - _ - あ - | さ - - - ご - と - | に - - - - - む - | か - - ふ か - が - |
+
+    | 5 - - - 3 - {mf} 5 - | 6 - - - 7 - 6 - | 5 - - - - - {f} 5 - | 3^ - - - 2^ - 1^ - |
+    L1| ロ - - - ノ - ヨ - | シ - - - ア - シ - | モ - - - - - テ - | ラ - - - シ - ワ - |
+    L2| れ - - - て - ゆ - | く - - - ふ - ね - | に - - - - - く - | に - - - の - ひ - |
+    L3| ト - - - ノ - ミ - | ヤ - - - バ - シ - | ラ - - - - - ユ - | ル - - - ギ - ナ - |
+    L4| み - - - の - く - | も - - - り - な - | く - - - - - あ - | ら - - - ま - ほ - |
+
+    | 7 - - 7 6 - {mf} 6 - | 6 - - 5 5 6 - 7 | 1^ - - - - - 0 - |
+    L1| ク - - ラ ン - ア - | メ - - ツ チ ノ - カ | ミ - - - - - _ - |
+    L2| か - - り も - の - | せ - - て や ら - ま | し - - - - - _ - |
+    L3| キ - - ヨ ヲ - ナ - | ホ - - イ ノ ル - カ | ナ - - - - - _ - |
+    L4| し - - き は - こ - | こ - - ろ な り - け | り - - - - - _ - |
+}
+
+ShokenKotaigoGyoka:PianoLH@|0|{
+    <4*>
+    | 0 0 0 {mp} 5__ | 1_ [1] 5__ [5_] | 5__ [5_] 5__ 1_ | 4__ [4_] 1_ [1] |
+    | 1_ [1] 1_ {mf} 1_ | 4_ [4] 2_ [2m] | 5__ [5_] 5__ {f} 5__ | 1_ [1] 5__ 6__ |
+    | 3__ [3_m] 4__ {mf} 4__ | 1_ 1_ 1_ 3__ | 1_ [1] 1_ 0 |
+}
+
+-> ShokenKotaigoGyoka[L1] -> ShokenKotaigoGyoka[L2] -> ShokenKotaigoGyoka[L3] -> ShokenKotaigoGyoka[L4] -> #

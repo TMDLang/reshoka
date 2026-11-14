@@ -111,7 +111,7 @@ def discover_targets(root: Path) -> tuple[list[Path], list[Path], list[Path]]:
     volume_folders: set[Path] = set()
 
     for tmd in root.rglob("*.tmd"):
-        if "recreations" in tmd.parts:
+        if "recreations" in tmd.parts or "fun" in tmd.parts:
             continue
         if not tmd.name.endswith("_piano.tmd"):
             song_folders.append(tmd.parent)

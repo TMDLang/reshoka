@@ -447,6 +447,8 @@ def render_single_song(
 
     if args.output and (not Path(args.target).resolve().is_dir() or list(Path(args.target).resolve().glob("*.tmd"))):
         output_path = Path(args.output).resolve()
+    elif getattr(args, "vocal_only", False):
+        output_path = song_dir / f"{base_stem}_vocal.wav"
     elif args.replace_song_mp3:
         output_path = song_dir / f"{base_stem}.mp3"
     else:
@@ -466,9 +468,13 @@ def render_single_song(
     bpm, beats, beat_type = parse_tempo_and_meter(accomp_tmd_text)
     measure_duration_sec = beats * (4.0 / beat_type) * (60.0 / bpm)
 
+    vocal_only = getattr(args, "vocal_only", False)
     print(f"🎵 歌曲：{base_stem} ({song_dir.name})")
     print(f"   - 人聲來源：{vocal_src_tmd.name} (軌道: {', '.join(vocal_instruments)}, 段落: {stanzas or ['L']})")
-    print(f"   - 伴奏來源：{accomp_tmd.name} ({'僅 PianoLH' if args.lh_only else '完整伴奏'})")
+    if vocal_only:
+        print("   - 輸出模式：純人聲（略過伴奏渲染與混音）")
+    else:
+        print(f"   - 伴奏來源：{accomp_tmd.name} ({'僅 PianoLH' if args.lh_only else '完整伴奏'})")
     print(f"   - 歌手模型：{args.model} | 速度：{bpm} BPM (<{beats}/{beat_type}>, 單小節 {measure_duration_sec:.4f}s)")
 
     tmp_ctx = tempfile.TemporaryDirectory(prefix=f"neutrino_{base_stem}_")
@@ -495,25 +501,26 @@ def render_single_song(
                     f"   ℹ️  已將 {prepared_part.part_name} 軌中 {prepared_part.converted_rests} 個無歌詞器樂音符（前奏/間奏）轉為休止符以對齊時間軸"
                 )
 
-        # 2. 渲染鋼琴伴奏 WAV
+        # 2. 渲染鋼琴伴奏 WAV（純人聲模式略過）
         piano_wav = work_dir / "piano.wav"
-        if args.lh_only and "PianoLH" in accomp_tmd_text:
-            lh_only_tmd = work_dir / "lh_only.tmd"
-            run_cmd(
-                [
-                    "tmd",
-                    "refactor",
-                    "extract-instrument",
-                    str(accomp_tmd),
-                    "--instrument",
-                    "PianoLH",
-                    "-o",
-                    str(lh_only_tmd),
-                ]
-            )
-            run_cmd(["tmd", str(lh_only_tmd), "-w", str(piano_wav)])
-        else:
-            run_cmd(["tmd", str(accomp_tmd), "-w", str(piano_wav)])
+        if not vocal_only:
+            if args.lh_only and "PianoLH" in accomp_tmd_text:
+                lh_only_tmd = work_dir / "lh_only.tmd"
+                run_cmd(
+                    [
+                        "tmd",
+                        "refactor",
+                        "extract-instrument",
+                        str(accomp_tmd),
+                        "--instrument",
+                        "PianoLH",
+                        "-o",
+                        str(lh_only_tmd),
+                    ]
+                )
+                run_cmd(["tmd", str(lh_only_tmd), "-w", str(piano_wav)])
+            else:
+                run_cmd(["tmd", str(accomp_tmd), "-w", str(piano_wav)])
 
         # 3. 呼叫 NEUTRINO musicXMLtoLabel 與 neutrino
         env = os.environ.copy()
@@ -633,11 +640,48 @@ def render_single_song(
                 {
                     "path": vocal_wav,
                     "part_name": prepared_part.part_name,
-                    "trim_sec": vocal_trim_sec,
-                    "delay_ms": piano_delay_ms,
+                    "trim_sec": prepended_rest_sec if vocal_only else vocal_trim_sec,
+                    "delay_ms": 0.0 if vocal_only else piano_delay_ms,
                     "gain_db": vocal_gain_db,
                 }
             )
+
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        ffmpeg_cmd = ["ffmpeg", "-y"]
+        for track in vocal_tracks:
+            trim_sec = float(track["trim_sec"])
+            if trim_sec > 0:
+                ffmpeg_cmd += ["-ss", f"{trim_sec:.6f}"]
+            ffmpeg_cmd += ["-i", str(track["path"])]
+
+        if vocal_only:
+            print(f"🎚️  [3/3] 匯出純人聲至 {output_path}...")
+            filter_parts = []
+            for index, track in enumerate(vocal_tracks):
+                vocal_filter = (
+                    f"[{index}:a]volume={float(track['gain_db']):.2f}dB,"
+                    f"volume={args.vocal_volume}"
+                )
+                if len(vocal_tracks) == 1:
+                    vocal_filter += ",alimiter=limit=0.95"
+                else:
+                    vocal_filter += f"[v{index}];"
+                filter_parts.append(vocal_filter)
+            if len(vocal_tracks) > 1:
+                mix_inputs = "".join(f"[v{index}]" for index in range(len(vocal_tracks)))
+                filter_parts.append(
+                    f"{mix_inputs}amix=inputs={len(vocal_tracks)}:duration=longest:"
+                    "dropout_transition=0:normalize=0,alimiter=limit=0.95"
+                )
+            ffmpeg_cmd += ["-filter_complex", "".join(filter_parts)]
+            if output_path.suffix.lower() == ".mp3":
+                ffmpeg_cmd += ["-c:a", "libmp3lame", "-q:a", "2"]
+            elif output_path.suffix.lower() == ".wav":
+                ffmpeg_cmd += ["-c:a", "pcm_s16le", "-ar", "48000"]
+            ffmpeg_cmd.append(str(output_path))
+            run_cmd(ffmpeg_cmd)
+            print(f"✅ 完成！已輸出純人聲：{output_path}\n", flush=True)
+            return output_path
 
         # 5. 自動偵測各聲部與伴奏峰值，並以最晚的伴奏校正點統一對齊。
         piano_max_db = detect_max_volume_db(piano_wav)
@@ -651,18 +695,10 @@ def render_single_song(
 
         # 6. 使用 ffmpeg 混音
         print(f"🎚️  [3/3] 使用 ffmpeg 混音輸出至 {output_path}...")
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        ffmpeg_cmd = ["ffmpeg", "-y"]
-        for track in vocal_tracks:
-            trim_sec = float(track["trim_sec"])
-            if trim_sec > 0:
-                ffmpeg_cmd += ["-ss", f"{trim_sec:.6f}"]
-            ffmpeg_cmd += ["-i", str(track["path"])]
         ffmpeg_cmd += ["-i", str(piano_wav)]
 
         max_delay_ms = max(float(track["delay_ms"]) for track in vocal_tracks)
-        filter_parts: list[str] = []
+        filter_parts = []
         for index, track in enumerate(vocal_tracks):
             delay_ms = max_delay_ms - float(track["delay_ms"])
             vocal_filter = f"[{index}:a]volume={float(track['gain_db']):.2f}dB,volume={args.vocal_volume}"
@@ -733,6 +769,11 @@ def main() -> None:
         "--lh-only",
         action="store_true",
         help="伴奏僅渲染左手軌 (PianoLH)，避免右手鋼琴旋律與人聲重疊",
+    )
+    parser.add_argument(
+        "--vocal-only",
+        action="store_true",
+        help="僅匯出 NEUTRINO 合成之純人聲（略過伴奏渲染與混音；未指定 -o 時預設輸出 <stem>_vocal.wav）",
     )
     parser.add_argument(
         "--vocal-volume",

@@ -1,5 +1,5 @@
 {
-  "total_corpus_songs": 1230,
+  "total_corpus_songs": 1255,
   "same_lyrics_different_melody_group_count": 23,
   "groups": [
     {
@@ -87,61 +87,6 @@
               "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
               "raw_title": "朝の歌",
               "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "あちらのやまにくろくもおこりひらめくいなずまぴかぴかぴかなりだすかみなりごろごろごろみるまにそらはくらくなる",
-      "titles": [
-        "夕立"
-      ],
-      "versions": [
-        {
-          "id": "kogakko_shoka/grade_4/7_yudachi",
-          "year": 1915,
-          "occurrences": [
-            {
-              "rel_dir": "kogakko_shokashu_1915/4_04_yudachi",
-              "md_file": "kogakko_shokashu_1915/4_04_yudachi/index.md",
-              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-              "raw_title": "夕立",
-              "year": 1915
-            },
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/28_yudachi_2",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/28_yudachi_2/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "夕立",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi",
-              "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/1_08_yudachi/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-              "raw_title": "夕立",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_4/7_yudachi",
-              "md_file": "kogakko_shoka/grade_4/7_yudachi/index.md",
-              "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
-              "raw_title": "夕立",
-              "year": 1937
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_01/p128_yudachi",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_01/p128_yudachi",
-              "md_file": "shokacho/vol_01/p128_yudachi/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-              "raw_title": "夕立",
-              "year": 1923
             }
           ]
         }
@@ -389,6 +334,40 @@
               "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
               "raw_title": "天長節",
               "year": 1923
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lyrics": "けきょけきょうぐいすほうほけきょほうほううぐいすみつけませうやぶはさらさらかぜふくばかりあかいつばきがかげらふばかり",
+      "titles": [
+        "初鶯"
+      ],
+      "versions": [
+        {
+          "id": "shokacho/vol_07/p241_hatsu_uguisu",
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shokacho/vol_07/p241_hatsu_uguisu",
+              "md_file": "shokacho/vol_07/p241_hatsu_uguisu/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 7 冊・VII（2020.006.0843）",
+              "raw_title": "初鶯（初鶯）",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "初鶯",
+              "year": 1934
             }
           ]
         }

@@ -1,0 +1,49 @@
+X:1
+T:夕立そゝぐ
+M:2/4
+L:1/16
+Q:1/4=69
+K:D
+V:V1 name="Piano1" snm="Pia"
+V:V2 name="Piano2" snm="Pia"
+[V:V1]
+!mp! A2 F2 E2 E2 | E3 F E4 | F2 A2 B2 B2 | A3 G F4 |
+w: ラ イ ヒ ト | シ キ リ | カ ゼ ヒ ト | ワ タ リ
+E2 F2 A2 B2 | B2 d4 A2 | B2 B2 A2 D2 | F4 E2 z2 |
+w: ク ロ ク モ | ク ヅ レ | ソ ラ ヲ オ | ホ ヒ
+F2 F2 F2 E2 | D2 D2 D2 z2 | B4 B2 ^G2 | A2 c2 d2 z2 |
+w: ナ ナ メ ニ | ト ビ テ | ユフ ダ チ | ソ ソ グ
+D2 F2 F2 A2 | B2 A4 c2 | d2 c2 d2 G2 | F F E E F2 z2 |
+w: ヤ ツ デ ノ | カ ゲ ヲ | イ デ コ シ | フ ト キ ガ マ
+B A A c d4 | A A A A B4 | A2 A A A A A2 | !f! E2 F2 A2 G2 |
+w: フ ト キ ガ マ | ヨ ロ コ ビ テ | リヤウ テ ヲ ツ キ テ | ウ ゴ カ ザ
+F2 F2 F2 z2 | E2 A2 A2 z2 | B2 B2 B2 z2 | d4 d2 B2 |
+w: ル セ ヲ | タ タ キ | タ タ キ | ユフ ダ チ
+A2 B2 A2 z2 | d2 e2 d2 z2 | !mp! A2 F2 E2 E2 | E3 F E4 |
+w: ソ ソ ギ | ソ ソ グ | き ぎ ざ わ | め き て
+F2 A2 B2 B2 | A3 G F4 | E2 F2 A2 B2 | B2 d4 A2 |
+w: せ み な き | や み て | く ろ あ り | ぬ れ て
+B2 B2 A2 D2 | F4 E2 z2 | F2 F2 F2 E2 | D2 D2 D2 z2 |
+w: み ち を ま | よ ひ | い け の も | た た き
+B4 B2 ^G2 | A2 c2 d2 z2 | D2 F2 F2 A2 | B2 A4 c2 |
+w: ゆふ だ ち | そ そ ぐ | い づ こ に | ゐ た る
+d2 c2 d2 G2 | F F E E F2 z2 | B A A c d4 | A A A A B4 |
+w: ち ひ さ き | こ ひ の む れ | こ ひ の む れ | よ ろ こ び て
+A2 A A A A A2 | !f! E2 F2 A2 G2 | F2 F2 F2 z2 | E2 A2 A2 z2 |
+w: ひだ り へ み ぎ へ | お よ ぎ ゆ | く せ を | た た き
+B2 B2 B2 z2 | d4 d2 B2 | A2 B2 A2 z2 | d2 e2 d2 z2 |
+w: た た き | ゆふ だ ち | そ そ ぎ | そ そ ぐ
+[V:V2]
+!mp! F2 D2 C2 C2 | C3 D C4 | D2 F2 G2 G2 | F3 C D4 |
+C2 D2 F2 G2 | F2 F4 F2 | G2 G2 F2 B,2 | D4 C2 z2 |
+D2 D2 D2 C2 | B,2 B,2 B,2 z2 | D4 D2 E2 | C2 E2 F2 z2 |
+z8 | D2 F2 F2 A2 | B2 A4 c2 | d2 c2 d2 G2 |
+F F E E F4 | F F F F G4 | F2 F F F F E2 | !f! D2 D2 F2 E2 |
+D2 C2 D2 z2 | C2 D2 D2 z2 | D2 D2 D2 z2 | D4 D2 E2 |
+F2 G2 F2 z2 | A2 F2 D2 z2 | !mp! F2 D2 C2 C2 | C3 D C4 |
+D2 F2 G2 G2 | F3 C D4 | C2 D2 F2 G2 | F2 F4 F2 |
+G2 G2 F2 B,2 | D4 C2 z2 | D2 D2 D2 C2 | B,2 B,2 B,2 z2 |
+D4 D2 E2 | C2 E2 F2 z2 | z8 | D2 F2 F2 A2 |
+B2 A4 c2 | d2 c2 d2 G2 | F F E E F4 | F F F F G4 |
+F2 F F F F E2 | !f! D2 D2 F2 E2 | D2 C2 D2 z2 | C2 D2 D2 z2 |
+D2 D2 D2 z2 | D4 D2 E2 | F2 G2 F2 z2 | A2 F2 D2 z2 |

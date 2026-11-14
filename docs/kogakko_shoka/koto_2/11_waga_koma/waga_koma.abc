@@ -1,0 +1,35 @@
+X:1
+T:我が駒
+C:曲：田中銀之助
+M:4/4
+L:1/16
+Q:1/4=120
+K:Bb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z4 z4 z4 F2 G2 | B8 B2 G2 F2 D2 | F8 z4 F2 G2 | B6 B2 B2 G B G2 F2 |
+w: カ ゲ | ヨ ー ユ ケ ユ | ケ ア サ | モ ヤ ワ ー _ ー ケ
+!mf! F8 z4 F2 G2 | B8 B2 c2 d2 c2 | !mp! B8 z4 c3 d | B6 G2 F4 D4 |
+w: テ セ ン | リ ノ ー ミ チ | モ ナ ー | ン ー ノ ソ
+!mf! B,8 z4 D2 D2 | F8 F2 G2 B2 F2 | !f! D8 z2 D2 F2 G2 | B6 B2 B2 c B G2 B2 |
+w: ノ ア シ | ハ ー カ ル カ | ロ ア ブ ー | ミ モ ク ー _ ー ラ
+!f! c8 z4 c2 c2 | d8 d2 c2 B2 G2 | !mp! B8 z2 c2 B2 G2 | F8 F6 G2 |
+w: モ ト モ | ノ ー ハ ナ ム | ケ ス ズ ー | ガ ー ナ
+B12 z4 | !mf! z4 z4 z4 F2 G2 | B8 B2 G2 F2 D2 | F8 z4 F2 G2 |
+w: ル | ム ラ | ノ ー ハ ヅ レ | ノ チ ン
+B6 B2 B2 G B G2 F2 | !mf! F8 z4 F2 G2 | B8 B2 c2 d2 c2 | !mp! B8 z4 c3 d |
+w: ジュ ノ モ ー _ ー リ | モ ヨ ヒ | ニ ー カ ク レ | テ ツ ー
+B6 G2 F4 D4 | !mf! B,8 z4 D2 D2 | F8 F2 G2 B2 F2 | !f! D8 z2 D2 F2 G2 |
+w: キ ー ガ デ | ル ク レ | リャ ー ノ ズ ヱ | ニ シ ト ー
+B6 B2 B2 c B G2 B2 | !f! c8 z4 c2 c2 | d8 d2 c2 B2 G2 | !mp! B8 z2 c2 B2 G2 |
+w: ネ ノ ク ー _ ー サ | ヲ ツ ユ | ノ ー カ リ ネ | ノ タ ビ ー
+F8 F6 G2 | B12 z4 | !mf! z4 z4 z4 F2 G2 | B8 B2 G2 F2 D2 |
+w: マ ー ク | ラ | コ セ | ヨ ー ア ノ サ
+F8 z4 F2 G2 | B6 B2 B2 G B G2 F2 | !mf! F8 z4 F2 G2 | B8 B2 c2 d2 c2 |
+w: カ タ フ | ゲ ヲ オ ー _ ー リ | リャ カ ン | ロ ー シ ミ ヅ
+!mp! B8 z4 c3 d | B6 G2 F4 D4 | !mf! B,8 z4 D2 D2 | F8 F2 G2 B2 F2 |
+w: ガ チョ ー | ロ ー チョ ロ | ト セ ン | リ ー タ ワ マ
+!f! D8 z2 D2 F2 G2 | B6 B2 B2 c B G2 B2 | !f! c8 z4 c2 c2 | d8 d2 c2 B2 G2 |
+w: ズ ヤ マ ー | コ エ ノ ー _ ー コ | エ ユ ケ | バ ー タ ノ シ
+!mp! B8 z2 c2 B2 G2 | F8 F6 G2 | B12 z4 |
+w: イ ハ ナ ー | ノ ー サ | ト

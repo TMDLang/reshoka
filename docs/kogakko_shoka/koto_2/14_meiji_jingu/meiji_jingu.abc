@@ -1,0 +1,44 @@
+X:1
+T:明治神宮
+M:4/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! C6 F2 G4 F4 | F4 F4 C6 z2 | F6 F2 D4 F4 | G4 F4 G6 z2 |
+w: ア サ ヒ ノ | ゴ ト ク | タ ダ シ ク | ツ ヨ ク
+!f! c6 B2 c4 A4 | d4 d4 c6 z2 | A6 A2 c4 F4 | G8 F6 z2 |
+w: ヒ ト ス ヂ | ナ ホ ク | ヒ ラ ケ ス | ス ム
+!mf! F6 F2 D4 F4 | G6 G2 F4 C4 | !f! c6 B2 c4 A4 | d4 d4 c6 z2 |
+w: ヒ イ ヅ ル | ミ ク ニ ノ | ヒ カ リ ヲ | ツ ト ニ
+!ff! f6 f2 e4 e4 | A6 G2 F6 z2 | !mf! G4 A2 B2 A6 G2 | F12 z4 |
+w: ハ ナ チ タ | マ ヒ シ | オ ホ ー ミ カ | ド
+!p! D6 D2 D4 D4 | D6 D2 C4 D4 | !mp! F8 F4 F4 | D4 F4 G6 z2 |
+w: シ ヅ マ リ | マ シ マ ス | ヨ ヨ ギ | ノ ミ ヤ
+A6 A2 F4 A4 | c6 c2 A6 z2 | !mf! G4 A2 B2 A4 G2 F2 | F12 z4 |
+w: ユ カ シ カ | シ コ シ | ヨ ヨ ー ギ ノ ミ | ヤ
+!mf! C6 F2 G4 F4 | F4 F4 C6 z2 | F6 F2 D4 F4 | G4 F4 G6 z2 |
+w: つ き ご と | ふ か く | と し ご と | ひ ろ く
+!f! c6 B2 c4 A4 | d4 d4 c6 z2 | A6 A2 c4 F4 | G8 F6 z2 |
+w: よ ろ こ び | よ も に | あ ふ れ み | ち て
+!mf! F6 F2 D4 F4 | G6 G2 F4 C4 | !f! c6 B2 c4 A4 | d4 d4 c6 z2 |
+w: か い こ く | に ほ ん の | ゆ う ひ の | も と ゐ
+!ff! f6 f2 e4 e4 | A6 G2 F6 z2 | !mf! G4 A2 B2 A6 G2 | F12 z4 |
+w: か た め た | ま ひ し | お ほ ー み か | ど
+!p! D6 D2 D4 D4 | D6 D2 C4 D4 | !mp! F8 F4 F4 | D4 F4 G6 z2 |
+w: し づ ま り | ま し ま す | よ よ ぎ | の み や
+A6 A2 F4 A4 | c6 c2 A6 z2 | !mf! G4 A2 B2 A4 G2 F2 | F12 z4 |
+w: ゆ か し か | し こ し | よ よ ー ぎ の み | や
+!mf! C6 F2 G4 F4 | F4 F4 C6 z2 | F6 F2 D4 F4 | G4 F4 G6 z2 |
+w: タ フ ト キ | タ カ キ | イ ヤ シ キ | ヒ ク キ
+!f! c6 B2 c4 A4 | d4 d4 c6 z2 | A6 A2 c4 F4 | G8 F6 z2 |
+w: ク ニ タ ミ | ナ ベ テ | ヒ ト ツ マ | ナ ゴ
+!mf! F6 F2 D4 F4 | G6 G2 F4 C4 | !f! c6 B2 c4 A4 | d4 d4 c6 z2 |
+w: ア ハ レ ミ | ハ グ ク ミ | ミ チ ビ キ | タ マ ヒ
+!ff! f6 f2 e4 e4 | A6 G2 F6 z2 | !mf! G4 A2 B2 A6 G2 | F12 z4 |
+w: チ カ ラ タ | マ ハ ル | オ ホ ー ミ カ | ド
+!p! D6 D2 D4 D4 | D6 D2 C4 D4 | !mp! F8 F4 F4 | D4 F4 G6 z2 |
+w: シ ヅ マ リ | マ シ マ ス | ヨ ヨ ギ | ノ ミ ヤ
+A6 A2 F4 A4 | c6 c2 A6 z2 | !mf! G4 A2 B2 A4 G2 F2 | F12 z4 |
+w: ユ カ シ カ | シ コ シ | ヨ ヨ ー ギ ノ ミ | ヤ

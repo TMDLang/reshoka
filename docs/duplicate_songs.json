@@ -1,8 +1,8 @@
 {
-  "total_corpus_songs": 1230,
-  "unique_song_count": 887,
-  "duplicate_group_count": 219,
-  "duplicate_occurrence_count": 562,
+  "total_corpus_songs": 1255,
+  "unique_song_count": 908,
+  "duplicate_group_count": 222,
+  "duplicate_occurrence_count": 569,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -52,7 +52,7 @@
     {
       "id": "other",
       "label": "其他",
-      "duplicate_group_count": 91
+      "duplicate_group_count": 94
     }
   ],
   "duplicate_groups": [
@@ -1695,26 +1695,14 @@
       "theme_category_label": "自然、季節與風景",
       "entries": [
         {
-          "rel_dir": "jinjo_shogaku_shoka/grade_1_4103/8_yudachi",
-          "md_file": "jinjo_shogaku_shoka/grade_1_4103/8_yudachi/index.md",
-          "book_label": "文部省《尋常小學唱歌》第一學年用（明治44年／1911）",
-          "raw_title": "夕立"
-        },
-        {
           "rel_dir": "kogakko_shokashu_1915/4_04_yudachi",
           "md_file": "kogakko_shokashu_1915/4_04_yudachi/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
           "raw_title": "夕立"
         },
         {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/04_yudachi",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/04_yudachi/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "夕立"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/18_yudachi",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/18_yudachi/index.md",
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/28_yudachi_2",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/28_yudachi_2/index.md",
           "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "夕立"
         },
@@ -1820,6 +1808,12 @@
           "rel_dir": "shokacho/vol_02/p104_utsukushiki_tennen",
           "md_file": "shokacho/vol_02/p104_utsukushiki_tennen/index.md",
           "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+          "raw_title": "美しき天然"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_2/20_utsukushiki_tennen",
+          "md_file": "kogakko_shoka/koto_2/20_utsukushiki_tennen/index.md",
+          "book_label": "《公學校唱歌》 高等科 第二學年用（國臺圖 0729 74）",
           "raw_title": "美しき天然"
         }
       ]
@@ -2277,6 +2271,26 @@
           "md_file": "kogakko_shoka/grade_4/20_waga_teikoku/index.md",
           "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
           "raw_title": "我が帝國"
+        }
+      ]
+    },
+    {
+      "id": "wagakoma",
+      "title": "我が駒",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_1_07_waga_koma",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_1_07_waga_koma/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "我が駒"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_2/11_waga_koma",
+          "md_file": "kogakko_shoka/koto_2/11_waga_koma/index.md",
+          "book_label": "《公學校唱歌》 高等科 第二學年用（國臺圖 0729 74）",
+          "raw_title": "我が駒"
         }
       ]
     },
@@ -4109,6 +4123,12 @@
           "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_09_taiwan_no_uta/index.md",
           "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
           "raw_title": "臺灣の歌"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_2/25_taiwan_no_uta",
+          "md_file": "kogakko_shoka/koto_2/25_taiwan_no_uta/index.md",
+          "book_label": "《公學校唱歌》 高等科 第二學年用（國臺圖 0729 74）",
+          "raw_title": "臺灣の歌"
         }
       ]
     },
@@ -4255,6 +4275,26 @@
           "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii/index.md",
           "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
           "raw_title": "花さかぢぢい"
+        }
+      ]
+    },
+    {
+      "id": "kojonotsuki",
+      "title": "荒城の月",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_10_kojo_no_tsuki",
+          "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_10_kojo_no_tsuki/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+          "raw_title": "荒城の月"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_2/19_kojo_no_tsuki",
+          "md_file": "kogakko_shoka/koto_2/19_kojo_no_tsuki/index.md",
+          "book_label": "《公學校唱歌》 高等科 第二學年用（國臺圖 0729 74）",
+          "raw_title": "荒城の月"
         }
       ]
     },
@@ -4891,6 +4931,12 @@
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/23_kaiko_kinenbi/index.md",
           "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "開校記念日"
+        },
+        {
+          "rel_dir": "shokacho/vol_02/p100_kaiko_kinenbi",
+          "md_file": "shokacho/vol_02/p100_kaiko_kinenbi/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+          "raw_title": "開校記念日"
         }
       ]
     },
@@ -5131,6 +5177,26 @@
           "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_18_mochitsuki/index.md",
           "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
           "raw_title": "モチツキ（搗麻糬）"
+        }
+      ]
+    },
+    {
+      "id": "takane",
+      "title": "高嶺",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/2_4_06_takane/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "高嶺"
+        },
+        {
+          "rel_dir": "kogakko_shoka/koto_2/24_takane",
+          "md_file": "kogakko_shoka/koto_2/24_takane/index.md",
+          "book_label": "《公學校唱歌》 高等科 第二學年用（國臺圖 0729 74）",
+          "raw_title": "高嶺"
         }
       ]
     },

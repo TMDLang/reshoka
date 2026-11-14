@@ -69,7 +69,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yudachi_yanda.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdEiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGBohZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lm8xJLSolRkrZnpmXlWJYmZ5UAH5KelZSZnJubgkk_OB_qhuCTe0NLYWIlLS0vhcfOyx81THzc3PG5uBHKWPG7eDOS839PxYun-pz3TX85e8bRxzpNdbe_3dCpoaXEp2ioYGphw2dsquHDZGOmb2IHsebpo3rM5a562dj6bsVThyd45L1bOAxnQvutp7_SnO1Y_X9_ydO2OZwsWAsmn69c9bt79rH3Hi83znnbPfzm77Wnr0peNO4DGg50M1PS8cfHzHXufz138dNecxw1dT1vXQHVP2fhsbc_jhu7na9Y82dEAMmznludTVgCtejZj7dNJPU92zgWKPNnR-WxOB0TN886Oxw2NENmnvY0gXUAFu3ogCp7Ong1U8H5Pz_Mti57N3vFi5nwFA3MjSwVzY7BruPS1FGypBbgUFBQeN0x4NnvT89nrXqxa9WxG3-OGiWDR5t1P23e9mDn1_Z5ZaL5_vn0FcQHQA_HNi1WbHjd0YI_Rxw2dWCMVqPlp33yg94FGKFg8aphsqfByQSMoTPuan_X3P1s1RQGUI_SyCtKBkkCmMYgJ1Pi4oQnq_Ber9j9rWP6io_1Zdy8wEIH-eNzc_XLqdqA40BwXhadLlgOZT3ZNedG46eX8zS9n9UHsBSYfBaAWIOtlw_ynu5YpQBIXksHNPc9mrgcZPHvTy0VAf6IH0NMNHc-bdkEE4cH0ZG8fNGi2r3i-q-nJzm4tLYiSly2dT-fMf96580Xnpuerl75Ys0BLC2gb0JtP169-uqT_2fSlT3s7nu7reTlzMTCMkMPr_Z7-p0umPl_dDXT6087ZwOADBdzG7ucbtgPd93TX2pczF71YvPD5rBagZV2Tns2b82zFzhcTQWH-uHkeKAqatjxu3gP0VR8Q9wNNAVndqKX1bNXmZ8umICmeDI6vlY-bloEVPdnRBQqg2Sue7d7ydFnTy64GkOP7Fzzv63zRseZxQ8_j5rmPm5sfN7c8bl4FNBGV2wvU9WLCXqCzQFlxTjco5veBA7V9CyicockSkgKAiQuYc5-2rng2rR3oqSc71oIYq-a9WLsemFaBjnu6ofdZeycoPUATATTpKBToKVgCXQs2DpgyHzcA0x7CGUAPI3OagCXAZkhANO0HBQ4svrElW6CaRY-bFyKnY6jqvsdNa4Gyq4FhhWYBcgg0bYZqAEUm2CvAVAQMlOdrp4BKBjAD5I_mfmjIzmoBBu7TtROA2pDTAiy_gGICwgYp2DcPkgSe7OgGehtoGiiS5myABDpIcB9IGTxkdgEzL1khg5mAED5HpBeoGNBfYF2ggANqBFq4hlYBtG8ecloHJlWgFqAgPE0jJ14CAQR0AeWlLBQoaOlzcUWWpiQmZ2RGJualJFoFZCbm5TvUGNRUgyxSsLHQsgMzsBXxCpDi9cXCHgUNE4WnG_qfr2_QgReCmlg0AK0DGVajYKygC8TGQJYRkGWkYAhmQSBE1gCIa8CqfQxroDEBFAJGBhCvAirCJtS0DsiCJwywonmoZhlRxyz8YbKrh5wwMQWabAqENQpmQAjigUICBEFi2MIEVA6AHQ3M_cCyACS0BOroBrB2YNIGssGFAlgcpAIkgx4goGwDMqhpC9i_ICFwxgHSKyEGNU-GGgzLP2BBkCQxAbKjk7xEAvI6JEBAQQNKLqBgMQYnEkMsAQKKKnBZB3Yb8VEN8jxamIBDbh40bNeQZVYtF5eunQJy9lIA8pW5AA)]
+- [主旋律 TMD 檔案](yudachi_yanda.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdEiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGBohZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lm8xJLSolRkrZnpmXlWJYmZ5UAH5KelZSZnJubgkk_OB_qhuCTe0NLYWIlLS0vhcfOyx81THzc3PG5uBHKWPG7eDOS839PxYun-pz3TX85e8bRxzpNdbe_3dCpoaXEp2ioYGphw2dsquHDZGOmb2IHsebpo3rM5a562dj6bsVThyd45L1bOAxnQvutp7_SnO1Y_X9_ydO2OZwsWAsmn69c9bt79rH3Hi83znnbPfzm77Wnr0peNO4DGg50M1PS8cfHzHXufz138dNecxw1dT1vXQHVP2fhsbc_jhu7na9Y82dEAMmznludTVgCtejZj7dNJPU92zgWKPNnR-WxOB0TN886Oxw2NENmnvY0gXUAFu3ogCp7Ong1U8H5Pz_Mti57N3vFi5nwFA3MjSwVzY7BruPS1FGypBbgUFBQeN0x4NnvT89nrXqxa9WxG3-OGiWDR5t1P23e9mDn1_Z5ZaL5_vn0FcQHQA_HNi1WbHjd0YI_Rxw2dWCMVqPlp33yg94FGKFg8aphsqfByQSMoTPuan_X3P1s1RQGUI_SyCtKBkkCmMYgJ1Pi4oQnq_Ber9j9rWP6io_1Zdy8wEIH-eNzc_XLqdqA40BwXhadLlgOZT3ZNedG46eX8zS9n9UHsBSYfBaAWIOtlw_ynu5YpQBIXksHNPc9mrgcZPHvTy0VAf6IH0NMNHc-bdkEE4cH0ZG8fNGi2r3i-q-nJzm4tLYiSly2dT-fMf96580Xnpuerl75Ys0BLC2gb0JtP169-uqT_2fSlT3s7nu7reTlzMTCMkMPr_Z7-p0umPl_dDXT6087ZwOADBdzG7ucbtgPd93TX2pczF71YvPD5rBagZV2Tns2b82zFzhcTQWH-uHkeKAqatjxu3gP0VR8Q9wNNAVndqKX1bNXmZ8umICmeDI6vlY-bloEVPdnRBQqg2Sue7d7ydFnTy64GkOP7Fzzv63zRseZxQ8_j5rmPm5sfN7c8bl4FNBGV2wvU9WLCXqCzQFlxTjco5veBA7V9CyicockSkgKAiQuYc5-2rng2rR3oqSc71oIYq-a9WLsemFaBjnu6ofdZeycoPUATATTpKBToKVgCXQs2DpgyHzcA0x7CGUAPI3OagCXAZkhANO0HBQ4svrElW6CaRY-bFyKnY6jqvsdNa4Gyq4FhhWYBcgg0bYZqAEUm2CvAVAQMlOdrp4BKBjAD5I_mfmjIzmoBBu7TtROA2pDTAiy_gGICwgYp2DcPkgSe7OgGehtoGiiS5myABDpIcB9IGTxkdgEzL1khg5mAED5HpBeoGNBfYF2ggANqBFq4hlYBtG8ecloHJlWgFqAgPE0jJ14CAQR0AeWlLBQoaOlzcUWWpiQmZ2RGJualJFoFZCbm5TvUGNRUgyxSsLHQsgMzsBXxCpDi9cXCHgUNE4WnG_qfr2_QgReCmlg0AK0DGVajYKygC8TGQJYRkGWkYAhmQSBE1gCIa8CqfQxroDEBFAJGBhCvAirCJtS0DsiCJwywonmoZhlRxyz8YbKrh5wwMQWabAqENQpmQAjigUICBEFi2MIEVA6AHQ3M_cCyACS0BOroBrB2YNIGssGFAlgcpAIkgx4goGwDMqhpC9i_ICFwxgHSKyEGNU-GGgzLP2BBkCQxAbKjk7xEAvI6JEBAQQNKLqBgMQYnEkMsAQKKKnBZB3Yb8VEN8jxamIBDbh40bNeQZVYtF5eunQJy9or2MYxVwBAzAospcwEA)]
 - [鋼琴伴奏 TMD 檔案](yudachi_yanda_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOxx89THzQ2PmxuBnCWPmzcDOe_3dLxYuv9pz_SXs1c8bZzzZFfb4-bdL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbB0MCEy95WwYXLxkjfxI6rTkHpRfuu542Ln-_Y-3zu4qe75jxu6Hrauubp2h3PFix8OmXjs7U9jxu6n69Z82RHA1Dw6c4tz6esAFr5bMbap5N6nuycCxR5sqPz2ZwOiBqgZY8bGiGyT3sbQbqACnb1QBQ8nT0b7Jqe51sWPZu948XM-QoG5kaWCubGQBcqcXF55pUU5VsFZCbm5Qd5ONQY1FRzKQCBjYWWHZhRo2AMhKZAWKNgpqALpI2BLFMgy1jBCMgyBLIMgLiGqxbFMB9kw0zghhnGK0QbxgIZJjCGaTyQZRoPYgIlDSAGRZamJCZnZEYm5qUk4nGcvpaCLTpQgITKi4U9ChomCk839D9f36CjEGBgaKSXVZCuiUWDlj7cpyBfgfxnBGQZAf0GYkEgRBbiU5BqH8MaYIKY-7i5GSj0uLkFiFcBFWETaloHZG0G4j4gez9Y0TxUs4yoYxb-MNnVQ06YgGIaFvtmYB4kRYDSBPYwAeUYsKMbgLgR7MQlUEc3gLU_bloEZC-Ei4NUgGTQA2QeSBJoUNMWsH9BQv1A3mogvRJiUPNkqMErHzctA0uBBEGSxATIjk7yEglx2QERIKCoWgt3OPFRDfI8WpiAQ24eNGzXkGUW1txFKLciZVLM_IorZ8NFCKjDWgLo2imASxMFIAPZvdE-QD0YYkZgMWUuAA)]
 
 ## 分析
@@ -78,14 +78,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ ユフダチ ヤンダ（西北雨停了） ]
 ================================================================================
-⏱  Duration:       0:13 (13.8s), 12 measures total
+⏱  Duration:       0:27 (27.7s), 24 measures total
 🎼 Key & Tempo:    首調基準 D, != 104.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – B4 (MIDI 71) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  D4 in [YudachiYanda #1 @ m.2, 0:02]
-   - 最高音: B4 in [YudachiYanda #1 @ m.6, 0:05]
+   - 最低音:  D4 in [YudachiYanda[L1] #1 @ m.2, 0:02]
+   - 最高音: B4 in [YudachiYanda[L1] #1 @ m.6, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      YudachiYanda (13.8s)
+🏛  結構:      YudachiYanda[L1] (13.8s) -> YudachiYanda[L2] (13.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       F# 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
@@ -93,9 +93,10 @@ tmd_source:
    - 核心骨幹音:  F#, A, E, B, D
    - 調性數值:    F# 小調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): F# 小調 (0.80), A 大調 (0.68), D 大調 (0.56)
-   - 五度圈歷程:   +6
+   - 五度圈歷程:   +6 -> +6
    - 各段落調性細節:
-     • [YudachiYanda #1]: F# 小調 (r: 0.80, 自然音純度: 100.0%)
+     • [YudachiYanda[L1] #1]: F# 小調 (r: 0.80, 自然音純度: 100.0%)
+     • [YudachiYanda[L2] #1]: F# 小調 (r: 0.80, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -122,7 +123,7 @@ tmd_source:
      B  : ██████                     9.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – B4 (9 個半音 / 0.8 個八度, 33 個音符)
+  - Piano         : D4 – B4 (9 個半音 / 0.8 個八度, 66 個音符)
 ================================================================================
 ```
 

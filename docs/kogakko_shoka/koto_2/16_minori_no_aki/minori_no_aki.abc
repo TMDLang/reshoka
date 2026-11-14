@@ -1,0 +1,25 @@
+X:1
+T:實のりの秋
+M:6/8
+L:1/16
+Q:3/8=80
+K:Eb
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! z2 z2 z2 B,2 E2 F2 | G4 A2 G6 | F4 E2 B4 c2 | !f! B6 e6- |
+e12 | !ff! e2 z2 z2 z6 | !mf! z2 z2 z2 B,2 E2 F2 | G4 A2 G6 |
+w: * | * | ミ ノ リ | ノ ア キ
+F4 E2 B4 c2 | B12 | !p! B2 z2 z2 B2 e2 c2 | B6 A6 |
+w: ハ キ タ リ | ヌ | ー ユ タ ケ | ク モ
+!mp! A2 z2 z2 G2 A2 B2 | c4 c2 F6 | !mf! F4 z2 F2 G2 A2 | B4 B2 e4 B2 |
+w: ー カ ド タ | ノ ア タ | リ ヨ ロ コ | ビ ノ コ ヱ
+G2 z2 A2 B4 G2 | !f! E2 z2 F2 e6 | e4 F2 F6 | E2 z2 z2 z6 |
+w: ノ ウ ヅ マ | キ ウ ヅ | ー マ ク | ー
+!mf! z2 z2 z2 B,2 E2 F2 | G4 A2 G6 | F4 E2 B4 c2 | B12 |
+w: た り ほ | の い ね | は こ が ね | に
+!p! B2 z2 z2 B2 e2 c2 | B6 A6 | !mp! A2 z2 z2 G2 A2 B2 | c4 c2 F6 |
+w: ー な み う | て り | ー み わ た | す た の
+!mf! F4 z2 F2 G2 A2 | B4 B2 e4 B2 | G2 z2 A2 B4 G2 | !f! E2 z2 F2 e6 |
+w: も か ち ど | き は た か | く と ど ろ | き と ど
+e4 F2 F6 | E2 z2 z2 z6 |
+w: ー ろ く | ー

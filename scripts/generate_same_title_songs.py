@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Generate an index of songs sharing the same normalized title.
+"""Generate an index of same-title songs with different musical versions.
 
 This is intentionally separate from ``generate_duplicate_songs.py``.  It does
-not decide whether two scores are the same song: it only groups appearances
-whose Japanese title reading is the same, so same-song versions and
-same-title/different-song versions are both visible.
+not decide whether two scores are the same song.  It groups appearances whose
+Japanese title reading is the same, then keeps only title groups containing
+more than one distinct song version.  Reprints of the same song across
+textbooks are therefore omitted.
 """
 
 from __future__ import annotations
@@ -77,6 +78,11 @@ def build_same_title_groups(entries, duplicate_groups: list[dict]) -> list[dict]
                     "year": year_from_entry(entry),
                 }
             )
+        # This index is specifically for same-title/different-song cases.
+        # A title that only has reprints of one same-song cluster (for example,
+        # the three textbook appearances of `hato`) does not belong here.
+        if len(versions) < 2:
+            continue
         sorted_versions = []
         for key, occurrences in versions.items():
             occurrences.sort(key=lambda occurrence: (occurrence["year"], occurrence["book_label"]))
@@ -105,13 +111,13 @@ def render_markdown(groups: list[dict], total_songs: int, total_volumes: int) ->
     lines = [
         "---",
         f"title: 同一歌名的多個版本（{len(groups)} 組）",
-        f"description: 全站 {total_volumes} 冊、{total_songs} 首曲目中，具有相同歌名讀音的歌曲與版本。",
+        f"description: 全站 {total_volumes} 冊、{total_songs} 首曲目中，具有相同歌名但不同旋律或歌詞版本的歌曲。",
         "keywords: 同名歌曲, 歌曲版本, 歷史歌曲",
         "---",
         "",
         "# 同一歌名的多個版本",
         "",
-        f"本表先以歌名的日文讀音正規化分組，再把同一首歌曲的重複出現集中在同一個版本下。全站 **{total_volumes} 冊、{total_songs} 首曲目**共找出 **{len(groups)} 組**同歌名歌曲。",
+        f"本表先以歌名的日文讀音正規化分組，再排除跨教材重印的同曲版本，只保留同歌名但旋律或歌詞不同的歌曲。全站 **{total_volumes} 冊、{total_songs} 首曲目**共找出 **{len(groups)} 組**。",
         "",
         "| # | 歌名 | 版本與出現處 |",
         "| :---: | :--- | :--- |",

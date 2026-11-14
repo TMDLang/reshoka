@@ -5,13 +5,13 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 
 # 資料來源與各冊導覽
 
-本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **40 冊、1,230 首（次）曲目**。
+本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **41 冊、1,255 首（次）曲目**。
 
 ## 資料索引與延伸閱讀
 
 - 🧭 [日治時期臺灣公學校唱歌教材的流動與變化](shoka_genealogy.md)
-- 🔍 [全站歌曲去重統計（887 首不重複歌曲、219 組重複歌曲）](duplicate_songs.md)
-- 🔍 [同一歌名的多個版本（243 組）](same_title_songs.md)
+- 🔍 [全站歌曲去重統計（908 首不重複歌曲、222 組重複歌曲）](duplicate_songs.md)
+- 🔍 [同一歌名的多個版本（105 組）](same_title_songs.md)
 - 🔍 [同詞異曲歌曲（23 組候選）](same_lyrics_songs.md)
 - 🔍 [同曲異詞歌曲（16 組候選）](same_melody_songs.md)
 - 📜 [〈懸賞募集 公學校唱歌教材入選歌詞〉與作詞者名單](kogakko_shoka/lyrics_contest/index.md)
@@ -42,6 +42,7 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 | 《公學校唱歌》 | [第五學年用](kogakko_shoka/grade_5/index.md) | 臺灣總督府編（1936） | 國臺圖 `523.37 4322-4` | 20 首 | [書訊與掃描頁](kogakko_shoka/grade_5/0_book_info/index.md) |
 | 《公學校唱歌》 | [第六學年用](kogakko_shoka/grade_6/index.md) | 臺灣總督府編（1940） | 國臺圖 `523.37 4322-4` | 20 首 | [書訊與掃描頁](kogakko_shoka/grade_6/0_book_info/index.md) |
 | 《公學校高等科唱歌》 | [第一學年用](kogakko_shoka/koto_1/index.md) | 臺灣總督府編（1936） | 國臺圖 `0729 74` | 25 首 | [書訊與掃描頁](kogakko_shoka/koto_1/0_book_info/index.md) |
+| 《公學校高等科唱歌》 | [第二學年用](kogakko_shoka/koto_2/index.md) | 臺灣總督府編（1936） | 國臺圖 `0729 74` | 25 首 | [書訊與掃描頁](kogakko_shoka/koto_2/0_book_info/index.md) |
 | 《うたのほん》 | [下卷](utanohon/ge_2006.006.0878/index.md) | 臺灣總督府編（1943） | `2006.006.0878` | 20 首 | [書訊與掃描頁](utanohon/ge_2006.006.0878/0_book_info/index.md) |
 | 《新定兒童唱歌》 | [尋常科第一學年用](shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md) | 臺灣教育會公認（1930） | `2020.006.0847.0001` | 59 首 | [書訊與掃描頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_book_info/index.md) |
 | 《新定兒童唱歌》 | [尋常科第二學年用](shintei_jido_shoka/grade_2_2020.006.0847.0002/index.md) | 臺灣教育會公認（1930） | `2020.006.0847.0002` | 47 首 | [書訊與掃描頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/0_book_info/index.md) |

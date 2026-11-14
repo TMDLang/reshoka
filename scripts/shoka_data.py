@@ -64,6 +64,7 @@ NORMALIZED_KEY_NAMES: dict[str, str] = {
 }
 
 COLLECTION_LABELS: dict[str, str] = {
+    "jinjo_shogaku_shoka": "《尋常小學唱歌》",
     "kogakko_shokashu_1915": "《公學校唱歌集》",
     "shoka_kyozai_shu_1923": "《新編 小學校・公學校 唱歌教材集》",
     "taiwan_shuyu_shoka": "《臺灣周遊唱歌》",
@@ -76,6 +77,12 @@ COLLECTION_LABELS: dict[str, str] = {
 }
 
 VOLUME_LABELS: dict[str, str] = {
+    "grade_1_4103": "尋常小學唱歌・第一學年（明治44年／1911）",
+    "grade_2_4102": "尋常小學唱歌・第二學年（明治44年／1911）",
+    "grade_3_4079": "尋常小學唱歌・第三學年（明治45年／1912）",
+    "grade_4_4080": "尋常小學唱歌・第四學年（大正元年／1912）",
+    "grade_5_4100": "尋常小學唱歌・第五學年（大正2年／1913）",
+    "grade_6_4078": "尋常小學唱歌・第六學年（大正3年／1914）",
     "kogakko_shokashu_1915": "公學校唱歌集・大正四年版（國臺圖 0725 26）",
     "grade_1_2": "唱歌教材集・尋常科第一、二學年（國臺圖 0725-41）",
     "grade_3_4": "唱歌教材集・尋常科第三、四學年（國臺圖 0725-41）",
@@ -306,7 +313,13 @@ def load_all_songs(
     records: list[SongRecord] = []
 
     tmd_files = sorted(
-        (p for p in docs_dir.rglob("*.tmd") if not p.name.endswith("_piano.tmd")),
+        (
+            p
+            for p in docs_dir.rglob("*.tmd")
+            if not p.name.endswith("_piano.tmd")
+            and "recreations" not in p.parts
+            and "fun" not in p.parts
+        ),
         key=lambda p: natural_sort_key(str(p)),
     )
 

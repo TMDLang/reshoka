@@ -1,0 +1,34 @@
+X:1
+T:海のかなた
+M:4/4
+L:1/16
+Q:1/4=120
+K:A
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! z4 z4 z4 E4 | E6 E2 E4 c4 | e6 B2 A4 z2 A2 | F4 A4 B2 A2 G2 F2 |
+w: フ | ケ ユ ク ウ | ナ バ ラ ヤ | ミ ノ カ ー ナ ー
+!mf! E12 z2 E2 | E6 E2 E4 c4 | c6 B2 A4 c4 | B4 E2 F2 G4 F3 E |
+w: タ ホ | シ カ ゲ マ | バ ラ ニ ウ | シ ホ ハ タ カ ナ
+!f! E12 z2 E2 | B6 A2 G3 F E3 D | C6 D2 E4 z2 A2 | F4 A4 d4 c2 B2 |
+w: ル テ | ン ガ イ ー ハ ー | テ ナ ク ノ | ゾ ミ ハ ヒ ー
+!mp! A8 G4 E4 | E6 E2 E4 c4 | c6 B2 A4 c4 | E6 E2 F4 G3 B |
+w: ロ シ ム | ナ チ ニ ワ | キ ク ル シン | ピ ノ セ カ イ
+A12 z4 | !mf! E6 E2 A4 z3 E | F4 F4 z4 F4 | A4 d2 c2 B3 A G3 F |
+w: ハ | ソ ラ ニ ツ | ヅ ク ウ | ミ ノ カ ナ ー タ ー
+E12 E4 | E6 E2 E4 c4 | c6 B2 A4 c4 | E6 E2 F4 G3 B |
+w: ヨ イ | ザ イ ザ ウ | タ ハ ン モ | ロ ゴ ヱ タ カ
+A12 z4 | !mp! z4 z4 z4 E4 | E6 E2 E4 c4 | e6 B2 A4 z2 A2 |
+w: ク | あ | け ゆ く う | な ば ら お
+F4 A4 B2 A2 G2 F2 | !mf! E12 z2 E2 | E6 E2 E4 c4 | c6 B2 A4 c4 |
+w: き の か ー な ー | た し | ほ ぢ ー は | る け く ひ
+B4 E2 F2 G4 F3 E | !f! E12 z2 E2 | B6 A2 G3 F E3 D | C6 D2 E4 z2 A2 |
+w: は い ー ま の ぼ | る さ | へ ぎ る ー く ー | も な く お
+F4 A4 d4 c2 B2 | !mp! A8 G4 E4 | E6 E2 E4 c4 | c6 B2 A4 c4 |
+w: も ひ は た ー | か し む | げ ん に の | び ゆ く ひ
+E6 E2 F4 G3 B | A12 z4 | !mf! E6 E2 A4 z3 E | F4 F4 z4 F4 |
+w: や く の てん ち | は | そ ら に つ | づ く う
+A4 d2 c2 B3 A G3 F | E12 E4 | E6 E2 E4 c4 | c6 B2 A4 c4 |
+w: み の か な ー た ー | よ い | ざ い ざ す | す ま ん あ
+E6 E2 F4 G3 B | A12 z4 |
+w: し ど り か た | く

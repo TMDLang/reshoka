@@ -296,7 +296,11 @@ def compute_all_origins() -> tuple[dict[str, Path], dict[str, str], dict[str, se
     all_paths: dict[str, Path] = {}
     all_texts: dict[str, str] = {}
     for p in sorted(DOCS.rglob("*.tmd")):
-        if p.name.endswith("_piano.tmd") or "recreations" in p.parts:
+        if (
+            p.name.endswith("_piano.tmd")
+            or "recreations" in p.parts
+            or "fun" in p.parts
+        ):
             continue
         rel = str(p.parent.relative_to(DOCS))
         all_paths[rel] = p

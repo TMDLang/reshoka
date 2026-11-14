@@ -1,5 +1,5 @@
 {
-  "total_corpus_songs": 1230,
+  "total_corpus_songs": 1255,
   "same_melody_different_lyrics_group_count": 16,
   "groups": [
     {
@@ -566,6 +566,23 @@
               "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
               "raw_title": "美しき天然",
               "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "kogakko_shoka/koto_2/20_utsukushiki_tennen",
+          "lyrics": "そらにさへずるとりのこえみねよりおつるたきのおとおおなみこなみどうどうとひびきたえせぬうみのおと",
+          "titles": [
+            "美しき天然"
+          ],
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "kogakko_shoka/koto_2/20_utsukushiki_tennen",
+              "md_file": "kogakko_shoka/koto_2/20_utsukushiki_tennen/index.md",
+              "book_label": "《公學校唱歌》 高等科 第二學年用（國臺圖 0729 74）",
+              "raw_title": "美しき天然",
+              "year": 9999
             }
           ]
         }

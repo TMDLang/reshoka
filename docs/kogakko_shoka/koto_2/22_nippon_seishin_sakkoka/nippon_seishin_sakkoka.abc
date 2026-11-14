@@ -1,0 +1,42 @@
+X:1
+T:日本精神作興歌
+M:4/4
+L:1/16
+Q:1/4=108
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!ff! z4 G3 E D4 G4 | c8 c2 z2 c3 d | A4 d4 c4 A4 | G8 G2 z2 E4 |
+w: ワ ー レ ラ | イ マ ダ イ | チ ニ フ シ | テ ー ツ
+F12 A4 | !f! !mf! G8 E2 z2 G3 F | F4 E4 D4 D4 | !f! E8 E2 z2 C4 |
+w: ツ シ | ミ テ ソ コ | ク ニ チ カ | フ ー オ
+!ff! c12 c4 | !f! c8 c2 z2 c3 d | c4 d4 c4 A4 | G8 A2 z2 E4 |
+w: ホ キ | ミ ノ ミ ー | コ ト カ シ | コ ミ マ
+!f! F12 A4 | c8 G2 z2 G3 A | B4 A3 G A4 d4 | G8 G2 z2 A4 |
+w: コ ト | モ テ ツ ト | メ ン ー ト モ | ニ ー ス
+d6 d2 d4 d2 d2 | d3 e d2 A2 A2 B2 A4 | !f! z4 E3 G A4 B4 | !ff! !f! c8 d2 z2 G3 c |
+w: メ グ ニ ノ コ | コ ロ ノ サ カ エ ー | ス ー メ グ | ニ ノ コ コ
+c4 d3 c B3 A B4 | c8 c2 z2 z4 | !ff! z4 G3 E D4 G4 | c8 c2 z2 c3 d |
+w: ロ ノ ー サ ー カ | エ ー | わ ー れ ら | い ま お ほ
+A4 d4 c4 A4 | G8 G2 z2 E4 | F12 A4 | !f! !mf! G8 E2 z2 G3 F |
+w: ぞ ら あ ふ | ぎ ー た | か ら | か に そ こ
+F4 E4 D4 D4 | !f! E8 E2 z2 C4 | !ff! c12 c4 | !f! c8 c2 z2 c3 d |
+w: く を う た | ふ ー お | ほ み | い つ の ー
+c4 d4 c4 A4 | G8 A2 z2 E4 | !f! F12 A4 | c8 G2 z2 G3 A |
+w: び ゆ く か | な た こ | く み | ん の の ぞ
+B4 A3 G A4 d4 | G8 G2 z2 A4 | d6 d2 d4 d2 d2 | d3 e d2 A2 A2 B2 A4 |
+w: み ぞ ー も ゆ | る ー す | め ぐ に の ひ | や く の し ら べ ー
+!f! z4 E3 G A4 B4 | !ff! !f! c8 d2 z2 G3 c | c4 d3 c B3 A B4 | c8 c2 z2 z4 |
+w: す ー め ぐ | に の ひ や | く の ー し ー ら | べ ー
+!ff! z4 G3 E D4 G4 | c8 c2 z2 c3 d | A4 d4 c4 A4 | G8 G2 z2 E4 |
+w: ワ ー レ ラ | イ マ ダ イ | チ ニ タ チ | テ ー ホ
+F12 A4 | !f! !mf! G8 E2 z2 G3 F | F4 E4 D4 D4 | !f! E8 E2 z2 C4 |
+w: ガ ラ | カ ニ ソ コ | ク ヲ タ タ | フ ー ク
+!ff! c12 c4 | !f! c8 c2 z2 c3 d | c4 d4 c4 A4 | G8 A2 z2 E4 |
+w: ニ タ | ミ ノ チ ー | カ ラ ゾ コ | コ ロ ク
+!f! F12 A4 | c8 G2 z2 G3 A | B4 A3 G A4 d4 | G8 G2 z2 A4 |
+w: ニ タ | ミ ノ コ コ | ロ ゾ ー チ カ | ラ ー ス
+d6 d2 d4 d2 d2 | d3 e d2 A2 A2 B2 A4 | !f! z4 E3 G A4 B4 | !ff! !f! c8 d2 z2 G3 c |
+w: メ グ ニ ノ サ | カ ユ ク ス ガ タ ー | ス ー メ グ | ニ ノ サ カ
+c4 d3 c B3 A B4 | c8 c2 z2 z4 |
+w: ユ ク ー ス ー ガ | タ ー

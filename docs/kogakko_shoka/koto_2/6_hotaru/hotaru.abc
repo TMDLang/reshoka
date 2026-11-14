@@ -1,0 +1,24 @@
+X:1
+T:螢
+M:2/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mf! c4 A2 F2 | A2 G F G2 z2 | c4 d2 c2 | A3 G F2 D D |
+w: ホ タ ル | ホ タ ー ル | ク レ カ | カ ル ヤ ノ ザ
+F2 G2 A2 B2 | c8- | c8- | !p! c4 z2 c c |
+w: ハ ノ ホ ト | リ | _ | _ ハ チ
+c4 A2 c2 | !mf! d4 B2 d d | d4 ^c2 d2 | f4 c2 F2 |
+w: ス ノ ハ | ナ ニ ム レ | テ ハ ハ | ナ レ ヒ
+G2 A2 B2 c2 | d3 B G2 A B | !f! c4 d2 e2 | f6 z2 |
+w: カ ー リ ミ | ダ ル ル オ ー | モ シ ロ | ヤ
+!mf! c4 A2 F2 | A2 G F G2 z2 | c4 d2 c2 | A3 G F2 D D |
+w: ほ た る | ほ た ー る | く れ そ | む る や を が
+F2 G2 A2 B2 | c8- | c8- | !p! c4 z2 c c |
+w: は の な が | れ | _ | _ た ま
+c4 A2 c2 | !mf! d4 B2 d d | d4 ^c2 d2 | f4 c2 F2 |
+w: も の は | な に お ち | て は す | が り ひ
+G2 A2 B2 c2 | d3 B G2 A B | !f! c4 d2 e2 | f6 z2 |
+w: か ー り う | つ ろ ふ お ー | も し ろ | や

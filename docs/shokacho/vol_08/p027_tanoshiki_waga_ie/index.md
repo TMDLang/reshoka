@@ -71,8 +71,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanoshiki_waga_ie.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGROboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQhVQU3pmnlVJYibQBSBXlCfG5yZm5uUk5qUocWlpKTxb0fS4afvjprXPOiY-Xbft_Z6Op_tXAwWfz2qBiXQqaGlxKdoqWFhw2dsqOOlw2Zjom9iBrHjavuvFzKnv98x6MXnNy9ltQM3PZqw10gNCQ6A2sCseN3Q9nbLx2dqepzumPW7oBioxMjAy0DMwMNMzsDAxBioDhateVkG6EheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AV7xYOe9p64pn09pBHt3Q-6y9UwFmP9ApQJ-AtL1Ytf9Zw3KQhu7eFzPnA0WfLul83LwWKK4A9LoCUBio3SlJ4emS5ShiQAN6Hs1caWthAZR_smvK8-2zXqyd82RXz8vmFU8ndAADAqjARS9YTyExR8EtMy8VqAVs4YrdL1bMANqjAQlITQV9BUgwcoGkn-xoeNzQCGI9bu5_3Nyl8Lhp8-OmvUBq9ePmTY-bVz5u7gVKrX_ctAYs1dwHpPYCKYiWFmDswrU0dz9ung02BkNLcx9QIVgL0NymnY-b54PsA-IOoDiE1Q3E84B6wCY2b4JoXQh3GVAbEO0BG9XcCXYeUAfIKe1QzVMfN2183LwK4q1dPTBvQT2yBmiEwosuoAqgK_sVXs5e8XLRisdNi0A6QNHZ0_S4eQZIzbM5HXA1m17OWY5QA_HTs7VLQF56OmfS8ynzgR5QeLF70vPV60FeAWsDm7Z1wuPmRQpPJ-wEW9_7uHkCyDSwB_cDQxmYLaCh3wl15vOObc_W9z5tbXm6Bxg0TavA3lz0uGHz44atIPlnM4AhCLQE6I0JEG-vedwADCRgDIAsXgi2GxQbYMWz1kFVgqIXpKQbmJ6mvgSlNKBioOFtkKABugVoLDCLrkcN16et255NXwoKN6BLQNauBqmnPONAgYKWPhdXSGJefnFGZnZmeGJ6omeqVXB-AbCcyXeoMaipBtmmYGOhZQdmVOem1YIZNQoGCrpwbBqvYAgUMgYydYEkiDYF4hoFE7CIEVBWV8E8HsioATN1gaQRRAikCiIEgRCjoHYQbSBIAchAiCKINqh5IBGocSC2CVAdduNAjqoBmwISMQaLAq2gvvOQzQOFXg1XLWYcOOaUYI-AAhwRAESIwAXRIFyjYAYKYl0QBVSAUAjmwLhgGqQYKgr3Kkgp1DbSTIb6H2sMgwIDZio0EYBDFWYuWAvCaWAWmm1wRCcnw2NJ104BLaIUgELKXAA)]
-- [鋼琴伴奏 TMD 檔案](tanoshiki_waga_ie_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dT_evBgo-n9UCEXncvPtl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKlhYcNnbKjjpcNmY6JvYcdUpKD1t3_Vi5tT3e2a9mLzm5ew2oHHPZqw10gNCQ6A2JZCSxw1dT6dsfLa25-mOaY8buoFKjAyMDPQMDMz0DCxMjIHKAgyMzPWyCtKVuLhCEvPyizMyszPDE9MTPVOtAjKBAkEeDjUGNdVcCkBgY6FlB2ZU56bVghk1CgYKunBsGg9E2oZAUUNtYyBfF0xD2IbapkCyRsEsXtsELAVkGEGUgzRqm4P1GgFVQMXAooYQQZgKkAFwaQiE2wl1DxVshmgzh1gMpCDaYQZDoDFEFGqpEZgHVGoCMQrVYrA41ENwi6HeAzsLZA_CWcZI6iDOGzhPgyRR_A2K5hquWhyJxQc5sZjAE0sBIrFAINDF8SAHAAkQwxiIaxRMQFwwAZYAExCFIHl0MbhmoGmwUCDFTDNsglgMRShBmIpNDLdNtHcpMDp07RTQYkSBaCFlLgA)]
+- [主旋律 TMD 檔案](tanoshiki_waga_ie.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGROboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQhVQU3pmnlVJYibQBSBXlCfG5yZm5uUk5qUocWlpKTxb0fS4afvjprXPOiY-Xbft_Z6Op_tXAwWfz2qBiXQqaGlxKdoqWFhw2dsqOOlw2Zjom9iBrHjavuvFzKnv98x6MXnNy9ltQM3PZqw10gNCQ6A2sCseN3Q9nbLx2dqepzumPW7oBioxMjAy0DMwMNMzsDAxBioDhateVkG6EheXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AV7xYOe9p64pn09pBHt3Q-6y9UwFmP9ApQJ-AtL1Ytf9Zw3KQhu7eFzPnA0WfLul83LwWKK4A9LoCUBio3SlJ4emS5ShiQAN6Hs1caWthAZR_smvK8-2zXqyd82RXz8vmFU8ndAADAqjARS9YTyExR8EtMy8VqAVs4YrdL1bMANqjAQlITQV9BUgwcoGkn-xoeNzQCGI9bu5_3Nyl8Lhp8-OmvUBq9ePmTY-bVz5u7gVKrX_ctAYs1dwHpPYCKYiWFmDswrU0dz9ung02BkNLcx9QIVgL0NymnY-b54PsA-IOoDiE1Q3E84B6wCY2b4JoXQh3GVAbEO0BG9XcCXYeUAfIKe1QzVMfN2183LwK4q1dPTBvQT2yBmiEwosuoAqgK_sVXs5e8XLRisdNi0A6QNHZ0_S4eQZIzbM5HXA1m17OWY5QA_HTs7VLQF56OmfS8ynzgR5QeLF70vPV60FeAWsDm7Z1wuPmRQpPJ-wEW9_7uHkCyDSwB_cDQxmYLaCh3wl15vOObc_W9z5tbXm6Bxg0TavA3lz0uGHz44atIPlnM4AhCLQE6I0JEG-vedwADCRgDIAsXgi2GxQbYMWz1kFVgqIXpKQbmJ6mvgSlNKBioOFtkKABugVoLDCLrkcN16et255NXwoKN6BLQNauBqmnPONAgYKWPhdXSGJefnFGZnZmeGJ6oiewDMwEChg61Oga1lSDbFOwsdCyAzOqc9NqwYwaBQMFXTg2jVcwBAoZA5m6QBJEmwJxjYIJWMQIKKurYB4PZNSAmbpA0ggiBFIFEYJAiFFQO4g2EKQAZCBEEUQb1DyQCNQ4ENsEqA67cSBH1YBNAYkYg0WBVlDfecjmgUKvhqsWRxwYYY-DAhxxAESI8AXRIFyjYAYKZV0QBVSAUAjmwLhgGqQYKgr3LUgp1DbSTIYGAdZIBoUHzFRoOgAHLMxcsBaE08AsNNvgiE5OhkeUrp0CWlwpAIWUuQA)]
+- [鋼琴伴奏 TMD 檔案](tanoshiki_waga_ie_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx0_bHTWufdUx8um7b-z0dT_evBgo-n9UCEXncvPtl957nE7Y82bPl6dL-550d7_d0KmhpcSnaKlhYcNnbKjjpcNmY6JvYcdUpKD1t3_Vi5tT3e2a9mLzm5ew2oHHPZqw10gNCQ6A2JZCSxw1dT6dsfLa25-mOaY8buoFKjAyMDPQMDMz0DCxMjIHKAgyMzPWyCtKVuLhCEvPyizMyszPDE9MTPVOtAjKBAkEeDjW6hjXVXApAYGOhZQdmVOem1YIZNQoGCrpwbBoPRNqGQFFDbWMgXxdMQ9iG2qZAskbBLF7bBCwFZBhBlIM0apuD9RoBVUDFwKKGEEGYCpABcGkIhNsJdQ8VbIZoM4dYDKQg2mEGQ6AxRBRqqRGYB1RqAjEK1WKwONRDcIuh3gM7C2QPwlnGSOogzhs4T4MkUfwNiuYarlocqcUHJbWYwFNLASK1QCDQyfEgFwAJEMMYiGsUTEBcMAGWABMQhSB5dDG4ZqBpsGAgxUwzbIJYDEUoQZiKTQy3TbR3KTA-dO0U0KJEgWghZS4A)]
 
 ## 分析
 
@@ -80,14 +80,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 樂シキ我家（快樂的我家） ]
 ================================================================================
-⏱  Duration:       0:46 (46.4s), 17 measures total
+⏱  Duration:       0:43 (43.6s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 88.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
+🎤 人聲音域:    F4 (MIDI 65) – F5 (MIDI 77) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  F4 in [TanoshikiWagaIe #1 @ m.1, 0:02]
-   - 最高音: D5 in [TanoshikiWagaIe #1 @ m.9, 0:23]
+   - 最高音: F5 in [TanoshikiWagaIe #1 @ m.2, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      TanoshikiWagaIe (46.4s)
+🏛  結構:      TanoshikiWagaIe (43.6s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -97,7 +97,7 @@ tmd_source:
    - 候選調性 (K-S): A# 大調 (0.95), F 大調 (0.72), A# 小調 (0.60)
    - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [TanoshikiWagaIe #1]: A# 大調 (r: 0.95, 自然音純度: 100.0%)
+     • [TanoshikiWagaIe #1]: A# 大調 (r: 0.94, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -124,8 +124,8 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Alto          : F4 – D5 (9 個半音 / 0.8 個八度, 65 個音符)
-  - Soprano       : F4 – F5 (12 個半音 / 1.0 個八度, 65 個音符)
+  - Piano1        : F4 – F5 (12 個半音 / 1.0 個八度, 65 個音符)
+  - Piano2        : F4 – D5 (9 個半音 / 0.8 個八度, 65 個音符)
 ================================================================================
 ```
 
