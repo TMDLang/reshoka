@@ -1,6 +1,6 @@
 ::SCORE::
-~ "tag: collection:kogakko_shokashu_1915"
-~ "tag: volume:grade_6"
+~ "tag: collection:jinjo_shogaku_shoka"
+~ "tag: volume:grade_3_4079"
 ~ "tag: source:school_textbook"
 ~ "tag: source_page:P100"
 ~ "tag: provenance:printed_text"
@@ -15,7 +15,7 @@
 ?= D
 <2/4>
 ~ "文部省《尋常小學唱歌》"
-~ "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
+~ "文部省《尋常小學唱歌 第三學年用》（明治四十五年五月，索書號 4079）"
 
 /* =========================================================================
    原書資訊與歌詞全文（對應 P100.jpg–P101.jpg，第六學年 pp. 94–95）：

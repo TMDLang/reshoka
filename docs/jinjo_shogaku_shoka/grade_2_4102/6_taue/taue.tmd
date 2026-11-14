@@ -1,6 +1,6 @@
 ::SCORE::
-~ "tag: collection:shintei_jido_shoka"
-~ "tag: volume:grade_2_2020_006_0847_0002"
+~ "tag: collection:jinjo_shogaku_shoka"
+~ "tag: volume:grade_2_4102"
 ~ "tag: source:school_textbook"
 ~ "tag: provenance:printed_text"
 ~ "tag: evidence:editorial"
@@ -12,7 +12,7 @@
 ?= C
 <4/4>
 ~ "文部省"
-~ "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
+~ "文部省《尋常小學唱歌 第二學年用》（明治四十四年六月，4102）"
 
 /* =========================================================================
    原書資訊與歌詞全文（對應 P045.jpg，書頁 p. 30，第三學期第 3 首）：
