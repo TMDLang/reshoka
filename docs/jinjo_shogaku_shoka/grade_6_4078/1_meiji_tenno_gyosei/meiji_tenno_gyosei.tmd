@@ -36,7 +36,7 @@
    つくすや人（ひと）のつとめなるらむ。
    ========================================================================= */
 
-MeijiTennoGyosei:Piano@|0|{
+MeijiTennoGyosei:Piano@|-1|{
     <8*>
     /* ================= 第一行 (弱起 1 拍 + 3 小節, P004.jpg) ================= */
     | 0 - 0 - 0 - {mf} 5_ - | 3 - - - 2 - - - | 1 - - - 7_ - 5_ - | 1 - - - 2 - 2 - |
@@ -57,4 +57,4 @@ MeijiTennoGyosei:Piano@|0|{
     L3| ト - - - ノ - ツ - | ト - - - - - - - | メ - - - - - ナ - | ル - - - ラ - - - | ム - - - - - _ - |
 }
 
--> MeijiTennoGyosei[L1] -> MeijiTennoGyosei[L2] -> MeijiTennoGyosei[L3] -> #
+-> MeijiTennoGyosei -> #

@@ -55,4 +55,6 @@ KaikoKinenbi:PianoLH@|0|{
     | 4_ [4] 4_ [1] | 1_ [1] 4_ [4] | 1_ [1] 4_ [5_] | 1_ [1] 1_ 0 |
 }
 
--> KaikoKinenbi[L1] -> KaikoKinenbi[L2] -> KaikoKinenbi[L3] -> #
+-> KaikoKinenbi[L1]
+    -> KaikoKinenbi[L2]
+    -> KaikoKinenbi[L3] -> #
