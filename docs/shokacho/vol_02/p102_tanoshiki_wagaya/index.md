@@ -1,18 +1,18 @@
 ---
-title: "樂しき我家 — 《楊金土手抄唱歌帖》 第 2 冊（II）"
-song_title: "樂しき我家"
+title: "樂しき我家（快樂的我家） — 《楊金土手抄唱歌帖》 第 2 冊（II）"
+song_title: "樂しき我家（快樂的我家）"
 song_id: "shokacho_vol_02_p102_tanoshiki_wagaya"
 collection: "shokacho"
 volume: "vol_02"
-description: "〈樂しき我家〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. クーモーノミヤエノ　タカドノモ バーアヤナシユメーノ　アトソ…"
-keywords: "樂しき我家, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+description: "〈樂しき我家（快樂的我家）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（作詞：大和田建樹／作曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "樂しき我家（快樂的我家）, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
 credits:
-  - "曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）"
+  - "作詞：大和田建樹／作曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）"
 sources:
-  - "唱歌帳（2020.006.0843）P102.jpg–P103.jpg（第 34–35 頁）"
-musical_key: "B,"
+  - "日治時期公學校《唱歌帳》第二冊（2020.006.0843）P102.jpg–P103.jpg（原冊第 34–35 頁）"
+musical_key: "E,"
 meter: "4/4"
 tempo: "84"
 image:
@@ -27,43 +27,55 @@ tmd_source:
   - "tanoshiki_wagaya_piano.tmd"
 ---
 
-# 樂しき我家
+# 樂しき我家（快樂的我家）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="tanoshiki_wagaya.mp3"></audio>
 
-- 曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）
-- 唱歌帳（2020.006.0843）P102.jpg–P103.jpg（第 34–35 頁）
+- 作詞：大和田建樹／作曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）
+- 日治時期公學校《唱歌帳》第二冊（2020.006.0843）P102.jpg–P103.jpg（原冊第 34–35 頁）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P102.jpg–P103.jpg 跨頁手抄五線譜，第 34–35 頁）：
-調性與拍號：變ロ調四分之四拍子（Bb 大調 4/4 拍，二部合唱）
+> [!NOTE]
+> **原頁資訊與歌詞全文**（對應 `P102.jpg` 左頁跨至 `P103.jpg` 右頁之對開手抄五線譜，原冊頁碼 `34`–`35`）：
+> - **調性與拍號**：五線譜調號清楚標示 **3 個降記號**（降 E 大調，`?= E,`）與拍號 `C`（`<4/4>`），為二部合唱五線譜（高聲部音域 Eb4–Eb5，低聲部三度／六度平行和聲）。先前版本誤標為 `?= B,` 且僅轉錄至第 13 小節，今依 `P102.jpg` 與 `P103.jpg` 完整對開五段譜表修復全曲（弱起 + 22 小節）。
+> - **詞曲考證**：採用英國作曲家 Henry Rowley Bishop 名曲〈Home! Sweet Home!〉旋律，配大和田建樹譯詞〈楽しき我家〉（「雲の宮居の高殿も…」；同冊 `p097_hanyu_no_yado` 則為同曲配里見義譯詞〈埴生の宿〉）。
+> - **跨頁裝訂細節**：
+>   1. 第 13 小節第二段首拍於 `P103.jpg` 第三段譜表作長音符號「ー」，承接第 12 小節末拍「は（葉）」字唱「はーをしのべば」。
+>   2. 第 17–19 小節副歌首句跨裝訂中縫（`P102.jpg` 第四段右端 → `P103.jpg` 第三段左端下譜 → `P102.jpg` 第五段左端），歌詞對應「ワ ガ ヤ｜ワ ガ｜ヤ」（`P103.jpg` 第 18 小節首二分音符為同度 `2`、次二分音符為 `7_+2`）。
+>   3. `P103.jpg` 右半頁另以毛筆／鋼筆直書第三段漢字歌詞並附片假名振假名。
+>
+> **1.**
+> クーモーノミヤエノ　タカドノモ
+> スメバアヤナシ　ユメーノアト
+> ツキモルシヅノ　ワガーヤコソ
+> ハルハアリケリ　トコーシヘノ
+> ワガヤ　ワガヤ
+> コヒーシワガヤ　タノシワガヤ
+>
+> **2.**
+> あーれーのをゆけば　ものすごき
+> つきはてるてる　すひーかづら
+> こよひもせどこ　われーをまつ
+> はーをしのべば　さとーこひし
+> わがや　わがや
+> こひーしわがや　たのしわがや
+>
+> **3.（`P103.jpg` 右半頁漢字與振假名歌詞）**
+> 光（ヒカ）り空（ムナ）しく　輝（カガヤ）きて
+> 流（ナガ）人の前（マヘ）を　流れ行く
+> 鳥なく山は　茅葺（カヤブキ）の
+> 心の宿（ヤド）ぞ　なつかしき
+> 我が家　我が家
+> 戀し我が家　樂し我が家
 
 
 ## 歌詞
 
 ```text
-1. クーモーノミヤエノ　タカドノモ
-バーアヤナシユメーノ　アトソ
-キモルシヅノワガーヤコソ
-ハルハアリケット　コーシヘノ
-ワガーヤー　コヒーシワガヤ　タノシワガヤ
-
-2. あーれーのをゆけば　ものすごき
-はーてるてるすひーか　づらこ
-よひもせどこわれーをまつの
-はこをしのべば　さとーこひし
-わがーやー　こひーしわがや　たのしわがや
-
-3.（P103.jpg 右側漢字歌詞）
-光り空しく　輝きて
-流人の前を　流れ行く
-鳥なく山は　茅葺の
-心の宿ぞ　なつかしき
-我が家　我が家
-戀し我が家　樂し我が家
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -74,69 +86,70 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tanoshiki_wagaya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgCGmDNyk-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJCelFhWDHQtxQ0lRYh7EDKAgQlVJRirQ3WmJuZk5SOYCjUrPzLMqTy0uSS3Ki89NzclPAUpraSk8W9H0uHH648beZx0Tn67bpqClxaVoq2BhwmVvq-Ckw2Vjom9iBzLm2exN7_fM8kjNK6pUCMovz0mtVHDKBPq24P2eDo_83FRFheDy1NQSBQj7ya6el80rnk7oeDpl4_s9nWCHAJnP1vY83bEZqMPIwMhAz8DATM_AwsQYqAAUlnpZBemPGiYDmcYgJlDV8zVrFIxNgGLGpgovFzSCDeLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3oxBcr5z1tXfFsWjvQCU839D5r71TA4j6FF9tXAB31rLP7WVfLk11Tnm-f9WLtnPd7ejBdDQw4kE0vVu1_1rAcZEd374uZ84GiL9Z1PW5eCxR_Onv20462Jzu7gQyg7NO1E4B2OyUpPF2yHCirAIwEBaAw0HC0gOUCmWuop_C4af3j5j2PmxeByb7HzfMfNy953LQCxG5oeNy0_3HT6sfNnWCpRSA9QPC4eQJIdRNQz5LHzV2Pm7Y_bl72uHkh1AiQNqBUx-OmvTANTWvBNqwGK20FG7b-cdMasAagbZuRlDb3g9QBSZAZqx43bXzc3AwyDGTqZrC1QCNmAI2Aa0AyCUhC1U2CKYXILoF6BmgzkiA4EIyAgdDYBFbeAyIb1z1umvS4qe1x48THjRvA-oAJfd3jxpmPG6cAkzvM3kZwwDUue9zUDSOBKjaBBbtB2hqXPm7qfNw4GR4IHSBpkGGzHzeuBEo8bgL6Emwn0MLGfY8blwDtQTIepAIoAcxjQNt3Qh3TOPVxIzB2gJZMBhnXOB1ufP_jRohhLdBwgKgAKZ0OlQVKgcTng01ECILDwVgPmHLgafRp_-anjVue7Vn0dO10SMoGJRqIVU9bOx83dT1fuQvstn6gkS_2zAWGDDAYoCqebW18sgsove5pZy_IDw0NQBGgX18s7AFqgCp6uXnp48ZVQP7TjRtB3gUa09P6YiJIG8yi_c0gM9btf9w4D-xwoGpgGAFDGlTuwOzqAMZTD7AEAtkCY8PlgJqmo6gAl1oo6igvDaBAQUufiyskMS-_OCMzOzM8MT2xMtEqIBMoYOhQY1BTDXaUjaGZlh2Yha08Uni6Z-OLrduBWR1YGDzZ0fBs3VYFDQuFpxv6n69v0AGXJtCSRBOLZqD9IINrFAwUdMEQnTaMBxJGIKIGqtIYxNFVMIkHIRDLNB6EIMrBkmBeDUwaKARmgQ2BaoaYDzQbKEgVc8HOhJkLUQdOotiDDBRSu3rAIWVCckgZgu0xj1cwo9D7UGdSbiqK50EQn9-fdq4H5k5yPA53DwxC3Ax1GthemPOgDoM7nh5ersWRk4yw5SQCCd48HsWhEMuAFkN9BXQK3FtgSTCvBiYNSdcwU1CcCuSARGlgMkQhal4CBiAi8AaZuZBIQzEWAeECcAbcSJhhcBvp41Bg6tK1U0BLYApAIWUuAA)]
-- [鋼琴伴奏 TMD 檔案](tanoshiki_wagaya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2oulx4_THjb3POiY-Xbft_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcJlb6vgpMNlY6JvYsdVp6D0bPam93tmeaTmFVUqBOWX56RWKjhlFmfkFwCN8cjPTVVUCC5PTS1RgLCf7Op52bzi6YSOp1M2Ak1VApkAZD5b2_N0x2agDiMDIwM9AwMzPQMLE2OgggBDAyO9rIL0Rw2TgUxjEBOo6vmaNQrGJkAxY1OFlwsawQZxhSTm5RdnZGZnhiemJ1YmWgXnFxQBhRxqdA1rqrkUgMDG0EzLDsyqUTBQ0AVDdNowHkgYgYgaqEpjEEdXwSQehEAs03gQgigHS4J5NTBpoBCYBTYEqhliPtBsoCBVzAU7E2YuRB3UWEOwsHm8ghmFrqWaqShuBUGYoXATYBBiC9QwsEqYgVCj4NbRw5G1mGnKMaeErARlHo_iTohdQHuhngK6BO4rsCSYVwOThqQbmCkoLgVyQKI0MBmiEDWtAsMPEXaDzFzkhAU3AgbhAnAG3EiYYXAb6eNQLIkrIBMoEORBcvrSBqV7oEXaKMUWUBzqQKN4baCjISTE6dpAf0BIuBlgtTAxkDdgqiFyMD7cGoTxsIQIdAZUdoCcANcKjzNwyIBiTRtYKJjEa0PLhWFoO3LqByrGKFnhrkHYAssFMJuQTEd21GDyH65M44OSaUyQ8gwEIhIkqEYAEiAGCIPqIGQxspWaUFklqjhFpmoDSx-QYmDg6dopoIWfAtFCylwA)]
+- [主旋律 TMD 檔案](tanoshiki_wagaya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgCGmDNyk-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK4uTEvPiy1KLMtMzUFCRnpRYVgx0McUdJUWIexBygIEJVflFJRn56UWJBRqVVRmZxSX5RZnJiTnx2Yl4iQlFJRirQg2mJuZk5SA4AKk3PzLMqTy0uSS3Ki89NzclPAUpraSk8W9H0uHH648beZx0Tn67b9n5Px9P9q4GCz2e1wEQ6FbS0uBRtFSxMuOxtFVx1uGxM9E3sQGY_2Tvnxcp57_fMerpk-dNJPc-nbHi6e9ezFTvf7-kHSj2bvQko5ZGaV1SpEJRfnpNaqeCUCQzJAqAlHvm5qYoKweWpqSUKEPaTXT0vm1c8ndDxdMpGoJ1gtz-bvvTZpt3PZjY9mzP_aeuap2t3PFuw8HFDF1DJs7U9T3dsftzQ_XzNGqDWp21dQFONDIwM9AwMzPQMLEyMgYaA4lIvqyD9UcNkINMYxAR5sG8-UDlQn4KxCVDG2FTh5YJGsJVc-loKttQCXAoKCnYK0Yp-_iGusRCOlhbQbqBlLza3v1jR9aKjHegLYAA-bV3xbFq7lhbIbRt6n7V3KiTAXJ6g8HT7MpCO7StetG8Gi4O9ARTv3wwUf7KzG6jl5bTuZ53dz7panuya8nz7rBdr57zf0wPxJlDN80V7FBKMTRKAfk0wNk0A-hQYLRAH6QKd9GLV_mcNy0GO6e59MXM-yBmz4OYAJYFiz3a0Pls669mKmc-X7ALqMFZ42tD9cmbvixUzoBo6gDwFVwVgMgBqANqdAE4oIKvg5iokOAP5HQngxANxRM_zpl3I0Y7k-o6Xq2e8aNwElHo5f_PT-fMVXJNAceWaZArU9mRvH0TuyY7Op7uWAVPb09a1QMbTnZtfLOwBJkSgLNCCxw1NT1s7nnb2Pu_seDZnzYtVS0A-aNqlAHKdk06CwpMdU542t77Y2_mypwUYuqAUYQj024b-5-sbQNbs7nqyby5yXAA9gxIF63qeTd0CCX-g25-t2woKsYUrnuxf93TfSlCsgnJAx9M9G19s3a6grWBkBDcc5DikKFg5D6j0RUPzi7Wd4PB_1rfw-ZQVL7o3Pp3TDclJwJyogCUrKTyd0AuUfdyAmaMeN3Q-m979dF830CsvW3vRsuiLteuBtgL1PVu6F7kAAOoCOvlxQ89LoKmN656uW_d0YyuQAYyPZ-v2P25qetSw7HFD7_s9s59OAOU6hYQCA0vz-IzEvMpSYOkYX5mYkg8Mmc52YEADVQDdBrT7ZXvPi2Xdz_ethNv6dP6W51Pmgy3YD7YSLUC2rwAl-sVzXwBLoi0bgEEGDhaIAgUFQz0FlMiClAHA8H-5bBowtT2bBkzwiGgCye7oRMTO3jkvp24HJqvna5YB0yXQq4-b94C91POsc_-zvqVgo2FR9WzOaqCJIEWN64EB82IixK29T9dOB6ZYiDhIf9MkcCiue9y483HjBqACuH8UFIygzjUHpmBDS6jBTzvXA3M_0MFP-5eCcjfYr092rH2-YzUomyASHVDr09mzgc4H5vjnq9crPGqbhNV3wIICKP1kRzfQm3BFCDMgCRSiCJL7oIUPuMQBh8J6hcdNaxQeNy95v3cOlAdmLQGHDthNCEsVDC2gPgH6AVQCd7RBwhQS8cDsqJBglPC4ofHZmoVo0goJ5vHaRqAyACmQjPXQSrenvaDC62n_sie7lz5bP_v52jZgRn_ZvQfIeD57y7PZO-A-f7ZnETA6IN55smPZy5ktzzvbnza2g_JGz3oIA2YTrCA21ANWamD24yZwBDYvApN9j5vng3zctALEbmh43ARM9KsfN3eCpRbBtOx83LzwcfOEx01AXUseN3c9btoOUty8DCwONgck1QFV39zyuGkt2IrVIJXNrVDDm9cDwxisHmjj5sdNe2Hq-0EqgSTIkFWPmzaCSJD6DpAyUHIDGjIDaAhMPcQcYETBzVwCcypQ_SSYFiRlQH-BHIkQRAkeI0TwNDaBdYNzCTB9AxN6U9vjxongVA40Bth8ACb6mY8bpwDLEJiWJUA2KGM0Lnvc1A0lgYpByjaBzQEKLn3c1AlTP_lxUwdICmTa7MeNK0EiIMOBAQC2F5S79gGNhanHmuWA5k993AiMN6D5k0GmNU6HhUH_48aex00tUDPBbITVUCdNR1HWCCqckAVRgsdYDzU_wJMrJCmCKj1YwoMkS2BahwXo01ZwCQuMlCZgTu983NT1fOUusMgCYEICiYB81Q90xIs9c0HiwOQHjiCwFDBYl0HMebYV2GgB6gKmvTVAqSe7doGK005QTn3cPA-YPMCGTwKaA1QJDEdg1Qg0FqL35ealjxtXAblPN24EhSbQrp7WFxPBzgCldmCSngZMsWAb10Gdvb8ZUlyDzQcqABeEjcDCHBhYQKOAUQ6MVFBFAnVeBzCJ9IBrlAY4GyYF1DIdRQG4FYqijPIGGBQoaOlzcYUk5uUXZ2RmZ4YnpidWJloF5xcAG9n5DjW6hjXVIOsUbCy0wNGrUJ2bVgtmYGsMQorbBnhloqABr93BZSKwhDeBFos6CqDyF9r01MRiFNBdIGtqFAyAdR4MGyoYAUWMgSxdBRMg1FUwBeIaMAmCIBmICEgOxAfRRmARiC4kc8Dm-xjWKMQDRWAYWN6BVQOLI6h6YEEAJudDxZfAxJtWwGWB4k37oaKrgWKdyDJwkyDm7wSKLITZboRme2MT1LQemC2N68C6JkHF2-DiE8HkBqg4SB9ENbAcAbOmQGQae5Ftb1wCFqnhwh-H4OYCLA5BUWcKjClYjUZ81JEXUYZIEWUKhIiIAtYp8MAHBSokMkDiXXDx7WDxZVDxhTBxSCSCdYHEO5ADpbkFJAqPEGCWhwcyyBxg8QwNShAPYgtIBBLQIPFNcPUQ8aXQSAElA0TQTwbbQiDzIFpikIC3BLWKYC054kPeMA5ssbmCGUlBj5xHIGowDULERtNaaNguAuLV8NAHhW8rargDm0uQEFkDFwfFHLD6hYrvRYmPfqgpIDMhfFh8r0K4ABRTTZB4BMUAJAsAK0honKyExwko3IEVFdQmeMYCZylgxQlVD8vWkLiCuBehElj-gsVBmZFAHEKao8hxaAjqnMEbhMRHIimZBRZrCF3QmAPmH7BSEITRyHG4ER4joLCF5AyQOChmkHPUDGicgOITBkFhBRKD5xdo_IJiF5s4ai7bCZMFF2LA5gnEtEZQsYoUc-DcBRIHxQCazeBYhaiFxCuwKYJVnHDOQ-qhQmMNlPXgnVJSCz38eYjkchActUjlIEpqheWiZlCKRo4zXLkOVFUh4hKkGqIWohLdfHBYI-U5UGkJtxtSqqGUgeCcAstv8PCH6AO2HKHioJwEUQ1RC1GJbj7E7lrMJopjTgmO9kkBpH2C3nAwj4cHqRE4gEFBj4gtkAxEBJJJQC0EYJRB0hlyTEBMGm07UCUwjYFwGFbvsJAwBedmssMGoQ3JoNHqFzWMiQxRWKgitEFoYPqDV4tgLSA4gutHotIg6Yl5xNdfunYKaFVYtI9hrAI2YSOwsDIXAA)]
+- [鋼琴伴奏 TMD 檔案](tanoshiki_wagaya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgCGmDNyk-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK4uTEvPiy1KLMtMzUFCRnpRYVgx0McUdJUWIexBygIEJVYhFQPD01NzWvxKogMzEvPz4xOTk_tyAxLxMkpsSlpaXwbEXT48bpjxt7n3VMfLpu2_s9HU_3rwYKPp_VAhF53Lz7Zfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmHDZ2yq46nDZmOib2IHsfbJ3zouV897vmfV0yfKnk3qeT9nwdPeuZyt2vt_TD5R6NnsTUMojNa-oUiEovzwntVLBKRMYVAVAaz3yc1MVFYLLU1NLFCDsJ7t6XjaveDqh4-mUjUA7wf56Nn3ps027n81sejZn_tPWNU_X7ni2YOHjhi6gkmdre57u2Py4ofv5mjVArU_buoCmGhkYGegZGJjpGViYGAMNAUWWXlZB-qOGyUCmMYgJ8nLffKByoD4FYxOgjLGpwssFjWAruUKAwVackZmdGZ6YnliZaBWWn5yY41Cja1hTzaUABDYWWnZgRnVuWi2YUaNgoKALx4YKRkARYyBLV8EECHUVTIG4BkyCIEgGIgKSA_FBtBFYBKILyRyw-T6GNQrxQBEYfty0Hqz6cfMiqPrHzX1gcj5UfAlMvGkFXBYo3rQfKroaKNaJLAM3CWL-TqDIQpjtRmi2NzZBTeuB2dK4DqxrElS8DS4-EUxugIqD9EFUP26cCWZNgcg09iLb3rgELFLDBQ1c8oLSECkoTYEQEZSPmyfAgwfkbUhwgcS74OLbweLLoOILYeKQYAbrAol3IDu7uQUkCg-yx42gSIJ4GGTO46ZuqGdBPIgtIBFIUIDEN8HVQ8SXQoMNFFGIwJkMtgUaNIZxYBlzBTOSwgY5mUHUYBqECK6mtVDPLwLi1fDgAQVAK2rANEPTZdMauDgoaB83bYaK70UJsH6oKSAzIXxYhKxCuAAUlE2QgAYFESQVPW6cDQ20lfBAAwXM4yaomYi0CU6Vjxv3QdXDcgYkMCHuRagEFoxgcVB6hgcyKakNFqoIXdCQBSZAsFIQhNHIYbwRHmIgv0OSFkgcFHLISXIGNMxA4Q2DIL-AxOAJDhr-oNDHJo6aTHfCZMH59HHjVIhpjaCSAylkwckTJA4KITSbwaEOUQsJ98dNLVjFkUKVmDRIckYHBz1SRkeJbVgqbAalCOQwxZVqQaUlIqxBqiFqISrRzQeHBVKaBRUHcLsh2RYlk4NTGiy9wsMHou9xI7QkB6dEiGqIWohKdPMhdtdiVl4BoEZAkAdJ1Zd5vDaoBjPUhkQRiKttAqOAYa8NiQkIDU7iYJUwcbhCiAScCzYWHGFQg1Htg5VoNLMVyU6QJhCGWWqsDcul2uYKJtqg9EdlXyKMw2UT3CkU-g9mI7JRcFvBnoaXP1C9kGyJGvzEupp895rGa2PmXFwp2AclBZvAU3ABIgVDINAH8SBkGg-mwFwoG8wFsZExXAFYMywQyDUCJI8wwzhewYQsI1A1IwwkygggBQ0GdOVGSKpRDcVmLYkhB4w5XTsFtMiL9jGMVcAmbAQWVuYCAA)]
 
 ## 分析
 
 ```text
 ================================================================================
-📊 TMD Song Profile: [ 樂しき我家 ]
+📊 TMD Song Profile: [ 樂しき我家（快樂的我家） ]
 ================================================================================
-⏱  Duration:       0:37 (37.1s), 13 measures total
-🎼 Key & Tempo:    首調基準 B,, != 84.0 BPM, <4/4>
+⏱  Duration:       2:11 (131.4s), 46 measures total
+🎼 Key & Tempo:    首調基準 E,, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A#3 (MIDI 58) – A#4 (MIDI 70) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  A#3 in [TanoshikiWagaya #1 @ m.1, 0:02]
-   - 最高音: A#4 in [TanoshikiWagaya #1 @ m.6, 0:14]
+🎤 人聲音域:    D4 (MIDI 62) – A#4 (MIDI 70) [跨度: 8 個半音 / 0.7 個八度, 難度: easy]
+   - 最低音:  D4 in [TanoshikiWagaya[L1] #1 @ m.1, 0:02]
+   - 最高音: A#4 in [TanoshikiWagaya[L1] #1 @ m.10, 0:26]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      TanoshikiWagaya (37.1s)
+🏛  結構:      TanoshikiWagaya[L1] (65.7s) -> TanoshikiWagaya[L2] (65.7s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
-🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       D# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, A#, F, C, D#
-   - 調性數值:    A# 大調 [相關度: 0.83, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A# 大調 (0.83), D 小調 (0.70), F 大調 (0.55)
-   - 五度圈歷程:   -2
+   - 核心骨幹音:  G, D#, F, A#, G#
+   - 調性數值:    D# 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D# 大調 (0.82), G 小調 (0.71), A# 大調 (0.57)
+   - 五度圈歷程:   -3 -> -3
    - 各段落調性細節:
-     • [TanoshikiWagaya #1]: A# 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [TanoshikiWagaya[L1] #1]: D# 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [TanoshikiWagaya[L2] #1]: D# 大調 (r: 0.82, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
-     [Bb]*              D  
-      Eb               A  
+      Bb               D  
+     [Eb]*              A  
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████████             15.0%
+     C  : ██                         1.7%
      C# :                            0.0%
-     D  : ████████████████████████  27.5%
-     D# : ███████████               12.8%
+     D  : █████                      5.5%
+     D# : ███████████████████       22.4%
      E  :                            0.0%
-     F  : ██████████████            15.6%
+     F  : ██████████████            16.0%
      F# :                            0.0%
-     G  : ██                         2.5%
-     G# :                            0.0%
-     A  : █████                      5.6%
-     A# : ██████████████████        21.1%
+     G  : ████████████████████████  27.9%
+     G# : █████████                 10.8%
+     A  :                            0.0%
+     A# : ██████████████            15.7%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano1        : A#3 – A#4 (12 個半音 / 1.0 個八度, 73 個音符)
-  - Piano2        : A3 – F4 (8 個半音 / 0.7 個八度, 73 個音符)
+  - Alto          : D4 – A#4 (8 個半音 / 0.7 個八度, 148 個音符)
+  - Soprano       : D#4 – D#5 (12 個半音 / 1.0 個八度, 148 個音符)
 ================================================================================
 ```
 
 
 ## 原書掃描頁
 
-![樂しき我家 — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P102.jpg](P102.jpg)
+![樂しき我家（快樂的我家） — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P102.jpg](P102.jpg)
 
-![樂しき我家 — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P103.jpg](P103.jpg)
+![樂しき我家（快樂的我家） — 《楊金土手抄唱歌帖》 第 2 冊（II） 原書掃描頁 P103.jpg](P103.jpg)
 
 

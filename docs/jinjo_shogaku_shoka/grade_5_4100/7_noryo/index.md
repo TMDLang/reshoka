@@ -4,10 +4,13 @@ song_title: "納涼"
 song_id: "jinjo_shogaku_shoka_grade_5_4100_7_noryo"
 collection: "jinjo_shogaku_shoka"
 volume: "grade_5_4100"
-description: "〈納涼〉收錄於日治時期臺灣《尋常小學唱歌》（第五學年用（廣島大學圖書館 ID 4100，大正2年／1913）），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　一日（ひとひ）の汗（あせ）を湯浴（ゆあみ）に流（なが）し 夕顔棚（ゆふがほだな）の下蔭（したかげ）占めて…"
-keywords: "納涼, 尋常小學唱歌, 第五學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈納涼〉收錄於日治時期臺灣《尋常小學唱歌》（第五學年用（廣島大學圖書館 ID 4100，大正2年／1913））（詞：文部省（尋常小學唱歌）、曲：文部省（尋常小學唱歌）），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、一日（ひとひ）の汗（あせ）を湯浴（ゆあみ）に流（なが）し、 夕顔棚（ゆふがほだな）の下蔭（したかげ）占（し）めて、…"
+keywords: "納涼, 尋常小學唱歌, 第五學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省（尋常小學唱歌）"
 schema_type: "MusicComposition"
 is_part_of: "《尋常小學唱歌》 第五學年用（廣島大學圖書館 ID 4100，大正2年／1913）"
+credits:
+  - "詞：文部省（尋常小學唱歌）"
+  - "曲：文部省（尋常小學唱歌）"
 sources:
   - "文部省《尋常小學唱歌 第五學年用》（大正二年五月，索書號 4100）"
 musical_key: "A"
@@ -30,34 +33,36 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="noryo.mp3"></audio>
 
+- 詞：文部省（尋常小學唱歌）
+- 曲：文部省（尋常小學唱歌）
 - 文部省《尋常小學唱歌 第五學年用》（大正二年五月，索書號 4100）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P034.jpg – P035.jpg，書頁 pp. 11–12，第一學期第 10 首）：
-調性與拍號：い長調四分之四拍子（A 大調 4/4 拍），♩= 92，（文部省）
+原書資訊與歌詞全文（對應 P016.jpg，原書 pp. 25–26，第 7 首）：
+調性與拍號：イ長調（A 大調）4/4 拍（弱起半拍），♩= 92
 
 
 ## 歌詞
 
 ```text
-一　一日（ひとひ）の汗（あせ）を湯浴（ゆあみ）に流（なが）し
-夕顔棚（ゆふがほだな）の下蔭（したかげ）占めて
-親子同胞（おやこはらから）一つむしろに
-心をおかぬむつび語り
-むつび語り樂しや
+一、一日（ひとひ）の汗（あせ）を湯浴（ゆあみ）に流（なが）し、
+夕顔棚（ゆふがほだな）の下蔭（したかげ）占（し）めて、
+親子（おやこ）同胞（はらから）一（ひと）つむしろに
+心（こゝろ）をおかぬむつび語（がた）り、
+むつび語（がた）り樂（たの）しや。
 
-二　蚊遣（かやり）のけむり軒場（のきば）をこめて
-綠（みどり）の葉ごし月影涼（つきかげすゞ）し
-裏（うら）の細道節（ほそみちふし）をもかしく
-聞ゆる歌の主（ぬし）は誰（たれ）ぞ
-主は誰ぞゆかしや
+二、蚊遣（かやり）のけむり軒端（のきば）をこめて、
+綠（みどり）の葉（は）ごし月影（つきかげ）すゞし。
+裏（うら）の細路（ほそみち）、節（ふし）もをかしく
+聞（きこ）ゆる歌（うた）の主（ぬし）は誰（たれ）ぞ。
+主（ぬし）は誰（たれ）ぞ、ゆかしや。
 
-三　見渡（みわた）し遠（とほ）き青田（あをた）の上を
-小波（さゞなみ）たてゝ吹き來る夜風（よかぜ）
-風に流るゝ螢火（ほたるび）いくつ
-月影うけて消えつ見えつ
-消えつ見えつ涼しや
+三、見（み）わたし遠（とほ）き青田（あをた）の上（うへ）を
+細波（さゞなみ）たてて吹（ふ）き來（く）る夜風（よかぜ）。
+風（かぜ）に流（なが）るゝ螢火（ほたるび）いくつ、
+月影（つきかげ）うけて消（き）えつ見（み）えつ。
+消（き）えつ見（み）えつ、涼（すゞ）しや。
 ```
 
 ## ABC
@@ -68,8 +73,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](noryo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKyszLyo8vzshPT8wuBdHZiUpwdWX5OaW5qVbpRYkpqfGm8SaGBgYIyeL80qLkVKvi5Iz8_Jz4ktSKkqT8_GyEfEFRfllqXmIeUE1BUWZeSWoKWBFCQWpZZkoqSDo1JbMkvygzMQfJ5tSiYpDzIJbElxQl5hUnF2UWgNyMUFWSkQp0XnFqYnF-XjFCGGhWemaeVUliZnliXnx-WlpmMthwLS2F51t6n23bo6ClxaVoq2BpxGVvq-DIZWOib2IH0v1sWvvL5hXP5zQ-buh6uqH76Y4dTzf0P1274-mUjc_W9ig8X7Pmya4pIP7OLc-nrHjc0P1-T8fTJcufrV38ZFcPUBAo-2xOx_s9Pc-3LHo2e8eLmfMVQGH2fk-nEheXvpaCLbUAl4KCwtO--SA7Nre_WNH1oqMd6MAXK-c9bV0B9ATIWRt6n7V3KgQYGJvoZRWkKzxqmAzimII4QAcCdb5c0KhQUKCnYGgIlDM0Arka6L8dDUD_PZszH8hWMDRQeLlsGtD17_fMAtn4YtX-Zw3LQXZ19wL9BhR93Njycup2oPjT2bOfdrQ92dkNZABln66dAHSDowIwcICSCsDwVQCKgk3qeTRzJSjogSygEniIA-W4QHYAHfC4oQFIPpu-FCj_uHHT48YVQBIo_7hx3bON08GCTY8bZ4NEmiY927n-2dYtIMGmNrD4frDK1c-2Ao0Eqlz1uBFoD1BkOjjMlkx9uXDKs8WzYBq2AqUfN-5-3LgAqBRix5Md3S-mrAVrnv64cf7jxu7HjZOAUk97FzxuanzcuAwcFMtWAf34dELPi-Z5YKVdj5taHjdOfty4_nET0JRuIAnUA_JN45LHTUBy-uOmXqC7wK7Y3wx0OUgPyOw1YOkljxs3v1g173FTF0gFmtCzFUCPAQ1ogQTRrh5gEL2Y1fWycTHYbqBlLUBVEOc_bpwI0t3U9WL3pKcLwCEDEgTavQESYiBXwv3xfNsCsIr9jxtXwo14MRFITgHaCEzMT_duBGYYsBqge4CmgELjcePMx01Af8OC9cXifrCKNoivgUY837LhZePk5-sbwOLA8J0LtmMhOMSBcQh2SBPQV0DjgKHcDzalEehXoBHdwKQMjofdYM1roBoa179YBfQCUGT-4yZInM6DpBig8SA5IB8cp2AjYWG1oxMUVsu6n-1YCPVoUz_QBIjbXzZCfA9MYEC7gCK9L-dOej4FYksTOKwgKoGOAUbwJHDkbeh_tnkRWMVUYCCAUxgkzQGTyrLHTXOfTtgJNOjJPpBPni6Z83LRCnBiA8dT4xxQOgeaAhSFJFKgIqCeF_MWPW9cDQsroP-ASjeDDQUmKqB7l4D0QGIDFMrAKG5c9mwbUDUoWoC-gzDAijBEgdEHDRCgNOVFDxQoaOlzcfnlF1XmWwVkJublO9ToGtZUg6xQsLHQsgMzsJV4Ck_3bHyxdTuwEIGUNi8W9ihowEopTSzqgfZAzUIFj5snKdQAyQ4Y53FzHyjjLFIACTfthqnaBKGWgUWBkiDOfCDuBjG6IIrXQBU3bYcphtpao2CgoAuGENo0HihkCGYaKhgBSWMghomApUEqwarMQGyYMpCCGrBiEASJQFSBLfExrFGAKNaF0gi_wXggzwFZQA-ADAJ5D6Ie5D-QLoQHIaIQH4JYXVAda2A6gJ6E64DYb4Rhf2M3WE8LVEcXUGQdWHwi1LQGuGkg84GmAeWB4o29UP0bgDKTwKzJUB2NMB2Ny6A69sPsN8b0_3yw_9dD7dgPdTUkREAys-H2r4WYBvQ5SBwUGlAd0BAD2QaSmYEeYk1bgfbjTqfgyr4HnDxNQJkeWJbpwKtT_An1cfNUSHJaA3YpkGgApzNQcoMkMGBKhSQ3UMjsh3BWAzEwsYITIUjxQpjiNoj8KkSiJCkFAimEOhALohcjCYJcDQk8iLNBQQWKZojDYYEHClRQ4MGcDtEBcTsscUFcD9PRBtWxCim5AWsbePKBJS1QZINkpsATynRoQlmCkrS6gRiStGZCdczC0NGGlLQeN22DugRoFzBhQZIHxJUgt6G4EhgGIB2gRAVStx4oshosvwKiA-hTWMLbA_XXaoLJaEcnmcloCSj69wDt2AxJCf2QlLESJgwMdhANEYAXhxCxFoiWBZASDpimIMJroTSo-AMaC09S1QW1SAkGiAwUqnPTasEJpkbBHCIDTC_ICQxSnhkBIVAxUD8iKYJNQlKKlMiWQINvMzTA-6FRAUsQID-B2CA51FIQVBqBRBdAowJSIoCiClLWgSJjM3Iia-qEJgtQAgMlC1CpCUowc6HiwFKiEZRQQXLA0gCagECuaIKaB0poIHFwWQqWBdbHUB29KIkMlByQXIJW7oKSESQpgeRmI2ceuCispASFECjpIfu5hVAiA7a7yUtksLQFShjg4mcVJMWshhU_PbCEBIoLaKqaDKk0wWUXSBioBwFAahHpCpSIIKWTETiBmMITCUQMlESM4InJFExDqktYWQWC6MkInHwg0Q8p0EHuRsuhQJfDEgzE6RBRiNuRSwGQThiEqkcqqUDRAlLdBsSQZAAqK0AyoLIENYGtQU5EwBINogbYXIXqmIdqE0g9UhKClTqI0hRaeTVthPsJVpquBYuDSiVIMoGVbNByCupbuE0g9YQquylkllK40wS0boMAkBi43oM3tCBiwEIOGeCp5EAsUPIBQdTqDFo-IacsSKoBiiCVPfiTACxHwqq5Grg5kLIGYj6sBIMFLdwGcGLBH_WgRARLMqCkhGQDVCckulEjD24DOJHgj_LHTTvhbt5Fkh9qubh07RTALXoFIEOZCwA)]
-- [鋼琴伴奏 TMD 檔案](noryo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-pffZtj3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLIy57WwVHLhsTfRM7rjoFpRftu543Ln42deaLpk3P5jQ_bV3zYlXv44auZ9M2PF0362nrpOerlz6dsvHZ2p7HDd1PN3Q_3bHj-fKJz9esebJrytO1O57u3PJ8ygqgjUYGRgZ6BgZmegYWJuZAhoEp0FIlLi6__KLKfKuAzMS8_CAPhxpdw5pqLgUgsLHQsgMz9LUUbNGBwtM9G19s3f6iox1k0Y6GFwt7FDQCDIxN9LIK0jWxqNfSB5tVo2CgoAuGENo0HihkCGYaKhgBSWMghomApUEqwarMQGyYMpCCGrBiEASJQFSBLfExrFGAKNaF0o-bJwGVP27ugPMeN_eBWE2LwAY9btoNVf-4eRNY1-PmZWBxkDxIdD4Qd4NZXVAda2A6mrYjdEDsN8Kwv7EbrKcFqqMLKLIOLD4RaloD3DSQ-UDTgPJA8cZeqP4NQJlJYNZkqI5GmI7GZVAd-2H2G2P6fz7Y_-uhduyHuhoSIiCZ2XD710JMA_ocJA4KDagOaIiBbAPJzEAPsaatQPtxpxhwiuwBJxQThacb-p-vb9BRICrJkJQ-gBRCHYgF0YuRQB43T4V6bQ3U-4-bQZEAkgFFAcRrIC-DvLYdHOT7oTpWAzHI05BABOlYCNfRBtWxCikxPG5cCY9cWMSDogIkMwUejdOh0bgEJeK7gRgS8TOhOmZh6GhDivjHTdugLgHaBYx2SORBXAlyG4orgWEA0gGKcpC69UCR1WD5FRAdQJ_CksUeqL9WE4zkHZ3kRHJ1QS1SFAKRgUJ1blotOAprFMwhMsAYRI5ySP43AkKgYqB-ROIAm4SkFCnal0A9tBkaBP3QwIFFETBywWyQHGqpAcq9INEF0MCB5CBQ4EHKBlDwbEaO9qZOaESBohwUUaBSBhSFc6HiwFzVCEo6IDlg7oFGKcgVTVDzQFEPEgeXPWDZx40gF4N09KJEOyiCkFyCVk6BIhYSuSC52cjJGS4KK1lAIQRKDMh-biEU7U9nzyYr2kFxDMnORuD4M4XHIUQMFING8Lg2BdOQ0h-WuUEQPZbBsQuJHUj5BMqQaEm6uQcen6BYhpbNwFCAhBki24B0wiBUPVLWBoUaSHUbEENiCZS5QDKgzIca_2uQ4xhYBEDUPG4CuQQkMw_VJpB6pBiGZVNE8QMti5s2wv0EK37WgsVB2RgSi7CiAJqxob6F2wRST6jsnkKdshvEAkUyCKKW0tBMjhz_kLgFiiBlYPwRBUvWsNK7Bm4OJMNCzIcVA7AAgNsAjlL8EQSKaljEgiIcyQaoTkikoAYx3AZwVOKPmMdNO-Fu3kWSH2pR2nM-KO05E0R7DtgGfd6x9-W0SS8bVz7Z2f10Sf_TJXOAOfhZd-_TtROebl_2rLMb0jZFbrhBIDBy4hWiDWOBOQ5Im8bHIkSAFEjeBMgziYVRKOqB0rCEQZwhRkDKKBckDVcJUYBUbUCVQqoLXOoRfDMQwywerAiqFdVpkDIJ7hoQha4SJo5sFtwCQh5FdhnEcJircYUGKF517RTAURvtAxRGcIyQOcZgjjIXAA)]
+- [主旋律 TMD 檔案](noryo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKyszLyo8vzshPT8wuBdHZiUpwdWX5OaW5qVbpRYkpqfGm8SaGBgYIyeL80qLkVKvi5Iz8_Jz4ktSKkqT8_Gx0-fiCxPRUqwADQzOETEFRfllqXmIeUHdBUWZeSWoKWDtCQWpZZkoqSLo4OTEvviy1KDMtMzUFIZ9fVAJ0cFFiQUalVUZmcUl-UWZyYk58dmIesuNTi4pBPoS6o6QoMa84uSizAORthKqSjFSgD4tTE4vz84qRbchMz8yzys3PSyoFBooSl5aWwvMtvc-27VHQ0uJStFWwNOKyt1Vw5LIx0TexA2l7sXLe-z2znk1rf9m84vmcxvd7Op5u6H66Y8fTDf1P1-54OmXjs7U97_d0gq14NnsT8Wphqh43dGGqUni-Zs2TXVNA_J1bnk9Z8bihG2TakuXP1i5-sqsHKAiUfTan4_2enudbFj2bvePFzPkKoHgEG8-lr6VgSy3ApaCg8LRvPsiOze0vVnS96GgHOhAYLE9bVwA9AfZk77P2TgVQYtDLKkgHugmiXqGgQE_ByPRRw2QjM5BD16xRMFd4uWwa0I3AYAKZ-2LV_mcNy0EmdvcCfQAUfdy05OXU7UBxoLmOCkAPg5mdwNhQAKoBWbZn44ut25_2doG5QIN6Hs1cCY43kIFPdjQ8bmgEks-mLwUqfty46XHjCiAJVPm4cd2zjdPBgk2PG2eDRJomPdu5_tnWLSDBpjawOMiyx42rn20Fxd7jxlWPG0Ex9rhxOtBYcEgsmfpy4ZRni2fB9GwFqnjcuPtx4wKgaog1T3Z0v5iyFqx_-uPG-Y8bux83TgJKPe1dABEE2934uHEZ1NAXy1Y9XTsBLNf1uKnlceNkkOoJPS-agWkPKLj-cRPQ3G4gCRQHeg7uM7B9Sx43NYBsauoFOhzsxv3NYBWTHzfNBYpCfAoyGuSQNWDVSx43bn6xCmI60PnAkAeq6YI6B4-KZyuawCJAT62DhgvQvQ1NkMDf1QM04cWsrpeNi8GqgC5uAWqChMrjxokgg5u6Xuye9Hz1erACoCDQ0RtgLgQ6GClUnm-DBNf-x40r4aa8mAgMA1CQgLlTgA4A5oKnezeCBYFuBhoHDe3HjTMfN80Dx1wTOJAX94MVtUGCEWjW8y0bXmyHOAQYf3PBNi0ESTU0Pl8PCWRg7EJiqwnsQKDRwBjtBxvXCAkboIWg2AKlhaZucP4G2wEJMFBa2A0WWQM1qHH9i1VA_4KDsAmStOZBHUic0kZwqgM7BCnkd4Ac_WIZqJCApuGmfnAsTX_ZCAlFYC4AGg80o_fl3EnPp0AMhvgK7lRgGEMcvwMSI-BY2LLh2eZFYImp4PAEZglIJgGavgyInk7YCQkqiOlP9rWBucDABhrR_XTJnJeLgOkUmFnACaJxDjiAwR6GSsBFMbNdEzAFzX0xb9HzxtWwaAKGBVD9ZrB6YE4B-nIJNL3gTghAH00EuvTZNmB5CYoysCBIGUqIgUWgTiNOaSOw3gALglIaSnYAGkF5yQsFClr6XFx--UWV-VYBmYl5-Q41uoY11SArFGwstOzADGwFPrgO2dHwYmGPggak1FTQVjBRAFYzwNStAy-uFZ5uX_ZyQaMmFgOAFoMMr1EwUNAFQwhdnZtWq2AaDxQ3BPPN4sEMIKULFANKQBQbgxgGyAqNFIyBJIhdA3QIRJURXBHYLh_DGgWYARD6cfMkoPLHzR1w3uPmPhCraRHYoMdNu6HqHzdvAut63LwMLA6SB4nOB-JuMKsLqmMNTEfTdoQOiP1GGPY3doP1tEB1dAFF1oHFJ0JNa4CbBjIfaBpQHije2AvVvwEoMwnMmgzV0QjT0bgMqmM_zH5jTP_PB_t_PdSO_VBXQ0IEJDMbbv9aiGlAn4PEQaEB1QENMZBtIJkZ6CHWtBVoP_6UtKsHnJLIS0BkJRRQEqkBJxAQBMkYKFQXQJIePLE8bp4K9eYaaFA8bgZFCEgGFB0Qb4K8D_LmdnDw74fqWA3EoACABChIx0K4jjaojlVICQNYEUF1IhIBKFpAMlPgUTodGqVLUBJBNxBDEsFMqI5ZGDrakBLB46ZtUJcA7QImAUhEQlwJchuKK4FhANIBin6QuvVAkdVg-RUQHUCfwpLIHqi_VhOM8B2dFEc4JB6BsYZUYoDETBRMweLG8ILAGFoQgOIXIgoSAalG0Y8U7UvgXtoMDYR-cOCAogjiYQgbJINcgoDEQXkZJL4AHDiQ3AQKPEg5AQqezcjR3tQJjypQpIOiajc4CueCxUDRAmw5QGWAOQkapRDXNUFNBLsBmAxgEQ6su6A6elGiHRRBEFdC3QJMALAyCxatIBIkMxs5OQNFHzeDShiQbeDEB0wI6D5uIRTtT2fPpl8-h8S6LrIQBKLVCJA4hsQSpMwCZUy0pN3cgxyrYB-DRCfDy3tQSIFkQDphEKoeKYuDQhCktg2IIbEFymQgGVAmRE0Fa5DiGlQUwNQA22tgmXmoNoHUI8U0LLsiiiFo-dy0Ee4nWDG0FiwOys6Q2IQUCSA9K5B8C7cJpJ5QeT4FHM9GWOK5fzNx8QyKPmA8gXJpDTing2ITUk4D_YGUV1HjAlIjrYLHB6RuguRCUK4GJxukGEENX1DYgkIWFENoOQpcRyPpBocyapiB-GB2005wiO7CanctF5eunQK4zRXtYxirgOAYIXOMwRxlLgA)]
+- [鋼琴伴奏 TMD 檔案](noryo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-pffZtj3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVLIy57WwVHLhsTfRM7rjoFpWfT2l82r3g-p_FxQ9fTDd1Pd-x4uqH_6dodT6dsfLa2R-H5mjVPdk0B8XdueT5lxeOGbqDpT5csf7Z28ZNdPUBBoOyzOUALep5vWfRs9o4XM-crmBgaGABtVOLi8ssvqsy3CshMzMsP8nCo0TWsqeZSAAIbCy07MENfS8EWHYDt3NHwYmGPgsbTPRtfbN2uoK1gogB01vP1DToKAQaGZnpZBekKT7cve7mgUROLAVr6YMNrFAwUdMEQQlfnptUqmMYDxQ3BfLN4MANI6QLFgBIQxcYghgGyQiMFYyAJYtcAHQJRZQRXBLbLx7BGAWYAhH7cPAmo_HFzB5z3uLkPxGpaBDbocdNuqPrHzZvAuh43LwOLg-RBovOBuBvM6oLqWAPT0bQdoQNivxGG_Y3dYD0tUB1dQJF1YPGJUNMa4KaBzAeaBpQHijf2QvVvAMpMArMmQ3U0wnQ0LoPq2A-z3xjT__PB_l8PtWM_1NWQEAHJzIbbvxZiGtDnIHFQaEB1QEMMZBtIZgZ6iDVtBdqPPyXt6gGnJPISEFkJBZREasAJBARBMgYK1QWQpAdPLI-bp0K9uQYaFI-bQRECkgFFB8SbIO-DvLkdHPz7oTpWAzEoACABCtKxEK6jDapjFVLCeNy4EqoTkQhA0QKSmQKP0unQKF2Ckgi6gRiSCGZCdczC0NGGlAgeN22DugRoFzAJQCIS4kqQ21BcCQwDkA5Q9IPUrQeKrAbLr4DoAPoUlkT2QP21mmCE7-ikOMIh8QiMNaQSAyRmomAKFjeGFwTG0IIAFL8QUZAISDWKfqRoXwL30mZoIPSDAwcURRAPQ9ggGeQSBCQOyssg8QXgwIHkJlDgQcoJUPBsRo72pk54VIEiHRRVu8FROBcsBoqWx42gpAOSAeYkaJRCXNcENRHsBmAygEX448Z-qI5elGgHRRDElVC3ABMArMyCRSuIBMnMRk7OQNHHzaASBmQbOPEBEwK6j1sIRfvT2bPpl88hsa6LLASBaDUCJI4hsQQps0AZEy1pN_cgxyrYxyDRyfDyHhRSIBmQThiEqkfK4qAQBKltA2JIbIEyGUgGlAlRU8EapLgGFQUwNY-besAy81BtAqlHimlYdkUUQ9DyuWkj3E-wYmgtWByUnSGxCSkSQHpWIPkWbhNIPaHyfAo4no2wxHP_ZuLiGRR9wHgC5dIacE4HxSaknAb6AymvosYFpEZaBY8PSN0EyYWgXA1ONkgxghq-oLAFhSwohtByFLiORtINDmXUMAPxweymneAQ3YXV7lqUJpcPSpPLBNHkArYRn3fsfTlt0svGlU92dj9d0v90yRxgBnrW3ft07QRgdnnW2Q1pOyI3pSCwBlKoGcYrmABDMB6YWcB5IF4h2jAWRIFUAClToDBIKtosPjcWVBsCmUZAFkgcqAQWHUSaAtQNyo9AadN4mDzUCFDBC1UJ1QdzH1QUJATUDzIGxgXpQRWCGUaM12DawG5Bk0f4C6YKaBTcK1A1wFjStVMAR1S0D1ArgmOEzDEGc5S5AA)]
 
 ## 分析
 
@@ -77,24 +82,26 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 納涼 ]
 ================================================================================
-⏱  Duration:       0:52 (52.2s), 20 measures total
+⏱  Duration:       2:20 (140.9s), 54 measures total
 🎼 Key & Tempo:    首調基準 A, != 92.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    E4 (MIDI 64) – E5 (MIDI 76) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  E4 in [Noryo #1 @ m.1, 0:02]
-   - 最高音: E5 in [Noryo #1 @ m.14, 0:35]
+🎤 人聲音域:    C#4 (MIDI 61) – E5 (MIDI 76) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C#4 in [Noryo[L1] #1 @ m.3, 0:06]
+   - 最高音: E5 in [Noryo[L1] #1 @ m.11, 0:27]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Noryo (52.2s)
+🏛  結構:      Noryo[L1] (47.0s) -> Noryo[L2] (47.0s) -> Noryo[L3] (47.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, B, C#, E, F#
-   - 調性數值:    A 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A 大調 (0.80), E 大調 (0.73), F# 小調 (0.56)
-   - 五度圈歷程:   +3
+   - 核心骨幹音:  A, E, B, C#, D
+   - 調性數值:    A 大調 [相關度: 0.95, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 大調 (0.95), E 大調 (0.61), F# 小調 (0.58)
+   - 五度圈歷程:   +3 -> +3 -> +3
    - 各段落調性細節:
-     • [Noryo #1]: A 調性不明確 (r: 0.78, 自然音純度: 100.0%)
+     • [Noryo[L1] #1]: A 大調 (r: 0.96, 自然音純度: 100.0%)
+     • [Noryo[L2] #1]: A 大調 (r: 0.95, 自然音純度: 100.0%)
+     • [Noryo[L3] #1]: A 大調 (r: 0.95, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -108,20 +115,20 @@ tmd_source:
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : ███████████████           17.4%
-     D  :                            0.0%
+     C# : ███████████               15.8%
+     D  : ██████                     8.3%
      D# :                            0.0%
-     E  : ██████████████            16.1%
+     E  : █████████████             18.8%
      F  :                            0.0%
-     F# : ████████                   9.4%
+     F# : █████                      6.8%
      G  :                            0.0%
-     G# : ████                       4.7%
-     A  : ████████████████████████  28.2%
+     G# :                            0.0%
+     A  : ████████████████████████  33.8%
      A# :                            0.0%
-     B  : █████████████████████     24.2%
+     B  : ████████████              16.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E4 – E5 (12 個半音 / 1.0 個八度, 68 個音符)
+  - Piano         : C#4 – E5 (15 個半音 / 1.2 個八度, 213 個音符)
 ================================================================================
 ```
 

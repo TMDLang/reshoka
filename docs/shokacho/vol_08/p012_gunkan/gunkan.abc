@@ -1,13 +1,30 @@
 X:1
 T:軍艦（軍艦）
-C:曲：カレー（英 / Henry Carey）
 M:3/4
 L:1/16
 Q:1/4=88
 K:G
-V:V1 name="Piano" snm="Pia"
+V:V1 name="Vocal" snm="Voc"
 [V:V1]
 !mf! G4 G4 A4 | F6 G2 A4 | B4 B4 c4 | B6 A2 G4 |
+w: ワ ダ ノ | ハ ラ ニ | シ マ ノ | ゴ ト ク
 A4 G4 F4 | G8 z4 | !f! d4 d4 d4 | d6 c2 B4 |
+w: ミ ユ ル | ハ | ヨ ス ル | ア ダ ヲ
 c4 c4 c4 | c6 B2 A4 | !mf! B4 c2 B2 A2 G2 | B6 c2 d4 |
-e4/3 d4/3 c4/3 B4 A4 | G8 z4 |
+w: フ セ グ | フ ネ ヨ | ア ヲ ヲ シ _ | タ ケ シ
+e4/3 d4/3 c4/3 B4 A4 | G8 z4 | !f! d4 d4 d4 | d6 c2 B4 |
+w: イ ク サ ブ ネ | ヨ | ヨ ス ル | ア ダ ヲ
+c4 c4 c4 | c6 B2 A4 | !mf! B4 c2 B2 A2 G2 | B6 c2 d4 |
+w: フ セ グ | フ ネ ヨ | ア ヲ ヲ シ _ | タ ケ シ
+e4/3 d4/3 c4/3 B4 A4 | G8 z4 | !mf! G4 G4 A4 | F6 G2 A4 |
+w: イ ク サ ブ ネ | ヨ | ワ ダ ノ | ハ ラ ニ
+B4 B4 c4 | B6 A2 G4 | A4 G4 F4 | G8 z4 |
+w: ヤ マ ノ | ゴ ト ク | ミ ユ ル | ハ
+!f! d4 d4 d4 | d6 c2 B4 | c4 c4 c4 | c6 B2 A4 |
+w: ス メ ラ | ミ ク ニ | マ モ ル | フ ネ ヨ
+!mf! B4 c2 B2 A2 G2 | B6 c2 d4 | e4/3 d4/3 c4/3 B4 A4 | G8 z4 |
+w: ア ヲ ヲ シ _ | タ ケ シ | イ ク サ ブ ネ | ヨ
+!f! d4 d4 d4 | d6 c2 B4 | c4 c4 c4 | c6 B2 A4 |
+w: ス メ ラ | ミ ク ニ | マ モ ル | フ ネ ヨ
+!mf! B4 c2 B2 A2 G2 | B6 c2 d4 | e4/3 d4/3 c4/3 B4 A4 | G8 z4 |
+w: ア ヲ ヲ シ _ | タ ケ シ | イ ク サ ブ ネ | ヨ

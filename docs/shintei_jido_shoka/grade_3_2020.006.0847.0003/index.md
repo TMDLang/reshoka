@@ -32,7 +32,7 @@ image: "0_book_info/P001.jpg"
 | (1) | [**蟲の樂隊（蟲之樂隊）**](2_01_mushi_no_gakutai/index.md) | — | `?=E` `<2/4>` `!=108` | P036.jpg, P037.jpg |
 | (2) | [**八岐の大蛇（八岐大蛇）**](2_02_yamata_no_orochi/index.md) | — | `?=F` `<4/4>` `!=100` | P038.jpg |
 | (3) | [**日の丸のはた（日之丸國旗）**](2_03_hinomaru_no_hata/index.md) | — | `?=F` `<2/4>` `!=116` | P039.jpg |
-| (4) | [**お祭日（祭典之日）**](2_04_omatsuribi/index.md) | — | `?=Eb` `<2/4>` `!=132` | P040.jpg, P041.jpg |
+| (4) | [**お祭日（祭典之日）**](2_04_omatsuribi/index.md) | 作詞：田村富士雄 / 作曲：陳華堤 | `?=E,` `<2/4>` `!=132` | P040.jpg, P041.jpg |
 | (5) | [**日本武尊**](2_05_yamato_takeru_no_mikoto/index.md) | — | `?=A` `<2/4>` `!=66` | P042.jpg |
 | (6) | [**取入れ（秋收）**](2_06_toriire/index.md) | — | `?=F` `<4/4>` `!=116` | P043.jpg |
 | (7) | [**臺灣行進歌**](2_07_taiwan_koshinka/index.md) | 詞：山口充一 / 曲：池田玉子 | `?=G` `<2/4>` `!=112` | P044.jpg, P045.jpg |

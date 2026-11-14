@@ -35,7 +35,7 @@ image: "0_book_info/P065.jpg"
 | P086 | [**白いボート**](p086_shiroi_boto/index.md) | 曲：不詳 | `?=G` `<6/8>` `!=96` | P086.jpg |
 | P087 | [**フリージア**](p087_furijia/index.md) | 曲：不詳 | `?=E` `<4/4>` `!=96` | P087.jpg |
 | P088 | [**同窓會（二部合唱）**](p088_dosokai/index.md) | 曲：不詳 | `?=F` `<4/4>` `!=108` | P088.jpg |
-| P089 | [**小楠公**](p089_sho_nanko/index.md) | — | `?=A` `<6/8>` `!=72` | P089.jpg |
+| P089 | [**小楠公**](p089_sho_nanko/index.md) | — | `?=A` `<6/8>` `!=58` | P089.jpg |
 | P090 | [**曉景（二部輪唱）**](p090_gyokei/index.md) | — | `?=E,` `<4/4>` `!=116` | P090.jpg, P091.jpg |
 | P092 | [**お山の大將**](p092_oyama_no_taisho/index.md) | 詞：西條八十 / 曲：本居長世 | `?=C` `<4/4>` `!=108` | P092.jpg |
 | P093 | [**草花**](p093_kusabana/index.md) | — | `?=B,` `<4/4>` `!=96` | P093.jpg |
@@ -44,7 +44,7 @@ image: "0_book_info/P065.jpg"
 | P097 | [**埴生の宿**](p097_hanyu_no_yado/index.md) | 詞：里見義 / 曲：Henry Rowley Bishop（Home! Sweet Home!） | `?=D` `<4/4>` `!=84` | P097.jpg |
 | P098 | [**君德**](p098_kuntoku/index.md) | — | `?=E,` `<4/4>` `!=96` | P098.jpg, P099.jpg |
 | P100 | [**開校記念日**](p100_kaiko_kinenbi/index.md) | — | `?=D` `<4/4>` `!=100` | P100.jpg, P101.jpg |
-| P102 | [**樂しき我家**](p102_tanoshiki_wagaya/index.md) | 曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱） | `?=B,` `<4/4>` `!=84` | P102.jpg, P103.jpg |
+| P102 | [**樂しき我家（快樂的我家）**](p102_tanoshiki_wagaya/index.md) | 作詞：大和田建樹／作曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱） | `?=E,` `<4/4>` `!=84` | P102.jpg, P103.jpg |
 | P104 | [**美しき天然**](p104_utsukushiki_tennen/index.md) | 詞：武島羽衣 / 曲：田中穗積 | `?=F` `<3/4>` `!=96` | P104.jpg, P105.jpg |
 | P106 | [**カナリヤ**](p106_kanariya/index.md) | 詞：西條八十 / 曲：成田為三 | `?=C` `<4/4>` `!=96` | P106.jpg, P107.jpg |
 | P107 | [**太陽**](p107_taiyo/index.md) | — | `?=B,` `<2/4>` `!=96` | P107.jpg |

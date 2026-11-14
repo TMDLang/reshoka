@@ -20,7 +20,7 @@ image: "0_book_info/back_cover.jpeg"
 | 第 5 課 | [**ながいお休（長假）**](5_nagaioyasumi/index.md) | — | `?=D` `<4/4>` `!=96` | image.jpeg, image2.jpeg |
 | 第 6 課 | [**せみ（蟬）**](6_semi/index.md) | — | `?=C` `<4/4>` `!=96` | image.jpeg, image2.jpeg |
 | 第 7 課 | [**すゐれん（睡蓮）**](7_suiren/index.md) | 木本森太郎 作詞（鶯歌庄柑園公學校・懸賞募集入選原題〈睡蓮〉） | `?=Eb` `<4/4>` `!=100` | image.jpeg, image2.jpeg |
-| 第 8 課 | [**おまつり日（祭典之日）**](8_omatsuribi/index.md) | — | `?=Eb` `<2/4>` `!=132` | image.jpeg, image2.jpeg, image3.jpeg, image4.jpeg |
+| 第 8 課 | [**おまつり日（祭典之日）**](8_omatsuribi/index.md) | 作詞：田村富士雄 / 作曲：陳華堤 | `?=E,` `<2/4>` `!=132` | image.jpeg, image2.jpeg, image3.jpeg, image4.jpeg |
 | 第 9 課 | [**にじ（彩虹）**](9_niji/index.md) | — | `?=C` `<2/4>` `!=72` | image.jpeg, image2.jpeg |
 | 第 10 課 | [**うんどうくわい（運動會）**](10_undokai/index.md) | — | `?=C` `<2/4>` `!=120` | image.jpeg, image2.jpeg |
 | 第 11 課 | [**きしゃ（火車）**](11_kisha/index.md) | — | `?=G` `<2/4>` `!=92` | image.jpeg, image2.jpeg |

@@ -10,8 +10,8 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 ## 資料索引與延伸閱讀
 
 - 🧭 [日治時期臺灣公學校唱歌教材的流動與變化](shoka_genealogy.md)
-- 🔍 [全站歌曲去重統計（908 首不重複歌曲、222 組重複歌曲）](duplicate_songs.md)
-- 🔍 [同一歌名的多個版本（105 組）](same_title_songs.md)
+- 🔍 [全站歌曲去重統計（907 首不重複歌曲、222 組重複歌曲）](duplicate_songs.md)
+- 🔍 [同一歌名的多個版本（104 組）](same_title_songs.md)
 - 🔍 [同詞異曲歌曲（22 組候選）](same_lyrics_songs.md)
 - 🔍 [同曲異詞歌曲（16 組候選）](same_melody_songs.md)
 - 📜 [〈懸賞募集 公學校唱歌教材入選歌詞〉與作詞者名單](kogakko_shoka/lyrics_contest/index.md)
@@ -21,6 +21,7 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 - 📊 [《新編 小學校・公學校 唱歌教材集》大正十二年版專題統計](shoka_kyozai_shu_1923/analysis.md)
 - 📄 [臺史博館藏《楊金土手抄唱歌帖》史料整理筆記](shokacho/research_notes.md)
 - 📑 [《蓬萊唱歌集》存見曲目目次重建](shokacho/horai_shokashu.md)
+- 🕊️ [《蓬萊唱歌集》與大正新童謠運動](shokacho/horai_taisho_doyo.md)
 - 🏛️ [延伸館藏與日本國會圖書館（NDL）數位影像調查筆記](archives/index.md)
 
 ## 教材與抄本叢書

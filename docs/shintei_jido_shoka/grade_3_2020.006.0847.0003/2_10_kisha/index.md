@@ -54,7 +54,10 @@ tmd_source:
 - 調性與拍號：ト調（G 大調），2/4 拍，速度標示「ユクワイニ」（!= 92）。
 - 背景與曲風：描寫搭乘蒸汽火車飛馳過山林、海濱、鐵橋、隧道與廣闊原野，窗外遠村屋頂、近鎮屋簷、
 森林田野有如走馬燈（まはり燈籠）般向後飛逝的鐵道唱歌經典。
-- 版本說明：本檔案為原書單聲部五線譜（附移動 Do 階名片假名）之忠實數位化版本。
+- 版本與記譜校勘說明：
+1. 本檔案為原書單聲部五線譜（附移動 Do 階名片假名）之忠實數位化版本。
+2. 原譜第 1、5、13 小節第一拍均記為附點八分音符加十六分音符（各印階名「ド ド」「ミ ミ」）並附圓滑線／連結線，以兼顧各段字數差異（如第 1 段「イ ー」、第 2 段「と ほ」「ち か」、第 3 段「ま は」「は や」）。
+3. 原譜第 9 小節記為四分音符加兩個八分音符（階名「ソ ラ ソ」，`5_ - - - 6_ - 5_ -`），第 14 小節記為「ソ ソ ソ レ」（`5 - 5 - 5 - 2 -`），為《新定兒童唱歌》刊本之真實譜面特徵（異於文部省原譜之 `5_ 5_ 6_ 5_` 與 `5 5 3 2`）。
 
 ### 編曲說明（鋼琴伴奏版）：
 
@@ -71,7 +74,7 @@ tmd_source:
 おもふまもなく　トンネルの
 やみをとほつて　ひろのはら
 
-二　とほくに見える　むらのかね［やね］
+二　とほくに見える　むらのやね
 ちかくに見える　まちののき
 もりやはやしや　たやはたけ
 あとへあとへと　とんでいく
@@ -79,7 +82,7 @@ tmd_source:
 三　まはり燈籠（どうろう）のゑのやうに
 かはる景色（けしき）のおもしろさ
 見とれてそれと知らぬまに
-早くもすぎる幾十里（いくじふり）
+早くもすぎる幾（いく）十里
 ```
 
 ## ABC
@@ -90,7 +93,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgxMLBEyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM9gnEipKixLzi5KLMApD3EKryi0oy8oE-KciotMrILC7JL8pMTsyJz07MQ_JwSUYq0L9gEwqAGpB1Z6Zn5lnl5ucllQIDCVMiNTMrE8nbWloKzzbufbG76_2ejueNq8GMTgUtLS5FWwVLIy57WwV3LhsjfRM7kEEvVs57v2fWs2ntL5tXPJ_TCDb82exNGGIv2nc9b1z8bOrMF02bns1pftq65sWq3scNfc-mbXi6btbT1knPVy99OmXjs7U9jxv6n27ofrpjx_PlE5-vWfNkR-fTtTue7tzyfMoKkIOAIrt6gCLP5sx_3LwbyDU0eLlsGtCFYGuezul-vrobatna7U_7Nz3tnfW8c-XLJSuetu54Mb0faASE8WLmfKAjQclCD5gs9EDJAsgwMAabxKWvpWBLLcCloKDwuGECMFSez173YtWqZzP6HjdMBIs2737avuvFzKlAl-AIoEag-NOe6cBgerl6xtMFTc9n7nmxEBhGXdgCrhtPwD2bsfbppB4zIP_9nn5DS2NDMKvz_Z4ekEsUFJADFshWMDRQAIbr44YOSFp43ABUikgOQG1P--Y_m70DpNTITOHlgkaQHX3Nz_r7n62aogDKJnpZBelApY8bmiA2PNm17NmUbS97Wp5N2wPx7fMde5_PXfx015zn21cAvQT0M8j-BQvh_kHzBpD7tLfxyY6GF6s2QY2FByHYOSjpDmIK0FmGloZGQANANoDD5-mGfpCR2CwB-WvJcmBAPZ-y4VnL7Of7Wp_snQM2F-YPoIUvVu1_1rD8RUf7s-5eSDJ63NwBFARa5a4A1A5mgoIImEkUgGqArJcN858Cvb9i5vMlux439DxuXva4af3j5vWPm5Y8bu5-3ABU0wHOXqgWNfc8m7keZNHsTS8XAWNxFjB4n65f_WzC2ic7Z7yYtAMYN5Aoebl49stlm1829j3duPHZvOnAdPNs6_Zn-zcCGS8nbH22EmhF48tZy182Tgaa9nT34pfTu4AB9rK9D-i256umP10y7WXjgmdzJz7d2P1yQRMo2e2f-LJvHZD7fMN2IBcSg88WrwMaDgwaoMZnczqfLmt6sXXDy2Vrnrd3AN3_uHHf40agj7qA3OcbFwB98qJjzdMJE5_u6wE5r2Hu81ktQMcA3QAJ-ufbJgOzIsK3zzs7ns0BpnpQBgF5dc4aYEp6trDjedMuSFp7Om3di8ZNwMh9smvK8-2zXqydA7T15cyW58t3P-2equCSr_ByVt_TCb3PO9ufNrYDGUAnPNnZ_XT_gqfrlz2buuPJ3t6nPdMg1oCshWZMiOFABwHLsqetK4DpBxhGT3asBTFWzXuxdj0wt4KKjQ29z9o7kVM22ABganzc0PAEmEMa1wMDH6gPzgWjfWBFUP6yx41LHjdOfNzYBlT0uKn_ceP8x03djxvnPW5cAXZNY9fjpqbHjVtBYQlirHrc2A9S2tzxuHnz4-bex82rHzeuAyttanncuP9x0ySg1seNu8EGLwMpbdz0uKkXqAgcF50gpUDHQzwCDNWnnbOfdfa-bGp5OmcFxLnAFPBib-fzOXuebt_0tGMDMN28bAJmcZAykOLmzS8mTn_evw-o_sWyRmAKg6SnJ7vaoBrnrXk5bfKTffuB2p-v3A9SAE5noMjePfHZrOlAZU_2tQFNhiQ7oDgk5QFjAB6Gu4D5EOhyiEeAobL6xTJgqHSAwgYUTkDUCfYRUBDo3t1gvwMZeyFhthAsgaENlByBUkBtQNQLCbMmYPIE6waGDZCcDiJBSoHRABYEMhohRXMjMPSB7tmBxACWUWBHNk1-3Lj8cSNQQz968AJzEbAsej6n--m-6UDHAHPUiz6wl8H5ChRi-yciK3ixcDowm0EUAHMaKNjBeQyUgVfshDI2AMu-DaBSYPpGIANURLWueNm8F5jynu6cCkL7GiB57OnSKS8agAXzbuSw3QEsUCCBgZw3gbl1JSgZgpIKMCbBwdsETJhAEuivNmBYQkIBGJ5Abd2gYqgTWAoCtQEVTQeGJ1QPNMECAxJo0FSQHnAcAAOpB5zc54IZK57PXwqOwzVgh4DNfjYd6IB-sO6Zjxv7gJY83bkPWLy_bAeV2ZDgfdw4A5QZQOkRMyVv2Pi0uR9eAD3ZAQ7nOdOeT10NDJlnKxaDEt6O3mfTtr9Y1_WsfzZQFuKLp0tmvdy1B1h-vdgGVDP72drFkOh42rr0-dJ5wAAH6gK6F0i-WLYLWH4AkzfQKKBzgSkcFMj7Vz-ds-Hl8tnApA7MBcByBeLoF9uBBQU42IEOpbzVAAUKWvpcXN6ZxRmJVgGZiXn5DjUGNdXg0tjG0EzLDszC1lgB1-fAYFi3VUHDRAFY4z1f36ADL7xAsgqGCsCWhCYWrUArocYCTbAC5pol4AJ6DxDPA-J-hRoguQTK6wLKrwbKA8Wg6iBqYOrmgWsOEEAydlcP0NjGFeAUthuIgcobV4OUN-6HWNTYATSuG2psAzjrdgJF14GKPbC6tejG1gD9owuEhmAahCEixkBsBBcxiwcrAlKmIBZEECQNgwYgEbCBPoYQL0HEQR4Bkf1gHSDvI8S6QCQwEMAyUB2wYEDWA1INgyDbofYYgfyzAqILGhogFtQ8YIhAXQAME5A93VB7GiCi0HABsVqgOtZit8cYJLcPatZ6oHqwuxtXQnW1gc3oBYuB2WBTQTZNhOqBhD5MHqQH5EZUm_AnyF09-BKkEUUJsg2IW4ByG4F4GSTlNIN8CU1RzauB7H1g0Q6cKXIhpMwjlCKBoQhSCxEHhgoQg0R7MZIkKPGBkiCIBmFIWgNhUyiGqDFWMIEnVFhCJi09gmMM6H9QHG4Ek8ugMuvBPFAqAoUBiA1KA5BwwJ0eF0LjHBIWRKRHcMqC6IOmR1j6AYYL7vQI0g1LkcimgdIcsFoBk5A0CTMNktuaEPLgNAuSmYphD4HisRNfajQmOjWuAqfGRUA8FZruQKkSxAcVjuuhYqBUB2zEAXEvOCZAYn3opRg8KQI9CCr0QAa0QBMdKDEDEzjQ0wix-WBVIFGgLJAHCTqMdAgu7KAFHzDdgQMHQoEJZFFYKWpOXPm4ChZ_QP-CSFAcwMo6mBgkxkDxi0h1sJCApUpIaOBMj-D4hpR3ENNgZR0k1UBKJUhqgMnMh6qHBA5IHiQCS1u40iMidYNKZGDjBaoHlJuArRm4GEQeJAOyFVYOrwHLQPMXqaXj09mz8aVHE2LTI7BugpWO84F4EzTUHzfPhpSQwLICkiInAfFaqMo-eDm6EleSbAQnSXCZtwKId4D92ATnQepzSF0GbCJDVS4HYkiN3Y-RKjFLR1ipCMKQspCk0hFcK0NSFyiuQX5HpDmQ_-FlJLi8hIQBiLcWTILSH6JEBdWLuEpHeGqEpBKg7yExDimVEGKIVAJJTZPBYsvBJCydguzDlRpB6RaWhsGlMDgfgGRmwl0AdjW83ITkBEiJPQNMboXIgPMNqj21XFy6dgrgxiXYTiBHmQsA)]
+- [主旋律 TMD 檔案](kisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgxMLBEyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTkFyZWlQM9gnEipKixLzi5KLMApD3EKryi0oy8oE-KciotMrILC7JL8pMTsyJz07MQ_JwSUYq0L9gEwqAGpB1Z6Zn5lnl5ucllQIDCVMiNTMrE8nbWloKzzbufbG76_2ejueNq8GMTgUtLS5FWwVLIy57WwV3LhsjfRM7kEEvVs57v2fWs2ntL5tXPJ_TCDb82exNGGIv2nc9b1z8bOrMF02bns1pftq65sWq3scNfc-mbXi6btbT1knPVy99OmXjs7U9jxv6n27ofrpjx_PlE5-vWfNkR-fTtTue7tzyfMoKkIOAIrt6gCLP5sx_3LwbyDU0eLlsGtCFYGuezul-vrobatna7U_7Nz3tnfW8c-XLJSuetu54Mb0faASE8WLmfKAjQclCD5gs9EDJAsgwMAabxKWvpWBLLcCloKDwuGECMFSez173YtWqZzP6HjdMBIs2737avuvFzKlAl-AIoEag-NOe6cBgerl6xtMFTc9n7nmxEBhGXdgCrhtPwD2bsfbppB4zIP_9nn5DS2NDMKvz_Z4ekEsUFJADFshWMDRQAIbr44YOSFp43ABUikgOQG1P--Y_m70DpNTITOHlgkaQHX3Nz_r7n62aogDKJnpZBelApY8bmiA2PNm17NmUbS97Wp5N2wPx7fMde5_PXfx015zn21cAvQT0M8j-BQvh_kHzBpD7tLfxyY6GF6s2QY2FByHYOSjpDmIK0FmGloZGQANANoDD5-mGfpCR2CwB-WvJcmBAPZ-y4VnL7Of7Wp_snQM2F-YPoIUvVu1_1rD8RUf7s-5eSDJ63NwBFARa5a4A1A5mgoIImEkUgGqArJcN858Cvb9i5vMlux439DxuXva4af3j5vWPm5Y8bu5-3ABU0wHOXqgWNfc8m7keZNHsTS8XAWNxFjB4n65f_WzC2ic7Z7yYtAMYN5Aoebl49stlm1829j3duPHZvOnAdPNs6_Zn-zcCGS8nbH22EmhF48tZy182Tgaa9nT34pfTu4AB9rK9D-i256umP10y7WXjgmdzJz7d2P1yQRMo2e2f-LJvHZD7fMN2IBcSg88WrwMaDgwaoMZnczqfLmt6sXXDy2Vrnrd3AN3_uHHf40agj7qA3OcbFwB98qJjzdMJE5_u6wE5r2Hu81ktQMcA3QAJ-ufbJgOzIsK3zzs7ns1ZA3TfixUzXqydA0oH3TMg-QXoc4gLDPUUgGqAKezZwo7nTbsgafDptHUvGjcBI_3JrinPt88C6gW65uXMlufLdz_tnqrgkq_wclbf0wm9zzvbnza2AxlApz3Z2f10_4Kn65c9m7rjyd7epz3TINbDU6uRngLQdKBZ4MwADAJTIDY0VgAmnufrG8BppgEYt0_ngpwLdArQvpe75z1tXf20o-3l_M3P1yx72rUAmFqftq6Fi4AKnwktT3s3QNwDTgidQK8DoxzCmQ_kzAenhs4nO5YBjXw6Z_Kz3ROBngJm2pcNi59vnQBm9zzZvfRp656XC5cDzXu2buvTtdOB_ni6fd3zqRtAlixrArtaASgFMrdpCdDcPWBLGsEZFibRuELhceNuqO2NC4EcUFqEqjKGq9oHlFgPU7Ve4XFTC8SN8MAyRg4sS2gYQcLl6ezZKCHSuvIpsJxCCiZQXMGDo2kv0KUrgTbsBdvQk2Aar6ALhmYgBoiXAMlbYA-aoFgFMwCGm4GxCcpYCaYgrVBshDABpANHOdrRBUwLwDTyfM58YBoBeuzl3EXPO3c-3bcVVApO3QAswhDlDNjnQMUKINcCEdCppvEJCsCUDBQBWmqsYASyEhRa0LoAkm6BdgGrz6etK4BGARU_2bEWxFg178VaYGBPBMXjht5n7Z3IhSnYAGDKe9zQ8ARYKDeuB-Z3oD44F4z2gRVB-cseNy553DjxcWMbUNHjpv7HjfMfN3U_bpwHjHywaxq7Hjc1PW7cCsq-IMaqx439IKXNHY-bNz9u7n3cvPpx4zqwUmC8N-5_3DQJqBWUbEAGLwMpbdz0uKkXqAic_TtBSoGOh3gEmHOfds5-1tn7sgmYmFdAnAsM_Bd7O5_P2fN0-6anHRuARdXLJmCtAlIGUty8-cXE6c_79wHVv1jWCCzUIEXYk11tUI3z1rycNvnJvv1A7c9X7gcpABdtoPJl98Rns6aDMsi-NqDJkJIOKA4p7IAxAA_DXcB4Broc4hFgqKx-sQwYKh2gsAGFExB1gnwE8vJaSDgtBOUOTKWgUg8oBfQ8EPVCwqkJWAqCtQLDA0hOB-cYoFJg0IMFgYxGSAugERjiQDfsQGIAq0Kww5omP25c_rgRqKEfPUiBhTWwyns-p_vpvulAxwAL7hd9YG-Ci29QKO2fiKzgxcLpwNIcogBYoIOCGlyUg-qJFTuhjA3AKnYDqLKZvhHIANWErSteNu8FpranO6eC0L4GSFH-dOmUFw3A-h9YcCDCcwcwfUMCA7kKAFYKK0FJD5Q8gLEHCVJgYoQEbBswLCGhAAxPoLZuUG3XCaxsgdqAiqYDwxOqB5pIgQEJNGgqSA84DoCBBCyRgEl8Lpix4vn8peB4WwN2CNjsZ9OBDugH6575uLEPaMnTnfvANoACFmg8sIx-2Q5uBKEk2g0bnzb3w6u3JzvAwTtn2vOpq0EF_4rFoDS2o_fZtO0v1nU9658NlIU4_umSWS937QHWji-2AdXMfrZ2MSQWnrYufb50HjCcgbqAzgSSL5btAhYawJQMNAroSmBiBoXt_tVP52x4uXw2MFUDEzyoVAe778V2YJkADm2gQylvk0KBgpY-F5d3ZnFGolVAZmJevkONQU01uEi3MTTTsgOzsDWFwa1FYDCs26qgASuDdeDlFEgWWPkA26maWLQCrYQaCzTBCphZloCr_z1APA-I-xVqgCSowgLxuoDyq4HyQDGoOogamLp54OoHBJCM3dUDNBZYtYES1m4gBipvXA1S3rgfYlFjB9C4bqixDeAcC6yGG9eBSjiwurXoxtYA_QOqhQzBNAhDRIwhNQpUBFxHgasqcLUFEQRJw6ABSARsoI8hxEsQcZBHQGQ_WAfI-wixLhAJDASwDFQHLBiQ9YBUwyDIdqg9RiD_rIDogoYGiAU1DxgiUBcAwwRkTzfUngaIKDRcQKwWqI612O0xBsntg5oFaiOA3d24EqqrDWxGL1gMzAabCrJpIlQPJPRh8iA9IDei2oQ_Qe7qwZcgjShKkG1A3AKU2wjEyyAppxnkS2iKal4NZO8Di3bgTJELIUUdoRQJbm4B22JgcWCoADFItBcjSYISHygJgmgQhqQ1EIY1diBqjBVM4AkVlpBJS4_gGAP6HxSHG8HkMqjMejAPlIpAYQBig9IAJBxwp8eF0DiHhAUR6RGcsiD6oOkRln6A4YI7PYJ0w1IksmmgNAesTcAkJE3CTIPktiaEPDjNgmSmYthDoHjsxJcajYlOjavAqXEREE-FpjtQqgTxQYXjeqgYKNUB22tA3AuOCZBYH3opBk-KQA-CCj2QAS3QRAdu1oM9jRCbD1YFEgXKAnmQoMNIh5htdJggmEAWhZWi5sSVj6tg8Qf0L4gExQGsrIOJQWIMFL-IVAcLCViqhIQGzvQIjm9IeQcxDVbWQVINpFSCpAaYzHyoekjggORBIrC0hSs9IlI3qEQGtlmgekC5CdiIgYtB5EEyIFth5fAasAw0f5FaOgL7YfjSowmx6RFYN8FKR1BvdRM01B83z4aUkMCyApIiJwHxWqjKPng5uhJXkmwEJ0lwmQfqlO4A-7EJzoPU55C6DNgyhqpcDsSQGrsfI1Vilo5o3UBSS0dwrQxJXaC4BvkdkeZA_oeXkeDyEhIGIN5aMAlKf4gSFVQv4iod4akRkkqAvofEOKRUQoghUgkkNU0Giy0Hk7B0CrIPV2oEpVtYGgaXwuB8AJKZCXcB2NXwchOSEyAl9gwwuRUiA843qPbUcnHp2imAG5fRPoaxCgiOETLHGMxR5gIA)]
 - [鋼琴伴奏 TMD 檔案](kisha_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2ce-L3V3v93Q8b1wNZDxu3v2ye8_zCVue7NnydGn_886O93s6FbS0uBRtFSyNuOxtFdy5bIz0Tey46hSUXrTvet64-NnUmS-aNj2b0_y0dc2LVb2PG_qeTdvwdN2sp62Tnq9e-nTKxmdrex439D_d0P10x47nyyc-X7PmyY7Op2t3PN255fmUFSCrgSK7eoAiz-bMBzoAyDU0eLlsGtBmJZA1T-d0P1_dDbVs7fan_Zue9s563rny5ZIVT1t3vJjeDzQCwngxc_77PbOMDIwM9AwMzPQMLEzMgQwDY7BJXPpaCrbUAlwKCgqPGyY8m73p-ex1L1atejaj73HDRLBo8-6n7btezJwKdAmOAGoEij_tmQ4MpperZzxd0PR85p4XC4Fh1IUt4LrxBNyzGWufTuoxA_Lf7-k3tDQ2BLM63-_pAblEQQE5YIFsBUMDBWC4Pm7ogMT64wagUmjEQ7Q97Zv_bPYOkFIjM4WXCxpBdvQ1P-vvf7ZqikKAgYmlXlZBOlDp44YmFL-C9W0C-vjZtPaXzSuez2mEOB8UM0uWA934fMqGZy2zn-9rfbJ3DlglkhEvVu1_1rD8RUf7s-5eSAw-bu4ACgI1uysAtYOZINcB050CUA2Q9bJh_tNdyxTAiRJh0PPtK4BmQ2IDqBkzIQONhgSMoZ7C085eoLiChmdeSVG-joKJwtMN_c_XN2gC1TzdMxUYvsBQeDp79rN1W18snAv05ctZy182TgZG3stlm1-uaAT6-GV73_NZLUC7nuxa92xF09P-pUCXPZvT-XRZEyRMX27e8nzN7KdT5z9f0Q11pYKCkZ7Ckx27gWEDcZiChndmcUaijoKhGdQFCoenKxgrAO0FO6V_87PO7md7poD8sL4BSL5ctw5oJdBikCnTu5_u636_ZzbEaCB4un0ZUP2T3Uuf9TQ-39XzZEfvs2nbgYqftq5-2tH2cv7m52uWPdm15Nns_UD203lAvT3PVix8NnnNi0k7gIkC4m4Q2rPq6ZwVLydsfbEbaEjX06VTgN4G-bZvxcuGTU-7ZkP9Q3lOggIFLX0uLnBcWAVkJublB3k41BjUVIM9ZmNopmUHZtUAQ0YXCI3BNAjXKJgCSRg2AotA5EzANETEEKwLAg1AIly1KLb5INtmAbfMMF4h2jBWwRRCAa0CMkwhfCAFlgeykbkgdSBsALECHLf4PIStTAJn2x0NwBSgoAFPlliUAUMM6kywvwzBNAhDRGC-h4iYxYMVASmgc2GCIGnUYAEZ6GNYo_C4aQlU_HHzPDDZD9bxuBkkDhPrApFNqyEyUB0gOYhqhB6QahgE2Q61xwgo17gCoqtxNxCDdTVCzWvcD3NBYwfYnm6oPQ0Q0aZOoMw6MKsFqmMtdnuMQXL7oGatB6oHu7txJVRXG9iMXrAYmA02FWTTRKiedVA7IPIgPSA3otqEPzp39RAfnZhJHBRPIAxL5sQlccJxCfZtM9hnTRvB5DKozHowDxQDj5tBfn3cBAo_kAwoLnDF5UJoeHUTG5fgWIHog8YlLOwbQfGBKy5BumGxiWwaKL4eN04Hk5D4hJkGSalNCHlwfINkpmLYQyBjdhIfk-CsBs12wJgDGw-hwASyKCwPmxOXO1fBQqB5EZgE-QKW02BiED-DQggRb4-bNwMxOGzA8QqS6cMe0qAYBYcYJLdBTIPlNEi4Q_IEJDxhMvOh6ltgqsAisNjBFaOI9AEqDx439UD1gNLj48a5cDGIPEgGZCusFFgDloGmUFLzJqSSJztvklf9wGMSXJ5CYgYUTo-bN0F8AY6vx82zwSQ4nMG5FSQzCcxbCyZBcYfIz6ASDVfehMckJIQbd0BDC5InEGKIEIbExGSw2HIwCYtjkH24YhIU57D4B5cB4DQEkpkJdwHY1fBcC0lFkPJiBpjcCpEBpzlUe1DrVKzVNnWqVLSaH50PzLrRZrmxcBq5bQCq-6lXG5DXBgFShJ1BYlEGssAIZg86H7czCbqDpAxIcZNM104B3PBTADLASSnaByiJ4Bghc4zBHGUuAA)]
 
 ## 分析
@@ -99,14 +102,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 汽車（火車） ]
 ================================================================================
-⏱  Duration:       0:20 (20.9s), 16 measures total
+⏱  Duration:       1:02 (62.6s), 48 measures total
 🎼 Key & Tempo:    首調基準 G, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Kisha #1 @ m.3, 0:03]
-   - 最高音: D5 in [Kisha #1 @ m.6, 0:07]
+   - 最低音:  D4 in [Kisha[L1] #1 @ m.3, 0:03]
+   - 最高音: D5 in [Kisha[L1] #1 @ m.6, 0:07]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Kisha (20.9s)
+🏛  結構:      Kisha[L1] (20.9s) -> Kisha[L2] (20.9s) -> Kisha[L3] (20.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -114,9 +117,11 @@ tmd_source:
    - 核心骨幹音:  G, B, D, A, E
    - 調性數值:    G 大調 [相關度: 0.85, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.85), D 大調 (0.71), B 小調 (0.65)
-   - 五度圈歷程:   +1
+   - 五度圈歷程:   +1 -> +1 -> +1
    - 各段落調性細節:
-     • [Kisha #1]: G 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Kisha[L1] #1]: G 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Kisha[L2] #1]: G 大調 (r: 0.85, 自然音純度: 100.0%)
+     • [Kisha[L3] #1]: G 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -143,7 +148,7 @@ tmd_source:
      B  : █████████████████████     23.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 53 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 159 個音符)
 ================================================================================
 ```
 

@@ -1,11 +1,18 @@
 X:1
-T:進軍 進軍
+T:進軍（進軍）
 M:4/4
 L:1/16
 Q:1/4=130
 K:G
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
-z14 D2 | G2 G2 A2 A2 d2 B2 G2 G2 | A3 F D4 z6 D2 | G2 G2 A2 A2 B4 z2 B2 |
-A2 G2 A2 B2 G4 z2 G2 | d2 d2 d2 B G A4 z2 A2 | B2 B2 B2 d B A4 z2 D2 | G3 A B3 c d4 z2 G2 |
-B4 A4 G4 z4 |
+z2 z2 z2 z2 z2 z2 z2 D2 | D3 D G3 B d4 z2 B2 | G3 G B3 G A4 z2 E2 | E3 E A3 E E4 z2 D2 |
+w: イ | サ ム ヘ イ シ カ | ズ ヲ シ ラ ズ ナ | ラ ビ ナ ラ ブ ア
+G3 G A3 B G4 z2 B2 | B3 B e3 B d4 z2 B2 | d3 d B3 G A4 z2 D2 | D3 D B3 D G4 z2 B2 |
+w: ノ ツ ツ サ キ ラッ | パ ノ ヒ ビ キ キ | ク モ ユ カ イ タ | タ タ タ タ タ タ
+A3 A G3 F G4 z2 D2 | D3 D G3 B d4 z2 B2 | G3 G B3 G A4 z2 E2 | E3 E A3 E E4 z2 D2 |
+w: タ タ タ タ タ い | さ む へ い し せ | ん か ま ん か そ | ろ ひ そ ろ ふ あ
+G3 G A3 B G4 z2 B2 | B3 B e3 B d4 z2 B2 | d3 d B3 G A4 z2 D2 | D3 D B3 D G4 z2 B2 |
+w: の く つ お と け | た つ る ち り み | る も かっ ぱ つ と | と と と と と と
+A3 A G3 F G4 z2 z2 |
+w: と と と と と

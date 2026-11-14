@@ -1,13 +1,26 @@
 X:1
-T:燕 燕子
+T:燕（燕子）
 M:4/4
 L:1/16
 Q:1/4=96
 K:F
 V:V1 name="Vocal" snm="Voc"
 [V:V1]
-z10 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 C2 D2 C4 | F3 F F2 z2 F2 _E2 G4 |
-F8 z8 | C16 | C2 C2 D2 C2 D2 _E6 | F4 G4 A2 z2 A4 |
-A3 G d2 c2 B2 A6 | B4 G4 c8 | C16 | C2 C2 D2 C2 D2 _E6 |
-F4 G4 A2 z2 A4 | A3 G F2 _E2 F2 G6 | F8 z8 | A2 G2 F12 |
-C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 | G3 G G2 z2 C2 _E2 G4 | F8 z8 |
+z10 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 C2 D2 C4 | F3 F F2 z2 F2 E2 G4 |
+w: コ ヨ ヤ | ツ バ メ コ ヨ ヤ | ツ バ メ ナ レ ガ | フ ル ス ワ ス レ
+F8 z6 C2 | C4 C4 D2 C2 D2 E2 | F4 G4 A4 z2 A2 | A6 G2 d2 c2 B2 A2 |
+w: ズ ヒ | モ ウ ラ _ ラ _ | カ _ ノ ハ | ル ノ _ _ ヤ _
+B4 G4 c4 z2 C2 | C4 C4 D2 C2 D2 E2 | F4 G4 A4 z2 A2 | A6 G2 F2 E2 F2 G2 |
+w: マ _ ニ ハ | ナ モ サ _ カ _ | リ _ テ ナ | レ ヲ マ _ テ _
+F8 z2 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 | G3 G G2 z2 C2 E2 G4 |
+w: リ コ ヨ ヤ | ツ バ メ コ ヨ ヤ | ツ バ メ ナ レ ガ | フ ル ス ワ ス レ
+F8 z2 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 C2 D2 C4 | F3 F F2 z2 F2 E2 G4 |
+w: ズ こ よ や | つ ば め こ よ や | つ ば め な れ が | と も も さ そ ひ
+F8 z6 C2 | C4 C4 D2 C2 D2 E2 | F4 G4 A4 z2 A2 | A6 G2 d2 c2 B2 A2 |
+w: て き | よ き を _ が _ | は _ の き | し べ に _ あ _
+B4 G4 c4 z2 C2 | C4 C4 D2 C2 D2 E2 | F4 G4 A4 z2 A2 | A6 G2 F2 E2 F2 G2 |
+w: を _ く く | さ も も _ え _ | い _ で な | れ を ま _ て _
+F8 z2 A2 G2 F2 | C3 C C2 z2 B2 A2 G4 | D3 D D2 z2 c2 B2 A4 | G3 G G2 z2 C2 E2 G4 |
+w: り こ よ や | つ ば め こ よ や | つ ば め な れ が | ふ る す わ す れ
+F8 z8 |
+w: ず

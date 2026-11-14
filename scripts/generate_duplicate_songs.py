@@ -172,6 +172,22 @@ _KYUJITAI_MAP = str.maketrans(
         "晝": "昼",
         "蟲": "虫",
         "鯉": "こい",
+        "顏": "顔",
+        "數": "数",
+        "來": "来",
+        "龜": "亀",
+        "邊": "辺",
+        "雞": "鶏",
+        "歸": "帰",
+        "實": "実",
+        "傳": "伝",
+        "處": "処",
+        "萬": "万",
+        "舊": "旧",
+        "體": "体",
+        "餘": "余",
+        "寶": "宝",
+        "榮": "栄",
     }
 )
 
@@ -185,6 +201,7 @@ _HISTORICAL_KANA_REPLACEMENTS: list[tuple[str, str]] = [
     ("くわ", "か"),
     ("ぐわ", "が"),
     ("てふ", "ちょう"),
+    ("てう", "ちょう"),
     ("けふ", "きょう"),
     ("ぎう", "ぎゅう"),
     ("きう", "きゅう"),
@@ -223,6 +240,14 @@ _HISTORICAL_KANA_REPLACEMENTS: list[tuple[str, str]] = [
     ("あはて", "あわて"),
     ("うるはし", "うるわし"),
     ("うつは", "うつわ"),
+    ("はこには", "はこにわ"),
+    ("なはとび", "なわとび"),
+    ("あさがほ", "あさがお"),
+    ("かぞへ", "かぞえ"),
+    ("きんぎよ", "きんぎょ"),
+    ("にんぎよう", "にんぎょう"),
+    ("おきやくさま", "おきゃくさま"),
+    ("しやぼんだま", "しゃぼんだま"),
 ]
 
 
@@ -234,6 +259,26 @@ def to_hiragana_reading(text: str) -> str:
         text.replace("雲雀", "ひばり")
         .replace("紙鳶", "たこ")
         .replace("案山子", "かかし")
+        .replace("お祭日", "おまつりび")
+        .replace("おまつり日", "おまつりび")
+        .replace("數へ歌", "かぞえうた")
+        .replace("数へ歌", "かぞえうた")
+        .replace("かぞへ歌", "かぞえうた")
+        .replace("木靈", "こだま")
+        .replace("木霊", "こだま")
+        .replace("七面鳥", "しちめんちょう")
+        .replace("紅葉", "もみじ")
+        .replace("田植", "たうえ")
+        .replace("田うゑ", "たうえ")
+        .replace("助船", "たすけぶね")
+        .replace("富士山", "ふじさん")
+        .replace("ふじ山", "ふじさん")
+        .replace("蛙と", "かえると")
+        .replace("猫と蛙", "ねことかえる")
+        .replace("花咲爺", "はなさかじじい")
+        .replace("夜の歸雁", "よるのきがん")
+        .replace("夜の帰雁", "よるのきがん")
+        .replace("かゞやく", "かがやく")
         .translate(_KYUJITAI_MAP)
     )
     prepped = to_hiragana(prepped)
@@ -285,6 +330,7 @@ BOOK_LABELS: dict[str, str] = {
     "kogakko_shoka/grade_5": "《公學校唱歌》第五學年用（昭和13年／1938）",
     "kogakko_shoka/grade_6": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
     "kogakko_shoka/koto_1": "《公學校高等科唱歌》第一學年用（昭和11年／1936，國臺圖 0729 74）",
+    "kogakko_shoka/koto_2": "《公學校高等科唱歌》第二學年用（昭和11年／1936，國臺圖 0729 74）",
     "shintei_jido_shoka/grade_1_2020.006.0847.0001": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
     "shintei_jido_shoka/grade_2_2020.006.0847.0002": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
     "shintei_jido_shoka/grade_3_2020.006.0847.0003": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
@@ -339,6 +385,7 @@ PUBLICATION_YEAR_BY_KOGAKKO_VOLUME: dict[str, int] = {
     "grade_5": 1938,
     "grade_6": 1940,
     "koto_1": 1936,
+    "koto_2": 1936,
 }
 
 
@@ -392,6 +439,10 @@ SLUG_ALIASES: dict[str, str] = {
     "gunkanmachi": "gunkan",
     "fuyunoyo": "fuyunoyoru",
     "yudachi2": "yudachi",
+    "tenisunouta": "teikyu",
+    "nihonkoku": "nihonnokuni",
+    "hanasakajijii": "hanasakajii",
+    "taiwanshuyushokafull": "taiwanshuyushoka",
 }
 
 # Clusters where all entries are historically the same song (`同曲`), including
@@ -404,6 +455,7 @@ PURE_SAME_SONG_IDS: set[str] = {
     "hanyunoyado",
     "hatsuuguisu",
     "hirosechusa",
+    "kazoeuta",
     "kishanotabi",
     "kongoseki",
     "matsushima",
@@ -413,17 +465,23 @@ PURE_SAME_SONG_IDS: set[str] = {
     "natsugeshiki",
     "nigimitama",
     "nihonkaikaisen",
+    "nihonnokuni",
     "noshoko",
+    "oborozukiyo",
     "omatsuribi",
     "rokushisensei",
     "shinboku",
     "shiseikinenbi",
     "suishieinokaiken",
     "taiwannofukei",
+    "taiwanshuyushoka",
     "tasukebune",
+    "teikyu",
     "teiseiko",
+    "ushiwakamaru",
     "wagakuniheishi",
     "wakare",
+    "yorunokigan",
 }
 
 # Explicit subgroup partitions for multi-version clusters (`mixed_or_variant`)
@@ -440,28 +498,61 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             },
         ],
     },
+    "asanouta": {
+        "同曲": [
+            {
+                "jinjo_shogaku_shoka/grade_5_4100/17_asa_no_uta",
+                "shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta",
+                "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_01_asa_no_uta",
+            },
+        ],
+    },
     "hana": {
         "同曲": [
             {
                 "kogakko_shokashu_1915/2_02_hana",
-                "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_hana",
-            },
-            {
-                "shintei_jido_shoka/koto_girls_2020.006.0849/1_1_03_hana",
-                "shoka_kyozai_shu_1923/koto_1_2/15_hana",
+                "shoka_kyozai_shu_1923/grade_1_2/33_hana",
+                "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana",
             },
         ],
         "同曲異詞": [
             {
                 "jinjo_shogaku_shoka/grade_1_4103/14_kiku_no_hana",
                 "kogakko_shokashu_1915/2_02_hana",
-                "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_02_hana",
+                "shoka_kyozai_shu_1923/grade_1_2/33_hana",
+                "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_05_hana",
             }
+        ],
+    },
+    "hanasakajii": {
+        "同曲": [
+            {
+                "jinjo_shogaku_shoka/grade_1_4103/20_hanasakajii",
+                "kogakko_shokashu_1915/3_07_hanasaka_jijii",
+                "shoka_kyozai_shu_1923/grade_3_4/09_hanasaka_jijii",
+            },
+            {
+                "shoka_kyozai_shu_1923/grade_1_2/28_hanasaka_jijii",
+                "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_07_hanasaka_jijii",
+            },
+        ],
+    },
+    "hibari": {
+        "同曲": [
+            {
+                "jinjo_shogaku_shoka/grade_2_4102/4_hibari",
+                "shoka_kyozai_shu_1923/grade_1_2/32_hibari",
+            },
+            {
+                "shoka_kyozai_shu_1923/grade_3_4/36_hibari",
+                "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_01_hibari",
+            },
         ],
     },
     "asakaze": {
         "同曲": [
             {
+                "kogakko_shoka/koto_1/24_asakaze",
                 "shintei_jido_shoka/koto_boys_2020.006.0848/1_5_01_asakaze",
                 "shintei_jido_shoka/koto_girls_2020.006.0849/1_5_01_asakaze",
             }
@@ -579,30 +670,19 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             {
                 "jinjo_shogaku_shoka/grade_3_4079/7_niji",
                 "kogakko_shoka/grade_3/9_niji",
-                "shintei_jido_shoka/grade_3_2020.006.0847.0003/2_11_niji",
             },
         ],
     },
-    "oborozukiyo": {
+    "noryo": {
         "同曲": [
             {
-                "jinjo_shogaku_shoka/grade_6_4078/3_oborozukiyo",
-                "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo",
-                "shokacho/vol_10/p195_oborozukiyo",
+                "jinjo_shogaku_shoka/grade_5_4100/7_noryo",
+                "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_10_noryo",
             },
             {
-                "shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo",
-                "shoka_kyozai_shu_1923/koto_1_2/01_oborozukiyo",
+                "shintei_jido_shoka/koto_boys_2020.006.0848/2_2_01_noryo",
+                "shintei_jido_shoka/koto_girls_2020.006.0849/2_2_01_noryo",
             },
-        ],
-        "同詞異曲": [
-            {
-                "jinjo_shogaku_shoka/grade_6_4078/3_oborozukiyo",
-                "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_01_oborozukiyo",
-                "shoka_kyozai_shu_1923/grade_5_6/37_oborozukiyo",
-                "shoka_kyozai_shu_1923/koto_1_2/01_oborozukiyo",
-                "shokacho/vol_10/p195_oborozukiyo",
-            }
         ],
     },
     "ninomiyasontoku": {
@@ -610,18 +690,26 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             {
                 "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_03_ninomiya_sontoku",
                 "shoka_kyozai_shu_1923/koto_1_2/02_ninomiya_sontoku",
+                "shokacho/vol_10/p196_ninomiya_sontoku",
             },
             {
                 "jinjo_shogaku_shoka/grade_2_4102/2_ninomiya_kinjiro",
                 "kogakko_shokashu_1915/4_06_ninomiya_kinjiro",
-                "shoka_kyozai_shu_1923/grade_1_2/44_ninomiya_kinjiro",
+            },
+        ],
+    },
+    "shingun": {
+        "同曲": [
+            {
+                "kyoeki_shoka/kan_1_854862/20_shingun",
+                "shoka_kyozai_shu_1923/grade_3_4/25_shingun",
+                "shokacho/vol_10/p195b_shingun",
             },
         ],
     },
     "shonanko": {
         "同曲": [
             {
-                "kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu",
                 "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_07_sho_nanko",
                 "shoka_kyozai_shu_1923/koto_1_2/34_sho_nanko",
                 "shokacho/vol_02/p089_sho_nanko",
@@ -649,6 +737,7 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
     "suigyu": {
         "同曲": [
             {
+                "taiwan_no_uta/3_suigyu",
                 "kogakko_shoka/grade_2/6_suigyu",
                 "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu",
             },
@@ -656,13 +745,6 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
                 "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_05_suigyu",
                 "shoka_kyozai_shu_1923/grade_3_4/44_suigyu",
             },
-        ],
-        "同詞異曲": [
-            {
-                "kogakko_shoka/grade_2/6_suigyu",
-                "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu",
-                "taiwan_no_uta/3_suigyu",
-            }
         ],
     },
     "tanoshikiwagaya": {
@@ -683,22 +765,23 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
                 "shokacho/vol_08/p027_tanoshiki_waga_ie",
             }
         ],
+        "同曲異詞": [
+            {
+                "shokacho/vol_02/p102_tanoshiki_wagaya",
+                "shokacho/vol_08/p027_tanoshiki_waga_ie",
+            }
+        ],
     },
     "todai": {
         "同曲": [
             {
                 "jinjo_shogaku_shoka/grade_6_4078/8_todai",
-                "kogakko_shoka/grade_4/13_todai",
                 "shoka_kyozai_shu_1923/grade_5_6/33_todai",
-            }
-        ],
-        "同詞異曲": [
+            },
             {
-                "jinjo_shogaku_shoka/grade_6_4078/8_todai",
                 "kogakko_shoka/grade_4/13_todai",
-                "shoka_kyozai_shu_1923/grade_5_6/33_todai",
                 "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_08_todai",
-            }
+            },
         ],
     },
     "tsuyutomushi": {
@@ -755,23 +838,6 @@ CLUSTER_RELATION_RULES: dict[str, dict[str, list[set[str]]]] = {
             }
         ],
     },
-    "ushiwakamaru": {
-        "同曲": [
-            {
-                "jinjo_shogaku_shoka/grade_1_4103/7_ushiwakamaru",
-                "kogakko_shokashu_1915/2_09_ushiwakamaru",
-                "utanohon/ge_2006.006.0878/12_ushiwakamaru",
-            }
-        ],
-        "同詞異曲": [
-            {
-                "jinjo_shogaku_shoka/grade_1_4103/7_ushiwakamaru",
-                "kogakko_shokashu_1915/2_09_ushiwakamaru",
-                "utanohon/ge_2006.006.0878/12_ushiwakamaru",
-                "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_04_ushiwakamaru",
-            }
-        ],
-    },
     "yudachi": {
         "同曲": [
             {
@@ -794,7 +860,7 @@ CURATED_DESCRIPTIONS: dict[str, str] = {
     "arahitogami": "同曲（《新定兒童唱歌》高等科男、女共用教材）",
     "asa": "同曲（〈朝〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P213《小公學校唱歌教材集》抄譜）",
     "asagao": "同曲（文部省『尋常小學唱歌』第一學年〈朝顔〉；《公學校唱歌集》與《新定兒童唱歌》第一學年共用教材）",
-    "asakaze": "同曲＋同名異曲（《新定兒童唱歌》高等科男、女用為同曲；《共益商社唱歌教科書》卷三〈朝風〉為同名異曲）",
+    "asakaze": "同曲＋同名異曲（《公學校高等科唱歌》第一學年與《新定兒童唱歌》高等科男、女用為同曲；《共益商社唱歌教科書》卷三〈朝風〉為同名異曲）",
     "ashigarayama": "同曲（《新定兒童唱歌》高等科男、女共用教材）",
     "awatetokoya": "同詞異曲（北原白秋作詞〈あわて床屋〉；《新定兒童唱歌》二年級為山田耕筰作曲版，《唱歌帖》P164 為佐佐木すぐる作曲版）",
     "banzai": "同曲（臺灣總督府《公學校唱歌》第二學年與《うたのほん》下卷共用教材）",
@@ -811,13 +877,13 @@ CURATED_DESCRIPTIONS: dict[str, str] = {
     "gunkan": "同曲＋同詞異曲＋同名異曲（《新定兒童唱歌》五年級與《唱歌帖》P012 為加藤義清詞・Carey 曲同曲；《公學校唱歌》六年級〈軍艦〉為山田源一郎曲，與《新定兒童唱歌》高男用瀨戶口藤吉曲〈軍艦マーチ〉同採鳥山啓「守るも攻むるも…」歌詞；《うたのほん》下卷與《唱歌帖》P074 為同名異曲）",
     "gyokei": "同曲（二部輪唱曲〈曉景〉；收錄於《公學校唱歌》六年級、《新定兒童唱歌》六年級與《唱歌帖》P090）",
     "hagoromo": "同曲（〈羽衣〉；收錄於《新定兒童唱歌》四年級與《唱歌帖》P157《小公學校唱歌教材集》抄譜）",
-    "hana": "同曲＋同曲異詞＋同名異曲（《尋常小學唱歌》第一學年〈菊の花〉於臺灣《公學校唱歌集》與《新定兒童唱歌》第一學年改題為〈花／ハナ〉並將首句改為「咲いた、咲いた」；《新定兒童唱歌》高等科女子用與《新編小公學校唱歌教材集》高等科〈花〉為瀧廉太郎作曲同名異曲）",
+    "hana": "同曲＋同曲異詞＋同名異曲（《尋常小學唱歌》第一學年〈菊の花〉於臺灣《公學校唱歌集》、《新編小公學校唱歌教材集》與《新定兒童唱歌》第一學年改題為〈花／ハナ〉並將小菊改為佛桑花；《公學校唱歌集》第四學年〈菊の花〉為宮島慎三郎曲，《新定兒童唱歌》高等科女子用〈花〉為瀧廉太郎曲）",
     "hanyunoyado": "同曲（里見義詞・Bishop 曲〈埴生の宿〉*Home! Sweet Home!*；收錄於《公學校唱歌》六年級、《新定兒童唱歌》六年級與高等科女子用，以及《唱歌帖》P097）",
     "harugakita": "同曲（高野辰之詞・岡野貞一曲『尋常小學唱歌』〈春が來た〉；《公學校唱歌》第二學年與《新定兒童唱歌》第二學年共同收錄）",
     "harunoogawa": "同曲（高野辰之詞・岡野貞一曲『尋常小學唱歌』〈春の小川〉；《公學校唱歌》第五學年、《公學校唱歌集》與《新定兒童唱歌》第四學年共同收錄）",
     "hato": "同曲（文部省『尋常小學唱歌』第一學年〈鳩〉；《公學校唱歌》第一學年與《新定兒童唱歌》第一學年共同收錄）",
     "hatsuuguisu": "同曲（〈初鶯〉；收錄於《新定兒童唱歌》五年級與《唱歌帖》P241《蓬萊唱歌集》抄譜）",
-    "hibari": "同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第二學年〈ヒバリ〉為同曲；《新定兒童唱歌》五年級與《共益商社唱歌教科書》卷一〈雲雀〉為同名異曲）",
+    "hibari": "同曲＋同名異曲（《尋常小學唱歌》第二學年與《新編小公學校唱歌教材集》一・二學年〈雲雀〉為同曲；《新編小公學校唱歌教材集》三・四學年與《新定兒童唱歌》第五學年〈雲雀〉同採德國曲旋律；《新定兒童唱歌》第二學年〈ヒバリ〉與《共益商社唱歌教科書》卷一〈雲雀〉為同名異曲）",
     "hikoki": "同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第一學年〈ヒカウキ〉為同曲；《うたのほん》下卷〈ひかうき〉與《新定兒童唱歌》第五學年〈飛行機〉為同名異曲）",
     "hinomarunohata": "同曲＋同名異曲（《公學校唱歌》第一學年、《公學校唱歌集》與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈日の丸の旗〉同曲；《新定兒童唱歌》第三學年為同名異曲）",
     "hirosechusa": "同曲（文部省『尋常小學唱歌』第四學年〈廣瀨中佐〉；《公學校唱歌》與《新定兒童唱歌》第五學年共同收錄）",
@@ -836,7 +902,7 @@ CURATED_DESCRIPTIONS: dict[str, str] = {
     "kanariya": "同曲（西條八十作詞、成田為三作曲〈かなりや〉；收錄於《新定兒童唱歌》四年級與《唱歌帖》P106）",
     "kangaemono": "同曲（文部省『尋常小學唱歌』〈考へ物〉；《公學校唱歌》第二學年、《公學校唱歌集》與《新定兒童唱歌》第二學年共同收錄）",
     "katatsumuri": "同曲＋同名異曲（《公學校唱歌》第一學年與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈かたつむり〉同曲；《唱歌帖》P079 為《大正幼年唱歌》同名異曲）",
-    "kazoeuta": "同曲（臺灣總督府《公學校唱歌》第一學年與《うたのほん》下卷共用教材）",
+    "kazoeuta": "同曲（文部省《尋常小學唱歌》第三學年〈かぞへ歌〉；大正四年《公學校唱歌集》第四學年與《新編小公學校唱歌教材集》三・四學年〈數へ歌〉同曲並改訂第五至十節歌詞）",
     "kigensetsu": "同曲（儀式歌〈紀元節〉；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P124）",
     "kimigayo": "同曲（國歌／儀式歌〈君が代〉；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P048、P120）",
     "kingannoshikujiri": "同曲（滑稽唱歌〈近眼のしくじり〉；《唱歌帖》P080 與 P257）",
@@ -868,23 +934,23 @@ CURATED_DESCRIPTIONS: dict[str, str] = {
     "niitakayama": "同曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》第五學年〈新高山〉為同曲；《唱歌帖》P202 為 1915 年《小公學校唱歌教材集》3/4 拍同名異曲）",
     "nigimitama": "同曲（芝葛鎮作曲〈にぎみたま〉；收錄於《公學校唱歌》六年級、《公學校唱歌集》與《新定兒童唱歌》六年級）",
     "nihonkaikaisen": "同曲（文部省『尋常小學唱歌』第六學年〈日本海海戰〉；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）",
-    "niji": "同曲＋同名異曲（《尋常小學唱歌》第三學年〈虹〉、《公學校唱歌》第三學年〈にじ〉與《新定兒童唱歌》第三學年〈にじ〉為同曲；《新定兒童唱歌》第三學年〈虹〉與《共益商社唱歌教科書》卷一〈虹〉為同名異曲）",
+    "niji": "同曲＋同名異曲（《尋常小學唱歌》第三學年〈虹〉與《公學校唱歌》第三學年〈にじ〉為同曲；《新定兒童唱歌》第三學年〈虹〉、〈にじ〉及《共益商社唱歌教科書》卷一〈虹〉各自為同名異曲）",
     "ningyo": "同曲＋同名異曲（《公學校唱歌》第一學年、《公學校唱歌集》與《新定兒童唱歌》第一學年為文部省『尋常小學唱歌』〈人形〉同曲；《共益商社唱歌教科書》卷三〈人形〉為同名異曲）",
-    "ninomiyasontoku": "同曲＋同名異曲（《尋常小學唱歌》第二學年、《公學校唱歌集》與《新編小公學校唱歌教材集》〈二宮金次郎〉為同曲；《新定兒童唱歌》四年級與《新編小公學校唱歌教材集》高等科〈二宮尊徳〉為桑田春風詞・田村虎藏曲版；《唱歌帖》P196 為 3/4 拍版）",
-    "noryo": "同曲＋同名異曲（《新定兒童唱歌》高等科男、女用為同曲；尋常科五年級為同名異曲）",
-    "oborozukiyo": "同曲＋同詞異曲（高野辰之作詞〈朧月夜〉；《尋常小學唱歌》六年級、《新定兒童唱歌》六年級與《唱歌帖》P195 為岡野貞一作曲版，《新編小公學校唱歌教材集》收錄另一簡譜旋律版）",
+    "ninomiyasontoku": "同曲＋同名異曲（《尋常小學唱歌》第二學年與《公學校唱歌集》〈二宮金次郎〉為同曲；《新定兒童唱歌》四年級、《新編小公學校唱歌教材集》高等科與《唱歌帖》P196〈二宮尊徳〉皆為桑田春風詞・田村虎藏曲 3/4 拍同曲）",
+    "noryo": "同曲＋同名異曲（《尋常小學唱歌》第五學年與《新定兒童唱歌》第五學年〈納涼〉為同曲；《新定兒童唱歌》高等科男、女用〈納涼〉為另一同曲）",
+    "oborozukiyo": "同曲（高野辰之作詞・岡野貞一作曲『尋常小學唱歌』〈朧月夜〉；收錄於《尋常小學唱歌》六年級、《新編小公學校唱歌教材集》、《新定兒童唱歌》六年級與《唱歌帖》P195a）",
     "okyakusama": "同曲（《大正幼年唱歌》第七集〈お客様〉；收錄於《新定兒童唱歌》二年級與《唱歌帖》P161）",
-    "omatsuribi": "同曲（田村富士雄作詞・陳華提作曲；《臺灣の歌》、《新定兒童唱歌》與《公學校唱歌》第三學年共同收錄之臺灣神社祭典教材）",
+    "omatsuribi": "同曲（田村富士雄作詞・陳華堤作曲；《臺灣の歌》、《新定兒童唱歌》與《公學校唱歌》第三學年共同收錄之臺灣神社祭典教材）",
     "osaru": "同曲（《大正幼年唱歌》第六集〈オサル〉；收錄於《新定兒童唱歌》一年級與《唱歌帖》P069）",
     "oshogatsu": "同曲（東クメ詞・瀧廉太郎曲〈お正月〉；《公學校唱歌》第一學年、《新定兒童唱歌》第一學年與《うたのほん》下卷共同收錄）",
     "semi": "同曲＋同名異曲（《公學校唱歌》第一學年〈セミ〉與《うたのほん》下卷〈せみ〉為同曲；《公學校唱歌》第三學年〈せみ〉為另曲）",
     "shika": "同曲（《公學校唱歌》與《新定兒童唱歌》第四學年共用教材）",
     "shinboku": "同曲（《公學校唱歌》與《新定兒童唱歌》第五學年共用阿里山神木題材教材）",
     "shiseikinenbi": "同曲（6月17日臺灣始政紀念日唱歌；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首及《唱歌帖》P047、P125）",
-    "shonanko": "同曲＋同名異曲（《公學校唱歌》第四學年〈櫻井の訣別〉、《新定兒童唱歌》六年級〈小楠公〉與《唱歌帖》P089 皆為落合直文詞・奧山朝恭曲同曲；《公學校唱歌集》〈櫻井のわかれ〉為文部省『尋常小學唱歌』同名異曲）",
+    "shonanko": "同曲＋同名異曲（《新編小公學校唱歌教材集》高等科、《新定兒童唱歌》六年級與《唱歌帖》P089〈小楠公〉「言の葉を…」為 6/8 拍同曲；《尋常小學唱歌》四年級、《公學校唱歌集》五年級與《新編小公學校唱歌教材集》五・六年級〈櫻井のわかれ〉為同曲；《公學校唱歌》四年級〈櫻井の訣別〉為落合直文詞・奧山朝恭曲）",
     "sotsugyonouta": "同曲＋同名異曲（《新定兒童唱歌》高等科女子用與《唱歌帖》P201 為蘆田惠之助詞・Schulz 曲同曲；《公學校唱歌集》〈卒業の歌〉為同名異曲）",
     "sotsugyoshiki": "同曲（收錄於《新定兒童唱歌》卷首〈卒業式歌〉與《唱歌帖》P179〈卒業式〉，詞曲相同）",
-    "suigyu": "同曲＋同詞異曲＋同名異曲（御船武作詞；《公學校唱歌》與《新定兒童唱歌》第二學年為同曲，《臺灣の歌》為郭明峯原創譜曲版；《新定兒童唱歌》第一學年〈スヰギウ〉為同名異曲）",
+    "suigyu": "同曲＋同名異曲（御船武作詞・郭明峯作曲〈水牛〉於《臺灣の歌》、《新定兒童唱歌》第二學年與《公學校唱歌》第二學年為同曲；《新編小公學校唱歌教材集》與《新定兒童唱歌》第一學年〈スヰギウ〉為另一同曲）",
     "suishieinokaiken": "同曲（佐佐木信綱詞・岡野貞一曲『尋常小學唱歌』〈水師營の會見〉；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）",
     "sumiyaki": "同曲（《公學校唱歌》與《新定兒童唱歌》第三學年共用教材）",
     "tachibana": "同曲（《公學校唱歌》與《新定兒童唱歌》第四學年共用教材）",
@@ -893,12 +959,12 @@ CURATED_DESCRIPTIONS: dict[str, str] = {
     "taiwannouta": "同曲＋同名異曲（《新定兒童唱歌》高等科男、女用為同曲；《臺灣の歌》同名主題曲為竹中重雄詞・一條慎三郎曲另一作品）",
     "takonouta": "同曲（文部省『尋常小學唱歌』〈凧の歌〉；《公學校唱歌集》題為〈紙鳶〉，《新定兒童唱歌》第二學年題為〈たこのうた〉）",
     "tanabata": "同曲（《公學校唱歌》與《新定兒童唱歌》第二學年共用教材）",
-    "tanoshikiwagaya": "同曲＋同詞異曲＋同名異曲（《公學校唱歌》六年級、《新定兒童唱歌》六年級與《共益商社唱歌教科書》卷四為同曲；《唱歌帖》P027 同採「花こそ薫らね…」歌詞而譜曲不同；《唱歌帖》P102 則採 *Home! Sweet Home!* 旋律）",
+    "tanoshikiwagaya": "同曲＋同詞異曲＋同曲異詞（《公學校唱歌》六年級、《新定兒童唱歌》六年級、《新編小公學校唱歌教材集》與《共益商社唱歌教科書》卷四為 6/8 拍同曲；《唱歌帖》P027 以 Bishop *Home! Sweet Home!* 4/4 拍旋律配唱「花こそ薫らね…」歌詞，與《唱歌帖》P102 同曲異詞）",
     "tasukebune": "同曲（〈助船／助け船〉；收錄於《公學校唱歌》第五學年、《新定兒童唱歌》第五學年與《唱歌帖》P211《小公學校唱歌教材集》抄譜）",
     "taue": "同曲＋同名異曲（《公學校唱歌》第三學年、《公學校唱歌集》與《新定兒童唱歌》第二學年為同曲；《共益商社唱歌教科書》卷二〈田植〉為同名異曲）",
     "teiseiko": "同曲（〈鄭成功〉；收錄於《公學校唱歌》第五學年、《新定兒童唱歌》第五學年與《唱歌帖》P217《小公學校唱歌教材集》簡譜草稿）",
     "tenchosetsu": "同曲（儀式歌〈天長節〉；收錄於《公學校唱歌集》、《新定兒童唱歌》卷首與《唱歌帖》P126）",
-    "todai": "同詞異曲（同採文部省『尋常小學唱歌』「遠く見ゆるは沖の島…」歌詞；《公學校唱歌》第四學年為文部省 G 大調原曲，《新定兒童唱歌》第四學年為田村虎藏 e 小調曲）",
+    "todai": "同曲＋同名異曲（《尋常小學唱歌》第六學年與《新編小公學校唱歌教材集》五・六年級〈燈臺〉「空には月なく…」為降ホ長調同曲；《新定兒童唱歌》第四學年與《公學校唱歌》第四學年〈燈臺〉「空に月なく…」為田村虎藏ト長調同曲）",
     "tokeinouta": "同曲（文部省『尋常小學唱歌』〈時計の歌〉；《公學校唱歌集》題為〈時計〉，《新定兒童唱歌》第二學年題為〈とけいのうた〉）",
     "tonbi": "同曲（《大正幼年唱歌》第一集〈とんび〉；收錄於《新定兒童唱歌》四年級與《唱歌帖》P109）",
     "torinosu": "同名異曲（《公學校唱歌》第二學年〈トリ ノ ス〉與《うたのほん》下卷〈とりの す〉為不同詞曲版本）",
@@ -910,11 +976,12 @@ CURATED_DESCRIPTIONS: dict[str, str] = {
     "unabara": "同曲（《新定兒童唱歌》高等科男、女共用教材）",
     "undokai": "同曲＋同詞異曲＋同名異曲（《公學校唱歌》與《新定兒童唱歌》三年級為同曲，與《公學校唱歌集》一條慎三郎作曲版同採臺灣總督府讀本歌詞；《新定兒童唱歌》高男用與《共益商社唱歌教科書》卷一為同名異曲）",
     "urashimataro": "同曲＋同名異曲（《公學校唱歌》第二學年、《新定兒童唱歌》第二學年與《うたのほん》下卷為 1911 年『尋常小學唱歌』「むかしむかし浦島は…」同曲；《公學校唱歌集》〈浦島太郎〉為同名異曲）",
-    "ushiwakamaru": "同曲＋同詞異曲（《公學校唱歌集》與《うたのほん》下卷為文部省『尋常小學唱歌』五聲小調／都節音階原曲；《新定兒童唱歌》第一學年同採第一節歌詞並改譜為 G 大調旋律）",
+    "ushiwakamaru": "同曲（文部省《尋常小學唱歌》第一學年〈牛若丸〉；《新定兒童唱歌》第一學年與國民學校《うたのほん》下卷共同收錄）",
     "utsukushikitennen": "同曲＋同名異曲（武島羽衣詞・田中穗積曲〈美しき天然／天然の美〉於《唱歌帖》P104 與 P131 為同曲；《共益商社唱歌教科書》卷三〈美しき天然〉為同名異曲）",
     "wagakuniheishi": "同曲（〈我國兵士〉；收錄於《新定兒童唱歌》六年級與《唱歌帖》P159《小公學校唱歌教材集》抄譜）",
     "wakare": "同曲（畢業惜別歌〈別れ〉「春のあしたの花の陰…」；《公學校唱歌》與《新定兒童唱歌》第六學年共用教材）",
     "waterloo": "同曲（《新定兒童唱歌》高等科男、女共用教材，男子用為ト調、女子用移為變ロ調）",
+    "yorunokigan": "同曲（二部合唱曲〈夜の歸雁〉；收錄於一條慎三郎編《新編小公學校唱歌教材集》高等科與楊金土手抄《唱歌帖》P200）",
     "yudachi": "同曲＋同名異曲（公學校用國民讀本詞・宮島慎三郎曲〈夕立〉「あちらの山に黑雲おこり…」收錄於《公學校唱歌集》四年級、《新編小公學校唱歌教材集》三・四年級第28首、《唱歌帖》P128、《新定兒童唱歌》四年級與《公學校唱歌》四年級，五處同曲；文部省《尋常小學唱歌》一年級「降る／＼夕立…」及《新編小公學校唱歌教材集》一・二年級第4首、三・四年級第18首則各自為同名異曲）",
     "yudachiyanda": "同曲（大澤貞吉詞・一條慎三郎曲；臺灣總督府《公學校唱歌》第一學年與《うたのほん》下卷共用臺灣午後西北雨童謠）",
     "yuhi": "同曲（葛原齒作詞、室崎琴月作曲〈夕日／ユフヒ〉；收錄於《新定兒童唱歌》二年級與《唱歌帖》P236）",
@@ -1015,6 +1082,7 @@ THEME_CATEGORY_BY_ID: dict[str, set[str]] = {
         "akinokoe",
         "akinokaze",
         "fuyunoyoru",
+        "yorunokigan",
         "yudachi",
         "tsuki",
         "tsukinose",
@@ -1130,29 +1198,53 @@ class SongEntry:
 
 def strip_chinese_gloss(raw_title: str) -> str:
     """Keep Japanese title and meaningful Japanese parentheticals while removing Chinese/Kanji glosses."""
-    m = re.match(r"^(.*?)\s*[（(]([^）)]+)[）)]\s*$", raw_title)
-    if not m:
-        return raw_title.strip()
-    base, paren = m.group(1).strip(), m.group(2).strip()
-    if paren.startswith("あな") or paren in {"其一", "其二", "二部輪唱", "二部合唱"}:
-        return raw_title.strip()
-    return base
+    text = raw_title.strip()
+    # Strip trailing ASCII-parenthesized translation that may itself contain fullwidth parens,
+    # e.g. `夜の歸雁 （二部） (夜之歸雁（二部合唱）)`.
+    text = re.sub(r"\s+\([^()]+\)\s*$", "", text).strip()
+    while True:
+        m = re.match(r"^(.*?)\s*[（(]([^）)]+)[）)]\s*$", text)
+        if not m:
+            return text
+        base, paren = m.group(1).strip(), m.group(2).strip()
+        if paren.startswith("あな") or paren in {"其一", "其二", "二部輪唱", "二部合唱"}:
+            return text
+        text = base
 
 
 def extract_melody_degrees(tmd_text: str) -> str:
-    """Extract sequence of movable-do scale degrees (1-7) from the first voice block."""
+    """Extract sequence of movable-do scale degrees (1-7) from the primary melody voice across sections."""
     no_comments = re.sub(r"/\*.*?\*/", "", tmd_text, flags=re.S)
     no_inline_tags = re.sub(r"\{[^{}\n]*\}", "", no_comments)
     if "{" not in no_inline_tags:
         return ""
-    body = no_inline_tags.split("{", 1)[1].split("}", 1)[0]
+    blocks = re.findall(
+        r"([A-Za-z0-9_]+):([A-Za-z0-9_]+)(?:\[[^\]]*\])?(?:@[^{]*)?\{([^}]*)\}",
+        no_inline_tags,
+        flags=re.S,
+    )
+    if blocks:
+        non_framing = [
+            b for b in blocks if not b[0].lower().startswith(("intro", "outro"))
+        ]
+        if non_framing:
+            blocks = non_framing
+        seen_sections: set[str] = set()
+        bodies: list[str] = []
+        for section, _track, body in blocks:
+            if section not in seen_sections:
+                seen_sections.add(section)
+                bodies.append(body)
+    else:
+        bodies = [no_inline_tags.split("{", 1)[1].split("}", 1)[0]]
     deg_chars: list[str] = []
-    for line in body.splitlines():
-        s = line.strip()
-        if not s or s.startswith("L") or s.startswith("<") or s.startswith("~"):
-            continue
-        if "|" in s:
-            deg_chars.extend(re.findall(r"[1-7]", s))
+    for body in bodies:
+        for line in body.splitlines():
+            s = line.strip()
+            if not s or s.startswith("L") or s.startswith("<") or s.startswith("~"):
+                continue
+            if "|" in s:
+                deg_chars.extend(re.findall(r"[1-7]", s))
     return "".join(deg_chars[:64])
 
 

@@ -121,6 +121,7 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
     "shokacho": [
         ("史料整理筆記", "shokacho/research_notes.md"),
         ("《蓬萊唱歌集》目次重建", "shokacho/horai_shokashu.md"),
+        ("《蓬萊唱歌集》與大正新童謠", "shokacho/horai_taisho_doyo.md"),
         ("延伸館藏與日本國會圖書館調查", "archives/index.md"),
     ],
 }

@@ -194,7 +194,7 @@ nav:
           - "4 人形": jinjo_shogaku_shoka/grade_1_4103/4_ningyo/index.md
           - "5 ヒヨコ（小雞）": jinjo_shogaku_shoka/grade_1_4103/5_hiyoko/index.md
           - "6 かたつむり": jinjo_shogaku_shoka/grade_1_4103/6_katatsumuri/index.md
-          - "7 ウシワカマル（牛若丸）": jinjo_shogaku_shoka/grade_1_4103/7_ushiwakamaru/index.md
+          - "7 牛若丸": jinjo_shogaku_shoka/grade_1_4103/7_ushiwakamaru/index.md
           - "8 夕立": jinjo_shogaku_shoka/grade_1_4103/8_yudachi/index.md
           - "9 桃太郎": jinjo_shogaku_shoka/grade_1_4103/9_momotaro/index.md
           - "10 朝顏": jinjo_shogaku_shoka/grade_1_4103/10_asagao/index.md
@@ -589,6 +589,7 @@ nav:
   - 楊金土手抄唱歌帖（大正十二年至昭和二年／1923–1927）:
       - 史料整理筆記: shokacho/research_notes.md
       - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
+      - 《蓬萊唱歌集》與大正新童謠: shokacho/horai_taisho_doyo.md
       - 延伸館藏與日本國會圖書館調查: archives/index.md
       - 第 1 冊（選定唱歌筆記帳）:
           - 總覽: shokacho/vol_01/index.md
@@ -678,7 +679,7 @@ nav:
           - "P097 埴生の宿": shokacho/vol_02/p097_hanyu_no_yado/index.md
           - "P098 君德": shokacho/vol_02/p098_kuntoku/index.md
           - "P100 開校記念日": shokacho/vol_02/p100_kaiko_kinenbi/index.md
-          - "P102 樂しき我家": shokacho/vol_02/p102_tanoshiki_wagaya/index.md
+          - "P102 樂しき我家（快樂的我家）": shokacho/vol_02/p102_tanoshiki_wagaya/index.md
           - "P104 美しき天然": shokacho/vol_02/p104_utsukushiki_tennen/index.md
           - "P106 カナリヤ": shokacho/vol_02/p106_kanariya/index.md
           - "P107 太陽": shokacho/vol_02/p107_taiyo/index.md
@@ -785,13 +786,13 @@ nav:
           - "P193B サトウ (砂糖)": shokacho/vol_10/p193b_satou/index.md
           - "P194A ウ・マ (馬)": shokacho/vol_10/p194a_uma/index.md
           - "P194B サカ (坂)": shokacho/vol_10/p194b_saka/index.md
-          - "P195A 朧月夜 (朦朧月夜)": shokacho/vol_10/p195a_oborozukiyo/index.md
-          - "P195B 進軍 (進軍)": shokacho/vol_10/p195b_shingun/index.md
-          - "P196 二宮尊徳 (二宮尊德)": shokacho/vol_10/p196_ninomiya_sontoku/index.md
+          - "P195A 朧月夜（朦朧月夜）": shokacho/vol_10/p195a_oborozukiyo/index.md
+          - "P195B 進軍（進軍）": shokacho/vol_10/p195b_shingun/index.md
+          - "P196 二宮尊徳（二宮尊德）": shokacho/vol_10/p196_ninomiya_sontoku/index.md
           - "P197 送別の歌 (送別之歌)": shokacho/vol_10/p197_sobetsu_no_uta/index.md
           - "P198 歸雁 (歸雁)": shokacho/vol_10/p198_kigan/index.md
           - "P199 遠別離 (遠別離)": shokacho/vol_10/p199_enbetsuri/index.md
-          - "P200 夜の歸雁 （二部） (夜之歸雁（二部合唱）)": shokacho/vol_10/p200_yoru_no_kigan/index.md
+          - "P200 夜の歸雁（二部） (夜之歸雁（二部合唱）)": shokacho/vol_10/p200_yoru_no_kigan/index.md
           - "P201 卒業の歌 (畢業之歌)": shokacho/vol_10/p201_sotsugyo_no_uta/index.md
           - "P202 新高山 (新高山／玉山)": shokacho/vol_10/p202_niitakayama/index.md
           - "P203 コロンブス (哥倫布)": shokacho/vol_10/p203_koronbusu/index.md
@@ -799,7 +800,7 @@ nav:
           - "P205 波と磯の石 (波浪與岸邊的石頭)": shokacho/vol_10/p205_nami_to_iso_no_ishi/index.md
           - "P206 懐友 (懷友)": shokacho/vol_10/p206_kaiyu/index.md
           - "P207 南洋の歌 (南洋之歌)": shokacho/vol_10/p207_nanyo_no_uta/index.md
-          - "P208 燕 (燕子)": shokacho/vol_10/p208_tsubame/index.md
+          - "P208 燕（燕子）": shokacho/vol_10/p208_tsubame/index.md
           - "P209 庭球 (網球)": shokacho/vol_10/p209_teikyu/index.md
           - "P211 助け船 (救生船)": shokacho/vol_10/p211_tasukebune/index.md
           - "P212 汽車の旅 (火車之旅)": shokacho/vol_10/p212_kisha_no_tabi/index.md

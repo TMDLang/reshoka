@@ -1,9 +1,9 @@
 {
   "total_corpus_songs": 1255,
-  "same_lyrics_different_melody_group_count": 22,
+  "same_lyrics_different_melody_group_count": 12,
   "groups": [
     {
-      "lyrics": "あさかぜさつとふいてきておおはたひらひらこはたひらひろうんどうくゎいがいまはじまつたあかぼうしろぼうみどりのぼうしならぶせいとはげんきにみちてかけだすあしなみい",
+      "lyrics": "あさかぜさつとふいてきておおはたひらひらこはたひらひろうんどうかいがいまはじまつたあかほうしろぼうみどりのぼうしならぶせいとはけんきにみちてかけだすあしなみいさ",
       "titles": [
         "うんどうくわい",
         "運動會"
@@ -46,47 +46,6 @@
               "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
               "raw_title": "うんどうくわい（運動會）",
               "year": 1935
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "あさひはのぼりぬひはいでぬうみにはほずなおたぐりあげおひてにほあげちょうなでするあまびといまやいさむらん",
-      "titles": [
-        "朝の歌"
-      ],
-      "versions": [
-        {
-          "id": "jinjo_shogaku_shoka/grade_5_4100/17_asa_no_uta",
-          "year": 1913,
-          "occurrences": [
-            {
-              "rel_dir": "jinjo_shogaku_shoka/grade_5_4100/17_asa_no_uta",
-              "md_file": "jinjo_shogaku_shoka/grade_5_4100/17_asa_no_uta/index.md",
-              "book_label": "文部省《尋常小學唱歌》第五學年用（大正2年／1913）",
-              "raw_title": "朝の歌",
-              "year": 1913
-            },
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta",
-              "md_file": "shoka_kyozai_shu_1923/grade_5_6/05_asa_no_uta/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "朝の歌",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_01_asa_no_uta",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_01_asa_no_uta",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_01_asa_no_uta/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "朝の歌",
-              "year": 1934
             }
           ]
         }
@@ -175,82 +134,6 @@
       ]
     },
     {
-      "lyrics": "おふろのすきなすいぎゅうはのはらのおふろでいいきもちかたまでとつぷりいいきもち",
-      "titles": [
-        "スヰギウ",
-        "水牛"
-      ],
-      "versions": [
-        {
-          "id": "taiwan_no_uta/3_suigyu",
-          "year": 1929,
-          "occurrences": [
-            {
-              "rel_dir": "taiwan_no_uta/3_suigyu",
-              "md_file": "taiwan_no_uta/3_suigyu/index.md",
-              "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
-              "raw_title": "水牛",
-              "year": 1929
-            }
-          ]
-        },
-        {
-          "id": "kogakko_shoka/grade_2/6_suigyu",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu",
-              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-              "raw_title": "水牛",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_2/6_suigyu",
-              "md_file": "kogakko_shoka/grade_2/6_suigyu/index.md",
-              "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-              "raw_title": "スヰギウ（水牛）",
-              "year": 1936
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "かすむそらにあがるひばりおもしろたかくのしてすがたみえぬうたのみおちくる",
-      "titles": [
-        "雲雀"
-      ],
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/grade_3_4/36_hibari",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/36_hibari",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/36_hibari/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "雲雀",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_01_hibari",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_01_hibari",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_01_hibari/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "雲雀",
-              "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
       "lyrics": "ががたるいいはほつらなりてこそらあにそばだつめうぎさんなつきてきいけばほととぎすふもとのわかばのかげになく",
       "titles": [
         "妙義山"
@@ -286,54 +169,6 @@
               "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
               "raw_title": "妙義山",
               "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "きょうのよきひはおおきみのうまれたまひしよきひなりひかりあまねききみがよおいはへもろびともろともに",
-      "titles": [
-        "天長節"
-      ],
-      "versions": [
-        {
-          "id": "kogakko_shokashu_1915/2_01_tenchosetsu",
-          "year": 1915,
-          "occurrences": [
-            {
-              "rel_dir": "kogakko_shokashu_1915/2_01_tenchosetsu",
-              "md_file": "kogakko_shokashu_1915/2_01_tenchosetsu/index.md",
-              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-              "raw_title": "天長節",
-              "year": 1915
-            },
-            {
-              "rel_dir": "shokacho/vol_01/p126_tenchosetsu",
-              "md_file": "shokacho/vol_01/p126_tenchosetsu/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-              "raw_title": "天長節",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu",
-              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-              "raw_title": "天長節",
-              "year": 1934
-            }
-          ]
-        },
-        {
-          "id": "shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "天長節",
-              "year": 1923
             }
           ]
         }
@@ -521,40 +356,6 @@
       ]
     },
     {
-      "lyrics": "そらにつきなくほしさへなくていっすんさきすらみえざるよるにおきのきせんやぐんかんなどはなにおめあてにこうろおきむる",
-      "titles": [
-        "燈臺"
-      ],
-      "versions": [
-        {
-          "id": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_08_todai",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_08_todai",
-              "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/2_08_todai/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-              "raw_title": "燈臺",
-              "year": 1934
-            }
-          ]
-        },
-        {
-          "id": "kogakko_shoka/grade_4/13_todai",
-          "year": 1937,
-          "occurrences": [
-            {
-              "rel_dir": "kogakko_shoka/grade_4/13_todai",
-              "md_file": "kogakko_shoka/grade_4/13_todai/index.md",
-              "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
-              "raw_title": "燈臺",
-              "year": 1937
-            }
-          ]
-        }
-      ]
-    },
-    {
       "lyrics": "たちならぶまつのきせんねんのこみどりわだかまるおおいはそのすがたおもしろなみはしろくまさごじはきよらかまほやかたほおきとおくこぎゆく",
       "titles": [
         "松島"
@@ -630,41 +431,6 @@
       ]
     },
     {
-      "lyrics": "ながいおやすみなにしてくらそうあさはおさらへそれからはせみおとつたりまりなげしたりたまにゅうおつりみずあそび",
-      "titles": [
-        "ながいお休",
-        "長いお休"
-      ],
-      "versions": [
-        {
-          "id": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi",
-              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_09_nagai_oyasumi/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-              "raw_title": "長いお休",
-              "year": 1934
-            }
-          ]
-        },
-        {
-          "id": "kogakko_shoka/grade_3/5_nagaioyasumi",
-          "year": 1935,
-          "occurrences": [
-            {
-              "rel_dir": "kogakko_shoka/grade_3/5_nagaioyasumi",
-              "md_file": "kogakko_shoka/grade_3/5_nagaioyasumi/index.md",
-              "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
-              "raw_title": "ながいお休（長假）",
-              "year": 1935
-            }
-          ]
-        }
-      ]
-    },
-    {
       "lyrics": "はげしきあめかぜてんちくらくやまなすあらなみたけりくるふみよみよかしこにあはれおぶねしようしのさかひとすくひもとむ",
       "titles": [
         "助船",
@@ -693,161 +459,6 @@
               "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md",
               "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
               "raw_title": "助船",
-              "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "はなこそかおらねわがこのそのつきこそにほはねわがこののきかすみはときはにまがきおこめはるかぜのどかにそでにふけり",
-      "titles": [
-        "樂しき我が家",
-        "樂しき我家",
-        "樂シキ我家"
-      ],
-      "versions": [
-        {
-          "id": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
-          "year": 1900,
-          "occurrences": [
-            {
-              "rel_dir": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya",
-              "md_file": "kyoeki_shoka/kan_4_854865/12_tanoshiki_wagaya/index.md",
-              "book_label": "《共益商社唱歌教科書》卷四・教師用（明治33年／1900）",
-              "raw_title": "樂しき我家",
-              "year": 1900
-            },
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya",
-              "md_file": "shoka_kyozai_shu_1923/koto_1_2/23_tanoshiki_wagaya/index.md",
-              "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "樂しき我家",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya",
-              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_04_tanoshiki_wagaya/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-              "raw_title": "樂しき我家",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_6/15_tanoshiki_wagaya",
-              "md_file": "kogakko_shoka/grade_6/15_tanoshiki_wagaya/index.md",
-              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-              "raw_title": "樂しき我が家",
-              "year": 1940
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_08/p027_tanoshiki_waga_ie",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_08/p027_tanoshiki_waga_ie",
-              "md_file": "shokacho/vol_08/p027_tanoshiki_waga_ie/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
-              "raw_title": "樂シキ我家（快樂的我家）",
-              "year": 1923
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "ひとつとやひとびとちゆうぎおだいいちにだいいちにあふげやたかききみのおんくにのおん",
-      "titles": [
-        "かぞへ歌",
-        "數へ歌"
-      ],
-      "versions": [
-        {
-          "id": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta",
-          "year": 1912,
-          "occurrences": [
-            {
-              "rel_dir": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta",
-              "md_file": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta/index.md",
-              "book_label": "文部省《尋常小學唱歌》第三學年用（明治45年／1912）",
-              "raw_title": "かぞへ歌",
-              "year": 1912
-            },
-            {
-              "rel_dir": "kogakko_shokashu_1915/4_07_kazoeuta",
-              "md_file": "kogakko_shokashu_1915/4_07_kazoeuta/index.md",
-              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-              "raw_title": "數へ歌",
-              "year": 1915
-            }
-          ]
-        },
-        {
-          "id": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "數へ歌",
-              "year": 1923
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "まつばらとおくきゆるところしらほのかげほうかぶほしあみはまにたかくしてかもめはひくくなみにとぶみよひるのうみみよひるのうみ",
-      "titles": [
-        "海",
-        "海（其二）"
-      ],
-      "versions": [
-        {
-          "id": "jinjo_shogaku_shoka/grade_5_4100/6_umi",
-          "year": 1913,
-          "occurrences": [
-            {
-              "rel_dir": "jinjo_shogaku_shoka/grade_5_4100/6_umi",
-              "md_file": "jinjo_shogaku_shoka/grade_5_4100/6_umi/index.md",
-              "book_label": "文部省《尋常小學唱歌》第五學年用（大正2年／1913）",
-              "raw_title": "海",
-              "year": 1913
-            },
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/08_umi",
-              "md_file": "shoka_kyozai_shu_1923/grade_5_6/08_umi/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "海",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shokacho/vol_03/p039_umi",
-              "md_file": "shokacho/vol_03/p039_umi/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
-              "raw_title": "海（其二）",
-              "year": 1923
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_5/7_umi",
-              "md_file": "kogakko_shoka/grade_5/7_umi/index.md",
-              "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-              "raw_title": "海",
-              "year": 1938
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/1_08_umi/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "海",
               "year": 1934
             }
           ]
@@ -884,40 +495,6 @@
               "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
               "raw_title": "軍艦",
               "year": 1940
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "わだのはらにしまのごとくみゆるはよするあたおふせぐふねよあおおしたけしいくさぶねよ",
-      "titles": [
-        "軍艦"
-      ],
-      "versions": [
-        {
-          "id": "shokacho/vol_08/p012_gunkan",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_08/p012_gunkan",
-              "md_file": "shokacho/vol_08/p012_gunkan/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
-              "raw_title": "軍艦（軍艦）",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "軍艦",
-              "year": 1934
             }
           ]
         }

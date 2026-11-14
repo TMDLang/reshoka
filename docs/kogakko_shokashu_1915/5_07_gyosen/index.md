@@ -72,8 +72,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gyosen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OLM4ojTe0NDRVgqssy88pzU21Si9KTEmNRxIvzi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMLAwQcgUFOWXpeYl5gF1FxRl5pWkpoC1IxSklmWmpIKki5MT8-LLUosy0zJTU5CclFpUDHI51IqSosS84uSizAKQdxCq8otKMvKBzi7IqLTKyCwuyS_KTE7Mic9OzEtEKCrJSAV6DmxCAVADsu7M9Mw8q9z8vKRSYMgocWlpKTzb0_iiY6eClhaXoq2CuRmXva2CC5eNkb6JHUjbs2ntL5tXPJ_T-Lih6-mG7qc7djzd0P907Y6nUzY-W9vzuKEbbPiL9l3PGxc_37H3-dzFT3fNAaltXQNU9WzBQojCl7PbgGrf7-l4umT5s7WLn86e_XTnlic7Op_N6Xi_p-f5lkXPZu94MXO-goG5kamCkdn7PZ1KXFz6Wgq21AJcCgoKT_vmg6zZ3P5iRdeLjnags16snPe0dQXQjyCXbeh91t6pAIpVvayC9EcNk4FMUxAT5MI1a57smgLy984tCgUFegrmFkAF5pZAh77fMwtk-ItV-581LAcZ290L9AlQ9HFz98up24HiQMNdFIAeBzM7gSGrAFQDNPRlw_ynu5YpPJq50hYY7iBDnuxoeNzQ-Lix43HT5MdNLY-bOh83bH7csPVxQ8OLzlVAXU_XTgCa9rip93Hj5sdNzY8b2x43Tgca-rhxLlhwx-PGZUATQGY9mzP32fSlINWNTY8bpz5u3ARWt-7ZjvVgwf2PG1c9blwBEmyaBLTg2Z6pYPHJYGV9T9t3gbkLwNyZj5t6HjduBSYUsOBsoPtA4g1NYK8vA8Us0ESwWR1QJ4NsXfdyNtBWoFT_46YmsIaGJ7u7YM6aCDQRbPpkoPOB4QMWnP-4sQVsDsg-qAVg3_WgOhDoZGjIPG7sApr-ogNoFlC2-3HjIrCCFY-buiBckCng0N0FTLCNj5vaQOEKlAQFMIwNVA4Mgq2rXk4DGg80Bhg0wADaBzZp9bMJ08Ch3gZ2GMRtsGB-vhgSnC1AR0JUP25c_3zbJlhQAUMBaNC2x41rIf5_tglsFtDNjcA0AFX_sn0xTP0SsGvg6vEHcFMPhhQwOLofNwHDC0j2A934rBcSapCI7oGJg80FOhPuRqhbmpqeb4UIAj0E1gMWBJr7cu0ssDgwJQEDdRUkMYHZs2BRAQ3mHUB3Y0_Ez3s3Pe9cCTYGKAtKIBAbnnaDciDYTqBrge4Epojl0AB-2roUlmCAZgHDBpaO0QISmIgbN4ACuAGmGBohQMZy1LQzARbYwEAkGMzAINy_8WVTF1hqPTBNPG4EagaHS0PD02W7oVkSGHEgKYgFPS_294FTDCg2wCI7QAGPJzWjJ26g9cCgI5Ttn02HBOZ6oGKwo4HBDkyYYGsoLzOhQEFLn4vLvTK_ODXPKiAzMS_focagphpkhYKNoZmWHZiFraxWAJWaOxpeLOxR0DBRANYbz9c36MALWE0sGoA2gQyrUTBV0AVCUwVjMKkLFDGMAwsBKXMgZQYWQ1ZlCBYxApJGQD6INgCJgM3zMawBhnoHWDUwbQFxC5jVCdaDR6apFyIDC3UwezpYDKRvLlhtL5C1A4iXAXnxCDuNQPpBOiDmAZMumAUyH6tM4wqoqaugdu4H4n1g1mokPRAdPZj2GZPpR7hME5C9Dtm-RrC6xqkQXY3L4fbhj_FdPfSPcSMwDz3Gm6AhCfRB4yYwC-Q_kMx-qMwqaLgDSw-ozGSoTB8QLwCzZkJDvwfM2wrEs8EhghHb4PACqZkLDUNgxoSaCnMJKE63gVlroTKguAfxQakIVc8SsLu6wDog6tFjG2ofWA2q_5BMBfsMWDQixSnMjZD4BcUrzOfAshHqR4R9BPJ3JzmxDYpNUDyaAElQXAJjGz0eiVGDFNfQGG3qgLJBLETYg0IG2AoBp3Kov4D8idCwAPkX4ntQjgbJzAfzWqA5bSuWuCZgH1gfMLbBojD7uqH2dQPFQWxgTQyVgaRBoB6gOEQUPa5x2wdKL6CSAlgvQdMQzD5QCoLJQfwHSsOgtNwAcweo5AK7hYi4BrbaKcnZ4PwMysqwqDUDS0GiFnvGNgZCbJENiiZYIEM8Bsu-uGWgWQJczIEDv3ERSuCDMhEoQECi6JGNnH3BmRScjJCz0woMmamIyAYX6YjMCbF9FlRuFpbIxu0LWPE0CZoAEBUK_qoKnEiAaoFNBCAPUXXUcnHp2ilAancFIEuZCwA)]
-- [鋼琴伴奏 TMD 檔案](gyosen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2p_FFx873ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYK5GZe9rYILl42RvokdV52C0rNp7S-bVzyf0_i4oevphu6nO3Y83dD_dO2Op1M2Plvb87ihWwmk6kX7rueNi5_v2Pt87uKnu-aA1LauAap6tmAhROHL2W1AtUCbny5Z_mzt4qezZz_dueXJjs5nc4CW9zzfsujZ7B0vZs5XMDA3MlUwMgM6SImLy70yvzg1zyogMzEvP8jDocagpppLAQhsDM207MAsfS0FW3Sg8HzNmic7Gl4s7FHQMFEAuvb5-gYdhQADCxO9rIJ0TSwatPTBhtUomCroAqGpgjGY1AWKGMaBhYCUOZAyA4shqzIEixgBSSMgH0QbgETA5vkY1ig8buwAq37cNBmIW8CsTrAePDJNvRCZxs2Pm5ofN7aB2dPBYiB9c8Fqe4GsHUC8DMiLR9hpBNIP0gEx73FTF5gFMh-rTOMKqKmroHbuB-J9YNZqJD0QHT2Y9hmT6Ue4TBOQvQ7ZvkawusapEF2Ny-H24Y_xXT30j3EjMA89xpugIQn0QeMmMAvkP5DMfqjMKmi4P26aBJWZDJXpA-IFYNZMaOj3gHlbgXg2OEQwYhscXiA1c6Fh-LhxPdRUmEtAcboNzFoLlQHFPYgPSkWoepaA3dUF1gFRjx7bUPvAalD9h2Qq2GePGzcgxSnMjZD4BcUrzOePGydA_Yiwj0D-7iQntkGxCYpHEyAJiktgbKPHIzFqkOIaGqNNHVA2iIUIe1DIPG7sB6dyqL-A_InQsAD5F-J7UI4GycwH81qgOW0rlrgmYB9YHzC2waIw-7qh9nUDxUHsx039UBlIGgTqAYpDRNHjGrd9oPQCKikeN-6EpiGYfaAUBJOD-A-UhkFpuQHmDlDJBXYLEXENrCsoydng_AzKyrCoNQNLQaIWe8Y2BkJskQ2KJlggQzwGy764ZaBZAlzMgQO_cRFK4IMyEShAQKLokY2cfcGZFJyMkLPTCgyZqYjIBhfpiMwJsX0WVG4WlsjG7QtY8TQJmgAQFQr-qgqcSIBqHzc1AnmIqqMWtXL3Qa7cLaB1OzDjgRRHG8aCDYNwTOOReVAp03gQDyhkAPUORVpNMFVD5NFkcNlqCskHEMUoLsBmJzAkdO0UIIER7WMYCzYJScQIQ8QYLqLMBQA)]
+- [主旋律 TMD 檔案](gyosen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OLM4ojTe0NDRVgqssy88pzU21Si9KTEmNRxIvzi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMLAwQcgUFOWXpeYl5gF1FxRl5pWkpoC1IxSklmWmpIKki5MT8-LLUosy0zJTU5CclFpUDHI51IqSosS84uSizAKQdxCq8otKMvKBzi7IqLTKyCwuyS_KTE7Mic9OzEtEKCrJSAV6rjgVQwhsaAHQDGQDM9Mz86xy8_OSSoGBpcSlpaXwbE_ji46dClpaXIq2CuZmXPa2Ci5cNkb6JnYgbc-mtb9sXvF8TuPjhq6nG7qf7tjxdEP_07U7nk7Z-Gxtz-OGbrDhL9p3PW9c_HzH3udzFz_dNQektnUNUNWzBQshCl_ObgOqfb-n4-mS5c_WLn46e_bTnVue7Oh8Nqfj_Z6e51sWPZu948XM-QoG5kamCkZm7_d0KnFx6Wsp2FILcCkoKDztmw-yZnP7ixVdLzragc56sXLe09YVQD-CXLah91l7pwIoovWyCtIfNUwGMk1BTJAL16x5smsKyN87tygUFOgpmFsAFZhbAh36fs8skOEvVu1_1rAcZGx3L9AnQNHHzd0vp24HigMNd1EAehzM7ASGrAJQDdDQlw3zn-5apvBo5kpbYLiDDHmyo-FxQ-Pjxo7HTZMfN7U8bup83LD5ccPWxw0NLzpXAXU9XTsBaNrjpt7HjZsfNzU_bmx73DgdaOjjxrlgwR2PG5cBTQCZ9WzO3GfTl4JUNzY9bpz6uHETWN26ZzvWgwX3P25c9bhxBUiwaRLQgmd7poLFJ4OV9T1t3wXmLgBzZz5u6nncuBWYUMCCs4HuA4k3NIG9vgwUs0ATwWZ1QJ0MsnXdy9lAW4FS_Y-bmsAaGp7s7oI5ayLQRLDpk4HOB4YPWHD-48YWsDkg-6AWgH3Xg-pAoJOhIfO4sQto-osOoFlA2e7HjYvAClY8buqCcEGmgEN3FzDBNj5uagOFK1ASFMAwNlA5MAi2rno5DWg80Bhg0AADaB_YpNXPJkwDh3ob2GEQt8GC-fliSHC2AB0JUf24cf3zbZtgQQUMBaBB2x43roX4_9kmsFlANzcC0wBU_cv2xTD1S8CugavHH8BNPRhSwODoftwEDC8g2Q9047NeSKhBIroHJg42F-hMuBuhbmlqer4VIgj0EFgPWBBo7su1s8DiwJQEDNRVkMQEZs-CRQU0mHcA3Y09ET_v3fS8cyXYGKAsKIFAbHjaDcqBYDuBrgW6E5gilkMD-GnrUliCAZoFDBtYOkYLSGAibtwACuAGmGJohAAZy1HTzgRYYAMDkWAwA4Nw_8aXTV1gqfXANPG4EagZHC4NDU-X7YZmSWDEgaQgFvS82N8HTjGg2ACL7AAFPJ7UjJ64gdYDg45Qtn82HRKY64GKwY4GBjswYYKtobzMhAIFLX0uLvfK_OLUPKuAzMS8fIcag5pqkBUKNoZmWnZgFrayWgFUau5oeLGwR0HDRAFYbzxf36ADL2A1sWgA2gQyrEbBVEEXCE0VjMGkLlDEMA4sBKTMgZQZWAxZlSFYxAhIGgMhiDYAiYDN8zGsUXjctAKs-nHzZiBeAmatBOvBI9O8Fioz-XHzYqDCZSBO03aotr1gqbVAPAOI24C8eISVRiAVIDGQjk4g7gKzWqB6MWQaQY4AyjSugsg07gfifWDWaiQ9EB09QFGQW5DsMybTi3CZRUDcB2Z1Q2XA6pq2QnW1w-3DH-G7eugd4UZACOKhR_giaBiDfDAJ7DOQ_0DROh_q5y4g7gCzNkH9vBmqZx1QrAHM2gnVswasbipQZDc4RDBiuxEUt6D4mguNM2C-hMZpE1KcbgOzQAkLJAOKexC_F0MPJPSBLgTqgKhHj22QCpCbVqH7rwmahppAaRPks8fNE5DiFCSzFxa_4HiF-fxx0waIH5t7iYztHZ3kxDYoNkHxaAIkQXGJJeMSowYR1_AYXQFlg1gQf4FSAShkHjetB6dyqL-A_I1QPaA4hfgelKNBMvvBvCXgWAfJY8Y1SAVITQeUDWIh4hqSQ4GxDRaF2tcIylegGO4GioPYwIoYKgNyK1gPUBwiihbXuP3XDFL9uHkeEM-E5l2ofc3Q9AiSg_oPlIZBMgvAvNXQkguU7oiIa2CjnZKcDc7PoKwMi1ozsBQkanGX5NgyNiiaQB4DRg7UY7Dsi1sGmiVAxRzQ4yAWKKJAgQEpAICZCBwgIFH0yEbOvmC9TVC98CwPjBY0GVCigUY2uEgHtliQkgGw0QSVm4UZ2Xh8ASueNkETAKQwJ1RTQdMIKD0vBGJETVXLxaVrpwCp26N9DGMVkHhGKDxjME-ZCwA)]
+- [鋼琴伴奏 TMD 檔案](gyosen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2p_FFx873ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYK5GZe9rYILl42RvokdV52C0rNp7S-bVzyf0_i4oevphu6nO3Y83dD_dO2Op1M2Plvb87ihWwmk6kX7rueNi5_v2Pt87uKnu-aA1LauAap6tmAhROHL2W1AtUCbny5Z_mzt4qezZz_dueXJjs5nc4CW9zzfsujZ7B0vZs5XMDA3MlUwMgM6SImLy70yvzg1zyogMzEvP8jDocagpppLAQhsDM207MAsfS0FW3Sg8HzNmic7Gl4s7FHQMFEAuvb5-gYdhQADCxO9rIJ0TSwatPTBhtUomCroAqGpgjGY1AWKGMaBhYCUOZAyA4shqzIEixgBSWMgBNEGIBGweT6GNQqPm1aAVT9u3gzES8CslWA9eGSa10JlJj9uXgxUuAzEadoO1bYXLLUWiGcAcRuQF4-w0gikAiQG0tEJxF1gVgtUL4ZMI8gRQJnGVRCZxv1AvA_MWo2kB6KjBygKcguSfcZkehEuswiI-8CsbqgMWF3TVqiudrh9-CN8Vw-9I9wICEE89AhfBA1jkA8mgX0G8h8oWudD_dwFxB1g1iaonzdD9awDijWAWTuhetaA1U0FiuwGhwhGbDeC4hYUX3Ohcfa4cT00TpuQ4nQbmAVKWCAZUNyD-L0YeiChD3QhUAdEPXpsg1SA3LQK3X9N0DTUBEqbIJ89bp6AFKcgmb2w-AXHK8znj5s2QPzY3EtkbO_oJCe2QbEJikcTIAmKSywZlxg1iLiGx-gKKBvEgvgLlApAIfO4aT04lUP9BeRvhOoBxSnE96AcDZLZD-YtAcc6SB4zrkEqQGo6oGwQCxHXkBwKjG2wKNS-RlC-AsVwN1AcxH7c1A-VAbkVrAcoDhFFi2vc_msGqX7cPA-IZ0LzLtS-Zmh6BMlB_QdKwyCZBWDeamjJBUp3RMQ1sKqgJGeD8zMoK8Oi1gwsBYla3CU5towNiiaQx4CRA_UYLPviloFmCVAxB_Q4iAWKKFBgQAoAYCYCBwhIFD2ykbMvWG8TVC88ywOjBU0GlGigkQ0u0h83rkNKBo8bZ0HlZmFGNh5fwIqnTdAEACnMCdVU0DQCSs8LgRhRU9WiVu0-yFW7BbRmB5bEIMXRhrFgw8Ac03hIGkORgQiCSAOob0jUChRC6DSBimCYjFsG2U6YNWDFKA7AaicwIHTtFCBhEe0DUoHgGaHwjME8ZS4A)]
 
 ## 分析
 
@@ -81,30 +81,32 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 漁船 ]
 ================================================================================
-⏱  Duration:       0:25 (25.3s), 16 measures total
+⏱  Duration:       1:15 (75.8s), 48 measures total
 🎼 Key & Tempo:    首調基準 D, != 76.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Gyosen #1 @ m.3, 0:04]
-   - 最高音: D5 in [Gyosen #1 @ m.2, 0:01]
+   - 最低音:  D4 in [Gyosen[L1] #1 @ m.3, 0:04]
+   - 最高音: D5 in [Gyosen[L1] #1 @ m.2, 0:01]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Gyosen (25.3s)
+🏛  結構:      Gyosen[L1] (25.3s) -> Gyosen[L2] (25.3s) -> Gyosen[L3] (25.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, F#, E, B
-   - 調性數值:    D 大調 [相關度: 0.91, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.91), A 大調 (0.82), F# 小調 (0.68)
-   - 五度圈歷程:   +2
+   - 核心骨幹音:  A, F#, D, E, B
+   - 調性數值:    A 調性不明確 [相關度: 0.85, 穩定度: Ambiguous, 自然音純度: 96.6%]
+   - 候選調性 (K-S): A 大調 (0.85), D 大調 (0.82), F# 小調 (0.76)
+   - 五度圈歷程:   +3 -> +3 -> +3
    - 各段落調性細節:
-     • [Gyosen #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [Gyosen[L1] #1]: A 調性不明確 (r: 0.85, 自然音純度: 96.6%, 調外音: G)
+     • [Gyosen[L2] #1]: A 調性不明確 (r: 0.85, 自然音純度: 96.6%, 調外音: G)
+     • [Gyosen[L3] #1]: A 調性不明確 (r: 0.85, 自然音純度: 96.6%, 調外音: G)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
-      Bb              [D ]*
-      Eb               A  
+      Bb               D  
+      Eb              [A ]*
          Ab           E  
             Db       B  
                F# 
@@ -113,11 +115,11 @@ tmd_source:
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# : █████                      5.1%
-     D  : █████████████████████     23.7%
+     D  : ███████████████           16.9%
      D# :                            0.0%
-     E  : ███████████               12.7%
+     E  : ██████████████            15.3%
      F  :                            0.0%
-     F# : ██████████████            16.1%
+     F# : ██████████████████        20.3%
      G  : ███                        3.4%
      G# :                            0.0%
      A  : ████████████████████████  27.1%
@@ -125,7 +127,7 @@ tmd_source:
      B  : ███████████               11.9%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 64 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 192 個音符)
 ================================================================================
 ```
 

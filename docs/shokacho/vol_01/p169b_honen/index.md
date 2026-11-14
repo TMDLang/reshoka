@@ -4,12 +4,12 @@ song_title: "豊年 (輪唱歌)"
 song_id: "shokacho_vol_01_p169b_honen"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈豊年 (輪唱歌)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：A 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）［I］ツキハ　イデテ　フエハ　キヨシ ［II］オドレ　イヘヘ　トヨト　シ…"
+description: "〈豊年 (輪唱歌)〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：A 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁資訊與歌詞全文**（對應 `P169.jpg` 下半）：…"
 keywords: "豊年 (輪唱歌), 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
 sources:
-  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P169 下半）"
+  - "日治時期公學校《唱歌帳》第一冊（典藏號 2020.006.0843・P169.jpg 下半）"
 musical_key: "A"
 meter: "3/4"
 tempo: "108"
@@ -30,33 +30,32 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="honen.mp3"></audio>
 
-- 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P169 下半）
+- 日治時期公學校《唱歌帳》第一冊（典藏號 2020.006.0843・P169.jpg 下半）
 
 ## 說明
 
 
-
-- 出處：《唱歌帳》（國立臺灣歷史博物館典藏號 2020.006.0843）第 P169.jpg 頁下半。
-- 調性與拍號：イ調（A 大調），3/4 拍，標註「豊年 (輪唱歌)」。
-- 背景與曲風：二部輪唱歌（Canon / Round）。全曲共 8 小節，分為「I」（第 1–4 小節）與「II」（第 5–8 小節）兩個樂句：
-當第一聲部唱完前 4 小節進入「II」時，第二聲部由「I」進入，兩聲部形成和諧的三度與五度對位，歌詠秋夜明月清笛與豐年歡舞。
-- 版本說明：本檔案同時呈現單聲部完整旋律與二部輪唱（`Voice1` 與延遲 4 小節進入之 `Voice2`）。
-【原頁歌詞全文與中文語譯】（對應 P169.jpg 下半）
-
-### 編曲說明（鋼琴伴奏版）：
-
-1. 前奏 (Intro, 4 小節)：取輪唱第二句旋律作為導奏。
-2. 輪唱伴奏 (Song, 20 小節)：包含第一聲部與延遲 4 小節進入的第二聲部輪唱，並以 3/4 拍和聲伴奏支撐。
+- 出處：日治時期公學校《唱歌帳》第一冊（典藏號 2020.006.0843- P169.jpg 下半）
+- 調性與拍號：調號 ?= A，拍號 <3/4>，速度 != 108
 
 
 ## 歌詞
 
 ```text
-（一）［I］ツキハ　イデテ　フエハ　キヨシ
-［II］オドレ　イヘヘ　トヨト　シ
-
-（二）［I］カゼハ　スズシ　ウタハ　スミヌ（澄）
-［II］オドレ　イヘヘ　トヨト　シ
+> [!NOTE]
+> **原頁資訊與歌詞全文**（對應 `P169.jpg` 下半）：
+> - **標題與調拍**：標註「`イ調 3/4`」「`豊年 (輪唱歌)`」。
+> - **二部輪唱結構**：全曲共 8 小節，分為「`I`」（第 1–4 小節）與「`II`」（第 5–8 小節）兩樂句：
+>   當第一聲部唱完前 4 小節進入「`II`」時，第二聲部自「`I`」進入，兩聲部形成三度與五度和諧對位。
+> - **字面校勘**：第 6 小節歌詞抄作「`イ ハ ヘ`」（「祝へ」，舊轉錄誤植為「イヘヘ」）；第 4 小節第 2 段「`ス ミ ヌ`」下方旁註漢字「`澄`」。
+>
+> **一、**
+> ［I］ツキハ　イデテ　フエハ　キヨシ
+> ［II］オドレ　イハヘ　トヨト　シ
+>
+> **二、**
+> ［I］カゼハ　スズシ　ウタハ　スミヌ（澄）
+> ［II］オドレ　イハヘ　トヨト　シ
 ```
 
 ## ABC
@@ -67,8 +66,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](honen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGZZRK6FNyo-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJDelFhWDXQtxRElRYh7EDKAgQhVQU3pmnlVpHsigksy0zNQUJS4tLYUXG7ue7tyioPFiz6qnUzY-W9ujqaClxaVoq2BoYMFlb6vgyGVjrG9iBzLn2fSlzzbtfjaz6dmc-U9b1zxdu-PZgoWPG7og-p7u2Py4ofv9no6nrTteTO9_MXO-gpGBkYGegYGZnoGFifHj5t2goFF4sqP7aW_X-z2dSlxc-loKttQCXAoKCo8bJjybven57HUvVq16NqPvccNEsGjz7qftu17MnPp-zywszp3T_Xx194v2Xc8bFz9bu_1p_6anvbOed658uWQFDp8A3f58zRoFkG_0sgrSFV4uaIR46nFDE9S-F6v2P2tY_qKj_Vl3L1A_yOKmJUBBoH2OCk-XLAczO9_v6QGGrQJQDZD1bMXMFyt2P27owYyRxw29SEY39zybuR5k9OxNLxetABr9ZFfPy-YVcOVAO5wT8_LzFPQVgvJL81KAFgF1P21dAdTwtHWjgoXC0w39z9c3AO182tH2vGkX0E5PoBVAfSBvGT5qmGwCV9IJtAgkj6TAFKgAYUbn09aVTxu6n61oetq_FOgYkCsVFJ5P3QZU-mRHw4vGTUC3AR32dF3P085eBZjJLxuAblkKMxmYpoCuAenY1QPR8XzKRqizICpBjm1dCTVt76JnHROeTup5sXr581ktT3Z0Pt21DOjOJ7umABlPN_Q-2QsO0LU9L1YueL68--mSOcDE8GxOx7Mdrc_XzAaqfLFxAjCIn61d-KJjHiJkn3d2PJuzBpJ0gD4Bsp-tmvJsYcfTCcAQb3o6seN5_76n09ZBHbGu59nULc-mdz_d1w22GxEHwHBKCMvPTE41TFAASj3dve1l4yY0nz_Z2a0AUWSUAIkgLmgCfto3H5igwI6fB4q0ae0g43esBTFWzXuxdj0wVYOS7YbeZ-2diEQIz1Zgc4AKgIEPTmK7Pd_v2fu4ueVx09rHzf2PGxqAKfFxc_vj5jYQu3nq46YVMHGgghWPm7ZDDNjtCdbYtOpxc-fj5jUwjTNACKSxA6QYSILEoVo6IA4EhR04vJ_2tr_Yuv1xQyMo1Bs3AYP_ya517_fMBgoCA_7phOUgqaVzX2wGBspMYJw8m7INGC7AmHm_pxHZJ7uAaRruk6bVj5v2wFy88zEw-TYBrQCylz1u2o8Qb57_uBmUFZ7tawEZRbmXnu5bB8xuQD8827YH6G5QBAG9tK_l2b4OErwENJTyog4KFLT0ubiC8_PSrSCpzaHGoKYanP9sLLTswAxgAQvO0wovG4FZYpangraCpydIH0iyRsE0XkEXiagBKtSF4xoFIyCpq2AMTLognjGYDcE1MANAWqEYwgPJQnSbg4wEcUDGQIwGQQO4dqjjjAal42rAbBgkgcdVixwpRtgjBWuZACk9EAFArgMGR_ANnP3ACNC1UwDFgQKQVuYCAA)]
-- [鋼琴伴奏 TMD 檔案](honen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixsevpzi0KGi_2rHo6ZeOztT2a7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMLLntbBUcuG2N9EzuuOgWlZ9OXPtu0-9nMpmdz5j9tXfN07Y5nCxY-buiCGPZ0x-bHDd1AE5-27ngxvf_FzPkKRgZGBnoGBmZ6BhYmxo-bdwcYmlkqPNnR_bS3C2iPEheXvpaCLbUAl4KCwuOGCc9mb3o-e92LVauezeh73DARLNq8-2n7rhczp77fMwuLc-d0P1_d_aJ91_PGxc_Wbn_av-lp76znnStfLlmBwydAtz9fs0YB5Bu9rIJ0hZcLGiGeetzQBLXvxar9zxqWv-hof9bdC9QPsrhpCVAQaJ-jwtMly8HMzvd7eoBhqwBUA2S9bJj_dNcyBUjII0x6vn0F0EsQ_2CNLqDZIKUKCoZ6Ck87e4HiChqeeSVF-ToKJgpPN_Q_X98AjOdZT_unQeId6PQnu3qe9i99Nr376b7uJ3vnPG_a9XRDH1Aj1FYFBSM9BYhiiEUKGsH5eek6wFBANrCn9emE1SDTdjS8aNz0snkF0LtPd2972bgJbvHLhk1PW5c-n9UCsRSqDGwy0MdPdix7snupAjQInk4CyUMsfDZl_bNJE6DOoTxpQIGClj4XFzhorAIyE_PygzwcagxqqsFetrHQsgMzahRMFXThGMIzBmJDMM88HkiBOEZgLkgQBA1APK5aFNN9kE03gZtuGK8QbRgLxmgc03ggzzQeyAURcEkDiMmgGLAKy89MTjXE7mqQyxAExG0wXAN2L8gjJmAeyEMwXEOptweH_SA2DJLAQw1aI6xBS67RIz1iYEGLLzvgSPR4cwRYktzsNEQ1Q0sBXTsFcBGjAGSAwhZEK3MBAA)]
+- [主旋律 TMD 檔案](honen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGZZRK6FNyo-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK4uTEvPiy1KLMtMzUFCR3pRYVg10McUhJUWIexBygIEJVflFJRn56UWJBRqVVRmZxSX5RZnJiTnx2Yl4iQlFaflGuFdAWZI0lGalAXyemA9WX5pSUFqWiSxWnJhbn5xUjW5WZnplnVZoHcncJ1LVaWgovNnY93blFQePFnlVPp2x8trZHU0FLi0vRVsHQwILL3lbBkcvGWN_EDmTOs-lLn23a_Wxm07M585-2rnm6dsezBQsfN3RB9D3dsflxQ_fzNWue7Gh42tb1fk_H09YdL6b3v5g5X8HIwMhAz8DATM_AwsT4cfNuUJToZRWkKzzZ0f20F6i2U4mLS19LwZZagEtBQcFOIVrRzz_ENRbC0dJ62jf_5YLGF5vbX6zoetHRDnTzi5XznraueDatXUsL5N4Nvc_aOxUSYK5LQDjv_Z5ZEFN0geY8WzHz5cIeoAkvVu1_1t0L0jsLKPZixe7HDT0Jj5uWAMUVgIGW8LihFySCGcQQmSaEkU929bxsXgFR8HzrhGfLu8Gmghw3e9PT1o0KFgpPN_Q_X9_wfk_P04625027QAZ7gswBOhwY6AqGjxomm8AVdQJdB1aBrMQUqARhTufT1pXPVjQ97V8K95yCwvOp2yAx-KJxE9BBQNc8XdfztLNXAWb0ywagc5YijAamBqCTQHp29UD0vGhfBXcbRDXIza0roSbuXfSsY8KTHZ1Pdy0DuvHJrilAxtNJPS9WLwcG_5O9qMHydO30l3MXAVPZ0-4Z4AABecMM6hRI_D3ranmydw404BUeN_cD8Qyop4Giz5fOfdy4A8wFxljXi72dL3taXqxa8mxJLyQQgbqAGkAIpAYY0bNBdsC8C2IbKTxbtxViwU6g4fOBGMhu6AUmjmfTdj6b3giM-Gd7FgHdClL0bF8LcuzC0h4wSB83NAJzFpj_fs9uz_d79j5ubnnctBbo5scNDWB3tD9ubgOxm6c-bloBEwcqWPG4aTtCJ1hr06rHzZ2Pm9fAtPaDvQDU2gFSDiRB4hBNcDfs6sHihqbVj5v2wOza-RgYKE3bwexlj5v2I8Sb5wO9DQxToP-AwUS2YyjP2lCgoKXPxeWRn5eaZxWWn5mcauhQY1BTDbJCwcZCC-xnhRoF03hgOkIQNQqGQBKGa4BRqwuExsDoBvGMwWwIrgEb4GNYA4ztFiAfGA0gEpi8QCpBSQ3EaweTbRCx5qlg04Axh6QOomsFWHw7wlwjkNxqsOgeFHN3gsV2IdQD6WVQc_ejqwOmRRDZAzYX5mOQX6EYwgN5B-Jdc1AYgDggf0PCAgQNUP3btApsaieYXIPiX5DtwKiF-rcD4i6g7yBskDqQm0EQHNpIfqWemVB_ghwNgyTw4N6EBAVMDdE8uJfI1V-LkmqNsKbaoeq30UwHVjgMMx0w1eraKYATbrSPYawCgmME5ihzAQA)]
+- [鋼琴伴奏 TMD 檔案](honen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixsevpzi0KGi_2rHo6ZeOztT2a7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMLLntbBUcuG2N9EzuuOgWlZ9OXPtu0-9nMpmdz5j9tXfN07Y5nCxY-buiCGPZ0x-bHDd3P16x5sqPhaVsX0OinrTteTO9_MXO-gpGBkYGegYGZnoGFifHj5t0BhmaWelkF6QpPdnQ_7QWq7VTi4vLMKynKtwrITMzLD_JwqDGoqeZSAAIbCy07MKNGwVRBF44hPGMgNgTzzOOBFIhjBOaCBEHQAMTjqkUx3QfZdBO46YbxCqZghMI0jY9XMEIRNoAY6JGfl5qH37kgJyEIiKNguAbsUJAPTMA8kE9guAZsgI9hjcLj5hYg_3HTWhDZ3A9W-bhpCZjXDibbIGLNU8GmPW5agaQOomsFWHw7wlwjkNxqsOgeFHN3gsV2IdQD6WVQc_ejq2ueDyZ7wOZSGkFw_zatApvaCSbXoPgXZPvj5hlQ_3ZA3AX0HYQNUgdyMwiCQxvJr9QzE-pPkKNhkAQe3JuQoICpIZoH9xK5-lGTrRHWVDtU_Taa6cAKh2GmQ021OEpvzHIaufg2AVLI4sQU-ebx8dpAilRtIAqtqtC1UwBXPwpABtgn0T6GsUgcIzBHmQsA)]
 
 ## 分析
 
@@ -76,14 +75,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 豊年 輪唱歌 ]
 ================================================================================
-⏱  Duration:       0:33 (33.3s), 20 measures total
+⏱  Duration:       0:40 (40.0s), 24 measures total
 🎼 Key & Tempo:    首調基準 A, != 108.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    E4 (MIDI 64) – E5 (MIDI 76) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  E4 in [Song #1 @ m.1, 0:00]
-   - 最高音: E5 in [Song #1 @ m.5, 0:06]
+   - 最低音:  E4 in [Honen[L1] #1 @ m.1, 0:00]
+   - 最高音: E5 in [Honen[L1] #1 @ m.5, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song (33.3s)
+🏛  結構:      Honen[L1] (20.0s) -> Honen[L2] (20.0s)
 ⚡ 編曲密度:        Peak 2 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -91,9 +90,10 @@ tmd_source:
    - 核心骨幹音:  E, A, C#, B, G#
    - 調性數值:    A 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): A 大調 (0.89), E 大調 (0.76), C# 小調 (0.71)
-   - 五度圈歷程:   +3
+   - 五度圈歷程:   +3 -> +3
    - 各段落調性細節:
-     • [Song #1]: A 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Honen[L1] #1]: A 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Honen[L2] #1]: A 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

@@ -4,11 +4,12 @@ song_title: "朝の歌"
 song_id: "shintei_jido_shoka_grade_5_2020.006.0847.0005_2_01_asa_no_uta"
 collection: "shintei_jido_shoka"
 volume: "grade_5_2020.006.0847.0005"
-description: "〈朝の歌〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　朝日は昇（のぼ）りぬ日は出でぬ 海には帆綱（ほづな）をたぐり上げ…"
+description: "〈朝の歌〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 相較於大正二年文部省《尋常小學唱歌 第五學年用》原曲，本譜第二行（m.5–8：`1. 6_ 6_ 1 | 1. 5…"
 keywords: "朝の歌, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（臺史博 2020.006.0847.0005）"
 sources:
+  - "composer: 文部省"
   - "臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）"
 musical_key: "G"
 meter: "2/4"
@@ -34,17 +35,22 @@ tmd_source:
 - **鋼琴伴奏版**：<br><audio controls src="asa_no_uta.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="asa_no_uta_neutrino.mp3"></audio>
 
+- composer: 文部省
 - 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
 
 ## 說明
 
 原書資訊與歌詞全文（對應 P036.jpg，書頁 p. 13，第二學期第 1 首）：
-調性與拍號：原曲イ長調二分之二拍子（譜面移調為ト長調 G 大調 2/4 拍），♩= 96，（文部省）
+調性與拍號：原曲イ長調二分之四拍子（譜面移調為ト長調 G 大調 2/4 拍），♩= 96，（文部省）
+版面校勘：
 
 
 ## 歌詞
 
 ```text
+1. 相較於大正二年文部省《尋常小學唱歌 第五學年用》原曲，本譜第二行（m.5–8：`1. 6_ 6_ 1 | 1. 5_ 5_ 5_ | 2 - 1. 2 | 3 - 0`）與第三行（m.9–12：`5. 3 3 5 | 5. 2 2 2 | 3 - 2. 2 | 5_ - 0`）之樂句順序互調。
+2. 第二段第三句於五線譜下印作「あさつゆ」（朝露，同文部省原詞），底欄歌詞全文則印作「朝霧」。本檔 L2 依五線譜面假名「あさつゆ」轉錄。
+
 一　朝日は昇（のぼ）りぬ日は出でぬ
 海には帆綱（ほづな）をたぐり上げ
 追手（おひて）に帆あげて船出する
@@ -52,7 +58,7 @@ tmd_source:
 
 二　朝日は昇りぬ日は出でぬ
 山には小牛を追ひながら
-朝霧踏分け（ふみわ）登りゆく
+朝霧踏分（ふみわ）け登りゆく
 少女（をとめ）の歌や高からん
 
 三　朝日は昇りぬ日は出でぬ
@@ -69,8 +75,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](asa_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5Zk5qbG56fFpyRWIqSA5qVn5lmVJGaWJ-YBZdMyk8EWaGkpPJsz93HjumdrexS0tLgUbRUszbjsbRXcuWyM9E3sQAa8aN_1vHHxs6kzXzRtejan-Wnrmhereh83dD2btuHpullPWyc9X7306ZSNQBMeN3Q_3dD9dMeO58snPl-z5smuKU_X7ni6c8vzKSve7-kAhZ4eMPT0QKEHZBiYvt_TqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70F0vVs572rri2bR2oCuebuh91t6pEGBgbKaXVZD-fk8PUPHLBY0KBXoKhsZALtjhPUCHP5szH8hWMFR4uWwa0KXv98wCmf5i1f5nDctB5nb3vpg5HygKtm_T46YlL6duB8qCNHe0PdnZDWQA1TxdOwFo64u1c17OXfR8-W6ggudNux43d0AUK7grPF2yHMQAhrYCUDnYop5HM1eCIgLIAuoFuvtl84rncxqBclwgJzzZ0fC4oQEYb8-mL33cuP7ZDJC_gHH4uHEPUMnjpq7HjWsgUk_bdz1uXA7kgrQ927r9ceNqkOiOtufbNoL17H7cCFS3Cqxt0uPG-Y8bJwD1P9kBNGIS2Lf79z7r7AYrBQptety4DKS0cTXQiMeNTUBFQJEXHTvB9sx83NQNtefp4tVPdu0CawMq2ve4cfPjRmAS6Hyyu-txU8vT7vbHTQ2Pm4B2ToZ4aBcw6aB4CKcnnm7cCPXEhv7nnbOBrgY6EeyyVY8be4Bmgl0wZ-7LOctf7OgHRsTjxolgd2x93Lj_cVM_0BHPZ-4GGd8ElOoHG7lh4tOlm0GKQEGw4nETKKAhWQLo2JerZzxu7EZ27I5OYh37fAqQA3bs9qVPF2wBu2Py40agxRsgVjxfMxvkcJD-ZWCzgeHTOP1xU9OLaS1g1UClM8GRA1Q9AeStuRBxYKhOBSoDug8SH2Bfr5z_bBHQYKB0L8jJjRC5dS_ngz0HikBQHID8NH8_WASYaOeB1fRD_Qc0hfI8CAUKWvpcXI7FiX75oSWJVgGZiXn5DjUGNdUgSxRsDM207MAsbLlf4emejS-2bgdmMlBm3NHwYmGPggYsx2piUQ-0CmoWKnjctEhBoQZIbQXzmicBcT-I0QcWbp4DEV4FxD0QebAwSEnTEpBAO4gAStWgGLpMAWZjjYKBgi4YgmjTeCBRAywxQALm8WCGEVjIGCxkBKZNwSImQBLEA8mD1NWAWagmga3wMaxRAPFAEESD_ARSDvIUSAzmKxCrDyID9BdEBuIxiBqIDFgd0G8gsXYwCZKvgZoPs2EZwnYjNNsbmyAmNU6F2NG4CYjXg1nroDJ7IDJNXUD2GqgaiAxEXQuYXA4mQfLotoPkobYb093vzfPAtuNOm5D6AZwkTYBlR__z9Q068OoEf-J83DwfkuC6YelwNiTBtUKEgQHWvAmUwPZDUu0GSOKEJOPHTUAp1HQIlIKnQ5yJzgSc4EBsSBID8UzU4YpAXHiqQwQ8MNGBXAsJSohzQazZ0KBshcpAXAwK1v3QiNkADXxYZIGcjRnFIHlEAgNWERDzGlfDE8lkiHmNbVCZ6UBdoIgElmNQGbC9jWCbGsER3dSJaRMkucIT0-PmRnQ_NW2GuhyU6EEyE6CJ6XEzKImDZFZA_Qr3WTPIVeh-AiUsQglnRyeZCQdYMoFsBTscnm7gyQIqNRWSmrpgJVfTThBrNXqyAeqCJxszoKNBaQNUHCESBIgFEoUUTJhFFSRlQUTQiipIdoOEEMixSKkGKT3A5KEhDA1bcKYEOhrEXo0SwpACBZz5kVINSPfjRnBcAQsbEBtULIBkQKkRWNuDxSaCSeTCCaq6CeyGRpAqdJvARQZSqgEVCo-btoNdBvEFuIiEu3YlWAyc9lGKKKjqZkihAwoNdJvWgm3Cm2qezp5NZqqZB4r_ySCiA1qlQTwDLm2WQCs5UOUIEl4AElwJIjZDUgpyqgEBlLIGliBAiQO1qAElKUgyQlYHK6EgJQ0IIqcZcPgCXQoiO8DhAs5NUBlICEKLbnC4QtwLD3mgi6FmwkMWVm0gpxdwPm4ClQCQ9AApXUAy0JIOWPVA2MD2E1QGnILBJQuwgUTIFlBaaQKlXFg1A0mb4NIO6jOoX6C5BFrKNYHLPCL8UsvFpWunAGtVKQDZylwA)]
-- [鋼琴伴奏 TMD 檔案](asa_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z-7jxnXP1va839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRXcuWyM9E3suOoUlF6073reuPjZ1JkvmjY9m9P8tHXNi1W9jxu6nk3b8HTdrKetk56vXvp0ykagsY8bup9u6H66Y8fz5ROfr1nzZNeUp2t3PN255fmUFUAbjQyMDPQMDMz0DCxMzIEMA1OgpUpcXI7FiX75oSWJVgGZiXn5QR4ONbqGNdVcCkBgY2imZQdm6Wsp2KIDhad7Nr7Yuv1FRzvIsh0NLxb2KGgEGBib6WUVpGtiUa-lDzarRsFAQRcMQbRpPJCoUTAEC5jHgxlGYCFjsJARmDYFi5gASRAPJA9SVwNmoZoEtsLHsEYBxANBEP24aRFY-eOmrWCxx82TgLgfzOqDyDTPgcqsAuIeqBqIDFhd0xKwWDuYBMnXQM2H2bAMYbsRmu2NTRCTGqdC7GjcBMTrwax1UJk9EJmmLiB7DVQNRAairgVMLgeTIHl020HyUNuN6e735nlg23GnFHBq7AEnEBOFpxv6n69v0FEgKqngTBcm4DQBYkNSAYhnog5XBOLCEwYibIDp4nHzfKhvu-HhMBvq21aoDDAWmkHh_7hpPzTsNkDDBxaej5sg8YMaCyB5RBp43LgPYl7jang8ToaY19gGlZkO1AUK68eNXVAZsL2NYJsawXHR1IlpEyRFweP7cXMjup-aNkNdDkqXIJkJ0Ph-3AxKhSCZFVC_wn3WDHIVup9AcU8obnd0khO3ZkCTQREIytaIWAOxQKKQDI6Z5SHRDxFBy_KQZAvxBigokKIWKdJg8tBggAYAOHE37QSzV6MEAyRjgjMRUtSCdD9uBAcoMNOC2KDsBZIBJZnHTeBIaJwIJpEzOVR1E9gNjSBV6DaBsx5S1IIy1-Om7WCXQXwBLmrgrl0JFgMnUJSsDlXdDMm8oNBAt2kt2Ca8Uft09mxysy0s2kBRiJprQREPiWxkdbDMDsm0IIgcs-BQaAZln8fNHWDXgxMmVAbiT2hBBfY9SGYBInyaQdkBbCbc_7BCEjlWwVmiCZSZILEGyaggGWihASxoIezHjZAQhdCQTPq4CeQ-vLaAYrQJlL5ghSokBYELDqjPoH6BpmVogdEELj6I8Esteo3ug1KjWyAqdGBz5NmGxS8mr3na3fxkZzewgH7W3ft07YSn25c96-yGNE0w62xgLMUrRBvGAvMekDaNj0WIQClgpgUyTJD4cKUghgE0KIgxyAjIMIqFUTgNMgMJm8XnQlUCaSSlVHMVVD-aRgyXg0wCRoKunQIsHqJ9gDIofKBnUPjGYL4yFwA)]
+- [主旋律 TMD 檔案](asa_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzs9Hl4wsS01OtAgyMzRAyBUX5Zal5iXlA3QVFILekgLUjFKSWZaakgqSLkxPz4stSizLTMlNTEPL5RSUZ-UA3FmRUWmVkFpfkF2UmJ-bEZyfmIXsltagY7F2IO0qKEvOKk4syC0BhgFBVkpEK9G9JZm5qfH5afEpiJbpUeX4RkqeANqVn5lnl5ucllQKDTolLS0vh2Zy5jxvXPVvbo6ClxaVoq2BpxmVvq-DOZWOkb2IH0pmcn1uQX5xaZKXwbFr7y-YVz-c0gk180b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbgSY_buh-uqH76Y4dz5dPfL5mzZNdU56u3fF055bnU1a839MBiiU9YCzpgWIJyDAwfb-nU4mLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oLterJz3tHUF0FdAVzzd0PusvVMBFNV6WQXp7_f0ABW_XNCoUKCnYGgM5IId3gN0-LM584FsBUOFl8umAV36fs8skOkvVu1_1rAcZG5374uZ84GiYPs2PW5a8nLqdqAsSHNH25Od3U9nzwaqebp2AtDWF2vnvJy76Pny3UAFz5t2PW7ugChWcFd4umQ5iAGMBQWgcrBFPY9mrgRFEJAF1AuPDaAcyAXPOzuAZj1bsPBp9wyoowz1FJ4Dvbyn-dm0PUDznq1dDHLFzi1wrcDogsTM0w39oDgBR5cCWhyBog_sF1CgzFkDdDMkLF4sBDkjV8_0UcNkC6CNCUDrzOJByFChBmS3aTwU1SgYKeiCRIyATGMg0yAB6GhgYIEM2tEJM8gSaJChEcgkUz2gMmMFU6ByINMIDCE6jSCGAA2FmgIM0Wcrmp72L325oO3prv4nuyYBg-1xQxPI_0DFEKc-W7cVYhVQHTAsgL57vn0W0CNPdnQ_7d3wZO-cxw09jxubHjdOfdy45HFT2-MGYIh3ALPGyzkgXz-d0AMPMmBQANMNJD6e7pr6bE0Lckp62tkONxCsfTnQKKBrgOH2bNUUBR8jhSf75sKtB8bX08b2pxOAKtCtf7G382VPC8gfII882dHwuKEBaOCz6UsfN65_NgOUZIHZ9nHjHqBLHjd1PW5cA5F62r7rceNyIBek7dnW7Y8bV4NEd7Q937YRrGf340agulVgbZMeN85_3DgBqP_JDqARk8AJef_eZ53dYKVAoU2PG5eBlDauBhoBdiJQz7IXHTvB9sx83NQNtefp4tVPdu0CawMq2ve4cfPjRmDu7nyyu-txU8vT7vbHTQ2Pm4B2ToZ4aBewVEDxEE5PPN24EeqJDf3PO2cDXQ10Ithlqx439gDNBLsAHNYvdvQD8xjYEVsfN-5_3NQPdvvE5zN3g4wHBmxjP9jIDROfLt0MUgcKghWPm0B5CFIKAh37cvWMx43dyI7d0UmsY59PAXLAjt2-9OmCLWCnTH7cCLR4A8SK52tmgxwO0r8MbDYwfBqnP25qejGtBawaqHQmOHKAqieAvDUXIg5OHU1NQPdB4gPs65Xzny0CGgyU7gU5uREit-7lfLDnQBEIigOQn-bvB4sAyyNQ2gWGA9R_QFMoL16hQEFLn4vLsTjRLz-0JNEqIDMxL9-hRtewphpki4KNoZmWHZiFrWRXeLpn44ut22FlQgOwTFDQgJXGmljUA-0CmVWjYAAsCUAQRIOLBWDZAxYAcoxBfDABLTJ0QcUTmAVVCipTQBBUQIEFYbohBoLYNWCLfAxrFCAm6ILpx02LwAY8btoKFnvcPAmI-8GsPohM8xyozCog7oGqgciA1IHlmpZA1bSDxUGqEDYsQ9huhGZ7YxPEpMapEP2Nm4B4PZi1DiqzB2pDF5C9BqoGIgNSB9HVAqWXg8VBqhC2g-SgthvT3e_N88C2404v8DpIQcMEmKH7n69v0IFX33gTDCR-ITUVNIYRKQY5bUDSBEQJKIUgUgs4rSGCB5g0HjfPh3qmGx4Us6EeboXKACOiGRQFj5v2Q4NvAywogMEECZJFYHGQKkRgg-QQyQBYukLUNq6GR_lkiHmNbVCZ6UBdoOAGFgFQGZiJwMIHSveAbepEtgmSqOBR_ri5Ed1PTZuhLgclTZDMBGiUP24GJUSQzAq4n0B2Q_wGMgviNpifQFFPKHrBLQOSoxcUL8BMD44rcBxBRUBtCEg-R8_18AYFPGrB8Y8Ut6CwBPmkDRwWSHELzggg_wCzH9iH8HCA-h6SvCFqdoLFV6OEAzgjIcUtLDsvAcqBzWsEZTGQDCjNgHT0A9kTwTKoGR2S1SF0G1gcltEgNoGzH1LcgjIYSHw7kA1yBbS4AbsT4u6V0BSKnt1BclB_Ny8B-wkUJgib1oJtwhu3wEYw-VmXGgU7CCLHMDQ0micDcQfYF-AUCpeB-BVJHCksFsDDC6QelENgYYFkCzh2IXkD2N6Axh4kx4JkIKUHrNiF8EHisJCFsUA5FmQ7KMdjsQUUs02QFAZyKTRvQkoQqM-Q_AIvkmGmPW6CVA24_VLLxaVrpwCr5KN9DGMVUPhGaHxjMF-ZCwA)]
+- [鋼琴伴奏 TMD 檔案](asa_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2Z-7jxnXP1va839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUszbjsbRXcuWyM9E3suOoUlJLzcwvyi1OLrBSeTWt_2bzi-ZxGJZD4i_ZdzxsXP5s680XTpmdzmp-2rnmxqvdxQ9ezaRuerpv1tHXS89VLn07ZCLTucUP30w3dT3fseL584vM1a57smvJ07Y6nO7c8n7IC6BIjAyMDPQMDMz0DCxNzIMPAFOgYJS4ux-JEv_zQkkSrgMzEvPwgD4caXcOaai4FILAxNNOyA7P0tRRs0YHC0z0bX2zd_qKjHWTZjoYXC3sUNAIMjM30sgrSNbGo19IHm1WjYKCgC4Yg2jQeSNQoGIIFgBxjEB9M1EDkdBXM4iEsqFJjqG4jmBaYboiBIHYN2CIfwxoFiAm6YPpx0yKwAY-btoLFHjdPAuJ-MKsPItM8ByqzCoh7oGogMiB1YLmmJVA17WBxkCqEDcsQthuh2d7YBDGpcSpEf-MmIF4PZq2DyuyB2tAFZK-BqoHIgNRBdLVA6eVgcZAqhO0gOajtxnT3e_M8sO240ws4TfaAk4mJwtMN_c_XN-goEJVgIPELTAdABI1hRIpBThuQNAFRAkohiNQCTmuI4AEmjcfN86Ge6YYHxWyoh1uhMsCIaAZFweOm_dDg2wALCmAwQYJkEVgcpAoR2CA5RDJ43LgPorZxNTzKJ0PMa2yDykwH6gIF9-PGLqgMzMTHjVCbGnvANnUi2wRJVPAof9zciO6nps1Ql4OSJkhmAjTKHzeDEiJIZgXcTyC7IX4DmQVxG8xPoKgnFL07OsmJXlC8ADM9OK7AcQQVMQLHJwij53pQzEJLB-RiBCluQWEJ8kkbOCyQ4hacEUD-AWY_sA_h4QD1PSR5Q9TsBIuvRgkHcEZCiltYdl4ClAOb1wjKYiAZUJoB6egHsieCZVAzOiSrQ-g2sDgso0FsAmc_pLgFZTCQ-HYgG-QKaHEDdifE3SuhKRQ9u4PkoP5uXgL2EyhMEDatBduEN26fzp5NftalRsEOgsgxDA2N5slA3AH2BTiFwmUgfkUSRwqLBfDwAqkH5RBYWCDZAo5dSN543NQIjT1IjgXJQEoPWLEL4YPEYSELY4FyLMh2UI7HYgsoZpsgKQzkUmjehJQgUJ8h-QVeJMNMe9wEqRpw-6UWvY73QanjTRBVPLDh8mzD4heT1zztbn6ysxtYWD_r7n26dsLT7cuedXZDGjHItbgBKIbiFaINY8FxCmSZxoOYIDE4C6gIqsEEpMIErgKhC8xCUQqXRzEKygLpwaIUnwOAYaBrpwALhmgfoAYUvhEa3xjMV-YCAA)]
 
 ## 分析
 
@@ -78,29 +84,31 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 朝の歌 ]
 ================================================================================
-⏱  Duration:       0:21 (21.2s), 17 measures total
+⏱  Duration:       1:00 (60.0s), 48 measures total
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [AsaNoUta #1 @ m.1, 0:00]
-   - 最高音: E5 in [AsaNoUta #1 @ m.10, 0:11]
+🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  B3 in [AsaNoUta[L1] #1 @ m.2, 0:01]
+   - 最高音: D5 in [AsaNoUta[L1] #1 @ m.9, 0:10]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      AsaNoUta (21.2s)
+🏛  結構:      AsaNoUta[L1] (20.0s) -> AsaNoUta[L2] (20.0s) -> AsaNoUta[L3] (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  B, A, D, G, C
-   - 調性數值:    G 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 98.4%]
-   - 候選調性 (K-S): G 大調 (0.80), D 大調 (0.70), B 小調 (0.64)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  D, G, B, A, E
+   - 調性數值:    D 調性不明確 [相關度: 0.81, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.81), G 大調 (0.81), B 小調 (0.71)
+   - 五度圈歷程:   +2 -> +2 -> +2
    - 各段落調性細節:
-     • [AsaNoUta #1]: G 大調 (r: 0.80, 自然音純度: 98.4%, 調外音: C#)
+     • [AsaNoUta[L1] #1]: D 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [AsaNoUta[L2] #1]: D 調性不明確 (r: 0.81, 自然音純度: 100.0%)
+     • [AsaNoUta[L3] #1]: D 調性不明確 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+      Bb              [D ]*
       Eb               A  
          Ab           E  
             Db       B  
@@ -108,21 +116,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████                   8.2%
-     C# : ██                         1.6%
-     D  : ████████████████████      19.7%
+     C  :                            0.0%
+     C# :                            0.0%
+     D  : ████████████████████████  34.2%
      D# :                            0.0%
-     E  : ███                        3.3%
+     E  : ███                        4.2%
      F  :                            0.0%
-     F# : ██                         1.6%
-     G  : ████████████████████      19.7%
+     F# :                            0.0%
+     G  : ████████████████          22.5%
      G# :                            0.0%
-     A  : ██████████████████████    22.1%
+     A  : ████████████              16.7%
      A# :                            0.0%
-     B  : ████████████████████████  23.8%
+     B  : ████████████████          22.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 57 個音符)
+  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 156 個音符)
 ================================================================================
 ```
 

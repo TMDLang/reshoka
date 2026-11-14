@@ -1,6 +1,6 @@
 {
   "total_corpus_songs": 1255,
-  "same_melody_different_lyrics_group_count": 16,
+  "same_melody_different_lyrics_group_count": 19,
   "groups": [
     {
       "versions": [
@@ -200,6 +200,52 @@
     {
       "versions": [
         {
+          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
+          "lyrics": "わだのはらにしまのごとくみゆるはよするあたおふせぐふねよあおおしたけしいくさぶねよ",
+          "titles": [
+            "軍艦"
+          ],
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shokacho/vol_08/p012_gunkan",
+              "md_file": "shokacho/vol_08/p012_gunkan/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+              "raw_title": "軍艦（軍艦）",
+              "year": 1923
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "軍艦",
+              "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "shoka_kyozai_shu_1923/koto_1_2/37_gunkan",
+          "lyrics": "わだのはらにしまのごとくみゆるはよするあだおふせぐふねよあおしたけしいくさぶねよわだのはらにしまのごとくみゆるはよするあだおふせぐふねよあおしたけしいくさぶねよ",
+          "titles": [
+            "軍艦"
+          ],
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/37_gunkan",
+              "md_file": "shoka_kyozai_shu_1923/koto_1_2/37_gunkan/index.md",
+              "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "軍艦（二部）",
+              "year": 1923
+            }
+          ]
+        }
+      ],
+      "id": "005_p012_gunkan"
+    },
+    {
+      "versions": [
+        {
           "id": "shoka_kyozai_shu_1923/grade_3_4/01_kisha_to_kisen",
           "lyrics": "ぽおがちやどんどんどんどんどんどんどんはやいよはやいよきふこうれつしやくろいけむりおはきたててしゆうしゆうしゆうしゆうしゆうしゆうとんねるぬけてはしこえて",
           "titles": [
@@ -234,7 +280,7 @@
           ]
         }
       ],
-      "id": "005_01_kisha_to_kisen"
+      "id": "006_01_kisha_to_kisen"
     },
     {
       "versions": [
@@ -273,7 +319,7 @@
           ]
         }
       ],
-      "id": "006_46_aki_no_kaze"
+      "id": "007_46_aki_no_kaze"
     },
     {
       "versions": [
@@ -312,7 +358,7 @@
           ]
         }
       ],
-      "id": "007_47_misora_no_kagami"
+      "id": "008_47_misora_no_kagami"
     },
     {
       "versions": [
@@ -351,7 +397,53 @@
           ]
         }
       ],
-      "id": "008_04_teishaba_no_suzu"
+      "id": "009_04_teishaba_no_suzu"
+    },
+    {
+      "versions": [
+        {
+          "id": "shoka_kyozai_shu_1923/grade_5_6/46_wakare",
+          "lyrics": "はるのはるのあしたはなのもとにともにともにたのしくしたしみあひし",
+          "titles": [
+            "別れ"
+          ],
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/46_wakare",
+              "md_file": "shoka_kyozai_shu_1923/grade_5_6/46_wakare/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "別れ",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "kogakko_shoka/grade_6/20_wakare",
+          "lyrics": "はるのはるのあしたはなのもとにともにともにたのしくしたしみあひしひごろのまじはりわすれぬほどにおしきわかれおつげなんさらば",
+          "titles": [
+            "別れ"
+          ],
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare",
+              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
+              "raw_title": "別れ",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kogakko_shoka/grade_6/20_wakare",
+              "md_file": "kogakko_shoka/grade_6/20_wakare/index.md",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "別れ",
+              "year": 1940
+            }
+          ]
+        }
+      ],
+      "id": "010_46_wakare"
     },
     {
       "versions": [
@@ -414,7 +506,7 @@
           ]
         }
       ],
-      "id": "009_08_sobetsu_no_uta"
+      "id": "011_08_sobetsu_no_uta"
     },
     {
       "versions": [
@@ -453,7 +545,7 @@
           ]
         }
       ],
-      "id": "010_11_koronbusu"
+      "id": "012_11_koronbusu"
     },
     {
       "versions": [
@@ -492,7 +584,7 @@
           ]
         }
       ],
-      "id": "011_20_dosokai"
+      "id": "013_20_dosokai"
     },
     {
       "versions": [
@@ -531,13 +623,13 @@
           ]
         }
       ],
-      "id": "012_22_shiki_no_sanpo"
+      "id": "014_22_shiki_no_sanpo"
     },
     {
       "versions": [
         {
           "id": "shokacho/vol_01/p131_tennen_no_bi",
-          "lyrics": "きけやひとびとおもしろきこのてんねんのおんがくおはるはさくらのあやごろもあきはこうようのからにしきあしたにおこるくものとのゆうべにかかるにじのはしはれたるそらお",
+          "lyrics": "きけやひとびとおもしろきこのてんねんのおんがくおはるはさくらのあやごろもあきはもみじのからにしきあしたにおこるくものとのゆうべにかかるにじのはしはれたるそらおみ",
           "titles": [
             "天然の美"
           ],
@@ -575,19 +667,19 @@
           "titles": [
             "美しき天然"
           ],
-          "year": 9999,
+          "year": 1936,
           "occurrences": [
             {
               "rel_dir": "kogakko_shoka/koto_2/20_utsukushiki_tennen",
               "md_file": "kogakko_shoka/koto_2/20_utsukushiki_tennen/index.md",
-              "book_label": "《公學校唱歌》 高等科 第二學年用（國臺圖 0729 74）",
+              "book_label": "《公學校高等科唱歌》第二學年用（昭和11年／1936，國臺圖 0729 74）",
               "raw_title": "美しき天然",
-              "year": 9999
+              "year": 1936
             }
           ]
         }
       ],
-      "id": "013_p131_tennen_no_bi"
+      "id": "015_p131_tennen_no_bi"
     },
     {
       "versions": [
@@ -626,7 +718,46 @@
           ]
         }
       ],
-      "id": "014_p109_tonbi"
+      "id": "016_p109_tonbi"
+    },
+    {
+      "versions": [
+        {
+          "id": "shokacho/vol_03/p043_yukedomo",
+          "lyrics": "ゆけどもゆけどもみずまたみずかぎりもしらなみそらひたせるうみじもわたらばわたりぬべしいざこげふなびといざこげこげ",
+          "titles": [
+            "行けども"
+          ],
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shokacho/vol_03/p043_yukedomo",
+              "md_file": "shokacho/vol_03/p043_yukedomo/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
+              "raw_title": "行けども",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "shokacho/vol_08/p027_tanoshiki_waga_ie",
+          "lyrics": "はなこそかおらねわがこのそのつきこそにほはねわがこののきかすみはときはにまがきおこめはるかぜのどかにそでにふけりはなこそかおらねわがこのそのつきこそにほはねわが",
+          "titles": [
+            "樂シキ我家"
+          ],
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shokacho/vol_08/p027_tanoshiki_waga_ie",
+              "md_file": "shokacho/vol_08/p027_tanoshiki_waga_ie/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+              "raw_title": "樂シキ我家（快樂的我家）",
+              "year": 1923
+            }
+          ]
+        }
+      ],
+      "id": "017_p043_yukedomo"
     },
     {
       "versions": [
@@ -672,7 +803,7 @@
           ]
         }
       ],
-      "id": "015_1_2_05_yamato_damashii"
+      "id": "018_1_2_05_yamato_damashii"
     },
     {
       "versions": [
@@ -711,7 +842,7 @@
           ]
         }
       ],
-      "id": "016_2_07_tasukebune"
+      "id": "019_2_07_tasukebune"
     }
   ]
 }

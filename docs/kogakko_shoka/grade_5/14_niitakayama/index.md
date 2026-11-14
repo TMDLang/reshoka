@@ -4,7 +4,7 @@ song_title: "新高山"
 song_id: "kogakko_shoka_grade_5_14_niitakayama"
 collection: "kogakko_shoka"
 volume: "grade_5"
-description: "〈新高山〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第五學年用（國臺圖 523.37 4322-4）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：たかねは雲の絶え間より、 朝夕高くあらはれて、…"
+description: "〈新高山〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第五學年用（國臺圖 523.37 4322-4）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：富士（ふじ）の高根は日の本の 國のかためとあふぎ來ぬ。…"
 keywords: "新高山, 公學校唱歌, 第五學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《公學校唱歌》 尋常科 第五學年用（國臺圖 523.37 4322-4）"
@@ -41,29 +41,29 @@ tmd_source:
 
 原書資訊與歌詞全文（對應 P038.jpg–P039.jpg，原書 p. 34–35，第 14 首）：
 調性與拍號：ハ長調（C 大調）4/4 拍子（弱起 1 拍），♩= 120
-註：P038 譜面第 2 行第 1 節印作「ク ニ ノ ー シ ヅ メ ー ト」，P039 歌詞頁印作「國のかためとあふぎ來ぬ」。
+註：P038 譜面第 2 行第 1 節印作「ク ニ ノ ー シ ヅ メ ー ト」，P039 歌詞頁印作「國のかためとあふぎ來ぬ。」。
 
 
 ## 歌詞
 
 ```text
 一
-たかねは雲の絶え間より、
-朝夕高くあらはれて、
-神代（かみよ）の昔そのままに、
+富士（ふじ）の高根は日の本の
 國のかためとあふぎ來ぬ。
+新高山も高砂（たかさご）の
+島のしづめとあふぐべし。
 
 二
-ふもとの里のたみの草、
-めぐみの露にうるほひて、
-しげり行く世のたのしさに、
-あふぐも高し、新高山。
+我が大君のかしこくも
+みこゝろ深くえらばして、
+おほせたまひし山の名は、
+高くたふとし山よりも。
 
 三
-明治のみ代のしるしぞと、
-たまひし名こそめでたけれ。
-山より高きおほみいつ、
-あふげや、ともに、諸人（もろびと）よ。
+富士にならべる新高の
+山より高き大君の、
+みいつをあふげ國民（くにたみ）よ。
+みかげをあふげ島人よ。
 ```
 
 ## ABC
@@ -74,8 +74,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](niitakayama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdFiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGFsgZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lm8xJLSolR00fRUqHaERFFqOsjiksTM8kQUqzLTM2HC8flpaZnJmYk5SlxaWgrPpm14uXrG040bFbS0uBRtFQyNDLjsbRWcuWxM9E3sQCa8aN_1vHHx8x17n89d_HTXnMcNXU9b1zxdu-PZgoVPp2x8trbncUP38zVrnuyaAhR8unPL8ykr3u_peDZj7dNJPU97G5_saAAKAslnczre7-l5vmXRs9k7Xsycr2BqZKxnbK5gYmxkpGvyfk-nEheXvpaCLbUAl4KCwtO--SDLNre_WNH1oqMd6NYXK-c9bV3xbFo70IlPN_Q-a-9UAEW-XlZB-qOGyUCmJYgJdCdEq0KBnoKxCVDG2BTk9jVrFAxNFF4umwZ07vs9s0BWvFi1_1nDcpDh3b1AXwFFHzf3v5y6HSgOtMJZ4emS5WBmJzA4FYBqnq6dALJ6z8YXW7crGIJEwGb1PJq5EhL4IDNX7AaaA3KXwou1c17OXQSy2EjhxUKICxSer2942rvhyV5gXPQ8blqv8Li5G4j7gHiPwuOm7UC6FYgXQvjNHY8bgHb0gPymAAmBlwsa4fqfzul-3LjucSOQnP-4qfFx44rHjU2PG7c-bux7sq_tceMaoO7HDU1cIHcBIxFEgVSC1K993Lj-5exNQO3Pt2573Njxctrkx00dj5u6Hjc0gtQ9mzP36ZKpwNT1uLEfZGhTJ1DD46aex43LoCqeL533ZPdiYHiAzdsP1A0MDKB5z2ZMedw4F-yufWC0GqqBCNdCnbqrB-LUrY-bgAqAyta9bAfaDNQLdPx-IONFbyfUULBBEyCiL-cA_bP6cWPb4yagHbsfNwK5MNc-bpz-uHES0H_AiAB66cmOaTDzgCRQairCnTBXTQDaDg6A6UAJeFZDhGcnOJxm9D3bBLQKaMp-YHBAjQPZDzR0HsjxMEOBVgEDA-ik6U8n9D5unAwKJJDjl4OlJoLCFmg0KJyAloCjAmw5UGkX2DNAH7Y8blyC5kigl1qAQiCLQGEF8sOL1Tue7NoFihigSBNQ_2agLChugIZCbKA8g0KBgpY-F5dfZmZJYnZiZWJuolVAZmJevkONrmFNNcgiBRtDMy07MAtb8aAAKnp2NACjREEDmqu0FUwUnm7oB-YSHXjm1sSiE2gxyNQaBQMFXTBEp6tz02oVTMFMY6AywzioODo0A2KwZA1UNQQaQ6VgECRXAxeBqQSpgkEjDDNQnIPsGrDTfQxrFOKhsuj046b9UHo10MzHzb04HA8srsCq1oPtfty8CEWuD8kkmLkroCrnwVWBRCCsVSgqQWYBVTZtRbMT7sbmZVB6KsxHRnh81AgxB5gmQaY2wmzF8FHjOjA5FWI7ijqY3HwUMZD_QCpBchARUJhAWCBTED5qhKqcgMtHYLMg9kB9ZIzHR8BCGmLuEnA47cDlI0g8NINcDQp5FB9B42g7ithqiEq46OOmfXC5DhQfQf0Oj00MHzVPgqrcDvQR_ny4qwecD0nMfvTKV4ZoxsPyFUSHKVKeQk3xyBCUm5ByCziFw-WaV4JJWNqBiK2BqGxuQzEBIoeSCsGxClIJik9kiIiJBXATELkFWJ7jdCvITmCBDjG3EeYCiFw3WG43sljjJqhKSK4EiUyHsyCpAKa7C6ISbANWt0JzELDCQMoHj5tB-rC7dTOY3AsxF5ovYP5uB8uhlkIboSpB4QtRBQsH1LSMCFfksgnFrcglJYEUvqOTnBSOnFpBEMY3gqR8YBqvUTBHU4OohApq4ZJomQUkjJ7ua2CmYjMKaw2CWnZAQgIUD5DQg6RGUJjiLyVA6QliPyR3wM0CyyBSNcI2kHmtOM2DlozA0go5rcNKaLjp8JIcJgdKsyCVyOU2isng_AC1v7EJxSxQ_YIo20H1DEIlcl5FNQ_ic7C9iJTetBbdpU2w9Pe4eTaUng8OLfT8iwiDFoT9aCUNyHePm0D5FcKHmQEKU-TyHdU8iBmgGCGQzp_Onk2vkhzRqoFASGkON8kYxkBJ1WiKYBC9AYecxpHDDxnCwhKUetDj7XFzD1gOM-xBKuGtBbgeiHqEyj0QlWAaGaK3A5BTOCx1YrgTXDpD0iFIHSy_QVwASinAzgGKeli5D08lSHkFUzdIJbJ-PO4El-S4wxMUGo-bJ0PMRG1tgMti9DYmSD1IJUgHRASmB72lQ3x41nJx6dopIHUrFIBcZS4A)]
-- [鋼琴伴奏 TMD 檔案](niitakayama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2bcPL1TOebtz4fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDLgsrdVcOayMdE3seOqU1B60b7reePi5zv2Pp-7-OmuOY8bup62rnm6dsezBQufTtn4bG3P44bu52vWPNk1BSj4dOeW51NWAC14NmPt00k9T3sbn-xoAAoCyWdzgNb0PN-y6NnsHS9mzlcwNTLWMzZXMDE2MtI1ATpAiYvLM6-kKN8qIDMxLz_Iw6FG17CmmksBCGwMzbTswKwaherctFoFwzgFXazQDIjBkjUKpkjCxkCMzAexaxCmGMMYRsjmoimCQQM0uoarFsXlPiguN0FzeLxCtGEsiDKJBxkO54IoON80HkibxiOJGAAh2CK_zMySxOzEysTcRAIBhe5OGA12ByQwjLH5j4igBEmhhhJMBKYSpAoGjTDMQHEOsmvATvcxrFGIh8qi04-b9kPp1UAzHzf34nD84-Z-sKr1YLsfNy9CketDMglm7gqoynlwVSARCGsVikqQWUCVTVvR7IS7sXkZlJ4K85ERHh81Qsx53NQEMrURZiuGjxrXgcmpENtR1MHk5qOIgfwHUgmSg4iAwgTCApmC8FEjVOUEXD4CmwWxB-ojYzw-al4INXcJOJx24PIRJB6aQa4GhTyKj6BxtB1FbDVEJVz0cdM-uFwHio-gfofHJoaPmidBVW4H-giaY-iVFQzRjIdlBYgOU6RsgJpIkSEoAyAlcHCihMs1rwSTsOiGiK2BqGxuQzEBIoeScMARAVIJigJkiAi8BXATEAn8ceMSnG4F2fm4ERp9jTAXQOS6wXK7kcUaN0FVQjISSGQ6nAWJOJjuLohKsA1Y3QpN9I-bOpCS7uNmkD7sbt0MJvdCzIUmZZi_28FyqAXHRqhKUPhCVMHCATX5IcIVuThBcSty4QZLlMgJDARhfGhVBUyWNQrmaGoQRX1BLVwSLX2DhNGTag1qBYhqFNZyGjWHQhwPCjqIhyEJCBQM-PMiKAlA7IckaLhZYBlEQkTYBjKvFad50PIHWCYgJ09YOQg3HV5ewuRAyQykErl0RDEZnISh9jc2oZgFKsURJSioNEeoRM5eqOZBfA62F5E4m9aiu7QJlmQeN8-G0vPBoYWe5RBh0IKwH61wAPnucRMoi0H4MDNAYYpciqKaBzEDFCMUlZeI6h4CqdsSQyRLZC8jQ5j3QRGOHtSPm3vAcpjBBVIJr0bheiDqESr3QFSCaWSIXkEiJ0pYgsJwJ7gMhCQdkDpYFoG4ABS5jxthlR9EPax0hUcsUvLG1A1SiawfjzvB5SXu8ASFxuPmyRAzUathcImH3vgCqQepBOmAiMD0oDcBiA9PbA1jXO1wUFMa3JzG0RgHsoGsGigNRKDWODAhw9rkkKY4NAeQYgJKUx6iH6gi2gSswQjTDpAGY7DJYNNIcAAJ_QldOwVw30UByEAKwmgfoCJ0ISNMIWOwkDIXAA)]
+- [主旋律 TMD 檔案](niitakayama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdFiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYGFsgZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lm8xJLSolR00fRUqHaERFFqOsjiksTM8kQUqzLTM2HC8flpaZnJmYk5SlxaWgrPpm14uXrG040bFbS0uBRtFQyNDLjsbRWcuWxM9E3sQCa8aN_1vHHx8x17n89d_HTXnMcNXU9b1zxdu-PZgoVPp2x8trbncUP38zVrnuyaAhR8unPL8ykr3u_peDZj7dNJPU97G5_saAAKAslnczre7-l5vmXRs9k7Xsycr2BqZKxnbK5gYmxkpGvyfk-nEheXvpaCLbUAl4KCwtO--SDLNre_WNH1oqMd6NYXK-c9bV3xbFo70IlPN_Q-a-9UAEW-XlZB-qOGyUCmJYgJdCdEq0KBnoKxCVDG2BTk9jVrFAxNFF4umwZ07vs9s0BWvFi1_1nDcpDh3b1AXwFFHzf3v5y6HSgOtMJZ4emS5WBmJzA4FYBqnq6dALJ6z8YXW7crGIJEwGb1PJq5EhL4IDNX7AaaA3KXwou1c17OXQSy2EjhxUKICxSer2942rvhyV5gXPQ8blqv8Li5G4j7gHiPwuOm7UC6FYgXQvjNHY8bgHb0gPymAAmBlwsa4fqfzul-3LjucSOQnP-4qfFx44rHjU2PG7c-bux7sq_tceOaxw1NQAOAJBfIacB4BAfs-p6ni1cDPQJWOQPoBaAhwHT0bMHOx43rn01fCuQ-m7MGSIJVE2EHSB08LT5uagIyni9oAtswH6xz6uPGKRB7wEZu3gY2cvrjxqWoRk543Ah0w3S4g3f1gI3umPi4sQcYGU8nzIa5Bah38uPGfqBlIBWPG_eD-E1zHzf1Ptu-ESTR2PG4CWjhBrDSZY8bGiHquh437n7cCDQG6LB9jxs3AaVBbm5c93RCL9D3UHVAD4DNACoCugroPLCiJqCRXUAbEeHZiQjPx41AtAps587HTd2Q4IB5GKYZLNSL8AnMVUDXtzxuXPK4aRIsJCYBw_3ZhongMAQ6BGg20C2gpAgyCBLiYG3AoJiEom3ztie7diEUUZ4XoUBBS5-Lyy8zsyQxO7EyMTfRKiAzMS_foUbXsKYaZJGCjaGZlh2Yha0kUACVMjsagNlAQQOagbQVTBSebugHZggdeD7WxKITaDHI1BoFAwVdMESnq3PTahVMwUxjoDLDOKg4OjQDYrBkDVQ1BBpDpWAQJFcDF4GpBKmCQSMMM1Ccg-wasNN9DGsU4qGy6PTj5qkQumkH0ExQSYDd8Y-b9oPJ1WC7Hzf3oss396PwJkHVoZv3uHkRCq8Dhzq4-4BlFERlN8w3Rnh80wRzBdDMxh5cfmnsApO7oeqQ_QJM1WByHYpYN1TldAyTJqPwQLYD1TU14fIN2HSIPqhvjImPG5ArsPqnGeyf5pUQ25tnYsiDYg3Bg_oGHEco6sBxjODB4hpn3DQvgdLzgL7Bn_d29YDzHolZDiMvwQWonJkM0eyBZSaIDlOkjIQvi2wHB0Yr2ERQJYomD07sCNWgjABSB4lkkAgs0T1uWoumF6QOPTkjogGSMEARisgiqEkTYmovjNW4FWEuOHGjqAMnYwQPmkWbOjHUbUDhgTIHyLxluNwJznaQjIdI_I-bV6Cb27wK7mJYggTZj5yIIbJrUXggXSDzZuNX1zwfqg53sgapAOlbQjBZ7-gkJ1kjp1AQhPGNIKkbmK5rFMzR1CBqm4JauCRaDgEJo6f1Gpip2IzCWlWgFgOQkICFPUqWRyvMUcKQQMzB0t_jpi0IdXgqAVDOghU0iBSOEdONkJgDsfZB6U1YC26EyS0I-6F6kM2D58hGWJoEqYNUSVhMg9uPnL5hNsBNbd4Etx0SfqAyABROMHFMV8JsxFYNIMIalnIh6tDzFWb6Xk0ofT-dPZtuxTYyH9aGQTLKGMZASc5oimAQvYlGn-IbVhxi1sCgyIUkYQREr-2REzbuIhmSxCAFOEglRuGJktQhyRtr0m5C9Q2oaMbXckFzJShhYyRXzISNGkII25B1QkIGpG4ehnkorSt4WxFXwka4sZaLS9dOAam7EO1jGKuALmSEKWQMFlLmAgA)]
+- [鋼琴伴奏 TMD 檔案](niitakayama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2bcPL1TOebtz4fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDLgsrdVcOayMdE3seOqU1B60b7reePi5zv2Pp-7-OmuOY8bup62rnm6dsezBQufTtn4bG3P44bu52vWPNk1BSj4dOeW51NWAC14NmPt00k9T3sbn-xoAAoCyWdzgNb0PN-y6NnsHS9mzlcwNTLWMzZXMDE2MtI1ATpAiYvLM6-kKN8qIDMxLz_Iw6HGoKaaSwEIbAzNtOzArBqF6ty0WgXDOAVdFAgXMINxahRMkeSNgRiZD2LXIHQZwxhGyAajKYJBAzS6hqsWxeU-yC43QXN4vEK0YSyIMokHmQ3ngig43zQeSJvGI4kYACHYHr_MzJLE7MTKxNxERDjpGmIJKHRnwmiwOyBhYYzNezCIJyRBUqiBBBOBqQSpgkEjDDNQnIPsGrDTfQxrFOKhsuj04-apELppB9DMx819OBz_uGk_mFwNtvtxcy-6fHM_Cm8SVB26eY-bF6HwOnCog7uvaT1UZTfMN0Z4fNMEcwXQzMYeXH5p7AKTu6HqkP3yuBHsz8Z1KGLdUJXTMUyajMID2Q5U19SEyzdg0yH6oL4xJj5uQK7A6p9msH-aV0Jsb56JIQ-KNQQP6htwHKGoA8cxggeLa5xx07wESs8D-gaaS8gqSchJ_4Zo9sDSP0SHKVLax5eqt4Pd3wo28XHzQnR5cPpEqAalXZA6SLyARGDp5HHTWjS9IHXoKRARcpC4BMUBIlWjpiaIqb0wVuNWhLng9IiiDpzyEDxormrqxFC3AYUHSs8g85bhcic4p0DyCiK9Pm5egW5u8yq4i2FpCGQ_crqDyK5F4YF0gcybjV9d83yoOtwpEaQCpG8JIiUiJyoQhPGhVRIwKdYomKOpQZTpBbVwSbREDRJGT541qBUdqlFYC2TUzAZxPCy4UDIWWpGJ4m0CgQ1LMo-btiDU4SlqQZkBlp0RiRIjchohgQ1i7YPSm7AWjwiTWxD2Q_UgmwfPRI2wZARSByn4sZgGtx85ScJsgJvavAluOyT8QNkWFE4wcUxXwmzEVtgiwhqW2CDq0LMCZpJcTWHhiMyHVe7Ua2rRo5CEFTqYVRMoPiCpDgHRq0HktIi74IOkCkgxCVKJUUShpE5IisSaGptQfQMqAPFV6WiuBKVFjBSGmRZRQwhhG7JOSMiA1M3DMA-l2QFvROFKiwg3YmvwgprXiAYvon0NaiKDm8k4GtlANpBVA6WBCNTKBiZfWFsb0sSGJnxSTEBpokP0A1VEm4A1GKHZAddiDDYbbB4JTiChp6BrpwDulCgAGUiBGO0DVIQuZIQpZAwWUuYCAA)]
 
 ## 分析
 
@@ -83,14 +83,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 新高山 ]
 ================================================================================
-⏱  Duration:       0:32 (32.0s), 16 measures total
+⏱  Duration:       1:36 (96.0s), 48 measures total
 🎼 Key & Tempo:    首調基準 C, != 120.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  C4 in [Niitakayama #1 @ m.9, 0:16]
-   - 最高音: E5 in [Niitakayama #1 @ m.16, 0:30]
+   - 最低音:  C4 in [Niitakayama[L1] #1 @ m.9, 0:16]
+   - 最高音: E5 in [Niitakayama[L1] #1 @ m.16, 0:30]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Niitakayama (32.0s)
+🏛  結構:      Niitakayama[L1] (32.0s) -> Niitakayama[L2] (32.0s) -> Niitakayama[L3] (32.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -98,9 +98,11 @@ tmd_source:
    - 核心骨幹音:  C, G, A, E, D
    - 調性數值:    C 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.88), G 大調 (0.75), A 小調 (0.64)
-   - 五度圈歷程:   +0
+   - 五度圈歷程:   +0 -> +0 -> +0
    - 各段落調性細節:
-     • [Niitakayama #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Niitakayama[L1] #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Niitakayama[L2] #1]: C 大調 (r: 0.88, 自然音純度: 100.0%)
+     • [Niitakayama[L3] #1]: C 大調 (r: 0.88, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -127,7 +129,7 @@ tmd_source:
      B  : █████                      5.9%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 55 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 171 個音符)
 ================================================================================
 ```
 

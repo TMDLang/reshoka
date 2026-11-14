@@ -1,19 +1,58 @@
 X:1
-T:樂しき我家
-C:曲：Henry Rowley Bishop（Home! Sweet Home! 二部合唱）
+T:樂しき我家（快樂的我家）
 M:4/4
 L:1/16
 Q:1/4=84
-K:Bb
-V:V1 name="Piano1" snm="Pia"
-V:V2 name="Piano2" snm="Pia"
+K:Eb
+V:V1 name="Alto" snm="Alt"
+V:V2 name="Soprano" snm="Sop"
 [V:V1]
-z4 z4 z4 B,2 C2 | D3 E E3 F F4 D2 F2 | E3 D E2 C2 D4 z2 B, C | D3 E E3 F F4 D2 F2 |
-E3 D E2 C2 B,4 z2 F2 | B3 A G3 F F4 D2 F2 | E3 D E2 C2 D4 z2 F2 | B3 A G3 F F4 D2 F2 |
-E3 D E2 C2 B,4 z4 | F8 B4 F4 | E4 C4 D4 z2 F2 | B3 A G3 F F4 D2 F2 |
-E3 D E2 C2 B,4 z4 |
+!mp! z4 z4 z4 E2 D2 | E6 F2 F4 G4 | G8 E4 G4 | F6 E2 F4 D4 |
+w: ク _ | モ _ ノ ミ | ヤ エ ノ | タ カ ド ノ
+E8 z4 E2 D2 | E6 F2 F4 G4 | G8 E4 G4 | F6 E2 F4 D4 |
+w: モ ス メ | バ _ ア ヤ | ナ シ ユ | メ _ ノ ア
+E8 z4 G2 G2 | G6 B2 A4 G4 | G8 E4 G4 | F6 E2 F4 D4 |
+w: ト ツ _ | キ モ ル シ | ヅ ノ ワ | ガ _ ヤ コ
+E8 z4 G4 | G6 B2 A4 G4 | G8 E4 G4 | F6 E2 F4 D4 |
+w: ソ ハ | ル ハ ア リ | ケ リ ト | コ _ シ ヘ
+E12 z4 | G8 G6 G2 | F8 D8 | E8 z4 G4 |
+w: ノ | ワ ガ ヤ | ワ ガ | ヤ コ
+G6 B2 A4 G4 | G8 E4 G4 | F6 E2 F4 D4 | !mp! E8 z4 E2 D2 |
+w: ヒ _ シ ワ | ガ ヤ タ | ノ シ ワ ガ | ヤ あ _
+E6 F2 F4 G4 | G8 E4 G4 | F6 E2 F4 D4 | E8 z4 E2 D2 |
+w: れ _ の を | ゆ け ば | も の す ご | き つ き
+E6 F2 F4 G4 | G8 E4 G4 | F6 E2 F4 D4 | E8 z4 G2 G2 |
+w: は _ て る | て る す | ひ _ か づ | ら こ _
+G6 B2 A4 G4 | G8 E4 G4 | F6 E2 F4 D4 | E8 z4 G4 |
+w: よ ひ も せ | ど こ わ | れ _ を ま | つ は
+G6 B2 A4 G4 | G8 E4 G4 | F6 E2 F4 D4 | E12 z4 |
+w: _ を し の | べ ば さ | と _ こ ひ | し
+G8 G6 G2 | F8 D8 | E8 z4 G4 | G6 B2 A4 G4 |
+w: わ が や | わ が | や こ | ひ _ し わ
+G8 E4 G4 | F6 E2 F4 D4 | E8 z4 z4 |
+w: が や た | の し わ が | や
 [V:V2]
-z4 z4 z4 B,2 A,2 | B,3 C C3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z2 B, A, | B,3 C C3 D D4 B,2 D2 |
-C3 B, C2 A,2 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 | C3 B, C2 A,2 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 |
-C3 B, C2 A,2 B,4 z4 | D8 D4 D4 | C4 A,4 B,4 z2 D2 | D3 F E3 D D4 B,2 D2 |
-C3 B, C2 A,2 B,4 z4 |
+!mf! z4 z4 z4 E2 F2 | G6 A2 A4 B4 | B8 G4 B4 | A6 G2 A4 F4 |
+w: ク _ | モ _ ノ ミ | ヤ エ ノ | タ カ ド ノ
+G8 z4 E2 F2 | G6 A2 A4 B4 | B8 G4 B4 | A6 G2 A4 F4 |
+w: モ ス メ | バ _ ア ヤ | ナ シ ユ | メ _ ノ ア
+E8 z4 B2 B2 | e6 d2 c4 B4 | B8 G4 B4 | A6 G2 A4 F4 |
+w: ト ツ _ | キ モ ル シ | ヅ ノ ワ | ガ _ ヤ コ
+G8 z4 B4 | e6 d2 c4 B4 | B8 G4 B4 | A6 G2 A4 F4 |
+w: ソ ハ | ル ハ ア リ | ケ リ ト | コ _ シ ヘ
+E12 z4 | B8 e6 B2 | F8 F8 | G8 z4 B4 |
+w: ノ | ワ ガ ヤ | ワ ガ | ヤ コ
+e6 d2 c4 B4 | B8 G4 B4 | A6 G2 A4 F4 | !mf! E8 z4 E2 F2 |
+w: ヒ _ シ ワ | ガ ヤ タ | ノ シ ワ ガ | ヤ あ _
+G6 A2 A4 B4 | B8 G4 B4 | A6 G2 A4 F4 | G8 z4 E2 F2 |
+w: れ _ の を | ゆ け ば | も の す ご | き つ き
+G6 A2 A4 B4 | B8 G4 B4 | A6 G2 A4 F4 | E8 z4 B2 B2 |
+w: は _ て る | て る す | ひ _ か づ | ら こ _
+e6 d2 c4 B4 | B8 G4 B4 | A6 G2 A4 F4 | G8 z4 B4 |
+w: よ ひ も せ | ど こ わ | れ _ を ま | つ は
+e6 d2 c4 B4 | B8 G4 B4 | A6 G2 A4 F4 | E12 z4 |
+w: _ を し の | べ ば さ | と _ こ ひ | し
+B8 e6 B2 | F8 F8 | G8 z4 B4 | e6 d2 c4 B4 |
+w: わ が や | わ が | や こ | ひ _ し わ
+B8 G4 B4 | A6 G2 A4 F4 | E8 z4 z4 |
+w: が や た | の し わ が | や
