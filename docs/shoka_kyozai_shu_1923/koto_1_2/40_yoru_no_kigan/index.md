@@ -1,0 +1,142 @@
+---
+title: "夜の歸雁（二部） — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年"
+song_title: "夜の歸雁（二部）"
+song_id: "shoka_kyozai_shu_1923_koto_1_2_40_yoru_no_kigan"
+collection: "shoka_kyozai_shu_1923"
+volume: "koto_1_2"
+description: "〈夜の歸雁（二部）〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "夜の歸雁（二部）, 新編 小學校・公學校 唱歌教材集, 高等科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+musical_key: "G"
+meter: "4/4"
+tempo: "116"
+image:
+  - file: "P431.jpg"
+  - file: "P432.jpg"
+audio:
+  - id: "yoru_no_kigan"
+    label: "鋼琴伴奏版"
+    file: "yoru_no_kigan.mp3"
+  - id: "yoru_no_kigan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yoru_no_kigan_neutrino.mp3"
+tmd_source:
+  - "yoru_no_kigan.tmd"
+  - "yoru_no_kigan_piano.tmd"
+---
+
+# 夜の歸雁（二部）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="yoru_no_kigan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yoru_no_kigan_neutrino.mp3"></audio>
+
+- book: 新編 小學校・公學校 唱歌教材集（高等科一・二學年用）
+- 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
+
+## 說明
+
+> [!NOTE]
+> **原書資訊與歌詞全文**（對應 `P431.jpg`–`P432.jpg`，原書 pp. 422–423，高等科一・二學年第 40 首）：
+> - **曲名**：夜の歸雁（よるのきがん）（二部合唱）
+> - **調性與拍號**：ト調四拍子（G 大調 4/4 拍，弱起第 4 拍進入，二部合唱），速度 ♩= 116（首起 `mf`，第 8 小節第 4 拍轉 `mp`）
+> - **版本對照與校勘**：
+>   1. 先前檔案轉錄自學生手抄《唱歌帖》（`2020.006.0843`・`P200.jpg`），因手抄譜漏記休止符並將每行末尾 3 拍小節與下行弱起 1 拍拆成兩個全音符小節（誤作 20 小節），且多處將低八度點誤作降記號（如 `7,_`、`5,_`、`2,_`）並錯抄聲部音高。
+>   2. 對照本書原印五線譜與簡譜（`P432.jpg`），每行均以第 4 拍弱起開始、第 3 拍休止收尾（合併為規整之弱起 + 16 小節）。
+>   3. 第 2 小節第 4 拍高聲部為八分音符圓滑線 `6_ 7_`、低聲部為四分音符 `4_`；第 6–7 小節低聲部記有升記號 `#4_`（`4'_`，C♯4），導向屬音 `5_`（D4）半終止；第 15 小節第 4 拍高聲部為四分音符 `2`，低聲部為八分音符圓滑線 `5_ 4_`（「リー」／「りー」）。
+>   4. 歌詞頁（`P431.jpg`）第一節作「幽（かす）かの聲（こゑ）は」，譜面頁（`P432.jpg`）配詞作「カ ス カ ノ コ エ ー ハ」。
+>
+> **一、**
+> 春（はる）の夜深（よふか）く靜（しづ）けき閨（ねや）　燈火（ともしび）揭（かか）げ花（はな）や咲（さ）くと
+> 曆（こよみ）手（て）にとり繰（く）り居（を）る折（をり）　幽（かす）かの聲（こゑ）は歸（かへ）る雁（かり）か。
+>
+> **二、**
+> 窓（まど）の戸開（とひら）き霞（かす）める空（そら）　墨繪（すみゑ）の態（さま）の朧（おぼろ）の月（つき）
+> 聲（こゑ）を便（たよ）りに見送（みおく）る折（をり）　ほのかの影（かげ）は歸（かへ）る雁（かり）か。
+
+
+## 歌詞
+
+```text
+（TMD 檔案未包含歌詞註解）
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="yoru_no_kigan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yoru_no_kigan.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yoru_no_kigan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBsiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRSUZqUDf5SWWlBaloosWpyYW5-cVowsn5mXmJuYg25OZnplnVZKYWQ50bX5aWmZyJkheS0vh6ZI5jxvXPVu74-Xsxvd7Op7s6nnZvOL9nk4FLS0uRVsFQ0MzLntbBXcuGxN9EzuQgaAgtFJ4Nm3D8-0rFJ5u6H-6dsezBQsfN-9-2roGwlZ4OmXjs7U9z6bOfDZ3wsvZbUBjX66e8Xxt5_PlE5_saAAqBdoCVPp055bnU0B2gR0KlHm2aO6z1r4nOzpfNvcpAI1_3NBFij2PG7qBVj1dsvzZ2sVPextBluzcAmE8m9Pxfk_P8y2Lns3e8WLmfAUDcyNTXRNDsN1c-loKttQCXAoKCnYK0Yp-_iGusRCOltbTvvkgeze3v1jR9aKjHejmFyvnPW1d8Wxau5YWyMkbep-1dyokgNKgXlZBesKjhskgjhGYA3Q4xACFggI9BRMjI6CsiZExUBhnqK5Zo2BioPBy2TSgB9_vmQVxhy7QJc9mb3o6oRdk6Sy0iH_cBETdQJHHjb2PG3seN00G64UmiKcTOoCBDRRBGPVi1f5nDctB3unuBQYp2MzHzR1A4aezZwPFnq6dANTuDkxgy4FiCsDkowAUBXlmz8YXW7eD3QgSedmw6WnrUqA4mk0g_zXMf7prmcKjmSvBCRGUjpZNA-pVSMhNAwULyAwLUNp4vr4Bbt6LvcCQzC0AyiM59nlnx7M5a4Dh_LwV7OQFC592zwA7GaJGQcFQT-Fpa8fTzt5nq6Y8W9gBNOVlT8uL9lXAEH0-Zf6zzu5nXS3A9AhJck93TIMktgQjAyMDPQMDMz0DCxPjBGAkJAQYGRhA4w3kh6ezF0A0v1g759me_hcrZjzZM_HZ2kXP1yx7smPZ0w3tz9b3v1gITKCrn27Yp2AM8gHEQ0BnPtnRDZSChJeCIUjqWXfbs44JT1tXPm3oBiagl_M3A82BqAe65sWqJU_2zlEwMoCGCcQFT3ZMebpk1ouZU4GWPdnb97R1NTBQX-6eB1H9cmYv0E3ACASlw2VNCgnmOvEJjxsaE0yhtBGQBhoEdOzLnvUgfzRuAkYT0GZg6nvc0AQLPyNg-IGDFxjOwLQKTLFPezc82TXl-fZZQJ8DPfN8w0IgAxRmSCkb5D5IADyd2_5k91J4LEI8_XJa99Pl3UBXgMTBYQMJvGdTtgFDC-TiCR1P9m593rTrxbL-Z1O3PNnZDQ0tbQVDM0QoILnTWE8BZJgRerIB-gbiM6BhoCDqaIMG7pzJz3ZPBPpCIcEsXsEcHCbAUESonT0brlYhwQQUVrNBhpoBc6k51BK4emBIP5vT-bQXWBCAglwhQRmsoSPBRB1E9zg_mrneBJpuNvQ9nTDx6cY1QKMVEkzBylxAck97u55vbQIGAtQiQ1O8XkFxnhHIEhTXY_epabwCxGGPG3oeN6963LzncQMw6_aDuE1dMC5ysJroKUCKtZcLQKUJoigDKgM6DFhAgcNhDtCEpzv3gkxuBBY2M0GGgBjrgC4CC05-3DQRLLgebEUPMMm8nLsIYSg84bxs7QXaBjHxcdNqhcdNO4EYSAOrjsdNm4F4BZC9B4iBru6FuRRWIoMKzIZGYBUH5j-bASx_gJavB5aAYMvXAQvHZ9uBpRC4WGzcCnQjWLz_5VxQCn7cOP1xI1ALUGQisLh8OQ1YiQEF1z5uagGHSsPz9o7njavBgiseNzWB1W8GSj3rXwvzOsTASS-6wLYArW5cBRJpank6CRISUyE2Ak2AOhJckYJDCEjuB5nWCSqCHjcuA6tcDbar6_nODWDBfrBpXU83toJ9MQnMBZZDMyBcoBTEqUTGBrCegCkDMkBGQasNoAjEKCADPZB39SAF8vNVwBoFqH7f48aVkEB-1rEDmMGhodS46XETMN0DxXtfzpmH4qSmRqB1z1fuAgvOhSoDunzRiuc7gYEGFJwJDBCYU9c9a4WYORVoF1RkznKwSNfjxj2Pm8ApFyQIbBIABZcAbYTXFegeb5r0ZB8wqIEi84HBDglSYFC_WNb9sgHi_f1gYyGhjSV4HzfuBtepoFB9uhcS10A2ODpIClXKmyZQoKClz8UVmV9U6pfvnZmemGcVnF8AbJ3mO9ToGtZUg6xSsLHQAkeiAraWkQKkhAWV6OB8DSy7FTRMoGWQjgIsj2pi0Qm0GWRqjYIBsFKG4erctFoFYIGjq1ADlvUxRJUHZmCEnBGaXOM-sBzUWEMgRxdYtBuDSaAEVEQXYj64_IYKwpSYgpWBeCAIMhPNKY-bV4OlwOVK8wowaypYE6i0gWh73LQeTG6HiDe3gnkbweRasI5eqMwSJIuAjSUUjwHzBcS0xnVADLapcRPUpk6YTY0gk4CpAiLeOBNsRyOYBIkB8weaDkgwgdRBgwlrnIKiclcPOVGJO8yBwa0LCnBDoJgRMKCNgCwgFypRAwlomBOrcwswUsHj5kXQ4N0OZE8Gs0BBjhr0oCCCphEg3QXmgYL5cdNWeNSAZECBDQ8QYAWBGvT7oaZNBAc_KMigkQxOYbBoAZEgG0Die8DqIdEBkQHZCpIBiSGCHuRuQkG_o5OcoAcFNyglm8CDHpSaIWLAUIaLgCIEpAYkCtOFI62DUh0oAOcDcRuYBU1p8OADNgdQghXMa4ZEAihSIGyYDCLAwRGHCHBgQEMCfBIwiOaDWeDcAKRBAQwJcLB54KgBBSs4ahtBEQ1N60C9qDogAb6bcIADW0XkBDgsRUOCFBLkkKLDBBzQyEGOLUfAii2kEAe2WmChAyph4EkT3H6BhTjEz9Ck3zwDEdZQfaCQRs4UaPaAEzgkiULKCAQbJAMKRUh4g0sxuPgOREhD9IHDGSQD4qHaU4tapTjmlAyf-gRchMHyioIxrNQCM0yQBEGKwIkDqhI51kcrFTIqFdSAB2c-cF5ThwYyUKQGEuJAAsgBK4TIjtYuSHFAXu0CDlhISQZN14h2EqxGgYjACkMQjRbw4IwxWsEQG-bg4gTWVoWHOnITCznUEfkDqA-pZBrW1YyunQJSTaMA5CpzAQA)]
+- [鋼琴伴奏 TMD 檔案](yoru_no_kigan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21ys4vyY83jDdCSBTnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgWYGBsiZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSG5KLSoGOx1iRUlRYl5xclFmAcg_CFX5RSUZ-elFiQUZlVYZmcUl-UWZyYk58dmJeYkIRYlFQM3pqbmpeSVWBZmJefnxicnJ-bkFiXmZIDGEwpIMoCKrvMSS0qJUdNHi1MTi_LxidGGQGYk5SlxaWgpPl8x53Lju2dodL2c3vt_T8WRXz8vmFe_3dALZL2fPfNbZ_bJ7z_MJW57s2fJ0aT9QXEFLi0vRVsHQ0IzL3lbBncvGRN_EDmQ8KIytFJ5N2_B8-wqFpxv6n67d8WzBwsfNu5-2roGwFZ5O2fhsbc-zqTOfzZ3wcnYbyIrVM56v7Xy-fOKTHQ1ApUDbgUqf7tzyfArIDWBnA2WeLZr7rLXvyY7Ol819CkDjHzd0kWLP44ZuoFVPlyx_tnbx095GkCU7t0AYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfEEGw3V2R-UalfvndmemKeVQAoBgwdanQNa6q5FIDAxkLLDsyoUTBQ0IXj6ty0WgXTeCCrBizrY4gq_7i5HyFnhCbXuA8sBzXWEMjRVTBSMAaTQAmoiC7EfLN4BfN4qCBMiSlYGYgHgiAz0ZzyuHk1WOoxMCAfN68As6aCNT1ugsgARZrWg8ntEPHmVjBvI5hcC9bRC5VZgmTR4-YOFI89blwJMa1xHRCDbWrcBLWpE2ZTI8ikx43dEPHGmWA7GsEkSOxx41w0HZBgAqkjIpiAIaQLCiNDoJgRMGyMgCwgFypRAwkbmKnVuQUYEfe4eRE0RLYD2ZPBLFAooYYWyFfQaAXSXWAeKGQeN22FhyZIBhQ-cD80bUYLrf1Q0yaCQwzkS2i8gBMFLCRBJMgGkPgesHpICEJkQLaCZEBiiNACuRseWqAQAqUXE3hogdIMRAwYMHARUBiC1IBEYbpwpChQ3IL8PB-I28AsaHzCffy4eRVKSIB5zZBwA4UjhA2TQYQROKwRYQQMG0gYTQL6aj6YBU5zQBoUJpAwApsHDk1QSIBjoxEUN9AUBdSLqgMSRruRwwiWbiChAAklSJ4yAYcNcihhS3ew_IwUSE074R4CZT14AgDSkOCDJSF4AmuegQgeqD5Q4CAnPTR7wMkIkhAgmQfBBsmAPA4JInD2hovvQAQORB84aEAyIB6qPbVYCkWjASgUwZkalhQVjGH5GMwwQRIEKQJHJFQlcgyNlJIRNazAaRuclNWh4QIUqYEEEpAAcsAKIbIjs4gEhwUkb0NTD6JKhRWLEBFY8QCi0cIKnPyGdSkJzmewlgg8oJBrY-SAQqRCoD6kLDuyysogD8KFJVIGQ2RhbWDbRRsUkqYgJqR804aVZkAmJNPGa8MahVBZiB6wdrBWSPsQIoqlHMRnnxnCPmDhALIILAkuM4AyoGwDVGkKocBCEFkk5WhZBMViqBshTjbSBiUdqBDQM2B3wySBBmpDamCIODgTgjVAZEG2QM2CZUVI8MCsggQTzPWg5Av2Gdw6WPCADIVYgW4hevhAkzQ8gPAnAh-URGCClAggEB4XoLIYmG0gFDLfBMaHCqHL4zbDDEgaA7ERRBAUVhApkAAIQ0RALBCNMAgiCqOwOgZkNlQMlykgtSARmFJMc2DuweUtYIDq2ikghWm0j2GsArqQEVhImQsA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 夜の歸雁（二部） ]
+================================================================================
+⏱  Duration:       0:33 (33.1s), 16 measures total
+🎼 Key & Tempo:    首調基準 G, != 116.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    B3 (MIDI 59) – C5 (MIDI 72) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
+   - 最低音:  B3 in [YoruNoKigan #1 @ m.3, 0:04]
+   - 最高音: C5 in [YoruNoKigan #1 @ m.11, 0:22]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      YoruNoKigan (33.1s)
+⚡ 編曲密度:        Peak 2 軌道同時演奏
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  G, D, B, A, F#
+   - 調性數值:    G 大調 [相關度: 0.93, 穩定度: High, 自然音純度: 98.3%]
+   - 候選調性 (K-S): G 大調 (0.93), D 大調 (0.79), B 小調 (0.75)
+   - 五度圈歷程:   +1
+   - 各段落調性細節:
+     • [YoruNoKigan #1]: G 大調 (r: 0.92, 自然音純度: 98.3%, 調外音: C#)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F           [G ]*
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ██████                     5.8%
+     C# : ██                         1.7%
+     D  : ███████████████████████   22.1%
+     D# :                            0.0%
+     E  : ████████                   7.9%
+     F  :                            0.0%
+     F# : █████████                  8.7%
+     G  : ████████████████████████  23.3%
+     G# :                            0.0%
+     A  : ████████████              12.1%
+     A# :                            0.0%
+     B  : ███████████████████       18.3%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Alto          : B3 – C5 (13 個半音 / 1.1 個八度, 57 個音符)
+  - Soprano       : D4 – E5 (14 個半音 / 1.2 個八度, 58 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![夜の歸雁（二部） — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年 原書掃描頁 P431.jpg](P431.jpg)
+
+![夜の歸雁（二部） — 《新編 小學校・公學校 唱歌教材集》 高等科 第一、二學年 原書掃描頁 P432.jpg](P432.jpg)
+
+

@@ -1,0 +1,135 @@
+---
+title: "雲雀 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
+song_title: "雲雀"
+song_id: "shoka_kyozai_shu_1923_grade_1_2_32_hibari"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_1_2"
+description: "〈雲雀〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ぴい〱ぴいと　囀（さへづ）る雲雀（ひばり） 囀（さへづ）りながら　どこまで上（あが）る…"
+keywords: "雲雀, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
+sources:
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+musical_key: "F"
+meter: "4/4"
+tempo: "144"
+image:
+  - file: "P072.jpg"
+  - file: "P073.jpg"
+audio:
+  - id: "hibari"
+    label: "鋼琴伴奏版"
+    file: "hibari.mp3"
+  - id: "hibari_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hibari_neutrino.mp3"
+tmd_source:
+  - "hibari.tmd"
+  - "hibari_piano.tmd"
+---
+
+# 雲雀
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="hibari.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hibari_neutrino.mp3"></audio>
+
+- 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P072.jpg–P073.jpg，原書 p. 64–65，第 32 首）：
+調性與拍號：ヘ調四拍子（F 大調 4/4 拍），♩=144
+
+
+## 歌詞
+
+```text
+一、
+ぴい〱ぴいと　囀（さへづ）る雲雀（ひばり）
+囀（さへづ）りながら　どこまで上（あが）る
+高（たか）い〱　雲（くも）の上（うへ）か
+聲（こゑ）はきこえて　見（み）えないひばり。
+
+二、
+ぴい〱ぴいと　さへづるひばり
+囀（さへづ）りやんで　何處（どこ）らへ落（お）ちた
+青（あを）い〱　麥（むぎ）の中（なか）か
+姿（すがた）かくれて　見（み）えない雲雀（ひばり）。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="hibari.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hibari.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hibari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvReXmJJaVEqumhiXmZuYk4xsomZ6Zl5Vrn5eUmlwHBT4tLSUng5e9PL2Q0KWlpcirYKhiYmXPa2Cm5cNib6JnYgfU92NDxbNPdZa9-THZ0vm_sUnm9f8bih69m0DUCGwtMN_U_X7ni2YOHj5t1PW9dA2ApPp2x8trbn2dSZz-ZOeDm77XFD9_s9HU-XLH-2dvHT3sYnu3qe7twCYTyb0_F-T8_zLYuezd7xYuZ8BWAom-qaGL7f06nExaWvpWBLLcCloKDwtG8-yJrN7S9WdL3oaAc68cXKeU9bVzyb1g5y34beZ-2dCqCI1ssqSH_UMBnINAYxgS6EaFUo0FMwMwHKmJmCXL1mjYKxkcLLZdOAzn2_ZxbIiher9j9rWA4yvLsX6B-g6OPmGUDBp7NnA0Werp0AtMhNARgUQDEFYAgrAEXBunsezVxpCwp8kCnAIH_c0AhiPW7c8rix5XHDRiijERj2DU9nNwCNedw49XHjjseNS4H6Hzd1Q2IRLL7pceOGx01dQHGwr7Go7nrcuOpxY8_jpk6gcY8bVz5unPy4cd_jxuVPdgC1ARU3AWUh5oKMeLl6Blh0_uNGYEx2Ql3U0AC0Eyze_7ipCSy-Dqa_DWgZWASs_0UjRN3kx00TwaLrHzf2gu0ECi4DGvRiGSiFPG7cD5YFMoCuA3oW6pHHDU2QYNnVgy9Y4F4EuhquF3cINLU8bgK6YDlQ55O9U1_MnApWAwoKsAKgO3a8mLAXLAgKyseNC4EBAA6NuZOgYdQEZCCFxi6g0R2Pm4AO6YOFxlqwSqBvIOEGDo2ny4HeBIrOBMVAIzCNgCTAgQjk4gwNrPELChmgiZRnDyhQ0NLn4vLITEosyrQKyweWNQ41BjXVICsUbCy07MAMbLlSAZgXgIn2xcIeBQ0TUKHwfH2DDigrgfOPJhYNQItAhtUoGCvoAqERnIaIGAGxIVhEFypiCsUgdg1YDqQGogsoAjbNx7AGlDTAIsAgQ2HDZEBsELkCbjowYYBFdoDJpSCyqRsqswkstgEs1oVqlxF97MIf5rt6yAlzUOiBQg4W0hAREDaNhzsVEvzm8fCwhsQDTA96qGP6C-QHkMwqsFgPWKwTKSRWQsNrMhDvA7OWQ2WakHSAQgc91HHa1QQO76bJcNOw2AV2A0Q3SAakE5i3weR8IkN9Rye5Kd0MFMZwd4HCEZamISIweYQILJXDcwNSmIPcCyw7wCTI5zDf4hLvB4cOJHTXIYm3IYUntvAG62iahGEeDvGmBrBIH4Y9kJQAcRfCHrxhDaw4KS1VTMC2Q0LdFB6WMDXG8LIGf1iD0hQ4DTVNBLt_PdRPvRBRcCruALOWQWX2Q2U64D4HhRExpcpMmF2QPACOT5A4JMxA8QisKyiyq5aLS9dOAVLSK6CwlLkA)]
+- [鋼琴伴奏 TMD 檔案](hibari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJgj6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVQlFgHF01NzU_NKrAoyE_Py4xOTk_NzCxLzMkFiSlxaWgovZ296Obvh_Z6Ol7NnPuvsftm95_mELU_2bHm6tP_9nk4FLS0uRVsFQxMTLntbBTcuGxN9EzuQ-U92NDxbNPdZa9-THZ0vm_sUnm9f8bih69m0DUCGwtMN_U_X7ni2YOHj5t1PW9dA2ApPp2x8trbn2dSZz-ZOeDm77XFDN9DWp0uWP1u7-Glv45NdPU93boEwns3peL-n5_mWRc9m73gxc74CMOxMdU0Mge5R4uLyyExKLMq0CgD5J8jDocagpppLAQhsLLTswAx9LQVbdKDwfM0aoJNfLOxR0DABue_5-gYdBWCkGOtlFaRrYtGgpQ82rEbBUNtYQRcIzeO1jVA5MDkwR1fBECyjCxc21jaFkxARoAyScqhRQGGwTT6GNQqPG7eARR43tqCwYTIgNohcAbfqceNUsMgOMLkURDZ1Q2U2gcU2gMW6UO0yoo9d-ONjVw9Z8QEPO5TQh0oAsWk8IiKgkYUc7rDoQdGNHg2YHgV5CiSzCizWAxbrRAqaldAAnAzE-8Cs5VCZJiQdoOBCjwacdjWBI6BpMtw0LHaB3QDRDZIB6XzcuBBMzicyGnZ0kp8tTLTNgCQkjUNcBw1QI6RkD5FAVoosDtVgGg-JFSyRAfLI40ZQ0EHSJCwYcIn3g4MNEuzrkMTbkAIaW0SAdTRNwjAPh3hTA1ikD8MeSBKBuAthD95IeDp7NpXKJiNtE7AzYHECoqEJHiwO0wKikQouYuIBlBDBCa9pIthv66H-7YWIgpN-B5i1DCqzHyrTAQ8VUPgRUzbNhNkFyTjguAaJQ8ITFMePmyAy5NpVi1qV-CBXJSbQqgQYXPGg8gRCQnkoXGOYPDCBIytFaIeoAGnDxsVqHFgWYQLQYJgSkAySeyAyEH0gSWTj0D0AVIvEA2tAdT9CuwEkeHTtFCAhFO1jGKuAxDMC85S5AA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 雲雀 ]
+================================================================================
+⏱  Duration:       0:53 (53.3s), 32 measures total
+🎼 Key & Tempo:    首調基準 F, != 144.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Hibari #1 @ m.6, 0:09]
+   - 最高音: D5 in [Hibari #1 @ m.9, 0:13]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Hibari (26.7s) -> Hibari (26.7s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       A 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  A, F, G, C, D
+   - 調性數值:    A 小調 [相關度: 0.75, 穩定度: Moderate, 自然音純度: 98.4%]
+   - 候選調性 (K-S): A 小調 (0.75), F 大調 (0.70), C 大調 (0.52)
+   - 五度圈歷程:   +3 -> +3
+   - 各段落調性細節:
+     • [Hibari #1]: A 小調 (r: 0.75, 自然音純度: 98.4%, 調外音: A#)
+     • [Hibari #2]: A 小調 (r: 0.75, 自然音純度: 98.4%, 調外音: A#)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb              [A ]*
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ██████████                15.6%
+     C# :                            0.0%
+     D  : ██                         3.1%
+     D# :                            0.0%
+     E  :                            0.8%
+     F  : ██████████████            22.7%
+     F# :                            0.0%
+     G  : ███████████               18.0%
+     G# :                            0.0%
+     A  : ████████████████████████  38.3%
+     A# : █                          1.6%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Vocal         : C4 – D5 (14 個半音 / 1.2 個八度, 110 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![雲雀 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年 原書掃描頁 P072.jpg](P072.jpg)
+
+![雲雀 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年 原書掃描頁 P073.jpg](P073.jpg)
+
+

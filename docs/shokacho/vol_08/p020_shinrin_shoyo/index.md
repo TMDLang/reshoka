@@ -1,0 +1,133 @@
+---
+title: "深林逍遥（漫步深林） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
+song_title: "深林逍遥（漫步深林）"
+song_id: "shokacho_vol_08_p020_shinrin_shoyo"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈深林逍遥（漫步深林）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：A, 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：コダチ ノ オク ニ カゼ キヨク ミドリ ノ カゲ ニ トリ ウタフ…"
+keywords: "深林逍遥（漫步深林）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+sources:
+  - "出處：中華唱歌 / 蓬莱集ヨリ（昭2.2.25）"
+  - "《唱歌帖》（2020.006.0843）P020.jpg–P021.jpg (top)"
+musical_key: "A,"
+meter: "6/8"
+tempo: "69"
+image:
+  - file: "P020.jpg"
+  - file: "P021.jpg"
+audio:
+  - id: "shinrin_shoyo"
+    label: "鋼琴伴奏版"
+    file: "shinrin_shoyo.mp3"
+tmd_source:
+  - "shinrin_shoyo.tmd"
+  - "shinrin_shoyo_piano.tmd"
+---
+
+# 深林逍遥（漫步深林）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="shinrin_shoyo.mp3"></audio>
+
+- 出處：中華唱歌 / 蓬莱集ヨリ（昭2.2.25）
+- 《唱歌帖》（2020.006.0843）P020.jpg–P021.jpg (top)
+
+## 說明
+
+原書資訊與歌詞全文（對應 P020.jpg – P021.jpg 上半）：
+調性與拍號：変イ調 6/8 拍（Ab 大調 6/8 拍），♪=138
+註記：(中華唱歌) (蓬莱集ヨリ) / 深山逍遥(ツゞキ) 昭2.2.25
+
+
+## 歌詞
+
+```text
+一、
+コダチ ノ オク ニ カゼ キヨク
+ミドリ ノ カゲ ニ トリ ウタフ
+イザ ヤ トモドチ テ ヲ トリテ
+タノシキ モリ ヲ タヅネ ミン
+
+二、
+こずゑ を もるる ひ の ひかり
+しばふ の うへ に あや を おる
+こころ も きよき やま の なか
+けふ の ひとひ を あそび てん
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="shinrin_shoyo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shinrin_shoyo.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shinrin_shoyo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGRAboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW3mJJaVFqQhRoFHpmXlWJYmZQHeB3FaeGJ-bmJmXk5iXosSlpaXwbPvGZ_Omv2zofdm49P2ejmd7Vj9buxQi-H5Pp4KWFpeirYKZJZe9rYKjDpeNmb6FHcjwp-27Xsyc-n7PrCc71r7oX_90ysZna3sU9BVeTF7zom_jy9ltj5tXPG5eBTJxxlojPSA0BRoHdtfjhi6I8qc7pj1u6AYqMQKGt56BgZmegYWJMVAZKPz1sgrSHzVMBjINQUwFjZL8Ak0lLi59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oHOerFy3tPWFc-mtQNd9nRD77P2TgWYgxSALgJxIE56sqPraW8X0L3AYAAZ9WLV_mcNy0GGdPe-mDkfKPp0SefjpiVAcQVguCkAhYFGOiYpPF2yHEUMaEDPo5mrbA2NLcDmrNj9YsUMoHYN5MDVVNBAC1xNYHgDY-rpxo2Q6NN43NzyuGne46a1mgrwUOcCmfhkR8PjhkYQ63HT5sfNDY-bGxUeN_cBeaseN60HMruBzNWPm_YAqbUgw5vWgxU3z3_c3Am0CaoYqGITRHFzB1i0adnjpv2Pm6dCTF7yuGkbUGoJRHoRWCvInjYgBukD6QHyIIqB2voeN20H2geUAaoF2QFUBBJvfdzcC7F7M8T1u3pgrm-c_Lhx1uOmiUCFk4C46XFTNxABxYFaG9eB6MeNQJEuiOLpjxs3PG7cCpVqe9y4A0itBmKgvhaIEY1dQP1woyc_bgLa3NQE5PU-buoAkkBey-PGfVAjVgFNhyieiDAXaOUKsAPA5jU9bpz7uHEzkAUMm8kgxZSnUyhQ0NLn4grOyMwryswLzsivzLcKyEzMy3eoMaipBlmkYGOhZQdmVOem1YIZNQoGcGgaD-QagihdBeN4CA0SMALxgTSIZwQSBiIYXQOU0QVCkCyICzEdbjhO00C6wKYpmMcrmIHMM1EHmQZWBjYK2TyEa8H2GkEtrVEwAdMgI8FuwSsLMaoAZpIxWMIQ6i8TsCYjKA_oJpBDQQpAXJBSkARWL5qCzTAE-wnEAysD-xGL40FWmAItM4IHHIikhqkQ54MCGDM6cuGehorDpLGqLiBCtQFQcS0Xl66dAnJyUwDylbkA)]
+- [鋼琴伴奏 TMD 檔案](shinrin_shoyo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2feOzedNfNvS-bFz6fk_Hsz2rn61dChF83Lz7Zfee5xO2PNmz5enS_uedHe_3dCpoaXEp2iqYWXLZ2yo46nDZmOlb2HHVKSg9bd_1YubU93tmPdmx9kX_-qdTNj5b26Ogr_Bi8poXfRtfzm573LzicfMqkB0z1hrpAaEp0DglkNbHDV0Q5U93THvc0A1UYmRgZKBnYGCmZ2BhYgxUFgDiZxWkP2qYDGQagpgKGiX5BZpKXFzBGZl5RZl5wRn5lflWAZmJeflBHg41BjXVXApAYGOhZQdmVOem1YIZNQoGcGgaD-QagihdBeN4CA0SMALxgTSIZx6vbQSSASIkJlCVtjFQXhesCiQAsQVuCQ5TQbogOmEmAykFs3igpIk6yFjzeKBovDZYE9hgZNMRfoA5xQjuDrCYCZgJloToI1ohxIICuPOBiiFS2obQgDAD6QIZARQDmgYWAzKBzgd5DWoUSBCkE6wP6gP0oDHWNgVqAUNoaEDEQMohNFAEq4d1IRaZKpgAGUhRAKZpYRPIXJBNSN4BM5CiBB5kxnApBAsuCkoJaDoLCOuEW4tgGwC112JL9T7YUz3cEkSqBxqhYAhKlyD7gLGHYOIWB7GMQDkASCOz0XVAHIgWoqRaZgQkzUCmgxgoHJhDEC5BtRLuW2Q34vUIWDeJytHjD5c_TCACYNfTOzQJhsogtxc5cEEZAioPYuDTRYw2Q2RtwLyka6eAnJ0UsPCVuQA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 深林逍遥（漫步深林） ]
+================================================================================
+⏱  Duration:       1:15 (75.7s), 29 measures total
+🎼 Key & Tempo:    首調基準 A,, != 69.0 BPM, <6/8>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – D#5 (MIDI 75) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [ShinrinShoyo #1 @ m.2, 0:03]
+   - 最高音: D#5 in [ShinrinShoyo #1 @ m.8, 0:18]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      ShinrinShoyo (75.7s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       G# 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  D#, G#, C, A#, C#
+   - 調性數值:    G# 大調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 99.4%]
+   - 候選調性 (K-S): G# 大調 (0.87), D# 大調 (0.77), C 小調 (0.61)
+   - 五度圈歷程:   -4
+   - 各段落調性細節:
+     • [ShinrinShoyo #1]: G# 大調 (r: 0.87, 自然音純度: 99.4%, 調外音: D)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb               A  
+        [Ab]*          E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : █████████████████         19.0%
+     C# : ████                       4.8%
+     D  : █                          0.6%
+     D# : ████████████████████████  27.4%
+     E  :                            0.0%
+     F  : █                          0.6%
+     F# :                            0.0%
+     G  : █                          1.2%
+     G# : ████████████████████████  27.4%
+     A  :                            0.0%
+     A# : █████████████████         19.0%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : C4 – D#5 (15 個半音 / 1.2 個八度, 111 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![深林逍遥（漫步深林） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下） 原書掃描頁 P020.jpg](P020.jpg)
+
+![深林逍遥（漫步深林） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下） 原書掃描頁 P021.jpg](P021.jpg)
+
+

@@ -1,0 +1,148 @@
+---
+title: "行軍を觀る — 《共益商社唱歌教科書》 巻二（教師用）"
+song_title: "行軍を觀る"
+song_id: "kyoeki_shoka_kan_2_854863_12_kogun_o_miru"
+collection: "kyoeki_shoka"
+volume: "kan_2_854863"
+description: "〈行軍を觀る〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あれ聞け聞ゆる、喇叭の音、 トテトテトテトテ、テッテテテ、テトテトテ、…"
+keywords: "行軍を觀る, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻二》第二十四～二十七頁（第十二曲）"
+  - "NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P018.jpg、P019.jpg"
+musical_key: "G"
+meter: "4/4"
+tempo: "108"
+image:
+  - file: "P018.jpg"
+  - file: "P019.jpg"
+audio:
+  - id: "kogun_o_miru"
+    label: "鋼琴伴奏版"
+    file: "kogun_o_miru.mp3"
+  - id: "kogun_o_miru_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kogun_o_miru_neutrino.mp3"
+tmd_source:
+  - "kogun_o_miru.tmd"
+  - "kogun_o_miru_piano.tmd"
+---
+
+# 行軍を觀る
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="kogun_o_miru.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kogun_o_miru_neutrino.mp3"></audio>
+
+- 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第二十四～二十七頁（第十二曲）
+- NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P018.jpg、P019.jpg
+
+## 說明
+
+原書資訊與歌詞全文（NDL PID 854863《唱歌教科書 教師用 巻二》第二十四～二十七頁，掃描 P018.jpg、P019.jpg）：
+調性與拍號：ト調四分ノ四拍子（G 大調 4/4 拍，譜上記 C），♩=108，「勇マシク」
+註記：單聲部，分節歌二節（譜下配字二行：一＝片假名、二＝平假名，惟「兵」「軍」二字於譜下直印漢字）。本曲橫跨兩個跨頁：第二十四～二十五頁（P018.jpg）為歌詞、曲意、語釋與演奏注意；第二十六～二十七頁（P019.jpg）為樂譜，由於五線譜採橫排左起，故自左頁（第二十七頁，註明「二十六ページへつゞく」）第一至三段（第一至十二小節）唱至右頁（第二十六頁，註明「二十七ページのつゞき」）第四至五段（第十三至二十小節），全曲共二十小節。力度於第一段標 mf、第四段標 f、第五段標 mf。五線譜與簡譜逐音核對一致。
+原典演奏注意：〇豫習曲として「來れ遊べ」を復習すべし。〇「トテトテ云々」は樂器のみにて奏するも可なり。〇「國家」のコク及び「ラッパ」のラッは促聲に歌ふべし。
+原典曲意：「勇ましい〳〵軍隊が來た。赤帽子は近衞兵、黃帽子は各師團兵か。この勇ましい兵士は、皆これ國家の干ともなり城ともなりて、國家を護るものであるといふ意。」
+原典語釋：「赳々たる」＝詩經周南篇に「赳々武夫國家干城」とあり、赳々はたけく勇ましげなこと。
+
+
+## 歌詞
+
+```text
+一、
+あれ聞け聞ゆる、喇叭の音、
+トテトテトテトテ、テッテテテ、テトテトテ、
+兵隊きたる、軍隊きたる、
+あかの帽子か、近衞兵、
+胸に勳章、腰に劍、
+武裝の士官、いさましや、
+赳々たる武夫は、國家の干城、
+君を守の武士よ、君を守の武士よ。
+
+二、
+あれ聞け聞ゆる、太鼓の音、
+ドドンドドンドドンド、ドドン、ドンドドンドドン、
+兵隊きたる、軍隊きたる、
+黃なる帽子か、師團兵、
+背には背嚢、肩に銃、
+武裝の兵士、いさましや、
+赳々たる武夫は、國家の干城、
+國を護の兵士よ、國を護の兵士よ。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="kogun_o_miru.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kogun_o_miru.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kogun_o_miru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBhaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq1yE4uSM9AFkzMyc1KKUvPii_Pz0hGSaflFuVbFJUX5BRmZyQjhkoxUYCjkZuZkliQWVSLE84sy0zPzrHJTM7MykQJAS0vhxcKeF7t7HzdNerG84XFTt4KWFpeirYKhgQWXva2CO5eNib6JHciYp-27Xsyc-n7PrKetG5_P7no6te35kn3PVjQ9nbni6a7pjxu6nk7Z-Gxtz7OpM58vn_hs9g4FIOvpjtXPp6xQeLp995NdPY8bup-vWQNkPO1tfDp79vu98yDsJzuaXy5ofL-nAygL4u7qeTZ70_s9nWDH-7n4KLgAnV6SmKPgDE8DxQoBni4KkFgGaswoKSkottLXT8nRywPi9Hy9rAL9gswUfZiKzmd9zc_6-xVAcQuUS3_c0AhkWoKYSlxc-loKttQCXAoKCk_75gP9_2Jz-4sVXS862oGB8mLlvKetK55Nawc6FuQjhOupEG49uD0H9DkwwkBuerFq_7OG5SDXdPe-mDkfKPq4uQMoCDTwaUfb4-Y-IAMo9XTtBKAT3RWeLlkOlFQAxr0CUBRox4u1c57s6HqxYoaCM9jQnkczV9oCEwmQ9bih52l3--PmeY-btj9uWv-4oRds4YrdQNWg5DJt3YvGTS-bVwCVAq16vr4B6FugD4AMoFVgc7tftgJtng4UBCZGoJYnO4BSc593tj9tbH86oRfoIaAUUOTpzs0QEZCnm-eDLG7dCrQPyAAl4YZeUMCsnf5s2h6Isc9nb3nau-HZnkVAQaCrHzc0PZuzBpi4nq1c_WL7iqetK582dAMZ4FCchT2Md02BpE1Y4AKNed60CxKlQHeBDGvpBzJerJr3sr0bFL57pjxd2v9s8wqg-Ps9sxGmtq7FTPFI8QQydUUT0N1Avz0Hpohpe4B2P98-CyjyrG8h0MXP-iY93b7sxdbtIM9PbX3RvgrIhWcctCQBDP1nM_qA4QK3_HEzMMb3PG7a8bgRiJY8bpr3uBHocGBQdoK072h40b75yY7OZ-u2Qg0Ei0Dy49MN_eDY6gQmVZBg_2Y0e4HmY7UX6B4ke9fB7AVFFcReYFiD7N01BW4vWFcnWBBsMsxqUOoBZqHZm4DFD7IUMFKfds1-umsZMMQgzgYa9WzFTIXcNGC0QKyAikAFILbBlDTBgxkYec83LAQyXjZMeDl_87MFO55u6AUHwxagMmjGftq6AzWGZz1uaH-xcfXz_ZOAbnvcuOJx4_THjctAIbCv7XFTz8vGrseNO0FptGnS030rgcoeN84EiQCVNTQB9QJVAnPi42ZgHgSRT3ZNfNzQClLfuB5SuILDbf_jxtVAY4H2grQ3dT9uanrav_5x46rHTV1wc57O6X66bhtY77rHTZuBefFpP9D2zWArVj5uBsYF0HCwLITbuP7J_mZg5gQaDkzRjxu3wh2G5FtwCgf7E5zNG_eBfdjyuAFo7lZgtns5C2gH2LeNwBzZ9GLrkqc79gLLEaDpL_ZPfLEQWPIB82jjy93NcPGnE1qAJdzTOTNAUo3dIA80TgY6C9l8oNTTxUA_A8uTxuezgIZPBoYm1IdAlTvBYd0E1AgKgqfz-5C54AhohCoGVmxrgeUSKMjAQbn8cWMTiAuKqhagn8H5FxiC4FIL4mdIZob4-cVWoD9bQX4D6gEl27kvVq58vm3y04krnvZOf74e6OLVcGXP1i57ugToMZDFQCeCnAUKb6BNQCuBEdUIMw0YdfMfN04EZkEkPwOTxipwQKwAxQDIOcDUB9QEYoFN6HnRCMw9E0FkEzBxAd3T-HRa-9P-tUCPAVMsTClSckIhGxrBbGAyAJJgBBVBUQMOhtat4GgFuh3i70ZYRCNEYK4Cxh8wPqBRC1aKFOvgmqAZmPdXP-3e_Hz1ApB06wYQtwtUrIOkgWH2YvFckBmLVz9dNwPkJlC8TIWGShMwpUGMQYoISDhDEgdymgAHOMQHE2aDcty6DqAESDUwKTV1gFRjF4cGN6iyxR_cS1a93ANKqsjB3QlGm7EzQEEM40LZ2FSSFu7AzARO6d3I4Y7IUrBwB2ZpUCABGU9nLQIZ1rQSKPKyqxkj6CGZjUpBPweY18CZDm4wJOixi4PLGsobXlCgoKXPxeWdn16a5--bWVRqFZCZmJfvUGNQUw2yRsHG0EzLDsyqzk2rBTOArb_HTYuA0bgGSK8F4o1QejNQbBkQr1aoAZIrgbgZiCcCcR8Q94LyGVimDcxCpUEqQXQbDhVAV4LsrlEwVNCFY2MgNoKyzeKhjBoFUxATTIAUgMRAikDQACYBMQfMRGEYArWYQhUDDYIaAaNBKmDGgFWA3eRjCHRyYxOQD8wBILKxF0xORGJPBsu2gclusNmPmzrBMovB5EYwuQ5MroWaDnITsGiDqG5cBuehsWFGAEMeimHOx6MJyQokjxiR5ZHG-WCZFoQ8Vo-shKpe-bgJoggkgI8LxRABmI-I0o3pNWCaBeYgoJv3A_ESaHoFssFpFVhk4JCBpPM9QHo1NBXPgfK3g8VAKkCpHiQDEl0BpGeAzUFJryAIoY3h6RVEg9IRJJVB5CDqQDKwlA1RgZzmwSkdnNgRyRyS7CH6jOCmQ8zDnlqBFQwovkAQEn-QGITFMjhGwfELySyPGycgQpY4DaBkBFEFEoUkiseNe-Ci0-FyINVIyaYJktx2QG3AnVBp7weQOETVKggNlMXtBwhvAVgdxD_4_AAqRZsXQNINuGwEGt20HkgD0xOwW9i8HCwFTWCg5AZWACxqgQpAReQ0IG8vVDsw-UETJFQWnJCByR0sOw-qHylRQpKcGVrBZgRPdrBkC0lMiNSGkpzgSRqWgM1AyqAYZBIkSYISNCQpQkzDkSSbGuDBuhZMrgaT_dCAnwwK4MdN7XDLIWkGEgswxeCUg1kCAGW2QdXOhYohCilEHEJ0glRDirKpYHIfwpYmfKlxNtxciFvWw0lYKgPZB3MPLE_Mh6tfAieJdzsifUH8Qbrbq5HrdGCXdymkHEOw4CUhKMGBk9NUKN0PL_2AdTe0fASJgFggeZAMyIQdwLQMYqElPkgygSUbGASJIepd9OobBtFLVWgShRuCqOGRy1OYWrgpSOUhsLfZCg9cFA6knIDy4FUeJE5A8lvhLEhcI7sSlkZBsqBKGsKCxD1yTCJSBHL6fdw4A5Hg0RwNTnJDzNGoDci10GQCzAHNmyClVDOosl0FS0hgHqhiBWFQolsBTl7k6EOrjA0RpRrOihRWWmGtSKFJ1xQlgYLYJiAjUVTAykN8TcdeeNjtB4flJDAblHmBXXAw2YUc6mAxCB9WEIDiE9g3gJqDXHjQzGykdAgpo-FFHyE7oIUcKO1B5aEVPzb308xsrlouLl07BUTPRwHIU-YCAA)]
+- [鋼琴伴奏 TMD 檔案](kogun_o_miru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnixsOfF7t7HTZNeLG943NT9fk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNLDgsrdVcOeyMdE3seOqU1B62r7rxcyp7_fMetq68fnsrqdT254v2fdsRdPTmSue7pr-uKHr6ZSNz9b2PJs68_nyic9m71AAsp7uWP18ygqFp9t3P9nV87ih-_maNUDG097Gp7Nnv987D8J-sqP55YJGoGOAsiDurp5nszcBXaIEstXPxUfBJTM9syQxR8E5PycnNbkkMz-vWCHA00XBwtTEwswYqDGjpKSg2EpfPyVHLw-I0_P1sgr0CzJT9GEqOp_1NT_r71cIMDC0AMqlP25oBDItQUwlLi7v_PTSPH_fzKJSq4DMxLz8IA-HGoOaai4FILAxNNOyA7Oqc9NqwQx9LYXHTYsUHjevAdJrgXgjlN4MFFsGxKsVaoDkSiBuBuKJQNwHxL1A3AGWaQOzUGmQShDdhkOFlj7Y7hoFQwVdODYGYiMo2yweyqhRMAUxwQRIAUgMpAgEDWASEHPATBSGIVCLKVQx0CCoETAapAJmDFgF2E0-hkAnNzYB-Y-bekBkYy-YnIjEngyWbQOT3WCzHzd1gmUWg8mNYHIdmFwLNR3kpseNKyCqG5fBeWhsmBHAkIdimPPxaEKyAskjRmR5pHE-WKYFIY_VIyuhqlc-boIoAgng40IxRADmI6J0Y3oNmGaftm4Funk_EC-BplcgG5xWgWUCDhlIOt8DpFdDU_EcKH87WAykApTqQTIg0RVAegbYHJT0CoIQ2hieXkE0KB1BUhlEDqIOJANL2RAVyGkenNLBiR2RzCHJHqLPCG46xDzsqXUHJL5AEBJ_kBiExTI4RsHxC8ksjxsnIEKWOA2gZARRBRKFJIrHjXvgotPhciDVSMmmCZLcdkBtwJ1Qae8HkDhE1SoIDZTF7QcIbwFYHcQ_-PwAKkWbF0DSDbhsBBrdtB5IA9NT0_bHzcvBUtAEBkpuYAXAohaoAFRETgPy9kK1A5MfNEFCZcEJGZjcwbLzoPqREiUkyZmhFWxG8GQHS7aQxIRIbSjJCZ6kYQnYDKQMikEmQZIkKEFDkiLENBxJsqkBHqxrweRqMNkPDfjJoAB-3NQOtxySZiCxAFMMTjmYJQBQZhtU7VyoGKKQQsQhRCdINaQomwom9yFsacKXGmfDzYW4ZT2chKUykH0w98DyxHy4-iVwkni3I9IXxB-ku70auU5f-7h5KaQcQ7DgJSEowYGT01Qo3Q8v_YB1N7R8BImAWCB5kAzIhB3AtAxioSU-SDKBJRsYBIkh6l306hsG0UtVaBKFG4Ko4ZHLU5hauClI5SGwUdgKD1wUDqScgPLgVR4kTkDyW-EsSFwjuxKWRkGyoEoawoLEPXJMIlIEcvp93DgDkeDRHA1OckPM0agNyLXQZALMAc2bIKVUM6iyXQVLSGAeqGIFYVCiWwFOXuToQ6uMDRGlGs6KFFZaYa1IoUnXFCWBgtgmICNRVMDKQ3xNx1542O0Hh-UkMBuUeR83QVpjXcihDhaD8GEFASg-Hzd1QM1BLjxoZjZSOoSU0fCij5Ad0EIOlPag8tCKH5v7aWY2Vy1mx8cHueNjAu33AFPri76ul-29T1t3vJzdCukrIiWpeIVow1hg8gHSpvGxQBEsYqhqoRSSSpgIGWaaAPkmsTAKpBKuBJdaFHPhHJgJqG4gylxMtQRCgAiVpPgLT3gBKQNIZOvaKSDiO9oHKIcmYgQWUeYCAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 行軍を觀る ]
+================================================================================
+⏱  Duration:       0:44 (44.4s), 20 measures total
+🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  D4 in [KogunOMiru #1 @ m.2, 0:02]
+   - 最高音: E5 in [KogunOMiru #1 @ m.9, 0:18]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      KogunOMiru (44.4s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  G, D, A, B, E
+   - 調性數值:    G 大調 [相關度: 0.92, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.92), D 大調 (0.71), E 小調 (0.55)
+   - 五度圈歷程:   +1
+   - 各段落調性細節:
+     • [KogunOMiru #1]: G 大調 (r: 0.92, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F           [G ]*
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.7%
+     C# :                            0.0%
+     D  : ██████████████████        25.2%
+     D# :                            0.0%
+     E  : ███████                    9.7%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : ████████████████████████  33.8%
+     G# :                            0.0%
+     A  : ███████████               15.5%
+     A# :                            0.0%
+     B  : ███████████               15.2%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 123 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![行軍を觀る — 《共益商社唱歌教科書》 巻二（教師用） 原書掃描頁 P018.jpg](P018.jpg)
+
+![行軍を觀る — 《共益商社唱歌教科書》 巻二（教師用） 原書掃描頁 P019.jpg](P019.jpg)
+
+

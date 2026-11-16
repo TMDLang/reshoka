@@ -1,0 +1,146 @@
+---
+title: "卒業の歌 — 《公學校唱歌集》 大正四年（全一冊）"
+song_title: "卒業の歌"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_6_09_sotsugyo_no_uta"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈卒業の歌〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、うれし、うれしや　うれしやな。 いろはのいをも　わきまへぬ…"
+keywords: "卒業の歌, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+sources:
+  - "文部省《小學唱歌集》"
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
+musical_key: "E,"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P110.jpg"
+  - file: "P111.jpg"
+  - file: "P112.jpg"
+  - file: "P113.jpg"
+audio:
+  - id: "sotsugyo_no_uta"
+    label: "鋼琴伴奏版"
+    file: "sotsugyo_no_uta.mp3"
+  - id: "sotsugyo_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sotsugyo_no_uta_neutrino.mp3"
+tmd_source:
+  - "sotsugyo_no_uta.tmd"
+  - "sotsugyo_no_uta_piano.tmd"
+---
+
+# 卒業の歌
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="sotsugyo_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sotsugyo_no_uta_neutrino.mp3"></audio>
+
+- 文部省《小學唱歌集》
+- 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P110.jpg–P113.jpg，第六學年 pp. 104–107）：
+調性與拍號：變ホ長調（Eb 大調）4/4 拍（弱起第 4 拍進入），速度 ♩=104
+
+
+## 歌詞
+
+```text
+一、うれし、うれしや　うれしやな。
+いろはのいをも　わきまへぬ
+身（み）のいつしかに　積（つ）み得（え）たる、
+西（にし）も東（ひがし）も　知（し）らざりし
+身（み）のいつしかに　分（わ）けえたる、
+世（よ）の人（ひと）並（なみ）の　文（も）字（じ）の數（かず）、
+世（よ）の人（ひと）並（なみ）の　道（みち）の筋（すぢ）。
+
+二、うれし、うれしや　うれしやな。
+長（なが）の年（とし）月（つき）　手（て）をとりて
+教（をし）へ給（たま）ひし　師（し）の君（きみ）の
+導（みちび）きなくば　いかで我（わ）が
+心（こゝろ）にひらく　智（ち）は德（とく）は。
+思（おも）へばうれし　師（し）の情（なさけ）、
+思（おも）へばうれし　師（し）の惠（めぐみ）。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="sotsugyo_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sotsugyo_no_uta.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sotsugyo_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OLM4ojTe0NDRVgqssy88pzU21Si9KTEmNN0OIF-eXFiWnWhUnZ-Tn58SXpFaUJOXnZ6PLxxckpqdaBRgaGiBkCoryy1LzEvOAuguKMvNKUlPA2hEKUssyU1JB0sXJiXnxZalFmWmZqSlITkotKga5HGpFSVFiXnFyUWYByDsIVflFJRn5QGcXZFRaZWQWl-QXZSYn5sRnJ-YlIhSVZKQCPQf1RE5mWiq6VHJqUWpufl5mYg6yyZnpmXlWQOGkUmCoYUiUpxaXpBblxeem5uSnVCpxaWkpPO2d9Gzp2seN656t7VHQ0uJStFUwNDDhsrdVcNXhsjHRN7EDGfJsWvvL5hXP5zQ-buh6uqH_6dodT6dsBOp4ObvtcUM32J4X7bueNy5-vmPv87mLn-6aA1LYugao8NmChchq3-_peLpk-bO1i5_Onv1055YnOzqfzel4v6fn-ZZFz2bveDFzvoKBuZGpgpHZ-z2dSlxc-loKttQCXAoKCk_75oOs2dz-YkXXi452oLNerJz3tHUF0IMgl23ofdbeqQBKFXpZBemPGiYDmcYgJsiFa9Y8bV0L8vrOLQoFBXqgcAKqMDQwBzr1_Z5ZIONfrNr_rGE5yODuXqBfgKIv1nU9bp79cup2oBTQBtckBaD3wexOYOAqANWB7N2z8cXW7UALFMAiLxs2PW1dCja152XD_Ke7lik8mrnSFhQvIEue7Gh43ND4uLHtcVPP48bpKOymlscNDSjcxlWPG5pA2h43tjxu6n3cuB4Y2WD2pMdNTSDVTf2PG4Hi-x437njcuAbsjV2rga563AhyJVR14xKQeY3djxtXA_U8XwlyNlAQrGD_033TwVxgRAK58x83dQMdBTZoKcjTID2NQBWdQAufzd0IFtn0uBHkQoggyMT5QA8DxSEiQFOmPW7qAnKJcs7TjjaQgqZ-sIKJQIeguOLJjmlgaYjz1j3ZtQvmhBVAkSc7loG5qxAWNDRA0gPQaUCRp2shvpsBkX02dQeYC7R7FkiEbDteNk6GeOtx40KI4PO1oPzxuHHm48ZFYKObIBG-q4ecCAcmOpilPRDzgSkXLLICEs7gnAeKRWD8g61reNYJcQDQtcBYmARSCYqFZSDjnk2dCfYhUBQcSY07nm-F-Go-MPGARYC-Bbqu4ekOSHxBlK17OmE2mAtMY1DPg3Pihj647x83bgZLAFUAHQtMjhvAngL6BRjIy591TESK3R6w5v3NYM2THzfNBSZqsAQwjW0Cp5x-kEdmQsIfErDrn-6DBAXQ4xBT1kPD6FnDXLBEFySqwVlgA1JIo_vlWXMrLEynAlMaIv5JN2gB2FPAqJwADReIiygv56BAQUufiys4v6S4NL0y3y8_tCTRKiAzMS_foUbXsKYaZJWCjYWWHZiBrZhVAJZHwKLmxcIeBQ1IAaWgDSyfgMX_8_UNOvBCUhOLTqDNIFNrFAwUdOG4OjetVsE0HsiqUTAEkiAIoo0UjIEiRlAREG0KVmMGFQHRpgom6kAhkAQIgoyDmAS2x8ewRgHEg2FgsINNAIY9VAMw2KHiIDGgDJgPlmlqwacDLAtSvwoqDjEfLAqx24jedoN4NeByAXe07eoBRxuJsQWJFUOMWDGPh4Q2JF6MoSwQbQRUi4g7ULQYA3mIWAHmTaiP1gPxOkTYAWUmwUOhCUz2Q30L0QFSuQ9M7oCKr0EJhf0oMQAsFuC6ILasgOqChDWwjIOaDCzM0O0HqwWWc1AdIHm4PWBVhEJ7Ryf5oY2ZB7CHNkgOHLZwfeA8BcpSiJAAhTjY_xB_QVLXErSQ6Abi1SgyoLCEyHWAyfnQEOpGCXGQHuQQh6dicAzBdYFjDcTfBE_5IBLVZZCYAMchkjhyzOINcWDbkZwQB4WUmYK5gmEcKJiBTFiJYgxN0IjgBUUIpOhBK3XQAhuSUcEJGOhhEAlKiKiZHCILDYSmTnggTAPLwpIdTD325L0QLLoZKfDAxQCQBmUbiHkbwCSs0IBFHrACBdsDy16wjAKxZzLhwH6yawpmYBtSM7BBbEgKB6oBuQuevBFVBloCR07ciASG8DM4gcP9PBEujieBN4HkkMMcFDaQAgyWYUAxjBqHIBsgsQPSsR4uDi5SwLLI4pAwB8c4gQTeupacMMdVgCNXq8CKFMIEJW7keMGewCF5E5KbIZ6CJTxEqQGOEHAyB4nPQBUHRwpIfBa-wAbrhpQlsISMqx7FLE1ALgK2x6DisMgmOrCf7GgmK7BBCRsY2nHw2hDRZkGIgALeBMoDRQNq-Q3CZIU2vOwEJT2EOIieCRZfhBQKSBmI0rBuaoTKT0BxFcKWWi4uXTsFlGanAlBAmQsA)]
+- [鋼琴伴奏 TMD 檔案](sotsugyo_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjaO-nZ0rWPG9c9W9vzfk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDDhsrdVcNXhsjHRN7HjqlNQejat_WXziudzGh83dD3d0P907Y6nUzYCjXk5u-1xQ7cSSMmL9l3PGxc_37H3-dzFT3fNASlsXQNU-GzBQmS1QIufLln-bO3ip7NnP9255cmOzmdzgHb3PN-y6NnsHS9mzlcwMDcyVTAyA7pHiYsrOL-kuDS9Mt8vP7Qk0SogMzEvP8jDoUbXsKaaSwEIbCy07MAMfS0FW3Sg8HzNmic7Gl4s7FHQeLpn44ut2xW0FUwUgB54vr5BRyHA0NBAL6sgXROLTi19sKk1CgYKunBcnZtWq2AaD2TVKBgCSRAE0UYKxkARI6gIiDYFqzGDioBoUwUTdaAQSAIEQcZBTALb42NYowDiwfDjxjawCY-beqAaHjdOh4qDxIAyYD5YpqkFnw6wLEj9Kqg4xHywKMRuI3rbDeLVcOGPtl094GgjMbYgsWKIESvm8ZDQhsSLMZQFoo2AahFxB4oWYyAPESuPm3qhPloPxOsQYQeUmQQPhSYw2Q_1LUQHSOU-MLkDKr4GJRT2o8TA40ZE2EFsWQHVBQnrx41LoCY_blyGbj9Y7eOmLqgOkDzcHrAqQqG9o5P80MbMA9hDGyQHDlu4PnCeAmUpREiAQhzsf4i_IKlrCVpIdAPxahQZUFhC5DrA5HxoCHWjhDhID3KIw1MxOIbgusCxBuJvgqd8EInqMkhMgOMQSRw5ZvGGOLD0IyfEQSFlpmCuYBgHCmYgE1aiGEMTNCJ4QRECKXrQSh20wIZkVHACBnoYRIISImomh8hCA6GpEx4I08CysGQHU489eS8Ei25GCjxwMQCkQdkGYt4GMAkrNGCR97hxOdgeWPaCZRSIPZMJB_aTXVMwA9uQmoENYkNSOFANyF3w5I2oMtASOHLiRiQwhJ_BCRzu54lwcTwJvAkkhxzmoLCBFGCwDAOKYdQ4BNkAiR2QjvVwcXCRApZFFoeEOTjGCSTw1rXkhDmuAhy5WgVWpBAmKHEjxwv2BA7Jm5DcDPEULOEhSg1whICTOUh8Bqo4OFJA4rPwBTZYN6QsgSVkXPUoZmkCctHjxqlQcVhkEx3YT3Y0kxXYoIQNDO04eG2IaLMgREABbwLlgaIBtfwGYbJCG152gpIeQhxEzwSLL0IKBaQMRGlYNzVC5SeguAphSy3WVqcPSqvTBNHqfLZr9ctlK170db1s732ys_v51EXARvbT1h3Pl617un3Zs85uSAsbuUUJgcBwjFeINoyFUaCSA8gyjY9FMIDxAWKaxefGKhgBGUYoysCmwOKSCLNwqiHTIEwRZIPgsiA5EzT7MRwEVoDVQUSYQ81AgppAmkEmEKeh83EFEDCJ6dopoKSyaB_DWLDhmBJGcAllLgA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 卒業の歌 ]
+================================================================================
+⏱  Duration:       1:04 (64.6s), 28 measures total
+🎼 Key & Tempo:    首調基準 E,, != 104.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    A#3 (MIDI 58) – D#5 (MIDI 75) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  A#3 in [SotsugyoNoUta #1 @ m.1, 0:01]
+   - 最高音: D#5 in [SotsugyoNoUta #1 @ m.14, 0:31]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      SotsugyoNoUta (64.6s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  A#, D#, F, G, C
+   - 調性數值:    A# 大調 [相關度: 0.90, 穩定度: Moderate, 自然音純度: 99.0%]
+   - 候選調性 (K-S): A# 大調 (0.90), D# 大調 (0.82), G 小調 (0.59)
+   - 五度圈歷程:   -2
+   - 各段落調性細節:
+     • [SotsugyoNoUta #1]: A# 大調 (r: 0.91, 自然音純度: 99.0%, 調外音: G#)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+     [Bb]*              D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ███████                    9.0%
+     C# :                            0.0%
+     D  : ███                        3.3%
+     D# : █████████████████         22.4%
+     E  :                            0.0%
+     F  : ███████████████           19.5%
+     F# :                            0.0%
+     G  : ██████████                12.4%
+     G# : █                          1.0%
+     A  : █                          1.4%
+     A# : ████████████████████████  31.0%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : A#3 – D#5 (17 個半音 / 1.4 個八度, 107 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![卒業の歌 — 《公學校唱歌集》 大正四年（全一冊） 原書掃描頁 P110.jpg](P110.jpg)
+
+![卒業の歌 — 《公學校唱歌集》 大正四年（全一冊） 原書掃描頁 P111.jpg](P111.jpg)
+
+![卒業の歌 — 《公學校唱歌集》 大正四年（全一冊） 原書掃描頁 P112.jpg](P112.jpg)
+
+![卒業の歌 — 《公學校唱歌集》 大正四年（全一冊） 原書掃描頁 P113.jpg](P113.jpg)
+
+

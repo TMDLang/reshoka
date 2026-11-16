@@ -1,0 +1,47 @@
+X:1
+T:故郷
+C:曲：岡野貞一（文部省尋常小學唱歌）
+M:3/4
+L:1/16
+Q:1/4=80
+K:G
+V:V1 name="Alto" snm="Alt"
+V:V2 name="Soprano" snm="Sop"
+[V:V1]
+!mf! G4 G4 G4 | A6 B2 A4 | B4 B4 c4 | d8 z4 |
+c4 d4 e4 | B6 c2 B4 | A4 A4 F4 | G8 z4 |
+!p! F6 G2 F4 | G4 G4 G4 | F6 B2 A2 F2 | A2 G2 G4 z4 |
+!mf! A4 B4 c4 | G6 A2 G4 | F6 G2 D4 | G8 z4 |
+!mf! G4 G4 G4 | A6 B2 A4 | B4 B4 c4 | d8 z4 |
+c4 d4 e4 | B6 c2 B4 | A4 A4 F4 | G8 z4 |
+!p! F6 G2 F4 | G4 G4 G4 | F6 B2 A2 F2 | A2 G2 G4 z4 |
+!mf! A4 B4 c4 | G6 A2 G4 | F6 G2 D4 | G8 z4 |
+!mf! G4 G4 G4 | A6 B2 A4 | B4 B4 c4 | d8 z4 |
+c4 d4 e4 | B6 c2 B4 | A4 A4 F4 | G8 z4 |
+!p! F6 G2 F4 | G4 G4 G4 | F6 B2 A2 F2 | A2 G2 G4 z4 |
+!mf! A4 B4 c4 | G6 A2 G4 | F6 G2 D4 | G8 z4 |
+[V:V2]
+!mf! G4 G4 G4 | A6 B2 A4 | B4 B4 c4 | d8 z4 |
+w: ウ サ ギ | オ ヒ シ | カ ノ ヤ | マ
+c4 d4 e4 | B6 c2 B4 | A4 A4 F4 | G8 z4 |
+w: コ ブ ナ | ツ リ シ | カ ノ カ | ハ
+!p! A6 B2 A4 | G2 B2 d4 B4 | A6 d2 c2 A2 | c2 B2 G4 z4 |
+w: ユ メ ハ | イ _ マ モ | メ グ _ _ | リ _ テ
+!mf! c4 d4 e4 | B6 c2 B4 | A6 B2 F4 | G8 z4 |
+w: ワ ス レ | ガ タ キ | フ ル サ | ト
+!mf! G4 G4 G4 | A6 B2 A4 | B4 B4 c4 | d8 z4 |
+w: い か に | い ま す | ち ち は | は
+c4 d4 e4 | B6 c2 B4 | A4 A4 F4 | G8 z4 |
+w: つ つ が | な し や | と も が | き
+!p! A6 B2 A4 | G2 B2 d4 B4 | A6 d2 c2 A2 | c2 B2 G4 z4 |
+w: あ め に | か _ ぜ に | つ け _ _ | て _ も
+!mf! c4 d4 e4 | B6 c2 B4 | A6 B2 F4 | G8 z4 |
+w: お も ひ | い づ る | ふ る さ | と
+!mf! G4 G4 G4 | A6 B2 A4 | B4 B4 c4 | d8 z4 |
+w: コ コ ロ | ザ シ ヲ | ハ タ シ | テ
+c4 d4 e4 | B6 c2 B4 | A4 A4 F4 | G8 z4 |
+w: イ ツ ノ | ヒ ニ カ | カ ヘ ラ | ン
+!p! A6 B2 A4 | G2 B2 d4 B4 | A6 d2 c2 A2 | c2 B2 G4 z4 |
+w: ヤ マ ハ | ア _ ヲ キ | フ ル _ _ | サ _ ト
+!mf! c4 d4 e4 | B6 c2 B4 | A6 B2 F4 | G8 z4 |
+w: ミ ヅ ハ | キ ヨ キ | フ ル サ | ト

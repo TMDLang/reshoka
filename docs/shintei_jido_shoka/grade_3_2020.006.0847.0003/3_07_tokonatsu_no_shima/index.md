@@ -1,0 +1,148 @@
+---
+title: "常夏の島 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "常夏の島"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_3_07_tokonatsu_no_shima"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈常夏の島〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：萱島保之、曲：柚木厚司），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：常夏（とこなつ）の島（しま）の太陽（たいやう）を 君知（きみし）るや熱血（ねつけつ）の…"
+keywords: "常夏の島, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 萱島保之, 柚木厚司"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "詞：萱島保之"
+  - "曲：柚木厚司"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
+musical_key: "G"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P058.jpg"
+audio:
+  - id: "tokonatsu_no_shima"
+    label: "鋼琴伴奏版"
+    file: "tokonatsu_no_shima.mp3"
+  - id: "tokonatsu_no_shima_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tokonatsu_no_shima_neutrino.mp3"
+tmd_source:
+  - "tokonatsu_no_shima.tmd"
+  - "tokonatsu_no_shima_piano.tmd"
+---
+
+# 常夏の島
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="tokonatsu_no_shima.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tokonatsu_no_shima_neutrino.mp3"></audio>
+
+- 詞：萱島保之
+- 曲：柚木厚司
+- 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P058.jpg，書頁 p. 35，第三學期第 7 首）：
+調性與拍號：と調二拍子（G 大調 2/4 拍）
+
+
+## 歌詞
+
+```text
+一
+常夏（とこなつ）の島（しま）の太陽（たいやう）を
+君知（きみし）るや熱血（ねつけつ）の
+日本男子（やまとをのこ）の胸（むね）に凝（こ）る
+赤誠（せきせい）の如（ごと）く燃（も）ゆるよ
+
+二
+南（みなみ）のしづめ新高（にひたか）を
+君知（きみし）るや眞夏（まなつ）の日（ひ）
+山頂（やまいたゞき）の雪白（ゆきしろ）く
+紺青（こんじやう）の空（そら）を凌（しの）ぐよ
+
+三
+わが日（ひ）の本（もと）の南端（なんたん）を
+君知（きみし）るや、暗（くら）き夜（よる）
+黒潮躍（くろしほをど）る海原（うなばら）を
+鵞鑾鼻（がらんび）の燈（ひ）の照（て）らすよ
+
+四
+常夏（とこなつ）の島（しま）の月夜（つきよ）を
+君知（きみし）るや椰子（やし）の葉（は）の
+風（かぜ）に吹（ふ）かれてさや／＼と
+地上（ちじやう）に青（あを）く躍（をど）るよ
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="tokonatsu_no_shima.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tokonatsu_no_shima.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tokonatsu_no_shima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx-YllpQWpaKLFqcmFufnFSOEgTakZ-ZZlSRmlifmxeenpWUmg63U0lJ4umPH0yX9jxvXPd28TUFLi0vRVsHQwILL3lbBncvGSN_EDmTIi5Xz3u-Z9WLCRqCiJ_vnPtnZDTb72exNQOFn82c9m7Piad-sp_07wMIv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27oBjrh-fKJz9esebKj8-naHU93bnk-ZcX7PR2gGNADxoAeKAaADAPj93s6lbi49LUUbKkFuBQUFJ72zX82e8eLze0vVnS96GgHugvo36etK55Nawe64umG3mftnQoBBqYWelkF6e_39AAVv1zQqFCgp2BsCuTCHf5sznwgW8Fc4eWyaUCXAoMGZPqLVfufNSwHmdvd-2LmfKDo48YVQMEnu3qAIk_XTgDa4a7wdMlyoJgCMMAVgKJA3VwgvU92NIAdCI4joDqgzseNkx83rnrcuASoBhJrYPHpjxv3QUWWrHo5cy9YcP7jxpbHTS2PG9tAUk2TwGZNmP18_lKwdO_jxv1AnWC5bqC6520bXyxsAEutBVrwuHEi3BqQzmfTlz6bs-b5lO0QN4MN3gdyUdMkoAqguyBKXzTvAMs2AE0Bi6x-2j4XbChYQVM3OFC2LnmxagFYdDbYIUCyBer-ZU1g8SlAo8Ei_c_bm8EmAsWB-tvAju2AhM-uHrCfeoGeAGoB-gYYMvsh5oDDZOnjpkZgsnu5egZYwerHjZvAwdJNXIDMmQcLd6BHEYEODAmwIDD1d4KN2Ljx5QKwq6FhAiTnP26aBzQRouHl7FXPIXECdD7ImumPmyBS_SD9z7fsejl3EiSMHjcB43cGItYa1z1fuQssNfdxEzBNgZz9tL0HFunrwGomwANkB9hBj5uAOboH2ZkgV89ZAwlGWMCuA4bb89XrwWpWge0FOhoSSYRC5nFD47NZkEDvhzqrsffpkjlgC4AIFL4gI17unvRs77oXu4CehSgF-71xNzjNrIQY92zrdmAOBCsABg4wlDfAPQo2Yuu8lxP3vdyzG6yiBygHdupmaOC0dyD78XnrcjB3GVg_UGQmLGSezp5NclZ6NqcD6idQbugFGkVU4DxbsgEpi4DFgdliItBPQMXA4IZlqJeLQKUcMDE-bgRaAs4pE3aCRbaCuUCzeoBeedw4FWjQ-z1AV-8Buhps-ZwNT3Z0gZUuRE0tq2EJqQnoTkgKg4Y-UoiDwgRoCuWlJxQoaOlzcYXkZ-cDq6PiUr_84IzM3ESrgMzEvHyHGoOaapBlCjaGZlp2YBa28lsBXIo2vFjYo6BhovB0Q__z9Q068EJXE4sGoJ1Qw17O6ns6odcKmOr3gtM-mGyeD2fXAHmdILVg0cfNa6DsTrAMiAeRf9y8EkUPiIcMEDZqAJ2qCbSwuQOsYTNYcxeYbIFq7oNY0rQdyJ4HtbAPJNO0Hyy-BCwCJpuWQfVswmPhrh6QhY1gzY2rwCSEvQ6iuXE6xJLGpUADG6EW7gHLrAaLgxwGzOFgshuip2kSdgtrFEzjFXSBEEgZw1k1CoZgprGCEZg2BIqAWCBRM5AqsKYaCBsGDUBCYEN9DEFuWQEWBeY8sC8g7CVgV66D8qYD8T4oex1YZj6Y3QIim8BkYxvYIpD7ETaBLYfYZATStR9qxiokNsS86VAeJKQguiHhBBLdBCYhdnbjt8cYJNcPNa0HqhduT1MTlAfxM8J-kL-BZRjCHjAbjz0m5IbcEjC7F2xHB8KnWOzBnzF39VCWMeHZr5NAJoNkW5A4OKFCMydqhoWYhZFokbJl01q4YaAMCGKB8gBIMyjDIVvXCxUH546mjWAxEBueXYGkxotVS54t6X3Z3vu0dwOwwfd0_bLnTbuAeh83NwP1ADUAVWliy60g0yE5FZI_gWUvxD5gOkZxBzDeILkYkrPBxQI4Z4PoTUAZDADPqpBMaUggCwJzLXLeNYJrxJ5NQUkGlHQgDgezgU6HOBwt6QBVrIUnR2CbEUvSxJ5BSbMDlrBB2RmUrBGJHJLpsGZOEu2AZuUmYCqF6QRmG5BqUEGAK2OSZAdUDJJZYRl3PY6wIlBbdlKYKSFZD0RDMyWYhGUx5IwKz5YoNSxMP6IexZJAkWtLSOYDVUuQOhFSf8JqPkidCatNQWyQzAIwD5SRHjeDMg9EBUgGlKVxWQjJf9BcBko8yPUfyB8Q6_eAxcCGw-rRpjYkMWid2tQLTR5YLYRnNyAFZoEJSP5CZEpwPYpcsUI1wWpRHDkRnoYgOQBSDcCKcEiaAVUJMDZIpgGqfi0Qg6o0iAo8qRiUG-HpEhJUsKoJ5O0FcBeAUjrCHlAlDBFFpHtYQOHOkbA8BtMF7Ayg-GglWBbmUpAOmD2gnL8Bqhuc5PBWlzATgG1rMAkKCZD4VjAPJAtsXYPZy6AyU6Fmt6CwEVUv0TkT2NWgaXWJScJyJkQlcuVJZIW5G6oZmGbAbEj7FFL9gXhbwAZCWrvroTKLoI4E5WZQCxZRya7AYyG0ZpwMtRDUmgH2X5rB8QypAkEZEdjbBUuDCyJwMxUkA82OIBuhqiZAPQ9yGRYb8daOaNkVqckLZhCqImdDkxcoIcPYkOQCK9anQJMOJNGDnAlpEYISFjRRQysKWNsMS8YEZ25IGxEaUhDD21CsmgsOK5AyUJ6AhBUs_cPUTMBnFThvgvIDtP4DN0lBusBlLdyMTXA2xBZQ3oHpgaiYic8WcM5cCFUJj3aEcbDiqgleHMBCDpbVIQUEvpCr5eLStVNA740qAMWUuQA)]
+- [鋼琴伴奏 TMD 檔案](tokonatsu_no_shima_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6Y8fTJf2PG9c93bzt_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgaGDBZW-r4M5lY6RvYsdVp6D0YuW893tmvZiwEajzyf65T3Z2K4GEn83eBBR-Nn_WszkrnvbNetq_Ayz8on3X88bFz6bOfNG06dmc5qeta16s6n3c0PVs2oan62Y9bZ30fPXSp1M2Plvb87ih--mGbqC7ni-f-HzNmic7Op-u3fF055bnU1YAHWhkYGSgZ2BgpmdgYWIOZBgYA92oxMUVkp-dn5dYUlzqlx-ckZmbaBWQmZiXH-ThUGNQU82lAAQ2hmZadmCWvpaCLTpQAFvV8GJhj4KGicLTDf3P1zfoKAQYmFroZRWka2LRoKUPM-zlrL6nE3qtFB437QUKQMnm-XB2DZDXCVILFn3cvAbK7gTLgHgQ-cfNK1H0gHjIAGGjBtCpmkALmzvAGjaDNXeByRao5j6IJU3bgex5UAv7QDJN-8HiS8AiYLJpGVTPJjwW7uoBWdgI1ty4CkxC2OsgmhunQyxpXAo0sBFq4R6wzGqwOMhhjxvBodLYDdHTNAm7hTUKpvEKukAIpIzhrBoFQzDTWMEITBsCRUAskKgZSBVYUw2EDYMGICGwoT6GILesAIs-bpwM9gWEvQTsynVQ3nQg3gdlrwPLzAezW0BkE5hsbANbBHI_wiaw5RCbjEC69kPNWIXEhpg3HcqDhBRENyScQKKbwCTEzm789hiD5PqhpvVA9cLtaWqC8iB-RtgP8vfjpskIe8BsPPaYkBtyS8DsXrAdHQifYrEHf8bc1UNZxoRnv04CmQySbUHi4IQKzZyoGRZiFkaiRcqWTWvhhoEyIIgFygMgzaAMh2xdL1QcnDuaNoLFQGx4dgWSGi9WLXm2pPdle-_T3g3v9_Q8Xb_sedMuoN7Hzc1APUANQFWa2HIryHRIToXkz8dNsJwHsQPuDmC8QXIxJGeDiwVwzgbRm4AyGACeVSGZ0pBAFgTmWuS8awTXiD2bgpIMKOlAHA5mA50OcTha0gGqWAtPjo8bJ2JJmtgzKGl2wBI2KDuDkjUikUMyHdbMSaId0KzcBEylMJ3AbANSDSoIcGVMkuyAikEyKyzjrscRVgRqy04KMyUk64FoaKYEk7AshpxR4dkSpYaF6UfUo1gSKHJtCcl8oGoJUidC6k9YzQepM2G1KYgNklkA5oEy0uNmUOaBqADJgLI0Lgsh-Q-ay0CJB7n-A_kDYv0esBjYcFg92tSGJAatU5t6ockDq4Xw7AakwCwwAclfiEwJrkeRK1aoJlgtiiMnwtMQJAdAqgFYEQ5JM6AqAcYGyTRA1a8FYlCVBlGBJxWDciM8XUKCClY1gby9AO4CUEpH2AOqhCGiiHQPCyjcORKWx2C6HjfuRvHRSrAszKUgHTB7QDl_A1Q3OMnhrS5hJjxunAMmQSEBEt8K5oFkHzf1gNnLoDJToWa3oLARVS_ROfPp7Nk0rS4xSVjOhKhErjyJrDB3QzUD0wyYDWmfQqo_EG8L2EBIa3c9VGYR1JGg3AxqwSIq2RV4LITWjJOhFoJaMzMeNzWD4xlSBYIy4uPGuWBpcEEEbqaCZKDZEWQjVNUEqOdBLsNiI97aES27IjV5wQxCVeRsaPICJWQYG5JcYMX6FGjSgSR6kDMhLUJQwoImamhFAWubYcmY4MwNaSNCQwpieBuKVXPBYQVSBsoTkLCCpX-Ymgn4rALnTVB-gNZ_4CYpSBe4rIWbsQnOhtgCyjswPRAVM_HZAs6ZC6Eq4dGOMA5WXDXBiwNYyMGyOqSAwBdytbg6oz7InVETaF8UGMfxCtGGscgM03ggyzQexDQDMg2grkdSARVGVgmUQygEyUebxeeiGItiPg5DYZpQDQbLgzyma6eA7rdoH6AkVnEjHOLGOMRNwOLKXAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 常夏の島 ]
+================================================================================
+⏱  Duration:       0:17 (17.8s), 16 measures total
+🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    B3 (MIDI 59) – B4 (MIDI 71) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  B3 in [TokonatsuNoShima #1 @ m.1, 0:00]
+   - 最高音: B4 in [TokonatsuNoShima #1 @ m.2, 0:01]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      TokonatsuNoShima (17.8s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       E 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  E, G, D, A, B
+   - 調性數值:    E 小調 [相關度: 0.84, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): E 小調 (0.84), G 大調 (0.69), D 大調 (0.54)
+   - 五度圈歷程:   +4
+   - 各段落調性細節:
+     • [TokonatsuNoShima #1]: E 小調 (r: 0.84, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab          [E ]*
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# :                            0.0%
+     D  : █████████████             17.8%
+     D# :                            0.0%
+     E  : ████████████████████████  33.1%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : ██████████████████        24.6%
+     G# :                            0.0%
+     A  : ██████████                13.6%
+     A# :                            0.0%
+     B  : ████████                  11.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : B3 – B4 (12 個半音 / 1.0 個八度, 49 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![常夏の島 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P058.jpg](P058.jpg)
+
+

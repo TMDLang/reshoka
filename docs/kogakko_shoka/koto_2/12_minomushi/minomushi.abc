@@ -1,0 +1,55 @@
+X:1
+T:蓑虫
+M:2/4
+L:1/16
+Q:1/4=69
+K:C
+V:V1 name="Piano1" snm="Pia"
+V:V2 name="Piano2" snm="Pia"
+[V:V1]
+!mp! A2 A2 G2 G2 | A2 A E E2 z2 | z2 c2 A2 G2 | A2 E2 F2 G2 |
+w: ミ ノ ム シ | ミ ノ ム シ | ミ ノ ハ | テ ノ モ ノ
+F2 C2 D2 E2 | D2 z2 z4 | !mf! z2 E2 C2 D2 | E2 G2 E2 D2 |
+w: カ サ ガ ナ | イ | カ サ ハ | ナ ケ レ ド
+G2 E2 c2 A2 | G2 G2 E2 z2 | !f! z2 e2 c2 A2 | G2 G2 E2 F2 |
+w: ミ ノ サ ヘ | ア レ バ | ア メ ガ | フ ツ テ モ
+G2 c2 B2 A2 | G2 E2 D2 z2 | z8 | !mp! A2 A2 G2 G2 |
+w: ヌ レ ナ イ | ダ ラ ウ | ミ ノ ム シ
+A2 A E E2 z2 | z2 c2 A2 G2 | A2 E2 F2 G2 | F2 C2 D2 E2 |
+w: ミ ノ ム シ | ミ ノ ヲ | ホ ス ナ ラ | ア サ ガ ヨ
+D2 z2 z4 | !mf! z2 E2 C2 D2 | E2 G2 E2 D2 | G2 E2 c2 A2 |
+w: イ | ツ ユ ハ | オ チ テ モ | コ エ ダ ノ
+G2 G2 E2 z2 | !f! z2 e2 c2 A2 | G2 G2 E2 F2 | G2 c2 B2 A2 |
+w: ミ ノ ハ | チ ウ ニ | ブ ラ リ ト | オ チ ナ イ
+G2 E2 D2 z2 | z8 | !mp! A2 A2 G2 G2 | A2 A E E2 z2 |
+w: ダ ラ ウ | み の む し | み の む し
+z2 c2 A2 G2 | A2 E2 F2 G2 | F2 C2 D2 E2 | D2 z2 z4 |
+w: そ と へ | で る に も | で ら れ な | い
+!mf! z2 E2 C2 D2 | E2 G2 E2 D2 | G2 E2 c2 A2 | G2 G2 E2 z2 |
+w: み ど り | も え た つ | わ か ば の | な か で
+!f! z2 e2 c2 A2 | G2 G2 E2 F2 | G2 c2 B2 A2 | G2 E2 D2 z2 |
+w: み の は | い か に も | ぬ げ な い | だ ら う
+z8 | !mp! A2 A2 G2 G2 | A2 A E E2 z2 | z2 c2 A2 G2 |
+w: み の む し | み の む し | ど こ に
+A2 E2 F2 G2 | F2 C2 D2 E2 | D2 z2 z4 | !mf! z2 E2 C2 D2 |
+w: ゐ る の か | こ ゑ が な | い | み の を
+E2 G2 E2 D2 | G2 E2 c2 A2 | G2 G2 E2 z2 | !f! z2 e2 c2 A2 |
+w: き た ま ま | か ほ さ へ | だ さ ぬ | あ き が
+G2 G2 E2 F2 | G2 c2 B2 A2 | G2 E2 D2 z2 | z8 |
+w: こ な い と | な か な い | だ ら う
+[V:V2]
+z8 | !mp! A2 A2 G2 G2 | A2 A E E2 z2 | z2 c2 A2 G2 |
+A2 E2 F2 G2 | F2 C2 D2 E2 | D2 z2 z4 | !mf! z2 E2 C2 D2 |
+E2 G2 E2 D2 | G2 E2 c2 A2 | G2 G2 E2 z2 | !f! z2 e2 c2 A2 |
+G2 G2 E2 F2 | G2 c2 B2 A2 | G2 E2 D2 z2 | z8 |
+!mp! A2 A2 G2 G2 | A2 A E E2 z2 | z2 c2 A2 G2 | A2 E2 F2 G2 |
+F2 C2 D2 E2 | D2 z2 z4 | !mf! z2 E2 C2 D2 | E2 G2 E2 D2 |
+G2 E2 c2 A2 | G2 G2 E2 z2 | !f! z2 e2 c2 A2 | G2 G2 E2 F2 |
+G2 c2 B2 A2 | G2 E2 D2 z2 | z8 | !mp! A2 A2 G2 G2 |
+A2 A E E2 z2 | z2 c2 A2 G2 | A2 E2 F2 G2 | F2 C2 D2 E2 |
+D2 z2 z4 | !mf! z2 E2 C2 D2 | E2 G2 E2 D2 | G2 E2 c2 A2 |
+G2 G2 E2 z2 | !f! z2 e2 c2 A2 | G2 G2 E2 F2 | G2 c2 B2 A2 |
+G2 E2 D2 z2 | z8 | !mp! A2 A2 G2 G2 | A2 A E E2 z2 |
+z2 c2 A2 G2 | A2 E2 F2 G2 | F2 C2 D2 E2 | D2 z2 z4 |
+!mf! z2 E2 C2 D2 | E2 G2 E2 D2 | G2 E2 c2 A2 | G2 G2 E2 z2 |
+!f! z2 e2 c2 A2 | G2 G2 E2 F2 | G2 c2 B2 A2 | G2 E2 D2 z2 |

@@ -1,0 +1,134 @@
+---
+title: "富士山 — 《公學校唱歌集》 大正四年（全一冊）"
+song_title: "富士山"
+song_id: "kogakko_shokashu_1915_kogakko_shokashu_1915_5_02_fujisan"
+collection: "kogakko_shokashu_1915"
+volume: "kogakko_shokashu_1915"
+description: "〈富士山〉收錄於日治時期臺灣《公學校唱歌集》（大正四年版（國臺圖 0725 26）），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、あたまを雲（くも）の上（うへ）に出（だ）し、 四方（しはう）の山（やま）を見（み）おろして、…"
+keywords: "富士山, 公學校唱歌集, 大正四年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌集》 大正四年版（國臺圖 0725 26）"
+sources:
+  - "文部省《尋常小學唱歌》"
+  - "臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）"
+musical_key: "D"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P072.jpg"
+  - file: "P073.jpg"
+audio:
+  - id: "fujisan"
+    label: "鋼琴伴奏版"
+    file: "fujisan.mp3"
+  - id: "fujisan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "fujisan_neutrino.mp3"
+tmd_source:
+  - "fujisan.tmd"
+  - "fujisan_piano.tmd"
+---
+
+# 富士山
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="fujisan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="fujisan_neutrino.mp3"></audio>
+
+- 文部省《尋常小學唱歌》
+- 臺灣總督府《公學校唱歌集》（大正四年三月，索書號 0725 26）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P072.jpg–P073.jpg，第五學年 pp. 66–67）：
+調性與拍號：ニ長調（D 大調）4/4 拍，速度 ♩=96
+
+
+## 歌詞
+
+```text
+一、あたまを雲（くも）の上（うへ）に出（だ）し、
+四方（しはう）の山（やま）を見（み）おろして、
+かみなりさまを下（した）にきく、
+富士（ふじ）は日本一（にっぽんいち）の山（やま）。
+
+二、青（あを）ぞら高（たか）くそびえたち、
+からだに雪（ゆき）の著物（きもの）きて、
+霞（かすみ）のすそを遠（とほ）くひく、
+富士（ふじ）は日本一（にっぽんいち）の山（やま）。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="fujisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](fujisan.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](fujisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OLM4ojTe0NDRVgqssy88pzU21Si9KTEmNRxIvzi8tSk61Kk7OyM_PiS9JrShJys_PRpePL0hMT7UKMDA3QsgUFOWXpeYl5gF1FxRl5pWkpoC1IxSklmWmpIKki5MT8-LLUosy0zJTU5CclFpUDHI51IqSosS84uSizAKQdxCq8otKMvKBzi7IqLTKyCwuyS_KTE7Mic9OzEtEKCrJSAV6Li-xpLQoFV20ICcxGUkQqD89M88qNz8vqRQYVpgSqZlZmUgBoaWl8HR9z9PFq59u3KigpcWlaKtgacZlb6vgwmVjom9iB9L_bFr7y-YVz-c0Pm7oerqh--mOHU839D9du-PplI3P1vY8bugG2_KifdfzxsXPd-x9Pnfx011zQGpb1wBVPVuwEKLw5ew2oNr3ezqeLln-bO3ip7NnP9255cmOzmdzOt7v6Xm-ZdGz2TtezJyvAIwGUwUjs_d7OpW4uPS1FGypBbgUFBSe9s0HWbO5_cWKrhcd7UBnvVg572nrCqAfQS7b0PusvVMBlBL0sgrSHzVMBjKNQUyQC9esebJrCsjfO7coFBToKZiZARWYmQMd-n7PLJDhL1btf9awHGRsdy_QJ0DRx83dL6duB4oDDXdRAHoczOwEhqwCUA3Q0JcN85_uWqbwaOZKW2C4gwx5sqPhcUPj48amx43zHzfue9w06eXsTUDtjxv7Hzc1ATU_blz3ZEcXWKTtceMOsMjqp-27wCILwNzpQBPAvp09-9m0nWCJ6Y8b1wM1QPQDIxsk2NQCtAAk0jTpxTJQzDxuBLnucWPX46ZesJZlUIMeN3YD5R43rnrc1PW4cSrEXU92QPQA1QH9CnLF40agtn6Y5eB0BVax9XHjDLCK9c-mL302Zw3Qj2BxoIbFjxv3Pm6a_LgR6JaF2F3X0AQJmF3AtNb4cu4ksNYmoAPAyuc9bup8uRpoPFAQGGBAJwEF-x83zn3cuPlxI0RwIZI3moDSC4BWv5y9CmwLMAyBEQGy98XE6c87V4IN6gUGNVAELA70EiwYXs6ZB5YGBsZMWFitA7PnguIJFPpA2RWPG3fDXLGJNuEBNI7y_AAFClr6XFxupVmZxYl5VgGZiXn5DjUGNdUgOxRsLLTswAxs-VABlCN2NLxY2KOgYaIALBOer2_QgWceTSwagDaBDKtRMFXQBUJTBTMwqQsUMQaShgpGYBoEa4BsiBqQvAlQHCYCgQYgNWDTfAxrgBHbBBYFxjYQ7wOxmiaBTQGGP5gHkgeGJdx0YF6A6tgBxKvBrAVQmelI9sQj7DFCsgdoOjDpgVmdUF3zwWZ0g0mQnTB75kLt2QzEHVA3QmQWYtiDP6x39VAS1pAQBtkMCnVzBcM4MAPiTIgiMyANCmojoAhIKa7AhgQQMPlCgxESsECZphaozD5oBMACYT9UvAso3gtmgcwAySzDE9igwIQEMSRyIBEFsgcWeb1okQoyGxLdEHGICHZ7CCTsTnICG5JEjcA0CIPCEZSoTaAhDBLRgAS7uaaqhq6uJigeQCGPGhPYwx0aHsDQBBbFYH92QX03FRrqsIQPtQkRVfM14ckcEkaIzEEg9BtnQuMPHstAERAPlLDRbFsB1bIbZBs44zVuwmsb3jgAVl_kxAE4QCHJGVRywEoXXSCJKG9A4iBRSIQZEkjwW6HiwHIbTK6HeggUoCD-EiDeCw6OyVAZUEaA5HBYAgVlDpAMKJJwBTlt7anl4tK1U4AW9QpApjIXAA)]
+- [鋼琴伴奏 TMD 檔案](fujisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vufp4tVPN258v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYmnHZ2yq4cNmY6JvYcdUpKD2b1v6yecXzOY2PG7qebuh-umPH0w39T9fueDpl47O1PY8bupVAql6073reuPj5jr3P5y5-umsOSG3rGqCqZwsWQhS-nN0GVAu0-emS5c_WLn46e_bTnVue7Oh8Ngdoec_zLYuezd7xYuZ8BQNzI1MFIzOgg5S4uNxKszKLE_OsAjIT8_KDPBxqDGqquRSAwMZCyw7MqFEwVdAFQlMFMzCpCxQxBpKGCkZgGgRrgGyIGpC8CVAcJgKBBiA1YNN8DGsUHjc2gUUfN84H4n0gVtMksCmPG_vBPJD848Z1cNMfN7ZBdewA4tVg1gKozHQke-IR9hgh2QM0_XHjPDCrE6prPtiMbjAJshNmz1yoPZuBuAPqRojMQgx70IIHEiggxaCAMlcwjAMzICZDFJkBaVDoGAFFQEpxhQ_ET48b10N9DgkLoExTC1RmHzTMYO7eDxXvAor3glkgM0Ayy_CED8j_kFCBhCckbEH2wMK7Fy0eQGZDYggiDhHBbg80fCAJwQhMgzDI66CkYwINFJCIBiSkzDVVNXR1NUFBBwos1MDDHlRQLwAD4HHjKrDTuqAOmgoNKFjygtqECN35mvDEBPEWIgkSCLDGmdAgh0cMUATEAyUfNNtWQLXsBtkGTt6Nm_DaBg02cBhAEg0oS8GynS6QRGREkDhIFBLGhgSS1Vao-OPGGWByPdQNoDAA8ZcA8V6wDyZDZUDJDZL0YckAlARBMqBwxRVKtLWnFq3U8kEutUzgpZZhvEK0YayCCZAyiUXwoRQwUcUDWabxsQgGkhiYMIB6ClMv0FAThMnYTIIqBWGEMbgUgljIZoOMxTQdzU3o6qAGmIGUm4GNNoKIgA0AG43mKGBA6topQMMy2gcoisw1AnOVuQA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 富士山 ]
+================================================================================
+⏱  Duration:       0:40 (40.0s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Fujisan #1 @ m.2, 0:03]
+   - 最高音: D5 in [Fujisan #1 @ m.6, 0:13]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Fujisan (40.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  A, D, E, B, F#
+   - 調性數值:    D 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.85), A 大調 (0.80), B 小調 (0.62)
+   - 五度圈歷程:   +2
+   - 各段落調性細節:
+     • [Fujisan #1]: D 大調 (r: 0.85, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : █                          1.2%
+     D  : ████████████████████      20.0%
+     D# :                            0.0%
+     E  : ███████████████████       19.2%
+     F  :                            0.0%
+     F# : ██████████████            14.2%
+     G  : ██████                     5.8%
+     G# :                            0.0%
+     A  : ████████████████████████  24.2%
+     A# :                            0.0%
+     B  : ███████████████           15.4%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 55 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![富士山 — 《公學校唱歌集》 大正四年（全一冊） 原書掃描頁 P072.jpg](P072.jpg)
+
+![富士山 — 《公學校唱歌集》 大正四年（全一冊） 原書掃描頁 P073.jpg](P073.jpg)
+
+

@@ -1,0 +1,24 @@
+X:1
+T:雪
+M:2/4
+L:1/16
+Q:1/4=92
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+A3 c d2 c2 | A2 F2 G2 z2 | G2 A2 c2 d2 | c2 A2 c2 z2 |
+w: ユ _ キ ヤ | コ ン コ | ア ラ レ ヤ | コ ン コ
+d3 c A2 F2 | d3 c A2 F2 | G3 G A2 G2 | F3 A c2 z2 |
+w: フ ツ テ ハ | フ ツ テ ハ | ズ ン ズ ン | ツ モ ル
+c3 d c2 A2 | d2 c2 A2 G2 | F3 D F2 G2 | A2 c2 A2 z2 |
+w: ヤ _ マ モ | ノ ハ ラ モ | ワ タ バウ シ | カ ブ リ
+d4 c2 A2 | F2 G2 A2 c2 | G4 c2 A2 | G2 F2 z4 |
+w: カ レ キ | ノ コ ラ ズ | ハ ナ ガ | サ ク
+A3 c d2 c2 | A2 F2 G2 z2 | G2 A2 c2 d2 | c2 A2 c2 z2 |
+w: ゆ _ き や | こ ん こ | あ ら れ や | こ ん こ
+d3 c A2 F2 | d3 c A2 F2 | G3 G A2 G2 | F3 A c2 z2 |
+w: ふ つ て も | ふ つ て も | ま だ ふ り | や ま ぬ
+c3 d c2 A2 | d2 c2 A2 G2 | F3 D F2 G2 | A2 c2 A2 z2 |
+w: い _ ぬ は | よ ろ こ び | に は か け | ま は り
+d4 c2 A2 | F2 G2 A2 c2 | G4 c2 A2 | G2 F2 z4 |
+w: ね こ は | こ た つ で | ま る く | な る

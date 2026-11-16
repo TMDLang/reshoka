@@ -1,0 +1,12 @@
+X:1
+T:十字行進
+M:4/4
+L:1/16
+Q:1/4=116
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+G4 G3 G G4 D4 | B4 B3 B B4 G4 | d4 d4 e2 d2 c2 B2 | A4 A3 A A4 z4 |
+G4 G3 G G4 D4 | B4 B3 B B4 G4 | d4 d4 e2 d2 c2 B2 | A4 A3 B G4 z4 |
+c4 c3 B A4 A4 | B4 B3 A G4 G4 | A4 A4 G2 F2 E2 D2 | G4 G3 A B4 z4 |
+c4 c3 B A4 A4 | B4 B3 A G4 G4 | A4 A4 G2 F2 E2 D2 | G4 G3 A G4 z4 |

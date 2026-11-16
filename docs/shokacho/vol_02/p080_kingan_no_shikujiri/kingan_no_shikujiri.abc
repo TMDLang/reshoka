@@ -1,0 +1,17 @@
+X:1
+T:近眼のしくじり
+C:曲：不詳 (大正十三年二月十一日 邱氏より抄)
+M:4/4
+L:1/16
+Q:1/4=108
+K:A
+V:V1 name="Melody" snm="Mel"
+[V:V1]
+!mf! E4 E4 A4 A4 | B8 c4 z4 | E4 E4 A4 A4 | B12 z4 |
+a4 f4 e4 c4 | e4 e4 B8 | c4 e4 e4 f4 | e12 z4 |
+f4 a4 f4 f4 | e4 e4 c8 | e4 f4 e4 c4 | B12 z4 |
+c4 B4 c4 B4 | c4 c4 B4 c4 | e8 c4 A4 | e12 z4 |
+e4 f4 f4 e4 | a4 a4 f4 e4 | b4 b4 b4 c'4 | b12 z4 |
+c'4 c'4 b4 b4 | a4 a4 f4 f4 | b4 b4 a4 f4 | b8 ^d'8 |
+c'4 ^d'4 a4 f4 | e4 e4 c8 | e4 f4 e4 c4 | B12 z4 |
+c4 A4 e4 c4 | f4 f4 e4 c4 | e4 a4 c'4 b4 | a12 z4 |

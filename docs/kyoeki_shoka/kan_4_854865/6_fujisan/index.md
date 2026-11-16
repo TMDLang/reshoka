@@ -1,0 +1,136 @@
+---
+title: "富士山 — 《共益商社唱歌教科書》 巻四（教師用）"
+song_title: "富士山"
+song_id: "kyoeki_shoka_kan_4_854865_6_fujisan"
+collection: "kyoeki_shoka"
+volume: "kan_4_854865"
+description: "〈富士山〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻四・教師用（NDL PID 854865）），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あふげよや、ふじのやま、 やま／＼の、あるなかに、…"
+keywords: "富士山, 共益商社唱歌教科書, 巻四（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《共益商社唱歌教科書》 巻四・教師用（NDL PID 854865）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻四》第十四～十五頁（第二學期第一曲）"
+  - "NDL Digital Collections PID 854865（https://dl.ndl.go.jp/pid/854865）掃描 P013.jpg"
+musical_key: "E,"
+meter: "4/4"
+tempo: "104"
+image:
+  - file: "P013.jpg"
+audio:
+  - id: "fujisan"
+    label: "鋼琴伴奏版"
+    file: "fujisan.mp3"
+  - id: "fujisan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "fujisan_neutrino.mp3"
+tmd_source:
+  - "fujisan.tmd"
+  - "fujisan_piano.tmd"
+---
+
+# 富士山
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="fujisan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="fujisan_neutrino.mp3"></audio>
+
+- 出處：共益商社樂器店《唱歌教科書 教師用 巻四》第十四～十五頁（第二學期第一曲）
+- NDL Digital Collections PID 854865（https://dl.ndl.go.jp/pid/854865）掃描 P013.jpg
+
+## 說明
+
+原書資訊與歌詞全文（NDL PID 854865《唱歌教科書 教師用 巻四》第十四～十五頁，掃描 P013.jpg）：
+調性與拍號：變ほ調四分ノ四拍子（E♭大調 4/4 拍），♩=104，「壯大ニ」，弱起一拍
+註記：單聲部，二節分節歌。開頭 f，第三段（第八小節第四拍弱起）mf，第四段（第十二小節第四拍弱起）f。第一小節第一音五線譜為二分音符 E♭4（1 -），下方簡譜漏印延長線僅印「1  3. 5_」，本檔依五線譜記為二分音符。
+原典演奏注意：重々しく歌ふべく、然かも緩漫に流るべからず。
+原典語釋：けだかき（上品な）。
+
+
+## 歌詞
+
+```text
+一、
+あふげよや、ふじのやま、
+やま／＼の、あるなかに、
+おほ空の、雲を着て、
+けだかきが、そのすがた。
+
+二、
+のぞめよや、富士のみね、
+みね／＼は、おほかれど、
+ちとせふる、しら雪の、
+きよきこそ、そのこゝろ。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="fujisan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](fujisan.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](fujisan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeJtzA1sTAzRUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBgaI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh3MS81KAVhekokvkJZaUFmGIFuQkJiMJ5hdlpmfmWeWmZmZlIoWLlpbC0_U9Txevfrpxo4KWFpeirYKhgQmXva2Cqw6XjYm-iR3IhKftu17MnPp-z6ynrRufz-56OrXt-ZJ9z1Y0PZ254umu6Y8bup5O2fhsbc-zqTOfL5_4bPYOBSDr6Y7Vz6esUHi6fffT2bMfN3Q_X7PmaW8jkP1-7zwg48muKS8XNL7f0wEUf7Kr5-naHc_mzAexdzQ8m73p_Z5OsNP9XHwUXIAOL0nMUXCGJ4xihQBPFwVI1ANNyCgpKSi20tdPydHLA-L0fL2sAv2CzBR9mIrOZ33Nz_r7FUARDpQDBjiXvpaCLbUAl4KCwtO--UB_v9jc_mJF14uOdmBgvFg572nrimfT2oEuBHkD4WSKwqsHzS9A3wHjBeSEF6v2P2tYDrK8u_fFzPlA0Rfruh437gaKA0152tH2uLkPyADKPl07Aego10cz1z5dshworQCMZwWgONisnkczV9oC0wCQ9bgBmDLWA9U8bu5-3ACU7nm6Z-OLrdtBcdTdC7Zzxe4XK2aAEsa0dS8aN71sXgFUBIzO5-sbgBYCSaAvHzc0vZzW_XLBWoU0oCQ4ijufrdsKifqnraufbugHKgSxIY4DWwF0Si5UOUgYrhwUED24dKQBrYIkIbgKIPvl_M3AwHu-fdaLtXOeN-0C6e9oAwo-X7NMARQGQJ92GCroQjz_ZEf3s2k7n29YCFT8bE__094NT3dvezl1O1D70-ZWIBcYJoYKCsZ6CqbxkCB5NmfNs1VTnuybC7cEGCJo9gDdBU0kT1t3PNsz5enS_mebVzxr6QeG3Mv23scNrY8bpz9u7AeFVuPWx407gezHDY3PW7Y9bux-3NT0fPvKZ3tWP25c_Wxr4-OmbrACoHjn48ZZKEa_WDXvZXs30NDHjRMfNy4AKWoEurHjyY6up5MbHzeuAnoSpAGkAxgyQCtArMeNTWBbJz1u6njc1AIUBXNnPG5cB-I27oOpA3Pe7wG6eg9IDqSuCeycVWCbVsPNAyW75yt3QRS9nL3pcdOk53MbHjcCAwKqAuG8x43AFAI0aS5IdeNMELdxPtyRu0CSEC1A2XmPm4D-hzoSUm6Bxfc_blwLVwfiwBy5Hmw0yDngAAMavRKubuHjxhWPG2eD_Ar0A0jddGCQvpwN9AzI2RBFvSDrQI6cDHIhwp2THzfNfdwEjDlw6FNehkCBgpY-F5dbaVZmcWKeVVh-ZnKqQ41BTTXIDgUbCy07MKM6rRZMA8swDUja1wTFoUINkNwKxJOAMdUB4jW1gEVA4jNAAQgWAfH2gVlAu0DG1CgYKOjCMTAnAEVAJAgag0lTkEgcVAikyBSiCCZkBiVroCyIIhC7BmyDj2GNQjyQB8Mgx4IMADkOoh7kaDANdzhEHKIapAriCZjqdVDVMO8gqQbrhdprhG4vSB9IxzyYSU2N5NjbuB8svhZF9X64vcCIgYUxiAYpBYY9JIaauoGsVUDcDRZfDcotiJiAB6k5LADBYY0a7iZQEUjkGAFFjJDUVOem1YKVIMIeEUIQH0L4EGch-wAaK0Anwvy7CkrDHIusugslnBGhAQkJCB8kvh5TF5DeDVcNsQ2YOcHiK1FUL0QN090Kj5v3gKMPmFPh4doPdnQTRK4JmPobe8Fyy0DlDCJsQcEFCihQ2gaxUYMWEdigsAPJoyVycNgCgxYsjBS0CI-AEhXIXdiCth8atKAghngXlOBBLoWoXoaieiJa0K6A2zEbTEITJjyiILqmQ0VBLoDY0YZiB6qLwKKIoF0AjglY0PUA8Vx4AM8Ei4B487EkVey5HywNCXRIKgWRhkhFC6zAQQ7LBXB_QhMF3DnILp-L5h-QAyE0zJEI1SCMFJLAbA7TA_I_iJ4M1gMyE58Nk5FVN0H0IttQy8Wla6cALbkVgExlLgA)]
+- [鋼琴伴奏 TMD 檔案](fujisan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vufp4tVPN258v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGphw2dsquOpw2Zjom9hx1SkoPW3f9WLm1Pd7Zj1t3fh8dtfTqW3Pl-x7tqLp6cwVT3dNf9zQ9XTKxmdre55Nnfl8-cRns3coAFlPd6x-PmWFwtPtu5_Onv24ofv5mjVPexuB7Pd75wEZT3ZNebmgEegOoPiTXT1P1-54Nmc-iL2j4dnsTUDXKIEs9nPxUXDJTM8sScxRcM7PyUlNLsnMzytWCPB0UbAwNbEwMwWakFFSUlBspa-fkqOXB8Tp-XpZBfoFmSn6MBWdz_qan_X3KwQYGBoD5dKVuLjcSrMyixPzrAIyE_PygzwcagxqqrkUgMDGQssOzKhOqwXT-loKGk_3bHyxdbumwuPGJoUaILkViCcpPG7qAPGaWsAiIPEZQLwOLALi7QOztPTBxtQoGCjowrEhENeASRA0BpOmIJE4qBBIkSlEEUzIDErWQFkQRSB2DdgGH8MahXggD4ZBjgUZAHIcRD3I0WAa7nCIOEQ1SBXEEzDV66CqYd5BUg3WC7XXCN1ekD6Qjnkwk5oaybG3cT9YfC2K6v1we4ERAwtjEA1SCgx7SAw1dQNZq4C4Gyy-Goi7EDEBD1JzWACCwxo13E2gIpDIMQKKGCGpqc5NqwUrQYQ9IoQgPoTwIc5C9gE0VoBOhPl3FZSGORZZdRdKOCNCAxISED5IfD2mLiC9G64aYtvjph6w-EoU1QtRw3S3wuPmPeDoe9zUCQ_XfrCjmyByTcDU39gLllsGxBMRYQsKLlBAgdI2iI0atIjABoUdSB4tkYPDFhi0YGGkoEV4BJSoQO7CFrT90KAFBTHEu6AED3IpRPUyFNUT0YJ2BdyO2WASmjDhEQXRNR0qCnIBxI42FDtQXQQWRQTtAnBMwIKuB4jnwgN4JlgExJuPJaliz_1gaUigQ1IpiDREKlpgBQ5yWC6A-xOaKODOQXb5XDT_gBwIoWGORKgGYaSQBGZzmB6Q_0H0ZLAekJn4bJiMrLoJohfZhlq0gtsHueA2gRbcwIB-0df1sr33aeuOl7NbITUcUojGK0QbxsKoGkwRQupMgJQJQh2UCxNFqDONB9Km8fhMhCsBMQzgCuHCSIbCxbA7E0kllEmZdzDV4fEOyOXAqNG1U4DGTrQPUAKZawTmKnMBAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 富士山 ]
+================================================================================
+⏱  Duration:       0:39 (39.2s), 17 measures total
+🎼 Key & Tempo:    首調基準 E,, != 104.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D#4 (MIDI 63) – D#5 (MIDI 75) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D#4 in [Fujisan #1 @ m.1, 0:01]
+   - 最高音: D#5 in [Fujisan #1 @ m.3, 0:04]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Fujisan (39.2s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D# 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  D#, C, A#, G, F
+   - 調性數值:    D# 大調 [相關度: 0.93, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D# 大調 (0.93), C 小調 (0.83), G# 大調 (0.56)
+   - 五度圈歷程:   -3
+   - 各段落調性細節:
+     • [Fujisan #1]: D# 大調 (r: 0.93, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+     [Eb]*              A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ███████████████           19.6%
+     C# :                            0.0%
+     D  : █                          1.8%
+     D# : ████████████████████████  31.2%
+     E  :                            0.0%
+     F  : ███████                    8.9%
+     F# :                            0.0%
+     G  : ███████████               14.3%
+     G# : █████                      7.1%
+     A  :                            0.0%
+     A# : █████████████             17.0%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Voice         : D#4 – D#5 (12 個半音 / 1.0 個八度, 42 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![富士山 — 《共益商社唱歌教科書》 巻四（教師用） 原書掃描頁 P013.jpg](P013.jpg)
+
+

@@ -1,0 +1,137 @@
+---
+title: "秋景 — 《共益商社唱歌教科書》 巻三（教師用）"
+song_title: "秋景"
+song_id: "kyoeki_shoka_kan_3_854864_10_shukei"
+collection: "kyoeki_shoka"
+volume: "kan_3_854864"
+description: "〈秋景〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻三・教師用（NDL PID 854864）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：月さえわたり、花さく野邊、 虫のこゑごゑ、あはれふかし、…"
+keywords: "秋景, 共益商社唱歌教科書, 巻三（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《共益商社唱歌教科書》 巻三・教師用（NDL PID 854864）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻三》第二十二～二十三頁（第二學期第五曲）"
+  - "NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P017.jpg"
+musical_key: "G"
+meter: "4/4"
+tempo: "80"
+image:
+  - file: "P017.jpg"
+audio:
+  - id: "shukei"
+    label: "鋼琴伴奏版"
+    file: "shukei.mp3"
+  - id: "shukei_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "shukei_neutrino.mp3"
+tmd_source:
+  - "shukei.tmd"
+  - "shukei_piano.tmd"
+---
+
+# 秋景
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="shukei.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="shukei_neutrino.mp3"></audio>
+
+- 出處：共益商社樂器店《唱歌教科書 教師用 巻三》第二十二～二十三頁（第二學期第五曲）
+- NDL Digital Collections PID 854864（https://dl.ndl.go.jp/pid/854864）掃描 P017.jpg
+
+## 說明
+
+原書資訊與歌詞全文（NDL PID 854864《唱歌教科書 教師用 巻三》第二十二～二十三頁，掃描 P017.jpg）：
+調性與拍號：ト調四分ノ四拍子（G 大調 4/4 拍），♩=80，「感ヲ以テ」，弱起一拍（四分音符）
+註記：單聲部，二節分節歌。開頭 mp，第七小節轉 mf，第八小節末拍（第三段弱起）轉 mp，第十一小節第四拍轉 mf 並出現 #4（C#5，4'），第十二小節末拍（第四段弱起）轉 mp。
+原典演奏注意：注意發想，沉著歌唱；第三段末節（第十二小節）之二音符（5 - 5_）須極圓滑且稍放緩歌唱。
+原典曲意：「月明かに、花咲く秋の野邊に、鳴く虫の聲など、實におもしろい。鈴虫が鈴ふるよーに鳴くと、誰が家でか琴を彈するのが聞える。天高く空氣清くして、錦かしらんと思はれる紅葉は、霜ふるたびに色がよくなる。實に佳い秋景だなー。（略解）」
+原典語釋：「風情」：おもむき、おもしろみ、けしき；「天高く」：秋だとて別に天が高くなるわけではなけれど、空氣が清きためにさう思ふ。
+
+
+## 歌詞
+
+```text
+一、
+月さえわたり、花さく野邊、
+虫のこゑごゑ、あはれふかし、
+ふりいだすすず、かきならす琴、
+げにたぐひなき、あきの風情。
+
+二、
+おりなすにしき、みねのもみぢ、
+おく霜ごとに、色をそへぬ、
+みそらは高く、氣は晴れたり、
+げにならびなき、秋のけしき。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="shukei.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](shukei.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](shukei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeOtzA1sTAzQUgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh4tTE4Gqi9GF8xJLSotS0UVzEvNSgO4swJDILS1GNjq_KDM9M88qNzUzKxMpuLS0FJ4v7342c72ClhaXoq2ChQGXva2CO5eNib6JHUjz0_ZdL2ZOfb9n1tPWjc9ndz2d2vZ8yb5nK5qezlzxdNf0xw1dT6dsfLa259nUmc-XT3w2e4cCkPV0x-rnU1YoPN2--8mOzscN3c_XrHmyq-dpbyOQfL93HpS9o_Plgsb3ezqgsmt3PJszH8ye8mz2pvd7OsFu93PxUXABurwkMUfBGZ5gihUCPF0UIEkCaEJGSUlBsZW-fkqOXh4Qp-frZRXoF2Sm6MNUdD7ra37W368ASghAOWBEcOlrKdhSC3ApKCg87ZsP9P2Lze0vVnS96GgHBsmLlfOetq54Nq0d6EKQNxBOpkKo9aD5COhHYByBHPJi1f5nDctBTujufTFzPlD0cXMHUPDp7NlPO9oeN_cBGUCpp2snAN3lrvB0yXKgpAIwuhWAomBjeh7NXGlrYQBkPG7oedYy_3Hzpie7lz5ubnvcAFTQ83TPxhdbtz_Z0QBW3wEx9-X8zc_XLANqBzthxe4XK2aA0sy0dS8aN71sXgHUBnT_8_UNQKVAEuj1xw1NL6d1v1ywViG3ACgL8uyO5qcb-oGyL_Z2KuSmQQSftq6GCD6bsxpiH1hl57N1WyHuAFoJVg81BBxEDRAtIC7YrxADFZ7sWAZMzc_79ykog1KNs7IpUI-JOsTPUL3AQMawDmQIhnVA90Oj_Wnrjmd7pjxd2v9s84pnLf1Ab0MYz2fueda8GRRVmzpfTJwO9DMw0t_vmQ33ANAOoE1QO5DsBtrxZGc3kAsL1A5TBV0F03ig-MsFHc-Wbn06Z_Kz3ROf7JjyfEXvsyn7nm9fCTEc1U2zN0FcA4rEOR3PZvQ9bux-3Lj6cUPji66NTydtetzYD8z6jxvXvWzve9nUBZF6uXkLUPzFzNVAcWDUPW5c9bhxJVD86fplIAWNXY-bmh43Tn_c1Pu4sQUUhx1bwIp7gIzHjVsfN3U_bup43LwHqBhi1OPGFSAbV20Aqnm6btvjxuVAZzyfsOVx06SnezseN84EaWlcB5R90TjvcWMHiNvQ9HTJyperZ4BcuHLXsw2Ln-1oBRs1_XHjMpAje4COAeoCOqPzcdNkoBXPGuY-blz_uKkHqP35ltYXEztBXKDKOXOgrmqc_7hxM9BVLzqBngIqA1oNNHAV1Dqw757sBSpogRSHjxsXgGSBHmloAsXQ1KUvli8GRgAwCyCC-MWqeS_buyFB_HLRimfNreAcMgsaTE0Njxt7gY5ADbX9YJGJYM8AFc8G6oX7FqIdHCtA61cAffu0YynQZUAFoCCGqIE4ugnIABoCDE2gW4GRNBHkeXBUQYIMqB4cakAb5z9uAtoIjKSpjxvbwCG1FZRSQP4A5hWgDhALmETACoARADQZqKULklDAgv3QJAJRCkkdjxsnP24CumAKiAR5CehDcAwATYdEDkQ1OPyBqasF7KeZYAQMMKAGoCKg64C-AUbWTFCSgGmYBHYtMMImPIYmQUgwAm0AalgHC2qoF3YByxKoRmA4A20CqgfaATQBFMJgjfsfN64FORkUC0D2IiQNQL-B0sgUcHCDMwcwgTQBXQAMph2PG9fAlQL1zQU7dT0srhrBwbz-2UxgYgZ6GxpmyF6A-A2YqqBegOQ3eOxD8yvlFRAUKGjpc3EFZ5Rmp2ZaheVnJqc61BjUVIOsULAxNNOyA7OqcwtqwQxgDagBKdQ0FR43tyjUKDxuWgvEW4F4BVBkDxCvB9Mgmf1A1iog7gfxmrug6iDywEoFpq55JrKhC0AuAtlVo2AALMJAEJ02jYcyahQMoSwQBLFB2BwkDWIYgZUYIymBKUOma8DqYBDEBukA0bjNgLnEBGYG2MU-hjUKMKeh048bl8DtA0YjklnA3AImO2D8pn4klfPRbAYmGLi-9UjqVmExEWYOMP0gqdyJZiLchU0NqL4xwucbmCtA8QxjQ2RALgHmJjh_NZLd09F9Aw8JYGZBUrcWRQ3I9cB8iFXlIly-QbgQlnIfN22HJLumzZAkCE2yIC9sgfCaFoETZD8QrwHiqVB1q-HqtiMn1amIpApLCCAIYoMwcjJCTWQgCOMjJebq3LRaBVC9DYNmIHk001DTPAjCEiMol8K1I1IkaqhDQ7NxMozfNBFuP7BIQzMaIQssSZHUwVIeRE0PWH4rXGU3kkr0GEfED0w9IrUhUixEBUgvcrzDXAdSuQLdpfB0Bqw2EOqaelFcOgksPxeucgeSiWtwuhSe3uApCVSsNS0B0g1AeifYop1AvAucVqCFIqjAa14JlweluQ6k1NO0CZF6kOMcFtcgiL2IAkEYH6ECW7oBQXCiMlHHqg4E4ekPknzgqRGRftDyNyh0gfUynA_L6aAwhLERqmfBWcipohdFDbjEaOrEaiIsnSJUw2IeWGGiuhWcgmBxC1YBNhORWhGlKUglzD0IkxHlJcx9GGkdzIOkeAwTUcIJ1WRUl4JTUDekgmzaAK0OJ8GrQ1BFCapUwWUROCWBqkpYWQRSCymLliASEJ2qQVwlD4xGLnRg2RERTMC2GZy_CW4ratUFke2Fs5ALHZgoRAZSjCEKnTlIKmEFAAyiV1_ICQbVnehJcTOV3IkoRmEFIrpK7O6s5eLStVOAtM8UgCxlLgA)]
+- [鋼琴伴奏 TMD 檔案](shukei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPvZzPXv93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwULAy57WwV3LhsTfRM7rjoFpaftu17MnPp-z6ynrRufz-56OrXt-ZJ9z1Y0PZ254umu6Y8bup5O2fhsbc-zqTOfL5_4bPYOBSDr6Y7Vz6esUHi6ffeTHZ2PG7qfr1nzZFfP095GIPl-7zwoe0fnywWNQLdAZdfueDZnPpg95dnsTUAXKYGs93PxUXDJTM8sScxRcM7PyUlNLsnMzytWCPB0UbAwNbEwMwGakFFSUlBspa-fkqOXB8Tp-XpZBfoFmSn6MBWdz_qan_X3KwQYGJoD5dKVuLiCM0qzUzOtAjIT8_KDPBxqDGqquRSAwMbQTMsOzKrOLagFM_S1FDSe7tn4Yut2TYXHzS0KNQqPm9YC8VYgXgEU2QPE68E0SGY_kLUKiPtBvOYuqDqI_OPmPpi65pnIhi5Q0NIH21WjYKCgC4botGk8lFGjYAhlgSCIDcLmIGkQwwisxBhJCUwZMl0DVgeDIDZIB4jGbQbMJSYwM8Au9jGsUYA5DZ1-3LgEbt_jxl4ksx43TgWTHTB-Uz-SyvloNj9u6oLrW4-kbhUWE2HmPG5ch6RyJ5qJcBc2NaD6xgifb2CuAMUzjA2RAbnkceNMOH81kt3T0X0DD4nHjfuR1K1FUQNy_eOmJqwqF-HyDcKFsJT7uGk7JNk1bYYkQWiSBXlhC4TXtAicIPuBeA0QT4WqWw1Xtx05qU5FJFVYQgBBEBuEkZMRaiIDQRgfKTFX56bVKpgiqTEDyaOZhprmQRCWGEG5FK4dkSJRQx0amo2TYfymiXD7HzdOQTMaIfu4ERb-IHWwlAdR0wOW3wpX2Y2kEj3GEfEDU49IbYgUC1EB0osc7zDXgVSuQHcpPJ09bmxBqGvqRXHpJLD8XLjKHUgmrsHpUnh6g6ckULHWtARINwDpnWCLdgLxLnBagRaKoAKveSVcHpTmOpBST9MmROpBjnNYXIMg9iIKBGF8hAps6QYEwYnKRB2rOhCEpz9I8oGnRkT6QcvfoNB93LgAzofldFAYwtgI1bPgLORU0YuiBlxiNHViNRGWThGqYTH_uBEUm0huBacgWNyCVYDNRKRWRGkKUglzD8JkRHkJcx9GWgfzICkew0SUcEI1GdWl4BTUDakgmzZAq8NJ8OoQVFGCKlVwWQROSaCqElYWgdRCyqIliAREp2oQV8kDo5ELHVh2RATT48YJcP4muK2oVRdEthfOQi50YKIQGUgxhih05iCphBUAMIhefSEnGFR3oifFzVRyJ6IYhRWI6Cqxu7MWtXnmg9w8M4G2zoDJ6UVf18v23qetO17OboU0ZZHSRrxCtGEsjKpBiJjGA2nTeKAYTpVwJbjUmgApE4haKBNDJRYz8KjGdANUJUyEGFNhrqJHCAApA0hE6dopQOIq2gcojsQzAvOUuQA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 秋景 ]
+================================================================================
+⏱  Duration:       0:51 (51.0s), 17 measures total
+🎼 Key & Tempo:    首調基準 G, != 80.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  D4 in [Shukei #1 @ m.1, 0:02]
+   - 最高音: E5 in [Shukei #1 @ m.8, 0:22]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Shukei (51.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  G, A, D, B, C
+   - 調性數值:    G 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 98.4%]
+   - 候選調性 (K-S): G 大調 (0.87), D 大調 (0.72), G 小調 (0.50)
+   - 五度圈歷程:   +1
+   - 各段落調性細節:
+     • [Shukei #1]: G 大調 (r: 0.87, 自然音純度: 98.4%, 調外音: C#)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F           [G ]*
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ██████                     7.4%
+     C# : █                          1.6%
+     D  : ██████████████████        21.3%
+     D# :                            0.0%
+     E  : █                          1.6%
+     F  :                            0.0%
+     F# : █                          1.6%
+     G  : ████████████████████████  28.7%
+     G# :                            0.0%
+     A  : ███████████████████       23.0%
+     A# :                            0.0%
+     B  : ████████████              14.8%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Voice         : D4 – E5 (14 個半音 / 1.2 個八度, 65 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![秋景 — 《共益商社唱歌教科書》 巻三（教師用） 原書掃描頁 P017.jpg](P017.jpg)
+
+

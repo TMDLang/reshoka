@@ -1,0 +1,28 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P240"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+~ "lyricist: 北原白秋"
+~ "composer: 山田耕筰"
+** 里心 **
+!= 88
+?= E,
+<4/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 3 - 3 - 3 - 1 - | 3 - 6 - 6 - 7 - | 1^ - 1^ 7 6 - 4 - | 3 - - - - - 0 - | 4 - 4 - 4 - 3 - |
+    L| フ - エ - ヤ - ー - | タ - イ - コ - ニ - | サ - ソ ー ハ - レ - | テ - - - - - - - | ム - ラ - ノ - ー - |
+    | 4 - 6 - 7 - 6 - | 4 - 4 - 3 - 1 - | 7_ - - - - - 0 - | 1 - 1 - 1 - 7_ - | 3 - 3 - 4 - 3 - |
+    L| マ - ツ - リ - ニ - | キ - テ - ミ - レ - | バ - - - - - - - | ヒ - グ - レ - ハ - | イ - ヤ - イ - ヤ - |
+    | 6 7 6 4 3 - - - | 6 - - - - - 0 - | 5 - 1^ - 1^ - 7 - | 6 - 7 6 4 - 3 - | 1 - 1 - 7_ - 3 - | 6_ - - - - - 0 - |
+    L| サ ト ー コ ヒ - - - | シ - - - - - - - | カ - ゼ - フ - キャ - | コ - ノ ー ハ - ノ - | オ - ト - バ - カ - | リ - - - - - - - |
+}
+
+-> Main -> #

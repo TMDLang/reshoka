@@ -1,0 +1,54 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P168"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** 春の風 **
+!= 108
+?= C
+<3/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 0 - 0 - 1 3 |
+    L| - - - - ふ ー |
+    | 5 - - - 3 5 |
+    L| け - - - ふ ー |
+    | 1^ - - - 1^ - |
+    L| け - - - は - |
+    | 7 - - 6 7 - |
+    L| る - - の か - |
+    | 1^ - - - 1^ - |
+    L| ぜ - - - は - |
+    | 2^ - - 1^ 7 - |
+    L| な - - ー わ - |
+    | 5 - 3 - 1 - |
+    L| ら - ひ - と - |
+    | 2 - 5 - 4 - |
+    L| り - う - た - |
+    | 3 - - - 1 3 |
+    L| ふ - - - ふ ー |
+    | 5 - - - 3 5 |
+    L| け - - - ふ ー |
+    | 1^ - - - 1^ - |
+    L| け - - - は - |
+    | 7 - - 6 7 - |
+    L| る - - の か - |
+    | 1^ - - - 1^ - |
+    L| ぜ - - - ゆ - |
+    | 2^ - - 1^ 7 - |
+    L| き - - ー と - |
+    | 5 - 3 - 1 - |
+    L| け - ー - て - |
+    | 2 - 5 - 4 - |
+    L| ふ - ゆ - さ - |
+    | 3 - - - 0 - |
+    L| る - - - - - |
+}
+
+-> Main -> #

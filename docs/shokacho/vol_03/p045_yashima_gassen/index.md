@@ -1,0 +1,124 @@
+---
+title: "屋島合戰 — 《楊金土手抄唱歌帖》 第 3 冊（I）"
+song_title: "屋島合戰"
+song_id: "shokacho_vol_03_p045_yashima_gassen"
+collection: "shokacho"
+volume: "vol_03"
+description: "〈屋島合戰〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 3 冊・I（2020.006.0843，P031–P064）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：title = 屋島合戰 ?= F…"
+keywords: "屋島合戰, 楊金土手抄唱歌帖, 第 3 冊（I）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 3 冊・I（2020.006.0843，P031–P064）"
+musical_key: "F"
+meter: "4/4"
+tempo: "96"
+image:
+  - file: "P045.jpg"
+audio:
+  - id: "yashima_gassen"
+    label: "鋼琴伴奏版"
+    file: "yashima_gassen.mp3"
+tmd_source:
+  - "yashima_gassen.tmd"
+  - "yashima_gassen_piano.tmd"
+---
+
+# 屋島合戰
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="yashima_gassen.mp3"></audio>
+
+- 詞曲作者：未在 TMD metadata 中提供
+
+## 說明
+
+
+- 調性與拍號：調號 ?= F，拍號 <4/4>，速度 != 96
+
+
+## 歌詞
+
+```text
+title = 屋島合戰
+?= F
+!= 96
+<4/4>
+來源：『唱歌帖』(2020.006.0843) 第一冊 p.11 (掃描頁 P045.jpg)
+記譜：手抄五線譜（下半頁被 P046.jpg 夾頁遮蓋，可見前3行共12小節）
+歌詞：
+フネニアル ヘイケハ アオキハタヲ ナビカシ
+クガニアル ゲンジハ シロキハタヲ サシタテ
+タタカイヲ イドミアフ ユーグレノ ヤシマ
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="yashima_gassen.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yashima_gassen.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yashima_gassen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDY4RwcX5pUXJqfEFieqpVgIGJKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVWkeyKCSzLTM1BQlLi0thacbu59u3vZ0Qsezjg0KWlpcirYKlmZc9rYKblw2Jvomdlxc-loKttQCXAoKCiWZJTmpCrYoNoPEwXYCaYgLgAyI_UDGk31tz3ZNeL9n1uOGvqdTNj5b2_N0x7THDf0aRgZGBnoGBmZ6BhYmxpoKz9esebKj4Wlbl0KBnqGhgsazvuZn_f0vFzQqgOJEL6sgXRNk3IsVM16snQM07lln97Oulie7pjzfPgss0vFkR_fT3i6gjheLVoM0mYE0KTxdsg8o9LJx3YvJ3e_39DztX_9iWffTzl7jFwt7nrZuNDR6uqH_-fqG93s6QcYDnfdi5Tyg8SDO4-apj5t7Hzd3P25a9Lh5NZA_43HTksdNGx839yuAxJpWPW5aC-Q8btr_uHkTUL7rcfPkx02rHzdtB-tvWv-4aQ2S_qZNj5s3P27aAdG__XHzWlT9TVtBoiBOG0T_fjACmrcEIg-kOh83zwebNxVo37LHzXseN2143Ay0pQ_IBzoOaOo8kGbK4xsKFLT0ubgiE4szMnMT3ROLi1PzrMLykxNzHGoMaqpBNinYGJppgeNaAZjcIA7rBeJuUBgBaXDAgRwPxBuBbHDYAfEqIF4L5e8H0uAABOLJQD4osLaDbAaZWqNgGq-gi0TAoBlcxBhEYKgzBGIjJPUgWKNgjCQDYsNUwI2uAUsjNBtjGgL3bdN6IF6D6tsmkE82A-kdUN9tB9JAn6L7tmkrRA7Mb6PYt2BRI5gOQ4RvwGJgAqwEBsEiYGVgFjBg4EYhrAKFAg6fA10NxiAfA-MWkkCBdCcQz4eGBiyRArkbgExQQIHTKTRQ5iE8bQayFmQrso-hfFAsQVSAeCDaMA5GoMatEYY4hi6EQbDIx_RjLReXrp0CSqJXAAoocwEA)]
+- [鋼琴伴奏 TMD 檔案](yashima_gassen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6sfvp5m1PJ3Q869jwfk_Hy-49zydsebJny9Ol_c87O97v6VTQ0uJStFWwNOOyt1Vw47Ix0Tex4-LS11KwpRbgUlBQKMksyUlVsCXsHJBisEOANMRZQAbEUUDGk31tz3ZNeL9n1uOGvqdTNj5b2_N0x7THDf0aRgZGBnoGBmZ6BhYmxpoKz9esebKj4Wlbl0KBnqGhgsazvuZn_f0vFzQqBBiYmOplFaRrgoyj3G9QoKClz8UVmVickZmb6J5YXJyaZxWWn5yY41BjUFMNsknBxtBMC-wFhRoF03gFXSQCBs3gIsYgAkOdIRAbIakHwRoFYyQZEBumAm50DVgaodkY0xDK3AUWNYLpMETYCxYDE2AlMAgWASsDs4BegBuFsArkXmxuNAOpAilCdiCUD_I-RAWIB6IN42AEaqAZYYhj6EIYBAtVTCfVokd6QGZiXn6QB_ZoN9Q21oY5mxg2bh3m8dpGcA7CV0QpR-Gg6jGL1zbUNsFrB9W9gmInmAMKboge03htkCugfFQeQh2KCagWofgBoQPTNybaoMiGqEJm4_YNHh3a2BIcUVYgxFGtIOgP7AnRBzkhmiDSYTwoi0FIMA-Y_4BM03goF8qGyZogZPEYAFRlBjYAqhWiEVxWgETA2R2mHyhhAhEDakTmgs0DFgpAEZh-iO1Q7UBv6topoPhUASigzAUA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 屋島合戰 ]
+================================================================================
+⏱  Duration:       0:30 (30.0s), 12 measures total
+🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    F3 (MIDI 53) – G5 (MIDI 79) [跨度: 26 個半音 / 2.2 個八度, 難度: difficult]
+   - 最低音:  F3 in [YashimaGassen #1 @ m.6, 0:14]
+   - 最高音: G5 in [YashimaGassen #1 @ m.11, 0:25]
+   - 適合: mezzo-soprano, baritone
+🏛  結構:      YashimaGassen (30.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  C, F, G, A, D
+   - 調性數值:    C 調性不明確 [相關度: 0.85, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.85), F 大調 (0.82), C 小調 (0.54)
+   - 五度圈歷程:   +0
+   - 各段落調性細節:
+     • [YashimaGassen #1]: C 調性不明確 (r: 0.85, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+              [C ]*
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ████████████████████████  30.2%
+     C# :                            0.0%
+     D  : █████████                 11.5%
+     D# :                            0.0%
+     E  :                            0.0%
+     F  : ████████████████████      25.0%
+     F# :                            0.0%
+     G  : █████████████████         21.4%
+     G# :                            0.0%
+     A  : ██████████                12.0%
+     A# :                            0.0%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Vocal         : F3 – G5 (26 個半音 / 2.2 個八度, 67 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![屋島合戰 — 《楊金土手抄唱歌帖》 第 3 冊（I） 原書掃描頁 P045.jpg](P045.jpg)
+
+

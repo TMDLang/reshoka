@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+site/
+.DS_Store
+*.wav
+# *.mid
+
+# Canonical media is restored from Cloudflare R2 during CI.
+docs/**/*.jpg
+docs/**/*.jpeg
+docs/**/*.png
+docs/**/*.mp3
+docs/**/*.wav
+docs/**/*.mid
+docs/**/*.pdf

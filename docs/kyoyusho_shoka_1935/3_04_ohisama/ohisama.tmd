@@ -1,0 +1,48 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P106"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** お日樣 **
+!= 100
+?= F
+<2/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <16*>
+    | 5 - 5 - 3 - - 1 |
+    L| お - ひ - さ - - ま |
+    | 2 - - - - - 0 - |
+    L| は - - - - - - - |
+    | 3 - - 4 5 - 6 - |
+    L| ひ - - が し - の - |
+    | 5 - 5 - 3 - - - |
+    L| そ - ら - を - - - |
+    | 2 - 2 - 1 - - 2 |
+    L| け - さ - も - - ま |
+    | 3 - - - - - 0 - |
+    L| た - - - - - - - |
+    | 5 - - 5 5 - 6 - |
+    L| う - - す く - れ - |
+    | 5 - 5 - 3 - - - |
+    L| な - ゐ - に - - - |
+    | 2 - - 2 1 - 2 - |
+    L| き - - れ い - に - |
+    | 3 - 5 - 5 - - - |
+    L| そ - め - て - - - |
+    | 5 - - 5 5 - 6 - |
+    L| だ - - ん だ - ん - |
+    | 5 - 5 - 3 - - - |
+    L| あ - か - く - - - |
+    | 2 - - 2 2 - 3 - |
+    L| ぼ - - か し - ま - |
+    | 1 - - - - - 0 - |
+    L| す - - - - - - - |
+}
+
+-> Main -> #

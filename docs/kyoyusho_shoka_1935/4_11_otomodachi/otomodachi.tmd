@@ -1,0 +1,44 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P145"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** お友達 **
+!= 100
+?= C
+<4/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 3 - 6 - 1^ - 7 - |
+    L| つ - ま - づ - き - |
+    | 6 - 7 6 3 - 3 - |
+    L| こ - ろ ー ん - だ - |
+    | 2 - 2 - 2 - 2 - |
+    L| ひ - と - り - の - |
+    | 3 - 3 - 6 - 0 - |
+    L| と - も - を - - - |
+    | 7 - - - 1^ - 7 - |
+    L| だ - - - い - て - |
+    | 6 - 7 6 4 - 4 - |
+    L| お - こ ー し - て - |
+    | 3 - 5 - 3 - - 2 |
+    L| ち - り - う - - ち |
+    | 1 - 2 - 3 - 0 - |
+    L| は - ら - ひ - - - |
+    | 2 - 2 - 3 - 2 - |
+    L| い - た - み - は - |
+    | 4 - 3 2 3 - 3 - |
+    L| せ - ぬ ー か - と - |
+    | 6 - - 6 3 - 6 - |
+    L| う - - し ろ - に - |
+    | 1^ - 7 - 6 - 0 - |
+    L| ひ - と - り - - - |
+}
+
+-> Main -> #

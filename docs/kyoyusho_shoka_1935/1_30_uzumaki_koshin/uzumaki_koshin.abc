@@ -1,0 +1,12 @@
+X:1
+T:渦卷行進
+M:4/4
+L:1/16
+Q:1/4=116
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+G4 G3 G G2 B2 A2 c2 | B4 B3 B B2 d2 c2 e2 | d2 g2 f2 e2 d2 c2 B2 A2 | B4 G3 G G4 d2 B2 |
+G4 G3 G G2 B2 A2 c2 | B4 B3 B B2 d2 c2 e2 | d2 g2 f2 e2 d2 c2 B2 A2 | G4 G3 G G4 B3 c |
+d4 d3 d d2 g2 f2 e2 | d4 d3 d d4 B3 c | d4 d3 d e2 d2 c2 B2 | A4 A3 A A2 c2 B2 A2 |
+G4 G3 G G2 B2 A2 c2 | B4 B3 B B2 d2 c2 e2 | d2 g2 f2 e2 d2 c2 B2 A2 | G4 G3 G G4 z4 |

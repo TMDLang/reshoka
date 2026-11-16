@@ -1,0 +1,37 @@
+X:1
+T:家の紋
+C:曲：文部省
+M:2/4
+L:1/16
+Q:1/4=72
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+D3 E F2 F2 | A4 B2 A2 | F3 E F2 A F | E6 z2 |
+w: オ ホ ヨ ソ | イ ヘ ノ | モ ン ド コ _ | ロ
+D3 E F2 F2 | A2 B2 A2 A2 | F3 E F2 A B | A6 z2 |
+w: イ フ _ モ | カ シ コ シ | キ ク ト キ _ | リ
+F3 A B2 B2 | F3 A B2 B2 | D3 E F2 A2 | B6 z2 |
+w: ク ス ノ キ | フ シ ノ _ | キ ク ス ヰ | ハ
+d3 B A2 F2 | E2 F2 E2 E2 | D2 D2 E2 F2 | D6 z2 |
+w: チュ ウ ギ ノ | カ ヲ リ _ | ナ ホ タ カ | シ
+D3 E F2 F2 | A4 B2 A2 | F3 E F2 A F | E6 z2 |
+w: い _ ほ り | も かう は | か う か う _ | の
+D3 E F2 F2 | A2 B2 A2 A2 | F3 E F2 A B | A6 z2 |
+w: そ が きゃう _ | だ い に _ | し ら れ た _ | り
+F3 A B2 B2 | F3 A B2 B2 | D3 E F2 A2 | B6 z2 |
+w: ふ _ た つ | ど も ゑ に | み つ ど も | ゑ
+d3 B A2 F2 | E2 F2 E2 E2 | D2 D2 E2 F2 | D6 z2 |
+w: み つ ぼ し | よ つ め _ | く え う ぼ | し
+D3 E F2 F2 | A4 B2 A2 | F3 E F2 A F | E6 z2 |
+w: ウ メ バ チ | サ ク ラ | タ チ バ ナ _ | ヤ
+D3 E F2 F2 | A2 B2 A2 A2 | F3 E F2 A B | A6 z2 |
+w: サ ン ガ イ | マ ツ ニ _ | サ サ ノ ユ _ | キ
+F3 A B2 B2 | F3 A B2 B2 | D3 E F2 A2 | B6 z2 |
+w: ア _ ガ リ | サ ガ リ ノ | フ ヂ ノ モ | ン
+d3 B A2 F2 | E2 F2 E2 E2 | D2 D2 E2 F2 | D6 z2 |
+w: サ _ テ ハ | タ カ ノ ハ | ツ ル ノ マ | ル
+D4 E3 F | A3 B A2 B2 | A3 B A2 F2 | E6 z2 |
+w: イ ヘ ノ | ウ ヂ ノ ナ | オ ホ ケ レ | バ
+d4 B2 A2 | B3 A F2 E2 | F3 E D2 E2 | D6 z2 |
+w: モ ン ノ | カ ズ カ ズ | カ ギ リ ナ | シ

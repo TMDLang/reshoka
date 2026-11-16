@@ -1,0 +1,22 @@
+X:1
+T:雲雀
+M:3/4
+L:1/16
+Q:1/4=84
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+!mp! C4 E4 G4 | G6 A2 G4 | !mf! E4 G4 c4 | c6 d2 c4 |
+w: カ ス ム | ソ ラ ニ | ア ガ ル | ヒ バ リ
+!f! B4 G4 A4 | G8 z4 | !mp! G4 A2 G2 A2 G2 | G6 c2 c4 |
+w: オ モ シ | ロ | タ カ _ ク _ | ノ シ テ
+G4 A2 G2 A2 G2 | G6 c2 c4 | !mf! c4 d2 c2 B2 A2 | G8 z4 |
+w: ス ガ _ タ _ | ミ エ ヌ | ウ タ _ ノ _ | ミ
+!p! G4 c4 d4 | c8 z4 | !mp! C4 E4 G4 | G6 A2 G4 |
+w: オ チ ク | ル | の べ の | と こ に
+!mf! E4 G4 c4 | c6 d2 c4 | !f! B4 G4 A4 | G8 z4 |
+w: う た ふ | ひ ば り | な つ か | し
+!mp! G4 A2 G2 A2 G2 | G6 c2 c4 | G4 A2 G2 A2 G2 | G6 c2 c4 |
+w: く さ _ に _ | か く れ | そ こ _ と _ | わ か ぬ
+!mf! c4 d2 c2 B2 A2 | G8 z4 | !p! G4 c4 d4 | c8 z4 |
+w: こ ゑ _ の _ | み | き こ ゆ | る

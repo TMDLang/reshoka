@@ -1,0 +1,44 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P140"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** 夏の朝 **
+!= 100
+?= D
+<4/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 3 - 5 - 1^ - 6 5 |
+    L| お - に - は - の ー |
+    | 5 - 6 - 3 - - - |
+    L| く - さ - に - - - |
+    | 5 - 5 - 6 - 3 - |
+    L| か - き - ね - の - |
+    | 5 - 6 - 3 - - - |
+    L| え - だ - に - - - |
+    | 3 - 5 - 1^ - 6 5 |
+    L| あ - れ - あ - れ ー |
+    | 5 - 6 - 3 - - - |
+    L| ひ - か - る - - - |
+    | 3 - 6 - 3 - 2 1 |
+    L| き - ら - き - ら ー |
+    | 2 - 2 - 1 - - - |
+    L| つ - ゆ - が - - - |
+    | 1^ - - 1^ 1^ - 6 5 |
+    L| だ - - い や - の ー |
+    | 5 - 3 5 1^ - - - |
+    L| た - ま ー か - - - |
+    | 5 - 6 - 3 - 2 1 |
+    L| る - び - い - の ー |
+    | 2 - 2 - 1 - - - |
+    L| た - ま - か - - - |
+}
+
+-> Main -> #

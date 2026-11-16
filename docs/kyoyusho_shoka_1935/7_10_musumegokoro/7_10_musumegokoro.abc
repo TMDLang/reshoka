@@ -1,0 +1,18 @@
+X:1
+T:娘ごろ
+M:2/4
+L:1/16
+Q:1/4=96
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z2 A2 B2 A2 | d3 d d2 d2 | e3 d B2 d2 | A3 A A2 z2 |
+w: サ ケ ヨ | サ キ マ ショ | ド ン ド ト | サ ケ ヨ
+z2 d2 B2 d2 | A3 A A2 A2 | D3 E F2 F2 | E6 z2 |
+w: シ マ ハ | オ ヒ ヨ リ | ハ ル ビ ヨ | リ
+z2 F2 A2 F2 | A3 B d2 d2 | e3 e e2 d2 | e2 d2 B2 d2 |
+w: ヒ ヨ リ | ツ ヅ キ ハ | タ ウ エ ノ | シ ー ゴ ロ
+z2 d2 B2 d2 | A3 A B2 G2 | A3 A A2 B2 | A6 z2 |
+w: ワ タ シャ | シ マ ノ コ | ム ス メ ゴ | ロ
+z2 A2 F2 E2 | D3 D D2 F2 | E3 E E2 F2 | D6 z2 |
+w: ワ タ シャ | シ マ ノ コ | ム ス メ ゴ | ロ

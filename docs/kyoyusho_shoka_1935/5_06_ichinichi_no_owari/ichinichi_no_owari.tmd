@@ -1,0 +1,24 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P185"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** 一日の終 **
+!= 80
+?= B,
+<4/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 5_ - - 4_ 3_ 5_ 1 2 | 3 - - - 1 - 0 - | 2 1 7_ 2 1 - 6_ - | 5_ - - - - - 0 - |
+    L| ホ - - シ カ ゲ サ ヤ | カ - - - ニ - - - | シ ヅ カ ニ フ - ケ - | ヌ - - - - - - - |
+    | 5_ - - 4_ 3_ 5_ 1 3 | 2 - - - 5_ - 0 - | 6_ - - 5_ 4_ 6_ 1 2 | 1 - - - - - 0 - |
+    L| ツ - - ド ヒ ノ ヨ ロ | コ - - - ビ - - - | ウ - - タ フ ハ ウ レ | シ - - - - - - - |
+}
+
+-> Main -> #

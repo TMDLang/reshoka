@@ -1,0 +1,44 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P119"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** 僕の歌 **
+!= 108
+?= G
+<2/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <16*>
+    | 1 - - 1 5_ - - - |
+    L| ぼ - - く は - - - |
+    | 1 - - 2 1 - 1 - |
+    L| た - - い そ - う - |
+    | 2 - - 2 3 - 3 - |
+    L| ぢゃ - - う ぶ - で - |
+    | 2 - - - - - 0 - |
+    L| す - - - - - - - |
+    | 1 - - 1 6_ - 5_ - |
+    L| よ - - く ね - て - |
+    | 6_ - - 6_ 5_ - 0 - |
+    L| お - - き て - - - |
+    | 1 - - 1 6_ - 6_ - |
+    L| よ - - く あ - そ - |
+    | 5_ - - 6_ 5_ - 0 - |
+    L| ぶ - - か ら - - - |
+    | 1 - - 2 1 - 6_ - |
+    L| お - - くゎ し - は - |
+    | 2 - - 2 5_ - 5_ - |
+    L| あ - - ん ま - り - |
+    | 2 - - 2 2 - 3 - |
+    L| た - - べ ぬ - か - |
+    | 1 - - - - - 0 - |
+    L| ら - - - - - - - |
+}
+
+-> Main -> #

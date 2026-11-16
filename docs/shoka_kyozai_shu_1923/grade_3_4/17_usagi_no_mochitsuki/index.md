@@ -1,0 +1,140 @@
+---
+title: "兎の餅つき — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年"
+song_title: "兎の餅つき"
+song_id: "shoka_kyozai_shu_1923_grade_3_4_17_usagi_no_mochitsuki"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_3_4"
+description: "〈兎の餅つき〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁歌詞全文（P162.jpg，原書 p. 154）**…"
+keywords: "兎の餅つき, 新編 小學校・公學校 唱歌教材集, 尋常科 第三、四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "尋常科第三、四學年用（第 154–155 頁）"
+musical_key: "F"
+meter: "2/4"
+tempo: "96"
+image:
+  - file: "P162.jpg"
+  - file: "P163.jpg"
+audio:
+  - id: "usagi_no_mochitsuki"
+    label: "鋼琴伴奏版"
+    file: "usagi_no_mochitsuki.mp3"
+  - id: "usagi_no_mochitsuki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "usagi_no_mochitsuki_neutrino.mp3"
+tmd_source:
+  - "usagi_no_mochitsuki.tmd"
+  - "usagi_no_mochitsuki_piano.tmd"
+---
+
+# 兎の餅つき
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="usagi_no_mochitsuki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="usagi_no_mochitsuki_neutrino.mp3"></audio>
+
+- book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）
+- 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
+- 尋常科第三、四學年用（第 154–155 頁）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P162.jpg–P163.jpg，原書 p. 154–155，尋常科第三、四學年第 17 首）：
+調性與拍號：ヘ調二拍子（F 大調 2/4 拍），♩=96
+
+
+## 歌詞
+
+```text
+> [!NOTE]
+> **原頁歌詞全文（P162.jpg，原書 p. 154）**
+>
+> 一、昨夜（ゆうべ）の夢（ゆめ）は面白（おもしろ）い月（つき）の世界（せかい）に行（い）つたれば
+> ねぢはち卷（まき）の白兎（しろうさぎ）
+> 餅（もち）をペツタンコついてゐた。
+>
+> 二、大福餅（だいふくもち）のつきだてをあとはお宅（うち）のお土産（みやげ）と
+> くれた什箱（じふばこ）えんやらや
+> 擔（かつ）ぐ拍子（ひやうし）に目（め）が覺（さ）めた。
+>
+> （註：P162 第一節作「昨夜（ゆうべ）」「ペツタンコ」，第二節作「つきだて」「お土産（みやげ）」，而 P163 譜下配字分別作「ユフベ」「ペタンコ」「つきたて」「おみあげ」；又第 10 小節五線譜為一拍加兩八分音符（5 - 5 5），簡譜多印一條底線作「5 5 5」（一八分音符加兩十六分音符）。此處依五線譜與對句結構記為 5 - 5 5。）
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="usagi_no_mochitsuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](usagi_no_mochitsuki.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](usagi_no_mochitsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoZIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5afk52TX5SKrDkzPTPPqjQP5JISqP1aWgpPW_seN657uaT1ceOSx429ClpaXIq2CpZmXPa2Cm5cNkb6JnYgM0BBYaXwbNqG59tXKDzd0P907Y5nCxY-bt79tHUNhK3wdMrGZ2t7nk2d-WzuhJez297v6Xi6ofvpjh3Pl098sqMTpHT2bKDSpzu3PJ-y4v2eTrDbnuxoeLZo7rPWPqCSl819CkDjHzd0kWLP44ZukFVLlj9bu_hpb-OTXT1AGyCMZ3M63u_peb5l0bPZO17MnK9gYG5kqmtiCLMb7rzna9aAXNjQiOrCDqC4gqGpyaOGyYampgovFzSCdXLpaynYUgtwKSgoPO2bD3Lg5vYXK7pedLQDPfdi5bynrSueTWsHB2Lvs_ZOBVCK08sqSAc6Bsg0BjGBfoNoVSjQQ7gTJIrHYyAvmSu8XDYN6Jf3e2aB7H-xav-zhuUgm7t7gcEEFH3cPAMoCArB7t6naycAXeGmAAxhoJgCMEEoAEXBunsezVxpC0wqIEPsFKIV_fxDXGMhHC0toNOAIYbmGZgv0J0ONA6Y8EA6IdqByQLo6mczVjxdMgeo7XFT2-NGINoJVAdMrU-XLIIKNoGi5HHj-pdzFz2fuRck2Nj1uKnpceP0x00gNz5ubAEnAqA4KHVDtD_ZMe351B6w4OzHjd1ANWDx1S8WQgQhXKD6-Y-beh43boA46XHj2seNi4B2PW5c-LR3O1jlPriZQNuBOQksCLIa7NqpjxuBIp0Q7cAcBnYz0G0LQVqaJj1uBoZzy-Om_Y-bNz9u2gy2seVx47LHTRNAVjc0IYfHrh5QLC5Z_nxZP9SkxgVg5VsfN_YjTG1cB_EoWBZo0qTHjUCpFWBXdz1dB9EIdBpccdfTOfOfT1kMFt__uAlo4CSw1AqYp4GGA8Ng_pPdDc_XbQQrmwG2dMPjxslglUA_TQZpbAL6qQWi69nkKWCVwKBdAlYzAZ6OHjduAtsCdMN0SKg_n70OHDCQmOx5sWwXWNlUcCA1YoQEUPLFit3ANApKSgrgBN7wfH3Dk71zHjf0YE8wDb1AKfTQbgBGXA9I-64euHaUsIPowhVAYO0vGnpA-dJY4cXaOU92dL9sBXpy-tOOtqcdS6EGNi973Dz1cfNMhBuQHIBk43xkG0EWgaJtEtiW2U_7IQWRAag8BLl115Tn22cBrXzetAtUfAKDtmvB09aVT1tXA-1-OX_z8zXLgM41VdBVMFUAFgegjPp8w0KghqdLZj3t3QApcp_umgo0BeJMoDIFU7BlHUBJZHOgJvc2Pm1di2Q40P9Nz9YueTFz6pN9c-HuAZYgwMLqaf_S51snPFve_WLFDKALgUaD3QHUAc0LlBeaUKCgpc_FFVqcmJ7pl--bn5yRWVJcmp1pFZCZmJfvUGNQUw2yTcHG0EwLnHYUsJXb0BQEzPoKGibQANYBRyqomNLEogFoKciwGgVjoMd0gaQRkAThGgVDsIihgmk8mIEQMo8HMyCqIPp0FQxgisDm-RjWKABTLVgEmMGAeCeYtQ6sBy7T1AgUWw83HphaoOJNQPZ0MKsXKtMCVQV3DMQeI5DcAqg9LWC7QKx-qD1NUJmFULth9iyBivcC8XwwaxlUxyQMe_CH9q4eckIblIxAEEIbA0VAoQkKUxANCl2gGogTgBSYZQYi4KJYAxzqLYjHIPQ6sHdnQ3nd0IAEFlSwYEWExXyg73vArA1gSZhF2EIcEq4gtSug9Hrk-GtsA4c5UozDZfZDdQMLBKgMxATiQ3xHJzkhDkm6RuD0agYJSXD4m4JDHBSYNQomYDUmYDWQOIDECvbAXgv10SJoGob4GCSzDx4JEP9DYg6SoiFpGhRCIBVToTJ9eMIalJYh-iCxA0qvIPEZYB4ob20A4slI9nRA1U8GYnB0N3VCZMA8EsIa2NCiNKwhIQsKcTMgBIU5RARXeYO9JEHKx-AcCvPpLmiIgP2KEgawVA0qE0B5G9gOgcqAwg9XWHdDdS0BYpB6mGmgah4sAUrY06H5ByoJLMQgmnqgEQoRwW5VLReXrp0CRjGvgEtQmQsA)]
+- [鋼琴伴奏 TMD 檔案](usagi_no_mochitsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoZIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsSUuLS0FJ629j1uXPdySevjxiWPG3vf7-l4OXvms87ul917nk_Y8mTPlqdL-9_v6VTQ0uJStFWwNOOyt1Vw47Ix0jexA9kDChYrhWfTNjzfvkLh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN0GtOHphu6nO3Y8Xz7xyY5OkNLZs4FKn-7c8nzKCqBVYPc_2dHwbNHcZ619QCUvm_sUgMY_bugixZ7HDd0gq5Ysf7Z28dPexie7eoA2QBjP5nS839PzfMuiZ7N3vJg5X8HA3MhU18QQZjfcec_XrAG5sKER1YUdQHEFQ1OTRw2TDU1NFV4uaATr5AotTkzP9Mv3zU_OyCwpLs3OtAoABXqQh0ONQU01lwIQ2BiaadmBWfpaCrboQAFsYcOLhT0KGiYgXz5f36CjAExfxnpZBemaWDRo6YMNq1EwVtAFQmMFIyAJwjUKhmARQwXTeDADIWQeD2ZAVEH06SoYwBSBzfMxrFF43NQGFnncuBWId4JZ68B64DJNjUCx9XDjHzd2QcWbgOzpYFYvVKYFqgruGIg9RiC5BVB7WsB2gVj9UHuaoDILoXbD7FkCFe8F4vlg1jKojkkY9uAP7V095IS2KdR0CG0MFAGFJihMQTQodIFqIE4AUmCWGYiAi2INcKi3IB6D0OvA3p0N5XVDA_Jx42pYsCLCYj7Q9z1g1gawJMwibCEOCVeQ2hVQej1y_DW2gcMcKcbhMvuhuh83gkIaJAMxgfgQ39FJTohDkq4ROL2aQUISHP6m4BAHBWaNgglYjQlYDSQOILGCPbDXQn20CJqGIT4GyeyDRwLE_5CYg6RoSJoGhRBIxVSoTB-esAalZYg-SOyA0itIfAaYB8pbG4B4MpI9HVD1k4EYHN1NnRAZMI-EsAYWW5SGNSRkQSFuBoSgMIeI4CpvsJckSPkYnENhPt0FDRGwX1HCAJaqQWUCKG8_bpoAlQGFH66w7obqWgLEIPUw0zZBAxKcsKdD8w9UEliIQTT1QCMUIoLdqlqcpbwPcilvAi3kgaESrxBtGIvMMI1HEjKAOh-rPJhlGg9j4lILUWGCLIZFKVweJALRArUf6CddOwUMb0X7AJVjlzACSyhzAQA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 兎の餅つき ]
+================================================================================
+⏱  Duration:       0:40 (40.0s), 32 measures total
+🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [UsagiNoMochitsuki #1 @ m.2, 0:01]
+   - 最高音: D5 in [UsagiNoMochitsuki #1 @ m.9, 0:10]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      UsagiNoMochitsuki (20.0s) -> UsagiNoMochitsuki (20.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  C, G, F, A, D
+   - 調性數值:    F 調性不明確 [相關度: 0.83, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.83), C 大調 (0.82), A 小調 (0.60)
+   - 五度圈歷程:   -1 -> -1
+   - 各段落調性細節:
+     • [UsagiNoMochitsuki #1]: F 調性不明確 (r: 0.83, 自然音純度: 100.0%)
+     • [UsagiNoMochitsuki #2]: F 調性不明確 (r: 0.83, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+        [F ]*          G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ████████████████████████  25.5%
+     C# :                            0.0%
+     D  : ███████                    7.5%
+     D# :                            0.0%
+     E  : █                          0.9%
+     F  : ████████████████████      21.7%
+     F# :                            0.0%
+     G  : █████████████████████     22.6%
+     G# :                            0.0%
+     A  : █████████████████         17.9%
+     A# : ████                       3.8%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 98 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![兎の餅つき — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年 原書掃描頁 P162.jpg](P162.jpg)
+
+![兎の餅つき — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年 原書掃描頁 P163.jpg](P163.jpg)
+
+

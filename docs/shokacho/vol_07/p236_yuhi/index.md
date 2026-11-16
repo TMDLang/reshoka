@@ -1,0 +1,137 @@
+---
+title: "夕日（夕陽） — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
+song_title: "夕日（夕陽）"
+song_id: "shokacho_vol_07_p236_yuhi"
+collection: "shokacho"
+volume: "vol_07"
+description: "〈夕日（夕陽）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：葛原しげる、曲：室崎琴月），調號拍號：E 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. ギン ギン ギラギラ ユフヒガ シヅム ギン ギン ギラギラ ヒガシヅム…"
+keywords: "夕日（夕陽）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 葛原しげる, 室崎琴月"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+credits:
+  - "詞：葛原しげる"
+  - "曲：室崎琴月"
+sources:
+  - "唱歌帖 P236 (蓬萊唱歌 36頁)"
+musical_key: "E"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P236.jpg"
+audio:
+  - id: "yuhi"
+    label: "鋼琴伴奏版"
+    file: "yuhi.mp3"
+  - id: "yuhi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yuhi_neutrino.mp3"
+tmd_source:
+  - "yuhi.tmd"
+  - "yuhi_piano.tmd"
+---
+
+# 夕日（夕陽）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="yuhi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yuhi_neutrino.mp3"></audio>
+
+- 詞：葛原しげる
+- 曲：室崎琴月
+- 唱歌帖 P236 (蓬萊唱歌 36頁)
+
+## 說明
+
+夕日（夕陽）
+Source: 唱歌帖 (2020.006.0843), P236.jpg
+Marginal notes: 9 / 室崎琴月曲 / 蓬萊唱歌 36頁 / 快活ニ
+Key: ホ調 (E major), Time: 2/4, Tempo: 快活ニ
+
+
+## 歌詞
+
+```text
+1. ギン ギン ギラギラ ユフヒガ シヅム
+ギン ギン ギラギラ ヒガシヅム
+マッカッカッカ ソラノクモ
+ミンナノ オカホモ マッカッカ
+ギン ギン ギラギラ ヒガシヅム
+2. ギン ギン ギラギラ ユフヒガ シヅム
+ギン ギン ギラギラ ヒガシヅム
+からすよ おひを おつかけて
+まつかに そまつて まつてこい
+ギン ギン ギラギラ ヒガシヅム
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="yuhi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yuhi.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yuhi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGxGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQW3mJJaVFqeii5amJQEYRQhhoQ3pmnlVJYibQuSAnlyfG5yZm5uUk5qUocWlpKTxdMvXZ9KXv93QAGS9n7n2_p1NBS4tL0VbB0MCCy95WwZXLxkjfxA5k4NMpG5-t7Xm6Y5oCKNwUNF5MXvNiQhdEVMHY7OWCRk2wxS9Wznu_Z9aLibOf9s1_3Dj9ceOkx03dYJlnszcBZZ6uW_J0S9_zCVuezelQ4uLS11KwpRbgUlDA4iOQaDAk6hQQntAwMjAy0DMwMNMzsDAx1tQB-0ovqyAdpNw3sQgYbok5CqBEUGylYKmgr4DsbqBPgCKYIQBStn_1sy27Hzd3g8zxTq20UnjcPPvFqv0KGq4KuYlZ-UVAq0IygZGlAAxYIDM1tyAf6C5kXT6VRZnJxVYgpqGewuOmdY-bN6NQKyEk0ORlj5unPm4GhvAaoMz2x82tj5sXgPTh1QRSjqq6ed7j5ubHTauRSaCuvSBdzX2Pm9Y_bl4EUTgfaN7j5i6gKFB-FVjxbKAkuhGku8GIPj5t7H7c1Pm4cebjpg4gp-tx46bHTZMgrCUgycaJjxuXQVTugwkBg6JxLoy_DC6z7HHj5MeNLaQ7gvKEDgUKWvpcXJGlGZlWYfnJiTkONQY11SALFGwstOzAjBoFUwVdBTMgBrEgsEahOregFsw0BsIaMGmkYKBQA9biY1gD84guggEWA3oG6CEoDRRpBgZG81SQF4Gia8BqtgN5rUC8QCEeZp4R9cyD-skQ5Kd4iKfiQcgQCIHeAvrKCOwXI6giXbJ8BbEdZjdIZAHYLHJ8hM8seAzB4gVCg4wyUzCMAxJm0AhE80fzPCBuBpoKTJlAGmQzhAWiIS7ZC3EJOJuuB9u7CNMPjd1A2U4gPRNId4BUNXYB8SYgbxLEHDB_CURl40SwyDJ094NTEygNQTwBcjXQ8TAmRNAYiyfmAzEwszQDrQA6E-ToVVCPzAY7F5dHMb2xD8mRq8GOnIskugwsguABsy1YpAXTI2m1uNLWUEpXtVxcunYKoHJBAUgrcwEA)]
+- [鋼琴伴奏 TMD 檔案](yuhi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOqz6Uvf7-kAMl7O3Pt-T6eClhaXoq2CoYEFl72tgiuXjZG-iR1XnYLS0ykbn63tebpjmkKAkbGZgsaLyWteTOiCiCoYm71c0KipBFL3YuW893tmvZg4-2nf_MeN0x83Tnrc1A2WeTZ7E1Dm6bolT7f0PZ-w5dmcDiUuLn0tBVtqAS4FBWw-etQwRSEgMzEvX8ExOTk_tyAxLzM3Na8EpDo4v7QoOdVKAeE5DSMDIwM9AwMzPQMLE2NNHbBv9bIK0kHKfROL0jPzEnMU8vJLUoutFCwV9BWQ_QP0IVAEM2RAyvavfrZl9-PmbpA5lHsVChS09Lm4IkszMq3AHnSoMaipBlmgYGOhZQdm1CiYKugqmAExiAWBNQrVuQW1YKYxENaASSMFA4UasBYfwxqFx03rHjdvBuqCM8BiCo-bV8JpoEjzMiCeCsSTgKJrwGq2A3mtQLxAIR5mnhH1zIP6yRDkp3iIp-JByBAIgd4C-soI7BcjqCJdsnwFsR1mN0hkAdgscnyEzyx4DMHiBUKDjDJTMIwDEmbQCETzR_M8IG4GmroaTINshrBANMQleyEuae4DsteD7V2E6YfGbqBsJ5CeCaQ7QKoau4B4E5A3CWIOmL8EorJxIlhkGbr7wakJlIYgngC5Guh4GBMiaIzFE_OBeDMQA60AOhPk6FVQj8wGOxeXRzG9sQ_JkavBjpyLJLoMLILgPW6cDBZpwfRIWi2utDWU0lUtcqEQ5IG1WKgGeVXbWBuUugy1TbQhRQREBJOERrIhWAAsCMZgDWBsGq9tHq-NKERAgacNCimTeG2U0AQLgwlIfgUyjVBMgNHANBOvDTUEEdywSMLpToSfUEVBPjTWBqZLCBNCIpSj2gD2KsRjMC_DzEAxCV0Y1VKQ44EmYHE-EWFDQrigRLcP9ug2BJkeD7QRmJ6BSQTGh1LIfGMwH8SBYYTjkUwBYbAASL0ZzFhkbegGYxiD03KoK7E4FpsZKHqw8Am6g3zvAEPeM6-kKB9LTjNB5DRgaoo2jFWINokF8qLNcoFMUyATTTdKxCF0g8MBVJSCUwhYk2teSmZeOn47QUkYZCEocYEth9mIrBmHlUD7wGUBwkZdOwWwSxWADFBSA9EQg0AsZS4A)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 夕日（夕陽） ]
+================================================================================
+⏱  Duration:       0:22 (22.2s), 20 measures total
+🎼 Key & Tempo:    首調基準 E, != 108.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    B3 (MIDI 59) – E5 (MIDI 76) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  B3 in [Yuhi #1 @ m.6, 0:05]
+   - 最高音: E5 in [Yuhi #1 @ m.11, 0:11]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Yuhi (22.2s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       E 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  B, E, C#, G#, F#
+   - 調性數值:    E 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): E 大調 (0.80), B 大調 (0.79), G# 小調 (0.62)
+   - 五度圈歷程:   +4
+   - 各段落調性細節:
+     • [Yuhi #1]: E 調性不明確 (r: 0.80, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab          [E ]*
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : ███████████               17.3%
+     D  :                            0.0%
+     D# :                            0.0%
+     E  : ██████████████            21.3%
+     F  :                            0.0%
+     F# : ██████                     9.3%
+     G  :                            0.0%
+     G# : █████████                 14.7%
+     A  :                            0.0%
+     A# :                            0.0%
+     B  : ████████████████████████  37.3%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Vocal         : B3 – E5 (17 個半音 / 1.4 個八度, 60 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![夕日（夕陽） — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上） 原書掃描頁 P236.jpg](P236.jpg)
+
+

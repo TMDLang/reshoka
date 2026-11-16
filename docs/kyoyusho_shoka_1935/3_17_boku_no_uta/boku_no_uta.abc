@@ -1,0 +1,14 @@
+X:1
+T:僕の歌
+M:2/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+G3 G D4 | G3 A G2 G2 | A3 A B2 B2 | A6 z2 |
+w: ぼ く は | た い そ う | ぢゃ う ぶ で | す
+G3 G E2 D2 | E3 E D2 z2 | G3 G E2 E2 | D3 E D2 z2 |
+w: よ く ね て | お き て | よ く あ そ | ぶ か ら
+G3 A G2 E2 | A3 A D2 D2 | A3 A A2 B2 | G6 z2 |
+w: お くゎ し は | あ ん ま り | た べ ぬ か | ら

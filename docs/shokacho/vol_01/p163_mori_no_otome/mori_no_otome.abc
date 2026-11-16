@@ -1,0 +1,12 @@
+X:1
+T:モリノヲトメ
+M:4/4
+L:1/16
+Q:1/4=96
+K:D
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d3 B B4 G4 F4 | G4 A4 F8 | E3 D D4 E4 F4 | F12 z4 |
+A3 B B4 A8 | F3 G E4 D8 | E3 F G4 E8 | D12 z4 |
+D3 F F4 E4 D4 | E4 F4 A8 | G3 B F4 G4 E4 | F12 z4 |
+A3 B B4 c8 | A4 B4 F8 | G3 A F4 E4 D4 | D12 z4 |

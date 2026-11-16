@@ -1,0 +1,143 @@
+---
+title: "オクワシノキシヤ（點心火車） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "オクワシノキシヤ（點心火車）"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_4_03_okashi_no_kisha"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈オクワシノキシヤ（點心火車）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（曲：山本壽），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ガッタンゴッコ　ガッタンコ オクワシシノ　キシャガ…"
+keywords: "オクワシノキシヤ（點心火車）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山本壽"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "曲：山本壽"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
+musical_key: "G"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P050.jpg"
+audio:
+  - id: "okashi_no_kisha"
+    label: "鋼琴伴奏版"
+    file: "okashi_no_kisha.mp3"
+  - id: "okashi_no_kisha_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "okashi_no_kisha_neutrino.mp3"
+tmd_source:
+  - "okashi_no_kisha.tmd"
+  - "okashi_no_kisha_piano.tmd"
+---
+
+# オクワシノキシヤ（點心火車）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="okashi_no_kisha.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="okashi_no_kisha_neutrino.mp3"></audio>
+
+- 曲：山本壽
+- 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
+
+## 說明
+
+曲目說明
+中文解釋：把火車想像成載滿糖果點心的列車，充滿童趣。
+
+
+## 歌詞
+
+```text
+一
+ガッタンゴッコ　ガッタンコ
+オクワシシノ　キシャガ
+走リマス　オカシノマエヲ
+通リマス　ジュウ　ナッて
+レエルのハ　アチョメレボウト
+
+二
+ガッタンゴッコ　ガッタンコ
+オクワシシノ　キシャガ
+イソギマス　ナガイトンネル
+入リマス　トウ　ナッて
+ヘーコラハ　イヨコレボイケ
+
+三
+ガッタンゴッコ　ガッタンコ
+オクワシシノ　キシャガ
+フェエマシ　ゾロゾロハラヲ
+ヘルンル　ハ　ッパッて
+クーリイタ　イノノクチ
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="okashi_no_kisha.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](okashi_no_kisha.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](okashi_no_kisha.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLkIwGmpaemWdVkpgJ9B_Ij-WJ8bmJmXk5iXkpSlxaWgqPm1Y9blr_uHn946btj5v7HjetBTOWvN_T8XL3vKf7m583rn6xu-v9nk4FLS0uRVsFQwMDLntbBXcuGyN9EzuQRc9mb3q_Z9bTjRufzVnzdPFesOUv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmXjs7U9jxu6n27ofrpjx_PlE5-vWfNkR8PTtTue7tzyfMoKoBtA4a4HDHc9ULgDGQaGQJcocelrKQBtfT573YtVq57N6ONSUFB4smPts2ntL5YvftneDXTOs64uiMufNW9-2tz_rGPCiz2dz3bvf7552rN5c6Bem9XytGM62Hc9T1tbQbKrl77YtvhxQxOXlj4X0BYuoHO4Hjetedzc_Lhp_-PmzY-btoDZmx83NKCKbwaqQwpKSGiCFEECdDFQNdeLrRseN6963DzvcdNOsBxQw2qoUpDgisfNm7heNsxCVbTjcfPSx03LQOzmLpCNjcu4HjevAStf_bhx3ePmfrC6RY-bGx83L3_cvBAk2zwHpKe5g4vrya4eKvrhcdOSx017HzcBrYW5EOgqoDFA8eYOkDHNvUB3cT1tXYriDaAchh9mPG7eA3JH80qYH4BmrACLQDwAtGoj0AM7Oqnpgeapj5uWg0MP6LbtYOl9j5uBKsAk0CEg52yCOG812EOrwe4GuxBoV_NEmAdAFu0B-RLk0P0wDwDjEpiPgFKN4FTkC8xuVgGZiXn5DjUGNdWgtKpgY2imZQdm1SgYKuiCsWk8jKhRMANRYAIsYAAWBDOBIgrGUB01CkZAEsQD0WBFYDN9DGuA-RoULkAhSNCAGaBQAzNAXOxKQCTENmBAgq2DhCaQ2g7iNPdBJdeCpUBhCmasQXWA0UA7wHgAHQCNV3B0gaIJFkmQqIZBiB0gORiGqAGxwNGMSA6ISG3uh1gKdgjIdcA0DHXOTgyzIe4HljBwdXDHg3kQv60Ai29C2AOOuyVgub1gch0he5q74CEA1dncAZUBhSbYnuZeMAlyC1IUNU9FcgPYhWC_gezZj8U_-8DqIAGPYMPCBeIfiP0Qe5ByGCyAEfkG1XCQHCR3QXCNgglUB0gtWBdSNIC8ByzOwFYRjgZoAQ4PCnBwNa-EOn0CXBwSgKDAQIoKaJRDvEXQLnApS9AiUDUBNhWcDZCiA-wvSEZAjjCkAEa2C1hMgjIPxMyJcBvBUnDxDWASnO5IyRlIgQ1Jv5BgWARmL4Tagkhdc8CyIJ8jBx0iQGFeg2VeuE5oSt-IGhBN6yHhBCa74epAMlvhdkKCCaSmhquWi0vXTgFU1CsAaWUuAA)]
+- [鋼琴伴奏 TMD 檔案](okashi_no_kisha_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOpx0_rHzesfN21_3Nz3uGktmLHk_Z6Ox81THjctAgo-2bPl6dL-J7tnvN_TqaClxaVoq2BoYMBlb6vgzmVjpG9ix1WnoPRs9qb3e2Y93bjx2Zw1TxfvVQKJvWjf9bxx8bOpM180bXo2p_lp65oXq3ofN3Q9m7bh6bpZT1snPV-99OmUjc_W9jxu6H66ofvpjh3Pl098vmbNkx0NT9fueLpzy_MpK4AuMTIwMtAzMDDTM7AwMQcyDAyBLlHi4vJNzMyzCshMzMsP8nCoMaip5lIAAhtDMy07MKtGwVBBF4xN42FEjYIZiAITYAEDsCCYCRRRMIbqqFEwApIgHogGKwKb6WNYAwy0NY-bm4FCj5v2P27eDGZsgYmAuNiVgEiIbcBQB1sHCXogtR3Eae6DSq4FSwGjYTGYsQbVAUYD7QDjAXQANF7B0QWKJlgkQaIaBiF2gORgGKIGxAJHMyI5ICK1uR9iKdghINc9bp4Hdc5ODLMh7n_ctBquDu54MA_itxVg8U0Ie8BxtwQstxdMriNkT3MXPASgOps7oDKg0ATb09wLJkFuQYqi5qlIbgC7EOw3kD37sfhnH1gdJOARbFi4QPwDsR9iD1IOgwUwIt-gGg6Sg-QuCK5RMIHqAKkF60KKBpD3HjctA1tFOBp2PG5eClENCQpwcDWvhDp9AlwcEoCgwECKCmiUQ7xF0K7mDmIsanzcvBxsKjgbIEUH2F-QjIAcYUgBjGzXSkjmgZg5EW4jWAouvgFMgtMdKTkDKbAh6RcSDIvA7IVQWxCpaw5YFuRz5KBDBCjMa7DMC9cJTekbUQOiaT0knMBkN1wdSGYr3E5IMIHU1HDVIpf0PsglvQW8oI82jAWqhZBAngmMZ4ApZxoP5oIooCxMP5IoWBVYNSi8sMih8rG7ACIJiU2sjkPTjdt-kP917RRAQRDtAxKGsY2Q2MZgtjIXAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ オクワシノキシヤ（點心火車） ]
+================================================================================
+⏱  Duration:       0:16 (16.8s), 14 measures total
+🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Main #1 @ m.1, 0:00]
+   - 最高音: D5 in [Main #1 @ m.3, 0:02]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Main (16.8s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  G, A, D, B, E
+   - 調性數值:    G 大調 [相關度: 0.79, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.79), D 大調 (0.75), B 小調 (0.50)
+   - 五度圈歷程:   +1
+   - 各段落調性細節:
+     • [Main #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F           [G ]*
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ██                         2.0%
+     C# :                            0.0%
+     D  : ███████████████████       21.6%
+     D# :                            0.0%
+     E  : ███                        3.9%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : ████████████████████████  27.5%
+     G# :                            0.0%
+     A  : ████████████████████████  27.5%
+     A# :                            0.0%
+     B  : ███████████████           17.6%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 43 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![オクワシノキシヤ（點心火車） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P050.jpg](P050.jpg)
+
+

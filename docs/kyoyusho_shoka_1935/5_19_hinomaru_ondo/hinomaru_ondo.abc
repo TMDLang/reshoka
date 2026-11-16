@@ -1,0 +1,18 @@
+X:1
+T:日の丸音頭
+M:4/4
+L:1/16
+Q:1/4=108
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+z4 B4 d4 B4 | B2 A2 B4 A4 G4 | z2 E2 G4 A4 B4 | A4 G2 E2 G8 |
+w: ク ニ ハ | ー ヒ ノ モ ト | ナ ミ カ ラ | ナ ミ ー ヘ
+z4 G4 A4 B4 | B2 d2 e4 B4 G4 | z2 A2 B2 d2 g8 | e4 d4 e8 |
+w: ヒ カ リ | ー ア マ ネ ク | メ グ ミ ニ | ハ レ テ
+z4 d2 B2 z2 A2 B2 B2 | A2 A2 B2 B2 z4 d2 d2 | B4 e4 d4 B2 A2 | B16 |
+w: ソ レ ハ タ ハ | ヒ ノ マ ル ヨ ニ | ヒ ー ト ー ー | ツ
+z2 d2 d2 B2 d2 B2 G2 E2 | G2 A2 B2 d2 B2 d2 e2 e2 | z2 G2 G2 A2 B2 e2 d2 d2 | B2 d2 B2 A2 B2 B2 B2 B2 |
+w: ヒ ト ツ ヤ レ コ ノ | ヒ ノ マ ル ア ゲ テ ー | ウ タ ヒ ハ ヤ セ ヨ | ヲ ド レ ヨ マ ル ク ー
+z2 d2 B2 G2 A2 G2 E2 D2 | B,2 D2 E2 D2 E3 G A4 | B8 A4 G4 | G12 z4 |
+w: サッ サ イ ヤ サ カ ー | ヨ ウ イ ヤ サ ハ ヨ | ウ イ ヤ | サ

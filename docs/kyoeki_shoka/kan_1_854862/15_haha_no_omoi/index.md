@@ -1,0 +1,134 @@
+---
+title: "母のおもひ — 《共益商社唱歌教科書》 巻一（生徒用）"
+song_title: "母のおもひ"
+song_id: "kyoeki_shoka_kan_1_854862_15_haha_no_omoi"
+collection: "kyoeki_shoka"
+volume: "kan_1_854862"
+description: "〈母のおもひ〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻一・生徒用（NDL PID 854862）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：なでゝそだてゝ、教へたて、 人となりての、後もなほ、…"
+keywords: "母のおもひ, 共益商社唱歌教科書, 巻一（生徒用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《共益商社唱歌教科書》 巻一・生徒用（NDL PID 854862）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第三十～三十一頁（第十五曲）"
+  - "NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P017.jpg"
+musical_key: "C"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P017.jpg"
+audio:
+  - id: "haha_no_omoi"
+    label: "鋼琴伴奏版"
+    file: "haha_no_omoi.mp3"
+  - id: "haha_no_omoi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "haha_no_omoi_neutrino.mp3"
+tmd_source:
+  - "haha_no_omoi.tmd"
+  - "haha_no_omoi_piano.tmd"
+---
+
+# 母のおもひ
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="haha_no_omoi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="haha_no_omoi_neutrino.mp3"></audio>
+
+- 出處：共益商社樂器店《唱歌教科書 生徒用 巻一》第三十～三十一頁（第十五曲）
+- NDL Digital Collections PID 854862（https://dl.ndl.go.jp/pid/854862）掃描 P017.jpg
+
+## 說明
+
+原書資訊與歌詞全文（NDL PID 854862《唱歌教科書 生徒用 巻一》第三十～三十一頁，掃描 P017.jpg）：
+調性與拍號：は調四分ノ四拍子（C 大調 4/4 拍），♩=88，「温和ニ」
+註記：第三學期第一曲（全卷第十五曲）。目次與歌詞頁（右頁）標題作「母のおもひ」，樂譜頁（左頁）標題作「母の思ひ」。全曲十六小節，分節歌，二節同一旋律。開頭標 mp，第三行（第九小節起）標 mf；各行印有漸強漸弱記號，每行第二小節末印有換氣記號（V）。第一行第三小節第三、四拍五線譜為四分音符 D4、C4（2、1），簡譜誤加底線作八分音符「2_ 1_」。第三行末小節第二節譜下配字作「ね」，右頁歌詞作「夜もねぬ、」。
+
+
+## 歌詞
+
+```text
+一、
+なでゝそだてゝ、教へたて、
+人となりての、後もなほ、
+こゝろのやみに、身をくだく、
+母のめぐみは、たふとしや。
+
+二、
+智惠も器量も、世にこえよ、
+あしき道にな、まよひそと、
+こゝろのやみに、夜もねぬ、
+母のなさけは、たふとしや。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="haha_no_omoi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](haha_no_omoi.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](haha_no_omoi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeMtzA1sTAzQkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh9MSczNzKtFFU3PzUS3IL8pMz8yzyk3NzMpECgAtLYVn63sfN6573Nj1uKnpceMmBS0tLkVbBQsLLntbBWcuGxN9EzuQKU_bd72YOfX9nllPWzc-n931dGrb8yX7nq1oejpzxdNd0x83dD2dsvHZ2p5nU2c-Xz7x2ewdCs-nzH-6b9LzKSsUnm7f_WRHw-OG7udr1jzZ0fm0t_H93nkQBlD85YLG93s6gFIg7q4pz2Zver-nE-xwPxcfBRegs0sScxSc4fFfrBDg6aIAiWGgxoySkoJiK339lBy9PCBOz9fLKtAvyEzRh6nofNbX_Ky_XwEUr0A5YLhy6Wsp2FILcCkoKDztmw_08YvN7S9WdL3oaAcGw4uV8562rng2rR3oQpA3EE6mNKR60LwD9CAwUkCueLFq_7OG5SD7u3tfzJwPFH3cuB4o-HT27KcdbY-b-4AMoNTTtROAjnJWeLpkOVBSARi_CkBRsDE9j2autLWwADIeN_Q827Hy6aSex83djxt6wcav2P1ixQygqVC3rd3xbM58MLsBHGcdQA8_7d2OFpGPG5qez173bM1CeLhA4vtp_2Ywo_PZipkvF_Y82TsHZCVqUgRaDPLviqYXa-dAdW1fhkvXs4a5EC1AG0FBP3sT0BlPW9c-3dD_fH0D0BxgGAAZQDcA2U929QDZTyf0gBw_vfvpPqAnm15O6365YC3QZIXcAqAaiDdfLASqB6XOJzvnQox6sXU7xAEKuWnv98x-OqEFqOZp74Znczqf7dnxdM92MLkRGFbgSAA6rx-oAGTCrh6ICc_mrIaq75_9bMNimMqOMGh4gcMUqgcY0GA9EPbjhkZIJALD9_n2WcBwed60CxK_L-dvfr5mmYKLCVCNswnQNGBKazSEROvzDQuBSl-sWvK0a8HTXVOBOoEh97R1NVwbMBSN4hUM4yHBB_c5yKFw28FBBjTmyY7ul63AVDQdEvqPG9dC4gkSo5A4hkg9XTIHHJFrHzeuAToGYjgXKC2BE3kjiPW4cdXjxuWPm4CRB0QLHjcuA7EbGoG543HjjseN80EiEKVPdu163LgCpKGpCyQKTCnA4NjXA7YDaMpuuJGTQWY0gdNSU8vjxv2PG1cD5V7sWv24adLjxn6wPf1Q1dA019T4uHECWOl6kFNB9m4F2zYdZATM2buAGQOia-auZ80LgDYDi7-X7f0gJzQAs-g0kE1A6xs7Hjd1wJ0DdN70x429L0ESQOlVYAv2gVQAEyzI2ysIuBwtIJGcDfL31MeNE3E6G6iU8jIOChS09Lm4PBIzEv3y_XPzM60CMhPz8h1qDGqqQdYo2Fho2YEZ1bkFtWAGsJx93NwFxO1A3KbwuGmvQg2Q1QDhATGItwkovh1IzwDS-8EibSCLQPprFEwVdIHQVMEwDkiZA3GNghlUCCIFEjEG08YKRkDSECwCkwNBA5AI2DgfQ6DpjavAosBEB8TLwKy5YD3AVAGVWQaVgZgOTDNQ8elAvAPMmg_VAVMFgvEIe4xAcgshupomAnETWFcv1Dxg8dYO1QSRglnUAbVoNSglgFkgEYQMukXg8J0ExB1Q3AUOv1XQ8O0D8_qAuBGIF8HlZ1MQviB2DTiUcYXvJqgnVoAxiAUKcbC_kcJ3HcLbUDYoxGAhBdXRuBtP-EICDhIroJAF5haoLmjIg4MREtsQ8X3QIAeGFNiViJgHuRPTnurcNEQ6btoMwc1r4SG7BIjnA3E3EO8Bi4B4oPS8HprKwaJAHjy8QcEHw6DghAQliIcIbkgEmIFFjIEkUA0odnCFNyShgMkmSDiAwhNkbws8VEBhgQgHkAhINTDlNPaDZUEpHyQD4uEKb5LtgSXnJmD4QON1LdSeNVjtASfnfiiGBDEoSWyABmw_2ND9QNZUSHIHFhuQaIAHLzygQEkZFI6IFA4LdZgIscl5PVQcwkJ4uhEqOgHudZA8SAeocADxt8IzwHSkgMIVvDjsgRdXQD83TiTbnlouLl07BUTZrQDkKXMBAA)]
+- [鋼琴伴奏 TMD 檔案](haha_no_omoi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2vvdx47rHjV2Pm5oeN256v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYWHDZ2yo4c9mY6JvYcdUpKD1t3_Vi5tT3e2Y9bd34fHbX06ltz5fse7ai6enMFU93TX_c0PV0ysZna3ueTZ35fPnEZ7N3KDyfMv_pvknPp6xQeLp995MdDY8bup-vWfNkR-fT3sb3e-dBGEDxlwsagQ4BSoG4u6Y8mw10V6cSyEo_Fx8Fl8z0zJLEHAXn_Jyc1OSSzPy8YoUATxcFC1MTCzMjoMaMkpKCYit9_ZQcvTwgTs_XyyrQL8hM0Yep6HzW1_ysv18hwMDQHCiXrsTF5ZGYkeiX75-bn2kVkJmYlx_k4VBjUFPNpQAENhZadmBGdW5BLZihr6XwuLkLiNuBuE3hcdNehRogqwHCA2IQbxNQfDuQngGk94NF2hS09MH6axRMFXSB0FTBMA5ImQNxjYIZVAgiBRIxBtPGCkZA0hAsApMDQQOQCNg4H0Og6Y2rwKKPG5cD8TIway5Yz-PGBVCZZVAZiOmPmyZBxacD8Q4waz5UB0wVCMYj7DECyS2E6GqaCMRNYF29UPOAiagdqgkiBbOoA2rRaiCeDGaBRBAy6BaBw3cSEHdAcRc4_FZBw7cPzOsD4kYgXgSXn01B-ILYNeBQxhW-m6CeWAHGIBYoxMH-RgrfdQhvQ9mgEIOFFFRH42484QsJOEisgEL2ceN-qC5oyIODERLbEPF90CAHhhTYlYiYB7kT057q3DREOm7aDMHNa-EhuwSI5wNxNxDvAYuAeKD0vB6aysGiQB48vEHBB8Og4IQEJYiHCG5IBJiBRYyBJFANKHZwhTckoYDJJkg4gMITZG8LPFRAYYEIB5AISDUw5TT2g2VBKR8kA-LhCm-S7YEl5yZg-EDjdS3UnjVY7QEn534ohgQxKElsgAZsP9jQ_UDWVEhyBxYbkGiABy88oEBJGRSOiBQOC3WYCLHJeT1UHMJCeLoRKjoB7nWQPEgHqHAA8bfCM8B0pIDCFbw47IEXV0A_N04k255azKLbB7noNoEW3cAoeNHX9bK992nrjpezWyHVG1L4xitEG8YqmMYDadP4WKBIjYIJkG0SC5OCeAmuEiYKCnaYJoRuck1FUYlmE8kq0Wyigon4VRpAokPXTgERI9E-QDk0ESOwiDIXAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 母のおもひ ]
+================================================================================
+⏱  Duration:       0:43 (43.6s), 16 measures total
+🎼 Key & Tempo:    首調基準 C, != 88.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  C4 in [HahaNoOmoi #1 @ m.3, 0:07]
+   - 最高音: C5 in [HahaNoOmoi #1 @ m.1, 0:01]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      HahaNoOmoi (43.6s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  G, C, E, A, D
+   - 調性數值:    C 大調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.87), E 小調 (0.78), G 大調 (0.76)
+   - 五度圈歷程:   +0
+   - 各段落調性細節:
+     • [HahaNoOmoi #1]: C 大調 (r: 0.87, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+              [C ]*
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ███████████████████       25.0%
+     C# :                            0.0%
+     D  : █████                      6.7%
+     D# :                            0.0%
+     E  : ████████████████          21.7%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : ████████████████████████  31.7%
+     G# :                            0.0%
+     A  : ████████                  10.0%
+     A# :                            0.0%
+     B  : ████                       5.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 49 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![母のおもひ — 《共益商社唱歌教科書》 巻一（生徒用） 原書掃描頁 P017.jpg](P017.jpg)
+
+

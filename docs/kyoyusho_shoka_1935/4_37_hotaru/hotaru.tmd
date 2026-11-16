@@ -1,0 +1,44 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P177"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** ほたる **
+!= 96
+?= F
+<4/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 1 - - 2 3 - 5 - |
+    L| や - - み よ - の - |
+    | 2 - - 1 6_ - - - |
+    L| そ - - ら を - - - |
+    | 2 1 6_ 5_ 6_ - 1 - |
+    L| ほ た る は す - う - |
+    | 2 - - - - - 0 - |
+    L| い - - - - - - - |
+    | 3 - - 5 6 - 6 - |
+    L| す - - う い - と - |
+    | 5 6 5 3 2 - - - |
+    L| と ー ん ー で - - - |
+    | 5 5 3 5 2 3 2 1 |
+    L| す う い と き ー え ー |
+    | 6_ - - - - - 0 - |
+    L| る - - - - - - - |
+    | 5_ - - 5_ 6_ - 5_ - |
+    L| あ - - ち ら - の - |
+    | 6_ - 1 2 3 - 5 - |
+    L| や - み ー か - ら - |
+    | 6 6 3 5 2 - - 1 |
+    L| こ ち ら の や - - み |
+    | 1 - - - - - 0 - |
+    L| へ - - - - - - - |
+}
+
+-> Main -> #

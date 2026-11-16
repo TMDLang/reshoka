@@ -1,0 +1,40 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P114"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** とんがりお山 **
+!= 96
+?= F
+<2/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 6_ 6_ 6_ 5_ |
+    L| と ん が り |
+    | 6_ 2 2 3 |
+    L| お や ま の |
+    | 3 3 5 3 |
+    L| て っ ぺ ん |
+    | 3 - 0 - |
+    L| に - - - |
+    | 3 3 5 5 |
+    L| お ほ し が |
+    | 3 5 3 1 |
+    L| ぴ っ か り |
+    | 2 3 2 1 |
+    L| ひ か っ て |
+    | 6_ - - 1 |
+    L| る - - ー |
+    | 2 3 2 1 |
+    L| ひ か っ て |
+    | 6_ - 0 - |
+    L| る - - - |
+}
+
+-> Main -> #

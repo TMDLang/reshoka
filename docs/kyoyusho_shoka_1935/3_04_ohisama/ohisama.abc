@@ -1,0 +1,16 @@
+X:1
+T:お日樣
+M:2/4
+L:1/16
+Q:1/4=100
+K:F
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c2 c2 A3 F | G6 z2 | A3 B c2 d2 | c2 c2 A4 |
+w: お ひ さ ま | は | ひ が し の | そ ら を
+G2 G2 F3 G | A6 z2 | c3 c c2 d2 | c2 c2 A4 |
+w: け さ も ま | た | う す く れ | な ゐ に
+G3 G F2 G2 | A2 c2 c4 | c3 c c2 d2 | c2 c2 A4 |
+w: き れ い に | そ め て | だ ん だ ん | あ か く
+G3 G G2 A2 | F6 z2 |
+w: ぼ か し ま | す

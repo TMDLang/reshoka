@@ -1,0 +1,139 @@
+---
+title: "來れ遊べ — 《共益商社唱歌教科書》 巻二（教師用）"
+song_title: "來れ遊べ"
+song_id: "kyoeki_shoka_kan_2_854863_1_kitare_asobe"
+collection: "kyoeki_shoka"
+volume: "kan_2_854863"
+description: "〈來れ遊べ〉收錄於明治時期東京共益商社樂器店《共益商社唱歌教科書》（巻二・教師用（NDL PID 854863）），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：來れ遊べ、我等が友よ、 のどけき春の、この野邊に、…"
+keywords: "來れ遊べ, 共益商社唱歌教科書, 巻二（教師用）, 明治時期, 唱歌教科書, 共益商社, 日本國立國會圖書館, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《共益商社唱歌教科書》 巻二・教師用（NDL PID 854863）"
+sources:
+  - "出處：共益商社樂器店《唱歌教科書 教師用 巻二》第二～三頁（第一曲）"
+  - "NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P007.jpg"
+musical_key: "D"
+meter: "4/4"
+tempo: "120"
+image:
+  - file: "P007.jpg"
+audio:
+  - id: "kitare_asobe"
+    label: "鋼琴伴奏版"
+    file: "kitare_asobe.mp3"
+  - id: "kitare_asobe_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kitare_asobe_neutrino.mp3"
+tmd_source:
+  - "kitare_asobe.tmd"
+  - "kitare_asobe_piano.tmd"
+---
+
+# 來れ遊べ
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="kitare_asobe.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kitare_asobe_neutrino.mp3"></audio>
+
+- 出處：共益商社樂器店《唱歌教科書 教師用 巻二》第二～三頁（第一曲）
+- NDL Digital Collections PID 854863（https://dl.ndl.go.jp/pid/854863）掃描 P007.jpg
+
+## 說明
+
+原書資訊與歌詞全文（NDL PID 854863《唱歌教科書 教師用 巻二》第二～三頁，掃描 P007.jpg）：
+調性與拍號：ニ調四分ノ四拍子（D 大調 4/4 拍），♩=120，「愉快ニ」
+註記：全曲十五小節，分節歌兩節；譜下配字第一節以片假名、第二節以平假名印刷。第一、四段為附點八分音符＋十六分音符節奏，第二、三段為一般音符。標題據歌詞頁作「來れ遊べ」。
+原典演奏注意：作為預習曲，應復習第一學年所學〈學びの園〉；附點八分音符與十六分音符之連結，特須使學生正確且明瞭地唱出其拍子；第一段與第二段音符之時值不同，不可混淆。
+原典曲意：「此歌は、春の野外の遊びの愉快と利益とを知らせたものである。綠一面の草、すみれ、れんげそーなどの咲きみだれてをる野邊、蝶蜂などの愉快に飛ぶ空。自然を友とし、觀察の眼を開いて、かた〴〵動植物を採集するなど、なんと樂しくはないか。」
+原典語釋：「つがひのこてふ」即二羽づれの蝶々（成對的蝴蝶）。
+
+
+## 歌詞
+
+```text
+一、
+來れ遊べ、我等が友よ、
+のどけき春の、この野邊に、
+しきつめたる、花の毛布、
+おりいだせる、草の模樣、
+植物採集、こころのまま。
+
+二、
+來れ遊べ、我等が友よ、
+たのしき春の、この野邊に、
+花にあそぶ、百千の蜂、
+花にくるふ、つがひのこてふ、
+動物採集、おもひのまま、
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="kitare_asobe.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](kitare_asobe.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](kitare_asobe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsxPzc6ML87Iz05Ugisoy88pzU21yk7MizeKtzA1sTAzRkgW55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiYI2QKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxclAq8tSizLTMlNTkNyVWlQMcjXUipKixLzi5KLMApBXEKrSU_OKUq2SMzJzUopS8-KL8_PSEZJp-UW5VsUlRfkFGZnJCOGSjFSgh_MSS0qLUtFFi1MTgWYUowsX5CTmIbkdIpiYl5mbmIMQzS_KTM_Ms8pNzczKxBJWUOny1OKS1KK8-NzUnPyUSiUuLS2FJ_vaHjf1vGzsety4U0FLi0vRVsHQyIDL3lbBhcvGRN_EDmTG0_ZdL2ZOfb9n1tPWjc9ndz2d2vZ8yb5nK5qezlzxdNf0xw1dT6dsfLa259nUmc-XT3w2e4cCkPV0x-rnU1YoPN2--8munscN3c_XrAEy3u-d92RH58sFje_3dIBEdjQ8m73p_Z5OsFP9XHwUXIAOLUnMUXCGp51ihQBPFwVI6gDqyigpKSi20tdPydHLA-L0fL2sAv2CzBR9mIrOZ33Nz_r7FUBpAigHjBMufS0FW2oBLgUFhad984G-fLG5_cWKrhcd7UCvv1g572nrimfT2oEuBHkD4WQyQ6cHzRdAfwHDH2T5i1X7nzUsB1nb3fti5nyg6OPmbqDg09mzn3a0PW7uAzKAUk_XTgC6xUXh6ZLlQEkFYFQqAEXBxvQ8mrnSFhjLQNbjhp5nLZ1P968GmvG4oRds_ordL1bMAEf2CmDkPO1tfLJrytMN_c_XNwA1AK0AMoDeedq6Eiwy-8XaOU92dL9sBdo4HRKlQPEnu5c-72x_2tj-dELv44ZGiPcg4k93boaIP-3d8LRj--OGJoguoDKQy9dtfd606-XMlpe7gSG6Gmjdy_mbn69Z9n5PN9AlT1vXwkWApj1d2g90EsRwoHZg2EG0A0170bEGogxo_rMVM18u7Hk2eRYkooDh-2TvHKDPkdM-0PNAldDIfdq649meKUDTn21e8awFaMcsoAaQsxZMeL5_EjjF9jxr73y6byWQC3H907U7nu7c8qwTxHjc0AEiGzc_blz3dM6kxw3AMJ-N6SVgFKJ56cnO7pcNi59vBcZcz_POnS8XdDzZux9o1PMp85-tXfx8EdBjU57N6Hs-b-3TORuAqQqYL5-2boNF9mxohlq3FWgyJFCAbLjJz2Y2PW3Y82RH79MJPUDzQYz-9c-2b3-2vQ3V57M3QfwMShtrlwDD7HHjemDoPpuxFOifl-19T5dMAzFAwQbyITT9NK542rESWDgAGY-bJj2fv_RxU-fjxtmPG-c_bmoCKnvcuPxxY9PjJmAya3q-bQHQoS_nLgKKv-jtBBr-uHHm48b9wNgAsYFk0-THjZMeN8593LznceOqx40rQUE5adPjxl6QssYFIDWNy4AWAQ0EOullUxdQ44u5217MAdoFVQ9z2OqXi4HO2PZ85S6g1S_aVz1v2QbU-LS_G-TURmDx1fhiecPT9fOBWp7P2QOUejkNKNUCMh_kMCB7_uOGLY8btj7tnvpsSe_zzpVANc_6Fr6c3QZyNtBHEBtBileBXb4CWDaCTG7sBwUdSBZoGsjj0CwGCegXq-a9bO-GBPTjxiWPG4Ek0IfAkAIasexx41ag6qe9m0EZZ9_ex43AAAUqWAf05OOGVmDWftYx4emG3uezWl7M3QIUBOZsUDSCjIdkJjALJYU3PuuY-HwtMFZ6QJ5v6oAqAlsJDLCJwNCFRDLYK0BHgGIbFLSNq-FKgZ4CRsGSx01AFcCYBXqq8UXXRlBor5_9dEczXF3XY5A-oLcXgBIBRB0wpoHqVix8tmIxVB0kOKFhCbV08uMmoA1AJ-0DIZiXwBmcBC-BYhPiWgJeArsemEqAETYXmEpAhdXMfU97m0FBDUxMqIr6wbENjBigYVgjDKwamE5QfQUMDKDxEKUQX4HVUV4ZQYGClj4Xlzew3gS2RwIyE_PyHWoMaqpBVijYGJpp2YFZ1blptWAGsDZ83LRWAZi1gPR-IL0GSC8C4r1A9kyFGiC5HiLavBIoCqI7gBioonkFWLYPiDuBMhuh5vQD8WqwOFC2aTNUBQjPBOJukOtA9tYoGCroAqEhlDZSMAbTxlBaF64CJmOiYAqmzaA0WEUcxJA4BXMUOWQ1ZigiplBTEbAG7B4fQ6BzG3uhYsAkA6GbeoDsJqjYXCDeCTf3cVM_Qk1TJ1QNSP0KqHgTEHcg1Deug6oBBmTjRCi7F4jXQ9V3w9VA1E-GqlmHpHcnEK_G7gMj2vsAaibYRdOp7gNwWtwOTUctQLwQ7EhQqgSmTmCqAqU3UPoC8bqgNChl7QHLgNIkSGQqUhqDpA8IBHMg6QSUHmCuhKUUmAiMD3cbXAamCqTCBIhB6dIIrAKWpkA8EISlYbQYAqcxSLjBYgkUX8DiA8ZvaoTbCgttJNXA8EV3Gyzskc1cBWchxQUwLtHVbcXuSnA6wmcqLPZA6mCmgtIWjLUN05UotkN4jxsXYnMnFpth6lDdCU4tq4DxDcRNS4B0A9ii3cippQlUdoFKtq1YU8sKMG_AUgsslcBSDar_IKmlCzkkmkA8YEUKD5kFcFuBFSuaKdhTCyTHI4fuVDgLW2pB5H90SE5qgdmOcBuWVIiUHyAqesDkJmzuhJYwINFluE2EVHnINd72x83LocljGqSwASURUDICSS2FJhJQ9QWuwkAFEijpzIMnn3noFZkxNBrRqytsVRByEgGJoSU9ZGiA4gdoCfK4qR3qVWBpCM1uoECDRSYoiYCVtWKEFIgGtqngIQlsgKCHFhYxGIxHdQ047ldCxYh2CCRJgysXaKRS4pBaLi5dOwVIe0cByFLmAgA)]
+- [鋼琴伴奏 TMD 檔案](kitare_asobe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyr-1xU8_Lxq7HjTvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGRgZc9rYKLlw2Jvomdlx1CkpP23e9mDn1_Z5ZT1s3Pp_d9XRq2_Ml-56taHo6c8XTXdMfN3Q9nbLx2dqeZ1NnPl8-8dnsHQpA1tMdq59PWaHwdPvuJ7t6Hjd0P1-zBsh4v3fekx2dLxc0Ah0AEtnR8Gz2JqDVSiBr_Fx8FFwy0zNLEnMUnPNzclKTSzLz84oVAjxdFCxMTSzMjIG6MkpKCoqt9PVTcvTygDg9Xy-rQL8gM0UfpqLzWV_zs_5-hQADA3OgXLoSF5c30MiiVKuAzMS8_CAPhxqDmmouBSCwMTTTsgOzqnPTasEMfS2Fx01rFR437wHS-4H0GiC9CIj3AtkzFWqA5HqIaPNKoCiI7gBioIrmFWDZPiDuBMpshJrTD8SrweJA2abNUBUgPBOIuxW09MH21igYKugCoSGUNlIwBtPGUFoXrgImY6JgCqbNoDRYRRzEkDgFcxQ5ZDVmKCKmUFMRsAbsHh9DoHMbe6FijxvnQ-imHiC7CSo2F4h3ws193NSPUNPUCVUDUr8CKt4ExB0I9Y3roGqAAdk4EcruBeL1UPXdcDUQ9ZOhatYh6d0JxKux-8CI9j6Amgl20XSq-wCcFrdD01ELEC8EOxKUKoGpE5iqQOkNlL5AvC4oDUpZe8AyoDQJEpmKlMYg6QMCwRxIOgGlB5grYSkFJgLjw90Gl4GpAqkwAWJQujQCq4ClKRAPBGFpGC2GwGkMEm6wWALF1-PGJTB-UyPcVlhoI6kGhi-622Bhj2zmKjgLKS6AcYmubit2V4LTET5TYbEHUgczFZS2YKxtmK5EsR3Ce9y4EJs7sdgMU4fqTnBqWQWMbyBuWgKkG8AW7UZOLU2gsgtUsm3FmlpWgHkDllpgqQSWalD9B0ktXcgh0QTiPW5sgYfMAritjxtno5mCPbVAcjxy6E6Fs7ClFkT-R4fkpBaY7Qi3YUmFSPkBoqIHTG7C5k5oCQMSXYbbREiVh1zjbX_cvByaPKZBChtQEgElI5DUUmgiAVVf4CoMVCCBks48ePKZh16RGUOjEb26wlYFIScRkBha0kOGBih-gJYgj5vaoV4FlobQ7AYKNFhkgpIIWFkrRkiB6MdNvfCQfNy4Dz20sIjBYDyqa8BxvxIqRrRDIEkaXLlAI5USh9SiNnd8kJs7JtDWDjDKX_R1vWzvfdq64-XsVkgbECkC4xWiDWMVTOOBtGl8LFAEmM9hHBMgbQIUg6rFEAdCKBNqDEwlNlOhYmhmQrnYVCLEaGoqXABFNdQENHOhZgApA0jw69opQGIg2gcojsQzAvOUuQA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 來れ遊べ ]
+================================================================================
+⏱  Duration:       0:30 (30.0s), 15 measures total
+🎼 Key & Tempo:    首調基準 D, != 120.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Kitare #1 @ m.1, 0:00]
+   - 最高音: D5 in [Kitare #1 @ m.3, 0:04]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Kitare (30.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  D, A, B, F#, E
+   - 調性數值:    D 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.88), B 小調 (0.75), A 大調 (0.71)
+   - 五度圈歷程:   +2
+   - 各段落調性細節:
+     • [Kitare #1]: D 大調 (r: 0.88, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : ████                       4.7%
+     D  : ████████████████████████  25.8%
+     D# :                            0.0%
+     E  : █████████                  9.3%
+     F  :                            0.0%
+     F# : ████████████              13.1%
+     G  : ██                         2.5%
+     G# :                            0.0%
+     A  : ██████████████████████    23.7%
+     A# :                            0.0%
+     B  : ███████████████████       20.8%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 72 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![來れ遊べ — 《共益商社唱歌教科書》 巻二（教師用） 原書掃描頁 P007.jpg](P007.jpg)
+
+

@@ -1,0 +1,28 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P187"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+~ "lyricist: 白鳥省吾"
+~ "composer: 赤尾寅吉"
+** 農村の歌 **
+!= 100
+?= C
+<2/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <16*>
+    | 0 - 3 - 5 - - 5 | 6 - - 6 1^ - - 1^ | 1^ - 2^ - 1^ - 6 - | 2^ - - 1^ 6 - 0 - |
+    L| - - ム - ラ - - ノ | ウ - - チ カ - - ラ | ア - サ - タ - ツ - | ケ - - ム ハ - - - |
+    | 0 - 2^ - 1^ - - 2^ | 1^ - - 6 5 - - 5 | 3 - - 2 3 - - 5 | 2 - 3 - 2 - 0 - |
+    L| - - イ - ツ - - モ | ヒ - - ノ デ - - ノ | サ - - キ ガ - - ケ | ニ - ー - ー - - - |
+    | 0 - 1 - 2 - - 3 | 5 - - 1^ 6 - - 5 | 6 - - 5 6 - - 2^ | 1^ - - - - - 0 - |
+    L| - - サ - ッ - - サ | ユ - - タ カ - - ナ | タ - - ヤ ハ - - タ | ヨ - - - - - - - |
+}
+
+-> Main -> #

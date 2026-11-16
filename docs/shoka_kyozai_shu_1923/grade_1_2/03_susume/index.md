@@ -1,0 +1,132 @@
+---
+title: "進め — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年"
+song_title: "進め"
+song_id: "shoka_kyozai_shu_1923_grade_1_2_03_susume"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_1_2"
+description: "〈進め〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、足並（あしなみ）揃（そろ）へて兵士（へいし）にまけず 進（すゝ）めや進（すゝ）め一二三四。…"
+keywords: "進め, 新編 小學校・公學校 唱歌教材集, 尋常科 第一、二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）"
+sources:
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+musical_key: "G"
+meter: "2/4"
+tempo: "88"
+image:
+  - file: "P014.jpg"
+  - file: "P015.jpg"
+audio:
+  - id: "susume"
+    label: "鋼琴伴奏版"
+    file: "susume.mp3"
+  - id: "susume_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "susume_neutrino.mp3"
+tmd_source:
+  - "susume.tmd"
+  - "susume_piano.tmd"
+---
+
+# 進め
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="susume.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="susume_neutrino.mp3"></audio>
+
+- 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P014.jpg–P015.jpg，原書 p. 6–7，尋常科第一、二學年第 3 首）：
+調性與拍號：ト調二拍子（G 大調 2/4 拍），♩=88
+
+
+## 歌詞
+
+```text
+一、足並（あしなみ）揃（そろ）へて兵士（へいし）にまけず
+進（すゝ）めや進（すゝ）め一二三四。
+
+二、列（れつ）を揃（そろ）へて側目（わきめ）もふらず
+進（すゝ）めや進（すゝ）め一二三四。
+
+三、姿勢（しせい）を正（たゞ）して號令（がうれい）守（まも）り
+進（すゝ）めや進（すゝ）め一二三四。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="susume.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](susume.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](susume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5uZk1mSWFSJrDkzPTPPqjQP5JISqP1aWgovGzY9bmpU0NLiUrRVsLDgsrdVcOeyMdI3sQNpfbKj4dmiuc9a-57s6HzZ3KfwfPuKxw1dz6ZtADIUnm7of7p2x7MFCx83737augbCVng6ZeOztT3Pps58NnfCy9ltjxu63-_peLpk-bO1i5_2Nj7Z1fN05xYI49mcjvd7ep5vWfRs9o4XM-crGJgbmeqaGL7f06nExaWvpWBLLcCloKDwtG8-yJrN7S9WdL3oaAc68cXKeU9bVzyb1g5y34beZ-2dCqBo1csqSH_UMBnINAUxgS6EaFUo0FMwA0qYg0Q2dD_dseP58onP16wBBtHjBrC_1u4Aeg0oomCs8HLZNKA33u-ZBbL6xar9zxqWgyzt7gX6Eyj6uLkDKAgKgu7ep2snAB3grgAMIqCYAjDkFYCiYN09j2autAXGCcgQiDUvtm1-smMZUP3jxqbHjdMfN6563LgfqPZZfzNYcO7jJpDWx407Hjcue9q69eni1WBxILcFqB4stfpx477HjRMfN4IdB4x_sIqZj5vmgqSbGh83tWAKAq0HOheYCp7Onv24oQnipF09QCc97QAa2_G4qedx4xKw2knYHdO45fnsdWCV_Y8be4FGghUDfbH1cRNQDcWO2dEJcszy_U-7F4GVAwNnNtDXUCetXQwWnP-4aR7YSUDZZcC4eLIb6GagONDxbWAvgNQ_XQdMl0DBfUDngbV3UeA2oE7KEzAUKGjpc3EFlxaDCrCAzMS8fIcag5pqkBUKNoZmWnZgFraMowBJpy8W9ihomIDy7fP1DTqg1A5O4ppYNABtAhlWo2Aar6ALhEDKEMwwBIoZg1nGCkZwEVOIIqgMSAQiB1FjAMQ1YPN8DGsUgEkXLAeMBCBeBWXvB-oBJhkIr6kXyN4BlVkGloHxWsD6IOzVYJl9UN5EIJ4FZIEcDLXNCCjf1AOVXwJkTwKzgfL47Grqh_KAMsCiEaKqCaxnK5TXiWmXMUge5rLZYJdC1E4C65wPlVmApAriM5j72pDc2oLsM6DdwDQItw1_LO_qISeWMWPUDBLvQAqaAkCBBlIGikwYXQNOFCAWjEaO5plQz8xECkaIxzBlIFECLKMWQv0Jil2oj4HsqY-bJsMlQMGHFsn0sgscybS3q5aLS9dOAZLTFVBYylwA)]
+- [鋼琴伴奏 TMD 檔案](susume_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBiaIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhViUVA8fTU3NS8EquCzMS8_PjE5OT83ILEvEyQmBKXlpbCy4ZNj5sa3-_peDl75rPO7pfde55P2PJkz5anS_vf7-lU0NLiUrRVsLDgsrdVcOeyMdI3sQMZ_2RHw7NFc5-19j3Z0fmyuU_h-fYVjxu6nk3bAGQoPN3Q_3TtjmcLFj5u3v20dQ2ErfB0ysZna3ueTZ35bO6El7PbHjd0Ay19umT5s7WLn_Y2PtnV83TnFgjj2ZyO93t6nm9Z9Gz2jhcz5ysYmBuZ6poYAp2jxMUVXFoMio4AkHeCPBxqDGqquRSAwMbQTMsOzKpRMI1X0AVCIGUIZhgCxYzBLGMFI7iIKUQRVAYkApGDqDEA4hqweT6GNQqPG5vAco8bpwPxKih7P1DP48a5EF5TL5C9AyqzDCwD47WA9UHYq8Ey-6C8iUA8C8gCORhqmxFQvqkHKr8EyJ4EZgPl8dnV1A_lAWWaGqGqmsB6tkJ5nZh2GYPkYS6bDXYpRO0ksM75UJkFSKogPoO5rw3JrS3IPgPa_bipC24bNGIwI8EMElVAChppIH-ClIHCH0bXgOMRxILRyDEzE2r_TCSfQ9yCKQMJxZbHjQuhTgNFCNSRQPbUx02T4RIgH6PFC73sAscL7e2qRc1OPsjZyQQpN8UrRBvGgmIBgwGSM4C6GknYCMgwjYeo1DYGZkMwCeaBMiWQCbJb104BYn20D1AXEs8IhWcM5ilzAQA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 進め ]
+================================================================================
+⏱  Duration:       0:21 (21.8s), 16 measures total
+🎼 Key & Tempo:    首調基準 G, != 88.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Susume #1 @ m.1, 0:00]
+   - 最高音: D5 in [Susume #1 @ m.3, 0:02]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Susume (10.9s) -> Susume (10.9s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  B, D, G, A, E
+   - 調性數值:    G 調性不明確 [相關度: 0.75, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.75), B 小調 (0.74), D 大調 (0.70)
+   - 五度圈歷程:   +1 -> +1
+   - 各段落調性細節:
+     • [Susume #1]: G 調性不明確 (r: 0.75, 自然音純度: 100.0%)
+     • [Susume #2]: G 調性不明確 (r: 0.75, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F           [G ]*
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# :                            0.0%
+     D  : ██████████████████        22.2%
+     D# :                            0.0%
+     E  : ██████                     7.4%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : █████████████████         20.4%
+     G# :                            0.0%
+     A  : █████████████████         20.4%
+     A# :                            0.0%
+     B  : ████████████████████████  29.6%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 52 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![進め — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年 原書掃描頁 P014.jpg](P014.jpg)
+
+![進め — 《新編 小學校・公學校 唱歌教材集》 尋常科 第一、二學年 原書掃描頁 P015.jpg](P015.jpg)
+
+

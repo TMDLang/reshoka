@@ -1,0 +1,28 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P242"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** 一つとや **
+!= 96
+?= C
+<2/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 6 - 6 - | 6 - 5 6 | 2^ - - - | 2^ - 2^ - | 2^ - 2^ - | 3^ - 2^ - |
+    L| ヒ - ト - | ッ - ト ー | ヤ - - - | ー - ー - | ヒ - ー - | ト - ノ - |
+    | 2^ - 3^ 3^ | 1^ - 6 - | 6 - 1^ 1^ | 6 - 1^ - | 2^ - - - | 2^ - 2^ - | 1^ - 2^ 2^ |
+    L| コ - ト ー | ヨ - リ - | ワ - ガ ー | コ - ト - | ヲ - - - | ー - ー - | ア - ヤ ー |
+    | 1^ - 6 6 | 5 - 5 6 | 1^ 1^ 6 1^ | 5 - 6 6 | 5 - 3 - |
+    L| マ - リ ー | ナ - キ ー | カ ー ト ー | カ - ヘ ー | リ - ミ - |
+    | 2 - 1 - | 2 - 3 3 | 5 - 5 5 | 3 - 3 3 | 6 - - - | 6 - 6 - |
+    L| ヨ - ー - | ア - ラ ー | オ - モ ー | シ - ロ ー | ヤ - - - | ー - ー - |
+}
+
+-> Main -> #

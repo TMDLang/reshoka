@@ -1,0 +1,140 @@
+---
+title: "モチツキ（搗麻糬） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "モチツキ（搗麻糬）"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_4_18_mochitsuki"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈モチツキ（搗麻糬）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001））（詞：葛原𦱳、曲：小松耕輔），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ペツタンコ　ペツタンコ ウントツケヨ　ペツタンコ…"
+keywords: "モチツキ（搗麻糬）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原𦱳, 小松耕輔"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+credits:
+  - "詞：葛原𦱳"
+  - "曲：小松耕輔"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
+musical_key: "D"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P068.jpg"
+audio:
+  - id: "mochitsuki"
+    label: "鋼琴伴奏版"
+    file: "mochitsuki.mp3"
+  - id: "mochitsuki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "mochitsuki_neutrino.mp3"
+tmd_source:
+  - "mochitsuki.tmd"
+  - "mochitsuki_piano.tmd"
+---
+
+# モチツキ（搗麻糬）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="mochitsuki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="mochitsuki_neutrino.mp3"></audio>
+
+- 詞：葛原𦱳
+- 曲：小松耕輔
+- 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
+
+## 說明
+
+曲目說明
+中文解釋：描寫過年或節慶時大家一起搗麻糬的熱鬧情景。
+
+
+## 歌詞
+
+```text
+一
+ペツタンコ　ペツタンコ
+ウントツケヨ　ペツタンコ
+チカラヲイレテ　ペツタンコ
+オホキナオモチヲ　ペツタンコ
+ペツタン　ペツタン　ツケヨ
+ハヤクシヤウグワツ　クルヤウニ
+
+二
+ペツタンコ　ペツタンコ
+シツカリツケヨ　ペツタンコ
+カケゴエアハセテ　ペツタンコ
+シヤウグワツモチヲ　ペツタンコ
+ペツタン　ペツタン　ツケヨ
+ハヤクシヤウグワツ　クルヤウニ
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="mochitsuki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](mochitsuki.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](mochitsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx6alFpdkliHrhorn56cgxIAWpGfmWZUkZgK9DPJ2eWJ8bmJmXk5iHlCVlpbC4-ZFj5sbHze3PG5a-35Px7MJ01_u2v1885r3ezoVtLS4FG0VDA0suOxtFVy4bIz0TexAJr9YOe_9nlkvJs5-2jf_w7KNm8HWPZu9CSj4dEP_s7n7XjRMfbFnClj4Rfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWue7Gh4unbH051bnk9ZAXQYKE70gHGiB4oTIMPAEOhCJS59LQWgxc9nr3uxatWzGX1cCgoKT3asfTat_cXyxS_bu4Euetbf_3T96peNfUCjnnVMe76-4Vnrtmczm54uWf503TagLS-2bof7-vmsludtG1-uWf6sufXZzPWPG5q4tPS5gLZwARVyPW6eBQ6o_Y-bNz9u2vy4oQFNhOtx0zIQq7kDLLrxcfMKbIqA4d20-nHzysfNmx43LXncvOZxcxtWw1Y9bp4NjJfHzV1gNiSmNmE1EomPJg3iQh0DVNf_uHnJ46b1j5u2gxnLHjdteNy8HqQCqA4o3gx0GFi8uZuL68muHqI8DTQLyAfqBDoSj7-BKoByTVseN6143AT0TP_jpt24vI7hPLr7HhTxvsCsYhWQmZiX71BjUFMNSl4KNoZmWnZgVo2CYZyCroIpEBsDsQEQ18B5hnARM7gaY7AoNm1g83wMa4D5Eej4ZqAQxP1gBoiMB2skIAtOfSDB5g4w2QIU2gikVxDWDHGAEaUOAIYrRBaUGMhyAygEQVAXGG5mYBpnMIPEjKCiEBGINgiNHKaNIBcB6ZVgJ20C8pYAaVC-I8pXIJ-ANM4GsteCWV1IMsCkCSYboYajhCbIWpD_m7aATV0BxIuAqqBJn9gwXQxxQNMyIAam2HXQkIXoBtkOcR-6C7CGHCx84OEEUQTigjAIQoVAECQE5lCQRDFEQKpArgeFDEgelDYg9gJDBu6bJWAV61HDc4DshiU4RGACwwgqAuJBTACxQAkShKHhCGWBIFpGR8QrJGZBJDRuYW6ESIFcAXPhaiTXgbTAxLuR7EHLzzS2p5aLS9dOAVRQKgBpZS4A)]
+- [鋼琴伴奏 TMD 檔案](mochitsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvOhxc-Pj5pbHTWvf7-l43DzlcRNQpO_Jni1Pl_Y_2T3j_Z5OBS0tLkVbBUMDCy57WwUXLhsjfRM7rjoFpRcr573fM-vFxNlP--Z_WLZxsxJI8NnsTUDBpxv6n83d96Jh6os9U8DCL9p3PW9c_GzqzBdNm57NaX7auubFqt7HDV3Ppm14um7W09ZJz1cvfTpl47O1PY8bup9u6H66Y8fz5ROfr1nzZEfD07U7nu7c8nzKCqALjQyMDPQMDMz0DCxMzIEMA0OgC5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMbQTMsOzKpRMIxT0FUwBWJjIDYA4ho4zxAuYgZXYwwWxaYNbJ6PYQ0w8GY9bm4GCj1u2v-4eTOYASLjwRoJyDYtgwo2d4DJFqDQRiC9grBmiAOMKHXAdpjs6sfNq8hyAygEQVAXGG5mYBpnMIPEjKCiEBGINgiNHKaNIBcB6ZVgJ20C8pYA6TWPm9uI8hXIJyCNs4HstWBWF5IMML2DyUao4SihCbIW5P-mLWBTVwDxIqCq_sdNu4m1HRimiyEOaFoGxBseN6-DhixEN8h2iPvQXYA15GDhAw8niCIQF4RBECoEgiAhMIeCJIohAlIFcj0oZEDyoLQBsRcYMnDfLAGrWI8angNkNyzBIQITGEZQERAPYgKIBUqQIAwNRygLBNEyOiJeITELIqFxC3MjRArkCpgLVyO5DqQFJt6NZA9afqaxPbXI5aQPcjlpAS8mow1jgWpBpAEmzwTGA9mAIoeqG6wOh1mm8SiSEKXYLYdYh2oYNh6GblTLwTyItWi2gyIaHCy6dgqgkIn2AQnD2EZgtjIXAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ モチツキ（搗麻糬） ]
+================================================================================
+⏱  Duration:       0:17 (17.8s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Main #1 @ m.2, 0:01]
+   - 最高音: D5 in [Main #1 @ m.1, 0:00]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Main (17.8s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  A, D, F#, B, E
+   - 調性數值:    D 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.87), A 大調 (0.72), F# 小調 (0.67)
+   - 五度圈歷程:   +2
+   - 各段落調性細節:
+     • [Main #1]: D 大調 (r: 0.87, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# :                            0.0%
+     D  : ███████████████████       25.9%
+     D# :                            0.0%
+     E  : █████                      6.9%
+     F  :                            0.0%
+     F# : ██████████████            19.0%
+     G  :                            0.0%
+     G# :                            0.0%
+     A  : ████████████████████████  32.8%
+     A# :                            0.0%
+     B  : ███████████               15.5%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 53 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![モチツキ（搗麻糬） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P068.jpg](P068.jpg)
+
+

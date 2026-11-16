@@ -1,0 +1,144 @@
+---
+title: "夕立 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年"
+song_title: "夕立"
+song_id: "shoka_kyozai_shu_1923_grade_3_4_18_yudachi"
+collection: "shoka_kyozai_shu_1923"
+volume: "grade_3_4"
+description: "〈夕立〉收錄於日治時期臺灣《新編 小學校・公學校 唱歌教材集》（尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁歌詞全文（P164.jpg，原書 p. 156）**…"
+keywords: "夕立, 新編 小學校・公學校 唱歌教材集, 尋常科 第三、四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）"
+sources:
+  - "book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）"
+  - "一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）"
+  - "尋常科第三、四學年用（第 156–157 頁）"
+musical_key: "D"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P164.jpg"
+  - file: "P165.jpg"
+audio:
+  - id: "yudachi"
+    label: "鋼琴伴奏版"
+    file: "yudachi.mp3"
+  - id: "yudachi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yudachi_neutrino.mp3"
+tmd_source:
+  - "yudachi.tmd"
+  - "yudachi_piano.tmd"
+---
+
+# 夕立
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="yudachi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yudachi_neutrino.mp3"></audio>
+
+- book: 新編 小學校・公學校 唱歌教材集（尋常科三・四學年用）
+- 一條慎三郎 編《新編 小學校・公學校 唱歌教材集》（大正十二年十二月，索書號 0725-41）
+- 尋常科第三、四學年用（第 156–157 頁）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P164.jpg–P165.jpg，原書 p. 156–157，尋常科第三、四學年第 18 首）：
+調性與拍號：ニ調二拍子（D 大調 2/4 拍），♩=100
+
+
+## 歌詞
+
+```text
+> [!NOTE]
+> **原頁歌詞全文（P164.jpg，原書 p. 156）**
+>
+> 一、ぴかぴか光（ひか）る電光（いなびかり）
+> ごろごろ鳴（な）り出（だ）す雷（かみなり）に
+> おどろきあわてゝ垣根（かきね）をくぐり
+> 鷄（にはとり）逃（に）げて飛（と）んでゆく
+> こけこここつこと飛（と）んでゆく。
+>
+> 二、ざわざわ木（き）の葉（は）がゆれだして
+> ばらばら降（ふ）りだす大雨（おほあめ）に
+> 八つ脚（あし）ひろげて威張（ゐば）つてをつた
+> 大（おほ）きな蜘蛛（くも）が逃（に）げてゆく
+> すたこらさつさと逃（に）げてゆく。
+>
+> （註：原頁 P164 第二節題號印作「一、」，對照 P165 譜下標示「1,」「2,」，實為第二節；P164 第一節作「電光（いなびかり）」，而 P165 譜下配字無濁點作「イナビカリ」或「イナピカ」之「イナビカリ」。）
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="yudachi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yudachi.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yudachi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoh6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQVJKRCvReXmJJaVEqstbM9Mw8q9I8kDtKoLZraSk8XTL1-epuBS0tLkVbBUMDAy57WwUXLhsjfRM7kF5QAFgpPJu24fn2FQpPN_Q_Xbvj2YKFj5t3P21dA2ErPJ2y8dnanmdTZz6bO-Hl7Lb3ezqebuh-umPH8-UTn-zoBCmdPRuo9OnOLc-nrHi_pxPspic7Gp4tmvustQ-o5GVznwLQ-McNXaTY87ihG2TVkuXP1i5-2tv4ZFcP0AYI49mcjvd7ep5vWfRs9o4XM-crGJgbmeqaGMLshjvv-Zo1IBc2NKK6sAMormBoavaoYbKhqbnCywWNYJ1c-loKttQCXAoKCk_75oMcuLn9xYquFx3tQM-9WDnvaeuKZ9PawYHY-6y9UwGUzvSyCtKBjgEyTUFMoN8gWhUK9BDuBIni8RjISxYKL5dNA_rl_Z5ZIPtfrNr_rGE5yObuXmAwAUUfN3cDBUEh2N37dO0EoCtcgAlkOVBMAZggFICiYN09j2autAWlFZApdgrRin7-Ia6xEI6WFtBtwCBD8w3MG-huB5oHTHognRDtwHQBdPbjxi2PG7sh5NNWoI0djxs3AdlA1Y-bul_OBqYKiGDL48ZVjxs3gxQ3dQFlIYY8bpzyuKkXQr7cvAWschVYb9fT9l1g7gIQt3Hmy9nbwVygXftBRoENedy4GmZO1-PGlWCjgKjpcVP_48Zlj5vmPp23-NmCnTCNQKm1YMMnPW4EKpgANASi_eX2FrCa1Y8b1z9uXAEx_GVDM0QQbBFQy7KXi2eDRUB543HT5MeNyx83tQGNgrkBKDIRTELQEjC5Apeuxw1NyMG5qwccnNPAbgeRz-aAUjjQ1WD7172YCAnI9WBuD8iMph5g8DxunA50GswJGx43AWVB5MuZQI1A9VshwQlWOROYRF7OhhgLFNkNDipQnoEH5NNWYBgsedEyC6ymCWg4WHYTOGhBYfB0RePTPUAzOx43TQBaBJYFehQY2EBZIGM-1Jwly-G2gNUAta96MWfGi9mQwOh_3NQE8QhmMKMG6kygmaCABPlrKtgKILkCly7UQAUqebECaP8sSEoHZ1EFUJbb1fN8fcPLhT3AzPS0d8OTvXMeN_RAE3QDMNiA-bP3eetykHpThRdr5zzZ0f1sxcznS3YBlRnqAJUAaSMQDVK6ftnzpl1wQ9_vmQ23ZUcDUABiOJ6cADHmRUMPsnUvW4HZevrzloXP9je-3D0PYsjjpiWPm7seNwMDY_Xj5lVAjc86piGJA3PRaqDgk53dWBUDwwaa8SgvFaFAQUufiyuyNCUxOSPTKiAzMS_focagphpkh4KNhRY4GhSwlcbQ8HmxsEdBwwRUjQBDSgccAKCyRxOLBqBNIMNqFAzjFMwgRI2CKZA0VdAFsoyB0AgIQWK6CgYgMbB6H8MaYCLaAsTdcBoksgki0tQN1g2MFSBeBcSbYSqauoAy8QhzjECqpgHF--E0SKQXiNcBMbDc6IEY1dQGxD1AoQVAPB2saBncKPwBsquHGgECChLkADHEEiBTgG4EOR1Cg0SAngd6GeLqmWARUIDth8uARFZjCZINQNlOOA0S2YphEoi3G4ibgDKNaCYRSCKd5ISIKRTWgEMDEh7AAAIic6RkY4ASIiA3roSGCiREQK4FRfYyMIaFCEh-LVBmElgEJD8B7N945FBpAiWnJRAzoGkAmODAZk-CmdYE1AcKNbA6iAhIDsSbDzYNb8gA2wvkhAwkNGDpA5QyCKWU1aDEDcQrkFIBzBeQrAOSmQykl4PTPiRUMNMJLA2AwmAVLOyaQOEDzTdI5mKaQyDfTCEz34BzDTR16BKVcUAenQilJ4MdCarpgYogQitICJGZ4JgG64PmHFD9BjZqKtwofIFSy8Wla6cALX6jfQxjFZC5RmCuMhcA)]
+- [鋼琴伴奏 TMD 檔案](yudachi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoh6Swoyi9LzUvMA-ouKMrMK0lNAWtHKEgty0xJBUkXJyfmxZelFmWmZaamIDkqtagY7HaIFSVFiXnFyUWZBSAPIVTlF5Vk5AMdXpBRaZWRWVySX5SZnJgTn52Yl4hQlFgE1JyempuaV2JVkJmYlx-fmJycn1uQmJcJElPi0tJSeLpk6vPV3e_3dLycPfNZZ_fL7j3PJ2x5smfL06X97_d0KmhpcSnaKhgaGHDZ2yq4cNkY6ZvYgcwHBYeVwrNpG55vX6HwdEP_07U7ni1Y-Lh599PWNRC2wtMpG5-t7Xk2deazuRNezm4DWvF0Q_fTHTueL5_4ZEcnSOns2UClT3dueT5lBdAusLuf7Gh4tmjus9Y-oJKXzX0KQOMfN3SRYs_jBpBvni5Z_mzt4qe9jU929QBtgDCezel4v6fn-ZZFz2bveDFzvoKBuZGprokhzG64856vWQNyYUMjqgs7gOIKhqZmjxomG5qaK7xc0AjWyRVZmpKYnJFpFQAK4iAPhxqDmmouBSCwsdCyAzP0tRRs0YEC2JaGFwt7FDRMQF57vr5BRwGYmEz1sgrSNbFo0NIHG1ajYBinYAYhahRMgaSpgi6QZQyERkAIEtNVMACJgdX7GNYoPG7cAsTdcBoksgki0tQN1v24sQWIVwHxZpiKpi6gTDzCHCOQqmlA8X44DRLpBeJ1QLz-cWMPxKimNiDuAQotAOLpYEXL4EbhD5BdPdQIEFCQIAeIIZYAmQJ0I8jpEBokAvQ80MsQV88Ei4ACbD9cBiSyGkuQbADKdsJpkMhWDJNAvN1A3ASUaUQziUAS6SQnREyhsAYcGpDwAAYQEJkjJRsDlBABuXElNFQgIQJyLSiyl4ExLERA8muBMpPAIiD5CWD_xiOHShMoOS2BmAFNA8AEBzZ7Esy0JqA-UKiB1UFEQHIg3nywaXhDBpg5yQkZSGjA0gcoZRBKKatBiRuIVyClApgvIFkHJDMZSC8Hp31IqGCmE1gaAIXBKljYNYHCB5pvkMzFNIdAvplCZr4B5xpo6tAlKuOAPDoRSk8GO3IyKM50oUIrSAiRmeCYBuuD5pypMKOmwo3CFyi1aKWvD3LpawItfYHeiFeINoxFZ5jGg1im8fHwfIBfJZCFRaEJAYUo8oRMNIHJwxkoCoHe1bVTgPo42gdoGjLXCMxV5gIA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 夕立 ]
+================================================================================
+⏱  Duration:       0:48 (48.0s), 40 measures total
+🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Yudachi[L1] #1 @ m.8, 0:08]
+   - 最高音: D5 in [Yudachi[L1] #1 @ m.1, 0:00]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Yudachi[L1] (24.0s) -> Yudachi[L2] (24.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  D, A, B, F#, E
+   - 調性數值:    D 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.84), B 小調 (0.73), A 大調 (0.71)
+   - 五度圈歷程:   +2 -> +2
+   - 各段落調性細節:
+     • [Yudachi[L1] #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Yudachi[L2] #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : █                          1.4%
+     D  : ████████████████████████  25.4%
+     D# :                            0.0%
+     E  : ███████████               11.3%
+     F  :                            0.0%
+     F# : █████████████             14.1%
+     G  :                            0.0%
+     G# :                            0.0%
+     A  : ████████████████████████  25.4%
+     A# :                            0.0%
+     B  : █████████████████████     22.5%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 128 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![夕立 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年 原書掃描頁 P164.jpg](P164.jpg)
+
+![夕立 — 《新編 小學校・公學校 唱歌教材集》 尋常科 第三、四學年 原書掃描頁 P165.jpg](P165.jpg)
+
+

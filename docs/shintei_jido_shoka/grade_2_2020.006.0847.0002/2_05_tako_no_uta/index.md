@@ -1,0 +1,142 @@
+---
+title: "たこのうた（風箏之歌） — 《新定兒童唱歌》 尋常科 第二學年"
+song_title: "たこのうた（風箏之歌）"
+song_id: "shintei_jido_shoka_grade_2_2020.006.0847.0002_2_05_tako_no_uta"
+collection: "shintei_jido_shoka"
+volume: "grade_2_2020.006.0847.0002"
+description: "〈たこのうた（風箏之歌）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第二學年用（臺史博 2020.006.0847.0002）），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タコタコあがれ カゼよくうけて…"
+keywords: "たこのうた（風箏之歌）, 新定兒童唱歌, 尋常科 第二學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第二學年用（臺史博 2020.006.0847.0002）"
+sources:
+  - "文部省"
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）"
+musical_key: "F"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P034.jpg"
+audio:
+  - id: "tako_no_uta"
+    label: "鋼琴伴奏版"
+    file: "tako_no_uta.mp3"
+  - id: "tako_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tako_no_uta_neutrino.mp3"
+tmd_source:
+  - "tako_no_uta.tmd"
+  - "tako_no_uta_piano.tmd"
+---
+
+# たこのうた（風箏之歌）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="tako_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tako_no_uta_neutrino.mp3"></audio>
+
+- 文部省
+- 臺灣教育會公認《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）
+
+## 說明
+
+曲目說明
+中文解釋：描寫風箏乘風飛上天空、越飛越高。
+
+原書資訊與歌詞全文（對應 P034.jpg，書頁 p. 19，第二學期第 5 首）：
+調性與拍號：ヘ調二拍子（F 大調 2/4 拍），「ゲンキニ」
+
+
+## 歌詞
+
+```text
+一
+タコタコあがれ
+カゼよくうけて
+クモまであがれ
+テンまであがれ
+
+二
+ゑだこにじだこ
+どちらもうまい
+もつとあがれ
+ぐんとあがれ
+
+三
+アレサガツタ
+ヒケヒケイトヲ
+アレマタアガツタ
+ハナセイトヲ
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="tako_no_uta.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tako_no_uta.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tako_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4o3MjAyiDcwMIs3sDAxBzIMjBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxybmZeYi6wUalZ6ZZ5Wbn5dUCvSeEpeWlsLjxvmPGyc_blz3uLENyH6_p-PlohXP1_U_2dn9bG3P-z2dClpaXIq2CoYGFlz2tgpuXDZG-iZ2ICOfTWt_2bzi-ZxGsAUv2nc9b1z8bOrMF02bns1pftq65sWq3scNXc-mbXi6btbT1knPVy99OmUj0MzHDd1PN3Q_3bHj-fKJz9esebKr5-naHU93bnk-ZQXQdlDA6gEDVg8UsECGgRHQDUpc-loKz2Zvej573YtVq57N6ONSUFB4smMt0Akvli9-2d79fs-sZ_39T9evhjl-BpDxcvHsJzu6ni5Z-XzlrscNjS-2dQFFQOTqGY8bmri09LlAxtpSC4Dc9LRv_rPZO15sbn-xoutFRzvQty9WznvaugLoUKDfnm7ofdbeqRBgYGyil1WQ_n5PD1DxywWNCgV6CoaWQC48OJ7NmQ9kK5gqvFw2Deh_oPdApr9Ytf9Zw3KQud29L2YC42rW4-YZQEGgHqDI07UTgHa4KTxdshwopgCMJgWgKFg3MMx7Hjdtety8-XHT2sfN3Y8berkgQdgAoh437X_cBJQCk41NjxuBinsgEqsfN-153NTxuLEfnD4mPm5cBpFY_7h50ePGfY8bl6PqaG4D2YImAbZrF9RIoBkLwElu9ePGGRA2WKJx5ePGhY-bOh83AbUB7QIa0QLRAeQvedy4AtWixgmPm4CGIIlCfNQJ0bPocfOax01bHzetedzcAvQaxHGTHjdthJJNSx43dzxu3oSkvHkeOAwWoWnqf9zc9bhpN4oOypMLFCiAkmFIYna-X35oSaJVQGZiXr5DjUFNNcgWBRsLLTswowaYFnQVjBVMMFi6CmZQlgEQ14BV-xjWgDI2kA8MXJAoBq8JrBMYcCBeUw-QHY_QbQQSmwiWXwBVD9IHjDEobwZU9wK4HJJuY5j5EHNrIGqh7MeNU2E2AyMV7jCE9hqgd5A9ZQzWBiJ1FQyBLCMsHu2GGjkH7JkOMLsfal0bVG4imLcM06ONK6EqFoJ1d4IdC3I-su59YF4LFo9uQjEfxAOxIbpB6kH8FWCTJ6H5k_QIBfkJ4bZ9YLOXExuh5OvGiFCYblDMoegmJUpBEQli1wCjFdOroIgCWTiZLK-SrRvs1fVQFavA6mdD2fijtJaLS9dOAZ6PFYAcZS4A)]
+- [鋼琴伴奏 TMD 檔案](tako_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOP9x4-THjeseN7YB2e_3dLzs3vN8wpYne7Y8Xdr_vLPj_Z5OBS0tLkVbBUMDCy57WwU3LhsjfRM7rjoFpWfT2l82r3g-p1EJxHvRvut54-JnU2e-aNr0bE7z09Y1L1b1Pm7oejZtw9N1s562Tnq-eunTKRufre153ND9dEP30x07ni-f-HzNmie7ep6u3fF055bnU1YAHWBkYGSgZ2BgpmdgYWIOZBgYAd2gxMUVkpid75cfWpJoFZCZmJcf5OFQY1BTzaUABDYWWnZgRo2CqYKugrGCCQZLV8EMyjIA4hqwah_DGlAAAPnAMACJYvCawDofN_aAeE09QHY8QrcRSGwiWH4BVD1I3-PG1VDeDKjuBXA5JN3GMPMh5tZA1ELZjxunwmx-3LgE7jCE9hqgd5A9ZQzWBiJ1FQyBLCMsHu2GGjkH7JkOMLsfal0bVG4imLcM06ONK6EqFoJ1d4IdC3I-su59YF4LFo9uQjEfxAOxIbpB6kH8FWCTJ6H5k_QIBfkJ4bZ9YLOXExuh5OvGiFCYblDMoegmJUpBEQli1wCjFdOroIgCWTiZLK-SrRvs1fVQFavA6mdD2fijtBYjG_sgZ2MTeDY2jFeINoxFZ5hAGQbwIDNBEkXTYBqPrJB8A0HmRJvGI6kE-kLXTgHukWgfoDpUASN0AWOwgDIXAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ たこのうた（風箏之歌） ]
+================================================================================
+⏱  Duration:       0:17 (17.8s), 16 measures total
+🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
+   - 最低音:  F4 in [TakoNoUta #1 @ m.7, 0:07]
+   - 最高音: D5 in [TakoNoUta #1 @ m.3, 0:03]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      TakoNoUta (17.8s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       C 大調（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  C, A, D, G, A#
+   - 調性數值:    C 大調 [相關度: 0.71, 穩定度: Moderate, 自然音純度: 92.9%]
+   - 候選調性 (K-S): C 大調 (0.71), A 小調 (0.67), F 大調 (0.61)
+   - 五度圈歷程:   +0
+   - 各段落調性細節:
+     • [TakoNoUta #1]: C 大調 (r: 0.71, 自然音純度: 92.9%, 調外音: A#)
+
+  [ 五度圈游移軌跡 ]
+              [C ]*
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ████████████████████████  39.3%
+     C# :                            0.0%
+     D  : ███████████               17.9%
+     D# :                            0.0%
+     E  :                            0.0%
+     F  : ███                        5.4%
+     F# :                            0.0%
+     G  : █████                      8.9%
+     G# :                            0.0%
+     A  : █████████████             21.4%
+     A# : ████                       7.1%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 32 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![たこのうた（風箏之歌） — 《新定兒童唱歌》 尋常科 第二學年 原書掃描頁 P034.jpg](P034.jpg)
+
+

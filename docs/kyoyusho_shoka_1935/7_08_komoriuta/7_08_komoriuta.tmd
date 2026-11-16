@@ -1,0 +1,24 @@
+::SCORE::
+~ "tag: collection:kyoyusho_shoka_1935"
+~ "tag: volume:kyoyusho_shoka_1935"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P239"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:source_transcription"
+~ "tag: orthography:historical_kana"
+** 子守唄 **
+!= 76
+?= D
+<4/4>
+~ "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
+
+Main:Piano@|0|{
+    <8*>
+    | 6 - 6 - 6 - 5 - | 0 6 1^ - 6 5 3 - | 3 3 5 6 1^ - 6 1^ | 5 - - - - - 0 - |
+    L| ネ - ン - ネ - ン - | - コ ロ - コ ー ロ - | ー ネ ン ー ネ - シ ー | ナ - - - - - - - |
+    | 3 - 3 - 3 - 3 - | 0 3 5 6 1^ - 6 - | 6 3 5 - 3 - 2 - | 1 - - - - - 0 - |
+    L| ネ - ン - ネ - ノ - | - オ モ ー リ - ハ - | ー ド コ - ヘ - イッ - | タ - - - - - - - |
+}
+
+-> Main -> #

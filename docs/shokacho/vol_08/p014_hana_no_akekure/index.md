@@ -1,0 +1,134 @@
+---
+title: "花のあけくれ（花的晨昏） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下）"
+song_title: "花のあけくれ（花的晨昏）"
+song_id: "shokacho_vol_08_p014_hana_no_akekure"
+collection: "shokacho"
+volume: "vol_08"
+description: "〈花のあけくれ（花的晨昏）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アカツキ イダス カネノネニ シラム サクラガ ヲカノクモ…"
+keywords: "花のあけくれ（花的晨昏）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
+sources:
+  - "出處：重音唱歌集第一 / 蓬唱ヨリ 103頁（昭2.3.25）"
+  - "《唱歌帖》（2020.006.0843）P014.jpg–P015.jpg"
+musical_key: "F"
+meter: "3/4"
+tempo: "126"
+image:
+  - file: "P014.jpg"
+  - file: "P015.jpg"
+audio:
+  - id: "hana_no_akekure"
+    label: "鋼琴伴奏版"
+    file: "hana_no_akekure.mp3"
+tmd_source:
+  - "hana_no_akekure.tmd"
+  - "hana_no_akekure_piano.tmd"
+---
+
+# 花のあけくれ（花的晨昏）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="hana_no_akekure.mp3"></audio>
+
+- 出處：重音唱歌集第一 / 蓬唱ヨリ 103頁（昭2.3.25）
+- 《唱歌帖》（2020.006.0843）P014.jpg–P015.jpg
+
+## 說明
+
+原書資訊與歌詞全文（對應 P014.jpg – P015.jpg）：
+調性與拍號：ヘ調 3/4 拍（F 大調 3/4 拍），♩=126，「爽快ニ」（二部合唱）
+註記：重音唱歌集第一 / 蓬唱ヨリ / 昭2.3.25 / つゞき 花のあけくれ 103頁
+
+
+## 歌詞
+
+```text
+一、
+アカツキ イダス カネノネニ
+シラム サクラガ ヲカノクモ
+ハナノ スガタノ ミエザルハ
+ミユルニ マサル オモヒアリ
+
+二、
+からすの はねに ゆふひさし
+そらの にほひも うすらぎて
+はなを のこして くれゆくは
+はるの まことの ながめなり
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="hana_no_akekure.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hana_no_akekure.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hana_no_akekure.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhCboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQlVJRirQWwU5iXklCEGgSemZeVYliZlAZ4GcVp4Yn5uYmQdUlaLEpaWl8KJr4-PGdY8bmx43Tnzc2P-4qef9ng6g4PNZLc9mrng2o__9nk4FLS0uRVsFQyMzLntbBTcuG2N9EzuQFU_bd72YOfX9nlkv23tfzt_8dMrGZ2t7Xs5ue75mzZMdDQr6Ci8mrwEKPm5e8bh5lYKhgfHLBY1A45_NWGukZ6xnZAo0G-zUxw1dEL1Pd0x73NANVGJkYGSgZ2BgpmdgYWIMVAaKEb2sgvRHDZOBTFMQU4mLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oINerJz3tHXFs2ntQDc93dD7rL1TAeYUBaBbQBywY4BOBAYDyIwXq_Y_a1gO0t3d-2LmfKDo4-YZQEEFYKApAMWABrkpPF2yHEUIqLnn0cyVtsAgBrIeN_Q879j7dP_qx83djxtAOp7s6nnZvOLphA5gMAFVg-1ZsfvFihnEhr2-AjzQgezHjUseN8173NiLJfqh0cQFsgNo0OOGRhDrcdOix01A97Q8bloL5Cx53NzwuGknkAUU633c3AcmuyEqtz9uXvm4eQGQtfVx03oQp2mNwuPmTWDFfWChRWCVzf2Pm7uAQkCVO4FqHjftB3Oa5z9uWvG4advjZqD6fojK-Y-bl4H53UDOPJDJzauB2lYBjXrcPAnkuuZVECfvAgYfxMmN3Y-bOh83zgR6EMhZ_7hx7eNGkKa2x41bHzduetw49XHjdIjKuWCVIGWrHzfuBkk2NQE5QJUzwTJ9jxuXQVQCjVn1uGkSkAUMtclAA4AyQA4o5MAm9wOVwFQ2dUPM3AdWuQLCWfW4EaiyEWxMF0gl5UkXChS09Lm4PBLzEv3yHbNTs0uLUq2C8wuAhUW-Q41BTTXILgUbCy07MKM6N60WzKhRMFDQBWNjBRMgzxTI0lUwA7JNgTxjINsQjI2gPF2guAmQVQMUAfGg-qBmEaVbHagAphQkoAvXbg7lmwFZCB5YhYJhHFS5MdA88m03ArsdJA6CIH_XcNWih5tjTgn2QCtADzRkw0Fs83io6RAM54IcagR2OFAIYjdYK9Q4sgwAM2AmgMIDLIBwEQzDjAdpNwOZR7YTwBwkPlIA6topoIShAlBAmQsA)]
+- [鋼琴伴奏 TMD 檔案](hana_no_akekure_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRtfFx47rHjU2PGyc-bux_3NTzfk8HUPD5rJZnM1c8m9H_uHn3y-49zydsebJny9Ol_c87O97v6VTQ0uJStFUwNDLjsrdVcOOyMdY3seOqU1B62r7rxcyp7_fMetne-3L-5qdTNj5b2_NydtvzNWue7GhQ0Fd4MXkNUPBx84rHzasUDA2MXy5oBFr4bMZaIz1jPSNToNlKIHMeN3RB9D7dMe1xQzdQiZGBkYGegYGZnoGFiTFQWYCBoYleVkH6o4bJQKYpiKnExeWRmJfol--YnZpdWpRqFZCZmJcf5OFQY1BTzaUABDYWWnZgRnVuWi2YUaNgoKALxobaxgpG2iZAEWNtUyAfJGIGFjGPBwrUgBUABcEYKGQEF9IF6wCpBPFrIJIgYSRDoZaRbbQ6WAvYbIgJujAmzGgjbXOEIMR8c7CNIGGIvRASJGYYBzbCCCgAssgsntrONgQqAAsBCVCYmMZrw6QgwV3DVYs1unyQo8sEHl0FiOgCQaBF8UAzIRjOAVJgtnG8ggmIaRqvYARVAtVNQBdQNTZdSCJYNJmBxUm2C0McFCC6dgooYaKATUCZCwA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 花のあけくれ（花的晨昏） ]
+================================================================================
+⏱  Duration:       0:24 (24.3s), 17 measures total
+🎼 Key & Tempo:    首調基準 F, != 126.0 BPM, <3/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – A4 (MIDI 69) [跨度: 7 個半音 / 0.6 個八度, 難度: easy]
+   - 最低音:  D4 in [HanaNoAkekure #1 @ m.12, 0:16]
+   - 最高音: A4 in [HanaNoAkekure #1 @ m.2, 0:01]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      HanaNoAkekure (24.3s)
+⚡ 編曲密度:        Peak 2 軌道同時演奏
+🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  F, A, E, C, G
+   - 調性數值:    F 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 99.5%]
+   - 候選調性 (K-S): F 大調 (0.84), A 小調 (0.72), C 大調 (0.65)
+   - 五度圈歷程:   -1
+   - 各段落調性細節:
+     • [HanaNoAkekure #1]: F 大調 (r: 0.84, 自然音純度: 99.5%, 調外音: B)
+
+  [ 五度圈游移軌跡 ]
+               C  
+        [F ]*          G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ████████████              14.6%
+     C# :                            0.0%
+     D  : ███                        3.1%
+     D# :                            0.0%
+     E  : ████████████              15.1%
+     F  : ████████████████████████  29.2%
+     F# :                            0.0%
+     G  : ██████████                12.5%
+     G# :                            0.0%
+     A  : ██████████████████        21.4%
+     A# : ███                        3.6%
+     B  :                            0.5%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Alto          : D4 – A4 (7 個半音 / 0.6 個八度, 58 個音符)
+  - Soprano       : F4 – F5 (12 個半音 / 1.0 個八度, 58 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![花のあけくれ（花的晨昏） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下） 原書掃描頁 P014.jpg](P014.jpg)
+
+![花のあけくれ（花的晨昏） — 《楊金土手抄唱歌帖》 第 8 冊（VIII・蓬萊唱歌集下） 原書掃描頁 P015.jpg](P015.jpg)
+
+

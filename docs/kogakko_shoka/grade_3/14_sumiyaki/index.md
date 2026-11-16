@@ -1,0 +1,149 @@
+---
+title: "すみやき（燒炭） — 《公學校唱歌》 第三學年用"
+song_title: "すみやき（燒炭）"
+song_id: "kogakko_shoka_grade_3_14_sumiyaki"
+collection: "kogakko_shoka"
+volume: "grade_3"
+description: "〈すみやき（燒炭）〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第三學年用（臺史博 2020.006.0855）），調號拍號：Bb 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　おやもすみやき子もすみやきで、 おなじしごとにせいを出す。…"
+keywords: "すみやき（燒炭）, 公學校唱歌, 第三學年用, 日治時期, 臺灣音樂史, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌》 尋常科 第三學年用（臺史博 2020.006.0855）"
+sources:
+  - "日治時期公學校唱歌（第三學年・第十四課）"
+  - "國立臺灣歷史博物館典藏"
+musical_key: "Bb"
+meter: "2/4"
+tempo: "112"
+image:
+  - file: "image.jpeg"
+  - file: "image2.jpeg"
+audio:
+  - id: "sumiyaki"
+    label: "鋼琴伴奏版"
+    file: "sumiyaki.mp3"
+  - id: "sumiyaki_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sumiyaki_neutrino.mp3"
+tmd_source:
+  - "sumiyaki.tmd"
+  - "sumiyaki_piano.tmd"
+---
+
+# すみやき（燒炭）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="sumiyaki.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sumiyaki_neutrino.mp3"></audio>
+
+- 日治時期公學校唱歌（第三學年・第十四課）
+- 國立臺灣歷史博物館典藏
+
+## 說明
+
+
+
+- 出處：臺灣總督府編《公學校唱歌》第三學年用，第十四課〈すみやき〉（燒炭），原書第 32–33 頁。
+- 調性與拍號：變ロ調（Bb 大調），2/4 拍，速度 != 112。
+- 背景與曲風：描寫深山裡的燒炭職人（すみやきをとこ）父子世代相傳、伐木截成圓木、排入炭窯燒炭，
+伴著天上流雲、林間飛鳥與裊裊青煙度日的山林生活。旋律極具特色：第一、二行皆以「前半拍八分休止符」
+弱起進入（`| 0 5_ 3_ 5_ |`、`| 0 3 2 1 |`），宛如山谷回音與揮斧伐木的呼吸律動；第三行副歌
+「すみやきをとこは山の人」則轉為正拍強起，質樸而堅定。
+- 版本說明：本檔案為原書單聲部簡譜（數字譜）之忠實數位化版本。
+
+### 編曲說明（鋼琴伴奏版）：
+
+1. 前奏 (Intro, 4 小節)：引用第三樂句正拍強起的「すみやきをとこは山の人」五聲音階主題，確立山林民謠風格。
+2. 主歌伴奏 (Sumiyaki, 12 小節 × 3 段)：當右手 (PianoRH) 在第一、二行第 1 小節以後半拍弱起進入時，
+左手 (PianoLH) 先一步在正拍敲響低音 `1_`，給予歌者清晰的拍點引導與穩健支撐。
+
+
+## 歌詞
+
+```text
+一　おやもすみやき子もすみやきで、
+おなじしごとにせいを出す。
+すみやきをとこは山の人。
+
+二　立木をたふし丸たにきつて、
+かまにならべてすみにやく。
+すみやきをとこは山の人。
+
+三　そらをいくくも木にをどるとり、
+青いけむりを見てくらす。
+すみやきをとこは山の人。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="sumiyaki.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](sumiyaki.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](sumiyaki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdGiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52cj5AuK8stS8xLzgGoKijLzSlJTwIoQClLLMlNSQdKpKZkl-UWZiTlIlqYWFYPcBLEkvqQoMa84uSizAORQhKqSjFSgy8rzi5CsBRqUnplnVZKYWZ6YF5-flpaZDDZZS0vhcePMx437Hze1PG7sfb-n43n7pOdNa9_v6VTQ0uJStFUwNDTisrdVcErisjHSN7EDmfhs-tJnm3Y_m9n0bM78p61rnq7d8WzBwqdTNj5b2wMyYM2aJzs6gYJPd2553LwbyH3a2_h09uwXqzYBTQU76emc7ueru1-073reuPjZ2u1P-zc97Z31vHPlyyUrnrbueDG9X4mLS19LwZZagEtBQeFxw4Rnszc9n73uxapVz2b0PW6YCBZt3v20fdeLmVPf75kFcc_zHXufz138dNec59tXPG7oQvPf44ZuZP89n7Li_Z4eZC8-buhADtDHDZ3IYQpU_LRv_rPZO4BaFIyNHjVMNjZWeLmg8XFDE9Q1L1btf9aw_EVH-7Pu3hcz54Octa7rcfNaoDjQIKckhadLloPZILOAEaIAVAdkvWyY_3TXMgVIfCGZ1tzzbOZ6kGmzN71cBHTrrGf9_U_Xr362fePTjRtfLF74fFYLxHEvGrc_2bULaAWK65smPW5c8bhxMtC65x3bnq6d8GTHtCe7Fz-fveNp0-bHDY1P9kx4NmfFs45VzzomPJ0zGcgGCj7rm_S0dSnQzOer1sN83gNykILCkz1bXkyc_nTJyic7up5tbXw5Gxhejc_mTX85bfLLxbNfbl4KdOqLxV1A9HLupOetM4F-AiY2oCOBrgUqez5l_rMtu4Heeza9--m-7mdLtz5t3f68c-eLTmDSmgWOmAaQq3b1vFjY83xW25PdSx839Dzt7H3a2wUMp6etq592tD3ZM_HZ2kXP1yx73NALcdXTPRtfbN3-smET0NnAEEioUTBQMI1XMI4HkTUJQBPBQsYKRgqGQD40HtfNfrqsCRSKG7Y_nT3v5fzNoGDuX_ds2nJIqIBcPXHP0wk7gC592g1MYLMhKQfotKed64FpCWI50IFYg_xx43qg4Y8b1wGjBejSp53tL_Z2Pm_a9WztYpBX9mwHOhnojBebVz1bseMF0JcLWp-um4WI-uedHc_mrIEkdlC8z1nzbNWUZws7gEZAkuDTaeteNG562bzi-YaFL9bOAXr82dQdT9dOB7M7n-zsfrp_wdP1y4CCT_b2Pu2ZBjEQZAE0O0GMAXrkxcp5T1tXPJvWDgyBJzvWghir5r1Yux6Yx4CmPt3Q-6y9UyEzNzE91UgvqyA1XUFfIcDA2BxoC9gocKQ1PG7sAoVAUxNyaABTHJrI48blwPgAuwCooXHV48YZjxunP26cAg611Y8bZz9uBJoyCZirQdqgwUE4gMHqgK6FuByUmjq2vVgGDDxoEgZnjp6na1eCMsHO-WjiL5v3AsMVlLQn9DxbsRgU9duXPtk758XmxU-7Zj_rnPysGxQ1EC3P9iwCGgI0AZ4FIS6Ah8cuYDHTACwgQdkJ5Nr5jxu3Aj35ZMcOMBvoSWAwLHncCEzB0JDofty4Dyyx6nFT5-PGnSA5iJ-BgiBv91MSEgt6n-zoBmY_aPYG53ZgpD1btxWIINkeGAbPpm55ubcLlPk7pj8FJn9w_gf5r30SUD0oQzStJT4MdnSC08RckH9A7gT7AYiagJUOOKJBgisfNwF9DgykLmhIAEsNsNKJj5saQKJNk14sA6oABgZQJzBgKEkQkLLr-cpdwCT-cnHLy8Y-oKshhRgo54MLsRfbN7_Y1QsUh5RmoFAB1pVANGc2UC-kZHva2w7MuiA1SEUcUQEDdBDldSEUKGjpc3EFl-ZmViZmZ1oFZCbm5TvUGNRUgwslGwstOzADWyWsAClngcWYgoaJwtMN_c_XN-hAsjdS7jbTxKITaCfIVNTyVcEsHoSATCBZAyxhDYHlrDGQZQSGBgo1YE0-hiBtj5tWAQu3JUC8CKjicdNOIGs-RKRpLVhkM1gOJgMUgco9bm5HmGUENqsRqLNxIRD3gnVOgopsBeLpIJHGfUDRbqjoarBILxADzWtchjDLGOKuvUAbVgLxJrBZIDvXQzDUpSAXAM0Cyj9u7gS7azUQdwDxKrBZ-MMbXKNREt7Qygsa2IaQsAaGORAhOLpAiC28u4D0DrAvtgPxFqi7u8EiuyG-BfurARonKOZAwxoUjsDwhIYj0NSmTiANjCVgWIJEZgLxfrA8MFuCRfpRzYGGMzBuQXYB7QTZtRHIWwAOQ2jIg1NDGzTkV6K5h0CaBlXN5IcxJDCxJ2pQ2EO4oASOHsxYkjE4OIGBDE7O_bBk3DwPiPuAeBJYpAMjoOHBCAxC5GS9AognA_F6sAhIDhQV64AYHGhAefSgptxNtVxcunYKsCIGbDCQr8wFAA)]
+- [鋼琴伴奏 TMD 檔案](sumiyaki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPNx4_7HTS2PG3vf7-l43j7pedPax827X3bveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoaERl72tglMSl42RvokdV52C0rPpS59t2v1sZtOzOfOftq55unbHswULn07Z-GxtD8jINWue7OgECj7duQVoMJD7tLfx6ezZL1ZtApqqBDLg6Zzu56u7X7Tvet64-Nna7U_7Nz3tnfW8c-XLJSuetu54Mb1fiYtLX0vBllqAS0FB4XHDhGezNz2fve7FqlXPZvQ9bpgIFm3e_bR914uZU9_vmQVxz_Mde5_PXfx015zn21c8buhC89_jhm5k_z2fsuL9nh5kLz5u6EAO4scNnfBQBvoeqPhp3_xns3cAtSgYGz1qmGxsrPByQePjhiaoa16s2v-sYfmLjvZn3b0vZs4HOWtd1-PmtUBxoEFOSQpPlywHs0FmASNEAagOyHrZMP_prmUKkPhCMq2559nM9SDTZm96uQjo1lnP-vufrl_9bPvGpxs3Qpz1ZNeu5x3bnq6d8GTPhGdzgH5ufNq69Pmq9UDGszmzX0yc_nLupOetM0GGbG18CTRn8eyXm5cCbQMmg-ezWp6t2PF0_bKn3fOedk99PmX-sy27EdYDgxBoMSTAga7HTGNAB4GUKigY6ik87ewFiitoeOaVFOXrKJgoPN3Q_3x9gyZQzdM9QKNXQAL-2Yqmp_1Ln61dDPT40z3bX2zdDnTE44YelFBvmvS4ccXjxsmPG9cD_fm4cR3Qk48bep_smvKicdPL-Ztfzup7smP3y4XA9NrzfNEuYGIEKns2b_qzDRNfrFkADKlnC_ZAvaGgYKSnAFQMjHyIyxU0gktzMysTszN1FAyNoK5UODxdwVjh2bqtIOc-n7rtaf_mZ53dChoBmYl5-UEemgpP50Dc3wAM1ie7el4sBKUaBUOo9ie7lz7d1_O0twvsqY1AT71s2ASMBmAeA7oQ4gwgeLp9GcJUH5CprR1AI5-tXQo0HhIkz6YC_bf_yd4-oC8VEgzjE0A-3Lrsya4OoAdeNLQ-29H6bOYGULx1977cPQ8Ysk839AHj9vnKlU8blz6bsv7ZpAkgn0OzDCS1grSunPe0dcWzae1AtU92rAUxVs17sRaYSiYCY_bpht5n7Z0KmbmJ6alGelkFqekK-goBBsbmwDgGGwX2eMPjxi5QBDU1IUcWMOWhiTxuXA4MJbALgBoaVz1unPG4cfrjxingSF39uHH240agKZOAORekDZrcCMc_WB3QtRCXgyKqY9uLZcDEuR6eE0AZdO1KUGbYOR9N_GXz3udNu4D54emEnmcrFgOD8On2pU_2znmxefHTrtnPOic_654FtAOi5dmeRUBDgCYArX-xeCFQMcQF8PDYBSxKGoDpDpTjQK6d_7hxK9CTT3bsALOBngQGw5LHjcvgIdH9uHEfWGLV46bOx407QXIQPwMFQd7upyQkFvQ-2dENygHgEuBZx6pnHRNASWvdViB6OmcyUBwYBs-mbnm5t-tZ36SnHdNBKbppLbCgAPmvfRJQPVANqDIhOgx2dILTxFyQf0DuBPsBiJqAFQs4okGCKx83AX0ODKQuaEgAiyOw0omPmxpAok2TXiwDqgAGBlAnMGAoSRDAHA6M4OcrdwGT-MvFLS8b-0A5BVzsgcq_edNfTpv8YvvmF7t6geKQghAUKsD6EIjAheWLxV1A9LS3HVIwQcpOSGFJVMAAHUR5fQcFClr6FNajIOeglMuaVvCCWUEDWv1ogiMTWIKBi1B4loFVDEuetbeDvYgoe4FVxbOV859unPpyWjdlPgZ7EewyK2hR61BjUFMNLjFtLLTswIwaBdN4EDIGkzUKZvEgBGQCyRoFI2ApDOHWAFm6QGigUMNVi2KsD3ZjDeMVog1jQVpBVI2CCZBhEgsTBlsbbQqRB1Jw9SAMtYPi2IHUTMA8iqiWgHGEqJdQIglSKwFLMUhjBqR3evfTfd2gUg9ctQClnm3qBNYFLzavAsYfqIwDV-zwyo8KsQVzJp4IwxYqCpDqE1hxKmjAkqAOpMZBqnDMNLHoBNoKiS8D3KnAEAiNgFU4KD2AICh-QJp8DEHaHjetArZnlgDxIqCKx007gaz5EJGmtWCRzWA5mAxQBCr3uLkdYZYR2KxGoM7GhUDcC9Y5CSqyFYing0Qa9wFFu6Giq8EivUAMNK9xGcIsY4i79gJtWAnEm8BmgexcD8FQl4JcADQLKP-4uRPsrtVA3AHEq8Bm4Q9vcEOFkvA2BmcvWGCDMxosNyI4sDyHHt5dQHoH2BfbgXgL1N3dYJHdEN-C_dUAjRMUc6BhDQpHYHhCwxFoalMnkAbGEjAsQSIzgXg_WB5YU4BF-lHNgYYzMG5BdgHtBNm1EchbAA5DaMiDU0MbNORXormHQJrupCiMSS_aYMGMJRmDgxMYyODk3A9Lxs3zgLgPiCeBRTowAhoejMAgRE7WK4B4MhCvB4uA5EBRsQ6IwYEGlEcPasrdBCxUUUsYrGU3sSUM3qAnVPxDGcAYiDbLRa0PSM565DgESlHoELT0SVGIEK4Qde0UwPUu2EAgBxaX0T6GsZhiRljEjOFiylwA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ すみやき（燒炭） ]
+================================================================================
+⏱  Duration:       0:12 (12.9s), 12 measures total
+🎼 Key & Tempo:    首調基準 B,, != 112.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Sumiyaki #1 @ m.1, 0:00]
+   - 最高音: D5 in [Sumiyaki #1 @ m.3, 0:02]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Sumiyaki (12.9s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  F, G, A#, C, D
+   - 調性數值:    F 調性不明確 [相關度: 0.75, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.75), A# 大調 (0.75), G 小調 (0.64)
+   - 五度圈歷程:   -1
+   - 各段落調性細節:
+     • [Sumiyaki #1]: F 調性不明確 (r: 0.75, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+        [F ]*          G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ███████████               14.0%
+     C# :                            0.0%
+     D  : ███████                    9.3%
+     D# :                            0.0%
+     E  :                            0.0%
+     F  : ████████████████████████  30.2%
+     F# :                            0.0%
+     G  : ████████████████████      25.6%
+     G# :                            0.0%
+     A  :                            0.0%
+     A# : █████████████████         20.9%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 39 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![すみやき（燒炭） — 《公學校唱歌》 第三學年用 原書掃描頁 image.jpeg](image.jpeg)
+
+![すみやき（燒炭） — 《公學校唱歌》 第三學年用 原書掃描頁 image2.jpeg](image2.jpeg)
+
+

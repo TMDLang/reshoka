@@ -1,0 +1,135 @@
+---
+title: "兎の電報（兔子的電報） — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上）"
+song_title: "兎の電報（兔子的電報）"
+song_id: "shokacho_vol_07_p237_usagi_no_denpo"
+collection: "shokacho"
+volume: "vol_07"
+description: "〈兎の電報（兔子的電報）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259））（詞：北原白秋、曲：山田耕筰），調號拍號：A 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：エッサッサ エッサッサ ピョンピョコ ウサギガ エッサッサ…"
+keywords: "兎の電報（兔子的電報）, 楊金土手抄唱歌帖, 第 7 冊（VII・蓬萊唱歌集上）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 北原白秋, 山田耕筰"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 7 冊・VII — 蓬萊唱歌集・上（2020.006.0843，P224–P259）"
+credits:
+  - "詞：北原白秋"
+  - "曲：山田耕筰"
+sources:
+  - "唱歌帖 P237 (二年 / 蓬萊唱集 37頁)"
+musical_key: "A"
+meter: "2/4"
+tempo: "120"
+image:
+  - file: "P237.jpg"
+audio:
+  - id: "usagi_no_denpo"
+    label: "鋼琴伴奏版"
+    file: "usagi_no_denpo.mp3"
+  - id: "usagi_no_denpo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "usagi_no_denpo_neutrino.mp3"
+tmd_source:
+  - "usagi_no_denpo.tmd"
+  - "usagi_no_denpo_piano.tmd"
+---
+
+# 兎の電報（兔子的電報）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="usagi_no_denpo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="usagi_no_denpo_neutrino.mp3"></audio>
+
+- 詞：北原白秋
+- 曲：山田耕筰
+- 唱歌帖 P237 (二年 / 蓬萊唱集 37頁)
+
+## 說明
+
+兎の電報（兔子的電報）
+Source: 唱歌帖 (2020.006.0843), P237.jpg
+Marginal notes: 10. / 北原白秋詩 / 二年 / 蓬 37頁 / 元気ヨク滑稽的ニ
+Key: イ調 (A major), Time: 2/4, Tempo: 元気ヨク滑稽的ニ
+
+
+## 歌詞
+
+```text
+エッサッサ エッサッサ
+ピョンピョコ ウサギガ エッサッサ
+イウビン ハイタツ エッサッサ
+タウキビ バタケヲ エッサッサ
+ヒマハリ カキネヲ エッサッサ
+リャウテヲ フリフリ エッサッサ
+ワキメモ フラズニ エッサッサ
+デンパウ デンパウ エッサッサ
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="usagi_no_denpo.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](usagi_no_denpo.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](usagi_no_denpo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJExhgzcpPi8_JLUpPz8bAwVGflFiZnxYHXFGaUI6YKi_LLUvMQ8oJLcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkF6cWFYP9AnFiSVFiHsQMoCBCVUlGKtBbiXmZuch6gUalZ-ZZlSRmAt0Fclt5YnxuYmZeTmJeihKXlpbC09a-x43rXs7e_XTBxvd7Op62Tnm6dsLzWS0wkU4FLS0uRVsFQyMDLntbBUcuGyN9EzuQ-U-nbHy2tufpjmkKoPBS0Hiyq-fpzi0K-govJq95MaELKP1ydpuCsfnLBY2aYAe9WDnv_Z5ZT3umP-2b_3zm3ufLu8HCz2ZvAglv3Ph8yoYXDVOfr92gxMWlr6VgSy3ApaBA2JsgRcGQeFRA-EzDyMDIQM_AwEzPwMLEWFMH7FW9rIJ0kHLfxCJg2CbmKIBSRLGVgqGBHtD3yP57sXIlUAQ5YCDhAVLW2vxsw_THzSseN61_tnvi8xV7ga553NwNMtg7tdJK4XHTkher9itoOCrkJmblFwHtDskERrACMPiBzNTcgnygQ_EY4lNZlJlcbAViPm5a8bi5-XHTVgiJzgcraZ7yuHn54-bNUEbTZqCqZSAlTeseN63BqqVpCUhJ82SgLqD-fjB__-PmFuyK94PNWwtUD1Q8Aczf-Lh5E3bHTHrcPA9kZPMqoPxqsLZenIpXPW5eDHZJG1hJ81SwEIjErn492LyFj5sXQRSvfNy0Cxho2BW3g8NkItB8NA6mYspTKhQoaOlzcYUWJ6Zn-uW7pOYBYzosPzkxx6HGoKYaZJGCjaGZlh2YVaNgqKALhqbxMKJGwQxEGcMJA7CgIRiC1cARdqVgk31qoH6Emg_xKoQBNg8uiykDS0xQFlBiM1gaFGyg5LcOiNfgMQLsC6j_jKHQCAhBHqgB0si-hXgO6HgggngK6CUggqg1BsqC1IM8jua3JRAHgdMjOAFDxfYD2S2EHAdRB_bQWqgZE6BiG4HsTUR6DhInhkTECQlK4V5sngTE8yBeg-QkqHN7iXEiImcBWW1AvAesC5hlIKZB6YGNxeb1UC8tBGJwfgbilUCxXUC6mwgvtkNjfyI0NaDyCXmulotL104BOasqAPnKXAA)]
+- [鋼琴伴奏 TMD 檔案](usagi_no_denpo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnja2ve4cd3L2bufLtj4fk_H09YpT9dOeD6rBSbSqaClxaVoq2BoZMBlb6vgyGVjpG9ix1WnoPR0ysZna3ue7pimEGBkbK6g8WRXz9OdWxT0FV5MXvNiQhdQ-uXsNgVj85cLGjWVQBperJz3fs-spz3Tn_bNfz5z7_Pl3WDhZ7M3gYQ3bnw-ZcOLhqnP125Q4uLS11KwpRbgUlAgwpuPGqYoBGQm5uUrOCYn5-cWJOZl5qbmlYA0B-eXFiWnWikgfKxhZGBkoGdgYKZnYGFirKkDDgK9rIJ0kHLfxKL0zLzEHIW8_JLUYisFQwM9YKgg-_vFypVAEeQAg4QTSFlr87MN0x83r3jctP7Z7onPV-wFuvJxczfIYMqDAgoUtPS5uEKLE9Mz_fJdUvMK8q3APneoMaipBlmkYGNopmUHZtUoGCrogqFpPIyoUTADUcZwwgAsaAiGYDVwhF0p2GSfGoXHTSseNzdDzX_ctBXCATLA5sFlMWWapzxuXv64eTOUBZTYDJZeBlbyuGkdEK_BYwTYF1D_GUOhERCCPFADpJF9C_Ec0PFABPEU0EtABFFrDJQFqQd5HM1vSyAOap4MxCCX9kPF9gPZLYQcB1EH9tBaqBkToGIbgexNRHoOEieGRMQJCUrhXmyeBMTzIF5rXgW0fjXUub3EOBGk53HzYkggtQHxHrCux81TIaZB6YGNxeb1UC8tBOJFUEetBIrtAtLdRHixHRr7E6GpAZVPyHO12PJpkAf2nFqdm1YL9J82rXIstlA2jdc2j9cmJayBOkDBjdAIdDGQgxr0tEy5dPIG1qjzQY46C0QZCzIeaDKEqlEwgXCAyICQLKoJUHUg58UrGEEFoGYYA5kgrWZgQ5BUY5gygO4AhppnXkkRtpRugprQow1jFaKNc2OB_GgzIBVtAmSi6UcJboR-sCMgScQESIM0uealZOal47cVZKkp1CKw9dBoRtaLw0Zg4gHZBLIZqknXTgHsUAUgAzmdgPgQA0EsZS4A)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 兎の電報（兔子的電報） ]
+================================================================================
+⏱  Duration:       0:16 (16.0s), 16 measures total
+🎼 Key & Tempo:    首調基準 A, != 120.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C#4 (MIDI 61) – C#5 (MIDI 73) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  C#4 in [UsagiNoDenpo #1 @ m.2, 0:01]
+   - 最高音: C#5 in [UsagiNoDenpo #1 @ m.5, 0:04]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      UsagiNoDenpo (16.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  C#, E, A, F#, B
+   - 調性數值:    A 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 大調 (0.85), C# 小調 (0.77), E 大調 (0.66)
+   - 五度圈歷程:   +3
+   - 各段落調性細節:
+     • [UsagiNoDenpo #1]: A 大調 (r: 0.85, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb              [A ]*
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : ████████████████████████  28.6%
+     D  :                            0.0%
+     D# :                            0.0%
+     E  : █████████████████████     25.0%
+     F  :                            0.0%
+     F# : █████████                 10.7%
+     G  :                            0.0%
+     G# :                            0.0%
+     A  : █████████████████████     25.0%
+     A# :                            0.0%
+     B  : █████████                 10.7%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Vocal         : C#4 – C#5 (12 個半音 / 1.0 個八度, 82 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![兎の電報（兔子的電報） — 《楊金土手抄唱歌帖》 第 7 冊（VII・蓬萊唱歌集上） 原書掃描頁 P237.jpg](P237.jpg)
+
+

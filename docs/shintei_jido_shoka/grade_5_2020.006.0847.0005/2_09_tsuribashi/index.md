@@ -1,0 +1,137 @@
+---
+title: "つり橋 — 《新定兒童唱歌》 尋常科 第五學年"
+song_title: "つり橋"
+song_id: "shintei_jido_shoka_grade_5_2020.006.0847.0005_2_09_tsuribashi"
+collection: "shintei_jido_shoka"
+volume: "grade_5_2020.006.0847.0005"
+description: "〈つり橋〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第五學年用（臺史博 2020.006.0847.0005）），調號拍號：E, 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　山の中、山の奧、蛇木はしげり、籐ははびこる 谷川の水は、岩にせかれて、しぶきをとばし…"
+keywords: "つり橋, 新定兒童唱歌, 尋常科 第五學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第五學年用（臺史博 2020.006.0847.0005）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）"
+musical_key: "E,"
+meter: "3/4"
+tempo: "126"
+image:
+  - file: "P046.jpg"
+  - file: "P047.jpg"
+audio:
+  - id: "tsuribashi"
+    label: "鋼琴伴奏版"
+    file: "tsuribashi.mp3"
+  - id: "tsuribashi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tsuribashi_neutrino.mp3"
+tmd_source:
+  - "tsuribashi.tmd"
+  - "tsuribashi_piano.tmd"
+---
+
+# つり橋
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="tsuribashi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tsuribashi_neutrino.mp3"></audio>
+
+- 臺灣教育會公認《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P046.jpg – P047.jpg，書頁 pp. 23–24，第二學期第 9 首）：
+調性與拍號：變ほ長調四分之三拍子（Eb 大調 3/4 拍），♩= 126
+
+
+## 歌詞
+
+```text
+一　山の中、山の奧、蛇木はしげり、籐ははびこる
+谷川の水は、岩にせかれて、しぶきをとばし
+見上げるやうながけは向きあふかなたとこなた
+蛇かごのやうな　つり橋はかゝる
+
+二　岩の角、木立の根、引きこまれたるひかへの太綱
+より合せたる　鐵線の數は幾十條
+橋のてすりも　ふみ行く道もはり金の網
+渡ればゆれる　長いつり橋
+
+三　山の中、山の奧、伐木の音は丁々とひゞき
+このもかのもに、鳴きかはす鳥の聲もかすか
+時に行きかふ木こり、炭やき、荷を肩にして
+默々と渡る　長いつり橋
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="tsuribashi.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](tsuribashi.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](tsuribashi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN403MjAyiDcwMIs3sDAxBzIMTBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx4IlC_KLkIwGmpaemWdVkphZnpgXn5-WlpkMNl5LS-Fx45LHTV3PVnYraGlxKdoqGBqZcdnbKrjqcNkY65vYgYx40b7reePiZ1Nnvmja9GxO89PWNS9W9T5u6Ho2bcPTdbOetk56vnrp0ykbn63tedzQ_XRD99MdO54vn_h8zZonu6Y8Xbvj6c4tz6eseL-nAxR6esDQ0wOFHpBhYPp-T6cSF5e-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UB3vVg572nrimfT2oGueLqh91l7p0KAgYmZXlZBusKjhskgjjmI835PD1DnywWNCgUFegpGxkA5IxOgINgvPUC_PJszH8hWsFR4uWwa0PHv98wCWfhi1f5nDctBVnX3vpg5Hyj6Yl3X48bdL6duB0o9nT37aUfbk53dT3Z0AhU8XTsB6ArXJIWnS5YDZRWAoawAFAab1vNo5kpIFICMfbKj4XFDw9ONGx83rnuyY-3jhkYI--nS5UD2i9ntz-aseNy4_nHj9MeNk4CRCBR8vnECWASINj9unPy4qRvsvg3bn26fC9T5bMMWkBzQoE0rHzeuftw4-3Fj9-OmnseNy4CCYIO2PW7sfdw06XEj0OgNQBGw_mVAtwM9BLQEqLrlcWPb48ZVjxuB2iYCjXs6AUj2Pm5sety4FWQcSGo-WP9kCBtsxOx2sNwUoCsQRjQ0wJMf2M1A0-eC3Az2_S5gcmoAO3Tdi-WTgO4Devf5aqDCdc8W7AT5Yc9UsL1AW_aB_TAf5LzGTWB7doDCacmq59s2gsx63NQBtOXphA6wj8HqGhpeTtj6fPsskHFTgarXP92572lv47NFc0EawA5aBwqWxpmgkG1qArsV6L_9LxYCrep_CQpcoI_XA2VftgMDYN3zbZvAOncsBDtmw-OmNhADYtXU7Y8bgZ6G-hUau514YvfJngng2F33cj4wItc_2dH4uKEVHKibHjfNA_ob7C2Q34HBCXQH2Lkgxmqg5pebgdEMDBlIoM58uXkpKAxBOiEqZwJJsFtngjSAPQRRvRVsJ9Bn4LTUtBYcU8Cs3viidzswUbxogqQaYDJZBtL_cvcMiKvAnsbmUaAiyvM0FCho6XNxhRSXFmUmJQLLbKuAzMS8fIcag5pqkDUKNiZadmAGtuJEAZSDdzQ8W7dVQcNM4emG_ufrG3TgZYAmFg1Ay6CGaQA1alopPG5eAhJ43DxPQaEGSPVBeF1gXtNqEA8EQFLYFDatgihcD1MItaBGwVBBF4hrFIyBtDGQNgXSBmh8UyBtBhEH6_IxhNijC7YGYguI3QV1jK5CPNQlaCqAzoC4AqwCYpYRUKSxBSTbuB4k27gOzO4Gs1fCzGqcDBZdAGYvBLPXgdlrkc0ypo678Efkrh6KIrJpx-PmxUCL9wDxHESkPG7uh0TRdkiEbYJEHzDeEDHbAZFaBuEB1YO0AQWRItMII9JANCgyQZFqFo8U20bIsQlxFShYYG4CsfuhLgIF0Saoe2CB2AEWXQZ1ClQ1UpRuAkdSL1Lk7QOb1gNmzwezu-HRCyo3wRI7kNLAVpR4nQC2pAVs4Ryw5eD0ghyDYEdBnAdxUgfYmmUwNoGYBdaQFGXRyZD42QyJH-RM2bQfElndEN4aaHyDHA9SOh8i24oUsVgzqTko_nRBAnFAyhwcw-ZADIlxUMwbQRQgZVNw2APdBHESRDvIPaAgAWcyoGtAdiLcApJphQci3DRwrK4AR8xScCSB0gLENEhaAGezxiZwRgZWdWAe2DRgPNeA1cLNAkUoMFpAkfK4eRLYLpA7IaaBsjTMxX1AvAiceRHZeRGYDUouIPPwRimw9UNZZoUWppC8CYo-UATvRip1HzcDIxMk14Yc3ZBM3DwNwlsLYgMzNCjTw-MUVsCCYgxEm0CyJDiuQeEAEgfxjYEyqFkVUnyB8yY4FEAOghVwIOdAXAMLTXDuBboE4hCQO1BjFJw5GpeAY2s22LTJSFkQUgzPArMhxTOkqAbb3jgDlEdBVBOwfQWyEjm_doENW4vkNEhxshORM8HFCTThASMcxN4IFl9ETOQCG_iU5VdIeQosWBBxBo1AaI5sWgSRAsYdSCEwwkFykDQBK4aBVTBabgXFLKz0BcUBrDRGyrSIYhk1s4IzEtBBsIgDRyEkSwLdAnEKSAUkO4ATArQIBoU2asSCi_DG6fDIBJsFje6ZYLMgMdQEFt8KFt8PFocmHqSsCo4_YMzB2BB3QbI9OIYhCbEZ7BZoBoa4cSpR2bR1LWXZFJgHQVGyEaVmXADPfYioBLoHKZtCczC0FQUto5ErVOTMCaw8IbkTkishgQCKSlguBpbQSLl0DTgQIMkZUhmBGy_QwIGUYdDAgWcQSEMFUjaDqitEZIJNgEQPpPkDjTZwJENLXlDNColksB3QBlITTCdSdCKXsOAsCIlaaNkPLgvAaiDRDIlacP0PTQgg0whUpc2YEQru5BIZocA6FFRaIoUJUrQhWlCQRNa0BRJzwLYuNH9C9MKzBnoOBdajoKYSJGtCsqgZPMsCsylQBVQAnGdR8ii0nEJEFSQCYe0nuIvgBRv-bNoEiVlIewgRgxvAetrgopA6FFLngmIaxAaVxKhFLqQ22A62CV4DgAtTWGMJmQ0pbMBsaJoDup1QRl0NjldTMuMV2HwDJzmkQg4Rr9B8C8qVSJkTGJEgOXhrCqmYNcEoZmFZERx16DEHtBxkN2b5Co4CaMQhSjcoCykTYgl8cNWJyIKgaIOITseIHEhpC66ewVU4xBZwdQp0FYgNauEiKm2Q7louLl07BUS3UwHIU-YCAA)]
+- [鋼琴伴奏 TMD 檔案](tsuribashi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuORxU9ezld3v93S87N7zfMKWJ3u2PF3a_7yz4_2eTgUtLS5FWwVDIzMue1sFVx0uG2N9EzuuOgWlF-27njcufjZ15oumTc_mND9tXfNiVe_jhq5n0zY8XTfraeuk56uXPp2y8dnanscN3U83dD_dseP58onP16x5smvK07U7nu7c8nzKCqCdRgZGBnoGBmZ6BhYm5kCGgSnQWiUurpDi0qLMpMTijEyrgMzEvPwgD4cag5pqLgUgsDHRsgMz9LUUbNGBAsiOHQ3P1m1V0DBTeLqh__n6Bh2FAAMTM72sgnRNLBq09MGG1SgYKugCcY2CMZA2BtKmQNoAjW8KpM0g4mBdPoY1Co-blwBFHjfPA8o9bu4Ds7tA7KbVQHY8WBRDRdMqsIr1EBUQs4yAIo0tINnG9SDZxnVgdjeYvRJmVuNksOgCMHshmL0OzF6LbJYxddyFP5x39ZAXzkYY4QmiQeEMCm-zeKSIMEIO6KYdj5sXg108B-7Kx839YPZ2sOs3gX2yCu6_DrDoMjC7H6YaKbQ3gcOvFylc94FN6wGz54PZ3fCQ3wSKDJDEDqTo2YoS5BPAlrSALZwDthwclciBC3YUxHkQJ3WArVkGYxMI9B2dlCRuc1Dg6oIE4oCUOTj4zYEYEh2gaDGCKEBK3uCAadoMdjEo6YC0P27aD3YvOHE2rQH7BeRLkJr5YJlWuA_hpoGDfAU41JaCQxAUURDTIBEFTp6NTeAM8LhxNpgHNg0YCTVgtXCzQKENDDNQiD1ungS2C-ROiGmgrABzcR8QLwInekQ2WARmg-ISZB7e8H46ezY54Q0rNEChCaJNIGkZHA8gN4LEQXxjoAxqGodkSXCiBrvwcdNueKZ93LwGLN4G9yk42TdPg_r6cTMoQSOHNjhVNS4Bh-RssGmTMYqWWWA2pMiBFD9g2xtngBI3iGpqf9wIshI5oXeBDVuL5DRIPtyJSNLgfAhNFMDIALE3gsUXERPwwJqC3ICHlSqgIIKVMkjpHVHcoKZzcBoE5mBYuIJDGJKam8ApBli8gFRAUhI4nqBFCygwUMMdXDQ1ToeHNdgsaGzMBJsFCcAmsPhWsPh-sDg0bpFSOTh4gQELY0PcBckx4AiApJNmsFugaR_ixqlEpfDWteQENHLKBhbZkKQNSdIQJ4ICGpYFgEUPUhJfA3YiJC1AikBwbQZ1OiRzQp0OT12QmgtS6IAKSURQg02ABB6kPoQGKjgKoEUKqDyHRAHYDmiN2QTTiRTYyEUHOP1CAh5aqIEzElgNJBIgAQ-udaDRBDKNQAHejBnc5gSDG1hwgypOSIKGJGwzeEIHJm6gCqgAOKWjpGxo5kMEISRgYbUpJLE0bQErghTheBN3EyTEIbUjImQ3gPW0wUUhhTakkAfFAKx4QS1HIEXcdrBN8GINXELAqk5kNiSLgtnQtAB0O6HkvRoc3qakhTeoYEYvR2CpGRzK6IEMrPRBKQazAAGHFjSMEdkXykJKx1jCCVx0I1IxKIQhotMxwhFSnICrB3AVArEFXJwDXQVig5omiEoDpLsWs6Htg6Oh_WLP1OezO55NmPZs9uYnO7tBrZDu3qdrJzydM_lFx7xnszc93dMP6Tq839PzrL__-c5V0D7C9o1PN258OWHr8-2znk4AdTWetfS_2LgQqWkSrxBtGAvG2DmgRiFuRSZAjglYEUHzoEoxDDeLB7LN4nOBUmASGNsgEdN4oACIwGoymhK4JIQHswqI8esjxmiYYagWYVVKhOm4nYbdC5i2Qk3F5UwUg7G4GSUaEIbgMRlXWGP6B59K0gIDh0mgdAbMN7p2CoisE-0DlEATMcIQMQaLKHMBAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ つり橋 ]
+================================================================================
+⏱  Duration:       1:07 (67.1s), 47 measures total
+🎼 Key & Tempo:    首調基準 E,, != 126.0 BPM, <3/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – D#5 (MIDI 75) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Tsuribashi #1 @ m.11, 0:14]
+   - 最高音: D#5 in [Tsuribashi #1 @ m.15, 0:20]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Tsuribashi (67.1s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D# 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  G, D#, A#, C, F
+   - 調性數值:    D# 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D# 大調 (0.84), C 小調 (0.75), A# 大調 (0.73)
+   - 五度圈歷程:   -3
+   - 各段落調性細節:
+     • [Tsuribashi #1]: D# 大調 (r: 0.84, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+     [Eb]*              A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ███████████████████       16.7%
+     C# :                            0.0%
+     D  : ███████                    5.8%
+     D# : ██████████████████████    18.8%
+     E  :                            0.0%
+     F  : █████████████████         14.5%
+     F# :                            0.0%
+     G  : ████████████████████████  21.0%
+     G# : █████                      4.3%
+     A  :                            0.0%
+     A# : ██████████████████████    18.8%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : C4 – D#5 (15 個半音 / 1.2 個八度, 88 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![つり橋 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P046.jpg](P046.jpg)
+
+![つり橋 — 《新定兒童唱歌》 尋常科 第五學年 原書掃描頁 P047.jpg](P047.jpg)
+
+

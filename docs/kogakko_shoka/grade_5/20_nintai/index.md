@@ -1,0 +1,139 @@
+---
+title: "忍耐 — 《公學校唱歌》 第五學年用"
+song_title: "忍耐"
+song_id: "kogakko_shoka_grade_5_20_nintai"
+collection: "kogakko_shoka"
+volume: "grade_5"
+description: "〈忍耐〉收錄於日治時期臺灣《公學校唱歌》（尋常科 第五學年用（國臺圖 523.37 4322-4））（詞：文部省、曲：文部省），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：野を流れての末つひに、 海となるべき山水も、…"
+keywords: "忍耐, 公學校唱歌, 第五學年用, 日治時期, 臺灣音樂史, 五線譜, TMD, 文部省"
+schema_type: "MusicComposition"
+is_part_of: "《公學校唱歌》 尋常科 第五學年用（國臺圖 523.37 4322-4）"
+credits:
+  - "詞：文部省"
+  - "曲：文部省"
+sources:
+  - "臺灣總督府《公學校唱歌》第五學年用（昭和十一年一月，索書號 523.37 4322-4）"
+musical_key: "D"
+meter: "4/4"
+tempo: "84"
+image:
+  - file: "P052.jpg"
+  - file: "P053.jpg"
+audio:
+  - id: "nintai"
+    label: "鋼琴伴奏版"
+    file: "nintai.mp3"
+  - id: "nintai_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nintai_neutrino.mp3"
+tmd_source:
+  - "nintai.tmd"
+  - "nintai_piano.tmd"
+---
+
+# 忍耐
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="nintai.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nintai_neutrino.mp3"></audio>
+
+- 詞：文部省
+- 曲：文部省
+- 臺灣總督府《公學校唱歌》第五學年用（昭和十一年一月，索書號 523.37 4322-4）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P052.jpg–P053.jpg，原書 p. 48–49，第 20 首）：
+調性與拍號：ニ長調（D 大調，2 個升記號）4/4 拍子，♩= 84
+
+
+## 歌詞
+
+```text
+一
+野を流れての末つひに、
+海となるべき山水も、
+しばし木の葉の下くゞるなり。
+見よ、しのぶなり、山水も。
+
+二
+身にふりかゝるうき事の、
+なほこの上につもれかし。
+かぎりある身の力ためさん。
+いざ、こゝろみん、身の力。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="nintai.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nintai.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nintai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKzk9PzM7Ojy_OyM9OVIKrKMvPKc1NtUovSkxJjTdFiBfnlxYlp1oVJ2fk5-fEl6RWlCTl52ejy8cXJKanWgUYmBohZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuRhqRUlRYl5xclFmAcgbCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmIfmuJCMV6Lnc_KLEHHTB1Nx8dAMz0zPzgIrzkkqBgaTEpaWl8HR_74uGCQpaWlyKtgoWJlz2tgouXDYm-iZ2IG0vVs57v2fWs2ntL5tXPJ_TCDbq2exNGGIv2nc9b1z8fMfe53MXP90153FD19PWNU_X7ni2YOHTKRufre153ND9fM2aJ7umAAWf7tzyfMqK93s6ns1Y-3RSz9Pexic7GoCCQPLZnI73e3qeb1n0bPaOFzPnK5gaGesZmyuYGBsZ6Zq839OpxMWlr6VgSy3ApaCg8LRvPsiyze0vVnS96GgHuhXo6aetK4AeBDrx6YbeZ-2dCqD418sqSH_UMBnINAYxge6EaFUo0FMwsQDKmFiC3L5mjYKRgcLLZdOAzgWGE8iKF6v2P2tYDjK8uxfoK6Do4-bul1O3A8WBVrgoPF2yHMzsMVJ42tD9tBfolBlgdZ3AeFAAanq6dgJQ9tHMleAoAhkJDCsQ9bK973HTpGdbGx839TxuXPa4cd2zOasfNy553LjpcePqxw2NIEXPtm5_3LjiceOqx03djxt3Pm7sfbpx47MNWx43NUFVPG6c_rhxA5B8Ngeobt2LiZ1A8skOoOr-x03zwNqAmrseNzSBvbOs-3FTB1ArWNu6x43bYNKNSAY3Qdy5qwesZRfQVUC0FaSsEah9LtjQNqBbnuwCMtbBHbLqcePux42TwfYDlYI9AzQO5D2guulQJ4A5QK8DVQDlusHGr3vaNftx4_zHTUB3TX3cNBmutOVx4zSwayeD7e193LgfLN2I0AZRSnmCggIFLX0uLj9gyZCYaRWQmZiX71BjUFMNskLBxkLLDszAlo4VQHlkR8OLhT0KGiYKTzf0P1_foANPfJpYNAAtAhlWo1Cdm1arYKygC4RGCoZAbKxgAhQ2BYuYQWldoIghVI0xXI0RVA4EDUBqwEb6GNYoPG7uA4s-bt4ExF0gVtMasCmPm0E0SKYNrgos3rQTIt60AijeAlYxCaqjG8meeIQ9RkC5xv0QXY2rgXgrWD_INpAMRBeIBkY0wp7GNqh4LxBPBrNWQGXWYdiDP8B39ZAT4OSFNUwOS1g3LYOG6Hwg7gCzoGHQvBoqMxOoai0iDJqXQMXngXWBWK1QmUV4wnoVNOR2w0MOFGLIYboDHBOIsIba09QExD3Q2IDITCcxrHd0kpW4gWnbMA5qjTkU1wCDGhHgJmARpFwACnNI3MBSOIiNGerbocY-bp4A9iOIDxLfDBXtA-J-KAsiA9HxuGk_EK8HszagxVMXEINCGT3kYekXWHaB9cHSeBPURGAaB-cERIwshKoHpf5OMAsUzyBXNEJlpgLZoFgkIvSfzp5NXtFSUAsNa12kxG0GihJzlPQODn5YhoBlEFg2wJrowckWEmig7AtNcMAghgT8NKTARE70oCQPySoQva0EEz2oKIIE2DSEWcDkD8ZNoEIEFJ2ggITJISICORpArgNFBKo9tVxcunYKkBJfAchS5gIA)]
+- [鋼琴伴奏 TMD 檔案](nintai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6v_dFw4T3ezpedu95PmHLkz1bni7tf97Z8X5Pp4KWFpeirYKFCZe9rYILl42JvokdV52C0ouV897vmfVsWvvL5hXP5zQqgcSezd6EIfaifdfzxsXPd-x9Pnfx011zHjd0PW1d83TtjmcLFj6dsvHZ2p7HDd3P16x5smsKUPDpzi3Pp6wAuuPZjLVPJ_U87W18sqMBKAgkn80Buqbn-ZZFz2bveDFzvoKpkbGesbmCibGRka4J0J1KXFyeeSVF-VYBmYl5-UEeDjUGNdVcCkBgY6FlB2bUKFTnFtQqmCnogqEplK4BihjGKZgDKYRQdW5arYKhgpGCsYIJEIMEjYDChlAFIGgAUshVi2KvD7K9Jqj2msQrRJvEKhgCKcNYoCCQbxofj-CDrUQSNI0HiUKlQdgAYp1fZl5JYiYBfwKNgrka5osaqPeQvQnxD0gepsYIw4cgI30MaxQeN_eBRR83bwLiLhCraQ3YlMfNIBok0wZXBRZv2gkRb1oBFG8Bq5gE1dGNZE88wh4joFzjfoiuxtVAvBWsH2QbSAaiC0Q_boKZABJvg4r3AvFkMGsFVGYdhj3QMCIveGByWIKnaRk0EOYDcQeYBXV282qozEygqrUIZzcvgYrPA-sCsVqhMovwBM8qqGd3wz0L8iRyMOwABx4ieKD2NDUBcQ80ACEy03EFTzUo_cdBZcyhGJRVEGFkAhZBSmugYIIEJywdgdiYAbUdauzj5glgZ4H4IPHNUNE-IO6HsiAyEB2Pm_YD8XowawNa0HYBMShg0AMLlkoeN4LMQqSkJqiJwJQETm-IQFwIVQ9KY51gFihqQK5ohMpMBbJBAY8aYNQvWxA5D-QCiD9B6RoarcBQgYTVNCT_IyctUMKCJEiI3laCSQuURyF-nIYwC5jIwLgJlLtAMQDyO0wOEXbIIQdyHSjsUO1BK7xwFJbQEg9IgUpCOB_EQS0T4SrgUmACVEySaxJaaYtiDJI2pKLcNN4cySCgBJCF5CIgD2EQoRqAiMJf104BXN0oABmQsIz2Acoi8YzAPGUuAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 忍耐 ]
+================================================================================
+⏱  Duration:       0:45 (45.7s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 84.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Nintai #1 @ m.1, 0:01]
+   - 最高音: D5 in [Nintai #1 @ m.9, 0:22]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Nintai (45.7s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       A 調性不明確（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  A, F#, E, D, B
+   - 調性數值:    A 調性不明確 [相關度: 0.84, 穩定度: Ambiguous, 自然音純度: 94.2%]
+   - 候選調性 (K-S): A 大調 (0.84), D 大調 (0.84), F# 小調 (0.70)
+   - 五度圈歷程:   +3
+   - 各段落調性細節:
+     • [Nintai #1]: A 調性不明確 (r: 0.84, 自然音純度: 94.2%, 調外音: G)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb              [A ]*
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : ████                       4.2%
+     D  : █████████████████         17.5%
+     D# :                            0.0%
+     E  : ██████████████████        18.3%
+     F  :                            0.0%
+     F# : ██████████████████        19.2%
+     G  : ██████                     5.8%
+     G# :                            0.0%
+     A  : ████████████████████████  25.0%
+     A# :                            0.0%
+     B  : ██████████                10.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 62 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![忍耐 — 《公學校唱歌》 第五學年用 原書掃描頁 P052.jpg](P052.jpg)
+
+![忍耐 — 《公學校唱歌》 第五學年用 原書掃描頁 P053.jpg](P053.jpg)
+
+

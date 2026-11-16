@@ -1,0 +1,16 @@
+X:1
+T:臺灣軍の歌
+M:2/4
+L:1/16
+Q:1/4=112
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 c e2 d2 | c3 A G2 E2 | D3 C D2 E2 | G6 z2 |
+w: ノ ー ボ ル | ア サ ヒ ニ | ク モ ハ レ | テ
+A3 c A2 G2 | E3 D E2 G2 | A3 G E2 D2 | C6 z2 |
+w: ヤ シ ハ ヒ | ー カ ル ミ | ナ ミ ノ ー | ー
+c3 c c2 c2 | c2 d2 e2 e2 | d3 c A2 c2 | G6 z2 |
+w: ヘ イ ワ ノ | シ ー マ ニ | ア ダ ナ ミ | ヲ
+c3 c G2 E2 | D3 C D2 E2 | G3 G A2 G2 | c6 z2 |
+w: ヨ セ ジ ト | マ ー モ ル | タ イ ワ ン | グン

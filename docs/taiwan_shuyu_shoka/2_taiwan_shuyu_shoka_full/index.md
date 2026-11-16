@@ -1,0 +1,833 @@
+---
+title: "臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊）"
+song_title: "臺灣周遊唱歌（完整版・全九〇節）"
+song_id: "taiwan_shuyu_shoka_taiwan_shuyu_shoka_2_taiwan_shuyu_shoka_full"
+collection: "taiwan_shuyu_shoka"
+volume: "taiwan_shuyu_shoka"
+description: "〈臺灣周遊唱歌（完整版・全九〇節）〉收錄於日治時期臺灣《臺灣周遊唱歌》（明治四十三年初版／大正元年八版（國臺圖 0786 10））（作詞：宇井英、作曲：高橋二三四），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一（1） 國光（こくこう）四海（しかい）にかゞやきて…"
+keywords: "臺灣周遊唱歌（完整版・全九〇節）, 臺灣周遊唱歌, 明治四十三年／大正元年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 宇井英, 高橋二三四"
+schema_type: "MusicComposition"
+is_part_of: "《臺灣周遊唱歌》 明治四十三年初版／大正元年八版（國臺圖 0786 10）"
+credits:
+  - "作詞：宇井英"
+  - "作曲：高橋二三四"
+sources:
+  - "臺北新高堂書店《臺灣周遊唱歌》（明治四十三年二月廿日初版／大正元年十二月十八日八版，國臺圖 0786 10）"
+musical_key: "F"
+meter: "2/4"
+tempo: "120"
+image:
+  - file: "P004.jpg"
+  - file: "P005.jpg"
+  - file: "P006.jpg"
+  - file: "P007.jpg"
+  - file: "P008.jpg"
+  - file: "P009.jpg"
+  - file: "P010.jpg"
+  - file: "P011.jpg"
+  - file: "P012.jpg"
+  - file: "P013.jpg"
+  - file: "P014.jpg"
+  - file: "P015.jpg"
+  - file: "P016.jpg"
+  - file: "P017.jpg"
+  - file: "P018.jpg"
+  - file: "P019.jpg"
+  - file: "P020.jpg"
+  - file: "P021.jpg"
+  - file: "P022.jpg"
+  - file: "P023.jpg"
+  - file: "P024.jpg"
+  - file: "P025.jpg"
+  - file: "P026.jpg"
+  - file: "P027.jpg"
+audio:
+  - id: "taiwan_shuyu_shoka_full"
+    label: "鋼琴伴奏版"
+    file: "taiwan_shuyu_shoka_full.mp3"
+  - id: "taiwan_shuyu_shoka_full_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taiwan_shuyu_shoka_full_neutrino.mp3"
+tmd_source:
+  - "taiwan_shuyu_shoka_full.tmd"
+  - "taiwan_shuyu_shoka_full_piano.tmd"
+---
+
+# 臺灣周遊唱歌（完整版・全九〇節）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="taiwan_shuyu_shoka_full.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taiwan_shuyu_shoka_full_neutrino.mp3"></audio>
+
+- 作詞：宇井英
+- 作曲：高橋二三四
+- 臺北新高堂書店《臺灣周遊唱歌》（明治四十三年二月廿日初版／大正元年十二月十八日八版，國臺圖 0786 10）
+
+## 說明
+
+曲目說明與原書資訊（對應 P004.jpg–P027.jpg，原書樂譜頁及歌詞第 1～23 頁全頁）：
+- 書名：《臺灣周遊唱歌》（國立臺灣圖書館「日治時期圖書影像系統」典藏號 jpli2011-bk-sxt_0786_10_1912，索書號 0786 10，杉浦和作舊藏寄贈）
+- 作歌：宇井英（臺北石坊街一丁目十一番戶）
+- 作曲：高橋二三四
+- 發行：明治 43 年（1910 年）2 月 20 日初版、大正元年（1912 年）12 月 18 日八版，臺北新高堂書店（村崎長昶）發兌，定價金八錢
+- 調性與拍號：ヘ調（F 大調，五聲音階ヨナ抜き長音階）2/4 拍子，♩= 120
+- 版本說明：本頁為「完整版（全九〇節）」，將全書 90 節環島歌詞（共 1,440 小節、全長約 24 分鐘）完整對位展開並合成全曲鋼琴伴奏與 NEUTRINO 歌聲，同時附上原書樂譜頁與 23 頁歌詞全文掃描圖檔（P004.jpg–P027.jpg）。若僅需瀏覽單頁 16 小節精簡五線譜，請見「簡單版（第一～四節）」。
+
+編曲說明：
+- 以明治時期鐵道唱歌／地理唱歌輕快昂揚之進行曲風格（♩= 120）編配 4 小節前奏與全 90 節（共 1,444 小節、約 24 分鐘）雙手鋼琴伴奏。
+
+
+## 歌詞
+
+```text
+一（1）
+國光（こくこう）四海（しかい）にかゞやきて
+東亞（とうあ）の空（そら）に覇（は）をなせる
+我（わ）が日（ひ）の本（もと）の新領土（しんりようど）
+臺灣島（たいわんとう）をさぐり見（み）ん
+
+二（2）
+南北（なんぼく）長（なが）さ一百里（ぴやくり）
+めぐりは二百（ひやく）九十餘里（より）
+小島（こじま）あはせてその廣（ひろ）さ
+九州島（きゆうしゆうとう）とほゞひとし
+
+三（3）
+山（やま）に金銀（きんぎん）海（うみ）に鹽（しほ）
+製茶（せいちや）製糖（せいとう）果實類（かじつるい）
+水田（みづた）に稻（いね）は二度（ど）みのる
+げに帝國（ていこく）の無盡藏（むじんぞう）
+
+四（4）
+基隆港（きいるんこう）のあさぼらけ
+登（のぼ）る朝日（あさひ）のてりそひて
+輝（かゞや）き渡（わた）るそのながめ
+フオルモサの名（な）も徒（たゞ）ならず
+
+五（5）
+最北門（さいほくもん）の鎖鑰（さやく）にて
+母國（ぼこく）に渡（わた）る唯一（ゆいいつ）の
+要津（ようしん）なれば朝夕（あさゆふ）に
+出船（でふね）入船（いりふね）たえまなし
+
+六（6）
+いざや西部（せいぶ）をめぐらんと
+汽笛（きてき）一聲（いつせい）すゝみ行（ゆ）く
+八堵（はつと）七堵（しちと）の次（つぎ）は五堵（ごと）
+水返脚（すいへんきやく）の小市街（しようしがい）
+
+七（7）
+附近（ふきん）の山（やま）に石炭（せきたん）の
+多（おほ）く出（い）づるを語（かた）りつゝ
+南港（なんこう）錫口（しやくこう）たちまちに
+はや臺北（たいほく）に著（つ）きにけり
+
+八（8）
+四面（しめん）は山（やま）にかこまれて
+地勢（ちせい）京都（きようと）にさも似（に）たり
+おのづからなる城壁（じようへき）は
+げに萬世（ばんせい）のかためなり
+
+九（9）
+君（きみ）が御稜威（みいつ）に高砂（たかさご）の
+浦回（うらわ）の風（かぜ）もをさまりて
+こゝに開（ひら）けし總督府（そうとくふ）
+文武（ぶんぶ）の機關（きかん）そなはれり
+
+一〇（10）
+市街（しがい）の規模（きぼ）は宏大（こうだい）に
+道路（どうろ）平坦（へいたん）砥（と）の如（ごと）く
+下水工事（げすいこうじ）に至（いた）るまで
+水（みづ）もゝらさぬたくみなり
+
+一一（11）
+幾百年後（いくひやくねんご）の膨脹（ぼうちよう）を
+かねてはかりて定（さだ）めたる
+市區改正（しくかいせい）のをゝしさよ
+想（おも）ひやるだにたのもしや
+
+一二（12）
+支線（しせん）に乘（の）りて圓山（まるやま）の
+臺灣神社（たいわんじんしや）をがみつゝ
+基隆川（きいるんがは）をうちわたり
+昔（むかし）をしのぶ劍潭寺（けんたんじ）
+
+一三（13）
+夙（つと）に學者（がくしや）の淵叢（えんそう）と
+稱（とな）へられたる士林（しりん）には
+遭難（そうなん）六氏（ろくし）の碑石（ひせき）あり
+芝山巖頭（しざんがんとう）香（か）をとゞむ
+
+一四（14）
+硫黄（ゆわう）を出（いだ）す北投（ほくとう）は
+音（おと）に聞（きこ）ゆる溫泉場（おんせんば）
+浴（ゆあ）みする人（ひと）遊（あそ）ぶ人（ひと）
+常（つね）に絕（た）えずと聞（き）くぞかし
+
+一五（15）
+左（ひだり）に高（たか）きは大屯山（だいとんざん）
+右（みぎ）に低（ひく）きは紗帽山（しやぼうざん）
+群（むらが）る山（やま）のその奧（おく）に
+秀（ひい）でゝ見（み）ゆる七星山（しちせいざん）
+
+一六（16）
+江頭（かんたう）すぎて川（かは）ぎしに
+沿（そ）ひつゝ行（ゆ）けば淡水港（たんすいこう）
+河畔（かはん）の丘（をか）にいかめしき
+建物（たてもの）多（おほ）く聳（そび）えたり
+
+一七（17）
+屋上（おくじよう）高（たか）くひるがへる
+同盟國（どうめいこく）の旗（はた）じるし
+問（と）はぬ先（さき）にも知（し）られたり
+大英國（だいえいこく）の領事館（りようじかん）
+
+一八（18）
+三百年（びやくねん）のそのむかし
+萬里（ばんり）の波（なみ）を凌（しの）ぎ來（き）て
+武威（ぶい）を振（ふる）ひしイスパニア
+サンチアゴ城（じよう）此處（こゝ）に建（た）つ
+
+一九（19）
+後（のち）にオランダ來（きた）りしが
+鄭氏（ていし）代（かは）りてこれに據（よ）る
+榮枯（えいこ）はうつる世（よ）のならひ
+英雄（えいゆう）のあと今（いま）いづこ
+
+二〇（20）
+樓（ろう）に登（のぼ）りて見渡（みわた）せば
+舳艫（じくろ）つらねてうち集（つど）ふ
+唐船（もろこしぶね）の數（かず）知（し）らず
+觀音山下（かんのんざんか）畫（ゑ）の如（ごと）し
+
+二一（21）
+此處（こゝ）の港（みなと）を船出（ふなで）して
+海路（かいろ）僅（わづか）に二百餘浬（ひやくより）
+その日（ひ）の中（うち）に對岸（たいがん）の
+廈門（あもい）の港（みなと）に著（つ）かるべし
+
+二二（22）
+再（ふたゝ）び歸（かへ）りて本線（ほんせん）に
+うつれば忽（たちま）ち艋舺驛（まんかえき）
+新店川（しんてんがは）の鐵橋（てつきよう）も
+またゝくひまにうち渡（わた）る
+
+二三（23）
+富豪（ふごう）林氏（りんし）の邸宅（ていたく）の
+甍（いらか）つらねて構（かま）へたる
+枋橋（ぱんきよう）越（こ）ゆれば樹林（じゆりん）なり
+山仔脚（さんしきやく）經（へ）て鶯歌石（おうかせき）
+
+二四（24）
+鳥（とり）のかたちによく似（に）たる
+巨石（きよせき）は立（た）てり山腹（さんぷく）に
+鄭軍（ていぐん）砲（はう）をうちし時（とき）
+頭（かしら）缺（か）けぬといひ傳（つた）ふ
+
+二五（25）
+三角湧（さんかくゆう）はこの奧（おく）へ
+一里（り）あまりの小市街（しようしがい）
+製腦事業（せいのうじぎよう）見（み）ん人（ひと）は
+さらに山路（やまぢ）を辿（たど）るべし
+
+二六（26）
+春（はる）桃園（とうえん）の樂鄕（らくきよう）に
+遊（あそ）ぶもうれし秋（あき）は又（また）
+大嵙崁（たいこかん）なる山奧（やまおく）に
+奇巖（きがん）を見（み）るもおもしろし
+
+二七（27）
+蕃界（ばんかい）近（ちか）く踏（ふ）み入（い）れば
+兩岸（りようがん）けはしき谷川（たにがは）に
+藤（とう）にて造（つく）れる吊橋（つりばし）の
+あやふくかゝる所（ところ）あり
+
+二八（28）
+北部（ほくぶ）諸山（しよざん）の生蕃（せいばん）を
+防（ふせ）ぐためとて要所（ようしよ）には
+鐵條網（てつじようもう）を張（は）り渡（わた）し
+隘勇線（あいゆうせん）を設（まう）けたり
+
+二九（29）
+崁仔脚（かんしきやく）をば後（あと）にして
+中壢街（ちゆうれきがい）を過（す）ぎ行（ゆ）けば
+四面（しめん）の畑（はたけ）はみな茶（ちや）の樹（き）
+安平鎭（あんぺいちん）の製茶場（せいちやじよう）
+
+三〇（30）
+本島（ほんとう）特產（とくさん）烏龍茶（うーろんちや）
+なほも紅茶（こうちや）の實況（じつきよう）を
+知（し）らんと思（おも）ふ人（ひと）あらば
+必（かなら）ずくゞれこの門（もん）を
+
+三一（31）
+楊梅壢（ようばいれき）より大湖口（たいここう）
+紅毛田（こうもうでん）を過（す）ぎ行（ゆ）けば
+はや著（つ）きにけり新竹（しんちく）に
+こゝは昔（むかし）の竹塹埔（ちくざんぽ）
+
+三二（32）
+清（しん）の雍正（ようせい）元年（がんねん）に
+淡水廳（たんすいちよう）を置（お）かれけり
+城壁（じようへき）の跡（あと）猶（なほ）殘（のこ）り
+舊刹（きゆうせつ）古廟（こびよう）亦（また）存（そん）す
+
+三三（33）
+市街（しがい）の西方（せいほう）約（やく）半里（はんり）
+尖筆山（せんぴつざん）のいたゞきに
+北白川（きたしらかは）の宮殿下（みやでんか）
+御露營（ごろえい）ありし遺跡（いせき）あり
+
+三四（34）
+新埔（しんぽ）は蜜柑（みかん）の本場（ほんば）にて
+北埔（ほつぽ）に椎茸（しひたけ）多（おほ）く出（い）づ
+香山（こうざん）中港（ちゆうこう）過（す）ぎぬれば
+次（つぎ）は造橋（ぞうきよう）後壠（こうろう）よ
+
+三五（35）
+後壠溪（こうろうけい）の鐵橋（てつきよう）を
+渡（わた）れば此處（こゝ）は苗栗（びようりつ）ぞ
+石油（せきゆ）の產地（さんち）出磺坑（しゆつこうこう）
+これより四里（り）の奧（おく）にあり
+
+三六（36）
+銅鑼灣（どうらわん）三叉河（さんさほ）後里庄（こうりしよう）
+米（こめ）の產地（さんち）と名（な）も高（たか）き
+葫蘆墩驛（ころとんえき）の近傍（きんぼう）に
+製麻會社（せいまかいしや）を見（み）て行（ゆ）かん
+
+三七（37）
+此處（こゝ）まで數里（すうり）のその間（あひだ）
+地勢（ちせい）嶮岨（けんそ）の其（そ）の上（うへ）に
+大安（たいあん）大甲（たいこう）二溪（けい）あり
+箱根（はこね）のトンネル想（おも）ひやる
+
+三八（38）
+林投（なあとう）編（あ）みて作（つく）るてふ
+淡水帽（たんすいぼう）の產地（さんち）なる
+大甲（たいこう）通霄（つうしよう）宛里（えんり）など
+海邊（うみべ）に近（ちか）き土地（とち）にあり
+
+三九（39）
+潭仔墘（たんしけん）經（へ）てその次（つぎ）は
+中部（ちゆうぶ）一なる臺中（たいちゆう）よ
+清朝（しんちよう）かつてこの土地（とち）に
+臺灣府（たいわんふ）をば置（お）きたりき
+
+四〇（40）
+明治（めいじ）四十一年（ねん）に
+はじめて成（な）りし鐵道（てつどう）の
+全通式（ぜんつうしき）を舉（あ）げたりし
+此處（こゝ）の公園（こうえん）眺（ながめ）よし
+
+四一（41）
+陶器（とうき）を出（いだ）す南投（なんとう）へ
+輕便鐵道（けいべんてつどう）敷（し）かれたり
+本島（ほんとう）無二（むに）の別天地（べつてんち）
+埔里社（ほりしや）はなほも奧（おく）と聞（き）く
+
+四二（42）
+流石（さすが）に猛（たけ）き霧社蕃（むしやばん）も
+馘首（かくしゆ）の刃（やいば）うちすてゝ
+厚（あつ）きめぐみを慕（した）ひ來（く）る
+蕃產物（ばんさんぶつ）の交換所（こうかんじよ）
+
+四三（43）
+日月潭（じつげつたん）の勝景（しようけい）は
+蓬萊山（ほうらいさん）もよそならず
+綠（みどり）のかげには鳥（とり）うたひ
+瑠璃（るり）の水（みづ）には魚（うを）躍（をど）る
+
+四四（44）
+烏日（うじつ）過（す）ぐれば大肚（たいと）なり
+米（こめ）の集散（しゆうさん）おびたゞし
+こゝに河（かは）あり大肚溪（たいとけい）
+水（みづ）に遊（あそ）ぶは水牛（すいぎゆう）よ
+
+四五（45）
+龍車（りゆうしや）に向（む）かふ蟷螂（とうろう）が
+斧（をの）を微塵（みじん）に碎（くだ）かれし
+彰化（しようか）の東（ひがし）八卦山（はつけざん）
+中臺平野（ちゆうたいへいや）一（ひと）ながめ
+
+四六（46）
+茄苳脚（かとうきやく）のその次（つぎ）に
+バナヽ朱欒（ざぼん）の產地（さんち）なる
+員林（いんりん）過（す）ぐれば社頭（しやとう）なり
+田中央（でんちゆうおう）經（へ）て二八水（にはちすい）
+
+四七（47）
+全島一（ぜんとういち）の大河（たいが）とて
+音（おと）に聞（きこ）えし濁水溪（だくすいけい）
+大雨（たいう）至（いた）ればたちまちに
+平野（へいや）變（へん）じて海（うみ）となる
+
+四八（48）
+林内（りんない）過（す）ぎて車窓（しやそう）より
+かすかに見（み）ゆる新高（にひたか）の
+山（やま）の高（たか）さは日本一（にほんいち）
+明治（めいじ）の帝（みかど）名（な）を賜（たま）ふ
+
+四九（49）
+雲林（うんりん）今（いま）は斗六街（とろくがい）
+土匪（どひ）のさわぎに大方（おほかた）は
+兵火（へいか）の災（さい）に罹（かゝ）りにき
+他里霧（たりむ）の次（つぎ）は大莆林（たいほりん）
+
+五〇（50）
+打猫（だびよう）の西方（せいほう）三里（り）なる
+北港街（ほくこうがい）の媽祖宮（まそきゆう）は
+四方（よも）の信仰（しんこう）厚（あつ）きこと
+本島一（ほんとういち）と聞（きこ）えたり
+
+五一（51）
+林爽文（りんそうぶん）の騷亂（そうらん）に
+時（とき）の帝（みかど）が住民（じゆうみん）の
+義勇（ぎゆう）嘉（よ）みしてつけられし
+嘉義（かぎ）のほまれは碑（ひ）に殘（のこ）る
+
+五二（52）
+此處（こゝ）に至（いた）らば農會（のうかい）の
+苗圃（びようほ）に足（あし）を運（はこ）ぶべし
+小河（をがは）めぐれる丘（をか）の上（うへ）
+見渡（みわた）すかぎり檳榔子（びんろうじ）
+
+五三（53）
+大森林（だいしんりん）の阿里山（ありさん）は
+これより數里（すうり）奧（おく）にあり
+枝（えだ）を交（まじ）ふる木々（きゞ）の蔭（かげ）
+晝猶暗（ひるなほくら）くものすごし
+
+五四（54）
+鐵道線路（てつどうせんろ）の右側（みぎがは）に
+立（た）つる目標（めじるし）見（み）おとすな
+北回歸線（きたかいきせん）このあたり
+はや熱帶（ねつたい）の客（きやく）となる
+
+五五（55）
+これより南部（なんぶ）おしなべて
+甘蔗（かんしや）の畑（はたけ）うちつゞき
+製糖會社（せいとうかいしや）そここゝに
+煙突高（えんとつたか）く競（きそ）ひ立（た）つ
+
+五六（56）
+水堀頭（すいくつとう）より後壁藔（こうへきりよう）
+新營庄（しんえいしよう）の西方（せいほう）に
+鹽水港（えんすいこう）の市街（しがい）あり
+布袋嘴（ほていし）よりは鹽産（しほさん）す
+
+五七（57）
+林鳳營（りんほうえい）經（へ）て蕃仔田（ばんしでん）
+灣裡（わんり）を過（す）ぎて新市街（しんしがい）
+大目降（だいもくこう）はこの東（ひがし）
+糖業試驗所（とうぎようしけんじよ）設（まう）けらる
+
+五八（58）
+南部（なんぶ）のみやこ臺南（たいなん）は
+本嶋中（ほんとうちゆう）にふるくより
+開（ひら）けし地（ち）とて人多（ひとおほ）く
+名所舊跡（めいしよきゆうせき）亦（また）多（おほ）し
+
+五九（59）
+陸軍衞戍病院（りくぐんえいじゆびよういん）は
+オランダ人（じん）の築（きづ）きたる
+赤崁樓（せきかんろう）のありし跡（あと）
+三層樓閣（さんそうろうかく）聳（そび）えたり
+
+六〇（60）
+鄭成功（ていせいこう）を祀（まつ）りたる
+延平王（えんぺいおう）の祠（やしろ）あり
+領臺以後（りようだいいご）に改（あらた）めて
+開山神社（かいさんじんしや）と稱（しよう）せらる
+
+六一（61）
+義烈壯烈（ぎれつそうれつ）母刀自（はゝとじ）の
+大和魂（やまとだましひ）うけつぎて
+社稷（しやしよく）のために竭（つく）したる
+君（きみ）がほまれは千代朽（ちよく）ちず
+
+六二（62）
+魁斗山上（かいとさんじよう）五妃（ひ）の墓（はか）
+寧靖王（ねいせいおう）のきさきたち
+操（みさを）まもりてこの土地（とち）に
+果（は）てぬと聞（き）くもあはれなり
+
+六三（63）
+全臺首學（ぜんだいしゆがく）と記（しる）したる
+大成殿（たいせいでん）の建物（たてもの）は
+公學校（こうがくこう）に充（あ）てられて
+今猶（いまなほ）咿唔（いご）の聲（こゑ）を聞（き）く
+
+六四（64）
+僭（せん）してこゝに臺灣（たいわん）の
+王（おう）と名（な）のりし朱一貴（しゆいつき）が
+住（す）みし昔（むかし）の宮居（みやゐ）あり
+今法院（いまほういん）を此處（こゝ）に置（お）く
+
+六五（65）
+そゞろに淚（なみだ）そのかみを
+しのびまつるもかしこしや
+北白川（きたしらかは）の宮殿下（みやでんか）
+こゝにみまかり給（たま）ひけり
+
+六六（66）
+君（きみ）の勅（みこと）をうけたまひ
+近衞（このゑ）の兵（へい）をひきつれて
+島（しま）を平（たひら）げ給（たま）ひたる
+親王（みこ）のみいさを忘（わす）るなよ
+
+六七（67）
+名（な）は安平（あんぴん）と聞（きこ）ゆれど
+港次第（みなとしだい）に埋（うづ）もれて
+大船岸（たいせんきし）につながれず
+風波（ふうは）を凌（しの）く便（たより）なし
+
+六八（68）
+赤崁城趾（せきかんじようし）の大榕樹（だいようじゆ）
+遙沖（はるかおき）よりながめらる
+海（うみ）を行（ゆ）く人（ひと）この樹（き）をば
+目當（めあて）となして往來（おうらい）す
+
+六九（69）
+これより海路（かいろ）五十二浬（り）
+澎湖島（ほうことう）なる媽宮港（まきゆうこう）
+みなとの内（うち）は水深（みづふか）く
+大艦巨舶（たいかんきよはく）泊（とゞ）むべし
+
+七〇（70）
+更（さら）に汽車（きしや）にて中洲庄（ちゆうしうしよう）
+車路墘（しやろけん）過（す）ぎて大湖街（たいこがい）
+半路竹（はんろちく）經（へ）て阿公店（あこうてん）
+橋仔頭（きようしとう）より楠仔坑（なんしこう）
+
+七一（71）
+東北指（とうほくさ）して行（ゆ）くときは
+蕃薯（いも）に名（な）を得（え）し蕃薯藔（ばんしよりよう）
+樟腦出（しようのういだ）す甲仙埔（こうせんほ）
+急（いそ）ぐ旅（たび）とて立（た）ちよらず
+
+七二（72）
+舊城過（きゆうじようす）ぎて打狗港（たかおこう）
+縱貫鐵道（じゆうかんてつどう）こゝに盡（つ）く
+商船常（しようせんつね）に輻湊（ふくそう）し
+百貨（ひやくか）は日々（ひゞ）に山（やま）を爲（な）す
+
+七三（73）
+なほも支線（しせん）に乘（の）りかへて
+三塊厝（さんかいせき）を通（とほ）り過（す）ぎ
+苙萊出（おんらいい）づる鳳山（ほうざん）に
+曹公圳（そうこうしゆう）を探（さぐ）るべし
+
+七四（74）
+後庄越（こうしようこ）えて九曲堂（きゆうきよくどう）
+一里（り）東（ひがし）に阿緱街（あこうがい）
+下淡水（しもたんすい）の河口（かはぐち）に
+東港（とうこう）といふ港（みなと）あり
+
+七五（75）
+これより五里（り）の海上（かいじよう）に
+かすかに見（み）ゆる小琉球（しようりゆうきゆう）
+長（なが）さは一里（り）幅半里（はゞはんり）
+何（いづ）れの家（いへ）も鹿（しか）を畜（か）ふ
+
+七六（76）
+枋藔（ほうりよう）枋山（ほうざん）楓港（ふうこう）と
+海邊（うみべ）の路（みち）をたどり行（ゆ）く
+山（やま）はせまりて海（うみ）をせめ
+波（なみ）は激（げき）して岩（いは）を噛（か）む
+
+七七（77）
+車城（しやじよう）に注（そゝ）ぐ四重溪（しじゆうけい）
+その川上（かはかみ）の石門（せきもん）は
+兩岸（りようがん）いはほそばだちて
+恰（あたか）も門（もん）の狀（さま）をなす
+
+七八（78）
+明治（めいじ）七年（ねん）我（わ）が軍（ぐん）が
+頑強（がんきよう）なりし牡丹社（ぼたんしや）を
+劇（はげ）しく攻（せ）めし所（ところ）なり
+途（みち）に記念（きねん）の碑（ひ）を探（さぐ）れ
+
+七九（79）
+皇澤日々（こうたくひゞ）に霑（うるほ）ひて
+學（まな）びの庭（には）に蕃童（ばんどう）が
+われ劣（おと）らじと集（つど）ひ來（き）て
+御國言葉（みくにことば）の花（はな）ぞ咲（さ）く
+
+八〇（80）
+氣候（きこう）はいつも暖（あたゝ）かに
+春（はる）の如（ごと）しと聞（きこ）えたる
+恒春街（こうしゆんがい）にいたりなば
+求（もと）めて來（きた）れ胡蝶蘭（こちようらん）
+
+八一（81）
+こゝにて西部（せいぶ）はてぬれば
+海路（かいろ）東岸（とうがん）さぐらんと
+たよりを待（ま）ちて海濱（かいひん）の
+大板轆（たいはんろく）を船出（ふなで）せり
+
+八二（82）
+バシイ海峽（かいきよう）隔（へだ）てたる
+呂宋（ルソン）と遙（はるか）相（あひ）むかふ
+最南端（さいなんたん）の鵞鑾鼻（がらんび）に
+大燈臺（だいとうだい）を設（まう）けたり
+
+八三（83）
+鼻（はな）をまはりて北方（ほくほう）に
+船路（ふなぢ）をかへて進（すゝ）み行（ゆ）く
+海上遠（かいじようとほ）く紅頭嶼（こうとうしよ）
+雲（くも）か山（やま）かと薄（うす）がすむ
+
+八四（84）
+島（しま）のめぐりは九里（り）あまり
+太古（たいこ）のさまを見（み）る如（ごと）き
+いとあはれなる蠻民（ばんみん）が
+二千（せん）ばかりも住（す）むと聞（き）く
+
+八五（85）
+やがて卑南（ぴなん）に寄港（きこう）せり
+臺東一帶（たいとういつたい）未開（みかい）の地（ち）
+天與（てんよ）の遺利（いり）はそのまゝに
+人（ひと）の來（きた）りて取（と）るを待（ま）つ
+
+八六（86）
+黑潮（くろしほ）に沿（そ）ひ進（すゝ）みつゝ
+次（つぎ）に立（た）ち寄（よ）る花蓮港（かれんこう）
+移民（いみん）の計畫（けいかく）歩（ほ）を進（すゝ）め
+開拓事業（かいたくじぎよう）起（おこ）りたり
+
+八七（87）
+これより沿岸（えんがん）二十餘里（より）
+幾千尺（いくせんじやく）の斷崖（だんがい）が
+海（うみ）にせまりて聳（そび）え立（た）ち
+船（ふね）を寄（よ）すべき所（ところ）なし
+
+八八（88）
+蘇澳（そおう）の港（みなと）に船（ふね）をすて
+宜蘭（ぎらん）の平野（へいや）を横（よこ）ぎりて
+それより山路分（やまぢわ）け入（い）らば
+深坑地方（しんこうちほう）に至（いた）るべし
+
+八九（89）
+濱邊（はまべ）の路（みち）を越（こ）え行（ゆ）けば
+三貂角（さんしようかく）は右（みぎ）に出（い）づ
+領臺役（りようだいえき）のまつさきに
+近衞（このゑ）の軍（ぐん）の上陸地（じようりくち）
+
+九〇（90）
+これより元（もと）へ歸（かへ）る道（みち）
+黄金掘（こがねほ）り出（だ）す牡丹坑（ぼたんこう）
+尙（なほ）も瑞芳（ずいほう）金瓜石（きんかせき）
+寶（たから）の山（やま）は連（つらな）れり
+
+（終（をはり））
+（注意）字音の振假名は表音的とし長音にはあいうの三母韻を用ひたり
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="taiwan_shuyu_shoka_full.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](taiwan_shuyu_shoka_full.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](taiwan_shuyu_shoka_full.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC_KTM_MsypJzCxPzIvPT0vLTM5MzFHi0tJSeNG-63nj4qcTV7xs7Ho6ZeOztT3v93Q8XdfzbOqW550dj5t3P21d8WTn3McN7c_XN7zf06mgpQUy9sneOS9Wznu_Z9bTde1Pdk190b1RCSr8bPYmoPDL1TOerex-sqvnyY7Op7NngyWBVj3tmf5s2gag5NMFTc9m73i6a_rjhi5MJzxu6Aa64tmMvmebdgN1P-1tBBmzcwvQvGdzOp7u3v9s-tKnHXOBDny_p__pkuXP1i5-2toMVABSCVHT2_i0dTVIWetqsLKep3O6QQ6YM03BwNzCTMHQAOgZsLOgIVSSkZ9elFiQUWmVkVlcAgyx5MSc-OzEvEQlLkVbBUMjAy57WwU3LhsjfRM7Li59LS6gR5_PXvdi1SqgO190tD_tmw_00YvN7S9WdIGCcEPvs_ZOhQADAxO9rIL0Rw2TAwyMzEFMkFvAap-taHqxds7LBY1P-7uAngaG5_M1axQM3--dZ2SsABJuXQEkgc4EhicXMCZAATahF8jBE2ZAXz5fDfIoSHbONKCWl0tWPG7oAYYEMCyfzWx6Nmc-RPzp3o1Pm_ufb979fOvGxw29T1t3vJje_2LmfIWsgpxMIwNDQ92kbN3iipJ4UHDFGxrEG1oaGgHd_nzLIpA_gQrh4djzbG7ns63Lnk7qASWLji6gQU_Xt7zYAgz2TpDDQakClK4QiQXoUkhqeD5_89O5XS8WTn-yo-HJjkZggIIju-H51FXPOrYh6ceWqkByz2fuebEQZDYktSiYGCsA0wHQfKBzDSDMTiMFYIpQMDJQgCebxw2NyMkGotwIqhzIAKk3tACrh6UfrKkXlErnTny6pe_l1O3PZoDcC3TP01age3qerpv1tHnny_aJQBNe9iwCufXFqv3PGpYD08qz7l5gAIJisnkGUBBoipsC0D1gZs-TXVNeNG56OX_zy1l9j5tXPG7uetY153FjL9AKiCDIR_omCkBDnq6dANTwaOZKSAIFBUdnx7M5ayCJEhQoc9YAk9Dzpl3AJADP1KBkgpqpgfEPcvGGdqA40GMKlgYKQInnkzY83bwNkjLBejYqGOqYmABDdUM_UBoUhsAUOnX78y0tCkYmCk872l5OmAE0DWIRMAM82dv7dOPUl9O6n-xY9nRCx7OOCWDzN73s3vN8wpYne7Y8XdoPDA0FP9fQkCBPP38FkF2NwIjueTqhB5hWX85sebKjCy2zgDRA8gfEZSAjp7U_62t-1t8PStmrpgDdijXbAb3Z9KJ76dPm1pdzGp439L9YtvfptHVAgxQMzaB-er5p3_MNC4Ex8Hz7LKB1oGgH5qZl3cDgA4oDVUOCD5hPgWkUmFGBiRAegkDTubgeN0xAdha2oJ7IBdILTHGg1K2gAMyxT1uBWbzjcePkx439YLINFIqzZz_buh0sPv1xY_fjxhaQ7sbVIHbTvMdNLcAk8bhxGdCEZ3M3PtkFiqHHjSuAeh83NoFVrnu-chdYcO7jJqD5IL0vloFc9LhxPYjbNOlx46rHjbMfN3WDDOmYCJJq6gerBJUXYJXAyAAZBUxHYNkmoBVQEWBGWDDj6RxgKga7sGny46aux01ANtABKyFegxZDm4H5Aig-H-gFoPkglWB3wtww9XHjBKBeYCiDlQGzAFB8MhcXMJsDBYBFDjiUeqcDcx9YwSqwCXuAYQWUAiY_qGAjUDXQYVNBhcfMfS_bQZofN24BBxTQUmCZDDLncVMjxDpgIAAtAKqEeBOiDKgGGFfAEujlkhlQE4A-gukFJhGYX4AOmPG4EagXaCMwTNaDgrFxGSioG9c93b0YZiYwV4GcBNQLMnb7PJj23sdNwFACImC4QRiwAAExdoPiF6gdxJ4ODIcdoNRhDHXDRlDZCXYtxPbVwBLmZRcoPYGNBTqsD0gCpWCJB2g4OEiBKnfuhSWn3dAIWrz3RQ_ESUD3A81cCDQZKAUUf755GpI41HnP5s15un7Zy4WQxAZMk8BAWAJMP5DECUpFG7Y8n7IBEo-PG5cCIx1i9fMVQBuBgkCj1oJFQIH_dNcysCAotYDVr4MkxceNwFSx-umOucCsAVYADFigRlDugCbsloXPZy8E1jLgoGgAOQPkcWCggRzJxQXMOkAZE2iIzd_1clbbsx3ANA8OIlAiBOYgoHpoRgPZC4pEYDrcA8wpjxsnAnU9nwlxMFBqDzhBdj-bMxeWKSCKoVkD5DxQcgJGPTDKQPnxxZ650PAB51Owst5nOxZC8hc0TECBBkotkKQLTJYgjzdPfdy06nHz6sfNix43bQWlJVB9D0reYC1NT_dNgmalJmAUAI0F5gUgOQuUWUDFnik0FuY0ADPLy2mQVAF0KjD0doNzQRMkbQBNftk37eVESEwBLYUmfnDxAi5S1vfCAh-Y0eAhvxrTF0-nrIcUZ-CUDDQHiJZArAAFxbLGZ1vAgQYtGUAFBczlPY8bNwBD9emSqYhQBRmyFWIXKO7ad73o2AmWXQ4UhySep61LYYLAqASGPFQcXMIABfeBgxSYcZ62AoU7zKAZH-SwaUCfvli6_2UzsBCDp21QrQ0qiKAlA6jwASZ4UCBs3Pt8DSglQUpaIAkqH3Y0gKsoSGJeAjEEbPvMx03ACN0Pbo2AQgMs2A_yRevqpwuAngIVvGAtoCL0yY5mmCAwPy5ElKtrwCEMUgaq6ME5ZQpM5RSIMkhGe7F_youWWWDxmWDH7AC7HFgIwGNzHajI2tEEbF7BSmlYLACTHCTPAouXZqCkOcRYYI37Yj-4IgCFKqg8gZqDUewAG27Pm0DhCw4BYPgA0yRUMcjLSyAOA8YOqKgBugcYlZBAA3OXgvPgpBer4CUJJDkB1QPLk7mQAh-WZyEFPjS3vuxZ_bQfUsACvQMu2xEZGZgAgCEJTABAEpR-QAEOjHFwyw1RB4HzAsQXLyZCxCEpFugLYPqfCHQGKPGsBspYQMuQ2bNfzl0Es7QR5tP1mMEC9gvQPfvAyRuUlZ7O2fC0G6IX6Cpoanmya83LZkhpDAxkSKRAEgDQBGAuaHqyB1jsAMWBjgD7C-gkkHeA4QMsMYDlKjD0IJmo--n8vqeLgb0EoGJgMQgxagckrQJdCC9OX0wANlkgRfoGcHjC0y3QQFD4g9M_0ECg34GVFVChJdTvE-BZAFKP9Dzdt_D5ijlPV0AsBZbb8Cy_Gtg2fr4A2PyABDXQWGDhAyyYoKkC1EeYDYnxNnBGg6bSl4sg-RGoHtjkAhV0sIYBMBiBXgYFIyhUQflrNbA5CVYMrF4hrZqJwEh5vmPv87mLn-4CagdKAZVBqlRg2gAVJiCrgU3EtZDqZhvY--BcD8xuK-e_nA7RBfQgqF4AiwNNAJYhwMQDLJlBAbID2NoFNZ3AvUZQoCBnKlheAhr3Yln_sxWQDAw0DlxzAFPJOlAfFSwISqmPGxfAG3OgLNc4-cV2SEJfCQ4XUMw93QnsFkGcC4xLYPhCc9fzBZAaCFpYPF0GCWtouQApbp7s6AaWDk-3L32yCxJSwKCEFBAQ20FNdFCCaN8MK8XgFRIw5yyHFC6wqAVaB4kPUCMSHCVrwFELDFmgLDS5gLpu4BYtrEm7cx-wYQXqju-DtMIg2RTayAKW1uAYgKaLF20rXrRAinNgVQN0H7ANAkogkFIZHPNAl60FF8DA4hMYRaAUAexdwSq3BWCVwMQLDCNQ8wEYN097G55N2Qns3sFiCGgpqJGCkupBRT4wnoGywAzXAfJ2MyREgM1YSAsa7GBQuAAjDJgvgd4G6gJWU6CCB-JtcBMV1C0Gp7Ep64HdBpiVwHY1JC2tfrITGORAwXWwIm7Z0zmToUUHKIUDvQQvQMCVJrjZ_HzpvOdLIK1T5JYzpKkDcgG02gKlPmBUwIpNcGvn6XZICwS5tQNUBm_2Q0IZVIlDCpZnM0CtB3BTCuhbYLqGKAP6Alg4bHva1fts79qn6yEFOLB4BJoGSo-QpASNf1Ab1RDWSF0yE1aHQQu1p2t3vGhoBQsC3QG0GOYBYA7cvvVpP6R8BLoAaCgo94KlQHXw8xWQYAJmZnAbCFTJAR0HNAQU208Xr342D163AeMNGuKQgu9l49qXsyFJAFIigCoSUOZqXftsA6TtCAwgkGMgLnm-aCKwVoMWLuBaDSwOTPygMHrRNRcYZ0-3T3u5AFLtAUMH2J4AhyxSl-blMojfgVkPEogrwK3ABnAwQRqmhtCW6fOFq1_uBoYCuOkEig1omodXldC03TgTNPDQBWklgdtxiO4C2J9QRwNTFjS4XzRCSlmg98AhAjK_-9mu1c82dz5dAMnboMCCJFJghQBNv1vBUqAmGCT9A5MVsFEDHG-BuAfUIwH5sBE0vgVurwFTGVDZNjQF4Dy4A5YCIE2z1c-3QtwP6RAAGbOAiuHuhBRe4CY8KAFCMxcoURpC27RPt0OKQ6AdCyA9Mkh1A69rwCJAD68HlrVPN8KqZnBZC44EoD9B0QU1rR8SZEAfQlpZq5_sBTIg5kNqJZBRz7dMf7pjL8woSHsDUkghjHq-D1j3gfMOqIAEd0KBCRO9YQDMR-C-4VJIPQCMKmgLBGTCckhDHWg1JE8sB-Zl1O4wKP6ADbVnM-YjHANrTiAcA05i4EavIbTV-2zjfFhyhZQCwJCCJBxgjdAHKomgJQUw1MGlA0gQaDTIWc82gQamYJEMdByoiEFt3QKr3g3Pti8E1hewthqkXEBUN1BnbNr8fCq4iAFbBG8pPtkBjj9QNoHEHzDnAjUCnQoszoHO6AVF1e5dzzuBXURINAP7WsB0BypJMZuYLxohkQoMaCADksrABRykhAI1cw2h7dynG4HBCUnGoKiAN51AyRs9TUFqLqC7gYUOsPQBVzETep7PBo6jQqIIUm0DXYzSSX02HVIwAessSJoHWgFO20DtU8GlDzS3AhWsedoKGlYCV2eQvLAa6M_n8yGVPaQ8hpd6oMIINFjYvRHmAEgah5QYCAcAh2eALQDg8C84iOFjM8AuO7SZA00voHauIbShCyzHITU32NzNyBU2cjKG1xSgcnHCGthgC7hhCc2b655thhTqwHYUJA0DyzWIMlC1AklrT_YBQxye_8Edz7XLYA3LbdDs0DTpWQ8kcW0FhiAsMQIzIzA97nzcPPFxM9A_i0ANBWCXuXnz42Zg-xzYfd4CbBiDdSGi9tnaJS9mQoohUGMSEtDA9IVUMC2BJBZwA9gQ1gKGtmKAngc27SCRA-ylrwRb1gD3A1IfBtQmBBXMLbCKBjqEAYrJJ9DhIViOAzcIwA4CRu_qZ5PBqboJNHQOHZhbtu7ZPIj_oTEMSzXAyAQNvkCb9RAtkAEFUEm0CRQ33RtfzgbXMBC94MEmmDLQWN6T3ZBMAC-ngAxg7wIy-gZp8hpBm7zPVgAthlSZECNWY4yRgHwCLLeggwTAwhU-TgAqqDaAHNSx-UUnKMGB0yGwRQOJeaA3gCSkjQdqm7ycDQlTYPUBGRzaCoqGKROg_X5QexRUtYEDGphMIFXMumdTIZUOMGSBgdiJnn2AwyRAByxvAFaXwEIU2EpGKhaBKRpaP0By_fOpYEc2AbvCIJMx2tmgGgo0CwEquI2grV5sqWsdrFwEN5YhmoHd3o6dsDoe2MsGigMrBZCh0CywdTusQwBus0I6BM3g1hMoQEG9P0gEQAYwgWOVz7aCh2fhLWykQUtIhkUbzn2yA1IngMIamgs29D7dBAk-SB8Z1KiBKAaXwR2w0SRg0AMTDqzthuk79D41MHyBvtgJDzLIoC5sVLcNMrwFDAVgwQYJss3P1sKjEciAJivgADSsbQ0cHoW2XCD2gT0JyQugEaWn-yH9auhYAFjNwhed3S86dr1cCenKAtvcoHgGZwpQ4IL7hxuA0zmw2hA8nA2qa5DazcACdcJW4OwTLDsD0ya06w52ZBPYGcAOFMgj0EoDxAXWaKBQxhw4g6YgULvZCNZuXt_zYiOwmQsJEWBig4y5Toe1ViFtNmhr9WXTjqfrIE1qSOEC6pXBY-z5FEjIApMPKBLQctmz5bDEDw0gYCcT2nt6Nq8b5smNsPEkqCdfbIMUFvAmJXgAb8VOWBMcWNACBeGtcHDnEDxi_WQ3fKQK2NWCZFvEMNXzbeCCBRLZjcteblsPnEGBNcSBcQ8MPqA7oc1xcKhBmtFG0Gb0y83QPjG86oEOaIBHgcCu78cYTgHX4ttXwKyBeBLe5F8PnENFqhRAA7xAb7xohXRTIX7YjtyEA5b0L3ZDQhwSGcCBREh_HTJUCCqtIXkf2vlqnA6c34I6G5YGES01UAIEDW483wMpJSDxB2xtATvfQPVA8zc9bYK4HJgMIY7cCs1foGaWEbTRDExeL5ZPerYT0uiEuBtoOrCAgFcEQJeByj-MhukOsPYG2CwIJGSBOR8yIkPEwCJkdqF1GbAN8mwpfKAQ6HRg9ECaIcCJCljKQp37QetPwIaxgO4HF1XAmICUj-Dm9eNGYDsDXKrug7RXgREPrjRQyh1Is9gI1iyeAUkywJYoKGifLWx-Ogcysg4MXaDjQB1RaAm3oullC7hQB9kNzL1IeR46fIPeGwIXkJDcMf05NKMBRaAp62k_pKUHKimguR7YX9k68-kWSKsHUvqC4wmRj0D9CWgMQf2M0oF4urQd2C-FJmR4yQ0MEZRgBRoIdAZocAMcYUCVsFoM1DI2graMX0xtfj4VqTkHm3mEDQsDky60WfxiB6RpAxmu3w8cloeUOGDLQEUDyGWtK6HVCqIBCq9ZgOkZmPpAZcGLDdthRS_Q_8AiE17ogrz3Yjq4h4Xo9IImKV42APvGkPQPDgjQSF330wldsMILWNgBw2gDvLgEpyBg5QUMPmDZCh4PAo1pdT_rhNRrQMOBtTZSjx-SakDNACPYKDBwTgU6cwDphYPGEF-s3oHUPwSS0M4YaDxhynxgaCKlfFCAQmIGlHBmQIoGoGuApRlQ_QTYICzQKcBmVCPUZYiJE0gDDza4AayMFs19vg1iCKQ-go3_ghMgxKKne6ATD2BuF3o1BG7Bv5w142l3O6x6BdXusFlJWCULTEorIFkYmPTgXT9o3wqYgsDNZSNYc3lLI1KBD2lfoRT44FJwA6xVDZ9SBnoM2gICNk-eLl4EK1yAI1Vg14DSFDh5w7oFL0F9d6AC4IALUHsfZtcU5BjsI_frnk-FJGdQ7wyoGFYUghoysBlR6FwouBCAFPzQcvrpOtD47Ms-SIiAptQeN-6CTZ9CzYfMrMIGWxCTq8jdEfDULqSRbQxrZM9ZA5sjhjRzoGn-eefO51Mg3gCKAGMPVJaDxJv7X-7rhbm47XEzcAYTMgsMdT042QPbZkDTmp5vaYWphIwEI3wInNV9thk2iYDetAGlVoy-KMhtzxogeRY-YLoVo-QGhg6QBMfEfkhjBViegDooYFngGBCwLgIOjwEjFVQLQRuZ8GlKoNWgMIK0s41h7eylXc8WtQITCFLuAOZzYKIFJRCwNlBxA1rfs3MabK4IXqwiBiWAwfFs_WzYdDU4RCAlN2j8BWo9MUkMOsmEYyYJ2LB8vhqSfCCtSmABiii5YbMa67GMwAIT6eqdTxfufDofMnIC0gjrowCbuJDkA2lPG8NGoHdAwhg-y7ru5exe6DA4NKSgA-DwdU-w4Ut4Fx889AMe03m6G9LEQB7TQRmcf74X2I8HxT9YIzCnAyMAPHsGGofGMyu17sV2SA8RmvefQ1MlKJ0Cuc_WQcfLYU1N8PBrR9dT6KwvfPUE0C-g4H7av-Tpbsg6FKA7gYMWUBc-ga4vgFa1T9dCjAWW-hCfzoQmLvDyClgTHNfEztL9z6ZBrIdkZmANAM6YWyADuNCi7WlvF2wwBDTKhbR0ZNrztW2wigIy6roFnNEQ1QVsngc4BgpKPpAK5_nMvUiD-cBUDGoZIg3XrXu6bt2zdfthvVlglxtoCCj9Qqpp8OjFwpdzNj1vhwTQFHDFD2RA_AWq6YBmvmzcBYsSyBwJSj0IXmsHCiNogxvUV4KmSUiSBqVGoINezJnzbD6kWAWWo_D2C2jxEKwghBRqoPFm-FIDoCdhpgHDFBgiENNWP1vS96IH0hMExgSwQIGW0wSnlkE12rKZsLCGlHTQUAZWLLAuK6xWgc8ro-Z0UFMb1ojBnJIHNj5g7QzQohPk4hJYrT1dDGmaQIoU2HgJcIoJkmFBfjWGjWqDVT_bBen0ITSACxdo0sPb7QSVzRh9S3C_DMtoxPoX3dOfLYCkbmg2gUy5g2XngYv5zc82wZM5KKNBS6Ipi4Dz2GBxSC8CNGwADPfni3c9nQuJcshSJqDzICGOKGehY1uQQhlYHaP0KLCMiCOnO3Cr3Rjaan_Z1fpy4h7g1BhYw0qw60GTyLC4BRYEncCRZiRXAodTQWkEGMpAW5_ugoyEQUIZPEoHr4mBPt8I0Qh0K2jJLS4_AwsstDU5mHMQoNJq4uoXM9qeLloJG3IAtS1h0xCgvAwtVfZPfApqc0IKNaAUaHIBXgoD2xAvd-1-NqcZNg8IKXmAxRlkLhMxCYjS0Ac2HlGqKVBGhJZ0oMaoMbShjy2BgOZ_gaNosCIMWOSDQgpWPIEGkl5Og3TWgSU3aCYGmoqxLXF4um3d002Q1jJkyhA6Iva0FVLYQ7mwYXhQ_QD3OahLtA6yJhJScUMbBEDx51MgLV54hQ4p6XtgeQieb6DTds_XbXy2AJKiIV1d6GDh42bg4nbg-G0vcLkVrolfaBoE9QGMoX0A0GgMdCYOWFuB6i9oPbAd4lX4xNky4KJlWKkBafQCIw2Yf0EjmdDqdQdsoApRvcLjH1fqA3UGIQGENSBeNsx6OQeSzIH2QrsN0IJpHSzrQeZZofEK9MVKkJO2bn8JEoHEBND9wCADRQZGtw-4Lgw48QFxGNDvsAFxRJ6FdAaMoZ0B4MQxsDPwdBEsj0A7A6AUAQo11KEf6FglRnEL6RLA-l7wkhvU_QKtzAAHCnDSHDaqCQkRqDJo0QtuGwEXm8GKKkgLGVaMgjIU0DrwMDwwhWLzISg_QpazQheZIE_Kg7vA4F4NapMIsiwKWNT0ghclQtr6JrC2PnjBOjijQuaOwGunobsdGmCtM5R2GTgNA9tTQPXLgKupkYohcC0-YStwMQlSRQEqIiGpCdwVXwFMHU_3QDrtc8DuhqURaLMZODANyXSQVAz0D8T1oE4i1tHtp61rYAMnkFIfOnDyfA6kRoYubYTEAXi8Aeg_SGveBNqafzlz29OZkIgFZSW4U7BMggNXhMGzHlLfCDJW9WLP1Cf79iMFAaggAA0AQUZykYLjGXTJMKSRDWm1wtZB4Op-tQDXhEPKVGBygwwirnvasfTpkpWwlAIcaQKnIFhWBbeBpwBzHKzwBhoIqXMgxRMwIqHdMowaEH1aHBJqYPtNYA39rY2woUtgHQcsOyCLn1c_74FUN_A-be_LOcuBLoCOQ4BcD5nFhg9FgMatXy6b8XIZZPwIPDoIrsthnoRoBGoB6QILQgYwgZYCfQtec9IHHzmA9X4gaylBzdFJz1ohcQZMZZAhh02wGTNosQgddJqyCDbNCxl3gpR6wNkd6GrSJ7uWPOufDRuugSQ3yOACqIMBChZI4gKlYBNoax6062VOB7AMAuuB9GyBqRo0ZgpvnT7tnvtsJqRNCB_GhFcioKLnxeQ1LyaAxn-h0QhpdoCCA9oJB_dXgVLgRWOwiabn2yCNQGBRuhJ1YBq0Gg_UhkQftgbaC4w20LTd84kLnk-ChDtouRNEL_qiLIghayFBD3QSMBt2vtgFbkyASiLoECg4UKDroWHLTpr7YdNBkHFYUACjNn-Bo9fgqRTgLHMTxAJImQrp00MH9jFbTMBpu2dT4WszIYU0LIxAyXszrH8DKlDgC_pgTTZ4nwZUlUCshlXqUNvhEQOKWozgwDISC-xXAxekd0LyBKSGBQ46I1ULkJwFapGbQFvkoOEUyKQoaMQS4gd4pl39dAJklwR4JwfIxVtfzN_-Yh58JB-pvQ-eAX42DTJoC4wQyOqvSU_3rXu6EDImB3Q6aDUXNOcugkQAMPdByjtIwQReLrB3w9MeSPaEp1BIZbwOuPUDLA5si4EUgyoQ4GLj3mWw1ApZbwwMNcR6FWAtCVoQCxzAaofYCK9PIaEMXm8I9i90XTdiMAe2Uh2cpsBNcxNo0_xFT8uL7s2IMT9YWY68FhlH7Q6u15onALc5PW7e-2zOxmdrIBXKNPByfPhQKt7W0OSFsDkooNMhG1FAGrEmamBpiFjBBXIevBqBpespG0ADkEsgFTmkLw0PI9B8FKhCQG24QIaKYUkSlDFhRSRkjTW4YAJlaBPY-pPWFcCKBhbAkMoYEmSglgu0YAIOYEGzBnRKFlI7QLrNhBd9gfoZ05_tbwStzoHmI-BCEWD6gmQERFYCWvRyNqQKhlgEnpJBXx4KCjv4rCp8hTVSOkIknBfrIDkRtCAd7BJgIbMMYz8K0CPg-IOkJlAj2wTRyH7aBpnvhkx5AhMeyFyMPvoyYFZ9vgoSFZDIhC0eBPc2waUMMDECPQwkgbuf0JdUQXbzwSINMsYAzVkgv2Es4sLo6wEr3_XgSga8HwxqDqTpAI1IXA09UATvgDRHwYMl4AIbtWs56cVmeFMT4gDgHB8oKYFb2CbQFvbL2ZtgiR_oJUTix1jasf7ZtOnAXAsb3gLWO5DVj4gJO1DDtweSUoBtJfj-FmCOAyoDBvdqUJKEjoKBhl8g86wQw8GJeutzUOMIlhZgQfkcNKQDzrmwZc_P90IMAc3BgL0KNA0YcKCe85Pd04CNJmCrBepzkHcgpS2WjgGoluhrg3kftrgfFgLgXTGQNrcprM3dOfl5D8SJwLyAGCrEM8IHbFGgDlnACh3gmswd62GhCZkQgrRKEKOGT1ftfb50GnCIDqwGmGuAyRM6eokINeA-P4i9oDQL3br3ZP_CJ7sh5R2kswLt32FpaoGkwLtVwG1XWDJENF-RihREwxKpiIDN4kyBaDWFjbLPm_68Yy9kCyMsG0JW0YLWz0Ozw4rtT3ZB6j6wFHheAF6oo01wY03wwMB6srf_2QZIJxO8gADS_0RafPJ830rg9BRYAaLyfjoD3FOBzokBDQRNHUErO-hSOXDVOaMTqB2a1qCpBpiigbEF2aCxHrjmFywLSeyrMYaewcs0pkAa36awxje2ZWQY5SVQcMOLfZuAwzcwE8ENVljSAFWa3dOfQmVho3HQIc3VL7ZBTANN1ULKgpeg3AQUAQ1igNUAWzfg2W3wvkRoRQFdDg6Z7INsZwJNi2Iss0QfdQE5Bvu6LUjRCQz3rmerNj9bNgW84xjiYMiQFqgJCctrkMa3KWwoHVhYLAauXYNkEMgaRfg-UVgKmrEfNDIHba1ARqPhLUbIrD9i8BDryBTO8UNQEoYkN5DtkEAE9iFgORFSBoNWFD6bA9wgD5k3AeZNyL66dS-mwNdigBrW4OQ8FzhP8WwWxDuQFaHgHhxoCgsynQXeYAeKaaDzgKt3wNPrUyCNb1PYYhVwBxW0uxi6xAvRNYXOC0DnoNcBlyg_bYS3cYGlL8qcOOoCFdAyQODW-WcrwGvPQTEPXWwKlEUdGwQ1F8DuWwUpwoD7cYDrrWBzv5ApBsjoIpANX2MFGhUBJ0b4RiTQlNfzto1Pd0B6y8BFReBOFbzgWwcZDkRuAALthdT34AwF3q4IbXOjjBD3wifZIb18yEYdyKJKYHgD0zyo-fN8yowXUyBRAZthhs1lYpvahXRZgcEEmlwBpXbwBleMoVVIeYk6ugoq2sAFMLizArK6debzVY2wpgB4LA2kEeJ_6NqI56thG31hy6fRIgySNMBtaFPYohTgkOCCBljbFNJIA-ZDoLkgZ4ETMDiAQFMGjS-mQ6ZMIDUOaGYNvsICahpw3rF9PmzMG1KJQIonxJAgnloPurhl516ktd0Qr6Ks7QYX6lhnzKB58OmO5heLup_OgE3_IC2EhXgH1Induff5FPhWHaAaeAkAmqEDFSugQtIUNm49b_rLzZuh81nQigncKYfNaqG1zYFjC8ARSNg0L2RsAWgNdI4XFJ-Ni18shs2gwAdGMeZ-QU1Y4MQXyqIniFFIDSjgsOzsdS9nQlpx4CIPVCIgb1GErrfC7LiBXAJMkkvXvli57OXK6UjrUoBegy6Vgo-dwgc9sKzLAFV_kFwGaVWbwpavYM9ZwIwNmTWcDOoW9iI3paD7ZSAlMah9sQ1YlUDsQ25fII20gkpfUJkKX4QKSkTYNuzBenPQhgm4D7ULNrUH2fqOmOADOX5CLzBEQGeLQOYpoS1pSFpGnhAG79FFm_hFnzGEFMyQZrQprBk9cwdwBd-LhfOedfQ-n976ciZkeQFkdwBoNR8s-0AaKfAKG9ThRNRWyOvCoUsh4F38dc_XQ0ZXgYUCZMgCMjwMHgDbugS4bAa6xBq6oRZcriGGE8AFMHgIEW32HNyn73y6cQlQ-8tpkHwE6SRDGmWQShoUJaD0gnOPBLAwgrSVzaBtZdDqdeCJHV2QiWNIvoWUEbDEDFwBsBSSSoEhDW6PgtwHW125exuwc_i8DxL5kLIDskoG2ocGhchS8CAZKPWBVqQhFxzA3QugIf3dS6HrhBDrxyAtCSCCbCBcDdzpBw0OUJsL0vgCDZBDkh6wbYG0kw5StENCB3UnXeMK2FYz5PIRWANCR9Fa10Lax2bQ9jGwWfm8uePp4vVAEqwNmEWBORlYWkNCHcQGqgRtpO9oeNEO6VUBa02gLDBtQ3uAkCIDeG7Oy7XgtjJ0cR9QAdCTQAZo4htWfwFzDajjA63-lux7vgJ2OAg0-IBs-EgLZCHZ6uerIbkVqBEiBRqEhW1hQd_Wi9wsftoLLDQXP5sD6bhBZkogJgCrUeBxA6DgALeJzaBt4pdrG0HdS9C6ekjLEhLSQJ_AAxsaqKByaRmk1QvtYT5dBEn2oN2d0KJq_fKXc6fB0g6wcQFPeoi0A3Y6aL8MZFACVEJNhpS7wOYS0FJQsw3sH0iuITC3AzzZAuIGSKUBWWmLvj0NVJaDT_sAhRFk7ys4XYCytRms1du6AphugcPpwC2PYM2QwR148xfSP4QN9K-ANCKA4pCGA1L8AFvPHROASzuQymNIEMBWJ4FOGsG-NQrWHV8DdMOzBZDCAt41Ra6MVj9thTR8Id1OoAmQrhN4ER5waAW6LgeSKqGrc55O2v90CqTxAc-D62BHIgALLHCDCzh2gTGH0boW0hQ2gx3M0QxbFQz1D6QLB21oQSbbEJ6HTfND-4TQpAFPDqiz8qD9HKCSEjicCDqvYROk9QEJfaCjgdkB4izQEC2w_wmWhVTzoJ4k1rVYwE78042QwAJXl03AfhCitAIG1rPNU6GVBjS8II0SWP0AnAjB1m1EnS-EBBOkcWwGbxwDFywBl8iB1gQ9g7bTQXuqYOPEkENEgA4FTbaA1UO27QIH20GlMmzdL3hROWTLDHDzMpXWFsFjC-we8MKEpq7nWyG1L3zUClidw85UWAs9kwPa5MUohICzMbAwBo9rQEIOVv6BTIRubNo_EVhVwxI2MLZhG3VaIUProPEnmF6g9UDzIbtDwAuOoDN8wOAAuw84Jr8TPswKb6RMwuYNWG29bBUsAYLcCSuPgGxI5TLp6X5Ihxs02Aq2ArLoETTfACovQKWfGWwkGCXdAs8KAK0thdVnQL8BDzCCWIAxeAPdgQGevd-xHjg4BjyVCuYm0G4csA8RRw08nQ9xMTAo4Zv6YSECHEYDbklC2f8DWaMGWiQO0Q7ONZAJAKAu0AwX8NQG2B4_4BpmoLHQ7eUY2_z6gROzUJNhG5OQjmiBNFLNoI1USEMIuHrwxTZ4xwzWFkKsJITlSWAZuWwqbHUupLkNUQBqpEErpsaZzzZBJk9Aq_3ByRs0IQ92K6SBB53WgFb14LUQsJCC7lxEO9MFY5UruEWPtEgYshYAVE7NBnZHwckNVB8DsyEwTUHauyD_g_bf7oNvIARvdQHPLILVAPs-oMQCbqSaQRupKKMh2LaJgSpXyBGIkB1hsPWHz_b1gRbDwue2oSu0gO6AT310AwcrQRke2tkDZjR4sxpaX4AdAE9c66BD9OAeACTxgvqK2yGNKNC0HDhdQDvE0FTWCdxwvOIF6GA_eEKDRC1kTRuwBQCqGZ9thrQhgEPU4OEYUEkM3cmxoxnSSDWHDejOhpTtoL0hkIQKPLUHOoEHTr3wqTtQFwO4_G_LJlifGD6nA4wHyCQfyDPQZLgb2NFYD1u2Am5igQpg6LIVzJ4hZLExrGcIX5KD1DPsBRkIWwkMWRsKNBC6GBh9C9QM4G6KNZDjBcGpBlJ5gxYXQH0NPARx9xTYUAH8BBmgR2AxCkkiSxeAFt9AF-hBOn2QSgDsTVBoQhq15rBB37kbQcPaPZDRVpBZsJFtYL0FraHR8gJkfBc6Uz61-cU0SPIBdXyh5Q7qnMbTfRBfQQZup0O0wEYzYL1zSMZEHs1YMR-4lQi2JgQ-CwoZVAWGNXSJCHBN1JPdM2HLSSGhBinIoAeePWuAblKBjctMeDYdkoqBcQbpEAG9swx1sAbc_IWdswUMMnDD1xza8AWtS57fB0sR8CwDL6qQRg-Acw_A9ZfwjfLQkgiRuZ7v2Phi02qkJSzw8XBIHkEMFUILHXDVCzwJDawYMh8AzmhT20DFOfQIBnhgQQICaAJkBdzqF3t2P9sJySiQHTHwgzdAg8rAjaUvoMv34Oe2QPIyaMILNmAKlIIMmIJ2ZYGTBWy6Cdg37IC0CSE1G3ixNTC5gdrK5tC2MnwJDNEnpwCDDFi1Q_aIdD5dCDwbEtJ-gW9tg7SSoWUwcL0TLCGDO_5NXWg5FxR_3TNBqzugKQs8nARd3QFdTgwsGYHjTSjLPxCLtsFdh9k7weug4B1raIkJa3BCu8rP-iB1Jei4Q7AIYnsa8CgwcMvYHNYyBg7x7WqBb7dELp6QJm6WAesG4GGawLNIUZMepDgARhc0pYADC2UjH-bgE2j5xIz9z7dvhBVh8EIHUYSBzhUCL1yEJSvIeDB0SBBsyDrgPARsxwWoGQleBITUyZq7EZb8IWULvCMC5AJDfCu2_cSwhYXAfAfK1uZYxoyBMmirioGVI2pHFNH_hK2kwzcvDDoMdELn8wmQbios6BELQhBzeKAWBsYRlECfo4X4052tqFsDgOPQKBsEnuyF9AyAToW0zoDhDmx_w_tfkJ3QTS93QlpSoBNBoblsKqTjCsmboE2gwNQEbmSbw8aV53XDylfI4iVEyQqUwpqwny2dDIsKSNMOEVGQ9hG2taLAXR3w2APHOagRBCzmQMufsByKhz65DkwswJwLPfALswkGLhZAhySinysBLI_2QwahgGog3Tpww2oTpGMMNB_WLp0J6WxAAg58IA-wPAIffgfb-7gbVJbD4hw91TzbDCkOgd0xaN0BXs3eC1tcAbQVXmAjFldAz33ZPhcpPYKPsYL1eIDr-GB76yFL7uFnNEI68Xg2UIL8Bo45oBXAtRnABjCwPQE-QgC0Ug-Si2FzEsC0g7a5Cmh1N_yESGiZDQ5WSFENaZebw5ZkYFvDAFKFukwV7RRZ2J5o6G5o6KkYCyY-3QOJXsjWI-QttaBRFWBQPu9c-GTHTtioHXBVNGzlMGzFOyhouqCH2UKm6MAR0P9sCuRMCvCWSvApMtg2eEJX-rxsgGQLWIIFFgUrZjzdD-lCAts0iGNPUKaJsZTlPZDUBG6sm0Mb689ntT_btwSpsoQUqMAIgZwoA604X86BGA0qd2AD1NCDRGFDSKDBF7A4sE-_7ukuSKsPtMoI6mjg6snVkHYNpAEFbyKAghs8ctLztAtSKsOWC4HqOOCqnBUYJ23AV2dCQgrsjH0LQYenr2h4MREygA0ML6AXgA6AdCEgq0LXveiCrzmDuHbe00mQFgCk8Qge3FgNab5bwJrvGxY_bYAcmAVZyQCfJAEP0wBbBrMgfTdIXQPJd6AyG5wkUTZxg4IG45gO3GsewB29xklAQ2BVHlKdDQpE-EwW0J9Ax0BWQgNzB3hH0EbIcC1s7yp4vBnjIJieF80LX8zd9mIGJMKAZkKXnMMXSoBDBNIEt4A2wZGGVJZhP6oUFDrgAUr4_iRsPUFQUx7aoQdGEXKpATlvGeQCSHEO75eDW-eQpAo9NgNSEj_bD4lYSE0KTLmIcThQv2fu_hd7IT6H9HvgnRvoXl8cp50Ai3PIMZuQ9rQFtD0NWgrYtB14uA_Q4qebIePPsAlpWDHxchYk3wKbgpCGPzA4YMOmE5uergNX58BTdJv2AqdiwAqAx-RDUhl0DAAo-Hw2JHRAO1kgNQJkQScoQIHn5_ZOf74aEqaQ83MhvSfEsuGXW-e9nLjv5R5IcQMMXEiAQqyD7mF53g465R6sAHYMGWwCAxo0OHdVg9MFKLdZQNvKMJtguQtUVgO1Af0Dqi_BJ9ND-paQ_hrKNC4wBmAJBBID0BMT4O3plw2QjAo6whasC8sptpAm1UtQiMOjBN7LAXoMOlcH3FUL7Jc-3QY5bwOSpyDehu5gB_kFdJg_UBY0og7J0RitAdAS0hfTIB11eC8KmN6BLgTW3KBFruAWswWsxYw2pgcaEkQ66HvnXKznWIBjaRVw-yhS6oWP5kFOH0U_QwGjiAGtJoDFLfLcQPeLBbth65ogpTJ8URN41Bm4YrQXdjYAVBxYhYNPtwSe_oo8Jg1KmFi2BIAyDigbWMAaxKDAAw3oPe2dCJvGBW4xhc_hrgZeyYB0Cja8rAXnQ_DmFtA58sCNJ9AlHfA11_Axc-jyjmdzVsGmdCELuWBrPpCmdMEhuxJ4VD9YBLwrAnY-FXCv6dMOWNsMGh_ARA0ZxgaGOHSVBcYY2zpsB20te9oPqR8gxTDoTGHUIgy40AKUWMANYgvYPsLdE59Bh91BJ1CBUw103RXamXeY-QJyCh4oO2CsY0YbNAAGNzjFQU_yAtaOLybDR9fAi7uR1vWBmgvL4ekFGNyIFXAvVnRAT6OCbmmBzuQ-WwsJREjPFtjXRXUquK0MjKdn3cDjVOAnsECyLaQJgnoCC7TBDRqQgAUuUkkESqkW0FYyyiDkpv2wWgYywwutZcDJG8cp-jv3AVP-0w3w7T1Ap0CGJoClCYgL8fazadufboHELfC8R-T6GLyuHuNwe-TeA-YkN1rcQMpEWIEIHg8BJhzkCAP1DYG9c9CiA0j6Qmk9QoaugckKFC8WsKHrGcD2HtxixEQl9kOyMKyH7KgBBdC6ObAmAzB-oC0FUP7CttQa1BhdAe5_gGISohK0Wg9iFLizAltYBT42B3hJB7ygBdYDsJY68JIS5NNbQIURKJS3bwQOHgLzNaxuQaxFBTcOEJUMtsOEIYMboOQDbhZbwHYE7t8I6z0Csz3QETh7jyjnTTV2YD18AXTC0aYm4CFHYJWw06VgmyRgqQl46g7EfaCVdNDSEHPTOHjFwVPI0mT05QbwohdcSIFyPWTqGVy94piMwuj9gJZdAteZwApK-HEtkEUm4HITdPY2pIlsCW0ioyyOa4XsCoKfmbID47C0btjgITQcweVdC_CSiGd9kLE0SFYCzqlDh8RgAQEbQgX3vGBjxvCeF6KceroB0pKCTgeDzhWZOO9FFyR8gQd6AAMLmi6Alj6fPAfpiC3IEB3sJC_QND-8qgGdZw5N5hgDAy8bIH0XyPllkNYP5FxuoPDzrZCmODD_gNpCQEmQ2UAhYHf9WQv4TIa104GbJUAZsWf908Z24Hg0UOmLhSuAgs9nQaq46ZC7dWBbN8BH4IDHl4HJC7iC4-V84CDlpOdTgCohk4BdXFr6XFwBiUUlhlZh-ZnJqQ41BjXVQB8pKNgYmmnZgVk1CqbxCrpACKQQrBoFQzDTEKuYEZg2BopAWBBoAMQ1YDN9DGtACQIsCkw0SOw2oB6gR6C8blCbBMpeDZbphvJ6QA0FKLsXLLMMySaQk6A2GYHkVkFUNk0GsvfAbUWSAZnXOBXCbt4DloGZvhiIgbOXzcjamrqwW2YMkoNp3Ad2NIS9HmxkL5Iz-uBskEwbVN1-JD3TwTK7sdtkgmQe0KnADINiHiI4gbGP4q0mqMxURFA0dYJlJmK3yRQkBw0akE1QF8FCAmoe2E-oNkH1AMMDpBY5EnFElRlysE9DCsnZKBGyDSgzCdmmpkaozASwX5DDYQV2m8xBcluhunrBqiHsdWDzsMQg1E-zEXoa56PYBPE7hk0WSMkZ6E6ETeAUgccmWEIHhes-qP4efKFniZwiQOmoB85GDr0lGDZB_QHObLB4noLPT4YGyHkUlHNghoODD-6IPWBvIluFnCwXQNktYBmIkzCtAhcUMONBBQWw346SFRvXQgMHFFBTUNwBy-kg24BDFu1wLijkISkI00JweQHz22ykCIMkXWgSBxYAsIiA-Q0WScBgRIpWfMEIKi2A8QFRugIRL8AgBcnA8gywHdCMsBlqWweSr-ciewxXkjcElRhN0HKmCRSSMPYklPSxAIhnoliFyO8ww2FWQSIX0ypwkbEJYSC0uISFIXKCg6WVBSiOAAYGPNyngaMLwsO0ClxmIMo-hOEQF0J9Aixt0aMLlr_Wg2WhIY03KYILDZhPQIEBbPigpCkUj0FjD2obNDBAiQOeL3eAPQZxB6Zt4IIDVoSCPAZcqos74aMmDliCWAeUbYC7CZGwMW0DFx5QQxoXIiXFLrAjEYUqPN9CrYLF33ykWIYEI8SbGFYZgQqPJpg2UNaEWYWSabFksP1QGVDQw0IaUjNswGEVSisDKZigRSKs7gelNpQKBV41rALi5Si-wtXKABcbMG3AwIC7cDNKatuBFEzLkHMXOGihtQu0RsGRDo3AxQbMqingQIQFGSKngNyLniygwQmuxGHOgyQlHCWUEbiVAc3z4BiBBSAkNcEMQUow0BoZWjyBswksfufjS-9GyM0McGDAggzSzIA1kEAJBnudAkzsSLkTJLMDh1XgMgNqCDhHopZqyEUrSgDCsgHYV8B-AGrmxxVd4GIDkkJRPQap-BbCQxS9zIBFMaguhxaM0BYArvQOLjOQi-ttUDawCmkH65yGy2_wlg0ocSBcC_I1jprSCFxmIBe9sFoTGDTNyDUY0AS4mWitUORaD28GMwa3OZAzC2qkwXggXyNSEUgGmnKAFsOLHagMsE0AKVExbQOVHPBEDEpzUOdDIg0YDVCfIlRBch88S4CCEVHyINyBaRVygwM5XoAGIzkf1BSBpQJoGEIdAdazFsVjOJKiMbjkwN1uQ04CsFQEaSwhN8BgGQeSOHB1hMAlB7Kv9kKNgPSEoGU5KNWjtr1RohgW6Hh7DcbgkgOpZYlUuYBkIN0aiK-wl4egHh56dsaV6o3BhcdKqCM7wdURctAjl2CwxvRulHIK5EJ4TQnLl7gSB7jwQK7BoK1MYK0EkoE1b5DNhAQjUhMAntk2gWUg9TemVeDCA1YlNgExagaDGQIqjVDrZVgLFpg4YL1QaN0GKcEwrQKXHIjuEyJNTkSpwYCVJZpVyL6CWdsHlsHRFDUBtzZg_UNQEpgBtRacu-BWAZtyrfBoQB8BAFVva-GuxZPBTMANDkS4IXr8hNrYyAMUqOGOoxIzARcbsBQ2E4hhZRJqG3siwhHQSgzWIIR2K1DLekgsY9oGLjmgQQfuQkLbS0A2elyi5jFwCkeEByIz4os0cOEBK_hmIMX1TLC2CVDbQCUYarWCXPrCgnEVvnLKBFR4gAZJW5EcCQ4ZpMBEakPDa2WohUhxjVbsYG_-1gAHxUAixtCBMUOgCIRlpGAKpk3hIshqIANrEIg-jIac3mC5FKUQABVTaH1-WCEOqplheR7clsbZPkPOR6BxFlhxAynPYXU4uHeO6LoCS9VWlFoMNZ9BMyGewTSUOgleX4MqJHRJ1FwDK4eQEg_QZ4g8iJkQQHKw1u0epJKsCblYBxahOCoRcOsYVjxBCloc9RW4uoINTYAyDMrYGKw6AXeooG6AZlxYGIJ8ixjNQbgbwyZwVdULVbkMiQ0JvcVQHmbLAlatgIoVWK8LEq4Q12HYhNI13o3kJ4hNS6FmgGp71I4WLJSRu48QP0FiDcMmcC0FazMjuRxSgSMnNaSmJdqAJKhyQ-2U4EiB4HoKllaR6npo9oI5fg684IRFFax0BA2ywsaFIO1DHIkCMqQGbVaglCbgUQK4L0HhBK2z0EogUJUIG_5agS-uIENqMLevRSRhaFaGtegxO-CwTAAa0YEVBXg7dZDBNKRCGa2xBKuLwU0AeOZGC0NQKQ9rLuJNGpDxNESxD6s7oePb8EY7Rs6Ct1OBXkYb7sM1wgUuLmAJFrkTA5mLgBoCzDToVkH1YOnu4-jUQQbTYAEAGseCl7VIsQwZkUbtGCNVY8ACDZ4viBhPQ5RjiKoXHPTwMgjUrIC1ziFJABZuoDIDllrxdnwg42nISR7RTEMKQ3CfA7XIhXoTPMwCS0L4h7fApQZSHxytsQyrAYFtW7TyCdYwBeUu2CghJIpxZWRwmYE80oKYy0JyO5bcBUszoPQOjWJo_YirSgaXGbBGGaj13QtlQ-IKNlqBlMWhVsFiEdSwhcXvSrAMjhY7ZCQNMXCB6ElDRlqgBTy4gYRa5mJvGOCv-CGDaTBHAlub8Ky7AWwm8rATrD-0ECwDK2uRh1kg3WiIezGtApcZsNEVUDsJpo1QGMLUgWZuoOUMgREuyJQdoj0Mqr1gMQYpemEeA9bVsBSKVnWBPLYdqgoS9LiGncDFBlIPBp7kIQ0aRK1EoMWOGC5AGIhpG7jYgDU-5wIxdOQJWC8ixSU4bUMNRBsI6gUHAixIEYGBaRWo2AC12JEdiRgKAemEdTJAQ_vwMSmUAF6N0IPSgMW0DVxywEbiQDEG7XxA4xpWZIGqAJT0gTJ4hBSkeKsVyJAasJmL1BtBGmsCScJ4oDyIWlQhTXUgFdN4ahbIkBqs7AO22mCNGJRyG9rsRk8lsGKHpLETlPF4kN9gFkIal9CRdnABTanfkFse4FwDMwI66oqSftBsg-UUUHMVFt6QkQlcPRXkrgrYti1QbZAGC-5RV6R2HXxCFBLRuMbwwKUIbHQOFPqwgTVIyoKld1DVjRgDQPYVruY5plXgvjFyfwS1GEYelkJteQCnqpBDF7VhPw-HbeAiBFYJAmfK4b2xqSjtC1ChD23joY2dgJr1MC9DKtteHFaBWx7YOhGo40-gcgznxBo8e0Aa6LiiC1x-4E6HyFPU2FdPgPTAnAoZysBRv0BG1VALD_gEAOpcA7BtjNYsRR44QTECUZRhWAgeW4MX2sCeNrw0hIz-weIFVMWgFvqw5hFoIAnRAATJ4OjJQgbWkEdyd8KDB7-BSCuJkDoAePIyZGANMfkELr1h4YG6PARpqgRLwwoW0ZDAwNFchAysIQbbES0OSIwhpQK0LiasfgElUlhIQ9bxzMJhFbjkwJbBwB5Edj6w24rWy4Rl4c1IaQUyZY-jyQ0ZWIP14UAT0TA2ZO4VueuH2mKEFTigQVJYXxTS-MBuFXB9GljEFGkADTbIhhAxg7IgMggRCEQbUoMXeqD2CmwdAyTukSeu0NpNCB-hNk9AkpBEiRFK4LQGH4MGYlhzFtJsguUtUBGFeyActrYAUm9AUgyGTeB0ButFLkWKRUi1AUvSaxG2ojXgVyLphwQFjnIInMxg-QdjmR7u8S0UPyGW5YH0QMoVDJvASQylnQUNCUihAMsVmMPESGvg4M2JrfiKceQZY3ClCxtlgMxZwspVzESBmKRA6IesrcK3Mg15NgBtYSTyIhB0Sdz9IhzeAldOiK4wcj8OFLSwogizukBZ-YLo_0BSII7GLbh6Qm4zoIxjwC0DjSyg1haI5U3I07wgGRy9VchgGqy8wTUgAclwqGUP8jAbooMHkoG0TTGtAldMsEoGFCWos_vII9SoawmgzgOPwMP0Q1o6OKpbyGBaL8JAtCWfiP4MensWqVZCyn546kDISBpyuCNSJEgbzBHg2hHKhoykwApL5L4tuCzDaRXysjTwtCOskAHP9cBjAdSeRW32YeltQofEcK2AA5cX0LkccF8f1m2EJHfktZi4m32oS0xwZCyUZWngGEFdYApLm5jjJTBHgNorsOYUpJCBBCemVeASA5YvQF3eNVA2ODXBYwHY5UVtQcBLS9DANlFNI8gwGqJJifAHuPBEiSvULAzzFSgvboQ7CBGLmFaBSwtY2Y68mALSXUceHEKdJYHpQapFoO0iSNrEsAqyIA22jLkXySpIuMP8uxYjWcD8OwslMEEyOJpgkGE0LHU3NPcgNx9RkwVy-xx1sAPX0i2MZSWwiSqM0oKUVRE4ogsyjAaNWbBtGMujkIfEUfuR4DlBiCTyADzeeVvIYBryMCtsUhjiPVhdi9m5Rw5jWNkFmS_pxWEVeCQNS0EO9RhsJAS4XakdYT7UNmhhBg4SWFxDbMM1BAQuOZCjGxYekEIKETroCR-5-CKqkIKsTEOePYbVyJAuC_K6DpSSEj6jCurZwWYBIJkFV2oElxzIvTT0tbNIQ0HoMYY0ZI5afeHqe0CG0bAtuodkM-T5A8RYIVJ0gSePELPNUG040gdkGA25MIXZBolo2IwPqG5DXTyASBDw2gxafuAa1QKXH7DwACUOWBwhjxmB21Bo48fIBQGstYo3cUAG0PC282DZAGmtEOqIDHioCaYK_3IxcPkBCWBIvKCWp0g1KVppBctgoMBAjB8i9GBahdwNBvsKMToHkkEbQEFtYSMvJ4dWs_iXZEIWpyHtGoE3dSBpCtsoD7w7DpugB0nCtOFfS4gyhga0Db52F6INVjeCZFCDERr0YHcgxqTwpQ9w4YFcTiE2AuEqwZANhDT0YWUW3iYiyhgaFgNheQBtpB1jMS98HBJcs-DqkkOG0VDyC7qZiCkiHHN44KodVrDi7YFBxtDmINmG8A2SO8ApB7VUhJWXoP4DbHwRssQA14gMuPDAuYIWvsgJNDeCmjigY23gFgFqKwKSZDGtAhceMBeCggmWvhrB2mBzKLjnW0FFAKx4hCwAxzXagDKwARykQJvahcUVKJhgKQ9S1iMva4flLki1gqOhiDKAhtKDRZnaBZWHaKUvctqFBTpkUB7XaiRwsYE2EwfzCmpPC3NKDXmcAla94Zv0xzZcBllvZgSXIXVNGpKP0dZ8IK-YQ4172PIS5NVl4MFCXIsVIB1ijLV7KIPXKO0b1FoKNuq6Byk0IVU2jhwETmqwLg8omyDan8gpA2PBAjxrgcbIYarm4SvIwSkNuKcetu8G1BtEDFqBJGHVKqgdiNqtgwU9aPyUqIFhcFqD7XLZCsRrkb0FjwokGTSbOoAYNt4EKVtxBCC4ekJMgCAW6ECSBnjfAI4wJGtaGlxHITeXEMkSOQEgbVJBG7brRcjgnwEEV1HISQNlWS3uYSCUBXCw_j7eng-4eoLNroMKIVj_FHXvJdLCerRBDFDbFhYmkOFVXN19cN0EK1qBY8bwTjKkuoaN2IEWuUEbQ2gJAxSwiCY1PqvAhQZySxk2qA1Jg7BQAqVp7B1j0AwDLIeAuyLQ_hCmVeCVrMgremF1PWSNNvKKH2jQQq2ClqXgQIfVuMjr2DCtQtlvAdrQDMv8kHBH9BPQu42wkT1QrQUrwMALdKAOx7QKXGLAku1apGQLqdJgLT_QUAVqKQhLMKC4gkzNEtoriLK7E6ndDe02wlrkoAIeFm-ow-TIM65ErEaDRfEypCiGJHYsU9poiR00XwXzO_6xLXBZgdiTjDz4hL9wR1uKAhsOQO6uY9qGsbsTFjaQiR_YQk5w_ws9cWBrgUBiGdfCSPTBNKTddMh1CWZHDnlMAcZeiuQIDKsga9IQA9Nww6E5BXklBOrwBaylgrmOFVcvH1xmIIokhAshiQO5Lw_LQ5AxR1g2AZWRsBS6E69V4JYGrIpD3t0J6UPDMgPmLn7cQ--4VomBywzklIFrVx2W7TGw_IDcWoTskO3FYRvKZB1wxyi8UIcUAbBIWYMzZSAvEYUkQlxLCFE2eCLtSICu5YeF7iKMdiEsrEGNe-KiC2XhO2gKEtYlhhTxsBIKqVWFGoDg1ASrFiCDHbisAhcbsEQIKjZga8UgKQPmXqSkBrUKliRBHVOYU_F2gyFjaLACEDMXIy0_QgtAWNCCkgUsRvEWhpABNOSTPXbBrUUqyLGsZ8K-XQNSjiHyA4aFkDE0WGCB2rSwdDgLJcmDugbQoUjMHjfSUSQgvxG1CA1p7RKwakXLDGh-Q4yboY8ZQZZgYVqFrYMCCyHIYiiYO8ArptALeuQCB7aVB2IhpA2NaSG48ICWnuDxH9RKDBZAmCtyYNmZ6Hk7yDAatult5I4NdB4AVw0GaiLAbMO71AhljydoQh911y0SDz3SECPhiMoSv8fAhQdyOoZFA_L-IehMPHpOg9U5oKYKLATwNgQgw2iwoEPayQutxBDjd4gtiBB3EGosY1oFLj9grgJt44SN60BqReSN6NBIQSuqkM-FwB-GyBs8sYwBQMtILPvCYdEFSruoo1oQJ2FYBRlAQ87OKAPOcP8C-6ho_SHEEhN4zwu65ZqoATRwHkKUcJAxJSyLabGkQ1h4QmoWHNt0IGNoyOcGoG5rh3X7QKNrqEkeeWwbdYkAfDgf0zbwyVUw1cgnPUCWa8EWhoC6tqjrg2BLu4FxCZ8OhnRVcI3YgUsOpG4lapqCN92BxzyhWYU8cgCcbSNukSK45EAb1EcdBoDNaoDSKeo-OOQJGkIrkmohB6kZDcRBarA6C6kjidlcBNaQQG8hew_3bmpcM4YgOeTBatRNl8j7pVGTJFJRAJ95hjTucayLBCdH5L1SsOCHRBnuY32QsiRoYQgsdeLdb4K83Rh5ogCaa5A7QagJElY6g0orxJJBhB4Mm8CJEdbJRK3zoQU-zjMYUJaCosxk4MpooIoMJQxRz4lCHkPCvtwFVD2jHqeGI11gnFIAy9GQ2IIV5KBGP2pxj5hJR184he84NeReOsqSPxTfYj32Dly0oRak-Jar4V5XjNza7oXKoPY7QWmTqD0mkHE2nI0blNWAqCNSsGQAaqvCMgikZ4Rrdxq4uEAuR2HJFtIchSVoUG0JMxy1HgV1OqH-hYx8ICQxbQMPtSHHCWqKRl7eAyuEIWNIyNUerP8LPvEC54AKuOWLJaRQIwXcQ0NtBiAXTSir3PDu_YSHDqg-R116guwrxNIWqG2oOyNgRQsBC8GlBvJaF0QhgZzxQNkVe8cPtEoK5mD8G3bBjV_oRkfwwllYvTAXpbJHkkGbdALN0MNqhRn4cjJkwA2R6RHaUPd7YB0Cgw0QIW3HR9m9jGkbuOBArrpQjx9EmjYC-Q2WK5AHoCBHRSEmKPEFI7jwQN4PBNMGSd5YikrM1IjWZsa1sgZceMBK7HlIpRGkVQ8rFkDtfdST25Brf1g0QKbbcB34BC48YMaDDERtIyINZ-NYcwWa8of5ELKsFteaPORTW8FpCnV1AXR7FXIbBG04G1QuI1IrSAbXEnyUYyZ6EYGB3mZGnXeCFCtINRHSQnSoNkiCwrQQZR8GZnGPlCVgcYmW6lEP0YCeG4FrKAfXsBu094Fy1gmilAE3mJGjDpxBULh4i37IEBzy3CvKqbHwuV5QzYXSgIN3mzE7SrhWzIELErRRFoyjGXG3GGEJEpS7sdV5mBainJSEvG8SMs2BnO9RczdsLBzUCIFFM2T7GI76GjIQh9yhw1jgApMETcLCYg_j2BXoKAysWIPs9cY7Foc7fcKGlzDHWpALc4wIwLWOCLlTDa7CMPbOIEmijbvBxlpBMqhrgnAsAYcetoY2MImWleAlI6gDAa3bYb0LhDbk3IB3LQd4UA7bEVRos2JrEZUeNCsg70JCbWPgOFsTc20bLHGjzlOAZsWwzlOAqzhYeOM9xQYyItcLVYq8Qg1SDyMOqEEfCYFlFuRpFMiQFq4kgryqDaV7AalNkbtMqO1jWKMEOBxH5HI95MMawYUTYj0-sq-wjmrCmrCgSWpYTsTbTICMyMEcCRr1hg2gQCpH3GdFIK9cQG1T4wpD5FVtyDscUFdkga1C7ePCWiEgGVjUgZ2HszcNXk8PCylQ2oUFxhbkFgmW4hFbaoIcSoXLKnDhAXNhL5IPIUfuwdIJKCND0z7aUBLSCUf4D5eBDMfhLhWR1hmiLdCHOYKUo68gq9pg5RDyCjVCc5uwIhFUmiB2QOHJyJDhOMTRC4hhYVSrQDOYqK06pJqHuE35kLE43KP4yHsroZkJrWYBHZ-L0lbFsQKRFseswUoFUJjDKn_w6gX4kcWYow4kb-IGpzJYKwTnuULgyh6W1CHbcGF1BfJuN_zVEnK4gnTB2JB0BOswg2pk1IlLmIuQTxiAlI64Nm-D5GCjJ8g9NkhHD-ZypKON0IY3QMs7EOukEMkVwyZw-kIuG1EbBUhnZ6DFE6yjDCooUFqSeCxDaeGCyh7U3hDMwaB9s6hTlohBAXAVDQtpvN08cL2ENngA8yjyRirIJD7W_RPgYhU2KoJ3_hxcLeEu6rAcOkruZBvKPBHSXi5orYQ43Al9vhJWKoGKRlgcQIo5SNbEsAkyyIa8MAWpFYhzWwha_xX5vCTIMpheHLYhbwsF24Y6EYu2mBH3HDpRlTtknA0xXIAYc4Osd8AzWo4cHlBVeAewIeNsuI9hRptoQc3PsGk_pKOu8VeDKMesoWytgRR6yIcIYN3PAJ5egrHxD9mAyw7kWhx1yQPy0hrU9V_wCWFwEwTCxr_lFTwwjzyrAAtDiK9ghRGo-YnaakEeR0GdsME13gsuN9bCfYI-dIjTV_BAAy3uRAlAXGv-ISNsyKOpqFYhHe6DY3II2EpHW9-Ha0AUXGwgux0WgJDVx8jdbNRiA2mYD-RC2AYbSOWK78IClGWhm6FsSCsdthkOczUR8lISlD2luNamol5YAFrSglgVB5JBnqlELeNhPbteJAfhvS0GMsKGrR0J6ZUiz7FgX9KGvCAYv1XgMgPWmQFlfljAIM_so0w64Jmih5zliKv5hHI6EvKwAGQkF-Z2zBMNYJkOXPsjFOIfCILt0oCdSgsKfcQqYfxFL3JOQVkWjKvohQypwWYMkM8whbQoYa19pLYh1CqU2RR4zUNw-gYysIbWWkEdHMU9P4atuw7pYOFY7wAZVcN2AQTqSQrAMEZL-7CECxqJgxUKkLYAZCID0ypw-YHtbDzIkAesnQjKt6hpH3FAGiKJ4I001IVtRDWz0cdWwRGFnCbRRvcw7QSXItgW-hDq0cHSJNI2Kvzn_kLG07DNJKCcJYs8WYDWyAFFJ-rYPo5CH7K2DfnOA4wt5rCRBcxyH7alEen4XEi-RWQcTAvBZQliXwui3IcEIyxVg2YnUFMJcn5DzRW4xu3ABQlyCQnrSyCfFQNJkDinO9DWueMac0I5mQJpjgGthERaNYvalyX-kjXwYBo8VQO7VvCgR94Bj1IjoGUzYGcR7f4iXDcKoBzTCIqrRVDDIS1gpPEDtGKY5KOuMda2IdXXyMEEbNdhXxwI9i_qCndIFGBYBVnbhmwV9vU2oI1-CFXIWRz5_kSI83Dt2ASXGcjLOWHJG7nRB6mjUeMKViEgJRj8tSZkJA3mKlBXEfUcZGCFg3sXGLRZgjzMBvUyjqwFGUmDzWgjdyEwm1SwuhWcZuDzeSCrYPrxnuENGUlDWbqPa-cw0j0qaB1a5KDHezojymAaeJh1LZQNHvuEV2mYd01gKwzxxRgNDlhDWviAvtoKliGRlnpDzwlB6rAjL3TDf04Ieg6C6UJdmYT7Jgmiz9LCuPoTVoRDMhAs5kH9KdSYh8U2qPkCiw7kZfaYMY-WbtE2BiNf1YlaL8HUgXoqsOQBaYb0YrcJ-YA1cIsTfmIgOMyR23ioUyFYtn5DkxiOugJl3QmonYkyTA7PHRjTxfAiC3TkBaxWwndaIHgkDeVseVg1hDoRAirOUAo6lDObUE-AwXFFC7hOgpUioDPzUWd3YLOAwH21aEUqLMRAZQHMJkj1h6OpgnL1J2j4CrXpDJNBus0SbQgf-ZYg_NvkwFUS4Xs3wEvz0E70h7cTQekFteDBNbAFLiuQB2VQT09FnunEehgjyiVX-AdlwCUF8noOWHhApk6RrULNv8hhiNiUjycFQsbQYGv2QUsyYL18zNMEURM78npkxOA4SAZHYwUygIZzcQvKNYy410vCAhOyPhtHDoacroa2GRJ1kRUsIkB3FmLtV4EDA1YmQ_IjroEtcIGBVCOAq1rkxc7IxTvosFNUC5HONiJySRe4Mwwrh0AHR6LkZngfBue5_uD0gdhJgS_VI4-_g4MRVg8uxkiK2LunoJE01MIQVzCCSw5YpgL10mAjwoQ2Q8Eas6CcAjvOA__2NXDJAUtwND3iBzKMhjTZDY8r5PM9IKkNewcYVH_DMhv-7ZoYDQzUxizMv5hDCbAUCOqswHq1kLjCdXgcuNhA6tbDj5BE7q9gOykROQVCHQTtF-G6SBJliwby4CDmOXXYm7GgcXdYdwxSdeEa9kHp-iKvpobkEdybXbGNxYAXhOBaIwwZQMM-9YLWo8JsNCNnOtQoxnFBO2T0DM02VJ1YtuujzpSAiyfUVfu49qEiH-UKDkbUc6QRm7fRGxu4V1fhKJ5QT1dDOnQdrQGP-6wLUBaHlRn429QoNxQgXdGPtsgIaQgPbc5zA0riwlM8QW78xLLVA7qBGvm-DNR0iCVHQlet4Di2GDxohv8GC5g7QCEFjSC0NhTIY7DaFRKGuBZqIY--g49BQpxWC5KBJUlQHYk6aIZthzLezhZ4xAw-DwmKLsRKBpAMLEmCzt1FLaFgOQE0WY6YysDnK_RLP5GmdlDWyGHrB8FCF_nSMcjMEa5lYcjnUCDPU0CLUUQHEdctMSBHwKodvBP9kBVoyH041E0JiLyGnrtgKQh5jGMz3twFLjOQXYixaBNpaB3tgA3koEftAsCLPEwLUcbdkU49hGRneHcfc3YGeUQV1hzAuxISMnQGjQtweQjriEFqMNj4A-Z6N-TBbFi8QjpsOIIRMnQG8xWoFEAdYUK-tQAx_oNU9IK3wSLGIfGUHJChM-SRfdjgAaFCCud5KDgHGZBXoGFZq4VcUkLHWqH9ZFiNjXS-H_5TLcHjZvh7DjAn94JDFdljsCgCjYHCcg2k5MAVXeCSA9vqbchRAzCPgZI86qBGL9QzyHNT-E7XoMW5asiz6Oj3dKDMiKPup0Keq4B1LyFTZLgmG0FyWMZGIcvV4SkcVJLjrA1RZ-VxTkgg0ju0EIKyUSerQKMu0LkU1MlhcO5BtNtBMjgmCcCNWlj5CTpMFja1ALEJy1kGWKZqEdu_EeGAYRPyOjQsi2SQ98kSO52Do8pFmc1BHi-CDAvACgSkcS60oQSk0x4hYzG44gm5_wvM44hQgaQjJDegNcWgs2YobXvkk5MxbAJXS7DKEhTviMwKkoG1L0C9N5Q6CWnxCKI8hUyg4Wg1g-sjWPMQFLtrobogHW3keEdbHYM6R0FUQocMnSEPZsG0odyhDE7pqHUtLNSQljFDC28ci5Uh42awlj1wNACe5CADt8jHZaAmC8T6afRtsjiOHIGMmyFv9AGfg40czTAzQUO0KLv6kMtvkE7Y0gm8SzzAo2coBQZSHwtj4wvSeSZoFQZoBAJ1DA3XcB3GtA5KjwxlDA21fif9EDJwwYHcIkONA-z3pcJ2KWLvauIPTJSTkkBlNqwNRqj8QJoQhPfRIf0QHMMXkAE0LDsyUOZAIaeNY98wArpGAdFExBeM4BIEuYWCWoIgj0NiPToDuOwK0ZeDtCZwDbCiNGlBVqGu2ESe58K-eh55gQxkehHXSAnGSScwbZAFx4hjatBLYGyjWnhPs4QMoMGqXqSuBtQqmH-RhkHRGn_A6XT4zD8krnCczwEZQEPeyAUrjzGPY0Tdi4WlO4b_9FHwABq85AANXMCWL0FSICyRYE4yITWs0MZVcJSKkAE05PoDZdwdeekKqEmGWtzDClPQKhxYEwX_eWeQvVjYN6qiLOvAvcYOZQkw_lVvyOvQkPfIQesk2CoZzOkLWHiAhmtgVRD--zLAZQb46liITlArHzGKBJaE8jC2tCH3UOB5GZI-cEUauNhAvvUGdfsAytHC-A4vhrkQf6SBSw7kihPbDkZI4kG9NgCWL5HHZfEfxwQuOZCHAGHFKEpnGLy7BusVMeAyBTH_icixmFaBSw7kTeeIkSfkUh4zjyENeaFahevIU8jaM-TdhLA8BgkM5OPrsO7KIT5lQMbQYOGOfAwWpHJYi9MqWDMW1ElBJBGQ8_Bu4YRZhbyRAvX4bND4H6pVSPsI4Qe5Qs6KxrWSCTxjh7TpCu3-RlhcId38iVZ3gU_GRxQukKYGjj4RyhgaOFWjjsvCbAPV_6hZC3lZF-yoWbzbAiFjaMgrmFH7X8izvBSelAgZQ4N1SUB1CiwRop5qCWrUo3b1YC1U0MIzWHaEDP7gSu_gAgMx4INoTEOWx8AsBvVsUXMxtC8ENBh9Sz2OlAEZPUOebYbV_xBtSJ1otFwMNR68GB51uQOufZXoN4ujbVnGe7sOYrs-oglAxOWeWPZIQteZwHqNOxHJn9BgOM7T4pAPfwaXDKjlO2wYBmmcCboYB3l4mqiqBPViAsxtA4i94-hlBurhFkiH2iBciGkbuLWB1FuFN4lQb0fFPC4LtjEB1HOHNTtwnUAOPE5N104BdKKaYbSPYawCgmOEzDFG5pggc0yROWbIHHNkjgUyxxKZY2iAwkNxgyGKIwxRXGGI4gxDFHcYojjEEMUlhihOMURxixGKW4xQwwPFLUYobjFCcYsRiluMUNxihOIWIxS3GKG4xRjFLcYobjFGjRwUtxijuMUYxS3GKG4xRnGLMYpbjFHcYoLiFhMUt5iguMUENaWguMUE4RYj5MQG5CDMAHIQRgA5CBOAHBQDEH4BchBeAXIQPgFyEB4BWYrwCIiH4gakxAbiobgCKbGBeKgeQXEIUmID8VCcgpTYQH5GcQtSYgPxUNyClNhAPBS3ICU2EA_FLUiJDcRDcQtSYgMFOYpbkBIbiIcaOShuQUpsIB6KW5ASG4iH4hakxAbiobgFKbGBeChuQUpsIB5qSkFxCySxKXMBAA)]
+- [鋼琴伴奏 TMD 檔案](taiwan_shuyu_shoka_full_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRvut54-KnE1e8bOx6OmXjs7U97_d0PF3X82zqluedHY-bdz9tXfFk59zHDe3P1ze839OpoKXFVaeg9GTvnBcr573fM-vpuvYnu6a-6N6oBBV-NnsTUPjl6hnPVnY_2dXzZEfn09mzwZLPt6-ASAalWhVnHO3NTlR4OXvms87ul917nk_Y8mTPlqdL-8EqgY562jP92bQNQGOeLmh6NnvH013THzd0YTr2cUM30L3PZvQ927QbaM_T3kaQhTu3AG1-Nqfj6e79z6YvfdoxF-iV93v6ny5Z_mzt4qetzUAFIJUQNb2NT1tXg5S1rgYr63k6pxvkgDnTFAzMLcwUDA2A3gY7qyQx3Uohv6gkIz-9KLEgo9IqI7O4JL8oMzkxJz47MS9RiUvRVsHQyIDL3lbBjcvGSN_EjotLX4sL4vEXq1YB3Qn0PhcwVJ_sXgpx9LOZTc_mzH85YevLxsmw8O9_OmfD8wltEO6LPVOf7l_9bEbTs_5ZT3Z2v2zY9GJhD9C4l4tWPFuwB-j5RzNXgm0FuhJo0cvWXgUThacb-oHR9bSzFxiiLzragXGoYGmgAI7BjqetGxUMdUxMYKoeNzQ-39KiYATkd7S9nDADaA5mtDxuaOLS0ufi8swrKcq3CshMzMsP8nCoMaip5lIAAhtDMy07MKtGoTo3rVbBWEEXCI0VTMG0KVDYEMwygsvUANkQFoQ2hKuBQAMgruGqRbHSB6eVBbUKhvEgm0AEmGUMImoUTECUEVwULF8DpODCECZUHKoGohxEwl0RkFhUYkiEx8EGgc1DsGAeM8QqBgsGWIAgex9ksI9hjcLjxslg0ceN_UjsNqCex43TobxuIG6BsleDZbqhvB6Fx00wmV6wzDIkm8A-h9hkBJJbBVHZNBnI3gO3FUkGZF7jVAi7eQ9YBmb6YiDe8ripGVlbUxd2y4xBcjCN-8COhrDXg43sRXJGH5wNkmmDqtuPpGc6WGY3dptMkMwDOvVxEzRgoOYhgvNx4zoUbzVBZaYigqKpEywzEbtNpiA5aNCAbIK6CBYSUPPAfkK1CaoHGB4gtciRiCOqzJCDfRpSSM5GiZBtQJlJyDY1NUJlJoD9ghwOK7DbZA6S2wrV1QtWDWGvA5uHJQahfpqN0NM4H8UmiN8xbLJASs5AdyJsAqcIPDbBEjooXPdB9ffgCz1L5BQBSkc9cDZy6C3BsAnqD3Bmg8XzFHx-MjRAzqOgnAMzHBx8cEfsAXsT2SrkZLkAym4By0CchGkVuKCAGQ8qKDahZcXGtdDAAQXUFBR3wHI6yLaFj5va4VxQyENSEKaF4PIC5rfZSBEGSbrQJA4sAGARAfMbLJKAwYgUrfiCEVRaAOMDonQFIl6AQQqSgeWZ6SAfo2euDiRfz0X2GK4kbwgqMZqg5UwTKCRh7Eko6WMBEM9EsQqR32GGw6yCRC6mVeAiYxPCQGhxCQtD5AQHSysLUBwBDAx4uE8DRxeEh2kVuMxAlH0IwyEuhPoEWNqiRxcsf60Hy0JDGm9SBBcaMJ-AAmMGWppC8Rg09qC2QQMDlDjg-XIH2GMQd2DaBi44YEUoyGOb8SV81MQBSxDrgLINcDchEjambeDCA2pI40KkpNgFdiSiUIXnW6hVsPibjxTLkGCEeBPDKiNQ4dEE0wbKmjCrUDItlgy2HyoDCnpYSENqhg04rEJpZSAFE7RIhNX9oNSGUqHAq4ZVQLwcxVe4WhngYgOmDRgYcBduRkltO5CCaRly7gIHLbR2gdYoONKhEbjYgFk1BRyIsCBD5BSQe9GTBTQ4wZU4zHmQpISjhDICtzKgeR4cI7AAhKQmmCFICQZaI0OLJ3A2gcXvfHzp3Qi5mQEODFiQQZoZsAYSKMFgr1OAiR0pd4JkduCwClxmQA0B50jUUg25aEUJQFg2APuqFz3z44oucLEBSaGoHoNUfAvhIYpeZsCiGFSXQwtGaAsAV3oHlxnIxfU2KBtYhbSDdU7D5Td4ywaUOBCuBfkaR01pBC4zkIteWK0JDJpm5BoMaALcTLRWKHKthzeDGYPbHMiZBTXSYDyQrxGpCCQDTTlAi-HFDlQG2CaAlKiYtoFKDngiBqU5qPMhkQaMBqhPEaoguQ-eJUDBiCh5EO7AtAq5wYEcL0CDkZwPaorAUgE0DKGOAOtZi-IxHEnRGFxy4G63IScBWCqCNJaQG2CwjANJHLg6QuCSA9lXe6FGQHpC0LIclOpR294oUQwLdLy9BmNwyYHUskSqXEAykG4NxFfYy0NQDw89O-NK9cbgwmMl1JGd4OoIOeiRSzBYY3o3SjkFciG8poTlS1yJA1x4INdg0FYmsFYCycCaN8hmQoIRqQkAz2ybwDKQ-hvTKnDhAasSm4AYNYPBDAGVRqj1MqwFC0wcsF4otG6DlGCYVoFLDkT3CZEmJ6LUYMDKEs0qZF_BrO0Dy-BoipqAWxuw_iEoCcyAWgvOXXCrgE25Vng0oI8AgKq3tXDX4slgJuAGByLcED1-Qm1s5AEK1HDHUYmZgIsNWAqbCcSwMgm1jT0R4QhoJQZrEEK7FahlPSSWMW0DlxzQoAN3IaHtJSAbPS5R8xg4hSPCA5EZ8UUauPCAFXwzkOJ6JljbBKhtoBIMtVpBLn1hwbgKXzllAio8mrpAsY9wJDhkkAITqQ0Nr5WhFiLFNVqxg735WwMfK0SMEEJYRkjjisSMIkLa7ejpDZZLUQoBUDGF1ueHFeKgmhmW58FtaZztM-R8BBpngRU3kPIcVoeDe-eIriuwVG1FqcVQ8xk0E-IZTEOpk-D1NahCQpdEzTWwcggp8QB9hsiDmAkBJAdr3e5BKsmakIt1YBGKoxIBt45hxROkoMVRX4GrK9jQBCjDoIyNwaoTcIcK6gZoxoWFIci3iNEchLsxbAJXVb1QlcuQ2JDQWwzlYbYsYNUKqFiB9bog4QpxHYZNKF3j3Uh-gti0FGoGqLZH7WjBQhm5-wjxEyTWMGwC11KwNjOSyyEVOHJSQ2paog1Igio31E4JjhQIrqdgaRWprodmL5jj58ALTlhUwUpH0CArbFwI0j7EkSggQ2rQZgVKaQIeJYD7EhRO0DoLrQQCVYmw4a8V-OIKMqQGc_taRBKGZmVYix6zAw7LBKARHVhRgLdTBxlMQyqU0RpLsLoY3ASAZ260MASV8rDmIt6kARlPQxT7sLoTOr4Nb7Rj5Cx4OxXoZbThPlwjXODiApZgkTsxkLkIqCHATINuFVQPlu4-jk4dZDANFgCgcSx4WYsUy5ARadSOMVI1BizQ4PmCiPE0RDmGqHrBQQ8vg0DNCljrHJIEYOEGKjNgqRVvxwcynoac5BHNNKQwBPc5UItcqDfBwyywJIR_eAtcaiD1wdEay7AaENi2RSufYA1TUO6CjRJCohhXRgaXGcgjLYi5LCS3Y8ldsDQDSu_QKIbWj7iqZHCZAWuUgVrfvVA2JK5goxVIWRxqFSwWQQ1bWPyuBMvgaLFDRtIQAxeInjRkpAVawIMbSKhlLvaGAf6KHzKYBnMksLUJz7obwGYiDzvB-kMLwTKwshZ5mAXSjYa4F9MqcJkBG10BtZNg2giFIUwdaOYGWs4QGOGCTNkh2sOg2gsWY5CiF-YxYF0NS6FoVRfIY9uhqiBBj2vYCVxsIPVg4Eke0qBB1EoEWuyI4QKEgZi2gYsNWONzLhBDR56A9SJSXILTNtRAtIGgXnAgwIIUERiYVoGKDVCLHdmRiKEQkE5YJwM0tA8fk0IJ4NUIPSgNWEzbwCUHbCQOFGPQzgc0rmFFFqgKQEkfKINHSEGKt1qBDKkBm7lIvRGksSaQJIwHyoOoRRXSVAdSMY2nZoEMqcHKPmCrDdaIQSm3oc1u9FQCK3ZIGjtBGY8H-Q1mIaRxCR1pBxfQlPoNueUBzjUwI6CjrijpB802WE4BNVdh4Q0ZmcDVU0HuqoBt2wLVBmmw4B51RWrXwSdEIRGNawwPXIrARudAoQ8bWIOkLFh6B1XdiDEAZF_hap5jWgXuGyP3R1CLYeRhKdSWB3CqCjl0URv283DYBi5CYJUgcKYc3hubitK-ABX60DYe2tgJqFkP8zKksu3FYRW45YGtE4E6_gQqx3BOrMGzB6SBjiu6wOUH7nSIPEWNffUESA_MqZChDBz1C2RUDbXwgE8AoM41ANvGaM1S5IETFCMQRRmGheCxNXihDexpw0tDyOgfLF5AVQxqoQ9rHoEGkhANQJAMjp4sZGANeSR3Jzx48BuItJIIqQOAJy9DBtYQk0_g0hsWHqjLQ5CmSrA0rGARDQkMHM1FyMAaYrAd0eKAxBhSKkDrYsLqF1AihYU0ZB3PLBxWgUsObBkM7EFk5wO7rWi9TFgW3oyUViBT9jia3JCBNVgfDjQRDWND5l6Ru36oLUZYgQMaJIX1RSGND-xWAVe-gUVMkQbQMJfqmUFZEBmECASiDanBCz1QewW2jgES98gTV2jtJoSPUJsnIElIosQIJXBag49BAzGsOQtpNsHyFqiIwj0QDltbAKk3ICkGwyZwOoP1IpcixSKk2oAl6bUIW9Ea8CuR9EOCAkc5BE5msPyDsUwP9_gWip8Qy_JAeiDlCoZN4CSG0s6ChgSkUIDlCsxhYqQ1cPDmxFZ8xTjyjDG40oWNMkDmLGHlKmaiQExSIPRD1lbhW5mGPBuAtjASeREIuiTufhEOb4ErJ0RXGLkfBwpaWFGEWV2grHxB9H8gKRBH4xZcPSG3GVDGMeCWgUYWUGsLxPIm5GlekAyO3ipkMA1W3uAakIBkONSyB3mYDdHBA8lA2qaYVoErJlglA4oS1Nl95BFq1LUEUOeBR-Bh-iEtHRzVLWQwrRdhINqST0R_Br09i1QrIWU_PHUgZCQNOdwRKRKkDeYIcO0IZUNGUmCFJXLfFlyW4bQKeVkaeNoRVsiA53rgsQBqz6I2-7D0NqFDYrhWwIHLC-hcDrivD-s2QpI78lpM3M0-1CUmODIWyrI0cIygLjCFpU3M8RKYI0DtFVhzClLIQIIT0ypwiQHLF6Au7xooG5ya4LEA7PKitiDgpSVoYJuophFkGA3RpET4A1x4osQVahaG-QqUFzfCHYSIRUyrwKUFrGxHXkwB6a4jDw6hzpLA9CDVItB2ESRtYlgFWZAGW8bci2QVJNxh_l2LkSxg_p2FEpggGRxNMMgwGpa6G5p7kJuPqMkCuX2OOtiBa-kWxrIS2EQVRmlByqoIHNEFGUaDxizYNozlUchD4qj9SPCcIEQSeQAe77wtZDANeZgVNikM8R6srsXs3COHMazsgsyX9OKwCjyShqUgh3oMNhLSB_Ix-hICaGEGDhJYXENswzUEBC45kKMbFh6QQgoROugJH7n4IqqQgqxMQ549htXIkC4L8roOlJISPqMK6tnBZgEgmQVXagSXHMi9NPS1s0hDQegxhjRkjlp94ep7QIbRsC26h2Qz5PkDxFghUnSBJ48Qs81QbTjSB2QYDbkwhdkGiWjYjA-obkNdPIBIEPDaDFp-4BrVApcfsPAAJQ5YHCGPGYHbUGjjx8gFAay1ijdxQAbQ8LbzYNkAaa0Q6ogMeKgJpgr_cjFw-QEJYEi8oJanSDUpWmkFy2CgwECMHyL0YFqF3A0G-woxOgeSQRtAQW1hIy8nh1az-JdkQhanIe0agTd1IGkK2ygPvDsOm6AHScK04V9LiDKGBrQNvnYXog1WN4JkUIMRGvRgdyDGpPClD3DhgVxOITYC4SrBkA2ENPRhZRbeJiLKGBoWA2F5AG2kHWMxL3wcElyz4OqSQ4bRUPILupmIKSIcc3jgqh1WsOLtgUHG0OYg2YbwDZI7wCkHtVSElZeg_gNsfBGyxADXiAy48MC5gha-yAk0N4KaOKBjbeAWAWorApJkMa0CFx4wF4KCCZa-GsHaYHMouOdbQUUArHiELADHNdqAMrABHKRAm9qFxRUomGApD1LWIy9rh-UuSLWCo6GIMoCG0oNFmdoFlYdopS9y2oUFOmRQHtdqJHCxgTYTB_MKak8Lc0oNeZwCVr3hm_THNlxG3s5WSNMdzcdoaz6QV8yhxj1seQny6jLwYCGuxQqQDjHG2j2UwWuU9g1qLQUbdd2DFJqQKhtHDgInNViXB5RNEO1P5JSBsWABnrVAY-QwVfPwFeTglLb1cSNs3w2oN4gYtAJJwqpVUDsQtVsHC3rQ-ClRA8PgtAbb5bIViNciewseFUgyaDZ1ADFsvAlStuIIQHD1hJgAQSzQgSQN8L4BHGFI1rQ0uI5Cbi4hkiVyAkDapII2bNeLkME_AwiuopCTBsqyWtzDQCgL4GD9fbw9H3D1BJtdBxVCsP4p6t5LpIX1aIMYoLYtLEwgw6u4uvvguglWtALHjOGdZEh1DRuxAy1ygzaG0BIGKGARTWp8VoELDeSWMmxQG5IGYaEEStPYO8agGQZYDgF3RaD9IUyrwCtZkVf0wup6yBpt5BU_0KCFWgUtS8GBDqtxkdexYVqFst8CtKEZlvkh4Y7oJ6B3G2Eje6BaC1aAgRfoQB2OaRW4xIAl27VIyRZSpcFafqChCtRSEJZgQHEFmZoltFcQZXcnUrsb2m2EtchBBTws3lCHyZFnXIlYjQaL4mVIUQxJ7FimtNESO2i-CuZ3_GNb4LICsScZefAJf-GOthQFNhyA3F3HtA1jdycsbCATP7CFnOD-F3riwNYCgcQyroWR6INpSLvpkOsSzI4c8pgCjL0UyREYVkHWpCEGpuGGQ3MK8koI1OELWEsFcx0rrl4-uMxAFEkIF0ISB3JfHpaHIGOOsGwCKiNhKXQnXqvALQ1YFYe8uxPSh4ZlBsxd_LiH3nGtEgOXGcgpA9euOizbY2D5Abm1CNkh24vDNpTJOuCOUXihDikCYJGyBmfKQF4iCkmEuJYQomzwRNqRAF3LDwvdRRjtQlhYgxr3xEUXysJ30BQkrEsMKeJhJRRSqwo1AMGpCVYtQAY7cFkFLjZgiRBUbMDWikFSBsy9SEkNahUsSYI6pjCn4u0GQ8bQYAUgZi5GWn6EFoCwoAUlC1iM4i0MIQNoyCd77IJbi1SQY1nPhH27BqQcQ-QHDAshY2iwwAK1aWHpcBZKkgd1DaBDkZg9bqSjSEB-I2oRGtLaJWDVipYZ0PyGGDdDHzOCLMHCtApbBwUWQpDFUDB3gFdMoRf0yAUObCsPxEJIGxrTQnDhAS09weM_qJUYLIAwV-TAsjPR83aQYTRs09vIHRvoPACuGgzURIDZhnepEcoeT9CEPuquWyQeeqQhRsIRlSV-j4ELD-R0DIsG5P1D0Jl49JwGq3NATRVYCOBtCECG0WBBh7STF1qJIcbvEFsQIe4g1FjGtApcfsBcBdrGCRvXgdSKyBvRoZGCVlQhnwuBPwyRN3hiGQOAlpFY9oXDoguUdlFHtSBOwrAKMoCGnJ1RBpzh_gX2UdH6Q4glJvCeF3TLNVEDaOA8hCjhIGNKWBbTYkmHsPCE1Cw4tulAxtCQzw1A3dYO6_aBRtdQkzzy2DbqEgH4cD6mbeCTq2CqkU96gCzXgi0MAXVtUdcHwZZ2A-MSPh0M6argGrEDlxxI3UrUNAVvugOPeUKzCnnkADjbRtwiRXDJgTaojzoMAJvVAKVT1H1wyBM0hFYkoZ6nRuBUN5AW5CPZIGzoWW3gU94g4sZQcROoWrhSbGe-AQnwyXCwUT2EYUjaYXrAKsGS5B0fh2QFWCGyUXhOrTNDFzWD-hMmh910Wp1-ZzSAp9_BGhpIvX_MNj6wWQNMi8hpEvcWeFzTvCA55BkG1J2yyJvcUcuR-VAZpDUH0B4ZjsWs4DIEeYMbLM9A8hnus5iQylHQah5YkYJ3kxDyHnHk2R1oUYfcc0UtRWBVKqiKQazzROjBsAlcgsBGBlAbatBaGufBGSjrd1Gmn3CVjqDWB0oYoh7uhTzwh32NEqhNhXoGHo50gXG0BKwYhsQWNPbBPTXUOhqx_AF9tRu-M_CQh1ZQ1mmi-BbrWYXg-gi19sO3xhD3YnDkLlIvVAZ1sACUNonaGAQZHMXZIkVZwok6jAhLBqAOBiyDQLqzuLYUgosL5MoPlmwhfQhYggY1cWCGozZ-QCMFUP9ChqsQkpi2gcdHkeMENUUjr8mC1ZyQgT_ktgps0AJ8TAnOUTBwdwVLSKFGCrhbjdp2Qy6aUJYm4t2wCw8dUCMMdb0Qsq8Q65GgtqFuZ4EVLQQsBJcayAuUEIUEcsYDZVfsvXXQ0jaYg_Hvsgb3WKC7U8GrnWH1wlzkVIAsgzZTCFpWAasVZuDLyZBRUkSmR2hD3aSDddwSNqqHdIYCypZzTNvABQdy1YV6ZiTSXB_Ib7BcgTxqCDnfCzGrjC8YwYUH8iYumDZI8sZSVGKmRrSODq7lUODCA1Ziz0MqjSBdMVixAOqkoR63h1z7w6IBMkeK65QucOEBMx5kIGrDHmkOAsdCOdA6DZgPIWuhcS2kRD5qF5ymUJeEQPfEIbdB0OYgQOUyIrWCZHDtm0A5G6QXERjoHR3UyUJIsYJUEyHtHoBqgyQoTAtRNs9gFvdIWQIWl2ipHvXkE-hhH7jG33CNlUK7jCgH1CBKGXAvBznqwBkEhYu36IeMmyJPmKMc9QufoAfVXCgNOPhYB2bvFtcyR3BBgjY0hnGeJu4WIyxBgnI3tjoP00KU462QN7tC5qaQ8z1q7oZNYIAaIbBohuz5w1FfQ0ZPkXvhGKuSYJKgmXNY7GGclQMdOoMVa5AN-ngHUHGnT9iYIOYAGXJhjhEBuBZ_IY-EgKswjA1PSJJog6WwAXKQDOpCLhzr9qEn5KGNJqNlJXjJCOpAQOt2WO8CoQ05N-BdgAMeScV2bhjaVOZaRKUHzQrIW8dQ2xg4DkTFXJAIS9yok0ugqUysk0vgKg4W3niPHoIMo_ZClSIvK4TUw4hThdCHr2CZBXnuCzIOiSuJIC9FROleQGpT5C4TavsY1igBjqESucYS-YRNcOGE2ESB7CusQ9GwJixoZQEsJ-JtJkCGUWGOBE1VwEa9IJUj7gM-kJeboLapcYUh8lJE5G0pqMvowFah9nFhrRCQDCzqwM7D2ZsGb4KAhRQo7cICYwtyiwRL8YgtNUFOEsNlFbjwgLmwF8mHkHMSYekElJGhaR9t_A_pWCr8JwJBxlBxl4pIi0PRdlXAHEHKeWWQpYiwcgh5WSGhCWlYkQgqTRDb1vBkZMgYKuK8DMRYPqpVoGln1FYdUs1D3EkKkAFU3FMvyBtioZkJrWYBnXmM0lbFsWyUFmfjwUoFUJjDKn_wkhP4OdOYow4k77wHpzJYKwTnYVDgyh6W1CF7p2F1BfIWRfzVEnK4gnTB2JB0BOswg2pk1NlmmIuQj4WAlI64dtyD5GCjJ8g9NkhHD-ZypPOo0IY3QGtyEIvbEMkVwyZw-kIuG1EbBUgHnqDFE6yjDCooUFqSeCxDaeGCyh7U3hDMwaDNzqjzzIhBAXAVDQtpvN08cL2ENngA8yjy7jfIygusm17AxSpsVATvogdwtYS7qMNyUiy5M6Qok3tIG_CgtRLiRC70SWZYqQQqGmFxACnmIFkTwybIIBvyaiKkViDOvTxo_VfkQ64ga5d6cdiGvJcXbBvq7DnaClTcCx-Iqtwh42yI4QLEmBtkkQqe0XLk8ICqwjuADRlnw312NtrsGGp-hs3VIp1Pjr8aRDkbD2U_FKTQQz75AesmFPCcIIyNf8gGXHYg1-Ko61SQ10OhLtqDz-KDmyAQNv59yuCBeeRZBVgYQnwFK4xAzU_UVgvyOArqhA2u8V5wubEW7hP0oUOcvoIHGmhFLkoA4tqoARlhQx5NRbUK6UQmHJNDwFY62qJMXAOi4GID2e2wAIQsGUfuZqMWG0jDfCAXwnZFQSpXfLdMoKzl3QxlQ1rpsB2MmEvAkNf_oGwExrWgGPWWCdA6JMRSRpAM8vQyahkP69n1IjkI7xU_kBE2bO1ISK8UeY4F-zpE5FXc-K0Clxmwzgwo88MCBnk5BsqkA551FZADOHE1n1COtEIeFoCM5MLcjnkMBSzTgWt_hEL8A0GwrTWwo4RBoY9Y2o2_6EXOKShruXEVvZAhNdiMAfLBs5AWJay1j9Q2hFqFMpsCr3kITt9ABtbQWiuog6O458ewddchHSwci1Qgo2rYbu1APf4CGMZoaR-WcEEjcbBCAdIWgExkYFoFLj-wHWgIGfKAtRNB-RY17SNOtUMkEbyRhroakahmNvrYKjiikNMk2ugepp3gUgTb6ixCPTpYmkTa-4b_sGbIeBq2mQSUA4CRJwvQGjmg6EQd28dR6EMWJCJfVIFxLgBsZAGz3IftQ0U68xiSbxEZB9NCcFmC2IyEKPchwQhL1aDZCdRUgpzfUHMFrnE7cEGCXELC-hLIB_xAEiTO6Q60zQm4xpxQjhNBmmNAKyGRljqj9mWJvxkPPJgGT9XArhU86JGPLUCpEdCyGbCziHbpFK5rIFDO1gTF1SKo4ZAWMNL4AVoxTPL55BgLEpHqa-RgArbrsK_oBPsXdVsCJAowrIIsSES2Cvt6G9DuTIQq5CyOfOklxHm4ttmCywzkNbiw5I3c6IPU0ahxBasQkBIM_loTMpIGcxWoq4h6eDWwwsG9dQ_aLEEeZoN6GUfWgoykwWa0kbsQmE0qWN0KTjPw-TyQVTD9eA9eh4ykoey3wLXdG-nyG7QOLXLQ4z1SE2UwDTzMuhbKBo99wqs0zAtCsBWG-GKMBqfiIS18QF9tBcuQSOvzoYe7IHXYkRe64T_cBT0HwXShrkzCff0H0QegYdzXCivCIRkIFvOg_hRqzMNiG9R8gUUH8t4IzJhHS7dou7mR71dFrZdg6kA9FVjygDRDerHbhHwqHrjFCT_mERzmyG081KkQLPv1oUkMR12Bsu4E1M5EGSaH5w6M6WJ4kQU6pwRWK-E74hE8koZyIQCsGkKdCAEVZygFHcpBW6jH9uC4VwdcJ8FKEdBFB6izO7BZQOBmaLQiFRZioLIAZhOk-sPRVEG5rxU0fIXadIbJIF1BijaEj3y1E_69jeAqifBlKeCleWjXMMDbiaD0glrw4BrYApcVyIMyqEfeIs90Yj1BE-VmMvyDMuCSAnk9Byw8IFOnyFah5l_kMEScpIAnBULG0GAbLUBLMmC9fMwjIFETO_IicsTgOEgGR2MFMoCGc3ELyt2ZuNdLwgITsqgeRw6GHImHtoMVdZEVLCJAF01i7VeBAwNWJkPyI66BLXCBgVQjgKta5MXOyMU76IRaVAuRDqQickkXuDMMK4dAp32i5GZ4HwbnZQzg9IHY_oIv1SOPv4ODEVYPLsZIiti7p6CRNNTCEFcwgksOWKYC9dJgI8KEdrDBGrOgnAI7gwX_nkNwyQFLcDQ9lwkyjIY02Q2PK-RDWSCpDXsHGFR_wzIb_j22GA0M1MYszL-YQwmwFAjqrMB6tZC4wnXiH7jYQOrWw8_9RO6vYDveEjkFQh0E7Rfhuv0TZV8N8uAg5uGC2JuxoHF3WHcMUnXhGvZB6foir6aG5BHcO5SxjcWAF4TgWiMMGUDDPvWC1qPCbDQjZzrUKMZxqz5k9AzNNlSdWM5YQJ0pARdPqKv2cW0eRj5_FxyMqId_I3bcozc2cK-uwlE8oR6Jh3RSPloDHvcBJaAsDisz8LepUa6VANXlsMYt6iIjpCE8tDnPDSiJC0_xBLmmFctWD-iud-RLTlDTIZYcCV21guOsafCgGf5rR2DuAIUUNILQ2lAgj8FqV0gY4lqohTz6Dj67CnHEMEgGliRBdSTqoBm2beV4O1vgETP4PCQouhArGUAysCQJOiwZtYSC5QTQZDliKgOfr9BvakWa2kFZI4etHwQLXeSb4iAzR7iWhSEfHoI8TwEtRhEdRFxX-4AcAat28E70Q1agIffhUDclIPIaeu6CpSDkMY7NeHMXuMxAdiHGok2koXW0U1GQgx61CwAv8jAtRBl3RzqqEpKd4d19zNkZ5BFVWHMA70pIyNAZNC7A5SGsIwapwWDjD5jr3ZAHs2HxCumw4QhGyNAZzFegUgB1hAn5qgnE-A9S0Qveu4wYh8RTckCGzpBH9mGDB4QKKZyH2OAcZEBegYZlrRZySQkda4X2k2E1NtKhjPiPIgWPm-HvOcCc3AsOVWSPwaIINAYKyzWQkgNXdIFLDmyrtyHnQ8A8BkryqIMavVDPIM9N4TsShRaH4SHPoqNfroIyI466nwp5rgLWvYRMkeGabATJYRkbhSxXh6dwUEmOszZEnZXHOSGBSO_QQgjKRp2sAo26QOdSUCeHwbkH0W4HyeCYJAA3amHlJ-gEYNjUAsQmLAdQYJmqRezZR4QDhk3I69CwLJJB3idL7HQOjioXZTYHebwIMiwAKxCQxrnQhhKQjuiEjMXgiifk_i8wjyNCBZKOkNyA1hSDzpqhtO2Rj7vGsAlcLcEqS1C8IzIrSAbWvgD13lDqJKTFI4jyFDKBhqPVDK6PYM1DUOyuheqCdLSR4x1tdQzqHAVRCR0ydIY8mAXThnLxNTilo9a1sFBDWsYMLbxxLFaGjJvBWvbA0QB4koMM3CKfcYKaLBDrp9G3yeI4JwYyboa80Qd8eDlyNMPMBA3RouzqQy6_QTphSyfwLvEAj56hFBhIfSyMjS9Ih9CgVRigEQjUMTRcw3UY0zooPTKUMTTU-p30k-PABQdyiww1DrBfcgvbpYi9q4k_MFGOtwKV2bA2GKHyA2lCEN5Hh_RDcAxfQAbQsOzIQJkDhRwRj33DCOjuC0QTEV8wgksQ5BYKagmCPA6J9bwT4LIrRF8O0prANcCK0qQFWYW6YhN5ngv76nnkBTKQ6UVcIyUYx9PAtEEWHCPOFkIvgbGNauE9ghQygAarepG6GlCrYP5FGgZFa_wBp9PhM_-QuMJxqApkAA15IxesPMY8QxN1LxaW7hj-I2PBA2jwkgM0cAFbvgRJgbBEgjnJhNSwQhtXwVEqQgbQkOsPlHF35KUroCYZanEPK0xBq3BgTRT8h9RB9mJh36iKsqwD9xo7lCXA-Fe9Ia9DQ94jB62TYKtkMKcvYOEBGq6BVUH4LzkBlxng-34hOkGtfMQoElgSysPY0obcQ4HnZUj6wBVp4GID-aoi1O0DKOdB4ztxGuZC_JEGLjmQK05sOxghiQf1rgdYvkQel8V_hha45EAeAoQVoyidYfDuGqz3-oDLFMT8JyLHYloFLjmQN50jRp6QS3nMPIY05IVqFa5zaiFrz5B3E8LyGCQwkM8cxLorh_iUARlDg4U78tllkMphLU6rYM1YUCcFkURAzsO7hRNmFfJGCtQzz0Hjf6hWIe0jhJ--CzngG9dKJvCMHdKmK7RLN2FxhXRdK1rdBb7OAFG4QJoaOPpEKGNo4FSNOi4Lsw1U_6NmLeRlXbDzgfFuC4SMoSGvYEbtfyHP8lJ4vCVkDA3WJQHVKbBEiHoUKahRj9rVg7VQQQvPYNkRMviDK72DCwzEgA-iMQ1ZHgOzGNSzRc3F0L4Q0GD0LfU4UgZk9Ax5thlW_0O0IXWi0XIx1HjwYnjU5Q649lWiXwePtmUZ75VIiO36iCYAETeyYtkjCV1nAus17kQkf0KD4TiP-EM-sRtcMqCW77BhGKRxJuhiHOThaaKqEtTbJDC3DSD2jqOXGaiHWyAdaoNwIaZt4NYGUm8V3iRCvdIW87gs2MYEUM8d1uzAdWw86qlqo2fgDfoz8HTtFDzzSoryFYAM8OmF0T6GsUgcI2SOMTLHBJljiswxQ-aYI3MskDmWyBxDAxQeihsMURxhiOIKQxRnGKK4wxDFIYYoLjFEcYohiluMUNxihBoeKG4xQnGLEYpbjFDcYoTiFiMUtxihuMUIxS3GKG4xRnGLMWrkoLjFGMUtxihuMUZxizGKW4xR3GKM4hYTFLeYoLjFBMUtJqgpBcUtJgi3GCEnNiAHYQaQgzACyEGYAOSgGIDwC5CD8AqQg_AJkIPwCMhShEdAPBQ3ICU2EA_FFUiJDcRD9QiKQ5ASG4iH4hSkxAbyM4pbkBIbiIfiFqTEBuKhuAUpsYF4KG5BSmwgHopbkBIbKMhR3IKU2EA81MhBcQtSYgPxUNyClNhAPBS3ICU2EA_FLUiJDcRDcQtSYgPxUFMKilsgiU2ZCwA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 臺灣周遊唱歌（完整版・全九〇節） ]
+================================================================================
+⏱  Duration:       24:00 (1440.0s), 1440 measures total
+🎼 Key & Tempo:    首調基準 F, != 120.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Part1[L1] #1 @ m.1, 0:00]
+   - 最高音: D5 in [Part1[L1] #1 @ m.11, 0:10]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Part1[L1] (16.0s) -> Part1[L2] (16.0s) -> Part1[L3] (16.0s) -> Part1[L4] (16.0s) -> Part1[L5] (16.0s) -> Part1[L6] (16.0s) -> Part1[L7] (16.0s) -> Part1[L8] (16.0s) -> Part1[L9] (16.0s) -> Part1[L10] (16.0s) -> Part1[L11] (16.0s) -> Part1[L12] (16.0s) -> Part1[L13] (16.0s) -> Part1[L14] (16.0s) -> Part1[L15] (16.0s) -> Part1[L16] (16.0s) -> Part1[L17] (16.0s) -> Part1[L18] (16.0s) -> Part1[L19] (16.0s) -> Part1[L20] (16.0s) -> Part1[L21] (16.0s) -> Part1[L22] (16.0s) -> Part1[L23] (16.0s) -> Part1[L24] (16.0s) -> Part1[L25] (16.0s) -> Part1[L26] (16.0s) -> Part1[L27] (16.0s) -> Part1[L28] (16.0s) -> Part1[L29] (16.0s) -> Part1[L30] (16.0s) -> Part1[L31] (16.0s) -> Part1[L32] (16.0s) -> Part1[L33] (16.0s) -> Part1[L34] (16.0s) -> Part1[L35] (16.0s) -> Part1[L36] (16.0s) -> Part1[L37] (16.0s) -> Part1[L38] (16.0s) -> Part1[L39] (16.0s) -> Part1[L40] (16.0s) -> Part1[L41] (16.0s) -> Part1[L42] (16.0s) -> Part1[L43] (16.0s) -> Part1[L44] (16.0s) -> Part1[L45] (16.0s) -> Part2[L1] (16.0s) -> Part2[L2] (16.0s) -> Part2[L3] (16.0s) -> Part2[L4] (16.0s) -> Part2[L5] (16.0s) -> Part2[L6] (16.0s) -> Part2[L7] (16.0s) -> Part2[L8] (16.0s) -> Part2[L9] (16.0s) -> Part2[L10] (16.0s) -> Part2[L11] (16.0s) -> Part2[L12] (16.0s) -> Part2[L13] (16.0s) -> Part2[L14] (16.0s) -> Part2[L15] (16.0s) -> Part2[L16] (16.0s) -> Part2[L17] (16.0s) -> Part2[L18] (16.0s) -> Part2[L19] (16.0s) -> Part2[L20] (16.0s) -> Part2[L21] (16.0s) -> Part2[L22] (16.0s) -> Part2[L23] (16.0s) -> Part2[L24] (16.0s) -> Part2[L25] (16.0s) -> Part2[L26] (16.0s) -> Part2[L27] (16.0s) -> Part2[L28] (16.0s) -> Part2[L29] (16.0s) -> Part2[L30] (16.0s) -> Part2[L31] (16.0s) -> Part2[L32] (16.0s) -> Part2[L33] (16.0s) -> Part2[L34] (16.0s) -> Part2[L35] (16.0s) -> Part2[L36] (16.0s) -> Part2[L37] (16.0s) -> Part2[L38] (16.0s) -> Part2[L39] (16.0s) -> Part2[L40] (16.0s) -> Part2[L41] (16.0s) -> Part2[L42] (16.0s) -> Part2[L43] (16.0s) -> Part2[L44] (16.0s) -> Part2[L45] (16.0s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  C, G, F, A, D
+   - 調性數值:    C 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.84), F 大調 (0.78), A 小調 (0.60)
+   - 五度圈歷程:   +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0 -> +0
+   - 各段落調性細節:
+     • [Part1[L1] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L2] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L3] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L4] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L5] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L6] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L7] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L8] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L9] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L10] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L11] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L12] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L13] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L14] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L15] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L16] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L17] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L18] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L19] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L20] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L21] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L22] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L23] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L24] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L25] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L26] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L27] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L28] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L29] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L30] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L31] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L32] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L33] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L34] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L35] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L36] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L37] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L38] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L39] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L40] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L41] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L42] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L43] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L44] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part1[L45] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L1] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L2] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L3] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L4] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L5] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L6] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L7] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L8] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L9] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L10] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L11] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L12] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L13] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L14] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L15] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L16] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L17] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L18] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L19] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L20] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L21] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L22] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L23] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L24] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L25] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L26] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L27] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L28] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L29] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L30] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L31] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L32] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L33] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L34] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L35] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L36] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L37] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L38] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L39] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L40] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L41] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L42] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L43] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L44] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Part2[L45] #1]: C 大調 (r: 0.84, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+              [C ]*
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ████████████████████████  28.3%
+     C# :                            0.0%
+     D  : ██████                     7.5%
+     D# :                            0.0%
+     E  :                            0.0%
+     F  : ██████████████████        21.7%
+     F# :                            0.0%
+     G  : ████████████████████      24.2%
+     G# :                            0.0%
+     A  : ████████████████          18.3%
+     A# :                            0.0%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Voice         : C4 – D5 (14 個半音 / 1.2 個八度, 4680 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P004.jpg](P004.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P005.jpg](P005.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P006.jpg](P006.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P007.jpg](P007.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P008.jpg](P008.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P009.jpg](P009.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P010.jpg](P010.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P011.jpg](P011.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P012.jpg](P012.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P013.jpg](P013.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P014.jpg](P014.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P015.jpg](P015.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P016.jpg](P016.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P017.jpg](P017.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P018.jpg](P018.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P019.jpg](P019.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P020.jpg](P020.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P021.jpg](P021.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P022.jpg](P022.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P023.jpg](P023.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P024.jpg](P024.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P025.jpg](P025.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P026.jpg](P026.jpg)
+
+![臺灣周遊唱歌（完整版・全九〇節） — 《臺灣周遊唱歌》 明治四十三年／大正元年（全一冊） 原書掃描頁 P027.jpg](P027.jpg)
+
+

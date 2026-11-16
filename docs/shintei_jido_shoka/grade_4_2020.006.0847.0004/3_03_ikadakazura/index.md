@@ -1,0 +1,143 @@
+---
+title: "いかだかづら — 《新定兒童唱歌》 尋常科 第四學年"
+song_title: "いかだかづら"
+song_id: "shintei_jido_shoka_grade_4_2020.006.0847.0004_3_03_ikadakazura"
+collection: "shintei_jido_shoka"
+volume: "grade_4_2020.006.0847.0004"
+description: "〈いかだかづら〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第四學年用（臺史博 2020.006.0847.0004）），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：いかだかづらが咲（さ）き出（だ）した 綠（みどり）のたなを一面（いちめん）に…"
+keywords: "いかだかづら, 新定兒童唱歌, 尋常科 第四學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第四學年用（臺史博 2020.006.0847.0004）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）"
+musical_key: "C"
+meter: "2/4"
+tempo: "88"
+image:
+  - file: "P051.jpg"
+audio:
+  - id: "ikadakazura"
+    label: "鋼琴伴奏版"
+    file: "ikadakazura.mp3"
+  - id: "ikadakazura_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ikadakazura_neutrino.mp3"
+tmd_source:
+  - "ikadakazura.tmd"
+  - "ikadakazura_piano.tmd"
+---
+
+# いかだかづら
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="ikadakazura.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ikadakazura_neutrino.mp3"></audio>
+
+- 臺灣教育會公認《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P051.jpg，書頁 p. 28，第三學期第 3 首）：
+調性與拍號：い短調二拍子（a 小調 2/4 拍）
+
+
+## 歌詞
+
+```text
+一
+いかだかづらが咲（さ）き出（だ）した
+綠（みどり）のたなを一面（いちめん）に
+赤紫（あかむらさき）の色（いろ）に染（そ）め
+いかだかづらが咲き出した
+
+二
+いかだかづらを見（み）るにつけ
+忘（わす）れられないおぢいさま
+あの木（き）をうゑて朝夕（あさゆふ）に
+たんせいされたおぢいさま
+
+三
+日々（ひび）に色（いろ）ますあの花（はな）を
+見る度（たび）ごとに思（おも）ひ出（だ）す
+おとぎばなしをあの下（した）で
+して下（くだ）されたおぢいさま
+
+四
+いかだかづらは年々（ねんねん）に
+わが家（や）の庭（には）を飾（かざ）れども
+今（いま）は世（よ）になきおぢいさま
+昔（むかし）なつかしおぢいさま
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="ikadakazura.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ikadakazura.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ikadakazura.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4k3MjAyiDcwMIs3sDAxBzIMTBBKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAxxbkJOYhGQs0KT0zz6okMbM8MS8-Py0tMxlstJaWwuPGlseN3Y8bF4DJpY-bOhW0tLgUbRUsLLjsbRWcubJTK20VHHO5bIz0TexAJr5o3_W8cfGzqTNfNG16Nqf5aeuaF6t6Hzd0PZu24em6WU9bJz1fvfTplI3P1vY8buh-uqH76Y4dz5dPfL5mzdPZs5-u3fF055bnU1a839MBCkg9YEDqgQISyDAweb-nU4mLS19LwZZagEtBQeFp3_xns3e82Nz-YkXXi452oLterJz3tHXFs2ntQFc83dD7rL1TIcDA1FAvqyD9_Z4eoOKXCxoVCvQUjCyAXKDDn-zoBDr82Zz5QLaCscLLZdOALn2_ZxbI9Ber9j9rWA4yt7v3xcz5QFFgiD6fvxYo_mRXD1Dw6doJQGsSFZ5u6AeKKQBDUQEoCjSAC6T9yY4GEIUZC48be55O2gTU-bhxKlDx48bep-27wNwFYO70x43zQTqfbwPygaL7HzeufNzUBZZbB5R73LjqcdMkoPEv5y4CKwBasPBxU-PjpslgNavBjt-65PmW1WDpJpDNTQ1gm6cCbYMY9KIT4oSWx00QkdXP5gP1A0XmgrhNjfgcD3Ez1Klgz-7qwaG-adKLZd0Qf4DNBYqvfty45HHjRHAM7p8Bkmvqf9w4EyzdA9bTA_IjyKyux42LwAygw_dBbAB6Z92zOaBkBvVL06THjW2PmyY-blz2bM7cp0uAgQrx9dTHTW2PG7ciAgUUeE2THzfOhhoJsgcYnKiWQOKuE0Q9m770cUMr2DiglzdDDMIIuH1At0Oc9aJrI1hqPdD5EJeBo2IZMPi7n-5aBpYD2gcxaMrjxhWgUG8AhjdQvOtxUxNYfBNqapgJcTjQjUDVfY8bN4CDZjrY1yA7n-yAhC4oKsAalkM0APnLYHLA0IUYhsfLwCyMK8bXAzM2LBzWggMQRCIFKyj6ep6u2waOyhZI-nq6ay1YAzCy10PC4uXifWARoLmgXAZ2CjBhN4EDfDcwfUOSMlARyM4nO4CKgMZ1QOwB-7oXS4J4NmMKWF0D2ODpYNVApcAEBuJi0UB50QMFClr6XFye2YkpidmJVaVFiVYBmYl5-Q41BjXVIHsUbAzNtOzALGzlngK49Gl4sbBHQcMEVIQ8X9-gAy-sNLFoAFoHMqwGWE7pAqGZgjmQNIwDEjVgpjGICeaDeDUQJpxvBlcHgwYgEbCRPoY1wEhcAhV_3LQaRDY3gHXAeK1gciVYfg1UZiuYtxau-nHTdqjMfoQ9KBYZASUbW2AWNXaDyQUQTVDeUrBBnWByElQGZBwwD4Hlwc5pBDkWJDMRh0XGQMlmkHawRc2TwSTIAJhPHzdD3D0PbPROqMwisFgfmOwHk10QmeZNmBbhj9tdPeTELSiaQNgEiiGxDcJGULoGLA5ig0RAGJYisEZr83ywN8Dh2bwK7j3kSIJ4EuJFREJ43NwIxAvBrM3QQAAFIBZ7QLHaBAouSKzOBAdpD9Q0SEyCeMCMCSZB8Q-KO5CtIP4iqBgwj0Jl9mG3BxypEP-AUwHYB5DIBdm0Be6fDjAJi26QrSA-0B5wkkAkbVC0o9pDIL92khOnsJgDxRskBpFFkDOmOZiGZF98WRWcTKEZE5R7IBkTliUhmRiSvGFxDYvTtdBwedy0FyIDjmEccdrYBI6VdWCyF6wLliPb4PaAciCwroGKg3RAYhJY-YJZIBeBZECuxRGn4BiCxloT2LbmCVDXQdIIrGhBpFFQCED8B5UBpwWQjnYMe_DGKbDeIydOweUquMxFKnFBUQkuctELXHOkvApRhD1e8RXBIH4r1iIYEtt4imCMeAU1g2BWNc4Gk7BMCcqCECMhWRaU3cjOrGDHgBwOTgpN66GeQkmozSCvwKMPnlmbYOU0WCUoYkElNao9tVxcunYKSFWwApCrzAUA)]
+- [鋼琴伴奏 TMD 檔案](ikadakazura_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PK4sftx4wIwufRxU-f7PR0vu_c8n7DlyZ4tT5f2P-_seL-nU0FLi0vRVsHCgsveVsGZKzu10lbBMZfLxkjfxI6rTkHpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuezp79dO2Opzu3PJ-yAmizkYGRgZ6BgZmegYWJOZBhYAK0XImLyzM7MSUxO7GqtCjRKiAzMS8_yMOhxqCmmksBCGwMzbTswCx9LQVbdKAAtOXJjoYXC3sUNEwUnm7of76-QUchwMDUUC-rIF0TiwYtfbBhNQrGCrpAaKZgDiQN44BEDZhpDGKC-SBeDYQJ55vB1cGgAUgEbKSPYY3C46YlUPHHTatBZHMDWAeM1womV4Ll10BltoJ5a-GqHzdth8rsR9iDYpERULKxBWZRYzeYXADRBOUtBRvUCSYnQWVAxj1ugsiDndMIcixIZiIOi4yBks0g7WCLmieDSZABMJ8-boa4ex7Y6J1QmUVgsT4w2Q8muyAyzZswLcIft7t6yIlbUDSBsAkUQ2IbhI2gdA1YHMQGiYAwLEVgjdbm-WBvgMOzeRXce8iRBPEkxIuIhPC4uRGIF4JZm6GBAApALPaAYrUJFFyQWJ0JDtIeqGmQmATxHjeC7QfHPyjuQLaC-IugYo8bp0Jl9mG3BxypEP-AUwHYB5DIBdm0Be6fDjAJi26QrSA-0B5wkkAkbVC0o9pDIL92khOnsJgDxRskBpFFkDOmOZiGZF98WRWcTKEZE5R7IBkTliUhmRiSvGFxDYvTtdBwedy0FyIDjmEccdrYBI6VdWCyF6wLliPb4PaAcuDjxmVQcZAOSEw-bgKpedwIchFIBuRaHHEKjiForDWBbWueAHUdJI3AihZEGgWFAMR_UBlwWgDpaMewB2-cAkt6cuIUXK6Cy1ykEhcUleAiF73ANUfKqxBF2OMVXxEM4rdiLYIhsY2nCMaI1_mPm0CZBhJVs8EkLFOCsiDESEiWBWU3sjMr2DEgh4OTQtN6qKdQEmozyCvw6INn1iZYOQ1WCYpYUEmNak8tlhrYB7kGtoBWwMBQj49XMI6HUXC-EUgIwTVGkwZRBlAP4TQDzofqhhsCYphDOAQNgTnEMF7BFMEDSuAyAN2pCC14fQIMMl07BaRQi_YxjFVAFzLCFDIGCylzAQA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ いかだかづら ]
+================================================================================
+⏱  Duration:       0:21 (21.8s), 16 measures total
+🎼 Key & Tempo:    首調基準 C, != 88.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  D4 in [Ikadakazura #1 @ m.6, 0:07]
+   - 最高音: E5 in [Ikadakazura #1 @ m.2, 0:01]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Ikadakazura (21.8s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  B, E, A, C, D
+   - 調性數值:    A 調性不明確 [相關度: 0.59, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 小調 (0.59), E 大調 (0.56), E 小調 (0.54)
+   - 五度圈歷程:   +3
+   - 各段落調性細節:
+     • [Ikadakazura #1]: A 調性不明確 (r: 0.59, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb              [A ]*
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : █████████                 11.7%
+     C# :                            0.0%
+     D  : █████████                 11.7%
+     D# :                            0.0%
+     E  : █████████████████         20.8%
+     F  : ███████                    9.2%
+     F# :                            0.0%
+     G  :                            0.0%
+     G# :                            0.0%
+     A  : █████████████             16.7%
+     A# :                            0.0%
+     B  : ████████████████████████  30.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 52 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![いかだかづら — 《新定兒童唱歌》 尋常科 第四學年 原書掃描頁 P051.jpg](P051.jpg)
+
+

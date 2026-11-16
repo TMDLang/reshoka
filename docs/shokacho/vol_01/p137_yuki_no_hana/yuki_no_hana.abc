@@ -1,0 +1,16 @@
+X:1
+T:雪の花
+C:曲：山口季次郎
+M:2/4
+L:1/16
+Q:1/4=96
+K:G
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+d'2 z2 d'2 z2 | b4/3 c'4/3 d'4/3 c'4/3 d'4/3 e'4/3 | a2 z2 a2 z2 | d'4/3 e'4/3 d'4/3 c'4/3 d'4/3 c'4/3 |
+b4/3 c'4/3 b4/3 a4/3 b4/3 a4/3 | B2 z2 G2 z2 | d2 z2 z4 | d3 e d2 z2 |
+d3 e d2 z2 | B3 B A3 A | G3 A B2 z2 | A4 E4 |
+A4 E4 | A2 z2 G2 z2 | F2 z2 z4 | E3 F E2 z2 |
+G3 A E2 z2 | A3 B A2 G2 | F3 E D2 z2 | g4 e4 |
+d4 B4 | A2 B2 A2 B2 | d2 z2 e2 z2 | A4 E4 |
+B4 A4 | G2 z2 E2 z2 | A2 z2 G2 z2 |

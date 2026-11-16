@@ -1,0 +1,50 @@
+::SCORE::
+~ "tag: collection:kogakko_shoka"
+~ "tag: volume:koto_1"
+~ "tag: source:school_textbook"
+~ "tag: source_page:P030"
+~ "tag: provenance:printed_text"
+~ "tag: evidence:scan_verified"
+~ "tag: version:piano_arrangement"
+~ "tag: arrangement:ai_accompaniment"
+~ "tag: orthography:historical_kana"
+~ "tag: theme:animal"
+~ "tag: theme:nature"
+~ "tag: theme:seasons"
+~ "tag: origin:taiwan_official"
+** 蜻蛉（鋼琴伴奏版） **
+!= 100
+?= D
+<2/4>
+~ "臺灣總督府《公學校高等科唱歌》第一學年用（昭和十一年，索書號 0729 74）"
+
+Intro:PianoRH@|0|{
+    <16*>
+    | {mp} 5 4 3 4 5 6 5 4 | 3 - 1^ - 5 - - - | 4 - 4 3 2 3 4 5 | 3 - - - 1 - 0 - |
+}
+
+Intro:PianoLH@|0|{
+    <8*>
+    | {mp} 1_ 5__ 1_ 5__ | 1_ [1] 1_ [1] | 5__ 2_ 5__ [5_] | 1_ [1] 1_ 0 |
+}
+
+Akitsu:PianoRH@|0|{
+    <16*>
+    | {mp} 5 4 3 4 5 6 5 4 | 3 - 1^ - 5 - - - | 4 - 4 3 2 3 4 5 | 3 - - - 1 - 0 - |
+    L1| フ ー ク ー ヤ ー マ ー | カ - ゼ - ニ - - - | カ - シ ー ラ ー ヲ ー | ム - - - ケ - _ - |
+    L2| い ー り ー つ ー ひ ー | か - げ - に - - - | か - し ー ら ー を ー | む - - - け - _ - |
+    L3| ノ ー ノ ー ウ ー ヘ ー | タ - カ - ク - - - | キ - ノ ー ウ ー レ ー | コ - - - エ - _ - |
+
+    | {mf} 5 4 3 4 5 6 5 4 | 3 - 1^ - 5 - - - | 4 - 4 3 2 3 4 5 | 3 - - - 1 - 0 - |
+    L1| ソ ー ロ ー ヒ ー テ ー | ト - ベ - ル - - - | ア - キ ー ツ ー ノ ー | ム - - - レ - _ - |
+    L2| そ ー ろ ー ひ ー て ー | と - べ - る - - - | あ - き ー つ ー の ー | む - - - れ - _ - |
+    L3| イ ー ツ ー マ ー デ ー | ト - ブ - ヤ - - - | ア - キ ー ツ ー ノ ー | ム - - - レ - _ - |
+}
+
+Akitsu:PianoLH@|0|{
+    <8*>
+    | {mp} 1_ 5__ 1_ 5__ | 1_ [1] 1_ [1] | 5__ 2_ 5__ [5_] | 1_ [1] 1_ 0 |
+    | {mf} 1_ 5__ 1_ 5__ | 1_ [1] 1_ [1] | 5__ 2_ 5__ [5_] | 1_ [1] 1_ 0 |
+}
+
+-> Intro -> Akitsu[L1] -> Akitsu[L2] -> Akitsu[L3] -> #

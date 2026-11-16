@@ -1,0 +1,136 @@
+---
+title: "蓮の葉の露 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "蓮の葉の露"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_4_09_hasu_no_ha_no_tsuyu"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈蓮の葉の露〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（詞：葛原齒、曲：梁田貞），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：あの蓮の葉の　露の玉 ほんとにきれいな　露の玉…"
+keywords: "蓮の葉の露, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒, 梁田貞"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+credits:
+  - "詞：葛原齒"
+  - "曲：梁田貞"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
+musical_key: "C"
+meter: "4/4"
+tempo: "100"
+image:
+  - file: "P069.jpg"
+audio:
+  - id: "hasu_no_ha_no_tsuyu"
+    label: "鋼琴伴奏版"
+    file: "hasu_no_ha_no_tsuyu.mp3"
+  - id: "hasu_no_ha_no_tsuyu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hasu_no_ha_no_tsuyu_neutrino.mp3"
+tmd_source:
+  - "hasu_no_ha_no_tsuyu.tmd"
+  - "hasu_no_ha_no_tsuyu_piano.tmd"
+---
+
+# 蓮の葉の露
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="hasu_no_ha_no_tsuyu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hasu_no_ha_no_tsuyu_neutrino.mp3"></audio>
+
+- 詞：葛原齒
+- 曲：梁田貞
+- 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P069.jpg，書頁 p. 46，補充教材第 9 首）：
+調性與拍號：は調二拍子（2/2 拍，以 4/4 拍記譜），氣持ヨク ♩=100
+
+
+## 歌詞
+
+```text
+一
+あの蓮の葉の　露の玉
+ほんとにきれいな　露の玉
+小さな玉が　あつまつて
+大きな玉に　なりました
+
+二
+あの蓮の葉の　露の玉
+ほんとにきれいな　露の玉
+朝風そつと　吹いたれば
+ころころ落ちて　ゆきました
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="hasu_no_ha_no_tsuyu.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](hasu_no_ha_no_tsuyu.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](hasu_no_ha_no_tsuyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx5anJgIZRejCxamJxfl5xQhhoBXpmXlWJYmZQE-DPF6eGJ-bmJmXk5iXosSlpaXwYvK6x43rXkzsBJIv52xS0NLiUrRVMDQw4LK3VXDmsjHRN7EDmfZi5bz3e2a9mDj7ad_8l3sngW14NnsTUOzZosbnUza82DQPLPaifdfzxsXPps580bTp2Zzmp61rXqzqfdzQ9WzahqfrZj1tnfR89dKnUzY-W9vzuKH76Ybupzt2PF8-8fmaNU92dD5du-Ppzi3Pp6x4v6cDFAt6wFjQA8UCkGFg_H5PpxIXl76Wgi21AJeCggLQO89m73ixuf3Fiq4XHe1AdwF9-rR1xbNp7UBXPN3Q-6y9UyHAwMxSL6sg_f2eHqDilwsaFQr0FEzMgNwXi-c8bW0FevfZ3AlATyhYKrxcNg3oUmC4gEx_sWr_s4blIHO7e1_MnA8Ufdy4Hij4ZFcPUOTp2gkgn-obKQA5QMOe7F6qAAxvEO_Fihkv1s4BG9TzbMPiZz2Nj5tXPG5ar_Bo5kpbUOyATH-yowFEPW5sAkUhUkQ-bmgAxiWQ8byvE6Ji9-OmyY8bVzxuXP24sfdxU8_jxpbHjavQ1T3d0P-4cSpQAsh_3AiMoQaw2UseN-4Dk8vAipYsB5kBVbQarGjV46YusKLpjxvnQ9y2q4e6bns2Z-7LRUBFc8EuWQGUfjphJ1jpfLCeDRDDJj9uAroNRL6YsPdx40Kgo0EubGoDuxnmQqBSypMPFCho6XNxeSQWl_rleyT65YcUl1aWWgVkJublO9QY1FSD7FKwsdCyAzOAyddQ18QKGi7AxPC4cSaMsQ4ougTsUiB_PtCxIJNBmmoUDBV0gdBIQcMYzDDVVNXQ1dVUAPFqFEzBYmZQGiRiGAdmACkwywxJGQQagETAZvsY1ig8bloFFn3c3K2g8bi5H6JIE8jvA-t83LQEIt-0EawGZs3jpmVQ8SVA8TawCRsgMs2rkWyLR9hmBJRr7ILoamwB2tY4EW5bI0gPSB5iw-PGOUDcg7CtcStcHzBWwaxeqAzEHei2AQPbVNcCFNjYkxju8IYGMzDkgAEICjiYkDEwEuChDAlksAgkJiBqsAZx8zxoEG-GsiFBhCyzGh7QEHFIPDxu2gmNCIgISAYWBdgCdyo0kKYBMShaHzfuhwbSfKjMMiAGRRMsWNdDxWcC8TowCyQCkgHxsAarpa6hEShcgdkLmEVBJQYkBEHxhVRkLAZZBg9USAI0BidHpHQKTaxQRo2CEVTQAJZ4DfAn3uYWaPgB_dW0BuGvJpC_gaELUwDigNIoSGotmLcS6ClkNsiwDjxBC80lwPT5uHE5UgBOBomCih1YYn3cBIohkBQoPoFJDGQRNGznQywCpjYcYWtorGtoBgpcYIm6G1LSwgIXmEJQi1rMEsIYGFTIxYIxVAYkAgp4U2DwgeSNwMEKk8MSrE3boWEGTLBNOyDBCysPmmHlAUgMuTwgL1ynQ02bDGTPAAcXJLBAJkIjtxEkBgl_0gO2lotL104BrYhWAAopcwEA)]
+- [鋼琴伴奏 TMD 檔案](hasu_no_ha_no_tsuyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxed3jxnUvJnYCyZdzNr3f0_Gye8_zCVue7NnydGn_886O93s6FbS0uBRtFQwNDLjsbRWcuWxM9E3suOoUlF6snPd-z6wXE2c_7Zv_cu8kJZDYs9lAQ2Y9W9T4fMqGF5vmgcVetO963rj42dSZL5o2PZvT_LR1zYtVvY8bup5N2_B03aynrZOer176dMrGZ2t7Hjd0P93Q_XTHjufLJz5fs-bJjs6na3c83bnl-ZQVQKcZGRgZ6BkYmOkZWJiYAxkGxkDXKXFxeSQWl_rleyT65YcUl1aWWgVkJublB3k41BjUVHMpAIGNhZYdmKGvpWCoa2Kl8LixCejhx43rHzfOhDHWAUWXPG5qA_PnP27cp6ClD9ZUo2CooAuERgoaxmCGqaaqhq6upgKIV6NgChYzg9IgEcM4MANIgVlmSMog0AAkAjbbx7BG4XHTKrDo4-ZuBY3Hzf0QRZpAfh9Y5-OmJRD5po1gNTBrHjctg4ovAYq3gU3YAJFpXo1kWzzCNiOgXGMXRFdjC9C2xolw2xpBekDyEBseN84B4h6EbY1b4foeN4JsftzYC5WBuAPdNmBgm-pagAJ79-OmyY8bVwCtAOp53NQDNONx4yrc4Q0NZmDIAQMQFHAwIWNgJMBDGRLIYBFITEDUYA3i5nnQIN4MZUOCCFlmNTygIeKQeHjctBMaERARkAwsCrAF7lRoIE0DYlC0Pm7cDw2k-VCZZUAMiiZYsK6His8E4nVgFkgEJAPiYQ1WS11DI1C4LnzcuAloJdAmSAiC4guctJeAOYtBlsEDFZIAjcHJESmdQhMrlFGjYAQVNIAlXgP8ibe5BRp-QH81rUH4qwnkb2DowhSAOKA0CpJaC-atBHoKmQ0yrANP0EJzCTB9Pm5cjhSAk0GiTb2IxPq4CRRDIClQfAKTGMgiaNjOh1gETG04wtbQWNfQDBS4XaB0C0yuiMAFphAgpwkoAeRMB5mFUUIYA4MKuVgwhsqAREABbwoMPpC8EThYYXJYgrVpOzTMgAm2aQckeGHlQTOsPACJIZcH5IXrdKhpk4HsGeDgggQWyERo5DaCxCDhT3rA1uIooX2QS2gTaAkNDJR4hWjDWBgF4ZuA-aAgM4HwoBSyaqAsqgkgNXATgAzTeIgRZkA62iw-FyKCogSXMWCrEFaDswSaLNgs03i4NXh8A2SA3ADxDsJtYN3oTgEGnq6dAlr4RfsAFWATNgILK3MBAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 蓮の葉の露 ]
+================================================================================
+⏱  Duration:       0:38 (38.4s), 16 measures total
+🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [HasuNoHaNoTsuyu #1 @ m.1, 0:00]
+   - 最高音: D5 in [HasuNoHaNoTsuyu #1 @ m.11, 0:24]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      HasuNoHaNoTsuyu (38.4s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  C, G, E, D, A
+   - 調性數值:    C 大調 [相關度: 0.92, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.92), G 大調 (0.66), E 小調 (0.66)
+   - 五度圈歷程:   +0
+   - 各段落調性細節:
+     • [HasuNoHaNoTsuyu #1]: C 大調 (r: 0.92, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+              [C ]*
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ████████████████████████  32.8%
+     C# :                            0.0%
+     D  : ███████                    9.5%
+     D# :                            0.0%
+     E  : ████████████████          22.0%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : ███████████████████       26.3%
+     G# :                            0.0%
+     A  : ███████                    9.5%
+     A# :                            0.0%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 50 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![蓮の葉の露 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P069.jpg](P069.jpg)
+
+

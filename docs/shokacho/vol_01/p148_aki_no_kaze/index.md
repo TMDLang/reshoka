@@ -1,0 +1,140 @@
+---
+title: "秋の風 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳）"
+song_title: "秋の風"
+song_id: "shokacho_vol_01_p148_aki_no_kaze"
+collection: "shokacho"
+volume: "vol_01"
+description: "〈秋の風〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：D 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）カキノキノエダノサキ アカイキノハガヒトツ…"
+keywords: "秋の風, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+schema_type: "MusicComposition"
+is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
+sources:
+  - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P148）"
+  - "原載《小公唱材集》第 213 頁（大正 13 年 12 月 12 日抄）"
+musical_key: "D"
+meter: "2/4"
+tempo: "92"
+image:
+  - file: "P148.jpg"
+audio:
+  - id: "aki_no_kaze"
+    label: "鋼琴伴奏版"
+    file: "aki_no_kaze.mp3"
+tmd_source:
+  - "aki_no_kaze.tmd"
+  - "aki_no_kaze_piano.tmd"
+---
+
+# 秋の風
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="aki_no_kaze.mp3"></audio>
+
+- 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P148）
+- 原載《小公唱材集》第 213 頁（大正 13 年 12 月 12 日抄）
+
+## 說明
+
+
+
+- 出處：《唱歌帳》（國立臺灣歷史博物館典藏號 2020.006.0843）第 P148.jpg 頁（手寫頁碼 19）。
+- 標註：（小公唱材集 213 頁ヨリ）13.12.12.（大正 13 年 12 月 12 日抄錄）。
+- 調性與拍號：ニ調（D 大調），2/4 拍，速度 != 92。
+- 背景與曲風：描寫柿子樹枝頭僅剩的一片紅樹葉被秋風吹得搖搖欲墜，以及從葉隙間望見彎彎新月的秋日景致。
+- 版本說明：本檔案為原頁單聲部簡譜之忠實數位化版本。
+【原頁歌詞全文與中文語譯】（對應 P148.jpg）
+
+### 編曲說明（鋼琴伴奏版）：
+
+1. 前奏 (Intro, 4 小節)：取末樂句「ヒラヒラトアブナイ」，描繪秋風吹拂紅葉飄搖。
+2. 主歌伴奏 (Song, 16 小節 × 2 段)：右手演奏主旋律，左手配以輕巧和弦伴奏。
+
+
+## 歌詞
+
+```text
+（一）カキノキノエダノサキ
+アカイキノハガヒトツ
+カゼニナブルレテ
+ヒラヒラトアブナイ
+被秋風吹拂戲弄著，翩翩搖晃好危險呀。）
+
+（二）カゼノフクソノエダノサキ
+ミカヅキサマガミエル
+アブナイトコロデ
+チラサレハシナイカ
+在那麼危險的地方，不會被風吹落下來嗎？）
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="aki_no_kaze.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](aki_no_kaze.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](aki_no_kaze.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGJBboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlVJRirQ7eWpiUBGEbpwcWpicX5eMUI4vygzPTPPqjQPZHUJ1EItLYXny7sfN657uWiFgpYWl6KtgqURl72tgguXjZG-iR1I97PpS59t2v1sZtOzOfOftq55unbHswULHzd0PZ2y8dnanqc7Nj9u6H6_p-Np644X0_tfzJyvYGRgZKBnYGCmZ2BhYvy4eTcoBN_v6QQ75Wnf_Bd7OkG6N_SDDAOaMXfCy9ltQDOer1mjYGRorPByQSPIuCXLn61drADkP925RcHQSOHZnA4wBXRNVwvYOC59LQVbagEuBQWFxw0Tns3e9Hz2uherVj2b0fe4YSJYtHn30_ZdL2ZOfb9nFhZvz-l-vrr7Rfuu542Ln63d_rR_09PeWc87V75csgJHiADdDvIqKFT0sgrSof591tn9dP1qIPv5oj0KhpZARY8bmqDWP1sx88WK3UDrQfahhhssxB43r3jcvAqoy9BYz9AIhAiG4cseUDAibHmxav-zhuUvOtqfdfcCHQ3ybXM3UBBokIsC0Cgws_P9nh5gwlAAqgGyXjbMf7prmQI41SAZ1NzzbOZ6kEGzNwHTFdCgZ_39QM89m7__6doJz1bsfDZv7ssFa582tz7tXPl8VsuTHQ3PO9ufb2kFSr2Y2Pli0WpgmgRqfDph59N9059NmAZCazY9XTQHaOWT3Uuf9nc93TcPqPLlrJkvp01-Nmf2i2XdT_f2AdGzaRuAfgSaCTQB5EugM9q3IFz2vLPj2Zw1kNgFOWvOmmerpjxb2PG8aRcwYQKD8em0dS8aN71sXvF8w8IXa-c82dn9dP-Cp-uXPZu648ne3qc90yAmgEyEJhiIPmCKeLFy3tPWFc-mtQM9_mTHWhBj1bwXa9cDUxE42nqftXfCIx0YkGADgDJA34OioWn146a1j5v7YCQwOhvAjK1AEbBdTYvAipZAVTT3P25a87h50uPmjsfNLRAVQOk9wEh73Nz1uHna4-bVj5uBKtogngcqXAkjO0CGgVR0Ac2DugPiWmCoPJ2zAh5TwJCERtaGac9XA2V7nk-d-WLidHiUvejcBFIDjrj3e2aDzFJQQI7BZ91Nzzo2Pd3TAtQF0r5_JRCBInRm89Ole5_2bnw5a9XTiQ3AEEUOk109sDAB-gfo16mPm9Y_btqLI2Sa54OUNreCQgYo2jwPHDJAQaDS1bCwg3kX7PvNj5uBgdgO0Q3MPCvB-oCagIG6HaquCawVLWSQ_QX0-MumxWjh87R_PTCJPp_TDU-ToNQ4pxOYLOHhAzQHqPHlrj0Q7wMVPJ2z4dm0naDkvaP32ZxmYABCbHkxYe-THd1P9rU9nQ5MsMA82QkygfLSDgoUtPS5uILz89KtAjIT8_IdagxqqsFOtLHQsgMzgEWsBjCyNUGJC4jXKtQAA6wPhbUCSDeA2UCRpq1gOaC5cN27emC698D0NE8Fq10PxHvhpoDkIOZAddcomCroAqExkGUIpI2AuAbIMwJiE6isYRxIEJxukN26CGrjErA9a2Gua-4H8taAMgMQd4BFWjDd2jwforu5FaYb6CuQ2nlQ3SB5iHtXI9xqBnGNGdzZICciHAtyPAhiuhURMt1A3AVmTQPilWAWyL42LOEJ9CFQFUhFF8yfQB8BUzaYBfJxO6rbdOFOMwaHowlSiILksDgNHEwr4TTMikVwJ4IdC7QcMwgbITpByQHoBVjQb0d1MNDrSFFtAg4tSFRDnAgJM9N4qCAk-Gq5uHTtFECJVgFIK3MBAA)]
+- [鋼琴伴奏 TMD 檔案](aki_no_kaze_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPtx47qXi1a839PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUsjbjsbRVcuGyM9E3suOoUlJ5NX_ps0-5nM5uezZn_tHXN07U7ni1Y-Lih6-mUjc_W9jzdsflxQzfQwKetO15M738xc76CkYGRgZ6BgZmegYWJ8ePm3QGGJhZA85VAhj3tm_9iTydI94Z-kGFAM-ZOeDm7DWjG8zVrFIwMjRVeLmhU4uLS11KwpRbgUlBQeNww4dnsTc9nr3uxatWzGX2PGyaCRZt3P23f9WLm1Pd7ZmHx0pzu56u7X7Tvet64-Nna7U_7Nz3tnfW8c-XLJStw-BboTZA3QD7WyypIB_nlcUMT1KYXq_Y_a1j-oqP9WXcvUCfIyuZuoCDQJheFp0uWg5md7_f0AENeAagGyHrZMP_prmUK4GhBGPR8-wqgXyAewRqVQKNBShUUDPUUnnb2AsUVNDzzSorydRRMFIAh_3x9gyZQzdP-ac_mrH62oulp_9LHDT2Pmyc9bl4JIzseNy163DztcXPX46YljxtArnnW3_985ypgKgImoacTdj7rbnq-pfXFxM6Xi1ueTZgGdZ-CgpGewpMdu4EBCXGSgkZwfl66joKhGdRqhcPTFYwUnq3bCnHD5med3c_2TAGqBOma3v10HzDse55uXwYUf9na-2T30hd7pj7dvvzppJ6ne5ZBzITaRXnSgAIFLX0uLnAIWQVkJublB3k41BjUVIP9Y2OhZQdm1CiYAoPPGOj2GgVDBV0gSxfIMgKSugqm8VBBEKzhqkUxzQeHafHxCtGmsXAaaACQYRgLo_CrMIBYAwpbAm4GOckY6jyQa2vAfjAG-gUiaxgHdjNEuRlEwAyuE6QKoR7iW1TlunDVkBAxQbIHJIdQTUr4ITyGI_igQQEOG3BoIQsgBxbO8IUaZALkmsTCKNwGY40WUDTgNYZwZJqBBMxyEQ6iSsLQtVMAJ0EFIAMUlsi0MhcA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 秋の風 ]
+================================================================================
+⏱  Duration:       0:20 (20.9s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  A3 in [Song #1 @ m.15, 0:19]
+   - 最高音: D5 in [Song #1 @ m.4, 0:04]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Song (20.9s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  E, F#, A, D, B
+   - 調性數值:    D 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.80), A 大調 (0.70), B 小調 (0.63)
+   - 五度圈歷程:   +2
+   - 各段落調性細節:
+     • [Song #1]: D 大調 (r: 0.80, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# :                            0.0%
+     D  : ███████████████████       17.2%
+     D# :                            0.0%
+     E  : ████████████████████████  21.9%
+     F  :                            0.0%
+     F# : █████████████████████     18.7%
+     G  : ██████████                 9.4%
+     G# :                            0.0%
+     A  : █████████████████████     18.7%
+     A# :                            0.0%
+     B  : ███████████████           14.1%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : A3 – D5 (17 個半音 / 1.4 個八度, 37 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![秋の風 — 《楊金土手抄唱歌帖》 第 1 冊（選定唱歌筆記帳） 原書掃描頁 P148.jpg](P148.jpg)
+
+

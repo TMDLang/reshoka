@@ -1,0 +1,144 @@
+---
+title: "ぐんかん（軍艦） — 《うたのほん》（唱歌課本） 下卷（初等科第二學年）"
+song_title: "ぐんかん（軍艦）"
+song_id: "utanohon_ge_2006.006.0878_4_gunkan"
+collection: "utanohon"
+volume: "ge_2006.006.0878"
+description: "〈ぐんかん（軍艦）〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　行け　行け、ぐんかん、 日本の　くにの…"
+keywords: "ぐんかん（軍艦）, うたのほん》（唱歌課本）, 下卷（初等科第二學年）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《うたのほん》（唱歌課本） 下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）"
+sources:
+  - "日治時期國民學校唱歌（うたのほん 下・第四課）"
+  - "國立臺灣歷史博物館典藏"
+musical_key: "G"
+meter: "2/4"
+tempo: "108"
+image:
+  - file: "P017.jpg"
+  - file: "P018.jpg"
+audio:
+  - id: "gunkan"
+    label: "鋼琴伴奏版"
+    file: "gunkan.mp3"
+  - id: "gunkan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "gunkan_neutrino.mp3"
+tmd_source:
+  - "gunkan.tmd"
+  - "gunkan_piano.tmd"
+---
+
+# ぐんかん（軍艦）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="gunkan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="gunkan_neutrino.mp3"></audio>
+
+- 日治時期國民學校唱歌（うたのほん 下・第四課）
+- 國立臺灣歷史博物館典藏
+
+## 說明
+
+
+
+- 出處：臺灣總督府編《うたのほん 下》（國民學校初等科第二學年用），第四課〈ぐんかん〉（軍艦），原書第 13–14 頁。
+- 調性與拍號：ト調（G 大調五聲音階，原書五線譜省略調號，實際音高終止於 G 音），2/4 拍，速度 != 108。
+- 背景與曲風：下總皖一作曲。曲中大量運用附點八分音符搭配十六分音符的破浪節奏，描繪軍艦乘風破浪航向大洋的景象，體現昭和 16–18 年戰時國民學校音樂教材的海防與海洋意識。
+- 版本說明：本檔案為原書單聲部五線譜旋律之忠實數位化版本。
+
+### 編曲說明（鋼琴伴奏版）：
+
+1. 前奏 (Intro, 4 小節)：擷取主旋律核心樂句作為導奏，建立調性與拍感。
+2. 主歌伴奏 (Gunkan)：右手 (PianoRH) 演奏原書歌唱主旋律；左手 (PianoLH)
+依國民學校低學年教材純樸明朗之風格配以和聲伴奏。
+
+
+## 歌詞
+
+```text
+一　行け　行け、ぐんかん、
+日本の　くにの
+まはり　みんな　海。
+海の　大なみ　こえて　行け。
+
+二　行け　行け、ぐんかん、
+日本の　くにの
+ひかりを　なんぜんり、
+海の　はてまで　かがやかせ。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="gunkan.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](gunkan.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](gunkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC_KTM_Ms8rNz0sqLc7IV-LS0lJ43DjhcdPkx43dQPL9no4Xu3tfdC57v6dTQUuLS9FWwdDAgsveVsGdy8ZI38QOZNKz6Uufbdr9bGbTsznzn87pfrZh4tO1O54tWPh0ysZna3uARjxubHvcOP9x47rHjbuBhio82dH9uHn38zVrns6e_WLVJqDZSiBzgHqfr-5-0b7reePiZ2u3P-3f9LR31vPOlS-XrHjauuPF9H4lLi59LQVbagEuBQWFxw0Tns3e9Hz2uherVj2b0fe4YSJYtHn30_ZdL2ZOfb9nFsQ9z3fsfT538dNdc55vX_G4oQubjxq6gV5F8X_H3OdrO58vnwj06ZNdPUDBpzu3PJ-yAujf93t64N5_3AAMIESQP24AyiJCHajyad_8Z7N3ANUrGBo_aphsaKLwckHj44YmqEtfrNr_rGH5i472Z929L2bOBzr5cXMHUBBoirvC0yXLgcwnu6a8aNz0cv7ml7P64AYCBZ9vn_Vi7ZzncxqfT10KVAbW3fN0_bKXs2aDFK-e8Xxr07O1i55N26PgrgAUgbgHGO8KQLuArJcN85_uWqYASRVILmrueTZzPchFsze9XAT07yxg-IBCcNa0JzsanuydAxQHqgaST3asBbrwZXv_y8ZuYMi8nNnycve8p62rn3a0Aa17vmbZswlrX7b2Pu1tfNq6Fi74fFbL8wVbnm1d9Xx9w9Ol_UCHPOvvf75zFSTQnuycAbQUouBFx6qnEyYCrXi2pRuoC-SqjQtBDl895Xn_vmcz1j6d1KNgaAYKVQsFYOw869gATMfIkQi08dmKpmdTZz6bOwFkwtbtL2dsAnlt63agmc9a-l-snYHw-fPOjmdz1kDSEtDbQPazVVOeLex43rQLEuhPp60DxUTzCnjoP5ve_XRf95Od3U_3LwAG_bOpO57s7X3aMw1iFMhoaDqFGADMUS9WAoNoxbNp7UBnAAMQxFg178Xa9cDEC4xztHQCFHnW1wwMH6BDFAIMDM2BMkDKAhyVnWCzgXHyuKHhxcKex40TkRiNqKmyEaQUlNWBjgKm-4aGx439jxtXA9lg9zXue9y4_nFTF1hiP1jfKiAbGEzQ0AGxwPqAsQGSAyoCKQWqAyb_ZUj2glWDsgDYU8BQfNrZ-7IBmGAaIQxg9MFyRw_EPaCCY1YLMDc9nQgsKVa8bN77bMZ6SAQBjXuxretlYx8oDWzdDlK2fQUwYUCMejphOVABPBx29VAhHDaBFXY9bpoEllsF1joHRIICB6IbFhSgIAP6HRR2QIcAud2PG3seN7WAGbNJC4qnG9pRQqO180XXpKe7tz3ZswOYpp72Nr9sB5bFPc9bl78AxkHHBniAPJ-98OWCtYigAFpJedkKBQpa-lxc7qV52Yl5VgGZiXn5DjUGNdUgKxRsDM207MCsGgXTeAVdIDSLh7CAtC5CVFfBEErXKBhBWaZwEWMoywAmAjbSx7AGmB2XgUUeN22EskEskJ7HTRseN2-GanjctBrBAekC1k3NMLnmuahyfdhtMwKZ2QbR0jgRygaxwLrAyQdmIjgVIUwEJZzFcLm9qHLrMGyDhRdSMIACoAYaREZgHiiQYCLQwEQPUSyh1bQe7uluMAnyK8jP86Ci_UC8CsqCyMxHCsXmLhDZBApmsBTugGoEaYf4dzWYBHkTJL4JFkJAcyCmTYLKgDIRXNMcsBSID3I1SCHWMAJ7GSUJwRKLMTiEICKQkDQFiyCHJPYgAiciuN_gQdQEChYQfzYsHMBqQDKQ8HnctAIoBk4U4IQIkgElRVwhBEk---FehoUQJIqARQaovAWzlkNlQFEG4vcATW6BhiJEZjaGPbVcXLp2CpBcCbYUyFPmAgA)]
+- [鋼琴伴奏 TMD 檔案](gunkan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOOFx0-THjd1A8v2ejhe7e190Lnu_pxPIftm95_mELU_2bHm6tP95ZwdQUEFLi0vRVsHQwILL3lbBncvGSN_EjqtOQenZ9KXPNu1-NrPp2Zz5T-d0P9sw8enaHc8WLHw6ZeOztT1Asx43tj1unP-4cd3jxt1AmxSe7Oh-3Lz7-Zo1T2fPfrFqE9BsJZA5QL3PV3e_aN_1vHHxs7Xbn_Zveto763nnypdLVjxt3fFier8SF5e-loIttQCXgoLC44YJz2Zvej573YtVq57N6HvcMBEs2rz7afuuFzOnvt8zC-Ke5zv2Pp-7-OmuOc-3r3jc0IXNRw3dQK-i-L9j7vO1nc-XTwT69MmuHqDg051bnk9ZAQ7gHrj3HzcAAwgRD48bQMGPFBU9T_vmP5u9A6hewdD4UcNkQxOFlwsaHzc0QV36YtX-Zw3LX3S0P-vufTFzPtDJj5s7gIJAU9wVni5ZDmQ-2TXlReOml_M3v5zVBzcQKPh8-6wXa-c8n9P4fOpSoDKw7p6n65e9nDUbpHj1jOdbm56tXfRs2h4FdwWgCMQ9wHhXANoFZL1smP901zIFSKpAclFzz7OZ60Eumr3p5SKgf2cBwwcUgrOmPdnR8GTvHKA4UDWQfLJjLdCFL9v7XzZ2A0Pm5cyWl7vnPW1d_bSjDWjd8zXLnk1Y-7K192lv49PWtXDB57Nani_Y8mzrqufrG4DJE-iQZ_39z3euggTak50zgJZCFLzoWPV0wkSgFc-2dAN1gVy1cSHI4aunPO_f92zG2qeTehQMzUChaqEAjJ1nHRuA6Rg5EoE2PlvR9GzqzGdzJ4BM2Lr95YxNIK9t3Q4081lL_4u1MxA-B6YOoK8gaQlrJgKGBUipgoKhnsLTzl6guIKGZ15JUb6OgonC0w39QB9pAtU8mwxM_sDA2v1sevfTfd3PFux4ur8Z6I6n_UuBwfe8adfTDX0Qnz_dvQuUaZDSwLOW-VAHKSgY6QGT5m5gLoS4QUHDvTQvOzEPZMXT_s3POrsVNAIyE_Pygzw0FZ7tmQJUAkkbQB3A3Au3__2e2U-3L0Mo9_HQhJgPBE_2zUUOryd7-yAJHRpkW6Y8W7EDGBrP5kx_srMbGDHPFuwBxuiT3UuBQQ9MlBCHgRwMzY5wB7xYCUwJK55Nawd6C5hOQIxV816sXQ_Mo8CgRcsOQJFnfc3AZPBs1RSFAANDc6AMkLIAB3kn2Gxg0nvc0PBiYc_jxolIjEbUzNcIUgoq0easAWXvhobHjf2PG1cD2WD3Ne573Lj-cVMXWGI_WN8qIBuYGqBhDmKB9QETHUgOqAikFKgOmMuXIdkLVg3K6WBPgSKks_dlAzBfNEIYwLiFFQI9EPeAysdZLcBC4-lEYIG44mXz3mcz1kPSIdC4F9u6Xjb2gZL61u0gZcCUuHUVxKinE5YDFcDDYVcPFcJhE1hh1-OmSWC5VWCtc0AkKHAgumFBAQoyoN9BYQd0CJDb_bix53FTC5gxm7SgeLqhHSU0WjtfdE16unvbkz07nk3d8bS3-WU7sMrped66_AUwDjo2wAPk-eyFLxesRQQF0ErKqxAoUNDS5-ICZ2MraHZyqDGoqQbnERtDMy07MKtGwSxeQVfBFESAoCEQ1ygYg9nGCkZwEVOwiClYBCRbAxYHQQMoXcNVi2KfD7J9JnDrDOMVog1j8TJABkHKBPwuhzoa6AEwC-wRuCjE4WCHgR0NcT5MBOJBZMeDjPQxrAEWmMvAIo-bNkLZIBZIz-OmDY-bN0M1PG5ajeCAdAFbD80wuea5qHJ92G0zApnZBtHSOBHKBrHAusApH2YiOAMgTASl-cVwub2ocuswbIOFF1IwIMehEZgHCiRErIIDEz1EsYRW03q4p7vBJMivID_Pg4r2A_EqKAsiMx8pFJu7QGQTKJjBUrgDqhGkHeLf1WAS5E2Q-CZYCAHNgZg2CSoDyv9wTXPAUiA-yNUghVjDiHq5ARFE4EQE9xs8iJpAwQLiz4aFA1gNSAYSPo-bVgDFwIkCnBBBMqCkiCuEIMlnP9zLsBCCRBGwtANVFWDWcqgMKMpA_B6gyS3QUITIzMawBy1TEsreJvFAlgmIZQpimeai5HCIYoQaLNrMQCwzkDaiSg4DiBN17RTAZZACkAFxbrQPUAkSzwjMU-YCAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ ぐんかん（軍艦） ]
+================================================================================
+⏱  Duration:       0:13 (13.3s), 12 measures total
+🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Gunkan #1 @ m.1, 0:00]
+   - 最高音: D5 in [Gunkan #1 @ m.3, 0:02]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Gunkan (13.3s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  D, G, B, A, E
+   - 調性數值:    D 調性不明確 [相關度: 0.83, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.83), G 大調 (0.83), B 小調 (0.65)
+   - 五度圈歷程:   +2
+   - 各段落調性細節:
+     • [Gunkan #1]: D 調性不明確 (r: 0.83, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb              [D ]*
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# :                            0.0%
+     D  : ████████████████████████  36.9%
+     D# :                            0.0%
+     E  : ███████                   10.7%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : ███████████████           22.6%
+     G# :                            0.0%
+     A  : █████████                 13.1%
+     A# :                            0.0%
+     B  : ███████████               16.7%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 32 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![ぐんかん（軍艦） — 《うたのほん》（唱歌課本） 下卷（初等科第二學年） 原書掃描頁 P017.jpg](P017.jpg)
+
+![ぐんかん（軍艦） — 《うたのほん》（唱歌課本） 下卷（初等科第二學年） 原書掃描頁 P018.jpg](P018.jpg)
+
+

@@ -1,0 +1,142 @@
+---
+title: "日本武尊 — 《新定兒童唱歌》 尋常科 第三學年"
+song_title: "日本武尊"
+song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_2_05_yamato_takeru_no_mikoto"
+collection: "shintei_jido_shoka"
+volume: "grade_3_2020.006.0847.0003"
+description: "〈日本武尊〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003）），調號拍號：A 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　尊（みこと）こそ　たけしき君（きみ）よ 日本一と　梟帥（たける）はいへり…"
+keywords: "日本武尊, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
+sources:
+  - "臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第二學期・第5首）"
+  - "國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）"
+musical_key: "A"
+meter: "2/4"
+tempo: "66"
+image:
+  - file: "P042.jpg"
+audio:
+  - id: "yamato_takeru_no_mikoto"
+    label: "鋼琴伴奏版"
+    file: "yamato_takeru_no_mikoto.mp3"
+  - id: "yamato_takeru_no_mikoto_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "yamato_takeru_no_mikoto_neutrino.mp3"
+tmd_source:
+  - "yamato_takeru_no_mikoto.tmd"
+  - "yamato_takeru_no_mikoto_piano.tmd"
+---
+
+# 日本武尊
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="yamato_takeru_no_mikoto.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="yamato_takeru_no_mikoto_neutrino.mp3"></audio>
+
+- 臺灣教育會公認『新定兒童唱歌』尋常科第三學年用（第二學期・第5首）
+- 國立臺灣歷史博物館典藏（典藏號：2020.006.0847.0003）
+
+## 說明
+
+
+
+- 出處：臺灣教育會公認、臺北新高堂發行《新定兒童唱歌》尋常科第三學年用（昭和6年／1931年），
+第二學期第 5 首〈日本武尊〉（やまとたけるのみこと），原書第 19 頁（掃描檔 P042.jpg）。
+- 詞曲：眞田幸憲 作詞／山本壽 作曲。
+- 調性與拍號：イ調（A 大調），2/4 拍，速度 != 66。
+- 背景與曲風：歌頌日本古代傳說英雄日本武尊（倭建命）平定熊襲（梟帥）與東征蝦夷、草薙劍除難的事蹟。
+- 版本說明：本檔案為原書單聲部五線譜（附移動 Do 階名片假名）之忠實數位化版本。
+
+### 編曲說明（鋼琴伴奏版）：
+
+1. 前奏 (Intro, 4 小節)：引用第四段「日本武尊」莊重宏偉的終止樂句開場。
+2. 主歌伴奏 (YamatoTakeruNoMikoto, 14 小節 × 2 段)：右手演奏莊嚴旋律，左手以低音區沉穩的八分音符和聲支撐。
+
+
+## 歌詞
+
+```text
+一　尊（みこと）こそ　たけしき君（きみ）よ
+日本一と　梟帥（たける）はいへり
+雄々（をゝ）し　雄々（をゝ）し
+日本武尊（やまとたけるのみこと）
+
+二　劍（つるぎ）もて　草（くさ）なぎはらひ
+渡（わた）る荒浪（あらなみ）　治（をさ）まる蝦夷（えびす）
+雄々（をゝ）し　雄々（をゝ）し
+日本武尊（やまとたけるのみこと）
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="yamato_takeru_no_mikoto.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](yamato_takeru_no_mikoto.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](yamato_takeru_no_mikoto.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN443MjAyiDcwMIs3sDAxBzIMjBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx2ZkFgO1V6ILZ-YWpKIaCrQjPTPPqiQxE-hrkM_LE-NzEzPzchLzUpS4tLQUnk1f-mzOmmdrlz3d0KWgpcWlaKtgZsZlb6vgyGVjpG9iBzLpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oe_ZtA1P18162jrp-eqlT6dsfLa253FD_9MN3U937Hi-fOLzNWue7Oh8unbH051bnk9Z8X5PB0hkVw9Q5Nmc-Y-bdwO5pi-XTXu_pxPs3qdzup-v7obatXb70_5NT3tnPe9c-XLJiqetO15M7weaAGG8mDn__Z5ZoIjSA0aUHiiigAwDY7BJXPpaCrbUAlwKCgqPGyY8m73p-ex1L1atejaj73HDRLBo8-6n7btezJwKdAmO8GkEij_tmQ4MpZerZzxd0PR85p4XC4FB1IUt3LrxhNuzGWufTuoxA_Lf7-k3tDQ2BLM63-_pAblEQQE5XIFsBVMFYLA-buhAjtvHDUD1HY-bWh437nvcuOJx4_zHjRMfN3U_blz3uHH_48bJQEGImU_75j-bvQNkjqGlwssFjSAH9DU_6-9_tmqKQoCBiZFeVkE6UOnjhiZoQLxYOQ8YQsCAeD5n3vMpG57u3PGsbZPCk71zgBJAFz_duBHojKeL94KEgAqRNK7a_6xh-YuO9mfdvZBIfdy0BCgItNJR4emS5WAmyE3AlKgAVANkvWyY_3TXMgVwMkUyqLnn2cz1IINmb3q5COiRWcBAfbmgBxICT_uXPNm9-GnTZmAMvuje-HJ2C3LIgJJVw9qnu3c9nbgXaNvTnZuBkfO8revFUqCXOp4tmv90x1KgOMjwuRuf7mt8MXfZ0yXbQdHb2_li2synXb0vZy55OXvx81ktT3Z1v9g5H-Gs550dQGsg6QbkJqCVq6Y8W9jxvGkXJJSfTlv3onHTy-YVT3ZNeb591ou1c4BWvpzZ8nz57qfdUxVc8hVezup7OqH3eWf708Z2IAPokCc7u5_uX_B0_bJnU3c82dv7tGcaxBqQtdD0CjEcGATACHjauuLZtHag65_sWAtirJr3Yu16YCIGeXtD77P2TuQ4BRvwZEfD44YGSMggpw0wYy5QCpp4Gqc_bux9OmE2WFkvUCVITVMHyAhI-IIMAia1hgZYIALVQZMd2Lj1jxuByXHH46YukB5gtDxuaAUn0kmPm-aCVUwHasYqjrAEHokE0zZID1AdJASA0QHU9nzpvOdz5j-bsR6YLJ52tz9vWfhs_RRgRAJ99XTthKdTgeYCU9xiiPuf7Jz_AphtZ7Q9a1oB1AKxHpxbG97vmf10yayXu_YAHft0MTB4GyFcoLFA9wENQc2KTfCg3gXM-g3AJAQOmyVgNwNTCjAYmx43LgNKAdMYWKr_cSOwpAH6fBVQASjkmoDsTeBQ2LEQ7HmgCmAGAursftE76dnWVWBtTWB1QD3guAFGxKbd0ICEGrcPpB6coMHqgWjz48aZ0MCie4w86-x-1tP4dP02YIg8m7YGmK-eN3c8b1z9sr0PHBA9QM--bOx7tmXbs53Ln21e9Gz_ElBQg3MsxBegzDFnAznRAXQK5fUFFCho6XNxRSbmJpbkhyRmpxaV-uX7Zmbnl-RbBWQm5uU71BjUVIOLbhsLLTswA1ulBS7XdzQ8W7dVQcNE4emG_ufrG3TguRUkq2CoAKxRNLFoBToAaizQBCtgWTQfVDI0bQayOhRqwCwQfy-4_gDx9wPxRiDeDsRrwSJrwboeN68Aq0EycFcP0MDGJWADuoGsPrDyJhC_cRnMwMZ-IJ4KxKtgKhrXA1V1AulNyAbWKJjGK-gqGMeD6BoFYyDbUMEAyNIwA4nrKpjHa6pq6OpqAoWBImDlEMVARWATfAxBhu8HKgWmKyBeAbZsMpg_VwGkRQOY_sBmAROhJpCYDsS9YFW9YJ3AQgukDmKaEUh8CUgxiudAmpfBTOuHmjYVZBo2D4JMwx-vu3rwxasR0fHaDa5pWoB4LiTgmyExuwTIaoSKdIBF9oPJjWCR1UAMjCCwqhlAvAojfpv6wfEJTADAYIDEKDiGwR5cBRWBGDkJrHIqWGQfNNg6gBiY2BpnIuJZAxzRusCog0YokA-JczBtCIx7oCIjsBpDqBI0LiLCgZGwGhoJS0CRsBdo72SwC1rAgguhCQE16jVAjoPw1sNNA0Y4UBwSpUA7YH6G-BjmX5BfweomIaIeaPY-CK-pG2QagYzciS_CjYmOcFDuedy8B8oCJc7t4PwEzXdAUZgshN6DpgYjosHRB1IKZoG8PR3ZQKAoTBbJQCQ18Ag2AvoCkndNgYGiAcrKugomsKgDSgJjExyTmkClqLkXmH4bdwDt6ALnMEgoIwX2dJB-EFcDGkXT0fIrIrmRoh9vhD2dPRtfhJkQHWHggrJ5HjQfIpW14FwILjlA5SykRAarwYiiFnAOA-YtYJqGRBFQQ-NEaF5bB82LoEIPpA6kBh4p4FIUSMDKTnBOM4KWtKDcVQPk6wKjA8hCRAjQRlC4QWzEZR-kwAWZAFKlCwxSuBmgSKHAjFouLl07BWwVKNh4oJwyFwA)]
+- [鋼琴伴奏 TMD 檔案](yamato_takeru_no_mikoto_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2femzOWuerV32dEPX-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbBzIzL3lbBkcvGSN_EjqtOQelF-67njYufTZ35omnTsznNT1vXvFjV-7ih79m0DU_XzXraOun56qVPp2x8trbncUP_0w3dT3fseL584vM1a57s6Hy6dsfTnVueT1kBtBEksqsHKPJszvzHzbuBXNOXy6YBLVYC2fJ0Tvfz1d1Qu9Zuf9q_6WnvrOedK18uWfG0dceL6f1AEyCMFzPnv98zy8jAyEDPwMBMz8DCxBzIMDAGm8Slr6VgSy3ApaCg8LhhwrPZm57PXvdi1apnM_oeN0wEizbvftq-68XMqUCX4AifRqD4057pwFB6uXrG0wVNz2fuebEQGERd2MKtG0-4PZux9umkHjMg__2efkNLY0Mwq_P9nh6QSxQUkMMVyFYwVQAG6-OGDuQIf9wAUv-0b_6z2TtAagwtFV4uaAQZ3tf8rL__2aopCgEGJkZ6WQXpQKMfNzRBPfli5Tyg74GefD5n3vMpG57u3PGsbZPCk71zgBJA1zzduBFoxdPFe0FCQIVIGlftf9aw_EVH-7PuXkiEPW5aAhQEWumo8HTJcjAT5CZgKlMAqgGyXjbMf7prmQI4CSIMer59BdBgSOBjTbZAoyHhYKin8LSzFyiuoOGZV1KUr6NgovB0Q__z9Q2aQDVP90wFBifQ709nz362buvjhh7U8Ol90df1sr336br-p42dz2e1PN_a9Gztomcrmp72L305rfvpgi1QNykoGOkpPNmxGxhvEGcoaEQm5iaW5IckZqcWlfrl-2Zm55cAbTeEWa9weLqCkQLQUrA7-jc_6-x-tmcKUCfQyqeztjyb3v10XzcoerYvA0o92b30yd6-l_M3P-1teLap8_nKlUDXPG1d_bSjDSj4fM0yYGJ40bjp2ZT1zyZNgLqJ8qQOBQpa-lxc4NCzCshMzMsP8nCoMaipBvvbxkLLDsyoUajOTatVMItX0AURQFSjYBoPQoZAf9YoGAPFjYC4BsjXVTAAsbhqUYz1wWVsQa2CSXy8QjSQiEViAU0CsQ2BTDMQA0jkQkQhgqYgQSCBohJuMbboweM9bCUIOJPtaADGoYIGLFp14FkGJAv0KzB7a2LRCgxSqLFAE6yAaXo-KGU3bQayOoDuBbFA_L3gtAXi7wfijUC8HYjXgkXWgnU9bl4BVoNk4K4eoIGNS8AGdANZfWDlTSB-4zKYgY39QDwViFfBVDSuB6rqBNKbkA2ExiswHnUVjMHxCYlLQ2BQ1ihogONbV8E8XlNVQ1dXEygMi3mIYqAisDE-hiAb9gOVPm6cDMQrwDZOBvPnKoC0aDxunA8263HjRE0gMR2Ie8GqesE6Hzd1gNRBTDMCiS8BKUbxIUjzMphp_VDTpoJMw-ZLkGn4I3dXDzhyjbFHrhHRkdsNLrZagHguJPSbIdG7BMhqhIp0gEX2g8mNYJHVQAyMJbCqGUC8CiOSm_rBkQpMBcBggEQrOJrBHlwFFYEYOQmscipYZB802DqAGJjiGmciIlsDHNG6wKiDRigkDwPjHJqXjUGKQBkZmASgStC4iAgHRsJqaCQsAUXCXqC9k8EuaAELLoQmBNSo1wA5DsJbDzcNGOFAcUiUAu2A-RniY5h_QX4Fq5uEiHqg2fsgvKZukGkEcnMnvgg3JjrCQVnocfMeKAuUOLeDMxU08wFFYbIQeg-aGoyIBkcfSCmYBfL2dGQDgaIwWSQDkdTAI9gI6AtI3jUFBgrQp6CwMYFFHVASGJvgmNQEKkXNvcD027gDaEcXOIdBQhkpsKeD9IO4GtAomo6WXxHJjRT9eCMMUm_jLH5NiI4wcGnZPA-aD5EKXHAuBJccoMIWUiyD1WBEUQs4hwHzFjBNQ6IIqKFxIjSvrYPmRVChB1IHUgOPFJJqTXiEAG0EhRvERlz2QQpckAkgVbrAIIWbAYoUCszAW4lircyJrUTxxBi0PQCvz8GVPIiBVMdDK_oaQq0GmDrSKgG8jkO0ObC2PmBNExwKSSuciHQIyHJQYGBxBHJLiWA4oGc1vNZTv72ma6cAbisqABnYkl20j2EsbjkjsJwyFwA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 日本武尊 ]
+================================================================================
+⏱  Duration:       0:25 (25.5s), 14 measures total
+🎼 Key & Tempo:    首調基準 A, != 66.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C#4 (MIDI 61) – E5 (MIDI 76) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C#4 in [YamatoTakeruNoMikoto #1 @ m.1, 0:00]
+   - 最高音: E5 in [YamatoTakeruNoMikoto #1 @ m.9, 0:14]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      YamatoTakeruNoMikoto (25.5s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       E 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  E, C#, A, B, F#
+   - 調性數值:    E 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 99.0%]
+   - 候選調性 (K-S): E 大調 (0.80), A 大調 (0.78), C# 小調 (0.73)
+   - 五度圈歷程:   +4
+   - 各段落調性細節:
+     • [YamatoTakeruNoMikoto #1]: E 調性不明確 (r: 0.80, 自然音純度: 99.0%, 調外音: D)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab          [E ]*
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  :                            0.0%
+     C# : ████████████████████      23.0%
+     D  : █                          1.0%
+     D# :                            0.0%
+     E  : ████████████████████████  28.0%
+     F  :                            0.0%
+     F# : ███████████               13.0%
+     G  :                            0.0%
+     G# : █                          1.0%
+     A  : ███████████████           17.0%
+     A# :                            0.0%
+     B  : ███████████████           17.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : C#4 – E5 (15 個半音 / 1.2 個八度, 44 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![日本武尊 — 《新定兒童唱歌》 尋常科 第三學年 原書掃描頁 P042.jpg](P042.jpg)
+
+

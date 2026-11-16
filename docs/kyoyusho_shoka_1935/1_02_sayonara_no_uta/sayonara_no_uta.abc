@@ -1,0 +1,20 @@
+X:1
+T:さよならの歌
+M:2/4
+L:1/16
+Q:1/4=100
+K:C
+V:V1 name="Piano" snm="Pia"
+[V:V1]
+c3 c G2 G2 | A3 A A2 A2 | G3 G E2 C2 | D4 z4 |
+w: け ふ も _ | た の し く | す み ま し | た
+c3 c G2 G2 | A3 A G2 E2 | D3 D G2 G2 | C4 z4 |
+w: み な つ れ | だ つ て _ | か へ り ま | せう
+E3 D E2 F2 | G3 G G2 G2 | A3 A c2 A2 | G4 z4 |
+w: せ ん せ い | さ よ な ら | ご き げ ん | よう
+A3 A c2 A2 | G3 G A2 G2 | E3 E D2 E2 | C4 z4 |
+w: あ す ま た | お せ わ を | ね が ひ ま | す
+E3 D E2 F2 | G3 G G2 G2 | A3 A c2 A2 | G4 z4 |
+w: み な さ ん | さ よ な ら | ご き げ ん | よう
+A3 A c2 A2 | G3 G A2 G2 | E3 E D2 E2 | C4 z4 |
+w: あ す ま た | い つ しょ に | あ そ び ま | せう

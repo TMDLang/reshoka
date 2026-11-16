@@ -1,0 +1,140 @@
+---
+title: "日本 — 《うたのほん》（唱歌課本） 下卷（初等科第二學年）"
+song_title: "日本"
+song_id: "utanohon_ge_2006.006.0878_18_nippon"
+collection: "utanohon"
+volume: "ge_2006.006.0878"
+description: "〈日本〉收錄於日治時期臺灣《うたのほん》（唱歌課本）（下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　日本　よい　國、きよい　國。 せかいに　一つの　神の　國。…"
+keywords: "日本, うたのほん》（唱歌課本）, 下卷（初等科第二學年）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《うたのほん》（唱歌課本） 下卷・國民學校初等科第二學年用（臺史博 2006.006.0878）"
+sources:
+  - "日治時期國民學校唱歌（うたのほん 下・第十八課）"
+  - "國立臺灣歷史博物館典藏"
+musical_key: "C"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P047.jpg"
+  - file: "P048.jpg"
+audio:
+  - id: "nippon"
+    label: "鋼琴伴奏版"
+    file: "nippon.mp3"
+  - id: "nippon_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nippon_neutrino.mp3"
+tmd_source:
+  - "nippon.tmd"
+  - "nippon_piano.tmd"
+---
+
+# 日本
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="nippon.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nippon_neutrino.mp3"></audio>
+
+- 日治時期國民學校唱歌（うたのほん 下・第十八課）
+- 國立臺灣歷史博物館典藏
+
+## 說明
+
+
+
+- 出處：臺灣總督府編《うたのほん 下》（國民學校初等科第二學年用），第十八課〈日本〉，原書第 43–44 頁。
+- 調性與拍號：ハ調（C 大調五聲音階，主音為 C，收於高音 `1^`＝C5），2/4 拍，共 8 小節，速度 != 100。
+- 背景與曲風：與初等科二年級國語讀本《ヨミカタ》之韻文教材同詞。旋律簡潔莊重，歌詞宣揚「神之國」、「強之國」的戰時皇國史觀，第 44 頁並繪有白雪覆頂的富士山聳立於雲海之上的插圖。
+- 版本說明：本檔案為原書單聲部五線譜旋律之忠實數位化版本。
+
+### 編曲說明（鋼琴伴奏版）：
+
+1. 前奏 (Intro, 4 小節)：擷取主旋律核心樂句作為導奏，建立調性與拍感。
+2. 主歌伴奏 (Nippon)：右手 (PianoRH) 演奏原書歌唱主旋律；左手 (PianoLH)
+依國民學校低學年教材純樸明朗之風格配以和聲伴奏。
+
+
+## 歌詞
+
+```text
+一　日本　よい　國、きよい　國。
+せかいに　一つの　神の　國。
+
+二　日本　よい　國、強い　國。
+せかいに　かがやく　えらい　國。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="nippon.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](nippon.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](nippon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC_KTM_Ms8rNz0sqLc7IV-LS0lJ4Nn3pszlrFLS0uBRtFQwNDLjsbRWcuWyM9E3sQPpA0pt2P5vZ9GzO_Kdzup9tmPh07Y5nCxY-nbLx2dqe93s6Hje2PW6c_7hx3ePG3Y-bJis82dH9uHn38zVrnvY2Pm1d_WLVpvd7OpVARgG1P1_d_aJ91_PGxc_Wbn_av-lp76znnStfLlnxtHXHi-n9Slxc-loKttQCXAoKCo8bJjybven57HUvVq16NqPvccNEsGjz7qftu17MnPp-zyyIe57v2Pt87uKnu-Y8377icUMXNk81dAN9ixIEHXOfr-18vnwi0LNPdvUABZ_u3PJ8ygqgf9_v6UEOgccNHZBgftwAknraN__Z7B1ABQomxo8aJpuYKLxc0Pi4oQnqtBer9j9rWP6io_1Zd--LmfOBbnzc3A8UBFrvrPB0yXIg88muKS8aN72cv_nlrD6ggU927AaynzftUnAG8p5N2fZs2p6Xq2cAxRQSDOMS3u-Z62wKcRUwWhWAxoIc0bpRwULh6Yb-5-sbgNyXDfOf7lqmAEkDSG5p7nk2cz3ILbM3vVwE9NosIBvucZCvgV7eMgsYLC9WzXuxrgHsx67HzSseN89_3LT6cdN-YLg92dn9cv7uZ9Pan02d-WzuhKcTel6snAe049n07qf7up9vWPhs75QXfV0v20HuAqYqoOzTdYuf9c963NDzfOk8oHag-Y8beh83AEOp5-me7XCR57NannVsAKbO57PagSLAJPViOcg34LAFB-uTHcue71z1bE7n85l7X85e9WJZ28sFQNUtT9f3PF28-unGjS8aNwNTJSjAZm96thVk9JMdXSBz-yc9nTMNERLPOzuAnoMkI2AwANnPVk15trADGOqQ-Hw6bR0oTppXACPn-fZZL9bOgfgP5Nj9C56uX_Zs6o4ne3uf9kyDGAUyGppEIQZAfd66AhhSwFB-smMtiAEM1rXrgekWGPtoKQYo8qyv-Vl_P9AhCgEGJuZAGSBlAY7pTrDZT3Y0PG5ogKW9hsdNwOzaAmSAQ6_xcWMvqgjEr42zHzd2g0QbVwMlQEY0LgFlhYYGYGRAGAjVQEdAnAgKE7A9z2asf76v7-nSvaBQBsbJum1Aq140TgNGMpJIE1DZkx3Tnk8FJt6up1OA7AagLFJsN8H9sKsHjx-AqYGAB8DsnsdNQG4_mNvxuKkTXQ-R3gDa9nz2bDRvvJzW_ALowGl7IP4ByTZ2AvMpXA3IJ0A7KC_RoEBBS5-Lyy-zoCA_zyogMzEv36HGoKYaZIWCjaGZlh2YVaNgrKALhqZADGLXKBiB-YZgGiICkgOKxCmYASkQhgnpKhhA6RqwcT6GNcCAXf24cTFU-HHjXhAJLBxBmoCxAhVtAeJ-MGs1RKaxFyIDVAGSBcmA5MHGYbfKiGyrlpBgFTSUDMFcY4wwMQXzQGygmjjkYEIRwx5Os6Eu7Ia7A-bCTVCZFVDXAvMTVKYbKrMfKkZcMOG2CWZeDzA8UMMCGn5NnUSEUi0Xl66dAiSxga0F8pS5AA)]
+- [鋼琴伴奏 TMD 檔案](nippon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2femzOWve7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgqGBgZc9rYKzlw2Rvomdlx1CkogPZt2P5vZ9GzO_Kdzup9tmPh07Y5nCxY-nbLx2doeoFmPG9seN85_3LjucePux02TFZ7s6H7cvPv5mjVPexuftq5-sWoT0HglkFFA7c9Xd79o3_W8cfGztduf9m962jvreefKl0tWPG3d8WJ6vxIXl76Wgi21AJeCgsLjhgnPZm96Pnvdi1Wrns3oe9wwESzavPtp-64XM6e-3zML4p7nO_Y-n7v46a45z7eveNzQhc1TDd1A36IEQcfc52s7ny-fCPTsk109QMGnO7c8n7IC6N_3e3qQQ-BxQwck7B83gKSe9s1_NnsHUIGCifGjhskmJgovFzQ-bmiCOu3Fqv3PGpa_6Gh_1t37YuZ8oBsfN_cDBYHWOys8XbIcyHyya8qLxk0v529-OasPaOCTHbuB7OdNuxScgbxnU7Y9m7bn5eoZQDGFBMO4hPd75jqbQlwFjFYFoLEgR7RuVLBQeLqh__n6BiD3ZcP8p7uWKUDSAJJbmnuezVwPcsvsTS8XAb02C8iGexzka6CXt8wCBsuLVfNerGsA-7HrcfOKx83zHzetfty0HxhuT3Z2v5y_-9m09mdTZz6bO-HphJ4XK-cB7Xg2vfvpvu7nGxY-2zvlRV_Xy3aQu4CpCij7dN3iZ_2zHjf0PF86D6gdaP7jht7HDcBQ6nm6Zztc5PmslmcdG4Cp8_msdqAIMEm9WA7yDThswcH6ZMey5ztXPZvT-Xzm3pezV71Y1vZyAVB1y9P1PU8Xr366ceOLxs3AVAkKsNmbnm0FGf1kRxfI3P5JT-dMQ4QEMGEAwwCSjLBmIWDYgJQqKBjqKTzt7AWKK2h45pUU5esomEDDWROo5tlkYMqfBowxiO-fLdjxdH_zsxVNT_uXPtk7BxiHTzf0AfWCYmj3LlB-QUoNz1rmQx2koGCkB0yVu4GhBXGDgoZfZkFBfh7Iiqf9m591ditoBGQm5uUHeWgqPNszBagEkuyAOoB5F27_-z2zn25fhlDu46EJMR8Inuybi5zen-ztg6RxSDQ-3zLl2YodwNB4Nmc6KIYXrXi2YM_L1t4nu5c-ndQDTJ4Qh4EcDM2JcAeAIrh1BTBBAL31ZMdaEAOYetauB2ZPYNCiZQygyLO-5mf9_c9WTVEIMDAxB8oAKQtwkHeCzX6yo-FxQwMsizU8bgKWSi1ABjiRND5u7EUVgURp4-zHjd0g0cbVQAmQEY1LQDm-oQGY5iAMhGqgIyBOBMUg2J5nM9Y_3weMqb2gxARMeuu2Aa160TgNmJaRRJqAyp7smPZ8KjCPdj2dAmQ3AGWREnUT3A-7evD4AZjoCXgAzO553ATkAsMcyO143NSJrodIbwBtez57Npo3Xk5rfgF04LQ9EP-AZBs7gcURXA3IJ0A7KC-4oUBBS5-LC5yDrKAp2aHGoKYanDxtDM207MCsGgVDBV0gNFYwApO6QBFTsIgpmAdiA9XEgYWAlBm6mK6CAZSu4apFsdAH2UIThH3xCtGmsVCGIYhhgi4CMgiSH_E7HeRAiFNhTgd5AuhODM9AXQ7CMCFkh4OM8zGsASaK1Y8bF0OFHzfuBZHA-gukCZiioKItQNwPZq2GyDT2QmSAKkCyIBmQPNg47FYZkW3VEhKson4EI8JpNtSF3XB3wFy4CSqzAupaYFkAlemGyuyHihEXTLhtgpnXAwwP1LCAhl9TJxGhhJbW8KRacGI1RU61JjARUPIlKn0bQGzUtVMA5xQFIANie7QPUC0SzwjMU-YCAA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 日本 ]
+================================================================================
+⏱  Duration:       0:09 (9.6s), 8 measures total
+🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  C4 in [Nippon #1 @ m.2, 0:01]
+   - 最高音: C5 in [Nippon #1 @ m.3, 0:02]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Nippon (9.6s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  G, C, E, D, A
+   - 調性數值:    C 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.85), G 大調 (0.76), E 小調 (0.73)
+   - 五度圈歷程:   +0
+   - 各段落調性細節:
+     • [Nippon #1]: C 大調 (r: 0.85, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+              [C ]*
+         F            G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ██████████████████        23.2%
+     C# :                            0.0%
+     D  : ██████████                12.5%
+     D# :                            0.0%
+     E  : ██████████████████        23.2%
+     F  :                            0.0%
+     F# :                            0.0%
+     G  : ████████████████████████  30.4%
+     G# :                            0.0%
+     A  : ████████                  10.7%
+     A# :                            0.0%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 25 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![日本 — 《うたのほん》（唱歌課本） 下卷（初等科第二學年） 原書掃描頁 P047.jpg](P047.jpg)
+
+![日本 — 《うたのほん》（唱歌課本） 下卷（初等科第二學年） 原書掃描頁 P048.jpg](P048.jpg)
+
+

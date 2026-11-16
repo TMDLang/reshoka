@@ -1,0 +1,139 @@
+---
+title: "一ネンセイ（一年級生） — 《新定兒童唱歌》 尋常科 第一學年"
+song_title: "一ネンセイ（一年級生）"
+song_id: "shintei_jido_shoka_grade_1_2020.006.0847.0001_4_02_ichinensei"
+collection: "shintei_jido_shoka"
+volume: "grade_1_2020.006.0847.0001"
+description: "〈一ネンセイ（一年級生）〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第一學年用（臺史博 2020.006.0847.0001）），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ボクハ　ジンジヤウ 一ネンセイ…"
+keywords: "一ネンセイ（一年級生）, 新定兒童唱歌, 尋常科 第一學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+schema_type: "MusicComposition"
+is_part_of: "《新定兒童唱歌》 尋常科 第一學年用（臺史博 2020.006.0847.0001）"
+sources:
+  - "臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）"
+musical_key: "F"
+meter: "2/4"
+tempo: "100"
+image:
+  - file: "P049.jpg"
+audio:
+  - id: "ichinensei"
+    label: "鋼琴伴奏版"
+    file: "ichinensei.mp3"
+  - id: "ichinensei_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ichinensei_neutrino.mp3"
+tmd_source:
+  - "ichinensei.tmd"
+  - "ichinensei_piano.tmd"
+---
+
+# 一ネンセイ（一年級生）
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="ichinensei.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ichinensei_neutrino.mp3"></audio>
+
+- 臺灣教育會公認《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）
+
+## 說明
+
+曲目說明
+中文解釋：描寫剛成為一年級學生的孩子，帶著期待開始學校生活。
+
+
+## 歌詞
+
+```text
+一
+ボクハ　ジンジヤウ
+一ネンセイ
+コトシ　ハイツタ
+一ネンセイ
+アメガ　フツテモ
+ボク　ハ　イ　ク
+カゼガ　フイテモ
+ボク　ハ　イ　ク
+
+二
+キノフ　イツタヨ
+ガク　カ　ウ　ヘ
+アスモ　イカウヨ
+ガク　カ　ウ　ヘ
+アラシ　フイテモ
+ボク　ハ　イ　ク
+ボクハ　チサイガ
+ゲ　ン　キ　ダ　ヨ
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="ichinensei.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](ichinensei.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](ichinensei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjMK0nNjM_KTMmPL87Iz05Ugisry88pzU21Si9KTEmNN4w3MjAyiDcwMIs3sDAxBzIMDBFKi_NLi5JTrYqTM_Lzc-JLUitKkvLzsxHyBUX5Zal5iXlANQVFIBtTwIoQClLLMlNSQdKpKZkl-UWZiTlI7kgtKga7FWxJfElRYl5xclFmAcgDCFUlGalAx0JdkJOZloqQApqXnplnVZKYWZ6YF5-flpaZDLZAS0vhyY6Gx829j5s3P27a_bhpyfs9HUCRpzu3PN8y6_mU-e_3dCpoaXEp2ioYGhhw2dsquHHZGOmb2IFMftG-63nj4mdTZ75o2vRsTvPT1jUvVvU-buh6Nm3D03WznrZOer566dMpG5-t7Xnc0P10Q_fTHTueL5_4fM0akAVrd4DsmLICaB8oWPWAwaoHClYgw8AQaKsSl76WwrPZm57PXvdi1apnM_q4FBSAbl37bFr7i-WLX7Z3v98z61l__9P1q592zn7WMeF50y64u4GGA53-fFbL07Urn66d8H5Pz9Md215MnP5szvyn-1pfTut-urwbqObZgoVAZc-27H7c0MSlpc8FtJELaAbX4-Y5j5vWP27uf9zQ8LhpBzhogOSSx03LQPLIocX1uGnz4-aOx03bQWqBOpqWPG5uedy0H4vCRY-bFz5uWgNWOBWkqrntcfMimG0Q7SALl4DJ9UAdqx837UHoABmNXwfXk109QG1rHzf3gTRApMDOedy8AiixBqoNaDCIXAY2YgbYaU07gSZDdYDsXUZQR_NKmK-JcRpKmDY3Pm7aCrZpDdCoTWChzWCFa8HsBjC5AhwnvonAdBuQmZiX71BjUFMNSgUKNoZmWnZgVo2CsYIuEBoBIYjWBYoYgmlDBdN4IAUmIGIgFSDVIHYNXD0IGoBEwOb5GNYoAJ0KFgW6F8juh5sLTAQQ8ebNIPbj5sVgRcugkkvAUo1gsheqDCIDin_sthmBpNdCTe0D4qlItkH0AOMPyN4PZq2AyqyBug5ErkZ2RPMMDHtQgskUCGEWQESMwcGBHCTGYBqEYUGJNZCaQL4DOaoDyN6OcDY0wEDOBzkdxAI5HtlDjaSG0CKokTuBWiBsFAOBYQAJAdQQgsYgsSEEChkYBksomIEVmcFFaxRMkEIIIgILT2whBHIqMM-DrQc5CGIqLJLBEdvcBmaBVGJLeBAvgswCRTa-4AFmR7B6UEyg2QOOCfLtQUpAMAyxAOJ1U7goJHhALEhCMiKQgCDxsgdX8OBwNjTdIyUzAsGDoQtmDyirgmS2wjIv2BUg0zaB1YISJyJ3NoD1gNIXqj21XFy6dgqgUkoBSCtzAQA)]
+- [鋼琴伴奏 TMD 檔案](ichinensei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fxc-_j5s2Pm3Y_blryfk_H4-Ypj5sWPW7ue7Jny9Ol_U92z3i_p1NBS4tL0VbB0MCAy95WwY3LxkjfxI6rTkHpRfuu542Ln02d-aJp07M5zU9b17xY1fu4oevZtA1P18162jrp-eqlT6dsfLa253FD99MN3U937Hi-fOLzNWuAFj9du-Ppzi3Pp6wA2mpkYGSgZ2BgpmdgYWIOZBgYAm1V4uLyTczMswrITMzLD_JwqDGoqeZSAAIbQzMtOzCrRsFYQRcIjYAQROsCRQzBtKGCaTyQAhMQMZAKkGoQuwauHgQNQCJg83wMaxQeN88Biz5uWg9k98PNfdy0AyLevBnEfty8GKxoGVRyCViqEUz2QpVBZEAhi902I5D0WqipfUA8Fck2iJ7HzS1A9n4wawVUZg3UdSByNbIjmmdg2IMSTKZACLMAImIMDg7kIDEG0yAMC0qsgdQE8h3IUR1A9naEs6EBBnI-yOkgFsjxyB5qJDWEFkGN3AnUAmGjGAgMA0gIoIYQNAaJDSFQyMAwWELBDKzIDC5ao2CCFEIQEVh4YgshkFMfNy8EWw9yEMRUWCSDI7a5DcwCqcSW8CBeBJkFimx8wfO4eSVYPSgm0OwBxwT59iAlIBiGWADxuilcFBI8IBYkIRkRSECQeNmDK3hwOBua7pGSGYHgwdAFsweUVUEyW2GZF-wKkGmbwGpBiROROxvAekDpC9WeWuRCyge5kLKAl1HRhrFAtdGm8SAKzgWTGDyIIpDpED8QpRzNaOy6gWIK0SYouiE8ojWjWo1bMzBMdO0UQMES7QMShrGNwGxlLgA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ 一ネンセイ（一年級生） ]
+================================================================================
+⏱  Duration:       0:19 (19.2s), 16 measures total
+🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Main #1 @ m.2, 0:01]
+   - 最高音: D5 in [Main #1 @ m.10, 0:10]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Main (19.2s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  C, G, A, F, A#
+   - 調性數值:    F 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.80), C 大調 (0.79), A 小調 (0.65)
+   - 五度圈歷程:   -1
+   - 各段落調性細節:
+     • [Main #1]: F 調性不明確 (r: 0.80, 自然音純度: 100.0%)
+
+  [ 五度圈游移軌跡 ]
+               C  
+        [F ]*          G  
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ████████████████████████  26.7%
+     C# :                            0.0%
+     D  : ███                        3.4%
+     D# :                            0.0%
+     E  :                            0.0%
+     F  : ███████████████████       20.7%
+     F# :                            0.0%
+     G  : ████████████████████      22.4%
+     G# :                            0.0%
+     A  : ████████████████████      22.4%
+     A# : ████                       4.3%
+     B  :                            0.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 48 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![一ネンセイ（一年級生） — 《新定兒童唱歌》 尋常科 第一學年 原書掃描頁 P049.jpg](P049.jpg)
+
+
