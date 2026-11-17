@@ -63,8 +63,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hayaku_ie_e_kaerimasho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGRIboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQhVQU3pmnlVJYibQBSBXlCfG5yZm5uUk5qUocWlpKTybvvJxY__TddseN-54umPD46aux437HjfOftzY9n5Px9P9q5_OngeUfTph-fs9nQpaWlyKtgqGBgZc9rYKzlw2JvomdiC7nrbvejFz6vs9s57saHi6c4uCvsLTji6wWTMfN3UAGUCzns1Ya6RnaKhnbAA0CezCxw1dT6dsfLa25-mOaY8buoFqjAyMDPQMDMz0DCxMjIHKQGGul1WQrqCRlF9Skp-rqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DkvVs572rri2bR2UAhs6H3W3qkAd8iTHd1Pe4He6QR6FqT7xar9zxqWg_R1976YOR8o-ri5HyioAAwaBaAY0AhnhadLlqMIdYJ1rtj9YsUM5DBDhBB68HGBNADVPW5oBLEeNy963LTscTMQTX3ctOZx0_7Hzd1A0a7HzaseN8973LQdKARW2ARUuBok2rQGyFnyuHkGRGXL46a1qCqb-x83L3nctB6oDKgaaHIjUDGQA9QN1AMxdjdQAuKUXT0wpzROf9w0-XHjxseNLY8bVz1uBDoIaEEj0O2LwEJA_mSIQmCyWvy4cdnjpgloCjc8bmxCUki0S4CKKU8CUKCgpc_F5ZFYmZhd6pnq6p2YWpSZC8yw-VYBmYl5-Q41BjXVIPsUbCy07MCM6ty0WjCjRsFQQRcMjYDYGIhrFEyAJAiDeCBYA5YDqTOPhypEaANBA5AI1DiIJhMFU6iWGgUzsIgp2EiIcSA1KEYCFYEobOaB1IEgWJ0pRDFIP8g0kB0IJ4PYINUgUWzuq-Xi0rVTwBJKCkBhZS4A)]
-- [鋼琴伴奏 TMD 檔案](hayaku_ie_e_kaerimasho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2feXjxv6n67Y9btzxdMeGx01djxv3PW6c_bix7f2ejqf7Vz-dPQ8o-3TC8sfNu19273k-YcuTPVueLu1_3tnxfk-ngpYWl6KtgqGBAZe9rYIzl42JvokdV52C0tP2XS9mTn2_Z9aTHQ1Pd25R0Fd42tEFNn3m46YOIANo-rMZa430DA31jA2AJimBdD1u6Ho6ZeOztT1Pd0x73NANVGNkYGSgZ2BgpmdgYWIMVBZgYGSol1WQrqCRlF9Skp-rqcTF5ZFYmZhd6pnq6p2YWpSZm1ickW8VkJmYlx_k4VBjUFPNpQAENhZadmBGdW5aLZhRo2CooAuGRkBsDMRAEW0TIA0jQWIgWKNgHq8NUgTSYB4P1VGjYBqvDTMCBA1AgjCjoZpNFIy1TaE6QaJmYFFTqBUQwyFqkawwVY_XBltTo2Acr20GYmGzA6oDBMGqTSFaIMYZgS2AWg4WgfkO5FeoViAFkgfr0TaMw7CnFk_g-iAHrgk8cAvggRsPchCErFEwiQchGA9IGIOZpvEgLlypASL8YEJAdWDdQKYR2AxQmID1GUNxjYIZmAWmECaAlAB1QCmoiSgOgjCRnAB3A9DfunYKWLyugFtYmQsA)]
+- [主旋律 TMD 檔案](hayaku_ie_e_kaerimasho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGRIboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQhVQU3pmnlVJYibQBSBXlCfG5yZm5uUk5qUocWlpKTybvvJxY__TddseN-54umPD46aux437HjfOftzY9n5Px9P9q5_OngeUfTph-fs9nQpaWlyKtgqGBgZc9rYKzlw2JvomdiC7nrbvejFz6vs9s57saHi6c4uCvsLTji6wWTMfN3UAGUCzns1Ya6RnaKhnbAA0CezCxw1dT6dsfLa25-mOaY8buoFqjAyMDPQMDMz0DCxMjIHKQGGul1WQrqCRlF9Skp-rqcTFpa-lYEstwKWgoPC0b_6z2TtebG5_saLrRUc70DkvVs572rri2bR2UAhs6H3W3qkAd8iTHd1Pe4He6QR6FqT7xar9zxqWg_R1976YOR8o-ri5HyioAAwaBaAY0AhnhadLlqMIdYJ1rtj9YsUM5DBDhBB68HGBNADVPW5oBLEeNy963LTscTMQTX3ctOZx0_7Hzd1A0a7HzaseN8973LQdKARW2ARUuBok2rQGyFnyuHkGRGXL46a1qCqb-x83L3nctB6oDKgaaHIjUDGQA9QN1AMxdjdQAuKUXT0wpzROf9w0-XHjxseNLY8bVz1uBDoIaEEj0O2LwEJA_mSIQmCyWvy4cdnjpgloCjc8bmxCUki0S4CKKU8CUKCgpc_F5ZFYmZhd6pnq6p2YWpSZC8yw-VYBmYl5-Q41BjXVIPsUbCy07MCM6ty0WjCjRsFYQRcMTYDYCMirAbNAGCYDEQHxjKA0QhcIGoBEwKb5GNZAoxcqBYxlMDkVrAkUj0Be036wWDfceGDcg0VWgcl5YDXboTpAarFYZASUA0cezKLGjWCyBaKtEWxUI8haUETBLWoEW9S4CK4WogZkEcwkhEXQADIDC5krGMYBKTBRA-RBxEABAzEapAo5mPAGURPIASCnrYb5GhwyIJkl0HADphmUEAI7tmktiSG0Dxo4i6E0KDZAeiZA-avAAQALIkQAbQCTTaQEEML7EBFwSIHCCcRBhBiIBmGENmxJqB8qDsxLYL-uh7oBElaQNNUIDSeIzGqkcEOkI5AMKLchWRWPGkS0t6qWi0vXTgFL7lQACitzAQA)]
+- [鋼琴伴奏 TMD 檔案](hayaku_ie_e_kaerimasho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2feXjxv6n67Y9btzxdMeGx01djxv3PW6c_bix7f2ejqf7Vz-dPQ8o-3TC8sfNu19273k-YcuTPVueLu1_3tnxfk-ngpYWl6KtgqGBAZe9rYIzl42JvokdV52C0tP2XS9mTn2_Z9aTHQ1Pd25R0Fd42tEFNn3m46YOIANo-rMZa430DA31jA2AJimBdD1u6Ho6ZeOztT1Pd0x73NANVGNkYGSgZ2BgpmdgYWIMVBZgYGSol1WQrqCRlF9Skp-rqcTF5ZFYmZhd6pnq6p2YWpSZm1ickW8VkJmYlx_k4VBjUFPNpQAENhZadmBGdW5aLZhRo2CsoAuGJkBsBOTVgFkgDJOBiIB4RlAaoQsEDUAiYNN8DGsUHjcvety0DCr1uBnEetw8FazpcdMaEK9pP1isG2784-YusMgqMDkPrGY7VAdILRaLjIByjdMfN02GWdS4EUy2QLQ1go1qBFn7uAnJokawRY2L4GohakAWwUxCWAQNIDOwkLmCYRyQAhM1QB5EDBQwEKNBqpCDCW8QNYEcAHLaapivwSEDklkCDbcZaCEEdmzTWhJDaB80cBZDaVBsgPRMgPJXgQMAFkSIANoAJptICSCE9yEi4JAChROIgwgxEA3CCG3YklA_VPxxMyg8Hjeth7oBElaQNNUIDSeIzGqkcEOkI5DMbkRyBMF41CCivVW1eDKnD3LmNIFnzgJY5ow2jFUwjVcwjAeRwHwYD0JIPGMw0zQexIUIA0kDqP-A2k1g2oEKwRqATCOwITUgCSATKGAO064BxIbxmqoaupogKZAeJIOAIhD1MHPB9oGNijaNhVoPcQrE2XDHAENA104BSyBE-wAV4pIyAkspcwEA)]
 
 ## 分析
 
@@ -75,48 +75,48 @@ tmd_source:
 ⏱  Duration:       0:28 (28.8s), 12 measures total
 🎼 Key & Tempo:    首調基準 C, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    G3 (MIDI 55) – A4 (MIDI 69) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  G3 in [HayakuIeEKaerimasho #1 @ m.9, 0:21]
-   - 最高音: A4 in [HayakuIeEKaerimasho #1 @ m.6, 0:12]
-   - 適合: mezzo-soprano, contralto, tenor, baritone, bass
+🎤 人聲音域:    D4 (MIDI 62) – C5 (MIDI 72) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
+   - 最低音:  D4 in [HayakuIeEKaerimasho #1 @ m.1, 0:01]
+   - 最高音: C5 in [HayakuIeEKaerimasho #1 @ m.5, 0:10]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      HayakuIeEKaerimasho (28.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+🗝  調性診斷：       A 小調（純淨自然小調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, E, D, F, G
-   - 調性數值:    C 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.89), A 小調 (0.72), F 大調 (0.65)
-   - 五度圈歷程:   +0
+   - 核心骨幹音:  E, A, F, B, C
+   - 調性數值:    A 小調 [相關度: 0.69, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A 小調 (0.69), E 大調 (0.61), A 大調 (0.58)
+   - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [HayakuIeEKaerimasho #1]: C 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [HayakuIeEKaerimasho #1]: A 小調 (r: 0.69, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-              [C ]*
+               C  
          F            G  
       Bb               D  
-      Eb               A  
+      Eb              [A ]*
          Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  24.4%
+     C  : █████                      6.7%
      C# :                            0.0%
-     D  : ███████████████           15.6%
+     D  : ████                       5.6%
      D# :                            0.0%
-     E  : █████████████████         17.8%
-     F  : ███████████████           15.6%
+     E  : ████████████████████████  32.2%
+     F  : █████████████             17.8%
      F# :                            0.0%
-     G  : ██████████                10.0%
+     G  :                            0.0%
      G# :                            0.0%
-     A  : ██████████                10.0%
+     A  : ████████████████          21.1%
      A# :                            0.0%
-     B  : ███████                    6.7%
+     B  : ████████████              16.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : G3 – A4 (14 個半音 / 1.2 個八度, 35 個音符)
+  - Piano         : D4 – C5 (10 個半音 / 0.8 個八度, 36 個音符)
 ================================================================================
 ```
 

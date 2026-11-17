@@ -4,15 +4,18 @@ song_title: "茶摘歌"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_7_15_chatsumi_uta"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈茶摘歌〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
-keywords: "茶摘歌, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈茶摘歌〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：小谷野鐵五郎、作曲：宮良長包），調號拍號：E 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一五　茶摘歌 （一）…"
+keywords: "茶摘歌, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小谷野鐵五郎, 宮良長包"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
+credits:
+  - "作詞：小谷野鐵五郎"
+  - "作曲：宮良長包"
 sources:
   - "lyricist: 小谷野鐵五郎"
   - "composer: 宮良長包"
   - "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
-musical_key: "A"
+musical_key: "E"
 meter: "4/4"
 tempo: "100"
 image:
@@ -33,23 +36,52 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="chatsumi_uta.mp3"></audio>
 
+- 作詞：小谷野鐵五郎
+- 作曲：宮良長包
 - lyricist: 小谷野鐵五郎
 - composer: 宮良長包
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
-
-- 出處：lyricist: 小谷野鐵五郎
-- 出處：composer: 宮良長包
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= A，拍號 <4/4>，速度 != 100
+=== 原書資訊與歌詞全文 ===
+- 收錄頁次：原書 p. 216–217（掃描檔 P249.jpg–P250.jpg），第七章 女子青年唱歌 第一五首。
+- 詞曲標記：小谷野鐵五郎歌／宮良長包曲
+- 調性與拍號：ホ調（4 個升記號，?= E，E 陽旋法／大調五聲傾向），4/4 拍，1 拍弱起小節（@|-1|），與末小節 3 拍互補（原譜未標速度，演奏速度 != 100 為編者設定）。
+- 雙層歌詞與歷史假名遣：五線譜下並列印（一）片假名與（二）平假名雙層歌詞，保留原印歷史假名遣與大小寫（如第 3 行「チヤバタケニ／おとめらよ」、「アーサナユフナノ／おーちゃつみうたも」、第 5 行「カヲリモ／まけずおとーらず」、「チヤノシンメ」、第 6 行「ミードリ／たのしくつみませう」等）。次頁 P250.jpg 印有（一）～（三）段全文歌詞。
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+一五　茶摘歌
+
+（一）
+ソラ　こゝは高砂常夏（とこなつ）の
+ソラ　常夏の
+ソラ　陽（ひ）ざしも強き茶畑に
+ソラ　朝な夕（ゆふ）なの露うけて
+ソラ　露うけて
+ソラ　香も高き茶の新芽
+ソラ　綠色濃く伸（の）びて行く
+
+（二）
+ソラ　東は白み夜は明けた
+ソラ　夜は明けた
+ソラ　仕度はよいか乙女等よ
+ソラ　お茶摘歌もほがらかに
+ソラ　ほがらかに
+ソラ　負けず劣らず精出して
+ソラ　樂しく摘みませうこの若芽
+
+（三）
+ソラ　廣い世界に類（たぐひ）なき
+ソラ　類なき
+ソラ　新茶は出來た仕上つた
+ソラ　包種茶　紅茶　烏龍茶
+ソラ　烏龍茶
+ソラ　色香すぐれた品々は
+ソラ　お國のほまれ島の富
 ```
 
 ## ABC
@@ -60,8 +92,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](chatsumi_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTCx1A4xMDRDSBUX5Zal5iXlAIwqKMvNKUlPAZiAUpJZlpqSCpIuTE_Piy1KLMtMyU1OQ3JhaVAzyCNSekqLEvOLkoswCkO8QqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEsGKciqBAkBxK4WnG_pfbNj-sr3v5YStT3ZNedncB1aQnJ9bkF-cWgRUsG7di871L6duf9rTqsSlpaXwomfbs4kznq3tUdDS4lK0VTA0MOCyt1Vw5LIx0TexA2l-0b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2Qg0Bij0bO6El7PbHjd0v9_T8WzG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYW7_d0KnFx-SZm5lkFZCbm5TvUGNRUcykAgY2hmZYdmFWjYKCgC4botGk8kDAGETUQtq6CWbyCIZAygmIQCeIDhUGKQEyQEEwaxAcZBmEDFdWAbfSpgVqACR837QWRzSvB5j1u2gwRbd4DZT9u7ger2g9VvRqIt4JZWyA6mjugMpuB7C6wjhYw2YdhA8hUiIMwXQ7CMJeDMK4AgPkSEgAw35HiCoirJ0FFtwHxdrDMIiRde8DkCrCKtXCLYK4G2o2IKTALEeYg0yERZaxgClILUgLFxjC_IZzd-Lh5McQlzROgofy4aSOY343d5U0gd8JiCBwTUP8uA5NTkURAfoe5HGQ3yBXI7gC5GuQ-kDhuFfAYQbgaFEgQKx83ga2FOrkNxckQRxOvHupFqIOJTv9gJlp8wCDI_Qh3AxMvxB2bgHgVmAWOdFjiBgcpSA000hHxAwlLWEqB5IuFSPaAIMzhlGRuSJoBhT4iFaGkeJBhMANJzdvN8xHebO4Es8CB0LQEKr4Wlueb1kN1QHLP4-bJ0MiCpjKwPKrfa7m4dO0UQAWfApBW5gIA)]
-- [鋼琴伴奏 TMD 檔案](chatsumi_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRs-3ZxBnP1va839PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFUwNDDgsrdVcOSyMdE3seOqU1B60b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2Qg0Gyj0bO6El7PbHjd0A-15NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDEwugzUpcXL6JmXlWAZmJeflBHg41BjXVXApAYGNopmUHZtUoGCjogiE6bRoPJIxBRA2EratgFq9gCKSMoBhEgvhAYZAiEBMkBJMG8UGGQdhARTVgG31qoBZgwsdNe0Fk80qweY-bNkNEm_dA2Y-b-8Gq9kNVrwbirWDWFoiO5g6ozGYguwusowVM9mHYADIV4iBMl4MwzOUgjCsAYL6EBADMd6S4AuLqSVDRbUC8HSyzCEnXHjC5AqxiLdwimKuBdiNiCsxChDnIdEhEGSuYgtSClECxMcxvCGc3Pm5eDHFJ8wRoKD9u2gjmd2N3eRPInbAYAscE1L_LwORUJBGQ32EuB9kNcgWyO0CuBrkPJI5bBTxGEK4GBRLEysdNYGuhTm5DcTLE0cSrh3oR6mCi0z-YiRYfMAhyP8LdwMQLcccmIF4FZoEjHZa4wUEKUgONdET8QMISllIg-WIhkj0gCHM4JZkbkmZAoY9IRSgpHmQYzEBS83bzfIQ3mzvBLHAgNC2Biq-F5fmm9VAdkNzzuHkyNLKgqQwsj-r3WuRyz4fEcs8wHhZpwCiFs02xsJBV4pc3QaiEpyh8JiNYJLgBVixgkcNmBrIbCKjEYzL20MCvEp_JhMIZv-8wQ4OesYxsOzAJ6topgFKhApBW5gIA)]
+- [主旋律 TMD 檔案](chatsumi_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTCwRMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZ5UCr8tPSMpMzE3NwyZekJiZnpBYhpEsyUoHhVJ5fhORxiFhBTmIekpcggnmJJaVFqViUJkMEcyqBbgQ61Urh6Yb-Fxu2v2zvezlh65NdU14294EVJOfnFuQXpxYBFaxb96Jz_cup25_2tCpxaWkpvOjZ9mzijGdrexS0tLgUbRUMDQy47G0VXLlsTPRN7ECan-yd82LlvPd7ZuEwHCj_bPYmkDyK2UCZF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI1ABwCFns2d8HJ22-OG7vd7Op7NWPt0Us_T3sanO7e839PzfMuiZ7N3vJg5X8HA3MhUwdDE4v2eTiUuLn0tBVtqAS4FBZBhCk_75oPs2tz-YkXXi452oNuAAfC0dcWzae0geZCyx827n03Z9rKn5eWCxmdrFoJ8D9akUKCnYGRo9qhhspGhOcgXfc3P-vufrZqiAErMelkF6UCpACNTAxAT6AOQz9asebKj-fnqBQpPl25-unbCy7mTgF6GhIkCWLIBFNrLpj1uaIJaDXQOMMifrZj5YsUMrBED1Pp-Tz9yhADVwzSv2v-sYTnIX929wPAE6n_cPBsoCHSticLThu6nvUB_zwDL9IBSApByVXg5c--z6d3PNk8FGbtkOVA50KIXjZueNu17OmEixCPABKMANBPIMgTRT_dsfLF1O9Btz9c3AM12qNE1rIEoBNk9ZzVERsEYpPbJrkkvFs8BqgKG4ou1c57NWQX03MuG-U93LQOqf7ZnytOl_RCuAiSNKjxv2vV8-4oXDa0vVqx9um4W0GBE8LycDUxlSyDRBo6_7U_7Nz1tbH86ofdl42Kgh4Fuf759FtCiJzu6n-xY9rRj-tPeDUDbgUENNOh5ZztEMVAvSHAXMCw7n-7cDDUByXCg257sn_t86kygs4EmoFkE1A4MKqA3n65fDfLasiZgbAL9-2Jhz-OGnsfNjY-blzxunvC4af_jpo2Pm4GJvv9xY9fjxhWPmxofN3U-bup43ND7uKERpLhp0ePmPY-btj5u7nrcvOxx81Qwow-qBSjVuPBxU_PjxiWPG_c_bmx73Dj_cVMTRDvIUlOYpU2rHzdvety86nHzIrDefY8bJz5unAW1F2RFJ4gLtxfqyL7HTdsfN29-3LwQYaYZ3CPzQRqbO4HGgs2c_7hx3ePG6Y8bgWyIe4C2zAa5qqH3-VpgAgBFFTDTALMOMFdAsoICKPjmAOWgcfB-LzBwgWyQ6mfrtkIyHyTQQfEMjuiGCcg583HDRJAoJLc8bmiAF2xgxXCDwTqb9j5uXglU87hx8uOmuY8b179cPeP5gqanO3Y8XdIPVAoKC6BU4yqgB0DObVyHog2iDl0UmEXAWoFFIVDHNFAINDU93bP9cWMv0C3PpwLDeTWKhmdzgFaveroEmKc6HjcB42wrWCfQ0nUv52wCxyJQzzJUS3BKLJsJtA7oD4h1QDOeTdvwomsviqLn2xa86Nz0bD8wofQ_2bMD7Nx1YEs3A80DRWdjPzy4wMke1cFzNwLD6vnMvcBIfbpkDpD9bEYf2C3zUcMHj9yT3VOBuRgoDUrejS2PG7uf7JwJLPiACQMoghY7XfBIBKXmxt2PG4EMoGu70YMSn9yLTQsgifxp12JI8n6-ad_T9l3gJIoaiM9WAG0BJVygpSgJF5QY1r3oXgoKUHhyAqVNVH_vXgz00pMd055PBYbk6pcLQWkYnB8mwJIFMHJ7UeNt4TwsoqC4A0XieqA7n-wDZWdguD3ZAcykwAyFFtg9rc9XrAOpBsbvllYoo7n_5T5QOkCNfqyiwBQBSjyNQAQsi4AOn_90MjDvtwJtR4-Op3OAoQvM28DA3gdU-nQzKJ09Xd8DrTipAxS09Lm4fBOBzaeAzMS8fHC9UQ2yQcHG0EzLDswC1vqQmhGYZhU0cvUMFCC1jQKwdlXI1TPSgVe3miDjQFpqFAwUdMEQnTYEYrN4IFEDZuoqGAELaV1gmQnBIBLENwKrALFAIjBZEB9kEIRtpFADtszHsEYBZCIIotPAAAWRzSvB5j1u2gwXB7EeN_eD2fuhYquBeCuYtQWivrkDrhpYB4B1tIDJPqgdKOZDXGOExzWNc8F6OiGmN26CivYA8XQwaz2YBLEh9oJUAjMH1PVQ1wBVPW5sArMmgsn5MNcgmw_OO7DI29UDjTxjYKSZYI0x5MA2gwYyLLBBGHuEwaIFHGHw6CAx4ID0JKj6bUC8HSyzCK4LLNO8Aiy_FiWgSQwSeNCC5IElDyLIoeaA-GB3NnZjBOGOTmgQmgKD0AxPEBohEjmIgUiwIBdAErmZgmEcSCWIALPAFCzUkcOxEer7JUA8AexSUGIAtmGA_G5sIdkECjdIWIKTMjT0l0HNmQoXAcUEUkg2gkRBPl8B1AmyFZr4wCGDLSQh6kHioNYQmLEETEJzU2MbNBqA1Ql6YD6dPRsamObAwLTAGpig0AAHCziAkFMkONjAUvhUwdMtUmhCUhMoNB43gUIEFI4gfhvMj-CwhIQm8erRsz-wzIYGATBjQ7MwKD0BqymUsISEJvHqsWbsKcCABDZ-QYHauhbIBvZdXgDb6pDQtQSGrqEB1uAlrvQFsTBSM6IMRwQtsOyEBNUmIF4FZoEzMLRsBbFAKqAZGJSwQWkalg5heR5SKC8kELr7oKE1EYhngVngFA1MuajFJkgOpH42mAfJ1wvAJKSwBcUo3tCFhCgoIA0NQSGJvapDD0lIkjRFZGd40YocoqCAhFWKyEkUlGMgIQn2BCQsm0BBBeKthdVcTaBiC6QeFHwgmcnQZAnJ6hB5kOdgdQ9yAELsADYn4EEBKQqhtgBzMCSQIQ0yaChORmhqgigHp1FwWYFqUS0Xl66dAqhVoQCklbkA)]
+- [鋼琴伴奏 TMD 檔案](chatsumi_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeNGz7dnEGc_W9rzf0_Gye8_zCVue7NnydGn_i7Vz3u_pVNDS4lK0VTA0MOCyt1Vw5bIx0TexAxn5ZO-cFyvnvd8z6-mG_hcbtr9s73s5YeuTXVNeNveBrQTKP5u9CSS_bt2LzvUvp25_2tMKlnnRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7ZCHQVUOjZ3AkvZ7c9bugGuvDZjLVPJ_U87W18unPL-z09z7csejZ7x4uZ8xUMzI1MFQxNLIBuVuLi8k3MzLMKAIVFkIdDja5hTTWXAhDYGJpp2YFZ-loKz9esebKj4cXCHgWNXD0Dhad7Nr7Yul3hUcNkhVw9Ix2FACMTS72sgnRNBS19sJYaBQMFXTBEpw2B2CweSNSAmboKRgrGQNIUikEkiG8EVgFigURgsiA-yCAI20ihBmyZj2GNAshEEESnHzftBZHNK8HmPW7aDBcHsR4394PZ-6Fiq4F4K5i1BaK-uQOu-nFzF1hHC5jsg9qBYj7ENUZ4XNM4F6ynE2J64yaoaA8QTwez1oNJEBtiL0jl40aQ-0Cuh7oGqOpxYxOYNRFMzoe5Btl8LuTI29UDjTxjYKSZYI0x5MA2gwYyLLBBGHuEwaIFHGHw6CAx4ID0JKj6bUC8HSyzCK4LLNO8Aiy_FiWgSQwSeNCC5B83giMfEuRQc0B8sDsbuzGCcEcnNAhNgUFohicIjRCJHMRAJFiQCyCJ3EzBMA6kEkSAWWAKFurI4dgI9f0SIJ4AdikoMTxu2gjkd2MLySZQuEHCEpyUoaG_DGrOVLgIKCaQQrIRJAry-QqgTpCt0MQHDhlsIQlRDxJf-LipGcxYAiahuamxDRoNj5tAEYMSmE9nz4YGpjkwMC2wBiYoNMDBAg4g5BQJDjawFD5V8HSLFJqQ1AQKjcdNoBABhSOI3wbzIzgsIaFJvHr07P-4cTc0CIAZG5qFQenpceNqlLCEhCbx6rFm7CnAgHzR0Q4K1Na1QPbLZdNebF8BDV1LYOgaGmANXuJKXxALIzUjynBE0ALLTkhQbQLiVWAWOANDy1YQC6QCmoFBCRuUpmHpEJbnIYXyQgKhuw8aWhOBeBaYBU7RwJSLWmyC5EDqZ4N5kHy9AExCCltQjOINXUiIggLS0BAUktirOvSQhCRJU0R2hhetyCEKCkhYpYicREE5BhKSYE9AwrIJFFQg3lpYzdUEKrZA6kHBB5KZDE2WkKwOkQd5Dlb3IAcgxI7HjevgQQEpCqG2AHMwJJCBQQfKxpBQnIzQ1ARRDk6j4LIC1aJa5EaFD0qjwgTapgA1ECAQGH7xCtGGsQqm8RAaLmAGE4CFM5I603gkhXCdqArh-uEK0E00AXJNYsHqzeJzQSqhIgg7sNgNdyNYD5AB9ASqMpApMFUgLVA1wHDRtVMABU20D1AazjYCs5W5AA)]
 
 ## 分析
 
@@ -69,24 +101,24 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 茶摘歌 ]
 ================================================================================
-⏱  Duration:       0:33 (33.6s), 14 measures total
-🎼 Key & Tempo:    首調基準 A, != 100.0 BPM, <4/4>
+⏱  Duration:       0:28 (28.8s), 12 measures total
+🎼 Key & Tempo:    首調基準 E, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C#4 (MIDI 61) – F#5 (MIDI 78) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
    - 最低音:  C#4 in [Main #1 @ m.1, 0:02]
    - 最高音: F#5 in [Main #1 @ m.7, 0:15]
    - 適合: soprano, mezzo-soprano, tenor, baritone
-🏛  結構:      Main (33.6s)
+🏛  結構:      Main (28.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       E 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  B, E, A, C#, F#
-   - 調性數值:    E 大調 [相關度: 0.82, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): E 大調 (0.82), B 大調 (0.65), A 大調 (0.62)
+   - 核心骨幹音:  B, E, G#, C#, F#
+   - 調性數值:    E 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): E 大調 (0.84), B 大調 (0.77), G# 小調 (0.69)
    - 五度圈歷程:   +4
    - 各段落調性細節:
-     • [Main #1]: E 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [Main #1]: E 大調 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -100,17 +132,17 @@ tmd_source:
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : ██████████                13.7%
+     C# : ████████████              15.7%
      D  :                            0.0%
      D# :                            0.0%
-     E  : █████████████████         23.6%
+     E  : █████████████████         21.9%
      F  :                            0.0%
-     F# : ████████                  11.5%
+     F# : █████████                 11.8%
      G  :                            0.0%
-     G# :                            0.0%
-     A  : █████████████             17.6%
+     G# : ███████████████           19.7%
+     A  :                            0.0%
      A# :                            0.0%
-     B  : ████████████████████████  33.5%
+     B  : ████████████████████████  30.9%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Piano         : C#4 – F#5 (17 個半音 / 1.4 個八度, 90 個音符)

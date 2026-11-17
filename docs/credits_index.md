@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1461 首歌曲、整理 1232 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1461 首歌曲、整理 1240 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -315,6 +315,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 小田深藏（1 首）
 
 - [觀兵式](shintei_jido_shoka/grade_4_2020.006.0847.0004/2_05_kanpeishiki/index.md)
+
+### 小谷野鐵五郎（1 首）
+
+- [茶摘歌](kyoyusho_shoka_1935/7_15_chatsumi_uta/index.md)
 
 ### 小野正雄（1 首）
 
@@ -699,6 +703,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [象](shintei_jido_shoka/grade_5_2020.006.0847.0005/3_05_zo/index.md)
 - [飛行機](shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md)
 
+### 松崎仁三郎（1 首）
+
+- [若き娘](kyoyusho_shoka_1935/7_17_wakaki_musume/index.md)
+
 ### 松谷代水（杉谷代水）（1 首）
 
 - [如意輪堂](shintei_jido_shoka/koto_boys_2020.006.0848/2_3_05_nyoirindo/index.md)
@@ -748,6 +756,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 水田月人（1 首）
 
 - [初夏の朝](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_05_shoka_no_asa/index.md)
+
+### 水谷武夫（1 首）
+
+- [さつき踊](kyoyusho_shoka_1935/7_16_satsuki_odori/index.md)
 
 ### 池野道治（1 首）
 
@@ -1029,6 +1041,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [どんぶりこ](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_20_donburiko/index.md)
 
+### 豐田繁雄（1 首）
+
+- [せんだん](kyoyusho_shoka_1935/7_18_sendan/index.md)
+
 ### 足立貞一（1 首）
 
 - [昭和の御代](kyoyusho_shoka_1935/4_30_showa_no_miyo/index.md)
@@ -1180,6 +1196,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [猿の猿眞似](kyoyusho_shoka_1935/4_12_saru_no_sarumane/index.md)
 - [猿の猿眞似](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_15_saru_no_sarumane/index.md)
 
+### 宮良長包（1 首）
+
+- [茶摘歌](kyoyusho_shoka_1935/7_15_chatsumi_uta/index.md)
+
 ### 小山作之助（《共益唱歌》卷一第20首）（1 首）
 
 - [進軍（進軍）](shokacho/vol_10/p195b_shingun/index.md)
@@ -1237,13 +1257,18 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [常夏の島](kyoyusho_shoka_1935/6_12_tokonatsu_no_shima/index.md)
 - [常夏の島](taiwan_no_uta/5_tokonatsu_no_shima/index.md)
 
-### 梁田貞（1 首）
+### 梁田貞（2 首）
 
+- [田植歌](kyoyusho_shoka_1935/7_14_taue_uta/index.md)
 - [進軍](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_17_shingun/index.md)
 
 ### 橋本正夫（原載《音楽新潮》，大正 14 年 6 月 17 日抄）（1 首）
 
 - [豊年祭](shokacho/vol_01/p166_honensai/index.md)
+
+### 水谷武夫（1 首）
+
+- [さつき踊](kyoyusho_shoka_1935/7_16_satsuki_odori/index.md)
 
 ### 永井幸次（4 首）
 
@@ -1269,6 +1294,11 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [うらしまたらう（浦島太郎）](kogakko_shoka/grade_2/12_urashimataro/index.md)
 - [浦島太郎](kyoyusho_shoka_1935/3_09_urashima_taro/index.md)
+
+### 臺灣教育會（2 首）
+
+- [せんだん](kyoyusho_shoka_1935/7_18_sendan/index.md)
+- [若き娘](kyoyusho_shoka_1935/7_17_wakaki_musume/index.md)
 
 ### 臺灣教育會選曲（2 首）
 
