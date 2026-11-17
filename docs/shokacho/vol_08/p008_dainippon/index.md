@@ -74,8 +74,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](dainippon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgAGmDNyk-Lz8ktSk_PxsDBUZ-UWJmfFgdcUZpQjpgqL8stS8xDygktzEvNLi5KLMgpL45PyCSoSa1LLMlFSQitSUzJL8oszEHCQXpxYVg_0CcWJJUWIexAygIEJVSUYq0FuZuQWpqLqBhqVn5lnl5ucllQLdhiFRkpgJFAY5uzwxPjcxMy8nMS9FiUtLS-HpkuXPpi99NmfN-z0dMEangpYWl6KtgqGBAZe9rYI7l42RvokdyMxnsze93zPr6caNQHVPF-8F2_O0fdeLmVOBwi8mr3k6ZePj5hWPm1cpmFu-XNAIMnPGWiM9Yz0jU6CxYOWPG7qAqp6t7Xm6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgMlDM6GUVpCtxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTFi5XznraueDatHeiQpxt6n7V3KsDsBzoF6CuQther9j9rWA7S0N37YuZ8oOjj5g6goAIwXBSAYkC97qCQRBECau55NHOlLTAUgazHDT1Pu9ufLl7_uLn7cUMv2NQVu1-smIEcnsDgVdBXwAxHoCA8HLlAWp_saHjc0Aj20ZLlIBObm4EmKDxuWv24ef7j5j4FENW083ET0Iw-kLLHzW2PmzcDOY-blim8nDn7yY5uoBjQMWseN68E6tv8uAnIAWrdDFHdDzTxcdNuIB_ImQfWugmsoWkNSDHYhiVAs4B2gzU0rXrcPOdx0_bHzQuBnK2Pm1dD3LkL6HFs7ux_3NTzuKlT4XHj5MeN_Y8b9z9umgw2qHH948bFjxtnA_lAX7YD-UCtKx83rnvc2AaU3fG4seVxY_fjpkkQ1d0grY0rHjc1ATlNjxu3Pm4EOq2x63ETUBlUePrjxvmPGzc9blwG0dP1uHEJWOcOIGcf0NzHjTOhodqJ1bWgcFkBDiRQ-K1-3LQf4uclj5sbHzd3Pm5eBA7fprVAPeDgatoIVAPR0PG4GeiY9ZBQbQGrmQQUBXKAMovAGkAhD7QLFKSTwDG4ChjKEBuAdgEjCBjQayHmggMWKEN5boACBS19Li4XYIGQWVAALH0CMhPz8h1qDGqqQbYo2BiaadmBWdVptWC6RsE0XkEXDA2B2AiIaxSMoSIGULoGLAeCIBkTsIgphhqYCIgG4RqoBWZQPkgfSH8N2BaQXZg2wh0D1AZjghlgAupYMAHXC7UFZiaIhpgJUwEyG-RKiAtBGCSCUAPCSHYgBwuqTXBXQuxCDhcYRIjAw4WrlotL104BHicKQI4yFwA)]
-- [鋼琴伴奏 TMD 檔案](dainippon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZPmz6UufzVnzfk8HhPG4effL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VTA0MOCyt1Vw57Ix0jex46pTUHo2e9P7PbOebtwI1Pl08V4lkNjT9l0vZk4FCr-YvObplI2Pm1c8bl6lYG75ckEjyJYZa430jPWMTIHGgpU_bugCqnq2tufpjmmPG7qBSowMjAz0DAzM9AwsTIyBygIMDCz0sgrSlbi4XBIz8zILCvLzrAIyE_PygzwcagxqqrkUgMDG0EzLDsyqTqsF0zUKpvEKumBoCMRGQFyjYKhtDBUzjdcGCYMgUBjKAkmagEWMtU1hmuFakEUhLAhZA7XPRNsMLmakDTIHordGwTxeG2Q_yBXY3QK3wSRe2wzGg7FhNND-eG2wWjABNwlqPZIlUCbUHigLYp8BkkegJFwlNExAGGYnxGLkAEW1GzVE4U6AmQaXhEE0YZBrwMJctRjR64McvRaw2M2FR69hPNCseBiFzDdA4RmBJI3hCpEkIYLw6IOpBgrD_QoJd4RhYDmISggJlgSKAtWDnYEIKqBJIBGw9RhuQ9IBDGMwH2oewgCI88D6sbnGGIjhPodGLCgYde0U4CGpgJejzAUA)]
+- [主旋律 TMD 檔案](dainippon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgAGmDNyk-Lz8ktSk_PxsDBUZ-UWJmfFgdcUZpQjpgqL8stS8xDygktzEvNLi5KLMgpL45PyCSoSa1LLMlFSQitSUzJL8oszEHCQXpxYVg_0CcWJJUWIexAygIEJVSUYq0FuZuQWpqLqBhqVn5lnl5ucllQLdhiFRkpgJFAY5uzwxPjcxMy8nMS9FiUtLS-HpkuXPpi99NmfN-z0dMEangpYWl6KtgqGBAZe9rYI7l42RvokdyMxnsze93zPr6caNQHVPF-8F2_O0fdeLmVOBwi8mr3k6ZePj5hWPm1cpmFu-XNAIMnPGWiM9Yz0jU6CxYOWPG7qAqp6t7Xm6Y9rjhm6gEiMDIwM9AwMzPQMLE2OgMlDM6GUVpCtxcelrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDnTFi5XznraueDatHeiQpxt6n7V3KsDsBzoF6CuQther9j9rWA7S0N37YuZ8oOjj5g6goAIwXBSAYkC97qCQRBECau55NHOlLTAUgazHDT1Pu9ufLl7_uLn7cUMv2NQVu1-smIEcnsDgVdBXwAxHoCA8HLlAWp_saHjc0Aj20ZLlIBObm4EmKDxuWv24ef7j5j4FENW083ET0Iw-kLLHzW2PmzcDOY-blim8nDn7yY5uoBjQMWseN68E6tv8uAnIAWrdDFHdDzTxcdNuIB_ImQfWugmsoWkNSDHYhiVAs4B2gzU0rXrcPOdx0_bHzQuBnK2Pm1dD3LkL6HFs7ux_3NTzuKlT4XHj5MeN_Y8b9z9umgw2qHH948bFjxtnA_lAX7YD-UCtKx83rnvc2AaU3fG4seVxY_fjpkkQ1d0grY0rHjc1ATlNjxu3Pm4EOq2x63ETUBlUePrjxvmPGzc9blwG0dP1uHEJWOcOIGcf0NzHjTOhodqJ1bWgcFkBDiRQ-K1-3LQf4uclj5sbHzd3Pm5eBA7fprVAPeDgatoIVAPR0PG4GeiY9ZBQbQGrmQQUBXKAMovAGkAhD7QLFKSTwDG4ChjKEBuAdgEjCBjQayHmggMWKEN5boACBS19Li4XYIGQWVAALH0CMhPz8h1qDGqqQbYo2Fho2YEZ1Wm1YBpbflR4vmYNMD2-WNijoGGi8HRD__P1DToKmbnAQhaYi1LTgYk3wMDYSBOLTqDlIFNrFEzjFXQVDBWMgExjIMsAiGuAfF0gzwQkDRMDK_cxrAGGRgMw_IFCkCBvASp63DwXlFxhugmqgJhlBBRuXABMVSCVjauBeAlIZeNeUAKEm0VIBcQsY-q4C39I7-qhLKSBVpgCYY2CGZA0AQZwjYKGEVBQV8FIU1VDV1cTHg_GkGhBCvSm1WB3zwfiPrC7gaymnUB6I1REA5gPwGYB_aMJFgOVNyCVM0D5BWoCUtA39YMUN_UAcSc4VCcDcT8Qg7LPZLCJjb0QExvbgCY2zoaKA3MumAUqIFAiAMmNK0DqmkAlGMgdwJgDZkqQieDgBylqBLkRWAgBMzDIjcACBpzRuomIhh2dlCd4IAFEwJgA0-bxwJDHiAwjcGSAosQYmDyQMwDI38DyG4hXwvzZtB7q880Qf66F-LNpGdCfTbuh4sCCBMwClehwE8HZYBkkRQMLW1BogwMZVES2gMpZoAGTINEBCh2Qov2g6AAVi01glaCSdisQ9yEMBeeHeWAXABMIOPAh0QEq_rrAzgUnGVDOAilaC4qOSWB5kE6QKlDJ2g02EW90PJ09GxwdZmTnClNg-EJC2hAUH0AEjiQgQhRLoJiBFEsgWAMm0YslYAw0gSo4SKoDiYBS_TJofgcFwCogaw6Q3g6kF4JFtkJjElI8gNIvVvPBcQQKNlCEIAJ-OhAD47wRWD83gvMaSA2wjAJHGjACIXkFnIGghdlMXDaA8w8kXYHKJoj7gRECyjvAtgjIZ5AcBvYj2GdroSkKFH8gf-DyQS0Xl66dArymUQBylLkA)]
+- [鋼琴伴奏 TMD 檔案](dainippon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZPmz6UufzVnzfk8HhPG4effL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VTA0MOCyt1Vw57Ix0jex46pTUHo2e9P7PbOebtwI1Pl08V4lkNjT9l0vZk4FCr-YvObplI2Pm1c8bl6lYG75ckEjyJYZa430jPWMTIHGgpU_bugCqnq2tufpjmmPG7qBSowMjAz0DAzM9AwsTIyBygIMDCz0sgrSlbi4XBIz8zILCvLzrAIyE_PygzwcagxqqrkUgMDGQssOzKhOqwXT-loKtuhA4fmaNU92NLxY2KOgYaLwdEP_8_UNOgqZuYnpqUAbUtMV9BUCDIyNNLHo1NIHm1qjYBqvoKtgqGAEZBoDWQZAXAPk6wJ5JiBpmBhYuY9hjcLj5obHTUuAQo-bu4G4BajocfPcx82b4boJqoCYZQQUblzwuLEFpLJxNRAvAals3Pu4aTLCLEIqIGYZU8dd-EN6Vw9lIQ20whQIaxTMgKQJMIBrFDSMgIK6Ckaaqhq6uprweDCGRAtSoDetBrt7PhD3gd0NZDXtBNIboSIaj5vbwGYB_aMJFnvctAyscgaQtQRqAlLQN_WDFDf1AHEnOFQnA3E_EO8HikwGm9jYCzGxsQ1oYuNsqPjjxn1g1uPG9agRgOTGFSB1TZuh7gDGXNN-sIng4AcpagS5sROIF4Hd2AZUsRYcL4SjYUcn5QkeSAARMCbAtHk8MOQxIsMIHBmgKDEGJg_kDADy9-PmNUC8EubPpvVQn2-G-HMtxJ9Ny4D-bNoNFX_cPA_Mety8CWEiOBssg6Tox43rQKENDuQdQNwCxMCk2jQJEh2g0AEp2g-KjhVA8SawyiYg3grEfQhDwflhHtgFwAQCDnxIdHQAcRfYueAkA8pZIEVrQdExCSwP0glStQgcHSAT8UbH09mzwdFhRnauMAWGLySkDUHxAUTgSAIiRLEEihlIsQSCNWASvVgCxkATME6gqQ4kAkr1y6D5HRQAq4CsOUB6O5BeCBbZCo1JSPEASr9YzQfHESjYQBGCCPjpQAyM88ZNoBgEiwDVAMsocKQBIxCSV8AZCFqYzcRlAzj_QNIVqGyCuB8YIaC8A6xvQD6D5DCwH8E-WwtNUaD4A_kDlw9qMSoaH6wVTS60pgGGMyj0gcEPoZD5wOSAxDMCSRrDFSJJQgQhfqtRMIGpBgrDMyC4gEMyDCwHUQkhwZJAUXBaQBgG5AJNAomArcdwG5IOYFoC86HmIQyAOA-sH5trjIEY7nOkYNS1U4CHZLSPYawCqoARuoAxWECZCwA)]
 
 ## 分析
 
@@ -92,20 +92,20 @@ tmd_source:
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Dainippon (21.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  D, G, A, B, E
-   - 調性數值:    G 調性不明確 [相關度: 0.84, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.84), D 大調 (0.82), B 小調 (0.56)
-   - 五度圈歷程:   +1
+   - 調性數值:    D 調性不明確 [相關度: 0.86, 穩定度: Ambiguous, 自然音純度: 96.9%]
+   - 候選調性 (K-S): D 大調 (0.86), G 大調 (0.84), B 小調 (0.60)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Dainippon #1]: G 調性不明確 (r: 0.84, 自然音純度: 100.0%)
+     • [Dainippon #1]: D 調性不明確 (r: 0.86, 自然音純度: 96.9%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+      Bb              [D ]*
       Eb               A  
          Ab           E  
             Db       B  
@@ -113,18 +113,18 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ███                        3.1%
+     C  : ██                         3.1%
      C# :                            0.0%
-     D  : ████████████████████████  26.2%
+     D  : ████████████████████████  30.8%
      D# :                            0.0%
-     E  : ██████████                10.8%
+     E  : █████                      6.2%
      F  :                            0.0%
-     F# :                            0.0%
-     G  : █████████████████████     23.1%
+     F# : █                          1.5%
+     G  : ██████████████████        23.1%
      G# :                            0.0%
-     A  : ████████████████████      21.5%
+     A  : ████████████████          20.0%
      A# :                            0.0%
-     B  : ██████████████            15.4%
+     B  : ████████████              15.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 51 個音符)

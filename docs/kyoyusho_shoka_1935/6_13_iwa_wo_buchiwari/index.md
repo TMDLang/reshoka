@@ -4,7 +4,7 @@ song_title: "岩をぶちわり"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_6_13_iwa_wo_buchiwari"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈岩をぶちわり〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈岩をぶちわり〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一三　岩をぶちわり （一）…"
 keywords: "岩をぶちわり, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -34,15 +34,34 @@ tmd_source:
 
 ## 說明
 
-
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= G，拍號 <3/4>，速度 != 108
+=== 原書資訊與歌詞全文 ===
+- 收錄頁次：原書 p. 188（掃描檔 P220.jpg），第六章 青年唱歌 第十三首。
+- 拍號與速度：ト長調（G 大調，1 升記號），3/4 拍（原譜未標速度，演奏速度 != 108 為編者設定）。
+- 雙層歌詞與對位註記：五線譜內印有（一）片假名與（二）平假名雙層歌詞；原譜「ブッチワリ／ぶっちわり」「ブッピラキ／ぶっぴらき」等將促音或雙假名（如「ブッ」「ワリ」「ピラ」「こえ」）明確印於同一四分音符正下方，依規範維持單槽寫入；m.1 與 m.5 前兩音有圓滑線（slur），第二音歌詞標 `-`。
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+一三　岩をぶちわり
+
+（一）
+岩をぶっちわり　ぶっちわり　ぶっちわり
+道をぶっぴらき　ぶっぴらけや
+ぶっちわり　ぶっぴらき　ぶっちわり　ぶっぴらき
+健兒の力　示せや
+
+（二）
+波をぶっちわり　ぶっちわり　ぶっちわり
+海をぶっこえて　ぶっこえてや
+ぶっちわり　ぶっこえて　ぶっちわり　ぶっこえて
+健兒の意氣を　見せよや
+
+（三）
+谷をぶっこえて　ぶっこえて　ぶっこえて
+橋をぶっかけて　ぶっかけてよ
+ぶっ越えて　ぶっかけて　ぶっ越えて　ぶっかけて
+健兒の務　つくせよ
 ```
 
 ## ABC
@@ -53,8 +72,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](iwa_wo_buchiwari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjAwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thaebVj5umvS4cdvjxoWPm_ofN3UpaGlxKdoqGBpYcNnbKrhz2Rjrm9iBzHvRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7ofr-n49mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0s3u_pVOLi8k3MzLMKyEzMy3eoMaip5lIAAhsLLTswo0bBVEEXCM2AtAmQZwxkG0JxjYIRkDSNhxFosmD9PjUKj5uWgI143NwPxJuAeA9Q6ePmaY-bm8HCjWBy_ePmVWBDyJAhw6kgURA0QHFq83yoUxuxO3XK4-aVIEbTWnQHwWU2QmUgnoZAmAPxhheRoUlM6OB2JrF6qBai4PAAmb8ZyN4BpPvA1oLd0bQaLAOyFqRyO5i3ECyzG2so1nJx6dopgBKsApBW5gIA)]
-- [鋼琴伴奏 TMD 檔案](iwa_wo_buchiwari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6aeXjpkmPG7c9blz4uKn_cVPX-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQwMLLntbBXcuG2N9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLNzEzzyogMzEvP8jDocagpppLAQhsLLTswIwaBVMFXSA0A9ImQJ4xkG0IxTUKRkDSNB5GoMmC9fvUKDxuWgI24nFzPxBvAuI9QKWPm6c9bm4GCzeCyfWPm1eBDSFDhgyngkRB0ADFqc3zoU5txO7UKY-bV4IYTWvRHQSX2QiVgXgaAmEOxBteRIYmMaGD25nE6qFaiILDA2T-ZiB7B5DuA1sLdkfTarAMyFqQyu1g3kKwzG6soViLnF59sKdXw3iQc5BJ7GKmxKmjqalEqh5gtwJDXddOARTwCkBamQsA)]
+- [主旋律 TMD 檔案](iwa_wo_buchiwari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjAwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVkIVVWaB3JXCZprSjJSgWGVnJ-bC5QvqUSXAJkE9EdBKrpEeWJJapESl5aWwtNNKx83TXrcuO1x48LHTf2Pm7oUtLS4FG0VDA0suOxtFdy5bIz1TexA-l-073reuPj5jr3P5y5-umvOi7XLnnbPfLqx4XFD17OpM180bXrW2fB8ygqFp1M2PlvbAxR6NnfCy9ltjxu63-_peDZj7dNJPU97G5_u3PJ-T8_zLYuezd7xYuZ8BQNzI1MFQxOL93s6lbi49LUUbKkFuBQUQIYpPO2bD7Jrc_uLFV0vOtqBbnuxct7T1hXPprWD5EHKHjfvfjZl28uelpcLGp-tWfh-zyyIJoUCPQVDC6DbOp71NT_r73-2aooCKEHpZRWkAx0M8siaNU9b1z5fvUDh5dxJQL9BPK8AEu5tfLKj8-WyaY8bmmB2dPcCvQx0w8uG-U93LQNa87i54-XU7S9W7Qda4a7wdMlyMLPHUOFpL9C5M4CqIdYA40ABqBuoCuiwF2vnPJuz6tmKmTBjep7tmfJ0aT-EqwCJPIXnTbueb1_xoqH1xYq1T9fNApqDcMjL2cCIWwIJCaBznm7ofbK398WK3UArgY56smvK8-2zgLY8bV3-tHfDszlAF3Q82dEANOJ5Z_vTxvanE3qBukCCu3qAgk93boYIIhv7fs9siFMfN_Q8bp72uLn5cXPj4-b1j5tXvd_TD05wi-Fp7nFDL5KyKY-bgYlyLZKyLY-bOh83AtX0Pl_b-XRD-5P9zS_nb37WMQ1kI9hqUMgsa0IYAjUQZB2MDTYWwm6c_LixA8gGOv7ZjL7ni3aBvDltz9MJPUBvPp09-2lHG9D852uWPVu7-MmO7mfTdgID-cm-uS-W9T9f3_J829pnPY1Pp617tnzv0_Wrn7YuBXo2V89QARgoCrl6pgpPO3uftq4EuXBO59M5k5_tnggMT6ALi3NKi-DJBhh2IBXgwALGpUKCbgIogkAxBHQEMOk8bmjAzJ1geXh0gDhIapADtIGgCEjzS2BIIDTDgxmuFCIy8XFTCzjl4DQSUydONWA3Ny592gq0dt3TrtlAFc-X7HrcOBtkCcx34HQF4jzbvIh83z3buh1JMzjOG5chKYWJEPIdpk6calB896yl_9mGxSAnNDS8WNYN9mMHsjd3ANMC2JsvNhDnUqz2PVvZjaQZaM1EVKUwkaYOhDdfbOvCMBJdJx41qJHYPROsYsnjRmCOBfkRWvRSByho6XNxeZYnhuc7lSZnZJYnFmVaBWQm5uU71BjUVIOsUrCx0LIDM4D1Byhr7Wh4sbBHQQOYJ3VNNEH6QXI1CqYKukBoBqRNgDxjINsQimsUjICkaTyMQJMF6_cxrFF43LQEbIYusBTtB-JNQJWQEgcs1AgmQYUO2AwyZCA2GQFVNIL4YJsa9wPtnQTSBY4EsNBCEAmpr8HmkS4DToSwANvVAw0wU10LMgMMJAqCBqgB1jwfHmCNmAEGKpPBrlqLHixwmY1QGVjAg21DCqY2fMEEyiVgxjL0wECXaWpBMR8lNXVCA8dS19AIKXTwJhliExQxSQR3KBGrBym8iEgouEONWD3I4QesT2G50VjX0Iy6yQucPED-3Qxk7wDSfeBgAIdL02qwDCgYQCq3g3kQH-yGBheuRDURYmrTZCB7BhCvA3sWlESANRhYZhI0APaDxWaDxUABgJmUarm4dO0UUAswBaCIMhcA)]
+- [鋼琴伴奏 TMD 檔案](iwa_wo_buchiwari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6aeXjpkmPG7c9blz4uKn_cVPX-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQwMLLntbBXcuG2N9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLszwxPN-pNDkjszyxKNMqIDMxLz_Iw6HGoKaaSwEIbCy07MAMfS2F52vWPNnR8GJhj4JGrp6hrommgpY-WK5GwVRBFwjNgLQJkGcMZBtCcY2CEZA0jYcRaLJg_T6GNQqPm5aAzdBVeNzcD8SbgCofN0973NwMFmoEk-sfN68Cm0GGDMQmI6CKRhAfbFPjfqC9k0C6QJG0GCy0EESCYwtiHukyXMgBtqsHGmCmuhZkBhhIFAQNUAOseT48wBoxA2zK4-aVYFetRQ8WuMxGqAws4MG2IQVTG75gmvy4sQPMWIYeGOgyTS0o5qOkpk5o4FjqGhohhQ7eJENsgiImieAOJWL1IIUXEQkFd6gRqwc5_J7Ong3Ljca6hmbUTV7g5AHy72YgeweQ7gMHAzhcmlaDZUDBAFK5HcyD-GA3NLhwJaqJEFObJgPZM4B4HdizoCTyuLEXLDMJGgD7wWKzwWKgAMBMSrXYyy8f5PLLBFF-gQstRBgZxitEG8YqRJvGxyLxgBgYfPFAHkgciyTCNGCOpsQ0A2SzQBkAKfrw2E-k48ApglLnAQNY104BNYyjfYCSWESNwKLKXAA)]
 
 ## 分析
 
@@ -66,10 +85,10 @@ tmd_source:
 🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  D4 in [Main #1 @ m.3, 0:03]
-   - 最高音: E5 in [Main #1 @ m.1, 0:00]
+   - 最低音:  D4 in [IwaWoBuchiwari #1 @ m.3, 0:03]
+   - 最高音: E5 in [IwaWoBuchiwari #1 @ m.1, 0:00]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (26.7s)
+🏛  結構:      IwaWoBuchiwari (26.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -79,7 +98,7 @@ tmd_source:
    - 候選調性 (K-S): G 大調 (0.91), D 大調 (0.72), G 小調 (0.61)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [IwaWoBuchiwari #1]: G 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  

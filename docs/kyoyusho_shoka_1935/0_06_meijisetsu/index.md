@@ -4,7 +4,7 @@ song_title: "明治節"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_0_06_meijisetsu"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈明治節〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：堀澤周安、曲：杉江秀），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　亜細亜（あじや）の東（ひがし）　日出（ひい）づる處（ところ） 聖（ひじり）の君（きみ）の　現（あらは）れまして…"
+description: "〈明治節〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：堀澤周安、曲：杉江秀），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　亜細亜（あじや）の東（ひがし）　日出（ひい）づる處（ところ） 聖（ひじり）の君（きみ）の　現（あらは）れまして…"
 keywords: "明治節, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 堀澤周安, 杉江秀"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -23,6 +23,9 @@ audio:
   - id: "meijisetsu"
     label: "鋼琴伴奏版"
     file: "meijisetsu.mp3"
+  - id: "meijisetsu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "meijisetsu_neutrino.mp3"
 tmd_source:
   - "meijisetsu.tmd"
   - "meijisetsu_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="meijisetsu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="meijisetsu_neutrino.mp3"></audio>
 
 - 詞：堀澤周安
 - 曲：杉江秀
