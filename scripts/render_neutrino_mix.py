@@ -17,6 +17,7 @@ render_neutrino_mix.py: 使用 NEUTRINO 將 TMD 樂譜中的歌詞軌合成為�
 from __future__ import annotations
 
 import argparse
+from copy import deepcopy
 from dataclasses import dataclass
 import os
 import re
@@ -43,6 +44,8 @@ class PreparedVocalPart:
     path: Path
     part_name: str
     converted_rests: int
+    lyric_number: str | None = None
+    leading_rest_measures: int = 0
 
 
 def parse_tempo_and_meter(tmd_text: str) -> tuple[float, int, int]:
@@ -144,11 +147,13 @@ def prepare_vocal_musicxml(
     raw_musicxml_path: Path,
     out_musicxml_path: Path,
     target_part_id: str | None = None,
-) -> tuple[str, int]:
+    target_lyric_number: str | None = None,
+) -> tuple[str, int, int]:
     """
     處理 TMD 匯出的 MusicXML 以供 NEUTRINO 使用：
     1. 僅保留指定的含有 `<lyric>` 的 `<part>`（例如 PianoRH），移除純伴奏聲部（如 PianoLH）。
-    2. 將該聲部中所有「無歌詞且非連音線延續 (`<tie type="stop"/>`)」的純器樂音符（如 Intro 前奏、間奏）
+    2. 若指定 `target_lyric_number`，只保留該段歌詞，避免 NEUTRINO 對同一音符上的多組 `<lyric>` 只採用第一段。
+    3. 將該聲部中所有「無歌詞且非連音線延續 (`<tie type="stop"/>`)」的純器樂音符（如 Intro 前奏、間奏）
        轉為同等時值的 `<rest/>`，確保時間軸與伴奏 100% 對齊且不觸發 NEUTRINO 空白歌詞錯誤。
     回傳 (保留的 part 名稱, 轉為休止符的器樂音符數量)。
     """
@@ -186,6 +191,21 @@ def prepare_vocal_musicxml(
 
     target_part_id = best_part.attrib.get("id", "P1")
     target_part_name = target_part_id
+
+    leading_rest_measures = 0
+    for measure in best_part.findall("measure"):
+        has_target_lyric = any(
+            (lyr.findtext("text") or "").strip() not in ("", "_")
+            and (
+                target_lyric_number is None
+                or lyr.attrib.get("number", "1") == target_lyric_number
+            )
+            for note in measure.findall("note")
+            for lyr in note.findall("lyric")
+        )
+        if has_target_lyric:
+            break
+        leading_rest_measures += 1
 
     # 移除其他 part 與 score-part
     if part_list is not None:
@@ -234,6 +254,8 @@ def prepare_vocal_musicxml(
             for note in measure.findall("note")
             if note.find("rest") is None
             for lyr in note.findall("lyric")
+            if target_lyric_number is None
+            or lyr.attrib.get("number", "1") == target_lyric_number
         )
 
         for note in measure.findall("note"):
@@ -252,6 +274,9 @@ def prepare_vocal_musicxml(
             lyric_texts = []
             for lyr in list(note.findall("lyric")):
                 lyr_num = lyr.attrib.get("number", "1")
+                if target_lyric_number is not None and lyr_num != target_lyric_number:
+                    note.remove(lyr)
+                    continue
                 t_el = lyr.find("text")
                 txt = (t_el.text or "").strip() if t_el is not None else ""
                 if not txt or txt == "_":
@@ -288,7 +313,11 @@ def prepare_vocal_musicxml(
                 in_melisma = True
             elif measure_has_lyric and in_melisma:
                 # 歌唱小節內的一字多音圓滑線延音 (Slur / Melisma continuation)，補上長音「ー」
-                lyr_el = ET.SubElement(note, "lyric", {"number": "1"})
+                lyr_el = ET.SubElement(
+                    note,
+                    "lyric",
+                    {"number": target_lyric_number or "1"},
+                )
                 syl_el = ET.SubElement(lyr_el, "syllabic")
                 syl_el.text = "single"
                 txt_el = ET.SubElement(lyr_el, "text")
@@ -314,13 +343,13 @@ def prepare_vocal_musicxml(
                         note.remove(el)
 
     tree.write(out_musicxml_path, encoding="utf-8", xml_declaration=True)
-    return target_part_name, converted_notes
+    return target_part_name, converted_notes, leading_rest_measures
 
 
 def prepare_vocal_musicxml_parts(
     raw_musicxml_path: Path, output_dir: Path
 ) -> list[PreparedVocalPart]:
-    """Split every lyric-bearing MusicXML part into an independent NEUTRINO input."""
+    """Split every lyric-bearing part and stanza into independent NEUTRINO inputs."""
     tree = ET.parse(raw_musicxml_path)
     root = tree.getroot()
     parts = root.findall("part")
@@ -328,14 +357,17 @@ def prepare_vocal_musicxml_parts(
     if not parts:
         raise RuntimeError(f"MusicXML 中找不到任何 <part>：{raw_musicxml_path}")
 
-    lyric_part_ids: list[tuple[str, str]] = []
+    lyric_part_ids: list[tuple[str, str, list[str]]] = []
     for part in parts:
-        valid_count = sum(
-            1
-            for lyric in part.iter("lyric")
-            if (lyric.findtext("text") or "").strip() not in ("", "_")
+        lyric_numbers = sorted(
+            {
+                lyric.attrib.get("number", "1")
+                for lyric in part.iter("lyric")
+                if (lyric.findtext("text") or "").strip() not in ("", "_")
+            },
+            key=lambda value: (not value.isdigit(), int(value) if value.isdigit() else value),
         )
-        if valid_count <= 0:
+        if not lyric_numbers:
             continue
         part_id = part.attrib.get("id", "P1")
         part_name = part_id
@@ -346,29 +378,95 @@ def prepare_vocal_musicxml_parts(
             )
             if score_part is not None:
                 part_name = (score_part.findtext("part-name") or part_id).strip()
-        lyric_part_ids.append((part_id, part_name))
+        lyric_part_ids.append((part_id, part_name, lyric_numbers))
 
     if not lyric_part_ids:
         raise RuntimeError("MusicXML 中找不到任何含有日文歌詞的聲部")
 
     output_dir.mkdir(parents=True, exist_ok=True)
     prepared: list[PreparedVocalPart] = []
-    for index, (part_id, part_name) in enumerate(lyric_part_ids, start=1):
-        safe_name = re.sub(r"[^a-z0-9]+", "_", part_name.lower()).strip("_") or f"part_{index}"
-        output_path = output_dir / f"vocal_{index:02d}_{safe_name}.musicxml"
-        prepared_name, converted_rests = prepare_vocal_musicxml(
-            raw_musicxml_path,
-            output_path,
-            target_part_id=part_id,
-        )
-        prepared.append(
-            PreparedVocalPart(
-                path=output_path,
-                part_name=prepared_name,
-                converted_rests=converted_rests,
+    output_index = 1
+    for part_id, part_name, lyric_numbers in lyric_part_ids:
+        for lyric_number in lyric_numbers:
+            safe_name = re.sub(r"[^a-z0-9]+", "_", part_name.lower()).strip("_") or f"part_{output_index}"
+            output_path = output_dir / f"vocal_{output_index:02d}_{safe_name}_l{lyric_number}.musicxml"
+            prepared_name, converted_rests, leading_rest_measures = prepare_vocal_musicxml(
+                raw_musicxml_path,
+                output_path,
+                target_part_id=part_id,
+                target_lyric_number=lyric_number,
             )
-        )
+            prepared.append(
+                PreparedVocalPart(
+                    path=output_path,
+                    part_name=f"{prepared_name}[L{lyric_number}]",
+                    converted_rests=converted_rests,
+                    lyric_number=lyric_number,
+                    leading_rest_measures=leading_rest_measures,
+                )
+            )
+            output_index += 1
     return prepared
+
+
+def expand_musicxml_stanzas(
+    raw_musicxml_path: Path,
+    out_musicxml_path: Path,
+    stanzas: list[int],
+) -> None:
+    """Unroll repeated lyric stanzas into one sequential MusicXML passage.
+
+    TMD's MusicXML export keeps ``L1`` and ``L2`` as lyric layers on the same
+    measures.  NEUTRINO treats those layers as alternatives and only sings one
+    of them.  The playback order, however, means they are successive verses.
+    Duplicate the lyric-bearing passage for each stanza, retain only that
+    stanza's lyrics, and renumber the retained lyrics to one continuous layer.
+    """
+    tree = ET.parse(raw_musicxml_path)
+    root = tree.getroot()
+    ordered_stanzas = stanzas or [1]
+
+    for part in root.findall("part"):
+        measures = part.findall("measure")
+        first_lyric_index = next(
+            (
+                index
+                for index, measure in enumerate(measures)
+                if any(
+                    (lyr.findtext("text") or "").strip() not in ("", "_")
+                    for note in measure.findall("note")
+                    for lyr in note.findall("lyric")
+                )
+            ),
+            None,
+        )
+        if first_lyric_index is None or len(ordered_stanzas) <= 1:
+            continue
+
+        prefix = [deepcopy(measure) for measure in measures[:first_lyric_index]]
+        lyric_body = measures[first_lyric_index:]
+        expanded = prefix
+        for stanza in ordered_stanzas:
+            stanza_number = str(stanza)
+            for measure in lyric_body:
+                clone = deepcopy(measure)
+                for note in clone.findall("note"):
+                    for lyric in list(note.findall("lyric")):
+                        if lyric.attrib.get("number", "1") != stanza_number:
+                            note.remove(lyric)
+                        else:
+                            lyric.set("number", "1")
+                expanded.append(clone)
+
+        for measure_index, measure in enumerate(expanded, start=1):
+            measure.set("number", str(measure_index))
+        for measure in list(part.findall("measure")):
+            part.remove(measure)
+        for measure in expanded:
+            part.append(measure)
+
+    out_musicxml_path.parent.mkdir(parents=True, exist_ok=True)
+    tree.write(out_musicxml_path, encoding="utf-8", xml_declaration=True)
 
 
 def resolve_song_tmds(target: Path) -> tuple[Path, Path, str]:
@@ -493,8 +591,11 @@ def render_single_song(
         raw_musicxml = work_dir / "raw.musicxml"
         run_cmd(["tmd", str(temp_vocal_source), "-x", str(raw_musicxml)])
 
+        expanded_musicxml = work_dir / "expanded.musicxml"
+        expand_musicxml_stanzas(raw_musicxml, expanded_musicxml, stanzas)
+
         vocal_musicxml_dir = work_dir / "vocal_parts"
-        prepared_parts = prepare_vocal_musicxml_parts(raw_musicxml, vocal_musicxml_dir)
+        prepared_parts = prepare_vocal_musicxml_parts(expanded_musicxml, vocal_musicxml_dir)
         for prepared_part in prepared_parts:
             if prepared_part.converted_rests > 0:
                 print(
@@ -618,62 +719,68 @@ def render_single_song(
                     f"NEUTRINO 執行失敗 ({' '.join(neutrino_cmd)}):\n{''.join(neutrino_out_lines)}"
                 )
 
-            vocal_trim_sec = 0.0
-            piano_delay_ms = 0.0
-            if prepended_rest_sec > 0:
-                first_phoneme_sec = prepended_rest_sec
-                if timing_lab.exists():
-                    timing_lines = timing_lab.read_text(encoding="utf-8").splitlines()
-                    if timing_lines:
-                        first_line = timing_lines[0].split()
-                        if len(first_line) >= 3 and first_line[2] == "pau":
-                            first_phoneme_sec = int(first_line[1]) / 10_000_000.0
-                vocal_trim_sec = max(0.0, min(prepended_rest_sec, first_phoneme_sec - 0.030))
-                piano_delay_ms = max(0.0, (prepended_rest_sec - vocal_trim_sec) * 1000.0)
-                print(
-                    f"   🎯 {prepared_part.part_name} 對齊校正：裁切前導空白 {vocal_trim_sec:.4f}s，伴奏基準延遲 {piano_delay_ms:.1f}ms"
-                )
-
             vocal_max_db = detect_max_volume_db(vocal_wav)
             vocal_gain_db = (-2.0 - vocal_max_db) if vocal_max_db is not None else 0.0
             vocal_tracks.append(
                 {
                     "path": vocal_wav,
                     "part_name": prepared_part.part_name,
-                    "trim_sec": prepended_rest_sec if vocal_only else vocal_trim_sec,
-                    "delay_ms": 0.0 if vocal_only else piano_delay_ms,
+                    "lyric_number": prepared_part.lyric_number or "1",
+                    "leading_rest_sec": prepared_part.leading_rest_measures * measure_duration_sec,
                     "gain_db": vocal_gain_db,
                 }
             )
 
         output_path.parent.mkdir(parents=True, exist_ok=True)
         ffmpeg_cmd = ["ffmpeg", "-y"]
+        stanza_numbers = sorted(
+            {str(track["lyric_number"]) for track in vocal_tracks},
+            key=lambda value: (not value.isdigit(), int(value) if value.isdigit() else value),
+        )
+        first_stanza = stanza_numbers[0] if stanza_numbers else "1"
         for track in vocal_tracks:
-            trim_sec = float(track["trim_sec"])
-            if trim_sec > 0:
-                ffmpeg_cmd += ["-ss", f"{trim_sec:.6f}"]
+            if str(track["lyric_number"]) != first_stanza:
+                ffmpeg_cmd += ["-ss", f"{float(track['leading_rest_sec']):.6f}"]
             ffmpeg_cmd += ["-i", str(track["path"])]
+
+        # Each stanza is a separate vocal take.  Mix voices within the same
+        # stanza, then concatenate stanzas in playback order.  Do not amix
+        # different stanzas, or the verses will sing simultaneously.
+        filter_parts = []
+        stanza_labels: list[str] = []
+        for stanza_index, stanza_number in enumerate(stanza_numbers):
+            track_indices = [
+                index
+                for index, track in enumerate(vocal_tracks)
+                if str(track["lyric_number"]) == stanza_number
+            ]
+            voice_labels = []
+            for index in track_indices:
+                track = vocal_tracks[index]
+                label = f"v{index}"
+                filter_parts.append(
+                    f"[{index}:a]volume={float(track['gain_db']):.2f}dB,"
+                    f"volume={args.vocal_volume}[{label}]"
+                )
+                voice_labels.append(f"[{label}]")
+            stanza_label = f"s{stanza_index}"
+            filter_parts.append(
+                f"{''.join(voice_labels)}amix=inputs={len(voice_labels)}:"
+                f"duration=longest:dropout_transition=0:normalize=0[{stanza_label}]"
+            )
+            stanza_labels.append(f"[{stanza_label}]")
+
+        if len(stanza_labels) > 1:
+            filter_parts.append(
+                f"{''.join(stanza_labels)}concat=n={len(stanza_labels)}:v=0:a=1[vocals]"
+            )
+        else:
+            filter_parts.append(f"{stanza_labels[0]}anull[vocals]")
 
         if vocal_only:
             print(f"🎚️  [3/3] 匯出純人聲至 {output_path}...")
-            filter_parts = []
-            for index, track in enumerate(vocal_tracks):
-                vocal_filter = (
-                    f"[{index}:a]volume={float(track['gain_db']):.2f}dB,"
-                    f"volume={args.vocal_volume}"
-                )
-                if len(vocal_tracks) == 1:
-                    vocal_filter += ",alimiter=limit=0.95"
-                else:
-                    vocal_filter += f"[v{index}];"
-                filter_parts.append(vocal_filter)
-            if len(vocal_tracks) > 1:
-                mix_inputs = "".join(f"[v{index}]" for index in range(len(vocal_tracks)))
-                filter_parts.append(
-                    f"{mix_inputs}amix=inputs={len(vocal_tracks)}:duration=longest:"
-                    "dropout_transition=0:normalize=0,alimiter=limit=0.95"
-                )
-            ffmpeg_cmd += ["-filter_complex", "".join(filter_parts)]
+            filter_parts.append("[vocals]alimiter=limit=0.95[output]")
+            ffmpeg_cmd += ["-filter_complex", ";".join(filter_parts), "-map", "[output]"]
             if output_path.suffix.lower() == ".mp3":
                 ffmpeg_cmd += ["-c:a", "libmp3lame", "-q:a", "2"]
             elif output_path.suffix.lower() == ".wav":
@@ -683,7 +790,7 @@ def render_single_song(
             print(f"✅ 完成！已輸出純人聲：{output_path}\n", flush=True)
             return output_path
 
-        # 5. 自動偵測各聲部與伴奏峰值，並以最晚的伴奏校正點統一對齊。
+        # 5. 自動偵測伴奏峰值。
         piano_max_db = detect_max_volume_db(piano_wav)
         piano_gain_db = min(20.0, -4.5 - piano_max_db) if piano_max_db is not None else 10.0
         print(
@@ -697,28 +804,16 @@ def render_single_song(
         print(f"🎚️  [3/3] 使用 ffmpeg 混音輸出至 {output_path}...")
         ffmpeg_cmd += ["-i", str(piano_wav)]
 
-        max_delay_ms = max(float(track["delay_ms"]) for track in vocal_tracks)
-        filter_parts = []
-        for index, track in enumerate(vocal_tracks):
-            delay_ms = max_delay_ms - float(track["delay_ms"])
-            vocal_filter = f"[{index}:a]volume={float(track['gain_db']):.2f}dB,volume={args.vocal_volume}"
-            if delay_ms > 0.5:
-                vocal_filter += f",adelay={int(round(delay_ms))}:all=1"
-            vocal_filter += f"[v{index}];"
-            filter_parts.append(vocal_filter)
-
         piano_index = len(vocal_tracks)
         piano_filter = f"[{piano_index}:a]volume={piano_gain_db:.2f}dB,volume={args.piano_volume}"
-        if max_delay_ms > 0.5:
-            piano_filter += f",adelay={int(round(max_delay_ms))}:all=1"
-        piano_filter += "[p];"
+        piano_filter += "[p]"
         filter_parts.append(piano_filter)
-        mix_inputs = "".join(f"[v{index}]" for index in range(len(vocal_tracks))) + "[p]"
+        mix_inputs = "[vocals][p]"
         filter_parts.append(
-            f"{mix_inputs}amix=inputs={len(vocal_tracks) + 1}:duration=longest:"
-            "dropout_transition=0:normalize=0,alimiter=limit=0.95"
+            f"{mix_inputs}amix=inputs=2:duration=longest:"
+            "dropout_transition=0:normalize=0,alimiter=limit=0.95[output]"
         )
-        ffmpeg_cmd += ["-filter_complex", "".join(filter_parts)]
+        ffmpeg_cmd += ["-filter_complex", ";".join(filter_parts), "-map", "[output]"]
         if output_path.suffix.lower() == ".mp3":
             ffmpeg_cmd += ["-c:a", "libmp3lame", "-q:a", "2"]
         ffmpeg_cmd.append(str(output_path))

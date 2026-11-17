@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1461 首歌曲、整理 1222 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1461 首歌曲、整理 1232 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -30,6 +30,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 上村一仁（1 首）
 
 - [南の島](taiwan_no_uta/7_minami_no_shima/index.md)
+
+### 下平加賀雄（1 首）
+
+- [土に生きん](kyoyusho_shoka_1935/7_12_tsuchi_ni_ikin/index.md)
 
 ### 不詳（1 首）
 
@@ -133,7 +137,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [勅語奉答](shokacho/vol_01/p121_chokugo_hoto/index.md)
 
-### 北原白秋（10 首）
+### 北原白秋（11 首）
 
 - [アハテ床屋](shokacho/vol_01/p164_awate_tokoya/index.md)
 - [アメ（雨）](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_05_ame/index.md)
@@ -145,6 +149,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [圓い小山（顔あそび）](shokacho/vol_01/p142_marui_koyama/index.md)
 - [林投節](kyoyusho_shoka_1935/5_20_rinto_bushi/index.md)
 - [臺灣少年行進曲](kyoyusho_shoka_1935/4_13_taiwan_shonen_koshinkyoku/index.md)
+- [里心](kyoyusho_shoka_1935/7_09_satogokoro/index.md)
 
 ### 千家尊福（5 首）
 
@@ -214,6 +219,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 土井林吉（土井晩翠）（1 首）
 
 - [吉田松陰](shintei_jido_shoka/koto_boys_2020.006.0848/1_1_08_yoshida_shoin/index.md)
+
+### 土川五郎（1 首）
+
+- [田植歌](kyoyusho_shoka_1935/7_14_taue_uta/index.md)
 
 ### 堀澤周安（3 首）
 
@@ -315,10 +324,11 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [瀧鶴臺の妻](shintei_jido_shoka/grade_5_2020.006.0847.0005/1_06_taki_kakudai_no_tsuma/index.md)
 
-### 山口充一（5 首）
+### 山口充一（6 首）
 
 - [どんこ節](taiwan_no_uta/9_donko_bushi/index.md)
 - [南の風](kyoyusho_shoka_1935/5_16_minami_no_kaze/index.md)
+- [娘ごろ](kyoyusho_shoka_1935/7_10_musumegoro/index.md)
 - [臺灣行進歌](kyoyusho_shoka_1935/6_14_taiwan_koshinka/index.md)
 - [臺灣行進歌](shintei_jido_shoka/grade_3_2020.006.0847.0003/2_07_taiwan_koshinka/index.md)
 - [臺灣行進歌](taiwan_no_uta/6_taiwan_koshinka/index.md)
@@ -942,7 +952,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [とんび](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi/index.md)
 - [百舌鳥](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_17_mozu/index.md)
 
-### 葛原齒（18 首）
+### 葛原齒（19 首）
 
 - [おきやくさま（客人）](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_16_okyaku_sama/index.md)
 - [だるま（達摩）](shintei_jido_shoka/grade_2_2020.006.0847.0002/3_01_daruma/index.md)
@@ -961,6 +971,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [蓮の葉の露](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_09_hasu_no_ha_no_tsuyu/index.md)
 - [進軍](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_17_shingun/index.md)
 - [遠足の歌](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_10_ensoku_no_uta/index.md)
+- [野の幸](kyoyusho_shoka_1935/7_13_no_no_sachi/index.md)
 - [鷲](shintei_jido_shoka/grade_4_2020.006.0847.0004/2_01_washi/index.md)
 
 ### 葛原𦱳（8 首）
@@ -1173,11 +1184,12 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [進軍（進軍）](shokacho/vol_10/p195b_shingun/index.md)
 
-### 小松耕輔（3 首）
+### 小松耕輔（4 首）
 
 - [梅に鶯](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_16_ume_ni_uguisu/index.md)
 - [活動寫眞](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_14_katsudo_shashin/index.md)
 - [航海](shintei_jido_shoka/grade_5_2020.006.0847.0005/2_05_kokai/index.md)
+- [野の幸](kyoyusho_shoka_1935/7_13_no_no_sachi/index.md)
 
 ### 小林柳美（1 首）
 
@@ -1201,6 +1213,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [冬の朝](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_20_fuyu_no_asa/index.md)
 - [平和なる村](shintei_jido_shoka/grade_5_2020.006.0847.0005/3_06_heiwa_naru_mura/index.md)
+
+### 山田耕筰（1 首）
+
+- [里心](kyoyusho_shoka_1935/7_09_satogokoro/index.md)
 
 ### 岡野貞一（《尋常小學唱歌》第六學年）（1 首）
 
@@ -1253,6 +1269,11 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [うらしまたらう（浦島太郎）](kogakko_shoka/grade_2/12_urashimataro/index.md)
 - [浦島太郎](kyoyusho_shoka_1935/3_09_urashima_taro/index.md)
+
+### 臺灣教育會選曲（2 首）
+
+- [土に生きん](kyoyusho_shoka_1935/7_12_tsuchi_ni_ikin/index.md)
+- [娘ごろ](kyoyusho_shoka_1935/7_10_musumegoro/index.md)
 
 ### 藤井清水（1 首）
 

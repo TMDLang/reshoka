@@ -1870,7 +1870,7 @@
           ]
         },
         {
-          "id": "single:kyoyusho_shoka_1935/7_08_komoriuta",
+          "id": "same-song:komoriuta:kyoyusho_shoka_1935/7_08_komoriuta",
           "year": 1935,
           "occurrences": [
             {
@@ -1879,13 +1879,7 @@
               "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
               "raw_title": "子守唄",
               "year": 1935
-            }
-          ]
-        },
-        {
-          "id": "single:kogakko_shoka/grade_4/17_komoriuta",
-          "year": 1937,
-          "occurrences": [
+            },
             {
               "rel_dir": "kogakko_shoka/grade_4/17_komoriuta",
               "md_file": "kogakko_shoka/grade_4/17_komoriuta/index.md",

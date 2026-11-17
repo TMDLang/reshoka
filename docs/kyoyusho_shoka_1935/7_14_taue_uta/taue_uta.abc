@@ -1,5 +1,6 @@
 X:1
 T:田植歌
+C:曲：梁田貞
 M:4/4
 L:1/16
 Q:1/4=96
@@ -7,14 +8,14 @@ K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 A4 G3 E D4 E3 G | A6 B2 A2 z2 G2 E2 | A2 A2 G2 E2 D4 E3 C | D12 z4 |
-w: ソ ロッ タ ソ ロ ッ | タ ー ヨ ホ ラ | ウ エ テ ガ ソ ロッ タ | ヨ
+w: ソ ロ タ ソ ロ ツ | タ _ ヨ ホ ラ | ウ エ テ ガ ソ ロ タ | ヨ
 A4 G3 E D4 E3 G | A6 B2 A2 z2 G2 E2 | A2 A2 G2 E2 D2 E2 D2 C2 | D12 z4 |
-w: イ ネ ノ デ ホ ー | ヨ ー リ ホ ラ | ナ ホ ヨ ク ソ ロ ッ タ | ヨ
-d3 c A2 c2 d3 c A2 G2 | A3 G E4 G2 A2 d2 c2 | A2 c2 d2 c2 A2 G2 A2 G2 | A10 z2 z2 A2 |
-w: ナ エ ハ ホ ド ヨ ク ノ | ビ テ ー ホ ラ ケ フ | コ ソ タ ウ エ ド キ ー | ー タ
-c2 G2 z2 G A G2 E2 z2 E2 | G4 E2 G2 z2 G3 A G2 | c4 G4 A4 D4 | G4 D4 E4 z3 G |
-w: ノ モ ミ ヅ ニ ヒ ロ | ビ ロ ト ビ カ フ | ツ バ ク ラ | メ ヒ ラ ヒ
-A8 G2 D2 z3 G | A6 A2 G2 E2 z3 G | A3 G E3 G A3 G E2 z G | A3 G E3 G A3 G E2 z G |
-w: ラ ヒ ラ ヒ | ラ ヒ ラ サ ナ | エ ヲ カ ス メ テ _ ミ | ノ モ ヲ カ ス メ テ ア
+w: イ ネ ノ デ ホ _ | ヨ _ リ ホ ラ | ナ ホ ヨ ク ソ ロ ツ タ | ヨ
+d4 c2 A2 c2 d2 A2 G2 | A6 G2 E4 G2 A2 | d2 c2 A2 c2 d2 c2 A2 G2 | A12 z2 A2 |
+w: ナ エ ハ ホ ド ヨ ク | ノ ビ テ ホ ラ | ケ フ コ ソ タ ウ エ ド | キ タ
+c2 G2 z3 G G2 E2 z3 E | G6 E2 G2 z2 G3 A | c4 G4 A4 D4 | G4 D4 E4 z3 G |
+w: ノ モ ミ ヅ ニ ヒ | ロ ビ ロ ト ビ | カ フ ツ バ | ク ラ メ ヒ
+A7 G D4 z3 G | A7 G E4 z3 G | A3 G E3 G A3 G E2 z G | A3 G E3 G A3 G E2 z G |
+w: ラ ヒ ラ ヒ | ラ ヒ ラ サ | ナ エ ヲ カ ス メ テ ミ | ノ モ ヲ カ ス メ テ ア
 A8 A8 | d12 z4 |]
 w: ソ ブ | ヨ

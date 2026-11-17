@@ -1,8 +1,8 @@
 {
   "total_corpus_songs": 1461,
-  "unique_song_count": 1006,
-  "duplicate_group_count": 269,
-  "duplicate_occurrence_count": 724,
+  "unique_song_count": 1005,
+  "duplicate_group_count": 270,
+  "duplicate_occurrence_count": 726,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -52,7 +52,7 @@
     {
       "id": "other",
       "label": "其他",
-      "duplicate_group_count": 134
+      "duplicate_group_count": 135
     }
   ],
   "duplicate_groups": [
@@ -2701,6 +2701,26 @@
           "md_file": "kyoyusho_shoka_1935/0_09_shisei_kinenbi/index.md",
           "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "始政記念日"
+        }
+      ]
+    },
+    {
+      "id": "komoriuta",
+      "title": "子守唄",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "kyoyusho_shoka_1935/7_08_komoriuta",
+          "md_file": "kyoyusho_shoka_1935/7_08_komoriuta/index.md",
+          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+          "raw_title": "子守唄"
+        },
+        {
+          "rel_dir": "kogakko_shoka/grade_4/17_komoriuta",
+          "md_file": "kogakko_shoka/grade_4/17_komoriuta/index.md",
+          "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
+          "raw_title": "子守唄"
         }
       ]
     },

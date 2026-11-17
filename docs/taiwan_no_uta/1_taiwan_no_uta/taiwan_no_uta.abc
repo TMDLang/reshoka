@@ -4,8 +4,30 @@ M:4/4
 L:1/16
 Q:1/4=120
 K:Eb
-V:V1 name="Voice" snm="Voi"
+V:V1 name="Piano" snm="Pia"
+V:V2 name="Piano2" snm="Pia"
+V:V3 name="Voice" snm="Voi"
 [V:V1]
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 || z16 | [EA]8 [DFA]4 [DFA]4 ||
+[G,B,]10 z2 z4 | [F,,F,]4 [G,,G,]2 [A,,A,]2 [B,,B,]4 [B,,B,]4 || [E,,E,]12 z4 |]
+[V:V2]
+z12 z4 | [G,B,]6 [B,E]2 [EG]4 [EA]4 | [EG]8 [B,E]4 [B,E]4 | E8 D4 z4 |
+D10 z2 z4 | [G,B,]6 [G,B,]2 [B,E]4 [EG]4 | [EA]8 [EA]4 E4 | [CEA]8 [B,E]4 [A,D]4 |
+!mf! [G,B,]10 z2 [B,E]4 | [A,D]6 [G,B,]2 [A,D]4 [B,E]2 [EG]2 | [DFA]6 [DFA]2 [EG]4 [EA]4 | [EB]6 [EB]2 [FB]4 [E=A]4 |
+[DF]10 z2 [DF]4 | [EA]6 [EA]2 [EA]4 [FA]4 | [EB]6 [EB]2 [EA]4 E4 | [CEA]8 [B,E]4 [A,D]4 |
+!mp! [G,B,]10 z2 D4 | D6 D2 D4 D4 | E6 E2 B,4 [B,E]4 | [=B,D]6 D2 [CEG]4 [CE]4 |
+!mf! [CF]10 z2 D4 | [EG]6 [EG]2 [EG]4 E4 | !f! [EA]6 [EA]2 [EG]4 [EG]4 | [FB]8 [F=A]6 [EA]2 |
+[DF]10 z2 z4 | [G,B,]6 [B,E]2 [EG]4 [EA]4 | [EG]8 [B,E]4 [B,E]4 | E8 D4 z4 |
+!f! D10 z2 E2 [EG]2 | [Ec]6 [Ec]2 [EA]4 [EG]4 || [E=A]6 [EA]2 [DG]4 [CE]4 | z16 ||
+z16 | z16 || z16 |]
+[V:V3]
 |:!mf! z12 B,4 | E6 G2 B4 c4 | B8 G4 G4 | G8 F4 E4 |
 w: 1.~ぬ | ぼ こ の つ | ゆ の ひ | と し づ
 w: 2.~お | き に は く | ぢ ら し | ほ ふ き

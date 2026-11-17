@@ -6,6 +6,7 @@ from scripts.render_neutrino_mix import (
     find_lyric_instruments,
     parse_part_model_overrides,
     resolve_part_model,
+    expand_musicxml_stanzas,
     prepare_vocal_musicxml_parts,
 )
 
@@ -76,15 +77,67 @@ class NeutrinoRendererTests(unittest.TestCase):
 
             prepared = prepare_vocal_musicxml_parts(source, output_dir)
 
-            self.assertEqual([item.part_name for item in prepared], ["Soprano", "Alto"])
+            self.assertEqual([item.part_name for item in prepared], ["Soprano[L1]", "Alto[L1]"])
             self.assertEqual(
                 [item.path.name for item in prepared],
-                ["vocal_01_soprano.musicxml", "vocal_02_alto.musicxml"],
+                ["vocal_01_soprano_l1.musicxml", "vocal_02_alto_l1.musicxml"],
             )
             self.assertEqual(
                 [len(item.path.read_text(encoding="utf-8")) > 0 for item in prepared],
                 [True, True],
             )
+
+    def test_prepare_vocal_musicxml_parts_splits_multiple_stanzas(self):
+        musicxml = """<?xml version="1.0" encoding="UTF-8"?>
+<score-partwise version="3.1">
+  <part-list><score-part id="P1"><part-name>Piano</part-name></score-part></part-list>
+  <part id="P1"><measure number="1"><attributes><divisions>1</divisions></attributes>
+    <note><pitch><step>C</step><octave>4</octave></pitch><duration>1</duration><type>quarter</type>
+      <lyric number="1"><text>イ</text></lyric><lyric number="2"><text>ロ</text></lyric>
+    </note>
+  </measure></part>
+</score-partwise>
+"""
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source = root / "raw.musicxml"
+            output_dir = root / "parts"
+            source.write_text(musicxml, encoding="utf-8")
+
+            prepared = prepare_vocal_musicxml_parts(source, output_dir)
+
+            self.assertEqual([item.part_name for item in prepared], ["Piano[L1]", "Piano[L2]"])
+            self.assertIn("<text>イ</text>", prepared[0].path.read_text(encoding="utf-8"))
+            self.assertNotIn("<text>ロ</text>", prepared[0].path.read_text(encoding="utf-8"))
+            self.assertIn("<text>ロ</text>", prepared[1].path.read_text(encoding="utf-8"))
+            self.assertNotIn("<text>イ</text>", prepared[1].path.read_text(encoding="utf-8"))
+
+    def test_expand_musicxml_stanzas_makes_one_continuous_lyric_layer(self):
+        musicxml = """<?xml version="1.0" encoding="UTF-8"?>
+<score-partwise version="3.1">
+  <part-list><score-part id="P1"><part-name>Piano</part-name></score-part></part-list>
+  <part id="P1">
+    <measure number="1"><note><rest/><duration>1</duration></note></measure>
+    <measure number="2"><note><pitch><step>C</step><octave>4</octave></pitch><duration>1</duration>
+      <lyric number="1"><text>イ</text></lyric><lyric number="2"><text>ロ</text></lyric>
+    </note></measure>
+  </part>
+</score-partwise>
+"""
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source = root / "raw.musicxml"
+            expanded = root / "expanded.musicxml"
+            source.write_text(musicxml, encoding="utf-8")
+
+            expand_musicxml_stanzas(source, expanded, [1, 2])
+            prepared = prepare_vocal_musicxml_parts(expanded, root / "parts")
+
+            self.assertEqual(len(prepared), 1)
+            text = prepared[0].path.read_text(encoding="utf-8")
+            self.assertEqual(text.count("<measure number="), 3)
+            self.assertIn("<text>イ</text>", text)
+            self.assertIn("<text>ロ</text>", text)
 
 
 if __name__ == "__main__":
