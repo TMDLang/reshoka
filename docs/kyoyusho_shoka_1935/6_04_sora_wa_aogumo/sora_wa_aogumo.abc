@@ -6,13 +6,61 @@ Q:1/4=100
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-z2 E2 D2 C2 | D2 E2 A2 G2 | A2 c2 c2 A2 | A2 c2 G4 |
+!f! z2 E2 D2 C2 | D2 E2 A2 G2 | A2 c2 c2 A2 | A2 c2 G4 |
 w: ソ ラ ハ | ア ヲ グ モ | ワ シ ラ ハ | ワ カ イ
-z2 A2 c2 G2 | d2 c2 G2 G2 | E2 G2 E2 D2 | C6 z2 |
+!f! z2 A2 c2 G2 | !ff! !mf! d2 c2 G2 G2 | E2 G2 E2 D2 | C6 z2 |
 w: イ ハ ニ | コ ダ カ ノ | ア フ グ ヨ | ダ
-d2 c2 d2 c2 | E2 G2 G2 G2 | A2 d2 c2 d2 | A4 E4 |
-w: サウ ダ サウ ダ | ス ダ チ ノ | ワ カ タ カ | ダ イ
-D2 C2 D4 | z2 E4 G2 | d2 c2 G4 | z2 E4 G2 |
-w: マ _ ー | カ ゼ | キ ー ル | タ カ
-A4 B4 | c8 | c4 z4 |
-w: ノ ハ | ダ | ー
+!ff! d2 c2 d2 c2 | !f! D2 G2 G2 G2 | !ff! A2 e d c2 d2 | !ff! A4 E4 |
+w: サウ ダ サウ ダ | ス ダ チ ノ | ワ カ _ ダ カ | ダ イ
+D2 C2 D4 | !f! z2 E4 G2 | !ff! d2 c2 A4 | !mf! z2 E4 G2 |
+w: マ _ ニ | カ ゼ | キ _ ル | タ カ
+A4 B4 | !ff! c8- | c4 z4 | !f! z2 E2 D2 C2 |
+w: ノ ハ | ダ | _ | う み は
+D2 E2 A2 G2 | A2 c2 c2 A2 | A2 c2 G4 | !f! z2 A2 c2 G2 |
+w: は る ば ろ | わ し ら は | わ か い | な み に
+!ff! !mf! d2 c2 G2 G2 | E2 G2 E2 D2 | C6 z2 | !ff! d2 c2 d2 c2 |
+w: ヨ ツ ト ノ | ゆ れ る よ | だ | さう だ さう だ
+!f! D2 G2 G2 G2 | !ff! A2 e d c2 d2 | !ff! A4 E4 | D2 C2 D4 |
+w: み な み の | か ざ _ ま ち | だ い | ま _ に
+!f! z2 E4 G2 | !ff! d2 c2 A4 | !mf! z2 E4 G2 | A4 B4 |
+w: の り | こ _ す | な み | の ほ
+!ff! c8- | c4 z4 | !f! z2 E2 D2 C2 | D2 E2 A2 G2 |
+w: だ | _ | ふ る い | く に が ら
+A2 c2 c2 A2 | A2 c2 G4 | !f! z2 A2 c2 G2 | !ff! !mf! d2 c2 G2 G2 |
+w: わ し ら は | わ か い | や ま と | か は と は
+E2 G2 E2 D2 | C6 z2 | !ff! d2 c2 d2 c2 | !f! D2 G2 G2 G2 |
+w: ゆ り か ご | だ | さう だ さう だ | う ま れ の
+!ff! A2 e d c2 d2 | !ff! A4 E4 | D2 C2 D4 | !f! z2 E4 G2 |
+w: は え _ ぬ き | だ い | ま _ に | お く
+!ff! d2 c2 A4 | !mf! z2 E4 G2 | A4 B4 | !ff! c8- |
+w: に _ の | あ と | つ ぎ | だ
+c4 z4 | !f! z2 E2 D2 C2 | D2 E2 A2 G2 | A2 c2 c2 A2 |
+w: _ | と き は | よ い と き | わ し ら は
+A2 c2 G4 | !f! z2 A2 c2 G2 | !ff! !mf! d2 c2 G2 G2 | E2 G2 E2 D2 |
+w: わ か い | わ か い | に ほ ん の | た つ と き
+C6 z2 | !ff! d2 c2 d2 c2 | !f! D2 G2 G2 G2 | !ff! A2 e d c2 d2 |
+w: だ | さう だ さう だ | せ か い の | し の _ の め
+!ff! A4 E4 | D2 C2 D4 | !f! z2 E4 G2 | !ff! d2 c2 A4 |
+w: だ い | ま _ に | か が | や _ く
+!mf! z2 E4 G2 | A4 B4 | !ff! c8- | c4 z4 |
+w: あ さ | や け | だ | _
+!f! z2 E2 D2 C2 | D2 E2 A2 G2 | A2 c2 c2 A2 | A2 c2 G4 |
+w: な に が | つ ら か ろ | わ し ら は | わ か い
+!f! z2 A2 c2 G2 | !ff! !mf! d2 c2 G2 G2 | E2 G2 E2 D2 | C6 z2 |
+w: こ こ ろ | だ て な ら | た ま の よ | だ
+!ff! d2 c2 d2 c2 | !f! D2 G2 G2 G2 | !ff! A2 e d c2 d2 | !ff! A4 E4 |
+w: さう だ さう だ | は が ね の | ひ び _ く よ | だ ち
+D2 C2 D4 | !f! z2 E4 G2 | !ff! d2 c2 A4 | !mf! z2 E4 G2 |
+w: か _ ら | ふ き | だ _ す | ま し
+A4 B4 | !ff! c8- | c4 z4 | !f! z2 E2 D2 C2 |
+w: み づ | だ | _ | の び ろ
+D2 E2 A2 G2 | A2 c2 c2 A2 | A2 c2 G4 | !f! z2 A2 c2 G2 |
+w: た へ _ ろ | わ し ら は | わ か い | い づ れ
+!ff! !mf! d2 c2 G2 G2 | E2 G2 E2 D2 | C6 z2 | !ff! d2 c2 d2 c2 |
+w: は し ら に | な る ぼ く | だ | さう だ さう だ
+!f! D2 G2 G2 G2 | !ff! A2 e d c2 d2 | !ff! A4 E4 | D2 C2 D4 |
+w: み て ゐ ろ | こ れ _ か ら | だ い | ま _ に
+!f! z2 E4 G2 | !ff! d2 c2 A4 | !mf! z2 E4 G2 | A4 B4 |
+w: お く | に _ を | しよ ふ | ぼ く
+!ff! c8- | c4 z4 |
+w: だ | _

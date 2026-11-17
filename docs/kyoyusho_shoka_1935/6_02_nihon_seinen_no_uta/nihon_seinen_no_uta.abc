@@ -6,15 +6,39 @@ Q:1/4=104
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-C4 C3 D E4 G4 | c8 G8 | E4 G4 c4 E4 | G8 E4 A4 |
-w: ヒ イ ヅ ル ト | コ ロ | オ ホ ツ ナ | ミ ウ チ
-A2 G2 F2 E2 D4 E4 | F12 z4 | F4 E3 F D4 C4 | B,6 A2 G8 |
-w: ヨ ー ス ー ル シ | マ | ワ レ ー ラ ハ | ツ ゲ リ
-G2 F2 E2 D2 C4 A4 | G12 E4 | c8 G8 | G2 E2 A2 G2 G8 |
-w: ー ワ カ キ ニ ホ | ン ヲ | オ オ | ー ワ カ ウ ド
-E8 F4 A4 | G12 z4 | C4 E3 G c4 c4 | B6 d2 c8 |
+!f! C4 C3 D E4 G4 | c8 G8 | E4 G4 c4 E4 | G8 E4 A4 |
+w: ヒ イ ヅ ル ト | コ ロ | オ キ ツ ナ | ミ ウ チ
+A2 G2 F2 E2 D4 E4 | F12 z4 | !mf! F4 E3 F D4 C4 | B,6 A2 G8- |
+w: ヨ _ ス _ ル シ | マ | ワ レ _ ラ ハ | ツ ゲ リ
+G2 F2 E2 D2 C4 A4 | G12 E4 | !f! c8 G8- | G2 E2 G2 A2 G4 G4 |
+w: _ ワ カ キ ニ ホ | ン ヲ | オ オ | _ ワ カ ウ _ ド
+!mp! E8 F4 A4 | G12 z4 | !f! C4 E3 G c4 c4 | B6 d2 c8 |
 w: ワ タ ツ | ミ | モ リ ア グ ル | チ カ ラ
-A4 B2 c2 B3 A G4 | G6 G2 G2 z2 E4 | c6 c2 G4 z2 G2 | d6 d2 G4 c4 |
-w: キ ホ ヒ タ ツ コ | コ ロ ー ツ | ヨ ー ク ヲ | ヲ シ ク イ
-G4 d4 G4 G4 | e12 d4 | c12 z4 |
-w: ザ イ ザ ニ | ホ ン | ヲ
+!mf! A6 B2 c4 B3 A | !f! G6 G2 G4 z2 G2 | c4 d4 G4 z2 G2 | d6 d2 G4 c4 |
+w: キ ホ ヒ タ ツ | コ コ ロ ツ | ヨ _ ク ヲ | ヲ シ ク イ
+!ff! G4 d4 G4 G4 | !ff! e12 d4 | c12 z4 | !f! C4 C3 D E4 G4 |
+w: ザ イ ザ ニ | ホ ン | ヲ | ひ い づ る と
+c8 G8 | E4 G4 c4 E4 | G8 E4 A4 | A2 G2 F2 E2 D4 E4 |
+w: こ ろ | さ く ら ば | な さ き | に _ ほ _ ふ く
+F12 z4 | !mf! F4 E3 F D4 C4 | B,6 A2 G8- | G2 F2 E2 D2 C4 A4 |
+w: が | わ れ _ ら は | つ げ り | _ わ か き に ほ
+G12 E4 | !f! c8 G8- | G2 E2 G2 A2 G4 G4 | !mp! E8 F4 A4 |
+w: ん を | お お | _ わ か う _ ど | さ く _
+G12 z4 | !f! C4 E3 G c4 c4 | B6 d2 c8 | !mf! A6 B2 c4 B3 A |
+w: ら | う ら ら か に | ひ ら け | い さ ぎ よ く
+!f! G6 G2 G4 z2 G2 | c4 d4 G4 z2 G2 | d6 d2 G4 c4 | !ff! G4 d4 G4 G4 |
+w: い き よ き | よ _ く た | だ し く い | ざ い ざ に
+!ff! e12 d4 | c12 z4 | !f! C4 C3 D E4 G4 | c8 G8 |
+w: ほ ん | を | ヒ イ ヅ ル ト | コ ロ
+E4 G4 c4 E4 | G8 E4 A4 | A2 G2 F2 E2 D4 E4 | F12 z4 |
+w: ア マ ツ ヒ | ノ マ モ | リ _ マ _ ス ク | ニ
+!mf! F4 E3 F D4 C4 | B,6 A2 G8- | G2 F2 E2 D2 C4 A4 | G12 E4 |
+w: ワ レ _ ラ ハ | ツ ゲ リ | _ ワ カ キ ニ ホ | ン ヲ
+!f! c8 G8- | G2 E2 G2 A2 G4 G4 | !mp! E8 F4 A4 | G12 z4 |
+w: オ オ | _ ワ カ ウ _ ド | タ イ ヤ | ウ
+!f! C4 E3 G c4 c4 | B6 d2 c8 | !mf! A6 B2 c4 B3 A | !f! G6 G2 G4 z2 G2 |
+w: ア メ ノ カ ギ | リ カ ケ | チ ノ キ ハ ミ | ノ ビ ヨ ア
+c4 d4 G4 z2 G2 | d6 d2 G4 c4 | !ff! G4 d4 G4 G4 | !ff! e12 d4 |
+w: カ ル ク オ | ホ キ ク イ | ザ イ ザ ニ | ホ ン
+c16 |
+w: ヲ

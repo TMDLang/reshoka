@@ -4,11 +4,12 @@ song_title: "ちくおんき"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_4_17_chikuonki"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈ちくおんき〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈ちくおんき〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一七　ちくおんき （一）…"
 keywords: "ちくおんき, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
 sources:
+  - "出處：昭和小學唱歌"
   - "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
 musical_key: "C"
 meter: "2/4"
@@ -30,19 +31,31 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="chikuonki.mp3"></audio>
 
+- 出處：昭和小學唱歌
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
-
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= C，拍號 <2/4>，速度 != 84
+原書資訊與歌詞全文（對應 P153.jpg，書頁 p. 123，第四學年第一七首）：
+右上角標註：（昭和小學唱歌）
+調性與拍號：C 大調 2/4 拍，♩=84
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+一七　ちくおんき
+（一）
+輕いハンドル　くる／＼と
+機械の捩子（ねぢ）を　巻きませう
+レコードのせて　針つけて
+まはして歌を　聞きませう
+
+（二）
+鳴るよ　歌ふよ　ちくおんき
+まはるにつれて　面白い
+マーチのラッパ　笛太鼓
+聞える音の　にぎやかさ
 ```
 
 ## ABC
@@ -53,8 +66,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](chikuonki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMTY0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thceNCx839j9u7HrcNPlxY6-ClhaXoq2ChQmXva2CM5eNkb6JHcisF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi7fxMw8q4DMxLx8hxqDmmouBSCwMTTTsgOzahQMFXSB0EjBGEiCcA1Y3KcG6IdusNTjpm4guwXMhknXKJiAeSbYtK2HapsMZK-EGoBdI8huJI39SPaB2KgajaAuMEBxCVjjCqgQDKJqMQLTIIykpRdiF9CPEL89blyHpBHkOJC_YHYiaVwL1bgI6LxJWO0zVDCPx7RwH1RfL5T9uHH248Y2JM2QiMDmv-Y9OPxnGAfxYByEZYaiq6kHaiMwHsAmQGIDptcULGsGpVGcCgoJsAOBeBl2K4GUOYaN8JjvArKXgI2YiGEj1giE2YLuQeTEAmJjCc_1QDwdzAIZAtMIchgO34HCHKR8PpYIhNgHiXdwJGJJMdSJwFouLl07BVDmVADSylwA)]
-- [鋼琴伴奏 TMD 檔案](chikuonki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuPBxY__jxq7HTZMfN_a-39PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwMOGyt1Vw5rIx0jex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBlrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAi5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMbQTMsOzKpRMFTQBUIjBWMgCcI1YHGfGqDXusFSj5u6gewWMBsmXaNgAuaZYNO2HqptMpC9EmoAdo0gu5E09iPZB2KjajSCusAAxSVgjSugQjCIqsUITIMwkpZeiF1AP0L89rhxHZJGkONA_oLZiaRxLVTjIqDzJmG1z1DBPB7Twn1Qfb1Q9uPG2Y8b25A0QyICm_-a9-Dwn2EcxINxEJYZiq6mHqiNwHgAmwCJDZheU7CsGZRGcSooJMAOBOJl2K0EUuYYNsJjvgvIXgI2YiKGjVgjEGYLugeREwuIjSU81wPxdDALZAhMI8hhOHwHCnOQ8vlYIhBiHyTewZGIJcVQJwJrkfOmD668CXICOLhhDLhD48mRMoVLoboRWQbBgvsLtxRR2tDtgkuY4NSC4XIi9KBbQ14QIaSI8hEwGnXtFEAxqQCklbkA)]
+- [主旋律 TMD 檔案](chikuonki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMTY0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI6S1OSMvPyc_PRKdJnc0uLMZCUuLS2Fx40LHzf2P27setw0-XFjr4KWFpeirYKFCZe9rYIzl42RvokdSO_T9l0vZk59v2fWsxlrn07qebqh_-naHU-nbHy2tgds9ov2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaEA0QIUejZ3wsvZbY8but_v6YCa2dv4dOeW93t6nm9Z9Gz2jhcz5ysYmBuZKhiaWLzf06nExaWvpWBLLcCloKDwtG8-yJ7N7S9WdL3oaAe668XKeU9bVzyb1g501NMNvc_aOxVAKUEvqyAd6C6g4pcLGhUK9BQMjYxB7lyz5uns2aBw2LkFyH6yo-HJjuaXy6YBXQsMKLAN_Zuf7Oh6sXzSsxUzX6zYDRRF-BYpBIEaQKpfrNr_rGE5yCXdvUDfA1U7KzxdshworACMBgWgKNDSRzNX2gJjB6QeYuHjhga0OATJAe0BSsMM3jP1cWPL4-b-x82bHzd3Pm5eDdbU_7gJGPr97_fsedy4AqTu2cr5zxZteNy47lnvyqdrJwDNeNy49nHjIqAxj5smAfU83b4baP7jxn2PG2c_bmwD6XncvOZxE9DUPSCDG9eBJZYBlb5sn_u4ccnjxolALlgdSNP6x43TgXyglyHmvWich2IezOW7YEHycvMWoCMfN3UAFYN0NW6FsLH4GGoBUHXjapDNTUDVYIfMXfR85l6g_yGunQd2aiPIqc0rHzc3P26eCFT0fM3sp0tWvdwzGRxcIFd1AE16OX8zSB3IOqCRfY-bWh43Ao2fClJEeRKEAgUtfS4uX2AOtgrITMzLd6gxqKkGWaBgY2imZQdmARM-JH29WNijoJGrZ_ioYbKJJkgjSLZGoTo3rVbBUEEXCI0UjIEkCNcomIBFTHCIgNTXANWDRHQVDKB0DdhIH8MahcdNq6FiwPQCIpuWgHUAkxFUdDMQd8LlQTrWw9VD2HCZ5g6oWfGo9hgB5RpXwexp6gaTILUg8TaIaON8IN6KIrMQKtMPxF1gmclQmV4Me5BDcFcPNARNgSFogRyCBbUKpmANpmAahGsUzMAiZlAZRAAag4MNEoAQGewBuBbqLVBwgALvcXMfNDggznzc3ATEm-CmA1MnVMdaKPtx0-7HTctQLMIWgvug4bEeFoaN0HBvBFkLMqYHyAaZA7UIHGogcaADGqeDWSAngWRa8Ibgjk5oCFoCQ9DQCDkIQWkwDqzFKA7CAoVfDTT0kEMRqgxImaOpwhqOzWugjt0MDTVQogOJg0ITHEZANiSxoCbQVUAM8s7jpo1QGZgqLIEIC_vmPUDcCA7EdVBdK6EyzUA8ESkQQYkSpK4DnEhBLJBtIBlQcsQZiMBKA5aRjUGhaAYs1iG1A1AElDINzUB104u1cyC5_tm6rU8n9AALo5cNi59vnfB8-6ynu7eByqaGRkiiBip43AAs7rofN_SCGVOBjKcdbcDa5WnrSqBKpGhCLgJAbOJSOaRwwR47sHADZsam7WAWKJRB6R-S4B437UdN5fB8QWIqB6VQUCBPBgc5rLxASs2NK6CRBosgSAkGLLqBasEJoRGmYyqGPbVcXLp2CqCCWAFIK3MBAA)]
+- [鋼琴伴奏 TMD 檔案](chikuonki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuPBxY__jxq7HTZMfN_a-39PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwMOGyt1Vw5rIx0jex46pTUHravuvFzKnv98x6NmPt00k9Tzf0P1274-mUjc_W9iiB5F-073reuPj5jr3P5y5-umvOi7XLnnbPfLqx4XFD17OpM180bXrW2fB8ygoFiBag0LO5E17Obnvc0A10BtTM3sanO7e839PzfMuiZ7N3vJg5X8HA3MhUwdDEAugwJS4u38TMPKuAzMS8_CAPhxqDmmouBSCwMTTTsgOz9LUUnq9Z82RHw4uFPQoauXqGjxomm2gqaOmDZWsUqnPTahUMFXSB0EjBGEiCcI2CCVjEBIcISH0NUD1IRFfBAErXgI30MaxReNy0Gir2uBnEety0BKzjcXM_VHQzEHfC5UE61sPVQ9hwmeYOqFnxqPYYAeUaV8HsaeoGkyC1IPE2iGjjfCDeiiKzECrTD8RdYJnJUJleDHuQQ3BXDzQETYEhaIEcggW1CqZgDaZgGoRrFMzAImZQGUQAGoODDRKAEBnsAbgW6i1QcIAC73FzHzQ4IM583NwExJvgpj9ungfVsRbKfty0-3HTMhSLsIXgPmh4rIeFYSM03BtB1oKM6QGyQeZALQKHGkgc6IDG6WAWyEkgmRa8IbijExqClsAQNDRCDkJQGowDazGKg7BA4VcDDT3kUIQqA1LmaKqwhmPzGqhjN0NDDZToQOKg0ASHEZANSSyoCXQVEIO887hpI1QGpgpLIMLCvnkPEDeCA3EdVNdKqEwzEE9ECkRQogSp6wAnUhALZBtIBpQccQbi09mzYRnZGBSKZkihiJxDQWziEiEk72MPPJi3gHmlaTuYBQoEUPKEpIfHTftREyE82ZKYCEEJCBQGk8EhAsvOSImtcQU0TGHhBylgHjf2AdWC46kRpmMqhj21yMWkD3IxaQEtJWHlYLxCtGGsgjGEAoZWPJBlEh8Lk8AmYgoSMQWKmMYDwxDiKUihQNg0o3gFs3iwCUAhYFRAxIEUkkFAZ5mA9MXCKLg6uMFmIIPN4nNjQQZGG8Wb43YXshuA5pHsKGBQ6topgEIz2gcoCmcbgdnKXAA)]
 
 ## 分析
 
@@ -65,8 +78,8 @@ tmd_source:
 ⏱  Duration:       0:22 (22.9s), 16 measures total
 🎼 Key & Tempo:    首調基準 C, != 84.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    B3 (MIDI 59) – D5 (MIDI 74) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  B3 in [Main #1 @ m.7, 0:09]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Main #1 @ m.1, 0:00]
    - 最高音: D5 in [Main #1 @ m.9, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (22.9s)
@@ -74,12 +87,12 @@ tmd_source:
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, C, E, F, G
-   - 調性數值:    C 大調 [相關度: 0.82, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.82), D 小調 (0.65), G 大調 (0.63)
+   - 核心骨幹音:  G, C, F, E, A
+   - 調性數值:    C 大調 [相關度: 0.95, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.95), F 大調 (0.68), A 小調 (0.61)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main #1]: C 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [Main #1]: C 大調 (r: 0.95, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -92,21 +105,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████████████    20.5%
+     C  : ███████████████████████   23.2%
      C# :                            0.0%
-     D  : ████████████████████████  22.3%
+     D  : █████████                  8.9%
      D# :                            0.0%
-     E  : ████████████████          15.2%
-     F  : ████████████████          15.2%
+     E  : ████████████              12.5%
+     F  : ██████████████████        17.9%
      F# :                            0.0%
-     G  : ██████████████            13.4%
+     G  : ████████████████████████  24.1%
      G# :                            0.0%
-     A  : █████████                  8.0%
+     A  : ████████████              11.6%
      A# :                            0.0%
-     B  : ██████                     5.4%
+     B  : ██                         1.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – D5 (15 個半音 / 1.2 個八度, 49 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 48 個音符)
 ================================================================================
 ```
 

@@ -4,10 +4,13 @@ song_title: "ほたる"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_4_37_hotaru"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈ほたる〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
-keywords: "ほたる, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈ほたる〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：池野道治、曲：山内冷晃），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） 闇夜の空をほたるは　すうい…"
+keywords: "ほたる, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 池野道治, 山内冷晃"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
+credits:
+  - "詞：池野道治"
+  - "曲：山内冷晃"
 sources:
   - "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
 musical_key: "F"
@@ -30,19 +33,33 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="hotaru.mp3"></audio>
 
+- 詞：池野道治
+- 曲：山内冷晃
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
-
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= F，拍號 <4/4>，速度 != 96
+原書資訊與歌詞全文（對應 P177.jpg，原書 p. 147，第三十七首）：
+- 詞曲標記：池野道治歌、山内冷晃曲
+- 調性與拍號：F 大調（一降記號，陽旋法五聲音階），原譜拍號印 C（4/4 拍），
+（原譜未標速度，演奏速度 != 96 為編者設定）
+- 對位與歌詞說明：譜下印有上排（一）片假名與下排（二）平假名雙層歌詞。
+第 5 小節第 1–2 音與第 7 小節第 1–2 音附有圓滑線以供第二段「ぴ ー」一字唱二音，
+第一段則於兩音分別唱「ス ウ」；第三行第一段「彼方（アチラ）…此方（コチラ）」與第二段「此方（こちら）…彼方（あちら）」方向對調。
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+（一）
+闇夜の空をほたるは　すうい
+すういと飛んですういと消える
+彼方の闇から此方の闇へ
+
+（二）
+闇夜の空をほたるはぴかり
+ぴかりついてぴかり消える
+此方の闇から彼方の闇へ
 ```
 
 ## ABC
@@ -53,8 +70,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hotaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzc0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thceNux83zn_c1K2gpcWlaKtgacZlb6vgxmVjom9iBzLlRfuu542Ln-_Y-3zu4qe75rxYu-xp98ynGxseN3Q9mzrzRdOmZ50Nz6esUHg6ZeOztT1AoWdzJ7yc3fa4ofv9no5nM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sXi_p1OJi8s3MTPPKiAzMS_focagpppLAQhsLLTswIwaBUMFXSA0UjAGkqZAXAMW96lReNzUApZ63LgfyO4As9bBFdQAtYBkDRXM4sEMZJ2NcyE6mzqBeBKKNEgfWI9pPEQnyH4knbuBeD5QVzeQXg_EM8H2tmHYC4EGqJohDkZAmBaQ30C-MwOSIIykBWQ-xAaI9seNK5A0grSYArXD7ETSuELhcfMeoEMnQ-jG5Wh2moI1moJDFuRlFDth9oGNaeyFGtEBpmEGwMMV06PA0MHuUWCggn0KDVswF8niJqhnF4KjBj1CodGBMymAEwLYoSDrISbA9QIhxLeQRIFkKTCAoBaCrENOVTDNkCSINUZ3YHi0lotL104BlKgVgLQyFwA)]
-- [鋼琴伴奏 TMD 檔案](hotaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuPtx4_zHTd3v93S87N7zfMKWJ3u2PF3a_2LtnPd7OhW0tLgUbRUszbjsbRXcuGxM9E3suOoUlF6073reuPj5jr3P5y5-umvOi7XLnnbPfLqx4XFD17OpM180bXrW2fB8ygqFp1M2PlvbAxR6NnfCy9ltjxtA1jybsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJBdBiJS4u38TMPKuAzMS8_CAPhxqDmmouBSCwsdCyAzNqFAwVdIHQSMEYSJoCcQ1Y3KdG4XFTC1jqceN-ILsDzFoHV1AD1AKSNVQwiwczkHU2zoXobOoE4kko0iB9YD2m8RCdIPuRdO4G4vlAXd1Aej0QzwTb24ZhLwQaoGqGOBgBYVpAfgP5zgxIgjCSFpD5EBsg2h83rkDSCNJiCtQOsxNJ4wqFx817gA6dDKEbl6PZaQrWaAoOWZCXUeyE2Qc2prEXakQHmIYZAA9XTI8CQwe7R4GBCvYpNGzBXCSLm6CeXQiOGvQIhUYHzqQATghgh4Ksh5gA1wuEEN9CEgWSpcAAgloIsg45VcE0Q5Ig1hjdgeHRWuQ07YMjTcfDws4QNXGCQggmYgJn4ZKDGIMpi-pOkHU4jYRLIXQTIYUwB9MqfE5E6MPwN0w5Dqdg2gcMZ107BVBQKwBpZS4A)]
+- [主旋律 TMD 檔案](hotaru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzc0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI7EvMzcxBx00ZLM3NT4_LT4lMRKdKm8xJLSolQlLi0thceNux83zn_c1K2gpcWlaKtgacZlb6vgxmVjom9iB9L2YuW893tmPdu44GV738vGyc827Qab9mz2JqDw040bn7a1Pm3b_mxmM1j4Rfuu542Ln-_Y-3zu4qe75rxYu-xp98ynGxseN3Q9mzrzRdOmZ50Nz6esUHg6ZeOztT1AoWdzJ7yc3fa4ofv9no5nM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sXi_p1OJi0tfS8GWWoBLQUHhad98kD2b21-s6HrR0Q50F9DPT1tXPJvWDnTU0w29z9o7FUApRS-rIB3oLoh6hQI9oJPMQe5cs-bJjk6gs5_saH65bBrQkcCQARn8uHk30CRgSD1bMfPFihlowQi053FDI3IIAlXCtK3a_6xhOcgx3b3AAADqdFN4umQ5UBjooic7Gl7O7AUaCJbpeTlz77Pp3c82T32ya8qLxk0v529-OasP7AiQS1-snQMx42nvBgVnoG5gvCoARSAKQNYpKIB8CVE5ZxXQqS8b5j_dtQwo-2zPlKdL-yFcBXDaUHjetOv59hUvGlpfrFj7dN0soClQFwOD6cneXnjwvVi16tkMoCtmAU19sqMbaPmzOZ1PdnQ965sE8QFQ5_PO9qeN7U8ngHQB1UCldvUApZ7u3AyRejkbmHqWQMx83NAEcS8wwBVMFZ5u6H--vgHENnzUMNlIAehxoEEgvjk2uZczW4BOeDpn8rPdE59vn_Vk99In-2aDom5Xz7N1Wx839Dxu3AL0yJ7HDb1A5z1dOx2YRIFyQJ3wcAJHdANQ9dPO9mfT9jxtXQmUfdrR9rRjKVAxyIimnQqPm5YBjXi_B2z2js4XCyHpA6QNqOLp3j3Ppu0E-vNx06LHzY2Pm1cCffuoYdmztUtg4pvh4kBzID6CuxGhrHHy48aFj5uAkQjSjjC2sQkuDtQOFHw6YSIwboApBxR8IH_Awx_EeTm9_emSOY8b1z1fuetx0yR4afC4cf3jhobHjTMfN7Y9bmwBRzKM87hxxcvFsx83AV2wHFnw2Tag9UAPdIMzFdhFQIOBNjxu7Aa6COJ2mMgOuFvAEU7ILY1bwIZ0QRwC5TxuXAK2eRlcBMUJqBaCnIDqqB0gRZQXIVCgoKXPxeWRX5JYVGoVkJmYl-9QY1BTDU44NhZadmAGtpILmqqA6URBwwSacHXgxY0mFg1Ai0CG1SgYKugCoZGCMZA0BeIaIBskYqhgFg9mQITAXNN4iCBID0wdBBqARMAm-hjWAHPAErDo4-b5QLwCzOoD63nctBcqsxKIN8EteNw8Gyi3H0ivBuJ-IHsnSFXTMqguiHkQCHIB1C4jkFwLxMRGoO6mDjBrHURX41yITFMnEE9C2NW4G4iBLgPWV8BkAUoKYF3dULu6MOzCH-67esgJd1B4g0LcDEiCcA2YbQoUh4UrSATENwXHDigKahBxgiXQwUEGCTRIgD1uBgUHKHDBwdK8GUy2IwICUtKAVYPUPG5aC9YPijCQrtW4Ax0cZJBgBwUbJNBA4mB7G0FRAsxSSEEOC2KQyseNvWAe1HXAaCAtwMEFIskBDky84BCPBydfMA8anoYoyd8MCCGBDskYsCyCPcwXQUKhuRGcpJESOjgLgDIAKHRAIQmRB-nZDFcPUo2cWUD6ZuAJ9cnQMF8ITtRISR2cCUBZABEjIHmQnia4epBq5OwCkt2BYVstF5eunQKkEFIAspS5AA)]
+- [鋼琴伴奏 TMD 檔案](hotaru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuPtx4_zHTd3v93S87N7zfMKWJ3u2PF3a_2LtnPd7OhW0tLgUbRUszbjsbRXcuGxM9E3suOoUlF6snPd-z6xnGxe8bO972Tj52abdSiDhZ7M3AYWfbtz4tK31adv2ZzObwcIv2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs74eXstscNIEc9m7H26aSep72NT3dueb-n5_mWRc9m73gxc76CgbmRqYKhiQXQmUpcXB75JYlFpVYBmYl5-UEeDjUGNdVcCkBgY6FlB2boaynYogOF52vWPNnR8GJhj4KGicLTDf3P1zfoKAQYmpvrZRWka2LRoKUPNqxGwVBBFwiNFIyBpCkQ1wDZIBFDBbN4MAMiBOaaxkMEQXpg6iDQACQCNtHHsEbhcfMSsOjj5vlAvALM6gPredy0FyqzEog3wS143DwbKLcfSK8G4n4geydIVdMyqC6IeRAIcgHULiOQXAvExEag7qYOMGsdRFfjXIhMUycQT0LY1bgbiIEua-oG0uuBeAtYVzfUri4Mu_CH-64ecsIdFN6gEDcDkiBcA2abAsVh4QoSAfFNwbEDioIaRJxgCXRwkEECDRJgj5tBwQEKXHCwNG8Gk-2IgADqgKkGqXnctBasHxRhIF2rcQc6OMggwQ4KNkiggcTB9jaCouRxIyjyYEEOC2KQyseNvWAe1HXAaCAtwHd0khPgwMQLDvF4cPIF86DhaYiS_M2AEBLokIwByyLYw3wRJBSaG8FJGimhg7MAKAOAQgcUkhB5kJ7NcPUg1ciZBaRvBp5QnwwN84XgRI2U1MGZAJQFEDECkgfpaYKrB6lGzi4g2R0YttWilkE-yGWQCbQMAoZJvEK0YSyMAoVuvIIRqHgACpjF54KEgNxoIxATJAhUCFEUbRofC2YYQH0GNwtZL1QIrgFFBGwWQjWIhWEY3GEIdShCQA6m4UAKZBAwBHTtFCCBEO0DFEfiGYF5ylwA)]
 
 ## 分析
 
@@ -66,25 +83,25 @@ tmd_source:
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main #1 @ m.3, 0:05]
-   - 最高音: D5 in [Main #1 @ m.5, 0:11]
+   - 最低音:  C4 in [Hotaru #1 @ m.3, 0:05]
+   - 最高音: D5 in [Hotaru #1 @ m.5, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (30.0s)
+🏛  結構:      Hotaru (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  D, G, C, F, A
-   - 調性數值:    D 調性不明確 [相關度: 0.70, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 小調 (0.70), C 大調 (0.70), G 大調 (0.66)
-   - 五度圈歷程:   +2
+   - 調性數值:    C 大調 [相關度: 0.72, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.72), D 小調 (0.68), F 大調 (0.66)
+   - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main #1]: D 調性不明確 (r: 0.70, 自然音純度: 100.0%)
+     • [Hotaru #1]: C 大調 (r: 0.72, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
-               C  
+              [C ]*
          F            G  
-      Bb              [D ]*
+      Bb               D  
       Eb               A  
          Ab           E  
             Db       B  
@@ -92,16 +109,16 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████████        20.0%
+     C  : ████████████████████      20.0%
      C# :                            0.0%
-     D  : ████████████████████████  26.7%
+     D  : ████████████████████████  24.4%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ████████████████          17.8%
+     F  : ███████████████████       18.9%
      F# :                            0.0%
-     G  : █████████████████████     23.3%
+     G  : ████████████████████████  24.4%
      G# :                            0.0%
-     A  : ███████████               12.2%
+     A  : ████████████              12.2%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------

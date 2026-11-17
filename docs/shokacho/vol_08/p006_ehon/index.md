@@ -4,7 +4,7 @@ song_title: "繪本（圖畫書）"
 song_id: "shokacho_vol_08_p006_ehon"
 collection: "shokacho"
 volume: "vol_08"
-description: "〈繪本（圖畫書）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：原田氏），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アアウツ クシク コレコソエホン アレミヨ ヤマハ サクラノハナザカリ…"
+description: "〈繪本（圖畫書）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030））（曲：原田氏），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：アアウツ クシク コレコソエホン アレミヨ ヤマハ サクラノハナザカリ…"
 keywords: "繪本（圖畫書）, 楊金土手抄唱歌帖, 第 8 冊（VIII・蓬萊唱歌集下）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 蓬萊唱歌集, 原田氏"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 8 冊・VIII — 蓬萊唱歌集・下（2020.006.0843，P001–P030）"
@@ -22,6 +22,9 @@ audio:
   - id: "ehon"
     label: "鋼琴伴奏版"
     file: "ehon.mp3"
+  - id: "ehon_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ehon_neutrino.mp3"
 tmd_source:
   - "ehon.tmd"
   - "ehon_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="ehon.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ehon_neutrino.mp3"></audio>
 
 - 曲：原田氏
 - 出處：蓬 78頁ヨリ（昭2.3.25）
@@ -55,7 +59,7 @@ tmd_source:
 ヲトメゴ アソベリ コテフノ ゴトク
 
 二、
-ああおもしろき コレコソエホン
+ああおも しろき コレコソエホン
 アレミヨ とりは このまになきかはす
 ミヨミヨ うをは いけにぞむれあそぶ
 をかにも はらにも それ いさ ましく
@@ -70,8 +74,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ehon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGBGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQhVQU3pmnlVJYibQBSBXlCfG5yZm5uUk5qUocWlpKTzfuerZnDXv93Q8nTPt-dTVz2bveL-nU0FLi0vRVsHQwIDL3lbBmcvGRN_EDmTms9mb3u-Z9bRv_vMpG55t6Afb87R914uZU4HCLyavUTC3eLmg8XHzisfNq4BmPpux1kjPWM_IFGgmWO3jhq6nUzY-W9vzdMe0xw3dQCVGBkYGesCQ1TOwMDEGKgOFsl5WQboSF5e-loIttQCXgoIC0NlA773Y3P5iRdeLjnagK16snPe0dcWzae0g_2_ofdbeqQCzH-gUoJdA2l6s2v-sYTlIQ3fvi5nzgaKPm_uBggrAQFEAigH1Ois8XbIcRQiouedxQ8_T_vXPWmY_bup83Dj9cWP_44ZesIkrdr9YMQM5IIHhqqCvgBaAQBF4AHKB9D3Z0fC4oRHEety0CIyWPW5uAXLWP27aDiSBrM2Pm9eAyKa9j5uAZsx-3LwZph4o0TwfaLLC4-Ylj5vnAT0BFN4K0ty88nFzH5D_uLnrcdO2x02rgZaDdYHVw3UBlcwE62pufNy0AaQXrqt5AcgFzWshdgGtB7qj-3HzIiAH6BBkTvMaIAV09mqgMf0QZ0Os2vS4ueNx88LHTVsgvgMqBdq2CuKntsfNU4G2ATlbQMqAesDhsQsYxpDwaGwCI6D7geT0x029jxt7iQ2OxhWPm7oeNwKDr3Hy48Z1jxv3PW5c_bhxFdCIx43dQInHjTMxg6Ox7XHTJIiulseNE8Fa5j1uanjc1AN2ytzHjdsgdgFVAU1ZDXQaUC0wqoCJAcqZC1QM0T8VSAGtBSUSiH-AAQp0zAygmWjBAVIN9NMkiAlLwNYtA-mhPJNAgYKWPheXawawbAnITMzLd6gxqKkGWaBgY6FlB2ZU56bVghk1CqYKukBoCqZBuEbBDEiCMIhnABYxhENdBSOwiDFYFwSC1ZBiWhwIgdQYA6EREIJswG4eyDYjoCqEblzmQZARGJkBIcwtmGaC3A6yF2QnxARMW4BG6UIIhE9A-kAq4fqg5oGVgVUjdCGbACYgxkKCDWIRxFCwJNDJyMq4arm4dO0UQDGoAKSVuQA)]
-- [鋼琴伴奏 TMD 檔案](ehon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-c9WzOWve7-l4Omfa86mrn83e8bh598vuPc8nbHmyZ8vTpf3POzve7-lU0NLiUrRVMDQw4LK3VXDmsjHRN7HjqlNQejZ70_s9s572zX8-ZcOzDf1KILGn7btezJwKFH4xeY2CucXLBY2Pm1c8bl4FtOXZjLVGesZ6RqZAM8FqHzd0PZ2y8dnanqc7pj1u6AYqMTIwMtAzMDDTM7AwMQYqCwCxswrSlbi4XDPy86wCMhPz8oM8HGoMaqq5FIDAxkLLDsyozk2rBTNqFEwVdIHQFEyDcI2CGZAEYRDPACxiCIe6CkZgEWOwLggEqyHFtDgQAqkxBkIjIATZgN08kG1GQFUI3bjMgyAjMDIDQphbMM0EuR1kL8hOiAmYtgCN0oUQCJ-A9IFUwvXBzNMGKwQaCmJAeVCqRsEEwoBSUGGIJZBAhFgLtQIibaoN9ARIsSmScq5a5Gj1QY5WE3i0FsCi1TBewTRewRhMAh0RD0JAMQOIFFAcyAdLQRRCpIjVCxQ3jcehGSwHQiDlKHrN4kHICIzA6oA0yBh0i6HKUQyC2wskoVJYHQ1Rh8vRYCmwQrhmYKDq2imAwlUBiVbmAgA)]
+- [主旋律 TMD 檔案](ehon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGBGboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQhVQU3pmnlVJYibQBSBXlCfG5yZm5uUk5qUocWlpKTzfuerZnDXv93Q8nTPt-dTVz2bveL-nU0FLi0vRVsHQwIDL3lbBmcvGRN_EDmTms9mb3u-Z9bRv_vMpG55t6Afb87R914uZU4HCLyavUTC3eLmg8XHzisfNq4BmPpux1kjPWM_IFGgmWO3jhq6nUzY-W9vzdMe0xw3dQCVGBkYGesCQ1TOwMDEGKgOFsl5WQboSF5e-loIttQCXgoIC0NlA773Y3P5iRdeLjnagK16snPe0dcWzae0g_2_ofdbeqQCzH-gUoJdA2l6s2v-sYTlIQ3fvi5nzgaKPm_uBggrAQFEAigH1Ois8XbIcRQiouedxQ8_T_vXPWmY_bup83Dj9cWP_44ZesIkrdr9YMQM5IIHhqqCvgBaAQBF4AHKB9D3Z0fC4oRHEety0CIyWPW5uAXLWP27aDiSBrM2Pm9eAyKa9j5uAZsx-3LwZph4o0TwfaLLC4-Ylj5vnAT0BFN4K0ty88nFzH5D_uLnrcdO2x02rgZaDdYHVw3UBlcwE62pufNy0AaQXrqt5AcgFzWshdgGtB7qj-3HzIiAH6BBkTvMaIAV09mqgMf0QZ0Os2vS4ueNx88LHTVsgvgMqBdq2CuKntsfNU4G2ATlbQMqAesDhsQsYxpDwaGwCI6D7m4Cc6Y-beh839hIbHo0rHjd1PW4Ehl_j5MeN6x437nvcuPpx4yqgEY8bu4ESjxtnYoZHY9vjpkkQXS2PGyeCtcx73NTwuKkH7Ja5jxu3QewCqgKashriNmBcAVMDlDMXqBiifyqQAloLSiUQDwFDFOiYGUAz0cIDpBrop0kQE5aArVsG0kN5LoECBS19Li7XDGDhEpCZmJfvUGNQUw2yQMHGQssOzKjOTasFM2oUTBV0gdAUTINwjYIZkARhEM8ALGIIh7oKRmARY7AuCASrAZvmY1gD8ixYFEQDUwqIBUzjID2gFA4S3w4mQex4qPhmoBpQugLSTXuBeAVY12yIbPNmJLvAOiB2GQHlGpsgdgFpYOIBmwsSAclMB_N6wbIgkly7SAmmOBACqTEGQiMgBAUdwYACOad5PpgFcgzIGUvAvHlgsh_J8VvBAQfM8KDsDJYD5l6g2DYgXg3WuQp3YOG2rxEcCE3gAARmCLh9jZOBeB0oZQMxMMc3gpIvMFs2doPVgVTMxBVgoHRiBAwGRPDgCjAIMgIjMyCEBTbWQIM7HMSCeADqWGCAgGRADkIJtOZGoNc2QAIPOdCaF4DTIkjFWtyBhtu-xjZwoE3CCDRgid44ERpgoMzfAMSgUgJcYIBVbMMVaKBsBUo5oFQDCSLMYASGlS6EQKRFkD6QSrg-pFQGStKQZA-MNWApjkhNe_HLANMJSB6ShVdDAxMUsBhZGCmNQYIDlD6A3gdnRliwQDJ_JxaZuWCZHrBOUFEBKk0hMvvAPHBWboRHKSywwGEADgpEkCCCByYMCTRIeQUJRkiQgSWBKQ6qET2ZbQJrAFZWQLwQ7L4t0LABhRO46AAmNUh-QxQtED1tQAzyASRJgmRAekFm4Qi1xgUQnU2g_DYD7FtQ3sdrGzikQCpBhRk41OFFH7j0gIYnKPYgttVycenaKYCqBQUgrcwFAA)]
+- [鋼琴伴奏 TMD 檔案](ehon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-c9WzOWve7-l4Omfa86mrn83e8bh598vuPc8nbHmyZ8vTpf3POzve7-lU0NLiUrRVMDQw4LK3VXDmsjHRN7HjqlNQejZ70_s9s572zX8-ZcOzDf1KILGn7btezJwKFH4xeY2CucXLBY2Pm1c8bl4FtOXZjLVGesZ6RqZAM8FqHzd0PZ2y8dnanqc7pj1u6AYqMTIwMtAzMDDTM7AwMQYqCwCxswrSlbi4XDPy86wCMhPz8oM8HGoMaqq5FIDAxkLLDsyozk2rBTNqFEwVdIHQFEyDcI2CGZAEYRDPACxiCIe6CkZgEWOwLggEqwGb5mNYo_C4aRFYFEQ_bloGYjW3gPU8bloPFt8OJkHseKj4ZqCaNRC6aS8QrwDrmg2Rbd6MZBdYB8QuI6BcYxPELiD9uLELbC5IBCQzHczrBcuCSHLtIiWY4kAIpMYYCI2AEBR0BAMK5Jzm-WAWyDEgZywB8-aByX4kx28FB9zj5pVA3AeWe9zcBRTbBsSrwTpX4Q4s3PY1ggOhCRyAjUgR0zgZiNcB8T4gXg3Eq8CB-bixG6wOpGImrgADpRMjYDAgggdXgEGQERiZASEssLEGGtzhIBbEA1DHAgMEJANyEEqgNTcCvbYBEnjIgda8AJwWQSrW4g403PY1toEDbRJGoLUA8URogM0DqmgA4h5oGp0LVrENV6CBshUo5YBSDSSIMIMRGFa6EAKRFkH6QCrh-pBSGShJQ5I9MNaaQWkAlpr24pcBphOQPCQLr4YGJihgMbIwUhqDBAcofQC9D86MsGCBZP5OLDJzwTI9YJ2gouJx41SozD4wD5yVG-FRCgsscBiAgwIRJIjggQlDAg1SXkGCERJkYElgioNqRE9mm8AaHjd3APFCsPu2QMMGFE7gogOY1CD5DVG0QPS0ATHIB5AkCZIB6QWZhSPUGhdAdDaB8tsMsG9BeR-vbeCQAqkEFWbgUIcXfeDSAxqeoNiD2FaLXCv4INcKJvBaoQBWKxjGK5jGKxiDyRoFk3gQAooZQKSA4kA-WAqiECJFrF6guGk8Ds1gORACKUfRaxYPQkZgBFYHpEHGoFsMVY5iENxeIAmVwupoiDpcjgZLRRvGKkSbxgMJIAOkHxiuunYKoKCN9gEKwdlGYLYyFwA)]
 
 ## 分析
 
@@ -123,7 +127,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 75 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 76 個音符)
 ================================================================================
 ```
 
