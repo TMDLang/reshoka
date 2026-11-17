@@ -16,19 +16,19 @@ tempo: "108"
 image:
   - file: "P220.jpg"
 audio:
-  - id: "6_13_iwa_wo_buchiwari"
+  - id: "iwa_wo_buchiwari"
     label: "鋼琴伴奏版"
-    file: "6_13_iwa_wo_buchiwari.mp3"
+    file: "iwa_wo_buchiwari.mp3"
 tmd_source:
-  - "6_13_iwa_wo_buchiwari.tmd"
-  - "6_13_iwa_wo_buchiwari_piano.tmd"
+  - "iwa_wo_buchiwari.tmd"
+  - "iwa_wo_buchiwari_piano.tmd"
 ---
 
 # 岩をぶちわり
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="6_13_iwa_wo_buchiwari.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="iwa_wo_buchiwari.mp3"></audio>
 
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
@@ -47,14 +47,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="6_13_iwa_wo_buchiwari.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="iwa_wo_buchiwari.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](6_13_iwa_wo_buchiwari.abc)
+[下載 ABC 原始檔](iwa_wo_buchiwari.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](6_13_iwa_wo_buchiwari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjAwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thaebVj5umvS4cdvjxoWPm_ofN3UpaGlxKdoqGBpYcNnbKrhz2Rjrm9iBzHvRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7ofr-n49mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0s3u_pVOLi8k3MzLMKyEzMy3eoMaip5lIAAhsLLTswo0bBVEEXCM2AtAmQZwxkG0JxjYIRkDSNhxFosmD9PjUKj5uWgI143NwPxJuAeA9Q6ePmaY-bm8HCjWBy_ePmVWBDyJAhw6kgURA0QHFq83yoUxuxO3XK4-aVIEbTWnQHwWU2QmUgnoZAmAPxhheRoUlM6OB2JrF6qBai4PAAmb8ZyN4BpPvA1oLd0bQaLAOyFqRyO5i3ECyzG2so1nJx6dopgBKsApBW5gIA)]
-- [鋼琴伴奏 TMD 檔案](6_13_iwa_wo_buchiwari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6aeXjpkmPG7c9blz4uKn_cVPX-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQwMLLntbBXcuG2N9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLNzEzzyogMzEvP8jDocagpppLAQhsLLTswIwaBVMFXSA0A9ImQJ4xkG0IxTUKRkDSNB5GoMmC9fvUKDxuWgI24nFzPxBvAuI9QKWPm6c9bm4GCzeCyfWPm1eBDSFDhgyngkRB0ADFqc3zoU5txO7UKY-bV4IYTWvRHQSX2QiVgXgaAmEOxBteRIYmMaGD25nE6qFaiILDA2T-ZiB7B5DuA1sLdkfTarAMyFqQyu1g3kKwzG6soViLnF59sKdXw3iQc5BJ7GKmxKmjqalEqh5gtwJDXddOARTwCkBamQsA)]
+- [主旋律 TMD 檔案](iwa_wo_buchiwari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjAwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thaebVj5umvS4cdvjxoWPm_ofN3UpaGlxKdoqGBpYcNnbKrhz2Rjrm9iBzHvRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7ofr-n49mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0s3u_pVOLi8k3MzLMKyEzMy3eoMaip5lIAAhsLLTswo0bBVEEXCM2AtAmQZwxkG0JxjYIRkDSNhxFosmD9PjUKj5uWgI143NwPxJuAeA9Q6ePmaY-bm8HCjWBy_ePmVWBDyJAhw6kgURA0QHFq83yoUxuxO3XK4-aVIEbTWnQHwWU2QmUgnoZAmAPxhheRoUlM6OB2JrF6qBai4PAAmb8ZyN4BpPvA1oLd0bQaLAOyFqRyO5i3ECyzG2so1nJx6dopgBKsApBW5gIA)]
+- [鋼琴伴奏 TMD 檔案](iwa_wo_buchiwari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6aeXjpkmPG7c9blz4uKn_cVPX-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQwMLLntbBXcuG2N9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLNzEzzyogMzEvP8jDocagpppLAQhsLLTswIwaBVMFXSA0A9ImQJ4xkG0IxTUKRkDSNB5GoMmC9fvUKDxuWgI24nFzPxBvAuI9QKWPm6c9bm4GCzeCyfWPm1eBDSFDhgyngkRB0ADFqc3zoU5txO7UKY-bV4IYTWvRHQSX2QiVgXgaAmEOxBteRIYmMaGD25nE6qFaiILDA2T-ZiB7B5DuA1sLdkfTarAMyFqQyu1g3kKwzG6soViLnF59sKdXw3iQc5BJ7GKmxKmjqalEqh5gtwJDXddOARTwCkBamQsA)]
 
 ## 分析
 

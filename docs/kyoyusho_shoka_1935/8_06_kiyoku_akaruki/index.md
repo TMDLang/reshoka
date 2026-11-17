@@ -18,19 +18,19 @@ tempo: "92"
 image:
   - file: "P266.jpg"
 audio:
-  - id: "P266"
+  - id: "kiyoku_akaruki"
     label: "鋼琴伴奏版"
-    file: "P266.mp3"
+    file: "kiyoku_akaruki.mp3"
 tmd_source:
-  - "P266.tmd"
-  - "P266_piano.tmd"
+  - "kiyoku_akaruki.tmd"
+  - "kiyoku_akaruki_piano.tmd"
 ---
 
 # 清く明るき
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="P266.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kiyoku_akaruki.mp3"></audio>
 
 - lyricist: 萱島保之
 - composer: 高梨寛之助
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="P266.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="kiyoku_akaruki.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](P266.abc)
+[下載 ABC 原始檔](kiyoku_akaruki.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](P266.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ4MWHj083bnuyf-2RntxJIKjk_tyC_OLXISuHl6hnPFq14un42UOpp10olLi0thWc7Wh839j-b0fe4qftxY6-ClhaXoq2CpRGXva2CO5eNib6JHciQF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi7fxMw8q4DMxLx8hxqDmmouBSCwMTTTsgOzahQMFHTBEJ02jYcyahQMwbSRgjGQBLGNgBjENoGK14B5ID6IBslCdCAMrAFb5lODJIwKHzethVv3uHkFRKx5D1B8PVh2EZhcDRYFk1D1j5sngXX0IXQ0g9U2d4BJiDgCQhxClK8hfjKG-8cMIgWkQCIgsRoFc4iYIYQBVgE3gXi_N89H8nsXXAzi-sdN28H8eVDxPiR2F1jHHihvMhAvAbNAIo-bu8n3O9SvQF8hxzcohk3BtDFQDSQUEOED4ZPk7xYkf3dCxSYBcRuYBQqVx01rIOLAdPC4uR-qZiWyv4GpAiSC8DfJcQ53BcSTRmDvwJIyyHPQ4ADFODiQYPIwtaR5u2kzwttQ9uPmtVDvwUiot4FBAUseIBmYtx837UfyKiSjgJIJqrdrubh07RRABYACkFbmAgA)]
-- [鋼琴伴奏 TMD 檔案](P266_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2o_VxY_-zGX2Pm7ofN_a-39PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwNOKyt1Vw57Ix0Tex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBlrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAi5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMbQTMsOzKpRMFDQBUN02jQeyqhRMATTRgrGQBLENgJiENsEKl4D5oH4IBokC9GBMLAGbJlPDZIwKnzctBZu3ePmFRCx5j1A8fVg2UVgcjVYFExC1T9ungTW0YfQ0QxW29wBJiHiCAhxCFG-hvjJGO4fM4gUkAKJgMRqFMwhYoYQBlgF3ATi_d48H8nvXXAxiOsfN20H8-dBxfuQ2F1gHXugvMlAvATMAok8bu4m3-9QvwJ9hRzfoBg2BdPGQDWQUECED4RPkr9bkPzdCRWbBMRtYBYoVB43rYGIA9PB4-Z-qJqVyP4GpgqQCMLfJMc53BUQTxqBvQNLyiDPQYMDFOPgQILJw9SS5u2mzQhvQ9mPm9dCvQcjod4GBgUseYBkYN5-3LQfyauQjAJKJqjerkXO_z4k5n_DeERyMIWzEaIIMRMkldjkEWJIZpJgO34zEWLI7jSmmu0Ikwj4CEkeP4sU2_H7mPhQQvY7MFno2imAUoYCkFbmAgA)]
+- [主旋律 TMD 檔案](kiyoku_akaruki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ4MWHj083bnuyf-2RntxJIKjk_tyC_OLXISuHl6hnPFq14un42UOpp10olLi0thWc7Wh839j-b0fe4qftxY6-ClhaXoq2CpRGXva2CO5eNib6JHciQF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi7fxMw8q4DMxLx8hxqDmmouBSCwMTTTsgOzahQMFHTBEJ02jYcyahQMwbSRgjGQBLGNgBjENoGK14B5ID6IBslCdCAMrAFb5lODJIwKHzethVv3uHkFRKx5D1B8PVh2EZhcDRYFk1D1j5sngXX0IXQ0g9U2d4BJiDgCQhxClK8hfjKG-8cMIgWkQCIgsRoFc4iYIYQBVgE3gXi_N89H8nsXXAzi-sdN28H8eVDxPiR2F1jHHihvMhAvAbNAIo-bu8n3O9SvQF8hxzcohk3BtDFQDSQUEOED4ZPk7xYkf3dCxSYBcRuYBQqVx01rIOLAdPC4uR-qZiWyv4GpAiSC8DfJcQ53BcSTRmDvwJIyyHPQ4ADFODiQYPIwtaR5u2kzwttQ9uPmtVDvwUiot4FBAUseIBmYtx837UfyKiSjgJIJqrdrubh07RRABYACkFbmAgA)]
+- [鋼琴伴奏 TMD 檔案](kiyoku_akaruki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni2o_VxY_-zGX2Pm7ofN_a-39PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwNOKyt1Vw57Ix0Tex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBlrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAi5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMbQTMsOzKpRMFDQBUN02jQeyqhRMATTRgrGQBLENgJiENsEKl4D5oH4IBokC9GBMLAGbJlPDZIwKnzctBZu3ePmFRCx5j1A8fVg2UVgcjVYFExC1T9ungTW0YfQ0QxW29wBJiHiCAhxCFG-hvjJGO4fM4gUkAKJgMRqFMwhYoYQBlgF3ATi_d48H8nvXXAxiOsfN20H8-dBxfuQ2F1gHXugvMlAvATMAok8bu4m3-9QvwJ9hRzfoBg2BdPGQDWQUECED4RPkr9bkPzdCRWbBMRtYBYoVB43rYGIA9PB4-Z-qJqVyP4GpgqQCMLfJMc53BUQTxqBvQNLyiDPQYMDFOPgQILJw9SS5u2mzQhvQ9mPm9dCvQcjod4GBgUseYBkYN5-3LQfyauQjAJKJqjerkXO_z4k5n_DeERyMIWzEaIIMRMkldjkEWJIZpJgO34zEWLI7jSmmu0Ikwj4CEkeP4sU2_H7mPhQQvY7MFno2imAUoYCkFbmAgA)]
 
 ## 分析
 

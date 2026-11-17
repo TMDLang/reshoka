@@ -16,19 +16,19 @@ tempo: "72"
 image:
   - file: "P254.jpg"
 audio:
-  - id: "7_19_kyushi_o_omou"
+  - id: "kyushi_o_omou"
     label: "鋼琴伴奏版"
-    file: "7_19_kyushi_o_omou.mp3"
+    file: "kyushi_o_omou.mp3"
 tmd_source:
-  - "7_19_kyushi_o_omou.tmd"
-  - "7_19_kyushi_o_omou_piano.tmd"
+  - "kyushi_o_omou.tmd"
+  - "kyushi_o_omou_piano.tmd"
 ---
 
 # 舊師を憶ふ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_19_kyushi_o_omou.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kyushi_o_omou.mp3"></audio>
 
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
@@ -47,14 +47,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_19_kyushi_o_omou.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="kyushi_o_omou.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_19_kyushi_o_omou.abc)
+[下載 ABC 原始檔](kyushi_o_omou.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_19_kyushi_o_omou.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTE0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thRcdXU93rH7cNOlZ27bHjVsVtLS4FG0VzI247G0VXLhsTPRN7EBmvWjf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQpPp2x8trYHKPRs7oSXs9seN3S_39PxbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhbv93QqcXH5JmbmWQVkJublO9QY1FRzKQCBjYWWHZhRo2CsoAuERgqGQBLErlEwBYtAoAFYxATMNgHLg9TVANWjqQGb5lOj8LhpEVjwcfNCIO4DsyaBtTxuhsggIEj1aojqpj2EVUMdDHIAyMHGQAeZKpjBHWwYB0K6CuZwT5hBsSlQLRZvIZy8DOpkkCPmAfm7oOw9YIcsgTpxKxBvB7PWQ53YBta1CUx2gMlVcF0gOazOB7kRBEHugQQ4yMVg9xuB5MAEMIQh6oCiEG-Y4_UC2BEQZ4Kd2DwD4sSm_VCvAb0FDlmIPEgGRINk-oDsVWDWInB8gORgpqE7HpJYIMkFFAMwJyEnDUhigfgNpA4WY1hDHmQxxBlAy8FhPgkWgk3QcG9uBWJQMoEkCYSnQCJTwWQH2DuIuEJ2eC0Xl66dAigTKABpZS4A)]
-- [鋼琴伴奏 TMD 檔案](7_19_kyushi_o_omou_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjR0fV0x-rHTZOetW173Lj1_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CuRGXva2CC5eNib6JHVedgtKL9l3PGxc_37H3-dzFT3fNebF22dPumU83Njxu6Ho2deaLpk3POhueT1mh8HTKxmdre4BCz-ZOeDm77XFDN9CaZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEAWqzExeWbmJlnFZCZmJcf5OFQY1BTzaUABDYWWnZgRo2CsYIuEBopGAJJELtGwRQsAoEGYBETMNsELA9SVwNUj6YGbJpPjcLjpkVgwcfNC4G4D8yaBNbyuBkig4Ag1ashqpv2EFYNdTDIASAHGwMdZKpgBnewYRwI6SqYwz1hBsWmQLVYvIVw8jKok0GOmAfk74Ky94AdsgTqxK1AvB3MWg91YhtY1yYw2QEmV8F1geSwOh_kRhAEuQcS4CAXg91vBJIDE8AQhqgDikK8YY7XC2BHQJwJdmLzDIgTm_ZDvQb0FjhkIfIgGRANkukDsleBWYvA8QGSg5mG7nhIYoEkF1AMwJyEnDQgiQXiN5A6WIxhDXmQxRBnAC0Hh_kkWAg2QcO9uRWIQckEkiQQngKJTAWTHWDvIOIK2eG1yHnAB3seMIwHKjUFEWAWmICKohG4RMGa0Qh4jBNjOkQHKXYim06ce5DYYGXGpJiObA5RrsSnFhQrunYKoIhRANLKXAA)]
+- [主旋律 TMD 檔案](kyushi_o_omou.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTE0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thRcdXU93rH7cNOlZ27bHjVsVtLS4FG0VzI247G0VXLhsTPRN7EBmvWjf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQpPp2x8trYHKPRs7oSXs9seN3S_39PxbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhbv93QqcXH5JmbmWQVkJublO9QY1FRzKQCBjYWWHZhRo2CsoAuERgqGQBLErlEwBYtAoAFYxATMNgHLg9TVANWjqQGb5lOj8LhpEVjwcfNCIO4DsyaBtTxuhsggIEj1aojqpj2EVUMdDHIAyMHGQAeZKpjBHWwYB0K6CuZwT5hBsSlQLRZvIZy8DOpkkCPmAfm7oOw9YIcsgTpxKxBvB7PWQ53YBta1CUx2gMlVcF0gOazOB7kRBEHugQQ4yMVg9xuB5MAEMIQh6oCiEG-Y4_UC2BEQZ4Kd2DwD4sSm_VCvAb0FDlmIPEgGRINk-oDsVWDWInB8gORgpqE7HpJYIMkFFAMwJyEnDUhigfgNpA4WY1hDHmQxxBlAy8FhPgkWgk3QcG9uBWJQMoEkCYSnQCJTwWQH2DuIuEJ2eC0Xl66dAigTKABpZS4A)]
+- [鋼琴伴奏 TMD 檔案](kyushi_o_omou_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjR0fV0x-rHTZOetW173Lj1_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CuRGXva2CC5eNib6JHVedgtKL9l3PGxc_37H3-dzFT3fNebF22dPumU83Njxu6Ho2deaLpk3POhueT1mh8HTKxmdre4BCz-ZOeDm77XFDN9CaZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEAWqzExeWbmJlnFZCZmJcf5OFQY1BTzaUABDYWWnZgRo2CsYIuEBopGAJJELtGwRQsAoEGYBETMNsELA9SVwNUj6YGbJpPjcLjpkVgwcfNC4G4D8yaBNbyuBkig4Ag1ashqpv2EFYNdTDIASAHGwMdZKpgBnewYRwI6SqYwz1hBsWmQLVYvIVw8jKok0GOmAfk74Ky94AdsgTqxK1AvB3MWg91YhtY1yYw2QEmV8F1geSwOh_kRhAEuQcS4CAXg91vBJIDE8AQhqgDikK8YY7XC2BHQJwJdmLzDIgTm_ZDvQb0FjhkIfIgGRANkukDsleBWYvA8QGSg5mG7nhIYoEkF1AMwJyEnDQgiQXiN5A6WIxhDXmQxRBnAC0Hh_kkWAg2QcO9uRWIQckEkiQQngKJTAWTHWDvIOIK2eG1yHnAB3seMIwHKjUFEWAWmICKohG4RMGa0Qh4jBNjOkQHKXYim06ce5DYYGXGpJiObA5RrsSnFhQrunYKoIhRANLKXAA)]
 
 ## 分析
 

@@ -18,19 +18,19 @@ tempo: "100"
 image:
   - file: "P264.jpg"
 audio:
-  - id: "P264"
+  - id: "okeiko_no_yoru"
     label: "鋼琴伴奏版"
-    file: "P264.mp3"
+    file: "okeiko_no_yoru.mp3"
 tmd_source:
-  - "P264.tmd"
-  - "P264_piano.tmd"
+  - "okeiko_no_yoru.tmd"
+  - "okeiko_no_yoru_piano.tmd"
 ---
 
 # お稽古の夜
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="P264.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="okeiko_no_yoru.mp3"></audio>
 
 - lyricist: 莊倩沛
 - composer: 岩田泉
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="P264.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="okeiko_no_yoru.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](P264.abc)
+[下載 ABC 原始檔](okeiko_no_yoru.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](P264.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ40df1tGHls02zlUDiyfm5BfnFqUVWCk83rXw-ZcOzzZ1KXFpaCo8bu56v2Pu0f8njxnVPl8xR0NLiUrRVMDQw4LK3VXDjsjHRN7ED6X_Rvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7ofr-n49mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0s3u8BuobLNzEzzyogMzEv36HGoKaaSwEIbCy07MCMGgVDIDQCQmMFXQVTIK5RMAOSIAjiGYBFQHIgbATEhmAREAsGwWrApvnUKDxuWgXEG4F4CRBvVnjc3AeUfty8AqwNwgPBx817oCyQniUgkaa1YHILWHY-VD1IHzKEWARxEsiBIMdCnI3sQBCNUAOTAXkWp7M3gy1fj3BC0xqo43aCHbQSLIZgw53dPANMtsG9AJLZj8PZIOfCnAxyFiQkkR0KEQE51CweysAX3M0QF4Pse9y0HewSUBAjfAQmm8FB29wPkWneBOZ1gslmuOtBMqtxutsM6EJToAuNgY4xhDoJ5BSQmyGpBHfgAgMMH4aogKULGAtZFOGcWi4uXTsFUJpWANLKXAA)]
-- [鋼琴伴奏 TMD 檔案](P264_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PV8xd6n_UseN657umTO-z0dL7v3PJ-w5cmeLU-X9r9YCxTpVNDS4lK0VTA0MOCyt1Vw47Ix0Tex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBtrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAm5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMZCyw7MqFEwBEIjIDRW0FUwBeIaBTMgCYIgngFYBCQHwkZAbAgWAbFgEKwGbJpPjcLjplVAvBGIlwDxZoXHzX1A6cfNK8DaIDwQfNy8B8oC6VkCEmlaCya3gGXnQ9WD9CFDiEUQJ4EcCHIsxNnIDgTRCDUwGZBncTp7M9jy9QgnNK2BOm4n2EErwWIINtzZzTPAZBvcCyCZ_TicDXIuzMkgZ0FCEtmhEBGQQ83ioQx8wd0McTHIvsdN28EuAQUxwkdgshkctM39EJnmTWBeJ5hshrseJLMap7vNgC40BbrQGOgYQ6iTQE4BuRmSSnAHLjDA8GGICli6gLGQRRHOqUVO0j44knQ8KORMwSSEDSFhMpgkqgyyzhooD5OEBQ0hM5FNg-rEohq3DNQ0grZh-pdYGVL8BnMnsmoiwxgUd7p2CqDoUwDSylwA)]
+- [主旋律 TMD 檔案](okeiko_no_yoru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ40df1tGHls02zlUDiyfm5BfnFqUVWCk83rXw-ZcOzzZ1KXFpaCo8bu56v2Pu0f8njxnVPl8xR0NLiUrRVMDQw4LK3VXDjsjHRN7ED6X_Rvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7ofr-n49mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0s3u8BuobLNzEzzyogMzEv36HGoKaaSwEIbCy07MCMGgVDIDQCQmMFXQVTIK5RMAOSIAjiGYBFQHIgbATEhmAREAsGwWrApvnUKDxuWgXEG4F4CRBvVnjc3AeUfty8AqwNwgPBx817oCyQniUgkaa1YHILWHY-VD1IHzKEWARxEsiBIMdCnI3sQBCNUAOTAXkWp7M3gy1fj3BC0xqo43aCHbQSLIZgw53dPANMtsG9AJLZj8PZIOfCnAxyFiQkkR0KEQE51CweysAX3M0QF4Pse9y0HewSUBAjfAQmm8FB29wPkWneBOZ1gslmuOtBMqtxutsM6EJToAuNgY4xhDoJ5BSQmyGpBHfgAgMMH4aogKULGAtZFOGcWi4uXTsFUJpWANLKXAA)]
+- [鋼琴伴奏 TMD 檔案](okeiko_no_yoru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2PV8xd6n_UseN657umTO-z0dL7v3PJ-w5cmeLU-X9r9YCxTpVNDS4lK0VTA0MOCyt1Vw47Ix0Tex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBtrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAm5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMZCyw7MqFEwBEIjIDRW0FUwBeIaBTMgCYIgngFYBCQHwkZAbAgWAbFgEKwGbJpPjcLjplVAvBGIlwDxZoXHzX1A6cfNK8DaIDwQfNy8B8oC6VkCEmlaCya3gGXnQ9WD9CFDiEUQJ4EcCHIsxNnIDgTRCDUwGZBncTp7M9jy9QgnNK2BOm4n2EErwWIINtzZzTPAZBvcCyCZ_TicDXIuzMkgZ0FCEtmhEBGQQ83ioQx8wd0McTHIvsdN28EuAQUxwkdgshkctM39EJnmTWBeJ5hshrseJLMap7vNgC40BbrQGOgYQ6iTQE4BuRmSSnAHLjDA8GGICli6gLGQRRHOqUVO0j44knQ8KORMwSSEDSFhMpgkqgyyzhooD5OEBQ0hM5FNg-rEohq3DNQ0grZh-pdYGVL8BnMnsmoiwxgUd7p2CqDoUwDSylwA)]
 
 ## 分析
 

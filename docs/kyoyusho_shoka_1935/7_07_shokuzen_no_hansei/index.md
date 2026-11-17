@@ -18,19 +18,19 @@ tempo: "84"
 image:
   - file: "P238.jpg"
 audio:
-  - id: "7_07_shokuzen_no_hansei"
+  - id: "shokuzen_no_hansei"
     label: "鋼琴伴奏版"
-    file: "7_07_shokuzen_no_hansei.mp3"
+    file: "shokuzen_no_hansei.mp3"
 tmd_source:
-  - "7_07_shokuzen_no_hansei.tmd"
-  - "7_07_shokuzen_no_hansei_piano.tmd"
+  - "shokuzen_no_hansei.tmd"
+  - "shokuzen_no_hansei_piano.tmd"
 ---
 
 # 食前の反省
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_07_shokuzen_no_hansei.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shokuzen_no_hansei.mp3"></audio>
 
 - lyricist: 大橋藤孝
 - composer: 赤尾寅吉
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_07_shokuzen_no_hansei.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="shokuzen_no_hansei.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_07_shokuzen_no_hansei.abc)
+[下載 ABC 原始檔](shokuzen_no_hansei.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_07_shokuzen_no_hansei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjC0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh6ZLlz1Z2v5i-5OnauWCp5Pzcgvzi1CIrhRdblzzdsO_p-tanEzqVuLS0FF4unv-0s_dx47qn_b3P5zQqaGlxKdoqWJhw2dsqOHPZGOub2IFMeNG-63nj4uc79j6fu_jprjkv1i572j3z6caGxw1dz6bOfNG06Vlnw_MpKxSeTtn4bG0PUOjZ3AkvZ7c9buh-v6fj2Yy1Tyf1PO1tfLpzy_s9Pc-3LHo2e8eLmfMVDMyNTBUMTSze7wE6hss3MTPPKiAzMS_focagpppLAQhsLLTswIwaBVMFXTAE0TUKZlAeiK5RMIfyDOPAXCMQBYM1YP0-NQqPm1c9bl76uGkZVOJx8x6wagzxpu1Q8c1wkfVQkT4Mg2sUjGG2ga2tgTgC4Ta4Y6COg7nVAMVtTXC7wHaARLbARfrR3QN3OYhGdw9q0JhAecYQx6DwYHIgGimYpqFb07QDLtINFVkCE2naD3VKA1wEHFiwwMFqIcgZCDmw4-E8tHBZBLd6FdTqNehWN21FMQg9VGq5uHTtFECpSwFIK3MBAA)]
-- [鋼琴伴奏 TMD 檔案](7_07_shokuzen_no_hansei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5eP7Tzt7Hjeue9vc-n9P4fk_Hy-49zydsebJny9Ol_S_Wznm_p1NBS4tL0VbBwoTL3lbBmcvGWN_EjqtOQelF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDpl47O1PUChZ3MnvJzd9rihG2jNsxlrn07qedrb-HTnlvd7ep5vWfRs9o4XM-crGJgbmSoYmlgALVbi4vJNzMyzCshMzMsP8nCoMaip5lIAAhsLLTswo0bBVEEXDEF0jYIZlAeiaxTMoTzDODDXCETBYA1Yv0-NwuPmVY-blz5uWgaVeNy8B6waQ7xpO1R8M1xkPVSkD8PgGgVjmG1ga2sgjkC4De4YqONgbjVAcVsT3C6wHSCRLXCRfnT3wF0OotHdgxo0JlCeMcQxKDyYHIhGCqZp6NY07YCLdENFlsBEmvZDndIAFwEHFixwsFoIcgZCDux4OA8tXBbBrV4FtXoNutVNW1EMQg-VWuTE5YM9cRnGA5UiCCwCpiAKTGAIgAmYhxF6IMLUMIloN6GrIGwSLkdimAQMRV07BVBAKgBpZS4A)]
+- [主旋律 TMD 檔案](shokuzen_no_hansei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjC0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh6ZLlz1Z2v5i-5OnauWCp5Pzcgvzi1CIrhRdblzzdsO_p-tanEzqVuLS0FF4unv-0s_dx47qn_b3P5zQqaGlxKdoqWJhw2dsqOHPZGOub2IFMeNG-63nj4uc79j6fu_jprjkv1i572j3z6caGxw1dz6bOfNG06Vlnw_MpKxSeTtn4bG0PUOjZ3AkvZ7c9buh-v6fj2Yy1Tyf1PO1tfLpzy_s9Pc-3LHo2e8eLmfMVDMyNTBUMTSze7wE6hss3MTPPKiAzMS_focagpppLAQhsLLTswIwaBVMFXTAE0TUKZlAeiK5RMIfyDOPAXCMQBYM1YP0-NQqPm1c9bl76uGkZVOJx8x6wagzxpu1Q8c1wkfVQkT4Mg2sUjGG2ga2tgTgC4Ta4Y6COg7nVAMVtTXC7wHaARLbARfrR3QN3OYhGdw9q0JhAecYQx6DwYHIgGimYpqFb07QDLtINFVkCE2naD3VKA1wEHFiwwMFqIcgZCDmw4-E8tHBZBLd6FdTqNehWN21FMQg9VGq5uHTtFECpSwFIK3MBAA)]
+- [鋼琴伴奏 TMD 檔案](shokuzen_no_hansei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni5eP7Tzt7Hjeue9vc-n9P4fk_Hy-49zydsebJny9Ol_S_Wznm_p1NBS4tL0VbBwoTL3lbBmcvGWN_EjqtOQelF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDpl47O1PUChZ3MnvJzd9rihG2jNsxlrn07qedrb-HTnlvd7ep5vWfRs9o4XM-crGJgbmSoYmlgALVbi4vJNzMyzCshMzMsP8nCoMaip5lIAAhsLLTswo0bBVEEXDEF0jYIZlAeiaxTMoTzDODDXCETBYA1Yv0-NwuPmVY-blz5uWgaVeNy8B6waQ7xpO1R8M1xkPVSkD8PgGgVjmG1ga2sgjkC4De4YqONgbjVAcVsT3C6wHSCRLXCRfnT3wF0OotHdgxo0JlCeMcQxKDyYHIhGCqZp6NY07YCLdENFlsBEmvZDndIAFwEHFixwsFoIcgZCDux4OA8tXBbBrV4FtXoNutVNW1EMQg-VWuTE5YM9cRnGA5UiCCwCpiAKTGAIgAmYhxF6IMLUMIloN6GrIGwSLkdimAQMRV07BVBAKgBpZS4A)]
 
 ## 分析
 

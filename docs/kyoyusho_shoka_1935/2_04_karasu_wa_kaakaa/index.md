@@ -4,7 +4,7 @@ song_title: "からすはかあかあ"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_2_04_karasu_wa_kaakaa"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈からすはかあかあ〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：からすはかあかあ　ないてゐる すずめはちゆうちゆう　ないてゐる…"
+description: "〈からすはかあかあ〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) カラスハ　カアカア　ナイテヰル…"
 keywords: "からすはかあかあ, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -35,37 +35,40 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P075.jpg，原書 p. 47）：
-調性與拍號：F 調 2/4 拍子，♩=100
+標題：譜面標題印「からすはかあかあ」，底欄歌詞標題印「四　からすはかあ／＼」
+調性與拍號：F 大調（1 降記號）2/4 拍子（原譜未標速度，演奏速度為編者設定）
+〔譜下歌詞〕
 
 
 ## 歌詞
 
 ```text
-一、
-からすはかあかあ　ないてゐる
-すずめはちゆうちゆう　ないてゐる
-しやうじもあかるく　なつてきた
-はやくおきないと　おそくなる
+(一)
+カラスハ　カアカア　ナイテヰル
+スズメハ　チュウチュウ　ナイテヰル
+シャウジモ　アカルク　ナツテキタ
+ハーヤク　オキナイト　オソクナル
 
-二、
-きものをきかへ　おびをしめ
-てうづをつかひに　ゆきませう
-たらひにみづを　くみいれて
-やうじをつかひ　くちすすぎ
+(二)
+きものを　きーかへ　おびをしめ
+てうづを　つかひに　ゆきませう
+たらひに　みーづを　くみいれて
+やうじを　つかひー　くちすすぎ
 
-三、
-お顔もていねいに　よく洗ひ
+〔底欄歌詞〕
+(三)
+お顏もていねいに　よく洗ひ
 手先もていねいに　よく洗ひ
 きれいになつたら　お早うと
 朝のお禮を　いたしませう
 
-四、
+(四)
 しづかにごはんを　いたゞいて
 紙やはんかち　忘れずに
 持つたら行きませう　學校へ
 さつさと歩いて　おくれずに
 
-五、
+(五)
 今日も遊ばん　つれだつて
 よき歌うたひ　面白い
 いうぎもいくつも　いたしませう
@@ -80,8 +83,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](karasu_wa_kaakaa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzJF0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpW4tLQUHjd2P27qfNw483HjehC7sQlCKmhpcSnaKhgaGHDZ2yq4cdkY6ZvYgUx90b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z09z7csejZ7x4uZ8xUMzI1MFQxNLN7v6VTi4tLXUrClFuBSUFB42jcfZM_m9hcrul50tAPd9WLlvKetK55Nawc66umG3mftnQqg6NHLKkgHuguiXqFAT8HEHOii93tmgUx5sWr_s4blIP3dvUA3A0XdQGIKwJBRAAo9XTsBqPXRzJW2oEADaXiyAxgqjSAWrlB-3NDwuHHV48aWx43LHjdNeNzUDVENVDfrcVMjWPXCx01tjxuBCMbAoWf64yagEFDFjMdNQOPBNjQBLemHaVgC0tDY-7hxPkTDerCG_seNXWBRiJErwKqBInPBUqtAxoP9sqsH7pdesAXrHjdNAmsE2rEDpmszWBDoFKhSoIVAFy0FiwLtByrd9LhxNUg1yC9AzfseN84GqoGong8OJLCKxv1QbSCDgQ4BclseN_UATQQrRXgVyWCo0oXg8AOiPmgsdMJd3vVy4RSw44HuApqwFkxCnNMB1Ptsy3SgOSClzzq7n7Z2EKUUHB5Ah4GloeEM9gg4SJ5NXwl26QqwqXOAoboOKPp8GTj0QCqA2uaDQgweEuAEO3s23M1AqaVgDwJNnwKOtckoepvmQdICSPXzLTPBQQNWBNKzEKju6X5gMAEdOAtoBNgVPcCEBXXki4VACUQ0gFSv3fFsATAId0BsnwpWCiRXPFsL9Ak40UHjuh9hKiSFTIG6-cluoLeBkdf0EqRsA8gtIC1LwOoXQBIiJBaBIdkLzI3gEAKGAigKX85d9HzmXqBNEPsh8dwHjglIagUaA8k3GCEHyzqQxNz1ZPfUJ7u6cSqlvGiBAgUtfS4u78SixOLS8ETvxMTsxESrgMzEvHyHGoOaapBVCjYWWnZgBraSTeH5mjXAogIYFQoaJgpPN_Q_X9-gAy-ONLFoAFoIMqxGwRAMjYAsYzAEsUB8QwWzeCDTNF5BV8EAiGvA6n1qQAURMNg7QeEEKgGAasAiwPIeRoNEVoECHpR7gWongESauoGGgGANOKpxe2NXDzneADoWiICuBbsa5AGQZ2qANMgrEO9heATkgVlApzXCPQIsIFuBVBsykzLv7ABlEJK9YwqFEJYZmGUM9RbIUxheAZaXzVCHzwC6DhIJ0CgBuhWY7OH-WAzxR2MvWGQ-cf4AFifkpS7kiID4CJLKIOkMwx_rgVxg-QN3cBfYoZCqBUitgAvOBSsB-Qg1Nmq5uHTtFFDzkgJQRJkLAA)]
-- [鋼琴伴奏 TMD 檔案](karasu_wa_kaakaa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2P24qfNx48zHjetB7MYmCPl-T8fL7j3PJ2x5smfL06X9L9bOeb-nU0FLi0vRVsHQwIDL3lbBjcvGSN_EjqtOQelF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDpl47O1PUChZ3MnvJzd9rihG2jPsxlrn07qedrb-HTnlvd7ep5vWfRs9o4XM-crGJgbmSoYmlgAbVbi4vJOLEosLg1P9E5MzE5MtArITMzLD_JwqDGoqeZSAAIbCy07MENfS8EWHSg8X7PmyY6GFwt7FDRMFJ5u6H--vkFHIcDA3FQvqyBdE4sGLX2wYTUKhmBoBGQZgyGIBeIbKpjFA5mm8Qq6CgZAXANW71MDClIFYJgC6ZlAvB6oBizS2ASnQSKrgLgFiJcB1U4AiTR1Aw0BwRou_N7Y1UOON4COBSKga8GuBnkA5JkaIA3yCsR7GB4BeWAW0GmNcI8sfNzUCqTakJmUeWdHJzneMYVCCMsMzDKGegvkKQyvTH_c1Ax1-Ayg6yCRAI0SoFsfN_bD_bEY4o_GXrDIfOL88XT2bPJSF3JEQHwESWWQdIbhj_VA7uMmUFBDHNwFdijQ4ZDwXwEXnAtWAvIRamzUYs9KPshZyQSalYAuiAchFNosHpLuQakJyIKnL5gMTClcBUwEt5Go6tHUgcRgClHNA3pF104B1TcKQBFlLgA)]
+- [主旋律 TMD 檔案](karasu_wa_kaakaa.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzJF0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpEVZaZn5lmV5oFsLEGzpyQjFRgKiXmZuYk56KIlmbmp8flp8SmJlehS0CDJyUxLVeLS0lJ43Nj9uKnzcePMx43rQezGJgipoKXFpWirYGhgwGVvq-DGZWOkb2IHMutF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDpl47O1PUChZ3MnvJzd9rih-_2ejmcz1j6d1PO0t_Hpzi3v9_Q837Lo2ewdL2bOVzAwNzJVMDSxeL-nU4mLS19LwZZagEtBQeFp33yQPZvbX6zoetHRDnTXi5XznraueDatHeiopxt6n7V3KoDSgV5WQTrQXRD1CgV6CibmQBe93zMLZMqzFTNfLuwBcl6snfNy7iII92nvhscNPbhC8XFDL8i4XVOfrWmB2Iqs6-ns2Y8bGjD1vt_T_37PHqBekK0vVu1_1rAc5OruXmBIAa13U3i6ZDlQGOh0Q4WXM3tfrJgBlugERpECUNXTtRNAvuqbD3TnszmrQDY2zH-6axnQJc_2THm6tB_Cfd606_n2FS8aWl-sWPt03Sygfi6QfY8bpgD1PdnRDXHv44apIFGNJzsaNMHSTasfN6983LTzcXM_yPFAbtMiKAnkNnc9blryuLntcfOGx82rIRp2Pm7a9bh5IVRDc-Pj5qWPm5YhGDi0bX_cvBgk3bTjcTPYbIg9zUCr1kP1NLeA9DStfdy0H6wHaEPznsfNS6AqmlaB5KBmd8BE9oJkQZpXg_2r8WRXD8Rnjb2Pm4Dxtu5x0yRwtPSCDANFyA4wt-tx42aQVOP0x02NEA3LHje2PW4EegKiYQlY9abHjavBdgGleh837nvcOBuoDKJhPjimYSoa94NtgOvvB4k0tjxuAqanZZBAaAHbMAPdBqA2qIaF4IQDRH2w2ENObYjY64T6sevlwn6wN4FuBxq-FkxC3NsBNPDZlulA88GpvbP7aWsHUUrBIQd0M1i6cRXYmWCfgoPt2fSVYE-sAJs6Zy4ohBu7ni-DhzNQ23xQqMKDCuxkYOaAOhkosxTsb6DhU0CZpGkyitameWAGOMSeb5kJDjSwIpCehUB1T_cDAxDovllAI8CO6GmEu_HFQqAEIppAqtfueLYAGKw7ILZPBSsFkiuerQV6BGQRLDkAAxJmKjQlTQE7-cluoKeBsdr0EqRqA8gpkMgDKV8ANg8avcBw7AXGFDh8gGGwCagOWLI8n7kXaBHEekgC6APHA5ANjHGgMcByBVu4gTUAkwLQO8BI6Hqye-qTXd04lVJetEKBgpY-F5d3YlFicWl4ondiYnZiolVAZmJevkONQU01yCoFGwstOzADW8mu8HzNGmDxAowJBQ0Thacb-p-vb9CBF8eaWDQALQQZVqNgCIZGQJYxGIJYIL6hglk8kGkar6CrYADENWD1PoY1oPILWE6sBBVLoPICqAgs0rQITgNFmruArCVAug2IN4BFVgNNAZkGNckIKNbYC1TVBKTXAelJIFVAEV1QjQrEO8B8oDmNm8GywNAH29UINwd_eOzqISc8gL4GIqC3wd4HhQQoVGqANChMIOGEGSLAkGjaBfTjQliIgItmoOAyZCbx4QLU1ghU0QjSBwkXoB5wqGwC4tXgcADJA8OvcR8QzwaraSMyZHaA8izJIWMKhRCWGZhlDA0hUPhghgqo_oGEQdMOoEfBCQOWTIDeBtYisCBpboEESdNasJr9WIJkPlC8EzkAGkGqkIOoHywGzKpAkR6wyDLiAgRYUJKXdbAlDlAWgmQijAABJg2gi5uBUQnxedMqsI8h9SuQ6oAL7gUrAQUNjhTSBPQkOIXMwJJCgCqhwQFMj40zwRgk0gc3p5aLS9dOAbXEUQCKKHMBAA)]
+- [鋼琴伴奏 TMD 檔案](karasu_wa_kaakaa_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2P24qfNx48zHjetB7MYmCPl-T8fL7j3PJ2x5smfL06X9L9bOeb-nU0FLi0vRVsHQwIDL3lbBjcvGSN_EjqtOQelF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDpl47O1PUChZ3MnvJzd9rihG2jPsxlrn07qedrb-HTnlvd7ep5vWfRs9o4XM-crGJgbmSoYmlgAbVbi0tdSAKp92jcf6JRnc1Y9WzHzZcP8p7uWAXU82zMF6EQI93nTrufbV7xoaH2xYu3TdbPAjtbn4vJOLEosLg1P9E5MzE5MtArITMzLD_JwqDGoqeZSAAIbCy07MANojS06UHi-Zs2THQ0vFvYoaJgoPN3Q_3x9g45CgIG5qV5WQbomFg1AK0GG1SgYgqERkGUMhiAWiG-oYBYPZJrGK-gqGABxDVi9j2GNwuOm1QqPm1cC6Z1Auh-oCCzStAhOA0Wau4CsJUC6DYg3gEVWA00BmQY1yQgo1tgLVNUEpNcB6UkgVUARXVCUA_EOMB9oTuNmsOzjxulguxrh5uAPj1095IQH0NdABPQ22PugkACFSg2QBoUJJJwwQwQYEk27gH5cCAuR5sbHzUuBgsuQmcSHC1BbI1BFI0gfJFyAesChsgmIV4PDASQPDL_GfUA8G6ymjciQ2dFJTsiYQiGEZQZmGUNDCBQ-mKGy_XHzYkgYNO0AehScMGDJBOjtx03rYUHS3AIJkqa1YDX7sQTJfKB4J3IANIJUIQdRP1jscSPQrKYesMgy4gLk6ezZ5GUdbIkDlIUgmQgjQIBJA-jiZmBUQnzetArsY2AIQNJEB1xwL1gJKGhwpJAmoCfBKWQGlhQCVAkNDmB6bJwJxiCRPrg5tdgLHB_kAscEWuAAvRKvEG0Yi84wiQexTOPjgd6EuKxGwQQuDlcKUmAUrw3MUWBBhFrspsL1YFEIEkaoNIXZA1IJ9JCunQKqn6J9gGqxiBqBRZW5AA)]
 
 ## 分析
 
@@ -98,15 +101,15 @@ tmd_source:
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      KarasuWaKaakaa (19.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, A, C, F, D
-   - 調性數值:    C 大調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.77), F 大調 (0.72), A 小調 (0.62)
+   - 核心骨幹音:  G, A, F, C, D
+   - 調性數值:    C 調性不明確 [相關度: 0.72, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.72), F 大調 (0.70), A 小調 (0.57)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [KarasuWaKaakaa #1]: C 大調 (r: 0.77, 自然音純度: 100.0%)
+     • [KarasuWaKaakaa #1]: C 調性不明確 (r: 0.72, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -119,16 +122,16 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ███████████████████       21.4%
+     C  : ███████████████           17.9%
      C# :                            0.0%
      D  : ████████                   8.9%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ██████████████████        19.6%
+     F  : ██████████████████        21.4%
      F# :                            0.0%
-     G  : ████████████████████████  26.8%
+     G  : ████████████████████████  28.6%
      G# :                            0.0%
-     A  : █████████████████████     23.2%
+     A  : ████████████████████      23.2%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------

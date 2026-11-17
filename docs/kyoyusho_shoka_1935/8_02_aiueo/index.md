@@ -19,19 +19,19 @@ image:
   - file: "P260.jpg"
   - file: "P261.jpg"
 audio:
-  - id: "P260"
+  - id: "aiueo"
     label: "鋼琴伴奏版"
-    file: "P260.mp3"
+    file: "aiueo.mp3"
 tmd_source:
-  - "P260.tmd"
-  - "P260_piano.tmd"
+  - "aiueo.tmd"
+  - "aiueo_piano.tmd"
 ---
 
 # アイウエオ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="P260.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="aiueo.mp3"></audio>
 
 - lyricist: 吉村繁
 - composer: 岩田泉
@@ -54,14 +54,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="P260.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="aiueo.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](P260.abc)
+[下載 ABC 原始檔](aiueo.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](P260.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ4OqHz2dyJz3c2KoHEk_NzC_KLU4uA4ptWPp-y4dnmTiUuLS2Fx02LHjctedy07HHTisdNqxS0tLgUbRUMDSy47G0VnHS4bIz0TexABrxo3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0v9_T8WzG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYW7_cAncPlm5iZZxWQmZiX71BjUFPNpQAENhZadmBGjYIxFNYoGAFJIwVDIMssXkEXQtQA-YZAUSALrN6nBui5JQqPm-dBcTtQyeOm7UDWSiDuAsuCRBYBtYDYICOAAQHEK4B4FdwgmMUgedwWG6JYDDK-eeXj5mYg1QYxGUg_bloDpOeDaZBdq8E2r4XavB6INwLxZiSbwRaADAdZrQvEBhBBOIIq0QVJILwN8dJWoGWTwEavAfGbW4B4BdwqoCwoMJp2gkV2gw1B9zIorCH2GIJtNgJ7Hqe1QGOb-4F4KhCvAhu7H8jaDMRzgLgbLtIIdUwbOFw60KyGWQjytGk8CEGD2TgehCBCuPwNNhjs80Vgw0Hx0A3mQSIBxu8B4l6wSB-a9SCLYWELtx7MQ05_WK3eBPVfH3IgA_0HDQ1w2EyChs8MsMhsuOW1XFy6dgqgHKAApJW5AA)]
-- [鋼琴伴奏 TMD 檔案](P260_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOhx05LHTcseN6143LTq_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CoYEFl72tgpMOl42RvokdV52C0ov2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaHwdMrGZ2t7gELP5k54ObvtcUM30KJnM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sQBarcTF5ZuYmWcVkJmYlx_k4VBjUFPNpQAENhZadmBGjYIxFNYoGAFJIwVDIMssXkEXQtQA-YZAUSALrN6nBujnJQqPm-dBcTtQyeOm7UDWSiDuAsuCRBYBtYDYICOA4QPEK4B4FdwgmMUgedwWG6JYDDK-eeXj5mYg1QYxGUg_bloDpOeDaZBdq8E2r4XavB6INwLxZiSbwRaADAdZrQvEBhBBOIIq0QVJILwN8dJWoGWTwEavAfGbW4B4BdwqoCwoMJp2gkV2gw1B9zIorCH2GIJtNgJ7Hqe1QGOb-4F4KhCvAhu7H8jaDMRzgLgbLtIIdUwbOFw60KyGWQjytGk8CEGD2TgehCBCuPwNNhjs80Vgw0Hx0A3mQSIBxu8B4l6wSB-a9SCLYWELtx7MQ05_WK3eBPVfH3IgA_0HDQ1w2EyChs8MsMhsuOW1yBnAB3sGMIwHhgsSBjkQwoLR2NTAWCA1IAz3KEWmwUXwmgbDoMSD3yxYYBKhDm4qZSYRI0KpWWhhAIplXTsFUEQrAGllLgA)]
+- [主旋律 TMD 檔案](aiueo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ4OqHz2dyJz3c2KoHEk_NzC_KLU4uA4ptWPp-y4dnmTiUuLS2Fx02LHjctedy07HHTisdNqxS0tLgUbRUMDSy47G0VnHS4bIz0TexABrxo3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0v9_T8WzG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYW7_cAncPlm5iZZxWQmZiX71BjUFPNpQAENhZadmBGjYIxFNYoGAFJIwVDIMssXkEXQtQA-YZAUSALrN6nBui5JQqPm-dBcTtQyeOm7UDWSiDuAsuCRBYBtYDYICOAAQHEK4B4FdwgmMUgedwWG6JYDDK-eeXj5mYg1QYxGUg_bloDpOeDaZBdq8E2r4XavB6INwLxZiSbwRaADAdZrQvEBhBBOIIq0QVJILwN8dJWoGWTwEavAfGbW4B4BdwqoCwoMJp2gkV2gw1B9zIorCH2GIJtNgJ7Hqe1QGOb-4F4KhCvAhu7H8jaDMRzgLgbLtIIdUwbOFw60KyGWQjytGk8CEGD2TgehCBCuPwNNhjs80Vgw0Hx0A3mQSIBxu8B4l6wSB-a9SCLYWELtx7MQ05_WK3eBPVfH3IgA_0HDQ1w2EyChs8MsMhsuOW1XFy6dgqgHKAApJW5AA)]
+- [鋼琴伴奏 TMD 檔案](aiueo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOhx05LHTcseN6143LTq_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CoYEFl72tgpMOl42RvokdV52C0ov2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaHwdMrGZ2t7gELP5k54ObvtcUM30KJnM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sQBarcTF5ZuYmWcVkJmYlx_k4VBjUFPNpQAENhZadmBGjYIxFNYoGAFJIwVDIMssXkEXQtQA-YZAUSALrN6nBujnJQqPm-dBcTtQyeOm7UDWSiDuAsuCRBYBtYDYICOA4QPEK4B4FdwgmMUgedwWG6JYDDK-eeXj5mYg1QYxGUg_bloDpOeDaZBdq8E2r4XavB6INwLxZiSbwRaADAdZrQvEBhBBOIIq0QVJILwN8dJWoGWTwEavAfGbW4B4BdwqoCwoMJp2gkV2gw1B9zIorCH2GIJtNgJ7Hqe1QGOb-4F4KhCvAhu7H8jaDMRzgLgbLtIIdUwbOFw60KyGWQjytGk8CEGD2TgehCBCuPwNNhjs80Vgw0Hx0A3mQSIBxu8B4l6wSB-a9SCLYWELtx7MQ05_WK3eBPVfH3IgA_0HDQ1w2EyChs8MsMhsuOW1yBnAB3sGMIwHhgsSBjkQwoLR2NTAWCA1IAz3KEWmwUXwmgbDoMSD3yxYYBKhDm4qZSYRI0KpWWhhAIplXTsFUEQrAGllLgA)]
 
 ## 分析
 

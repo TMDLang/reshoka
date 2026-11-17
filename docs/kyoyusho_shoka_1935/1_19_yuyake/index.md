@@ -4,7 +4,7 @@ song_title: "夕やけ"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_1_19_yuyake"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈夕やけ〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：葛原しげる、曲：小松耕輔），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：夕やけ　小やけ　あした天氣になれ 遠くの方の　山に　からすがとんで歸る…"
+description: "〈夕やけ〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：葛原しげる、曲：小松耕輔），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) 夕やけ　小やけ　あした天氣になれ…"
 keywords: "夕やけ, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -40,17 +40,18 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P059.jpg，原書 p. 32）：
-調性與拍號：G 調 2/4 拍子，♩=96
+調性與拍號：G 調 2/4 拍子（原譜未標速度，演奏速度 != 96 為編者設定）
+右上角署名：葛原しげる歌・小松耕輔曲
 
 
 ## 歌詞
 
 ```text
-一、
+(一)
 夕やけ　小やけ　あした天氣になれ
 遠くの方の　山に　からすがとんで歸る
 
-二、
+(二)
 夕やけ　小やけ　あした天氣になれ
 歸りませうよ　早く　くれぬまに早く
 ```
@@ -63,8 +64,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yuyake.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMTC0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thadLpj5uanncOFFBS4tL0VbB0ozL3lbBncvGSN_EDmTKi5Xz3u-Z9WLi7Kd98x83Tn_cOOlxUzfY_GezNwFlnm7ofzZ334uGqS_2TAELv2jf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQpPp2x8trYHKPRs7oSXs9seN3S_39PxbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhbv93QqcXHpaynYUgtwKSgoAP0Gsmdz-4sVXS862oHuAnr7aeuKZ9PagY56uqH3WXunAij-9LIK0oHugqhXKNBTMDYCuggYDCBTXqza_6xhOUh_dy_QzUBRd5CYAjAoFYBCT9dOAGp9NHOlLTCQQeqf7AAGSiPYflgsPG5oAAYonP24sQkc5vOfLln5bMPix42rHzeuetzUA9LzsnHB48b-x43rnk3bCSRBOjduBKkAaet-3NT5uHHm48aex40rHjdNfty4_NnaHcCYg1i8q4cCi8EGdT1u3Pe4cfbjxrbHTR1ADc-mrwS5BqQTaArQ1jVgBash4iBtlMcUFCho6XNxRZZWJmYD81RmYl6-Q41BTTXICgUbQzMtOzALWwpReL5mDTDMXyzsUdAwUQB69_n6Bh14tGpi0QC0CWRYjYKRgi4cGwMxqogBVAQEQSJGCoZACFEDgmbxMEVg43xqFB43tQG5jxu3gsimFjB7ItiUx42T0cRAECTeBMTTgXg-WGYZUM1kIN0LxKvB8qugaoHBD9MFjm3cYbGrh7ywQEB8YQEKAxAN9j1CkSFGWDSuAOLdQNwPxOuAeD0Qt4HZYJ9Dw2IfmFyNFCLdQLlOID0TiHsg5oDDZDlcHqRjBzhMQGxImNRycenaKUASkAKQpcwFAA)]
-- [鋼琴伴奏 TMD 檔案](yuyake_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6ZOrjppbHjRPf7-l42b3n-YQtT_Zsebq0_8XaOe_3dCpoaXEp2ipYmnHZ2yq4c9kY6ZvYcdUpKL1YOe_9nlkvJs5-2jf_ceP0x42THjd1K4Fkns3eBJR5uqH_2dx9LxqmvtgzBSz8on3X88bFz3fsfT538dNdc16sXfa0e-bTjQ2PG7qeTZ35omnTs86G51NWKDydsvHZ2h6g0LO5E17Obnvc0A1017MZa59O6nna2_h055b3e3qeb1n0bPaOFzPnKxiYG5kqGJpYAF2qxMUVWVqZmJ1qFZCZmJcf5OFQY1BTzaUABDaGZlp2YJa-loItOlB4vmbNkx0NLxb2KGiYKAAd_nx9g45CgIGppV5WQbomFg1a-mDDahSMFHTh2BiIUUUMoCIgCBIxUjAEQogaEDSLhykCG-dTo_C4qQ3Ifdy4FUQ2tYDZE8GmPG6cjCYGgiDxJiCeDsTzwTLLgGomA-leIF4Nll8FVfu4qQemiwt_WOzqIS8sEBBfWIDCAESDfY9QZIgRFo0rgHg3EPcD8TogXg_EbWA22OfQsNgHJlcjhUg3UK4TSM8E4h6IOeAwWQ6XB-nYAQ4TEBsSJrWo6ccHOf2YQJMP0LnxCqbx8RAGEIFpQyhtBpLAow4sD9MAsk_XTgFipQKQpcwFAA)]
+- [主旋律 TMD 檔案](yuyake.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMTC0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI68xJLSolR00ZLM3NT4_LT4lMRKdKnEvMzcxBwlLi0thadLpj5uanncOFFBS4tL0VbB0ozL3lbBncvGSN_EDqTtxcp57_fMejFx9tO--Y8bpz9unPS4qRts4LPZm4AyTzf0P5u770XD1Bd7poCFX7Tvet64-PmOvc_nLn66a86Ltcueds98urHhcUPXs6kzXzRtetbZ8HzKCoWnUzY-W9sDFHo2d8LL2W2PG7rf7-l4NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDE4v3ezqVuLj0tRRsqQW4FBQUgH4D2bO5_cWKrhcd7UB3Ab39tHXFs2ntQEc93dD7rL1TAZRY9LIK0oHugqhXKNBTMDYCuggYDCBTXqza_6xhOUh_dy_QzUBRd5CYAjAoFYBCT9dOABnWN__F2jnP5qx6tmLmy4b5T3ctA5r3bM-Up0v7IVwFcCwoPG_a9Xz7ihcNrS9WrH26bhbQFrBD-zc_2dH1Yvmk53s3PZ3QixkzQKc_bt6NHCnAaOICadV4sqNBE2wGLMofNzQAFcLZjxubwMbMf7pk5bMNix83rn7cuOpxUw9Iz8vGBY8b-x83rns2bSeQBOncuBGkAqSt-3FT5-PGmY8bex43rnjcNPlx4_Jna3cAHQO1d1cP2faCzel63LjvcePsx41tj5s6gBqeTV8JcgxIJ9AUoKVrwApWQ8RB2ihPFVCgoKXPxRVZWpmYDSwsMhPz8h1qDGqqQVYo2BiaadmBWdhSo8LzNWuAAf5iYY-ChokC0LvP1zfowJOQJhYNQJtAhtUoGCnowrExEKOKGEBFQBAkYqRgCIQQNSBoFg9TBDbOx7BG4XHzMiD_cfNUMLkERDZtBBvzuGkzmhhIN0h8ERBvB-L9YPk2IN4M5K0F0t0g-eYuqHWPm9fAdEHsMwLpbgPJNG4Fm9oCZk-EmNs4GU0Mal9jExBPB-L5YJllQDWTgXQvEK8Gy6-C2dfUA7cPf-Dv6iEv8CHQGAzxBb4hmAQHN0KRIZbA7wDi2UCHrwfSfUDcD2QDPQhkg70OCfzmeWCyGykKVgP5K4H0TiBeAzUHGAnN7XB5kI4ZYBLERouExm4g3gFU1wWk9wEx0A2NwIhs6oAG-XqkqOhHigoQGxTMwHwF1gmSB5mPUw9XLReXrp0CJJsoAFnKXAA)]
+- [鋼琴伴奏 TMD 檔案](yuyake_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMTC0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thadLpj5uanncOPH9no6X3XueT9jyZM-Wp0v7X6yd835Pp4KWFpeirYKlGZe9rYI7l42RvokdyOgXK-e93zPrxcTZT_vmP26c_rhx0uOmbrClz2ZvAso83dD_bO6-Fw1TX-yZAhZ-0b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6Aa669mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0sgC5V4uKKLK1MzAYGc2ZiXn6Qh0ONQU01lwIQ2BiaadmBWfpaCrboQOH5mjVPdjS8WNijoGGiAHT48_UNOgqguNLLKkjXxKJBSx9sWI2CkYIuHBsDMaqIAVQEBEEiRgqGQAhRA4Jm8TBFYON8DGsUHjcvA_IfN08Fk0tAZNNGsDGPmzajiYF0g8QXAfF2IN4Plm8D4s1A3log3Q2Sb-6CWve4eQ1MF8Q-I5DuNpBM41awqS1g9kSIuY2T0cSg9jU2AfF0IJ4PllkGVDMZSPcC8Wqw_CqYfU09cPvwB_6uHvICHwKNwRBf4BuCSXBwIxQZYgn8DiCeDXT4eiDdB8T9QDbQg0A22OuQwG-eBya7kaJgNZC_EkjvBOI1UHOAkdDcDpcH6ZgBJkFstEho7AbiHUB1XUB6HxAD3dAIjMimDmiQr0eKin6kqACxQcH8uBFoK1AnSB5kPk49XLWoucQHOZdYQDMJMIziFaKN4nNjFQyBDMNYoIhpPJBlGh8LZhhgVQIXMYMoIcMskM5oMxALSRVQH8g0oMt17RQgjo_2ARqExDMC85S5AA)]
 
 ## 分析
 
@@ -84,9 +85,9 @@ tmd_source:
 🗝  調性診斷：       A 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, G, E, B
+   - 核心骨幹音:  A, B, G, E
    - 調性數值:    A 調性不明確 [相關度: 0.70, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A 小調 (0.70), A 大調 (0.69), D 大調 (0.44)
+   - 候選調性 (K-S): A 小調 (0.70), A 大調 (0.70), D 大調 (0.44)
    - 五度圈歷程:   +3
    - 各段落調性細節:
      • [Yuyake #1]: A 調性不明確 (r: 0.70, 自然音純度: 100.0%)
@@ -109,11 +110,11 @@ tmd_source:
      E  : ██                         7.1%
      F  :                            0.0%
      F# :                            0.0%
-     G  : ███                       10.7%
+     G  : ███                        8.9%
      G# :                            0.0%
-     A  : ████████████████████████  75.0%
+     A  : ████████████████████████  73.2%
      A# :                            0.0%
-     B  : ██                         7.1%
+     B  : ████                      10.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Piano         : E4 – B4 (7 個半音 / 0.6 個八度, 36 個音符)

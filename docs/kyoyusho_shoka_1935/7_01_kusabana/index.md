@@ -16,19 +16,19 @@ tempo: "92"
 image:
   - file: "P232.jpg"
 audio:
-  - id: "7_01_kusabana"
+  - id: "kusabana"
     label: "鋼琴伴奏版"
-    file: "7_01_kusabana.mp3"
+    file: "kusabana.mp3"
 tmd_source:
-  - "7_01_kusabana.tmd"
-  - "7_01_kusabana_piano.tmd"
+  - "kusabana.tmd"
+  - "kusabana_piano.tmd"
 ---
 
 # 草花
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_01_kusabana.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kusabana.mp3"></audio>
 
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
@@ -47,14 +47,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_01_kusabana.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="kusabana.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_01_kusabana.abc)
+[下載 ABC 原始檔](kusabana.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_01_kusabana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjI0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thRe9nS-6NipoaXEp2ipYGnHZ2yq4cNmY6JvYgYx40b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z09z7csejZ7x4uZ8xUMzI1MFQxNLN7v6VTi4vJNzMyzCshMzMt3qDGoqeZSAAIbCy07MKNGwVhBF4xNoHSNghmQBGGEiGEcCJlDxUGwBswDQQO4CEwfUCmUqAHb4VOj8Lh5PpD7uHkPiGxaAmavBWt63LQTzIPIrwGTfVCZZUB2C5BeD9a1HW7R42aQCcgQpHo1wobmfrg9ECeAnAv2gRmSr0AuNwRCEM9QwTwe5IV4qI9g4kC_g2RATJhnEZ5q2gy28HFzGxBPhVu-CawPpPxx016wdx43zwPLzAOrAXmgG2ogqgqQDEQNQgXYe1y1XFy6dgqgqFQA0spcAA)]
-- [鋼琴伴奏 TMD 檔案](7_01_kusabana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjR2_mia-P7PR0vu_c8n7DlyZ4tT5f2v1g75_2eTgUtLS5FWwVLIy57WwUXLhsTfRM7rjoFpRftu543Ln6-Y-_zuYuf7przYu2yp90zn25seNzQ9WzqzBdNm551NjyfskLh6ZSNz9b2AIWezZ3wcnbb44ZuoDXPZqx9OqnnaW_j051b3u_peb5l0bPZO17MnK9gYG5kqmBoYgG0WImLyzcxM88qIDMxLz_Iw6HGoKaaSwEIbCy07MCMGgVjBV0wNoHSNQpmQBKEESKGcSBkDhUHwRowDwQN4CIwfUClUKIGbIdPjcLj5vlA7uPmPSCyaQmYvRas6XHTTjAPIr8GTPZBZZYB2S1Aej1Y13a4RY-bQSYgQ5Dq1Qgbmvvh9kCcAHIu2AdmSL4CudwQCEE8QwXzeJAX4qE-gokD_Q6SATFhnkV4qmkz2MLHzW1APBVu-SawPpDyx017wd553DwPLDMPrAbkgW6ogagqQDIQNQgVYO9x1SLHpA_2mDQEOR6NwCtqii4KFkAjcJgAtROsxBjdHHAIwvn4jEF3A9RwoHd17RRAPlYA0spcAA)]
+- [主旋律 TMD 檔案](kusabana.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjI0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thRe9nS-6NipoaXEp2ipYGnHZ2yq4cNmY6JvYgYx40b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z09z7csejZ7x4uZ8xUMzI1MFQxNLN7v6VTi4vJNzMyzCshMzMt3qDGoqeZSAAIbCy07MKNGwVhBF4xNoHSNghmQBGGEiGEcCJlDxUGwBswDQQO4CEwfUCmUqAHb4VOj8Lh5PpD7uHkPiGxaAmavBWt63LQTzIPIrwGTfVCZZUB2C5BeD9a1HW7R42aQCcgQpHo1wobmfrg9ECeAnAv2gRmSr0AuNwRCEM9QwTwe5IV4qI9g4kC_g2RATJhnEZ5q2gy28HFzGxBPhVu-CawPpPxx016wdx43zwPLzAOrAXmgG2ogqgqQDEQNQgXYe1y1XFy6dgqgqFQA0spcAA)]
+- [鋼琴伴奏 TMD 檔案](kusabana_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjR2_mia-P7PR0vu_c8n7DlyZ4tT5f2v1g75_2eTgUtLS5FWwVLIy57WwUXLhsTfRM7rjoFpRftu543Ln6-Y-_zuYuf7przYu2yp90zn25seNzQ9WzqzBdNm551NjyfskLh6ZSNz9b2AIWezZ3wcnbb44ZuoDXPZqx9OqnnaW_j051b3u_peb5l0bPZO17MnK9gYG5kqmBoYgG0WImLyzcxM88qIDMxLz_Iw6HGoKaaSwEIbCy07MCMGgVjBV0wNoHSNQpmQBKEESKGcSBkDhUHwRowDwQN4CIwfUClUKIGbIdPjcLj5vlA7uPmPSCyaQmYvRas6XHTTjAPIr8GTPZBZZYB2S1Aej1Y13a4RY-bQSYgQ5Dq1Qgbmvvh9kCcAHIu2AdmSL4CudwQCEE8QwXzeJAX4qE-gokD_Q6SATFhnkV4qmkz2MLHzW1APBVu-SawPpDyx017wd553DwPLDMPrAbkgW6ogagqQDIQNQgVYO9x1SLHpA_2mDQEOR6NwCtqii4KFkAjcJgAtROsxBjdHHAIwvn4jEF3A9RwoHd17RRAPlYA0spcAA)]
 
 ## 分析
 

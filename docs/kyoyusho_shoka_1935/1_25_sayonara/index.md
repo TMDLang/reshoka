@@ -4,7 +4,7 @@ song_title: "さよなら"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_1_25_sayonara"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈さよなら〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：八波則吉、曲：平岡均之），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：かへるが　鳴くから　歸りませう さよなら　さよなら　またあした…"
+description: "〈さよなら〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：八波則吉、曲：平岡均之），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) かへるが　鳴くから　歸りませう…"
 keywords: "さよなら, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 八波則吉, 平岡均之"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -40,22 +40,23 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P065.jpg，原書 p. 38）：
-調性與拍號：F 調 2/4 拍子，♩=100
+調性與拍號：F 調 2/4 拍子（原譜未標速度，演奏速度為編者設定）
+作者標示：八波則吉歌／平岡均之曲
 
 
 ## 歌詞
 
 ```text
-一、
+(一)
 かへるが　鳴くから　歸りませう
-さよなら　さよなら　またあした
-あしたも　早く　眼をさまし
+さよなら／＼　また　あした
+あしたも早く　眼を　さまし
 みんなで　なかよく　遊びませう
 
-二、
+(二)
 かあさま　呼ぶから　歸りませう
-さよなら　さよなら　またあした
-空には　ぴかぴか　お星さま
+さよなら／＼　また　あした
+空には　ぴか／＼　お星さま
 おうちに　あかりも　つきました
 ```
 
@@ -67,8 +68,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sayonara.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzJB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpW4tLQUHjdOfdzU8bhx1eOmTgUtLS5FWwVDAwMue1sFNy4bI30TO5BJL1bOe79n1tPW1c82L3ra2f50QifYgmezN4GEd25-umnh07ntT3Z2g4VftO963rj4-Y69z-cufrprzou1y552z3y6seFxQ9ezqTNfNG161tnwfMoKhadTNj5b2wMUejZ3wsvZbY8but_v6Xg2Y-3TST1Pexuf7tzyfk_P8y2Lns3e8WLmfAUDcyNTBUMTi_d7gJZz6Wsp2FILcCkoKDztmw-yZ3P7ixVdLzrage4C-vlp64pn09qBjnq6ofdZe6cCKAL1sgrSge6CqFco0FMwBrkIGAwgU16s2v-sYTlIf3cv0M1AUTeQmAIwHBWAQk_XTgBqfTRzpS0oiEEanuwAhkojiPW4sftx447HTUCy53FDw8vNWx439oMEmzqB3GdrgVJdjxv3PW6c_bixDaIBEXFAFRhcoNL5jxubHjdOBzIgGqCcx01NICOnrwTZ0NDwfM6ex02TQPpBeqZDlO5_3DQZZFjjcrBhQAbQJUDjQRpeNgJdshnhGLBHdgFdjfAI0CawcQ0NTyfuedy4jaoeeb5y1-PG1Y8b14OlgeEEtBBMgrhdz2YAVYMsh5gNtKvtceNCkAaQNNAYoEu6IEHwuHHJ48ZeiLehZlOemqBAQUufiys4sTI_L7Eo0SogMzEv36HGoKYaZImCjYWWHZiBLRkrPF-zBpguXizsUdAwUXi6of_5-gYdeNrTxKIBaBXIsBoFIyiEsIyBsEbBEAghYsYKukBooFADVu1TA4oqIN6hAEx1QLoHqAQY7EDcD5EBFgjIarqA9D6wCCjmwGbpAs3C749dPeT4A-RyiOtNwRDEQvjNENMfU4Hu64C4HupqTJF9QDwflAuAeDpYZD6RntjRSY4nQAFvqGAWD_JFPNAWIAtIE4gQiOPADm1qAjtyPVDJ46YWcLQA-U2NQDwJ4kFodEwnzhtPZ88mxxumQJMhMWAGhIi4MMYVF6CiA-RmcFJaDk9UoAQFihCwL8D-nAvEm7EnqlouLl07BVj2UQCylbkA)]
-- [鋼琴伴奏 TMD 檔案](sayonara_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPVxU8fjxlWPmzrf7-l42b3n-YQtT_Zsebq0_8XaOe_3dCpoaXEp2ioYGhhw2dsquHHZGOmb2HHVKSi9WDnv_Z5ZT1tXP9u86Gln-9MJnUog4WezN4GEd25-umnh07ntT3Z2g4VftO963rj4-Y69z-cufrprzou1y552z3y6seFxQ9ezqTNfNG161tnwfMoKhadTNj5b2wMUejZ3wsvZbY8buoGuejZj7dNJPU97G5_u3PJ-T8_zLYuezd7xYuZ8BQNzI1MFQxMLoDuVuLiCEyvz8xKLEq0CMhPz8oM8HGoMaqq5FIDAxkLLDszQ11KwRQcKz9esebKj4cXCHgUNE4WnG_qfr2_QUQgwMDPVyypI18SiQUsfbFiNghEUQljGQFijYAiEEDFjBV0gNFCoAav2qQEGdjcQ71B43ASie4BKgAEPxP0QmaZOsAhMTReQ3gcWmf24sQ1sli7QLPz-2NVDjj9ALoe43hQMQSyE3wwx_TEV6L4OiOuhrsYU2QfE84G4CYing0XmE-mJHZ3keAIU8IYKZvEgX8QDbQGygDSBCIE4DuzQpiawI9cDlTxuagFHC5Df1AjEkyAehEbHdOK88XT2bHK8YQo0GRIDZkCIiAtjXHGx_3HTZJCbwUlpOTxRgRIUKELAvgD7cy4Qb8aeqGrRc48Pcu4xgeYeUMCCAhUSxPEKhuDghYkAGSABWGwgpME0QieGOjO4gXAF-Ew0wWki0Be6dgowjygA2cpcAA)]
+- [主旋律 TMD 檔案](sayonara.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzJB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpEVZaZn5lmVJGZC_VmeGJ-bmJmXk5iHZGFJRiowONKKMlPzUoozMgvQZUoyc1Pj89PiUxIrMTQl5mbmYIgm5mXmJuYocWlpKTxunPq4qeNx46rHTZ0KWlpcirYKhgYGXPa2Cm5cNkb6JnYgrS9Wznu_Z9bT1tXPNi962tn-dEIn2MRnszeBhHdufrpp4dO57U92doOFX7Tvet64-PmOvc_nLn66a86Ltcueds98urHhcUPXs6kzXzRtetbZ8HzKCoWnUzY-W9sDFHo2d8LL2W2PG7rf7-l4NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDE4v3e4CWc-lrKdhSC3ApKCg87ZsPsmdz-4sVXS862oHuAvr5aeuKZ9PagY56uqH3WXunAigd6WUVpAPdBVGvUKCnYAxyETAYQKa8WLX_WcNykP7uXqCbgaJuIDEFYDgqAIWerp0AMqxv_ou1c57NWfVsxcyXDfOf7loGNO_ZnilPl_ZDuM-bdj3fvuJFQ-uLFWufrpsFNB5k9pO9c4BCQD3Pl-xCiwyga9_v6UeOB2DMcIE0aTzZ0aAJYjxu7H7cuONxE5DsedzQ8HLzlseN_SDBpk4g99laoFTX48Z9jxtnP25sg2hApAug4e_37AGqA6uYD2Y0PW6cDmRDlEI5j5uank1fCTK4oeH5nD2PmyaBlU4Fa5sOUbr_cdNkkKmNy8FyQAbQDUB7QHpeNgLdsBnhDIgPdvUgfAC0CGxaQ8PTiXseN26jkg-er9z1uHH148b1YAlg0ABTIlxD17MZ8yHWQkwF2tL2uHEhSAPUGKAbuoB-B3OXPG7shfgXajbl6RMKFLT0ubiCEyvz8xKLEq0CMhPz8h1qDGqqQZYo2Fho2YEZ2DKGwvM1a4AJ4cXCHgUNE4WnG_qfr2_QgadmTSwagFaBDKtRMIJCCMsYCGsUDIEQImasoAuEBgo1YNU-hjUKj5tWKzxungHEQLppDVDN4-YuIGs9VGYlSASuZhUQzwOL7H7ctAxsWDzMMCOgcGM3KHGBYhKI94EVdgBZ2yAywAILpmYHkAe0BqIGnALghuEPlV095IQKKByMwSFgCoagUEGElCGWUNkK9OkKSFhAwwBDBBgSj5v2A_EiIN4OVrMfS5AAgwIcCMCwgwYApsg-IJ4PDbrpYJH5RIbHjk5ywgOUIkCwRsEsHmiNIYhCTifYQgTiS7CPmxeB_d8PVPO4eQk4tYD4C4F4EzSkIKlkO5bwmAv2NTA3AjFYHzj_goxq3AJOHSAhUNrYDQ4MUHBBgoioAHk6ezY5AQJJFLqgAAFC5AQCyUAYwdE8_3HzZmhqaAdrhOQbUE4BphJIiIDDbC9QZDKhfAMqo4AUMASB4QI2DZwWQJkGZGoTWAQY0o290NSCnkpqubh07RRgpY0CkK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](sayonara_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzJB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpW4tLQUHjdOfdzU8bhx1eOmzvd7Ol5273k-YcuTPVueLu1_sXbO-z2dClpaXIq2CoYGBlz2tgpuXDZG-iZ2IONfrJz3fs-sp62rn21e9LSz_emETrCtz2ZvAgnv3Px008Knc9uf7OwGC79o3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0A131bMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAdypxcQUnVubnJRYlWgVkJublB3k41BjUVHMpAIGNhZYdmKGvpWCLDhSer1nzZEfDi4U9ChomCk839D9f36CjAIotvayCdE0sGrT0wYbVKBhBIYRlDIQ1CoZACBEzVtAFQgOFGrBqH8MahcdNqxUeN88AYiDdtAao5nFzF5C1HiqzEiQCV7MKiOeBRXY_bloGNiweZpgRULixG4ibQFEIxPvACjuArG0QmaZOkAhYzQ4gD2gNRE3j7MeNbXDD8IfKrh5yQgUUDsbgEDAFQ1CoIELKEEuobAX6dAUkLKBhgCECDInHTfuBeBEQbwer2Y8lSIBBAQ4EYNhBAwBTZB8Qz4cG3XSwyHwiw2NHJznhAUoRIFijYBYPtMYQRCGnE2whAvEl2MfNi8D-7weqedy8BJxaQPyFQLwJGlKQVLIdS3jMBfv6cSMwTTWC9TVuAaUJoFGNW8CpAyQEShu7wYEBCi5IEBEVIE9nzyYnQCCJQhcUIECInEAgGQgjOJrnP27eDE0N7WCNkHwDyinAVAIJEXCY7QWKTCaUb7pAOeBxIzAEgeECNg2cFkCZBmRqE1gEGNKNvdDUgp5KatELGx9shU2NQrRpfCxQC5RC8A2hXDCNkAVzEV6HKwCSYEXIAsjGEWMAWN4Eoh5CkWQ_RDsuy0FiqPqBIaRrpwALpGgfkBQy3wjMV-YCAA)]
 
 ## 分析
 
@@ -79,21 +80,21 @@ tmd_source:
 ⏱  Duration:       0:19 (19.2s), 16 measures total
 🎼 Key & Tempo:    首調基準 F, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Sayonara #1 @ m.10, 0:10]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Sayonara #1 @ m.10, 0:10]
    - 最高音: D5 in [Sayonara #1 @ m.14, 0:15]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Sayonara (19.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, A, F, C, D
-   - 調性數值:    F 調性不明確 [相關度: 0.69, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.69), C 大調 (0.68), A 小調 (0.60)
+   - 核心骨幹音:  F, G, A, C, D
+   - 調性數值:    F 大調 [相關度: 0.71, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.71), C 大調 (0.58), D 小調 (0.53)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Sayonara #1]: F 調性不明確 (r: 0.69, 自然音純度: 100.0%)
+     • [Sayonara #1]: F 大調 (r: 0.71, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -106,21 +107,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████████            16.7%
+     C  : ████████                  10.0%
      C# :                            0.0%
-     D  : ██████                     6.7%
+     D  : ███████                    8.3%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ██████████████████        21.7%
+     F  : ████████████████████████  30.0%
      F# :                            0.0%
-     G  : ████████████████████████  28.3%
+     G  : ████████████████████████  30.0%
      G# :                            0.0%
-     A  : ███████████████████████   26.7%
+     A  : █████████████████         21.7%
      A# :                            0.0%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 50 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 50 個音符)
 ================================================================================
 ```
 

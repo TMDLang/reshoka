@@ -18,19 +18,19 @@ tempo: "100"
 image:
   - file: "P267.jpg"
 audio:
-  - id: "P267"
+  - id: "kokugo_yagakukai_no_uta"
     label: "鋼琴伴奏版"
-    file: "P267.mp3"
+    file: "kokugo_yagakukai_no_uta.mp3"
 tmd_source:
-  - "P267.tmd"
-  - "P267_piano.tmd"
+  - "kokugo_yagakukai_no_uta.tmd"
+  - "kokugo_yagakukai_no_uta_piano.tmd"
 ---
 
 # 國語夜學會の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="P267.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kokugo_yagakukai_no_uta.mp3"></audio>
 
 - lyricist: 輿水武
 - composer: 赤尾寅吉
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="P267.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="kokugo_yagakukai_no_uta.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](P267.abc)
+[下載 ABC 原始檔](kokugo_yagakukai_no_uta.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](P267.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ4sWf_sw1bnq1dpgQST87PLcgvTi0Cim9d8nTDvqfrW59O6FTi0tJSeDqn-8WqeU-XzHm6dsezOc2PG9c9W9ujoKXFpWirYGhgwGVvq-DGZWOkb2IHMuhF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDplI9AYoNCzuRNezm573ND9fk_Hsxlrn07qedrb-HTnlvd7ep5vWfRs9o4XM-crGJgbmSoYmli83wN0E5dvYmaeVUBmYl6-Q41BTTWXAhDYGJpp2YFZNQrGCrpAaKxgBCQNgbgGzAJhkIwpWMQMSIIwiAcShaiByYNgDdg0nxqFx839YIHHzauh7MfNe8BaHjctA_PWgMim7WByCVRmM5i3HkxuAavqg8g0g1Q8boLoAckjLIM4C-QwVGfBPGIWDxYCMWGuBdEQERg0QHF70yKI25v2A21eheJ2sHubW8Gyq8HsLqjMRrAY2G9QVS1Qt3cjWYTsbpAzQI7BF8AgFgjDRGERhc3ZUItAwQ0JOISzwZ4AB_PjprVgGWjANu0G88AB39wAZ4NMA6nA52wcgYvwCcwXhIIbnlS6MNwNCeJNYBLiB1ASAOkBBTs0QUCSUvM8qJ6dGO6u5eLStVMA5QAFIK3MBQA)]
-- [鋼琴伴奏 TMD 檔案](P267_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6p_vFqnlPl8x5unbHsznNjxvXPVvb835Px8vuPc8nbHmyZ8vTpf0v1s55v6dTQUuLS9FWwdDAgMveVsGNy8ZI38SOq05B6UX7rueNi5_v2Pt87uKnu-a8WLvsaffMpxsbHjd0PZs680XTpmedDc-nrFB4OmUj0Gyg0LO5E17Obnvc0A2059mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0sgDYrcXH5JmbmWQVkJublB3k41BjUVHMpAIGNoZmWHZhVo2CsoAuExgpGQNIQiGvALBAGyZiCRcyAJAiDeCBRiBqYPAjWgE3zqVF43NwPFnjcvBrKfty8B6zlcdMyMG8NiGzaDiaXQGU2g3nrweQWsKo-iEwzSMXjJogekDzCMoizQA5DdRbMI2bxYCEQE-ZaEA0RgUEDFLc3LYK4vWk_0OZVKG4Hu7e5FSy7GszugspsBIuB_QZV1QJ1ezeSRcjuBjkD5Bh8AQxigTBMFBZR2JwNtQgU3JCAQzgb7AlwMD9uWguWgQZs024wDxzwzQ1wNsg0kAp8zsYRuAifwHxBKLjhSaULw92QIN4EJiF-ACUBkB5QsEMTBCQpNc-D6tmJ4e5a5AzggyMDGMaD_AIhTZHYwDjAEIPJIPNQZTBVQ2Ww2IZNJ27bkGUgbDymQW0jxwdkyBBpG3HuIOw3YLTq2imAYlYBSCtzAQA)]
+- [主旋律 TMD 檔案](kokugo_yagakukai_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ4sWf_sw1bnq1dpgQST87PLcgvTi0Cim9d8nTDvqfrW59O6FTi0tJSeDqn-8WqeU-XzHm6dsezOc2PG9c9W9ujoKXFpWirYGhgwGVvq-DGZWOkb2IHMuhF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDplI9AYoNCzuRNezm573ND9fk_Hsxlrn07qedrb-HTnlvd7ep5vWfRs9o4XM-crGJgbmSoYmli83wN0E5dvYmaeVUBmYl6-Q41BTTWXAhDYGJpp2YFZNQrGCrpAaKxgBCQNgbgGzAJhkIwpWMQMSIIwiAcShaiByYNgDdg0nxqFx839YIHHzauh7MfNe8BaHjctA_PWgMim7WByCVRmM5i3HkxuAavqg8g0g1Q8boLoAckjLIM4C-QwVGfBPGIWDxYCMWGuBdEQERg0QHF70yKI25v2A21eheJ2sHubW8Gyq8HsLqjMRrAY2G9QVS1Qt3cjWYTsbpAzQI7BF8AgFgjDRGERhc3ZUItAwQ0JOISzwZ4AB_PjprVgGWjANu0G88AB39wAZ4NMA6nA52wcgYvwCcwXhIIbnlS6MNwNCeJNYBLiB1ASAOkBBTs0QUCSUvM8qJ6dGO6u5eLStVMA5QAFIK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](kokugo_yagakukai_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6p_vFqnlPl8x5unbHsznNjxvXPVvb835Px8vuPc8nbHmyZ8vTpf0v1s55v6dTQUuLS9FWwdDAgMveVsGNy8ZI38SOq05B6UX7rueNi5_v2Pt87uKnu-a8WLvsaffMpxsbHjd0PZs680XTpmedDc-nrFB4OmUj0Gyg0LO5E17Obnvc0A2059mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0sgDYrcXH5JmbmWQVkJublB3k41BjUVHMpAIGNoZmWHZhVo2CsoAuExgpGQNIQiGvALBAGyZiCRcyAJAiDeCBRiBqYPAjWgE3zqVF43NwPFnjcvBrKfty8B6zlcdMyMG8NiGzaDiaXQGU2g3nrweQWsKo-iEwzSMXjJogekDzCMoizQA5DdRbMI2bxYCEQE-ZaEA0RgUEDFLc3LYK4vWk_0OZVKG4Hu7e5FSy7GszugspsBIuB_QZV1QJ1ezeSRcjuBjkD5Bh8AQxigTBMFBZR2JwNtQgU3JCAQzgb7AlwMD9uWguWgQZs024wDxzwzQ1wNsg0kAp8zsYRuAifwHxBKLjhSaULw92QIN4EJiF-ACUBkB5QsEMTBCQpNc-D6tmJ4e5a5AzggyMDGMaD_AIhTZHYwDjAEIPJIPNQZTBVQ2Ww2IZNJ27bkGUgbDymQW0jxwdkyBBpG3HuIOw3YLTq2imAYlYBSCtzAQA)]
 
 ## 分析
 

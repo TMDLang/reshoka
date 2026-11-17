@@ -73,8 +73,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hanauri_shojo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5KYmVMZn5OZloqsPTM9M8-qNA_klhKoC7S0FF50bXyxefHTDROfLt2soKXFpWirYGnGZW-r4KTDZWOkb2IHMgEUFFYKz6ZteL59hcLTDf1P1-54tmDh4-bdT1vXQNgKT6dsfLa259nUmc_mTng5u-39no6nG7qf7tjxfPnEJzs6QUpnzwYqfbpzy_MpK97v6QS77MmOhmeL5j5r7QMqedncpwA0_nFDFyn2PG7oBlm1ZPmztYuf9jY-2dUDtAHCeDan4_2enudbFj2bvePFzPkKBuZGpromhjC74c57vmYNyIUNjagu7ACKKxiaGj1qmGxoaqzwckEjWCeXvpaCLbUAl4KCwtO--SAHbm5_saLrRUc70HMvVs572rri2bR2cCD2PmvvVAClOL2sgnSgY4BMQxAT6DeIVoUCPYQ7QaJ4PAbykpnCy2XTgH55v2cWyP4Xq_Y_a1gOsrm7FxhMQNEX67oeN68FioMCsbv36doJQIc4PZq5VgEYzkBhBWCyUABKgM3oeTRzpS0wxYCMslOIVvTzD3GNhXC0tIAOBIYbmpdgfkH3ANA4YPoD6YRoByYOoNuR0ydQ8-PG9Y8bVz1ubHvc1PW4adLjxhWPm0AR87hx3ePGbrBsy-OmuUAtLxo3gdWDVTZOedw0EagMYvLjxqbHTT2PG_c9bpz_uKnlcePUx43THzf2P9sKNAqoBWh-D8hMkJplQPHHTd2PG5qQnbarB-g0sIW7wQ5petw483HjBLCO-c-37Xq5azrYpF6wSAvYgate9HYCfQMW7wfbuQEoiOEoEPmieeGLudvAKieDnbAV7BygLUBnzn_cuAQk2AS0Dt1d4OiGWQIKKbC-DqAbcTnq2dTFYMGFYJUgEaDUs3nrwYLAvAUJBZAgxAp88dE4G8RonAG0ERIlT_c3Qz3RNPdxEyjBAAXRnYfiA6DMixW7gYkQlEoUICn4-fqGZz3rnza2P53Q-7R3w5O9cx439JDgjgagxT0vGnpAuchQ4cXaOU92dL9sBabr6RCjHjf3P24GRuKyx82rHjdvetzc8bgZWOj0ATUCHfds7ZIXM6cCdT1tXa7gY6zwZN9ciBFP1y97OWs2xKAXK2Y82QmKDGh0Ul40QIGClj4XlwewjC8tygzOyM_KtwrITMzLd6gxqKkGWaRgY6EFDjoFbOUSJAAbXizsUdAwARWowKDUAQcDKANqYtEAtA5kWI2CYRwIGcUpGMfBeeYKpvhkwDp9DGuASXk9EK8C4jYFYHwAVQGzKpC3Akg3Aul1IJHGbqi6FjAGiUBUAzMrkJ4IM88IpnY3RLapCax2JhBPAPJ6gPR8sEgvlAcybxVYpB-IpwLxBogIxDxjJPc1dcDch0X3QqBIJ9QfEPcBXQFWAxUBl3m4w31XD-XhbgKmgTygWA04lM2AJFiVLogwQAn1Jqj79sHCpAnkG1AITAeHBkgNyO1ANWB1y6ChpAvkdyvEo4Q4zCwIDRKZDNYBLIvgcQAydT4QL4GZ1TQB3Szk0MabGkCmA3ETMB6gIutBZgH1gcyq5eLStVNAzgcKWPjKXAA)]
-- [鋼琴伴奏 TMD 檔案](hanauri_shojo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsSUuLS0FF50bXyxefHTDROfLt38fk_Hy9kzn3V2v-ze83zClid7tjxd2v9-T6eClhaXoq2CpRmXva2Ckw6XjZG-iR3IFlCgWCk8m7bh-fYVCk839D9du-PZgoWPm3c_bV0DYSs8nbLx2dqeZ1NnPps74eXsNqAVTzd0P92x4_nyiU92dIKUzp4NVPp055bnU1YA7QK7_smOhmeL5j5r7QMqedncpwA0_nFDFyn2PG7oBlm1ZPmztYuf9jY-2dUDtAHCeDan4_2enudbFj2bvePFzPkKBuZGpromhjC74c57vmYNyIUNjagu7ACKKxiaGj1qmGxoaqzwckEjWCeXBzDoS4sygzPys_KtAkChHeThUGNQU82lAAQ2Flp2YIa-loItOlAAW9XwYmGPgoYJyH_P1zfoKADTlaFeVkG6JhYNWvpgw2oUDONAyChOwTgOzjNXMMUnA9bpY1ij8LhxPRCvAuI2hcdNXUBVj5smAXkrgHQjkF4HEmnshqprAWOQCET148YpQHoizDwjmNrdENmmJrDamUA8AcjrAdLzwSK9UB7IvFVgkX4gngrEGyAiEPOMkdzX1AFzHxbdC4EinVB_QNwHdAVYDVSEC3-47-qhPNxNwDSQBxSrAYeyGZAEq9IFEQYood4Edd8-WJg0gXwDCoHp4NAAqQG5HagGrG4ZNJR0gfxuhXiUEIeZBaFBIpPBOh43boXHAcjU-UC8BGZW0wR0s5BDG29qAJkOxE3AeICKrAeZBdQHMqsWWzbwQc4GJtBsAAwbhWjDWAhtGg9loAigqTNSiDYB0abxCA2gcAXaqWungGxttA9QA4aYERYxY7CYMhcA)]
+- [主旋律 TMD 檔案](hanauri_shojo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5KYmVMZn5OZloqsPTM9M8-qNA_klhKoC7S0FF50bXyxefHTDROfLt2soKXFpWirYGnGZW-r4KTDZWOkb2IHMgEUFFYKz6ZteL59hcLTDf1P1-54tmDh4-bdT1vXQNgKT6dsfLa259nUmc_mTng5u-39no6nG7qf7tjxfPnEJzs6QUpnzwYqfbpzy_MpK97v6QS77MmOhmeL5j5r7QMqedncpwA0_nFDFyn2PG7oBlm1ZPmztYuf9jY-2dUDtAHCeDan4_2enudbFj2bvePFzPkKBuZGpromhjC74c57vmYNyIUNjagu7ACKKxiaGj1qmGxoaqzwckEjWCeXvpaCLbUAl4KCwtO--SAHbm5_saLrRUc70HMvVs572rri2bR2cCD2PmvvVAClOL2sgnSgY4BMQxAT6DeIVoUCPYQ7QaJ4PAbykpnCy2XTgH55v2cWyP4Xq_Y_a1gOsrm7FxhMQNEX67oeN68FioMCsbv36doJQIc4PZq5VgEYzkBhBWCyUABKgM3oeTRzpS0wxYCMslOIVvTzD3GNhXC0tIAOBIYbmpdgfkH3ANA4YPoD6YRoByYOoNuR0ydQ8-PG9Y8bVz1ubHvc1PW4adLjxhWPm0AR87hx3ePGbrBsy-OmuUAtLxo3gdWDVTZOedw0EagMYvLjxqbHTT2PG_c9bpz_uKnlcePUx43THzf2P9sKNAqoBWh-D8hMkJplQPHHTd2PG5qQnbarB-g0sIW7wQ5petw483HjBLCO-c-37Xq5azrYpF6wSAvYgate9HYCfQMW7wfbuQEoiOEoEPmieeGLudvAKieDnbAV7BygLUBnzn_cuAQk2AS0Dt1d4OiGWQIKKbC-DqAbcTnq2dTFYMGFYJUgEaDUs3nrwYLAvAUJBZAgxAp88dE4G8RonAG0ERIlT_c3Qz3RNPdxEyjBAAXRnYfiA6DMixW7gYkQlEoUICn4-fqGZz3rnza2P53Q-7R3w5O9cx439JDgjgagxT0vGnpAuchQ4cXaOU92dL9sBabr6RCjHjf3P24GRuKyx82rHjdvetzc8bgZWOj0ATUCHfds7ZIXM6cCdT1tXa7gY6zwZN9ciBFP1y97OWs2xKAXK2Y82QmKDGh0Ul40QIGClj4XlwewjC8tygzOyM_KtwrITMzLd6gxqKkGWaRgY6EFDjoFbOUSJAAbXizsUdAwARWowKDUAQcDKANqYtEAtA5kWI2CYRwIGcUpGMfBeeYKpvhkwDp9DGuASXk9EK8C4jYFYHwAVQGzKpC3Akg3Aul1IJHGbqi6FjAGiUBUAzMrkJ4IM88IpnY3RLapCax2JhBPAPJ6gPR8sEgvlAcybxVYpB-IpwLxBogIxDxjJPc1dcDch0X3QqBIJ9QfEPcBXQFWAxUBl3m4w31XD-XhbgKmgTygWA04lM2AJFiVLogwQAn1Jqj79sHCpAnkG1AITAeHBkgNyO1ANWB1y6ChpAvkdyvEo4Q4zCwIDRKZDNYBLIvgcQAydT4QL4GZ1TQB3Szk0MabGkCmA3ETMB6gIutBZgH1gcyq5eLStVOottc1NKpVALKQcwSIr8wFAA)]
+- [鋼琴伴奏 TMD 檔案](hanauri_shojo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJoZIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsSUuLS0FF50bXyxefHTDROfLt38fk_Hy9kzn3V2v-ze83zClid7tjxd2v9-T6eClhaXoq2CpRmXva2Ckw6XjZG-iR3IFlCgWCk8m7bh-fYVCk839D9du-PZgoWPm3c_bV0DYSs8nbLx2dqeZ1NnPps74eXsNqAVTzd0P92x4_nyiU92dIKUzp4NVPp055bnU1YA7QK7_smOhmeL5j5r7QMqedncpwA0_nFDFyn2PG7oBlm1ZPmztYuf9jY-2dUDtAHCeDan4_2enudbFj2bvePFzPkKBuZGpromhjC74c57vmYNyIUNjagu7ACKKxiaGj1qmGxoaqzwckEjWCeXBzDoS4sygzPys_KtAkChHeThUGNQU82lAAQ2Flp2YIa-loItOlAAW9XwYmGPgoYJyH_P1zfoKADTlaFeVkG6JhYNWvpgw2oUDONAyChOwTgOzjNXMMUnA9bpY1ij8LhxPRCvAuI2hcdNXUBVj5smAXkrgHQjkF4HEmnshqprAWOQCET148YpQHoizDwjmNrdENmmJrDamUA8AcjrAdLzwSK9UB7IvFVgkX4gngrEGyAiEPOMkdzX1AFzHxbdC4EinVB_QNwHdAVYDVSEC3-47-qhPNxNwDSQBxSrAYeyGZAEq9IFEQYood4Edd8-WJg0gXwDCoHp4NAAqQG5HagGrG4ZNJR0gfxuhXiUEIeZBaFBIpPBOh43boXHAcjU-UC8BGZW0wR0s5BDG29qAJkOxE3AeICKrAeZBdQHMqsWWzbwQc4GJtBsAAwbhWjDWAhtGg9loAigqTNSiDYB0abxCA2gcAXaqWunUG2va2hUqwBkITsg2geoFUPMCIuYMVhMmQsA)]
 
 ## 分析
 
@@ -82,13 +82,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 花賣少女 ]
 ================================================================================
-⏱  Duration:       0:20 (20.0s), 16 measures total
+⏱  Duration:       0:10 (10.0s), 8 measures total
 🎼 Key & Tempo:    首調基準 B,, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F5 (MIDI 77) – D#6 (MIDI 87) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F5 in [HanauriShojo #1 @ m.2, 0:02]
-   - 最高音: D#6 in [HanauriShojo #1 @ m.6, 0:06]
-🏛  結構:      HanauriShojo (10.0s) -> HanauriShojo (10.0s)
+🎤 人聲音域:    F4 (MIDI 65) – D#5 (MIDI 75) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
+   - 最低音:  F4 in [HanauriShojo #1 @ m.2, 0:02]
+   - 最高音: D#5 in [HanauriShojo #1 @ m.6, 0:06]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      HanauriShojo (10.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -96,10 +97,9 @@ tmd_source:
    - 核心骨幹音:  A#, C, D, A, F
    - 調性數值:    A# 大調 [相關度: 0.82, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): A# 大調 (0.82), A# 小調 (0.59), G 小調 (0.53)
-   - 五度圈歷程:   -2 -> -2
+   - 五度圈歷程:   -2
    - 各段落調性細節:
      • [HanauriShojo #1]: A# 大調 (r: 0.82, 自然音純度: 100.0%)
-     • [HanauriShojo #2]: A# 大調 (r: 0.82, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -126,7 +126,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F5 – D#6 (10 個半音 / 0.8 個八度, 60 個音符)
+  - Piano         : F4 – D#5 (10 個半音 / 0.8 個八度, 30 個音符)
 ================================================================================
 ```
 

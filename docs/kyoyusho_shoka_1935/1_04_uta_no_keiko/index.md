@@ -14,7 +14,7 @@ sources:
   - "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
 musical_key: "D"
 meter: "4/4"
-tempo: "100"
+tempo: "108"
 image:
   - file: "P044.jpg"
 audio:
@@ -38,7 +38,9 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P044.jpg，原書 p. 17）：
-調性與拍號：D 調 4/4 拍子，♩=100
+調性與拍號：D 調 4/4 拍子（原譜拍號印 C；原譜未標速度，演奏速度為編者設定）
+譯詞：右上角印「小林愛雄譯」
+版面註記：譜下第 5、12 小節印「コエ」，底欄全文印「こゑで」「聲で」；譜下第 11 小節唱「マアルイ」，底欄全文印「まるい」；第 15 小節原譜印二分音符 D4（無二分休止符），依 4/4 拍號補齊後半小節二分休止符。
 
 
 ## 歌詞
@@ -60,8 +62,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](uta_no_keiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMTEwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thceNbY8b5z9uXPe4ceLjxpbHjZMVtLS4FG0VDA0MuOxtFVy4bEz0TexA5r1YOe_9nllPN_Q_mzf9Wcvsl7NbXqxdD7bpRfuu542Ln-_Y-3zu4qe75rxYu-xp98ynGxseN3Q9mzrzRdOmZ50Nz6esUHg6ZeOztT1AoWdzJ7yc3fa4ofv9no5nM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sXi_p1OJi0tfS8GWWoBLQUHhad98kD2b21-s6HrR0Q50F9B_T1tXPJvWDnTU0w29z9o7FUBRppdVkA50F0S9QoGegqE50EXAkACZ8mLV_mcNy0H6u3uBbgaKuoDEFIBhpgAUerp2AlDro5krbUHBCdKAGd5g0ebOx827HzevAZPzweTUx00LQYymvWDuSjB7O5jdCTFpyeOmDogZj5uAhi0n36Sup_2LHzdNetzYBHbWsscNDY8b9z1u6gYa_6JxE6rZUK0QYyBGwmyAWgixHGw25ZEFBQpa-lxcoSWJfvneqZnZ-VYBmYl5-Q41BjXVIGsUbCy07MAMbOlE4fmaNU92NLxY2KOgYaIATMHP1zfowCNXE4sGoGUgw2oUTBV0gRgEdRWMgbhGwRBIwqChghFQBCRuAlRhBqTNIWrioAoMoHQN2DifGlD8A7nAJADE64B4IpjXAtYFynwIs4EBCMRrQOLN88F8UCgrAIMcyFwJEmjaDtEGVIjQBrENf1Ds6hkcQbEE7IsOcABAPA9MyNCgWE6foNjRCQ4KY9KDAuRVpKAAeRPka5AQ2GJMRQiPd4Hc3NgPJheC3T8J6u0msBgkVSyDGwXMjGARsGxTN5gNTjP4ffd09mxyIhqLX8BC5kBBkJAJWAjkJRA0QijCHdOIuEXELCy6QJEHikZQdMLjFiINimxIAliDpgk1jmu5uHTtFBClgwKQp8wFAA)]
-- [鋼琴伴奏 TMD 檔案](uta_no_keiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjc2Pa4cf7jxnWPGyc-bmx53Dj5_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CoYEBl72tgguXjYm-iR1XnYLSi5Xz3u-Z9XRD_7N505-1zH45u-XF2vVKYJn2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaHwdMrGZ2t7gELP5k54ObvtcUM30AXPZqx9OqnnaW_j051b3u_peb5l0bPZO17MnK9gYG5kqmBoYgF0kxIXV2hJol--d2pmdr5VQGZiXn6Qh0ONQU01lwIQ2Fho2YEZ-loKtuhA4fmaNU92NLxY2KOgYaIAdP7z9Q06CgEGJiZ6WQXpmlg0aOmDDatRMFXQBWIQ1FUwBuIaBUMgCYOGCkZAEZC4CVCFGZA2h6iJgyowgNI1YON8akAxAOQCIwGI1wHxRDCvBawLGB1IZj9u7gTiNSDx5vlg_tTHTQsVHjftBTJXggSatkO0ARUitEFswx8Uu3oGR1AsAfuiAxwAEM8_bgIFCEhuOX2CYkcnOCiMSQ8KkFeRggLkTZCvQUJgizEVITzeBXJzYz-YXAh2_ySot5vAYpBUsQxu1OPGfWARsGxTN5gNTjP4ffd09mxyIhqLX8BC5kBBkJAJWAjkJRA0QijCHdOIuEXELCy6QJEHikZQdMLjFiINimxIAliDpgk1jmsxCwcf5MLBCFo4AN0YD0IotBESnyxVJqiqobIwUSRZ03hkZUBH69opINytAOQpcwEA)]
+- [主旋律 TMD 檔案](uta_no_keiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMTEwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlW5anFJalFefG5qTn5KZUY0iWJmdBgKE-Mz03MzMtJzENyT0lGKjC0ckuLM5PRBaHBk5OZlqrEpaWl8Lix7XHj_MeN6x43Tnzc2PK4cbKClhaXoq2CoYEFl72tgguXjYm-iR3IlBcr573fM-vphv5n86Y_a5n9cnbLi7Xrwea_aN_1vHHx8x17n89d_HTXnBdrlz3tnvl0Y8Pjhq5nU2e-aNr0rLPh-ZQVCk-nbHy2tgco9GzuhJez2x43dL_f0_Fsxtqnk3qe9jY-3bnl_Z6e51sWPZu948XM-QoG5kamCoYmFu_3dCpxcelrKdhSC3ApKCg87ZsPsmdz-4sVXS862oHuAvrvaeuKZ9PagY56uqH3WXunAiid6GUVpAPdBVGvUKCnYGgOdBEwJECmvFi1_1nDcpD-7l6gm4GiLiAxBWCYKQCFnq6dADKsb_6LtXMgKp72blBwfr9nNlRszqpnK2a-bJj_dNcyoB3P9kx5urQfwn3etOv59hUvGlpfrFj7dN0soJVg-9auh0ZD_-YnO7peLJ8ENPBxQw9arDxu6AWpft7Z8XLuohcrdr9YMQOoB2jhkx3dz9esUTB93NBoaKQA1PV8fQPEhMdNmx83rQBqBPl119Rna1oggQGVbZz8uAmYQJYDFQC5Lxo3QdhAnyBMNTSEmThlI0hP87zHTYseN69-3LQEt7n7Hjd1gxIe2CywKaYwU8BBBFT3ZFfP0462l_M3P1-zTMHFBBiiz1sWQgSf7Jn4bO0ioDg4Snqe7JsLC3pgWL9YPOfl3q6n-4CJqwtiJJqmxw1NXKBwwswEYNHmzsfNux83rwGT88Hk1MdNC0GMpr1g7kowezuYDY6fx41LHjd1QMyABBj5JnU97V_8uGnS48YmsLOArm2ABxckApDMhmqFGAMxEmYD1EKI5WCzKc9BUKCgpc_FFVqS6JfvnZqZnW8VkJmYl-9QY1BTDbJGwcZCyw7MwJZ5FYCR_WRHw4uFPQoaJtAo14HnOE0sGoCWgQyrUTBV0AViENRVMAbiGgVDIAmDhgpGQBGQuAlQhRmQNoeoiYMqMIDSNWDjfGoUHjctA3IfN-0HhmYfkN4I5i0B6wLmCySzgQEIxGtA4s3zwXxQKAMV7QUyV4K1bYdoAyqEaImH24Y_KHb1DIqgaG4Be2sFOAAgngeWC1A_tdMnKHZ0goPCmPSgAHkVKShA3gT5GiQEthhTESINrAK7eT3YK41gchPE_U2LwDLgVNHcBjcKWL6BxcGyzavBbHCawe-7p7NnkxPRWPwCFjIHCoKETMBCIC-BoBFCEc6YRopbRMzCogsUeaBoBEUnPG4h0qDIhiSANWiaUOO4lotL104BUTooAHnKXAA)]
+- [鋼琴伴奏 TMD 檔案](uta_no_keiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeNzY9rhx_uPGdY8bJz5ubHncOPn9no6X3XueT9jyZM-Wp0v7X6yd835Pp4KWFpeirYKhgQWXva2CC5eNib6JHcjsFyvnvd8z6-mG_mfzpj9rmf1ydsuLtevBtr5o3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0A13wbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZANylxcYWWJPrle6dmZudbBYC8HuThUGNQU82lAAQ2Flp2YIa-loItOlB4vmbNkx0NLxb2KGiYKACd_3x9g45CgIGJiV5WQbomFg1a-mDDahRMFXSBGAR1FYyBuEbBEEjCoKGCEVAEJG4CVGEGpM0hauKgCgygdA3YOJ8ahcdNy4Dcx037FR439wHpjWDeErCux02bkcx-3NwJxGtA4s3zwfypj5sWAhXtBTJXgrVth2gDKoRoiYfbhj8odvUMiqBobgF7awU4ACCef9y0AuqndvoExY5OcFAYkx4UIK8iBQXImyBfg4TAFmMqQqSBVWA3rwd7pRFMboK4v2kRWAacKprb4EY9bp4HFgfLNq8Gs8FpBr_vns6eTU5EY_ELWMgcKAgSMgELgbwEgkYIRThjGiluETELiy5Q5IGiERSd8LiFSIMiG5IA1qBpQo3jWszCwQdb4VCjEG0YHwvVhsREEYfLRZvGA0m4XLQJSAwsAWIBBcDyaLpRPT-YLISYgc8hyOIw0_DrgrgI4VCoo9HNhbobw0KE24ExqGungIhEBSBPmQsA)]
 
 ## 分析
 
@@ -69,14 +71,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ うたのけいこ ]
 ================================================================================
-⏱  Duration:       0:36 (36.0s), 15 measures total
-🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <4/4>
+⏱  Duration:       0:33 (33.3s), 15 measures total
+🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [UtaNoKeiko #1 @ m.2, 0:02]
-   - 最高音: D5 in [UtaNoKeiko #1 @ m.4, 0:07]
+   - 最高音: D5 in [UtaNoKeiko #1 @ m.4, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      UtaNoKeiko (36.0s)
+🏛  結構:      UtaNoKeiko (33.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）

@@ -17,19 +17,19 @@ tempo: "96"
 image:
   - file: "P252.jpg"
 audio:
-  - id: "7_17_wakaki_musume"
+  - id: "wakaki_musume"
     label: "鋼琴伴奏版"
-    file: "7_17_wakaki_musume.mp3"
+    file: "wakaki_musume.mp3"
 tmd_source:
-  - "7_17_wakaki_musume.tmd"
-  - "7_17_wakaki_musume_piano.tmd"
+  - "wakaki_musume.tmd"
+  - "wakaki_musume_piano.tmd"
 ---
 
 # 若き娘
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_17_wakaki_musume.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="wakaki_musume.mp3"></audio>
 
 - composer: 臺灣教育會
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
@@ -50,14 +50,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_17_wakaki_musume.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="wakaki_musume.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_17_wakaki_musume.abc)
+[下載 ABC 原始檔](wakaki_musume.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_17_wakaki_musume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTI0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4UX7bueNy5-NnXmi6ZNz-Y0K3FpaSm86F76uLH36YoZClpaXIq2CpZmXPa2Cu5cNsb6JnYg7RBNz3fsfT538dNdc16sXfa0e-bTjQ2PG7qgJnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi7fxMw8q4DMxLx8hxqDmmouBSCwMTTTsgOzahRM4xV0gRBIGUFYEAgWrlEwBJJmICZUGQQawOVA2AhZG1jGGEkEph4Ea8B2-tQoPG5aDRZ43LwZyN7-uHkxkurHzRPApjxu2g_iNW0Ei_WhmQmSXwSW3wqWn4NiwkqoCpBebBDiEkK-R_gc5E9U34N8DfItsl9BYpBwIeD79VBn9gNxB4rDQeECUgHxFEgOq9ebQSZAQvFx01pkE5o2Q01Yg6YLw-tgnimUhvobrNcMzWswD5GiBx5QcE83t0C9uAKnk0H04-Y9YBKmAhRIcG83LYGK7QGy96KYsR2ionkhkhmQRIbF62THOsh74JhH1kd0tIPcCHLrFvRoh7keKIOI9m5018NSPDh1I8IFEiKg6Ab5vw1NF8LvtVxcunYKoPJAAUgrcwEA)]
-- [鋼琴伴奏 TMD 檔案](7_17_wakaki_musume_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRvfRxY-_TFTPe7-l42b3n-YQtT_Zsebq0_8XaOe_3dCpoaXEp2ipYmnHZ2yq4c9kY65vYcdUpKL1o3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0A615NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDEwugxUpcXL6JmXlWAZmJeflBHg41BjXVXApAYGNopmUHZtUomMYr6AIhkDKCsCAQLFyjYAgkzUBMqDIINIDLgbARsjawjDGSCEw9CNaA7fSpUXjctBos8Lh5M5C9_XHzYiTVj5sngE153LQfxGvaCBbrQzMTJL8ILL8VLD8HxYSVUBUgvdggxCWEfI_wOcifqL4H-RrkW2S_gsQg4ULA9-uhzuwH4g4Uh4PCBaQC4imQHFavN4NMgITi46a1yCY0bYaasAZNF4bXwTxTKA31N1ivGZrXYB4iRQ88oOCebm6BenEFTieD6MfNe8AkTAUokODebloCFdsDZO9FMWM7REXzQiQzIIkMi9fJjnWQ98Axj6yP6GgHuRHk1i3o0Q5zPVAGEe3d6K6HpXhw6kaECyREQNEN8n8bmi6E32uRiwMfHMWBYTwsbLDTCBW4aKqYQUXXwNSiy5DvGsI-p6kKGoQNehiREjbAZKVrpwBKWQpAWpkLAA)]
+- [主旋律 TMD 檔案](wakaki_musume.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTI0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4UX7bueNy5-NnXmi6ZNz-Y0K3FpaSm86F76uLH36YoZClpaXIq2CpZmXPa2Cu5cNsb6JnYg7RBNz3fsfT538dNdc16sXfa0e-bTjQ2PG7qgJnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi7fxMw8q4DMxLx8hxqDmmouBSCwMTTTsgOzahRM4xV0gRBIGUFYEAgWrlEwBJJmICZUGQQawOVA2AhZG1jGGEkEph4Ea8B2-tQoPG5aDRZ43LwZyN7-uHkxkurHzRPApjxu2g_iNW0Ei_WhmQmSXwSW3wqWn4NiwkqoCpBebBDiEkK-R_gc5E9U34N8DfItsl9BYpBwIeD79VBn9gNxB4rDQeECUgHxFEgOq9ebQSZAQvFx01pkE5o2Q01Yg6YLw-tgnimUhvobrNcMzWswD5GiBx5QcE83t0C9uAKnk0H04-Y9YBKmAhRIcG83LYGK7QGy96KYsR2ionkhkhmQRIbF62THOsh74JhH1kd0tIPcCHLrFvRoh7keKIOI9m5018NSPDh1I8IFEiKg6Ab5vw1NF8LvtVxcunYKoPJAAUgrcwEA)]
+- [鋼琴伴奏 TMD 檔案](wakaki_musume_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjRvfRxY-_TFTPe7-l42b3n-YQtT_Zsebq0_8XaOe_3dCpoaXEp2ipYmnHZ2yq4c9kY65vYcdUpKL1o3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0A615NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDEwugxUpcXL6JmXlWAZmJeflBHg41BjXVXApAYGNopmUHZtUomMYr6AIhkDKCsCAQLFyjYAgkzUBMqDIINIDLgbARsjawjDGSCEw9CNaA7fSpUXjctBos8Lh5M5C9_XHzYiTVj5sngE153LQfxGvaCBbrQzMTJL8ILL8VLD8HxYSVUBUgvdggxCWEfI_wOcifqL4H-RrkW2S_gsQg4ULA9-uhzuwH4g4Uh4PCBaQC4imQHFavN4NMgITi46a1yCY0bYaasAZNF4bXwTxTKA31N1ivGZrXYB4iRQ88oOCebm6BenEFTieD6MfNe8AkTAUokODebloCFdsDZO9FMWM7REXzQiQzIIkMi9fJjnWQ98Axj6yP6GgHuRHk1i3o0Q5zPVAGEe3d6K6HpXhw6kaECyREQNEN8n8bmi6E32uRiwMfHMWBYTwsbLDTCBW4aKqYQUXXwNSiy5DvGsI-p6kKGoQNehiREjbAZKVrpwBKWQpAWpkLAA)]
 
 ## 分析
 

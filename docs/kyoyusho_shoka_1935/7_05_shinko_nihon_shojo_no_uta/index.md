@@ -18,19 +18,19 @@ tempo: "100"
 image:
   - file: "P236.jpg"
 audio:
-  - id: "7_05_shinko_nihon_shojo_no_uta"
+  - id: "shinko_nihon_shojo_no_uta"
     label: "鋼琴伴奏版"
-    file: "7_05_shinko_nihon_shojo_no_uta.mp3"
+    file: "shinko_nihon_shojo_no_uta.mp3"
 tmd_source:
-  - "7_05_shinko_nihon_shojo_no_uta.tmd"
-  - "7_05_shinko_nihon_shojo_no_uta_piano.tmd"
+  - "shinko_nihon_shojo_no_uta.tmd"
+  - "shinko_nihon_shojo_no_uta_piano.tmd"
 ---
 
 # 新興日本少女の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_05_shinko_nihon_shojo_no_uta.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shinko_nihon_shojo_no_uta.mp3"></audio>
 
 - lyricist: 藪田義雄
 - composer: 中山晋平
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_05_shinko_nihon_shojo_no_uta.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="shinko_nihon_shojo_no_uta.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_05_shinko_nihon_shojo_no_uta.abc)
+[下載 ABC 原始檔](shinko_nihon_shojo_no_uta.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_05_shinko_nihon_shojo_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjM0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3ErhxfRVz6dseL5v5cvZLWCp5Pzcgvzi1CIrhSc71j7duPHZzO6nOzcrcWlpKTybtuFFR8ez6UufzVnzdMPEp0s3P25c92xtj4KWFpeirYKhgQGXva2CM5eNib6JHcisF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI1AY4BCz-ZOeDm77XFD9_s9Hc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhi8X5PpxIXl29iZp5VQGZiXr5DjUFNNZcCENhYaNmBGTUKxgq6QGiqYAYkQbgGyNYFixoBsSFYBKHGME7BOA4sZgSigASQC2YagETBZvrUKDxu3gTW8ri5A4gXglhNW8DaHjdtBouvBZP9YHIPVGY7VM9KIJ4NxH1IcqvBMovApj1uXgFWCbOQBAeCPQdSCVaEqRKoHRoMcK-Q4yygzG6IrqYlQAzxbB9UZhlYfDvYFJCJsICAeQbsBiABdBHUOaZQL4I8CPIAxCtgSSSVaM4GWwq3ZibYmk1gHkh2EdxLINmpCIeDnQKSmwBUtR8i37QRyXmQ5AFMYIhAhTsT5EgQRoQzKAGhJY0WsPG9UKu7kcJsCYqTQeH1uLkRKaRhTobr4arl4tK1UwAlcQUgrcwFAA)]
-- [鋼琴伴奏 TMD 檔案](7_05_shinko_nihon_shojo_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2bcOLjo5n05c-m7Pm6YaJT5dufty47tnanvd7Ol5273k-YcuTPVueLu1_sXbO-z2dClpaXIq2CoYGBlz2tgrOXDYm-iZ2XHUKSi_adz1vXPx8x97ncxc_3TXnxdplT7tnPt3Y8Lih69nUmS-aNj3rbHg-ZYXC0ykbgWYDhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLNzEzzyogMzEvP8jDocagpppLAQhsLLTswIwaBWMFXSA0VTADkiBcA2TrgkWNgNgQLIJQYxinYBwHFjMCUUACyAUzDUCiYDN9ahQeN28Ca3nc3AHEC0Gspi1gbY-bNoPF14LJfjC5ByqzHapnJRDPBuI-JLnVYJlFYNMeN68Aq4RZSIIDwZ4DqQQrwlQJ1A4NBrhXyHEWUGY3RFfTEiCGeLYPKrMMLL4dbArIRFhAwDwDdgOQALoI6hxTqBdBHgR5AOIVsCSSSjRngy2FWzMTbM0mMA8kuwjuJZDsVITDwU4ByU0AqtoPkW_aiOQ8SPIAJjFEoMKdCXIkCCPCGZSA0JJGC9j4XqjV3UhhtgTFyaDwetzciBTSMCfD9XDVIqdwH-wp3DAeFEqoBLKoKVZRZLVgFWgEPLaI10FQLZIosunocqT4iMgwICgKCmldOwVQYCsAaWUuAA)]
+- [主旋律 TMD 檔案](shinko_nihon_shojo_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjM0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3ErhxfRVz6dseL5v5cvZLWCp5Pzcgvzi1CIrhSc71j7duPHZzO6nOzcrcWlpKTybtuFFR8ez6UufzVnzdMPEp0s3P25c92xtj4KWFpeirYKhgQGXva2CM5eNib6JHcisF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI1AY4BCz-ZOeDm77XFD9_s9Hc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhi8X5PpxIXl29iZp5VQGZiXr5DjUFNNZcCENhYaNmBGTUKxgq6QGiqYAYkQbgGyNYFixoBsSFYBKHGME7BOA4sZgSigASQC2YagETBZvrUKDxu3gTW8ri5A4gXglhNW8DaHjdtBouvBZP9YHIPVGY7VM9KIJ4NxH1IcqvBMovApj1uXgFWCbOQBAeCPQdSCVaEqRKoHRoMcK-Q4yygzG6IrqYlQAzxbB9UZhlYfDvYFJCJsICAeQbsBiABdBHUOaZQL4I8CPIAxCtgSSSVaM4GWwq3ZibYmk1gHkh2EdxLINmpCIeDnQKSmwBUtR8i37QRyXmQ5AFMYIhAhTsT5EgQRoQzKAGhJY0WsPG9UKu7kcJsCYqTQeH1uLkRKaRhTobr4arl4tK1UwAlcQUgrcwFAA)]
+- [鋼琴伴奏 TMD 檔案](shinko_nihon_shojo_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2bcOLjo5n05c-m7Pm6YaJT5dufty47tnanvd7Ol5273k-YcuTPVueLu1_sXbO-z2dClpaXIq2CoYGBlz2tgrOXDYm-iZ2XHUKSi_adz1vXPx8x97ncxc_3TXnxdplT7tnPt3Y8Lih69nUmS-aNj3rbHg-ZYXC0ykbgWYDhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLNzEzzyogMzEvP8jDocagpppLAQhsLLTswIwaBWMFXSA0VTADkiBcA2TrgkWNgNgQLIJQYxinYBwHFjMCUUACyAUzDUCiYDN9ahQeN28Ca3nc3AHEC0Gspi1gbY-bNoPF14LJfjC5ByqzHapnJRDPBuI-JLnVYJlFYNMeN68Aq4RZSIIDwZ4DqQQrwlQJ1A4NBrhXyHEWUGY3RFfTEiCGeLYPKrMMLL4dbArIRFhAwDwDdgOQALoI6hxTqBdBHgR5AOIVsCSSSjRngy2FWzMTbM0mMA8kuwjuJZDsVITDwU4ByU0AqtoPkW_aiOQ8SPIAJjFEoMKdCXIkCCPCGZSA0JJGC9j4XqjV3UhhtgTFyaDwetzciBTSMCfD9XDVIqdwH-wp3DAeFEqoBLKoKVZRZLVgFWgEPLaI10FQLZIosunocqT4iMgwICgKCmldOwVQYCsAaWUuAA)]
 
 ## 分析
 

@@ -89,7 +89,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](usagi_to_kame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJibIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYg6w1Mz0zzyo3NTMrE8lrWloKT1v7HjeueLlvjoKWFpeirYKhoRGXva2CC5eNkb6JHciAJzsani2a-6y178mOzpfNfQrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKH7_Z6Op0uWP1u7-Glv45NdPU93boEwns3peL-n5_mWRc9m73gxc76CgbmRqa6J4fs9nWDHv1g57_2eWc_nb37aN__ppB6IC8Ayz2ZvAsls6X3W2fBi34pnaxbCZF6073reuBho-YumTc_mNANd9WJVL8TFT9fNeto66fnqpRAHAt31dEP30x07ni-f-HzNGqBHge4HOu35lBVA9xoZGBnoGRiY6RlYmJgDGQYQV-lrKQDtfj573YtVq57N6ONSUFB4smPts2ntL5YvftkO9OisZ1N2Pl2_-nFDBzBUn7ZOebF574vtEx83dD6b2vpkF1BBz9M921-s2v985UqQe7pWPe2a_bR77svGvpcrpz4Furlh6YtdjY8bmri09LlA1tlSC4DcCgxIUFBvbn-xoutFRzswFIBh_LR1BdADoDja0PusvVMBlLz1sgrSHzVMBjLNQUyQs8FaFQr0FMwsgDJmlqCYW7NGwdhE4eWyacDAAfodZAXQb88aloMM7-4FxilQ9HFzN1AQFN3dvU_XTgBa5KIATA5AMQVgKlMAioJ19zyaudIWlAAhgdrwuKERxHrc1PS4cfrjho3A8ARqfdzY_bipEajhcVPH44YGdMHGqY-bJgOlIGZMez61Byw9G6SisQWsYh0wwsCCq4CCYBFgbDU8bux62gl0CFB83-PGHUDx5ytA6fZx4-7HjSuBXJCJz9YCWUChpsdNbWCd-4HGgVBTL9B0kCkgxwJF1oNNbwG7v3Hl48Y2kBcalz1unAtyHkgOYidMJ0hPNyjSwe7eBUybYL8_2TsV6tKmyWD7VgCd-bhxCci0ppbHTUAtDcAsDFYDtGLq40YgGxoIELth9jUBRdE9CDIO5AhgyEx83NgPVrMTnEomTASpawLJgdVtBToQlNc3bgTrBwYw0Mn7IKEJioRdQNcBxbeCvQ_MPUBxoB3L4d5fCDa7B-xCoH8hfodYC_RLP7Lfd3TC4h2oERZWGLEMDCCgCUBHzAWTy4EWI4c1MLo3gDWDXAGzDKgZSC4AO6UNohqoAugXIH852I1AG4DOAQUKMPmBLdwE885aUGg0dUG0TXjcvAcLCbIHUxDir6ezZ8P9BbQSGBTAJLL2ceNMYJQ9bpwP1gtMIcCgmAF2xHyI0i0gR4E8gpsB0olTFmIKMLmCw6IJmHaACBxmhBIOUAjoDGBkrXvRvupZ6yKwUqDbgKZAkuJ6sM3wtD0fnBTAsUB5UQUFCqAiMLQ4MT0zJN87EVixBWQm5uU71BjUVIPsUbAxNNOyA7OwlZMKkEL9xcIeBQ0TUFX1fH2DDqhwA5domlg0AK0DGVajYKqgC4TGcLoGiEEsIyCE0DVwliFcBKIGAg2AuAZsmo9hDagMA4sCQwqFDZRp7IbwmhqBuAOqG028cSqUPRkkA1cFgvEIe4xAulZBxUFqIbasAJsGKjVg1gJzL1AeYj7Erjao1FQg7oOzQXZBTMGwyxikayXcJpi9wKyK4fYeJHtaoKrmIrGXg-2BhAmGPSYgXTA3ALMNVM96sGlrobyZSK6eD5aZDuX1A_EMKHsJWGY-hj3408-uHvLTjyk0RZjC04YxNLUYIqUfWMqqgcphTT-Ns6G-6EYKuXUocbcQHPqIsO6Ciu8D4h1Q9m6wDCTesKefudCQRorTpk6c5kHSFjS2GyeCQxxZz07sNiGnHqD7Yb6DuHsDkgv2QdWA0wjcHmAYQFMvsDgHpx5QiY7dKnACAhWGSKaicKkljy2rECiaOilJWjC6RsEMzDKD08CEFAdmAikoCyQI0YA9dUFLpCZQXOyHhiwkda2DyvTC0x04luBl2DpwboSwVyHlcaypq6kBqhKUirei2AMtrUAlEzzWITJQdUAbQekNlgZBMsux2wROXbDSDxhfwLSInIpA9TxUYAncSEjS2wQVXwHEa6HWNoC9C0n82FMXLPCQEixQPXKWQRR3pBe3eNMQsFVBThqCpRREOkEvskBVHmkFFHJ2hhW_y8C-xVKkQKsJzMQFi3RY5YQlEcFtAhZ48KjtAeuCVpONIPOQi0LkAgpWC_bjswechCZAVDbvQWGTLQNi4E5EMKeDkmQvSlDA6i9guQuv0yH1H7Ygh9R_kIBFtqmWi0vXTgGpLaWAyVXmAgA)]
+- [主旋律 TMD 檔案](usagi_to_kame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJibIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9l5iXmZuYg6w1Mz0zzyo3NTMrE8lrWloKT1v7HjeueLlvjoKWFpeirYKhoRGXva2CC5eNkb6JHciAJzsani2a-6y178mOzpfNfQrPt6943ND1bNoGIEPh6Yb-p2t3PFuw8HHz7qetayBshadTNj5b2_Ns6sxncye8nN32uKH7_Z6Op0uWP1u7-Glv45NdPU93boEwns3peL-n5_mWRc9m73gxc76CgbmRqa6J4fs9nWDHv1g57_2eWc_nb37aN__ppB6IC8Ayz2ZvAsls6X3W2fBi34pnaxbCZF6073reuBho-YumTc_mNANd9WJVL8TFT9fNeto66fnqpRAHAt31dEP30x07ni-f-HzNGqBHge4HOu35lBVA9xoZGBnoGRiY6RlYmJgDGQYQV-lrKQDtfj573YtVq57N6ONSUFB4smPts2ntL5YvftkO9OisZ1N2Pl2_-nFDBzBUn7ZOebF574vtEx83dD6b2vpkF1BBz9M921-s2v985UqQe7pWPe2a_bR77svGvpcrpz4Furlh6YtdjY8bmri09LlA1tlSC4DcCgxIUFBvbn-xoutFRzswFIBh_LR1BdADoDja0PusvVMBlLz1sgrSHzVMBjLNQUyQs8FaFQr0FMwsgDJmlqCYW7NGwdhE4eWyacDAAfodZAXQb88aloMM7-4FxilQ9HFzN1AQFN3dvU_XTgBa5KIATA5AMQVgKlMAioJ19zyaudIWlAAhgdrwuKERxHrc1PS4cfrjho3A8ARqfdzY_bipEajhcVPH44YGdMHGqY-bJgOlIGZMez61Byw9G6SisQWsYh0wwsCCq4CCYBFgbDU8bux62gl0CFB83-PGHUDx5ytA6fZx4-7HjSuBXJCJz9YCWUChpsdNbWCd-4HGgVBTL9B0kCkgxwJF1oNNbwG7v3Hl48Y2kBcalz1unAtyHkgOYidMJ0hPNyjSwe7eBUybYL8_2TsV6tKmyWD7VgCd-bhxCci0ppbHTUAtDcAsDFYDtGLq40YgGxoIELth9jUBRdE9CDIO5AhgyEx83NgPVrMTnEomTASpawLJgdVtBToQlNc3bgTrBwYw0Mn7IKEJioRdQNcBxbeCvQ_MPUBxoB3L4d5fCDa7B-xCoH8hfodYC_RLP7Lfd3TC4h2oERZWGLEMDCCgCUBHzAWTy4EWI4c1MLo3gDWDXAGzDKgZSC4AO6UNohqoAugXIH852I1AG4DOAQUKMPmBLdwE885aUGg0dUG0TXjcvAcLCbIHUxDir6ezZ8P9BbQSGBTAJLL2ceNMYJQ9bpwP1gtMIcCgmAF2xHyI0i0gR4E8gpsB0olTFmIKMLmCw6IJmHaACBxmhBIOUAjoDGBkrXvRvupZ6yKwUqDbgKZAkuJ6sM3wtD0fnBTAsUB5UQUFCqAiMLQ4MT0zJN87EVixBWQm5uU71BjUVIPsUbAxNNOyA7OwlZMKkEL9xcIeBQ0TUFX1fH2DDqhwA5domlg0AK0DGVajYKqgC4TGcLoGiEEsIyCE0DVwliFcBKIGAg2AuAZsmo9hDagMA4sCQwqFDZRp7IbwmhqBuAOqG028cSqUPRkkA1cFgvEIe4xAulZBxUFqIbasAJsGKjVg1gJzL1AeYj7Erjao1FQg7oOzQXZBTMGwyxikayXcJpi9wKyK4fYeJHtaoKrmIrGXg-2BhAmGPSYgXTA3ALMNVM96sGlrobyZSK6eD5aZDuX1A_EMKHsJWGY-hj3408-uHvLTjyk0RZjC04YxNLUYIqUfWMqqgcphTT-Ns6G-6EYKuXUocbcQHPqIsO6Ciu8D4h1Q9m6wDCTesKefudCQRorTpk6c5kHSFjS2GyeCQxxZz07sNiGnHqD7Yb6DuHsDkgv2QdWA0wjcHmAYQFMvsDgHpx5QiY7dKnACAhWGSKaicKkljy2rECiaOilJWjC6RsEMzDKD08CEFAdmAikoCyQI0YA9dUFLpCZQXOyHhiwkda2DyvTC0x04luBl2DpwboSwVyHlcaypq6kBqhKUirei2AMtrUAlEzzWITJQdUAbQekNlgZBMsux2wROXbDSDxhfwLSInIpA9TxUYAncSEjS2wQVXwHEa6HWNoC9C0n82FMXLPCQEixQPXKWQRR3pBe3eNMQsFVBThqCpRREOkEvskBVHmkFFHJ2hhW_y8C-xVKkQKsJzMQFi3RY5YQlEcFtAhZ48KjtAeuCVpONIPOQi0LkAgpWC_bjswechCZAVDbvQWGTLQNi4E5EMKeDkmQvSlDA6i9guQuv0yH1H7Ygh9R_kIBFtqmWi0vXTgGpLaUA5CpzAQA)]
 - [鋼琴伴奏 TMD 檔案](usagi_to_kame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN4w3QsgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGJibIWQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQ0pcWloKT1v7HjeueLlvzvs9HS9nz3zW2f2ye8_zCVue7NnydGn_-z2dClpaXIq2CoaGRlz2tgouXDZG-iZ2IPOf7Gh4tmjus9a-Jzs6Xzb3KTzfvuJxQ9ezaRuADIWnG_qfrt3xbMHCx827n7augbAVnk7Z-Gxtz7OpM5_NnfBydtvjhm6grU-XLH-2dvHT3sYnu3qe7twCYTyb0_F-T8_zLYuezd7xYuZ8BQNzI1NdE0Oge8B-e7Fy3vs9s57P3_y0b_7TST0QF4Blns3eBJLZ0vuss-HFvhXP1iyEybxo3_W8cTHQ8hdNm57NaQa66sWqXoiLn66b9bR10vPVSyEOBLrr6Ybupzt2PF8-8fmaNUCPAt0PdNrzKSuA7jUyMDLQMzAw0zOwMDEHMgwgruIKLU5MzwzJ904EJoKAzMS8fIcag5pqLgUgsDE007IDs_S1FGzRgQLEjhcLexQ0TEAh93x9g44CMCGY62UVpGti0aClDzasRsFUQRcIjeF0DRCDWEZACKFr4CxDuAhEDQQaAHEN2DQfwxqFx01NYNHHjdNR2ECZxm4Ir6kRiDugutHEG6dC2ZNBMnBVIBiPsMcIpGsVVBykFmLLCrBpXY8bl8CsfdzUApSHmA-xqw0qNRWI--BskF0QUzDsMgbpWgm3CWbv48bVGG7vQbKnBapqLhJ7OdgeSJhg2GMC0gVzw-MmiFmPG9eDTVsL5c1EcvV8sMx0KK8fiGdA2UvAMvMx7MGffnb1kJ9-TKEpwhSeNoyhqcUQKf3AUlYNVA5r-mmcDfVFN1LIrUOJu4Xg0EeEdRdUfB8Q74Cyd4NlIPGGPf3MhYY0Upw2deI0D5K2oLHdOBEc4sh6dmK3CTn1AN0P8x3E3RuQXLAPqgacRuD2AMMAmnofNy4Ap55OWDBgT0BbYHkGYioKl1ry2LIKgaKpk5KkBaNrFMzALDM4DUxIcWAmkIKyQIIQDdhTF7REagLFxX5oyEJS1zqoTC883YFjCV6GrQPnRgh7FVIex5q6mhqgKkGpeCuKPdDSClQywWMdIgNVB7QRlN5gaRAksxy7TeDUBSv9gPEFTIvIqWghPPaARQLMSEjS2wQVXwHEa6HWNoC9C0n82FMXLPCQEixQPXKWQRR3pBe3eNPQ09mzyUlDsJSCSCfoRRaoyiOtgELOzrDidxnYt1iKFGg1gZm4YJEOq5ywJCK4TcACDx61PWBd0GqyEWQeclGIXEDBasF-fPaAk9AEiMrmPShssmVADNyJCOZ0UJLsRQkKWP0FLHfhdTqk_sMW5JD6DxKwyDbVYmlI-XggNaVMoC0pYCzHK0QbxoKSRDyQZRqPxgRKG0CdjqQWmybsKk2ADBMUBoo6ZFFcJgI9o2ungOSfaB-gSnQhI0whY0whoF1AIWUuAA)]
 
 ## 分析
@@ -98,14 +98,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 兎と龜 ]
 ================================================================================
-⏱  Duration:       0:34 (34.3s), 32 measures total
+⏱  Duration:       0:17 (17.1s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [UsagiToKame #1 @ m.3, 0:02]
    - 最高音: D5 in [UsagiToKame #1 @ m.11, 0:10]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      UsagiToKame (17.1s) -> UsagiToKame (17.1s)
+🏛  結構:      UsagiToKame (17.1s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -113,10 +113,9 @@ tmd_source:
    - 核心骨幹音:  D, A, F#, E, B
    - 調性數值:    D 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.86), A 大調 (0.74), F# 小調 (0.69)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
      • [UsagiToKame #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
-     • [UsagiToKame #2]: D 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -143,7 +142,7 @@ tmd_source:
      B  : ██████████                10.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 104 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 52 個音符)
 ================================================================================
 ```
 

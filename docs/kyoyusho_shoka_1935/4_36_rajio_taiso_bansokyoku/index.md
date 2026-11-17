@@ -4,7 +4,7 @@ song_title: "ラヂオ體操 伴奏曲"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_4_36_rajio_taiso_bansokyoku"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈ラヂオ體操 伴奏曲〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈ラヂオ體操 伴奏曲〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：G 4/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "ラヂオ體操 伴奏曲, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -17,18 +17,17 @@ image:
   - file: "P176.jpg"
 audio:
   - id: "rajio_taiso_bansokyoku"
-    label: "鋼琴伴奏版"
+    label: "原曲伴奏版"
     file: "rajio_taiso_bansokyoku.mp3"
 tmd_source:
   - "rajio_taiso_bansokyoku.tmd"
-  - "rajio_taiso_bansokyoku_piano.tmd"
 ---
 
 # ラヂオ體操 伴奏曲
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="rajio_taiso_bansokyoku.mp3"></audio>
+- **原曲伴奏版**：<br><audio controls src="rajio_taiso_bansokyoku.mp3"></audio>
 
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
@@ -54,7 +53,6 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](rajio_taiso_bansokyoku.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzc0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thcfNKx83Nz1uWvVy9ZRnk3sVnuzZ8nRp_7PZmxS0tLgUbRUMDc247G0V3LlsTPRN7EDGvmjf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQpPp2x8trYHKPRs7oSXs9seN3S_39PxbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhbv93QqcXH5JmbmWQVkJublO9QY1FRzKQCBjaGZlh2YVaNgrKALhEYKhmDaWMEUTOsqGMZBGTVQhUYwARg0Q-PDFELETaEmm8LVQU00gyuEWQWhTeF8AzQD6edEiMnGCAOh4hDaCM5HdyHcJXAGyEQQxulpiEUwKyFsZCNRAwciD7IexAex0Z0Ith3uVARNu0AEmQDWDQtFiJXGGFZDrIQ4D0TC-IhQrOXi0rVTACVVBSCtzAUA)]
-- [鋼琴伴奏 TMD 檔案](rajio_taiso_bansokyoku_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcvPJxc9PjplUvV095NrlX4cmeLU-X9j-bven9no6X3XueT9gCEXmxds77PZ0KWlpcirYKhoZmXPa2Cu5cNib6JnZcdQpKL9p3PW9c_HzH3udzFz_dNefF2mVPu2c-3djwuKHr2dSZL5o2PetseD5lhcLTKRufre0BCj2bO-Hl7LbHDd1Ae57NWPt0Us_T3sanO7e839PzfMuiZ7N3vJg5X8HA3MhUwdDEAmizEheXb2JmnlVAZmJefpCHQ41BTTWXAhDYGJpp2YFZNQrGCrpAaKRgCKaNFUzBtK6CYRyUUQNVaAQTgEEzND5MIUTcFGqyKVwd1EQzuEKYVRDaFM43QDOQfk6EmGyMMBAqDqGN4Hx0F8JdAmeATARhnJ6GWASzEsJGNhI1cCDyIOtBfBAb3Ylg2-FORdC0C0SQCWDdsFCEWGmMYTXESojzQCSMjwjFWuSU6oMjpRrGQ9WbxsNYWIRglprARfCzyFWPsBEbCyOB0NTt-N2CaT5pbifVNXCP4WHQxuWY6gdXuONzDUpm0LVTAOUHBSCtzAUA)]
 
 ## 分析
 

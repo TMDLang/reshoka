@@ -18,19 +18,19 @@ tempo: "126"
 image:
   - file: "P259.jpg"
 audio:
-  - id: "P259"
+  - id: "kokugo_oboete"
     label: "鋼琴伴奏版"
-    file: "P259.mp3"
+    file: "kokugo_oboete.mp3"
 tmd_source:
-  - "P259.tmd"
-  - "P259_piano.tmd"
+  - "kokugo_oboete.tmd"
+  - "kokugo_oboete_piano.tmd"
 ---
 
 # 國語おぼえて
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="P259.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kokugo_oboete.mp3"></audio>
 
 - lyricist: 酒森元平
 - composer: 一條慎三郎
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="P259.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="kokugo_oboete.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](P259.abc)
+[下載 ABC 原始檔](kokugo_oboete.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](P259.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ42Trp2eJ1T1ubn-7crASSSs7PLcgvTi2yUniyo-HZornPWvue7Oh82dynxKWlpfB0TveLVfMeN3Y9btzzuLHjceMyBS0tLkVbBUMjMy57WwV3LhsjfRM7kEEv2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs74eXstscN3e_3dDybsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJxfs9nUpcXL6JmXlWAZmJefkONQY11VwKQGBjoWUHZtQoGCiYxkNRjYKhgq6CERDXKBgDSRAbIgaCNWANPjVA5uOmzUC8Hoi3ABU8bloFEmueA9b4uGkFWPnj5j0gXnMbinaQfWbxUFQDtgtkU42CCZgFss8Um32rgCb1A_ESsA3LoOZD7FsC5s2A2zgBw0YkH8ItB9sPEQUyzWG-B2EUm4G-bF4JtgVkF8jfQNy8FogXgUUWAfFqIA-IgWpB9nc9bm4GOwnkdayOAHkZ5E1YMJuCHIbN2xuBpkwF4j6wwZPApnZAvA3mwYO5aQ2Gp42gMYkIYwgLZ5zuB1sECdPtUL9DeCD6cfMaeAivhmuv5eLStVMAJTEFIK3MBQA)]
-- [鋼琴伴奏 TMD 檔案](P259_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6p_vFqnmPG7seN-553NjxuHHZ-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQyMzLntbBXcuGyN9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLNzEzzyogMzEvP8jDocagpppLAQhsLLTswIwaBQMF03goqlEwVNBVMALiGgVjIAliQ8RAsAaswacGyHzctBmI1wPxFqCCx02rQGLNc8AaHzetACt_3LwHxGtuQ9EOss8sHopqwHaBbKpRMAGzQPaZYrNvFdCkfiBeArZhGdR8iH1LwLwZcBsnYNiI5EO45WD7IaJApjnM9yCMYjPQl80rwbaA7AL5G4ib1wLxIrDIIiBeDeQBMVAtyP6ux83NYCeBvI7VESAvg7wJC2ZTkMOweXsj0JSpQNwHNngS2NQOiLfBPHgwN63B8LQRNCYRYQxh4YzT_WCLIGG6Hep3CA9EP25eAw_h1XDttcgpzAdXCjOMj4djoOVQlikUI0RgoqgiYF04zIKZgWk66WZhqKOZWThEkJIKcuhg-hFZBJe7gDGja6cAihwFIK3MBQA)]
+- [主旋律 TMD 檔案](kokugo_oboete.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ42Trp2eJ1T1ubn-7crASSSs7PLcgvTi2yUniyo-HZornPWvue7Oh82dynxKWlpfB0TveLVfMeN3Y9btzzuLHjceMyBS0tLkVbBUMjMy57WwV3LhsjfRM7kEEv2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs74eXstscN3e_3dDybsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJxfs9nUpcXL6JmXlWAZmJefkONQY11VwKQGBjoWUHZtQoGCiYxkNRjYKhgq6CERDXKBgDSRAbIgaCNWANPjVA5uOmzUC8Hoi3ABU8bloFEmueA9b4uGkFWPnj5j0gXnMbinaQfWbxUFQDtgtkU42CCZgFss8Um32rgCb1A_ESsA3LoOZD7FsC5s2A2zgBw0YkH8ItB9sPEQUyzWG-B2EUm4G-bF4JtgVkF8jfQNy8FogXgUUWAfFqIA-IgWpB9nc9bm4GOwnkdayOAHkZ5E1YMJuCHIbN2xuBpkwF4j6wwZPApnZAvA3mwYO5aQ2Gp42gMYkIYwgLZ5zuB1sECdPtUL9DeCD6cfMaeAivhmuv5eLStVMAJTEFIK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](kokugo_oboete_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6p_vFqnmPG7seN-553NjxuHHZ-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQyMzLntbBXcuGyN9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLNzEzzyogMzEvP8jDocagpppLAQhsLLTswIwaBQMF03goqlEwVNBVMALiGgVjIAliQ8RAsAaswacGyHzctBmI1wPxFqCCx02rQGLNc8AaHzetACt_3LwHxGtuQ9EOss8sHopqwHaBbKpRMAGzQPaZYrNvFdCkfiBeArZhGdR8iH1LwLwZcBsnYNiI5EO45WD7IaJApjnM9yCMYjPQl80rwbaA7AL5G4ib1wLxIrDIIiBeDeQBMVAtyP6ux83NYCeBvI7VESAvg7wJC2ZTkMOweXsj0JSpQNwHNngS2NQOiLfBPHgwN63B8LQRNCYRYQxh4YzT_WCLIGG6Hep3CA9EP25eAw_h1XDttcgpzAdXCjOMj4djoOVQlikUI0RgoqgiYF04zIKZgWk66WZhqKOZWThEkJIKcuhg-hFZBJe7gDGja6cAihwFIK3MBQA)]
 
 ## 分析
 

@@ -17,19 +17,19 @@ tempo: "88"
 image:
   - file: "P237.jpg"
 audio:
-  - id: "7_06_kokoro"
+  - id: "kokoro"
     label: "鋼琴伴奏版"
-    file: "7_06_kokoro.mp3"
+    file: "kokoro.mp3"
 tmd_source:
-  - "7_06_kokoro.tmd"
-  - "7_06_kokoro_piano.tmd"
+  - "kokoro.tmd"
+  - "kokoro_piano.tmd"
 ---
 
 # 心
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_06_kokoro.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="kokoro.mp3"></audio>
 
 - composer: 修養團
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
@@ -50,14 +50,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_06_kokoro.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="kokoro.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_06_kokoro.abc)
+[下載 ABC 原始檔](kokoro.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_06_kokoro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjM0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4Un-9e9XNL1dM4MJS4tLYWn-5sVtLS4FG0VLCy47G0VnLlszPQt7EBaXrTvet64-PmOvc_nLn66a86Ltcueds98urHhcUPXs6kzXzRtetbZ8HzKCoWnUzY-W9sDFHo2d8LL2W2PG7rf7-l4NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDE4v3ezqVuLh8EzPzrAIyE_PyHWoMaqq5FIDAxkLLDsyoUTBUMAJiYwVdBRMgzxRIm4J5ukCeMVjOCEyDVIJEQaSBQg1Yt0-NwuPmbiDeo_C4aTsQrwVKPm7eBFT8uGk1iN20FcjvhRr3uGkRRG3zErAqmD6QDEgnSO8eiFoiHGcCdhaIh9txTfuhFs4D4j6wg5aBrGtuA1vWBXY-zHE7oWoXAHEHWL4NrHYRVqeZAdlmCuYgS-OAXHMgB-E2iEtNwWIQHoiP5rbNYPdsBpoMCbY-sG39UFeA3AZyMcRt4MAEB9lKaLDtAqueQJtgA8UPyJLVQLod7MzVYOsgwQJyIiLYQDEMU7sMLD8Ta4zWcnHp2imAUqMCkFbmAgA)]
-- [鋼琴伴奏 TMD 檔案](7_06_kokoro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6v_n9no6X3XueT9jyZM-Wp0v7X6yd835Pp4KWFpeirYKFBZe9rYIzl42ZvoUdV52C0ov2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaHwdMrGZ2t7gELP5k54ObvtcUM30JpnM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sQBarMTF5ZuYmWcVkJmYlx_k4VBjUFPNpQAENhZadmBGjYKhghEQGyvoKpgAeaZA2hTM0wXyjMFyRmAapBIkCiINFGrAun1qFB43dwPxHoXHTduBeC1Q8nHzJqDix02rQeymrUB-L9S4x02LIGqbl4BVwfSBZEA6QXr3QNQS4TgTsLNAPNyOa9oPtXAeEPeBHbQMZF1zG9iyLrDzYY7bCVW7AIg7wPJtYLWLsDrNDMg2UzAHWRoH5JoDOQi3QVxqChaD8EB8NLdtBrtnM9BkSLD1gW3rh7oC5DaQiyFuAwcmOMhWQoNtF1j1BNoEGyh-QJasBtLtYGeuBlsHCRaQExHBBophmNplYPmZWGO0Fjkx-mBPjKbxINfACaD70AXAKhAEpgqiTQJTRJgE5hgjqQOzCRtNGzcBQ1HXTgEUkApAWpkLAA)]
+- [主旋律 TMD 檔案](kokoro.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjM0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4Un-9e9XNL1dM4MJS4tLYWn-5sVtLS4FG0VLCy47G0VnLlszPQt7EBaXrTvet64-PmOvc_nLn66a86Ltcueds98urHhcUPXs6kzXzRtetbZ8HzKCoWnUzY-W9sDFHo2d8LL2W2PG7rf7-l4NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDE4v3ezqVuLh8EzPzrAIyE_PyHWoMaqq5FIDAxkLLDsyoUTBUMAJiYwVdBRMgzxRIm4J5ukCeMVjOCEyDVIJEQaSBQg1Yt0-NwuPmbiDeo_C4aTsQrwVKPm7eBFT8uGk1iN20FcjvhRr3uGkRRG3zErAqmD6QDEgnSO8eiFoiHGcCdhaIh9txTfuhFs4D4j6wg5aBrGtuA1vWBXY-zHE7oWoXAHEHWL4NrHYRVqeZAdlmCuYgS-OAXHMgB-E2iEtNwWIQHoiP5rbNYPdsBpoMCbY-sG39UFeA3AZyMcRt4MAEB9lKaLDtAqueQJtgA8UPyJLVQLod7MzVYOsgwQJyIiLYQDEMU7sMLD8Ta4zWcnHp2imAUqMCkFbmAgA)]
+- [鋼琴伴奏 TMD 檔案](kokoro_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6v_n9no6X3XueT9jyZM-Wp0v7X6yd835Pp4KWFpeirYKFBZe9rYIzl42ZvoUdV52C0ov2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaHwdMrGZ2t7gELP5k54ObvtcUM30JpnM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sQBarMTF5ZuYmWcVkJmYlx_k4VBjUFPNpQAENhZadmBGjYKhghEQGyvoKpgAeaZA2hTM0wXyjMFyRmAapBIkCiINFGrAun1qFB43dwPxHoXHTduBeC1Q8nHzJqDix02rQeymrUB-L9S4x02LIGqbl4BVwfSBZEA6QXr3QNQS4TgTsLNAPNyOa9oPtXAeEPeBHbQMZF1zG9iyLrDzYY7bCVW7AIg7wPJtYLWLsDrNDMg2UzAHWRoH5JoDOQi3QVxqChaD8EB8NLdtBrtnM9BkSLD1gW3rh7oC5DaQiyFuAwcmOMhWQoNtF1j1BNoEGyh-QJasBtLtYGeuBlsHCRaQExHBBophmNplYPmZWGO0Fjkx-mBPjKbxINfACaD70AXAKhAEpgqiTQJTRJgE5hgjqQOzCRtNGzcBQ1HXTgEUkApAWpkLAA)]
 
 ## 分析
 

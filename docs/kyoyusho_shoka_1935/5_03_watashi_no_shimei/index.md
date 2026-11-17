@@ -1,7 +1,7 @@
 ---
 title: "私の使命 — 《教育所用 唱歌教材集》 昭和十年（全一冊）"
 song_title: "私の使命"
-song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_5_03_hikari_no_shimei"
+song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_5_03_watashi_no_shimei"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
 description: "〈私の使命〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：D 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
@@ -18,19 +18,19 @@ tempo: "96"
 image:
   - file: "P182.jpg"
 audio:
-  - id: "hikari_no_shimei"
+  - id: "watashi_no_shimei"
     label: "鋼琴伴奏版"
-    file: "hikari_no_shimei.mp3"
+    file: "watashi_no_shimei.mp3"
 tmd_source:
-  - "hikari_no_shimei.tmd"
-  - "hikari_no_shimei_piano.tmd"
+  - "watashi_no_shimei.tmd"
+  - "watashi_no_shimei_piano.tmd"
 ---
 
 # 私の使命
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="hikari_no_shimei.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="watashi_no_shimei.mp3"></audio>
 
 - lyricist: 片岡藤太郎
 - composer: 片岡藤太郎
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="hikari_no_shimei.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="watashi_no_shimei.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](hikari_no_shimei.abc)
+[下載 ABC 原始檔](watashi_no_shimei.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hikari_no_shimei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLYwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3ErheWf7000LX0xf8nTJqpfNfWDZ5Pzcgvzi1CIsslpaCs-XNz5uXPdk7_6nE_cqaGlxKdoqWJpx2dsquHDZGOub2IFMeNG-63nj4uc79j6fu_jprjkv1i572j3z6caGxw1dz6bOfNG06Vlnw_MpKxSeTtn4bG0PUOjZ3AkvZ7c9buh-v6fj2Yy1Tyf1PO1tfLpzy_s9Pc-3LHo2e8eLmfMVDMyNTBUMTSze7-lU4uLyTczMswrITMzLd6gxqKnmUgACGwstOzCjRsEQDHWB0AjIMwaSyDxTIATxjIE8IzBLV8EAiGvAun1qFB43r1d43LQfiLeDJR839wOVPm7uAuJuIF4GFd0IEm1aBmTNA-I1ENGmtWDR_VCDQRBiMLLVpkCeqYIZCs8UKA9zJMS56M5Ct6q5Dews_I7dBHXWTrDoaizOAlltGAcWAlI1QGcBKYTLwFyovBnIbRAmhuOATmhuANLroc6YBAudpi3gUIGI7gE7oxeIF8CdA3IsSHQlFseZwUMJZDeCB3IZKDwJhVlzB9jSx82roFYtAjtrI5j1uLkPRXQ1OPQQasHOalqC4qxaLi5dOwVQAlQA0spcAA)]
-- [鋼琴伴奏 TMD 檔案](hikari_no_shimei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPFx47one_c_nbj3_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CpRmXva2CC5eNsb6JHVedgtKL9l3PGxc_37H3-dzFT3fNebF22dPumU83Njxu6Ho2deaLpk3POhueT1mh8HTKxmdre4BCz-ZOeDm77XFDN9CaZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEAWqzExeWbmJlnFZCZmJcf5OFQY1BTzaUABDYWWnZgRo2CIRjqAqERkGcMJJF5pkAI4hkDeUZglq6CARDXgHX71Cg8bl6v8LhpPxBvB0s-bu4HKn3c3AXE3UC8DCq6ESTatAzImgfEayCiTWvBovuhBoMgxGBkq02BPFMFMxSeKVAe5kiIc9GdhW5VcxvYWfgduwnqrJ1g0dVYnAWy2jAOLASkaoDOAlIIl4G5UHkzkNsgTAzHAZ3Q3ACk10OdMQkWOk1bwKECEd0DdkYvEC-AOwfkWJDoSiyOM4OHEshuBA_kMlB4Egqz5g6wpY-bV0GtWgR21kYw63FzH4roanDoIdSCndW0BMVZtcjpzwdH-osHuRBEGIMIcgSGq0lgFjgUde0UQAGpAKSVuQA)]
+- [主旋律 TMD 檔案](watashi_no_shimei.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLYwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3ErheWf7000LX0xf8nTJqpfNfWDZ5Pzcgvzi1CIsslpaCs-XNz5uXPdk7_6nE_cqaGlxKdoqWJpx2dsquHDZGOub2IFMeNG-63nj4uc79j6fu_jprjkv1i572j3z6caGxw1dz6bOfNG06Vlnw_MpKxSeTtn4bG0PUOjZ3AkvZ7c9buh-v6fj2Yy1Tyf1PO1tfLpzy_s9Pc-3LHo2e8eLmfMVDMyNTBUMTSze7-lU4uLyTczMswrITMzLd6gxqKnmUgACGwstOzCjRsEQDHWB0AjIMwaSyDxTIATxjIE8IzBLV8EAiGvAun1qFB43r1d43LQfiLeDJR839wOVPm7uAuJuIF4GFd0IEm1aBmTNA-I1ENGmtWDR_VCDQRBiMLLVpkCeqYIZCs8UKA9zJMS56M5Ct6q5Dews_I7dBHXWTrDoaizOAlltGAcWAlI1QGcBKYTLwFyovBnIbRAmhuOATmhuANLroc6YBAudpi3gUIGI7gE7oxeIF8CdA3IsSHQlFseZwUMJZDeCB3IZKDwJhVlzB9jSx82roFYtAjtrI5j1uLkPRXQ1OPQQasHOalqC4qxaLi5dOwVQAlQA0spcAA)]
+- [鋼琴伴奏 TMD 檔案](watashi_no_shimei_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPFx47one_c_nbj3_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CpRmXva2CC5eNsb6JHVedgtKL9l3PGxc_37H3-dzFT3fNebF22dPumU83Njxu6Ho2deaLpk3POhueT1mh8HTKxmdre4BCz-ZOeDm77XFDN9CaZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEAWqzExeWbmJlnFZCZmJcf5OFQY1BTzaUABDYWWnZgRo2CIRjqAqERkGcMJJF5pkAI4hkDeUZglq6CARDXgHX71Cg8bl6v8LhpPxBvB0s-bu4HKn3c3AXE3UC8DCq6ESTatAzImgfEayCiTWvBovuhBoMgxGBkq02BPFMFMxSeKVAe5kiIc9GdhW5VcxvYWfgduwnqrJ1g0dVYnAWy2jAOLASkaoDOAlIIl4G5UHkzkNsgTAzHAZ3Q3ACk10OdMQkWOk1bwKECEd0DdkYvEC-AOwfkWJDoSiyOM4OHEshuBA_kMlB4Egqz5g6wpY-bV0GtWgR21kYw63FzH4roanDoIdSCndW0BMVZtcjpzwdH-osHuRBEGIMIcgSGq0lgFjgUde0UQAGpAKSVuQA)]
 
 ## 分析
 

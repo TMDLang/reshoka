@@ -1,7 +1,7 @@
 ---
 title: "集會 — 《教育所用 唱歌教材集》 昭和十年（全一冊）"
 song_title: "集會"
-song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_5_05_goho"
+song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_5_05_shukai"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
 description: "〈集會〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
@@ -18,19 +18,19 @@ tempo: "100"
 image:
   - file: "P184.jpg"
 audio:
-  - id: "goho"
+  - id: "shukai"
     label: "鋼琴伴奏版"
-    file: "goho.mp3"
+    file: "shukai.mp3"
 tmd_source:
-  - "goho.tmd"
-  - "goho_piano.tmd"
+  - "shukai.tmd"
+  - "shukai_piano.tmd"
 ---
 
 # 集會
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="goho.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="shukai.mp3"></audio>
 
 - lyricist: 吉丸一昌
 - composer: 北村季晴
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="goho.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="shukai.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](goho.abc)
+[下載 ABC 原始檔](shukai.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](goho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLUwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh6YTOJzt2PNnR8GxGD1gqOT-3IL84tQgo1TP92dyJT9cufjZzixKXlpbCy9ltz-Y0K2hpcSnaKhgaGHDZ2yq4c9mY6JvYgXS-aN_1vHHx8x17n89d_HTXnBdrlz3tnvl0Y8Pjhq5nU2e-aNr0rLPh-ZQVCk-nbHy2tgco9GzuBKCRjxu63-_peDZj7dNJPU97G5_u3PJ-T8_zLYuezd7xYuZ8BQNzI1MFQxOL93s6lbi4fBMz86wCMhPz8h1qDGqquRSAwMZCyw7MqFEwVNAFYiMFYyBtrGACFDEFssyAJEjEAIghIiZAvhFcxASs2gisGywCNs2nRuFx00Yg93HzVCDeA-RtBvP6wDygbHMLmN8JkW2eBOSBIEjffiSVj5u2I8ksA8usQZch0wMgEqILBtE8AHYykIQ4cS3Y8k0wDzStAsuuhsq2IzlzNVhmP1RmJVhfP9zjC5AsRHY-stNM44HuAgUuRAAeuEQpQngA5hCQAyBskGc6wM6YAA5PiBNbgOz18BAF6dwKVg2JQbBOsAe6wDq7gXgeNA62QuMDFBi0iwmgdcgx0QF2EDwpYYkn1KQETYIQfUBPwmJiCUZM1HJx6dopgDKKApBW5gIA)]
-- [鋼琴伴奏 TMD 檔案](goho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5u-3ZnOb3ezpedu95PmHLkz1bni7tf7F2zvs9nQpaWlyKtgqGBgZc9rYK7lw2Jvomdlx1Ckov2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs7AWjP44ZuoD3PZqx9OqnnaW_j051b3u_peb5l0bPZO17MnK9gYG5kqmBoYgG0WYmLyzcxM88qIDMxLz_Iw6HGoKaaSwEIbCy07MCMGgVDBV0gNlIwBtLGCiZAEVMgywxIgkQMgBgiYgLkG8FFTMCqjcC6wSJg03xqFB43bQRyHzdPBeI9QN5mMK8PzAPKNreA-Z0Q2eZJQB4IgvTtR1L5uGk7kswysMwadBkyPQAiIbpgEM0DYCcDSYgT14It3wTzQNMqsOxqqGw7kjNXg2X2Q2VWgvX1wz2-AMlCZOcjO800HuguUOBCBOCBS5QihAdgDgE5AMIGeaYD7IwJ4PCEOLEFyF4PD1GQzq1g1ZAYBOsEe6ALrLMbiOdB42ArND5AgUG7mABahxwTHWAHwZMSlnhCTUrQJAjRB_QkLCaWYMRELXI-8cGRT-IhYQ90NpxFBdFR01FEwSxIKgBGiq6dAiheFIC0MhcA)]
+- [主旋律 TMD 檔案](shukai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLUwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh6YTOJzt2PNnR8GxGD1gqOT-3IL84tQgo1TP92dyJT9cufjZzixKXlpbCy9ltz-Y0K2hpcSnaKhgaGHDZ2yq4c9mY6JvYgXS-aN_1vHHx8x17n89d_HTXnBdrlz3tnvl0Y8Pjhq5nU2e-aNr0rLPh-ZQVCk-nbHy2tgco9GzuBKCRjxu63-_peDZj7dNJPU97G5_u3PJ-T8_zLYuezd7xYuZ8BQNzI1MFQxOL93s6lbi4fBMz86wCMhPz8h1qDGqquRSAwMZCyw7MqFEwVNAFYiMFYyBtrGACFDEFssyAJEjEAIghIiZAvhFcxASs2gisGywCNs2nRuFx00Yg93HzVCDeA-RtBvP6wDygbHMLmN8JkW2eBOSBIEjffiSVj5u2I8ksA8usQZch0wMgEqILBtE8AHYykIQ4cS3Y8k0wDzStAsuuhsq2IzlzNVhmP1RmJVhfP9zjC5AsRHY-stNM44HuAgUuRAAeuEQpQngA5hCQAyBskGc6wM6YAA5PiBNbgOz18BAF6dwKVg2JQbBOsAe6wDq7gXgeNA62QuMDFBi0iwmgdcgx0QF2EDwpYYkn1KQETYIQfUBPwmJiCUZM1HJx6dopgDKKApBW5gIA)]
+- [鋼琴伴奏 TMD 檔案](shukai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng5u-3ZnOb3ezpedu95PmHLkz1bni7tf7F2zvs9nQpaWlyKtgqGBgZc9rYK7lw2Jvomdlx1Ckov2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs7AWjP44ZuoD3PZqx9OqnnaW_j051b3u_peb5l0bPZO17MnK9gYG5kqmBoYgG0WYmLyzcxM88qIDMxLz_Iw6HGoKaaSwEIbCy07MCMGgVDBV0gNlIwBtLGCiZAEVMgywxIgkQMgBgiYgLkG8FFTMCqjcC6wSJg03xqFB43bQRyHzdPBeI9QN5mMK8PzAPKNreA-Z0Q2eZJQB4IgvTtR1L5uGk7kswysMwadBkyPQAiIbpgEM0DYCcDSYgT14It3wTzQNMqsOxqqGw7kjNXg2X2Q2VWgvX1wz2-AMlCZOcjO800HuguUOBCBOCBS5QihAdgDgE5AMIGeaYD7IwJ4PCEOLEFyF4PD1GQzq1g1ZAYBOsEe6ALrLMbiOdB42ArND5AgUG7mABahxwTHWAHwZMSlnhCTUrQJAjRB_QkLCaWYMRELXI-8cGRT-IhYQ90NpxFBdFR01FEwSxIKgBGiq6dAiheFIC0MhcA)]
 
 ## 分析
 

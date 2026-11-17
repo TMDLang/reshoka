@@ -4,11 +4,12 @@ song_title: "そだちます"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_3_02_sodachimasu"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈そだちます〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈そだちます〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） 春は草木が　育ちます…"
 keywords: "そだちます, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
 sources:
+  - "出處：昭和小學唱歌"
   - "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
 musical_key: "F"
 meter: "2/4"
@@ -30,19 +31,30 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="sodachimasu.mp3"></audio>
 
+- 出處：昭和小學唱歌
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
-
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 88
+原書資訊與歌詞全文（對應 P104.jpg，原書 p. 75）：
+- 原譜標記：右上角印「〔昭和小學唱歌〕」；譜首標速度「♩=88」，強弱記號 m.1「mp」、m.9「f」、m.13「mp」（m.6、m.11–12 印有漸弱記號）
+- 調性與拍號：F 大調（一降記號），2/4 拍
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+（一）
+春は草木が　育ちます
+わたしの手足も育ちます
+飛んだり跳（は）ねたりするうちに
+手足はずん／＼育ちます
+
+（二）
+いつも草木は　育ちます
+わたしの體も育ちます
+字を書き　字を讀みするうちに
+體はだん／＼　育ちます
 ```
 
 ## ABC
@@ -53,8 +65,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](sodachimasu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMDUwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thceNcx83LnjcuPBx477HjTMVtLS4FG0VLCy47G0V3LhsjPRN7EBmvWjf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQpPp2x8trYHKPRs7oSXs9seN3S_39PxbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhbv93QqcXH5JmbmWQVkJublO9QY1FRzKQCBjaGZlh2YVaNgqKALhGbxCqbxQBpM1IClfGqA3lgPln3c1A1nw6RrQHpAXEMIA11nP0Rn41Qg7gWzepD0Qmw1VDACksaoGudCNS4A4oVg1j4kjSANIGiA4hiwxplQIRhEtwtEg7QjtDTBHDkfiKeDWeuQNIIcBnIeiDZBtWsZVGMTTGNTE5JGU7CsKZg2I8V3EI0k-Q5kPsgWkFYQRtKyAmJX02SwfSBWFxbfgYIEFDSYsd64Fhw06BohUYBVI8SRkOTSBjYC5Ee0BIPVe6txeA-crMCpC2sqw4gHsNvRYx5r0p6FFDogNoiF7kkj0hMoxE4io7CWi0vXTgGURRWAtDIXAA)]
-- [鋼琴伴奏 TMD 檔案](sodachimasu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPdx44LHjQsfN-573Djz_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2ChQWXva2CG5eNkb6JHVedgtKL9l3PGxc_37H3-dzFT3fNebF22dPumU83Njxu6Ho2deaLpk3POhueT1mh8HTKxmdre4BCz-ZOeDm77XFDN9CaZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEAWqzExeWbmJlnFZCZmJcf5OFQY1BTzaUABDaGZlp2YFaNgqGCLhCaxSuYxgNpMFEDlvKpAfpuPVj2cVM3nA2TrgHpAXENIQx0nf0QnY1TgbgXzOpB0gux1VDBCEgao2qcC9W4AIgXgln7kDSCNICgAYpjwBpnQoVgEN0uEA3SjtDSBHPkfCCeDmatQ9IIchjIeSDaBNWuZVCNTTCNTU1IGk3BsqZg2owU30E0kuQ7kPkgW0BaQRhJywqIXU2TwfaBWF1YfAcKElDQYMZ641pw0KBrhEQBVo0QR0KSSxvYCJAf0RIMVu-txuE9cLICpy6sqQwjHsBuR495rEl7FlLogNggFronjUhPoBA7iYzCWuQc6oMrh8bDws0UzoLZZgIXQaiCuwSPPoQIqjvx6zKECSCsxTQQUw6uDd0uZNfj0oPP7fjCA7e_8IUUphw-2xCqEbYBo1TXTgEUqwpAWpkLAA)]
+- [主旋律 TMD 檔案](sodachimasu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMDUwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDA6oV3My01LRpQqA6pE8AFWfmlicn1esxKWlpfC4ce7jxgWPGxc-btz3uHGmgpYWl6KtgoUFl72tghuXjZG-iR1I99P2XS9mTn2_Z9azGWufTup5uqH_6dodT6dsfLa2B2z6i_ZdzxsXP9-x9_ncxU93zXmxdtnT7plPNzY8buh6NnXmi6ZNzzobnk9ZoQDRAhR6NnfCy9ltjxu63-_pgJrZ2_h055b3e3qeb1n0bPaOFzPnKxiYG5kqGJpYvN_TqcTFpa-lYEstwKWgoPC0bz7Ins3tL1Z0vehoB7rrxcp5T1tXPJvWDnTU0w29z9o7FUApRC-rIB3oLoh6hQI9BXNToIuAgQEy5XHzbqDEi7Vznq2Y-WLFDKDo0_7NT3Z0vVg-6WnvhscNPY8bpmAG2uOGqY8bet_vmQ3U-HLZNKDelw3zn-5aBlT_aOZKWwsLsGzP0z3bn-7ZCDQWFBq5eoZA6dwCoNTjhsZcPUsgLw3GMTSGyQHdnqtnBhE0fNQw2dBIAeiQZ3M6n-3ZATcM6H6o41-s2v-sYTnI_929YIlZbgpPlywHCgMNerKj4eXMXrgWoIuACUIBqJILrLthAiRMkIPuccNEkBxEM9SaZzOWPm5c_6K389mcFY8bgZ5vAKYIeJoDG9XU_7hx_uPG6Y8b1z3r7H6xbfPjpiZ0RS8Xz37cNBmUXJu6XmzfDLQCaCrQiseNa0Gam7qA6h43dT9ubANrWw22GmJY4_rHjbOAmt_v6X-_Zw-KwTDX7uqBBUpjy-PGJSD7oQ5eT8DBL1dPweLap2unP26aBAydx43AKGqAcF-sa3jcuB-LO0FmgBwJ9BvUkVgspTzdQ4GClj4Xly-wOLEKyEzMy3eoMaipBlmgYGNopmUHZmHLbQrP16wBxuqLhT0KGsDUBUxcJjrwHKKJRT3QGpBZNQrVuQW1CoYKukBoqGAaD6TARI2CGYgCCYIZUEGYQiMgaQwWAbFA0ABK14DN9TGsASbhfqjY4-bVYBLEB4o3rYeINm0F4rVg1hqozF6o-gYgbgSz5kFldkLNgrgKbo8RUK6xBWZP4xKwaU0QPY0Q-x83TgXiXjALZDNIZi5UZgEQLwSz9kFlZmLYgz_Qd_VAA90UGOgWRAY6LBhBNCgAa8CBCQpSEG0CFjEFi5iCaTMkEexBDQvS_UC8HRxwfRAPNbdBZRbBZRZREthNsECdD8TTwax10KDrhtrUCQ5Y5IigXnDv6IQGtyW4ACU2kafVgsMQFJKgUARhRJiDYgAUE7DEjCwCzQXYA70DGoCbwYEIYq2CBjo0kJp7wVGCJAMNWlCOeNy0DMwCBT1IDyT4sKfwGdCgnQQNZkh6RpNpArkHWIihBC2wOAOyQYkAEvQgGVBuJCHQn86eDStYjEGhbkZK0QINQCAFClAwD5H-kcsbSNgbIRUtEFXYgx4zVcMKl12ISAGzQSxKCheMVA0vREA8kMxkeHqfDJUhJb3XcnHp2imAinwFIK3MBQA)]
+- [鋼琴伴奏 TMD 檔案](sodachimasu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPdx44LHjQsfN-573Djz_Z6Ol917nk_Y8mTPlqdL-593drzf06mgpcWlaKtgYcFlb6vgxmVjpG9ix1WnoPS0fdeLmVPf75n1bMbap5N6nm7of7p2x9MpG5-t7VECyb9o3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKEC1AoWdzJ7yc3fa4oRvoDKiZvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJBdBhSlxcvomZeVYBmYl5-UEeDjUGNdVcCkBgY2imZQdm6Wsp2KIDhedr1jzZ0fBiYY-CRq6e4aOGySY6CgGGBiZ6WQXpmljUa-mDzapRqM4tqFUwVNAFQkMF03ggBSZqFMxAFEgQzIAKwhQaAUljsAiIBYIGULoGbK6PYY3C4-Z-qNjj5tVgEsQHijeth4g2bQXitWDWGqjMXqj6BiBuBLPmQWV2Qs2CuApujxFQrrEFZk_jErBpTRA9jRD7HzdOBeJeMAtkM0hmLlRmARAvBLP2QWVmYtiDP9B39UAD3RQY6BZEBjosGEE0KABrwIEJClIQbQIWMQWLmIJpMyQR7EENC9L9QLwdHHB9EA81t0FlFsFlFlES2E2wQJ0PxNPBrHXQoOuG2tQJDljkiKBecO_ohAa3JTC4DY2ITeRpteAwBIUkKBRBGBHmoBgAxQQsMSOLQHMB9kDvgAbgZnAggliroIEODaTmXnCUIMlAgxaUIx43LQOzQEEP0gMJPuwpfAY0aCdBgxmSntFkmkDuedwIsg8RtI-buoFsUCKABD1IBpQbSQj0p7NnwwoWY1Com5FStEADEEiBAhTMQ6R_5PIGEvZGSEULRBX2oMdM1bDCZRciUsBsEIuSwgUjVcMLERAPJDMZnt4nQ2VISe-1yCW-D3KJbwEt8GGFdLxCtGEsMLggdI2CCZBhEgsTB4YXugIwyzQ-FhyCED_BVYEokBSKANA0nHxkM0D5iXjbMVyMYhTIa1BxKEXQLBR3QwwDhqKunQIoIKN9gIJwthGYrcwFAA)]
 
 ## 分析
 
@@ -74,12 +86,12 @@ tmd_source:
 🗝  調性診斷：       F 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  C, F, G, D, A
-   - 調性數值:    F 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): F 大調 (0.84), C 大調 (0.81), D 小調 (0.59)
+   - 核心骨幹音:  F, C, D, G, A
+   - 調性數值:    F 大調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.85), C 大調 (0.73), D 小調 (0.69)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Main #1]: F 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -92,12 +104,12 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  26.8%
+     C  : ████████████████████      21.4%
      C# :                            0.0%
-     D  : ██████████████            16.1%
+     D  : █████████████████         18.7%
      D# :                            0.0%
      E  :                            0.0%
-     F  : █████████████████████     23.2%
+     F  : ████████████████████████  25.9%
      F# :                            0.0%
      G  : █████████████████         18.7%
      G# :                            0.0%

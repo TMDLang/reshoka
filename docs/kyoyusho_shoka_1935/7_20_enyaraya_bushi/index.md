@@ -18,19 +18,19 @@ tempo: "100"
 image:
   - file: "P255.jpg"
 audio:
-  - id: "7_20_enyaraya_bushi"
+  - id: "enyaraya_bushi"
     label: "鋼琴伴奏版"
-    file: "7_20_enyaraya_bushi.mp3"
+    file: "enyaraya_bushi.mp3"
 tmd_source:
-  - "7_20_enyaraya_bushi.tmd"
-  - "7_20_enyaraya_bushi_piano.tmd"
+  - "enyaraya_bushi.tmd"
+  - "enyaraya_bushi_piano.tmd"
 ---
 
 # エンヤラヤ節
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_20_enyaraya_bushi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="enyaraya_bushi.mp3"></audio>
 
 - lyricist: 赤尾寅吉
 - composer: 赤尾寅吉
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_20_enyaraya_bushi.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="enyaraya_bushi.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_20_enyaraya_bushi.abc)
+[下載 ABC 原始檔](enyaraya_bushi.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_20_enyaraya_bushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTJF0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEsGKciqBAkBxK4UXW5c83bDv6frWpxM6wVLJ-bkF-cWpRehSWloKj5tWPG7e_Lh5yePmlUDy-foGBS0tLkVbBUMDAy57WwU3LhsjfRM7kCkv2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs74eXstscN3e_3dDybsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJxfs9QAdx-SZm5lkFZCbm5TvUGNRUcykAgY2hmZYdmFWjYKygq2CoYASmzYC4BkyaAvlGYBmQCIgF44FoiC4QNIXSEF0waAASAZvvUwMND6AIMDCAeCWYBvH2gPXhlO6ASq8G8Zo2gsktYBkQGySzF2rd4-a1cGc8bp6B5BCwGNSjIEeBnA1yMoiuAbPMwF5F9ijI4yCeWTxEEYiCQYQqrF6FOGYT3PmPmxdCHdUFdv4asK9BngTJLYLKQdRvgsg1bQerXA-V60ey6nETSCVIFGQqLi9CvIAcT8i4BuE1RGSCWDAIFkH1D8gNELuBNkNiBxT6q-AOfdzcDSb7oDL74V6HBQPI-yCHg-IS7p3m_sfNzUiuBzkDNSVCRJCdCnU5Sgwhq0KEBmkpDxYnEHmYw8g1AeKKWi4uXTsFUP5TANLKXAA)]
-- [鋼琴伴奏 TMD 檔案](7_20_enyaraya_bushi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOJx8-bHzUseN68Eks_XN7zf0_Gye8_zCVue7NnydGn_i7Vz3u_pVNDS4lK0VTA0MOCyt1Vw47Ix0jex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBtrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAm5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMbQTMsOzKpRMFbQVTBUMALTZkBcAyZNgXwjsAxIBMSC8UA0RBcImkJpiC4YNACJgM33qYEGE1AEGEZAvBJMg3h7wPpwSndApVeDeE0bweQWsAyIDZLZC7XucfNauDMeN89AcghYDOpRkKNAzgY5GUTXgFlmYK8iexTkcRDPLB6iCETBIEIVVq9CHLMJ7vzHzQuhjuoCO38N2NcgT4LkFkHlIOo3QeSatoNVrofK9SNZ9bgJpBIkCjIVlxchXkCOJ2Rcg_AaIjJBLBgEi6D6B-QGiN1AmyGxAwr9VXCHPm7uBpN9UJn9cK_DggHkfZDDQXEJ905z_-PmZiTXg5yBmhIhIshOhbocJYaQVSFCg7SUB4sTiDzMYeSaAHFFLXL288GR_QzjQZ4wBZMQNoSEyWDKg5IkuhiEjaoHt2koMkhJhyR9WFxBmh5kEtkVlPoLtx5Uu4gLeWxmkuRnUDLQtVMApQQFIK3MBQA)]
+- [主旋律 TMD 檔案](enyaraya_bushi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTJF0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEsGKciqBAkBxK4UXW5c83bDv6frWpxM6wVLJ-bkF-cWpRehSWloKj5tWPG7e_Lh5yePmlUDy-foGBS0tLkVbBUMDAy57WwU3LhsjfRM7kCkv2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs74eXstscN3e_3dDybsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJxfs9QAdx-SZm5lkFZCbm5TvUGNRUcykAgY2hmZYdmFWjYKygq2CoYASmzYC4BkyaAvlGYBmQCIgF44FoiC4QNIXSEF0waAASAZvvUwMND6AIMDCAeCWYBvH2gPXhlO6ASq8G8Zo2gsktYBkQGySzF2rd4-a1cGc8bp6B5BCwGNSjIEeBnA1yMoiuAbPMwF5F9ijI4yCeWTxEEYiCQYQqrF6FOGYT3PmPmxdCHdUFdv4asK9BngTJLYLKQdRvgsg1bQerXA-V60ey6nETSCVIFGQqLi9CvIAcT8i4BuE1RGSCWDAIFkH1D8gNELuBNkNiBxT6q-AOfdzcDSb7oDL74V6HBQPI-yCHg-IS7p3m_sfNzUiuBzkDNSVCRJCdCnU5Sgwhq0KEBmkpDxYnEHmYw8g1AeKKWi4uXTsFUP5TANLKXAA)]
+- [鋼琴伴奏 TMD 檔案](enyaraya_bushi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjctOJx8-bHzUseN68Eks_XN7zf0_Gye8_zCVue7NnydGn_i7Vz3u_pVNDS4lK0VTA0MOCyt1Vw47Ix0jex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBtrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAm5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMbQTMsOzKpRMFbQVTBUMALTZkBcAyZNgXwjsAxIBMSC8UA0RBcImkJpiC4YNACJgM33qYEGE1AEGEZAvBJMg3h7wPpwSndApVeDeE0bweQWsAyIDZLZC7XucfNauDMeN89AcghYDOpRkKNAzgY5GUTXgFlmYK8iexTkcRDPLB6iCETBIEIVVq9CHLMJ7vzHzQuhjuoCO38N2NcgT4LkFkHlIOo3QeSatoNVrofK9SNZ9bgJpBIkCjIVlxchXkCOJ2Rcg_AaIjJBLBgEi6D6B-QGiN1AmyGxAwr9VXCHPm7uBpN9UJn9cK_DggHkfZDDQXEJ905z_-PmZiTXg5yBmhIhIshOhbocJYaQVSFCg7SUB4sTiDzMYeSaAHFFLXL288GR_QzjQZ4wBZMQNoSEyWDKg5IkuhiEjaoHt2koMkhJhyR9WFxBmh5kEtkVlPoLtx5Uu4gLeWxmkuRnUDLQtVMApQQFIK3MBQA)]
 
 ## 分析
 

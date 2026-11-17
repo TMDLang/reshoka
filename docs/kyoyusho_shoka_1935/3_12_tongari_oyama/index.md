@@ -4,7 +4,7 @@ song_title: "とんがりお山"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_3_12_tongari_oyama"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈とんがりお山〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈とんがりお山〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一二　とんがりお山 （一）…"
 keywords: "とんがりお山, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -34,15 +34,40 @@ tmd_source:
 
 ## 說明
 
-
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= F，拍號 <2/4>，速度 != 96
+=== 原書資訊與歌詞全文 ===
+對應掃描頁：P114.jpg（第三學年用・一二，原書 p. 85，目次標註〔遊〕）
+調號與拍號：ヘ長調（F 大調，1♭，終止於 D4 之ニ短調／六聲音階曲調），2/4 拍
+速度說明：原譜未標速度，演奏速度（!= 96）為編者設定。
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+一二　とんがりお山
+
+（一）
+とんがり　お山の　てつぺんに
+お星が　ぴつかり　光つてる　光つてる
+
+（二）
+とんがり　お山の　てつぺんに
+昔の城が　あるさうな　あるさうな
+
+（三）
+お城の　くらには　お姬樣
+たつた　一人で　ゐるさうな　ゐるさうな
+
+（四）
+まつかな　ばらを　手に持つて
+お星を　眺めて　ゐるさうな　ゐるさうな
+
+（五）
+金の　らんぷが　燃えるよに
+ばあやが　聞かせる　物語　物語
+
+（六）
+とんがり　お山の　てつぺんに
+お星が　今夜も　光つてる　光つてる
 ```
 
 ## ABC
@@ -53,8 +78,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tongari_oyama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMDU0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thceNKx43TX7c2PO4qetxY9fTjRsVtLS4FG0VLM247G0V3LhsjPRN7EDGvWjf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQpPp2x8trYHKPRs7oSXs9seN3S_39PxbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhbv93QqcXH5JmbmWQVkJublO9QY1FRzKQCBjYWWHZhRo2AWD0Wm8Qo1YDGfGpAPFIBeANI9QLoLKgFWbASExsgqu4AqWoD0PiBeB1dpDISmqAqXAfFiIN4FNhqhUFfBAIiRFK4GckEQ1SxTNEsbdwPxdLATEQpBVhoiK9wCtbQbxR8gLxihKtwEUQRWvAzZwyCXIKts6gYLPW7eQ6ZxqL6FGgcSquXi0rVTAMWXApBW5gIA)]
-- [鋼琴伴奏 TMD 檔案](tongari_oyama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOJx0-THjT2Pm7oeN3Y93bjx_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CpRmXva2CG5eNkb6JHVedgtKL9l3PGxc_37H3-dzFT3fNebF22dPumU83Njxu6Ho2deaLpk3POhueT1mh8HTKxmdre4BCz-ZOeDm77XFDN9CaZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEAWqzExeWbmJlnFZCZmJcf5OFQY1BTzaUABDYWWnZgRo2CWTwUmcYr1IDFfGpAHlMA-gxI9wDpLqgEWLEREBojq-wCqmgB0vuAeB1cpTEQmqIqXAbEi4F4F9hohEJdBQMgRlK4GsgFQVSzTNEsbdwNxNPBTkQoBFlpiKxwC9TSbhR_gLxghKpwE0QRWPEyZA-DXIKssqkbLPS4eQ-ZxqH6FmocSKgWObp8sEeXSTzICEMwCTMVImaKImYIUYYugrAbpxKIaTAhiKmoYhAecgzhVgWxEOgzXTsFkOcUgLQyFwA)]
+- [主旋律 TMD 檔案](tongari_oyama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMDU0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI68xJLSolR0UZBKoDsLMCRKMnNT4_PT4lMSK9Gl0vJzsnPyQWZpaSk8blzxuGny48aex01djxu7nm7cqKClxaVoq2BpxmVvq-DGZWOkb2IHMuFF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDpl47O1PUChZ3MnvJzd9rih-_2ejmcz1j6d1PO0t_Hpzi3v9_Q837Lo2ewdL2bOVzAwNzJVMDSxeL-nU4mLS19LwdbWVuFp33yQ9Ob2Fyu6XnS0A417sXLe09YVz6a1g-S5FBQUnm7ofdbe-ayv-Vl__8sFje_3zAJFs15WQTrQtudr1jzZ0fl07Q6gbUAnPW7e_WRHw5NdPUCbIUYrFOgpWJiCHDJ73bM1C5-tmPlixe7HDVNeNnY9bpgKdAvIiher9gNdCLK_uxfIAFrxuHnGy6nbgeJAO9wUni5ZDmb2GD6auRZk1tamZ2sXPZu2R8HFROHJzu7Hzd3P568FK-l_2rr2ReOml_M3v5zV92z2JrBgJ1APMHAVgMaDrHvZMP_prmUvVq16NqMPaBfQoS_Wznk2ZxXQcRApoPJne6Y8XdoP43aAowlo0POmXc-3r3jR0Ppixdqn62Y9bmjiApkI8fTjhgbMSAbLA00AKoH6FkUNSAtI2ePGdWD2sseNSx437gIrWA1R3fVsxnyQapD0FrB0N0Tn09ZOMHfZ46ZuNC7cVlBUkGHrsxlTgHJP5_fBLG4C2dE49XFj2-PGVZgiCF8CwxpqXxdYO8SC_sdNQMetfty4Hmr38jXPViyGqAN6Dmj5fKAEOBh3PW5cDlLUNAHdSlQRmJVPZ8-GW7kPGjxQJ24A2do0Cch-1gkUXP2spxESQkgBC5Z-Pgfod6DcMlIsfrJrCtTil-0ToR4F2QcMw-2QYHve3vy4sQOkt6kDHp0bwEHXAlHxonEe2L2zIVH4vHPli1Xz4Ay4F1uBqZ7CtPNkd9fTJXMeNzURSDhAbcCMjx0oaOlzcfkCi02rgMzEvHyHGoOaapAGBRsLLTswA1isgIuEhhcLexQ0cvUMHzVMNtUE6QPJ1iiYxUORaTyEZ6hgpGAMZBoDoamCCZBlpKCrYADEEDETkBhYs49hjcLj5g4g3qzwuGkNkF4FVPO4aRWQtQSI5wFxH0ikuQ2IW4B4FlgtSKQbaF482EyI-tlAejvYFKjZRkCZxhVAkclAugdId4HUNnYBWUCTGvcB8TqwyDIgBtrWuAusFiSyGsnsBiC_G4inQ9SD4w8WJrt6oGFiBgwTQwOkQAH50xgYEiC_GwMxiAUMGl0gxCIIDhukEJkC8W3TaliINE-C8kBh0AYWAbkRBHHLgn2AFBbTgfzHTb3g0ADxm4A8kM-mAjFYV-MqhJk4ZCFm1nJx6dopgFKNApBW5gIA)]
+- [鋼琴伴奏 TMD 檔案](tongari_oyama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuOJx0-THjT2Pm7oeN3Y93bjx_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2CpRmXva2CG5eNkb6JHVedgtKL9l3PGxc_37H3-dzFT3fNebF22dPumU83Njxu6Ho2deaLpk3POhueT1mh8HTKxmdre4BCz-ZOeDm77XFDN9CaZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEAWqzExaWvpfC0bz7QHc_mrHq2YubLhvlPdy0Dqn-2ZwrQfTBuB9h5QB3Pm3Y9377iRUPrixVrn66b9bihSUFLn4vLNzEzzyogMzEvP8jDocagpppLAQhsLLTswAygJc_XrHmyo-HFwh4FjVw9w0cNk001QTpBsjUKZvFQZBoP4RkqGCkYA5nGQGiqYAJkGSnoKhgAMUTMBCQG1uxjWKPwuLkDiDcrPG5aA6RXAdU8bloFZC0B4nlA3AcSaW4D4hYgngVWCxLpBpoXDzYTon42kN4ONgVqthFQpnEFUGQykO4B0l0gtY1dQBbQpMZ9QLwOLLIMiIG2Ne4CqwWJrEYyuwHI7wbi6RD1XMhhsqsHGiZmwDAxNEAKFJA_jYEhAfK7MRCDWMCg0QVCLILgsEEKkSkQ3zathoVI8yQoDxQGbWARkBtBELcs2AdIYTEdyH_c1AsODRC_CcgD-WwqEIN1Na5CmIlDFmJmLXKi8cGWaEAeA6mNNovPjQWbCOEbg0kYzwjCAVOQ9AERN4GogppkCDbIEGIMWG20EaqpCFvA0qiWQAIX6GRdOwWQq6N9QEbB2EZgtjIXAA)]
 
 ## 分析
 
@@ -74,12 +99,12 @@ tmd_source:
 🗝  調性診斷：       D 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, G, C, F
-   - 調性數值:    D 小調 [相關度: 0.71, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 小調 (0.71), A 小調 (0.67), D 大調 (0.65)
+   - 核心骨幹音:  A, D, G, F, A#
+   - 調性數值:    D 小調 [相關度: 0.81, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 小調 (0.81), D 大調 (0.65), G 小調 (0.57)
    - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Main #1]: D 小調 (r: 0.71, 自然音純度: 100.0%)
+     • [Main #1]: D 小調 (r: 0.81, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -92,17 +117,17 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████████                13.9%
+     C  : █████                      5.6%
      C# :                            0.0%
-     D  : ██████████████████        25.0%
+     D  : ██████████████████████    25.0%
      D# :                            0.0%
      E  :                            0.0%
-     F  : ████████                  11.1%
+     F  : ████████████              13.9%
      F# :                            0.0%
-     G  : ████████████              16.7%
+     G  : █████████████████         19.4%
      G# :                            0.0%
-     A  : ████████████████████████  33.3%
-     A# :                            0.0%
+     A  : ████████████████████████  27.8%
+     A# : ███████                    8.3%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：

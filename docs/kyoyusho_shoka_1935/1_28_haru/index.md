@@ -4,13 +4,12 @@ song_title: "はる"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_1_28_haru"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈はる〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（曲：昭和小學唱歌），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：さくら　さくら　さくらの　花が お山の　うへに　きれいに　咲いた…"
-keywords: "はる, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 昭和小學唱歌"
+description: "〈はる〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) さくら　さくら　さくらの　花が…"
+keywords: "はる, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
-credits:
-  - "曲：昭和小學唱歌"
 sources:
+  - "出處：昭和小學唱歌"
   - "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
 musical_key: "F"
 meter: "4/4"
@@ -32,23 +31,24 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="haru.mp3"></audio>
 
-- 曲：昭和小學唱歌
+- 出處：昭和小學唱歌
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
 原書資訊與歌詞全文（對應 P068.jpg，原書 p. 41）：
-調性與拍號：F 調 4/4 拍子，♩=108
+調性與拍號：F 調 4/4 拍子（原書拍號誤植為 2/4，實為 4/4），♩=108
+出處標示：〔昭和小學唱歌〕
 
 
 ## 歌詞
 
 ```text
-一、
+(一)
 さくら　さくら　さくらの　花が
 お山の　うへに　きれいに　咲いた
 
-二、
+(二)
 ことり　ことり　ことりも　春は
 こえだの　うへで　たのしく　なくよ
 ```
@@ -61,8 +61,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](haru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzCwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thceN6x83dStoaXEp2ioYGlhw2dsquHHZmOib2IHMeDZ70_s9s57NWPt0Us_TDf1P1-54OmXjs7U9YAtetO963rj4-Y69z-cufrprzou1y552z3y6seFxQ9ezqTNfNG161tnwfMoKBYgWoNCzuRNezm573ND9fk8H1Mzexqc7t7zf0_N8y6Jns3e8mDlfwcDcyFTB0MTi_Z5OJS4ufS0FW2oBLgUFhad980H2bG5_saLrRUc70F0vVs572rri2bR2oKOebuh91t6pAIopvayCdKC7IOoVCvQUTAyBLgIGBsiUF6v2P2tYDtLf3Qt0M1DUDSSmAAw2BaDQ07UTgFofzVxpCwpRkIYnO4Ch0ghiPW6c-rix_3FT5-OGBuzsxnVA7ouujY8beyAaup5uBHJAoo8b2x437njcuBrM7n3c1PO4sQXCfTppE5g9H2Lfrh64fZMfN6543NQF1oKN3dQE5D6bsRSYFOAaOh43LkC1cjmYPR8k2Dgd5FIQdxXYyR0gbZRHDxQoaOlzcXkkFpVaBWQm5uU71BjUVIMsULAx0bIDM7ClCYXna9YAA_nFwh4FDRMFYFJ9vr5BBykiZ0MiEhJfL1Ytebak93nTLgUjfRNQJK9fBuIAY08Ti8lA94BsrVEwVNAFYiMgy1jBFAgNgCwzIDQF8kGyxkA5oBhYtU8NKKaBGoAhpACMVaACEB_G00XjA4MVLLIeiFcBcQ9IBTgmcft2Vw8O3-L1hDEYmsKdjuoJIyBpiOqJLqADW4D0Prgj24B4BxCvhnqjF6iiB0iDVK2GewzEmw_2Ri0Xl66dAihKFYC0MhcA)]
-- [鋼琴伴奏 TMD 檔案](haru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcuP5xU_f7PR0vu_c8n7DlyZ4tT5f2v1g75_2eTgUtLS5FWwVDAwsue1sFNy4bE30TO646BaVnsze93zPr2Yy1Tyf1PN3Q_3TtjqdTNj5b26MEknzRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUIFqAQs_mTng5u-1xA8gRUDN7G5_u3PJ-T8_zLYuezd7xYuZ8BQNzI1MFQxMLoLOUuLg8EotKrQIyE_PygzwcagxqqrkUgMDGRMsOzNDXUrBFBwrP16x5sqPhxcIeBQ0TBaCrn69v0FEIMDCz0MsqSH-_Z_bTvvlAu5519wKte7FqybMlvc-bdikY6ZsA3fF0_TIQB-h_TSwma-mDba1RMFTQBWIjIMtYwRQIDYAsMyA0BfJBssZAOaAYWLVPDTDopwI1PG7sV3jc1AlUAOLDeLpo_MeN68Ai64F4FRD3gFRw4fftrh4cvsXrCWMwNIU7HdUTRkDSENUTXUAHtgDpfXBHtgHxDiBeDfVGL1BFD5AGqVoN9xiINx_sjVrkGPVBjlEjaIwCQy9ewTQ-HsIAohoFEygNk0CoQ5GG0SA1IAbIMl07BZB9CkBamQsA)]
+- [主旋律 TMD 檔案](haru.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzCwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI7i1MTi_LxidOECoFokx0MEE_MycxNz0EXzEktKi1KVuLS0FB43rn_c1K2gpcWlaKtgaGDBZW-r4MZlY6JvYgfS9LR914uZU9_vmfVsxtqnk3qebuh_unbH0ykbn63tARv6on3X88bFz3fsfT538dNdc16sXfa0e-bTjQ2PG7qeTZ35omnTs86G51NWKEC0AIWezZ3wcnbb44bu93s6oGb2Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYW7_d0KnFx6Wsp2FILcCkoKDztmw-yZ3P7ixVdLzrage56sXLe09YVz6a1Ax31dEPvs_ZOBVBS0csqSAe6C6JeoUBPwcQQ6CJgYIBMebFq_7OG5SD93b1ANwNF3UBiCsCQUwAKPV07AWQYWCtExYtVS54t6X3etEvBSN8EZOz6ZSAOUD3Y0J5HM1fagiIA5EJwqD9bMfP5kl1Agx83TMEM_scNU7lAajWe7GjQBDEeN0593Nj_uKnzcUMDdnbjOiD3RdfGx409EA1dTzcCOSDRx41tjxt3PG5cDWb3Pm7qedzYAuE-nbQJzJ4PtW5XD9S6yY8bVzxu6gLrwMZuagJyn81YCkxicA0djxsXoNq4HMyeDxJsnA5yKIi7CuziDpA2yuMcChS09Lm4PBKLSq0CMhPz8h1qDGqqQRYo2Jho2YEZ2BKawvM1a4Ah_GJhj4KGiQIwAp6vb9BBSh2ziYtiTSwmA90DsrVGwVBBF4iNgCxjBVMgNACyzIDQFMgHyRoD5YBiYNU-hjUKj5u2AnU8blqv8Lh5JVAFiA_jxaPxHzf3gUSa-4G4Cyi6BqQCYpIRULxxMsikxhVAmS6QOiAfxgObhMQHxidYBGgusMAA0SCT8Afcrh4cAYc3PIzB0BQeCqjhYQQkDdHCYxXQd0uAeB7Mv03LgKwZQNwNDZG1QPYaIA1S1Q0PIyCvaT9GiACTKRAvAOJ1YB-3AfEOIF4ODZP5YBlgcgXifrAI0H4gC5hiwWbVcnHp2imAkpoCkFbmAgA)]
+- [鋼琴伴奏 TMD 檔案](haru_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMzCwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thceN6x83db_f0_Gye8_zCVue7NnydGn_i7Vz3u_pVNDS4lK0VTA0sOCyt1Vw47Ix0TexAxn8tH3Xi5lT3--Z9WzG2qeTep5u6H-6dsfTKRufre0BW_yifdfzxsXPd-x9Pnfx011zXqxd9rR75tONDY8bup5NnfmiadOzzobnU1YoQLQAhZ7NnfBydtvjBpA7oGb2Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYWQJcpcXF5JBaVWgVkJublB3k41BjUVHMpAIGNiZYdmKGvpWCLDhSer1nzZEfDi4U9ChomCkBXP1_foKMAihW9rIL093tmP-2bD7TrWXcv0LoXq5Y8W9L7vGmXgpG-CdAdT9cvA3GAQaCJxWQtfbCtNQqGCrpAbARkGSuYAqEBkGUGhKZAPkjWGCgHFAOr9jGsUXjctBWo43HTeoXHzSuBKkB8GC8ejf-4uQ8k0twPxF1A0TUgFRCTjIDijZNBJjWuAMp0gdQB-TAe2CQk_uOmJrAI0NymbjANMgl_wO3qwRFweMPDGAxN4aGAGh5GQNIQLTxWAX23BIjnwfzbtAzImgHE3dAQWQtkrwHSIFXd8DAC8pr2Y4TI48YOIF4AxOvAPm4D4h1AvBwaJvPBMo8bpwNxP1gEaD-Q9bipA2xWLXJK88GW0moUog3jY4FBD6aiTeOBJKoYyM_RJgi-LpI8WDksAFC1gZUhacNqDFg_xGaoGpCTde0UQK6O9jEEKoOxjcBsZS4A)]
 
 ## 分析
 

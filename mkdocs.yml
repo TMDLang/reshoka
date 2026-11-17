@@ -83,7 +83,6 @@ nav:
   - 資料與說明:
       - 資料來源與各冊導覽: sources.md
       - 內容產生過程: workflow.md
-      - 詞曲作者索引: credits_index.md
       - 唱歌教材的流動與變化: shoka_genealogy.md
       - 跨冊重複與同名歌曲索引: duplicate_songs.md
       - 同一歌名的多個版本: same_title_songs.md
@@ -1546,7 +1545,7 @@ nav:
           - "3-05 めくら鬼": kyoyusho_shoka_1935/3_05_mekura_oni/index.md
           - "3-06 夕立": kyoyusho_shoka_1935/3_06_yudachi/index.md
           - "3-07 夕日": kyoyusho_shoka_1935/3_07_yuhi/index.md
-          - "3-08 田舍の夕": kyoyusho_shoka_1935/3_08_inaka_no_yugure/index.md
+          - "3-08 田舍の夕": kyoyusho_shoka_1935/3_08_inaka_no_yube/index.md
           - "3-09 浦島太郎": kyoyusho_shoka_1935/3_09_urashima_taro/index.md
           - "3-10 運動會": kyoyusho_shoka_1935/3_10_undokai/index.md
           - "3-11 せみ": kyoyusho_shoka_1935/3_11_semi/index.md
@@ -1563,7 +1562,7 @@ nav:
           - "3-22 花咲爺": kyoyusho_shoka_1935/3_22_hanasaka_jijii/index.md
           - "3-23 月夜の兎": kyoyusho_shoka_1935/3_23_tsukiyo_no_usagi/index.md
           - "3-24 さるかに": kyoyusho_shoka_1935/3_24_sarukani/index.md
-          - "3-25 臺車をぢさん": kyoyusho_shoka_1935/3_25_daisha_no_ojisan/index.md
+          - "3-25 臺車のをぢさん": kyoyusho_shoka_1935/3_25_daisha_no_ojisan/index.md
           - "3-26 おほさむ こさむ": kyoyusho_shoka_1935/3_26_ohosamu_kosamu/index.md
           - "3-27 電信柱": kyoyusho_shoka_1935/3_27_denshin_bashira/index.md
           - "3-28 雞": kyoyusho_shoka_1935/3_28_niwatori/index.md
@@ -1611,11 +1610,11 @@ nav:
       - 男女青年用:
           - "5-01 御製": kyoyusho_shoka_1935/5_01_gyosei/index.md
           - "5-02 勇ましき魂": kyoyusho_shoka_1935/5_02_isamashiki_tamashii/index.md
-          - "5-03 私の使命": kyoyusho_shoka_1935/5_03_hikari_no_shimei/index.md
+          - "5-03 私の使命": kyoyusho_shoka_1935/5_03_watashi_no_shimei/index.md
           - "5-04 貴く生きん": kyoyusho_shoka_1935/5_04_totoku_ikin/index.md
-          - "5-05 集會": kyoyusho_shoka_1935/5_05_goho/index.md
+          - "5-05 集會": kyoyusho_shoka_1935/5_05_shukai/index.md
           - "5-06 一日の終": kyoyusho_shoka_1935/5_06_ichinichi_no_owari/index.md
-          - "5-07 舊友": kyoyusho_shoka_1935/5_07_senyu/index.md
+          - "5-07 舊友": kyoyusho_shoka_1935/5_07_kyuyu/index.md
           - "5-08 農村の歌": kyoyusho_shoka_1935/5_08_noson_no_uta/index.md
           - "5-09 樂しき我が家": kyoyusho_shoka_1935/5_09_tanoshiki_wagaya/index.md
           - "5-10 ラヂオ體操の歌": kyoyusho_shoka_1935/5_10_rajio_taiso_no_uta/index.md
@@ -1658,7 +1657,7 @@ nav:
           - "7-07 食前の反省": kyoyusho_shoka_1935/7_07_shokuzen_no_hansei/index.md
           - "7-08 子守唄": kyoyusho_shoka_1935/7_08_komoriuta/index.md
           - "7-09 里心": kyoyusho_shoka_1935/7_09_satogokoro/index.md
-          - "7-10 娘ごろ": kyoyusho_shoka_1935/7_10_musumegokoro/index.md
+          - "7-10 娘ごろ": kyoyusho_shoka_1935/7_10_musumegoro/index.md
           - "7-11 一つとや": kyoyusho_shoka_1935/7_11_hitotsutoya/index.md
           - "7-12 土に生きん": kyoyusho_shoka_1935/7_12_tsuchi_ni_ikin/index.md
           - "7-13 野の幸": kyoyusho_shoka_1935/7_13_no_no_sachi/index.md

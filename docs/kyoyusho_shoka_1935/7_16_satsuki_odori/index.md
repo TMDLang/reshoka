@@ -18,19 +18,19 @@ tempo: "96"
 image:
   - file: "P251.jpg"
 audio:
-  - id: "7_16_satsuki_odori"
+  - id: "satsuki_odori"
     label: "鋼琴伴奏版"
-    file: "7_16_satsuki_odori.mp3"
+    file: "satsuki_odori.mp3"
 tmd_source:
-  - "7_16_satsuki_odori.tmd"
-  - "7_16_satsuki_odori_piano.tmd"
+  - "satsuki_odori.tmd"
+  - "satsuki_odori_piano.tmd"
 ---
 
 # さつき踊
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_16_satsuki_odori.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="satsuki_odori.mp3"></audio>
 
 - lyricist: 水谷武夫
 - composer: 水谷武夫
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_16_satsuki_odori.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="satsuki_odori.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_16_satsuki_odori.abc)
+[下載 ABC 原始檔](satsuki_odori.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_16_satsuki_odori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTA0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh2YYtLzZsf7Z22dMlq8FSyfm5BfnFqUXoUlpaCo8bpz5uXPK4sffFji4FLS0uRVsFSzMue1sFJx0uGyN9EzuQ_hftu543Ln6-Y-_zuYuf7przAqi9e-bTjQ2PG7qeTZ35omnTs86G51NWKDydsvHZ2h6g0LO5E17Obnvc0P1-T8ezGWufTup52tv4dOeW93t6nm9Z9Gz2jhcz5ysYmBuZKhiaWLzf06nExeWbmJlnFZCZmJfvUGNQU82lAAQ2Flp2YEaNglm8gq6CaTwIIThAukbBCMg2RBU3BnLA-nxqFB439wMFHzd3KTxuWgNU87hpK4jftB4otgfM3weW3wPnrwDLbwXym6HGAC1BttEQyDZCMEEQxjJAsrhpLdjgfrjBi8AGrwZbDnJYF1wzSAWUTbl_p4KtbQJbDeIvAPNXwp0B9j-Sf8HObFoGxDux-xdoPJgDFIRyIK6GMpH9jN0yoBWPm1fg8XMtF5eunQIoCSgAaWUuAA)]
-- [鋼琴伴奏 TMD 檔案](7_16_satsuki_odori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPVx45LHjb0vdnS939PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwNOOyt1Vw0uGyMdI3seOqU1B60b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6Aba82zG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYWQJuVuLh8EzPzrAIyE_PygzwcagxqqrkUgMDGQssOzKhRMItX0FUwjQchBAdI1ygYAdmGqOLGQA5Yn0-NwuPmfqDg4-YuhcdNa4BqHjdtBfGb1gPF9oD5-8Dye-D8FWD5rUB-M9QYoCXINhoC2UYIJgjCWAZIFjetBRvcDzd4Edjg1WDLQQ7rgmsGqYCyKffvVLC1TWCrQfwFYP5KuDPA_kfyL9iZTcuAeCd2_wKNB3OAglAOxNVQJrKfsVsGtOJx8wo8fq5FTgE-2FOAYXw8CsYmYgokQRiPGqhpuFXCRAnZCPM2_VwGcx0xLgOGqK6dAihQFYC0MhcA)]
+- [主旋律 TMD 檔案](satsuki_odori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTA0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh2YYtLzZsf7Z22dMlq8FSyfm5BfnFqUXoUlpaCo8bpz5uXPK4sffFji4FLS0uRVsFSzMue1sFJx0uGyN9EzuQ_hftu543Ln6-Y-_zuYuf7przAqi9e-bTjQ2PG7qeTZ35omnTs86G51NWKDydsvHZ2h6g0LO5E17Obnvc0P1-T8ezGWufTup52tv4dOeW93t6nm9Z9Gz2jhcz5ysYmBuZKhiaWLzf06nExeWbmJlnFZCZmJfvUGNQU82lAAQ2Flp2YEaNglm8gq6CaTwIIThAukbBCMg2RBU3BnLA-nxqFB439wMFHzd3KTxuWgNU87hpK4jftB4otgfM3weW3wPnrwDLbwXym6HGAC1BttEQyDZCMEEQxjJAsrhpLdjgfrjBi8AGrwZbDnJYF1wzSAWUTbl_p4KtbQJbDeIvAPNXwp0B9j-Sf8HObFoGxDux-xdoPJgDFIRyIK6GMpH9jN0yoBWPm1fg8XMtF5eunQIoCSgAaWUuAA)]
+- [鋼琴伴奏 TMD 檔案](satsuki_odori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPVx45LHjb0vdnS939PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwNOOyt1Vw0uGyMdI3seOqU1B60b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6Aba82zG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYWQJuVuLh8EzPzrAIyE_PygzwcagxqqrkUgMDGQssOzKhRMItX0FUwjQchBAdI1ygYAdmGqOLGQA5Yn0-NwuPmfqDg4-YuhcdNa4BqHjdtBfGb1gPF9oD5-8Dye-D8FWD5rUB-M9QYoCXINhoC2UYIJgjCWAZIFjetBRvcDzd4Edjg1WDLQQ7rgmsGqYCyKffvVLC1TWCrQfwFYP5KuDPA_kfyL9iZTcuAeCd2_wKNB3OAglAOxNVQJrKfsVsGtOJx8wo8fq5FTgE-2FOAYXw8CsYmYgokQRiPGqhpuFXCRAnZCPM2_VwGcx0xLgOGqK6dAihQFYC0MhcA)]
 
 ## 分析
 

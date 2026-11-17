@@ -17,19 +17,19 @@ tempo: "88"
 image:
   - file: "P214.jpg"
 audio:
-  - id: "6_08_gekka_no_eika"
+  - id: "gekka_no_eika"
     label: "鋼琴伴奏版"
-    file: "6_08_gekka_no_eika.mp3"
+    file: "gekka_no_eika.mp3"
 tmd_source:
-  - "6_08_gekka_no_eika.tmd"
-  - "6_08_gekka_no_eika_piano.tmd"
+  - "gekka_no_eika.tmd"
+  - "gekka_no_eika_piano.tmd"
 ---
 
 # 月下の營火
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="6_08_gekka_no_eika.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="gekka_no_eika.mp3"></audio>
 
 - composer: 英國スカウトソング
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
@@ -50,14 +50,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="6_08_gekka_no_eika.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="gekka_no_eika.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](6_08_gekka_no_eika.abc)
+[下載 ABC 原始檔](gekka_no_eika.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](6_08_gekka_no_eika.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMDE0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4UX3Rufzul-3LTzcdPqx03LHjd3PG7a-7h58-OmDUpcWloKz-Z0PNnR_bhx3fP2-c8bVytoaXEp2ipYWHDZ2yo46XDZmOib2IFMfNG-63nj4uc79j6fu_jprjkv1i572j3z6caGxw1dz6bOfNG06Vlnw_MpKxSeTtn4bG0PUOjZ3AkvZ7c9buh-v6fj2Yy1Tyf1PO1tfLpzy_s9Pc-3LHo2e8eLmfMVDMyNTBUMTSze7-lU4uLyTczMswrITMzLd6gxqKnmUgACG0MzLTswq0bBUEEXDE3jwZRZPIRlAiKMQYQRiACqg8hjQqhGsBqIAVAxsBFYDQNb7VOj8LhpM1Tv4-YVUHoSVPRxcx-YXAQmV4HNf9zcjcMRj5v2w10B07kHLL4dTK4Fi8xDiDd3gskNcOfUQByIDMGORYY1CM8iggvhYTAB5iKCFRdECoPd6H5phoUKwl5IOEB8CgupFUD2arDIGjAfFEaPmydD1UNUEXJAjYIRlA-hDSHuh0ckiIHka3RoAMRgSYSHQTRYCDkEQIYj-XgZ3C-QWHvcPAOI-8GslWBxsL_AbEJ-edwEChmQqYgQQk4_yHpBqQspvsFixmAa5EAIH0EjwgbZbyAIDhqIEhLiGeI-EI3dhRDXQYx93NwC981aTBZcD8hcUArH74RaLi5dOwVQSaAApJW5AA)]
-- [鋼琴伴奏 TMD 檔案](6_08_gekka_no_eika_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PJju7Hjeuet89_3rj6_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2ChQWXva2Ckw6XjYm-iR1XnYLSi_ZdzxsXP9-x9_ncxU93zXmxdtnT7plPNzY8buh6NnXmi6ZNzzobnk9ZofB0ysZna3uAQs_mTng5u-1xQzfQnmcz1j6d1PO0t_Hpzi3v9_Q837Lo2ewdL2bOVzAwNzJVMDSxANqsxMXlm5iZZxWQmZiXH-ThUGNQU82lAAQ2hmZadmBWjYKhgi4YmsaDKbN4CMsERBiDCCMQAVQHkceEUI1gNRADoGJgI7AaBrbap0bhcdNmqN7HzSug9CSo6OPmPjC5CEyuApv_uLkbhyMeN-2HuwKmcw9YfDuYXAsWmYcQb-4EkxvgzqmBOBAZgh2LDGsQnkUEF8LDYALMRQQrLogUBrvR_dIMCxWEvZBwgPgUFlIrgOzVYJE1YD4ojB43T4aqh6gi5IAaBSMoH0IbQtwPj0gQA8nX6NAAiMGSCA-DaLAQcgiADEfy8TK4XyCx9rh5BhD3g1krweJgf4HZhPzyuAkUMiBTESGEnH6Q9YJSF1J8g8WMwTTIgRA-gkaEDbLfQBAcNBAlJMQzxH0gGrsLIa6DGPu4uQXum7WYLLgekLmgFI7fCbXIBYEProIgHuYrbCxTOIuQSgSLBDPxuAGhihZuQFIJdQM2-yg0mYJwIOQG_PLkhQMwuejaKYBSjAKQVuYCAA)]
+- [主旋律 TMD 檔案](gekka_no_eika.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMDE0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4UX3Rufzul-3LTzcdPqx03LHjd3PG7a-7h58-OmDUpcWloKz-Z0PNnR_bhx3fP2-c8bVytoaXEp2ipYWHDZ2yo46XDZmOib2IFMfNG-63nj4uc79j6fu_jprjkv1i572j3z6caGxw1dz6bOfNG06Vlnw_MpKxSeTtn4bG0PUOjZ3AkvZ7c9buh-v6fj2Yy1Tyf1PO1tfLpzy_s9Pc-3LHo2e8eLmfMVDMyNTBUMTSze7-lU4uLyTczMswrITMzLd6gxqKnmUgACG0MzLTswq0bBUEEXDE3jwZRZPIRlAiKMQYQRiACqg8hjQqhGsBqIAVAxsBFYDQNb7VOj8LhpM1Tv4-YVUHoSVPRxcx-YXAQmV4HNf9zcjcMRj5v2w10B07kHLL4dTK4Fi8xDiDd3gskNcOfUQByIDMGORYY1CM8iggvhYTAB5iKCFRdECoPd6H5phoUKwl5IOEB8CgupFUD2arDIGjAfFEaPmydD1UNUEXJAjYIRlA-hDSHuh0ckiIHka3RoAMRgSYSHQTRYCDkEQIYj-XgZ3C-QWHvcPAOI-8GslWBxsL_AbEJ-edwEChmQqYgQQk4_yHpBqQspvsFixmAa5EAIH0EjwgbZbyAIDhqIEhLiGeI-EI3dhRDXQYx93NwC981aTBZcD8hcUArH74RaLi5dOwVQSaAApJW5AA)]
+- [鋼琴伴奏 TMD 檔案](gekka_no_eika_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PJju7Hjeuet89_3rj6_Z6Ol917nk_Y8mTPlqdL-1-snfN-T6eClhaXoq2ChQWXva2Ckw6XjYm-iR1XnYLSi_ZdzxsXP9-x9_ncxU93zXmxdtnT7plPNzY8buh6NnXmi6ZNzzobnk9ZofB0ysZna3uAQs_mTng5u-1xQzfQnmcz1j6d1PO0t_Hpzi3v9_Q837Lo2ewdL2bOVzAwNzJVMDSxANqsxMXlm5iZZxWQmZiXH-ThUGNQU82lAAQ2hmZadmBWjYKhgi4YmsaDKbN4CMsERBiDCCMQAVQHkceEUI1gNRADoGJgI7AaBrbap0bhcdNmqN7HzSug9CSo6OPmPjC5CEyuApv_uLkbhyMeN-2HuwKmcw9YfDuYXAsWmYcQb-4EkxvgzqmBOBAZgh2LDGsQnkUEF8LDYALMRQQrLogUBrvR_dIMCxWEvZBwgPgUFlIrgOzVYJE1YD4ojB43T4aqh6gi5IAaBSMoH0IbQtwPj0gQA8nX6NAAiMGSCA-DaLAQcgiADEfy8TK4XyCx9rh5BhD3g1krweJgf4HZhPzyuAkUMiBTESGEnH6Q9YJSF1J8g8WMwTTIgRA-gkaEDbLfQBAcNBAlJMQzxH0gGrsLIa6DGPu4uQXum7WYLLgekLmgFI7fCbXIBYEProIgHuYrbCxTOIuQSgSLBDPxuAGhihZuQFIJdQM2-yg0mYJwIOQG_PLkhQMwuejaKYBSjAKQVuYCAA)]
 
 ## 分析
 

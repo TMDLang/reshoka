@@ -17,19 +17,19 @@ tempo: "80"
 image:
   - file: "P253.jpg"
 audio:
-  - id: "7_18_sendan"
+  - id: "sendan"
     label: "鋼琴伴奏版"
-    file: "7_18_sendan.mp3"
+    file: "sendan.mp3"
 tmd_source:
-  - "7_18_sendan.tmd"
-  - "7_18_sendan_piano.tmd"
+  - "sendan.tmd"
+  - "sendan_piano.tmd"
 ---
 
 # せんだん
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_18_sendan.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="sendan.mp3"></audio>
 
 - composer: 臺灣教育會
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
@@ -50,14 +50,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_18_sendan.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="sendan.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_18_sendan.abc)
+[下載 ABC 原始檔](sendan.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_18_sendan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTI0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4UX7bueNy5-NnXmi6ZNz-Y0K3FpaSk8bpz9uGny48YFQFJBS4tL0VbBwoDL3lbBVYfLxkzfwg5kBETj8x17n89d_HTXnBdrlz3tnvl0Y8Pjhi6oaZ0Nz6esUHg6ZeOztT1AoWdzJ7yc3fa4ofv9no5nM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sXi_p1OJi8s3MTPPKiAzMS_focagpppLAQhsDM207MCsGgVjBV0wBNEwtpGCIZKMKRTDVNUomEF5hnEoUiBNRlAexBgIbQDSBLbOp0bhcdMyqPDjpp0gsnkBjN-8Eoj3AA153LQVrmYtWKYPrmYP2AWPm3bDRTaDyQYkPtQUuC6EThiEOAeX742BMjBvgfyK6nuYtwyBfBgbRNcARRA2wNionm_uR3HO4-YuuEfXwD2_Ha6mFSyzGs7vhngeTENEZoN1PW6eBBeZB1EDDlz8ngdHH8SPpkixbYZbCjnyQTyYDCgoiIn7Znjcgx0NwgvhIpsw4g2hqhkm0rQRGgRtcJFFYJVwfvMicLCCgmA9wSAwi4f5BsSA8wyB7kfNAAifIicBEA1jgxIDUUkAOcpB7gKREBeuhicBRJSDEgy29I-momkd3NTt8HCEJRNs_q_l4tK1UwCVDgpAWpkLAA)]
-- [鋼琴伴奏 TMD 檔案](7_18_sendan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPtx0-THjQuA5Ps9HS-79zyfsOXJni1Pl_a_WDvn_Z5OBS0tLkVbBQsDLntbBVcdLhszfQs7rjoFpRftu543Ln6-Y-_zuYuf7przYu2yp90zn25seNzQ9WzqzBdNm551NjyfskLh6ZSNz9b2AIWezZ3wcnbb44ZuoD3PZqx9OqnnaW_j051b3u_peb5l0bPZO17MnK9gYG5kqmBoYgG0WYmLyzcxM88qIDMxLz_Iw6HGoKaaSwEIbAzNtOzArBoFYwVdMATRMLaRgiGSjCkUw1TVKJhBeYZxKFIgTUZQHsQYCG0A0gS2zqdG4XHTMqjw46adILJ5AYzfvBKI9wANedy0Fa5mLVimD65mD9gFj5t2w0U2g8kGJD7UFLguhE4YhDgHl--NgTIwb4H8iup7mLcMgXwYG0TXAEUQNsDYqJ5v7kdxzuPmLrhH18A9vx2uphUssxrO74Z4HkxDRGaDdT1ungQXmQdRAw5c_J4HRx_Ej6ZIsW2GWwo58kE8mAwoKIiJ-2Z43IMdDcIL4SKbMOINoaoZJtK0ERoEbXCRRWCVcH7zInCwgoJgPcEgMIuH-QbEgPMMge5HzQAInyInARANY4MSA1FJADnKQe4CkRAXroYnAUSUgxIMtvSPpqJpHdzU7fBwhCUTbP6vRS4cfHAUDobxkBBBp02hNG4VMJoYFTDTcNHw9EoF1xC0i7AZBFxDis9pHzYmdA4bYLLStVMApSwFIK3MBQA)]
+- [主旋律 TMD 檔案](sendan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTI0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4UX7bueNy5-NnXmi6ZNz-Y0K3FpaSk8bpz9uGny48YFQFJBS4tL0VbBwoDL3lbBVYfLxkzfwg5kBETj8x17n89d_HTXnBdrlz3tnvl0Y8Pjhi6oaZ0Nz6esUHg6ZeOztT1AoWdzJ7yc3fa4ofv9no5nM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sXi_p1OJi8s3MTPPKiAzMS_focagpppLAQhsDM207MCsGgVjBV0wBNEwtpGCIZKMKRTDVNUomEF5hnEoUiBNRlAexBgIbQDSBLbOp0bhcdMyqPDjpp0gsnkBjN-8Eoj3AA153LQVrmYtWKYPrmYP2AWPm3bDRTaDyQYkPtQUuC6EThiEOAeX742BMjBvgfyK6nuYtwyBfBgbRNcARRA2wNionm_uR3HO4-YuuEfXwD2_Ha6mFSyzGs7vhngeTENEZoN1PW6eBBeZB1EDDlz8ngdHH8SPpkixbYZbCjnyQTyYDCgoiIn7Znjcgx0NwgvhIpsw4g2hqhkm0rQRGgRtcJFFYJVwfvMicLCCgmA9wSAwi4f5BsSA8wyB7kfNAAifIicBEA1jgxIDUUkAOcpB7gKREBeuhicBRJSDEgy29I-momkd3NTt8HCEJRNs_q_l4tK1UwCVDgpAWpkLAA)]
+- [鋼琴伴奏 TMD 檔案](sendan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjcOPtx0-THjQuA5Ps9HS-79zyfsOXJni1Pl_a_WDvn_Z5OBS0tLkVbBQsDLntbBVcdLhszfQs7rjoFpRftu543Ln6-Y-_zuYuf7przYu2yp90zn25seNzQ9WzqzBdNm551NjyfskLh6ZSNz9b2AIWezZ3wcnbb44ZuoD3PZqx9OqnnaW_j051b3u_peb5l0bPZO17MnK9gYG5kqmBoYgG0WYmLyzcxM88qIDMxLz_Iw6HGoKaaSwEIbAzNtOzArBoFYwVdMATRMLaRgiGSjCkUw1TVKJhBeYZxKFIgTUZQHsQYCG0A0gS2zqdG4XHTMqjw46adILJ5AYzfvBKI9wANedy0Fa5mLVimD65mD9gFj5t2w0U2g8kGJD7UFLguhE4YhDgHl--NgTIwb4H8iup7mLcMgXwYG0TXAEUQNsDYqJ5v7kdxzuPmLrhH18A9vx2uphUssxrO74Z4HkxDRGaDdT1ungQXmQdRAw5c_J4HRx_Ej6ZIsW2GWwo58kE8mAwoKIiJ-2Z43IMdDcIL4SKbMOINoaoZJtK0ERoEbXCRRWCVcH7zInCwgoJgPcEgMIuH-QbEgPMMge5HzQAInyInARANY4MSA1FJADnKQe4CkRAXroYnAUSUgxIMtvSPpqJpHdzU7fBwhCUTbP6vRS4cfHAUDobxkBBBp02hNG4VMJoYFTDTcNHw9EoF1xC0i7AZBFxDis9pHzYmdA4bYLLStVMApSwFIK3MBQA)]
 
 ## 分析
 

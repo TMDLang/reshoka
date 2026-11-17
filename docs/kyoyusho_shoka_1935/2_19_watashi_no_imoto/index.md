@@ -4,10 +4,13 @@ song_title: "私の妹"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_2_19_watashi_no_imoto"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈私の妹〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：お母樣に　だつこして お乳をのんでる　妹は…"
-keywords: "私の妹, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈私の妹〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：葛原しげる、曲：小松耕輔），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) オカアサ　マニ　ダッコシ　テ…"
+keywords: "私の妹, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 小松耕輔"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
+credits:
+  - "詞：葛原しげる"
+  - "曲：小松耕輔"
 sources:
   - "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
 musical_key: "C"
@@ -30,29 +33,44 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="watashi_no_imoto.mp3"></audio>
 
+- 詞：葛原しげる
+- 曲：小松耕輔
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
 原書資訊與歌詞全文（對應 P090.jpg，原書 p. 62）：
-調性與拍號：C 調 2/4 拍子，♩=100
+詞曲：葛原しげる 歌／小松耕輔 曲
+調性與拍號：C 大調 2/4 拍子（原譜未標速度，演奏速度為編者設定）
+〔譜下歌詞〕
 
 
 ## 歌詞
 
 ```text
-一、
+(一)
+オカアサ　マニ　ダッコシ　テ
+オチチヲ　ノンデル　イモウト　ハ
+オトシハ　ヒトツ　ナハミヨ　コ
+
+(二)
+わたしが　あやして　あげます　と
+みよちゃん　ちひさな　ててだし　て
+うーんま　うんまと　まうしま　す
+
+〔底欄歌詞〕
+(一)
 お母樣に　だつこして
 お乳をのんでる　妹は
 お年は一つ　名はみよこ
 
-二、
+(二)
 私が　あやして上げますと
 みよちやん小さな　手手出して
 うんまうんまと　申します
 
-三、
-まるまるふとつて　可愛いくて
+(三)
+まる／＼ふとつて　可愛いくて
 笑顔（ゑがほ）がよくて　おとなしい
 みよちやん　私の妹よ
 ```
@@ -65,8 +83,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](watashi_no_imoto.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLA0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thefLGx83rnu6bKeClhaXoq2CoYEBl72tgjOXjZG-iR3ImBftu543Ln6-Y-_zuYuf7przYu2yp90zn25seNzQ9WzqzBdNm551NjyfskLh6ZSNz9b2AIWezZ3wcnbb44bu93s6ns1Y-3RSz9Pexqc7t7zf0_N8y6Jns3e8mDlfwcDcyFTB0MTi_Z5OJS4ufS0FW2oBLgUFhad980H2bG5_saLrRUc70F0vVs572rri2bR2oKOebuh91t6pAIoPvayCdKC7IOoVCvQUzIyALnq_ZxbIlBer9j9rWA7S390LdDNQ1BkkpgAMGQWg0NO1E4BaH81caQsKNJCGJzuAodIIYj1u7Hq2vvfZisWPG1c_bmh43LjgceOSx42THzdOf9y4DKriyc7Nj5smAYP_cRNQYvnjpm6gUmBUPG5cD1UBDDUgB2QsUDdQbkIvkPu4cf_jpg6gYRA7d_VA7QRHJZADVNz0uKkFYtWTHV2PG4F27HvcOPNx4wqIuRD9C0GKmiY_3dD_uHHq48ZVQJ3POruB6Gn7LmR3toGdBzQAzlgBVPp8ymawIpDBUM93wj2_D-QXKLkVpB7k-WUgH_Svf9Yy-3Ej0HVAW8EWPF8z8eXCKcBoedw0EeT-xt3AGAAxQG4EKQL7COgLoCmrwFa2YPEFyEWwpAwUB6mgPClBgYKWPhdXeGJJYnFGpl--Z25-Sb5VQGZiXr5DjUFNNcgqBRsLLTswA1tKBnpxDTAOXyzsUdAwUQCG9_P1DTrw5KeJRQPQQpBhNQqmUFijYKygq2AExDCWMVhWFwgNFGrAqn1qQEkGiLuBuAmIpwKVAGMBqASYCsFawelwMVhgMhBPBwstA5sClAZHI24f7OohxwdmQGgYB0I1CkZxIARkmsG9BmFh9cZCCG6aBHblOiAL5OblQLobLNICZIG82QbEK8Ai64n0yY5Ocn0CcTDEP2bgIDUFxoQxMD6Aoti9sQIc0CDHgUQ2QUWWQONjFVgGmJiBnukAi0yGe6KWi0vXTgE14SkARZS5AA)]
-- [鋼琴伴奏 TMD 檔案](watashi_no_imoto_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPFx47qny3a-39PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFUwNDDgsrdVcOayMdI3seOqU1B60b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6Aba82zG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYWQJuVuLjCE0sSizMy_fI9c_NL8q0CMhPz8oM8HGoMaqq5FIDAxkLLDszQ11KwRQcKz9esebKj4cXCHgUNE4WnG_qfr2_QUQgwsDTQyypI18SiQUsfbFiNgikU1igYK-gqGAExjGUMltUFQgOFGrBqnxqFx41dQNwNxE1APBWo5HHjPqCSx42rwVofNy543LgYLDAZiKeDhZaBTQFKc-H3wa4ecnxgBoSGcSBUo2AUB0JAphncaxAWVm8shOCmSWBXrgOyQG5eDqS7wSItQBbIm21AvAIssp5In-zoJNcnEAdD_GMGDlJTYEwYA-MDKIrdGyvAAQ1yHEhkE1RkCTQ-VoFlHjfuB3qmAywyGe6JWuzpzgc53ZlA0x3Q-ngQAtOm8egMkAxUnUk8CAEdDpQDM5A0YlEGozFMA7pO104B1YEKQBFlLgA)]
+- [主旋律 TMD 檔案](watashi_no_imoto.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLA0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI60xNzMnEolLi0thefLGx83rnu6bKeClhaXoq2CoYEBl72tgjOXjZG-iR1I34uV897vmfVi4uynffMfN05_3DjpcVM32MRnszcBZZ5u6H82d9-Lhqkv9kwBC79o3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0v9_T8WzG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYW7_d0KnFx6Wsp2FILcCkoKAD9BrJnc_uLFV0vOtqB7gJ6-2nrimfT2oGOerqh91l7pwIo8vWyCtKB7oKoVyjQUzAzAroIGAwgU4B6IGGCFloKQPPe7-lHDikFoEKwllX7nzUsB1nZ3Qv0JlCvs8LTJcuBwgrACFAAij5dOwHkhL75L9bOeTZn1bMVM182zH-6axnQFc_2THm6tB_Cfd606_n2FS8aWl-sWPt03Sygo7hA5j9umALU92RHN8RLjxumgkQ1nuxo0ARLN6163LT6cdOix01bHzc0PG6e97i5G8wAoubHTZsfN20Hc9tgqpsbwWgTWLTvcfPmx83tj5tXg7hNSx43Aw1a9ri5AyzbD9fTATKmuR8sOgnEbW4Bs7tAgs3zHzevAOvfDHayxpNdPVDH9T9uhIRiD0i-selxUwuYuwzKBYZu477HjTPB3BVgPY37Hzd1PG5c-LgJ6PzJYImFjxs3PW6c-rhxFZi7DIwWgAwCcyHa2h437wFpAJoHEm2DshvBLgMx2sA2Q2RnwsL26a6pz9a04Ajbxq5n63ufrVj8uBEcPCArlzxuBBoL8gFUxZOdwCAG-mId2L7lwMQCVArMjo8b10NVADMCkAM0FKQbKDehF8iFeXMyaoiBczN6WD3Z0YUIKIxQagFaDEyY8PB51tkNRE_bdyE7Ex4aKMHyfMpmaJhAAwTo9U6o1_cBfQJM8u_37HncuBWkHOR1ULQ97V__rGX240ag44CWgs1_vmbiy4VTgIn8cdNEkPMbdwNTL4gBciJIEdhDQE8ATVkFtrEFiydADoIVZkBxkArKywYoUNDS5-IKTyxJLM7I9Mv3zM0vybcKyEzMy3eoMaipBlmlYGOhZQdmYCuagF5cA4zBFwt7FDRMFIDB_Xx9gw68PNHEogFoIciwGgVTKKxRMFbQVTACYhjLGCyrC4QGCjVg1T6GNaD8BsSrgXgREG8FqgFmaqAaYL4G64XkbJBA02Yg3g4WagMbEw8zxghkTD8wgOcD8XQg7gGpAicpkEZwwoAYBs6DYLF9QDwTLLQCbhj-8NjVQ054mAGhYRwI1SgYxYEQkGkGDygIC2ugNDdC8Sawn_uAGBgCze1AvBok0rQEyAIF2jIg3QFW048ZLo37gSo6gDSohAEyJ4P9vBCINwHxVCBeBRYBGgLGC8BBCBEhLlx2dJIbLhDvQ0LHDBxBpsBUYgxMK0BRHIEC9AowEYC8CvLwJIhIMyieQfwusAywiAbiFeBA2owlSEDJBxQSoFQA4UN5kMQAEgIlD6AwODVBFM2EG1TLxaVrp4CavRSAIspcAA)]
+- [鋼琴伴奏 TMD 檔案](watashi_no_imoto_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni-vPFx47qny3a-39PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFUwNDDgsrdVcOayMdI3seOqU1B6sXLe-z2zXkyc_bRv_uPG6Y8bJz1u6lYCyTybvQko83RD_7O5-140TH2xZwpY-EX7rueNi5_v2Pt87uKnu-a8WLvsaffMpxsbHjd0PZs680XTpmedDc-nrFB4OmXjs7U9QKFncye8nN32uKEb6LBnM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sQA6VYlLX0sBqBboIKDbn81Z9WzFzJcN85_uWgbU8WzPFKCfINznTbueb1_xoqH1xYq1T9fNAvtSn4srPLEksTgj0y_fMze_JN8qIDMxLz_Iw6HGoKaaSwEIbCy07MAMoDW26EDh-Zo1T3Y0vFjYo6BhogD0_PP1DToKAQaWBnpZBemaWDQArQQZVqNgCoU1CsYKugpGQAxjGYNldYHQQKEGrNrHsEbhcdMqIF4NxIuAeCtQzePmeUA1j5u7wXofNzc8bm4GCTRtBuLtYKE2sDHxMGOMQMb0KzxunA_E04G4B6SqselxUwtIIyg-l0EMA4o1TgKL7QPimWChFXDD8IfHrh5ywsMMCA3jQKhGwSgOhIBMM3hAQVhYA6W5EYo3gf3cB8TAEGhuB-LVIJGmJUAWKNCWAekOsJp-zHBp3A9U0QGkFz5uagYyJ4P9vBCINwHxVCBeBRYBGgLGC8BBCBEhLlx2dJIbLhDvQ0LHDBxBpsBUYgxMK0BRHIEC9AowEYC8CvLwJIhIMyieQfwusMzjZmBCaF4BDqTNWIIElHxAIQFKBRA-lAdJDCAhUPIACoNTE0TRTLhBtdhzlw9y7jKB5i6gR-IVog1jIQzTeKB-FAbMgzUKJkB1JiB1RvEgNqpGFGVAPpJydNOArtO1U0B1YLQP0CAsokZgUWUuAA)]
 
 ## 分析
 

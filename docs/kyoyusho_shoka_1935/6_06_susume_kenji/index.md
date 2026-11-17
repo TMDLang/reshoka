@@ -18,19 +18,19 @@ tempo: "108"
 image:
   - file: "P212.jpg"
 audio:
-  - id: "6_06_susume_kenji"
+  - id: "susume_kenji"
     label: "鋼琴伴奏版"
-    file: "6_06_susume_kenji.mp3"
+    file: "susume_kenji.mp3"
 tmd_source:
-  - "6_06_susume_kenji.tmd"
-  - "6_06_susume_kenji_piano.tmd"
+  - "susume_kenji.tmd"
+  - "susume_kenji_piano.tmd"
 ---
 
 # 進め健兒
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="6_06_susume_kenji.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="susume_kenji.mp3"></audio>
 
 - lyricist: 堀内敬三
 - composer: 英國古曲
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="6_06_susume_kenji.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="susume_kenji.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](6_06_susume_kenji.abc)
+[下載 ABC 原始檔](susume_kenji.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](6_06_susume_kenji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMDI0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh6YKGp22tz6auebKjEyyVnJ9bkF-cWmSl8KJ749M53U_7lzybvUmJS0tL4WXDpsdNjU8blz5tnaSgpcWlaKtgaGDBZW-r4M5lY6JvYgfS_6J91_PGxc937H0-d_HTXXNerF32tHvm040Njxu6nk2d-aJp07POhudTVig8nbLx2doeoNCzuRNezm573ND9fk_Hsxlrn07qedrb-HTnlvd7ep5vWfRs9o4XM-crGJgbmSoYmli83wN0JZdvYmaeVUBmYl6-Q41BTTWXAhDYGJpp2YFZNQpGCrooEJlvCMQ1CubxUK4ZjGEKY8BgDUwIqASqHCgAVQ-k4BpqwLb61Cg8btqJZgaqyOPmhWBzHzdthItshqvcgWH_4-b5cFWPm7ug6vYC2Wuh4s1A3IbiDOJdTaVQgnu-eRnUgesfN68DUkugbuyGhwKIhoQB1H_UDS9c_jeE-8wUbjXIf9igARneQnY2SAPMg7hgDVctF5eunQIoFSsAaWUuAA)]
-- [鋼琴伴奏 TMD 檔案](6_06_susume_kenji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZsOlxU-PTxqVPWye939PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFUwNLDgsrdVcOeyMdE3seOqU1B60b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6Aba82zG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYWQJuVuLh8EzPzrAIyE_PygzwcagxqqrkUgMDG0EzLDsyqUTBS0EWByHxDIK5RMI-Hcs1gDFMYAwZrYEJAJVDlQAGoeiAF11ADttWnRuFx0040M1BFHjcvBJv7uGkjXGQzXOUODPsfN8-Hq3rc3AVVtxfIXgsVbwbiNhRnEO9qKoUS3PPNy6AOXP-4eR2QWgJ1Yzc8FEA0JAyg_qNueOHyvyHcZ6Zwq0H-wwYNyPAWsrNBGmAexAVruGqRE7EPjkRsGo8IdHwsZJWGeFlAb2PRj1Ul1A1Eq6eFa_G4AZsZyCoJmQyMAF07BVAcKABpZS4A)]
+- [主旋律 TMD 檔案](susume_kenji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMDI0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh6YKGp22tz6auebKjEyyVnJ9bkF-cWmSl8KJ749M53U_7lzybvUmJS0tL4WXDpsdNjU8blz5tnaSgpcWlaKtgaGDBZW-r4M5lY6JvYgfS_6J91_PGxc937H0-d_HTXXNerF32tHvm040Njxu6nk2d-aJp07POhudTVig8nbLx2doeoNCzuRNezm573ND9fk_Hsxlrn07qedrb-HTnlvd7ep5vWfRs9o4XM-crGJgbmSoYmli83wN0JZdvYmaeVUBmYl6-Q41BTTWXAhDYGJpp2YFZNQpGCrooEJlvCMQ1CubxUK4ZjGEKY8BgDUwIqASqHCgAVQ-k4BpqwLb61Cg8btqJZgaqyOPmhWBzHzdthItshqvcgWH_4-b5cFWPm7ug6vYC2Wuh4s1A3IbiDOJdTaVQgnu-eRnUgesfN68DUkugbuyGhwKIhoQB1H_UDS9c_jeE-8wUbjXIf9igARneQnY2SAPMg7hgDVctF5eunQIoFSsAaWUuAA)]
+- [鋼琴伴奏 TMD 檔案](susume_kenji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjZsOlxU-PTxqVPWye939PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFUwNLDgsrdVcOeyMdE3seOqU1B60b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6Aba82zG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYWQJuVuLh8EzPzrAIyE_PygzwcagxqqrkUgMDG0EzLDsyqUTBS0EWByHxDIK5RMI-Hcs1gDFMYAwZrYEJAJVDlQAGoeiAF11ADttWnRuFx0040M1BFHjcvBJv7uGkjXGQzXOUODPsfN8-Hq3rc3AVVtxfIXgsVbwbiNhRnEO9qKoUS3PPNy6AOXP-4eR2QWgJ1Yzc8FEA0JAyg_qNueOHyvyHcZ6Zwq0H-wwYNyPAWsrNBGmAexAVruGqRE7EPjkRsGo8IdHwsZJWGeFlAb2PRj1Ul1A1Eq6eFa_G4AZsZyCoJmQyMAF07BVAcKABpZS4A)]
 
 ## 分析
 

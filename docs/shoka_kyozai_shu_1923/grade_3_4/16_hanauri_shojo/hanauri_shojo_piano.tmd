@@ -37,4 +37,4 @@ HanauriShojo:PianoLH@|0|{
     | 1 [1] | 2 [4] | 5_ [5_] | 1 0 |
 }
 
--> HanauriShojo[L1] -> HanauriShojo[L2] -> HanauriShojo[L3] -> #
+-> {?-12} -> HanauriShojo[L1] -> HanauriShojo[L2] -> HanauriShojo[L3] -> #

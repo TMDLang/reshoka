@@ -4,7 +4,7 @@ song_title: "令旨奉答の歌"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_0_10_reishi_hoto_no_uta"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈令旨奉答の歌〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：東京音樂學校、曲：東京音樂學校），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：日嗣（ひつぎ）の皇子（みこ）のかしこき御言（みこと） 我等がゆくてをときはに照す…"
+description: "〈令旨奉答の歌〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：東京音樂學校、曲：東京音樂學校），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) 日嗣（ひつぎ）の皇子（みこ）のかしこき御言（みこと）…"
 keywords: "令旨奉答の歌, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 東京音樂學校"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -40,21 +40,21 @@ tmd_source:
 ## 說明
 
 原書資訊與歌詞全文（對應 P038.jpg，原書 p. 12）：
-調性與拍號：G 調 4/4 拍子，♩=100
+調性與拍號：G 調 4/4 拍子，♩=約100，右上角印〔東京音樂學校〕
 
 
 ## 歌詞
 
 ```text
-一、
+(一)
 日嗣（ひつぎ）の皇子（みこ）のかしこき御言（みこと）
 我等がゆくてをときはに照す
 たふときみさとし胸にきざみて
-夕べに省（かへり）み朝（あした）に勵み
-おきてし目的（もくてき）共に果さむ
+夕べに省（かへり）み朝に勵み
+掟（おき）てし目的共に果さむ
 いざ共に果さむ
 
-二、
+(二)
 御國（みくに）の榮譽（ほまれ）になひて立てる
 若人我等がつとめは重し
 たふときみさとし高くかざして
@@ -71,8 +71,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](reishi_hoto_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMjC0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thSe7lzybvuLp0s7na6c8blz3bG2PgpYWl6KtgqGBAZe9rYI7l42JvokdyLwXK-e93zPr2dyNT3ateTl_87MVTU_X7ni2YCHYsmezN-GWfNG-63nj4uc79j6fu_jprjkv1i572j3z6caGxw1dz6bOfNG06Vlnw_MpKxSeTtkIdABQ6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z09z7csejZ7x4uZ8xUMzI1MFQxNLN7v6VTi4tLXUrClFuBSUFB42jcfZM_m9hcrul50tAPdBfT_09YVz6a1Ax31dEPvs_ZOBVCU6mUVpAPdBVGvUKCnYGgEdBEwMECmvFi1_1nDcpD-7l6gm4Gi7iAxBWCYKgCFnq6dANT6aOZKW1BwgzQ82QEMlUYQ69n0pU-nLwba9bhx0-PGJY8b-4DGAqPo-ax2sDag-P7HjZMhgo8bux83TgdyHzf2Pt238MWKBriCx40rgGrAJnZMfL4WqLrncVPb48b-x43LHjdNAkoD9TxuXP-4cfXz1uWPG2eClD5unP-4cStMDmjMVDB7-ovmHUB1YMFpYPFl4LBaApTeCTJgTiPYXqBjdjxu6gK7bf-zOXPBgk1gFwLDACi4-mk30PT9EKu6wOYtA0o_nw30XgtIdRNQNdiFjb1ADU9bNwL1PJs3B-SQpgaIthagG9AlwEG4qwcahMCQeDoHlIbATgUatxoSWs-WrXuxdi9YfPfjxn2Pm3ogjnrcuAoc2Muerwb6ABg63eA47F76ZNcuROCB4mLF46ZGYJi9bAc6fDq-AHu5egbYZqB5wAAD-h8cYMC4fba-D-TyaRtAJIz7sgFoOzhUXuyZC9T3bO32p_2bgLEE8efLxUC3dmIJABQJytM_FCho6XNxBaVmFmdkeuSX5Pvlh5YkWgVkJublO9QY1FSD7FKwsdCyAzOw5T-F52vWABP0i4U9ChomCk839D9f36ADzzSaWDQAbQQZVqNgqKALhIYK5vFAygxE1CiYgigwD8oyQAgCKZAWMK9GwQQsZgQ1BagMbKpPDTDQNoGFgJEIxH1g1jqwFmC4Q2UmQ8VAECTeDRWfDpYDsXqx6FgB0wFOg7iDY1cPOcFhhOQhELtGwRgsYgKmISIQzxqBRUBsmC5gECLCCx4QTf0Qxzf1AHEn2Bs9EG81tUG91Q_Ey8BqJkE9DPEkKACAiR_MWg2VAakDqewEsmcSGRQ7OskNCiMwRPc4PLYhqQaSgCASUCFwQsISGI3zwZ7ZCvYiJH4hsQuSmwr1NEhmOsxrQK82QNmPG9dCgwKkE6RjGlw_LGAIBsbT2bPJCQxIKjDGSAWwPAJJB2BvgxMCiA_NTZDEAc1haGkDlgJAAbITJZ5hmWEHUFUXSjA1QWVA2QQSnDA9oJQC4k-CZxkisskUcHAYkxYcqIUBakYB8UyRRCDpBRIYiIQA8hMshYPTPjjKQWEC8x88V8CLAWiuAKqA-BniY0IR3rqW_ILAGFzCIfsPFIEw_8FKP3DMIqcKhEK0pA9y81RokgbWK1B_gZIxDEJ8iRwOoOQOKQNAJiAyCigkYFmjhquWi0vXTgGtElEACilzAQA)]
-- [鋼琴伴奏 TMD 檔案](reishi_hoto_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniye8mz6SueLu18vnbK48Z1z9b2vN_T8bJ7z_MJW57s2fJ0af-LtXPe7-lU0NLiUrRVMDQw4LK3VXDnsjHRN7HjqlNQerFy3vs9s57N3fhk15qX8zc_W9H0dO2OZwsWKoEkn83ehFvyRfuu542Ln-_Y-3zu4qe75rxYu-xp98ynGxseN3Q9mzrzRdOmZ50Nz6esUHg6ZSPQVUChZ3MnvJzd9rihG-jCZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEAulmJiysoNbM4I9MjvyTfLz-0JNEqIDMxLz_Iw6HGoKaaSwEIbCy07MAMfS0FW3Sg8HzNmic7Gl4s7FHQMFF4uqH_-foGHYUAA2MLvayCdE0sGrT0wYbVKBgq6AKhoYJ5PJAyAxE1CqYgCsyDsgwQgkAKpAXMq1EwAYsZQU0BKgOb6lOj8LhxE1joceMSIO4Ds9aBtTxu3A-VmQwVA0GQeDdUfDpYDsTqxaJjBUwHF_7g2NVDTnAYIXkIxK5RMAaLmIBpiAjEs0ZgERAbpgsYhIjwggdEUz_E8U09QNwJ9kYPxFtNbVBv9QPxMrCaSVAPQzwJCoDHjevBrNVQGZA6kMpOIHsmkUGxo5PcoDACQ3SPw2MbkmogCQgiARUCJyQsgdE4H-yZrWAvQuIXErsgualQT4NkpsO8BvRqA5T9uHEtNChAOkE6psH1wwKGYGA8nT2bnMCApAJjjFQAyyOQdAD2NjghgPjQ3ARJHNAchpY2YCkAFCA7UeIZlhl2AFV1oQRTE1QGlE0gwQnTA0opIP4keJYhIptMAQeHMWnBgVoYoGYUEM8USQSSXiCBgUgIID_BUjg47YOjHBQmMP_BcwW8GIDmCqAKiJ8hPiYU4a1ryS8IjMElHLL_QBEI8x-s9APHLHKqQChES_ogN0-FJunHjS1Qf4GSMQxCfIkcDqDkDikDQCYgMgooJGBZo4arFkcd4oNchxhB6xCgO-MVjOLBEQlKwDAWUBToKwgNCwdkeQgLKAtWCJNCqAQbCZOGG4imzjgemBigCiEGgrjYVKI6Dm45WDeapQgFQOejOBMUMrp2CmiBowAUUuYCAA)]
+- [主旋律 TMD 檔案](reishi_hoto_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMjC0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWufl5SSCfYkiUJGZCA6A8MT43MTMvJzEPySUlGanAcMrMLQC6MTEHXTw5tSgVaDJYRktL4cnuJc-mr3i6tPP52imPG9c9W9ujoKXFpWirYGhgwGVvq-DOZWOib2IHMuTFynnv98x6Nnfjk11rXs7f_GxF09O1O54tWAi24dnsTbglX7Tvet64-PmOvc_nLn66a86Ltcueds98urHhcUPXs6kzXzRtetbZ8HzKCoWnUzYCHQAUejZ3wsvZbY8but_v6Xg2Y-3TST1Pexuf7tzyfk_P8y2Lns3e8WLmfAUDcyNTBUMTi_d7OpW4uPS1FGypBbgUFBSe9s0H2bO5_cWKrhcd7UB3Af3_tHXFs2ntQEc93dD7rL1TAZSG9LIK0oHugqhXKNBTMDQCuggYGCBTXqza_6xhOUh_dy_QzUBRd5CYAjBMFYBCT9dOAGp9NHOl7fMtLcAQB5nTv_nJjq4Xyyc97d3wuGEKZog-bpjKBTJa48mOBk0Q49n0pU-nLwY66nHjpseNSx439gHtB8bl81ntYPOB4vsfN06GCD5u7H7cOB3IfdzY-3TfwhcrGuAKHjeuAKoBm9gx8flaoOqex01tjxv7Hzcue9w0CSgN1PO4cf3jxtXPW5c_bpwJUvq4cf7jxq0wOaAxU8Hs6S-adwDVgQWngcWXgQN1CVB6J8iAOY1ge4GO2fG4qQvstv3P5swFSj3tBhq3H-yMPmCAARV1AY0Bq1gGNPj5bKDHWp62bgQqfTZvDsjCpgaIS1qAdqFLQEJqVw84pIAefjoHlKbALgL6azUkUJ4tW_di7V6w-O7HjfseN_WAxYHOXwUO02XPVwMdCgyEbnCcdi99smsXIoxAQb7icVMjMGhetgP9Ox1fuLxcPQNsM9A8YLgAIwIcLsAofLa-D-TwaRtAJIz7sgFoOzgsXuwBhk3_s7Xbn_ZvAkYGxJsvFwPd2onF_ygSlOcHKFDQ0ufiCkoFFj6ZHvkl-X75oSWJVgGZiXn5DjUGNdUguxRsLLTswAxs-VHh-Zo1wFT7YmGPgoaJwtMN_c_XN-jAM5EmFg1AG0GG1ShU56bVKhgq6AKhoYJ5PJAyAxE1CqYgCsyDsgwQgkAKpAXMq1EwAYsZQU0BKgMb7VOj8Lh5EljocXOLwuOmdWBWH1jL4-b5EJmmzVAxXYV4kHjTaqj4drAciLUWi44OmA5wOsQdJrt6yAoTYJAYIXkKxK5RMAaLmIBpiAjEw0ZgERC7BqoLGIyIMEMExnpoYKwB4pVgr6yBem0Z1Gvrgew2sJpNUBmIR0GB8Li5HyzTDZUBqQPxVwJldxIZHDs6SQ8OG0MzaMoDJZYCWMhAIIgNCRcIGzkUIBAWWjBoAFIBD5Om_UhSj5ungkmIn2FRD4l4kNqtKGpBqkDJBCEGTo1Ql8IcBYOQNGoMdwoiOk3RVIIcCFaBiLgFaEoeN_dC6W6oIyFGPm7aBhWfD48gVOdBDMYbSU9nzyYjkmClAzRDQ7xrqmAGJhGZFDn1IgcASBYmAgsklLQLTaHAGHrcPBPqdYiXoRm2eQYQr4J6HiKzCCIDzsqgeEakXVBKBslsgmdrIrLyFHCwGJOfdoHhAs2WEAjmQPIwIo2iJh301IuqAjlMQRBmFlL6BoUIPNlA0zMsYSBSLyhMIKEFkwGVFZhJCGQiyAxIiEPLBqBOSMhCeJCwJZzMWtdSlMwgoWIMqQdQQgWUgarToLVKDTgJgpTAigpYsYlQjFEcgLI6JNc9bloC9TYkZ0FyEcTriEAD50NI8Qg2AVxYPG7eg5pzIcVDLReXrp0CWmWrABRS5gIA)]
+- [鋼琴伴奏 TMD 檔案](reishi_hoto_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeLJ7ybPpK54u7Xy-dsrjxnXP1va839PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFUwNDDgsrdVcOeyMdE3sQOZ_WLlvPd7Zj2bu_HJrjUv529-tqLp6dodzxYsBFv8bPYm3JIv2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG4GuAgo9mzvh5ey2xw3dQBc-m7H26aSep72NT3dueb-n5_mWRc9m73gxc76CgbmRqYKhiQXQzUpcXEGpmcUZmR75Jfl--aEliVYBoPAJ8nCoMaip5lIAAhsLLTswQ19LwRYdKDxfs-bJjoYXC3sUNEwUnm7of76-QUchwMDYQi-rIF0TiwYtfbBhNQrVuWm1CoYKukBoqGAeD6TMQESNgimIAvOgLAOEIJACaQHzahRMwGJGUFOAysBG-9QoPG6eBBZ63Nyi8LhpHZjVB9byuHk-RKZpM1RMVyEeJN60Giq-HSwHYq3FoqMDpoMLf5js6iErTIBBYoTkKRC7RsEYLGICpiEiEA8bgUVA7BqoLmAwIsIMERjroYGxBohXgr2yBuq1ZVCvrQey28BqNkFlIB4FBcLj5n6wTDdUBqQOxF8JlN1JZHDs6CQ9OGwMzaApD5RYCmAhA4EgNiRcIGzkUIBAWGjBoAFIBTxMmvYjST1ungomIX6GRT0k4kFqt6KoBakCJROEGDg1Ql0KcxQMQtKoMdwpiOg0RVMJciBYBSLiFqApedzcC6W7oY6EGPm4aRtUfD48glCdBzEYbyQ9nT2bjEiClQ7QDA3xrqmCGZhEZFLk1IscACBZmAgskFDSLjSFAmPocfNMqNchXoZm2OYZQLwK6nmIzCKIDDgrg-IZkXZBKRkkswmerYnIylPAwWJMftoFhgs0W0IgmAPJw4g0ipp00FMvqgrkMAVBmFlI6RsUIvBkA03PsISBSL2gMIGEFkwGVFZgJiGQiSAzICEOLRuAOiEhC-FBwpZwMmtdS1Eyg4SKMaQeQAkVUAaqToPWKjXgJAhSAisqYMUmQjFGcQDK6pBc97hpCdTbkJwFyUUQryMCDZwPIcUj2ARwYfG4eQ9qzoUUD7U46lofbHVtjUK0YXwsVH-0aTyYHW0CplDlYExQJQlTiCIB1gDRCTMKWRPMOkytMCEk-8Dm4JZGtxXZTDgbr53EaETOW0jaYBDhV5AcslEYHsFqDXpBjBwnqEZDeFAzkWSJDkFs8UlcOGEPfGx-RXUlwlv4gh_BAQUFpgdRQhYhjRoXkAwGTPW6dgpoCV8BKKTMBQA)]
 
 ## 分析
 
@@ -83,21 +83,21 @@ tmd_source:
 ⏱  Duration:       0:55 (55.2s), 23 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [ReishiHotoNoUta #1 @ m.2, 0:02]
-   - 最高音: D5 in [ReishiHotoNoUta #1 @ m.18, 0:42]
+   - 最高音: E5 in [ReishiHotoNoUta #1 @ m.13, 0:29]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      ReishiHotoNoUta (55.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, A, D, B, F#
-   - 調性數值:    G 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.82), D 大調 (0.78), E 小調 (0.53)
+   - 核心骨幹音:  A, B, D, G, C
+   - 調性數值:    G 大調 [相關度: 0.76, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.76), D 大調 (0.68), B 小調 (0.59)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [ReishiHotoNoUta #1]: G 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [ReishiHotoNoUta #1]: G 大調 (r: 0.76, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -110,21 +110,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████                     5.7%
+     C  : ██████████                10.4%
      C# :                            0.0%
-     D  : ████████████████          16.1%
+     D  : ██████████████████        17.9%
      D# :                            0.0%
-     E  : ███████                    7.5%
+     E  : █████                      4.6%
      F  :                            0.0%
-     F# : ████████                   8.6%
-     G  : ████████████████████████  24.7%
+     F# : ██                         1.7%
+     G  : ██████████████████        17.9%
      G# :                            0.0%
-     A  : ███████████████████████   23.6%
+     A  : ████████████████████████  24.3%
      A# :                            0.0%
-     B  : █████████████             13.8%
+     B  : ███████████████████████   23.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 82 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 82 個音符)
 ================================================================================
 ```
 

@@ -18,19 +18,19 @@ tempo: "120"
 image:
   - file: "P256.jpg"
 audio:
-  - id: "7_21_banzan_odori_no_uta"
+  - id: "banzan_odori_no_uta"
     label: "鋼琴伴奏版"
-    file: "7_21_banzan_odori_no_uta.mp3"
+    file: "banzan_odori_no_uta.mp3"
 tmd_source:
-  - "7_21_banzan_odori_no_uta.tmd"
-  - "7_21_banzan_odori_no_uta_piano.tmd"
+  - "banzan_odori_no_uta.tmd"
+  - "banzan_odori_no_uta_piano.tmd"
 ---
 
 # 蕃山踊の歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_21_banzan_odori_no_uta.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="banzan_odori_no_uta.mp3"></audio>
 
 - lyricist: 小野正雄
 - composer: 赤尾寅吉
@@ -53,14 +53,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_21_banzan_odori_no_uta.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="banzan_odori_no_uta.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_21_banzan_odori_no_uta.abc)
+[下載 ABC 原始檔](banzan_odori_no_uta.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_21_banzan_odori_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTM0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh6Yb-l-19z9Yufjm7BSyVnJ9bkF-cWmSl8GLrkqcb9j1d3_p0QqcSl5aWwoupzU83bnyxo-tx47pna3sUtLS4FG0VDI0MuOxtFVy4bIz0TexARrxo3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsBBoDFHo2d8LL2W2PG7rf7-l4NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDE4v3e4Cu4fJNzMyzCshMzMt3qDGoqeZSAAIbQzMtOzCrRsFMQRcMTaE0LhEQzxiIjcAiIBKEDYHYLB4kBDbOp0bhcdMKqD4EC6do8xKQSPMeMDkPTPZDZSC8FjC5Ckw2PW5eDLcJ4gSYg0DOADoT5BAQBDMgYiBZExSnw1XBIJLT94ItWgMmN4HJTqhzQGJg5zf3P25uRmYQpw_VMkQAorkeQSCcD8MgL9TAYwWL6zeCbYYE5lSIE6HuW4ZwX9N2MAkKeJDMIrg65CAHuRwU6NhcDnKYIRjCop6QECTcQc7H6nBUYZBSskSgzgNZYwyGyBbjFgGFJyLN08xxtVxcunYKoMyoAKSVuQA)]
-- [鋼琴伴奏 TMD 檔案](7_21_banzan_odori_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxtfnpxo0vdnQ9blz3bG3P-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQyMDLntbBRcuGyN9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI1As4FCz-ZOeDm77XFDN9CeZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEA2qzExeWbmJlnFZCZmJcf5OFQY1BTzaUABDaGZlp2YFaNgpmCLhiaQmlcIiCeMRAbgUVAJAgbArFZPEgIbJxPjcLjphVQfQgWTtHmJSCR5j1gch6Y7IfKQHgtYHIVmGx63LwYbhPECTAHgZwBdCbIISAIZkDEQLImKE6Hq4JBJKfvBVu0BkxuApOdUOeAxMDOb-5_3NyMzCBOH6pliABEcz2CQDgfhkFeqIHHChbXbwTbDAnMqRAnQt23DOG-pu1gEhTwIJlFcHXIQQ5yOSjQsbkc5DBDMIRFPSEhSLiDnI_V4ajCIKVkiUCdB7LGGAyRLcYtAgpPRJqnmeNqkfOiD468aAiOeFSCSFFTiCiYAhNIaqGmI4QRLFymoxkBNR2rWmTT0azHazpxaqkWMiSYjl0HPnNwmA6MdF07BVC8KwBpZS4A)]
+- [主旋律 TMD 檔案](banzan_odori_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTM0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh6Yb-l-19z9Yufjm7BSyVnJ9bkF-cWmSl8GLrkqcb9j1d3_p0QqcSl5aWwoupzU83bnyxo-tx47pna3sUtLS4FG0VDI0MuOxtFVy4bIz0TexARrxo3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsBBoDFHo2d8LL2W2PG7rf7-l4NmPt00k9T3sbn-7c8n5Pz_Mti57N3vFi5nwFA3MjUwVDE4v3e4Cu4fJNzMyzCshMzMt3qDGoqeZSAAIbQzMtOzCrRsFMQRcMTaE0LhEQzxiIjcAiIBKEDYHYLB4kBDbOp0bhcdMKqD4EC6do8xKQSPMeMDkPTPZDZSC8FjC5Ckw2PW5eDLcJ4gSYg0DOADoT5BAQBDMgYiBZExSnw1XBIJLT94ItWgMmN4HJTqhzQGJg5zf3P25uRmYQpw_VMkQAorkeQSCcD8MgL9TAYwWL6zeCbYYE5lSIE6HuW4ZwX9N2MAkKeJDMIrg65CAHuRwU6NhcDnKYIRjCop6QECTcQc7H6nBUYZBSskSgzgNZYwyGyBbjFgGFJyLN08xxtVxcunYKoMyoAKSVuQA)]
+- [鋼琴伴奏 TMD 檔案](banzan_odori_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUngxtfnpxo0vdnQ9blz3bG3P-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQyMDLntbBRcuGyN9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI1As4FCz-ZOeDm77XFDN9CeZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLEA2qzExeWbmJlnFZCZmJcf5OFQY1BTzaUABDaGZlp2YFaNgpmCLhiaQmlcIiCeMRAbgUVAJAgbArFZPEgIbJxPjcLjphVQfQgWTtHmJSCR5j1gch6Y7IfKQHgtYHIVmGx63LwYbhPECTAHgZwBdCbIISAIZkDEQLImKE6Hq4JBJKfvBVu0BkxuApOdUOeAxMDOb-5_3NyMzCBOH6pliABEcz2CQDgfhkFeqIHHChbXbwTbDAnMqRAnQt23DOG-pu1gEhTwIJlFcHXIQQ5yOSjQsbkc5DBDMIRFPSEhSLiDnI_V4ajCIKVkiUCdB7LGGAyRLcYtAgpPRJqnmeNqkfOiD468aAiOeFSCSFFTiCiYAhNIaqGmI4QRLFymoxkBNR2rWmTT0azHazpxaqkWMiSYjl0HPnNwmA6MdF07BVC8KwBpZS4A)]
 
 ## 分析
 

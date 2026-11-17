@@ -17,19 +17,19 @@ tempo: "108"
 image:
   - file: "P234.jpg"
 audio:
-  - id: "7_03_joshi_seinendanka"
+  - id: "joshi_seinendanka"
     label: "鋼琴伴奏版"
-    file: "7_03_joshi_seinendanka.mp3"
+    file: "joshi_seinendanka.mp3"
 tmd_source:
-  - "7_03_joshi_seinendanka.tmd"
-  - "7_03_joshi_seinendanka_piano.tmd"
+  - "joshi_seinendanka.tmd"
+  - "joshi_seinendanka_piano.tmd"
 ---
 
 # 女子青年團歌
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_03_joshi_seinendanka.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="joshi_seinendanka.mp3"></audio>
 
 - composer: 大日本聯合女子青年團
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
@@ -50,14 +50,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_03_joshi_seinendanka.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="joshi_seinendanka.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_03_joshi_seinendanka.abc)
+[下載 ABC 原始檔](joshi_seinendanka.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_03_joshi_seinendanka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjE0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4WnS5Y_m7702Zw1LxrXP53Q8XTp5qdrJ7ycO-npzi1P58xQ4tLSUkATe7a2R0FLi0vRVsHQwILL3lbBncvGRN_EDmTui_ZdzxsXP9-x9_ncxU93zXmxdtnT7plPNzY8buh6NnXmi6ZNzzobnk9ZofB0ykagMUChZ3MnvJzd9rih-_2ejmcz1j6d1PO0txFoz_s9Pc-3LHo2e8eLmfMVDMyNTBUMTSze7-lU4uLyTczMswrITMzLd6gxqKnmUgACG0MzLTswq0bBQEEXDNFp03goo0bBEEwbKpiBhMDiIBEjIDYGy5gA1ZiCWWZgGiQKkoVBkJE1YOt8apCEUeHj5klwCx83rYaK7QHiVSBW0yIwfx6Y7AWLrIXrA-oAqoTw-qA0RH0Hmi0QZ5DgayOwb0C-MgHzjaE-MwWqgPjeCKzSHBYsJHp6Pdy-x81roGIgT68EszYheeJx80IEu2kZWAcoOGA6QLohgfK4uY1Eb0N8AnIFxHfGYN8ixzAkfo2BKszALDOwChAbIkOKp5v2IzyNHNNQx4Ni8HHTPqj4fCDuhrJbwJ7uRPI0KM08bl4BJiEmEe9pgikcFvuQ2IaFCMS_wPgmI7YbsXh8EhD3g70MEoEFzuOm7UC8G8peAk_i0MTfvBmqGxQIDTAust9rubh07RRAuV8BSCtzAQA)]
-- [鋼琴伴奏 TMD 檔案](7_03_joshi_seinendanka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6dPPTtRNezp30dOeWp3NmPFvb835Px8vuPc8nbHmyZ8vTpf0v1s55v6dTQUuLS9FWwdDAgsveVsGdy8ZE38SOq05B6UX7rueNi5_v2Pt87uKnu-a8WLvsaffMpxsbHjd0PZs680XTpmedDc-nrFB4OmUj0Gyg0LO5E17Obnvc0A2059mMtU8n9TztbQRa_n5Pz_Mti57N3vFi5nwFA3MjUwVDEwugzUpcXL6JmXlWAZmJeflBHg41BjXVXApAYGNopmUHZtUoGCjogiE6bRoPZdQoGIJpQwUzkBBYHCRiBMTGYBkToBpTMMsMTINEQbIwCDKyBmydTw2SMCp83DwJbuHjptVQsT1AvArEaloE5s8Dk71gkbVwfUAdQJUQXh-UhqjvQLMF4gwSfG0E9g3IVyZgvjHUZ6ZAFRDfG4FVmsOChURPr4fb97h5DVQM5OmVYNYmJE88bl6IYDctA-sABQdMB0g3JFAeN7eR6G2IT0CugPjOGOxb5BiGxK8xUIUZmGUGVgFiQ2RI8XTTfoSnkWMa6nhQDD5u2gcVnw_E3VB2C9jTnUieBqWZx80rwCTEJOI9TTCFw2IfEtuwEIH4FxjfZMR2IxaPTwLifrCXQSKwwHnctB2Id0PZS-BJHJr4mzdDdYMCoQHGRfZ7LXLm9yEx8xvGI4UNnI1gmWIRI6QSwSIUMchmYrMJm-nIKvHrIc92E_xmYhWl1HbiQx7hOkJ-ByYLXTsFUMpQANLKXAA)]
+- [主旋律 TMD 檔案](joshi_seinendanka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjE0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwouT83IL84tQiK4WnS5Y_m7702Zw1LxrXP53Q8XTp5qdrJ7ycO-npzi1P58xQ4tLSUkATe7a2R0FLi0vRVsHQwILL3lbBncvGRN_EDmTui_ZdzxsXP9-x9_ncxU93zXmxdtnT7plPNzY8buh6NnXmi6ZNzzobnk9ZofB0ykagMUChZ3MnvJzd9rih-_2ejmcz1j6d1PO0txFoz_s9Pc-3LHo2e8eLmfMVDMyNTBUMTSze7-lU4uLyTczMswrITMzLd6gxqKnmUgACG0MzLTswq0bBQEEXDNFp03goo0bBEEwbKpiBhMDiIBEjIDYGy5gA1ZiCWWZgGiQKkoVBkJE1YOt8apCEUeHj5klwCx83rYaK7QHiVSBW0yIwfx6Y7AWLrIXrA-oAqoTw-qA0RH0Hmi0QZ5DgayOwb0C-MgHzjaE-MwWqgPjeCKzSHBYsJHp6Pdy-x81roGIgT68EszYheeJx80IEu2kZWAcoOGA6QLohgfK4uY1Eb0N8AnIFxHfGYN8ixzAkfo2BKszALDOwChAbIkOKp5v2IzyNHNNQx4Ni8HHTPqj4fCDuhrJbwJ7uRPI0KM08bl4BJiEmEe9pgikcFvuQ2IaFCMS_wPgmI7YbsXh8EhD3g70MEoEFzuOm7UC8G8peAk_i0MTfvBmqGxQIDTAust9rubh07RRAuV8BSCtzAQA)]
+- [鋼琴伴奏 TMD 檔案](joshi_seinendanka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6dPPTtRNezp30dOeWp3NmPFvb835Px8vuPc8nbHmyZ8vTpf0v1s55v6dTQUuLS9FWwdDAgsveVsGdy8ZE38SOq05B6UX7rueNi5_v2Pt87uKnu-a8WLvsaffMpxsbHjd0PZs680XTpmedDc-nrFB4OmUj0Gyg0LO5E17Obnvc0A2059mMtU8n9TztbQRa_n5Pz_Mti57N3vFi5nwFA3MjUwVDEwugzUpcXL6JmXlWAZmJeflBHg41BjXVXApAYGNopmUHZtUoGCjogiE6bRoPZdQoGIJpQwUzkBBYHCRiBMTGYBkToBpTMMsMTINEQbIwCDKyBmydTw2SMCp83DwJbuHjptVQsT1AvArEaloE5s8Dk71gkbVwfUAdQJUQXh-UhqjvQLMF4gwSfG0E9g3IVyZgvjHUZ6ZAFRDfG4FVmsOChURPr4fb97h5DVQM5OmVYNYmJE88bl6IYDctA-sABQdMB0g3JFAeN7eR6G2IT0CugPjOGOxb5BiGxK8xUIUZmGUGVgFiQ2RI8XTTfoSnkWMa6nhQDD5u2gcVnw_E3VB2C9jTnUieBqWZx80rwCTEJOI9TTCFw2IfEtuwEIH4FxjfZMR2IxaPTwLifrCXQSKwwHnctB2Id0PZS-BJHJr4mzdDdYMCoQHGRfZ7LXLm9yEx8xvGI4UNnI1gmWIRI6QSwSIUMchmYrMJm-nIKvHrIc92E_xmYhWl1HbiQx7hOkJ-ByYLXTsFUMpQANLKXAA)]
 
 ## 分析
 

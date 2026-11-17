@@ -16,19 +16,19 @@ tempo: "96"
 image:
   - file: "P242.jpg"
 audio:
-  - id: "7_11_hitotsutoya"
+  - id: "hitotsutoya"
     label: "鋼琴伴奏版"
-    file: "7_11_hitotsutoya.mp3"
+    file: "hitotsutoya.mp3"
 tmd_source:
-  - "7_11_hitotsutoya.tmd"
-  - "7_11_hitotsutoya_piano.tmd"
+  - "hitotsutoya.tmd"
+  - "hitotsutoya_piano.tmd"
 ---
 
 # 一つとや
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **鋼琴伴奏版**：<br><audio controls src="7_11_hitotsutoya.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="hitotsutoya.mp3"></audio>
 
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
@@ -47,14 +47,14 @@ tmd_source:
 
 ## ABC
 
-<div class="abc-score" data-abc-src="7_11_hitotsutoya.abc" aria-label="五線譜載入中"></div>
+<div class="abc-score" data-abc-src="hitotsutoya.abc" aria-label="五線譜載入中"></div>
 
-[下載 ABC 原始檔](7_11_hitotsutoya.abc)
+[下載 ABC 原始檔](hitotsutoya.abc)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](7_11_hitotsutoya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTIwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thSc7Gh43LnncuOJxU4uClhaXoq2CpRmXva2CM5eNkb6JHcigF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi7fxMw8q4DMxLx8hxqDmmouBSCwsdCyAzNqFMwUdMEYwjIFkjUKRnFAJghCmWAClW2MYIMN8qlReNw8Cch93NwBVvC4uRnKe9y8B8xfAjcUJAKSA5EIfTAeSP_j5j640VCLgTYCUY2CIYiDcDGQC0RwNtydmM4HywLZQIRwc9NmNFeuAPNXQd2yHsRrWgOThauGyG7C5aOmRWDeEog-qC-gDgcFsCk8qCHON4P4ASSMUGCMGrjzoA6DObQL7LS1cKetBrOQvAIUAemYAdcB8tTj5vnIAQsKNEhAgS00hrvNFBTHcDFQ4EI8Ck8uCIdBQgzV5yvhjoBYugjO3w7mw52NK1Vw1XJx6dopgBKvApBW5gIA)]
-- [鋼琴伴奏 TMD 檔案](7_11_hitotsutoya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fx45LHjSseN7W839PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwNOOyt1Vw5rIx0jex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBlrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAi5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMZCyw7MqFEwU9AFYwjLFEjWKBjFAZkgCGWCCVS2MYINNsinRuFx8yQg93FzB1jB4-ZmKO9x8x4wfwncUJAISA5EIvTBeCD9j5v74EZDLQbaCEQ1CoYgDsLFQC4Qwdlwd2I6HywLZAMRws1Nm9FcuQLMXwV1y3oQr2kNTBauGiK7CZePmhaBeUsg-qC-gDocFMCm8KCGON8M4geQMEKBMWrgzoM6DObQLrDT1sKdthrMQvIKUASkYwZcB8hTj5vnIwcsKNAgAQW20BjuNlNQHMPFQIEL8Sg8uSAcBgkxVJ-vhDsCYukiOH87mA93Nq5UwVWLnHZ9sKddw3gEQueZxiMQfh5EB5QHNRnCw24yubZis4d4k_HwsLqZXB-gmgyMBV07BVBEKABpZS4A)]
+- [主旋律 TMD 檔案](hitotsutoya.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTIwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thSc7Gh43LnncuOJxU4uClhaXoq2CpRmXva2CM5eNkb6JHcigF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi7fxMw8q4DMxLx8hxqDmmouBSCwsdCyAzNqFMwUdMEYwjIFkjUKRnFAJghCmWAClW2MYIMN8qlReNw8Cch93NwBVvC4uRnKe9y8B8xfAjcUJAKSA5EIfTAeSP_j5j640VCLgTYCUY2CIYiDcDGQC0RwNtydmM4HywLZQIRwc9NmNFeuAPNXQd2yHsRrWgOThauGyG7C5aOmRWDeEog-qC-gDgcFsCk8qCHON4P4ASSMUGCMGrjzoA6DObQL7LS1cKetBrOQvAIUAemYAdcB8tTj5vnIAQsKNEhAgS00hrvNFBTHcDFQ4EI8Ck8uCIdBQgzV5yvhjoBYugjO3w7mw52NK1Vw1XJx6dopgBKvApBW5gIA)]
+- [鋼琴伴奏 TMD 檔案](hitotsutoya_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUniyo-Fx45LHjSseN7W839PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwNOOyt1Vw5rIx0jex46pTUHrRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7oBlrzbMbap5N6nvY2Pt255f2enudbFj2bvePFzPkKBuZGpgqGJhZAi5W4uHwTM_OsAjIT8_KDPBxqDGqquRSAwMZCyw7MqFEwU9AFYwjLFEjWKBjFAZkgCGWCCVS2MYINNsinRuFx8yQg93FzB1jB4-ZmKO9x8x4wfwncUJAISA5EIvTBeCD9j5v74EZDLQbaCEQ1CoYgDsLFQC4Qwdlwd2I6HywLZAMRws1Nm9FcuQLMXwV1y3oQr2kNTBauGiK7CZePmhaBeUsg-qC-gDocFMCm8KCGON8M4geQMEKBMWrgzoM6DObQLrDT1sKdthrMQvIKUASkYwZcB8hTj5vnIwcsKNAgAQW20BjuNlNQHMPFQIEL8Sg8uSAcBgkxVJ-vhDsCYukiOH87mA93Nq5UwVWLnHZ9sKddw3gEQueZxiMQfh5EB5QHNRnCw24yubZis4d4k_HwsLqZXB-gmgyMBV07BVBEKABpZS4A)]
 
 ## 分析
 

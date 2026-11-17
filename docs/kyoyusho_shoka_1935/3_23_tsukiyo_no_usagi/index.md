@@ -4,10 +4,13 @@ song_title: "月夜の兎"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_3_23_tsukiyo_no_usagi"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈月夜の兎〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：D 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
-keywords: "月夜の兎, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈月夜の兎〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：浜田廣介、曲：中山晉平），調號拍號：D 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) ピョンピョン　ウサギハ　ナゼハネル…"
+keywords: "月夜の兎, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 浜田廣介, 中山晉平"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
+credits:
+  - "詞：浜田廣介"
+  - "曲：中山晉平"
 sources:
   - "臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）"
 musical_key: "D"
@@ -30,19 +33,47 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="tsukiyo_no_usagi.mp3"></audio>
 
+- 詞：浜田廣介
+- 曲：中山晉平
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
-
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= D，拍號 <2/4>，速度 != 100
+原書資訊與歌詞全文（對應 P126.jpg，原書 p. 97，第三學年用第 23 首）：
+調性與拍號：D 大調（2 升記號）2/4 拍子（原譜未標速度，演奏速度為編者設定）
+作者標示：浜田廣介歌／中山晉平曲
+目錄標註：二三 月夜の兎 …… (遊) …… 97
+〔譜下歌詞〕
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+(一)
+ピョンピョン　ウサギハ　ナゼハネル
+ナゼダカ　シラナイ　ハネジマン
+
+(二)
+つきよの　ばんなら　やまいっつ
+ななつの　たにまで　はねてゆく
+
+〔底欄歌詞〕
+二三　月夜の兎
+(一)
+ぴよん／＼兎は　なぜ跳ねる
+なぜだか知らない　跳ね自慢（じまん）
+
+(二)
+月夜の晩なら　山五つ
+七つの谷まで　跳ねて行く
+
+(三)
+谷間は深かろ　月夜でも
+七つの谷から　何處へ行く
+
+(四)
+何處へも行かない　跳ね自慢
+ぴよん／＼跳ね／＼　又歸る
 ```
 
 ## ABC
@@ -53,8 +84,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsukiyo_no_usagi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMjcwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thWdzOp4umfO4cd3T1j4FLS0uRVsFQwMDLntbBRcuGyN9EzuQSS_adz1vXPx8x97ncxc_3TXnxdplT7tnPt3Y8Lih69nUmS-aNj3rbHg-ZYXC0ykbn63tAQo9mzvh5ey2xw3d7_d0PJux9umknqe9jU93bnm_p-f5lkXPZu94MXO-goG5kamCoYnF-z2dSlxcvomZeVYBmYl5-Q41BjXVXApAYGOhZQdm1CiYKugqGCsYKdSA-T41Co8btzxuan_cNBkoAWErgDgQ-RoFQ6BaYwUzZPVtQDwViPuAeD1coSnYWENkhauAeA5Y0ePGtUgKdYHQAElhUzdYSBdhaRzQRpCBWAxbAMTdSIZhKJwONLATqqEFrtAI7A8Uf0Oc9bhxBhDvQ_IwhvNAQQNxXi0Xl66dAiiIFYC0MhcA)]
-- [鋼琴伴奏 TMD 檔案](tsukiyo_no_usagi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2p-PpkjmPG9c9be17v6fjZfee5xO2PNmz5enS_hdr57zf06mgpcWlaKtgaGDAZW-r4MJlY6RvYsdVp6D0on3X88bFz3fsfT538dNdc16sXfa0e-bTjQ2PG7qeTZ35omnTs86G51NWKDydsvHZ2h6g0LO5E17Obnvc0A2059mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0sgDYrcXH5JmbmWQVkJublB3k41BjUVHMpAIGNhZYdmFGjYKqgq2CsYKRQA-b71Cg8btzyuKn9cdNkoASErQDiQORrFAyBao0VzJDVtwHxVCDuA-L1cIWmYGMNkRWuAuI5YEWPG9ciKdQFQgMkhU3dYCFdhKVxQBtBBmIxbAEQdyMZhqFwOtDATqiGFrhCI7A_UPwNcdbjxhlAvA_JwxjOAwUNxHm1yCHsgz2EDeOBSsEE3EgQxyQeQ8gUUwhhcw1UB6ZJKCIQM3CaBHSwrp0CyM0KQFqZCwA)]
+- [主旋律 TMD 檔案](tsukiyo_no_usagi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMjcwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI7EvMzcxBx00ZLM3NT4_LT4lMRKdKm8xJLSolQlLi0thWdzOp4umfO4cd3T1j4FLS0uRVsFQwMDLntbBRcuGyN9EzuQ1hcr573fM-vZ1jnPp2x4unvxk93dYBOfzd4EFH6yY-3TjRufzex8unMzWPhF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDpl47O1PUChZ3MnvJzd9rih-_2ejmcz1j6d1PO0t_Hpzi3v9_Q837Lo2ewdL2bOVzAwNzJVMDSxeL-nU4mLS19LwZZagEtBQeFp33yQPZvbX6zoetHRDnQX0M9PW1c8m9YOdNTTDb3P2jsVQKlFL6sgHeguiHqFAj0FS3OQM9esebKj8-naHUBXA70G5CoYGSu8XDYN6FpgEIFseLFq_7OG5SCzu3uB_gGKuig8XbIcKAy0wEjhaS_Q6hlgiU5gsCsAVT1dOwFkd9_8F2vnPJuz6tmKmS8b5j_dtQxo37M9U54u7Ydwnzfter59xYuG1hcr1j5dNwuoH2Tdk71zgEJAPc-X7EKLO6Dn3u_pR442YESC9Dyfve5lTwtQz4sVu0ERu6sH6CnUFPKoYRkQKWi8bOzShHEszblAuh83TAE69MkOkPnAwHvcMBUkqvFkR4MmWLp5yuPm5Y-bNyMYDQ2Pm5Y9btr6uGnd4-Z-ELe563HTHhC7ufdx82qINogQUOlqsIbtj5tXggWXgDWAlTbteNw8D2gi2B0aQHdDbGxc8rgRKNkBdDtIbeOGx02THzeuetzUCTap5XHjvseNQHIxUCVEwyowAmqDaJj_uHE1WNFyMHf948a1jxuBLm573NgP8_PTXVOfrWlB8TMk4IBakIMONTAat4Dc1TQZGBHv9-wBSoNMB9kBtH7Oi-2bQTY1dcMdBTRjwePG7ufzl4IcDxJpAaqGqHvRvupZ6yJgSnncOAPkWJChnaghAXfHs5kr4QEAjP0nu6ZAvf5kRzPE3y82bIf7GOqOxmUvFvbAfAz0QifYTKDCl9OAwbn-2faNQKc9bupF8vDyx01NmMYCFYEsfrJ36ouZUx837kA29uns2WBj4ZJAE8Dy3Vi9iyUQIdIQNsh7_R3P1gJNAQci5YUEFCho6XNxhRSXZmdW5vvlhxYnpmdaBWQm5uU71BjUVIOsUrCx0LIDM7CVUQrgkqIB6DMFDROFpxv6n69v0IEXLJpYNAAtBBlWo2CqoKtgDIQ1CoYKRkDaDCxmDGQbAlnGQFldBQOFGrBqH8MaRIYDikPYQGozUCkw0wHxViBeBxTpB4k0dwF5e8A8YH4Ci6wGGxgPM9AIKAbOTyDTmjqAnHUgZY0bgLzJoEQKpDvBhrcAefuAGEQvBqtZAjcKf7js6iEnXAzjgEEBCghQcMBYoACCBIwhloCB-bYBSK8GO3o7kLcSKrME7H9ISACLFiA9DywCCkj0EAF6G4yXwANkPhCvhgbBcrDIeiBeC8SgUG8Di_TDTarl4tK1U0BNUApAEWUuAA)]
+- [鋼琴伴奏 TMD 檔案](tsukiyo_no_usagi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMjcwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thWdzOp4umfO4cd3T1r73ezpedu95PmHLkz1bni7tf7F2zvs9nQpaWlyKtgqGBgZc9rYKLlw2RvomdiDjX6yc937PrGdb5zyfsuHp7sVPdneDbX02exNQ-MmOtU83bnw2s_Ppzs1g4Rftu543Ln6-Y-_zuYuf7przYu2yp90zn25seNzQ9WzqzBdNm551NjyfskLh6ZSNz9b2AIWezZ3wcnbb44ZuoKuezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxALoTiUufS0FoNqnffOBDn82Z9WzFTNfNsx_umsZUMezPVOAHoJwnzfter59xYuG1hcr1j5dNwvsRX0urpDi0uzMyny__NDixPRMq4DMxLz8IA-HGoOaai4FILCx0LIDM4DW2KIDhedr1jzZ0fBiYY-ChonC0w39z9c36CiAIlwvqyBdE4sGoJUgw2oUTBV0FYyBsEbBUMEISJuBxYyBbEMgyxgoq6tgoFADVu1jWKPwuHnK4-blj5s3A8UhbCC1Gaj0cdMyIN4KxOuAIv0gkeYuIG8PmPe4uRcsshpsYDzMQCOgWOOSx429INOaOoCcdSBljRuAvMlAehWQ7gQb3gLk7QNiEL0YrGYJ3Cj84bKrh5xwMYwDBgUoIEDBAWOBAggSMIZYAgbm2wYgvRrs6O1A3kqozBKw_yEh8bhpB5CeBxYBBSR6iAC9DcZL4AEyH4hXQ4NgOVhkPRCvBWJQqLeBRfrhJtViT08-2NIT0C_xCtGGsTAKzjeLB9Jm8blIQqZAISATWQssCGoUTIBiJqjGAIXgXKheHEYAXaxrp4Dq6GgfoDwWUSOwqDIXAA)]
 
 ## 分析
 
@@ -66,26 +97,26 @@ tmd_source:
 🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Main #1 @ m.2, 0:01]
-   - 最高音: D5 in [Main #1 @ m.5, 0:04]
+   - 最低音:  D4 in [TsukiyoNoUsagi #1 @ m.2, 0:01]
+   - 最高音: D5 in [TsukiyoNoUsagi #1 @ m.5, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (9.6s)
+🏛  結構:      TsukiyoNoUsagi (9.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       D 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, E, F#, B
-   - 調性數值:    A 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): A 大調 (0.84), D 大調 (0.79), F# 小調 (0.67)
-   - 五度圈歷程:   +3
+   - 核心骨幹音:  F#, D, A, E, B
+   - 調性數值:    D 調性不明確 [相關度: 0.78, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.78), F# 小調 (0.78), A 大調 (0.59)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Main #1]: A 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [TsukiyoNoUsagi #1]: D 調性不明確 (r: 0.78, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
-      Bb               D  
-      Eb              [A ]*
+      Bb              [D ]*
+      Eb               A  
          Ab           E  
             Db       B  
                F# 
@@ -94,16 +125,16 @@ tmd_source:
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : ████████████████          20.0%
+     D  : █████████████████         23.3%
      D# :                            0.0%
-     E  : ████████████████          20.0%
+     E  : ██████████                13.3%
      F  :                            0.0%
-     F# : ████████████████          20.0%
+     F# : ████████████████████████  33.3%
      G  :                            0.0%
      G# :                            0.0%
-     A  : ████████████████████████  30.0%
+     A  : ██████████████            20.0%
      A# :                            0.0%
-     B  : ████████                  10.0%
+     B  : ███████                   10.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
   - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 25 個音符)
