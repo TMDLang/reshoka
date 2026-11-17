@@ -7,7 +7,7 @@ Q:1/4=108
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z2 z2 z2 z2 z2 D2 D2 D2 | B6 G2 F3 G A3 F | G4 D4 z2 D2 E2 D2 | D2 c4 A2 G3 F G2 B2 |
+|:!mf! z2 z2 z2 z2 z2 D2 D2 D2 | B6 G2 F3 G A3 F | G4 D4 z2 D2 E2 D2 | D2 c4 A2 G3 F G2 B2 |
 w: 1.~ヤ マ ノ | サ マ ウ ミ ノ ス | ガ タ ビ ナ ル | ク ニ ヨ ヒ ノ モ ト
 w: 2.~チュ ウ ノ | ミ チ コ ウ ノ コ | コ ロ ビ ナ ル | ク ニ ヨ ワ ガ ク ニ
 A8 z2 A2 ^G2 A2 | B6 A2 A3 G F3 E | E2 D2 D4 z2 F2 E2 D2 | c6 F D A,3 B F3 E |
@@ -19,9 +19,9 @@ w: 2.~シ ア | ハ レ タ フ | ト ー キ ヒ | ト ノ コ ー
 !f! A4 D4 z2 D2 D2 D2 | G6 G2 B3 A G3 A | !ff! B8 z2 B2 B2 B2 | d3 c B2 A2 B4 A4 |
 w: 1.~ト ヰ コ ノ モ | ト ヰ イ ツ マ デ | モ マ モ レ | ニ ッ ポ ン ダ ン
 w: 2.~コ ロ コ ノ コ | コ ロ イ ツ マ デ | モ タ モ テ | ニ ッ ポ ン ダ ン
-!f! G8 z2 D2 D2 D2 | G6 G2 B3 A G3 A | !ff! B8 z2 B2 B2 B2 | d3 c B2 A2 B4 A4 |
+!f! G8 z2 D2 D2 D2 | G6 G2 B3 A G3 A | !ff! B8 z2 B2 B2 B2 | d3 c B2 A2 B4 A4 :|
 w: 1.~ジ コ ノ モ | ト ヰ イ ツ マ デ | モ マ モ レ | ニ ッ ポ ン ダ ン
 w: 2.~ジ コ ノ コ | コ ロ イ ツ マ デ | モ タ モ テ | ニ ッ ポ ン ダ ン
-G8 z2 z2 z2 z2 |
+G8 z2 z2 z2 z2 |]
 w: 1.~ジ
 w: 2.~ジ

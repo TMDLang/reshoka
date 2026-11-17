@@ -4,10 +4,13 @@ song_title: "南國健兒"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_6_07_nangoku_kenji"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈南國健兒〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
-keywords: "南國健兒, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈南國健兒〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：石川彦太郎、曲：赤尾寅吉），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：七　南國健兒 （一）…"
+keywords: "南國健兒, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石川彦太郎, 赤尾寅吉"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
+credits:
+  - "詞：石川彦太郎"
+  - "曲：赤尾寅吉"
 sources:
   - "lyricist: 石川彦太郎"
   - "composer: 赤尾寅吉"
@@ -32,23 +35,37 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="nangoku_kenji.mp3"></audio>
 
+- 詞：石川彦太郎
+- 曲：赤尾寅吉
 - lyricist: 石川彦太郎
 - composer: 赤尾寅吉
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
-
-- 出處：lyricist: 石川彦太郎
-- 出處：composer: 赤尾寅吉
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= F，拍號 <4/4>，速度 != 108
+=== 原書資訊與歌詞全文 ===
+- 收錄頁次：原書 p. 181（掃描檔 P213.jpg），第六章 青年唱歌 第七首。
+- 詞曲標記：石川彦太郎歌／赤尾寅吉曲
+- 拍號與速度：ヘ長調（F 大調，1 降記號），4/4 拍（第 4 拍弱起進入，末小節 3 拍）（原譜未標速度，演奏速度 != 108 為編者設定）。
+- 雙層歌詞與歷史假名遣：五線譜內印有（一）片假名與（二）平假名雙層歌詞。第 10–11 小節譜面印「ヒカゲヲアビテ／ひかげをあびて」（底欄漢字印「光を浴びて」）；第 12–13 小節譜面印「オホウナバラ／おほうなばら」（底欄印「青海原（あほうなばら）を」），悉依原印忠實保留。
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+七　南國健兒
+
+（一）
+行け行け　健兒　南國健兒
+浪（なみ）より出でて　浪に入る
+光を浴（あ）びて　青海原（あほうなばら）を
+行け行け　健兒　南國健兒
+
+（二）
+行け行け　健兒　南國健兒
+草より出でて　草に入る
+光を浴びて　廣野が原を
+行け行け　健兒　南國健兒
 ```
 
 ## ABC
@@ -59,8 +76,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nangoku_kenji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMDI0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvESwopxKoABQ3Erh-fzNT7fPfbp32dMlq14294Flk_NzC_KLU4usFF5sXfJ0w76n61ufTuhU4tLSUnjaO_3pnO6njUuftk5S0NLiUrRVMDSw4LK3VXDjsjHRN7ED6X_Rvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7ofr-n49mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0s3u8BOoXLNzEzzyogMzEv36HGoKaaSwEIbAzNtOzArBoFAwVdMESnDaFkjYIxVAQGIXxjBVMwbQpUAWFBoBlYDFmlkUIN2C6fGjSDEPBx8zIovQdo3OOmjXjkYbLY1D5u3gwim3bA-V1wcYgjaqAeg0AjuCMRjq4Bi8IgKDhgQQIRB3oHbgaMhsnAzEI1A2YOQqUxIkgeN21B9kDTejAJ8xTEQxAjEd5Chwhvzgepa14BF18FN3cJVKQdiNsQZgIDkQgzoUEHCyIYbaIOY8ANhEnB_AtLJKBkAUocCBXo4Q5RQVrYNXfDXAv1HyRZwFir4UZi-vNx8ySoztXwcHrcvAkczovgaibDWbAwQ5iEN_SgZjxuno0z9GAeRiQ89MCjNC8imwGxDagCkfAgeQoR1SDWBDhrJdxZoGDB4U3y8y2eoIOpQ-RZdE_BvA1JEaCAgaUZGI2cy8G-QHgbPRchFxKw3AjKh8geQuRDTP01XLVcXLp2CqCSVgFIK3MBAA)]
-- [鋼琴伴奏 TMD 檔案](nangoku_kenji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUnjaO_3pnO6njUuftk56v6fjZfee5xO2PNmz5enS_hdr57zf06mgpcWlaKtgaGDBZW-r4MZlY6JvYsdVp6D0on3X88bFz3fsfT538dNdc16sXfa0e-bTjQ2PG7qeTZ35omnTs86G51NWKDydsvHZ2h6g0LO5E17Obnvc0A2059mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0sgDYrcXH5JmbmWQVkJublB3k41BjUVHMpAIGNoZmWHZhVo2CgoAuG6LQhlKxRMIaKwCCEb6xgCqZNgSogLAg0A4shqzRSqAHb5VODZhACPm5eBqX3AI173LQRjzxMFpvax82bQWTTDji_Cy4OcUQN1GMQaAR3JMLRNWBRGAQFByxIIOJA78DNgNEwGZhZqGbAzEGoNEYEyeOmLcgeaFoPJmGegngIYiTCW-gQ4c35IHXNK-Diq-DmLoGKtANxG8JMYCASYSY06GBBBKNN1GEMuIEwKZh_YYkElCxAiQOhAj3cISpIC7vmbphrof6DJAsYazXcSEx_Pm6eBNW5Gh5Oj5s3gcN5EVzNZDgLFmYIk_CGHtSMx82zcYYezMOIhIceeJTmRWQzILYBVSASHiRPIaIaxJoAZ62EOwsULDi8SX6-xRN0MHWIPIvuKZi3ISkCFDCwNAOjkXM52BcIb6PnIuRCApYbQfkQ2UOIfIipv4arFrmg9SG1oI2PhxmExMbPIqTSFKESVuphkcNuMkIePwu7G7CZToKZGK5FsMzICAfyVFLDtZS6gQYqiXItcvxi8zN2k4EZQNdOAZQHFIC0MhcA)]
+- [主旋律 TMD 檔案](nangoku_kenji.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMDI0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZ5UCr8tPSMpMzE3MQ8iUZqcCASM7PzS3NyyypRJcoTyxJLUIXzEnMSwG6vCAVLPFi5bz3e2Y9n7_56fa5T_cue7pk1cvmPrDMs9mbgDIvti55umHf0_WtTyd0goVzKoEOBbrXSgGbJqBTCvKLU4usFFA1amkpPO2d_nRO99PGpU9bJyloaXEp2ioYGlhw2dsquHHZmOib2IGd077reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z09z7csejZ7x4uZ8xUMzI1MFQxNLN7vATqFS19LwZZagEtBAWSYwtO--SC7Nre_WNH1oqMd6DZgwD5tXfFsWjtIHqTscfPuZ1O2vexpebmg8dmahcCwhWhSKNBTMLQwBLm_r_lZf_-zVVMUQClSL6sgHehgkEfWrHnauvb56gUKL-dOAvoN4nkFoPCTHc0vl0173NAEtQBoKTDanq2Y-WLFDMxoBWp6v6cfOWKAimFO6-4FhhTQ6S8b5j_dtQyo-XHzjJdTt79YtR_oMjeFp0uWg5k9hgovZ_YCjQeqhrgOGHUKQN1AVUAHKYDZT_dsfLF1-8uGTU9blwJVPJuz-umG_ufrGxSMISqB2jqAnn-xds6zOauAroXZ2fNsz5SnS_shXAVIAlF43rTr-fYVLxpaX6xY-3TdLKBuhH9fzgYmjiWQ0AYH-_an_ZueNrY_ndD7snEx0BNPdk15vn0W0KKnrcuf9m54Ngdk9ZMdDUBTnne2Q1QCNYIEdwEDp_Ppzs1Q7UgmA-0Dec3Q4FHDZENDBYhfgGa-nLsIaObjhp7HzZMeN61-3LTpcfOmx02LHjdPftzcBgzqx42bHjd2P24Eyk563Nj0uHHz48ZljxtAYfV019Rna1qe7Vn0dO10iCFPWzuByp5t3YKkDOja2WCrjUBWG2OzumnV4-bZj5uWPW7uetw84XHzSrC9XY8bdz9ubHvcuOpx44bHTcAgQ1gK0QhMSs-2bgfGAlAc7DYU9aBQBroZ6oaeZ02dT_bNBSoG6n26f8HT9cue7J_7fOpMUEyAogKYDh83NCDncLAwPKxBnBcLex43ToSQIMVgZei6gOqebV0FdhLQJcD0BnRGx-Omrqftux43LgcHSwNQwePG1cCk9bipG6QBHnAQn4D0QEOwgRhPEu02mI_ACYUUH73oxeILkCBWX8Ad_3T34pftfY8be4DuJ8WdkCKJOkBBS5-Lyy8xLz0_u9Q7NS8r0yogMzEv36FG17CmGmSTgo2hmZYdmAUsV8FFUgPQfQoakDJAIVfPUEEbSBrpmujAizVNkLEgLTUKBgq6YIhOm8bDqBoFQ6gYOjSGkjUKpmgyZlASJl4DVYsJISqAZoDd42NYowCxWBeDfty8DG7a46aNOMzDrwom8rh5M1wMpG4HTtO64OqhLjTC48KmNoSZjRNxmYlXFUzkcdNkZBc2zsBlWuMquPoacBaBpYNdPeB0kKtnqmuBNeqNkIwBRTGMjzvSYIkDkiAMgSrMYH6HQbgAQg2yPcgQnnzgUf-4aQuy15rWg0lYJCIiDVuUIZIJLMrmg9Q1r0BT97gZEmAgk5dARdrBKmHRgg5RTIQngseNU5DVNPaDSVh0IqIPW-TB3QrWBaKngv3UgW5zE8RmkIoWKL0cbCIskWO4FdlElOSwoxOaHCx1DY0IpgcQhMW-iTrcK-j5HJYgYPkdUwXMEHg-JyU5NHejew8aZQgIUrUaTQyRFCZBda0GB-8mdNOaYSLARgNUBJiL8CWFJmhua56NkhTQXQCLLhR3NqH7BpEMIO4AtlXAkQtxNbKtMBFgHQqlgeUR3mQANbGpFzUZPJ09G5oMDI11Dc2wpgPkKASxIZGLoHEnA9wVAgwiVOCvVIxQSgVkb0JyI7CpBeevhLsLEaEwSM3KA64KqRJBTgTrkNU09oBJUAkG0dOJZDJ6BFOzAkG4AFGRoFUMU2BJwFzX0JJgEkCGiOjDVXnAaNxmwBILcgQTVf9SVD3AICyokSOOqLqVogIf0_ZaLi5dOwXklp0CkK_MBQA)]
+- [鋼琴伴奏 TMD 檔案](nangoku_kenji_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzAHLvVg57_2eWc_nb366fe7TvcueLln1srkPLPNs9iagzIutS55u2Pd0fevTCZ1g4ZzKoszkzOISKwVsmpLzcwvyi1OLrBRQNWppKTztnf50TvfTxqVPWye939PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFUwNLDgsrdVcOOyMdE3sQO7sX3X88bFz3fsfT538dNdc16sXfa0e-bTjQ2PG7qeTZ35omnTs86G51NWKDydsvHZ2h6g0LO5E17Obnvc0A2059mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0sgDYrcXH5AUMsP7vUOzUvK9MqABSMQR4ONbqGNdVcCkBgY2imZQdm6WspPF-z5smOhhcLexQ0nu7Z-GLrdoVcPUMFbSBppGuioxBgZGisl1WQrqmgpQ_WUqNgoKALhui0aTyMqlEwhIqhQ2MoWaNgiiZjBiVh4jVQtZgQogJoBtg9PoY1ChCLdTHox83L4KY9btqIwzz8qmAij5s3w8VA6nbgNK0Lrh7qQiM8LmxqQ5jZOBGXmXhVwUQeN01GdmHjDFymNa6Cq6_hQk4Hu3rA6SBXz1TXAmvUGyEZA4piGB93pMESByRBGAJVmMH8DoNwAYQaZHuQITz5wKP-cdMWZK81rQeTsEhERBq2KEMkE1iUzQepa16Bpu5xMyTAQCYvgYq0g1XCogUdopgITwSPG6cgq2nsB5Ow6EREH7bIg7sVrAtETwX7qQPd5iaIzSAVLVB6OdhEWCLHcCuyiSjJYUcnNDlY6hoaEUwPIAiLfRN1uFfQ8zksQcDyO6YKmCHwfE5KcmjuRvceNMoQEKRqNZoYIilMgupaDQ7eTeimNcNEHjctgooAcxG-pNAEzW3Ns1GSAroLYNGF4s4mdN8gkgHEHY8bu8GRC3E1sq0wkceNTVAaWB7hTQZQE5t6UZPB09mzocnA0FjX0AxrOkCOQhAbErkIGncywF0hwCBCBf5KxQilVED2JiQ3Pm6eAOevhLsLEaEwSM3KA64KqRJBTgTrkNU09oBJUAkG0dOJZDJ6BFOzAkG4AFGRoFUMU2BJwFzX0JJgEkCGiOjDVXnAaNxmwBILcgQTVf9SVD3AICyokSOOqLqVogIf0_ZabA07H5SGnQmiXQeMK10T5EYbBAJzUbxCtGEsjILzTdD4MHmEecBGAVJ0x8crGMVrAxt7IFa0aTySVog9RkCOUXxuLJgBNhmuEswwA8khGQ-qZFDNB6s1A1uELILdG_gNBxddCNOR_GyC4XAcAYQZIODMgGEoiotwBRGQAloFilJdOwXkWI32AcpiiBmBxZS5AA)]
 
 ## 分析
 
@@ -68,24 +85,24 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 南國健兒 ]
 ================================================================================
-⏱  Duration:       0:37 (37.8s), 17 measures total
+⏱  Duration:       0:40 (40.0s), 18 measures total
 🎼 Key & Tempo:    首調基準 F, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F4 (MIDI 65) – D5 (MIDI 74) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F4 in [Main #1 @ m.1, 0:01]
-   - 最高音: D5 in [Main #1 @ m.3, 0:05]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [NangokuKenji #1 @ m.1, 0:01]
+   - 最高音: D5 in [NangokuKenji #1 @ m.3, 0:05]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (37.8s)
+🏛  結構:      NangokuKenji (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  C, G, A, F, D
-   - 調性數值:    C 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 98.3%]
-   - 候選調性 (K-S): C 大調 (0.87), F 大調 (0.69), A 小調 (0.66)
+   - 調性數值:    C 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.86), A 小調 (0.69), F 大調 (0.69)
    - 五度圈歷程:   +0
    - 各段落調性細節:
-     • [Main #1]: C 大調 (r: 0.87, 自然音純度: 98.3%, 調外音: A#)
+     • [NangokuKenji #1]: C 大調 (r: 0.85, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -98,21 +115,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████████████  34.3%
+     C  : ████████████████████████  34.1%
      C# :                            0.0%
-     D  : █████                      7.4%
+     D  : ███████                   10.1%
      D# :                            0.0%
      E  :                            0.0%
-     F  : █████████                 13.5%
+     F  : █████████                 13.0%
      F# :                            0.0%
-     G  : ███████████████           21.7%
+     G  : ███████████████           20.7%
      G# :                            0.0%
-     A  : ██████████████            19.6%
-     A# : █                          1.7%
-     B  : █                          1.7%
+     A  : ███████████████           20.7%
+     A# :                            0.0%
+     B  : █                          1.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : F4 – D5 (9 個半音 / 0.8 個八度, 66 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 60 個音符)
 ================================================================================
 ```
 

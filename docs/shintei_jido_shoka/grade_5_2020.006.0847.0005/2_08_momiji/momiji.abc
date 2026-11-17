@@ -6,7 +6,7 @@ Q:1/4=96
 K:Eb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! z4 z2 B2 | c2 B z G z B2 | c2 B4 z2 | c2 B2 G2 B2 |
+|:!mf! z4 z2 B2 | c2 B z G z B2 | c2 B4 z2 | c2 B2 G2 B2 |
 w: 1.~モ | ミ ヂ ノ エ | ダ ニ | ブ ラ ン コ
 w: 2.~も | み ぢ の し | た で | ご ほ ん を
 F2 G F E2 z2 | !mp! F2 F G A z c2 | B3 c B2 G z | B z G z B z G z |
@@ -21,6 +21,6 @@ w: 2.~ラ | あ れ | あ れ | あ か い は が
 A2 F2 E2 z2 | G3 A B4 | c3 d e4 | B2 G E F2 B2 |
 w: 1.~チ ル ヨ | ヒ イ フ | ミ イ ヨ | イ ツ ムウ ナ ナ
 w: 2.~ち る よ | ひ い ふ | み い よ | い つ むう な な
-E6 z2 |
+E6 z2 :|
 w: 1.~ヤ
 w: 2.~や

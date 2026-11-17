@@ -81,7 +81,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](meijisetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU-MLEtNTrQIMjI3QZayKkzPy83PiS1IrSpLy87MR8gVF-WWpeYl5QDUFRZl5JakpYEUIBallmSmpIOnUlMyS_KLMxBwkp6UWFYPcD7W-pCgxrzi5KLMA5CmEqpKMVKD7M3MLUlF1Q8STU4tSc_PzUGSA1qRn5lkBhZNAXsaQKEnMhIZEeWJ8bmJmXk5iXooSl5aWwrMZfc827X6-vkFBS4tL0VbB0ozL3lbBhcvGRN_EDmTMi5Xz3u-Z9XRBw7N9S55OXPF0XSfY9GezNwGFn83tfLZx_vPlDWCxF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9HqDNXPpaCrbUAlwKCgpP--aD7Nnc_mJF14uOdqC7gB5-2rri2bR2oKOebuh91t6pEGBgaKCXVZCu8KhhMohjCOIAHfm0peHpnn6gHoWCAj0FM6CsOcjpa9YomCm8XDYN6GJgGIFsebFq_7OG5SDzu3uBfgKKPm7ufjl1O1BcARjQCkDhp2snAPU-buh52t3-uKH1cdP2x03rHzf0glzRN__F2jlPO3uftq58sbDn2ZzOp_29L5a1vVgxA2xYJxfIjic7gAHd8GTXnOdbNgBJoL7HjU2PG2c8bmoBKnncuO7Z3I1gwU2PG3seN04HCTY0PJu-9Gn7Lpg4ROXSx03dL2ZOBQuueNw4-XET0BWdYH80Aj0FUQo0twti7tMJs8GCvY8b90NEgOY-798HdUETUGQ9SLwJaOs-oMWPG5eBQ75_CVjFVqBtYG29T5esfDpnA0xb4-PGJY8bF0KcCXbItMeNs4GKX85ZDrUP4oKmSWDjlix_um_h01ZgkAPluh437gY6B-zSbphLVwMNejmrA6ygH-gWsOAqMHs92JmbQAYB0yVIRdMksFN3gBUBwxHo8rUgpUAjGicDcw3YFKAFC8GyoAACGzERqAZsyqbdMFOAAQmUa3y-dRlYz3yYzTuAfgEaB3T1k92Ln24AuhFsYhNEzVagl-FRuwuYMBqeNW4FGwkMmAnwoH62eRFYH9AbEBFgmml42rr62RZg_gQqbgH7AmLh6pdLZsCSBVikqQsccvsWPl8x5-mKRpiXgHqAUQMy_eUioBuAgt2PG4EJCmr6s63bQSlyG8TBbWC7N4A9PxmsBigIjuDnS4ElB0Qz1LFP9s0FOwoYBUDuVEh0QoLg2dK1MP8DowOUdYBh93QPxL2bICkQ6HVw0G6YCAtIWCAsWwfMF2BBoKHA-G4Di4Mi62kXJHECowkoDkwcYHM3QhL3OrCyDcAggqQgSOIGBTswBJ7O6QYiWGJZDQ701fD0_bQfHL6gaII4YvXjpqYXE4G5Cig4HZakwUnhOSRBAVNwEzBACCSFpxN6n0_th8UEMGSBoQeMQFDIQnM5KDs8Xw5xGCzlNa57vhKSiedCPdk4E2RAQ8OLfkg0ATMn0FRwnC6b-XI1JFyBZgOdAM19YNN3dwELBLAcMCEDkxvYt6AU2QsTB3obFIQgR8wCBjPUnWCVk8G5FJjv-mBZfN0sWKQsgPgcVgJMRER8GyQggaYAbYJm6KdbQKUv2H_AaIVF_IvVkDQCNA4SR6CUjWzci5VTnna3wowDOQdq3DpIpt8HjCNEugfmOiB6NgecxIF-BHkTmK3BCWoxMGkARYDFELSQAxWtYPXAUhtJPbh4hJSlwEhsXA0xF1aGQUOw7-lSSKkEdCw4YwHzStNkkPeBZdYOcJZAFFjAOFkJLW0pr-GgQEFLn4vL0dAqIDMxL9-hRtewphpkvoKNiZYdmFGjYACGxgo1YL6PYY1CPBg-bloEEzOCizVPhYkZI9Q1wsRM4GKN3TAxUyzmmSHEtgLFoA7RMFbQBUIjTVUNXV1NBUOQmxQ0TMGCplBBYwUjJIdqPG7aAZZ-3LxEE0j0AfEkkKbHTWvA4kAdwOoUIgr3isbj5tUQXU1rNcEU0GEg0YVQs1pAZjUCcQeSZzWAxQBEvnE_UL5xHRCvAutr3A-3q3E90LQWpOCAywI1QOwCmgkSnQoVnQ1yYTfIUKQAA7p_LdxMkK-a9kJcuBLq7p0g8fkgDyAFKVC-AaFrIRDPg4TFdqiujSDx1WCdiEA3A0uaQcPXVMEEKAiKCCMgGyWkl0BDpxVmCsgnj5s2gwXXYoRx0zaorbuh6kFuBbJWgdVvAvKBoYccutOhIbIPFI5A9Y1NIPWN-8CGdCGHEDhcm_qh6qeBQnASkLEJ7J5esHpg7DWCfIkUouuh7u8DqQe5B2gemAVOCKDgQQ3LPqj6VSD3g9wLSiWQhAUOXZSki55KgWGnoGEYBxY1jIMKm4NCGxzSmtgTMdgqUHSDggrohPnIiQCobhGQsRKuF5KUZ0P1zgepAgYD0ENgcVA4Q_V2Q7wPTA9wvZAgb4EGISjzgBM0MNeCxOcgJ2ggvw2U1uF6sSVrYHoGi3ZDI70NpLcfJAIMqcZuuF5wVAALEeTE3bwCkkwhSR7oCUiAg_3_uLkLrhcSLR1wveCMjT2JQ_Q2bQbphUWROZaEDoo2UOmHHBvN0ITVvAZk1jywPaCE2wYUBJVZKKHfBbV3PUhtPyh6wGonoaqFhPYGqNpOUNhMBmJwBmpchqoWkrg7oWpBYQGOmQ1gtaA8gqQWkrBBORDk3g6QG2YDNa3D5l7k0AMGL9RvzeBEDU4sELW1wOrCiHB1gVwKw6oGYP5Dry4agVGLXl2AohseKUZg9xhDI8UE2HvCnpmQcws0rptngNIAKEtA0kAzKOdDUwYoscOzPzimGqHFV2M_rHiZAEmxkKoAnNZB4QzK1Ig4A7oVbiZQFphawaKL0PIripcwcz3IUyA_ofsEWMdAYnkRyHxQEQpOPcCCCJyk0IIUKc-tBqlvAqcHkHpQpgPlNtTghrsekjKAyQSWkmeABYGVDrhGhrob7GyIW6ERAMsqqM4GlXuwEhBUggKtmYcUIfD6BeZsYKMG7B1oiQzyBqhIB7l4B0bdB3Q2pHSABDc0YqHFFKjoe9wM8gao5oA6G-RUM6C7oR5AzcyQEAC5E9xwAddZ6JkYVIuDHANyBzg4gVkTPfNCSllImQIqXh83g_InPMPo2ik4GioASWUuAA)]
+- [主旋律 TMD 檔案](meijisetsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU-MLEtNTrQIMjI3QZayKkzPy83PiS1IrSpLy87MR8gVF-WWpeYl5QDUFRZl5JakpYEUIBallmSmpIOnUlMyS_KLMxBwkp6UWFYPcD7W-pCgxrzi5KLMA5CmEqpKMVKD7M3MLUlF1Q8STU4tSc_PzUGSA1qRn5lkBhZNAXsaQKEnMhIZEeWJ8bmJmXk5iXooSl5aWwrMZfc827X6-vkFBS4tL0VbB0ozL3lbBhcvGRN_EDmTMi5Xz3u-Z9XRBw7N9S55OXPF0XSfY9GezNwGFn83tfLZx_vPlDWCxF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9HqDNXPpaCrbUAlwKCgpP--aD7Nnc_mJF14uOdqC7gB5-2rri2bR2oKOebuh91t6pEGBgaKCXVZCu8KhhMohjCOIAHfm0peHpnn6gHoWCAj0FM6CsOcjpa9YomCm8XDYN6GJgGIFsebFq_7OG5SDzu3uBfgKKPm7ufjl1O1BcARjQCkDhp2snAPU-buh52t3-uKH1cdP2x03rHzf0glzRN__F2jlPO3uftq58sbDn2ZzOp_29L5a1vVgxA2xYJxfIjic7gAHd8GTXnOdbNgBJoL7HjU2PG2c8bmoBKnncuO7Z3I1gwU2PG3seN04HCTY0PJu-9Gn7Lpg4ROXSx03dL2ZOBQuueNw4-XET0BWdYH80Aj0FUQo0twti7tMJs8GCvY8b90NEgOY-798HdUETUGQ9SLwJaOs-oMWPG5eBQ75_CVjFVqBtYG29T5esfDpnA0xb4-PGJY8bF0KcCXbItMeNs4GKX85ZDrUP4oKmSWDjlix_um_h01ZgkAPluh437gY6B-zSbphLVwMNejmrA6ygH-gWsOAqMHs92JmbQAYB0yVIRdMksFN3gBUBwxHo8rUgpUAjGicDcw3YFKAFC8GyoAACGzERqAZsyqbdMFOAAQmUa3y-dRlYz3yYzTuAfgEaB3T1k92Ln24AuhFsYhNEzVagl-FRuwuYMBqeNW4FGwkMmAnwoH62eRFYH9AbEBFgmml42rr62RZg_gQqbgH7AmLh6pdLZsCSBVikqQsccvsWPl8x5-mKRpiXgHqAUQMy_eUioBuAgt2PG4EJCmr6s63bQSlyG8TBbWC7N4A9PxmsBigIjuDnS4ElB0Qz1LFP9s0FOwoYBUDuVEh0QoLg2dK1MP8DowOUdYBh93QPxL2bICkQ6HVw0G6YCAtIWCAsWwfMF2BBoKHA-G4Di4Mi62kXJHECowkoDkwcYHM3QhL3OrCyDcAggqQgSOIGBTswBJ7O6QYiWGJZDQ701fD0_bQfHL6gaII4YvXjpqYXE4G5Cig4HZakwUnhOSRBAVNwEzBACCSFpxN6n0_th8UEMGSBoQeMQFDIQnM5KDs8Xw5xGCzlNa57vhKSiedCPdk4E2RAQ8OLfkg0ATMn0FRwnC6b-XI1JFyBZgOdAM19YNN3dwELBLAcMCEDkxvYt6AU2QsTB3obFIQgR8wCBjPUnWCVk8G5FJjv-mBZfN0sWKQsgPgcVgJMRER8GyQggaYAbYJm6KdbQKUv2H_AaIVF_IvVkDQCNA4SR6CUjWzci5VTnna3wowDOQdq3DpIpt8HjCNEugfmOiB6NgecxIF-BHkTmK3BCWoxMGkARYDFELSQAxWtYPXAUhtJPbh4hJSlwEhsXA0xF1aGQUOw7-lSSKkEdCw4YwHzStNkkPeBZdYOcJZAFFjAOFkJLW0pr-GgQEFLn4vL0dAqIDMxL9-hRtewphpkvoKNiZYdmFGjYACGxgo1YL6PYY1CPBg-bloEEzOCizVPhYkZI9Q1wsRM4GKN3TAxUyzmmSHEtgLFoA7RMFbQBUIjTVUNXV1NBUOQmxQ0TMGCplBBYwUjJIdqPG7aAZZ-3LxEE0j0AfEkkKbHTWvA4kAdwOoUIgr3isbj5tUQXU1rNcEU0GEg0YVQs1pAZjUCcQeSZzWAxQBEvnE_UL5xHRCvAutr3A-3q3E90LQWpOCAywI1QOwCmgkSnQoVnQ1yYTfIUKQAA7p_LdxMkK-a9kJcuBLq7p0g8fkgDyAFKVC-AaFrIRDPg4TFdqiujSDx1WCdiEA3A0uaQcPXVMEEKAiKCCMgGyWkl0BDpxVmCsgnj5s2gwXXYoRx0zaorbuh6kFuBbJWgdVvAvKBoYccutOhIbIPFI5A9Y1NIPWN-8CGdCGHEDhcm_qh6qeBQnASkLEJ7J5esHpg7DWCfIkUouuh7u8DqQe5B2gemAVOCKDgQQ3LPqj6VSD3g9wLSiWQhAUOXZSki55KgWGnoGEYBxY1jIMKm4NCGxzSmtgTMdgqUHSDggrohPnIiQCobhGQsRKuF5KUZ0P1zgepAgYD0ENgcVA4Q_V2Q7wPTA9wvZAgb4EGISjzgBM0MNeCxOcgJ2ggvw2U1uF6sSVrYHoGi3ZDI70NpLcfJAIMqcZuuF5wVAALEeTE3bwCkkwhSR7oCUiAg_3_uLkLrhcSLR1wveCMjT2JQ_Q2bQbphUWROZaEDoo2UOmHHBvN0ITVvAZk1jywPaCE2wYUBJVZKKHfBbV3PUhtPyh6wGonoaqFhPYGqNpOUNhMBmJwBmpchqoWkrg7oWpBYQGOmQ1gtaA8gqQWkrBBORDk3g6QG2YDNa3D5l7k0AMGL9RvzeBEDU4sELW1wOrCiHB1gVwKw6oGYP5Dry4agVGLXl2AohseKUZg9xhDI8UE2HvCnpmQcws0rptngNIAKEtA0kAzKOdDUwYoscOzPzimGqHFV2M_rHiZAEmxkKoAnNZB4QzK1Ig4A7oVbiZQFphawaKL0PIripcwcz3IUyA_ofsEWMdAYnkRyHxQEQpOPcCCCJyk0IIUKc-tBqlvAqcHkHpQpgPlNtTghrsekjKAyQSWkmeABYGVDrhGhrob7GyIW6ERAMsqqM4GlXuwEhBUggKtmYcUIfD6BeZsYKMG7B1oiQzyBqhIB7l4B0bdB3Q2pHSABDc0YqHFFKjoe9wM8gao5oA6G-RUM6C7oR5AzcyQEAC5E9xwAddZ6JkYVIuDHANyBzg4gVkTPfNCSllImQIqXh83g_InPMPo2ik4GiqASGBytlNQ5gIA)]
 - [鋼琴伴奏 TMD 檔案](meijisetsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng2o-_Zpt3P1ze839PxsnvP8wlbnuzZ8nRp_4u1c97v6VTQ0uJStFWwNOOyt1Vw4bIx0Tex46pTUHqxct77PbOeLmh4tm_J04krnq7rVAIJP5u9CSj8bG7ns43zny9vAIu9aN_1vHHx8x17n89d_HTXnBdrlz3tnvl0Y8Pjhq5nU2e-aNr0rLPh-ZQVCk-nbHy2tgco9GzuhJez2x43dANd9GzG2qeTep72Nj7dueX9np7nWxY9m73jxcz5CgbmRqYKhiYWQDcqcXE5GloFZCbm5Qd5ONToGtZUcykAgY2Jlh2YUaNgAIbGCjVgvo9hjUI8GD5uWgQTM4KLNU-FiRkj1DXCxEzgYo3dMDFTLOaZIcS2AsWgDtEwVtAFQiNNVQ1dXU0FQ5CbFDRMwYKmUEFjBSMkh2o8btoBln7cvEQTSPQB8SSQpsdNa8DiQB2Pm7ZDROFe0XjcvBqiq2mtJpgCOgwkuhBqVgvIrEYg7kDyrMbjxgkQ-cb9QPnGdUC8CqyvcT_crsb1QNNakIIDLgvUALELaCZIdCpUdDbIhd0gQ5ECDOj-tXAzQb5q2gtx4Uqou3eCxOeDPIAUpED5BoSuhUA8DxIW26G6NoLEV4N1IgLdDCxpBg1fUwUToCAoIoyAbJSQXgINnVaYKSCfPG7aDBZcixHGTdugtu6Gqge5FchaBVa_CcgHhh5y6E6Hhsg-UDgC1Tc2gdQ37gMb0oUcQuBwbeqHqp8GCsFJQMYmsHt6weqBsdcI8iVSiK6Hur8PpB7kHqB5YBY4IYCCBzUs-6DqV4HcD3IvKJVAEhY4dFGSLnoqBYadgoZhHFjUMA4qbA4KbXBIa2JPxGCrQNENCiqgE-YjJwKgukVAxkq4XkhSng3VOx-kChgMQA-BxUHhDNXbDfE-MD3A9UKCvAUahKDMA07QwFwLEp-DnKCB_DZQWofrxZasgekZLNoNjfQ2kN5-kAgwpBq74XrBUQEsRJATd_MKSDKFJHmgJyABDvb_4-YuuF5ItHTA9YIzNvYkDtHbtBmkFxZF5lgSOijaQKUfcmw0QxNW8xqQWfPA9oASbhtQEFRmoYR-F9Te9SC1_aDoAaudhKoWEtoboGo7QWEzGYjBGahxGapaSOLuhKoFhQU4ZjaA1YLyCJJaSMIG5UCQeztAbpgN1LQOm3uRQw8YvFC_NYMTNTixQNTWIioMH7wVBizQahQM4xWiDWNhFAYfqsoEyDWJhVFwVabxQNo0HqEO3TQzkAKz-FyEVqhCuE6EEUiaQc4D-cWImMoPuU6BVXTA0gS98msEJlT0yg-UeOFJzAgcusbQJGaiYIajaEDO-9CU2zwDlKJBGRySoptB5Rg0nYOyLrwwA6e7Rmhh3NgPKywnQPIfpGID51xQqgEVUYgUCHQr3EygLDDvgUUXoZU-KF7CLMNAngL5Cd0nwBoTkmYXgcwHVQjgvAAsVsEZBC1IkUqQ1SD1TeDUDVIPKkJAZQdqcMNdD0nnwEQPy5czwILAKhTcvoClIpCzIW6FRgAs46M6G1SKw8pzUH0AtGYeUoTAa0uYsx83gqpgeP0C8gaoggK5eAdGTQ50NqSsgwQ3NGKhhS6oIH_cDPIGqB6EpWmQQ4HuhnoAtWiChADIneBmGLgGRi-SQG0SkGNA7gAHJ7CgQS-KIHUGpIQEVRaPm0GlDSL7Q7MMsdkffz4koghAUwXlElBFVO7XtVNwNIz2AYpBWUYQlhFIDGwQVNwYrgJoJVSFEYoKU7gKM7gKY7gKZS4A)]
 
 ## 分析
@@ -90,30 +90,31 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 明治節 ]
 ================================================================================
-⏱  Duration:       0:20 (20.0s), 8 measures total
+⏱  Duration:       0:40 (40.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [A1 #1 @ m.2, 0:03]
    - 最高音: D5 in [A1 #1 @ m.7, 0:15]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      A1 (20.0s)
+🏛  結構:      A1 (20.0s) -> A2 (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       F# 小調（流行色彩小調，未偵測到可信轉調）
-   - 風格氣質:    流行小調（略帶和弦色彩音與裝飾副屬和弦）
-   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, F#, B, D, C#
-   - 調性數值:    F# 小調 [相關度: 0.85, 穩定度: Moderate, 自然音純度: 93.5%]
-   - 候選調性 (K-S): F# 小調 (0.85), A 大調 (0.77), D 大調 (0.70)
-   - 五度圈歷程:   +6
+🗝  調性診斷：       A 大調（推測轉調經歷 1 次）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
+   - 轉調歷程:    A 大調起奏 ➔ [A2] 轉至 A 大調 (+3 半音 / 五度圈 -3 步)
+   - 核心骨幹音:  A, F#, D, B, C#
+   - 調性數值:    A 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 95.2%]
+   - 候選調性 (K-S): A 大調 (0.84), F# 小調 (0.78), D 大調 (0.78)
+   - 五度圈歷程:   +6 -> +3
    - 各段落調性細節:
      • [A1 #1]: F# 小調 (r: 0.88, 自然音純度: 93.1%, 調外音: G)
+     • [A2 #1]: A 大調 (r: 0.86, 自然音純度: 96.8%, 調外音: G)
 
   [ 五度圈游移軌跡 ]
                C  
          F            G  
       Bb               D  
-      Eb               A  
+      Eb              [A ]*
          Ab           E  
             Db       B  
               [F#]*
@@ -121,20 +122,20 @@ tmd_source:
 
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
-     C# : ██████                     8.1%
-     D  : ███████                    9.7%
+     C# : ██████                     8.9%
+     D  : ███████████               14.5%
      D# :                            0.0%
      E  : ██████                     8.1%
      F  :                            0.0%
-     F# : ██████████████████        24.2%
-     G  : █████                      6.5%
+     F# : █████████████             17.7%
+     G  : ████                       4.8%
      G# :                            0.0%
-     A  : ████████████████████████  32.3%
+     A  : ████████████████████████  33.1%
      A# :                            0.0%
-     B  : ████████                  11.3%
+     B  : █████████                 12.9%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 30 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 57 個音符)
 ================================================================================
 ```
 

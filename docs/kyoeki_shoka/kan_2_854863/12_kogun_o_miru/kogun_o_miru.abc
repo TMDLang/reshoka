@@ -6,7 +6,7 @@ Q:1/4=108
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! G2 G2 G2 B2 A2 G2 E2 G2 | D2 D2 B2 G2 A4 z2 D2 | G2 D2 G2 D2 G2 G B d4 | d2 B2 d2 B2 G4 z4 |
+|:!mf! G2 G2 G2 B2 A2 G2 E2 G2 | D2 D2 B2 G2 A4 z2 D2 | G2 D2 G2 D2 G2 G B d4 | d2 B2 d2 B2 G4 z4 |
 w: 1.~あ れ き け き こ ゆ る | ら っ ぱ の ね と | て と て と てっ て て て | て と て と て
 w: 2.~あ れ き け き こ ゆ る | た い こ の ね ど | どん ど どん ど どん ど ど どん | どん ど どん ど どん
 G4 G3 B A2 G2 A2 z2 | d4 B3 G A2 B2 A2 z2 | G2 G2 G3 E E2 D2 D2 G2 | A2 B A G2 A2 B4 z4 |
@@ -18,6 +18,6 @@ w: 2.~せ _ に は は い の _ | か た に つ つ | ぶ そ _ の へ い 
 !f! d4 d4 e6 d2 | d2 B2 B2 G2 A8 | G4 G4 E6 D2 | G3 G A2 B2 G8 |
 w: 1.~きゅ きゅ た る | ぶ _ ふ _ は | こ っ か の | か _ ん _ じょ
 w: 2.~きゅ きゅ た る | ぶ _ ふ _ は | こ っ か の | か _ ん _ じょ
-!mf! G3 G G2 E2 E2 D2 D2 G2 | A3 A G2 A2 B4 z4 | d3 d B2 G2 A2 B2 c2 e2 | d3 d d2 d2 G4 z4 |
+!mf! G3 G G2 E2 E2 D2 D2 G2 | A3 A G2 A2 B4 z4 | d3 d B2 G2 A2 B2 c2 e2 | d3 d d2 d2 G4 z4 :|
 w: 1.~き _ み を ま も り の | も の の ふ よ | き _ み を ま も り の | も の の ふ よ
 w: 2.~く _ に を ま も り の | つ は も の よ | く _ に を ま も り の | つ は も の よ

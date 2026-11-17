@@ -7,7 +7,7 @@ K:E
 V:V1 name="Piano1" snm="Pia"
 V:V2 name="Piano2" snm="Pia"
 [V:V1]
-!p! z4 z4 E3 F | G4 e4 c3 B | B2 G6 E3 F | G2 B4 G2 F3 E |
+|:!p! z4 z4 E3 F | G4 e4 c3 B | B2 G6 E3 F | G2 B4 G2 F3 E |
 w: 1.~ニ ハ | ノ チ グ ー | サ モ ム ー | シ ー ノ ネ ー
 w: 2.~つ ゆ | に た わ ー | む や き ー | く ー の は ー
 F8 E3 F | G4 e4 c3 B | B2 G6 E3 F | G2 B4 G2 F3 E |
@@ -19,7 +19,7 @@ w: 2.~な あ あ | あ は れ あ | は れ あ あ | し ら ー ぎ ー
 !p! B4 e4 E3 F | G4 e4 c3 B | !p! B2 G6 E3 F | G2 B4 G2 F3 E |
 w: 1.~ク ー ヒ ト | リ オ ク ー | レ テ サ ー | キ ー ニ ケ ー
 w: 2.~く ー ひ と | の み さ ー | を も か ー | く ー て こ ー
-E8 z4 |
+E8 z4 :|
 w: 1.~リ
 w: 2.~そ
 [V:V2]
@@ -27,4 +27,4 @@ w: 2.~そ
 F8 B,3 D | E4 G4 A3 G | G2 E6 E3 E | E2 G4 E2 D3 E |
 !mf! E8 E3 G | G6 G2 A3 G | G4 E4 E3 G | !f! E4 G2 F2 E2 C2 |
 D8 B,3 D | E4 G4 A3 G | !p! G2 E6 E3 E | E2 G4 E2 D3 E |
-E8 z4 |
+E8 z4 |]

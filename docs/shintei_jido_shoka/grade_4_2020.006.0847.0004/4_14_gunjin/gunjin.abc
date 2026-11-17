@@ -7,7 +7,7 @@ Q:1/4=116
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! C6 F2 A4 G4 | F3 F E3 D C4 C2 z2 | F6 A2 c4 A4 | G3 F G3 A G3 G G2 z2 |
+|:!mf! C6 F2 A4 G4 | F3 F E3 D C4 C2 z2 | F6 A2 c4 A4 | G3 F G3 A G3 G G2 z2 |
 w: 1.~グ ン ト ウ | シ モ ノ ゴ ト ク | ダ ン ガ ン | ア ラ レ ニ ニ タ リ
 w: 2.~た い ほ う | そ ら に ひ び き | す ゐ ら い | う み に と ど ろ く
 F6 G2 A4 G4 | F3 E D3 D D4 z4 | C6 F2 G3 A G4 | c2 A2 G2 A2 F4 z4 |
@@ -22,6 +22,6 @@ w: 2.~ちゅ う ぎ の | こ _ こ _ ろ | い は よ り | か た し
 !f! c3 c d3 c A3 c A3 F | F3 F G3 A G3 F D3 F | !mf! C6 F2 G4 A4 | A4 G3 F G4 z4 |
 w: 1.~レ ツ ヲ モ ク ヅ サ ズ | ヤ マ カ ハ フ ミ コ エ | ス ス ム ヨ | ス ス ム ヨ
 w: 2.~へ _ さ き そ ろ へ て | し ら な み け た て て | す す む よ | す す む よ
-F6 A2 c4 d4 | c4 c3 c F4 z4 |
+F6 A2 c4 d4 | c4 c3 c F4 z4 :|
 w: 1.~テ キ ヂ ン | メ ガ ケ テ
 w: 2.~て き か ん | め が け て

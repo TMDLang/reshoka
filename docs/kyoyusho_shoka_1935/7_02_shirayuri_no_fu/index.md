@@ -4,7 +4,7 @@ song_title: "白百合の賦"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_7_02_shirayuri_no_fu"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈白百合の賦〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈白百合の賦〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：二　白百合の賦 （一）…"
 keywords: "白百合の賦, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -34,15 +34,34 @@ tmd_source:
 
 ## 說明
 
-
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= B,，拍號 <4/4>，速度 != 84
+=== 原書資訊與歌詞全文 ===
+- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148），原書第 200 頁（掃描檔 P233.jpg，女子青年用第 2 首）。
+- 調性、拍號與速度：變ロ長調（B♭ 大調，2 降記號），原譜拍號印 C（<4/4> 拍），原譜未標速度，演奏速度 != 84 為編者設定。
+- 記譜說明：五線譜下方並列（一）片假名與（二）平假名雙層歌詞。第 2、6、10、14 小節第 3–4 拍兩個四分音符 F4（5_）下方均印弧線，對照雙層歌詞發音數（如第 2 小節第二段「な み ー う つ」、第 6 小節第一段「ナ ガ ー レ ニ」），該弧線在兩獨立音節處實為圓滑線（slur，兩拍獨立發聲），同音節拉長處則為延音（歌詞記 `-`）。
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+二　白百合の賦
+
+（一）
+せゝらぎ清き溪川の
+水の流れに影すみて
+塵をもとめぬ白百合の
+岸邊に笑（ゑ）めり星のごと
+
+（二）
+みどり浪うつ夏草の
+しげりの上に咲きいでて
+姿やさしき白百合の
+かをりは高く野にみちぬ
+
+（三）
+氣高（けだか）き姿そのまゝを
+うつし植ゑなんわが胸に
+久遠（くをん）に讃（たゝ）へあこがるゝ
+乙女の夢は白百合の花
 ```
 
 ## ABC
@@ -53,8 +72,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shirayuri_no_fu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjI0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thecz9z6fue_phI7HjetebF6moKXFpWirYGHCZW-r4KTDZWOib2IHMuxF-67njYuf79j7fO7ip7vmvFi77Gn3zKcbGx43dD2bOvNF06ZnnQ3Pp6xQeDpl47O1PUChZ3MnvJzd9rih-_2ejmcz1j6d1PO0t_Hpzi3v9_Q837Lo2ewdL2bOVzAwNzJVMDSxeL-nU4mLyzcxM88qIDMxL9-hxqCmmksBCGwMzbTswKwaBeN4BV04BHNMkUXAnBoFM5iYOYgB5qEoA0EkVSBoBFMNgggdaKqQoQHMILDTfGoUHjftRpKG8B43r0QRWwc283HTWphI8wowuQcsCxNFuPFx035k_c3dYHVr4Px-uG6g2uY-HE6Fm0eDUDTB0IliOlgvSaHYPB9J-nFzK5hE9tnj5i6wmcjhAA6_ZhAfEkaobnzctBpZf9MmMLkTxUyQrSDb23A4FG7aUEiJzY1I0o-bV4FJkK8RYovAZj5u7oCLLASTkJDswXDj46btKPpB6fpx8zI0OwZpSgTrIyNDr0WShgTA4-aZyGLgxAby8Ea4CHIwggIF1ZGPm2djMRMWXI-btsB1I0cOLljDVcvFpWunACo2FYC0MhcA)]
-- [鋼琴伴奏 TMD 檔案](shirayuri_no_fu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng-c-_zmfueTuh43LjuxeZl7_d0vOze83zClid7tjxd2v9i7Zz3ezoVtLS4FG0VLEy47G0VnHS4bEz0Tey46hSUXrTvet64-PmOvc_nLn66a86Ltcueds98urHhcUPXs6kzXzRtetbZ8HzKCoWnUzY-W9sDFHo2d8LL2W2PG7qB9jybsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJBdBmJS4u38TMPKuAzMS8_CAPhxqDmmouBSCwMTTTsgOzahSM4xV04RDMMUUWAXNqFMxgYuYgBpiHogwEkVSBoBFMNQgidKCpQoYGMIPATvOpUXjctBtJGsJ73LwSRWwd2MzHTWthIs0rwOQesCxMFOHGx037kfU3d4PVrYHz--G6gWqb-3A4FW4eDULRBEMniulgvSSFYvN8JOnHza1gEtlnj5u7wGYihwM4_JpBfEgYobrxcdNqZP1Nm8DkThQzQbaCbG_D4VC4aUMhJTY3Ikk_bl4FJkG-RogtApv5uLkDLrIQTEJCsgfDjY-btqPoB6Xrx83L0OwYpCkRrI-MDL0WSRoSAI-bZyKLgRMbyMMb4SLIwQgKFFRHPm6ejcVMWHA9btoC140cObhgDVctcqnpg6PUNIyH-Rk_C1mlMdEqTeAsUwIqCdhOF9diYyHcPdhcO1LDFpisde0UQClbAUgrcwEA)]
+- [主旋律 TMD 檔案](shirayuri_no_fu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMjI0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI4CoCCSKyGCeYklpUWp6KLliSWpRUpcWloKz2fufT5z39MJHY8b173YvExBS4tL0VbBwoTL3lbBSYfLxkTfxA6k-UX7rueNi5_v2Pt87uKnu-a8WLvsaffMpxsbHjd0PZs680XTpmedDc-nrFB4OmXjs7U9QKFncye8nN32uKH7_Z6OZzPWPp3U87S38enOLe_39DzfsujZ7B0vZs5XMDA3MlUwNLF4v6dTiYtLX0vBllqAS0EBZJjC0775ILs2t79Y0fWiox3othcr5z1tXfFsWjtIHqTscfPup-27Xsyc-n7PLJp7EygOcdLzNWsUjAwMFF4uaARp7Wt-1t__bNUUBVBa1MsqSAcpXLr56doJL-dOApoHtBSsQ-HlsmlAYx43NEGd_mLV_mcNyx83ND7r7gXaBfTjy4b5T3ctA3lmXdfj5rUvp24HqgHa4fRo5lqFp0uWg3k9QJNm9r5YMQOoB-6sF2vnQEx52rtBwRmoBRz9CkAxFCVzVj1bMRNmS8-zPVOeLu2HcBXAaUfhedOu59tXvGhofbFi7dN1s5AcC7Rv7ZwXq1Y9m9EHdOCTXVOeb58FFHmyo_vZtJ1Pdix72jEdaO2THQ1AC593tj9tbH86oRfoJ5Dgrh6g4NOdmyGCL2cD42UJJD6BFoADBxgKZkBsaAAiTBSebuh_vr4BJGP8qGGyCcgfT1tXPm3ofjp79tOOtpfzNz9fs0zBzQRouGk80GyIK57ObQd6_-me5UCngfy8ofd563Jk257P3APU-mzqDqC-p8sgNiPsAjrz2bqtjxt6HjeuUnjcuB_o7T1Aug2Ilzxu6AW6DKTBDEnDjgaohuYuhcdNayAamkF0N1ADJORfrNwEcdHTOSuAfnjeu-L56m6QB9Y3ABPu0_XLgEH-dM7kZ7sngl3dUZxTWgRyfOtKoKchqoHOftG4CRqRE3ogmp91d4LSB9CIznaQEbu3AcVB6RHsU2B0KSToJkDTGygOgb573NCAVmiAZeDRBo7qxtmPm-Y-bup83Nj3bEfr48beZ7tWPd0-F6geJP1swxYg69nWxsdNwGBa_XTvxseNM4Fh9bhxGUj66cKtj5smPW5qety44nFT4-PGNcgWglVs2vGyqQuo9fmaiUCLHzcByU6Q0qauZzPmAxU9bpwC1Ax3GDjpQBwGtGQlSNnWVcBIAcbJ0yX9L3qB7gSb-7hx-uNGoM1Ao9c92QGy4OmkTUDXP25sedy4HOa85fsfNwH5U8Gqe9Hd9rixG-x6oO71L1fPeNzY_7K9D2gS2OqFQM8gggsYFWBXPduwGKgS5JHGiY8bFwBNAHmnsRdkUyMo0B437gOH5ySIBSB3Ay1_tqQX6HNgOnvcNPlxU__jxp4XzTuANoEjamfry8YFYCP7wc6ZDDZy9Yt1zWDB-UDzwCJADcBwngzU_LgJ6PC5EM0zgWUP0N6nSxYBfYES3V0boUUrdYCClj4XV3BGZlFiZWlRpl--W6lVQGZiXr5DjUFNNcgmBRsLLTswA1v1oADJQC8W9ihowDK8DrwM1cSiAWgfyLAaBeN4BV0gBFKmEBaQqlEwA7HN40E0WBhMQIV1gfkcKKULlYSLQqABSCHYbB_DGmBG3g0WBdGPm1dC2euAmh43rQWxm1eARUBsEASJ74eoau4GFwMgVj9EprkPyR6wgyD2GAHlgCUMRByYrqG2dIH0AEsfkBhIFlT6gMglENPAMhD-48YJYNZUqMw6DHvwh_yuHpqHPFQxkGcEYQHla2AasYZ883xYiDS3Quk-cCh2gUMHErIQshsa8quhIbcJiHdC9cwH6wGFHK6Qnw4Nx0ngMIewwTEMDe8dYBJiNiR8QeEMEusF4hYoezlYZhmJIb-jcxCm-eZGaNgBa77mTVD2InA4doDZC8FkDyJEmrZDVa0EYlAYgPQSTvMzoeLAUgtKg2OrCRSmkFCGxA4opCEhD42rpk4gBscOOMbISPPAtgO907whSAFIOZCBM-yhJQkoRB83Q8IHlL5BIbkRKewheR8SwrORdIBC-3HTFqgMKLZwhT0oz4DUIqf69eCQBOU7iDyw0kHYAw1hUE6AlUcgt4BkQLkQ1Z5aLi5dOwWUCkEBKKDMBQA)]
+- [鋼琴伴奏 TMD 檔案](shirayuri_no_fu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeD5z7_OZ-55O6HjcuO7F5mXv93S87N7zfMKWJ3u2PF3a_2LtnPd7OhW0tLgUbRUsTLjsbRWcdLhsTPRN7EAGv2jf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQpPp2x8trYHKPRs7oSXs9seN3QD7Xk2Y-3TST1Pexuf7tzyfk_P8y2Lns3e8WLmfAUDcyNTBUMTC6DNSlxcwRmZRYmVpUWZfvlupVYBIA8GeTjUGNRUcykAgY2Flh2Yoa-lYIsOFJ6vWfNkR8OLhT0KGiYKTzf0P1_foKMQYGRsrJdVkK6JRYOWPtiwGgXjeAVdIARSphAWkKpRMAOxzeNBNFgYTECFdRWMQFK6UEm4KAQagBSCzfYxrFF43LQbLAqiHzevhLLXATU9bloLYjevAIuA2CAIEt8PUdXcDWSvAbP6ITLNfUj2gB0EsccIKNcI0QVU3QizpQukp3EVWAwk-7ixDUwugZgGloHwHzdOALOmQmXWYdiDP-R39dA85KGKgTwjCAsoXwPTiDXkm-fDQqS5FUr3gUOxCxw6kJCFkN3QkF8NDblNQLwTqmc-WA8o5HCF_HRoOE4ChzmEDY5haHjvAJMQsyHhCwpnkFgvELdA2cvBMstIDPkdnYMwzTc3QsNuFRBvgrIXgcOxA8xeCCZ7ECHStB2qaiUQg8IApJdwmp8JFX_cCDHrcSM4tppAYQoJZUjsgEIaEvLQuGrqBGJw7IBjjIw0_3T2bHqneUOQApByIANn2ENLElCIPm6GhA8ofYNCciNS2EPyPiSEZyPpAIX246YtUBlQbOEKe1CeAalFTvXrwSEJyncQ-ceNoJILluohIQzKCbDyCOQWkAwoF6LaU4u1PvBBrg9MoPUBKDziFaIN42MRDFCQgthG8bm4RI1BLGMQCyZsBuKAmQZQn5JiNJxpBJcFlU9AtilQEMQgx1R6OBjoNphhaPpBxgJjQtdOASUyon0MYxUwBY3AgspcAA)]
 
 ## 分析
 
@@ -65,25 +84,25 @@ tmd_source:
 ⏱  Duration:       0:45 (45.7s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – C5 (MIDI 72) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  D4 in [Main #1 @ m.1, 0:00]
-   - 最高音: C5 in [Main #1 @ m.3, 0:06]
-   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (45.7s)
+🎤 人聲音域:    G3 (MIDI 55) – C5 (MIDI 72) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  G3 in [ShirayuriNoFu #1 @ m.15, 0:42]
+   - 最高音: C5 in [ShirayuriNoFu #1 @ m.3, 0:06]
+   - 適合: mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      ShirayuriNoFu (45.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       F 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, F, D, A, D#
-   - 調性數值:    G 調性不明確 [相關度: 0.59, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 小調 (0.59), D 小調 (0.54), F 大調 (0.51)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  F, G, D, A, C
+   - 調性數值:    F 調性不明確 [相關度: 0.69, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.69), D 小調 (0.66), G 小調 (0.54)
+   - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main #1]: G 調性不明確 (r: 0.59, 自然音純度: 100.0%)
+     • [ShirayuriNoFu #1]: F 調性不明確 (r: 0.69, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
+        [F ]*          G  
       Bb               D  
       Eb               A  
          Ab           E  
@@ -92,21 +111,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █                          1.7%
+     C  : ████                       5.8%
      C# :                            0.0%
-     D  : ███████████               17.5%
-     D# : ███                        5.0%
+     D  : █████████████             18.3%
+     D# :                            0.0%
      E  :                            0.0%
-     F  : ████████████████████      30.8%
+     F  : ████████████████████████  35.0%
      F# :                            0.0%
-     G  : ████████████████████████  36.7%
+     G  : ███████████████████       28.3%
      G# :                            0.0%
-     A  : █████                      8.3%
-     A# :                            0.0%
+     A  : █████                      6.7%
+     A# : ████                       5.8%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – C5 (10 個半音 / 0.8 個八度, 55 個音符)
+  - Piano         : G3 – C5 (17 個半音 / 1.4 個八度, 59 個音符)
 ================================================================================
 ```
 

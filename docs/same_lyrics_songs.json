@@ -1,6 +1,6 @@
 {
   "total_corpus_songs": 1461,
-  "same_lyrics_different_melody_group_count": 10,
+  "same_lyrics_different_melody_group_count": 5,
   "groups": [
     {
       "lyrics": "あさかぜさつとふいてきておおはたひらひらこはたひらひろうんどうかいがいまはじまつたあかほうしろぼうみどりのぼうしならぶせいとはけんきにみちてかけだすあしなみいさ",
@@ -100,95 +100,6 @@
       ]
     },
     {
-      "lyrics": "おおみこころおこころとしわがたかさごのたみぐさおそだてつちかひおしなべてかいくゎのつゆにゅうるほはせ",
-      "titles": [
-        "にぎみたま"
-      ],
-      "versions": [
-        {
-          "id": "kogakko_shokashu_1915/5_06_nigimitama",
-          "year": 1915,
-          "occurrences": [
-            {
-              "rel_dir": "kogakko_shokashu_1915/5_06_nigimitama",
-              "md_file": "kogakko_shokashu_1915/5_06_nigimitama/index.md",
-              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-              "raw_title": "にぎみたま",
-              "year": 1915
-            }
-          ]
-        },
-        {
-          "id": "kogakko_shoka/grade_6/11_nigimitama",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/16_nigimitama",
-              "md_file": "shoka_kyozai_shu_1923/koto_1_2/16_nigimitama/index.md",
-              "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "にぎみたま",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama",
-              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/2_07_nigimitama/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-              "raw_title": "にぎみたま",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_6/11_nigimitama",
-              "md_file": "kogakko_shoka/grade_6/11_nigimitama/index.md",
-              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-              "raw_title": "にぎみたま",
-              "year": 1940
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "ががたるいいはほつらなりてこそらあにそばだつめうぎさんなつきてきいけばほととぎすふもとのわかばのかげになく",
-      "titles": [
-        "妙義山"
-      ],
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/grade_5_6/11_myogisan",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/11_myogisan",
-              "md_file": "shoka_kyozai_shu_1923/grade_5_6/11_myogisan/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "妙義山",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shokacho/vol_10/p216_myogisan",
-              "md_file": "shokacho/vol_10/p216_myogisan/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
-              "raw_title": "妙義山 (妙義山)",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_04_myogisan/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "妙義山",
-              "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
       "lyrics": "こがはにかかるみずぐるまあみずのながれでよくまはるうまはるちからでみずおあげえざぶざぶざぶとたにいれるう",
       "titles": [
         "ミヅグルマ",
@@ -231,95 +142,6 @@
       ]
     },
     {
-      "lyrics": "ぜんしんどろにまみれつつゆよりもあつきみずかきわけてたぐさとるなりのうふらはとれやとれとれたゆみなくつとめてこそはそのできあきにほにほさかゆるみもむすべ",
-      "titles": [
-        "農商工"
-      ],
-      "versions": [
-        {
-          "id": "kogakko_shoka/grade_5/9_no_sho_ko",
-          "year": 1915,
-          "occurrences": [
-            {
-              "rel_dir": "kogakko_shokashu_1915/6_03_no_sho_ko",
-              "md_file": "kogakko_shokashu_1915/6_03_no_sho_ko/index.md",
-              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-              "raw_title": "農商工",
-              "year": 1915
-            },
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko",
-              "md_file": "shoka_kyozai_shu_1923/grade_5_6/30_no_sho_ko/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "農商工",
-              "year": 1923
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_5/9_no_sho_ko",
-              "md_file": "kogakko_shoka/grade_5/9_no_sho_ko/index.md",
-              "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
-              "raw_title": "農商工",
-              "year": 1938
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_12_noshoko/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "農商工",
-              "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "たちならぶまつのきせんねんのこみどりわだかまるおおいはそのすがたおもしろなみはしろくまさごじはきよらかまほやかたほおきとおくこぎゆく",
-      "titles": [
-        "松島"
-      ],
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/grade_5_6/17_matsushima",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/17_matsushima",
-              "md_file": "shoka_kyozai_shu_1923/grade_5_6/17_matsushima/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "松島",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shokacho/vol_10/p215_matsushima",
-              "md_file": "shokacho/vol_10/p215_matsushima/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
-              "raw_title": "松島 (松島)",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/4_15_matsushima/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "松島",
-              "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
       "lyrics": "つゆがちるつゆがちるつきのひかりのてるにはにきらきらきらとつゆがちるさやさやゆれるはかげではつゆのちるのごうれしいかころろころろとむしがなく",
       "titles": [
         "つゆと虫"
@@ -355,41 +177,6 @@
               "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
               "raw_title": "つゆと虫",
               "year": 1937
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "lyrics": "はげしきあめかぜてんちくらくやまなすあらなみたけりくるふみよみよかしこにあはれおぶねしようしのさかひとすくひもとむ",
-      "titles": [
-        "助船",
-        "助け舟"
-      ],
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/grade_5_6/35_tasukebune",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/35_tasukebune",
-              "md_file": "shoka_kyozai_shu_1923/grade_5_6/35_tasukebune/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "助け舟",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "助船",
-              "year": 1934
             }
           ]
         }

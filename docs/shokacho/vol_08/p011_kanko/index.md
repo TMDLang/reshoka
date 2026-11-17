@@ -101,8 +101,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kanko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhIboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiXiJCUUlGKtCDEGkkFwDVpmfmWeWmZmZlxpekVpSgegIqXZKYCfRpPBCXJ8bnJmbm5STmAZ2ppaXwor_1aeua93s6QIy--S8bJz-fM__9nk4FLS0uRVsFCxMue1sFJx2u7NRKWwX3XC4bE30TO5DxT_bOebFy3vs9s54uWf50Us_zKRue7t71bMXO93v6gVLPZm8CS816tqj1-YpZQPOfzeh7tmm3keXTnVseN4Bta13zuKETaBXYtU_bd72YORWkZ-fmp9vnPm7qeNzUBda2Vk_BSEfB0FBPwdhA4VlXC0zH44aup1M2Plvb83THtMcN3c_XrHnauvppG0iTkYGRgZ6BgZmegYWJMVA9KOr1sgrSlbi49LUUbKkFuBQUFOwUohX9_ENcYyEcLS1QIC5ofLG5_cWKrhcd7UD3AYPpaeuKZ9PatbSAbnu6ofdZe6dCAsxNCQrPOruB3nqya8rz7bNerJ0DdC8wGCDG6YIMBIcM0CigOcBgfdHQ_GJtJ8ioWXAtT_s3P9nR9WL5pBcrZjxu6ElACzTkIE143NALCVZgpCkYAeW2AJUpPJvTAQ7e6UtftK-CqAdZurcTHOCzX3R0Adkve1perFryYl3D86ZdQGuednQBDXzcOBNiMtjgzscNTc_mrAG6E6gGEuUKRpYgW4CWGlpYmgGVoCUYSEJ63NAITy2Q9PNkZ_eLidOfTuh9tnb70_5NkLhGTTodIFes3fGiofVx47qn67Y9blz9Ytfqx43rgWH2uHH548ZljxqWwd2FCNIXq_Y_a1gOip3p3c82T33Z1AKMNXCQAmmgj4E-eDp79ouFPS9Xz3g5fzMwhF8sXAHU9GLm_Kdz24Heer4I6PKZz5fsAhoGDMOG7pcze4FhD5QHx7HTo5lrgR5yBVLg2Ox5unENUOXj5o7n89cCzQEqcVd4uqEfzOxJAOewBB2FBGgmSwBqAmbN51snPJ3QAYwSoHNeNu99vr4B6JaXs_qe9naBGA2bgA4EmpTgYvqoYTLILlNg5DYmgFgmQBEXE5A5aJEHDFoFNwVgDEBcAbLaDaKs50X7lid794NSKjCRrdr_dE8_MIAgdgFd8mx59_PZC58u2QhU-WR319N1Pc-mboEEHDCmFaB-ABmJ5AmUQH-2YOGLFU2gQAend6DGF5t6XqxaBQxOoLYn--YquKZkgsq-xByFgPyczORKBUcFiCZweMAzhYICMFlraQEzvIIh0J9GQE-DQsAMFKLAQILniudrlr1csPb58t1P9vZii2KQAcZAjSZQjU_7u0BC5kAhQ5hhEDOABjzfuw4U9bumAaP-xYS9T-esUIBFIdzCZ2sXA1WC8viyJnTDFRLcTRSAyNFETwGUPEwUakBsUIzBLLWAK3UxhapxB6p2BCkFMmBKDUGeNgSmOoRicOSDohymD5EkgHpdTBF6QQkD7jkFSFpRcAEjkCUgy8AmIFkLSR3PmkGh9nT9amBmezZtD9gwUMArABPhi63bXy6bBo8PqOnAmAYJIUcNMAE-3QAUBYUpKPmsnvJkRzcwgoBBhq4bFEXT9gCln3YteLKjARjAQJ-aJCi8aN8MVAoUeTltskKCG1AEyH66YxvQiei2QYxAUw3Uj2kozAhQbgEmRHhBBEoqwMwA8YgxLJlM6Hk6r_vZiqan_UshyRMpG9QomMUDUzuYMAcRugqGwHAE801AhDFEUFehBpxZMBMFkAuLFZQspKBgBEr1wGQGCjNo8BspPFu3FVLFPF_bBgxeiINQMgsQ6CqANcDTNIgN1AhimCgA8zeoznjc3AeqG57N6Xy6cPqzKTtftvcCY_v59Kkvti8EBgtILSxgocoVHjfPAeLVIG3AwhoiCuY97QSbs6H_6aIVL3cDy3a4H-COAdYJqI4BlQegaqAHVJs0Tn--DJSRHjf1P26cBizQHzcC2xOdwPIdXJr3wPMwxNL1Co-btiE7A8IDBsnzqatf7J8IEVsDqftAxRcwp0LqMGTN2JxpCMrDSKXBGmCVCXcs0IgnO5qB2R9YCADNej5_6eOmblDts2Tl0zkbgFWSwvOl84DU48b9jxuBXkNxOSwTwZIVpHAGJsNn-xuBYfZkx5Rn3Z0vp24Hps1n3XCPNc4AhvgeoIu7FYAWQT0ELLkhmRuW8CcvABoFUb_scdNkhWhglL7s2v64cWEsEAN1roPqBGsD5Rm4F5_2A1so7SDfLAU27oAxAfQQsKYABj3CG5BGAKhiXNcAtQhuw5rHjb2xQBumA904GWSTwntglQPUCm14PN0wEZQdgXUK0MsNPc_29IOiHGzs07XToVlwdxcwF8KDFigOVA9sNwELV1CVBA57tJwH8SzIUnDAAPEyiMVgR4C9DHUISH4_mA-iIWLz0KLfGJTTgK24p7umwspxU3CGmb3l2ewdkPz2YvtmUNEHbJa1rAa6EF_GMwbn0jmrgQUGPPqBusAeByVooHZ4fE1_3DgfnN7XPNkFbMOsfwJs3DY1PW5setwEjIMZsCQMKqRQWlHIoQIJD5BOoPFImnGkcRMszgMV9O3gcuHpvoWPG1seNy4BOgbYHAK6EFxMzGx6ASzygdUeMC0AQwJcKiuAAwlYFQBNAiWuXT1AY0BmPNkNzA2TgB6CJgKgGMQoUJbd0Q0sK4ClzbP-fkjJAyxzIHXOy1krnvZuftq_DFjBIIwHl0tgU3dNARaBIN81boUY_xjUEJwMjFtIvgM2_kAWApPZy0ZQpQ33LLA982IVqKyBtiWBJQ7IXdCEhxyULxbPAbaIoO1djJBA1g4LWVg_AJjKga4D9qLAfGDp87hp_eOm7Y-bFwOLzscNDY-bljxunvG4GZivGx43z3_c3A8WaX_c3AbTsv9xc-Pj5nkgEqSmD1jeAgtYsN71j5sXgUSalgENgapvXgEyH6QSaNE2kIHNk6DmNwHTwWqQ3uYOoEaY-UvAgu0gEqRmLdgZm2Am7ASrBzbu16L6axewEY7wVyOwA7AbnGA3gDRCuTvAbKCPgHHTC-obNHXA1AOjZ_Ljpl5QeQJSAwxMIHs9Qj2oR7EKGLYw9cDcsAAsCwn5XcAcDdM7Gyy48HFT2-OmSTD10yFlMFgBqPADKYCqBxVl8HIMLbKAFS3cUy9WrgR1NYAqIdUP0FUNDdDsBOztNE543NQDUQns1IHy_uwdQMcDu84Qe5_saAcrXgdVs3kq0HlgxwP9AlQJ7JEAHTMX1GXZtxnF5ahZH2EpUh5GcTawk4Lk7OdTgNqBgbkMVAVNAAYOOFpB9gI9DrR3PjBsoU5aC4wjoHVglbP3QsIH7BegCNTZjxv3waIDkp1WgE3bBzIQ6BJgIDd1Q1Ri5gugSnjWQEs8oCyLSDyoWRdkPiL3wtRAUsgaJFvALgG5DSgOTPNAQ1bDFE8Febap68lOYEEA9CAwVzYAm3JA0150bYSp2QQOSWBi6waa-WT3YmjyaAIWJcAuIzAMQfEFUkz5CAEUKGjpc3F5J-Zl51uF5QOHdhxqDGqqQTYo2FhogQNHoTo3rRbMwDZAASqmgeUJsL5R0IA1lGGVvY4CbCRBE4tGoMUgQ0lolmJXCWVCoAFIHdhcH8MaUNEG5AOLJDAJKuDAikANRJDkEjB7BpjshlsCLGrAIv1gTSA1IF47WKYNu1VGQLnGLpC6xt1gEmQhiN4A0oUiswNhTyPEhiaweC9ER1MX2GUdGPbgj4BdPfAIADWZYN01qkeAMVgSqhisHKoQV_jvBwdeI5icBw3KRnBQ9oHZc8DkakSgQOKqeRE0miCBsgysAxRRuAJ_MjgQwWQTNCiBzSiQDDiSwcELixaMwAcGOkTHKrDMdBIDf0cnPPAtkfu_RIY-OMyNQBQiHnCJgsLfBEiC4sAYyIKI4Aj85hVgz20HByUkC2yDeB6ctiGRMQlMglI_KPBBEQElwZECrJShOkARgivwwfmlcQGYbAGToEAHyeyC2QNs60KiBCI-G0ntQrA8KGeBXAByDwmBDxkLgxY9KB0iIkMfJUWDA70GkupBEJzywQQ0mYMVgJQTk_bBKQ8amO1wNkhmLTz4IUXNJmggQyJpJzz4QfRMFB3Ygh-UXkGdC1gKB3UwIPaAAh2SssGBDA9-iFpw3gSLQXggGUgeRbanlotL104BXENE-xjGKiA4RmCOMhcA)]
-- [鋼琴伴奏 TMD 檔案](kanko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhIboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiXiJCUWIRUHN6am5qXolVQWZiXn58YnJyfm5BYl4mSAyhsCQDqAhqDpJTgYamZ-ZZ5aZmZmXGl6RWlEB8q6Wl8KK_9Wnrmvd7OkCMvvkvGyc_nzP__Z5OBS0tLkVbBQsTLntbBScdruzUSlsF91wuGxN9EzuQuU_2znmxct77PbOeLln-dFLP8ykbnu7e9WzFzvd7-oFSz2ZvAkvNerao9fmKWUDzn83oe7Zpt5Hl051bHjeAbWtd87ihE2gV2JlP23e9mDkVpGfn5qfb5z5u6njc1AXWtlZPwUhHwdBQT8HYQOFZVwtMx-OGrqdTNj5b2_N0x7THDd3P16x52rr6aRtIk5GBkYGegYGZnoGFiTFQPSj29bIK0pW4uDzzSoryrQJAYRjk4VBjUFPNpQAENiZadmBGjUJ1bkGtgnG8tlk8gjQHk4ZAWYiQCYivoKtQw1WLYqQPdiPN4kGKjcEkhGcExFA-yAjvxLzsfKuwfGDMIxlgATWgOjetFm4SUAuYADpJFwhBbgLzgU4CWQEWhNiCRSWUCYEGYNtB5voY1ig8bloD5D9uWg8mtz9uXgxW9Li5D6jvcdMSMHsGmOyGW_K4eT5YpB-sCaQGxGsHy7Rht8oIKNfYBVLXuBtMgiwE0RtAulBkdiDsaYTY0AQW74XoaOoCu6wDwx6Sw8oYLAlVDFYOVYgrqPaD_dkIJudBfd0I9nUfmD0HTK5GuB8SrM2LoCEKcf8ysA5QmOIKp8lg_4LJJqivG9eBwwMcH-CQgIUgRjgBwweiYxVYZjqucAKHjhGIQoQYLlFQSJkASVBoGQNZEBEcwdS8AuyM7WBPQ9LVNogzwQkGEmyTwCQoSYGCCRRkUBIcfI-bQdEL0gEKOlzBBE6EjQvAZAuYBAUPSGYXzJ4mSFCug4rPRlK7ECwPSq4gF4DcgzWYUBIJOHRqIAkJBMGJCVIkICkAKScmOYEjE-rrdjgbJLMWHk6QjLYJGhqQ0NwJDycQPRNFB7ZwAiWBx02gsIYkmseNy6D2gEIHkljAoQEPJ4hacHIHi0F4IBlIske2B16OYZausJIMpXQFBRicRsqiMFGMXEpIF7x0g7ER_idCN45SVBsU7-DCH6EXGqcILkIK2UpTqBXgXIRuP0FpqNWg3AazHpzhoOIgaKoOYSNbit3FMN_iSLIwZTAnQXVDbMDwK64ox1P7geo6EDYFYtQa0DweLoSqCC4JYhgg-Y8E02A0qgjCMJhBCHWYIjDjYTRBlyG0QrVhOA3kbkOcTgMGqmteSmZeOv5mCjAfmYAiRdsIFDnQiAJHEzjuMMzBETuwkIO0UcC6dO0UwG0aBSADHL3RPoaxSBwjMAdiNoilzAUA)]
+- [主旋律 TMD 檔案](kanko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhIboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiXiJCUUlGKtCDEGkkFwDVpmfmWeWmZmZlxpekVpSgegIqXZKYCfRpPBCXJ8bnJmbm5STmAZ2ppaXwor_1aeua93s6QIy--S8bJz-fM__9nk4FLS0uRVsFCxMue1sFJx2u7NRKWwX3XC4bE30TO5DxT_bOebFy3vs9s54uWf50Us_zKRue7t71bMXO93v6gVLPZm8CS816tqj1-YpZQPOfzeh7tmm3keXTnVseN4Bta13zuKETaBXYtU_bd72YORWkZ-fmp9vnPm7qeNzUBda2Vk_BSEfB0FBPwdhA4VlXC0zH44aup1M2Plvb83THtMcN3c_XrHnauvppG0iTkYGRgZ6BgZmegYWJMVA9KOr1sgrSlbi49LUUbKkFuBQUFOwUohX9_ENcYyEcLS1QIC5ofLG5_cWKrhcd7UD3AYPpaeuKZ9PatbSAbnu6ofdZe6dCAsxNCQrPOruB3nqya8rz7bNerJ0DdC8wGCDG6YIMBIcM0CigOcBgfdHQ_GJtJ8ioWXAtT_s3P9nR9WL5pBcrZjxu6ElACzTkIE143NALCVZgpCkYAeW2AJUpPJvTAQ7e6UtftK-CqAdZurcTHOCzX3R0Adkve1perFryYl3D86ZdQGuednQBDXzcOBNiMtjgzscNTc_mrAG6E6gGEuUKRpYgW4CWGlpYmgGVoCUYSEJ63NAITy2Q9PNkZ_eLidOfTuh9tnb70_5NkLhGTTodIFes3fGiofVx47qn67Y9blz9Ytfqx43rgWH2uHH548ZljxqWwd2FCNIXq_Y_a1gOip3p3c82T33Z1AKMNXCQAmmgj4E-eDp79ouFPS9Xz3g5fzMwhF8sXAHU9GLm_Kdz24Heer4I6PKZz5fsAhoGDMOG7pcze4FhD5QHx7HTo5lrgR5yBVLg2Ox5unENUOXj5o7n89cCzQEqcVd4uqEfzOxJAOewBB2FBGgmSwBqAmbN51snPJ3QAYwSoHNeNu99vr4B6JaXs_qe9naBGA2bgA4EmpTgYvqoYTLILlNg5DYmgFgmQBEXE5A5aJEHDFoFNwVgDEBcAbLaDaKs50X7lid794NSKjCRrdr_dE8_MIAgdgFd8mx59_PZC58u2QhU-WR319N1Pc-mboEEHDCmFaB-ABmJ5AmUQH-2YOGLFU2gQAend6DGF5t6XqxaBQxOoLYn--YquKZkgsq-xByFgPyczORKBUcFiCZweMAzhYICMFlraQEzvIIh0J9GQE-DQsAMFKLAQILniudrlr1csPb58t1P9vZii2KQAcZAjSZQjU_7u0BC5kAhQ5hhEDOABjzfuw4U9bumAaP-xYS9T-esUIBFIdzCZ2sXA1WC8viyJnTDFRLcTRSAyNFETwGUPEwUakBsUIzBLLWAK3UxhapxB6p2BCkFMmBKDUGeNgSmOoRicOSDohymD5EkgHpdTBF6QQkD7jkFSFpRcAEjkCUgy8AmIFkLSR3PmkGh9nT9amBmezZtD9gwUMArABPhi63bXy6bBo8PqOnAmAYJIUcNMAE-3QAUBYUpKPmsnvJkRzcwgoBBhq4bFEXT9gCln3YteLKjARjAQJ-aJCi8aN8MVAoUeTltskKCG1AEyH66YxvQiei2QYxAUw3Uj2kozAhQbgEmRHhBBEoqwMwA8YgxLJlM6Hk6r_vZiqan_UshyRMpG9QomMUDUzuYMAcRugqGwHAE801AhDFEUFehBpxZMBMFkAuLFZQspKBgBEr1wGQGCjNo8BspPFu3FVLFPF_bBgxeiINQMgsQ6CqANcDTNIgN1AhimCgA8zeoznjc3AeqG57N6Xy6cPqzKTtftvcCY_v59Kkvti8EBgtILSxgocoVHjfPAeLVIG3AwhoiCuY97QSbs6H_6aIVL3cDy3a4H-COAdYJqI4BlQegaqAHVJs0Tn--DJSRHjf1P26cBizQHzcC2xOdwPIdXJr3wPMwxNL1Co-btiE7A8IDBsnzqatf7J8IEVsDqftAxRcwp0LqMGTN2JxpCMrDSKXBGmCVCXcs0IgnO5qB2R9YCADNej5_6eOmblDts2Tl0zkbgFWSwvOl84DU48b9jxuBXkNxOSwTwZIVpHAGJsNn-xuBYfZkx5Rn3Z0vp24Hps1n3XCPNc4AhvgeoIu7FYAWQT0ELLkhmRuW8CcvABoFUb_scdNkhWhglL7s2v64cWEsEAN1roPqBGsD5Rm4F5_2A1so7SDfLAU27oAxAfQQsKYABj3CG5BGAKhiXNcAtQhuw5rHjb2xQBumA904GWSTwntglQPUCm14PN0wEZQdgXUK0MsNPc_29IOiHGzs07XToVlwdxcwF8KDFigOVA9sNwELV1CVBA57tJwH8SzIUnDAAPEyiMVgR4C9DHUISH4_mA-iIWLz0KLfGJTTgK24p7umwspxU3CGmb3l2ewdkPz2YvtmUNEHbJa1rAa6EF_GMwbn0jmrgQUGPPqBusAeByVooHZ4fE1_3DgfnN7XPNkFbMOsfwJs3DY1PW5setwEjIMZsCQMKqRQWlHIoQIJD5BOoPFImnGkcRMszgMV9O3gcuHpvoWPG1seNy4BOgbYHAK6EFxMzGx6ASzygdUeMC0AQwJcKiuAAwlYFQBNAiWuXT1AY0BmPNkNzA2TgB6CJgKgGMQoUJbd0Q0sK4ClzbP-fkjJAyxzIHXOy1krnvZuftq_DFjBIIwHl0tgU3dNARaBIN81boUY_xjUEJwMjFtIvgM2_kAWApPZy0ZQpQ33LLA982IVqKyBtiWBJQ7IXdCEhxyULxbPAbaIoO1djJBA1g4LWVg_AJjKga4D9qLAfGDp87hp_eOm7Y-bFwOLzscNDY-bljxunvG4GZivGx43z3_c3A8WaX_c3AbTsv9xc-Pj5nkgEqSmD1jeAgtYsN71j5sXgUSalgENgapvXgEyH6QSaNE2kIHNk6DmNwHTwWqQ3uYOoEaY-UvAgu0gEqRmLdgZm2Am7ASrBzbu16L6axewEY7wVyOwA7AbnGA3gDRCuTvAbKCPgHHTC-obNHXA1AOjZ_Ljpl5QeQJSAwxMIHs9Qj2oR7EKGLYw9cDcsAAsCwn5XcAcDdM7Gyy48HFT2-OmSTD10yFlMFgBqPADKYCqBxVl8HIMLbKAFS3cUy9WrgR1NYAqIdUP0FUNDdDsBOztNE543NQDUQns1IHy_uwdQMcDu84Qe5_saAcrXgdVs3kq0HlgxwP9AlQJ7JEAHTMX1GXZtxnF5ahZH2EpUh5GcTawk4Lk7OdTgNqBgbkMVAVNAAYOOFpB9gI9DrR3PjBsoU5aC4wjoHVglbP3QsIH7BegCNTZjxv3waIDkp1WgE3bBzIQ6BJgIDd1Q1Ri5gugSnjWQEs8oCyLSDyoWRdkPiL3wtRAUsgaJFvALgG5DSgOTPNAQ1bDFE8Febap68lOYEEA9CAwVzYAm3JA0150bYSp2QQOSWBi6waa-WT3YmjyaAIWJcAuIzAMQfEFUkz5CAEUKGjpc3F5J-Zl51sFZCbm5TvUGNRUg2xQsLHQAgeOQnVuWi2YgW2AAlRMA8sTYH2joAFrKMMqex0F2EiCJhaNQItBhtZA2p1gAtwMBbNrFIzgooh2KfYWLJQJgQYgdWCDfQxrQGUbkA8sk8AkqIQDKwK1EEGSS8DsGWCyG24JsKwBi_SDNYHUgHjtYJk27FYZAeUau0DqGneDSZCFIHoDSBeKzA6EPY0QG5rA4r0QHU1dYJd1YNiDPwZ29cBjANRmgvXXqB8DxrCwNwQLAJnQWMEVAfvBodcIJudBw7IRHJZ9YPYcMLkaESqQyGpeBI0nSKgsA-sAxRSu0J8MDkUw2QQNS2BDCiQDjmVw-MLiBSP0gaEO0bEKLDOdxNDf0QkPfUvkHjCRwQ8NTyAFDklwaGOIgrmQ8DcBkkYghXARHIHfvALsue3goITkgW0Qz4MTNyQyJoFJUPIHBT4oIqAkOFKA1TJUByhCcAU-OMM0LgCTLWASFOggmV0we4CtXUiUQMRnI6ldCJYHZS2QC0DuISHwIaNh0MIHpUtEbOIHBzM0gMFBjVSkIJI_NJmDVBKb9MEJDxqW7XA2SGYtPPQhRc0maBhD4mgnPPRB9EwUHdhCH5RcQb0LWAIH9TAg9oDCHJKwwWEMD32IWnDWBItBeCAZSBZFtqeWi0vXTgFcRSgAGcpcAA)]
+- [鋼琴伴奏 TMD 檔案](kanko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhIboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiXiJCUWIRUHN6am5qXolVQWZiXn58YnJyfm5BYl4mSAyhsCQDqAhqDpJTgYamZ-ZZ5aZmZmXGl6RWlKD6FipdkpgJDJJ4IC5PjM9NzMzLScwD-kdLS-FFf-vT1jXv93SAGH3zXzZOfj5n_uPm3S-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwcKEy95WwUmHKzu10lbBPZfLxkTfxA5k4ZO9c16snPd-z6ynS5Y_ndTzfMqGp7t3PVux8_2efqDUs9mbwFKzni1qfb5iFtDGZzP6nm3abWT5dOeWxw1g-1vXPG7oBFoFdv_T9l0vZk4F6dm5-en2uY-bOh43dYG1rdVTMNJRMDTUUzA2UHjW1QLT8bih6-mUjc_W9jzdMe1xQ_fzNWuetq5-2gbSZGRgZKBnYGCmZ2BhYgxUD0o1elkF6UpcXJ55JUX5VgGgsA_ycKgxqKnmUgACGwstOzCjRqE6t6BWwTBe2zhe2yxeQReZaRSvbRKvbQ5iAsWBaoESpupQEexaQLCGqxbFYh9ki00QFgPtNYuPB2MjIDYBYpAVEBEgBpkHNss7MS8bahYWL1TnptWCGfpaCrboQAEYTk92NLxY2KOgAWQqGD5qmGyi8HRD__P1DToKsIDSxKJRSx_qTmOQO8CECcSHQHYN0MUwUTAB9jfQ0UAKTCAFGpQJgQZgP4EM9jGsUXjctAbIf9y0Hkxuf9y8GKzocXMfUN_jpiVg9gww2Q235HHzfLBIP1gTSA2I1w6WacNulRFQrrELpK5xN5gEWQiiN4B0ocjsQNjTCLGhCSzeC9HR1AV2WQeGPfhjYFcPPAZMgTFgQbMYMIaFvSFYAMiExgquCNgPDr1GMDkPGpaN4LDsA7PngMnViFCBRFbzImg8QUJlGVgHKKZwhf5kcCiCySZoWDauA4cyOJbB4QuLF4zQB4Y6RMcqsMx0EkN_Ryc89C2BoW9oRFrwQ8MTSIFDEhzaGKJgLiT8TYCkEUghXARH4DevAHtuOzgoIXlgG8Tz4MQNiYxJYBKU_EGBD4oIKAmOlMfNoKQI0gGKEFyBD84wjQvAZAuYBAU6SGYXzJ4mSAStg4rPRlK7ECwPylogF4DcQ0LgP509G1H4GINC34zExA8OZmgAg4MaqUhBJH9oMgepJDbpgxMeNCzb4WyQzFp46EOKmk3QMIbE0U546IPomSg6sIU-KLk-bgLFICSBP25cBrUHFOaQhA0OY3joQ9SCsyZYDMIDyUCyKLI9qPUDwUoOFD4IGrk8MY-P1waXKejqIBkSe30HpHHUjxBzEXxEqEDNItslZkAektXAKhopxtHqYiQusgNAdSZqbQ7Sje5FsG34VCHLwd0Fyv6mQA8AmVCRGgWIKjAHBJG4qK4CNwkgpkB8BfMk0FJo2kcPY_QwQgkCSAsGZBCQApoMCSiEERjhhStdEWjDgFotoPYLiAbVTBAWtC0DyYiQZg1IyBDe0AFGNETIAB4GRJsGUwSSRoiAFSBMA4cokmaokZgiIBbINFOoKE73wXwMcx8WxQgTYc06hAiKG4FB7JqXkpmXjiXvooYxLB4RMYcUbxgG4YksWGCC3ALVqWunAG6sKgAZ4BiP9jGMReIYgTkQ80EsZS4A)]
 
 ## 分析
 
@@ -110,30 +110,29 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 菅公（菅原道真） ]
 ================================================================================
-⏱  Duration:       1:31 (91.4s), 32 measures total
+⏱  Duration:       0:45 (45.7s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – D#5 (MIDI 75) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
-   - 最低音:  D4 in [Kanko[L1] #1 @ m.2, 0:04]
-   - 最高音: D#5 in [Kanko[L1] #1 @ m.11, 0:29]
+🎤 人聲音域:    C4 (MIDI 60) – D#5 (MIDI 75) [跨度: 15 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Kanko #1 @ m.2, 0:02]
+   - 最高音: D#5 in [Kanko #1 @ m.11, 0:29]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Kanko[L1] (45.7s) -> Kanko[L2] (45.7s)
+🏛  結構:      Kanko (45.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 小調（純淨自然小調，未偵測到可信轉調）
-   - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
+🗝  調性診斷：       D 大調（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    調式色彩／藍調前衛（調外音豐富，張力強烈）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, A, D, A#, D#
-   - 調性數值:    G 小調 [相關度: 0.82, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 小調 (0.82), G 大調 (0.69), D 大調 (0.57)
-   - 五度圈歷程:   +1 -> +1
+   - 核心骨幹音:  D, A, G, A#, D#
+   - 調性數值:    D 大調 [相關度: 0.75, 穩定度: Moderate, 自然音純度: 78.3%]
+   - 候選調性 (K-S): D 大調 (0.75), D 小調 (0.69), G 小調 (0.67)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Kanko[L1] #1]: G 小調 (r: 0.82, 自然音純度: 100.0%)
-     • [Kanko[L2] #1]: G 小調 (r: 0.82, 自然音純度: 100.0%)
+     • [Kanko #1]: D 大調 (r: 0.75, 自然音純度: 78.3%, 調外音: C, D#, A#)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+      Bb              [D ]*
       Eb               A  
          Ab           E  
             Db       B  
@@ -141,21 +140,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █                          1.7%
+     C  : ███                        5.0%
      C# :                            0.0%
-     D  : ███████████████           21.7%
-     D# : ██████                     8.3%
+     D  : ████████████████████████  35.8%
+     D# : ████                       5.8%
      E  :                            0.0%
      F  :                            0.0%
      F# :                            0.0%
-     G  : ████████████████████████  35.8%
+     G  : █████████████             20.0%
      G# :                            0.0%
      A  : ███████████████           22.5%
-     A# : ███████                   10.0%
+     A# : ███████                   10.8%
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D#5 (13 個半音 / 1.1 個八度, 106 個音符)
+  - Piano         : C4 – D#5 (15 個半音 / 1.2 個八度, 52 個音符)
 ================================================================================
 ```
 

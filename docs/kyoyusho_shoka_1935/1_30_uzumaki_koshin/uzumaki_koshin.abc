@@ -10,19 +10,19 @@ V:V2 name="PianoRH" snm="Pia"
 z4 z4 z4 z4 | G,4 G,4 D,8 | G,4 G,4 A,8 | B,4 C4 D4 D,4 |
 G,4 [G,,G,]4 [G,,G,]4 z4 | G,4 G,4 D,8 | G,4 G,4 A,8 | B,4 C4 D4 D,4 |
 G,4 [G,,G,]4 [G,,G,]4 z4 | G,4 G,4 D,8 | G,4 G,4 A,8 | B,4 C4 D4 D,4 |
-G,4 [G,,G,]4 [G,,G,]4 z4 | G,4 G,4 D,8 | G,4 G,4 A,8 | B,4 C4 D4 D,4 |
+G,4 [G,,G,]4 [G,,G,]4 z4 | G,4 G,4 D,8 | G,4 G,4 A,8 | B,4 C4 D4 D,4 ||
 G,4 [G,,G,]4 [G,,G,]4 z4 | [A,,A,]4 [F,A,C]4 [F,A,C]4 z4 | [D,,D,]4 [F,A,C]4 [F,A,C]4 z4 | [A,,A,]4 [F,A,C]4 [F,A,C]4 z4 |
 [A,,,A,,]4 [^C,E,A,]4 [C,E,A,]4 z4 | G,4 G,4 D,8 | G,4 G,4 A,8 | B,4 C4 D4 D,4 |
 G,4 [G,,G,]4 [G,,G,]4 z4 | [A,,A,]4 [F,A,C]4 [F,A,C]4 z4 | [D,,D,]4 [F,A,C]4 [F,A,C]4 z4 | [A,,A,]4 [F,A,C]4 [F,A,C]4 z4 |
-[A,,,A,,]4 [^C,E,A,]4 [C,E,A,]4 z4 | G,4 G,4 D,8 | G,4 G,4 A,8 | B,4 C4 D4 D,4 |
-G,4 [G,,G,]4 [G,,G,]4 z4 |
+[A,,,A,,]4 [^C,E,A,]4 [C,E,A,]4 z4 | G,4 G,4 D,8 | G,4 G,4 A,8 | B,4 C4 D4 D,4 ||
+G,4 [G,,G,]4 [G,,G,]4 z4 |]
 [V:V2]
 z4 z4 z4 D4 | G4 G3 G G2 A2 G2 B2 | A4 A3 A A2 c2 B2 d2 | c2 e2 d2 c2 B2 A2 G2 F2 |
 G4 [B,DG]3 [B,DG] [B,DG]4 c2 A2 | G4 G3 G G2 A2 G2 B2 | A4 A3 A A2 c2 B2 d2 | c2 e2 d2 c2 B2 A2 G2 F2 |
 G4 G3 G G4 D4 | G4 G3 G G2 A2 G2 B2 | A4 A3 A A2 c2 B2 d2 | c2 e2 d2 c2 B2 A2 G2 F2 |
-G4 [B,DG]3 [B,DG] [B,DG]4 c2 A2 | G4 G3 G G2 A2 G2 B2 | A4 A3 A A2 c2 B2 d2 | c2 e2 d2 c2 B2 A2 G2 F2 |
+G4 [B,DG]3 [B,DG] [B,DG]4 c2 A2 | G4 G3 G G2 A2 G2 B2 | A4 A3 A A2 c2 B2 d2 | c2 e2 d2 c2 B2 A2 G2 F2 ||
 G4 G3 G G4 A3 B | A4 A3 A A2 d2 c2 B2 | A4 A3 A A4 F3 G | A4 A3 A B2 A2 G2 F2 |
 E4 E3 E E2 A2 G2 E2 | G4 G3 G G2 A2 G2 B2 | A4 A3 A A2 c2 B2 d2 | c2 e2 d2 c2 B2 A2 G2 F2 |
 G4 [B,DG]3 [B,DG] [B,DG]4 A3 B | A4 A3 A A2 d2 c2 B2 | A4 A3 A A4 F3 G | A4 A3 A B2 A2 G2 F2 |
-E4 E3 E E2 A2 G2 E2 | G4 G3 G G2 A2 G2 B2 | A4 A3 A A2 c2 B2 d2 | c2 e2 d2 c2 B2 A2 G2 F2 |
-G4 [B,DG]3 [B,DG] [B,DG]4 z4 |
+E4 E3 E E2 A2 G2 E2 | G4 G3 G G2 A2 G2 B2 | A4 A3 A A2 c2 B2 d2 | c2 e2 d2 c2 B2 A2 G2 F2 ||
+G4 [B,DG]3 [B,DG] [B,DG]4 z4 |]

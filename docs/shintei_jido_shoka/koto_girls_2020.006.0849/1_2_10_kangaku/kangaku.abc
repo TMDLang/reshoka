@@ -7,7 +7,7 @@ Q:1/4=84
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mp! z4 z4 z2 D2 G2 A2 | !mf! B3 B B4 z2 B2 A2 G2 | !mp! d3 d d4 z2 D2 E2 F2 | G3 G G4 z2 G2 F2 E2 |
+|:!mp! z4 z4 z2 D2 G2 A2 | !mf! B3 B B4 z2 B2 A2 G2 | !mp! d3 d d4 z2 D2 E2 F2 | G3 G G4 z2 G2 F2 E2 |
 w: 1.~ケ フ ノ | ト キ ヲ ム ダ ニ | ク ラ シ ア ス ニ | ナ リ テ ク ヤ ム
 w: 2.~は ち は | は な に み つ を | た づ ね お の が | しょ く を た く は
 !mf! B3 B B4 z4 B4 | c4 B2 c2 ^c2 d2 A4 | !mf! c4 B4 z2 d2 ^c2 d2 | !mp! e3 e A4 z2 A2 G2 F2 |
@@ -16,6 +16,6 @@ w: 2.~へ お く あ | は れ れ い あ る | ひ と ま な ば | ず し 
 B3 B G4 z2 D2 E2 D2 | D4 F4 z2 D2 E2 D2 | !mf! D4 G4 z2 d2 ^c2 d2 | !mp! e3 e A4 z2 A2 G2 F2 |
 w: 1.~ト ナ リ タ ツ ト | シ ハ ユ メ ノ | マ ゾ ア ヲ バ | ト ナ リ モ ミ ヂ
 w: 2.~く ら ば む し と | り に お と る | べ し ま な ば | ず し て ひ を お
-B3 B G4 z2 D2 E2 D2 | D4 F4 z2 c2 B2 A2 | A4 G4 z4 z4 |
+B3 B G4 z2 D2 E2 D2 | D4 F4 z2 c2 B2 A2 :| A4 G4 z4 z4 |]
 w: 1.~ト ナ リ タ ツ ト | シ ハ ユ メ ノ | マ ゾ
 w: 2.~く ら ば む し と | り に お と る | べ し

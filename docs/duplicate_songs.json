@@ -1,8 +1,8 @@
 {
   "total_corpus_songs": 1461,
-  "unique_song_count": 1007,
-  "duplicate_group_count": 268,
-  "duplicate_occurrence_count": 722,
+  "unique_song_count": 1006,
+  "duplicate_group_count": 269,
+  "duplicate_occurrence_count": 724,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -52,7 +52,7 @@
     {
       "id": "other",
       "label": "其他",
-      "duplicate_group_count": 133
+      "duplicate_group_count": 134
     }
   ],
   "duplicate_groups": [
@@ -6191,6 +6191,26 @@
           "md_file": "shoka_kyozai_shu_1923/grade_3_4/21_kari/index.md",
           "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
           "raw_title": "雁"
+        }
+      ]
+    },
+    {
+      "id": "shukai",
+      "title": "集會",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_02_shukai",
+          "md_file": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_02_shukai/index.md",
+          "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
+          "raw_title": "集會"
+        },
+        {
+          "rel_dir": "kyoyusho_shoka_1935/5_05_shukai",
+          "md_file": "kyoyusho_shoka_1935/5_05_shukai/index.md",
+          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+          "raw_title": "集會"
         }
       ]
     },

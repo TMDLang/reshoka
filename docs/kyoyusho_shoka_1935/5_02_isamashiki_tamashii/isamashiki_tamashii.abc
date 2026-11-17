@@ -6,12 +6,12 @@ Q:1/4=96
 K:G
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-D3 E G3 A B4 A3 G | F3 G F3 E D4 z4 | G2 E2 E3 C D3 E E4 | F3 E D3 C B,4 z4 |
+|:D3 E G3 A B4 A3 G | F3 G F3 E D4 z4 | G2 E2 E3 C D3 E E4 | F3 E D3 C B,4 z4 |
 w: 1.~ゲ ニ イ サ マ シ キ | タ マ シ ヒ ハ | ツ ヨ キ ミ ニ コ ソ | ヤ ド ル ナ レ
 w: 2.~こ こ ろ と み を ば | や し な ひ て | てん ぷ の ち か ら を | き た へ つ つ
 C3 E G3 A B4 A3 G | F2 F2 G3 A A4 z4 | B8 B4 A4 | G6 G2 E4 E4 |
 w: 1.~ミ ヲ ス コ ヤ カ ニ | ナ シ テ コ ソ | タ ケ キ | コ コ ロ モ
 w: 2.~た ふ と き し め い | は た さ ば や | い ざ や | す す ま ん
-D6 D2 B4 A4 | G12 z4 |
+D6 D2 B4 A4 | G12 z4 :|
 w: 1.~ヤ ド ル ナ | レ
 w: 2.~も ろ と も | に

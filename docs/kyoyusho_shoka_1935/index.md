@@ -212,18 +212,18 @@ image: "0_book_info/P001.jpg"
 | (4) | [**空は青雲**](6_04_sora_wa_aogumo/index.md) | — | `?=C` `<2/4>` `!=100` | P209.jpg, P210.jpg |
 | (5) | [**青年團行進歌**](6_05_seinendan_koshinka/index.md) | — | `?=A` `<4/4>` `!=96` | P211.jpg |
 | (6) | [**進め健兒**](6_06_susume_kenji/index.md) | — | `?=G` `<4/4>` `!=108` | P212.jpg |
-| (7) | [**南國健兒**](6_07_nangoku_kenji/index.md) | — | `?=F` `<4/4>` `!=108` | P213.jpg |
-| (8) | [**月下の營火**](6_08_gekka_no_eika/index.md) | — | `?=B,` `<4/4>` `!=88` | P214.jpg |
-| (9) | [**守れ臺灣**](6_09_mamore_taiwan/index.md) | — | `?=F` `<4/4>` `!=108` | P215.jpg |
-| (10) | [**銀翼光る**](6_10_ginyoku_hikaru/index.md) | — | `?=C` `<4/4>` `!=108` | P216.jpg |
-| (11) | [**臺灣軍の歌**](6_11_taiwangun_no_uta/index.md) | — | `?=C` `<2/4>` `!=112` | P217.jpg, P218.jpg |
+| (7) | [**南國健兒**](6_07_nangoku_kenji/index.md) | 詞：石川彦太郎 / 曲：赤尾寅吉 | `?=F` `<4/4>` `!=108` | P213.jpg |
+| (8) | [**月下の營火**](6_08_gekka_no_eika/index.md) | 詞：中村知 / 曲：英國スカウトソング | `?=B,` `<4/4>` `!=84` | P214.jpg |
+| (9) | [**守れ臺灣**](6_09_mamore_taiwan/index.md) | 詞：小島富太郎 / 曲：古關裕而 | `?=F` `<4/4>` `!=108` | P215.jpg |
+| (10) | [**銀翼光る**](6_10_ginyoku_hikaru/index.md) | 詞：迎稔 / 曲：古關裕而 | `?=C` `<4/4>` `!=108` | P216.jpg |
+| (11) | [**臺灣軍の歌**](6_11_taiwangun_no_uta/index.md) | 詞：臺灣軍 / 曲：陸軍戸山學校軍樂隊 | `?=C` `<2/4>` `!=112` | P217.jpg, P218.jpg |
 | (12) | [**常夏の島**](6_12_tokonatsu_no_shima/index.md) | 作詞：萱島保之 / 作曲：柚木厚司 | `?=G` `<2/4>` `!=104` | P219.jpg |
 | (13) | [**岩をぶちわり**](6_13_iwa_wo_buchiwari/index.md) | — | `?=G` `<3/4>` `!=108` | P220.jpg |
 | (14) | [**臺灣行進歌**](6_14_taiwan_koshinka/index.md) | 作詞：山口充一 / 作曲：池田玉子 | `?=G` `<2/4>` `!=116` | P221.jpg, P222.jpg |
 | (15) | [**大日本行進曲**](6_15_dainippon_koshinkyoku/index.md) | — | `?=D` `<6/8>` `!=112` | P223.jpg, P224.jpg |
-| (16) | [**帝國青年の歌**](6_16_teikoku_seinen_no_uta/index.md) | — | `?=G` `<4/4>` `!=112` | P225.jpg, P226.jpg |
-| (17) | [**キャンプの歌**](6_17_kyanpu_no_uta/index.md) | — | `?=C` `<2/4>` `!=100` | P227.jpg, P228.jpg |
-| (18) | [**鉾をおさめて**](6_18_hoko_wo_osamete/index.md) | — | `?=B,` `<4/4>` `!=80` | P229.jpg, P230.jpg |
+| (16) | [**帝國青年の歌**](6_16_teikoku_seinen_no_uta/index.md) | 曲：島崎赤太郎 | `?=G` `<4/4>` `!=112` | P225.jpg, P226.jpg |
+| (17) | [**キヤンプの唄**](6_17_kyanpu_no_uta/index.md) | 詞：石川眞澄 / 曲：岩田泉 | `?=C` `<2/4>` `!=100` | P227.jpg, P228.jpg |
+| (18) | [**鉾ををさめて**](6_18_hoko_wo_osamete/index.md) | 詞：時雨音羽 / 曲：中山晋平 | `?=B,` `<4/4>` `!=80` | P229.jpg, P230.jpg |
 
 ## 女子青年用（共 22 首）
 
@@ -232,13 +232,13 @@ image: "0_book_info/P001.jpg"
 | (1) | [**草花**](7_01_kusabana/index.md) | — | `?=D` `<4/4>` `!=92` | P232.jpg |
 | (2) | [**白百合の賦**](7_02_shirayuri_no_fu/index.md) | — | `?=B,` `<4/4>` `!=84` | P233.jpg |
 | (3) | [**女子青年團歌**](7_03_joshi_seinendanka/index.md) | — | `?=G` `<4/4>` `!=108` | P234.jpg |
-| (4) | [**臺灣女子青年團歌**](7_04_taiwan_joshi_seinendanka/index.md) | — | `?=F` `<4/4>` `!=100` | P235.jpg |
-| (5) | [**新興日本少女の歌**](7_05_shinko_nihon_shojo_no_uta/index.md) | — | `?=C` `<4/4>` `!=100` | P236.jpg |
-| (6) | [**心**](7_06_kokoro/index.md) | — | `?=C` `<6/8>` `!=88` | P237.jpg |
-| (7) | [**食前の反省**](7_07_shokuzen_no_hansei/index.md) | — | `?=C` `<3/4>` `!=84` | P238.jpg |
-| (8) | [**子守唄**](7_08_komoriuta/index.md) | — | `?=D` `<4/4>` `!=76` | P239.jpg |
-| (9) | [**里心**](7_09_satogokoro/index.md) | — | `?=E,` `<4/4>` `!=88` | P240.jpg |
-| (10) | [**娘ごろ**](7_10_musumegoro/index.md) | — | `?=F` `<2/4>` `!=96` | P241.jpg |
+| (4) | [**臺灣女子青年團歌**](7_04_taiwan_joshi_seinendanka/index.md) | — | `?=F` `<4/4>` `!=108` | P235.jpg |
+| (5) | [**新興日本少女の歌**](7_05_shinko_nihon_shojo_no_uta/index.md) | 詞：藪田義雄 / 曲：中山晋平 | `?=C` `<4/4>` `!=96` | P236.jpg |
+| (6) | [**心**](7_06_kokoro/index.md) | — | `?=C` `<6/8>` `!=60` | P237.jpg |
+| (7) | [**食前の反省**](7_07_shokuzen_no_hansei/index.md) | 詞：大橋藤孝 / 曲：赤尾寅吉 | `?=C` `<3/4>` `!=84` | P238.jpg |
+| (8) | [**子守唄**](7_08_komoriuta/index.md) | — | `?=D` `<4/4>` `!=72` | P239.jpg |
+| (9) | [**里心**](7_09_satogokoro/index.md) | 作詞：北原白秋 / 作曲：山田耕筰 | `?=E,` `<4/4>` `!=76` | P240.jpg |
+| (10) | [**娘ごろ**](7_10_musumegoro/index.md) | 作詞：山口充一 / 作曲：臺灣教育會選曲 | `?=F` `<2/4>` `!=96` | P241.jpg |
 | (11) | [**一つとや**](7_11_hitotsutoya/index.md) | — | `?=C` `<2/4>` `!=96` | P242.jpg |
 | (12) | [**土に生きん**](7_12_tsuchi_ni_ikin/index.md) | — | `?=E,` `<2/4>` `!=88` | P243.jpg, P244.jpg |
 | (13) | [**野の幸**](7_13_no_no_sachi/index.md) | — | `?=C` `<4/4>` `!=96` | P245.jpg, P246.jpg |

@@ -18,7 +18,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
-from generate_duplicate_songs import load_all_song_entries
+from generate_duplicate_songs import PURE_SAME_SONG_IDS, load_all_song_entries
 from generate_same_title_songs import year_from_entry
 
 
@@ -70,6 +70,15 @@ def build_lyric_groups(entries) -> list[dict]:
     result: list[dict] = []
     for component in lyric_components.values():
         if len(component) < 2:
+            continue
+
+        # The duplicate-song index contains curated musicological decisions
+        # for title clusters whose editions are the same work despite local
+        # melodic edits, editorial reconstructions, or transcription gaps.
+        # Do not contradict those decisions by presenting the cluster as an
+        # automatically detected "same lyrics, different melody" candidate.
+        cluster_ids = {entry.norm_slug for entry in component}
+        if len(cluster_ids) == 1 and cluster_ids <= PURE_SAME_SONG_IDS:
             continue
 
         # Split one lyric group into melody versions.  Similar melodies are

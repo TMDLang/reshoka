@@ -1,6 +1,6 @@
 {
   "total_corpus_songs": 1461,
-  "same_melody_different_lyrics_group_count": 18,
+  "same_melody_different_lyrics_group_count": 19,
   "groups": [
     {
       "versions": [
@@ -774,6 +774,52 @@
     {
       "versions": [
         {
+          "id": "kyoyusho_shoka_1935/3_03_kabin_no_hana",
+          "lyrics": "これごらんなさいきれいないろよおうちのおにはにそだてたおはな",
+          "titles": [
+            "花瓶の花"
+          ],
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_02_kabin_no_hana",
+              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_02_kabin_no_hana/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+              "raw_title": "花瓶の花",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/3_03_kabin_no_hana",
+              "md_file": "kyoyusho_shoka_1935/3_03_kabin_no_hana/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "花瓶の花",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "kyoyusho_shoka_1935/5_06_ichinichi_no_owari",
+          "lyrics": "ほしかげさやかにしずかにふけぬつどひのよろこびうたふほうれし",
+          "titles": [
+            "一日の終"
+          ],
+          "year": 1935,
+          "occurrences": [
+            {
+              "rel_dir": "kyoyusho_shoka_1935/5_06_ichinichi_no_owari",
+              "md_file": "kyoyusho_shoka_1935/5_06_ichinichi_no_owari/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "一日の終",
+              "year": 1935
+            }
+          ]
+        }
+      ],
+      "id": "018_4_02_kabin_no_hana"
+    },
+    {
+      "versions": [
+        {
           "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_07_tasukebune",
           "lyrics": "はげしきあめかぜてんちくらくやまなすあらなみたけりくるふみよみよかしこにあはれおぶねしょしのさかひとすくひもとむ",
           "titles": [
@@ -808,7 +854,7 @@
           ]
         }
       ],
-      "id": "018_2_07_tasukebune"
+      "id": "019_2_07_tasukebune"
     }
   ]
 }

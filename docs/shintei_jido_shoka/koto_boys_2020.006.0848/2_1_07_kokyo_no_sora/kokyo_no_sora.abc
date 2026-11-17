@@ -7,7 +7,7 @@ Q:1/4=96
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-z4 z4 z4 G3 F | E3 G c3 d c4 c3 B | A3 c c3 A G4 G3 F | E3 G c3 d e3 e d3 c |
+|:z4 z4 z4 G3 F | E3 G c3 d c4 c3 B | A3 c c3 A G4 G3 F | E3 G c3 d e3 e d3 c |
 w: 1.~オ ボ | ロ ニ カ ス ム サ ク | ラ ノ ア シ タ ミ チ | ノ ト モ ト ツ エ ヲ ヒ
 w: 2.~サ ヤ | カ ニ ハ レ テ ツ キ | ス ム ヨ ゴ ロ ア ソ | ビ ガ テ ラ ウ タ ヲ ヨ
 d12 G3 F | E3 G c3 d c4 c3 B | A3 c c3 A G4 e3 d | c3 B c3 A B3 G B3 d |
@@ -16,9 +16,9 @@ w: 2.~ミ シ ラ | ユ キ ツ ミ シ マ ナ | ビ ノ マ ド ニ オ モ | 
 c12 z4 | e4 e4 e3 d c3 A | G8 c8 | d4 d4 e3 d c3 e |
 w: 1.~ム | カ カ ル ヲ リ モ | ハ タ | ヒ ト コ ソ シ ラ
 w: 2.~ル | カ カ ル ト キ モ | マ タ | ワ レ ノ ミ コ ト
-d8 z4 G3 F | E3 G c3 d c4 c3 B | A3 c c3 A G4 e3 d | c3 B c3 A B3 G B3 d |
+d8 z4 G3 F | E3 G c3 d c4 c3 B | A3 c c3 A G4 e3 d | c3 B c3 A B3 G B3 d :|
 w: 1.~ヌ タ ノ | シ ト オ モ フ コ コ | ロ ニ ソ ヘ テ コ キャウ | ノ ソ ラ ナ ガ メ ラ ー
 w: 2.~ニ ワ ビ | シ キ フ シ ノ ア ル | ニ モ ア ラ デ コ キャウ | ノ ソ ラ ナ ガ メ ラ ー
-c8 z4 z4 |
+c8 z4 z4 |]
 w: 1.~ル
 w: 2.~ル
