@@ -4,7 +4,7 @@ song_title: "猿の猿眞似"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_4_12_saru_no_sarumane"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈猿の猿眞似〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（野口雨情 作詞 / 室崎琴月 作曲），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、山でお猿が　木登りしてる 山で子猿も　木登りしてる…"
+description: "〈猿の猿眞似〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（野口雨情 作詞 / 室崎琴月 作曲），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、山でお猿が　木登りしてる 山で子猿も　木登りしてる…"
 keywords: "猿の猿眞似, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 野口雨情 作詞 / 室崎琴月 作曲"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -21,6 +21,9 @@ audio:
   - id: "saru_no_sarumane"
     label: "鋼琴伴奏版"
     file: "saru_no_sarumane.mp3"
+  - id: "saru_no_sarumane_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "saru_no_sarumane_neutrino.mp3"
 tmd_source:
   - "saru_no_sarumane.tmd"
   - "saru_no_sarumane_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="saru_no_sarumane.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="saru_no_sarumane_neutrino.mp3"></audio>
 
 - 野口雨情 作詞 / 室崎琴月 作曲
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）

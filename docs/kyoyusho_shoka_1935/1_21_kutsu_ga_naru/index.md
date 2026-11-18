@@ -4,7 +4,7 @@ song_title: "靴が鳴る"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_1_21_kutsu_ga_naru"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈靴が鳴る〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：清水かつら、曲：弘田龍太郎），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) お手々　つないで　野道を　行けば…"
+description: "〈靴が鳴る〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：清水かつら、曲：弘田龍太郎），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) お手々　つないで　野道を　行けば…"
 keywords: "靴が鳴る, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 清水かつら, 弘田龍太郎"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -22,6 +22,9 @@ audio:
   - id: "kutsu_ga_naru"
     label: "鋼琴伴奏版"
     file: "kutsu_ga_naru.mp3"
+  - id: "kutsu_ga_naru_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kutsu_ga_naru_neutrino.mp3"
 tmd_source:
   - "kutsu_ga_naru.tmd"
   - "kutsu_ga_naru_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kutsu_ga_naru.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kutsu_ga_naru_neutrino.mp3"></audio>
 
 - 詞：清水かつら
 - 曲：弘田龍太郎

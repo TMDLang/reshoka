@@ -4,7 +4,7 @@ song_title: "空は青雲"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_6_04_sora_wa_aogumo"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈空は青雲〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：四　空は青雲 （一）…"
+description: "〈空は青雲〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：四　空は青雲 （一）…"
 keywords: "空は青雲, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -23,6 +23,9 @@ audio:
   - id: "sora_wa_aogumo"
     label: "鋼琴伴奏版"
     file: "sora_wa_aogumo.mp3"
+  - id: "sora_wa_aogumo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sora_wa_aogumo_neutrino.mp3"
 tmd_source:
   - "sora_wa_aogumo.tmd"
   - "sora_wa_aogumo_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="sora_wa_aogumo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sora_wa_aogumo_neutrino.mp3"></audio>
 
 - lyricist: 北原白秋
 - composer: 山田耕筰

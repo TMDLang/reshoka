@@ -4,7 +4,7 @@ song_title: "樂しき我が家"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_5_09_tanoshiki_wagaya"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈樂しき我が家〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：E 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花こそかをらね我がこの園（その）、 月こそにほはね我がこの軒、…"
+description: "〈樂しき我が家〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：E 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：花こそかをらね我がこの園（その）、 月こそにほはね我がこの軒、…"
 keywords: "樂しき我が家, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -19,6 +19,9 @@ audio:
   - id: "tanoshiki_wagaya"
     label: "鋼琴伴奏版"
     file: "tanoshiki_wagaya.mp3"
+  - id: "tanoshiki_wagaya_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tanoshiki_wagaya_neutrino.mp3"
 tmd_source:
   - "tanoshiki_wagaya.tmd"
   - "tanoshiki_wagaya_piano.tmd"
@@ -29,6 +32,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="tanoshiki_wagaya.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tanoshiki_wagaya_neutrino.mp3"></audio>
 
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 

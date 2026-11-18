@@ -4,7 +4,7 @@ song_title: "花瓶の花"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_3_03_kabin_no_hana"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈花瓶の花〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：葛原齒、曲：佛蘭西），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：これ御覽なさい　綺麗な色よ お家のお庭に　育てたお花…"
+description: "〈花瓶の花〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：葛原齒、曲：佛蘭西），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：これ御覽なさい　綺麗な色よ お家のお庭に　育てたお花…"
 keywords: "花瓶の花, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原齒, 佛蘭西"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -22,6 +22,9 @@ audio:
   - id: "kabin_no_hana"
     label: "鋼琴伴奏版"
     file: "kabin_no_hana.mp3"
+  - id: "kabin_no_hana_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kabin_no_hana_neutrino.mp3"
 tmd_source:
   - "kabin_no_hana.tmd"
   - "kabin_no_hana_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kabin_no_hana.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kabin_no_hana_neutrino.mp3"></audio>
 
 - 詞：葛原齒
 - 曲：佛蘭西

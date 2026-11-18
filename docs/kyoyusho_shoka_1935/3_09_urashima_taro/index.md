@@ -4,7 +4,7 @@ song_title: "浦島太郎"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_3_09_urashima_taro"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈浦島太郎〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：石原和三郎（幼年唱歌）、作曲：田村虎藏（幼年唱歌）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：むかし むかし、うらしま は たすけた かめ に つれられて…"
+description: "〈浦島太郎〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：石原和三郎（幼年唱歌）、作曲：田村虎藏（幼年唱歌）），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：むかし むかし、うらしま は たすけた かめ に つれられて…"
 keywords: "浦島太郎, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎（幼年唱歌）, 田村虎藏（幼年唱歌）"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -22,6 +22,9 @@ audio:
   - id: "urashima_taro"
     label: "鋼琴伴奏版"
     file: "urashima_taro.mp3"
+  - id: "urashima_taro_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "urashima_taro_neutrino.mp3"
 tmd_source:
   - "urashima_taro.tmd"
   - "urashima_taro_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="urashima_taro.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="urashima_taro_neutrino.mp3"></audio>
 
 - 作詞：石原和三郎（幼年唱歌）
 - 作曲：田村虎藏（幼年唱歌）

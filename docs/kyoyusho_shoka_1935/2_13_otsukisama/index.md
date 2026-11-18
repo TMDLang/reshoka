@@ -4,7 +4,7 @@ song_title: "お月さま"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_2_13_otsukisama"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈お月さま〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：石原和三郎、曲：納所辨次郎），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オツキサマ　エライナ オヒサマノキヨウダイデ…"
+description: "〈お月さま〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：石原和三郎、曲：納所辨次郎），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：オツキサマ　エライナ オヒサマノキヨウダイデ…"
 keywords: "お月さま, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 納所辨次郎"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -22,6 +22,9 @@ audio:
   - id: "otsukisama"
     label: "鋼琴伴奏版"
     file: "otsukisama.mp3"
+  - id: "otsukisama_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "otsukisama_neutrino.mp3"
 tmd_source:
   - "otsukisama.tmd"
   - "otsukisama_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="otsukisama.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="otsukisama_neutrino.mp3"></audio>
 
 - 詞：石原和三郎
 - 曲：納所辨次郎

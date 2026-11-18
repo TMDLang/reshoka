@@ -4,7 +4,7 @@ song_title: "貴く生きん"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_5_04_totoku_ikin"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈貴く生きん〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) 夕（ゆふべ）靜（しづ）けき森の中　月光木（こ）の間（ま）洩（も）る處…"
+description: "〈貴く生きん〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) 夕（ゆふべ）靜（しづ）けき森の中　月光木（こ）の間（ま）洩（も）る處…"
 keywords: "貴く生きん, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -21,6 +21,9 @@ audio:
   - id: "totoku_ikin"
     label: "鋼琴伴奏版"
     file: "totoku_ikin.mp3"
+  - id: "totoku_ikin_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "totoku_ikin_neutrino.mp3"
 tmd_source:
   - "totoku_ikin.tmd"
   - "totoku_ikin_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="totoku_ikin.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="totoku_ikin_neutrino.mp3"></audio>
 
 - lyricist: 田澤義鋪
 - composer: 楠正一

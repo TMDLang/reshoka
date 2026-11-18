@@ -4,7 +4,7 @@ song_title: "おほさむ こさむ"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_3_26_ohosamu_kosamu"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈おほさむ こさむ〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) オホサム　コサム　フユノカゼ…"
+description: "〈おほさむ こさむ〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：石原和三郎、曲：田村虎藏），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：(一) オホサム　コサム　フユノカゼ…"
 keywords: "おほさむ こさむ, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 石原和三郎, 田村虎藏"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -22,6 +22,9 @@ audio:
   - id: "ohosamu_kosamu"
     label: "鋼琴伴奏版"
     file: "ohosamu_kosamu.mp3"
+  - id: "ohosamu_kosamu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ohosamu_kosamu_neutrino.mp3"
 tmd_source:
   - "ohosamu_kosamu.tmd"
   - "ohosamu_kosamu_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="ohosamu_kosamu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ohosamu_kosamu_neutrino.mp3"></audio>
 
 - 詞：石原和三郎
 - 曲：田村虎藏

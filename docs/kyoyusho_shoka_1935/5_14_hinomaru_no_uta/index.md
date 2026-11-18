@@ -4,7 +4,7 @@ song_title: "日の丸の歌"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_5_14_hinomaru_no_uta"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈日の丸の歌〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：西條八十、作曲：中山晋平），調號拍號：E, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） 何時も眺めてうれしい旗は…"
+description: "〈日の丸の歌〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：西條八十、作曲：中山晋平），調號拍號：E, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） 何時も眺めてうれしい旗は…"
 keywords: "日の丸の歌, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 西條八十, 中山晋平"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -22,6 +22,9 @@ audio:
   - id: "hinomaru_no_uta"
     label: "鋼琴伴奏版"
     file: "hinomaru_no_uta.mp3"
+  - id: "hinomaru_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hinomaru_no_uta_neutrino.mp3"
 tmd_source:
   - "hinomaru_no_uta.tmd"
   - "hinomaru_no_uta_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="hinomaru_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hinomaru_no_uta_neutrino.mp3"></audio>
 
 - 作詞：西條八十
 - 作曲：中山晋平

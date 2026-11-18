@@ -4,7 +4,7 @@ song_title: "おまつり日"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_3_20_omatsuribi"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈おまつり日〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：田村富士雄、作曲：陳華堤），調號拍號：E, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　たいわんじんじやのおまつり日、 たいこはどんどんなつてゐる。…"
+description: "〈おまつり日〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：田村富士雄、作曲：陳華堤），調號拍號：E, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　たいわんじんじやのおまつり日、 たいこはどんどんなつてゐる。…"
 keywords: "おまつり日, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 田村富士雄, 陳華堤"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -23,6 +23,9 @@ audio:
   - id: "omatsuribi"
     label: "鋼琴伴奏版"
     file: "omatsuribi.mp3"
+  - id: "omatsuribi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "omatsuribi_neutrino.mp3"
 tmd_source:
   - "omatsuribi.tmd"
   - "omatsuribi_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="omatsuribi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="omatsuribi_neutrino.mp3"></audio>
 
 - 作詞：田村富士雄
 - 作曲：陳華堤

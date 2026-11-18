@@ -4,7 +4,7 @@ song_title: "月下の營火"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_6_08_gekka_no_eika"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈月下の營火〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：中村知、曲：英國スカウトソング），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：八　月下の營火 （一）…"
+description: "〈月下の營火〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：中村知、曲：英國スカウトソング），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：八　月下の營火 （一）…"
 keywords: "月下の營火, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 中村知, 英國スカウトソング"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -24,6 +24,9 @@ audio:
   - id: "gekka_no_eika"
     label: "鋼琴伴奏版"
     file: "gekka_no_eika.mp3"
+  - id: "gekka_no_eika_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "gekka_no_eika_neutrino.mp3"
 tmd_source:
   - "gekka_no_eika.tmd"
   - "gekka_no_eika_piano.tmd"
@@ -34,6 +37,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="gekka_no_eika.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="gekka_no_eika_neutrino.mp3"></audio>
 
 - 詞：中村知
 - 曲：英國スカウトソング
