@@ -4,7 +4,7 @@ song_title: "若しもあなたが往來で"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_8_03_moshimo_anata_ga_orai_de"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈若しもあなたが往來で〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈若しもあなたが往來で〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：F 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "若しもあなたが往來で, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -22,6 +22,9 @@ audio:
   - id: "moshimo_anata_ga_orai_de"
     label: "鋼琴伴奏版"
     file: "moshimo_anata_ga_orai_de.mp3"
+  - id: "moshimo_anata_ga_orai_de_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "moshimo_anata_ga_orai_de_neutrino.mp3"
 tmd_source:
   - "moshimo_anata_ga_orai_de.tmd"
   - "moshimo_anata_ga_orai_de_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="moshimo_anata_ga_orai_de.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="moshimo_anata_ga_orai_de_neutrino.mp3"></audio>
 
 - lyricist: 上村吐月
 - composer: 高梨寛之助

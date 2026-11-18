@@ -4,10 +4,13 @@ song_title: "國語おぼえて"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_8_01_kokugo_oboete"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈國語おぼえて〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
-keywords: "國語おぼえて, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈國語おぼえて〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：酒森元平、曲：一條慎三郎），調號拍號：G 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　國語おぼえて （一）…"
+keywords: "國語おぼえて, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 酒森元平, 一條慎三郎"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
+credits:
+  - "詞：酒森元平"
+  - "曲：一條慎三郎"
 sources:
   - "lyricist: 酒森元平"
   - "composer: 一條慎三郎"
@@ -21,6 +24,9 @@ audio:
   - id: "kokugo_oboete"
     label: "鋼琴伴奏版"
     file: "kokugo_oboete.mp3"
+  - id: "kokugo_oboete_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kokugo_oboete_neutrino.mp3"
 tmd_source:
   - "kokugo_oboete.tmd"
   - "kokugo_oboete_piano.tmd"
@@ -31,24 +37,39 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kokugo_oboete.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kokugo_oboete_neutrino.mp3"></audio>
 
+- 詞：酒森元平
+- 曲：一條慎三郎
 - lyricist: 酒森元平
 - composer: 一條慎三郎
 - 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
 
 ## 說明
 
-
-- 出處：lyricist: 酒森元平
-- 出處：composer: 一條慎三郎
-- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年，索書號 0725 148）
-- 調性與拍號：調號 ?= G，拍號 <2/4>，速度 != 126
+=== 原書資訊與歌詞全文 ===
+- 收錄頁次：原書 p. 225（掃描檔 P259.jpg），第八章 國語夜學會唱歌 第一首。
+- 詞曲標記：右上角印「酒森元平歌／一條慎三郎曲」，譜首標「愉快ニ ♩=126」。
+- 調性與拍號：ト調（1 個升記號，?= G，G 大調五聲音階），2/4 拍，共 5 行 20 小節。
+- 雙層歌詞與歷史假名遣：五線譜下並列印（一）片假名與（二）平假名雙層歌詞，忠實保留原印歷史假名遣、大小寫與連音對位（如 m.5–6「オハ／ヤウ」、m.7「イーヘー／いーへー」、m.8 上排印「バー」與下排印「ば」、m.12 印大字促音三音三字「ナツテ」、m.13 印「ケフノ」；底欄全文印舊字體「國語」「晝（ひる）」與大字促音「あかるくなつて」）。底欄印有（一）～（二）段全文歌詞。
 
 
 ## 歌詞
 
 ```text
-（TMD 檔案未包含歌詞註解）
+一　國語おぼえて
+
+（一）
+國語おぼえて
+おはやう　いへば
+くらい心もあかるくなつて
+今日の一日（ひとひ）が楽しく暮れる
+
+（二）
+國語おぼえて
+さよなら　いへば
+晝（ひる）のつかれもさらりと忘れ
+楽しい明日の夢見てねむる
 ```
 
 ## ABC
@@ -59,8 +80,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kokugo_oboete.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ42Trp2eJ1T1ubn-7crASSSs7PLcgvTi2yUniyo-HZornPWvue7Oh82dynxKWlpfB0TveLVfMeN3Y9btzzuLHjceMyBS0tLkVbBUMjMy57WwV3LhsjfRM7kEEv2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs74eXstscN3e_3dDybsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJxfs9nUpcXL6JmXlWAZmJefkONQY11VwKQGBjoWUHZtQoGCiYxkNRjYKhgq6CERDXKBgDSRAbIgaCNWANPjVA5uOmzUC8Hoi3ABU8bloFEmueA9b4uGkFWPnj5j0gXnMbinaQfWbxUFQDtgtkU42CCZgFss8Um32rgCb1A_ESsA3LoOZD7FsC5s2A2zgBw0YkH8ItB9sPEQUyzWG-B2EUm4G-bF4JtgVkF8jfQNy8FogXgUUWAfFqIA-IgWpB9nc9bm4GOwnkdayOAHkZ5E1YMJuCHIbN2xuBpkwF4j6wwZPApnZAvA3mwYO5aQ2Gp42gMYkIYwgLZ5zuB1sECdPtUL9DeCD6cfMaeAivhmuv5eLStVMAJTEFIK3MBQA)]
-- [鋼琴伴奏 TMD 檔案](kokugo_oboete_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUng6p_vFqnmPG7seN-553NjxuHHZ-z0dL7v3PJ-w5cmeLU-X9r9YO-f9nk4FLS0uRVsFQyMzLntbBXcuGyN9EzuuOgWlF-27njcufr5j7_O5i5_umvNi7bKn3TOfbmx43ND1bOrMF02bnnU2PJ-yQuHplI3P1vYAhZ7NnfBydtvjhm6gPc9mrH06qedpb-PTnVve7-l5vmXRs9k7Xsycr2BgbmSqYGhiAbRZiYvLNzEzzyogMzEvP8jDocagpppLAQhsLLTswIwaBQMF03goqlEwVNBVMALiGgVjIAliQ8RAsAaswacGyHzctBmI1wPxFqCCx02rQGLNc8AaHzetACt_3LwHxGtuQ9EOss8sHopqwHaBbKpRMAGzQPaZYrNvFdCkfiBeArZhGdR8iH1LwLwZcBsnYNiI5EO45WD7IaJApjnM9yCMYjPQl80rwbaA7AL5G4ib1wLxIrDIIiBeDeQBMVAtyP6ux83NYCeBvI7VESAvg7wJC2ZTkMOweXsj0JSpQNwHNngS2NQOiLfBPHgwN63B8LQRNCYRYQxh4YzT_WCLIGG6Hep3CA9EP25eAw_h1XDttcgpzAdXCjOMj4djoOVQlikUI0RgoqgiYF04zIKZgWk66WZhqKOZWThEkJIKcuhg-hFZBJe7gDGja6cAihwFIK3MBQA)]
+- [主旋律 TMD 檔案](kokugo_oboete.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMTC0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZ5UCr8tPSMpMzE3MQ8iUZqcCAgHoyJzMtFV2qJDM3FagvPiWxEl0qNTcf1UUQ4eT83NzSvMwSiPqcSqCzgK6zUnjZOunZ4nVPW5uf7twMlgIqLMgvTi2yUniyo-HZornPWvue7Oh82dynxKWlpfB0TveLVfMeN3Y9btzzuLHjceMyBS0tLkVbBUMjMy57WwV3LhsjfRM7kEEvVs57v2cWhvnPZm8CCmOYDdLQvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7Z-GxtD1Do2dwJL2e3PW7ofr-n49mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0s3u_pVOLi0tdSsKUW4FJQABmm8LRvPsiuze0vVnS96GgHug3o9aetK55NawfJg5Q9bt79bMq2lz0tLxc0PluzEBgAEE0KBXoKRkamIPf3NT_r73-2aooCKNnqZRWkAx0M8siaNU9bVz9fvQAa9E-XzHm6dsezOc2QUFAAygPD8uWyaY8bmqA2AW0HBvKzFTNfrJgBsql_85MdXS-WT3rau-FxQw9yhAANeL-nHy0ugHofN_QCrX6xdg7QXKA5QF3PWjqf7l_9uLlb4dHMlbbAyAYqQbJx1f5nDctBfu_uBYY50NLHzR1AQaC_DBWeNnQ_7QWGzQywTA8okQApd4WnS5YDlTzZNeVF46aX8ze_nNUH8TEw_SgAzQGynrZuVDBVeLGwR8HIQOHphv7n64FpAWbny9nAtLEEEtjgUN_-tH_T08b2pxN6XzYuBiWxXVOeb58F9MSTHd1Pdix72jEdGABAFwG9C7ToeWc7RDFQL0hwFzAkOoFBAjUByXCQQ_YveLp-2ZP9c59PnQmMOKA5aNY9bmgEegfoxKfrVwMNfNmwGOijpxt6n-wF-qPj6bImhVw900cNk4HB1vO4adXj5n5guD9uXvK4aRk4IBtz9czBUkseN-953DwDSIIUNLaAuI07QCRUmQUwW3Y964NG5uPmCRA5oKVAbyLEG4EkRIOhkQJQDOS6tdOf7G8GugsUzWASKAI2o-txM9AiYEaC6jAG6QA7Z-Pj5qmPm_vA6WH2011Tn61pgSRsoIIXHV1AA16ungJUCS0WQAb0PJs5F-jnx42bHjcBM2YnxHHI9oPd1_S4sRuo4HEj0JerHjcuAZYkYFuA6pugFgFDeQ4wQUAj7P1eYExA4-nZuq0QZ0BiCJQowKmiYQJy5nvcMBEkCtT-uKEBs-ACa4EbD-JgUQMyFcRf_7ip5XEjMIgaQJECjJHGDRC5_sdNnUChp_ubHzcB_YTFW2A37O56Nn3p48Z1oLw2fSk0fBpXAEmQlxt7ni3d-7hxOlDbs1nrHjcBQ74b7jywj_E5b-rjJiBnFcghaM5Dj4rGdWAnAV0ItAHoVKDOzsdNQPNWPN0_AygI1gN1ScuzGX0QNz9dsujFMqCXlj1uXPu4qQHkNkjJRx2goKXPxeWbCKwPAzIT8_IdagxqqkEWKNgYmmnZgVnAUhtSzoHKAg1gCgVmJRMdeEmpCTICpK5GwUBBV8E0HkiYgQgwq0bBEEiCoBGURoiAIFglqhBYEdhEH8MaBZD846bNYHI9mNwC1gHMyFC1j5vnwI1-3LQC3SSgfBt2042gpjdOBpP9YHIKRE9jF8z0xj0Ikxo7ME0HVsLopiMH264eaLCBSiALnMFmDMSmcEPNkIwDidaA5UFsCG1ERJCBggdY1CEFwxIk1cCyDyLaBBMFFnxIakElG3YL4KE2FWwMLERAIQGLEYgFnVDRFphI4w4ktRswTEdJbJ3QULMEhpqhEc5gAwUCDEOCBJTMQDQ0YYG4IAwKRUhIgsIWhOGhjRZu4ETWvBLMBoUNKIwgyQ9MNq8Fk4ugMiD6cdNqsBiYBOsHhSAoAQGLdjAJS4DoQbgJrKMbzF4HDRiQncBSAizTAyaboDKQAAcFK7DYAKsCJXaQKyBJdyZcD0aAPp09G5Z7jUEhakat_AsSrYGHJa60uBEcCmD3N_dBw2cSVC2wsQI3GSEKNwmoew120-GhOB8efpBECwqr6TDT4ckPJAoKSXgCBYcXSBSkE3dSBDaRoCFnDgw5IwPcIQfEkIxrCs-wEAhJeJAAJCUL7wd7CRRgsKDYjuwBWFID05CghAUVKChByRFPsDWBEuXjpkak4AHZhwgeaAHRuBZuXwOSS0AJFNX0Wi4uXTsFUF2iAKSVuQA)]
+- [鋼琴伴奏 TMD 檔案](kokugo_oboete_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeDqn-8WqeY8bux437nnc2PG4cdn7PR0vu_c8n7DlyZ4tT5f2v1g75_2eTgUtLS5FWwVDIzMue1sFdy4bI30TO5DZL1bOe79n1svWSc8Wr3va2vx052awlc9mbwIKP9nR8GzR3GetfU92dL5s7gPLvGjf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQpPp2x8trYHKPRs7oSXs9seN3QDHfZsxtqnk3qe9jY-3bnl_Z6e51sWPZu948XM-QoG5kamCoYmFkCnKnFx-SZm5lkFgMIiyMOhxqCmmksBCGwMzbTswCx9LYXna9YAXfdiYY-CRq6e4aOGySY6CgFGppZ6WQXpmgpa-mB1NQoGCroKpvFAwgxEgFk1CoZAEgSNoDRCBATBKlGFwIrAJvoY1iiA5B83bQaT68HkFrCOx02roGofN8-BG_24aQW6SUD5NuymG0FNb5wMJvvB5BSInsYumOmNexAmNXZgmt64DMN05GDb1QMNNlNgsFngDDZjIDaFG2qGZBxItAYsD2JDaCMiggwUPI-bQZ6CBcMSJNWPm0DOBgUYTPRx8wwktRMeN8P8jSvUpoKNgYUIKCRgMQKxoBMq2gITadyBpHYDhukoia0TGmqWwFAzNMIZbKBAgGFIkICSGYiGJiwQF4RBoQgJSVDYgjA8tNHCDZzImleC2aCwAYURJPmByea1YHIRVAZEP25aDRYDk2D9oBAEJaDHzSDPIxIgehBuAuvoBrPXQQMGZOfjRrBYUw-YbILKQAIcFKyPm8CmN4ISO8gVkKQ7E64HI0Cfzp4Ny73GoBA1o1b-BYnWwMMSV1rcCA4FsPub-6DhMwmq9nEzUhKCi8JNAupeg910eCjOh4cfJNGCwmo6zHR48gOJgkISnkDB4QUSBenEnRR3TYGFnDkw5IwMcIccEEMyrik8w0IgJOFBApCULLwf7CVQgMGCYjuyB2BJDUxDghIWVKCgBCVHPMHWBEqUj5sakYIHZB8ieKAFRONauH0NSC4BJVBU02uRqxIf5KrEAlqTgMLJND4emLziwTQwBIBktGF8LJgbbQpkIImBGCClaEIwn4BMA_GRtJqAmCZAJoiBZgNMKQHTYBiiDObaaLP4XJAFcLuQLEXIIwTJ9S5EGYotyA4E8XF4DcxA0orHu8CI0rVTAMVVtI9hrAKcbQRmK3MBAA)]
 
 ## 分析
 
@@ -73,19 +94,19 @@ tmd_source:
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [Main #1 @ m.1, 0:00]
-   - 最高音: E5 in [Main #1 @ m.16, 0:14]
+   - 最高音: E5 in [Main #1 @ m.6, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (19.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, G, A, B, E
-   - 調性數值:    G 調性不明確 [相關度: 0.81, 穩定度: Ambiguous, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.81), D 大調 (0.80), B 小調 (0.64)
+   - 核心骨幹音:  G, D, E, A, B
+   - 調性數值:    G 大調 [相關度: 0.90, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.90), D 大調 (0.68), E 小調 (0.61)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 調性不明確 (r: 0.81, 自然音純度: 100.0%)
+     • [Main #1]: G 大調 (r: 0.90, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -98,21 +119,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ███                        2.7%
+     C  :                            0.0%
      C# :                            0.0%
-     D  : ████████████████████████  24.0%
+     D  : ████████████████          24.7%
      D# :                            0.0%
-     E  : ████████████████          16.0%
+     E  : █████████                 14.0%
      F  :                            0.0%
-     F# : █                          1.3%
-     G  : ███████████████████       18.7%
+     F# :                            0.0%
+     G  : ████████████████████████  36.0%
      G# :                            0.0%
-     A  : ███████████████████       18.7%
+     A  : █████████                 14.0%
      A# :                            0.0%
-     B  : ███████████████████       18.7%
+     B  : ████████                  11.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 46 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 49 個音符)
 ================================================================================
 ```
 

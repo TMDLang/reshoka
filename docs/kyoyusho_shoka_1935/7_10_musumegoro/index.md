@@ -4,7 +4,7 @@ song_title: "娘ごろ"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_7_10_musumegoro"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈娘ごろ〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：山口充一、作曲：臺灣教育會選曲），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） 咲けよ咲きましよどんどと咲けよ…"
+description: "〈娘ごろ〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：山口充一、作曲：臺灣教育會選曲），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） 咲けよ咲きましよどんどと咲けよ…"
 keywords: "娘ごろ, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 山口充一, 臺灣教育會選曲"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -24,6 +24,9 @@ audio:
   - id: "musumegoro"
     label: "鋼琴伴奏版"
     file: "musumegoro.mp3"
+  - id: "musumegoro_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "musumegoro_neutrino.mp3"
 tmd_source:
   - "musumegoro.tmd"
   - "musumegoro_piano.tmd"
@@ -34,6 +37,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="musumegoro.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="musumegoro_neutrino.mp3"></audio>
 
 - 作詞：山口充一
 - 作曲：臺灣教育會選曲

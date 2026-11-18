@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1461 首歌曲、整理 1240 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1461 首歌曲、整理 1246 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -320,9 +320,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [茶摘歌](kyoyusho_shoka_1935/7_15_chatsumi_uta/index.md)
 
-### 小野正雄（1 首）
+### 小野正雄（2 首）
 
 - [臺車のをぢさん](kyoyusho_shoka_1935/3_25_daisha_no_ojisan/index.md)
+- [蕃山踊の歌](kyoyusho_shoka_1935/7_21_banzan_odori_no_uta/index.md)
 
 ### 小野竹三（1 首）
 
@@ -1045,6 +1046,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [せんだん](kyoyusho_shoka_1935/7_18_sendan/index.md)
 
+### 赤尾寅吉（1 首）
+
+- [エンヤラヤ節](kyoyusho_shoka_1935/7_20_enyaraya_bushi/index.md)
+
 ### 足立貞一（1 首）
 
 - [昭和の御代](kyoyusho_shoka_1935/4_30_showa_no_miyo/index.md)
@@ -1056,6 +1061,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 近藤朔風（1 首）
 
 - [ローレライ](shintei_jido_shoka/koto_girls_2020.006.0849/1_1_08_rorerai/index.md)
+
+### 酒森元平（1 首）
+
+- [國語おぼえて](kyoyusho_shoka_1935/8_01_kokugo_oboete/index.md)
 
 ### 里見義（4 首）
 

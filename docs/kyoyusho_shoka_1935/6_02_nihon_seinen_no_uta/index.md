@@ -97,7 +97,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nihon_seinen_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMDJB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpEVZaZn5lnl5uclgXyKIVGSmAkNgPLE-NzEzLycxDwkl5RkpALDKTO3AOjGxBx08eT83NzSvMySSrBETiXQAUB3WCk8m9b-snnF8zmNLxt3gKWACgvyi1OLgFJzNz7Ztebl_M3PVjQ9Xbvj2YKFSlxaWgrPpi99NmfNy7mTnu7c8rhx3bO1PQpaWlyKtgqGBiZc9rYKzlw2JvomdiCzXrTvet64-PmOvc_nLn66a86Ltcueds98urHhcUPXs6kzXzRtetbZ8HzKCoWnUzYCjQEKPZs74eXstscN3e_3dDybsfbppJ6nvY1Ae97v6Xm-ZdGz2TtezJyvYGBuZKpgaGLxfk-nEheXvpaCLbUAl4ICyDCFp33zQXZtbn-xoutFRzvQbS9WznvaugIYWCB5kLLHzbufTdn2sqfl5YLGZ2sWvt8zC6JJoaBAT8HQ3PhRw2RDcxOQN_qan_X3P1s1RQGU8vSyCtKBUkCmGYgJ9ALIa2vWPG1d-3z1AgVIqEKCQwEo_GRXz8tl0x43NEGtBDrj2exNz1bMfLFiBtBK5Mh7v6cfM8KAimGO7e4Fhh3QMy8b5j_dtQyo-XFz_8up21-s2g90pLPC0yXLwUyQe4A-ebF2DkTH094NCs5AFcAoVQCKQBRAzHjc0PNiIZC9CWjLy0UrHjd3Kzztbn_cPO9x0_bHTesVHs1caQtMEwpP9vY-bgAimCeAyp_u6X--dcKz5cB4ngUK19mbnuzY_XL1FAUjI4WnG_qfr28AWumo8GzdVqCFz_qWPtkBTDONwNB41gFyrmteiqERJOAUDIESRgpAHU_7e18sawOqB3ryyY5OuEpjqEJjsKLWFcDweb5mGTDyns2dD1QNdNeTXVOeb58F9PLT1uVA_z6bA_RjB9BKoOzzzvanje1PJ_QCDQUJ7uoBCj7duRki-HI2MDUvgSQPNFuAUQMyatoeYOIAJhFQ5JsBlTybDE0nECUvFgPtXKrgY6zwZPfSJ_v2P10HzAVbQK5ftxXin2d7pjxd2g8KPFDoAe1_3NCAmQPBknBHgzhANU_bdz1uXPq4qftx44rHjZMfN_WCJTZNAyp83Nj1uBEUm48blzzbugossupxIygBPOucDOaCgvJx48Kn61tA3KYOMHcm0Linm7eBDeqY-HwtUGj98517wBqWgFVMetzUBZJ-0b0UaAPEqY-bJoHjHmhp01ygxJNdu8Bm9j9uBDqu7XHjSnBENIBF5gNNAroEpOH57NlgdU0g6aauJzuAjp4AckHXbIh5vY8bdz9u3PR8NdAYoCagH-dCvfm0E6wVKAp1ef_L2S2PG1rB5gHdOBcsOB0oDjGp5XHjNAiJcDIsUMGRjjdQHzdOBZr0uKnzRddGkD9AXKDbVoOdt_XlTGDuBLoF6DmYSSCfNvUANQDDD-x0IoMNZjjILohcG8gQoLdBIbn65TRQyQkMEaAg2IMT4b4DauoDhgVQ6_MpwHQPZADjFaiiFygIDustU8CiID4kwJ6tXQwWAUbIAhJCawfIZryh9XQJML6BBjc9btwHTYLTl0LcDeauA4oDIx0YIiBG48ync7oRYQZPc6SE2dMlq17O3AvzTcvjJqDTQekb1TVNjRDrX86cABYBuhoYZF2gYmA_JHCAIhPBabEHrHPOBlD2WwospMABB4pKUA56sgcS3-vAxm2GBvCzGUDDgAb0A4tasGo8YQmph6gDFLT0ubgcrQIyE_PyHWoMaqpBpivYGJpp2YFZwAoUVNPsaAAW5goauXqGuiaaID0guRqF6rRaBUMFXTCE0EbAMg7CN4XSNQqGcVAmDMKkYLAGQxNcC0yiBkMTTMYMpgLsJh_DGmAtMgkq9rhpCYRubgXi1TDR5g64qY-bNqOZ-7h5LYbzHjetgpsIk33c3AJndSFUNs9HN69pGVxdI6pbjYDqGzfBZBsh5gGzBFBPN1x0BcLsxskYZvdiurVxKlxvP1xdJ1xsA5JKmK_g5iHphZkMdasxbcJ1EVx2HpyFCFeYfSC7-zDMQ-iAmVIDLmdgiXYXqAUCSrSmuhZIiRaUYECJyQSIQYnICKoZkdRAMtigAVxFdS4w5cOUQTSawA2C5YgaBfN4JN0we1GCACnRwiL6cdNOuMfgQdu0HW4owuPoEGYbSM16uBlr4KyVcBYsYYBUwoIbYg8oOT5uRk8YyAkW7qbG3XDWVjgLyeTGHsLubEIkUZhq5MQK8wXINEiSg8mAkgaw-MXuTnBihWdZREJBhCywBYoIAVhmw-NOqocnSunaCU2olrqGRkgpFaQSOZXCEha8yMNITzCISMvgIppwAQzTBJJBTqjwUhyeUCEeBgXH4yZQUoCUiIhAfNw8G27q42b0UgAeMM2wcg-5dEUEG0aAYbEXVq5CZGCJBpFUISaBogZYN4PJXjCJmYBBbkAvWxFuQSqFGtETHKYINnvbUHTAkg0isWL6bS1YZPCEKVJyfTp7NqwxYKxraIbcHMgtqIUnPRiElZKEEy1S8YrUroCYB-zTwxIxnAEsX5F0G4GEMVI6cgELy8KIENkP9yks02KrwWEQuThA1FuQUAXVZI-bYHUrouAGqYXV-hB14HCGFx1o7gQXsLA6GK4HXqjCVSMVknhcCU93MNUgGpImIeYiuRLeDkGoBzZnsbsSVLzCww6hB1ZAP26GsUDqkFMUDncitQIWQuk-aEhBTF6HUItSlMJS7Ua4fljhjNYSmAJLsea6RgYoKRaY0mApEwRBKQqeiCDJywwtyYLYMD4oyYISK4iP1NAFp0WYWpg6iBq4FFwdRpsXKc3CW5sQ34FKAeRWGCQOQKkXvcUF4SHaXKDQhqRy5KYGQjUsb0DUgdICSB1qmgA1QRAqEfGNnHZRKj9wSgZ2k-A6IO1DUHrGVNuLpALqDrAYyGcwUYRqWI6AqAPlWJCJC1DUTEdRibAPuZGAkjfBbUzkFj5EL6hEQG-BPm4G1ReIkAS7A5yOQe5FtIgRaRglhMFlMchMWLkOUQOyGXsII5e_rWuBqflpZ-_T3i5QmjYy1DVCbjVUp0ETJAhipEREt8wYvayEQbABcI3IqXEbhsuQxOC1Fbq_kCGi9kJONdNgsvA4QhZDLqVgNTaGufD6G7mMoq57a7m4wGOLeHvLhnpGesDRr_3gmDFORIoXjLoJBuH1HlJdhZzzkCG81ESEHrx9glstxOXGeB1ujOTsJGKcDYNQp-BzNUIp0CW6dgqO0T6GsQpABjg8YRygqBGyKIQDFDWGiQLbAnYKylwA)]
+- [主旋律 TMD 檔案](nihon_seinen_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQKMDJB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpEVZaZn5lnl5uclgXyKIVGSmAkNgPLE-NzEzLycxDwkl5RkpALDKTO3AOjGxBx08eT83NzSvMySSrBETiXQAUB3WCk8m9b-snnF8zmNLxt3gKWACgvyi1OLgFJzNz7Ztebl_M3PVjQ9Xbvj2YKFSlxaWgrPpi99NmfNy7mTnu7c8rhx3bO1PQpaWlyKtgqGBiZc9rYKzlw2JvomdiCzXrTvet64-PmOvc_nLn66a86Ltcueds98urHhcUPXs6kzXzRtetbZ8HzKCoWnUzYCjQEKPZs74eXstscN3e_3dDybsfbppJ6nvY1Ae97v6Xm-ZdGz2TtezJyvYGBuZKpgaGLxfk-nEheXvpaCLbUAl4ICyDCFp33zQXZtbn-xoutFRzvQbS9WznvaugIYWCB5kLLHzbufTdn2sqfl5YLGZ2sWvt8zC6JJoaBAT8HQ3PhRw2RDcxOQN_qan_X3P1s1RQGU8vSyCtKBUkCmGYgJ9ALIa2vWPG1d-3z1AgVIqEKCQwEo_GRXz8tl0x43NEGtBDrj2exNz1bMfLFiBtBK5Mh7v6cfM8KAimGO7e4Fhh3QMy8b5j_dtQyo-XFz_8up21-s2g90pLPC0yXLwUyQe4A-ebF2DkTH094NCs5AFcAoVQCKQBRAzHjc0PNiIZC9CWjLy0UrHjd3Kzztbn_cPO9x0_bHTesVHs1caQtMEwpP9vY-bgAimCeAyp_u6X--dcKz5cB4ngUK19mbnuzY_XL1FAUjI4WnG_qfr28AWumo8GzdVqCFz_qWPtkBTDONwNB41gFyrmteiqERJOAUDIESRgpAHU_7e18sawOqB3ryyY5OuEpjqEJjsKLWFcDweb5mGTDyns2dD1QNdNeTXVOeb58F9PLT1uVA_z6bA_RjB9BKoOzzzvanje1PJ_QCDQUJ7uoBCj7duRki-HI2MDUvgSQPNFuAUQMyatoeYOIAJhFQ5JsBlTybDE0nECUvFgPtXKrgY6zwZPfSJ_v2P10HzAVbQK5ftxXin2d7pjxd2g8KPFDoAe1_3NCAmQPBknBHgzhANU_bdz1uXPq4qftx44rHjZMfN_WCJTZNAyp83Nj1uBEUm48blzzbugossupxIygBPOucDOaCgvJx48Kn61tA3KYOMHcm0Linm7eBDeqY-HwtUGj98517wBqWgFVMetzUBZJ-0b0UaAPEqY-bJoHjHmhp01ygxJNdu8Bm9j9uBDqu7XHjSnBENIBF5gNNAroEpOH57NlgdU0g6aauJzuAjp4AckHXbIh5vY8bdz9u3PR8NdAYoCagH-dCvfm0E6wVKAp1ef_L2S2PG1rB5gHdOBcsOB0oDjGp5XHjNAiJcDIsUMGRjjdQHzdOBZr0uKnzRddGkD9AXKDbVoOdt_XlTGDuBLoF6DmYSSCfNvUANQDDD-x0IoMNZjjILohcG8gQoLdBIbn65TRQyQkMEaAg2IMT4b4DauoDhgVQ6_MpwHQPZADjFaiiFygIDustU8CiID4kwJ6tXQwWAUbIAhJCawfIZryh9XQJML6BBjc9btwHTYLTl0LcDeauA4oDIx0YIiBG48ync7oRYQZPc6SE2dMlq17O3AvzTcvjJqDTQekb1TVNjRDrX86cABYBuhoYZF2gYmA_JHCAIhPBabEHrHPOBlD2WwospMABB4pKUA56sgcS3-vAxm2GBvCzGUDDgAb0A4tasGo8YQmph6gDFLT0ubgcrQIyE_PyHWoMaqpBpivYGJpp2YFZwAoUVNPsaAAW5goauXqGuiaaID0guRqF6rRaBUMFXTCE0EbAMg7CN4XSNQqGcVAmDMKkYLAGQxNcC0yiBkMTTMYMpgLsJh_DGmAtMgkq9rhpCYRubgXi1TDR5g64qY-bNqOZ-7h5LYbzHjetgpsIk33c3AJndSFUNs9HN69pGVxdI6pbjYDqGzfBZBsh5gGzBFBPN1x0BcLsxskYZvdiurVxKlxvP1xdJ1xsA5JKmK_g5iHphZkMdasxbcJ1EVx2HpyFCFeYfSC7-zDMQ-iAmVIDLmdgiXYXqAUCSrSmuhZIiRaUYECJyQSIQYnICKoZkdRAMtigAVxFdS4w5cOUQTSawA2C5YgaBfN4JN0we1GCACnRwiL6cdNOuMfgQdu0HW4owuPoEGYbSM16uBlr4KyVcBYsYYBUwoIbYg8oOT5uRk8YyAkW7qbG3XDWVjgLyeTGHsLubEIkUZhq5MQK8wXINEiSg8mAkgaw-MXuTnBihWdZREJBhCywBYoIAVhmw-NOqocnSunaCU2olrqGRkgpFaQSOZXCEha8yMNITzCISMvgIppwAQzTBJJBTqjwUhyeUCEeBgXH4yZQUoCUiIhAfNw8G27q42b0UgAeMM2wcg-5dEUEG0aAYbEXVq5CZGCJBpFUISaBogZYN4PJXjCJmYBBbkAvWxFuQSqFGtETHKYINnvbUHTAkg0isWL6bS1YZPCEKVJyfTp7NqwxYKxraIbcHMgtqIUnPRiElZKEEy1S8YrUroCYB-zTwxIxnAEsX5F0G4GEMVI6cgELy8KIENkP9yks02KrwWEQuThA1FuQUAXVZI-bYHUrouAGqYXV-hB14HCGFx1o7gQXsLA6GK4HXqjCVSMVknhcCU93MNUgGpImIeYiuRLeDkGoBzZnsbsSVLzCww6hB1ZAP26GsUDqkFMUDncitQIWQuk-aEhBTF6HUItSlMJS7Ua4fljhjNYSmAJLsea6RgYoKRaY0mApEwRBKQqeiCDJywwtyYLYMD4oyYISK4iP1NAFp0WYWpg6iBq4FFwdRpsXKc3CW5sQ34FKAeRWGCQOQKkXvcUF4SHaXKDQhqRy5KYGQjUsb0DUgdICSB1qmgA1QRAqEfGNnHZRKj9wSgZ2k-A6IO1DUHrGVNuLpALqDrAYyGcwUYRqWI6AqAPlWJCJC1DUTEdRibAPuZGAkjfBbUzkFj5EL6hEQG-BPm4G1ReIkAS7A5yOQe5FtIgRaRglhMFlMchMWLkOUQOyGXsII5e_rWuBqflpZ-_T3i5QmjYy1DVCbjVUp0ETJAhipEREt8wYvayEQbABcI3IqXEbhsuQxOC1Fbq_kCGi9kJONdNgsvA4QhZDLqVgNTaGufD6G7mMoq57a7m4wGOLeHvLhnpGesDRr_3gmDFORIoXjLoJBuH1HlJdhZzzkCG81ESEHrx9glstxOXGeB1ujOTsJGKcDYNQp-BzNUIp0CW6dgqOCkACHJZQBrCSt1NQ5gIA)]
 - [鋼琴伴奏 TMD 檔案](nihon_seinen_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUMqpLMpMziwusVJ4Nq39ZfOK53MaXzbuUAJJJefnFuQXpxYBpeZufLJrzcv5m5-taHq6dsezBQuVuLS0FJ5NX_pszpqXcyc93bnlceO6Z2t73u_peNm95_mELU_2bHm6tP_F2jnv93QqaGlxKdoqGBqYcNnbKjhz2Zjom9iBLHjRvut54-LnO_Y-n7v46a45L9Yue9o98-nGhscNXc-mznzRtOlZZ8PzKSsUnk7ZCDQbKPRs7oSXs9seN3QD7Xk2Y-3TST1PexuBlr_f0_N8y6Jns3e8mDlfwcDcyFTB0MQCaLMSF5ejVUBmYl5-kIdDjUFNNZcCENgYmmnZgVn6WgrP16x5sqPhxcIeBY1cPUNdE00FLX2wXI1CdVqtgqGCLhhCaCMFYyjfFErXKBjGQZkwCJOCwRoMTXAtMIkaDE0wGTOYCrCbfAxrFB43T4KKPW5aAqGbW4F4NUy0uQNu6uOmzWjmPm5ei-G8x02r4CbCZB83t8BZXQiVzfPRzWtaBlfXiOpWI6D6xk0w2UaIeY8blwL1dMNFVyDMbpyMYXYvplsbp8L19sPVdcLFNiCphPkKbh6SXpjJULca0yZcF8Fl58FZiHCF2Qeyuw_DPIQOmCk1XMiJdlcPNNGa6logJVpQggElJhMgBiUiI6hmRFIDyWCDBnAV1bnAlA9TBtFoAjcIliNqFMzjkXTD7EUJAqREC4vox0074R6DB23TdrihCI-jQ5htIDXr4WasgbNWwlmwhAFSCQtuiD2g5Pi4GT1hICdYuJsad8NZW-EsJJMbewi7swmRRGGqkRMrzBcg0yBJDiYDShqPm2AZD82d4MQKz7KIhIII2SYkk5thmQ2PO6keniilayc0oVrqGhohpVSQSuRUCktY8CIPIz3BICItg4towgUwTBNIBjmhwktxeEKFeBgUHI-bQEkBUiIiAvFx82y4qY-b0UsBeMA0w8o95NIVEWwYAYbFXli5CpGBJRpEUoWYBIqax40g10HKNGwJGOQG9LIV4RakUqgRPcFhimCztw1FByzZIBIrpt_WgkUGT5giJdens2fDGgPGuoZmyM2B3IJaeNKDQVgpSTjRIhWvSO0KiHnA9gosEcMZwPIVSbcRSBgjpSMXsLAsjAiR_XCfwjItthocBpGLA0S9BQlVUE32uAlWtyIKbpBaWK0PUQcOZ3jRgeZOcAELq4PheuCFKlw1UiGJx5XwdAdTDaIhaRJiLpIr4e0QhPrHjROxuxJUvMLDDqEHVkA_boaxQOqQUxQOdyK1AhZC6T5oSEFMXodQi1KUwlLtRrh-WOGM1hKYAkux5rpGBigpFpjSYCkTBEEpCp6IIMnLDC3JgtgwPijJghIriI_U0AWnRZhamDqIGrgUXB1GmxcpzcJbmxDfgUoB5FYYJA5AqRe9xQXhIdpcoNCGpHLkpgZCNSxvQNSB0gJIHWqaADVBECoR8Y2cdlEqP3BKftwIa7k9boK0D0HpGVNtL5IKqDvAYiCfwUQRqmE5AqIOlGNBJi5AUTMdRSXCPuRGAkreBLcxkVv4EL2gEgG9Bfq4GVRfIEIS7A5wOga5F9EiRqRhlBAGl8UgM2HlOkQNyGbsIYxc_rauBabmp529T3u7QGnayFDXCLnVUJ0GTZAgiJESEd0yY_SyEgbBBsA1IqfGbRguQxKD11bo_kKGiNoLOdVMg8nC4whZDLmUgtXYGObC62_kMoq67q2F95V9kPvKJoiuMrh_jIgJw3iFaMNYGAXnm8ajCaArMAMpMIvPBQohTAZ2YhAmm8SD1CIMAvKjTWIVjOKBJQ2wjEGTBbEgYmA-wkxQexPDuVCzcDsXu4BpPIrR4LYBUWaDXIweEHATMd0MLsJRQgLoNXCIgV2ANUyRTUKYDfcHwnBwXkIYjqoUw3yIl4HJwjUvxdAI3zAKlkEQGIS3epBaKsjlLjKE15mIvANvneJWi-pArGkX2VvA-IBqMSbTSzAIdSY-HyGUoliJ35FwDbp2Co7RPiAROwWwF2EcoKgRsiiEAxQ1hokCm5V2CspcAA)]
 
 ## 分析
@@ -106,28 +106,25 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 日本青年の歌 ]
 ================================================================================
-⏱  Duration:       2:39 (159.2s), 69 measures total
+⏱  Duration:       0:55 (55.4s), 24 measures total
 🎼 Key & Tempo:    首調基準 C, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    B3 (MIDI 59) – E5 (MIDI 76) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  B3 in [A[L1] #1 @ m.8, 0:16]
-   - 最高音: E5 in [A[L1] #1 @ m.22, 0:48]
+   - 最低音:  B3 in [A #1 @ m.8, 0:16]
+   - 最高音: E5 in [A #1 @ m.22, 0:48]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      A[L1] (50.8s) -> End12[L1] (2.3s) -> A[L2] (50.8s) -> End12[L2] (2.3s) -> A[L3] (50.8s) -> End3 (2.3s)
+🏛  結構:      A (50.8s) -> End12 (2.3s) -> End3 (2.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  G, C, E, D, F
-   - 調性數值:    C 大調 [相關度: 0.90, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): C 大調 (0.90), G 大調 (0.80), E 小調 (0.68)
-   - 五度圈歷程:   +0 -> +0 -> +0 -> +0 -> +0 -> +0
+   - 調性數值:    C 大調 [相關度: 0.93, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): C 大調 (0.93), G 大調 (0.78), E 小調 (0.65)
+   - 五度圈歷程:   +0 -> +0 -> +0
    - 各段落調性細節:
-     • [A[L1] #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
-     • [End12[L1] #1]: C 調性不明確 (r: 0.68, 自然音純度: 100.0%)
-     • [A[L2] #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
-     • [End12[L2] #1]: C 調性不明確 (r: 0.68, 自然音純度: 100.0%)
-     • [A[L3] #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [A #1]: C 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [End12 #1]: C 調性不明確 (r: 0.68, 自然音純度: 100.0%)
      • [End3 #1]: C 調性不明確 (r: 0.68, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
@@ -141,21 +138,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████████          22.7%
+     C  : ███████████████████       25.8%
      C# :                            0.0%
-     D  : ███████                    9.3%
+     D  : ███████                    9.0%
      D# :                            0.0%
-     E  : ███████████               15.8%
-     F  : █████                      7.1%
+     E  : ███████████               15.2%
+     F  : █████                      6.8%
      F# :                            0.0%
-     G  : ████████████████████████  33.1%
+     G  : ████████████████████████  31.8%
      G# :                            0.0%
-     A  : █████                      7.1%
+     A  : █████                      6.8%
      A# :                            0.0%
-     B  : ███                        4.8%
+     B  : ███                        4.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : B3 – E5 (17 個半音 / 1.4 個八度, 237 個音符)
+  - Piano         : B3 – E5 (17 個半音 / 1.4 個八度, 80 個音符)
 ================================================================================
 ```
 

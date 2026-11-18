@@ -4,7 +4,7 @@ song_title: "田植歌"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_7_14_taue_uta"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈田植歌〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：土川五郎、作曲：梁田貞），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一四　田植歌 （一）…"
+description: "〈田植歌〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：土川五郎、作曲：梁田貞），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一四　田植歌 （一）…"
 keywords: "田植歌, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 土川五郎, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -25,6 +25,9 @@ audio:
   - id: "taue_uta"
     label: "鋼琴伴奏版"
     file: "taue_uta.mp3"
+  - id: "taue_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taue_uta_neutrino.mp3"
 tmd_source:
   - "taue_uta.tmd"
   - "taue_uta_piano.tmd"
@@ -35,6 +38,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="taue_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taue_uta_neutrino.mp3"></audio>
 
 - 作詞：土川五郎
 - 作曲：梁田貞

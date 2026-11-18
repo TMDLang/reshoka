@@ -13,3 +13,4 @@ docs/**/*.mp3
 docs/**/*.wav
 docs/**/*.mid
 docs/**/*.pdf
+*.musicxml

@@ -4,7 +4,7 @@ song_title: "さつき踊"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_7_16_satsuki_odori"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈さつき踊〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：水谷武夫、作曲：水谷武夫），調號拍號：B, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一六　さつき踊 （一）…"
+description: "〈さつき踊〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：水谷武夫、作曲：水谷武夫），調號拍號：B, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一六　さつき踊 （一）…"
 keywords: "さつき踊, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 水谷武夫"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -24,6 +24,9 @@ audio:
   - id: "satsuki_odori"
     label: "鋼琴伴奏版"
     file: "satsuki_odori.mp3"
+  - id: "satsuki_odori_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "satsuki_odori_neutrino.mp3"
 tmd_source:
   - "satsuki_odori.tmd"
   - "satsuki_odori_piano.tmd"
@@ -34,6 +37,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="satsuki_odori.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="satsuki_odori_neutrino.mp3"></audio>
 
 - 作詞：水谷武夫
 - 作曲：水谷武夫

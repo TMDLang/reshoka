@@ -4,7 +4,7 @@ song_title: "せんだん"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_7_18_sendan"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈せんだん〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：豐田繁雄、作曲：臺灣教育會），調號拍號：E, 6/8。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一八　せんだん （一）…"
+description: "〈せんだん〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（作詞：豐田繁雄、作曲：臺灣教育會），調號拍號：E, 6/8。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一八　せんだん （一）…"
 keywords: "せんだん, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 豐田繁雄, 臺灣教育會"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -24,6 +24,9 @@ audio:
   - id: "sendan"
     label: "鋼琴伴奏版"
     file: "sendan.mp3"
+  - id: "sendan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sendan_neutrino.mp3"
 tmd_source:
   - "sendan.tmd"
   - "sendan_piano.tmd"
@@ -34,6 +37,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="sendan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sendan_neutrino.mp3"></audio>
 
 - 作詞：豐田繁雄
 - 作曲：臺灣教育會
