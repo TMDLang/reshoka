@@ -667,6 +667,27 @@ def render_single_song(
                     f"   ℹ️  {prepared_part.part_name} 偵測到 NEUTRINO 自動插入前導 1 小節休止符 ({prepended_rest_sec:.4f}s)"
                 )
 
+            # NEUTRINO 可能會在第一小節前自動補一小節休止。這段休止
+            # 不屬於伴奏的時間軸，必須依 timing.lab 的第一個音素位置
+            # 裁掉；保留約 30ms 的字頭子音先行量，並讓伴奏同步延後。
+            vocal_trim_sec = 0.0
+            piano_delay_ms = 0.0
+            if prepended_rest_sec > 0:
+                first_phoneme_sec = prepended_rest_sec
+                if timing_lab.exists():
+                    timing_lines = timing_lab.read_text(encoding="utf-8").splitlines()
+                    if timing_lines:
+                        first_line = timing_lines[0].split()
+                        if len(first_line) >= 3 and first_line[2] == "pau":
+                            first_phoneme_sec = int(first_line[1]) / 10_000_000.0
+                vocal_trim_sec = max(0.0, min(prepended_rest_sec, first_phoneme_sec - 0.030))
+                piano_delay_ms = max(0.0, (prepended_rest_sec - vocal_trim_sec) * 1000.0)
+                print(
+                    f"   🎯 {prepared_part.part_name} 對齊校正："
+                    f"裁切前導空白 {vocal_trim_sec:.4f}s，"
+                    f"伴奏基準延遲 {piano_delay_ms:.1f}ms"
+                )
+
             part_model_name = resolve_part_model(
                 prepared_part.part_name,
                 args.model,
@@ -727,6 +748,8 @@ def render_single_song(
                     "part_name": prepared_part.part_name,
                     "lyric_number": prepared_part.lyric_number or "1",
                     "leading_rest_sec": prepared_part.leading_rest_measures * measure_duration_sec,
+                    "auto_trim_sec": prepended_rest_sec if vocal_only else vocal_trim_sec,
+                    "delay_ms": 0.0 if vocal_only else piano_delay_ms,
                     "gain_db": vocal_gain_db,
                 }
             )
@@ -739,8 +762,11 @@ def render_single_song(
         )
         first_stanza = stanza_numbers[0] if stanza_numbers else "1"
         for track in vocal_tracks:
+            trim_sec = float(track["auto_trim_sec"])
             if str(track["lyric_number"]) != first_stanza:
-                ffmpeg_cmd += ["-ss", f"{float(track['leading_rest_sec']):.6f}"]
+                trim_sec += float(track["leading_rest_sec"])
+            if trim_sec > 0:
+                ffmpeg_cmd += ["-ss", f"{trim_sec:.6f}"]
             ffmpeg_cmd += ["-i", str(track["path"])]
 
         # Each stanza is a separate vocal take.  Mix voices within the same
@@ -806,6 +832,9 @@ def render_single_song(
 
         piano_index = len(vocal_tracks)
         piano_filter = f"[{piano_index}:a]volume={piano_gain_db:.2f}dB,volume={args.piano_volume}"
+        max_delay_ms = max(float(track["delay_ms"]) for track in vocal_tracks)
+        if max_delay_ms > 0.5:
+            piano_filter += f",adelay={int(round(max_delay_ms))}:all=1"
         piano_filter += "[p]"
         filter_parts.append(piano_filter)
         mix_inputs = "[vocals][p]"
