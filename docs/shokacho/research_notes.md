@@ -10,6 +10,8 @@ image: vol_07/p246_ushi_yo_ushi_yo/P246.jpg
 
 本文件記錄我們在逐頁辨識、校對並將國立臺灣歷史博物館（NMTH）館藏號 [`2020.006.0843`](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0843)（全 6 冊、259 頁、195 首樂曲）轉錄為 TMD 樂譜的過程中，整理出的史料觀察與文獻對照。
 
+- ⏳ **專題編年考證：[《楊金土手抄唱歌帖》編年抄錄時間軸與冊次考證（1923–1934）](timeline.md)**
+
 ## 〇、館藏連結與高解析度掃描圖檔抓取 URL 規則
 
 - **臺史博典藏系統頁面**：`https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.006.0843`
