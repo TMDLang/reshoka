@@ -169,7 +169,7 @@ python3 scripts/generate_song_markdown.py --soundfont /path/to/piano.sf2 --keep-
 ---
 
 ### 2. [`scripts/render_neutrino_mix.py`](../scripts/render_neutrino_mix.py) — NEUTRINO 人聲合成與伴奏混音腳本
-將 TMD 樂譜中的日文歌詞軌（`L|`、`L1|`..`L64|`）透過 NEUTRINO 轉為人聲，並用 `ffmpeg` 與鋼琴伴奏混音輸出 `<stem>_neutrino.mp3`。
+將 TMD 樂譜中的日文歌詞軌（`L|`、`L1|`..`L64|`）透過 NEUTRINO 轉為人聲，並用 `ffmpeg` 與鋼琴伴奏混音輸出 `<stem>_neutrino.mp3`。腳本會使用 `tmd --flatten-repeats`，讓人聲與伴奏共用同一條展開後的 playback 時間軸。
 
 **核心自動化處理機制**：
 1. **前奏／間奏無歌詞音符自動轉休止符**：匯出 MusicXML 後，自動保留含歌詞的聲部（如 `PianoRH`），並將該聲部中所有「無歌詞且非連音線延音」的純器樂音符（如 `Intro` 前奏、間奏、尾奏）轉換為同等時值的 `<rest/>`，確保時間軸與伴奏 100% 同步且不會觸發 NEUTRINO 空白歌詞崩潰。
@@ -193,7 +193,7 @@ python3 scripts/render_neutrino_mix.py docs/kogakko_shoka/grade_3/1_awoba --repl
 
 | 參數 | 說明 |
 | :--- | :--- |
-| `target` | 單曲目錄、整冊目錄或單一 `.tmd` 檔案路徑 |
+| `target` | 單曲目錄、整冊目錄或 `.tmd` 檔案路徑；支援 `*`、`?`、`[]` 與 `**` 萬用字元，也可一次指定多個目標 |
 | `-m`, `--model` | NEUTRINO 歌手模型名稱（`MERROW`、`RUNO`、`NAKUMO`、`REINA`、`SOMA`，預設：`MERROW`） |
 | `-o`, `--output` | 自訂輸出檔案路徑（預設：`<song_dir>/<stem>_neutrino.mp3`） |
 | `--replace-song-mp3` | 直接覆寫歌曲目錄下的 `<stem>.mp3` |

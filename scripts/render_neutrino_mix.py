@@ -19,6 +19,7 @@ from __future__ import annotations
 import argparse
 from copy import deepcopy
 from dataclasses import dataclass
+import glob
 import os
 import re
 import subprocess
@@ -513,6 +514,38 @@ def resolve_song_tmds(target: Path) -> tuple[Path, Path, str]:
     )
 
 
+def expand_target_paths(targets: list[str]) -> list[Path]:
+    """展開 CLI 目標中的萬用字元，並移除重複路徑。"""
+    expanded: list[Path] = []
+    seen: set[Path] = set()
+
+    for raw_target in targets:
+        pattern = os.path.expanduser(raw_target)
+        if glob.has_magic(pattern):
+            matches = sorted(Path(path).resolve() for path in glob.glob(pattern, recursive=True))
+            if not matches:
+                raise FileNotFoundError(f"萬用字元沒有匹配到任何檔案或目錄：{raw_target}")
+        else:
+            matches = [Path(pattern).resolve()]
+
+        for path in matches:
+            if not path.exists():
+                raise FileNotFoundError(f"找不到檔案或目錄：{path}")
+            if path not in seen:
+                seen.add(path)
+                expanded.append(path)
+
+    return expanded
+
+
+def target_song_key(target: Path) -> Path:
+    """取得目標曲目的去重鍵，避免同時匹配主旋律與鋼琴版時重複渲染。"""
+    if target.is_file() and target.suffix == ".tmd":
+        stem = target.stem.removesuffix("_piano")
+        return target.parent / stem
+    return target
+
+
 def run_cmd(cmd: list[str], cwd: Path | None = None, env: dict[str, str] | None = None) -> subprocess.CompletedProcess:
     res = subprocess.run(cmd, cwd=cwd, env=env, capture_output=True, text=True)
     if res.returncode != 0:
@@ -543,7 +576,7 @@ def render_single_song(
     vocal_src_tmd, accomp_tmd, base_stem = resolve_song_tmds(target)
     song_dir = accomp_tmd.parent
 
-    if args.output and (not Path(args.target).resolve().is_dir() or list(Path(args.target).resolve().glob("*.tmd"))):
+    if args.output:
         output_path = Path(args.output).resolve()
     elif getattr(args, "vocal_only", False):
         output_path = song_dir / f"{base_stem}_vocal.wav"
@@ -591,11 +624,21 @@ def render_single_song(
         raw_musicxml = work_dir / "raw.musicxml"
         run_cmd(["tmd", str(temp_vocal_source), "-x", str(raw_musicxml)])
 
-        expanded_musicxml = work_dir / "expanded.musicxml"
-        expand_musicxml_stanzas(raw_musicxml, expanded_musicxml, stanzas)
+        # TMD 已在匯出階段依照 playback 順序展開 repeat 與 L1/L2 段落。
+        # 人聲與伴奏必須共用這條線性時間軸，不能再對 MusicXML 做第二次展開。
+        flattened_musicxml = work_dir / "flattened.musicxml"
+        run_cmd(
+            [
+                "tmd",
+                str(temp_vocal_source),
+                "--flatten-repeats",
+                "-x",
+                str(flattened_musicxml),
+            ]
+        )
 
         vocal_musicxml_dir = work_dir / "vocal_parts"
-        prepared_parts = prepare_vocal_musicxml_parts(expanded_musicxml, vocal_musicxml_dir)
+        prepared_parts = prepare_vocal_musicxml_parts(flattened_musicxml, vocal_musicxml_dir)
         for prepared_part in prepared_parts:
             if prepared_part.converted_rests > 0:
                 print(
@@ -619,9 +662,9 @@ def render_single_song(
                         str(lh_only_tmd),
                     ]
                 )
-                run_cmd(["tmd", str(lh_only_tmd), "-w", str(piano_wav)])
+                run_cmd(["tmd", str(lh_only_tmd), "--flatten-repeats", "-w", str(piano_wav)])
             else:
-                run_cmd(["tmd", str(accomp_tmd), "-w", str(piano_wav)])
+                run_cmd(["tmd", str(accomp_tmd), "--flatten-repeats", "-w", str(piano_wav)])
 
         # 3. 呼叫 NEUTRINO musicXMLtoLabel 與 neutrino
         env = os.environ.copy()
@@ -672,21 +715,6 @@ def render_single_song(
             # 裁掉；保留約 30ms 的字頭子音先行量，並讓伴奏同步延後。
             vocal_trim_sec = 0.0
             piano_delay_ms = 0.0
-            if prepended_rest_sec > 0:
-                first_phoneme_sec = prepended_rest_sec
-                if timing_lab.exists():
-                    timing_lines = timing_lab.read_text(encoding="utf-8").splitlines()
-                    if timing_lines:
-                        first_line = timing_lines[0].split()
-                        if len(first_line) >= 3 and first_line[2] == "pau":
-                            first_phoneme_sec = int(first_line[1]) / 10_000_000.0
-                vocal_trim_sec = max(0.0, min(prepended_rest_sec, first_phoneme_sec - 0.030))
-                piano_delay_ms = max(0.0, (prepended_rest_sec - vocal_trim_sec) * 1000.0)
-                print(
-                    f"   🎯 {prepared_part.part_name} 對齊校正："
-                    f"裁切前導空白 {vocal_trim_sec:.4f}s，"
-                    f"伴奏基準延遲 {piano_delay_ms:.1f}ms"
-                )
 
             part_model_name = resolve_part_model(
                 prepared_part.part_name,
@@ -738,6 +766,23 @@ def render_single_song(
             if proc.returncode != 0:
                 raise RuntimeError(
                     f"NEUTRINO 執行失敗 ({' '.join(neutrino_cmd)}):\n{''.join(neutrino_out_lines)}"
+                )
+
+            # timing.lab 只有在 NEUTRINO 完成後才會產生；在執行前讀取會永遠讀不到
+            # 真正的第一個 pau，導致前導休止校正失效。
+            if prepended_rest_sec > 0:
+                first_phoneme_sec = prepended_rest_sec
+                timing_lines = timing_lab.read_text(encoding="utf-8").splitlines()
+                if timing_lines:
+                    first_line = timing_lines[0].split()
+                    if len(first_line) >= 3 and first_line[2] == "pau":
+                        first_phoneme_sec = int(first_line[1]) / 10_000_000.0
+                vocal_trim_sec = max(0.0, min(prepended_rest_sec, first_phoneme_sec - 0.030))
+                piano_delay_ms = max(0.0, (prepended_rest_sec - vocal_trim_sec) * 1000.0)
+                print(
+                    f"   🎯 {prepared_part.part_name} 對齊校正："
+                    f"裁切前導空白 {vocal_trim_sec:.4f}s，"
+                    f"伴奏基準延遲 {piano_delay_ms:.1f}ms"
                 )
 
             vocal_max_db = detect_max_volume_db(vocal_wav)
@@ -860,7 +905,11 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="將 TMD 伴奏版/主旋律中的歌詞軌透過 NEUTRINO 轉為人聲，並用 ffmpeg 混入伴奏。"
     )
-    parser.add_argument("target", help="歌曲目錄、冊別目錄或 .tmd 檔案路徑")
+    parser.add_argument(
+        "target",
+        nargs="+",
+        help="歌曲目錄、冊別目錄或 .tmd 檔案路徑；支援 *、?、[] 與 ** 萬用字元",
+    )
     parser.add_argument(
         "-m",
         "--model",
@@ -961,30 +1010,54 @@ def main() -> None:
         model_dirs[model_name] = candidate
     model_dir = model_dirs[args.model]
 
-    target_path = Path(args.target).resolve()
-    if target_path.is_dir() and not list(target_path.glob("*.tmd")):
-        # 批次處理整冊或整個目錄下的所有歌曲子資料夾
-        song_dirs = sorted({p.parent for p in target_path.rglob("*.tmd")})
-        if not song_dirs:
-            sys.exit(f"❌ 在目錄 {target_path} 下找不到任何 .tmd 檔案")
-        print(f"📚 批次處理目錄：{target_path}（共 {len(song_dirs)} 首曲目）\n")
-        failures: list[tuple[Path, Exception]] = []
-        for idx, s_dir in enumerate(song_dirs, start=1):
-            print(f"==================== [{idx}/{len(song_dirs)}] {s_dir.name} ====================", flush=True)
-            try:
-                render_single_song(s_dir, args, neutrino_dir, model_dir, model_dirs)
-            except Exception as exc:
-                failures.append((s_dir, exc))
-                print(f"⚠️ 失敗，略過並繼續：{s_dir}\n{exc}\n", file=sys.stderr, flush=True)
+    try:
+        target_paths = expand_target_paths(args.target)
+    except FileNotFoundError as exc:
+        sys.exit(f"❌ {exc}")
 
-        if failures:
-            print(f"⚠️ 批次處理完成，但有 {len(failures)} 首曲目失敗：", file=sys.stderr)
-            for song_dir, exc in failures:
-                print(f"   - {song_dir}: {exc}", file=sys.stderr)
+    if args.output and len(target_paths) != 1:
+        sys.exit("❌ 使用萬用字元或多個目標時，不能同時指定單一輸出路徑 -o/--output")
+
+    # 以曲目為單位去重；例如 *.tmd 會同時匹配主旋律與 *_piano.tmd。
+    unique_targets: list[Path] = []
+    seen_song_keys: set[Path] = set()
+    for target_path in target_paths:
+        key = target_song_key(target_path)
+        if key not in seen_song_keys:
+            seen_song_keys.add(key)
+            unique_targets.append(target_path)
+
+    failures: list[tuple[Path, Exception]] = []
+    for target_path in unique_targets:
+        if target_path.is_dir() and not list(target_path.glob("*.tmd")):
+            # 批次處理整冊或整個目錄下的所有歌曲子資料夾
+            song_dirs = sorted({p.parent for p in target_path.rglob("*.tmd")})
+            if not song_dirs:
+                sys.exit(f"❌ 在目錄 {target_path} 下找不到任何 .tmd 檔案")
+            print(f"📚 批次處理目錄：{target_path}（共 {len(song_dirs)} 首曲目）\n")
+            for idx, s_dir in enumerate(song_dirs, start=1):
+                print(f"==================== [{idx}/{len(song_dirs)}] {s_dir.name} ====================", flush=True)
+                try:
+                    render_single_song(s_dir, args, neutrino_dir, model_dir, model_dirs)
+                except Exception as exc:
+                    failures.append((s_dir, exc))
+                    print(f"⚠️ 失敗，略過並繼續：{s_dir}\n{exc}\n", file=sys.stderr, flush=True)
         else:
-            print("✅ 批次處理完成，所有曲目皆成功。")
-    else:
-        render_single_song(target_path, args, neutrino_dir, model_dir, model_dirs)
+            if len(unique_targets) == 1:
+                render_single_song(target_path, args, neutrino_dir, model_dir, model_dirs)
+            else:
+                try:
+                    render_single_song(target_path, args, neutrino_dir, model_dir, model_dirs)
+                except Exception as exc:
+                    failures.append((target_path, exc))
+                    print(f"⚠️ 失敗，略過並繼續：{target_path}\n{exc}\n", file=sys.stderr, flush=True)
+
+    if failures:
+        print(f"⚠️ 批次處理完成，但有 {len(failures)} 首曲目失敗：", file=sys.stderr)
+        for song_dir, exc in failures:
+            print(f"   - {song_dir}: {exc}", file=sys.stderr)
+    elif len(unique_targets) > 1:
+        print("✅ 批次處理完成，所有曲目皆成功。")
 
 
 if __name__ == "__main__":

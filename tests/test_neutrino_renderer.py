@@ -7,11 +7,27 @@ from scripts.render_neutrino_mix import (
     parse_part_model_overrides,
     resolve_part_model,
     expand_musicxml_stanzas,
+    expand_target_paths,
     prepare_vocal_musicxml_parts,
 )
 
 
 class NeutrinoRendererTests(unittest.TestCase):
+    def test_expand_target_paths_supports_wildcards(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "a.tmd").write_text("", encoding="utf-8")
+            (root / "b.tmd").write_text("", encoding="utf-8")
+
+            paths = expand_target_paths([str(root / "*.tmd")])
+
+            self.assertEqual(paths, [(root / "a.tmd").resolve(), (root / "b.tmd").resolve()])
+
+    def test_expand_target_paths_rejects_unmatched_wildcard(self):
+        with tempfile.TemporaryDirectory() as directory:
+            with self.assertRaises(FileNotFoundError):
+                expand_target_paths([str(Path(directory) / "*.tmd")])
+
     def test_totoi_takara_contains_two_lyric_parts(self):
         score = (
             Path(__file__).parents[1]
