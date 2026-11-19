@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:weather"
 ~ "tag: origin:taisho_showa_mainland"
+~ "tag: orthography:historical_kana"
 ** 朝 (早晨) **
 != 120
 ?= D

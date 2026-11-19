@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:imperial"
 ~ "tag: origin:taiwan_official"
+~ "tag: orthography:historical_kana"
 ** 皇太子殿下奉迎の歌 **
 != 100
 ?= G

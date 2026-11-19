@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:work"
 ~ "tag: origin:taiwan_official"
+~ "tag: orthography:historical_kana"
+~ "tag: source_page:P070-P071"
 ** 農商工 **
 != 120
 ?= G

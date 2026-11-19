@@ -8,6 +8,8 @@
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
 ~ "tag: origin:taisho_showa_mainland"
+~ "tag: orthography:historical_kana"
+~ "tag: theme:education"
 ** 早く家へ帰りませう（快回家吧） **
 != 100
 ?= C

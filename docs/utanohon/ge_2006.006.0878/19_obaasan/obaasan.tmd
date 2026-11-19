@@ -1,5 +1,14 @@
 ::SCORE::
 ~ "tag: origin:taiwan_official"
+~ "tag: collection:utanohon"
+~ "tag: volume:2"
+~ "tag: source:utanohon_ge"
+~ "tag: source_page:P049-P050"
+~ "tag: provenance:taiwan_governor_general"
+~ "tag: evidence:primary_document"
+~ "tag: version:vocal"
+~ "tag: orthography:historical_kana"
+~ "tag: theme:family"
 ** おばあさん（老奶奶／阿嬤） **
 != 100
 ?= C

@@ -8,6 +8,7 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:plant"
 ~ "tag: origin:meiji_textbook"
+~ "tag: orthography:historical_kana"
 ** 花園 **
 != 100
 ?= E,

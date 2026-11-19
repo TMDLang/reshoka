@@ -7,6 +7,9 @@
 ~ "tag: version:source_transcription"
 ~ "tag: origin:monbusho"
 ~ "tag: origin:meiji_textbook"
+~ "tag: source_page:P026-P029"
+~ "tag: orthography:historical_kana"
+~ "tag: theme:legend"
 ** うらしまたらう（浦島太郎） **
 != 100
 ?= F

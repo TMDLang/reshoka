@@ -1,6 +1,15 @@
 ::SCORE::
 ~ "tag: origin:monbusho"
 ~ "tag: origin:meiji_textbook"
+~ "tag: collection:utanohon"
+~ "tag: volume:2"
+~ "tag: source:utanohon_ge"
+~ "tag: source_page:P037-P040"
+~ "tag: provenance:taiwan_governor_general"
+~ "tag: evidence:primary_document"
+~ "tag: version:vocal"
+~ "tag: orthography:historical_kana"
+~ "tag: theme:legend"
 ** うらしま太郎（浦島太郎） **
 != 108
 ?= G

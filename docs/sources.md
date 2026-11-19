@@ -18,6 +18,7 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 - 📊 [《尋常小學唱歌》專題統計](jinjo_shogaku_shoka/index.md)
 - 📊 [《公學校唱歌》專題統計](kogakko_shoka/statistics.md)
 - 📊 [《教育所用 唱歌教材集》選曲特色與專題考證](kyoyusho_shoka_1935/analysis.md)
+- 🕊️ [《教育所用 唱歌教材集》與大正新童謠運動](kyoyusho_shoka_1935/taisho_doyo.md)
 - 📊 [《新定兒童唱歌》專題統計](shintei_jido_shoka/index.md)
 - 📊 [《共益商社唱歌教科書》專題統計](kyoeki_shoka/index.md)
 - 📊 [《公學校唱歌集》大正四年版專題統計](kogakko_shokashu_1915/analysis.md)
@@ -48,6 +49,7 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 | 《公學校高等科唱歌》 | [第一學年用](kogakko_shoka/koto_1/index.md) | 臺灣總督府編（1936） | 國臺圖 `0729 74` | 25 首 | [書訊與掃描頁](kogakko_shoka/koto_1/0_book_info/index.md) |
 | 《公學校高等科唱歌》 | [第二學年用](kogakko_shoka/koto_2/index.md) | 臺灣總督府編（1936） | 國臺圖 `0729 74` | 25 首 | [書訊與掃描頁](kogakko_shoka/koto_2/0_book_info/index.md) |
 | 《教育所用 唱歌教材集》 | [全一冊（昭和十年版・蕃地教育所用）](kyoyusho_shoka_1935/index.md) | 臺灣總督府警務局編（1935） | 國臺圖 `0725 148` | 206 首 | [書訊與掃描頁](kyoyusho_shoka_1935/0_book_info/index.md) |
+| 《標準唱歌學習帖》 | [第一至第六學年 兒童用（全六冊）](hyojun_shoka_gakushucho/index.md) | 臺北師範學校附屬小學校內正榕會編、臺灣子供世界社發行（1927） | 國臺圖 `0729 47` | 93 首（目次） | [專題導覽與各冊目錄](hyojun_shoka_gakushucho/index.md) |
 | 《うたのほん》 | [下卷](utanohon/ge_2006.006.0878/index.md) | 臺灣總督府編（1943） | `2006.006.0878` | 20 首 | [書訊與掃描頁](utanohon/ge_2006.006.0878/0_book_info/index.md) |
 | 《新定兒童唱歌》 | [尋常科第一學年用](shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md) | 臺灣教育會公認（1930） | `2020.006.0847.0001` | 59 首 | [書訊與掃描頁](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_book_info/index.md) |
 | 《新定兒童唱歌》 | [尋常科第二學年用](shintei_jido_shoka/grade_2_2020.006.0847.0002/index.md) | 臺灣教育會公認（1930） | `2020.006.0847.0002` | 47 首 | [書訊與掃描頁](shintei_jido_shoka/grade_2_2020.006.0847.0002/0_book_info/index.md) |

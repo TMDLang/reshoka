@@ -1,5 +1,14 @@
 ::SCORE::
 ~ "tag: origin:taisho_showa_mainland"
+~ "tag: collection:utanohon"
+~ "tag: volume:2"
+~ "tag: source:utanohon_ge"
+~ "tag: source_page:P009-P010"
+~ "tag: provenance:taiwan_governor_general"
+~ "tag: evidence:primary_document"
+~ "tag: version:vocal"
+~ "tag: orthography:historical_kana"
+~ "tag: theme:school"
 ** 二年生 **
 != 100
 ?= F

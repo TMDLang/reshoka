@@ -7,6 +7,8 @@
 ~ "tag: evidence:editorial"
 ~ "tag: version:source_transcription"
 ~ "tag: origin:meiji_textbook"
+~ "tag: orthography:historical_kana"
+~ "tag: theme:education"
 ** 遠別離 (遠別離) **
 != 100
 ?= A,

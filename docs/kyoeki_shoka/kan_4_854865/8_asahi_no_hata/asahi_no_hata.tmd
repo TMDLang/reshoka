@@ -11,6 +11,7 @@
 ~ "tag: theme:military"
 ~ "tag: theme:imperial"
 ~ "tag: origin:meiji_textbook"
+~ "tag: orthography:historical_kana"
 ** 朝日の旗 **
 != 80
 ?= C

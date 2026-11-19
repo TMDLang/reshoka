@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:imperial"
 ~ "tag: origin:meiji_textbook"
+~ "tag: orthography:historical_kana"
+~ "tag: source_page:P048-P049"
 ** 國旗 **
 != 108
 ?= F

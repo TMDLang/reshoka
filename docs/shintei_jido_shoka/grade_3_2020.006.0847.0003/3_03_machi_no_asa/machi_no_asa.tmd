@@ -7,6 +7,8 @@
 ~ "tag: version:source_transcription"
 ~ "tag: theme:time_of_day"
 ~ "tag: origin:taisho_showa_mainland"
+~ "tag: orthography:historical_kana"
+~ "tag: source_page:P054"
 ** 町の朝（街鎮之晨） **
 != 108
 ?= F
