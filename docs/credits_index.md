@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1461 首歌曲、整理 1246 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1461 首歌曲、整理 1258 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -30,6 +30,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 上村一仁（1 首）
 
 - [南の島](taiwan_no_uta/7_minami_no_shima/index.md)
+
+### 上村吐月（1 首）
+
+- [若しもあなたが往來で](kyoyusho_shoka_1935/8_03_moshimo_anata_ga_orai_de/index.md)
 
 ### 下平加賀雄（1 首）
 
@@ -190,6 +194,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 吉村守（昭和八年臺灣總督府文教局懸賞募集入選）（1 首）
 
 - [かげろふ](kogakko_shoka/grade_4/6_kagerou/index.md)
+
+### 吉村繁（1 首）
+
+- [アイウエオ](kyoyusho_shoka_1935/8_02_aiueo/index.md)
 
 ### 吉田信太（1 首）
 
@@ -357,6 +365,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 山田美妙齋（1 首）
 
 - [卒業式歌](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/index.md)
+
+### 岡本新市（1 首）
+
+- [國語を習ひませう](kyoyusho_shoka_1935/8_05_kokugo_o_naraimasho/index.md)
 
 ### 岡本新市（1933 年公學校唱歌歌詞懸賞募集入選）（1 首）
 
@@ -932,11 +944,16 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [小舟](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_12_kobune/index.md)
 
-### 萱島保之（3 首）
+### 莊倩沛（1 首）
+
+- [お稽古の夜](kyoyusho_shoka_1935/8_04_okeiko_no_yoru/index.md)
+
+### 萱島保之（4 首）
 
 - [常夏の島](kyoyusho_shoka_1935/6_12_tokonatsu_no_shima/index.md)
 - [常夏の島](shintei_jido_shoka/grade_3_2020.006.0847.0003/3_07_tokonatsu_no_shima/index.md)
 - [常夏の島](taiwan_no_uta/5_tokonatsu_no_shima/index.md)
+- [清く明るき](kyoyusho_shoka_1935/8_06_kiyoku_akaruki/index.md)
 
 ### 落合直文（1 首）
 
@@ -1053,6 +1070,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 足立貞一（1 首）
 
 - [昭和の御代](kyoyusho_shoka_1935/4_30_showa_no_miyo/index.md)
+
+### 輿水武（1 首）
+
+- [國語夜學會の歌](kyoyusho_shoka_1935/8_07_kokugo_yagakukai_no_uta/index.md)
 
 ### 迎稔（1 首）
 
