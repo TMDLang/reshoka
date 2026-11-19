@@ -78,8 +78,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](rajio_taiso_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLSwRMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI7iAqCR6IIlqckZefk5-emV6DLJ-bm5pXmZJRCJnEqg9UBXWCk8bl75uLnpcdOqJ3snP5vc-7hx3bM5zc8mbXi2tgesEqivIL84tchK4emChqdtrc-mrnmyo1OJS0sLofXl6ilQrWt7FLS0uBRtFQwNLLjsbRXcuWyM9E3sQAa9aN_1vHHx8x17n89d_HTXnBdrlz3tnvl0Y8Pjhq5nU2e-aNr0rLPh-ZQVCk-nbAQaAxR6NnfCy9ltjxu63-_peDZj7dNJPU97G5_u3PJ-T8_zLYuezd7xYuZ8BQNzI1MFQxOL93uAbuLS11KwpRbgUlAAGabwtG8-yK7N7S9WdL3oaAe67cXKeU9bVzyb1g6SByl7uqH3WXvns77mZ_39z1ZNeb9nFiiJ6WUVpAOdDtH_fM0aBUNTC4WXCxpB7p-y_enSzS_nTgJ6B-hnsKSBwstl04DeABvYN__F2jnP9256OqEXaBqeOHq_px85Xp7N3gTS_2LV_mcNyx83ND7r7gWGEtDZLxvmP921DGxWx8up24EKgE5zV3i6ZDmY2fNkR8PTXqAXZwCVAx0BjDQFoN6naycA5Xz1fPUUHs1caQuKVJDpQFVr57xYterZjD6giU92TXm-fRZQ5MmO7mfTdj7Zsexpx3Sg6UAjgSY972x_2tgO9AfQESDBXUAndz7duRki-HI2MAksgYQpKKxatz3ZsRYUHJbAQO1_vr4BZGbfpMcNPfAweNy4_nFD75Od3SCnoEg09D7t3fC8aRfcSlBIg4LW8P3eeYZGUBOftq4Emvh0bvvz2Vue9S0Fanm2Z9HTtdOBRgFdrAB0oAIwIIGGAXU_a-p8sm8uMDaAqp7sn_t86kyg4x83NHFB7J6AnBgeN0wEiWoADdEEh9IuoAkdj5smPW5cCdLV1P1s-tpn05eCBBubHjdOfdy4CSTeuO5pK1B20rOtwJQNkgILbn7cuAycEjZ2gEX3gUUnPW7qeLJnB1hk3ePGDWDB2UDBpxP2PV8LZPe8aJ0Klu0Gmv64cRU0PSEHHjiCgSqA9k8E6wcGeQPQ10BPg72lAWSDPfByGdC3YKOaJkE88HL3pKdz5j_v63w5B-h0oNR8oMMeNy553NQGVPBiRz9YcCtY8eTHjcvBwbB9M1h0_ePGtWCJDoyA6UHxwPbFYPUzwYEETEdkeGBHJ9gDz3a0Pm5seTZn7ss5y59t2wM1tgmY0DpfLlrxuLENaAAsmCfseNy4A-SO9l1gdQswgxaYV55tWEyya57Ong12DcScZ53dL7YBI3fds87JLzrmAUPrcSPQKZMfN_WCFe3Z_rixH5yvIKkEWPiBQh4o-HTJyqdzNjxuagKGH1AEiztQ7IaUXtQBClr6XFy-wHrIKiAzMS_focagphpkgYKNoZmWHZiFreRVAGY-oINeLOxR0DCD5j4dBVjRqIlFA9AekGE1CqbxCrpAaBYPY-kCBY3BtLGCEZA0BIsA5ZGVgYkasBxILUidAVjEFGoGiAbJQNSATDEHaQEbUwO22sewBhism8Cyj5s7gXg13P7HTYsg4k1bgeKTwCr6IDJgHkhmNZC9CiwDMgOm53HzZDDZBiQhbnzcPA9q7uMmkMrHzSug4iATQfwJQJndCBmI64yAKhq7ofomATGEDdbZ2A8V7wWyl4BYjQuhMvMhMo37YDJNIJeAZLaCeWDXNS5HuK5xPcx1jWvBKjqgvoH6s3ElkN2DkAEnddyJYFcPOYkAFH-gWATHETRuwVEFJsACkOiFJgOgCEIGEsUgI0ARjkgGIBbYQIgQJB1AIFgEKRVAwuBx8xpQRgP7dQ00FEBpApYCuhChBlYFEmsCqoGkAlCcgHRAwnkjWGwaXAeowoGwQdUOQrQTyVVIaRMU-02wWO4BYpA6YMkEsaNxJpjXBCan43MVOHZBOqaCeRPB5DYyXFXLxaVrpwAqGRSAtDIXAA)]
-- [鋼琴伴奏 TMD 檔案](rajio_taiso_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeNy88nFz0-OmVS9XT3k2ufdx47pna3ve7-l42b3n-YQtT_Zsebq0_8XaOe_3dCpoaXEp2ioYGlhw2dsquHPZGOmb2IGMz6ksykzOLC6xQhj2ZO9kqGFzmp9N2gA0EuyQ5Pzcgvzi1CIrhacLGp62tT6buubJjk6w1Iv2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaHwdMpGoGlAoWdzJ7yc3fa4oRvo2Gcz1j6d1PO0t_Hpzi3v9_Q837Lo2ewdL2bOVzAwNzJVMDSxADpfiYvLNzEzzyoAFERBHg41BjXVXApAYGNopmUHZulrKdiiA4Xna4BubHixsEdBw0zh6Yb-5-sbdBQCDC0s9bIK0jWxaNDSBxtWo2Aar6ALhGbxMJYuUNAYTBsrGAFJQ7AIUB5ZGZioAcuB1ILUGYBFTKFmgGiQDEQNyBRzkBawMTVgq30Ma4BRsQks-7i5E4hXw-1_3LQIIt60FSg-CayiDyID5oFkVgPZq8AyIDNgeh43TwaTbUAS4sbHzfOg5j5uAql83LwCKg4yEcSfAJTZjZCBuM4IqKKxG6pvEhBD2GCdjf1Q8V4gewmI1bgQKjMfItO4DybTBHIJSGYrmAd2XeNyhOsa18Nc17gWrKID6huoPxtXAtk9CBku_IlgVw85iQAUf6BYBMcRNG7BUQUmwAKQ6IUmA6AIQgYSxSAjQBGOSAYgFthAiBAkHUAgWAQpFUDC4HHzGlDmBPt1DTQUQGkClgK6EKEGVgUSawKqgaQCUJyAdEDCeSNYbBpcBzB3QNnAIEIS7URyFVLaBMV-EyyWe4AYpO5xI0gnKM5mgnlNYHI6PleBYxekYyqYNxFMbiPDVbXIBYMPcsFgAi0XQFk5XiHaND4WFNigfBoPillkISSWIYwFVADxM4p-hDYgC6QESRMw0iFmw4VArtO1UwA5MNrHMFYBzjYCs5W5AA)]
+- [主旋律 TMD 檔案](rajio_taiso_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLSwRMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI7iAqCR6IIlqckZefk5-emV6DLJ-bm5pXmZJRCJnEqg9UBXWCk8bl75uLnpcdOqJ3snP5vc-7hx3bM5zc8mbXi2tgesEqivIL84tchK4emChqdtrc-mrnmyo1OJS0sLofXl6ilQrWt7FLS0uBRtFQwNLLjsbRXcuWyM9E3sQAa9aN_1vHHx8x17n89d_HTXnBdrlz3tnvl0Y8Pjhq5nU2e-aNr0rLPh-ZQVCk-nbAQaAxR6NnfCy9ltjxu63-_peDZj7dNJPU97G5_u3PJ-T8_zLYuezd7xYuZ8BQNzI1MFQxOL93uAbuLS11KwpRbgUlAAGabwtG8-yK7N7S9WdL3oaAe67cXKeU9bVzyb1g6SByl7uqH3WXvns77mZ_39z1ZNeb9nFiiJ6WUVpAOdDtH_fM0aBUNTC4WXCxpB7p-y_enSzS_nTgJ6B-hnsKSBwstl04DeABvYN__F2jnP9256OqEXaBqeOHq_px85Xp7N3gTS_2LV_mcNyx83ND7r7gWGEtDZLxvmP921DGxWx8up24EKgE5zV3i6ZDmY2fNkR8PTXqAXZwCVAx0BjDQFoN6naycA5Xz1fPUUHs1caQuKVJDpQFVr57xYterZjD6giU92TXm-fRZQ5MmO7mfTdj7Zsexpx3Sg6UAjgSY972x_2tgO9AfQESDBXUAndz7duRki-HI2MAksgYQpKKxatz3ZsRYUHJbAQO1_vr4BZGbfpMcNPfAweNy4_nFD75Od3SCnoEg09D7t3fC8aRfcSlBIg4LW8P3eeYZGUBOftq4Emvh0bvvz2Vue9S0Fanm2Z9HTtdOBRgFdrAB0oAIwIIGGAXU_a-p8sm8uMDaAqp7sn_t86kyg4x83NHFB7J6AnBgeN0wEiWoADdEEh9IuoAkdj5smPW5cCdLV1P1s-tpn05eCBBubHjdOfdy4CSTeuO5pK1B20rOtwJQNkgILbn7cuAycEjZ2gEX3gUUnPW7qeLJnB1hk3ePGDWDB2UDBpxP2PV8LZPe8aJ0Klu0Gmv64cRU0PSEHHjiCgSqA9k8E6wcGeQPQ10BPg72lAWSDPfByGdC3YKOaJkE88HL3pKdz5j_v63w5B-h0oNR8oMMeNy553NQGVPBiRz9YcCtY8eTHjcvBwbB9M1h0_ePGtWCJDoyA6UHxwPbFYPUzwYEETEdkeGBHJ9gDz3a0Pm5seTZn7ss5y59t2wM1tgmY0DpfLlrxuLENaAAsmCfseNy4A-SO9l1gdQswgxaYV55tWEyya57Ong12DcScZ53dL7YBI3fds87JLzrmAUPrcSPQKZMfN_WCFe3Z_rixH5yvIKkEWPiBQh4o-HTJyqdzNjxuagKGH1AEiztQ7IaUXtQBClr6XFy-wHrIKiAzMS_focagphpkgYKNoZmWHZiFreRVAGY-oINeLOxR0DCD5j4dBVjRqIlFA9AekGE1CqbxCrpAaBYPY-kCBY3BtLGCEZA0BIsA5ZGVgYkasBxILUidAVjEFGoGiAbJQNSATDEHaQEbUwO22sewBhism8Cyj5s7gXg13P7HTYsg4k1bgeKTwCr6IDJgHkhmNZC9CiwDMgOm53HzZDDZBiQhbnzcPA9q7uMmkMrHzSug4iATQfwJQJndCBmI64yAKhq7ofomATGEDdbZ2A8V7wWyl4BYjQuhMvMhMo37YDJNIJeAZLaCeWDXNS5HuK5xPcx1jWvBKjqgvoH6s3ElkN2DkIG4zhiksxfqig4guwXJdU1QnVOBGOTHx01dUJmZUB3zoH573DgHKgNyJTBfgcllSK6D6ACJ7kB2XeMCqOhsqBjYbojbTECuh4VQDxB3IrkNZDZIXxMQTwez1iG5ABKSoNADsUAhBpIBxQow40JDHOE2UPjCQgCkAmQnsv-7obEGlQEXErizz64ecrIPKOWD0j84dUNzBTiRgwmwACRjQDMQUAQhA8kcICNAWQWRgUAssIEQIUgOgkCwCFL-gaSex81rQEUUOCzWQEIBmD9A4pC8A4p_WG4AqQKJAWOgCZJ_oOEGzGsg_RvBYtPgOkBVNYQNqrARorBYBUGkXA3KNxixDyzToXEDSk-QGILEP05XgfMFSMdUMA-SMreR6ypQfsHjKlCuheQhSK6ik6tAOaVxGaRQgCV-kANBwQMrAkAFAEgMlJBp76xaLi5dOwVQBRTtYxirAGcbIbGNkdgmYLYyFwA)]
+- [鋼琴伴奏 TMD 檔案](rajio_taiso_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeNy88nFz0-OmVS9XT3k2ufdx47pna3ve7-l42b3n-YQtT_Zsebq0_8XaOe_3dCpoaXEp2ioYGlhw2dsquHPZGOmb2IGMz6ksykzOLC6xQhj2ZO9kqGFzmp9N2gA0EuyQ5Pzcgvzi1CIrhacLGp62tT6buubJjk6w1Iv2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaHwdMpGoGlAoWdzJ7yc3fa4oRvo2Gcz1j6d1PO0t_Hpzi3v9_Q837Lo2ewdL2bOVzAwNzJVMDSxADpfiYvLNzEzzyoAFERBHg41BjXVXApAYGNopmUHZulrKdiiA4Xna4BubHixsEdBw0zh6Yb-5-sbdBQCDC0s9bIK0jWxaNDSBxtWo2Aar6ALhGbxMJYuUNAYTBsrGAFJQ7AIUB5ZGZioAcuB1ILUGYBFTKFmgGiQDEQNyBRzkBawMTVgq30Ma4BRsQks-7i5E4hXw-1_3LQIIt60FSg-CayiDyID5oFkVgPZq8AyIDNgeh43TwaTbUAS4sbHzfOg5j5uAql83LwCKg4yEcSfAJTZjZCBuM4IqKKxG6pvEhBD2GCdjf1Q8V4gewmI1bgQKjMfItO4DybTBHIJSGYrmAd2XeNyhOsa18Nc17gWrKID6huoPxtXAtk9CBmI64xBOnuhrugAsluQXNcE1TkViEF-fNzUBZWZCdUxD-q3x41zoDIgVz5unAgmlyG5DqIDJLoD2XWNC6Cis6FiYLshbjMBuR4WQj1A3InkNpDZIH1NQDwdzFqH5AJISIJCD8QChRhIBhQrjxvBIQcMcYTbQOELCwGQCpCdyP7vhsYaVIYLf_bZ1UNO9gGlfFD6B6duaK4AJ3IwARaAZAxoBgKKIGQgmQNkBCirIDIQiAU2ECIEyUEQCBZByj-Q1PO4eQ2oWAOHxRpIKADzB0gckndA8Q_LDSBVIDFgDDRB8g803IB5DaR_I1hsGlwHsFyBsoFBhCQKi1UQRMrVoHyDEfuPG0E6YekJEkOQ-MfpKnC-AOmYCuZBUuY2cl0Fyi94XAXKtZA8BMlVdHIVKKc0LoMUCrDED3IgKHhgRQCoAACJgRIy7Z1Vi1z_-CDXPybQ6geYHOMVNIxB9YAmlAPEJqBkDeKbxEME4ApMQQJGYBUIHXBZJOVg_fBKCU0ThgCGPSBjkRVogLQABUA8ZDaSAxQMQTYCvaxrpwDydbSPYawCnG2ExDZGYpuA2cpcAA)]
 
 ## 分析
 
@@ -87,14 +87,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ ラヂオ體操の歌 ]
 ================================================================================
-⏱  Duration:       0:13 (13.3s), 12 measures total
+⏱  Duration:       0:53 (53.3s), 48 measures total
 🎼 Key & Tempo:    首調基準 G, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Main #1 @ m.1, 0:00]
-   - 最高音: D5 in [Main #1 @ m.5, 0:04]
+   - 最低音:  D4 in [Main[L1] #1 @ m.1, 0:00]
+   - 最高音: D5 in [Main[L1] #1 @ m.5, 0:04]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (13.3s)
+🏛  結構:      Main[L1] (13.3s) -> Main[L2] (13.3s) -> Main[L3] (13.3s) -> Main[L4] (13.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -102,9 +102,12 @@ tmd_source:
    - 核心骨幹音:  D, E, G, A, B
    - 調性數值:    D 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.86), G 大調 (0.78), B 小調 (0.64)
-   - 五度圈歷程:   +2
+   - 五度圈歷程:   +2 -> +2 -> +2 -> +2
    - 各段落調性細節:
-     • [Main #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Main[L1] #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Main[L2] #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Main[L3] #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
+     • [Main[L4] #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -131,7 +134,7 @@ tmd_source:
      B  : █████████                 11.9%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 38 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 152 個音符)
 ================================================================================
 ```
 

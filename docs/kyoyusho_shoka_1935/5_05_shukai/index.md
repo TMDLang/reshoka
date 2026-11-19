@@ -90,8 +90,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shukai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLUwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI60oszUvJTijMwCdJnk_Nzc0rzMkkp0idTcfIijtLQUXs5uezanWUFLi0vRVsHSjMveVsGdy8ZE38QOpOnFynnv98x6OqHzyY4dT3Y0PJvRAzbr2exNIOGe6c_mTny6dvGzmVvAwi_adz1vXPx8x97ncxc_3TXnxdplT7tnPt3Y8Lih69nUmS-aNj3rbHg-ZYXC0ykbn63tAQo9mzsBaP_jhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi59LQVbW1uFp33zQdKb21-s6HrR0Q40DujUp60rnk1rB8lzKSgoPG3f9WLmVKA7qeisTpDL1qx5smvK07U7gCJAbRAuOER6IK4CiigYmhorvFzQCDKgr_lZfz-QrQBKb3pZBelAYx43NIGcCHQzZlACRR43NCKHOdBVYNWr9j9rWA7ybXcvMGCA2h43d7ycuh0oDrTHXeHpkuVgZo_ho5nrIW4FOujF2jkQ9U97Nyg4AxUC41YBKAJW0AFVMGfVsxUzXzbMf7prGVDXsz1Tni7th3CfN-16vn3Fi4bWFyvWPl03C6iLC-SWxw1TgPqe7OiGhPzjhqkgUQ2gezXB0k0bHzdPfdy853HT5sfNfSBGc8vj5k4wY9LjhobHTfuh4k3bwdxlj5vXQLgQ_ZvBOoGq1z5u3gSWWPW4aTVYpB2sYTXYCCB35ePmfjBjAUQnRAJIAvV3PG6eADYbbH_TephtW8EOBBoH1Nn1uLn7cfM8sB1bwa5YBTYIKAR1AtAUiFORHAX1AtiPQAVAc0GMJeDA0XiyqwcSDI0THzcCzdzzuHHy48Z1YMa-x41AFwMNmwAyo7HtcVMPWHw6mDsfpmw6RP-Ox40LwPxljxvB4dO44nFTE0gRSPUSqFmNm0D6wcog2rpBJjUBSaC1kx839T5u7AXbCXRo5-PG1WDNMx83NYLVAE0BKlgNchrIiKkgFzV1QQwCunYy1Fqow8D2gxhgJzS1gSyDuB-oE2RHCyyBPN019dmaFpQEAswpQF2QMgclwTzZ3fVs-lJoMEH81bjp2QqgT6c_XQN0Mjg4nu5vftw06fleoAqgs4GJHRhDQDlgrDZA8geQ3_1iRcOLiUBRoMOAxvTDtE4CBtFEkHTXRqhfsXgU7EuQLaB42ArmTod5CB6pqE4FRycwLiERCQoFcBRCbH05awok5p72Ax2M8BhYHTiqIG4GR9JcYDw929EKiSGIo6BR9GxOByE3Q8yHxAYkKoDOBioCloU4gIKWPhdXcEZpdmKmVUBmYl6-Q41BTTVIj4KNhZYdmAEsbEHF246GFwt7FDRy9Qx1TTRB-kByNQqGCrpAbKRgDKSNFUyAIqZAlhmQBIkYADFExATIN4KLmIBVG4F1g0XApvkY1oAKDSAfmKdAZNNmMLsPrAeYecG8TjA5CUjGQ8Sb9sNVAbMgkvgysPgaVHGITUZA-caJIJnGrWByMphcB9HZuA_MWwnWOQFhYmMbWKQHLDsdSXw-XDeSODjFwIJvVw80-Ex1LSgIPhAJ0QWD6MEHDjJowK0Fk5ugwbEKLLMaLNaOFExgEWgggr3c3A8N8AVI9qAH3g6wZ0EqgKkYTIICGiSzAmxeEzxIYIG0BBGojSA3QYIKJAPSj2oPSsrrhAadpa6hEVLYIYcLKAxrwCGIkqyIUYMUdrCQANYK8DDsAOIJSMmpBchaj5bQwEkImHDB-sChB6xRgLgbHIrzwLJbwUkRWK9gCctucGjMB6rqhifFyUBeLzh0esH6ge5o6gTyQG6EhehMsEwjVB8kfHvBahCJeCo4wQKLC2xh-3T2bFiuNtY1NKNlwoQGAyxQkfI1RpJFzdfgkgCiAxzoILNAXsWVMCHehgQiOCnCczWOhNkEztXQSAAlSVCgQWRAJQ6qPbVcXLp2CpAiUwHIUuYCAA)]
-- [鋼琴伴奏 TMD 檔案](shukai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLUwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thZez257NaX6_p-Nl957nE7Y82bPl6dL-F2vnvN_TqaClxaVoq2BpxmVvq-DOZWOib2IHMvfFynnv98x6OqHzyY4dT3Y0PJvRA7bu2exNIOGe6c_mTny6dvGzmVvAwi_adz1vXPx8x97ncxc_3TXnxdplT7tnPt3Y8Lih69nUmS-aNj3rbHg-ZYXC0ykbn63tAQo9mzsB6KjHDd1ARz2bsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJBdCZSlxc-loKT_vmA139rLsXKPu0d4OCM1A30MEKQBGgGiAHqmDOqmcrZr5smP901zKggc_2TAF6F8J93rTr-fYVLxpaX6xY-3TdLHAA6HNxBWeUZidmWgVkJublB3k41BjUVHMpAIGNhZYdmAG0_PmaNcCAeLGwR0EjV89Q10QTpBMkV6NgqKALxEYKxkDaWMEEKGIKZJkBSZCIARBDREyAfCO4iAlYtRFYN1gEbJqPYY3C46aNQP7j5qkgsmkzmN0H1vO4uQXM6wSTk4BkPES8aT9c1eOm7Ujiy8Dia1DFITYZAeUbJ4JkGreCyclgch1EZ-M-MG8lWOcEhImNbWCRHrDsdCTx-XDdSOJcyMG3qwcafKa6FhQEH4iE6IJB9OADBxk04NaCyU3Q4FgFllkNFmtHCiawCDQQwV5u7ocG-AIke9ADbwfYsyAVjxvBAd0ICmiQzAqweU3wIIEF0hJEoDaC3AQJKpAMSD-qPSgprxMadJa6hkZIYYccLqAwrAGHIEqyIkYNUtjBQuJx82p4GHYA8QSk5NQCZK1HS2jgJARMuGB94NB73NwFxN3gUJwHlt0KToqPm0GxgB6W3eDQmA9U1Q1PipOBvF5w6PSC9QPd0dQJ5IHcCAvRmWCZRqg-SPj2gtUgEvFUcIJ93NSFLWyfzp4Ny9XGuoZmtEyY0GCABSpSvsZIsqj5GlwSQHSAAx1kFsiruBImxNuQQAQnRXiuxpEwm8C5GhoJoCQJCjSIDKjEQbWnFrXE9MFWYgLDAaQ42jAWGAhgpnG8gml8PEzCJB4mDglHMNMoHkSDVMGEgSK6UAGEYupYEG0aH4uQAZmDyw5kXciWAK1AdxrJGujiF2CE6dopQOIs2gcki-AZgXnKXAA)]
+- [主旋律 TMD 檔案](shukai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLUwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI60oszUvJTijMwCdJnk_Nzc0rzMkkp0idTcfIijtLQUXs5uezanWUFLi0vRVsHSjMveVsGdy8ZE38QOpOnFynnv98x6OqHzyY4dT3Y0PJvRAzbr2exNIOGe6c_mTny6dvGzmVvAwi_adz1vXPx8x97ncxc_3TXnxdplT7tnPt3Y8Lih69nUmS-aNj3rbHg-ZYXC0ykbn63tAQo9mzsBaP_jhu73ezqezVj7dFLP097Gpzu3vN_T83zLomezd7yYOV_BwNzIVMHQxOL9nk4lLi59LQVbW1uFp33zQdKb21-s6HrR0Q40DujUp60rnk1rB8lzKSgoPG3f9WLmVKA7qeisTpDL1qx5smvK07U7gCJAbRAuOER6IK4CiigYmhorvFzQCDKgr_lZfz-QrQBKb3pZBelAYx43NIGcCHQzZlACRR43NCKHOdBVYNWr9j9rWA7ybXcvMGCA2h43d7ycuh0oDrTHXeHpkuVgZo_ho5nrIW4FOujF2jkQ9U97Nyg4AxUC41YBKAJW0AFVMGfVsxUzXzbMf7prGVDXsz1Tni7th3CfN-16vn3Fi4bWFyvWPl03C6iLC-SWxw1TgPqe7OiGhPzjhqkgUQ2gezXB0k0bHzdPfdy853HT5sfNfSBGc8vj5k4wY9LjhobHTfuh4k3bwdxlj5vXQLgQ_ZvBOoGq1z5u3gSWWPW4aTVYpB2sYTXYCCB35ePmfjBjAUQnRAJIAvV3PG6eADYbbH_TephtW8EOBBoH1Nn1uLn7cfM8sB1bwa5YBTYIKAR1AtAUiFORHAX1AtiPQAVAc0GMJeDA0XiyqwcSDI0THzcCzdzzuHHy48Z1YMa-x41AFwMNmwAyo7HtcVMPWHw6mDsfpmw6RP-Ox40LwPxljxvB4dO44nFTE0gRSPUSqFmNm0D6wcog2rpBJjUBSaC1kx839T5u7AXbCXRo5-PG1WDNMx83NYLVAE0BKlgNchrIiKkgFzV1QQwCunYy1Fqow8D2gxhgJzS1gSyDuB-oE2RHCyyBPN019dmaFpQEAswpQF2QMgclwTzZ3fVs-lJoMEH81bjp2QqgT6c_XQN0Mjg4nu5vftw06fleoAqgs4GJHRhDQDlgrDZA8geQ3_1iRcOLiUBRoMOAxvTDtE4CBtFEkHTXRqhfsXgU7EuQLaB42ArmTod5CB6pqE4FRycwLiERCQoFcBRCbH05awok5p72Ax2M8BhYHTiqIG4GR9JcYDw929EKiSGIo6BR9GxOByE3Q8yHxAYkKoDOBioCloU4gIKWPhdXcEZpdmKmVUBmYl6-Q41BTTVIj4KNhZYdmAEsbEHF246GFwt7FDRy9Qx1TTRB-kByNQqGCrpAbKRgDKSNFUyAIqZAlhmQBIkYADFExATIN4KLmIBVG4F1g0XApvkY1oAKDSAfmKdAZNNmMLsPrAeYecG8TjA5CUjGQ8Sb9sNVAbMgkvgysPgaVHGITUZA-caJIJnGrWByMphcB9HZuA_MWwnWOQFhYmMbWKQHLDsdSXw-XDeSODjFwIJvVw80-Ex1LSgIPhAJ0QWD6MEHDjJowK0Fk5ugwbEKLLMaLNaOFExgEWgggr3c3A8N8AVI9qAH3g6wZ0EqgKkYTIICGiSzAmxeEzxIYIG0BBGojSA3QYIKJAPSj2oPSsrrhAadpa6hEVLYIYcLKAxrwCGIkqyIUYMUdrCQANYK8DDsAOIJSMmpBchaj5bQwEkImHDB-sChB6xRgLgbHIrzwLJbwUkRWK9gCctucGjMB6rqhifFyUBeLzh0esH6ge5o6gTyQG6EhehMsEwjVB8kfHvBahCJeCo4wQKLC2xh-3T2bFiuNtY1NKNlwoQGAyxQkfI1RpJFzdfgkgCiAxzoILNAXsWVMCHehgQiOCnCczWOhNkEztXQSAAlSVCgQWRAJQ6qPbVcXLp2CpAiM9rHMFYBiWcE5ilzAQA)]
+- [鋼琴伴奏 TMD 檔案](shukai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLUwQMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvEQlLi0thZez257NaX6_p-Nl957nE7Y82bPl6dL-F2vnvN_TqaClxaVoq2BpxmVvq-DOZWOib2IHMvfFynnv98x6OqHzyY4dT3Y0PJvRA7bu2exNIOGe6c_mTny6dvGzmVvAwi_adz1vXPx8x97ncxc_3TXnxdplT7tnPt3Y8Lih69nUmS-aNj3rbHg-ZYXC0ykbn63tAQo9mzsB6KjHDd1ARz2bsfbppJ6nvY1Pd255v6fn-ZZFz2bveDFzvoKBuZGpgqGJBdCZSlxc-loKT_vmA139rLsXKPu0d4OCM1A30MEKQBGgGiAHqmDOqmcrZr5smP901zKggc_2TAF6F8J93rTr-fYVLxpaX6xY-3TdLHAA6HNxBWeUZidmWgVkJublB3k41BjUVHMpAIGNhZYdmAG0_PmaNcCAeLGwR0EjV89Q10QTpBMkV6NgqKALxEYKxkDaWMEEKGIKZJkBSZCIARBDREyAfCO4iAlYtRFYN1gEbJqPYY3C46aNQP7j5qkgsmkzmN0H1vO4uQXM6wSTk4BkPES8aT9c1eOm7Ujiy8Dia1DFITYZAeUbJ4JkGreCyclgch1EZ-M-MG8lWOcEhImNbWCRHrDsdCTx-XDdSOJcyMG3qwcafKa6FhQEH4iE6IJB9OADBxk04NaCyU3Q4FgFllkNFmtHCiawCDQQwV5u7ocG-AIke9ADbwfYsyAVjxvBAd0ICmiQzAqweU3wIIEF0hJEoDaC3AQJKpAMSD-qPSgprxMadJa6hkZIYYccLqAwrAGHIEqyIkYNUtjBQuJx82p4GHYA8QSk5NQCZK1HS2jgJARMuGB94NB73NwFxN3gUJwHlt0KToqPm0GxgB6W3eDQmA9U1Q1PipOBvF5w6PSC9QPd0dQJ5IHcCAvRmWCZRqg-SPj2gtUgEvFUcIJ93NSFLWyfzp4Ny9XGuoZmtEyY0GCABSpSvsZIsqj5GlwSQHSAAx1kFsiruBImxNvgQITogudqHAmzCZyroZEASpKgQIPIgEocVHtqUUtMH-QS0wRaYgLDIV5BwzhewTReE4gRbBQJINMAFIggeaN4BROEcizCEMVUMR2Ji6RDwRDNEkwHIOzB6jjSddDHO8AY07VTgERatI9hrAISzwjMU-YCAA)]
 
 ## 分析
 
@@ -99,14 +99,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 集會 ]
 ================================================================================
-⏱  Duration:       0:40 (40.0s), 16 measures total
+⏱  Duration:       1:20 (80.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    G4 (MIDI 67) – E5 (MIDI 76) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  G4 in [Shukai #1 @ m.1, 0:00]
-   - 最高音: E5 in [Shukai #1 @ m.2, 0:03]
+   - 最低音:  G4 in [Shukai[L1] #1 @ m.1, 0:00]
+   - 最高音: E5 in [Shukai[L1] #1 @ m.2, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Shukai (40.0s)
+🏛  結構:      Shukai[L1] (40.0s) -> Shukai[L2] (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -114,9 +114,10 @@ tmd_source:
    - 核心骨幹音:  G, B, A, D, C
    - 調性數值:    G 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 大調 (0.88), B 小調 (0.59), D 大調 (0.58)
-   - 五度圈歷程:   +1
+   - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Shukai #1]: G 大調 (r: 0.88, 自然音純度: 100.0%)
+     • [Shukai[L1] #1]: G 大調 (r: 0.88, 自然音純度: 100.0%)
+     • [Shukai[L2] #1]: G 大調 (r: 0.88, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -143,7 +144,7 @@ tmd_source:
      B  : ██████████████████████    24.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : G4 – E5 (9 個半音 / 0.8 個八度, 74 個音符)
+  - Piano         : G4 – E5 (9 個半音 / 0.8 個八度, 148 個音符)
 ================================================================================
 ```
 

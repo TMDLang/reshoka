@@ -79,8 +79,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ichinichi_no_owari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLZB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpEVZaZn5lmVpxaXpBblxeem5uSnVGJIl-aBHFSC5oySjFRgIJVk5qbG56fFpyQi6YNIpRVlpualFGdkFqDLpObmQxyrpaXwZEfDs-lLHzeue761SUFLi0vRVsHcjMveVsFJh8vGRN_EDqT3Rfuu542Ln-_Y-3zu4qe75rxYu-xp98ynGxseN3Q9mzrzRdOmZ50Nz6esUHg6ZeOztT1AoWdzJ7yc3fa4ofv9no5nM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sXi_p1OJi0tfS8HW1lbhad98kPTm9hcrul50tAONe7Fy3tPWFc-mtYPkuRQUFJ6273oxc-r7PbOo6KxOkMvWrHmya8rTtTuAIkBtQO7T1rXPZm8CSkFcBRRRMDQ1UXi5oBFkQF_zs_5-IFsBlMD0sgrSgcY8bmgCORHoZrDGWUCNL9bOeTZn1bMVMyGCT_bOedHQCla0av-zhuUgT3b3AsMD5KF1XY-b176cuh0oBbTB6dHMtQpPlywH83qMgDyIQ4HRogDUA1SBbPzLhvlPdy0DSj_bM-Xp0n4I93nTrufbVwAtfLFi7dN1s4D6uUBWP26YAtT3ZEc3JHwfN0wFiWoAE4MmWLp59uOm7Y-bVj9u2vS4aevj5iWPGxpA3OZuMGP74-ZWKLd56uOmjSDB5h6IzpbHzZ2Pmyc9bu573LwC6Buwhs2PmyeDGcseN-0H6WnuB7Gb10CMA7tJ48muHojtjaseN0553NT1uHH948Yljxt7Qaoa1z5uXAlm7AMxmiaAZYFoGVhwDUTnxMeNW4GJ-XHjpseNK8DkOrD01MeNC8GM6Y8bgam9-3Hj6seNXY-bmsCCW2GB8nTX1GdrWlACBZgGgGqQswlKUD2bMR9s3CSQHU0tEKNBEi_nzoHZA3QR0F1gF4KSH8RVTR2Pm3ofN05-3LgZ4nSgBNAooFqgn9oeN_UA3UowXMCBApFDhMqzeUCbl0EtfLK7C-JwSJBA2E937oBowggNYFAAJYAZDQdQ0NLn4vJMzsjMywQSfvn-5YlFmVYBmYl5-Q41BjXVIN0KNhZadmAGME-DMtWOhhcLexQ0cvUMdU00QSaA5GoUTOMVdIHQJF7BOB7EMVQwAooagwV1gTxdBQMgrgGKGiqYx4MpXQUzkCa4XggEKwMb6mNYA0q8YFFgugLi1UC8CYi3AsWXADWCRCC6gKkXSEKMA6ttboWoB4oDkyjYhI0Q2eYeJNvAOiC2GQHlGldBTGucAlTfBaTXA_ESIO4F6WxcC7OtcSXCtsZ9YD4wuqDq14NVLIPKrsGwDTk0d_VAQ9NU1wJvaBqDww5iDDjYIMEJDEqoCFAVkAMJdlDY4grPFmh4dQLxJCDuA-IVQLwWHHKb4eE5GSk8QX4BheB-cFgC8ztYDJjjoaGNOzxBWRgaZOuAGBh5jUDLwPQ6cPCAogYivxApSKdDxZYCMTACG4ER2QiMjqYmsCzERGQLa7m4dO0U0JOyAlBMmQsA)]
-- [鋼琴伴奏 TMD 檔案](ichinichi_no_owari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLZB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpW4tLQUnuxoeDZ96ePGdc-3Nr3f0_Gye8_zCVue7NnydGn_i7Vz3u_pVNDS4lK0VTA347K3VXDS4bIx0TexAxn_on3X88bFz3fsfT538dNdc16sXfa0e-bTjQ2PG7qeTZ35omnTs86G51NWKDydsvHZ2h6g0LO5E17Obnvc0A2059mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0sgDYrcXHpaykAFT_tmw90y7M5q56tmPmyYf7TXcuAWp7tmQJ0I4T7vGnX8-0rXjS0vlix9um6WWBX63NxeSZnZOZlAgm_fP_yxKJMq4DMxLz8IA-HGoOaai4FILCx0LIDM4AWPV-zBhgYLxb2KGjk6hnqmmiCzADJ1SiYxivoAqFJvIJxPIhjqGAEFDUGC-oCeboKBkBcAxQ1VDCPB1O6CmYgTXC9EAhWBjbUx7BG4XHzbLDo46btQLwaiDcB8Vag-BKgRpAIRNfj5m4gCTEOrLa5FaIeKP64eSrYhI0Q2eYeJNvAOiC2GQHlGldBTGucAlTfBaTXA_ESIO4F6WxcC7OtcSXCtsZ9YP7jpglQ9evBKpZBZddg2IYcmrt6oKFpqmuBNzSNwWEHMQYcbJDgBAYlVASoCsiBBDsobHGFZws0vDqBeBIQ9wHxCiBeCw65zfDwnIwUniC_gEJwPzgsHzf3g8UeN6-Bhjbu8Jz4uHErNMjWATEw8hqBloHpdeDgAUUNRH4hUpBOh4otBWJgBDYCI7IRGB1NTWBZiInIFtbiSsk-2FIyMIDiQfqiDeNjgeED4RgDSVMgRpEEplwwBxLYIGkQG6bFBEzCxKNNwRpgimDhgNUyqOHAKIVwjeJzQXyIgeiWQViE3QcKBV07BfSAiPYxBCrEJm4EFlfmAgA)]
+- [主旋律 TMD 檔案](ichinichi_no_owari.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLZB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpEVZaZn5lmVpxaXpBblxeem5uSnVGJIl-aBHFSC5oySjFRgIJVk5qbG56fFpyQi6YNIpRVlpualFGdkFqDLpObmQxyrpaXwZEfDs-lLHzeue761SUFLi0vRVsHcjMveVsFJh8vGRN_EDqT3Rfuu542Ln-_Y-3zu4qe75rxYu-xp98ynGxseN3Q9mzrzRdOmZ50Nz6esUHg6ZeOztT1AoWdzJ7yc3fa4ofv9no5nM9Y-ndTztLfx6c4t7_f0PN-y6NnsHS9mzlcwMDcyVTA0sXi_p1OJi0tfS8HW1lbhad98kPTm9hcrul50tAONe7Fy3tPWFc-mtYPkuRQUFJ6273oxc-r7PbOo6KxOkMvWrHmya8rTtTuAIkBtQO7T1rXPZm8CSkFcBRRRMDQ1UXi5oBFkQF_zs_5-IFsBlMD0sgrSgcY8bmgCORHoZrDGWUCNL9bOeTZn1bMVMyGCT_bOedHQCla0av-zhuUgT3b3AsMD5KF1XY-b176cuh0oBbTB6dHMtQpPlywH83qMgDyIQ4HRogDUA1SBbPzLhvlPdy0DSj_bM-Xp0n4I93nTrufbVwAtfLFi7dN1s4D6uUBWP26YAtT3ZEc3JHwfN0wFiWoAE4MmWLp59uOm7Y-bVj9u2vS4aevj5iWPGxpA3OZuMGP74-ZWKLd56uOmjSDB5h6IzpbHzZ2Pmyc9bu573LwC6Buwhs2PmyeDGcseN-0H6WnuB7Gb10CMA7tJ48muHojtjaseN0553NT1uHH948Yljxt7Qaoa1z5uXAlm7AMxmiaAZYFoGVhwDUTnxMeNW4GJ-XHjpseNK8DkOrD01MeNC8GM6Y8bgam9-3Hj6seNXY-bmsCCW2GB8nTX1GdrWlACBZgGgGqQswlKUD2bMR9s3CSQHU0tEKNBEi_nzoHZA3QR0F1gF4KSH8RVTR2Pm3ofN05-3LgZ4nSgBNAooFqgn9oeN_UA3UowXMCBApFDhMqzeUCbl0EtfLK7C-JwSJBA2E937oBowggNYFAAJYAZDQdQ0NLn4vJMzsjMywQSfvn-5YlFmVYBmYl5-Q41BjXVIN0KNhZadmAGME-DMtWOhhcLexQ0cvUMdU00QSaA5GoUTOMVdIHQJF7BOB7EMVQwAooagwV1gTxdBQMgrgGKGiqYx4MpXQUzkCa4XggEKwMb6mNYA0q8YFFgugLi1UC8CYi3AsWXADWCRCC6gKkXSEKMA6ttboWoB4oDkyjYhI0Q2eYeJNvAOiC2GQHlGldBTGucAlTfBaTXA_ESIO4F6WxcC7OtcSXCtsZ9YD4wuqDq14NVLIPKrsGwDTk0d_VAQ9NU1wJvaBqDww5iDDjYIMEJDEqoCFAVkAMJdlDY4grPFmh4dQLxJCDuA-IVQLwWHHKb4eE5GSk8QX4BheB-cFgC8ztYDJjjoaGNOzxBWRgaZOuAGBh5jUDLwPQ6cPCAogYivxApSKdDxZYCMTACG4ER2QiMjqYmsCzERGQLa7m4dO0U0JNytI9hrAJWcSOwuDIXAA)]
+- [鋼琴伴奏 TMD 檔案](ichinichi_no_owari_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLZB0FhTll6XmJeYBdRcUZeaVpKaAtSMUpJZlpqSCpIuTE_Piy1KLMtMyU1OQnJdaVAzyA9SKkqLEvOLkoswCkMcQqvKLSjLy04sSCzIqrTIyi0vyizKTE3PisxPzEpW4tLQUnuxoeDZ96ePGdc-3Nr3f0_Gye8_zCVue7NnydGn_i7Vz3u_pVNDS4lK0VTA347K3VXDS4bIx0TexAxn_on3X88bFz3fsfT538dNdc16sXfa0e-bTjQ2PG7qeTZ35omnTs86G51NWKDydsvHZ2h6g0LO5E17Obnvc0A2059mMtU8n9TztbXy6c8v7PT3Ptyx6NnvHi5nzFQzMjUwVDE0sgDYrcXHpaykAFT_tmw90y7M5q56tmPmyYf7TXcuAWp7tmQJ0I4T7vGnX8-0rXjS0vlix9um6WWBX63NxeSZnZOZlAgm_fP_yxKJMq4DMxLz8IA-HGoOaai4FILCx0LIDM4AWPV-zBhgYLxb2KGjk6hnqmmiCzADJ1SiYxivoAqFJvIJxPIhjqGAEFDUGC-oCeboKBkBcAxQ1VDCPB1O6CmYgTXC9EAhWBjbUx7BG4XHzbLDo46btQLwaiDcB8Vag-BKgRpAIRNfj5m4gCTEOrLa5FaIeKP64eSrYhI0Q2eYeJNvAOiC2GQHlGldBTGucAlTfBaTXA_ESIO4F6WxcC7OtcSXCtsZ9YP7jpglQ9evBKpZBZddg2IYcmrt6oKFpqmuBNzSNwWEHMQYcbJDgBAYlVASoCsiBBDsobHGFZws0vDqBeBIQ9wHxCiBeCw65zfDwnIwUniC_gEJwPzgsHzf3g8UeN6-Bhjbu8Jz4uHErNMjWATEw8hqBloHpdeDgAUUNRH4hUpBOh4otBWJgBDYCI7IRGB1NTWBZiInIFtbiSsk-yCnZBJqSgQEUr6ABDllNIEawUSSATANwVACFjOJBcQESNQFxgVJArhlYB5o8iAvUhmkPEhMYk0COiTrICAUjqBMQRmA1E0UebpaCIcydoCDQtVNAD4VoH8NYBaziRmBxZS4A)]
 
 ## 分析
 
@@ -88,14 +88,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 一日の終 ]
 ================================================================================
-⏱  Duration:       0:25 (25.3s), 8 measures total
+⏱  Duration:       0:50 (50.5s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 76.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [IchinichiNoOwari #1 @ m.1, 0:01]
-   - 最高音: D5 in [IchinichiNoOwari #1 @ m.2, 0:03]
+   - 最低音:  D4 in [IchinichiNoOwari[L1] #1 @ m.1, 0:01]
+   - 最高音: D5 in [IchinichiNoOwari[L1] #1 @ m.2, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      IchinichiNoOwari (25.3s)
+🏛  結構:      IchinichiNoOwari[L1] (25.3s) -> IchinichiNoOwari[L2] (25.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -103,9 +103,10 @@ tmd_source:
    - 核心骨幹音:  F, A#, C, D, G
    - 調性數值:    A# 大調 [相關度: 0.90, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): A# 大調 (0.90), F 大調 (0.87), D 小調 (0.64)
-   - 五度圈歷程:   -2
+   - 五度圈歷程:   -2 -> -2
    - 各段落調性細節:
-     • [IchinichiNoOwari #1]: A# 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [IchinichiNoOwari[L1] #1]: A# 大調 (r: 0.90, 自然音純度: 100.0%)
+     • [IchinichiNoOwari[L2] #1]: A# 大調 (r: 0.90, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -132,7 +133,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 30 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 60 個音符)
 ================================================================================
 ```
 

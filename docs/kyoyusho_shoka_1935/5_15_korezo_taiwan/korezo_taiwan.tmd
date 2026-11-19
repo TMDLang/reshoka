@@ -74,4 +74,4 @@ Main:Voice@|0|{
     L5| ま も れ - る - | も - の こ れ - | ぞ - - - た い | わん - - - _ - |
 }
 
--> Main ->#
+-> Main[L1] -> Main[L2] -> Main[L3] -> Main[L4] -> Main[L5] -> #

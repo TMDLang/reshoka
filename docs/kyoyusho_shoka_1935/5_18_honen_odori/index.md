@@ -81,8 +81,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](honen_odori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLc0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWpXkgG0vQ7CnJSAWGQlpqcUlmWWIOunh5fhGSdyFiuaXFmclKXFpaCi82Tni6c8uLHV0KWlpcirYKhgYGXPa2Ck46XDZG-iZ2IH0v2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs74eXstscN3e_3dDybsfbppJ6nvY1AW97v6Xm-ZdGz2TtezJyvYGBuZKpgaGLxfk-nEheXvpaCLbUAl4ICyDCFp33zQXZtbn-xoutFRzvQbS9WznvauuLZtHaQPEjZ0w29z9o7n_U1P-vvf7Zqyvs9s0BJQC-rIP1Rw2Qg0wLEBPoCYtTzNWsUDM3MgFKGZuYKLxc0gjw0ZfvTpZtfzp0E9B8wEMBKLBReLpsG9BfIhher9j9rWA6yvrsX6G2gDS_WdT1uXgsUf7-n_3Fzx9MN_UD2k11TXjRuejl_88tZfUD7jB7NXAs0ABgDCkB9T9dOgLjhxdo5z-aserZi5suG-U93LQNa_2zPlKdL-yHc5027nm9f8aKh9cWKtU_XzXq_ZzZcy4s9nc9m9AG9_2z2pid75wDVQJ33vLPj5dxFL1bsfrFiBshta-c82dEN9sTjhkZDc2AA9T9f3_C0dwOQ8XTt9Gfd05_sbwY683FDz-Om7Y-bFz9u6AWztz5uboayG6c-bgSJg5y3ZiEwmCBhDjJkyXKgIUA1T3Z3AcPrcVMLkvYWMNkH1jgb5AQTqO0QRwG1A1VqPG7aq_C4eY0mpvnP5zQ-n7r0cUMTF8hjjxsmIEf444aJIFGNJzsaNEEMuAMg6f9xQ8PzldMfN64Gkz1PJ2163NjyuHEZSOnLdqCX1j1u3Pe4ccnjpi4QG6h6zeynS1a93DMZbBeK8xvAjJWPm1cBYxfIfdq-C2gSMIc9buoBq25e8bhpyeNmIOoCq94L9A-IARVHkGCPaDzZ1QN28tONG8HuALoAKNn4uHE9SFPjzMdNcx839gKlXnQBFXSDrQA6tqkb7IWuZ3M6wDGyD-4UsFfWPm7sp4Pbd3SC3f64cf_jpsmPG1c9XzPx5UJgPut43DQRGNCPG3cDE-LjxuVgrwAdPfnpnMkg2cZ9IHGQH8CufDYXqHr9s2VA7wN1dgNVQ-OtcQHtPfF09mywJyAmgOyGMJpAhoMDc8HTJXOA7ns5dTswzCH-RQp3ELkDpG0Z0DuroXHQBIkoWjkcUgRSByho6XNx-SYCq5-AzMS8fIcag5pqkAUKNoZmWnZgFrbiWwGYh4HZ7cXCHgUNWFbWUYCVr5pYNADtARlWo2CgoKtgCMVGQFwDZoGgWTxUGCEEglgUmYKIGrCBPoY1CiDe46bNILK5A8wGlV5gbY-bZ0M1Pm5aBmWBRHuRLICJgQwAQWAaBareCzZuDZDXibDMCGZZC4hs3Acm10H0N3bBbGpcgTC1qRHTpsb1eG3CH-q7esgJdUSwGYMIYKjGA0WBBMQhYEFIqEKUwiAkOsAyIAiKPLAn4GEPCeDHzd1gEhLYj5vWgL2-FRYgTUuQgrkNI0BgLJgtiMAGFoHgAIWQkEgDBThyIAJLHqSgBbmDkOkEknUnuckaHIpYgxKWetFCF10ZKKmDkzta0gYFJDRpN_dBg3EezPvNoLQIC1xYUCC8D9EBUTkVbBoodaKlZ0hKbgJHYiPIPNT0vAQW9hAJkDFoloANgCgGZTNgqQ-2BG9IA8teckIaFJaI5AxmoRYYqNGOKYIlETfthzkfOamCixRiTcWWeBGBshZhamM_WaYSKBWmkBOUxlDT4ekOXjJjls4gCA1sRMDDCwbksAQ1F2EehyZdaKKF8laCSVBShSRqUCJtR7IGUkaARDeBeaBiEVRAYgYwqDUK0wROlojSGJLWwVqbQCkZUiqDZEBJE24VOLmCnDYJzAM7ramHuFB_2rqWrFBHLgLARTBUDF6G4C4-YCxsBTGocYASiiAeSALkfUhBAqtqIOJIGlA4aHJYUjaweQQuJuB2gStEUOCCYhVSpMyFByWaBhQOmhzCrlouLl07BVDTRAFIK3MBAA)]
-- [鋼琴伴奏 TMD 檔案](honen_odori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeLFxwtOdW17s6Hq_p-Nl957nE7Y82bPl6dL-F2vnvN_TqaClxaVoq2BoYMBlb6vgpMNlY6RvYgcy80X7rueNi5_v2Pt87uKnu-a8WLvsaffMpxsbHjd0PZs680XTpmedDc-nrFB4OmXjs7U9QKFncye8nN32uKEbaNGzGWufTup52tsItPr9np7nWxY9m73jxcz5CgbmRqYKhiYWQKuVuLh8EzPzrAJAXgrycKgxqKnmUgACG0MzLTswS19LwRYdKDxfs-bJjoYXC3sUNEwUnm7of76-QUchwNDSXC-rIF0TiwYtfbBhNQoGCroKhlBsBMQ1YBYImsVDhRFCIIhFkSmIqAEb6GNYowDiPW7aDCKbO8Ds7Y-bF4O1PW6eDdX4uGkZlAUS7UWyACYGMgAEgUEHVL0XbNwaIK8TYZkRzLIWENm4D0yug-hv7ILZ1LgCYWpTI6ZNjevx2oQ_1Hf1kBPqiGAzBhHAUI0HigIJiEPAgpBQhSiFQUh0gGVAEBR5YE_Awx4SwI-bu8EkJLAfN60Be30rLECaliAFcxtGgMBYMFsQgf24cSY4QCEkJNJAAY4ciI8bVyEFLcgdhEwnkKw7yU3W4FDEGpSw1IsWuujKQEkdnNzRkjYoIKFJu7kPGozzYN5vBqVFWODCggLhfYgOiMqpYNNAqRMtPUNSchM4EhtB5qGm5yWwsIdIgIxBswRsAEQxKJs9blwOtgRvSD-dPZuckAaFJSI5g1moBQZqtGOKYEnETfthzkdOquAihVhTsSVeRKCsRZja2E-WqQRKhSnkBKUx1HR4uoOXzJilMwhCAxsR8PCCATkstz5uboZ5HJp0oYkWylsJJkFJFZKoQYm0HckaSBkBEt0E5oGKRVABiRnAUx83gsp5SBiDUze8NIakdbDWJlBKhpTKIBlQ0oRbBU6uIKdNAvPATmvqIS7Un7auJSvUkYsAcBEMFYOXIbiLDxgLW0G8ApF4IaEI4oEkQN6HFCSwqgYijqQBhYMmhyVlN3VAigm4XeAKERS4oFiFFClz4UGJpgGFgyaHsKsWuWXig9wysYA2TECFbrRhfCyUMI0HkjUQjq5CtFl8fC5UCi4IFMauCiIKNRVFMNoYzAE5NNoIyoSKwc2CqAcbD7UOLAOJJZipQLdCteHQDXUSqnkYimBugDsW7HcUF0M4SJ5GLlAgLGSHwYICbjJcBEuwwoMM5kkUq5EMhQUb3GC4GCIgcIcAhAFxJTAh6NopgNJCtI8hUBjGNgKzlbkA)]
+- [主旋律 TMD 檔案](honen_odori.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLc0RMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWpXkgG0vQ7CnJSAWGQlpqcUlmWWIOunh5fhGSdyFiuaXFmclKXFpaCi82Tni6c8uLHV0KWlpcirYKhgYGXPa2Ck46XDZG-iZ2IH0v2nc9b1z8fMfe53MXP90158XaZU-7Zz7d2PC4oevZ1JkvmjY962x4PmWFwtMpG5-t7QEKPZs74eXstscN3e_3dDybsfbppJ6nvY1AW97v6Xm-ZdGz2TtezJyvYGBuZKpgaGLxfk-nEheXvpaCLbUAl4ICyDCFp33zQXZtbn-xoutFRzvQbS9WznvauuLZtHaQPEjZ0w29z9o7n_U1P-vvf7Zqyvs9s0BJQC-rIP1Rw2Qg0wLEBPoCYtTzNWsUDM3MgFKGZuYKLxc0gjw0ZfvTpZtfzp0E9B8wEMBKLBReLpsG9BfIhher9j9rWA6yvrsX6G2gDS_WdT1uXgsUf7-n_3Fzx9MN_UD2k11TXjRuejl_88tZfUD7jB7NXAs0ABgDCkB9T9dOgLjhxdo5z-aserZi5suG-U93LQNa_2zPlKdL-yHc5027nm9f8aKh9cWKtU_XzXq_ZzZcy4s9nc9m9AG9_2z2pid75wDVQJ33vLPj5dxFL1bsfrFiBshta-c82dEN9sTjhkZDc2AA9T9f3_C0dwOQ8XTt9Gfd05_sbwY683FDz-Om7Y-bFz9u6AWztz5uboayG6c-bgSJg5y3ZiEwmCBhDjJkyXKgIUA1T3Z3AcPrcVMLkvYWMNkH1jgb5AQTqO0QRwG1A1VqPG7aq_C4eY0mpvnP5zQ-n7r0cUMTF8hjjxsmIEf444aJIFGNJzsaNEEMuAMg6f9xQ8PzldMfN64Gkz1PJ2163NjyuHEZSOnLdqCX1j1u3Pe4ccnjpi4QG6h6zeynS1a93DMZbBeK8xvAjJWPm1cBYxfIfdq-C2gSMIc9buoBq25e8bhpyeNmIOoCq94L9A-IARVHkGCPaDzZ1QN28tONG8HuALoAKNn4uHE9SFPjzMdNcx839gKlXnQBFXSDrQA6tqkb7IWuZ3M6wDGyD-4UsFfWPm7sp4Pbd3SC3f64cf_jpsmPG1c9XzPx5UJgPut43DQRGNCPG3cDE-LjxuVgrwAdPfnpnMkg2cZ9IHGQH8CufDYXqHr9s2VA7wN1dgNVQ-OtcQHtPfF09mywJyAmgOyGMJpAhoMDc8HTJXOA7ns5dTswzCH-RQp3ELkDpG0Z0DuroXHQBIkoWjkcUgRSByho6XNx-SYCq5-AzMS8fIcag5pqkAUKNoZmWnZgFrbiWwGYh4HZ7cXCHgUNWFbWUYCVr5pYNADtARlWo2CgoKtgCMVGQFwDZoGgWTxUGCEEglgUmYKIGrCBPoY1CiDe46bNILK5A8wGlV5gbY-bZ0M1Pm5aBmWBRHuRLICJgQwAQWAaBareCzZuDZDXibDMCGZZC4hs3Acm10H0N3bBbGpcgTC1qRHTpsb1hG0yhtrUuB9s32QwexXUzIlwm3qQTN2NZAsw24FFYXw8NpnA_DQJrG8lmA0yF2QTSAxiHkgc5ieYrZBwBQU5IZvwp6RdPeSkJERSMAYRwJQSDxQFEhCHgAUhKQWiFAYhSQwsA4KgBAn2GDw9QRLN4-ZuMAlJQI-b1oC9vhXu7SWIAGluQzIeIgZjwWxBJCBgsQ4OUAjZCw3edSgJAxLVsIgFuYMo04GJBpoooQkGxAbxusHm9OM0h6DJwEQCS-4LwCaCIh3EWw82GeZa1AQJyiSETCdQxHSSW8SAYx9rEoCVJGipAl0ZqNgBFz1oxQwoAUCLmeY-iEeb58G83wzzMkgUFigI70N0QFROBZsGKinQyhZoBIITHzgIUcuWJbA0A5EAGYNmCTTWQYpBRR60KEAtVpoawCQoc0JSHbJZiBQHEoXENIoNYMdBVIIKnceNoPSPVpyAnQx0LpgEuRjVBpgbcflhB1wluABsXA22AW9qAdbl5KQWUHpAFCVgFmoFBHESKh9ZBEsB0gRyNNj5yMUEuIoi1lRsBQciYtciTKUkW4MLDJhZkEIDZioom5NpKriwACU6iFuR6l14wiHNVAK1xxRyot0Yajo8n8NbJZgtExCEJgxEIoFXIMjxDuoqwTwOLSqghQSUB65ewUUDpBABFQrtSNZA6hKQ6CYwD5xDgRUpilXgxADqicE0gbMQoiUCKVvAWpsg2RBcziDFCiJmYLU8cs2PZBU4hdDHKnCyoblV-IuQ1rVkpSXkigTcAIGKwWsi3JUQjIWtGQJq7iN7rRnEA0mAvA8px2ENLYg4kgYUDpoclrIF2OFBqa8hTVxY3Q4p0efCgxJNAwoHTQ5LiUMvu0AJig521XJx6dopgDpR0T6GsQpwthES2xiJbQJmK3MBAA)]
+- [鋼琴伴奏 TMD 檔案](honen_odori_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeLFxwtOdW17s6Hq_p-Nl957nE7Y82bPl6dL-F2vnvN_TqaClxaVoq2BoYMBlb6vgpMNlY6RvYgcy80X7rueNi5_v2Pt87uKnu-a8WLvsaffMpxsbHjd0PZs680XTpmedDc-nrFB4OmXjs7U9QKFncye8nN32uKEbaNGzGWufTup52tsItPr9np7nWxY9m73jxcz5CgbmRqYKhiYWQKuVuLh8EzPzrAJAXgrycKgxqKnmUgACG0MzLTswS19LwRYdKDxfs-bJjoYXC3sUNEwUnm7of76-QUchwNDSXC-rIF0TiwYtfbBhNQoGCroKhlBsBMQ1YBYImsVDhRFCIIhFkSmIqAEb6GNYowDiPW7aDCKbO8Ds7Y-bF4O1PW6eDdX4uGkZlAUS7UWyACYGMgAEgUEHVL0XbNwaIK8TYZkRzLIWENm4D0yug-hv7ILZ1LgCYWpTI6ZNjesJ22QMtalxP9i-yWD2KqiZE-E29SCZuhvJlseNy8GiMD4em0xgfpoE1rcSzAaZC7IJJAYxDyQO8xPMVki4goKckE34U9KuHnJSEiIpGIMIYEqJB4oCCYhDwIKQlAJRCoOQJAaWAUFQggR7DJ6eIInmcXM3mIQkoMdNa8Be3wr39hJEgDS3IRkPEYOxYLYgEtDjxpngAIWQvdDgXYeSMCBRDYtYkDuIMh2YaKCJEppgQGwQrxtsTj9OcwiaDEwksOS-AGwiKNJBvPVgk2GuRU2QoExCyHQCRUwnuUUMOPaxJgFYSYKWKtCVgYodcNGDVsyAEgC0mGnug3i0eR7M-80wL4NEYYGC8D5EB0TlVLBpoJICrWyBRiA48YGDELVsWQJLMxAJkDFolkBjHaQYVORBiwLUYqWpAUyCMick1SGbhUhxIFFITKPYAHYcRCWo0HncCEr_aMUJ2MlA54JJkItRbYC5EZcfdsBVggvAxtVgG_CmlqezZ5OTWkDpAVGUgFmoFRDESah8ZBEsBUgTyNFg5yMXE-AqilhTsRUciIhdizCVkmwNLjBgZkEKDZipoGxOpqngwgKU6CBuRap34QmHNFMJ1B5TyIl2Y6jp8HwOb5VgtkxAEJowEIkEXoEgx_vWx83NMI9DiwpoIQHlgatXcNEAKURAhUI7kjWQugQkugnMA-dQYEWKYhU4MUx93Ahq40DCGFyawFsikLIFrLUJkg3B5QxSrCBiBlbLI9f8SFaBUwh9rAInG5pbhb8IaV1LVlpCrkjADRCoGLwmwl0JwVjYmiErEMUHJG2AeCAJkPch5TisoQURR9KAwkGTw1K2NHWg1teQJi6sboeU6HPhQYmmAYWDJoelxKGXXaAERQe7apH7UD7IfSgTaBcK1CTRMIwHpgJNUIzH4-GYxgMbsfAGLkTSGCwJTFcaJvFAQRAHVQqkyQCuDWIXRAZVHYgHtgDMAjWXYXUgyFyQOF63IazAqwxiEqqbgJkA3DoH0ggHANUi6VYwBOoHBaaunQIoPKN9DGMV4GwjJLYxEtsEzFbmAgA)]
 
 ## 分析
 
@@ -90,14 +90,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 豐年踊 ]
 ================================================================================
-⏱  Duration:       0:28 (28.8s), 24 measures total
+⏱  Duration:       1:55 (115.2s), 96 measures total
 🎼 Key & Tempo:    首調基準 B,, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Main #1 @ m.5, 0:05]
-   - 最高音: D5 in [Main #1 @ m.17, 0:19]
+   - 最低音:  C4 in [Main[L1] #1 @ m.5, 0:05]
+   - 最高音: D5 in [Main[L1] #1 @ m.17, 0:19]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (28.8s)
+🏛  結構:      Main[L1] (28.8s) -> Main[L2] (28.8s) -> Main[L3] (28.8s) -> Main[L4] (28.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -105,9 +105,12 @@ tmd_source:
    - 核心骨幹音:  A#, G, F, D, C
    - 調性數值:    A# 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): A# 大調 (0.84), G 小調 (0.79), F 大調 (0.48)
-   - 五度圈歷程:   -2
+   - 五度圈歷程:   -2 -> -2 -> -2 -> -2
    - 各段落調性細節:
-     • [Main #1]: A# 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Main[L1] #1]: A# 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Main[L2] #1]: A# 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Main[L3] #1]: A# 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Main[L4] #1]: A# 大調 (r: 0.84, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -134,7 +137,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 56 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 224 個音符)
 ================================================================================
 ```
 

@@ -79,8 +79,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](jinja_sanpai_shoka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLc0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI6i1BygYmQrIOLJqUWpufl5mYk56DKZuQVAx4PEtbQUni-d93zJvqf9zc-65zydsvHZ2h4FLS0uRVsFCwsue1sFFy4bE30TO5AJTzu2PV036_2eWU9bVzyd0w3U-KJx-7M5zWDjn-yd82z2JqDks7kbn-xa83L-5mcrmp6u3fFswUKw_Iv2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaEAcQJQ6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z09z7csejZ7x4uZ8xUMzI1MFQxNLN7v6VTi4tLXUrClFuBSUAAZpvC0bz7Irs3tL1Z0vehoB7rtxcp5wAB4Nq0dJA9S9nRD77P2zmd9zc_6-5-tmgIMA1DC0ssqSAc6HaL_-Zo1CoZmpgovFzSC3D9l-9Olm1_OnQT0DtDPYElzhZfLpgG9ATawb_6LtXOe7930dEIvZnDDoqEfM6SBMQDS_2LV_mcNy0Gu7e4FhhLQiMfN3UBBoHNcQJJAa4BxqgCUfbp2AsSNQPuezVn1bMXMlw3zn-5aBnTksz1Tni7th3CfN-16vn3Fi4bWFyvWgu3u5ALZ87hhAnJ4PG6YCBLVeLKjQRMs3Tj5ceO6l3PnPF23DmjL48bpjxuXPm7c_7ipBWjC48bVL_vWwsXBIvseN3U9blwG0TzzcVPj4yag6P7Hjd2PG1cCzQKzp4K5HY-bJoHDaseO54tBnnjcuOJxY-_jxvVAk54uaIUJApVCBYEWPl0H1Aa0YR_QdJBmYJjCTG153LgEzJ7_uHEr2KzpQHeCvanxZFcP1ENAvbvByoGqusGOWwGMI6DJYKkdj5u6wW5ashyUXDdve7ZgJ8gRTUDDgVaCzQQxgL4G6lwHjNRnGyaCXdkPNgJoKChuYD7rbQbLLQQKPdm9GGxQB5D9YsIaCPtxE9BmUMAhy4IMAoZb4wSwM2EehbkZyAd6cevjpjYwAxg4QBcBYwnJrzs6kSIP5JNOYBoEOgPidaABO6CRtxAivgZoDFgEGLVA94Aj7-mE2UDvAj0H9jTQZ8A4W_i4selxUw9QBGL8_MdNwMDfBFYx83HjIqC650uBngC6aRU0HB83AcOl5_mceU_3Q4ICaPsUkMOagFaDgglsI8T5QC_PhuZZ6gAFLX0uLl9gmWsVkJmYl-9QY1BTDbJAwcZEyw7MwFbcKAAzMzD9v1jYo6BhAiwZ-p-vb9BRgJUHmlg0AK0BGVajYAqGZlCWsYIumGUYB0IQUV0gNFCoAav3MawBhs9mhcfNfUB6O5BuBap53DwfiJcAcTdYP0zmcfM8IF4FVtEGNiceZo4RUKyxC4h3g1IJKGJAqhq7gXo7gfQKiDmNq4B4NVTlDrDJIBsg5uAPjV095ISGMRgaQVkgv9cAeUZAtiGYhRkWO4F-WwjEK8GhABIBurcZ6AdgCIH9AAqbpq0Q8aYVYJFNmGHR1AL04T6wz4EJC-x3EG8tEK-DhkU_NCyA5gFDDKRnEpFhsaOT3LAApYkaYDowg4YFgZTR3AF0FdDNzUC3Av0LciOUB0sZ4BSxCJwqQGxICGKmDGCINoHMAuFesO-XQnjAEICksEYgewI07ewDq5hJXGg8nT2bnNCA-BvudVhWMQKzQAnGEEviACUFUNYAZhZo4gBlEmBUwxJHE9D5zVOhAbcdHEBLsAQHJINAksQ6sGdBCaoNKXEAMw4w2QCLJVjyASYomDm1XFy6dgqgQkUBSCtzAQA)]
-- [鋼琴伴奏 TMD 檔案](jinja_sanpai_shoka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeL503vMl-572Nz_rnvN0ysZna3ve7-l42b3n-YQtT_Zsebq0_8XaOe_3dCpoaXEp2ipYWHDZ2yq4cNmY6JvYgYx-2rHt6bpZ7_fMetq64umcbqBpLxq3P5vTDLb3yd45z2ZvAko-m7vxya41L-dvfrai6enaHc8WLATLv2jf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQoQdwGFns2d8HJ22-OGbqAbn81Y-3RSz9Pexqc7t7zf0_N8y6Jns3e8mDlfwcDcyFTB0MQC6GolLi7fxMw8qwBQsAR5ONQY1FRzKQCBjYmWHZihr6Vgiw4Unq9Z82RHw4uFPQoaJgpPN_Q_X9-goxBgaGmml1WQrolFg5Y-2LAaBVMwNIOyjBV0wSzDOBCCiOoCoYFCDVi9j2GNwuOmzQqPm_uA9HYg3QpU87h5PhAvAeJusH6YzOPmeUC8CqyiDWxOPMwcI6BYYxcQ7wbi_UA8H6SqsRuotxNIr4CY07gKiFdDVe4AmwyyAWIO_tDY1UNOaBiDoRGUBfJ7DZBnBGQbglmYYbET6LeFQLwSHAogEaB7m4F-AIYQ2A-gsGnaChFvWgEW2YQZFk0tQB_uA_v8ceN0sN9BvLVAvA4aFv3QsACaBwwxkJ5JRIbFjk5ywwKUJmqA6cAMGhYEUkZzB9BVQDc3A90K9C_IjVAeLGWAU8QicKoAsSEhiJkygCHaBDILhHvBvl8K4QFDAJLCGoHsCdC0sw-sYiZxofF09mxyQgPib7jXYVnFCMwCJRhDLIkDlBRAWQOYWaCJA5RJgFENSxxNQOc3T4UG3HZwAC3BEhyQDAJJEuvAngUlqDakxAHMOMBk87hxMiz5ABMUzJxa5DLFB1uZUqMQbRgLVA0io01iUfgg87HLInyLEIk2jceiHSSIwcXUDlcAtIQsy7E5HWQZWDMII7sOYgIwcHTtFEDhE-0DEoaxjcBsZS4A)]
+- [主旋律 TMD 檔案](jinja_sanpai_shoka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrsyvLC3OyI8H4uzEeENLY1MluLqy_JzS3FT8aorzS4uSU62KkzPy83PiS1IrSpLy87PR5eMLEtNTrQIMLc0QMgVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOni5MS8-LLUosy0zNQUJOelFhWD_AC1oqQoMa84uSizAOQxhKr8opKM_PSixIKMSquMzOKS_KLM5MSc-OzEvERkRZnpmXlWJYmZUH-WJ8bnJmbm5STmIVlYkpEKDI6i1BygYmQrIOLJqUWpufl5mYk56DKZuQVAx4PEtbQUni-d93zJvqf9zc-65zydsvHZ2h4FLS0uRVsFCwsue1sFFy4bE30TO5AJTzu2PV036_2eWU9bVzyd0w3U-KJx-7M5zWDjn-yd82z2JqDks7kbn-xa83L-5mcrmp6u3fFswUKw_Iv2Xc8bFz_fsff53MVPd815sXbZ0-6ZTzc2PG7oejZ15oumTc86G55PWaEAcQJQ6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z09z7csejZ7x4uZ8xUMzI1MFQxNLN7v6VTi4tLXUrClFuBSUAAZpvC0bz7Irs3tL1Z0vehoB7rtxcp5wAB4Nq0dJA9S9nRD77P2zmd9zc_6-5-tmgIMA1DC0ssqSAc6HaL_-Zo1CoZmpgovFzSC3D9l-9Olm1_OnQT0DtDPYElzhZfLpgG9ATawb_6LtXOe7930dEIvZnDDoqEfM6SBMQDS_2LV_mcNy0Gu7e4FhhLQiMfN3UBBoHNcQJJAa4BxqgCUfbp2AsSNQPuezVn1bMXMlw3zn-5aBnTksz1Tni7th3CfN-16vn3Fi4bWFyvWgu3u5ALZ87hhAnJ4PG6YCBLVeLKjQRMs3Tj5ceO6l3PnPF23DmjL48bpjxuXPm7c_7ipBWjC48bVL_vWwsXBIvseN3U9blwG0TzzcVPj4yag6P7Hjd2PG1cCzQKzp4K5HY-bJoHDaseO54tBnnjcuOJxY-_jxvVAk54uaIUJApVCBYEWPl0H1Aa0YR_QdJBmYJjCTG153LgEzJ7_uHEr2KzpQHeCvanxZFcP1ENAvbvByoGqusGOWwGMI6DJYKkdj5u6wW5ashyUXDdve7ZgJ8gRTUDDgVaCzQQxgL4G6lwHjNRnGyaCXdkPNgJoKChuYD7rbQbLLQQKPdm9GGxQB5D9YsIaCPtxE9BmUMAhy4IMAoZb4wSwM2EehbkZyAd6cevjpjYwAxg4QBcBYwnJrzs6kSIP5JNOYBoEOgPidaABO6CRtxAivgZoDFgEGLVA94Aj7-mE2UDvAj0H9jTQZ8A4W_i4selxUw9QBGL8_MdNwMDfBFYx83HjIqC650uBngC6aRU0HB83AcOl5_mceU_3Q4ICaPsUkMOagFaDgglsI8T5QC_PhuZZ6gAFLX0uLl9gmWsVkJmYl-9QY1BTDbJAwcZEyw7MwFbcKAAzMzD9v1jYo6BhAiwZ-p-vb9BRgJUHmlg0AK0BGVajYAqGZlCWsYIumGUYB0IQUV0gNFCoAav3MawBhs9mhcfNfUB6O5BuBap53DwfiJcAcTdYP0zmcfM8IF4FVtEGNiceZo4RUKyxC4h3g1IJKGJAqhq7gXo7gfQKiDmNq4B4NVTlDrDJIBuQzDEGqZoMxOvg5oFE9oHVg_RCzFkDMbtxKRD3gkWWwc3BH6q7esgJVWMwNIKyQGFYA-QZAdmGYBZmmO4EhtFCIF4JDk2QCNDfzcCwAIY02A-gMG7aChFvWgEW2YQZpk0tUN-vAOLp8LBYCw4hSFj0Q8MUaB4w5EF6JmEJ015ovIDMgcQNjAcL06lADHRxYxPQhB6wCCjWiAnTHZ3khikojdYA06UZNEwJpNTmDqDbgH5vBvoZGG4gv0J5sJQKTqGLwKkUxIbEBGZKBfqzCWQWCEPSDzAlgXiw0GhqBLInQENpH1jFTCyhCgrzBUC8CRxaEFXAUggpVEHxB0zLwHQOSv2oKR5vqD6dPZucUIWEHzwIYUWAEZgFSsCGWBIrKGmCsjywEIAmVlDmBzodllibgMHQDEwg4AjYDg7oJViCFZLxIUl0Hdj7oATehpRYQcEwHZrFwckZmMAxgrUJlKR7oOZMAesDqgdGFCRpw5IzxAxQVIFEZsPNqeXi0rVTABW60T6GsQpwthES2xjMVuYCAA)]
+- [鋼琴伴奏 TMD 檔案](jinja_sanpai_shoka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzFHi0tJSeL503vMl-572Nz_rnvN0ysZna3ve7-l42b3n-YQtT_Zsebq0_8XaOe_3dCpoaXEp2ipYWHDZ2yq4cNmY6JvYgYx-2rHt6bpZ7_fMetq64umcbqBpLxq3P5vTDLb3yd45z2ZvAko-m7vxya41L-dvfrai6enaHc8WLATLv2jf9bxx8fMde5_PXfx015wXa5c97Z75dGPD44auZ1Nnvmja9Kyz4fmUFQoQdwGFns2d8HJ22-OGbqAbn81Y-3RSz9Pexqc7t7zf0_N8y6Jns3e8mDlfwcDcyFTB0MQC6GolLi7fxMw8qwBQsAR5ONQY1FRzKQCBjYmWHZihr6Vgiw4Unq9Z82RHw4uFPQoaJgpPN_Q_X9-goxBgaGmml1WQrolFg5Y-2LAaBVMwNIOyjBV0wSzDOBCCiOoCoYFCDVi9j2GNwuOmzQqPm_uA9HYg3QpU87h5PhAvAeJusH6YzOPmeUC8CqyiDWxOPMwcI6BYYxcQ7wbi_UA8H6SqsRuotxNIr4CY07gKiFdDVe4AmwyyAckcY5CqyUC8Dm4eSGQfWD1IL8ScNRCzG5cCcS9YZBncHPyhuquHnFA1BkMjKAsUhjVAnhGQbQhmYYbpTmAYLQTileDQBIkA_d0MDAtgSIP9AArjpq0Q8aYVYJFNmGHa1AL1_Qogng4Pi7XgEIKERT80TIHmAUMepGcSljDthcYLyBxI3MB4sDCdCsRAFzc2AU3oAYuAYo2YMN3RSW6YgtJoDTBdmkHDlEBKbe4Aug3o92agn4HhBvIrlAdLqeAUugicSkFsSExgplSgP5tAZoEwJP0AUxKIBwuNpkYgewI0lPaBVczEEqqgMF8AxJvAoQVR9bgRaD88VEHxB0zLwHQOSv2oKR5vqD6dPZucUIWEHzwIYUWAEZgFSsCGWBIrKGmCsjywEIAmVlDmBzodllibgMHQDEwg4AjYDg7oJViCFZLxIUl0Hdj7oATehpRYQcEwHZrFwckZmMAxgrUJlKR7oOZMAesDqgdGFCRpw5IzxAxQVIFEZsPNqUUuc32wlbnAUIhX0DCOVzCN11QwiQeygXyTeAUzIBdFDsgEhhRxqhUMYeox7TAF6TKCsLFZAJM3UYcLw1RgSoL4WG1B0YXmUBQ58vxDpInEeAnFEqCZICZQAmQXMPZ07RRAERjtYxirAGcbIbGNwWxlLgA)]
 
 ## 分析
 
@@ -88,14 +88,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 神社參拜唱歌 ]
 ================================================================================
-⏱  Duration:       0:43 (43.6s), 16 measures total
+⏱  Duration:       2:10 (130.9s), 48 measures total
 🎼 Key & Tempo:    首調基準 D, != 88.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Main #1 @ m.7, 0:18]
-   - 最高音: D5 in [Main #1 @ m.3, 0:06]
+   - 最低音:  D4 in [Main[L1] #1 @ m.7, 0:18]
+   - 最高音: D5 in [Main[L1] #1 @ m.3, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Main (43.6s)
+🏛  結構:      Main[L1] (43.6s) -> Main[L2] (43.6s) -> Main[L3] (43.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -103,9 +103,11 @@ tmd_source:
    - 核心骨幹音:  A, F#, D, E, B
    - 調性數值:    A 大調 [相關度: 0.82, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): A 大調 (0.82), D 大調 (0.78), F# 小調 (0.73)
-   - 五度圈歷程:   +3
+   - 五度圈歷程:   +3 -> +3 -> +3
    - 各段落調性細節:
-     • [Main #1]: A 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [Main[L1] #1]: A 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [Main[L2] #1]: A 大調 (r: 0.82, 自然音純度: 100.0%)
+     • [Main[L3] #1]: A 大調 (r: 0.82, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -132,7 +134,7 @@ tmd_source:
      B  : ███████                   10.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 48 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 144 個音符)
 ================================================================================
 ```
 
