@@ -1,6 +1,9 @@
 venv/
 __pycache__/
 site/
+.tmp/
+tmp/
+**/_slices/
 .DS_Store
 *.wav
 # *.mid

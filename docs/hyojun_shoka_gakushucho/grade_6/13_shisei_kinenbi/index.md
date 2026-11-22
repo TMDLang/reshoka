@@ -66,8 +66,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shisei_kinenbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03Q4gX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBshZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuR1qRUlRYl5xclFmAchDCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmJSIUlWSkAj2XmVsAtCQxB108ObUoNTc_D4tMSWJmeSLQMi0thafLu59N2f98S8PT_VufTV-qoKXFpWirYGnGZW-r4MxlY6JvYgfS_KJ919Oe6U93rH6-vuXp2h3PFix8ObPl6cY1Tzf0Q7hPW5crPFu7-Nmyqc_mND_fvuJxQ9ezFTOf7Zr2dMrGZ2t7gIqe75_0dMc0hedr1jxtXQvkP925ReFp66Tnq5c-nwJU3v1-T8ezGWufTup5sqsHKPdk15Rnczqe9jY-2dEMdNjzmXteLOx5v6fn-ZZFz2bveDFzvoKBuZGlgon5-z2dSlxc-loKttQCXAoKCk_75oOs2dz-YkXXi452oBderJz3tHXFs2ntQIc-3dD7rL1TAZQy9LIK0h81TAYyjUFMoAshWhUK9BSMjYAyxsYgVyP5GshWMDRReLlsGtDp7_fMAln3YtX-Zw3LQRZ19wL9BhR93NwPFHw6e_bTjrYnO7uBDKDU07UTgLY7KzxdshwoqQCMHQWgKNiYnkczV9oC4w1k2pMdDY8bGp91bnu2cCJQ_ePGrY8bpz5ubAMqfNzc93zlLrDg3MdNQH1Ake6Xq2c8bQWygYLzHzd2P27cBCTBUqtBxoHAsw6wSU39IOGmNcAYASvfBDHy6b6FEKc9btz_uHEyRBCYrp7sAkXr48Z9jxuXPG7qetw45XHjCqAszFRg6gPLr3_cOAOsaeHj5rZnUzvAgpNhJnU_m7odLDIdbPnax83zHjdtByKYMY-bVwCFUd206fnSuWBuy-PGHSCRxh0vJqx5tnYzWHDD4yag8dOAshAbIMG2qwcYbE_bWp8uAUYNUFXb48aFoHACuxnko60QdwDF90NEXs6aAhbZ8bhxAVik7XFzF9At8GCb0fds025wyDWCnbIIGmDQ4AYFNDBggIIvZ0F83Q8MLbCaRWCT1sNMAubA542Ln27eBoumFmBkgH0BZENitvvFHoiXgTHY87gJ7DVgaCHC6cXavWD53aAYaQLmJlA4AZM2zFPAdEdUOO3oBCWvGWCvNzWA7QNHDTghPNm9GJoQmoA-Aml6sg8Sy_PBgQBRiRxI2KKv_8nuLpjIRGAChhiPTWXX4-ZVcA9OWAN2ExD1Pm4EqgK7aQ7EemDIroaG016gT4EiKx43rgSqJCqcsDsIm0qYgygviKBAQUufiysYWAukZnpn5qXmJWVaheUDawOHGoOaarCbbSy07MAMbMWgwtM9G19s3a6gDSp7gUUDsBxV0IAVXZpY1AOtA5lVo2CgoAuGINoUiGsUDOOAFJgwB2IzsBhIRlfBGEqDREDiIJ4JWBwkYgSVA0GwSWAbfAxrFOKhoiD6cfNUsOrHTVtBvKZlYLE-MHsvRKZ5JVg1MBKBYvvhNj5uWg0WnQRWC2GDSJDMWiS7HzevR9huhGY72D6QHY1glR1ItsNk5kNN6QPihQjbmxvAom1gsgusA2QrSAZkCsJ2kB6o7cbofl-A7JOm7QjbwbaCzFqB3e9gU2E6kG1H2AySAemuAWdg7MkElDp29RCfOqiRFkApC5EWgBUL2KXgWET1e9NmpJCfh-T3FrDoKjC5CB4C6CEPCmFErD9uWgJWCYlniD0gO2GhD0mJELNh9iDbAHEf1J4mUIrCYg8wfiHxAFPfDyKbNkLNA6V0LP4Bm4aqD-YfkAtQ7cEflzs6iY9LUMyA4ggUU5CYNASSoJiCyCDizRgckybqYCFYNGOJSrB3QV7ZAUug4OwBi0ooCUzKCK-DEjDE85AggYggZLBHJSQjgKIUkrkfN4NMhsnAChFke6BRDExsj5vBCQGWWXHZA4pKeOYDua4VzAIlHHiUgW1AsQeaAB83d4J14bcHb1QCG3_ERyUkTszANDh31oDzJ5gDilqI62DZERKpJtAIxxWXUL-DYwaSKDdBfQIKP0jiBjYckPw-AR4Tj5u2QXUvAcvAQghLXDbPhpo2D4ghRQHMHlAsgszYD886ZNoDjktMe0CpFWQPKHvCsj8ofmH2gHRAUyVYByRjYs-WtVxcunYKKBV2tI9hrAKmoBE2QWOwoDIXAA)]
-- [鋼琴伴奏 TMD 檔案](shisei_kinenbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4tLSUni6vPvZlP3PtzQ83b_12fSl7_d0PNmz5enS_vd7OhW0tLgUbRUszbjsbRWcuWxM9E3suOoUlF6073raM_3pjtXP17c8Xbvj2YKFL2e2PN245umGfgj3aetyhWdrFz9bNvXZnObn21c8buh6tmLms13Tnk7Z-GxtD1DR8_2Tnu6YpvB8zZqnrWuB_Kc7tyg8bZ30fPXS51OAyruBzng2Y-3TST1PdvUA5Z7smvJsTsfT3sYnO5qBjnw-c8-LhT3v9_Q837Lo2ewdL2bOVzAwN7JUMDEHulqJiys4I7M4NdM7My81LynTKiAzMS8_yMOhxqCmmksBCGwstOzADH0tBVt0oPB0z8YXW7craIMc92RHA9AiBY0AA2MjvayCdE0s6rX0wWbVKBgo6IIhiDYF4hoFwzggBSbMgdgMLAaS0VUwhtIgEZA4iGcCFgeJGEHlQBBsEtgGH8MahXioKIh-3DwVrPpx01YQr2kZWKwPzN4LkWleCVb9uLkbKLYfbuPjptVg0UlgtRA2iATJrEWy-3HzeoTtRmi2g-0D2dEIVtmBZDtMZj7UlD4gXoiwvbkBLNoGJrvAOkC2gmRApiBsB-mB2m6M7vcFyD5p2o6wHWwryKwV2P0ONhWmA9l2hM0gGZDuGi7cyQSUOnb1EJ86qJEWQCkLkRYeN60BuxQci6h-b9qMFPLzkPzeAhZdBSYXwUMAPeRBIYyI9cdNS8AqIfEMsQdkJyz0ISkRYjbMHmQbIO6D2tMESlFY7AHGLyQeYOr7QWTTRqh5oJSOxT9g01D1wfwDcgGqPfjjckcn8XEJihlQHIFiChKThkASFFMQGUS8GYNj0kQdLASLZixRCfYuyCs7YAkUnD1gUQklgUkZ4XVQAoZ4HhIkEBGEDPaohGQEUJRCMvfjZpDJMBlYIYJsDzSKgYntcTM4IcAyKy57QFEJz3wg17WCWaCEA48ysA0o9kAT4OPmTrAu_Pbgjcqns2cTH5WQODED0-DcWQPOn2AOKGohroNlR0ikmkAjHFdcQv0OjhlIotwE9Qko_CCJ-3HjDiS_T4DHxOOmbVDdS8AysBDCEpfNs6GmzQNiSFEAswcUiyAz9sOzDpn2gOMS0x5QagXZA8qesOwPil-YPSAd0FQJ1gHJmNizZS3W-toHub42QtTXL_q6ns7a8rJhEzCKn83e9HLRimcL9gBj_GXzCki7Bbk-NgBFVLyCaXw8hAFEwLiE0iBRsAysgManEGgSQhlY1AwoagxiGMWDEC5lQEOACMk2kDBIGdDbunYKKD6P9jGMVcAUNMImaAwWVOYCAA)]
+- [主旋律 TMD 檔案](shisei_kinenbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03Q4gX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBshZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuR1qRUlRYl5xclFmAchDCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmJSIUlWSkAj2XmVsAtCQxB108ObUoNTc_D4tMSWJmeSLQMi0thafLu59N2f98S8PT_VufTV-qoKXFpWirYGnGZW-r4MxlY6JvYgfS_KJ919Oe6U93rH6-vuXp2h3PFix8ObPl6cY1Tzf0Q7hPW5crPFu7-Nmyqc_mND_fvuJxQ9ezFTOf7Zr2dMrGZ2t7gIqe75_0dMc0hedr1jxtXQvkP925ReFp66Tnq5c-nwJU3v1-T8ezGWufTup5sqsHKPdk15Rnczqe9jY-2dEMdNjzmXteLOx5v6fn-ZZFz2bveDFzvoKBuZGlgon5-z2dSlxc-loKttQCXAoKCk_75oOs2dz-YkXXi452oBderJz3tHXFs2ntQIc-3dD7rL1TAZQy9LIK0h81TAYyjUFMoAshWhUK9BSMjYAyxsYgVyP5GshWMDRReLlsGtDp7_fMAln3YtX-Zw3LQRZ19wL9BhR93NwPFHw6e_bTjrYnO7uBDKDU07UTgLY7KzxdshwoqQCMHQWgKNiYnkczV9oC4w1k2pMdDY8bGp91bnu2cCJQ_ePGrY8bpz5ubAMqfNzc93zlLrDg3MdNQH1Ake6Xq2c8bQWygYLzHzd2P27cBCTBUqtBxoHAsw6wSU39IOGmNcAYASvfBDHy6b6FEKc9btz_uHEyRBCYrp7sAkXr48Z9jxuXPG7qetw45XHjCqAszFRg6gPLr3_cOAOsaeHj5rZnUzvAgpNhJnU_m7odLDIdbPnax83zHjdtByKYMY-bVwCFUd206fnSuWBuy-PGHSCRxh0vJqx5tnYzWHDD4yag8dOAshAbIMG2qwcYbE_bWp8uAUYNUFXb48aFoHACuxnko60QdwDF90NEXs6aAhbZ8bhxAVik7XFzF9At8GCb0fds025wyDWCnbIIGmDQ4AYFNDBggIIvZ0F83Q8MLbCaRWCT1sNMAubA542Ln27eBoumFmBkgH0BZENitvvFHoiXgTHY87gJ7DVgaCHC6cXavWD53aAYaQLmJlA4AZM2zFPAdEdUOO3oBCWvGWCvNzWA7QNHDTghPNm9GJoQmoA-Aml6sg8Sy_PBgQBRiRxI2KKv_8nuLpjIRGAChhiPTWXX4-ZVcA9OWAN2ExD1Pm4EqgK7aQ7EemDIroaG016gT4EiKx43rgSqJCqcsDsIm0qYgygviKBAQUufiysYWAukZnpn5qXmJWVaheUDawOHGoOaarCbbSy07MAMbMUgqMgFlgjA4lNBw0QBWGI_X9-gAy-7NLFoANoHMqxGwVRBF4wN46CMGgUzIKkLJEE8EKxRMAbTxgpGIIVgEZgcCBqARMDG-RjWAKN6KpD_uGkrmFwGIpv7wHoeN-0Fq3_cvBKIu-GmP27aDxFvWg0UnwRlgWWaQTQMxiPsMQLpgpjdCCY7UOwByYD486FiUHuaZ0DFG4C4DczqgupYi90eY5CuBXAXARMQsj1A8yHmrcDun-aFcB247cEfqbt66BipIBJXpK4He38N2DPgKEIPhKbNaIE9DxoILUC8CqxiC1QGFFk4IhUYZCCVS8A6m1DsAdkKSyQg82CBDXIZSN08IF6EEtgQGeyRugJsFig6YP7ph-raCDVvKpp_QDogemA6oPbAXUNspO7oJCdSQfGEjCHxBYpFRJyCYhmEQSIm6mAhfDkV5OXHTTvAngEHPDhXgAJhM1gGTKKkbHBqhgYbKIIhIjAZXDkVlB9gkQpOSM0gkxEykJyMbA8kt0GSG1gf2E489iAitRniulYwCSsRILaCbECxB1pudCL04bEHb6QCW2_kRCo4h4IJcyAGRR0sxkyhGRSWVUFRDpPBn1Uxk_YmqJ9AIQlJ6sA2AFIoTIDHyeOmbRA1QLUgGVhYYcuqs8G6wKmgGRJTMHug5S8wdiG1Adn2gGMV0x5CWRVdBySzYs-qtVxcunYKKHVvtI9hrAKmoBE2QWOwoDIXAA)]
+- [鋼琴伴奏 TMD 檔案](shisei_kinenbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3OLy1KTrUqBgrm58SXpFaUJOXnZyPkC4ryy1LzEvOAalJTMkvyizITc-ITi4oS89JTc1PzShAqU8syU1JB6hKTk_NzCxLzMlHly1KLikFOKshMzMuPx6Eov6gkIz-9KLEgo9IqNz8ltSgvPjsxLxGhoCQDaK1VZm5BKsgl6OLJqUWpufl5WGRKEjPLE_OUuLS0FJ4u7342Zf_zLQ1P9299Nn3p-z0dT_Zsebq0__2eTgUtLS5FWwVLMy57WwVnLhsTfRM7kEEvVs57v2fW03Xrnm7e9qy178mOzpfNfWArns3ehEPmRfuupz3Tn-5Y_Xx9y9O1O54tWPhyZsvTjWuebuiHcJ-2Lld4tnbxs2VTn81pfr59xeOGrmcrZj7bNe3plI3P1vYAFT3fP-npjmkKz9esedq6Fsh_unOLwtPWSc9XL30-Bai8G-j0ZzPWPp3U82RXD1Duya4pz-Z0PO1tfLKjGeix5zP3vFjY835Pz_Mti57N3vFi5nwFA3MjSwUTc6BPlbi4gjMyi1MzvTPzUvOSMq0CQNES5OFQY1BTzaUABDYWWnZghr6Wgi06ALnpyY4GoPkKGiYKQC89X9-goxBgYGykl1WQrolFg5Y-2LAaBVMFXTA2jIMyahTMgKQukATxQLBGwRhMGysYgRSCRWByIGgAEgEb52NYo_C4eSqQ_7hpL5hcBiKb-8B6IGIg_kog7oab_rhpP0S8aTVQfBKUBZZpBtEwGI-wxwikC2J2I5jsQLEHJAPiz4eKQe1pngEVbwDiNjCrC6pjLXZ7jEG6FsBd9LhpO7I9QPMh5q3A7p_mhXAduO3BH6m7eugYqSASV6SuB3t_Ddgz4ChCD4SmzWiBPQ8aCC1AvAqsYgtUBhRZOCIVGGQglUvA5A4Ue0C2whIJyDxYYINcBlI3D4gXoQQ2RAZ7pK4AmwWKDph_QKrBUfS4eTnUqlVoXgJpgmiDaYJaBXcQsfG6o5OceAVFFTKGRBkoIhHRCopoEAaJmKiDhfBl1n6kkAaHPThjgMJhM1gGTKIkbnCChoYcKI4hIjAZXJkVlCWg8QpJS80gk2GpAZaZke2BZDhIioOkB5CdeOxBxGsz2HVNu8BsWKEAsRVkA4o90KKjE0kfbnvwRurT2bPJiVRwJgUT5kAMijpYjJlC8ygst4KiHCaDP7dipG5gUob4CRSSkDh43ARJzpBQmACPk8dN2yBqgGpBMrCwwpZbZ4N1gVNBMzim4PZAi2BgvMPYZNoDjlUMe4jJreiaIPkVe26txVoB-yBXwCaICvhFX9fL9l5gfD_r7n26dgKwyn_RuAnSbEGK13iFaMNYGFWjYAJkmCDxoQzTeCwCBlDfk28KkEIYApY1jYcqAzFwGmwEpIxAfBQ9GO6BqsY0Btk96BaBTAEGtK6dAkpYR_sApTEFga7AFDQGCypzAQA)]
 
 ## 分析
 
@@ -75,26 +75,26 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 始政紀念日 ]
 ================================================================================
-⏱  Duration:       2:07 (127.5s), 51 measures total
+⏱  Duration:       2:00 (120.0s), 48 measures total
 🎼 Key & Tempo:    首調基準 C, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  C4 in [ShiseiKinenbi[L1] #1 @ m.11, 0:25]
-   - 最高音: C5 in [ShiseiKinenbi[L1] #1 @ m.2, 0:02]
+   - 最低音:  C4 in [ShiseiKinenbi[L1] #1 @ m.3, 0:06]
+   - 最高音: C5 in [ShiseiKinenbi[L1] #1 @ m.1, 0:01]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      ShiseiKinenbi[L1] (42.5s) -> ShiseiKinenbi[L2] (42.5s) -> ShiseiKinenbi[L3] (42.5s)
+🏛  結構:      ShiseiKinenbi[L1] (40.0s) -> ShiseiKinenbi[L2] (40.0s) -> ShiseiKinenbi[L3] (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D, C, E, A
-   - 調性數值:    G 大調 [相關度: 0.89, 穩定度: Moderate, 自然音純度: 91.9%]
-   - 候選調性 (K-S): G 大調 (0.89), C 大調 (0.82), E 小調 (0.63)
+   - 核心骨幹音:  G, C, E, D, A
+   - 調性數值:    G 大調 [相關度: 0.84, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.84), C 大調 (0.80), E 小調 (0.63)
    - 五度圈歷程:   +1 -> +1 -> +1
    - 各段落調性細節:
-     • [ShiseiKinenbi[L1] #1]: G 大調 (r: 0.89, 自然音純度: 91.9%, 調外音: F)
-     • [ShiseiKinenbi[L2] #1]: G 大調 (r: 0.89, 自然音純度: 91.9%, 調外音: F)
-     • [ShiseiKinenbi[L3] #1]: G 大調 (r: 0.89, 自然音純度: 91.9%, 調外音: F)
+     • [ShiseiKinenbi[L1] #1]: G 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [ShiseiKinenbi[L2] #1]: G 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [ShiseiKinenbi[L3] #1]: G 大調 (r: 0.84, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -107,21 +107,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████████             15.3%
+     C  : ██████████████            21.7%
      C# :                            0.0%
-     D  : ██████████████            16.1%
+     D  : ███████                   11.7%
      D# :                            0.0%
-     E  : ███████████               12.9%
-     F  : ███████                    8.1%
-     F# : █                          1.6%
-     G  : ████████████████████████  28.2%
+     E  : ████████                  13.3%
+     F  :                            0.0%
+     F# : █                          1.7%
+     G  : ████████████████████████  38.3%
      G# :                            0.0%
-     A  : ██████████                12.1%
+     A  : ███████                   11.7%
      A# :                            0.0%
-     B  : █████                      5.6%
+     B  : █                          1.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – C5 (12 個半音 / 1.0 個八度, 150 個音符)
+  - Vocal         : C4 – C5 (12 個半音 / 1.0 個八度, 144 個音符)
 ================================================================================
 ```
 

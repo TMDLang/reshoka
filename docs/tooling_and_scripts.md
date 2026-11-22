@@ -114,7 +114,7 @@ flowchart LR
 ```
 
 ### 1. 啟動本地即時預覽伺服器
-根目錄下的 [`run.sh`](../run.sh) 會自動檢查並建立 `venv`、安裝相依套件，並以 `--dirty` 模式啟動 MkDocs 預覽伺服器（預設 `http://127.0.0.1:8000`）：
+根目錄下的 [`run.sh`](https://github.com/tmdlang/reshoka/blob/main/run.sh) 會自動檢查並建立 `venv`、安裝相依套件，並以 `--dirty` 模式啟動 MkDocs 預覽伺服器（預設 `http://127.0.0.1:8000`）：
 ```bash
 ./run.sh
 ```
@@ -129,16 +129,16 @@ flowchart LR
 
 ## 三、`scripts/` 目錄下各腳本詳細用法
 
-### 1. [`scripts/generate_song_markdown.py`](../scripts/generate_song_markdown.py)（及 [`scripts/song_markdown/`](../scripts/song_markdown/) 模組）— 單曲頁面、音訊與全站導覽產生器
+### 1. [`scripts/generate_song_markdown.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/generate_song_markdown.py)（及 [`scripts/song_markdown/`](https://github.com/tmdlang/reshoka/tree/main/scripts/song_markdown/) 模組）— 單曲頁面、音訊與全站導覽產生器
 專案最核心的建置腳本。`generate_song_markdown.py` 為命令列入口，底層邏輯拆分為 `scripts/song_markdown/` 套件下的六個獨立職責模組：
 
-- [`catalog.py`](../scripts/song_markdown/catalog.py)：全站叢書與冊別標題、典藏說明、卷首卷末掃描頁圖說與課次／學期分類規則
-- [`utils.py`](../scripts/song_markdown/utils.py)：TMD 與掃描圖檔探索、自然排序、外部執行檔定位與快取時間戳檢查
-- [`tmd_parser.py`](../scripts/song_markdown/tmd_parser.py)：TMD 標頭詮釋資料（曲名、詞曲出處、調號、拍號、速度）、區塊註解與歌詞解析
-- [`audio.py`](../scripts/song_markdown/audio.py)：呼叫 `tmd` 與 `ffmpeg` 產生 `.abc` 五線譜、`-1.5 dB` 峰值正規化 `.mp3` 音訊，以及偵測 `*_neutrino.mp3` 掛載「鋼琴伴奏版＋NEUTRINO 歌聲合成版」雙播放器
-- [`song_page.py`](../scripts/song_markdown/song_page.py)：單曲 `index.md`、SEO frontmatter 與跨冊重複收錄參照區塊生成
-- [`volume_page.py`](../scripts/song_markdown/volume_page.py)：各冊 `0_book_info/index.md` 書訊頁與冊別曲目總覽 `index.md` 生成
-- [`site_nav.py`](../scripts/song_markdown/site_nav.py)：更新全站隨機選曲索引 `docs/data/songs.json`、首頁與 `mkdocs.yml` 的 `nav` 導覽樹（含「重新創作」專區）
+- [`catalog.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/song_markdown/catalog.py)：全站叢書與冊別標題、典藏說明、卷首卷末掃描頁圖說與課次／學期分類規則
+- [`utils.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/song_markdown/utils.py)：TMD 與掃描圖檔探索、自然排序、外部執行檔定位與快取時間戳檢查
+- [`tmd_parser.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/song_markdown/tmd_parser.py)：TMD 標頭詮釋資料（曲名、詞曲出處、調號、拍號、速度）、區塊註解與歌詞解析
+- [`audio.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/song_markdown/audio.py)：呼叫 `tmd` 與 `ffmpeg` 產生 `.abc` 五線譜、`-1.5 dB` 峰值正規化 `.mp3` 音訊，以及偵測 `*_neutrino.mp3` 掛載「鋼琴伴奏版＋NEUTRINO 歌聲合成版」雙播放器
+- [`song_page.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/song_markdown/song_page.py)：單曲 `index.md`、SEO frontmatter 與跨冊重複收錄參照區塊生成
+- [`volume_page.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/song_markdown/volume_page.py)：各冊 `0_book_info/index.md` 書訊頁與冊別曲目總覽 `index.md` 生成
+- [`site_nav.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/song_markdown/site_nav.py)：更新全站隨機選曲索引 `docs/data/songs.json`、首頁與 `mkdocs.yml` 的 `nav` 導覽樹（含「重新創作」專區）
 
 ```bash
 # 1. 更新全站（預設開啟平行處理，且僅重新轉檔有修改過的 TMD）
@@ -168,7 +168,7 @@ python3 scripts/generate_song_markdown.py --soundfont /path/to/piano.sf2 --keep-
 
 ---
 
-### 2. [`scripts/render_neutrino_mix.py`](../scripts/render_neutrino_mix.py) — NEUTRINO 人聲合成與伴奏混音腳本
+### 2. [`scripts/render_neutrino_mix.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/render_neutrino_mix.py) — NEUTRINO 人聲合成與伴奏混音腳本
 將 TMD 樂譜中的日文歌詞軌（`L|`、`L1|`..`L64|`）透過 NEUTRINO 轉為人聲，並用 `ffmpeg` 與鋼琴伴奏混音輸出 `<stem>_neutrino.mp3`。腳本會使用 `tmd --flatten-repeats`，讓人聲與伴奏共用同一條展開後的 playback 時間軸。
 
 **核心自動化處理機制**：
@@ -211,7 +211,7 @@ python3 scripts/render_neutrino_mix.py docs/kogakko_shoka/grade_3/1_awoba --repl
 
 這組工具用於將古籍掃描圖檔（`P0xx.jpg`）轉錄為 TMD 樂譜時的防幻覺校對工作流：
 
-#### (1) [`.agents/skills/shoka-score-grounding/scripts/slice_score.py`](../.agents/skills/shoka-score-grounding/scripts/slice_score.py) — 五線譜自動投影切片工具
+#### (1) [`.agents/skills/shoka-score-grounding/scripts/slice_score.py`](https://github.com/tmdlang/reshoka/blob/main/agents/skills/shoka-score-grounding/scripts/slice_score.py) — 五線譜自動投影切片工具
 透過底層的 `slice_score.swift` 計算掃描頁的水平黑色像素投影，自動定位每一行五線譜的真實 Y 座標並無損裁切出單行五線譜與底部歌詞，避免多模態模型在大圖縮圖下看錯線間。
 
 ```bash
@@ -221,7 +221,7 @@ python3 .agents/skills/shoka-score-grounding/scripts/slice_score.py \
     -o /tmp/slices
 ```
 
-#### (2) [`.agents/skills/shoka-score-grounding/scripts/audit_score.py`](../.agents/skills/shoka-score-grounding/scripts/audit_score.py) — 主旋律常理與字音對位審查工具
+#### (2) [`.agents/skills/shoka-score-grounding/scripts/audit_score.py`](https://github.com/tmdlang/reshoka/blob/main/agents/skills/shoka-score-grounding/scripts/audit_score.py) — 主旋律常理與字音對位審查工具
 對轉錄完成的 `.tmd` 執行五項自動化防幻覺檢查：
 1. 呼叫 `tmd check` 驗證小節拍數與 `L1|`、`L2|` 歌詞格數 1:1 對齊。
 2. 偵測異常大跳音程（超過大六度且非八度之突兀跳進，常為高低八度或加線看錯）。
@@ -234,7 +234,7 @@ python3 .agents/skills/shoka-score-grounding/scripts/audit_score.py \
     docs/shintei_jido_shoka/grade_4_2020.006.0847.0004/3_02_niwatori/niwatori.tmd
 ```
 
-#### (3) [`scripts/audit_piano_harmony.py`](../scripts/audit_piano_harmony.py) — 鋼琴伴奏垂直和聲與撞音審查工具
+#### (3) [`scripts/audit_piano_harmony.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/audit_piano_harmony.py) — 鋼琴伴奏垂直和聲與撞音審查工具
 解析 `*_piano.tmd`（或單獨對整冊執行），比對 `PianoRH`（右手旋律）與 `PianoLH`（左手低音與和弦）在時間軸上的垂直音高關係，自動抓出強拍上的小二度／大七度尖銳撞音，以及樂句終止式和弦錯置問題。
 
 ```bash
@@ -242,7 +242,7 @@ python3 .agents/skills/shoka-score-grounding/scripts/audit_score.py \
 python3 scripts/audit_piano_harmony.py docs/shintei_jido_shoka/grade_4_2020.006.0847.0004
 ```
 
-#### (4) [`scripts/crop`](../scripts/crop)（由 [`scripts/crop.swift`](../scripts/crop.swift) 編譯）— 自訂座標局部裁切工具
+#### (4) [`scripts/crop`](https://github.com/tmdlang/reshoka/blob/main/scripts/crop.swift)（由 [`scripts/crop.swift`](https://github.com/tmdlang/reshoka/blob/main/scripts/crop.swift) 編譯）— 自訂座標局部裁切工具
 依像素座標 `(x, y, width, height)` 快速裁切掃描圖檔的任意局部區域：
 
 ```bash
@@ -253,28 +253,28 @@ python3 scripts/audit_piano_harmony.py docs/shintei_jido_shoka/grade_4_2020.006.
 
 ### 4. 音樂學統計與旋律動機檢索腳本
 
-以下腳本共用 [`scripts/shoka_data.py`](../scripts/shoka_data.py) 資料載入與音高特徵萃取模組，用於分析全庫 1,087 首曲目的音樂學特徵：
+以下腳本共用 [`scripts/shoka_data.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/shoka_data.py) 資料載入與音高特徵萃取模組，用於分析全庫 1,087 首曲目的音樂學特徵：
 
-#### (1) [`scripts/stats_tonality.py`](../scripts/stats_tonality.py) — 調性分布統計
+#### (1) [`scripts/stats_tonality.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/stats_tonality.py) — 調性分布統計
 依叢書、冊別／學年、學期統計各調號（C、G、D、A、E、F、Bb、Eb、Ab 等）之曲數與百分比。
 ```bash
 # 統計《新定兒童唱歌》並去除跨冊重複曲目，輸出 Markdown 表格
 python3 scripts/stats_tonality.py --collection shintei_jido_shoka --deduplicate --markdown
 ```
 
-#### (2) [`scripts/stats_meter.py`](../scripts/stats_meter.py) — 拍號與速度（BPM）統計
+#### (2) [`scripts/stats_meter.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/stats_meter.py) — 拍號與速度（BPM）統計
 依叢書、冊別、學期統計拍號（`2/4`、`4/4`、`3/4`、`6/8` 等）與速度（平均 BPM、中位數、最快／最慢曲目）。
 ```bash
 python3 scripts/stats_meter.py --collection shintei_jido_shoka --deduplicate -o docs/stats_meter.md
 ```
 
-#### (3) [`scripts/stats_pentatonic.py`](../scripts/stats_pentatonic.py) — 五聲音階與七聲音階結構統計
+#### (3) [`scripts/stats_pentatonic.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/stats_pentatonic.py) — 五聲音階與七聲音階結構統計
 分析每首曲目的實際音級集合（Pitch-class set），分類為「嚴格五聲音階」、「準五聲音階」、「六聲音階」、「標準七聲自然音階」與「含變化音音階」，觀察低年級至高年級的音階演進。
 ```bash
 python3 scripts/stats_pentatonic.py --collection shintei_jido_shoka --deduplicate
 ```
 
-#### (4) [`scripts/find_tmd_motifs.py`](../scripts/find_tmd_motifs.py) — 跨曲重複旋律動機檢索工具
+#### (4) [`scripts/find_tmd_motifs.py`](https://github.com/tmdlang/reshoka/blob/main/scripts/find_tmd_motifs.py) — 跨曲重複旋律動機檢索工具
 在指定目錄的所有 `.tmd` 樂譜中搜尋重複出現的旋律片段（Motif），支援三種比對模式：
 - `--mode degree`：直接比對首調唱名序列（如 `1 2 3 5`）
 - `--mode interval`：比對相鄰音程半音差（移調不變）

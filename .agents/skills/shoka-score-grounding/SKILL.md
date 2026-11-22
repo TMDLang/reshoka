@@ -47,7 +47,7 @@ flowchart TD
 在大圖模式下，多模態模型會自動下採樣，五線與墨暈黏在一起。**必須先切出 100% 原始解析度單行切片**：
 
 ```bash
-python3 .agents/skills/shoka-score-grounding/scripts/slice_score.py path/to/song_dir -o /tmp/slices
+python3 .agents/skills/shoka-score-grounding/scripts/slice_score.py path/to/song_dir -o .tmp/slices
 ```
 
 這會輸出：
@@ -92,6 +92,10 @@ python3 .agents/skills/shoka-score-grounding/scripts/slice_score.py path/to/song
     * `?= B,`：`1` = B♭4。B♭4 以下為 `1_`（B♭3）～`7_`（A4）。
 * 拍號（`<4/4>`、`<2/4>`、`<3/4>`）
 * 每小節以 `| ... |` 嚴格包覆，時值總和精確相符。
+
+#### 主旋律 TMD 與鋼琴伴奏 TMD 的歌詞分工（NEUTRINO 發音規範）
+* **原始主旋律 TMD（`<song>.tmd`）**：作為史料忠實還原，**必須嚴格保留原譜所有漢字、舊字體、歷史假名遣、省略濁點與大字拗音**，嚴禁為發音擅自現代化。
+* **鋼琴伴奏 TMD（`<song>_piano.tmd`）**：供 NEUTRINO（`render_neutrino_mix.py`）合成歌聲。**必須避免使用漢字與歷史假名**，一律轉換為**現代純發音假名（平假名或片假名）**（如漢字轉假名、助詞「は/へ」轉為「ワ/エ」、四つ仮名「ぢ/づ」轉「ジ/ズ」、補齊濁點、拗音促音小字化），以確保 NEUTRINO 合成發音正確。
 
 ### 步驟 4：執行專屬防幻覺與常理審查工具
 
