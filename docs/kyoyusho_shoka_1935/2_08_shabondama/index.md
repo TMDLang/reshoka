@@ -4,7 +4,7 @@ song_title: "しやぼん玉"
 song_id: "kyoyusho_shoka_1935_kyoyusho_shoka_1935_2_08_shabondama"
 collection: "kyoyusho_shoka_1935"
 volume: "kyoyusho_shoka_1935"
-description: "〈しやぼん玉〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：野口雨情、曲：中山晋平），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原頁資訊與歌詞全文**（對應 `P233.jpg`）：…"
+description: "〈しやぼん玉〉收錄於日治時期臺灣《教育所用 唱歌教材集》（昭和十年版・蕃地教育所用（國臺圖 0725 148））（詞：野口雨情、曲：中山晋平），調號拍號：D 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（第一遍） シャボンタマ　トンダ…"
 keywords: "しやぼん玉, 教育所用 唱歌教材集, 昭和十年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 野口雨情, 中山晋平"
 schema_type: "MusicComposition"
 is_part_of: "《教育所用 唱歌教材集》 昭和十年版・蕃地教育所用（國臺圖 0725 148）"
@@ -13,6 +13,7 @@ credits:
   - "曲：中山晋平"
 sources:
   - "source: 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年／1935，國臺圖 0725 148）第 51 頁"
+  - "出處：大正11年（1922）童謠雜誌《金の星》，野口雨情作詞、中山晉平作曲之大正新童謠傳世名作（日本歌百選）"
 musical_key: "D"
 meter: "2/4"
 tempo: "108"
@@ -40,41 +41,34 @@ tmd_source:
 - 詞：野口雨情
 - 曲：中山晋平
 - source: 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年／1935，國臺圖 0725 148）第 51 頁
+- 出處：大正11年（1922）童謠雜誌《金の星》，野口雨情作詞、中山晉平作曲之大正新童謠傳世名作（日本歌百選）
 
 ## 說明
 
-
-- 出處：source: 臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年／1935，國臺圖 0725 148）第 51 頁
-- 調性與拍號：調號 ?= D，拍號 <2/4>，速度 != 108
+【曲目說明與出處考證】
+- 出處：臺灣總督府警務局《教育所用 唱歌教材集》（昭和十年／1935，國臺圖 0725 148）第二學年第 8 首，原書第 51 頁（P079.jpg）。
+- 出處考證：本曲原出大正 11 年（1922）童謠雜誌《金の星》，野口雨情作詞、中山晉平作曲，為日本童謠史上最著名名作之一（後入選日本歌百選）。雨情以悼念夭折長女之深情，寫下純真而帶哀婉的口語童謠。
+- 調性與拍號：ニ長調（D 大調），2/4 拍，速度 != 108。
 
 
 ## 歌詞
 
 ```text
-> [!NOTE]
-> **原頁資訊與歌詞全文**（對應 `P233.jpg`）：
-> - **出處與詞曲考證**：頁頂標示曲號「`6`」、曲名「`シャボン玉`」、學年「`二年`」、出處「`蓬莱唱集 29頁`」（抄自《蓬萊唱歌集》第 29 頁），左上角記「`変ホ調 2/4,`」「`面白ク軽快ニ`」（降 E 大調，`?= E,`，`<2/4>`）。本曲為野口雨情作詞、中山晉平作曲之大正 11 年（1922）童謠名作〈シャボン玉〉。
-> - **反覆記號與前後奏結構**：原抄本第 1–4 小節與第 17–20 小節各記有 4 小節空拍 `| 0 0 | 0 0 | 0 0 | 0 0 |`（對應原曲 4 小節鋼琴前奏與 4 小節後奏，已完整編入 `shabondama_piano.tmd`）；歌唱主體於第 5–12 小節設反覆記號 `||: ... :||`，譜下並列上下兩排歌詞（第 1 遍與第 2 遍），反覆唱畢後接第 13–16 小節結句「カゼ カゼ フクナ／シャボンダマ トバソ」。
-> - **校訂與手抄原貌說明（依 Editorial Policy A 校訂）**：
->   1. **歌唱第 7 小節（原譜第 11 小節「コハレテ」）音高**：原抄本明確記為中音八分音符 `6 6 5 1`（無低音點），舊轉錄誤植低八度 `6_ 6_ 5_ 1`，今依原譜還原為 `| 6 - 6 - 5 - 1 - |`。
->   2. **歌唱第 9 小節（原譜第 13 小節「カゼカゼ」）高音點漏記**：原抄本首音 `1.` 漏標上方高音點（後三音皆標有高音點 `1^ 1^ 1^`），依中山晉平旋律同音反覆句型校訂補回為 `| 1^ - - 1^ 1^ - 1^ - |`。
->   3. **濁點異同保留**：原抄本第 5 小節兩排歌詞均作無濁點之「`シャボン タマ`」，第 15 小節則作帶濁點之「`シャボン ダマ`」，依歷史文獻原貌如實保留。
->
-> **（第一遍）**
-> シャボンタマ　トンダ
-> ヤネマデ　トンダ
-> ヤネマデ　トンデ
-> コハレテ　キエタ
->
-> **（第二遍）**
-> シャボンタマ　キエタ
-> トバズニ　キエタ
-> ウマレテ　スグニ
-> コハレテ　キエタ
->
-> **（結句）**
-> カゼ　カゼ　フクナ
-> シャボンダマ　トバソ
+（第一遍）
+シャボンタマ　トンダ
+ヤネマデ　トンダ
+ヤネマデ　トンデ
+コハレテ　キエタ
+
+（第二遍）
+シャボンタマ　キエタ
+トバズニ　キエタ
+ウマレテ　スグニ
+コハレテ　キエタ
+
+（結句）
+カゼ　カゼ　フクナ
+シャボンダマ　トバソ
 ```
 
 ## ABC
@@ -85,8 +79,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shabondama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKMvPKc1NtcquzK8sLc7Ijwfi7MR4Q0tjUyW4muT8nJzU5JLM_Dz86orzS4uSU-MLEtNTrQIMzC3RZayKkzPy83PiS1IrSpLy87OJly8oyi9LzUvMA6opKMrMK0lNAStCKEgty0xJBUkXJyfmxZelFmWmZaamIOSBIsUg90OdWFKUmFecXJRZAPIUQlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiXiJCUUlGKjDACnISK5E1ZqZn5lmVJGZCw6Y8MT43MTMvJzEP6AgtLYXHjdMfN7U8btzzuGny875OBS0tLkVbBUMDCy57WwUXLhsjfRM7kGnQgFB40b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z39oEh6v6fn6ZxuoKlP50xTMDA3MlUwNLF4v6fz-Zo1CqaGCi8XNII982LlvPd7Zr1s73vav_jl7BXPmlvBws9mbwIKP9mx9unGjc9mdj_duVmJi0tfS8GWWoBLQUHBTiFa0c8_xDUWwtHSeto3H-iuF5vbX6zoetHRDvQn0HlPW1c8m9aupQX05tMNvc_aOxUSAoyMjfWyCtITgP4BOhOiXRdkQPuuFzOnArUC9QG98KKh-cXaTpDWWUBzXy5oerZi5vMlu0AyM-c_buhJMEt43ND7uKERKPJ0ApDRk_C4afvj5sWPm-c8bt4MjDao_NO1O4AhC5J_sqsHyIIJg60DCb-YvOZF30Zg3ACjRMHIEmgbSAkoZrpaXrSvAkYiSMWELkjsQeINFBNGlqCYAHuj5-n2ZU92dL1YPunFihkgM58u6XzcPPvFqv0KwLSiA7GyJ-Hl3EXPZ-593LT-xe69T_evftzcDbXp5cxeBVeFp0uWA3UATUsAJjNXHWAI9SSA0xoorB43ND2bswbo2edNu5Cj_MneOcAAA3oIFuGdwAgHCgJVPtnZDTTy2drFCoaGCuDU1WFoaWQESkirl75YswAYbECFjxs60ALucQPINqSY6e99sawN6DNgyAPj52ln79N9PU-X9j_fOuHZ8m5wFAFjHxhaQAeCAsbwUcNkE4WnG_qfr28AqgcLmQPFjAyggk8ntABNezanUwGm7PnKXc-6exUSahQMgBALCQwCaBICWTV7E1zny-49zydsAblpaT_QMrg4xIngqNn0dB0w0215vn3F09alCgnFGYlJ-XkpibmJ8QWZiXn5eiW5KZDUOBsYv8BYfrJj98vVU55N2wPOb0CHGxrBfLNiLXJgAN1bY6Wgp6enYFUDcmHPi7VznuzofrJj2dOO6cD0AGQ_bV35rG8SJDcAvQAOC4WXjb3QcDECsaFJCGww0PrnUxcBHf-sbylYsTHIfjNYMG2d8LR_KTApPW5a_bhpjwKMap4KTFSPm7uA5QdyXD5ubnjcPA8o3fG4ecLjpr3gZIgUsc8WLHyxogmUWzu7gdEHDNkXm3perFr1bEYf0K1P9s1VcE3JBJWriTkKAfk5mcmVCo4KEE1AN4MjHmKYgoKhHsg8cPCBnG0OdTAo1oCmrp0D9gswFYJFwR4Auq7_cfOax83A_AQKgpfzN79cPQM1NQEd8nzRLmBgAxM9MH0DlTxtXf20ow3IeL5mmUKCmYKZArBwBCWO5y0Ln-ztAxmyGxjQoAB90dH1Ym_ny56WF6uWPFsCTOp9IM27QNriFYDINB6ss-fJ7i6gVyHOfNkECgWgbaCkaAYMJBA2BWJDIK4B5lZo6CkoGKF62BKrh42RPQyKKigJ8fDqGRDnPtvTD_Qiqs9fLpsGlFRIMNRLUADKAws_YHp6Nm0nXBPIon09T3aAwu35rDagAmB-gssCNcYpgBEkZfcAfYhcQDyb3v10X_fTCT2gIIUkvP6lT-d1Q1PE4jlPZ8-DhgLQFF1QAIDNA9NoIWEMDon9jUBrn0_dADTzyf65z6fOxCwXTGFZEylPPJ3bDiyDgJEHMQBYZKGX5MBEvh-YiiElZQ84WOEGdYI0P92xDY9mcBaAagYGwrO125_2bwJWSs97d0PS-9NlTU_XL4O4GeYrWKUGybFPdjRAcimwHQCWQMljYNc9bgBaA8xloCwHVdO85HFzL0iquZ1o2XaY-ciZo-Fx09rHTSuAFmFz264eYtyGYgK8QNgFrIGwyDYtAzsMbvvOx00bgCpJdBu4qEJxGCTpA7XAGLBiC4vLwdEGCxlQ2QVSQ3nTBQoUtPS5uILh9YCjVVg-sOnoUGNQUw2yR8HG0EwL7Blg9QMsJkDZHwR1geU1MPErGEMLBRA2AIuAigkTWO4AcYD6kEoPsCKweT6GNVCPAoWAfgVicAoH8-aBNQK9DOZtBpMNcDuAaQYs0gtXC0ww-HRALDQibGHTWhCvaQWYBMnALIQYOwEsvgvM7sangwsaZKDwAWFQaIELTjALM8RQClcUHWgBRqTPQWJQpzdBRPrB5Bow2YbX6YiwWoZkC6rOnWA9G-ABQa5dtciJzwlf4sNa-CJSGSI4YYkTljRxBifIVavBhkIbEFAWJDSngnnrwX7oQvIhIv0gpzL0FAtJKHuR_alrp4CUz6J9DGMV0IWM0IScQFxlLgA)]
-- [鋼琴伴奏 TMD 檔案](shabondama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzEHIJefn5KQml4BMyK7MrywtzsiPB-LsxHhDS2NThLri_NKi5NT4gsT0VKsAA3NLdBmr4uSM_Pyc-JLUipKk_Pxs4uULivLLUvMSQe4rKMrMK0lNASvC4vzi5MS8eKB_M9MyU1MQ8rAQgDqxBBgCxclFmQUgTyFU5ReVZOSnFyUWZFRaZWQWg8IhOTEnPjsxLxGhCCn4YAGanJyfW5CYl4kapCUZQEVWBTmJlcg2ZKZn5lmVJGZCA7E8MT43MTMvJzEP6FotLYXHjdMfN7U8btzzuGny877O93s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoYEFl72tgguXjZG-iR3ICmgwKrxo3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0A-17NmPt00k9T3sbn-7c8n5PPyiK3-_peTqnG2jq0znTFAzMjUwVDE0sgA55vmaNgqmhwssFjWAfvlg57_2eWS_b-572L345e8Wz5law8LPZm4DCT3asfbpx47OZ3U93blbi4vLMKynKtwoAhV-Qh0ONQU01lwIQ2BiaadmBWTUK1blptQrG2oZxCrpACGZAeVCqBsYw0TYDi5oCSQOwhCGQNAJiQ21jMAmSAYqCeebx2iAp03htkCqweq5aFBf5ILvIAu4gw3igJigJ5pmAeQYwKTDPGCQHYkP5QFmQ6cEZiUn5eSmJuYmOVmH5wFSF3c9Ak4HOBUOIB4B-BLkViiGeA3nWBKQO5HcQB6gPyoIrApvnY1ij8Lhp--PmxUChx81zgHgzUGA_mDcPrPFxcweYtxlMNsDteNy8BCzSC1f7uLkdnw6IhUaELWxaC-I1rQCTIBmYhRBjJ4DFd4HZ3fh0cEGDDBQ-IAyObrAGcOxihBgseCBqkHWgBRiRPgeJQZ3eBBHpB5NrwGQbXqcjwmoZki2oOneC9WyABwS5dqElPgJZrqAWkQahOQRIQVIicmaCkBA3QbKfoTYoTZog50hQBgUpw8ifsAwFNRCcxFFyZQ0slwIpkC4ohWwfsqEQLXizN0YY4Mvk0FwOzeaInAzN8RAStQhA1Q7VAikJjCB8qH6IDoLFhBPEldjjCVomAikwC1oawssDzHIQVojgTPig9LMabOjjpj1QNogFSfdTwbz14NTWhZQWETkduTxAL1sgWXov9tiA-pNWlQA0NZBQD2A4jQa1gWteSmZeOhF5kZSkDoKomRE1D4EcAlcI8i5YA7pzcPgWZ8KF5BITIAnCMAlwGCAFqq6dArh-VQAykHJitI9hLIaQEZqQE4gLcSKIpcwFAA)]
+- [主旋律 TMD 檔案](shabondama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKMvPKc1NtcquzK8sLc7Ijwfi7MR4Q0tjUyW4muT8nJzU5JLM_Dz86orzS4uSU-MLEtNTrQIMzC3RZayKkzPy83PiS1IrSpLy87OJly8oyi9LzUvMA6opKMrMK0lNAStCKEgty0xJBUkXJyfmxZelFmWmZaamIOSBIsUg90OdWFKUmFecXJRZAPIUQlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiXiJCUUlGKjDACnISK5E1ZqZn5lmVJGZCw6Y8MT43MTMvJzEP6AgtLYXHjdMfN7U8btzzuGny875OBS0tLkVbBUMDCy57WwUXLhsjfRM7kGnQgFB40b7reePi5zv2Pp-7-OmuOS_WLnvaPfPpxobHDV3Pps580bTpWWfD8ykrFJ5O2fhsbQ9Q6NncCS9ntz1u6H6_p-PZjLVPJ_U87W18unPL-z39oEh6v6fn6ZxuoKlP50xTMDA3MlUwNLF4v6fz-Zo1CqaGCi8XNII987R914uZU9_vmfV0yfJnaxcbGoJN6DC0NDICKV699MWaBS9nz3mxqgfokJftEx83rns2Yz7Y1p6X7X1P-xe_nL3iWXPrk71zXqyc97ih8cmOtU83bnw2s_Ppzs1AwWezNz3Z2Q0x_Nm0DRADnzZtfrJj2tMJvUAFINdPX_pszhqgr57P3PeycQfQXrDTgOYB3YVsCVgYaCJQGGZNN9AaJS4ufS0FW2oBLgUFhccNE4D2PJ-97sWqVc9m9L3oaIcE1IuG5hdrOx83TAQrat4NDz46Rt-TXT1P1-4AKgVFpYXCy2XTQIr75j-bvQMRuUBTQRlSL6sgHajrcUMTioMh3gA6GxTuszcBNQPFIZGkYGioQP00AFT5vGkXJKKhaaB_05MdXc_mNLyYOB2YEiCJAZhUnuxoANr9dF_P09alwMSAmTaAfoFat3vps6Y9T_dvfbpk7bOuGS-nbn-6dDPQhGfbNwJlQWGyfvWTHd3Pt0x5Pmf-i4aepzu2PZ3c8HRl5_NZLUA3v1g1D-ISROC8WLX_WcNyYGQ_6-59MXM-MHweN3cDzQWKA93kogAMITATGHI9wPyrAFQGCoKG-U93LVOA5G6QYbAEtLYHGBxPW1c8m9YOTTFAU0ARuKPhZSNQZydYYdP2x82LHzfPedy8-XHT_sfNwABseNzcAeI2N0ActuRxcy9IohloDlFy7RCTgaz-x81rHjcD01nD46a1j5tWAK0Auw_qkl09hFwC1wW2DWj8hMdNu4DBgiHXtAzsDLhtOx83bQCqI8olWyc87V8Kd8bqx017wMpgjOapj5vWP27uwnBlM1AOHl5Ah-0FqaC8BIACBS19Lq7gjMSk_LyUxNxER6uwfGDl4FBjUFMNskfBxtBMyw7MqlEwjVfQVTAEQ10FIyCuUTAGkqZQbAAWMQOSJiB1cUACxAHqg7LgisDm-RjWQD0KFAL6FYg3AwX2g3nzwBqBXgbzNoPJBrgdwBQBFumFqwUmB3w6IBYaEbawaS2I17QCTIJkYBZCjJ0AFt8FZnfj0wGOdWj4gDAotEChVgNmYYYYLHggapB1oAUYkT4HiUGd3gQR6QeTa8BkG16nI8JqGZItqDp3gvVsgAcEuXbVIic-J3yJD5yewMkKzAITUFGUtAVPnLCkiTM4Qa5aDTYUmAWhbBALEppTwbz1YD90IfkQkX6QUxl6ioUklL3I_tS1U0DKZ9E-hrEK6EJGaEJOIK4yFwA)]
+- [鋼琴伴奏 TMD 檔案](shabondama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSKEstKs7Mz7MqyEzMy49PLCpKzEtPzU3NK1GCK0kty0xJzUtOtUpNySzJL8pMzEHIJefn5KQml4BMyK7MrywtzsiPB-LsxHhDS2NThLri_NKi5NT4gsT0VKsAA3NLdBmr4uSM_Pyc-JLUipKk_Pxs4uULivLLUvMSQe4rKMrMK0lNASvC4vzi5MS8eKB_M9MyU1MQ8rAQgDqxBBgCxclFmQUgTyFU5ReVZOSnFyUWZFRaZWQWg8IhOTEnPjsxLxGhCCn4YAGanJyfW5CYl4kapCUZQEVWBTmJlcg2ZKZn5lmVJGZCA7E8MT43MTMvJzEP6FotLYXHjdMfN7U8btzzuGny877O93s6XnbveT5hy5M9W54u7X_e2fF-T6eClhaXoq2CoYEFl72tgguXjZG-iR3ICmgwKrxo3_W8cfHzHXufz138dNecF2uXPe2e-XRjw-OGrmdTZ75o2vSss-H5lBUKT6dsfLa2Byj0bO6El7PbHjd0A-17NmPt00k9T3sbn-7c8n5PPyiK3-_peTqnG2jq0znTFAzMjUwVDE0sgA55vmaNgqmhwssFjWAfPm3f9WLm1Pd7Zj1dsvzZ2sWGhmATOgwtjYxAilcvfbFmwcvZc16s6gE65GX7xMeN657NmA-2tedle9_T_sUvZ6941tz6ZO-cFyvnPW5ofLJj7dONG5_N7Hy6czNQ8NnsTU92dkMMfzZtA8TAp02bn-yY9nRCL1AByPXTlz6bswboq-cz971s3AG0F-w0oHlAdyFbAhYGmggUhlnTDbRGiYvLM6-kKN8qABS1QR4ONQY11VwKQGBjaKZlB2bVKFTnptUqGGsbxinoAiGYAeVBqRoYw0TbDCxqCiQNwBKGQNIIiA21jcEkSAYoCuaZx2uDpEzjtUGqwOq5alFc5IPsIgu4gwzjgZqgJJhnAuYZwKTAPGOQHIgN5QNlQaYHZyQm5eelJOYmOkLswO5noMlA54IhxANAP4LcCsUQz4E8awJSB_I7iAPUB2XBFYHN8zGsUXjctP1x82Kg0OPmOUC8GSiwH8ybB9b4uLkDzNsMJhvgdjxuXgIW6YWrfdzcjk8HxEIjwhY2rQXxmlaASZAMzEKIsRPA4rvA7G58OrigQQYKHxAGRzdYAzh2MUIMFjwQNcg60AKMSJ-DxKBOb4KI9IPJNWCyDa_TEWG1DMkWVJ07wXo2wAOCXLuwJT7cWa6gFpEGoTkESEFSInJmgpAQN0Gyn6E2KE2aIOdIUAYFKcPIn7AMBTUQnMRRcmUNLJcCKZAuKIVsH7KhEC14szdGGODL5NBcDs3miJwMzfEQErUIQNUO1QIpCYwgfKh-iA6CxYQTvmICWiYCKTALWhrCywPMchBWiOBM-KD0sxps6OOmPVA2iAVJ91PBvPXg1NaFlBYROR25PEAvWyBZei_22ID6k1aVADQ1kFAPYDiNBrWBa15KZl46EXmRlKQOgqiZETUPgRwCVwjyLlgDunNw-BZnwoXkEhMgCcIwCXAYIAWqrp0CuH5VADKQcmK0j2EshpARmpATiAtxIoilzAUA)]
 
 ## 分析
 

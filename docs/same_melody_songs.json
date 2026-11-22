@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1461,
-  "same_melody_different_lyrics_group_count": 19,
+  "total_corpus_songs": 1498,
+  "same_melody_different_lyrics_group_count": 20,
   "groups": [
     {
       "versions": [
@@ -643,8 +643,47 @@
     {
       "versions": [
         {
+          "id": "shokacho/vol_02/p106_kanariya",
+          "lyrics": "ううたおわすれたかなりやほうしろのやまにすてませうかせどのこやぶにゅうめませうかやなぎのむちでぶちませうかいえいえそれはなりませんかはいそうううたおわすれたかな",
+          "titles": [
+            "カナリヤ"
+          ],
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shokacho/vol_02/p106_kanariya",
+              "md_file": "shokacho/vol_02/p106_kanariya/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+              "raw_title": "カナリヤ",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya",
+          "lyrics": "うたおわすれたかなりやほうしろのやまにすてましょかいえいえそれはなりませぬ",
+          "titles": [
+            "かなりや"
+          ],
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya",
+              "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
+              "raw_title": "かなりや",
+              "year": 1934
+            }
+          ]
+        }
+      ],
+      "id": "015_p106_kanariya"
+    },
+    {
+      "versions": [
+        {
           "id": "shokacho/vol_02/p109_tonbi",
-          "lyrics": "ぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろ",
+          "lyrics": "たいしょうようねんしょうかちゃんねるぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろ",
           "titles": [
             "とんび"
           ],
@@ -684,7 +723,7 @@
           ]
         }
       ],
-      "id": "015_p109_tonbi"
+      "id": "016_p109_tonbi"
     },
     {
       "versions": [
@@ -723,7 +762,7 @@
           ]
         }
       ],
-      "id": "016_p043_yukedomo"
+      "id": "017_p043_yukedomo"
     },
     {
       "versions": [
@@ -769,7 +808,7 @@
           ]
         }
       ],
-      "id": "017_1_2_05_yamato_damashii"
+      "id": "018_1_2_05_yamato_damashii"
     },
     {
       "versions": [
@@ -815,7 +854,7 @@
           ]
         }
       ],
-      "id": "018_4_02_kabin_no_hana"
+      "id": "019_4_02_kabin_no_hana"
     },
     {
       "versions": [
@@ -854,7 +893,7 @@
           ]
         }
       ],
-      "id": "019_2_07_tasukebune"
+      "id": "020_2_07_tasukebune"
     }
   ]
 }

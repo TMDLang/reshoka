@@ -375,7 +375,6 @@ nav:
       - "6-08 開校記念日": kogakko_shokashu_1915/6_08_kaiko_kinenbi/index.md
       - "6-09 卒業の歌": kogakko_shokashu_1915/6_09_sotsugyo_no_uta/index.md
   - 新編小學校・公學校唱歌教材集（大正十二年／1923）:
-      - 總覽與書訊: shoka_kyozai_shu_1923/index.md
       - 專題統計: shoka_kyozai_shu_1923/analysis.md
       - 尋常科 第一、二學年:
           - 總覽: shoka_kyozai_shu_1923/grade_1_2/index.md
@@ -590,7 +589,6 @@ nav:
           - "40 夜の歸雁（二部）": shoka_kyozai_shu_1923/koto_1_2/40_yoru_no_kigan/index.md
   - 楊金土手抄唱歌帖（大正十二年至昭和二年／1923–1927）:
       - 史料整理筆記: shokacho/research_notes.md
-      - 抄錄時間軸與編年考: shokacho/timeline.md
       - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
       - 《蓬萊唱歌集》與大正新童謠: shokacho/horai_taisho_doyo.md
       - 延伸館藏與日本國會圖書館調查: archives/index.md
@@ -830,8 +828,7 @@ nav:
       - "11 蓬萊小唄": taiwan_no_uta/11_horai_kouta/index.md
       - "12 蕃山の唄": taiwan_no_uta/12_banzan_no_uta/index.md
   - 新定兒童唱歌（昭和五年／1930）:
-      - 專題統計與書訊: shintei_jido_shoka/index.md
-      - 大正新童謠考證: shintei_jido_shoka/taisho_doyo.md
+      - 專題統計: shintei_jido_shoka/index.md
       - 尋常科 第一學年:
           - 總覽: shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_1_2020.006.0847.0001/0_book_info/index.md

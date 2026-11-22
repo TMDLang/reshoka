@@ -1,0 +1,245 @@
+- 二年 (1) **[〈お早う〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/2_01_ohayo/)**（小松耕輔 曲）
+- 二年 (6) **[〈ちくおんき〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/2_06_chikuonki/)**（梁田貞 曲）
+- 二年 (19) **[〈私の妹〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/2_19_watashi_no_imoto/)**（小松耕輔 曲）
+- 二年 (28) **[〈すゞめ〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/2_28_suzume/)**（小松耕輔 曲）
+- 三年 (3) **[〈花瓶の花〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/3_03_kabin_no_hana/)**（法國名謠填詞）
+- 三年 (7) **[〈夕日〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/3_07_yuhi/)**（室崎琴月 曲，1921《金の星》）
+- 四年 (5) **[〈お庭の草花〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_05_oniwa_no_kusabana/)**（小松耕輔 曲）
+- 四年 (6) **[〈夏の朝〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_06_natsu_no_asa/)**（小松耕輔 曲）
+- 四年 (25) **[〈とんび〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_25_tonbi/)**（梁田貞 曲，老鷹空中盤旋的名作）
+- 七年 (13) **[〈野の幸〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/7_13_no_no_sachi/)**（小松耕輔 曲，女子青年部自然收穫歌）
+
+其他名家自然童謠
+
+- 一年 (11) **[〈とんぼ〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/1_11_tonbo/)**（大和田愛羅 詞曲）
+- 三年 (6) **[〈夕立〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/3_06_yudachi/)**（林柳波 詞／宮原禎次 曲）
+- 三年 (13) **[〈ささの舟〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/3_13_sasa_no_fune/)**（近藤義次 曲）
+- 三年 (23) **[〈月夜の兎〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/3_23_tsukiyo_no_usagi/)**（浜田廣介 詞／中山晉平 曲）
+- 四年 (32) **[〈二つの蝶〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_32_futatsu_no_cho/)**（室崎琴月 曲）
+- 四年 (37) **[〈ほたる〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_37_hotaru/)**（池野道治 詞／山内冷晃 曲）
+
+但同時也出現了這些軍事主題歌曲：
+
+- 直接戰時軍事、防空與武力宣揚軍歌
+  - **[6_09 守れ臺灣](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_09_mamore_taiwan/)**（男子青年用，pp. 183–184）
+    - 詞曲：小島富太郎 詞／古關裕而 曲
+    - 主題：臺灣防空動員軍歌。直接將「敵機空襲、防空監視網、消燈令（燈火管制）、防護團、愛國高射砲、毒煙（毒氣瓦斯）、救護班」等戰時防空要素寫入歌詞。
+  - **[6_10 銀翼光る](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_10_ginyoku_hikaru/)**（男子青年用，p. 184）
+    - 詞曲：迎稔 詞／古關裕而 曲
+    - 主題：戰鬥機航空戰軍歌。以「轟く爆音敵こそ寄せくれ／銀翼勇む 皇國日本の南の守り／血潮ぞ高鳴る
+      戰へ同胞」鼓吹空軍戰力，強調臺灣作為帝國南疆防衛要塞。
+  - **[6_11 臺灣軍の歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_11_taiwangun_no_uta/)**（男子青年用，pp. 185–186）
+    - 詞曲：臺灣軍 詞／陸軍戶山學校軍樂隊 曲
+    - 主題：駐臺日軍主力部隊（臺灣軍司令部）官方軍歌。宣揚「見よ鎭南の臺灣軍／備へは固し臺灣軍」，向部落青年展示日軍軍威。
+  - **[6_15 大日本行進曲](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_15_dainippon_koshinkyoku/)**（男子青年用，pp. 191–192）
+    - 詞曲：林柳波 詞／江口夜詩 曲
+    - 主題：武力擴張進行曲。歌詞直白高呼「朝日にひらめく日の丸の旗／文化の光 武力の王者 日本 日本 日本よ
+      進め！」，直接鼓吹以武力向外征服。
+- 男子青年團準軍事化軍訓與行進歌曲
+  - **[6_16 帝國青年の歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_16_teikoku_seinen_no_uta/)**（男子青年用，pp. 193–194）
+    - 詞曲：島崎赤太郎 曲
+    - 主題：青年團忠君軍訓。強調「國家の安危は我等にかゝる／祖先の勇氣と忠義の血潮」，要求部落青年為祖國名譽犧牲奉獻。
+  - **[6_05 青年團行進歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_05_seinendan_koshinka/)**（男子青年用，p. 178）
+    - 詞曲：小松耕輔 曲
+    - 主題：青年團野外行軍列隊操演歌。
+  - **[6_06 進め健兒](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_06_susume_kenji/)**（男子青年用，p. 179）
+    - 詞曲：堀內敬三 譯配／英國古曲
+    - 主題：青年體魄鍛鍊與準軍事童軍操練。
+  - **[6_01 青年の歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_01_seinen_no_uta/)**（男子青年用，p. 172）
+    - 詞曲：東京音樂學校 曲
+    - 主題：帝國青年的時代使命與興國修養。
+  - **[6_02 日本青年の歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_02_nihon_seinen_no_uta/)**（男子青年用，pp. 173–174）
+    - 詞曲：日本青年館 制定
+    - 主題：灌輸「八紘一宇」的大東亞帝國青年精神。
+  - **[5_11 日本國民歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/5_11_nihon_kokuminka/)**（男女青年用，p. 159）
+    - 詞曲：中山末一 詞／山田耕筰 曲
+    - 主題：反映退出國聯後的同仇敵愾與對外擴張：「狂へ怒濤 ゆるがじ我等 太平洋 斷じて安し／來れ猜疑 許さじ我等
+      見よ極東の確たる平和」。
+  - **[5_13 躍進日本](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/5_13_yakushin_nihon/)**（男女青年用，p. 161）
+    - 詞曲：日本教育音樂協會 撰
+    - 主題：滿洲事變後推動的國策宣傳歌，高唱「昭和の御代の輝き／躍進々々 あゝ日本」。
+  - **[5_14 日の丸の歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/5_14_hinomaru_no_uta/)**（男女青年用，p. 162）
+    - 詞曲：葛原しげる 詞／弘田龍太郎 曲
+    - 主題：國家神格化之國旗忠誠教化。
+  - **[5_19 日の丸音頭](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/5_19_hinomaru_ondo/)**（男女青年用，pp. 168–169）
+    - 詞曲：葛原しげる 詞／弘田龍太郎 曲
+    - 主題：將國旗崇敬化為部落集體盆舞音頭，凝聚大眾動員狂熱。
+  - **[7_03 女子青年團歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/7_03_joshi_seinendanka/)** / **[7_04 臺灣女子青年團歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/7_04_taiwan_joshi_seinendanka/)**（女子青年用，pp. 201–202）
+    - 詞曲：中島朝雄 詞／臺灣教育會 曲
+    - 主題：動員山地女性投入「後方支援、勤勞奉仕、軍人家庭照護」的戰時後方生產網絡。
+  - **[6_03 臺灣青年歌](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_03_taiwan_seinen_ka/)**（男子青年用，pp. 175–176）
+    - 詞曲：北原白秋 詞／山田耕筰 曲
+    - 主題：臺灣青年守備動員。從黑潮、椰林、鵝鑾鼻唱向「臺灣 臺灣 ここぞわが島 いざ守れ」的軍事動員口號。
+- 兒童學年部的軍事啟蒙與「現人神」崇拜
+  - **[4_04 皇太子さま](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_04_kotaishisama/)**（第四學年，p. 109）
+    - 主題：1933 年明仁親王誕生之帝室奉祝歌。
+  - **[4_30 昭和の御代](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_30_showa_no_miyo/)**（第四學年，p. 136）
+    - 主題：歌頌昭和聖代與皇統治世。
+  - **[4_13 臺灣少年行進曲](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_13_taiwan_shonen_koshinkyoku/)**（第四學年，pp. 118–119）
+    - 詞曲：北原白秋 詞／山田耕筰 曲
+    - 主題：將高山小學高年級學童組織為帝國少年團進行集體行軍動員。
+
+這些歌曲的作者不乏我們熟悉的名字：葛原しげる、北原白秋、山田耕筰、小松耕輔，都可以算是大正童謠的代表人物。幾年前，蓬萊公學校將北原白秋的[〈兎の電報〉](https://tmdlang.github.io/reshoka/shokacho/vol_07/p237_usagi_no_denpo/)編入教材，楊金土還在筆記本上手抄，1935 年時，[〈兎の電報〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_10_usagi_no_denpo/)不但直接編入台灣總督府官方教材，北原白秋還直接為台灣的少年們做歌，創作[〈臺灣少年行進曲〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_13_taiwan_shonen_koshinkyoku/)。
+
+歌詞是這樣的：
+
+```
+(一)
+仰げ少年　光だ　風だ
+空だ　僕らが南の空だ
+雲よ　飛べ飛べ　木瓜（もくくわ）よ實れ
+夏だ　力だ　僕らが島だ
+少年だ　少年だ
+臺灣少年だ
+
+仰望吧少年，是陽光、是微風
+是天空，是屬於我們的南方天空
+雲朵啊，飛翔吧飛翔吧，木瓜啊結實纍纍吧
+是夏天、是力量，是屬於我們的島嶼
+是少年啊、是少年啊
+是臺灣少年啊
+
+(二)
+護（まも）れ少年　綠だ　熱だ
+土だ　僕らが產れの土だ
+水はかがやく　水牛は肥える
+村だ　廣野だ　僕らが島だ
+少年だ　少年だ
+臺灣少年だ
+
+守護吧少年，是翠綠、是熱情
+是大地，是孕育我們出生的土地
+河水閃耀著光芒，水牛肥碩健壯
+是村落、是曠野，是屬於我們的島嶼
+是少年啊、是少年啊
+是臺灣少年啊
+
+(三)
+登れ少年　木の根だ　岩だ
+山だ　僕らが清めの山だ
+霧だ　帝雉子（みかどきじ）立つ　溪（たに）から峰へ
+紅檜（べにひ）だ　僕らが島だ
+少年だ　少年だ
+臺灣少年だ
+
+攀登吧少年，是樹根、是岩石
+是高山，是洗滌我們心靈的聖山
+雲霧繚繞，帝雉起飛，從溪谷直上山峰
+是紅檜啊，是屬於我們的島嶼
+是少年啊、是少年啊
+是臺灣少年啊
+
+(四)
+凌（しの）げ少年　しぶきだ　波だ
+海だ　僕らが船出の海だ
+潮（しほ）は黒潮（くろしほ）　早瀨（はやせ）も何の
+銛（もり）だ　鯨（くぢら）だ　僕らが島だ
+少年だ　少年だ
+臺灣少年だ
+
+乘風破浪吧少年，是浪花、是波濤
+是大海，是我們揚帆出航的大海
+海潮是黑潮，急流險灘又算什麼
+是魚叉、是巨鯨，是屬於我們的島嶼
+是少年啊、是少年啊
+是臺灣少年啊
+```
+
+還有最後一段
+
+```
+(五)
+勢（きほ）へ少年　國語だ　歌だ
+道だ　僕らが並木の道だ
+舉（こぞ）れ御稜威（みいつ）に　お宮をさして
+夏だ　祭（まつり）だ　僕らが島だ
+少年だ　少年だ
+臺灣少年だ
+
+奮發振作吧少年，是國語（日語）、是歌聲
+是道路，是我們走過的林蔭大道
+齊聚在天皇的威光之下，朝著神社前進
+是夏天、是祭典，是屬於我們的島嶼
+是少年啊、是少年啊
+是臺灣少年啊
+```
+
+[〈臺灣少年行進曲〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/4_13_taiwan_shonen_koshinkyoku/)還有姊妹作[〈臺灣青年歌〉](https://tmdlang.github.io/reshoka/kyoyusho_shoka_1935/6_03_taiwan_seinen_ka/)：
+
+```
+（一）
+君見ずや南の島 風光り
+椰子はそよぐ
+青年 われら常に
+雲とおこり 志高くあらむ
+臺灣 臺灣 ここぞ我が島
+いざ守れ われら
+われらぞ 臺灣青年
+
+你可曾看見這座南方之島 微風閃耀著光芒
+椰子樹輕輕搖曳
+青年啊，我們常如
+雲湧般奮起 懷抱著高遠的志向
+臺灣、臺灣 這裡正是我們的島嶼
+我們來守護吧
+我們正是 臺灣青年
+
+（二）
+君見ずや南の海 空碧く
+潮は黑し 
+豪快 われら共に
+鷹（たか）と羽（は）うち  鵝鑾鼻の沖を飛ばむ
+臺灣 臺灣
+ここぞ我が島
+いざ守れ われら
+われらぞ 臺灣青年
+
+你可曾看見這片南方之海 天空湛藍
+海潮漆黑深邃（黑潮） 
+豪邁暢快，我們一同
+如雄鷹般振翅 飛越鵝鑾鼻的外海吧
+臺灣、臺灣
+這裡正是我們的島嶼
+我們來守護吧
+我們正是 臺灣青年
+
+（三）
+君見ずや南の志氣 山秀で
+溪（たに）は深し
+剛健 われら切に
+霧と競（きそ）ひ 新高の嶮（けん）を攀（よ）ぢむ
+臺灣 臺灣 ここぞ我が島
+いざ守れ われら
+われらぞ 臺灣青年
+
+你可曾看見南方的昂揚志氣
+群山俊秀
+溪谷幽深
+剛強健朗，我們熱切地
+與雲霧競逐 攀登新高山（玉山）的險峰吧
+臺灣、臺灣 這裡正是我們的島嶼
+我們來守護吧
+我們正是 臺灣青年
+```
+
+還是一樣要有最後一段
+
+```
+（四）
+君見ずや南の島 國強く
+道は正し
+內臺 われら一（いつ）に
+旗となびき 天皇の下（もと）に生きむ
+臺灣 臺灣 ここぞ我が島
+いざ守れ われら
+われらぞ 臺灣青年
+
+你可曾看見這座南方之島
+國力強盛
+皇道正大
+內地（日本本土）與臺灣，我們合而為一
+如旗幟般迎風飄揚 活在天皇的庇蔭之下吧
+臺灣、臺灣 這裡正是我們的島嶼
+我們來守護吧
+我們正是 臺灣青年
+```

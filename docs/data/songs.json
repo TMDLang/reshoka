@@ -1,5 +1,227 @@
 [
   {
+    "title": "君が代",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_1/12_kimigayo/"
+  },
+  {
+    "title": "天長節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_1/13_tenchosetsu/"
+  },
+  {
+    "title": "始政紀念日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_1/14_shisei_kinenbi/"
+  },
+  {
+    "title": "一月一日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_1/15_ichigatsu_ichijitsu/"
+  },
+  {
+    "title": "紀元節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第一學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_1/16_kigensetsu/"
+  },
+  {
+    "title": "君が代",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_2/12_kimigayo/"
+  },
+  {
+    "title": "天長節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_2/13_tenchosetsu/"
+  },
+  {
+    "title": "始政紀念日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_2/14_shisei_kinenbi/"
+  },
+  {
+    "title": "一月一日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_2/15_ichigatsu_ichijitsu/"
+  },
+  {
+    "title": "紀元節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_2/16_kigensetsu/"
+  },
+  {
+    "title": "春が來た",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第三學年用（臺史博 2020.006.0855）",
+    "url": "hyojun_shoka_gakushucho/grade_3/01_haru_ga_kita/"
+  },
+  {
+    "title": "汽車",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第三學年用（臺史博 2020.006.0855）",
+    "url": "hyojun_shoka_gakushucho/grade_3/07_kisha/"
+  },
+  {
+    "title": "君が代",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第三學年用（臺史博 2020.006.0855）",
+    "url": "hyojun_shoka_gakushucho/grade_3/11_kimigayo/"
+  },
+  {
+    "title": "天長節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第三學年用（臺史博 2020.006.0855）",
+    "url": "hyojun_shoka_gakushucho/grade_3/12_tenchosetsu/"
+  },
+  {
+    "title": "始政紀念日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第三學年用（臺史博 2020.006.0855）",
+    "url": "hyojun_shoka_gakushucho/grade_3/13_shisei_kinenbi/"
+  },
+  {
+    "title": "一月一日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第三學年用（臺史博 2020.006.0855）",
+    "url": "hyojun_shoka_gakushucho/grade_3/14_ichigatsu_ichijitsu/"
+  },
+  {
+    "title": "紀元節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第三學年用（臺史博 2020.006.0855）",
+    "url": "hyojun_shoka_gakushucho/grade_3/15_kigensetsu/"
+  },
+  {
+    "title": "富士山",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第四學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_4/01_fujisan/"
+  },
+  {
+    "title": "村の鍛冶屋",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第四學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_4/05_mura_no_kajiya/"
+  },
+  {
+    "title": "六氏先生",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第四學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_4/08_rokushi_sensei/"
+  },
+  {
+    "title": "君が代",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第四學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_4/10_kimigayo/"
+  },
+  {
+    "title": "天長節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第四學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_4/11_tenchosetsu/"
+  },
+  {
+    "title": "始政紀念日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第四學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_4/12_shisei_kinenbi/"
+  },
+  {
+    "title": "一月一日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第四學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_4/13_ichigatsu_ichijitsu/"
+  },
+  {
+    "title": "紀元節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第四學年用（國臺圖 0729 73）",
+    "url": "hyojun_shoka_gakushucho/grade_4/14_kigensetsu/"
+  },
+  {
+    "title": "海",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_5/01_umi/"
+  },
+  {
+    "title": "菅公",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_5/08_kanko/"
+  },
+  {
+    "title": "君が代",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_5/11_kimigayo/"
+  },
+  {
+    "title": "天長節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_5/12_tenchosetsu/"
+  },
+  {
+    "title": "始政紀念日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_5/13_shisei_kinenbi/"
+  },
+  {
+    "title": "一月一日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_5/14_ichigatsu_ichijitsu/"
+  },
+  {
+    "title": "紀元節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_5/15_kigensetsu/"
+  },
+  {
+    "title": "君が代",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_6/11_kimigayo/"
+  },
+  {
+    "title": "天長節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_6/12_tenchosetsu/"
+  },
+  {
+    "title": "始政紀念日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_6/13_shisei_kinenbi/"
+  },
+  {
+    "title": "一月一日",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_6/14_ichigatsu_ichijitsu/"
+  },
+  {
+    "title": "紀元節",
+    "collection": "hyojun_shoka_gakushucho",
+    "volume": "尋常科 第六學年用（國臺圖 523.37 4322-4）",
+    "url": "hyojun_shoka_gakushucho/grade_6/15_kigensetsu/"
+  },
+  {
     "title": "日の丸の旗",
     "collection": "《尋常小學唱歌》",
     "volume": "第一學年用（廣島大學圖書館 ID 4103，明治44年／1911）",
