@@ -1,6 +1,6 @@
 ---
-title: "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）（共 5 首曲目總覽與線上試聽）"
-description: "日治時期臺灣hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）全冊數位化曲目總覽（共 5 首），提供線上試聽雙手鋼琴伴奏 MP3、閱讀五線譜與 TMD 樂譜、檢索歌詞及原書掃描圖檔。"
+title: "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）（共 16 首曲目總覽與線上試聽）"
+description: "日治時期臺灣hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）全冊數位化曲目總覽（共 16 首），提供線上試聽雙手鋼琴伴奏 MP3、閱讀五線譜與 TMD 樂譜、檢索歌詞及原書掃描圖檔。"
 image: "0_book_info/cp_01.jpg"
 ---
 
@@ -8,12 +8,23 @@ image: "0_book_info/cp_01.jpg"
 
 - 📖 **[書訊與卷首／卷末掃描頁（共 7 頁）](0_book_info/index.md)**
 
-本冊共收錄 **5 首**曲目。
+本冊共收錄 **16 首**曲目。
 
-## None（共 5 首）
+## None（共 16 首）
 
 | 編號 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
 | :--- | :--- | :--- | :--- | :--- |
+| 01_hato | [**鳩**](01_hato/index.md) | — | `?=F` `<2/4>` `!=96` | P006.jpg, P007.jpg |
+| 02_pochi_to_tama | [**ポチ ト タマ**](02_pochi_to_tama/index.md) | — | `?=F` `<2/4>` `!=96` | P008.jpg, P009.jpg |
+| 03_asagaho | [**アサガホ**](03_asagaho/index.md) | — | `?=F` `<2/4>` `!=84` | P010.jpg, P011.jpg |
+| 04_hiyoko | [**ヒヨコ**](04_hiyoko/index.md) | — | `?=Bb` `<2/4>` `!=88` | P012.jpg, P013.jpg |
+| 05_hakone | [**箱庭**](05_hakone/index.md) | 詞：大正幼年唱歌 / 曲：小松耕輔 | `?=D` `<4/4>` `!=88` | P014.jpg, P015.jpg |
+| 06_momotarau | [**桃太郎**](06_momotarau/index.md) | 詞：文部省尋常小學唱歌 / 曲：岡野貞一 | `?=G` `<2/4>` `!=112` | P016.jpg, P017.jpg |
+| 07_inu | [**犬**](07_inu/index.md) | 詞：文部省尋常小學唱歌 / 曲：文部省尋常小學唱歌 | `?=D` `<4/4>` `!=120` | P018.jpg, P019.jpg |
+| 08_oshaugatsu | [**お正月**](08_oshaugatsu/index.md) | 詞：中村秋香 / 曲：納所弁次郎 | `?=F` `<2/4>` `!=100` | P020.jpg, P021.jpg |
+| 09_onma_yo_hashire | [**オンマヨハシレ**](09_onma_yo_hashire/index.md) | 詞：佛蘭西童謠 / 曲：ロオル、コルラン | `?=B,` `<2/4>` `!=100` | P022.jpg, P023.jpg |
+| 10_oyausi_kousi | [**親牛子牛**](10_oyausi_kousi/index.md) | 詞：小學生の歌 / 曲：小學生の歌 | `?=F` `<4/4>` `!=88` | P024.jpg, P025.jpg |
+| 11_gakutai_asobi | [**樂隊遊**](11_gakutai_asobi/index.md) | 詞：こどもの唱歌 / 曲：こどもの唱歌 | `?=D` `<2/4>` `!=100` | P026.jpg, P027.jpg |
 | 12_kimigayo | [**君が代**](12_kimigayo/index.md) | 詞：古歌 / 曲：林廣守 | `?=C` `<4/4>` `!=69` | P028.jpg, P029.jpg |
 | 13_tenchosetsu | [**天長節**](13_tenchosetsu/index.md) | 詞：黒川真頼 / 曲：奥好義 | `?=D` `<3/4>` `!=96` | P030.jpg, P031.jpg |
 | 14_shisei_kinenbi | [**始政紀念日**](14_shisei_kinenbi/index.md) | — | `?=C` `<4/4>` `!=96` | P032.jpg, P033.jpg |

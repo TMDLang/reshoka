@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1498,
-  "same_title_group_count": 114,
+  "total_corpus_songs": 1549,
+  "same_title_group_count": 131,
   "groups": [
     {
       "title_key": "いかだかずら",
@@ -263,6 +263,38 @@
       ]
     },
     {
+      "title_key": "おしょうがつ",
+      "title": "お正月",
+      "versions": [
+        {
+          "id": "same-song:oshogatsu:shintei_jido_shoka/grade_1_2020.006.0847.0001/4_19_oshogatsu",
+          "year": 1935,
+          "occurrences": [
+            {
+              "rel_dir": "kyoyusho_shoka_1935/2_26_oshogatsu",
+              "md_file": "kyoyusho_shoka_1935/2_26_oshogatsu/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "お正月",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_1/08_oshaugatsu",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_1/08_oshaugatsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_1/08_oshaugatsu/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+              "raw_title": "お正月",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "かざぐるま",
       "title": "かざぐるま／風車",
       "versions": [
@@ -394,38 +426,6 @@
       ]
     },
     {
-      "title_key": "こだま",
-      "title": "こだま／木靈",
-      "versions": [
-        {
-          "id": "single:kogakko_shokashu_1915/3_03_kodama",
-          "year": 1915,
-          "occurrences": [
-            {
-              "rel_dir": "kogakko_shokashu_1915/3_03_kodama",
-              "md_file": "kogakko_shokashu_1915/3_03_kodama/index.md",
-              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-              "raw_title": "こだま",
-              "year": 1915
-            }
-          ]
-        },
-        {
-          "id": "single:shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama",
-              "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama/index.md",
-              "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
-              "raw_title": "木靈",
-              "year": 1934
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title_key": "こいのぼり",
       "title": "こひのぼり／鯉のぼり／コヒノボリ",
       "versions": [
@@ -478,46 +478,32 @@
       ]
     },
     {
-      "title_key": "ちくおんき",
-      "title": "ちくおんき／蓄音機",
+      "title_key": "しゃぼんだま",
+      "title": "しやぼんだま／シヤボンダマ",
       "versions": [
         {
-          "id": "same-song:chikuonki:shoka_kyozai_shu_1923/grade_3_4/45_chikuonki",
-          "year": 1923,
+          "id": "single:shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama",
+          "year": 1934,
           "occurrences": [
             {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/45_chikuonki",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/45_chikuonki/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "蓄音機",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki",
-              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
-              "raw_title": "蓄音機（留聲機）",
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "シヤボンダマ（肥皂泡）",
               "year": 1934
-            },
-            {
-              "rel_dir": "kyoyusho_shoka_1935/2_06_chikuonki",
-              "md_file": "kyoyusho_shoka_1935/2_06_chikuonki/index.md",
-              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
-              "raw_title": "ちくおんき",
-              "year": 1935
             }
           ]
         },
         {
-          "id": "single:kyoyusho_shoka_1935/4_17_chikuonki",
-          "year": 1935,
+          "id": "single:hyojun_shoka_gakushucho/grade_3/10_shabondama",
+          "year": 9999,
           "occurrences": [
             {
-              "rel_dir": "kyoyusho_shoka_1935/4_17_chikuonki",
-              "md_file": "kyoyusho_shoka_1935/4_17_chikuonki/index.md",
-              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
-              "raw_title": "ちくおんき",
-              "year": 1935
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/10_shabondama",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/10_shabondama/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
+              "raw_title": "しやぼんだま",
+              "year": 9999
             }
           ]
         }
@@ -705,32 +691,85 @@
       ]
     },
     {
-      "title_key": "あり",
-      "title": "アリ",
+      "title_key": "れんげそう",
+      "title": "れんげさう",
       "versions": [
         {
-          "id": "single:shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari",
-          "year": 1934,
+          "id": "single:shokacho/vol_03/p063_rengeso",
+          "year": 1923,
           "occurrences": [
             {
-              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari",
-              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-              "raw_title": "アリ（螞蟻）",
-              "year": 1934
+              "rel_dir": "shokacho/vol_03/p063_rengeso",
+              "md_file": "shokacho/vol_03/p063_rengeso/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
+              "raw_title": "れんげさう",
+              "year": 1923
             }
           ]
         },
         {
-          "id": "single:kogakko_shoka/grade_2/3_ari",
-          "year": 1936,
+          "id": "single:hyojun_shoka_gakushucho/grade_4/02_renge_so",
+          "year": 9999,
           "occurrences": [
             {
-              "rel_dir": "kogakko_shoka/grade_2/3_ari",
-              "md_file": "kogakko_shoka/grade_2/3_ari/index.md",
-              "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-              "raw_title": "アリ（蟻）",
-              "year": 1936
+              "rel_dir": "hyojun_shoka_gakushucho/grade_4/02_renge_so",
+              "md_file": "hyojun_shoka_gakushucho/grade_4/02_renge_so/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）",
+              "raw_title": "れんげさう",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "あさがお",
+      "title": "アサガホ／朝顏／あさがほ／朝顔",
+      "versions": [
+        {
+          "id": "same-song:asagao:jinjo_shogaku_shoka/grade_1_4103/10_asagao",
+          "year": 1911,
+          "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_1_4103/10_asagao",
+              "md_file": "jinjo_shogaku_shoka/grade_1_4103/10_asagao/index.md",
+              "book_label": "文部省《尋常小學唱歌》第一學年用（明治44年／1911）",
+              "raw_title": "朝顏",
+              "year": 1911
+            },
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/24_asagao",
+              "md_file": "shoka_kyozai_shu_1923/grade_1_2/24_asagao/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "朝顔",
+              "year": 1923
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/1_07_asagao/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "アサガホ（牽牛花）",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/1_12_asagao",
+              "md_file": "kyoyusho_shoka_1935/1_12_asagao/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "あさがほ",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_1/03_asagaho",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_1/03_asagaho",
+              "md_file": "hyojun_shoka_gakushucho/grade_1/03_asagaho/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+              "raw_title": "アサガホ",
+              "year": 9999
             }
           ]
         }
@@ -872,6 +911,38 @@
       ]
     },
     {
+      "title_key": "しやぼんたま",
+      "title": "シヤボン玉／しやぼん玉",
+      "versions": [
+        {
+          "id": "same-song:shabondama:shokacho/vol_07/p233_shabondama",
+          "year": 1935,
+          "occurrences": [
+            {
+              "rel_dir": "kyoyusho_shoka_1935/2_08_shabondama",
+              "md_file": "kyoyusho_shoka_1935/2_08_shabondama/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "しやぼん玉",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_2/07_shabondama",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_2/07_shabondama",
+              "md_file": "hyojun_shoka_gakushucho/grade_2/07_shabondama/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "シヤボン玉",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "すずめ",
       "title": "スズメ／雀",
       "versions": [
@@ -964,91 +1035,6 @@
       ]
     },
     {
-      "title_key": "ひこうき",
-      "title": "ヒカウキ／ひかうき／飛行機",
-      "versions": [
-        {
-          "id": "single:shoka_kyozai_shu_1923/grade_3_4/50_hikoki",
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/50_hikoki",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/50_hikoki/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "飛行機",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "same-song:hikoki:shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki",
-              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-              "raw_title": "ヒカウキ（飛機）",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_1/12_hikoki",
-              "md_file": "kogakko_shoka/grade_1/12_hikoki/index.md",
-              "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
-              "raw_title": "ヒカウキ（飛機）",
-              "year": 1935
-            },
-            {
-              "rel_dir": "kyoyusho_shoka_1935/2_12_hikoki",
-              "md_file": "kyoyusho_shoka_1935/2_12_hikoki/index.md",
-              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
-              "raw_title": "ひかうき",
-              "year": 1935
-            }
-          ]
-        },
-        {
-          "id": "single:shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "飛行機",
-              "year": 1934
-            }
-          ]
-        },
-        {
-          "id": "single:kyoyusho_shoka_1935/3_14_hikoki",
-          "year": 1935,
-          "occurrences": [
-            {
-              "rel_dir": "kyoyusho_shoka_1935/3_14_hikoki",
-              "md_file": "kyoyusho_shoka_1935/3_14_hikoki/index.md",
-              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
-              "raw_title": "飛行機",
-              "year": 1935
-            }
-          ]
-        },
-        {
-          "id": "single:utanohon/ge_2006.006.0878/10_hikoki",
-          "year": 1943,
-          "occurrences": [
-            {
-              "rel_dir": "utanohon/ge_2006.006.0878/10_hikoki",
-              "md_file": "utanohon/ge_2006.006.0878/10_hikoki/index.md",
-              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
-              "raw_title": "ひかうき（飛機）",
-              "year": 1943
-            }
-          ]
-        }
-      ]
-    },
-    {
       "title_key": "ひよこ",
       "title": "ヒヨコ／ひよこ",
       "versions": [
@@ -1111,6 +1097,19 @@
               "year": 1934
             }
           ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_1/04_hiyoko",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_1/04_hiyoko",
+              "md_file": "hyojun_shoka_gakushucho/grade_1/04_hiyoko/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+              "raw_title": "ヒヨコ",
+              "year": 9999
+            }
+          ]
         }
       ]
     },
@@ -1141,6 +1140,38 @@
               "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
               "raw_title": "ぺたこ（白頭殼仔／白頭翁）",
               "year": 1943
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "ぽちとたま",
+      "title": "ポチ ト タマ／ぽちとたま",
+      "versions": [
+        {
+          "id": "single:shoka_kyozai_shu_1923/grade_1_2/43_pochi_to_tama",
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/43_pochi_to_tama",
+              "md_file": "shoka_kyozai_shu_1923/grade_1_2/43_pochi_to_tama/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "ぽちとたま",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_1/02_pochi_to_tama",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_1/02_pochi_to_tama",
+              "md_file": "hyojun_shoka_gakushucho/grade_1/02_pochi_to_tama/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+              "raw_title": "ポチ ト タマ",
+              "year": 9999
             }
           ]
         }
@@ -1180,6 +1211,45 @@
               "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
               "raw_title": "ミヅグルマ（水車）",
               "year": 1936
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "よくまなびよくあそべ",
+      "title": "ヨク學ビヨク遊ベ／よく學びよく遊べ／ヨクマナビ ヨクアソベ",
+      "versions": [
+        {
+          "id": "same-song:yokumanabiyokuasobe:jinjo_shogaku_shoka/grade_2_4102/3_yoku_manabi_yoku_asobe",
+          "year": 1911,
+          "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_2_4102/3_yoku_manabi_yoku_asobe",
+              "md_file": "jinjo_shogaku_shoka/grade_2_4102/3_yoku_manabi_yoku_asobe/index.md",
+              "book_label": "文部省《尋常小學唱歌》第二學年用（明治44年／1911）",
+              "raw_title": "よく學びよく遊べ",
+              "year": 1911
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_02_yoku_manabi_yoku_asobe/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "ヨクマナビ ヨクアソベ（好好學習，好好遊玩）",
+              "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_2/06_yoku_manabi_yoku_asobe",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_2/06_yoku_manabi_yoku_asobe",
+              "md_file": "hyojun_shoka_gakushucho/grade_2/06_yoku_manabi_yoku_asobe/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "ヨク學ビヨク遊ベ",
+              "year": 9999
             }
           ]
         }
@@ -1242,8 +1312,8 @@
               "year": 9999
             },
             {
-              "rel_dir": "hyojun_shoka_gakushucho/grade_3/14_ichigatsu_ichijitsu",
-              "md_file": "hyojun_shoka_gakushucho/grade_3/14_ichigatsu_ichijitsu/index.md",
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu/index.md",
               "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
               "raw_title": "一月一日",
               "year": 9999
@@ -1263,8 +1333,8 @@
               "year": 9999
             },
             {
-              "rel_dir": "hyojun_shoka_gakushucho/grade_6/14_ichigatsu_ichijitsu",
-              "md_file": "hyojun_shoka_gakushucho/grade_6/14_ichigatsu_ichijitsu/index.md",
+              "rel_dir": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md",
               "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
               "raw_title": "一月一日",
               "year": 9999
@@ -1274,6 +1344,77 @@
               "md_file": "hyojun_shoka_gakushucho/grade_4/13_ichigatsu_ichijitsu/index.md",
               "book_label": "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）",
               "raw_title": "一月一日",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "しちめんちょう",
+      "title": "七面鳥／しちめんてう",
+      "versions": [
+        {
+          "id": "same-song:shichimencho:shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "七面鳥",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kogakko_shoka/grade_2/13_shichimencho",
+              "md_file": "kogakko_shoka/grade_2/13_shichimencho/index.md",
+              "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+              "raw_title": "しちめんてう（七面鳥）",
+              "year": 1936
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_2/05_shichimencho",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_2/05_shichimencho",
+              "md_file": "hyojun_shoka_gakushucho/grade_2/05_shichimencho/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "七面鳥",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "ごいちじいさん",
+      "title": "五一ヂイサン",
+      "versions": [
+        {
+          "id": "single:shintei_jido_shoka/grade_2_2020.006.0847.0002/1_10_goichi_jiisan",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_10_goichi_jiisan",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/1_10_goichi_jiisan/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "五一ヂイサン（五一老爺爺）",
+              "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_2/02_goichi_jiisan",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_2/02_goichi_jiisan",
+              "md_file": "hyojun_shoka_gakushucho/grade_2/02_goichi_jiisan/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "五一ヂイサン",
               "year": 9999
             }
           ]
@@ -1387,6 +1528,38 @@
               "book_label": "《公學校高等科唱歌》第二學年用（昭和11年／1936，國臺圖 0729 74）",
               "raw_title": "傳書鳩",
               "year": 1936
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "ぼくとうはしょうねんだ",
+      "title": "僕等は少年だ",
+      "versions": [
+        {
+          "id": "single:shintei_jido_shoka/grade_3_2020.006.0847.0003/4_06_bokura_wa_shonen_da",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_06_bokura_wa_shonen_da",
+              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/4_06_bokura_wa_shonen_da/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+              "raw_title": "僕等は少年だ",
+              "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_3/06_bokura_wa_shonen_da",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/06_bokura_wa_shonen_da",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/06_bokura_wa_shonen_da/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
+              "raw_title": "僕等は少年だ",
+              "year": 9999
             }
           ]
         }
@@ -1797,6 +1970,59 @@
       ]
     },
     {
+      "title_key": "だいにっぽん",
+      "title": "大日本",
+      "versions": [
+        {
+          "id": "same-song:dainippon:shokacho/vol_08/p008_dainippon",
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shokacho/vol_08/p008_dainippon",
+              "md_file": "shokacho/vol_08/p008_dainippon/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
+              "raw_title": "大日本（日本）",
+              "year": 1923
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon",
+              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_01_dainippon/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+              "raw_title": "大日本",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kogakko_shoka/grade_3/12_dainippon",
+              "md_file": "kogakko_shoka/grade_3/12_dainippon/index.md",
+              "book_label": "《公學校唱歌》第三學年（昭和10年／1935）",
+              "raw_title": "大日本",
+              "year": 1935
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/4_33_dainippon",
+              "md_file": "kyoyusho_shoka_1935/4_33_dainippon/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "大日本",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_3/04_dainihon",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/04_dainihon",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/04_dainihon/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
+              "raw_title": "大日本",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "てんちょうせつ",
       "title": "天長節",
       "versions": [
@@ -1853,8 +2079,8 @@
               "year": 9999
             },
             {
-              "rel_dir": "hyojun_shoka_gakushucho/grade_3/12_tenchosetsu",
-              "md_file": "hyojun_shoka_gakushucho/grade_3/12_tenchosetsu/index.md",
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/13_tenchosetsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/13_tenchosetsu/index.md",
               "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
               "raw_title": "天長節",
               "year": 9999
@@ -1874,8 +2100,8 @@
               "year": 9999
             },
             {
-              "rel_dir": "hyojun_shoka_gakushucho/grade_6/12_tenchosetsu",
-              "md_file": "hyojun_shoka_gakushucho/grade_6/12_tenchosetsu/index.md",
+              "rel_dir": "hyojun_shoka_gakushucho/grade_6/13_tenchosetsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_6/13_tenchosetsu/index.md",
               "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
               "raw_title": "天長節",
               "year": 9999
@@ -2296,6 +2522,19 @@
               "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
               "raw_title": "新高山",
               "year": 1938
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_6/10_niitakayama",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_6/10_niitakayama",
+              "md_file": "hyojun_shoka_gakushucho/grade_6/10_niitakayama/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "新高山",
+              "year": 9999
             }
           ]
         }
@@ -2794,6 +3033,45 @@
       ]
     },
     {
+      "title_key": "こだま",
+      "title": "木靈／こだま",
+      "versions": [
+        {
+          "id": "single:kogakko_shokashu_1915/3_03_kodama",
+          "year": 1915,
+          "occurrences": [
+            {
+              "rel_dir": "kogakko_shokashu_1915/3_03_kodama",
+              "md_file": "kogakko_shokashu_1915/3_03_kodama/index.md",
+              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+              "raw_title": "こだま",
+              "year": 1915
+            }
+          ]
+        },
+        {
+          "id": "same-song:kodama:shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama",
+              "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama/index.md",
+              "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+              "raw_title": "木靈",
+              "year": 1934
+            },
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_5/07_kodama",
+              "md_file": "hyojun_shoka_gakushucho/grade_5/07_kodama/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第五學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "木靈",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "むらまつり",
       "title": "村祭",
       "versions": [
@@ -2880,6 +3158,19 @@
               "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
               "raw_title": "桃太郎",
               "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_1/06_momotarau",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_1/06_momotarau",
+              "md_file": "hyojun_shoka_gakushucho/grade_1/06_momotarau/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+              "raw_title": "桃太郎",
+              "year": 9999
             }
           ]
         }
@@ -3232,6 +3523,19 @@
           ]
         },
         {
+          "id": "single:hyojun_shoka_gakushucho/grade_2/04_umi",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_2/04_umi",
+              "md_file": "hyojun_shoka_gakushucho/grade_2/04_umi/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "海",
+              "year": 9999
+            }
+          ]
+        },
+        {
           "id": "single:hyojun_shoka_gakushucho/grade_5/01_umi",
           "year": 9999,
           "occurrences": [
@@ -3354,6 +3658,38 @@
               "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
               "raw_title": "漁船",
               "year": 1923
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "せかい",
+      "title": "瀨戶內海",
+      "versions": [
+        {
+          "id": "single:kogakko_shoka/grade_6/2_seto_naikai",
+          "year": 1940,
+          "occurrences": [
+            {
+              "rel_dir": "kogakko_shoka/grade_6/2_seto_naikai",
+              "md_file": "kogakko_shoka/grade_6/2_seto_naikai/index.md",
+              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
+              "raw_title": "瀨戶內海",
+              "year": 1940
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_6/02_setonaikai",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_6/02_setonaikai",
+              "md_file": "hyojun_shoka_gakushucho/grade_6/02_setonaikai/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "瀨戶內海",
+              "year": 9999
             }
           ]
         }
@@ -3484,6 +3820,38 @@
       ]
     },
     {
+      "title_key": "かみかぜ",
+      "title": "神風",
+      "versions": [
+        {
+          "id": "single:shintei_jido_shoka/grade_3_2020.006.0847.0003/3_05_kamikaze",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_05_kamikaze",
+              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_05_kamikaze/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+              "raw_title": "神風",
+              "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_4/09_kamikaze",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_4/09_kamikaze",
+              "md_file": "hyojun_shoka_gakushucho/grade_4/09_kamikaze/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）",
+              "raw_title": "神風",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "あき",
       "title": "秋",
       "versions": [
@@ -3587,6 +3955,45 @@
       ]
     },
     {
+      "title_key": "はこにわ",
+      "title": "箱庭／ハコニハ",
+      "versions": [
+        {
+          "id": "same-song:hakoniwa:shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa",
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa",
+              "md_file": "shoka_kyozai_shu_1923/grade_1_2/52_hakoniwa/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "箱庭",
+              "year": 1923
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa",
+              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/4_05_hakoniwa/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
+              "raw_title": "ハコニハ（箱庭）",
+              "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_1/05_hakone",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_1/05_hakone",
+              "md_file": "hyojun_shoka_gakushucho/grade_1/05_hakone/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+              "raw_title": "箱庭",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "きげんせつ",
       "title": "紀元節",
       "versions": [
@@ -3643,8 +4050,8 @@
               "year": 9999
             },
             {
-              "rel_dir": "hyojun_shoka_gakushucho/grade_3/15_kigensetsu",
-              "md_file": "hyojun_shoka_gakushucho/grade_3/15_kigensetsu/index.md",
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/16_kigensetsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/16_kigensetsu/index.md",
               "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
               "raw_title": "紀元節",
               "year": 9999
@@ -3664,8 +4071,8 @@
               "year": 9999
             },
             {
-              "rel_dir": "hyojun_shoka_gakushucho/grade_6/15_kigensetsu",
-              "md_file": "hyojun_shoka_gakushucho/grade_6/15_kigensetsu/index.md",
+              "rel_dir": "hyojun_shoka_gakushucho/grade_6/16_kigensetsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_6/16_kigensetsu/index.md",
               "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
               "raw_title": "紀元節",
               "year": 9999
@@ -3761,6 +4168,19 @@
               "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
               "raw_title": "納涼",
               "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_5/04_noryo",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_5/04_noryo",
+              "md_file": "hyojun_shoka_gakushucho/grade_5/04_noryo/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第五學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "納涼",
+              "year": 9999
             }
           ]
         }
@@ -3956,6 +4376,19 @@
               "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
               "raw_title": "航海",
               "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_4/04_kokai",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_4/04_kokai",
+              "md_file": "hyojun_shoka_gakushucho/grade_4/04_kokai/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）",
+              "raw_title": "航海",
+              "year": 9999
             }
           ]
         }
@@ -4280,6 +4713,65 @@
       ]
     },
     {
+      "title_key": "ちくおんき",
+      "title": "蓄音機／ちくおんき",
+      "versions": [
+        {
+          "id": "same-song:chikuonki:shoka_kyozai_shu_1923/grade_3_4/45_chikuonki",
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/45_chikuonki",
+              "md_file": "shoka_kyozai_shu_1923/grade_3_4/45_chikuonki/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "蓄音機",
+              "year": 1923
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki",
+              "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/3_06_chikuonki/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
+              "raw_title": "蓄音機（留聲機）",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/2_06_chikuonki",
+              "md_file": "kyoyusho_shoka_1935/2_06_chikuonki/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "ちくおんき",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:kyoyusho_shoka_1935/4_17_chikuonki",
+          "year": 1935,
+          "occurrences": [
+            {
+              "rel_dir": "kyoyusho_shoka_1935/4_17_chikuonki",
+              "md_file": "kyoyusho_shoka_1935/4_17_chikuonki/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "ちくおんき",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_2/08_chikuonki",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_2/08_chikuonki",
+              "md_file": "hyojun_shoka_gakushucho/grade_2/08_chikuonki/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "蓄音機",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "むし",
       "title": "虫／黃金虫",
       "versions": [
@@ -4571,6 +5063,45 @@
       ]
     },
     {
+      "title_key": "むしなくのべ",
+      "title": "蟲なく野邊／虫なく野辺",
+      "versions": [
+        {
+          "id": "same-song:mushinakunobe:shoka_kyozai_shu_1923/grade_3_4/23_mushi_naku_nobe",
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/23_mushi_naku_nobe",
+              "md_file": "shoka_kyozai_shu_1923/grade_3_4/23_mushi_naku_nobe/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "蟲なく野邊",
+              "year": 1923
+            },
+            {
+              "rel_dir": "shokacho/vol_01/p144_mushi_naku_nobe",
+              "md_file": "shokacho/vol_01/p144_mushi_naku_nobe/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
+              "raw_title": "虫なく野辺",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_4/06_mushi_naku_nobe",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_4/06_mushi_naku_nobe",
+              "md_file": "hyojun_shoka_gakushucho/grade_4/06_mushi_naku_nobe/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）",
+              "raw_title": "蟲なく野邊",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "むしのこえ",
       "title": "蟲のこゑ／虫のこゑ／ムシノコヱ／蟲の聲",
       "versions": [
@@ -4617,6 +5148,51 @@
       ]
     },
     {
+      "title_key": "あり",
+      "title": "蟻／アリ",
+      "versions": [
+        {
+          "id": "single:shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/4_09_ari/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "アリ（螞蟻）",
+              "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:kogakko_shoka/grade_2/3_ari",
+          "year": 1936,
+          "occurrences": [
+            {
+              "rel_dir": "kogakko_shoka/grade_2/3_ari",
+              "md_file": "kogakko_shoka/grade_2/3_ari/index.md",
+              "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
+              "raw_title": "アリ（蟻）",
+              "year": 1936
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_3/08_ari",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/08_ari",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/08_ari/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
+              "raw_title": "蟻",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "こうぐん",
       "title": "行軍",
       "versions": [
@@ -4643,6 +5219,45 @@
               "book_label": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
               "raw_title": "行軍",
               "year": 1934
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "おようしこうし",
+      "title": "親牛子牛／オヤウシコウシ",
+      "versions": [
+        {
+          "id": "same-song:oyaushikoushi:shintei_jido_shoka/grade_1_2020.006.0847.0001/2_06_oyaushi_koushi",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_06_oyaushi_koushi",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_06_oyaushi_koushi/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "オヤウシコウシ（母牛與小牛）",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/3_15_oyaushi_koushi",
+              "md_file": "kyoyusho_shoka_1935/3_15_oyaushi_koushi/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "親牛子牛",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_1/10_oyausi_kousi",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_1/10_oyausi_kousi",
+              "md_file": "hyojun_shoka_gakushucho/grade_1/10_oyausi_kousi/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+              "raw_title": "親牛子牛",
+              "year": 9999
             }
           ]
         }
@@ -4947,6 +5562,45 @@
       ]
     },
     {
+      "title_key": "なすよいち",
+      "title": "那須與一",
+      "versions": [
+        {
+          "id": "same-song:nasunoyoichi:jinjo_shogaku_shoka/grade_2_4102/20_nasu_no_yoichi",
+          "year": 1911,
+          "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_2_4102/20_nasu_no_yoichi",
+              "md_file": "jinjo_shogaku_shoka/grade_2_4102/20_nasu_no_yoichi/index.md",
+              "book_label": "文部省《尋常小學唱歌》第二學年用（明治44年／1911）",
+              "raw_title": "那須與一",
+              "year": 1911
+            },
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/49_nasu_no_yoichi",
+              "md_file": "shoka_kyozai_shu_1923/grade_1_2/49_nasu_no_yoichi/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "那須與一",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_3/11_nasu_no_yoichi",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/11_nasu_no_yoichi",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/11_nasu_no_yoichi/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
+              "raw_title": "那須與一",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "がん",
       "title": "雁／がん",
       "versions": [
@@ -5091,6 +5745,19 @@
               "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
               "raw_title": "アメ（雨）",
               "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_2/01_ame",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_2/01_ame",
+              "md_file": "hyojun_shoka_gakushucho/grade_2/01_ame/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）",
+              "raw_title": "雨",
+              "year": 9999
             }
           ]
         }
@@ -5350,6 +6017,104 @@
               "book_label": "《公學校唱歌》第五學年用（昭和13年／1938）",
               "raw_title": "風鈴",
               "year": 1938
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "ひこうき",
+      "title": "飛行機／ヒカウキ／ひかうき",
+      "versions": [
+        {
+          "id": "single:shoka_kyozai_shu_1923/grade_3_4/50_hikoki",
+          "year": 1923,
+          "occurrences": [
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/50_hikoki",
+              "md_file": "shoka_kyozai_shu_1923/grade_3_4/50_hikoki/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "飛行機",
+              "year": 1923
+            }
+          ]
+        },
+        {
+          "id": "same-song:hikoki:shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/3_04_hikoki/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "ヒカウキ（飛機）",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kogakko_shoka/grade_1/12_hikoki",
+              "md_file": "kogakko_shoka/grade_1/12_hikoki/index.md",
+              "book_label": "《公學校唱歌》第一學年用（昭和10年／1935）",
+              "raw_title": "ヒカウキ（飛機）",
+              "year": 1935
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/2_12_hikoki",
+              "md_file": "kyoyusho_shoka_1935/2_12_hikoki/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "ひかうき",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki",
+          "year": 1934,
+          "occurrences": [
+            {
+              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki",
+              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
+              "raw_title": "飛行機",
+              "year": 1934
+            }
+          ]
+        },
+        {
+          "id": "single:kyoyusho_shoka_1935/3_14_hikoki",
+          "year": 1935,
+          "occurrences": [
+            {
+              "rel_dir": "kyoyusho_shoka_1935/3_14_hikoki",
+              "md_file": "kyoyusho_shoka_1935/3_14_hikoki/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "飛行機",
+              "year": 1935
+            }
+          ]
+        },
+        {
+          "id": "single:utanohon/ge_2006.006.0878/10_hikoki",
+          "year": 1943,
+          "occurrences": [
+            {
+              "rel_dir": "utanohon/ge_2006.006.0878/10_hikoki",
+              "md_file": "utanohon/ge_2006.006.0878/10_hikoki/index.md",
+              "book_label": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+              "raw_title": "ひかうき（飛機）",
+              "year": 1943
+            }
+          ]
+        },
+        {
+          "id": "single:hyojun_shoka_gakushucho/grade_4/07_hikoki",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_4/07_hikoki",
+              "md_file": "hyojun_shoka_gakushucho/grade_4/07_hikoki/index.md",
+              "book_label": "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）",
+              "raw_title": "飛行機",
+              "year": 9999
             }
           ]
         }

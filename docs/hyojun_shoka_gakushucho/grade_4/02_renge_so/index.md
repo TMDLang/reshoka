@@ -1,0 +1,138 @@
+---
+title: "れんげさう — hyojun_shoka_gakushucho 第四學年用"
+song_title: "れんげさう"
+song_id: "hyojun_shoka_gakushucho_grade_4_02_renge_so"
+collection: "hyojun_shoka_gakushucho"
+volume: "grade_4"
+description: "〈れんげさう〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第四學年用（國臺圖 0729 73））（詞：三木露風、曲：山田耕筰），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：今はれんげの　花盛り 田にも畑にも　一面に…"
+keywords: "れんげさう, hyojun_shoka_gakushucho, 第四學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風, 山田耕筰"
+schema_type: "MusicComposition"
+is_part_of: "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）"
+credits:
+  - "詞：三木露風"
+  - "曲：山田耕筰"
+sources:
+  - "出處：小學生の歌"
+  - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第四學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
+musical_key: "C"
+meter: "4/4"
+tempo: "88"
+image:
+  - file: "P008.jpg"
+  - file: "P009.jpg"
+audio:
+  - id: "renge_so"
+    label: "鋼琴伴奏版"
+    file: "renge_so.mp3"
+tmd_source:
+  - "renge_so.tmd"
+  - "renge_so_piano.tmd"
+---
+
+# れんげさう
+
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+
+- **鋼琴伴奏版**：<br><audio controls src="renge_so.mp3"></audio>
+
+- 詞：三木露風
+- 曲：山田耕筰
+- 出處：小學生の歌
+- 臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第四學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）
+
+## 說明
+
+原書資訊與歌詞全文（對應 P008.jpg–P009.jpg，原書 pp. 8–9，第四學年第 2 首）：
+調性與拍號：ハ長調 4/4 拍子（C 大調 4/4 拍），標註「小學生の歌」
+
+
+## 歌詞
+
+```text
+一、
+今はれんげの　花盛り
+田にも畑にも　一面に
+花もうせんを　敷きつめて
+紅や紫　うつくしい。
+ああれんげさう　れんげさう
+
+二、
+手にも籠にも　摘みためて
+楽しい心　もろともに
+春の御神に　ささげませう。
+```
+
+## ABC
+
+<div class="abc-score" data-abc-src="renge_so.abc" aria-label="五線譜載入中"></div>
+
+[下載 ABC 原始檔](renge_so.abc)
+
+## TMD 檔案連結
+
+- [主旋律 TMD 檔案](renge_so.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFjoAglLhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRipLzcwvyi1OLrCoTcxNTEuOz84uBAYGQz6kE6gJqtsrNzM6ML8pPQ5IryUgFhk5eYklpUSq6aDHIZ-nIjslMzwS6GOgiUECnZsbn5ceXlgBdoqWl8Lip53HT5MeNkx43Tn3c2KagpcWlaKtgYcFlb6vgzGVjom9iBzLoxcp57_fMerKj89mcFS_nbHq5aAXY_GezNwGFn27c-HzKhhcNU5-v3QAWftq-68XMqSCZDf1P1-54PmX-48Z1z9b2gCVftO962jP96Y7Vz9e3ACWfLVj4cmbL041rIGqB3KetyxWerV38bNnUZ3Oan29f8bih69mKmc92TXs6ZSPQEJCB-yc93TFN4fmaNU9nzwbyn-7covC0ddLz1UufTwEq736_p-PZjLVPJ_U82dUDlHuya8qzOR1Pexuf7Gh-Nn3p85l7Xizseb-n5_mWRc9m73gxc76CgbmRpYKJ-fs9nUpcXPpaCrbUAlwKCgpP--aDrNnc_mJF14uOdqAXgKH5tHXFs2ntQIc-3dD7rL1TAZRW9bIK0h81TAalWBAT6EKIVoWCAj0FC6CMJcjRSJ4GshWMFF4umwZ0ODC0QZa9WLX_WcNykDXdvUCfAUUfN_e_nLodKK4AjEwFoPDTtROA9jorPF2yHEkUbEQPMKBfrNj9uKEHLeYeN_RygYx_sqPhcUMjmLW763HjeqTks-5xQ8OLro3PZ89-3NQFUgFME48bVz9uano-dSKEAVQBNODl3EVALtixXRtBoo1tjxuBmiY_bpoEVPFs6vbHjb2PG5c8bmp83LgMbNKW1sdNLc-3rAZKg1UvedzY_7hx-uPGlscNTSAVjxuBxjShJWaQalQRiB92Ab0D9sOzzm6oCzcugLvw2cQZjxv3P26cj7D_2dK9ENue7m8GGwq0CejCFWDHg33ybMZSYAg83bfw-dJ5IJNA7gRaCERAm_eBvAdyDtiplCcqKFDQ0ufiCkrNS08NzrcKywcWMA41BjXVIDsUbCy07MAMbIkZlHGA8QDMBAoaJgrAmH6-vkEHngI1sWgA2gQyrEahOregVsFUQReOQbAGzDIDYnO4iKE6lAlkGKkrGIO4NSAWWAQiZQASAxvsY1gDLImWAPmPm-eByX64SY-b14BFNoPIpk1I4n1QNkj14-YuIN4DkWnaBla7Gi6_CmGTEVC-sQks3wMmJyNMbJwEVg0yBRh3SOJtMJOAekA64DZBdMDVQlTWgJMZ7qDf1UNe0KfVKhgDjYdhiOOMFUzgwQ-ioUGPFOzgQEeKEVCwg_UiBf1-sMe7weQipCAGBixQDhokSPKI6GoE4oVwFaBIAukDqQTBeFS7wIG_DBxQoMgB5h-kQO4G4inw4EfIg-TAdjUCXdI4H6aiqREqBzIP1S4CKb-T_OCHhyc4NEHJvQYc8iCIyA5QSTMkIVj0mAAxKPKQAh-c1kHpFxa4j5tAXgIF8W6ofkjAwiIFlAceN20H4rXQwIDJtIDVLgSToJQITadIgT8fHJDrwOR0MAnSA5KB5QMEC-SCXmg0gFgodjWugEcQNLKgduENfGDVBQ58U9IC3whqL7zUUKgGlkOwTAAKV3CQ14BjBBbU4GCGRwGkwDKDioDkDGGeQYqKmUgWgdITclqGpXFQWgSJLwDzVoKDYSuYXAsNNFiKhOloBoqtB8tsR4iC8w963liPaX8Tmv3gyAOpBedZYK6B5AxYNIBk4MURvCgDFVQgmX1IoqA6Ce6EWi4uXTsFaG0S7WMYq4DMNQJzlbkA)]
+- [鋼琴伴奏 TMD 檔案](renge_so_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFjoAglLhHRBUX5Zal5iHtCI1JTMkvyizMSc-MSiosS89NTc1LwShMrUssyUVJC6xOTk_NyCxLxMVPmy1KJikE8KMhPz8uNxKMovKsnIB_qhIKPSKjc_JbUoL74gIz8vtSQzOT47MS8RoRKkPb84tciqMjE3MSUxPju_GBgqCPmcyqLM5MziEqvczOzM-KL8NCS5kgyg263yEktKi1LRRYsLijLz0pFdlJmemWcFDHhwqKdmxgNdX1oCdImWlsLjpp7HTZMfN0563Dj1cWPb-z0dT_Zsebq0__2eTgUtLS5FWwULCy57WwVnLhsTfRM7kKEvVs57v2fWkx2dz-aseDln08tFK8B2PZu9CSj8dOPG51M2vGiY-nztBrDw0_ZdL2ZOBcls6H-6dsfzKfMfN657trYHLPmifdfTnulPd6x-vr4FKPlswcKXM1ueblwDUQvkPm1drvBs7eJny6Y-m9P8fPuKxw1dz1bMfLZr2tMpG4GGgAzcP-npjmkKz9eseTp7NpD_dOcWhaetk56vXvp8ClB5N9BHz2asfTqp58muHqDck11Tns3peNrb-GRH87PpS5_P3PNiYc_7PT3Ptyx6NnvHi5nzFQzMjSwVTMyBAaDExRWUCkwlwflWAaAoD_JwqDGoqeZSAAIbCy07MENfS8EWHYBc82RHA9BkBQ0TBaBnnq9v0FEApU29rIJ0TSwatPTBhtUoVOcW1CqYKujCMQjWgFlmQGwOFzFUhzKBDCN1BWMQtwbEAotApAxAYmCDfQxrFB43tgD5jxv3gcimfrhJwCQAFpkMlp2EEG9cB2U_blwPxKsUHjfvgcpMA4t2w-SbuhA2GYHkm8CiCHNhJoJMh5gCTG9I4m1wk3rAOhA2gXXA1UJU1nDhD_pdPeQFfVqtgjHQeBiGOM5YwQQe_CAaGvRIwQ4OdKQYAQU7WC9S0M8HO3412IugwIF5HBSw8-FBgpBHRNdCoEgjTAU4MEFyIJUgGI9qFzjwl-GwqxuIp-CwawlYbD-ya4C2QuRA5qHaRSDld5If_PDwBIcmKLnXgEMeBBHZASpphiQEix4TIAZFHnLgrwd7bhXcw9BUBKRnQ_WjplJQan7cOB2Ie6GBAZMBBxM4YKDBDEmnSIEPiWhQzgGZACJB0QiSgdmAYIHyXi_UVSAWql0rkNwLjiyoXXgDH1gIggPflLTAN4LaCy81FKqB5RAsE4DCFRzkNeAYgQU1OJjhUQApsMygIiA5Q5hnkKJiJ5JFoPSEnJZh6Q4aYE0NYF4nOABABQAoOtCKC2haXgzE_WAZcJBDRUHmoOUNeLGHZH8TvBiD6gNFHjwZQItFkBpQ_sDqYqDrQAUVSAZcuEJFpz9uaoc7toarFq068UGuTkwQ1Qmi8oBHj2E8AoF5JvEKpmAE5EEhMNyB8kBoAPUw1ChIYYjbKIhpEB4QohqLZhYkZyPMAik1i1cwBmkAGgIxB24UxFUQQSOIKiTDoCkVbhjEYiAC2onmSqAg0BSgfhgPjmA8oAQ0iHXtFKChHO1jGKuAzDUCc5W5AA)]
+
+## 分析
+
+```text
+================================================================================
+📊 TMD Song Profile: [ れんげさう ]
+================================================================================
+⏱  Duration:       1:32 (92.7s), 34 measures total
+🎼 Key & Tempo:    首調基準 C, != 88.0 BPM, <4/4>
+   - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
+🎤 人聲音域:    C4 (MIDI 60) – B4 (MIDI 71) [跨度: 11 個半音 / 0.9 個八度, 難度: easy]
+   - 最低音:  C4 in [RengeSo[L1] #1 @ m.17, 0:45]
+   - 最高音: B4 in [RengeSo[L1] #1 @ m.2, 0:04]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      RengeSo[L1] (46.4s) -> RengeSo[L2] (46.4s)
+⚡ 編曲密度:        Peak 1 軌道同時演奏
+🗝  調性診斷：       G 調性不明確（流行色彩大調，未偵測到可信轉調）
+   - 風格氣質:    調式色彩／藍調前衛（調外音豐富，張力強烈）
+   - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
+   - 核心骨幹音:  G, C#, E, A, F
+   - 調性數值:    G 調性不明確 [相關度: 0.56, 穩定度: Ambiguous, 自然音純度: 69.5%]
+   - 候選調性 (K-S): G 大調 (0.56), E 小調 (0.56), C 大調 (0.36)
+   - 五度圈歷程:   +1 -> +1
+   - 各段落調性細節:
+     • [RengeSo[L1] #1]: G 調性不明確 (r: 0.56, 自然音純度: 69.5%, 調外音: C#, D#, F)
+     • [RengeSo[L2] #1]: G 調性不明確 (r: 0.56, 自然音純度: 69.5%, 調外音: C#, D#, F)
+
+  [ 五度圈游移軌跡 ]
+               C  
+         F           [G ]*
+      Bb               D  
+      Eb               A  
+         Ab           E  
+            Db       B  
+               F# 
+     (* = active key center)
+
+  [ 十二半音累積音高分佈 ]
+     C  : ███                        3.1%
+     C# : ██████████████            17.2%
+     D  : ████                       4.7%
+     D# : █████                      6.2%
+     E  : ████████████              14.8%
+     F  : ██████                     7.0%
+     F# :                            0.0%
+     G  : ████████████████████████  28.9%
+     G# :                            0.0%
+     A  : █████████                 10.9%
+     A# :                            0.0%
+     B  : ██████                     7.0%
+--------------------------------------------------------------------------------
+Assignment 軌道音域：
+  - Vocal         : C4 – B4 (11 個半音 / 0.9 個八度, 110 個音符)
+================================================================================
+```
+
+
+## 原書掃描頁
+
+![れんげさう — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P008.jpg](P008.jpg)
+
+![れんげさう — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P009.jpg](P009.jpg)
+
+

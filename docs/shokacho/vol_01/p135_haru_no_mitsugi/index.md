@@ -4,15 +4,16 @@ song_title: "春のみつぎ"
 song_id: "shokacho_vol_01_p135_haru_no_mitsugi"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈春のみつぎ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：西木紫雪、曲：トキ坊），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、春が來たので　うぐひすは 白い梅の實　たべながら…"
-keywords: "春のみつぎ, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 西木紫雪, トキ坊"
+description: "〈春のみつぎ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：西木紫雪 作歌、曲：トキ坊 作曲），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：みよ、春の日は輝きぬ 野にも山にも牧場にも…"
+keywords: "春のみつぎ, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 西木紫雪 作歌, トキ坊 作曲"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
 credits:
-  - "詞：西木紫雪"
-  - "曲：トキ坊"
+  - "詞：西木紫雪 作歌"
+  - "曲：トキ坊 作曲"
 sources:
   - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P135）"
+  - "國立臺灣歷史博物館典藏"
 musical_key: "C"
 meter: "4/4"
 tempo: "104"
@@ -22,6 +23,9 @@ audio:
   - id: "haru_no_mitsugi"
     label: "鋼琴伴奏版"
     file: "haru_no_mitsugi.mp3"
+  - id: "haru_no_mitsugi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "haru_no_mitsugi_neutrino.mp3"
 tmd_source:
   - "haru_no_mitsugi.tmd"
   - "haru_no_mitsugi_piano.tmd"
@@ -32,46 +36,42 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="haru_no_mitsugi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="haru_no_mitsugi_neutrino.mp3"></audio>
 
-- 詞：西木紫雪
-- 曲：トキ坊
+- 詞：西木紫雪 作歌
+- 曲：トキ坊 作曲
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P135）
+- 國立臺灣歷史博物館典藏
 
 ## 說明
 
 
 
-- 出處：《唱歌帳》（國立臺灣歷史博物館典藏號 2020.006.0843）第 P135.jpg 頁剪貼雜誌樂譜。
+- 出處：《唱歌帳》（國立臺灣歷史博物館典藏號 2020.006.0843）第 P135.jpg 頁剪貼之童謠樂譜。
 - 作詞／作曲：西木紫雪 作歌、トキ坊 作曲。
 - 調性與拍號：ハ長調（C 大調），4/4 拍（C），速度 != 104。
-- 背景與曲風：描寫春天來臨時，黃鶯、蝴蝶與孩童各自獻上歌聲、舞蹈與唱歌作為「春之貢禮」（春のみつぎ）。
-原印刷五線譜上方留有舊藏者以鉛筆標註之簡譜數字。
-- 版本說明：本檔案為原頁單聲部旋律之忠實數位化版本。
-【原頁歌詞全文與中文語譯】（對應 P135.jpg）
-
-### 編曲說明（鋼琴伴奏版）：
-
-1. 前奏 (Intro, 4 小節)：取全曲末樂句「春のおみつぎ あげました」，展現春日明朗氣息。
-2. 主歌伴奏 (Song, 16 小節 × 3 段)：右手演奏主旋律，左手配以溫暖的三和弦伴奏。
+- 背景與曲風：描寫春日陽光照耀原野、山林與牧場，以及細雨滋潤萬物、喚醒草木大地的抒情童謠。
+原頁面貼有完整四行五線譜，每行下方附有兩段假名歌詞對應，並於頁面底端印有完整歌詞與注音假名。
+- 版本說明：本檔案依原印譜忠實校訂兩段旋律與對應歌詞。
+【原頁歌詞全文與中文語譯】（對應 P135.jpg 下方原刊歌詞）
 
 
 ## 歌詞
 
 ```text
-一、春が來たので　うぐひすは
-白い梅の實　たべながら
-ホーホケキョーと　お歌ひで
-春のおみつぎ　あげました
+一、
+みよ、春の日は輝きぬ
+野にも山にも牧場にも
+こはくの光り美しく
+冬のくらきを追ひやりて
+琥珀色的陽光多麼美麗，把冬天的陰霾黑暗徹底驅散追逐離去。）
 
-二、春が來たので　蝶々は
-黄ろい菜の蜜　すひながら
-ヒラヒラヒラと　おどりして
-春のおみつぎ　あげました
-
-三、春が來たので　わたくしは
-紅いおリボン　かけながら
-うれしい唱歌　うたひして
-春のおみつぎ　あげました
+二、
+みよ春雨はさゝやきぬ
+今ぞ生命のめざめどき
+土より出でよ草よ木よ
+そゞろも優し銀の糸。
+破土而出吧，小草啊、樹木啊！如絲如縷的銀色雨絲是何等溫柔。）
 ```
 
 ## ABC
@@ -82,8 +82,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](haru_no_mitsugi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGxKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDd5amJQEYRunBxamJxfl4xQhhoRXpmnlVJYibQ4fFAXJ4Yn5uYmZeTmJeCrKokIz-9KLEgo9IqI7MY5LDkxJz47MS8RCUuLS2FZzOWPm5c97hx_-PGJY8b-xS0tLgUbRUMDUy47G0VnLlsTPRN7ECGvVg57_2eWS-W7n82Z8XzLatfzl4FtuPZ7E1A4cfNHY-b1j6d2wURm7702abdz2Y2PZsz_2nrmqdrdzxbsPBxQ9fTKRufre15umPz44bu93s6nrbueDG9_8XM-QpGBkYGegYGZnoGFibGj5t3g2Ln_Z5OJS4ufS0FW2oBLgUFhccNE4Aufj573YtVq57N6HvcMBEs2rz7afuuFzOngryC6c453c9Xd79o3_W8cfGztduf9m962jvreefKl0tW4PAC0O3P16xRAHlDL6sgXeHlgsannatebNrzcvacF6t6nq1oerF2zuOGJqjdT_bOAYduP5ABCU_kYFYAia7tedzQCA9lsNDsTQgTXqza_6xh-YuO9mfdvUDXgGOk_-XU7UBxoAecFZ4uWQ5mdr7f0wOMUAWgMpA4ROBlw_ynu5YpQGIdyczmnmcz14PMnL3p5aIVQDOf9fc_Xb8amGCeLln5ZF_bi_YVwDgGGbC7-eW29UAHvpi75cXcbUAtT9eufL566dMJLS_aVz3v3f1kRxfQBy8agS5ufNEx78XODpAacCgDffK8adfjhh6gsU92dr_YtOj5snWPG0DOQ0uZQMdCHaeg8LRv_tPeDU87tj_ZNeX59lnA0ARZMW3n86kzn83pfNHRBYqVhtYnu5e-7Jz9fG3bsxUzX6zYDTT_-YaFQMXPpu54unY6wqvPOzuezVkDSRIgf85Z82zVlGcLO4AuA9oEir1p64Cuf9m84tn07qf7uoEGPd2_4On6ZUCDnuztfdozDWICyERoKoPoA_l65bynrSueTWsHevnJjrUgxqp5L9YCg2siKG1t6H3W3glPKUA_gg14sqMBGFTgAOgBhvTjxvngkFj-uKHhcSOQO-ExMCwbZz5uXA9S_Xzm3seNLc8WtQIVAR0FVgTUsPNx4yqg_sdNnRBvzn7cvAdENm0EpqLHzctB3MYVYNWg6AEbuRykFBbwXfCwBytqetw46XHjvseN04HGg9QB3Q_xCzDMns5eAAwteNp4sqsNnjCAnnnZ1PV0QvOLidOBTgW689m8OUB3AhVApaZsBEoB0wB2N4ISQw8kFQGNhVjxfFYLMJ0AMyEwyOGBtguUSbAGGjBVPm4ABg84uF7ubnnc1AsMsRf9c4AqXswBZkWg94ChCQwAlBCb9Lh5JQoJC67HjSsfNwFJYEgso2qIQXIQLMR2AIMFGIYvOjc927QT6NoXXRuBroWH2_P9K4HoxdbtwDxFZBDtAOYhHOmqqR_MBZJA10LS1RZgkLWAfNW86nHznMfNwAIR6Kvux40TUQMKmCSbgOkHqK8Fkqth6RRoHjBMqR5KzzomQkNg52qgl4HufL5109Md29BS1NP9q4FFLTAcII4iHERAuymvZqBAQUufiys4Py_dKiAzMS_focagphpceNlYaNmBGcC6DehaK2DwrQemtT0Kj5u6geweIO5VqAGS8yGijeuAeDkokMGiE4B4ExDPBOurUTAAWQQyrkbBVEEXCE0VjIGkIRDXKJiBRczAMoZxcCEQF0SDFMK0QaABSAScVJCcNx3qvF4guwXmkKZGJOftBzsX5LydQLwK4o2mTkLOMwKLGIFFQLIQ18FcCHEdRA1u14GLDIhTmmcDLd0IxNCSA-ygFUDcBXY0zInA0AM7fDnQPBQHgkMIHFAI65EdA3E0Lm_gCUDk-AUFVxfYHcBAA7tjCRD3AXETWHQSEO-DBDrYvUjuA9kIcgmq62DxiwguSHCCXGgE8hWG62q5uHTtFEBpUwFIK3MBAA)]
-- [鋼琴伴奏 TMD 檔案](haru_no_mitsugi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0NkXIlGSk5qZaFacmFufnFStxaWkpPJux9HHjuseN-x83Lnnc2Pd-T8fL7j3PJ2x5smfL06X9zzs73u_pVNDS4lK0VTA0MOGyt1Vw5rIx0TexA5n5YuW893tmvVi6_9mcFc-3rH45exXYqmezNwGFHzd3PG5a-3RuF0Rs-tJnm3Y_m9n0bM78p61rnq7d8WzBwscNXU-nbHy2tufpjs2PG7qBlj9t3fFiev-LmfMVjAyMDPQMDMz0DCxMjB837wZ5BOgWJS4ufS0FW2oBLgUFhccNE4Aufj573YtVq57N6HvcMBEs2rz7afuuFzOngryC6c453c9Xd79o3_W8cfGztduf9m962jvreefKl0tW4PAC0O3P16xRAHlDL6sgXeHlgsbHDU1Qm57snQMOy34gAxJ6yIGqABJd2_O4oREepmCh2ZsQJrxYtf9Zw_IXHe3PunuBdoPDv__l1O1AcaBznRWeLlkOZna-39MDjD4FoDIg62XD_Ke7lilAIhdh2PPtK4CGQ4IDa4oAGg9SqqBgqKfwtLMXKK6g4ZlXUpSvo2Ci8HRD__P1DZpANU_7pz1tBRn1bM7qZyuanvYvfdzQA0txXfBEp_C4selx46THjfseN05_3Dj_cQPIbU83Tn3evw-oGpR0ZvQ9mzP92YbFzxrXQ52poGCkp_Bkx25gwEBcpqARnJ-XrqNgaAZ1gcLh6QrGCs_WbYU4ZfOzzu5ne6YAVYJ0Te9-ug8YkT1Pty8Dir9s7X2ye-mzXaufzZr2fFbLkx2dTyf1PN2zDGIy1EbKUxsUKGjpc3GBg8sqIDMxLz_Iw6HGoKYa7CsbCy07MKMG6HZdIDRWMAWTukARM7CIGZKIEZRlCoTGQF6NgiFYDQQagNRw1aJY5oNsmQncMsN4hWjDWAVTCFWjYAJkmMTChGvAEqYQeSAFVw-kDCBWgAIfj3eAmRaU_A0fNUyGpRBQMEAsB_kH5AeQT0DuR_WpYRxcCMQF0RDPQ7QhexXZKlOgVRZEWAUKQl0gCQlGmE0w2xDBjNsmS6BNhkYYVoHdDXY-agzCeBDrcTkIl2WGxiDb4GkcbhsVUwsiKslMLLgTDyixYDcDqoYiM9D14LCDJDMIJnxdOwVw9lIAMkAhh41W5gIA)]
+- [主旋律 TMD 檔案](haru_no_mitsugi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGxKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWp6KLFqYnF-XnFCGGgDemZeVYliZlAd8en5FcihUB-UUlGfnpRYkFGpVVGZjHINcmJOfHZiXmJSlxaWgrPZix93LjuceP-x41LHjf2KWhpcSnaKhgamHDZ2yo4c9mY6JvYgQx7sXLe-z2zXizd_2zOiudbVr-cvUrhyd45z9b2gK16NnsTUPZxc8fjprVP53aBpWZvgkhNX_ps0-5nM5uezZn_tHXN07U7ni1Y-Lih6-mUjUDdT3dsftzQ_X5Px9PWHS-m97-YOV_ByMDIQM_AwEzPwMLE-HHzblAEvd_TCTbs6Zzu56u7X7Tvet64-Nna7U_7Nz3tnfW8c-XLJSsgBihxcelrKdhSC3ApKCg8bpgA9Mvz2eterFr1bEbf44aJYNHm3U_bd72YORXkb0zfEHInhkeBPny-Zo0CyLN6WQXpCi8XND7tXPVi054nO4FGLX2xZsGzFU0v1s553NAEtR4YxuBI6YcENvbYedzQiB4rCBNerNr_rGH5i472Z929QAeBY7D_5dTtQHGgH5wVni5ZDmZ2vt_TA0wHCkBlIHGIwMuG-U93LVOAJBYkM5t7ns1cDzJz9qaXi1YAzXzW3_90_WpgOgOmhJcz9z5t7XzeuvxFQ8PTvvkv24HB2fh048Zn86YDtTzvXP50wRag2U92L33a3_V8y4aXs1c82939bO-SFxPWAIMPpHjarJdtk170dgJ9CnTf0zkbns9qedY16VlzKySYoE5RUACZv6Dx5dxFwEB8Nqfz6bqeZ1O3PJ09-8XCnie7pjzfPgsYmkC7nq3vB4ns6H42befLmS0gla0rn63b-rSx_emEXmAQAgP56YbeZ-0gTz_ZsezZtD0QY5_umvp89fqnvRvghkMUg_y-ecXL-ZshJiCC5nlnx7M5ayCpCBQuc9Y8WzXl2cKOJ_vmAt0KNAjooKf7FzxdvwyYQ16saIK449n07qf7uoGGQhwBsQNkKDRtQrwJdWfrimfT2oFqn-xYC2Ksmvdi7XpgggWlSLBuRPqCeBhkb0cXRDMwWsFmPtnRAAxnsOnAUqGpA8iBFBLA-HvcuP7FnrmPG3sfN64BqQBFYOPqx01NwDiEMCBxCGFDzJgM1PS4sR9oADDqHzd1Pd8H1DMdKAKSftq2Blz89D9u6gQZ2zTpxf69jxs3PW5qASp93LgMpAjofIhXgKH2fE7308mrQPE2Y-nTJSuBkf90ySpQsloy6-WuPc_blz3vmA1MXM_n7Hm_pxGa0IApBZzWnuzogiS3p9t2QdhPds4HqgEqgDgbKPh-z2xI8nk-Yenz_oYXnZuAVkCSLdSKfX0vd00HOaCrC-h6iBteztzwcs6-l7snPps1_em-ncCk8XJl67Opi4Geedkw4eXsRU_7dgPjDB7Eu0AZExHEQL8AUzo4nKY-bpoL8jw8iJ_sBgbDvOdT5j-dCAyYdY-bGh83TgOTK4GKwGE4Zz4ompq6gAXS48blQDYwe4BMnbMCSEJsAZo573ETMHybnrasAgb_y64GoGHPN--AJk9cQQx01os9U5_NnwLMaMBgetGw-fnUKU_29gEVg8K3fx9Q8Nnaxc9mrIfkUIg7XyzbBcykoIw5s-lpx25EmC7YAnTsi4YeoEufTlgOtOLphn6gY59OBUXGsxU7QZl6KjAOGp8ua3q-dROI3LEdFL5doJgAOgYoCLTryd6pz9d2Ptu1GugwaLACTae8uIcCBS19Lq7g_Lx0q4DMxLx8hxqDmmqwB2wstOzADGx1jAKw_AbmHWBhoqBhogD02PP1DTrwDKeJRQPQGpBhNQqmCrpwDCJrFMyApImCsYIRWEQXKGIMlQfRRgqGQBFDqBwIGoDUgE3zMawBFjbzgfzHzSvAZD9YxePm1UA9j5v7wOxJSDIg0x83rQGJQMjmJWD2WiCrG6ynB8mmeIRNRnhtatoKZi_EsAksDpWF2QSWwWIP_tDe1UNuaIPCEhSSoDCsAYcyLGwhrkQOf4QaXKENClOQb7qBeBHcXyCZeVBxEAmSgYYBRBzs78fNE-BqQDIwVVjCuglkKkjtPCB7H9gEmD2QWG0EkxDXQMTBod-0DSkmOqGxALKblLDe0UmtlK2rYA4K1Ti4M40gTHOwKpA8LI6whnbTZrA_QCnqcdN6aIj0gX0LTtVNq8EiqxCh0LQMqqoFquNx03aoDEQ_9pTdghSmoPQNMRUWD4-b25FkkE0DpW1ojoCn7A7SQhvSTCE5tMFhCgpAWGKuASZikJVmSAUJKOGbAElIRAC1QPXhStxTwd4EBSE0mYG9CZJZCfUuqKDYhBQMoKCHFTGQoAKJgHS04Q7upr1gsyDkBrAuUFYA6YIme1CwgiMOZs86sCpIcoC4DJYdMIO7lotL104BVKhH-xjGKsDZRmC2MhcA)]
+- [鋼琴伴奏 TMD 檔案](haru_no_mitsugi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0NkXIlGSk5qZa5SWWlBaloosWpyYW5-cVI4SBZqdn5lmVJGYWZ-THp-RX5iPkUssyU1LzklOtUlMyQY5IzEHIlaUWFWfm51kVZCbm5ccnFhUl5qUDLcgrUeLS0lJ4NmPp48Z1jxv3P25c8rix7_2ejpfde55P2PJkz5anS_ufd3a839OpoKXFpWirYGhgwmVvq-DMZWOib2IHMv_Fynnv98x6sXT_szkrnm9Z_XL2KoUne-c8W9sDtv3Z7E1A2cfNHY-b1j6d2wWWmr0JIjV96bNNu5_NbHo2Z_7T1jVP1-54tmDh44aup1M2AnU_3bH5cUM30ClPW3e8mN7_YuZ8BSMDIwM9AwMzPQMLE-PHzbtB4Qh0Gdiwp3O6n6_uftG-63nj4mdrtz_t3_S0d9bzzpUvl6yAGKDExeWZV1KUbxUACoIgD4cag5pqLgUgsLHQsgMzahQM4xR0FcyA2BSIjYG4RsEESILEjMA0SMQUKGMCJEHqzEFaoPpg0ACkiqsWxT4fZPtMEPbFK0QbxsIooGVAhkmsgimQMgXxoRLofCBlALEiOD8vHY-P9LUUbNGBwvM1a57saHixsEdBw0Th6Yb-5-sbdBRAYamXVZCuiUWDlj7UuaBQgWEQWQMMA1NgWBgjhQ4o1GChZ6RgCHI0RtiATPMxrFF43DwfyH_cvAJM9oNVPG5eDdTzuLkPzJ6EJAMy_XHTGpAIhGxeAmavBbK6wXp6kGyKR9hkhNempq1g9kIMm8DiUFmYTWAZLPbgD-1dPeSGNigsQSEJCsMacCjDwhbiSuTwR6jBFdqgMAX5phuIF8H9BZKZBxUHkSAZaBhAxMH-ftw8Aa4GJANThSWsm0CmgtTOA7L3gU2A2QOJ1UYwCXENRBwc-k3bkGKiExoLILtJCesdndRK2aDcDQxVWNYGBi2EaQ5WBZKHxRHW0G7aDPYHKEU9bloPDZE-sG_BqbppNVhkFSIUmpZBVbVAdTxu2g6VgejHnrJbkMIUlL4hpsLi4XFzO5IMsmmgtA3NEfCU3UFaaD-dPZuc0KZiMYtI3FPB3gQFITSZgb0JklkJ9S6ooNiEFAygoIcVMZCgAomAdLThDu6mvWCzIOQGsC5QVgDpgiZ7ULCCIw5mzzqwKkhygLgMlh0wgxulTMdfa4BqBTJqDew1D1QxzpoIygBSuM2A6kE3kxwziK8Bde0UwPWsApABCrloH6A0nG0EZitzAQA)]
 
 ## 分析
 
@@ -91,24 +91,25 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 春のみつぎ ]
 ================================================================================
-⏱  Duration:       0:36 (36.9s), 16 measures total
+⏱  Duration:       1:13 (73.8s), 32 measures total
 🎼 Key & Tempo:    首調基準 C, != 104.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    C4 (MIDI 60) – C5 (MIDI 72) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  C4 in [Song #1 @ m.1, 0:01]
-   - 最高音: C5 in [Song #1 @ m.2, 0:04]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [Song[L1] #1 @ m.3, 0:06]
+   - 最高音: D5 in [Song[L1] #1 @ m.11, 0:23]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song (36.9s)
+🏛  結構:      Song[L1] (36.9s) -> Song[L2] (36.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, E, C, D, A
-   - 調性數值:    G 大調 [相關度: 0.80, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.80), C 大調 (0.76), E 小調 (0.72)
-   - 五度圈歷程:   +1
+   - 核心骨幹音:  G, C, D, E, A
+   - 調性數值:    G 大調 [相關度: 0.89, 穩定度: Moderate, 自然音純度: 95.0%]
+   - 候選調性 (K-S): G 大調 (0.89), C 大調 (0.83), E 小調 (0.59)
+   - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Song #1]: G 大調 (r: 0.80, 自然音純度: 100.0%)
+     • [Song[L1] #1]: G 大調 (r: 0.89, 自然音純度: 95.0%, 調外音: F)
+     • [Song[L2] #1]: G 大調 (r: 0.89, 自然音純度: 95.0%, 調外音: F)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -121,21 +122,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █████████████             16.7%
+     C  : ███████████████           20.0%
      C# :                            0.0%
-     D  : █████████████             15.8%
+     D  : ██████████████            18.3%
      D# :                            0.0%
-     E  : ██████████████████        22.5%
-     F  :                            0.0%
+     E  : █████████                 12.5%
+     F  : ████                       5.0%
      F# :                            0.0%
-     G  : ████████████████████████  30.0%
+     G  : ████████████████████████  31.7%
      G# :                            0.0%
-     A  : ████████████              15.0%
+     A  : ███████                    9.2%
      A# :                            0.0%
-     B  :                            0.0%
+     B  : ███                        3.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – C5 (12 個半音 / 1.0 個八度, 54 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 112 個音符)
 ================================================================================
 ```
 

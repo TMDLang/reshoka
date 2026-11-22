@@ -82,8 +82,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGRZSK6FNyo-Lz8ktSk_PxsDBUZ-UWJmfFgdcUZpQjpgqL8stS8xDygktzEvNLi5KLMgpL45PyCSoSa1LLMlFSQiuLkxLz4stSizLTM1BQkZ6cWFYM9BHFnSVFiHsQcoCBCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIekn9KMlKBAVCemghkFKELF-QkIrkKqD89M8-qJDET6CuQz8oT43MTM_NyEvOAbtPSUng5e8X7PR1gslNBS4tL0VbB0MCEy95WwZHLxkjfxA5k1NMpG5-t7Xm6Y5oCOGQVNJ7saHi6c4uCvsKLyWte9G0Eyr-c3fa4ecXj5lUKRgYvFzRqgp3wYuW893tmPZu77-mmHU_XzwbqAgs_m70JJLxhx5NdU5_u3PFszUIlLi59LQVbagEuBQUFO4VoRT__ENdYCEdL62nffKDDXmxuf7Gi60VHO9BDQOc9bV3xbFq7lhYwDJ5u6H3W3qmQAPKiXlZBeoLCkx1dT3u7gJqAYQN0MMQgXZBR7btezJwKMmTFzBcrdoO0zwIqe7mgCSjwfMkuoAdfzJz_uKEnwSjhcUPv44ZGoMjTCUBGTwIwqKFiT9fuAAYiSAwSnCDh93t6nvZvBlr8YvmkFytmgCSRgw_oaIhmoDBS8AFN14OJ44oRiOkdz7paXrSvetG-63nj4mdTZ75o2vRsTvOzjmnPZ-94OX0OUOTZ3AnPOhueTZ71uKELZNaELkjsg4xr6H6-Zg3QOAVImDxuaEKEyYtV-581LAeFSXcv0PPgMHm6fRmKVx43LQEqUwAmKx2Yc1_OXfR85t7HTevBIkAHOio8XbIcqAoYEgmgVJgAYoBTIpCFauWzBQtfrGgCWdnZDfQXMIJfbOp5sWrVsxl9QIOe7Jur4JqSCcpCiTkKAfk5mcmVCo4KEE1Ao8AuhBimoGCoBzTvyd6-l_M3v9w979mefqCLwQogRj_fsPDF2jnPpu0B-d9C4emG_ufrG8BhoQDUoZBgDnR8I4hvaIAkaQKRNEtQeNrfBZY1RJI1hmlVAFoHtPTJju5n03YC3fC0dfXTXcuezpkMFAT6A0Uj0LT4BAWgl8Ean-zsfjlt8tP-Zc_mdILS0L51QFVPF60AawQm2dnAMHja2ft0X8_zLbNeNmx6Nr376b7u59tnPVs0F2hygqPJo4bJ7sog0tEE5IUEJxAbTIDl3JQhwq5QDly5kwkoNqARsHjOy71dz5t2Ad0UD1YOdCOIAvOg8aWgYAQK4mdzVkM8AvOYEdRjINNmNj1t2ANJOH3zgaH-bM4aYFQ-X7QLGBlP9s55ObMF6LGns2c_7WgDBt3zNcuedi0ABVZH25M9E5-tXQQUUUgAxqSCQTzQdR3GCtoKwHBr6IaogWgBh0sPMHk_W7vkyf51z9YuftHR9WJv58ueFmBoArUDU5aBgm6CAtg_NUADdMEiNcheMQZ5BSO6jRWerdv6dO10oEXAsuTJ3l40r0zbA3I7qnMUEoyAachQARSrkAQAlAIqe7amBWgGMFifrl8N9Do48zR3P27enPB-7xxgPlr3uHkxlLkMQje3QzMQMHGAnQZyDSTTrVJ43LwIiNuAGKwKmliNEEpWA6X2AHG_wuOmNSAlUDfMa3o-ewvEJfCQA-WztXMgCl629j7fuw4YeE9bl8ICCFbgGuoB6xMw-3HT2sfNfY-bpwLd8bih4XHTRiT2osfNC8HcVSBu85LHzfMeN_fANG5_3NwBVobKQOM2d8DU73zctBksCDF8FYjRDCwI26F2Ne193DzzcXMXsChCcawRkmOBmoBB3Q9CIBdNftzcDDZyOdSN1HVycyPQLY-btoIcBZJdDYwJkNVNa8CGA1265nEzEM0Deg7FycYIJ4Pc0gz2J9jbaFwqBzEk8oBuhNgFSpWQBAlMi6gBDQw5oKt3A8VBeimv16FAQUufi8sR2NYJywc2jhxqDGqqQeYr2FhogQNHAZRtzeOBhBGYaahgGg_MxNhEgRkbrMPHsAaUSoEh2QcKTXCGAYlshPNA-oH-ArIXQsVWgUSalwDxPCDuQZhlBFIJynTdkBwFxCCVoHQECe7lYN0kmGgMEgepABoAzsZg14GjGS5AnHHw8AF7HhIoqExQYYQIK9QA2g40pwOqGDsPRiOJgNUgBw3FpoCCgyJToKFgDISg0rcGSEJKYSATGARAGuh5SDKBFv9IgbATiDdDjYSkEpQCFhYNTXuBvJlA3AUWWYJqEiggmhvB4sC8D1e1GqgGWgqDI68LzALmf3AkQmxHMQccFJBUCtIJSRegLAkUBuVJILUMw1WT4aaB8ibcwFouLl07BWDGivYxjFWAMY0QTGMwU5kLAA)]
-- [鋼琴伴奏 TMD 檔案](ame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGRZSK6FNyo-Lz8ktSk_PxsDBUZ-UWJmfFgdcUZpQjpgqL8stS8xDygktzEvNLi5KLMgpL45PyCSoSa1LLMlFSQiuLkxLz4stSizLTM1BQkZ6cWFYM9BHFnSVFiHsQcoCBCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIekn8Si4Ca01NzU_NKrAoyE_Py4xOTk_NzCxLzMkFiCIUlGUBFVuWpiUBGEbpwQU4ikvOBFqVn5lmVJGYCvQ8KgvLE-NzEzLycxDygJ7S0FF7OXvF-TweY7FTQ0uJStFUwNDDhsrdVcOSyMdI3sQMZ9XTKxmdre57umKYAjgIFjSc7Gp7u3KKgr_Bi8poXfRuB8i9ntz1uXvG4eZWCkcHLBY2aYCe8WDnv_Z5Zz-bue7ppx9P1s4G6wMLPZm8CCW_Y8WTX1Kc7dzxbs1CJi8szr6Qo3yoA5O8gD4cag5pqLgUgsDHRsgMzahSqC2oVog1jFXSB7GiTWIVo01iFGq5aFK0-2LUaxoN1mcTHK5gCMViXIzCwwvKB0YCkwwKhQ8E8HkgYgZmGQF1gAzBFDYCGgXT4GNYoPG5aq_C4uQ-IpwLxIqCix00b4TyQ_sdNi4DshVCxVSCR5iVAPA-IexBmGYFUrgKKdQNxPxiDVE5-3NwMlNj-uHk5WDcJJhqDxEEqgAY0t8Fc1zwVWYA44-DhA_Y8JFBQmYYKZsAghoUVagBtB5rTAVWMnQejkUTAapCDhmJTQMFBkSnQUDAGQiOgJ2uAJIgGexwYBEAa6HlIMtEFQtRA2AnEm6FGQlIJKK5BAQ-KiHZYNDTtBfJmAnEXWGQJqkmggGhuBIs_btoKV7UaqAacZprWgCOvC8x63AzC88AqdqKaAw4KSCoF6YSki-7HzSAHrnvcvBhILcNw1WS4abtB0jADobkKMxMj8lV1LjAXG8drAzNRvDYwjMBMk3htUFiB2WACmt2IUQfzCKR8AAsBpSASWLnQWEI3G8mc3DSgQdrGYGwKshKsAFR8ANlgAuYa1PgGq4WajC1IUAonpKIGUihBKTDfGFpQgR2NVxphhgGEwGCDFIMKPhAGORZuHIpuqBhIMTAxQxWZoWiDlZ5wZyCZA_Sma15KZl46_hIcFPnRRrnQshtWmqPrxlGIw1wFK85B2nTtFMClvwKQAQznaB-QiVCmEYJpDGZC7ACxlLkA)]
+- [主旋律 TMD 檔案](ame.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGRZSK6FNyo-Lz8ktSk_PxsDBUZ-UWJmfFgdcUZpQjpgqL8stS8xDygktzEvNLi5KLMgpL45PyCSoSa1LLMlFSQiuLkxLz4stSizLTM1BQkZ6cWFYM9BHFnSVFiHsQcoCBCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIekn9KMlKBAVCemghkFKELF-QkIrkKqD89M8-qJDET6CuQz8oT43MTM_NyEvOAbtPSUng5e8X7PR1gslNBS4tL0VbB0MCEy95WwZHLxkjfxA5k1NMpG5-t7Xm6Y5oCOGQVNJ7saHi6c4uCvsKLyWte9G0Eyr-c3fa4ecXj5lUKRgYvFzRqgp3wYuW893tmPZu77-mmHU_XzwbqAgs_m70JJLxhx5NdU5_u3PFszUIlLi59LQVbagEuBQUFO4VoRT__ENdYCEdL62nffKDDXmxuf7Gi60VHO9BDQOc9bV3xbFq7lhYwDJ5u6H3W3qmQAPKiXlZBeoLCkx1dT3u7gJqAYQN0MMQgXZBR7btezJwKMmTFzBcrdoO0zwIqe7mgCSjwfMkuoAdfzJz_uKEnwSjhcUPv44ZGoMjTCUBGTwIwqKFiT9fuAAYiSAwSnCDh93t6nvZvBlr8YvmkFytmgCSRgw_oaIhmoDBS8AFN14OJ44oRiOkdz7paXrSvetG-63nj4mdTZ75o2vRsTvOzjmnPZ-94OX0OUOTZ3AnPOhueTZ71uKELZNaELkjsg4xr6H6-Zg3QOAVImDxuaEKEyYtV-581LAeFSXcv0PPgMHm6fRmKVx43LQEqUwAmKx2Yc1_OXfR85t7HTevBIkAHOio8XbIcqAoYEgmgVJgAYoBTIpCFauWzBQtfrGgCWdnZDfQXMIJfbOp5sWrVsxl9QIOe7Jur4JqSCcpCiTkKAfk5mcmVCo4KEE1Ao8AuhBimoGCoBzTvyd6-l_M3v9w979mefqCLwQogRj_fsPDF2jnPpu0B-d9C4emG_ufrG8BhoQDUoZBgDnR8I4hvaIAkaQKRNEtQeNrfBZY1RJI1hmlVAFoHtPTJju5n03YC3fC0dfXTXcuezpkMFAT6A0Uj0LT4BAWgl8Ean-zsfjlt8tP-Zc_mdILS0L51QFVPF60AawQm2dnAMHja2ft0X8_zLbNeNmx6Nr376b7u59tnPVs0F2hygqPJo4bJ7sog0tEE5IUEJxAbTIDl3JQhwq5QDly5kwkoNqARsHjOy71dz5t2Ad0UD1YOdCOIAvOg8aWgYAQK4mdzVkM8AvOYEdRjINNmNj1t2ANJOH3zgaH-bM4aYFQ-X7QLGBlP9s55ObMF6LGns2c_7WgDBt3zNcuedi0ABVZH25M9E5-tXQQUUUgAxqSCQTzQdR3GCtoKwHBr6IaogWgBh0sPMHk_W7vkyf51z9YuftHR9WJv58ueFmBoArUDU5aBgm6CAtg_NUADdMEiNcheMQZ5BSO6jRWerdv6dO10oEXAsuTJ3l40r0zbA3I7qnMUEoyAachQARSrkAQAlAIqe7amBWgGMFifrl8N9Do48zR3P27enPB-7xxgPlr3uHkxlLkMQje3QzMQMHGAnQZyDSTTrVJ43LwIiNuAGKwKmliNEEpWA6X2AHG_wuOmNSAlUDfMa3o-ewvEJfCQA-WztXMgCl629j7fuw4YeE9bl8ICCFbgGuoB6xMw-3HT2sfNfY-bpwLd8bih4XHTRiT2osfNC8HcVSBu85LHzfMeN_fANG5_3NwBVobKQOM2d8DU73zctBksCDF8FYjRDCwI26F2Ne193DzzcXMXsChCcawRkmOBmoBB3Q9CIBdNftzcDDZyOdSN1HVycyPQLY-btoIcBZJdDYwJkNVNa8CGA1265nEzEM0Deg7FycYIJ4Pc0gz2J9jbaFwqBzEk8oBuhNgFSpWQBAlMi6gBDQw5oKt3A8VBeimv16FAQUufi8sR2NYJyEzMy3eoMaipBpmvYGOhBQ4cBVC2NY8HEkZgpqGCaTwwE2MTBWZssA4fwxpQKgWGZB8oNMEZBiSyEc4D6Qf6C8heCBVbBRJpXgLE84C4B2GWEUglKNN1Q3IUEINUgtIRJLiXg3WTYKIxSBykAmgAOBuDXQeOZrgAccbBwwfseUigoDJBhREirFADaDvQnA6oYuw8GI0kAlaDHDQUmwIKDopMgYaCMRCCSt8aIAkphYFMYBAAaaDnIckEWvwjBcJOIN4MNRKSSlAKWFg0NO0F8mYCcRdYZAmqSaCAaG4EiwPzPlzVaqAaaCkMjrwuMAuY_8GRCLEdxRxwUEBSKUgnJF2AsiRQGJQngdQyDFdNhpsGyptwA2u5uHTtFIAZSwFIKXMBAA)]
+- [鋼琴伴奏 TMD 檔案](ame_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDc4RwcX5pUXJqfEFieqpVgJGRZSK6FNyo-Lz8ktSk_PxsDBUZ-UWJmfFgdcUZpQjpgqL8stS8xDygktzEvNLi5KLMgpL45PyCSoSa1LLMlFSQiuLkxLz4stSizLTM1BQkZ6cWFYM9BHFnSVFiHsQcoCBCVX5RSUZ-elFiQUalVUZmcUl-UWZyYk58dmIekn8Si4Ca01NzU_NKrAoyE_Py4xOTk_NzCxLzMkFiCIUlGUBFVuWpiUBGEbpwQU4ikvOBFqVn5lmVJGYCvQ8KgvLE-NzEzLycxDygJ7S0FF7OXvF-TweY7FTQ0uJStFUwNDDhsrdVcOSyMdI3sQMZ9XTKxmdre57umKYAjgIFjSc7Gp7u3KKgr_Bi8poXfRuB8i9ntz1uXvG4eZWCkcHLBY2aYCe8WDnv_Z5Zz-bue7ppx9P1s4G6wMLPZm8CCW_Y8WTX1Kc7dzxbs1CJi8szr6Qo3yoA5O8gD4cag5pqLgUgsDHRsgMzahSqC2oVog1jFXSB7GiTWIVo01iFGq5aFK0-2LUaxoN1mcTHK5gCMViXIzCwwHqQdFggdCiYxwMJIzDTEKgLbACmqAHQMJAOH8MahcdNaxUeN_cB8VQgXgRU9LhpI5wH0v-4aRGQvRAqtgok0rwEiOcBcQ_CLCOQylVAsW4g7gdjkMrJj5ubgRLbHzcvB-smwURjkDhIBdCA5jaY65qnIgsQZxw8fMCehwQKKtNQwQwYxLCwQg2g7UBzOqCKsfNgNJIIWA1y0FBsCig4KDIFGgrGQGgE9GQNkATRYI8DgwBIAz0PSSa6QIgaCDuBeDPUSEgqAcU1KOBBEdEOi4amvUDeTCDuAossQTUJFBDNjWDxx01b4apWA9WA00zTGnDkdYFZj5tBeB5YxU5Uc8BBAUmlIJ2QdNH9uBnkwHWPmxcDqWUYrpoMN203SBpmIHKuQsnEiHxVnQvMxcbx2sBMFK8NDCMw0yReGxRWYDaYgGY3YtTBPAIpH8BCQCmIBFYuNJbQzUYyJzcNaJC2MRibgqwEKwAVH0A2mIC5BjW-wWqhJmMLEpTCCamogRRKUArMN4YWVGBH45VGmGEAITDYIMWggg-EQY6FG4eiGyoGUgxMzFBFZijaYKUn3BlI5gC96ZqXkpmXjr8EB0V-tFEutOyGlebounEU4jBXwYpzkDZdOwVw6a8AZADDOdoHZCKUaYRgGoOZEDtALGUuAA)]
 
 ## 分析
 
@@ -91,14 +91,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 雨（雨） ]
 ================================================================================
-⏱  Duration:       0:41 (41.5s), 36 measures total
+⏱  Duration:       0:13 (13.8s), 12 measures total
 🎼 Key & Tempo:    首調基準 A, != 104.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    E4 (MIDI 64) – C#5 (MIDI 73) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  E4 in [Ame[L1] #1 @ m.2, 0:01]
-   - 最高音: C#5 in [Ame[L1] #1 @ m.9, 0:09]
+   - 最低音:  E4 in [Ame #1 @ m.2, 0:01]
+   - 最高音: C#5 in [Ame #1 @ m.9, 0:09]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Ame[L1] (13.8s) -> Ame[L2] (13.8s) -> Ame[L3] (13.8s)
+🏛  結構:      Ame (13.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -106,11 +106,9 @@ tmd_source:
    - 核心骨幹音:  A, E, B, G#, F#
    - 調性數值:    A 大調 [相關度: 0.83, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): A 大調 (0.83), A 小調 (0.66), E 大調 (0.57)
-   - 五度圈歷程:   +3 -> +3 -> +3
+   - 五度圈歷程:   +3
    - 各段落調性細節:
-     • [Ame[L1] #1]: A 大調 (r: 0.83, 自然音純度: 100.0%)
-     • [Ame[L2] #1]: A 大調 (r: 0.83, 自然音純度: 100.0%)
-     • [Ame[L3] #1]: A 大調 (r: 0.83, 自然音純度: 100.0%)
+     • [Ame #1]: A 大調 (r: 0.83, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -137,7 +135,7 @@ tmd_source:
      B  : ████████                  14.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : E4 – C#5 (9 個半音 / 0.8 個八度, 114 個音符)
+  - Piano         : E4 – C#5 (9 個半音 / 0.8 個八度, 38 個音符)
 ================================================================================
 ```
 

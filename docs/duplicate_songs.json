@@ -1,8 +1,8 @@
 {
-  "total_corpus_songs": 1498,
-  "unique_song_count": 1011,
-  "duplicate_group_count": 273,
-  "duplicate_occurrence_count": 760,
+  "total_corpus_songs": 1549,
+  "unique_song_count": 1056,
+  "duplicate_group_count": 274,
+  "duplicate_occurrence_count": 767,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -52,7 +52,7 @@
     {
       "id": "other",
       "label": "其他",
-      "duplicate_group_count": 135
+      "duplicate_group_count": 136
     }
   ],
   "duplicate_groups": [
@@ -1425,8 +1425,8 @@
           "raw_title": "一月一日"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_3/14_ichigatsu_ichijitsu",
-          "md_file": "hyojun_shoka_gakushucho/grade_3/14_ichigatsu_ichijitsu/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu",
+          "md_file": "hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
           "raw_title": "一月一日"
         },
@@ -1443,8 +1443,8 @@
           "raw_title": "一月一日"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_6/14_ichigatsu_ichijitsu",
-          "md_file": "hyojun_shoka_gakushucho/grade_6/14_ichigatsu_ichijitsu/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu",
+          "md_file": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
           "raw_title": "一月一日"
         }
@@ -1871,6 +1871,12 @@
           "md_file": "kogakko_shoka/grade_4/4_shoka_no_yoru/index.md",
           "book_label": "《公學校唱歌》第四學年用（昭和12年／1937）",
           "raw_title": "初夏の夜"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru",
+          "md_file": "hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru/index.md",
+          "book_label": "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）",
+          "raw_title": "初夏の夜"
         }
       ]
     },
@@ -2275,8 +2281,8 @@
           "raw_title": "君が代"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_3/11_kimigayo",
-          "md_file": "hyojun_shoka_gakushucho/grade_3/11_kimigayo/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_3/12_kimigayo",
+          "md_file": "hyojun_shoka_gakushucho/grade_3/12_kimigayo/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
           "raw_title": "君が代"
         },
@@ -2293,8 +2299,8 @@
           "raw_title": "君が代"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_6/11_kimigayo",
-          "md_file": "hyojun_shoka_gakushucho/grade_6/11_kimigayo/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_6/12_kimigayo",
+          "md_file": "hyojun_shoka_gakushucho/grade_6/12_kimigayo/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
           "raw_title": "君が代"
         }
@@ -2693,8 +2699,8 @@
           "raw_title": "天長節"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_3/12_tenchosetsu",
-          "md_file": "hyojun_shoka_gakushucho/grade_3/12_tenchosetsu/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_3/13_tenchosetsu",
+          "md_file": "hyojun_shoka_gakushucho/grade_3/13_tenchosetsu/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
           "raw_title": "天長節"
         },
@@ -2711,8 +2717,8 @@
           "raw_title": "天長節"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_6/12_tenchosetsu",
-          "md_file": "hyojun_shoka_gakushucho/grade_6/12_tenchosetsu/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_6/13_tenchosetsu",
+          "md_file": "hyojun_shoka_gakushucho/grade_6/13_tenchosetsu/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
           "raw_title": "天長節"
         }
@@ -2857,8 +2863,8 @@
           "raw_title": "始政紀念日"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_3/13_shisei_kinenbi",
-          "md_file": "hyojun_shoka_gakushucho/grade_3/13_shisei_kinenbi/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_3/14_shisei_kinenbi",
+          "md_file": "hyojun_shoka_gakushucho/grade_3/14_shisei_kinenbi/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
           "raw_title": "始政紀念日"
         },
@@ -2875,8 +2881,8 @@
           "raw_title": "始政紀念日"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_6/13_shisei_kinenbi",
-          "md_file": "hyojun_shoka_gakushucho/grade_6/13_shisei_kinenbi/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_6/14_shisei_kinenbi",
+          "md_file": "hyojun_shoka_gakushucho/grade_6/14_shisei_kinenbi/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
           "raw_title": "始政紀念日"
         }
@@ -3661,6 +3667,12 @@
           "md_file": "kogakko_shoka/grade_6/17_gyokei/index.md",
           "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
           "raw_title": "曉景"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_5/06_gyokei",
+          "md_file": "hyojun_shoka_gakushucho/grade_5/06_gyokei/index.md",
+          "book_label": "hyojun_shoka_gakushucho 尋常科 第五學年用（國臺圖 523.37 4322-4）",
+          "raw_title": "曉景"
         }
       ]
     },
@@ -3977,6 +3989,26 @@
           "md_file": "kyoyusho_shoka_1935/2_27_ki_no_ha/index.md",
           "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "木の葉"
+        }
+      ]
+    },
+    {
+      "id": "kodama",
+      "title": "木靈",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama",
+          "md_file": "shintei_jido_shoka/koto_girls_2020.006.0849/1_2_08_kodama/index.md",
+          "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
+          "raw_title": "木靈"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_5/07_kodama",
+          "md_file": "hyojun_shoka_gakushucho/grade_5/07_kodama/index.md",
+          "book_label": "hyojun_shoka_gakushucho 尋常科 第五學年用（國臺圖 523.37 4322-4）",
+          "raw_title": "木靈"
         }
       ]
     },
@@ -4873,6 +4905,12 @@
           "md_file": "kyoyusho_shoka_1935/2_10_inu/index.md",
           "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "いぬ"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_1/07_inu",
+          "md_file": "hyojun_shoka_gakushucho/grade_1/07_inu/index.md",
+          "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+          "raw_title": "犬"
         }
       ]
     },
@@ -5193,8 +5231,8 @@
           "raw_title": "紀元節"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_3/15_kigensetsu",
-          "md_file": "hyojun_shoka_gakushucho/grade_3/15_kigensetsu/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_3/16_kigensetsu",
+          "md_file": "hyojun_shoka_gakushucho/grade_3/16_kigensetsu/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）",
           "raw_title": "紀元節"
         },
@@ -5211,8 +5249,8 @@
           "raw_title": "紀元節"
         },
         {
-          "rel_dir": "hyojun_shoka_gakushucho/grade_6/15_kigensetsu",
-          "md_file": "hyojun_shoka_gakushucho/grade_6/15_kigensetsu/index.md",
+          "rel_dir": "hyojun_shoka_gakushucho/grade_6/16_kigensetsu",
+          "md_file": "hyojun_shoka_gakushucho/grade_6/16_kigensetsu/index.md",
           "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
           "raw_title": "紀元節"
         }
@@ -6539,6 +6577,12 @@
           "md_file": "kogakko_shoka/grade_6/5_ameagari/index.md",
           "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
           "raw_title": "雨上り"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_6/03_ameagari",
+          "md_file": "hyojun_shoka_gakushucho/grade_6/03_ameagari/index.md",
+          "book_label": "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）",
+          "raw_title": "雨上り"
         }
       ]
     },
@@ -6757,6 +6801,12 @@
           "md_file": "kyoyusho_shoka_1935/1_03_hato/index.md",
           "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "はと"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_1/01_hato",
+          "md_file": "hyojun_shoka_gakushucho/grade_1/01_hato/index.md",
+          "book_label": "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）",
+          "raw_title": "鳩"
         }
       ]
     },

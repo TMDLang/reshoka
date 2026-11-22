@@ -79,7 +79,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kisha_to_kisen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBobIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9BzahAKgBWXdmemaeVWkeyCklUAdoaSk827j3xe6ux40rQIyOnQpaWlyKtgqWZlz2tgouXDZG-iZ2IDNAYWGl8GzahufbVyg83dD_dO2OZwsWPm7e_bR1DYSt8HTKxmdre55Nnfls7oSXs9ve7-l4uqH76Y4dz5dPfLKjE6R09myg0qc7tzyfsuL9nk6w257saHi2aO6z1j6gkpfNfQpA4x83dJFiz-OGbpBVS5Y_W7v4aW_jk109QBsgjGdzOt7v6Xm-ZdGz2TtezJyvYGBuZKprYgiz-9n0pc827X42s-nZnPlw44G2Qyx4umMz1OjWHS-m94P0GxkYGegZGJjpGViYGAPdFGBoYgYz7Gnf_Bd7OkG6gY4GGobhyOdr1igYGhkrvFzQCHevgqGxAtC1QHEFoFvBFNBNXS1gQ7n0tRRsqQW4FBQU7BSiFf38Q1xjIRwtLaCbQSGzuf3Fiq4XHe1AB79YOe9p64pn09q1tMDx1_usvVMhAZTc9bIK0hMeNUwGcQzBHGDQQgxQKNADOt0IKAn0H0gUV7SDQkDh5bJpQO-93zML4gpdoDterNr_rGE5yAXdvcBwBtk963FzN1AYFIndvU_XTgC6xkUBGGhAMQVgmlQAioJN6Xk0cyU4ucINe7Z-yos9zcCYfNo9A2wS0Fx47D7r7AYGL2YcJ6TkJxfrg8sOYP7XB5YS8QaG-gXA-I3PzizOSIwvyQcxUvOAvu4EBsvz1uVw74O9ZQLyvSkoxT5f3_C0deOzOZ1PW1fCuKufdrS9nL_5-Zpljxt6Hjdtf9y89HHTMgSjAegZYDpb8Wz2JqBeBUNLqEFAO0Chgs3REAXPpu4A5qAX7VsggQFx0LNpe0BuMn7c0GhoAiJg7nq2YuazGX1P1wHT5RZgrDxbA0ztPY-bgZG0GQvZ0Au0G7d7gblrzbNVU14snvNyb9fL2TOfrdsKSUCg4PQxtEoA2pzgY2QFCrHHDU3gCIIlPKCbgbLAogbMf9w893HznscNDY-b1jxubnzcvASbaxpwORRiyLPpK4EWP25c_7gJlH0eN7Y8burAKghV37D0xcKepx3TgaUfWE3v48atjxu7Hze2PW7qedy45HHjdIiul7snghX0P24CpTmgIc9bZ4JFJj5uAroZqL3zcdOkpxNAiRRoF1gN0LT5jxuXARHUj6CwA4YgJBDBDJB_iRKEmPBy1vKXjZPBVqx43DT5cePax03ApNv5rHsKWHAN2N6JIEsbGp6t7H6xDeKv9SCPgDQCZYFcoCxaXOzqGei4eDFpx7MNi8GyM4CCoChohAT1useNwJJpJ1gKGDtrQbkPWHJuXQUWAVZbux83rnrcuB-cK_th4sDAgQoC4wUcp73ADAiSauqHhxK14uXZDmCMAy3dD7YUVLGBEsO-HrBgE1SkcTXQhKebt8EiBRgj-7BECuXlPBQoaOlzcXmDSq6QfCCVmmcVkJmYl-9QY1BTDbJIwcbQTAucBBSw1TIKwPIDVK4s7FHQMIEWHjoKsJJfE4sGoH0gw2oUqnPTahUM44BFMTKsUTAFQmMgyxSIQTRIBMJCiBiC1RoqGMFEwGb6GNZAkyWGocBECpQCpVIgBUp_QFFMBkg7TkkUVf1gc8HGNS0Bs1YgnGEEVNG4F6szGnuAeCEwYQOplcDMCdKKwQCpwymJomo9xBlg41rArA6wM_DH164ecuILFPqgOADRIFyjYAYWMYNEIphAqALFigGSKqgCiCqk2MIRkEDeWqjMVCB7Ndhvy6CBvwYqA_Q1KIeBtMVDNUECBCQJ0g4xEjlWcAQYkActT2D6G3vB5DqobBdUdCsQg0yG2gcuWOBaVoHJ_UTEwI5OcAyYkRcDoLAF5YAacPo3AWKQCIgNyxmQsIekuWpENoMYABHGIoTIkSBROAMpupo2QkN3ARCDvdu8CRopoIiERNrjJlAQPG4GhSVIBhamoDCD5UZQwQiNCghNrAREGI2LHMOgrAGJDEhUAMtYiAmN3WBxcLw2gV3bOBEqA7MJyYWgOh3icESiIE4CIozGJZAggG0scIKAtb-ITBBY4gqaAIzASQKUNCDJBpQJYVENUQNLMiAWlmSDFOd4Qx4Yv6AcBIrvzUAMDt1mUHYFyfSA1YHSDCIVINLKdjAJKlFB9ArsaQUpZvGGLzS2YTEPKkQQMd8EFgeLNYLcBo8xsMg-MAlLNx3YUwRXLReXrp0Cck2pgIWvzAUA)]
+- [主旋律 TMD 檔案](kisha_to_kisen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBobIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFJVkpAK9BzahAKgBWXdmemaeVWkeyCklUAdoaSk827j3xe6ux40rQIyOnQpaWlyKtgqWZlz2tgouXDZG-iZ2IDNAYWGl8GzahufbVyg83dD_dO2OZwsWPm7e_bR1DYSt8HTKxmdre55Nnfls7oSXs9ve7-l4uqH76Y4dz5dPfLKjE6R09myg0qc7tzyfsuL9nk6w257saHi2aO6z1j6gkpfNfQpA4x83dJFiz-OGbpBVS5Y_W7v4aW_jk109QBsgjGdzOt7v6Xm-ZdGz2TtezJyvYGBuZKprYgiz-9n0pc827X42s-nZnPlw44G2Qyx4umMz1OjWHS-m94P0GxkYGegZGJjpGViYGAPdFGBoYgYz7Gnf_Bd7OkG6gY4GGobhyOdr1igYGhkrvFzQCHevgqGxAtC1QHEFoFvBFNBNXS1gQ7n0tRRsqQW4FBQU7BSiFf38Q1xjIRwtLaCbQSGzuf3Fiq4XHe1AB79YOe9p64pn09q1tMDx1_usvVMhAZTc9bIK0hMeNUwGcQzBHGDQQgxQKNADOt0IKAn0H0gUV7SDQkDh5bJpQO-93zML4gpdoDterNr_rGE5yAXdvcBwBtk963FzN1AYFIndvU_XTgC6xkUBGGhAMQVgmlQAioJN6Xk0cyU4ucINe7Z-yos9zcCYfNo9A2wS0Fx47D7r7AYGL2YcJ6TkJxfrg8sOYP7XB5YS8QaG-gXA-I3PzizOSIwvyQcxUvOAvu4EBsvz1uVw74O9ZQLyvSkoxT5f3_C0deOzOZ1PW1fCuKufdrS9nL_5-Zpljxt6Hjdtf9y89HHTMgSjAegZYDpb8Wz2JqBeBUNLqEFAO0Chgs3REAXPpu4A5qAX7VsggQFx0LNpe0BuMn7c0GhoAiJg7nq2YuazGX1P1wHT5RZgrDxbA0ztPY-bgZG0GQvZ0Au0G7d7gblrzbNVU14snvNyb9fL2TOfrdsKSUCg4PQxtEoA2pzgY2QFCrHHDU3gCIIlPKCbgbLAogbMf9w893HznscNDY-b1jxubnzcvASbaxpwORRiyLPpK4EWP25c_7gJlH0eN7Y8burAKghV37D0xcKepx3TgaUfWE3v48atjxu7Hze2PW7qedy45HHjdIiul7snghX0P24CpTmgIc9bZ4JFJj5uAroZqL3zcdOkpxNAiRRoF1gN0LT5jxuXARHUj6CwA4YgJBDBDJB_iRKEmPBy1vKXjZPBVqx43DT5cePax03ApNv5rHsKWHAN2N6JIEsbGp6t7H6xDeKv9SCPgDQCZYFcoCxaXOzqGei4eDFpx7MNi8GyM4CCoChohAT1useNwJJpJ1gKGDtrQbkPWHJuXQUWAVZbux83rnrcuB-cK_th4sDAgQoC4wUcp73ADAiSauqHhxK14uXZDmCMAy3dD7YUVLGBEsO-HrBgE1SkcTXQhKebt8EiBRgj-7BECuXlPBQoaOlzcXmDSq6QfCCVmmcVkJmYl-9QY1BTDbJIwcbQTAucBBSw1TIKwPIDVK4s7FHQMIEWHjoKsJJfE4sGoH0gw2oUqnPTahUM44BFMTKsUTAFQmMgyxSIQTRIBMJCiBiC1RoqGMFEwGb6GNZAkyWGocBECpQCpVIgBUp_QFFMBkg7TkkUVf1gc8HGNS0Bs1YgnGEEVNG4F6szGnuAeCEwYQOplcDMCdKKwQCpwymJomo9xBlg41rArA6wM_DH164ecuILFPqgOADRIFyjYAYWMYNEIphAqALFigGSKqgCiCqk2MIRkEDeWqjMVCB7Ndhvy6CBvwYqA_Q1KIeBtMVDNUECBCQJ0g4xEjlWcAQYkActT2D6G3vB5DqobBdUdCsQg0yG2gcuWOBaVoHJ_UTEwI5OcAyYkRcDoLAF5YAacPo3AWKQCIgNyxmQsIekuWpENoMYABHGIoTIkSBROAMpupo2QkN3ARCDvdu8CRopoIiERNrjJlAQPG4GhSVIBhamoDCD5UZQwQiNCghNrAREGI2LHMOgrAGJDEhUAMtYiAmN3WBxcLw2gV3bOBEqA7MJyYWgOh3icESiIE4CIozGJZAggG0scIKAtb-ITBBY4gqaAIzASQKUNCDJBpQJYVENUQNLMiAWlmSDFOd4Qx4Yv6AcBIrvzUAMDt1mUHYFyfSA1YHSDCIVINLKdjAJKlFB9ArsaQUpZvGGLzS2YTEPKkQQMd8EFgeLNYLcBo8xsMg-MAlLNx3YUwRXLReXrp0Cck2pAOQrcwEA)]
 - [鋼琴伴奏 TMD 檔案](kisha_to_kisen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTozPrsyvSsyML84ojTe0NDJWgqssy88pzU21Si9KTEmNN443QcgU55cWJadaFSdn5OfnxJekVpQk5edno8vHFySmp1oFGBobIGQKivLLUvMS84C6C4oy80pSU8DaEQpSyzJTUkHSxcmJefFlqUWZaZmpKUiOSi0qBrsdYkVJUWJecXJRZgHIQwhV-UUlGflAhxdkVFplZBaX5BdlJifmxGcn5iUiFCUWATWnp-am5pVYFWQm5uXHJyYn5-cWJOZlgsQQCksygIqswFYVAE1W4tLSUni2ce-L3V2PG1eAGB073-_peDl75rPO7pfde55P2PJkz5anS_vf7-lU0NLiUrRVsDTjsrdVcOGyMdI3sQOZCwovK4Vn0zY8375C4emG_qdrdzxbsPBx8-6nrWsgbIWnUzY-W9vzbOrMZ3MnvJzdBrTh6Ybupzt2PF8-8cmOTpDS2bOBSp_u3PJ8ygqgVWD3PtnR8GzR3GetfUAlL5v7FIDGP27oIsWexw3dIKuWLH-2dvHT3sYnu3qANkAYz-Z0vN_T83zLomezd7yYOV_BwNzIVNfEEGb3s-lLn23a_Wxm07M58-HGA22HWPB0x2ao0a07XkzvB-k3MjAy0DMwMNMzsDAxBropwNDEDGbY0775L_Z0gnQDHQ00DMORz9esUTA0MlZ4uaBRiYvLM6-kKN8qABSLQR4ONQY11VwKQGBjaKZlB2bVKBjGKeiiwBoFUyA0BrJMgRhEAxVBWUZgFcZQERA0gOniqkWxzgfZOguEbfEK0YaxMArON43HJmAajyQCpAwgtnhnFmckhuQDqdQ8fH7T11KwRQcKwPABJoYXC3sUNExAMf98fYOOAjAzGuplFaRrYtGgpQ91enVuWi1xoQVjoYafLpAEhR9YBGymj2GNwuPmuY-b92AY-rhpDVCq8XHzEiAFTNWbgaKYDJB2nJIoqvrB5oKNa1oCZq1AOMMIqKJxL1ZnNPYA8cLHTS1AauXjpskgrRgMkDqckiiq1kOcATauBczqADsDf3zt6iEnvkChD4oDEA3CNQpmYBEzSCSCCYQqUKyA0jJMFVQBRBVSbOEISCBvLVRmKpC9Guy3ZdDAXwOVAfq6aTtIq65CPFQTJEBAkiDtECORYwVHgAF5M4DMx41tMP2NvWByHVS2Cyq6FYhBJkPtawQWzbvhWlaByf1ExMCOTnAMmJEXA6CwBeWAGnD6NwFiWFmCpRxRqEZkM4gBEGEsQogcCRKFM5Ciq2kjNHQXADHYu82boJECikhIpD1uAgXB42ZQWIJkYGEKCjNYbgRGGyg2YbFKvAREGI2LHMOgrAGJDEhUPG6aBDGhsRssDo7XJrBrGydCZWA2IbmwcfrjJojDEYmCOAmIMBqXQIIA1rHgBGFKWoLAElfQBGAEThKgpAFJNqBMCItq4qofRJzjDXlg_IJyECi-NwMxOHSbQdkVJNMDVgdKM4hUgEgr28EkqEQF0SuwpxWkmMUbvtDYhsU8qBBBxHwTWBws1ghyGzzGwCL7wCQs3XRgTxHYK0pq1MpYBVANQqgzATJMYmEUWmWOLovDNfC2AK5GARXdi0sA3QP42ie6dgrghpACkIEcBdE-QGUYYkZgMWUuAA)]
 
 ## 分析
@@ -88,14 +88,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 汽車と汽船 ]
 ================================================================================
-⏱  Duration:       0:47 (47.5s), 38 measures total
+⏱  Duration:       0:23 (23.8s), 19 measures total
 🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
    - 最低音:  D4 in [KishaToKisen #1 @ m.4, 0:03]
    - 最高音: D5 in [KishaToKisen #1 @ m.1, 0:00]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      KishaToKisen (23.8s) -> KishaToKisen (23.8s)
+🏛  結構:      KishaToKisen (23.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -103,10 +103,9 @@ tmd_source:
    - 核心骨幹音:  D, A, F#, E, B
    - 調性數值:    D 大調 [相關度: 0.92, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.92), A 大調 (0.69), D 小調 (0.59)
-   - 五度圈歷程:   +2 -> +2
+   - 五度圈歷程:   +2
    - 各段落調性細節:
      • [KishaToKisen #1]: D 大調 (r: 0.92, 自然音純度: 100.0%)
-     • [KishaToKisen #2]: D 大調 (r: 0.92, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -133,7 +132,7 @@ tmd_source:
      B  : █████                      7.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 122 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 61 個音符)
 ================================================================================
 ```
 

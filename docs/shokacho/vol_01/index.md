@@ -27,7 +27,7 @@ image: "0_book_info/P113.jpg"
 | P129 | [**うたのけいこ**](p129_uta_no_keiko/index.md) | — | `?=F` `<4/4>` `!=100` | P129.jpg, P130.jpg |
 | P131 | [**天然の美**](p131_tennen_no_bi/index.md) | 詞：武島羽衣 / 曲：田中穗積 | `?=F` `<3/4>` `!=96` | P131.jpg |
 | P133 | [**もしもしばあさん**](p133_moshimoshi_baasan/index.md) | — | `?=G` `<4/4>` `!=108` | P133.jpg |
-| P135 | [**春のみつぎ**](p135_haru_no_mitsugi/index.md) | 詞：西木紫雪 / 曲：トキ坊 | `?=C` `<4/4>` `!=104` | P135.jpg |
+| P135 | [**春のみつぎ**](p135_haru_no_mitsugi/index.md) | 詞：西木紫雪 作歌 / 曲：トキ坊 作曲 | `?=C` `<4/4>` `!=104` | P135.jpg |
 | P137 | [**雪の花**](p137_yuki_no_hana/index.md) | 詞：牧星 / 曲：山口季次郎 | `?=G` `<2/4>` `!=96` | P137.jpg |
 | P139 | [**渡りやんせ**](p139_watariyanse/index.md) | 詞：野口雨情 / 曲：中山晋平 | `?=E,` `<2/4>` `!=84` | P139.jpg, P140.jpg |
 | P142 | [**圓い小山（顔あそび）**](p142_marui_koyama/index.md) | 詞：北原白秋 / 曲：中山晋平 | `?=F` `<2/4>` `!=84` | P142.jpg |

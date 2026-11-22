@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1498 首歌曲、整理 1340 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1549 首歌曲、整理 1373 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -14,9 +14,14 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [水の流 (水流)](shokacho/vol_07/p251_mizu_no_nagare/index.md)
 
-### 三木露風（10 首）
+### こどもの唱歌（1 首）
+
+- [樂隊遊](hyojun_shoka_gakushucho/grade_1/11_gakutai_asobi/index.md)
+
+### 三木露風（11 首）
 
 - [けむり](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_05_kemuri/index.md)
+- [れんげさう](hyojun_shoka_gakushucho/grade_4/02_renge_so/index.md)
 - [オヤウシコウシ（母牛與小牛）](shintei_jido_shoka/grade_1_2020.006.0847.0001/2_06_oyaushi_koushi/index.md)
 - [ヒバリ（雲雀）](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_01_hibari/index.md)
 - [冬の朝](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_20_fuyu_no_asa/index.md)
@@ -51,8 +56,9 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [月下の營火](kyoyusho_shoka_1935/6_08_gekka_no_eika/index.md)
 
-### 中村秋香（3 首）
+### 中村秋香（4 首）
 
+- [お正月](hyojun_shoka_gakushucho/grade_1/08_oshaugatsu/index.md)
 - [他郷の月](shintei_jido_shoka/koto_girls_2020.006.0849/2_2_06_takyo_no_tsuki/index.md)
 - [村のかぢや](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_04_mura_no_kajiya/index.md)
 - [村の鍛冶屋](shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/index.md)
@@ -101,6 +107,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [島の唄](kyoyusho_shoka_1935/7_22_shima_no_uta/index.md)
 - [島の唄](taiwan_no_uta/10_shima_no_uta/index.md)
+
+### 佛蘭西童謠（1 首）
+
+- [オンマヨハシレ](hyojun_shoka_gakushucho/grade_1/09_onma_yo_hashire/index.md)
 
 ### 傳田治朗（1 首）
 
@@ -167,10 +177,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [一月一日](hyojun_shoka_gakushucho/grade_1/15_ichigatsu_ichijitsu/index.md)
 - [一月一日](hyojun_shoka_gakushucho/grade_2/15_ichigatsu_ichijitsu/index.md)
-- [一月一日](hyojun_shoka_gakushucho/grade_3/14_ichigatsu_ichijitsu/index.md)
+- [一月一日](hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu/index.md)
 - [一月一日](hyojun_shoka_gakushucho/grade_4/13_ichigatsu_ichijitsu/index.md)
 - [一月一日](hyojun_shoka_gakushucho/grade_5/14_ichigatsu_ichijitsu/index.md)
-- [一月一日](hyojun_shoka_gakushucho/grade_6/14_ichigatsu_ichijitsu/index.md)
+- [一月一日](hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md)
 - [一月一日](kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/index.md)
 - [一月一日](kyoyusho_shoka_1935/0_05_ichigatsu_ichijitsu/index.md)
 - [一月一日](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md)
@@ -185,10 +195,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [君が代](hyojun_shoka_gakushucho/grade_1/12_kimigayo/index.md)
 - [君が代](hyojun_shoka_gakushucho/grade_2/12_kimigayo/index.md)
-- [君が代](hyojun_shoka_gakushucho/grade_3/11_kimigayo/index.md)
+- [君が代](hyojun_shoka_gakushucho/grade_3/12_kimigayo/index.md)
 - [君が代](hyojun_shoka_gakushucho/grade_4/10_kimigayo/index.md)
 - [君が代](hyojun_shoka_gakushucho/grade_5/11_kimigayo/index.md)
-- [君が代](hyojun_shoka_gakushucho/grade_6/11_kimigayo/index.md)
+- [君が代](hyojun_shoka_gakushucho/grade_6/12_kimigayo/index.md)
 - [君が代](kogakko_shokashu_1915/1_01_kimigayo/index.md)
 - [君が代](kyoyusho_shoka_1935/0_01_kimigayo/index.md)
 - [君が代](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/index.md)
@@ -308,6 +318,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [雞](kyoyusho_shoka_1935/3_28_niwatori/index.md)
 - [雞](shintei_jido_shoka/grade_4_2020.006.0847.0004/3_02_niwatori/index.md)
 
+### 大正幼年唱歌（1 首）
+
+- [箱庭](hyojun_shoka_gakushucho/grade_1/05_hakone/index.md)
+
 ### 天谷秀（1 首）
 
 - [月夜泛舟](shintei_jido_shoka/koto_girls_2020.006.0849/2_4_03_tsukiyo_hanshu/index.md)
@@ -328,6 +342,14 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [初鶯](shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md)
 - [初鶯（初鶯）](shokacho/vol_07/p241_hatsu_uguisu/index.md)
 - [夕立小立 (陣雨)](shokacho/vol_07/p250_yudachi_kodachi/index.md)
+
+### 尋常小學國語讀本卷七所載（1 首）
+
+- [初夏の夜](hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru/index.md)
+
+### 小學生の歌（1 首）
+
+- [親牛子牛](hyojun_shoka_gakushucho/grade_1/10_oyausi_kousi/index.md)
 
 ### 小島富太郎（1 首）
 
@@ -586,6 +608,12 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [千里の山河](shintei_jido_shoka/grade_4_2020.006.0847.0004/2_10_senri_no_sanga/index.md)
 
+### 文部省尋常小學唱歌（3 首）
+
+- [桃太郎](hyojun_shoka_gakushucho/grade_1/06_momotarau/index.md)
+- [犬](hyojun_shoka_gakushucho/grade_1/07_inu/index.md)
+- [雨](hyojun_shoka_gakushucho/grade_2/01_ame/index.md)
+
 ### 文部省讀本（4 首）
 
 - [我が帝國](kogakko_shoka/grade_4/20_waga_teikoku/index.md)
@@ -633,6 +661,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [花](kogakko_shokashu_1915/2_02_hana/index.md)
 - [花](shoka_kyozai_shu_1923/grade_1_2/33_hana/index.md)
+
+### 新特選樂譜（1 首）
+
+- [五一ヂイサン](hyojun_shoka_gakushucho/grade_2/02_goichi_jiisan/index.md)
 
 ### 旗野十一郎（3 首）
 
@@ -990,12 +1022,13 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [櫻井の訣別](kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/index.md)
 
-### 葛原しげる（13 首）
+### 葛原しげる（16 首）
 
 - [お庭の草花](kyoyusho_shoka_1935/4_05_oniwa_no_kusabana/index.md)
 - [お早う](kyoyusho_shoka_1935/2_01_ohayo/index.md)
 - [さみだれ](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_07_samidare/index.md)
 - [オ友達（好朋友）](shokacho/vol_07/p232_otomodachi/index.md)
+- [七面鳥](hyojun_shoka_gakushucho/grade_2/05_shichimencho/index.md)
 - [三羽ノ雀（三隻麻雀）](shokacho/vol_07/p235_sanba_no_suzume/index.md)
 - [夏の朝](kyoyusho_shoka_1935/4_06_natsu_no_asa/index.md)
 - [夕やけ](kyoyusho_shoka_1935/1_19_yuyake/index.md)
@@ -1003,7 +1036,9 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [天の岩屋](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_02_ama_no_iwaya/index.md)
 - [私の妹](kyoyusho_shoka_1935/2_19_watashi_no_imoto/index.md)
 - [花ざかり](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_01_hanazakari/index.md)
+- [蓄音機](hyojun_shoka_gakushucho/grade_2/08_chikuonki/index.md)
 - [近眼のしくじり (近視眼的失誤)](shokacho/vol_07/p257_chikame_no_shikujiri/index.md)
+- [那須與一](hyojun_shoka_gakushucho/grade_3/11_nasu_no_yoichi/index.md)
 - [鯉のぼり](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/index.md)
 
 ### 葛原幽（1 首）
@@ -1061,7 +1096,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [お月さん](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_13_otsukisan/index.md)
 
-### 西木紫雪（1 首）
+### 西木紫雪 作歌（1 首）
 
 - [春のみつぎ](shokacho/vol_01/p135_haru_no_mitsugi/index.md)
 
@@ -1130,13 +1165,14 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [樂シキ我家（快樂的我家）](shokacho/vol_08/p027_tanoshiki_waga_ie/index.md)
 
-### 野口雨情（17 首）
+### 野口雨情（18 首）
 
 - [あの町この町](kyoyusho_shoka_1935/4_14_ano_machi_kono_machi/index.md)
 - [お人形やく家](shoka_kyozai_shu_1923/grade_3_4/15_oningyo_yaku_ie/index.md)
 - [しやぼん玉](kyoyusho_shoka_1935/2_08_shabondama/index.md)
 - [ほたる](kyoyusho_shoka_1935/1_09_hotaru/index.md)
 - [シャボン玉（肥皂泡）](shokacho/vol_07/p233_shabondama/index.md)
+- [シヤボン玉](hyojun_shoka_gakushucho/grade_2/07_shabondama/index.md)
 - [チヨダノオシロ（千代田城）](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_20_chiyoda_no_oshiro/index.md)
 - [十五夜お月さん](shoka_kyozai_shu_1923/grade_5_6/16_jugoya_otsukisan/index.md)
 - [十五夜お月さん](shokacho/vol_01/p152_jugoya_otsukisan/index.md)
@@ -1149,6 +1185,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [虹の橋（彩虹橋）](shokacho/vol_07/p239_niji_no_hashi/index.md)
 - [螢の學校（螢火蟲的學校）](shokacho/vol_07/p234_hotaru_no_gakko/index.md)
 - [雀をどり](kyoyusho_shoka_1935/2_20_suzume_odori/index.md)
+
+### 青木存義（1 首）
+
+- [才池ノヒゴヒ](hyojun_shoka_gakushucho/grade_2/03_oike_no_higohi/index.md)
 
 ### 高崎正風（5 首）
 
@@ -1205,17 +1245,17 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [天長節](hyojun_shoka_gakushucho/grade_1/13_tenchosetsu/index.md)
 - [天長節](hyojun_shoka_gakushucho/grade_2/13_tenchosetsu/index.md)
-- [天長節](hyojun_shoka_gakushucho/grade_3/12_tenchosetsu/index.md)
+- [天長節](hyojun_shoka_gakushucho/grade_3/13_tenchosetsu/index.md)
 - [天長節](hyojun_shoka_gakushucho/grade_4/11_tenchosetsu/index.md)
 - [天長節](hyojun_shoka_gakushucho/grade_5/12_tenchosetsu/index.md)
-- [天長節](hyojun_shoka_gakushucho/grade_6/12_tenchosetsu/index.md)
+- [天長節](hyojun_shoka_gakushucho/grade_6/13_tenchosetsu/index.md)
 - [天長節](shokacho/vol_01/p126_tenchosetsu/index.md)
 - [紀元節](hyojun_shoka_gakushucho/grade_1/16_kigensetsu/index.md)
 - [紀元節](hyojun_shoka_gakushucho/grade_2/16_kigensetsu/index.md)
-- [紀元節](hyojun_shoka_gakushucho/grade_3/15_kigensetsu/index.md)
+- [紀元節](hyojun_shoka_gakushucho/grade_3/16_kigensetsu/index.md)
 - [紀元節](hyojun_shoka_gakushucho/grade_4/14_kigensetsu/index.md)
 - [紀元節](hyojun_shoka_gakushucho/grade_5/15_kigensetsu/index.md)
-- [紀元節](hyojun_shoka_gakushucho/grade_6/15_kigensetsu/index.md)
+- [紀元節](hyojun_shoka_gakushucho/grade_6/16_kigensetsu/index.md)
 
 ### （一）文部省讀本、（二）佐々木吉三郎（1 首）
 
@@ -1226,6 +1266,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### Henry Rowley Bishop（Home! Sweet Home! 二部合唱）（1 首）
 
 - [樂しき我家（快樂的我家）](shokacho/vol_02/p102_tanoshiki_wagaya/index.md)
+
+### ツウィッシッヒ（Rudolf Dittrich）（1 首）
+
+- [新高山](hyojun_shoka_gakushucho/grade_6/10_niitakayama/index.md)
 
 ### 一條慎三郎（1 首）
 
@@ -1295,6 +1339,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 山口保治（1 首）
 
 - [日の丸音頭](kyoyusho_shoka_1935/5_19_hinomaru_ondo/index.md)
+
+### 山本壽（1 首）
+
+- [初夏の夜](hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru/index.md)
 
 ### 山本正夫（原載《音楽新潮》大正 14 年 5 月號）（1 首）
 

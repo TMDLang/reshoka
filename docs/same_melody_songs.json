@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1498,
-  "same_melody_different_lyrics_group_count": 20,
+  "total_corpus_songs": 1549,
+  "same_melody_different_lyrics_group_count": 19,
   "groups": [
     {
       "versions": [
@@ -316,45 +316,6 @@
     {
       "versions": [
         {
-          "id": "shoka_kyozai_shu_1923/grade_3_4/01_kisha_to_kisen",
-          "lyrics": "ぽおがちやどんどんどんどんどんどんどんはやいよはやいよきふこうれつしやくろいけむりおはきたててしゆうしゆうしゆうしゆうしゆうしゆうとんねるぬけてはしこえて",
-          "titles": [
-            "汽車と汽船"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/01_kisha_to_kisen",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/01_kisha_to_kisen/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "汽車と汽船",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_01/p146_kisha_to_kisen",
-          "lyrics": "ふんえんしゅうしゅうすいどうあたへてつきょうだいにだんりんせんはなみこうこうこしかじゅうじゅうとうしょぽおがちゃどんどんどんどんはやいよはやいよきふこうれっしゃ",
-          "titles": [
-            "汽車と汽船"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_01/p146_kisha_to_kisen",
-              "md_file": "shokacho/vol_01/p146_kisha_to_kisen/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-              "raw_title": "汽車と汽船",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "007_01_kisha_to_kisen"
-    },
-    {
-      "versions": [
-        {
           "id": "shoka_kyozai_shu_1923/grade_3_4/46_aki_no_kaze",
           "lyrics": "かきのきのえだのさきあかいきのはがひとつかぜになぶられてひらひらとあぶない",
           "titles": [
@@ -389,7 +350,7 @@
           ]
         }
       ],
-      "id": "008_46_aki_no_kaze"
+      "id": "007_46_aki_no_kaze"
     },
     {
       "versions": [
@@ -428,7 +389,7 @@
           ]
         }
       ],
-      "id": "009_47_misora_no_kagami"
+      "id": "008_47_misora_no_kagami"
     },
     {
       "versions": [
@@ -467,7 +428,7 @@
           ]
         }
       ],
-      "id": "010_04_teishaba_no_suzu"
+      "id": "009_04_teishaba_no_suzu"
     },
     {
       "versions": [
@@ -513,7 +474,7 @@
           ]
         }
       ],
-      "id": "011_46_wakare"
+      "id": "010_46_wakare"
     },
     {
       "versions": [
@@ -552,7 +513,7 @@
           ]
         }
       ],
-      "id": "012_11_koronbusu"
+      "id": "011_11_koronbusu"
     },
     {
       "versions": [
@@ -599,7 +560,7 @@
           ]
         }
       ],
-      "id": "013_20_dosokai"
+      "id": "012_20_dosokai"
     },
     {
       "versions": [
@@ -638,7 +599,7 @@
           ]
         }
       ],
-      "id": "014_22_shiki_no_sanpo"
+      "id": "013_22_shiki_no_sanpo"
     },
     {
       "versions": [
@@ -677,7 +638,7 @@
           ]
         }
       ],
-      "id": "015_p106_kanariya"
+      "id": "014_p106_kanariya"
     },
     {
       "versions": [
@@ -723,7 +684,7 @@
           ]
         }
       ],
-      "id": "016_p109_tonbi"
+      "id": "015_p109_tonbi"
     },
     {
       "versions": [
@@ -762,7 +723,7 @@
           ]
         }
       ],
-      "id": "017_p043_yukedomo"
+      "id": "016_p043_yukedomo"
     },
     {
       "versions": [
@@ -808,7 +769,7 @@
           ]
         }
       ],
-      "id": "018_1_2_05_yamato_damashii"
+      "id": "017_1_2_05_yamato_damashii"
     },
     {
       "versions": [
@@ -854,7 +815,7 @@
           ]
         }
       ],
-      "id": "019_4_02_kabin_no_hana"
+      "id": "018_4_02_kabin_no_hana"
     },
     {
       "versions": [
@@ -893,7 +854,7 @@
           ]
         }
       ],
-      "id": "020_2_07_tasukebune"
+      "id": "019_2_07_tasukebune"
     }
   ]
 }

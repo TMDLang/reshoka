@@ -266,7 +266,7 @@ def render_detail_markdown(group: dict, index: int) -> str:
     ]
     for version_index, version in enumerate(group["versions"], 1):
         locations = "<br>".join(
-            f"**{occurrence['book_label']}**：[〈{occurrence['raw_title']}〉]({occurrence['md_file']})"
+            f"**{occurrence['book_label']}**：[〈{occurrence['raw_title']}〉](../{occurrence['md_file']})"
             for occurrence in version["occurrences"]
         )
         title = "／".join(version["titles"])

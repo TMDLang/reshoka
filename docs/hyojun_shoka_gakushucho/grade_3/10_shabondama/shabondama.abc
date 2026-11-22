@@ -1,0 +1,20 @@
+X:1
+T:しやぼんだま
+M:2/4
+L:1/16
+Q:1/4=92
+K:F
+V:V1 name="Vocal" snm="Voc"
+[V:V1]
+!mf! F4 F4 | F4 F4 | F2 G2 A4 | A2 B2 c2 A2 |
+w: フ ウ | フ ウ | フ ケ バ | フ ク ラ ン
+F6 z2 | !p! c2 A2 c2 A2 | c2 A2 F4 | c2 c2 c2 c2 |
+w: デ | キ ラ キ ラ | ヒ カ ル | シ ヤ ボ ン
+c6 z2 | !mf! C D E F G A B c | d c B A G F E F | !p! G G G G G G G G |
+w: ダ | フ ケ バ フ ク ホ ド ー | フ ク ラ ム ガ ー ー ー | ア ン マ リ フ ク ト ー
+G2 E2 G2 E2 | !mf! G2 A2 B2 c2 | d2 d2 d4 | !p! c2 A2 F2 D2 |
+w: ピ リ ピ リ | ト フ ル ヘ | テ バ ッ | ト ヤ ブ レ
+C6 z2 | !mf! C D E F G A B c | d c B A G2 C2 | !p! F2 F2 F2 F2 |
+w: ル | ウ ッ ツ テ ヲ ッ タ ー | カ ホ マ デ ガ ー | ヤ ブ レ テ
+!mf! G2 G2 G4 | c4 d2 c2 | B2 A2 G2 F2 |]
+w: ポ テ リ | ヒ ト ー | シ ヅ ー ク

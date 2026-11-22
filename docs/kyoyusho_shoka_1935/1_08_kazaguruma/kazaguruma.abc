@@ -6,7 +6,11 @@ Q:1/4=112
 K:F
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-A4 c2 c2 | A3 c A2 G2 | F2 F2 G2 G2 | A6 z2 |
+A4 c2 c2 | A3 c A2 G2 | F2 F2 G2 G2 | A4 z4 |
 w: カ ゼ ニ | ク ル ク ル | カ ザ グ ル | マ
-c4 d2 d2 | c3 d c2 A2 | G2 G2 A2 G2 | F6 z2 |]
+c4 d2 d2 | c3 d c2 A2 | G2 G2 A2 G2 | F4 z4 |
 w: ミ ヅ ニ | グ ル グ ル | ミ ヅ グ ル | マ
+d4 d2 d2 | c2 c2 c4 | G4 G2 G2 | F2 G2 A2 z2 |
+w: 一 ペ ン | ニ ヘ ン | 三 ベ ン | 四 ヘ ン
+c2 d2 c2 B2 | A2 G2 c4 | G6 F2 | F4 z4 |]
+w: ク ル ク ル | マ ハ リ | マ _ | ス
