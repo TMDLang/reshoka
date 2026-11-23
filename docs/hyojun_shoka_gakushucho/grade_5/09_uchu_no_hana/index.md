@@ -1,13 +1,13 @@
 ---
-title: "雨中の花 — hyojun_shoka_gakushucho 第五學年用"
+title: "雨中の花 — 《標準唱歌學習帖》 第五學年 兒童用"
 song_title: "雨中の花"
 song_id: "hyojun_shoka_gakushucho_grade_5_09_uchu_no_hana"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_5"
-description: "〈雨中の花〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第五學年用（國臺圖 523.37 4322-4）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ちらく／＼、草葉の上に、 音なく落つるは、霰か雪か。…"
-keywords: "雨中の花, hyojun_shoka_gakushucho, 第五學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈雨中の花〉收錄於日治時期臺灣《標準唱歌學習帖》（第五學年 兒童用（國臺圖 0729 47）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ちらく／＼、草葉の上に、 音なく落つるは、霰か雪か。…"
+keywords: "雨中の花, 標準唱歌學習帖, 第五學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第五學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第五學年 兒童用（國臺圖 0729 47）"
 sources:
   - "統合女學唱歌"
 musical_key: "G"
@@ -126,8 +126,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![雨中の花 — hyojun_shoka_gakushucho 第五學年用 原書掃描頁 P024.jpg](P024.jpg)
+![雨中の花 — 《標準唱歌學習帖》 第五學年 兒童用 原書掃描頁 P024.jpg](P024.jpg)
 
-![雨中の花 — hyojun_shoka_gakushucho 第五學年用 原書掃描頁 P025.jpg](P025.jpg)
+![雨中の花 — 《標準唱歌學習帖》 第五學年 兒童用 原書掃描頁 P025.jpg](P025.jpg)
 
 

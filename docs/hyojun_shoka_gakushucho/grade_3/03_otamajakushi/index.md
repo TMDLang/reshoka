@@ -1,13 +1,13 @@
 ---
-title: "お玉じやくし — hyojun_shoka_gakushucho 第三學年用"
+title: "お玉じやくし — 《標準唱歌學習帖》 第三學年 兒童用"
 song_title: "お玉じやくし"
 song_id: "hyojun_shoka_gakushucho_grade_3_03_otamajakushi"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_3"
-description: "〈お玉じやくし〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第三學年用（臺史博 2020.006.0855）），調號拍號：D 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：お玉じやくしは　眞黑で、 頭がまるく　尾が長く、…"
-keywords: "お玉じやくし, hyojun_shoka_gakushucho, 第三學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈お玉じやくし〉收錄於日治時期臺灣《標準唱歌學習帖》（第三學年 兒童用（國臺圖 0729 47）），調號拍號：D 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：お玉じやくしは　眞黑で、 頭がまるく　尾が長く、…"
+keywords: "お玉じやくし, 標準唱歌學習帖, 第三學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）"
+is_part_of: "《標準唱歌學習帖》 第三學年 兒童用（國臺圖 0729 47）"
 sources:
   - "新作唱歌"
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第三學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
@@ -128,8 +128,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![お玉じやくし — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P010.jpg](P010.jpg)
+![お玉じやくし — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P010.jpg](P010.jpg)
 
-![お玉じやくし — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P011.jpg](P011.jpg)
+![お玉じやくし — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P011.jpg](P011.jpg)
 
 

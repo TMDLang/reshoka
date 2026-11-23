@@ -1,13 +1,13 @@
 ---
-title: "那須與一 — hyojun_shoka_gakushucho 第三學年用"
+title: "那須與一 — 《標準唱歌學習帖》 第三學年 兒童用"
 song_title: "那須與一"
 song_id: "hyojun_shoka_gakushucho_grade_3_11_nasu_no_yoichi"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_3"
-description: "〈那須與一〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第三學年用（臺史博 2020.006.0855））（詞：葛原しげる、曲：小松耕輔），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ゆらり／＼と　波間の船の、 竿の先なる　扇の的よ。…"
-keywords: "那須與一, hyojun_shoka_gakushucho, 第三學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 小松耕輔"
+description: "〈那須與一〉收錄於日治時期臺灣《標準唱歌學習帖》（第三學年 兒童用（國臺圖 0729 47））（詞：葛原しげる、曲：小松耕輔），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ゆらり／＼と　波間の船の、 竿の先なる　扇の的よ。…"
+keywords: "那須與一, 標準唱歌學習帖, 第三學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 小松耕輔"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）"
+is_part_of: "《標準唱歌學習帖》 第三學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：葛原しげる"
   - "曲：小松耕輔"
@@ -145,8 +145,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![那須與一 — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P026.jpg](P026.jpg)
+![那須與一 — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P026.jpg](P026.jpg)
 
-![那須與一 — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P027.jpg](P027.jpg)
+![那須與一 — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P027.jpg](P027.jpg)
 
 

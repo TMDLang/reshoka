@@ -1,13 +1,13 @@
 ---
-title: "初夏の夜 — hyojun_shoka_gakushucho 第四學年用"
+title: "初夏の夜 — 《標準唱歌學習帖》 第四學年 兒童用"
 song_title: "初夏の夜"
 song_id: "hyojun_shoka_gakushucho_grade_4_03_shoka_no_yoru"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_4"
-description: "〈初夏の夜〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第四學年用（國臺圖 0729 73））（作詞：尋常小學國語讀本卷七所載、作曲：山本壽），調號拍號：Bb 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：なはてづたひに　來る風も 若葉のにほひ　かんばしく、…"
-keywords: "初夏の夜, hyojun_shoka_gakushucho, 第四學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 尋常小學國語讀本卷七所載, 山本壽"
+description: "〈初夏の夜〉收錄於日治時期臺灣《標準唱歌學習帖》（第四學年 兒童用（國臺圖 0729 47））（作詞：尋常小學國語讀本卷七所載、作曲：山本壽），調號拍號：Bb 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：なはてづたひに　來る風も 若葉のにほひ　かんばしく、…"
+keywords: "初夏の夜, 標準唱歌學習帖, 第四學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 尋常小學國語讀本卷七所載, 山本壽"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）"
+is_part_of: "《標準唱歌學習帖》 第四學年 兒童用（國臺圖 0729 47）"
 credits:
   - "作詞：尋常小學國語讀本卷七所載"
   - "作曲：山本壽"
@@ -129,8 +129,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![初夏の夜 — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P010.jpg](P010.jpg)
+![初夏の夜 — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P010.jpg](P010.jpg)
 
-![初夏の夜 — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P011.jpg](P011.jpg)
+![初夏の夜 — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P011.jpg](P011.jpg)
 
 

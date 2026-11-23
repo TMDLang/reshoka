@@ -1,13 +1,13 @@
 ---
-title: "春が來た — hyojun_shoka_gakushucho 第三學年用"
+title: "春が來た — 《標準唱歌學習帖》 第三學年 兒童用"
 song_title: "春が來た"
 song_id: "hyojun_shoka_gakushucho_grade_3_01_haru_ga_kita"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_3"
-description: "〈春が來た〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第三學年用（臺史博 2020.006.0855））（詞：高野辰之、曲：岡野貞一），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、春（はる）が來（き）た、春（はる）が來（き）た、何處（どこ）に來（き）た。 山（やま）に來（き）た、里（さと）に來（…"
-keywords: "春が來た, hyojun_shoka_gakushucho, 第三學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 高野辰之, 岡野貞一"
+description: "〈春が來た〉收錄於日治時期臺灣《標準唱歌學習帖》（第三學年 兒童用（國臺圖 0729 47））（詞：高野辰之、曲：岡野貞一），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、春（はる）が來（き）た、春（はる）が來（き）た、何處（どこ）に來（き）た。 山（やま）に來（き）た、里（さと）に來（…"
+keywords: "春が來た, 標準唱歌學習帖, 第三學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 高野辰之, 岡野貞一"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）"
+is_part_of: "《標準唱歌學習帖》 第三學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：高野辰之"
   - "曲：岡野貞一"
@@ -128,8 +128,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![春が來た — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P006.jpg](P006.jpg)
+![春が來た — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P006.jpg](P006.jpg)
 
-![春が來た — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P007.jpg](P007.jpg)
+![春が來た — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P007.jpg](P007.jpg)
 
 

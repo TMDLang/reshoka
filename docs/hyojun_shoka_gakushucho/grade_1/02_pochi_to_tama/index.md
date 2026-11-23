@@ -1,13 +1,13 @@
 ---
-title: "ポチ ト タマ — hyojun_shoka_gakushucho 第一學年用"
+title: "ポチ ト タマ — 《標準唱歌學習帖》 第一學年 兒童用"
 song_title: "ポチ ト タマ"
 song_id: "hyojun_shoka_gakushucho_grade_1_02_pochi_to_tama"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_1"
-description: "〈ポチ ト タマ〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第一學年用（國臺圖 0729 73）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：コノコハ　ポチト　マウシマス、 チンチン　オアヅケ　ミナジヤウズ。…"
-keywords: "ポチ ト タマ, hyojun_shoka_gakushucho, 第一學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈ポチ ト タマ〉收錄於日治時期臺灣《標準唱歌學習帖》（第一學年 兒童用（國臺圖 0729 47）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：コノコハ　ポチト　マウシマス、 チンチン　オアヅケ　ミナジヤウズ。…"
+keywords: "ポチ ト タマ, 標準唱歌學習帖, 第一學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）"
+is_part_of: "《標準唱歌學習帖》 第一學年 兒童用（國臺圖 0729 47）"
 sources:
   - "教科統合小學唱歌"
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第一學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
@@ -126,8 +126,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![ポチ ト タマ — hyojun_shoka_gakushucho 第一學年用 原書掃描頁 P008.jpg](P008.jpg)
+![ポチ ト タマ — 《標準唱歌學習帖》 第一學年 兒童用 原書掃描頁 P008.jpg](P008.jpg)
 
-![ポチ ト タマ — hyojun_shoka_gakushucho 第一學年用 原書掃描頁 P009.jpg](P009.jpg)
+![ポチ ト タマ — 《標準唱歌學習帖》 第一學年 兒童用 原書掃描頁 P009.jpg](P009.jpg)
 
 

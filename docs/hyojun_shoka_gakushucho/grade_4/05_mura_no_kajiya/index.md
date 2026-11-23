@@ -1,13 +1,13 @@
 ---
-title: "村の鍛冶屋 — hyojun_shoka_gakushucho 第四學年用"
+title: "村の鍛冶屋 — 《標準唱歌學習帖》 第四學年 兒童用"
 song_title: "村の鍛冶屋"
 song_id: "hyojun_shoka_gakushucho_grade_4_05_mura_no_kajiya"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_4"
-description: "〈村の鍛冶屋〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第四學年用（國臺圖 0729 73）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：暫時（しばし）もやまずに　槌（つち）うつ響（ひゞき）。 飛び散る火の花　はしる湯玉。…"
-keywords: "村の鍛冶屋, hyojun_shoka_gakushucho, 第四學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈村の鍛冶屋〉收錄於日治時期臺灣《標準唱歌學習帖》（第四學年 兒童用（國臺圖 0729 47）），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：暫時（しばし）もやまずに　槌（つち）うつ響（ひゞき）。 飛び散る火の花　はしる湯玉。…"
+keywords: "村の鍛冶屋, 標準唱歌學習帖, 第四學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）"
+is_part_of: "《標準唱歌學習帖》 第四學年 兒童用（國臺圖 0729 47）"
 sources:
   - "文部省唱歌"
   - "臺灣總督府《標準唱歌學習帖 第四學年 兒童用》（昭和二年十一月）"
@@ -140,8 +140,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![村の鍛冶屋 — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P014.jpg](P014.jpg)
+![村の鍛冶屋 — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P014.jpg](P014.jpg)
 
-![村の鍛冶屋 — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P015.jpg](P015.jpg)
+![村の鍛冶屋 — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P015.jpg](P015.jpg)
 
 

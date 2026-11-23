@@ -1,13 +1,13 @@
 ---
-title: "シヤボン玉 — hyojun_shoka_gakushucho 第二學年用"
+title: "シヤボン玉 — 《標準唱歌學習帖》 第二學年 兒童用"
 song_title: "シヤボン玉"
 song_id: "hyojun_shoka_gakushucho_grade_2_07_shabondama"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_2"
-description: "〈シヤボン玉〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第二學年用（國臺圖 523.37 4322-4））（詞：野口雨情、曲：中山晉平），調號拍號：Eb 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤボン玉　トンダ。 ヤネマデ　トンダ。…"
-keywords: "シヤボン玉, hyojun_shoka_gakushucho, 第二學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 野口雨情, 中山晉平"
+description: "〈シヤボン玉〉收錄於日治時期臺灣《標準唱歌學習帖》（第二學年 兒童用（國臺圖 0729 47））（詞：野口雨情、曲：中山晉平），調號拍號：Eb 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：シヤボン玉　トンダ。 ヤネマデ　トンダ。…"
+keywords: "シヤボン玉, 標準唱歌學習帖, 第二學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 野口雨情, 中山晉平"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第二學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：野口雨情"
   - "曲：中山晉平"
@@ -134,8 +134,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![シヤボン玉 — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P018.jpg](P018.jpg)
+![シヤボン玉 — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P018.jpg](P018.jpg)
 
-![シヤボン玉 — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P019.jpg](P019.jpg)
+![シヤボン玉 — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P019.jpg](P019.jpg)
 
 

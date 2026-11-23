@@ -1,13 +1,13 @@
 ---
-title: "雨上り — hyojun_shoka_gakushucho 第六學年用"
+title: "雨上り — 《標準唱歌學習帖》 第六學年 兒童用"
 song_title: "雨上り"
 song_id: "hyojun_shoka_gakushucho_grade_6_03_ameagari"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_6"
-description: "〈雨上り〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第六學年用（國臺圖 523.37 4322-4）），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：虹の影も　消えぬ空に、早くも、 高く歌ふ　聲は雲雀、そここゝに。…"
-keywords: "雨上り, hyojun_shoka_gakushucho, 第六學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈雨上り〉收錄於日治時期臺灣《標準唱歌學習帖》（第六學年 兒童用（國臺圖 0729 47）），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：虹の影も　消えぬ空に、早くも、 高く歌ふ　聲は雲雀、そここゝに。…"
+keywords: "雨上り, 標準唱歌學習帖, 第六學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第六學年 兒童用（國臺圖 0729 47）"
 sources:
   - "小學唱歌五十曲集"
   - "臺灣總督府《標準唱歌學習帖 第六學年 兒童用》（昭和二年十一月）"
@@ -130,8 +130,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![雨上り — hyojun_shoka_gakushucho 第六學年用 原書掃描頁 P010.jpg](P010.jpg)
+![雨上り — 《標準唱歌學習帖》 第六學年 兒童用 原書掃描頁 P010.jpg](P010.jpg)
 
-![雨上り — hyojun_shoka_gakushucho 第六學年用 原書掃描頁 P011.jpg](P011.jpg)
+![雨上り — 《標準唱歌學習帖》 第六學年 兒童用 原書掃描頁 P011.jpg](P011.jpg)
 
 

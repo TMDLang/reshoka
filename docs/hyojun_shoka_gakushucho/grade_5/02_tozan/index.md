@@ -1,13 +1,13 @@
 ---
-title: "登山 — hyojun_shoka_gakushucho 第五學年用"
+title: "登山 — 《標準唱歌學習帖》 第五學年 兒童用"
 song_title: "登山"
 song_id: "hyojun_shoka_gakushucho_grade_5_02_tozan"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_5"
-description: "〈登山〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第五學年用（國臺圖 523.37 4322-4）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：我等が前に　そばだつ山は、 いかにけはしく　高くとも、…"
-keywords: "登山, hyojun_shoka_gakushucho, 第五學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈登山〉收錄於日治時期臺灣《標準唱歌學習帖》（第五學年 兒童用（國臺圖 0729 47）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：我等が前に　そばだつ山は、 いかにけはしく　高くとも、…"
+keywords: "登山, 標準唱歌學習帖, 第五學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第五學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第五學年 兒童用（國臺圖 0729 47）"
 sources:
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第五學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
 musical_key: "G"
@@ -131,8 +131,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![登山 — hyojun_shoka_gakushucho 第五學年用 原書掃描頁 P008.jpg](P008.jpg)
+![登山 — 《標準唱歌學習帖》 第五學年 兒童用 原書掃描頁 P008.jpg](P008.jpg)
 
-![登山 — hyojun_shoka_gakushucho 第五學年用 原書掃描頁 P009.jpg](P009.jpg)
+![登山 — 《標準唱歌學習帖》 第五學年 兒童用 原書掃描頁 P009.jpg](P009.jpg)
 
 

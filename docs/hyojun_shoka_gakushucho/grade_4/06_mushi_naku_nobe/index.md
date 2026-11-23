@@ -1,13 +1,13 @@
 ---
-title: "蟲なく野邊 — hyojun_shoka_gakushucho 第四學年用"
+title: "蟲なく野邊 — 《標準唱歌學習帖》 第四學年 兒童用"
 song_title: "蟲なく野邊"
 song_id: "hyojun_shoka_gakushucho_grade_4_06_mushi_naku_nobe"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_4"
-description: "〈蟲なく野邊〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第四學年用（國臺圖 0729 73）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：リンゝゝ　月照る野に、 リンゝゝ　蟲はなく。…"
-keywords: "蟲なく野邊, hyojun_shoka_gakushucho, 第四學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈蟲なく野邊〉收錄於日治時期臺灣《標準唱歌學習帖》（第四學年 兒童用（國臺圖 0729 47）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：リンゝゝ　月照る野に、 リンゝゝ　蟲はなく。…"
+keywords: "蟲なく野邊, 標準唱歌學習帖, 第四學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）"
+is_part_of: "《標準唱歌學習帖》 第四學年 兒童用（國臺圖 0729 47）"
 sources:
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第四學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
 musical_key: "G"
@@ -124,8 +124,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![蟲なく野邊 — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P016.jpg](P016.jpg)
+![蟲なく野邊 — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P016.jpg](P016.jpg)
 
-![蟲なく野邊 — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P017.jpg](P017.jpg)
+![蟲なく野邊 — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P017.jpg](P017.jpg)
 
 

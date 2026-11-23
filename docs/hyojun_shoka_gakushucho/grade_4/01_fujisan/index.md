@@ -1,13 +1,13 @@
 ---
-title: "富士山 — hyojun_shoka_gakushucho 第四學年用"
+title: "富士山 — 《標準唱歌學習帖》 第四學年 兒童用"
 song_title: "富士山"
 song_id: "hyojun_shoka_gakushucho_grade_4_01_fujisan"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_4"
-description: "〈富士山〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第四學年用（國臺圖 0729 73）），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、あたまを雲（くも）の上（うへ）に出（だ）し、 四方（しはう）の山（やま）を見（み）おろして、…"
-keywords: "富士山, hyojun_shoka_gakushucho, 第四學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈富士山〉收錄於日治時期臺灣《標準唱歌學習帖》（第四學年 兒童用（國臺圖 0729 47）），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、あたまを雲（くも）の上（うへ）に出（だ）し、 四方（しはう）の山（やま）を見（み）おろして、…"
+keywords: "富士山, 標準唱歌學習帖, 第四學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）"
+is_part_of: "《標準唱歌學習帖》 第四學年 兒童用（國臺圖 0729 47）"
 sources:
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第四學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
 musical_key: "D"
@@ -123,8 +123,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![富士山 — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P006.jpg](P006.jpg)
+![富士山 — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P006.jpg](P006.jpg)
 
-![富士山 — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P007.jpg](P007.jpg)
+![富士山 — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P007.jpg](P007.jpg)
 
 

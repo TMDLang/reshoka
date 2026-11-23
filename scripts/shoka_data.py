@@ -75,6 +75,7 @@ COLLECTION_LABELS: dict[str, str] = {
     "utanohon": "《うたのほん》（唱歌課本）",
     "kyoeki_shoka": "《共益商社唱歌教科書》",
     "shokacho": "《楊金土手抄唱歌帖》",
+    "hyojun_shoka_gakushucho": "《標準唱歌學習帖》",
 }
 
 VOLUME_LABELS: dict[str, str] = {
@@ -120,6 +121,15 @@ VOLUME_LABELS: dict[str, str] = {
     "vol_08": "唱歌帖・第 8 冊（VIII・蓬萊唱歌集下）",
     "vol_09": "唱歌帖・第 9 冊（IX・支那曲）",
     "vol_10": "唱歌帖・第 10 冊（X）",
+}
+
+COLLECTION_VOLUME_LABELS: dict[tuple[str, str], str] = {
+    ("hyojun_shoka_gakushucho", "grade_1"): "標準唱歌學習帖・第一學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_2"): "標準唱歌學習帖・第二學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_3"): "標準唱歌學習帖・第三學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_4"): "標準唱歌學習帖・第四學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_5"): "標準唱歌學習帖・第五學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_6"): "標準唱歌學習帖・第六學年 兒童用",
 }
 
 TITLE_RE = re.compile(r"^\s*\*\*\s*(.*?)\s*\*\*\s*$")
@@ -397,7 +407,7 @@ def load_all_songs(
                 collection=col_name,
                 collection_label=COLLECTION_LABELS.get(col_name, col_name),
                 volume=volume,
-                volume_label=VOLUME_LABELS.get(volume, volume),
+                volume_label=COLLECTION_VOLUME_LABELS.get((col_name, volume)) or VOLUME_LABELS.get(volume, volume),
                 folder_name=folder.name,
                 semester=classify_semester(col_name, volume, folder.name),
                 title=title,

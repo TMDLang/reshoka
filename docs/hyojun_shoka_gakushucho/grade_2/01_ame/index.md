@@ -1,13 +1,13 @@
 ---
-title: "雨 — hyojun_shoka_gakushucho 第二學年用"
+title: "雨 — 《標準唱歌學習帖》 第二學年 兒童用"
 song_title: "雨"
 song_id: "hyojun_shoka_gakushucho_grade_2_01_ame"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_2"
-description: "〈雨〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第二學年用（國臺圖 523.37 4322-4））（詞：文部省尋常小學唱歌、曲：文部省尋常小學唱歌），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：フレフレ雨ヨ　ミヤコノ雨ヨ。 ウマヤ　クルマ　ノ　ワウライ　タエヌ…"
-keywords: "雨, hyojun_shoka_gakushucho, 第二學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省尋常小學唱歌"
+description: "〈雨〉收錄於日治時期臺灣《標準唱歌學習帖》（第二學年 兒童用（國臺圖 0729 47））（詞：文部省尋常小學唱歌、曲：文部省尋常小學唱歌），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：フレフレ雨ヨ　ミヤコノ雨ヨ。 ウマヤ　クルマ　ノ　ワウライ　タエヌ…"
+keywords: "雨, 標準唱歌學習帖, 第二學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省尋常小學唱歌"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第二學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：文部省尋常小學唱歌"
   - "曲：文部省尋常小學唱歌"
@@ -129,8 +129,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![雨 — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P006.jpg](P006.jpg)
+![雨 — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P006.jpg](P006.jpg)
 
-![雨 — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P007.jpg](P007.jpg)
+![雨 — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P007.jpg](P007.jpg)
 
 

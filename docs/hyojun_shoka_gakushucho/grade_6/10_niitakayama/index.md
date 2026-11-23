@@ -1,13 +1,13 @@
 ---
-title: "新高山 — hyojun_shoka_gakushucho 第六學年用"
+title: "新高山 — 《標準唱歌學習帖》 第六學年 兒童用"
 song_title: "新高山"
 song_id: "hyojun_shoka_gakushucho_grade_6_10_niitakayama"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_6"
-description: "〈新高山〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第六學年用（國臺圖 523.37 4322-4））（作曲：ツウィッシッヒ（Rudolf Dittrich）），調號拍號：C 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：新（あらた）に君に　まつろひ來にし 遠き島のみ中に、…"
-keywords: "新高山, hyojun_shoka_gakushucho, 第六學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈新高山〉收錄於日治時期臺灣《標準唱歌學習帖》（第六學年 兒童用（國臺圖 0729 47））（作曲：ツウィッシッヒ（Rudolf Dittrich）），調號拍號：C 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：新（あらた）に君に　まつろひ來にし 遠き島のみ中に、…"
+keywords: "新高山, 標準唱歌學習帖, 第六學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第六學年 兒童用（國臺圖 0729 47）"
 credits:
   - "作曲：ツウィッシッヒ（Rudolf Dittrich）"
 sources:
@@ -134,8 +134,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![新高山 — hyojun_shoka_gakushucho 第六學年用 原書掃描頁 P024.jpg](P024.jpg)
+![新高山 — 《標準唱歌學習帖》 第六學年 兒童用 原書掃描頁 P024.jpg](P024.jpg)
 
-![新高山 — hyojun_shoka_gakushucho 第六學年用 原書掃描頁 P025.jpg](P025.jpg)
+![新高山 — 《標準唱歌學習帖》 第六學年 兒童用 原書掃描頁 P025.jpg](P025.jpg)
 
 

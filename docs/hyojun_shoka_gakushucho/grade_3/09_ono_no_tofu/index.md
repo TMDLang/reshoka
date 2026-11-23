@@ -1,13 +1,13 @@
 ---
-title: "小野道風 — hyojun_shoka_gakushucho 第三學年用"
+title: "小野道風 — 《標準唱歌學習帖》 第三學年 兒童用"
 song_title: "小野道風"
 song_id: "hyojun_shoka_gakushucho_grade_3_09_ono_no_tofu"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_3"
-description: "〈小野道風〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第三學年用（臺史博 2020.006.0855）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 四段の第一小節のはぢめに四分休止符が落ちてゐます。 2. 第三段休止の間には第二段トピツクトピツクナンベントピツク…"
-keywords: "小野道風, hyojun_shoka_gakushucho, 第三學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈小野道風〉收錄於日治時期臺灣《標準唱歌學習帖》（第三學年 兒童用（國臺圖 0729 47）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：1. 四段の第一小節のはぢめに四分休止符が落ちてゐます。 2. 第三段休止の間には第二段トピツクトピツクナンベントピツク…"
+keywords: "小野道風, 標準唱歌學習帖, 第三學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）"
+is_part_of: "《標準唱歌學習帖》 第三學年 兒童用（國臺圖 0729 47）"
 sources:
   - "唱歌新教材"
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第三學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
@@ -128,8 +128,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![小野道風 — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P022.jpg](P022.jpg)
+![小野道風 — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P022.jpg](P022.jpg)
 
-![小野道風 — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P023.jpg](P023.jpg)
+![小野道風 — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P023.jpg](P023.jpg)
 
 

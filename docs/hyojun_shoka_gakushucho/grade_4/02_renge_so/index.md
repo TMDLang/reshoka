@@ -1,13 +1,13 @@
 ---
-title: "れんげさう — hyojun_shoka_gakushucho 第四學年用"
+title: "れんげさう — 《標準唱歌學習帖》 第四學年 兒童用"
 song_title: "れんげさう"
 song_id: "hyojun_shoka_gakushucho_grade_4_02_renge_so"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_4"
-description: "〈れんげさう〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第四學年用（國臺圖 0729 73））（詞：三木露風、曲：山田耕筰），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：今はれんげの　花盛り 田にも畑にも　一面に…"
-keywords: "れんげさう, hyojun_shoka_gakushucho, 第四學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風, 山田耕筰"
+description: "〈れんげさう〉收錄於日治時期臺灣《標準唱歌學習帖》（第四學年 兒童用（國臺圖 0729 47））（詞：三木露風、曲：山田耕筰），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：今はれんげの　花盛り 田にも畑にも　一面に…"
+keywords: "れんげさう, 標準唱歌學習帖, 第四學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風, 山田耕筰"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第四學年用（國臺圖 0729 73）"
+is_part_of: "《標準唱歌學習帖》 第四學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：三木露風"
   - "曲：山田耕筰"
@@ -131,8 +131,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![れんげさう — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P008.jpg](P008.jpg)
+![れんげさう — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P008.jpg](P008.jpg)
 
-![れんげさう — hyojun_shoka_gakushucho 第四學年用 原書掃描頁 P009.jpg](P009.jpg)
+![れんげさう — 《標準唱歌學習帖》 第四學年 兒童用 原書掃描頁 P009.jpg](P009.jpg)
 
 

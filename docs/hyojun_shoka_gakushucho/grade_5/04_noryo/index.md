@@ -1,13 +1,13 @@
 ---
-title: "納涼 — hyojun_shoka_gakushucho 第五學年用"
+title: "納涼 — 《標準唱歌學習帖》 第五學年 兒童用"
 song_title: "納涼"
 song_id: "hyojun_shoka_gakushucho_grade_5_04_noryo"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_5"
-description: "〈納涼〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第五學年用（國臺圖 523.37 4322-4）），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一日の汗を湯浴に流し、 夕顏棚の下蔭占めて、…"
-keywords: "納涼, hyojun_shoka_gakushucho, 第五學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈納涼〉收錄於日治時期臺灣《標準唱歌學習帖》（第五學年 兒童用（國臺圖 0729 47）），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一日の汗を湯浴に流し、 夕顏棚の下蔭占めて、…"
+keywords: "納涼, 標準唱歌學習帖, 第五學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第五學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第五學年 兒童用（國臺圖 0729 47）"
 sources:
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第五學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
 musical_key: "A"
@@ -134,8 +134,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![納涼 — hyojun_shoka_gakushucho 第五學年用 原書掃描頁 P012.jpg](P012.jpg)
+![納涼 — 《標準唱歌學習帖》 第五學年 兒童用 原書掃描頁 P012.jpg](P012.jpg)
 
-![納涼 — hyojun_shoka_gakushucho 第五學年用 原書掃描頁 P013.jpg](P013.jpg)
+![納涼 — 《標準唱歌學習帖》 第五學年 兒童用 原書掃描頁 P013.jpg](P013.jpg)
 
 

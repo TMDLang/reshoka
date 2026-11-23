@@ -1,13 +1,13 @@
 ---
-title: "天長節 — hyojun_shoka_gakushucho 第二學年用"
+title: "天長節 — 《標準唱歌學習帖》 第二學年 兒童用"
 song_title: "天長節"
 song_id: "hyojun_shoka_gakushucho_grade_2_13_tenchosetsu"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_2"
-description: "〈天長節〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第二學年用（國臺圖 523.37 4322-4））（詞：黒川真頼、曲：奥好義），調號拍號：D 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、今日（けふ）の吉（よ）き日（ひ）は　大君（おほぎみ）の 生（う）まれ給（たま）ひし　吉（よ）き日（ひ）なり…"
-keywords: "天長節, hyojun_shoka_gakushucho, 第二學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 黒川真頼, 奥好義"
+description: "〈天長節〉收錄於日治時期臺灣《標準唱歌學習帖》（第二學年 兒童用（國臺圖 0729 47））（詞：黒川真頼、曲：奥好義），調號拍號：D 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、今日（けふ）の吉（よ）き日（ひ）は　大君（おほぎみ）の 生（う）まれ給（たま）ひし　吉（よ）き日（ひ）なり…"
+keywords: "天長節, 標準唱歌學習帖, 第二學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 黒川真頼, 奥好義"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第二學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：黒川真頼"
   - "曲：奥好義"
@@ -127,8 +127,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![天長節 — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P030.jpg](P030.jpg)
+![天長節 — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P030.jpg](P030.jpg)
 
-![天長節 — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P031.jpg](P031.jpg)
+![天長節 — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P031.jpg](P031.jpg)
 
 

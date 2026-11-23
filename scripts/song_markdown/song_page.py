@@ -15,6 +15,8 @@ from .catalog import (
     DUPLICATE_INDEX_MD,
     VOLUME_NAV_TITLES,
     VOLUME_TITLES,
+    get_volume_nav_title,
+    get_volume_title,
     resolve_col_and_vol,
 )
 from .tmd_parser import extract_notes_and_lyrics, parse_metadata
@@ -281,8 +283,8 @@ def generate_song_folder(
 
     col_name, vol_name = resolve_col_and_vol(folder)
     col_title = COLLECTION_TITLES.get(col_name, col_name)
-    vol_title = VOLUME_TITLES.get(vol_name, vol_name)
-    vol_nav_title = VOLUME_NAV_TITLES.get(vol_name, vol_name)
+    vol_title = get_volume_title(col_name, vol_name)
+    vol_nav_title = get_volume_nav_title(col_name, vol_name)
 
     images = find_scanned_images(folder)
     images_section = ""

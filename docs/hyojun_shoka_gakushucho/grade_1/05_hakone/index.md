@@ -1,13 +1,13 @@
 ---
-title: "箱庭 — hyojun_shoka_gakushucho 第一學年用"
+title: "箱庭 — 《標準唱歌學習帖》 第一學年 兒童用"
 song_title: "箱庭"
 song_id: "hyojun_shoka_gakushucho_grade_1_05_hakone"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_1"
-description: "〈箱庭〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第一學年用（國臺圖 0729 73））（詞：大正幼年唱歌、曲：小松耕輔），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タカイトコロハ　ヤマデスヨ。 ヒクイトコロハ　カハデスヨ。…"
-keywords: "箱庭, hyojun_shoka_gakushucho, 第一學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大正幼年唱歌, 小松耕輔"
+description: "〈箱庭〉收錄於日治時期臺灣《標準唱歌學習帖》（第一學年 兒童用（國臺圖 0729 47））（詞：大正幼年唱歌、曲：小松耕輔），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：タカイトコロハ　ヤマデスヨ。 ヒクイトコロハ　カハデスヨ。…"
+keywords: "箱庭, 標準唱歌學習帖, 第一學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大正幼年唱歌, 小松耕輔"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第一學年用（國臺圖 0729 73）"
+is_part_of: "《標準唱歌學習帖》 第一學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：大正幼年唱歌"
   - "曲：小松耕輔"
@@ -129,8 +129,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![箱庭 — hyojun_shoka_gakushucho 第一學年用 原書掃描頁 P014.jpg](P014.jpg)
+![箱庭 — 《標準唱歌學習帖》 第一學年 兒童用 原書掃描頁 P014.jpg](P014.jpg)
 
-![箱庭 — hyojun_shoka_gakushucho 第一學年用 原書掃描頁 P015.jpg](P015.jpg)
+![箱庭 — 《標準唱歌學習帖》 第一學年 兒童用 原書掃描頁 P015.jpg](P015.jpg)
 
 

@@ -19,6 +19,7 @@ from .catalog import (
     VOLUME_SEO_TEMPLATES,
     VOLUME_TITLES,
     classify_song_section,
+    get_volume_title,
     resolve_col_and_vol,
 )
 from .tmd_parser import parse_metadata
@@ -50,7 +51,7 @@ def generate_book_info_folder(folder: Path) -> Path:
     folder = folder.resolve()
     col_name, vol_name = resolve_col_and_vol(folder)
     col_title = COLLECTION_TITLES.get(col_name, col_name)
-    vol_title = VOLUME_TITLES.get(vol_name, vol_name)
+    vol_title = get_volume_title(col_name, vol_name)
 
     images = find_scanned_images(folder)
     descriptions = BOOK_INFO_IMAGE_DESCRIPTIONS.get(vol_name, {})
@@ -172,7 +173,7 @@ def generate_volume_index(vol_dir: Path) -> Path:
     vol_dir = vol_dir.resolve()
     col_name, vol_name = resolve_col_and_vol(vol_dir)
     col_title = COLLECTION_TITLES.get(col_name, col_name)
-    vol_title = VOLUME_TITLES.get(vol_name, vol_name)
+    vol_title = get_volume_title(col_name, vol_name)
 
     song_dirs = sorted(
         (

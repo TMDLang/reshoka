@@ -1,13 +1,13 @@
 ---
-title: "才池ノヒゴヒ — hyojun_shoka_gakushucho 第二學年用"
+title: "才池ノヒゴヒ — 《標準唱歌學習帖》 第二學年 兒童用"
 song_title: "才池ノヒゴヒ"
 song_id: "hyojun_shoka_gakushucho_grade_2_03_oike_no_higohi"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_2"
-description: "〈才池ノヒゴヒ〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第二學年用（國臺圖 523.37 4322-4））（詞：青木存義、曲：福井直秋），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ウキモノ　カゲ　カラ　アタマ　ヲ　ダシテ ナゲタ　フ　ヲ　クフ　オ池ノヒゴヒ、…"
-keywords: "才池ノヒゴヒ, hyojun_shoka_gakushucho, 第二學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 青木存義, 福井直秋"
+description: "〈才池ノヒゴヒ〉收錄於日治時期臺灣《標準唱歌學習帖》（第二學年 兒童用（國臺圖 0729 47））（詞：青木存義、曲：福井直秋），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ウキモノ　カゲ　カラ　アタマ　ヲ　ダシテ ナゲタ　フ　ヲ　クフ　オ池ノヒゴヒ、…"
+keywords: "才池ノヒゴヒ, 標準唱歌學習帖, 第二學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 青木存義, 福井直秋"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第二學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：青木存義"
   - "曲：福井直秋"
@@ -133,8 +133,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![才池ノヒゴヒ — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P010.jpg](P010.jpg)
+![才池ノヒゴヒ — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P010.jpg](P010.jpg)
 
-![才池ノヒゴヒ — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P011.jpg](P011.jpg)
+![才池ノヒゴヒ — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P011.jpg](P011.jpg)
 
 

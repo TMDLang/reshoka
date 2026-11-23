@@ -1,13 +1,13 @@
 ---
-title: "大日本 — hyojun_shoka_gakushucho 第三學年用"
+title: "大日本 — 《標準唱歌學習帖》 第三學年 兒童用"
 song_title: "大日本"
 song_id: "hyojun_shoka_gakushucho_grade_3_04_dainihon"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_3"
-description: "〈大日本〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第三學年用（臺史博 2020.006.0855）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大日本、大日本、 神のみすゑの　天皇陛下…"
-keywords: "大日本, hyojun_shoka_gakushucho, 第三學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈大日本〉收錄於日治時期臺灣《標準唱歌學習帖》（第三學年 兒童用（國臺圖 0729 47）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大日本、大日本、 神のみすゑの　天皇陛下…"
+keywords: "大日本, 標準唱歌學習帖, 第三學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第三學年用（臺史博 2020.006.0855）"
+is_part_of: "《標準唱歌學習帖》 第三學年 兒童用（國臺圖 0729 47）"
 sources:
   - "尋常小學唱歌"
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第三學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
@@ -133,8 +133,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![大日本 — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P012.jpg](P012.jpg)
+![大日本 — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P012.jpg](P012.jpg)
 
-![大日本 — hyojun_shoka_gakushucho 第三學年用 原書掃描頁 P013.jpg](P013.jpg)
+![大日本 — 《標準唱歌學習帖》 第三學年 兒童用 原書掃描頁 P013.jpg](P013.jpg)
 
 

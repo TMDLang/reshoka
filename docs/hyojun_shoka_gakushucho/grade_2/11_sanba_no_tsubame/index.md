@@ -1,13 +1,13 @@
 ---
-title: "三羽ノツバメ — hyojun_shoka_gakushucho 第二學年用"
+title: "三羽ノツバメ — 《標準唱歌學習帖》 第二學年 兒童用"
 song_title: "三羽ノツバメ"
 song_id: "hyojun_shoka_gakushucho_grade_2_11_sanba_no_tsubame"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_2"
-description: "〈三羽ノツバメ〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第二學年用（國臺圖 523.37 4322-4）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イツノマニキタ　三羽ノツバメ モトノフルスガ　コヒシイカ…"
-keywords: "三羽ノツバメ, hyojun_shoka_gakushucho, 第二學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈三羽ノツバメ〉收錄於日治時期臺灣《標準唱歌學習帖》（第二學年 兒童用（國臺圖 0729 47）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：イツノマニキタ　三羽ノツバメ モトノフルスガ　コヒシイカ…"
+keywords: "三羽ノツバメ, 標準唱歌學習帖, 第二學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第二學年 兒童用（國臺圖 0729 47）"
 sources:
   - "出處：唱歌新教材"
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第二學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
@@ -133,8 +133,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![三羽ノツバメ — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P026.jpg](P026.jpg)
+![三羽ノツバメ — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P026.jpg](P026.jpg)
 
-![三羽ノツバメ — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P027.jpg](P027.jpg)
+![三羽ノツバメ — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P027.jpg](P027.jpg)
 
 

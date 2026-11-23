@@ -1,13 +1,13 @@
 ---
-title: "君が代 — hyojun_shoka_gakushucho 第五學年用"
+title: "君が代 — 《標準唱歌學習帖》 第五學年 兒童用"
 song_title: "君が代"
 song_id: "hyojun_shoka_gakushucho_grade_5_11_kimigayo"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_5"
-description: "〈君が代〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第五學年用（國臺圖 523.37 4322-4））（詞：古歌、曲：林廣守），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：君（きみ）が代（よ）は 千（ち）代（よ）に八（や）千（ち）代（よ）に、…"
-keywords: "君が代, hyojun_shoka_gakushucho, 第五學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 古歌, 林廣守"
+description: "〈君が代〉收錄於日治時期臺灣《標準唱歌學習帖》（第五學年 兒童用（國臺圖 0729 47））（詞：古歌、曲：林廣守），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：君（きみ）が代（よ）は 千（ち）代（よ）に八（や）千（ち）代（よ）に、…"
+keywords: "君が代, 標準唱歌學習帖, 第五學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 古歌, 林廣守"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第五學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第五學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：古歌"
   - "曲：林廣守"
@@ -122,8 +122,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![君が代 — hyojun_shoka_gakushucho 第五學年用 原書掃描頁 P030.jpg](P030.jpg)
+![君が代 — 《標準唱歌學習帖》 第五學年 兒童用 原書掃描頁 P030.jpg](P030.jpg)
 
-![君が代 — hyojun_shoka_gakushucho 第五學年用 原書掃描頁 P031.jpg](P031.jpg)
+![君が代 — 《標準唱歌學習帖》 第五學年 兒童用 原書掃描頁 P031.jpg](P031.jpg)
 
 

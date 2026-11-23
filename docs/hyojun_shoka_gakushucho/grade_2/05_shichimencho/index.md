@@ -1,13 +1,13 @@
 ---
-title: "七面鳥 — hyojun_shoka_gakushucho 第二學年用"
+title: "七面鳥 — 《標準唱歌學習帖》 第二學年 兒童用"
 song_title: "七面鳥"
 song_id: "hyojun_shoka_gakushucho_grade_2_05_shichimencho"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_2"
-description: "〈七面鳥〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第二學年用（國臺圖 523.37 4322-4））（詞：葛原しげる、曲：梁田貞），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：キヨロッ～～～～。　クッ　クッ　ク。 アカイ　カホ　シテ　オコリマハル…"
-keywords: "七面鳥, hyojun_shoka_gakushucho, 第二學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 梁田貞"
+description: "〈七面鳥〉收錄於日治時期臺灣《標準唱歌學習帖》（第二學年 兒童用（國臺圖 0729 47））（詞：葛原しげる、曲：梁田貞），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：キヨロッ～～～～。　クッ　クッ　ク。 アカイ　カホ　シテ　オコリマハル…"
+keywords: "七面鳥, 標準唱歌學習帖, 第二學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 葛原しげる, 梁田貞"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第二學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第二學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：葛原しげる"
   - "曲：梁田貞"
@@ -133,8 +133,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![七面鳥 — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P014.jpg](P014.jpg)
+![七面鳥 — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P014.jpg](P014.jpg)
 
-![七面鳥 — hyojun_shoka_gakushucho 第二學年用 原書掃描頁 P015.jpg](P015.jpg)
+![七面鳥 — 《標準唱歌學習帖》 第二學年 兒童用 原書掃描頁 P015.jpg](P015.jpg)
 
 

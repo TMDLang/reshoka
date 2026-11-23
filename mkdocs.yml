@@ -813,6 +813,114 @@ nav:
           - "P217 鄭成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
           - "P220 琵琶湖": shokacho/vol_10/p220_biwako/index.md
           - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
+  - 標準唱歌學習帖（昭和二年／1927）:
+      - 專題導覽與各冊目錄: hyojun_shoka_gakushucho/index.md
+      - 第一學年 兒童用:
+          - 總覽: hyojun_shoka_gakushucho/grade_1/index.md
+          - 書訊與掃描頁: hyojun_shoka_gakushucho/grade_1/0_book_info/index.md
+          - "01 鳩": hyojun_shoka_gakushucho/grade_1/01_hato/index.md
+          - "02 ポチ ト タマ": hyojun_shoka_gakushucho/grade_1/02_pochi_to_tama/index.md
+          - "03 アサガホ": hyojun_shoka_gakushucho/grade_1/03_asagaho/index.md
+          - "04 ヒヨコ": hyojun_shoka_gakushucho/grade_1/04_hiyoko/index.md
+          - "05 箱庭": hyojun_shoka_gakushucho/grade_1/05_hakone/index.md
+          - "06 桃太郎": hyojun_shoka_gakushucho/grade_1/06_momotarau/index.md
+          - "07 犬": hyojun_shoka_gakushucho/grade_1/07_inu/index.md
+          - "08 お正月": hyojun_shoka_gakushucho/grade_1/08_oshaugatsu/index.md
+          - "09 オンマヨハシレ": hyojun_shoka_gakushucho/grade_1/09_onma_yo_hashire/index.md
+          - "10 親牛子牛": hyojun_shoka_gakushucho/grade_1/10_oyausi_kousi/index.md
+          - "11 樂隊遊": hyojun_shoka_gakushucho/grade_1/11_gakutai_asobi/index.md
+          - "12 君が代": hyojun_shoka_gakushucho/grade_1/12_kimigayo/index.md
+          - "13 天長節": hyojun_shoka_gakushucho/grade_1/13_tenchosetsu/index.md
+          - "14 始政紀念日": hyojun_shoka_gakushucho/grade_1/14_shisei_kinenbi/index.md
+          - "15 一月一日": hyojun_shoka_gakushucho/grade_1/15_ichigatsu_ichijitsu/index.md
+          - "16 紀元節": hyojun_shoka_gakushucho/grade_1/16_kigensetsu/index.md
+      - 第二學年 兒童用:
+          - 總覽: hyojun_shoka_gakushucho/grade_2/index.md
+          - 書訊與掃描頁: hyojun_shoka_gakushucho/grade_2/0_book_info/index.md
+          - "01 雨": hyojun_shoka_gakushucho/grade_2/01_ame/index.md
+          - "02 五一ヂイサン": hyojun_shoka_gakushucho/grade_2/02_goichi_jiisan/index.md
+          - "03 才池ノヒゴヒ": hyojun_shoka_gakushucho/grade_2/03_oike_no_higohi/index.md
+          - "04 海": hyojun_shoka_gakushucho/grade_2/04_umi/index.md
+          - "05 七面鳥": hyojun_shoka_gakushucho/grade_2/05_shichimencho/index.md
+          - "06 ヨク學ビヨク遊ベ": hyojun_shoka_gakushucho/grade_2/06_yoku_manabi_yoku_asobe/index.md
+          - "07 シヤボン玉": hyojun_shoka_gakushucho/grade_2/07_shabondama/index.md
+          - "08 蓄音機": hyojun_shoka_gakushucho/grade_2/08_chikuonki/index.md
+          - "09 ダイコクサマ": hyojun_shoka_gakushucho/grade_2/09_daikokusama/index.md
+          - "10 イハヒビ": hyojun_shoka_gakushucho/grade_2/10_ihahipi/index.md
+          - "11 三羽ノツバメ": hyojun_shoka_gakushucho/grade_2/11_sanba_no_tsubame/index.md
+          - "12 君が代": hyojun_shoka_gakushucho/grade_2/12_kimigayo/index.md
+          - "13 天長節": hyojun_shoka_gakushucho/grade_2/13_tenchosetsu/index.md
+          - "14 始政紀念日": hyojun_shoka_gakushucho/grade_2/14_shisei_kinenbi/index.md
+          - "15 一月一日": hyojun_shoka_gakushucho/grade_2/15_ichigatsu_ichijitsu/index.md
+          - "16 紀元節": hyojun_shoka_gakushucho/grade_2/16_kigensetsu/index.md
+      - 第三學年 兒童用:
+          - 總覽: hyojun_shoka_gakushucho/grade_3/index.md
+          - 書訊與掃描頁: hyojun_shoka_gakushucho/grade_3/0_book_info/index.md
+          - "01 春が來た": hyojun_shoka_gakushucho/grade_3/01_haru_ga_kita/index.md
+          - "02 げんげ草": hyojun_shoka_gakushucho/grade_3/02_gengekusa/index.md
+          - "03 お玉じやくし": hyojun_shoka_gakushucho/grade_3/03_otamajakushi/index.md
+          - "04 大日本": hyojun_shoka_gakushucho/grade_3/04_dainihon/index.md
+          - "05 きんしくんしやう": hyojun_shoka_gakushucho/grade_3/05_kinshi_kunsho/index.md
+          - "06 僕等は少年だ": hyojun_shoka_gakushucho/grade_3/06_bokura_wa_shonen_da/index.md
+          - "07 汽車": hyojun_shoka_gakushucho/grade_3/07_kisha/index.md
+          - "08 蟻": hyojun_shoka_gakushucho/grade_3/08_ari/index.md
+          - "09 小野道風": hyojun_shoka_gakushucho/grade_3/09_ono_no_tofu/index.md
+          - "10 しやぼんだま": hyojun_shoka_gakushucho/grade_3/10_shabondama/index.md
+          - "11 那須與一": hyojun_shoka_gakushucho/grade_3/11_nasu_no_yoichi/index.md
+          - "12 君が代": hyojun_shoka_gakushucho/grade_3/12_kimigayo/index.md
+          - "13 天長節": hyojun_shoka_gakushucho/grade_3/13_tenchosetsu/index.md
+          - "14 始政紀念日": hyojun_shoka_gakushucho/grade_3/14_shisei_kinenbi/index.md
+          - "15 一月一日": hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu/index.md
+          - "16 紀元節": hyojun_shoka_gakushucho/grade_3/16_kigensetsu/index.md
+      - 第四學年 兒童用:
+          - 總覽: hyojun_shoka_gakushucho/grade_4/index.md
+          - 書訊與掃描頁: hyojun_shoka_gakushucho/grade_4/0_book_info/index.md
+          - "01 富士山": hyojun_shoka_gakushucho/grade_4/01_fujisan/index.md
+          - "02 れんげさう": hyojun_shoka_gakushucho/grade_4/02_renge_so/index.md
+          - "03 初夏の夜": hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru/index.md
+          - "04 航海": hyojun_shoka_gakushucho/grade_4/04_kokai/index.md
+          - "05 村の鍛冶屋": hyojun_shoka_gakushucho/grade_4/05_mura_no_kajiya/index.md
+          - "06 蟲なく野邊": hyojun_shoka_gakushucho/grade_4/06_mushi_naku_nobe/index.md
+          - "07 飛行機": hyojun_shoka_gakushucho/grade_4/07_hikoki/index.md
+          - "08 六氏先生": hyojun_shoka_gakushucho/grade_4/08_rokushi_sensei/index.md
+          - "09 神風": hyojun_shoka_gakushucho/grade_4/09_kamikaze/index.md
+          - "10 君が代": hyojun_shoka_gakushucho/grade_4/10_kimigayo/index.md
+          - "11 天長節": hyojun_shoka_gakushucho/grade_4/11_tenchosetsu/index.md
+          - "12 始政紀念日": hyojun_shoka_gakushucho/grade_4/12_shisei_kinenbi/index.md
+          - "13 一月一日": hyojun_shoka_gakushucho/grade_4/13_ichigatsu_ichijitsu/index.md
+          - "14 紀元節": hyojun_shoka_gakushucho/grade_4/14_kigensetsu/index.md
+      - 第五學年 兒童用:
+          - 總覽: hyojun_shoka_gakushucho/grade_5/index.md
+          - 書訊與掃描頁: hyojun_shoka_gakushucho/grade_5/0_book_info/index.md
+          - "01 海": hyojun_shoka_gakushucho/grade_5/01_umi/index.md
+          - "02 登山": hyojun_shoka_gakushucho/grade_5/02_tozan/index.md
+          - "03 夏の夜半": hyojun_shoka_gakushucho/grade_5/03_natsu_no_yowa/index.md
+          - "04 納涼": hyojun_shoka_gakushucho/grade_5/04_noryo/index.md
+          - "05 蟲の音": hyojun_shoka_gakushucho/grade_5/05_mushi_no_ne/index.md
+          - "06 曉景": hyojun_shoka_gakushucho/grade_5/06_gyokei/index.md
+          - "07 木靈": hyojun_shoka_gakushucho/grade_5/07_kodama/index.md
+          - "08 菅公": hyojun_shoka_gakushucho/grade_5/08_kanko/index.md
+          - "09 雨中の花": hyojun_shoka_gakushucho/grade_5/09_uchu_no_hana/index.md
+          - "10 春の調へ": hyojun_shoka_gakushucho/grade_5/10_haru_no_shirabe/index.md
+          - "11 君が代": hyojun_shoka_gakushucho/grade_5/11_kimigayo/index.md
+          - "12 天長節": hyojun_shoka_gakushucho/grade_5/12_tenchosetsu/index.md
+          - "13 始政紀念日": hyojun_shoka_gakushucho/grade_5/13_shisei_kinenbi/index.md
+          - "14 一月一日": hyojun_shoka_gakushucho/grade_5/14_ichigatsu_ichijitsu/index.md
+          - "15 紀元節": hyojun_shoka_gakushucho/grade_5/15_kigensetsu/index.md
+      - 第六學年 兒童用:
+          - 總覽: hyojun_shoka_gakushucho/grade_6/index.md
+          - 書訊與掃描頁: hyojun_shoka_gakushucho/grade_6/0_book_info/index.md
+          - "01 日本人": hyojun_shoka_gakushucho/grade_6/01_nihonjin/index.md
+          - "02 瀨戶內海": hyojun_shoka_gakushucho/grade_6/02_setonaikai/index.md
+          - "03 雨上り": hyojun_shoka_gakushucho/grade_6/03_ameagari/index.md
+          - "04 水邊の夏": hyojun_shoka_gakushucho/grade_6/04_mizube_no_natsu/index.md
+          - "05 夏の森": hyojun_shoka_gakushucho/grade_6/05_natsu_no_mori/index.md
+          - "10 新高山": hyojun_shoka_gakushucho/grade_6/10_niitakayama/index.md
+          - "12 君が代": hyojun_shoka_gakushucho/grade_6/12_kimigayo/index.md
+          - "13 天長節": hyojun_shoka_gakushucho/grade_6/13_tenchosetsu/index.md
+          - "14 始政紀念日": hyojun_shoka_gakushucho/grade_6/14_shisei_kinenbi/index.md
+          - "15 一月一日": hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md
+          - "16 紀元節": hyojun_shoka_gakushucho/grade_6/16_kigensetsu/index.md
   - 臺灣の歌（昭和四年／1929）:
       - 總覽: taiwan_no_uta/index.md
       - 書訊與掃描頁: taiwan_no_uta/0_book_info/index.md

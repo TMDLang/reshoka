@@ -1,13 +1,13 @@
 ---
-title: "一月一日 — hyojun_shoka_gakushucho 第六學年用"
+title: "一月一日 — 《標準唱歌學習帖》 第六學年 兒童用"
 song_title: "一月一日"
 song_id: "hyojun_shoka_gakushucho_grade_6_15_ichigatsu_ichijitsu"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_6"
-description: "〈一月一日〉收錄於日治時期臺灣hyojun_shoka_gakushucho（尋常科 第六學年用（國臺圖 523.37 4322-4））（詞：千家尊福、曲：上真行），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、年（とし）ノハジメノ　例（ためし）トテ 終（をは）リナキ世（よ）ノ　メデタサヲ…"
-keywords: "一月一日, hyojun_shoka_gakushucho, 第六學年用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 千家尊福, 上真行"
+description: "〈一月一日〉收錄於日治時期臺灣《標準唱歌學習帖》（第六學年 兒童用（國臺圖 0729 47））（詞：千家尊福、曲：上真行），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、年（とし）ノハジメノ　例（ためし）トテ 終（をは）リナキ世（よ）ノ　メデタサヲ…"
+keywords: "一月一日, 標準唱歌學習帖, 第六學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 千家尊福, 上真行"
 schema_type: "MusicComposition"
-is_part_of: "hyojun_shoka_gakushucho 尋常科 第六學年用（國臺圖 523.37 4322-4）"
+is_part_of: "《標準唱歌學習帖》 第六學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：千家尊福"
   - "曲：上真行"
@@ -127,8 +127,8 @@ Assignment 軌道音域：
 
 ## 原書掃描頁
 
-![一月一日 — hyojun_shoka_gakushucho 第六學年用 原書掃描頁 P034.jpg](P034.jpg)
+![一月一日 — 《標準唱歌學習帖》 第六學年 兒童用 原書掃描頁 P034.jpg](P034.jpg)
 
-![一月一日 — hyojun_shoka_gakushucho 第六學年用 原書掃描頁 P035.jpg](P035.jpg)
+![一月一日 — 《標準唱歌學習帖》 第六學年 兒童用 原書掃描頁 P035.jpg](P035.jpg)
 
 

@@ -18,6 +18,7 @@ COLLECTIONS_ORDER: list[tuple[str, str]] = [
     ("kogakko_shokashu_1915", "公學校唱歌集（大正四年／1915）"),
     ("shoka_kyozai_shu_1923", "新編小學校・公學校唱歌教材集（大正十二年／1923）"),
     ("shokacho", "楊金土手抄唱歌帖（大正十二年至昭和二年／1923–1927）"),
+    ("hyojun_shoka_gakushucho", "標準唱歌學習帖（昭和二年／1927）"),
     ("taiwan_no_uta", "臺灣の歌（昭和四年／1929）"),
     ("shintei_jido_shoka", "新定兒童唱歌（昭和五年／1930）"),
     ("kogakko_shoka", "公學校唱歌（昭和九年至昭和十七年／1934–1942）"),
@@ -37,6 +38,7 @@ COLLECTION_TITLES: dict[str, str] = {
     "utanohon": "《うたのほん》（唱歌課本）",
     "kyoeki_shoka": "《共益商社唱歌教科書》",
     "shokacho": "《楊金土手抄唱歌帖》",
+    "hyojun_shoka_gakushucho": "《標準唱歌學習帖》",
 }
 
 VOLUME_TITLES: dict[str, str] = {
@@ -128,6 +130,32 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "vol_09": "第 9 冊（IX・支那曲）",
     "vol_10": "第 10 冊（X）",
 }
+
+COLLECTION_VOLUME_TITLES: dict[tuple[str, str], str] = {
+    ("hyojun_shoka_gakushucho", "grade_1"): "第一學年 兒童用（國臺圖 0729 47）",
+    ("hyojun_shoka_gakushucho", "grade_2"): "第二學年 兒童用（國臺圖 0729 47）",
+    ("hyojun_shoka_gakushucho", "grade_3"): "第三學年 兒童用（國臺圖 0729 47）",
+    ("hyojun_shoka_gakushucho", "grade_4"): "第四學年 兒童用（國臺圖 0729 47）",
+    ("hyojun_shoka_gakushucho", "grade_5"): "第五學年 兒童用（國臺圖 0729 47）",
+    ("hyojun_shoka_gakushucho", "grade_6"): "第六學年 兒童用（國臺圖 0729 47）",
+}
+
+COLLECTION_VOLUME_NAV_TITLES: dict[tuple[str, str], str] = {
+    ("hyojun_shoka_gakushucho", "grade_1"): "第一學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_2"): "第二學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_3"): "第三學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_4"): "第四學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_5"): "第五學年 兒童用",
+    ("hyojun_shoka_gakushucho", "grade_6"): "第六學年 兒童用",
+}
+
+
+def get_volume_title(col_name: str, vol_name: str) -> str:
+    return COLLECTION_VOLUME_TITLES.get((col_name, vol_name)) or VOLUME_TITLES.get(vol_name, vol_name)
+
+
+def get_volume_nav_title(col_name: str, vol_name: str) -> str:
+    return COLLECTION_VOLUME_NAV_TITLES.get((col_name, vol_name)) or VOLUME_NAV_TITLES.get(vol_name, vol_name)
 
 KYOEKI_PID_BY_VOL: dict[str, str] = {
     "kan_1_854862": "854862",
@@ -778,6 +806,7 @@ FLAT_TABLE_FIRST_COL: dict[str, str] = {
     "kyoeki_shoka": "曲次",
     "taiwan_shuyu_shoka": "版本",
     "shokacho": "原書頁碼",
+    "hyojun_shoka_gakushucho": "課次",
 }
 
 # ---------------------------------------------------------------------------
@@ -855,6 +884,9 @@ FLAT_NUMBER_FORMATTERS: dict[str, Callable[[str, list[str]], str]] = {
         parts[1].upper()
         if folder_name.startswith("0844_p")
         else (parts[0].upper() if parts[0].lower().startswith("p") else parts[0])
+    ),
+    "hyojun_shoka_gakushucho": lambda _, parts: (
+        f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
     ),
 }
 

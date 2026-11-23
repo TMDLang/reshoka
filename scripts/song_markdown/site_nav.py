@@ -8,9 +8,12 @@ from pathlib import Path
 from .catalog import (
     COLLECTIONS_ORDER,
     COLLECTION_TITLES,
+    COLLECTION_VOLUME_TITLES,
     KYOYUSHO_1935_SECTIONS,
     VOLUME_NAV_TITLES,
     VOLUME_TITLES,
+    get_volume_nav_title,
+    get_volume_title,
     resolve_col_and_vol,
 )
 from .tmd_parser import parse_metadata
@@ -131,6 +134,9 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
         ("1926年蓬萊公學校唱歌研究會紀事", "shokacho/1926_horai_study_meeting.md"),
         ("延伸館藏與日本國會圖書館調查", "archives/index.md"),
     ],
+    "hyojun_shoka_gakushucho": [
+        ("專題導覽與各冊目錄", "hyojun_shoka_gakushucho/index.md"),
+    ],
 }
 
 
@@ -175,7 +181,7 @@ def write_song_index_json(docs_dir: Path) -> Path:
             {
                 "title": title,
                 "collection": COLLECTION_TITLES.get(col_name, col_name),
-                "volume": VOLUME_TITLES.get(vol_name, vol_name),
+                "volume": get_volume_title(col_name, vol_name),
                 "url": f"{rel_folder}/",
             }
         )
@@ -272,13 +278,21 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             continue
 
         vol_dirs = sorted(
-            (d for d in col_dir.iterdir() if d.is_dir() and d.name in VOLUME_TITLES),
+            (
+                d
+                for d in col_dir.iterdir()
+                if d.is_dir()
+                and (
+                    d.name in VOLUME_TITLES
+                    or (col_slug, d.name) in COLLECTION_VOLUME_TITLES
+                )
+            ),
             key=lambda d: natural_sort_key(d.name),
         )
         for vol_dir in vol_dirs:
             generate_volume_index(vol_dir)
-            vol_title = VOLUME_TITLES.get(vol_dir.name, vol_dir.name)
-            vol_nav_title = VOLUME_NAV_TITLES.get(vol_dir.name, vol_dir.name)
+            vol_title = get_volume_title(col_slug, vol_dir.name)
+            vol_nav_title = get_volume_nav_title(col_slug, vol_dir.name)
             song_dirs = sorted(
                 (
                     d
