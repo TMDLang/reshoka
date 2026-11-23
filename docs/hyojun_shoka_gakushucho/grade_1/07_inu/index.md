@@ -4,7 +4,7 @@ song_title: "犬"
 song_id: "hyojun_shoka_gakushucho_grade_1_07_inu"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_1"
-description: "〈犬〉收錄於日治時期臺灣《標準唱歌學習帖》（第一學年 兒童用（國臺圖 0729 47））（詞：文部省尋常小學唱歌、曲：文部省尋常小學唱歌），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：ソトヘデルトキ　トンデキテ、 オツテモ　オツテモ　ツイテクル、…"
+description: "〈犬〉收錄於日治時期臺灣《標準唱歌學習帖》（第一學年 兒童用（國臺圖 0729 47））（詞：文部省尋常小學唱歌、曲：文部省尋常小學唱歌），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一） ソトヘ　デルトキ　トンデキテ…"
 keywords: "犬, 標準唱歌學習帖, 第一學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省尋常小學唱歌"
 schema_type: "MusicComposition"
 is_part_of: "《標準唱歌學習帖》 第一學年 兒童用（國臺圖 0729 47）"
@@ -13,9 +13,10 @@ credits:
   - "曲：文部省尋常小學唱歌"
 sources:
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第一學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
+  - "樂譜參照《新定兒童唱歌》標準譜校訂"
 musical_key: "D"
 meter: "4/4"
-tempo: "120"
+tempo: "108"
 image:
   - file: "P018.jpg"
   - file: "P019.jpg"
@@ -37,25 +38,29 @@ tmd_source:
 - 詞：文部省尋常小學唱歌
 - 曲：文部省尋常小學唱歌
 - 臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第一學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）
+- 樂譜參照《新定兒童唱歌》標準譜校訂
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P018.jpg–P019.jpg，原書 pp. 18–19，第二學期第 7 首）：
-調性與拍號：ニ長調 4/4 拍子（D 大調 4/4 拍），♩=120，文部省尋常小學唱歌
+曲目說明
+中文解釋：歌唱小狗跟隨孩子、親近又可愛的日常。
+
+原書資訊與歌詞全文（對應 P019.jpg，書頁 p. 4，第一學期第 4 首）：
+調性與拍號：ニ調四拍子（D 大調 4/4 拍），「アイラシク」
 
 
 ## 歌詞
 
 ```text
-一、
-ソトヘデルトキ　トンデキテ、
-オツテモ　オツテモ　ツイテクル、
-ポチハ　ホントニ　カハイイナ。
+（一）
+ソトヘ　デルトキ　トンデキテ
+オツテモ　オツテモ　ツイテクル
+ポチハ　ホントニ　カハイイナ
 
-二、
-ウチヘカヘルト　チチフツテ、
-タモトニスガツテ　ウレシガル、
-ポチハ　ホントニ　カハイイナ。
+（二）
+ウチヘカヘルト　ヲヲフツテ
+タモトニ　スガツテ　ウレシガル
+ポチハ　ホントニ　カハイイナ
 ```
 
 ## ABC
@@ -66,8 +71,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](inu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFroAglLhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xKRFWWmZ-ZZ5ebnJQG9nw8JDCUuLS2F511rFLS0uBRtFQyNDLjsbRVcuGxM9E3sQFpfrJz3fs-sZ9PaXzaveD6n8emG7qc7djzd0P907Y6nUzY-W9sDtuDZ7E1EqHrRvutpz_SnO1Y_X98ClHm2YOHLmS1PN66BKARyn7YuV3i2dvGzZVOfzWl-vn3F44auZytmPts1DWIIUNHz_ZOe7pim8HzNmic7GkCm79yi8LR10vPVS59PASrvfr-n49mMtU8n9TzZ1QOUe7JryrM5HU97G5_saH42fenzmXteLOx5v6fn-ZZFz2bveDFzvoKBuZGlgon5-z2dSlxc-loKttQCXAoKCk_75oOs2dz-YkXXi452oBeAwfm0dQUwoIAOfbqh91l7pwIo2ehlFaQ_apgMSjwgJtCFEK0KBQV6CoYWQClDS5Czgd4G-gsYVnPmA9kK5govl00DOh0Y9iDrXqza_6xhOcii7l6g34Cij5u7X07dDhRXAManAlD46doJQJtdFJ4uWY4kCjai59HMlbbABABk4YlILpBFwLB_3NAIYj1u2vu4ueNx84zHze2Pm1eD2E1rHzc0gAU3gwSB3OY2uOpVj5tbQPzmRSBFaFwgu2kJiNu0HmQWVE_z3MfNjY-b-8EqZoNNBZrdDdYPtLAfpAekretxQxPEdbt64PYtA-udAVYJdCPYgSBzgIJANBVqPUz1fpBDIKY37XzctAYmDbQJaNCax03bwYLkOQ2ogfJUBQUKWvpcXJ55pVZh-cCM7lBjUFMNMl_BxkLLDszAlpKhuQaYAxQ0TBSAkfp8fYMOPPlpYtEAtAVkWI2CoYIuGBoDMYgNEzFWMAKSIIxbBAINQCJg03wMa0DJBioODDEwOQOsA5hgoKKrYTJNa6EyIB5IZjNUFUKmDcmeeIQ9RiB7lsHtaUS2p2k1VHQG2C6YO0CmbYLKbALiqWBWC0578If1rh5ywhoUxroKJgqmQNIMbDOIBWKDaJBsDVAWwgKFMyQ-QCxcYb0K6qMWqB-AqRwaCjhlwH4Gpl2wGFimaT1UBhJy2EN7P9S8RfB47YbatBMi07QGZjbYVFgMATMXWHY7VA0umwik7U7y07YxmAaHHDQGTMG0AZCExABymONN281zoaHQCMT9MLcD2bOh4qAUDAqdeHD4wFIjRC00zMEkSE8X7tCmsT21XFy6dgrAQibaxzBWAcY0AjOVuQA)]
-- [鋼琴伴奏 TMD 檔案](inu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFroAglLhHRRfk6qVWJycn5uQWJeZm5qXglCLjOvuKQIaGleiVVBZmJefnxZfnJiDkI-v6gkIx_ooIKMSqvc_JTUorz4goz8vNSSzOT47MS8RGSVmemZeUBFeUlAj-VDvKnEpaWl8Lix5XHjmvd7Op7s2fJ0af_7PZ0KWlpcirYKhkYGXPa2Ci5cNib6JnYgk16snPd-z6xn09pfNq94Pqfx6Ybupzt2PN3Q_3TtjqdTNj5b2wO279nsTYRUcXnmlVqFgfziUGNQU82lAAQ2Flp2YIa-lsLTzl6gUxQ0TBSA-p6vb9BU0NIHy9UoGCjookDSRUDsGrBpPoY1CvEYakkVAbGh5hlRzzxYUDxfs0bBUOHFwh5EEBhCFRoDMYgNEzFWMAKSIIxbBFsQPG7aCxV_3NwBIptWgHU8bm6Hiq6Gy6yFyoB4IJnNUFUImTYMr8CC5nHTMrg9jcj2NK2GiAL5ILtg7gDJrILKrAKKTQXLNOO0BznIjFCDDBRUugomCqZA0gxsAIgFYoNokGwNUBbCAgUXJFhBLFxBBnUY0DkQpzxuXoTqZEyZ5hawV5aAxcAyTeuhMpAAwB5o-6HmLYJFQnM31Kad0MBZAw0WiKmwgH7cvAYsux2qBpdNyMFmjC2lGYNpcABAA9IUTBsASUhAIgcd3pTWPBfqmUYgBnke7AQgezZUHJSeQJ6MB3sTljYgaqFBByZBerpwBxqN7YGXU_t6wOWUEVnlFCllECnlC1ctpIANAFUZQR54i1hEVGsba4OiEuRKZDZIxkQblGcwZYyAMuh6YGIIE1GTAr5yDY8TEDxzHW0j0qRwOwCtlEB1AMLXxIQOTBTuBphADUIIt0PQ8x1RIUGkQ-AMQiECTc0YrsBpMi4DkdOfD7HpTweq3VQHxgIWyXC2IZIoQgWyWogK4hMbHkNIEYWIIDkPbwKDK0P4DFkU2ZcQFZiWwPxPfGIi4Cf8lkJIwr7FSDxgNZjmgWW0gWxtcIxjJBxdOwVg2on2MYxVgDGNwExlLgA)]
+- [主旋律 TMD 檔案](inu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFroAglLhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xKRnJqcX5QaD_XQs2kbnq6b9bR10vPVS59O2fhsbY8Sl5aWwvOuNQpaWiAtL1bOe79n1rNp7S-bVzyf0_h0Q_fTHTuebuh_unYHTD1Q1bPZm4hQ9aJ919Oe6U93rH6-vgUo82zBwpczW55uXANRCOQ-bV2u8Gzt4mfLpj6b0_x8-4rHDV3PVsx8tmsaxBCgouf7Jz3dMU3h-Zo1T3Y0gEzfuUUB4vrnU4DKu9_v6Xg2Y-3TST1PdvUA5Z7smvJsTsfT3sYnO5qfTV_6fOaeFwt73u_peb5l0bPZO17MnK9gYG5kqWBi_n5PJ8QjK5perJ3ztL_5eetykO0YwQO0A-IkoDKgi1-saFLi4lK0VTA0sOCyt1Vw4bIx0Tex49LXUgCGyfPZ616sWvVsRh-XgoLCkx1rgQH0Yvnil-1AZ84C-WfKRqDXn3dPf7F9_stZK56uXfl07YTHDY0vlq16sX_i0_6Op_3rn7XMfj6rBeh2YIA-bmji0tLnAhluSy0ActnTvvmg0Njc_mJF14uOdqDLgLH-tHUF0LnA8Hy6ofdZe6cCKEHrZRWkA0MPqPjlgkaFAj0FE1BYwuLi2Zz5QLaCicLLZdOA4Qn0I8jwF6v2P2tYDjK2uxcY4EDRx83dQMGns2cDRYAeBlrhovB0yXKgmAIw7BSAomDdwKDuedy06HHTksfNKx83bX_ctP5xQy8XyEygFqCVQFUgzuOmvY-bOx43z3jc0PC4uf1x82oQt2ktmAsU3wwSBHKb2yCqVz1ubgFyHjcvAqlA4wLZIPvaQJY1rwZraJ77uLnxcXM_WHo22Dygqd1gzUCr-kEaQHq64E7bBUxiUKctA-udAVY5A-o0kDmbwGgqxG6I0v0gJyCM3vm4aQ3UaSAu0KA14EAACpLqLqBqyhMKFCiAEqBnXqlVQGZiXr5DjUFNNch8BRsLLTswA1vihOZXYN5T0DBRAKX59Q068BSliUUD0BaQYTUKpgq6YAiijYG4RsEIzDdSMASSIIwQAclD1MB0gaABSARsmo9hDSi1QMWBwQUmZ4B1ABMJVHQ1TKZpLVQGxAPJbIaqQsi0IdkTj7DHCGTPMrg9jcj2NK2Gis4A2wVzB8i0TVCZTUA8FcxqwWkP_rDe1UNOWJuBzTcD06AQrFEwjAMLASkwCyIIkwYFNXIEYA_uVVBPtUC9AUzl0IDAKQP2NjDtgsXAMk3roTKQwMMe4Puh5i2CR2031KadEJmmNTCzwabCIgmYs8Cy26FqcNlEIHl3khPkoDCEJWZwyCEFOSicIWKg0IaFOCisgapwh3jzXGg4NAJxP8z1QDaojIBKdUADByoFTpMQxdBgB5MgTV24A5zWFtVycenaKQDLmuhYBSBDmQsA)]
+- [鋼琴伴奏 TMD 檔案](inu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFroAglLhHRRfk6qVWJycn5uQWJeZm5qXglCLjOvuKQIaGleiVVBZmJefnxZfnJiDkI-v6gkIx_ooIKMSqvc_JTUorz4goz8vNSSzOT47MS8RCRHJOcXpcZDnfps2oan62Y9bZ30fPXSp1M2Plvbo8SlpaXwvGvN-z0dT_Zsebq0__2eTgUtLZD2Fyvnvd8z69m09pfNK57PaXy6ofvpjh1PN_Q_XbsDpheo6tnsTUSoetG-62nP9Kc7Vj9f3wKUebZg4cuZLU83roEoBHKfti5XeLZ28bNlU5_NaX6-fcXjhq5nK2Y-2zUNYghQ0fP9k57umKbwfM2aJzsaQKbv3KIA8cnzKUDl3UAfPJux9umknie7eoByT3ZNeTan42lv45Mdzc-mL30-c8-LhT3v9_Q837Lo2ewdL2bOVzAwN7JUMDEHehjikRVNL9bOedrf_Lx1Och2jKAC2gFxElAZ0MUvVjQpcXEp2ioYGlhw2dsquHDZmOib2HFxeeaVWgWAIi3Iw6HGoKaaSwEIbCy07MAMfS0FW3QA9RTQgQoaJgrAMHm-vkFHAZRa9LIK0jWxaNDSBxtWo2CqoAuGINoYiGsUjMB8IwVDIAnCCBGQPEQNTBcIGoBEwKb5GNYoPG7aCxV_3NwBJmeAdTxuboeKrobJNK2FyoB4IJnNUFUImTYke-IR9hiB7FkGt6cR2Z6m1VDRGWC7YO4AmbYJKrMJiKeCWS047cEf1rt6yAlrM7D5ZmAaFII1CoZxYCEgBWZBBGHSoKBGjgDswb0K6qkWqDceNy-CBgROGbC3HzctAYuBZZrWQ2UggYc9wPdDzVsEj9puqE07ITJNa2Bmg02FRdLj5jVg2e1QNbhsIpC8O8kJclAYwhIzOOSQghwUzhAxUGjDQhwU1kBVuEO8eS40HBqBuB_meiB7NigFw1I-JHCgUuA0CVEMDXYwCdLUhTvAaW1RLVJR44Nc1JhAixpgMMQrRBvGwihgQMUDWabxxImAGAZQD9UomABFTZCUEeLjMAYkD7UOKAjTBaRAPKhmuFZkD4CMAPpY104B6OloH6AgjGkEZipzAQA)]
 
 ## 分析
 
@@ -75,25 +80,24 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 犬 ]
 ================================================================================
-⏱  Duration:       0:48 (48.0s), 24 measures total
-🎼 Key & Tempo:    首調基準 D, != 120.0 BPM, <4/4>
+⏱  Duration:       0:26 (26.7s), 12 measures total
+🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – B4 (MIDI 71) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  D4 in [Inu[L1] #1 @ m.1, 0:00]
-   - 最高音: B4 in [Inu[L1] #1 @ m.5, 0:09]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [Inu[] #1 @ m.2, 0:03]
+   - 最高音: D5 in [Inu[] #1 @ m.6, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Inu[L1] (24.0s) -> Inu[L2] (24.0s)
+🏛  結構:      Inu[] (26.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, F#, E, A, G
-   - 調性數值:    D 大調 [相關度: 0.84, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): D 大調 (0.84), B 小調 (0.54), A 大調 (0.50)
-   - 五度圈歷程:   +2 -> +2
+   - 核心骨幹音:  D, A, E, F#, B
+   - 調性數值:    D 大調 [相關度: 0.86, 穩定度: Moderate, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.86), A 大調 (0.79), F# 小調 (0.55)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [Inu[L1] #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
-     • [Inu[L2] #1]: D 大調 (r: 0.84, 自然音純度: 100.0%)
+     • [Inu[] #1]: D 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -108,19 +112,19 @@ tmd_source:
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : ████████████████████████  35.6%
+     D  : ████████████████████████  27.9%
      D# :                            0.0%
-     E  : ██████████████            20.7%
+     E  : █████████████████         19.8%
      F  :                            0.0%
-     F# : ███████████████           23.0%
-     G  : ████                       5.7%
+     F# : █████████████             15.1%
+     G  :                            0.0%
      G# :                            0.0%
-     A  : ████████                  11.5%
+     A  : ██████████████████████    25.6%
      A# :                            0.0%
-     B  : ██                         3.4%
+     B  : ██████████                11.6%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – B4 (9 個半音 / 0.8 個八度, 74 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 36 個音符)
 ================================================================================
 ```
 

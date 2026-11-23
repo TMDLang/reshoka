@@ -4,15 +4,16 @@ song_title: "君が代"
 song_id: "hyojun_shoka_gakushucho_grade_1_12_kimigayo"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_1"
-description: "〈君が代〉收錄於日治時期臺灣《標準唱歌學習帖》（第一學年 兒童用（國臺圖 0729 47））（詞：古歌、曲：林廣守），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：君（きみ）が代（よ）は 千（ち）代（よ）に八（や）千（ち）代（よ）に、…"
-keywords: "君が代, 標準唱歌學習帖, 第一學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 古歌, 林廣守"
+description: "〈君が代〉收錄於日治時期臺灣《標準唱歌學習帖》（第一學年 兒童用（國臺圖 0729 47））（詞：古歌、曲：林廣守（宮內省雅樂課）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：君（きみ）が代（よ）は ちよにやちよに…"
+keywords: "君が代, 標準唱歌學習帖, 第一學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 古歌, 林廣守（宮內省雅樂課）"
 schema_type: "MusicComposition"
 is_part_of: "《標準唱歌學習帖》 第一學年 兒童用（國臺圖 0729 47）"
 credits:
   - "詞：古歌"
-  - "曲：林廣守"
+  - "曲：林廣守（宮內省雅樂課）"
 sources:
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第一學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
+  - "樂譜參照《新定兒童唱歌》標準譜校訂"
 musical_key: "C"
 meter: "4/4"
 tempo: "69"
@@ -35,23 +36,24 @@ tmd_source:
 - **鋼琴伴奏版**：<br><audio controls src="kimigayo.mp3"></audio>
 
 - 詞：古歌
-- 曲：林廣守
+- 曲：林廣守（宮內省雅樂課）
 - 臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第一學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）
+- 樂譜參照《新定兒童唱歌》標準譜校訂
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P028.jpg–P029.jpg，原書 p. 28–29，第一學年第 12 首）：
-調性與拍號：4/4 拍子，♩=69
+原書資訊與歌詞全文（對應 P005.jpg，儀式歌 p. 1，第 1 首）：
+調性與拍號：律旋調 4/4 拍子，「誠ヲ込メテ」
 
 
 ## 歌詞
 
 ```text
 君（きみ）が代（よ）は
-千（ち）代（よ）に八（や）千（ち）代（よ）に、
-さゞれいしの
+ちよにやちよに
+さざれいしの
 巖（いはほ）となりて
-こけのむすまで。
+こけのむすまで
 ```
 
 ## ABC
@@ -62,8 +64,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kimigayo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFkgZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuR1qRUlRYl5xclFmAchDCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmJSIUlWSkAj2XmVsAtCQxB108ObUoNTc_D0UGaEx6Zp4VUDgJGFbAgNLSUng6Yfbjxp4nuxcraGlxKdoqmFly2dsqOHPZmOib2IF0vlg57_2eWU_7lzxb2wM26tnsTUCBZ_OmP929-Om6DrDYi_ZdT3umP92x-vn6lqdrdzxbsPDlzJanG9c83dAP4T5tXa7wbO3iZ8umPpvT_Hz7iscNXc9WzHy2a9rTKRuBBgMVPd8_6emOaQrP16x5sqMByH-6c4vC09ZJz1cvfT4FqLz7_Z6OZzPWPp3U82RXD1Duya4pz-Z0PO1tfLKj-dn0pc9n7nmxsOf9np7nWxY9m73jxcz5CgbmRpYKJubv93QqcXHpaynYUgtwKSgoPO2bD7Jmc_uLFV0vOtqBXgCG09PWFc-mtQMd-nRD77P2TgVQ2tHLKkh_1DAZyLQEMYEuhGhVKNBTMLIAyhhZglyN5GsgW8HQSOHlsmlApwNDGmTdi1X7nzUsB1nU3Qv0G1AUGD0KQM7TtROA2h_NXGkLjDiwwybMBjrgcWPv48b9QP2QuAWJNHWAuevBinqbwYoWAoVQpVc_bV0N5rYAuXiUPW5oBBn0uHHq46Z5j5t6Hje2PG6c_rhxHdj47UCnA_UBhdY_btwN1rHiceOqx01djxuXQfRNftw4Eaj8cVPD48aZjxv3PW5c_rihCSRHeQRBgYKWPheXd2ZuZnpiZb5VWD4wCznUGNRUgyxRsLHQsgMzsKUMaCoEpigFDVMFYCJ-vr5BBx6dmlg0AK0CGVajUF1Qq2CkoKtgCMQg2hiIaxRMgSQIgnggUaC63LRaMBckZQamzYDCRnFApjlcCKQSWREI1oBt8qlReNy0Fsh93DwfRDatgUkDRVZA2SD4uLkfKtoI5oHkHjd3I6leAhZBlwWZvxVs8jawGNx8cDLDHWy7esDBZkZisAFDwxDkd3AAgFkQ52EJJ1iggIISFJgQhSA5hAkQMQQfoRPCMkboRAQnOCCatoO924cIIIg4OBgfN88Gkx3QoOuCBvEqIG5D0rEZbNJGdJOaF8AipWknkug8mGhzO9xRtVxcunYKsNSrAGQrcwEA)]
-- [鋼琴伴奏 TMD 檔案](kimigayo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ys1PSS3Ki89OzEtU4tLSUng6Yfbjxp4nuxe_39PxZM-Wp0v73-_pVNDS4lK0VTCz5LK3VXDmsjHRN7EDmfZi5bz3e2Y97V_ybG2PEkjg2exNQIFn86Y_3b346boOsNiL9l1Pe6Y_3bH6-fqWp2t3PFuw8OXMlqcb1zzd0A_hPm1drvBs7eJny6Y-m9P8fPuKxw1dz1bMfLZr2tMpG4EGAxU93z_p6Y5pCs_XrHmyowHIf7pzi8LT1knPVy99PgWovBvo1mcz1j6d1PNkVw9Q7smuKc_mdDztbXyyo_nZ9KXPZ-55sbDn_Z6e51sWPZu948XM-QoG5kaWCibmQK8pcXF5Z-ZmpidW5lsFZCbm5Qd5ONQY1FRzKQCBjYWWHZihr6Vgiw6gzgEaraBhqgD0zfP1DToKAQZGFnpZBemaWDRo6YMNq1EwUtBVMARiEG0MxDUKpkASBEE8kGgNmAUSNQPTZiBdcUCmOVwIXREI1oAt8KlReNy0Fsh93DwfRDatgUkDRVZA2SD4uHk9VLQRzAPJPW7uRlK9BCyCLgsyfyvY5G1gMbj5XPhDa1cPOLTMSAstQ5C_wZ4HsyBOQw0emAgo8EDBB1EDkkNohogh-AidEJYxQiciFMH-b9oO9mUfIlwg4uDQe9y0CszugIZYFzRkVwFxG5KOzWC1G9FNal4Ai4umnUii82Cize1wR9WiJ1Uf5KRqhEiqL2e3PlvR9HRf97Pp3S8XrXi2YA8oi67YAcnPSMkwXsEwHpT44uNBbGBAABkgDJYCiSIJwSIDqgckZgxVCdcLZgCl4WaABEDu1rVTgDldAchW5gIA)]
+- [主旋律 TMD 檔案](kimigayo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFnoAglLhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xKRnJqcX5QaD_XQs2kbnq6b9bR10vPVS59O2fhsbY8Sl5aWwtMJsx839jzZvVhBSwuk8cXKee_3zHravwSsACjwbPYmoMCzedOf7l78dF3H-z0dT9ete9q6_PmcxpezW5-taHqxCqigE6z2Rfuupz3Tn-5Y_Xx9y9O1O54tWPhyZsvTjWuebuiHcIH6FJ6tXfxs2dRnc5qfb1_xuKHr2YqZz3ZNg7gIqOj5_klPd0xTeL5mzZMdDUD-051bFCCOfj4FqLwbaP-zGWufTup5sqsHKPdk15Rnczqe9jY-2dH8bPrS5zP3vFjY835Pz_Mti57N3vFi5nwFA3MjSwUTc5gTQQ5eO-dpf_Pz1uUg2zFCBWgHxElAZUAXv1jRpMTFpWirYGbJZW-r4MxlY6JvYsfFpa-lYEstwKWgoPC0bz7IwZvbX6zoetHRDnQIMCaetq54Nq0dFOQbep-1dyoEGBiY6mUVpAM9-LSl4emefqAyhQI9BUOQj9esUTBUeLlsGtCnwAgDmfli1f5nDctBpnX3AoMCFK_7up9N7waKKwB9oQAUfrp2AlDv44aeF6sWPG7e9GLfnsfNCx83tz1u6OUCO2vCbKD1jxt7HzfuBxoMSSogkSZgSgBy14MUPW5cCOQ_blz9uKkFzoZITH3cOO1xU8_jRqDE9MeN68Bmbge6EagEKLT-ceNusDkrHjeuetzU9bhxGUTf5MeNE4HKHzc1PG6c-bhx3-PG5SAJysMaChS09Lm4vDNzM9MTK_OtAjIT8_IdagxqqkGWKNhYaNmBGdgiGZo0gclMQcNEAZiyn69v0IHHjCYWDUCrQIbVKBgp6AKjSBdMGwNxjYIplAUSAcEaMA8kagamzUC64oBMc7gQUBHYOJ8ahcdNa4Hcx83zQWTTGrgZj5tXQNmPm_uRRBvBIiC5x83dSOJLwCLosjXgBIA7DHb1kBMGyP6D2G8I8h_Yk2AWtmCAiYACCh5UiFDYCvb_NrDLkUKhCeyvpu1g8T50cXDIPG6eDSY7oCHRBQ21VUDcBreIQFroBIeDMWnhAPIYwufoIYHwNoRljM3bm8He24juveYFUPbjpp1IovNgos3tcKNqubh07RRg2UAByFbmAgA)]
+- [鋼琴伴奏 TMD 檔案](kimigayo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGFnoAglLhHRRfk6qVWJycn5uQWJeZm5qXglCLjOvuKQIaGleiVVBZmJefnxZfnJiDkI-v6gkIx_ooIKMSqvc_JTUorz4goz8vNSSzOT47MS8RCRHJOcXpcZDnfps2oan62Y9bZ30fPXSp1M2Plvbo8SlpaXwdMLsx409T3Yvfr-n48meLU-X9r_f06mgpQUy5MXKee_3zHravwSsGCjwbPYmoMCzedOf7l78dF0HUMvTdeueti5_Pqfx5ezWZyuaXqwCKugEq33Rvutpz_SnO1Y_X9_ydO2OZwsWvpzZ8nTjmqcb-iFcoD6FZ2sXP1s29dmc5ufbVzxu6Hq2YuazXdMgrgMqer5_0tMd0xSer1nzZEcDkP905xYFiAeeTwEq7wba_2zG2qeTep7s6gHKPdk15dmcjqe9jU92ND-bvvT5zD0vFva839PzfMuiZ7N3vJg5X8HA3MhSwcQc5kSQg9fOedrf_Lx1Och2jBAC2gFxElAZ0MUvVjQpcXEp2iqYWXLZ2yo4c9mY6JvYcXF5Z-ZmpidW5lsFgOIryMOhxqCmmksBCGwstOzADH0tBVt0APUY0JEKGiYKwHB5vr5BRyHAwMBUL6sgXROLBi19sGE1CkYKugqGQAyijYG4RsEUygKJgGANmAcSNQPTZiBdcUCmOVwIqAhsnE-NwuOmtUDu4-b5ILJpDdyMx80roOzHzf1Ioo1gEZDc4-ZuJPElYBF02Rou_GGwq4ecMED2H8R-Q5D_wJ4Es7AFA0wEFFDwoEKEwlaw_7eBXY4UCk1gfzVtB4v3oYuDQ-Zx82ww2QENiS5oqK0C4ja4RQTSQic4HIxJCweQxxA-Rw8JhLchLGNs3t4M9t5GdO81L4CyHzftRBKdBxNtbocbVYueC3yQc4ERIhe86Ot62d4LKS1eLlrxbMEeYLZ9umvZi452YEZ-umcZpBBCSurxCobxoAQeHw9iA_0BZIAwWAokCvEIsgRQA1gPiGcMVQnSi6QQbBRQEdwksDzQG7p2CjCfKADZylwA)]
 
 ## 分析
 
@@ -80,15 +82,15 @@ tmd_source:
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Kimigayo (38.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  D, G, A, E, C
-   - 調性數值:    G 大調 [相關度: 0.79, 穩定度: Moderate, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.79), D 大調 (0.73), C 大調 (0.59)
+   - 核心骨幹音:  D, A, G, E, C
+   - 調性數值:    G 調性不明確 [相關度: 0.76, 穩定度: Ambiguous, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.76), D 大調 (0.75), D 小調 (0.61)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Kimigayo #1]: G 大調 (r: 0.79, 自然音純度: 100.0%)
+     • [Kimigayo #1]: G 調性不明確 (r: 0.76, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -101,21 +103,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ████████████              13.6%
+     C  : ███████████               13.6%
      C# :                            0.0%
-     D  : ████████████████████████  28.4%
+     D  : ████████████████████████  30.7%
      D# :                            0.0%
-     E  : █████████████             15.9%
+     E  : ████████████              15.9%
      F  :                            0.0%
      F# :                            0.0%
-     G  : █████████████████         20.5%
+     G  : ██████████████            18.2%
      G# :                            0.0%
-     A  : ████████████████          19.3%
+     A  : ███████████████           19.3%
      A# :                            0.0%
      B  : ██                         2.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : C4 – D5 (14 個半音 / 1.2 個八度, 40 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 40 個音符)
 ================================================================================
 ```
 

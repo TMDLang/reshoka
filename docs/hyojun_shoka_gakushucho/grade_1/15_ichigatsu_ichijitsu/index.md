@@ -4,7 +4,7 @@ song_title: "一月一日"
 song_id: "hyojun_shoka_gakushucho_grade_1_15_ichigatsu_ichijitsu"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_1"
-description: "〈一月一日〉收錄於日治時期臺灣《標準唱歌學習帖》（第一學年 兒童用（國臺圖 0729 47））（詞：千家尊福、曲：上真行），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、年（とし）ノハジメノ　例（ためし）トテ 終（をは）リナキ世（よ）ノ　メデタサヲ…"
+description: "〈一月一日〉收錄於日治時期臺灣《標準唱歌學習帖》（第一學年 兒童用（國臺圖 0729 47））（詞：千家尊福、曲：上真行），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一　年（とし）の始（はじめ）の　例（ためし）とて 終（をは）りなき世（よ）の目出（めで）たさを…"
 keywords: "一月一日, 標準唱歌學習帖, 第一學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 千家尊福, 上真行"
 schema_type: "MusicComposition"
 is_part_of: "《標準唱歌學習帖》 第一學年 兒童用（國臺圖 0729 47）"
@@ -13,7 +13,8 @@ credits:
   - "曲：上真行"
 sources:
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第一學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
-musical_key: "G"
+  - "樂譜參照《新定兒童唱歌》標準譜校訂"
+musical_key: "D"
 meter: "4/4"
 tempo: "96"
 image:
@@ -37,25 +38,26 @@ tmd_source:
 - 詞：千家尊福
 - 曲：上真行
 - 臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第一學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）
+- 樂譜參照《新定兒童唱歌》標準譜校訂
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P034.jpg–P035.jpg，原書 p. 34–35，第一學年第 15 首）：
-調性與拍號：ト調四分之四拍子（G 大調 4/4 拍），♩=96
+原書資訊與歌詞全文（對應 P009.jpg，儀式歌 p. 5，第 5 首）：
+調性與拍號：ニ長調 4/4 拍子，「快活ニ」
 
 
 ## 歌詞
 
 ```text
-一、年（とし）ノハジメノ　例（ためし）トテ
-終（をは）リナキ世（よ）ノ　メデタサヲ
-松竹（まつたけ）タテテ　門（かど）ゴトニ
-イハフ今日（けふ）コソ　タノシケレ
+一　年（とし）の始（はじめ）の　例（ためし）とて
+終（をは）りなき世（よ）の目出（めで）たさを
+松竹（まつたけ）たてて　門（かど）ごとに
+祝（いは）ふ今日（けふ）こそ　樂（たの）しけれ
 
-二、初日（はつひ）ノヒカリ　サシイデテ
-四方（よも）ニ耀（かがや）ク　今朝（けさ）ノ空（そら）
-君（きみ）ガミカゲニ　比（たぐ）ヘツツ
-仰（あふ）ギ見（み）ルコソ　タフトケレ
+二　初日（はつひ）の光（ひかり）　さし出（い）でて
+四方（よも）に輝（かゞや）く　今朝（けさ）の空（そら）
+君（きみ）が御影（みかげ）に　比（たぐ）へつつ
+仰（あふ）ぎ見（み）るこそ　尊（たふと）けれ
 ```
 
 ## ABC
@@ -66,8 +68,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](ichigatsu_ichijitsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJsgZAqK8stS8xLzgLoLijLzSlJTwNoRClLLMlNSQdLFyYl58WWpRZlpmakpSE5KLSoGuR1qRUlRYl5xclFmAchDCFX5RSUZ-UBnF2RUWmVkFpfkF2UmJ-bEZyfmJSIUlWSkAj2XmVsAtCQxB108ObUoNTc_D0UGaEx6Zp4VUDgJGFbAgNLSUniyo-HZnA4QOX2pgpYWl6KtgqUZl72tgjuXjYm-iR1I84uV897vmfW0t_npum1PN3Q9X9YPNvPZ7E1A4Sc7up7Pmf9iYQ9Y7EX7rqc905_uWP18fcvTtTueLVj4cmbL041rnm7oh3Cfti5XeLZ28bNlU5_NaX6-fcXjhq5nK2Y-2zXt6ZSNz9b2ABU93z_p6Y5pCs_XrAG6Csh_unOLwtPWSc9XL30-Bai8-_2ejmcz1j6d1PNkVw9Q7smuKUAPPO1tfLKjGeiH5zP3AN3yfk_P8y2Lns3e8WLmfAUDcyNLBRPz93s6lbi49LUUbKkFuBQUFJ72zQdZs7n9xYquFx3tQC8AQ-tp64pn09qBDn26ofdZe6cCKBHpZRWkP2qYDGSagphAF0K0KhToKRibAGWMTUGuRvI1kK1gaKrwctk0oNOBIQ2y7sWq_c8aloMs6u4F-g0o-ri5Ayj4dPbspx1tT3Z2AxlAqadrJwBtd1d4umQ5UFIBGJEKQFGwMT2PZq60BUYxyDSgVY8bGoFWARU_blzxuHE6UMnj5r7Hzf2Pm3Y8bl4IYjc0PNkHCvTHjfMfNzXC1HQ8bm4DGQECz7c2geSbJj1uXA-WXPW4uetx09onO4AuB4p3QE1taAAb2f64af_jpq2PmzfBDHg2d9_z1TvBdux73LgEZFPjRJAmoMLmNhBqaHg5rQGsoPtx40qw1BawI7phZjxuWgJydvPUJ7u7gOkArHbi48atYLWbHzftBVkPMq_vcdP2x00bHzevgYTBrh5QGHTMhWlaD3YBMGlDQmLS46bVIB-BdG8FawXa047ke1CITwM7vgmIgCEB1Nf9ogHu2p7HTS1gR6wHBSXQcXPmwhw3FWLJ85W7wCJzHzcBI6gTbvCE2WDh3seN-8EGrHncDIyC1Y-bNgFtABr2bP0UaLw0AqMbaNKMx80tQAQz4MnuDWD5JlgwrHuxDBKTYPOagSYhB8xUUIBCAgaomfLsAQUKWvpcXJ7JGZnpiSXFpSBGViaQYRWWDyzTHGoMaqrB7rWx0LIDM7DlUGhpAMzZChomCsDC5Pn6Bh14ttLEogFoKciwGoXq3LRaBdN4BV0IYQjFNQpGQFJXwRjMA8EaBTOYArBKYxABVAaiYNAAJAQ22MewRgEYXkA-ME2AyOY-MNkP1gTMPWD1wPQOlYHYAAxnqChCH8gMkFltSPaArYbYYwSUa1wPUtm4BExuApPrILrAPLBNjd1gM7ug4lPBYtPBZAuYXA6VWYZhD_5g39VDTrCTE-LmkBCHSWMLcLDnwYEMzJNgEurhprXQAF-BGuCQoG5uBwcOOPCbtkJlYEGHJcCbIBHbBA641fDgBQVfD8SephYgG-QOqD2NE8GqIMEOihxgdoa6rJPEAN_RSVY6ByZzY3DwIjAwGjCCHBQJIAySB9HQqMIV4PPAwQdOQdDg2wj1FogHkmtDSrsgcXBwNYM8DSyjwWxYCgcFIa4U3gsVB5ZNYBIUzCBxqC3A4H_cOAkpuCGRMh9MTgCToBwHkgHlEhKCG1h8D5703QTO4tD0DU5LsOAG80D8zUC8Fym4IQUKuPCBFChwHWvwBDckZYNywuNGsF5wQIPMg0TS48bJ0BQMC3BIUEN0rACToBQP0gHJEcj21HJx6dopYJb50T6GsQo4ZIzAMspcAA)]
-- [鋼琴伴奏 TMD 檔案](ichigatsu_ichijitsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ys1PSS3Ki89OzEtU4tLSUniyo-HZnA4QOX3p-z0dT_Zsebq0__2eTgUtLS5FWwVLMy57WwV3LhsTfRM7kIEvVs57v2fW097mp-u2Pd3Q9XxZvxJI-NnsTUDhJzu6ns-Z_2JhD1jsRfuupz3Tn-5Y_Xx9y9O1O54tWPhyZsvTjWuebuiHcJ-2Lld4tnbxs2VTn81pfr59xeOGrmcrZj7bNe3plI3P1vYAFT3fP-npjmkKz9esAboQyH-6c4vC09ZJz1cvfT4FqLwb6OJnM9Y-ndTzZFcPUO7JrilAzzztbXyyoxnon-cz9wDd8n5Pz_Mti57N3vFi5nwFA3MjSwUTc6AHlbi4PJMzMtMTS4pLQYysTCDDKiAzMS8_yMOhxqCmmksBCGwstOzADH0tBVt0AHUY0BIFDRMFoL-er2_QUQgwMDbRyypI18SiQUsfbFiNgmm8gi6EMITiGgUjIKmrYAzmgWCNghlMAVilMYgAKgNRMGgAEgKb6WNYo_C4uQPIf9y0HUQ294HJfrCmx007wOofNy-EykBseNy0HyqK0AcyA2RWG5I9YKsh9hiB5ECmPm5uAZOT4LaBZEA8sE1Nq8Hiq6D2bEXY0LQELNOO0x78Ib6rh14hbg4JcZg0lgBvAnnvcfN6uFcfN3dBPbwWGuArUAMcEtRgz0MDHxw0MLNwBfgKsK5FYLIbHrwgXWug9iwBskHugEXsRrjZ0KTQtBfqgpUkBviOTnIC3BgctAgMjAKM4AZFAAiD5EE0NJpwpe55YM-AUx006ECehKVikFwbUnoCiUPSYCdY7RYwG5a6QYGII7ChUQdSPR-sExTEID0gHiToHzdtQtgCjRCIizaASVB0gWRAbiUhqJ_Onj2I0jYkm4LTdtMyMLn2cfNyaMhCEuvjps3QhAULcUh5AklwkNwOjaNmSELFHuLghA3JTE3r4CEP0gWKQSz2QEs6SJaDsHHbU4u7sPdBLuyNEIX9sxl9T_evfrZ24bPWbU9bdzxftg5SNyIC3TAehBC0CZQ2jY8HY4j3sKoDS4N4BjhVAUt5IIKYhlsVullAj-raKWD6NdrHMFYBh4wRWEaZCwA)]
+- [主旋律 TMD 檔案](ichigatsu_ichijitsu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJvoAglThHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xKRnJqcX5QaD_XQs2kbnq6b9bR10vPVS59O2fhsbY8Sl5aWwpMdDc_mdIDI6UsVtLRAel-snPd-z6ynvc1P1217uqHr-bJ-sJHPZm8CCj_Z0fV8zvwXC4G6QUrbdz3tmf50x-rn61uert3xbMHClzNbnm5c83RDP4T7tHW5wrO1i58tm_psTvPz7SseN3Q9WzHz2a5pECcAFT3fP-npjmkKz9esAToCyH-6c4sCxJXPpwCVd7_f0_Fsxtqnk3qe7OoByj3ZNQXo3qe9jU92NAOd_HzmHqBb3u_peb5l0bPZO17MnK9gYG5kqWBi_n5PJ8TZK5perJ3ztL_5eetykO0YwQC0A-IkoDKgi1-saFLi4lK0VbA047K3VXDhsjHRN7Hj4tLXUrClFuBSUFB42jcf5ODN7S9WdL3oaAc6BBjuT1tXPJvWDvTy0w29z9o7FQIMDCz1sgrSgR582tLwdE8_UJlCgZ6CKcjHa9YomCq8XDYN6FNgxIDMfLFq_7OG5SDTunuBQQEUfdzc_XLqdqC4AtAXCkDhp2snAPU-buh5un_1sy27gfKPG3q5QJqBwf-4oQEYxEDrHzeueNw4HWjw48Z1T5eD4uBx4_rHjTMeNzVCBIEqn-yDiM8HCsIUA3UtA5n1fGsTSK5pElAbSKKp63HjqseNvU92AF0LFO-AmPJ89rqn7bvAIkAjloMF5z9unArUCDLl2dx9z1fvBFuy73HjErDcRJiiZSDU0PByWgNYQffjxpVgqSlgV6wGu2LpXLBcC9QVjVuf7O4CJhqw4EQgFyw4-XHjXKBBwHQC9U7jOrD4dJCaph5I2OwCBlnD0465MN3AwAC6B5ghwCHUCowAoOAmkDOaukCCDQ0gbzROh3qvsQWscjk0eJ7Onv1sGthjTUAEtBcot_rFHohrgUbMe9wE0dAPCmegm-dApIBungoNuZUQc-c-bgLa3Qk2dMJssFDv48b9YEU9T_ctfLp3I1hwPziEJkFsAvl2_RSYb4HpASi4A-yhJWDP7t4AlmuChVDfi2WQqAab2wQ0CBpmwNIBZspWYLCDFYPDDGgK5bkEChS09Lm4PJMzMtMTS4pLQYysTCDDKiwfWOI51BjUVIOsU7Cx0LIDM7BlVGjxAiwqFDRMFICl0_P1DTrw3KWJRQPQUpBhNcAspguGZkAMYtcoGIP5RgqGQBKEa4BsEB8ir6tgAlcDgQYgNWDTfAxrFB43d0DFHzdtB5HNfWAzHjf3Q0V3ANkLkWWa9oN5YDGwHhCvA6ynDcmeeIQ9RkC5xvUgdY1LwOQmMLkOYh6YBzalsRtsZhdUfCpYbDqYbIGqWA6WWYZhD_6w3tVD67CGydSAxXGFNdyn4NB93LwKGtYgH4N8vhbIXoESC5CQbwfLgsIdRG8Fy8DMwhLWTYg4bQKH2mpoiILCF8TvAcqAQhSYpaEyE8E8SIiD4gVEzwXHdieJYb2jk5ywNowDBSmcAAU5VBAEQaEPiQGQBCw-CKfteeDQA_sUkmqbNkL8Cw1LkCwozUJIkDgopB43g_z8uGkLVAUkbUPCDnva7oWZ1gi2BRi-kFCF8MCpunESSkzMB_MmgMkdUL1LwDKgHEJCeAMLb-qkbXi4g7gmYCFQ0MJ4BBN3E8zhsMQNSkwgcVCQQ3iPmzaDyb1IkQBJ6vCCBKgaFNhr8AQ2KElDAmwrmIRmFUhgN0ECezKYnIsS2BDVoOwFoieCXQCKKFR7arm4dO0UMAt4BaCoMhcA)]
+- [鋼琴伴奏 TMD 檔案](ichigatsu_ichijitsu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RIgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJvoAglThHRRfk6qVWJycn5uQWJeZm5qXglCLjOvuKQIaGleiVVBZmJefnxZfnJiDkI-v6gkIx_ooIKMSqvc_JTUorz4goz8vNSSzOT47MS8RCRHJOcXpcZDnfps2oan62Y9bZ30fPXSp1M2Plvbo8SlpaXwZEfDszkdIHL60vd7Op7s2fJ0af_7PZ0KWlogc16snPd-z6ynvc1P1217uqHr-bJ-sPHPZm8CCj_Z0fV8zvwXC4EmgZS273raM_3pjtXP17c8Xbvj2YKFL2e2PN245umGfgj3aetyhWdrFz9bNvXZnObn21c8buh6tmLms13TIM4BKnq-f9LTHdMUnq9ZA3QQkP905xYFiIufTwEq7wY68NmMtU8n9TzZ1QOUe7JrCtDtT3sbn-xoBjr_-cw9QLe839PzfMuiZ7N3vJg5X8HA3MhSwcQc6B-Is1c0vVg752l_8_PW5SDbMYIEaAfESUBlQBe_WNGkxMWlaKtgacZlb6vgwmVjom9ix8XlmZyRmZ5YUlwKYmRlAhlWAaCoCvJwqDGoqeZSAAIbCy07MENfS8EWHUC9CHSugoaJAjCEnq9v0FEIMDCw1MsqSNfEokFLH2xYjYKpgi4YmgExiF2jYAzmGykYAkkQrgGyQXyIvK6CCVwNBBqA1IBN8zGsUXjc3AEVf9y0HUQ294HNeNzcDxXdAWQvRJZp2g_mgcXAekC8DrCeNiR74hH2GAHlGteD1DUuAZObwOQ6iHlgHtiUxm6wmV1Q8algselgsgWqYjlYZhmGPfjDelcPrcMaJlMDFscV1nCfgkP3cfMqaFiDfAzy-VogewVKLEBCvh0sCwp3EL0VLAMzC0tYNyHitAkcaquhIQoKXxC_BygDCtHHjSB3gGQmgnmQEAfFC4ieC47tThLDekcnOWFtGAcKUjgBCnKoIAiCQh8SAyAJWHwQTtvzwKEH9ikk1TZthPgXGpYgWVCahZAgcVBIPW4G-flx0xaoCkjahoQd9rTdCzOtEWwLMHwhoQrhgVN14ySUmJgP5k0AkzugepeAZUA5hITwfjp7NnXSNjzcQVwTsBAoaGE8gom7CeZwWOIGJSaQOCjIIbzHTZvB5F6kSIAkdXhBAlQNCuw1eAIblKQhAbYVTEKzCiSwmyCBPRlMzkUJbIhqUPYC0RPBLgBFFKo9tbjLdx_k8t0EUb4_nTbnWeu2ZzP6nuxaB4yOZ929T9dOgFSlSAk8XiHaMBZGASMgHsgyjY9FMAioMYAGAlyZCZAyQdIG5-M3GmEOVAPcOkJ8_M4hThtW5wDDXNdOATPYo32AanDIGIFllLkA)]
 
 ## 分析
 
@@ -75,30 +77,29 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 一月一日 ]
 ================================================================================
-⏱  Duration:       1:20 (80.0s), 32 measures total
-🎼 Key & Tempo:    首調基準 G, != 96.0 BPM, <4/4>
+⏱  Duration:       0:40 (40.0s), 16 measures total
+🎼 Key & Tempo:    首調基準 D, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A3 (MIDI 57) – D5 (MIDI 74) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
-   - 最低音:  A3 in [IchigatsuIchijitsu[L1] #1 @ m.4, 0:07]
-   - 最高音: D5 in [IchigatsuIchijitsu[L1] #1 @ m.10, 0:22]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [IchigatsuIchijitsu #1 @ m.2, 0:03]
+   - 最高音: D5 in [IchigatsuIchijitsu #1 @ m.9, 0:20]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      IchigatsuIchijitsu[L1] (40.0s) -> IchigatsuIchijitsu[L2] (40.0s)
+🏛  結構:      IchigatsuIchijitsu (40.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, D, A, B, E
-   - 調性數值:    G 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.89), D 大調 (0.69), G 小調 (0.61)
-   - 五度圈歷程:   +1 -> +1
+   - 核心骨幹音:  D, A, F#, B, E
+   - 調性數值:    D 大調 [相關度: 0.94, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.94), A 大調 (0.69), F# 小調 (0.64)
+   - 五度圈歷程:   +2
    - 各段落調性細節:
-     • [IchigatsuIchijitsu[L1] #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
-     • [IchigatsuIchijitsu[L2] #1]: G 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [IchigatsuIchijitsu #1]: D 大調 (r: 0.94, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+      Bb              [D ]*
       Eb               A  
          Ab           E  
             Db       B  
@@ -108,19 +109,19 @@ tmd_source:
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : ██████████████            22.5%
+     D  : ████████████████████████  26.7%
      D# :                            0.0%
-     E  : ███                        5.0%
+     E  : █████████                 10.0%
      F  :                            0.0%
-     F# : ██                         3.3%
-     G  : ████████████████████████  38.3%
+     F# : █████████████████         19.2%
+     G  : █████                      5.8%
      G# :                            0.0%
-     A  : ███████████               17.5%
+     A  : ████████████████████████  26.7%
      A# :                            0.0%
-     B  : ████████                  13.3%
+     B  : ███████████               11.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : A3 – D5 (17 個半音 / 1.4 個八度, 96 個音符)
+  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 48 個音符)
 ================================================================================
 ```
 

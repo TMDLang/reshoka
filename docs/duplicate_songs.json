@@ -1,8 +1,8 @@
 {
   "total_corpus_songs": 1549,
-  "unique_song_count": 1056,
-  "duplicate_group_count": 274,
-  "duplicate_occurrence_count": 767,
+  "unique_song_count": 1052,
+  "duplicate_group_count": 275,
+  "duplicate_occurrence_count": 772,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -37,7 +37,7 @@
     {
       "id": "animals_and_plants",
       "label": "動物與植物",
-      "duplicate_group_count": 25
+      "duplicate_group_count": 26
     },
     {
       "id": "daily_life_and_play",
@@ -964,7 +964,7 @@
     },
     {
       "id": "gakutaiasobi",
-      "title": "ガクタイアソビ／がくたいあそび",
+      "title": "ガクタイアソビ／がくたいあそび／樂隊遊",
       "theme_category": "other",
       "theme_category_label": "其他",
       "entries": [
@@ -979,6 +979,12 @@
           "md_file": "kyoyusho_shoka_1935/2_21_gakutai_asobi/index.md",
           "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "がくたいあそび"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_1/11_gakutai_asobi",
+          "md_file": "hyojun_shoka_gakushucho/grade_1/11_gakutai_asobi/index.md",
+          "book_label": "《標準唱歌學習帖》第一學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+          "raw_title": "樂隊遊"
         }
       ]
     },
@@ -1064,7 +1070,7 @@
     },
     {
       "id": "shabondama",
-      "title": "シャボン玉／しやぼん玉",
+      "title": "シャボン玉／しやぼん玉／しやぼんだま",
       "theme_category": "daily_life_and_play",
       "theme_category_label": "日常生活與遊戲",
       "entries": [
@@ -1079,6 +1085,18 @@
           "md_file": "kyoyusho_shoka_1935/2_08_shabondama/index.md",
           "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "しやぼん玉"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_2/07_shabondama",
+          "md_file": "hyojun_shoka_gakushucho/grade_2/07_shabondama/index.md",
+          "book_label": "《標準唱歌學習帖》第二學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+          "raw_title": "シャボン玉"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_3/10_shabondama",
+          "md_file": "hyojun_shoka_gakushucho/grade_3/10_shabondama/index.md",
+          "book_label": "《標準唱歌學習帖》第三學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+          "raw_title": "しやぼんだま"
         }
       ]
     },
@@ -1165,6 +1183,26 @@
           "md_file": "kyoyusho_shoka_1935/2_12_hikoki/index.md",
           "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "ひかうき"
+        }
+      ]
+    },
+    {
+      "id": "hiyoko",
+      "title": "ヒヨコ",
+      "theme_category": "animals_and_plants",
+      "theme_category_label": "動物與植物",
+      "entries": [
+        {
+          "rel_dir": "shokacho/vol_02/p070b_hiyoko",
+          "md_file": "shokacho/vol_02/p070b_hiyoko/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
+          "raw_title": "ヒヨコ"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_1/04_hiyoko",
+          "md_file": "hyojun_shoka_gakushucho/grade_1/04_hiyoko/index.md",
+          "book_label": "《標準唱歌學習帖》第一學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+          "raw_title": "ヒヨコ"
         }
       ]
     },
@@ -1413,11 +1451,49 @@
       "theme_category_label": "儀式與紀念",
       "entries": [
         {
+          "rel_dir": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu",
+          "md_file": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "一月一日"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "一月一日"
+        },
+        {
+          "rel_dir": "shokacho/vol_01/p123_ichigatsu_ichijitsu",
+          "md_file": "shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
+          "raw_title": "一月一日"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "一月一日"
+        },
+        {
+          "rel_dir": "kyoyusho_shoka_1935/0_05_ichigatsu_ichijitsu",
+          "md_file": "kyoyusho_shoka_1935/0_05_ichigatsu_ichijitsu/index.md",
+          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+          "raw_title": "一月一日"
+        },
+        {
           "rel_dir": "hyojun_shoka_gakushucho/grade_1/15_ichigatsu_ichijitsu",
           "md_file": "hyojun_shoka_gakushucho/grade_1/15_ichigatsu_ichijitsu/index.md",
           "book_label": "《標準唱歌學習帖》第一學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
           "raw_title": "一月一日"
-        },
+        }
+      ]
+    },
+    {
+      "id": "ichigatsuichijitsu",
+      "title": "一月一日",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
+      "entries": [
         {
           "rel_dir": "hyojun_shoka_gakushucho/grade_2/15_ichigatsu_ichijitsu",
           "md_file": "hyojun_shoka_gakushucho/grade_2/15_ichigatsu_ichijitsu/index.md",
@@ -1446,44 +1522,6 @@
           "rel_dir": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu",
           "md_file": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md",
           "book_label": "《標準唱歌學習帖》第六學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
-          "raw_title": "一月一日"
-        }
-      ]
-    },
-    {
-      "id": "ichigatsuichijitsu",
-      "title": "一月一日",
-      "theme_category": "ritual_and_commemoration",
-      "theme_category_label": "儀式與紀念",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu",
-          "md_file": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "一月一日"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "一月一日"
-        },
-        {
-          "rel_dir": "shokacho/vol_01/p123_ichigatsu_ichijitsu",
-          "md_file": "shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-          "raw_title": "一月一日"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "一月一日"
-        },
-        {
-          "rel_dir": "kyoyusho_shoka_1935/0_05_ichigatsu_ichijitsu",
-          "md_file": "kyoyusho_shoka_1935/0_05_ichigatsu_ichijitsu/index.md",
-          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "一月一日"
         }
       ]
@@ -2687,11 +2725,49 @@
       "theme_category_label": "儀式與紀念",
       "entries": [
         {
+          "rel_dir": "kogakko_shokashu_1915/2_01_tenchosetsu",
+          "md_file": "kogakko_shokashu_1915/2_01_tenchosetsu/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "天長節"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "天長節"
+        },
+        {
+          "rel_dir": "shokacho/vol_01/p126_tenchosetsu",
+          "md_file": "shokacho/vol_01/p126_tenchosetsu/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
+          "raw_title": "天長節"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "天長節"
+        },
+        {
+          "rel_dir": "kyoyusho_shoka_1935/0_03_tenchosetsu",
+          "md_file": "kyoyusho_shoka_1935/0_03_tenchosetsu/index.md",
+          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+          "raw_title": "天長節"
+        },
+        {
           "rel_dir": "hyojun_shoka_gakushucho/grade_1/13_tenchosetsu",
           "md_file": "hyojun_shoka_gakushucho/grade_1/13_tenchosetsu/index.md",
           "book_label": "《標準唱歌學習帖》第一學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
           "raw_title": "天長節"
-        },
+        }
+      ]
+    },
+    {
+      "id": "tenchosetsu",
+      "title": "天長節",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
+      "entries": [
         {
           "rel_dir": "hyojun_shoka_gakushucho/grade_2/13_tenchosetsu",
           "md_file": "hyojun_shoka_gakushucho/grade_2/13_tenchosetsu/index.md",
@@ -2720,44 +2796,6 @@
           "rel_dir": "hyojun_shoka_gakushucho/grade_6/13_tenchosetsu",
           "md_file": "hyojun_shoka_gakushucho/grade_6/13_tenchosetsu/index.md",
           "book_label": "《標準唱歌學習帖》第六學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
-          "raw_title": "天長節"
-        }
-      ]
-    },
-    {
-      "id": "tenchosetsu",
-      "title": "天長節",
-      "theme_category": "ritual_and_commemoration",
-      "theme_category_label": "儀式與紀念",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shokashu_1915/2_01_tenchosetsu",
-          "md_file": "kogakko_shokashu_1915/2_01_tenchosetsu/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "天長節"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "天長節"
-        },
-        {
-          "rel_dir": "shokacho/vol_01/p126_tenchosetsu",
-          "md_file": "shokacho/vol_01/p126_tenchosetsu/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-          "raw_title": "天長節"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "天長節"
-        },
-        {
-          "rel_dir": "kyoyusho_shoka_1935/0_03_tenchosetsu",
-          "md_file": "kyoyusho_shoka_1935/0_03_tenchosetsu/index.md",
-          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "天長節"
         }
       ]
@@ -2854,7 +2892,7 @@
           "rel_dir": "hyojun_shoka_gakushucho/grade_1/14_shisei_kinenbi",
           "md_file": "hyojun_shoka_gakushucho/grade_1/14_shisei_kinenbi/index.md",
           "book_label": "《標準唱歌學習帖》第一學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
-          "raw_title": "始政紀念日"
+          "raw_title": "始政記念日"
         },
         {
           "rel_dir": "hyojun_shoka_gakushucho/grade_2/14_shisei_kinenbi",
@@ -5219,11 +5257,49 @@
       "theme_category_label": "儀式與紀念",
       "entries": [
         {
+          "rel_dir": "kogakko_shokashu_1915/3_06_kigensetsu",
+          "md_file": "kogakko_shokashu_1915/3_06_kigensetsu/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "紀元節"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/31_kigensetsu",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/31_kigensetsu/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "紀元節"
+        },
+        {
+          "rel_dir": "shokacho/vol_01/p124_kigensetsu",
+          "md_file": "shokacho/vol_01/p124_kigensetsu/index.md",
+          "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
+          "raw_title": "紀元節"
+        },
+        {
+          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu",
+          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/index.md",
+          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+          "raw_title": "紀元節"
+        },
+        {
+          "rel_dir": "kyoyusho_shoka_1935/0_04_kigensetsu",
+          "md_file": "kyoyusho_shoka_1935/0_04_kigensetsu/index.md",
+          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+          "raw_title": "紀元節"
+        },
+        {
           "rel_dir": "hyojun_shoka_gakushucho/grade_1/16_kigensetsu",
           "md_file": "hyojun_shoka_gakushucho/grade_1/16_kigensetsu/index.md",
           "book_label": "《標準唱歌學習帖》第一學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
           "raw_title": "紀元節"
-        },
+        }
+      ]
+    },
+    {
+      "id": "kigensetsu",
+      "title": "紀元節",
+      "theme_category": "ritual_and_commemoration",
+      "theme_category_label": "儀式與紀念",
+      "entries": [
         {
           "rel_dir": "hyojun_shoka_gakushucho/grade_2/16_kigensetsu",
           "md_file": "hyojun_shoka_gakushucho/grade_2/16_kigensetsu/index.md",
@@ -5252,44 +5328,6 @@
           "rel_dir": "hyojun_shoka_gakushucho/grade_6/16_kigensetsu",
           "md_file": "hyojun_shoka_gakushucho/grade_6/16_kigensetsu/index.md",
           "book_label": "《標準唱歌學習帖》第六學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
-          "raw_title": "紀元節"
-        }
-      ]
-    },
-    {
-      "id": "kigensetsu",
-      "title": "紀元節",
-      "theme_category": "ritual_and_commemoration",
-      "theme_category_label": "儀式與紀念",
-      "entries": [
-        {
-          "rel_dir": "kogakko_shokashu_1915/3_06_kigensetsu",
-          "md_file": "kogakko_shokashu_1915/3_06_kigensetsu/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "紀元節"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/31_kigensetsu",
-          "md_file": "shoka_kyozai_shu_1923/grade_1_2/31_kigensetsu/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "紀元節"
-        },
-        {
-          "rel_dir": "shokacho/vol_01/p124_kigensetsu",
-          "md_file": "shokacho/vol_01/p124_kigensetsu/index.md",
-          "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-          "raw_title": "紀元節"
-        },
-        {
-          "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu",
-          "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/index.md",
-          "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
-          "raw_title": "紀元節"
-        },
-        {
-          "rel_dir": "kyoyusho_shoka_1935/0_04_kigensetsu",
-          "md_file": "kyoyusho_shoka_1935/0_04_kigensetsu/index.md",
-          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "紀元節"
         }
       ]

@@ -18,7 +18,7 @@ image: "0_book_info/cp_01.jpg"
 | 第 4 課 | [**海**](04_umi/index.md) | — | `?=D` `<2/4>` `!=108` | P012.jpg, P013.jpg |
 | 第 5 課 | [**七面鳥**](05_shichimencho/index.md) | 詞：葛原しげる / 曲：梁田貞 | `?=C` `<2/4>` `!=104` | P014.jpg, P015.jpg |
 | 第 6 課 | [**ヨク學ビヨク遊ベ**](06_yoku_manabi_yoku_asobe/index.md) | — | `?=F` `<4/4>` `!=108` | P016.jpg, P017.jpg |
-| 第 7 課 | [**シヤボン玉**](07_shabondama/index.md) | 詞：野口雨情 / 曲：中山晉平 | `?=Eb` `<2/4>` `!=96` | P018.jpg, P019.jpg |
+| 第 7 課 | [**シャボン玉**](07_shabondama/index.md) | 詞：野口雨情 / 曲：中山晉平 | `?=Eb` `<2/4>` `!=96` | P018.jpg, P019.jpg |
 | 第 8 課 | [**蓄音機**](08_chikuonki/index.md) | 詞：葛原しげる / 曲：梁田貞 | `?=G` `<2/4>` `!=104` | P020.jpg, P021.jpg |
 | 第 9 課 | [**ダイコクサマ**](09_daikokusama/index.md) | — | `?=D` `<2/4>` `!=100` | P022.jpg, P023.jpg |
 | 第 10 課 | [**イハヒビ**](10_ihahipi/index.md) | — | `?=C` `<4/4>` `!=100` | P024.jpg, P025.jpg |
