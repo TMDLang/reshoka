@@ -1,46 +1,7 @@
 {
   "total_corpus_songs": 1549,
-  "same_melody_different_lyrics_group_count": 19,
+  "same_melody_different_lyrics_group_count": 9,
   "groups": [
-    {
-      "versions": [
-        {
-          "id": "kyoeki_shoka/kan_2_854863/3_ame",
-          "lyrics": "いずこおいでていずこにいたるあしぶみはやくまどうつあめよくもよりいでてくさばにやどるせはしやわれはきのふもきょうも",
-          "titles": [
-            "雨"
-          ],
-          "year": 1900,
-          "occurrences": [
-            {
-              "rel_dir": "kyoeki_shoka/kan_2_854863/3_ame",
-              "md_file": "kyoeki_shoka/kan_2_854863/3_ame/index.md",
-              "book_label": "《共益商社唱歌教科書》卷二・教師用（明治33年／1900）",
-              "raw_title": "雨",
-              "year": 1900
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_03/p036_ame",
-          "lyrics": "いずこおいでのいずこにいたるあしぶみはやくまどうつあめよ",
-          "titles": [
-            "雨"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_03/p036_ame",
-              "md_file": "shokacho/vol_03/p036_ame/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 3 冊・I（2020.006.0843）",
-              "raw_title": "雨",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "001_3_ame"
-    },
     {
       "versions": [
         {
@@ -93,7 +54,7 @@
           ]
         }
       ],
-      "id": "002_14_kiku_no_hana"
+      "id": "001_14_kiku_no_hana"
     },
     {
       "versions": [
@@ -132,7 +93,7 @@
           ]
         }
       ],
-      "id": "003_19_sotsugyo_no_uta"
+      "id": "002_19_sotsugyo_no_uta"
     },
     {
       "versions": [
@@ -195,7 +156,7 @@
           ]
         }
       ],
-      "id": "004_1_meiji_tenno_gyosei"
+      "id": "003_1_meiji_tenno_gyosei"
     },
     {
       "versions": [
@@ -225,7 +186,7 @@
         },
         {
           "id": "shoka_kyozai_shu_1923/koto_1_2/08_sobetsu_no_uta",
-          "lyrics": "あさなゆうなにおこたらずつとおめはげみしそのおいさおきょうあらはれえてつきのかつらたおりえまししめえでえたさおさはれいくとせへだてなばむつびかはししこのおたもと",
+          "lyrics": "あさなゆうなにおこたらずつとめはげみしそのいさおきょうあらはれてつきのかつらたおりえまししめでたさよ",
           "titles": [
             "送別の歌"
           ],
@@ -265,261 +226,13 @@
           ]
         }
       ],
-      "id": "005_p042_hotaru_no_hikari"
-    },
-    {
-      "versions": [
-        {
-          "id": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
-          "lyrics": "わだのはらにしまのごとくみゆるはよするあたおふせぐふねよあおおしたけしいくさぶねよ",
-          "titles": [
-            "軍艦"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_08/p012_gunkan",
-              "md_file": "shokacho/vol_08/p012_gunkan/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 8 冊・VIII（2020.006.0843）",
-              "raw_title": "軍艦（軍艦）",
-              "year": 1923
-            },
-            {
-              "rel_dir": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan",
-              "md_file": "shintei_jido_shoka/grade_5_2020.006.0847.0005/3_04_gunkan/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第五學年用（2020.006.0847.0005）",
-              "raw_title": "軍艦",
-              "year": 1934
-            }
-          ]
-        },
-        {
-          "id": "shoka_kyozai_shu_1923/koto_1_2/37_gunkan",
-          "lyrics": "わだのはらにしまのごとくみゆるはよするあだおふせぐふねよあおしたけしいくさぶねよわだのはらにしまのごとくみゆるはよするあだおふせぐふねよあおしたけしいくさぶねよ",
-          "titles": [
-            "軍艦"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/37_gunkan",
-              "md_file": "shoka_kyozai_shu_1923/koto_1_2/37_gunkan/index.md",
-              "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "軍艦（二部）",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "006_p012_gunkan"
-    },
-    {
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/grade_3_4/46_aki_no_kaze",
-          "lyrics": "かきのきのえだのさきあかいきのはがひとつかぜになぶられてひらひらとあぶない",
-          "titles": [
-            "秋の風"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/46_aki_no_kaze",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/46_aki_no_kaze/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "秋の風",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_01/p148_aki_no_kaze",
-          "lyrics": "かきのきのえだのさきあかいきのはがひとつかぜになぶるれてひらひらとあぶないかぜのふくそのえだのさきみかずきさまがみえるあぶないところでちらされはしないか",
-          "titles": [
-            "秋の風"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_01/p148_aki_no_kaze",
-              "md_file": "shokacho/vol_01/p148_aki_no_kaze/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-              "raw_title": "秋の風",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "007_46_aki_no_kaze"
-    },
-    {
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/grade_3_4/47_misora_no_kagami",
-          "lyrics": "つきがみそらのかがみならなきかあさまのおすがたおうつしてみせてくれるでせう",
-          "titles": [
-            "みそらの鏡"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/47_misora_no_kagami",
-              "md_file": "shoka_kyozai_shu_1923/grade_3_4/47_misora_no_kagami/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "みそらの鏡",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_01/p149_misora_no_kagami",
-          "lyrics": "きすけのうえいしょおでははおやてきみかげじょうかんしんしどうにんつうきがみそおらのかがみなあらなきかああさあまのおすがたあおうつしてみいせてくれえるでせうあかり",
-          "titles": [
-            "みそらの鏡"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_01/p149_misora_no_kagami",
-              "md_file": "shokacho/vol_01/p149_misora_no_kagami/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-              "raw_title": "みそらの鏡",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "008_47_misora_no_kagami"
-    },
-    {
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/grade_5_6/04_teishaba_no_suzu",
-          "lyrics": "からんからんからんからんどなたもいそげとからんからんからんからんかねがなるよ",
-          "titles": [
-            "停車場の鈴"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/04_teishaba_no_suzu",
-              "md_file": "shoka_kyozai_shu_1923/grade_5_6/04_teishaba_no_suzu/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "停車場の鈴",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_01/p151_teishaba_no_suzu",
-          "lyrics": "どなたもいりでとからんからんからんからんかねがなるよころしもせかせてからんからんからんからんひびきわたるれどもあわててからんからんからんからんけがおするな",
-          "titles": [
-            "停車場の鈴"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_01/p151_teishaba_no_suzu",
-              "md_file": "shokacho/vol_01/p151_teishaba_no_suzu/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-              "raw_title": "停車場の鈴",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "009_04_teishaba_no_suzu"
-    },
-    {
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/grade_5_6/46_wakare",
-          "lyrics": "はるのはるのあしたはなのもとにともにともにたのしくしたしみあひし",
-          "titles": [
-            "別れ"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/46_wakare",
-              "md_file": "shoka_kyozai_shu_1923/grade_5_6/46_wakare/index.md",
-              "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "別れ",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "kogakko_shoka/grade_6/20_wakare",
-          "lyrics": "はるのはるのあしたはなのもとにともにともにたのしくしたしみあひしひごろのまじはりわすれぬほどにおしきわかれおつげなんさらば",
-          "titles": [
-            "別れ"
-          ],
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare",
-              "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/4_19_wakare/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
-              "raw_title": "別れ",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_6/20_wakare",
-              "md_file": "kogakko_shoka/grade_6/20_wakare/index.md",
-              "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
-              "raw_title": "別れ",
-              "year": 1940
-            }
-          ]
-        }
-      ],
-      "id": "010_46_wakare"
-    },
-    {
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/koto_1_2/11_koronbusu",
-          "lyrics": "ちきゅうはまろしひがしよりにしへにしへとこぎゆけばひがしのはてとしんじたるいんどのはしにたつせんとおもいさだめてころんぶすこうろおつけんとくはだてぬ",
-          "titles": [
-            "コロンブス"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/11_koronbusu",
-              "md_file": "shoka_kyozai_shu_1923/koto_1_2/11_koronbusu/index.md",
-              "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "コロンブス",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_10/p203_koronbusu",
-          "lyrics": "ころんぶすちきゅうはまあろしひがしよりにしへとゆけばひがしのくにのいんどのはしにたっぜんとおもいさだめてころんぶすにしへにしへとふねおやるじたいはまことしかくあ",
-          "titles": [
-            "コロンブス"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_10/p203_koronbusu",
-              "md_file": "shokacho/vol_10/p203_koronbusu/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 10 冊・X（2020.006.0843）",
-              "raw_title": "コロンブス (哥倫布)",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "011_11_koronbusu"
+      "id": "004_p042_hotaru_no_hikari"
     },
     {
       "versions": [
         {
           "id": "shoka_kyozai_shu_1923/koto_1_2/20_dosokai",
-          "lyrics": "まなびのまどのあけくれにつくえならべちょうみおよみはなにもみじにあそびしもあああのやまよこのかはよまなびのまどのあけくれにつくえならべちょうみおよみはなにもみじ",
+          "lyrics": "まなびのまどのあけくれにつくえならべちょうみおよみはなにもみじにあそびしもあああのやまよこのかはよ",
           "titles": [
             "同窓會",
             "同窓會（二部合唱）"
@@ -560,131 +273,7 @@
           ]
         }
       ],
-      "id": "012_20_dosokai"
-    },
-    {
-      "versions": [
-        {
-          "id": "shoka_kyozai_shu_1923/koto_1_2/22_shiki_no_sanpo",
-          "lyrics": "たのしきよにもたのしやはるほうめさくそのにさくらがおかにおぐさののみちぶらぶらゆけばはなよりさきにこころはのどか",
-          "titles": [
-            "四季の散歩"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shoka_kyozai_shu_1923/koto_1_2/22_shiki_no_sanpo",
-              "md_file": "shoka_kyozai_shu_1923/koto_1_2/22_shiki_no_sanpo/index.md",
-              "book_label": "《新編小公學校唱歌教材集》高等一、二學年（大正12年／1923，國臺圖 0725-41）",
-              "raw_title": "四季の散歩",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shokacho/vol_01/p158_shiki_no_sanpo",
-          "lyrics": "わかくさあのおのみちぶらぶうらあゆけぼうらがれえのおさとわかどたあのおなはて",
-          "titles": [
-            "四季の散歩"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_01/p158_shiki_no_sanpo",
-              "md_file": "shokacho/vol_01/p158_shiki_no_sanpo/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
-              "raw_title": "四季の散歩",
-              "year": 1923
-            }
-          ]
-        }
-      ],
-      "id": "013_22_shiki_no_sanpo"
-    },
-    {
-      "versions": [
-        {
-          "id": "shokacho/vol_02/p106_kanariya",
-          "lyrics": "ううたおわすれたかなりやほうしろのやまにすてませうかせどのこやぶにゅうめませうかやなぎのむちでぶちませうかいえいえそれはなりませんかはいそうううたおわすれたかな",
-          "titles": [
-            "カナリヤ"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_02/p106_kanariya",
-              "md_file": "shokacho/vol_02/p106_kanariya/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
-              "raw_title": "カナリヤ",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya",
-          "lyrics": "うたおわすれたかなりやほうしろのやまにすてましょかいえいえそれはなりませぬ",
-          "titles": [
-            "かなりや"
-          ],
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya",
-              "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_19_kanariya/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-              "raw_title": "かなりや",
-              "year": 1934
-            }
-          ]
-        }
-      ],
-      "id": "014_p106_kanariya"
-    },
-    {
-      "versions": [
-        {
-          "id": "shokacho/vol_02/p109_tonbi",
-          "lyrics": "たいしょうようねんしょうかちゃんねるぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろぴんよろ",
-          "titles": [
-            "とんび"
-          ],
-          "year": 1923,
-          "occurrences": [
-            {
-              "rel_dir": "shokacho/vol_02/p109_tonbi",
-              "md_file": "shokacho/vol_02/p109_tonbi/index.md",
-              "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
-              "raw_title": "とんび",
-              "year": 1923
-            }
-          ]
-        },
-        {
-          "id": "kyoyusho_shoka_1935/4_25_tonbi",
-          "lyrics": "とべとべとんびそらたかくなけなけとんびあおぞらにぴんよろぴんよろぴんよろぴんよろたのしげにわおかいて",
-          "titles": [
-            "とんび"
-          ],
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi",
-              "md_file": "shintei_jido_shoka/grade_4_2020.006.0847.0004/4_15_tonbi/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第四學年用（2020.006.0847.0004）",
-              "raw_title": "とんび",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kyoyusho_shoka_1935/4_25_tonbi",
-              "md_file": "kyoyusho_shoka_1935/4_25_tonbi/index.md",
-              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
-              "raw_title": "とんび",
-              "year": 1935
-            }
-          ]
-        }
-      ],
-      "id": "015_p109_tonbi"
+      "id": "005_20_dosokai"
     },
     {
       "versions": [
@@ -707,7 +296,7 @@
         },
         {
           "id": "shokacho/vol_08/p027_tanoshiki_waga_ie",
-          "lyrics": "はなこそかおらねわがこのそのつきこそにほはねわがこののきかすみはときはにまがきおこめはるかぜのどかにそでにふけりはなこそかおらねわがこのそのつきこそにほはねわが",
+          "lyrics": "はなこそかおらねわがこのそのつきこそにほはねわがこののきかすみはときはにまがきおこめはるかぜのどかにそでにふけり",
           "titles": [
             "樂シキ我家"
           ],
@@ -723,7 +312,7 @@
           ]
         }
       ],
-      "id": "016_p043_yukedomo"
+      "id": "006_p043_yukedomo"
     },
     {
       "versions": [
@@ -769,7 +358,7 @@
           ]
         }
       ],
-      "id": "017_1_2_05_yamato_damashii"
+      "id": "007_1_2_05_yamato_damashii"
     },
     {
       "versions": [
@@ -815,7 +404,7 @@
           ]
         }
       ],
-      "id": "018_4_02_kabin_no_hana"
+      "id": "008_4_02_kabin_no_hana"
     },
     {
       "versions": [
@@ -854,7 +443,7 @@
           ]
         }
       ],
-      "id": "019_2_07_tasukebune"
+      "id": "009_2_07_tasukebune"
     }
   ]
 }

@@ -74,7 +74,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](misora_no_kagami.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGJJboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlV-UWZ6Zp5VaR7IsBI0I_KLSjLy04sSCzIqrTIyi0uAipMTc-KzE_MSEYpKMlKBvk9NKU1OhBitpaXwuHH_48a5j5s6Hzeue9m_UEFLi0vRVsHQwILL3lbBRYfLxkTfxA5kwrPpS59t2v1sZtOzOfOftq55unbHswULHzd0PZ2y8dnanqc7Nj9u6H6_p-Np644X0_tfzJyvYGRgZKBnYGCmZ2BhYvy4eTcoZN_v6QQ752nf_Bd7OkG6N_QDDQOaBDHm2dSZz-ZOeDm7DWjY8zVrFIwMTRVeLmgEmbtk-bO1ixUMjRWe7tyiYGik8GxOB5gCOqurBWwul76Wgi21AJeCgsLjhgnPZm96Pnvdi1Wrns3oe9wwESzavPtp-64XM6e-3zMLi__ndD9f3f2ifdfzxsXP1m5_2r_pae-s550rXy5ZgSNogG4HeRUUPHpZBelQ_z7r7H66fjWQ_XzRHqB6oKLHDU1Q65-tmPlixW6g9SD7cAQgLOgeN6943LwKqN3QWM_QCIQIBubLHlB4Iqx7sWr_s4blLzran3X3Al0PtPfFuq7Hzd1AcaBZLkkKQOPA7M73e3qAyUUBqA7Ietkw_-muZQqQ1IRkWnPPs5nrQabN3vRy0QqgaU9bN4IsB_rk-foGoManG9qBoQ100rP1U57snfNy9YxnfbOfLln5ctbs57NaHjf0ANnPV-56srMbmGAfNwDt6kBLxRCnPF278vnqpU_nrHg2Z9XL3fOet3cAtT9fNf1lU9eT3RuezZn9bPG6Z_OmP9nR9WzaTqAUxFKgRpBLFYBhMv_57D1AkSe71r1o3vtsxoLnrcuBMf90-6ZnU1ufre99sQwYrkCrVz1u7H3c2P24selx49THjfuAtj_btfrZ_ClAM1_sWv1070agmc-aW5-1zH8-Z_6zieufdk99smsXIkied3Y8m7MGksiA4QFkP1s15dnCjudNu4AZBRiJT6ete9G46WXziucbFr5YOwfo86f7Fzxdv-zZ1B1P9vY-7ZkGMQFkIjTdQvQBE8SLlfOetq54Nq0dGOJPdqwFMVbNe7F2PTAxg1NP77P2TnjaA7ocbABQ5skOYFR0Pm5uedy853HT2sdNQNMbHjfPf9y0FyTSvPJxMzBDNDxuWg2SAoo3A5MESBzipy6wntVgzYseN20Fy82D6Vn1uGknSFvTfrD4JrCepmUg25q2P25uA5sH1LkbxAZpWP-4GWgJUCnQxHaQeNMyqDshvgGlomVNz-bNgUTXsxnroWlkx1pgJAD98nLuImDggpMGNHqBgk_XAcO6-VlXF3KUokQaLM6f7Gt7vnXZs46Jz-d0P52wHBjQyEG1qwcUVCB_Ap236nHzIliwbXzcBIxmoPuB_gQG3qTHzR1gX6yCeBioFBgkwEDuBudSoATQkxPA4QwUB2ZdoKHA4AAatAQSqkCDQbpBwQhUAQqwGSDNIA3t4LABygKDEBRb6MHzsmExMAM82Tn_2aZJz-Z0AvMDMJyAXnzeu-JF-ypgYABT5Mu5C4C5BZJD4OH0dMmsl7uA2QCUGV42LX6xZ9XT3s3ALPq0F5ieuiBZCFiYoOWipxMboIEENILy0hgKFLT0ubiC8_PSrQIyE_PyHWoMaqrBrrSx0LIDM4BVgAbQM5rAwAJFATCQ1wLxGoUaoMB8IAuUeIHMlUDcBxJsWg2WBkuCUzBYskbBAGQV3MBdPUADmxZBlDevAsUE2ESoFRuBeBfYtP1AwQYgngTEoKgGq0YyrUbBUEEXCA0VjICkMRDXKJgCSTMgCeKB2DVAHlhNnII5WMocqggGDUCKwIkP2btdUL-CUgHYsSD3gPIdUG4e3LtAtzfthHgZnPmAEptweBfkTZDGTiDuBnsXlEaBFCi4JoAFQNKNECXghAqklqB6F-JuU7CXIJ4DegvocxBhBCLA3BoIGywEZgEJoBK4MB5_Ny0DxQPIfiDdBolniEt2wwSa1oMcDXE7KP7awYKgMgTT1-AsBo1jcIiB_Ai2YwY8GNpB5kCUgSxeCzZuDcLPYM-B_YjsQ1AIgJmgYIDEPCgtGCmYgHkgFix1IHu3lotL104BlOYVgLQyFwA)]
+- [主旋律 TMD 檔案](misora_no_kagami.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGJJboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlV-UWZ6Zp5VaR7IsBI0I_KLSjLy04sSCzIqrTIyi0uAipMTc-KzE_MSEYpKMlKBvk9NKU1OhBitpaXwuHH_48a5j5s6Hzeue9m_UEFLi0vRVsHQwILL3lbBRYfLxkTfxA5kwrPpS59t2v1sZtOzOfOftq55unbHswULHzd0PZ2y8dnanqc7Nj9u6H6_p-Np644X0_tfzJyvYGRgZKBnYGCmZ2BhYvy4eTcoZN_v6QQ752nf_Bd7OkG6N_QDDQOaBDHm2dSZz-ZOeDm7DWjY8zVrFIwMTRVeLmgEmbtk-bO1ixUMjRWe7tyiYGik8GxOB5gCOqurBWwul76Wgi21AJeCgsLjhgnPZm96Pnvdi1Wrns3oe9wwESzavPtp-64XM6e-3zMLi__ndD9f3f2ifdfzxsXP1m5_2r_pae-s550rXy5ZgSNogG4HeRUUPHpZBelQ_z7r7H66fjWQ_XzRHqB6oKLHDU1Q65-tmPlixW6g9SD7cAQgLOgeN6943LwKqN3QWM_QCIQIBubLHlB4Iqx7sWr_s4blLzran3X3Al0PtPfFuq7Hzd1AcaBZLkkKQOPA7M73e3qAyUUBqA7Ietkw_-muZQqQ1IRkWnPPs5nrQabN3vRy0QqgaU9bN4IsB_rk-foGoManG9qBoQ100rP1U57snfNy9YxnfbOfLln5ctbs57NaHjf0ANnPV-56srMbmGAfNwDt6kBLxRCnPF278vnqpU_nrHg2Z9XL3fOet3cAtT9fNf1lU9eT3RuezZn9bPG6Z_OmP9nR9WzaTqAUxFKgRpBLFYBhMv_57D1AkSe71r1o3vtsxoLnrcuBMf90-6ZnU1ufre99sQwYrkCrVz1u7H3c2P24selx49THjfuAtj_btfrZ_ClAM1_sWv1070agmc-aW5-1zH8-Z_6zieufdk99smsXIkied3Y8m7MGksiA4QFkP1s15dnCjudNu4AZBRiJT6ete9G46WXziucbFr5YOwfo86f7Fzxdv-zZ1B1P9vY-7ZkGMQFkIjTdQvQBE8SLlfOetq54Nq0dGOJPdqwFMVbNe7F2PTAxg1NP77P2TnjaA7ocbABQ5skOYFR0Pm5uedy853HT2sdNQNMbHjfPf9y0FyTSvPJxMzBDNDxuWg2SAoo3A5MESBzipy6wntVgzYseN20Fy82D6Vn1uGknSFvTfrD4JrCepmUg25q2P25uA5sH1LkbxAZpWP-4GWgJUCnQxHaQeNMyqDshvgGlomVNz-bNgUTXsxnroWlkx1pgJAD98nLuImDggpMGNHqBgk_XAcO6-VlXF3KUokQaLM6f7Gt7vnXZs46Jz-d0P52wHBjQyEG1qwcUVCB_Ap236nHzIliwbXzcBIxmoPuB_gQG3qTHzR1gX6yCeBioFBgkwEDuBudSoATQkxPA4QwUB2ZdoKHA4AAatAQSqkCDQbpBwQhUAQqwGSDNIA3t4LABygKDEBRb6MHzsmExMAM82Tn_2aZJz-Z0AvMDMJyAXnzeu-JF-ypgYABT5Mu5C4C5BZJD4OH0dMmsl7uA2QCUGV42LX6xZ9XT3s3ALPq0F5ieuiBZCFiYoOWipxMboIEENILy0hgKFLT0ubiC8_PSrQIyE_PyHWoMaqrBrrSx0LIDM4BVgAbQM5rAwAJFATCQ1wLxGoUaoMB8IAuUeIHMlUDcBxJsWg2WBkuCUzBYskbBAGQV3MBdPUADmxZBlDevAsUE2ESoFRuBeBfYtP1AwQYgngTEoKgGq0YyrUbBUEEXCA0VjICkMRDXKJgCSTMgCeKB2DVAHlhNnII5WMocqggGDUCKwMb5GAItbVwCFQcWQ2CyB2wIsEgE8-aCyKZOMHsdVKYbqr4HrmoVRAasDgbjEfYYgXQ1QXV1A9V1gU0FiaC6YCKYXAoVnw8VXQDEm8CsFVB7QPpR7UGPvi5o3IFSNTjwQdpA5QhQbh48-oBx0bQTEoXgwgQosQlH9IGiDaSxE4i7wdEHynNAChT9E8ACIOlGiBJwxgNSS1CjDxIPpuAogkQWMJqAMQkijEAEmFsDYYOFwCwgAVQCF8Yej6A4gMQiJIYgIQ6SmQoP330o8QgJxceNM6GxDglxULhMwhOPMF37gHglmLUaqqsDZk8TxLQNUHtAtoL4C-E6pkNlWgjFY9MyUD4BhSeQboPkQ0jI7oYJNK0HRQIkLkD5qx0sCCrjMWMRXARC8yA4BYDiDGzHDHi0toPMgSgDWbwWbNwaRByCIwscZ8gxBopRMBMUrZCcCcqrRgomYB6IBcu92KOvDRpIS6DB87hxGTSQQFkMIjcbRbwfEdRNsCy5HCwzG2Yc1hgE5ztIPIHzITw9QFIHSOfjxh3IMQs0FmYJLLeC0hlIBmQ9qj21XFy6dgqgYjbaxzBWAc42ArOVuQA)]
 - [鋼琴伴奏 TMD 檔案](misora_no_kagami_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0sUTIlGSk5qZapaaUJieWZObnKXFpaSk8btz_uHHu46bOx43rXvYvfL-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqGBpYcNnbKrjocNmY6JvYgYx9Nn3ps027n81sejZn_tPWNU_X7ni2YOHjhq6nUzY-W9vzdMfmxw3dQCOftu54Mb3_xcz5CkYGRgZ6BgZmegYWJsaPm3eDHAi0AezGp33zX-zpBOne0A80DGgSxJhnU2c-mzvh5ew2oGHP16xRMDI0VXi5oFGJi0tfS8GWWoBLQUHhccOEZ7M3PZ-97sWqVc9m9D1umAgWbd79tH3Xi5lT3--ZhcVvc7qfr-5-0b7reePiZ2u3P-3f9LR31vPOlS-XrMDhbaB_Qd4AeV0vqyAd5JfHDU1Qm16s2v-sYfmLjvZn3b1AnUArX6zretzcDRQHWuaSpPB0yXIwu_P9nh5gNCgA1QFZLxvmP921TAESSwjTnm9fAfQQxDdYoxZoPkipgoKhnsLTzl6guIKGZ15JUb6OgokCMB6er2_QBKp5umfq8ykrnm-d8HTDvmcrmp72L33c0PO4adnj5pbHTdsfN7c9bp7_uHnP46bdQLbC46b1j5vXgPjNqx83t4NEgUobQO583j7_ZcOCZ_tanu3reLZr9bP5U57Pank2p-PpkjnPNsx-OqcX6nYFBSM9hSc7dgNDGuJcBY3g_Lx0HQVDI6izFA5PVzBSeLZuK9h9_ZufdXY_2zMFqBKka3r3033AyOl5un0ZUPxla--T3UufdU161tz6dFLP0z3LIGZC7aI87UCBgpY-Fxc49KwCMhPz8oM8HGoMaqrB_rGx0LIDM2oUjOMUdIEQSBmBWIYgokbBDMY0BcmBhQyBpBEwHkA8EAsiAoMGIDVctSg2-iDbaAK30TBeIdowVsEUSJnGAvkmQIZJLEwYzofLQyWAlAHEClDY4_UTxGGGQEfCHA_yhhmQBPFAbIgPwX40B0uZQxWh-gdiHETcFKwFohkcNOCQQw40MBssBGYBCaASuDCmudQOekS4EBnyiJBFCXkjIGUE4kMVAilQyKOYAVUK55sBKbNckABUNzGGkJ8EdO0UwAlNAcgAeRuZVuYCAA)]
 
 ## 分析
@@ -83,14 +83,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ みそらの鏡 ]
 ================================================================================
-⏱  Duration:       0:26 (26.7s), 12 measures total
+⏱  Duration:       0:53 (53.3s), 24 measures total
 🎼 Key & Tempo:    首調基準 D,, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C#4 (MIDI 61) – F5 (MIDI 77) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  C#4 in [Song #1 @ m.1, 0:00]
-   - 最高音: F5 in [Song #1 @ m.6, 0:11]
+   - 最低音:  C#4 in [Song[L1] #1 @ m.1, 0:00]
+   - 最高音: F5 in [Song[L1] #1 @ m.6, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song (26.7s)
+🏛  結構:      Song[L1] (26.7s) -> Song[L2] (26.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G# 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -98,9 +98,10 @@ tmd_source:
    - 核心骨幹音:  C#, D#, G#, F, A#
    - 調性數值:    G# 調性不明確 [相關度: 0.81, 穩定度: Ambiguous, 自然音純度: 98.9%]
    - 候選調性 (K-S): G# 大調 (0.81), C# 大調 (0.81), F 小調 (0.60)
-   - 五度圈歷程:   -4
+   - 五度圈歷程:   -4 -> -4
    - 各段落調性細節:
-     • [Song #1]: G# 調性不明確 (r: 0.81, 自然音純度: 98.9%, 調外音: F#)
+     • [Song[L1] #1]: G# 調性不明確 (r: 0.81, 自然音純度: 98.9%, 調外音: F#)
+     • [Song[L2] #1]: G# 調性不明確 (r: 0.81, 自然音純度: 98.9%, 調外音: F#)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -127,7 +128,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C#4 – F5 (16 個半音 / 1.3 個八度, 43 個音符)
+  - Piano         : C#4 – F5 (16 個半音 / 1.3 個八度, 86 個音符)
 ================================================================================
 ```
 

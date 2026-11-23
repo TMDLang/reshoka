@@ -4,12 +4,14 @@ song_title: "大日本"
 song_id: "hyojun_shoka_gakushucho_grade_3_04_dainihon"
 collection: "hyojun_shoka_gakushucho"
 volume: "grade_3"
-description: "〈大日本〉收錄於日治時期臺灣《標準唱歌學習帖》（第三學年 兒童用（國臺圖 0729 47）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：大日本、大日本、 神のみすゑの　天皇陛下…"
-keywords: "大日本, 標準唱歌學習帖, 第三學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
+description: "〈大日本〉收錄於日治時期臺灣《標準唱歌學習帖》（第三學年 兒童用（國臺圖 0729 47））（詞：文部省、曲：山本壽），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、大日本、大日本、 神のみすゑの　天皇陛下は…"
+keywords: "大日本, 標準唱歌學習帖, 第三學年 兒童用, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 文部省, 山本壽"
 schema_type: "MusicComposition"
 is_part_of: "《標準唱歌學習帖》 第三學年 兒童用（國臺圖 0729 47）"
+credits:
+  - "詞：文部省"
+  - "曲：山本壽"
 sources:
-  - "尋常小學唱歌"
   - "臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第三學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）"
 musical_key: "G"
 meter: "2/4"
@@ -32,32 +34,30 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="dainihon.mp3"></audio>
 
-- 尋常小學唱歌
+- 詞：文部省
+- 曲：山本壽
 - 臺北師範學校附屬小學校內 正榕會編《標準唱歌學習帖 第三學年 兒童用》（昭和二年五月十七日發行，索書號 0729 47）
 
 ## 說明
 
-原書資訊與歌詞全文（對應 P012.jpg–P013.jpg，原書 pp. 12–13，第三學年第 4 首）：
-調性與拍號：ト長調 2/4 拍子（G 大調 2/4 拍），標註「尋常小學唱歌」
+原書資訊與歌詞全文（對應 P012.jpg–P013.jpg，原書 p. 12–13，第三學年第 4 首）：
+調性與拍號：ト長調 2/4 拍，♩=100
 
 
 ## 歌詞
 
 ```text
-一、
-大日本、大日本、
-神のみすゑの　天皇陛下
+一、大日本、大日本、
+神のみすゑの　天皇陛下は
 われら國民　八千萬を
-わが子のやうに　おぼしめされる。
+わが子のやうに　思し召さるる。
 
-二、
-大日本、大日本、
+二、大日本、大日本、
 われら國民　八千萬は
 天皇陛下を　神ともあふぎ
 親ともしたひて　お仕へ申す。
 
-三、
-大日本、大日本、
+三、大日本、大日本、
 神代此の方　一度も敵に
 負けたことなく　月日とともに
 國の光が　輝きまさる。
@@ -71,8 +71,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](dainihon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgkk7QVF-WWpeYl5QCMKijLzSlJTwGYgFKSWZaakgqSLkxPz4stSizLTMlNTkNyVWlQM8gDUnpKixLzi5KLMApCvEKryi0oy8oFuL8iotMrILC7JL8pMTsyJz07MS0QoKslIBfqwILGkKDO_JDMZWXdmemaeVW5-XhIwXICBoqWl8HTJ8mfTlz6bs0ZBS4tL0VbB0MCAy95WwZ3LxkjfxA6k9emG7qc7djzd0P907Y6nUzY-W9sDNvFF-66nPdOf7lj9fH0LUObZgoUvZ7Y83bgGohDIfdq6XOHZ2sXPlk19Nqf5-fYVjxu6nq2Y-WzXNIghQEXP9096umOawvM1a57s6ASZvnOLwtPWSc9XL30-Bai8-_2ejmcz1j6d1PNkVw9Q7smuKc_mdDztbXyyoxno5ucz97xY2PN-T8_zLYuezd7xYuZ8BQNzI0sFE_P3ezqVuLj0tRRsqQW4FBQUnvbNB1mzuf3Fiq4XHe1AL7xYOe9p64pn09qBDn26ofdZe6cCKGnoZRWkP2qYDEogICbQhRCtCgUFegqGRkApQ2OQs5G8DWQrmCi8XDYN6PT3e2aBrHuxav-zhuUgi7p7gX4Dij5u7ng5dTtQXAEYNQpA4adrJwBtdgfFIZIo2IgeYFC_WLH7cUMPZvQ9bujlAtnwZEfD44ZGsNdgiQDIR2aD5J4vnfe4cd3jxv2PG2c-bpoIYjc0PF2y8vms9pczZz_Z0Q1S9Lip_3FTz-Omzqdzup9tmAhS0br6aW_ziwlrHjdNgqloBEb6BJABTS2PG9seN64Gqnvc2PW4cc_jxumPmxofN04Fm9L9uKEJ4sJdQMcSdCE-yxvXQ3QjnAt0D1AF2FcrHjc1PW4Eoq2PG_vAYb5sFUx0-uPG-Y8bNz1uXAZx5JPdUx837ng-ZTMoGGDO29FJXAA-2b342dolQJ8_m7YTaBww4J_uWga05tlUoM2rwTZvWvC4ERi4QDsng5zQCHRIP1ApMMEDDQOLQNwFVg30KNCwp62dwCAFKnqxZ-7jxt7HjfvAAQgOPaAiylM9FCho6XNxuSRm5mVmAAuogMzEvHyHGoOaapAlCjaGZlp2YBa2_AbJ2w3AfKqgYaYATITP1zfowDOJJhYNQLtAhtUomMYr6CoYArExEJsCcQ2YBYIGUJo4RWDzfAxrFB43NwD5j5uWgMjmbjDZDNbzuHnu4-bNUA0gIyGmk6oBYpMRULpxAUhxYwuYXA0mF0M0Nu593DQZ0yYSNUBsMqaHn6DRYQQVgNEIESwB3QTyAQg-bp6PZHMf7gBr6ofpaOpB6GjqxO1xHHaswO4BnIlzVw84cZqTljhBSQ6EQWEASnA1wNIbZJsxWAQkU6NgHo9QQzDEwH543LQTTIL8AAktkEwb1JeboWKPm5ZBZWaAeeCYhIcGSBwWltgSJigpAYsWMLkfrBMkApJZD7EHmO4eN85GkdkH58FUQcRhdmKLHVBCgrkXnJ6bQLaBZEDuBck1AjEofh83L0Ly6eOmtWAxUMqE-WcPhj3QaAAFPQiDAh-S-82gLJAIJGLwBTrIM4-b14DJlWDLQc4GORIiA44UcJ6ABCpIDyiz4ApcUMTAAmodmAR5CSSzA8yDZG9wpmuaBJWBeRRb3p4HVrkRHnxw9zV3gN3UBRaDuBVkNsjloOAjJQPs6ARnABPSMwAoecMyAiQuQCxTYLIHhTUwLoAs5EwAUQOLK3DsIBUZu8EmQpI52N_gcAf5dROYNwHsV1BcgXyGlsSaIZkAljEgIbwKLDMHzN6OFlOg0ATFxQqgXBOYBSJBMlvBPLCpjaDwhdkGiTtw1oTqmA7VAU4ljWBXQlIAWB9yPILiGuSWDnjMwZI8xKWQGASxobZBfQXSB80-zSDfgNwBTq3QLAVJuSC_E4jlp7NnkxPL2GMQBBGFGiQlICBCBFuOWwh2NziMofkO5BOQv0BikFACicOyPqyIQZiOrThAxCs4HUByGDTPgQovWLxC4nwmFrOIMB9crIFyFyxfQnyB6X7kopg482u5uHTtFGBNrGgfw1gFFL4RGt8YzFfmAgA)]
-- [鋼琴伴奏 TMD 檔案](dainihon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgkk7QVF-WWpeYl5QCNSUzJL8osyE3PiE4uKEvPSU3NT80oQKlPLMlNSQeoSk5PzcwsS8zJR5ctSi4pBPinITMzLj8ehKL-oJCMf6IeCjEqr3PyU1KK8-IKM_LzUkszk-OzEvESEypIMoP1WBYklRZn5QFlkIzLTM_OAuvOSgIEEDCEtLYWnS5Y_m7702Zw17_d0PNmz5enS_vd7OhW0tLgUbRUMDQy47G0V3LlsjPRN7EDGPN3Q_XTHjqcb-p-u3fF0ysZna3vApr9o3_W0Z_rTHaufr28ByjxbsPDlzJanG9dAFAK5T1uXKzxbu_jZsqnP5jQ_377icUPXsxUzn-2aBjEEqOj5_klPd0xTeL5mzZMdnSDTd25ReNo66fnqpc-nAJV3A533bMbap5N6nuzqAco92TXl2ZyOp72NT3Y0A93_fOaeFwt73u_peb5l0bPZO17MnK9gYG5kqWBiDvSNEheXS2JmXiYwtKwCQEEc5OFQY1BTzaUABDaGZlp2YJa-loItOoC4pwFotoKGmQLQO8_XN-gogBKDXlZBuiYWDVr6YMNqFEzjFXQVDIHYGIhNgbgGzAJBAyhNnCKweT6GNQqPGxcA-Y8bW8DkajC5GKzncePex02ToRpARkJMJ1UDxCYjutlkTA-boNFhBBWA0QgRbAHdDRV73LgfyeZ1uAOsqR-mo6kHoaOpE4_HsdrR1IHdAzgT564ecOI0Jy1xgpIcCIPCAJTgahRMwLYZg0VAMjUK5vEINYRDDOSHx40zwSTID5DQAsksg4bLZKjY48Y2qMwOMA8Sk7DQQA5LbAkTFMGPG0EqoHaCoxwksx4amouBeDaKzD44D2E2SByUenDFDsQeiHtBbnvcOB-qC-ReEH8hEK8Em9mE5NPHjb1gEmY2ULx5D4Y90GgABT0IgwIfkvvNoCyQCCRi8AQ62DOQBAdJahBng5yCHkCQ4AHJgDILrsAFewCqHn9UPW7sgsrAIg5bIIIDvnEiPPgQ7lsB5q0CkxC3LoHKgIKPlAywoxOcAUxIzwCg5A3LCJC4ALFMgckeFNbAuACykDMBRA0srsCxg5QBQEkOlswRCQ4kAwopaFw1guIK5DO0JAbO9ojQhhRrYH2NoMTzuHE6WkxBigxQOEKS3-NGWCKE6OqDmwC1rQkSd-Bwh-oAmwmPGYg8JAmD4xYpHjchbEMyAeFSiN9AbJjfIKkHpA-aXppg6QWcWqFpCJJyQTYTiOWns2eTE8vYYxAEEYUaJCUgIEIEW45rBLt7KtjdENeDfALyF0gMkgKQKwBY7kCYjq04QMQrKBfAQgeSJkBpCRavkFgAFbLoZhFhPjgmQbkLli8hvsB0P1JRTKT5tegtLB_kFpYJooGFaE4hcmI8CIFpAwwurPKOByEwDROEGgap_jAMM4HSpvHxYAxhIQxEV4dpMKRYweVKoD4gggsjaYSmVLhGJJUQhwAZ4EQGsREYcrp2CrDAi_YxjFVA4Ruh8Y3BfGUuAA)]
+- [主旋律 TMD 檔案](dainihon.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgkk7QVF-WWpeYl5QCMKijLzSlJTwGYgFKSWZaakgqSLkxPz4stSizLTMlNTkNyVWlQM8gDUnpKixLzi5KLMApCvEKryi0oy8oFuL8iotMrILC7JL8pMTsyJz07MS0QoKslIBfqwILGkKDO_JLM4F1l7ZnpmnlVufl4SMGCAoaKlpfB0yfJn05c-m7NGQUuLS9FWwdDAgMveVsGdy8ZI38QOpPXFynnv98x6Nq39ZfOK53MawcY9m70JKPZ040agxqeL94LFXrTvetoz_emO1c_Xtzxdu-PZgoUvZ7Y83bjm6YZ-CPdp63KFZ2sXP1s29dmc5ufbVzxu6Hq2YuazXdOeTtn4bG0PUNHz_ZOe7pim8HzNmic7OoH8pzu3KDxtnfR89dLnU4DKu9_v6Xg2Y-3TST1PdvUA5Z7smvJsTsfT3sYnO5qBnng-c8-LhT3v9_Q837Lo2ewdL2bOVzAwN7JUMDF_v6dTiYtLX0vBllqAS0FB4WnffJA1m9tfrOh60dEO9AIwqJ62rgAGFdChTzf0PmvvVAAlFr2sgvRHDZNBSQbEBLoQolWhQE_B0AgoY2gMcjWSr4FsBROFl8umAV0ODGiQbS9W7X_WsBxkT3cv0GtA0cfNHS-nbgeKKwCjSgEoDDTk0cyVtqAoBOl4sqPhcUMjPILR2CAVIPB86bzHjeseN-5_3DjzcdNEELuh4emSlc9ntb-cOfvJju7Hjethah839T9u6nnc1Pl0TvezDRNBCltXP-1tfjFhzeOmSciqGoHROQFkVlPL48a2x42rgWqfNcx93Dj9af-ax41THzd1g1BDE8Slu3qIcCk-2xFuRHF60ySgKrAPVzxuanrcCERbHzf2wdS-WLYKJjP9ceP8x42bHjcuA-p43Nj1ZPfUx407nk_ZDAoWmDN3dBIXoE92L362dgnQ-8-m7QQaB4yIp7uWAa15NhVo-2q47ZsWPG4EBjjQ3skgZzQCHdMPCqc5HUBDwSIQt8F1AD0ONPRpaycwfIEKX-wBBmjv48Z90AAFOhOoiPLEDQUKWvpcXC6JmXmZGcCSKSAzMS_focagphrsGhsLLTswA1uuguTghmfrtipomCoAC4Dn6xt04FlBE4sGoFUgw2oUTOMVdBUMFYyATGMgywCIa4B8XSDPBCQNFwOxTIGwBqzRx7BG4XFzw-OmJUDhx83dQNwCVPS4ee7j5s1AIZCpRKloWg2Wng_EfTCzjahkdvN6sPQaIF4JM9uY-u5eATQbf9Ts6iEnasyAoW0CjIcaBQ0joGW6Ckaaqhq6uprw6DKGxB40EoEEEAG1gWnzeKAy5LgCurRpJ5DeCAlpBY3HzW1gU4He0gSLPW5aBvboDKjfwV7ECEag-GYgXg_1_GbkSEOXAVnSD7WkGWhJ026o-OPmeZDQhMiDBNpgAkgOAbKWgN3xuHkTcgSC7AGrA8o07QfbA3YySHsjyDOdQLwIYixQxVpwPEKsmQf2GTAQwPogJnUAcRfY5YQickcnOCJNSItItOgzAkcfKBKNgXkLlLNMgSyIGDDyIAgRdXjCEMwChQ0o3kHx9LgJGEvQ0AGJgEJvGTQdI-IJGFqgqAWnX1BogfwPDq2mRUDWVCC9DmJi0yqIGUgqtoND7nHzJHDYIuIE6MoWiJlNa0FmguQ7wG6A6AW5AGImJDWB8hXEjUCV4BgG2gV0PYEYeDp7NjkxAMkbiGIOFCGQYg4Ea8AkuJhDZBiw3-dAfNy8EOzyrdB8AElJkCCE6QZnRKScANLdAvXZDKSUB4oNkPxOXLrB6RuUrkH5DRR_a5F0g1yAy-5aLi5dOwVY_RHtYxirgMI3QuMbg_nKXAA)]
+- [鋼琴伴奏 TMD 檔案](dainihon_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgkk7UX5OalWicnJ-bkFiXmZual5JQi5zLzikiKgpXklVgWZiXn58WX5yYk5CPn8opKMfKCDCjIqrTIyi0vyizKB8vHZiXmJCEUlGalAZxcklhRl5pdkFucia89Mz8yzys3PSwL6FuhVLS2Fp0uWP5u-9NmcNe_3dDzZs-Xp0v73ezoVtLS4FG0VDA0MuOxtFdy5bIz0TexAxrxYOe_9nlnPprW_bF7xfE4j2OhnszcBxZ5u3Ag05OnivWCxF-27nvZMf7pj9fP1LU_X7ni2YOHLmS1PN655uqEfwn3aulzh2drFz5ZNfTan-fn2FY8bup6tmPls17SnUzY-W9sDVPR8_6SnO6YpPF-z5smOTiD_6c4tCk9bJz1fvfT5FKDybqB7n81Y-3RSz5NdPUC5J7umPJvT8bS38cmOZqCHns_c82Jhz_s9Pc-3LHo2e8eLmfMVDMyNLBVMzIHeU-Li8swrKcq3CgAFcpCHQ41BTTWXAhDYWGjZgRk1CqbxCroKhgpGQKYxkGUKxBCWEZhlCCR1FQwUarhqUUzzwW6aIci0aMNYiF5kDtieaFM0GajBLomZeZkZwNSK26X6Wgq26AASag3P1m1V0DBVAAb68_UNOgqgxKiXVZCuiUWDlj52bxvAPWusYAKShouBWKZAWAPW6GNYo_C4ueFx0xKg8OPmbiBuASp63Dz3cfNmoBDIVKJUNK0GS88H4j6Y2UZUMrt5PVh6DRCvhJltTH13rwCajT9qdvWQEzVmwNA2AcZDjYIGKA0CU6KmqoauriY8uowhsQeNRCABREBtYNo8HqgMOa6ALm3aCaQ3QkJaQeNxcxvYVKC3NMFij5uWgT06A-p3sBcxghEovhmI10M9vxk50tBlQJb0Qy1pBlrStBsq_rh5HiQ0IfIggTaYAJJDgKwlYHc8bt6EHIEge8DqgDJN-8H2gJ0M0t4I8kwnEC-CGAtUsRYcjxBr5oF9BgwEsD6ISR1A3AV2OaGI3NEJjkgT0iISLfqMwNEHikRjUL4H5ypjqBgw8iAIEXV4whDMAoUNKN5B8fS4CRhL0NABiYBCbxk0HSPiCRhaoKgFp19QaIH8Dw6tpkVA1lQgvQ5iYtMqiBlIKraDQ-5x8yRw2CLiBOjKFoiZTWtBZoLkO8BugOgFuQBiJiQ1gfIVxI1AleAYBtoFdD2BGHg6ezY5MQDJG4hiDrlMB7EgZTuQhcgwYL_Pgfi4eSHY5Vuh-QCSkiBBCNMNzohIOQGkuwXqsxlIKQ8UGyD5nbh0g9M3KF2D8hso_tYi6Qa5AJfdGNUH1qqJ2OoDb3Bir91AaZmADJAAIhKLS7xOMQEZCyYQxSDUbgiCOwRqN0QxRBVpuZ1wPQorgmH2Qf0NRMYQhwDthiMSUzrhCEENBSSfo6dxYErRtVMAN2IUgAxYqon2AcUbMt8IjW8M5itzAQA)]
 
 ## 分析
 
@@ -80,31 +80,31 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 大日本 ]
 ================================================================================
-⏱  Duration:       1:15 (75.6s), 63 measures total
+⏱  Duration:       1:04 (64.8s), 54 measures total
 🎼 Key & Tempo:    首調基準 G, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [Dainihon[L1] #1 @ m.1, 0:00]
-   - 最高音: E5 in [Dainihon[L1] #1 @ m.12, 0:13]
+   - 最高音: E5 in [Dainihon[L1] #1 @ m.6, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Dainihon[L1] (25.2s) -> Dainihon[L2] (25.2s) -> Dainihon[L3] (25.2s)
+🏛  結構:      Dainihon[L1] (21.6s) -> Dainihon[L2] (21.6s) -> Dainihon[L3] (21.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  G, A, B, D, C
-   - 調性數值:    G 大調 [相關度: 0.77, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): G 大調 (0.77), D 大調 (0.61), B 小調 (0.51)
-   - 五度圈歷程:   +1 -> +1 -> +1
+   - 核心骨幹音:  D, G, A, B, E
+   - 調性數值:    D 大調 [相關度: 0.87, 穩定度: Moderate, 自然音純度: 96.9%]
+   - 候選調性 (K-S): D 大調 (0.87), G 大調 (0.83), B 小調 (0.61)
+   - 五度圈歷程:   +2 -> +2 -> +2
    - 各段落調性細節:
-     • [Dainihon[L1] #1]: G 大調 (r: 0.77, 自然音純度: 100.0%)
-     • [Dainihon[L2] #1]: G 大調 (r: 0.77, 自然音純度: 100.0%)
-     • [Dainihon[L3] #1]: G 大調 (r: 0.77, 自然音純度: 100.0%)
+     • [Dainihon[L1] #1]: D 大調 (r: 0.87, 自然音純度: 96.9%, 調外音: C)
+     • [Dainihon[L2] #1]: D 大調 (r: 0.87, 自然音純度: 96.9%, 調外音: C)
+     • [Dainihon[L3] #1]: D 大調 (r: 0.87, 自然音純度: 96.9%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
-         F           [G ]*
-      Bb               D  
+         F            G  
+      Bb              [D ]*
       Eb               A  
          Ab           E  
             Db       B  
@@ -112,21 +112,21 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : ██████                     6.3%
+     C  : ██                         3.1%
      C# :                            0.0%
-     D  : ██████████                11.3%
+     D  : ████████████████████████  30.8%
      D# :                            0.0%
-     E  : ████                       4.2%
+     E  : ██████                     7.7%
      F  :                            0.0%
-     F# : ████                       4.2%
-     G  : ████████████████████████  26.8%
+     F# : █                          1.5%
+     G  : █████████████████         21.5%
      G# :                            0.0%
-     A  : ███████████████████████   25.4%
+     A  : ████████████████          20.0%
      A# :                            0.0%
-     B  : ████████████████████      21.8%
+     B  : ████████████              15.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 171 個音符)
+  - Piano         : D4 – E5 (14 個半音 / 1.2 個八度, 153 個音符)
 ================================================================================
 ```
 

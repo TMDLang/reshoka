@@ -39,7 +39,6 @@ tmd_source:
 原書資訊與歌詞全文（對應 P109.jpg，手抄簡譜）：
 調性與拍號：ニ調四分之四拍子（D 大調 4/4 拍）
 出處與日期註記：「（大正幼年唱歌第一集17頁ヨリ） 14. 4. 28」
-- Reference Audio: [大正幼年唱歌チャンネル (YouTube)](https://www.youtube.com/@%E5%A4%A7%E6%AD%A3%E5%B9%BC%E5%B9%B4%E5%94%B1%E6%AD%8C%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
 
 
 ## 歌詞
@@ -64,7 +63,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tonbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgKGBJboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdiXmZuch6gUalZ-ZZ5aZmZmXGl6RWlKA6DSpdkpgJdH88EJcnxucmZublJOalIKsqychPL0osyKi0ysgsBrkvOTEnPjsxL1GJS0tL4XHjisdNkx83blbQ0uJStFUwNDDgsrdVcOGyMdE3sQMZ83TJ8mdrFz_duefpzi1Pp2x8trZH4fmaNU92NLyc3aZgaP5yQePj5hWPm1eB7YQoeLpj8_s9HUYGRgZ6BgZmegYWJsbv93SCwl4vqyAdKAU1s7fx6ezZIGNnz342p-PJrh6QSOvqZ9OXPutqAepQ4uLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3o2Bcr5z1tXfFsWjvIXRt6n7V3KiBc2vOssxvolucbFr5YOwfoovd7ZoFMebFq_7OG5SD93b0vZs4Hij5u7gYKgrzT0fZkZzfIR929T9dOABrqogD0LlBSARiiCkBRoDFgl7TvejFzKsgMoHfnzH-xYveLFTNAJjX0IEIIKdThgY4U5kCjFAxN9BSAyMjicUMvyNzHzbuDUtNSi0BJUsGxNCUz30ohGtO4x81AMxY_bt78uLn3cfNqBY3I_NKQ0qRUzViNjJKSgmIrff3y8nK9yvzSEqCoXnJ-rr6DqqupqqOJqqO5qquZqqOLqqMxSMTJUtXJGcYwATEsTVSdDKFqLIBSxqoWQAQUATNAusAMJxjDwgUm5aQPykz5xZpcIK9oGGoCvdPxuHkmmNwDZux53NAA5gJdPhnEbtr7uHnl46b9IKmm1WByPUg3CDxu7nrctBFEgoSBDEzdix43b3rctA9s_Eow2Y3QPQWsEBjUa8H6iOXCDQC5qu9x03aw9ZsgpoPVrgfbCnHtErB4G8TLRlAvT4N5Gcgg3ctA4yFeBjIGu5cpz9hQoKClz8UVkp-XlGkVlg8s5RxqDGqqwe6ysdCyAzOwFSfQ4uzFwh4FDROFpxv6n69v0IGXAZpYNADtARlWo2CooAuERgrGCqYKZkAMFIkDC-kCuRC6BigMoo3BCoyBWmqAGiByIGgAUgMOB9yO29VDF8eBlMK0Ee-4HZ1kOQ7iFFOoA0BOgTjKGAhhIsQowu86YDlM5aCDBwtMCBKtuMKulotL104BnCgVgAxlLgA)]
+- [主旋律 TMD 檔案](tonbi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgKGBJboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdiXmZuch6gUalZ-ZZ5aZmZmXGl6RWlKA6DSpdkpgJdH88EJcnxucmZublJOalIKsqychPL0osyKi0ysgsBrkvOTEnPjsxL1GJS0tL4XHjisdNkx83blbQ0uJStFUwNDDgsrdVcOGyMdE3sQMZ83TJ8mdrFz_duefpzi1Pp2x8trZH4fmaNU92NLyc3aZgaP5yQePj5hWPm1eB7YQoeLpj8_s9HUYGRgZ6BgZmegYWJsbv93SCwl4vqyAdKAU1s7fx6ezZIGNnz342p-PJrh6QSOvqZ9OXPutqAepQ4uLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3o2Bcr5z1tXfFsWjvIXRt6n7V3KiBc2vOssxvolucbFr5YOwfoovd7ZoFMebFq_7OG5SD93b0vZs4Hij5u7gYKgrzT0fZkZzfIR929T9dOABrqogD0LlBSARiiCkBRoDFgl7TvejFzKsgMoHfnzH-xYveLFTNAJjX0IEIIKdThgY4U5kCjFAxN9BSAyMjicUMvF8hgDUNNhcfNHY-bZ4LJPWDGnscNDWDu5sfNk0Hspr2Pm1c-btoPkmpaDSbXg3SDwOPmrsdNG0EkSBjIwNS96HHzpsdN-8DGrwST3QjdU8AKgQ5cC9ZHLBduAMhVfY-btoOt3wQxHax2PdhWiGuXgMXbIF42gnp5GszLQAbpXgYaD_EykDHYvUx5doACBS19Lq6Q_LykTKuAzMS8fIcag5pqsLtsLLTswAxsmRBaCLxY2KOgYaLwdEP_8_UNOvCco4lFA9AekGE1CoYKukBopGCsYKpgBsRAkTiwkC6QC6FrgMIg2hiswBiopQaoASIHggYgNWDjfAxrQFEPFgWmdCgbxAKZAolBqCZgRMKNByYGqNhKUOCDWE2roTLrkSyKR1hkhGzRNLhF06hpEf7g3tVDl-AGKYVpwx7cXRAvNW2EskEsAqGwCCq2CcjeBw0PiJZuPMENs2g93CJQmFHNIgKpu5Os4IYErik0SEFWQ4LZGAhhIsQoQgpvUIEB9dYKIF6L8C6VpZCCnn524o0FYE1K5UQPguAEDROCFDEEUz0484Jc3wdkbwexmjZBvYaRsoBikMwNSYegDA8svqEybeiqEaFOQztqubh07RTABX20j2GsAoJjBOYocwEA)]
 - [鋼琴伴奏 TMD 檔案](tonbi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0sETIlGSk5qZapaaUJieWZObnKXFpaSk8blzxuGny48bN7_d0vOze83zClid7tjxd2v-8s-P9nk4FLS0uRVsFQwMDLntbBRcuGxN9EzuQeU-XLH-2dvHTnXue7tzydMrGZ2t7FJ6vWfNkR8PL2W0KhuYvFzQ-bl7xuHkV2HKIgqc7QHYYGRgZ6BkYmOkZWJgYA20AuVAvqyAdKAU1s7fx6ezZIGNnz342p-PJrh6QSOvqZ9OXPutqAepQ4uLS11KwpRbgUlBABIKCRkh-XlKmpsKjhikKAZmJefkKjsnJ-bkFiXmZual5JSDFweDwtVKgrq9AJjvm5eWXgKOmGGg8kSEMdn_z7qDUtNSi1LzkVAXH0pTMfCuFaEwDHjcD9Sx-3Lz5cXPv4-bVChqR-aUhpUmpmrEaGSUlBcVW-vrl5eV6lfmlJUBRPaC_9R1UXU1VHU1UHc1VXc1UHV1UHY1BIk6Wqk7OMIYJiGFpoupkCFVjAZQyVrUAIqAImAHSBWY4wRgWLjApJ_2yzJTU_GJNkE8oj08oUNDS5-ICR6ZVWD4wkzjUGNRUg2xQsLHQsgMzahQMFXSB0EjBWMFUwQyIgSJxYCFdIBdC1wCFQbQxWIExUEsNUANEDgQNQGrINQ6kFKYNi3EQzaZQLSDNEGOMgRAmQowiws6DWw0TgngWl_tqYUELziJBHngD11AbZKGJNsRKY224pSAhmJuNtTGD2Txem1BIk2E22FSwt4B6sZsONwfoEqhekDkwM4Gug2slTTGxrkdEB1wQEix4HY8aKz7IsWKCiJV4BAK6Mh6BYHJAJljOND4ejg0QbieoH6YHzAcxgBR-_TAeHjn8uoHGQznIlmuDwhkeNLp2CuDQUQAylLkA)]
 
 ## 分析
@@ -73,14 +72,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ とんび ]
 ================================================================================
-⏱  Duration:       0:38 (38.4s), 16 measures total
+⏱  Duration:       1:16 (76.8s), 32 measures total
 🎼 Key & Tempo:    首調基準 D, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  D4 in [Tonbi #1 @ m.1, 0:00]
-   - 最高音: D5 in [Tonbi #1 @ m.2, 0:02]
+   - 最低音:  D4 in [Tonbi[L1] #1 @ m.1, 0:00]
+   - 最高音: D5 in [Tonbi[L1] #1 @ m.2, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Tonbi (38.4s)
+🏛  結構:      Tonbi[L1] (38.4s) -> Tonbi[L2] (38.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -88,9 +87,10 @@ tmd_source:
    - 核心骨幹音:  D, A, B, F#, E
    - 調性數值:    D 大調 [相關度: 0.91, 穩定度: High, 自然音純度: 100.0%]
    - 候選調性 (K-S): D 大調 (0.91), B 小調 (0.70), A 大調 (0.57)
-   - 五度圈歷程:   +2
+   - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Tonbi #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [Tonbi[L1] #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
+     • [Tonbi[L2] #1]: D 大調 (r: 0.91, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -117,7 +117,7 @@ tmd_source:
      B  : ███████████               16.7%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 56 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 112 個音符)
 ================================================================================
 ```
 

@@ -77,7 +77,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](gunkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhEboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiXiJCUUlGKtCDuZk5mSWJRUhOgIiXJ5akFiGbmJmemWeVm5qZlRlfklpRguo1qHR5ajFQV158bmpOfgrQSC0thRe7e190Lnu_pwPG6FTQ0uJStFWwsOCyt1Vw57Ix1jexAxn0ZO-cFyvnvd8z62nXghfTlzzft_LZjtb3e_qB4s9mbwKKv9y89OnG1qf7NwJNe9o3_9mKmUDBF90bn87e-7ih9dnaHoXHTasfN6953LwHaA3YcU_bd72YORWo7PmUDc_mTny2atHTdbOeTtkIVPxydpuCoYnpywWNj5tXPG5eBTJ09uynO7fA9D5u6IKofLpj2uOG7udr1jxtXf20rQuo0MjAyEDPwMBMz8DCxBioHpQS9LIK0pW4uPS1FGypBbgUFBTsFKIV_fxDXGMhHC0toM-Bbn6xuf3Fiq4XHe1A9wFD7WnrimfT2rW0QJ7Y0PusvVMhAeamBKD7gAEA0a4LMgAcJiCtK2a-XNjzYsXuFytmgLTOApr7ctk0oDBQ7HFDT4LGkx2dz7p7n66doKfwdAmUqQAJcaC9wFjRTHjc0AtSColdBQ1IEGoqEA5vkM73e3peNsx_umsZyIinuxc_XbL8cXO3wqOZK0HpA6riaf_mJzu6gG4EOwk5vjUREQ4ShzqmCeFVoAtfrNoP9OrzrROeLe9-0dD8Ym0nxKuzpz1v2fasq-XZnDXPNu1_sXTTi46uF6tWQUIDZMmcbiACWgIMUo_UvKJKBefEotRKnccNHe75KQrBiWWpoJyi4J2Zl_64ARjCQNTzdP2y5027ns3oe7Zpt4KRmQIwKECpaEP_07U7IKEATEhPe7eDQgkpkUNS_uOGRngKh6T5Jzu7gdZBghZox8vVM140bnrZvOLZ9O6n-7pBcd3c-nJa98sFa592T322cv7ThvkvJ05Edvzz9Q1Pl_Y_nQdU3AkMGVAymb3paetGYEwoAJ0FlAaa4g6M3OXAcFIA5kQFYCRD_AJM7wrmCi_aNyPUPu3sfbqvB5g-ns3pfNrf-2JZGyisZs5XSKipsVLQ09NTsKqpAaa3nqetHUC1zzs7gKH7YtWSZ9P2gEwDhgfYmGcdq55N2w5U9mR314vFc17u7Xq6rufZ1C0Ii4AxBjH_2bqtLyYAYxs5Tju7gdEGSqpzFz3fsgGoGhyhIAsMDRGeAvKBqffFQrA_jOHincDs83Th9GdTdgLzADBZPZu2E8h-un718872p43tTyeAUvPjpkUKj5s3QXDTdiC9B5wUoXnryY5ukLY9i56unQ5U_XJ2CzA5ghXAws0QZiEoO3X3AtMEqOjoaHs5f_PzNcuA7nrZsBjIVkjQMFMwVTDRVNXQ1dVMUHjZCrF9CdDW9UC8FSk9w7L_kx0NwIQCLELB_MfN6x83Nzxu7nvc3P-4eSUw8zxuaAA6-XHzPJBg05bHzR1As0CCzfMfNy973AzML_0QvY86lloBDVjxuGknSLhpEdikTWC1Ux837X7ctAHEaO4FqoHa1tCgAHQWUOEmEAJa07T_cdNGEANk6xKQTUBHN0-DaFKwAlqB6vhdwAxAwPHNS4h3PMjlC8Fa54MUQg0A6gY6EaiWKo6nvBiHAgUtfS4u99I8YC3saBWWD6yQHWoMaqpBdijYWGiBA0mhOjetFszAVo8ogBN1AzBRg4o0IHtXD5ANypW9XQoa4IT3qGEyLJvpKMCqAE0sRgEdA7KmRsEQmKtA2AiIaxTM44EUSADCNQaSIGwC54EUgpTXgFWAWGAtEHNA0ADEA5vtY1gDimMgHxjNYLIPrBIYiWCVwIgD4m6IGDCbgUTmIatr2gJV1wHOEBC988Eiy8DkahTzdBXALoHYbUSC3c1LqGZ3LSyKnXBHMaEYhsTqvh5grAKLX1C7Y_ZsoIiCBqiUBRfLwFiGl5WgMpfIqDYFOhGGITxQzIJitQYcwzAM4YFiHpwKkCJzBcjrTTuRAwBYVkICqgFcXkICZSpY3W4wuQFJDKSuF2oOUkRBTVwIjRhEYIP0A0tCeERBoghkIyICMM2FeheUl6CpF-QTQ3gKNoGGAHLpC5aCJHocKRnsUeRqAeL9_VBnboSLaSCV4MAmSvM0qPMgzgU5EUtapYnpwNSoa6cALXMU4EwnEFOZCwA)]
+- [主旋律 TMD 檔案](gunkan.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhEboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlV-UUlGfnpRYkFGpVVGZnFJflFmcmJOfHZiXiJCUUlGKtCDuZk5mSWJRUhOgIiXJ5akFiGbmJmemWeVm5qZlRlfklpRguo1qHR5ajFQV158bmpOfgrQSC0thRe7e190Lnu_pwPG6FTQ0uJStFWwsOCyt1Vw57Ix1jexAxn0ZO-cFyvnvd8z62nXghfTlzzft_LZjtb3e_qB4s9mbwKKv9y89OnG1qf7NwJNe9o3_9mKmUDBF90bn87e-7ih9dnaHoXHTasfN6953LwHaA3YcU_bd72YORWo7PmUDc_mTny2atHTdbOeTtkIVPxydpuCoYnpywWNj5tXPG5eBTJ09uynO7fA9D5u6IKofLpj2uOG7udr1jxtXf20rQuo0MjAyEDPwMBMz8DCxBioHpQS9LIK0pW4uPS1FGypBbgUFBTsFKIV_fxDXGMhHC0toM-Bbn6xuf3Fiq4XHe1A9wFD7WnrimfT2rW0QJ7Y0PusvVMhAeamBKD7gAEA0a4LMgAcJiCtK2a-XNjzYsXuFytmgLTOApr7ctk0oDBQ7HFDT4LGkx2dz7p7n66doKfwdAmUqQAJcaC9wFjRTHjc0AtSColdBQ1IEGoqEA5vkM73e3peNsx_umsZyIinuxc_XbL8cXO3wqOZK0HpA6riaf_mJzu6gG4EOwk5vjUREQ4ShzqmCeFVoAtfrNoP9OrzrROeLe9-0dD8Ym0nxKuzpz1v2fasq-XZnDXPNu1_sXTTi46uF6tWQUIDZMmcbiACWgIMUo_UvKJKBefEotRKnccNHe75KQrBiWWpoJyi4J2Zl_64ARjCQNTzdP2y5027ns3oe7Zpt4KRmQIwKECpaEP_07U7IKEATEhPe7eDQgkpkUNS_uOGRngKh6T5Jzu7gdZBghZox8vVM140bnrZvOLZ9O6n-7pBcd3c-nJa98sFa592T322cv7ThvkvJ05Edvzz9Q1Pl_Y_nQdU3AkMGVAymb3paetGYEwoAJ0FlAaa4g6M3OXAcFIA5kQFYCRD_AJM7wrmCi_aNyPUPu3sfbqvB5g-ns3pfNrf-2JZGyisZs5XSKipsVLQ09NTsKqpAaa3nqetHUC1zzs7gKH7YtWSZ9P2gEwDhgfYmGcdq55N2w5U9mR314vFc17u7Xq6rufZ1C0Ii4AxBjH_2bqtLyYAYxs5Tju7gdEGSqpzFz3fsgGoGhyhIAsMDRGeAvKBqffFQrA_jOHincDs83Th9GdTdgLzADBZPZu2E8h-un718872p43tTyeAUvPjpkUKj5s3QXDTdiC9B5wUoXnryY5ukLY9i56unQ5U_XJ2CzA5ghXAws0QZiEoO3X3AtMEqOjoaHs5f_PzNcuA7nrZsBjIVkjQMFMwVTDRVNXQ1dVMUHjZCrF9CdDW9UC8FSk9w7L_kx0NwIQCLELB_MfN6x83Nzxu7nvc3P-4eSUw8zxuaAA6-XHzPJBg05bHzR1As0CCzfMfNy973AzML_0QvY86lloBDVjxuGknSLhpEdikTWC1Ux837X7ctAHEaO4FqoHa1tCgAHQWUOEmEAJa07T_cdNGEANk6xKQTUBHN0-DaFKwAlqB6vhdwAxAwPHNS4h3PMjlC8Fa54MUQg0A6gY6EaiWKo6nvBiHAgUtfS4u99I8YC3saBWQmZiX71BjUFMNskPBxkILHEgK1blptWAGtnpEAZyoG4CJGlSkAdm7eoBsUK7s7VLQACe8Rw2TYdlMRwFWBWhiMQroGJA1NQqGwFwFwkZAXKNgHg-kQAIQrjGQBGETOA-kEKS8BqwCxAJrgZgDggYgHthsH8MaUBwD-cBoBpN9YJXASASrBEYcEHdDxIDZDCQyD1ld0xaoug5whoDonQ8WWQYmV6OYp6sAdgnEbiMS7G5eQjW7a2FR7IQ7ignFMCRW9_UAYxVY_ILaHbNnA0UUNEClLLhYBsYyvKwElblERrUp0IkwDOGBYhYUqzXgGIZhCA8U8-BUgBSZK0Beb9qJHADAshISUA3g8hISKFPB6naDyQ1IYiB1vVBzkCIKauJCaMQgAhukH1gSwiMKEkUgGxERgGku1LugvARNvSCfGMJTsAk0BJBLX7AUJNHjSMlgjyJXCxDv74c6cyNcTAOpBAc2UZqnQZ0HcS7IiVjSKk1MB6ZGXTsFaJkT7WMYqwDnOsG4ylwA)]
 - [鋼琴伴奏 TMD 檔案](gunkan_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGhEboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIri5MS8-LLUosy0zNQUJGelFhWDHQxxR0lRYh7EHKAgQlViEVA8PTU3Na_EqiAzMS8_PjE5OT-3IDEvEySGUJhfVJKRn16UWJBRaZWRWVySX5SZnJgTn52Yl4hQVJIBNMkqNzMnsySxCOhWLS2FF7t7X3Que7-nA8J43Lz7Zfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYWHDZ2yq4c9kY65vYgcx8snfOi5Xz3u-Z9bRrwYvpS57vW_lsR-v7Pf1A8WezNwHFX25e-nRj69P9G8FOeNq-68XMqUDh51M2PJs78dmqRU_XzXo6ZeOztT0vZ7cpGJqYvlzQ-Lh5xePmVUD3PJ09--nOLUDbwXofN3RBVD7dMe1xQ_fzNWuetq5-2tYFVGhkYGSgZ2BgpmdgYWIMVA-KTL2sgnQlLi730jxgADhaBYBCzqHGoKaaSwEIbCy07MCM6ty0WjCjRsFQQReMjYC4RsE8HkiBBCBcYyAJwiZwHkghSHkNWAWIBdYCMQcEDUA8sNk-hjUKj5vXA_mPmxvAZB9Y5ePmfrDKx80rgbgbIta0HSwyD1ld0xaoug4gG2QOSO98sMgyMLkaxTxdBbBLIHYbkWB38xKq2V2LFvZBHvhD3zReGxRwUMokXhsS7kA-NCbAMkACIm6oDYoDs3gYBYkXoDQkasDqgMKQCIKahrACGlPG8dpQMUR8obvbB9ndJnB3F8BTTTwIGcXHg62Ph2OwjBmQAZECckCiIAFggkFXB2IYIFvuhDvBIkIM5BcohvBAyRPkf6CPwWxYcgWRoOQLDjqkFLkCFH9NO5FjsWkRNLYbgHgTNGangtXtBpMbkMRA6nqh5iClNqiJC6GpC5FiQPrXI6U2SDoD2YhIRZjmQr0LSivQLAjyiSE8G5pAQ0DDDMgw0VTV0NXVBEtBUwpK9MI9D_YoyItgDM50INH9UGduhItpPG5aAnF301ZNoOppUOdBnAtyIpYMRxPT0VMH9iyFKM-0QeFiDCaB2QVMw0RBoQbJQqCSTtsInH8wGUiSoPQDzjmQDIgcKRCDENEC4UOtgFqLEjkQBUim4c-JUO_iyIkI_8YDjQGRsEwJZqLmSRQe3A8FQD8gdCAxTfBkVF07BWhBEe1jGKsA5zrh5QIVG6HKYuUqcwEA)]
 
 ## 分析
@@ -90,10 +90,10 @@ tmd_source:
 🎼 Key & Tempo:    首調基準 G, != 88.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    F#4 (MIDI 66) – E5 (MIDI 76) [跨度: 10 個半音 / 0.8 個八度, 難度: easy]
-   - 最低音:  F#4 in [GunkanA #1 @ m.2, 0:02]
-   - 最高音: E5 in [GunkanB #1 @ m.13, 0:24]
+   - 最低音:  F#4 in [GunkanA[L1] #1 @ m.2, 0:02]
+   - 最高音: E5 in [GunkanB[L1] #1 @ m.13, 0:24]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      GunkanA (12.3s) -> GunkanB (16.4s)
+🏛  結構:      GunkanA[L1] (12.3s) -> GunkanB[L1] (16.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -103,8 +103,8 @@ tmd_source:
    - 候選調性 (K-S): G 大調 (0.85), B 小調 (0.57), C 大調 (0.54)
    - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [GunkanA #1]: G 大調 (r: 0.68, 自然音純度: 100.0%)
-     • [GunkanB #1]: G 大調 (r: 0.69, 自然音純度: 100.0%)
+     • [GunkanA[L1] #1]: G 大調 (r: 0.68, 自然音純度: 100.0%)
+     • [GunkanB[L1] #1]: G 大調 (r: 0.69, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -131,7 +131,7 @@ tmd_source:
      B  : ████████████████████████  22.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : F#4 – E5 (10 個半音 / 0.8 個八度, 42 個音符)
+  - Piano         : F#4 – E5 (10 個半音 / 0.8 個八度, 42 個音符)
 ================================================================================
 ```
 

@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1549 首歌曲、整理 1385 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1549 首歌曲、整理 1389 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -468,7 +468,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [水牛](shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md)
 - [水牛](taiwan_no_uta/3_suigyu/index.md)
 
-### 文部省（59 首）
+### 文部省（61 首）
 
 - [つとめてやまず](jinjo_shogaku_shoka/grade_4_4080/19_tsutomete_yamazu/index.md)
 - [ひよこ](kyoyusho_shoka_1935/1_16_hiyoko/index.md)
@@ -486,6 +486,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [ヒヨコ（小雞）](jinjo_shogaku_shoka/grade_1_4103/5_hiyoko/index.md)
 - [ヒヨコ（小雞）](kogakko_shoka/grade_1/5_hiyoko/index.md)
 - [ヒヨコ（小雞）](shintei_jido_shoka/grade_1_2020.006.0847.0001/1_03_hiyoko/index.md)
+- [ヨク學ビヨク遊ベ](hyojun_shoka_gakushucho/grade_2/06_yoku_manabi_yoku_asobe/index.md)
 - [人形](kogakko_shokashu_1915/1_07_ningyo/index.md)
 - [人形](shoka_kyozai_shu_1923/grade_1_2/14_ningyo/index.md)
 - [兒島高德](jinjo_shogaku_shoka/grade_6_4078/2_kojima_takanori/index.md)
@@ -495,6 +496,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [卒業の歌](jinjo_shogaku_shoka/grade_6_4078/19_sotsugyo_no_uta/index.md)
 - [四季の雨](jinjo_shogaku_shoka/grade_6_4078/12_shiki_no_ame/index.md)
 - [夜の梅](jinjo_shogaku_shoka/grade_6_4078/17_yoru_no_ume/index.md)
+- [大日本](hyojun_shoka_gakushucho/grade_3/04_dainihon/index.md)
 - [天照大神](jinjo_shogaku_shoka/grade_6_4078/18_amaterasu_omikami/index.md)
 - [天照大神](kogakko_shoka/grade_6/16_amaterasu_omikami/index.md)
 - [廣瀨中佐](jinjo_shogaku_shoka/grade_4_4080/12_hirose_chusa/index.md)
@@ -1193,9 +1195,8 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [才池ノヒゴヒ](hyojun_shoka_gakushucho/grade_2/03_oike_no_higohi/index.md)
 
-### 高崎正風（6 首）
+### 高崎正風（5 首）
 
-- [紀元節](hyojun_shoka_gakushucho/grade_1/16_kigensetsu/index.md)
 - [紀元節](kogakko_shokashu_1915/3_06_kigensetsu/index.md)
 - [紀元節](kyoyusho_shoka_1935/0_04_kigensetsu/index.md)
 - [紀元節](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/index.md)
@@ -1238,10 +1239,6 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [軍艦](kogakko_shoka/grade_6/9_gunkan/index.md)
 - [軍艦マーチ](shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi/index.md)
 
-### 黑川真賴（1 首）
-
-- [天長節](hyojun_shoka_gakushucho/grade_1/13_tenchosetsu/index.md)
-
 ### 黒川眞頼（4 首）
 
 - [天長節](kogakko_shokashu_1915/2_01_tenchosetsu/index.md)
@@ -1249,14 +1246,16 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [天長節](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/index.md)
 - [天長節](shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu/index.md)
 
-### 黒川真頼（11 首）
+### 黒川真頼（13 首）
 
+- [天長節](hyojun_shoka_gakushucho/grade_1/13_tenchosetsu/index.md)
 - [天長節](hyojun_shoka_gakushucho/grade_2/13_tenchosetsu/index.md)
 - [天長節](hyojun_shoka_gakushucho/grade_3/13_tenchosetsu/index.md)
 - [天長節](hyojun_shoka_gakushucho/grade_4/11_tenchosetsu/index.md)
 - [天長節](hyojun_shoka_gakushucho/grade_5/12_tenchosetsu/index.md)
 - [天長節](hyojun_shoka_gakushucho/grade_6/13_tenchosetsu/index.md)
 - [天長節](shokacho/vol_01/p126_tenchosetsu/index.md)
+- [紀元節](hyojun_shoka_gakushucho/grade_1/16_kigensetsu/index.md)
 - [紀元節](hyojun_shoka_gakushucho/grade_2/16_kigensetsu/index.md)
 - [紀元節](hyojun_shoka_gakushucho/grade_3/16_kigensetsu/index.md)
 - [紀元節](hyojun_shoka_gakushucho/grade_4/14_kigensetsu/index.md)

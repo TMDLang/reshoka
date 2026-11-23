@@ -457,6 +457,11 @@ SLUG_ALIASES: dict[str, str] = {
     "shotehei": "shohei",
     "charni": "chatsumi",
     "kazaguruma": "kazagurumamizuguruma",
+    "oyausikousi": "oyaushikoushi",
+    "asagaho": "asagao",
+    "momotarau": "momotaro",
+    "hakone": "hakoniwa",
+    "dainihon": "dainippon",
 }
 
 # Clusters where all entries are historically the same song (`同曲`), including
@@ -1301,11 +1306,62 @@ def extract_melody_degrees(tmd_text: str) -> str:
 def extract_lyrics_hiragana(tmd_text: str) -> str:
     """Extract first-stanza lyrics and normalize to Hiragana using macOS CoreFoundation."""
     no_comments = re.sub(r"/\*.*?\*/", "", tmd_text, flags=re.S)
+    seen_sections: set[str] = set()
     l1_parts: list[str] = []
+    current_sec: str | None = None
+    in_block = False
+    block_l1: list[str] = []
+    block_l: list[str] = []
+
+    def flush() -> None:
+        if block_l1:
+            l1_parts.extend(block_l1)
+            if current_sec:
+                seen_sections.add(current_sec)
+        elif block_l:
+            l1_parts.extend(block_l)
+            if current_sec:
+                seen_sections.add(current_sec)
+        block_l1.clear()
+        block_l.clear()
+
     for line in no_comments.splitlines():
         s = line.strip()
-        if s.startswith("L1|") or (s.startswith("L|") and not l1_parts):
-            l1_parts.append(s.split("|", 1)[1])
+        m = re.match(r"^([A-Za-z0-9_]+)(?::([A-Za-z0-9_]+))?(?:@[^\{]+)?\s*\{\s*$", s)
+        if m:
+            if in_block:
+                flush()
+            in_block = True
+            current_sec = m.group(1)
+            continue
+        if s == "}":
+            if in_block:
+                flush()
+                in_block = False
+                current_sec = None
+            continue
+        if in_block and current_sec:
+            if current_sec in seen_sections:
+                continue
+            if s.startswith("L1|"):
+                block_l1.append(s.split("|", 1)[1])
+            elif s.startswith("L|"):
+                block_l.append(s.split("|", 1)[1])
+
+    if in_block:
+        flush()
+
+    if not l1_parts:
+        all_l1: list[str] = []
+        all_l: list[str] = []
+        for line in no_comments.splitlines():
+            s = line.strip()
+            if s.startswith("L1|"):
+                all_l1.append(s.split("|", 1)[1])
+            elif s.startswith("L|"):
+                all_l.append(s.split("|", 1)[1])
+        l1_parts = all_l1 if all_l1 else all_l
+
     raw = "".join(l1_parts)
     from_comment = False
     if not raw:
