@@ -117,6 +117,32 @@ def audit_tmd(tmd_path: Path) -> bool:
 
     track_content = body_match.group(1)
 
+    # 2. 歷史唱歌專屬：LilyPond 語法混淆防呆檢查 (Suspected LilyPond Syntax Check)
+    # 在 TMD 中，高八度為 ^、低八度為 _；' 為升記號(♯)、, 為降記號(♭)。
+    # 與 LilyPond 剛好衝突（LilyPond 的 ' 為高八度、, 為低八度）。
+    # 本專案歷史學校唱歌與童謠教材絕大多數為自然大調、小調或五聲音階，若出現突兀升降記號必為混淆！
+    clean_track_notes = re.sub(r"/\*.*?\*/", "", track_content, flags=re.S)
+    clean_track_notes = "\n".join([line for line in clean_track_notes.splitlines() if not re.match(r"^\s*L\d*\|", line)])
+    accidentals = re.findall(r"[1-7][',]", clean_track_notes)
+    octaves = re.findall(r"[1-7][\^_]", clean_track_notes)
+    high_risk_accidentals = re.findall(r"[12356]'|[1256],", clean_track_notes)
+
+    if high_risk_accidentals or (len(accidentals) >= 4 and len(accidentals) > len(octaves)):
+        sample = ", ".join(list(dict.fromkeys(accidentals))[:6])
+        print(
+            f"  ❌ [LilyPond 語法混淆警示 (Suspected LilyPond Syntax)]\n"
+            f"     檢測到旋律中含有疑似誤用的升降記號：\n"
+            f"     - 升降記號 (' 或 ,) 出現 {len(accidentals)} 次（樣本：{sample}）\n"
+            f"     - 八度記號 (^ 或 _) 出現 {len(octaves)} 次\n"
+            f"     🚨 嚴重警告：在 TMD 語法中：\n"
+            f"        - 高八度為 `^`（如 1^, 3^, 5^），低八度為 `_`（如 5_, 6_）！\n"
+            f"        - `'` 代表升記號 (♯)，`,` 代表降記號 (♭)！\n"
+            f"     本專案為歷史公學校與尋常小學唱歌教材，曲目均為自然音階，幾乎絕無此類突兀升降音。\n"
+            f"     您極可能習慣性使用了 LilyPond 的八度記號（' 代表高音、, 代表低音），導致全曲音高嚴重偏離！\n"
+            f"     請立刻將 `'` 改為 `^`，將 `,` 改為 `_`！"
+        )
+        has_warnings = True
+
     # 逐行解析：關聯小節與其上方的註解
     line_groups = []  # list of (comments, measures)
     pending_comments = []

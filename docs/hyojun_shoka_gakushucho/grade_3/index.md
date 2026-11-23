@@ -15,7 +15,7 @@ image: "0_book_info/cp_01.jpg"
 | 第 1 課 | [**春が來た**](01_haru_ga_kita/index.md) | 詞：高野辰之 / 曲：岡野貞一 | `?=G` `<4/4>` `!=120` | P006.jpg, P007.jpg |
 | 第 2 課 | [**げんげ草**](02_gengekusa/index.md) | — | `?=Bb` `<4/4>` `!=96` | P008.jpg, P009.jpg |
 | 第 3 課 | [**お玉じやくし**](03_otamajakushi/index.md) | — | `?=D` `<2/4>` `!=104` | P010.jpg, P011.jpg |
-| 第 4 課 | [**大日本**](04_dainihon/index.md) | — | `?=G` `<2/4>` `!=100` | P012.jpg, P013.jpg |
+| 第 4 課 | [**大日本**](04_dainihon/index.md) | 詞：文部省 / 曲：山本壽 | `?=G` `<2/4>` `!=100` | P012.jpg, P013.jpg |
 | 第 5 課 | [**きんしくんしやう**](05_kinshi_kunsho/index.md) | — | `?=D` `<2/4>` `!=108` | P014.jpg, P015.jpg |
 | 第 6 課 | [**僕等は少年だ**](06_bokura_wa_shonen_da/index.md) | — | `?=C` `<2/4>` `!=112` | P016.jpg, P017.jpg |
 | 第 7 課 | [**汽車**](07_kisha/index.md) | 詞：文部省 / 曲：大和田愛羅 | `?=D` `<2/4>` `!=92` | P018.jpg, P019.jpg |
@@ -26,5 +26,5 @@ image: "0_book_info/cp_01.jpg"
 | 第 12 課 | [**君が代**](12_kimigayo/index.md) | 詞：古歌 / 曲：林廣守 | `?=C` `<4/4>` `!=69` | P028.jpg, P029.jpg |
 | 第 13 課 | [**天長節**](13_tenchosetsu/index.md) | 詞：黒川真頼 / 曲：奥好義 | `?=D` `<3/4>` `!=96` | P030.jpg, P031.jpg |
 | 第 14 課 | [**始政紀念日**](14_shisei_kinenbi/index.md) | — | `?=C` `<4/4>` `!=96` | P032.jpg, P033.jpg |
-| 第 15 課 | [**一月一日**](15_ichigatsu_ichijitsu/index.md) | 詞：千家尊福 / 曲：上真行 | `?=G` `<4/4>` `!=96` | P034.jpg, P035.jpg |
+| 第 15 課 | [**一月一日**](15_ichigatsu_ichijitsu/index.md) | 詞：千家尊福 / 曲：上真行 | `?=D` `<4/4>` `!=96` | P034.jpg, P035.jpg |
 | 第 16 課 | [**紀元節**](16_kigensetsu/index.md) | 詞：黒川真頼 / 曲：伊沢修二 | `?=C` `<4/4>` `!=96` | P036.jpg, P037.jpg |

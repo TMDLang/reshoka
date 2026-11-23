@@ -24,5 +24,5 @@ image: "0_book_info/cp_01.jpg"
 | 第 10 課 | [**君が代**](10_kimigayo/index.md) | 詞：古歌 / 曲：林廣守 | `?=C` `<4/4>` `!=69` | P024.jpg, P025.jpg |
 | 第 11 課 | [**天長節**](11_tenchosetsu/index.md) | 詞：黒川真頼 / 曲：奥好義 | `?=D` `<3/4>` `!=96` | P026.jpg, P027.jpg |
 | 第 12 課 | [**始政紀念日**](12_shisei_kinenbi/index.md) | — | `?=C` `<4/4>` `!=96` | P028.jpg, P029.jpg |
-| 第 13 課 | [**一月一日**](13_ichigatsu_ichijitsu/index.md) | 詞：千家尊福 / 曲：上真行 | `?=G` `<4/4>` `!=96` | P030.jpg, P031.jpg |
+| 第 13 課 | [**一月一日**](13_ichigatsu_ichijitsu/index.md) | 詞：千家尊福 / 曲：上真行 | `?=D` `<4/4>` `!=96` | P030.jpg, P031.jpg |
 | 第 14 課 | [**紀元節**](14_kigensetsu/index.md) | 詞：黒川真頼 / 曲：伊沢修二 | `?=C` `<4/4>` `!=96` | P032.jpg, P033.jpg |
