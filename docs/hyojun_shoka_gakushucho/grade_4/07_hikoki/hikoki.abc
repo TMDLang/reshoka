@@ -4,21 +4,21 @@ M:2/4
 L:1/16
 Q:1/4=96
 K:F
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-F2 F2 F2 _e2 | F6 z2 | F2 G A B c d2 | c6 z2 |
+F2 F2 F2 E2 | F6 z2 | F2 G A B c d2 | c6 z2 |
 w: ナ ン ノ ネ | ゾ | ナ ニ ノ ヒ ビ キ | ゾ
 c d c B A2 G2 | F4 G2 A2 | B4 c4 | F4 z4 |
 w: ミ ミ ヲ ウ バ フ | ア ヤ シ | ノ ネ | ヤ
 c d c d c d c d | F2 G2 A2 z2 | B c d2 c B A2 | F6 z2 |
 w: ア レ ア レ ア レ ア レ | イ マ シ | ミ ア グ ル ソ ラ | ヲ
-F2 G2 A2 B2 | c2 d2 c2 B2 | A2 B2 c2 d2 | A2 F2 _c2 z2 |
+F2 G2 A2 B2 | c2 d2 c2 B2 | A2 B2 c2 d2 | A2 F2 C2 z2 |
 w: ヒ カ ゲ ヲ | カ ス メ テ | ホ ウ ヨ ク | ハ ー リ
-F2 _c c F2 z2 | F2 G A B2 z2 | [M:4/4] F6 G2 A4 G4 | F12 z4 |
+F2 C C F2 z2 | F2 G A B2 z2 | [M:4/4] F6 G2 A4 G4 | F12 z4 |
 w: ヒ カ ウ キ | ト ビ ユ ク | イ サ マ シ | ク
-F2 F2 F2 _e2 F6 z2 | F2 G A B c d2 c6 z2 | c d c B A2 G2 F4 G2 A2 | B4 c4 F4 z4 |
+F2 F2 F2 E2 F6 z2 | F2 G A B c d2 c6 z2 | c d c B A2 G2 F4 G2 A2 | B4 c4 F4 z4 |
 w: み や る ま に | そ ら を よ こ ぎ る | ち か ら づ よ き ほ う ー | よ く や
-c d c d c d c d F2 G2 A2 z2 | B c d2 c B A2 F6 z2 | F2 G2 A2 B2 c2 d2 c2 B2 | A2 B2 c2 d2 A2 F2 _c2 z2 |
+c d c d c d c d F2 G2 A2 z2 | B c d2 c B A2 F6 z2 | F2 G2 A2 B2 c2 d2 c2 B2 | A2 B2 c2 d2 A2 F2 C2 z2 |
 w: あ れ あ れ あ れ あ れ も は や | あ な た の は て の | く も ま を ぬ ひ つ つ | こ ご り の ご ー と
-F2 _c c F2 z2 F2 G A B2 z2 | F6 G2 A4 G4 | F12 z4 |]
+F2 C C F2 z2 F2 G A B2 z2 | F6 G2 A4 G4 | F12 z4 |]
 w: ひ か う き き え ゆ く | か す け く | も

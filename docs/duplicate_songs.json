@@ -1,8 +1,8 @@
 {
   "total_corpus_songs": 1549,
-  "unique_song_count": 1051,
+  "unique_song_count": 1050,
   "duplicate_group_count": 276,
-  "duplicate_occurrence_count": 774,
+  "duplicate_occurrence_count": 775,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -1563,6 +1563,12 @@
           "md_file": "kogakko_shoka/grade_2/13_shichimencho/index.md",
           "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
           "raw_title": "しちめんてう（七面鳥）"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_2/05_shichimencho",
+          "md_file": "hyojun_shoka_gakushucho/grade_2/05_shichimencho/index.md",
+          "book_label": "《標準唱歌學習帖》第二學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+          "raw_title": "七面鳥"
         }
       ]
     },

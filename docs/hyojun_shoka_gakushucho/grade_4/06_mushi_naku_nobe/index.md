@@ -63,8 +63,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](mushi_naku_nobe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJrpAglzhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRikoyUoE-zEssKS1KRRdNLC0pzUUyECKamVcMDL9iJS4tLYUX8zc9blz1uLH_ZXvfy6YuBS0tLkVbBQsTLntbBXcuGyN9EzuQ7hftu572TH-6Y_Xz9S1P1-54tmDhy5ktTzeuebqhH8J92rpc4dnaxc-WTX02p_n59hWPG7qerZj5bNe0p1M2PlvbA1T0fP-kpzumKTxfs-bp7NlA_tOdWxSetk56vnrp8ylA5d3v93Q8m7H26aSeJ7t6gHJPdk15NqfjaW_jkx3Nz6YvfT5zz4uFPe_39DzfsujZ7B0vZs5XMDA3slQwMX-_p1OJi0tfS8GWWoBLQUHhad98kDWb21-s6HrR0Q70wouV8562rng2rR3o0Kcbep-1dyqAUoZeVkH6o4bJoPQBYgJdCNGqUFCgp2BoBpQyBDqxB9nbQLaCmcLLZdOATn-_ZxbIuher9j9rWA6yqLsX6Deg6OPmjpdTtwPFFYBxoAAUfrp2AtBmd4WnS5YjiQKN4AIZ8GRHw-OGRhDrcfOqx82bHzfNBaGGBmAgPm9d_ripGxjBjxtXY1cETgXrIQnhcUMT2EVdG59OAor2PtnV9Lip53HjMnINAztvVw92xUALHjfOfdwI1LLs5eYtYC04DV33AqgO4ryXc4D8LqDyFxM7Hzd2P26cBHYP2eZRnmqgQEFLn4vLF1gQZfoByyO__KRUq7B8YK51qDGoqQbZpGBjoWUHZmBLs6D8AYxLYFpX0DBRAGav5-sbdOAJTROLBqB9IMNqFIwVdBUMgRjCMgCzTHWAQsYKpnBpA4UasHIfwxpQkADxZjiNEIkHa37c3KLwuGktkG4D4tVgkT6gzOPmbqAKqDlGRJjT2AvEc4F4ExAvA4usApnT2A82B39g7OqhVmAYAdkmQAxiQcVICIsFwLDYDqT7gbgLJNK0HigDliU-JJoagL6eDsTrgHgyWGQi3BQCiaKTnHAAJgBwGjAEh4Qx0OdGIFEgyxDMwpYqID583LQVHPsgkflADHR58xpwWiAhZTQuAaoDqmkEmgeMbZDIeiDuBuJJQAzWSUnqAJap1E0doJwCkhl8qaOWi0vXTgGlZIn2MYxVwBQ0AgsqcwEA)]
-- [鋼琴伴奏 TMD 檔案](mushi_naku_nobe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJrpAglzhHRBUX5Zal5iHtCI1JTMkvyizMSc-MSiosS89NTc1LwShMrUssyUVJC6xOTk_NyCxLxMVPmy1KJikE8KMhPz8uNxKMovKsnIB_qhIKPSKjc_JbUoL74gIz8vtSQzOT47MS8RobIkA2i_VV5iSWlRKrpoYmlJaW4eumhmXjEwMIuVuLS0FF7M3_S4cdXjxv6X7X0vm7re7-l4smfL06X97_d0KmhpcSnaKliYcNnbKrhz2Rjpm9iBTHrRvutpz_SnO1Y_X9_ydO2OZwsWvpzZ8nTjmqcb-iHcp63LFZ6tXfxs2dRnc5qfb1_xuKHr2YqZz3ZNezpl47O1PUBFz_dPerpjmsLzNWuezp4N5D_duUXhaeuk56uXPp8CVN4NdMazGWufTup5sqsHKPdk15Rnczqe9jY-2dH8bPrS5zP3vFjY835Pz_Mti57N3vFi5nwFA3MjSwUTc6Crlbi4fIFpItMPmDT88pOAcQkK5iAPhxqDmmouBSCwsdCyAzP0tRRs0QHITU92NADNV9AwUQB66fn6Bh0FUHrQyypI18SiQUsfbFiNgrGCroIhEENYBmCWqQ5QyFjBFC5toFADVu5jWKPwuKkLiCfDaYRIPFjz48YlQNwLxMuAot1gkXVAmceNq4EqoOYYEWMOyIy5QNwCNgsksgpsTj_YHPyBsauHWoFhBGSbADGIBRUjPiyaGoDunQ6k-8GuB_mhHygDliU-JGCmAMPxcSNYvrEDbgqBRNFJTjgAEwA4DRiCQ8IY6HMjkCiQZQhmYUkVjevBPnzcOBUccyCR_UC8AOj6Hnj8EZkyQOqa2oA0MBSA4QUzvRuIJ4FVU5g6gNmXuqkDlFNAMoMvddRiLVh8KClY8IaRoY6ONjDp6CoY62hDwgouAgkwQgpIy9eUucUUyDUCcU2ANKoIMW5By1vEuQXOQBKD20pAjAhHoSdtKgUQiGGC1TXABKZrp4CSxqJ9DGMVMAWNwILKXAA)]
+- [主旋律 TMD 檔案](mushi_naku_nobe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJrpAglzhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRikoyUoE-zEssKS1KRRdNLC0pzUUyECKamVcMDL9iJS4tLYUX8zc9blz1uLH_ZXvfy6YuBS0tLkVbBQsTLntbBXcuGyN9EzuQ7hftu572TH-6Y_Xz9S1P1-54tmDhy5ktTzeuebqhH8J92rpc4dnaxc-WTX02p_n59hWPG7qerZj5bNe0p1M2PlvbA1T0fP-kpzumKTxfs-bp7NlA_tOdWxSetk56vnrp8ylA5d3v93Q8m7H26aSeJ7t6gHJPdk15NqfjaW_jkx3Nz6YvfT5zz4uFPe_39DzfsujZ7B0vZs5XMDA3slQwMX-_p1OJi0tfS8GWWoBLQUHhad98kDWb21-s6HrR0Q70wouV8562rng2rR3o0Kcbep-1dyqAUoZeVkH6o4bJoPQBYgJdCNGqUFCgp2BoBpQyBDqxB9nbQLaCmcLLZdOATn-_ZxbIuher9j9rWA6yqLsX6Deg6OPmjpdTtwPFFYBxoAAUfrp2AtBmd4WnS5YjiQKN4AIZ8GRHw-OGRhDrcfOqx82bHzfNBaGGBmAgPm9d_ripGxjBjxtXY1cETgXrIQnhcUMT2EVdG59OAor2PtnV9Lip53HjMnINAztvVw92xUALHjfOfdwI1LLs5eYtYC04DV33AqgO4ryXc4D8LqDyFxM7Hzd2P26cBHYP2eZRnmqgQEFLn4vLF1gQZfoByyO__CRgAZKZmJfvUGNQUw2yScHGQssOzMCWZkH5AxiXwLSuoGGiAMxez9c36MATmiYWDUD7QIbVKBgr6CoYAjGEZQBmmcYDhYwVTOHSBgo1YOU-hjWgIAHizXAaIRIP1vy4uUXhcdNaIN0GxKvBIn1AmcfN3UAVUHOMiDCnsReI5wLxJiBeBhZZBTKnsR9sDv7A2NVDrcAwArJNgBjEgoqREBYLgGGxHUj3A3EXSKRpPVAGLEt8SDQ1AH09HYjXAfFksMhEuCkEEkUnOeEATADgNGAIDgljoM-NQKJAliGYhS1VQHz4uGkrOPZBIvOBGOjy5jXgtEBCymhcAlQHVNMINA8Y2yCR9UDcDcSTgBisk5LUASxTqZs6QDkFJDP4UkctF5eunQJKyRLtYxirgCloBBZU5gIA)]
+- [鋼琴伴奏 TMD 檔案](mushi_naku_nobe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJrpAglzhHRBUX5Zal5iHtCI1JTMkvyizMSc-MSiosS89NTc1LwShMrUssyUVJC6xOTk_NyCxLxMVPmy1KJikE8KMhPz8uNxKMovKsnIB_qhIKPSKjc_JbUoL74gIz8vtSQzOT47MS8RobIkA2i_VV5iSWlRKrpoYmlJaW4eumhmXjEwMIuVuLS0FF7M3_S4cdXjxv6X7X0vm7re7-l4smfL06X97_d0KmhpcSnaKliYcNnbKrhz2Rjpm9iBTHrRvutpz_SnO1Y_X9_ydO2OZwsWvpzZ8nTjmqcb-iHcp63LFZ6tXfxs2dRnc5qfb1_xuKHr2YqZz3ZNezpl47O1PUBFz_dPerpjmsLzNWuezp4N5D_duUXhaeuk56uXPp8CVN4NdMazGWufTup5sqsHKPdk15Rnczqe9jY-2dH8bPrS5zP3vFjY835Pz_Mti57N3vFi5nwFA3MjSwUTc6Crlbi4fIFpItMPmDT88pOAcQkK5iAPhxqDmmouBSCwsdCyAzP0tRRs0QHITU92NADNV9AwUQB66fn6Bh0FUHrQyypI18SiQUsfbFiNgrGCroIhEENYBmCWaTxQyFjBFC5toFADVu5jWKPwuKkLiCfDaYRIPFjz48YlQNwLxMuAot1gkXVAmceNq4EqoOYYEWMOyIy5QNwCNgsksgpsTj_YHPyBsauHWoFhBGSbADGIBRUjPiyaGoDunQ6k-8GuB4msB8qAZYkPCZgpwHB83AiWb-yAm0IgUXSSEw7ABABOA4bgkDAG-twIJApkGYJZWFJF43qwDx83TgXHHEhkPxAvALq-Bx5_RKYMkLqmNiANDAVgbMNM7wbiSWDVFKYOYPalbuoA5RSQDMWpA-h66qaOWqwFiw8lBQveMDKMj9cGJh1dBeN4bUhYwUUgAUZIAWn5mjK3mAK5RiCuCZBGFSHGLWh5izi3wBlIYnBbCYgR4Sj0pE2lAAIxTLC6BpjAdO0UUNJYtI9hrAKmoBFYUJkLAA)]
 
 ## 分析
 
@@ -75,8 +75,8 @@ tmd_source:
 ⏱  Duration:       0:45 (45.7s), 32 measures total
 🎼 Key & Tempo:    首調基準 G, != 84.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    G4 (MIDI 67) – D5 (MIDI 74) [跨度: 7 個半音 / 0.6 個八度, 難度: easy]
-   - 最低音:  G4 in [MushiNakuNobe[L1] #1 @ m.1, 0:00]
+🎤 人聲音域:    D4 (MIDI 62) – D5 (MIDI 74) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
+   - 最低音:  D4 in [MushiNakuNobe[L1] #1 @ m.3, 0:02]
    - 最高音: D5 in [MushiNakuNobe[L1] #1 @ m.3, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      MushiNakuNobe[L1] (22.9s) -> MushiNakuNobe[L2] (22.9s)
@@ -84,13 +84,13 @@ tmd_source:
 🗝  調性診斷：       B 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  B, G, A, C#, D
-   - 調性數值:    B 小調 [相關度: 0.67, 穩定度: Moderate, 自然音純度: 96.2%]
-   - 候選調性 (K-S): B 小調 (0.67), G 大調 (0.61), E 小調 (0.44)
+   - 核心骨幹音:  B, G, A, D, C
+   - 調性數值:    B 小調 [相關度: 0.72, 穩定度: Moderate, 自然音純度: 96.2%]
+   - 候選調性 (K-S): B 小調 (0.72), G 大調 (0.68), E 小調 (0.46)
    - 五度圈歷程:   +5 -> +5
    - 各段落調性細節:
-     • [MushiNakuNobe[L1] #1]: B 小調 (r: 0.67, 自然音純度: 96.2%, 調外音: C)
-     • [MushiNakuNobe[L2] #1]: B 小調 (r: 0.67, 自然音純度: 96.2%, 調外音: C)
+     • [MushiNakuNobe[L1] #1]: B 小調 (r: 0.72, 自然音純度: 96.2%, 調外音: C)
+     • [MushiNakuNobe[L2] #1]: B 小調 (r: 0.72, 自然音純度: 96.2%, 調外音: C)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -104,8 +104,8 @@ tmd_source:
 
   [ 十二半音累積音高分佈 ]
      C  : ██                         3.8%
-     C# : ███                        5.8%
-     D  : ███                        5.8%
+     C# :                            0.0%
+     D  : ██████                    11.5%
      D# :                            0.0%
      E  :                            0.0%
      F  :                            0.0%
@@ -117,7 +117,7 @@ tmd_source:
      B  : ████████████████████████  44.2%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : G4 – D5 (7 個半音 / 0.6 個八度, 78 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 78 個音符)
 ================================================================================
 ```
 

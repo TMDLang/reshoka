@@ -4,8 +4,8 @@ M:4/4
 L:1/16
 Q:1/4=96
 K:Eb
-V:V1 name="Vocal1" snm="Voc"
-V:V2 name="Vocal2" snm="Voc"
+V:V1 name="Piano1" snm="Pia"
+V:V2 name="Piano2" snm="Pia"
 [V:V1]
 |:E4 G3 F E4 G4 | B8 A4 z4 | G4 F3 G A4 F4 | E12 z4 |
 w: 1.~ヒ ガ ー シ ノ | ソ ラ | ホ ホ ー エ ミ | テ

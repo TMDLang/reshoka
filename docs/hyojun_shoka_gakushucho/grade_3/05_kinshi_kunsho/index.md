@@ -74,8 +74,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kinshi_kunsho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJroAglThHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRipLzcwvyi1OLrEoSc0uLEuOBqhKrkIKgJCMVGAIQ7ZXIZmemZ-aha9LSUnjc2Pu4afLjxumPG_uhjKaWx41tClpaXIq2CoYGFlz2tgouXDZG-iZ2IONerJz3uHn3s9mb3u-Z9XzKhmdzJ76Y2fdiej_Yrhftu572TH-6Y_Xz9S1P1-54tmDhy5ktTzeuebqhH8J92rpc4dnaxc-WTX02p_n59hWPG7qerZj5bNe0p1M2PlvbA1T0fP-kpzumKTxfs-bJjk4g_-nOLQpPWyc9X730-RSg8u73ezqezVj7dFLPk109QLknu6Y8m9PxtLfxyY7mZ9OXPp-558XCnvd7ep5vWfRs9o4XM-crGJgbWSqYmL_f06nExaWvpWBLLcCloKDwtG8-yJrN7S9WdL3oaAd6ARg-T1tXPJvWDnTo0w29z9o7FUBJSi-rIP1Rw2RQwgIxgS6EaFUoKNBTMDQBShmagpyN5G0gW8FU4eWyaUCnAwMbZN2LVfufNSwHWdTdC_QbUPRxc_fLqduB4grACFIACj9dOwFos4vC0yXLkUTBRvQAg_rFit2PG3qQI-7J3jmPG3q5QMY_2dHwuKERxHo2Y8rzpfOerV32uHHd44aGx41d4MSx_3Fj9-PGKSAVQFtfrp78dO-yx02TwCraHjcuedy4ApSgGldDjXncuAWkAySNxmiCSDeBUxsw8a172tr5uHE9WMXMx02Nj5uA3D6gOERd19M9QOuBijrAhgMVAS3aB7Zx_uOmLpB5YA_s6oHZ3ARU2f9-DxDtebGs-3FTz-PGDUCNL9snvujcBDcXaMpmkNKGRlT2XKiLiPIGUlA0geVAul_sBmYsqC-7QEIgFywDSr_YBrSlCeRLYI4DhSiKB3bA7HyyGxjkLaCQaASSQM-A4gFo6JNdu6Cuf9G8AxQYoBjpAQdjP1DF0-5Nz1cvgPuPcPADXQUMWaCL4eUAyCKoMaDQIFUp5RkLChS09Lm4vDPzijMyrcLygUWhQ41BTTXICgUbQzMtOzALW4aGFB4NwIJAQcNEAVj2PF_foAPPhZpYNABtAhlWA8xvukBoBqaNgbhGwRAsYgTmgdg1QDZIxBjMA7FhaiDQACQCNs3HsEbhcfMCsOjjptVAvB3Eau4D63nctAMi07wZqgohswpJZj5UN0RmC5JN8QibjEByHRBdjf1QNogF1tW4H-qGHiB7A9jkPVCZXqjMZCC7BcwCiYBk1mG3yRhk0xKo--YBMYj9uHkh1H0wmRVQ38BtagLZC_UT2OcgFlgGrA7VJvwxu6tncMRsFzTs1gDxTrCPoGHXPAkqA4q_TSihsAwaCs1ADI6jprVQPd3YwxsUs40rILoaQWEHiVmQCEgGFIYgUzqA7LlgGVC8gWRA9oL43UBZkEvhbgDTOGIWllqBPoG4CJHy1kBllgDZ61H8BOLBYhaSwpdAPEpO5O7oBEeuKemRC4oeQ3VYPCkYg5iwaANBoBCQRMaICDcBkiAzaoAJBJRIIDyQKHKET4GEBsgbKBwkOZg3IRY-bloEDTNQSKLkfngaAZYLzaD8_rgZmluhaQmUox43rwSrAccpUnoAleEwhyBzkOTQHNIItqKxB0zOBJPQhAdPKMAioKkJbCmscEAkqMeNE8AOmYxwCDi5kB0ioNQEyh-QvACRATkINR3BykNIegOrRkth-FPT09mzyUlNoLSBkulxFBUgHiiNQLyGq4DBXnhg5AukYn8ZrNiHB8BWsNdBAYQoKECmQIt8cEEMCsbHTaCiHiQDMQtrcQKOZTS7G6GFGTDOQdUEiAXNwY3gNNE4HWw6TCdIHJSKQDLA6gZcwQAbMlDXQszCsBucYiBFGaq_QUkCkiiwJQnkiIclIrxFDoYVXLVcXLp2CpCmRLSPYawCEs8IhWcM5ilzAQA)]
-- [鋼琴伴奏 TMD 檔案](kinshi_kunsho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJroAglThHRBUX5Zal5iHtCI1JTMkvyizMSc-MSiosS89NTc1LwShMrUssyUVJC6xOTk_NyCxLxMVPmy1KJikE8KMhPz8uNxKMovKsnIB_qhIKPSKjc_JbUoL74gIz8vtSQzOT47MS8RoRKkPb84tciqJDG3tCgxHui0xCqk8CjJALrPKiOzGChRiWxBZnpmHromLS2Fx429j5smP26c_rixH8poannc2PZ-T8eTPVueLu1_v6dTQUuLS9FWwdDAgsveVsGFy8ZI38QOZPSLlfMeN-9-NnvT-z2znk_Z8GzuxBcz-15M7wfb-6J919Oe6U93rH6-vuXp2h3PFix8ObPl6cY1Tzf0Q7hPW5crPFu7-Nmyqc_mND_fvuJxQ9ezFTOf7Zr2dMrGZ2t7gIqe75_0dMc0hedr1jzZ0QnkP925ReFp66Tnq5c-nwJU3g105LMZa59O6nmyqwco92TXlGdzOp72Nj7Z0fxs-tLnM_e8WNjzfk_P8y2Lns3e8WLmfAUDcyNLBRNzoJ-UuLi8M_OKMzKtAkARE-ThUGNQU82lAAQ2hmZadmCWvpaCLTqAuKYBaLKChokC0DPP1zfoKICSkF5WQbomFg1a-mDDahRMFXSB0AxMGwNxjYIhWMQIzAOxa4BskIgxmAdiw9RAoAFIBGyaj2GNwuOmBrDo48ZuIJ4OZq0D63ncOAMi0zQZqgoh04WQadwP1Q2RmYJkUzzCJiOQTR1Qm_qhbBALogtkBsi8HiB7A4jVvAcq04tkUwuYBRIByYDcgsUmY5AcSCXI_H1A9RBdjVBdUBmg_RATEDZNQLIJ5HMQC5dN-GN2V8-giNnGVdBQAIXqTDBrLdRHm6AyIL-C4hIRCm1QmSVAvALMgoX3auzhDYpZsEqQ2s3wmAWJgGQ2I4X3XLAMLA3B3ABMd00obgDTOGIWnlrXQl2ESHk9UJtaoOkK4ScQDxaz4BTe1A6VITVmd3SCY9aU9JgFxY2hOiySFIxBTFicgSBQCEgiY0RsmwBJkBk1wNQBSiEQHkgUOba3QIIC5A0UDpIczJsQCx83NkEDDKQDNetjRE4TLKuCExI4Oz1u6gSr6UM4BJwYyHAIKKVCYhBPSm0COxceq4jUBMm70PyKVAqQHSIQh4CMg1iDXhChhhU4sYEtR0le-JPS09mzyUlKoISBkt1xFBIgHiiBQPyFq2jBXmxgZApoIQHyWRuQDSnwYb6fCuaBQgdRRCAXCcAiuHExmDUfIgNOTzgKEnAU47AbGBOwmFkGlQHHFjTMYTphaRQkA6xooK4lYDc4uWDIQW2ApAhs6QE51mF24y5sMO2uRW1A-CA3IEwQ7QdEawGeDgzjQQhBm8bHgzFYxADqLahWSHVEllZIeYdNK1AhnGsEM8AEZhSSGdCEjmwGsl6E7RjuAIaOrp0CJICifQxjFZB4Rig8YzBPmQsA)]
+- [主旋律 TMD 檔案](kinshi_kunsho.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJroAglThHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRipLzcwvyi1OLrEoSc0uLEuOBqhKrkIKgJCMVGAIQ7ZXIZmemZ-aha9LSUnjc2Pu4afLjxumPG_uhjKaWx41tClpaXIq2CoYGFlz2tgouXDZG-iZ2IONerJz3uHn3s9mb3u-Z9XzKhmdzJ76Y2fdiej_Yrhftu572TH-6Y_Xz9S1P1-54tmDhy5ktTzeuebqhH8J92rpc4dnaxc-WTX02p_n59hWPG7qerZj5bNe0p1M2PlvbA1T0fP-kpzumKTxfs-bJjk4g_-nOLQpPWyc9X730-RSg8u73ezqezVj7dFLPk109QLknu6Y8m9PxtLfxyY7mZ9OXPp-558XCnvd7ep5vWfRs9o4XM-crGJgbWSqYmL_f06nExaWvpWBLLcCloKDwtG8-yJrN7S9WdL3oaAd6ARg-T1tXPJvWDnTo0w29z9o7FUBJSi-rIP1Rw2RQwgIxgS6EaFUoKNBTMDQBShmagpyN5G0gW8FU4eWyaUCnAwMbZN2LVfufNSwHWdTdC_QbUPRxc_fLqduB4grACFIACj9dOwFos4vC0yXLkUTBRvQAg_rFit2PG3qQI-7J3jmPG3q5QMY_2dHwuKERxHo2Y8rzpfOerV32uHHd44aGx41d4MSx_3Fj9-PGKSAVQFtfrp78dO-yx02TwCraHjcuedy4ApSgGldDjXncuAWkAySNxmiCSDeBUxsw8a172tr5uHE9WMXMx02Nj5uA3D6gOERd19M9QOuBijrAhgMVAS3aB7Zx_uOmLpB5YA_s6oHZ3ARU2f9-DxDtebGs-3FTz-PGDUCNL9snvujcBDcXaMpmkNKGRlT2XKiLiPIGUlA0geVAul_sBmYsqC-7QEIgFywDSr_YBrSlCeRLYI4DhSiKB3bA7HyyGxjkLaCQaASSQM-A4gFo6JNdu6Cuf9G8AxQYoBjpAQdjP1DF0-5Nz1cvgPuPcPADXQUMWaCL4eUAyCKoMaDQIFUp5RkLChS09Lm4vDPzijMyrQIyE_PyHWoMaqpBVijYGJpp2YFZ2DI0pPBoABYEChomCsCy5_n6Bh14LtTEogFoE8iwGmB-0wVCMzBtDMQ1CoZgESMwD8SuAbJBIsZgHogNUwOBBiARsGk-hjUKj5sXgEUfN60G4u0gVnMfWM_jph0QmebNUFUImVVIMvOhuiEyW5BsikfYZASS64DoauyHskEssK7G_VA39ADZG8Am74HK9EJlJgPZLWAWSAQksw67TcYgm5ZA3TcPiEHsx80Loe6DyayA-gZuUxPIXqifwD4HscAyYHWoNuGP2V09gyNmu6BhtwaId4J9BA275klQGVD8bUIJhWXQUGgGYnAcNa2F6unGHt6gmG1cAdHVCAo7SMyCREAyoDAEmdIBZM8Fy4DiDSQDshfE7wbKglwKdwOYxhGzsNQK9AnERYiUtwYqswTIXo_iJxAPFrOQFL4E4lFyIndHJzhyTUmPXFD0GMbB4knBGMSERRsIAoWAJDJGRLgJkASZUQNMIKBEAuGBRJEjfAokNEDeQOEgycG8CbHwcdMiaJiBQhIl98PTCLBcaAbl98fN0NwKTUugHPW4eSVYDThOkdIDqAyHOQSZgySH5pBGsBWNPWByJpiEJjx4QgEWAU1NYEthhQMiQT1unAB2yGSEQ8DJhewQAaUmUP6A5AWIDMhBqOkIVh5C0htYNVoKw5-ans6eTU5qAqUNlEyPo6gA8UBpBOI1XAUM9sIDI18gFfvLYMU-PAC2gr0OCiBEQQEyBVrkgwtiUDA-bgIV9SAZiFlYixNwLKPZ3QgtzIBxDqomQCxoDm4Ep4nG6WDTYTpB4qBUBJIBVjfgCgbYkIG6FmIWht3gFAMpylD9DUoSkESBLUkgRzwsEeEtcjCs4Krl4tK1U4A0JaJ9DGMVkHhGKDxjME-ZCwA)]
+- [鋼琴伴奏 TMD 檔案](kinshi_kunsho_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJroAglThHRBUX5Zal5iHtCI1JTMkvyizMSc-MSiosS89NTc1LwShMrUssyUVJC6xOTk_NyCxLxMVPmy1KJikE8KMhPz8uNxKMovKsnIB_qhIKPSKjc_JbUoL74gIz8vtSQzOT47MS8RoRKkPb84tciqJDG3tCgxHui0xCqk8CjJALrPKiOzGChRiWxBZnpmHromLS2Fx429j5smP26c_rixH8poannc2PZ-T8eTPVueLu1_v6dTQUuLS9FWwdDAgsveVsGFy8ZI38QOZPSLlfMeN-9-NnvT-z2znk_Z8GzuxBcz-15M7wfb-6J919Oe6U93rH6-vuXp2h3PFix8ObPl6cY1Tzf0Q7hPW5crPFu7-Nmyqc_mND_fvuJxQ9ezFTOf7Zr2dMrGZ2t7gIqe75_0dMc0hedr1jzZ0QnkP925ReFp66Tnq5c-nwJU3g105LMZa59O6nmyqwco92TXlGdzOp72Nj7Z0fxs-tLnM_e8WNjzfk_P8y2Lns3e8WLmfAUDcyNLBRNzoJ-UuLi8M_OKMzKtAkARE-ThUGNQU82lAAQ2hmZadmCWvpaCLTqAuKYBaLKChokC0DPP1zfoKICSkF5WQbomFg1a-mDDahRMFXSB0AxMGwNxjYIhWMQIzAOxa4BskIgxmAdiw9RAoAFIBGyaj2GNwuOmBrDo48ZuIJ4OZq0D63ncOAMi0zQZqgoh04WQadwP1Q2RmYJkUzzCJiOQTR1Qm_qhbBALogtkBsi8HiB7A4jVvAcq04tkUwuYBRIByYDcgsUmY5AcSCXI_H1A9RBdjVBdUBmg_RATEDZNQLIJ5HMQC5dN-GN2V8-giNnGVdBQAIXqTDBrLdRHm6AyIL-C4hIRCm1QmSVAvALMgoX3auzhDYpZsEqQ2s3wmAWJgGQ2I4X3XLAMLA3B3ABMd00obgDTOGIWnlrXQl2ESHk9UJtaoOkK4ScQDxaz4BTe1A6VITVmd3SCY9aU9JgFxY1hHCySFIxBTFicgSBQCEgiY0RsmwBJkBk1wNQBSiEQHkgUOba3QIIC5A0UDpIczJsQCx83NkEDDKQDNetjRE4TLKuCExI4Oz1u6gSr6UM4BJwYyHAIKKVCYhBPSm0COxceq4jUBMm70PyKVAqQHSIQh4CMg1iDXhChhhU4sYEtR0le-JPS09mzyUlKoISBkt1xFBIgHiiBQPyFq2jBXmxgZApoIQHyWRuQDSnwYb6fCuaBQgdRRCAXCcAiuHExmDUfIgNOTzgKEnAU47AbGBOwmFkGlQHHFjTMYTphaRQkA6xooK4lYDc4uWDIQW2ApAhs6QE51mF24y5sMO2uRW1A-CA3IEwQ7QdEawGeDgzjQQhBm8bHgzFYxADqLahWSHVEllZIeYdNK1AhnGsEM8AEZhSSGdCEjmwGsl6E7RjuAIaOrp0CJICifQxjFZB4Rig8YzBPmQsA)]
 
 ## 分析
 
@@ -86,23 +86,23 @@ tmd_source:
 ⏱  Duration:       1:00 (60.0s), 54 measures total
 🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – B4 (MIDI 71) [跨度: 9 個半音 / 0.8 個八度, 難度: easy]
+🎤 人聲音域:    D4 (MIDI 62) – F#5 (MIDI 78) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
    - 最低音:  D4 in [Kinshi[L1] #1 @ m.2, 0:01]
-   - 最高音: B4 in [Kinshi[L1] #1 @ m.1, 0:00]
-   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+   - 最高音: F#5 in [Kinshi[L1] #1 @ m.10, 0:10]
+   - 適合: soprano, mezzo-soprano, tenor, baritone
 🏛  結構:      Kinshi[L1] (20.0s) -> Kinshi[L2] (20.0s) -> Kinshi[L3] (20.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  D, F#, A, E, G
-   - 調性數值:    D 大調 [相關度: 0.92, 穩定度: High, 自然音純度: 98.4%]
-   - 候選調性 (K-S): D 大調 (0.92), F# 小調 (0.59), B 小調 (0.58)
+   - 調性數值:    D 大調 [相關度: 0.89, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.89), F# 小調 (0.64), B 小調 (0.58)
    - 五度圈歷程:   +2 -> +2 -> +2
    - 各段落調性細節:
-     • [Kinshi[L1] #1]: D 大調 (r: 0.92, 自然音純度: 98.4%, 調外音: D#)
-     • [Kinshi[L2] #1]: D 大調 (r: 0.92, 自然音純度: 98.4%, 調外音: D#)
-     • [Kinshi[L3] #1]: D 大調 (r: 0.92, 自然音純度: 98.4%, 調外音: D#)
+     • [Kinshi[L1] #1]: D 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Kinshi[L2] #1]: D 大調 (r: 0.89, 自然音純度: 100.0%)
+     • [Kinshi[L3] #1]: D 大調 (r: 0.89, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -117,19 +117,19 @@ tmd_source:
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# :                            0.0%
-     D  : ████████████████████████  28.9%
-     D# : █                          1.6%
-     E  : ████████████              14.1%
+     D  : ████████████████████████  30.5%
+     D# :                            0.0%
+     E  : ███████████               14.1%
      F  :                            0.0%
-     F# : ████████████████████      24.2%
-     G  : ████████                   9.4%
+     F# : ██████████████████████    27.3%
+     G  : █████                      6.2%
      G# :                            0.0%
-     A  : ██████████████            16.4%
+     A  : █████████████             16.4%
      A# :                            0.0%
-     B  : █████                      5.5%
+     B  : ████                       5.5%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – B4 (9 個半音 / 0.8 個八度, 162 個音符)
+  - Piano         : D4 – F#5 (16 個半音 / 1.3 個八度, 162 個音符)
 ================================================================================
 ```
 

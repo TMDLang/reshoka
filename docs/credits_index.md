@@ -246,6 +246,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [足柄山](shintei_jido_shoka/koto_girls_2020.006.0849/1_2_03_ashigarayama/index.md)
 
+### 國語讀本（1 首）
+
+- [初夏の夜](hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru/index.md)
+
 ### 土井晩翠（1 首）
 
 - [箱根八里](shintei_jido_shoka/koto_boys_2020.006.0848/2_2_06_hakone_hachiri/index.md)
@@ -343,10 +347,6 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [初鶯](shintei_jido_shoka/grade_5_2020.006.0847.0005/4_18_hatsu_uguisu/index.md)
 - [初鶯（初鶯）](shokacho/vol_07/p241_hatsu_uguisu/index.md)
 - [夕立小立 (陣雨)](shokacho/vol_07/p250_yudachi_kodachi/index.md)
-
-### 尋常小學國語讀本卷七所載（1 首）
-
-- [初夏の夜](hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru/index.md)
 
 ### 小島富太郎（1 首）
 
@@ -1345,10 +1345,6 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 山口保治（1 首）
 
 - [日の丸音頭](kyoyusho_shoka_1935/5_19_hinomaru_ondo/index.md)
-
-### 山本壽（1 首）
-
-- [初夏の夜](hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru/index.md)
 
 ### 山本正夫（原載《音楽新潮》大正 14 年 5 月號）（1 首）
 

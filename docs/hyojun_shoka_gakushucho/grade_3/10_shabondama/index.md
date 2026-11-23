@@ -73,7 +73,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](shabondama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJnoAglThHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRikoyUoE-LMhJrETWmJmeCTQdEi7AMMrOrszPLgUGVKkSl5aWwuPG6Y-bWh437nncNPlx44LHjfsUtLS4FG0VLI247G0V3LhsjPRN7EDGPd3Q_3TtjqdTNj5b2_Nk15SnvY3PZm96ObsNbNeL9l1Pe6Y_3bH6-foWoKpnCxa-nNnydOMaiCYg92nrcoVnaxc_Wzb12Zzm59tXPG7oerZi5rNd0yAGAhU93z_p6Y5pCs_XrHmyoxNk084tCk9bJz1fvfT5FKDy7vd7Op7NWPt0EtDyHqAc0AnP5nQAXfFkR_Oz6Uufz9zzYmHP-z09z7csejZ7x4uZ8xUMzI0sFUzM3-_phDhx5bz3e2a9bO972r_45ewVz5pbwcJATwCFn-xY-3Tjxmczu5_u3KzExaWvpWBLLcDF9bRvPshJm9tfrOh60dEO9C7QLU9bVzyb1g701NMNvc_aOxUCDAwt9LIK0h81TAYyLUFMoG8gWhUKCvQUDC2AUoaWIC8CgwgYBsBwnTMfyFYwV3i5bBrQm0B_KLxYtf9Zw3KQLd29wEAACr1Y1_W4efbLqduBUgrAyFQAyjxdOwFo88uZvQquCk-XLEeSARvT87R914uZU4ER9GLF7scNPcA4eLFmATAugYH1uKGXiwuYRoD6wVHV8LIRpAmYaBQeN21_3Lz4cfOcx82bHzftf9w873FDw-PmDhC3uQEo37zkcXMvSLi5nSiZdpCZQLr_cfOax81tIJmmtY-bVgANR3bDrh5CboDrAtoENHrC46Zdj5u70WSaloEdALdp5-OmDUBVRLhh64Sn_UvhDlj9uGkPWBmM0Tz1cdP6x81daK5rBsrAQwjopL1cCgrUS3YKWvpcXMEZiUn5eSmJuYmOVgGZiXn5DjUGNdUgexRsDM207MCsGgXTeAVdBUMw1FUwAuIaBWMgaQrFBmARMyBpAlIXByRAHKA-KAuuCGyej2EN1KNAIaBfgXgzUGA_mDcPrBHoZTBvM5hsgNsBTAdgkV64WmAiwKcDYqERYQub1oJ4TSvAJEgGZiHE2Alg8V1gdjc-HcA4BwcZKHxAGBRaoFCrAbMwQwwWPBA1yDrQAoxIn4PEoE5vgoj0g8k1YLINr9MRYbUMyRZUnTvBejbAA4Jcu2qRE5-TVVg-sLrCnvjA6QmcrMAsMAEVRUlb8MQJS5o4gxPkqtVgQ4EZEMoGsSChORXMWw_2QxeSDxHpBzmVoadYSELZi-xPXTsFpHwW7WMYq4AuZIQm5ATiKnMBAA)]
+- [主旋律 TMD 檔案](shabondama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJnoAglThHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRikoyUoE-LMhJrETWmJmeCTQdEi7AMMrOrszPLgUGVKkSl5aWwuPG6Y-bWh437nncNPlx44LHjfsUtLS4FG0VLI247G0V3LhsjPRN7EDGPd3Q_3TtjqdTNj5b2_Nk15SnvY3PZm96ObsNbNeL9l1Pe6Y_3bH6-foWoKpnCxa-nNnydOMaiCYg92nrcoVnaxc_Wzb12Zzm59tXPG7oerZi5rNd0yAGAhU93z_p6Y5pCs_XrHmyoxNk084tCk9bJz1fvfT5FKDy7vd7Op7NWPt0EtDyHqAc0AnP5nQAXfFkR_Oz6Uufz9zzYmHP-z09z7csejZ7x4uZ8xUMzI0sFUzM3-_phDhx5bz3e2a9bO972r_45ewVz5pbwcJATwCFn-xY-3Tjxmczu5_u3KzExaWvpWBLLcDF9bRvPshJm9tfrOh60dEO9C7QLU9bVzyb1g701NMNvc_aOxUCDAwt9LIK0h81TAYyLUFMoG8gWhUKCvQUDC2AUoaWIC8CgwgYBsBwnTMfyFYwV3i5bBrQm0B_KLxYtf9Zw3KQLd29wEAACr1Y1_W4efbLqduBUgrAyFQAyjxdOwFo88uZvQquCk-XLEeSARvT87R914uZU4ER9GLF7scNPcA4eLFmATAugYH1uKGXiwuYRoD6wVHV8LIRpAmYaBQeN21_3Lz4cfOcx82bHzftf9w873FDw-PmDhC3uQEo37zkcXMvSLi5nSiZdpCZQLr_cfOax81tIJmmtY-bVgANR3bDrh5CboDrAtoENHrC46Zdj5u70WSaloEdALdp5-OmDUBVRLhh64Sn_UvhDlj9uGkPWBmM0Tz1cdP6x81daK5rBsrAQwjopL1cCgrUS3YKWvpcXMEZiUn5eSmJuYmOVgGZiXn5DjUGNdUgexRsDM207MCsGgXTeAVdBUMw1FUwAuIaBWMgaQrFBmARMyBpAlIXByRAHKA-KAuuCGyej2EN1KNAIaBfgXgzUGA_mDcPrBHoZTBvM5hsgNsBTAdgkV64WmAiwKcDYqERYQub1oJ4TSvAJEgGZiHE2Alg8V1gdjc-HcA4BwcZKHxAGBRaoFCrAbMwQwwWPBA1yDrQAoxIn4PEoE5vgoj0g8k1YLINr9MRYbUMyRZUnTvBejbAA4Jcu2qRE58TvsQHTk_gZAVmgQmoKEragidOWNLEGZwgV60GGwrMgFA2iAUJzalg3nqwH7qQfIhIP8ipDD3FQhLKXmR_6topIOWzaB_DWAV0ISM0IScQV5kLAA)]
 - [鋼琴伴奏 TMD 檔案](shabondama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03RogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGJnoAglThHRBUX5Zal5iHtCI1JTMkvyizMSc-MSiosS89NTc1LwShMrUssyUVJC6xOTk_NyCxLxMVPmy1KJikE8KMhPz8uNxKMovKsnIB_qhIKPSKjc_JbUoL74gIz8vtSQzOT47MS8RobIkA2i_VUFOYiWy7sz0zDwraCABAyw7uzI_uxQYaqVKXFpaCo8bpz9uanncuOdx0-THjQseN-57v6fjyZ4tT5f2v9_TqaClxaVoq2BpxGVvq-DGZWOkb2IHMvrphv6na3c8nbLx2dqeJ7umPO1tfDZ708vZbWB7X7Tvetoz_emO1c_XtwBVPVuw8OXMlqcb10A0AblPW5crPFu7-Nmyqc_mND_fvuJxQ9ezFTOf7ZoGMRCo6Pn-SU93TFN4vmbNkx2dIJt2blF42jrp-eqlz6cAlXcD3fhsxtqnk4CW9wDlgE54NqcD6IonO5qfTV_6fOaeFwt73u_peb5l0bPZO17MnK9gYG5kqWBiDvSSEhdXcEZiUn5eSmJuolUAKOSDPBxqDGqquRSAwMbQTMsOzNLXUrBFBxAXNQBNV9AwUwB66Pn6Bh0FUBrRyypI18SiQUsfbFiNQnVuWq2CoYIuGMLoGhwiRkBsDBcBsUyA2BQqitAFggYgEbAlPoY1wPjcChV_3NgGNwGf6OPGiWByA4Z4P4hs6gSTk6Eyy5FsjgfbDPNfQS3cgXCHIjmrF2EYEhuqHWdY7-oBh7UpaWENsx8RqCARZAwRwRWEm8Cu7Aa7EkTCgmU6WKQZLLsHJVgWIJkGzEMoAQOKeNN4BbN4BfN4oJOMgE4zAVpfo2AGJE2APCOgKFgKNRpBEQOKFgi7H4h3A_FKhcfNe6CRBBYFhuPjpgYguwcsA8OEQnZHJ1mpGBjLRmiwBpxczeMhyRZEQz0NS8WwtAvysS4cgwMVycNN4OAEBd7jpi4kT6-Ae3gzOMi7wEGMYINkVoDFwKkWHGGPGzugMsvAPFDafty4GG4rljQLSitmYLebAklcKQNsUVML2LhtYHYPxCJ4OgGngCaw9fhj4Ons2WSXIwSSEzC4IbEA9B_IX8gYKW5gGD0m2sBh9bhxCTj8HjeCYgPEnw-PiW6oKDCugCUCKOkBPQ2UgwQFevBAYgGkby-cB4k7lNiA5UhQ4oAkF1DCAcUNyJFgt6PlUUhuA8cJzHJIHm2cBReDFGM1XLWY5b4Pcrlvgij2EYU8PNQNgUEdj4U2QfANoM6DSyIbBynHMIwzjY8HYwgLwwRsJkHyLdwko3gQQjcJwoLKIcwEuhbVJoiZ0JSIzbMQg2ACqAYiLII5ExjGunYKiGCO9jGMVQCKKHMBAA)]
 
 ## 分析
@@ -85,9 +85,9 @@ tmd_source:
 ⏱  Duration:       0:26 (26.1s), 20 measures total
 🎼 Key & Tempo:    首調基準 F, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F4 (MIDI 65) – F5 (MIDI 77) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  F4 in [ShabondamaB #1 @ m.19, 0:23]
-   - 最高音: F5 in [ShabondamaA[L2] #1 @ m.17, 0:20]
+🎤 人聲音域:    C4 (MIDI 60) – F5 (MIDI 77) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  C4 in [ShabondamaA[L1] #1 @ m.1, 0:00]
+   - 最高音: F5 in [ShabondamaA[L1] #1 @ m.3, 0:03]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      ShabondamaA[L1] (10.4s) -> ShabondamaA[L2] (10.4s) -> ShabondamaB (5.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
@@ -128,8 +128,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 58 個音符)
-  - Vocal         : F4 – F5 (12 個半音 / 1.0 個八度, 14 個音符)
+  - Piano         : C4 – F5 (17 個半音 / 1.4 個八度, 72 個音符)
 ================================================================================
 ```
 

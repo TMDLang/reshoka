@@ -1,6 +1,6 @@
 {
   "total_corpus_songs": 1549,
-  "same_title_group_count": 129,
+  "same_title_group_count": 128,
   "groups": [
     {
       "title_key": "いかだかずら",
@@ -1229,45 +1229,6 @@
               "book_label": "《標準唱歌學習帖》第四學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
               "raw_title": "一月一日",
               "year": 1927
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title_key": "しちめんちょう",
-      "title": "七面鳥／しちめんてう",
-      "versions": [
-        {
-          "id": "single:hyojun_shoka_gakushucho/grade_2/05_shichimencho",
-          "year": 1927,
-          "occurrences": [
-            {
-              "rel_dir": "hyojun_shoka_gakushucho/grade_2/05_shichimencho",
-              "md_file": "hyojun_shoka_gakushucho/grade_2/05_shichimencho/index.md",
-              "book_label": "《標準唱歌學習帖》第二學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
-              "raw_title": "七面鳥",
-              "year": 1927
-            }
-          ]
-        },
-        {
-          "id": "same-song:shichimencho:shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho",
-          "year": 1934,
-          "occurrences": [
-            {
-              "rel_dir": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho",
-              "md_file": "shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/index.md",
-              "book_label": "《新定兒童唱歌》尋常科第二學年用（2020.006.0847.0002）",
-              "raw_title": "七面鳥",
-              "year": 1934
-            },
-            {
-              "rel_dir": "kogakko_shoka/grade_2/13_shichimencho",
-              "md_file": "kogakko_shoka/grade_2/13_shichimencho/index.md",
-              "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
-              "raw_title": "しちめんてう（七面鳥）",
-              "year": 1936
             }
           ]
         }

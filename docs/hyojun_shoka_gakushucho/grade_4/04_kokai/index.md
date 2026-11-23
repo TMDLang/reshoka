@@ -77,8 +77,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgljhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRikoyUoE-LE7FEAIaWpaag2xaZnom0EqgkaCQSs2Mz8uPLy0B6tPSUnjRserZ1u0KWlpcirYKlkZc9rYKLlw2RvomdiD9T9t3vZg59f2eWU839D9du-P5lPmPG9c9W9sDNvxF-66nPdOf7lj9fH0LUPLZgoUvZ7Y83bgGohbIfdq6XOHZ2sXPlk19Nqf5-fYVjxu6nq2Y-WzXtKdTNgINARm4f9LTHdMUnq9Z83T2bCD_6c4tCk9bJz1fvfT5FKDy7vd7Op7NWPt0Us-TXT1AuSe7pjyb0_G0t_HJjuZn05c-n7nnxcKe93t6nm9Z9Gz2jhcz5ysYmBtZKpiYv9_TqcTFpa-lYEstwKWgoPC0bz7Ims3tL1Z0vehoB3rhxcp5T1tXPJvWDnTo0w29z9o7FUCpRi-rIP1Rw2RQ2gExgS6EaFUoKNBTMDQCShkag5yN5G0gW8FE4eWyaUCnA8MbZN2LVfufNSwHWdTdC_QbUPRxc_fLqduB4grACFIACj9dOwFos4vC0yXLkUTBRvQAg_rFit2PG3rQ4u5xQy8XyPgnOxoeNzSCWM8XtT9umvS4selxI5Bc9rih4UXHTmDUP26c-bipG6QCJNc0F5JWgKYAVTxbAVQ9_XHj1MdNHSAVz3asB5rxdF_P48bVIOltHY8bOx43tT1u7AUaCTFj_uOmeS-WdQPNBKp4OXfi48aWZxu2PG7c8LgRKNj1uKEJ4rBdQDeCHQaMYyALqObpzs0gc0Gu6H7cuAJs6HqYoY0LHzfuA5Jgt60HGd0ONBqoaBXQULAxwDSzZOXT_c0Qt4Ftm_e4qeVxI1DdBtzGdAGVQowBOhjqth2dULdBggTkwkZQogQFYEPD036I84ABA_UzkA-0ZBkwnT5u7AfZCVTU2_xiwpqX7T0QFUA7F4BCpXHN0zlAEhy4czqfrVj8uKkJHDuz14FEQbEDDEBgKDVAw7Cp8XHj0sdNndB4gLoQmKLgLgQa1w-0_MmOac-nAu0HGQ3yGjCKQbYuh1rwdN9CiM3PpgMNAvn8ceOmx03AIAbq2YGSAoBhg3Bkx8RnGyZCo_9lw6bHjfuBJoNCDxwUzxongB05FxSAQLcBFVGeC6FAQUufi8sbWPZnWoXlA0tGhxqDmmqQDQo2hmZadmAWtswPKmiAyR4YGQoaJgrAfPF8fYMOPMdqYtEAtAhkWI1CdW5arYKhgi4QGikYA0kTIK5RMAWSIB5IxgAsYgQVAcmDZGvAPBAEyYNgDdhIH8MahcdNS8Aij5tWKzxuXgViNW8C63nctAgsDuI9bm4DkvEQ8eapYJEuMNkOVrMTKrMaaj5IJZI9RkC5RpA5QLWNM4G4BczaAdHVCNIFjFywSd0IexpXgMV7weR6uDjMbDQ7jEE6QGaAVG8C4ilgFsh3IBmwKU2TwGIgc6F2NIFthdo0HcnuZdhtMQHJgdwIUt8PVfe4cTZUF0gG5rt1SKaBXA9Tuw9JfDmGLfgTzq4eshIOMN2A0oGugpmCOZA0VAdbbwYWMgUnE0jCgSQaU7AMSGENRCmulANKH6BQnQtOPSAWyIcgGUg6AKWtx819SKG9HyQKFHncvAfI2w5WsxUi1wyKA1xpZz40xBdCww_EgoQgKF2C-PtR0ggsvidDbILGLyh1g1wBSrm4UhAsbifC4qsJZANIph_qpxZofMP8NBmsfgPUT2Ae2AacKRWUhsDpDpaGIOkflF5gaQXEn4_mI3A-bOqF-qgHrAaag8C5hpR0tKOTvAKoAFcBBEpaIBqSjiApCwKR0hFIGK4IkY6aobELLFEeN3eAWcglEIjfAcRIJUPTWiQLHjeBYhdkDiS-QHJI5RVSKoKWdMC0AYtbUGyBZEA5H5pewLEBC3NYuEJk50Fth-TviWByA6o94DQESqEguQXgdAlirYGaB01DQDtQywdIaoDZA0k9wAoVrBac3sHpBckecDkETUOg_IdU8oBkQP6CpS4ke5og9kPtAachWO6CurQJFP4Qe_CmIGAVT2lJBKm3DKH1FQgikhSsIALRRgrmOqAUBFWErSACOR0SQZDEBKqIQNkEkYRgiQpS3cES3ePmVkh2ap4AloPrAleEWLIuzsIIqg9aHMGDE5yBQeKgQhCzOIK5ETP7whNTUyPUvHXQCAcXDFB9sIIMFnkgc2B6gA0zaJHUCeZNh7sRlKyw2AZOUjOhIQlKUhAfLMPlN1gmbQQ3BBqBOsC2gRMiSD9UF2ZI1nJx6dopgNtO0T6GsQoIjhEyxxiZYwLmKHMBAA)]
-- [鋼琴伴奏 TMD 檔案](kokai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgljhHRBUX5Zal5iHtCI1JTMkvyizMSc-MSiosS89NTc1LwShMrUssyUVJC6xOTk_NyCxLxMVPmy1KJikE8KMhPz8uNxKMovKsnIB_qhIKPSKjc_JbUoL74gIz8vtSQzOT47MS8RobIkA2i_VXEqhlBJUWJZag6ykZnpmXlWwJADB1tqZjzQ-tISoD4tLYUXHauebd3-fk_Hkz1bni7tf7-nU0FLi0vRVsHSiMveVsGFy8ZI38QOZNbT9l0vZk59v2fW0w39T9fueD5l_uPGdc_W9oAtetG-62nP9Kc7Vj9f3wKUfLZg4cuZLU83roGoBXKfti5XeLZ28bNlU5_NaX6-fcXjhq5nK2Y-2zXt6ZSNQENABu6f9HTHNIXna9Y8nT0byH-6c4vC09ZJz1cvfT4FqLwb6MZnM9Y-ndTzZFcPUO7JrinP5nQ87W18sqP52fSlz2fuebGw5_2enudbFj2bvePFzPkKBuZGlgom5kAvKXFxeQOTTaZVACjogzwcagxqqrkUgMDG0EzLDszS11KwRQcgxzzZ0QA0WEHDRAHol-frG3QUQIlEL6sgXROLBi19sGE1CtW5abUKhgq6QGikYAwkTYC4RsEUSIJ4IBkDsIgRVAQkD5KtAfNAECQPgjVgI30MaxQeN7aARR43dis8buoCs0AkSKYJzJsEJpcByXio-FawyCowuRxMzoTINHVDzQepRLLHCKRrE9SemVA7HzfugJq3GswD2wY2AWbPCrB4L1i8Hy4OMxvNDmOYi0F6NgHxFDBrCdQssClgn0HMhdrRBPEjxKbpSHaD_IvFFhOQHMSXjxv7oeoeN86G6gLJwHy3Dsm09fAwfNy4D0kcFHqotuBPOLt6yEo4wHQDSge6CmYK5kDSUB1svRlYyBScTCAJB5JoTMEyIIU1EKW4Ug40tJv3ANmTwX5rQwoHSEighsN8aMhA9IDC-3HjVGhMdGAPcXDaAekDqV0IDT8QC2IiyEYQfz9KGoGlmslQmyDxC0qxIJtAqQBXCoK5fCIsvppgfgKZDuKD_ASKb1gKgvh8A8QmCA9sA86UCk5D-6H2gNIQJP2DwgmWVkD8-Wg-AuWfx029UB_1gNWAwgx7viNQAHWSVwAV4CqAQEkLREPSESRlQSBSOgIJwxUhpSNYWKyCxxRyCQTJn5BQQo5dGESEAiimYDkdXl4hpSJQWQBRAYtbUGyBZEApEZpeUOyBhStEHyjMQfZA8vdEMLkB1R5wGgKlUJDcAqjfHjeugZoHTUNAO1DzBcSfUHugqQeSM6DpHVxOIdkDTkPI-Q9R8oBkQP6CpS4ke8DpCcM_0FwJdik4F0LswZuCgPUppSURpN4yhNZXIIhIUrCCCEQbKZjrgFIQVBG2gghWPMADHJghQMGCHLSwwh8WRJCImQUNPlA0gqtAiC5cRQTOwghmG6Q4QgQnKMBB4n1gHnpxBLMNR7UJSkxNjVDzgIUmtEIGFgxorkT4GhLNID1wvzV1gnnT4W4EJSsstoGTFKgiB6kGVdKQEFqGy2_wTAoJ17lQ28AJESn8QYUuqm21KE0nH4qaTnhTm6GOjrapDtReYx1tWBJCk4FzIIWXKZBrBJMzAbKx60KkQ5KqbDIdbAKUMUQ4CsqhiYPR6gYahDB2zxDUR1qJRKa7cQcmSMYEJoOiDGdAA1O6rp0COLFH-xjGKiA4RsgcY2SOCZijzAUA)]
+- [主旋律 TMD 檔案](kokai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgljhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xIRikoyUoE-LE7FEAIaWpaag2xaZnom0EqgkaCQSs2Mz8uPLy0B6tPSUnjRserZ1u0KWlpcirYKlkZc9rYKLlw2RvomdiD9T9t3vZg59f2eWU839D9du-P5lPmPG9c9W9sDNvxF-66nPdOf7lj9fH0LUPLZgoUvZ7Y83bgGohbIfdq6XOHZ2sXPlk19Nqf5-fYVjxu6nq2Y-WzXtKdTNgINARm4f9LTHdMUnq9Z83T2bCD_6c4tCk9bJz1fvfT5FKDy7vd7Op7NWPt0Us-TXT1AuSe7pjyb0_G0t_HJjuZn05c-n7nnxcKe93t6nm9Z9Gz2jhcz5ysYmBtZKpiYv9_TqcTFpa-lYEstwKWgoPC0bz7Ims3tL1Z0vehoB3rhxcp5T1tXPJvWDnTo0w29z9o7FUCpRi-rIP1Rw2RQ2gExgS6EaFUoKNBTMDQCShkag5yN5G0gW8FE4eWyaUCnA8MbZN2LVfufNSwHWdTdC_QbUPRxc_fLqduB4grACFIACj9dOwFos4vC0yXLkUTBRvQAg_rFit2PG3rQ4u5xQy8XyPgnOxoeNzSCWM8XtT9umvS4selxI5Bc9rih4UXHTmDUP26c-bipG6QCJNc0F5JWgKYAVTxbAVQ9_XHj1MdNHSAVz3asB5rxdF_P48bVIOltHY8bOx43tT1u7AUaCTFj_uOmeS-WdQPNBKp4OXfi48aWZxu2PG7c8LgRKNj1uKEJ4rBdQDeCHQaMYyALqObpzs0gc0Gu6H7cuAJs6HqYoY0LHzfuA5Jgt60HGd0ONBqoaBXQULAxwDSzZOXT_c0Qt4Ftm_e4qeVxI1DdBtzGdAGVQowBOhjqth2dULdBggTkwkZQogQFYEPD036I84ABA_UzkA-0ZBkwnT5u7AfZCVTU2_xiwpqX7T0QFUA7F4BCpXHN0zlAEhy4czqfrVj8uKkJHDuz14FEQbEDDEBgKDVAw7Cp8XHj0sdNndB4gLoQmKLgLgQa1w-0_MmOac-nAu0HGQ3yGjCKQbYuh1rwdN9CiM3PpgMNAvn8ceOmx03AIAbq2YGSAoBhg3Bkx8RnGyZCo_9lw6bHjfuBJoNCDxwUzxongB05FxSAQLcBFVGeC6FAQUufi8sbWPZnWgVkJublO9QY1FSDbFCwMTTTsgOzsGV-UEEDTPbAyFDQMFEA5ovn6xt04DlWE4sGoEUgw2oUqnPTahUMFXSB0EjBGEiaAHGNgimQBPFAMgZgESOoCEgeJFsD5oEgSB4Ea8BG-hjWKDxuWgIWedy0WuFx8yoQq3kTWM_jpkVgcRDvcXMbkIyHiDdPBYt0gcl2sJqdUJnVUPNBKpHsMQLKNYLMAaptnAnELWDWDoiuRpAuYOSCTepG2NO4AizeCybXw8VhZqPZYQzSATIDpHoTEE8Bs0C-A8mATWmaBBYDmQu1owlsK9Sm6Uh2L8NuiwlIDuRGkPp-qLrHjbOhukAyMN-tQzIN5HqY2n1I4ssxbMGfcHb1kJVwgOkGlA50FcwUzIGkYRzYejOwkCk4mUASDiTRmIJlQAprIEpxpRxQ-gCF6lxw6gGxQD4EyUDSAShtPW7uQwrt_SBRoMjj5j1A3nawmq0QuWZQHOBKO_OhIb4QGn4gFiQEQekSxN-PkkZg8T0ZYhM0fkGpG-QKUMrFlYJgcTsRFl9NIBtAMv1QP7VA4xvmp8lg9RugfgLzwDbgTKmgNAROd7A0BEn_oPQCSysg_nw0H4HzYVMv1Ec9YDXQHATONaSkox2d5BVABbgKIFDSAtGQdARJWRCIlI5AwnBFiHTUDI1dYInyuLkDzEIugUD8DiBGKhma1iJZ8LgJFLsgcyDxBZJDKq-QUhG0pAOmDVjcgmILJAPK-dD0Ao4NWJjDwhUiOw9qOyR_TwSTG1DtAachUAoFyS0Ap0sQaw3UPGgaAtqBWj5AUgPMHkjqAVaoYLXg9A5OL0j2gMshaBoC5T-kkgckA_IXLHUh2dMEsR9qDzgNwXIX1KVNoPCH2IM3BQGreEpLIki9ZQitr0AQkaRgBRGINlIwjwelIKgibAURyOmQCIIkJlBFBMomiCQES1SQ6g6W6B43t0KyU_MEsBxcF7gixJJ1cRZGUH3Q4ggenOAMDBIHFYKYxRHMjZjZF56Ymhqh5q2DRji4YIDqgxVksMgDmQPTA2yYQYukTjBvOtyNoGSFxTZwkpoJDUlQkoL4YBkuv8EyaSO4IdAI1AG2DZwQQfqhujBDspaLS9dOAdx2ivYxjFVAcIyQOcbIHBMwR5kLAA)]
+- [鋼琴伴奏 TMD 檔案](kokai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QYgX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgljhHRBUX5Zal5iHtCI1JTMkvyizMSc-MSiosS89NTc1LwShMrUssyUVJC6xOTk_NyCxLxMVPmy1KJikE8KMhPz8uNxKMovKsnIB_qhIKPSKjc_JbUoL74gIz8vtSQzOT47MS8RobIkA2i_VXEqhlBJUWJZag6ykZnpmXlWwJADB1tqZjzQ-tISoD4tLYUXHauebd3-fk_Hkz1bni7tf7-nU0FLi0vRVsHSiMveVsGFy8ZI38QOZNbT9l0vZk59v2fW0w39T9fueD5l_uPGdc_W9oAtetG-62nP9Kc7Vj9f3wKUfLZg4cuZLU83roGoBXKfti5XeLZ28bNlU5_NaX6-fcXjhq5nK2Y-2zXt6ZSNQENABu6f9HTHNIXna9Y8nT0byH-6c4vC09ZJz1cvfT4FqLwb6MZnM9Y-ndTzZFcPUO7JrinP5nQ87W18sqP52fSlz2fuebGw5_2enudbFj2bvePFzPkKBuZGlgom5kAvKXFxeQOTTaZVACjogzwcagxqqrkUgMDG0EzLDszS11KwRQcgxzzZ0QA0WEHDRAHol-frG3QUQIlEL6sgXROLBi19sGE1CtW5abUKhgq6QGikYAwkTYC4RsEUSIJ4IBkDsIgRVAQkD5KtAfNAECQPgjVgI30MaxQeN7aARR43dis8buoCs0AkSKYJzJsEJpcByXio-FawyCowuRxMzoTINHVDzQepRLLHCKRrE9SemVA7HzfugJq3GswD2wY2AWbPCrB4L1i8Hy4OMxvNDmOYi0F6NgHxFDBrCdQssClgn0HMhdrRBPEjxKbpSHaD_IvFFhOQHMSXjxv7oeoeN86G6gLJwHy3Dsm09fAwfNy4D0kcFHqotuBPOLt6yEo4wHQDSge6CmYK5kDSMA5svRlYyBScTCAJB5JoTMEyIIU1EKW4Ug40tJv3ANmTwX5rQwoHSEighsN8aMhA9IDC-3HjVGhMdGAPcXDaAekDqV0IDT8QC2IiyEYQfz9KGoGlmslQmyDxC0qxIJtAqQBXCoK5fCIsvppgfgKZDuKD_ASKb1gKgvh8A8QmCA9sA86UCk5D-6H2gNIQJP2DwgmWVkD8-Wg-AuWfx029UB_1gNWAwgx7viNQAHWSVwAV4CqAQEkLREPSESRlQSBSOgIJwxUhpSNYWKyCxxRyCQTJn5BQQo5dGESEAiimYDkdXl4hpSJQWQBRAYtbUGyBZEApEZpeUOyBhStEHyjMQfZA8vdEMLkB1R5wGgKlUJDcAqjfHjeugZoHTUNAO1DzBcSfUHugqQeSM6DpHVxOIdkDTkPI-Q9R8oBkQP6CpS4ke8DpCcM_0FwJdik4F0LswZuCgPUppSURpN4yhNZXIIhIUrCCCEQbKZjHg1IQVBG2gghWPMADHJghQMGCHLSwwh8WRJCImQUNPlA0gqtAiC5cRQTOwghmG6Q4QgQnKMBB4n1gHnpxBLMNR7UJSkxNjVDzgIUmtEIGFgxorkT4GhLNID1wvzV1gnnT4W4EJSsstoGTFKgiB6kGVdKQEFqGy2_wTAoJ17lQ28AJESn8QYUuqm21KE0nH4qaTnhTm2F8vLYpzF7jeG1YEkKTgXMghZcpkGsEkzMBsrHrQqRDkqpsMh1sApQxRDgKyqGJg9HqBhqEMHbPENRHWolEprtxByZIxgQmg6IMZ0ADU7qunQI4sUf7GMYqIDhGyBxjZI4JmKPMBQA)]
 
 ## 分析
 
@@ -89,24 +89,24 @@ tmd_source:
 ⏱  Duration:       1:23 (83.5s), 64 measures total
 🎼 Key & Tempo:    首調基準 D, != 92.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – C#5 (MIDI 73) [跨度: 11 個半音 / 0.9 個八度, 難度: easy]
-   - 最低音:  D4 in [Kokai[L1] #1 @ m.1, 0:00]
-   - 最高音: C#5 in [Kokai[L1] #1 @ m.5, 0:05]
+🎤 人聲音域:    C#4 (MIDI 61) – D5 (MIDI 74) [跨度: 13 個半音 / 1.1 個八度, 難度: moderate]
+   - 最低音:  C#4 in [Kokai[L1] #1 @ m.15, 0:19]
+   - 最高音: D5 in [Kokai[L1] #1 @ m.5, 0:06]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Kokai[L1] (20.9s) -> Kokai[L2] (20.9s) -> Kokai[L3] (20.9s) -> Kokai[L4] (20.9s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 大調（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, F#, B, D, G
-   - 調性數值:    D 大調 [相關度: 0.77, 穩定度: Moderate, 自然音純度: 91.7%]
-   - 候選調性 (K-S): D 大調 (0.77), F# 小調 (0.69), B 小調 (0.64)
+   - 核心骨幹音:  A, D, F#, B, G
+   - 調性數值:    D 大調 [相關度: 0.92, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.92), B 小調 (0.75), F# 小調 (0.71)
    - 五度圈歷程:   +2 -> +2 -> +2 -> +2
    - 各段落調性細節:
-     • [Kokai[L1] #1]: D 大調 (r: 0.77, 自然音純度: 91.7%, 調外音: C, D#)
-     • [Kokai[L2] #1]: D 大調 (r: 0.77, 自然音純度: 91.7%, 調外音: C, D#)
-     • [Kokai[L3] #1]: D 大調 (r: 0.77, 自然音純度: 91.7%, 調外音: C, D#)
-     • [Kokai[L4] #1]: D 大調 (r: 0.77, 自然音純度: 91.7%, 調外音: C, D#)
+     • [Kokai[L1] #1]: D 大調 (r: 0.92, 自然音純度: 100.0%)
+     • [Kokai[L2] #1]: D 大調 (r: 0.92, 自然音純度: 100.0%)
+     • [Kokai[L3] #1]: D 大調 (r: 0.92, 自然音純度: 100.0%)
+     • [Kokai[L4] #1]: D 大調 (r: 0.92, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -119,10 +119,10 @@ tmd_source:
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  : █                          0.9%
-     C# : ███████                    5.6%
-     D  : ██████████████            12.0%
-     D# : █████████                  7.4%
+     C  :                            0.0%
+     C# : ████████                   6.5%
+     D  : ███████████████████████   19.4%
+     D# :                            0.0%
      E  : ██████████                 8.3%
      F  :                            0.0%
      F# : ███████████████████████   19.4%
@@ -133,7 +133,7 @@ tmd_source:
      B  : █████████████████         14.8%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – C#5 (11 個半音 / 0.9 個八度, 208 個音符)
+  - Piano         : C#4 – D5 (13 個半音 / 1.1 個八度, 208 個音符)
 ================================================================================
 ```
 
