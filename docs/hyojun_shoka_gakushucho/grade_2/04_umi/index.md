@@ -65,8 +65,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](umi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgljhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xKRFWWmZ-ZZlacWl6QW5cXnpubkp1QqcWlpKTzbul1BS4tL0VbB0MCCy95WwYXLxkjfxA6k9Wn7rhczp77fM-vF0v3PtnQ_m70JbOKL9l1Pe6Y_3bH6-fqWp2t3PFuw8OXMlqcb1zzd0A_hPm1drvBs7eJny6Y-m9P8fPuKxw1dz1bMfLZr2tMpG5-t7QEqer5_0tMd0xSer1nzZBeI_3TnFoWnrZOer176fApQeff7PR3PZqx9OqkHJL1zy5NdU57N6Xja2_hkR_Oz6Uufz9zzYmHP-z09z7csejZ7x4uZ8xUMzI0sFUzM3-_pVOLi0tdSsKUW4FJQUHjaNx9kzeb2Fyu6XnS0A73wYuW8p60rnk1rBzr06YbeZ-2dCqAUoJdVkP6oYTIoHYCYQBdCtCoUFOgpGBoBpQyNQc4GentHAyis5swHshVMFF4umwZ0OjCkQda9WLX_WcNykEXdvUC_AUUfN3e_nLodKK4AjBoFoPDTtROANrsoPF2yHEkUbEQPJNaAAf5ixe7HDT3wuHvc0MsFMh5o9eOGRhDrcdOix81r3u-d97ih4XHTqsdNax83zwTaBeQ-n7n36Y62x01rHjfPf9y04nHzapAGqGgz0KwGkEQzUAVQz6rHzUvARix63LT9cTPQ0A6gKWAbgEqbu0BKQRpABj9uXogkMuVxc-Pj5sVQJzSveNy0G2oVsttg1vaDFQEtWQa1H-SwnscNTRB_7QIyMfz1bDOQPQ9qd9NqsOsWgvwF4i4Di0yD6IHJgYzG4UGQCBA1ghQ3rYdoW_K4aS842Pqezd0HMxioAagCGHibwdqA_l35uGknZpjD7ET2GrK_gBooT8JQoKClz8UVmptpFZYPLCAcagxqqkHmK9hYaNmBGdiyDTiL7mgAZjcFDRMFYA5_vr5BB57WNbFoANoCMqxGwVDBWMEUiGuA6dtMwVAdSNQABSCwBihhCIS6CjVg5T6GNaCgASaYNXAaJLIKiNcCeTOBuBsssh3IWgnEs4FssJrm-UDWCiC9GmGaEVbTmrsgqpvnwU1bDWSB5BfCTGtaBhWdDjYNf8Ds6qFBwIACxQAtYJA83bwJ5unmNmjggJIn2O1An4CVgnzUAVbWDTQoHi1ckPyMxzCwIAg3grWANK6HG0YgvXRSJViAFikYqYNY5tAgMgfxUUIG6AFEtIKjFOwtiAjIAGAZA_IDsJBBZoLEgUmmaTeWZLMEiPdCk1wfWCUoubSAEwjYRFCiBOoC8YEZHJ6wgPHTtJNw6DydPZtOiQYzNyEno36ww0EpBpjioXkIJNKDJcVgmoSchgibVMvFpWunACx7on0MYxVgTCMwU5kLAA)]
-- [鋼琴伴奏 TMD 檔案](umi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgljhHRRfk6qVWJycn5uQWJeZm5qXglCLjOvuKQIaGleiVVBZmJefnxZfnJiDkI-v6gkIx_ooIKMSqvc_JTUorz4goz8vNSSzOT47MS8RGSVmemZeVblqcUlIFW5qTn5KZVKXFpaCo8b2x437n-_p-PJni1Pl_a_39OpoKXFpWirYGhgwWVvq-DCZWOkb2IHMulp-64XM6e-3zPrxdL9z7Z0P5u9SYmLKzQ30yoM5CyHGoOaai4FILCx0LIDM_S1FJ529gJNVdAwUni6of_5-gZNBS19sFyNgoGCLhgjscAyPoY1CvFAHggjsSByRtjlYNY9X7NGwVDh2bqtChommDYaKhgrmAJxjYKJgpmCoTqQqAEKQGANUMIQCJGd8bixSeFxUw-cBol0AXEvEO8E4tVgkelAuU4gvRuIIWr2A3EHULQbxeHYTFsFVb0Pblo3UA4k3wg3rQ0i2rgNw6tG5HoV5E3UEEfxRtMkuDeWQbzb1PW4qRksCHQbWCmIXgEWWY0RRSi-wGcYSBCEF4K1gET6scapMfEeBSUMI3UQyxzqaXMQH9WvoEiEBT042MHBDREBGfC4cQvIVSBnIjFB6oDR2jgbS9S2APFcaLJYBzYBFKVLwJEIMRFoJ1AXiP-4aTIs8sEhPhPDvybUjFjMVIecYteDvQWKTVA6g6RckJo1WGIV0yTk1ErYJHipsK-HHqVCLaR4CgCVnUEeeAsouP2g0AWGqrE6JBmZA7lGWAsYRIxoGwNtM9Y2Bdtuom0GpM20oSnRVNscSJtrQ1IgVBVEB7asTJahQLVgdZDAwsw2xBlqpK5tAso22kCvg40Gy0AsA_MhCrCnVCq6G5o2ECaCXYQwE6YLBFGj2IfIKDbUAWo1BRFAJ-mAaCMwB28kI-kxAVFgAVT9MEWYhqFHLtGGEY5SHEYZgY2CugVKQ5ThjT3iHIbpMoxIQzIIoh4eXbp2CsAYi_YxjFWAMY3ATGUuAA)]
+- [主旋律 TMD 檔案](umi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgljhHRBUX5Zal5iHtCIgqLMvJLUFLAZCAWpZZkpqSDp4uTEvPiy1KLMtMzUFCR3pRYVgzwAtaekKDGvOLkoswDkK4Sq_KKSjHyg2wsyKq0yMotL8osykxNz4rMT8xKRFWWmZ-ZZlacWl6QW5cXnpubkp1QqcWlpKTzbul1BS4tL0VbB0MCCy95WwYXLxkjfxA6k9Wn7rhczp77fM-vF0v3PtnQ_m70JbOKL9l1Pe6Y_3bH6-fqWp2t3PFuw8OXMlqcb1zzd0A_hPm1drvBs7eJny6Y-m9P8fPuKxw1dz1bMfLZr2tMpG5-t7QEqer5_0tMd0xSer1nzZBeI_3TnFoWnrZOer176fApQeff7PR3PZqx9OqkHJL1zy5NdU57N6Xja2_hkR_Oz6Uufz9zzYmHP-z09z7csejZ7x4uZ8xUMzI0sFUzM3-_pVOLi0tdSsKUW4FJQUHjaNx9kzeb2Fyu6XnS0A73wYuW8p60rnk1rBzr06YbeZ-2dCqAUoJdVkP6oYTIoHYCYQBdCtCoUFOgpGBoBpQyNQc4GentHAyis5swHshVMFF4umwZ0OjCkQda9WLX_WcNykEXdvUC_AUUfN3e_nLodKK4AjBoFoPDTtROANrsoPF2yHEkUbEQPJNaAAf5ixe7HDT3wuHvc0MsFMh5o9eOGRhDrcdOix81r3u-d97ih4XHTqsdNax83zwTaBeQ-n7n36Y62x01rHjfPf9y04nHzapAGqGgz0KwGkEQzUAVQz6rHzUvARix63LT9cTPQ0A6gKWAbgEqbu0BKQRpABj9uXogkMuVxc-Pj5sVQJzSveNy0G2oVsttg1vaDFQEtWQa1H-SwnscNTRB_7QIyMfz1bDOQPQ9qd9NqsOsWgvwF4i4Di0yD6IHJgYzG4UGQCBA1ghQ3rYdoW_K4aS842Pqezd0HMxioAagCGHibwdqA_l35uGknZpjD7ET2GrK_gBooT8JQoKClz8UVmptpFZYPLCAcagxqqkHmK9hYaNmBGdiyDTiL7mgAZjcFDRMFYA5_vr5BB57WNbFoANoCMqxGwVDBWMEUiGuA6dtMwTAOSNQABSCwBihhCIS6CjVg5T6GNaCgASaYNXAaJLIKiNcCeTOBuBsssh3IWgnEs4FssJrm-UDWCiC9GmGaEVbTmrsgqpvnwU1bDWSB5BfCTGtaBhWdDjYNf8Ds6qFBwIACxQAtYJA83bwJ5unmNmjggJIn2O1An4CVgnzUAVbWDTQoHi1ckPyMxzCwIAg3grWANK6HG0YgvXRSJViAFikYxYFY5tAgMgfxUUIG6AFEtIKjFOwtiAjIAGAZA_IDsJBBZoLEgUmmaTeWZLMEiPdCk1wfWCUoubSAEwjYRFCiBOoC8YEZHJ6wgPHTtJNw6DydPZtOiQYzNyEno36ww0EpBpjioXkIJNKDJcVgmoSchgibVMvFpWunACx7on0MYxVgTCMwU5kLAA)]
+- [鋼琴伴奏 TMD 檔案](umi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKqMzPKs2LL87Iz06MT0_MLi3OKE3OyFeCqy3LzynNTbVKL0pMSY03QogX55cWJadaFQMV5-fEl6RWlCTl52ejy8cXJKanWgUYGBrpAgljhHRRfk6qVWJycn5uQWJeZm5qXglCLjOvuKQIaGleiVVBZmJefnxZfnJiDkI-v6gkIx_ooIKMSqvc_JTUorz4goz8vNSSzOT47MS8RGSVmemZeVblqcUlIFW5qTn5KZVKXFpaCo8b2x437n-_p-PJni1Pl_a_39OpoKXFpWirYGhgwWVvq-DCZWOkb2IHMulp-64XM6e-3zPrxdL9z7Z0P5u9SYmLKzQ30yoM5CyHGoOaai4FILCx0LIDM_S1FJ529gJNVdAwUni6of_5-gZNBS19sFyNgoGCLhgjscAyPoY1CvFAHggjsSByRtjlYNY9X7NGwVDh2bqtChommDYaKhgrmAJxjYKJgpmCYRyQqAEKQGANUMIQCJGd8bixSeFxUw-cBol0AXEvEO8E4tVgkelAuU4gvRuIIWr2A3EHULQbxeHYTFsFVb0Pblo3UA4k3wg3rQ0i2rgNw6tG5HoV5E3UEEfxRtMkuDeWQbzb1PW4qRksCHQbWCmIXgEWWY0RRSi-wGcYSBCEF4K1gET6scapMfEeBSUMozgQyxzqaXMQH9WvoEiEBT042MHBDREBGfC4cQvIVSBnIjFB6oDR2jgbS9S2APFcaLJYBzYBFKVLwJEIMRFoJ1AXiP-4aTIs8sEhPhPDvybUjFjMVIecYteDvQWKTVA6g6RckJo1WGIV0yTk1ErYJHipsK-HHqVCLaR4CgCVnUEeeAsouP2g0AWGqnEcJBmZA7lGWAsYRIxoGwNtM9Y2Bdtuom0GpM20oSnRVNscSJtrQ1IgVBVEB7asTJahQLVgdZDAwsw2xBlqFKdtAso22kCvg40Gy0AsA_MhCrCnVCq6G5o2ECaCXYQwE6YLBFGj2IfIKDYEpQ5TSGIxjQfRRrhqEax6TEAUWABVP0wRpmHokUu0YYSjFIdRRmCjoG6B0hBleGOPOIdhugwj0pAMgqiHR5eunQIwxqJ9DGMVYEwjMFOZCwA)]
 
 ## 分析
 
@@ -77,22 +77,22 @@ tmd_source:
 ⏱  Duration:       0:35 (35.6s), 32 measures total
 🎼 Key & Tempo:    首調基準 D, != 108.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    D4 (MIDI 62) – C#5 (MIDI 73) [跨度: 11 個半音 / 0.9 個八度, 難度: easy]
+🎤 人聲音域:    D4 (MIDI 62) – E5 (MIDI 76) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  D4 in [Umi[L1] #1 @ m.1, 0:00]
-   - 最高音: C#5 in [Umi[L1] #1 @ m.11, 0:11]
+   - 最高音: E5 in [Umi[L1] #1 @ m.11, 0:11]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Umi[L1] (17.8s) -> Umi[L2] (17.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       D 大調（流行色彩大調，未偵測到可信轉調）
-   - 風格氣質:    流行大調（略帶和弦色彩音與裝飾副屬和弦）
+🗝  調性診斷：       D 大調（純淨自然大調，未偵測到可信轉調）
+   - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  A, D, F#, B, D#
-   - 調性數值:    D 大調 [相關度: 0.77, 穩定度: High, 自然音純度: 85.0%]
-   - 候選調性 (K-S): D 大調 (0.77), F# 小調 (0.61), A 大調 (0.57)
+   - 核心骨幹音:  D, A, F#, B, G
+   - 調性數值:    D 大調 [相關度: 0.95, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): D 大調 (0.95), A 大調 (0.68), B 小調 (0.62)
    - 五度圈歷程:   +2 -> +2
    - 各段落調性細節:
-     • [Umi[L1] #1]: D 大調 (r: 0.77, 自然音純度: 85.0%, 調外音: D#, F)
-     • [Umi[L2] #1]: D 大調 (r: 0.77, 自然音純度: 85.0%, 調外音: D#, F)
+     • [Umi[L1] #1]: D 大調 (r: 0.95, 自然音純度: 100.0%)
+     • [Umi[L2] #1]: D 大調 (r: 0.95, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -107,10 +107,10 @@ tmd_source:
   [ 十二半音累積音高分佈 ]
      C  :                            0.0%
      C# : ███                        3.3%
-     D  : ████████████████          18.3%
-     D# : ████████                  10.0%
-     E  :                            0.0%
-     F  : ████                       5.0%
+     D  : ████████████████████████  28.3%
+     D# :                            0.0%
+     E  : ████                       5.0%
+     F  :                            0.0%
      F# : █████████████             15.0%
      G  : ██████                     6.7%
      G# :                            0.0%
@@ -119,7 +119,7 @@ tmd_source:
      B  : ███████████               13.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – C#5 (11 個半音 / 0.9 個八度, 110 個音符)
+  - Vocal         : D4 – E5 (14 個半音 / 1.2 個八度, 110 個音符)
 ================================================================================
 ```
 

@@ -107,6 +107,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [オンマヨハシレ](hyojun_shoka_gakushucho/grade_1/09_onma_yo_hashire/index.md)
 
+### 作者不詳（1 首）
+
+- [お正月](hyojun_shoka_gakushucho/grade_1/08_oshaugatsu/index.md)
+
 ### 傳田治朗（1 首）
 
 - [僕等は少年だ](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_06_bokura_wa_shonen_da/index.md)
@@ -734,9 +738,8 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [護良親王](shintei_jido_shoka/koto_girls_2020.006.0849/2_2_07_morinaga_shinno/index.md)
 
-### 東くめ（3 首）
+### 東くめ（2 首）
 
-- [お正月](hyojun_shoka_gakushucho/grade_1/08_oshaugatsu/index.md)
 - [お正月](kyoyusho_shoka_1935/2_26_oshogatsu/index.md)
 - [オシヤウグワツ（新年）](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_19_oshogatsu/index.md)
 

@@ -1,8 +1,8 @@
 {
   "total_corpus_songs": 1549,
-  "unique_song_count": 1052,
-  "duplicate_group_count": 275,
-  "duplicate_occurrence_count": 772,
+  "unique_song_count": 1051,
+  "duplicate_group_count": 276,
+  "duplicate_occurrence_count": 774,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -52,7 +52,7 @@
     {
       "id": "other",
       "label": "其他",
-      "duplicate_group_count": 136
+      "duplicate_group_count": 137
     }
   ],
   "duplicate_groups": [
@@ -679,6 +679,26 @@
           "md_file": "hyojun_shoka_gakushucho/grade_3/01_haru_ga_kita/index.md",
           "book_label": "《標準唱歌學習帖》第三學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
           "raw_title": "春が來た"
+        }
+      ]
+    },
+    {
+      "id": "pochitotama",
+      "title": "ぽちとたま／ポチ ト タマ",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/43_pochi_to_tama",
+          "md_file": "shoka_kyozai_shu_1923/grade_1_2/43_pochi_to_tama/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "ぽちとたま"
+        },
+        {
+          "rel_dir": "hyojun_shoka_gakushucho/grade_1/02_pochi_to_tama",
+          "md_file": "hyojun_shoka_gakushucho/grade_1/02_pochi_to_tama/index.md",
+          "book_label": "《標準唱歌學習帖》第一學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+          "raw_title": "ポチ ト タマ"
         }
       ]
     },

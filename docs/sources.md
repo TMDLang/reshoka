@@ -20,6 +20,8 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 - 📊 [《教育所用 唱歌教材集》選曲特色與專題考證](kyoyusho_shoka_1935/analysis.md)
 - 🕊️ [《教育所用 唱歌教材集》與大正新童謠運動](kyoyusho_shoka_1935/taisho_doyo.md)
 - 📊 [《新定兒童唱歌》專題統計](shintei_jido_shoka/index.md)
+- 📜 [《臺灣教育》1930年第334號〈新定兒童唱歌〉公認推介](shintei_jido_shoka/taiwan_kyoiku_1930/index.md)
+- 🌸 [《新定兒童唱歌》與大正新童謠考證](shintei_jido_shoka/taisho_doyo.md)
 - 📊 [《共益商社唱歌教科書》專題統計](kyoeki_shoka/index.md)
 - 📊 [《公學校唱歌集》大正四年版專題統計](kogakko_shokashu_1915/analysis.md)
 - 📊 [《新編 小學校・公學校 唱歌教材集》大正十二年版專題統計](shoka_kyozai_shu_1923/analysis.md)
