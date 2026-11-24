@@ -73,7 +73,9 @@ def generate_book_info_folder(folder: Path) -> Path:
             ("image", images[0].name if images else ""),
         ]
     )
-    extra_meta = BOOK_INFO_EXTRA_SECTIONS.get(col_name, "")
+    extra_meta = BOOK_INFO_EXTRA_SECTIONS.get(
+        (col_name, vol_name)
+    ) or BOOK_INFO_EXTRA_SECTIONS.get(col_name, "")
 
     markdown = f"""{frontmatter}
 
