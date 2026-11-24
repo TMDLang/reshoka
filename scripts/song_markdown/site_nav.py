@@ -514,9 +514,6 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             key=lambda d: natural_sort_key(d.name),
         )
         for vol_dir in vol_dirs:
-            generate_volume_index(vol_dir)
-            vol_title = get_volume_title(col_slug, vol_dir.name)
-            vol_nav_title = get_volume_nav_title(col_slug, vol_dir.name)
             song_dirs = sorted(
                 (
                     d
@@ -525,9 +522,18 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                 ),
                 key=lambda d: natural_sort_key(d.name),
             )
-            home_lines.append(
-                f"- [**{vol_title}**]({col_slug}/{vol_dir.name}/index.md)（共 {len(song_dirs)} 首）"
-            )
+            if song_dirs:
+                generate_volume_index(vol_dir)
+            vol_title = get_volume_title(col_slug, vol_dir.name)
+            vol_nav_title = get_volume_nav_title(col_slug, vol_dir.name)
+            if song_dirs:
+                home_lines.append(
+                    f"- [**{vol_title}**]({col_slug}/{vol_dir.name}/index.md)（共 {len(song_dirs)} 首）"
+                )
+            else:
+                home_lines.append(
+                    f"- [**{vol_title}**]({col_slug}/{vol_dir.name}/index.md)"
+                )
 
             nav_lines.extend(
                 [
