@@ -103,17 +103,6 @@ MKDOCS_CONFIG_HEADER: list[str] = [
     "",
     "nav:",
     "  - 首頁: index.md",
-    "  - 資料與說明:",
-    "      - 資料來源與各冊導覽: sources.md",
-    "      - 內容產生過程: workflow.md",
-    "      - 唱歌教材的流動與變化: shoka_genealogy.md",
-    "      - 跨冊重複與同名歌曲索引: duplicate_songs.md",
-    "      - 同一歌名的多個版本: same_title_songs.md",
-    "      - 同詞異曲歌曲: same_lyrics_songs.md",
-    "      - 同曲異詞歌曲: same_melody_songs.md",
-    "      - 《小學校唱歌教授書》: archives/kogakko_shoka_kyoju/index.md",
-    "      - 赤尾寅吉編《拔萃兒童唱歌集》（1933）: archives/akao_torakichi_1933/index.md",
-    "      - 延伸館藏與日本國會圖書館調查筆記: archives/index.md",
 ]
 
 NavItem = tuple[str, str] | tuple[str, list["NavItem"]]
@@ -139,7 +128,14 @@ def _format_extra_nav_items(
 
 COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
     "jinjo_shogaku_shoka": [("專題統計", "jinjo_shogaku_shoka/index.md")],
-    "shintei_jido_shoka": [("專題統計", "shintei_jido_shoka/index.md")],
+    "shintei_jido_shoka": [
+        ("專題統計", "shintei_jido_shoka/index.md"),
+        ("《新定兒童唱歌》與大正新童謠", "shintei_jido_shoka/taisho_doyo.md"),
+        (
+            "史料考證：《臺灣教育》出版介紹全文翻刻",
+            "shintei_jido_shoka/taiwan_kyoiku_1930/index.md",
+        ),
+    ],
     "kyoeki_shoka": [("專題統計", "kyoeki_shoka/index.md")],
     "kogakko_shokashu_1915": [
         ("專題統計", "kogakko_shokashu_1915/analysis.md"),
@@ -194,7 +190,10 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
             ],
         ),
     ],
-    "shoka_kyozai_shu_1923": [("專題統計", "shoka_kyozai_shu_1923/analysis.md")],
+    "shoka_kyozai_shu_1923": [
+        ("總覽與書訊", "shoka_kyozai_shu_1923/index.md"),
+        ("專題統計", "shoka_kyozai_shu_1923/analysis.md"),
+    ],
     "kogakko_shoka": [
         ("專題統計", "kogakko_shoka/statistics.md"),
         (
@@ -237,6 +236,8 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
     ],
     "kyoyusho_shoka_1935": [
         ("選曲特色與專題考證", "kyoyusho_shoka_1935/analysis.md"),
+        ("教材統計專題", "kyoyusho_shoka_1935/statistics.md"),
+        ("《教育所用唱歌教材集》與大正新童謠", "kyoyusho_shoka_1935/taisho_doyo.md"),
         (
             "蕃童教育所唱歌史料考釋",
             [
@@ -257,6 +258,7 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
     ],
     "shokacho": [
         ("史料整理筆記", "shokacho/research_notes.md"),
+        ("《楊金土手抄唱歌帖》編年時間軸", "shokacho/timeline.md"),
         ("《蓬萊唱歌集》目次重建", "shokacho/horai_shokashu.md"),
         ("《蓬萊唱歌集》與大正新童謠", "shokacho/horai_taisho_doyo.md"),
         ("1926年蓬萊公學校唱歌研究會紀事", "shokacho/1926_horai_study_meeting.md"),
@@ -391,6 +393,54 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
     ]
 
     nav_lines = list(MKDOCS_CONFIG_HEADER)
+
+    info_items: list[NavItem] = [
+        ("資料來源與各冊導覽", "sources.md"),
+        ("詞曲作者索引", "credits_index.md"),
+        ("內容產生過程", "workflow.md"),
+        ("人工校對進度", "proofreading.md"),
+        ("工具與腳本手冊", "tooling_and_scripts.md"),
+        ("唱歌教材的流動與變化", "shoka_genealogy.md"),
+        ("跨冊重複與同名歌曲索引", "duplicate_songs.md"),
+        ("同一歌名的多個版本", "same_title_songs.md"),
+        ("同詞異曲歌曲", "same_lyrics_songs.md"),
+    ]
+    same_melody_dir = docs_dir / "same_melody_songs"
+    if (docs_dir / "same_melody_songs.md").exists():
+        melody_subitems: list[NavItem] = [("總覽", "same_melody_songs.md")]
+        if same_melody_dir.is_dir():
+            for m_path in sorted(
+                same_melody_dir.glob("*.md"), key=lambda p: natural_sort_key(p.name)
+            ):
+                title = m_path.name
+                for line in m_path.read_text(encoding="utf-8").splitlines():
+                    if line.startswith("title:"):
+                        raw_title = line.split("title:", 1)[1].strip().strip('"').strip("'")
+                        if raw_title.startswith("同曲異詞："):
+                            raw_title = raw_title.split("同曲異詞：", 1)[1].strip()
+                        title = raw_title
+                        break
+                label = f"{m_path.stem[:3]} {title}".replace(":", "：").replace('"', '\\"')
+                melody_subitems.append((label, f"same_melody_songs/{m_path.name}"))
+        info_items.append(
+            (
+                "同曲異詞歌曲",
+                melody_subitems if len(melody_subitems) > 1 else "same_melody_songs.md",
+            )
+        )
+
+    info_items.extend(
+        [
+            ("《小學校唱歌教授書》", "archives/kogakko_shoka_kyoju/index.md"),
+            ("赤尾寅吉編《拔萃兒童唱歌集》（1933）", "archives/akao_torakichi_1933/index.md"),
+            ("延伸館藏與日本國會圖書館調查筆記", "archives/index.md"),
+        ]
+    )
+
+    info_lines = _format_extra_nav_items(info_items, docs_dir, indent_level=6)
+    if info_lines:
+        nav_lines.append("  - 資料與說明:")
+        nav_lines.extend(info_lines)
 
     for col_slug, col_short in COLLECTIONS_ORDER:
         col_dir = docs_dir / col_slug

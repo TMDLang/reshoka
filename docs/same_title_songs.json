@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1644,
-  "same_title_group_count": 141,
+  "total_corpus_songs": 1674,
+  "same_title_group_count": 144,
   "groups": [
     {
       "title_key": "いかだかずら",
@@ -3037,6 +3037,19 @@
               "year": 1923
             }
           ]
+        },
+        {
+          "id": "single:banjin_no_ongaku/vol_03_paiwan_bunun_tayal/03_tsuki",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_03_paiwan_bunun_tayal/03_tsuki",
+              "md_file": "banjin_no_ongaku/vol_03_paiwan_bunun_tayal/03_tsuki/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_03_paiwan_bunun_tayal",
+              "raw_title": "月",
+              "year": 9999
+            }
+          ]
         }
       ]
     },
@@ -4710,6 +4723,83 @@
       ]
     },
     {
+      "title_key": "こうさくのうた",
+      "title": "耕作の歌",
+      "versions": [
+        {
+          "id": "single:banjin_no_ongaku/vol_02_ami/09_kosaku_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_02_ami/09_kosaku_no_uta",
+              "md_file": "banjin_no_ongaku/vol_02_ami/09_kosaku_no_uta/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_02_ami",
+              "raw_title": "耕作の歌（舞鶴社）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:banjin_no_ongaku/vol_03_paiwan_bunun_tayal/09_kosaku_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_03_paiwan_bunun_tayal/09_kosaku_no_uta",
+              "md_file": "banjin_no_ongaku/vol_03_paiwan_bunun_tayal/09_kosaku_no_uta/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_03_paiwan_bunun_tayal",
+              "raw_title": "耕作の歌（知本社）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:banjin_no_ongaku/vol_03_paiwan_bunun_tayal/13_kosaku_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_03_paiwan_bunun_tayal/13_kosaku_no_uta",
+              "md_file": "banjin_no_ongaku/vol_03_paiwan_bunun_tayal/13_kosaku_no_uta/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_03_paiwan_bunun_tayal",
+              "raw_title": "耕作の歌（太麻里社）",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "こうさくかのいっしゅ",
+      "title": "耕作歌の一種",
+      "versions": [
+        {
+          "id": "single:banjin_no_ongaku/vol_02_ami/01_kosakuka_no_isshu",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_02_ami/01_kosakuka_no_isshu",
+              "md_file": "banjin_no_ongaku/vol_02_ami/01_kosakuka_no_isshu/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_02_ami",
+              "raw_title": "耕作歌の一種（馬蘭社）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:banjin_no_ongaku/vol_03_paiwan_bunun_tayal/01_kosakuka_no_isshu",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_03_paiwan_bunun_tayal/01_kosakuka_no_isshu",
+              "md_file": "banjin_no_ongaku/vol_03_paiwan_bunun_tayal/01_kosakuka_no_isshu/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_03_paiwan_bunun_tayal",
+              "raw_title": "耕作歌の一種（卑南社）",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "ぶとう",
       "title": "舞踏",
       "versions": [
@@ -5734,6 +5824,38 @@
               "book_label": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
               "raw_title": "豐太閤",
               "year": 1934
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "ほうねんのうた",
+      "title": "豐年踴の歌",
+      "versions": [
+        {
+          "id": "single:banjin_no_ongaku/vol_02_ami/02_honen_odori_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_02_ami/02_honen_odori_no_uta",
+              "md_file": "banjin_no_ongaku/vol_02_ami/02_honen_odori_no_uta/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_02_ami",
+              "raw_title": "豐年踴の歌（馬蘭社）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:banjin_no_ongaku/vol_02_ami/11_honen_odori_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_02_ami/11_honen_odori_no_uta",
+              "md_file": "banjin_no_ongaku/vol_02_ami/11_honen_odori_no_uta/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_02_ami",
+              "raw_title": "豐年踴の歌（奇密社）",
+              "year": 9999
             }
           ]
         }

@@ -1,7 +1,68 @@
 {
-  "total_corpus_songs": 1644,
-  "same_melody_different_lyrics_group_count": 11,
+  "total_corpus_songs": 1674,
+  "same_melody_different_lyrics_group_count": 12,
   "groups": [
+    {
+      "versions": [
+        {
+          "id": "izawa_shogaku_shoka/kan_1_855321/17_kazoeuta",
+          "lyrics": "ひとつとやひととうまれてちゆうこおかさねてはみくのひとであれひとであれ",
+          "titles": [
+            "數へうた"
+          ],
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_1_855321/17_kazoeuta",
+              "md_file": "izawa_shogaku_shoka/kan_1_855321/17_kazoeuta/index.md",
+              "book_label": "《小學唱歌》巻一（明治25年／1892）",
+              "raw_title": "數へうた",
+              "year": 1892
+            }
+          ]
+        },
+        {
+          "id": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta",
+          "lyrics": "ひとつとやひとびとちゆうぎおだいいちにだいいちにあふげやたかききみのおんくにのおん",
+          "titles": [
+            "かぞへ歌",
+            "數へ歌"
+          ],
+          "year": 1912,
+          "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta",
+              "md_file": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta/index.md",
+              "book_label": "文部省《尋常小學唱歌》第三學年用（明治45年／1912）",
+              "raw_title": "かぞへ歌",
+              "year": 1912
+            },
+            {
+              "rel_dir": "kogakko_shokashu_1915/4_07_kazoeuta",
+              "md_file": "kogakko_shokashu_1915/4_07_kazoeuta/index.md",
+              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+              "raw_title": "數へ歌",
+              "year": 1915
+            },
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta",
+              "md_file": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "數へ歌",
+              "year": 1923
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/4_35_kazoeuta",
+              "md_file": "kyoyusho_shoka_1935/4_35_kazoeuta/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "數へ歌",
+              "year": 1935
+            }
+          ]
+        }
+      ],
+      "id": "001_17_kazoeuta"
+    },
     {
       "versions": [
         {
@@ -39,7 +100,7 @@
           ]
         }
       ],
-      "id": "001_11_yasukuni_jinja"
+      "id": "002_11_yasukuni_jinja"
     },
     {
       "versions": [
@@ -78,7 +139,7 @@
           ]
         }
       ],
-      "id": "002_16_santo"
+      "id": "003_16_santo"
     },
     {
       "versions": [
@@ -132,7 +193,7 @@
           ]
         }
       ],
-      "id": "003_14_kiku_no_hana"
+      "id": "004_14_kiku_no_hana"
     },
     {
       "versions": [
@@ -171,7 +232,7 @@
           ]
         }
       ],
-      "id": "004_19_sotsugyo_no_uta"
+      "id": "005_19_sotsugyo_no_uta"
     },
     {
       "versions": [
@@ -234,7 +295,7 @@
           ]
         }
       ],
-      "id": "005_1_meiji_tenno_gyosei"
+      "id": "006_1_meiji_tenno_gyosei"
     },
     {
       "versions": [
@@ -304,7 +365,7 @@
           ]
         }
       ],
-      "id": "006_p042_hotaru_no_hikari"
+      "id": "007_p042_hotaru_no_hikari"
     },
     {
       "versions": [
@@ -351,7 +412,7 @@
           ]
         }
       ],
-      "id": "007_20_dosokai"
+      "id": "008_20_dosokai"
     },
     {
       "versions": [
@@ -390,7 +451,7 @@
           ]
         }
       ],
-      "id": "008_p043_yukedomo"
+      "id": "009_p043_yukedomo"
     },
     {
       "versions": [
@@ -436,7 +497,7 @@
           ]
         }
       ],
-      "id": "009_1_2_05_yamato_damashii"
+      "id": "010_1_2_05_yamato_damashii"
     },
     {
       "versions": [
@@ -482,7 +543,7 @@
           ]
         }
       ],
-      "id": "010_4_02_kabin_no_hana"
+      "id": "011_4_02_kabin_no_hana"
     },
     {
       "versions": [
@@ -521,7 +582,7 @@
           ]
         }
       ],
-      "id": "011_2_07_tasukebune"
+      "id": "012_2_07_tasukebune"
     }
   ]
 }

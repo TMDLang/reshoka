@@ -82,12 +82,28 @@ nav:
   - 首頁: index.md
   - 資料與說明:
       - 資料來源與各冊導覽: sources.md
+      - 詞曲作者索引: credits_index.md
       - 內容產生過程: workflow.md
+      - 人工校對進度: proofreading.md
+      - 工具與腳本手冊: tooling_and_scripts.md
       - 唱歌教材的流動與變化: shoka_genealogy.md
       - 跨冊重複與同名歌曲索引: duplicate_songs.md
       - 同一歌名的多個版本: same_title_songs.md
       - 同詞異曲歌曲: same_lyrics_songs.md
-      - 同曲異詞歌曲: same_melody_songs.md
+      - 同曲異詞歌曲:
+          - 總覽: same_melody_songs.md
+          - 001 數へうた／かぞへ歌／數へ歌: same_melody_songs/001_17_kazoeuta.md
+          - 002 靖國神社／歲暮歌: same_melody_songs/002_11_yasukuni_jinja.md
+          - 003 三都／靖國神社: same_melody_songs/003_16_santo.md
+          - 004 菊の花／花／ハナ: same_melody_songs/004_14_kiku_no_hana.md
+          - 005 卒業の歌: same_melody_songs/005_19_sotsugyo_no_uta.md
+          - 006 明治天皇御製: same_melody_songs/006_1_meiji_tenno_gyosei.md
+          - 007 螢の光／送別の歌／告別: same_melody_songs/007_p042_hotaru_no_hikari.md
+          - 008 同窓會／同窓會（二部合唱）／誠實: same_melody_songs/008_20_dosokai.md
+          - 009 行けども／樂シキ我家: same_melody_songs/009_p043_yukedomo.md
+          - 010 大和魂／殖民の歌: same_melody_songs/010_1_2_05_yamato_damashii.md
+          - 011 花瓶の花／一日の終: same_melody_songs/011_4_02_kabin_no_hana.md
+          - 012 助船: same_melody_songs/012_2_07_tasukebune.md
       - 《小學校唱歌教授書》: archives/kogakko_shoka_kyoju/index.md
       - 赤尾寅吉編《拔萃兒童唱歌集》（1933）: archives/akao_torakichi_1933/index.md
       - 延伸館藏與日本國會圖書館調查筆記: archives/index.md
@@ -492,6 +508,7 @@ nav:
       - "6-08 開校記念日": kogakko_shokashu_1915/6_08_kaiko_kinenbi/index.md
       - "6-09 卒業の歌": kogakko_shokashu_1915/6_09_sotsugyo_no_uta/index.md
   - 新編小學校・公學校唱歌教材集（大正十二年／1923）:
+      - 總覽與書訊: shoka_kyozai_shu_1923/index.md
       - 專題統計: shoka_kyozai_shu_1923/analysis.md
       - 尋常科 第一、二學年:
           - 總覽: shoka_kyozai_shu_1923/grade_1_2/index.md
@@ -706,6 +723,7 @@ nav:
           - "40 夜の歸雁（二部）": shoka_kyozai_shu_1923/koto_1_2/40_yoru_no_kigan/index.md
   - 楊金土手抄唱歌帖（大正十二年至昭和二年／1923–1927）:
       - 史料整理筆記: shokacho/research_notes.md
+      - 《楊金土手抄唱歌帖》編年時間軸: shokacho/timeline.md
       - 《蓬萊唱歌集》目次重建: shokacho/horai_shokashu.md
       - 《蓬萊唱歌集》與大正新童謠: shokacho/horai_taisho_doyo.md
       - 1926年蓬萊公學校唱歌研究會紀事: shokacho/1926_horai_study_meeting.md
@@ -930,6 +948,45 @@ nav:
           - "P217 鄭成功 (鄭成功 - 未完成草稿)": shokacho/vol_10/p217_teiseiko/index.md
           - "P220 琵琶湖": shokacho/vol_10/p220_biwako/index.md
           - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
+  - 蕃人ノ音樂（大正十一年至十四年／1922–1925）:
+      - 第一集：水社化蕃ノ歌（張福興採譜，現況說明）:
+          - 總覽: banjin_no_ongaku/vol_01_suisha/index.md
+      - 第二集：アミ族蕃謠歌曲:
+          - 總覽: banjin_no_ongaku/vol_02_ami/index.md
+          - 書訊與掃描頁: banjin_no_ongaku/vol_02_ami/0_book_info/index.md
+          - "01 耕作歌の一種（馬蘭社）": banjin_no_ongaku/vol_02_ami/01_kosakuka_no_isshu/index.md
+          - "02 豐年踴の歌（馬蘭社）": banjin_no_ongaku/vol_02_ami/02_honen_odori_no_uta/index.md
+          - "03 若者耕作の歌（馬蘭社）": banjin_no_ongaku/vol_02_ami/03_wakamono_kosaku_no_uta/index.md
+          - "04 頭目老蕃歡迎の歌（馬蘭社）": banjin_no_ongaku/vol_02_ami/04_tomoku_roban_kangei_no_uta/index.md
+          - "05 酒宴の歌（下朥灣社）": banjin_no_ongaku/vol_02_ami/05_shuen_no_uta/index.md
+          - "06 來客歡迎の歌（紅座社）": banjin_no_ongaku/vol_02_ami/06_raikyaku_kangei_no_uta/index.md
+          - "07 蕃婦豐年踴の歌（紅座社）": banjin_no_ongaku/vol_02_ami/07_banpu_honen_odori_no_uta/index.md
+          - "08 老蕃粟刈祝の歌（紅座社）": banjin_no_ongaku/vol_02_ami/08_roban_awakari_iwi_no_uta/index.md
+          - "09 耕作の歌（舞鶴社）": banjin_no_ongaku/vol_02_ami/09_kosaku_no_uta/index.md
+          - "10 十五夜祭踴の歌（奇密社）": banjin_no_ongaku/vol_02_ami/10_jugoya_saiodori_no_uta/index.md
+          - "11 豐年踴の歌（奇密社）": banjin_no_ongaku/vol_02_ami/11_honen_odori_no_uta/index.md
+          - "12 正月踴の歌（太巴塱社）": banjin_no_ongaku/vol_02_ami/12_shogatsu_odori_no_uta/index.md
+          - "13 首祭・元日祝の歌（太巴塱社）": banjin_no_ongaku/vol_02_ami/13_kubimatsuri_ganjitsu_iwi_no_uta/index.md
+          - "14 宴會の歌（太巴塱社）": banjin_no_ongaku/vol_02_ami/14_enkai_no_uta/index.md
+      - 第三集：パイワン・ブヌン・タイヤル族蕃謠歌曲:
+          - 總覽: banjin_no_ongaku/vol_03_paiwan_bunun_tayal/index.md
+          - 書訊與掃描頁: banjin_no_ongaku/vol_03_paiwan_bunun_tayal/0_book_info/index.md
+          - "01 耕作歌の一種（卑南社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/01_kosakuka_no_isshu/index.md
+          - "02 護鄉兵凱旋の歌（卑南社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/02_gokyohei_kaisen_no_uta/index.md
+          - "03 月": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/03_tsuki/index.md
+          - "04 集會所": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/04_shukaijo/index.md
+          - "05 義務苦力の歌（卑南社知本社共通童謠之三）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/05_gimu_kuri_no_uta/index.md
+          - "06 粟祭の歌（知本社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/06_awamatsuri_no_uta/index.md
+          - "07 首祭酒宴の歌（知本社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/07_kubimatsuri_shuen_no_uta/index.md
+          - "08 粟祭結婚式の歌（知本社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/08_awamatsuri_kekkonshiki_no_uta/index.md
+          - "09 耕作の歌（知本社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/09_kosaku_no_uta/index.md
+          - "10 粟祭結婚式等の歌（知本社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/10_awamatsuri_kekkonshiki_to_no_uta/index.md
+          - "11 集會の歌（知本社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/11_shukai_no_uta/index.md
+          - "12 粟祭蕃童踴の歌（太麻里社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/12_awamatsuri_bando_odori_no_uta/index.md
+          - "13 耕作の歌（太麻里社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/13_kosaku_no_uta/index.md
+          - "14 喜びの歌（卓溪社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/14_yorokobi_no_uta/index.md
+          - "15 悲しみの歌（卓溪社）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/15_kanashimi_no_uta/index.md
+          - "16 耕作、酒宴の歌（太魯閣蕃）": banjin_no_ongaku/vol_03_paiwan_bunun_tayal/16_kosaku_shuen_no_uta/index.md
   - 標準唱歌學習帖（昭和二年／1927）:
       - 專題導覽與各冊目錄: hyojun_shoka_gakushucho/index.md
       - 第一學年 兒童用:
@@ -1061,6 +1118,8 @@ nav:
       - "12 蕃山の唄": taiwan_no_uta/12_banzan_no_uta/index.md
   - 新定兒童唱歌（昭和五年／1930）:
       - 專題統計: shintei_jido_shoka/index.md
+      - 《新定兒童唱歌》與大正新童謠: shintei_jido_shoka/taisho_doyo.md
+      - 史料考證：《臺灣教育》出版介紹全文翻刻: shintei_jido_shoka/taiwan_kyoiku_1930/index.md
       - 尋常科 第一學年:
           - 總覽: shintei_jido_shoka/grade_1_2020.006.0847.0001/index.md
           - 書訊與掃描頁: shintei_jido_shoka/grade_1_2020.006.0847.0001/0_book_info/index.md
@@ -1701,6 +1760,8 @@ nav:
           - "25 臺灣の歌": kogakko_shoka/koto_2/25_taiwan_no_uta/index.md
   - 教育所用唱歌教材集（昭和十年／1935）:
       - 選曲特色與專題考證: kyoyusho_shoka_1935/analysis.md
+      - 教材統計專題: kyoyusho_shoka_1935/statistics.md
+      - 《教育所用唱歌教材集》與大正新童謠: kyoyusho_shoka_1935/taisho_doyo.md
       - 蕃童教育所唱歌史料考釋:
           - 岡本新市《教育所の唱歌教材論》（1933–1934）: kyoyusho_shoka_1935/kyoikusho_shoka/index.md
           - 〈唱歌遊戯教材集委員會開催〉與紀念合照（昭和9年）: kyoyusho_shoka_1935/kyoikusho_shoka/shoka_iinkai_1934/index.md
