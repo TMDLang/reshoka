@@ -70,8 +70,8 @@ P178 Line 1: （モトノハヤサ）
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](bake_kurabe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKG5OboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVWkeyKCSzLTM1BRkyZKM_PSixIKMSquMzGKQDcmJOfHZiXmJCEUlGalAn6emlCYnQozW0lJ42jPtcWP_46bOx407Fd7v6Xi2e-LzFXufre15v6dTQePFuq4Xu1Y_Wz_lxea9aJKaClpaXIq2CoaGRlz2tgquOlw2Rvomdlxc-lpcCgoUmAvSHQwJc4WnUzYCRZ_umKagYWRgZKBnYGCmZ2BhYqypowCKJL2sgvRHDZOBTAsQE6TTN7EIGEqJOZmJVgqGJnqGRnpGet4KGk-XLH-2drGhydOdWwyNns3pMHo2fSnYpoDUorT8ImC0JacqgGK22Aok6pOZl6pgaKWg8bx7gqbC4yagR3oeN65_3LjhcePERw3LFPSBUkvnPVvR9HTHaqCC5vWPm9c8bgYqW_24acPj5pWPm7YDlYEtALoTYp6JFSggXrSvej5l4-Pm7sdNyx437X_cPBXoaahCC7jFQIWPmxc9bgaSfSBzm5c8btoKUgh2XSUwdiEONdQDKQW6EmoImlMfN85_3LhC4XFj1-OmpseNWx837njcCHRcE1BoE1AGrHDV48bVYHY3kkJgxDVNhpi4-XHzZkwSKAH09PrHTUCXwRlQCUwdUBW0MbBxyePGXqDzHzdOetw49XFjx-OmNmDiA0oAAxkYGOvACKgcmBhXA0WBXp0O9iNQB1AfUPdaoAqgRBNYCVAhUFPL48bljxvBUQgOS6DamY-bOtA5-x83LoRYBw3RpklwLRNBNsC0IDiTHzc1gPU3gjmN8x43toHj1QgSmbB0BYtSbIkLGCZLHje3g9PF2sfNLY-beyHBtOJx86THTaseN_cAVQHTD1D7hMdNG8EBtvJx80yIiVMeNzeDSSiDOCGgVTDtIEtJ0ovHOJBrOx83A8kWsDNXg7zQ3AKU2AtK_aA8AgyyLeDMAEyizVNBPmta97h5D9D7cFVAXbOBnN2g1NE8C0xOAKeU1TBLQEoWQowAmr8c7AhgUgGmL1AGA6rvfty8GCzftAnkoiZI5INCFRj8wLAGpiiQY-aBQ7IHyIGGPEQGaBUwQ28FmsSlpc_F5ZsILKzD8oGlsEONQU01yCgFG0MzLTswq0bBOE5BF0QAkSmICYJAUSBpBOVBRAyBpGk8ipAZSD2QAOoDM41ARA3UXLBhBlBsClEPZcEMhxgKwiA1IBqoBmQFmADxwQy4iTDbKTERrArmdSTzjIEQohskaq4DUk9YDGQ32CVQE0HuQXUhqSaC3Ad2N8zTUBMRoQ5SYQQmjaF2YBeBhQvITcimIUctRAQ5FCEipkAxUyCEiCCbhhx-4CQBxQi3GRLhNmw-hdmCMA3hNmOgrCFBt6H7FOYvsGlctVxcunbAejkzTwFIK3MBAA)]
-- [鋼琴伴奏 TMD 檔案](bake_kurabe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0N9cFEhYI6ZKM1NxUq9SU0uTEksz8PCUuLS2Fpz3THjf2P27qfNy4U-H9no5nuyc-X7H32dqe93s6FTRerOt6sWv1s_VTXmzeiyapqfCoYYpCQGZiXr6CY3Jyfm5BYl5mbmpeiYKWFpeirYKhoRGXva2Cqw6XjZG-iR0Xl74Wl4ICDewDmRoM9riVwtMpG4Gqn-6YpqBhZGBkoGdgYKZnYGFirKmjAAoPvayC9EcNk0GhAmKCdPomFqVn5iXmZCZaKRia6Bka6RnpeStoPF2y_NnaxYYmT3duMTR6NqfD6Nn0pZpcWvpcXL6JmXlWYfnAwHeoMaipBpmhYGNopmUHZtUoGMcp6IIIIDIFMUEQKAokjaA8iIghkDSNRxEyA6kHEkB9YKYRiKiBmgs2zACKTSHqoSyY4RBDQRikBkQD1YCsABMgPpgBNxFmOyUmglXBvI5knjEQQnSDRM11QOoJi4HsBrsEaiLIPaguJNVEkPvA7oZ5GmoiItRBKozApDHUDuwisHABuQnZNOSohYgghyJExBQoZgqEEBFk05DDD5wkoBjhNkMi3IbNpzBbEKYh3GYMlDUk6DZ0n8L8BTaNqxaaF8BZMsiDlNxgqG2sDTIIGGHaRmAWUr7QBieEeG2wJIoUqfkDZA3IzTDrIEbDzAVlAG1ILgRTiBRuHK8NTt9INDg5Qbnw5B6vjSULUctSM4gCuEZYGgEbh5rLoGYhhxzpcjD3Imc_Q20TsF9QfUgV62D-ggrCbMRMEZCohyk3grNgyZ8IGaR4MAT7B-E_zBhCTaGwEECNTYQ8aubBZiN6BCJCAaYI7l2EAYZkeJNwuMJdhghhTJ8iCgfi_YgeqtjDDkux4YNcbFjASw1DUKIxBScdMAfCxOAYgRhgAh64QDkDcFLFNASIIBJmYDEIiawRksYJaoTKIDsVuz40DpiAaTPBYx8aB8OD8OIc2TlYeah-xOUkFDaKMcgasclj5aH4E1UBfksxXAsKJKhpwFSjawdsrGXmKSDRylwA)]
+- [主旋律 TMD 檔案](bake_kurabe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKG5OboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVWkeyKCSzLTM1BRkyZKM_PSixIKMSquMzGKQDcmJOfHZiXmJCEUlGalAn6emlCYnQozW0lJ42jPtcWP_46bOx407Fd7v6Xi2e-LzFXufre15v6dTQePFuq4Xu1Y_Wz_lxea9aJKaClpaXIq2CoaGRlz2tgquOlw2Rvomdlxc-lpcCgoUmAvSHQwJc4WnUzYCRZ_umKagYWRgZKBnYGCmZ2BhYqypowCKJL2sgvRHDZOBTAsQE6TTN7EIGEqJOZmJVgqGJnqGRnpGet4KGk-XLH-2drGhydOdWwyNns3pMHo2fSnYpoDUorT8ImC0JacqgGK22Aok6pOZl6pgaKWg8bx7gqbC4yagR3oeN65_3LjhcePERw3LFPSBUkvnPVvR9HTHaqCC5vWPm9c8bgYqW_24acPj5pWPm7YDlYEtALoTYp6JFSggXrSvej5l4-Pm7sdNyx437X_cPBXoaahCC7jFQIWPmxc9bgaSfSBzm5c8btoKUgh2XSUwdiEONdQDKQW6EmoImlMfN85_3LhC4XFj1-OmpseNWx837njcCHRcE1BoE1AGrHDV48bVYHY3kkJgxDVNhpi4-XHzZkwSKAH09PrHTUCXwRlQCUwdUBW0MbBxyePGXqDzHzdOetw49XFjx-OmNmDiA0oAAxkYGOvACKgcmBhXA0WBXp0O9iNQB1AfUPdaoAqgRBNYCVAhUFPL48bljxvBUQgOS6DamY-bOtA5-x83LoRYBw3RpklwLRNBNsC0IDiTHzc1gPU3gjmN8x43toHj1QgSmbB0BYtSbIkLGCZLHje3g9PF2sfNLY-beyHBtOJx86THTaseN_cAVQHTD1D7hMdNG8EBtvJx80yIiVMeNzeDSSiDOCGgVTDtIEtJ0ovHOJBrOx83A8kWsDNXg7zQ3AKU2AtK_aA8AgyyLeDMAEyizVNBPmta97h5D9D7cFVAXbOBnN2g1NE8C0xOAKeU1TBLQEoWQowAmr8c7AhgUgGmL1AGA6rvfty8GCzftAnkoiZI5INCFRj8wLAGpiiQY-aBQ7IHyIGGPEQGaBUwQ28FmsSlpc_F5ZsILKwDMhPz8h1qDGqqQUYp2BiaadmBWTUKxgq6QGysYAqkQRAiYgTlQUQMgaRpPIqQGZA0A2oC0SDFNVDjQMYYQDGIDVEJYsGMhRgHwiA1IBqoBmQ4mADxwQy4gTB7KTER2YUgXTDzQB6H6AaJmoOUExQC2Qx2B9Q8kGtQ3UeaeSC3gd2MFILIsAaswghMQqIJlwgsTEAuQjYNOUIhIsghCBEBxaQpEEJEkE1DDjtwQoBihNsMiXAbNp_CbEGYhnCbMVDWkKDb0H0K8xfYNK5aLi5dO2BNnJmnAKSVuQA)]
+- [鋼琴伴奏 TMD 檔案](bake_kurabe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0N9cFEhYI6ZKM1NxUq9SU0uTEksz8PCUuLS2Fpz3THjf2P27qfNy4U-H9no5nuyc-X7H32dqe93s6FTRerOt6sWv1s_VTXmzeiyapqfCoYYpCQGZiXr6CY3Jyfm5BYl5mbmpeiYKWFpeirYKhoRGXva2Cqw6XjZG-iR0Xl74Wl4ICDewDmRoM9riVwtMpG4Gqn-6YpqBhZGBkoGdgYKZnYGFirKmjAAoPvayC9EcNk0GhAmKCdPomFqVn5iXmZCZaKRia6Bka6RnpeStoPF2y_NnaxYYmT3duMTR6NqfD6Nn0pZpcWvpcXL6JmXlWYGc41BjUVIPMULAxNNOyA7NqFIwVdIHYWMEUSIMgRMQIyoOIGAJJ03gUITMgaQbUBKJBimugxoGMMYBiEBuiEsSCGQsxDoRBakA0UA3IcDAB4oMZcANh9lJiIrILQbpg5oE8DtENEjUHKScoBLIZ7A6oeSDXoLqPNPNAbgO7GSkEkWENWIURmIREEy4RWJiAXIRsGnKEQkSQQxAiAopJUyCEiCCbhhx24IQAxQi3GRLhNmw-hdmCMA3hNmOgrCFBt6H7FOYvsGlctcipP8iD2PRvqG2sDeKZx2sbgRlIGUEbnALitUFyKDLE5weQ8SBVMGsgZkINBKV3bUh2A1OIBG0crw1Ozkg0OAVBufDUHa-NJcdQyU4ziAKYPliiABuGmqWgRiGFF8lSMLci5zVDbROwP1B9RwXLoF6CisGsw0gBkLiGKjaCMWDpnJA4UtAbgr2B8BZGpKAmRZi_UeMPIY-aQ7DYhxZlCL_D1MC9CdduSKL3CAUk3EWIIMX0ICLjE-019KDEHmJYSgQf5BLBAl4gGIKSCDgPgdnQ3ITKNgIxwARSNWUATpIYBgARRBxRJaHUbURogogjuw-rJlQ2mIBpMiFSE7qf4AUzkkIMNoqfcLgDhY1kArIuTFlMNoqvkGXx2oXuQmBwQA0CpghdO2CrKjNPAYlW5gIA)]
 
 ## 分析
 
@@ -82,21 +82,21 @@ P178 Line 1: （モトノハヤサ）
 ⏱  Duration:       0:39 (39.6s), 37 measures total
 🎼 Key & Tempo:    首調基準 E,, != 112.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A#3 (MIDI 58) – C6 (MIDI 84) [跨度: 26 個半音 / 2.2 個八度, 難度: difficult]
+🎤 人聲音域:    A#3 (MIDI 58) – C5 (MIDI 72) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
    - 最低音:  A#3 in [Main #1 @ m.3, 0:02]
-   - 最高音: C6 in [Main #1 @ m.4, 0:03]
-   - 適合: soprano, tenor
+   - 最高音: C5 in [Main #1 @ m.4, 0:03]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (39.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  A#, G, F, D#, C
-   - 調性數值:    A# 大調 [相關度: 0.84, 穩定度: High, 自然音純度: 97.2%]
-   - 候選調性 (K-S): A# 大調 (0.84), D# 大調 (0.70), G 小調 (0.67)
+   - 調性數值:    A# 大調 [相關度: 0.88, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): A# 大調 (0.88), G 小調 (0.72), D# 大調 (0.71)
    - 五度圈歷程:   -2
    - 各段落調性細節:
-     • [Main #1]: A# 大調 (r: 0.84, 自然音純度: 97.2%, 調外音: C#)
+     • [Main #1]: A# 大調 (r: 0.88, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -110,8 +110,8 @@ P178 Line 1: （モトノハヤサ）
 
   [ 十二半音累積音高分佈 ]
      C  : █████████                 12.4%
-     C# : ██                         2.8%
-     D  :                            0.0%
+     C# :                            0.0%
+     D  : ██                         2.8%
      D# : ██████████                13.5%
      E  :                            0.0%
      F  : ██████████████            19.1%
@@ -123,7 +123,7 @@ P178 Line 1: （モトノハヤサ）
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : A#3 – C6 (26 個半音 / 2.2 個八度, 143 個音符)
+  - Piano         : A#3 – C5 (14 個半音 / 1.2 個八度, 143 個音符)
 ================================================================================
 ```
 

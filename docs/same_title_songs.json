@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1549,
-  "same_title_group_count": 122,
+  "total_corpus_songs": 1566,
+  "same_title_group_count": 124,
   "groups": [
     {
       "title_key": "いかだかずら",
@@ -381,6 +381,52 @@
               "book_label": "楊金土手抄《唱歌帖》第 2 冊・II（2020.006.0843）",
               "raw_title": "カタツムリ",
               "year": 1923
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "からす",
+      "title": "からす／烏／カラス",
+      "versions": [
+        {
+          "id": "single:izawa_shogaku_shoka/kan_1_855321/2_karasu",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_1_855321/2_karasu",
+              "md_file": "izawa_shogaku_shoka/kan_1_855321/2_karasu/index.md",
+              "book_label": "《小學唱歌》巻一（明治25年／1892）",
+              "raw_title": "からす",
+              "year": 1892
+            }
+          ]
+        },
+        {
+          "id": "same-song:karasu:jinjo_shogaku_shoka/grade_1_4103/13_karasu",
+          "year": 1911,
+          "occurrences": [
+            {
+              "rel_dir": "jinjo_shogaku_shoka/grade_1_4103/13_karasu",
+              "md_file": "jinjo_shogaku_shoka/grade_1_4103/13_karasu/index.md",
+              "book_label": "文部省《尋常小學唱歌》第一學年用（明治44年／1911）",
+              "raw_title": "烏",
+              "year": 1911
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_03_karasu",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/2_03_karasu/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "カラス（烏鴉）",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/1_18_karasu",
+              "md_file": "kyoyusho_shoka_1935/1_18_karasu/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "からす",
+              "year": 1935
             }
           ]
         }
@@ -1101,6 +1147,108 @@
       ]
     },
     {
+      "title_key": "いちがつついたち",
+      "title": "一月一日",
+      "versions": [
+        {
+          "id": "single:izawa_shogaku_shoka/kan_1_855321/9_ichigatsu_tsuitachi",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_1_855321/9_ichigatsu_tsuitachi",
+              "md_file": "izawa_shogaku_shoka/kan_1_855321/9_ichigatsu_tsuitachi/index.md",
+              "book_label": "《小學唱歌》巻一（明治25年／1892）",
+              "raw_title": "一月一日",
+              "year": 1892
+            }
+          ]
+        },
+        {
+          "id": "same-song:ichigatsuichijitsu:kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu",
+          "year": 1915,
+          "occurrences": [
+            {
+              "rel_dir": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu",
+              "md_file": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/index.md",
+              "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+              "raw_title": "一月一日",
+              "year": 1915
+            },
+            {
+              "rel_dir": "shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu",
+              "md_file": "shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu/index.md",
+              "book_label": "《新編小公學校唱歌教材集》第一、二學年（大正12年／1923，國臺圖 0725-41）",
+              "raw_title": "一月一日",
+              "year": 1923
+            },
+            {
+              "rel_dir": "shokacho/vol_01/p123_ichigatsu_ichijitsu",
+              "md_file": "shokacho/vol_01/p123_ichigatsu_ichijitsu/index.md",
+              "book_label": "楊金土手抄《唱歌帖》第 1 冊（2020.006.0843）",
+              "raw_title": "一月一日",
+              "year": 1923
+            },
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_1/15_ichigatsu_ichijitsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_1/15_ichigatsu_ichijitsu/index.md",
+              "book_label": "《標準唱歌學習帖》第一學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+              "raw_title": "一月一日",
+              "year": 1927
+            },
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu/index.md",
+              "book_label": "《標準唱歌學習帖》第三學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+              "raw_title": "一月一日",
+              "year": 1927
+            },
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_2/15_ichigatsu_ichijitsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_2/15_ichigatsu_ichijitsu/index.md",
+              "book_label": "《標準唱歌學習帖》第二學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+              "raw_title": "一月一日",
+              "year": 1927
+            },
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_5/14_ichigatsu_ichijitsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_5/14_ichigatsu_ichijitsu/index.md",
+              "book_label": "《標準唱歌學習帖》第五學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+              "raw_title": "一月一日",
+              "year": 1927
+            },
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md",
+              "book_label": "《標準唱歌學習帖》第六學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+              "raw_title": "一月一日",
+              "year": 1927
+            },
+            {
+              "rel_dir": "hyojun_shoka_gakushucho/grade_4/13_ichigatsu_ichijitsu",
+              "md_file": "hyojun_shoka_gakushucho/grade_4/13_ichigatsu_ichijitsu/index.md",
+              "book_label": "《標準唱歌學習帖》第四學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
+              "raw_title": "一月一日",
+              "year": 1927
+            },
+            {
+              "rel_dir": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu",
+              "md_file": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/index.md",
+              "book_label": "《新定兒童唱歌》尋常科第一學年用（2020.006.0847.0001）",
+              "raw_title": "一月一日",
+              "year": 1934
+            },
+            {
+              "rel_dir": "kyoyusho_shoka_1935/0_05_ichigatsu_ichijitsu",
+              "md_file": "kyoyusho_shoka_1935/0_05_ichigatsu_ichijitsu/index.md",
+              "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+              "raw_title": "一月一日",
+              "year": 1935
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "ごいちじいさん",
       "title": "五一ヂイサン",
       "versions": [
@@ -1684,6 +1832,19 @@
       "title_key": "てんちょうせつ",
       "title": "天長節",
       "versions": [
+        {
+          "id": "single:izawa_shogaku_shoka/kan_1_855321/13_tenchosetsu",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_1_855321/13_tenchosetsu",
+              "md_file": "izawa_shogaku_shoka/kan_1_855321/13_tenchosetsu/index.md",
+              "book_label": "《小學唱歌》巻一（明治25年／1892）",
+              "raw_title": "天長節",
+              "year": 1892
+            }
+          ]
+        },
         {
           "id": "same-song:tenchosetsu:kogakko_shokashu_1915/2_01_tenchosetsu",
           "year": 1915,
@@ -3611,6 +3772,19 @@
       "title": "紀元節",
       "versions": [
         {
+          "id": "single:izawa_shogaku_shoka/kan_1_855321/11_kigensetsu",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_1_855321/11_kigensetsu",
+              "md_file": "izawa_shogaku_shoka/kan_1_855321/11_kigensetsu/index.md",
+              "book_label": "《小學唱歌》巻一（明治25年／1892）",
+              "raw_title": "紀元節",
+              "year": 1892
+            }
+          ]
+        },
+        {
           "id": "same-song:kigensetsu:kogakko_shokashu_1915/3_06_kigensetsu",
           "year": 1915,
           "occurrences": [
@@ -4762,8 +4936,21 @@
     },
     {
       "title_key": "あり",
-      "title": "蟻／アリ",
+      "title": "蟻／あり／アリ",
       "versions": [
+        {
+          "id": "single:izawa_shogaku_shoka/kan_1_855321/4_ari",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_1_855321/4_ari",
+              "md_file": "izawa_shogaku_shoka/kan_1_855321/4_ari/index.md",
+              "book_label": "《小學唱歌》巻一（明治25年／1892）",
+              "raw_title": "あり",
+              "year": 1892
+            }
+          ]
+        },
         {
           "id": "single:hyojun_shoka_gakushucho/grade_3/08_ari",
           "year": 1927,

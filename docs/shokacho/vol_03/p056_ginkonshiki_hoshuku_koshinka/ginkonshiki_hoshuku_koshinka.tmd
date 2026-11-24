@@ -27,7 +27,7 @@
    for Verses 1 & 2, and Staves 7–9 ([B2], 12 bars) for Verse 3.
    ========================================================================= */
 
-GinkonshikiHoshukuKoshinka_A:Vocal@|0|{
+GinkonshikiHoshukuKoshinka_A:Piano@|0|{
     <16*>
     /* 歌詞: */
     /* 一、イハヘ モロビト ケフノ ヨキヒ / ニジフ ゴネンノ ソノム カシ / カシコ ドコロノ オホマ ヘニ */
@@ -47,7 +47,7 @@ GinkonshikiHoshukuKoshinka_A:Vocal@|0|{
     /* @Vocal: ト リ サ ヘ ウ タ フ */
 }
 
-GinkonshikiHoshukuKoshinka_B1:Vocal@|0|{
+GinkonshikiHoshukuKoshinka_B1:Piano@|0|{
     <8*>
     /* 第一・二番後半 (Staves 4–6): */
     /* 一、ソノム カシ / カシコ ドコロノ オホマ ヘニ / スメラ ミコトノ カシコ クモ / キサイノ ミヤト モモト セヲ / チギリ タマヒシ ヨキヒ ナレ */
@@ -63,7 +63,7 @@ GinkonshikiHoshukuKoshinka_B1:Vocal@|0|{
     /* @Vocal: あ め つ ち の む た き は み な し */
 }
 
-GinkonshikiHoshukuKoshinka_B2:Vocal@|0|{
+GinkonshikiHoshukuKoshinka_B2:Piano@|0|{
     <16*>
     /* 第三番後半 (Staves 7–9): */
     /* 三、タケノ ソノ / イザホギ マツレ ココノ ヘノ / クモヰニ タカク ヒビク マデ / テンワウ ヘイカ バンバン ザイ / クワウゴウ ヘイカ バンバン ザイ */

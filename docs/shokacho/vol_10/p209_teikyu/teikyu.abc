@@ -4,7 +4,7 @@ M:2/4
 L:1/16
 Q:1/4=132
 K:G
-V:V1 name="Vocal" snm="Voc"
+V:V1 name="Piano" snm="Pia"
 [V:V1]
 D3 D G3 G | A3 A G3 A | B3 B D3 D | A6 z2 |
 B3 A G3 G | A3 G E3 E | D3 D E3 G | A6 z2 |

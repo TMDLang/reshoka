@@ -67,4 +67,4 @@ image: "0_book_info/P113.jpg"
 | P182 | [**明治節唱歌**](p182_meijisetsu_shoka/index.md) | 詞：堀澤周安 / 曲：杉江秀 | `?=D` `<4/4>` `!=96` | P182.jpg |
 | P184 | [**文部省選定 大禮奉祝唱歌**](p184_tairei_hoshuku_shoka/index.md) | 詞：高田耕一（文部省選定） / 曲：平岡均之（文部省選定） | `?=D` `<4/4>` `!=96` | P183.jpg, P184.jpg |
 | P185 | [**明治節唱歌（印刷譜）**](p185_meijisetsu_shoka_printed/index.md) | 詞：堀澤周安（文部省選定） / 曲：杉江秀（文部省選定） | `?=D` `<4/4>` `!=96` | P183.jpg, P185.jpg |
-| P186 | [**青年團御大禮奉祝歌**](p186_seinendan_gotairei_hoshukuka/index.md) | 詞：川路柳虹 / 曲：中山晉平 | `?=Bb` `<2/4>` `!=80` | P186.jpg |
+| P186 | [**青年團御大禮奉祝歌**](p186_seinendan_gotairei_hoshukuka/index.md) | 詞：川路柳虹 / 曲：中山晉平 | `?=B,` `<2/4>` `!=80` | P186.jpg |

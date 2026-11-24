@@ -64,6 +64,7 @@ NORMALIZED_KEY_NAMES: dict[str, str] = {
 }
 
 COLLECTION_LABELS: dict[str, str] = {
+    "izawa_shogaku_shoka": "《小學唱歌》（伊澤修二編）",
     "jinjo_shogaku_shoka": "《尋常小學唱歌》",
     "kogakko_shokashu_1915": "《公學校唱歌集》",
     "shoka_kyozai_shu_1923": "《新編 小學校・公學校 唱歌教材集》",
@@ -124,6 +125,10 @@ VOLUME_LABELS: dict[str, str] = {
 }
 
 COLLECTION_VOLUME_LABELS: dict[tuple[str, str], str] = {
+    ("izawa_shogaku_shoka", "kan_1_855321"): "小學唱歌・巻一（明治25年／1892）",
+    ("izawa_shogaku_shoka", "kan_4_3151"): "小學唱歌・巻四（明治26年／1893）",
+    ("izawa_shogaku_shoka", "kan_5_3152"): "小學唱歌・巻五（明治26年／1893）",
+    ("izawa_shogaku_shoka", "kan_6_3153"): "小學唱歌・巻六（明治26年／1893）",
     ("hyojun_shoka_gakushucho", "grade_1"): "標準唱歌學習帖・第一學年 兒童用",
     ("hyojun_shoka_gakushucho", "grade_2"): "標準唱歌學習帖・第二學年 兒童用",
     ("hyojun_shoka_gakushucho", "grade_3"): "標準唱歌學習帖・第三學年 兒童用",

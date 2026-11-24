@@ -58,8 +58,8 @@ title = 君が代
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kimi_ga_yo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDY4RwcX5pUXJqfEFieqpVgIGJRSK6FNyo-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJDelFhWDXQtxRElRYh7EDKAgQhVQU3pmnlVufl5SKdAxyBIlGfnpRYkFGZVWGZnFINOTE3PisxPzkHxRkpEK9HZqSmlyIsRYLS2FpxNmP27sebJ7sYKWFpeirYKZJZe9rYIzl42JvokdF5e-loIttQCXgoJCSWZJTqqCLcJakCDYQiANsR7IgFgOZDzZ1_Zs14T3e2Y9buh7OmXjs7U9T3dMe9zQr2FkYGSgZ2BgpmdgYWKsqfB8zZonOxqetnUpFOgZGis82dH1tLfr5YJGBY1nfc3P-vtBTFCU6mUVpGuCDH6xYsaLtXOABj_r7H7W1fJk15Tn22eBRTqetm40NHy6of_5-ob3e3pezmx5umf70z0bQTpmzlco0FHITdNRSHu_pxNkDtBFL1bOA5oD4jxuWvu4ef7jpjWPm1c8bu5XeNzcCGZ1P25eAmcDVW193LTtcfOax01LHjdtf9zcB9ELVNL_uHn24-aOx81dj5tXPW5uA4pufty0EajkcfOCx007HzfPe9zcDlJOeWxAgYKWPheXd2ZupntiZL5VWD4w1TjUGNRUgyxRsDE00wLHgwIwHQB9B_TRfCC9BkivAGKwD6FsoL-al6DwgQaDdNYoVBfUKhgp6IKhIZSG8Y2hdI2CKZoITAUMAs3JTauFS8OUmyHxQewaBaM4qJA5FiVgkxA-2grE24CuBfqoCej6pu1Adh-EDfbdbCDuAOIuIF4FxG0IX-FyCJJ7gc41hDkG7iq4CAkegyiDqYCFjmk8ukkIj20G4o0QzzQvALJ3Aul5QNyO8ADMAkwnIlyGKYfpLGQRkBMxIo6rlotL104BlsgUgGxlLgA)]
-- [鋼琴伴奏 TMD 檔案](kimi_ga_yo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAwsUDIlGSk5qZapaaUJieWZObnKXFpaSk8nTD7cWPPk92L3-_peNm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKZpZc9rYKzlw2Jvomdlxc-loKttQCXAoKCiWZJTmpCrYE3AJSCXYFkIa4CciAuAjIeLKv7dmuCe_3zHrc0Pd0ysZna3ue7pj2uKFfw8jAyEDPwMBMz8DCxFhT4fmaNU92NDxt61Io0DM0Vniyo-tpb9fLBY0KGs_6mp_194OYoFDTyypI1wQZTLkXoUBBS5-LyzszN9M9MTLfKiwfGHMONQY11SBLFGwMzbTA_lCoUaguqFUwUtAFQ0MoDeMbQ-kaBVM0EZgKGASak5tWC5eGKTdD4oPYNQpGcVAhcyxKwCZB3YXLKCQbgRYawoyDmwsXIcFpEGUwFTD_mcajmwR1GkwrpuUIOzHlMC1EFgFZjhGoXLVIcRiQmZiXH-SBOxbN4rVhJpjGa8PiEknUUBsRoeZAYW2YUxASQI0gGQzvgIMQoQxdtzY8SIBshAeBarTNteEhAOZi0YRiGiyQibAMyXmgCNY204aHOoq9KDKk-wnVeeCwhWsCewtkHyjc0G1A-ARuFm5HItyFWw0eV-GKBKToR7gLI1n54ElWRjB_GcIYcBGzeBgLFCyYonCFaIGOUIHQZQJnwe1BNtQYi_EIWXjOxCKHEENyBQ5HYFVL2MVIDsESSghZuKFQ5yJMwGY-wgnE247NRMxYACUAXTsFWBpQALKVuQA)]
+- [主旋律 TMD 檔案](kimi_ga_yo.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDY4RwcX5pUXJqfEFieqpVgIGJRSK6FNyo-Lz8ktSk_PxshIqCovyy1LzEPKCq3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJDelFhWDXQtxRElRYh7EDKAgQhVQU3pmnlVufl5SKdAxyBIlGfnpRYkFGZVWGZnFINOTE3PisxPzkHxRkpEK9HZqSmlyIsRYLS2FpxNmP27sebJ7sYKWFpeirYKZJZe9rYIzl42JvokdF5e-loIttQCXgoJCSWZJTqqCLcJakCDYQiANsR7IgFgOZDzZ1_Zs14T3e2Y9buh7OmXjs7U9T3dMe9zQr2FkYGSgZ2BgpmdgYWKsqfB8zZonOxqetnUpFOgZGis82dH1tLfr5YJGBY1nfc3P-vtBTFCU6mUVpGuCDH6xYsaLtXOABj_r7H7W1fJk15Tn22eBRTqetm40NHy6of_5-ob3e3pezmx5umf70z0bQTpmzlco0FHITdNRSHu_pxNkDtBFL1bOA5oD4jxuWvu4ef7jpjWPm1c8bu5XeNzcCGZ1P25eAmcDVW193LTtcfOax01LHjdtf9zcB9ELVNL_uHn24-aOx81dj5tXPW5uA4pufty0EajkcfOCx007HzfPe9zcDlJOeWxAgYKWPheXd2ZupntiZL5VQGZiXr5DjUFNNcgSBRtDMy1wPCgA0wHQd0AfzQfSa4D0CiAG-xDKBvqreQkKH2gwSGeNQnVBrYKRgi4YGkJpGN8YStcomKKJwFTAINCc3LRauDRMuRkSH8SuUTCKgwqZY1ECNgnho61AvA3oWqCPmoCub9oOZPdB2GDfzQbiDiDuAuJVQNyG8BUuhyC5F-hcQ5hj4K6Ci5DgMYgymApY6MBk4AYh_LUZiDdC_NK8AMjeCaTnAXE7wv0w8zFdiHAYphymq5BFQC7EiDeuWi4uXTsFWBpTALKVuQA)]
+- [鋼琴伴奏 TMD 檔案](kimi_ga_yo_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAwsUDIlGSk5qZapaaUJieWZObnKXFpaSk8nTD7cWPPk92L3-_peNm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKZpZc9rYKzlw2Jvomdlxc-loKttQCXAoKCiWZJTmpCrYE3AJSCXYFkIa4CciAuAjIeLKv7dmuCe_3zHrc0Pd0ysZna3ue7pj2uKFfw8jAyEDPwMBMz8DCxFhT4fmaNU92NDxt61Io0DM0Vniyo-tpb9fLBY0KGs_6mp_194OYoFDTyypI1wQZTLkXoUBBS5-LyzszN9M9MTLfKiAzMS_focagphpkiYKNoZkW2B8KNQrVBbUKRgq6YGgIpWF8Yyhdo2CKJgJTAYNAc3LTauHSMOVmSHwQu0bBKA4qZI5FCdgkqLtwGYVkI9BCQ5hxcHPhIiQ4DaIMpgLmP9N4dJOgToNpxbQcYSemHKaFyCIgyzEClasWPQ6DPHDHolm8NswE03htWFwiiRpqIyLUHCisDXMKQgKoESSD4R1wECKUoevWhgcJkI3wIFCNtrk2PATAXCyaUEyDBTIRliE5DxTB2mba8FBHsRdFhnQ_oToPHLZwTWBvgewDhRu6DQifwM3C7UiEu3CrweMqXJGAFP0Id2EkKx88ycoI5i9DGAMuYhYPY4GCBVMUrhAt0BEqELpM4Cy4PciGGmMxHiELz5lY5BBiSK7A4Qisagm7GMkhWEIJIQs3FOpchAnYzEc4gXjbsZmIGQugBKBrpwBLAwpAtjIXAA)]
 
 ## 分析
 
@@ -70,10 +70,10 @@ title = 君が代
 ⏱  Duration:       0:38 (38.3s), 11 measures total
 🎼 Key & Tempo:    首調基準 C, != 69.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    G3 (MIDI 55) – D5 (MIDI 74) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
-   - 最低音:  G3 in [KimiGaYo #1 @ m.8, 0:26]
+🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
+   - 最低音:  C4 in [KimiGaYo #1 @ m.1, 0:00]
    - 最高音: D5 in [KimiGaYo #1 @ m.4, 0:10]
-   - 適合: mezzo-soprano, contralto, tenor, baritone, bass
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      KimiGaYo (38.3s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
@@ -111,7 +111,7 @@ title = 君が代
      B  : ██                         2.3%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : G3 – D5 (19 個半音 / 1.6 個八度, 40 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 40 個音符)
 ================================================================================
 ```
 

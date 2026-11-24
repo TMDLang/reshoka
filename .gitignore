@@ -17,3 +17,4 @@ docs/**/*.wav
 docs/**/*.mid
 docs/**/*.pdf
 *.musicxml
+.tmp_*

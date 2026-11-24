@@ -65,8 +65,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yoru_no_kai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGRCboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQhVQU3pmnlVJYibQBSBXlCfG5yZm5uUk5qUgqyrJyE8vSizIqLTKyCwGWZWcmBOfnZiXiFBUkpEKDKHUlNLkRIgdWloKT5fMedy47sWmue_3dADZT3Z2g9mdClpaXIq2ChYmXPa2Ck46XDYm-iZ2IJOetu96MXPq-z2zXkxe83J2G1DbsxlrjfSA0BCoDWzZ44aup1M2Plvb83THtMcN3UAlRgZGBnoGBmZ6BhYmxkBloJjQyypIV-Li0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6IoXK-c9bV3xbFo7yIsbep-1dyrA7Ac6BegTkLYXq_Y_a1gO0tDd-2LmfKDo0yWdj5vXAsUVgF5XAAoDtTslAQNsOYpYJ1j3it0vVswAatKAhIqmgr4CJEy4QNJPdjQ8bmgEsR43LXnctPdx80yFx819QN7Ox81dQGY3kLnscXPr4-ZFj5vXAAXawIqbVzxuXg1R2dz1uHk-RGUzUOVKoARYrglITQKphGhoedy0FqphElhuFZC1CagMaO5ksClNa4C6IYqBRoKMA0qDjFwIpOYDbQZSvY-bF0BsBtqzGeKFXT0wLzSueNy4-3FjL5DV9rhx1ePGDY-bOoGc6cCE9LhxM5C1BIggSoGy-4HUOrB0U-fjxp1AtwDd29j7uLEfLA8UbJoMUdz0uHEiUBpoKEhqLthUsOJ9jxuBrmvqB5r-uHEZRDHQtt1Qk_eDpRv7HzcBvQNyHdBpMH1gd1CesqBAQUufiysyv6jUL987MdMqIDMxL9-hxqCmGmSLgo2Flh2YUZ1bUAtm1CiYKuiCoRkQg9g1CsZA0ljBSMEQSBvBRUyBKkDyxkCyBqzaMA4sqKtgAFIENQ4oiG4eWAhMYIoZxSkYw6VrQFyQXqAQmIVsMFgZWArMAsvDrQNSILNBGFkM1b1QQVRjUSQg-g2gfgX5GhQKQGcBSSOwSSClRiA7oNpAEGJcLReXrp0CPOgVgBxlLgA)]
-- [鋼琴伴奏 TMD 檔案](yoru_no_kai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAwMkHIlGSk5qZapaaUJieWZObnKXFpaSk8XTLnceO6F5vmvt_TAWQ_2dkNZD9u3v2ye8_zCVue7NnydGn_886O93s6FbS0uBRtFSxMuOxtFZx0uGxM9E3sQGY_bd_1YubU93tmvZi85uXsNqBBz2asNdIDQkOgNrD1jxu6nk7Z-Gxtz9Md0x43dAOVGBkYGegZGJjpGViYGAOVgVyql1WQrsTFFZlfVOqX752YaRWQmZiXH-ThUGNQU82lAAQ2Flp2YEZ1bkEtmFGjYKhtqqALhobaZmASxAeJGwNpYwUjBUMgbR6vbYQkbKpgBlVoDGSDRMFa44AcCNMApBhqg7E2UAKbFVAJKIVVDkgYAU3VNoZyQFKm2kAhkGlAQSgb2TqoYqg0mA1VheQUIAWzD0Siy6D7DGwcRAWyVYbaJujSMPMMwGEECg5QeIECsQZMGgHNBQUmNNSNQA6O14aogkGIFbUYUemDHJUmsKhExGQ80Kh4BRMgBjLhfDMgBtFgAWOwHJCsgakDUQYIH4HUAsWQTEDjwbQDmUYQg9F1Q8gasMVApejuwWs_kiC6H4zBfjCC-hAkCsQQNVAmiAEyChhyunYK8MBTQOcocwEA)]
+- [主旋律 TMD 檔案](yoru_no_kai.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDC4RwcX5pUXJqfEFieqpVgIGRCboM3KT4vPyS1KT8_GwMFRn5RYmZ8WB1xRmlCOmCovyy1LzEPKCS3MS80uLkosyCkvjk_IJKhJrUssyUVJCK1JTMkvyizMQcJBenFhWD_QJxYklRYh7EDKAgQhVQU3pmnlVJYibQBSBXlCfG5yZm5uUk5qUgqyrJyE8vSizIqLTKyCwGWZWcmBOfnZiXiFBUkpEKDKHUlNLkRIgdWloKT5fMedy47sWmue_3dADZT3Z2g9mdClpaXIq2ChYmXPa2Ck46XDYm-iZ2IJOetu96MXPq-z2zXkxe83J2G1DbsxlrjfSA0BCoDWzZ44aup1M2Plvb83THtMcN3UAlRgZGBnoGBmZ6BhYmxkBloJjQyypIV-Li0tdSsKUW4FJQUHjaN__Z7B0vNre_WNH1oqMd6IoXK-c9bV3xbFo7yIsbep-1dyrA7Ac6BegTkLYXq_Y_a1gO0tDd-2LmfKDo0yWdj5vXAsUVgF5XAAoDtTslAQNsOYpYJ1j3it0vVswAatKAhIqmgr4CJEy4QNJPdjQ8bmgEsR43LXnctPdx80yFx819QN7Ox81dQGY3kLnscXPr4-ZFj5vXAAXawIqbVzxuXg1R2dz1uHk-RGUzUOVKoARYrglITQKphGhoedy0FqphElhuFZC1CagMaO5ksClNa4C6IYqBRoKMA0qDjFwIpOYDbQZSvY-bF0BsBtqzGeKFXT0wLzSueNy4-3FjL5DV9rhx1ePGDY-bOoGc6cCE9LhxM5C1BIggSoGy-4HUOrB0U-fjxp1AtwDd29j7uLEfLA8UbJoMUdz0uHEiUBpoKEhqLthUsOJ9jxuBrmvqB5r-uHEZRDHQtt1Qk_eDpRv7HzcBvQNyHdBpMH1gd1CesqBAQUufiysyv6jUL987MdMqIDMxL9-hxqCmGmSLgo2Flh2YUZ1bUAtm1CiYxivogqEZiAHm1SgYgyggYRSvYAhiAmm4MFAJUClYIZAPpGsgWg2hMroKBiDFUOMNsZgOEgNhTDEjBWOoXA2QDdJnDKaRTQSpAImDaJAczA5DiHlgAiGG6U6IOKqZKBJQEwwQPgX7GxIWQHeBaSAJMRWkC8gB2ggzAwQhhtdycenaKcCjQwHIUeYCAA)]
+- [鋼琴伴奏 TMD 檔案](yoru_no_kai_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAwMkHIlGSk5qZapaaUJieWZObnKXFpaSk8XTLnceO6F5vmvt_TAWQ_2dkNZD9u3v2ye8_zCVue7NnydGn_886O93s6FbS0uBRtFSxMuOxtFZx0uGxM9E3sQGY_bd_1YubU93tmvZi85uXsNqBBz2asNdIDQkOgNrD1jxu6nk7Z-Gxtz9Md0x43dAOVGBkYGegZGJjpGViYGAOVgVyql1WQrsTFFZlfVOqX752YaRWQmZiXH-ThUGNQU82lAAQ2Flp2YEZ1bkEtmFGjYBivbRqvoAuGQLYZiA0TA8sag1hAwigeyAMyzePjtYFsZFmgYqA-mC6gEJAGy0JMA3FhHAOQRqjVxvHahjhthkpCKZzyhgpGQOO1jcFMkDiQYwQ20hjGRLYSqhQqC2JCFSG5xhDZNjCNLonVm2BTIcqQbQRKm2CqQJhsAA09SBiBgxMS0jVQGkgCRSGhDosqoBjIL0CzoFpgEGJzLUYq8EFOBSawVICUCECmKZgAMdhmKN8MiEE0WABoD4SsgakDUQZIHgX5wQTZBDQeTDuQCfQAyGB03RCyBmwxUCm6e_DajySI7gdjsB-MoL6BYogaKBPEABkFDDldOwV44Cmgc5S5AA)]
 
 ## 分析
 
@@ -77,10 +77,10 @@ tmd_source:
 ⏱  Duration:       0:45 (45.7s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 84.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A#4 (MIDI 70) – D6 (MIDI 86) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  A#4 in [YoruNoKai #1 @ m.2, 0:04]
-   - 最高音: D6 in [YoruNoKai #1 @ m.7, 0:18]
-   - 適合: soprano, tenor
+🎤 人聲音域:    A#3 (MIDI 58) – D5 (MIDI 74) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#3 in [YoruNoKai #1 @ m.2, 0:04]
+   - 最高音: D5 in [YoruNoKai #1 @ m.7, 0:18]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      YoruNoKai (45.7s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
@@ -118,7 +118,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : A#4 – D6 (16 個半音 / 1.3 個八度, 64 個音符)
+  - Piano         : A#3 – D5 (16 個半音 / 1.3 個八度, 64 個音符)
 ================================================================================
 ```
 

@@ -13,7 +13,7 @@
    Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P084.jpg (Notebook 2, p.16)
    ========================================================================= */
 
-KuninNoKuronbo_Intro:Vocal@|0|{
+KuninNoKuronbo_Intro:Piano@|0|{
     <2*>
     | 0 | 0 | 0 | 0 |
 }
@@ -28,7 +28,7 @@ KuninNoKuronbo_Intro:PianoLH@|0|{
     | 2_ 1 | 2_ 6__ | 5_ 5__ | 1_ 0 |
 }
 
-KuninNoKuronbo_A:Vocal@|0|{
+KuninNoKuronbo_A:Piano@|0|{
     <16*>
     | {mp} 2 - 3 - 2 - 1 - | 2 - 3 - 2 - 6_ 6_ |
     /* @Vocal:   く に ん の く ろ ん ぼ が */
@@ -58,7 +58,7 @@ KuninNoKuronbo_A:PianoLH@|0|{
     | 5_ 5_ | 6_ 4_ | 1 3_ | 5_ 1_ |
 }
 
-KuninNoKuronbo_Outro:Vocal@|0|{
+KuninNoKuronbo_Outro:Piano@|0|{
     <2*>
     | 0 | 0 | 0 | 0 |
 }

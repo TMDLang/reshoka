@@ -46,7 +46,7 @@ title = 屋島合戰
 來源：『唱歌帖』(2020.006.0843) 第一冊 p.11 (掃描頁 P045.jpg)
 記譜：手抄五線譜（下半頁被 P046.jpg 夾頁遮蓋，可見前3行共12小節）
 歌詞：
-フネニアル ヘイケハ アオキハタヲ ナビカシ
+フネニアル ヘイケハ アカキハタヲ ナビカシ
 クガニアル ゲンジハ シロキハタヲ サシタテ
 タタカイヲ イドミアフ ユーグレノ ヤシマ
 ```
@@ -59,8 +59,8 @@ title = 屋島合戰
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](yashima_gassen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDY4RwcX5pUXJqfEFieqpVgIGJKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVWkeyKCSzLTM1BRkyZKM_PSixIKMSquMzGKQDcmJOfHZiXmJCEUlGalAn6emlCYnQozW0lJ4urH76eZtTyd0POvYoKClxaVoq2BpxmVvq-DGZWOib2LHxaWvpWBLLcCloKBQklmSk6pgi2IzSBxsJ5CGuADIgNgPZDzZ1_Zs14T3e2Y9buh7OmXjs7U9T3dMe9zQr2FkYGSgZ2BgpmdgYWKsqfB8zZonOxqetnUpFOgZGipoPOtrftbf_3JBowIoRvWyCtI1Qca9WDHjxdo5QOOedXY_62p5smvK8-2zwCIdT3Z0P-3tAup4sWg1SJMZSJPC0yX7gEIvG9e9mNz9fk_P0_71L5Z1P-3sNX6xsOdp60ZDo6cb-p-vb3i_pxNkPNB5L1bOAxoP4jxunvq4ufdxc_fjpkWPm1cD-TMeNy153LTxcXO_AkisadXjprVAzuOm_Y-bNwHlux43T37ctPpx03aw_qb1j5vWIOlv2vS4efPjph0Q_dsfN69F1d-0FSQK4rRB9O8HI6B5SyDyQKrzcfN8sHlTgfYte9y853HThsfNQFv6gHyg44CmzgNppjy-oUBBS5-LKzKxOCMzN9E9sbg4Nc8qLB-YPh1qDGqqQTYp2BiaaYHjWgGY3CAO6wXiblAYAWlwwIEcD8QbgWxw2AHxKiBeC-XvB9LgAATiyUA-KLC2g2wGmVqjYBqvoItEwKAZXMQYRGCoMwRiIyT1IFijYIwkA2LDVMCNrgFLIzQbYxoC923TeiBeg-rbJpBPNgPpHVDfbQfSQJ-i-7ZpK0QOzG-j2LdgUSOYDkOEb8BiYAKsBAbBImBlYBYwYOBGIawChQIOnwNdDcYgHwPjFpJAgXQnEM-HhgYskQK5G4BMUECB0yk0UOYhPG0GshZkK7KPoXxQLEFUgHgg2jAORqDGrRGGOIYuhEGwyMf0Yy0Xl66dAkqiVwAKKHMBAA)]
-- [鋼琴伴奏 TMD 檔案](yashima_gassen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAwMUXIlGSk5qZapaaUJieWZObnKXFpaSk83dj9dPO2pxM6nnVseL-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqWJpx2dsquHHZmOib2HFx6Wsp2FILcCkoKJRkluSkKtgSdg5IMdghQBriLCAD4igg48m-tme7JrzfM-txQ9_TKRufre15umPa44Z-DSMDIwM9AwMzPQMLE2NNhedr1jzZ0fC0rUuhQM_QUEHjWV_zs_7-lwsaFUAhppdVkK4JMo5yv0GBgpY-F1dkYnFGZm6ie2JxcWqeVVg-MOocagxqqkE2KdgYmmmBvaBQo2Aar6CLRMCgGVzEGERgqDMEYiMk9SBYo2CMJANiw1TAja4BSyM0G2MaQpm7wKJGMB2GCHvBYmACrAQGwSJgZWAW0AtwoxBWgdyLzY1mIFUgRcgOhPJB3oeoAPFAtGEcjEANNCMMcQxdCINgoYrppFr0SA_ITMzLD_LAHu2G2sbaMGcTw8atwzxe2wjOQfiKKOUoHFQ9ZvHahtomeO2guldQ7ARzQMEN0WMarw1yBZSPykOoQzEB1SIUPyB0YPrGRBsU2RBVyGzcvsGjQxtbgiPKCoQ4qhUE_YE9IfogJ0QTRDqMB2UxCAnmAfMfkGkaD-VC2TBZE4QsHgOAqszABkC1QjSCywqQCDi7w_QDJUwgYkCNyFywecBCASgC0w-xHaod6E1dOwUUnyoABZS5AA)]
+- [主旋律 TMD 檔案](yashima_gassen.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDY4RwcX5pUXJqfEFieqpVgIGJKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVWkeyKCSzLTM1BRkyZKM_PSixIKMSquMzGKQDcmJOfHZiXmJCEUlGalAn6emlCYnQozW0lJ4urH76eZtTyd0POvYoKClxaVoq2BpxmVvq-DGZWOib2LHxaWvpWBLLcCloKBQklmSk6pgi2IzSBxsJ5CGuADIgNgPZDzZ1_Zs14T3e2Y9buh7OmXjs7U9T3dMe9zQr2FkYGSgZ2BgpmdgYWKsqfB8zZonOxqetnUpFOgZGipoPOtrftbf_3JBowIoRvWyCtI1Qca9WDHjxdo5QOOedXY_62p5smvK8-2zwCIdT3Z0P-3tAup4sWg1SJMZSJPC0yX7gEIvG9e9mNz9fk_P0_71L5Z1P-3sNX6xsOdp60ZDo6cb-p-vb3i_pxNkPNB5L1bOAxoP4jxunvq4ufdxc_fjpkWPm1cD-TMeNy153LTxcXO_AkisafXjprVAzuOm_Y-bNwHlux43TwaLbgfrb1r_uGkNkv6mTY-bNz9u2gHRv_1x81pU_U1bQaIgThtE_34wApq3BCIPpDofN88HmzcVaN-yx817HjdteNwMtKUPyAc6DmjqPJBmyuMbChS09Lm4IhOLMzJzE90Ti4tT86wCMhPz8h1qDGqqQTYp2BiaaYHjWgGY3CAO6wXiblAYAWlwwIEcD8QbgWxw2AExKEDWQvn7gTQ4AIF4MlRuO8hmkKk1CqYKunAMg2ZQvjEQo6owBGIjJJUgWANWB5MBsWEqTOPhSkDSCM3GmIbAPdm0HojXoHqyCeSBzUB6B9RT24E00IPonmzaCpED89vI9SSyF0BuhvgAJALzIAyC-DBfQYIBpB9mMkwvFj8C3QfGIL8BIw-SAoF0JxDPh_oblgqB3A1AJihIwAkR6v15CO-BLIRZit17MB6INoyDEaixaIQhjqELYRAsjDD9WMvFpWungJKqFYACylwA)]
+- [鋼琴伴奏 TMD 檔案](yashima_gassen_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAwMUXIlGSk5qZapaaUJieWZObnKXFpaSk83dj9dPO2pxM6nnVseL-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqWJpx2dsquHHZmOib2HFx6Wsp2FILcCkoKJRkluSkKtgSdg5IMdghQBriLCAD4igg48m-tme7JrzfM-txQ9_TKRufre15umPa44Z-DSMDIwM9AwMzPQMLE2NNhedr1jzZ0fC0rUuhQM_QUEHjWV_zs_7-lwsaFUAhppdVkK4JMo5yv0GBgpY-F1dkYnFGZm6ie2JxcWqeVUBmYl6-Q41BTTXIJgUbQzMtsBcUahRMFXThGAbNoHxjIEZVYQjERkgqQbAGrA4mA2LDVJjGw5WApBGajTENIcs5yJaBTIfYBRKBOQUGQXyY_RAHg_TDTIbpRXcNSB6mBrtrYDwQbRgHI1CDxwhDHEMXwiCYlzCdVIs1VoM8sMerobaxNszZxLBx6zCP1zaCcxC-Iko5CgdVj1m8tqG2CV47qO4VFDvBHFgaAaareG2QK6B8VB5CHYoJqBah-AGhA9M3JtqgyIaoQmbj9g0eHdrYEhxRViDEUa0g6A_sCdEHOSGaINJhPKgYgJBgnjGYaRoP5ULZMFkThCweA4CqzMAGQLVCNIK4YBEgFxHeQAkTiBhQIzIXbJ4RWCdMP8R2qHagN3XtFFB8qgAUUOYCAA)]
 
 ## 分析
 
@@ -71,10 +71,10 @@ title = 屋島合戰
 ⏱  Duration:       0:30 (30.0s), 12 measures total
 🎼 Key & Tempo:    首調基準 F, != 96.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F3 (MIDI 53) – G5 (MIDI 79) [跨度: 26 個半音 / 2.2 個八度, 難度: difficult]
-   - 最低音:  F3 in [YashimaGassen #1 @ m.6, 0:14]
+🎤 人聲音域:    C4 (MIDI 60) – G5 (MIDI 79) [跨度: 19 個半音 / 1.6 個八度, 難度: challenging]
+   - 最低音:  C4 in [YashimaGassen #1 @ m.3, 0:06]
    - 最高音: G5 in [YashimaGassen #1 @ m.11, 0:25]
-   - 適合: mezzo-soprano, baritone
+   - 適合: soprano, mezzo-soprano, tenor, baritone
 🏛  結構:      YashimaGassen (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
@@ -112,7 +112,7 @@ title = 屋島合戰
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : F3 – G5 (26 個半音 / 2.2 個八度, 67 個音符)
+  - Piano         : C4 – G5 (19 個半音 / 1.6 個八度, 67 個音符)
 ================================================================================
 ```
 

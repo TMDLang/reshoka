@@ -1,17 +1,13 @@
 X:1
 T:近眼のしくじり
-C:曲：不詳 (大正十三年二月十一日 邱氏より抄)
+C:曲：梁田貞
 M:4/4
 L:1/16
 Q:1/4=108
-K:A
-V:V1 name="Melody" snm="Mel"
+K:C
+V:V1 name="Piano" snm="Pia"
 [V:V1]
-!mf! E4 E4 A4 A4 | B8 c4 z4 | E4 E4 A4 A4 | B12 z4 |
-a4 f4 e4 c4 | e4 e4 B8 | c4 e4 e4 f4 | e12 z4 |
-f4 a4 f4 f4 | e4 e4 c8 | e4 f4 e4 c4 | B12 z4 |
-c4 B4 c4 B4 | c4 c4 B4 c4 | e8 c4 A4 | e12 z4 ||
-e4 f4 f4 e4 | a4 a4 f4 e4 | b4 b4 b4 c'4 | b12 z4 |
-c'4 c'4 b4 b4 | a4 a4 f4 f4 | b4 b4 a4 f4 | b8 ^d'8 |
-c'4 ^d'4 a4 f4 | e4 e4 c8 | e4 f4 e4 c4 | B12 z4 |
-c4 A4 e4 c4 | f4 f4 e4 c4 | e4 a4 c'4 b4 | a12 z4 |]
+G2 c2 c4 d4 e4 | G2 G2 c2 c2 d8 | c2 A2 G2 E2 G2 G2 D4 | E2 G2 G2 A2 G8 |
+A2 c2 A2 A2 G2 G2 E4 | G2 A2 G2 E2 D8 | E2 D2 E2 D2 E2 E2 D2 E2 | G2 G2 E2 C2 G8 |
+G2 A2 A2 G2 c2 c2 c2 G2 | d2 d2 d2 e2 d8 | e2 e2 d2 d2 c2 c2 A4 | d2 d2 c2 A2 d4 ^d4 |
+e2 e2 c2 A2 G2 G2 E4 | G2 A2 G2 E2 D8 | E2 C2 G2 E2 A2 A2 G2 E2 | G2 c2 e2 d2 c8 |]

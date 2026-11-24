@@ -347,6 +347,10 @@ BOOK_LABELS: dict[str, str] = {
     "shintei_jido_shoka/koto_boys_2020.006.0848": "《新定兒童唱歌》高等科男子用（2020.006.0848）",
     "shintei_jido_shoka/koto_girls_2020.006.0849": "《新定兒童唱歌》高等科女子用（2020.006.0849）",
     "utanohon/ge_2006.006.0878": "《うたのほん》（唱歌課本）下卷（2006.006.0878）",
+    "izawa_shogaku_shoka/kan_1_855321": "《小學唱歌》巻一（明治25年／1892）",
+    "izawa_shogaku_shoka/kan_4_3151": "《小學唱歌》巻四（明治26年／1893）",
+    "izawa_shogaku_shoka/kan_5_3152": "《小學唱歌》巻五（明治26年／1893）",
+    "izawa_shogaku_shoka/kan_6_3153": "《小學唱歌》巻六（明治26年／1893）",
     "kyoeki_shoka/kan_1_854862": "《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）",
     "kyoeki_shoka/kan_2_854863": "《共益商社唱歌教科書》卷二・教師用（明治33年／1900）",
     "kyoeki_shoka/kan_3_854864": "《共益商社唱歌教科書》卷三・教師用（明治33年／1900）",
@@ -364,6 +368,7 @@ BOOK_LABELS: dict[str, str] = {
 # corpus on disk is not chronological, so the display layer must not sort by
 # `rel_dir` when showing where a song appears.
 PUBLICATION_YEAR_BY_BOOK: dict[str, int] = {
+    "izawa_shogaku_shoka": 1892,
     "kyoeki_shoka": 1902,
     "taiwan_shuyu_shoka": 1910,
     "jinjo_shogaku_shoka": 1911,

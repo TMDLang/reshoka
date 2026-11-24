@@ -24,7 +24,7 @@ key= Gm
    ・Reference Audio: [大正幼年唱歌チャンネル (YouTube)](https://www.youtube.com/@%E5%A4%A7%E6%AD%A3%E5%B9%BC%E5%B9%B4%E5%94%B1%E6%AD%8C%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
    ========================================================================= */
 
-Taiyo:Vocal@|0|{
+Taiyo:Piano@|0|{
     <8*>
     {mf}
     | 3 3 7_ - | 3 1 7_ - | 3 3 7_ 7_ | 3 1 7_ - |

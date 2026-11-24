@@ -53,8 +53,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](teiseiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGhOboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVUliZnliXnx-WlpmMoop-UUlGfnpRYkFGZVWGZnFIEuSE3PisxPzEhGKSjJSgZ5PTSlNToSYrqWl8LJl7bOOCU-75itoIJi6Cs_mrHq6rgfIfdHb-XzFfk0FLS0uRVsFQwMLLntbBXcuGyN9EzuQwU9b1zxdu-PZgoVPp2x8trbn6Y7NChqgINRRMDIxfLmgUVOJi0tfi0tBQeFp33ygSU-bW1-smPFy_uaXq2c8m7rj6drp7_f0AG0DCj5f3_B0af_TXVOfb5_1oqMdaNqLlfOAsk_2zVUAWqfwrLv32fr-pxv6QQpnz37a0P20dfXTjjagYc_XLHu_p-Np_9KnG_Y93b3t5dTt7_d0vtjb-bKnhUtLn4vLNxEYeGH5wCBxqDGoqQY5R8HGQssOzKhRMI0HIUMFYxAbCI3BLCOgiBlIGMTUBcMaqAaQAiNkRUAEMwbIBJJgHqomiDQEQYwgyh6QcyCKIDai2mII11HLxaVrpwDyqQKQVuYCAA)]
-- [鋼琴伴奏 TMD 檔案](teiseiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAyNEfIlGSk5qZapaaUJieWZObnKXFpaSm8bFn7rGPC0675ChoIpq7Cszmrnq7rAXJf9HY-X7FfEyj0snvP8wlbnuzZ8nRp__PODgUtLS5FWwVDAwsue1sFdy4bI30TO5BVT1vXPF2749mChU-nbHy2tufpjs0KGiB36CgYmRi-XNCoqcTF5ZuYmWcVlg90vEONQU01lwIQ2Fho2YEZNQqm8SBkqGAMYgOhMZhlBBQxAwmDmLpgWAPVAFJghKwIiGDGAJlAEsxD1QSRhiCIEUTZA3IORBHERlRbDOE6aqHeDMhMzMsP8sDqUeN4EAL7FaQVAmFGmoARFoeDFJlD9ECshamEGAdkAkmgE9H1AQXgiETrkBVCnQu3DGwakInV4z7IHjeBe9wQaAbYEVDaRAdoFBAD7QCSIAy3HUMFTARdJZxPgqkgMVTDQFwDiC907RRAHlEA0spcAA)]
+- [主旋律 TMD 檔案](teiseiko.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGhOboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVUliZnliXnx-WlpmMoop-UUlGfnpRYkFGZVWGZnFIEuSE3PisxPzEhGKSjJSgZ5PTSlNToSYrqWl8LJl7bOOCU-75itoIJi6Cs_mrHq6rgfIfdHb-XzFfk0FLS0uRVsFQwMLLntbBXcuGyN9EzuQwU9b1zxdu-PZgoVPp2x8trbn6Y7NChqgINRRMDIxfLmgUVOJi0tfi0tBQeFp33ygSU-bW1-smPFy_uaXq2c8m7rj6drp7_f0AG0DCj5f3_B0af_TXVOfb5_1oqMdaNqLlfOAsk_2zVUAWqfwrLv32fr-pxv6QQpnz37a0P20dfXTjjagYc_XLHu_p-Np_9KnG_Y93b3t5dTt7_d0vtjb-bKnhUtLn4vLNxEYeAGZiXn5DjUGNdUg5yjYWGjZgRk1CqbxIGSoYAxiA6ExmGUEFDEDCYOYumBYA9UAUmCErAiIYMYAmUASzEPVBJGGIIgRRNkDcg5EEcRGVFsM4Tpqubh07RRAPlUA0spcAA)]
+- [鋼琴伴奏 TMD 檔案](teiseiko_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAyNEfIlGSk5qZapaaUJieWZObnKXFpaSm8bFn7rGPC0675ChoIpq7Cszmrnq7rAXJf9HY-X7FfEyj0snvP8wlbnuzZ8nRp__PODgUtLS5FWwVDAwsue1sFdy4bI30TO5BVT1vXPF2749mChU-nbHy2tufpjs0KGiB36CgYmRi-XNCoqcTF5ZuYmWcVkJmYl-9QY1BTzaUABDYWWnZgRo2CaTwIGSoYg9hAaAxmGQFFzEDCIKYuGNZANYAUGCErAiKYMUAmkATzUDVBpCEIYgRR9oCcA1EEsRHVFkO4jlpkbwZ5YPWocTwIgf0K0gqBMCNNwAiLw0GKzCF6INbCVEKMAzKBJNCJ6PqAAnBEonXICqHOhVsGNg3IxOpxH2SPm8A9bgg0A-wIKI1kOSgY0VTBZGF8VFWwGCTOLJDrkWRBHAOIo3XtFEDuVgDSylwA)]
 
 ## 分析
 
@@ -106,7 +106,7 @@ tmd_source:
      B  : ██████████████████        21.9%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 52 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 52 個音符)
 ================================================================================
 ```
 

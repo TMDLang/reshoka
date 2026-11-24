@@ -12,6 +12,7 @@ DUPLICATE_INDEX_JSON = DOCS_ROOT / "duplicate_songs.json"
 DUPLICATE_INDEX_MD = DOCS_ROOT / "duplicate_songs.md"
 
 COLLECTIONS_ORDER: list[tuple[str, str]] = [
+    ("izawa_shogaku_shoka", "小學唱歌（伊澤修二編／明治二十五年至二十六年／1892–1893）"),
     ("kyoeki_shoka", "共益商社唱歌教科書（明治三十五年／1902）"),
     ("taiwan_shuyu_shoka", "臺灣周遊唱歌（明治四十三年／1910）"),
     ("jinjo_shogaku_shoka", "尋常小學唱歌（明治四十四年至大正三年／1911–1914）"),
@@ -27,6 +28,7 @@ COLLECTIONS_ORDER: list[tuple[str, str]] = [
 ]
 
 COLLECTION_TITLES: dict[str, str] = {
+    "izawa_shogaku_shoka": "《小學唱歌》（伊澤修二編）",
     "jinjo_shogaku_shoka": "《尋常小學唱歌》",
     "kogakko_shokashu_1915": "《公學校唱歌集》",
     "shoka_kyozai_shu_1923": "《新編 小學校・公學校 唱歌教材集》",
@@ -77,6 +79,10 @@ VOLUME_TITLES: dict[str, str] = {
     "kan_2_854863": "巻二・教師用（NDL PID 854863）",
     "kan_3_854864": "巻三・教師用（NDL PID 854864）",
     "kan_4_854865": "巻四・教師用（NDL PID 854865）",
+    "kan_1_855321": "巻一（NDL PID 855321，明治25年／1892）",
+    "kan_4_3151": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "kan_5_3152": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "kan_6_3153": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
     "vol_01": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
     "vol_02": "原編第 2 冊・II（2020.006.0843，P065–P112）",
     "vol_03": "原編第 3 冊・I（2020.006.0843，P031–P064）",
@@ -122,6 +128,10 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "kan_2_854863": "巻二（教師用）",
     "kan_3_854864": "巻三（教師用）",
     "kan_4_854865": "巻四（教師用）",
+    "kan_1_855321": "巻一",
+    "kan_4_3151": "巻四",
+    "kan_5_3152": "巻五",
+    "kan_6_3153": "巻六",
     "vol_01": "第 1 冊（選定唱歌筆記帳）",
     "vol_02": "第 2 冊（II）",
     "vol_03": "第 3 冊（I）",
@@ -641,6 +651,10 @@ KOGAKKO_SHOKASHU_1915_BOOK_INFO_EXTRA = """## 館藏詮釋資料（國立臺灣�
 # ---------------------------------------------------------------------------
 
 BOOK_INFO_SEO_TEMPLATES: dict[str, str] = {
+    "izawa_shogaku_shoka": (
+        "明治時期伊澤修二編纂、大日本圖書株式會社出版{col_title}（{vol_title}）"
+        "之封面、扉頁、緒言、目次與版權頁等高解析度原書掃描圖檔（共 {img_count} 頁）。"
+    ),
     "kyoeki_shoka": (
         "明治時期東京共益商社樂器店{col_title}（{vol_title}）之封面、緒言、發音圖解、"
         "目次、演奏注意與版權頁等高解析度原書掃描圖檔（共 {img_count} 頁）。"
@@ -734,6 +748,9 @@ for _vol, _pid in KYOEKI_PID_BY_VOL.items():
     VOLUME_BLOCKQUOTES[("kyoeki_shoka", _vol)] = (
         f"{KYOEKI_COLLECTION_NOTE}（[NDL PID `{_pid}`](https://dl.ndl.go.jp/pid/{_pid})）"
     )
+VOLUME_BLOCKQUOTES[("izawa_shogaku_shoka", "kan_1_855321")] = (
+    "伊澤修二編纂、大日本圖書株式會社於明治二十五年（1892）出版之《小學唱歌》巻一。主為初學生徒口授唱歌之用，收錄〈おほわた〉、〈からす〉等 17 首歌曲，掃描影像取自日本國立國會圖書館 NDL Digital Collections（[NDL PID 855321](https://dl.ndl.go.jp/pid/855321)）。"
+)
 
 _SHOKACHO_RESEARCH_LINK = (
     "- 📄 **[《楊金土手抄唱歌帖》史料整理筆記（含全 10 冊結構與 `P115.jpg` 第 1–6 冊親筆總目錄）](../research_notes.md)**",
@@ -787,6 +804,10 @@ VOLUME_SEO_OVERRIDES: dict[tuple[str, str], str] = {
 }
 
 VOLUME_SEO_TEMPLATES: dict[str, str] = {
+    "izawa_shogaku_shoka": (
+        "明治時期伊澤修二編纂{col_title} {vol_title}全冊數位化曲目總覽"
+        "（共 {song_count} 首），提供五線譜、TMD 樂譜、歌詞檢索及原書掃描圖檔。"
+    ),
     "kyoeki_shoka": (
         "明治時期東京共益商社樂器店{col_title} {vol_title}全冊數位化曲目總覽"
         "（共 {song_count} 首），提供五線譜、TMD 樂譜、歌詞檢索及 NDL 原書掃描圖檔。"
@@ -799,6 +820,7 @@ DEFAULT_VOLUME_SEO_TEMPLATE = (
 )
 
 FLAT_TABLE_FIRST_COL: dict[str, str] = {
+    "izawa_shogaku_shoka": "曲次",
     "jinjo_shogaku_shoka": "課次",
     "kogakko_shoka": "課次",
     "shoka_kyozai_shu_1923": "曲次",
@@ -860,6 +882,9 @@ KOTO_SPECIAL_SECTIONS: dict[tuple[str, str], str] = {
 }
 
 FLAT_NUMBER_FORMATTERS: dict[str, Callable[[str, list[str]], str]] = {
+    "izawa_shogaku_shoka": lambda _, parts: (
+        f"第 {int(parts[0])} 曲" if parts[0].isdigit() else parts[0]
+    ),
     "jinjo_shogaku_shoka": lambda _, parts: (
         "卷首" if parts[0].startswith("0") else (f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0])
     ),

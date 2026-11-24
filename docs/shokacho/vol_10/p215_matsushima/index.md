@@ -63,8 +63,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](matsushima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGhKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWpCFGgUemZeVa5-XlJpUAnYkqkZmZlxpekVpSgujm_qCQjP70osSCj0iojsxjkpOTEnPjsxLxEJS4tLYVnc_c93bxNQQNCaypoaXEp2ioYGplx2dsquHPZmOib2IEMe9q65unaHc8WLHw6ZeOztT1Pd2xW0ACFn46Ckan5ywWNOgrPZqx9OqnH6OnOLYbP5nQYWT6bvlRTiYtLX4tLQUEBqOXFynnv98wCcZ7saHjc0AhiPW7a_7i58XFz1-PmlY-bpyk8bp73uLnlcXPf46a1QMndj5s3P27uBZN9QMn5j5s7HzevAutsXv-4ueFx02qwltVAxavA6kH6gZy9YDN2Pm5aA7QCLNm86HHT9sfNayGagRYCDesHyoDEHjetB1vdtPVx05bHzU0QmbWPm1eA3NW0GqTn-Zx5T3e0PW5eovC8sx3IgtgIVNPxuHk22ICmzY-b1j1uXgbkgH25qwfmy8bJj5t6HjfOe9zY_bhxHVBl1-PG_seNcx43TQZK7nvcuORx43QwAyjZuOpxY8_jpkageojmTUDhx01NjxtXPG4EehQkvwBsUi-QMxVoxuPGiY8bWyCagYqBypY8buqAa14B5ADtbAMpA7Ea5z9unACWAZoEMgNowLrHjQuBpkPiBKiy93HjMqAM0NK5jxt3Yupp6gT5oAlo4GQuLX0uLt9EYBoMywcmLYcag5pqkDkKNoZmWnZgVo2CgYIuVmgIJo2AKoyhIkZQURCNUGEWD1RiGo-mG2YqpikQ2ljBFMqH0MZAFTBzcZoBdTGl7gGpJ2SKuQ7IGAgb0xSIXhO4i2B-QVdH2G8QcZAKE6gIhDaB8yF2IYcg9vABmkHANQiTcPkL5GsQjRqGMPOJCSF0E2u4arm4dO0UQKlQAUgrcwEA)]
-- [鋼琴伴奏 TMD 檔案](matsushima_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAyNEXIlGSk5qZapaaUJieWZObnKXFpaSk8m7vv6eZtChoQWlNBV-Fl957nE7Y82bPl6dL-550dClpaXIq2CoZGZlz2tgruXDYm-iZ2ICOftq55unbHswULn07Z-Gxtz9MdmxU0QPbpKBiZmr9c0Kij8GzG2qeTeoye7txi-GxOh5Hls-lLNZW4uHwTM_OswvKBLneoMaip5lIAAhtDMy07MKtGwQDoCGzQEEwaAVUYQ0WMoKIgGqHCLB6oxDQeTTfMVExTILSxgimUD6GNgSpg5uI0A-piSt0DUk_IFHMdkDEQNqYpEL0mcBfB_IKujrDfIOIgFSZQEQhtAudD7EIOQezhAzSDgGsQJuHyF8jXIBo1DGHmExNC6CbWcNVCk2BAZmJefpAHaYkQ6gYghbDKHCQGlgA6ExpmEAaQAoYSrqjHZhaENsTg40lBSMZAHU8Vh4EJbGbBHQKzGBzuOA2D-wDNcTjVEeVTTFfEYxMibBixDgP6H5glcBlmhC1Y4TYQGWJwARxp1Qc5rZogJVUQNASnongQMgEaD8JgPsguiDBMGsYDyQDdDVUADwVijACJQDyBKo0wA1kPkkUQTTAWacaA3GMIdRfcbTgcYwAJO107BVDwKSDRylwA)]
+- [主旋律 TMD 檔案](matsushima.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGhKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWpCFGgUemZeVa5-XlJpUAnYkqkZmZlxpekVpSgujm_qCQjP70osSCj0iojsxjkpOTEnPjsxLxEJS4tLYVnc_c93bxNQQNCaypoaXEp2ioYGplx2dsquHPZmOib2IEMe9q65unaHc8WLHw6ZeOztT1Pd2xW0ACFn46Ckan5ywWNOgrPZqx9OqnH6OnOLYbP5nQYWT6bvlRTiYtLX4tLQUEBqOXFynnv98wCcZ7saHjc0AhiPW7a_7i58XFz1-PmlY-bpyk8bp73uLnlcXPf46a1QMndj5s3P27uBZN9QMn5j5s7HzevAutsXv-4ueFx02qwltVAxavA6kH6gZy9YDN2Pm5aA7QCLNm86HHT9sfNayGagRYCDesHyoDEHjetB1vdtPVx05bHzU0QmbWPm1eA3NW0GqTn-Zx5T3e0PW5eovC8sx3IgtgIVNPxuHk22ICmzY-b1j1uXgbkgH25qwfmy8bJj5t6HjfOe9zY_bhxHVBl1-PG_seNcx43TQZK7nvcuORx43QwAyjZuOpxY8_jpkageojmTUDhx01NjxtXPG4EehQkvwBsUi-QMxVoxuPGiY8bWyCagYqBypY8buqAa14B5ADtbAMpA7Ea5z9unACWAZoEMgNowLrHjQuBpkPiBKiy93HjMqAM0NK5jxt3Yupp6gT5oAlo4GQuLX0uLt9EYBoMyEzMy3eoMaipBpmjYGNopmUHZtUoGCjoYoWGYNIIqMIYKmIEFQXRCBVm8UAlpvFoumGmYpoCoY0VTKF8CG0MVAEzF6cZUBdT6h6QekKmmINMgTAxDYFoNYE7COYVdHWEvQYRB6kwgYpAaBM4H2IXcgBiDx6gGQRcgzAJl7-AngZRqCEIM56I8EE3r4arlotL104BlAQVgLQyFwA)]
+- [鋼琴伴奏 TMD 檔案](matsushima_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAyNEXIlGSk5qZapaaUJieWZObnKXFpaSk8m7vv6eZtChoQWlNBV-Fl957nE7Y82bPl6dL-550dClpaXIq2CoZGZlz2tgruXDYm-iZ2ICOftq55unbHswULn07Z-Gxtz9MdmxU0QPbpKBiZmr9c0Kij8GzG2qeTeoye7txi-GxOh5Hls-lLNZW4uHwTM_OsAjIT8_IdagxqqrkUgMDG0EzLDsyqUTAAOgIbNASTRkAVxlARI6goiEaoMIsHKjGNR9MNMxXTFAhtrGAK5UNoY6AKmLk4zYC6mFL3gNQTMsUcZAqEiWkIRKsJ3EEwr6CrI-w1iDhIhQlUBEKbwPkQu5ADEHvwAM0g4BqESbj8BfQ0iEINQZjxRIQPunk1XLXI6S_Ig7QUCHUCkEJYBXYiWALoSmiIQRhAChhGuOIdm1kQ2hCDjyf5IBkDdTxVHAYmsJkFdwiy-3GaBfcAmttwqiPKo9gcgdVdhAwj1mHgtAUNPEw1RthCFW4DcQEGF8CRUn2QU6oJUkIFQUNwGooHIaAjwO4AMoEWQcRgcjAeUALoZIg03P8EdUPCGE0OoRtJPdx8WBzAETG6gQ5AdQk2uw0g4aNrpwAKIgUkWpkLAA)]
 
 ## 分析
 
@@ -85,11 +85,11 @@ tmd_source:
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  G, A, D, B, C
-   - 調性數值:    G 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 97.7%]
-   - 候選調性 (K-S): G 大調 (0.86), D 大調 (0.68), B 小調 (0.52)
+   - 調性數值:    G 大調 [相關度: 0.87, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): G 大調 (0.87), D 大調 (0.71), B 小調 (0.56)
    - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [Main #1]: G 大調 (r: 0.86, 自然音純度: 97.7%, 調外音: F)
+     • [Main #1]: G 大調 (r: 0.87, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -107,8 +107,8 @@ tmd_source:
      D  : ██████████████████        20.9%
      D# :                            0.0%
      E  : █                          1.4%
-     F  : ██                         2.3%
-     F# :                            0.0%
+     F  :                            0.0%
+     F# : ██                         2.3%
      G  : ████████████████████████  28.6%
      G# :                            0.0%
      A  : ██████████████████        21.8%
@@ -116,7 +116,7 @@ tmd_source:
      B  : ████████████████          19.1%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : D4 – D5 (12 個半音 / 1.0 個八度, 66 個音符)
+  - Piano         : D4 – D5 (12 個半音 / 1.0 個八度, 66 個音符)
 ================================================================================
 ```
 

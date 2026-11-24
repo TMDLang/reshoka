@@ -5,15 +5,15 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 
 # 資料來源與各冊導覽
 
-本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **42 冊、1,461 首（次）曲目**。
+本專案目前已收錄日治時期臺灣與日本唱歌教材、手抄筆記本及《共益商社唱歌教科書》，共計 **48 冊、1,549 首（次）曲目**。
 
 ## 資料索引與延伸閱讀
 
 - 🧭 [日治時期臺灣公學校唱歌教材的流動與變化](shoka_genealogy.md)
-- 🔍 [全站歌曲去重統計（1,007 首不重複歌曲、268 組重複歌曲）](duplicate_songs.md)
-- 🔍 [同一歌名的多個版本（112 組）](same_title_songs.md)
-- 🔍 [同詞異曲歌曲（10 組）](same_lyrics_songs.md)
-- 🔍 [同曲異詞歌曲（18 組）](same_melody_songs.md)
+- 🔍 [全站歌曲去重統計（1,043 首不重複歌曲、275 組重複歌曲）](duplicate_songs.md)
+- 🔍 [同一歌名的多個版本（122 組）](same_title_songs.md)
+- 🔍 [同詞異曲歌曲（22 組）](same_lyrics_songs.md)
+- 🔍 [同曲異詞歌曲（9 組）](same_melody_songs.md)
 - 📜 [〈懸賞募集 公學校唱歌教材入選歌詞〉與作詞者名單](kogakko_shoka/lyrics_contest/index.md)
 - 📊 [《尋常小學唱歌》專題統計](jinjo_shogaku_shoka/index.md)
 - 📊 [《公學校唱歌》專題統計](kogakko_shoka/statistics.md)
@@ -72,6 +72,8 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 | 《共益商社唱歌教科書》 | [卷二（教師用）](kyoeki_shoka/kan_2_854863/index.md) | 共益商社樂器店編（1902） | NDL `854863` | 18 首 | [書訊與原書掃描頁](kyoeki_shoka/kan_2_854863/0_book_info/index.md) |
 | 《共益商社唱歌教科書》 | [卷三（教師用）](kyoeki_shoka/kan_3_854864/index.md) | 共益商社樂器店編（1902） | NDL `854864` | 19 首 | [書訊與原書掃描頁](kyoeki_shoka/kan_3_854864/0_book_info/index.md) |
 | 《共益商社唱歌教科書》 | [卷四（教師用）](kyoeki_shoka/kan_4_854865/index.md) | 共益商社樂器店編（1902） | NDL `854865` | 19 首 | [書訊與原書掃描頁](kyoeki_shoka/kan_4_854865/0_book_info/index.md) |
+| 《新編 小學校・公學校 唱歌教材集》 | [全四卷合訂／分冊（大正十二年版）](shoka_kyozai_shu_1923/index.md) | 一條慎三郎編、臺北杉田書店發行（1923） | 國臺圖 `0725-41` | 201 首 | [書訊與各卷總覽](shoka_kyozai_shu_1923/index.md) |
+| 《臺灣の歌》 | [全一冊（御大典記念事業・昭和四年版）](taiwan_no_uta/index.md) | 臺灣教育會編（1929） | 國臺圖 `0786 8` | 12 首 | [書訊與各曲試聽](taiwan_no_uta/index.md) |
 
 ## 臺灣在地題材
 

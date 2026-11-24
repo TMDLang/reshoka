@@ -1,8 +1,8 @@
 {
-  "total_corpus_songs": 1549,
-  "unique_song_count": 1043,
+  "total_corpus_songs": 1566,
+  "unique_song_count": 1058,
   "duplicate_group_count": 275,
-  "duplicate_occurrence_count": 781,
+  "duplicate_occurrence_count": 783,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -251,38 +251,6 @@
           "md_file": "shintei_jido_shoka/grade_3_2020.006.0847.0003/1_03_kagayaku_hikari/index.md",
           "book_label": "《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）",
           "raw_title": "かゞやく光"
-        }
-      ]
-    },
-    {
-      "id": "kazoeuta",
-      "title": "かぞへ歌／數へ歌",
-      "theme_category": "other",
-      "theme_category_label": "其他",
-      "entries": [
-        {
-          "rel_dir": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta",
-          "md_file": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta/index.md",
-          "book_label": "文部省《尋常小學唱歌》第三學年用（明治45年／1912）",
-          "raw_title": "かぞへ歌"
-        },
-        {
-          "rel_dir": "kogakko_shokashu_1915/4_07_kazoeuta",
-          "md_file": "kogakko_shokashu_1915/4_07_kazoeuta/index.md",
-          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
-          "raw_title": "數へ歌"
-        },
-        {
-          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta",
-          "md_file": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta/index.md",
-          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
-          "raw_title": "數へ歌"
-        },
-        {
-          "rel_dir": "kyoyusho_shoka_1935/4_35_kazoeuta",
-          "md_file": "kyoyusho_shoka_1935/4_35_kazoeuta/index.md",
-          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
-          "raw_title": "數へ歌"
         }
       ]
     },
@@ -2301,6 +2269,12 @@
       "theme_category_label": "儀式與紀念",
       "entries": [
         {
+          "rel_dir": "izawa_shogaku_shoka/kan_1_855321/8_kimigayo",
+          "md_file": "izawa_shogaku_shoka/kan_1_855321/8_kimigayo/index.md",
+          "book_label": "《小學唱歌》巻一（明治25年／1892）",
+          "raw_title": "君が代"
+        },
+        {
           "rel_dir": "kogakko_shokashu_1915/1_01_kimigayo",
           "md_file": "kogakko_shokashu_1915/1_01_kimigayo/index.md",
           "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
@@ -3405,6 +3379,44 @@
           "md_file": "shintei_jido_shoka/grade_6_2020.006.0847.0006/1_10_wagakuni_heishi/index.md",
           "book_label": "《新定兒童唱歌》尋常科第六學年用（2020.006.0847.0006）",
           "raw_title": "我國兵士"
+        }
+      ]
+    },
+    {
+      "id": "kazoeuta",
+      "title": "數へうた／かぞへ歌／數へ歌",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "izawa_shogaku_shoka/kan_1_855321/17_kazoeuta",
+          "md_file": "izawa_shogaku_shoka/kan_1_855321/17_kazoeuta/index.md",
+          "book_label": "《小學唱歌》巻一（明治25年／1892）",
+          "raw_title": "數へうた"
+        },
+        {
+          "rel_dir": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta",
+          "md_file": "jinjo_shogaku_shoka/grade_3_4079/20_kazoeuta/index.md",
+          "book_label": "文部省《尋常小學唱歌》第三學年用（明治45年／1912）",
+          "raw_title": "かぞへ歌"
+        },
+        {
+          "rel_dir": "kogakko_shokashu_1915/4_07_kazoeuta",
+          "md_file": "kogakko_shokashu_1915/4_07_kazoeuta/index.md",
+          "book_label": "《公學校唱歌集》（大正4年／1915，國臺圖 0725 26）",
+          "raw_title": "數へ歌"
+        },
+        {
+          "rel_dir": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta",
+          "md_file": "shoka_kyozai_shu_1923/grade_3_4/33_kazoeuta/index.md",
+          "book_label": "《新編小公學校唱歌教材集》第三、四學年（大正12年／1923，國臺圖 0725-41）",
+          "raw_title": "數へ歌"
+        },
+        {
+          "rel_dir": "kyoyusho_shoka_1935/4_35_kazoeuta",
+          "md_file": "kyoyusho_shoka_1935/4_35_kazoeuta/index.md",
+          "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
+          "raw_title": "數へ歌"
         }
       ]
     },

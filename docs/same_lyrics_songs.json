@@ -1,5 +1,5 @@
 {
-  "total_corpus_songs": 1549,
+  "total_corpus_songs": 1566,
   "same_lyrics_different_melody_group_count": 22,
   "groups": [
     {
@@ -509,6 +509,19 @@
         "紀元節"
       ],
       "versions": [
+        {
+          "id": "izawa_shogaku_shoka/kan_1_855321/11_kigensetsu",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_1_855321/11_kigensetsu",
+              "md_file": "izawa_shogaku_shoka/kan_1_855321/11_kigensetsu/index.md",
+              "book_label": "《小學唱歌》巻一（明治25年／1892）",
+              "raw_title": "紀元節",
+              "year": 1892
+            }
+          ]
+        },
         {
           "id": "kogakko_shokashu_1915/3_06_kigensetsu",
           "year": 1915,

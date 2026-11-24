@@ -66,36 +66,6 @@
     "url": "hyojun_shoka_gakushucho/grade_1/11_gakutai_asobi/"
   },
   {
-    "title": "君が代",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第一學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_1/12_kimigayo/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第一學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_1/13_tenchosetsu/"
-  },
-  {
-    "title": "始政記念日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第一學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_1/14_shisei_kinenbi/"
-  },
-  {
-    "title": "一月一日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第一學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_1/15_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第一學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_1/16_kigensetsu/"
-  },
-  {
     "title": "雨",
     "collection": "《標準唱歌學習帖》",
     "volume": "第二學年 兒童用（國臺圖 0729 47）",
@@ -160,36 +130,6 @@
     "collection": "《標準唱歌學習帖》",
     "volume": "第二學年 兒童用（國臺圖 0729 47）",
     "url": "hyojun_shoka_gakushucho/grade_2/11_sanba_no_tsubame/"
-  },
-  {
-    "title": "君が代",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第二學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_2/12_kimigayo/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第二學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_2/13_tenchosetsu/"
-  },
-  {
-    "title": "始政紀念日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第二學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_2/14_shisei_kinenbi/"
-  },
-  {
-    "title": "一月一日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第二學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_2/15_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第二學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_2/16_kigensetsu/"
   },
   {
     "title": "春が來た",
@@ -258,36 +198,6 @@
     "url": "hyojun_shoka_gakushucho/grade_3/11_nasu_no_yoichi/"
   },
   {
-    "title": "君が代",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第三學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_3/12_kimigayo/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第三學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_3/13_tenchosetsu/"
-  },
-  {
-    "title": "始政紀念日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第三學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_3/14_shisei_kinenbi/"
-  },
-  {
-    "title": "一月一日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第三學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_3/15_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第三學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_3/16_kigensetsu/"
-  },
-  {
     "title": "富士山",
     "collection": "《標準唱歌學習帖》",
     "volume": "第四學年 兒童用（國臺圖 0729 47）",
@@ -340,36 +250,6 @@
     "collection": "《標準唱歌學習帖》",
     "volume": "第四學年 兒童用（國臺圖 0729 47）",
     "url": "hyojun_shoka_gakushucho/grade_4/09_kamikaze/"
-  },
-  {
-    "title": "君が代",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第四學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_4/10_kimigayo/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第四學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_4/11_tenchosetsu/"
-  },
-  {
-    "title": "始政紀念日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第四學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_4/12_shisei_kinenbi/"
-  },
-  {
-    "title": "一月一日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第四學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_4/13_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第四學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_4/14_kigensetsu/"
   },
   {
     "title": "海",
@@ -432,36 +312,6 @@
     "url": "hyojun_shoka_gakushucho/grade_5/10_haru_no_shirabe/"
   },
   {
-    "title": "君が代",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第五學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_5/11_kimigayo/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第五學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_5/12_tenchosetsu/"
-  },
-  {
-    "title": "始政紀念日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第五學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_5/13_shisei_kinenbi/"
-  },
-  {
-    "title": "一月一日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第五學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_5/14_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第五學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_5/15_kigensetsu/"
-  },
-  {
     "title": "日本人",
     "collection": "《標準唱歌學習帖》",
     "volume": "第六學年 兒童用（國臺圖 0729 47）",
@@ -498,34 +348,82 @@
     "url": "hyojun_shoka_gakushucho/grade_6/10_niitakayama/"
   },
   {
-    "title": "君が代",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第六學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_6/12_kimigayo/"
+    "title": "おほわた",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/1_ohowata/"
   },
   {
-    "title": "天長節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第六學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_6/13_tenchosetsu/"
+    "title": "からす",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/2_karasu/"
   },
   {
-    "title": "始政紀念日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第六學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_6/14_shisei_kinenbi/"
+    "title": "かり",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/3_kari/"
   },
   {
-    "title": "一月一日",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第六學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/"
+    "title": "あり",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/4_ari/"
   },
   {
-    "title": "紀元節",
-    "collection": "《標準唱歌學習帖》",
-    "volume": "第六學年 兒童用（國臺圖 0729 47）",
-    "url": "hyojun_shoka_gakushucho/grade_6/16_kigensetsu/"
+    "title": "まなべ",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/5_manabe/"
+  },
+  {
+    "title": "あふぎみよ",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/6_aogimiyo/"
+  },
+  {
+    "title": "小隊",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/7_shotai/"
+  },
+  {
+    "title": "子供々々",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/10_kodomo/"
+  },
+  {
+    "title": "花さく春",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/12_hana_saku_haru/"
+  },
+  {
+    "title": "がくもん",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/14_gakumon/"
+  },
+  {
+    "title": "宮さん",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/15_miyasan/"
+  },
+  {
+    "title": "手鞠歌",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/16_temariuta/"
+  },
+  {
+    "title": "數へうた",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻一（NDL PID 855321，明治25年／1892）",
+    "url": "izawa_shogaku_shoka/kan_1_855321/17_kazoeuta/"
   },
   {
     "title": "日の丸の旗",
@@ -1006,18 +904,6 @@
     "collection": "《尋常小學唱歌》",
     "volume": "第四學年用（廣島大學圖書館 ID 4080，大正元年／1912）",
     "url": "jinjo_shogaku_shoka/grade_4_4080/20_tachibana_chusa/"
-  },
-  {
-    "title": "みがかずば",
-    "collection": "《尋常小學唱歌》",
-    "volume": "第五學年用（廣島大學圖書館 ID 4100，大正2年／1913）",
-    "url": "jinjo_shogaku_shoka/grade_5_4100/0a_migakazuba/"
-  },
-  {
-    "title": "金剛石・水はうつは",
-    "collection": "《尋常小學唱歌》",
-    "volume": "第五學年用（廣島大學圖書館 ID 4100，大正2年／1913）",
-    "url": "jinjo_shogaku_shoka/grade_5_4100/0b_kongoseki_mizu_wa_utsuwa/"
   },
   {
     "title": "八岐の大蛇（八岐大蛇）",
@@ -1638,12 +1524,6 @@
     "url": "kogakko_shoka/grade_4/20_waga_teikoku/"
   },
   {
-    "title": "金剛石・水はうつは",
-    "collection": "《公學校唱歌》",
-    "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
-    "url": "kogakko_shoka/grade_5/1_kongoseki_mizu_wa_utsuwa/"
-  },
-  {
     "title": "種",
     "collection": "《公學校唱歌》",
     "volume": "尋常科 第五學年用（國臺圖 523.37 4322-4）",
@@ -2178,12 +2058,6 @@
     "url": "kogakko_shoka/koto_2/25_taiwan_no_uta/"
   },
   {
-    "title": "君が代",
-    "collection": "《公學校唱歌集》",
-    "volume": "大正四年版（國臺圖 0725 26）",
-    "url": "kogakko_shokashu_1915/1_01_kimigayo/"
-  },
-  {
     "title": "かめ",
     "collection": "《公學校唱歌集》",
     "volume": "大正四年版（國臺圖 0725 26）",
@@ -2218,12 +2092,6 @@
     "collection": "《公學校唱歌集》",
     "volume": "大正四年版（國臺圖 0725 26）",
     "url": "kogakko_shokashu_1915/1_07_ningyo/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《公學校唱歌集》",
-    "volume": "大正四年版（國臺圖 0725 26）",
-    "url": "kogakko_shokashu_1915/2_01_tenchosetsu/"
   },
   {
     "title": "花",
@@ -2262,12 +2130,6 @@
     "url": "kogakko_shokashu_1915/2_07_saa_asobimasho/"
   },
   {
-    "title": "勅語奉答",
-    "collection": "《公學校唱歌集》",
-    "volume": "大正四年版（國臺圖 0725 26）",
-    "url": "kogakko_shokashu_1915/3_01_chokugo_hoto/"
-  },
-  {
     "title": "日の丸の旗",
     "collection": "《公學校唱歌集》",
     "volume": "大正四年版（國臺圖 0725 26）",
@@ -2290,12 +2152,6 @@
     "collection": "《公學校唱歌集》",
     "volume": "大正四年版（國臺圖 0725 26）",
     "url": "kogakko_shokashu_1915/3_05_undokai/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《公學校唱歌集》",
-    "volume": "大正四年版（國臺圖 0725 26）",
-    "url": "kogakko_shokashu_1915/3_06_kigensetsu/"
   },
   {
     "title": "花咲爺",
@@ -2346,18 +2202,6 @@
     "url": "kogakko_shokashu_1915/4_07_kazoeuta/"
   },
   {
-    "title": "一月一日",
-    "collection": "《公學校唱歌集》",
-    "volume": "大正四年版（國臺圖 0725 26）",
-    "url": "kogakko_shokashu_1915/4_08_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "始政紀念日",
-    "collection": "《公學校唱歌集》",
-    "volume": "大正四年版（國臺圖 0725 26）",
-    "url": "kogakko_shokashu_1915/5_01_shisei_kinenbi/"
-  },
-  {
     "title": "富士山",
     "collection": "《公學校唱歌集》",
     "volume": "大正四年版（國臺圖 0725 26）",
@@ -2398,12 +2242,6 @@
     "collection": "《公學校唱歌集》",
     "volume": "大正四年版（國臺圖 0725 26）",
     "url": "kogakko_shokashu_1915/5_08_meiji_tenno_gyosei/"
-  },
-  {
-    "title": "金剛石・水は器",
-    "collection": "《公學校唱歌集》",
-    "volume": "大正四年版（國臺圖 0725 26）",
-    "url": "kogakko_shokashu_1915/6_01_kongoseki_mizu_wa_utsuwa/"
   },
   {
     "title": "蛙と蜘蛛",
@@ -2908,72 +2746,6 @@
     "collection": "《共益商社唱歌教科書》",
     "volume": "巻四・教師用（NDL PID 854865）",
     "url": "kyoeki_shoka/kan_4_854865/19_mizutori/"
-  },
-  {
-    "title": "君が代",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_01_kimigayo/"
-  },
-  {
-    "title": "勅語奉答",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_02_chokugo_hoto/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_03_tenchosetsu/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_04_kigensetsu/"
-  },
-  {
-    "title": "一月一日",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_05_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "明治節",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_06_meijisetsu/"
-  },
-  {
-    "title": "金剛石",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_07_kongoseki/"
-  },
-  {
-    "title": "仰げば尊し",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_08_aogeba_totoshi/"
-  },
-  {
-    "title": "始政記念日",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_09_shisei_kinenbi/"
-  },
-  {
-    "title": "令旨奉答の歌",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_10_reishi_hoto_no_uta/"
-  },
-  {
-    "title": "螢の光",
-    "collection": "《教育所用 唱歌教材集》",
-    "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
-    "url": "kyoyusho_shoka_1935/0_11_hotaru_no_hikari/"
   },
   {
     "title": "日の丸の旗",
@@ -4144,60 +3916,6 @@
     "collection": "《教育所用 唱歌教材集》",
     "volume": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
     "url": "kyoyusho_shoka_1935/8_07_kokugo_yagakukai_no_uta/"
-  },
-  {
-    "title": "君が代",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_01_kimigayo/"
-  },
-  {
-    "title": "勅語奉答",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_02_chokugo_hoto/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_03_tenchosetsu/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_04_kigensetsu/"
-  },
-  {
-    "title": "一月一日",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_05_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "明治節",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_06_meijisetsu/"
-  },
-  {
-    "title": "始政記念日",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_07_shisei_kinenbi/"
-  },
-  {
-    "title": "卒業式歌",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/"
-  },
-  {
-    "title": "金剛石",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第一學年用（臺史博 2020.006.0847.0001）",
-    "url": "shintei_jido_shoka/grade_1_2020.006.0847.0001/0_09_kongoseki/"
   },
   {
     "title": "ヒノマルノハタ（日之丸旗）",
@@ -5802,12 +5520,6 @@
     "url": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_01_ise_jingu/"
   },
   {
-    "title": "君が代の初春",
-    "collection": "《新定兒童唱歌》",
-    "volume": "尋常科 第六學年用（臺史博 2020.006.0847.0006）",
-    "url": "shintei_jido_shoka/grade_6_2020.006.0847.0006/3_02_kimigayo_no_hatsuharu/"
-  },
-  {
     "title": "王政復古",
     "collection": "《新定兒童唱歌》",
     "volume": "尋常科 第六學年用（臺史博 2020.006.0847.0006）",
@@ -6714,12 +6426,6 @@
     "url": "shoka_kyozai_shu_1923/grade_1_2/04_yudachi/"
   },
   {
-    "title": "君が代",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）",
-    "url": "shoka_kyozai_shu_1923/grade_1_2/05_kimigayo/"
-  },
-  {
     "title": "龜",
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）",
@@ -6868,12 +6574,6 @@
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）",
     "url": "shoka_kyozai_shu_1923/grade_1_2/30_usagi_to_tanuki/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）",
-    "url": "shoka_kyozai_shu_1923/grade_1_2/31_kigensetsu/"
   },
   {
     "title": "雲雀",
@@ -7044,12 +6744,6 @@
     "url": "shoka_kyozai_shu_1923/grade_1_2/59_sotsugyoshiki/"
   },
   {
-    "title": "一月一日",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第一、二學年（國臺圖 0725-41，pp. 2–121）",
-    "url": "shoka_kyozai_shu_1923/grade_1_2/60_ichigatsu_ichijitsu/"
-  },
-  {
     "title": "汽車と汽船",
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
@@ -7060,12 +6754,6 @@
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
     "url": "shoka_kyozai_shu_1923/grade_3_4/02_kajiyasan/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
-    "url": "shoka_kyozai_shu_1923/grade_3_4/03_tenchosetsu/"
   },
   {
     "title": "蟲の聲",
@@ -7206,12 +6894,6 @@
     "url": "shoka_kyozai_shu_1923/grade_3_4/26_asaoki/"
   },
   {
-    "title": "始政紀念日",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
-    "url": "shoka_kyozai_shu_1923/grade_3_4/27_shisei_kinenbi/"
-  },
-  {
     "title": "夕立",
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
@@ -7222,12 +6904,6 @@
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
     "url": "shoka_kyozai_shu_1923/grade_3_4/29_gyosen/"
-  },
-  {
-    "title": "勅語奉答",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
-    "url": "shoka_kyozai_shu_1923/grade_3_4/30_chokugo_hoto/"
   },
   {
     "title": "取入れ",
@@ -7252,12 +6928,6 @@
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
     "url": "shoka_kyozai_shu_1923/grade_3_4/34_mura_no_kajiya/"
-  },
-  {
-    "title": "送別の歌（卒業式の歌）",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
-    "url": "shoka_kyozai_shu_1923/grade_3_4/35_sobetsu_no_uta/"
   },
   {
     "title": "雲雀",
@@ -7330,12 +7000,6 @@
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
     "url": "shoka_kyozai_shu_1923/grade_3_4/47_misora_no_kagami/"
-  },
-  {
-    "title": "地久節",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第三、四學年（國臺圖 0725-41，pp. 122–221）",
-    "url": "shoka_kyozai_shu_1923/grade_3_4/48_chikyusetsu/"
   },
   {
     "title": "キャベツ",
@@ -7504,18 +7168,6 @@
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）",
     "url": "shoka_kyozai_shu_1923/grade_5_6/26_mori_no_kotori/"
-  },
-  {
-    "title": "金剛石、水は器",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）",
-    "url": "shoka_kyozai_shu_1923/grade_5_6/27_kongoseki/"
-  },
-  {
-    "title": "みがかずば",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "尋常科 第五、六學年（國臺圖 0725-41，pp. 222–335）",
-    "url": "shoka_kyozai_shu_1923/grade_5_6/28_migakazuba/"
   },
   {
     "title": "朝",
@@ -7824,12 +7476,6 @@
     "url": "shoka_kyozai_shu_1923/koto_1_2/28_iwama_shimizu/"
   },
   {
-    "title": "君が代の初春（二部）",
-    "collection": "《新編 小學校・公學校 唱歌教材集》",
-    "volume": "高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）",
-    "url": "shoka_kyozai_shu_1923/koto_1_2/29_kimigayo_no_hatsuharu/"
-  },
-  {
     "title": "遠別離",
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）",
@@ -7894,48 +7540,6 @@
     "collection": "《新編 小學校・公學校 唱歌教材集》",
     "volume": "高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）",
     "url": "shoka_kyozai_shu_1923/koto_1_2/40_yoru_no_kigan/"
-  },
-  {
-    "title": "君が代",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p120_kimigayo/"
-  },
-  {
-    "title": "勅語奉答",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p121_chokugo_hoto/"
-  },
-  {
-    "title": "勅語奉答（あな尊しや）",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p122_chokugo_hoto_2/"
-  },
-  {
-    "title": "一月一日",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p123_ichigatsu_ichijitsu/"
-  },
-  {
-    "title": "紀元節",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p124_kigensetsu/"
-  },
-  {
-    "title": "始政紀念日",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p125_shisei_kinenbi/"
-  },
-  {
-    "title": "天長節",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p126_tenchosetsu/"
   },
   {
     "title": "朝起",
@@ -8182,36 +7786,6 @@
     "collection": "《楊金土手抄唱歌帖》",
     "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
     "url": "shokacho/vol_01/p179_sotsugyoshiki/"
-  },
-  {
-    "title": "大禮奉祝歌",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p181_tairei_hoshukuka/"
-  },
-  {
-    "title": "明治節唱歌",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p182_meijisetsu_shoka/"
-  },
-  {
-    "title": "文部省選定 大禮奉祝唱歌",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p184_tairei_hoshuku_shoka/"
-  },
-  {
-    "title": "明治節唱歌（印刷譜）",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p185_meijisetsu_shoka_printed/"
-  },
-  {
-    "title": "青年團御大禮奉祝歌",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
-    "url": "shokacho/vol_01/p186_seinendan_gotairei_hoshukuka/"
   },
   {
     "title": "オサル",
@@ -8490,34 +8064,10 @@
     "url": "shokacho/vol_03/p046_uten_seiten/"
   },
   {
-    "title": "始政紀念日",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 3 冊・I（2020.006.0843，P031–P064）",
-    "url": "shokacho/vol_03/p047_shisei_kinembi/"
-  },
-  {
-    "title": "君が代",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 3 冊・I（2020.006.0843，P031–P064）",
-    "url": "shokacho/vol_03/p048a_kimi_ga_yo/"
-  },
-  {
     "title": "軍隊行進",
     "collection": "《楊金土手抄唱歌帖》",
     "volume": "原編第 3 冊・I（2020.006.0843，P031–P064）",
     "url": "shokacho/vol_03/p048b_guntai_koshin/"
-  },
-  {
-    "title": "皇太子殿下御成婚奉祝歌",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 3 冊・I（2020.006.0843，P031–P064）",
-    "url": "shokacho/vol_03/p049_kotaishi_denka_goseikon_hoshukuka/"
-  },
-  {
-    "title": "金剛石・水は器",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 3 冊・I（2020.006.0843，P031–P064）",
-    "url": "shokacho/vol_03/p051_kongoseki_mizu_wa_utsuwa/"
   },
   {
     "title": "陸軍記念日行進歌",
@@ -8526,22 +8076,10 @@
     "url": "shokacho/vol_03/p053_rikugun_kinembi_koshinka/"
   },
   {
-    "title": "銀婚式奉祝行進歌",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 3 冊・I（2020.006.0843，P031–P064）",
-    "url": "shokacho/vol_03/p056_ginkonshiki_hoshuku_koshinka/"
-  },
-  {
     "title": "秩父宮殿下奉迎行進歌",
     "collection": "《楊金土手抄唱歌帖》",
     "volume": "原編第 3 冊・I（2020.006.0843，P031–P064）",
     "url": "shokacho/vol_03/p057_chichibunomiya_denka_hogei_koshinka/"
-  },
-  {
-    "title": "皇太子殿下御成婚奉祝提燈行列進行歌",
-    "collection": "《楊金土手抄唱歌帖》",
-    "volume": "原編第 3 冊・I（2020.006.0843，P031–P064）",
-    "url": "shokacho/vol_03/p061_kotaishi_denka_chochin_gyoretsu_shinkoka/"
   },
   {
     "title": "亡友",

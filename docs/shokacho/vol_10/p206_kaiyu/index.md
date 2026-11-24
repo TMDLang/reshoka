@@ -62,8 +62,8 @@ Dynamics: mf, f
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kaiyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGBGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdaUWZqXkpxRmZBQgZoHHpmXlWuamZWZnxJakVJajOg0qXpxaXpBblxeem5uSnILksv6gkIz-9KLEgo9IqI7MY5LjkxJz47MS8RCUuLS2FZ-0TnvZ3K2g8a98OpDUVtLS4FG0VDA0MuOxtFdy4bEz0Tey4uPS1uBQU0NWChIIhwafwdMrGZ2t7nu6YpqBhZGBkoGdgYKZnYGFirKmjAApvvayCdJBy38QioGMTczITrRSMjYxfLmjUUzDSM9QzsgCaOmPt00k9Rk93bjF8NqfDyOLZ9KVgK1wq8xJzM5OLrRRy03QU0rhAYj6VQG8UW4GYhnog8nHTqsfNix43z3jcPOFxc9fj5pbHTasfN21_3LxE4XHzMjjncfP6x01rHjd3PG7eA9QA1to8D6xj8uPmvsdNe0Fk81SwdDfQWKCZkx43LwAZCFQBMmMBxDCIVqA5QBX9j5uAJs8Dk62PmzaDtYIsAwqtBkmD3AU0sAFMtkAcDDRk6-PmXpBykLFARUCRRY-b1gIVgS0GIaBzgOSSx01AZ-8Hu2AfOACMwL7WeNzY9bip6XHjjseNGx43rnrcuORxY_fjxumPm1qARrTBOY-b-h839jxuXAFyQFMTOFwfNwI1Tn_cOP9xI9BioNqtjxt3guQbV0PkNoHJuY8bN4MNaYCYBrV3Bdje9Y8bWx437gOTSx83Tgbq1YRYDDRsAlgJ2MrG3WASrPlxIzA6JoFN6AKxQabOf9zUCdQDsRdsKUgr0FCgf9aBXTKPS0ufi8s3EZjUw_KBKdihxqCmGmScgo2hmZYdmFWjYKygC4TGYBoZw2CNgimUZQSlYbIGcBVmYNoMTCNjhBnIPBCEmQk3A-oaiLgpmEbGmK6BQUzXwHwEshOk2hDJ7cgqEKIgFcgQ5hqIOhM0WWyugZmAarIhyOfxOCwx1wHJgKWB5kBUAXlgljGIAGlAiQmoq5D9gt1VNHU3hG-GEmUg7bBgBrFRgxvdBFhUITxWy8Wlawcs6jLzFIC0MhcA)]
-- [鋼琴伴奏 TMD 檔案](kaiyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAyMEPIlGSk5qZapaaUJieWZObnKXFpaSk8a5_wtL9bQeNZ-3YgranwqGGKQkBmYl6-gmNycn5uQWJeZm5qXomClhaXoq2CoYEBl72tghuXjYm-iR0Xl74Wl4ICsWaAlAaDHWel8HTKxmdre57umKagYWRgZKBnYGCmZ2BhYqypowBys15WQTpIuW9iUXpmXmJOZqKVgrGR8csFjXoKRnqGekYWQNtmrH06qcfo6c4ths_mdBhZPJu-VJNLS5-LyzcxM88qLB8YMg41BjXVIHMUbAzNtOzArBoFYwVdIDQG08jYACyuC1RhCmUZQWmIDmQVZmDaDEwjY3QVCAgzE64C6hqIuCmYRsaYroFBTNfAfASyE6TaEOp2dBUIH4FUIEOYayDqTNBkkdTBXQMzAdVkQ5DP43FYYq4DkgFLA82BqALywCxjEAHSgBITUFfBXI3bVTR1N4RvhhJlIO2wYAaxUYMb3QSYDNw5XLXQdArOJ0Ee2FOqaby2oTau5IokCbISGLjaRtowXwIlwQIILkItkjO1TbRxpWSEHKpKpGDRNobbhx5jCDnMlI2sD1klAuJwLkpwwFwENhUogepprJowgsU4XhuqFTVyiM0LyG5HMgi3laBkBrQUntLAbAwHoOQTsBvBwihZBeFliFUYxQqqT3H7YcB8iZ6rYNbA0jaQAhkHtwZr7GKPQQLZzQc5u5nAc5thPAIBAxAYCSAM5BgAuSZAJjJGiEAUYDUDzgSZAKSgykHGgvlQ8xGxhpQ1YVohis2AJAxDrEc2GxbnUCeDMMgM4k1DcT1IDdTBkKAEB5-uHbA2zsxTQKKVuQA)]
+- [主旋律 TMD 檔案](kaiyu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGBGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdaUWZqXkpxRmZBQgZoHHpmXlWuamZWZnxJakVJajOg0qXpxaXpBblxeem5uSnILksv6gkIz-9KLEgo9IqI7MY5LjkxJz47MS8RCUuLS2FZ-0TnvZ3K2g8a98OpDUVtLS4FG0VDA0MuOxtFdy4bEz0Tey4uPS1uBQU0NWChIIhwafwdMrGZ2t7nu6YpqBhZGBkoGdgYKZnYGFirKmjAApvvayCdJBy38QioGMTczITrRSMjYxfLmjUUzDSM9QzsgCaOmPt00k9Rk93bjF8NqfDyOLZ9KVgK1wq8xJzM5OLrRRy03QU0rhAYj6VQG8UW4GYhnog8nHTqsfNix43z3jcPOFxc9fj5pbHTasfN21_3LxE4XHzMjjncfP6x01rHjd3PG7eA9QA1to8D6xj8uPmvsdNe0Fk81SwdDfQWKCZkx43LwAZCFQBMmMBxDCIVqA5QBX9j5uAJs8Dk62PmzaDtYIsAwqtBkmD3AU0sAFMtkAcDDRk6-PmXpBykLFARUCRRY-b1gIVgS0GIaBzgOSSx01AZ-8Hu2AfOACMwL7WeNzY9bip6XHjjseNGx43rnrcuORxY_fjxumPm1qARrTBOY-b-h839jxuXAFyQFMTOFwfNwI1Tn_cOP9xI9BioNqtjxt3guQbV0PkNoHJuY8bN4MNaYCYBrV3Bdje9Y8bWx437gOTSx83Tgbq1YRYDDRsAlgJ2MrG3WASrPlxIzA6JoFN6AKxQabOf9zUCdQDsRdsKUgr0FCgf9aBXTKPS0ufi8s3EZjUAzIT8_IdagxqqkHGKdgYmmnZgVk1CsYKukBoDKaRMQzWKJhCWUZQGiZrAFdhBqbNwDQyRpiBzANBmJlwM6CugYibgmlkjOkaGMR0DcxHIDtBqg2R3I6sAiEKUoEMYa6BqDNBk8XmGpgJqCYbgnwej8MSc5AEWBZoDEQRkAdmGYMIkHqUiIA6Ctkr2B1FU2dD-GYoMQbSDgtlEBs1tNFNgMUUwmO1XFy6dsCSLjNPAUgrcwEA)]
+- [鋼琴伴奏 TMD 檔案](kaiyu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAyMEPIlGSk5qZapaaUJieWZObnKXFpaSk8a5_wtL9bQeNZ-3YgranwqGGKQkBmYl6-gmNycn5uQWJeZm5qXomClhaXoq2CoYEBl72tghuXjYm-iR0Xl74Wl4ICsWaAlAaDHWel8HTKxmdre57umKagYWRgZKBnYGCmZ2BhYqypowBys15WQTpIuW9iUXpmXmJOZqKVgrGR8csFjXoKRnqGekYWQNtmrH06qcfo6c4ths_mdBhZPJu-VJNLS5-LyzcxM88KbL9DjUFNNcgcBRtDMy07MKtGwVhBFwiNwTQyNgCL6wJVmEJZRlAaogNZhRmYNgPTyBhdBQLCzISrgLoGIm4KppExpmtgENM1MB-B7ASpNoS6HV0FwkcgFcgQ5hqIOhM0WSR1cNfATEA12RDk83gclpiDJMCyQGMgioA8MMsYRIDUo0QE1FEwR-N2FE2dDeGbocQYSDsslEFs1NBGNwEmA3cOVy1yMg3ywJ5QTeO1DbVxpVYkSZCV5vHaRtowTwLlQHwED6ESyZHaJtq4kjFCDlUlUqBoG8OtQ48vhBxmskbWh6wSAXE4FyUwYC4CmwqUQPEzVj3ogWIcrw3ViBoxxGYDZJcjGYTTRlAKA9oJT2RgNob9yDkE7EKwKEomQXgXYhFGeYLiTdweGCgvoucmmC2wNA2kQMbBbcEWr9gjj0Au80HOZSbwTGYYj0DgYgmIgEwDIMckHoFgPIgUVr1wJkgvkIKoBhoH5kGMRcQTUkaE6QMrBQYfBIEtRTYTHsFQBNJLlCkorgVKQ90HCTFwKOnaAavazDwFJFqZCwA)]
 
 ## 分析
 
@@ -84,11 +84,11 @@ Dynamics: mf, f
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
    - 核心骨幹音:  A, F, C, G, D
-   - 調性數值:    F 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 99.3%]
-   - 候選調性 (K-S): F 大調 (0.86), D 小調 (0.70), C 大調 (0.64)
+   - 調性數值:    F 大調 [相關度: 0.86, 穩定度: High, 自然音純度: 100.0%]
+   - 候選調性 (K-S): F 大調 (0.86), D 小調 (0.70), C 大調 (0.65)
    - 五度圈歷程:   -1
    - 各段落調性細節:
-     • [Main #1]: F 大調 (r: 0.86, 自然音純度: 99.3%, 調外音: D#)
+     • [Main #1]: F 大調 (r: 0.86, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -104,8 +104,8 @@ Dynamics: mf, f
      C  : ████████████████████      18.3%
      C# :                            0.0%
      D  : ████████████████          14.2%
-     D# : █                          0.7%
-     E  :                            0.0%
+     D# :                            0.0%
+     E  : █                          0.7%
      F  : █████████████████████     19.0%
      F# :                            0.0%
      G  : ██████████████████        16.4%
@@ -115,7 +115,7 @@ Dynamics: mf, f
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : A3 – D5 (17 個半音 / 1.4 個八度, 70 個音符)
+  - Piano         : A3 – D5 (17 個半音 / 1.4 個八度, 70 個音符)
 ================================================================================
 ```
 

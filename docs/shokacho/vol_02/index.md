@@ -27,7 +27,7 @@ image: "0_book_info/P065.jpg"
 | P077 | [**お星様**](p077_ohoshisama/index.md) | 曲：愛吟抄（大正十二年） | `?=F` `<2/4>` `!=96` | P077.jpg |
 | P078 | [**ゴモン**](p078_gomon/index.md) | 曲：大正幼年唱歌 第五集 | `?=D` `<4/4>` `!=112` | P078.jpg |
 | P079 | [**カタツムリ**](p079_katatsumuri/index.md) | 曲：大正幼年唱歌 第五集 | `?=C` `<2/4>` `!=96` | P079.jpg |
-| P080 | [**近眼のしくじり**](p080_kingan_no_shikujiri/index.md) | 曲：不詳 (大正十三年二月十一日 邱氏より抄) | `?=A` `<4/4>` `!=108` | P080.jpg |
+| P080 | [**近眼のしくじり**](p080_kingan_no_shikujiri/index.md) | 詞：葛原しげる / 曲：梁田貞 | `?=C` `<4/4>` `!=108` | P080.jpg |
 | P081 | [**嘆烟花**](p081_tan_yenhua/index.md) | 曲：台湾伝統曲 (歌仔調) | `?=G` `<4/4>` `!=88` | P081.jpg |
 | P082 | [**暫の別**](p082_shibashi_no_wakare/index.md) | 曲：不詳 | `?=F` `<3/4>` `!=160` | P082.jpg, P083.jpg |
 | P084 | [**九人のくろんぼ**](p084_kunin_no_kuronbo/index.md) | 曲：不詳 | `?=C` `<2/4>` `!=100` | P084.jpg |

@@ -140,6 +140,47 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
 }
 
 
+CEREMONIAL_CANONICAL_NAMES = {
+    # 八大祝日大祭日與總督府三大儀式歌
+    "君が代", "キミガヨ", "きみがよ",
+    "一月一日", "イチガツイチジツ",
+    "紀元節", "キゲンセツ", "きげん節",
+    "天長節", "テンチャウセツ", "てんちょうせつ",
+    "明治節", "メイジセツ",
+    "始政記念日", "始政紀念日", "シセイキネンビ",
+    "地久節",
+    "神武天皇祭",
+    "元始祭",
+    "新嘗祭",
+    # 學校特定儀式與奉答/奉祝歌
+    "勅語奉答", "チョクゴホウタウ",
+    "令旨奉答", "令旨奉答の歌", "レウシホウタウ",
+    "金剛石", "金剛石・水は器", "金剛石、水は器", "金剛石・水はうつは",
+    "みがかずば",
+    "卒業式歌", "卒業式の歌", "送別の歌（卒業式の歌）",
+    "大禮奉祝歌", "大禮奉祝唱歌", "文部省選定 大禮奉祝唱歌",
+    "青年團御大禮奉祝歌",
+    "銀婚式奉祝行進歌",
+    "皇太子殿下御成婚奉祝歌",
+    "皇太子殿下御成婚奉祝提燈行列進行歌",
+}
+
+
+def is_ceremonial_song(p: Path, title: str) -> bool:
+    """Check if a song is a ceremonial/ritual song (儀式歌/祝祭日唱歌)."""
+    clean_title = title.replace(" ", "").replace("　", "")
+    for name in CEREMONIAL_CANONICAL_NAMES:
+        if name in clean_title:
+            return True
+    if "kyoyusho_shoka_1935" in p.parts:
+        if p.parent.name.startswith("0_") and p.parent.name != "0_book_info":
+            return True
+    if "shintei_jido_shoka" in p.parts:
+        if p.parent.name.startswith("0_") and p.parent.name != "0_book_info":
+            return True
+    return False
+
+
 def _format_song_nav_prefix(col_slug: str, folder_name: str) -> str:
     parts = folder_name.split("_")
     if col_slug == "shokacho":
@@ -175,6 +216,8 @@ def write_song_index_json(docs_dir: Path) -> Path:
         if chosen_main_tmd != main_tmd:
             continue
         title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
+        if is_ceremonial_song(main_tmd, title):
+            continue
         rel_folder = folder.relative_to(docs_dir).as_posix()
         col_name, vol_name = resolve_col_and_vol(folder)
         songs.append(

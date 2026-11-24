@@ -59,8 +59,8 @@ Marginalia: 335頁. 2.1.28. (昭和2年1月28日)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](nami_to_iso_no_ishi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGBKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWp6KLliSWpRQhBoPnpmXlWJYmZ5Yl58flpaZnJKBbmF5Vk5KcXJRZkVFplZBaD3JOcmBOfnZiXqMSlpaXwbPOix40rni9e_7hx3fP5mxU0gALPtq560dH-dNOOl01dz2e1AIVfLlirqaClxaVoq2BoYMBlb6vgpMNlY6xvYsfFpa_FpaBAgjkg1cGQgFZ4OmXjs7U9T3dMU9AwMjAy0DMwMNMzsDAx1tRRAMWMXlZBOki5b2IR0JOJOZmJVgrGxqYvFzTqKRjpGeoZWegBLZqx9umkHqOnO7cYPpvTYWTxbPpSTS6QLp9KoF-LrUBMQz0Q-bhp2ePm3sfNq-AMoNCix80rHzctedy093FzN5C__3HT6sdNax83dz1unv-4uQ8otPlx04rHzZtAok0bwQY1N4CN2ANnYBda8bhp9-PmNjgDbDxIfj2YhJoFsaj_cXMjyGlgVasfN8943Ax0B5DRBeRvfdy85nFzJ1wtUAjoYqAj28AeWAX2rxHEk43djxt3PG4CkqseN-5_3LgaKLQJJNrU87ip7XEjUHPjPrB87-PGlseN04ExBhQCysx_3DQJLDoRZlBTJwjBGEChyY-bekEIxgAKQYxYAWOsBwo1gW0EmrjwceMyiFlAt6wGWgS3B2Zj41aw8S0Qg-aClSAMArKAdi0DmdjUxaWlz8XlmwhM7WH5wDTsUGNQUw0yXMHG0EzLDsyqUTCNV9AFQrN4GAsBaxSMwbSJgimGjCGYNgKrMEORQVdrAJOBWgi0CcQ1j1cwjMMwFqLZDIuFMKeAaCMsTsFtIUg1DGPaBsOoMkDXgZ0IJVAljUDuRhDggFCHsWC2GkMETOJgLBQnQ4SA2rGEASQ4zcE0atBCwgC3TxFBC2VhaoYEIFbXAClzZD-hSCIgSA12S2ken7VcXLp2wMItM08BSCtzAQA)]
-- [鋼琴伴奏 TMD 檔案](nami_to_iso_no_ishi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAyMEXIlGSk5qZapaaUJieWZObnKXFpaSk827zoceOK54vXP25c93z-ZgUNoMCzratedLQ_3bTjZVPX81ktQOGXC9ZqKjxqmKIQkJmYl6_gmJycn1uQmJeZm5pXoqClxaVoq2BoYMBlb6vgpMNlY6xvYsfFpa_FpaBABfNBpgSD_WSl8HTKxmdre57umKagYWRgZKBnYGCmZ2BhYqypowDyql5WQTpIuW9iUXpmXmJOZqKVgrGx6csFjXoKRnqGekYWekAHzFj7dFKP0dOdWwyfzekwsng2fakml5Y-F5dvYmaeVVg-MEQdagxqqkEGKdgYmmnZgVk1CqbxCrpAaBYPY-kqGEDpGgVjMG2iYIohYwimjcAqzFBkYGphEC4DtRBoE4hrHq9gGIdhLESzGRYLYU4B0UZYnILbQpBqGEaGENtgGFUG6DqwE6EEqqQRyN0IAhwQ6jAWzFZjiIBJHIyF4mSIEFA7ljAABSfQXjCNGrSQMCAmaKEsXAGI1TVAyhzmJwxJBASpwW4pzeOzFpqcwfkpyAN7gjaO10akaQRHF4UNSvfahtowRwBZ2jAnIrMhysBMI4QOQ20TbVDEwGios3GYgR5JQGcgggyoTBsebCgcZAPNCDgQ7g84B8gw14nXBgUsEhMa8qBwgPoKGipwHrpjsZuDZiQMArMNSBTsOGwsVLUQQ-CmITNQFZpom2uDEyUmAwRNQRyM7AcKSW1EHkTmgrQg84Ahggh4oLH44wQW5eYYyQA1OSDFC9hnCA7-BAHngKMGzsYV0Rimo_gGSAGDXhuUZbEHHopqBIRpwu3MQZtuUcoIH-QywgReRBgCyyowwsI0AaZAMNsUyDBAlHJAHnY9IHUgDBNH6IHJQGSJ5uF1JMh5MIxpI8iVMIzXncDgRbKKNM8BQ1jXDtgaycxTQKKVuQA)]
+- [主旋律 TMD 檔案](nami_to_iso_no_ishi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXhDA4RwcX5pUXJqfEFieqpVgJGBKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWp6KLliSWpRQhBoPnpmXlWJYmZ5Yl58flpaZnJKBbmF5Vk5KcXJRZkVFplZBaD3JOcmBOfnZiXqMSlpaXwbPOix40rni9e_7hx3fP5mxU0gALPtq560dH-dNOOl01dz2e1AIVfLlirqaClxaVoq2BoYMBlb6vgpMNlY6xvYsfFpa_FpaBAgjkg1cGQgFZ4OmXjs7U9T3dMU9AwMjAy0DMwMNMzsDAx1tRRAMWMXlZBOki5b2IR0JOJOZmJVgrGxqYvFzTqKRjpGeoZWegBLZqx9umkHqOnO7cYPpvTYWTxbPpSTS6QLp9KoF-LrUBMQz0Q-bhp2ePm3sfNq-AMoNCix80rHzctedy093FzN5C__3HT6sdNax83dz1unv-4uQ8otPlx04rHzZtAok0bwQY1N4CN2ANnYBda8bhp9-PmNjgDbDxIfj2YhJoFsaj_cXMjyGlgVasfN8943Ax0B5DRBeRvfdy85nFzJ1wtUAjoYqAj28AeWAX2rxHEk43djxt3PG4CkqseN-5_3LgaKLQJJNrU87ip7XEjUHPjPrB87-PGlseN04ExBhQCysx_3DQJLDoRZlBTJwjBGEChyY-bekEIxgAKQYxYAWOsBwo1gW0EmrjwceMyiFlAt6wGWgS3B2Zj41aw8S0Qg-aClSAMArKAdi0DmdjUxaWlz8XlmwhM7QGZiXn5DjUGNdUgwxVsDM207MCsGgXTeAVdIDSLh7EQsEbBGCJkglXSECJkFA9RBjQBWRZDgwFMCmoxVL15vIIhhtFEOgrMAtqPxVW47QWrRxBYLEYQqJJAp4LdCyVQJY1ABkIxOFjU0ew1hrgaSqM4GaIBSzggwgjMQgtiaEDg9iqadlSz0YIRm5MMIR6FeQlZCgHhYTFwEVvLxaVrByz0MvMUgLQyFwA)]
+- [鋼琴伴奏 TMD 檔案](nami_to_iso_no_ishi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjAyMEXIlGSk5qZapaaUJieWZObnKXFpaSk827zoceOK54vXP25c93z-ZgUNoMCzratedLQ_3bTjZVPX81ktQOGXC9ZqKjxqmKIQkJmYl6_gmJycn1uQmJeZm5pXoqClxaVoq2BoYMBlb6vgpMNlY6xvYsfFpa_FpaBABfNBpgSD_WSl8HTKxmdre57umKagYWRgZKBnYGCmZ2BhYqypowDyql5WQTpIuW9iUXpmXmJOZqKVgrGx6csFjXoKRnqGekYWekAHzFj7dFKP0dOdWwyfzekwsng2fakml5Y-F5dvYmaeFdgBDjUGNdUggxRsDM207MCsGgXTeAVdIDSLh7F0FQygdI2CMUTIBKukIUTIKB6iDGgCsixcAwzCpaAWg9XrKpjHKxhiGE2ko8AsoP1YXIXbXrB6BIEMoRYjCFRJoFPB7oUSqJJGIAOhGBws6mj2GkNcDaVRnAzRgCUcEGEEZqEFMTQgiAliKAtPMGJzkiHEoyAvoUshIDwsBi5ia5GTeZAH9oRuHK-NsB3B0UVhg6zRRggAnYLCBwYJKheqHswGuhdJFsg0idcGhwUSE4sdGGaixyJQDhGkYIXasIBF5aEZDNRElOOxe9Y8Pl7bCAubHB_gMgvdXBgEZVKQxyCpDyuTIuXA2DAH2gz2MyYLBMH6tDHyMCiwtWEZGYkD1oDgQBMbNGKMCEcaInmAcg3WlEPlRAQ3CJlNeupH9oshcoDjClhULQiIFlfDIe2jlEo-yKWSCbxQMowHWQzBuHgmcJ4pEBsglbP49YJUgzBCDqEXJgeRJ5pHhKtBroVhbDaDXA3DhF0NylgIe8nzMTAedO2ArafMPAUkWpkLAA)]
 
 ## 分析
 
@@ -71,9 +71,10 @@ Marginalia: 335頁. 2.1.28. (昭和2年1月28日)
 ⏱  Duration:       0:43 (43.2s), 24 measures total
 🎼 Key & Tempo:    首調基準 B,, != 100.0 BPM, <3/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    F4 (MIDI 65) – D#6 (MIDI 87) [跨度: 22 個半音 / 1.8 個八度, 難度: difficult]
-   - 最低音:  F4 in [Main #1 @ m.1, 0:00]
-   - 最高音: D#6 in [Main #1 @ m.13, 0:22]
+🎤 人聲音域:    A#3 (MIDI 58) – D#5 (MIDI 75) [跨度: 17 個半音 / 1.4 個八度, 難度: challenging]
+   - 最低音:  A#3 in [Main #1 @ m.3, 0:03]
+   - 最高音: D#5 in [Main #1 @ m.13, 0:22]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (43.2s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 調性不明確（純淨自然大調，未偵測到可信轉調）
@@ -111,7 +112,7 @@ Marginalia: 335頁. 2.1.28. (昭和2年1月28日)
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : F4 – D#6 (22 個半音 / 1.8 個八度, 69 個音符)
+  - Piano         : A#3 – D#5 (17 個半音 / 1.4 個八度, 69 個音符)
 ================================================================================
 ```
 

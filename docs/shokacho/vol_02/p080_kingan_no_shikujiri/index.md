@@ -4,13 +4,16 @@ song_title: "近眼のしくじり"
 song_id: "shokacho_vol_02_p080_kingan_no_shikujiri"
 collection: "shokacho"
 volume: "vol_02"
-description: "〈近眼のしくじり〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（曲：不詳 (大正十三年二月十一日 邱氏より抄)），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
-keywords: "近眼のしくじり, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
+description: "〈近眼のしくじり〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 2 冊・II（2020.006.0843，P065–P112））（詞：葛原しげる、曲：梁田貞），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+keywords: "近眼のしくじり, 楊金土手抄唱歌帖, 第 2 冊（II）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 葛原しげる, 梁田貞"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 2 冊・II（2020.006.0843，P065–P112）"
 credits:
-  - "曲：不詳 (大正十三年二月十一日 邱氏より抄)"
-musical_key: "A"
+  - "詞：葛原しげる"
+  - "曲：梁田貞"
+sources:
+  - "大正十三年二月十一日 邱氏より抄（唱歌帖 P080）"
+musical_key: "C"
 meter: "4/4"
 tempo: "108"
 image:
@@ -30,7 +33,9 @@ tmd_source:
 
 - **鋼琴伴奏版**：<br><audio controls src="kingan_no_shikujiri.mp3"></audio>
 
-- 曲：不詳 (大正十三年二月十一日 邱氏より抄)
+- 詞：葛原しげる
+- 曲：梁田貞
+- 大正十三年二月十一日 邱氏より抄（唱歌帖 P080）
 
 ## 說明
 
@@ -38,6 +43,7 @@ tmd_source:
 Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P080.jpg (Notebook 2, p.12)
 Notation: Handwritten numbered notation (Jianpu) on pasted grid sheet
 Annotations: イ調, (大正十三年二月十一日) (邱氏より抄)
+Note: 同曲亦收錄於 Vol.07 P257（蓬萊唱歌集 76頁）。
 
 
 ## 歌詞
@@ -54,8 +60,8 @@ Annotations: イ調, (大正十三年二月十一日) (邱氏より抄)
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](kingan_no_shikujiri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgIGFAboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVUliJtAp8UBcnhifm5iZl5OYl4KsqiQjP70osSCj0iojsxhkVXJiTnx2Yl4iQlFJRiowCFJTSpMTIXZoaSm82D_x-Zw9jxvXPW6c_rix_3HjjMdNXQpaWlyKtgqGBhZc9rYKjlw2JvomdiBjns3e9H7PrCc7el-s3Kyg8XTJ8mdrFz_tbXyyo_Ppzi1PdvU8m9MB5jY8m75U4WXTxmcb-h83dQBNfNbVoqnExaWvpWBLLcCloIDD9RremXnpiXkKefkKwRmZ2aVZmUWZmiDlwZA4VXg6ZeOztT1Pd0xT0AjOONoLiuCjvToKfr4hHgpGBkYGegYGZnoGFibGmgqPGqYogBKGXlZBuoKGHzQRKBjpKBToGRqBTQUKgsPTSsEDGCflRZklJalAy0tzk1KLUlOAroBIK2h4ZSbmFZRqKgDZBYnFJUC59KLMFIXijNTUEpBBjnkwtcVWCo-blrxYtV-HUChrKmighzPIKMqDFwoUtPS5uCDh6ZcPD814Ryvf1Jz8lEqHGoOaapCFCjaGZlp2YBYwkp_2zX-xds7jxvXAYH6xct7jxlXgCFr3bOqGp2unA6Xe7wG6FuTBxw2NT1tXGBs93dD_fH3D-z2dIAtBptQoVOem1SqYxivogiGcYYhG1ygYQVkwaAylDeAqyDEFBuGmQJ1lGAcVMIOZiWYt0Do0GXSja-Bq0VXCzESYQcg5MB0YzsI0Ct2hCOegW4_pJWJDB6YDph6dj1CBSyWm12EyiLgiHDi12FKtE2aqNYEmWpCZZkBoColhIIKwjeKgyDgOwoNYA_cuWAKiAqHRDK4RzIXqM1EHkUg6QQJQBaZACPImxBkgNizIkewCBgBEBuJQEMsUZADEBfCUCdIB9L6unQKWfKuAVdgJJKzMBQA)]
-- [鋼琴伴奏 TMD 檔案](kingan_no_shikujiri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjCwMEDIlGSk5qZapaaUJieWZObnKXFpaSm82D_x-Zw9jxvXPW6c_rix_3HjjMdNXQoaj5unPG5a9Li578meLU-X9j_ZPUNTQUuLS9FWwdDAgsveVsGRy8ZE38QOZPaz2Zve75n1ZEfvi5WbFTSeLln-bO3ip72NT3Z0Pt255cmunmdzOsDchmfTlyq8bNr4bEP_46YOoDXPulo0lbi49LUUbKkFuBQUcHnJOzMvPTFPIS9fITgjM7s0K7MoU1PhUcMUhYDMRKCgY3Jyfm5BYl5mbmpeCciYYHA4Wik8nbLx2dqepzumKWgEZxztzU5MBpI6Cn6-IR4KRgZGBnoGBmZ6BhYmxlDTgEGul1WQrqDhl1-SmpSfn61gpKNQoGdopAkylXIvQoGClj4XF8RPfvlwH8U7Wvmm5uSnVDrUGNRUgyxUsDE007IDs2oUqnPTahVM4xV0wRDOMESjaxSMoCwYNIbSBnAV5JgCg3BToM4yjIMKmMHMRLMWaB2aDLrRNXC16CphZiLMIOQcmA4MZ2Eahe5QhHPQrcf0ErGhA9MBU4_OR6jApRLT6zAZRFwRDpxa7OkNnH2CPHAluIJaBeN4bXgiQWabxmvD7EdigpKWtnm8NswTGDxDbczUSGUrkHgYsaFtqg1PGIbaJtrw1KINlMLmSmD6RpJCU4bTXrAbEYbgMgLoAnW4E2oUQAbA5XBzMDIgkj-Mtc1weRDBxusnhKvxhgNRQUd-RKE7BFciwhvsxBpCZHiAkyZSMiQ5uvDlQR_kPGgCz4KGoBLaEGg1pNAGcwwwxY1AUvEgGbg-E7g8mAJrhvMMQTqw6wTqgyBDhDVAAtVI7FYiq4VYiWQGFn1Yw8MJsw5EBIcpsEQ2A5LgWgeIIGyjOCgyjoPwIMEOz_RgCYgKhEYzuEYwF6rPRB1EIukECUAVmAIhKC1AnAFiw6oBJLtA3gXLQBwKYpmCDIC4AF5b4vE-3iIZdybEniHRijyiyj-gr4DKzKE8XGwUo4jTgrc0RuHgMgGkB6mAI7K0MwIqg6YKkHFIHJQCGK00xu0jXKZh9ReKCpwOHmpFMmpZiLf2JJxI8fiKuCSCLymhcAiUxdDMh7MsRi4YgeUZlA0pl6GlHfaSEVYAg8qFeKhWIAImMrByCIKZBOXBNQM5QE1g5aSVx-CCHiwPczhMMdgIWH0A4sMLZF07BSx1lAJWYSeQsDIXAA)]
+- [主旋律 TMD 檔案](kingan_no_shikujiri.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDI4RwcX5pUXJqfEFieqpVgIGFAboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCFVBTemaeVUliJtAp8UBcnhifm5iZl5OYl4KsqiQjP70osSCj0iojsxhkVXJiTnx2Yl4iQlFJRiowCFJTSpMTIXZoaSm82D_x-Zw9jxvXPW6c_rix_3HjjMdNXQpaWlyKtgqGBhZc9rYKzlw2JvomdiBjXqyc937PrBcTZz_tmw_WMOlxUzfYgmezNwFlni1qfD5lw4tN88BiT5csf7Z28dPexic7Op_u3PJkV8-zOR1gbsOz6UsVXjZtfLah_3FTB9DGZ10t7_d0PJ2y8dnanqc7pimA4uL9nk4lLi59LQVbagEuBQUcHtbwzsxLT8xTyMtXCM7IzC7NyizK1AQpD4YkAwWE0zSCM472gtLE0V4dBT_fEA8FIwMjAz0DAzM9AwsTY02FRw1TwO7XyypIV9Dwg6YbBSMdhQI9QyOwqUBBcBRYKXgAo7G8KLOkJBVoeWluUmpRagrQFRBpBQ2vzMS8glJNBSC7ILG4BCiXXpSZolCckZpaAjLIMQ-mtthK4XHTkher9usoaOAPeE0FDbSgh7kJ5M8JPcCofLJr2bMp2172tDybtkchLD9Hz8BcIcDI1BwYRy8mr3kxoQsSHC9ntymYm71c0AiMqscNTSBTKI8kKFDQ0ufi8gUmdKsAYBjkO9QY1FSDLFCwsdCyAzNqFEwVDONASFfBCEQYgwiQKEwcLAqCNSCeGVDcGCxrBBaCsEGiUEVQU80gikESIA0QIyGaQRoh5oHYEAwhIdYaKxhiGAfSC9INcRIQmQIFgS6DIKCbkVwJ5EEEgAii2AwsDhcxg6g2Ugd7FWoDRBfUh_icDHKcMdQ5ECcDNUEsBIcixNm1XFy6dgqgoFcA0spcAA)]
+- [鋼琴伴奏 TMD 檔案](kingan_no_shikujiri_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjCwMEDIlGSk5qZapaaUJieWZObnKXFpaSm82D_x-Zw9jxvXPW6c_rix_3HjjMdNXQoaj5unPG5a9Li578meLU-X9j_ZPUNTQUuLS9FWwdDAgsveVsGZy8ZE38QOZPaLlfPe75n1YuLsp33zwaZMetzUDbb12exNQJlnixqfT9nwYtM8sNjTJcufrV38tLfxyY7Opzu3PNnV82xOB5jb8Gz6UoWXTRufbeh_3NQBdMazrpb3ezqeTtn4bG3P0x3TFEC-eb-nU4mLS19LwZZagEtBAVcoeGfmpSfmKeTlKwRnZGaXZmUWZWoqPGqYohCQmQgUdExOzs8tSMzLzE3NKwEZEwwOeisFhJM1gjOO9mYnJgNJHQU_3xAPBSMDIwM9AwMzPQMLE2OoaUB_6WUVpCto-OWXpCbl52crGOkoFOgZGmmCTKXci1CgoKXPxeWbmJlnBXa_Q41BTTXIAgUbCy07MKNGwVTBMA6EdBWMQIQxiACJwsTBoiBYA-KZAcWNwbJGYCEIGyQKVQQ11QyiGCQB0gAxEqIZpBFiHogNwRASYq2xgiGGcSC9IN0QJwGRKVAQ6DIIAroZyZVAHkQAiCCKzcDicBEziGojdbBXoTZAdEF9iM_JIMcZQ50DcTJQE8RCcChCnF2LHO5BHlhD3lgbaII2SDeI0FUw1Qa7y1QbGgcQeWQ1UBVQp4BETLTNwGoMtYGBCFVvHq8NiRxkQZhC1HAFiZrBzIEpgZkHcwOyHVCzoekBJoDCQOEgfAHimcZrGyoYYbgCZgnCATAPQwlQbIP9jkwAQwklPKAiMGEwgTAEZDZIlRlIGEyYqIPF1YESRupAOaAgSopAmIcS0iSFDtjDMFlkLyKHDThiYc6GpgUsqcgHORWZwFORYTzQFhACMsA8Y5gAmAeXRuKBVMISQDwIQWSwqIcoxjQLYTeSbogcqm4zsApg5osHISAPSGLXjc2tEGmYyUCmASRQdO0UQOGiAKSVuQA)]
 
 ## 分析
 
@@ -63,51 +69,51 @@ Annotations: イ調, (大正十三年二月十一日) (邱氏より抄)
 ================================================================================
 📊 TMD Song Profile: [ 近眼のしくじり ]
 ================================================================================
-⏱  Duration:       1:11 (71.1s), 32 measures total
-🎼 Key & Tempo:    首調基準 A, != 108.0 BPM, <4/4>
+⏱  Duration:       0:35 (35.6s), 16 measures total
+🎼 Key & Tempo:    首調基準 C, != 108.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    E4 (MIDI 64) – D#6 (MIDI 87) [跨度: 23 個半音 / 1.9 個八度, 難度: difficult]
-   - 最低音:  E4 in [KinganNoShikujiri_A #1 @ m.1, 0:00]
-   - 最高音: D#6 in [KinganNoShikujiri_B #1 @ m.24, 0:52]
-🏛  結構:      KinganNoShikujiri_A (35.6s) -> KinganNoShikujiri_B (35.6s)
+🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  C4 in [Main #1 @ m.8, 0:16]
+   - 最高音: E5 in [Main #1 @ m.1, 0:01]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
+🏛  結構:      Main (35.6s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
-🗝  調性診斷：       E 大調（純淨自然大調，未偵測到可信轉調）
+🗝  調性診斷：       G 大調（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
    - 轉調歷程:    全曲維持單一推測調性（未偵測到可信轉調）
-   - 核心骨幹音:  E, B, C#, A, F#
-   - 調性數值:    E 大調 [相關度: 0.84, 穩定度: High, 自然音純度: 100.0%]
-   - 候選調性 (K-S): E 大調 (0.84), A 大調 (0.69), C# 小調 (0.62)
-   - 五度圈歷程:   +4 -> +4
+   - 核心骨幹音:  D, G, E, C, A
+   - 調性數值:    G 大調 [相關度: 0.82, 穩定度: High, 自然音純度: 98.4%]
+   - 候選調性 (K-S): G 大調 (0.82), C 大調 (0.70), E 小調 (0.60)
+   - 五度圈歷程:   +1
    - 各段落調性細節:
-     • [KinganNoShikujiri_A #1]: E 大調 (r: 0.87, 自然音純度: 100.0%)
-     • [KinganNoShikujiri_B #1]: E 大調 (r: 0.72, 自然音純度: 100.0%)
+     • [Main #1]: G 大調 (r: 0.82, 自然音純度: 98.4%, 調外音: D#)
 
   [ 五度圈游移軌跡 ]
                C  
-         F            G  
+         F           [G ]*
       Bb               D  
       Eb               A  
-         Ab          [E ]*
+         Ab           E  
             Db       B  
                F# 
      (* = active key center)
 
   [ 十二半音累積音高分佈 ]
-     C  :                            0.0%
-     C# : ██████████████████        19.2%
-     D  :                            0.0%
-     D# : ██                         2.5%
-     E  : ████████████████████████  25.8%
+     C  : ███████████████           16.4%
+     C# :                            0.0%
+     D  : ████████████████████████  25.8%
+     D# : █                          1.6%
+     E  : ██████████████████        19.5%
      F  :                            0.0%
-     F# : ████████████              13.3%
-     G  :                            0.0%
+     F# :                            0.0%
+     G  : ███████████████████████   25.0%
      G# :                            0.0%
-     A  : ██████████████            15.0%
+     A  : ███████████               11.7%
      A# :                            0.0%
-     B  : ██████████████████████    24.2%
+     B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Melody        : E4 – D#6 (23 個半音 / 1.9 個八度, 99 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 98 個音符)
 ================================================================================
 ```
 

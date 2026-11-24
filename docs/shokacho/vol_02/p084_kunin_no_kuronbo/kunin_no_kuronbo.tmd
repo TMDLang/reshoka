@@ -21,12 +21,12 @@
    Notation: Handwritten 5-line staff (C major, 2/4 time, 18 bars) + seaside illustration
    ========================================================================= */
 
-KuninNoKuronbo_Intro:Vocal@|0|{
+KuninNoKuronbo_Intro:Piano@|0|{
     <2*>
     | 0 | 0 | 0 | 0 |
 }
 
-KuninNoKuronbo_A:Vocal@|0|{
+KuninNoKuronbo_A:Piano@|0|{
     <16*>
     /* 歌詞: */
     /* 1. くにんの くろんぼが / ずらりと ならんだ / たれも しらない / はまべの はなし */
@@ -46,7 +46,7 @@ KuninNoKuronbo_A:Vocal@|0|{
     /* @Vocal: は じ め は よ つ た り そ れ か ら ご に ん */
 }
 
-KuninNoKuronbo_Outro:Vocal@|0|{
+KuninNoKuronbo_Outro:Piano@|0|{
     <2*>
     | 0 | 0 | 0 | 0 |
 }

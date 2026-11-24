@@ -36,4 +36,4 @@ image: "0_book_info/P031.jpg"
 | P057 | [**秩父宮殿下奉迎行進歌**](p057_chichibunomiya_denka_hogei_koshinka/index.md) | 曲：不詳 (大正十四年五月) / 詞：松井實 | `?=F` `<2/4>` `!=112` | P057.jpg, P058.jpg |
 | P061 | [**皇太子殿下御成婚奉祝提燈行列進行歌**](p061_kotaishi_denka_chochin_gyoretsu_shinkoka/index.md) | 曲：不詳 (大正十三年) | `?=G` `<2/4>` `!=112` | P061.jpg |
 | P062 | [**亡友**](p062_boyu/index.md) | 曲：不詳 | `?=E,` `<2/4>` `!=76` | P062.jpg |
-| P063 | [**れんげさう**](p063_rengeso/index.md) | 曲：正聴会編 唱歌学習帳 四年 | `?=F` `<4/4>` `!=96` | P063.jpg |
+| P063 | [**れんげさう**](p063_rengeso/index.md) | 詞：三木露風 / 曲：山田耕筰 | `?=F` `<4/4>` `!=96` | P063.jpg |

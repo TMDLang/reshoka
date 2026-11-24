@@ -29,6 +29,7 @@ from generate_duplicate_songs import (
 def year_from_entry(entry) -> int:
     """Return publication year; catalog numbers such as 2020.006 are not years."""
     fixed_years = {
+        "izawa_shogaku_shoka": 1892,
         "kogakko_shokashu": 1915,
         "shoka_kyozai_shu_1923": 1923,
         "taiwan_shuyu_shoka": 1910,

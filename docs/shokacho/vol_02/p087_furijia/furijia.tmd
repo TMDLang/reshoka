@@ -21,12 +21,12 @@
    Notation: Handwritten 5-line staff (4 sharps = E major, 4/4 time, 20 bars)
    ========================================================================= */
 
-Furijia_Intro:Vocal@|0|{
+Furijia_Intro:Piano@|0|{
     <1*>
     | 0 | 0 |
 }
 
-Furijia_A:Vocal@|0|{
+Furijia_A:Piano@|0|{
     <16*>
     /* 歌詞: */
     /* フリージヤ / フリージア ユカシキカノ フリージア */

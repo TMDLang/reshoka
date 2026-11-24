@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1549 首歌曲、整理 1389 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1566 首歌曲、整理 1391 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -14,10 +14,11 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [水の流 (水流)](shokacho/vol_07/p251_mizu_no_nagare/index.md)
 
-### 三木露風（11 首）
+### 三木露風（12 首）
 
 - [けむり](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_05_kemuri/index.md)
 - [れんげさう](hyojun_shoka_gakushucho/grade_4/02_renge_so/index.md)
+- [れんげさう](shokacho/vol_03/p063_rengeso/index.md)
 - [オヤウシコウシ（母牛與小牛）](shintei_jido_shoka/grade_1_2020.006.0847.0001/2_06_oyaushi_koushi/index.md)
 - [ヒバリ（雲雀）](shintei_jido_shoka/grade_2_2020.006.0847.0002/4_01_hibari/index.md)
 - [冬の朝](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_20_fuyu_no_asa/index.md)
@@ -1026,7 +1027,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [櫻井の訣別](kogakko_shoka/grade_4/9_sakurai_no_ketsubetsu/index.md)
 
-### 葛原しげる（16 首）
+### 葛原しげる（17 首）
 
 - [お庭の草花](kyoyusho_shoka_1935/4_05_oniwa_no_kusabana/index.md)
 - [お早う](kyoyusho_shoka_1935/2_01_ohayo/index.md)
@@ -1041,6 +1042,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [私の妹](kyoyusho_shoka_1935/2_19_watashi_no_imoto/index.md)
 - [花ざかり](shintei_jido_shoka/grade_4_2020.006.0847.0004/4_01_hanazakari/index.md)
 - [蓄音機](hyojun_shoka_gakushucho/grade_2/08_chikuonki/index.md)
+- [近眼のしくじり](shokacho/vol_02/p080_kingan_no_shikujiri/index.md)
 - [近眼のしくじり (近視眼的失誤)](shokacho/vol_07/p257_chikame_no_shikujiri/index.md)
 - [那須與一](hyojun_shoka_gakushucho/grade_3/11_nasu_no_yoichi/index.md)
 - [鯉のぼり](shintei_jido_shoka/grade_3_2020.006.0847.0003/1_06_koinobori/index.md)

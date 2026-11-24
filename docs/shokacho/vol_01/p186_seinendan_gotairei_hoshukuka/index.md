@@ -4,7 +4,7 @@ song_title: "青年團御大禮奉祝歌"
 song_id: "shokacho_vol_01_p186_seinendan_gotairei_hoshukuka"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈青年團御大禮奉祝歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：川路柳虹、曲：中山晉平），調號拍號：Bb 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、空（そら）玲瓏（れいろう）と晴（は）れわたり 足（た）り穗（ほ）黃金（こがね）に實（みの）りたり…"
+description: "〈青年團御大禮奉祝歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：川路柳虹、曲：中山晉平），調號拍號：B, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、空（そら）玲瓏（れいろう）と晴（は）れわたり 足（た）り穗（ほ）黃金（こがね）に實（みの）りたり…"
 keywords: "青年團御大禮奉祝歌, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 川路柳虹, 中山晉平"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -13,7 +13,7 @@ credits:
   - "曲：中山晉平"
 sources:
   - "唱歌筆記帖（臺灣子供世界社發行，2020.006.0843）P186.jpg（大阪朝日新聞社寄贈印刷譜）"
-musical_key: "Bb"
+musical_key: "B,"
 meter: "2/4"
 tempo: "80"
 image:
@@ -75,8 +75,8 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](seinendan_gotairei_hoshukuka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGFGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKqCosy8ktSU-My84tQikAsQqlLLMlNSQWqKkxPz4stSizLTMlNTkByWWlQMdjLEJSVFiXnFyUWZBaimlGSkAl2fmVsA1J-Ygy6enFqUmpufhyKTX5SZnplnVZKYCfRCPBCXJ8bnJmbm5STmIdmeX1SSkZ9elFiQUWmVkVlcAtSVnJgTn52Yl6jEpaWl8HLupKc7tzydM-PpvoVPlyx_vmzd06Wdz5fOfba2R0FLi0vRVsHCgMveVsEpicvGSN_EDmTwi5Xz3u-Z9XT73Bfb1z-bv_nFzJ1g-57N3gQUfrJj7dONG5_N7Hy6czNY-OmUjUDDnq9te7FixtMd097v6XjRvut54-Knayc82Tf7yY5pz6f2PF-y7_nMPS8W9rzf02NkYGSgZ2BgpmdgYWL8fk8nKNb0sgrSgRqBDnw5Y9WzOXOfTV_6bNqGF43zgBqfrm95saXjae-Gpx3bX6ydA9ShxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQQ8BAeNq64tm0dpC7NvQ-a-9UgLlUAeKYJ7umPN8-C-yk7ucbFgIZQHXPW5c_7e962r_5aeOWp7NnP1_fADEL6Gxg4IGserFq_7OG5SBLuntfzJwPFH2xrutx89qXU7cDpYC2OSUpAAMCzO4ERokCUB0wLIEh97ih5-msLS-aWl_0db1s733cuFrBV89XT-HRzJW2FgaPG3q5QOY_2dHwuKHx-cpdQKMeN8593AS0uPN536bnk_tBIk09jxtbHjcBdbcBxR83rng2cwtY5XoQFyjb1P-4cf7jpi6QWSDwYttmsDzQpUD5rucrp4O5u4Hcl7ubX7ZPBHMnP24EGrwWbOTqp-uXgQX3P25cB9GFaiQw_YHlW6C2Nu4Auhhsxjpg5IOlmh43TgVJNTQCw-LphNlgQaAxux839gENButaDzPv6ZKVME37wDJLgKn9yd5emCP6gYHwuAkYhCApsENnA1U-bpwJCbBdwJBtfAlK3UDlQLVNYIWbQJoaJz5uagMKvpi0BxaiTY-bJj1unAcJV6CL4Y5oBQoA5Tc9buyGeBoY_8-2bgcLTgcKAv0LFp8ETCNgwWUwM4CyyMHzZPcGmHe2guUngYOn-3ET0FZgmPW_XA3OzrsgxswHmw31JlA9zBhwTPYAsxLEWRDXPpuzBpwKgGavgIiAowHoglmPm4CenQRNQ6CQB8tMAzOAzpv7uBFozKrHTeDkBY1BUCoABWhTA8xWVPtWA7MxLNSAXHAaApnRTdBZcPPWLob5cgEssHqfrYVFeBMkFe9_vnUjWGQmmLsTrB4Yw1vhsbNv4fMVc56uaISlCaDXgC4AqgWGHdBIYNrrxZnSoKECjE-g15_s7oI5fiIsguYBxZ8tA6Z1UD4ChhNYEOi4boyUDkwd65D9jvDmwqcT94CFgfEMdM1kSBJ_PgWS6oB-WQgJ0ZftfWARcM4C5rXWVoiXwFxgkoInI2DBA5YBpl9IuENyGSiTAHMqyL_7FsIcDQyQqeCggDgdkah7m5_shkTAwsdNEMnVYIXrwRG65lnrNnDEARGwSIE4ejMowICaKS-aoUBBS5-LyxdY91mF5QNrN4cag5pqsAttDM207MAsbBWCwvM1a4ClIbDaUTBReLqhH1gY6yAKcay2gIyqUTBW0AVCYwVDMG0EFzFVMIOIxAGFDOPAbCAFETQGipmCWRBoAMQ1YAN9DGuAmXEvWPRx80ogXgNhNy0B6gEW_VDeMiC7A6qqHywDVde8Hii7H8peBZSJR7IHxIbaYwTU09gPNa0JyN4EZXeCTGucCOW1IVQ1NoFkmiZBefPAaiHsdbjtMQaZ1gJVNw2I50PZ88H2QP3QuApoWgOUvRss04NkHsglDbjtMEFyceNWsNsg7PUodgB92dQNZbeAZdZDeZvAfoCxsdmDP-Hs6iE94UASjCEwyaCmCFNYajFDEoKkKVDqgmjDnmwQ0f64eTY02DaDIw2WOHqBGBoEzeAIaO5D6CE62UCTSmM3UE8XlD0dHKCI4EUklGVgF8CSynREEgDqxZ9sYPasBkcecvKEJSKQq2F2giIOHo3gJL0CKoMneYKTDtSEpslA9mSoHkjS2QflLQS7AmEagrcf7EN8_iFQ5nSSnnTgqQKSUJCLGCAbKflgFcRX8CyB-ARYpDxungH1FTgFwdJJ0yIg3gplg9IJIqWtA6cpmH78KQgam-DMCksn3UjZHth2QSp4IEUFLJ5BIQ4ruECpAV8KgqWTBeCUB2H3gk2DpSdQAQdN940zwTI74bYi4n8rgRTUhqRnB5QNLi7hJqwF2wzzAUhmKtzfiCIKe0rFm4KALQ1q1loYCcWYyMJnEcQLzcB6oRla3kOKmCZoKQuuzTZA2eDyF1YsNe0G64Owd-JPOk2wRNGDVECAsyQwy0N4KxDFALSch0X9LKAqWM02iUDSgSUKUEJcCmVDkijMNFBxAYtSUNYH1VwQXh9CPz57wElnIVRdB1KhArEHGm7ARA5sPMFVgXwKsxXkgs147anl4tK1UwC1hxSAtDIXAA)]
-- [鋼琴伴奏 TMD 檔案](seinendan_gotairei_hoshukuka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjC0MEPIlGSk5qZapaaUJieWZObnKXFpaSm8nDvp6c4tT-fMeLpv4dMly58vW_d0aefzpXOfre15v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ipYGHDZ2yo4JXHZGOmb2IFseLFy3vs9s55un_ti-_pn8ze_mLkTbPGz2ZuAwk92rH26ceOzmZ1Pd24GCz-dshFow_O1bS9WzHi6YxrQqhftu543Ln66dsKTfbOf7Jj2fGrP8yX7ns_c82Ih0CE9RgZGBnoGBmZ6BhYmxkBngDyml1WQDtQIdPXLGauezZn7bPrSZ9M2vGicB9T4dH3Liy0dT3s3PO3Y_mLtHKAOJS4u38TMPKuwfGCQOdQY1FRzKQCBjaGZlh2YVaNgrKALhMYKhmDaCC5iqmAGEYkDChnGgdlACiJoDBQzBbMg0ACIa8AG-hjWKDxu2gsWfdy8EojXQNhNS4B6HjevhfKWAdkdUFX9YBmouub1QNn9UPYqoEw8kj0gNtQeI6Cexn6oaU1A9iYouxNkWuNEKK8NoaqxCSTTNAnKmwdWC2Gvw22PMci0Fqi6aUA8H8qeD7YH6ofGVUDTGqDs3WCZHiTzQC5pwG2HCZKLG7eC3QZhr0exA-jLpm4ouwUssx7K2wT2A4yNyx5gPIJFDIHRjBqLprAYNkMSgqQDUIqAaMMe1Yioetw8G-rVzeCAhkVoLxBDnd0MDrTmPoQeoqMaGr2N3UA9XVD2dHAgIIIEEbnLwC6ARe90RLQB9eKPapg9q8EBjpykYBEPcjXMTlBgw4MenAxXQGXwJClwdENNaJoMZE-G6oFE9z4obyHYFQjTELz9YB8S8g9STEIiFzkrA9lIUY5VEF8GXwKxHZh1HzfPgLoEHOuwuG1aBMRboWxQ3CJSxzpwOoDpxx_r0BgAZwpY3HYjZa_HTcBYh2dwSJaExQ0olGAFBCgG8cU6LG4XgFMLhN0LNg2WBkAFCTStNs4Ey-yE24qIs60EYr0NSc8OKBtcLMFNWAu2GeYDkMxUuL8RRQHu1IWvRMeIXGMiM_kiiLXNwDKzGVoWQrJyE7QEApf0G6BscNkEy_5Nu8H6IOyd-KO7CRaRPUgZEZz0gVkLwluByG7QMhAWXbOAqmCl_iQC0Q2LSFDiWQplQ5IVzDRQtoRFAyiLgUp1CK8PoR-fPeDoXghV14GUeSH2QMMNmDAfN8JCqgPsU5itIBdsxmtPLbR2D8hMzMsP8sBevxtqw9KDabw2IknAhIGJQttEG6mqN9Y21UZU90BlUElQZWEer22kjb1YAKYomPGGYHVwTSAj4AURwnBwsYMkBdSDSItwszCtQdZjqo1csiEZDuSjWYVXEq-_CAYgTk8ZE-EplDj0QY5DE0QUxoMQmDYB0Wbx8WAMMjIeaA7cpfFgATADIQ8XwqcQRQeKQpjNOAwEul_XTgHkhWgfw1gFONsIiW2MxDYBs5W5AA)]
+- [主旋律 TMD 檔案](seinendan_gotairei_hoshukuka.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGFGboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKqCosy8ktSU-My84tQikAsQqlLLMlNSQWqKkxPz4stSizLTMlNTkByWWlQMdjLEJSVFiXnFyUWZBaimlGSkAl2fmVsA1J-Ygy6enFqUmpufhyKTX5SZnplnVZKYCfRCPBCXJ8bnJmbm5STmIdmeX1SSkZ9elFiQUWmVkVlcAtSVnJgTn52Yl6jEpaWl8HLupKc7tzydM-PpvoVPlyx_vmzd06Wdz5fOfba2R0FLi0vRVsHCgMveVsFJh8vGSN_EDmTwi5Xz3u-Z9XT73Bfb1z-bv_nFzJ1g-57N3gQUfrJj7dONG5_N7Hy6czNY-OmUjUDDnq9te7FixtMd097v6XjRvut54-Knayc82Tf7yY5pz6f2PF-y7_nMPS8W9rzf02NkYGSgZ2BgpmdgYWL8fk8nKNb0sgrSgRqBDnw5Y9WzOXOfTV_6bNqGF43zgBqfrm95saXjae-Gpx3bX6ydA9ShxMWlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQQ8BAeNq64tm0dpC7NvQ-a-9UgLlUAeKYJ7umPN8-C-yk7ucbFgIZQHXPW5c_7e962r_5aeOWp7NnP1_fADEL6Gxg4IGserFq_7OG5SBLuntfzJwPFH2xrutx89qXU7cDpYC2OSUpAAMCzO4ERokCUB0wLIEh97ih5-msLS-aWl_0db1s733cuFrBV89XT-HRzJW2FgaPG3q5QOY_2dHwuKHx-cpdQKMeN8593AS0uPN536bnk_tBIk09jxtbHjcBdbcBxR83rng2cwtY5XoQFyjb1P-4cf7jpi6QWSDwYttmsDzQpUD5rucrp4O5u4Hcl7ubX7ZPBHMnP24EGrwWbOTqp-uXgQX3P25cB9GFaiQw_YHlW6C2Nu4Auhhsxjpg5IOlmh43TgVJNTQCw-LphNlgQaAxux839gENButaDzPv6ZKVME37wDJLgKn9yd5emCP6gYHwuAkYhCApsENnA1U-bpwJCbBdwJBtfAlK3UDlQLVNYIWbQJoaJz5uagMKvpi0BxaiTY-bJj1unAcJV6CL4Y5oBQoA5Tc9buyGeBoY_8-2bgcLTgcKAv0LFp8ETCNgwWUwM4CyyMHzZPcGmHe2guUngYOn-3ET0FZgmPW_XA3OzrsgxswHmw31JlA9zBhwTPYAsxLEWRDXPpuzBpwKgGavgIiAowHoglmPm4CenQRNQ6CQB8tMAzOAzpv7uBFozKrHTeDkBY1BUCoABWhTA8xWVPtWA7MxLNSAXHAaApnRTdBZcPPWLob5cgEssHqfrYVFeBMkFe9_vnUjWGQmmLsTrB4Yw1vhsbNv4fMVc56uaISlCaDXgC4AqgWGHdBIYNrrxZnSoKECjE-g15_s7oI5fiIsguYBxZ8tA6Z1UD4ChhNYEOi4boyUDkwd65D9jvDmwqcT94CFgfEMdM1kSBJ_PgWS6oB-WQgJ0ZftfWARcM4C5rXWVoiXwFxgkoInI2DBA5YBpl9IuENyGSiTAHMqyL_7FsIcDQyQqeCggDgdkah7m5_shkTAwsdNEMnVYIXrwRG65lnrNnDEARGwSIE4ejMowICaKS-aoUBBS5-LyxdY91kFZCbm5TvUGNRUg11oY2imZQdmYasQFJ6vWQMsDYHVjoKJwtMN_cDCWAdRiGO1BWRUjYJxvIIuEAIpQwjLKB4hahqvYAYVBQoaglmGMCGgmhqQChAbAg2AuAZsro9hDTBP7gWLPm5eCcRrIOymJUBNwBoAylsGZHdAVfWDZaDqmtcDZfdD2auAMsj2gNhQe4yAehr7oaY1AdmboOxOkGmNE6G8NoSqxiaQTNMkKG8eWC2EvQ63PcYg01qg6qYB8Xwoez7YHqgfGlcBTWuAsneDZXqQzAO5pAG3HSZILm7cCnYbhL0exQ6gL5u6oewWsMx6KG8T2A8wNjZ78KefXT2kpx9oqgFSwISDniyAFCTRAJMMsiA0eYGTGtQA7CkIkQIeN8-GhuBmcPzB0kkvEENDoxkcF819CD1EpyBoqmnsBurpgrKng8MWEdKINLMM7AJYqpmOSA1AvfhTEMye1eB4RE6psPQEcjXMTlAcwmMUnLpXQGXwpFRwKoKa0DQZyJ4M1QNJRfugvIVgVyBMQ_D2g32Izz8ESqFO0lMRUtIAMxDFjRFyCsIihLcAWgLxBrBoedw8A-olcPKBJZKmRUC8FcoGJRJEMlsHTlAw_fiTDzQqwZkWlki6kbI_sCmDVABBigxYJIOCG1aAgZICvuQDSyQLwMkOwu4FmwZLTKCCDproG2eCZXbCbUVE_lYCyacNSc8OKBtcbMJNWAu2GeYDkMxUuL8RRRX2ZIo3-QAbHtSvxDDTC1CO6EJoEcQ3zcCqohlaBUCKmiZowQuu4DZA2eAiGVY8Ne0G64Owd-JPRU2w9NGDVFCAsyYw60N4KxDFAbToh6WCWUBVsMpuEoFUBEsfoDS5FMqGpFaYaaBiAxa7oCIAVJlBeH0I_fjsAaeihVB1HUiFC8QeaLgB0zuwWQVXBfIpzFaQCzbjtaeWi0vXTgHUUlIA0spcAA)]
+- [鋼琴伴奏 TMD 檔案](seinendan_gotairei_hoshukuka_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjC0MEPIlGSk5qZaJacWpebm52Um5ihxaWkpvJw76enOLU_nzHi6b-HTJcufL1v3dGnn86Vzn63teb-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqWBhw2dsqOOlw2Rjpm9iBrHixct77PbOebp_7Yvv6Z_M3v5i5E2zzs9mbgMJPdqx9unHjs5mdT3duBgs_nbIRaMPztW0vVsx4umMa0KoX7bueNy5-unbCk32zn-yY9nxqz_Ml-57P3PNiIdAhPUYGRgZ6BgZmegYWJsZAZ4B8ppdVkA7UCHT1yxmrns2Z-2z60mfTNrxonAfU-HR9y4stHU97Nzzt2P5i7RygDiUuLt_EzDyrgMzEvPwgD4cag5pqLgUgsDE007IDs2oUjOMVdIEQSBlCWEbxCFHTeAUzqChQ0BDMMoQJAdXUgFSA2BBoAMQ1UHOhpgEpoIHoyoEUxDCgUciCUGvBToAagGkyknI0pxkhm4pFCKdjCQUCphlAOQKOrUUOfR_k0LeABz5QW7RhLIyC802AlAkSH10e6AYD5IAmxgygnmhTVDNxmwHVDDcDnU99dwBDS9dOARRgCnhoZS4A)]
 
 ## 分析
 
@@ -87,10 +87,10 @@ tmd_source:
 ⏱  Duration:       0:24 (24.0s), 16 measures total
 🎼 Key & Tempo:    首調基準 B,, != 80.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
-🎤 人聲音域:    A#4 (MIDI 70) – D6 (MIDI 86) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  A#4 in [Main #1 @ m.1, 0:00]
-   - 最高音: D6 in [Main #1 @ m.9, 0:12]
-   - 適合: soprano, tenor
+🎤 人聲音域:    A#3 (MIDI 58) – D5 (MIDI 74) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
+   - 最低音:  A#3 in [Main #1 @ m.1, 0:00]
+   - 最高音: D5 in [Main #1 @ m.9, 0:12]
+   - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
 🏛  結構:      Main (24.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       A# 大調（純淨自然大調，未偵測到可信轉調）
@@ -128,7 +128,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Vocal         : A#4 – D6 (16 個半音 / 1.3 個八度, 52 個音符)
+  - Piano         : A#3 – D5 (16 個半音 / 1.3 個八度, 52 個音符)
 ================================================================================
 ```
 

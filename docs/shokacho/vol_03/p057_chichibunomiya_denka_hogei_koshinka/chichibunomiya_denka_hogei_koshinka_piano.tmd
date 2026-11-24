@@ -14,7 +14,7 @@
    Source: 唱歌帖 (Shōkachō, NMTH 2020.006.0843) — P057.jpg – P058.jpg (Notebook 1, p.15)
    ========================================================================= */
 
-ChichibunomiyaDenkaHogeiKoshinka_A:Vocal@|0|{
+ChichibunomiyaDenkaHogeiKoshinka_A:Piano@|0|{
     <16*>
     | {mf} 1 - - 2 3 - 1 - | 5 - - - 3 - - - | 2 - 1 - 2 - 3 - | 1 - - - 0 - - - |
     /* @Vocal:   ほ う て い ば ん り つ つ が な く */
@@ -47,7 +47,7 @@ ChichibunomiyaDenkaHogeiKoshinka_A:PianoLH@|0|{
     | 5_ 1 | 4_ 5_ | 1 5_ | 1 0 |
 }
 
-ChichibunomiyaDenkaHogeiKoshinka_B1:Vocal@|0|{
+ChichibunomiyaDenkaHogeiKoshinka_B1:Piano@|0|{
     <16*>
     | 6 - - 1^ 5 - 3 - | 2 - - - 5 - - - | 3 - 2 - 3 - 2 - | 1 - - - 0 - - - |
     /* @Vocal:   ち ち ぶ の み や を む か へ ま せ */
@@ -65,7 +65,7 @@ ChichibunomiyaDenkaHogeiKoshinka_B1:PianoLH@|0|{
     | 4_ 1 | 5_ 5_ | 1 5__ | 1_ 0 |
 }
 
-ChichibunomiyaDenkaHogeiKoshinka_B2:Vocal@|0|{
+ChichibunomiyaDenkaHogeiKoshinka_B2:Piano@|0|{
     <16*>
     | {f} 1 - - - 0 - 5_ - | 1 - - - 0 - 3 - | 5 - - - 5 - - - | 1^ - - - - - - - |
     /* @Vocal:   れ ば ん ざい ば ん ざ い ざ い */
