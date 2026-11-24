@@ -1,8 +1,8 @@
 {
-  "total_corpus_songs": 1566,
-  "unique_song_count": 1058,
-  "duplicate_group_count": 275,
-  "duplicate_occurrence_count": 783,
+  "total_corpus_songs": 1644,
+  "unique_song_count": 1133,
+  "duplicate_group_count": 277,
+  "duplicate_occurrence_count": 788,
   "theme_categories": [
     {
       "id": "ritual_and_commemoration",
@@ -52,7 +52,7 @@
     {
       "id": "other",
       "label": "其他",
-      "duplicate_group_count": 137
+      "duplicate_group_count": 139
     }
   ],
   "duplicate_groups": [
@@ -2507,6 +2507,26 @@
       ]
     },
     {
+      "id": "yukei",
+      "title": "夕景",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "izawa_shogaku_shoka/kan_4_3151/6_yukei",
+          "md_file": "izawa_shogaku_shoka/kan_4_3151/6_yukei/index.md",
+          "book_label": "《小學唱歌》巻四（明治26年／1893）",
+          "raw_title": "夕景"
+        },
+        {
+          "rel_dir": "izawa_shogaku_shoka/kan_6_3153/6_yukei",
+          "md_file": "izawa_shogaku_shoka/kan_6_3153/6_yukei/index.md",
+          "book_label": "《小學唱歌》巻六（明治26年／1893）",
+          "raw_title": "夕景"
+        }
+      ]
+    },
+    {
       "id": "yudachi",
       "title": "夕立",
       "theme_category": "nature_and_seasons",
@@ -3873,6 +3893,12 @@
       "theme_category_label": "日常生活與遊戲",
       "entries": [
         {
+          "rel_dir": "izawa_shogaku_shoka/kan_5_3152/11_asa",
+          "md_file": "izawa_shogaku_shoka/kan_5_3152/11_asa/index.md",
+          "book_label": "《小學唱歌》巻五（明治26年／1893）",
+          "raw_title": "朝"
+        },
+        {
           "rel_dir": "shoka_kyozai_shu_1923/grade_5_6/29_asa",
           "md_file": "shoka_kyozai_shu_1923/grade_5_6/29_asa/index.md",
           "book_label": "《新編小公學校唱歌教材集》第五、六學年（大正12年／1923，國臺圖 0725-41）",
@@ -5161,6 +5187,26 @@
           "md_file": "kyoyusho_shoka_1935/4_23_shirasagi/index.md",
           "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
           "raw_title": "白さぎ"
+        }
+      ]
+    },
+    {
+      "id": "koto",
+      "title": "皇統",
+      "theme_category": "other",
+      "theme_category_label": "其他",
+      "entries": [
+        {
+          "rel_dir": "izawa_shogaku_shoka/kan_4_3151/24_koto",
+          "md_file": "izawa_shogaku_shoka/kan_4_3151/24_koto/index.md",
+          "book_label": "《小學唱歌》巻四（明治26年／1893）",
+          "raw_title": "皇統"
+        },
+        {
+          "rel_dir": "izawa_shogaku_shoka/kan_6_3153/22_koto",
+          "md_file": "izawa_shogaku_shoka/kan_6_3153/22_koto/index.md",
+          "book_label": "《小學唱歌》巻六（明治26年／1893）",
+          "raw_title": "皇統"
         }
       ]
     },

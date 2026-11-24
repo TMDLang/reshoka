@@ -4,7 +4,7 @@ song_title: "月"
 song_id: "shokacho_vol_01_p155_tsuki"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈月〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：C 2/2。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）ヤナギナミキノ　ドテノミチーーー スズカゼコカゼノ　ユフマグレーーー…"
+description: "〈月〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：C 2/2。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "月, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -40,11 +40,7 @@ tmd_source:
 
 - 出處：《唱歌帳》（國立臺灣歷史博物館典藏號 2020.006.0843）第 P155.jpg 頁。
 - 標註：（小公唱材集 311 頁ヨリ）13.12.23.（大正 13 年 12 月 23 日抄錄）。
-- 調性與拍號：ハ調（C 大調），2/2 拍，原譜速度 𝅗𝅥=64（換算四分音符 != 128）。
-- 背景與曲風：每一樂句均以四分休止符後接優雅上行旋律展開，描寫黃昏柳樹並木堤岸上涼風習習，
-孩童獨自散步回家時，天邊明月宛如也怕孤單似地一路相隨，變成了與月亮兩人的同行。
-- 版本說明：本檔案為原頁單聲部簡譜之忠實數位化版本。
-【原頁歌詞全文與中文語譯】（對應 P155.jpg）
+- 調性與拍號：ハ調（C 大調），2/2 拍，原譜速度 != 128。
 
 ### 編曲說明（鋼琴伴奏版）：
 
@@ -55,17 +51,7 @@ tmd_source:
 ## 歌詞
 
 ```text
-（一）ヤナギナミキノ　ドテノミチーーー
-スズカゼコカゼノ　ユフマグレーーー
-ウミヲナガメテ　キノカゲーヲーーー
-ヒトリアソビノ　イキカヘリーーー
-一邊眺望大海、一邊走在樹蔭下，獨自遊玩後往返歸途。）
-
-（二）つきもひとりで　さびしいね
-あとからついて　いきかへり
-やなぎなみきの　すずかぜに
-つきとふたりの　いきかへり
-在柳樹成排的涼風中，變成了與月亮兩人的往返同行。）
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -76,7 +62,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGpKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWpCFGgUemZeValeSDjSzLTMlNTkCVLMvLTixILMiqtMjKLQfYmJ-bEZyfmJSpxaWkpPJvToaClxaVoq2BoZMFlb6vgzGVjpG9kBzLg2fSlzzbtfjaz6dmc-U9b1zxdu-PZgoWPG7qeTtn4bG3P0x2bHzd0v9_T8bR1x4vp_S9mzlcwMjAy0DMwMNMzsDAxfty8GxSK7_d0gl3ztG_-iz2dIN0b-kGGAc2YO-Hl7DagGc_XrFEwNjRUeLmgEWTckuXP1i5WMDRWeLpzC9BVYCcaGSuAXNPVAjaOS19LwZZagEtBQeFxw4Rnszc9n73uxapVz2b0PW6YCBZt3v20fdeLmVPf75mFxdtzup-v7n7Rvut54-Jna7c_7d_0tHfW886VL5eswBEiQLeDvAoKFb2sgnSQfx83NEFterZi5osVu4E2gYxGDSJY4DxuXvG4eRXQFENjPUMjPSNjPYLB9bIHFGIIW16s2v-sYfmLjvZn3b1A94E81twPFAQa5KwANArM7Hy_pweYBhSAaoAsUMStnfOyYf7TXcsUPsxtnQ7ES23NTIBanvXPfr5u-tPZs592tL2cv_n5mmUKkISEamdzz7OZ60F2zt70ctEKoJ3P1vc_2dHwbEXT0_6lT-e2P9m9FGLGkz0Tn61dBDTm6b6eZ31Ln7asejm79cmOrhcLe55N7366r_vpxqkvpwEDv-dZf__T9atf7m5-NqP_2fzNz1bsfLJj2bM5K54uWPJ00w6glmfb9gDter5_EhAB1YOcoqDwdO3K56uXPu9d8aJ91bOpwFgD2jvv6bptwCQO8uiSlS-buoDRDwzBp-tmP13W9GTn_GcNU5-uXfJ02rone_Y8nbMB6OwX29c_n73j5SygR3perOt61jHhya42kO_mdDzZte5p68onu3Y9n9XydEIP0NmIUHje2fFszhpI-gIFwZw1z1ZNebaw43nTLmAIA2MXaMeLxk0vm1c837AQGOBPdnY_3b_g6fplz6bueLK392nPNIgJIBOhSRaiD5gmX6yc97R1xbNp7UBnPNmxFsRYNe_F2vXAdAxOTb3P2jvhyQ4YN2ADgDJA34BiqnnJ4-aux03rQGTz_MdNax83A7NAw-NmoFQbiA0UbAamvj0QBLa9aefjpl2Pm1Y_btrzuGkzlAHVtuxx89THzfMeN2143LwGTRtQDmjYJrCFQLmFIBuAeiB2gkwBSgFVQ0i4tuZJj5s7gGn_cdOix017HzdPhlrVtASkE6iteQZIFlkP0HuQQAAG9tM5KyCJBBhZz_omgWIHnE6A-QwYm8DUAkpR4AQDDMCn-9YBGU8n7HzW3QRUCU1jM5uA6fP9ntmQhAQMOGBSeT5n17M5s0EZcOv2xw2NEMEXWzeArFux88WUtU92gNIqJL29bOx63rcSmLCf7mt4sX_Ks7U7XjZMAUYmcnTs6gFFR-OSx429j5uaHjduety44nFT1-PG5SDPNk593Lj5ceP0x40tjxvXgsOlEahoxePG7sdNEG1AiWVgpUBGL0i8cQdQPyTkgUKrHjf2gcn9YOl1YKUzHzfOAiud87hxNcRUsANABm993AhMD0AHQJRimIocyJD0D8oyM9ZDs8yOBmBeeLqv4-n6pqfr5z2dsByUZbbPB4VPx0Rg2L7YtRoYIKA8tXX7k31twMwID2HMKINEEDB5E8h34OCF5z5Q8AKNo7yagAIFLX0uruD8vHSrgMzEvHyHGoOaarCLbSy07MAMYN2kAfSSpoIBMN0uAeIuYOCvU6iBsECpfw9QYC2Q2QcUBCnqBOI2MB8oDVbYCMRAVVAMtBJu8K4esMGNQIMbe4HmNIHUN24CYmDdADIYaEfjcojBjVOBeDMQTwfiFrBCkLUYBoMU6yoYArEREBsDcY2CKUgkDkiZARkgDkSRMVQELFmjYBQHZiNgDTgto4RB004g3gXEq4EYlDtBDmkCOguUbUEuBrkFFhTLgBjo6uZ5QPEN4KBYQzAomkCeB-JuoJ5OsC9BgdMC1tIIMhBkI0hhCyTMQAobd4BdAYoQXMERB_KdMciDQBrsW5DHgQwzcHhAggmk0ggcKiDfGwFFQOKEQgRYCIJsnA_Em2AJownk0YXglAB2LTSFwEMJVCKC1QLjGn-AAHM62OurgBgUrhDWfqjnQSkRFBgzgXgWNDDmgFUB4wdXYBgDvQZLHxAvQtOHLjhQoOEADiZQ6IDCAxJcBEKieRIQdwDxKnB0LALivUDeZESKaALGJSgoQKkHEmlAtURmDmCqAPlrKxADgxqcM2C-JykpgPyKyAZgX4MTPjhxgAmYOjNYjjCDKUQNgFouLl07BVDxoQCklbkA)]
+- [主旋律 TMD 檔案](tsuki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGpKboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdeYklpUWpCFGgUemZeValeSDjSzLTMlNTkCVLMvLTixILMiqtMjKLQfYmJ-bEZyfmJSpxaWkpPJvToaClxaVoq2BoZMFlb6vgzGVjpG9kBzLg2fSlzzbtfjaz6dmc-U9b1zxdu-PZgoWPG7qeTtn4bG3P0x2bHzd0v9_T8bR1x4vp_S9mzlcwMjAy0DMwMNMzsDAxfty8GxSK7_d0gl3ztG_-iz2dIN0b-kGGAc2YO-Hl7DagGc_XrFEwNjRUeLmgEWTckuXP1i5WMDRWeLpzC9BVYCcaGSuAXNPVAjaOS19LwZZagEtBQeFxw4Rnszc9n73uxapVz2b0PW6YCBZt3v20fdeLmVPf75mFxdtzup-v7n7Rvut54-Jna7c_7d_0tHfW886VL5eswBEiQLeDvAoKFb2sgnSQfx83NEFterZi5osVu4E2gYxGDSJY4DxuXvG4eRXQFENjPUMjPSNjPYLB9bIHFGIIW16s2v-sYfmLjvZn3b1A94E81twPFAQa5KwANArM7Hy_pweYBhSAaoAsUMStnfOyYf7TXcsUIOkEah7lYQ8FClr6XFzB-XnpVgGZiXn5DjUGNdUgCxRsLLTswAxghGs82dGgqWAA9MUSIO5SeNy0TqEGwmqe_7h5D1BgLZDZBxQEKeoE4jYwHygNVtgIxEBVUAy0Em7wrh6wwY1Agxt7geY0gdQ3bgJiYICDDAba0bgcYnDjVCDeDMTTgbgFrBBkLYbBIMW6CoZAbATExkBco2AKEokDUmZABogDUWQMFQFL1igYxYHZCFgDNtDHsEYhHsgD-R9EdoFIYBiATIHyIOEAEl4L5vaBJSGaEOEBMhIRJlitMoLqAoYIiOwFm9kEsQoYLiAxcMiAhME2A0MHbhVSCIGtgocSulUYMdu0E4h3AfFqIN4DsgCosQloVNNqSDyAQhgWwcuAGGhT8zyg-AawZ9YQjOAmkMOBuBuopxPsKlCUt4C1NIIMBNkIUtgCSQkghY07wK4AJTNckRwHijNjULQBaXAcgqITyDADxzIk8kEqjcBxDfK9EVAEJI4nnpFCA8QDhwc4BoAhAhIAhwlYBiOyEWEDjgF4-OCPbETogPR0QqMbkgTAYQRiLANbAHEJRBsirCDRDQsvwtG9DBKc84F4EywvN4FicSE4sYKjApqp4UlgEzRZAHUQiO0maLyuAmJQooGw9kNdCyo8QDE9E4hnQWN6DlgVMPHhimljYLzBsjQk_qBZWhcc49BIBqcBUNSDIhuSFvBFMzgUIFkSRIKyFzxHA0MDJLYQTLYhAh1rqIANh5qAJ54h4QKKqVVgEpJwYLz9YBKc44FhhIhlRDiBeHOgekBJk0AsN08C4g4gXgVOF4uAeC-QNxmRlZuAmRDkIVC2h6QeoFoiy2pgggW5YysQA5MRuKCGxSxJeRgUj4hSGRyj4HIYnKvBBEydGayANoMpxBO5QM-DyA4wCQpgSBCAYmEvWGwymETKu0iBgZSdwHqJLKiBQQKJnK1gHjhVQUtp5AglNtvWcnHp2imAaudoH8NYBTjbCMxW5gIA)]
 - [鋼琴伴奏 TMD 檔案](tsuki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0NUXIlGSk5qZaJRaXFOXn5edWKnFpaSk8m9Pxfk_Hy-49zydsebJny9Ol_c87gSKdClpaXIq2CoZGFlz2tgrOXDZG-kZ2IJOeTV_6bNPuZzObns2Z_7R1zdO1O54tWPi4oevplI3P1vY83bH5cUM30MSnrTteTO9_MXO-gpGBkYGegYGZnoGFifHj5t0gNwEtADvrad_8F3s6Qbo39IMMA5oxd8LL2W1AM56vWaNgbGio8HJBoxIXl76Wgi21AJeCgsLjhgnPZm96Pnvdi1Wrns3oe9wwESzavPtp-64XM6e-3zMLi5fmdD9f3f2ifdfzxsXP1m5_2r_pae-s550rXy5ZgcO3QG-CvAHysV5WQTrIL48bmqA2vVi1_1nD8hcd7c-6e4E6QVY29wMFgTY5KzxdshzM7Hy_pwcY8gpANUDWy4b5T3ctU4DEC1Ddh7mt04F4qa2ZCVApwujn21cAfQfxGtbYBVoGUqqgYKin8LSzFyiuoOGZB0wXOgomCsC4eL6-QROo5mn_tGdzVj9b0fS0f-mz6d1P9wGDoedZf__znauezd_8dMGSp_vWvVy0AuSHGX3AlPR89g6gLc9ntTxrWvC8ZduztUuBnoA6S0HBSE_hyY7dwBCFuERBIzg_L11HwdAMaqPC4ekKQJ-u2wq2evuyZ53dT-esAAWgIcj_oKiYsvHJnonP1i4CRtGT3Uuf7O17CXRGa8fTDUBvAiNq29Puqc-2Nj6btQjoBgVouAFdDRSGuoLy1AMFClr6XFzgILMKyEzMyw_ycKgxqKkG-9TGQssOzKhRMFDQVTAFYjMoXaNgGAekjECEMZyAqTODSICUQxXCIEi-hqsWxUofZCtN4FYaxitEG8YqmEIoTD6IYQrhAym4PJAygFgBihaCnjIE-QLkfrDzQV4DuhfkA5g_QYqMoSJgyRqY5xCwBtnAOJA8ODiANFg9SCuQYQY2EWIRSKUR2FyQfiOgCEgcl5nGQBUwh0JUQh0KiRCocWDbQJaAjIXYistAakQlxEyUcCYtJk2AlAkS3wxImeUiRa0RNGpxGAPVDxXGmSBg6ol0DFS7MZAyBjsG5iyQCNh51EqfunYK4FygAGSAwhCZVuYCAA)]
 
 ## 分析
@@ -85,14 +71,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 月 ]
 ================================================================================
-⏱  Duration:       0:30 (30.0s), 16 measures total
+⏱  Duration:       1:00 (60.0s), 32 measures total
 🎼 Key & Tempo:    首調基準 C, != 128.0 BPM, <2/2>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – E5 (MIDI 76) [跨度: 16 個半音 / 1.3 個八度, 難度: moderate]
-   - 最低音:  C4 in [Song #1 @ m.1, 0:00]
-   - 最高音: E5 in [Song #1 @ m.5, 0:08]
+   - 最低音:  C4 in [Song[L1] #1 @ m.1, 0:00]
+   - 最高音: E5 in [Song[L1] #1 @ m.5, 0:08]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song (30.0s)
+🏛  結構:      Song[L1] (30.0s) -> Song[L2] (30.0s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -100,9 +86,10 @@ tmd_source:
    - 核心骨幹音:  E, D, A, C, G
    - 調性數值:    C 調性不明確 [相關度: 0.73, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): C 大調 (0.73), A 小調 (0.72), G 大調 (0.68)
-   - 五度圈歷程:   +0
+   - 五度圈歷程:   +0 -> +0
    - 各段落調性細節:
-     • [Song #1]: C 調性不明確 (r: 0.73, 自然音純度: 100.0%)
+     • [Song[L1] #1]: C 調性不明確 (r: 0.73, 自然音純度: 100.0%)
+     • [Song[L2] #1]: C 調性不明確 (r: 0.73, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
               [C ]*
@@ -129,7 +116,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 55 個音符)
+  - Piano         : C4 – E5 (16 個半音 / 1.3 個八度, 110 個音符)
 ================================================================================
 ```
 

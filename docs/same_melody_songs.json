@@ -1,7 +1,85 @@
 {
-  "total_corpus_songs": 1566,
-  "same_melody_different_lyrics_group_count": 9,
+  "total_corpus_songs": 1644,
+  "same_melody_different_lyrics_group_count": 11,
   "groups": [
+    {
+      "versions": [
+        {
+          "id": "izawa_shogaku_shoka/kan_4_3151/11_yasukuni_jinja",
+          "lyrics": "めいじのみよのおさまりてみやこもひなにちかずきにぬおもいずずけてかたらひもりみだれしよこそゆくへなりき",
+          "titles": [
+            "靖國神社"
+          ],
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_4_3151/11_yasukuni_jinja",
+              "md_file": "izawa_shogaku_shoka/kan_4_3151/11_yasukuni_jinja/index.md",
+              "book_label": "《小學唱歌》巻四（明治26年／1893）",
+              "raw_title": "靖國神社",
+              "year": 1892
+            }
+          ]
+        },
+        {
+          "id": "izawa_shogaku_shoka/kan_4_3151/8_saibo_no_uta",
+          "lyrics": "このとしこのひおれむべしおちばはえだにかへりこずながれはふちのとどまらずこのつきこのひおれむべし",
+          "titles": [
+            "歲暮歌"
+          ],
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_4_3151/8_saibo_no_uta",
+              "md_file": "izawa_shogaku_shoka/kan_4_3151/8_saibo_no_uta/index.md",
+              "book_label": "《小學唱歌》巻四（明治26年／1893）",
+              "raw_title": "歲暮歌",
+              "year": 1892
+            }
+          ]
+        }
+      ],
+      "id": "001_11_yasukuni_jinja"
+    },
+    {
+      "versions": [
+        {
+          "id": "izawa_shogaku_shoka/kan_5_3152/16_santo",
+          "lyrics": "むかしおとこのそのかみのならなにおおすみやこどりいまぞまことのみやこどりいまぞまことのみ",
+          "titles": [
+            "三都"
+          ],
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_5_3152/16_santo",
+              "md_file": "izawa_shogaku_shoka/kan_5_3152/16_santo/index.md",
+              "book_label": "《小學唱歌》巻五（明治26年／1893）",
+              "raw_title": "三都",
+              "year": 1892
+            }
+          ]
+        },
+        {
+          "id": "izawa_shogaku_shoka/kan_5_3152/23_yasukuni_jinja",
+          "lyrics": "めいじのみよのたひらけくおみやこにひらきまつらんとありつるきみがみたまのみやこそここにた",
+          "titles": [
+            "靖國神社"
+          ],
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_5_3152/23_yasukuni_jinja",
+              "md_file": "izawa_shogaku_shoka/kan_5_3152/23_yasukuni_jinja/index.md",
+              "book_label": "《小學唱歌》巻五（明治26年／1893）",
+              "raw_title": "靖國神社",
+              "year": 1892
+            }
+          ]
+        }
+      ],
+      "id": "002_16_santo"
+    },
     {
       "versions": [
         {
@@ -54,7 +132,7 @@
           ]
         }
       ],
-      "id": "001_14_kiku_no_hana"
+      "id": "003_14_kiku_no_hana"
     },
     {
       "versions": [
@@ -93,7 +171,7 @@
           ]
         }
       ],
-      "id": "002_19_sotsugyo_no_uta"
+      "id": "004_19_sotsugyo_no_uta"
     },
     {
       "versions": [
@@ -156,7 +234,7 @@
           ]
         }
       ],
-      "id": "003_1_meiji_tenno_gyosei"
+      "id": "005_1_meiji_tenno_gyosei"
     },
     {
       "versions": [
@@ -226,7 +304,7 @@
           ]
         }
       ],
-      "id": "004_p042_hotaru_no_hikari"
+      "id": "006_p042_hotaru_no_hikari"
     },
     {
       "versions": [
@@ -273,7 +351,7 @@
           ]
         }
       ],
-      "id": "005_20_dosokai"
+      "id": "007_20_dosokai"
     },
     {
       "versions": [
@@ -312,7 +390,7 @@
           ]
         }
       ],
-      "id": "006_p043_yukedomo"
+      "id": "008_p043_yukedomo"
     },
     {
       "versions": [
@@ -358,7 +436,7 @@
           ]
         }
       ],
-      "id": "007_1_2_05_yamato_damashii"
+      "id": "009_1_2_05_yamato_damashii"
     },
     {
       "versions": [
@@ -404,7 +482,7 @@
           ]
         }
       ],
-      "id": "008_4_02_kabin_no_hana"
+      "id": "010_4_02_kabin_no_hana"
     },
     {
       "versions": [
@@ -443,7 +521,7 @@
           ]
         }
       ],
-      "id": "009_2_07_tasukebune"
+      "id": "011_2_07_tasukebune"
     }
   ]
 }

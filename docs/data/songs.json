@@ -342,10 +342,40 @@
     "url": "hyojun_shoka_gakushucho/grade_6/05_natsu_no_mori/"
   },
   {
+    "title": "樂しき農夫",
+    "collection": "《標準唱歌學習帖》",
+    "volume": "第六學年 兒童用（國臺圖 0729 47）",
+    "url": "hyojun_shoka_gakushucho/grade_6/06_tanoshiki_nofu/"
+  },
+  {
+    "title": "秋の散歩",
+    "collection": "《標準唱歌學習帖》",
+    "volume": "第六學年 兒童用（國臺圖 0729 47）",
+    "url": "hyojun_shoka_gakushucho/grade_6/07_aki_no_sampo/"
+  },
+  {
+    "title": "山居の美",
+    "collection": "《標準唱歌學習帖》",
+    "volume": "第六學年 兒童用（國臺圖 0729 47）",
+    "url": "hyojun_shoka_gakushucho/grade_6/08_sankyo_no_bi/"
+  },
+  {
+    "title": "獵",
+    "collection": "《標準唱歌學習帖》",
+    "volume": "第六學年 兒童用（國臺圖 0729 47）",
+    "url": "hyojun_shoka_gakushucho/grade_6/09_ryo/"
+  },
+  {
     "title": "新高山",
     "collection": "《標準唱歌學習帖》",
     "volume": "第六學年 兒童用（國臺圖 0729 47）",
     "url": "hyojun_shoka_gakushucho/grade_6/10_niitakayama/"
+  },
+  {
+    "title": "君國",
+    "collection": "《標準唱歌學習帖》",
+    "volume": "第六學年 兒童用（國臺圖 0729 47）",
+    "url": "hyojun_shoka_gakushucho/grade_6/11_kimi_no_kuni/"
   },
   {
     "title": "おほわた",
@@ -424,6 +454,414 @@
     "collection": "《小學唱歌》（伊澤修二編）",
     "volume": "巻一（NDL PID 855321，明治25年／1892）",
     "url": "izawa_shogaku_shoka/kan_1_855321/17_kazoeuta/"
+  },
+  {
+    "title": "上野公園",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/1_ueno_koen/"
+  },
+  {
+    "title": "雪",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/2_yuki/"
+  },
+  {
+    "title": "山家",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/3_yamaga/"
+  },
+  {
+    "title": "學の力",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/4_manabi_no_chikara/"
+  },
+  {
+    "title": "日本三景",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/5_nihon_sankei/"
+  },
+  {
+    "title": "夕景",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/6_yukei/"
+  },
+  {
+    "title": "母の惠",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/7_haha_no_megumi/"
+  },
+  {
+    "title": "歲暮歌",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/8_saibo_no_uta/"
+  },
+  {
+    "title": "我宿",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/9_waga_yado/"
+  },
+  {
+    "title": "松の操",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/10_matsu_no_misao/"
+  },
+  {
+    "title": "靖國神社",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/11_yasukuni_jinja/"
+  },
+  {
+    "title": "歌（三部輪唱）",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/12_uta/"
+  },
+  {
+    "title": "身はたをやめ",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/13_mi_wa_tawoyame/"
+  },
+  {
+    "title": "小督",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/14_kogo/"
+  },
+  {
+    "title": "春の惠",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/15_haru_no_megumi/"
+  },
+  {
+    "title": "哀悼",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/16_aito/"
+  },
+  {
+    "title": "三秀",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/17_sanshu/"
+  },
+  {
+    "title": "四季の月",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/19_shiki_no_tsuki/"
+  },
+  {
+    "title": "朋友",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/20_hoyu/"
+  },
+  {
+    "title": "高き譽",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/21_takaki_homare/"
+  },
+  {
+    "title": "絲竹月花（三部輪唱）",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/22_shichiku_gekka/"
+  },
+  {
+    "title": "皇國の四季",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/23_kokoku_no_shiki/"
+  },
+  {
+    "title": "皇統",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/24_koto/"
+  },
+  {
+    "title": "京の四季",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻四（廣島大學圖書館 ID 3151，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_4_3151/25_kyo_no_shiki/"
+  },
+  {
+    "title": "宮城",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/2_miyagi/"
+  },
+  {
+    "title": "行軍歌",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/3_kogunka/"
+  },
+  {
+    "title": "春雨",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/4_harusame/"
+  },
+  {
+    "title": "秋景",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/5_shukei/"
+  },
+  {
+    "title": "臣の鑑",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/6_omi_no_kagami/"
+  },
+  {
+    "title": "國旗",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/8_kokki/"
+  },
+  {
+    "title": "和歌の浦",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/9_waka_no_ura/"
+  },
+  {
+    "title": "豐年",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/10_honen/"
+  },
+  {
+    "title": "朝",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/11_asa/"
+  },
+  {
+    "title": "來れや來れ",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/12_kitareya_kitare/"
+  },
+  {
+    "title": "山家",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/13_yamaga/"
+  },
+  {
+    "title": "夏",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/14_natsu/"
+  },
+  {
+    "title": "琵琶湖",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/15_biwako/"
+  },
+  {
+    "title": "三都",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/16_santo/"
+  },
+  {
+    "title": "日本男子",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/17_nihon_danshi/"
+  },
+  {
+    "title": "秋",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/18_aki/"
+  },
+  {
+    "title": "矢玉は霰",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/19_yadama_wa_arare/"
+  },
+  {
+    "title": "我日本",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/20_waga_nihon/"
+  },
+  {
+    "title": "勅語",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/21_chokugo/"
+  },
+  {
+    "title": "須磨明石",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/22_suma_akashi/"
+  },
+  {
+    "title": "靖國神社",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/23_yasukuni_jinja/"
+  },
+  {
+    "title": "美術國",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻五（廣島大學圖書館 ID 3152，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_5_3152/24_bijutsukoku/"
+  },
+  {
+    "title": "上野公園",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/1_ueno_koen/"
+  },
+  {
+    "title": "雪",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/2_yuki/"
+  },
+  {
+    "title": "屯田兵",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/3_tondenhei/"
+  },
+  {
+    "title": "日本三景",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/4_nihon_sankei/"
+  },
+  {
+    "title": "習へや",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/5_naraheya/"
+  },
+  {
+    "title": "夕景",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/6_yukei/"
+  },
+  {
+    "title": "磯山元",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/7_isoyamamoto/"
+  },
+  {
+    "title": "母の思ひ",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/8_ha_no_omohi/"
+  },
+  {
+    "title": "歲暮歌",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/9_seibo/"
+  },
+  {
+    "title": "海山",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/10_umi_yama/"
+  },
+  {
+    "title": "岩清水",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/11_iwashimizu/"
+  },
+  {
+    "title": "四の時",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/12_shi_no_toki/"
+  },
+  {
+    "title": "今の世",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/13_ima_no_yo/"
+  },
+  {
+    "title": "春の惠",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/14_haru_no_megumi/"
+  },
+  {
+    "title": "尙武",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/15_shobu/"
+  },
+  {
+    "title": "商船",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/17_shosen/"
+  },
+  {
+    "title": "軍艦",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/18_gunkan/"
+  },
+  {
+    "title": "朋友",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/19_hoyu/"
+  },
+  {
+    "title": "四季の月",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/20_shiki_no_tsuki/"
+  },
+  {
+    "title": "古戦場",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/21_kosenjo/"
+  },
+  {
+    "title": "皇統",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/22_koto/"
+  },
+  {
+    "title": "哀悼",
+    "collection": "《小學唱歌》（伊澤修二編）",
+    "volume": "巻六（廣島大學圖書館 ID 3153，明治26年／1893）",
+    "url": "izawa_shogaku_shoka/kan_6_3153/23_aito/"
   },
   {
     "title": "日の丸の旗",
@@ -7596,7 +8034,7 @@
     "url": "shokacho/vol_01/p142_marui_koyama/"
   },
   {
-    "title": "機織り（手毬唄）",
+    "title": "機織（手毬唄）",
     "collection": "《楊金土手抄唱歌帖》",
     "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
     "url": "shokacho/vol_01/p143_hataori/"
@@ -7656,7 +8094,7 @@
     "url": "shokacho/vol_01/p152_jugoya_otsukisan/"
   },
   {
-    "title": "七里が濱（女子大学校歌）",
+    "title": "七里が濱（女子大學校歌）",
     "collection": "《楊金土手抄唱歌帖》",
     "volume": "原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）",
     "url": "shokacho/vol_01/p153_shichirigahama/"

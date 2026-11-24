@@ -78,7 +78,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](hibari_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGpAboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdiXmZuch6gUalZ-ZZ5ebnJZUCnYgpkZqZlRlfklpRgupmqHR5anFJalFefG5qTn4KknPzi0oy8tOLEgsyKq0yMotBLk5OzInPTsxLVOLS0lJ4OXvTy9kNjxvXPVvbo6ClxaVoq2BoYMBlb6vgyGVjom9iBzLp2fSlzzbtfjaz6dmc-U9b1zxdu-PZgoWPG7qeTtkI1PZ0x-bHDd3v93Q8bd3xYnr_i5nzFYwMjAz0DAzM9AwsTIwfN-8GRcT7PZ1gZz3tm_9iTydI94Z-oGFAk0DGzJ3wcnYb0Jjna9YoGBkZK7xc0AgyccnyZ2sXKxgaKzzduUXB0Ejh2ZwOMAV0UFcL2EQufS0FW2oBLgUFhccNE57N3vR89roXq1Y9m9H3uGEiWLR599P2XS9mTn2_ZxYWn8_pfr66-0X7rueNi5-t3f60f9PT3lnPO1e-XLICR6AA3Q7yKihg9LIK0qH-fdbZ_XT9aiD7-aI9CkaGQEWPG5qg1j9bMfPFit1A60H2YQQdLNAeN6943LwKqNHQWM_QCIQIBuPLHlBIIix6sWr_s4blLzran3X3At0N8nDTEqAg0CBHBaBRYGbn-z09wOShAFQDZL1smP901zIFSOIB8p_u2fhi63awXAfIm2B1QBGgcyFan05Y_bSz9-m-nqetK5-t2_q0v_fFsjagYs_HDY2engrPt054umEfqquae57NXA9yFTDFLloBdBUwAl4u6Hm-YMuz2Z0vF89-sqPr5dxJz1fuej6r5dmcudCE3dD4fOX-l419z2YsfTln3rOpW0B-XgsKN6Cy5zP3vdy89MnO7ud93UCVT3Yvfdrf9WzWuhedm57sWPts7Y6n2xe9XDDh6cQuYEIAanza1vt0af_TJSufT9gC1P50yVSYLTBXPu_seDZnDSTlgJw4Z82zVVOeLex4uq4HaPfTjVNfTusGZgBgREG9D_b4ixUzwAEN8_6z7jVgPjik9i94un7Z04kdz_v3QUwBBsDTPf0gO6HJFWIgMDherJz3tHXFs2ntwGACeQDIWDXvxdr1wDQMTjS9z9o74UkOaDzYgCc7QKH0uGnR46aNj5uXPW5a_7h5PjAYHzd3P27uAHKB8fa4aS0w9T9ubn_cDMykjSBtIJ9PmwxU9LKx63HzzMfNq591THzc3I8c9CB1z1Y0PW4CGfBszuzHzYseNwOTaBswul4s7AGa_XT5_sfNm14sA1oFTLdLoAEJdCzE4cAgfDpnxbM9O4AIEtHgYF8JdB7If9NXAhHQeS92rQaF1JwVEEc9XdMJdBQoGXRMfDZjPdxF7_fMBpmuoPBidffzOd0g2fbtLyZOf7p_NdCVIJN39ABdCYyl5_tbX66eAXQlSHD5_met3U8nLH-_B5hFoWG2qwfoPWCCAjr-cfOMx80NoIBpbnuyo_v51B6Yj9Y8bp4ACy2Q0u6nwFABhtMcoFf7wIHXB0mBUEXgOACiZWCt0DgAugMcJZMeN_eCwq9pJyxE1wNjHBjgj5sXYAm2l7OmAH0GSfVP9q9_Pm_Dk127gHYCw-lF416g84DiL-csB4Xiip3P5k0HSkHc8nTqnpebt8CD6unULqAWYFC9WNYICmBgqKyegRIJ4CwFCcKnczaASkVQJkcE1Q5gJm582roUEuEgtXuB6az7acdSYDgBs9bjJmAQwlIVyJNNGx43rwSqeNawFCwHTVhIuQ2SsCBZsh-Y4eZCEyrIhrVAw140znvctPpxM5AEhhMwzS0EBjU4CBcCcy62RDZh4oul-59tgiSvqS9n7n3ZOBnoQpDXG4CemwlMCk9nzwMWB89XgnI-JGHBXQQPLaCbgAEDzFGgpNkx8WVTCzDYIMkUUkJBgg0UCesmA4vSp-u2gWKjcS9YFyjJPt_X93TZTKArX84H1i1NoFAEmkt5zQYFClr6XFzB-XnpVgGZiXn5DjUGNdVgp9sYmmnZgVnA-hRSfAMrmefrGxQ0gCWVgjGoAH-yZ-KztYuAjocX6aAkqwkyE6SxRsFAQRcM0WnTeCijBpwkwFZ09sLLfaBxwCB72diroOGpCa5uNgITwjKg4euB9HwFYIgB6W4g7gCLAd0GpNcqAIskoFg7ELcB8R6EOwyBVpmD7AQxjIDYGMMhuNXA6BqwKAyCREF8uDYzEFGDMBEEgRJAYbgQEd7e1QPxNtjfwMSkAMyHYL8CCzAgPROIVysAUxKQ7gfW2nNBxS4QNww6v8KiGsmr-3rwxPB-oI_6gLEIiUkIex84toGFHBA3Yo9VZAhzPAwCHUhQBcSbRmg0wsuYtpDgQ5TIBCfWZlBkQhNy004gXgPEIK9vgnp1BRAvoYUXDSExB2Ig-xGiBN0amNfghnDVcnHp2imACgoFIK3MBQA)]
+- [主旋律 TMD 檔案](hibari_no_uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKGpAboM3KT4vPyS1KT8_GyEioKi_LLUvMQ8oKrcxLzS4uSizIKS-OT8gkqEmtSyzJRUkIrUlMyS_KLMxBwkJ6UWFYMdC3FDSVFiHsQMoCBCVUlGKtDdiXmZuch6gUalZ-ZZ5ebnJZUCnYgpkZqZlRlfklpRgupmqHR5anFJalFefG5qTn4KknPzi0oy8tOLEgsyKq0yMotBLk5OzInPTsxLVOLS0lJ4OXvTy9kNjxvXPVvbo6ClxaVoq2BoYMBlb6vgyGVjom9iBzLp2fSlzzbtfjaz6dmc-U9b1zxdu-PZgoWPG7qeTtkI1PZ0x-bHDd3v93Q8bd3xYnr_i5nzFYwMjAz0DAzM9AwsTIwfN-8GRcT7PZ1gZz3tm_9iTydI94Z-oGFAk0DGzJ3wcnYb0Jjna9YoGBkZK7xc0AgyccnyZ2sXKxgaKzzduUXB0Ejh2ZwOMAV0UFcL2EQufS0FW2oBLgUFhccNE57N3vR89roXq1Y9m9H3uGEiWLR599P2XS9mTn2_ZxYWn8_pfr66-0X7rueNi5-t3f60f9PT3lnPO1e-XLICR6AA3Q7yKihg9LIK0qH-fdbZ_XT9aiD7-aI9CkaGQEWPG5qg1j9bMfPFit1A60H2YQQdLNAeN6943LwKqNHQWM_QCIQIBuPLHlBIIix6sWr_s4blLzran3X3At0N8nDTEqAg0CBHBaBRYGbn-z09wOShAFQDZL1smP901zIFSOIB8p_u2fhi63awXAfIm2B1QBGgcyFan05Y_bSz9-m-nqetK5-t2_q0v_fFsjagYs_HDY2engrPt054umEfqquae57NXA9yFTDFLloBdBUwAl4u6Hm-YMuz2Z0vF89-sqPr5dxJz1fuej6r5dmcudCE3dD4fOX-l419z2YsfTln3rOpW0B-XgsKN6Cy5zP3vdy89MnO7ud93UCVT3Yvfdrf9WzWuhedm57sWPts7Y6n2xe9XDDh6cQuYEIAanza1vt0af_TJSufT9gC1P50yVSYLTBXPu_seDZnDSTlgJw4Z82zVVOeLex4uq4HaPfTjVNfTusGZgBgREG9D_b4ixUzwAEN8_6z7jVgPjik9i94un7Z04kdz_v3QUwBBsDTPf0gO6HJFWIgMDherJz3tHXFs2ntwGACeQDIWDXvxdr1wDQMTjS9z9o74UkOaDzYgCc7QKH0uGnR46aNj5uXPW5a_7h5PjAYHzd3P27uAHKB8fa4aS0w9T9ubn_cDMykjSBtIJ9PmwxU9LKx63HzzMfNq591THzc3I8c9CB1z1Y0PW4CGfBszuzHzYseNwOTaBswul4s7AGa_XT5_sfNm14sA1oFTLdLoAEJdCzE4cAgfDpnxbM9O4AIEtHgYF8JdB7If9NXAhHQeS92rQaF1JwVEEc9XdMJdBQoGXRMfDZjPdxF7_fMBpmuoPBidffzOd0g2fbtLyZOf7p_NdCVIJN39ABdCYyl5_tbX66eAXQlSHD5_met3U8nLH-_B5hFoWG2qwfoPWCCAjr-cfOMx80NoIBpbnuyo_v51B6Yj9Y8bp4ACy2Q0u6nwFABhtMcoFf7wIHXB0mBUEXgOACiZWCt0DgAugMcJZMeN_eCwq9pJyxE1wNjHBjgj5sXYAm2l7OmAH0GSfVP9q9_Pm_Dk127gHYCw-lF416g84DiL-csB4Xiip3P5k0HSkHc8nTqnpebt8CD6unULqAWYFC9WNYICmBgqKyegRIJ4CwFCcKnczaASkVQJkcE1Q5gJm582roUEuEgtXuB6az7acdSYDgBs9bjJmAQwlIVyJNNGx43rwSqeNawFCwHTVhIuQ2SsCBZsh-Y4eZCEyrIhrVAw140znvctPpxM5AEhhMwzS0EBjU4CBcCcy62RDZh4oul-59tgiSvqS9n7n3ZOBnoQpDXG4CemwlMCk9nzwMWB89XgnI-JGHBXQQPLaCbgAEDzFGgpNkx8WVTCzDYIMkUUkJBgg0UCesmA4vSp-u2gWKjcS9YFyjJPt_X93TZTKArX84H1i1NoFAEmkt5zQYFClr6XFzB-XnpVgGZiXn5DjUGNdVgp9sYmmnZgVnA-hRSfAMrmefrGxQ0gCWVgjGoAH-yZ-KztYuAjocX6aAkqwkyE6SxRsFAQRcM0WnTeCijBqzQx7BGASaCTgMNRFVrhE_talS1xvjULoGrhXuzsxde9wC9BIy2l429ChqemuAqbyMwMS4D6lsPpOcrAGMNSHcDcQdYDBg-QHqtArBYBIq1A3EbEO9BhIUh0CpzkO0ghhEQG2MEBm41MLoGLAqDIFEQH67NDETUIEwEQaAEUBguhCXoQV4DBgjQc6BgWQ9mzwez98ICq3kl3AEgT4NEOhCqm1aBybWYQQsOCoRbQIECIvcgicHUoYvB9YDtQHIxMAEACz2EK5s3gckZYLIBxSaY2WBbm8DqwEkE4kKITojqNUiqJ6C4GJu78LsXMxFCzEcN4UkoaiGuQw1hSNiC3QvVj3BvC0I1XCeqv4l2b3Mv3L24MsKuHkhGAOcEYBGnAKwdwM4EVqtAeiYQr1YAlm9Auh_YlpwLagwAccOgS_2wAggp8TeDyhdg1QAmwQEPLnGQE_9MuP0gf8KjBhop_XA9kIjciqQaFMmIgAYlLGBjHEmMUOSgZVaMpA9xL8jGx00r4Pa0oru3aTNYvA_JpyA2RDW8fEViQ2TAWZwS94KSftMGsCmgAgTmXnDmQ4QvWAWB8AVnHYirpiKppl74wpP-vh48dcB-cMgBWxHg4g7C3geODVDYAduy4AyIUe4jQ1hiRjjPlKAKSLI3QqMRWQDTFnwpHugLVMWI1IAUZkA_oqmCF_BIqqA6YaEAMQ0SEjCzkQti9HhAr5WR0zlyWoSYBEoJ6K6EpQuEKlhRjuxKqMuAaQ5WlYHrbnhIIBXaSBUOAVeCUzeGK8H5E91-UJ5DVYUeBwizQPkZkvcglQVS2ofHAKxSw-9KXGkapTgHN2CaQcX5Moh1QA88bloDdiKoxoEk7hVAvIQWidoQUnaDGMipGqIE3RpYYoYbglSMQwIMAUF-QrcSEZRwVRiRDStiQXKQUICYBgkJmNmwwhZkJqy1A4PI9Q-SK0GJGqXAgpjUi8WVxCUqaEKG-wCUGZCSNDy7gNQuIM6N4CS9FsN2WOZAth0zSaMXGEhJunkhoqgAhgGID9O1BclM9DjEdGUtF5eunQKowxLtYxirAGcbIbGNwWxlLgA)]
 - [鋼琴伴奏 TMD 檔案](hibari_no_uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0NUDIlGSk5qZapaaUJieWZObnKXFpaSm8nL3p5eyGx43rnq3teb-n42X3nucTtjzZs-Xp0v7nnR3v93QqaGlxKdoqGBoYcNnbKjhy2Zjom9iBjHw2femzTbufzWx6Nmf-09Y1T9fueLZg4eOGrqdTNgLNerpj8-OGbqCJT1t3vJje_2LmfAUjAyMDPQMDMz0DCxPjx827QY4DWgB239O--S_2dIJ0b-gHGgY0CWTM3AkvZ7cBjXm-Zo2CkZGxwssFjUpcXPpaCrbUAlwKCgqPGyY8m73p-ex1L1atejaj73HDRLBo8-6n7btezJz6fs8sLL6a0_18dfeL9l3PGxc_W7v9af-mp72znneufLlkBQ4PA30K8gbI03pZBekgvzxuaILa9GLV_mcNy190tD_r7gXqBFnZtAQoCLTJUeHpkuVgZuf7PT3AwFcAqgGyXjbMf7prmQIkahAmPd--AugZiE-wxifQbJBSBQVDPYWnnb1AcQUNz7ySonwdBRMFYOg_X9-gCVTzZPdSSNJ4unHq8_2tL1fPeLl49vNZLUBjn-xaB3HSsxVNT_uXPt3Q93QPMJR6QN6DGfFszmqgM192zXnWt_Tpno0vtm4HBuDL-cDQAztUQcFIT-HJjt3AIIW4TUEjOD8vXUfB0AxqgMLh6QrGCs_WbQU55mn_5med3c_2TAGqBOma3v10HzAWep5uXwYUf9naC3Ttiz1Tn8_ueLa18dmsRUB3Pp3U83TPMojhUEspTy1QoKClz8UFDjOrgMzEvPwgD4cag5pqsMdsDM207MCsGgVDBV0UaIzGr1EwJajCCEwbKpjHQxkQAYRSTGsMoLQpRAtQCVctint9kN1rgnBuvEK0YSxQG4TGIgBmmUJFgDRcCZAygFgDikZ8oQLMvMBUB4zXp_29L5a1AdPMkx0NLxt7gYlQExSuiJAD-xjEAPkY5luEn3CrQYQMLKxgoiA-XJsZiAD5CUkRUAIoDBdCCkFcjt_VA3H8IHQ9LB0gOX5fDzEhjwzJT7NGaDTCE5i2kOBmXAFOHUdTIaMhcgDF-cwISBmhZzxQRhswgzByPtUMQhQhrnkpmVgLESOkkhWLWvzBDYossBZdOwVwWagAZIDiChsNMRbEUuYCAA)]
 
 ## 分析
@@ -87,14 +87,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ 雲雀の歌 ]
 ================================================================================
-⏱  Duration:       0:40 (40.8s), 17 measures total
+⏱  Duration:       2:02 (122.4s), 51 measures total
 🎼 Key & Tempo:    首調基準 A, != 100.0 BPM, <4/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    E4 (MIDI 64) – E5 (MIDI 76) [跨度: 12 個半音 / 1.0 個八度, 難度: easy]
-   - 最低音:  E4 in [Song #1 @ m.1, 0:01]
-   - 最高音: E5 in [Song #1 @ m.11, 0:24]
+   - 最低音:  E4 in [Song[L1] #1 @ m.1, 0:01]
+   - 最高音: E5 in [Song[L1] #1 @ m.11, 0:24]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song (40.8s)
+🏛  結構:      Song[L1] (40.8s) -> Song[L2] (40.8s) -> Song[L3] (40.8s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       C# 調性不明確（純淨自然大調，未偵測到可信轉調）
    - 風格氣質:    純淨自然大調（陽光明朗、易唱易記，無明顯調外色彩）
@@ -102,9 +102,11 @@ tmd_source:
    - 核心骨幹音:  C#, E, A, B, G#
    - 調性數值:    C# 調性不明確 [相關度: 0.80, 穩定度: Ambiguous, 自然音純度: 100.0%]
    - 候選調性 (K-S): C# 小調 (0.80), A 大調 (0.78), E 大調 (0.77)
-   - 五度圈歷程:   -5
+   - 五度圈歷程:   -5 -> -5 -> -5
    - 各段落調性細節:
-     • [Song #1]: C# 調性不明確 (r: 0.80, 自然音純度: 100.0%)
+     • [Song[L1] #1]: C# 調性不明確 (r: 0.80, 自然音純度: 100.0%)
+     • [Song[L2] #1]: C# 調性不明確 (r: 0.80, 自然音純度: 100.0%)
+     • [Song[L3] #1]: C# 調性不明確 (r: 0.80, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -131,7 +133,7 @@ tmd_source:
      B  : ████████████████          18.4%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : E4 – E5 (12 個半音 / 1.0 個八度, 70 個音符)
+  - Piano         : E4 – E5 (12 個半音 / 1.0 個八度, 210 個音符)
 ================================================================================
 ```
 

@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1566 首歌曲、整理 1391 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1644 首歌曲、整理 1394 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -31,7 +31,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 ### 三角錫子（1 首）
 
-- [七里が濱（女子大学校歌）](shokacho/vol_01/p153_shichirigahama/index.md)
+- [七里が濱（女子大學校歌）](shokacho/vol_01/p153_shichirigahama/index.md)
 
 ### 上村一仁（1 首）
 
@@ -1183,7 +1183,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [チヨダノオシロ（千代田城）](shintei_jido_shoka/grade_1_2020.006.0847.0001/4_20_chiyoda_no_oshiro/index.md)
 - [十五夜お月さん](shoka_kyozai_shu_1923/grade_5_6/16_jugoya_otsukisan/index.md)
 - [十五夜お月さん](shokacho/vol_01/p152_jugoya_otsukisan/index.md)
-- [機織り（手毬唄）](shokacho/vol_01/p143_hataori/index.md)
+- [機織（手毬唄）](shokacho/vol_01/p143_hataori/index.md)
 - [櫻と小鳥](kyoyusho_shoka_1935/4_02_sakura_to_kotori/index.md)
 - [波がざんぶりこ](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_11_nami_ga_zanburiko/index.md)
 - [渡りやんせ](shokacho/vol_01/p139_watariyanse/index.md)
@@ -1318,6 +1318,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [どんこ節](taiwan_no_uta/9_donko_bushi/index.md)
 
+### 奧特姆（オータム（1 首）
+
+- [君國](hyojun_shoka_gakushucho/grade_6/11_kimi_no_kuni/index.md)
+
 ### 室崎琴月（3 首）
 
 - [もみぢ](shintei_jido_shoka/grade_5_2020.006.0847.0005/2_08_momiji/index.md)
@@ -1390,7 +1394,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [田植歌](kyoyusho_shoka_1935/7_14_taue_uta/index.md)
 - [進軍](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_17_shingun/index.md)
 
-### 橋本正夫（原載《音楽新潮》，大正 14 年 6 月 17 日抄）（1 首）
+### 橋本正夫（1 首）
 
 - [豊年祭](shokacho/vol_01/p166_honensai/index.md)
 
@@ -1432,6 +1436,14 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [土に生きん](kyoyusho_shoka_1935/7_12_tsuchi_ni_ikin/index.md)
 - [娘ごろ](kyoyusho_shoka_1935/7_10_musumegoro/index.md)
+
+### 舒曼（Robert Schumann, Op. 68 No. 10）（1 首）
+
+- [樂しき農夫](hyojun_shoka_gakushucho/grade_6/06_tanoshiki_nofu/index.md)
+
+### 萊夏特（Johann Friedrich Reichardt）（1 首）
+
+- [獵](hyojun_shoka_gakushucho/grade_6/09_ryo/index.md)
 
 ### 藤井清水（1 首）
 

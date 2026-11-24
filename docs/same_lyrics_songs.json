@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1566,
-  "same_lyrics_different_melody_group_count": 22,
+  "total_corpus_songs": 1644,
+  "same_lyrics_different_melody_group_count": 25,
   "groups": [
     {
       "lyrics": "あさかぜさつとふいてきておおはたひらひらこはたひらひろうんどうかいがいまはじまつたあかほうしろぼうみどりのぼうしならぶせいとはけんきにみちてかけだすあしなみいさ",
@@ -656,6 +656,40 @@
       ]
     },
     {
+      "lyrics": "このとしこのひおれむべしおちばはえだにかへりこずながれはふちのとどまらずこのつきこのひおれむべし",
+      "titles": [
+        "歲暮歌"
+      ],
+      "versions": [
+        {
+          "id": "izawa_shogaku_shoka/kan_4_3151/8_saibo_no_uta",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_4_3151/8_saibo_no_uta",
+              "md_file": "izawa_shogaku_shoka/kan_4_3151/8_saibo_no_uta/index.md",
+              "book_label": "《小學唱歌》巻四（明治26年／1893）",
+              "raw_title": "歲暮歌",
+              "year": 1892
+            }
+          ]
+        },
+        {
+          "id": "izawa_shogaku_shoka/kan_6_3153/9_seibo",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_6_3153/9_seibo",
+              "md_file": "izawa_shogaku_shoka/kan_6_3153/9_seibo/index.md",
+              "book_label": "《小學唱歌》巻六（明治26年／1893）",
+              "raw_title": "歲暮歌",
+              "year": 1892
+            }
+          ]
+        }
+      ]
+    },
+    {
       "lyrics": "すずめのなくこえやちよときこえにはなるまつかぜばんざいとひびくたのしたのしきょうのいわいび",
       "titles": [
         "イハヒビ",
@@ -901,6 +935,40 @@
       ]
     },
     {
+      "lyrics": "ひかずおかさねとしおつみまなびのにはにふみならしもののことわりひとのみちみちびきたまひれしのおんおいかでわすれんわがわすれめや",
+      "titles": [
+        "卒業式の歌"
+      ],
+      "versions": [
+        {
+          "id": "izawa_shogaku_shoka/kan_4_3151/18_sotsugyoshiki_no_uta",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_4_3151/18_sotsugyoshiki_no_uta",
+              "md_file": "izawa_shogaku_shoka/kan_4_3151/18_sotsugyoshiki_no_uta/index.md",
+              "book_label": "《小學唱歌》巻四（明治26年／1893）",
+              "raw_title": "卒業式の歌",
+              "year": 1892
+            }
+          ]
+        },
+        {
+          "id": "izawa_shogaku_shoka/kan_6_3153/16_sotsugyoshiki_no_uta",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_6_3153/16_sotsugyoshiki_no_uta",
+              "md_file": "izawa_shogaku_shoka/kan_6_3153/16_sotsugyoshiki_no_uta/index.md",
+              "book_label": "《小學唱歌》巻六（明治26年／1893）",
+              "raw_title": "卒業式の歌",
+              "year": 1892
+            }
+          ]
+        }
+      ]
+    },
+    {
       "lyrics": "ひとひのあせおゆあみにながしゆうがほだなのしたかげしめておやこはらからひとつむしろにこころおおかぬむつびがたりむつびがたりたのしや",
       "titles": [
         "納涼"
@@ -1017,12 +1085,25 @@
       ]
     },
     {
-      "lyrics": "まもるもせむるもくろがねのうかべるしろぞたのみなるうかべるそのしろひのもとのみくにのよもおまもるべしまがねのそのふねひのもとにあたなすくにおせめよかし",
+      "lyrics": "まもるもせむるもくろがねのうかべるしろぞたのみなるうかべるこのしろひのもとのみくにのよもおまもるべしまがねのつのふねひのもとのあだなすくにおせめよかれ",
       "titles": [
         "軍艦",
         "軍艦マーチ"
       ],
       "versions": [
+        {
+          "id": "izawa_shogaku_shoka/kan_6_3153/18_gunkan",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_6_3153/18_gunkan",
+              "md_file": "izawa_shogaku_shoka/kan_6_3153/18_gunkan/index.md",
+              "book_label": "《小學唱歌》巻六（明治26年／1893）",
+              "raw_title": "軍艦",
+              "year": 1892
+            }
+          ]
+        },
         {
           "id": "shintei_jido_shoka/koto_boys_2020.006.0848/1_3_07_gunkan_machi",
           "year": 1934,
@@ -1046,6 +1127,40 @@
               "book_label": "《公學校唱歌》第六學年用（昭和15年／1940，國臺圖 523.37 4322-4）",
               "raw_title": "軍艦",
               "year": 1940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lyrics": "やまほととぎすちになきしのそのさもがれのくらきよそていまはむかしのものがたりしのぶがおかこそたかにしけ",
+      "titles": [
+        "上野公園"
+      ],
+      "versions": [
+        {
+          "id": "izawa_shogaku_shoka/kan_4_3151/1_ueno_koen",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_4_3151/1_ueno_koen",
+              "md_file": "izawa_shogaku_shoka/kan_4_3151/1_ueno_koen/index.md",
+              "book_label": "《小學唱歌》巻四（明治26年／1893）",
+              "raw_title": "上野公園",
+              "year": 1892
+            }
+          ]
+        },
+        {
+          "id": "izawa_shogaku_shoka/kan_6_3153/1_ueno_koen",
+          "year": 1892,
+          "occurrences": [
+            {
+              "rel_dir": "izawa_shogaku_shoka/kan_6_3153/1_ueno_koen",
+              "md_file": "izawa_shogaku_shoka/kan_6_3153/1_ueno_koen/index.md",
+              "book_label": "《小學唱歌》巻六（明治26年／1893）",
+              "raw_title": "上野公園",
+              "year": 1892
             }
           ]
         }

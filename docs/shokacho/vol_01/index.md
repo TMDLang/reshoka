@@ -31,7 +31,7 @@ image: "0_book_info/P113.jpg"
 | P137 | [**雪の花**](p137_yuki_no_hana/index.md) | 詞：牧星 / 曲：山口季次郎 | `?=G` `<2/4>` `!=96` | P137.jpg |
 | P139 | [**渡りやんせ**](p139_watariyanse/index.md) | 詞：野口雨情 / 曲：中山晋平 | `?=E,` `<2/4>` `!=84` | P139.jpg, P140.jpg |
 | P142 | [**圓い小山（顔あそび）**](p142_marui_koyama/index.md) | 詞：北原白秋 / 曲：中山晋平 | `?=F` `<2/4>` `!=84` | P142.jpg |
-| P143 | [**機織り（手毬唄）**](p143_hataori/index.md) | 詞：野口雨情 / 曲：中山晋平 | `?=F` `<2/4>` `!=84` | P143.jpg |
+| P143 | [**機織（手毬唄）**](p143_hataori/index.md) | 詞：野口雨情 / 曲：中山晋平 | `?=F` `<2/4>` `!=84` | P143.jpg |
 | P144 | [**虫なく野辺**](p144_mushi_naku_nobe/index.md) | — | `?=G` `<2/4>` `!=96` | P144.jpg |
 | P145 | [**お人形さん**](p145_oningyosan/index.md) | — | `?=F` `<4/4>` `!=92` | P145.jpg |
 | P146 | [**汽車と汽船**](p146_kisha_to_kisen/index.md) | — | `?=D` `<2/4>` `!=96` | P146.jpg |
@@ -41,7 +41,7 @@ image: "0_book_info/P113.jpg"
 | P150 | [**雲雀の歌**](p150_hibari_no_uta/index.md) | — | `?=A` `<4/4>` `!=100` | P150.jpg |
 | P151 | [**停車場の鈴**](p151_teishaba_no_suzu/index.md) | — | `?=G` `<4/4>` `!=118` | P151.jpg |
 | P152 | [**十五夜お月さん**](p152_jugoya_otsukisan/index.md) | 詞：野口雨情 / 曲：本居長世 | `?=C` `<4/4>` `!=88` | P152.jpg |
-| P153 | [**七里が濱（女子大学校歌）**](p153_shichirigahama/index.md) | 詞：三角錫子 / 曲：J. P. Webster（日本化旋律） | `?=C` `<4/4>` `!=92` | P153.jpg |
+| P153 | [**七里が濱（女子大學校歌）**](p153_shichirigahama/index.md) | 詞：三角錫子 / 曲：J. P. Webster（日本化旋律） | `?=C` `<4/4>` `!=92` | P153.jpg |
 | P154 | [**旅愁**](p154_ryoshu/index.md) | 詞：犬童球渓 / 曲：J. P. Ordway | `?=E,` `<6/8>` `!=72` | P154.jpg |
 | P155 | [**月**](p155_tsuki/index.md) | — | `?=C` `<2/2>` `!=128` | P155.jpg |
 | P156 | [**胡蝶**](p156_kocho/index.md) | — | `?=G` `<6/8>` `!=60` | P156.jpg |
@@ -52,7 +52,7 @@ image: "0_book_info/P113.jpg"
 | P163 | [**モリノヲトメ**](p163_mori_no_otome/index.md) | — | `?=D` `<4/4>` `!=96` | P163.jpg |
 | P164 | [**アハテ床屋**](p164_awate_tokoya/index.md) | 詞：北原白秋 / 曲：佐々木すぐる（原載《女子リードアルバム》第 24 頁，大正 14 年 4 月 15 日抄） | `?=D` `<2/4>` `!=112` | P164.jpg |
 | P165 | [**行く春**](p165_yuku_haru/index.md) | 作曲：山本正夫（原載《音楽新潮》大正 14 年 5 月號） | `?=C` `<4/4>` `!=84` | P165.jpg |
-| P166 | [**豊年祭**](p166_honensai/index.md) | 作曲：橋本正夫（原載《音楽新潮》，大正 14 年 6 月 17 日抄） | `?=E,` `<4/4>` `!=120` | P166.jpg |
+| P166 | [**豊年祭**](p166_honensai/index.md) | 作曲：橋本正夫 | `?=E,` `<4/4>` `!=120` | P166.jpg |
 | P167 | [**勿忘草**](p167_wasurenagusa/index.md) | — | `?=C` `<4/4>` `!=96` | P167.jpg |
 | P168 | [**蟹の鋏とぎ**](p168_kani_no_hasamitogi/index.md) | — | `?=D` `<3/4>` `!=112` | P168.jpg |
 | P169A | [**兎のお耳**](p169a_usagi_no_omimi/index.md) | — | `?=G` `<2/4>` `!=108` | P169.jpg |

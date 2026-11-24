@@ -198,13 +198,32 @@
 {% endif %}
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7XECRF6SXK"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
+  (function() {
+    var hostname = window.location.hostname;
+    var isLocalhost = hostname === "localhost" ||
+                      hostname === "127.0.0.1" ||
+                      hostname === "[::1]" ||
+                      hostname.endsWith(".localhost") ||
+                      window.location.protocol === "file:";
 
-  gtag('config', 'G-7XECRF6SXK');
+    if (isLocalhost) {
+      window["ga-disable-G-7XECRF6SXK"] = true;
+      window.gtag = function() {};
+      return;
+    }
+
+    var script = document.createElement("script");
+    script.async = true;
+    script.src = "https://www.googletagmanager.com/gtag/js?id=G-7XECRF6SXK";
+    document.head.appendChild(script);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    window.gtag = gtag;
+    gtag("js", new Date());
+    gtag("config", "G-7XECRF6SXK");
+  })();
 </script>
 
 {% endblock %}

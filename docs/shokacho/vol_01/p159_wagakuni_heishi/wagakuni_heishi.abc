@@ -7,11 +7,38 @@ K:Bb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
 z4 B,2 D2 | F4 F4 | G4 A4 | B8 |
+w: ワ ガ | ク ニ | ヘ イ | シ
 F2 z2 F2 G2 | F3 E E2 E2 | E4 G2 F2 | F3 D D2 D2 |
+w: ノ ユ ウ | キ ヲ ミ ヨ | ヤ ー _ | ー _ _ _
 D2 z2 D2 F2 | B4 B4 | c4 c4 | d8 |
+w: ー キ ミ | ニ ハ | ウ ズ | ル
 c2 z2 G2 c2 | B4 B4 | B2 A2 G2 A2 | B8 |
+w: ー チ ユ | ウ ギ | ハ タ カ シ | ー
 B2 z2 F2 B2 | B3 A A2 A2 | A4 A2 G2 | G3 F F2 F2 |
+w: ー ヒ マ | ラ ヤ サ ン | ノ ケ ン | ソ モ ナ ニ
 F2 z2 F2 F2 | F2 c2 F2 F2 | F2 z2 F2 F2 | F2 B2 F2 F2 |
+w: ゾ コ ク | カ ニ ツ ク | ス コ ウ | ギ ハ フ カ
 F2 z2 F2 B2 | B3 A A2 A2 | A4 A2 G2 | G3 F F2 F2 |
+w: シ タ イ | ヘ イ カ ウ | ノ フ ウ | ハ モ ナ ニ
 F2 z2 F2 F2 | G2 G2 A2 A2 | B2 B2 c2 c2 | d8 |
-d2 e2 G2 c2 | B2 z2 D2 G2 | F4 C2 D2 || B,4 z4 |]
+w: ゾ ヒ ノ | ハ タ サ サ | ゲ テ イ サ | マ
+d2 e2 G2 c2 | B2 z2 D2 G2 | F4 C2 D2 | B,4 B,2 D2 |
+w: ー シ ク コ | ノ ヨ テ | ラ ス _ | ー 大 詔
+F4 F4 | G4 A4 | B8 | F2 z2 F2 G2 |
+w: を い | た だ | き | ー い で
+F3 E E2 E2 | E4 G2 F2 | F3 D D2 D2 | D2 z2 D2 F2 |
+w: た る と き | は ー _ | ー _ _ _ | ー が ん
+B4 B4 | c4 c4 | d8 | c2 z2 G2 c2 |
+w: ち う | て き | な | し い き
+B4 B4 | B2 A2 G2 A2 | B8 | B2 z2 F2 B2 |
+w: ほ ひ | の か ぎ り | ー | ー ゆ か
+B3 A A2 A2 | A4 A2 G2 | G3 F F2 F2 | F2 z2 F2 F2 |
+w: む _ た な | く と も | た て ま つ | る い の
+F2 c2 F2 F2 | F2 z2 F2 F2 | F2 B2 F2 F2 | F2 z2 F2 B2 |
+w: ち は を し | ま じ か | な り こ こ | ろ わ が
+B3 A A2 A2 | A4 A2 G2 | G3 F F2 F2 | F2 z2 F2 F2 |
+w: き _ に つ | か へ ま | つ る ほ ま | れ い さ
+G2 G2 A2 A2 | B2 B2 c2 c2 | d8 | d2 e2 G2 c2 |
+w: み て た た | か ひ に し | て | ー い さ ま
+B2 z2 D2 G2 | F4 C2 D2 || B,4 z4 |]
+w: し く こ | の よ _ | を

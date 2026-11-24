@@ -4,13 +4,13 @@ song_title: "お客様"
 song_id: "shokacho_vol_01_p161_okyakusama"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈お客様〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：B, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）ゴメンクダサイ　ハナコサン　タイヘンオサムク　ナリマシタ ミナサンゴキゲン　イカガデス　マアヨウコソ　ユキコサン…"
+description: "〈お客様〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：B, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "お客様, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
 sources:
   - "日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P161–P162）"
-  - "原載《大正幼年唱歌》第七集第 17 頁（大正 14 年 1 月 15 日抄）"
+  - "原載《小公唱材集》第 393 頁（大正 14 年 1 月 5 日抄）"
 musical_key: "B,"
 meter: "2/4"
 tempo: "100"
@@ -33,21 +33,15 @@ tmd_source:
 - **鋼琴伴奏版**：<br><audio controls src="okyakusama.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P161–P162）
-- 原載《大正幼年唱歌》第七集第 17 頁（大正 14 年 1 月 15 日抄）
+- 原載《小公唱材集》第 393 頁（大正 14 年 1 月 5 日抄）
 
 ## 說明
 
 
 
-- 出處：《唱歌帳》（國立臺灣歷史博物館典藏號 2020.006.0843）第 P161.jpg – P162.jpg 頁。
-- 標註：（大正幼年唱歌第七集 17 頁ヨリ）14.1.15.（大正 14 年 1 月 15 日抄錄），P162 標註「ツヾキ」。
-- 調性與拍號：變ロ調（短ト調，即 Bb 大調之關係小調 G 小調），2/4 拍。
-- 背景與曲風：兒童扮家家酒的對話唱歌（問答歌）。第一節由來訪的小客人向主人「花子（ハナコ）」問候，
-並由花子迎客「歡迎光臨，雪子（ユキコ），請這邊進」；之後雪子擔心地訴說自己心愛的洋娃娃從昨天起生病不笑，
-第二節則由花子關心詢問洋娃娃是否感冒發燒、手腳冰冷、睜著眼睛睡不著。全曲採自然小調／日本陰音階風格，生動可愛。
-- 版本說明：本檔案完整合併 P161.jpg 與 P162.jpg 共 32 小節簡譜。原譜以 `6` 為 G4，為符合標準音域，整體記於 `6_`–`3` 音區。
-- Reference Audio: [大正幼年唱歌チャンネル (YouTube)](https://www.youtube.com/@%E5%A4%A7%E6%AD%A3%E5%B9%BC%E5%B9%B4%E5%94%B1%E6%AD%8C%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
-【原頁歌詞全文與中文語譯】（對應 P161.jpg – P162.jpg）
+- 出處：《唱歌帳》（國立臺灣歷史博物館典藏號 2020.006.0843）第 P161.jpg–P162.jpg 頁。
+- 標註：（小公唱材集 393 頁ヨリ）14.1.5（大正 14 年 1 月 5 日抄錄）。
+- 調性與拍號：變ロ調（B♭ 大調），2/4 拍，速度 != 100。
 
 ### 編曲說明（鋼琴伴奏版）：
 
@@ -59,19 +53,7 @@ tmd_source:
 ## 歌詞
 
 ```text
-（一）ゴメンクダサイ　ハナコサン　タイヘンオサムク　ナリマシタ
-ミナサンゴキゲン　イカガデス　マアヨウコソ　ユキコサン
-コチラヘオトホリ　アソバセナ　ワタシノダイジナ　ニンギャウガ
-カゲンガワルクテ　キノフカラ　チットモエガホヲ　ミセマセン
-「哎呀歡迎光臨，雪子小姐，請往這邊進來吧！」
-「我最心愛的洋娃娃，從昨天起身體不舒服，一點笑容也不露出來。」）
-
-（二）ソレハホントニ　ゴシンパイ　タイヘンオカゼガ　ハヤリマス
-オネツガタクサン　アリマスカ　イエネツナド　アリマセン
-オテテモオアシモ　ツメタクテ　ヨルデモオメメヲ　アイタママ
-ナンニモタベズニ　ネテヰマス　ホントニドウシタ　コトデセウ
-「不，並沒有發燒，只是小手小腳都冰冰涼涼的，連晚上也一直睜著眼睛，
-什麼也不吃地躺著，到底是怎么一回事呢？」）
+（TMD 檔案未包含歌詞註解）
 ```
 
 ## ABC
@@ -82,7 +64,7 @@ tmd_source:
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](okyakusama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKEZhgzcpPi8_JLUpPz8bISKgqL8stS8xDygqtzEvNLi5KLMgpL45PyCSoSa1LLMlFSQitSUzJL8oszEHCQnpRYVgx0LcUNJUWIexAygIEJVSUYq0N1pibmZOUjmAo1Kz8yzyk3NzMqML0mtKEF1GlS6JDET6P54IC5PjM9NzMzLScxLQVZVkpGfXpRYkFFplZFZDHJfcmJOfHZiXqISl5aWwuPGrqfrFj1bPkNBS4tL0VbB0MCAy95WwUmHKzu10lbBPZfLxkjfxA5k3rPpS59t2v1sZtOzOfOftq55unbHswULHzd0PZ2y8dnanqc7Nj9u6H6_p-Np644X0_tfzJyvYGRgZKBnYGCmZ2BhYvy4eTco8B81TAZSRu_3dILd-LRv_os9nSBDlix_tnbx0517nu7cAjEQaNrzNWue7Gh-ObsNyFAwNFd4uaARZAFYqYKhiQJQrYKhwrM5HQqGpgog53W1gA3m0tdSsKUW4FJQUHjcMOHZ7E3PZ697sWrVsxl9jxsmgkWbdz9t3_Vi5tT3e2ZhCYc53c9Xd79o3_W8cfGztduf9m962jvreefKl0tW4AgioNtBHgUFk15WQboCMKxAHCMwB-j3xw1NUGufrZj5YsVuoLXw4EAOOXiwQcPscfOKx82rgKYbmugZ6hma6hEKxJc9oHB8v6cHZLsCxLLHDT2Pm1seN-973LT2cUMvwi0vVu1_1rD8RUf7s-5eoJeAjnqxrutx81qgONCe5_PXPm7uALN7nvZuVnBKUgBaDeQ_2dn9cvqcJ_ubnm7oB3IV3BUgDIjFwDSnADQPyZbmnmcz14Nsmb3p5aIVQFuetk56vnrps851T9dtA6KXQO6slqcbel-s3AgJBpAvp_Y_XzsFzAYmsiZwwDQ8X9_wfMrGJ_vaXqxYBdbSD8wBT3btejph4pMdu4EMoFdfdG18unYC0ITHzf2Pm7seN20Gm9ALNPBpw0ygA0HOUlB4smMZ0CiI4hf7-4DmAPU-W7sQxG7tfNEOdGfPy9mrYEYtA4Ud2Cig-IvV3S8bZr5s6nrZsAlo8vs9s4FB8nQfVP2zyVOe7m9-OmfDixVbgInuRfuqp9s3AkWetcwGuvnZlu6nK5pBaN-8ZzNWPF2y8sXW7c-nzH8-vfXJjt7naybCXQjy8q4eoJefdrbDnQoMeKBRL1YuAnoHbtSzGeufTlj2rGX-07ZJz2fued4-6XFD47PO7hetm5-2bXjath3IfT53zouJ05_P2fN87uzncxcC7QJygQH7tHUFMF6e9S0EuvN5yzZYTPaDktOcNS9nbng5f_PLWX3AiHu2YA_QbUCnPu2e-rR_PdA7iDh-3tkBVA3JYsAIBrKfrZrybGHH03U9z6ZueTqh48nerYjcAUwLiNzxtHWjgrERKAmBYnfDwhdr54CcBSxd1s55snupQoJZgsLzpl0K7iYg25t2PV-zDGgeMGU_2zUN6Lan84HpFmTJy9VTXqyY8WzaHqCO-ARgBkwwTlAAKehtQLgzKDUttQhU4is4lqZk5lspRGMpvZqB2W7x4-bNj5t7HzevVtCIzC8NKU1K1YzVyCgpKSi20tcvLy_Xq8wvLQGK6iXn5-o7qLqaqjqaqDqaq7qaqTq6qDoag0ScLFWdnGEMExDD0kTVyRCqxgIoZaxqAURAETADpAvMcIIxLFxgUk76oLoqv1iTC1qqAUMIWEAA3fti5TxQJE5rBwbrkx1rQYxV816sXQ8s6kD5aEPvs_ZO7CUTMDWDTQMqA2YuUDZp2vK4eSHI603rHzc3PG7a-rhpyeOGBnhWAokAZYEiTftBUs0zwIpXgcUXgHSBFAPLkFWPm-c9btoOVAYJ-flg_WDNQDtAeWkTzKAlj5tWP25a87i5_XHTTrB-oM5FoJKvCZjrgOr3ggWhORBiCNhQIAcUVStBrgA6oRmYTWeDbAYZugikrXnC46bdIItB-teDnbz9cXMf2GdAW3fApLrBzloHinWQlWsgpgMdBXYjyGnA0ABygWQb2HRgwQg0ZSpIDdB6kBFAdzSDXQC0GOhwoBagU4CFA1BqPtgRQD8BSbDDgcENiSFw5dPzrHPys8n7nuxqA5Us4EwOKteWA8udHmDp8GzDYmCh_HTf9KdL9wJz8tOJwHgCii8Hlpsvdq0GJvqXzXtBUtOB-W4-sDCClB1AY59O7gMqxlqiwc0HFmRP9zXAyzJgwfp0wvL3e4DVFcKcZx0Tn81pwCy_QM5AKsIgjgEVKx2Tns0Blok9wCT1cvc8YIn2dN3OJzvnA6VeztkErHWBtgAzJLjcRCS_XeByHhRnwKADJjZg6AFjFxie3eAAByYZYMwBRSZCEyR68gPGzh5QsEPTKlAKkgJ3QuISyAHm5RaQCpBOYFqAp2NgSoMqBZkCTZDAWhesHpSUgZUHsjJYLIINbQMjYJwDnQAkgW4EViNAJwB1LoTaBEkyoHocmFjaoYpBmQyIwAkEpBFo5X6Q6c3zINkFaC3Qs8B0CZQDSsx83LQLGhQgdwGt3AB1MkgEKayAjgWlYFC-AxsNEQdmrN1AcSxp72XT4udz5gPrjye7lwCrT2jVBU5jwEh_sX8ipFJ5OXfe0x07nm1tfLEQGE89T5fuhFQzoGS5r-Np36an6zZjpkBgjIOTwbJnm4BJohOiBaS9H1hNrAcmQmAVBapvWjeD0jCootrwbNseIAImM1BabVj8bOasJzu6wImn4fnsLch1GKIi393wctceSAJ7OgFc7-7aBVQGsqhjw9NdU4F2PWvoe7ITVMY9nT3vya7upxMXQZwKS4GUNzWhQEFLn4srOD8v3SogMzEv36HGoKYa7EwbCy07MAPYvgWVxaDaHdh2A4fnLA2gyzQVDIBJagsw7kHlr0INkLMeyGkA0luBeAlIpLkflDRABR9YFCSyGagNaCfUZBSgAcxUEFP3AhWCshVYx2ywLmC6AOJusD1AS5u2Q0UngkWWIEytATKN4xXM4hV0gWzzeBAyBBE1CsYQBlAKLKELhAYKNeAARfGmEYo3gUkTbAMw84LtBNm3CuLL5gVgX4NcCfRlM1C0eR7YbSA1-wn5FJfBq4F4DxCvgQchSA3EcJCancieNQRDsPcMYR6sAXkR4lETsL_x-NUY1a_N86ExBvIdxEmg0F4LxJvgIkDngB25BijSju4kXH4Fub8XiFtgPgP7HphkkKxahBSIO8Eiq5H9CvQMBAE9VKNgFA9FYB5QFOJdoAB-H5ugJ2KwdYvAgb0CyFoGTa97wSIgHsj3JKZgUBCtACuH-hmcQDoxfLkb3UhQ8gVHIij1khijRlgyKdjlzY1AvBKc0KCJDJybQDlrFcxJ4Ew3Ae6kLuJitA2KwcEHTr0go0CZExKgIJ8vhMc1SKSNhBiFRCqe_ArxMVp-bQYlKpCFIGf0gS0FlUqgKNkB9hlIpBtSfsAaUWDnryHoZ1ACAbawQckeyc8gH4LxJnhggiwDOgGSY4EkrhwLZxqDoSGYhdOjaJkVnAkh2RJWWoCKYJAoiG4DuwaYeIGBAGz8gdWD1Kwk7E1QYgWlG1AoQbwJ8sxMIL0LLApL2KCo3wDzJmrBZAyMFpiHQDQsFmElMv4oRc2kkATcDE22EAeBsiqoAAIlYnC4g4ouYOLFka9w-RSjdgFmUkgZAEw9QF-DrILJAyMdYjBQHl8RjOlVcG0E8WotF5eunQKoylUA0spcAA)]
+- [主旋律 TMD 檔案](okyakusama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7MqzsjPTkzOyFeCS5bl55TmploBqXgDQ4RwcX5pUXJqfEFieqpVgKEZbhkjdBm4HfF5-SWpSfn52QgVBUX5Zal5iXlAVbmJeaXFyUWZBSXxyfkFlQg1qWWZKakgFakpmSX5RZmJOUiOTS0qBnsD4oaSosQ8iBlAQYSqkoxUoI8KchKRTAUalJ6ZZ1WaBzK8JDMtMzUFWbIkIz-9KLEgo9IqI7MYZGtyYk58dmJeohKXlpbC48aup-sWPVs-Q0FLi0vRVsHQwIDL3lbBSYfLxkjfxA5kzrPpS59t2v1sZtOzOfOftq55unbHswULHzd0PZ2y8dnanqc7Nj9u6H6_p-Np644X0_tfzJyvYGRgZKBnYGCmZ2BhYvy4eTcokB81TAaF6Ps9nWC3Pe2b_2JPJ8iQDf0gM4FGzZ3wcnYb0Kjna9YoGFsaK7xc0AgydcnyZ2sXKxiaKDzduUXBUOHZnA4FUwWQk7pawIZx6Wsp2FILcCkoKDxumPBs9qbns9e9WLXq2Yy-xw0TwaLNu5-273oxc-r7PbOw-H1O9_PV3S_adz1vXPxs7fan_Zue9s563rny5ZIVOIIF6HaQR0FBo5dVkA4NHhAT5PHHDU1QS5-tmPlixW6gpSBbUMMKFkqPm1c8bl4FNNDQRM9Qz5RAoL3sAYUbwoIXq_Y_a1j-oqP9WXcv0JVAm16s63rcvBYoDjTJ6dHMtQpA48C8zvd7eoCJQgGoEsh62TD_6a5lCpA0AzWP8hiAAgUtfS6u4Py8dKuAzMS8fIcag5pqkAUKNhZadmAGMNpBgacACkVDhRcLe4Au13iyo0FTwUDhcdMWoNcWPm7erFAD5KwHchqA9FYgXgISae4H4i4gbzNYFCSyGagNaCfUZBSg8WRXD8TUvUCFa0C6QTpmg3U9bu4A4m6wPUBLm7ZDRSeCRZYgTK0BMo3jFcziFXSBbPN4EDIEETUKxhAGUAosoQuEBgo1YF0-hjUK8TD_gI0m3kMgc4BGQswxgpgD9gFYPfFegJmDEexGKMH-uGk_WPnj5hlwh66COLJ5AdjRICuBjmwGijbPA1sEUrOfUMjjMng1EO8B4jXwEACpgRgOUrMTOfANwRAc3IawAK8BBTkk4E3A8YAZ9uR7Cj30yfcFzvA3Rg3_5vnQRAByHMQCUHSuBeJNcBGg4WArQYmgHT2YcIU_yDW9QNwCcyfYL8BUiGTVIqQw2AkWWY0c_sAAhiBgINcoGMVDEZgHFIVEAVAAeyyQ7TXMWCDXLzhjwQS98AFrWwSOzhVA1jIgBmXLvWAREA_kbBJLHpDfVoCVQ90OTnOdGK7djW4kqNgBJ3ZQqUNKygeWFlCPgHQS6xVsZQ7E7RBTiHM9lrA2wlLQg61ubgTileBsBYteUHEGKtpWwSwAF3sT4BZ0EZfi26AYHJXgvAoyClQ6QiIX5A9gmQxNPyCRNhJSPCTR4yrzyfca9hRPjl9wxgJaud8MyjwgjSDj-sCaQZUTKNp3gJ0EEukGR-zjpnWPmxeDEhLIGWsIxgMo1TUD8zQwPyO5HVwTgvAmeCiALAM6AVJmAklcJT-caQyGhmAWZnFDqo_AeQPiJYzwJ9sPOMMfrdwHF3qQYhBWjYAaCCBREN0GtgCYUYE-edw8FawepGYl4dAH5VJQOgR5FeJykPtmAuldYFFYjgalrA0wl6PWu8bA1AILZxANS_CwBhCO1E-ulzBDn1w_4Ax91PIekkmbgRiUNSEWgIpKUCUEyqjg6AVVX8AMiqOIxhX6GK0zYIkJKYOByRLoC1gpAZIHpi2IwUB5fK0ezOAHN0jR0z-5fsIMfnI9ATOplotL104B1BOI9jGMVYCzjcBsZS4A)]
 - [鋼琴伴奏 TMD 檔案](okyakusama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSyC8qychPL0osyKi0ysgsLskvykxOzInPTsxLVIIrKs4vLUpOjS9ITE-1CjA0M9QFEkYI6ZKM1NxUq9SU0uTEksz8PCUuLS2Fx41dT9cterZ8xvs9HS-79zyfsOXJni1Pl_Y_7-x4v6dTQUuLS9FWwdDAgMveVsFJhys7tdJWwT2Xy8ZI38QOZPCz6Uufbdr9bGbTsznzn7auebp2x7MFCx83dD2dsvHZ2p6nOzY_bugGGv20dceL6f0vZs5XMDIwMtAzMDDTM7AwMX7cvBvkzkcNk0EuBVoIduzTvvkv9nSCDFmy_NnaxU937nm6cwvEQKBpz9esebKj-eXsNiBDwdBc4eWCRiUuLn0tBVtqAS4FBYXHDROezd70fPa6F6tWPZvR97hhIli0effT9l0vZk59v2cWFk_O6X6-uvtF-67njYufrd3-tH_T095ZzztXvlyyAof_gT4G-QIUBnpZBekKwIAAcYzAHKDHHjc0Qa19sWr_s4blLzran3X3Ao0B2v9iXdfj5rVAcaDs8_lrHzd3ANlAV7grPN3QD2Z2vt_TA4wnBaAWIOtlw_ynu5YpQKITYfDz7SuAHoX4EmsaAFoFVRqUmpZalJqXnKrgWJqSmW-lEI0lgpobHzcvfty8-XFz7-Pm1QoakfmlIaVJqZqxGhklJQXFVvr65eXlepX5pSVAUb3k_Fx9B1VXU1VHE1VHc1VXM1VHF1VHY5CIk6WqkzOMYQJiWJqoOhlC1VgApYxVLYAIKAJmgHSBGU4whoULTMpJvywzJTW_WJML5BUFBUM9haedvUAvKmh45pUU5esomIBC7fn6Bk2gd5_2TwMGybM5q5-taHravxQYdk92L322a_Wz-VOeb5nyfM7857NaIGH8dFLPi8ZNT3dsA6aKp2tXPl-99Om6bUD0snUSWE3vi5UbnzW3Pl3UDA1wBQUjPYUnO3YDQwoSxgoawfl56ToKxkZQBygcnq5gpPBs3VawS7Yve9bZDbT9xZ6pT7cvB5nZuvppR9vL-Zufr1kGMeHF0vXPOmc8ndr_fO2UF6vmPduwGGQXyDLKcwIUKGjpc3GBA8oqIDMxLz_Iw6HGoKYa7CEbCy07MKNGwRAMzePBTGMgNgMxgXwIMgRygCK6QGigUMNVi2KkD3YjzeLjFaLN4nNjFYxBLGMQC1kUwapBUoFbLdRiUJjj9YoB0AyIY2EegHoM5C0gA-YzmGdwBACYCVQL0WECNgBdE1AUgoAyNQpG8VAE5gFFIfqAAli0GkCsADmSavZBrCTCf3CmMRiCYtcYTb0xMCXDZLCnB8JBSCgNIaKSYBIiNbFgV4twK6HEiV3UBMQyiUcyGN1cuAokpUYgphFIP4KFpBJZEIepg8i1tAtc0kxGVk1KMiHXzWSWVrp2CuCSUgHIACV3ZFqZCwA)]
 
 ## 分析
@@ -91,14 +73,14 @@ tmd_source:
 ================================================================================
 📊 TMD Song Profile: [ お客様 ]
 ================================================================================
-⏱  Duration:       0:38 (38.4s), 32 measures total
+⏱  Duration:       1:16 (76.8s), 64 measures total
 🎼 Key & Tempo:    首調基準 B,, != 100.0 BPM, <2/4>
    - 分析範圍：      由實際發聲的音符與和弦推測調性；播放脈絡另行呈現
 🎤 人聲音域:    C4 (MIDI 60) – D5 (MIDI 74) [跨度: 14 個半音 / 1.2 個八度, 難度: moderate]
-   - 最低音:  C4 in [Song #1 @ m.10, 0:10]
-   - 最高音: D5 in [Song #1 @ m.3, 0:02]
+   - 最低音:  C4 in [Song[L1] #1 @ m.10, 0:10]
+   - 最高音: D5 in [Song[L1] #1 @ m.3, 0:02]
    - 適合: soprano, mezzo-soprano, contralto, tenor, baritone, bass
-🏛  結構:      Song (38.4s)
+🏛  結構:      Song[L1] (38.4s) -> Song[L2] (38.4s)
 ⚡ 編曲密度:        Peak 1 軌道同時演奏
 🗝  調性診斷：       G 小調（純淨自然小調，未偵測到可信轉調）
    - 風格氣質:    純淨自然小調（陰鬱抒情、旋律集中，無明顯調外色彩）
@@ -106,9 +88,10 @@ tmd_source:
    - 核心骨幹音:  A, D, A#, G, D#
    - 調性數值:    G 小調 [相關度: 0.68, 穩定度: Moderate, 自然音純度: 100.0%]
    - 候選調性 (K-S): G 小調 (0.68), D 小調 (0.58), A# 大調 (0.53)
-   - 五度圈歷程:   +1
+   - 五度圈歷程:   +1 -> +1
    - 各段落調性細節:
-     • [Song #1]: G 小調 (r: 0.68, 自然音純度: 100.0%)
+     • [Song[L1] #1]: G 小調 (r: 0.68, 自然音純度: 100.0%)
+     • [Song[L2] #1]: G 小調 (r: 0.68, 自然音純度: 100.0%)
 
   [ 五度圈游移軌跡 ]
                C  
@@ -135,7 +118,7 @@ tmd_source:
      B  :                            0.0%
 --------------------------------------------------------------------------------
 Assignment 軌道音域：
-  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 100 個音符)
+  - Piano         : C4 – D5 (14 個半音 / 1.2 個八度, 200 個音符)
 ================================================================================
 ```
 
