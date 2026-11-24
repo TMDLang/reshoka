@@ -4,7 +4,7 @@ song_title: "勅語奉答"
 song_id: "shokacho_vol_01_p121_chokugo_hoto"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈勅語奉答〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：勝安芳、曲：小山作之助），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原件資訊與版面校勘**（對應《唱歌帖》第 1 冊 `P121.jpg`，卷首預印五線譜＋簡譜…"
+description: "〈勅語奉答〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：勝安芳、曲：小山作之助），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：> [!NOTE] > **原件資訊與版面校勘**（對應《唱歌帖》第 1 冊 `P121.jpg`，卷首預印五線譜＋簡譜…"
 keywords: "勅語奉答, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 勝安芳, 小山作之助"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -22,6 +22,9 @@ audio:
   - id: "chokugo_hoto"
     label: "鋼琴伴奏版"
     file: "chokugo_hoto.mp3"
+  - id: "chokugo_hoto_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "chokugo_hoto_neutrino.mp3"
 tmd_source:
   - "chokugo_hoto.tmd"
   - "chokugo_hoto_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="chokugo_hoto.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="chokugo_hoto_neutrino.mp3"></audio>
 
 - 詞：勝安芳
 - 曲：小山作之助

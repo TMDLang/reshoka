@@ -4,7 +4,7 @@ song_title: "からす"
 song_id: "izawa_shogaku_shoka_kan_1_855321_2_karasu"
 collection: "izawa_shogaku_shoka"
 volume: "kan_1_855321"
-description: "〈からす〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻一（NDL PID 855321，明治25年／1892）），調號拍號：G 2/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞： からすからす…"
+description: "〈からす〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻一（NDL PID 855321，明治25年／1892）），調號拍號：G 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞： からすからす…"
 keywords: "からす, 小學唱歌》（伊澤修二編）, 巻一, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻一（NDL PID 855321，明治25年／1892）"
@@ -18,17 +18,18 @@ image:
   - file: "P007.jpg"
 audio:
   - id: "karasu"
-    label: "原曲伴奏版"
+    label: "鋼琴伴奏版"
     file: "karasu.mp3"
 tmd_source:
   - "karasu.tmd"
+  - "karasu_piano.tmd"
 ---
 
 # からす
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **原曲伴奏版**：<br><audio controls src="karasu.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="karasu.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻一》第二頁（第二曲）
 - NDL Digital Collections PID 855321（https://dl.ndl.go.jp/pid/855321）掃描 P007.jpg
@@ -64,6 +65,7 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](karasu.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxhvEWpqbGRoYIyeL80qLkVKvi5Iz8_Jz4ktSKkqT8_Gx0-fiCxPRUqwADA3OETEFRfllqXmIeUHdBUWZeSWoKWDtCQWpZZkoqSLo4GWh1WWpRZlpmagqSu1KLikGOh1pRUpSYV5xclFkA8hFCVXpqXlGqVXJGZk5KUWpefHF-XjpCMi2_KNequKQovyAjMxkhXJKRCvRwYl5mbmIOQjS_KDM9M88qNzUzKxOLT_OLSoDhV5RYkFFplZFZXAJUnpyYEw8MNmBYamkpPG7sftzU-bhxpoKWFpeirYKhgQGXva2CO5eNkb6JHciYp-27Xsyc-n7PrCd7up7tW_Jk_7onu3qeb1_xuKHr6Yb-p2t3PJ2y8dnaHoWn23c_2dHwuKH7-Zo1QBUvFzS-39MBYT-bven9nk6wo_xcfBRcgC4uScxRcIZHdbFCgKeLAiQWgboySkoKiq309VNy9PKAOD1fL6tAvyAzRR-movNZX_Oz_n4FUNwB5YBhx6WvpWBLLcCloKDwtG_-s9k7Xmxuf7Gi60VHO9CHL1bOe9q64tm0dqALQd5AOJmYoOhBczLQE8AwBdn0YtX-Zw3LQXZ0976YOR8o-ri5Ayj4dPbspx1tj5v7QCHY3ft07QSgxe4KT5csB0oqAKNHASgKNAZkxpO9c8CBjBJJIInnq5e-WLMAKPF0Qs-TXbueTdkJVMoFkoH4COoGeDKAM-Cikx83TnvcuA0s2gYR7Xrc1PK4cR2YMflx06THjRvAEk39IBOauh83rnrc1AGxZfOKZy39QIdDw3PVqmcz-hB-14DIawL1rn7cvPJx004wY_OTHZ0vm_uAfn_aOunFiobHzV2Pm1c9bmh6uXkpOEC6Hzd3P92w8XHT2scNjc9XrHvc0Pp0av_ztVMeN28CKW7aDhQHK-5_2t_7dPIukFFr5wID9nFzG1DqxbJVQNkXDY2Pm5c9bl4NMqe5HygODGSg-JOdIPNfLukBmgaMl8fNMyC6nu7c82xm08slXS-agLb0PWtcCdH1ZAfQGa1ALc-2g53UvAgoC3bzmsfNE0Aa-4HsORBXAWMBqAvsNqBgJ5D9fOoGmAcbyTD8RfPex03rgca-bJwMcvC-FSAHgzQuBHoTmA6AHn-xsOdx026g70BaQHqBhgNFNoMDZNOL1WshbnvRABTcDvQsJCEDpZ5NnfmsrwMUL83AmAWqaQLH6tSZQFeCkvZ0oK-Acqufdre-WDUP6EqQ-4DB2tDzvGPfi_bFzzZMBMVQx7Zn63shTgGpaegFWdwE9MkqSMiCMsqOBogCiDdetvc-btrzuGkr0N3PtwIjCRgHoBQA8i0wsvc3P903HewmoNMh3gCHIDD1wF1JeUEABQpa-lxc3olFicWlVgGZiXn5DjUGNdUgKxRsLLTswAxg-QPMLgq6wJTcCWTNVKjBygdmGCA9DYi3gUTAcm1AVbogO0Dm1CgYAzlGQIjOMgZCCMsAiGvAqn2w20KcrfFACDEG7PgusLYWIGsdWFsXRFvTJCB7A1hbP9hIYAYH0qvAIh1gp6M5HuFQmONBEMQyxHQ8ubZCHF_LxaVrpwCJGgUgS5kLAA)]
+- [鋼琴伴奏 TMD 檔案](karasu_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxhvEWpqbGRoYIyeL80qLkVKvi5Iz8_Jz4ktSKkqT8_Gx0-fiCxPRUqwADA3OETEFRfllqXmIeUHdBUWZeSWoKWDtCQWpZZkoqSDoxOTk_tyAxLzM3NQ9Jviy1qBjkeKgVJUWJecXJRZkFIB8hVKWn5hWlWiVnZOakFKXmxRfn56UjJNPyi3KtikuK8gsyMpMRwiUZqUAPgyxMzEGI5hdlpmfmWeWmZmZlYvFpflEJMPyKEgsyKq0yMotLgMqTE3PigcEGDEstLYXHjd2PmzofN858v6fjZfee5xO2PNmz5enS_uedHe_3dCpoaXEp2ioYGhhw2dsquHPZGOmb2IHMftq-68XMqe_3zHqyp-vZviVP9q97sqvn-fYVjxu6nm7of7p2x9MpG5-t7VF4un33kx0Njxu6n69ZA1TxckEj0B4I-9nsTUAbwC71c_FRcAF6oyQxR8EZHv_FCgGeLgqQqAXqyigpKSi20tdPydHLA-L0fL2sAv2CzBR9mIrOZ33Nz_r7FUARCpQDBiiXvpaCLbUAl4KCwtO--c9m73ixuf3Fiq4XHe1AH75YOe9p64pn09qBLgR5A-FkYoKiB83JQE8AwxRk04tV-581LAfZ0d37YuZ8oOjj5g6g4NPZs592tD1u7gOFYHfv07UTgBa7KzxdshwoqQCMHgWgKNAYkBlP9s4BBzJKJIEknq9e-mLNAqDE0wk9T3btejZlJ1ApF0gG4iOoG-BpA86Ai05-3DjtceM2sGgbRLTrcVPL48Z1YMbkx02THjduAEs09YNMaOp-3LjqcVMHxJbNK5619AMdDg3PVauezehD-F0DIq8J1Lv6cfPKx007wYzNT3Z0vmzuA_r9aeukFysaHjd3PW5e9bih6eXmpeAA6X7c3P10w8bHTWsfNzQ-X7HucUPr06n9z9dOedy8CaS4aTtQHKy4_2l_79PJu0BGrZ0LDNjHzW1AqRfLVgFlXzQ0Pm5e9rh5Ncic5n6gODCQgeJPdoLMf7mkB2gaMF4eN8-A6Hq6c8-zmU0vl3S9aALa0vescSVE15MdQGe0ArU82w52UvMioCzYzWseN08AaewHsudAXAWMBaAusNuAgp1A9vOpG2AebCTD8BfNex83rQca-7JxMsjB-1aAHAzSuBDoTWA6AHr8xcKex027gb4DaQHpBRoOFNkMDpBNL1avhbjtRQNQcDvQs5CEDJR6NnXms74OULw0A2MWqKYJHKtTZwJdCUra04G-Asqtftrd-mLVPKArQe4DBmtDz_OOfS_aFz_bMBEUQx3bnq3vhTgFpKahF2RxE9AnqyAhC8ooOxogCiDeeNne-7hpz-OmrUB3P98KjCRgHIBSAMi3wMje3_x033Swm4BOh3gDHILA1AN3JeUFARQoaOlzcXknFiUWl1oFZCbm5Qd5ONQY1FSDLFGwsdCyAzOAJRAwwyjoAtNyJ5A1U6EGKx-YZYD0NCDeBhIBy7UBVemCbAGZU6NgDOQYASE6yxgIISwDIK4Bq_bBbgtxtsYDIcQYsOO7wNpagKx1YG1dEG1Nk4DsDWBt_WAjgVkcSK8Ci3SAnY7meIRDYY4HQRDLENPx5NoKcXwtasz4IMeMCTRmgNbGK0QbxgIZpvFAlmk8iAkXgzHwqMWiDWSzrp0CxHIFIEuZCwA)]
 
 ## 分析
 

@@ -4,7 +4,7 @@ song_title: "渡りやんせ"
 song_id: "shokacho_vol_01_p139_watariyanse"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈渡りやんせ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：野口雨情、曲：中山晋平），調號拍號：E, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、山の小川に　一本橋を ちよとかけたれば…"
+description: "〈渡りやんせ〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：野口雨情、曲：中山晋平），調號拍號：E, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、山の小川に　一本橋を ちよとかけたれば…"
 keywords: "渡りやんせ, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 野口雨情, 中山晋平"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -23,6 +23,9 @@ audio:
   - id: "watariyanse"
     label: "鋼琴伴奏版"
     file: "watariyanse.mp3"
+  - id: "watariyanse_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "watariyanse_neutrino.mp3"
 tmd_source:
   - "watariyanse.tmd"
   - "watariyanse_piano.tmd"
@@ -33,6 +36,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="watariyanse.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="watariyanse_neutrino.mp3"></audio>
 
 - 詞：野口雨情
 - 曲：中山晋平

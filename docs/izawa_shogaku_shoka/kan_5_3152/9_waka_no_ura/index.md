@@ -4,7 +4,7 @@ song_title: "和歌の浦"
 song_id: "izawa_shogaku_shoka_kan_5_3152_9_waka_no_ura"
 collection: "izawa_shogaku_shoka"
 volume: "kan_5_3152"
-description: "〈和歌の浦〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：G 3/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：和歌の浦わをや見渡せば 蘆邊の松に風吹きて…"
+description: "〈和歌の浦〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：G 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：和歌の浦わをや見渡せば 蘆邊の松に風吹きて…"
 keywords: "和歌の浦, 小學唱歌》（伊澤修二編）, 巻五, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻五（廣島大學圖書館 ID 3152，明治26年／1893）"
@@ -18,17 +18,18 @@ image:
   - file: "P010.jpg"
 audio:
   - id: "waka_no_ura"
-    label: "原曲伴奏版"
+    label: "鋼琴伴奏版"
     file: "waka_no_ura.mp3"
 tmd_source:
   - "waka_no_ura.tmd"
+  - "waka_no_ura_piano.tmd"
 ---
 
 # 和歌の浦
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **原曲伴奏版**：<br><audio controls src="waka_no_ura.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="waka_no_ura.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻五 男生徒之部》上篇第九頁（第九曲）
 - NDL Digital Collections PID 3152 掃描 P010.jpg
@@ -66,6 +67,7 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](waka_no_ura.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxpvHGhqZGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAA0MDhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKki6OBlocVlqUWZaZmoKkqtSi4pBTodaUVKUmFecXJRZAPIPQlV6al4R3H3F-XnpCKm0_KJcq-KSovyCjMxkhHB-UWZ6Zp4V0LyUTJBZiUB_lealIisoAYZTUWJBRqVVRmZxCVBDMlARMHiAYaalpfB0Us-ztT2PG9c927pMQUuLS9FWwcKCy95WwZ3LxljfxA5k0NP2XS9mTn2_Z9aTPV3P9i15sn_dk109z7eveNzQ9XRD_9O1O55O2Qg0ROHp9t1Pdk1ReD5l-_Mp85_um_RkZ_fLZqCq7ic7up6vb3--Zs2TnXNfLmh8v6cDwn42e9P7PZ1gx_q5-Ci4AP1Skpij4AyP6mKFAE8XBVAsKjzra37W368Aihe9rAJgyHDpaynYUgtwKSgoPO2b_2z2jheb21-s6HrR0Q700YuV8562rng2rR3oYpADYY7B7nGgR5G81YPmYKBHgSEIsufFqv3PGpaDbOjufTFzPlD0cXMHUBBoibvC0yXLwczOJzs6gfJP104AaXmydw7Y0FnPZ697sbkBGMJPdkx70b0MJre2BxQ7eycA0bM5K57sX_h820YukOTjhgkQfzxumAhWvKPhcUMj2LdIEf-4qf9x06THTS0vlnU_27HwcePsx40bwE6d0fayqQukaO6-x42rXy5a8XTCzseNvY8bwVY_27vu6c5NIOm984HSz1d3P25cCDKscf7jpm6w_Y1Njxunv9y2BajoaX_346aOx43bXjQC9cx7OXfR85l7gYaBHQpMUTgdhu4qKlkLVEd5woECBS19Lq7wxOxEv_zQokSrgMzEvHyHGoOaapAtCjYWWnZgBjDJGuqagBSDeDUKhgq6QGikYAwkaxRMwTxdKM8EyjYC80BiMFgD1u1jWKPwuHk9WORx02oguw-s8nHTMqi6x80rISIwVc2bgHgJVGw-polG5JkIMgkhBjMR5mFTXQtcHoZ4EcRHeNEIrKYGLIbPw_uBeDfU4gkw5zUtgjp4O9R5MxGeaJ6H3cNAkyB6d0NNQugHmTAbqnsSlN8HDhqIKohOdA9b6hoaIXwMiVQzMI2IRgiPuChugdrcjWTzHrj7pkJF1kL5bVDXg3SC3I4tirsRYdjcCFULizyIr0AiILsgYYowEeIWdB8bGusampEWyRAeRCWml_EFNsT5SBEH9ALE-ZhRgvAy1DMgE5s7oJ4BJRaI6AqoyDSolzcDMVSsaR-KibVcXLp2CvCcHu1jGKuAKmAEFlDmAgA)]
+- [鋼琴伴奏 TMD 檔案](waka_no_ura_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxpvHGhqZGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAA0MDhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKkg6MTk5P7cgMS8zNzUPSb4stagY5HSoFSVFiXnFyUWZBSD_IFSlp-YVwd1XnJ-XjpBKyy_KtSouKcovyMhMRgjnF2WmZ-ZZAc1LyQSZlQj0V2leKrKCEmA4FSUWZFRaZWQWlwA1JAMVAYMHGGZaWgpPJ_U8W9vzuHHds63L3u_peNm95_mELU_2bHm6tP95Z8f7PZ0KWlpcirYKFhZc9rYK7lw2xvomdiDTn7bvejFz6vs9s57s6Xq2b8mT_eue7Op5vn3F44aupxv6n67d8XTKRqDJCk-3736ya4rC8ynbn0-Z_3TfpCc7u182A1V1P9nR9Xx9-_M1a57snPtyQSPQcgj72exNQGvBPvBz8VFwAXqwJDFHwRke_8UKAZ4uCqCoVXjW1_ysv18BFFl6WQXA4OLS11KwpRbgUlBQeNo3_9nsHS82t79Y0fWiox3ooxcr5z1tXfFsWjvQxSAHwhyD3eNAjyJ5qwfNwUCPAkMQZM-LVfufNSwH2dDd-2LmfKDo4-YOoCDQEneFp0uWg5mdT3Z0AuWfrp0A0vJk7xywobOez173YnMDMISf7Jj2onsZTG5tDyh29k4AomdzVjzZv_D5to1cIMnHDRMg_njcMBGseEfD44ZGsG-RUsPjpv7HTZMeN7W8WNb9bMfCx42zHzduADt1RtvLpi6Qorn7HjeufrloxdMJOx839j5uBFv9bO-6pzs3gaT3zgdKP1_d_bhxIciwxvmPm7rB9jc2PW6c_nLbFqCip_3dj5s6Hjdue9EI1DPv5dxFz2fuBRoGdigwReF0GLqrqGQtUB3lCQcKFLT0ubjCE7MT_fJDixKtAjIT8_KDPBxqDGqqQfYo2Fho2YEZwERrqGsCUg7i1SgYKugCoZGCMZCsUTAF83ShPBMo2wjMA4nBYA1Yt49hjcLj5vVgkcdNq4HsPrDKx03LoOoeN6-EiMBUNW8C4iVQsfmYJhqRZyLIJIQYzESYh011LXB5GOJFEB_hRSOwmhqwGD4P7wfi3VCLJ8Cc17QI6uDtUOfNRHiieR52DwNNgujdDTUJoR9kwmyo7klQfh84aCCqIDrRPWypa2iE8DEkUs3ANCIaITziorgFanM3ks174O6bChVZC-W3QV0P0glyO7Yo7kaEYXMjVC0s8iC-AomA7IKEKcJEiFvQfWxorGtoRlokQ3gQlZhexhfYEOcjRRzQCxDnY0YJwstQz4BMbO6AegaUWCCiK6Ai06Be3gzEULGmfSgm1mJkdB_kjG4CzehAr8UrRBvGgjEaxzQeyDONB3JBBKokNs1GQI5RLpAHIvCbBUtzeGyg1Hoc2g0gYaNrpwAPnmgfoDiqgBFYQJkLAA)]
 
 ## 分析
 

@@ -4,7 +4,7 @@ song_title: "海山"
 song_id: "izawa_shogaku_shoka_kan_6_3153_10_umi_yama"
 collection: "izawa_shogaku_shoka"
 volume: "kan_6_3153"
-description: "〈海山〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻六（廣島大學圖書館 ID 3153，明治26年／1893）），調號拍號：F 4/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：島山遠くに（樂譜：しまやま とほくに） よく晴れて…"
+description: "〈海山〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻六（廣島大學圖書館 ID 3153，明治26年／1893）），調號拍號：F 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：島山遠くに（樂譜：しまやま とほくに） よく晴れて…"
 keywords: "海山, 小學唱歌》（伊澤修二編）, 巻六, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻六（廣島大學圖書館 ID 3153，明治26年／1893）"
@@ -18,17 +18,18 @@ image:
   - file: "P010.jpg"
 audio:
   - id: "umi_yama"
-    label: "原曲伴奏版"
+    label: "鋼琴伴奏版"
     file: "umi_yama.mp3"
 tmd_source:
   - "umi_yama.tmd"
+  - "umi_yama_piano.tmd"
 ---
 
 # 海山
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **原曲伴奏版**：<br><audio controls src="umi_yama.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="umi_yama.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻之六 男生徒之部》上篇第六頁（第十曲）
 - 廣島大學圖書館 ID 3153 掃描 P010.jpg
@@ -67,6 +68,7 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](umi_yama.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxZvHGhqbGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAA0MDhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKki6OBlocVlqUWZaZmoKkqtSi4pBTodaUVKUmFecXJRZAPIPQlV6al4R3H3F-XnpCKm0_KJcq-KSovyCjMxkhHB-UWZ6Zp5VeWpxSWpRXnxuak5-SiWydAkwlIoSCzIqrTIyi0uAypMTc-KBgYMUYiUZqcAAy0ssKS1KRRctTk7NSy0CmqilpfBs6_anGzcqaGlxKdoqWFhw2dsquHHZmOib2IE0PW3f9WLm1Pd7Zj3Z0_Vs35In-9c92dXzfPuKxw1dTzf0P1274-mUjc_W9ig83b77yc7up61rFZ5P2f58yvyn-yYB-S-bgQq7n-zoer6-_fmaNUDplwsa3-_pALF7G5_N3vR-TyfYbU93L366edvTJctBJs6Z9mz2jpdLVih4uiiAolrhWV_zs_5-BVDk6WUVAIOPS19LwZZagEtBQeFp33ygnS82t79Y0fWiox3ooxcr5z1tXfFsWjvQuciugzkKSwAAvQf0LZLfetAcDvQtMCRB9r1Ytf9Zw3KQTd29L2bOB4o-bp4BFARa5qYAtAjM7HQG2T179tOOtsfNfUAGUPHTtRNA5nb3vlyw9umejS-2bgeqA5n4ZO8csJ1AgxY-bt78uLn9cfPqx037HjfvAXKfbegHmuWbmpeSmlNcnJ-Rh6RrbQ9Q14sN25927-ACiT1umADx_-OGiWA1OxoeNzSCQwkYCBs3vmxc8Lix_3HjaqCJz1Y0vVg7B2Rr4_THjfseN7UASYXHjSseN-6GKQJb9LipA8h_NnPL46aex43LQEIvZ0543NT1uKnpceOqx429jxvXge3obX66oRvIAaZLoHFgFwGTHNQFz2fufTl70-PG7sdNcx83daO7oKkTZGlTE9AFQCOAioAqINY3TgULAR3ZC_QC0IFgc3dveNw46XHjhperZwDlUE0DOmsrRBaoez5EN9S0Z3P3ARPM48YpYANXc1GeBqFAQUufiys0NzMyMTfRKiAzMS_focagphpkp4KNiZYdmAFM-wa6xiClIF6NgoGCroJpPJCoUTADUYZgJohEsECwBqzexxCi43HTdrDs4-Z5IF7zEhRex-Pm2RCBpvWo2o2g2hunQ-U7wbx-KK8JzAMFPlQAREO0wxxvomuOcDzCmcZwlhGQBPEgLFSnP24GGfi4GWpf8wqwV0BuBPFAoo-b10B5bRguByYDiPsgKsB-AKYIqFNbwLx9UDmQyagOt9A1NER1OTi8axTMQRRyFJhA2GAhNPc3rQa7eB3UjavALl4E5XWB5dZCeX1Y3A8J361QN04C8zZAefMx_IbqfkMjXUNTbEEPCmYQhkSCCcTtWIK-EexYkKUgHsiZEEeCvLUMzAM5ASQHSk3oTgcF7ONGaDoDOxqSeEC8KWA5aJJqBAURRHctF5eunQI0R0T7GMYqIHONwFxlLgA)]
+- [鋼琴伴奏 TMD 檔案](umi_yama_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxZvHGhqbGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAA0MDhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKkg6MTk5P7cgMS8zNzUPSb4stagY5HSoFSVFiXnFyUWZBSD_IFSlp-YVwd1XnJ-XjpBKyy_KtSouKcovyMhMRgjnF2WmZ-ZZlacWl6QW5cXnpubkp1QiS5cAQ6kosSCj0iojs7gEqDw5MSceGDhIIVaSkQoMsLzEktKiVHTR4uTUvNQioIlaWgrPtm5_unHj-z0dL7v3PJ-w5cmeLU-X9j_v7Hi_p1NBS4tL0VbBwoLL3lbBjcvGRN_EDmTS0_ZdL2ZOfb9n1pM9Xc_2LXmyf92TXT3Pt6943ND1dEP_07U7nk7Z-Gxtj8LT7buf7Ox-2rpW4fmU7c-nzH-6bxKQ_7IZqLD7yY6u5-vbn69ZA5R-uaARaD-I3dv4bPYmoM1gBz_dvfjp5m1PlywHmThn2rPZO14uWaHg6aIAin-FZ33Nz_r7FUAxqpdVAAxTLn0tBVtqAS4FBYWnffOBdr7Y3P5iRdeLjnagj16snPe0dcWzae1A5yK7DuYoLAEA9B7Qt0h-60FzONC3wJAE2fdi1f5nDctBNnX3vpg5Hyj6uHkGUBBomZsC0CIws9MZZPfs2U872h439wEZQMVP104Amdvd-3LB2qd7Nr7Yuh2oDmTik71zwHYCDVr4uHnz4-b2x82rHzfte9y8B8h9tqEfaJZval5Kak5xcX5GHpKutT1AXS82bH_avYMLJPa4YQLE_48bJoLV7Gh43NAIDiVgIGzc-LJxwePG_seNq4EmPlvR9GLtHJCtjdMfN-573NQCJBUeN6543Lgbpghs0eOmDiD_2cwtj5t6HjcuAwm9nDnhcVPX46amx42rHjf2Pm5cB7ajt_nphm4gB5hYgcaBXQRMclAXPJ-59-XsTY8bux83zX3c1I3ugqZOkKVNTUAXAI0AKgKqgFjfOBUsBHRkL9ALQAeCzd294XHjpMeNG16ungGUQzUN6KytEFmg7vkQ3VDTns3dB0wwjxungA1czUV5GoQCBS19Lq7Q3MzIxNxEq4DMxLz8IA-HGoOaapCtCjYmWnZgBjD1G-gagxSDeDUKBgq6CqbxQKJGwQxEGYKZIBLBAsEasHofQ4iOx03bwbKPm-eBeM1LUHgdj5tnQwSa1qNqN4Jqb5wOle8E8_qhvCYwDxT8UAEQDdEOc7yJrjnC8QhnGsNZRkASxIOwUJ3-uBlk4ONmqH3NK8BeAbkRxAOJPm5eA-W1YbgcmBAg7oOoAPsBmCagTm0B8_ZB5UAmozrcQtfQENXl4PCuUTAHUchRYAJhg4XQ3N-0GuzidVA3rgK7eBGU1wWWWwvl9WFxPyR8t0LdOAnM2wDlzcfwG6r7DY10DU2xBT0omEEYEgkmELdjCfpGsGNBloJ4IGdCHAny1jIwD-QEkBwoNaE7HRSwjxuh6QzsaEjiAfGmgOWgSaoRFEQQ3bVoGcIHW4YAeiVeIdowFhjeQNo0PhYcDUCmWW4sTAquBhcf1SS4Kkxz4JbARYyADCOgEoT1qIaZgMRNsOuFySHUYPgFh8swbcVvnwEkOHXtFKAhGu0DVIvMNQJzlbkA)]
 
 ## 分析
 

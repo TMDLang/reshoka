@@ -4,7 +4,7 @@ song_title: "まなべ"
 song_id: "izawa_shogaku_shoka_kan_1_855321_5_manabe"
 collection: "izawa_shogaku_shoka"
 volume: "kan_1_855321"
-description: "〈まなべ〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻一（NDL PID 855321，明治25年／1892）），調號拍號：A 4/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：まなべやまなべ　みことのまゝに ならへやならへ　たゆまずうまず…"
+description: "〈まなべ〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻一（NDL PID 855321，明治25年／1892）），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：まなべやまなべ　みことのまゝに ならへやならへ　たゆまずうまず…"
 keywords: "まなべ, 小學唱歌》（伊澤修二編）, 巻一, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻一（NDL PID 855321，明治25年／1892）"
@@ -18,17 +18,18 @@ image:
   - file: "P010.jpg"
 audio:
   - id: "manabe"
-    label: "原曲伴奏版"
+    label: "鋼琴伴奏版"
     file: "manabe.mp3"
 tmd_source:
   - "manabe.tmd"
+  - "manabe_piano.tmd"
 ---
 
 # まなべ
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **原曲伴奏版**：<br><audio controls src="manabe.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="manabe.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻一》第五頁（第五曲）
 - NDL Digital Collections PID 855321（https://dl.ndl.go.jp/pid/855321）掃描 P010.jpg
@@ -66,6 +67,7 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](manabe.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxhvEWpqbGRoYIyeL80qLkVKvi5Iz8_Jz4ktSKkqT8_Gx0-fiCxPRUqwADQwOETEFRfllqXmIeUHdBUWZeSWoKWDtCQWpZZkoqSLo4GWh1WWpRZlpmagqSu1KLikGOh1pRUpSYV5xclFkA8hFCVXpqXlGqVXJGZk5KUWpefHF-XjpCMi2_KNequKQovyAjMxkhXJKRCvRwcUlpSiVCML8oMz0zzyo3NTMrE4tH84tKgMFXlFiQUWmVkVlcAlSenJgTDww1YFBqaSk8btz3uHHV48adClpaXIq2CpZmXPa2Co5cNib6JnYgU56273oxc-r7PbOe7Ol6tm_Jk_3rnuzqeb59xeOGrqcb-p-u3fF0ysZna3sUnm7f_WRHw-OG7udr1jzZNeXlgsb3ezog7GezN73f0wl2k5-Lj4IL0MEliTkKzvCILlYI8HRRgMQhUFdGSUlBsZW-fkqOXh4Qp-frZRXoF2Sm6MNUdD7ra37W368AijmgHDDkuPS1FGypBbgUFBSe9s1_NnvHi83tL1Z0vehoB_rwxcp5T1tXPJvWDnQhyBsIJxMTFD1oTgZ6AhimIJterNr_rGE5yI7u3hcz5wNFHzctAQo-nT37aUfb4-Y-IAMo9XTtBKDFjgpPlywHSioAo0cBKAo0BmTGk71zwIGMEkkwibU9QImnE3qe7NrFBRKD-AVqO9ihjSAWPCU8bmpBsBsaHjfuf9w4-XHjiseN60DiTXMfN66GaFj1uKnzceMOsAYYG6Rh_uOmNrARsx43Qhlgu3b1oNm1GWRmU__jxmmPmyaBta4HGwa0qx8kAjSvcRlEQ9PjRqDFEMfB2BANIIOmgjSABIFOXA3x5eYVz1r6gUEGjclVq57N6EOEugZEXhMYGkuAAfK4uR_otGdTZ75o2vS4ufvl9DmPm3Y-bl79tLv1xap5j5s3PV3a-bhpx-PmNqCyF817Hzetf9rdCYxyYFA_W7r2cdN2kPbpK4HOAKWDqf1ALc-3Nj1ungHU8nTnjufLgCJ9Txc1Aw1_0b4ZaPLj5pkgXc0dQHGgQ0BWrJ8MEmnaD5ZdBBR_3Nz1uHnN4-YJWN32onHas-krQNrnAN3W9XL24sdNQJcADe8Aqoc442l_14vpc18snAw0H-jUx80LwIb3vVjW-HwKUC_Q_NVQLSB2J1DZi1VrgOa8aJz3uAkoBbQI7M6GJkjSWQJMZ_gDCxhSL9Y1gHy7B-znzt6n-4DhCzG9G6jx-ZT5T_dNetmw6cVCoHjf8w6gIQvB4isg5gA9_7R_PVjLKqjFlGdqKFDQ0ufi8gWWfknAgj8zMS_focagphpkhYKNhZYdmAEsS4AJVEEXlMLB5E4Q2dQCJGuwyIAg0FSQzhoFQyDHCIiNoXQNmGUKxQYgEbBKH0NsRuG2JB4IoTqN0OU3g8l1EJ1N_WDeNLBpk1B0gv21H4gnA_EKuCaIYQhDV0P9hOIvY6D7zYAY1V8gFgij-wvTEhBEWIGwCN1f68FhANMJ8gtUJ9gvwAIBTC7D9Bc4KJo6EYrgQYkug-IvUKyYQWMH5COECAij-4t4S9D91QSWmQuPT4ROdBk0f80HKm1DCrRZ8KDEFEXxFyS2YGkREV-gFIruL-ItwRJf0FQ4FSnGQDIQH0ESGCKma7m4dO0UIBkw2scwVgGJZwTmKXMBAA)]
+- [鋼琴伴奏 TMD 檔案](manabe_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxhvEWpqbGRoYIyeL80qLkVKvi5Iz8_Jz4ktSKkqT8_Gx0-fiCxPRUqwADQwOETEFRfllqXmIeUHdBUWZeSWoKWDtCQWpZZkoqSDoxOTk_tyAxLzM3NQ9Jviy1qBjkeKgVJUWJecXJRZkFIB8hVKWn5hWlWiVnZOakFKXmxRfn56UjJNPyi3KtikuK8gsyMpMRwiUZqUAPF5eUplQiBPOLMtMz86xyUzOzMrF4NL-oBBh8RYkFGZVWGZnFJUDlyYk58cBQAwallpbC48Z9jxtXPW7c-X5Px8vuPc8nbHmyZ8vTpf3POzve7-lU0NLiUrRVsDTjsrdVcOSyMdE3sQMZ_bR914uZU9_vmfVkT9ezfUue7F_3ZFfP8-0rHjd0Pd3Q_3TtjqdTNj5b26PwdPvuJzsaHjd0P1-z5smuKS8XNAKtgbCfzd4EtADsUD8XHwUXoC9KEnMUnOGxX6wQ4OmiAIlYoK6MkpKCYit9_ZQcvTwgTs_XyyrQL8hM0Yep6HzW1_ysv18BFJ1AOWBwculrKdhSC3ApKCg87Zv_bPaOF5vbX6zoetHRDvThi5XznraueDatHehCkDcQTiYmKHrQnAz0BDBMQTa9WLX_WcNykB3dvS9mzgeKPm5aAhR8Onv20462x819QAZQ6unaCUCLHRWeLlkOlFQARo8CUBRoDMiMJ3vngAMZJZJgEmt7gBJPJ_Q82bWLCyQG8QvUdrBDG0EsePJ43NSCYDc0PG7c_7hx8uPGFY8b14HEm-Y-blwN0bDqcVPn48YdYA0wNkjD_MdNbWAjZj1uhDLAdu3qQbNrM8jMpv7HjdMeN00Ca10PNgxoVz9IBGhe4zKIhqbHjUCLIY6DsSEaQAZNBWkACQKduBriy80rnrX0A4MMGpOrVj2b0YcIdQ2IvCYwNJYAA-Rxcz_Qac-mznzRtOlxc_fL6XMeN-183Lz6aXfri1XzHjdverq083HTjsfNbUBlL5r3Pm5a_7S7ExjlwKB-tnTt46btIO3TVwKdAUoHU_uBWp5vbXrcPAOo5enOHc-XAUX6ni5qBhr-on0z0OTHzTNBupo7gOJAh4CsWD8ZJNK0Hyy7CCj-uLnrcfOax80TsLrtReO0Z9NXgLTPAbqt6-XsxY-bgC4BGt4BVA9xxtP-rhfT575YOBloPtCpj5sXgA3ve7Gs8fkUoF6g-auhWkDsTqCyF6vWAM150TjvcRNQCmgR2J0NTZCkswSYzvAHFjCkXqxrAPl2D9jPnb1P9wHDF2J6N1Dj8ynzn-6b9LJh04uFQPG-5x1AQxaCxVdAzAF6_mn_erCWVVCLKc_UUKCgpc_F5QssEpOAtUFmYl5-kIdDjUFNNcgSBRsLLTswA1iaAJOogi4ojYPJnSCyqQVI1mCRAUGguSCdNQqGQI4REBtD6RowyxSKDUAiYJU-htiMwm1JPBBCdRqhy28Gk-sgOpv6wbxpYNMmoegE-2s_EE8G4hVwTRDDEIauhvoJxV_GQPebATGqv0AsEEb3F6YlIIiwAmERur_Wg8MAphPkF6hOsF-ARQKYXIbpL3BQNHUiFMGDEl0GxV-gWDGDxg7IRwgREEb3F_GWoPurCSwzFx6fCJ3oMmj-mg9U2oYUaLPgQYkpiuIvSGzB0iIivkApFN1fxFuCJb6gqXAqUoyBZCA-giQwREzXouY_H-T8ZwLNf8BcFK8QbRirYBoPpE3jY4kUgTMRYlDzTEACJrEwPVgEkE0DC8DNAMoYQByua6cAcXu0D1AJEs8IzFPmAgA)]
 
 ## 分析
 

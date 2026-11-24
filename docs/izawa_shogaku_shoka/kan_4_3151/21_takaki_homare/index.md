@@ -4,7 +4,7 @@ song_title: "高き譽"
 song_id: "izawa_shogaku_shoka_kan_4_3151_21_takaki_homare"
 collection: "izawa_shogaku_shoka"
 volume: "kan_4_3151"
-description: "〈高き譽〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻四（廣島大學圖書館 ID 3151，明治26年／1893）），調號拍號：E 3/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：染めし紫あつかひて 松の操は色深し…"
+description: "〈高き譽〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻四（廣島大學圖書館 ID 3151，明治26年／1893）），調號拍號：E 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：染めし紫あつかひて 松の操は色深し…"
 keywords: "高き譽, 小學唱歌》（伊澤修二編）, 巻四, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻四（廣島大學圖書館 ID 3151，明治26年／1893）"
@@ -18,17 +18,18 @@ image:
   - file: "P031.jpg"
 audio:
   - id: "takaki_homare"
-    label: "原曲伴奏版"
+    label: "鋼琴伴奏版"
     file: "takaki_homare.mp3"
 tmd_source:
   - "takaki_homare.tmd"
+  - "takaki_homare_piano.tmd"
 ---
 
 # 高き譽
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **原曲伴奏版**：<br><audio controls src="takaki_homare.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="takaki_homare.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻四》下篇第十二頁（第二十一曲）
 - NDL Digital Collections PID 3151 掃描 P031.jpg
@@ -66,6 +67,7 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](takaki_homare.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxJvHGhqaGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAA2MknQVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOniZKDFZalFmWmZqSlIrkotKgY5HWpFSVFiXnFyUWYByD8IVempeUVw9xXn56UjpNLyi3KtikuK8gsyMpMRwvlFmemZeVZA81IyQWYlAv1VmpeKrKAEGE5FiQUZlVYZmcUlQA3JQEXA4AGGmZaWwsvVMx439r5Yu1dBS4tL0VbBwoDL3lbBlcvGWN_EDmTK0_ZdL2ZOfb9n1pM9Xc_2LXmyf92TXT3Pt6943ND1dEP_07U7nk7Z-Gxtj8LT7bufzp79uKH7yY7u5-vbn69Z87S3Eaj05YLG93s6gFwgGySyo-HZ7E3v93SCnejn4qPgAvRBSWKOgjM8gosVAjxdFEBxp_Csr_lZf78CKDb0sgqA4cGlr6VgSy3ApaCg8LRv_rPZO15sbn-xoutFRzvQKy9WznvauuLZtHagu0EOhDkGp48xPNeD5mygd4EBCLLtxar9zxqWg-zp7n0xcz5Q9HHzbKAg0KCnHW2Pm_ue7OgESj1dOwFouavC0yXLgZIKwLhQAIoCjQGZ8WTvHKAtLxpagbqfzVn1YuVmmOjaHlA87Z3wuKH12ZwVT1s7geZwgSQhvoK6AejKxw2NYOH5kx83NT5unP58y-rHjU2PG5c8bux-3LjpceMysPTcfY8b1z2b3Pu4cf2Lzk3Ptm8EKgVJwBMNUOJxY8vjxn2Pm5qe7Jj2uHE1xJPzHjd1PW3a_LhxB9CoZ3OA6hY-bpwF1A01GRhcUCc83wC0A2gnEE0Cyj-bMxdo5cvZq8Dm9HYCOU93bQWRS-Y87e0Cy60g3QmPG0HGPp3Q-7hp0uOmFpAKylMPFCho6XNxhSRmJ2ZneuTnJgIzcEBmYl6-Q41BTTXIIgUbCy07MAOYdA11TUDqQbwaBdN4BV0FQyDWVTACco2BtCkQmwBZNUARXSBtAqYhciBoAOKBtfsY1ig8btoO5ANTDVjucfMaoMrHzQvA7JUgsmkrEK8Fi3aBRVuA_NVg1SCxNZimGgHFG2eC1DaCzAGZ0QNS29gNFoOQk4B4Oli0CcyfCsTrYKY2taGYCvO5qa4FWT6HqML0Ocjtj5vnQX3eAvYPKBweN8-H-bx5E0K0aQmQtRbu86k4fN4L9k8_xFSgv0BiIJ8BkxiY3A00qQsh2tQBxKAwAZsKDQN0n1vqGhoheR3k8ziohyFeNwGyQXQNkAUKEF0F83h1MB-kBpvnQVH4uGk9mNwPDXaI2Fqg52ZDAwYWxY-bQR4CBQFEDBJomJ4HR2ZTI9ijoEBERHsvxOuN-6B29YBFwfaDAwakEiSH6XlDY11DM2pGfPMisI9WQKKouRvJ76CQeNy8CpYcoPwZYBKUKEFiIDdj8XsTxO8dEFMbVyP5HZKcuoCsJWBRML9xB5hcBvX7XBRTa7m4dO0UkIuEaB_DWAUMMSOwmDIXAA)]
+- [鋼琴伴奏 TMD 檔案](takaki_homare_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxJvHGhqaGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAA2MknQVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOnE5OT83ILEvMzc1Dwk-bLUomKQ06FWlBQl5hUnF2UWgPyDUJWemlcEd19xfl46QiotvyjXqrikKL8gIzMZIZxflJmemWcFNC8lE2RWItBfpXmpyApKgOFUlFiQUWmVkVlcAtSQDFQEDB5gmGlpKbxcPeNxY--LtXvf7-l42b3n-YQtT_Zsebq0_3lnx_s9nQpaWlyKtgoWBlz2tgquXDbG-iZ2IKOftu96MXPq-z2znuzperZvyZP9657s6nm-fcXjhq6nG_qfrt3xdMrGZ2t7FJ5u3_109uzHDd1PdnQ_X9_-fM2ap72NQKUvFzQC7QNygWyQyI6GZ7M3Ae0Du9vPxUfBBeitksQcBWd4rBcrBHi6KIAiVOFZX_Oz_n4FUBTpZRUAA4lLX0vBllqAS0FB4Wnf_Gezd7zY3P5iRdeLjnagV16snPe0dcWzae1Ad4McCHMMTh9jeK4HzdlA7wIDEGTbi1X7nzUsB9nT3fti5nyg6OPm2UBBoEFPO9oeN_c92dEJlHq6dgLQcleFp0uWAyUVgHGhABQFGgMy48neOUBbXjS0AnU_m7PqxcrNMNG1PaB42jvhcUPrszkrnrZ2As3hAklCfAV1A9CVjxsawcLzJz9uanzcOP35ltWPG5seNy553Nj9uHHT48ZlYOm5-x43rns2ufdx4_oXnZuebd8IVAqSgKckoMTjxpbHjfseNzU92THtceNqiCfnPW7qetq0-XHjDqBRz-YA1S183DgLqBtqMjC4oE54vgFoB9BOIJoElH82Zy7QypezV4HN6e0Ecp7u2goil8x52tsFlltBuhMeN4KMfTqh93HTpMdNLSAVlKceKFDQ0ufiCknMTszO9MjPTQTm6oDMxLz8IA-HGoOaapBVCjYWWnZgBjDxGuqagHSAeDUKpvEKugqGQKyrYATkGgNpUyA2AbJqgCK6QNoETEPkQNAAxANr9zGsUXjctB3IB6YbsNzj5jVAlY-bF4DZK0Fk01YgXgsW7QKLtgD5q8GqQWJrME01Aoo3zgSpbQSZAzKjB6S2sRssBiEnAfF0sGgTmD8ViNfBTG1qQzEV5nNTXQuyfA5RhelzkNsfN8-D-rwF7B9QODxung_zefMmhGjTEiBrLdznU3H4vBfsn36IqUB_gcRAPgMmMjC5G2hSF0K0qQOIQWECNhUaBug-t9Q1NELyOsjncVAPQ7xuAmSD6BogCxQgugrm8epgPkgNNs-DovBx03owuR8a7BCxtUDPzYYGDCyKHzeDPAQKAogYJNAwPQ-OzKZGsEdBgYiI9l6I1xv3Qe3qAYuC7QcHDEglSA7T84bGuoZm1Iz45kVgH62ARFFzN5LfQSHxuHkVLDlA-TPAJChRgsRAbsbi9yaI3zsgpjauRvI7JDl1AVlLwKJgfuMOMLkM6ve5KKbWYisRfJBLBBNoiQD0ZbxCtGEsGINCB8gzjQdyQQQmH1kxPfQbAblGuUAuiMCQpsAFBpBQ0rVTQA6oaB-gFIaYEVhMmQsA)]
 
 ## 分析
 

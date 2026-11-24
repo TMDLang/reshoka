@@ -47,6 +47,33 @@ python3 scripts/generate_song_markdown.py --force
 
 產生器會更新歌曲資料夾中的 `index.md`、`.abc`、音訊，以及相關的冊別索引與網站導覽。不要把手動修改直接留在這些產生檔中，否則下次重新產生時會被覆蓋。
 
+### 新增文章與網站導覽（nav）維護規則
+
+若新增了非歌曲的專題分析、史料考證、研究筆記或說明文件（如在 `docs/`、各歌集目錄或 `docs/archives/` 下新增 `.md` 檔案）：
+
+1. **嚴禁直接手動編輯 `mkdocs.yml` 的 `nav:` 區段**：
+   `mkdocs.yml` 的整個網站導覽樹（`nav:`）是由 Python 構建腳本 `scripts/song_markdown/site_nav.py` 在執行 `update_site_indexes_and_mkdocs()` 時自動掃描與重新生成的。任何直接寫在 `mkdocs.yml` 的手動修改，在下次執行 `generate_song_markdown.py` 或 `./rebuild_all.sh` 時都會被直接覆蓋洗掉。
+2. **新增文章時必須改寫 `scripts/song_markdown/site_nav.py`**：
+   - **全站層級文章或說明頁**（置於 `docs/` 根目錄或 `archives/` 等）：
+     修改 `scripts/song_markdown/site_nav.py` 中的 `MKDOCS_CONFIG_HEADER` 清單，在 `nav:` 下方（如「資料與說明:」中）加入對應條目：
+     ```python
+     "      - 你的文章標題: your_article.md",
+     ```
+   - **特定歌集／教材之專題文章**（置於各 collection 目錄下）：
+     修改 `scripts/song_markdown/site_nav.py` 中的 `COLLECTION_EXTRA_NAV_ITEMS` 字典，在對應的 collection slug 清單內加入 `("文章標題", "相對路徑")` 元組：
+     ```python
+     "shokacho": [
+         ("史料整理筆記", "shokacho/research_notes.md"),
+         ("你的文章標題", "shokacho/your_article.md"),
+     ],
+     ```
+3. **執行腳本以重建 `mkdocs.yml`**：
+   改寫 Python 腳本後，執行：
+   ```bash
+   python3 scripts/generate_song_markdown.py
+   ```
+   確認 `mkdocs.yml` 中的 `nav:` 已自動出現新增的條目。
+
 ## 批次轉錄與代理分流工作流
 
 批次處理歷史樂譜時，代理的上下文成本與圖片歷史長度必須納入工作量設計。預設採用「每代理 1～2 首歌」的短批次，不採用每代理 5～8 首歌的大批次。

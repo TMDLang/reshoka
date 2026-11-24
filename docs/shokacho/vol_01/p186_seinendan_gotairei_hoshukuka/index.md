@@ -4,7 +4,7 @@ song_title: "青年團御大禮奉祝歌"
 song_id: "shokacho_vol_01_p186_seinendan_gotairei_hoshukuka"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈青年團御大禮奉祝歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：川路柳虹、曲：中山晉平），調號拍號：B, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、空（そら）玲瓏（れいろう）と晴（は）れわたり 足（た）り穗（ほ）黃金（こがね）に實（みの）りたり…"
+description: "〈青年團御大禮奉祝歌〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：川路柳虹、曲：中山晉平），調號拍號：B, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、空（そら）玲瓏（れいろう）と晴（は）れわたり 足（た）り穗（ほ）黃金（こがね）に實（みの）りたり…"
 keywords: "青年團御大禮奉祝歌, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 川路柳虹, 中山晉平"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -22,6 +22,9 @@ audio:
   - id: "seinendan_gotairei_hoshukuka"
     label: "鋼琴伴奏版"
     file: "seinendan_gotairei_hoshukuka.mp3"
+  - id: "seinendan_gotairei_hoshukuka_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "seinendan_gotairei_hoshukuka_neutrino.mp3"
 tmd_source:
   - "seinendan_gotairei_hoshukuka.tmd"
   - "seinendan_gotairei_hoshukuka_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="seinendan_gotairei_hoshukuka.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="seinendan_gotairei_hoshukuka_neutrino.mp3"></audio>
 
 - 詞：川路柳虹
 - 曲：中山晉平

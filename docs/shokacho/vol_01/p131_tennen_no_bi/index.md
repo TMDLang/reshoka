@@ -4,7 +4,7 @@ song_title: "天然の美"
 song_id: "shokacho_vol_01_p131_tennen_no_bi"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈天然の美〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：武島羽衣、曲：田中穗積），調號拍號：F 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈天然の美〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：武島羽衣、曲：田中穗積），調號拍號：F 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "天然の美, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 武島羽衣, 田中穗積"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -22,6 +22,9 @@ audio:
   - id: "tennen_no_bi"
     label: "鋼琴伴奏版"
     file: "tennen_no_bi.mp3"
+  - id: "tennen_no_bi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "tennen_no_bi_neutrino.mp3"
 tmd_source:
   - "tennen_no_bi.tmd"
   - "tennen_no_bi_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="tennen_no_bi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="tennen_no_bi_neutrino.mp3"></audio>
 
 - 詞：武島羽衣
 - 曲：田中穗積

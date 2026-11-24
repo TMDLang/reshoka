@@ -4,7 +4,7 @@ song_title: "お月さん"
 song_id: "shokacho_vol_01_p147_otsukisan"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈お月さん〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：A, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）ワタシノスーキナ　オツキサーン ヒガシノヤマカラー　ニッコニコ…"
+description: "〈お月さん〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：A, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：（一）ワタシノスーキナ　オツキサーン ヒガシノヤマカラー　ニッコニコ…"
 keywords: "お月さん, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -20,6 +20,9 @@ audio:
   - id: "otsukisan"
     label: "鋼琴伴奏版"
     file: "otsukisan.mp3"
+  - id: "otsukisan_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "otsukisan_neutrino.mp3"
 tmd_source:
   - "otsukisan.tmd"
   - "otsukisan_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="otsukisan.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="otsukisan_neutrino.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P147）
 - 原載《小公校教材集》第 205 頁（大正 13 年 12 月 12 日抄）

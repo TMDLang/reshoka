@@ -112,20 +112,148 @@ MKDOCS_CONFIG_HEADER: list[str] = [
     "      - 同詞異曲歌曲: same_lyrics_songs.md",
     "      - 同曲異詞歌曲: same_melody_songs.md",
     "      - 《小學校唱歌教授書》: archives/kogakko_shoka_kyoju/index.md",
+    "      - 赤尾寅吉編《拔萃兒童唱歌集》（1933）: archives/akao_torakichi_1933/index.md",
+    "      - 延伸館藏與日本國會圖書館調查筆記: archives/index.md",
 ]
 
-COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
+NavItem = tuple[str, str] | tuple[str, list["NavItem"]]
+
+
+def _format_extra_nav_items(
+    items: list[NavItem], docs_dir: Path, indent_level: int = 6
+) -> list[str]:
+    """Recursively formats custom extra nav items with existence checks."""
+    lines: list[str] = []
+    prefix = " " * indent_level
+    for label, target in items:
+        if isinstance(target, str):
+            if (docs_dir / target).exists():
+                lines.append(f"{prefix}- {label}: {target}")
+        elif isinstance(target, list):
+            sub_lines = _format_extra_nav_items(target, docs_dir, indent_level + 4)
+            if sub_lines:
+                lines.append(f"{prefix}- {label}:")
+                lines.extend(sub_lines)
+    return lines
+
+
+COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
     "jinjo_shogaku_shoka": [("專題統計", "jinjo_shogaku_shoka/index.md")],
     "shintei_jido_shoka": [("專題統計", "shintei_jido_shoka/index.md")],
     "kyoeki_shoka": [("專題統計", "kyoeki_shoka/index.md")],
-    "kogakko_shokashu_1915": [("專題統計", "kogakko_shokashu_1915/analysis.md")],
+    "kogakko_shokashu_1915": [
+        ("專題統計", "kogakko_shokashu_1915/analysis.md"),
+        (
+            "1904年公學校唱歌制度起點公文全紀錄",
+            [
+                (
+                    "歷史總覽（七大官廳公文全紀錄）",
+                    "kogakko_shokashu_1915/begin/1904_shoka_origins/index.md",
+                ),
+                (
+                    "基隆廳訓令第七號（必須科目加設）",
+                    "kogakko_shokashu_1915/begin/1904_shoka_compulsory/index.md",
+                ),
+                (
+                    "宜蘭廳訓令第十八號（科目加設）",
+                    "kogakko_shokashu_1915/begin/1904_yilan_shoka_compulsory/index.md",
+                ),
+                (
+                    "深坑廳訓令第三號（抽撥漢文二小時）",
+                    "kogakko_shokashu_1915/begin/1904_shenkeng_shoka/index.md",
+                ),
+                (
+                    "嘉義廳訓令甲第十四號（全學年唱歌科）",
+                    "kogakko_shokashu_1915/begin/1904_chiayi_shoka/index.md",
+                ),
+                (
+                    "斗六廳訓令第二十號（唱歌科加設）",
+                    "kogakko_shokashu_1915/begin/1904_douliu_shoka/index.md",
+                ),
+                (
+                    "鹽水港廳廳令第十號（官附漢文諭告）",
+                    "kogakko_shokashu_1915/begin/1904_ensuiko_shoka/index.md",
+                ),
+                (
+                    "蕃薯藔廳達第七號（旗山等三校加設）",
+                    "kogakko_shokashu_1915/begin/1904_banshoro_shoka/index.md",
+                ),
+            ],
+        ),
+        (
+            "官方定價告示史料",
+            [
+                (
+                    "大正6年告示第62號（1917定價追加）",
+                    "kogakko_shokashu_1915/official_price_1917/index.md",
+                ),
+                (
+                    "大正10年告示第66號（1921官方定價）",
+                    "kogakko_shokashu_1915/official_price_1921/index.md",
+                ),
+            ],
+        ),
+    ],
     "shoka_kyozai_shu_1923": [("專題統計", "shoka_kyozai_shu_1923/analysis.md")],
     "kogakko_shoka": [
         ("專題統計", "kogakko_shoka/statistics.md"),
-        ("懸賞募集入選歌詞與作詞者名單", "kogakko_shoka/lyrics_contest/index.md"),
+        (
+            "懸賞募集與公報史料",
+            [
+                (
+                    "昭和8年歌詞募集告示",
+                    "kogakko_shoka/lyrics_call/index.md",
+                ),
+                (
+                    "昭和8年入選歌詞告示",
+                    "kogakko_shoka/official_selection/index.md",
+                ),
+                (
+                    "昭和8年懸賞募集入選歌詞與作詞者名單",
+                    "kogakko_shoka/lyrics_contest/index.md",
+                ),
+                (
+                    "昭和8年歌曲募集告示",
+                    "kogakko_shoka/melody_call/index.md",
+                ),
+                (
+                    "昭和8年歌曲募集訂正公告",
+                    "kogakko_shoka/melody_call_errata/index.md",
+                ),
+                (
+                    "昭和8年歌曲入選者告示",
+                    "kogakko_shoka/official_melody_selection/index.md",
+                ),
+                (
+                    "昭和10年高等科歌詞募集告示",
+                    "kogakko_shoka/koto_lyrics_call/index.md",
+                ),
+                (
+                    "昭和10年高等科歌詞入選者告示",
+                    "kogakko_shoka/koto_official_selection/index.md",
+                ),
+            ],
+        ),
     ],
     "kyoyusho_shoka_1935": [
         ("選曲特色與專題考證", "kyoyusho_shoka_1935/analysis.md"),
+        (
+            "蕃童教育所唱歌史料考釋",
+            [
+                (
+                    "岡本新市《教育所の唱歌教材論》（1933–1934）",
+                    "kyoyusho_shoka_1935/kyoikusho_shoka/index.md",
+                ),
+                (
+                    "〈唱歌遊戯教材集委員會開催〉與紀念合照（昭和9年）",
+                    "kyoyusho_shoka_1935/kyoikusho_shoka/shoka_iinkai_1934/index.md",
+                ),
+                (
+                    "〈國語普及唱歌入選發表〉（昭和8年）",
+                    "kyoyusho_shoka_1935/kyoikusho_shoka/kokugo_fukyu_shoka_1933/index.md",
+                ),
+            ],
+        ),
     ],
     "shokacho": [
         ("史料整理筆記", "shokacho/research_notes.md"),
@@ -136,6 +264,12 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[tuple[str, str]]] = {
     ],
     "hyojun_shoka_gakushucho": [
         ("專題導覽與各冊目錄", "hyojun_shoka_gakushucho/index.md"),
+    ],
+    "taiwan_no_uta": [
+        (
+            "史料考證：〈臺灣の歌審査員の作曲發表〉（1930年）",
+            "taiwan_no_uta/shinsain_sakkyoku_1930/index.md",
+        ),
     ],
 }
 
@@ -265,11 +399,8 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         col_title = COLLECTION_TITLES.get(col_slug, col_short)
         home_lines.extend([f"## {col_title}", ""])
         nav_lines.append(f"  - {col_short}:")
-        nav_lines.extend(
-            f"      - {label}: {rel_path}"
-            for label, rel_path in COLLECTION_EXTRA_NAV_ITEMS.get(col_slug, [])
-            if (docs_dir / rel_path).exists()
-        )
+        extra_items = COLLECTION_EXTRA_NAV_ITEMS.get(col_slug, [])
+        nav_lines.extend(_format_extra_nav_items(extra_items, docs_dir, indent_level=6))
 
         if col_slug in (
             "kogakko_shokashu_1915",
@@ -367,6 +498,18 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                     f'          - "{label}": {col_slug}/{vol_dir.name}/{sdir.name}/index.md'
                 )
         home_lines.append("")
+
+    archives_items: list[NavItem] = [
+        ("《小學校唱歌教授書》", "archives/kogakko_shoka_kyoju/index.md"),
+        ("赤尾寅吉編《拔萃兒童唱歌集》（1933）", "archives/akao_torakichi_1933/index.md"),
+        ("延伸館藏與日本國會圖書館調查筆記", "archives/index.md"),
+    ]
+    archive_lines = _format_extra_nav_items(
+        archives_items, docs_dir, indent_level=6
+    )
+    if archive_lines:
+        nav_lines.append("  - 典藏檔案與文獻:")
+        nav_lines.extend(archive_lines)
 
     if (docs_dir / "recreations" / "kogakko_shoka_grade3_suite" / "index.md").exists():
         nav_lines.extend(

@@ -128,6 +128,22 @@ python3 scripts/generate_song_markdown.py --force path/to/song_dir
 
 ---
 
+## 網站導覽（nav）與新增文章規範
+
+當為專案撰寫新的非歌曲專題文章、史料考證或分析研究文件（例如在 `docs/` 下新增 `.md` 檔案）時，**切勿直接手動編輯 `mkdocs.yml` 中的 `nav:` 區段**：
+
+1. **唯一真相來源為 Python 構建腳本**：
+   `mkdocs.yml` 的 `nav:` 清單由 `scripts/song_markdown/site_nav.py` 自動生成並覆蓋寫入。手動修改 `mkdocs.yml` 會在下次執行 `generate_song_markdown.py` 或 `./rebuild_all.sh` 時全數遺失。
+2. **改寫 `scripts/song_markdown/site_nav.py` 的標準做法**：
+   - **全站說明或共通專題文章**（置於 `docs/` 或 `docs/archives/`）：
+     修改 `scripts/song_markdown/site_nav.py` 中的 `MKDOCS_CONFIG_HEADER`，在 `nav:` 列表（如「資料與說明:」）中新增對應行。
+   - **特定歌集冊別之專題考證**（置於該歌集 slug 目錄下）：
+     修改 `scripts/song_markdown/site_nav.py` 中的 `COLLECTION_EXTRA_NAV_ITEMS` 字典，在對應 key 下加入 `("顯示標題", "相對路徑")`。
+3. **重新編譯驗證**：
+   修改 Python 構建腳本後，執行 `python3 scripts/generate_song_markdown.py`，使 `mkdocs.yml` 自動同步更新。
+
+---
+
 ## 參考文獻與專題手冊
 
 * [Re:shōka `.tmd` Metadata 標籤與「歌曲來源系譜」分類規範（`tag: origin:` 多重來源體系與 `tag: theme:` 主題代碼）](./references/metadata_tags.md)

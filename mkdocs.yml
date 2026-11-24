@@ -89,6 +89,8 @@ nav:
       - 同詞異曲歌曲: same_lyrics_songs.md
       - 同曲異詞歌曲: same_melody_songs.md
       - 《小學校唱歌教授書》: archives/kogakko_shoka_kyoju/index.md
+      - 赤尾寅吉編《拔萃兒童唱歌集》（1933）: archives/akao_torakichi_1933/index.md
+      - 延伸館藏與日本國會圖書館調查筆記: archives/index.md
   - 小學唱歌（伊澤修二編／明治二十五年至二十六年／1892–1893）:
       - 巻一:
           - 總覽: izawa_shogaku_shoka/kan_1_855321/index.md
@@ -429,6 +431,18 @@ nav:
           - "19 卒業の歌": jinjo_shogaku_shoka/grade_6_4078/19_sotsugyo_no_uta/index.md
   - 公學校唱歌集（大正四年／1915）:
       - 專題統計: kogakko_shokashu_1915/analysis.md
+      - 1904年公學校唱歌制度起點公文全紀錄:
+          - 歷史總覽（七大官廳公文全紀錄）: kogakko_shokashu_1915/begin/1904_shoka_origins/index.md
+          - 基隆廳訓令第七號（必須科目加設）: kogakko_shokashu_1915/begin/1904_shoka_compulsory/index.md
+          - 宜蘭廳訓令第十八號（科目加設）: kogakko_shokashu_1915/begin/1904_yilan_shoka_compulsory/index.md
+          - 深坑廳訓令第三號（抽撥漢文二小時）: kogakko_shokashu_1915/begin/1904_shenkeng_shoka/index.md
+          - 嘉義廳訓令甲第十四號（全學年唱歌科）: kogakko_shokashu_1915/begin/1904_chiayi_shoka/index.md
+          - 斗六廳訓令第二十號（唱歌科加設）: kogakko_shokashu_1915/begin/1904_douliu_shoka/index.md
+          - 鹽水港廳廳令第十號（官附漢文諭告）: kogakko_shokashu_1915/begin/1904_ensuiko_shoka/index.md
+          - 蕃薯藔廳達第七號（旗山等三校加設）: kogakko_shokashu_1915/begin/1904_banshoro_shoka/index.md
+      - 官方定價告示史料:
+          - 大正6年告示第62號（1917定價追加）: kogakko_shokashu_1915/official_price_1917/index.md
+          - 大正10年告示第66號（1921官方定價）: kogakko_shokashu_1915/official_price_1921/index.md
       - 總覽: kogakko_shokashu_1915/index.md
       - 書訊與掃描頁: kogakko_shokashu_1915/0_book_info/index.md
       - "1-01 君が代": kogakko_shokashu_1915/1_01_kimigayo/index.md
@@ -1030,6 +1044,7 @@ nav:
           - "15 一月一日": hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md
           - "16 紀元節": hyojun_shoka_gakushucho/grade_6/16_kigensetsu/index.md
   - 臺灣の歌（昭和四年／1929）:
+      - 史料考證：〈臺灣の歌審査員の作曲發表〉（1930年）: taiwan_no_uta/shinsain_sakkyoku_1930/index.md
       - 總覽: taiwan_no_uta/index.md
       - 書訊與掃描頁: taiwan_no_uta/0_book_info/index.md
       - "1 臺灣の歌": taiwan_no_uta/1_taiwan_no_uta/index.md
@@ -1496,7 +1511,15 @@ nav:
           - "2-4-07 浦のあけくれ": shintei_jido_shoka/koto_girls_2020.006.0849/2_4_07_ura_no_akekure/index.md
   - 公學校唱歌（昭和九年至昭和十七年／1934–1942）:
       - 專題統計: kogakko_shoka/statistics.md
-      - 懸賞募集入選歌詞與作詞者名單: kogakko_shoka/lyrics_contest/index.md
+      - 懸賞募集與公報史料:
+          - 昭和8年歌詞募集告示: kogakko_shoka/lyrics_call/index.md
+          - 昭和8年入選歌詞告示: kogakko_shoka/official_selection/index.md
+          - 昭和8年懸賞募集入選歌詞與作詞者名單: kogakko_shoka/lyrics_contest/index.md
+          - 昭和8年歌曲募集告示: kogakko_shoka/melody_call/index.md
+          - 昭和8年歌曲募集訂正公告: kogakko_shoka/melody_call_errata/index.md
+          - 昭和8年歌曲入選者告示: kogakko_shoka/official_melody_selection/index.md
+          - 昭和10年高等科歌詞募集告示: kogakko_shoka/koto_lyrics_call/index.md
+          - 昭和10年高等科歌詞入選者告示: kogakko_shoka/koto_official_selection/index.md
       - 第一學年用:
           - 總覽: kogakko_shoka/grade_1/index.md
           - 書訊與掃描頁: kogakko_shoka/grade_1/0_book_info/index.md
@@ -1678,6 +1701,10 @@ nav:
           - "25 臺灣の歌": kogakko_shoka/koto_2/25_taiwan_no_uta/index.md
   - 教育所用唱歌教材集（昭和十年／1935）:
       - 選曲特色與專題考證: kyoyusho_shoka_1935/analysis.md
+      - 蕃童教育所唱歌史料考釋:
+          - 岡本新市《教育所の唱歌教材論》（1933–1934）: kyoyusho_shoka_1935/kyoikusho_shoka/index.md
+          - 〈唱歌遊戯教材集委員會開催〉與紀念合照（昭和9年）: kyoyusho_shoka_1935/kyoikusho_shoka/shoka_iinkai_1934/index.md
+          - 〈國語普及唱歌入選發表〉（昭和8年）: kyoyusho_shoka_1935/kyoikusho_shoka/kokugo_fukyu_shoka_1933/index.md
       - 總覽: kyoyusho_shoka_1935/index.md
       - 書訊與掃描頁: kyoyusho_shoka_1935/0_book_info/index.md
       - 式日用:
@@ -1919,5 +1946,9 @@ nav:
           - "18 日本": utanohon/ge_2006.006.0878/18_nippon/index.md
           - "19 おばあさん（老奶奶／阿嬤）": utanohon/ge_2006.006.0878/19_obaasan/index.md
           - "20 ひな祭（女兒節／雛祭）": utanohon/ge_2006.006.0878/20_hinamatsuri/index.md
+  - 典藏檔案與文獻:
+      - 《小學校唱歌教授書》: archives/kogakko_shoka_kyoju/index.md
+      - 赤尾寅吉編《拔萃兒童唱歌集》（1933）: archives/akao_torakichi_1933/index.md
+      - 延伸館藏與日本國會圖書館調查筆記: archives/index.md
   - "重新創作":
       - "公學校唱歌第三年學年組曲": recreations/kogakko_shoka_grade3_suite/index.md

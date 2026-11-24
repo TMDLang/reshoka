@@ -4,7 +4,7 @@ song_title: "富國強兵"
 song_id: "shokacho_vol_01_p173_fukoku_kyohei"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈富國強兵〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：E, 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈富國強兵〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：E, 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "富國強兵, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -21,6 +21,9 @@ audio:
   - id: "fukoku_kyohei"
     label: "鋼琴伴奏版"
     file: "fukoku_kyohei.mp3"
+  - id: "fukoku_kyohei_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "fukoku_kyohei_neutrino.mp3"
 tmd_source:
   - "fukoku_kyohei.tmd"
   - "fukoku_kyohei_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="fukoku_kyohei.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="fukoku_kyohei_neutrino.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P173–P174）
 - 14.12.2.K 抄（大正 14 年 12 月 2 日）

@@ -4,7 +4,7 @@ song_title: "羽衣"
 song_id: "shokacho_vol_01_p157_hagoromo"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈羽衣〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
+description: "〈羽衣〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）），調號拍號：E, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。"
 keywords: "羽衣, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -20,6 +20,9 @@ audio:
   - id: "hagoromo"
     label: "鋼琴伴奏版"
     file: "hagoromo.mp3"
+  - id: "hagoromo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "hagoromo_neutrino.mp3"
 tmd_source:
   - "hagoromo.tmd"
   - "hagoromo_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="hagoromo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="hagoromo_neutrino.mp3"></audio>
 
 - 日治時期公學校《唱歌帳》（典藏號 2020.006.0843・P157）
 - 原載《小公唱材集》第 327 頁（大正 13 年 12 月 23 日抄）

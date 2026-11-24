@@ -4,7 +4,7 @@ song_title: "日本男子"
 song_id: "izawa_shogaku_shoka_kan_5_3152_17_nihon_danshi"
 collection: "izawa_shogaku_shoka"
 volume: "kan_5_3152"
-description: "〈日本男子〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：G 4/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：千尋の海もうづむべし 千引の岩もくだくべし…"
+description: "〈日本男子〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：千尋の海もうづむべし 千引の岩もくだくべし…"
 keywords: "日本男子, 小學唱歌》（伊澤修二編）, 巻五, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻五（廣島大學圖書館 ID 3152，明治26年／1893）"
@@ -18,17 +18,18 @@ image:
   - file: "P026.jpg"
 audio:
   - id: "nihon_danshi"
-    label: "原曲伴奏版"
+    label: "鋼琴伴奏版"
     file: "nihon_danshi.mp3"
 tmd_source:
   - "nihon_danshi.tmd"
+  - "nihon_danshi_piano.tmd"
 ---
 
 # 日本男子
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **原曲伴奏版**：<br><audio controls src="nihon_danshi.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="nihon_danshi.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻五 男生徒之部》下篇第五頁（第十七曲）
 - NDL Digital Collections PID 3152 掃描 P026.jpg
@@ -67,6 +68,7 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](nihon_danshi.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxpvHGhqZGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAAyMzhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKki6OBlocVlqUWZaZmoKkqtSi4pBTodaUVKUmFecXJRZAPIPQlV6al4R3H3F-XnpCKm0_KJcq-KSovyCjMxkhHB-UWZ6Zp4V0LyUTJBZiUB_lealIisoAYZTUWJBRqVVRmZxCVBDMlARMHiAYaalpfBs-tJnc9Y8n7L96doJClpaXIq2CpZGXPa2Cu5cNib6JnYgg56273oxc-r7PbOe7Ol6tm_Jk_3rnuzqeb59xeOGrqcb-p-u3fF0ysZna3sUnm7f_WTXFAWgYc-nzH-6b9KTnd0vm4Gqup_s6H6-vv35mjVA6ZcLGt_v6QCyn_Y2PtnR_Gz2pvd7OsHu9XPxUXABeqckMUfBGR7bxQoBni4KoIhUeNbX_Ky_XwEUNXpZBcDA4dLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeipFyvnPW1d8WxaO9DRIAfCHIPd70C_ovqsB83NQL8CwxFk1YtV-581LAdZ0t37YuZ8oOjj5g6gINAed4WnS5aDmZ1PZ89-2tH2uLkPyAAqBEYSSO-TvXPAps96vqX3WWfDi30rnq1Z-LK5Dya3tgcUWXsnANGzOSue7F_4fNtGLpDk44YJED89bpgIVryj4XFDI9jnvc1PN3Q_blz3bOv2x01NjxvbHjcufdzU8Lhx5-PG6TAVe6YCVTzdtBKsov9x4wIwCVOBnJaeLl33uHHTC6BhjfMfN24AS2M1GeyMXT1QZzxubHrc1Pm4sedx49ZnU7c-blz_tGHS48aZSJYA-U09j5u6X27fBDTuWc9qktwANLMJaOAGdGMpTz9QoKClz8Xll5mRn-cCzOMZmVYBmYl5-Q41BjXVIHsUbCy07MAMYNo11DUBKQfxahQMFXSB0EjBGEiaAnGNghlYBMIDidYomEBZRlAZmC4INACJgE3zMaxReNzcCBZ93DwJiNeCWX1gPY-blkF1PG6eDyYXIYk_bm4FkwvgdjxunondFiOQHpBekPqVQPZqMGsqVFcbzJYmiO39UFv2g3mzwTI78doCCyhTXQtEQEE8bwwODEhAgYIEBEGBAQkokBrUgDKNxx1STduhfmgEhxbMxSA3gUIM4oclyH4Ah9jjpvVgsQaEH8AiuEIKagvQJFhIrYGaBuJBXAA2EawS3ZYmvLbAQspS19AIEVSg4NEFpiPUFAQJPkjgQAIPJA9LbTBd2NMUJI5ALnzc3A12FygeQTKb4X4AhQeED_M1JE0g_AlSDwpnHCFFU1vgmc9Y19AMKfvFgdWYg8MBNVkhEhr-_AcWQUpVoHQO8sV-oDsmgFmg_AVyFSjXQXwBiWGYOCLnIXIDIuVg2AJOVRi2gPMdSGYt3JZNYBIkS2z-g9hSy8Wla6eAVJpF-xjGKqALGYGFlLkA)]
+- [鋼琴伴奏 TMD 檔案](nihon_danshi_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxpvHGhqZGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAAyMzhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKkg6MTk5P7cgMS8zNzUPSb4stagY5HSoFSVFiXnFyUWZBSD_IFSlp-YVwd1XnJ-XjpBKyy_KtSouKcovyMhMRgjnF2WmZ-ZZAc1LyQSZlQj0V2leKrKCEmA4FSUWZFRaZWQWlwA1JAMVAYMHGGZaWgrPpi99NmfN8ynbn66d8H5Px8vuPc8nbHmyZ8vTpf3POzve7-lU0NLiUrRVsDTisrdVcOeyMdE3sQOZ_rR914uZU9_vmfVkT9ezfUue7F_3ZFfP8-0rHjd0Pd3Q_3TtjqdTNj5b26PwdPvuJ7umKABteD5l_tN9k57s7H7ZDFTV_WRH9_P17c_XrAFKv1zQCLQcyH7a2_hkR_Oz2ZuANoM94efio-AC9GNJYo6CMzwJFCsEeLoogGJX4Vlf87P-fgVQfOllFQBDjEtfS8GWWoBLQUHhad_8Z7N3vNjc_mJF14uOdqCnXqyc97R1xbNp7UBHgxwIcwx2vwP9iuqzHjQ3A_0KDEeQVS9W7X_WsBxkSXfvi5nzgaKPmzuAgkB73BWeLlkOZnY-nT37aUfb4-Y-IAOoEBhzIL1P9s4Bmz7r-ZbeZ50NL_ateLZm4cvmPpjc2h5QZO2dAETP5qx4sn_h820buUCSjxsmQPz0uGEiWPGOhscNjWCf9zY_3dD9uHHds63bHzc1PW5se9y49HFTw-PGnY8bp8NU7JkKVPF000qwiv7HjQvAJEwFcgJ7unTd48ZNL4CGNc5_3LgBLI3VZLAzdvVAnfG4selxU-fjxp7HjVufTd36uHH904ZJjxtnIlkC5Df1PG7qfrl9E9C4Zz2rSXID0MwmoIEb0I2lPP1AgYKWPheXX2ZGfp4LMONnZFoFZCbm5Qd5ONQY1FSDbFKwsdCyAzOAqddQ1wSkAcSrUTBU0AVCIwVjIGkKxDUKZmARCA8kWqNgAmUZQWVguiDQACQCNs3HsEbhcXMjWPRx8yQgXgtm9YH1PG5aBtXxuHk-mFyEJP64uRVMLoDb8bh5JnZbjEB6QHpB6lcC2avBrKlQXW0wW5ogtvdDbdkP5s0Gy-zEawssoEx1LRABBfG8MTgwIAEFChIQBAUGJKBAalADyjQed0g1bYf6oREcWjAXg9wECjGIH5Yg-wEcYo-b1oPFGhB-AIvgCimoLUCTYCG1BmoaiAdxAdhEsEp0W5rw2gILKUtdQyNEUIGCRxeYjlBTECT4IIEDCTyQPCy1wXRhT1OQOAK58HFzN9hdoHgEyWyG-wEUHhA-zNeQNIHwJ0g9KJxxhBRNbYFnPmNdQzOk7BcHVmMODgfUZIVIaPjzH1gEKVWB0jnIF_uB7pgAZoHyF8hVoFwH8QUkhmHiiJyHyA2IlINhCzhVYdgCzncgmbVwWzaBSZAssfkPYkstlsLMB7kwM4EWZsCAiFeINowFZjMgbRofCyq-QEyz3FiYFDY1GCKwhAsTgOulrmkmIBETbJphMrhNMwLyjYAOIc-rQMoAErK6dgpIgRvtA5REFzICCylzAQA)]
 
 ## 分析
 

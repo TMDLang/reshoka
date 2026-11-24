@@ -4,7 +4,7 @@ song_title: "秋"
 song_id: "izawa_shogaku_shoka_kan_5_3152_18_aki"
 collection: "izawa_shogaku_shoka"
 volume: "kan_5_3152"
-description: "〈秋〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：G 4/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：暑さはいつしかすぎぬるに ひえゆく秋の蟲の聲…"
+description: "〈秋〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：暑さはいつしかすぎぬるに ひえゆく秋の蟲の聲…"
 keywords: "秋, 小學唱歌》（伊澤修二編）, 巻五, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻五（廣島大學圖書館 ID 3152，明治26年／1893）"
@@ -18,17 +18,18 @@ image:
   - file: "P027.jpg"
 audio:
   - id: "aki"
-    label: "原曲伴奏版"
+    label: "鋼琴伴奏版"
     file: "aki.mp3"
 tmd_source:
   - "aki.tmd"
+  - "aki_piano.tmd"
 ---
 
 # 秋
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **原曲伴奏版**：<br><audio controls src="aki.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="aki.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻五 男生徒之部》下篇第六頁（第十八曲）
 - NDL Digital Collections PID 3152 掃描 P027.jpg
@@ -66,6 +67,7 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](aki.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxpvHGhqZGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAAyNzhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKki6OBlocVlqUWZaZmoKkqtSi4pBTodaUVKUmFecXJRZAPIPQlV6al4R3H3F-XnpCKm0_KJcq-KSovyCjMxkhHB-UWZ6Zp4V0LyUTJBZiUB_lealIisoAYZTUWJBRqVVRmZxCVBDMlARMHiAYaalpfB8ebeClhaXoq2CpRGXva2CO5eNib6JHUj_0_ZdL2ZOfb9n1pM9Xc_2LXmyf92TXT3Pt6943ND1dEP_07U7nk7Z-Gxtj8LT7buf7Jqi8HzK9udT5j_dN-nJzu6XzUBV3U92dD9f3_58zZqnrWtfLmh8v6cDxO5tfNq6-tnsTe_3dIKd6efio-AC9EVJYo6CMzySixUCPF0UQPGn8Kyv-Vl_vwIoRvSyCoBhwqWvpWBLLcCloKDwtG_-s9k7Xmxuf7Gi60VHO9BTL1bOe9q64tm0dqCjQQ6EOQa734F-RfVZD5qbgX4FhiPIqher9j9rWA6ypLv3xcz5QNHHzR1AQaA97gpPlywHMzufzp79tKPtcXMfkAFU-HTtBJDeJ3vngE2f9WTf3OdTNrzYtwIY1E-7VsLk1vaA5PZOAKJnc1Y83TPj-baNj5t3P-1aAIyPp7O2PF2ymguk9nHDBIgXHzdMBOvd0fC4oRHEejZr4uPGqY8b1z9ubHncuORx4_THjd2PG2c-bux73LjmcROQvRpsQuOmx40dj5vaHjf2A1PQ48Z1L-YDRda9aNwEDs_FG4AKHzfOB6MdjxuXge0FJh-oPS_nzHvcNAlkSlPn48bel7MbHzf2PJ26B8gGSUOMfNkOtHTni06gwUCrex43NQAVgY1fsvz5yl1AFY8bVz5uBLq4F6Lhye6uZ9OXgv2xdC_Y7b0QIaAcUAVIgvL0AgUKWvpcXI7ZmVYBmYl5-Q41BjXVIPMVbCy07MAMYBo11DUBKQPxahQMFXTB2BiITYG4RsEMSIIgiAcSrYGzjKAyEF0waAASAZvmY1ij8LhpEZD_uLkFRDZtBbP7wXoeNy2B6oDJboeKrwbzdoLJdXA7Hjf3YLfFCE1P83wwuQmqaxLclpVgNWuRbWleBRZbg2RLF4YtsIAy1bVABBTI86BAMIEHFIgHgrDgwxZQpvG4Q6oZ4qJuMAly9ePmjVA3LYP5oWk9mASFKcgPIL8Asx-YXIDwAzgkcYUUWA8kVpD0g2wB0ZCQmgmWBcUPSByiChT6j5uRQwpmI2ZIWeoaGiGCChQMIAxKSeZgvYZxUG2IRAUKR6ITFcTLTZvB5Ap4sIG8tx8eVCDW4-YZUMe2oemAeQKkD1dQgTz7uAmcRJpng9l7obpASQkSVJDA74TaDoow5CCGRQhIBHtQGRrrGpqRlv_wBxVYBCn_gYMBKTAgQYESVNDghOU_iPPxBxWSLaCggpoA0QmJkKlk2gLSh2pLLReXrp0CsBSL9jGMVYAxjcBMZS4A)]
+- [鋼琴伴奏 TMD 檔案](aki_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxpvHGhqZGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAAyNzhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKkg6MTk5P7cgMS8zNzUPSb4stagY5HSoFSVFiXnFyUWZBSD_IFSlp-YVwd1XnJ-XjpBKyy_KtSouKcovyMhMRgjnF2WmZ-ZZAc1LyQSZlQj0V2leKrKCEmA4FSUWZFRaZWQWlwA1JAMVAYMHGGZaWgrPl3e_39PxsnvP8wlbnuzZ8nRp__POjvd7OhW0tLgUbRUsjbjsbRXcuWxM9E3sQIY-bd_1YubU93tmPdnT9Wzfkif71z3Z1fN8-4rHDV1PN_Q_Xbvj6ZSNz9b2KDzdvvvJrikKz6dsfz5l_tN9k57s7H7ZDFTV_WRH9_P17c_XrHnauvblgkag5SB2b-PT1tXPZm8C2gx2u5-Lj4IL0GsliTkKzvCYL1YI8HRRAEWqwrO-5mf9_QqgaNLLKgAGFJe-loIttQCXgoLC0775z2bveLG5_cWKrhcd7UBPvVg572nrimfT2oGOBjkQ5hjsfgf6FdVnPWhuBvoVGI4gq16s2v-sYTnIku7eFzPnA0UfN3cABYH2uCs8XbIczOx8Onv20462x819QAZQ4dO1E0B6n-ydAzZ91pN9c59P2fBi3wpgUD_tWgmTW9sDkts7AYiezVnxdM-M59s2Pm7e_bRrATA-ns7a8nTJai6Q2scNEyBefNwwEax3R8PjhkYQ69msiY8bpz5uXP-4seVx45LHjdMfN3Y_bpz5uLHvceOax01A9mqwCY2bHjd2PG5qe9zYD0xWjxvXvZgPFFn3onETODwXbwAqfNw4H4x2PG5cBrYXmHyg9rycM-9x0ySQKU2djxt7X85ufNzY83TqHiAbJA0x8mU70NKdLzqBBgOt7nnc1ABUBDZ-yfLnK3cBVTxuXPm4EejiXoiGJ7u7nk1fCvbH0r1gt_dChIByQBUgCcrTCxQoaOlzcTlmZ1oFZCbm5Qd5ONQY1FSDbFCwsdCyAzOAqdRQ1wSkEMSrUTBU0AVjYyA2BeIaBTMgCYIgHki0Bs4ygspAdMGgAUgEbJqPYY3C46ZFQP7j5hYQ2bQVzO4H63nctASqAya7HSq-GszbCSbXwe143NyD3RYjND3N88HkJqiuSXBbVoLVrEW2pXkVWGwNki1dGLbAAspU1wIRUCDPgwLBBB5QIB4IwoIPW0CZxuMOqWaIi7rBJMjVj5s3Qt20DOaHpvVgEhSmID-A_ALMgGByAcIP4JDEFVJgPZBYQdIPsgVEQ0JqJlgWFD8gcYgqUOg_bkYOKZiNmCFlqWtohAgqUDCAMCglmYP1GsZBtSESFSgciU5UEC83bQaTK-DBBvLefnhQgViPm2dAHduGpgPmCZA-XEEF8uzjJnASaZ4NZu-F6gIlJUhQQQK_E2o7KMKQgxgWISAR7EFlaKxraEZa_sMfVGARpPwHDgakwIAEBUpQQYMTlv8gzscfVEi2gIIKagJEJyRCppJpC0gfqi21SIWYD3IhZgItxIABEK8QbRgLzF5A2jQ-FhRsIKZZbixMCpsaDBGoaZh6KTENv0qKDSPBaUDKABKeunYKwCCN9gEKwphGYKYyFwA)]
 
 ## 分析
 

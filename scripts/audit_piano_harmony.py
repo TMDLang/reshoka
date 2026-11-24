@@ -136,12 +136,15 @@ def expand_track_timeline(section_text: str, default_grid: int = 16) -> list[lis
             continue
         unit_multiplier = 16 // current_grid if current_grid <= 16 else 1
         events = []
+        last_tok = measures[-1][-1]["token"] if measures and measures[-1] else "0"
         for tok in tokens:
             if tok.startswith("{") and tok.endswith("}"):
                 continue
             if tok == "-":
                 if events:
                     events[-1]["duration"] += unit_multiplier
+                else:
+                    events.append({"token": last_tok, "duration": unit_multiplier})
             else:
                 events.append({"token": tok, "duration": unit_multiplier})
         if events:

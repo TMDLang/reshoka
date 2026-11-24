@@ -4,7 +4,7 @@ song_title: "圓い小山（顔あそび）"
 song_id: "shokacho_vol_01_p142_marui_koyama"
 collection: "shokacho"
 volume: "vol_01"
-description: "〈圓い小山（顔あそび）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：北原白秋、曲：中山晋平），調號拍號：F 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：【原頁歌詞全文與中文語譯】（對應 P142.jpg） 圓い小山に　日がでて落ちて…"
+description: "〈圓い小山（顔あそび）〉收錄於日治時期臺灣《楊金土手抄唱歌帖》（原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187））（詞：北原白秋、曲：中山晋平），調號拍號：F 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：【原頁歌詞全文與中文語譯】（對應 P142.jpg） 圓い小山に　日がでて落ちて…"
 keywords: "圓い小山（顔あそび）, 楊金土手抄唱歌帖, 第 1 冊（選定唱歌筆記帳）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 楊金土, 唱歌帖, 北原白秋, 中山晋平"
 schema_type: "MusicComposition"
 is_part_of: "《楊金土手抄唱歌帖》 原編第 1 冊 — 選定唱歌筆記帳（2020.006.0843，P113–P187）"
@@ -22,6 +22,9 @@ audio:
   - id: "marui_koyama"
     label: "鋼琴伴奏版"
     file: "marui_koyama.mp3"
+  - id: "marui_koyama_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "marui_koyama_neutrino.mp3"
 tmd_source:
   - "marui_koyama.tmd"
   - "marui_koyama_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="marui_koyama.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="marui_koyama_neutrino.mp3"></audio>
 
 - 詞：北原白秋
 - 曲：中山晋平

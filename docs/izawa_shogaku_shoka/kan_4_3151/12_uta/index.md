@@ -4,7 +4,7 @@ song_title: "歌（三部輪唱）"
 song_id: "izawa_shogaku_shoka_kan_4_3151_12_uta"
 collection: "izawa_shogaku_shoka"
 volume: "kan_4_3151"
-description: "〈歌（三部輪唱）〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻四（廣島大學圖書館 ID 3151，明治26年／1893）），調號拍號：E, 4/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、歌には春風のどかに通ひ 二、聲には鶯囀りを發す…"
+description: "〈歌（三部輪唱）〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻四（廣島大學圖書館 ID 3151，明治26年／1893）），調號拍號：E, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、歌には春風のどかに通ひ 二、聲には鶯囀りを發す…"
 keywords: "歌（三部輪唱）, 小學唱歌》（伊澤修二編）, 巻四, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻四（廣島大學圖書館 ID 3151，明治26年／1893）"
@@ -18,17 +18,18 @@ image:
   - file: "P011.jpg"
 audio:
   - id: "uta"
-    label: "原曲伴奏版"
+    label: "鋼琴伴奏版"
     file: "uta.mp3"
 tmd_source:
   - "uta.tmd"
+  - "uta_piano.tmd"
 ---
 
 # 歌（三部輪唱）
 
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
-- **原曲伴奏版**：<br><audio controls src="uta.mp3"></audio>
+- **鋼琴伴奏版**：<br><audio controls src="uta.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻四》上篇第十五頁（第十二曲）
 - NDL Digital Collections PID 3151 掃描 P011.jpg
@@ -59,6 +60,7 @@ tmd_source:
 ## TMD 檔案連結
 
 - [主旋律 TMD 檔案](uta.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxJvHGhqaGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAA0MknQVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOniZKDFZalFmWmZqSlIrkotKgY5HWpFSVFiXnFyUWYByD8IVempeUVw9xXn56UjpNLyi3KtgGYjK88vykzPzLMqTy0uSS3Kiy8pzUtFliwBBlBRYkFGpVVGZnEJUHFyYk48MFyAgaWlpfBsbc_7PR1PdnS-bF7xYs-qp1M2vt_TqaClxaVoq2BoZMBlb6vgqsNlY6JvYgcy82n7rhczp77fM-vJnq5n-5Y82b_uya6e59tXPG7oerqh_-naHUADgEYqPN2---ns2Y8bup_s6Hq-vv35mjVPexuf7JryckEj0DoYt-fZ7E1A68Cu9XPxUXABeqQkMUfBGR7JxQoBni4KoPhTeNbX_Ky_XwEUI3pZBcAw4dLXUrClFuBSUFB42jf_2ewdLza3v1jR9aKjHeiPFyvnPW1d8WxaO9DRIAfCHIPTu6g-60FzM9CvwKADWfVi1f5nDctBlnT3vpg5Hyj6Yl3X4-bZQHGgQU872h439wEZQNmnaycALXdNUni6ZDlQVgEYEwpAYaDhaJEGMvbJ3jlgi2c9btr6uHnC4-bGx817Hjd3P9vQDzQkODEpsSQzLxNJMSj2Z4G80r7r-aZNXCBhiLeh7nyyo-FxQyNQ6HHj6seN65_NWPpy0YrHjeseN6583NgNFHzZMOtx4yaw0l09QKUvGjdBlL7ctv7p7IbHTV2PmyY9n7nnceNMiHmdMPN2vFi948muXY8bWx43ToOIPG5qASmiPDahQEFLn4srtCTRKiATmGUcagxqqkHmK9hYaNmBGcAUBIwxoCefrdsKSZcKhgrAQAXnAX2wkhoFEwVdMDQGYiMgrgGqgbBAIiDZGgVTsAozMA0RgakGQZD6GrBpPjUKj5v2Q4WBEQMm-8EaIPTj5tUgsglC7oHK9EHVd8JkwDpBZkF4K-AmTgJbhew5YFqEe84Iw3PGQOeaAqEZ2PGmYO-agB0P8p4REIK8a6hgHg9CIBZEzBisEylQEN7bDHY6yEloHmxaBpbZAHfq46adUA-uAYusBJMzweQmpEABqwerBUFU7-3oRHjPGMN7oJCHxQBYLzTeQF40gsQLyF_YFUGiEhHlyBDJvyBfQVwIi1iQu2eAfbEIiNcC8WQg7oDJNS2B69iG0AENHZAZMN0gdTVoFoOsruXi0rVTACZsBSClzAUA)]
+- [鋼琴伴奏 TMD 檔案](uta_piano.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7PKrEosT4wvzshPT8wuBdHZiUpwdWX5OaW5qVbZiXnxJvHGhqaGCKni_NKi5FSr4uSM_Pyc-JLUipKk_PxsdPn4gsT0VKsAA0MknQVF-WWpeYl5QN0FRZl5JakpYO0IBallmSmpIOnE5OT83ILEvMzc1Dwk-bLUomKQ06FWlBQl5hUnF2UWgPyDUJWemlcEd19xfl46QiotvyjXKjkxD1l5flFmemaeVXlqcUlqUV58SWleKrJkCTCAihILMiqtMjKLS4CKkxNz4oHhAgwsLS2FZ2t73u_peLKj82Xzihd7Vj2dsvH9nk6gyMvuPc8nbHmyZ8vTpf3POzuAggpaWlyKtgqGRgZc9rYKrjpcNib6JnYgi56273oxc-r7PbOe7Ol6tm_Jk_3rnuzqeb59xeOGrqcb-p-u3QE0FWiPwtPtu5_Onv24ofvJjq7n69ufr1nztLfxya4pLxc0Am2EcXuezd4EtA7sBT8XHwUXoO9KEnMUnOExX6wQ4OmiAIpUhWd9zc_6-xVA0aSXVQAMKC59LQVbagEuBQWFp33zn83e8WJz-4sVXS862oH-eLFy3tPWFc-mtQMdDXIgzDE4vYvqsx40N4PDexbIqher9j9rWA6ypLv3xcz5QNEX67oeN88GigMNetrR9ri5D8gAyj5dOwFouWuSwtMly4GyCsCYUAAKAw1Hi0mQsU_2zgFbPOtx09bHzRMeNzc-bt7zuLn72YZ-oCHBiUmJJZl5mUiKQUliFsgr7bueb9rEBRKGeBvqzic7Gh43NAKFHjeufty4_tmMpS8XrXjcuO5x48rHjd1AwZcNsx43bgIr3dUDVPqicRNE6ctt65_Obnjc1PW4adLzmXseN86EmNcJM2_Hi9U7nuza9bix5XHjNIjI46YWkCLKYxMKFLT0ubhCSxKtAjKB-SjIw6HGoKYaZIOCjYWWHZgBTEPAOAN689m6rZCUqWCoAAxWcC7QByupUTBR0AVDYyA2AuIaoBoICyQCkq1RMAWrMAPTEBGYahAEqa8Bm-ZTo_C4aT9UGBg1YLIfrAFCP25eDSKbIOQeqEwfVH0nTAasE2QWhLcCbuIksFXIngOmRrjnjDA8Zwx0rikQmoEdbwr2rgnY8SDvGQEhyLuGCubxIARiQcSMwTqRAgXhvc1gp4OchObBpmVgmQ1wpz5u2gn14BqwyEowORNMbkIKFLB6sFoQRPXejk6E94wxvAcKeVgMgPVC4w3kRSNIvID8hV0RJCoRUY4MkfwL8hXEhbCIBbl7BtgXi4B4LRBPBuIOmFzTEriObQgd0NABmQHTDVJXg2YxyOpapHTtg5yuTaDpGhiL8fEK0SaxCoZAyjAWlEJBAqbxsQgG0FMQSZhaJEUwbVDTMMRhDCTDsFlgBGQZ5SILweIFoh3TdXhEMKzEMMsAEja6dgrA4FEAUspcAA)]
 
 ## 分析
 
