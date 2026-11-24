@@ -31,7 +31,7 @@ image: "0_book_info/P000_cp01.jpg"
 
 | 編號 | 曲名 | 詞曲 / 出處 | 調號・拍號・速度 | 掃描頁 |
 | :--- | :--- | :--- | :--- | :--- |
-| 第 6 首 | [**來客歡迎の歌（紅座社）**](06_raikyaku_kangei_no_uta/index.md) | — | `?=B,` `<2/4>` `!=80` | P006.jpg |
+| 第 6 首 | [**來客歡迎の歌（紅座社）**](06_raikyaku_kangei_no_uta/index.md) | — | `?=F` `<2/4>` `!=80` | P006.jpg |
 | 第 7 首 | [**蕃婦豐年踴の歌（紅座社）**](07_banpu_honen_odori_no_uta/index.md) | — | `?=B,` `<4/4>` `!=80` | P007.jpg |
 | 第 8 首 | [**老蕃粟刈祝の歌（紅座社）**](08_roban_awakari_iwi_no_uta/index.md) | — | `?=B,` `<2/4>` `!=80` | P008.jpg |
 

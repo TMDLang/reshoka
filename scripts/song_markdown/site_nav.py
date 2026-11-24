@@ -253,6 +253,10 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
                     "〈國語普及唱歌入選發表〉（昭和8年）",
                     "kyoyusho_shoka_1935/kyoikusho_shoka/kokugo_fukyu_shoka_1933/index.md",
                 ),
+                (
+                    "《教育所用 遊戲教材集》（昭和12年姐妹教材考釋）",
+                    "kyoyusho_shoka_1935/kyoikusho_shoka/yugi_kyozai_1937/index.md",
+                ),
             ],
         ),
     ],

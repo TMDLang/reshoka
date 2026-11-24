@@ -47,13 +47,17 @@ python3 scripts/generate_song_markdown.py --force
 
 產生器會更新歌曲資料夾中的 `index.md`、`.abc`、音訊，以及相關的冊別索引與網站導覽。不要把手動修改直接留在這些產生檔中，否則下次重新產生時會被覆蓋。
 
-### 新增文章與網站導覽（nav）維護規則
+### 文章撰寫風格與網站導覽（nav）維護規則
 
-若新增了非歌曲的專題分析、史料考證、研究筆記或說明文件（如在 `docs/`、各歌集目錄或 `docs/archives/` 下新增 `.md` 檔案）：
+1. **求真克制，避免過度浮誇的修辭**：
+   撰寫專題文章、史料考證、歌曲解說、導讀或背景註記時，風格必須維持客觀、嚴謹、克制與學術性。
+   - **避免過度浮誇的修辭**：嚴禁使用「史詩級」、「驚天地泣鬼神」、「無比震撼」、「璀璨瑰寶」、「鬼斧神工」、「劃時代巨作」等空洞煽情、主觀吹捧或誇飾性詞彙。
+   - **以史料事實與樂理特徵為本（Show, don't tell）**：忠實呈現原書文獻紀錄（版本、採集者、採集地、發行年份、原書日文註記與語譯）、音樂本體特徵（音階、調式、拍號、反覆結構、音域、骨幹音）及文化脈絡，避免無根據的過度詮釋或情緒渲染。
+   - **文字精準簡明**：說明應簡明扼要、層次分明，專注於提供實質研究價值與查證依據。
 
-1. **嚴禁直接手動編輯 `mkdocs.yml` 的 `nav:` 區段**：
+2. **新增文章時嚴禁直接手動編輯 `mkdocs.yml` 的 `nav:` 區段**：
    `mkdocs.yml` 的整個網站導覽樹（`nav:`）是由 Python 構建腳本 `scripts/song_markdown/site_nav.py` 在執行 `update_site_indexes_and_mkdocs()` 時自動掃描與重新生成的。任何直接寫在 `mkdocs.yml` 的手動修改，在下次執行 `generate_song_markdown.py` 或 `./rebuild_all.sh` 時都會被直接覆蓋洗掉。
-2. **新增文章時必須改寫 `scripts/song_markdown/site_nav.py`**：
+3. **新增文章時必須改寫 `scripts/song_markdown/site_nav.py`**：
    - **全站層級文章或說明頁**（置於 `docs/` 根目錄或 `archives/` 等）：
      修改 `scripts/song_markdown/site_nav.py` 中的 `MKDOCS_CONFIG_HEADER` 清單，在 `nav:` 下方（如「資料與說明:」中）加入對應條目：
      ```python
