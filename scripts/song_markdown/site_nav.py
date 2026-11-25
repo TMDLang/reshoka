@@ -285,6 +285,9 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
             "taiwan_no_uta/shinsain_sakkyoku_1930/index.md",
         ),
     ],
+    "kayocho_taiwan_angya": [
+        ("期刊考錄與四首無譜歌詞", "kayocho_taiwan_angya/journal_notes.md"),
+    ],
 }
 
 
@@ -469,6 +472,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             "taiwan_shuyu_shoka",
             "taiwan_no_uta",
             "kyoyusho_shoka_1935",
+            "kayocho_taiwan_angya",
         ):
             generate_volume_index(col_dir)
             vol_title = VOLUME_TITLES.get(col_slug, col_slug)

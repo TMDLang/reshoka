@@ -25,6 +25,7 @@ COLLECTIONS_ORDER: list[tuple[str, str]] = [
     ("shintei_jido_shoka", "新定兒童唱歌（昭和五年／1930）"),
     ("kogakko_shoka", "公學校唱歌（昭和九年至昭和十七年／1934–1942）"),
     ("kyoyusho_shoka_1935", "教育所用唱歌教材集（昭和十年／1935）"),
+    ("kayocho_taiwan_angya", "歌謠調臺灣行腳（《臺灣鐵道》昭和十三年／1938）"),
     ("utanohon", "うたのほん（唱歌課本）（昭和十八年／1943）"),
 ]
 
@@ -37,6 +38,7 @@ COLLECTION_TITLES: dict[str, str] = {
     "taiwan_no_uta": "《臺灣の歌》",
     "kogakko_shoka": "《公學校唱歌》",
     "kyoyusho_shoka_1935": "《教育所用 唱歌教材集》",
+    "kayocho_taiwan_angya": "《臺灣鐵道》〈歌謠調臺灣行腳〉",
     "shintei_jido_shoka": "《新定兒童唱歌》",
     "utanohon": "《うたのほん》（唱歌課本）",
     "kyoeki_shoka": "《共益商社唱歌教科書》",
@@ -60,6 +62,7 @@ VOLUME_TITLES: dict[str, str] = {
     "taiwan_shuyu_shoka": "明治四十三年初版／大正元年八版（國臺圖 0786 10）",
     "taiwan_no_uta": "臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8）",
     "kyoyusho_shoka_1935": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
+    "kayocho_taiwan_angya": "西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12）",
     "grade_1": "尋常科 第一學年用（國臺圖 0729 73）",
     "grade_2": "尋常科 第二學年用（國臺圖 523.37 4322-4）",
     "grade_3": "尋常科 第三學年用（臺史博 2020.006.0855）",
@@ -109,6 +112,7 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "taiwan_shuyu_shoka": "明治四十三年／大正元年（全一冊）",
     "taiwan_no_uta": "昭和四年（全一冊）",
     "kyoyusho_shoka_1935": "昭和十年（全一冊）",
+    "kayocho_taiwan_angya": "昭和十三年（全三回）",
     "grade_1": "第一學年用",
     "grade_2": "第二學年用",
     "grade_3": "第三學年用",
@@ -877,6 +881,10 @@ BOOK_INFO_SEO_TEMPLATES: dict[str, str] = {
         "（國臺圖系統編號 jpli2009-bk-sxt_0725_148_1935，索書號 0725 148）之封面、"
         "編纂趣旨、教材取扱上參考資料、目錄與各單元中扉頁及版權頁原書掃描圖檔（共 {img_count} 頁）。"
     ),
+    "kayocho_taiwan_angya": (
+        "日治時期昭和十三年（1938 年）3 至 5 月臺灣鐵道會發行《臺灣鐵道》第 309、310、311 號"
+        "（國臺圖索書號 0705-12）西川榮一〈歌謠調臺灣行腳〉全三回原刊掃描圖檔（共 {img_count} 頁）。"
+    ),
 }
 
 DEFAULT_BOOK_INFO_SEO_TEMPLATE = (
@@ -921,6 +929,9 @@ VOLUME_BLOCKQUOTES: dict[tuple[str, str], str] = {
     ("banjin_no_ongaku", "vol_02_ami"): BANJIN_NO_ONGAKU_VOL_02_NOTE,
     ("banjin_no_ongaku", "vol_03_paiwan_bunun_tayal"): BANJIN_NO_ONGAKU_VOL_03_NOTE,
     ("kyoyusho_shoka_1935", "kyoyusho_shoka_1935"): KYOYUSHO_SHOKA_1935_NOTE,
+    ("kayocho_taiwan_angya", "kayocho_taiwan_angya"): (
+        "國立臺灣圖書館「臺灣學數位圖書館」典藏期刊**《臺灣鐵道》第 309、310、311 號**（索書號 **`0705-12`**，昭和 13 年／1938 年 3 月至 5 月，臺灣鐵道會發行、渡部慶之進編輯發行）連載之紀行專欄——**西川榮一〈歌謠調臺灣行腳〉全三回**（pp. 43–48、55–58、61–64）。全三回共收錄沿臺東、新港、秀姑巒溪、玉里、馬太鞍、花蓮港、太魯閣、蘇花臨海道路、南方澳、雙溪至瑞芳等 14 首地方歌謠與觀光小唄，其中 **10 首附有鉛印簡譜**（包含花蓮港高等女學校教諭岡本新市作曲 6 首、赤尾寅吉作曲 1 首），本輯已全數轉錄為 TMD 樂譜、五線譜與伴奏音訊，並保留各曲跨及之完整原刊掃描頁；其餘 **4 首未附簡譜之純歌詞曲目**（〈玉里踊〉、〈馬太鞍の歌〉、〈タロコ小唄〉、〈南方澳漁港の歌〉）完整翻刻於[期刊考錄與無譜歌詞](journal_notes.md)。"
+    ),
     ("kogakko_shoka", "grade_1"): KOGAKKO_SHOKA_GRADE_1_NOTE,
     ("kogakko_shoka", "grade_2"): KOGAKKO_SHOKA_GRADE_2_NOTE,
     ("kogakko_shoka", "grade_4"): KOGAKKO_SHOKA_GRADE_4_NOTE,
@@ -996,8 +1007,15 @@ _KYOYUSHO_TAIWAN_SEINEN_1935_LINK = (
     "- 📜 **[〈臺灣青年歌・少年行進曲・林投節〉發表報導與奉祝演奏會紀錄（1934–1935，北原白秋三部作史料）](kyoikusho_shoka/taiwan_seinen_ka_1935/index.md)**",
     "kyoikusho_shoka/taiwan_seinen_ka_1935/index.md",
 )
+_KAYOCHO_JOURNAL_NOTES_LINK = (
+    "- 📰 **[《臺灣鐵道》〈歌謠調臺灣行腳〉三期期刊考錄與四首無譜歌詞全文翻刻（玉里踊、馬太鞍の歌、タロコ小唄、南方澳漁港の歌）](journal_notes.md)**",
+    "journal_notes.md",
+)
 
 VOLUME_EXTRA_LINKS: dict[tuple[str, str], list[tuple[str, str]]] = {
+    ("kayocho_taiwan_angya", "kayocho_taiwan_angya"): [
+        _KAYOCHO_JOURNAL_NOTES_LINK,
+    ],
     ("kyoyusho_shoka_1935", "kyoyusho_shoka_1935"): [
         _KYOYUSHO_ANALYSIS_LINK,
         _KYOYUSHO_YUGI_LINK,
@@ -1207,6 +1225,18 @@ def classify_song_section(
                 else:
                     sec = None
             return None, sec, f"第 {n} 首"
+        return None, None, folder_name
+
+    if col_name == "kayocho_taiwan_angya":
+        if parts[0].isdigit():
+            n = int(parts[0])
+            if n <= 5:
+                sec = "第一回（《臺灣鐵道》第 309 號，1938-03-07，pp. 43–48）"
+            elif n <= 7:
+                sec = "第二回（《臺灣鐵道》第 310 號，1938-04-05，pp. 55–58）"
+            else:
+                sec = "第三回（《臺灣鐵道》第 311 號，1938-05-07，pp. 61–64）"
+            return None, sec, f"({n})"
         return None, None, folder_name
 
     if col_name == "taiwan_no_uta":

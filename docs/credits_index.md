@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1674 首歌曲、整理 1394 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1684 首歌曲、整理 1412 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -247,6 +247,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [足柄山](shintei_jido_shoka/koto_girls_2020.006.0849/1_2_03_ashigarayama/index.md)
 
+### 國家慶吉（1 首）
+
+- [瑞芳小唄](kayocho_taiwan_angya/10_zuiho_kouta/index.md)
+
 ### 國語讀本（1 首）
 
 - [初夏の夜](hyojun_shoka_gakushucho/grade_4/03_shoka_no_yoru/index.md)
@@ -369,8 +373,9 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [茶摘歌](kyoyusho_shoka_1935/7_15_chatsumi_uta/index.md)
 
-### 小野正雄（2 首）
+### 小野正雄（3 首）
 
+- [双溪小唄](kayocho_taiwan_angya/09_sokei_kouta/index.md)
 - [臺車のをぢさん](kyoyusho_shoka_1935/3_25_daisha_no_ojisan/index.md)
 - [蕃山踊の歌](kyoyusho_shoka_1935/7_21_banzan_odori_no_uta/index.md)
 
@@ -407,9 +412,12 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [卒業式歌](shintei_jido_shoka/grade_1_2020.006.0847.0001/0_08_sotsugyoshiki_uta/index.md)
 
-### 岡本新市（1 首）
+### 岡本新市（4 首）
 
+- [タロコ探勝の歌](kayocho_taiwan_angya/07_taroko_tansho_no_uta/index.md)
 - [國語を習ひませう](kyoyusho_shoka_1935/8_05_kokugo_o_naraimasho/index.md)
+- [秀姑巒溪の歌](kayocho_taiwan_angya/03_shukorankei_no_uta/index.md)
+- [花蓮港名所づくし](kayocho_taiwan_angya/06_karenko_meisho_zukushi/index.md)
 
 ### 岡本新市（1933 年公學校唱歌歌詞懸賞募集入選）（1 首）
 
@@ -723,6 +731,14 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [がくたいあそび](kyoyusho_shoka_1935/2_21_gakutai_asobi/index.md)
 - [ガクタイアソビ（樂隊遊戲）](shintei_jido_shoka/grade_1_2020.006.0847.0001/3_01_gakutai_asobi/index.md)
 
+### 未署（《臺灣鐵道》第 309 號，昭和 13 年 3 月 7 日，頁 43–44，西川榮一〈歌謠調臺灣行腳〉）（1 首）
+
+- [臺東小唄](kayocho_taiwan_angya/01_taito_kouta/index.md)
+
+### 未署（《臺灣鐵道》第 309 號，昭和 13 年 3 月 7 日，頁 44，西川榮一〈歌謠調臺灣行腳〉）（1 首）
+
+- [新港小唄](kayocho_taiwan_angya/02_shinko_kouta/index.md)
+
 ### 本居豐穎（1 首）
 
 - [能久親王](shintei_jido_shoka/grade_4_2020.006.0847.0004/1_07_yoshihisa_shinno/index.md)
@@ -876,6 +892,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 濱岡泰夫（1 首）
 
 - [シヤボンダマ（肥皂泡）](shintei_jido_shoka/grade_2_2020.006.0847.0002/1_08_shabondama/index.md)
+
+### 瀨野尾翠（1 首）
+
+- [三十一里の旅（東海バスの歌）](kayocho_taiwan_angya/08_sanjuichiri_no_tabi/index.md)
 
 ### 片岡藤太郎（1 首）
 
@@ -1274,6 +1294,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [樂しき我家（快樂的我家）](shokacho/vol_02/p102_tanoshiki_wagaya/index.md)
 
+### S・O生（1 首）
+
+- [瑞芳小唄](kayocho_taiwan_angya/10_zuiho_kouta/index.md)
+
 ### ツウィッシッヒ（Rudolf Dittrich）（1 首）
 
 - [新高山](hyojun_shoka_gakushucho/grade_6/10_niitakayama/index.md)
@@ -1370,6 +1394,15 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [里心](kyoyusho_shoka_1935/7_09_satogokoro/index.md)
 
+### 岡本新市（6 首）
+
+- [タロコ探勝の歌](kayocho_taiwan_angya/07_taroko_tansho_no_uta/index.md)
+- [三十一里の旅（東海バスの歌）](kayocho_taiwan_angya/08_sanjuichiri_no_tabi/index.md)
+- [秀姑巒溪の歌](kayocho_taiwan_angya/03_shukorankei_no_uta/index.md)
+- [花蓮港名所づくし](kayocho_taiwan_angya/06_karenko_meisho_zukushi/index.md)
+- [花蓮港小唄](kayocho_taiwan_angya/05_karenko_kouta/index.md)
+- [花蓮港音頭](kayocho_taiwan_angya/04_karenko_ondo/index.md)
+
 ### 岡野貞一（《尋常小學唱歌》第六學年）（1 首）
 
 - [朧月夜（朦朧月夜）](shokacho/vol_10/p195a_oborozukiyo/index.md)
@@ -1448,6 +1481,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 藤井清水（1 首）
 
 - [林投節](kyoyusho_shoka_1935/5_20_rinto_bushi/index.md)
+
+### 赤尾寅吉（1 首）
+
+- [双溪小唄](kayocho_taiwan_angya/09_sokei_kouta/index.md)
 
 ### 郭明峯（4 首）
 
