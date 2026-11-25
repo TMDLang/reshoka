@@ -242,6 +242,10 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
             "蕃童教育所唱歌史料考釋",
             [
                 (
+                    "〈新作臺灣青年歌、歌曲發表〉（昭和5年《社會教育》）",
+                    "kyoyusho_shoka_1935/kyoikusho_shoka/taiwan_seinen_ka_1930/index.md",
+                ),
+                (
                     "岡本新市《教育所の唱歌教授／教材論》（1933–1934）",
                     "kyoyusho_shoka_1935/kyoikusho_shoka/index.md",
                 ),
