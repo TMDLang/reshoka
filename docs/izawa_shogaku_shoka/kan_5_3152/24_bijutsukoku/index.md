@@ -4,7 +4,7 @@ song_title: "美術國"
 song_id: "izawa_shogaku_shoka_kan_5_3152_24_bijutsukoku"
 collection: "izawa_shogaku_shoka"
 volume: "kan_5_3152"
-description: "〈美術國〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：A 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：皇國は生れ數多ある たくみ妙なるものも画くも…"
+description: "〈美術國〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：A 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：皇國は生れ數多ある たくみ妙なるものも画くも…"
 keywords: "美術國, 小學唱歌》（伊澤修二編）, 巻五, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻五（廣島大學圖書館 ID 3152，明治26年／1893）"
@@ -20,6 +20,9 @@ audio:
   - id: "bijutsukoku"
     label: "鋼琴伴奏版"
     file: "bijutsukoku.mp3"
+  - id: "bijutsukoku_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "bijutsukoku_neutrino.mp3"
 tmd_source:
   - "bijutsukoku.tmd"
   - "bijutsukoku_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="bijutsukoku.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="bijutsukoku_neutrino.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻五 男生徒之部》下篇第十二頁（第二十四曲）
 - NDL Digital Collections PID 3152 掃描 P031.jpg

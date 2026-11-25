@@ -4,7 +4,7 @@ song_title: "高き譽"
 song_id: "izawa_shogaku_shoka_kan_4_3151_21_takaki_homare"
 collection: "izawa_shogaku_shoka"
 volume: "kan_4_3151"
-description: "〈高き譽〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻四（廣島大學圖書館 ID 3151，明治26年／1893）），調號拍號：E 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：染めし紫あつかひて 松の操は色深し…"
+description: "〈高き譽〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻四（廣島大學圖書館 ID 3151，明治26年／1893）），調號拍號：E 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：染めし紫あつかひて 松の操は色深し…"
 keywords: "高き譽, 小學唱歌》（伊澤修二編）, 巻四, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻四（廣島大學圖書館 ID 3151，明治26年／1893）"
@@ -20,6 +20,9 @@ audio:
   - id: "takaki_homare"
     label: "鋼琴伴奏版"
     file: "takaki_homare.mp3"
+  - id: "takaki_homare_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "takaki_homare_neutrino.mp3"
 tmd_source:
   - "takaki_homare.tmd"
   - "takaki_homare_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="takaki_homare.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="takaki_homare_neutrino.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻四》下篇第十二頁（第二十一曲）
 - NDL Digital Collections PID 3151 掃描 P031.jpg

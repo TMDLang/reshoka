@@ -4,7 +4,7 @@ song_title: "日本男子"
 song_id: "izawa_shogaku_shoka_kan_5_3152_17_nihon_danshi"
 collection: "izawa_shogaku_shoka"
 volume: "kan_5_3152"
-description: "〈日本男子〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：千尋の海もうづむべし 千引の岩もくだくべし…"
+description: "〈日本男子〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻五（廣島大學圖書館 ID 3152，明治26年／1893）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：千尋の海もうづむべし 千引の岩もくだくべし…"
 keywords: "日本男子, 小學唱歌》（伊澤修二編）, 巻五, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻五（廣島大學圖書館 ID 3152，明治26年／1893）"
@@ -20,6 +20,9 @@ audio:
   - id: "nihon_danshi"
     label: "鋼琴伴奏版"
     file: "nihon_danshi.mp3"
+  - id: "nihon_danshi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "nihon_danshi_neutrino.mp3"
 tmd_source:
   - "nihon_danshi.tmd"
   - "nihon_danshi_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="nihon_danshi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="nihon_danshi_neutrino.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻五 男生徒之部》下篇第五頁（第十七曲）
 - NDL Digital Collections PID 3152 掃描 P026.jpg

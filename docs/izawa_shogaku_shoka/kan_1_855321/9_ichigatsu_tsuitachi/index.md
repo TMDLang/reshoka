@@ -4,7 +4,7 @@ song_title: "一月一日"
 song_id: "izawa_shogaku_shoka_kan_1_855321_9_ichigatsu_tsuitachi"
 collection: "izawa_shogaku_shoka"
 volume: "kan_1_855321"
-description: "〈一月一日〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻一（NDL PID 855321，明治25年／1892）），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、年たちかへる大空に　ひかりかゞやく日の御かげ あふがぬ民はありけりや　わが君ちよに萬世に…"
+description: "〈一月一日〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻一（NDL PID 855321，明治25年／1892）），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、年たちかへる大空に　ひかりかゞやく日の御かげ あふがぬ民はありけりや　わが君ちよに萬世に…"
 keywords: "一月一日, 小學唱歌》（伊澤修二編）, 巻一, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻一（NDL PID 855321，明治25年／1892）"
@@ -20,6 +20,9 @@ audio:
   - id: "ichigatsu_tsuitachi"
     label: "鋼琴伴奏版"
     file: "ichigatsu_tsuitachi.mp3"
+  - id: "ichigatsu_tsuitachi_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ichigatsu_tsuitachi_neutrino.mp3"
 tmd_source:
   - "ichigatsu_tsuitachi.tmd"
   - "ichigatsu_tsuitachi_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="ichigatsu_tsuitachi.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ichigatsu_tsuitachi_neutrino.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻一》第九頁（第九曲）
 - NDL Digital Collections PID 855321（https://dl.ndl.go.jp/pid/855321）掃描 P014.jpg

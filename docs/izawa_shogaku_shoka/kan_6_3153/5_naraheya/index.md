@@ -4,7 +4,7 @@ song_title: "習へや"
 song_id: "izawa_shogaku_shoka_kan_6_3153_5_naraheya"
 collection: "izawa_shogaku_shoka"
 volume: "kan_6_3153"
-description: "〈習へや〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻六（廣島大學圖書館 ID 3153，明治26年／1893）），調號拍號：D 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：習へやならせや銃丸うつ技 ならせやならへやたけき武士の道…"
+description: "〈習へや〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻六（廣島大學圖書館 ID 3153，明治26年／1893）），調號拍號：D 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：習へやならせや銃丸うつ技 ならせやならへやたけき武士の道…"
 keywords: "習へや, 小學唱歌》（伊澤修二編）, 巻六, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻六（廣島大學圖書館 ID 3153，明治26年／1893）"
@@ -20,6 +20,9 @@ audio:
   - id: "naraheya"
     label: "鋼琴伴奏版"
     file: "naraheya.mp3"
+  - id: "naraheya_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "naraheya_neutrino.mp3"
 tmd_source:
   - "naraheya.tmd"
   - "naraheya_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="naraheya.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="naraheya_neutrino.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻之六 男生徒之部》上篇第四頁（第五曲）
 - 廣島大學圖書館 ID 3153 掃描 P007.jpg

@@ -4,7 +4,7 @@ song_title: "君が代"
 song_id: "izawa_shogaku_shoka_kan_1_855321_8_kimigayo"
 collection: "izawa_shogaku_shoka"
 volume: "kan_1_855321"
-description: "〈君が代〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻一（NDL PID 855321，明治25年／1892）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞： 君が代は…"
+description: "〈君が代〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻一（NDL PID 855321，明治25年／1892）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞： 君が代は…"
 keywords: "君が代, 小學唱歌》（伊澤修二編）, 巻一, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻一（NDL PID 855321，明治25年／1892）"
@@ -20,6 +20,9 @@ audio:
   - id: "kimigayo"
     label: "鋼琴伴奏版"
     file: "kimigayo.mp3"
+  - id: "kimigayo_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kimigayo_neutrino.mp3"
 tmd_source:
   - "kimigayo.tmd"
   - "kimigayo_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="kimigayo.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kimigayo_neutrino.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻一》第八頁（第八曲）
 - NDL Digital Collections PID 855321（https://dl.ndl.go.jp/pid/855321）掃描 P013.jpg

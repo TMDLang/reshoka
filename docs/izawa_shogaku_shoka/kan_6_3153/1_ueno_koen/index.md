@@ -4,7 +4,7 @@ song_title: "上野公園"
 song_id: "izawa_shogaku_shoka_kan_6_3153_1_ueno_koen"
 collection: "izawa_shogaku_shoka"
 volume: "kan_6_3153"
-description: "〈上野公園〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻六（廣島大學圖書館 ID 3153，明治26年／1893）），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山杜鵑血に啼きし その五月雨の晴れ間にも…"
+description: "〈上野公園〉收錄於日治時期臺灣《小學唱歌》（伊澤修二編）（巻六（廣島大學圖書館 ID 3153，明治26年／1893）），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：山杜鵑血に啼きし その五月雨の晴れ間にも…"
 keywords: "上野公園, 小學唱歌》（伊澤修二編）, 巻六, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《小學唱歌》（伊澤修二編） 巻六（廣島大學圖書館 ID 3153，明治26年／1893）"
@@ -20,6 +20,9 @@ audio:
   - id: "ueno_koen"
     label: "鋼琴伴奏版"
     file: "ueno_koen.mp3"
+  - id: "ueno_koen_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "ueno_koen_neutrino.mp3"
 tmd_source:
   - "ueno_koen.tmd"
   - "ueno_koen_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="ueno_koen.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="ueno_koen_neutrino.mp3"></audio>
 
 - 出處：伊澤修二編《小學唱歌 巻之六 男生徒之部》上篇第一頁（第一曲）
 - 廣島大學圖書館 ID 3153 掃描 P004.jpg
