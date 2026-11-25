@@ -6,11 +6,11 @@ Q:1/4=80
 K:C
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-G8 G4 G2 G2 | G2 G2 E2 E2 E6 E2 | E4 B4 B4 B2 G2 | B4 c2 B2 B4 c2 B2 |
-w: ト ヒ ヤ ア | ビ ヌ ラ ブ ラ オ | ピ ヌ リ ヤ _ | グ タ イ ヤ ン _
-E4 B4 B4 B2 G2 | B4 G4 E4 C4 | E8 G4 G4 | G6 G2 E4 E4 |
-w: ピ ヌ シ ガ _ | グ シ ガ ン | サ ガ ヌ | ビ _ ル ノ
-E4 G4 G4 G2 E2 | G4 C4 C6 E2 | G4 E4 E6 G2 | c4 B4 G4 E4 |
+A8 c4 A2 G2 | A2 A2 G2 G2 E6 E2 | E4 G4 A4 B2 B2 | B4 c2 c2 B4 B2 B2 |
+w: ト ヒ ヤ ア | ビ ヌ ラ ブ ラ オ | ピ ヌ リ ヤ _ | グ タ _ ヤ ン _
+A4 B4 c4 B2 B2 | A4 G4 E4 E4 | E8 G4 A4 | A6 c2 A4 G4 |
+w: ピ ヌ シ ガ _ | グ シ ガ ン | サ ガ ヌ | ビ ー ル ノ
+E4 G4 A4 B2 B2 | A4 G4 E6 E2 | G4 G4 E6 E2 | B8 A2 A2 G4 |
 w: カ イ バ ガ _ | ヌ カ マ ノ | ダ ダ ル ヌ | イ ク ス ノ
-G4 E4 C4 C4 | C4 C4 z8 |]
+A4 G4 E4 E4 | E4 E4 z8 |]
 w: ク ヤ ヌ _ | _ ス

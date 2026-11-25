@@ -735,6 +735,7 @@ KYOYUSHO_SHOKA_1935_BOOK_INFO_EXTRA = """## 館藏詮釋資料（國立臺灣圖
 | **總頁數** | 掃描影像共 268 頁（含封面、〈編纂趣旨〉與〈教材取扱上參考資料〉pp. 1–14、裝飾扉頁、目錄 pp. 1–9〔第 7 頁原件缺頁〕、9 個單元中扉頁、本文 pp. 1–233 及版權頁） |
 | **索書號／條碼** | `0725 148`（條碼號 `3 1111 004654495`，舊登錄號 `80698`） |
 | **舊藏與寄贈** | 昭和 10 年 4 月 27 日臺灣總督府警務局寄贈臺灣總督府圖書館 |
+| **成套姐妹教材** | 昭和 12 年（1937）發行之[《教育所用 遊戲教材集》（索書號 0725 139）](../kyoikusho_shoka/yugi_kyozai_1937/index.md)，為本書標註 `(遊)` 歌曲之肢體動作、隊形走位與遊戲競技配套手冊。 |
 
 ---
 
@@ -937,9 +938,16 @@ _KYOYUSHO_ANALYSIS_LINK = (
     "- 📊 **[《教育所用 唱歌教材集》選曲特色與專題考證（警務局理蕃體制、國語夜學會與新編盆踊）](analysis.md)**",
     "analysis.md",
 )
+_KYOYUSHO_YUGI_LINK = (
+    "- 🏃 **[《教育所用 遊戲教材集》（昭和12年／1937 姐妹教材考釋與肢體動態）](kyoikusho_shoka/yugi_kyozai_1937/index.md)**",
+    "kyoikusho_shoka/yugi_kyozai_1937/index.md",
+)
 
 VOLUME_EXTRA_LINKS: dict[tuple[str, str], list[tuple[str, str]]] = {
-    ("kyoyusho_shoka_1935", "kyoyusho_shoka_1935"): [_KYOYUSHO_ANALYSIS_LINK],
+    ("kyoyusho_shoka_1935", "kyoyusho_shoka_1935"): [
+        _KYOYUSHO_ANALYSIS_LINK,
+        _KYOYUSHO_YUGI_LINK,
+    ],
     ("kogakko_shoka", "grade_1"): [_KOGAKKO_LYRICS_CONTEST_LINK],
     ("kogakko_shoka", "grade_2"): [_KOGAKKO_LYRICS_CONTEST_LINK],
     ("kogakko_shoka", "grade_3"): [_KOGAKKO_LYRICS_CONTEST_LINK],
