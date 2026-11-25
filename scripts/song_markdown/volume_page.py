@@ -15,6 +15,7 @@ from .catalog import (
     FLAT_TABLE_FIRST_COL,
     VOLUME_BLOCKQUOTES,
     VOLUME_EXTRA_LINKS,
+    VOLUME_EXTRA_SECTIONS,
     VOLUME_SEO_OVERRIDES,
     VOLUME_SEO_TEMPLATES,
     VOLUME_TITLES,
@@ -237,6 +238,13 @@ def generate_volume_index(vol_dir: Path) -> Path:
     lines.extend(extra_links)
     lines.extend(book_info_link)
     lines.extend(table_lines)
+
+    extra_section = VOLUME_EXTRA_SECTIONS.get(
+        (col_name, vol_name)
+    ) or VOLUME_EXTRA_SECTIONS.get(col_name, "")
+    if extra_section:
+        lines.append("")
+        lines.append(extra_section.strip())
 
     output = vol_dir / "index.md"
     output.write_text("\n".join(lines), encoding="utf-8")

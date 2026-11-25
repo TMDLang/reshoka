@@ -6,21 +6,21 @@ Q:1/4=88
 K:Eb
 V:V1 name="Piano" snm="Pia"
 [V:V1]
-z6 __B2 | E3 G F2 E2 | B4 A2 G2 | F4 _d2 E2 |
-w: ヒ | キ カ ヘ サ | レ ジ ト | ア ラ ヲ
-F4 z2 __B2 | E3 G F2 E2 | B4 A2 G2 | F4 E _d E F |
-w: ヒ シ | ア ラ ノ ノ | ス ヱ ヲ | ミ ワ タ セ バ
-[K:Ab] E4 z2 __e2 | A3 c B2 A2 | e4 d2 c2 | c4 B2 _g2 |
-w: レ ユ | フ ケ ブ リ | カ リ ナ | キ ス ギ
-A4 z2 A2 | d3 f e2 d2 | c4 B2 A2 | _g4 A B g __e |
-w: テ ナ | ビ ク モ ア | レ ハ タ | ツ ス ヽ キ _
-A4 z2 __e2 | A3 c B2 A2 | e4 d2 c2 | B4 _g2 A2 |
+z6 E2 | A3 B A2 G2 | F4 E2 F2 | G4 F2 G2 |
+w: ヒ | キ カ ヘ サ | レ ジ ト | ア ラ ソ
+F4 z2 E2 | A3 B A2 G2 | F4 E2 F2 | G2 F2 E D E F |
+w: ヒ シ | ア ラ ノ ノ | ス ヱ ヲ | ミ ワ タ _ セ バ
+E4 z2 F2 | c3 d c2 =B2 | c4 A4 | B4 =A4 |
+w: _ ユ | ウ ケ ブ リ | カ リ | ナ キ
+B4 z2 A2 | G3 A ^F2 G2 | c4 A2 F2 | G2 F2 E D E F |
+w: テ ナ | ビ ク モ オ | ノ レ タ | ツ ス ス _ キ _
+E4 z2 E2 | A3 B A2 G2 | F4 E2 F2 | G4 F2 G2 |
 w: _ あ | さ ぢ は ら | は へ る | か き ね
-B4 z2 __e2 | A3 c B2 A2 | e4 d2 c2 | B4 A _g A B |
-w: に と | す だ く す | ゞ む し | の こ ゑ も せ
-[K:Ab] A4 z2 __e2 | A3 c B2 A2 | e4 d2 c2 | c4 B2 _g2 |
-w: ず そ | れ と ま が | ひ て き | こ ゆ れ
-A4 z2 A2 | d3 f e2 d2 | c4 B2 A2 | _g4 A B g __e ||
-w: ど こ | ま の い な | な く こ | ゑ も せ ず _
-A4 z4 |]
+F4 z2 E2 | A3 B A2 G2 | F4 E2 F2 | G2 F2 E D E F |
+w: に と | す だ く す | ゞ む し | の こ ゑ _ も せ
+E4 z2 F2 | c3 d c2 =B2 | c4 A4 | B4 =A4 |
+w: ず そ | れ と ま が | ひ て | き こ
+B4 z2 A2 | G3 A ^F2 G2 | c4 A2 F2 | G2 F2 E D E F ||
+w: ゆ こ | ま の い な | な く こ | ゑ も せ _ ず _
+E4 z4 |]
 w: _

@@ -70,9 +70,9 @@ def main() -> int:
         return 1
 
     song_folders, book_info_folders, volume_folders = discover_targets(target)
-    if not song_folders and not book_info_folders:
+    if not song_folders and not book_info_folders and not volume_folders:
         print(
-            f"錯誤：在 {target} 下找不到任何 TMD 曲目或 0_book_info 資料夾",
+            f"錯誤：在 {target} 下找不到任何 TMD 曲目、0_book_info 或冊別資料夾",
             file=sys.stderr,
         )
         return 1

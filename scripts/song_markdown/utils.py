@@ -9,6 +9,9 @@ import shutil
 import subprocess
 
 
+from .catalog import COLLECTION_VOLUME_TITLES, VOLUME_TITLES
+
+
 class AmbiguousMainTmdError(RuntimeError):
     """A song folder has multiple possible main TMD files and should be skipped."""
 
@@ -98,6 +101,15 @@ def find_scanned_images(folder: Path) -> list[Path]:
     return sorted(images, key=lambda p: (natural_sort_key(p.stem), p.suffix.lower()))
 
 
+def _is_known_volume_folder(p: Path) -> bool:
+    if not p.is_dir():
+        return False
+    if p.name in VOLUME_TITLES:
+        return True
+    parent_slug = p.parent.name
+    return (parent_slug, p.name) in COLLECTION_VOLUME_TITLES
+
+
 def discover_targets(root: Path) -> tuple[list[Path], list[Path], list[Path]]:
     """Return (song_folders, book_info_folders, volume_folders) under root."""
     root = root.resolve()
@@ -110,6 +122,9 @@ def discover_targets(root: Path) -> tuple[list[Path], list[Path], list[Path]]:
     book_info_folders: list[Path] = []
     volume_folders: set[Path] = set()
 
+    if _is_known_volume_folder(root):
+        volume_folders.add(root)
+
     for tmd in root.rglob("*.tmd"):
         if "recreations" in tmd.parts or "fun" in tmd.parts:
             continue
@@ -121,6 +136,10 @@ def discover_targets(root: Path) -> tuple[list[Path], list[Path], list[Path]]:
         if bdir.is_dir():
             book_info_folders.append(bdir)
             volume_folders.add(bdir.parent)
+
+    for p in root.rglob("*"):
+        if p.is_dir() and _is_known_volume_folder(p):
+            volume_folders.add(p)
 
     song_folders = sorted(set(song_folders), key=lambda p: natural_sort_key(str(p)))
     book_info_folders = sorted(

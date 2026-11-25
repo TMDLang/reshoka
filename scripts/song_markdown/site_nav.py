@@ -242,8 +242,12 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
             "蕃童教育所唱歌史料考釋",
             [
                 (
-                    "〈新作臺灣青年歌、歌曲發表〉（昭和5年《社會教育》）",
+                    "〈臺灣青年歌募集〉與〈歌曲發表〉（昭和5年）",
                     "kyoyusho_shoka_1935/kyoikusho_shoka/taiwan_seinen_ka_1930/index.md",
+                ),
+                (
+                    "〈臺灣青年歌・少年行進曲・林投節〉發表（昭和10年《臺灣》）",
+                    "kyoyusho_shoka_1935/kyoikusho_shoka/taiwan_seinen_ka_1935/index.md",
                 ),
                 (
                     "岡本新市《教育所の唱歌教授／教材論》（1933–1934）",
@@ -530,8 +534,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                 ),
                 key=lambda d: natural_sort_key(d.name),
             )
-            if song_dirs:
-                generate_volume_index(vol_dir)
+            generate_volume_index(vol_dir)
             vol_title = get_volume_title(col_slug, vol_dir.name)
             vol_nav_title = get_volume_nav_title(col_slug, vol_dir.name)
             if song_dirs:
