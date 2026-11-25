@@ -988,11 +988,21 @@ _KYOYUSHO_YUGI_LINK = (
     "- 🏃 **[《教育所用 遊戲教材集》（昭和12年／1937 姐妹教材考釋與肢體動態）](kyoikusho_shoka/yugi_kyozai_1937/index.md)**",
     "kyoikusho_shoka/yugi_kyozai_1937/index.md",
 )
+_KYOYUSHO_TAIWAN_SEINEN_1930_LINK = (
+    "- 📜 **[〈臺灣青年歌募集〉與〈歌曲發表〉（昭和5年／1930，一條愼三郎〈南の風〉與岩田泉〈キヤンプの唄〉初出）](kyoikusho_shoka/taiwan_seinen_ka_1930/index.md)**",
+    "kyoikusho_shoka/taiwan_seinen_ka_1930/index.md",
+)
+_KYOYUSHO_TAIWAN_SEINEN_1935_LINK = (
+    "- 📜 **[〈臺灣青年歌・少年行進曲・林投節〉發表報導與奉祝演奏會紀錄（1934–1935，北原白秋三部作史料）](kyoikusho_shoka/taiwan_seinen_ka_1935/index.md)**",
+    "kyoikusho_shoka/taiwan_seinen_ka_1935/index.md",
+)
 
 VOLUME_EXTRA_LINKS: dict[tuple[str, str], list[tuple[str, str]]] = {
     ("kyoyusho_shoka_1935", "kyoyusho_shoka_1935"): [
         _KYOYUSHO_ANALYSIS_LINK,
         _KYOYUSHO_YUGI_LINK,
+        _KYOYUSHO_TAIWAN_SEINEN_1930_LINK,
+        _KYOYUSHO_TAIWAN_SEINEN_1935_LINK,
     ],
     ("kogakko_shoka", "grade_1"): [_KOGAKKO_LYRICS_CONTEST_LINK],
     ("kogakko_shoka", "grade_2"): [_KOGAKKO_LYRICS_CONTEST_LINK],

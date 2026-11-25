@@ -246,7 +246,7 @@ COLLECTION_EXTRA_NAV_ITEMS: dict[str, list[NavItem]] = {
                     "kyoyusho_shoka_1935/kyoikusho_shoka/taiwan_seinen_ka_1930/index.md",
                 ),
                 (
-                    "〈臺灣青年歌・少年行進曲・林投節〉發表（昭和10年《臺灣》）",
+                    "〈臺灣青年歌・少年行進曲・林投節〉發表與演奏會史料（1934–1935）",
                     "kyoyusho_shoka_1935/kyoikusho_shoka/taiwan_seinen_ka_1935/index.md",
                 ),
                 (
