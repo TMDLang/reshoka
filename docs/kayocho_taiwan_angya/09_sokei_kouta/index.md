@@ -4,7 +4,7 @@ song_title: "双溪小唄"
 song_id: "kayocho_taiwan_angya_kayocho_taiwan_angya_09_sokei_kouta"
 collection: "kayocho_taiwan_angya"
 volume: "kayocho_taiwan_angya"
-description: "〈双溪小唄〉收錄於日治時期臺灣《臺灣鐵道》〈歌謠調臺灣行腳〉（西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12））（作詞：小野正雄、作曲：赤尾寅吉），調號拍號：C 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：出處：《臺灣鐵道》第 311 號（昭和 13 年 5 月 7 日），p. 63 專欄：西川榮一〈歌謠調臺灣行腳（三）〉…"
+description: "〈双溪小唄〉收錄於日治時期臺灣《臺灣鐵道》〈歌謠調臺灣行腳〉（西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12））（作詞：小野正雄、作曲：赤尾寅吉），調號拍號：C 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：出處：《臺灣鐵道》第 311 號（昭和 13 年 5 月 7 日），p. 63 專欄：西川榮一〈歌謠調臺灣行腳（三）〉…"
 keywords: "双溪小唄, 臺灣鐵道》〈歌謠調臺灣行腳〉, 昭和十三年（全三回）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 小野正雄, 赤尾寅吉"
 schema_type: "MusicComposition"
 is_part_of: "《臺灣鐵道》〈歌謠調臺灣行腳〉 西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12）"
@@ -20,6 +20,9 @@ audio:
   - id: "sokei_kouta"
     label: "鋼琴伴奏版"
     file: "sokei_kouta.mp3"
+  - id: "sokei_kouta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "sokei_kouta_neutrino.mp3"
 tmd_source:
   - "sokei_kouta.tmd"
   - "sokei_kouta_piano.tmd"
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="sokei_kouta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="sokei_kouta_neutrino.mp3"></audio>
 
 - 作詞：小野正雄
 - 作曲：赤尾寅吉

@@ -4,7 +4,7 @@ song_title: "タロコ探勝の歌"
 song_id: "kayocho_taiwan_angya_kayocho_taiwan_angya_07_taroko_tansho_no_uta"
 collection: "kayocho_taiwan_angya"
 volume: "kayocho_taiwan_angya"
-description: "〈タロコ探勝の歌〉收錄於日治時期臺灣《臺灣鐵道》〈歌謠調臺灣行腳〉（西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12））（作詞：岡本新市、作曲：岡本新市），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：出典：《臺灣鐵道》第 310 號（昭和 13 年 4 月），西川榮一〈歌謠調臺灣行腳〉，頁 56–58（n310_p56…"
+description: "〈タロコ探勝の歌〉收錄於日治時期臺灣《臺灣鐵道》〈歌謠調臺灣行腳〉（西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12））（作詞：岡本新市、作曲：岡本新市），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：出典：《臺灣鐵道》第 310 號（昭和 13 年 4 月），西川榮一〈歌謠調臺灣行腳〉，頁 56–58（n310_p56…"
 keywords: "タロコ探勝の歌, 臺灣鐵道》〈歌謠調臺灣行腳〉, 昭和十三年（全三回）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 岡本新市"
 schema_type: "MusicComposition"
 is_part_of: "《臺灣鐵道》〈歌謠調臺灣行腳〉 西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12）"
@@ -22,6 +22,9 @@ audio:
   - id: "taroko_tansho_no_uta"
     label: "鋼琴伴奏版"
     file: "taroko_tansho_no_uta.mp3"
+  - id: "taroko_tansho_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taroko_tansho_no_uta_neutrino.mp3"
 tmd_source:
   - "taroko_tansho_no_uta.tmd"
   - "taroko_tansho_no_uta_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="taroko_tansho_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taroko_tansho_no_uta_neutrino.mp3"></audio>
 
 - 作詞：岡本新市
 - 作曲：岡本新市

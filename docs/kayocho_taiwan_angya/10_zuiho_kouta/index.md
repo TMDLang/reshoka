@@ -4,7 +4,7 @@ song_title: "瑞芳小唄"
 song_id: "kayocho_taiwan_angya_kayocho_taiwan_angya_10_zuiho_kouta"
 collection: "kayocho_taiwan_angya"
 volume: "kayocho_taiwan_angya"
-description: "〈瑞芳小唄〉收錄於日治時期臺灣《臺灣鐵道》〈歌謠調臺灣行腳〉（西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12））（作詞：國家慶吉、作曲：S・O生），調號拍號：G 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：出處：《臺灣鐵道》第 311 號（昭和 13 年 5 月 7 日），pp. 63–64 專欄：西川榮一〈歌謠調臺灣行腳（…"
+description: "〈瑞芳小唄〉收錄於日治時期臺灣《臺灣鐵道》〈歌謠調臺灣行腳〉（西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12））（作詞：國家慶吉、作曲：S・O生），調號拍號：G 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：出處：《臺灣鐵道》第 311 號（昭和 13 年 5 月 7 日），pp. 63–64 專欄：西川榮一〈歌謠調臺灣行腳（…"
 keywords: "瑞芳小唄, 臺灣鐵道》〈歌謠調臺灣行腳〉, 昭和十三年（全三回）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 國家慶吉, S・O生"
 schema_type: "MusicComposition"
 is_part_of: "《臺灣鐵道》〈歌謠調臺灣行腳〉 西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12）"
@@ -21,6 +21,9 @@ audio:
   - id: "zuiho_kouta"
     label: "鋼琴伴奏版"
     file: "zuiho_kouta.mp3"
+  - id: "zuiho_kouta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "zuiho_kouta_neutrino.mp3"
 tmd_source:
   - "zuiho_kouta.tmd"
   - "zuiho_kouta_piano.tmd"
@@ -31,6 +34,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
 
 - **鋼琴伴奏版**：<br><audio controls src="zuiho_kouta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="zuiho_kouta_neutrino.mp3"></audio>
 
 - 作詞：國家慶吉
 - 作曲：S・O生
