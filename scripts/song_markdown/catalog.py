@@ -22,6 +22,7 @@ COLLECTIONS_ORDER: list[tuple[str, str]] = [
     ("banjin_no_ongaku", "蕃人ノ音樂（大正十一年至十四年／1922–1925）"),
     ("hyojun_shoka_gakushucho", "標準唱歌學習帖（昭和二年／1927）"),
     ("taiwan_no_uta", "臺灣の歌（昭和四年／1929）"),
+    ("taiwan_no_uta_1930", "臺灣の歌 審査員の作曲發表（《臺灣教育》昭和五年／1930）"),
     ("shintei_jido_shoka", "新定兒童唱歌（昭和五年／1930）"),
     ("kogakko_shoka", "公學校唱歌（昭和九年至昭和十七年／1934–1942）"),
     ("kyoyusho_shoka_1935", "教育所用唱歌教材集（昭和十年／1935）"),
@@ -37,6 +38,7 @@ COLLECTION_TITLES: dict[str, str] = {
     "shoka_kyozai_shu_1923": "《新編 小學校・公學校 唱歌教材集》",
     "taiwan_shuyu_shoka": "《臺灣周遊唱歌》",
     "taiwan_no_uta": "《臺灣の歌》",
+    "taiwan_no_uta_1930": "《臺灣教育》〈臺灣の歌 審査員の作曲發表〉",
     "kogakko_shoka": "《公學校唱歌》",
     "kyoyusho_shoka_1935": "《教育所用 唱歌教材集》",
     "kayocho_taiwan_angya": "《臺灣鐵道》〈歌謠調臺灣行腳〉",
@@ -63,6 +65,7 @@ VOLUME_TITLES: dict[str, str] = {
     "koto_1_2": "高等科 第一、二學年（國臺圖 0725-41，pp. 336–423）",
     "taiwan_shuyu_shoka": "明治四十三年初版／大正元年八版（國臺圖 0786 10）",
     "taiwan_no_uta": "臺灣教育會御大典記念事業・昭和四年版（國臺圖 0786 8）",
+    "taiwan_no_uta_1930": "《臺灣教育》第337號・昭和五年版（國臺圖 0705-6）",
     "kyoyusho_shoka_1935": "昭和十年版・蕃地教育所用（國臺圖 0725 148）",
     "kayocho_taiwan_angya": "西川榮一編・《臺灣鐵道》第309–311號（昭和13年／1938，國臺圖 0705-12）",
     "taihoku_koko_kashu_1940": "臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53）",
@@ -114,6 +117,7 @@ VOLUME_NAV_TITLES: dict[str, str] = {
     "koto_1_2": "高等科 第一、二學年",
     "taiwan_shuyu_shoka": "明治四十三年／大正元年（全一冊）",
     "taiwan_no_uta": "昭和四年（全一冊）",
+    "taiwan_no_uta_1930": "昭和五年（第337號）",
     "kyoyusho_shoka_1935": "昭和十年（全一冊）",
     "kayocho_taiwan_angya": "昭和十三年（全三回）",
     "taihoku_koko_kashu_1940": "昭和十五年（全一冊）",
@@ -850,6 +854,10 @@ BOOK_INFO_SEO_TEMPLATES: dict[str, str] = {
         "（國臺圖系統編號 jpli2011-bk-sxt_0786_8_1929，索書號 0786 8）之扉頁、"
         "河原田稼吉序文、石黑英彥審査報告、唱歌與民謠目次及版權頁原書掃描圖檔（共 {img_count} 頁）。"
     ),
+    "taiwan_no_uta_1930": (
+        "日治時期昭和五年（1930 年）臺灣教育會發行《臺灣教育》第 337 號〈臺灣の歌審査員の作曲發表〉"
+        "（國臺圖索書號 0705-6）卷頭發表文與一條愼三郎附記掃描圖檔（共 {img_count} 頁）。"
+    ),
     "kyoyusho_shoka_1935": (
         "日治時期昭和十年（1935 年）臺灣總督府警務局編纂《教育所用 唱歌教材集（全）》"
         "（國臺圖系統編號 jpli2009-bk-sxt_0725_148_1935，索書號 0725 148）之封面、"
@@ -903,6 +911,9 @@ VOLUME_BLOCKQUOTES: dict[tuple[str, str], str] = {
     ("kogakko_shokashu_1915", "kogakko_shokashu_1915"): KOGAKKO_SHOKASHU_1915_NOTE,
     ("taiwan_shuyu_shoka", "taiwan_shuyu_shoka"): TAIWAN_SHUYU_SHOKA_NOTE,
     ("taiwan_no_uta", "taiwan_no_uta"): TAIWAN_NO_UTA_NOTE,
+    ("taiwan_no_uta_1930", "taiwan_no_uta_1930"): (
+        "國立臺灣圖書館典藏期刊**《臺灣教育》第 337 號**（昭和 5 年／1930 年，索書號 **`0705-6`**，pp. 79–83）〈**臺灣の歌審査員の作曲發表**〉。昭和 4 年（1929 年）臺灣教育會公募《臺灣の歌》時，審査員自身亦提出 18 首作曲交由東京音樂學校諸大家評審，隔年擇優發表其中 3 篇：赤尾寅吉作曲之〈蕃山の唄〉與〈蓬萊小唄〉，以及一條愼三郎改編自花蓮港紅座社阿美族歌謠之〈南の島〉（卷首附一條愼三郎親撰「附記」）。"
+    ),
     ("banjin_no_ongaku", "vol_01_suisha"): BANJIN_NO_ONGAKU_VOL_01_NOTE,
     ("banjin_no_ongaku", "vol_02_ami"): BANJIN_NO_ONGAKU_VOL_02_NOTE,
     ("banjin_no_ongaku", "vol_03_paiwan_bunun_tayal"): BANJIN_NO_ONGAKU_VOL_03_NOTE,
@@ -1064,6 +1075,7 @@ FLAT_TABLE_FIRST_COL: dict[str, str] = {
     "shokacho": "原書頁碼",
     "hyojun_shoka_gakushucho": "課次",
     "taihoku_koko_kashu_1940": "曲次",
+    "taiwan_no_uta_1930": "曲次",
 }
 
 # ---------------------------------------------------------------------------
@@ -1149,6 +1161,9 @@ FLAT_NUMBER_FORMATTERS: dict[str, Callable[[str, list[str]], str]] = {
         f"第 {int(parts[0])} 課" if parts[0].isdigit() else parts[0]
     ),
     "taihoku_koko_kashu_1940": lambda _, parts: (
+        f"第 {int(parts[0])} 曲" if parts[0].isdigit() else parts[0]
+    ),
+    "taiwan_no_uta_1930": lambda _, parts: (
         f"第 {int(parts[0])} 曲" if parts[0].isdigit() else parts[0]
     ),
 }

@@ -1117,7 +1117,6 @@ nav:
           - "15 一月一日": hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md
           - "16 紀元節": hyojun_shoka_gakushucho/grade_6/16_kigensetsu/index.md
   - 臺灣の歌（昭和四年／1929）:
-      - 史料考證：〈臺灣の歌審査員の作曲發表〉（1930年）: taiwan_no_uta/shinsain_sakkyoku_1930/index.md
       - 總覽: taiwan_no_uta/index.md
       - 書訊與掃描頁: taiwan_no_uta/0_book_info/index.md
       - "1 臺灣の歌": taiwan_no_uta/1_taiwan_no_uta/index.md
@@ -1132,6 +1131,12 @@ nav:
       - "10 島の唄": taiwan_no_uta/10_shima_no_uta/index.md
       - "11 蓬萊小唄": taiwan_no_uta/11_horai_kouta/index.md
       - "12 蕃山の唄": taiwan_no_uta/12_banzan_no_uta/index.md
+  - 臺灣の歌 審査員の作曲發表（《臺灣教育》昭和五年／1930）:
+      - 總覽: taiwan_no_uta_1930/index.md
+      - 書訊與掃描頁: taiwan_no_uta_1930/0_book_info/index.md
+      - "01 蕃山の唄": taiwan_no_uta_1930/01_banzan_no_uta/index.md
+      - "02 南の島": taiwan_no_uta_1930/02_minami_no_shima/index.md
+      - "03 蓬萊小唄": taiwan_no_uta_1930/03_horai_kouta/index.md
   - 新定兒童唱歌（昭和五年／1930）:
       - 專題統計: shintei_jido_shoka/index.md
       - 《新定兒童唱歌》與大正新童謠: shintei_jido_shoka/taisho_doyo.md

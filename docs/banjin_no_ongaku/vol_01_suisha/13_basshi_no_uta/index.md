@@ -4,7 +4,7 @@ song_title: "拔齒ノ歌"
 song_id: "banjin_no_ongaku_vol_01_suisha_13_basshi_no_uta"
 collection: "banjin_no_ongaku"
 volume: "vol_01_suisha"
-description: "〈拔齒ノ歌〉收錄於日治時期臺灣《蕃人ノ音樂》（第一集・水社化蕃杵の音と歌謠（大正11年／1922，張福興採譜，國臺圖 0786 1）），調號拍號：C 4/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞段落與添字對照： 第一段：…"
+description: "〈拔齒ノ歌〉收錄於日治時期臺灣《蕃人ノ音樂》（第一集・水社化蕃杵の音と歌謠（大正11年／1922，張福興採譜，國臺圖 0786 1）），調號拍號：C 4/4。提供原曲伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：歌詞段落與添字對照： 第一段：…"
 keywords: "拔齒ノ歌, 蕃人ノ音樂, 第一集：水社化蕃杵の音と歌謠（張福興採譜）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《蕃人ノ音樂》 第一集・水社化蕃杵の音と歌謠（大正11年／1922，張福興採譜，國臺圖 0786 1）"
@@ -21,6 +21,9 @@ audio:
   - id: "basshi_no_uta"
     label: "原曲伴奏版"
     file: "basshi_no_uta.mp3"
+  - id: "basshi_no_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "basshi_no_uta_neutrino.mp3"
 tmd_source:
   - "basshi_no_uta.tmd"
 ---
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **原曲伴奏版**：<br><audio controls src="basshi_no_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="basshi_no_uta_neutrino.mp3"></audio>
 
 - 出處：臺灣教育會《蕃人ノ音樂 第一集・水社化蕃ノ歌》（大正十一年／1922年12月）第十三曲（第13頁）
 - 採譜：臺北師範學校教諭 張福興 實地採譜

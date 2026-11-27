@@ -4,7 +4,7 @@ song_title: "第六回寮祭歌"
 song_id: "taihoku_koko_kashu_1940_taihoku_koko_kashu_1940_07_dai_6_kai_ryosaika"
 collection: "taihoku_koko_kashu_1940"
 volume: "taihoku_koko_kashu_1940"
-description: "〈第六回寮祭歌〉收錄於日治時期臺灣《臺北高等學校 歌曲集》（臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53））（作曲：大西安世），調號拍號：B, 4/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：〔前段／副歌〕 七星が嶺に霧ははれ…"
+description: "〈第六回寮祭歌〉收錄於日治時期臺灣《臺北高等學校 歌曲集》（臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53））（作曲：大西安世），調號拍號：B, 4/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：〔前段／副歌〕 七星が嶺に霧ははれ…"
 keywords: "第六回寮祭歌, 臺北高等學校 歌曲集, 昭和十五年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 大西安世"
 schema_type: "MusicComposition"
 is_part_of: "《臺北高等學校 歌曲集》 臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53）"
@@ -22,6 +22,9 @@ audio:
   - id: "dai_6_kai_ryosaika"
     label: "鋼琴伴奏版"
     file: "dai_6_kai_ryosaika.mp3"
+  - id: "dai_6_kai_ryosaika_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "dai_6_kai_ryosaika_neutrino.mp3"
 tmd_source:
   - "dai_6_kai_ryosaika.tmd"
   - "dai_6_kai_ryosaika_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **鋼琴伴奏版**：<br><audio controls src="dai_6_kai_ryosaika.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="dai_6_kai_ryosaika_neutrino.mp3"></audio>
 
 - 作曲：大西安世
 - 作歌：小山捨月

@@ -4,7 +4,7 @@ song_title: "觀月舟行之賦"
 song_id: "taihoku_koko_kashu_1940_taihoku_koko_kashu_1940_15_kangetsu_shuko_no_fu"
 collection: "taihoku_koko_kashu_1940"
 volume: "taihoku_koko_kashu_1940"
-description: "〈觀月舟行之賦〉收錄於日治時期臺灣《臺北高等學校 歌曲集》（臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53））（作曲：村橋靖彥 氏），調號拍號：E, 3/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：心の美酒酌まむかな　蕉葉かざす若人よ かはたれどきを月招く　新店溪下に舟出せむ…"
+description: "〈觀月舟行之賦〉收錄於日治時期臺灣《臺北高等學校 歌曲集》（臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53））（作曲：村橋靖彥 氏），調號拍號：E, 3/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：心の美酒酌まむかな　蕉葉かざす若人よ かはたれどきを月招く　新店溪下に舟出せむ…"
 keywords: "觀月舟行之賦, 臺北高等學校 歌曲集, 昭和十五年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 村橋靖彥 氏"
 schema_type: "MusicComposition"
 is_part_of: "《臺北高等學校 歌曲集》 臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53）"
@@ -22,6 +22,9 @@ audio:
   - id: "kangetsu_shuko_no_fu"
     label: "鋼琴伴奏版"
     file: "kangetsu_shuko_no_fu.mp3"
+  - id: "kangetsu_shuko_no_fu_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "kangetsu_shuko_no_fu_neutrino.mp3"
 tmd_source:
   - "kangetsu_shuko_no_fu.tmd"
   - "kangetsu_shuko_no_fu_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **鋼琴伴奏版**：<br><audio controls src="kangetsu_shuko_no_fu.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="kangetsu_shuko_no_fu_neutrino.mp3"></audio>
 
 - 作曲：村橋靖彥 氏
 - 作歌：小山捨月 氏

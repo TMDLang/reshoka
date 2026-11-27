@@ -4,7 +4,7 @@ M:4/8
 L:1/16
 Q:1/8=224
 K:Ab
-V:V1 name="Piano" snm="Pia"
+V:V1 name="Marimba" snm="Mar"
 [V:V1]
 z2 z2 z2 A,2 | F,2 A,2 F,2 A,2 | F,2 B,2 A,2 C2 | F,2 B,2 A,2 z2 ||
 [M:7/8] F,2 [B,E]2 [A,C]2 [CF]2 [F,F]2 [B,E]2 [A,CF]2 || |:[F,F]2 [B,E]2 [A,C]2 [CF]2 [F,F]2 [B,E]2 [A,CF]2 | [F,F]2 [B,E]2 [A,C]2 [CF]2 [F,F]2 [B,E]2 [A,CF]2 | [F,F]2 [B,E]2 [A,C]2 [CF]2 [F,F]2 [B,E]2 [A,CF]2 :|

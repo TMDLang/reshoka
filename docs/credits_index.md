@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1727 首歌曲、整理 1440 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1730 首歌曲、整理 1443 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -1302,6 +1302,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [新高山](hyojun_shoka_gakushucho/grade_6/10_niitakayama/index.md)
 
+### 一條愼三郎（花蓮港紅座社蕃謠改編）（1 首）
+
+- [南の島](taiwan_no_uta_1930/02_minami_no_shima/index.md)
+
 ### 一條慎三郎（1 首）
 
 - [南の風](kyoyusho_shoka_1935/5_16_minami_no_kaze/index.md)
@@ -1549,9 +1553,11 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [劍道部々歌](taihoku_koko_kashu_1940/17_kendo_buka/index.md)
 
-### 赤尾寅吉（1 首）
+### 赤尾寅吉（3 首）
 
 - [双溪小唄](kayocho_taiwan_angya/09_sokei_kouta/index.md)
+- [蓬萊小唄](taiwan_no_uta_1930/03_horai_kouta/index.md)
+- [蕃山の唄](taiwan_no_uta_1930/01_banzan_no_uta/index.md)
 
 ### 赤尾寅吉 氏（4 首）
 

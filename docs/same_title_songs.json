@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1726,
-  "same_title_group_count": 148,
+  "total_corpus_songs": 1729,
+  "same_title_group_count": 151,
   "groups": [
     {
       "title_key": "いかだかずら",
@@ -1653,6 +1653,38 @@
               "book_label": "《小學唱歌》巻六（明治26年／1893）",
               "raw_title": "卒業式の歌",
               "year": 1892
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "みなみのしま",
+      "title": "南の島",
+      "versions": [
+        {
+          "id": "single:taiwan_no_uta/7_minami_no_shima",
+          "year": 1929,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_no_uta/7_minami_no_shima",
+              "md_file": "taiwan_no_uta/7_minami_no_shima/index.md",
+              "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
+              "raw_title": "南の島",
+              "year": 1929
+            }
+          ]
+        },
+        {
+          "id": "single:taiwan_no_uta_1930/02_minami_no_shima",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_no_uta_1930/02_minami_no_shima",
+              "md_file": "taiwan_no_uta_1930/02_minami_no_shima/index.md",
+              "book_label": "《臺灣教育》〈臺灣の歌 審査員の作曲發表〉",
+              "raw_title": "南の島",
+              "year": 9999
             }
           ]
         }
@@ -5416,6 +5448,70 @@
               "book_label": "《教育所用唱歌教材集》（昭和10年／1935，國臺圖 0725 148）",
               "raw_title": "ちくおんき",
               "year": 1935
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "ほうらいこうた",
+      "title": "蓬萊小唄",
+      "versions": [
+        {
+          "id": "single:taiwan_no_uta/11_horai_kouta",
+          "year": 1929,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_no_uta/11_horai_kouta",
+              "md_file": "taiwan_no_uta/11_horai_kouta/index.md",
+              "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
+              "raw_title": "蓬萊小唄",
+              "year": 1929
+            }
+          ]
+        },
+        {
+          "id": "single:taiwan_no_uta_1930/03_horai_kouta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_no_uta_1930/03_horai_kouta",
+              "md_file": "taiwan_no_uta_1930/03_horai_kouta/index.md",
+              "book_label": "《臺灣教育》〈臺灣の歌 審査員の作曲發表〉",
+              "raw_title": "蓬萊小唄",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "ばんざんのうた",
+      "title": "蕃山の唄",
+      "versions": [
+        {
+          "id": "single:taiwan_no_uta/12_banzan_no_uta",
+          "year": 1929,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_no_uta/12_banzan_no_uta",
+              "md_file": "taiwan_no_uta/12_banzan_no_uta/index.md",
+              "book_label": "《臺灣の歌》（昭和4年／1929，國臺圖 0786 8）",
+              "raw_title": "蕃山の唄",
+              "year": 1929
+            }
+          ]
+        },
+        {
+          "id": "single:taiwan_no_uta_1930/01_banzan_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_no_uta_1930/01_banzan_no_uta",
+              "md_file": "taiwan_no_uta_1930/01_banzan_no_uta/index.md",
+              "book_label": "《臺灣教育》〈臺灣の歌 審査員の作曲發表〉",
+              "raw_title": "蕃山の唄",
+              "year": 9999
             }
           ]
         }

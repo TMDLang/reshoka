@@ -74,6 +74,7 @@ description: Re:shōka 收錄的日治時期臺灣與日本唱歌教材、手抄
 | 《共益商社唱歌教科書》 | [卷四（教師用）](kyoeki_shoka/kan_4_854865/index.md) | 共益商社樂器店編（1902） | NDL `854865` | 19 首 | [書訊與原書掃描頁](kyoeki_shoka/kan_4_854865/0_book_info/index.md) |
 | 《新編 小學校・公學校 唱歌教材集》 | [全四卷合訂／分冊（大正十二年版）](shoka_kyozai_shu_1923/index.md) | 一條慎三郎編、臺北杉田書店發行（1923） | 國臺圖 `0725-41` | 201 首 | [書訊與各卷總覽](shoka_kyozai_shu_1923/index.md) |
 | 《臺灣の歌》 | [全一冊（御大典記念事業・昭和四年版）](taiwan_no_uta/index.md) | 臺灣教育會編（1929） | 國臺圖 `0786 8` | 12 首 | [書訊與各曲試聽](taiwan_no_uta/index.md) |
+| 《臺灣教育》〈臺灣の歌 審査員の作曲發表〉 | [第 337 號（昭和五年版）](taiwan_no_uta_1930/index.md) | 赤尾寅吉、一條愼三郎作曲（1930） | 國臺圖 `0705-6` | 3 首 | [書訊與各曲試聽](taiwan_no_uta_1930/index.md) |
 | 《臺灣鐵道》〈歌謠調臺灣行腳〉 | [全三回（昭和十三年 3–5 月號）](kayocho_taiwan_angya/index.md) | 西川榮一編、臺灣鐵道會發行（1938） | 國臺圖 `0705-12` | 10 首（附簡譜）＋4 首無譜 | [期刊考錄與掃描頁](kayocho_taiwan_angya/journal_notes.md) |
 | 《臺北高等學校 歌曲集》 | [全一冊（昭和十五年版）](taihoku_koko_kashu_1940/index.md) | 臺北高等學校七星寮編纂發行（1940） | 國臺圖 `0726-53` | 27 首（附簡譜）＋2 筆無譜／總頁 | [各曲總覽與試聽](taihoku_koko_kashu_1940/index.md) |
 

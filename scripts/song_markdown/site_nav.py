@@ -472,6 +472,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             "kogakko_shokashu_1915",
             "taiwan_shuyu_shoka",
             "taiwan_no_uta",
+            "taiwan_no_uta_1930",
             "kyoyusho_shoka_1935",
             "kayocho_taiwan_angya",
             "taihoku_koko_kashu_1940",

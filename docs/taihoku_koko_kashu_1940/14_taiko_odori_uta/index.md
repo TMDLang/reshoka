@@ -4,7 +4,7 @@ song_title: "臺高踊歌"
 song_id: "taihoku_koko_kashu_1940_taihoku_koko_kashu_1940_14_taiko_odori_uta"
 collection: "taihoku_koko_kashu_1940"
 volume: "taihoku_koko_kashu_1940"
-description: "〈臺高踊歌〉收錄於日治時期臺灣《臺北高等學校 歌曲集》（臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53））（作曲：村橋靖彥），調號拍號：C 2/4。提供鋼琴伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：對の大屯　わしらが館よ　文の曉天　はや、ひはたかい やしの、はかぜに　あるふあー、繰ればよ　ころゝ、ころゝと、あら、玉の…"
+description: "〈臺高踊歌〉收錄於日治時期臺灣《臺北高等學校 歌曲集》（臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53））（作曲：村橋靖彥），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：對の大屯　わしらが館よ　文の曉天　はや、ひはたかい やしの、はかぜに　あるふあー、繰ればよ　ころゝ、ころゝと、あら、玉の…"
 keywords: "臺高踊歌, 臺北高等學校 歌曲集, 昭和十五年（全一冊）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 村橋靖彥"
 schema_type: "MusicComposition"
 is_part_of: "《臺北高等學校 歌曲集》 臺北高等學校七星寮編纂發行・昭和十五年版（國臺圖 0726-53）"
@@ -22,6 +22,9 @@ audio:
   - id: "taiko_odori_uta"
     label: "鋼琴伴奏版"
     file: "taiko_odori_uta.mp3"
+  - id: "taiko_odori_uta_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "taiko_odori_uta_neutrino.mp3"
 tmd_source:
   - "taiko_odori_uta.tmd"
   - "taiko_odori_uta_piano.tmd"
@@ -32,6 +35,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **鋼琴伴奏版**：<br><audio controls src="taiko_odori_uta.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="taiko_odori_uta_neutrino.mp3"></audio>
 
 - 作曲：村橋靖彥
 - 作歌：小山捨月

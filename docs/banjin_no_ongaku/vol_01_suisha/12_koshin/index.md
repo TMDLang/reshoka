@@ -4,7 +4,7 @@ song_title: "酬神"
 song_id: "banjin_no_ongaku_vol_01_suisha_12_koshin"
 collection: "banjin_no_ongaku"
 volume: "vol_01_suisha"
-description: "〈酬神〉收錄於日治時期臺灣《蕃人ノ音樂》（第一集・水社化蕃杵の音と歌謠（大正11年／1922，張福興採譜，國臺圖 0786 1）），調號拍號：B, 3/4。提供原曲伴奏版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：小節歌詞與添字對照： m.1 (3/4): ロ(ン) コ(ウ) ヘ(イ) エ…"
+description: "〈酬神〉收錄於日治時期臺灣《蕃人ノ音樂》（第一集・水社化蕃杵の音と歌謠（大正11年／1922，張福興採譜，國臺圖 0786 1）），調號拍號：B, 3/4。提供原曲伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：小節歌詞與添字對照： m.1 (3/4): ロ(ン) コ(ウ) ヘ(イ) エ…"
 keywords: "酬神, 蕃人ノ音樂, 第一集：水社化蕃杵の音と歌謠（張福興採譜）, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD"
 schema_type: "MusicComposition"
 is_part_of: "《蕃人ノ音樂》 第一集・水社化蕃杵の音と歌謠（大正11年／1922，張福興採譜，國臺圖 0786 1）"
@@ -21,6 +21,9 @@ audio:
   - id: "koshin"
     label: "原曲伴奏版"
     file: "koshin.mp3"
+  - id: "koshin_neutrino"
+    label: "NEUTRINO 歌聲合成版"
+    file: "koshin_neutrino.mp3"
 tmd_source:
   - "koshin.tmd"
 ---
@@ -30,6 +33,7 @@ tmd_source:
 > Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **原曲伴奏版**：<br><audio controls src="koshin.mp3"></audio>
+- **NEUTRINO 歌聲合成版**：<br><audio controls src="koshin_neutrino.mp3"></audio>
 
 - 出處：臺灣教育會《蕃人ノ音樂 第一集・水社化蕃ノ歌》（大正十一年／1922年12月）第十二曲（第12頁）
 - 採譜：臺北師範學校教諭 張福興 實地採譜
@@ -62,7 +66,7 @@ m.2 (3/4): ア(ッ) コ(ウ) サ(ッ) ヘ ホ（帶延長記號與反覆記號�
 
 ## TMD 檔案連結
 
-- [主旋律 TMD 檔案](koshin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7NKSszLysyLz8uPz89LT8wuVYIrKsvPKc1NtQJS8QaG8cWlmcUZiQjZ4vzSouRUq-LkjHyggpLUipKk_PxsdPn4gsT0VKsAA0MjhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKki6ODkxL74stSgzLTM1BclhqUXFIKdDrSgpSswrTi7KLAD5B6EqPTWvKNUqMy8lE8jKLy2OLwZ6ECGdX5SZnplnBdSckgnSmJgTn5pYXBKfWJyZiGQKTFliZjnQLflpaZnJmYk5CPmSjFRgGBWl5gCVAS3BkMgsKUVWnl9UkpGfXpRYkFFplZ1YkpidmAcMUy0thZeta54vnaegpcWlaKtgYcBlb6vgpMNlY6xvYgfS_LR914uZU9_vmfWifdfzxsXPps580bTp2Zzmxw1dL6Y2P9m163Fz38v5m5-taFJ4vmbNkx0NL2e3PW7e_WzDludL9j3tmQZUBFTxbG3P44bu93s6ni5Z_mzt4qe9jUCVT3dueb-n39DSyAjIMjR6Nqfj_Z5OoCEg2V09z2ZvAqoHcg2NXi5oBMqA_fKsb-GLtXMgznnaM_3pjtXP17c8Xbvj2YKFIKetXqvwdM_W58v6X3R0KDxdv-zpnA0QHWDNT-d0P1_dDfHI0znTns3e8XLJiqetO15M738xc75CVkFOppGBgbluUrZucUVJvIG5hVm8YTzIgSCXbFkE1ABSBxJXMAS66Flf87P-fgVQItMrAEUxl76Wgi21AJeCgsLTvvkgSze3v1jR9aKjHRgmz2eve7Fq1bMZfaDAnAPyDNAnUCcB4wRruKOGaQ-as4EeAYYnyLZnK2a-XNgD5EDSBFiouxfoZaAQMD2AOCCxF6v2Q8RerOt63LwWyAW6xSlJARi3YHaPkcLLmb1AY0GKXzbMf7prGUhxX9fL9t7nS9cCTYYJAgO1BZjmFJwCfKHKgQ5-sXLes2ntT9dOB2oC-h8YeU_27n8-ZcXzzvanje1PJ_QCnflixe6XTVufTe8Hoher5j2fuQeYBoE2P9mx7OXMlmc96yEqn27oB5rzbPtuIAkyHWjji-WLX6xaA4q8tYuBKe5xc_ezPVOedWx63AxEXY-bdgJFnrYCxRseNzcCnQoUB7r5cfPql7Nmg0Kzeerj5kXAkAUqe9y0_XFz27MZ6x83rwEqA8vOeNw8AaSrofX5rDZwVgCasPpxc8eTXRNBehuaHjdthkZMc__T1tVAN7xcAIyq7pczJzxuXgURB2vZC7MIGMiruMCpYUP_8_UNkCACpQawv55u6H3euhwag7l6hgoawKjStFIAxozG4-bNmgpACzUeNy0DMppnABlLQCIrIIqN4IqbFgEVNyMrbtoKFWmeAcSzQcltx7anu7e9nLr9xYoZwAQAdMHT_t4Xy9ogXGgEUp7uoUBBS5-LyzcRWAQGAMvFfIcag5pqkAUKNhZadmAGLLNBC54XoKTbgZSqobJAc6Cq4aEDE6tRMFQwAmJdBbN4IFEDFvSpAYUdKCTAftcFBRdYEtPSXT3EWAoJZVDGm7MamEzxByOS24zBbgO6DM1xTYsgjmvaCoscsHQtF5eunQIoxBQQtDIXAA)]
+- [主旋律 TMD 檔案](koshin.tmd) [[在 TMD Studio 編輯](https://tmdlang.github.io/Tmd-TS/#tmd=s7IKdvYPcrWy4qpTUCpJTLdSSM7PyUlNLsnMz7NKSszLysyLz8uPz89LT8wuVYIrKsvPKc1NtQJS8QaG8cWlmcUZiQjZ4vzSouRUq-LkjHyggpLUipKk_PxsdPn4gsT0VKsAA0MjhExBUX5Zal5iHlB3QVFmXklqClg7QkFqWWZKKki6ODkxL74stSgzLTM1BclhqUXFIKdDrSgpSswrTi7KLAD5B6EqPTWvKNUqMy8lE8jKLy2OLwZ6ECGdX5SZnplnBdSckgnSmJgTn5pYXBKfWJyZiGQKTFliZjnQLflpaZnJmYk5CPmSjFRgGBWl5gCVAS3BkMgsKUVWnl9UkpGfXpRYkFFplZ1YkpidmAcMUy0thZeta54vnaegpcWlaKtgYcBlb6vgpMNlY6xvYgfS_LR914uZU9_vmfWifdfzxsXPps580bTp2Zzmxw1dL6Y2P9m163Fz38v5m5-taFJ4vmbNkx0NL2e3PW7e_WzDludL9j3tmQZUBFTxbG3P44bu93s6ni5Z_mzt4qe9jUCVT3dueb-n39DSyAjIMjR6Nqfj_Z5OoCEg2V09z2ZvAqoHcg2NXi5oBMqA_fKsb-GLtXMgznnaM_3pjtXP17c8Xbvj2YKFIKetXqvwdM_W58v6X3R0KDxdv-zpnA0QHWDNT-d0P1_dDfHI0znTns3e8XLJiqetO15M738xc75CVkFOppGBgbluUrZucUVJvIG5hVm8YTzIgSCXbFkE1ABSBxJXMAS66Flf87P-fgVQItMrAEUxl76Wgi21AJeCgsLTvvkgSze3v1jR9aKjHRgmz2eve7Fq1bMZfaDAnAPyDNAnUCcB4wRruKOGaQ-as4EeAYYnyLZnK2a-XNgD5EDSBFiouxfoZaAQMD2AOCCxF6v2Q8RerOt63LwWyAW6xSlJARi3YHaPkcLLmb1AY0GKXzbMf7prGUhxX9fL9t7nS9cCTYYJAgO1BZjmFJwCfKHKgQ5-sXLes2ntT9dOB2oC-h8YeU_27n8-ZcXzzvanje1PJ_QCnflixe6XTVufTe8Hoher5j2fuQeYBoE2P9mx7OXMlmc96yEqn27oB5rzbPtuIAkyHWjji-WLX6xaA4q8tYuBKe5xc_ezPVOedWx63AxEXY-bdgJFnrYCxRseNzcCnQoUB7r5cfPql7Nmg0Kzeerj5kXAkAUqe9y0_XFz27MZ6x83rwEqA8vOeNw8AaSrofX5rDZwVgCasPpxc8eTXRNBehuaHjdthkZMc__T1tVAN7xcAIyq7pczJzxuXgURB2vZC7MIGMiruMCpYUP_8_UNkCACpQawv55u6H3euhwag7l6hgoawKjStFIAxozG4-bNmgpACzUeNy0DMppnABlLQCIrIIqN4IqbFgEVNyMrbtoKFWmeAcSzQcltx7anu7e9nLr9xYoZwAQAdMHT_t4Xy9ogXGgEUp7uoUBBS5-LyzcRWAQGAMvFfIcag5pqkAUKNhZadmAGLLNBC54XoKTbgZSqobJAc6Cq4aEDE6tRMFQwAmJdBbN4IFEDFvSpAYUdMOhAgQEMC1AIAIMNKA8MN7AqTNt39RBjOyS4QTlwzmpgesUfnkiONAY7EuhENFc2AdNHM9yVTVvBPEh0gdXVcnHp2imAwlABQStzAQA)]
 
 ## 分析
 
