@@ -23,7 +23,7 @@ from .volume_page import generate_volume_index
 
 MKDOCS_CONFIG_HEADER: list[str] = [
     "site_name: Re:shoka — 日治時期唱歌教材數位重建計畫",
-    "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 58 冊、1,729 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
+    "site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 59 冊、1,741 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。",
     "site_author: TMD Contributors",
     "site_url: https://tmdlang.github.io/reshoka/",
     "copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)",
@@ -403,7 +403,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
         "    <strong>隨機聽見一段歷史</strong>",
         '    <button type="button" data-lucky-song-button>讓命運選一首</button>',
         "  </div>",
-        "  <p data-lucky-song-result>從 1,631 首歷史曲目中隨機探索。</p>",
+        "  <p data-lucky-song-result>從 1,643 首歷史曲目中隨機探索。</p>",
         "</div>",
         "",
     ]
@@ -474,6 +474,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             "taiwan_no_uta",
             "taiwan_no_uta_1930",
             "kyoyusho_shoka_1935",
+            "taiwan_banzoku_no_uta_1935",
             "kayocho_taiwan_angya",
             "taihoku_koko_kashu_1940",
         ):

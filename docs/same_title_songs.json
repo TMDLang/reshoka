@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1729,
-  "same_title_group_count": 151,
+  "total_corpus_songs": 1741,
+  "same_title_group_count": 152,
   "groups": [
     {
       "title_key": "いかだかずら",
@@ -1141,6 +1141,51 @@
               "book_label": "《公學校唱歌》第二學年用（昭和11年／1936）",
               "raw_title": "ミヅグルマ（水車）",
               "year": 1936
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "やはえな",
+      "title": "ヤハエナ I／ヤハエナ II／ヤハエナ III",
+      "versions": [
+        {
+          "id": "single:taiwan_banzoku_no_uta_1935/05_yahaena_1",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_banzoku_no_uta_1935/05_yahaena_1",
+              "md_file": "taiwan_banzoku_no_uta_1935/05_yahaena_1/index.md",
+              "book_label": "《台灣蕃族の歌》",
+              "raw_title": "ヤハエナ I",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:taiwan_banzoku_no_uta_1935/06_yahaena_2",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_banzoku_no_uta_1935/06_yahaena_2",
+              "md_file": "taiwan_banzoku_no_uta_1935/06_yahaena_2/index.md",
+              "book_label": "《台灣蕃族の歌》",
+              "raw_title": "ヤハエナ II",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:taiwan_banzoku_no_uta_1935/09_yahaena_3",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taiwan_banzoku_no_uta_1935/09_yahaena_3",
+              "md_file": "taiwan_banzoku_no_uta_1935/09_yahaena_3/index.md",
+              "book_label": "《台灣蕃族の歌》",
+              "raw_title": "ヤハエナ III",
+              "year": 9999
             }
           ]
         }

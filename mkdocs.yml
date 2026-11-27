@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期唱歌教材數位重建計畫
-site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 58 冊、1,729 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 59 冊、1,741 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -2008,6 +2008,21 @@ nav:
           - "8-05 國語を習ひませう": kyoyusho_shoka_1935/8_05_kokugo_o_naraimasho/index.md
           - "8-06 清く明るき": kyoyusho_shoka_1935/8_06_kiyoku_akaruki/index.md
           - "8-07 國語夜學會の歌": kyoyusho_shoka_1935/8_07_kokugo_yagakukai_no_uta/index.md
+  - 台灣蕃族の歌（竹中重雄著／昭和十年／1935）:
+      - 總覽: taiwan_banzoku_no_uta_1935/index.md
+      - 書訊與掃描頁: taiwan_banzoku_no_uta_1935/0_book_info/index.md
+      - "01 パタラン": taiwan_banzoku_no_uta_1935/01_pataran/index.md
+      - "02 サキヨ": taiwan_banzoku_no_uta_1935/02_sakiyo/index.md
+      - "03 ミトグツ": taiwan_banzoku_no_uta_1935/03_mitogutsu/index.md
+      - "04 タサエ": taiwan_banzoku_no_uta_1935/04_tasae/index.md
+      - "05 ヤハエナ I": taiwan_banzoku_no_uta_1935/05_yahaena_1/index.md
+      - "06 ヤハエナ II": taiwan_banzoku_no_uta_1935/06_yahaena_2/index.md
+      - "07 パス フム チョイ": taiwan_banzoku_no_uta_1935/07_pasufumuchoi/index.md
+      - "08 ペアソビ": taiwan_banzoku_no_uta_1935/08_peasobi/index.md
+      - "09 ヤハエナ III": taiwan_banzoku_no_uta_1935/09_yahaena_3/index.md
+      - "10 タマコ": taiwan_banzoku_no_uta_1935/10_tamako/index.md
+      - "11 トイソ": taiwan_banzoku_no_uta_1935/11_toiso/index.md
+      - "12 イヨオイヨオヘ": taiwan_banzoku_no_uta_1935/12_iyooiyoohe/index.md
   - 歌謠調臺灣行腳（《臺灣鐵道》昭和十三年／1938）:
       - 期刊考錄與四首無譜歌詞: kayocho_taiwan_angya/journal_notes.md
       - 總覽: kayocho_taiwan_angya/index.md
