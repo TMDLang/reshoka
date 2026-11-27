@@ -24,7 +24,7 @@ tmd_source:
 
 # 波と磯の石 (波浪與岸邊的石頭)
 
-> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **鋼琴伴奏版**：<br><audio controls src="nami_to_iso_no_ishi.mp3"></audio>
 

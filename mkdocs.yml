@@ -949,8 +949,24 @@ nav:
           - "P220 琵琶湖": shokacho/vol_10/p220_biwako/index.md
           - "P221 螢狩（捕螢）": shokacho/vol_10/p221_hotarugari/index.md
   - 蕃人ノ音樂（大正十一年至十四年／1922–1925）:
-      - 第一集：水社化蕃ノ歌（張福興採譜，現況說明）:
+      - 第一集：水社化蕃杵の音と歌謠（張福興採譜）:
           - 總覽: banjin_no_ongaku/vol_01_suisha/index.md
+          - 書訊與掃描頁: banjin_no_ongaku/vol_01_suisha/0_book_info/index.md
+          - "01 落成式祝宴ノ歌": banjin_no_ongaku/vol_01_suisha/01_rakuseishiki_shukuen_no_uta/index.md
+          - "02 來遊ヲ誘フ歌": banjin_no_ongaku/vol_01_suisha/02_raiyu_wo_izanau_uta/index.md
+          - "03 船漕ギノ歌": banjin_no_ongaku/vol_01_suisha/03_fune_kogi_no_uta/index.md
+          - "04 歡迎ノ歌": banjin_no_ongaku/vol_01_suisha/04_kangei_no_uta/index.md
+          - "05 親睦歌": banjin_no_ongaku/vol_01_suisha/05_shinboku_ka/index.md
+          - "06 耕作ノ歌": banjin_no_ongaku/vol_01_suisha/06_kosaku_no_uta/index.md
+          - "07 鳥語ヲ聞イテ戻ル": banjin_no_ongaku/vol_01_suisha/07_torigoto_wo_kiki_irazaru/index.md
+          - "08 出草歌": banjin_no_ongaku/vol_01_suisha/08_shussei_ka/index.md
+          - "09 敵蕃追擊ノ歌": banjin_no_ongaku/vol_01_suisha/09_tekiban_tsuigeki_no_uta/index.md
+          - "10 凱旋ノ歌": banjin_no_ongaku/vol_01_suisha/10_gaisen_no_uta/index.md
+          - "11 看護ノ歌": banjin_no_ongaku/vol_01_suisha/11_kango_no_uta/index.md
+          - "12 酬神": banjin_no_ongaku/vol_01_suisha/12_koshin/index.md
+          - "13 拔齒ノ歌": banjin_no_ongaku/vol_01_suisha/13_basshi_no_uta/index.md
+          - "14 杵舂キ": banjin_no_ongaku/vol_01_suisha/14_kine_tsuki/index.md
+          - "15 杵ノ音律": banjin_no_ongaku/vol_01_suisha/15_kine_no_onritsu/index.md
       - 第二集：アミ族蕃謠歌曲:
           - 總覽: banjin_no_ongaku/vol_02_ami/index.md
           - 書訊與掃描頁: banjin_no_ongaku/vol_02_ami/0_book_info/index.md
@@ -2000,6 +2016,37 @@ nav:
       - "08 三十一里の旅（東海バスの歌）": kayocho_taiwan_angya/08_sanjuichiri_no_tabi/index.md
       - "09 双溪小唄": kayocho_taiwan_angya/09_sokei_kouta/index.md
       - "10 瑞芳小唄": kayocho_taiwan_angya/10_zuiho_kouta/index.md
+  - 臺北高等學校 歌曲集（昭和十五年／1940）:
+      - 總覽: taihoku_koko_kashu_1940/index.md
+      - "01 校歌（第一）": taihoku_koko_kashu_1940/01_koko_kashu_koka_1/index.md
+      - "02 校歌（第二）": taihoku_koko_kashu_1940/02_koko_kashu_koka_2/index.md
+      - "03 七星寮々歌": taihoku_koko_kashu_1940/03_shichisei_ryoka/index.md
+      - "04 新七星寮々歌": taihoku_koko_kashu_1940/04_shin_shichisei_ryoka/index.md
+      - "05 第四回寮祭歌（旅の子）": taihoku_koko_kashu_1940/05_dai_4_kai_ryosaika_tabi_no_ko/index.md
+      - "06 第五回寮祭歌（春月賦）": taihoku_koko_kashu_1940/06_dai_5_kai_ryosaika_shungetsu_fu/index.md
+      - "07 第六回寮祭歌": taihoku_koko_kashu_1940/07_dai_6_kai_ryosaika/index.md
+      - "08 第七回寮祭歌（旅愁）": taihoku_koko_kashu_1940/08_dai_7_kai_ryosaika_ryoshu/index.md
+      - "09 第八回寮祭歌（惜春宵之賦）": taihoku_koko_kashu_1940/09_dai_8_kai_ryosaika_sekishunsho_no_fu/index.md
+      - "10 第九回寮祭歌（中天の想）": taihoku_koko_kashu_1940/10_dai_9_kai_ryosaika_chuten_no_omoi/index.md
+      - "11 第九回記念祭歌": taihoku_koko_kashu_1940/11_dai_9_kai_kinensaika/index.md
+      - "12 第十回記念祭歌": taihoku_koko_kashu_1940/12_dai_10_kai_kinensaika/index.md
+      - "13 第十三回記念祭歌": taihoku_koko_kashu_1940/13_dai_13_kai_kinensaika/index.md
+      - "14 臺高踊歌": taihoku_koko_kashu_1940/14_taiko_odori_uta/index.md
+      - "15 觀月舟行之賦": taihoku_koko_kashu_1940/15_kangetsu_shuko_no_fu/index.md
+      - "16 別離の歌（送る歌）": taihoku_koko_kashu_1940/16_wakare_no_uta/index.md
+      - "17 劍道部々歌": taihoku_koko_kashu_1940/17_kendo_buka/index.md
+      - "18 柔道部々歌": taihoku_koko_kashu_1940/18_judo_buka/index.md
+      - "19 野球部々歌": taihoku_koko_kashu_1940/19_yakyu_buka/index.md
+      - "20 野球部々歌（曲第一）": taihoku_koko_kashu_1940/20_yakyu_buka_kyoku_1/index.md
+      - "21 野球部々歌（曲第二）": taihoku_koko_kashu_1940/21_yakyu_buka_kyoku_2/index.md
+      - "22 競技部々歌": taihoku_koko_kashu_1940/22_kyogi_buka/index.md
+      - "23 水泳部々歌（第一）": taihoku_koko_kashu_1940/23_suiei_buka_kyoku_1/index.md
+      - "24 水泳部々歌（第二）": taihoku_koko_kashu_1940/24_suiei_buka_kyoku_2/index.md
+      - "25 水泳部々歌（第三）": taihoku_koko_kashu_1940/25_suiei_buka_kyoku_3/index.md
+      - "26 庭球部々歌": taihoku_koko_kashu_1940/26_teikyu_buka/index.md
+      - "27 山岳部々歌": taihoku_koko_kashu_1940/27_sangaku_buka/index.md
+      - "28 凱旋歌": taihoku_koko_kashu_1940/28_gaisenka/index.md
+      - "29 野球部應援歌": taihoku_koko_kashu_1940/29_yakyu_buka_oenka/index.md
   - うたのほん（唱歌課本）（昭和十八年／1943）:
       - 下卷（初等科第二學年）:
           - 總覽: utanohon/ge_2006.006.0878/index.md

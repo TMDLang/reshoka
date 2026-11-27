@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1684,
-  "same_title_group_count": 144,
+  "total_corpus_songs": 1726,
+  "same_title_group_count": 148,
   "groups": [
     {
       "title_key": "いかだかずら",
@@ -3361,6 +3361,38 @@
       ]
     },
     {
+      "title_key": "こうか",
+      "title": "校歌",
+      "versions": [
+        {
+          "id": "single:taihoku_koko_kashu_1940/01_koko_kashu_koka_1",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/01_koko_kashu_koka_1",
+              "md_file": "taihoku_koko_kashu_1940/01_koko_kashu_koka_1/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "校歌（第一）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:taihoku_koko_kashu_1940/02_koko_kashu_koka_2",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/02_koko_kashu_koka_2",
+              "md_file": "taihoku_koko_kashu_1940/02_koko_kashu_koka_2/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "校歌（第二）",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "ももたろう",
       "title": "桃太郎／モモタラウ／ももたらう",
       "versions": [
@@ -3661,6 +3693,38 @@
       ]
     },
     {
+      "title_key": "のうた",
+      "title": "歡迎ノ歌／拔齒ノ歌",
+      "versions": [
+        {
+          "id": "single:banjin_no_ongaku/vol_01_suisha/04_kangei_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_01_suisha/04_kangei_no_uta",
+              "md_file": "banjin_no_ongaku/vol_01_suisha/04_kangei_no_uta/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_01_suisha",
+              "raw_title": "歡迎ノ歌",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:banjin_no_ongaku/vol_01_suisha/13_basshi_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_01_suisha/13_basshi_no_uta",
+              "md_file": "banjin_no_ongaku/vol_01_suisha/13_basshi_no_uta/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_01_suisha",
+              "raw_title": "拔齒ノ歌",
+              "year": 9999
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title_key": "ははのおもい",
       "title": "母の思ひ／母のおもひ",
       "versions": [
@@ -3687,6 +3751,51 @@
               "book_label": "《共益商社唱歌教科書》卷一・生徒用（明治38年／1905）",
               "raw_title": "母のおもひ",
               "year": 1905
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "すいえいぶうた",
+      "title": "水泳部々歌",
+      "versions": [
+        {
+          "id": "single:taihoku_koko_kashu_1940/23_suiei_buka_kyoku_1",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/23_suiei_buka_kyoku_1",
+              "md_file": "taihoku_koko_kashu_1940/23_suiei_buka_kyoku_1/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "水泳部々歌（第一）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:taihoku_koko_kashu_1940/24_suiei_buka_kyoku_2",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/24_suiei_buka_kyoku_2",
+              "md_file": "taihoku_koko_kashu_1940/24_suiei_buka_kyoku_2/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "水泳部々歌（第二）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:taihoku_koko_kashu_1940/25_suiei_buka_kyoku_3",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/25_suiei_buka_kyoku_3",
+              "md_file": "taihoku_koko_kashu_1940/25_suiei_buka_kyoku_3/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "水泳部々歌（第三）",
+              "year": 9999
             }
           ]
         }
@@ -4724,8 +4833,21 @@
     },
     {
       "title_key": "こうさくのうた",
-      "title": "耕作の歌",
+      "title": "耕作ノ歌／耕作の歌",
       "versions": [
+        {
+          "id": "single:banjin_no_ongaku/vol_01_suisha/06_kosaku_no_uta",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "banjin_no_ongaku/vol_01_suisha/06_kosaku_no_uta",
+              "md_file": "banjin_no_ongaku/vol_01_suisha/06_kosaku_no_uta/index.md",
+              "book_label": "《蕃人ノ音樂》 vol_01_suisha",
+              "raw_title": "耕作ノ歌",
+              "year": 9999
+            }
+          ]
+        },
         {
           "id": "single:banjin_no_ongaku/vol_02_ami/09_kosaku_no_uta",
           "year": 9999,
@@ -6155,6 +6277,51 @@
               "book_label": "《標準唱歌學習帖》第三學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
               "raw_title": "那須與一",
               "year": 1927
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_key": "やきゅうぶうた",
+      "title": "野球部々歌／野球部應援歌",
+      "versions": [
+        {
+          "id": "single:taihoku_koko_kashu_1940/20_yakyu_buka_kyoku_1",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/20_yakyu_buka_kyoku_1",
+              "md_file": "taihoku_koko_kashu_1940/20_yakyu_buka_kyoku_1/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "野球部々歌（曲第一）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:taihoku_koko_kashu_1940/21_yakyu_buka_kyoku_2",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/21_yakyu_buka_kyoku_2",
+              "md_file": "taihoku_koko_kashu_1940/21_yakyu_buka_kyoku_2/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "野球部々歌（曲第二）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "single:taihoku_koko_kashu_1940/29_yakyu_buka_oenka",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/29_yakyu_buka_oenka",
+              "md_file": "taihoku_koko_kashu_1940/29_yakyu_buka_oenka/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "野球部應援歌",
+              "year": 9999
             }
           ]
         }

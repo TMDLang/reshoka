@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import re
 
 from .catalog import (
     COLLECTIONS_ORDER,
@@ -473,6 +474,7 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
             "taiwan_no_uta",
             "kyoyusho_shoka_1935",
             "kayocho_taiwan_angya",
+            "taihoku_koko_kashu_1940",
         ):
             generate_volume_index(col_dir)
             vol_title = VOLUME_TITLES.get(col_slug, col_slug)
@@ -481,6 +483,19 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                     d
                     for d in col_dir.iterdir()
                     if d.is_dir() and d.name != "0_book_info" and list(d.glob("*.tmd"))
+                ),
+                key=lambda d: natural_sort_key(d.name),
+            )
+            nav_dirs = sorted(
+                (
+                    d
+                    for d in col_dir.iterdir()
+                    if d.is_dir()
+                    and d.name != "0_book_info"
+                    and (
+                        list(d.glob("*.tmd"))
+                        or (col_slug == "taihoku_koko_kashu_1940" and (d / "index.md").exists())
+                    )
                 ),
                 key=lambda d: natural_sort_key(d.name),
             )
@@ -508,9 +523,14 @@ def update_site_indexes_and_mkdocs(docs_dir: Path, mkdocs_path: Path) -> None:
                         f'          - "{label}": {col_slug}/{sdir.name}/index.md'
                     )
             else:
-                for sdir in song_dirs:
-                    main_tmd = choose_main_tmd(sdir)
-                    title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
+                for sdir in nav_dirs:
+                    if list(sdir.glob("*.tmd")):
+                        main_tmd = choose_main_tmd(sdir)
+                        title, _, _, _ = parse_metadata(main_tmd.read_text(encoding="utf-8"))
+                    else:
+                        idx_text = (sdir / "index.md").read_text(encoding="utf-8")
+                        m_h1 = re.search(r"^#\s+(.+)$", idx_text, re.M)
+                        title = m_h1.group(1).strip() if m_h1 else sdir.name
                     prefix = _format_song_nav_prefix(col_slug, sdir.name)
                     label = f"{prefix} {title}".replace(":", "：").replace('"', '\\"')
                     nav_lines.append(f'      - "{label}": {col_slug}/{sdir.name}/index.md')

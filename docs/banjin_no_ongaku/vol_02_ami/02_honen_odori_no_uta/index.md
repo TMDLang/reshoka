@@ -30,7 +30,7 @@ tmd_source:
 
 # 豐年踴の歌（馬蘭社）
 
-> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **原曲伴奏版**：<br><audio controls src="honen_odori_no_uta.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="honen_odori_no_uta_neutrino.mp3"></audio>

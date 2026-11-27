@@ -26,7 +26,7 @@ tmd_source:
 
 # 春のよろこび
 
-> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **鋼琴伴奏版**：<br><audio controls src="haru_no_yorokobi.mp3"></audio>
 

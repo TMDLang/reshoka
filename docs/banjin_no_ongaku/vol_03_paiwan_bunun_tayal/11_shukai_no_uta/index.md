@@ -27,7 +27,7 @@ tmd_source:
 
 # 集會の歌（知本社）
 
-> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **原曲伴奏版**：<br><audio controls src="shukai_no_uta.mp3"></audio>
 

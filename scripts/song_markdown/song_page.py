@@ -7,7 +7,13 @@ import os
 from pathlib import Path
 import re
 
-from .audio import AudioAsset, render_abc, render_analysis, render_song_audio, render_studio_url
+from .audio import (
+    AudioAsset,
+    render_abc,
+    render_analysis,
+    render_song_audio,
+    render_studio_url,
+)
 from .catalog import (
     COLLECTION_TITLES,
     DOCS_ROOT,
@@ -328,7 +334,7 @@ def generate_song_folder(
 
 # {title}
 
-> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 {audio_html}
 

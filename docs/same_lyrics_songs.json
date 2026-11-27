@@ -1,6 +1,6 @@
 {
-  "total_corpus_songs": 1684,
-  "same_lyrics_different_melody_group_count": 25,
+  "total_corpus_songs": 1726,
+  "same_lyrics_different_melody_group_count": 26,
   "groups": [
     {
       "lyrics": "あさかぜさつとふいてきておおはたひらひらこはたひらひろうんどうかいがいまはじまつたあかほうしろぼうみどりのぼうしならぶせいとはけんきにみちてかけだすあしなみいさ",
@@ -1079,6 +1079,40 @@
               "book_label": "《標準唱歌學習帖》第二學年 兒童用（昭和2年／1927，國臺圖 0729 47）",
               "raw_title": "雨",
               "year": 1927
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lyrics": "へいわのひかりやすらかにみなみのくにのもりにいりへきりょくのきにてりそひてせいしんのかげさすところたかきりそおおあおぎつつそうぎょうのいきあふれたるここにけんじ",
+      "titles": [
+        "野球部々歌"
+      ],
+      "versions": [
+        {
+          "id": "taihoku_koko_kashu_1940/20_yakyu_buka_kyoku_1",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/20_yakyu_buka_kyoku_1",
+              "md_file": "taihoku_koko_kashu_1940/20_yakyu_buka_kyoku_1/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "野球部々歌（曲第一）",
+              "year": 9999
+            }
+          ]
+        },
+        {
+          "id": "taihoku_koko_kashu_1940/21_yakyu_buka_kyoku_2",
+          "year": 9999,
+          "occurrences": [
+            {
+              "rel_dir": "taihoku_koko_kashu_1940/21_yakyu_buka_kyoku_2",
+              "md_file": "taihoku_koko_kashu_1940/21_yakyu_buka_kyoku_2/index.md",
+              "book_label": "《臺北高等學校 歌曲集》",
+              "raw_title": "野球部々歌（曲第二）",
+              "year": 9999
             }
           ]
         }

@@ -31,7 +31,7 @@ tmd_source:
 
 # 始政記念日
 
-> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **鋼琴伴奏版**：<br><audio controls src="shisei_kinenbi.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="shisei_kinenbi_neutrino.mp3"></audio>

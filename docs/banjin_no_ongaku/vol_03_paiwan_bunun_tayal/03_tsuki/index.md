@@ -27,7 +27,7 @@ tmd_source:
 
 # 月（卑南社知本社共通童謠之一）
 
-> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎回報。
+> Re:Shōka 使用 AI 協助辨識與重建樂譜，可能會有錯誤。歡迎[回報](https://github.com/TMDLang/reshoka/issues)。
 
 - **原曲伴奏版**：<br><audio controls src="tsuki.mp3"></audio>
 

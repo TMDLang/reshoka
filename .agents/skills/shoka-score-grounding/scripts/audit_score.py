@@ -102,6 +102,17 @@ def audit_tmd(tmd_path: Path) -> bool:
 
     has_warnings = False
 
+    invalid_key_match = re.search(r"^\s*\?=\s*([A-G][b#♭♯])", text, re.MULTILINE)
+    if invalid_key_match:
+        bad_key = invalid_key_match.group(1)
+        fixed_key = bad_key[0] + ("," if bad_key[1] in "b♭" else "'")
+        print(
+            f"  ❌ [非法 TMD 調號語法] 偵測到 `?= {bad_key}`！\n"
+            f"     在 TMD 中降記號必須寫 `,`、升記號必須寫 `'`（應改為 `?= {fixed_key}`），\n"
+            f"     否則會被靜默解析為 `?= {bad_key[0]}` 導致全曲走音半音！"
+        )
+        has_warnings = True
+
     key_match = re.search(r"^\s*\?=\s*([A-G][',]?)", text, re.MULTILINE)
     key_str = key_match.group(1) if key_match else "C"
     tonic_midi = KEY_TONIC_MIDI_MAP.get(key_str, 60)

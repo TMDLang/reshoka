@@ -4,7 +4,7 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ---
 # 詞曲作者索引
 
-> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1684 首歌曲、整理 1412 筆作者標註。
+> 本頁由 `scripts/generate_credits_index.py` 產生；目前掃描 1727 首歌曲、整理 1440 筆作者標註。
 
 作者名稱依歌曲頁現有 credits 欄位整理；括號中的版本、來源或考證註記會保留在歌曲頁，不在此頁另行推定。
 
@@ -1306,6 +1306,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [南の風](kyoyusho_shoka_1935/5_16_minami_no_kaze/index.md)
 
+### 三木政輔 君（1 首）
+
+- [七星寮々歌](taihoku_koko_kashu_1940/03_shichisei_ryoka/index.md)
+
 ### 中山常雄（3 首）
 
 - [これぞ臺灣](kyoyusho_shoka_1935/5_15_korezo_taiwan/index.md)
@@ -1321,6 +1325,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [お二人さん](taiwan_no_uta/8_ofutarisan/index.md)
 - [島の唄](kyoyusho_shoka_1935/7_22_shima_no_uta/index.md)
 - [島の唄](taiwan_no_uta/10_shima_no_uta/index.md)
+
+### 伴元俊 君（1 首）
+
+- [別離の歌（送る歌）](taihoku_koko_kashu_1940/16_wakare_no_uta/index.md)
 
 ### 信時潔（1 首）
 
@@ -1341,6 +1349,14 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 ### 大江田雪太郎（1 首）
 
 - [どんこ節](taiwan_no_uta/9_donko_bushi/index.md)
+
+### 大西安世（1 首）
+
+- [第六回寮祭歌](taihoku_koko_kashu_1940/07_dai_6_kai_ryosaika/index.md)
+
+### 大西安世 氏（1 首）
+
+- [第九回記念祭歌](taihoku_koko_kashu_1940/11_dai_9_kai_kinensaika/index.md)
 
 ### 奧特姆（オータム（1 首）
 
@@ -1375,6 +1391,11 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [日の丸音頭](kyoyusho_shoka_1935/5_19_hinomaru_ondo/index.md)
 
+### 山口房雄 君（2 首）
+
+- [第九回寮祭歌（中天の想）](taihoku_koko_kashu_1940/10_dai_9_kai_ryosaika_chuten_no_omoi/index.md)
+- [第十回記念祭歌](taihoku_koko_kashu_1940/12_dai_10_kai_kinensaika/index.md)
+
 ### 山本正夫（原載《音楽新潮》大正 14 年 5 月號）（1 首）
 
 - [行く春](shokacho/vol_01/p165_yuku_haru/index.md)
@@ -1390,8 +1411,9 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [冬の朝](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_20_fuyu_no_asa/index.md)
 - [平和なる村](shintei_jido_shoka/grade_5_2020.006.0847.0005/3_06_heiwa_naru_mura/index.md)
 
-### 山田耕筰（1 首）
+### 山田耕筰（2 首）
 
+- [校歌（第二）](taihoku_koko_kashu_1940/02_koko_kashu_koka_2/index.md)
 - [里心](kyoyusho_shoka_1935/7_09_satogokoro/index.md)
 
 ### 岡本新市（6 首）
@@ -1413,9 +1435,26 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [はる が きた（春が來た）](kogakko_shoka/grade_2/15_haru_ga_kita/index.md)
 - [春が來た](kyoyusho_shoka_1935/3_01_haru_ga_kita/index.md)
 
+### 村橋靖彥（2 首）
+
+- [新七星寮々歌](taihoku_koko_kashu_1940/04_shin_shichisei_ryoka/index.md)
+- [臺高踊歌](taihoku_koko_kashu_1940/14_taiko_odori_uta/index.md)
+
+### 村橋靖彥 氏（5 首）
+
+- [庭球部々歌](taihoku_koko_kashu_1940/26_teikyu_buka/index.md)
+- [水泳部々歌（第三）](taihoku_koko_kashu_1940/25_suiei_buka_kyoku_3/index.md)
+- [水泳部々歌（第二）](taihoku_koko_kashu_1940/24_suiei_buka_kyoku_2/index.md)
+- [觀月舟行之賦](taihoku_koko_kashu_1940/15_kangetsu_shuko_no_fu/index.md)
+- [野球部々歌（曲第二）](taihoku_koko_kashu_1940/21_yakyu_buka_kyoku_2/index.md)
+
 ### 東京音樂學校（1 首）
 
 - [神社參拜唱歌](kyoyusho_shoka_1935/5_17_jinja_sanpai_shoka/index.md)
+
+### 松原宏 君（1 首）
+
+- [第五回寮祭歌（春月賦）](taihoku_koko_kashu_1940/06_dai_5_kai_ryosaika_shungetsu_fu/index.md)
 
 ### 柚木厚司（2 首）
 
@@ -1442,10 +1481,18 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [雛菊](shintei_jido_shoka/grade_3_2020.006.0847.0003/4_18_hinagiku/index.md)
 - [飛行機](shintei_jido_shoka/grade_5_2020.006.0847.0005/2_04_hikoki/index.md)
 
+### 江上辰郎（1 首）
+
+- [第七回寮祭歌（旅愁）](taihoku_koko_kashu_1940/08_dai_7_kai_ryosaika_ryoshu/index.md)
+
 ### 池田玉子（2 首）
 
 - [臺灣行進歌](kyoyusho_shoka_1935/6_14_taiwan_koshinka/index.md)
 - [臺灣行進歌](taiwan_no_uta/6_taiwan_koshinka/index.md)
+
+### 波部 初雄 氏（1 首）
+
+- [柔道部々歌](taihoku_koko_kashu_1940/18_judo_buka/index.md)
 
 ### 片岡藤太郎（1 首）
 
@@ -1459,6 +1506,10 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [うらしまたらう（浦島太郎）](kogakko_shoka/grade_2/12_urashimataro/index.md)
 - [浦島太郎](kyoyusho_shoka_1935/3_09_urashima_taro/index.md)
+
+### 盛銀河 君（1 首）
+
+- [第十三回記念祭歌](taihoku_koko_kashu_1940/13_dai_13_kai_kinensaika/index.md)
 
 ### 臺灣教育會（2 首）
 
@@ -1474,6 +1525,14 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [樂しき農夫](hyojun_shoka_gakushucho/grade_6/06_tanoshiki_nofu/index.md)
 
+### 花井貞雄 君（1 首）
+
+- [野球部々歌（曲第一）](taihoku_koko_kashu_1940/20_yakyu_buka_kyoku_1/index.md)
+
+### 花井貞雄 君（第一）、村橋靖彥 氏（第二）（1 首）
+
+- [野球部々歌](taihoku_koko_kashu_1940/19_yakyu_buka/index.md)
+
 ### 萊夏特（Johann Friedrich Reichardt）（1 首）
 
 - [獵](hyojun_shoka_gakushucho/grade_6/09_ryo/index.md)
@@ -1482,9 +1541,24 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 
 - [林投節](kyoyusho_shoka_1935/5_20_rinto_bushi/index.md)
 
+### 藤岡保夫 君（1 首）
+
+- [競技部々歌](taihoku_koko_kashu_1940/22_kyogi_buka/index.md)
+
+### 赤尾 寅吉 氏（1 首）
+
+- [劍道部々歌](taihoku_koko_kashu_1940/17_kendo_buka/index.md)
+
 ### 赤尾寅吉（1 首）
 
 - [双溪小唄](kayocho_taiwan_angya/09_sokei_kouta/index.md)
+
+### 赤尾寅吉 氏（4 首）
+
+- [凱旋歌](taihoku_koko_kashu_1940/28_gaisenka/index.md)
+- [山岳部々歌](taihoku_koko_kashu_1940/27_sangaku_buka/index.md)
+- [水泳部々歌（第一）](taihoku_koko_kashu_1940/23_suiei_buka_kyoku_1/index.md)
+- [野球部應援歌](taihoku_koko_kashu_1940/29_yakyu_buka_oenka/index.md)
 
 ### 郭明峯（4 首）
 
@@ -1492,6 +1566,14 @@ description: "依作詞者、作曲者與編曲者整理 Re:shōka 歌曲索引�
 - [水牛](kyoyusho_shoka_1935/2_11_suigyu/index.md)
 - [水牛](shintei_jido_shoka/grade_2_2020.006.0847.0002/2_08_suigyu/index.md)
 - [水牛](taiwan_no_uta/3_suigyu/index.md)
+
+### 鈴木茂雄 君（1 首）
+
+- [第四回寮祭歌（旅の子）](taihoku_koko_kashu_1940/05_dai_4_kai_ryosaika_tabi_no_ko/index.md)
+
+### 阿保寬（臺北高等學校教諭、音樂家）（1 首）
+
+- [校歌（第一）](taihoku_koko_kashu_1940/01_koko_kashu_koka_1/index.md)
 
 ### 陳華堤（4 首）
 
