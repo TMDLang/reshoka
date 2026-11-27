@@ -1,5 +1,5 @@
 site_name: Re:shoka — 日治時期唱歌教材數位重建計畫
-site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 42 冊、1,461 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
+site_description: Re:shoka 是 TMD 電腦音樂語言的非官方子計畫，運用 AI 協助重建 1902–1945 年臺灣與日本唱歌教材的音樂史，收錄 58 冊、1,729 首歷史曲目，提供 MP3、五線譜、歌詞檢索與純文字 TMD 樂譜。
 site_author: TMD Contributors
 site_url: https://tmdlang.github.io/reshoka/
 copyright: Released under the MIT License. In memory of Chen, Chih-Han / aguai (阿怪, 1974–2019)
@@ -1117,6 +1117,7 @@ nav:
           - "15 一月一日": hyojun_shoka_gakushucho/grade_6/15_ichigatsu_ichijitsu/index.md
           - "16 紀元節": hyojun_shoka_gakushucho/grade_6/16_kigensetsu/index.md
   - 臺灣の歌（昭和四年／1929）:
+      - 《臺灣教育》第 319 號〈臺灣の歌 入選歌〉（1929年2月）: taiwan_no_uta/nyusen_1929/index.md
       - 總覽: taiwan_no_uta/index.md
       - 書訊與掃描頁: taiwan_no_uta/0_book_info/index.md
       - "1 臺灣の歌": taiwan_no_uta/1_taiwan_no_uta/index.md

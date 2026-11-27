@@ -211,7 +211,10 @@ def classify_single_text(t: str, col: str, rel: str) -> set[str]:
         origins.add("western_melody")
 
     # 2. 1933 Taiwan Contest
-    if re.search(r"懸賞募集[^\n]*入選|公學校唱歌歌詞懸賞", t_clean) or rel in EXPLICIT_CONTEST_1933_RELS:
+    if (
+        re.search(r"懸賞募集[^\n]*入選|公學校唱歌歌詞懸賞", t_clean)
+        or rel in EXPLICIT_CONTEST_1933_RELS
+    ):
         origins.add("taiwan_contest_1933")
         origins.add("taiwan_official")
 
@@ -261,10 +264,14 @@ def classify_single_text(t: str, col: str, rel: str) -> set[str]:
         origins.add("meiji_textbook")
 
     # 7. Taisho / Showa mainland (only for collections after 1915!)
-    if col not in ("kyoeki_shoka", "taiwan_shuyu_shoka", "kogakko_shokashu_1915") and re.search(
+    if col not in (
+        "kyoeki_shoka",
+        "taiwan_shuyu_shoka",
+        "kogakko_shokashu_1915",
+    ) and re.search(
         r"大正幼年唱歌|新作唱歌|新作楽譜|特選樂譜|新特選楽譜|小学新唱歌|小學唱歌五十曲集|重音唱歌集|中等音樂教科書|中等音楽教科書|大正女學唱歌|"
         r"女子教育音樂教科書|女子音樂教科書|現代女子音樂|實科女學唱歌|女子リードアルバム|唱歌学習帳|音楽新潮|音楽新智識|中華唱歌|青年唱歌|愛吟抄|子供の國|りす|澄宮|"
-        r"野口雨情|本居長世|北原白秋|中山晉平|中山晋平|山田耕筰|山田耕作|葛原|小松耕輔|梁田貞|"
+        r"野口雨情|本居長世|北原白秋|中山晉平|中山晋平|山田耕筰|山田耕筰|葛原|小松耕輔|梁田貞|"
         r"吉丸一昌|室崎琴月|弘田龍太郎|成田為三|成田爲三|草川信|山本壽|永井幸次|北村季晴|"
         r"福井直秋|信時潔|西條八十|相馬御風|林柳波|三木露風|松岸寬一|松岸寛一|杉江秀|桑田春風|"
         r"原田比古士良|大橋銅造|近藤朔風|今中楓溪|東くめ|藤井清水|井上武士|園山民平|中村雨紅|"
@@ -291,7 +298,9 @@ def classify_single_text(t: str, col: str, rel: str) -> set[str]:
     return origins
 
 
-def compute_all_origins() -> tuple[dict[str, Path], dict[str, str], dict[str, set[str]]]:
+def compute_all_origins() -> (
+    tuple[dict[str, Path], dict[str, str], dict[str, set[str]]]
+):
     dup = json.loads(DUP_JSON.read_text(encoding="utf-8"))
     all_paths: dict[str, Path] = {}
     all_texts: dict[str, str] = {}
@@ -398,7 +407,9 @@ def update_tmd_origin_tags(text: str, origins: set[str]) -> str:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--apply", action="store_true", help="Write tag: origin:... to all TMD files")
+    parser.add_argument(
+        "--apply", action="store_true", help="Write tag: origin:... to all TMD files"
+    )
     args = parser.parse_args()
 
     all_paths, all_texts, raw_origins = compute_all_origins()
@@ -411,7 +422,9 @@ def main() -> None:
             if new_txt != old_txt:
                 p.write_text(new_txt, encoding="utf-8")
                 modified_count += 1
-        print(f"Updated {modified_count}/{len(all_paths)} TMD files with tag: origin:...")
+        print(
+            f"Updated {modified_count}/{len(all_paths)} TMD files with tag: origin:..."
+        )
 
     for col in [
         "kyoeki_shoka",

@@ -42,19 +42,19 @@ AI 主動查了中研院的台灣總督府職員名冊資料庫，找到了一�
 
 在第二冊、第三冊中，楊金土除了抄錄儀式歌—他又把[《君が代》](https://tmdlang.github.io/reshoka/shokacho/vol_03/p048a_kimi_ga_yo/)、[《始政紀念日》](https://tmdlang.github.io/reshoka/shokacho/vol_03/p047_shisei_kinembi/)抄了一次，夾了大正天皇的[《銀婚式奉祝行進歌》](https://tmdlang.github.io/reshoka/shokacho/vol_03/p056_ginkonshiki_hoshuku_koshinka/)、昭和天皇的[《皇太子殿下御成婚奉祝提燈行列進行歌》](https://tmdlang.github.io/reshoka/shokacho/vol_03/p061_kotaishi_denka_chochin_gyoretsu_shinkoka/)，還抄了一批來自「大正幼年唱歌」、主要由葛原しげる、梁田貞、小松耕輔創作的歌曲。
 
-| 手抄題名           | 原題記出處                 | 詞 / 曲作者               |
-| ------------------ | -------------------------- | ------------------------- |
-| [オサル（お猿）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p069_osaru/) | 大正幼年唱歌 第六集        | 葛原しげる 詞/梁田貞 曲   |
-| [トンボ（蜻蛉）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p070a_tonbo/) | 大正幼年唱歌 第六集        | 葛原しげる 詞/小松耕輔 曲 |
-| [ヒヨコ（雛）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p070b_hiyoko/) | 大正幼年唱歌 第五集 廿三頁 | 葛原しげる 詞/小松耕輔 曲 |
-| [汽車](https://tmdlang.github.io/reshoka/shokacho/vol_02/p071_kisha/) | 大正幼年唱歌 第二集 十九頁 | 葛原しげる 詞/梁田貞 曲   |
-| [ピアノ（鋼琴）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p072_piano/) | 大正幼年唱歌 第二集        | 葛原しげる 詞/梁田貞 曲   |
-| [オ日様（お日様）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p073_ohisama/) | 大正幼年唱歌 第八集        | 葛原しげる 詞/梁田貞 曲   |
-| [軍艦](https://tmdlang.github.io/reshoka/shokacho/vol_02/p074_gunkan/) | 大正幼年唱歌 第二集 廿九頁 | 葛原しげる 詞/小松耕輔 曲 |
-| [大砲](https://tmdlang.github.io/reshoka/shokacho/vol_02/p075_taiho/) | 大正幼年唱歌 第八集        | 葛原しげる 詞/梁田貞 曲   |
-| [ゴモン（御門）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p078_gomon/) | 大正幼年唱歌 第五集        | 葛原しげる 詞/梁田貞 曲   |
+| 手抄題名                                                                                  | 原題記出處                 | 詞 / 曲作者               |
+| ----------------------------------------------------------------------------------------- | -------------------------- | ------------------------- |
+| [オサル（お猿）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p069_osaru/)           | 大正幼年唱歌 第六集        | 葛原しげる 詞/梁田貞 曲   |
+| [トンボ（蜻蛉）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p070a_tonbo/)          | 大正幼年唱歌 第六集        | 葛原しげる 詞/小松耕輔 曲 |
+| [ヒヨコ（雛）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p070b_hiyoko/)           | 大正幼年唱歌 第五集 廿三頁 | 葛原しげる 詞/小松耕輔 曲 |
+| [汽車](https://tmdlang.github.io/reshoka/shokacho/vol_02/p071_kisha/)                     | 大正幼年唱歌 第二集 十九頁 | 葛原しげる 詞/梁田貞 曲   |
+| [ピアノ（鋼琴）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p072_piano/)           | 大正幼年唱歌 第二集        | 葛原しげる 詞/梁田貞 曲   |
+| [オ日様（お日様）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p073_ohisama/)       | 大正幼年唱歌 第八集        | 葛原しげる 詞/梁田貞 曲   |
+| [軍艦](https://tmdlang.github.io/reshoka/shokacho/vol_02/p074_gunkan/)                    | 大正幼年唱歌 第二集 廿九頁 | 葛原しげる 詞/小松耕輔 曲 |
+| [大砲](https://tmdlang.github.io/reshoka/shokacho/vol_02/p075_taiho/)                     | 大正幼年唱歌 第八集        | 葛原しげる 詞/梁田貞 曲   |
+| [ゴモン（御門）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p078_gomon/)           | 大正幼年唱歌 第五集        | 葛原しげる 詞/梁田貞 曲   |
 | [カタツムリ（蝸牛）](https://tmdlang.github.io/reshoka/shokacho/vol_02/p079_katatsumuri/) | 大正幼年唱歌 第五集        | 葛原しげる 詞/小松耕輔 曲 |
-| [太陽](https://tmdlang.github.io/reshoka/shokacho/vol_02/p107_taiyo/) | 大正幼年唱歌 第十二集      | 葛原しげる 詞/俄羅斯民謠  |
+| [太陽](https://tmdlang.github.io/reshoka/shokacho/vol_02/p107_taiyo/)                     | 大正幼年唱歌 第十二集      | 葛原しげる 詞/俄羅斯民謠  |
 
 《大正幼年唱歌》是一份 1915 年開始發行的期刊，每期刊載 10 首歌，總共發行 12 期，之後目黑書店發行了合訂本。從抄錄頁碼來看，楊金土應該是從分冊上，而不是從合訂本抄錄，我們也無法判斷他是否有完整的《大正幼年唱歌》。根據一份日本網站上的[資料](https://bunbun.boo.jp/okera/w_shouka/tosho/book_m03.htm)，當時標定的售價是 2 圓 50 錢，運到台灣之後可能還會提高售價。
 
@@ -135,7 +135,7 @@ AI 主動查了中研院的台灣總督府職員名冊資料庫，找到了一�
 - [だるま（達摩）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/3_01_daruma/)（葛原しげる 詞/小松耕輔 曲）
 - [七面鳥](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/)（葛原しげる 詞/梁田貞 曲）
 - [ユフヒ（夕陽）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/4_10_yuhi/)（葛原しげる 詞/室崎琴月 曲）
-- [キンギヨ（金魚）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/1_09_kingyo/)（葛原幽 詞/梁田貞 曲）
+- [キンギヨ（金魚）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/1_09_kingyo/)（葛原𦱳 詞/梁田貞 曲）
 - [一ツボシ（一顆星）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/4_11_hitotsuboshi/)（室崎琴月 曲）
 - [テフトハルカゼ（蝴蝶與春風）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/4_02_cho_to_harukaze/)（葛原しげる 詞/梁田貞 曲）
 - [アワテトコヤ（匆忙理髮店）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/4_04_awate_tokoya/)（北原白秋 詞/成田為三 曲）

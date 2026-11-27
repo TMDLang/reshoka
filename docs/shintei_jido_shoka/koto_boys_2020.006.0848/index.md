@@ -108,7 +108,7 @@ image: "0_book_info/P001.jpg"
 | (3) | [**現人神**](2_3_03_arahitogami/index.md) | 詞：鳥居忱 / 曲：アーン（英）（Arne） | `?=G` `<4/4>` `!=88` | P108.jpg, P109.jpg |
 | (4) | [**突貫**](2_3_04_tokkan/index.md) | 詞：大和田建樹 / 曲：リール（佛）（Claude Joseph Rouget de Lisle，佛國國歌） | `?=G` `<4/4>` `!=116` | P110.jpg, P111.jpg |
 | (5) | [**如意輪堂**](2_3_05_nyoirindo/index.md) | 詞：松谷代水（杉谷代水） / 曲：田村虎藏 | `?=C` `<4/4>` `!=84` | P112.jpg |
-| (6) | [**青年の歌**](2_3_06_seinen_no_uta/index.md) | 曲：山田耕作 | `?=D` `<4/4>` `!=108` | P113.jpg |
+| (6) | [**青年の歌**](2_3_06_seinen_no_uta/index.md) | 曲：山田耕筰 | `?=D` `<4/4>` `!=108` | P113.jpg |
 | (7) | [**八洲の民**](2_3_07_yashima_no_tami/index.md) | 詞：稻垣千頴 / 曲：小山作之助 | `?=G` `<4/4>` `!=108` | P114.jpg, P115.jpg |
 | (8) | [**心の力**](2_3_08_kokoro_no_chikara/index.md) | — | `?=G` `<4/4>` `!=104` | P116.jpg, P117.jpg |
 

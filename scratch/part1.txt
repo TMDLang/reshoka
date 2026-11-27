@@ -135,7 +135,7 @@ AI 主動查了中研院的台灣總督府職員名冊資料庫，找到了一�
 - [だるま（達摩）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/3_01_daruma/)（葛原しげる 詞/小松耕輔 曲）
 - [七面鳥](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/3_06_shichimencho/)（葛原しげる 詞/梁田貞 曲）
 - [ユフヒ（夕陽）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/4_10_yuhi/)（葛原しげる 詞/室崎琴月 曲）
-- [キンギヨ（金魚）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/1_09_kingyo/)（葛原幽 詞/梁田貞 曲）
+- [キンギヨ（金魚）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/1_09_kingyo/)（葛原𦱳 詞/梁田貞 曲）
 - [一ツボシ（一顆星）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/4_11_hitotsuboshi/)（室崎琴月 曲）
 - [テフトハルカゼ（蝴蝶與春風）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/4_02_cho_to_harukaze/)（葛原しげる 詞/梁田貞 曲）
 - [アワテトコヤ（匆忙理髮店）](https://tmdlang.github.io/reshoka/shintei_jido_shoka/grade_2_2020.006.0847.0002/4_04_awate_tokoya/)（北原白秋 詞/成田為三 曲）

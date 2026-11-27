@@ -4,12 +4,12 @@ song_title: "冬の朝"
 song_id: "shintei_jido_shoka_grade_3_2020.006.0847.0003_4_20_fuyu_no_asa"
 collection: "shintei_jido_shoka"
 volume: "grade_3_2020.006.0847.0003"
-description: "〈冬の朝〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（三木露風 作詞 / 山田耕作 作曲），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、すゞめこぼれた　米拾ふ チュッ　チョン　チュッ　チョン　チュ…"
-keywords: "冬の朝, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風 作詞 / 山田耕作 作曲"
+description: "〈冬の朝〉收錄於日治時期臺灣《新定兒童唱歌》（尋常科 第三學年用（臺史博 2020.006.0847.0003））（三木露風 作詞 / 山田耕筰 作曲），調號拍號：C 2/4。提供鋼琴伴奏版、NEUTRINO 歌聲合成版等音訊版本線上試聽、五線譜、純文字 TMD 樂譜與原書掃描圖檔。歌詞：一、すゞめこぼれた　米拾ふ チュッ　チョン　チュッ　チョン　チュ…"
+keywords: "冬の朝, 新定兒童唱歌, 尋常科 第三學年, 日治時期, 臺灣音樂史, 公學校唱歌, 五線譜, TMD, 三木露風 作詞 / 山田耕筰 作曲"
 schema_type: "MusicComposition"
 is_part_of: "《新定兒童唱歌》 尋常科 第三學年用（臺史博 2020.006.0847.0003）"
 credits:
-  - "三木露風 作詞 / 山田耕作 作曲"
+  - "三木露風 作詞 / 山田耕筰 作曲"
 sources:
   - "臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）"
 musical_key: "C"
@@ -36,14 +36,14 @@ tmd_source:
 - **鋼琴伴奏版**：<br><audio controls src="fuyu_no_asa.mp3"></audio>
 - **NEUTRINO 歌聲合成版**：<br><audio controls src="fuyu_no_asa_neutrino.mp3"></audio>
 
-- 三木露風 作詞 / 山田耕作 作曲
+- 三木露風 作詞 / 山田耕筰 作曲
 - 臺灣教育會公認《新定兒童唱歌》尋常科第三學年用（2020.006.0847.0003）
 
 ## 說明
 
 Reference Materials 20: 冬の朝 (Fuyu no Asa / Winter Morning)
 Source: 臺灣教育會公認 新定兒童唱歌 尋常科第三學年用 (1934), p. 62 (P085.jpg)
-Lyricist: 三木露風 (Miki Rofū) / Composer: 山田耕作 (Yamada Kōsaku)
+Lyricist: 三木露風 (Miki Rofū) / Composer: 山田耕筰 (Yamada Kōsaku)
 Key: C major (?= C), 2/4 (<2/4>), 面白ゲニ Quarter = 88 (!= 88)
 
 
